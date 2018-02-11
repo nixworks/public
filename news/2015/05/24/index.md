@@ -9,7 +9,7 @@ Taliban insurgents attacked police checkpoints Sunday in volatile southern Afgha
 
 ##### 2015 Burundian unrest
 ### [The Burundi opposition suspends talks with the Government of President Pierre Nkurunziza following the assassination of opposition leader Zedi Feruzi of the Union for Peace and Development party yesterday. ](/news/2015/05/24/the-burundi-opposition-suspends-talks-with-the-government-of-president-pierre-nkurunziza-following-the-assassination-of-opposition-leader-ze.md)
-_Context: Presidents, 2015 Burundian unrest, Union for Peace and Development, Zedi Feruzi, Pierre Nkurunziza, Burundi_
+_Context: 2015 Burundian unrest, Union for Peace and Development, Presidents, Zedi Feruzi, Burundi, Pierre Nkurunziza_
 
 ##### Syrian Civil War
 ### [A Syrian military helicopter crashes near the town of Kweiras killing all on board. ](/news/2015/05/24/a-syrian-military-helicopter-crashes-near-the-town-of-kweiras-killing-all-on-board.md)
@@ -41,7 +41,7 @@ The international community must challenge Ethiopia’s oppressive regime by giv
 
 ##### Nobel Prize
 ### [Nobel Prize winner John Forbes Nash, Jr. and his wife Alicia died in a taxi accident. ](/news/2015/05/24/nobel-prize-winner-john-forbes-nash-jr-and-his-wife-alicia-died-in-a-taxi-accident.md)
-_Context: accident, John Forbes Nash, Jr., taxi, Nobel Prize_
+_Context: John Forbes Nash, Jr., accident, taxi, Nobel Prize_
 
 ## [Previous Day...](/news/2015/05/23/index.md)
 

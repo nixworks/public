@@ -9,7 +9,7 @@ _Context: Juba, South Sudan_
 
 ##### Syrian Observatory for Human Rights
 ### [The Syrian Observatory for Human Rights claims that barrel bomb airstrikes by the Syrian government on the city of Aleppo kill at least 76 people. ](/news/2013/12/16/the-syrian-observatory-for-human-rights-claims-that-barrel-bomb-airstrikes-by-the-syrian-government-on-the-city-of-aleppo-kill-at-least-76-p.md)
-_Context: barrel bomb, Syrian Observatory for Human Rights, Aleppo_
+_Context: Syrian Observatory for Human Rights, barrel bomb, Aleppo_
 
 ##### Israeli Army
 ### [The Israeli Army exchanges fire with the Lebanese Army after a suspected sniper attack occurs in the border killing an Israeli soldier. ](/news/2013/12/16/the-israeli-army-exchanges-fire-with-the-lebanese-army-after-a-suspected-sniper-attack-occurs-in-the-border-killing-an-israeli-soldier.md)
@@ -17,7 +17,7 @@ Military liaison officers met with representatives of the United Nations peaceke
 
 ##### Sister Wives
 ### [The 'stars' of the reality show "Sister Wives" win a landmark ruling that struck out a portion of a polygamy law in Utah. ](/news/2013/12/16/the-stars-of-the-reality-show-sister-wives-win-a-landmark-ruling-that-struck-out-a-portion-of-a-polygamy-law-in-utah.md)
-_Context: polygamy, Utah, Sister Wives_
+_Context: Sister Wives, polygamy, Utah_
 
 ##### Google
 ### [For an undisclosed price, Google acquires the robot-making company Boston Dynamics which had previously been contracted by the U.S. military. ](/news/2013/12/16/for-an-undisclosed-price-google-acquires-the-robot-making-company-boston-dynamics-which-had-previously-been-contracted-by-the-u-s-military.md)
@@ -49,7 +49,7 @@ _Context: Sebastian Kurz_
 
 ##### Arctic sea ice
 ### [Arctic sea ice rebounds in extent and in volume after years of recession. ](/news/2013/12/16/arctic-sea-ice-rebounds-in-extent-and-in-volume-after-years-of-recession.md)
-_Context: Arctic sea ice, Climate change in the Arctic_
+_Context: Climate change in the Arctic, Arctic sea ice_
 
 ## [Previous Day...](/news/2013/12/15/index.md)
 

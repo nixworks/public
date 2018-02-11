@@ -5,7 +5,7 @@ Formats: [HTML](2016/09/3/index.html)  [JSON](2016/09/3/index.json)  [XML](2016/
 
 ##### President
 ### [The President of the Philippines Rodrigo Duterte declares a nationwide "state of lawlessness" after yesterday's bombing in Davao City that has killed at least 14 people. ](/news/2016/09/3/the-president-of-the-philippines-rodrigo-duterte-declares-a-nationwide-state-of-lawlessness-after-yesterday-s-bombing-in-davao-city-that-h.md)
-_Context: 2016 Davao City bombing, President, Davao City, Rodrigo Duterte_
+_Context: 2016 Davao City bombing, Rodrigo Duterte, Davao City, President_
 
 ##### Bees and toxic chemicals
 ### [Over 3 million bees die in South Carolina after being exposed to pesticides intended for mosquitoes carrying the Zika virus. ](/news/2016/09/3/over-3-million-bees-die-in-south-carolina-after-being-exposed-to-pesticides-intended-for-mosquitoes-carrying-the-zika-virus.md)

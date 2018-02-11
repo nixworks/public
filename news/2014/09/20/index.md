@@ -25,7 +25,7 @@ Tropical storm Fung-Wong churns towards Taiwan after killing at least five peopl
 
 ##### Bingham McCutchen
 ### [Two high-visibility U.S based law firms Bingham McCutchen of Boston, Massachusetts and Philadelphia's Morgan Lewis & Bockius, have decided to merge, according to a Reuters report relying on confidential sources. ](/news/2014/09/20/two-high-visibility-u-s-based-law-firms-bingham-mccutchen-of-boston-massachusetts-and-philadelphia-s-morgan-lewis-bockius-have-decided-t.md)
-_Context: Philadelphia, Morgan Lewis & Bockius, Bingham McCutchen, Reuters, Boston, Massachusetts_
+_Context: Morgan Lewis & Bockius, Bingham McCutchen, Philadelphia, Boston, Massachusetts, Reuters_
 
 ##### New Zealand
 ### [Voters in New Zealand go to the polls for a general election. ](/news/2014/09/20/voters-in-new-zealand-go-to-the-polls-for-a-general-election.md)
@@ -33,7 +33,7 @@ Forget dirty politics, high-profile scalps and accusations of lies and spies - J
 
 ##### Member of the European Parliament
 ### [Slovenian MEPs of the European People's Party announce that they will vote against the new line-up of the European Commission on 22 October unless former PM Alenka Bratusek is replaced as Slovenia's commissioner. ](/news/2014/09/20/slovenian-meps-of-the-european-people-s-party-announce-that-they-will-vote-against-the-new-line-up-of-the-european-commission-on-22-october.md)
-_Context: Alenka Bratusek, biggest bloc, Member of the European Parliament, European Commission, Slovenia_
+_Context: Alenka Bratusek, Slovenia, Member of the European Parliament, biggest bloc, European Commission_
 
 ## [Previous Day...](/news/2014/09/19/index.md)
 

@@ -29,15 +29,15 @@ Two men convicted of the murder of Stephen Lawrence have been given life sentenc
 
 ##### Mexican
 ### [Mexican drug cartel kingpin Benjamn Arellano Flix pleads guilty to racketeering and conspiracy to launder money in the United States. ](/news/2012/01/4/mexican-drug-cartel-kingpin-benjamin-arellano-felix-pleads-guilty-to-racketeering-and-conspiracy-to-launder-money-in-the-united-states.md)
-_Context: United States, Benjamn Arellano Flix, racketeering, money laundering, Mexican_
+_Context: racketeering, money laundering, Mexican, Benjamn Arellano Flix, American_
 
 ##### President of Argentina
 ### [The President of Argentina Cristina Fernndez de Kirchner temporarily hands over power to her Vice-President Amado Boudou ahead of surgery for thyroid cancer. ](/news/2012/01/4/the-president-of-argentina-cristina-fernandez-de-kirchner-temporarily-hands-over-power-to-her-vice-president-amado-boudou-ahead-of-surgery-f.md)
-_Context: Cristina Kirchner, Amado Boudou, President of Argentina, thyroid cancer_
+_Context: Amado Boudou, thyroid cancer, Cristina Kirchner, President of Argentina_
 
 ##### Mitt Romney
 ### [Republican primary candidate and former Massachusetts governor Mitt Romney wins the 2012 Iowa Caucus, with candidate and former U.S. Senator Rick Santorum behind by eight votes; Congressman Ron Paul had a strong showing in third place. ](/news/2012/01/4/republican-primary-candidate-and-former-massachusetts-governor-mitt-romney-wins-the-2012-iowa-caucus-with-candidate-and-former-u-s-senator.md)
-_Context: Ron Paul, Mitt Romney, 2012 Iowa Caucus, Rick Santorum_
+_Context: 2012 Iowa Caucus, Mitt Romney, Ron Paul, Rick Santorum_
 
 ##### Greek Prime Minister
 ### [Former Prime Minister of Greece George Papandreou announces that he will resign as head of the Panhellenic Socialist Movement. ](/news/2012/01/4/former-prime-minister-of-greece-george-papandreou-announces-that-he-will-resign-as-head-of-the-panhellenic-socialist-movement.md)

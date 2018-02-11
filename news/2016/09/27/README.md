@@ -9,11 +9,11 @@ The Syrian army and its allies fought intense clashes with insurgents in the opp
 
 ##### Iraqi Civil War (2014-present)
 ### [Three bombings kill at least 17 people in Baghdad. ](/news/2016/09/27/three-bombings-kill-at-least-17-people-in-baghdad.md)
-_Context: Iraqi Civil War (2014-present), Baghdad_
+_Context: Baghdad, Iraqi Civil War (2014-present)_
 
 ##### 2016 Pacific typhoon season
 ### [Taiwan authorities close schools and offices as Typhoon Megi approaches the island. ](/news/2016/09/27/taiwan-authorities-close-schools-and-offices-as-typhoon-megi-approaches-the-island.md)
-_Context: Taiwan, 2016 Pacific typhoon season, Typhoon Megi_
+_Context: Taiwan, Typhoon Megi, 2016 Pacific typhoon season_
 
 ##### Nepal
 ### [A bus skids off a mountain road in central Nepal, killing at least 19 people and injuring more than a dozen others. ](/news/2016/09/27/a-bus-skids-off-a-mountain-road-in-central-nepal-killing-at-least-19-people-and-injuring-more-than-a-dozen-others.md)

@@ -5,11 +5,11 @@ Formats: [HTML](2006/07/9/index.html)  [JSON](2006/07/9/index.json)  [XML](2006/
 
 ##### Son of Beast
 ### [ 25 people are injured on the Son of Beast wooden roller coaster near Cincinnati, Ohio, United States, as it came to a rapid stop. Several rescue units were sent to the scene. ](/news/2006/07/9/25-people-are-injured-on-the-son-of-beast-wooden-roller-coaster-near-cincinnati-ohio-united-states-as-it-came-to-a-rapid-stop-several-r.md)
-_Context: Cincinnati, Ohio, roller coaster, United States, Son of Beast_
+_Context: Cincinnati, Ohio, roller coaster, American, Son of Beast_
 
 ##### French
 ### [ 2006 FIFA World Cup: Italy defeats France in the final game of the FIFA World Cup. The score remained 1-1 after both regulation time and extra time; however, Italy won 5-3 in penalty kicks. The match is marred by the dismissal of Zinedine Zidane in the second period of Extra Time. ](/news/2006/07/9/2006-fifa-world-cup-italy-defeats-france-in-the-final-game-of-the-fifa-world-cup-the-score-remained-1-1-after-both-regulation-time-and-ex.md)
-_Context: Extra Time, dismissal, French, defending champion, Italy, Zinedine Zidane_
+_Context: Zinedine Zidane, Extra Time, Italy, dismissal, defending champion, French_
 
 ##### Israel
 ### [ Israeli prime minister Ehud Olmert says Operation Summer Rains will only end once abducted soldier Gilad Shalit is released: "There is no intention to reoccupy Gaza in order to stay there, but if certain operations are needed they will be carried out". ](/news/2006/07/9/israeli-prime-minister-ehud-olmert-says-operation-summer-rains-will-only-end-once-abducted-soldier-gilad-shalit-is-released-there-is-no-i.md)
@@ -21,11 +21,11 @@ _Context: massacred, sectarian conflict, Baghdad_
 
 ##### Hindu nationalist
 ### [ Hindu nationalists riot in and around the Indian city of Mumbai (Bombay), attacking a police station, burning buses, forcing businesses shut and halting public transport. ](/news/2006/07/9/hindu-nationalists-riot-in-and-around-the-indian-city-of-mumbai-bombay-attacking-a-police-station-burning-buses-forcing-businesses-shu.md)
-_Context: Hindu nationalist, Mumbai, Bombay, India_
+_Context: Bombay, India, Hindu nationalist, Mumbai_
 
 ##### India
 ### [ The Indian government bans export of pulses due to domestic shortages. This has led to price hikes for pulses in Bangladesh and other countries. ](/news/2006/07/9/the-indian-government-bans-export-of-pulses-due-to-domestic-shortages-this-has-led-to-price-hikes-for-pulses-in-bangladesh-and-other-count.md)
-_Context: pulses, bans export of pulses, Bangladesh, India_
+_Context: Bangladesh, pulses, bans export of pulses, India_
 
 ##### S7 Airlines
 ### [ A S7 Airlines Airbus A310 crashes on landing in Irkutsk, Siberia, with many of the 200 passengers feared dead. ](/news/2006/07/9/a-s7-airlines-airbus-a310-crashes-on-landing-in-irkutsk-siberia-with-many-of-the-200-passengers-feared-dead.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2012/01/6/index.html)  [JSON](2012/01/6/index.json)  [XML](2012/
 
 ##### 2011-2012 Syrian uprising
 ### [2011-2012 Syrian uprising: According to Syrian state media, 26 people are killed and 63 wounded when a suicide bomber blows himself up at a police station in Damascus. The Syrian opposition blames the Syrian government for orchestrating the attack, and alleges that they have leaked information from security forces that Aleppo is next. ](/news/2012/01/6/2011a2012-syrian-uprising-according-to-syrian-state-media-26-people-are-killed-and-63-wounded-when-a-suicide-bomber-blows-himself-up-at.md)
-_Context: 26 people are killed and 63 wounded, suicide bomber, 2011-2012 Syrian uprising, Damascus_
+_Context: Damascus, 26 people are killed and 63 wounded, suicide bomber, 2011-2012 Syrian uprising_
 
 ##### Asa'ib Ahl al-Haq
 ### [Asa'ib Ahl al-Haq, the Iranian-backed Shiite militia that carried out deadly attacks on U.S. troops agrees to lay down its arms and join the political process in Iraq. ](/news/2012/01/6/asa-ib-ahl-al-haq-the-iranian-backed-shiite-militia-that-carried-out-deadly-attacks-on-u-s-troops-agrees-to-lay-down-its-arms-and-join-the.md)
@@ -21,19 +21,19 @@ http://www.euronews.net/ More than 45,000 Facebook accounts - mostly in the UK a
 
 ##### Symantec
 ### [Symantec, maker of the popular Norton antivirus software, acknowledges that hackers have acquired "a segment of its source code," a partial confirmation of claims made by the Lords of Dharmaraja. ](/news/2012/01/6/symantec-maker-of-the-popular-norton-antivirus-software-acknowledges-that-hackers-have-acquired-a-segment-of-its-source-code-a-partial.md)
-_Context: Symantec, Norton, Lords of Dharmaraja_
+_Context: Lords of Dharmaraja, Norton, Symantec_
 
 ##### Tibet
 ### [A Tibetan protester sets himself on fire in Sichuan, China. ](/news/2012/01/6/a-tibetan-protester-sets-himself-on-fire-in-sichuan-china.md)
-_Context: Tibet, China, Sichuan_
+_Context: China, Sichuan, Tibet_
 
 ##### Jamaica
 ### [The Jamaican Prime Minister Portia Simpson-Miller announces that the country is to become a republic, with plans to remove Queen Elizabeth II as head of state and the Jamaican monarchy in general. ](/news/2012/01/6/the-jamaican-prime-minister-portia-simpson-miller-announces-that-the-country-is-to-become-a-republic-with-plans-to-remove-queen-elizabeth-i.md)
-_Context: Portia Simpson-Miller, Queen Elizabeth II, Jamaica, Jamaican monarchy, republic_
+_Context: republic, Queen Elizabeth II, Portia Simpson-Miller, Jamaica, Jamaican monarchy_
 
 ##### Peter MacKay
 ### [Peter MacKay, Canadian Minister of Defence. marries Nazanin Afshin-Jam, an Iranian former beauty queen, in a private ceremony in Mexico. ](/news/2012/01/6/peter-mackay-canadian-minister-of-defence-marries-nazanin-afshin-jam-an-iranian-former-beauty-queen-in-a-private-ceremony-in-mexico.md)
-_Context: Peter MacKay, Nazanin Afshin-Jam, Mexican_
+_Context: Mexican, Nazanin Afshin-Jam, Peter MacKay_
 
 ## [Previous Day...](/news/2012/01/5/index.md)
 

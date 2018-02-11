@@ -17,7 +17,7 @@ Dozens of people including foreign nationals are killed in Laos as a plane crash
 
 ##### Typhoon Wipha
 ### [Typhoon Wipha hits Japan resulting in at least 14 deaths. ](/news/2013/10/16/typhoon-wipha-hits-japan-resulting-in-at-least-14-deaths.md)
-_Context: Typhoon Wipha, Japan_
+_Context: Japan, Typhoon Wipha_
 
 ##### Panama
 ### [A Panamanian registered ship sinks off the coast of South Korea, killing 9 sailors and leaving 2 others missing. Coast Guard officials rescue another 8 crew members. ](/news/2013/10/16/a-panamanian-registered-ship-sinks-off-the-coast-of-south-korea-killing-9-sailors-and-leaving-2-others-missing-coast-guard-officials-rescu.md)

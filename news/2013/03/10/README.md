@@ -5,15 +5,15 @@ Formats: [HTML](2013/03/10/index.html)  [JSON](2013/03/10/index.json)  [XML](201
 
 ##### Afghanistan President
 ### [President of Afghanistan Hamid Karzai alleges that the U.S. armed forces are collaborating in some way with the Afghan Taliban in an effort to ensure that some troops remain after the scheduled 2014 pullout. ](/news/2013/03/10/president-of-afghanistan-hamid-karzai-alleges-that-the-u-s-armed-forces-are-collaborating-in-some-way-with-the-afghan-taliban-in-an-effort.md)
-_Context: United States military personnel, U.S. withdrawal, Afghanistan President, Hamid Karzai, United States, Afghanistan, Afghan Taliban_
+_Context: U.S. withdrawal, Hamid Karzai, Afghanistan President, Afghanistan, American, Afghan Taliban, United States military personnel_
 
 ##### Christian
 ### [Hundreds of Christian protestors clash with police across Pakistan after the burning of Christian houses in Lahore. ](/news/2013/03/10/hundreds-of-christian-protestors-clash-with-police-across-pakistan-after-the-burning-of-christian-houses-in-lahore.md)
-_Context: Lahore, Pakistan, Christian, Christian_
+_Context: Pakistan, Lahore, Christian, Christian_
 
 ##### Nigeria
 ### [Nigerian militants belonging to Ansar al-Muslimeen claim responsibility to kidnapping and killing Italian, Greek, and British construction workers in Northern Nigeria. ](/news/2013/03/10/nigerian-militants-belonging-to-ansar-al-muslimeen-claim-responsibility-to-kidnapping-and-killing-italian-greek-and-british-construction-w.md)
-_Context: Greece, Nigeria, United Kingdom, Northern Nigeria, Ansaru, Italy_
+_Context: Nigeria, Northern Nigeria, Ansaru, Greece, United Kingdom, Italy_
 
 ##### Daylight Saving Time
 ### [Daylight saving time goes into effect across the United States (except Arizona and Hawaii) and Canada (except Saskatchewan). ](/news/2013/03/10/daylight-saving-time-goes-into-effect-across-the-united-states-except-arizona-and-hawaii-and-canada-except-saskatchewan.md)
@@ -29,15 +29,15 @@ A dog called Jilly, who despite a very ordinary name is a Petit Basset Griffon V
 
 ##### Warren
 ### [Six teenagers are killed and two other people are injured in a car accident near Warren, Ohio, United States. It is the deadliest accident in Trumbull County history and the deadliest in Ohio in three years. ](/news/2013/03/10/six-teenagers-are-killed-and-two-other-people-are-injured-in-a-car-accident-near-warren-ohio-united-states-it-is-the-deadliest-accident-i.md)
-_Context: Trumbull County, United States, Warren, Ohio_
+_Context: Ohio, Warren, American, Trumbull County_
 
 ##### Chevrolet
 ### [Five teenagers are killed after a Chevrolet SUV and a gas tanker collide at the intersection of two county roads in Dumas, Texas, United States. ](/news/2013/03/10/five-teenagers-are-killed-after-a-chevrolet-suv-and-a-gas-tanker-collide-at-the-intersection-of-two-county-roads-in-dumas-texas-united-sta.md)
-_Context: Texas, gas tanker, Dumas, SUV, United States, Chevrolet_
+_Context: SUV, Dumas, gas tanker, American, Texas, Chevrolet_
 
 ##### Sierra Leone
 ### [The head of Sierra Leone's Anti-corruption Commission says that 29 government health officials will appear in court on corruption charges for having allegedly defrauded the Bill & Melinda Gates Foundation's vaccine programme. ](/news/2013/03/10/the-head-of-sierra-leone-s-anti-corruption-commission-says-that-29-government-health-officials-will-appear-in-court-on-corruption-charges-fo.md)
-_Context: Bill & Melinda Gates Foundation, Anti-corruption Commission, Sierra Leone, vaccine_
+_Context: Bill & Melinda Gates Foundation, vaccine, Sierra Leone, Anti-corruption Commission_
 
 ##### Mexican Navy
 ### [The Mexican Navy frees 104 Central American kidnapped migrants from a house in Nuevo Laredo, Tamaulipas. ](/news/2013/03/10/the-mexican-navy-frees-104-central-american-kidnapped-migrants-from-a-house-in-nuevo-laredo-tamaulipas.md)
@@ -45,7 +45,7 @@ _Context: Nuevo Laredo, Tamaulipas, Mexican Navy, Central America_
 
 ##### Burma
 ### [The Burmese National League for Democracy reelects Aung San Suu Kyi as its leader. ](/news/2013/03/10/the-burmese-national-league-for-democracy-reelects-aung-san-suu-kyi-as-its-leader.md)
-_Context: National League for Democracy, Aung San Suu Kyi, Burma_
+_Context: Aung San Suu Kyi, National League for Democracy, Burma_
 
 ##### Falkland Islands
 ### [Residents of the Falkland Islands begin voting in a two day sovereignty referendum on whether the islands should remain a British overseas territory. ](/news/2013/03/10/residents-of-the-falkland-islands-begin-voting-in-a-two-day-sovereignty-referendum-on-whether-the-islands-should-remain-a-british-overseas-t.md)
@@ -53,7 +53,7 @@ The people of the Falkland Islands are voting in a referendum on whether to rema
 
 ##### President
 ### [Former President of South Africa Nelson Mandela is released from the hospital after "successful" medical tests. ](/news/2013/03/10/former-president-of-south-africa-nelson-mandela-is-released-from-the-hospital-after-successful-medical-tests.md)
-_Context: South Africa, Nelson Mandela, President, medical tests_
+_Context: President, medical tests, Nelson Mandela, South Africa_
 
 ## [Previous Day...](/news/2013/03/9/index.md)
 

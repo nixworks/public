@@ -9,7 +9,7 @@ An air strike killed at least 40 people at a camp for displaced people in north 
 
 ##### Puerto Rico
 ### [Creditors offer Puerto Rico's highly leveraged power authority $2 billion in new financing, including $1.2 billion for a new natural gas operation, in exchange for assurances that it will repay its debt. ](/news/2015/03/30/creditors-offer-puerto-rico-s-highly-leveraged-power-authority-2-billion-in-new-financing-including-1-2-billion-for-a-new-natural-gas-ope.md)
-_Context: $, Puerto Rico_
+_Context: Puerto Rico, $_
 
 ##### UnitedHealth Group
 ### [American company UnitedHealth Group will buy American pharmacy benefit firm Catamaran Corporation for $12.8 billion. ](/news/2015/03/30/american-company-unitedhealth-group-will-buy-american-pharmacy-benefit-firm-catamaran-corporation-for-12-8-billion.md)
@@ -37,11 +37,11 @@ Officials say two men dressed as women tried to break through a security gate to
 
 ##### Newly elected
 ### [Queen Elizabeth II dissolves the Parliament and calls a general election for May 7. ](/news/2015/03/30/queen-elizabeth-ii-dissolves-the-parliament-and-calls-a-general-election-for-may-7.md)
-_Context: Parliament, newly elected, Elizabeth II_
+_Context: newly elected, Elizabeth II, Parliament_
 
 ##### Nigerian general election, 2015
 ### [Challenger Muhammadu Buhari leads by two million votes with three-quarters of the states having their votes counted but votes from some of President Goodluck Jonathan's strongest states in the Niger Delta have yet to be counted. ](/news/2015/03/30/challenger-muhammadu-buhari-leads-by-two-million-votes-with-three-quarters-of-the-states-having-their-votes-counted-but-votes-from-some-of-p.md)
-_Context: Niger Delta, Muhammadu Buhari, President, Goodluck Jonathan, Nigerian general election, 2015_
+_Context: Goodluck Jonathan, Nigerian general election, 2015, President, Muhammadu Buhari, Niger Delta_
 
 ## [Previous Day...](/news/2015/03/29/index.md)
 

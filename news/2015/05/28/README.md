@@ -37,7 +37,7 @@ Independent TD Catherine Murphy has spoken in the Dáil about the business relat
 
 ##### Presidential primaries
 ### [Former Governor of New York, George Pataki, announces that he is seeking the Republican Party nomination for the 2016 presidential election. ](/news/2015/05/28/former-governor-of-new-york-george-pataki-announces-that-he-is-seeking-the-republican-party-nomination-for-the-2016-presidential-election.md)
-_Context: presidential primaries, George Pataki, Republican, New York Governor, 2016 U.S. presidential election_
+_Context: presidential primaries, Republican, New York Governor, George Pataki, 2016 U.S. presidential election_
 
 ##### NASA
 ### [NASA awards Boeing a commercial contract to build and fly the next passenger spacecraft, the CST-100. ](/news/2015/05/28/nasa-awards-boeing-a-commercial-contract-to-build-and-fly-the-next-passenger-spacecraft-the-cst-100.md)

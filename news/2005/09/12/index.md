@@ -5,7 +5,7 @@ Formats: [HTML](2005/09/12/index.html)  [JSON](2005/09/12/index.json)  [XML](200
 
 ##### Colombia
 ### [ In Colombia, an airplane hijacker and his son surrender peacefully after five hours of negotiations. Officials coaxed him out with what he later learned was a worthless bank cheque. ](/news/2005/09/12/in-colombia-an-airplane-hijacker-and-his-son-surrender-peacefully-after-five-hours-of-negotiations-officials-coaxed-him-out-with-what-he.md)
-_Context: bank cheque, Colombia_
+_Context: Colombia, bank cheque_
 
 ##### Norway
 ### [ In Norway, the Red-Green Coalition led by Jens Stoltenberg wins the 2005 election to the Storting (Legislature). ](/news/2005/09/12/in-norway-the-red-green-coalition-led-by-jens-stoltenberg-wins-the-2005-election-to-the-storting-legislature.md)
@@ -21,7 +21,7 @@ Foreign minister says PA failed first test, as Palestinian mobs raid evacuated G
 
 ##### Egypt
 ### [ According to witnesses, the Egyptian border patrol police opened fire at crowds swarming the Egypt-Gaza border at Rafah, killing a Palestinian man and injuring another. An Egyptian spokesman later denied that Egyptian troops fired the shots that killed the man. ](/news/2005/09/12/according-to-witnesses-the-egyptian-border-patrol-police-opened-fire-at-crowds-swarming-the-egypt-gaza-border-at-rafah-killing-a-palestin.md)
-_Context: Egypt, Rafah, Palestinian, Gaza Strip_
+_Context: Egypt, Gaza Strip, Palestinian, Rafah_
 
 ##### Palestinian
 ### [ Three Palestinian teenagers drowned as they rushed into the beachside at Neve Dekalim without knowing how to swim. ](/news/2005/09/12/three-palestinian-teenagers-drowned-as-they-rushed-into-the-beachside-at-neve-dekalim-without-knowing-how-to-swim.md)
@@ -33,15 +33,15 @@ _Context: eBay, Luxembourg, Skype_
 
 ##### Hong Kong Disneyland
 ### [ Hong Kong Disneyland opens in a partnership between Disney and the Hong Kong government. This marks the first attempt of Disney tapping into the Chinese and southeastern Asian market. ](/news/2005/09/12/hong-kong-disneyland-opens-in-a-partnership-between-disney-and-the-hong-kong-government-this-marks-the-first-attempt-of-disney-tapping-int.md)
-_Context: Hong Kong Disneyland, Hong Kong, The Walt Disney Company_
+_Context: The Walt Disney Company, Hong Kong, Hong Kong Disneyland_
 
 ##### Premier
 ### [ Premier Dalton McGuinty of Ontario, Canada rejects the use of Islamic sharia law as well as religious arbitration of all other faiths, declaring that one public law is to be used for all family disputes. The decision follows a year of debate and worldwide protests. ](/news/2005/09/12/premier-dalton-mcguinty-of-ontario-canada-rejects-the-use-of-islamic-sharia-law-as-well-as-religious-arbitration-of-all-other-faiths-decl.md)
-_Context: Islamic, Canadian, Ontario, Premier, sharia law, Dalton McGuinty, arbitration_
+_Context: Premier, arbitration, Ontario, Canadian, Dalton McGuinty, Islamic, sharia law_
 
 ##### Oracle Corporation
 ### [ Oracle Corporation announced that it has agreed to purchase Siebel Systems for approximately $5.85 billion in cash. ](/news/2005/09/12/oracle-corporation-announced-that-it-has-agreed-to-purchase-siebel-systems-for-approximately-5-85-billion-in-cash.md)
-_Context: Oracle Corporation, Siebel Systems_
+_Context: Siebel Systems, Oracle Corporation_
 
 ##### The 2005 Ashes
 ### [ England wins the 2005 Ashes 2-1. Final Test match ends in a draw. ](/news/2005/09/12/england-wins-the-2005-ashes-2-1-final-test-match-ends-in-a-draw.md)

@@ -9,7 +9,7 @@ _Context: United Nations Secretary General, Burundi, Kofi Annan_
 
 ##### Ethiopia
 ### [ Ethiopia has confirmed that its troops have invaded and are fighting Islamic militiamen that control much of Somalia. ](/news/2006/12/24/ethiopia-has-confirmed-that-its-troops-have-invaded-and-are-fighting-islamic-militiamen-that-control-much-of-somalia.md)
-_Context: its troops have invaded, Ethiopia, Somalia_
+_Context: Somalia, its troops have invaded, Ethiopia_
 
 ## [Previous Day...](/news/2006/12/23/index.md)
 

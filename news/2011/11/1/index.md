@@ -21,7 +21,7 @@ The UK economy grew by 0.5% in the third quarter of 2011, official figures show,
 
 ##### State of emergency
 ### [Over 1.5 million people are still without power and four states declare a state of emergency after a nor'easter hits the Eastern United States. ](/news/2011/11/1/over-1-5-million-people-are-still-without-power-and-four-states-declare-a-state-of-emergency-after-a-nor-easter-hits-the-eastern-united-stat.md)
-_Context: Eastern U.S., state of emergency, nor'easter_
+_Context: nor'easter, state of emergency, Eastern U.S._
 
 ##### LOT Polish Airlines Flight 016
 ### [LOT Polish Airlines Flight 016 makes a successful emergency landing at Warsaw Chopin Airport. ](/news/2011/11/1/lot-polish-airlines-flight-016-makes-a-successful-emergency-landing-at-warsaw-chopin-airport.md)
@@ -37,7 +37,7 @@ _Context: asylum seeker, Australia, Java, Indonesia_
 
 ##### Almazbek Atambayev
 ### [Almazbek Atambayev, the newly elected President of Kyrgyzstan, states that a lease for a United States air base in Manas will not be renewed when it expires in 2014. ](/news/2011/11/1/almazbek-atambayev-the-newly-elected-president-of-kyrgyzstan-states-that-a-lease-for-a-united-states-air-base-in-manas-will-not-be-renewed.md)
-_Context: president, Manas, Almazbek Atambayev, United States_
+_Context: Manas, Almazbek Atambayev, president, American_
 
 ##### London
 ### [At least twelve people are arrested in London outside the Parliament of the United Kingdom after a protest against anti-squatting legislation turns violent. ](/news/2011/11/1/at-least-twelve-people-are-arrested-in-london-outside-the-parliament-of-the-united-kingdom-after-a-protest-against-anti-squatting-legislatio.md)
@@ -45,11 +45,11 @@ Twelve people are arrested after a clash between police and protesters outside t
 
 ##### City of London Corporation
 ### [The City of London Corporation pauses its legal action against Occupy London protesters outside St Paul's Cathedral after the church halted its own action and expressed a wish to enter into dialogue with the demonstrators. ](/news/2011/11/1/the-city-of-london-corporation-pauses-its-legal-action-against-occupy-london-protesters-outside-st-paul-s-cathedral-after-the-church-halted.md)
-_Context: St Paul's Cathedral, City of London Corporation, Occupy London_
+_Context: City of London Corporation, St Paul's Cathedral, Occupy London_
 
 ##### China
 ### [China launches the unmanned Shenzhou 8 spacecraft, intending to robotically dock it with the orbiting Tiangong 1 space station module. If successful, the mission will mark China's first orbital docking, and will be a major milestone in its efforts to construct a full-scale space station. ](/news/2011/11/1/china-launches-the-unmanned-shenzhou-8-spacecraft-intending-to-robotically-dock-it-with-the-orbiting-tiangong-1-space-station-module-if-su.md)
-_Context: Shenzhou 8, Tiangong 1, space station, full-scale space station, China_
+_Context: Shenzhou 8, full-scale space station, Tiangong 1, space station, China_
 
 ## [Previous Day...](/news/2011/10/31/index.md)
 

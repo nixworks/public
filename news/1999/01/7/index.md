@@ -5,7 +5,7 @@ Formats: [HTML](1999/01/7/index.html)  [JSON](1999/01/7/index.json)  [XML](1999/
 
 ##### Civil war in the Democratic Republic of Congo
 ### [ Second Congo War: Zimbabwe says its military intervention in the Democratic Republic of the Congo is being funded by France, Libya and Angola. ](/news/1999/01/7/second-congo-war-zimbabwe-says-its-military-intervention-in-the-democratic-republic-of-the-congo-is-being-funded-by-france-libya-and-ango.md)
-_Context: Zimbabwe, Libya, civil war in the Democratic Republic of Congo, France, Angola, DR Congo_
+_Context: civil war in the Democratic Republic of Congo, Zimbabwe, France, Libya, DR Congo, Angola_
 
 ## [Previous Day...](/news/1999/01/6/index.md)
 

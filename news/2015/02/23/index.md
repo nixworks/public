@@ -9,11 +9,11 @@ Kiev accused pro-Russian rebels of opening fire with rockets and artillery at vi
 
 ##### Second Libyan Civil War (2014-present)
 ### [The internationally recognized Tobruk-based Parliament of Libya suspends participation in United Nations brokered talks. ](/news/2015/02/23/the-internationally-recognized-tobruk-based-parliament-of-libya-suspends-participation-in-united-nations-brokered-talks.md)
-_Context: Tobruk, Second Libyan Civil War (2014-present), United Nations, internationally-recognized government_
+_Context: internationally-recognized government, Tobruk, United Nations, Second Libyan Civil War (2014-present)_
 
 ##### Ferry disaster
 ### [The death toll from the weekend ferry disaster in Bangladesh rises to 70. ](/news/2015/02/23/the-death-toll-from-the-weekend-ferry-disaster-in-bangladesh-rises-to-70.md)
-_Context: ferry disaster, Bangladesh_
+_Context: Bangladesh, ferry disaster_
 
 ##### Rolf Harris
 ### [Entertainer Rolf Harris is stripped of his Order of Australia honours following recent convictions in the United Kingdom for indecent assault. ](/news/2015/02/23/entertainer-rolf-harris-is-stripped-of-his-order-of-australia-honours-following-recent-convictions-in-the-united-kingdom-for-indecent-assaul.md)
@@ -21,11 +21,11 @@ Entertainer Rolf Harri is stripped of his Order of Australia honours, after bein
 
 ##### Egypt
 ### [Egyptian political activist Alaa Abdel Fatah is sentenced to five years in jail for violating a rule against organising political protests without permission. ](/news/2015/02/23/egyptian-political-activist-alaa-abdel-fatah-is-sentenced-to-five-years-in-jail-for-violating-a-rule-against-organising-political-protests-w.md)
-_Context: Egypt, Alaa Abdel Fatah_
+_Context: Alaa Abdel Fatah, Egypt_
 
 ##### High Court of Kenya
 ### [The High Court of Kenya throws out key aspects of an anti-terrorism law following a legal challenge from the Opposition. ](/news/2015/02/23/the-high-court-of-kenya-throws-out-key-aspects-of-an-anti-terrorism-law-following-a-legal-challenge-from-the-opposition.md)
-_Context: terrorism, High Court of Kenya_
+_Context: High Court of Kenya, terrorism_
 
 ##### Thai Society
 ### [Two young Thai playwrights, Patiwat Saraiyaem and Porntip Mankong, are sentenced to two years in prison for alleged lese majeste for a play set in a fictional kingdom. ](/news/2015/02/23/two-young-thai-playwrights-patiwat-saraiyaem-and-porntip-mankong-are-sentenced-to-two-years-in-prison-for-alleged-lese-majeste-for-a-play.md)

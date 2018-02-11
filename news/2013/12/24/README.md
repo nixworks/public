@@ -5,7 +5,7 @@ Formats: [HTML](2013/12/24/index.html)  [JSON](2013/12/24/index.json)  [XML](201
 
 ##### Huge explosion
 ### [A huge explosion hits the Dakahlia security directorate in the Nile Delta city of Mansoura, killing 16 and injuring at least 134. ](/news/2013/12/24/a-huge-explosion-hits-the-dakahlia-security-directorate-in-the-nile-delta-city-of-mansoura-killing-16-and-injuring-at-least-134.md)
-_Context: Dakahlia, Nile Delta, huge explosion, Mansoura_
+_Context: huge explosion, Dakahlia, Nile Delta, Mansoura_
 
 ##### United Nations
 ### [The United Nations says that they have discovered a mass grave containing 75 bodies in Unity State, and two other mass graves have been reported in Juba. ](/news/2013/12/24/the-united-nations-says-that-they-have-discovered-a-mass-grave-containing-75-bodies-in-unity-state-and-two-other-mass-graves-have-been-repo.md)
@@ -17,11 +17,11 @@ The deaths of an Israeli laborer and a Palestinian toddler were the latest in a 
 
 ##### New People's Army
 ### [The New People's Army, the armed branch of the Communist Party of the Philippines, torches 3 taxis in Panabo, Davao del Norte, just before a Christmas 'truce'. ](/news/2013/12/24/the-new-people-s-army-the-armed-branch-of-the-communist-party-of-the-philippines-torches-3-taxis-in-panabo-davao-del-norte-just-before-a.md)
-_Context: Christmas, Panabo, Davao del Norte, Communist, New People's Army_
+_Context: Davao del Norte, New People's Army, Panabo, Christmas, Communist_
 
 ##### Pope Francis
 ### [Pope Francis visits Pope Emeritus Benedict XVI before celebrating his first Christmas Mass. ](/news/2013/12/24/pope-francis-visits-pope-emeritus-benedict-xvi-before-celebrating-his-first-christmas-mass.md)
-_Context: Christmas, Pope Benedict XVI, Pope Francis_
+_Context: Pope Francis, Pope Benedict XVI, Christmas_
 
 ##### American Express
 ### [American Express is ordered to pay US$75.7 million in restitution and fines to customers and federal regulators over billing people for services they never received. ](/news/2013/12/24/american-express-is-ordered-to-pay-us-75-7-million-in-restitution-and-fines-to-customers-and-federal-regulators-over-billing-people-for-serv.md)

@@ -9,11 +9,11 @@ The Senate on Thursday easily confirmed John D. Negroponte as the first U.S. amb
 
 ##### UN General Assembly
 ### [ Over U.S. and Israeli objections, the UN General Assembly votes 140-6, with 11 abstentions, to adopt a resolution that affirms the Palestinians' right of sovereignty over the territories seized by Israel during the 1967 Six-Day War. ](/news/2004/05/6/over-u-s-and-israeli-objections-the-un-general-assembly-votes-140a6-with-11-abstentions-to-adopt-a-resolution-that-affirms-the-palest.md)
-_Context: pre-1967 borders, UN General Assembly, Israel, Palestine, Palestinians_
+_Context: pre-1967 borders, Palestine, Palestinians, UN General Assembly, Israel_
 
 ##### Hamas
 ### [ Hamas co-founder Mohammad Taha, aged 68, is released from an Israeli prison. ](/news/2004/05/6/hamas-co-founder-mohammad-taha-aged-68-is-released-from-an-israeli-prison.md)
-_Context: Israel, Hamas, Mohammad Taha_
+_Context: Hamas, Israel, Mohammad Taha_
 
 ##### Abu Ghraib prison
 ### [ The International Committee of the Red Cross states that, over a period of some months, it has repeatedly requested that the United States take action on alleged prisoner abuse at Iraq's Abu Ghraib prison. ](/news/2004/05/6/the-international-committee-of-the-red-cross-states-that-over-a-period-of-some-months-it-has-repeatedly-requested-that-the-united-states.md)

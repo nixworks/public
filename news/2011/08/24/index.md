@@ -9,7 +9,7 @@ Col Muammar Gaddafi last night reportedly vowed death or victory in the fight ag
 
 ##### Al-Qaeda
 ### [Air strikes kill 30 Al-Qaeda linked militants near Zinjibar in Yemen's Abyan Governorate with eight army soldiers killed in fighting. ](/news/2011/08/24/air-strikes-kill-30-al-qaeda-linked-militants-near-zinjibar-in-yemen-s-abyan-governorate-with-eight-army-soldiers-killed-in-fighting.md)
-_Context: Yemeni Army, Zinjibar, al-Qaeda, Yemen, Abyan Governorate_
+_Context: Yemen, Abyan Governorate, Zinjibar, al-Qaeda, Yemeni Army_
 
 ##### Moody's
 ### [Moody's credit rating agency downgrades Japan to Aa3 due to weak economic growth prospects and high levels of public debt. ](/news/2011/08/24/moody-s-credit-rating-agency-downgrades-japan-to-aa3-due-to-weak-economic-growth-prospects-and-high-levels-of-public-debt.md)
@@ -17,7 +17,7 @@ Japan unveiled a $100 billion effort to help companies cope with a surging yen, 
 
 ##### Steve Jobs
 ### [Steve Jobs resigns as the CEO of Apple Inc. Tim Cook took over the CEO position for the company. ](/news/2011/08/24/steve-jobs-resigns-as-the-ceo-of-apple-inc-tim-cook-took-over-the-ceo-position-for-the-company.md)
-_Context: Apple Inc, Tim Cook, Steve Jobs_
+_Context: Apple Inc, Steve Jobs, Tim Cook_
 
 ##### Hurricane Irene
 ### [Hurricane Irene strengthens to Category 3 status as it heads towards The Bahamas and Turks and Caicos and then the East Coast of the United States. ](/news/2011/08/24/hurricane-irene-strengthens-to-category-3-status-as-it-heads-towards-the-bahamas-and-turks-and-caicos-and-then-the-east-coast-of-the-united.md)

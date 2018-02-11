@@ -13,7 +13,7 @@ _Context: ISIL, Syria, Ar-Raqqah, Jordanian air force_
 
 ##### Sony Pictures Entertainment hack
 ### [Sony releases the film "The Interview" online via YouTube and Google Play. ](/news/2014/12/24/sony-releases-the-film-the-interview-online-via-youtube-and-google-play.md)
-_Context: Google Play, Sony Pictures Entertainment hack, YouTube, The Interview_
+_Context: Google Play, The Interview, YouTube, Sony Pictures Entertainment hack_
 
 ##### Black Sea
 ### [Russia declares a state of emergency after oil from a Russian oil pipeline spills into the Black Sea near the port of Tuapse. ](/news/2014/12/24/russia-declares-a-state-of-emergency-after-oil-from-a-russian-oil-pipeline-spills-into-the-black-sea-near-the-port-of-tuapse.md)

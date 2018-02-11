@@ -9,11 +9,11 @@ A suicide bomber detonated his explosive vest in a crowd of spectators at a voll
 
 ##### Boko Haram
 ### [Boko Haram militants kill 48 fish traders near the border with Chad. ](/news/2014/11/23/boko-haram-militants-kill-48-fish-traders-near-the-border-with-chad.md)
-_Context: Chad, Boko Haram_
+_Context: Boko Haram, Chad_
 
 ##### War in Somalia (2009-present)
 ### [Kenyan security forces cross into Somalia and kill 100 members of Al-Shabaab in response to the terrorist group hijacking a bus and killing 28 people. ](/news/2014/11/23/kenyan-security-forces-cross-into-somalia-and-kill-100-members-of-al-shabaab-in-response-to-the-terrorist-group-hijacking-a-bus-and-killing.md)
-_Context: Somalia, War in Somalia (2009-present), al-Shabab, Kenyan army forces_
+_Context: Kenyan army forces, War in Somalia (2009-present), Somalia, al-Shabab_
 
 ##### China
 ### [The death toll from yesterday's earthquake in China's Sichuan province rises to four with 54 injured. ](/news/2014/11/23/the-death-toll-from-yesterday-s-earthquake-in-china-s-sichuan-province-rises-to-four-with-54-injured.md)
@@ -21,7 +21,7 @@ A strong earthquake that hit a sparsely populated, mountainous area of western C
 
 ##### Volcano eruption
 ### [Volcano eruption on Fogo island, Cape Verde is among the strongest ever recorded on the island and is forcing the evacuation of the ChGBP das Caldeiras village. ](/news/2014/11/23/volcano-eruption-on-fogo-island-cape-verde-is-among-the-strongest-ever-recorded-on-the-island-and-is-forcing-the-evacuation-of-the-chagbp-d.md)
-_Context: Fogo island, Volcano eruption, Cape Verde, ChGBP das Caldeiras_
+_Context: Fogo island, Cape Verde, Volcano eruption, ChGBP das Caldeiras_
 
 ##### Crime in the Philippines
 ### [The Philippines marks the 5th anniversary of the Maguindanao massacre. ](/news/2014/11/23/the-philippines-marks-the-5th-anniversary-of-the-maguindanao-massacre.md)
@@ -29,11 +29,11 @@ The Philippines marks the fifth anniversary of its worst political massacre, as 
 
 ##### Tunisia's presidential election
 ### [Voters in Tunisia go to the polls Sunday in the first free presidential election since the Arab Spring's Jasmine Revolution. ](/news/2014/11/23/voters-in-tunisia-go-to-the-polls-sunday-in-the-first-free-presidential-election-since-the-arab-spring-s-jasmine-revolution.md)
-_Context: Jasmine Revolution of 2011, Tunisia's presidential election, Tunisia, Arab Spring_
+_Context: Arab Spring, Tunisia, Jasmine Revolution of 2011, Tunisia's presidential election_
 
 ##### Israel
 ### [The Cabinet of Israel approves legislation defining it as the nation state of the Jewish people. ](/news/2014/11/23/the-cabinet-of-israel-approves-legislation-defining-it-as-the-nation-state-of-the-jewish-people.md)
-_Context: Israel, Jews_
+_Context: Jews, Israel_
 
 ## [Previous Day...](/news/2014/11/22/index.md)
 

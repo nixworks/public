@@ -29,7 +29,7 @@ _Context: The Beatles, British Invasion_
 
 ##### Same-sex marriage in the United States
 ### [The Federal government recognizes same-sex marriage in the United States in all legal matters as Eric Holder compares it to the Civil Rights Movement. ](/news/2014/02/9/the-federal-government-recognizes-same-sex-marriage-in-the-united-states-in-all-legal-matters-as-eric-holder-compares-it-to-the-civil-rights.md)
-_Context: Eric Holder, same-sex marriage in the United States, Civil Rights Movement_
+_Context: same-sex marriage in the United States, Civil Rights Movement, Eric Holder_
 
 ##### Shia LeBeouf
 ### [Shia LeBeouf walks out of the premiere of "Nymphomaniac" with a paper bag over his head after becoming involved in a plagiarism controversy. ](/news/2014/02/9/shia-lebeouf-walks-out-of-the-premiere-of-nymphomaniac-with-a-paper-bag-over-his-head-after-becoming-involved-in-a-plagiarism-controversy.md)
@@ -41,7 +41,7 @@ I naïvely thought the accusation would be dismissed.
 
 ##### Marius the giraffe
 ### [Marius the giraffe is culled and fed to the lions causing worldwide protests from environmental activists. ](/news/2014/02/9/marius-the-giraffe-is-culled-and-fed-to-the-lions-causing-worldwide-protests-from-environmental-activists.md)
-_Context: lion, Marius the giraffe, culled_
+_Context: lion, culled, Marius the giraffe_
 
 ##### Victoria
 ### [Authorities issue emergency warnings for numerous parts of the state of Victoria as conditions are the worst recorded since Black Saturday bushfires on February 7, 2009. ](/news/2014/02/9/authorities-issue-emergency-warnings-for-numerous-parts-of-the-state-of-victoria-as-conditions-are-the-worst-recorded-since-black-saturday-b.md)
@@ -57,11 +57,11 @@ TAMPADozens of men and women gathered on the shoulder of Interstate 275 shortly 
 
 ##### Iran
 ### [Iranian officials say that two Iranian Navy warships will be travelling very close to the United States' maritime border in the Atlantic Ocean. ](/news/2014/02/9/iranian-officials-say-that-two-iranian-navy-warships-will-be-travelling-very-close-to-the-united-states-maritime-border-in-the-atlantic-oce.md)
-_Context: United States, Iranian Naval, Iran, Atlantic Ocean_
+_Context: Atlantic Ocean, Iranian Naval, Iran, American_
 
 ##### Iran
 ### [Iran agrees to a United Nations plan to address suspicions that they are working on designing an atomic weapon. ](/news/2014/02/9/iran-agrees-to-a-united-nations-plan-to-address-suspicions-that-they-are-working-on-designing-an-atomic-weapon.md)
-_Context: Iran, United Nations, atomic weapon_
+_Context: atomic weapon, United Nations, Iran_
 
 ##### Dhaka
 ### [The owners of Tazreen Fashions, Delwar Hossain and his wife Mahmuda Akter, hand themselves in to face charges of murder in relation to the death of 112 workers in a factory fire in Dhaka, Bangladesh, in November 2012. ](/news/2014/02/9/the-owners-of-tazreen-fashions-delwar-hossain-and-his-wife-mahmuda-akter-hand-themselves-in-to-face-charges-of-murder-in-relation-to-the-d.md)
@@ -73,7 +73,7 @@ Mark Harper, who had led a crackdown that urged illegal immigrants to “go home
 
 ##### Japan
 ### [Voters in the Japanese capital of Tokyo elect Yoichi Masuzoe to replace former Governor Naoki Inose, who resigned on December 24, 2013. ](/news/2014/02/9/voters-in-the-japanese-capital-of-tokyo-elect-yoichi-masuzoe-to-replace-former-governor-naoki-inose-who-resigned-on-december-24-2013.md)
-_Context: Yoichi Masuzoe, Naoki Inose, Tokyo, Japan_
+_Context: Japan, Tokyo, Naoki Inose, Yoichi Masuzoe_
 
 ##### Swiss referendums, 2014
 ### [50.3% of voters vote in favor of the federal popular initiative "against mass immigration", to re-introduce quotas of immigrants for foreigners. ](/news/2014/02/9/50-3-of-voters-vote-in-favor-of-the-federal-popular-initiative-against-mass-immigration-to-re-introduce-quotas-of-immigrants-for-foreign.md)

@@ -5,23 +5,23 @@ Formats: [HTML](2007/11/15/index.html)  [JSON](2007/11/15/index.json)  [XML](200
 
 ##### Public-sector strikes
 ### [ Strikes in France: French transport workers' strike against President Nicolas Sarkozy's pension reform enters its second day, but energy workers and CFDT members return to work. ](/news/2007/11/15/strikes-in-france-french-transport-workers-strike-against-president-nicolas-sarkozy-s-pension-reform-enters-its-second-day-but-energy-wo.md)
-_Context: strike, Nicolas Sarkozy, pension reform, CFDT, France, public-sector strikes, transport, French President, energy_
+_Context: energy, strike, public-sector strikes, pension reform, France, CFDT, Nicolas Sarkozy, transport, French President_
 
 ##### German
 ### [ German train drivers extend their strike action against Deutsche Bahn, starting a 48-hour passenger service strike. ](/news/2007/11/15/german-train-drivers-extend-their-strike-action-against-deutsche-bahn-starting-a-48-hour-passenger-service-strike.md)
-_Context: German, Deutsche Bahn, train driver, passenger, strike_
+_Context: Deutsche Bahn, train driver, strike, German, passenger_
 
 ##### United Nations
 ### [ The United Nations General Assembly Third Committee approves a resolution draft that calls for a moratorium on the capital punishment. ](/news/2007/11/15/the-united-nations-general-assembly-third-committee-approves-a-resolution-draft-that-calls-for-a-moratorium-on-the-capital-punishment.md)
-_Context: Third Committee, United Nations General Assembly, United Nations, moratorium, resolution, capital punishment_
+_Context: Third Committee, United Nations, United Nations General Assembly, moratorium, resolution, capital punishment_
 
 ##### City of Westminster
 ### [ The City of Westminster Magistrates' Court rules Egyptian-born Muslim cleric Abu Hamza al-Masri can be extradited from the United Kingdom to the United States, where he is accused of terrorism. ](/news/2007/11/15/the-city-of-westminster-magistrates-court-rules-egyptian-born-muslim-cleric-abu-hamza-al-masri-can-be-extradited-from-the-united-kingdom-t.md)
-_Context: United Kingdom, extradition, United States, Abu Hamza al-Masri, Magistrates' Court, City of Westminster, Muslim, Egypt, terrorism_
+_Context: terrorism, Magistrates' Court, Egypt, extradition, Abu Hamza al-Masri, American, City of Westminster, United Kingdom, Muslim_
 
 ##### NSW
 ### [ A New South Wales coroner concludes that a group of five journalists, known as the Balibo Five, were deliberately killed by Indonesian forces in 1975 in order to prevent them exposing Indonesia's 1975 invasion of East Timor. ](/news/2007/11/15/a-new-south-wales-coroner-concludes-that-a-group-of-five-journalists-known-as-the-balibo-five-were-deliberately-killed-by-indonesian-forc.md)
-_Context: Indonesia, NSW, Balibo Five, East Timor_
+_Context: Indonesia, East Timor, Balibo Five, NSW_
 
 ##### Major League Baseball
 ### [ Major League Baseball player Barry Bonds is indicted by a federal grand jury in San Francisco for perjury and obstruction of justice, having allegedly lied under oath about his use of steroids. ](/news/2007/11/15/major-league-baseball-player-barry-bonds-is-indicted-by-a-federal-grand-jury-in-san-francisco-for-perjury-and-obstruction-of-justice-havin.md)
@@ -33,55 +33,55 @@ _Context: White House, Iran_
 
 ##### Supreme Court of Canada
 ### [ The Supreme Court of Canada denies asylum to Jeremy Hinzman and Brandon Hughey, two United States soldiers who deserted the Iraq War. ](/news/2007/11/15/the-supreme-court-of-canada-denies-asylum-to-jeremy-hinzman-and-brandon-hughey-two-united-states-soldiers-who-deserted-the-iraq-war.md)
-_Context: Supreme Court of Canada, United States, Brandon Hughey, desertion, Jeremy Hinzman, asylum, Iraq War, Canadian_
+_Context: Canadian, Jeremy Hinzman, Iraq War, Supreme Court of Canada, American, asylum, desertion, Brandon Hughey_
 
 ##### Iraqi insurgency
 ### [ Iraqi insurgency: The United States Army announces it has killed 25 insurgents in Taji, but the Taji Awakening Council says airstrikes killed 45 pro-U.S. fighters. ](/news/2007/11/15/iraqi-insurgency-the-united-states-army-announces-it-has-killed-25-insurgents-in-taji-but-the-taji-awakening-council-says-airstrikes-kill.md)
-_Context: United States soldier, Taji, Iraqi insurgency, United States, Taji Awakening Council, airstrike_
+_Context: Taji, Taji Awakening Council, airstrike, United States soldier, Iraqi insurgency, American_
 
 ##### Saudi Arabia
 ### [ A Saudi Arabian gang rape victim is sentenced to jail and 200 lashes for being in the car of an unrelated man. ](/news/2007/11/15/a-saudi-arabian-gang-rape-victim-is-sentenced-to-jail-and-200-lashes-for-being-in-the-car-of-an-unrelated-man.md)
-_Context: Saudi Arabia, lashes, gang rape_
+_Context: lashes, gang rape, Saudi Arabia_
 
 ##### Celestin Chibalonza
 ### [ Celestin Chibalonza, the governor of Sud-Kivu, is impeached for failing to curb violence and mismanaging finances. ](/news/2007/11/15/celestin-chibalonza-the-governor-of-sud-kivu-is-impeached-for-failing-to-curb-violence-and-mismanaging-finances.md)
 _Context: Celestin Chibalonza, impeachment, Sud-Kivu_
 
-##### United States
+##### American
 ### [ The United States Treasury freezes all assets of the Tamils Rehabilitation Organisation, claiming that it acts as a "front to facilitate fundraising" for the Tamil Tigers. ](/news/2007/11/15/the-united-states-treasury-freezes-all-assets-of-the-tamils-rehabilitation-organisation-claiming-that-it-acts-as-a-front-to-facilitate-fu.md)
-_Context: Tamil Tigers, United States Treasury, Tamils Rehabilitation Organisation, United States_
+_Context: United States Treasury, American, Tamil Tigers, Tamils Rehabilitation Organisation_
 
 ##### Executed
 ### [ The execution of Mark Dean Schwab in Florida is suspended while the United States Supreme Court decides if lethal injection is unconstitutional. ](/news/2007/11/15/the-execution-of-mark-dean-schwab-in-florida-is-suspended-while-the-united-states-supreme-court-decides-if-lethal-injection-is-unconstituti.md)
-_Context: executed, Mark Dean Schwab, lethal injection, the state, United States, United States Supreme Court_
+_Context: executed, the state, Mark Dean Schwab, United States Supreme Court, American, lethal injection_
 
 ##### Aftershock
 ### [ Powerful aftershocks hit Chile after the Antofagasta earthquake, as President Michelle Bachelet visits the affected areas. ](/news/2007/11/15/powerful-aftershocks-hit-chile-after-the-antofagasta-earthquake-as-president-michelle-bachelet-visits-the-affected-areas.md)
-_Context: aftershock, President, 2007 Antofagasta earthquake, Chile, Michelle Bachelet_
+_Context: aftershock, Michelle Bachelet, 2007 Antofagasta earthquake, Chile, President_
 
 ##### United Nations
 ### [ United Nations human rights envoy Paulo Sergio Pinheiro visits political prisoners, including Su Su Nway, in Burma's Insein Prison. ](/news/2007/11/15/united-nations-human-rights-envoy-paulo-sergio-pinheiro-visits-political-prisoners-including-su-su-nway-in-burma-s-insein-prison.md)
-_Context: United Nations, Su Su Nway, Insein Prison, political prisoner, Paulo Sergio Pinheiro, Burma, human rights_
+_Context: human rights, Su Su Nway, Insein Prison, political prisoner, Burma, Paulo Sergio Pinheiro, United Nations_
 
 ##### Rift Valley fever
 ### [ Rift Valley fever kills at least 96 people in the White Nile, Sennar and Gazeera states of Sudan. ](/news/2007/11/15/rift-valley-fever-kills-at-least-96-people-in-the-white-nile-sennar-and-gazeera-states-of-sudan.md)
-_Context: Gazeera, White Nile, Sudan, Rift Valley fever, Sennar_
+_Context: Sudan, Rift Valley fever, White Nile, Gazeera, Sennar_
 
 ##### Russia
 ### [ The Russian Ground Forces shut down their last remaining base in Georgia, located in the city of Batumi. ](/news/2007/11/15/the-russian-ground-forces-shut-down-their-last-remaining-base-in-georgia-located-in-the-city-of-batumi.md)
-_Context:  Georgian, Russian Army, Russia, Batumi_
+_Context: Russia, Batumi,  Georgian, Russian Army_
 
 ##### President
 ### [ President Pervez Musharraf appoints Muhammad Mian Soomro, Chairman of the Senate, as interim Prime Minister. ](/news/2007/11/15/president-pervez-musharraf-appoints-muhammad-mian-soomro-chairman-of-the-senate-as-interim-prime-minister.md)
-_Context: Senate, Prime Minister, Pervez Musharraf, Chairman, Muhammad Mian Soomro, president, interim_
+_Context: Prime Minister, Senate, Muhammad Mian Soomro, Chairman, interim, president, Pervez Musharraf_
 
 ##### Palestinian Authority President
 ### [ President of the Palestinian National Authority Mahmoud Abbas states in a speech that "we have to bring down" Hamas. ](/news/2007/11/15/president-of-the-palestinian-national-authority-mahmoud-abbas-states-in-a-speech-that-we-have-to-bring-down-hamas.md)
-_Context: Hamas, Palestinian Authority President, Mahmoud Abbas, Palestinian Authority_
+_Context: Mahmoud Abbas, Palestinian Authority, Palestinian Authority President, Hamas_
 
 ##### Bay of Bengal
 ### [ Formed in the Bay of Bengal, Category 4 Cyclone Sidr approaches the coastal districts of Bangladesh, forcing tens of thousands of people to move away. ](/news/2007/11/15/formed-in-the-bay-of-bengal-category-4-cyclone-sidr-approaches-the-coastal-districts-of-bangladesh-forcing-tens-of-thousands-of-people-to.md)
-_Context: Cyclone Sidr, Bangladesh, Saffir-Simpson Hurricane Scale, Bay of Bengal_
+_Context: Saffir-Simpson Hurricane Scale, Bangladesh, Bay of Bengal, Cyclone Sidr_
 
 ## [Previous Day...](/news/2007/11/14/index.md)
 

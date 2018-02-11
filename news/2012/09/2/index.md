@@ -13,7 +13,7 @@ Officials acknowledge that killings might have been prevented with proper enforc
 
 ##### Turkish troops
 ### [Clashes between Turkish security forces and Kurdish rebels in the southeastern province of Sirnak kill ten Turkish troops and twenty fighters from the Kurdistan Workers' Party. ](/news/2012/09/2/clashes-between-turkish-security-forces-and-kurdish-rebels-in-the-southeastern-province-of-aa-rnak-kill-ten-turkish-troops-and-twenty-fight.md)
-_Context: Sirnak Province, Kurdish, Kurdistan Workers' Party, Turkish troops_
+_Context: Sirnak Province, Turkish troops, Kurdish, Kurdistan Workers' Party_
 
 ##### Movement for Oneness and Jihad in West Africa
 ### [The Movement for Oneness and Jihad in West Africa reports the execution of a kidnapped Algerian diplomat in northern Mali. ](/news/2012/09/2/the-movement-for-oneness-and-jihad-in-west-africa-reports-the-execution-of-a-kidnapped-algerian-diplomat-in-northern-mali.md)
@@ -33,7 +33,7 @@ Fatma Nabil becomes the first woman in half a century to present the news to the
 
 ##### Unification Church
 ### [Unification Church founder and self-proclaimed messiah Sun Myung Moon dies at the age of 92. ](/news/2012/09/2/unification-church-founder-and-self-proclaimed-messiah-sun-myung-moon-dies-at-the-age-of-92.md)
-_Context: Sun Myung Moon, Unification Church_
+_Context: Unification Church, Sun Myung Moon_
 
 ##### Quad City Air Show
 ### [A plane crashes in the Quad City Air Show in Davenport, Iowa, killing the pilot. ](/news/2012/09/2/a-plane-crashes-in-the-quad-city-air-show-in-davenport-iowa-killing-the-pilot.md)
@@ -45,7 +45,7 @@ _Context: United Nations, South Sudan, Francis Deng_
 
 ##### Burma
 ### [Burma's new information minister Aung Kyi says that private newspapers will be allowed to publish daily from 2013. ](/news/2012/09/2/burma-s-new-information-minister-aung-kyi-says-that-private-newspapers-will-be-allowed-to-publish-daily-from-2013.md)
-_Context: Burma, Aung Kyi_
+_Context: Aung Kyi, Burma_
 
 ##### Cambodia
 ### [Police in Cambodia announce that Gottfrid Svartholm Warg, one of the founders of The Pirate Bay, was arrested on August 30 in Phnom Penh, enforcing a suspected Interpol warrant by his homeland Sweden. Warg has been sentenced in April 2012 by a court in Stockholm for copyright violations to 12 months in jail and his quarter share (about EUR 900,000) in a solidary fine of 30 million SKr. ](/news/2012/09/2/police-in-cambodia-announce-that-gottfrid-svartholm-warg-one-of-the-founders-of-the-pirate-bay-was-arrested-on-august-30-in-phnom-penh-en.md)

@@ -23,7 +23,7 @@ _Context: Laerdalsoyri, Norway_
 
 ##### Hungary
 ### [Voters in Hungary will go to the polls for a parliamentary election on April 6. ](/news/2014/01/19/voters-in-hungary-will-go-to-the-polls-for-a-parliamentary-election-on-april-6.md)
-_Context: parliamentary election, Hungary_
+_Context: Hungary, parliamentary election_
 
 ##### Sheikh Mohammed Bin Rashid Al Maktoum
 ### [Sheikh Mohammed Bin Rashid Al Maktoum, Prime Minister and Vice President of the United Arab Emirates announces mandatory military service for males aged 18-30. ](/news/2014/01/19/sheikh-mohammed-bin-rashid-al-maktoum-prime-minister-and-vice-president-of-the-united-arab-emirates-announces-mandatory-military-service-fo.md)

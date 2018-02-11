@@ -5,11 +5,11 @@ Formats: [HTML](2008/03/29/index.html)  [JSON](2008/03/29/index.json)  [XML](200
 
 ##### Shiite
 ### [ Sixteen Shiite militiamen are killed in airstrikes supporting Iraqi government forces during the Battle of Basra (2008). ](/news/2008/03/29/sixteen-shiite-militiamen-are-killed-in-airstrikes-supporting-iraqi-government-forces-during-the-battle-of-basra-2008.md)
-_Context: Battle of Basra (2008), Iraq, Shiite_
+_Context: Battle of Basra (2008), Shiite, Iraq_
 
 ##### Libby Trickett
 ### [ Libby Trickett of Australia sets a new world record (21.28 seconds) for the 50 metres freestyle at the selection trials for the Australian swimming team at the 2008 Summer Olympics. ](/news/2008/03/29/libby-trickett-of-australia-sets-a-new-world-record-21-28-seconds-for-the-50-metres-freestyle-at-the-selection-trials-for-the-australian.md)
-_Context: Australia, world record, Libby Trickett, freestyle, 2008 Summer Olympics_
+_Context: Libby Trickett, freestyle, world record, Australia, 2008 Summer Olympics_
 
 ##### Zimbabwe
 ### [ Zimbabweans vote in the presidential and parliamentary elections. ](/news/2008/03/29/zimbabweans-vote-in-the-presidential-and-parliamentary-elections.md)

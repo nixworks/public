@@ -9,19 +9,19 @@ _Context: Somalia, Oxfam, Kenya_
 
 ##### Refugees
 ### [ Tens of thousands of refugees are homeless in the Western Sahara after rains wiped out their shelters. ](/news/2006/02/16/tens-of-thousands-of-refugees-are-homeless-in-the-western-sahara-after-rains-wiped-out-their-shelters.md)
-_Context: Western Sahara, homeless, refugees_
+_Context: Western Sahara, refugees, homeless_
 
 ##### Bolkestein directive
 ### [ Bolkestein directive: 391 MEP vote for the new directive against 213 (among them the Party of the European Left, the European Green Party and the French Socialist Party). The controversial "country of origin principle", which had led to the Polish plumber controversy, was abandoned, although the current legislation still favorize it ](/news/2006/02/16/bolkestein-directive-391-mep-vote-for-the-new-directive-against-213-among-them-the-party-of-the-european-left-the-european-green-party-a.md)
-_Context: Polish plumber, Member of the European Parliament, French Socialist Party, Bolkestein directive, European Green Party, Party of the European Left_
+_Context: Polish plumber, French Socialist Party, Party of the European Left, Bolkestein directive, Member of the European Parliament, European Green Party_
 
 ##### January 2006 legislative elections
 ### [ Following their Palestinian legislative election victory, Hamas chooses Ismail Haniya, considered a moderate, as Prime Minister of the Palestinian National Authority. ](/news/2006/02/16/following-their-palestinian-legislative-election-victory-hamas-chooses-ismail-haniya-considered-a-moderate-as-prime-minister-of-the-pale.md)
-_Context: Prime Minister, Hamas, January 2006 legislative elections, Ismail Haniya_
+_Context: Ismail Haniya, Prime Minister, January 2006 legislative elections, Hamas_
 
 ##### Lydia Cacho
 ### [ Telephone recordings show governors in plot against journalist Lydia Cacho who exposed a ring of pedophiles. The recordings include conversations between businessman Kamel Nacif Borge and governors Mario Marn (Puebla) and Pablo Salazar Mendigucha (Chiapas) in which they arrange for her imprisonment and bribe prison guards to have her raped on arrival. ](/news/2006/02/16/telephone-recordings-show-governors-in-plot-against-journalist-lydia-cacho-who-exposed-a-ring-of-pedophiles-the-recordings-include-convers.md)
-_Context: Kamel Nacif Borge, Pablo Salazar Mendigucha, Chiapas, Puebla, Lydia Cacho, Mario Marn_
+_Context: Kamel Nacif Borge, Lydia Cacho, Pablo Salazar Mendigucha, Chiapas, Mario Marn, Puebla_
 
 ##### United Nations
 ### [ A United Nations report condemns the continued existence of Camp Delta, and multiple breaches of Human Rights by the US. ](/news/2006/02/16/a-united-nations-report-condemns-the-continued-existence-of-camp-delta-and-multiple-breaches-of-human-rights-by-the-us.md)

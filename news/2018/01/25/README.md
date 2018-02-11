@@ -21,7 +21,7 @@ The cause of the accident is not yet clear but a collapse of the rail track is u
 
 ##### Germany-Turkey relations
 ### [Chancellor Angela Merkel and Foreign Minister Sigmar Gabriel, for the German caretaker government, decide to delay a decision on upgrading Turkey's German-built Leopard 2 tanks until after the formation of a new government coalition. Foreign Minister of Turkey Mevlut Cavusoglu says Turkey expects "solidarity and support" from its ally. ](/news/2018/01/25/chancellor-angela-merkel-and-foreign-minister-sigmar-gabriel-for-the-german-caretaker-government-decide-to-delay-a-decision-on-upgrading-t.md)
-_Context: Chancellor, Leopard 2, Germany-Turkey relations, caretaker, government, Foreign Minister of Turkey, Angela Merkel, Foreign Minister, Mevlut Cavusoglu, Sigmar Gabriel_
+_Context: Sigmar Gabriel, Foreign Minister of Turkey, government, Chancellor, Germany-Turkey relations, Leopard 2, Mevlut Cavusoglu, Foreign Minister, caretaker, Angela Merkel_
 
 ##### Palestine-United States relations
 ### [U.S. President Donald Trump threatens to stop aid to Palestine if they do not agree to partake in peace talks with Israel. ](/news/2018/01/25/u-s-president-donald-trump-threatens-to-stop-aid-to-palestine-if-they-do-not-agree-to-partake-in-peace-talks-with-israel.md)
@@ -33,7 +33,7 @@ The proposal being considered by the Legislature would need congressional approv
 
 ##### Politics of Brazil
 ### [The Brazil Workers' Party (PT) insists that former president Luiz Inacio Lula da Silva will be their candidate for the upcoming presidential election even as a conviction for corruption bars him from participating. The SGBPo Paulo stock market hits new highs and the value of the Brazilian real strengthens. ](/news/2018/01/25/the-brazil-workers-party-pt-insists-that-former-president-luiz-ina-cio-lula-da-silva-will-be-their-candidate-for-the-upcoming-presidentia.md)
-_Context: Luiz Inacio Lula da Silva, Brazil Workers' Party, Politics of Brazil, Brazilian real, SGBPo Paulo, president, presidential election_
+_Context: SGBPo Paulo, president, Luiz Inacio Lula da Silva, presidential election, Brazil Workers' Party, Politics of Brazil, Brazilian real_
 
 ##### Politics of Guatemala
 ### [The Attorney General and the Head of the Anticorruption Commission of the UN, reported on a new case of corruption in the Superintendency of Tax Administration, leaving 9 people arrested, including the Former President of that organization. ](/news/2018/01/25/the-attorney-general-and-the-head-of-the-anticorruption-commission-of-the-un-reported-on-a-new-case-of-corruption-in-the-superintendency-of.md)

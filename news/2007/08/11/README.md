@@ -5,27 +5,27 @@ Formats: [HTML](2007/08/11/index.html)  [JSON](2007/08/11/index.json)  [XML](200
 
 ##### Bomb
 ### [ A roadside bomb claims the life of the Governor of Ad-Diwaniyah province in Iraq Khalil Jalil Hamza and the provincial police chief Major-General Khalid Hassan. ](/news/2007/08/11/a-roadside-bomb-claims-the-life-of-the-governor-of-ad-diwaniyah-province-in-iraq-khalil-jalil-hamza-and-the-provincial-police-chief-major-g.md)
-_Context: Khalil Jalil Hamza, bomb, Major-General, Ad-Diwaniyah, Khalid Hassan, Iraq_
+_Context: Khalid Hassan, Major-General, Ad-Diwaniyah, Iraq, bomb, Khalil Jalil Hamza_
 
 ##### Pasuruan
 ### [ An explosion in Pasuruan in the East Java province of Indonesia causes three deaths and another three injuries. ](/news/2007/08/11/an-explosion-in-pasuruan-in-the-east-java-province-of-indonesia-causes-three-deaths-and-another-three-injuries.md)
-_Context: Pasuruan, Indonesia, East Java_
+_Context: Pasuruan, East Java, Indonesia_
 
 ##### Taliban
 ### [ The Taliban attacks Firebase Anaconda in Uruzgan province for the third time in a week suffering casualties. The Taliban also launches unsuccessful attacks in Helmand and Kandahar provinces. ](/news/2007/08/11/the-taliban-attacks-firebase-anaconda-in-uruzgan-province-for-the-third-time-in-a-week-suffering-casualties-the-taliban-also-launches-unsu.md)
-_Context: Kandahar, Uruzgan, Helmand Province, Firebase Anaconda, Taliban_
+_Context: Firebase Anaconda, Kandahar, Helmand Province, Uruzgan, Taliban_
 
 ##### By-election
 ### [ Three by-elections for the Canadian House of Commons will be held for the ridings of Roberval--Lac-Saint-Jean, Saint-Hyacinthe--Bagot and Outremont on September 17. ](/news/2007/08/11/three-by-elections-for-the-canadian-house-of-commons-will-be-held-for-the-ridings-of-robervalalac-saint-jean-saint-hyacintheabagot-and.md)
-_Context: Outremont, Canadian House of Commons, Roberval--Lac-Saint-Jean, ridings, Saint-Hyacinthe--Bagot, by-election_
+_Context: by-election, Roberval--Lac-Saint-Jean, Outremont, Canadian House of Commons, Saint-Hyacinthe--Bagot, ridings_
 
 ##### President
 ### [ The President of Venezuela Hugo Chavez proposes building a gas pipeline between Venezuela and the Caribbean supplying states such as Cuba. ](/news/2007/08/11/the-president-of-venezuela-hugo-chavez-proposes-building-a-gas-pipeline-between-venezuela-and-the-caribbean-supplying-states-such-as-cuba.md)
-_Context: Cuba, Venezuela, Caribbean, Hugo Chavez, President_
+_Context: Venezuela, Cuba, Caribbean, President, Hugo Chavez_
 
 ##### Russian President
 ### [ The President of Russia Vladimir Putin states that a new radar station in the village of Lekhtusi near St Petersburg is the first step in a large-scale air defense program. ](/news/2007/08/11/the-president-of-russia-vladimir-putin-states-that-a-new-radar-station-in-the-village-of-lekhtusi-near-st-petersburg-is-the-first-step-in-a.md)
-_Context: Vladimir Putin, radar, St Petersburg, Russian President, air defense, Lekhtusi_
+_Context: Vladimir Putin, air defense, Russian President, radar, Lekhtusi, St Petersburg_
 
 ##### Thailand
 ### [ Thai insurgents attack several positions held by Thai security forces at Yala Province. ](/news/2007/08/11/thai-insurgents-attack-several-positions-held-by-thai-security-forces-at-yala-province.md)
@@ -37,11 +37,11 @@ President George W. Bush and French President Nicolas Sarkozy on Saturday stress
 
 ##### United States presidential candidate
 ### [ United States presidential candidate Mitt Romney wins the Republican Party's Ames Straw Poll in Ames, Iowa. ](/news/2007/08/11/united-states-presidential-candidate-mitt-romney-wins-the-republican-party-s-ames-straw-poll-in-ames-iowa.md)
-_Context: Ames Straw Poll, Mitt Romney, United States presidential candidate, Ames, Republican_
+_Context: Mitt Romney, Ames, United States presidential candidate, Ames Straw Poll, Republican_
 
 ##### Sierra Leone
 ### [ Voters in Sierra Leone go to the polls for the first time since the end of the country's civil war in 2002. ](/news/2007/08/11/voters-in-sierra-leone-go-to-the-polls-for-the-first-time-since-the-end-of-the-country-s-civil-war-in-2002.md)
-_Context: civil war, 2002, run-off election, Sierra Leone_
+_Context: Sierra Leone, civil war, 2002, run-off election_
 
 ## [Previous Day...](/news/2007/08/10/index.md)
 

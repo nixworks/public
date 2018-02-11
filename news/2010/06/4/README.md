@@ -9,7 +9,7 @@ About 50 people are continuing to blockade the Israeli embassy in Dublin today i
 
 ##### Ahlu Sunnah Waljama
 ### [The pro-government militia group of Ahlu Sunnah Waljama (ASW) in Somalia claims to have killed at least 91 Islamist fighters and wounded 170 others in Thursday's fierce clashes. ](/news/2010/06/4/the-pro-government-militia-group-of-ahlu-sunnah-waljama-asw-in-somalia-claims-to-have-killed-at-least-91-islamist-fighters-and-wounded-170.md)
-_Context: Ahlu Sunnah Waljama, Islamist, Somalia_
+_Context: Islamist, Ahlu Sunnah Waljama, Somalia_
 
 ##### Prime Minister
 ### [Prime Minister of the United Kingdom David Cameron visits Cumbria. ](/news/2010/06/4/prime-minister-of-the-united-kingdom-david-cameron-visits-cumbria.md)
@@ -17,7 +17,7 @@ The BBC apologises for airing a radio play about a murderer featuring gunshots, 
 
 ##### McDonalds
 ### [McDonalds recalls 12 million promotional glasses for the movie "Shrek Forever After" due to the presence of cadmium in the painted design. ](/news/2010/06/4/mcdonalds-recalls-12-million-promotional-glasses-for-the-movie-shrek-forever-after-due-to-the-presence-of-cadmium-in-the-painted-design.md)
-_Context: McDonalds, Shrek Forever After, cadmium, glasses_
+_Context: Shrek Forever After, cadmium, glasses, McDonalds_
 
 ##### Zamfara State lead poisoning epidemic
 ### [163 people die from lead poisoning in Zamfara State, Nigeria: confirmed cases being treated number 355. ](/news/2010/06/4/163-people-die-from-lead-poisoning-in-zamfara-state-nigeria-confirmed-cases-being-treated-number-355.md)
@@ -25,7 +25,7 @@ More than 100 children have recently died of lead poisoning in northern Nigeria 
 
 ##### A fire
 ### [The death toll rises to 109 following a fire in the centre of Dhaka, Bangladesh. At least 50 injured victims struggle for life at the state-run Dhaka Medical College Hospital. ](/news/2010/06/4/the-death-toll-rises-to-109-following-a-fire-in-the-centre-of-dhaka-bangladesh-at-least-50-injured-victims-struggle-for-life-at-the-state.md)
-_Context: a fire, Dhaka Medical College Hospital, Bangladesh, Dhaka_
+_Context: Dhaka, Bangladesh, Dhaka Medical College Hospital, a fire_
 
 ##### Italy
 ### [Seven Italian officials are investigated for manslaughter relating to the 2009 L'Aquila earthquake. ](/news/2010/06/4/seven-italian-officials-are-investigated-for-manslaughter-relating-to-the-2009-l-aquila-earthquake.md)
@@ -41,11 +41,11 @@ Links between WHO experts and drug firms that profited from H1N1 pandemic under 
 
 ##### Joran van der Sloot
 ### [Joran van der Sloot, a suspect in the disappearance of Natalee Holloway in Aruba, is extradited from Chile to Peru to face charges in the killing of a Peruvian woman. ](/news/2010/06/4/joran-van-der-sloot-a-suspect-in-the-disappearance-of-natalee-holloway-in-aruba-is-extradited-from-chile-to-peru-to-face-charges-in-the-ki.md)
-_Context: Aruba, Natalee Holloway, Joran van der Sloot, Peru, Chile_
+_Context: Chile, Aruba, Peru, Natalee Holloway, Joran van der Sloot_
 
 ##### Joint Base Lewis-McChord
 ### [A Joint Base Lewis-McChord United States Army soldier is charged with three counts of premeditated murder in connection with the deaths of three Afghan civilians. ](/news/2010/06/4/a-joint-base-lewis-mcchord-united-states-army-soldier-is-charged-with-three-counts-of-premeditated-murder-in-connection-with-the-deaths-of-t.md)
-_Context: United States soldier, murder, Afghanistan, Joint Base Lewis-McChord_
+_Context: Afghanistan, murder, Joint Base Lewis-McChord, United States soldier_
 
 ##### Brice Hortefeux
 ### [French Interior Minister Brice Hortefeux is convicted of racism. ](/news/2010/06/4/french-interior-minister-brice-hortefeux-is-convicted-of-racism.md)
@@ -61,7 +61,7 @@ The Pope says he is saddened by the killing of a Catholic bishop in Turkey, but 
 
 ##### Ahmadinejad
 ### [Iranian President Ahmadinejad warns Iran opposition ahead of election anniversary. ](/news/2010/06/4/iranian-president-ahmadinejad-warns-iran-opposition-ahead-of-election-anniversary.md)
-_Context: Iran, Ahmadinejad_
+_Context: Ahmadinejad, Iran_
 
 ##### Myanmar
 ### [An investigation by an anti-government Myanmar broadcaster finds evidence that it says shows the country's military regime has begun a programme to develop nuclear weapons. ](/news/2010/06/4/an-investigation-by-an-anti-government-myanmar-broadcaster-finds-evidence-that-it-says-shows-the-country-s-military-regime-has-begun-a-progr.md)
@@ -69,7 +69,7 @@ Secret files show ruling military building atomic weapons programme, defectors s
 
 ##### Naoto Kan
 ### [Naoto Kan is elected as the new leader of the Democratic Party of Japan and subsequently as the new Prime Minister of Japan, where he currently awaits confirmation from Emperor Akihito. ](/news/2010/06/4/naoto-kan-is-elected-as-the-new-leader-of-the-democratic-party-of-japan-and-subsequently-as-the-new-prime-minister-of-japan-where-he-curren.md)
-_Context: Prime Minister of Japan, Naoto Kan, Democratic Party, Emperor Akihito_
+_Context: Naoto Kan, Democratic Party, Emperor Akihito, Prime Minister of Japan_
 
 ##### United Kingdom
 ### [The Government of the United Kingdom releases hitherto undisclosed public spending details from the past two years ](/news/2010/06/4/the-government-of-the-united-kingdom-releases-hitherto-undisclosed-public-spending-details-from-the-past-two-years.md)
@@ -81,7 +81,7 @@ North Korea announces the development of a &quot;super drink&quot; that, it says
 
 ##### SpaceX
 ### [SpaceX's Falcon 9 rocket is successfully launched on its maiden test flight. ](/news/2010/06/4/spacex-s-falcon-9-rocket-is-successfully-launched-on-its-maiden-test-flight.md)
-_Context: SpaceX, Falcon 9_
+_Context: Falcon 9, SpaceX_
 
 ## [Previous Day...](/news/2010/06/3/index.md)
 

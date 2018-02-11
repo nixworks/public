@@ -17,11 +17,11 @@ At least 11 protesters killed on fourth day of widespread protests against burni
 
 ##### Boko Haram
 ### [Suspected Boko Haram Islamist militants launch simultaneous gun and bomb attacks in the northern Nigerian city of Gombe. ](/news/2012/02/24/suspected-boko-haram-islamist-militants-launch-simultaneous-gun-and-bomb-attacks-in-the-northern-nigerian-city-of-gombe.md)
-_Context: Gombe, Islamist, Boko Haram, Nigeria_
+_Context: Gombe, Boko Haram, Islamist, Nigeria_
 
 ##### Taliban
 ### [The Taliban attacks a Pakistani police station in Peshawar killing four officers. ](/news/2012/02/24/the-taliban-attacks-a-pakistani-police-station-in-peshawar-killing-four-officers.md)
-_Context: Pakistani police, Peshawar, Taliban_
+_Context: Peshawar, Pakistani police, Taliban_
 
 ##### Air Zimbabwe
 ### [Air Zimbabwe suspends all of its flights indefinitely. ](/news/2012/02/24/air-zimbabwe-suspends-all-of-its-flights-indefinitely.md)
@@ -41,7 +41,7 @@ A report indicated Iran had begun producing fuel inside a new facility near the 
 
 ##### Disappearance of Azaria Chamberlain
 ### [A fourth inquest begins into the disappearance of Azaria Chamberlain at Uluru in outback Australia in the Northern Territory. ](/news/2012/02/24/a-fourth-inquest-begins-into-the-disappearance-of-azaria-chamberlain-at-uluru-in-outback-australia-in-the-northern-territory.md)
-_Context: Northern Territory, disappearance of Azaria Chamberlain, Uluru, Australia_
+_Context: Northern Territory, Australia, disappearance of Azaria Chamberlain, Uluru_
 
 ##### Dharun Ravi
 ### [The trial begins of former US student Dharun Ravi, accused of spying on a homosexual encounter involving his room-mate, which resulted in his death. The case has triggered debate about the difficulties faced by young gay men in America. ](/news/2012/02/24/the-trial-begins-of-former-us-student-dharun-ravi-accused-of-spying-on-a-homosexual-encounter-involving-his-room-mate-which-resulted-in-hi.md)
@@ -49,7 +49,7 @@ US ex-student Dharun Ravi goes on trial, facing 15 charges for spying on a homos
 
 ##### Haiti
 ### [Haiti's prime minister Garry Conille resigns after a power struggle within the government. ](/news/2012/02/24/haiti-s-prime-minister-garry-conille-resigns-after-a-power-struggle-within-the-government.md)
-_Context: Haiti, Garry Conille_
+_Context: Garry Conille, Haiti_
 
 ##### Australian Prime Minister
 ### [Former Prime Minister Kevin Rudd announces that he will contest the leadership of the Australian Labor Party with current PM Julia Gillard on Monday. ](/news/2012/02/24/former-prime-minister-kevin-rudd-announces-that-he-will-contest-the-leadership-of-the-australian-labor-party-with-current-pm-julia-gillard-o.md)
@@ -57,7 +57,7 @@ _Context: Australian Prime Minister, Kevin Rudd, Australian Labor Party, Julia G
 
 ##### Governor
 ### [The Governor of the Mexican state of Nuevo Leon fires the states' public safety secretary General Jaime Castaneda following the Apodaca prison riot where 44 inmates were killed. ](/news/2012/02/24/the-governor-of-the-mexican-state-of-nuevo-lea3n-fires-the-states-public-safety-secretary-general-jaime-castaneda-following-the-apodaca-pri.md)
-_Context: Governor, Jaime Castaneda, Apodaca prison riot, Nuevo Leon, Mexican_
+_Context: Apodaca prison riot, Governor, Nuevo Leon, Mexican, Jaime Castaneda_
 
 ## [Previous Day...](/news/2012/02/23/index.md)
 

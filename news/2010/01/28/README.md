@@ -5,7 +5,7 @@ Formats: [HTML](2010/01/28/index.html)  [JSON](2010/01/28/index.json)  [XML](201
 
 ##### U.S. Senate
 ### [The U.S. Senate votes to give Ben Bernanke a second term as chair of the Federal Reserve. ](/news/2010/01/28/the-u-s-senate-votes-to-give-ben-bernanke-a-second-term-as-chair-of-the-federal-reserve.md)
-_Context: chair, Ben Bernanke, U.S. Senate, Federal Reserve_
+_Context: chair, Federal Reserve, U.S. Senate, Ben Bernanke_
 
 ##### J. D. Salinger
 ### [J. D. Salinger, author of the novel "The Catcher in the Rye", dies at the age of 91. ](/news/2010/01/28/j-d-salinger-author-of-the-novel-the-catcher-in-the-rye-dies-at-the-age-of-91.md)
@@ -13,7 +13,7 @@ _Context: J. D. Salinger, The Catcher in the Rye_
 
 ##### International Monetary Fund
 ### [The International Monetary Fund loans US$114 million to Haiti following the recent earthquake devastation, with the full amount due to be transferred by the end of the week. ](/news/2010/01/28/the-international-monetary-fund-loans-us-114-million-to-haiti-following-the-recent-earthquake-devastation-with-the-full-amount-due-to-be-tr.md)
-_Context: International Monetary Fund, $, 2010 Haiti earthquake, Haiti_
+_Context: Haiti, $, International Monetary Fund, 2010 Haiti earthquake_
 
 ##### Northern Limit Line
 ### [North Korean vessels fire again across the Northern Limit Line maritime boundary with South Korea. ](/news/2010/01/28/north-korean-vessels-fire-again-across-the-northern-limit-line-maritime-boundary-with-south-korea.md)
@@ -25,7 +25,7 @@ The death toll from a collapsed apartment block in eastern Belgium has risen to 
 
 ##### Football
 ### [Three players are dismissed during the semi-final football match between rivals Algeria and Egypt in the 2010 Africa Cup of Nations, months following their previous meeting which led to international violence and diplomatic skirmishes. ](/news/2010/01/28/three-players-are-dismissed-during-the-semi-final-football-match-between-rivals-algeria-and-egypt-in-the-2010-africa-cup-of-nations-months.md)
-_Context: Egypt, 2010 Africa Cup of Nations, Algeria, football_
+_Context: Algeria, football, 2010 Africa Cup of Nations, Egypt_
 
 ##### Colombia
 ### [Colombia makes a formal diplomatic protest to Venezuela over the latter's alleged violation of Colombian airspace by a military helicopter. ](/news/2010/01/28/colombia-makes-a-formal-diplomatic-protest-to-venezuela-over-the-latter-s-alleged-violation-of-colombian-airspace-by-a-military-helicopter.md)
@@ -33,11 +33,11 @@ _Context: Colombia, Venezuela_
 
 ##### Sudan
 ### [Sudan's ruling National Congress Party endorses South Sudan President Salva Kiir in upcoming elections. ](/news/2010/01/28/sudan-s-ruling-national-congress-party-endorses-south-sudan-president-salva-kiir-in-upcoming-elections.md)
-_Context: Salva Kiir, post-election protests, Sudan, National Congress Party, Southern Sudan_
+_Context: post-election protests, National Congress Party, Southern Sudan, Salva Kiir, Sudan_
 
 ##### France
 ### [Former French Prime Minister Dominique de Villepin is cleared of charges of complicity to false denunciation in the "Clearstream" affair. ](/news/2010/01/28/former-french-prime-minister-dominique-de-villepin-is-cleared-of-charges-of-complicity-to-false-denunciation-in-the-clearstream-affair.md)
-_Context: ''Clearstream'' affair, France, Prime Minister, Dominique de Villepin, indicted_
+_Context: Prime Minister, ''Clearstream'' affair, Dominique de Villepin, indicted, France_
 
 ##### Iran
 ### [Iran executes two opposition supporters for their role in the election protests in the country. ](/news/2010/01/28/iran-executes-two-opposition-supporters-for-their-role-in-the-election-protests-in-the-country.md)

@@ -25,7 +25,7 @@ Police clear protesters from central Madrid, after nationwide protests by the &q
 
 ##### Boston University
 ### [Three Boston University students are killed and another five are injured in a minivan crash during a trip to New Zealand. ](/news/2012/05/12/three-boston-university-students-are-killed-and-another-five-are-injured-in-a-minivan-crash-during-a-trip-to-new-zealand.md)
-_Context: Boston University, New Zealand, minivan_
+_Context: minivan, Boston University, New Zealand_
 
 ##### China
 ### [China denies that its military has been placed on a war footing amid an ongoing dispute with the Philippines over territorial claims in the South China Sea. ](/news/2012/05/12/china-denies-that-its-military-has-been-placed-on-a-war-footing-amid-an-ongoing-dispute-with-the-philippines-over-territorial-claims-in-the.md)
@@ -37,7 +37,7 @@ A pair of Palestinian prisoners being held without charge enter day 74 without f
 
 ##### President
 ### [President of Iran Mahmoud Ahmadinejad calls Israel "nothing more than a mosquito" and downplays the idea of war between the two countries, ahead of talks regarding Iran's nuclear program. ](/news/2012/05/12/president-of-iran-mahmoud-ahmadinejad-calls-israel-nothing-more-than-a-mosquito-and-downplays-the-idea-of-war-between-the-two-countries-a.md)
-_Context: President, nuclear program, mosquito, Israel, Mahmoud Ahmadinejad_
+_Context: President, Israel, Mahmoud Ahmadinejad, mosquito, nuclear program_
 
 ##### President
 ### [President of Venezuela Hugo Chavez returns home after successfully completing of a course of radiotherapy for cancer in Cuba. ](/news/2012/05/12/president-of-venezuela-hugo-cha-vez-returns-home-after-successfully-completing-of-a-course-of-radiotherapy-for-cancer-in-cuba.md)
@@ -47,7 +47,7 @@ Venezuelan President Hugo Chavez returns from Cuba, saying his radiotherapy trea
 ### [The President of Greece, Karolos Papoulias, begins efforts at forming a coalition government, after three failed attempts by major political parties to reach a coalition agreement. ](/news/2012/05/12/the-president-of-greece-karolos-papoulias-begins-efforts-at-forming-a-coalition-government-after-three-failed-attempts-by-major-political.md)
 The Greek president summons party leaders for last-ditch talks on forming a unity government, after days of wrangling and deepening economic fears.
 
-##### United States
+##### American
 ### [In the United States, prospective Republican presidential candidate Mitt Romney condemns same-sex marriage as illegitimate. At the evangelical Christian Liberty University in Lynchburg, Virginia, he describes marriage as exclusively "a relationship between one man and one woman." ](/news/2012/05/12/in-the-united-states-prospective-republican-presidential-candidate-mitt-romney-condemns-same-sex-marriage-as-illegitimate-at-the-evangelic.md)
 Presumptive US Republican presidential nominee Mitt Romney restates his opposition to same-sex marriage, days after President Obama backed it.
 

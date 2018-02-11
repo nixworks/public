@@ -21,11 +21,11 @@ A Royal Canadian Air Force pilot has been killed in a CF-18 fighter crash near a
 
 ##### 2016 Southeastern United States wildfires
 ### [The Gatlinburg Fire Department orders the mandatory evacuation of downtown Gatlinburg, Tennessee, as several wildfires burn out of control in the Great Smoky Mountains National Park. ](/news/2016/11/28/the-gatlinburg-fire-department-orders-the-mandatory-evacuation-of-downtown-gatlinburg-tennessee-as-several-wildfires-burn-out-of-control-i.md)
-_Context: 2016 Southeastern United States wildfires, Great Smoky Mountains National Park, Gatlinburg, Tennessee_
+_Context: Great Smoky Mountains National Park, Gatlinburg, Tennessee, 2016 Southeastern United States wildfires_
 
 ##### 2015-16 Zika virus epidemic
 ### [Texas confirms its first case of locally transmitted Zika virus by mosquitoes, becoming the second U.S. state to report a local transmission of the virus after Florida. The Texas Department of State Health Services says the case involves a woman living in Cameron County, who is not pregnant. ](/news/2016/11/28/texas-confirms-its-first-case-of-locally-transmitted-zika-virus-by-mosquitoes-becoming-the-second-u-s-state-to-report-a-local-transmission.md)
-_Context: Texas, Zika virus, Texas Department of State Health Services, the state, Cameron County, United States, 2015-16 Zika virus epidemic_
+_Context: American, Texas Department of State Health Services, Cameron County, Zika virus, Texas, the state, 2015-16 Zika virus epidemic_
 
 ##### 2016 Ohio State University attack
 ### [ Eleven people are hospitalized, one in critical condition, after a suspect rammed his car into a crowd, and then stabbed numerous people on Ohio State's Columbus campus. Police have declared the scene secure. The suspect, a refugee from Somalia, and a student at the university, is shot and killed by a police officer after he failed to obey orders to stop. ](/news/2016/11/28/eleven-people-are-hospitalized-one-in-critical-condition-after-a-suspect-rammed-his-car-into-a-crowd-and-then-stabbed-numerous-people-on.md)
@@ -45,11 +45,11 @@ The estimated 2 to 3,000 protesters camped out in Cannon Ball, North Dakota, to 
 
 ##### Lars Lokke Rasmussen III Cabinet
 ### [Denmark gets a new coalition government as the centre-right liberal party Venstre joins forces with the Conservative People's Party and the libertarian-leaning Liberal Alliance whose leader, Anders Samuelsen, becomes Denmark's sixth foreign minister in six years. ](/news/2016/11/28/denmark-gets-a-new-coalition-government-as-the-centre-right-liberal-party-venstre-joins-forces-with-the-conservative-people-s-party-and-the.md)
-_Context: foreign minister, Anders Samuelsen, Conservative People's Party, Liberal Alliance, Venstre, Lars Lokke Rasmussen III Cabinet, Denmark_
+_Context: Anders Samuelsen, Venstre, Denmark, Liberal Alliance, Conservative People's Party, Lars Lokke Rasmussen III Cabinet, foreign minister_
 
 ##### Haitian presidential election, 2016-17
 ### [The Haitian national electoral commission promises to release results of the highly contested elections between the candidates Jovenel Moise of the Haitian Tet Kale Party, Maryse Narcisse of the Fanmi Lavalas and Jude Celestin of the Alternative League for Haitian Progress and Emancipation. ](/news/2016/11/28/the-haitian-national-electoral-commission-promises-to-release-results-of-the-highly-contested-elections-between-the-candidates-jovenel-moise.md)
-_Context: Alternative League for Haitian Progress and Emancipation, Jude Celestin, Haiti, Haitian Tet Kale Party, Fanmi Lavalas, Maryse Narcisse, Haitian presidential election, 2016-17, Jovenel Moise_
+_Context: Jude Celestin, Haiti, Maryse Narcisse, Fanmi Lavalas, Haitian presidential election, 2016-17, Alternative League for Haitian Progress and Emancipation, Jovenel Moise, Haitian Tet Kale Party_
 
 ##### UK Independence Party leadership election, November 2016
 ### [Paul Nuttall wins an overall majority in a vote to become the UK Independence Party's (UKIP) leader, succeeding Nigel Farage. ](/news/2016/11/28/paul-nuttall-wins-an-overall-majority-in-a-vote-to-become-the-uk-independence-party-s-ukip-leader-succeeding-nigel-farage.md)
@@ -57,11 +57,11 @@ Paul Nuttall says he wants UKIP to &quot;replace Labour&quot; as he takes over f
 
 ##### Yemeni Civil War
 ### [Yemen's Houthi movement and its allies form a new government. ](/news/2016/11/28/yemen-s-houthi-movement-and-its-allies-form-a-new-government.md)
-_Context: Yemen, Houthi, Yemeni Civil War_
+_Context: Houthi, Yemen, Yemeni Civil War_
 
 ##### 2016 U.S. presidential election
 ### [President-elect Donald Trump is declared as the winner in Michigan, causing his electoral college vote to rise to 306. Hillary Clinton's margin in the popular vote rises to over two million. ](/news/2016/11/28/president-elect-donald-trump-is-declared-as-the-winner-in-michigan-causing-his-electoral-college-vote-to-rise-to-306-hillary-clinton-s-mar.md)
-_Context: electoral college, Mich., 2016 U.S. presidential election, Hillary Clinton, Donald Trump_
+_Context: 2016 U.S. presidential election, Hillary Clinton, Donald Trump, electoral college, Mich._
 
 ##### 2016 United States presidential election recount and audit
 ### [The campaign of Jill Stein files for a recount in Pennsylvania and plans to do so in Michigan. ](/news/2016/11/28/the-campaign-of-jill-stein-files-for-a-recount-in-pennsylvania-and-plans-to-do-so-in-michigan.md)

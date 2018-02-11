@@ -9,7 +9,7 @@ KARACHI: At least five people were killed and many others were wounded in what a
 
 ##### Boko Haram insurgency
 ### [Suspected Boko Haram suicide bombers kill at least eight people in the Nigerian city of Maiduguri. ](/news/2016/10/29/suspected-boko-haram-suicide-bombers-kill-at-least-eight-people-in-the-nigerian-city-of-maiduguri.md)
-_Context: Boko Haram, Boko Haram insurgency, Maiduguri, Nigeria_
+_Context: Boko Haram, Boko Haram insurgency, Nigeria, Maiduguri_
 
 ##### Saudi-led intervention in Yemen
 ### [Two prisons in Al Hudaydah, Yemen, are bombed by Saudi Arabian jets, leaving at least 60 dead. ](/news/2016/10/29/two-prisons-in-al-hudaydah-yemen-are-bombed-by-saudi-arabian-jets-leaving-at-least-60-dead.md)
@@ -29,7 +29,7 @@ SEOUL (AFP/BLOOMBERG) - South Korean prosecutors on Saturday (Oct 29) raided the
 
 ##### New York City
 ### [The New York City Metropolitan Opera cancels its Saturday performances as a man, during an afternoon intermission, sprinkled an unidentified powder, suspected to be cremated ashes, into the orchestra pit. One person was exposed and requested medical attention. ](/news/2016/10/29/the-new-york-city-metropolitan-opera-cancels-its-saturday-performances-as-a-man-during-an-afternoon-intermission-sprinkled-an-unidentified.md)
-_Context: New York City, Metropolitan Opera, intermission, cremated ashes, orchestra pit_
+_Context: orchestra pit, Metropolitan Opera, New York City, cremated ashes, intermission_
 
 ##### Spanish Parliament
 ### [The Spanish Parliament votes to allow Prime Minister Mariano Rajoy to lead a People's Party minority government after a ten month interregnum. ](/news/2016/10/29/the-spanish-parliament-votes-to-allow-prime-minister-mariano-rajoy-to-lead-a-people-s-party-minority-government-after-a-ten-month-interregnu.md)

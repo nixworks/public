@@ -5,7 +5,7 @@ Formats: [HTML](2017/06/16/index.html)  [JSON](2017/06/16/index.json)  [XML](201
 
 ##### Two simultaneous attacks
 ### [In two simultaneous attacks near the Damascus Gate in Jerusalem, an Israeli policewoman is fatally stabbed; the three Palestinian assailants are shot dead. ISIL claims were questioned by Israeli authorities. As well, the PFLP and Hamas claim it was their members who did it. ](/news/2017/06/16/in-two-simultaneous-attacks-near-the-damascus-gate-in-jerusalem-an-israeli-policewoman-is-fatally-stabbed-the-three-palestinian-assailants.md)
-_Context: Jerusalem, PFLP, Palestinians, Hamas, two simultaneous attacks, Damascus Gate, Israel, ISIL_
+_Context: Damascus Gate, two simultaneous attacks, ISIL, PFLP, Palestinians, Israel, Jerusalem, Hamas_
 
 ##### Russian military intervention in the Syrian Civil War
 ### [The Russian Ministry of Defence says its forces may have killed ISIL's leader Abu Bakr al-Baghdadi in an airstrike, south of Raqqa on 28 May, and currently is seeking confirmation. ](/news/2017/06/16/the-russian-ministry-of-defence-says-its-forces-may-have-killed-isil-s-leader-abu-bakr-al-baghdadi-in-an-airstrike-south-of-raqqa-on-28-may.md)
@@ -21,11 +21,11 @@ The vote also serves as a rebuke to President Trump&rsquo;s policy on Moscow and
 
 ##### Djibouti-Eritrea relations
 ### [Djiboutian foreign minister Mahamoud Ali Youssouf accuses Eritrea of occupying the disputed Doumeira Islands and Ras Doumeira peninsula after Qatari peacekeepers withdrew from the area. ](/news/2017/06/16/djiboutian-foreign-minister-mahamoud-ali-youssouf-accuses-eritrea-of-occupying-the-disputed-doumeira-islands-and-ras-doumeira-peninsula-afte.md)
-_Context: Doumeira Islands, Ras Doumeira, Qatar, Eritrea, Mahamoud Ali Youssouf, Djibouti, Djibouti-Eritrea relations, peninsula_
+_Context: Doumeira Islands, Ras Doumeira, Djibouti, Djibouti-Eritrea relations, peninsula, Qatar, Eritrea, Mahamoud Ali Youssouf_
 
 ##### Cuba-United States relations
 ### [U.S. President Donald Trump announces new restrictions on travel and business with Cuba, reversing policies of Cuban Thaw, implemented during the tenure of President Barack Obama. ](/news/2017/06/16/u-s-president-donald-trump-announces-new-restrictions-on-travel-and-business-with-cuba-reversing-policies-of-cuban-thaw-implemented-durin.md)
-_Context: Cuba-United States relations, Donald Trump, Cuban Thaw, Barack Obama_
+_Context: Barack Obama, Cuba-United States relations, Donald Trump, Cuban Thaw_
 
 ##### Shooting of Philando Castile
 ### [Jeronimo Yanez, the police officer previously accused of manslaughter and reckless discharge of a firearm at Philando Castile, is acquitted of all charges. ](/news/2017/06/16/jeronimo-yanez-the-police-officer-previously-accused-of-manslaughter-and-reckless-discharge-of-a-firearm-at-philando-castile-is-acquitted.md)

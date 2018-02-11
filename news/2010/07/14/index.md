@@ -15,13 +15,13 @@ Israeli warships force Libyan-sponsored Amalthea to change course to El Arish po
 ### [More than 60 people are hospitalised after a suspected chlorine gas leak in Mumbai. ](/news/2010/07/14/more-than-60-people-are-hospitalised-after-a-suspected-chlorine-gas-leak-in-mumbai.md)
 More than 60 people are taken to hospital after a suspected chlorine gas leak in Mumbai.
 
-##### United States
+##### American
 ### [The United States discusses the arrest of Bradley Manning, accused of providing secret information about US military corruption to Wikileaks. ](/news/2010/07/14/the-united-states-discusses-the-arrest-of-bradley-manning-accused-of-providing-secret-information-about-us-military-corruption-to-wikileaks.md)
-_Context: arrest of Bradley Manning, Wikileaks, United States_
+_Context: American, Wikileaks, arrest of Bradley Manning_
 
 ##### India
 ### [India's Home Secretary G. K. Pillai states Pakistan's intelligence agency Inter-Services Intelligence (ISI) co-ordinated the 2008 Mumbai attacks. ](/news/2010/07/14/india-s-home-secretary-g-k-pillai-states-pakistan-s-intelligence-agency-inter-services-intelligence-isi-co-ordinated-the-2008-mumbai-att.md)
-_Context: India, Pakistan, 2008 Mumbai attacks, G. K. Pillai, Inter-Services Intelligence_
+_Context: Inter-Services Intelligence, G. K. Pillai, 2008 Mumbai attacks, India, Pakistan_
 
 ##### Balochistan
 ### [Former Balochistan senator Habib Jalib is shot dead outside his home in Quetta, leading to riots and widespread mourning. ](/news/2010/07/14/former-balochistan-senator-habib-jalib-is-shot-dead-outside-his-home-in-quetta-leading-to-riots-and-widespread-mourning.md)
@@ -41,7 +41,7 @@ _Context: Dave McCabe, Liverpool, headbutt, The Zutons_
 
 ##### Kodachrome
 ### [ It is announced that the last roll of Kodachrome manufactured has been developed for photographer Steve McCurry. ](/news/2010/07/14/it-is-announced-that-the-last-roll-of-kodachrome-manufactured-has-been-developed-for-photographer-steve-mccurry.md)
-_Context: Kodachrome, Steve McCurry_
+_Context: Steve McCurry, Kodachrome_
 
 ##### Ryanair
 ### [Airline Ryanair is reprimanded by the UK's Advertising Standards Authority for misleading customers with their advertisements for low fares. ](/news/2010/07/14/airline-ryanair-is-reprimanded-by-the-uk-s-advertising-standards-authority-for-misleading-customers-with-their-advertisements-for-low-fares.md)
@@ -53,7 +53,7 @@ Group of more than 30 reporters to demand compensation from Israeli government.
 
 ##### Guantanamo Bay
 ### [Previously secret papers released as a result of civil proceedings brought by six former Guantanamo Bay inmates against MI5 and MI6, the Home Office, the Foreign Office, and the Attorney General's Office reveal the British government was involved in the abduction and torture of its own citizens following the September 11 attacks. ](/news/2010/07/14/previously-secret-papers-released-as-a-result-of-civil-proceedings-brought-by-six-former-guanta-namo-bay-inmates-against-mi5-and-mi6-the-ho.md)
-_Context: MI6, September 11 attacks, Guantanamo Bay, MI5_
+_Context: MI5, Guantanamo Bay, September 11 attacks, MI6_
 
 ##### Same-sex marriage
 ### [Tens of thousands take part in a church-sponsored demonstration against same-sex marriage outside Congress in Buenos Aires, as senators prepare to vote on a bill which would make Argentina the first South American country to legalize same-sex marriage. ](/news/2010/07/14/tens-of-thousands-take-part-in-a-church-sponsored-demonstration-against-same-sex-marriage-outside-congress-in-buenos-aires-as-senators-prep.md)
@@ -73,7 +73,7 @@ A former MI6 worker says he was &quot;directed by voices&quot; after admitting c
 
 ##### Bulgarian Prime Minister
 ### [Former Prime Minister of Bulgaria Sergei Stanishev is charged with mishandling classified documents: he calls the charges "politically motivated". ](/news/2010/07/14/former-prime-minister-of-bulgaria-sergei-stanishev-is-charged-with-mishandling-classified-documents-he-calls-the-charges-politically-motiv.md)
-_Context: Bulgarian Prime Minister, Sergei Stanishev_
+_Context: Sergei Stanishev, Bulgarian Prime Minister_
 
 ##### Colombia
 ### [Former Colombian politician and hostage Ingrid Betancourt drops her lawsuit against the state. ](/news/2010/07/14/former-colombian-politician-and-hostage-angrid-betancourt-drops-her-lawsuit-against-the-state.md)
@@ -105,7 +105,7 @@ Israeli bulldozing of Palestinian property comes week after US pushes peace talk
 
 ##### Sri Lanka
 ### [The Sri Lankan cabinet meets in Kilinochchi, the former capital of the Tamil Tigers in the far north of the island. ](/news/2010/07/14/the-sri-lankan-cabinet-meets-in-kilinochchi-the-former-capital-of-the-tamil-tigers-in-the-far-north-of-the-island.md)
-_Context: Sri Lanka, Kilinochchi, Tamil Tigers_
+_Context: Tamil Tigers, Kilinochchi, Sri Lanka_
 
 ##### Fianna Fail
 ### [Irish Fianna Fail Senator Ivor Callely is suspended for 20 days without pay due to a travel expenses scandal. ](/news/2010/07/14/irish-fianna-fa-il-senator-ivor-callely-is-suspended-for-20-days-without-pay-due-to-a-travel-expenses-scandal.md)
@@ -113,7 +113,7 @@ The Seanad has agreed without a vote to suspend Senator Callely for 20 days with
 
 ##### India
 ### [Indian Foreign Minister S. M. Krishna goes to Islamabad for talks with his counterpart of Pakistan, Shah Mehmood Qureshi, for the first time since the 2008 Mumbai attacks. ](/news/2010/07/14/indian-foreign-minister-s-m-krishna-goes-to-islamabad-for-talks-with-his-counterpart-of-pakistan-shah-mehmood-qureshi-for-the-first-time.md)
-_Context: Pakistan, 2008 Mumbai attacks, SM Krishna, India, Islamabad, Shah Mehmood Qureshi_
+_Context: India, Islamabad, Pakistan, Shah Mehmood Qureshi, 2008 Mumbai attacks, SM Krishna_
 
 ##### Chancellor
 ### [Chancellor of Germany Angela Merkel and nearly half her cabinet begin a five-day visit to Russia, China and Kazakhstan as part of an attempt to boost trade, energy and security links. ](/news/2010/07/14/chancellor-of-germany-angela-merkel-and-nearly-half-her-cabinet-begin-a-five-day-visit-to-russia-china-and-kazakhstan-as-part-of-an-attempt.md)
@@ -149,7 +149,7 @@ Red Bull New York signed French forward Thierry Henry to a multi-year contract a
 
 ##### UK Athletics
 ### [UK Athletics (UKA) requests changes to Britain's tax laws after sprinter Usain Bolt declines to appear at a meeting in London for financial reasons. ](/news/2010/07/14/uk-athletics-uka-requests-changes-to-britain-s-tax-laws-after-sprinter-usain-bolt-declines-to-appear-at-a-meeting-in-london-for-financial.md)
-_Context: UK Athletics, London, Usain Bolt_
+_Context: Usain Bolt, London, UK Athletics_
 
 ## [Previous Day...](/news/2010/07/13/index.md)
 

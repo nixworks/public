@@ -13,7 +13,7 @@ The government&#39;s cyber emergency response team is looking into a massive glo
 
 ##### Ivorian soldiers
 ### [Ivorian soldiers block access to Bouak, the second-largest city in Ivory Coast amid a dispute over pay. The town of Odienn is also reported to be under mutineer control. ](/news/2017/05/13/ivorian-soldiers-block-access-to-bouake-the-second-largest-city-in-ivory-coast-amid-a-dispute-over-pay-the-town-of-odienne-is-also-reporte.md)
-_Context: Odienn, Ivory Coast, Ivorian soldiers, Bouak_
+_Context: Bouak, Odienn, Ivory Coast, Ivorian soldiers_
 
 ##### Pope Francis
 ### [Pope Francis canonizes Jacinta and Francisco Marto, two of the three Ftima children who reported seeing the Virgin Mary in the spring and summer of 1917. The Martos, who died during the post-World War I international influenza pandemic, are the Catholic Church's youngest saints who did not die as martyrs. The other child, Lcia de Jesus dos Santos, survived until the year 2005, when she was 97 years old. ](/news/2017/05/13/pope-francis-canonizes-jacinta-and-francisco-marto-two-of-the-three-fatima-children-who-reported-seeing-the-virgin-mary-in-the-spring-and-s.md)

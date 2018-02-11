@@ -17,7 +17,7 @@ Troops from Thailand and Cambodia exchange fire again along their disputed borde
 
 ##### BP
 ### [BP discovers a German naval mine from World War II near pipelines in the North Sea near Peterhead, Scotland with removal of the bomb likely to lead to the temporary closure of 16 oil fields and a consequent rise in the price of oil. ](/news/2011/04/27/bp-discovers-a-german-naval-mine-from-world-war-ii-near-pipelines-in-the-north-sea-near-peterhead-scotland-with-removal-of-the-bomb-likely.md)
-_Context: naval mine, BP, Peterhead, World War II, Scotland, North Sea, German_
+_Context: North Sea, Peterhead, BP, Scotland, German, naval mine, World War II_
 
 ##### Ivory Coast
 ### [Ivory Coast militia leader Ibrahim Coulibaly is killed in fighting with the forces of new President Alassane Ouattara. ](/news/2011/04/27/ivory-coast-militia-leader-ibrahim-coulibaly-is-killed-in-fighting-with-the-forces-of-new-president-alassane-ouattara.md)
@@ -53,15 +53,15 @@ Johnson &amp; Johnson agreed to buy Synthes Inc. for $21.3 billion in the bigges
 
 ##### French President
 ### [President of France Nicolas Sarkozy endorses Mario Draghi to become next President of the European Central Bank, to succeed Jean-Claude Trichet. ](/news/2011/04/27/president-of-france-nicolas-sarkozy-endorses-mario-draghi-to-become-next-president-of-the-european-central-bank-to-succeed-jean-claude-tric.md)
-_Context: Mario Draghi, French President, Jean-Claude Trichet, France, Nicolas Sarkozy, European Central Bank, President_
+_Context: Jean-Claude Trichet, France, Mario Draghi, President, Nicolas Sarkozy, French President, European Central Bank_
 
 ##### Emperor
 ### [Emperor of Japan Akihito and Empress Michiko visit areas worst-affected by the 2011 Tohoku earthquake and tsunami. ](/news/2011/04/27/emperor-of-japan-akihito-and-empress-michiko-visit-areas-worst-affected-by-the-2011-tahoku-earthquake-and-tsunami.md)
-_Context: Empress Michiko, Emperor, Akihito, 2011 Tohoku earthquake and tsunami_
+_Context: Emperor, 2011 Tohoku earthquake and tsunami, Empress Michiko, Akihito_
 
 ##### Alishan Forest Railway
 ### [A train overturns on the Alishan Forest Railway near the town of Alishan in Taiwan resulting in at least five deaths and forty injuries. ](/news/2011/04/27/a-train-overturns-on-the-alishan-forest-railway-near-the-town-of-alishan-in-taiwan-resulting-in-at-least-five-deaths-and-forty-injuries.md)
-_Context: Taiwan, Alishan Forest Railway, Alishan_
+_Context: Taiwan, Alishan, Alishan Forest Railway_
 
 ##### Tornado
 ### [Two tornadoes hit Tuscaloosa County in the US state of Alabama causing extensive damage, with the main strongest wedge tornado crossing over the state of Alabama and affecting the Gadsden Metropolitan Area. ](/news/2011/04/27/two-tornadoes-hit-tuscaloosa-county-in-the-us-state-of-alabama-causing-extensive-damage-with-the-main-strongest-wedge-tornado-crossing-over.md)
@@ -77,19 +77,19 @@ Chinese Premier Wen Jiabao starts a four-day tour of Southeast Asia today during
 
 ##### Daniel Ellsberg
 ### [Daniel Ellsberg, the man who released the Pentagon Papers, says U.S. president Barack Obama has "given a virtual directed verdict" of guilty in the case of imprisoned Welsh-born U.S. serviceman Bradley Manning after Obama is caught on camera accusing Manning of breaking the law. ](/news/2011/04/27/daniel-ellsberg-the-man-who-released-the-pentagon-papers-says-u-s-president-barack-obama-has-given-a-virtual-directed-verdict-of-guilty.md)
-_Context: Wales, Daniel Ellsberg, Barack Obama, Bradley Manning, Pentagon Papers_
+_Context: Bradley Manning, Daniel Ellsberg, Wales, Pentagon Papers, Barack Obama_
 
 ##### Lobsang Sangay
 ### [Lobsang Sangay is elected as the Prime Minister of the Central Tibetan Administration, replacing the 5th Samdhong Rinpoche. ](/news/2011/04/27/lobsang-sangay-is-elected-as-the-prime-minister-of-the-central-tibetan-administration-replacing-the-5th-samdhong-rinpoche.md)
-_Context: Prime Minister of the, the 5th Samdhong Rinpoche, Lobsang Sangay, Central Tibetan Administration_
+_Context: Lobsang Sangay, Central Tibetan Administration, the 5th Samdhong Rinpoche, Prime Minister of the_
 
 ##### Singapore
 ### [The Singapore's ruling party People Action Party was not returned to government on Nomination Day, 82 of 87 seats will be contested in the coming election. ](/news/2011/04/27/the-singapore-s-ruling-party-people-action-party-was-not-returned-to-government-on-nomination-day-82-of-87-seats-will-be-contested-in-the-c.md)
-_Context: People Action Party, Singapore, election_
+_Context: election, People Action Party, Singapore_
 
 ##### Barack Obama citizenship conspiracy theories
 ### [In response to persistent accusations by potential Republican primary candidate Donald Trump and others, President of the United States Barack Obama releases his long-form birth certificate, certifying his birth in the state of Hawaii. ](/news/2011/04/27/in-response-to-persistent-accusations-by-potential-republican-primary-candidate-donald-trump-and-others-president-of-the-united-states-bara.md)
-_Context: Barack Obama, birth certificate, nomination, Hawaii, U.S. President, Barack Obama citizenship conspiracy theories, Donald Trump_
+_Context: nomination, Hawaii, birth certificate, Barack Obama, Barack Obama citizenship conspiracy theories, U.S. President, Donald Trump_
 
 ##### Governor
 ### [Governor Brian Sandoval of Nevada appoints US Congressman Dean Heller to replace Senator John Ensign. ](/news/2011/04/27/governor-brian-sandoval-of-nevada-appoints-us-congressman-dean-heller-to-replace-senator-john-ensign.md)

@@ -17,7 +17,7 @@ A string of moderate earthquakes hit central Italy on Wednesday, shaking an area
 
 ##### U.S. President
 ### [ Former U.S. President George H. W. Bush is hospitalized in intensive care at Houston Methodist Hospital for treatment of pneumonia. His wife, Barbara is also hospitalized. ](/news/2017/01/18/former-u-s-president-george-h-w-bush-is-hospitalized-in-intensive-care-at-houston-methodist-hospital-for-treatment-of-pneumonia-his-wif.md)
-_Context: U.S. President, intensive care, George H. W. Bush, Houston Methodist San Jacinto Hospital, Barbara, pneumonia_
+_Context: intensive care, pneumonia, Houston Methodist San Jacinto Hospital, George H. W. Bush, U.S. President, Barbara_
 
 ##### Mayor of London
 ### [London Mayor Sadiq Khan declares a public health emergency for at least the next three days because of high levels of air pollution in the London area. The Department for Environment says this pollution episode could last until at least Sunday. ](/news/2017/01/18/london-mayor-sadiq-khan-declares-a-public-health-emergency-for-at-least-the-next-three-days-because-of-high-levels-of-air-pollution-in-the-l.md)
@@ -25,11 +25,11 @@ Mayor Sadiq Khan today put London on toxic air alert for at least three days. Ci
 
 ##### Mexican Police
 ### [At least four people are killed in a shootout between Mexican Police and unknown gunmen after the latter opened fire on the Quintana Roo state attorneys' office in Cancun. ](/news/2017/01/18/at-least-four-people-are-killed-in-a-shootout-between-mexican-police-and-unknown-gunmen-after-the-latter-opened-fire-on-the-quintana-roo-sta.md)
-_Context: Mexican Police, Cancun, Quintana Roo_
+_Context: Cancun, Quintana Roo, Mexican Police_
 
 ##### Colegio Americano del Noreste 2017 shootings
 ### [A student wounds four people in a school shooting and then kills himself in Monterrey, Mexico. ](/news/2017/01/18/a-student-wounds-four-people-in-a-school-shooting-and-then-kills-himself-in-monterrey-mexico.md)
-_Context: Monterrey, Mexico, Colegio Americano del Noreste 2017 shootings_
+_Context: Colegio Americano del Noreste 2017 shootings, Monterrey, Mexico_
 
 ##### 2016-17 Gambian constitutional crisis
 ### [The National Assembly of the Gambia approves extending Yahya Jammeh's term as President of the country for 90 more days. ](/news/2017/01/18/the-national-assembly-of-the-gambia-approves-extending-yahya-jammeh-s-term-as-president-of-the-country-for-90-more-days.md)

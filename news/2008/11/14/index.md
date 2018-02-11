@@ -5,7 +5,7 @@ Formats: [HTML](2008/11/14/index.html)  [JSON](2008/11/14/index.json)  [XML](200
 
 ##### Nice
 ### [ At a summit in Nice, France, the European Union and Russia agree to refrain from deploying missiles or missile defense systems at least before mid-2009, when a pan-European security framework is discussed between Russia, the United States and the EU. ](/news/2008/11/14/at-a-summit-in-nice-france-the-european-union-and-russia-agree-to-refrain-from-deploying-missiles-or-missile-defense-systems-at-least-bef.md)
-_Context: European Union, France, missile defense, missile, Russia, Nice, United States_
+_Context: Russia, missile, missile defense, European Union, American, Nice, France_
 
 ##### General
 ### [ General Ann E. Dunwoody becomes the first female four-star general in the history of the United States Army. ](/news/2008/11/14/general-ann-e-dunwoody-becomes-the-first-female-four-star-general-in-the-history-of-the-united-states-army.md)
@@ -17,7 +17,7 @@ An Italian court has cleared 16 senior police officers accused of orchestrating 
 
 ##### Eurozone
 ### [ The Eurozone enters its first recession as the combined gross domestic product of the 15 members dropped 0.2% in the second and third quarters of 2008. ](/news/2008/11/14/the-eurozone-enters-its-first-recession-as-the-combined-gross-domestic-product-of-the-15-members-dropped-0-2-in-the-second-and-third-quart.md)
-_Context: gross domestic product, recession, Eurozone_
+_Context: Eurozone, recession, gross domestic product_
 
 ##### India
 ### [ India's Chandrayaan-1 unmanned lunar exploration mission successfully lands the Moon Impact Probe on the south pole of the Moon. ](/news/2008/11/14/india-s-chandrayaan-1-unmanned-lunar-exploration-mission-successfully-lands-the-moon-impact-probe-on-the-south-pole-of-the-moon.md)
@@ -29,7 +29,7 @@ As a wildfire that devastated the wealthy enclave of Montecito settled down late
 
 ##### Wake turbulence
 ### [ An investigation concludes that wake turbulence is the most likely cause of the November 4, 2008, airplane crash in Mexico City that killed, among others, Secretary of the Interior Juan Camilo Mourio and Jos Luis Santiago Vasconcelos. ](/news/2008/11/14/an-investigation-concludes-that-wake-turbulence-is-the-most-likely-cause-of-the-november-4-2008-airplane-crash-in-mexico-city-that-killed.md)
-_Context: Jos Luis Santiago Vasconcelos, Secretary of the Interior, November 4, 2008, airplane crash, Juan Camilo Mourio, wake turbulence, Mexico City_
+_Context: wake turbulence, Juan Camilo Mourio, Secretary of the Interior, November 4, 2008, airplane crash, Jos Luis Santiago Vasconcelos, Mexico City_
 
 ## [Previous Day...](/news/2008/11/13/index.md)
 

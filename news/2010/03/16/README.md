@@ -5,19 +5,19 @@ Formats: [HTML](2010/03/16/index.html)  [JSON](2010/03/16/index.json)  [XML](201
 
 ##### Ancient tombs
 ### [Ancient tombs of Uganda's Bugandan kings, a World Heritage Site, are burnt down by unknown causes. ](/news/2010/03/16/ancient-tombs-of-uganda-s-bugandan-kings-a-world-heritage-site-are-burnt-down-by-unknown-causes.md)
-_Context: Ancient tombs, world heritage site, kings, Buganda, Uganda_
+_Context: Ancient tombs, Buganda, kings, Uganda, world heritage site_
 
 ##### Nauru
 ### [Nauru President Marcus Stephen dissolves Parliament, paving the way for an early general election, originally scheduled for 2011. ](/news/2010/03/16/nauru-president-marcus-stephen-dissolves-parliament-paving-the-way-for-an-early-general-election-originally-scheduled-for-2011.md)
-_Context: Nauru, Marcus Stephen, President of Nauru, Parliament, general election_
+_Context: general election, Parliament, President of Nauru, Nauru, Marcus Stephen_
 
 ##### Archbishop of Armagh
 ### [Archbishop of Armagh and Primate of All Ireland Cardinal Sen Brady is accused of using the "Nuremberg defence" and is told to resign by politicians, including Martin McGuinness, over his representation of the Church when two teenagers abused by Father Brendan Smyth were forced to sign an oath of silence. ](/news/2010/03/16/archbishop-of-armagh-and-primate-of-all-ireland-cardinal-sean-brady-is-accused-of-using-the-nuremberg-defence-and-is-told-to-resign-by-pol.md)
-_Context: Archbishop of Armagh, Cardinal Sen Brady, Primate of All Ireland, Nuremberg defence, oath of silence, Martin McGuinness, Father Brendan Smyth_
+_Context: Primate of All Ireland, Martin McGuinness, Father Brendan Smyth, Nuremberg defence, oath of silence, Archbishop of Armagh, Cardinal Sen Brady_
 
 ##### Roman Catholic
 ### [A man who used to teach at a Roman Catholic religious order's schools in Spain is arrested in Chile on suspicion of sexually abusing children. ](/news/2010/03/16/a-man-who-used-to-teach-at-a-roman-catholic-religious-order-s-schools-in-spain-is-arrested-in-chile-on-suspicion-of-sexually-abusing-childre.md)
-_Context: Chile, Roman Catholic, Spain_
+_Context: Chile, Spain, Roman Catholic_
 
 ##### Sri Lanka
 ### [The military trial of Sri Lanka's former army chief Sarath Fonseka, charged with participating in politics while in uniform, is adjourned at the end of day one. ](/news/2010/03/16/the-military-trial-of-sri-lanka-s-former-army-chief-sarath-fonseka-charged-with-participating-in-politics-while-in-uniform-is-adjourned-at.md)
@@ -29,7 +29,7 @@ _Context: Thailand_
 
 ##### France
 ### [France sends military aid to Wallis and Futuna, which suffered extensive damage from Cyclone Tomas. ](/news/2010/03/16/france-sends-military-aid-to-wallis-and-futuna-which-suffered-extensive-damage-from-cyclone-tomas.md)
-_Context: Wallis and Futuna, France, Cyclone Tomas_
+_Context: Wallis and Futuna, Cyclone Tomas, France_
 
 ##### France's national railway company
 ### [French national railway SNCF, as part of a rapid response training, causes a media scare by mistakenly placing a statement on its website stating that more than 100 people died in a train explosion in Mcon, Burgundy. ](/news/2010/03/16/french-national-railway-sncf-as-part-of-a-rapid-response-training-causes-a-media-scare-by-mistakenly-placing-a-statement-on-its-website-st.md)

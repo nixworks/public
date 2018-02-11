@@ -5,11 +5,11 @@ Formats: [HTML](2015/04/22/index.html)  [JSON](2015/04/22/index.json)  [XML](201
 
 ##### Papua New Guinea
 ### [A tribal fight in Papua New Guinea's Hela Province between the Wapiago and Tapamu clans claims the lives of ten people, mostly children. ](/news/2015/04/22/a-tribal-fight-in-papua-new-guinea-s-hela-province-between-the-wapiago-and-tapamu-clans-claims-the-lives-of-ten-people-mostly-children.md)
-_Context: Hela Province, clan, Papua New Guinea_
+_Context: Hela Province, Papua New Guinea, clan_
 
 ##### War in Afghanistan (2015-present)
 ### [The Taliban announces the start of its annual spring offensive warning it would attack foreign embassies as well as military targets. ](/news/2015/04/22/the-taliban-announces-the-start-of-its-annual-spring-offensive-warning-it-would-attack-foreign-embassies-as-well-as-military-targets.md)
-_Context: Taliban, War in Afghanistan (2015-present)_
+_Context: War in Afghanistan (2015-present), Taliban_
 
 ##### Syrian Civil War
 ### [The Syrian Observatory for Human Rights estimates that Syrian government air strikes on areas controlled by Islamic State in Iraq and the Levant kills 32 people. The air strikes hit a hospital in Dayr Hafir killing at least 21 people. ](/news/2015/04/22/the-syrian-observatory-for-human-rights-estimates-that-syrian-government-air-strikes-on-areas-controlled-by-islamic-state-in-iraq-and-the-le.md)
@@ -17,7 +17,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### European Union
 ### [The European Union opens an antitrust case against Russian gas giant Gazprom which supplies most of Central and eastern Europe with supplies of natural gas. ](/news/2015/04/22/the-european-union-opens-an-antitrust-case-against-russian-gas-giant-gazprom-which-supplies-most-of-central-and-eastern-europe-with-supplies.md)
-_Context: eastern Europe, Central, European Union, Russia, Gazprom, antitrust, natural gas_
+_Context: antitrust, Central, eastern Europe, natural gas, Russia, Gazprom, European Union_
 
 ##### Google
 ### [Google announces a new wireless network in the United States called Project Fi with a pay as you go data rate. ](/news/2015/04/22/google-announces-a-new-wireless-network-in-the-united-states-called-project-fi-with-a-pay-as-you-go-data-rate.md)
@@ -29,7 +29,7 @@ The body of an 86-year-old woman has been recovered from the floodwaters into wh
 
 ##### South Korea
 ### [South Korea approves plans to recover the Sewol which sank last year with the loss of 300 people. ](/news/2015/04/22/south-korea-approves-plans-to-recover-the-sewol-which-sank-last-year-with-the-loss-of-300-people.md)
-_Context: South Korea, Sinking of the MV ''Sewol''_
+_Context: Sinking of the MV ''Sewol'', South Korea_
 
 ##### Calbuco
 ### [The Calbuco volcano erupts in southern Chile forcing the evacuation of 4000 residents. ](/news/2015/04/22/the-calbuco-volcano-erupts-in-southern-chile-forcing-the-evacuation-of-4000-residents.md)
@@ -41,11 +41,11 @@ Language in the bill that became entwined with a vote on confirmation of an atto
 
 ##### United States Court of Appeals for the Ninth Circuit
 ### [ An 11-judge panel of the U.S. Ninth Circuit Court of Appeals overturns the 2011 conviction of all-time Major League Baseball home run leader Barry Bonds on obstruction of justice charges stemming from the BALCO doping scandal. ](/news/2015/04/22/an-11-judge-panel-of-the-u-s-ninth-circuit-court-of-appeals-overturns-the-2011-conviction-of-all-time-major-league-baseball-home-run-leade.md)
-_Context: United States Court of Appeals for the Ninth Circuit, BALCO doping scandal, Major League Baseball, Barry Bonds, obstruction of justice charges_
+_Context: Major League Baseball, United States Court of Appeals for the Ninth Circuit, obstruction of justice charges, Barry Bonds, BALCO doping scandal_
 
 ##### Anguillan general election, 2015
 ### [Voters in Anguilla go to the polls for a general election with the Anguilla United Front led by Victor Banks elected to government. ](/news/2015/04/22/voters-in-anguilla-go-to-the-polls-for-a-general-election-with-the-anguilla-united-front-led-by-victor-banks-elected-to-government.md)
-_Context: Anguillan general election, 2015, Anguilla, Anguilla United Front_
+_Context: Anguilla United Front, Anguillan general election, 2015, Anguilla_
 
 ## [Previous Day...](/news/2015/04/21/index.md)
 

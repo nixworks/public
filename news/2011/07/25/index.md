@@ -13,11 +13,11 @@ Fact-finding mission, appointed by the king, begins inquiry into the crackdown t
 
 ##### Greek-Cypriot
 ### [Greek-Cypriot filmmaker Michael Cacoyannis who was nominated for five Academy Awards for his films including "Zorba the Greek" dies in Athens aged 89. ](/news/2011/07/25/greek-cypriot-filmmaker-michael-cacoyannis-who-was-nominated-for-five-academy-awards-for-his-films-including-zorba-the-greek-dies-in-athen.md)
-_Context: Zorba the Greek, Athens, Michael Cacoyannis, Greek-Cypriot, Academy Awards_
+_Context: Michael Cacoyannis, Athens, Zorba the Greek, Academy Awards, Greek-Cypriot_
 
 ##### Moody's
 ### [Moody's cuts Greece's credit rating further to Ca on the grounds that a proposed debt swap is equivalent to a default. ](/news/2011/07/25/moody-s-cuts-greece-s-credit-rating-further-to-ca-on-the-grounds-that-a-proposed-debt-swap-is-equivalent-to-a-default.md)
-_Context: default, Moody's_
+_Context: Moody's, default_
 
 ##### Famine
 ### [2011 Horn of Africa famine: The World Bank promises $500 million in aid to drought victims in East Africa as a United Nations agency hosts an emergency meeting aimed at fighting famine. ](/news/2011/07/25/2011-horn-of-africa-famine-the-world-bank-promises-500-million-in-aid-to-drought-victims-in-east-africa-as-a-united-nations-agency-hosts-a.md)
@@ -27,7 +27,7 @@ Efforts to save starving Somalis and others suffering from drought in East Afric
 ### [South Korea and the People's Republic of China will hold inaugural defense strategic meetings this week. ](/news/2011/07/25/south-korea-and-the-people-s-republic-of-china-will-hold-inaugural-defense-strategic-meetings-this-week.md)
 ##### Malaysia
 ### [Australia and Malaysia sign a pact to exchange asylum seekers in Kuala Lumpur. ](/news/2011/07/25/australia-and-malaysia-sign-a-pact-to-exchange-asylum-seekers-in-kuala-lumpur.md)
-_Context: Kuala Lumpur, asylum seeker, Malaysia_
+_Context: asylum seeker, Kuala Lumpur, Malaysia_
 
 ##### 2011 Norway attacks
 ### [Anders Behring Breivik attends court for the first time in connection with the attacks. ](/news/2011/07/25/anders-behring-breivik-attends-court-for-the-first-time-in-connection-with-the-attacks.md)
@@ -35,7 +35,7 @@ Norwegian police revised down the death toll from Friday&#039;s bomb and shootin
 
 ##### Egypt
 ### [An Egyptian court decides to try former President of Egypt Hosni Mubarak and Interior Minister Habib el-Adly together on charges relating to the death of protesters in the 2011 Egyptian revolution. ](/news/2011/07/25/an-egyptian-court-decides-to-try-former-president-of-egypt-hosni-mubarak-and-interior-minister-habib-el-adly-together-on-charges-relating-to.md)
-_Context: Egypt, Habib el-Adly, Hosni Mubarak, 2011 Egyptian revolution, President_
+_Context: 2011 Egyptian revolution, Hosni Mubarak, Egypt, President, Habib el-Adly_
 
 ##### 2011 US debt ceiling crisis
 ### [United States President Barack Obama cancels fundraising dinners due to the ongoing debt crisis. ](/news/2011/07/25/united-states-president-barack-obama-cancels-fundraising-dinners-due-to-the-ongoing-debt-crisis.md)
@@ -43,7 +43,7 @@ President Obama and House Speaker John A. Boehner escalated their battle over th
 
 ##### Leader of the Official Opposition
 ### [Canada's Leader of the Opposition Jack Layton announces that he will take a medical leave of absence and an interim leader of the New Democratic Party will be appointed. ](/news/2011/07/25/canada-s-leader-of-the-opposition-jack-layton-announces-that-he-will-take-a-medical-leave-of-absence-and-an-interim-leader-of-the-new-democr.md)
-_Context: Jack Layton, Leader of the Official Opposition, New Democratic Party, interim leader_
+_Context: New Democratic Party, interim leader, Jack Layton, Leader of the Official Opposition_
 
 ##### Obama Administration
 ### [The Obama Administration released a Strategy to Combat Transnational Organized Crime ](/news/2011/07/25/the-obama-administration-released-a-strategy-to-combat-transnational-organized-crime.md)
@@ -51,7 +51,7 @@ _Context: Obama Administration_
 
 ##### Truong TCNYn Sang
 ### [Truong TCNYn Sang becomes the new President of Vietnam. ](/news/2011/07/25/traedegae-ng-taocnyn-sang-becomes-the-new-president-of-vietnam.md)
-_Context: President of Vietnam, Truong TCNYn Sang_
+_Context: Truong TCNYn Sang, President of Vietnam_
 
 ## [Previous Day...](/news/2011/07/24/index.md)
 

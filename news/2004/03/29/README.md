@@ -13,23 +13,23 @@ Things to do in Miami
 
 ##### Explosion
 ### [ An explosion occurs close to the main bazaar in Tashkent, Uzbekistan, killing two and injuring around twenty; preliminary reports point to two female suicide bombers. Also in the capital, three police officers are shot dead; and, in the city of Bukhara, another explosion at a suspected terrorist bomb factory claims ten fatalities. ](/news/2004/03/29/an-explosion-occurs-close-to-the-main-bazaar-in-tashkent-uzbekistan-killing-two-and-injuring-around-twenty-preliminary-reports-point-to.md)
-_Context: bazaar, explosion, Bukhara, suicide bomber, Tashkent, Uzbekistan_
+_Context: Uzbekistan, explosion, suicide bomber, Tashkent, bazaar, Bukhara_
 
 ##### Irish
 ### [ The Republic of Ireland becomes the first country to ban tobacco smoking in all enclosed workplaces (including bars and restaurants); infringers risk a EUR3,000 (US$3,600) fine. ](/news/2004/03/29/the-republic-of-ireland-becomes-the-first-country-to-ban-tobacco-smoking-in-all-enclosed-workplaces-including-bars-and-restaurants-infri.md)
-_Context: Irish, USD, tobacco smoking, EUR_
+_Context: tobacco smoking, EUR, Irish, USD_
 
 ##### NATO
 ### [ NATO welcomes seven new members, as Bulgaria, Estonia, Latvia, Lithuania, Romania, Slovakia and Slovenia formally became members by depositing their instruments of accession with the United States' government, though the countries will join officially next month at a NATO meeting. All but Slovenia were formerly members of the Warsaw Pact. ](/news/2004/03/29/nato-welcomes-seven-new-members-as-bulgaria-estonia-latvia-lithuania-romania-slovakia-and-slovenia-formally-became-members-by-deposit.md)
-_Context: Bulgaria, Romania, Estonia, Lithuania, NATO, Warsaw Pact, Slovenia, Latvia, Slovakia_
+_Context: NATO, Latvia, Lithuania, Slovakia, Romania, Bulgaria, Warsaw Pact, Slovenia, Estonia_
 
 ##### Nanoparticle
 ### [ Nanoparticles allegedly cause brain damage in fish, according to a study of the toxicity of synthetic carbon molecules called "buckyballs". ](/news/2004/03/29/nanoparticles-allegedly-cause-brain-damage-in-fish-according-to-a-study-of-the-toxicity-of-synthetic-carbon-molecules-called-buckyballs.md)
-_Context: brain damage, buckyball, synthetic, fish, molecule, toxic, Nanoparticle, carbon_
+_Context: Nanoparticle, carbon, toxic, buckyball, brain damage, molecule, synthetic, fish_
 
 ##### Scientist
 ### [ Scientists discover methane in the Martian atmosphere and state it could mean there is life on the Red Planet. ](/news/2004/03/29/scientists-discover-methane-in-the-martian-atmosphere-and-state-it-could-mean-there-is-life-on-the-red-planet.md)
-_Context: atmosphere, Scientist, life, methane, Mars_
+_Context: life, atmosphere, methane, Mars, Scientist_
 
 ##### Troop
 ### [ Spain is reported to be considering doubling her number of troops stationed in Afghanistan. ](/news/2004/03/29/spain-is-reported-to-be-considering-doubling-her-number-of-troops-stationed-in-afghanistan.md)

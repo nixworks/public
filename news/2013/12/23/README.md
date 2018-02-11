@@ -5,7 +5,7 @@ Formats: [HTML](2013/12/23/index.html)  [JSON](2013/12/23/index.json)  [XML](201
 
 ##### Pakistani
 ### [The Pakistani army launches a military offensive against Taliban insurgents near the Afghan border. There are accusations that dozens of civilians are killed. ](/news/2013/12/23/the-pakistani-army-launches-a-military-offensive-against-taliban-insurgents-near-the-afghan-border-there-are-accusations-that-dozens-of-civ.md)
-_Context: Pakistani, Taliban_
+_Context: Taliban, Pakistani_
 
 ##### Iraq
 ### [A mortar attack kills four Iraq army officers and two soldiers in an army base west of Baghdad. ](/news/2013/12/23/a-mortar-attack-kills-four-iraq-army-officers-and-two-soldiers-in-an-army-base-west-of-baghdad.md)

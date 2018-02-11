@@ -17,11 +17,11 @@ _Context: Jinnah International Airport, Karachi, 2014 Jinnah International Airpo
 
 ##### Suicide bombing
 ### [24 people killed when militants attacked a Bus carrying Shia pilgrims from Iran to Quetta in Balochistan province of Pakistan.](/news/2014/06/8/24-people-killed-when-militants-attacked-a-bus-carrying-shia-pilgrims-from-iran-to-quetta-in-balochistan-province-of-pakistan.md)
-_Context: suicide bombing, Iran, Pakistan, Balochistan, Quetta_
+_Context: Iran, Balochistan, suicide bombing, Quetta, Pakistan_
 
 ##### 68th Tony Awards
 ### [The 68th Tony Awards are held in Radio City Music Hall in New York City with "All the Way" winning the Tony Award for Best Play. ](/news/2014/06/8/the-68th-tony-awards-are-held-in-radio-city-music-hall-in-new-york-city-with-all-the-way-winning-the-tony-award-for-best-play.md)
-_Context: Best Play, 68th Tony Awards, Radio City Music Hall, New York City, All the Way_
+_Context: Radio City Music Hall, Best Play, 68th Tony Awards, New York City, All the Way_
 
 ##### Bulgaria
 ### [The Government of Bulgaria orders a halt to construction work on the Gazprom-led South Stream pipeline project planned to bypass Ukraine as a transit country into Europe. ](/news/2014/06/8/the-government-of-bulgaria-orders-a-halt-to-construction-work-on-the-gazprom-led-south-stream-pipeline-project-planned-to-bypass-ukraine-as.md)

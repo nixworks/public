@@ -9,7 +9,7 @@ An oil crunch more serious than the financial crisis threatens to strike Britain
 
 ##### New Orleans Saints
 ### [New Orleans Saints beat the Indianapolis Colts 31-17 to win Super Bowl XLIV. ](/news/2010/02/7/new-orleans-saints-beat-the-indianapolis-colts-31-17-to-win-super-bowl-xliv.md)
-_Context: Super Bowl XLIV, Indianapolis Colts, New Orleans Saints_
+_Context: Indianapolis Colts, New Orleans Saints, Super Bowl XLIV_
 
 ##### Laura Chinchilla
 ### [Laura Chinchilla is elected President of Costa Rica, the first woman to take the office, following the 2010 general election. ](/news/2010/02/7/laura-chinchilla-is-elected-president-of-costa-rica-the-first-woman-to-take-the-office-following-the-2010-general-election.md)
@@ -17,7 +17,7 @@ Ruling party candidate Laura Chinchilla has been elected Costa Rica&#39;s first 
 
 ##### President of Argentina
 ### [First Gentleman and former President Nstor Kirchner of Argentina undergoes emergency surgery to remove a blockage in his carotid artery. ](/news/2010/02/7/first-gentleman-and-former-president-nestor-kirchner-of-argentina-undergoes-emergency-surgery-to-remove-a-blockage-in-his-carotid-artery.md)
-_Context: President of Argentina, Nstor Kirchner, Argentina, carotid artery_
+_Context: President of Argentina, Argentina, Nstor Kirchner, carotid artery_
 
 ##### Nigeria
 ### [In Nigeria, the Governor of Anambra state, Peter Obi, is controversially re-elected. ](/news/2010/02/7/in-nigeria-the-governor-of-anambra-state-peter-obi-is-controversially-re-elected.md)
@@ -25,7 +25,7 @@ _Context: Peter Obi, Nigeria, Governor of Anambra state_
 
 ##### Middletown, Connecticut
 ### [The Kleen Energy Systems plant in Middletown, Connecticut, explodes, killing at least five people and injuring at least 14 others. ](/news/2010/02/7/the-kleen-energy-systems-plant-in-middletown-connecticut-explodes-killing-at-least-five-people-and-injuring-at-least-14-others.md)
-_Context: explodes, Middletown, Connecticut_
+_Context: Middletown, Connecticut, explodes_
 
 ##### Pakistan
 ### [A Pakistani lawyers' group in Lahore threatens to "burn alive" anyone who prosecutes lawyer accused of murdering a 12-year-old servant girl. ](/news/2010/02/7/a-pakistani-lawyers-group-in-lahore-threatens-to-burn-alive-anyone-who-prosecutes-lawyer-accused-of-murdering-a-12-year-old-servant-girl.md)
@@ -45,7 +45,7 @@ Defence Minister John Faulkner has joined his New Zealand counterpart Dr Wayne M
 
 ##### Huang Yizhong
 ### [Huang Yizhong is jailed for 13 years in Jiangmen, Guangdong, for copying and spreading pornographic material through his website. ](/news/2010/02/7/huang-yizhong-is-jailed-for-13-years-in-jiangmen-guangdong-for-copying-and-spreading-pornographic-material-through-his-website.md)
-_Context: pornography, Jiangmen, Guangdong, Huang Yizhong_
+_Context: pornography, Guangdong, Jiangmen, Huang Yizhong_
 
 ##### United Kingdom
 ### [Britain is to tighten the rules on immigrants entering the country on a student visa in a clampdown on a system which some security experts say has been exploited by Islamist militants. ](/news/2010/02/7/britain-is-to-tighten-the-rules-on-immigrants-entering-the-country-on-a-student-visa-in-a-clampdown-on-a-system-which-some-security-experts.md)
@@ -53,7 +53,7 @@ Britain is to tighten the rules on immigrants entering Britain on a student visa
 
 ##### Iran
 ### [Iranian President Mahmoud Ahmadinejad orders his country's atomic agency to begin enriching uranium to a higher level. ](/news/2010/02/7/iranian-president-mahmoud-ahmadinejad-orders-his-country-s-atomic-agency-to-begin-enriching-uranium-to-a-higher-level.md)
-_Context: Mahmoud Ahmadinejad, uranium, Iran_
+_Context: Mahmoud Ahmadinejad, Iran, uranium_
 
 ##### Libya
 ### [Libya bans YouTube, independent news sites and opposition web sites in crackdown on controversial subjects, including human rights abuses by the Libyan government. ](/news/2010/02/7/libya-bans-youtube-independent-news-sites-and-opposition-web-sites-in-crackdown-on-controversial-subjects-including-human-rights-abuses-by.md)

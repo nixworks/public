@@ -13,7 +13,7 @@ Suspected Boko Haram militants. some disguised as soldiers, kill dozens of Niger
 
 ##### Rural Development
 ### [India's Rural Development Minister, Gopinath Munde, dies in a road accident while on his way to Delhi Airport. ](/news/2014/06/3/india-s-rural-development-minister-gopinath-munde-dies-in-a-road-accident-while-on-his-way-to-delhi-airport.md)
-_Context: Rural Development, Delhi Airport, Gopinath Munde_
+_Context: Delhi Airport, Gopinath Munde, Rural Development_
 
 ##### Saudi Arabia
 ### [Saudi Arabia announces 113 previously unreported cases of MERS, revises the death toll to 282, and fires its minister of health. ](/news/2014/06/3/saudi-arabia-announces-113-previously-unreported-cases-of-mers-revises-the-death-toll-to-282-and-fires-its-minister-of-health.md)
@@ -29,7 +29,7 @@ _Context: Muttahida Qaumi Movement, London police, Altaf Hussain_
 
 ##### Police
 ### [Nigerian police in Abuja ban all protests planned in support of the 276 girls kidnapped from northern Nigeria by Boko Haram. ](/news/2014/06/3/nigerian-police-in-abuja-ban-all-protests-planned-in-support-of-the-276-girls-kidnapped-from-northern-nigeria-by-boko-haram.md)
-_Context: Abuja, 276 girls kidnapped from northern Nigeria, Police, Boko Haram_
+_Context: Boko Haram, Police, 276 girls kidnapped from northern Nigeria, Abuja_
 
 ##### President
 ### [Voters in Syria go to the polls for a presidential election with incumbent President Bashar al-Assad all but certain to win amidst an opposition boycott. On Wednesday, the Syrian government claimed that he had won with 88.7% of the vote. ](/news/2014/06/3/voters-in-syria-go-to-the-polls-for-a-presidential-election-with-incumbent-president-bashar-al-assad-all-but-certain-to-win-amidst-an-opposi.md)

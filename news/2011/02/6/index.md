@@ -17,7 +17,7 @@ _Context: Afghanistan_
 
 ##### Israel
 ### [Israeli soldiers have shot three Palestinians, two while they collected gravel from destroyed homes in Gaza, and another while he worked in the northern Gaza Strip. ](/news/2011/02/6/israeli-soldiers-have-shot-three-palestinians-two-while-they-collected-gravel-from-destroyed-homes-in-gaza-and-another-while-he-worked-in.md)
-_Context: Gaza Strip, gravel, Israel_
+_Context: Israel, Gaza Strip, gravel_
 
 ##### Indian Army
 ### [The Indian Army insists it is to inquire "on its own" the death of a man in Kashmir, allegedly killed in an army ambush. His family says he was snatched from his home before being shot. ](/news/2011/02/6/the-indian-army-insists-it-is-to-inquire-on-its-own-the-death-of-a-man-in-kashmir-allegedly-killed-in-an-army-ambush-his-family-says-he.md)
@@ -29,11 +29,11 @@ At least 30 soldiers have been killed in southern Sudan during internal fighting
 
 ##### Afghanistan President
 ### [The President of Afghanistan Hamid Karzai says that a transfer of security authority from international to Afghan forces will begin on March 21. ](/news/2011/02/6/the-president-of-afghanistan-hamid-karzai-says-that-a-transfer-of-security-authority-from-international-to-afghan-forces-will-begin-on-march.md)
-_Context: Hamid Karzai, Afghanistan President, Afghanistan_
+_Context: Afghanistan President, Afghanistan, Hamid Karzai_
 
 ##### Indian Navy
 ### [The Indian Navy captures 28 suspected Somali pirates on a Thai fishing vessel in the Indian Ocean. ](/news/2011/02/6/the-indian-navy-captures-28-suspected-somali-pirates-on-a-thai-fishing-vessel-in-the-indian-ocean.md)
-_Context: Indian, Somali pirates, Thailand, Indian Navy_
+_Context: Thailand, Indian Navy, Indian, Somali pirates_
 
 ##### United Nations
 ### [A United Nations World Heritage Site is damaged and collapses due to a dispute between Cambodia and Thailand. ](/news/2011/02/6/a-united-nations-world-heritage-site-is-damaged-and-collapses-due-to-a-dispute-between-cambodia-and-thailand.md)
@@ -41,7 +41,7 @@ Cambodia says a disputed 11th Century temple has been damaged on the third day o
 
 ##### Easter Island
 ### [Police on Easter Island evict indigenous protesters battling for ancestral lands and a larger share of tourist revenues from the grounds of a luxury hotel. ](/news/2011/02/6/police-on-easter-island-evict-indigenous-protesters-battling-for-ancestral-lands-and-a-larger-share-of-tourist-revenues-from-the-grounds-of.md)
-_Context: Easter Island, indigenous protesters_
+_Context: indigenous protesters, Easter Island_
 
 ##### Victoria
 ### [Thousands of people in the Australian state of Victoria are forced to evacuate due to flooding. ](/news/2011/02/6/thousands-of-people-in-the-australian-state-of-victoria-are-forced-to-evacuate-due-to-flooding.md)
@@ -53,7 +53,7 @@ A widespread blackout hit at eight states in Brazil&#039;s northeast Friday expo
 
 ##### Middle East Quartet
 ### [Palestinian leaders express disappointment at the refusal of the Middle East Quartet &mdash; United States, United Nations, European Union and Russia &mdash; to hear their call for unilateral statehood and failure to take a strong stance on Israel's settlement construction at its February 5 meeting in Munich. ](/news/2011/02/6/palestinian-leaders-express-disappointment-at-the-refusal-of-the-middle-east-quartet-mdash-united-states-united-nations-european-union-a.md)
-_Context: United States, Munich, United Nations, Middle East Quartet, Russia, Israel, European Union_
+_Context: European Union, Middle East Quartet, Russia, Israel, American, United Nations, Munich_
 
 ##### European Union
 ### [The European Union's foreign policy chief Catherine Ashton expresses what she believes is the even more crucial need for progress in peace talks between the Israelis and the Palestinians due to events in Egypt and other countries. ](/news/2011/02/6/the-european-union-s-foreign-policy-chief-catherine-ashton-expresses-what-she-believes-is-the-even-more-crucial-need-for-progress-in-peace-t.md)
@@ -61,7 +61,7 @@ European Union foreign policy chief Catherine Ashton said yesterday that events 
 
 ##### Spanish police
 ### [Spanish police remove more than 100 rowdy Belgian students from an aeroplane. ](/news/2011/02/6/spanish-police-remove-more-than-100-rowdy-belgian-students-from-an-aeroplane.md)
-_Context: Spanish police, Belgium_
+_Context: Belgium, Spanish police_
 
 ##### Anat Kamm
 ### [24-year-old Anat Kamm, a former soldier of Israel, signs a plea bargain to plead guilty in Tel Aviv District Court to a lesser charge of leaking more than 2,000 secret military documents to the "Haaretz" newspaper; she may be jailed for 15 years. "Haaretz" reported a possibly-illegal Israeli assassination operation against Palestinians in the West Bank; her lawyer says she "believed she stumbled onto evidence of war crimes". ](/news/2011/02/6/24-year-old-anat-kamm-a-former-soldier-of-israel-signs-a-plea-bargain-to-plead-guilty-in-tel-aviv-district-court-to-a-lesser-charge-of-lea.md)
@@ -81,7 +81,7 @@ _Context: Sandra Avila Beltran, Mexican drug cartel_
 
 ##### Russia
 ### [Russian billionaire Ashot Egiazaryan, facing charges of financial crimes, flees to the United States claiming persecution. ](/news/2011/02/6/russian-billionaire-ashot-egiazaryan-facing-charges-of-financial-crimes-flees-to-the-united-states-claiming-persecution.md)
-_Context: Ashot Egiazaryan, Russia, United States_
+_Context: Russia, Ashot Egiazaryan, American_
 
 ##### Nepal
 ### [Nepal's prime minister Jhala Nath Khanal takes his oath of office. ](/news/2011/02/6/nepal-s-prime-minister-jhala-nath-khanal-takes-his-oath-of-office.md)

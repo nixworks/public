@@ -5,7 +5,7 @@ Formats: [HTML](2012/02/8/index.html)  [JSON](2012/02/8/index.json)  [XML](2012/
 
 ##### Pakistan
 ### [Pakistani officials claim that US drone missiles have killed ten people in Spalga village in North Waziristan. ](/news/2012/02/8/pakistani-officials-claim-that-us-drone-missiles-have-killed-ten-people-in-spalga-village-in-north-waziristan.md)
-_Context: Spalga, drones launch, Pakistan, North Waziristan_
+_Context: North Waziristan, drones launch, Spalga, Pakistan_
 
 ##### Government of Syria
 ### [The Syrian government launches an offensive in Homs, with tanks reported in neighbourhoods and dozens of people reported as dying over the past few hours. ](/news/2012/02/8/the-syrian-government-launches-an-offensive-in-homs-with-tanks-reported-in-neighbourhoods-and-dozens-of-people-reported-as-dying-over-the-p.md)
@@ -17,7 +17,7 @@ _Context: Islamist, Al-Shabaab, Mogadishu, Somalia_
 
 ##### Histadrut
 ### [Histadrut, Israel's trade union organisation, calls a nationwide strike with Ben Gurion Airport to be closed until midday. ](/news/2012/02/8/histadrut-israel-s-trade-union-organisation-calls-a-nationwide-strike-with-ben-gurion-airport-to-be-closed-until-midday.md)
-_Context: strike, Histadrut, Ben Gurion Airport, labour unions, Israel_
+_Context: strike, labour unions, Ben Gurion Airport, Histadrut, Israel_
 
 ##### Air France
 ### [Air France cancels long-haul flights due to a strike by staff. ](/news/2012/02/8/air-france-cancels-long-haul-flights-due-to-a-strike-by-staff.md)
@@ -29,11 +29,11 @@ Checks are ordered on all Airbus A380 superjumbos after cracks were found in win
 
 ##### Government
 ### [A meeting of the leaders of the parties comprising the Greek Government breaks up without agreeing to cuts prescribed by the European Union, the European Central Bank and the International Monetary Fund. ](/news/2012/02/8/a-meeting-of-the-leaders-of-the-parties-comprising-the-greek-government-breaks-up-without-agreeing-to-cuts-prescribed-by-the-european-union.md)
-_Context: European Union, European Central Bank, government, International Monetary Fund_
+_Context: European Central Bank, government, European Union, International Monetary Fund_
 
 ##### Van Gogh
 ### [Vincent Van Gogh, Edgar Degas and Camille Pissarro artworks, from the personal collection of Elizabeth Taylor, sell for GBP13.7 million at Christie's in London. ](/news/2012/02/8/vincent-van-gogh-edgar-degas-and-camille-pissarro-artworks-from-the-personal-collection-of-elizabeth-taylor-sell-for-gbp13-7-million-at-c.md)
-_Context: Edgar Degas, Van Gogh, Camille Pissarro, Christie's, Elizabeth Taylor_
+_Context: Edgar Degas, Christie's, Van Gogh, Elizabeth Taylor, Camille Pissarro_
 
 ##### Zsa Zsa Gabor
 ### [Zsa Zsa Gabor, suffering from life-threatening health problems, has a party for her 95th birthday. ](/news/2012/02/8/zsa-zsa-gabor-suffering-from-life-threatening-health-problems-has-a-party-for-her-95th-birthday.md)
@@ -45,23 +45,23 @@ _Context: Pakistan, Lahore_
 
 ##### New Zealand
 ### [The New Zealand Royal Commission on the Pike River Mine disaster hears that a collapse in the coal extraction area was the most likely cause of the fatal blast in the mine on November 19, 2010 that claimed 29 lives. ](/news/2012/02/8/the-new-zealand-royal-commission-on-the-pike-river-mine-disaster-hears-that-a-collapse-in-the-coal-extraction-area-was-the-most-likely-cause.md)
-_Context: Royal Commission, New Zealand, Pike River Mine disaster, Pike River Mine_
+_Context: Pike River Mine disaster, Royal Commission, New Zealand, Pike River Mine_
 
 ##### Early 2012 European cold wave
 ### [Early 2012 European cold wave: The death toll throughout Europe rises to over 400 with the Danube River freezing over for 170 km. ](/news/2012/02/8/early-2012-european-cold-wave-the-death-toll-throughout-europe-rises-to-over-400-with-the-danube-river-freezing-over-for-170-km.md)
-_Context: Danube River, Early 2012 European cold wave, Europe_
+_Context: Europe, Danube River, Early 2012 European cold wave_
 
 ##### President of the Maldives
 ### [The new President of the Maldives Mohammed Waheed Hassan calls for the formation of a national unity government while supporters of former President Mohamed Nasheed riot. ](/news/2012/02/8/the-new-president-of-the-maldives-mohammed-waheed-hassan-calls-for-the-formation-of-a-national-unity-government-while-supporters-of-former-p.md)
-_Context: President of the Maldives, Mohamed Nasheed, Mohammed Waheed Hassan, national unity government_
+_Context: President of the Maldives, Mohammed Waheed Hassan, national unity government, Mohamed Nasheed_
 
 ##### Bharatiya Janata Party
 ### [Three Bharatiya Janata Party Ministers in the Indian state of Karnataka &ndash; Laxman Savadi, C C Patil and J. Krishna Palemar &ndash; are forced to resign after footage is shown of them watching a pornographic video in the Legislative Assembly. ](/news/2012/02/8/three-bharatiya-janata-party-ministers-in-the-indian-state-of-karnataka-ndash-laxman-savadi-c-c-patil-and-j-krishna-palemar-ndash-are.md)
-_Context: C C Patil, J. Krishna Palemar, India, Laxman Savadi, Karnataka, Legislative Assembly, Bharatiya Janata Party_
+_Context: Legislative Assembly, Karnataka, Bharatiya Janata Party, Laxman Savadi, India, J. Krishna Palemar, C C Patil_
 
 ##### Washington State Legislature
 ### [The Washington State Legislature in the United States approves a bill that will allow same-sex marriage in the state. ](/news/2012/02/8/the-washington-state-legislature-in-the-united-states-approves-a-bill-that-will-allow-same-sex-marriage-in-the-state.md)
-_Context: United States, Washington State Legislature, same-sex marriage_
+_Context: same-sex marriage, American, Washington State Legislature_
 
 ##### Wang Lijun
 ### [Wang Lijun, former police chief of the central Chinese city of Chongqing, unexpectedly leaves his position and goes to the Chongqing U.S. Consulate, sparking rumours of his political downfall. ](/news/2012/02/8/wang-lijun-former-police-chief-of-the-central-chinese-city-of-chongqing-unexpectedly-leaves-his-position-and-goes-to-the-chongqing-u-s-co.md)
@@ -69,7 +69,7 @@ A top Chinese policeman in charge of a major crackdown on organised crime goes o
 
 ##### Cour de Justice de la Rpublique
 ### [Three investigating judges from the Cour de Justice de la Rpublique file preliminary charges against former French Minister of Labor, Solidarity and Public service ric Woerth over "passive influence peddling" in relation to the affairs of L'Oreal heiress Liliane Bettencourt. ](/news/2012/02/8/three-investigating-judges-from-the-cour-de-justice-de-la-republique-file-preliminary-charges-against-former-french-minister-of-labor-solid.md)
-_Context: Cour de Justice de la Rpublique, L'Oreal, Liliane Bettencourt, ric Woerth, French-born_
+_Context: Cour de Justice de la Rpublique, French-born, L'Oreal, Liliane Bettencourt, ric Woerth_
 
 ##### Charlottesville
 ### [In Charlottesville, Virginia, U.S., the prosecution and defense both make their opening statements in the trial of former University of Virginia men's lacrosse player George Huguely on murder charges in the 2010 death of former UVA women's lacrosse player Yeardley Love. ](/news/2012/02/8/in-charlottesville-virginia-u-s-the-prosecution-and-defense-both-make-their-opening-statements-in-the-trial-of-former-university-of-virg.md)

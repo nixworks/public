@@ -13,7 +13,7 @@ Nelson Mandela made a furious phone call to the Cabinet against the Iraq invasio
 
 ##### Iraq
 ### [A civilian is killed and six people injured in fighting in Iraq's Diyala Governorate. ](/news/2010/09/13/a-civilian-is-killed-and-six-people-injured-in-fighting-in-iraq-s-diyala-governorate.md)
-_Context: Iraq, Diyala Governorate_
+_Context: Diyala Governorate, Iraq_
 
 ##### Cuba
 ### [Cuba announces plans to cut up to half a million public sector jobs to revive the island's economy, in the biggest private sector shift since the 1959 revolution. ](/news/2010/09/13/cuba-announces-plans-to-cut-up-to-half-a-million-public-sector-jobs-to-revive-the-island-s-economy-in-the-biggest-private-sector-shift-sinc.md)
@@ -21,11 +21,11 @@ Cuba plans to lay off more than a million public sector workers, with half the j
 
 ##### Basel Committee on Banking Supervision
 ### [The Basel Committee on Banking Supervision based in Basel, Switzerland, increases capital requirements for banks around the world to be introduced on 1 January 2015. ](/news/2010/09/13/the-basel-committee-on-banking-supervision-based-in-basel-switzerland-increases-capital-requirements-for-banks-around-the-world-to-be-intr.md)
-_Context: Basel, bank, Switzerland, Basel Committee on Banking Supervision_
+_Context: Switzerland, Basel Committee on Banking Supervision, bank, Basel_
 
 ##### Harley-Davidson
 ### [Harley-Davidson workers in Menomonee Falls, Wisconsin approve a new contract freezing pay and cutting jobs following a threat to move production from the state cutting 1,350 jobs. ](/news/2010/09/13/harley-davidson-workers-in-menomonee-falls-wisconsin-approve-a-new-contract-freezing-pay-and-cutting-jobs-following-a-threat-to-move-produc.md)
-_Context: Wisconsin, Harley-Davidson, Menomonee Falls_
+_Context: Wisconsin, Menomonee Falls, Harley-Davidson_
 
 ##### Food and Drug Administration
 ### [A study of Food and Drug Administration and U.S. Department of Agriculture employees shows that the food industry has been successfully withholding information from inspectors and pressuring the government agencies to withdraw or alter policies which promote food safety. ](/news/2010/09/13/a-study-of-food-and-drug-administration-and-u-s-department-of-agriculture-employees-shows-that-the-food-industry-has-been-successfully-with.md)
@@ -33,11 +33,11 @@ The food industry is jeopardizing U.S. public health by withholding information 
 
 ##### Conviasa
 ### [At least 17 people die after a Conviasa ATR 42 crashes near Ciudad Guayana in Venezuela's Bolivar State. ](/news/2010/09/13/at-least-17-people-die-after-a-conviasa-atr-42-crashes-near-ciudad-guayana-in-venezuela-s-bolavar-state.md)
-_Context: Ciudad Guayana, Conviasa, Bolivar State, crashes, ATR 42, Venezuela_
+_Context: Conviasa, Venezuela, Bolivar State, crashes, ATR 42, Ciudad Guayana_
 
 ##### Monsoon
 ### [Monsoon flooding on the Yamuna River threatens the Taj Mahal in Agra, India after more than 800,000 cuft-s of water had to be released from a barrage in Haryana, while hundreds of nearby villages flooded and flooding continues in Uttar Pradesh and Punjab. ](/news/2010/09/13/monsoon-flooding-on-the-yamuna-river-threatens-the-taj-mahal-in-agra-india-after-more-than-800-000-cuft-s-of-water-had-to-be-released-from.md)
-_Context: Uttar Pradesh, barrage, Taj Mahal, Agra, Haryana, India, Punjab, Yamuna River, Monsoon_
+_Context: Haryana, barrage, Yamuna River, Monsoon, India, Agra, Punjab, Taj Mahal, Uttar Pradesh_
 
 ##### Yuri Fedotov
 ### [Russian diplomat Yuri Fedotov takes office as the head of the United Nations Office on Drugs and Crime. ](/news/2010/09/13/russian-diplomat-yuri-fedotov-takes-office-as-the-head-of-the-united-nations-office-on-drugs-and-crime.md)
@@ -53,11 +53,11 @@ It seems Kim Jong-il ̔s poor health is the reason for the delay of North Korea 
 
 ##### Andre-Joseph Leonard
 ### [Andre-Joseph Leonard, the Archbishopric of Mechelen-Brussels and head of Belgium's Roman Catholic Church, announces how the church will deal with widespread cases of sexual abuse within its ranks. ](/news/2010/09/13/andra-c-joseph-la-c-onard-the-archbishopric-of-mechelen-brussels-and-head-of-belgium-s-roman-catholic-church-announces-how-the-church-will-de.md)
-_Context: Roman Catholic, Andre-Joseph Leonard, sexual abuse, Belgium, Archbishopric of Mechelen-Brussels_
+_Context: Andre-Joseph Leonard, Archbishopric of Mechelen-Brussels, Roman Catholic, sexual abuse, Belgium_
 
 #####  Congress
 ### [US defense officials claim they are preparing to notify Congress of plans to sell $60 billion of military equipment to Saudi Arabia. ](/news/2010/09/13/us-defense-officials-claim-they-are-preparing-to-notify-congress-of-plans-to-sell-60-billion-of-military-equipment-to-saudi-arabia.md)
-_Context:  Congress, Saudi Arabia_
+_Context: Saudi Arabia,  Congress_
 
 ## [Previous Day...](/news/2010/09/12/index.md)
 

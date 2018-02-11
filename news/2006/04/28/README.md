@@ -5,11 +5,11 @@ Formats: [HTML](2006/04/28/index.html)  [JSON](2006/04/28/index.json)  [XML](200
 
 ##### U.S. Army
 ### [ U.S. Army Lt. Col. Steven L. Jordan becomes the highest-ranking officer to have charges brought against him in connection with the Abu Ghraib abuse. ](/news/2006/04/28/u-s-army-lt-col-steven-l-jordan-becomes-the-highest-ranking-officer-to-have-charges-brought-against-him-in-connection-with-the-abu-ghra.md)
-_Context: Steven L. Jordan, Lieutenant Colonel, Abu Ghraib abuse, U.S. Army_
+_Context: U.S. Army, Abu Ghraib abuse, Lieutenant Colonel, Steven L. Jordan_
 
 ##### George W. Bush administration
 ### [ The Bush administration takes initial steps to use the States Secrets Privilege to block a lawsuit against AT&T and the NSA brought by the Electronic Frontier Foundation. The EFF has alleged that the government has secret computer rooms conducting broad, illegal surveillance of U.S. citizens. ](/news/2006/04/28/the-bush-administration-takes-initial-steps-to-use-the-states-secrets-privilege-to-block-a-lawsuit-against-at-t-and-the-nsa-brought-by-the.md)
-_Context: George W. Bush administration, States Secrets Privilege, NSA, Electronic Frontier Foundation, AT&T_
+_Context: NSA, AT&T, Electronic Frontier Foundation, George W. Bush administration, States Secrets Privilege_
 
 ##### Lawmakers
 ### [ United States Congressman John Conyers and others file a lawsuit ("Conyers v. Bush") against President George W. Bush alleging a violation of the United States Constitution in the passing of the Deficit Reduction Act of 2005. ](/news/2006/04/28/united-states-congressman-john-conyers-and-others-file-a-lawsuit-conyers-v-bush-against-president-george-w-bush-alleging-a-violation.md)
@@ -25,15 +25,15 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Congressman
 ### [ Five members of the United States Congress are arrested outside the Sudanese embassy in Washington, D.C., for protesting the Darfur genocide. ](/news/2006/04/28/five-members-of-the-united-states-congress-are-arrested-outside-the-sudanese-embassy-in-washington-d-c-for-protesting-the-darfur-genocid.md)
-_Context: Sudan, Congressman, Darfur conflict_
+_Context: Congressman, Sudan, Darfur conflict_
 
 ##### Puerto Rico Shouts march
 ### [ Around 50,000 people participate in the Puerto Rico Shouts march in San Juan, Puerto Rico, demanding a budget agreement to avert a partial shutdown of government offices and public schools. ](/news/2006/04/28/around-50-000-people-participate-in-the-puerto-rico-shouts-march-in-san-juan-puerto-rico-demanding-a-budget-agreement-to-avert-a-partial.md)
-_Context: public schools, Puerto Rico Shouts march, San Juan, Puerto Rico_
+_Context: Puerto Rico Shouts march, public schools, San Juan, Puerto Rico_
 
 ##### Chung Mong Koo
 ### [ Chung Mong Koo, head of Hyundai Motor Company, is arrested in South Korea on charges of embezzlement of 100 billion won ($106 million USD), among other corruption charges. ](/news/2006/04/28/chung-mong-koo-head-of-hyundai-motor-company-is-arrested-in-south-korea-on-charges-of-embezzlement-of-100-billion-won-106-million-usd.md)
-_Context: Hyundai, Chung Mong Koo, corruption, embezzlement, South Korea, won_
+_Context: South Korea, embezzlement, corruption, Chung Mong Koo, Hyundai, won_
 
 ##### Port Arthur, Tasmania
 ### [ In Port Arthur, Tasmania, Australia, memorial services are held to commemorate the tenth anniversary of the Port Arthur massacre, in which a lone gunman murdered 35 people at the popular tourist town in the country's worst killing spree. Prime Minister John Howard led prayers at the service. ](/news/2006/04/28/in-port-arthur-tasmania-australia-memorial-services-are-held-to-commemorate-the-tenth-anniversary-of-the-port-arthur-massacre-in-which.md)

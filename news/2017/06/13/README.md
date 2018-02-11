@@ -13,7 +13,7 @@ The US ambassador to Qatar said Tuesday she is resigning her post in Doha amid t
 
 ##### North Korea-United States relations
 ### [After over a year in North Korean prison, the government releases the one-year comatose Otto Warmbier after negotiations from the United States Department of State. ](/news/2017/06/13/after-over-a-year-in-north-korean-prison-the-government-releases-the-one-year-comatose-otto-warmbier-after-negotiations-from-the-united-sta.md)
-_Context: coma, North Korea-United States relations, State Department, Otto Warmbier, North Korea_
+_Context: State Department, coma, North Korea, Otto Warmbier, North Korea-United States relations_
 
 ##### Defects
 ### [A North Korean soldier crosses the Korean Demilitarized Zone (DMZ) and defects to South Korea, the first since September 2016. ](/news/2017/06/13/a-north-korean-soldier-crosses-the-korean-demilitarized-zone-dmz-and-defects-to-south-korea-the-first-since-september-2016.md)

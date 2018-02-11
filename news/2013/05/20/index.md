@@ -9,13 +9,13 @@ More than 70 people are killed and many more wounded by car bombs and suicide at
 
 ##### Makhachkala
 ### [Twin car bombs explode in Makhachkala, capital of the Russian republic of Dagestan, killing 4 and injuring almost 50 others. Hours later authorities announced they have foiled a terror attack in Moscow.](/news/2013/05/20/twin-car-bombs-explode-in-makhachkala-capital-of-the-russian-republic-of-dagestan-killing-4-and-injuring-almost-50-others-hours-later-aut.md)
-_Context: Dagestan, Makhachkala, Moscow, Republic_
+_Context: Makhachkala, Dagestan, Republic, Moscow_
 
 ##### North Korea
 ### [North Korea launches short-ranged projectiles off its coast for the third day in a row. ](/news/2013/05/20/north-korea-launches-short-ranged-projectiles-off-its-coast-for-the-third-day-in-a-row.md)
 The North has been firing short-range projectiles off its east coast since Saturday, leaving regional officials puzzled over its motives.
 
-##### United States
+##### American
 ### [A massive two mile wide tornado strikes south of the US city of Oklahoma City, causing widespread damage and causing the National Weather Service to issue a rare tornado emergency. ](/news/2013/05/20/a-massive-two-mile-wide-tornado-strikes-south-of-the-us-city-of-oklahoma-city-causing-widespread-damage-and-causing-the-national-weather-se.md)
 Helicopter images of Moore, Oklahoma show tracts of devastated neighborhoods.
 
@@ -29,7 +29,7 @@ Rail services in Wellington have returned to normal after delays caused by a tra
 
 ##### Cappadocia
 ### [A hot air balloon crashes in Cappadocia, Turkey, killing 2 tourists and injuring another 20. ](/news/2013/05/20/a-hot-air-balloon-crashes-in-cappadocia-turkey-killing-2-tourists-and-injuring-another-20.md)
-_Context: Cappadocia, Turkey_
+_Context: Turkey, Cappadocia_
 
 ##### BBC
 ### [The BBC documentary series "Panorama" airs unseen footage from the 1989 Hillsborough disaster that casts doubt on medical evidence given at the inquest. ](/news/2013/05/20/the-bbc-documentary-series-panorama-airs-unseen-footage-from-the-1989-hillsborough-disaster-that-casts-doubt-on-medical-evidence-given-at.md)
@@ -37,23 +37,23 @@ Crucial evidence from the 1989 Hillsborough football disaster, which was undermi
 
 ##### North Korea
 ### [North Korea confirms a bird flu outbreak that has forced authorities to kill over 160,000 ducks in Pyongyang. ](/news/2013/05/20/north-korea-confirms-a-bird-flu-outbreak-that-has-forced-authorities-to-kill-over-160-000-ducks-in-pyongyang.md)
-_Context: North Korea, bird flu, Pyongyang_
+_Context: North Korea, Pyongyang, bird flu_
 
 ##### Myanmar's president's office
 ### [The President of Myanmar Thein Sein visits the White House as part of his visit to the United States, the first by a Burmese head of state in 47 years. ](/news/2013/05/20/the-president-of-myanmar-thein-sein-visits-the-white-house-as-part-of-his-visit-to-the-united-states-the-first-by-a-burmese-head-of-state-i.md)
-_Context: United States, Thein Sein, White House, Myanmar's president's office_
+_Context: White House, Thein Sein, American, Myanmar's president's office_
 
 ##### Guatemala
 ### [Guatemala's Constitutional Court overturns a genocide conviction against former dictator Efran Ros Montt due to a dispute over jurisdiction. ](/news/2013/05/20/guatemala-s-constitutional-court-overturns-a-genocide-conviction-against-former-dictator-efrain-rios-montt-due-to-a-dispute-over-jurisdictio.md)
-_Context: Efran Ros Montt, genocide, Guatemala_
+_Context: genocide, Guatemala, Efran Ros Montt_
 
 ##### Immigration officials
 ### [Immigrant youths riot in Stockholm suburb Husby, burning more than 100 vehicles. ](/news/2013/05/20/immigrant-youths-riot-in-stockholm-suburb-husby-burning-more-than-100-vehicles.md)
-_Context: Husby, Stockholm, immigration officials, riot_
+_Context: Stockholm, immigration officials, riot, Husby_
 
 ##### Church of Scotland
 ### [The Church of Scotland's General Assembly votes to allow openly gay men and women to become ministers. ](/news/2013/05/20/the-church-of-scotland-s-general-assembly-votes-to-allow-openly-gay-men-and-women-to-become-ministers.md)
-_Context: General Assembly, same-sex couples, Church of Scotland_
+_Context: same-sex couples, Church of Scotland, General Assembly_
 
 ## [Previous Day...](/news/2013/05/19/index.md)
 

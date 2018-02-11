@@ -29,7 +29,7 @@ _Context: Tiananmen Square protests of 1989_
 
 ##### Cameroon
 ### [Riot police in Cameroon arrest and disperse hundreds of farmers protesting in the capital Yaounde over poor road conditions and low state support for agriculture. ](/news/2011/05/31/riot-police-in-cameroon-arrest-and-disperse-hundreds-of-farmers-protesting-in-the-capital-yaounde-over-poor-road-conditions-and-low-state-su.md)
-_Context: agriculture, Yaounde, Cameroon_
+_Context: Yaounde, agriculture, Cameroon_
 
 ##### J. R. R. Tolkien
 ### [The titles and release dates of the two films based on J. R. R. Tolkien's "The Hobbit" are announced. ](/news/2011/05/31/the-titles-and-release-dates-of-the-two-films-based-on-j-r-r-tolkien-s-the-hobbit-are-announced.md)
@@ -61,11 +61,11 @@ _Context: digital locker, iCloud, major label, Apple Inc_
 
 ##### Assam
 ### [27 people are killed after their bus plunges into a gorge in Assam, eastern India. ](/news/2011/05/31/27-people-are-killed-after-their-bus-plunges-into-a-gorge-in-assam-eastern-india.md)
-_Context: India, Assam_
+_Context: Assam, India_
 
 ##### Crash of Air France Flight 447
 ### [Seventy-five additional bodies have been recovered from the wreckage of an Air France plane that crashed off the coast of Brazil two years ago, killing all 228 people aboard, bringing the total recovered so far to 127. ](/news/2011/05/31/seventy-five-additional-bodies-have-been-recovered-from-the-wreckage-of-an-air-france-plane-that-crashed-off-the-coast-of-brazil-two-years-a.md)
-_Context: Brazil, crash of Air France Flight 447_
+_Context: crash of Air France Flight 447, Brazil_
 
 ##### New Zealand government
 ### [New Zealand government experts predict that there is an almost one in four chance of another powerful earthquake in the Canterbury Region in the next 12 months. ](/news/2011/05/31/new-zealand-government-experts-predict-that-there-is-an-almost-one-in-four-chance-of-another-powerful-earthquake-in-the-canterbury-region-in.md)
@@ -103,7 +103,7 @@ _Context: Uganda, Bedford, Nick Clegg_
 
 ##### Istanbul
 ### [Thousands of people gather in Istanbul's central Taksim Square in memory of 9 activists killed during the Gaza flotilla raid a year ago. ](/news/2011/05/31/thousands-of-people-gather-in-istanbul-s-central-taksim-square-in-memory-of-9-activists-killed-during-the-gaza-flotilla-raid-a-year-ago.md)
-_Context: Gaza flotilla raid, Istanbul, Taksim Square_
+_Context: Istanbul, Gaza flotilla raid, Taksim Square_
 
 ##### Sudan
 ### [Officials from north Sudan and southern Sudan tentatively agree to a demilitarised border following recent tensions over the disputed Abyei border region. ](/news/2011/05/31/officials-from-north-sudan-and-southern-sudan-tentatively-agree-to-a-demilitarised-border-following-recent-tensions-over-the-disputed-abyei.md)
@@ -111,7 +111,7 @@ The two sides have agreed to a preliminary arrangement on demilitarizing the bor
 
 ##### Bolivia
 ### [Bolivia takes steps to ensure that Ahmad Vahidi, the Iranian Minister of Defence, leaves the country as soon as possible following a complaint from Argentina who believed that he was responsible for the 1994 bombing of a Jewish Community City in Buenos Aires. ](/news/2011/05/31/bolivia-takes-steps-to-ensure-that-ahmad-vahidi-the-iranian-minister-of-defence-leaves-the-country-as-soon-as-possible-following-a-complai.md)
-_Context: Argentina, Minister of Defence, 1994 bombing of a Jewish Community City, Buenos Aires, Bolivia, Ahmad Vahidi, Iran_
+_Context: Iran, Buenos Aires, Ahmad Vahidi, Argentina, 1994 bombing of a Jewish Community City, Bolivia, Minister of Defence_
 
 ##### Rustam Makhmudov
 ### [Rustam Makhmudov, suspected of the 2006 shooting of Russian journalist Anna Politkovskaya, is arrested overnight at the home of his parents in Chechnya. ](/news/2011/05/31/rustam-makhmudov-suspected-of-the-2006-shooting-of-russian-journalist-anna-politkovskaya-is-arrested-overnight-at-the-home-of-his-parents.md)
@@ -119,7 +119,7 @@ The man suspected of shooting Russian journalist Anna Politkovskaya in 2006 is a
 
 ##### Serbia
 ### [Serbia's war crimes court rejects an appeal from former Bosnian Serb Colonel General Ratko Mladic against a transfer to a United Nations tribunal in The Hague to face genocide charges. ](/news/2011/05/31/serbia-s-war-crimes-court-rejects-an-appeal-from-former-bosnian-serb-colonel-general-ratko-mladia-against-a-transfer-to-a-united-nations-tr.md)
-_Context: The Hague, Colonel General, genocide, United Nations, Serbia, Ratko Mladic, Bosnian Serb_
+_Context: Serbia, United Nations, Colonel General, Ratko Mladic, Bosnian Serb, genocide, The Hague_
 
 ##### Extradition
 ### [A Spanish court approves the extradition of former Guatemalan Interior Minister Carlos Vielmann to face murder charges in connection with a 2006 uprising at the Pavon prison in Guatemala where seven inmates were killed. ](/news/2011/05/31/a-spanish-court-approves-the-extradition-of-former-guatemalan-interior-minister-carlos-vielmann-to-face-murder-charges-in-connection-with-a.md)
@@ -139,7 +139,7 @@ The Dalai Lama has formally relinquished his political and administrative powers
 
 ##### Adil Abdul-Mahdi
 ### [Adil Abdul-Mahdi, First Vice President of Iraq, resigns after Prime Minister Nouri Al-Maliki fends off critics who say he has not delivered on power-sharing promises. ](/news/2011/05/31/adil-abdul-mahdi-first-vice-president-of-iraq-resigns-after-prime-minister-nouri-al-maliki-fends-off-critics-who-say-he-has-not-delivered.md)
-_Context: Iraq Prime Minister, Nouri Al-Maliki, Adil Abdul-Mahdi, Vice President_
+_Context: Nouri Al-Maliki, Iraq Prime Minister, Adil Abdul-Mahdi, Vice President_
 
 ##### Irish Independent
 ### [The "Irish Independent" and "The Belfast Telegraph" begin a week-long joint publication of the Ireland Cables, the latest batch of U.S. diplomatic cables, in co-operation with WikiLeaks and Julian Assange. The cables, dating back more than 25 years, feature government members, diplomats, alleged terrorists, oil companies and Vatican insiders. ](/news/2011/05/31/the-irish-independent-and-the-belfast-telegraph-begin-a-week-long-joint-publication-of-the-ireland-cables-the-latest-batch-of-u-s-dipl.md)

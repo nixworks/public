@@ -25,11 +25,11 @@ Canada and the EU sign the long-delayed Ceta free trade deal at a summit in Brus
 
 ##### Boko Haram insurgency
 ### [The United Nations and Nigeria come to an agreement to release 876 children being held due to suspicions that they are tied to Boko Haram. ](/news/2016/10/30/the-united-nations-and-nigeria-come-to-an-agreement-to-release-876-children-being-held-due-to-suspicions-that-they-are-tied-to-boko-haram.md)
-_Context: United Nations, Boko Haram insurgency, Boko Haram, Nigeria_
+_Context: Boko Haram, Boko Haram insurgency, Nigeria, United Nations_
 
-##### United States
+##### American
 ### [The United States orders all civilian staff family members to leave its consulate in Istanbul, Turkey, due to increasing threats from terrorist organizations. ](/news/2016/10/30/the-united-states-orders-all-civilian-staff-family-members-to-leave-its-consulate-in-istanbul-turkey-due-to-increasing-threats-from-terror.md)
-_Context: U.S. Mission, Istanbul, United States, Turkey_
+_Context: American, Istanbul, U.S. Mission, Turkey_
 
 ##### 2016 Turkish purges
 ### [Turkey dismisses another 10,000 civil servants and closes 15 more media outlets for alleged ties to terrorist organizations and cleric Fethullah Gulen. ](/news/2016/10/30/turkey-dismisses-another-10-000-civil-servants-and-closes-15-more-media-outlets-for-alleged-ties-to-terrorist-organizations-and-cleric-fethu.md)
@@ -37,11 +37,11 @@ Turkey said it had dismissed a further 10,000 civil servants and closed 15 more 
 
 ##### Agricultural Bank of China
 ### [Former Agricultural Bank of China chief executive Jiang Chaoliang is appointed Communist Party Secretary of Hubei province, filling the vacancy left by Li Hongzhong. ](/news/2016/10/30/former-agricultural-bank-of-china-chief-executive-jiang-chaoliang-is-appointed-communist-party-secretary-of-hubei-province-filling-the-vaca.md)
-_Context: Agricultural Bank of China, Communist Party Secretary, Li Hongzhong, Jiang Chaoliang_
+_Context: Jiang Chaoliang, Agricultural Bank of China, Communist Party Secretary, Li Hongzhong_
 
 ##### Moldovan presidential election
 ### [Voters in Moldova go to the polls for a presidential election. A run off election will be held on November 13 between Igor Dodon and Maia Sandu after no candidate achieved a majority of votes. ](/news/2016/10/30/voters-in-moldova-go-to-the-polls-for-a-presidential-election-a-run-off-election-will-be-held-on-november-13-between-igor-dodon-and-maia-sa.md)
-_Context: Moldova, Igor Dodon, Maia Sandu, Moldovan presidential election_
+_Context: Moldova, Maia Sandu, Igor Dodon, Moldovan presidential election_
 
 ##### Icelandic parliamentary election, 2016
 ### [Iceland's incumbent, centre-right Independence Party surprised pollsters by winning 29 percent of the vote (21 seats), thereby putting leader Bjarni Benediktsson in position to organize another coalition government. The Progressive Party, the current ruling partner, garnered 11.5% and eight positions, a loss of 11 seats. The new Pirate Party didn't perform as predicted with 14.5% of the ballots, though it did get 10 seats, an increase of seven more positions in the 63-seat parliament (Althing). ](/news/2016/10/30/icelandas-incumbent-centre-right-independence-party-surprised-pollsters-by-winning-29-percent-of-the-vote-21-seats-thereby-putting-lea.md)

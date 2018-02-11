@@ -5,11 +5,11 @@ Formats: [HTML](2007/02/25/index.html)  [JSON](2007/02/25/index.json)  [XML](200
 
 ##### Iran's Nuclear Program
 ### [ Iran's Nuclear Program: Ministers from Egypt, Indonesia, Jordan, Malaysia, Saudi Arabia, Turkey and Pakistan, as well as Turkey's Ekmeleddin Ihsanoglu, the secretary general of the Organisation of the Islamic Conference, a 57-member bloc of Islamic states, held a meeting Islamabad, Pakistan to discuss resolution of the Palestinian problem and the stand-off over Iran's nuclear program. ](/news/2007/02/25/iran-s-nuclear-program-ministers-from-egypt-indonesia-jordan-malaysia-saudi-arabia-turkey-and-pakistan-as-well-as-turkey-s-ekmeleddi.md)
-_Context: Pakistan, Islamabad, Organisation of Islamic Cooperation, Iran's Nuclear Program, Ekmeleddin Ihsanoglu_
+_Context: Iran's Nuclear Program, Pakistan, Islamabad, Organisation of Islamic Cooperation, Ekmeleddin Ihsanoglu_
 
 ##### 79th Academy Awards
 ### [ 79th Academy Awards: "The Departed" wins four Academy Awards including Best Picture and Best Director for Martin Scorsese. Helen Mirren wins the Academy Award for Best Actress for her role as Elizabeth II of the United Kingdom in "The Queen". Forest Whitaker won the Academy Award for Best Actor for playing Idi Amin in "The Last King of Scotland". Alan Arkin won the Academy Award for Best Supporting Actor for his role in "Little Miss Sunshine" with Jennifer Hudson winning the Academy Award for Best Supporting Actress for her role in "Dreamgirls". ](/news/2007/02/25/79th-academy-awards-the-departed-wins-four-academy-awards-including-best-picture-and-best-director-for-martin-scorsese-helen-mirren-win.md)
-_Context: Academy Award for Best Picture, Martin Scorsese, Forest Whitaker, 79th Academy Awards, Alan Arkin, Queen Elizabeth, Dame Helen Mirren, The Queen, The Departed, Idi Amin, Academy Award for Best Actor, Academy Award for Best Supporting Actor, Academy Award, Jennifer Hudson, Academy Award for Best Director, Dreamgirls, Academy Award, Academy Award for Best Supporting Actress, The Last King of Scotland, Little Miss Sunshine_
+_Context: Academy Award for Best Actor, The Queen, Queen Elizabeth, Idi Amin, 79th Academy Awards, Martin Scorsese, Academy Award for Best Supporting Actress, Little Miss Sunshine, Forest Whitaker, Academy Award, Alan Arkin, Jennifer Hudson, Academy Award, Academy Award for Best Supporting Actor, The Departed, Academy Award for Best Director, Dreamgirls, Dame Helen Mirren, Academy Award for Best Picture, The Last King of Scotland_
 
 ##### Pirates
 ### [ Pirates hijack the MV "Rozen" as it departed Somalia after delivering United Nations food aid. ](/news/2007/02/25/pirates-hijack-the-mv-rozen-as-it-departed-somalia-after-delivering-united-nations-food-aid.md)
@@ -17,7 +17,7 @@ Pirates on Sunday struck a ship that had just dropped off more than 1,800 tons o
 
 ##### Israel
 ### [ Israeli forces carry out a raid across parts of the West Bank town of Nablus. ](/news/2007/02/25/israeli-forces-carry-out-a-raid-across-parts-of-the-west-bank-town-of-nablus.md)
-_Context: Israel, Nablus, raid, Israel Defense Forces, West Bank_
+_Context: Israel, West Bank, raid, Nablus, Israeli Army_
 
 ##### President
 ### [ President Jalal Talabani has been flown to Jordan for medical treatment after falling ill. ](/news/2007/02/25/president-jalal-talabani-has-been-flown-to-jordan-for-medical-treatment-after-falling-ill.md)
@@ -25,7 +25,7 @@ A female suicide bomber blew herself up at a university and Moktada al-Sadr cond
 
 ##### Prime Minister of East Timor
 ### [ Prime Minister of East Timor Jos Ramos-Horta announces he is running for president. ](/news/2007/02/25/prime-minister-of-east-timor-jose-ramos-horta-announces-he-is-running-for-president.md)
-_Context: Jos Ramos-Horta, Prime Minister of East Timor, President_
+_Context: President, Jos Ramos-Horta, Prime Minister of East Timor_
 
 ##### Iran
 ### [ Iran successfully launches its first suborbital sounding rocket. ](/news/2007/02/25/iran-successfully-launches-its-first-suborbital-sounding-rocket.md)
@@ -33,7 +33,7 @@ _Context: suborbital, sounding rocket, Iran_
 
 ##### Senegal
 ### [ Voters in Senegal go to the polls to elect their next president, with incumbent Abdoulaye Wade facing a range of challengers including two former Prime Ministers: Moustapha Niasse and Idrissa Seck. ](/news/2007/02/25/voters-in-senegal-go-to-the-polls-to-elect-their-next-president-with-incumbent-abdoulaye-wade-facing-a-range-of-challengers-including-two.md)
-_Context: President, Prime Minister of Senegal, 2007 presidential election, Moustapha Niasse, Abdoulaye Wade, Senegal, Idrissa Seck_
+_Context: 2007 presidential election, Senegal, Abdoulaye Wade, Prime Minister of Senegal, President, Idrissa Seck, Moustapha Niasse_
 
 ##### Levina 1
 ### [ The Levina 1, which caught fire on the 22nd, sinks, killing at least one more person. ](/news/2007/02/25/the-levina-1-which-caught-fire-on-the-22nd-sinks-killing-at-least-one-more-person.md)

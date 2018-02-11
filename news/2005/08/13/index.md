@@ -5,23 +5,23 @@ Formats: [HTML](2005/08/13/index.html)  [JSON](2005/08/13/index.json)  [XML](200
 
 ##### US Soldiers
 ### [ Three US Soldiers are killed following an IED attack by insurgents in Tuz, northern Iraq. ](/news/2005/08/13/three-us-soldiers-are-killed-following-an-ied-attack-by-insurgents-in-tuz-northern-iraq.md)
-_Context: Iraq, Tuz Khormato, US Soldiers, Iraqi insurgency, IED_
+_Context: IED, US Soldiers, Iraqi insurgency, Tuz Khormato, Iraq_
 
 ##### Prime Minister
 ### [ Former Prime Minister David Lange of New Zealand dies. His 1984&ndash;1989 administration has left a permanent mark on New Zealand. ](/news/2005/08/13/former-prime-minister-david-lange-of-new-zealand-dies-his-1984-ndash-1989-administration-has-left-a-permanent-mark-on-new-zealand.md)
-_Context: New Zealand, David Lange, Prime Minister_
+_Context: New Zealand, Prime Minister, David Lange_
 
 ##### Chancellor
 ### [ German Chancellor Gerhard Schrder warns the U.S. to back away from the possibility of military action against Iran over its nuclear program. ](/news/2005/08/13/german-chancellor-gerhard-schroder-warns-the-u-s-to-back-away-from-the-possibility-of-military-action-against-iran-over-its-nuclear-progra.md)
-_Context: United States, Chancellor, Gerhard Schrder, Iran_
+_Context: American, Iran, Gerhard Schrder, Chancellor_
 
 ##### Ernest "Smokey" Smith
 ### [ Ernest "Smokey" Smith, the last surviving Canadian recipient of the Victoria Cross, is laid to rest in Vancouver, British Columbia, Canada following the largest Canadian military funeral in recent history. He died on 3 August at the age of 91. ](/news/2005/08/13/ernest-smokey-smith-the-last-surviving-canadian-recipient-of-the-victoria-cross-is-laid-to-rest-in-vancouver-british-columbia-canada.md)
-_Context: British Columbia, military funeral, Canadian, Vancouver, Victoria Cross, Ernest "Smokey" Smith, 3 August_
+_Context: Canadian, British Columbia, Vancouver, Ernest "Smokey" Smith, Victoria Cross, 3 August, military funeral_
 
 ##### Singapore
 ### [ Singapore President SR Nathan is returned unopposed by the Presidential Elections Committee, which ruled that he is the only eligible candidate out of 4 applicants. Singapore's nomination day is on October 17. ](/news/2005/08/13/singapore-president-sr-nathan-is-returned-unopposed-by-the-presidential-elections-committee-which-ruled-that-he-is-the-only-eligible-candi.md)
-_Context: Singapore, October 17, SR Nathan_
+_Context: SR Nathan, Singapore, October 17_
 
 ## [Previous Day...](/news/2005/08/12/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2014/05/11/index.html)  [JSON](2014/05/11/index.json)  [XML](201
 
 ##### Naxalite-Maoist insurgency
 ### [Seven police commandos are killed in a Naxalite attack in the Indian state of Maharashtra. ](/news/2014/05/11/seven-police-commandos-are-killed-in-a-naxalite-attack-in-the-indian-state-of-maharashtra.md)
-_Context: Naxalite-Maoist insurgency, Naxalite, Maharashtra_
+_Context: Maharashtra, Naxalite-Maoist insurgency, Naxalite_
 
 ## [Previous Day...](/news/2014/05/10/index.md)
 

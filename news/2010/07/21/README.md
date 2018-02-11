@@ -13,19 +13,19 @@ Gunmen have shot dead a civil rights campaigner and environmentalist in the west
 
 ##### Shia
 ### [At least 30 people are killed and 46 others are wounded, including women and children, as a car bomb explodes near a Shia mosque in Abu Sayeeda, Baqubah, Diyala in Iraq. ](/news/2010/07/21/at-least-30-people-are-killed-and-46-others-are-wounded-including-women-and-children-as-a-car-bomb-explodes-near-a-shia-mosque-in-abu-saye.md)
-_Context: Abu Sayeeda, mosque, Baqubah, Diyala Governorate, Iraq, Shia_
+_Context: Baqubah, Shia, Diyala Governorate, Abu Sayeeda, Iraq, mosque_
 
 ##### Yemen
 ### [At least 34 people are killed in clashes in northern Yemen between Houthi rebels and pro-government tribes. ](/news/2010/07/21/at-least-34-people-are-killed-in-clashes-in-northern-yemen-between-houthi-rebels-and-pro-government-tribes.md)
 Houthi rebels clash with government-allied tribesmen in north of country.
 
-##### United States
+##### American
 ### [The United States threatens to impose new sanctions on North Korea as part of its attempt to halt perceived nuclear weapons ambitions; North Korea describes United States military exercises in the Sea of Japan as "very dangerous sabre-rattling". ](/news/2010/07/21/the-united-states-threatens-to-impose-new-sanctions-on-north-korea-as-part-of-its-attempt-to-halt-perceived-nuclear-weapons-ambitions-north.md)
-_Context: North Korea, Sea of Japan, United States_
+_Context: Sea of Japan, American, North Korea_
 
 ##### Hydroelectric
 ### [Assailants launch an attack on a hydroelectric plant in Kabardino-Balkaria in southern Russia killing two guards and letting off bombs. ](/news/2010/07/21/assailants-launch-an-attack-on-a-hydroelectric-plant-in-kabardino-balkaria-in-southern-russia-killing-two-guards-and-letting-off-bombs.md)
-_Context: Kabardino-Balkaria, hydroelectric, Russia_
+_Context: hydroelectric, Russia, Kabardino-Balkaria_
 
 ##### Assam
 ### [Four people are killed and many more are injured by police fire in Assam in India during a protest by thousands against government registration. ](/news/2010/07/21/four-people-are-killed-and-many-more-are-injured-by-police-fire-in-assam-in-india-during-a-protest-by-thousands-against-government-registrat.md)
@@ -37,7 +37,7 @@ The wife of a senior Chinese government official was hospitalised after being be
 
 ##### Pabna
 ### [Three policemen are killed by suspected left-wing extremists in Pabna, Bangladesh. ](/news/2010/07/21/three-policemen-are-killed-by-suspected-left-wing-extremists-in-pabna-bangladesh.md)
-_Context: Pabna, Bangladesh_
+_Context: Bangladesh, Pabna_
 
 ##### Palestine
 ### [Two Palestinian militants of the Islamic Jihad Movement in Palestine are killed and another six wounded by Israeli shelling as they approached the Gaza Strip-Israel border near Beit Hanoun. A ten-year-old girl is also wounded. ](/news/2010/07/21/two-palestinian-militants-of-the-islamic-jihad-movement-in-palestine-are-killed-and-another-six-wounded-by-israeli-shelling-as-they-approach.md)
@@ -49,11 +49,11 @@ Young people rarely see positive portrayals of lesbian and gay people on televis
 
 ##### London Review of Books
 ### [The London Review of Books issues a public apology after more than 70 leading British writers, academics and arts figures accuse it of publishing a racist blogpost comparing African migrants to baboons and black shopkeepers to rottweilers. ](/news/2010/07/21/the-london-review-of-books-issues-a-public-apology-after-more-than-70-leading-british-writers-academics-and-arts-figures-accuse-it-of-publi.md)
-_Context: baboon, blog, London Review of Books, racial bias, rottweiler_
+_Context: rottweiler, racial bias, baboon, blog, London Review of Books_
 
 ##### Beryl Bainbridge
 ### [The Margaret Hewson Prize for new writing talent, judged by Beryl Bainbridge 10 days before her recent hospitalisation and eventual death, is awarded to Laura McClelland. ](/news/2010/07/21/the-margaret-hewson-prize-for-new-writing-talent-judged-by-beryl-bainbridge-10-days-before-her-recent-hospitalisation-and-eventual-death-i.md)
-_Context: Laura McClelland, Beryl Bainbridge_
+_Context: Beryl Bainbridge, Laura McClelland_
 
 ##### Prime Minister
 ### [Prime Minister of the United Kingdom David Cameron gifts President of the United States Barack Obama a painting, "Twenty First Century City", by graffiti artist Ben Eine, while Obama gifts Cameron a signed lithograph, "Column with Speed Lines", by Edward Ruscha. ](/news/2010/07/21/prime-minister-of-the-united-kingdom-david-cameron-gifts-president-of-the-united-states-barack-obama-a-painting-twenty-first-century-city.md)
@@ -85,7 +85,7 @@ Canadian-born newspaper tycoon Conrad Black is released from a US prison on $2m 
 
 ##### India
 ### [Indian banks turn away Muslims in record numbers. ](/news/2010/07/21/indian-banks-turn-away-muslims-in-record-numbers.md)
-_Context: India, Muslim_
+_Context: Muslim, India_
 
 ##### BP
 ### [Energy company BP announces it is to sell billions worth of assets in Canada, Egypt, Pakistan, United States and Vietnam to part-fund the clean-up cost of the Deepwater Horizon oil spill in the Gulf of Mexico. ](/news/2010/07/21/energy-company-bp-announces-it-is-to-sell-billions-worth-of-assets-in-canada-egypt-pakistan-united-states-and-vietnam-to-part-fund-the-cl.md)
@@ -117,7 +117,7 @@ Sudan president arrives in Chad despite being wanted on genocide and war crimes 
 
 ##### Australia
 ### [Despite pressure from Australia and New Zealand, a gathering of about 5 Pacific Island leaders is held in Fiji. ](/news/2010/07/21/despite-pressure-from-australia-and-new-zealand-a-gathering-of-about-5-pacific-island-leaders-is-held-in-fiji.md)
-_Context: Fiji, New Zealand, Australia, Melanesian Spearhead Group, Oceania_
+_Context: Melanesian Spearhead Group, Fiji, Australia, New Zealand, Oceania_
 
 ##### Hillary Clinton
 ### [Hillary Clinton, the United States Secretary of State, announces that the United States will impose further sanctions against North Korea as a result of the sinking of the South Korean warship ROKS "Cheonan". ](/news/2010/07/21/hillary-clinton-the-united-states-secretary-of-state-announces-that-the-united-states-will-impose-further-sanctions-against-north-korea-as.md)
@@ -125,7 +125,7 @@ The U.S. will ask China to help it enforce new sanctions against North Korea, ta
 
 ##### Mexican
 ### [Mexico states that it has the support of Bolivia, Cuba, Ecuador, Ghana, Guatemala, the Federated States of Micronesia, Panama, Senegal, Turkey, and Uruguay in pursuing its case against Arizona's immigration law. ](/news/2010/07/21/mexico-states-that-it-has-the-support-of-bolivia-cuba-ecuador-ghana-guatemala-the-federated-states-of-micronesia-panama-senegal-turk.md)
-_Context: Federated States of Micronesia, Senegal, Ecuador, Guatemala, immigration law, Turkey, Mexican, Panama, Uruguay, Ghana, Cuba, Arizona, Bolivia_
+_Context: Federated States of Micronesia, Panama, Bolivia, Senegal, immigration law, Turkey, Arizona, Ghana, Guatemala, Cuba, Ecuador, Mexican, Uruguay_
 
 ##### Arab
 ### [An Arab residing in Israel is convicted of "rape by deception" and jailed for 18 months for having consensual sexual intercourse in 2008 with an Israeli woman alleged to believe he was Jewish. ](/news/2010/07/21/an-arab-residing-in-israel-is-convicted-of-rape-by-deception-and-jailed-for-18-months-for-having-consensual-sexual-intercourse-in-2008-wit.md)
@@ -149,7 +149,7 @@ UN court back appeal against acquittal over offences allegedly committed during 
 
 ##### Human Rights Watch
 ### [Human Rights Watch calls for an independent investigation in Rwanda into the death of Andre Kagwa Rwisereka, vice president of the opposition Democratic Green Party, who was killed weeks before a presidential election. ](/news/2010/07/21/human-rights-watch-calls-for-an-independent-investigation-in-rwanda-into-the-death-of-andre-kagwa-rwisereka-vice-president-of-the-oppositio.md)
-_Context: presidential election, Rwanda, Human Rights Watch, Democratic Greens, Andre Kagwa Rwisereka_
+_Context: Andre Kagwa Rwisereka, Democratic Greens, Rwanda, presidential election, Human Rights Watch_
 
 ##### Italy
 ### [Italian police announce 67 arrests, EUR250 million worth of property seizures and the "wipe out" of a local clan. ](/news/2010/07/21/italian-police-announce-67-arrests-a-250-million-worth-of-property-seizures-and-the-wipe-out-of-a-local-clan.md)
@@ -173,7 +173,7 @@ US president says act will create the strongest financial protections for US con
 
 ##### Nepal
 ### [Nepal's lawmakers fail to elect a new Prime Minister as no candidate manages to secure the required number of votes . ](/news/2010/07/21/nepal-s-lawmakers-fail-to-elect-a-new-prime-minister-as-no-candidate-manages-to-secure-the-required-number-of-votes.md)
-_Context: Nepal, Prime Minister_
+_Context: Prime Minister, Nepal_
 
 ##### Penguin
 ### [Scientists investigate the deaths of approximately 500 penguins whose corpses washed up on Brazilian beaches. ](/news/2010/07/21/scientists-investigate-the-deaths-of-approximately-500-penguins-whose-corpses-washed-up-on-brazilian-beaches.md)
@@ -181,7 +181,7 @@ _Context: penguin, Brazil_
 
 ##### R136a1
 ### [Scientists announce the discovery of R136a1, the most massive star ever found. ](/news/2010/07/21/scientists-announce-the-discovery-of-r136a1-the-most-massive-star-ever-found.md)
-_Context: R136a1, most massive_
+_Context: most massive, R136a1_
 
 ##### Hockey India
 ### [Hockey India investigates after M. K. Kaushik, 1980 Olympic gold medalist and coach of the women's team, allegedly sexually harasses a squad member; he denies the allegation but temporarily resigns pending the outcome of the investigation. ](/news/2010/07/21/hockey-india-investigates-after-m-k-kaushik-1980-olympic-gold-medalist-and-coach-of-the-women-s-team-allegedly-sexually-harasses-a-squad.md)

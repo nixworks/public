@@ -17,7 +17,7 @@ KABUL, Afghanistan--Eleven people, including eight Turkish nationals, were captu
 
 ##### Nigeria
 ### [The Nigerian Red Cross claims that 185 people have been killed in Borno State in the north of country over the past few days as a result of fighting between militants and government state forces. The local military claim the numbers are inflated. ](/news/2013/04/22/the-nigerian-red-cross-claims-that-185-people-have-been-killed-in-borno-state-in-the-north-of-country-over-the-past-few-days-as-a-result-of.md)
-_Context: Borno State, Nigeria, Red Cross_
+_Context: Borno State, Red Cross, Nigeria_
 
 ##### Comedy Central
 ### [Comedy Central decides to not renew "Futurama", meaning that the show may end on September 4, 2013. ](/news/2013/04/22/comedy-central-decides-to-not-renew-futurama-meaning-that-the-show-may-end-on-september-4-2013.md)

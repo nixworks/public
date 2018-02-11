@@ -17,7 +17,7 @@ Knife-wielding Palestinians attacked Israelis in Jerusalem and the occupied West
 
 ##### Iraqi Civil War (2014-present)
 ### [The Iranian-funded Shi'ite Al-Mukhtar Army claims responsibility for Thursday's deadly rocket attacks near the Baghdad International Airport that killed 23 members of an exiled Iranian opposition group, the People's Mujahedin of Iran. ](/news/2015/10/30/the-iranian-funded-shi-ite-al-mukhtar-army-claims-responsibility-for-thursday-s-deadly-rocket-attacks-near-the-baghdad-international-airport.md)
-_Context: Iraqi Civil War (2014-present), Baghdad International Airport, rocket attacks, People's Mujahedin of Iran, Shia, Iran_
+_Context: People's Mujahedin of Iran, rocket attacks, Iran, Baghdad International Airport, Shia, Iraqi Civil War (2014-present)_
 
 ##### Happy Days
 ### ["Happy Days" actor Al Molinaro dies at 96. ](/news/2015/10/30/happy-days-actor-al-molinaro-dies-at-96.md)
@@ -45,7 +45,7 @@ A building undergoing demolition in New York partially collapsed on Friday, kill
 
 ##### European migrant crisis
 ### [Greek prime minister Alexis Tsipras lashes out at European "ineptness" in handling the continent's massive immigration crisis. The Associated Press reports 31 more people -- mostly children -- drowned in shipwrecks in the Mediterranean Sea near the islands of Kalymnos and Rhodes. Turkey's state-run agency says four children drowned and two others are missing after two new accidents with boats headed to Greece's Lesbos and Samos islands. The death toll in the Aegean Sea over the past three days is at least 50. The Greek coast guard says they rescued 600 people in the past 24 hours, while thousands more made it safely from Turkey to Greece's southeastern islands. ](/news/2015/10/30/greek-prime-minister-alexis-tsipras-lashes-out-at-european-ineptness-in-handling-the-continent-s-massive-immigration-crisis-the-associate.md)
-_Context: Aegean Sea, Samos, Alexis Tsipras, Lesbos, Associated Press, Rhodes, Greek Prime Minister, Turkey, Kalymnos, Europe, Mediterranean Sea, European migrant crisis_
+_Context: Greek Prime Minister, Rhodes, Aegean Sea, Lesbos, European migrant crisis, Turkey, Samos, Alexis Tsipras, Associated Press, Europe, Mediterranean Sea, Kalymnos_
 
 ##### Texas
 ### [Storms hit the American state of Texas causing at least two deaths with one person reported missing. Rivers overflowed as more than a foot of rain fell in some areas while tornadoes ripped through buildings outside San Antonio. ](/news/2015/10/30/storms-hit-the-american-state-of-texas-causing-at-least-two-deaths-with-one-person-reported-missing-rivers-overflowed-as-more-than-a-foot-o.md)
@@ -65,11 +65,11 @@ British resident Shaker Aamer, who spent 13 years in Guantanamo Bay, arrives bac
 
 ##### Territorial disputes in the South China Sea
 ### [The European Union sides with the United States over Tuesday's U.S.-Chinese patrolling incident in the South China Sea. ](/news/2015/10/30/the-european-union-sides-with-the-united-states-over-tuesday-s-u-s-chinese-patrolling-incident-in-the-south-china-sea.md)
-_Context: South China Sea, European Union, China, United States, Territorial disputes in the South China Sea_
+_Context: China, European Union, American, South China Sea, Territorial disputes in the South China Sea_
 
 ##### Syria peace talks in Vienna
 ### [Representatives from about 20 countries meet in Vienna, Austria, seeking a political solution to Syria's four-year civil war that has killed more than 250,000 people, including dozens more today. For the first time Iran is at the table, where diplomats seek peace through a ceasefire plan followed by a transitional government. ](/news/2015/10/30/representatives-from-about-20-countries-meet-in-vienna-austria-seeking-a-political-solution-to-syria-s-four-year-civil-war-that-has-killed.md)
-_Context: Syria, Syria peace talks in Vienna, transitional government, Iran, Austria, Syrian Civil War, Vienna, ceasefire_
+_Context: Syrian Civil War, Vienna, Syria, Syria peace talks in Vienna, ceasefire, Iran, transitional government, Austria_
 
 ##### Permanent Court of Arbitration's
 ### [The Permanent Court of Arbitration in The Hague rules it has jurisdiction to hear the Philippines' case against China over maritime disputes in the South China Sea. ](/news/2015/10/30/the-permanent-court-of-arbitration-in-the-hague-rules-it-has-jurisdiction-to-hear-the-philippines-case-against-china-over-maritime-disputes.md)

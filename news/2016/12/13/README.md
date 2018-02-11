@@ -17,11 +17,11 @@ Deal that eliminates long distances signal have to travel through Venezuela remo
 
 ##### Saudi Arabia-United States relations
 ### [The United States is to limit military support to Saudi Arabia's military intervention in Yemen amid concerns over rising civilian casualties. ](/news/2016/12/13/the-united-states-is-to-limit-military-support-to-saudi-arabia-s-military-intervention-in-yemen-amid-concerns-over-rising-civilian-casualtie.md)
-_Context: Saudi Arabia, Saudi-led intervention in Yemen, Yemeni Civil War (2015-present), Yemen, United States, Saudi Arabia-United States relations_
+_Context: Saudi Arabia, Yemeni Civil War (2015-present), Saudi-led intervention in Yemen, Saudi Arabia-United States relations, Yemen, American_
 
 ##### Large protests
 ### [Jakarta Governor Basuki Tjahaja Purnama (Ahok) pleads not guilty to charges of blaspheming Islam during a September 27 campaign speech. Ahok is an ethnic Chinese Christian. ](/news/2016/12/13/jakarta-governor-basuki-tjahaja-purnama-ahok-pleads-not-guilty-to-charges-of-blaspheming-islam-during-a-september-27-campaign-speech-ahok.md)
-_Context: Islam, Basuki Tjahaja Purnama, ethnic Chinese Christian, large protests, gubernatorial_
+_Context: large protests, Basuki Tjahaja Purnama, Islam, gubernatorial, ethnic Chinese Christian_
 
 ##### Muhammad V
 ### [Muhammad V becomes the new monarch of Malaysia. ](/news/2016/12/13/muhammad-v-becomes-the-new-monarch-of-malaysia.md)

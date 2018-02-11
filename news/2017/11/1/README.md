@@ -5,7 +5,7 @@ Formats: [HTML](2017/11/1/index.html)  [JSON](2017/11/1/index.json)  [XML](2017/
 
 ##### Saudi-led intervention in Yemen
 ### [A Saudi-led coalition airstrike on a market in Sahar District in Yemen's northern Saada Governorate, which is under Houthi control, kills at least 26 people, according to medics and local officials. ](/news/2017/11/1/a-saudi-led-coalition-airstrike-on-a-market-in-sahar-district-in-yemen-s-northern-saada-governorate-which-is-under-houthi-control-kills-at.md)
-_Context: Sahar District, Houthi, Saudi-led intervention in Yemen, Saudi Arabia, Saada Governorate, Yemen_
+_Context: Saudi-led intervention in Yemen, Houthi, Yemen, Saudi Arabia, Sahar District, Saada Governorate_
 
 ##### War in Afghanistan
 ### [Two fuel tankers are bombed in the Afghan town of Charikar, killing at least 15 people and injuring at least 27. ](/news/2017/11/1/two-fuel-tankers-are-bombed-in-the-afghan-town-of-charikar-killing-at-least-15-people-and-injuring-at-least-27.md)
@@ -13,7 +13,7 @@ At least 15 people were killed and 27 wounded when fuel tankers exploded in the 
 
 ##### Rock climbing in Australia
 ### [The Uluru-Kata Tjuta National Park's board votes unanimously to ban climbing on Uluru, sacred to the Anangu people, in Australia's Northern Territory, from October 2019, due to Indigenous concerns over respect for the sacred site and for the safety of tourists. ](/news/2017/11/1/the-ulua1u-kata-tjua1-a-national-park-s-board-votes-unanimously-to-ban-climbing-on-uluru-sacred-to-the-anangu-people-in-australia-s-north.md)
-_Context: Northern Territory, Indigenous, Uluru-Kata Tjuta National Park, Uluru, Rock climbing in Australia_
+_Context: Indigenous, Uluru, Rock climbing in Australia, Uluru-Kata Tjuta National Park, Northern Territory_
 
 ##### NPR controversies
 ### [Citing "inappropriate behavior", Michael Oreskes resigns from his position as senior vice president of news at NPR after three journalists accuse him of sexual harassment. ](/news/2017/11/1/citing-inappropriate-behavior-michael-oreskes-resigns-from-his-position-as-senior-vice-president-of-news-at-npr-after-three-journalists-a.md)
@@ -29,7 +29,7 @@ Two men and a woman were killed in a shooting inside a suburban Denver Walmart o
 
 ##### Japanese general election, 2017
 ### [Shinzo Abe is officially reinstated as Prime Minister of Japan following the election on 22 October 2017. ](/news/2017/11/1/shinza-abe-is-officially-reinstated-as-prime-minister-of-japan-following-the-election-on-22-october-2017.md)
-_Context: Shinzo Abe, Prime Minister of Japan, Japanese general election, 2017_
+_Context: Shinzo Abe, Japanese general election, 2017, Prime Minister of Japan_
 
 ##### 2017 Australian parliamentary eligibility crisis
 ### [President of the Australian Senate, Stephen Parry, announces he will resign, effective 2 November 2017, after confirming he holds dual British-Australian citizenship. ](/news/2017/11/1/president-of-the-australian-senate-stephen-parry-announces-he-will-resign-effective-2-november-2017-after-confirming-he-holds-dual-briti.md)

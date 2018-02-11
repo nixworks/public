@@ -5,7 +5,7 @@ Formats: [HTML](2001/09/10/index.html)  [JSON](2001/09/10/index.json)  [XML](200
 
 ##### Donald Rumsfeld
 ### [ Donald Rumsfeld warns of $2,300,000,000,000 of Pentagon spending that cannot be accounted for. ](/news/2001/09/10/donald-rumsfeld-warns-of-2-300-000-000-000-of-pentagon-spending-that-cannot-be-accounted-for.md)
-_Context: Donald Rumsfeld, United States military_
+_Context: United States military, Donald Rumsfeld_
 
 ## [Previous Day...](/news/2001/09/9/index.md)
 

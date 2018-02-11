@@ -29,7 +29,7 @@ A law in Belize criminalizing same-sex intimacy was ruled unconstitutional on We
 
 ##### Impeachment process against Dilma Rousseff
 ### [Brazil's Federal Senate votes 59 to 21 to indict suspended President Dilma Rousseff on charges of breaking budget laws and put her on trial. ](/news/2016/08/10/brazil-s-federal-senate-votes-59-to-21-to-indict-suspended-president-dilma-rousseff-on-charges-of-breaking-budget-laws-and-put-her-on-trial.md)
-_Context: Senate, Dilma Rousseff, president, Brazil, Impeachment process against Dilma Rousseff_
+_Context: Senate, president, Brazil, Dilma Rousseff, Impeachment process against Dilma Rousseff_
 
 ## [Previous Day...](/news/2016/08/9/index.md)
 

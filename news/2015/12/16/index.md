@@ -11,9 +11,9 @@ Syed Rizwan Farook and his wife Tashfeen Malik did not make open posts on social
 ### [FBI Director Comey also announces the five military shooting deaths last July in Chattanooga, Tennessee, are now officially classified as a terrorist attack. The shooter, Muhammad Youssef Abdulazeez, was inspired and motivated by foreign terrorist propaganda. U.S. Navy Secretary Ray Mabus announces the Navy will award the Purple Heart to the four Marines and one sailor who were killed, and the one Marine who was injured. ](/news/2015/12/16/fbi-director-comey-also-announces-the-five-military-shooting-deaths-last-july-in-chattanooga-tennessee-are-now-officially-classified-as-a.md)
 Syed Rizwan Farook and his wife Tashfeen Malik did not make open posts on social media regarding radical Islamic jihad or martyrdom before the Dec. 2 terror
 
-##### United States
+##### American
 ### [In a widely expected move, the United States Federal Reserve Board raised the federal funds interest rate, the rate banks charge each other for overnight loans, from the 0-.25% range to the .25-.50% range. U.S. stock markets rallied on the news. ](/news/2015/12/16/in-a-widely-expected-move-the-united-states-federal-reserve-board-raised-the-federal-funds-interest-rate-the-rate-banks-charge-each-other.md)
-_Context: Federal Reserve Board, United States, benchmark interest rate_
+_Context: American, Federal Reserve Board, benchmark interest rate_
 
 ##### Air India
 ### [An Air India aircraft maintenance technician is killed at Mumbai's Chhatrapati Shivaji International Airport in India after being sucked by an Air India Airbus A319's aircraft engine during pushback. ](/news/2015/12/16/an-air-india-aircraft-maintenance-technician-is-killed-at-mumbai-s-chhatrapati-shivaji-international-airport-in-india-after-being-sucked-by.md)
@@ -25,11 +25,11 @@ By Andrew M. Seaman(Reuters Health) - Offering the families of children with app
 
 ##### Cuba-United States relations
 ### [The United States and Cuba reach an understanding on restoring regularly scheduled commercial flights. Currently, the only option available is charter flights. ](/news/2015/12/16/the-united-states-and-cuba-reach-an-understanding-on-restoring-regularly-scheduled-commercial-flights-currently-the-only-option-available.md)
-_Context: commercial flights, Cuba-United States relations, charter flights, Cuba, United States_
+_Context: charter flights, commercial flights, American, Cuba-United States relations, Cuba_
 
 ##### NATO
 ### [NATO leadership signs an agreement with the Ukrainian government to assist the country's modernization of its defense industry and capabilities. ](/news/2015/12/16/nato-leadership-signs-an-agreement-with-the-ukrainian-government-to-assist-the-country-s-modernization-of-its-defense-industry-and-capabilit.md)
-_Context: NATO, Government of Ukraine_
+_Context: Government of Ukraine, NATO_
 
 ##### Taiwan-United States relations
 ### [The United States announces a deal to sell $1.83 billion worth of arms to Taiwan, which includes two decommissioned U.S. Navy frigates, Assault Amphibious Vehicles, and surface-to-air missiles. China has also expressed its disapproval over the deal, claiming it would affect their internal affairs. ](/news/2015/12/16/the-united-states-announces-a-deal-to-sell-1-83-billion-worth-of-arms-to-taiwan-which-includes-two-decommissioned-u-s-navy-frigates-assa.md)
@@ -57,7 +57,7 @@ Clergyman arrested in February was previously shown in video released by regime 
 
 ##### Minnesota
 ### [A bank in Minnesota (U.S.) is robbed by the same person a second time while an Iowa television station was doing a live update on the first robbery. The robber was arrested shortly afterwards. ](/news/2015/12/16/a-bank-in-minnesota-u-s-is-robbed-by-the-same-person-a-second-time-while-an-iowa-television-station-was-doing-a-live-update-on-the-first.md)
-_Context: television station, Iowa, Minnesota_
+_Context: Iowa, Minnesota, television station_
 
 ##### Baltimore
 ### [After the jury fails to reach a unanimous decision, a Baltimore, Maryland, judge declares a mistrial in the trial of police officer William Porter, the first officer to be charged in the death of Freddie Gray. ](/news/2015/12/16/after-the-jury-fails-to-reach-a-unanimous-decision-a-baltimore-maryland-judge-declares-a-mistrial-in-the-trial-of-police-officer-william.md)

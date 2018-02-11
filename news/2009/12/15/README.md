@@ -25,7 +25,7 @@ _Context: Chile, Organisation for Economic Co-operation and Development_
 
 ##### Albay Province
 ### [ Evacuations begin in the Albay province of the Philippines as the Mayon Volcano oozes lava, with an eruption possible. ](/news/2009/12/15/evacuations-begin-in-the-albay-province-of-the-philippines-as-the-mayon-volcano-oozes-lava-with-an-eruption-possible.md)
-_Context: Albay Province, Philippines, lava, Mayon Volcano_
+_Context: Mayon Volcano, lava, Philippines, Albay Province_
 
 ##### Canadian
 ### [ Canadian sports medicine specialist Anthony Galea, who helped Tiger Woods recover from knee surgery, is accused of providing top athletes with performance-enhancing drugs. ](/news/2009/12/15/canadian-sports-medicine-specialist-anthony-galea-who-helped-tiger-woods-recover-from-knee-surgery-is-accused-of-providing-top-athletes-w.md)
@@ -33,7 +33,7 @@ A Canadian doctor who treated top athletes reportedly gave them performance-enha
 
 ##### Israel
 ### [ Israel condemns the issuing of a war crimes arrest warrant in the United Kingdom for former Foreign Minister Tzipi Livni. ](/news/2009/12/15/israel-condemns-the-issuing-of-a-war-crimes-arrest-warrant-in-the-united-kingdom-for-former-foreign-minister-tzipi-livni.md)
-_Context: Israel, Tzipi Livni, Foreign Minister, United Kingdom, war crimes_
+_Context: United Kingdom, Tzipi Livni, Israel, Foreign Minister, war crimes_
 
 ## [Previous Day...](/news/2009/12/14/index.md)
 

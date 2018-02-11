@@ -5,7 +5,7 @@ Formats: [HTML](2005/07/20/index.html)  [JSON](2005/07/20/index.json)  [XML](200
 
 ##### Pakistan
 ### [ Police in Pakistan have detained about 200 suspected Islamist extremists in a series of raids on religious schools, mosques and other properties. ](/news/2005/07/20/police-in-pakistan-have-detained-about-200-suspected-islamist-extremists-in-a-series-of-raids-on-religious-schools-mosques-and-other-prope.md)
-_Context: Islamist, Pakistan_
+_Context: Pakistan, Islamist_
 
 ##### Canadian
 ### [ Canada becomes the 4th nation in the world to legalize same-sex marriage nationwide.](/news/2005/07/20/canada-becomes-the-4th-nation-in-the-world-to-legalize-same-sex-marriage-nationwide.md)
@@ -17,11 +17,11 @@ Typhoon Haitang, which brought tremendous rainfall and caused dozens of casualti
 
 ##### Thailand
 ### [ Government of Thailand changes the new emergency laws, weakening two articles that would have, among other things, enforced curfews and censorship of personal communication. ](/news/2005/07/20/government-of-thailand-changes-the-new-emergency-laws-weakening-two-articles-that-would-have-among-other-things-enforced-curfews-and-cen.md)
-_Context: Thailand, censorship, curfew_
+_Context: curfew, Thailand, censorship_
 
 ##### Saudi Arabia
 ### [ Saudi Arabian long-time ambassador to the US, prince Bandar bin Sultan, resigns for "personal reasons" ](/news/2005/07/20/saudi-arabian-long-time-ambassador-to-the-us-prince-bandar-bin-sultan-resigns-for-personal-reasons.md)
-_Context: Saudi Arabia, Bandar bin Sultan_
+_Context: Bandar bin Sultan, Saudi Arabia_
 
 ##### Yemen
 ### [ In Yemen, 8-13 people die during demonstrations against oil price increases ](/news/2005/07/20/in-yemen-8-13-people-die-during-demonstrations-against-oil-price-increases.md)
@@ -37,7 +37,7 @@ _Context: coal, Shaanxi_
 
 ##### Brazil
 ### [ In Brazil, Delubio Soares, former treasurer for the ruling Worker's Party, admits in a parliamentary hearing that the party did not declare contributions worth $17 million ](/news/2005/07/20/in-brazil-delubio-soares-former-treasurer-for-the-ruling-worker-s-party-admits-in-a-parliamentary-hearing-that-the-party-did-not-declare.md)
-_Context: Brazil Workers' Party, Delubio Soares, Brazil_
+_Context: Delubio Soares, Brazil Workers' Party, Brazil_
 
 ##### Scam
 ### [ Indian Army announces that it has unveiled a scam where contractors responsible for transportation of fuel to depots of its Northern Command had sold off the fuel and filled the tanks with water ](/news/2005/07/20/indian-army-announces-that-it-has-unveiled-a-scam-where-contractors-responsible-for-transportation-of-fuel-to-depots-of-its-northern-comman.md)

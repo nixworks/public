@@ -9,7 +9,7 @@ Attacks by government forces and rebels killed at least 30 people, including eig
 
 ##### Attacks on secularists in Bangladesh
 ### [Ansar-al Islam, the Bangladeshi branch of al-Qaeda in the Indian Subcontinent, claims responsibility for yesterday's murder of USAID employee and LGBT activist Xulhaz Mannan and his friend, actor Tanay Majumder. ](/news/2016/04/26/ansar-al-islam-the-bangladeshi-branch-of-al-qaeda-in-the-indian-subcontinent-claims-responsibility-for-yesterday-s-murder-of-usaid-employe.md)
-_Context: Xulhaz Mannan, Attacks on secularists in Bangladesh, Bangladesh, al-Qaeda in the Indian Subcontinent, USAID_
+_Context: Bangladesh, Xulhaz Mannan, Attacks on secularists in Bangladesh, USAID, al-Qaeda in the Indian Subcontinent_
 
 ##### Ukraine
 ### [Ukraine commemorates the 30th anniversary of the Chernobyl disaster. ](/news/2016/04/26/ukraine-commemorates-the-30th-anniversary-of-the-chernobyl-disaster.md)
@@ -29,7 +29,7 @@ _Context: National Health Service_
 
 ##### National Museum of Natural History
 ### [A massive fire severely damages the National Museum of Natural History in the Indian capital New Delhi. ](/news/2016/04/26/a-massive-fire-severely-damages-the-national-museum-of-natural-history-in-the-indian-capital-new-delhi.md)
-_Context: New Delhi, National Museum of Natural History, India_
+_Context: India, National Museum of Natural History, New Delhi_
 
 ##### North Korea's nuclear program
 ### [According to South Korea's Yonhap news agency, North Korea appears to be preparing a test-launch of an intermediate-range ballistic missile. This comes after what the United States described as the "fiery, catastrophic" failure of the first attempt a few days prior. ](/news/2016/04/26/according-to-south-korea-s-yonhap-news-agency-north-korea-appears-to-be-preparing-a-test-launch-of-an-intermediate-range-ballistic-missile.md)
@@ -41,7 +41,7 @@ BERLIN (AP) — Germany&#039;s foreign minister has expressed regret over the fa
 
 ##### Romania-United States relations
 ### [The United States deploys F-22 Raptor fighter jets to Romania's RoAF 86th Air Base, near the Black Sea, in a show of strength and cooperation against Russia. "The United States and Romania enjoy a very strong partnership," said Hans G. Klemm, the United States Ambassador to Romania. ](/news/2016/04/26/the-united-states-deploys-f-22-raptor-fighter-jets-to-romania-s-roaf-86th-air-base-near-the-black-sea-in-a-show-of-strength-and-cooperatio.md)
-_Context: Romania-United States relations, Russia, United States, Hans G. Klemm, RoAF 86th Air Base, Romania, United States Ambassador to Romania, Black Sea, F-22 Raptor_
+_Context: Romania, United States Ambassador to Romania, F-22 Raptor, Russia, Black Sea, RoAF 86th Air Base, Hans G. Klemm, American, Romania-United States relations_
 
 ##### Supreme Court of Papua New Guinea
 ### [The Supreme Court of Papua New Guinea rules that Australia's detention of asylum seekers on Manus Island breaches the right to personal liberty under the constitution. ](/news/2016/04/26/the-supreme-court-of-papua-new-guinea-rules-that-australia-s-detention-of-asylum-seekers-on-manus-island-breaches-the-right-to-personal-libe.md)
@@ -65,11 +65,11 @@ Pennsylvania, Maryland, Connecticut, Rhode Island and Delaware take their turn i
 
 ##### Shi'ites
 ### [Tens of thousands of people, mostly Shi'ites, take to the streets of Baghdad, Iraq in a protest calling for Parliament to vote on a cabinet reshuffle. The protest was called for by powerful Shi'te Muslim critic Muqtada al-Sadr. The proposed cabinet reshuffle is aimed at fighting corruption in the midst of divisions between lawmakers that have hampered the work of the government. ](/news/2016/04/26/tens-of-thousands-of-people-mostly-shi-ites-take-to-the-streets-of-baghdad-iraq-in-a-protest-calling-for-parliament-to-vote-on-a-cabinet.md)
-_Context: Iraqi Parliament, Iraq, Shi'ites, Baghdad, Muqtada al-Sadr_
+_Context: Baghdad, Shi'ites, Muqtada al-Sadr, Iraq, Iraqi Parliament_
 
 ##### South Sudanese Civil War
 ### [Rebel leader Riek Machar arrives in the capital Juba and is immediately sworn is as Vice President upon arrival. It is hoped that this appointment will put an end to the civil war that has plagued the country since late 2013. ](/news/2016/04/26/rebel-leader-riek-machar-arrives-in-the-capital-juba-and-is-immediately-sworn-is-as-vice-president-upon-arrival-it-is-hoped-that-this-appoi.md)
-_Context: Vice-President, Juba, South Sudanese Civil War, Riek Machar_
+_Context: Riek Machar, Vice-President, South Sudanese Civil War, Juba_
 
 ##### European migrant crisis
 ### [Clashes break out between migrants and riot police at the Moria camp on the Greek island of Lesbos after a policeman reportedly hit a minor. The violence occurred as a Greek migration minister was visiting the center. Several refugees-migrants are reported injured. ](/news/2016/04/26/clashes-break-out-between-migrants-and-riot-police-at-the-ma2ria-camp-on-the-greek-island-of-lesbos-after-a-policeman-reportedly-hit-a-minor.md)
@@ -93,7 +93,7 @@ MADRID (AP) — Spain&#039;s King Felipe VI decided Tuesday that none of the cou
 
 ##### President
 ### [Venezuelan President Nicolas Maduro, who previously gave most of the country's 2.8 million state employees Fridays off through May, announces public workers will also have Wednesdays and Thursdays off for at least two weeks as an energy-saving measure. Full salaries will still be paid despite the two-day week. ](/news/2016/04/26/venezuelan-president-nicola-s-maduro-who-previously-gave-most-of-the-country-s-2-8-million-state-employees-fridays-off-through-may-announc.md)
-_Context: President, Nicolas Maduro_
+_Context: Nicolas Maduro, President_
 
 ## [Previous Day...](/news/2016/04/25/index.md)
 

@@ -9,7 +9,7 @@ A suicide bomber has blown himself up near a tourist site in the Egyptian city o
 
 ##### U.S. President
 ### [President Barack Obama authorizes up to 450 additional troops in Iraq to train Sunni forces. ](/news/2015/06/10/president-barack-obama-authorizes-up-to-450-additional-troops-in-iraq-to-train-sunni-forces.md)
-_Context: Sunni Muslim, Barack Obama, Iraq, U.S. President_
+_Context: Iraq, Barack Obama, Sunni Muslim, U.S. President_
 
 ##### Saudi-led intervention in Yemen
 ### [At least 43 people have been killed in fighting in Yemen. ](/news/2015/06/10/at-least-43-people-have-been-killed-in-fighting-in-yemen.md)
@@ -17,7 +17,7 @@ _Context: Yemen, Saudi-led intervention in Yemen_
 
 ##### Indonesia
 ### [Indonesia's Mount Sinabung eruption resumes spewing gas leading to the evacuation of 3,000 nearby residents. ](/news/2015/06/10/indonesia-s-mount-sinabung-eruption-resumes-spewing-gas-leading-to-the-evacuation-of-3-000-nearby-residents.md)
-_Context: Indonesia, Mount Sinabung_
+_Context: Mount Sinabung, Indonesia_
 
 ##### South Korea
 ### [The death toll from the MERS outbreak in South Korea rises to nine, with 13 new cases reported. More than 2,200 schools have closed or cancelled classes as a result of the outbreak. ](/news/2015/06/10/the-death-toll-from-the-mers-outbreak-in-south-korea-rises-to-nine-with-13-new-cases-reported-more-than-2-200-schools-have-closed-or-cance.md)
@@ -29,7 +29,7 @@ Pope Francis has approved the outline of a new system of accountability for Cath
 
 ##### Supreme Court
 ### [The Supreme Federal Court of Brazil strikes down a law allowing the subjects of biographies to quash works they disapprove of. ](/news/2015/06/10/the-supreme-federal-court-of-brazil-strikes-down-a-law-allowing-the-subjects-of-biographies-to-quash-works-they-disapprove-of.md)
-_Context: biographies, Supreme Court, Brazil_
+_Context: Supreme Court, biographies, Brazil_
 
 ## [Previous Day...](/news/2015/06/9/index.md)
 

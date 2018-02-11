@@ -17,7 +17,7 @@ Commodities group Glencore (GLEN.L) became the first of the large miners to hono
 
 ##### Landslide
 ### [At least 27 people have been pronounced dead after landslides in Japan's Hiroshima prefecture with another ten missing. ](/news/2014/08/20/at-least-27-people-have-been-pronounced-dead-after-landslides-in-japan-s-hiroshima-prefecture-with-another-ten-missing.md)
-_Context: landslide, Japan, Hiroshima prefecture_
+_Context: Hiroshima prefecture, Japan, landslide_
 
 ##### IAEA
 ### [IAEA reports that Iran is continuing to meet its commitments under the interim accord that it reached with the P5+1. ](/news/2014/08/20/iaea-reports-that-iran-is-continuing-to-meet-its-commitments-under-the-interim-accord-that-it-reached-with-the-p5-1.md)

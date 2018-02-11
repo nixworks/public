@@ -9,15 +9,15 @@ _Context: Somali_
 
 ##### U.S. federal court
 ### [ US District Judge Jeremy Fogel of the Northern District of California denies a motion by Universal Studios to dismiss a lawsuit against it alleging that Universal sent a DMCA takedown notice in bad faith. ](/news/2008/08/21/us-district-judge-jeremy-fogel-of-the-northern-district-of-california-denies-a-motion-by-universal-studios-to-dismiss-a-lawsuit-against-it.md)
-_Context: takedown notice, Universal Studios, U.S. federal court, United States District Court for the Northern District of California, DMCA_
+_Context: United States District Court for the Northern District of California, takedown notice, DMCA, Universal Studios, U.S. federal court_
 
-##### United States
+##### American
 ### [ The United States Food and Drug Administration approves irradiation of lettuce and spinach to kill "E. coli" and other dangerous germs. ](/news/2008/08/21/the-united-states-food-and-drug-administration-approves-irradiation-of-lettuce-and-spinach-to-kill-e-coli-and-other-dangerous-germs.md)
-_Context: spinach, United States, Food and Drug Administration, lettuce, E. coli, irradiation_
+_Context: irradiation, Food and Drug Administration, American, spinach, E. coli, lettuce_
 
 ##### 2008 Wah bombing
 ### [ 2008 Wah bombing: Two suicide bombings occur in the cantonment city of Wah Cantonment in Pakistan killing at least 76 people and injuring 110. ](/news/2008/08/21/2008-wah-bombing-two-suicide-bombings-occur-in-the-cantonment-city-of-wah-cantonment-in-pakistan-killing-at-least-76-people-and-injuring-1.md)
-_Context: cantonment, Wah Cantonment, Pakistan, 2008 Wah bombing, suicide bombing_
+_Context: cantonment, 2008 Wah bombing, Pakistan, Wah Cantonment, suicide bombing_
 
 ##### Central High School
 ### [ One student is killed in a shooting at Central High School in Knoxville, Tennessee. ](/news/2008/08/21/one-student-is-killed-in-a-shooting-at-central-high-school-in-knoxville-tennessee.md)

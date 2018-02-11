@@ -17,15 +17,15 @@ _Context: Friday's Reno air crash, NTSB_
 
 ##### North American T-28 Trojan
 ### [A North American T-28 Trojan crashes at an air show at the Eastern WV Regional Airport near Martinsburg, West Virginia, killing the pilot. ](/news/2011/09/17/a-north-american-t-28-trojan-crashes-at-an-air-show-at-the-eastern-wv-regional-airport-near-martinsburg-west-virginia-killing-the-pilot.md)
-_Context: Martinsburg, West Virginia, Eastern WV Regional Airport, North American T-28 Trojan_
+_Context: Eastern WV Regional Airport, Martinsburg, West Virginia, North American T-28 Trojan_
 
 ##### Earthquake
 ### [A strong 6.6 magnitude earthquake and a series of aftershocks occur off the coast of Honshu in Japan. ](/news/2011/09/17/a-strong-6-6-magnitude-earthquake-and-a-series-of-aftershocks-occur-off-the-coast-of-honshu-in-japan.md)
-_Context: Japan, earthquake, Honshu Island, aftershock_
+_Context: earthquake, aftershock, Japan, Honshu Island_
 
 ##### Prime Minister
 ### [Former Prime Minister of Thailand Thaksin Shinawatra visits Cambodia for high-level talks with the government of Cambodia over a variety of issues, including the ownership of the disputed Preah Vihear Temple. ](/news/2011/09/17/former-prime-minister-of-thailand-thaksin-shinawatra-visits-cambodia-for-high-level-talks-with-the-government-of-cambodia-over-a-variety-of.md)
-_Context: Thaksin Shinawatra, Prime Minister, Cambodia, government of Cambodia, Preah Vihear Temple_
+_Context: Prime Minister, Preah Vihear Temple, Cambodia, Thaksin Shinawatra, government of Cambodia_
 
 ##### Finland
 ### [Two people in Finland are held for investigation into alleged involvement in international terrorist activities. ](/news/2011/09/17/two-people-in-finland-are-held-for-investigation-into-alleged-involvement-in-international-terrorist-activities.md)
@@ -35,13 +35,13 @@ Finnish authorities were holding a man and a woman on Saturday for alleged invol
 ### [Tanzanian authorities charge four people with negligence in relation to the Zanzibar ferry sinking that cost at least 240 lives on September 10. ](/news/2011/09/17/tanzanian-authorities-charge-four-people-with-negligence-in-relation-to-the-zanzibar-ferry-sinking-that-cost-at-least-240-lives-on-september.md)
 More than 240 people died when a ferry sank in the early hours of Sept. 10.
 
-##### United States
+##### American
 ### [Hundreds of United States citizens rally to peacefully occupy Wall Street, demonstrating against corporate dominance and perceived tax evasion by the super-rich. The movement is reportedly inspired by the periodic protests tactic of the Arab Spring. ](/news/2011/09/17/hundreds-of-united-states-citizens-rally-to-peacefully-occupy-wall-street-demonstrating-against-corporate-dominance-and-perceived-tax-evasi.md)
-_Context: super-rich, corporate dominance, Occupy Wall Street, Arab Spring, United States, Wall Street_
+_Context: Wall Street, super-rich, American, corporate dominance, Occupy Wall Street, Arab Spring_
 
 ##### Latvia
 ### [Voters in Latvia go to the polls for a parliamentary election. ](/news/2011/09/17/voters-in-latvia-go-to-the-polls-for-a-parliamentary-election.md)
-_Context: parliamentary election, Latvia_
+_Context: Latvia, parliamentary election_
 
 ## [Previous Day...](/news/2011/09/16/index.md)
 

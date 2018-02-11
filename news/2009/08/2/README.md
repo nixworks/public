@@ -5,7 +5,7 @@ Formats: [HTML](2009/08/2/index.html)  [JSON](2009/08/2/index.json)  [XML](2009/
 
 ##### Big Valley Jamboree
 ### [ One person is killed and 75 injured after an outdoor stage collapses at the Big Valley Jamboree country music festival in Alberta, Canada. ](/news/2009/08/2/one-person-is-killed-and-75-injured-after-an-outdoor-stage-collapses-at-the-big-valley-jamboree-country-music-festival-in-alberta-canada.md)
-_Context: Big Valley Jamboree, Canadian, Alberta_
+_Context: Canadian, Big Valley Jamboree, Alberta_
 
 ##### Pneumonic
 ### [ One person dies of pneumonic plague and eleven of his relatives are quarantined in Hainan Tibetan Autonomous Prefecture. ](/news/2009/08/2/one-person-dies-of-pneumonic-plague-and-eleven-of-his-relatives-are-quarantined-in-hainan-tibetan-autonomous-prefecture.md)
@@ -13,7 +13,7 @@ _Context: pneumonic, Hainan Tibetan Autonomous Prefecture_
 
 ##### Russia
 ### [ Three workers from the Russian Emergency Ministry are killed in Ingushetia. ](/news/2009/08/2/three-workers-from-the-russian-emergency-ministry-are-killed-in-ingushetia.md)
-_Context: Russia, Ministry of Emergency Situations, Ingushetia_
+_Context: Ministry of Emergency Situations, Russia, Ingushetia_
 
 ##### East Jerusalem
 ### [ Nine families who have been living in East Jerusalem since 1956 are evicted by force. (Previous reports of 'two families' are wrong.) ](/news/2009/08/2/nine-families-who-have-been-living-in-east-jerusalem-since-1956-are-evicted-by-force-previous-reports-of-two-families-are-wrong.md)
@@ -21,7 +21,7 @@ Two families are forcibly expelled from their homes in East Jerusalem.
 
 ##### Merpati Nusantara Airlines Flight 9760
 ### [ Merpati Nusantara Airlines Flight 9760, a Twin Otter plane with 16 on board, disappears over Papua, Indonesia. ](/news/2009/08/2/merpati-nusantara-airlines-flight-9760-a-twin-otter-plane-with-16-on-board-disappears-over-papua-indonesia.md)
-_Context: Indonesia, Papua, Merpati Nusantara Airlines Flight 9760, de Havilland Canada DHC-6 Twin Otter_
+_Context: de Havilland Canada DHC-6 Twin Otter, Indonesia, Merpati Nusantara Airlines Flight 9760, Papua_
 
 ##### Mozart
 ### [ Two newly discovered works by Mozart&mdash;a prelude and concerto movement&mdash;are performed in Salzburg, Austria. ](/news/2009/08/2/two-newly-discovered-works-by-mozart-mdash-a-prelude-and-concerto-movement-mdash-are-performed-in-salzburg-austria.md)
@@ -49,7 +49,7 @@ Thousands of people in the Canadian province of British Columbia ordered to leav
 
 ##### Oil spill
 ### [ A large oil spill occurs in Langesund, Norway, after a Chinese ship, the "Full City", drifted aground. ](/news/2009/08/2/a-large-oil-spill-occurs-in-langesund-norway-after-a-chinese-ship-the-full-city-drifted-aground.md)
-_Context: oil spill, Langesund, Norway_
+_Context: Langesund, oil spill, Norway_
 
 ##### Iran
 ### [ Former Iranian President Mohammad Khatami criticizes the "show trial" of election protestors currently underway in the country. ](/news/2009/08/2/former-iranian-president-mohammad-khatami-criticizes-the-show-trial-of-election-protestors-currently-underway-in-the-country.md)
@@ -61,7 +61,7 @@ _Context: sectarian violence, Nigeria_
 
 ##### BBC
 ### [ The BBC obtains a photograph showing Yusuf Mohamed, leader of the Boko Haram sect, was alive when captured by the Nigerian army. ](/news/2009/08/2/the-bbc-obtains-a-photograph-showing-yusuf-mohamed-leader-of-the-boko-haram-sect-was-alive-when-captured-by-the-nigerian-army.md)
-_Context: Yusuf Mohamed, BBC, Boko Haram, Nigeria_
+_Context: Boko Haram, BBC, Yusuf Mohamed, Nigeria_
 
 ##### Michael Scott Speicher
 ### [ The remains of Michael Scott Speicher, the first United States Gulf War casualty, are located in the Al Anbar Governorate desert. ](/news/2009/08/2/the-remains-of-michael-scott-speicher-the-first-united-states-gulf-war-casualty-are-located-in-the-al-anbar-governorate-desert.md)

@@ -31,7 +31,7 @@ _Context: Encyclopaedia Britannica, English, encyclopedia_
 ### ["Interviews Before Execution", a Chinese television talk show that interviews death row inmates shortly before they are executed, is reportedly cancelled as a result of a BBC documentary on the programme which has attracted international attention. ](/news/2012/03/13/interviews-before-execution-a-chinese-television-talk-show-that-interviews-death-row-inmates-shortly-before-they-are-executed-is-reporte.md)
 There were question marks yesterday over the future of one of China&#039;s most popular television shows, &quot;Interviews Before Execution&quot;, in which death row prisoners are interviewed shortly before their execution, after its presenter was the subject of a BBC documentary.
 
-##### United States
+##### American
 ### [The United States, Japan, and the European Union file a case against China at the WTO regarding export restrictions on rare earth metals. ](/news/2012/03/13/the-united-states-japan-and-the-european-union-file-a-case-against-china-at-the-wto-regarding-export-restrictions-on-rare-earth-metals.md)
 The US, EU and Japan file a landmark trade case against China over export of rare earths, which are critical to the manufacture of high-tech products.
 
@@ -39,7 +39,7 @@ The US, EU and Japan file a landmark trade case against China over export of rar
 ### [Auto manufacturer Jaguar Land Rover announces plans to hire an additional 1,000 workers in its car plant in Halewood on Merseyside, England. ](/news/2012/03/13/auto-manufacturer-jaguar-land-rover-announces-plans-to-hire-an-additional-1-000-workers-in-its-car-plant-in-halewood-on-merseyside-england.md)
 Jaguar Land Rover says it is creating 1,000 new jobs at its Halewood factory on Merseyside.
 
-##### United States
+##### American
 ### [Most of the largest financial institutions in the United States pass a Federal Reserve System stress test although Citigroup, MetLife, Ally Financial and SunTrust do not. ](/news/2012/03/13/most-of-the-largest-financial-institutions-in-the-united-states-pass-a-federal-reserve-system-stress-test-although-citigroup-metlife-ally.md)
 Most of the largest banks passed their annual stress test, the Federal Reserve revealed in an earlier-than-expected release of the results, after JPMorgan Chase pulled the trigger on announcing its glowing marks and helped lift the stock market.
 
@@ -65,7 +65,7 @@ Rebekah Brooks and her husband are among six people who have been arrested this 
 
 ##### Australian Foreign Minister
 ### [Minister for Foreign Affairs Bob Carr is sworn in as a member of the Senate of Australia, replacing Mark Arbib, representing New South Wales.](/news/2012/03/13/minister-for-foreign-affairs-bob-carr-is-sworn-in-as-a-member-of-the-senate-of-australia-replacing-mark-arbib-representing-new-south-wales.md)
-_Context: Mark Arbib, Senate of Australia, Australian Foreign Minister, Bob Carr, NSW_
+_Context: Bob Carr, NSW, Australian Foreign Minister, Senate of Australia, Mark Arbib_
 
 ##### Alabama
 ### [Voters in the US states of Alabama and Mississippi head to the polls for primaries with Rick Santorum winning in both states. ](/news/2012/03/13/voters-in-the-us-states-of-alabama-and-mississippi-head-to-the-polls-for-primaries-with-rick-santorum-winning-in-both-states.md)

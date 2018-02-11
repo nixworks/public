@@ -41,15 +41,15 @@ A court in Turkey orders the suspension of a controversial ban on the social med
 
 ##### Sulaiman Abu Ghaith
 ### [Sulaiman Abu Ghaith, Osama bin Laden's son-in-law, is convicted in New York City of conspiring to kill Americans in his role as spokesman for al-Qaida. ](/news/2014/03/26/sulaiman-abu-ghaith-osama-bin-laden-s-son-in-law-is-convicted-in-new-york-city-of-conspiring-to-kill-americans-in-his-role-as-spokesman-fo.md)
-_Context: al-Qaida, Osama bin Laden, Sulaiman Abu Ghaith, New York City_
+_Context: al-Qaida, Sulaiman Abu Ghaith, New York City, Osama bin Laden_
 
 ##### Leland Yee
 ### [California State Senator Leland Yee is arrested in a raid involving the Federal Bureau of Investigation and the California Highway Patrol for alleged firearms trafficking, bribery, and corruption. ](/news/2014/03/26/california-state-senator-leland-yee-is-arrested-in-a-raid-involving-the-federal-bureau-of-investigation-and-the-california-highway-patrol-fo.md)
-_Context: Leland Yee, California Highway Patrol, FBI_
+_Context: FBI, California Highway Patrol, Leland Yee_
 
 ##### Egypt
 ### [Egyptian Field Marshal Abdel Fattah el-Sisi resigns from his position as Minister of Defense and announces his bid for the upcoming presidential election. ](/news/2014/03/26/egyptian-field-marshal-abdel-fattah-el-sisi-resigns-from-his-position-as-minister-of-defense-and-announces-his-bid-for-the-upcoming-presiden.md)
-_Context: Egypt, Egyptian presidential election, 2014, Egyptian military, Abdel Fattah el-Sisi_
+_Context: Egyptian presidential election, 2014, Abdel Fattah el-Sisi, Egypt, Egyptian military_
 
 ##### Taavi Roivas
 ### [Taavi Roivas is sworn in as Prime Minister of Estonia, succeeding Andrus Ansip and becoming the youngest government leader in the European Union at 34 years. ](/news/2014/03/26/taavi-rauivas-is-sworn-in-as-prime-minister-of-estonia-succeeding-andrus-ansip-and-becoming-the-youngest-government-leader-in-the-european.md)

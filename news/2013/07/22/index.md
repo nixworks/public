@@ -5,11 +5,11 @@ Formats: [HTML](2013/07/22/index.html)  [JSON](2013/07/22/index.json)  [XML](201
 
 ##### Egyptian Army
 ### [Six people - including army officers and policemen - are killed and another eleven wounded in a series of militant attacks in Egypt's Sinai Peninsula. ](/news/2013/07/22/six-people-a-including-army-officers-and-policemen-a-are-killed-and-another-eleven-wounded-in-a-series-of-militant-attacks-in-egypt-s-si.md)
-_Context: Egypt, Sinai Peninsula, police officers, Egyptian Army_
+_Context: Sinai Peninsula, Egyptian Army, Egypt, police officers_
 
 ##### Iraq
 ### [At least 37 people are killed in Iraq amid a two-day spate of suicide bombings and armed prison escapes. ](/news/2013/07/22/at-least-37-people-are-killed-in-iraq-amid-a-two-day-spate-of-suicide-bombings-and-armed-prison-escapes.md)
-_Context: suicide bombing, Iraq, prison escape_
+_Context: prison escape, suicide bombing, Iraq_
 
 ##### Catherine, Duchess of Cambridge
 ### [Catherine, Duchess of Cambridge, gives birth to a healthy boy, George Alexander Louis. The child, formally known as His Royal Highness Prince George of Cambridge, is third in line to the British throne. ](/news/2013/07/22/catherine-duchess-of-cambridge-gives-birth-to-a-healthy-boy-george-alexander-louis-the-child-formally-known-as-his-royal-highness-princ.md)
@@ -29,7 +29,7 @@ Pope Francis is flying to Brazil for his first foreign trip, where millions of y
 
 ##### United Nations High Commissioner for Refugees
 ### [The United Nations High Commissioner for Refugees states that there are approximately 625,000 refugees from the Syrian civil war living in Lebanon. ](/news/2013/07/22/the-united-nations-high-commissioner-for-refugees-states-that-there-are-approximately-625-000-refugees-from-the-syrian-civil-war-living-in-l.md)
-_Context: United Nations High Commissioner for Refugees, Lebanese, Syrian civil war_
+_Context: Lebanese, United Nations High Commissioner for Refugees, Syrian civil war_
 
 ##### European Union
 ### [The European Union announces the addition of the military wing of Hezbollah to its official list of terrorist organizations. ](/news/2013/07/22/the-european-union-announces-the-addition-of-the-military-wing-of-hezbollah-to-its-official-list-of-terrorist-organizations.md)
@@ -37,7 +37,7 @@ _Context: European Union, the military wing of Hezbollah_
 
 ##### Colombia
 ### [The presidents of Colombia and Venezuela meet to resolve a high-level diplomatic dispute. ](/news/2013/07/22/the-presidents-of-colombia-and-venezuela-meet-to-resolve-a-high-level-diplomatic-dispute.md)
-_Context: Venezuela, Colombia_
+_Context: Colombia, Venezuela_
 
 ##### United Kingdom
 ### [British pharmaceutical company GlaxoSmithKline admits that some of its senior executives in China appear to have broken the law as part of a bribery scandal. ](/news/2013/07/22/british-pharmaceutical-company-glaxosmithkline-admits-that-some-of-its-senior-executives-in-china-appear-to-have-broken-the-law-as-part-of-a.md)
@@ -53,7 +53,7 @@ _Context: Michoacan, Mexican_
 
 ##### Life in prison without parole
 ### [A 76-year-old man is sentenced to life in prison without parole for the 2012 murder of a 13-year-old boy in Milwaukee, Wisconsin. ](/news/2013/07/22/a-76-year-old-man-is-sentenced-to-life-in-prison-without-parole-for-the-2012-murder-of-a-13-year-old-boy-in-milwaukee-wisconsin.md)
-_Context: life in prison without parole, Milwaukee, Wisconsin_
+_Context: Milwaukee, Wisconsin, life in prison without parole_
 
 ##### Heathrow
 ### [The United Kingdom experiences its hottest day since July 2006, with a temperature of 33.5C (92.3F) recorded at Heathrow and Northolt in London. ](/news/2013/07/22/the-united-kingdom-experiences-its-hottest-day-since-july-2006-with-a-temperature-of-33-5c-92-3f-recorded-at-heathrow-and-northolt-in-lon.md)

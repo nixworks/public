@@ -21,7 +21,7 @@ Flooding and landslides in the Indonesian province of North Sulawesi leave at le
 
 ##### Nestl
 ### [Food giant Nestl removes its beef pasta meals from supermarkets in France, Spain, and Italy, after tests confirmed that the product contained horse meat. ](/news/2013/02/18/food-giant-nestle-removes-its-beef-pasta-meals-from-supermarkets-in-france-spain-and-italy-after-tests-confirmed-that-the-product-contain.md)
-_Context: beef, France, Italy, Nestl, 2013 meat adulteration scandal, Spain, horses for meat, supermarket_
+_Context: 2013 meat adulteration scandal, horses for meat, Italy, Nestl, beef, France, Spain, supermarket_
 
 ##### Robber
 ### [2013 Belgium diamond heist: Armed robbers steal a haul of diamonds worth $50 million during a raid at Brussels Airport in Belgium. ](/news/2013/02/18/2013-belgium-diamond-heist-armed-robbers-steal-a-haul-of-diamonds-worth-50-million-during-a-raid-at-brussels-airport-in-belgium.md)
@@ -29,7 +29,7 @@ Armed robbers disguised as police escape with a massive haul of diamonds after a
 
 ##### Murder-suicide
 ### [The perpetrator and his girlfriend's father are dead in a murder-suicide near Fairdealing, Missouri, United States, and two others are injured. ](/news/2013/02/18/the-perpetrator-and-his-girlfriend-s-father-are-dead-in-a-murder-suicide-near-fairdealing-missouri-united-states-and-two-others-are-injur.md)
-_Context: Fairdealing, United States, Missouri, murder-suicide_
+_Context: Fairdealing, Missouri, murder-suicide, American_
 
 ##### Armenia
 ### [Voters in Armenia go to the polls for a presidential election with incumbent President Serzh Sargsyan expected to win. Independent observers including the Parliamentary Assembly of the Council of Europe have expressed concern about the conduct of the elections. ](/news/2013/02/18/voters-in-armenia-go-to-the-polls-for-a-presidential-election-with-incumbent-president-serzh-sargsyan-expected-to-win-independent-observers.md)
@@ -41,7 +41,7 @@ The predawn homecoming of President Hugo Chávez more than two months after havi
 
 ##### Prime Minister of Tunisia
 ### [Prime Minister of Tunisia Hamadi Jebali announces that plans for a new government of technocrats has failed. ](/news/2013/02/18/prime-minister-of-tunisia-hamadi-jebali-announces-that-plans-for-a-new-government-of-technocrats-has-failed.md)
-_Context: government, Prime Minister of Tunisia, Hamadi Jebali, Tunisia_
+_Context: government, Hamadi Jebali, Prime Minister of Tunisia, Tunisia_
 
 ## [Previous Day...](/news/2013/02/17/index.md)
 

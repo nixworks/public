@@ -13,7 +13,7 @@ A suicide bomber in the Afghan capital Kabul killed as many as eight people and 
 
 ##### North Korea tunnel collapse
 ### [A tunnel under construction at North Korea's nuclear test site collapses, killing as many as 200 workers. ](/news/2017/10/31/a-tunnel-under-construction-at-north-korea-s-nuclear-test-site-collapses-killing-as-many-as-200-workers.md)
-_Context: nuclear testing site, North Korea, North Korea tunnel collapse_
+_Context: North Korea, North Korea tunnel collapse, nuclear testing site_
 
 ##### Road accidents in 2017
 ### [A car accident on highway 400 involving 14 vehicles, including two tanker trucks, results in three deaths near Barrie, Ontario. Police suspect distracted driving to be the cause. ](/news/2017/10/31/a-car-accident-on-highway-400-involving-14-vehicles-including-two-tanker-trucks-results-in-three-deaths-near-barrie-ontario-police-suspe.md)
@@ -37,7 +37,7 @@ Private polling showed the Democratic candidate with soft support among Latinos 
 
 ##### 2017 in spaceflight
 ### [A Minotaur-C rocket launches from Vandenberg Air Force Base, California, and deploys 10 commercial Earth-imaging satellites for Planet Labs. It is the first successful mission for the Minotaur-C, formerly known as Taurus, since 2004. ](/news/2017/10/31/a-minotaur-c-rocket-launches-from-vandenberg-air-force-base-california-and-deploys-10-commercial-earth-imaging-satellites-for-planet-labs.md)
-_Context: California, Planet Labs, Minotaur-C, Vandenberg Air Force Base, since 2004, 2017 in spaceflight, successful mission_
+_Context: Minotaur-C, 2017 in spaceflight, successful mission, Planet Labs, Vandenberg Air Force Base, since 2004, California_
 
 ## [Previous Day...](/news/2017/10/30/index.md)
 

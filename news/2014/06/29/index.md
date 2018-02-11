@@ -21,7 +21,7 @@ Floods caused by torrential rains have forced the evacuation of 200,00 people in
 
 ##### Hong Kong
 ### [Hong Kong customs authorities deny entry and deport a Taiwanese rights activist intending to support the Occupy Central campaign, which has gathered almost 800,000 votes in an unofficial poll on electoral reform. ](/news/2014/06/29/hong-kong-customs-authorities-deny-entry-and-deport-a-taiwanese-rights-activist-intending-to-support-the-occupy-central-campaign-which-has.md)
-_Context: activist, Occupy Central with Love and Peace, authorities, Hong Kong_
+_Context: authorities, activist, Occupy Central with Love and Peace, Hong Kong_
 
 ##### Bourbon Street
 ### [A shooting at Bourbon Street in New Orleans, Louisiana, U.S. injures 9 people. ](/news/2014/06/29/a-shooting-at-bourbon-street-in-new-orleans-louisiana-u-s-injures-9-people.md)

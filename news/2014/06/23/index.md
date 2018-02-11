@@ -5,7 +5,7 @@ Formats: [HTML](2014/06/23/index.html)  [JSON](2014/06/23/index.json)  [XML](201
 
 ##### Pakistan
 ### [Pakistani forces conduct airstrikes on terrorist hideouts in North Waziristan, killing 25 militants. ](/news/2014/06/23/pakistani-forces-conduct-airstrikes-on-terrorist-hideouts-in-north-waziristan-killing-25-militants.md)
-_Context: North Waziristan, Pakistan_
+_Context: Pakistan, North Waziristan_
 
 ##### Israeli Air Force
 ### [Israeli Air Force planes carry out a series of air strikes in Syria following an attack on Sunday that caused the death of an Israeli teenager. ](/news/2014/06/23/israeli-air-force-planes-carry-out-a-series-of-air-strikes-in-syria-following-an-attack-on-sunday-that-caused-the-death-of-an-israeli-teenag.md)
@@ -13,7 +13,7 @@ _Context: Syria, Israeli Air Force_
 
 ##### Syria
 ### [Syria hands over its remaining 100 tonnes of its declared chemical weapons to the United Nations Organisation for the Prohibition of Chemical Weapons but the organisation cannot declare that the country no longer has any such weapons. ](/news/2014/06/23/syria-hands-over-its-remaining-100-tonnes-of-its-declared-chemical-weapons-to-the-united-nations-organisation-for-the-prohibition-of-chemica.md)
-_Context: Organisation for the Prohibition of Chemical Weapons, chemical weapons, Syria, United Nations_
+_Context: United Nations, chemical weapons, Organisation for the Prohibition of Chemical Weapons, Syria_
 
 ##### Kano
 ### [An explosion at a public health school in the city of Kano in northern Nigeria kills at least 12 people. ](/news/2014/06/23/an-explosion-at-a-public-health-school-in-the-city-of-kano-in-northern-nigeria-kills-at-least-12-people.md)
@@ -37,7 +37,7 @@ _Context: Monet, Water Lilies_
 
 ##### Oracle Corporation
 ### [Oracle Corporation buys MICROS Systems in a $5.3 billion deal. ](/news/2014/06/23/oracle-corporation-buys-micros-systems-in-a-5-3-billion-deal.md)
-_Context: MICROS Systems, Oracle Corporation_
+_Context: Oracle Corporation, MICROS Systems_
 
 ##### China
 ### [The People's Republic of China arrests 300 people in the first month in a crackdown on alleged terrorists. ](/news/2014/06/23/the-people-s-republic-of-china-arrests-300-people-in-the-first-month-in-a-crackdown-on-alleged-terrorists.md)

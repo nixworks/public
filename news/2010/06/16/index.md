@@ -5,9 +5,9 @@ Formats: [HTML](2010/06/16/index.html)  [JSON](2010/06/16/index.json)  [XML](201
 
 ##### Jamaica
 ### [The Jamaican Government orders civilians to keep off the streets for two days in several slums in Kingston because authorities are still hunting for Christopher Coke, alleged by the United States to be a drug lord. ](/news/2010/06/16/the-jamaican-government-orders-civilians-to-keep-off-the-streets-for-two-days-in-several-slums-in-kingston-because-authorities-are-still-hun.md)
-_Context: drug lord, Jamaica, Christopher "Dudus" Coke, United States, Kingston_
+_Context: Jamaica, American, Kingston, Christopher "Dudus" Coke, drug lord_
 
-##### United States
+##### American
 ### [American police in Seattle say they will "review training procedured" following the surfacing of a video which attrated international attention. The video shows a white officer from the Seattle department punching a black teenaged girl in the face when she tried intervene while the officer was confronting another girl about crossing the road at a legally forbidden area. Seattle police deny any wrongdoing. ](/news/2010/06/16/american-police-in-seattle-say-they-will-review-training-procedured-following-the-surfacing-of-a-video-which-attrated-international-attent.md)
 Seattle police review training procedures after video of an officer punching a teenage girl circulates widely on TV and online.
 
@@ -17,7 +17,7 @@ Refugee agencies express concern over reported plans by the UK to deport about 5
 
 ##### Iran
 ### [Iran's atomic energy chief says Iran will begin building a new nuclear reactor, and Iran will keep enriching uranium, despite UN nuclear sanctions. ](/news/2010/06/16/iran-s-atomic-energy-chief-says-iran-will-begin-building-a-new-nuclear-reactor-and-iran-will-keep-enriching-uranium-despite-un-nuclear-san.md)
-_Context: Iran, nuclear reactor, ban on ballistic missile tests_
+_Context: ban on ballistic missile tests, nuclear reactor, Iran_
 
 ##### U.S. President
 ### [U.S. President Barack Obama announces that BP will finance a $20 billion fund to compensate people whose livelihoods have been damaged by the devastating oil spill in the Gulf of Mexico, and the company's chairman apologized for the worst spill in U.S. history. ](/news/2010/06/16/u-s-president-barack-obama-announces-that-bp-will-finance-a-20-billion-fund-to-compensate-people-whose-livelihoods-have-been-damaged-by-th.md)
@@ -37,7 +37,7 @@ Flash floods in south-eastern France leave at least 19 people dead and hundreds 
 
 ##### Mexican
 ### [A shootout in the Mexican tourist town of Taxco leaves 15 dead. ](/news/2010/06/16/a-shootout-in-the-mexican-tourist-town-of-taxco-leaves-15-dead.md)
-_Context: Taxco, Mexican_
+_Context: Mexican, Taxco_
 
 ##### Baghdad
 ### [Two separate blasts in eastern Baghdad kill 1 person and wound another 8. ](/news/2010/06/16/two-separate-blasts-in-eastern-baghdad-kill-1-person-and-wound-another-8.md)
@@ -81,7 +81,7 @@ _Context: Lhasa, Dragon Boat Festival_
 
 ##### Jesus Christ
 ### [A six-storey statue of Jesus Christ is struck by lightning and razed to the ground in a city in the US state of Ohio. ](/news/2010/06/16/a-six-storey-statue-of-jesus-christ-is-struck-by-lightning-and-razed-to-the-ground-in-a-city-in-the-us-state-of-ohio.md)
-_Context: Ohio, Jesus Christ, United States_
+_Context: Jesus Christ, Ohio, American_
 
 ##### Italy
 ### [Researchers from four Italian universities identify human remains discovered in a church in Tuscany as "almost certainly" being those of Renaissance artist Caravaggio. ](/news/2010/06/16/researchers-from-four-italian-universities-identify-human-remains-discovered-in-a-church-in-tuscany-as-almost-certainly-being-those-of-ren.md)

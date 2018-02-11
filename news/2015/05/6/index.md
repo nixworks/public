@@ -29,7 +29,7 @@ Gov. Larry Hogan on Wednesday officially lifted the state of emergency he put on
 
 ##### Chicago police
 ### [ Chicago City Council announces "reparations" to victims of the Chicago police torture squad under Jon Burge in the 1970s to 1990s. ](/news/2015/05/6/chicago-city-council-announces-reparations-to-victims-of-the-chicago-police-torture-squad-under-jon-burge-in-the-1970s-to-1990s.md)
-_Context: Jon Burge, Chicago police_
+_Context: Chicago police, Jon Burge_
 
 ##### Senate of Australia
 ### [Senator Christine Milne announces her resignation as leader of the Australian Greens. Senator Richard Di Natale is elected as the new leader. ](/news/2015/05/6/senator-christine-milne-announces-her-resignation-as-leader-of-the-australian-greens-senator-richard-di-natale-is-elected-as-the-new-leader.md)

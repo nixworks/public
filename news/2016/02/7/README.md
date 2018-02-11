@@ -41,7 +41,7 @@ Politicians in Haiti reach an agreement to install a transitional government hou
 
 ##### Parliament of Algeria
 ### [The Parliament of Algeria considers a new constitution imposing term limits for the President and recognising Amazigh as an official language. ](/news/2016/02/7/the-parliament-of-algeria-considers-a-new-constitution-imposing-term-limits-for-the-president-and-recognising-amazigh-as-an-official-languag.md)
-_Context: Parliament of Algeria, Amazigh, term limits_
+_Context: Amazigh, term limits, Parliament of Algeria_
 
 ## [Previous Day...](/news/2016/02/6/index.md)
 

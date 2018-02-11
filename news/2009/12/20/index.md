@@ -5,19 +5,19 @@ Formats: [HTML](2009/12/20/index.html)  [JSON](2009/12/20/index.json)  [XML](200
 
 ##### Tanzania
 ### [ Tanzania is hit by an earthquake measuring 6.2 magnitude. ](/news/2009/12/20/tanzania-is-hit-by-an-earthquake-measuring-6-2-magnitude.md)
-_Context: Tanzania, earthquake_
+_Context: earthquake, Tanzania_
 
 ##### State of emergency
 ### [ A crisis state of emergency is declared when at least three people are killed, hundreds are wounded and buildings collapse when an earthquake strikes Malawi. ](/news/2009/12/20/a-crisis-state-of-emergency-is-declared-when-at-least-three-people-are-killed-hundreds-are-wounded-and-buildings-collapse-when-an-earthqua.md)
-_Context: state of emergency, Malawi, earthquake_
+_Context: earthquake, Malawi, state of emergency_
 
 ##### Shia
 ### [ Shi'ites say Saudi air attacks on northern Yemen have led to the deaths of 54 people, including women and children. ](/news/2009/12/20/shi-ites-say-saudi-air-attacks-on-northern-yemen-have-led-to-the-deaths-of-54-people-including-women-and-children.md)
-_Context: Shia, Yemen, Saudi Arabia_
+_Context: Shia, Saudi Arabia, Yemen_
 
 ##### Madagascar
 ### [ Madagascar President Andry Rajoelina appoints Colonel Vital Albert Camille as the new Prime Minister, days after sacking former Prime Minister Eugene Mangalaza, who had been appointed as part of a power sharing agreement. ](/news/2009/12/20/madagascar-president-andry-rajoelina-appoints-colonel-vital-albert-camille-as-the-new-prime-minister-days-after-sacking-former-prime-minis.md)
-_Context: Andry Rajoelina, Vital Albert Camille, Eugene Mangalaza, Madagascar, Prime Minister of Madagascar_
+_Context: Vital Albert Camille, Eugene Mangalaza, Madagascar, Andry Rajoelina, Prime Minister of Madagascar_
 
 ##### United States soldier
 ### [ United States Army Major General Anthony Cucolo makes pregnancy a court-martial offense for both female and male troops under his command in northern Iraq. ](/news/2009/12/20/united-states-army-major-general-anthony-cucolo-makes-pregnancy-a-court-martial-offense-for-both-female-and-male-troops-under-his-command-i.md)
@@ -41,7 +41,7 @@ Mourners trickled into a palatial chapel in the heart of Mexican drug traffickin
 
 ##### Nepalese Maoist Party
 ### [ Hundreds of riot police and Maoist protesters clash in the Nepalese capital Kathmandu on the first day of a three-day general strike. ](/news/2009/12/20/hundreds-of-riot-police-and-maoist-protesters-clash-in-the-nepalese-capital-kathmandu-on-the-first-day-of-a-three-day-general-strike.md)
-_Context: Nepal, Kathmandu, Nepalese Maoist Party_
+_Context: Nepalese Maoist Party, Nepal, Kathmandu_
 
 ##### Colombia
 ### [ Colombia and Venezuela move closer to war. ](/news/2009/12/20/colombia-and-venezuela-move-closer-to-war.md)
@@ -49,15 +49,15 @@ Colombia said it is preparing to defend against a possible foreign military atta
 
 ##### Philippines
 ### [ Philippine officials warn an eruption at the Mayon Volcano could happen within the next few days. ](/news/2009/12/20/philippine-officials-warn-an-eruption-at-the-mayon-volcano-could-happen-within-the-next-few-days.md)
-_Context: Philippines, Mayon Volcano_
+_Context: Mayon Volcano, Philippines_
 
 ##### Soviet
 ### [ Two people are killed and four people are wounded by flying concrete during a huge demolition of a Soviet war memorial in Georgia. ](/news/2009/12/20/two-people-are-killed-and-four-people-are-wounded-by-flying-concrete-during-a-huge-demolition-of-a-soviet-war-memorial-in-georgia.md)
 _Context:  Georgian, Soviet_
 
-##### United States
+##### American
 ### [ American band Rage Against the Machine top the UK Christmas Singles Chart with 1992 song "Killing in the Name". Its popularity arose from an internet campaign to prevent "X Factor" winner Joe McElderry from topping the charts. ](/news/2009/12/20/american-band-rage-against-the-machine-top-the-uk-christmas-singles-chart-with-1992-song-killing-in-the-name-its-popularity-arose-from-a.md)
-_Context: United States, Joe McElderry, Killing in the Name, UK Christmas Singles Chart, The X Factor, Rage Against the Machine_
+_Context: Joe McElderry, The X Factor, UK Christmas Singles Chart, Rage Against the Machine, Killing in the Name, American_
 
 ## [Previous Day...](/news/2009/12/19/index.md)
 

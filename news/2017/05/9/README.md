@@ -5,7 +5,7 @@ Formats: [HTML](2017/05/9/index.html)  [JSON](2017/05/9/index.json)  [XML](2017/
 
 ##### Syria-United States relations
 ### [Despite opposition from Turkey, President Donald Trump authorizes an arms deal with the Syrian Kurds to assist the Syrian Democratic Forces in their fight against Islamic State of Iraq and the Levant (ISIL). ](/news/2017/05/9/despite-opposition-from-turkey-president-donald-trump-authorizes-an-arms-deal-with-the-syrian-kurds-to-assist-the-syrian-democratic-forces.md)
-_Context: ISIL, Donald Trump, Turkey-United States relations, Syria-United States relations, Syrian Democratic Forces, Syrian Kurds, Turkey_
+_Context: Donald Trump, ISIL, Turkey-United States relations, Turkey, Syria-United States relations, Syrian Kurds, Syrian Democratic Forces_
 
 ##### Basuki Tjahaja Purnama
 ### [Former Jakarta Governor Basuki Tjahaja Purnama, popularly known as "Ahok", is found guilty of blasphemy and sentenced to two years in prison. The accusation that he insulted the Quran sparked large protests last November. ](/news/2017/05/9/former-jakarta-governor-basuki-tjahaja-purnama-popularly-known-as-ahok-is-found-guilty-of-blasphemy-and-sentenced-to-two-years-in-prison.md)
@@ -13,7 +13,7 @@ Shock sentence comes after hardline Islamist groups called for Christian officia
 
 ##### South Korean presidential election, 2017
 ### [South Koreans vote in a presidential election, with Moon Jae-in of the Democratic Party of Korea winning the election. ](/news/2017/05/9/south-koreans-vote-in-a-presidential-election-with-moon-jae-in-of-the-democratic-party-of-korea-winning-the-election.md)
-_Context: South Korean presidential election, 2017, Democratic Party of Korea, South Korea, Moon Jae-in_
+_Context: Moon Jae-in, South Korean presidential election, 2017, South Korea, Democratic Party of Korea_
 
 ##### Dismissal of James Comey
 ### [U.S. President Donald Trump removes James Comey as Director of the Federal Bureau of Investigation, with Andrew G. McCabe stepping in as acting director. ](/news/2017/05/9/u-s-president-donald-trump-removes-james-comey-as-director-of-the-federal-bureau-of-investigation-with-andrew-g-mccabe-stepping-in-as-act.md)
@@ -25,7 +25,7 @@ Being a communist would no longer be a fireable offense for California governmen
 
 ##### Georgia's 6th congressional district special election, 2017
 ### [The election between Democrat Jon Ossoff and Republican Karen Handel to replace the seat vacated by Tom Price becomes the most expensive congressional race in United States history. ](/news/2017/05/9/the-election-between-democrat-jon-ossoff-and-republican-karen-handel-to-replace-the-seat-vacated-by-tom-price-becomes-the-most-expensive-con.md)
-_Context: Jon Ossoff, Karen Handel, United States, Tom Price, Georgia's 6th congressional district special election, 2017_
+_Context: Karen Handel, Tom Price, Jon Ossoff, Georgia's 6th congressional district special election, 2017, American_
 
 ## [Previous Day...](/news/2017/05/8/index.md)
 

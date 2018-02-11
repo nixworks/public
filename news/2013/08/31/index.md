@@ -3,7 +3,7 @@ Formats: [HTML](2013/08/31/index.html)  [JSON](2013/08/31/index.json)  [XML](201
 
 ## [2013-08-31](/news/2013/08/31/index.md)
 
-##### United States
+##### American
 ### [American President Barack Obama says that he is ready to order a limited strike, but will seek approval from Congress. ](/news/2013/08/31/american-president-barack-obama-says-that-he-is-ready-to-order-a-limited-strike-but-will-seek-approval-from-congress.md)
 BEIRUT - A United Nations chemical inspection team left Syria on Saturday as U.S. officials were said to be preparing a retaliatory strike against the Syrian government for its alleged use of...
 

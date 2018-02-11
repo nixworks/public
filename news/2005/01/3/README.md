@@ -5,15 +5,15 @@ Formats: [HTML](2005/01/3/index.html)  [JSON](2005/01/3/index.json)  [XML](2005/
 
 ##### Iraq
 ### [ In Iraq, a spate of suicide bombings (including one near Iraqi National Accord headquarters) kills 27. Interim defence minister Hazim al-Shaalan hints that the assembly elections scheduled for 30 January could be delayed to allow for Sunni Muslim participation. ](/news/2005/01/3/in-iraq-a-spate-of-suicide-bombings-including-one-near-iraqi-national-accord-headquarters-kills-27-interim-defence-minister-hazim-al-sh.md)
-_Context: Iraq, 30 January, Hazim al-Shaalan, assembly elections, Iraqi National Accord_
+_Context: Iraqi National Accord, Iraq, assembly elections, Hazim al-Shaalan, 30 January_
 
 ##### Peru
 ### [ In Peru, 200 men from the Movimiento Etnocacerista who took over the town of Andahuaylas and its police station first say they intend to give up their weapons, then retract, saying the government had reneged on a surrender deal. ](/news/2005/01/3/in-peru-200-men-from-the-movimiento-etnocacerista-who-took-over-the-town-of-andahuaylas-and-its-police-station-first-say-they-intend-to-gi.md)
-_Context: Peru, Andahuaylas, Movimiento Etnocacerista_
+_Context: Peru, Movimiento Etnocacerista, Andahuaylas_
 
 ##### Uganda
 ### [ In Uganda, a seven-week ceasefire between the government and the Lord's Resistance Army ends with the rebel ambush of government troops near the town of Gulu. President Yoweri Museveni promises to increase military action against the rebels. ](/news/2005/01/3/in-uganda-a-seven-week-ceasefire-between-the-government-and-the-lord-s-resistance-army-ends-with-the-rebel-ambush-of-government-troops-nea.md)
-_Context: Yoweri Museveni, Gulu, Lord's Resistance Army, President, Uganda_
+_Context: Yoweri Museveni, Uganda, President, Lord's Resistance Army, Gulu_
 
 ##### Ethiopia
 ### [ Ethiopian opposition groups demonstrate against the government's plan to reopen border talks with Eritrea. ](/news/2005/01/3/ethiopian-opposition-groups-demonstrate-against-the-government-s-plan-to-reopen-border-talks-with-eritrea.md)

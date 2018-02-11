@@ -27,7 +27,7 @@ A deadly fire in a factory on the outskirts of the southern Indian city of Banga
 ### [Around 1,000 dead ducks are pulled from Sichuan River in southwest China, sparking health and environmental concerns among residents. Also, more than 16,000 dead pigs have been pulled from Shanghai's Huangpu River over the past two weeks. ](/news/2013/03/25/around-1-000-dead-ducks-are-pulled-from-sichuan-river-in-southwest-china-sparking-health-and-environmental-concerns-among-residents-also.md)
 Around 1,000 dead ducks have been pulled from a river in Sichuan, Chinese media report, while the Shanghai river pig toll passes 16,000.
 
-##### United States
+##### American
 ### [The United States agrees to hand over Bagram Jail, its main detention facility in Afghanistan, to the country's government. ](/news/2013/03/25/the-united-states-agrees-to-hand-over-bagram-jail-its-main-detention-facility-in-afghanistan-to-the-country-s-government.md)
 Transfer ends one of several bitter standoffs straining bilateral ties as US secretary of state meets Karzai in Kabul.
 
@@ -37,7 +37,7 @@ South Korea and the United States sign a plan providing for a joint response in 
 
 ##### China
 ### [China's President Xi Jinping vows to intensify ties with Africa, as he addresses leaders in Dar es Salaam, Tanzania, on his first trip to the continent. ](/news/2013/03/25/china-s-president-xi-jinping-vows-to-intensify-ties-with-africa-as-he-addresses-leaders-in-dar-es-salaam-tanzania-on-his-first-trip-to-th.md)
-_Context: Dar es Salaam, Chinese President, Tanzania, Xi Jinping, Africa, China_
+_Context: Africa, Tanzania, China, Chinese President, Xi Jinping, Dar es Salaam_
 
 ##### European Union
 ### [The European Union suspends sanctions against 81 officials and eight firms in Zimbabwe, but those against President Robert Mugabe and his top aides remain in place. ](/news/2013/03/25/the-european-union-suspends-sanctions-against-81-officials-and-eight-firms-in-zimbabwe-but-those-against-president-robert-mugabe-and-his-to.md)
@@ -45,7 +45,7 @@ The European Union suspends sanctions against 81 officials and eight firms in Zi
 
 ##### United States Secretary of State
 ### [United States Secretary of State John Kerry meets with the President of Afghanistan Hamid Karzai to talk about the two countries' strained relations. ](/news/2013/03/25/united-states-secretary-of-state-john-kerry-meets-with-the-president-of-afghanistan-hamid-karzai-to-talk-about-the-two-countries-strained-r.md)
-_Context: strained relations, Afghanistan President, John Kerry, Hamid Karzai, United States Secretary of State_
+_Context: John Kerry, United States Secretary of State, strained relations, Hamid Karzai, Afghanistan President_
 
 ##### European Union
 ### [The European Union and Japan say that they will begin talks to restart free trade between the two entities beginning in April. ](/news/2013/03/25/the-european-union-and-japan-say-that-they-will-begin-talks-to-restart-free-trade-between-the-two-entities-beginning-in-april.md)
@@ -53,7 +53,7 @@ Japan and the European Union announced they will start free trade talks in April
 
 ##### Daily Mail
 ### [Hundreds of people gather outside "Daily Mail" headquarters to hold a vigil after the possible hounding to death of a primary school teacher Lucy Meadows by the British media. ](/news/2013/03/25/hundreds-of-people-gather-outside-daily-mail-headquarters-to-hold-a-vigil-after-the-possible-hounding-to-death-of-a-primary-school-teacher.md)
-_Context: British media, Daily Mail, Lucy Meadows, teacher, primary school_
+_Context: teacher, Lucy Meadows, primary school, Daily Mail, British media_
 
 ##### Stabbed
 ### [Six people are wounded during a stabbing attack at a Target store in Pittsburgh, Pennsylvania, United States. A 41-year-old homeless man was arrested. ](/news/2013/03/25/six-people-are-wounded-during-a-stabbing-attack-at-a-target-store-in-pittsburgh-pennsylvania-united-states-a-41-year-old-homeless-man-was.md)
@@ -65,7 +65,7 @@ Bodies of seven men, with shot wounds to the head, placed in plastic chairs alon
 
 ##### President
 ### [The former President of Zambia Rupiah Banda is arrested for alleged corruption and abuse of authority. ](/news/2013/03/25/the-former-president-of-zambia-rupiah-banda-is-arrested-for-alleged-corruption-and-abuse-of-authority.md)
-_Context: Rupiah Banda, Zambia, abuse of authority, President, corruption_
+_Context: Zambia, abuse of authority, corruption, Rupiah Banda, President_
 
 ##### Hong Kong
 ### [Hong Kong's Court of Final Appeal rules that foreign domestic workers are not allowed to become Hong Kong permanent residents. ](/news/2013/03/25/hong-kong-s-court-of-final-appeal-rules-that-foreign-domestic-workers-are-not-allowed-to-become-hong-kong-permanent-residents.md)

@@ -17,7 +17,7 @@ _Context: Mandarin Oriental, Hong Kong_
 
 ##### Indian government
 ### [The Indian government censors the documentary "India's Daughter" depicting a December 2012 gang rape and murder due to perceived incitement to violence that the outrage about the film might cause. Nevertheless, the BBC telecasts the film. ](/news/2015/03/5/the-indian-government-censors-the-documentary-india-s-daughter-depicting-a-december-2012-gang-rape-and-murder-due-to-perceived-incitement.md)
-_Context: 2012 Delhi gang rape, BBC, India's Daughter, Indian government_
+_Context: BBC, Indian government, India's Daughter, 2012 Delhi gang rape_
 
 ##### Ringling Bros. and Barnum & Bailey Circus
 ### [The American Ringling Bros. and Barnum & Bailey Circus will phase-out the inclusion of elephants in their performances by 2018. ](/news/2015/03/5/the-american-ringling-bros-and-barnum-bailey-circus-will-phase-out-the-inclusion-of-elephants-in-their-performances-by-2018.md)
@@ -25,15 +25,15 @@ _Context: elephant, Ringling Bros. and Barnum & Bailey Circus_
 
 ##### Edward Cardinal Egan
 ### [His Eminence, Edward Cardinal Egan, the immediate past Archbishop-Emeritus of New York, dies in New York City at the age of 82. ](/news/2015/03/5/his-eminence-edward-cardinal-egan-the-immediate-past-archbishop-emeritus-of-new-york-dies-in-new-york-city-at-the-age-of-82.md)
-_Context: New York City, Edward Cardinal Egan_
+_Context: Edward Cardinal Egan, New York City_
 
 ##### AbbVie
 ### [American pharmaceutical company AbbVie Inc buys leukemia drugmaker Pharmacyclics Inc for $21 billion. ](/news/2015/03/5/american-pharmaceutical-company-abbvie-inc-buys-leukemia-drugmaker-pharmacyclics-inc-for-21-billion.md)
-_Context: AbbVie, $, leukemia_
+_Context: leukemia, AbbVie, $_
 
 ##### New York
 ### [A New York state appellate court in Manhattan rules to approve in its entirety the 2011 settlement by Bank of America with 22 institutional investors including BlackRock Inc, MetLife Inc, and Allianz SE's Pacific Investment Management Co to resolve claims over $174 billion of mortgage securities issued by the former Countrywide Financial Corp. in a $8.5 billion settlement. ](/news/2015/03/5/a-new-york-state-appellate-court-in-manhattan-rules-to-approve-in-its-entirety-the-2011-settlement-by-bank-of-america-with-22-institutional.md)
-_Context: BlackRock, $, Allianz, Countrywide Financial Corp., MetLife, Manhattan, state appellate court, New York, Bank of America_
+_Context: Allianz, Bank of America, $, Manhattan, Countrywide Financial Corp., BlackRock, state appellate court, MetLife, New York_
 
 ##### Dublin
 ### [Dublin-based generic drugmaker, specialty drug supplier, and medical imaging agent producer Mallinckrodt Plc increases its presence in U.S. hospitals by buying privately held Ikaria Inc, a maker of a respiratory drug and its delivery system, for $2.3 billion from a group of investors led by private equity firm Madison Dearborn Partners LLC. The deal includes INOmax, which is the only approved product to treat hypoxic respiratory failure in infants through nitric oxide. ](/news/2015/03/5/dublin-based-generic-drugmaker-specialty-drug-supplier-and-medical-imaging-agent-producer-mallinckrodt-plc-increases-its-presence-in-u-s.md)
@@ -41,19 +41,19 @@ Dublin-based drugmaker Mallinckrodt Plc strengthened its presence in U.S. hospit
 
 ##### Kazakhstan
 ### [Energy-rich Kazakhstan suspends Russian fuel and gas imports to protect its domestic market from a surplus due to a weakened ruble which has sent ripples of economic uncertainty through Central Asia. ](/news/2015/03/5/energy-rich-kazakhstan-suspends-russian-fuel-and-gas-imports-to-protect-its-domestic-market-from-a-surplus-due-to-a-weakened-ruble-which-has.md)
-_Context: Kazakhstan, Central Asia_
+_Context: Central Asia, Kazakhstan_
 
 ##### Tanzania
 ### [Tanzanian flooding kills 42 people near Lake Victoria in the Kahama District. ](/news/2015/03/5/tanzanian-flooding-kills-42-people-near-lake-victoria-in-the-kahama-district.md)
-_Context: Tanzania, Lake Victoria, Kahama District_
+_Context: Kahama District, Tanzania, Lake Victoria_
 
 ##### Delta Air Lines
 ### [A Delta Air Lines McDonnell Douglas MD-88 aircraft attempting to complete a snowing landing, veers to the left side off of a recently-plowed runway, thereby missing the end of runway emergency arresting device, and skids onto the edge of water embankment at LaGuardia Airport, New York, United States. ](/news/2015/03/5/a-delta-air-lines-mcdonnell-douglas-md-88-aircraft-attempting-to-complete-a-snowing-landing-veers-to-the-left-side-off-of-a-recently-plowed.md)
-_Context: Delta Air Lines, New York City, McDonnell Douglas MD-88, LaGuardia Airport_
+_Context: Delta Air Lines, McDonnell Douglas MD-88, New York City, LaGuardia Airport_
 
 ##### Harrison Ford
 ### [American actor Harrison Ford is in stable condition after he crash-lands his 1942 Ryan Aeronautical ST3KR single-engine World War II-era training plane at the Penmar Golf Course, in Venice, Los Angeles, California, just west of the Santa Monica Airport. ](/news/2015/03/5/american-actor-harrison-ford-is-in-stable-condition-after-he-crash-lands-his-1942-ryan-aeronautical-st3kr-single-engine-world-war-ii-era-tra.md)
-_Context: Santa Monica Airport, Harrison Ford, California, Venice, Los Angeles, Ryan Aeronautical, World War II_
+_Context: Santa Monica Airport, California, Venice, Los Angeles, Harrison Ford, World War II, Ryan Aeronautical_
 
 ##### Ebola virus epidemic in West Africa
 ### [Liberia's last known ebola patient is discharged from a treatment center in Monrovia. The country now needs 42 days without a subsequent diagnosed infection to be declared disease free. ](/news/2015/03/5/liberia-s-last-known-ebola-patient-is-discharged-from-a-treatment-center-in-monrovia-the-country-now-needs-42-days-without-a-subsequent-dia.md)
@@ -61,7 +61,7 @@ Beatrice Yardolo lost two sons and a daughter to the disease, but she gave thank
 
 ##### Endoscopic
 ### [The manufacturer of a medical instrument for endoscopic procedures, Olympus Corp, lacked US FDA clearance to sell the current version when it caused an outbreak of infections, including two deaths, from an antibiotic-resistant strain of bacteria, "superbug" Carbapenem-resistant enterobacteriaceae, or CRE, at Ronald Reagan UCLA Medical Center between October 2014 and January 2015 (see February 19). ](/news/2015/03/5/the-manufacturer-of-a-medical-instrument-for-endoscopic-procedures-olympus-corp-lacked-us-fda-clearance-to-sell-the-current-version-when-i.md)
-_Context: Ronald Reagan UCLA Medical Center, February 19, Olympus Corp, endoscopic, Carbapenem-resistant enterobacteriaceae, antibiotic-resistant, FDA_
+_Context: Carbapenem-resistant enterobacteriaceae, Ronald Reagan UCLA Medical Center, antibiotic-resistant, February 19, endoscopic, Olympus Corp, FDA_
 
 ##### Phoenix, Arizona
 ### [A Phoenix, Arizona jury deadlocks in a second trial allowing convicted murderer American Jodi Arias to be spared the death penalty. She will be sent to prison for life for killing her lover in 2008. ](/news/2015/03/5/a-phoenix-arizona-jury-deadlocks-in-a-second-trial-allowing-convicted-murderer-american-jodi-arias-to-be-spared-the-death-penalty-she-will.md)

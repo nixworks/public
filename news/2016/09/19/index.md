@@ -33,11 +33,11 @@ BIG SUR, Calif. (AP) — A wildfire burning for nearly two months on California&
 
 ##### 2016 Southeast Asian haze
 ### [In 2015, more than 100,000 people in Indonesia, Malaysia, and Singapore may have died as a result of forest fires in Southeast Asia. The continued poor air quality also continues to affect the health of more than 42 million Indonesians. ](/news/2016/09/19/in-2015-more-than-100-000-people-in-indonesia-malaysia-and-singapore-may-have-died-as-a-result-of-forest-fires-in-southeast-asia-the-con.md)
-_Context: 2016 Southeast Asian haze, Singapore, Malaysia, Asia, forest fires, Indonesians, Indonesia_
+_Context: forest fires, Singapore, Indonesia, Asia, Indonesians, Malaysia, 2016 Southeast Asian haze_
 
 ##### Mexican
 ### [Mexican authorities find the bodies of two priests who were kidnapped yesterday in Poza Rica, Veracruz. Authorities find the third abducted person, the driver, alive. ](/news/2016/09/19/mexican-authorities-find-the-bodies-of-two-priests-who-were-kidnapped-yesterday-in-poza-rica-veracruz-authorities-find-the-third-abducted.md)
-_Context: Veracruz, Mexican, Poza Rica_
+_Context: Veracruz, Poza Rica, Mexican_
 
 ##### Cambodia
 ### [Cambodian prime minister Hun Sen says that he will continue his campaign against protests from the Cambodian opposition while Kem Sokha of the Cambodian National Rescue Party vows to remain as their leader. ](/news/2016/09/19/cambodian-prime-minister-hun-sen-says-that-he-will-continue-his-campaign-against-protests-from-the-cambodian-opposition-while-kem-sokha-of-t.md)

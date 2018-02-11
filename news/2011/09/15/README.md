@@ -5,11 +5,11 @@ Formats: [HTML](2011/09/15/index.html)  [JSON](2011/09/15/index.json)  [XML](201
 
 ##### Japan
 ### [Japanese automaker Toyota resumes full production at its North American plants, having finally overcome parts shortages caused by the March 2011 Tohoku earthquake and tsunami. ](/news/2011/09/15/japanese-automaker-toyota-resumes-full-production-at-its-north-american-plants-having-finally-overcome-parts-shortages-caused-by-the-march.md)
-_Context: Japan, Toyota, North America, 2011 Tohoku earthquake and tsunami_
+_Context: 2011 Tohoku earthquake and tsunami, Toyota, Japan, North America_
 
 ##### North America
 ### [A contract between the North American automaker Chrysler and the United Auto Workers expires at midnight while negotiations continue between the union and General Motors. ](/news/2011/09/15/a-contract-between-the-north-american-automaker-chrysler-and-the-united-auto-workers-expires-at-midnight-while-negotiations-continue-between.md)
-_Context: North America, United Auto Workers, Chrysler, General Motors_
+_Context: Chrysler, General Motors, United Auto Workers, North America_
 
 ##### Switzerland
 ### [Switzerland's UBS reports that it has lost US$2 billion on unauthorised deals by Kweku Adoboli, one of its London-based traders. ](/news/2011/09/15/switzerland-s-ubs-reports-that-it-has-lost-us-2-billion-on-unauthorised-deals-by-kweku-adoboli-one-of-its-london-based-traders.md)
@@ -17,7 +17,7 @@ Swiss bank UBS said it had lost around $2 billion due to rogue dealing by a Lond
 
 ##### Stock markets
 ### [Stock markets in the United States and Europe rally after major banks, including the European Central Bank and the United States Federal Reserve, initiate a plan to help end the European sovereign debt crisis. ](/news/2011/09/15/stock-markets-in-the-united-states-and-europe-rally-after-major-banks-including-the-european-central-bank-and-the-united-states-federal-res.md)
-_Context: Eurozone crisis, Europe, Economy of the United States, United States Federal Reserve, Stock markets, European Central Bank_
+_Context: European Central Bank, Eurozone crisis, United States Federal Reserve, Europe, Stock markets, Economy of the United States_
 
 ##### Oxfam
 ### [International aid group Oxfam sets up an emergency appeal for victims of the 2011 Sindh floods in Pakistan, which have so far killed more than 200 people. ](/news/2011/09/15/international-aid-group-oxfam-sets-up-an-emergency-appeal-for-victims-of-the-2011-sindh-floods-in-pakistan-which-have-so-far-killed-more-th.md)
@@ -29,15 +29,15 @@ Rescue services send divers to a flooded mine as a major operation to rescue fou
 
 ##### Vancouver Island
 ### [Earthquakes hit off the coasts of Vancouver Island, Cuba, Japan, and New Zealand's north island. ](/news/2011/09/15/earthquakes-hit-off-the-coasts-of-vancouver-island-cuba-japan-and-new-zealand-s-north-island.md)
-_Context: Cuba, New Zealand, Japan, Vancouver Island_
+_Context: Japan, Cuba, Vancouver Island, New Zealand_
 
 ##### Hurricane Maria
 ### [Hurricane Maria passes Bermuda on its way to Newfoundland off the coast of Canada. ](/news/2011/09/15/hurricane-maria-passes-bermuda-on-its-way-to-newfoundland-off-the-coast-of-canada.md)
-_Context: Hurricane Maria, Canadian, Bermuda, Newfoundland and Labrador_
+_Context: Bermuda, Newfoundland and Labrador, Canadian, Hurricane Maria_
 
 ##### Cruise ship
 ### [The Norwegian cruise ship Nordlys 2 catches fire off Alesund. Two people are killed and twelve are injured. ](/news/2011/09/15/the-norwegian-cruise-ship-nordlys-2-catches-fire-off-alesund-two-people-are-killed-and-twelve-are-injured.md)
-_Context: Alesund, cruise ship_
+_Context: cruise ship, Alesund_
 
 ##### Prime Minister
 ### [The Prime Minister of Thailand Yingluck Shinawatra visits Cambodia in an effort to improve relations after the border clashes near the Preah Vihear Temple earlier this year which led to the deaths of twenty people. ](/news/2011/09/15/the-prime-minister-of-thailand-yingluck-shinawatra-visits-cambodia-in-an-effort-to-improve-relations-after-the-border-clashes-near-the-preah.md)
@@ -55,13 +55,13 @@ UK Prime Minister David Cameron and French President Nicolas Sarkozy are in Liby
 ### [UNICEF releases a child mortality report indicating that the number of children dying under the age of five has fallen from more than 12 million in 1990 to 7.6 million in 2010. ](/news/2011/09/15/unicef-releases-a-child-mortality-report-indicating-that-the-number-of-children-dying-under-the-age-of-five-has-fallen-from-more-than-12-mil.md)
 _Context: child mortality, UNICEF_
 
-##### United States
+##### American
 ### [The United States designates the Indian Mujahideen as a terrorist organisation. ](/news/2011/09/15/the-united-states-designates-the-indian-mujahideen-as-a-terrorist-organisation.md)
-_Context: terrorism, Indian Mujahideen, United States_
+_Context: Indian Mujahideen, American, terrorism_
 
 ##### China
 ### [The People's Republic of China sentences four people to death in the Xinjiang region following threats to crack down on terrorism in the far-western region. ](/news/2011/09/15/the-people-s-republic-of-china-sentences-four-people-to-death-in-the-xinjiang-region-following-threats-to-crack-down-on-terrorism-in-the-far.md)
-_Context: China, terrorism, Xinjiang_
+_Context: terrorism, Xinjiang, China_
 
 ##### Justice
 ### [Figures from the United Kingdom's Ministry of Justice indicate that three quarters of those charged with offences relating to the riots which occurred in August had previous criminal convictions. One quarter had committed more than ten previous offences. ](/news/2011/09/15/figures-from-the-united-kingdom-s-ministry-of-justice-indicate-that-three-quarters-of-those-charged-with-offences-relating-to-the-riots-whic.md)
@@ -81,11 +81,11 @@ _Context: parliamentary elections, Social Democrat, Denmark_
 
 ##### Australian
 ### [Australians will now be able to choose "indeterminate" as a gender on their passports together with male and female. ](/news/2011/09/15/australians-will-now-be-able-to-choose-indeterminate-as-a-gender-on-their-passports-together-with-male-and-female.md)
-_Context: passport, gender, Australian_
+_Context: gender, Australian, passport_
 
 ##### Flemish
 ### [Eight Flemish and Francophone parties represented in the Belgian Chamber of Representatives reach a breakthrough on the Bruxelles-Halle-Vilvorde which had been one of the issues holding up formation of a new government since an election in 2010. ](/news/2011/09/15/eight-flemish-and-francophone-parties-represented-in-the-belgian-chamber-of-representatives-reach-a-breakthrough-on-the-bruxelles-halle-vilv.md)
-_Context: Flemish, Francophone, election, Bruxelles-Halle-Vilvorde, Belgian Chamber of Representatives, 541 days of negotiations_
+_Context: Francophone, Flemish, election, 541 days of negotiations, Belgian Chamber of Representatives, Bruxelles-Halle-Vilvorde_
 
 ##### Australia
 ### [Researchers at Australia's Monash University have identified a previously unknown species of bottlenose dolphin living in waters in and around Southeastern Australia, which they have named "Tursiops australis". ](/news/2011/09/15/researchers-at-australia-s-monash-university-have-identified-a-previously-unknown-species-of-bottlenose-dolphin-living-in-waters-in-and-arou.md)

@@ -9,7 +9,7 @@ _Context: Chile, earthquake_
 
 ##### Soyuz TMA-9
 ### [ Soyuz TMA-9, with space tourist Charles Simonyi and two crew from Expedition 14 to the International Space Station on board, safely return to Earth. ](/news/2007/04/21/soyuz-tma-9-with-space-tourist-charles-simonyi-and-two-crew-from-expedition-14-to-the-international-space-station-on-board-safely-return.md)
-_Context: Charles Simonyi, International Space Station, space tourist, Expedition 14, Earth, Soyuz TMA-9_
+_Context: Charles Simonyi, International Space Station, Expedition 14, space tourist, Earth, Soyuz TMA-9_
 
 ##### United States Navy
 ### [ An aircraft of the United States Navy's Blue Angels precision flight team crashes during an air show in Beaufort, South Carolina, killing the pilot and injuring eight people on the ground. ](/news/2007/04/21/an-aircraft-of-the-united-states-navy-s-blue-angels-precision-flight-team-crashes-during-an-air-show-in-beaufort-south-carolina-killing-t.md)
@@ -17,15 +17,15 @@ Investigators looked through wreckage Sunday to determine what caused a Navy Blu
 
 ##### Mohammed al-Attar
 ### [ Mohammed al-Attar is sentenced to 15 years in an Egyptian prison after being convicted of being a Mossad agent. ](/news/2007/04/21/mohammed-al-attar-is-sentenced-to-15-years-in-an-egyptian-prison-after-being-convicted-of-being-a-mossad-agent.md)
-_Context: prison, Mohammed al-Attar, Mossad, Egypt_
+_Context: Mossad, Mohammed al-Attar, Egypt, prison_
 
 ##### Appeals court
 ### [ An appeals court decides that the two candidates in the runoff election to decide the next President of East Timor will be current Prime Minister of East Timor Jos Ramos-Horta and Francisco Guterres of Fretilin. Two of the unsuccessful candidates have announced that they will support Dr Ramos-Horta. ](/news/2007/04/21/an-appeals-court-decides-that-the-two-candidates-in-the-runoff-election-to-decide-the-next-president-of-east-timor-will-be-current-prime-mi.md)
-_Context: appeals court, Fretilin, Francisco Guterres, Jos Ramos-Horta, President, second round, Prime Minister of East Timor_
+_Context: Prime Minister of East Timor, second round, Jos Ramos-Horta, Fretilin, Francisco Guterres, appeals court, President_
 
-##### United States
+##### American
 ### [ The United States and Australia issue travel advisories warning their citizens not to go to the Philippines due to a potentially imminent terrorist threat. ](/news/2007/04/21/the-united-states-and-australia-issue-travel-advisories-warning-their-citizens-not-to-go-to-the-philippines-due-to-a-potentially-imminent-t.md)
-_Context: Australia, travel advisories, United States, Philippines, terrorist_
+_Context: travel advisories, Australia, American, Philippines, terrorist_
 
 ##### Kurmanbek Bakiyev
 ### [ Protests against the Bakiyev administration in Kyrgyzstan become violent as protesters fight with government security forces. ](/news/2007/04/21/protests-against-the-bakiyev-administration-in-kyrgyzstan-become-violent-as-protesters-fight-with-government-security-forces.md)
@@ -37,7 +37,7 @@ _Context: presidential election, Nigeria_
 
 ##### Romania
 ### [ A U.N. investigation finds that Romanian police officers killed two Kosovars as they demonstrated "against" the Ahtisaari Plan in Pristina, capital of Kosovo, in February 2007. The Romanian force has since left Kosovo. ](/news/2007/04/21/a-u-n-investigation-finds-that-romanian-police-officers-killed-two-kosovars-as-they-demonstrated-against-the-ahtisaari-plan-in-pristina.md)
-_Context: Ahtisaari Plan, Romania, Kosovo, Pristina_
+_Context: Pristina, Romania, Ahtisaari Plan, Kosovo_
 
 ## [Previous Day...](/news/2007/04/20/index.md)
 

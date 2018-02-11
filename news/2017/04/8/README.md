@@ -13,7 +13,7 @@ _Context: Hunedoara County, A freight train derails, Romania_
 
 ##### Swiebodzice
 ### [ In Swiebodzice, Poland, an old tenement house collapses killing at least six people, including two children, and injuring six. The exploration teams are looking for 4 missing people. ](/news/2017/04/8/in-awiebodzice-poland-an-old-tenement-house-collapses-killing-at-least-six-people-including-two-children-and-injuring-six-the-explora.md)
-_Context: tenement house, Polish, Swiebodzice_
+_Context: Swiebodzice, tenement house, Polish_
 
 ##### Cyclone Debbie
 ### [Another body has been found after flooding in eastern Queensland, raising the death toll to twelve. ](/news/2017/04/8/another-body-has-been-found-after-flooding-in-eastern-queensland-raising-the-death-toll-to-twelve.md)

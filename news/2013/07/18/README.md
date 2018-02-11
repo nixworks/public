@@ -9,7 +9,7 @@ Eight Afghan labourers who were on their way to work at a US military base in Lo
 
 ##### Indians
 ### [Indian paramilitary forces shoot dead seven protesters outside a Border Security Force station in Kashmir with dozens injured. ](/news/2013/07/18/indian-paramilitary-forces-shoot-dead-seven-protesters-outside-a-border-security-force-station-in-kashmir-with-dozens-injured.md)
-_Context: Indians, Indian police officers, Kashmir, seven protesters_
+_Context: Indian police officers, seven protesters, Kashmir, Indians_
 
 ##### Dow Jones Industrial Average
 ### [The Dow Jones Industrial Average hits its intraday high of 15,552. ](/news/2013/07/18/the-dow-jones-industrial-average-hits-its-intraday-high-of-15-552.md)
@@ -25,7 +25,7 @@ _Context: Fukushima Daiichi Nuclear Power Plant, Tokyo Electric Power Company_
 
 ##### Romania
 ### [Romanian investigators find the remains of paint, canvas and nails in the oven of a woman whose son is charged with stealing seven paintings by Picasso, Monet and Matisse from the Kunsthal gallery in October 2012. ](/news/2013/07/18/romanian-investigators-find-the-remains-of-paint-canvas-and-nails-in-the-oven-of-a-woman-whose-son-is-charged-with-stealing-seven-paintings.md)
-_Context: Monet, Picasso, Matisse, Romania, Kunsthal_
+_Context: Monet, Romania, Picasso, Kunsthal, Matisse_
 
 ##### New Zealand police
 ### [New Zealand police decide not to proceed with manslaughter charges against the managers of the Pike River Mine over the deaths of 29 workers in the 2010 Pike River Mine disaster. ](/news/2013/07/18/new-zealand-police-decide-not-to-proceed-with-manslaughter-charges-against-the-managers-of-the-pike-river-mine-over-the-deaths-of-29-workers.md)

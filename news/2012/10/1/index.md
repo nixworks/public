@@ -17,15 +17,15 @@ A suicide bomber has killed at least 20 people, three of them Nato soldiers, in 
 
 ##### 2011-present Libyan factional fighting
 ### [2011-present Libyan factional fighting: Chairman of the General National Congress Mohamed Yousef el-Magariaf says that al-Qaeda elements, who fought alongside the rebels in the Libyan Civil War, number "up to 200" in Libya now. ](/news/2012/10/1/2011apresent-libyan-factional-fighting-chairman-of-the-general-national-congress-mohamed-yousef-el-magariaf-says-that-al-qaeda-elements.md)
-_Context: al-Qaeda, Libyan Civil War, 2011-present Libyan factional fighting, Mohamed Yousef el-Magariaf, Libyan Parliament_
+_Context: al-Qaeda, Mohamed Yousef el-Magariaf, Libyan Civil War, Libyan Parliament, 2011-present Libyan factional fighting_
 
 ##### Eric Hobsbawm
 ### [Eric Hobsbawm, one of the leading historians of the 20th century, dies at the Royal Free Hospital in London at the age of 95. ](/news/2012/10/1/eric-hobsbawm-one-of-the-leading-historians-of-the-20th-century-dies-at-the-royal-free-hospital-in-london-at-the-age-of-95.md)
-_Context: Royal Free Hospital, London, Eric Hobsbawm_
+_Context: Eric Hobsbawm, London, Royal Free Hospital_
 
 ##### A ferry collision
 ### [At least 36 people are killed in a ferry collision off the coast of Hong Kong. ](/news/2012/10/1/at-least-36-people-are-killed-in-a-ferry-collision-off-the-coast-of-hong-kong.md)
-_Context: Hong Kong, a ferry collision_
+_Context: a ferry collision, Hong Kong_
 
 ##### Bahrain
 ### [A court in Bahrain upholds the jail sentences of nine medics convicted for their role in the country's uprising. ](/news/2012/10/1/a-court-in-bahrain-upholds-the-jail-sentences-of-nine-medics-convicted-for-their-role-in-the-country-s-uprising.md)
@@ -49,11 +49,11 @@ _Context: Juan Manuel Santos, Revolutionary Armed Forces of Colombia_
 
 ##### Mikheil Saakashvili
 ### [Mikheil Saakashvili's ruling United National Movement party and Bidzina Ivanishvili's new party Georgian Dream are expected to be the main contenders in the Georgian parliamentary elections. ](/news/2012/10/1/mikheil-saakashvili-s-ruling-united-national-movement-party-and-bidzina-ivanishvili-s-new-party-georgian-dream-are-expected-to-be-the-main-c.md)
-_Context: parliamentary election, Bidzina Ivanishvili, United National Movement, Mikheil Saakashvili, Georgian Dream_
+_Context: United National Movement, parliamentary election, Mikheil Saakashvili, Georgian Dream, Bidzina Ivanishvili_
 
 ##### Japan
 ### [In Japan, Koriki Jojima is appointed as the new finance minister and Seiji Maehara as the new minister of national strategy and economic policy. ](/news/2012/10/1/in-japan-koriki-jojima-is-appointed-as-the-new-finance-minister-and-seiji-maehara-as-the-new-minister-of-national-strategy-and-economic-pol.md)
-_Context: Koriki Jojima, Japan, Seiji Maehara_
+_Context: Seiji Maehara, Koriki Jojima, Japan_
 
 ##### Palestinian
 ### [Palestinian footballer Mahmoud Sarsak turns down an FC Barcelona offer to attend an El Clasico game, after Gilad Shalit, an Israeli soldier who had been held captive in Gaza for five years, is also invited. A Hamas spokesperson asked the media not to broadcast the game. ](/news/2012/10/1/palestinian-footballer-mahmoud-sarsak-turns-down-an-fc-barcelona-offer-to-attend-an-el-cla-sico-game-after-gilad-shalit-an-israeli-soldier.md)
@@ -61,7 +61,7 @@ A Palestinian footballer who went on a hunger strike in an Israeli jail says he 
 
 ##### Mohamed Nasheed
 ### [Mohamed Nasheed, the former president of the Maldives, fails to appear in court and departs on tour for his party. Vice-president Mohammed Waheed Deen, opening an academic conference in Male, says a nation can achieve democracy by the teachers imparting the relevant information. ](/news/2012/10/1/mohamed-nasheed-the-former-president-of-the-maldives-fails-to-appear-in-court-and-departs-on-tour-for-his-party-vice-president-mohammed-w.md)
-_Context: in court, Mohammed Waheed Deen, Maldives, Male, Mohamed Nasheed, vice president, his party, academic_
+_Context: Mohammed Waheed Deen, in court, Maldives, vice president, academic, his party, Male, Mohamed Nasheed_
 
 ## [Previous Day...](/news/2012/09/30/index.md)
 

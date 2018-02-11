@@ -5,7 +5,7 @@ Formats: [HTML](2013/08/3/index.html)  [JSON](2013/08/3/index.json)  [XML](2013/
 
 ##### Suicide bombing
 ### [Nine children die in a suicide bombing near the Indian consulate in the Afghan city of Jalalabad. ](/news/2013/08/3/nine-children-die-in-a-suicide-bombing-near-the-indian-consulate-in-the-afghan-city-of-jalalabad.md)
-_Context: Afghanistan, Jalalabad, suicide bombing, India_
+_Context: Afghanistan, India, suicide bombing, Jalalabad_
 
 ##### Iraq
 ### [At least eight people have been killed in violence across Iraq. ](/news/2013/08/3/at-least-eight-people-have-been-killed-in-violence-across-iraq.md)

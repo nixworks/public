@@ -21,19 +21,19 @@ _Context: National Hurricane Center_
 
 ##### Indian Armed Forces
 ### [ An overcrowded Indian Army boat carrying dozens of victims of the 2008 Indian floods capsizes killing at least 25 people and taking the death toll to 85. ](/news/2008/08/30/an-overcrowded-indian-army-boat-carrying-dozens-of-victims-of-the-2008-indian-floods-capsizes-killing-at-least-25-people-and-taking-the-dea.md)
-_Context: Indian Armed Forces, 2008 Indian floods_
+_Context: 2008 Indian floods, Indian Armed Forces_
 
 ##### Pakistan Army
 ### [ The Pakistan Army claims that 30 militants have been killed in Swat, NWFP, in heavy fighting in recent days. ](/news/2008/08/30/the-pakistan-army-claims-that-30-militants-have-been-killed-in-swat-nwfp-in-heavy-fighting-in-recent-days.md)
-_Context: Pakistan Army, Swat, Pakistan, Northwestern Pakistan_
+_Context: Northwestern Pakistan, Swat, Pakistan, Pakistan Army_
 
 ##### Italy
 ### [ Italy compensates Libya for the forced colonization in the 1910s, promising to pay US$5 billion over the next 25 years. ](/news/2008/08/30/italy-compensates-libya-for-the-forced-colonization-in-the-1910s-promising-to-pay-us-5-billion-over-the-next-25-years.md)
-_Context: Italy, forced colonization, Libya_
+_Context: Libya, forced colonization, Italy_
 
 ##### Mahdi Army
 ### [ The head of the Mahdi Army in Karbala, Iraq, is sentenced to death over the Battle of Karbala (2007) ](/news/2008/08/30/the-head-of-the-mahdi-army-in-karbala-iraq-is-sentenced-to-death-over-the-battle-of-karbala-2007.md)
-_Context: Iraq, Karbala, Mahdi Army, Battle of Karbala (2007)_
+_Context: Iraq, Mahdi Army, Karbala, Battle of Karbala (2007)_
 
 ## [Previous Day...](/news/2008/08/29/index.md)
 

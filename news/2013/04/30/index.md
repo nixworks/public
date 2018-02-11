@@ -33,7 +33,7 @@ Doctors have built and implanted a windpipe, developed with plastic fibers and h
 
 ##### NASA
 ### [NASA extends its contract with the Russian Federal Space Agency, paying $424 million for the RKA to deliver and receive astronauts shuttled to the ISS through 2016. ](/news/2013/04/30/nasa-extends-its-contract-with-the-russian-federal-space-agency-paying-424-million-for-the-rka-to-deliver-and-receive-astronauts-shuttled.md)
-_Context: deliver and receive, Russian Federal Space Agency, United States dollars, ISS, NASA_
+_Context: United States dollars, Russian Federal Space Agency, ISS, deliver and receive, NASA_
 
 ## [Previous Day...](/news/2013/04/29/index.md)
 

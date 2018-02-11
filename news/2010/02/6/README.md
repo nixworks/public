@@ -5,7 +5,7 @@ Formats: [HTML](2010/02/6/index.html)  [JSON](2010/02/6/index.json)  [XML](2010/
 
 ##### Queen Rania
 ### [Jordan Queen's educational reform program lauded in Jordan. Rania Al Abdullah and Princess Hessa bint Salman were briefed on the Jordan River Foundation (JRF) by the organization's Director General Valentina Qussisiya. ](/news/2010/02/6/jordan-queen-s-educational-reform-program-lauded-in-jordan-rania-al-abdullah-and-princess-hessa-bint-salman-were-briefed-on-the-jordan-rive.md)
-_Context: Valentina Qussisiya, Queen Rania, Jordan, Jordan River Foundation_
+_Context: Jordan River Foundation, Jordan, Valentina Qussisiya, Queen Rania_
 
 ##### South-to-North Water Diversion Project
 ### [The Eastern Route of the South-to-North Water Diversion Project, one of the world's largest water projects, has been delayed by about five years due to problems associated with water pollution, officials in east China's Shandong province. ](/news/2010/02/6/the-eastern-route-of-the-south-to-north-water-diversion-project-one-of-the-world-s-largest-water-projects-has-been-delayed-by-about-five-y.md)
@@ -13,15 +13,15 @@ _Context: Shandong province, South-to-North Water Diversion Project_
 
 ##### Wang Jiarui
 ### [Wang Jiarui, head of the Communist Party of China's liaison office, arrives in North Korea on a "goodwill visit" at the invitation of the Workers' Party of Korea. ](/news/2010/02/6/wang-jiarui-head-of-the-communist-party-of-china-s-liaison-office-arrives-in-north-korea-on-a-goodwill-visit-at-the-invitation-of-the-wo.md)
-_Context: Workers' Party of Korea, North Korea, Wang Jiarui, Communist Party of China_
+_Context: North Korea, Communist Party of China, Workers' Party of Korea, Wang Jiarui_
 
 ##### Charles McArther Emmanuel
 ### [Charles McArther Emmanuel, son of President of Liberia Charles Taylor, is ordered to pay more than $22 million (GBP14 million) to five people tortured during the Second Liberian Civil War. ](/news/2010/02/6/charles-mcarther-emmanuel-son-of-president-of-liberia-charles-taylor-is-ordered-to-pay-more-than-22-million-agbp14-million-to-five-peop.md)
-_Context: Charles McArther Emmanuel, President of Liberia, Charles Taylor, civil war_
+_Context: President of Liberia, Charles Taylor, Charles McArther Emmanuel, civil war_
 
 ##### G7
 ### [The Group of Seven nations agree to write off Haiti's debts following a conference in Iqaluit, Nunavut. ](/news/2010/02/6/the-group-of-seven-nations-agree-to-write-off-haiti-s-debts-following-a-conference-in-iqaluit-nunavut.md)
-_Context: G7, Nunavut, Iqaluit, Haiti_
+_Context: Haiti, G7, Nunavut, Iqaluit_
 
 ##### Bank of Spain
 ### [The Bank of Spain announces that Spain's economy fell 3.6% in 2009, the most in decades. ](/news/2010/02/6/the-bank-of-spain-announces-that-spainas-economy-fell-3-6-in-2009-the-most-in-decades.md)
@@ -41,7 +41,7 @@ As Mark Durkan steps down after nine years as the leader of the SDLP, Noel McAda
 
 ##### France
 ### [French aid worker, Laurent Maurice, kidnapped in Chad last November, is released after 89 days of captivity, described as "tired but appears to be in good health". ](/news/2010/02/6/french-aid-worker-laurent-maurice-kidnapped-in-chad-last-november-is-released-after-89-days-of-captivity-described-as-tired-but-appears.md)
-_Context: France, Laurent Maurice, Chad_
+_Context: Chad, France, Laurent Maurice_
 
 ##### Afghanistan
 ### [Afghan police admit they shot dead seven civilians, including two children, as they collected firewood in Spin Boldak, Kandahar, last Thursday. ](/news/2010/02/6/afghan-police-admit-they-shot-dead-seven-civilians-including-two-children-as-they-collected-firewood-in-spin-boldak-kandahar-last-thursd.md)
@@ -49,11 +49,11 @@ Seven Afghan boys were shot dead on Saturday by police who mistook them for insu
 
 ##### Yemen
 ### [23 Yemeni government soldiers are killed by the Houthis in two separate incidents: 15 are ambushed in Wadi al-Jabara, while the remaining 8 die in Sa'dah. ](/news/2010/02/6/23-yemeni-government-soldiers-are-killed-by-the-houthis-in-two-separate-incidents-15-are-ambushed-in-wadi-al-jabara-while-the-remaining-8.md)
-_Context: Houthi, Sa'dah, Yemen, Wadi al-Jabara_
+_Context: Houthi, Yemen, Sa'dah, Wadi al-Jabara_
 
 ##### Taliban
 ### [The Taliban blow up a girls' school in Huwaid, Pakistan, killing no one. ](/news/2010/02/6/the-taliban-blow-up-a-girls-school-in-huwaid-pakistan-killing-no-one.md)
-_Context: Pakistan, Taliban, Huwaid_
+_Context: Pakistan, Huwaid, Taliban_
 
 ## [Previous Day...](/news/2010/02/5/index.md)
 

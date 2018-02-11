@@ -9,23 +9,23 @@ Bolivia has become the first country in the history of South America to declare 
 
 #####  Georgian
 ### [ Georgia accuses Russia of trying to seize more of its territory as the anniversary of the 2008 war between the two countries approaches. ](/news/2009/08/3/georgia-accuses-russia-of-trying-to-seize-more-of-its-territory-as-the-anniversary-of-the-2008-war-between-the-two-countries-approaches.md)
-_Context: 2008 South Ossetia war, Russia,  Georgian_
+_Context: Russia, 2008 South Ossetia war,  Georgian_
 
 ##### One of 6.9 magnitude
 ### [ Several earthquakes, including one of 6.9 magnitude, hit northwestern Mexico. ](/news/2009/08/3/several-earthquakes-including-one-of-6-9-magnitude-hit-northwestern-mexico.md)
-_Context: one of 6.9 magnitude, Mexican_
+_Context: Mexican, one of 6.9 magnitude_
 
 ##### Continental Airlines Flight 128
 ### [ Continental Airlines Flight 128, from Rio de Janeiro to Houston, makes an emergency landing in Miami after severe turbulence, injuring dozens. ](/news/2009/08/3/continental-airlines-flight-128-from-rio-de-janeiro-to-houston-makes-an-emergency-landing-in-miami-after-severe-turbulence-injuring-doze.md)
-_Context: Miami, Houston, Rio de Janeiro, Continental Airlines Flight 128_
+_Context: Rio de Janeiro, Miami, Houston, Continental Airlines Flight 128_
 
 ##### Haggis
 ### [ Evidence that haggis was invented by the English is unearthed. ](/news/2009/08/3/evidence-that-haggis-was-invented-by-the-english-is-unearthed.md)
-_Context: haggis, English_
+_Context: English, haggis_
 
 ##### Iran
 ### [ Iran is reportedly ready to build a nuclear weapon, according to Western intelligence services. ](/news/2009/08/3/iran-is-reportedly-ready-to-build-a-nuclear-weapon-according-to-western-intelligence-services.md)
-_Context: Iran, nuclear weapon_
+_Context: nuclear weapon, Iran_
 
 ##### Barclays
 ### [ Barclays posts a profit of GBP2.98bn for the first half of the year, up 8% on the same period of 2008. ](/news/2009/08/3/barclays-posts-a-profit-of-gbp2-98bn-for-the-first-half-of-the-year-up-8-on-the-same-period-of-2008.md)
@@ -37,7 +37,7 @@ Supreme Leader Ayatollah Ali Khamenei formally endorsed the second term presiden
 
 ##### Chifeng
 ### [ Water supplies in Chifeng, Inner Mongolia, China, are cut off to over 580,000 people after contaminants caused the hospitalization of 4,125 people due to gastrointestinal illness. ](/news/2009/08/3/water-supplies-in-chifeng-inner-mongolia-china-are-cut-off-to-over-580-000-people-after-contaminants-caused-the-hospitalization-of-4-125.md)
-_Context: gastrointestinal, Chifeng, China, Inner Mongolia_
+_Context: China, gastrointestinal, Chifeng, Inner Mongolia_
 
 ##### Qinghai
 ### [ A town in Qinghai, China, is sealed off after a second person dies of pneumonic plague. ](/news/2009/08/3/a-town-in-qinghai-china-is-sealed-off-after-a-second-person-dies-of-pneumonic-plague.md)
@@ -53,7 +53,7 @@ Officials are reportedly considering a plan to move Guantanamo detainees to a sp
 
 ##### Australia
 ### [ An Australian radio show is axed and presenter Kyle Sandilands sacked from a television show after a lie detector stunt sees a 14-year-old girl say she was raped so her mother could claim Pink tickets. ](/news/2009/08/3/an-australian-radio-show-is-axed-and-presenter-kyle-sandilands-sacked-from-a-television-show-after-a-lie-detector-stunt-sees-a-14-year-old.md)
-_Context: Australia, P!nk, Kyle Sandilands, rape_
+_Context: P!nk, Kyle Sandilands, Australia, rape_
 
 ##### South Sudan
 ### [ 185 people are killed in tribal clashes in South Sudan. ](/news/2009/08/3/185-people-are-killed-in-tribal-clashes-in-south-sudan.md)
@@ -61,7 +61,7 @@ _Context: South Sudan_
 
 ##### Death penalty
 ### [ The death sentences of more than 4000 prisoners in Kenya are commuted to life imprisonment. ](/news/2009/08/3/the-death-sentences-of-more-than-4000-prisoners-in-kenya-are-commuted-to-life-imprisonment.md)
-_Context: Kenya, death penalty, life imprisonment_
+_Context: Kenya, life imprisonment, death penalty_
 
 ## [Previous Day...](/news/2009/08/2/index.md)
 

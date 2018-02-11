@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/05/5/the-united-states-federal-reserve-system-reports
 
 ### [2008-05-5](/news/2008/05/5/index.md)
 
-##### United States
+##### American
 #  The United States Federal Reserve System reports that banks are tightening lending standards on home mortgages, other types of consumer loans and business loans in response to the subprime mortgage crisis. 
 
 
@@ -15,8 +15,8 @@ Formats: [HTML](/news/2008/05/5/the-united-states-federal-reserve-system-reports
 
 ### Related:
 
-1. [ The United States Federal Reserve System auctions off $24.12 billion in Treasury securities to help relieve the subprime mortgage crisis. ](/news/2008/05/1/the-united-states-federal-reserve-system-auctions-off-24-12-billion-in-treasury-securities-to-help-relieve-the-subprime-mortgage-crisis.md) _Context: Federal Reserve System, United States, subprime mortgage crisis_
-2. [The Federal Reserve System raises the benchmark interest rate in the United States to a level between 0.5 and 0.75%. This is the second time in a decade that the Federal Reserve has increased interest rates. ](/news/2016/12/14/the-federal-reserve-system-raises-the-benchmark-interest-rate-in-the-united-states-to-a-level-between-0-5-and-0-75-this-is-the-second-time.md) _Context: Federal Reserve System, United States_
-3. [Most of the largest financial institutions in the United States pass a Federal Reserve System stress test although Citigroup, MetLife, Ally Financial and SunTrust do not. ](/news/2012/03/13/most-of-the-largest-financial-institutions-in-the-united-states-pass-a-federal-reserve-system-stress-test-although-citigroup-metlife-ally.md) _Context: Federal Reserve System, United States_
-4. [International stock markets slump in value in Asia, Europe and North America due to speculation brought about by comments from the Federal Reserve System of the United States. ](/news/2010/08/11/international-stock-markets-slump-in-value-in-asia-europe-and-north-america-due-to-speculation-brought-about-by-comments-from-the-federal-r.md) _Context: Federal Reserve System, United States_
-5. [ Federal Reserve System Chairman Ben Bernanke caps United States Treasury Department yields. ](/news/2009/03/18/federal-reserve-system-chairman-ben-bernanke-caps-united-states-treasury-department-yields.md) _Context: Federal Reserve System, United States_
+1. [ The United States Federal Reserve System auctions off $24.12 billion in Treasury securities to help relieve the subprime mortgage crisis. ](/news/2008/05/1/the-united-states-federal-reserve-system-auctions-off-24-12-billion-in-treasury-securities-to-help-relieve-the-subprime-mortgage-crisis.md) _Context: American, Federal Reserve System, subprime mortgage crisis_
+2. [The Federal Reserve System raises the benchmark interest rate in the United States to a level between 0.5 and 0.75%. This is the second time in a decade that the Federal Reserve has increased interest rates. ](/news/2016/12/14/the-federal-reserve-system-raises-the-benchmark-interest-rate-in-the-united-states-to-a-level-between-0-5-and-0-75-this-is-the-second-time.md) _Context: American, Federal Reserve System_
+3. [Most of the largest financial institutions in the United States pass a Federal Reserve System stress test although Citigroup, MetLife, Ally Financial and SunTrust do not. ](/news/2012/03/13/most-of-the-largest-financial-institutions-in-the-united-states-pass-a-federal-reserve-system-stress-test-although-citigroup-metlife-ally.md) _Context: American, Federal Reserve System_
+4. [International stock markets slump in value in Asia, Europe and North America due to speculation brought about by comments from the Federal Reserve System of the United States. ](/news/2010/08/11/international-stock-markets-slump-in-value-in-asia-europe-and-north-america-due-to-speculation-brought-about-by-comments-from-the-federal-r.md) _Context: American, Federal Reserve System_
+5. [ Federal Reserve System Chairman Ben Bernanke caps United States Treasury Department yields. ](/news/2009/03/18/federal-reserve-system-chairman-ben-bernanke-caps-united-states-treasury-department-yields.md) _Context: American, Federal Reserve System_

@@ -17,7 +17,7 @@ _Context: Somalia, Garissa_
 
 ##### Iranian Revolutionary guards
 ### [Iran's Revolutionary Guard Corps establish and inaugurate a new naval base on the Strait of Hormuz, near Bandar Lengeh. ](/news/2012/11/4/iran-s-revolutionary-guard-corps-establish-and-inaugurate-a-new-naval-base-on-the-strait-of-hormuz-near-bandar-lengeh.md)
-_Context: Bandar Lengeh, Iranian Revolutionary guards, Strait of Hormuz_
+_Context: Iranian Revolutionary guards, Bandar Lengeh, Strait of Hormuz_
 
 ##### Danny Boyle
 ### [Danny Boyle and Nicholas Serota write a letter criticising the decision by a Tower Hamlets London Borough Council to sell the Henry Moore sculpture "Draped Seated Woman". Moore sold the sculpture at a fraction of its market value in the 1960s on the understanding that it would be displayed in a public space in a socially deprived area. ](/news/2012/11/4/danny-boyle-and-nicholas-serota-write-a-letter-criticising-the-decision-by-a-tower-hamlets-london-borough-council-to-sell-the-henry-moore-sc.md)
@@ -25,11 +25,11 @@ The Oscar-winning film-maker joins leading arts figures to write a letter protes
 
 ##### Abdi Farah Shirdon
 ### [Somalia's Prime Minister Abdi Farah Shirdon, who lives in Kenya, appoints a new 10-member cabinet, including Somalia's first female Foreign Minister, Fowsiyo Yussuf Haji Aadan. ](/news/2012/11/4/somalia-s-prime-minister-abdi-farah-shirdon-who-lives-in-kenya-appoints-a-new-10-member-cabinet-including-somalia-s-first-female-foreign.md)
-_Context: Fowsiyo Yussuf Haji Aadan, Abdi Farah Shirdon_
+_Context: Abdi Farah Shirdon, Fowsiyo Yussuf Haji Aadan_
 
 ##### Tawadros
 ### [Bishop Tawadros is selected as the new 118th pope of the Coptic Orthodox Church. ](/news/2012/11/4/bishop-tawadros-is-selected-as-the-new-118th-pope-of-the-coptic-orthodox-church.md)
-_Context: Coptic Christian pope, 118th, Tawadros, Coptic Orthodox Church_
+_Context: Coptic Orthodox Church, Tawadros, 118th, Coptic Christian pope_
 
 ## [Previous Day...](/news/2012/11/3/index.md)
 

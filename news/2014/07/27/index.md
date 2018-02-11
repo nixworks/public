@@ -13,7 +13,7 @@ Two weeks of fighting between militias in Libya&#x27;s capital Tripoli have left
 
 ##### Boko Haram
 ### [Gunmen believed to be members of Boko Haram abduct the wife of Deputy Prime Minister of Cameroon Amadou Ali. ](/news/2014/07/27/gunmen-believed-to-be-members-of-boko-haram-abduct-the-wife-of-deputy-prime-minister-of-cameroon-amadou-ali.md)
-_Context: Boko Haram, Amadou Ali, Cameroon_
+_Context: Boko Haram, Cameroon, Amadou Ali_
 
 ##### Saco, Maine
 ### [Five family members are shot to death in a home in Saco, Maine, U.S. ](/news/2014/07/27/five-family-members-are-shot-to-death-in-a-home-in-saco-maine-u-s.md)

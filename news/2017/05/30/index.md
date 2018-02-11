@@ -9,7 +9,7 @@ Formats: [HTML](2017/05/30/index.html)  [JSON](2017/05/30/index.json)  [XML](201
 
 ##### China Labor Watch
 ### [China Labor Watch says one of its team was arrested and two others are missing when they were investigating labor practices at Ganzhou Huajian International Shoe City Co., whose products include Ivanka Trump-branded shoes. ](/news/2017/05/30/china-labor-watch-says-one-of-its-team-was-arrested-and-two-others-are-missing-when-they-were-investigating-labor-practices-at-ganzhou-huaji.md)
-_Context: China Labor Watch, Ganzhou, Ivanka Trump-branded_
+_Context: Ivanka Trump-branded, Ganzhou, China Labor Watch_
 
 ##### North Korea-United States relations
 ### [ A formation of United States B-1B bombers from Guam flew over Korea, staging a nuclear bomb dropping drill. North Korea calls it a military provocation. ](/news/2017/05/30/a-formation-of-united-states-b-1b-bombers-from-guam-flew-over-korea-staging-a-nuclear-bomb-dropping-drill-north-korea-calls-it-a-military.md)
@@ -17,11 +17,11 @@ _Context: China Labor Watch, Ganzhou, Ivanka Trump-branded_
 
 ##### Ukraine-European Union relations
 ### [The Dutch Senate approves the European Union's Association Agreement with Ukraine, setting the stage for it to be ratified as early as July, pending royal promulgation. The process was previously delayed by a non-binding referendum where a majority of Dutch voters rejected ratification of the agreement. ](/news/2017/05/30/the-dutch-senate-approves-the-european-union-s-association-agreement-with-ukraine-setting-the-stage-for-it-to-be-ratified-as-early-as-july.md)
-_Context: European Union's Association Agreement with Ukraine, Ukraine-European Union relations, non-binding referendum, Dutch Senate_
+_Context: Dutch Senate, non-binding referendum, Ukraine-European Union relations, European Union's Association Agreement with Ukraine_
 
 ##### South Korea-United States relations
 ### [South Korean President Moon Jae-in, who had campaigned on a parliamentary review of the country's missile defense system, orders an investigation of the anti-missile system after discovering the government was not informed when four more U.S. Terminal High Altitude Area Defense (THAAD) system launchers had been brought in and installed. ](/news/2017/05/30/south-korean-president-moon-jae-in-who-had-campaigned-on-a-parliamentary-review-of-the-country-s-missile-defense-system-orders-an-investig.md)
-_Context: parliamentary review, U.S. Terminal High Altitude Area Defense (THAAD) system launchers, South Korean President, South Korea-United States relations, Moon Jae-in_
+_Context: parliamentary review, South Korean President, U.S. Terminal High Altitude Area Defense (THAAD) system launchers, South Korea-United States relations, Moon Jae-in_
 
 ##### 2017 North Indian Ocean cyclone season
 ### [More than 300,000 people are evacuated in Bangladesh as Cyclone Mora approaches. ](/news/2017/05/30/more-than-300-000-people-are-evacuated-in-bangladesh-as-cyclone-mora-approaches.md)
@@ -29,7 +29,7 @@ _Context: Bangladesh, 2017 North Indian Ocean cyclone season, Cyclone Mora_
 
 ##### Panama
 ### [Former Panamanian leader Manuel Noriega dies aged 83. ](/news/2017/05/30/former-panamanian-leader-manuel-noriega-dies-aged-83.md)
-_Context: Panama, Manuel Noriega_
+_Context: Manuel Noriega, Panama_
 
 ##### Michael Dubke
 ### [Michael Dubke resigns as President Trump's White House Communications Director after three months on the job. ](/news/2017/05/30/michael-dubke-resigns-as-president-trump-s-white-house-communications-director-after-three-months-on-the-job.md)

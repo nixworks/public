@@ -5,11 +5,11 @@ Formats: [HTML](2007/10/19/index.html)  [JSON](2007/10/19/index.json)  [XML](200
 
 ##### European Union
 ### [ EU leaders agree in Lisbon that the transcription "evro" (evro) will be used in Bulgarian translations of the euro in official EU documents. ](/news/2007/10/19/eu-leaders-agree-in-lisbon-that-the-transcription-ed2nd3-4-evro-will-be-used-in-bulgarian-translations-of-the-euro-in-official-eu-docume.md)
-_Context: Lisbon, European Union, Bulgaria, euro, transcription_
+_Context: transcription, Bulgaria, euro, Lisbon, European Union_
 
 ##### Dow Jones Industrial Average
 ### [ The Dow Jones Industrial Average drops 369.1 points, or 2.7%, on the 20th anniversary of Black Monday. ](/news/2007/10/19/the-dow-jones-industrial-average-drops-369-1-points-or-2-7-on-the-20th-anniversary-of-black-monday.md)
-_Context: Black Monday, Dow Jones Industrial Average_
+_Context: Dow Jones Industrial Average, Black Monday_
 
 ##### James D. Watson
 ### [ James D. Watson, who shared the 1962 Nobel prize for deciphering the double-helix of DNA, apologizes for reported comments suggesting that black people, over all, are not as intelligent as whites. ](/news/2007/10/19/james-d-watson-who-shared-the-1962-nobel-prize-for-deciphering-the-double-helix-of-dna-apologizes-for-reported-comments-suggesting-that.md)
@@ -21,15 +21,15 @@ _Context: Washington, midwestern_
 
 ##### Marine
 ### [ Two US Marines including a battalion commander will face a court martial in connection with the killing of 24 civilians in Haditha in 2005. ](/news/2007/10/19/two-us-marines-including-a-battalion-commander-will-face-a-court-martial-in-connection-with-the-killing-of-24-civilians-in-haditha-in-2005.md)
-_Context: battalion, Marine, court martial, Haditha_
+_Context: battalion, court martial, Marine, Haditha_
 
 ##### Village
 ### [ Tens of thousands of people are evacuated from villages near Mount Kelud on Java as the volcano threatens to erupt. ](/news/2007/10/19/tens-of-thousands-of-people-are-evacuated-from-villages-near-mount-kelud-on-java-as-the-volcano-threatens-to-erupt.md)
-_Context: volcano, Java, Mount Kelud, village_
+_Context: Mount Kelud, village, volcano, Java_
 
 ##### United States Air Force
 ### [ Four United States Air Force officers are relieved of command following an investigation of an incident where live nuclear warheads were carried on a B-52 bomber from Minot Air Force Base in North Dakota to Barksdale Air Force Base in Louisiana. ](/news/2007/10/19/four-united-states-air-force-officers-are-relieved-of-command-following-an-investigation-of-an-incident-where-live-nuclear-warheads-were-ca.md)
-_Context: Minot Air Force Base, bomber, Barksdale Air Force Base, Louisiana, B-52, 2007 United States Air Force nuclear weapons incident, United States Air Force, North Dakota_
+_Context: B-52, Barksdale Air Force Base, Minot Air Force Base, 2007 United States Air Force nuclear weapons incident, Louisiana, United States Air Force, bomber, North Dakota_
 
 ##### Sam Brownback
 ### [ Sam Brownback, Senator for Kansas, pulls out of the United States presidential election, 2008 due to a lack of support and funds. ](/news/2007/10/19/sam-brownback-senator-for-kansas-pulls-out-of-the-united-states-presidential-election-2008-due-to-a-lack-of-support-and-funds.md)
@@ -37,7 +37,7 @@ Republican Sen. Sam Brownback abandoned his 2008 presidential bid Friday, his Wh
 
 ##### Gordon Brown
 ### [ British Prime Minister Gordon Brown says that his predecessor Tony Blair would be a "great candidate" to become the first President of the European Council after EU leaders agree on a new Reform Treaty for the union. ](/news/2007/10/19/british-prime-minister-gordon-brown-says-that-his-predecessor-tony-blair-would-be-a-great-candidate-to-become-the-first-president-of-the.md)
-_Context: Reform Treaty, Gordon Brown, President of the European Council, Tony Blair_
+_Context: Reform Treaty, Gordon Brown, Tony Blair, President of the European Council_
 
 ##### 2007 Karachi bombings
 ### [ 2007 Karachi bombings: The death toll from the bombings rises to 136 with 387 people wounded. ](/news/2007/10/19/2007-karachi-bombings-the-death-toll-from-the-bombings-rises-to-136-with-387-people-wounded.md)
@@ -45,7 +45,7 @@ _Context: 2007 Karachi bombings_
 
 ##### Explosion
 ### [ An explosion kills up to eight civilians Glorietta Mall in Makati City, PhilippinesJee Ann De Gracia was one of the 11th victim of Bombing. ](/news/2007/10/19/an-explosion-kills-up-to-eight-civilians-glorietta-mall-in-makati-city-philippinesjee-ann-de-gracia-was-one-of-the-11th-victim-of-bombing.md)
-_Context: Philippines, explosion, Glorietta, Makati City_
+_Context: explosion, Glorietta, Makati City, Philippines_
 
 ##### Sulawesi island
 ### [ A ship sinks off the coast of Sulawesi in Indonesia resulting in at least 31 deaths and 35 people missing. ](/news/2007/10/19/a-ship-sinks-off-the-coast-of-sulawesi-in-indonesia-resulting-in-at-least-31-deaths-and-35-people-missing.md)
@@ -53,7 +53,7 @@ A capsized passenger ferry close to a port on the Indonesian island of Sulawesi 
 
 ##### Thailand
 ### [ Thailand arrests suspected Canadian child molester Christopher Paul Neil after an international man hunt. ](/news/2007/10/19/thailand-arrests-suspected-canadian-child-molester-christopher-paul-neil-after-an-international-man-hunt.md)
-_Context: sexually assaulted, Christopher Paul Neil, Canadian, Thailand_
+_Context: Thailand, sexually assaulted, Canadian, Christopher Paul Neil_
 
 ##### European Union
 ### [ Leaders of the European Union reach agreement on the Lisbon Treaty following last-minute concessions to Poland, Italy and Bulgaria. ](/news/2007/10/19/leaders-of-the-european-union-reach-agreement-on-the-lisbon-treaty-following-last-minute-concessions-to-poland-italy-and-bulgaria.md)

@@ -17,7 +17,7 @@ Amnesty International report says military shot and burned members of Islamic Mo
 
 ##### Elizabeth II
 ### [Elizabeth II, queen regnant of the United Kingdom and Head of the Commonwealth of Nations, celebrates her 90th birthday. ](/news/2016/04/21/elizabeth-ii-queen-regnant-of-the-united-kingdom-and-head-of-the-commonwealth-of-nations-celebrates-her-90th-birthday.md)
-_Context: Commonwealth of Nations, queen regnant, Elizabeth II, United Kingdom, Head_
+_Context: queen regnant, Commonwealth of Nations, United Kingdom, Elizabeth II, Head_
 
 ##### Bongbong Marcos
 ### [Bongbong Marcos admits that his family is blocking forfeiture of 200 masterpiece paintings sought by the government saying that the works were not subject of a court order case. The artworks, accumulated during the administration of his father, Philippine dictator Ferdinand Marcos are believed to be part of the family's alleged ill-gotten wealth. ](/news/2016/04/21/bongbong-marcos-admits-that-his-family-is-blocking-forfeiture-of-200-masterpiece-paintings-sought-by-the-government-saying-that-the-works-we.md)
@@ -33,7 +33,7 @@ PRINCE has died suddenly at the age of 57, just days after his private jet was f
 
 ##### Volkswagen emissions scandal
 ### [Volkswagen reaches a deal with the United States government that includes vehicle buybacks and cash compensation. ](/news/2016/04/21/volkswagen-reaches-a-deal-with-the-united-states-government-that-includes-vehicle-buybacks-and-cash-compensation.md)
-_Context: United States government, Volkswagen, Volkswagen emissions scandal_
+_Context: Volkswagen emissions scandal, United States government, Volkswagen_
 
 ##### Holy See
 ### [The Vatican suspends PricewaterhouseCoopers' audit of its finances over questions whether proper procedures were followed when the December 2015 contract, reportedly worth $3 million, was enacted. Analysts say this move exposes the rift between the church's old guard and supporters of financial reform, and raises questions about the Catholic Church's commitment to cleaning up its finances. ](/news/2016/04/21/the-vatican-suspends-pricewaterhousecoopers-audit-of-its-finances-over-questions-whether-proper-procedures-were-followed-when-the-december.md)
@@ -53,11 +53,11 @@ RIO DE JANEIRO (AP) — A new elevated bike path that was heralded as a top lega
 
 ##### Philippines-United States relations
 ### [Presidential candidate Rodrigo Duterte said that Australia and the United States should go ahead and cut their ties with the Philippines if he was elected president, following critical comments of their ambassadors on his rape remarks. ](/news/2016/04/21/presidential-candidate-rodrigo-duterte-said-that-australia-and-the-united-states-should-go-ahead-and-cut-their-ties-with-the-philippines-if.md)
-_Context: United States, rape, Rodrigo Duterte, Australia, Philippines-United States relations, Philippine presidential election, 2016_
+_Context: Australia, Philippine presidential election, 2016, American, Philippines-United States relations, rape, Rodrigo Duterte_
 
 ##### Gulf Cooperation Council Summit
 ### [United States President Barack Obama, at the Gulf Cooperation Council Summit in Saudi Arabia, says the United States will continue to deter and confront aggression against Gulf Arab states; joins others in warning the fragile cease-fire in Syria is on the verge of collapse; pledges vigilance about Iran's destabilizing activities in the Middle East; wants Gulf allies to offer more democratic reforms and improve human rights; and, says the U.S. and its Gulf partners should wait to see whether Iraq can resolve its political crisis before committing more financial aid which is impeding the fight against ISIL. ](/news/2016/04/21/united-states-president-barack-obama-at-the-gulf-cooperation-council-summit-in-saudi-arabia-says-the-united-states-will-continue-to-deter.md)
-_Context: ISIL, Iraq, Syrian peace process, United States, Middle East, Gulf Cooperation Council Summit, Saudi Arabia, Syria, U.S. President, Gulf Arab states, Iran, Barack Obama, Gulf Cooperation Council_
+_Context: Syria, U.S. President, Syrian peace process, Saudi Arabia, Iran, Gulf Cooperation Council Summit, Middle East, ISIL, American, Barack Obama, Gulf Arab states, Gulf Cooperation Council, Iraq_
 
 ##### Syrian peace process
 ### [Staffan de Mistura, U.N. envoy to Syria, says there has been "real but modest" progress in the country's humanitarian situation, despite the shaken ceasefire. Aid convoys have reached 560,000 people in hard-to-reach and besieged areas; six areas still remain off limits. Yesterday, the Syrian Arab Red Crescent medically evacuated 515 people from four communities--Zabadani, Madaya, Kfarya, and Foua--besieged by government and rebel groups. ](/news/2016/04/21/staffan-de-mistura-u-n-envoy-to-syria-says-there-has-been-real-but-modest-progress-in-the-country-s-humanitarian-situation-despite-the.md)
@@ -85,11 +85,11 @@ The presidential bet regales a crowd in Iloilo with a story of how he shot a fel
 
 ##### Russia-Ukraine relations
 ### [Ukrainian President Petro Poroshenko signs legislation banning all Russian films made after January 1, 2014. The legislation also bans movies produced by Russia after 1991 if they "glorify the work of government bodies" of Russia, citing such movies to be a threat to national security. ](/news/2016/04/21/ukrainian-president-petro-poroshenko-signs-legislation-banning-all-russian-films-made-after-january-1-2014-the-legislation-also-bans-movie.md)
-_Context: Russia, Petro Poroshenko, Russia-Ukraine relations, Ukrainian President_
+_Context: Russia, Petro Poroshenko, Ukrainian President, Russia-Ukraine relations_
 
 ##### 2016 Macedonian protests
 ### [The European Union cancels mediation talks on resolving the political crisis in Macedonia after that country's main political opposition, led by Zoran Zaev, declined to take part. ](/news/2016/04/21/the-european-union-cancels-mediation-talks-on-resolving-the-political-crisis-in-macedonia-after-that-country-s-main-political-opposition-le.md)
-_Context: Republic of Macedonia, Zoran Zaev, 2016 Macedonian protests, European Union_
+_Context: European Union, Zoran Zaev, 2016 Macedonian protests, Republic of Macedonia_
 
 ##### Chadian presidential election, 2016
 ### [The incumbent President of Chad Idriss Deby is reelected for a fifth term amid allegations of fraud. ](/news/2016/04/21/the-incumbent-president-of-chad-idriss-deby-is-reelected-for-a-fifth-term-amid-allegations-of-fraud.md)

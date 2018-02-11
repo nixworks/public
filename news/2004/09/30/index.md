@@ -5,11 +5,11 @@ Formats: [HTML](2004/09/30/index.html)  [JSON](2004/09/30/index.json)  [XML](200
 
 ##### Typhoon Meari
 ### [ Typhoon Meari batters the town of Miyagawa, Mie Prefecture, Japan, killing 27 and causing widespread flooding and significant damage. ](/news/2004/09/30/typhoon-meari-batters-the-town-of-miyagawa-mie-prefecture-japan-killing-27-and-causing-widespread-flooding-and-significant-damage.md)
-_Context: Mie Prefecture, Miyagawa, Typhoon Meari_
+_Context: Mie Prefecture, Typhoon Meari, Miyagawa_
 
 ##### Hartlepool
 ### [ A by-election for the Hartlepool constituency of the UK parliament, to fill the seat of Peter Mandelson, who resigned to take up a role in the European Union, results in a win for Labour (12,752), with the Liberal Democrats second (10,719). The Conservative Party (3,044) is pushed into fourth place by the UK Independence Party (3,193). ](/news/2004/09/30/a-by-election-for-the-hartlepool-constituency-of-the-uk-parliament-to-fill-the-seat-of-peter-mandelson-who-resigned-to-take-up-a-role-in.md)
-_Context: Peter Mandelson, UKIP, Parliament, Liberal Democrats, European Union, Labour Party, Conservative Party, Hartlepool_
+_Context: Peter Mandelson, European Union, Liberal Democrats, Hartlepool, Conservative Party, Parliament, UKIP, Labour Party_
 
 ##### U.S. President
 ### [ Incumbent president George W. Bush and challenger Senator John F. Kerry meet at the University of Miami, Florida, in the first of three presidential debates in the run-up to the 2004 U.S. presidential election. Nielsen Media Research later reports 62.5 million people watched the debate. (Transcript) ](/news/2004/09/30/incumbent-president-george-w-bush-and-challenger-senator-john-f-kerry-meet-at-the-university-of-miami-florida-in-the-first-of-three-pre.md)
@@ -21,15 +21,15 @@ _Context: constitutional amendment to ban, United States House of Representative
 
 ##### Prime Minister
 ### [ The office of British Prime Minister Tony Blair announces he will undergo "routine heart surgery" tomorrow to correct an irregular heartbeat. ](/news/2004/09/30/the-office-of-british-prime-minister-tony-blair-announces-he-will-undergo-routine-heart-surgery-tomorrow-to-correct-an-irregular-heartbea.md)
-_Context: Tony Blair, Prime Minister_
+_Context: Prime Minister, Tony Blair_
 
 ##### Conflict in Iraq
 ### [ At least three people are killed by U.S. air raids on the insurgent held city of Fallujah. Locals say civilians are among the dead, but the U.S. maintains they struck a safe house of the Jordanian militant Abu Musab al-Zarqawi. Just outside Baghdad, a rocket fired at a US military support base killed one coalition soldier. ](/news/2004/09/30/at-least-three-people-are-killed-by-u-s-air-raids-on-the-insurgent-held-city-of-fallujah-locals-say-civilians-are-among-the-dead-but-the.md)
-_Context: Conflict in Iraq, US military, Fallujah, Abu Musab al-Zarqawi, airstrike, Baghdad, Jordan_
+_Context: Abu Musab al-Zarqawi, airstrike, Fallujah, Baghdad, US military, Jordan, Conflict in Iraq_
 
 ##### Ratification
 ### [ The Russian cabinet recommends ratification of the Kyoto Treaty against global warming, which would bring the accord into force; the measure will be debated in Parliament, which has final say. ](/news/2004/09/30/the-russian-cabinet-recommends-ratification-of-the-kyoto-treaty-against-global-warming-which-would-bring-the-accord-into-force-the-measur.md)
-_Context: ratification, global warming, Kyoto Treaty_
+_Context: Kyoto Treaty, ratification, global warming_
 
 ##### Arab-Israeli Conflict
 ### [ Israel launches a major offensive into the Jabaliya refugee camp killing at least 23 gunmen and civilians. Earlier this morning, a column of Israeli tanks moved into the center of the camp, followed by bulldozers. At least three Palestinian civilians have been killed thus far. Homes are being demolished, forcing people to flee. Seventy-two Palestinians are known to have been wounded, some losing limbs. ](/news/2004/09/30/israel-launches-a-major-offensive-into-the-jabaliya-refugee-camp-killing-at-least-23-gunmen-and-civilians-earlier-this-morning-a-column-o.md)

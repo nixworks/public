@@ -5,7 +5,7 @@ Formats: [HTML](2014/02/6/index.html)  [JSON](2014/02/6/index.json)  [XML](2014/
 
 ##### Baghdad
 ### [Seven car bombings across Baghdad, Iraq, kill at least 13 people. ](/news/2014/02/6/seven-car-bombings-across-baghdad-iraq-kill-at-least-13-people.md)
-_Context: Baghdad, Iraq_
+_Context: Iraq, Baghdad_
 
 ##### Palestinian militants
 ### [Palestinian militants in the Gaza Strip fire rockets towards Hof Ashkelon region in southern Israel; the rockets are intercepted by Israel's Iron Dome defense system. ](/news/2014/02/6/palestinian-militants-in-the-gaza-strip-fire-rockets-towards-hof-ashkelon-region-in-southern-israel-the-rockets-are-intercepted-by-israel-s.md)
@@ -33,7 +33,7 @@ Rescue workers at the Doornkop gold mine in South Africa say they have recovered
 
 ##### China
 ### [Chinese media criticizes Philippine President Benigno Aquino III for his remarks the previous day. ](/news/2014/02/6/chinese-media-criticizes-philippine-president-benigno-aquino-iii-for-his-remarks-the-previous-day.md)
-_Context: Philippine, China, his predecessor_
+_Context: his predecessor, China, Philippine_
 
 ##### Ban Ki-moon
 ### [In an Olympic first, UN Secretary-General Ban Ki-moon today addresses the IOC Session in advance of the Olympic Winter Games in Sochi. ](/news/2014/02/6/in-an-olympic-first-un-secretary-general-ban-ki-moon-today-addresses-the-ioc-session-in-advance-of-the-olympic-winter-games-in-sochi.md)

@@ -5,11 +5,11 @@ Formats: [HTML](2010/12/19/index.html)  [JSON](2010/12/19/index.json)  [XML](201
 
 ##### Sri Lanka
 ### [Sri Lanka lifts a ban on a United Nations war crimes panel visiting the country. ](/news/2010/12/19/sri-lanka-lifts-a-ban-on-a-united-nations-war-crimes-panel-visiting-the-country.md)
-_Context: United Nations, Sri Lanka_
+_Context: Sri Lanka, United Nations_
 
 ##### Somalia
 ### [Two rebel groups in Somalia&ndash;al-Shabaab and the Islamic Party&ndash;announce plans to merge to try to topple the UN-backed Transitional Federal Government. ](/news/2010/12/19/two-rebel-groups-in-somalia-ndash-al-shabaab-and-the-islamic-party-ndash-announce-plans-to-merge-to-try-to-topple-the-un-backed-transitional.md)
-_Context: Transitional Federal Government, Somalia, United Nations, Al-Shabaab_
+_Context: United Nations, Al-Shabaab, Transitional Federal Government, Somalia_
 
 ##### Dubai International Film Festival
 ### [Stars appeared at the red carpet closing ceremony of the 7th Dubai International Film Festival. ](/news/2010/12/19/stars-appeared-at-the-red-carpet-closing-ceremony-of-the-7th-dubai-international-film-festival.md)
@@ -33,7 +33,7 @@ A fire at a budget hotel in the northern Philippines has killed 15 people and in
 
 ##### U.S. state
 ### [8 people are seriously injured when a tour bus carrying a church group lost control, slides off a road and rolls onto its side on an icy highway in the U.S. state of Colorado. ](/news/2010/12/19/8-people-are-seriously-injured-when-a-tour-bus-carrying-a-church-group-lost-control-slides-off-a-road-and-rolls-onto-its-side-on-an-icy-hig.md)
-_Context: U.S. state, Colorado_
+_Context: Colorado, U.S. state_
 
 ##### Italy
 ### [3 people are killed as blizzards and freezing temperatures hit Italy. ](/news/2010/12/19/3-people-are-killed-as-blizzards-and-freezing-temperatures-hit-italy.md)
@@ -45,7 +45,7 @@ Severe disruption caused by freezing weather continues, as Heathrow cancels hund
 
 ##### Guatemala
 ### [The Guatemalan military declares a state of siege in the department of Alta Verapaz to reclaim control of cities controlled by the Los Zetas Mexican drug gang. ](/news/2010/12/19/the-guatemalan-military-declares-a-state-of-siege-in-the-department-of-alta-verapaz-to-reclaim-control-of-cities-controlled-by-the-los-zetas.md)
-_Context: state of siege, Los Zetas, Alta Verapaz, Guatemalan Military, Mexican, Guatemala_
+_Context: Alta Verapaz, Zetas, Guatemala, Mexican, state of siege, Guatemalan Military_
 
 ##### Child pornography
 ### [Approximately 107 people are charged with possessing offensive child pornography in Austria. ](/news/2010/12/19/approximately-107-people-are-charged-with-possessing-offensive-child-pornography-in-austria.md)

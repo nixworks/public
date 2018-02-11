@@ -13,7 +13,7 @@ _Context: China, Liaoning province_
 
 ##### Eastern United States
 ### [A heavy storm in the eastern United States causes poor road conditions, and delays and cancellations of airline flights ahead of the Thanksgiving holidays with up to 30 million people affected. ](/news/2014/11/26/a-heavy-storm-in-the-eastern-united-states-causes-poor-road-conditions-and-delays-and-cancellations-of-airline-flights-ahead-of-the-thanksg.md)
-_Context: Thanksgiving, eastern United States_
+_Context: eastern United States, Thanksgiving_
 
 ##### Vietnam
 ### [Vietnamese lawmakers approve a law allowing broad foreign ownership of property, as the government seeks to boost an ailing real-estate market and accelerate growth. ](/news/2014/11/26/vietnamese-lawmakers-approve-a-law-allowing-broad-foreign-ownership-of-property-as-the-government-seeks-to-boost-an-ailing-real-estate-mark.md)
@@ -25,7 +25,7 @@ Since the army ousted president Mohammed Mursi, the government has launched a bl
 
 ##### Party of the Democratic Revolution
 ### [Mexico's Party of the Democratic Revolution (PRD) founder Cuauhtmoc Crdenas resigns amid internal political crisis resulting from the disappearance of the 43 students in September. ](/news/2014/11/26/mexico-s-party-of-the-democratic-revolution-prd-founder-cuauhtemoc-cardenas-resigns-amid-internal-political-crisis-resulting-from-the-disa.md)
-_Context: Party of the Democratic Revolution, 2014 Iguala mass kidnapping, Cuauhtmoc Crdenas_
+_Context: 2014 Iguala mass kidnapping, Cuauhtmoc Crdenas, Party of the Democratic Revolution_
 
 ##### 2014 pro-democracy street protests
 ### [More than 80 people are arrested as police dismantle a protest camp in the Mong Kok commercial district. ](/news/2014/11/26/more-than-80-people-are-arrested-as-police-dismantle-a-protest-camp-in-the-mong-kok-commercial-district.md)

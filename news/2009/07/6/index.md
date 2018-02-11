@@ -5,7 +5,7 @@ Formats: [HTML](2009/07/6/index.html)  [JSON](2009/07/6/index.json)  [XML](2009/
 
 ##### A ''coup d'tat''
 ### [ Honduran President Manuel Zelaya diverts his jet to Nicaragua after being barred from landing in Tegucigalpa as ground troops kill two in a battle against supporters with the country in turmoil. ](/news/2009/07/6/honduran-president-manuel-zelaya-diverts-his-jet-to-nicaragua-after-being-barred-from-landing-in-tegucigalpa-as-ground-troops-kill-two-in-a.md)
-_Context: Tegucigalpa, Nicaragua, Honduras, Manuel Zelaya, President, a ''coup d'tat''_
+_Context: President, Manuel Zelaya, Tegucigalpa, a ''coup d'tat'', Nicaragua, Honduras_
 
 ##### Riots
 ### [ Riots in China's Xinjiang region leave 156 dead and more than 800 injured. ](/news/2009/07/6/riots-in-china-s-xinjiang-region-leave-156-dead-and-more-than-800-injured.md)
@@ -17,7 +17,7 @@ _Context: South Africa_
 
 ##### Egyptians
 ### [ Egyptians mourn the death of Marwa El-Sherbini, called the "hijab martyr" after she was killed in a German courtroom by a man convicted of insulting her religion. ](/news/2009/07/6/egyptians-mourn-the-death-of-marwa-el-sherbini-called-the-hijab-martyr-after-she-was-killed-in-a-german-courtroom-by-a-man-convicted-of.md)
-_Context: German, Egyptians, Marwa El-Sherbini, hijab_
+_Context: Marwa El-Sherbini, Egyptians, German, hijab_
 
 ##### Burundi
 ### [ Burundi and Rwanda join the East African Community Customs Union. ](/news/2009/07/6/burundi-and-rwanda-join-the-east-african-community-customs-union.md)
@@ -33,17 +33,17 @@ _Context: earliest surviving, internet, Christian, Bible_
 
 ##### Movement for the Emancipation of the Niger Delta
 ### [ The Movement for the Emancipation of the Niger Delta says it has seized a chemical tanker with six crew and attacked a second oil facility. ](/news/2009/07/6/the-movement-for-the-emancipation-of-the-niger-delta-says-it-has-seized-a-chemical-tanker-with-six-crew-and-attacked-a-second-oil-facility.md)
-_Context: chemical tanker, Movement for the Emancipation of the Niger Delta_
+_Context: Movement for the Emancipation of the Niger Delta, chemical tanker_
 
 ##### Liberia
 ### [ Liberian President Ellen Johnson-Sirleaf's spokesman calls "surprising" a call by the country's truth commission that she be barred from office. ](/news/2009/07/6/liberian-president-ellen-johnson-sirleaf-s-spokesman-calls-surprising-a-call-by-the-country-s-truth-commission-that-she-be-barred-from-of.md)
-_Context: Liberia, President of Liberia, Ellen Johnson-Sirleaf_
+_Context: Liberia, Ellen Johnson-Sirleaf, President of Liberia_
 
 ##### Nigeria
 ### [ Nigerian militants hold six crew members of an oil tanker, including its Russian captain. ](/news/2009/07/6/nigerian-militants-hold-six-crew-members-of-an-oil-tanker-including-its-russian-captain.md)
-_Context: Russia, Nigeria_
+_Context: Nigeria, Russia_
 
-##### United States
+##### American
 ### [ United States President Barack Obama and Russian President Dmitry Medvedev agree on cutting their nuclear warheads and cooperate on military action in Afghanistan. ](/news/2009/07/6/united-states-president-barack-obama-and-russian-president-dmitry-medvedev-agree-on-cutting-their-nuclear-warheads-and-cooperate-on-militar.md)
 U.S. President Barack Obama and Russian President Dmitry Medvedev agreed Monday to keep talking about a joint response to ballistic missile proliferation, a thorny issue between their countries.
 
@@ -61,11 +61,11 @@ _Context: Javier Solana, European Union_
 
 ##### GERB
 ### [ The center-right Citizens for European Development of Bulgaria party wins big in the Bulgarian parliamentary elections ](/news/2009/07/6/the-center-right-citizens-for-european-development-of-bulgaria-party-wins-big-in-the-bulgarian-parliamentary-elections.md)
-_Context: GERB, Bulgarian parliamentary elections_
+_Context: Bulgarian parliamentary elections, GERB_
 
 ##### Shooting
 ### [ Three gunmen open fire at a house in Miami, Florida, United States, killing one person and wounding eleven others. ](/news/2009/07/6/three-gunmen-open-fire-at-a-house-in-miami-florida-united-states-killing-one-person-and-wounding-eleven-others.md)
-_Context: United States, Miami, the state, shooting_
+_Context: the state, Miami, American, shooting_
 
 ##### Iran
 ### [ Iran says it will hold the US responsible for any Israeli attack against their country, in response to US Vice President Joe Biden's claim that the US will not interfere in an Israeli attack on Iranian nuclear facilities. ](/news/2009/07/6/iran-says-it-will-hold-the-us-responsible-for-any-israeli-attack-against-their-country-in-response-to-us-vice-president-joe-biden-s-claim.md)

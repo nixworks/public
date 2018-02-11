@@ -9,15 +9,15 @@ Vessel originally from Libya, loaded with arms reportedly destined for Syrian op
 
 ##### Afghanistan
 ### [Two bodyguards and two insurgents are killed in an attack on the Governor of Afghanistan's Kandahar Province. ](/news/2012/04/28/two-bodyguards-and-two-insurgents-are-killed-in-an-attack-on-the-governor-of-afghanistan-s-kandahar-province.md)
-_Context: Afghanistan, Kandahar Province_
+_Context: Kandahar Province, Afghanistan_
 
 ##### 2012 Dnipropetrovsk explosions
 ### [2012 Dnipropetrovsk explosions: Ukrainian president Viktor Yanukovich promises an investigation into the incident that injured 30 people. ](/news/2012/04/28/2012-dnipropetrovsk-explosions-ukrainian-president-viktor-yanukovich-promises-an-investigation-into-the-incident-that-injured-30-people.md)
-_Context: Viktor Yanukovich, Ukraine, 2012 Dnipropetrovsk explosions_
+_Context: Viktor Yanukovich, 2012 Dnipropetrovsk explosions, Ukraine_
 
 ##### Busch Stadium
 ### [One person dies and more than 110 are injured when a tent collapses at a restaurant near Busch Stadium in St. Louis, Missouri. ](/news/2012/04/28/one-person-dies-and-more-than-110-are-injured-when-a-tent-collapses-at-a-restaurant-near-busch-stadium-in-st-louis-missouri.md)
-_Context: St. Louis, Missouri, Busch Stadium_
+_Context: St. Louis, Busch Stadium, Missouri_
 
 ##### Egypt-Saudi Arabia relations
 ### [Egypt-Saudi Arabia relations: Saudi Arabia shuts its embassy and consulates in Egypt following protests over an Egyptian human rights lawyer Ahmed al-Gizawi being detained in Saudi Arabia. ](/news/2012/04/28/egyptasaudi-arabia-relations-saudi-arabia-shuts-its-embassy-and-consulates-in-egypt-following-protests-over-an-egyptian-human-rights-lawy.md)
@@ -29,7 +29,7 @@ The European Union opened an office in Yangon on Saturday in recognition of the 
 
 ##### Mali
 ### [Mali's ruling junta rejects a West African regional plan to extend the life of an interim civilian government. ](/news/2012/04/28/mali-s-ruling-junta-rejects-a-west-african-regional-plan-to-extend-the-life-of-an-interim-civilian-government.md)
-_Context: Mali, West Africa_
+_Context: West Africa, Mali_
 
 ##### China
 ### [Blind Chinese human rights activist Chen Guangcheng &ndash; who fled from house arrest &ndash; reportedly takes refuge in the U.S. embassy in Beijing. ](/news/2012/04/28/blind-chinese-human-rights-activist-chen-guangcheng-ndash-who-fled-from-house-arrest-ndash-reportedly-takes-refuge-in-the-u-s-embassy-i.md)

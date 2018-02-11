@@ -5,11 +5,11 @@ Formats: [HTML](2014/05/28/index.html)  [JSON](2014/05/28/index.json)  [XML](201
 
 ##### Tunisia
 ### [Gunmen attack the home of Tunisia's top security official Lotfi Ben Jeddou resulting in the death of 4 police officers. ](/news/2014/05/28/gunmen-attack-the-home-of-tunisia-s-top-security-official-lotfi-ben-jeddou-resulting-in-the-death-of-4-police-officers.md)
-_Context: Tunisia, Lotfi Ben Jeddou_
+_Context: Lotfi Ben Jeddou, Tunisia_
 
 ##### Ramzan Kadyrov
 ### [Ramzan Kadyrov, Head of the Chechen Republic, insists he has not sent troops to Ukraine to fight alongside pro-Russia separatists. ](/news/2014/05/28/ramzan-kadyrov-head-of-the-chechen-republic-insists-he-has-not-sent-troops-to-ukraine-to-fight-alongside-pro-russia-separatists.md)
-_Context: Ramzan Kadyrov, Chechen Republic leader, Ukraine_
+_Context: Ramzan Kadyrov, Ukraine, Chechen Republic leader_
 
 ##### Pakistani Taliban
 ### [A split emerges in the Pakistani Taliban after the Mehsud faction walked out, saying the group leaders' tactics were "un-Islamic". ](/news/2014/05/28/a-split-emerges-in-the-pakistani-taliban-after-the-mehsud-faction-walked-out-saying-the-group-leaders-tactics-were-un-islamic.md)
@@ -37,7 +37,7 @@ _Context: Sinaloa Cartel, Jos Rodrigo Archiga Gamboa_
 
 ##### Egypt
 ### [Voting in Egypt continues for an unscheduled third day due to concerns about low turnout. Official results show former military chief Abdul Fattah al-Sisi headed for a massive victory with 92% of the vote. ](/news/2014/05/28/voting-in-egypt-continues-for-an-unscheduled-third-day-due-to-concerns-about-low-turnout-official-results-show-former-military-chief-abdul.md)
-_Context: Abdul Fattah al-Sisi, Egypt_
+_Context: Egypt, Abdul Fattah al-Sisi_
 
 ##### U.S. President
 ### [US President Barack Obama announces a $5 billion "terrorism partnership fund" to help other countries tackle extremists. ](/news/2014/05/28/us-president-barack-obama-announces-a-5-billion-terrorism-partnership-fund-to-help-other-countries-tackle-extremists.md)

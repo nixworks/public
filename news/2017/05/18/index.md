@@ -9,11 +9,11 @@ CBS News correspondent David Martin reports Syrian regime vehicles have violated
 
 ##### Huwara
 ### [In a shooting incident near Huwara in the West Bank, a mob of some 200 Arabs hurl stones and rocks toward an Israeli car and try to lynch the driver. The Israeli driver fires his weapon, killing one Palestinian. ](/news/2017/05/18/in-a-shooting-incident-near-huwara-in-the-west-bank-a-mob-of-some-200-arabs-hurl-stones-and-rocks-toward-an-israeli-car-and-try-to-lynch-th.md)
-_Context: lynch, hurl stones and rocks, West Bank, Huwara_
+_Context: Huwara, hurl stones and rocks, lynch, West Bank_
 
 ##### Roger Ailes
 ### [Roger Ailes, the former Chairman and founding CEO of Fox News, dies at the age of 77. ](/news/2017/05/18/roger-ailes-the-former-chairman-and-founding-ceo-of-fox-news-dies-at-the-age-of-77.md)
-_Context: Roger Ailes, Fox News_
+_Context: Fox News, Roger Ailes_
 
 ##### Chris Cornell
 ### [Chris Cornell, the lead vocalist for the Seattle rock band Soundgarden, dies after a concert at the age of 52. ](/news/2017/05/18/chris-cornell-the-lead-vocalist-for-the-seattle-rock-band-soundgarden-dies-after-a-concert-at-the-age-of-52.md)

@@ -5,15 +5,15 @@ Formats: [HTML](2005/04/7/index.html)  [JSON](2005/04/7/index.json)  [XML](2005/
 
 ##### Mexican
 ### [ The Mexican Chamber of Deputies votes by 360 to 127 to suspend the executive immunity of Mayor Andrs Manuel Lpez Obrador of Mexico City, thereby removing him from office to face criminal charges. ](/news/2005/04/7/the-mexican-chamber-of-deputies-votes-by-360-to-127-to-suspend-the-executive-immunity-of-mayor-andres-manuel-lopez-obrador-of-mexico-city.md)
-_Context: Andrs Manuel Lpez Obrador, Mexico City, Mexican, Mayor, Chamber of Deputies, criminal charges_
+_Context: criminal charges, Chamber of Deputies, Mayor, Mexican, Mexico City, Andrs Manuel Lpez Obrador_
 
 ##### Palestinian
 ### [ A Palestinian-fired Qassam rocket hits a cemetery in the Israeli town of Sderot, causing minimal damage and no injuries. Israeli Defence Minister Shaul Mofaz says Israel will not let it pass and criticises the PA's lack of action. This is the first rocket fired inside the carrot-shaped "Green line" since late January. ](/news/2005/04/7/a-palestinian-fired-qassam-rocket-hits-a-cemetery-in-the-israeli-town-of-sderot-causing-minimal-damage-and-no-injuries-israeli-defence-mi.md)
-_Context: Palestinian, Palestinian Authority, Qassam rocket, Shaul Mofaz, Green line, Sderot, cemetery_
+_Context: Qassam rocket, Sderot, Palestinian, Palestinian Authority, cemetery, Green line, Shaul Mofaz_
 
 ##### Ibrahim Jaafari
 ### [ Ibrahim Jaafari, a Shia, has replaced Iyad Allawi as the interim prime minister of Iraq. ](/news/2005/04/7/ibrahim-jaafari-a-shia-has-replaced-iyad-allawi-as-the-interim-prime-minister-of-iraq.md)
-_Context: Iraq, prime minister, Shia, Iyad Allawi, Ibrahim Jaafari_
+_Context: Shia, Ibrahim Jaafari, prime minister, Iyad Allawi, Iraq_
 
 ##### India
 ### [ Passenger buses set out from India to Pakistan across the Indian Kashmir barrier through the troubled and controversial Kashmir region in a symbolic "Caravan of Peace." Some attacks on the buses were reported in the militant-occupied area, but none were successful, according to local media outlets. ](/news/2005/04/7/passenger-buses-set-out-from-india-to-pakistan-across-the-indian-kashmir-barrier-through-the-troubled-and-controversial-kashmir-region-in-a.md)
@@ -21,11 +21,11 @@ Buses departed Thursday from both the Indian and Pakistani sides of divided Kash
 
 ##### Taiwan
 ### [ The President of the Republic of China (Taiwan) Chen Shui-bian will be accompanied by his foreign minister as well as Roman Catholic and Muslim religious figures for the trip to attend the funeral of Pope John Paul II. ](/news/2005/04/7/the-president-of-the-republic-of-china-taiwan-chen-shui-bian-will-be-accompanied-by-his-foreign-minister-as-well-as-roman-catholic-and-mu.md)
-_Context: Roman Catholic, Taiwan, Taiwan, Pope John Paul II, Chen Shui-bian_
+_Context: Taiwan, Pope John Paul II, Roman Catholic, Taiwan, Chen Shui-bian_
 
 ##### Canadian
 ### [ Representatives of the government of Canada withdraw from a business conference with Iran in protest of the case of deceased journalist Zahra Kazemi. Kazemi died in Iranian police custody and Iranian refugee doctor Shahram Azam says that she had extensive injuries and had been tortured. Iranian officials deny the charges. Canada has unsuccessfully demanded return of Kazemi's body. ](/news/2005/04/7/representatives-of-the-government-of-canada-withdraw-from-a-business-conference-with-iran-in-protest-of-the-case-of-deceased-journalist-zah.md)
-_Context: Canadian, Zahra Kazemi, Iran, Shahram Azam_
+_Context: Iran, Shahram Azam, Canadian, Zahra Kazemi_
 
 ##### London
 ### [ In London, Sir Ian Blair, the chief of metropolitan police, orders an inquiry of claims that journalists of "The Sun" smuggled a fake bomb into grounds of Windsor Castle. ](/news/2005/04/7/in-london-sir-ian-blair-the-chief-of-metropolitan-police-orders-an-inquiry-of-claims-that-journalists-of-the-sun-smuggled-a-fake-bomb.md)
@@ -45,11 +45,11 @@ _Context: Switzerland_
 
 ##### Malaysia
 ### [ The prime ministers of Malaysia and Australia announce that they intend begin talks of free trade agreement ](/news/2005/04/7/the-prime-ministers-of-malaysia-and-australia-announce-that-they-intend-begin-talks-of-free-trade-agreement.md)
-_Context: Malaysia, Australia, trade agreement_
+_Context: Australia, Malaysia, trade agreement_
 
 ##### Netherlands
 ### [ Police in the Netherlands arrest a gang that has smuggled Chinese asylum seekers and sold them for cheap labor. ](/news/2005/04/7/police-in-the-netherlands-arrest-a-gang-that-has-smuggled-chinese-asylum-seekers-and-sold-them-for-cheap-labor.md)
-_Context: cheap labor, Netherlands, human trafficking, asylum, China_
+_Context: human trafficking, asylum, cheap labor, China, Netherlands_
 
 ## [Previous Day...](/news/2005/04/6/index.md)
 

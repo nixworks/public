@@ -11,9 +11,9 @@ President Vladimir Putin has fallen under the spell of Satan and faces eternal d
 ### [The Syrian Air Force targets a bakery and a training camp controlled by the Islamic State of Iraq and Syria in Ar-Raqqah, killing 25 people. ](/news/2014/09/6/the-syrian-air-force-targets-a-bakery-and-a-training-camp-controlled-by-the-islamic-state-of-iraq-and-syria-in-ar-raqqah-killing-25-people.md)
 Syrian warplanes bombed a bakery run by Islamic State in the city of Raqqa, killing 25 people, in air raids on Saturday that also hit a major training camp used by the insurgent group for a second day running, a group monitoring the war said.
 
-##### United States
+##### American
 ### [The United States says that it will not coordinate with Iran in the fight against the Islamic State of Iraq and Syria. ](/news/2014/09/6/the-united-states-says-that-it-will-not-coordinate-with-iran-in-the-fight-against-the-islamic-state-of-iraq-and-syria.md)
-_Context: Islamic State of Iraq and Syria, United States, Iran_
+_Context: Islamic State of Iraq and Syria, Iran, American_
 
 ##### 2014 India-Pakistan floods
 ### [Heavy monsoon rains and flash floods leave over 200 people dead across India and Pakistan. ](/news/2014/09/6/heavy-monsoon-rains-and-flash-floods-leave-over-200-people-dead-across-india-and-pakistan.md)
@@ -37,7 +37,7 @@ Egypt charged ousted president Mohamed Mursi and nine others on Saturday with en
 
 ##### Independence referendum
 ### [A surge for the yes-campaign following the TV debate "Scotland Decides: Salmond versus Darling" culminates with a poll from YouGov and The Sunday Times showing that a majority will vote in favor of Scottish independence. ](/news/2014/09/6/a-surge-for-the-yes-campaign-following-the-tv-debate-scotland-decides-salmond-versus-darling-culminates-with-a-poll-from-yougov-and-the-s.md)
-_Context: The Sunday Times, independence referendum, YouGov, Scotland Decides: Salmond versus Darling, will vote in favor_
+_Context: The Sunday Times, independence referendum, Scotland Decides: Salmond versus Darling, YouGov, will vote in favor_
 
 ## [Previous Day...](/news/2014/09/5/index.md)
 

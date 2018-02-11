@@ -13,7 +13,7 @@ _Context: Jinnah International Airport_
 
 ##### Kenya
 ### [Gunmen in Kenya's port city of Mombasa kill Mohamed Idris, chairman of the Council of Imams and Preachers of Kenya, who opposed the radical preachings of Somalia's Al-Qaeda-linked Al-Shabaab insurgents. ](/news/2014/06/10/gunmen-in-kenya-s-port-city-of-mombasa-kill-mohamed-idris-chairman-of-the-council-of-imams-and-preachers-of-kenya-who-opposed-the-radical.md)
-_Context: Al-Shabaab, al-Qaeda, Kenya, Mombasa, Somalia_
+_Context: Mombasa, Kenya, Al-Shabaab, Somalia, al-Qaeda_
 
 ##### Iraqi insurgency (post-U.S. withdrawal)
 ### [Militants stage an overnight attack in Mosul, Iraq, taking control of the city while police and military flee. ](/news/2014/06/10/militants-stage-an-overnight-attack-in-mosul-iraq-taking-control-of-the-city-while-police-and-military-flee.md)
@@ -27,7 +27,7 @@ Five American soldiers have been killed accidentally by their own side in southe
 ### [Violent storms in western Germany with high winds and flooding kill six people. ](/news/2014/06/10/violent-storms-in-western-germany-with-high-winds-and-flooding-kill-six-people.md)
 _Context: German_
 
-##### United States
+##### American
 ### [US Olympic swimming gold medal winner Amy Van Dyken severs her spine in a severe ATV accident. ](/news/2014/06/10/us-olympic-swimming-gold-medal-winner-amy-van-dyken-severs-her-spine-in-a-severe-atv-accident.md)
 A six-time US Olympic gold medal-winning swimmer severs her spinal cord in an all-terrain vehicle accident over the weekend.
 
@@ -37,9 +37,9 @@ _Context: Troutdale, Oregon, Reynolds High School_
 
 ##### Israel
 ### [Israeli lawmakers choose Reuven Rivlin to be the next President of Israel. ](/news/2014/06/10/israeli-lawmakers-choose-reuven-rivlin-to-be-the-next-president-of-israel.md)
-_Context: President, Israel, Reuven Rivlin_
+_Context: Israel, Reuven Rivlin, President_
 
-##### United States
+##### American
 ### [United States House Majority Leader Eric Cantor is defeated by newcomer Tea Party-backed candidate David Brat in a Virginia congressional primary election. ](/news/2014/06/10/united-states-house-majority-leader-eric-cantor-is-defeated-by-newcomer-tea-party-backed-candidate-david-brat-in-a-virginia-congressional-pr.md)
 The Republican leader is expected to defeat his rival. The question is by how much.
 

@@ -9,7 +9,7 @@ Security forces in Indian-administered Kashmir kill three militants in an ongoin
 
 ##### Drones launch
 ### [International campaigners against the drone attacks, carried out by the United States in Pakistan, launch their attempt to have former CIA legal chief John A. Rizzo arrested and charged with the murders of hundreds of people after his admission in "Newsweek" that he approved attacks each month since 2004. ](/news/2011/07/15/international-campaigners-against-the-drone-attacks-carried-out-by-the-united-states-in-pakistan-launch-their-attempt-to-have-former-cia-l.md)
-_Context: United States, Pakistan, Newsweek, John A. Rizzo, drones launch_
+_Context: American, drones launch, Newsweek, Pakistan, John A. Rizzo_
 
 ##### Recep Tayyip Erdogan
 ### [Soldiers, air force bombers and helicopter gunships begin a major offensive in south-eastern Turkey as the country's prime minister Recep Tayyip Erdogan vows to seek vengeance on Kurdish rebels. ](/news/2011/07/15/soldiers-air-force-bombers-and-helicopter-gunships-begin-a-major-offensive-in-south-eastern-turkey-as-the-country-s-prime-minister-recep-ta.md)
@@ -21,7 +21,7 @@ _Context: 2011 Syrian uprising_
 
 ##### 13 July 2011 Mumbai bombings
 ### [13 July 2011 Mumbai bombings: Indian investigators check CCTV footage in their search for clues into Wednesday's triple bombing in Mumbai. ](/news/2011/07/15/13-july-2011-mumbai-bombings-indian-investigators-check-cctv-footage-in-their-search-for-clues-into-wednesday-s-triple-bombing-in-mumbai.md)
-_Context: 13 July 2011 Mumbai bombings, Mumbai, CCTV_
+_Context: CCTV, 13 July 2011 Mumbai bombings, Mumbai_
 
 ##### Largs
 ### [Europe's biggest lottery jackpot, GBP161 million (US$260 million), is scooped by a couple from Largs, Ayrshire, in Scotland. ](/news/2011/07/15/europe-s-biggest-lottery-jackpot-agbp161-million-us-260-million-is-scooped-by-a-couple-from-largs-ayrshire-in-scotland.md)
@@ -37,7 +37,7 @@ Journalists at the BBC are taking part in a 24-hour strike in a row over compuls
 
 ##### Royal Dutch Shell
 ### [Royal Dutch Shell reveals plans to construct a 600,000-tonne floating liquefied natural gas (FLNG) platform, a world's first for off the coast of Australia. ](/news/2011/07/15/royal-dutch-shell-reveals-plans-to-construct-a-600-000-tonne-floating-liquefied-natural-gas-flng-platform-a-world-s-first-for-off-the-coa.md)
-_Context: floating liquefied natural gas, Royal Dutch Shell_
+_Context: Royal Dutch Shell, floating liquefied natural gas_
 
 ##### BHP Billiton
 ### [BHP Billiton buys U.S. based petroleum company Petrohawk for $12 billion. ](/news/2011/07/15/bhp-billiton-buys-u-s-based-petroleum-company-petrohawk-for-12-billion.md)
@@ -53,7 +53,7 @@ People who have fled the drought in Somalia to camps near the capital Mogadishu 
 
 ##### Landslide
 ### [Landslides in two remote Nepalese villages kill six people and injure another ten. ](/news/2011/07/15/landslides-in-two-remote-nepalese-villages-kill-six-people-and-injure-another-ten.md)
-_Context: Nepal, Landslide_
+_Context: Landslide, Nepal_
 
 ##### Mount Lokon
 ### [Mount Lokon on Indonesia's Sulawesi island erupts prompting thousands of people to flee. ](/news/2011/07/15/mount-lokon-on-indonesia-s-sulawesi-island-erupts-prompting-thousands-of-people-to-flee.md)
@@ -61,7 +61,7 @@ An Indonesian volcano has erupted, spewing rocks, lava and ash hundreds of metre
 
 ##### Pilgrim
 ### [Four pilgrims die when a boulder falls on them at a voodoo festival in Saut d'Eau, Haiti. ](/news/2011/07/15/four-pilgrims-die-when-a-boulder-falls-on-them-at-a-voodoo-festival-in-saut-d-eau-haiti.md)
-_Context: voodoo, Haiti, pilgrim, Saut d'Eau_
+_Context: Haiti, Saut d'Eau, voodoo, pilgrim_
 
 ##### Earthquake
 ### [A magnitude 6 earthquake occurs off the coast of Chile near Valparaiso. ](/news/2011/07/15/a-magnitude-6-earthquake-occurs-off-the-coast-of-chile-near-valparaaso.md)
@@ -73,7 +73,7 @@ _Context: Hoogersmilde, Zendstation Smilde, Netherlands_
 
 ##### Irish
 ### [Ireland's Taoiseach Enda Kenny attacks the Vatican's approach to the child abuse scandals in the country as "absolutely disgraceful", while the Socialist Party's Joe Higgins tells Dail Eireann that people were "throwing their hands in the air" after the report into the sexual abuse scandal in Cloyne diocese was published this week. ](/news/2011/07/15/ireland-s-taoiseach-enda-kenny-attacks-the-vatican-s-approach-to-the-child-abuse-scandals-in-the-country-as-absolutely-disgraceful-while.md)
-_Context: Taoiseach, Socialist Party, Dail Eireann, sexual abuse scandal in Cloyne diocese, Enda Kenny, Joe Higgins, Irish_
+_Context: Joe Higgins, Socialist Party, Enda Kenny, sexual abuse scandal in Cloyne diocese, Taoiseach, Irish, Dail Eireann_
 
 ##### United States Secretary of State
 ### [The United States Secretary of State Hillary Clinton meets with NATO leaders to try to find a solution to the Libya crisis. ](/news/2011/07/15/the-united-states-secretary-of-state-hillary-clinton-meets-with-nato-leaders-to-try-to-find-a-solution-to-the-libya-crisis.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2010/01/8/index.html)  [JSON](2010/01/8/index.json)  [XML](2010/
 
 ##### Malaysia
 ### [Several churches in Malaysia are attacked amid tensions over the use of "Allah" by non-Muslims in the country. ](/news/2010/01/8/several-churches-in-malaysia-are-attacked-amid-tensions-over-the-use-of-allah-by-non-muslims-in-the-country.md)
-_Context: Malaysia, Muslim, Allah_
+_Context: Muslim, Malaysia, Allah_
 
 ##### Immigrant
 ### [Riots break out amongst immigrants and local inhabitants in the town of Rosarno in southern Italy in a protest against an attack on African workers by white youths. ](/news/2010/01/8/riots-break-out-amongst-immigrants-and-local-inhabitants-in-the-town-of-rosarno-in-southern-italy-in-a-protest-against-an-attack-on-african.md)
@@ -25,7 +25,7 @@ _Context: Zhang Chunjiang, world's largest mobile telephone operator, China Mobi
 
 ##### China
 ### [China becomes the number one automobile market in the world. ](/news/2010/01/8/china-becomes-the-number-one-automobile-market-in-the-world.md)
-_Context: China, Auto_
+_Context: Auto, China_
 
 ##### Mehdi Karroubi
 ### [Mehdi Karroubi's car is hit by fire in Qazvin, Iran. ](/news/2010/01/8/mehdi-karroubi-s-car-is-hit-by-fire-in-qazvin-iran.md)
@@ -37,11 +37,11 @@ The Sea Shepherd speedboat Ady Gil has sunk after it was sliced in two by a Japa
 
 ##### Skouba Konat
 ### [Skouba Konat, the interim head of the junta in Guinea, is flown to Senegal after falling ill. ](/news/2010/01/8/sekouba-konate-the-interim-head-of-the-junta-in-guinea-is-flown-to-senegal-after-falling-ill.md)
-_Context: Senegal, Skouba Konat, Guinea, junta_
+_Context: junta, Skouba Konat, Senegal, Guinea_
 
 #####  Georgian
 ### [A Georgian flight lands in Moscow, Russia, the first since the 2008 war. ](/news/2010/01/8/a-georgian-flight-lands-in-moscow-russia-the-first-since-the-2008-war.md)
-_Context: Moscow, 2008 war,  Georgian, Russia_
+_Context:  Georgian, 2008 war, Moscow, Russia_
 
 ##### George Galloway
 ### [British MP George Galloway is deported from Egypt. ](/news/2010/01/8/british-mp-george-galloway-is-deported-from-egypt.md)
@@ -49,7 +49,7 @@ British MP George Galloway, who led the Viva Palestina to Gaza, put on London fl
 
 ##### England
 ### [Police in England respond to a security alert on a Dubai-bound flight from London Heathrow Airport. ](/news/2010/01/8/police-in-england-respond-to-a-security-alert-on-a-dubai-bound-flight-from-london-heathrow-airport.md)
-_Context: Dubai, London Heathrow Airport, England_
+_Context: London Heathrow Airport, England, Dubai_
 
 ##### New York City
 ### [Two people are arrested over a bomb plot in New York City last year. ](/news/2010/01/8/two-people-are-arrested-over-a-bomb-plot-in-new-york-city-last-year.md)
@@ -73,7 +73,7 @@ _Context: homosexuality, Uganda_
 
 ##### France
 ### [French research in "Analytical Chemistry" suggests that the heavy eye make-up of Cleopatra could be medically useful. ](/news/2010/01/8/french-research-in-analytical-chemistry-suggests-that-the-heavy-eye-make-up-of-cleopatra-could-be-medically-useful.md)
-_Context: France, Analytical Chemistry, Cleopatra_
+_Context: Analytical Chemistry, France, Cleopatra_
 
 ## [Previous Day...](/news/2010/01/7/index.md)
 

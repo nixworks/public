@@ -21,11 +21,11 @@ Police set up an exclusion zone around the wreckage in the Australian outback an
 
 ##### 2015 Shenzhen landslide
 ### [A Chinese official who sanctioned a dump of construction debris that led to a deadly landslide in the southern city of Shenzhen that killed at least 7 people and has left over 70 missing, kills himself by jumping from a building in the city's Nanshan district, according to the "South China Morning Post". ](/news/2015/12/28/a-chinese-official-who-sanctioned-a-dump-of-construction-debris-that-led-to-a-deadly-landslide-in-the-southern-city-of-shenzhen-that-killed.md)
-_Context: China, Shenzhen, Nanshan district, 2015 Shenzhen landslide, South China Morning Post_
+_Context: Shenzhen, China, Nanshan district, 2015 Shenzhen landslide, South China Morning Post_
 
 ##### Japan-South Korea relations
 ### [Japan and South Korea agree to 'irreversibly' resolve a long-running dispute over Korean women the Japanese military used as sex slaves during World War II. Japanese Prime Minister Shinzo Abe will issue a formal apology to the so-called "comfort women." Tokyo will set up an aid fund of about 1 billion yen ($8.3 million). ](/news/2015/12/28/japan-and-south-korea-agree-to-irreversibly-resolve-a-long-running-dispute-over-korean-women-the-japanese-military-used-as-sex-slaves-duri.md)
-_Context: military, Korean, World War II, Japan-South Korea relations, Prime Minister of Japan, Japan, Shinzo Abe, sex slaves, South Korea, comfort women_
+_Context: military, Japan-South Korea relations, comfort women, sex slaves, South Korea, Prime Minister of Japan, Korean, Japan, World War II, Shinzo Abe_
 
 ##### European migrant crisis
 ### [Germany recruits 8,500 teachers to provide special German language lessons for 196,000 Syrian child refugees. ](/news/2015/12/28/germany-recruits-8-500-teachers-to-provide-special-german-language-lessons-for-196-000-syrian-child-refugees.md)
@@ -37,7 +37,7 @@ The US says Iran has taken a significant step towards meeting its nuclear commit
 
 ##### Police officer
 ### [A police officer storms the police headquarters in the city of Ponce, Puerto Rico, and shoots dead three fellow officers, including a commanding officer. Authorities say Guarionex Candelario, 50, was arrested for the killings shortly afterwards and taken to hospital for minor injuries. ](/news/2015/12/28/a-police-officer-storms-the-police-headquarters-in-the-city-of-ponce-puerto-rico-and-shoots-dead-three-fellow-officers-including-a-comman.md)
-_Context: Puerto Rico, Ponce, police officer_
+_Context: Puerto Rico, police officer, Ponce_
 
 ##### Tamir Rice
 ### [A U.S. grand jury decides not to bring charges against a Cleveland policeman over the killing of 12 year old Tamir Rice. ](/news/2015/12/28/a-u-s-grand-jury-decides-not-to-bring-charges-against-a-cleveland-policeman-over-the-killing-of-12-year-old-tamir-rice.md)
@@ -45,7 +45,7 @@ A US grand jury decides not to bring charges against a policeman over the killin
 
 ##### Guatemala
 ### [Guatemalan Gustavo Alejos Cambara, once private secretary to former President Alvaro Colom, turns himself in to authorities on charges related to government medicine procurement corruption. ](/news/2015/12/28/guatemalan-gustavo-alejos-cambara-once-private-secretary-to-former-president-alvaro-colom-turns-himself-in-to-authorities-on-charges-rela.md)
-_Context: Alvaro Colom, Guatemalan President, government medicine procurement, Guatemala_
+_Context: Guatemala, Guatemalan President, government medicine procurement, Alvaro Colom_
 
 ##### Polish constitutional crisis, 2015
 ### [The leader of Poland's Democracy Defence Committee, Mateusz Kijowski, says the government has "broken the country" after Polish President, Andrzej Duda, enacted a measure curbing the powers of the country's highest legislative court, the Constitutional Tribunal, despite protests and warnings from the European Union. Kijowski further called for foreign intervention in the country from "Europe and the United States" to topple the Law and Justice (PiS) government, saying "they must help us, otherwise Poland will leave the community of democracies". After news broke that Duda had signed into law the constitutional tribunal bill, he made a speech on television defending his move. Polish newspaper Gazeta Wyborcza quoted U.S. sources saying Barack Obama had objections and had let it be known he would delay meeting Duda. The newspaper also suggested Poland's hosting of the next NATO summit, planned for July 2016, was in the balance. ](/news/2015/12/28/the-leader-of-poland-s-democracy-defence-committee-mateusz-kijowski-says-the-government-has-broken-the-country-after-polish-president-a.md)

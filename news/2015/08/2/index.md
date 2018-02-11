@@ -5,7 +5,7 @@ Formats: [HTML](2015/08/2/index.html)  [JSON](2015/08/2/index.json)  [XML](2015/
 
 ##### Saudi-led intervention in Yemen
 ### [A projectile fired from Yemen into the city of Najran kills a Saudi Arabian citizen. ](/news/2015/08/2/a-projectile-fired-from-yemen-into-the-city-of-najran-kills-a-saudi-arabian-citizen.md)
-_Context: Najran, Saudi Arabia, Saudi-led intervention in Yemen, Yemen_
+_Context: Saudi Arabia, Najran, Saudi-led intervention in Yemen, Yemen_
 
 ##### Turkey-PKK conflict
 ### [A suicide attack by the PKK kills two Turkish Army soldiers and injures 24 others in the Turkish town of Dogubeyazit in Agri Province near the Iran border. ](/news/2015/08/2/a-suicide-attack-by-the-pkk-kills-two-turkish-army-soldiers-and-injures-24-others-in-the-turkish-town-of-doaubeyaza-t-in-aara-province-ne.md)
@@ -13,7 +13,7 @@ Two Turkish soldiers are killed and dozens are wounded in a suicide attack near 
 
 ##### Burundian Army
 ### [General Adolphe Nshimirimana, former chief of staff of the Burundi Army, is assassinated in Bujumbura. ](/news/2015/08/2/general-adolphe-nshimirimana-former-chief-of-staff-of-the-burundi-army-is-assassinated-in-bujumbura.md)
-_Context: Bujumbura, Burundian Army_
+_Context: Burundian Army, Bujumbura_
 
 ##### Boko Haram
 ### [Nigerian Army soldiers rescue 178 people from Boko Haram camps including 101 children. ](/news/2015/08/2/nigerian-army-soldiers-rescue-178-people-from-boko-haram-camps-including-101-children.md)

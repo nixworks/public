@@ -9,7 +9,7 @@ _Context: Sabha, Libya_
 
 ##### 2012 South Sudan-Sudan border conflict
 ### [2012 South Sudan-Sudan border conflict: South Sudan's troops pull out of Sudan's oil-producing Heglig area, easing tensions after two days of clashes between the neighbours threatened to escalate a simmering conflict. ](/news/2012/03/28/2012-south-sudanasudan-border-conflict-south-sudan-s-troops-pull-out-of-sudan-s-oil-producing-heglig-area-easing-tensions-after-two-days.md)
-_Context: Heglig, Sudan, 2012 South Sudan-Sudan border conflict, South Sudan_
+_Context: Heglig, Sudan, South Sudan, 2012 South Sudan-Sudan border conflict_
 
 ##### 2011-2012 Syrian uprising
 ### [2011-2012 Syrian uprising: Syrian forces attack the central town of Qalaat al-Madiq as Arab League ministers meet in Baghdad. ](/news/2012/03/28/2011a2012-syrian-uprising-syrian-forces-attack-the-central-town-of-qalaat-al-madiq-as-arab-league-ministers-meet-in-baghdad.md)
@@ -27,9 +27,9 @@ _Context: Air Pacific, Australia, Qantas, Government of Fiji_
 ### [The Mega Millions jackpot in the United States hits a record $500 million dollars, a world record in lottery history. ](/news/2012/03/28/the-mega-millions-jackpot-in-the-united-states-hits-a-record-500-million-dollars-a-world-record-in-lottery-history.md)
 _Context: Mega Millions_
 
-##### United States
+##### American
 ### [The United States suspends planned food aid to North Korea, after the latter plans to launch a rocket next month. ](/news/2012/03/28/the-united-states-suspends-planned-food-aid-to-north-korea-after-the-latter-plans-to-launch-a-rocket-next-month.md)
-_Context: North Korea, United States_
+_Context: North Korea, American_
 
 ##### Mali's coup
 ### [2012 Malian coup d'etat: Coup leaders in Mali unveil a new constitution. ](/news/2012/03/28/2012-malian-coup-d-a-c-tat-coup-leaders-in-mali-unveil-a-new-constitution.md)
@@ -41,7 +41,7 @@ Second generation Labor MP and new party leader Annastacia Palaszczuk has set he
 
 ##### China
 ### [Detained Chinese rights lawyer Gao Zhisheng is allowed a visit from family, for the first time in two years. ](/news/2012/03/28/detained-chinese-rights-lawyer-gao-zhisheng-is-allowed-a-visit-from-family-for-the-first-time-in-two-years.md)
-_Context: China, Gao Zhisheng_
+_Context: Gao Zhisheng, China_
 
 ## [Previous Day...](/news/2012/03/27/index.md)
 

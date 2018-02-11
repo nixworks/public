@@ -25,11 +25,11 @@ Kislyak emerged as a central figure in investigations into possible collusion be
 
 ##### Law of Poland
 ### [Poles march against a bill that critics say might decrease judicial independence in Poland. Hungary has supported the bill while the European Union has opposed it. The protesters hope that the President Andrzej Duda would intervene against the proposed law. ](/news/2017/07/22/poles-march-against-a-bill-that-critics-say-might-decrease-judicial-independence-in-poland-hungary-has-supported-the-bill-while-the-europea.md)
-_Context: Law of Poland, European Union, Polish President, Poles, Polish, Hungary, Andrzej Duda_
+_Context: Hungary, European Union, Law of Poland, Polish, Polish President, Andrzej Duda, Poles_
 
 ##### East Timorese parliamentary election, 2017
 ### [Voters in East Timor go to the polls to elect members of their National Parliament. ](/news/2017/07/22/voters-in-east-timor-go-to-the-polls-to-elect-members-of-their-national-parliament.md)
-_Context: East Timor, National Parliament, East Timorese parliamentary election, 2017_
+_Context: National Parliament, East Timorese parliamentary election, 2017, East Timor_
 
 ##### Martial law
 ### [After seven hours of debate, the joint special session of the Congress of the Philippines votes 261-18 in favour of the motion to extend Proclamation No. 216 (martial law on the whole of Mindanao in response to the Marawi crisis), that was set to expire 10 PM Philippine Standard Time, until the end of the year. ](/news/2017/07/22/after-seven-hours-of-debate-the-joint-special-session-of-the-congress-of-the-philippines-votes-261a18-in-favour-of-the-motion-to-extend-p.md)

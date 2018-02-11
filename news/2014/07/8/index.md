@@ -13,11 +13,11 @@ The Taliban claimed responsibility for a suicide attack Tuesday in central Afgha
 
 ##### War in Somalia (2009-present)
 ### [Al-Shabaab Islamic militants storm the presidential palace in Mogadishu with heavy gunfire as government troops try to repel them. ](/news/2014/07/8/al-shabaab-islamic-militants-storm-the-presidential-palace-in-mogadishu-with-heavy-gunfire-as-government-troops-try-to-repel-them.md)
-_Context: Mogadishu, President, War in Somalia (2009-present), Al-Shabaab_
+_Context: President, War in Somalia (2009-present), Mogadishu, Al-Shabaab_
 
 ##### Typhoon Neoguri
 ### [Typhoon Neoguri heads towards the southern Japanese island of Okinawa with 100,000 on the island and adjacent islands urged to evacuate. ](/news/2014/07/8/typhoon-neoguri-heads-towards-the-southern-japanese-island-of-okinawa-with-100-000-on-the-island-and-adjacent-islands-urged-to-evacuate.md)
-_Context: Japan, Typhoon Neoguri, Okinawa_
+_Context: Typhoon Neoguri, Okinawa, Japan_
 
 ##### South Africa
 ### [More than 50 people are injured after two trains collide near the South African city of Durban. ](/news/2014/07/8/more-than-50-people-are-injured-after-two-trains-collide-near-the-south-african-city-of-durban.md)
@@ -45,7 +45,7 @@ _Context: pro-US, Taiwan provincial_
 
 ##### Several spending scandals
 ### [Amidst several spending scandals, the French major opposition party Union for a Popular Movement is discovered to have an hidden debt of EUR79.1 millions for the year 2013 ](/news/2014/07/8/amidst-several-spending-scandals-the-french-major-opposition-party-union-for-a-popular-movement-is-discovered-to-have-an-hidden-debt-of-a.md)
-_Context: UMP, several spending scandals_
+_Context: several spending scandals, UMP_
 
 ## [Previous Day...](/news/2014/07/7/index.md)
 

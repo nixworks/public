@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/05/14/the-idf-killed-elias-al-ashkar-the-senior-islam
 
 ### [2006-05-14](/news/2006/05/14/index.md)
 
-##### Israel Defense Forces
+##### Israeli Army
 #  The IDF killed Elias al-Ashkar, the senior Islamic Jihad commander in the Jenin area who was accused of planning several suicide attacks that killed nearly 30 people, including US high-school student Daniel Wultz. Six other Palestinians were also killed. 
 
 Things to do in Miami
@@ -25,8 +25,8 @@ Things to do in Miami
 
 ### Related:
 
-1. [The IDF destroys a partly-completed tunnel from the Gaza Strip border near the town of Khan Yunis that crossed into Israeli territory, killing seven Hamas militants. Several more died in the rescue efforts. ](/news/2017/10/30/the-idf-destroys-a-partly-completed-tunnel-from-the-gaza-strip-border-near-the-town-of-khan-yunis-that-crossed-into-israeli-territory-killi.md) _Context: Hamas, Israel Defense Forces_
-2. [Israeli forces kill 2 Palestinian militants of the al-Quds Brigades of the Islamic Jihad who were planting an explosive device to be used against an Israeli patrol near the border in the southern Gaza Strip. ](/news/2010/12/26/israeli-forces-kill-2-palestinian-militants-of-the-al-quds-brigades-of-the-islamic-jihad-who-were-planting-an-explosive-device-to-be-used-ag.md) _Context: Hamas, Israel Defense Forces_
-3. [An Islamic Jihad terrorist is killed when three men who approached an Israeli security fence from the Gaza Strip are fired upon by Israel Defense Forces tanks. ](/news/2010/10/27/an-islamic-jihad-terrorist-is-killed-when-three-men-who-approached-an-israeli-security-fence-from-the-gaza-strip-are-fired-upon-by-israel-de.md) _Context: Hamas, Israel Defense Forces_
-4. [ Israeli Defense Forces and Hamas and Islamic Jihad militants battle in Sheikh Ajleen, a suburb of Gaza City. ](/news/2009/01/11/israeli-defense-forces-and-hamas-and-islamic-jihad-militants-battle-in-sheikh-ajleen-a-suburb-of-gaza-city.md) _Context: Hamas, Israel Defense Forces_
-5. [ The Palestinian Journalist Syndicate criticizes Islamic Jihad militants for using a vehicle marked with a "TV" sign to approach Gaza's frontier border with Israel in an attempt to kidnap an Israel Defense Forces soldier from a position across the border. ](/news/2007/06/10/the-palestinian-journalist-syndicate-criticizes-islamic-jihad-militants-for-using-a-vehicle-marked-with-a-tv-sign-to-approach-gaza-s-fron.md) _Context: Hamas, Israel Defense Forces_
+1. [The IDF destroys a partly-completed tunnel from the Gaza Strip border near the town of Khan Yunis that crossed into Israeli territory, killing seven Hamas militants. Several more died in the rescue efforts. ](/news/2017/10/30/the-idf-destroys-a-partly-completed-tunnel-from-the-gaza-strip-border-near-the-town-of-khan-yunis-that-crossed-into-israeli-territory-killi.md) _Context: Hamas, Israeli Army_
+2. [Israeli forces kill 2 Palestinian militants of the al-Quds Brigades of the Islamic Jihad who were planting an explosive device to be used against an Israeli patrol near the border in the southern Gaza Strip. ](/news/2010/12/26/israeli-forces-kill-2-palestinian-militants-of-the-al-quds-brigades-of-the-islamic-jihad-who-were-planting-an-explosive-device-to-be-used-ag.md) _Context: Hamas, Israeli Army_
+3. [An Islamic Jihad terrorist is killed when three men who approached an Israeli security fence from the Gaza Strip are fired upon by Israel Defense Forces tanks. ](/news/2010/10/27/an-islamic-jihad-terrorist-is-killed-when-three-men-who-approached-an-israeli-security-fence-from-the-gaza-strip-are-fired-upon-by-israel-de.md) _Context: Hamas, Israeli Army_
+4. [ Israeli Defense Forces and Hamas and Islamic Jihad militants battle in Sheikh Ajleen, a suburb of Gaza City. ](/news/2009/01/11/israeli-defense-forces-and-hamas-and-islamic-jihad-militants-battle-in-sheikh-ajleen-a-suburb-of-gaza-city.md) _Context: Hamas, Israeli Army_
+5. [ The Palestinian Journalist Syndicate criticizes Islamic Jihad militants for using a vehicle marked with a "TV" sign to approach Gaza's frontier border with Israel in an attempt to kidnap an Israel Defense Forces soldier from a position across the border. ](/news/2007/06/10/the-palestinian-journalist-syndicate-criticizes-islamic-jihad-militants-for-using-a-vehicle-marked-with-a-tv-sign-to-approach-gaza-s-fron.md) _Context: Hamas, Israeli Army_

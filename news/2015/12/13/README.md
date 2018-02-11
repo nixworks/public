@@ -9,11 +9,11 @@ Sectarian outfit Lashkar-e-Jhangvi al-Alami claims responsibility for the attack
 
 ##### Syrian Civil War
 ### [Syrian rebels fire volleys of mortar shells into Damascus, killing three people and wounding at least 30. Government forces respond with airstrikes into rebel-controlled Douma, just northeast of the capital, and surface-to-surface missiles into Eastern Ghouta and Saqba, that kill at least 35 people and injure many more, according to the Syrian Observatory for Human Rights. ](/news/2015/12/13/syrian-rebels-fire-volleys-of-mortar-shells-into-damascus-killing-three-people-and-wounding-at-least-30-government-forces-respond-with-air.md)
-_Context: Saqba, airstrike, Syrian Civil War, Ghouta, Damascus, Syria, Douma, surface-to-surface missile, Syrian Observatory for Human Rights, Mortar, Syrian opposition_
+_Context: Damascus, Syrian Observatory for Human Rights, Mortar, Syrian opposition, Douma, airstrike, Saqba, Ghouta, surface-to-surface missile, Syria, Syrian Civil War_
 
 ##### ISIL
 ### [Israel says an Arab-Israeli man who served in the Israel Defense Forces (IDF) has joined Islamic State militants in Syria. ](/news/2015/12/13/israel-says-an-arab-israeli-man-who-served-in-the-israel-defense-forces-idf-has-joined-islamic-state-militants-in-syria.md)
-_Context: Arab citizen, Israel, Syria, ISIL, Israel Defense Forces_
+_Context: Israeli Army, Syria, Arab citizen, ISIL, Israel_
 
 ##### 2015 Burundian unrest
 ### [The U.S. State Department issues a travel advisory for Burundi and advises its citizens there to leave as soon as possible due to the increased violence in the capital Bujumbura where 87 people were killed this weekend. Families of U.S. government personnel and non-emergency personnel have been ordered to leave immediately. ](/news/2015/12/13/the-u-s-state-department-issues-a-travel-advisory-for-burundi-and-advises-its-citizens-there-to-leave-as-soon-as-possible-due-to-the-increa.md)
@@ -25,7 +25,7 @@ The Air Force struck two Hamas infrastructure targets in Gaza overnight in react
 
 ##### Louisa Johnson
 ### [Louisa Johnson wins The X Factor after beating Ghanaian duo Reggie N Bollie, becoming the show's youngest ever winner at the age of 17. her cover of Bob Dylan's 1974 track "Forever Young" released after she won.](/news/2015/12/13/louisa-johnson-wins-the-x-factor-after-beating-ghanaian-duo-reggie-n-bollie-becoming-the-show-s-youngest-ever-winner-at-the-age-of-17-her.md)
-_Context: "Forever Young", The X Factor, Louisa Johnson_
+_Context: Louisa Johnson, The X Factor, "Forever Young"_
 
 ##### Psychiatric hospital
 ### [At least 23 patients are killed and 23 injured in a psychiatric hospital fire in the Voronezh Oblast in western Russia. The remaining 24 patients were safely evacuated. ](/news/2015/12/13/at-least-23-patients-are-killed-and-23-injured-in-a-psychiatric-hospital-fire-in-the-voronezh-oblast-in-western-russia-the-remaining-24-pat.md)

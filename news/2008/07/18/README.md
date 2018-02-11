@@ -9,7 +9,7 @@ The investigation found that people awaiting trial at the Cook County Jail have 
 
 ##### Cambodia
 ### [ A Cambodian general states that a border stand off between Cambodia and Thailand came close to a shootout last night over land near the World Heritage nominated Prasat Preah Vihear temple. ](/news/2008/07/18/a-cambodian-general-states-that-a-border-stand-off-between-cambodia-and-thailand-came-close-to-a-shootout-last-night-over-land-near-the-wor.md)
-_Context: Prasat Preah Vihear, Thailand, Cambodia, World Heritage, exchange gunfire, temple_
+_Context: Cambodia, Prasat Preah Vihear, temple, World Heritage, Thailand, exchange gunfire_
 
 ##### Albert II of Belgium
 ### [ King Albert II of Belgium rejects the resignation of Prime Minister Yves Leterme, as no compromise was reached on devolution to the regions. ](/news/2008/07/18/king-albert-ii-of-belgium-rejects-the-resignation-of-prime-minister-yves-leterme-as-no-compromise-was-reached-on-devolution-to-the-regions.md)

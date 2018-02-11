@@ -17,7 +17,7 @@ Additional rules may be needed to monitor growth in Big Data, or collection of h
 
 ##### Beijing
 ### [Companies shut down production in Beijing and cars are taken off the road after a red alert for smog is issued in northern China. Dozens of cities have closed schools due to the smog. ](/news/2016/12/19/companies-shut-down-production-in-beijing-and-cars-are-taken-off-the-road-after-a-red-alert-for-smog-is-issued-in-northern-china-dozens-of.md)
-_Context: northern China, Beijing_
+_Context: Beijing, northern China_
 
 ##### Polish
 ### [Polish protesters block the parliament in order to prevent the possibility of legalizing restrictions on press freedom. ](/news/2016/12/19/polish-protesters-block-the-parliament-in-order-to-prevent-the-possibility-of-legalizing-restrictions-on-press-freedom.md)
@@ -37,7 +37,7 @@ Electors across the country met on Monday and officially gave Mr. Trump a majori
 
 ##### ALPHA
 ### [ALPHA, a CERN experiment, has observed for the first time the spectrum of antihydrogen. ](/news/2016/12/19/alpha-a-cern-experiment-has-observed-for-the-first-time-the-spectrum-of-antihydrogen.md)
-_Context: ALPHA, CERN, spectrum, antihydrogen_
+_Context: antihydrogen, ALPHA, spectrum, CERN_
 
 ## [Previous Day...](/news/2016/12/18/index.md)
 

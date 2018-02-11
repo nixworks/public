@@ -21,7 +21,7 @@ UN troops in DR Congo launch an offensive on M23 rebels after shelling on Goma k
 
 ##### Israel
 ### [Israeli warplanes strike Na'ameh, Lebanon in response to rocket attacks. ](/news/2013/08/23/israeli-warplanes-strike-na-ameh-lebanon-in-response-to-rocket-attacks.md)
-_Context: Israel, Lebanese, Na'ameh_
+_Context: Na'ameh, Lebanese, Israel_
 
 ##### Cyrene, Libya
 ### [Real estate developers are reported to have severely damaged the UNESCO world heritage site of Cyrene, Libya. ](/news/2013/08/23/real-estate-developers-are-reported-to-have-severely-damaged-the-unesco-world-heritage-site-of-cyrene-libya.md)
@@ -29,11 +29,11 @@ _Context: Israel, Lebanese, Na'ameh_
 
 ##### Microsoft
 ### [Microsoft CEO Steve Ballmer announces that he will retire within the next 12 months. ](/news/2013/08/23/microsoft-ceo-steve-ballmer-announces-that-he-will-retire-within-the-next-12-months.md)
-_Context: Microsoft, Steve Ballmer_
+_Context: Steve Ballmer, Microsoft_
 
 ##### Nidal Malik Hassan
 ### [Former U.S. Army Major Nidal Malik Hassan is convicted of multiple murder and attempted murder counts in the 2009 Fort Hood shooting. ](/news/2013/08/23/former-u-s-army-major-nidal-malik-hassan-is-convicted-of-multiple-murder-and-attempted-murder-counts-in-the-2009-fort-hood-shooting.md)
-_Context: Fort Hood massacre, Nidal Malik Hassan_
+_Context: Nidal Malik Hassan, Fort Hood massacre_
 
 ##### Robert Bales
 ### [Former U.S. Army Sergeant Robert Bales is sentenced to life in prison without parole for the killing of 16 Afghan civilians in March 2012. ](/news/2013/08/23/former-u-s-army-sergeant-robert-bales-is-sentenced-to-life-in-prison-without-parole-for-the-killing-of-16-afghan-civilians-in-march-2012.md)

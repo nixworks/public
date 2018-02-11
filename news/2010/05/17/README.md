@@ -21,7 +21,7 @@ _Context: Kunduz, Afghanistan, crashes, Pamir Airways, Kabul_
 
 ##### Suicide
 ### [Six people are attacked with a meat cleaver before the assailant commits suicide at a market in Foshan, China. ](/news/2010/05/17/six-people-are-attacked-with-a-meat-cleaver-before-the-assailant-commits-suicide-at-a-market-in-foshan-china.md)
-_Context: suicide, China, Foshan_
+_Context: suicide, Foshan, China_
 
 ##### Brazil
 ### [Brazil, Iran and Turkey agree on a nuclear fuel swap aimed at easing concerns from the West that Iran might building a bomb. ](/news/2010/05/17/brazil-iran-and-turkey-agree-on-a-nuclear-fuel-swap-aimed-at-easing-concerns-from-the-west-that-iran-might-building-a-bomb.md)

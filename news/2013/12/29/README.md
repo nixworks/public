@@ -33,7 +33,7 @@ Thousands of people in eastern El Salvador are leaving their homes as the Chapar
 
 ##### Saudi Arabia
 ### [Saudi Arabia pledges US$3 billion to Lebanon to help strengthen their military. ](/news/2013/12/29/saudi-arabia-pledges-us-3-billion-to-lebanon-to-help-strengthen-their-military.md)
-_Context: Lebanese, Saudi Arabia, military_
+_Context: military, Saudi Arabia, Lebanese_
 
 ## [Previous Day...](/news/2013/12/28/index.md)
 

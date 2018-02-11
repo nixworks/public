@@ -5,7 +5,7 @@ Formats: [HTML](2017/04/28/index.html)  [JSON](2017/04/28/index.json)  [XML](201
 
 ##### Earthquake
 ### [A 6.8 earthquake strikes off the coast of Mindanao, Philippines triggering tsunami warnings. ](/news/2017/04/28/a-6-8-earthquake-strikes-off-the-coast-of-mindanao-philippines-triggering-tsunami-warnings.md)
-_Context: Mindanao, earthquake, Philippines, tsunami_
+_Context: Philippines, tsunami, earthquake, Mindanao_
 
 ##### Western Sahara conflict
 ### [The United Nations Security Council extends the MINURSO mission for another year and attempts to restart Western Sahara peace process negotiations after both sides retracted their military from a standoff position in Guerguerat, near the border with Mauritania. ](/news/2017/04/28/the-united-nations-security-council-extends-the-minurso-mission-for-another-year-and-attempts-to-restart-western-sahara-peace-process-negoti.md)
@@ -25,7 +25,7 @@ _Context: Ilir Meta, parliament, President of Albania, Albanian presidential ele
 
 ##### Accession of Montenegro to NATO
 ### [The Parliament of Montenegro votes 46-0 to ratify Montenegro's membership of NATO, while opposition politicians boycott the vote and hold protests. ](/news/2017/04/28/the-parliament-of-montenegro-votes-46a0-to-ratify-montenegro-s-membership-of-nato-while-opposition-politicians-boycott-the-vote-and-hold.md)
-_Context: Montenegro, membership, Accession of Montenegro to NATO, Parliament of Montenegro, NATO_
+_Context: Montenegro, NATO, membership, Parliament of Montenegro, Accession of Montenegro to NATO_
 
 ##### Re-elected
 ### [The first six-man televised debate is held, which focused mostly on social issues. ](/news/2017/04/28/the-first-six-man-televised-debate-is-held-which-focused-mostly-on-social-issues.md)
@@ -41,7 +41,7 @@ _Context: general strike, Brazil_
 
 ##### Georgia's 6th congressional district special election, 2017
 ### [In a meeting for the NRA, U.S. president Donald Trump criticizes Democratic candidate Jon Ossoff. ](/news/2017/04/28/in-a-meeting-for-the-nra-u-s-president-donald-trump-criticizes-democratic-candidate-jon-ossoff.md)
-_Context: Georgia's 6th congressional district special election, 2017, Jon Ossoff, Donald Trump, NRA_
+_Context: Jon Ossoff, Georgia's 6th congressional district special election, 2017, NRA, Donald Trump_
 
 ## [Previous Day...](/news/2017/04/27/index.md)
 

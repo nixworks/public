@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/24/israeli-soldiers-fire-an-anti-tank-missile-at-a
 
 ### [2013-03-24](/news/2013/03/24/index.md)
 
-##### Israel Defense Forces
+##### Israeli Army
 # Israeli soldiers fire an anti-tank missile at a Syrian Army post after coming under fire for the second time in 12 hours in the Golan Heights area. 
 
 Syrian outpost completely destroyed, leaving two wounded; defense minister warns of no-tolerance approach to attacks
@@ -23,8 +23,8 @@ Syrian outpost completely destroyed, leaving two wounded; defense minister warns
 
 ### Related:
 
-1. [Israel's military attacks two Syrian Army targets in Syrian territory from the Golan Heights after a fire from the fighting damages a security fence on the border. ](/news/2016/07/4/israel-s-military-attacks-two-syrian-army-targets-in-syrian-territory-from-the-golan-heights-after-a-fire-from-the-fighting-damages-a-securi.md) _Context: Golan Heights, Israel Defense Forces, Syrian Army_
+1. [Israel's military attacks two Syrian Army targets in Syrian territory from the Golan Heights after a fire from the fighting damages a security fence on the border. ](/news/2016/07/4/israel-s-military-attacks-two-syrian-army-targets-in-syrian-territory-from-the-golan-heights-after-a-fire-from-the-fighting-damages-a-securi.md) _Context: Golan Heights, Israeli Army, Syrian Army_
 2. [Israel strikes two Syrian Army artillery positions and an ammunition truck in Quneitra Governorate, after stray shells from Syria land in the northern Golan Heights for a second day in a row. ](/news/2017/06/25/israel-strikes-two-syrian-army-artillery-positions-and-an-ammunition-truck-in-quneitra-governorate-after-stray-shells-from-syria-land-in-th.md) _Context: Golan Heights, Syrian Army_
-3. [The Syrian Army shoots down an Israel Defense Forces (IDF) Skylark drone over Syria's Quneitra Governorate. ](/news/2017/03/20/the-syrian-army-shoots-down-an-israel-defense-forces-idf-skylark-drone-over-syria-s-quneitra-governorate.md) _Context: Israel Defense Forces, Syrian Army_
-4. [Syria reports its air defense shot down an Israeli warplane that attacked a Syrian army position in al-Quneitra, near the Israeli-occupied Golan Heights. The Israel Defense Forces say that missiles were fired at their aircraft but none hit. ](/news/2016/09/13/syria-reports-its-air-defense-shot-down-an-israeli-warplane-that-attacked-a-syrian-army-position-in-al-quneitra-near-the-israeli-occupied-g.md) _Context: Golan Heights, Israel Defense Forces_
+3. [The Syrian Army shoots down an Israel Defense Forces (IDF) Skylark drone over Syria's Quneitra Governorate. ](/news/2017/03/20/the-syrian-army-shoots-down-an-israel-defense-forces-idf-skylark-drone-over-syria-s-quneitra-governorate.md) _Context: Israeli Army, Syrian Army_
+4. [Syria reports its air defense shot down an Israeli warplane that attacked a Syrian army position in al-Quneitra, near the Israeli-occupied Golan Heights. The Israel Defense Forces say that missiles were fired at their aircraft but none hit. ](/news/2016/09/13/syria-reports-its-air-defense-shot-down-an-israeli-warplane-that-attacked-a-syrian-army-position-in-al-quneitra-near-the-israeli-occupied-g.md) _Context: Golan Heights, Israeli Army_
 5. [A second mortar shell from Syria has been fired at an Israeli military outpost in the Golan Heights, after a similar incident the day before. The Israel Defence Forces have responded with tank fire at the source of the bombardment, scoring several direct hits on artillery units belonging to the Syrian Army. ](/news/2012/11/12/a-second-mortar-shell-from-syria-has-been-fired-at-an-israeli-military-outpost-in-the-golan-heights-after-a-similar-incident-the-day-before.md) _Context: Golan Heights, Syrian Army_

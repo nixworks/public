@@ -25,19 +25,19 @@ Ms. Funicello won America’s heart on television in “The Mickey Mouse Club”
 
 ##### Spain
 ### [Spanish actress and singer Sara Montiel dies in her Madrid residence at the age of 85. ](/news/2013/04/8/spanish-actress-and-singer-sara-montiel-dies-in-her-madrid-residence-at-the-age-of-85.md)
-_Context: Madrid, Spain, Sara Montiel_
+_Context: Madrid, Sara Montiel, Spain_
 
 ##### China
 ### [Chinese President Xi Jinping opens the Boao Forum for Asia in Boao, Hainan, by calling on entrepreneurs to form a united voice and vision for the common development of Asia. ](/news/2013/04/8/chinese-president-xi-jinping-opens-the-boao-forum-for-asia-in-boao-hainan-by-calling-on-entrepreneurs-to-form-a-united-voice-and-vision-fo.md)
-_Context: entrepreneur, Chinese President, Boao, China, Boao Forum for Asia, Xi Jinping, Asia, Hainan_
+_Context: Boao Forum for Asia, Hainan, China, Chinese President, entrepreneur, Xi Jinping, Boao, Asia_
 
 ##### Australia
 ### [Australian Prime Minister Julia Gillard, on a trip to Shanghai, China, announces that the Australian dollar is set to trade directly with the Chinese yuan, becoming the third currency to do so. ](/news/2013/04/8/australian-prime-minister-julia-gillard-on-a-trip-to-shanghai-china-announces-that-the-australian-dollar-is-set-to-trade-directly-with-th.md)
-_Context: Julia Gillard, yuan, China, Australia, A$, Shanghai, currency, Australia-China relations, Australian Prime Minister_
+_Context: Shanghai, Australia, A$, Julia Gillard, currency, Australian Prime Minister, Australia-China relations, yuan, China_
 
 ##### Caribou Coffee
 ### [Caribou Coffee announces plans to close all of its stores in the Chicago area. ](/news/2013/04/8/caribou-coffee-announces-plans-to-close-all-of-its-stores-in-the-chicago-area.md)
-_Context: Caribou Coffee, Chicago_
+_Context: Chicago, Caribou Coffee_
 
 ##### South Korea
 ### [A senior South Korean government official says that North Korea may be preparing for its fourth nuclear test, as increased activity is detected at its main test site. However, the South Korean Defence Ministry denied having clear signs that the test may be imminent. ](/news/2013/04/8/a-senior-south-korean-government-official-says-that-north-korea-may-be-preparing-for-its-fourth-nuclear-test-as-increased-activity-is-detec.md)
@@ -47,7 +47,7 @@ North Korea may be preparing for a fourth nuclear test, with stepped up activity
 ### [Wikileaks announces the release of 1.7 million United States diplomatic and intelligence documents from 1973-1976 when Henry Kissinger was United States Secretary of State. ](/news/2013/04/8/wikileaks-announces-the-release-of-1-7-million-united-states-diplomatic-and-intelligence-documents-from-1973a1976-when-henry-kissinger-was.md)
 The website Wikileaks publishes more than 1.7 million US diplomatic and intelligence reports from the 1970s, including first impressions of eventual British PM Margaret Thatcher.
 
-##### United States
+##### American
 ### [United States Secretary of State John Kerry meets Palestinian Authority President Mahmoud Abbas in Ramallah and urges him to restart peace talks, before holding talks with the Israeli Prime Minister Benjamin Netanyahu. ](/news/2013/04/8/united-states-secretary-of-state-john-kerry-meets-palestinian-authority-president-mahmoud-abbas-in-ramallah-and-urges-him-to-restart-peace-t.md)
 US secretary of state meets Palestinian Authority president in Ramallah and is due to hold talks with Israeli PM.
 
@@ -69,7 +69,7 @@ Forensic experts in Chile are exhuming the remains of poet Pablo Neruda to deter
 
 ##### Pakistan
 ### [Pakistan's former leader Pervez Musharraf is directed to appear before the country's Supreme Court on allegations of treason. ](/news/2013/04/8/pakistan-s-former-leader-pervez-musharraf-is-directed-to-appear-before-the-country-s-supreme-court-on-allegations-of-treason.md)
-_Context: treason, president, Supreme Court, Pakistan, Pervez Musharraf_
+_Context: Pervez Musharraf, Supreme Court, president, Pakistan, treason_
 
 ##### Margaret Thatcher
 ### [Margaret Thatcher, former British Prime Minister, dies of a stroke at the age of 87 in London. ](/news/2013/04/8/margaret-thatcher-former-british-prime-minister-dies-of-a-stroke-at-the-age-of-87-in-london.md)
@@ -77,7 +77,7 @@ The first woman to be UK prime minister, Baroness Thatcher, has died at the age 
 
 ##### Bangladesh
 ### [Bangladesh Prime Minister Sheikh Hasina rejects demands by Islamists for a new anti-blasphemy law to punish those who defame Islam and Prophet Muhammad. ](/news/2013/04/8/bangladesh-prime-minister-sheikh-hasina-rejects-demands-by-islamists-for-a-new-anti-blasphemy-law-to-punish-those-who-defame-islam-and-proph.md)
-_Context: Prime Minister, Islam, Sheikh Hasina, Bangladesh, Prophet Muhammad, blasphemy, Islamists_
+_Context: Islamists, Prophet Muhammad, Islam, Sheikh Hasina, Bangladesh, Prime Minister, blasphemy_
 
 ##### Filip Vujanovic
 ### [Electoral Commission chairman announces that Filip Vujanovic is re-elected as President of Montenegro. ](/news/2013/04/8/electoral-commission-chairman-announces-that-filip-vujanovia-is-re-elected-as-president-of-montenegro.md)

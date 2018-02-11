@@ -15,7 +15,7 @@ North Korea says it will use its &quot;nuclear deterrent&quot; in response to jo
 ### [One person is killed and 42 injured after a Swiss tourist train derails in the Alps. ](/news/2010/07/23/one-person-is-killed-and-42-injured-after-a-swiss-tourist-train-derails-in-the-alps.md)
 _Context: Alps, Switzerland_
 
-##### Israel Defense Forces
+##### Israeli Army
 ### [Israel Defense Forces soldiers kill a Palestinian man attempting to enter the Israeli settlement of Barkan. ](/news/2010/07/23/israel-defense-forces-soldiers-kill-a-palestinian-man-attempting-to-enter-the-israeli-settlement-of-barkan.md)
 A Palestinian man has been shot dead by Israeli troops after entering a Jewish settlement in the West Bank.
 
@@ -33,7 +33,7 @@ A lawsuit between two film companies over the rights to the film Oscar-winning f
 
 ##### Diocese of Rome
 ### [The Diocese of Rome criticises homosexual priests, accusing them of leading a "double life" and advising them to leave the priesthood. ](/news/2010/07/23/the-diocese-of-rome-criticises-homosexual-priests-accusing-them-of-leading-a-double-life-and-advising-them-to-leave-the-priesthood.md)
-_Context: homosexual, Diocese of Rome_
+_Context: Diocese of Rome, homosexual_
 
 ##### Billy Corgan
 ### [Singer Billy Corgan collapses during a performance of "Bullet with Butterfly Wings" in the United States. ](/news/2010/07/23/singer-billy-corgan-collapses-during-a-performance-of-bullet-with-butterfly-wings-in-the-united-states.md)
@@ -41,7 +41,7 @@ The Smashing Pumpkins frontman Billy Corgan collapses onstage during a gig in Fl
 
 ##### Black Swan
 ### ["Black Swan" is announced as the opening film of the 67th Venice International Film Festival. ](/news/2010/07/23/black-swan-is-announced-as-the-opening-film-of-the-67th-venice-international-film-festival.md)
-_Context: Black Swan, 67th Venice International Film Festival_
+_Context: 67th Venice International Film Festival, Black Swan_
 
 ##### One Direction
 ### [The British-Irish boy band, One Direction, is formed in the 7th series of the television show, X Factor UK ](/news/2010/07/23/the-british-irish-boy-band-one-direction-is-formed-in-the-7th-series-of-the-television-show-x-factor-uk.md)
@@ -49,11 +49,11 @@ _Context: One Direction_
 
 ##### Deepwater Horizon
 ### [Alarms on the "Deepwater Horizon" oil rig are found to have been disabled before the explosion and subsequent oil spill in the Gulf of Mexico. ](/news/2010/07/23/alarms-on-the-deepwater-horizon-oil-rig-are-found-to-have-been-disabled-before-the-explosion-and-subsequent-oil-spill-in-the-gulf-of-mexic.md)
-_Context: Gulf of Mexico, Deepwater Horizon, explosion, Deepwater Horizon oil spill_
+_Context: Deepwater Horizon oil spill, Gulf of Mexico, explosion, Deepwater Horizon_
 
 ##### Serbia
 ### [Serbia states its intention to never recognize Kosovo's independence after International Court of Justice's yesterday ruling. ](/news/2010/07/23/serbia-states-its-intention-to-never-recognize-kosovo-s-independence-after-international-court-of-justice-s-yesterday-ruling.md)
-_Context: yesterday ruling, International Court of Justice, Kosovo, Serbia, Kosovo_
+_Context: Serbia, yesterday ruling, Kosovo, International Court of Justice, Kosovo_
 
 ##### Venezuela
 ### [Venezuela severs diplomatic relations with Colombia after Colombia claims Venezuela is a "haven for guerrillas". ](/news/2010/07/23/venezuela-severs-diplomatic-relations-with-colombia-after-colombia-claims-venezuela-is-a-haven-for-guerrillas.md)
@@ -77,7 +77,7 @@ A former Pennsylvania judge pleads guilty to a charge of racketeering conspiracy
 
 ##### China
 ### [China sentences an Uyghur journalist who spoke to foreign media after riots in Xinjiang last year to 15 years imprisonment. ](/news/2010/07/23/china-sentences-an-uyghur-journalist-who-spoke-to-foreign-media-after-riots-in-xinjiang-last-year-to-15-years-imprisonment.md)
-_Context: Xinjiang, China, ethnic riots, Uyghur_
+_Context: Xinjiang, Uyghur, China, ethnic riots_
 
 ##### U.S. state
 ### [A court in the U.S. state of Arizona listens to challenges to the state's policy against illegal immigrants. ](/news/2010/07/23/a-court-in-the-u-s-state-of-arizona-listens-to-challenges-to-the-state-s-policy-against-illegal-immigrants.md)
@@ -113,7 +113,7 @@ Dissident Ariel Sigler released as part of deal between church and Cuban governm
 
 ##### President
 ### [President of Iran Mahmoud Ahmadinejad announces plans to launch a manned shuttle into space by 2019. ](/news/2010/07/23/president-of-iran-mahmoud-ahmadinejad-announces-plans-to-launch-a-manned-shuttle-into-space-by-2019.md)
-_Context: Iran, Mahmoud Ahmadinejad, President_
+_Context: Mahmoud Ahmadinejad, Iran, President_
 
 ##### IPad
 ### [The Indian government unveils a solar power touch-screen laptop, cheaper than America's iPad, expected to be on sale next year. ](/news/2010/07/23/the-indian-government-unveils-a-solar-power-touch-screen-laptop-cheaper-than-america-s-ipad-expected-to-be-on-sale-next-year.md)
@@ -129,7 +129,7 @@ Former Millwall, Bradford and Wycombe striker Gavin Grant is convicted of murder
 
 ##### Youth Olympic Games
 ### [The torch lighting ceremony for the first Youth Olympic Games, to be held in Singapore from August 14 to 26, is held in Olympia, Greece. ](/news/2010/07/23/the-torch-lighting-ceremony-for-the-first-youth-olympic-games-to-be-held-in-singapore-from-august-14-to-26-is-held-in-olympia-greece.md)
-_Context: Youth Olympic Games, Olympia, Greece_
+_Context: Olympia, Greece, Youth Olympic Games_
 
 ## [Previous Day...](/news/2010/07/22/index.md)
 

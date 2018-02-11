@@ -11,7 +11,7 @@ A large protest in northwest Syria was the latest to turn deadly, as Syrian secu
 ### [Six people are killed and 15 injured by an explosion at a bus stand in Matni, northern Pakistan. ](/news/2011/06/5/six-people-are-killed-and-15-injured-by-an-explosion-at-a-bus-stand-in-matni-northern-pakistan.md)
 Six people were killed and 15 were injured from an explosion at a bus stand the northern Pakistani village of Matni, a police official said.
 
-##### Israel Defense Forces
+##### Israeli Army
 ### [Israeli forces fire on pro-Palestinian protesters attempting to breach the Syrian-Israeli border in the Golan Heights on Naksa Day, marking the anniversary of the 1967 Six Day War; Syrian sources claim that close to 20 people are killed and over 325 injured, while Israeli officials confirm at least 12 injures. ](/news/2011/06/5/israeli-forces-fire-on-pro-palestinian-protesters-attempting-to-breach-the-syrian-israeli-border-in-the-golan-heights-on-naksa-day-marking.md)
 Israel was accused of shooting dead as many as 20 protesters on Sunday after Palestinian refugees and their Syrian sympathisers massed in the occupied Golan Heights.
 
@@ -21,11 +21,11 @@ Two service members from the NATO-led force in Afghanistan were killed when a he
 
 ##### Kenya
 ### [Nearly 30 people are injured in an explosion in the Kenyan capital Nairobi. ](/news/2011/06/5/nearly-30-people-are-injured-in-an-explosion-in-the-kenyan-capital-nairobi.md)
-_Context: Kenya, Nairobi_
+_Context: Nairobi, Kenya_
 
 ##### Sudan
 ### [Fighting breaks out in Sudan's South Kordofan region. ](/news/2011/06/5/fighting-breaks-out-in-sudan-s-south-kordofan-region.md)
-_Context: Sudan, South Kordofan_
+_Context: South Kordofan, Sudan_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI celebrates Mass in the Croatian capital Zagreb. ](/news/2011/06/5/pope-benedict-xvi-celebrates-mass-in-the-croatian-capital-zagreb.md)
@@ -45,11 +45,11 @@ Hundreds of Vietnamese turn out in Hanoi and Ho Chi Minh City to protest against
 
 ##### Portugal
 ### [Voters in Portugal go to the polls for the Portuguese legislative election after months of a caretaker government and financial problems that led to a request for an international bailout - the opposition Social Democrats led by Pedro Passos Coelho won. ](/news/2011/06/5/voters-in-portugal-go-to-the-polls-for-the-portuguese-legislative-election-after-months-of-a-caretaker-government-and-financial-problems-tha.md)
-_Context: Social Democratic Party, Pedro Passos Coelho, Portugal, international bailout, Portuguese legislative election_
+_Context: Portugal, Pedro Passos Coelho, Portuguese legislative election, international bailout, Social Democratic Party_
 
 ##### Republic of Macedonia
 ### [Voters in the Republic of Macedonia go to the polls for parliamentary elections. ](/news/2011/06/5/voters-in-the-republic-of-macedonia-go-to-the-polls-for-parliamentary-elections.md)
-_Context: Republic of Macedonia, parliamentary elections_
+_Context: parliamentary elections, Republic of Macedonia_
 
 ##### Peru
 ### [Voters in Peru go to the polls for the second round of the Peruvian general election with Ollanta Humala claiming victory over Keiko Fujimori. ](/news/2011/06/5/voters-in-peru-go-to-the-polls-for-the-second-round-of-the-peruvian-general-election-with-ollanta-humala-claiming-victory-over-keiko-fujimor.md)

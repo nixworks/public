@@ -5,11 +5,11 @@ Formats: [HTML](2010/11/1/index.html)  [JSON](2010/11/1/index.json)  [XML](2010/
 
 ##### Afghanistan
 ### [Two Afghan women charity workers are shot dead. They were travelling between Lashkar Gah and Garmser, a volatile area in the Helmand River valley, when they were attacked. ](/news/2010/11/1/two-afghan-women-charity-workers-are-shot-dead-they-were-travelling-between-lashkar-gah-and-garmser-a-volatile-area-in-the-helmand-river-v.md)
-_Context: Afghanistan, Helmand River, Garmser, Lashkar Gah_
+_Context: Lashkar Gah, Garmser, Afghanistan, Helmand River_
 
 ##### Mogadishu
 ### [At least 12 people are killed in fighting in Mogadishu, Somalia, between pro-government forces, African Union troops and the Islamist militant al-Shabaab group. ](/news/2010/11/1/at-least-12-people-are-killed-in-fighting-in-mogadishu-somalia-between-pro-government-forces-african-union-troops-and-the-islamist-milita.md)
-_Context: Al-Shabaab, African Union, Islamist, Somalia, Mogadishu_
+_Context: Somalia, Islamist, Mogadishu, Al-Shabaab, African Union_
 
 ##### Gyles Mackrell
 ### [Photographs, diaries and footage of Gyles Mackrell's rescue of refugees from the Japanese invasion of Burma in World War II are made available. ](/news/2010/11/1/photographs-diaries-and-footage-of-gyles-mackrell-s-rescue-of-refugees-from-the-japanese-invasion-of-burma-in-world-war-ii-are-made-availab.md)
@@ -25,15 +25,15 @@ BAGHDAD - An al Qaeda attack that killed 52 hostages and police in a Catholic ch
 
 ##### Lashkar-e-Toiba
 ### [Four militants, including two from Lashkar-e-Toiba (LET), are killed in separate gun battles with security forces in Kupwara and Kulgam districts of Kashmir Valley, India. ](/news/2010/11/1/four-militants-including-two-from-lashkar-e-toiba-let-are-killed-in-separate-gun-battles-with-security-forces-in-kupwara-and-kulgam-dist.md)
-_Context: India, Kashmir Valley, Kupwara, Kulgam, Lashkar-e-Toiba_
+_Context: India, Kulgam, Kupwara, Lashkar-e-Toiba, Kashmir Valley_
 
-##### United States
+##### American
 ### [A United States drone attack kills six people in northwest Pakistan. ](/news/2010/11/1/a-united-states-drone-attack-kills-six-people-in-northwest-pakistan.md)
-_Context: United States, Pakistan, drone aircraft, drone attack_
+_Context: drone aircraft, Pakistan, American, drone attack_
 
 ##### Pakistan
 ### [A suicide bomber kills two Pakistani policemen and wounds 10 others as security forces try to stop him from walking into their local headquarters in Swabi, 100 kilometres northwest of Islamabad. ](/news/2010/11/1/a-suicide-bomber-kills-two-pakistani-policemen-and-wounds-10-others-as-security-forces-try-to-stop-him-from-walking-into-their-local-headqua.md)
-_Context: Swabi, Islamabad, Pakistan_
+_Context: Islamabad, Swabi, Pakistan_
 
 ##### Turkey
 ### [A Turkish film wins the Best Documentary award at the Thanet International Film Festival in the United Kingdom. ](/news/2010/11/1/a-turkish-film-wins-the-best-documentary-award-at-the-thanet-international-film-festival-in-the-united-kingdom.md)
@@ -45,7 +45,7 @@ China begins its first national census in 10 years as it tries to document its 1
 
 ##### India
 ### [India and China help boost Asian shares outside Japan by 1.7%. ](/news/2010/11/1/india-and-china-help-boost-asian-shares-outside-japan-by-1-7.md)
-_Context: India, Japan, China_
+_Context: China, India, Japan_
 
 ##### Ambac Financial Group
 ### [Ambac Financial Group announces that it may have to declare bankruptcy, though it is still in talks with its senior bondholders about a consensual rescheduling of its debts. Before the 2008 financial crisis, Ambac was one of the two dominant bond insurance companies. ](/news/2010/11/1/ambac-financial-group-announces-that-it-may-have-to-declare-bankruptcy-though-it-is-still-in-talks-with-its-senior-bondholders-about-a-cons.md)
@@ -61,7 +61,7 @@ _Context: Muri Ganga River, India, 50 people drown after a ferry-boat capsizes, 
 
 ##### India
 ### [16 people lose their lives in separate incidents due to rainfall in various parts of the district of India in Nakapalli, Elamanchili, Payakaraopeta, Vizag, Rambilli and in other parts of Andhra Pradesh. ](/news/2010/11/1/16-people-lose-their-lives-in-separate-incidents-due-to-rainfall-in-various-parts-of-the-district-of-india-in-nakapalli-elamanchili-payaka.md)
-_Context: Andhra Pradesh, Payakaraopeta, Elamanchili, Vizag, India, Nakapalli, Rambilli_
+_Context: Andhra Pradesh, Payakaraopeta, Nakapalli, Vizag, Elamanchili, Rambilli, India_
 
 ##### Schmalkalden
 ### [A large crater appears in the early hours in the central German town of Schmalkalden. ](/news/2010/11/1/a-large-crater-appears-in-the-early-hours-in-the-central-german-town-of-schmalkalden.md)
@@ -69,11 +69,11 @@ _Context: Schmalkalden_
 
 ##### Russian President
 ### [The President of Russia Dmitry Medvedev visits Kunashiri, one of the southern Kuril Islands that are the subject of the Kuril Islands dispute between Russia and Japan. ](/news/2010/11/1/the-president-of-russia-dmitry-medvedev-visits-kunashiri-one-of-the-southern-kuril-islands-that-are-the-subject-of-the-kuril-islands-disput.md)
-_Context: rival territorial claims, Japan, Dmitry Medvedev, Russia, Russian President, Kuril Islands, Kunashiri_
+_Context: Russia, Russian President, Japan, Dmitry Medvedev, Kuril Islands, Kunashiri, rival territorial claims_
 
 ##### Poachers
 ### [Three suspected ivory poachers are shot dead by rangers in Kenya in separate incidents. ](/news/2010/11/1/three-suspected-ivory-poachers-are-shot-dead-by-rangers-in-kenya-in-separate-incidents.md)
-_Context: poachers, Kenya_
+_Context: Kenya, poachers_
 
 ##### Uganda
 ### [A court in Uganda orders a newspaper to cease publishing the names and photographs of people it says are homosexual, following attacks on homosexuals in the past month. ](/news/2010/11/1/a-court-in-uganda-orders-a-newspaper-to-cease-publishing-the-names-and-photographs-of-people-it-says-are-homosexual-following-attacks-on-ho.md)
@@ -81,11 +81,11 @@ A judge in Uganda orders the local Rolling Stone newspaper to stop publishing th
 
 ##### Canadian government
 ### [The Government of Canada agrees to accept Canadian Omar Khadr, detained at Guantanamo Bay for the past eight years, after he serves a year of his sentence at the Guantanamo Bay detention camp. ](/news/2010/11/1/the-government-of-canada-agrees-to-accept-canadian-omar-khadr-detained-at-guantanamo-bay-for-the-past-eight-years-after-he-serves-a-year-o.md)
-_Context: detainee, Canadian government, Omar Khadr, Canadian_
+_Context: Omar Khadr, detainee, Canadian, Canadian government_
 
 ##### Go on sale
 ### [State media in Burma warn against a boycott of the general election on Sunday, with the government threatening jail time for those encouraging a boycott. ](/news/2010/11/1/state-media-in-burma-warn-against-a-boycott-of-the-general-election-on-sunday-with-the-government-threatening-jail-time-for-those-encouragi.md)
-_Context: Burma, go on sale, general elections_
+_Context: general elections, go on sale, Burma_
 
 ##### Dublin
 ### [While attempting to open a mental health care facility in Dublin, Irish Health Minister Mary Harney is pelted with red paint by an opposition politician highlighting the "blood budget" which "will result in the unnecessary and avoidable deaths of hundreds, if not thousands, of people over the coming years". Harney is overseeing hospital cuts of EUR1 billion. ](/news/2010/11/1/while-attempting-to-open-a-mental-health-care-facility-in-dublin-irish-health-minister-mary-harney-is-pelted-with-red-paint-by-an-oppositio.md)

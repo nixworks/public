@@ -25,7 +25,7 @@ BP chief Tony Hayward, widely criticised for his handling of the US oil spill, i
 
 ##### United States Secretary of the Treasury
 ### [United States Secretary of the Treasury Tim Geithner pushes for Congress to allow the tax cuts for high-income taxpayers in the Jobs and Growth Tax Relief Reconciliation Act of 2003 to expire at the end of 2010, while extending the act's tax cuts for middle- and lower-income taxpayers. ](/news/2010/07/25/united-states-secretary-of-the-treasury-tim-geithner-pushes-for-congress-to-allow-the-tax-cuts-for-high-income-taxpayers-in-the-jobs-and-gro.md)
-_Context: Tim Geithner, lawmakers, Jobs and Growth Tax Relief Reconciliation Act of 2003, United States Secretary of the Treasury_
+_Context: United States Secretary of the Treasury, lawmakers, Jobs and Growth Tax Relief Reconciliation Act of 2003, Tim Geithner_
 
 ##### Iraq Inquiry
 ### [Iraq Inquiry witness Carne Ross alleges the British government is covering up "embarrassing testimony" about its decision to invade Iraq in 2003. ](/news/2010/07/25/iraq-inquiry-witness-carne-ross-alleges-the-british-government-is-covering-up-embarrassing-testimony-about-its-decision-to-invade-iraq-in.md)
@@ -45,11 +45,11 @@ Former Cuban President Fidel Castro makes his first reported appearance outside 
 
 ##### Alberto Contador
 ### [Alberto Contador wins the 2010 Tour de France, his third, as seven-times winner Lance Armstrong makes his final appearance. ](/news/2010/07/25/alberto-contador-wins-the-2010-tour-de-france-his-third-as-seven-times-winner-lance-armstrong-makes-his-final-appearance.md)
-_Context: Lance Armstrong, Alberto Contador, 2010 Tour de France_
+_Context: 2010 Tour de France, Alberto Contador, Lance Armstrong_
 
 ##### Fernando Alonso
 ### [Fernando Alonso wins the German Grand Prix ahead of Ferrari team-mate Felipe Massa at Hockenheim. ](/news/2010/07/25/fernando-alonso-wins-the-german-grand-prix-ahead-of-ferrari-team-mate-felipe-massa-at-hockenheim.md)
-_Context: German Grand Prix, Fernando Alonso, Felipe Massa, Ferrari, Hockenheim_
+_Context: Hockenheim, Felipe Massa, German Grand Prix, Ferrari, Fernando Alonso_
 
 ## [Previous Day...](/news/2010/07/24/index.md)
 

@@ -21,7 +21,7 @@ Tens of thousands of people have been taken to a pro-government rally in Rangoon
 
 ##### Flood
 ### [ Flooding after several days of torrential rain kills at least 23 people in Haiti with the town of Cabaret being worst affected. ](/news/2007/10/13/flooding-after-several-days-of-torrential-rain-kills-at-least-23-people-in-haiti-with-the-town-of-cabaret-being-worst-affected.md)
-_Context: Flood, rain, Cabaret, Haiti_
+_Context: Haiti, Cabaret, Flood, rain_
 
 ## [Previous Day...](/news/2007/10/12/index.md)
 

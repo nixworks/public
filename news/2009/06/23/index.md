@@ -5,7 +5,7 @@ Formats: [HTML](2009/06/23/index.html)  [JSON](2009/06/23/index.json)  [XML](200
 
 ##### United Kingdom
 ### [ United Kingdom Commons speaker John Bercow breaks with tradition by abandoning the traditional court dress worn by his predecessor Michael Martin. ](/news/2009/06/23/united-kingdom-commons-speaker-john-bercow-breaks-with-tradition-by-abandoning-the-traditional-court-dress-worn-by-his-predecessor-michael.md)
-_Context: Michael Martin, John Bercow, British House of Commons, United Kingdom_
+_Context: John Bercow, British House of Commons, Michael Martin, United Kingdom_
 
 ##### Boeing Company
 ### [ Boeing delays the first test flight of its lightweight jet, the 787, because of stress found where the wings attach to the sides of the plane. ](/news/2009/06/23/boeing-delays-the-first-test-flight-of-its-lightweight-jet-the-787-because-of-stress-found-where-the-wings-attach-to-the-sides-of-the-pla.md)
@@ -13,7 +13,7 @@ Additional stress was found where the wings attach to the sides of the plane, bu
 
 ##### French National Assembly
 ### [ The French National Assembly announces the beginning of an inquiry into whether women in France should be allowed to wear the burqa. ](/news/2009/06/23/the-french-national-assembly-announces-the-beginning-of-an-inquiry-into-whether-women-in-france-should-be-allowed-to-wear-the-burqa.md)
-_Context: French National Assembly, burqa, France_
+_Context: France, French National Assembly, burqa_
 
 ##### Ukraine
 ### [ Ukraine sets 17 January 2010 as the date for the next presidential election said to be crucial for its future direction. ](/news/2009/06/23/ukraine-sets-17-january-2010-as-the-date-for-the-next-presidential-election-said-to-be-crucial-for-its-future-direction.md)
@@ -29,11 +29,11 @@ President McAleese has described recent racist attacks in Belfast as distressing
 
 ##### New York State
 ### [ In the New York State legislative deadlock, Senate Democrats lock themselves into the Senate chamber due to a refusal to accept Pedro Espada as Senate President. ](/news/2009/06/23/in-the-new-york-state-legislative-deadlock-senate-democrats-lock-themselves-into-the-senate-chamber-due-to-a-refusal-to-accept-pedro-espad.md)
-_Context: New York State, legislative deadlock, Pedro Espada_
+_Context: Pedro Espada, legislative deadlock, New York State_
 
 ##### Russia
 ### [ Russian President Dmitry Medvedev meets Egyptian President Hosni Mubarak in Cairo at the start of a four-day trip to Africa. ](/news/2009/06/23/russian-president-dmitry-medvedev-meets-egyptian-president-hosni-mubarak-in-cairo-at-the-start-of-a-four-day-trip-to-africa.md)
-_Context: Hosni Mubarak, President, Russian President, Africa, Egypt, Cairo, Dmitry Medvedev, Russia_
+_Context: Egypt, President, Cairo, Russian President, Russia, Africa, Hosni Mubarak, Dmitry Medvedev_
 
 ##### Antigua and Barbuda
 ### [ The government of Antigua and Barbuda dismisses its chief financial regulator, Leroy King, following claims of a collaboration with Allen Stanford. ](/news/2009/06/23/the-government-of-antigua-and-barbuda-dismisses-its-chief-financial-regulator-leroy-king-following-claims-of-a-collaboration-with-allen-s.md)

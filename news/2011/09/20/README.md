@@ -5,7 +5,7 @@ Formats: [HTML](2011/09/20/index.html)  [JSON](2011/09/20/index.json)  [XML](201
 
 ##### 2011 Yemeni uprising
 ### [2011 Yemeni uprising: Rockets hit a protest camp in the Yemeni capital, Sanaa, killing at least two people. ](/news/2011/09/20/2011-yemeni-uprising-rockets-hit-a-protest-camp-in-the-yemeni-capital-sanaa-killing-at-least-two-people.md)
-_Context: Yemen, 2011 Yemeni uprising, Sana'a_
+_Context: 2011 Yemeni uprising, Sana'a, Yemen_
 
 ##### Burhanuddin Rabbani
 ### [Burhanuddin Rabbani, the former President of Afghanistan, is killed in a suicide bombing at his home in Kabul while meeting with a Taliban delegation to discuss a possible peace deal. ](/news/2011/09/20/burhanuddin-rabbani-the-former-president-of-afghanistan-is-killed-in-a-suicide-bombing-at-his-home-in-kabul-while-meeting-with-a-taliban-d.md)
@@ -29,11 +29,11 @@ _Context: Qantas, Australia_
 
 ##### International Monetary Fund
 ### [The International Monetary Fund warns of a possible global double-dip recession in the coming years. ](/news/2011/09/20/the-international-monetary-fund-warns-of-a-possible-global-double-dip-recession-in-the-coming-years.md)
-_Context: double-dip recession, International Monetary Fund_
+_Context: International Monetary Fund, double-dip recession_
 
 ##### Search engine
 ### [The world's 8th-largest search engine, Yandex, expands into Turkey, marking its first venture outside the Commonwealth of Independent States. ](/news/2011/09/20/the-world-s-8th-largest-search-engine-yandex-expands-into-turkey-marking-its-first-venture-outside-the-commonwealth-of-independent-states.md)
-_Context: search engine, Commonwealth of Independent States, Turkey, Yandex_
+_Context: Yandex, search engine, Commonwealth of Independent States, Turkey_
 
 ##### Wadah Khanfar
 ### [Wadah Khanfar steps down as the head of the Al Jazeera news network, and is replaced by Sheikh Ahmad bin Jassim bin Mohammad Al Thani, a member of the Qatari royal family. ](/news/2011/09/20/wadah-khanfar-steps-down-as-the-head-of-the-al-jazeera-news-network-and-is-replaced-by-sheikh-ahmad-bin-jassim-bin-mohammad-al-thani-a-mem.md)
@@ -45,7 +45,7 @@ Floods and landslides in China triggered by days of heavy rain kill dozens of pe
 
 ##### Russia
 ### [An investigation by Russia's Interstate Aviation Committee into the fatal crash of RusAir Flight 9605 in June 2011 finds that the disaster, which killed 47 people, was caused by a combination of pilot error, an inadequate weather forecast and inadequate ground equipment. It is furthermore reported that the aircraft's navigator was intoxicated at the time of the crash.](/news/2011/09/20/an-investigation-by-russia-s-interstate-aviation-committee-into-the-fatal-crash-of-rusair-flight-9605-in-june-2011-finds-that-the-disaster.md)
-_Context: alcohol poisoning, Russia, Interstate Aviation Committee, RusAir Flight 9605_
+_Context: RusAir Flight 9605, Russia, alcohol poisoning, Interstate Aviation Committee_
 
 ##### India
 ### [The road to the Indian town of Mangan reopens after the 2011 Sikkim earthquake, with the death toll expected to rise as rescuers reach the worst affected areas. ](/news/2011/09/20/the-road-to-the-indian-town-of-mangan-reopens-after-the-2011-sikkim-earthquake-with-the-death-toll-expected-to-rise-as-rescuers-reach-the-w.md)
@@ -53,7 +53,7 @@ Two days after the earthquake that hit Sikkim, the road connecting the worst aff
 
 ##### European Court of Human Rights
 ### [The European Court of Human Rights rules that Russia did not abuse legal processes to destroy Yukos, once its largest oil company. ](/news/2011/09/20/the-european-court-of-human-rights-rules-that-russia-did-not-abuse-legal-processes-to-destroy-yukos-once-its-largest-oil-company.md)
-_Context: Russia, Yukos, European Court of Human Rights_
+_Context: Yukos, European Court of Human Rights, Russia_
 
 ##### Hurricane Rina
 ### [2011 Atlantic hurricane season: Tropical Storm Ophelia forms in the central Atlantic Ocean, with no storm warnings currently in place. ](/news/2011/09/20/2011-atlantic-hurricane-season-tropical-storm-ophelia-forms-in-the-central-atlantic-ocean-with-no-storm-warnings-currently-in-place.md)
@@ -61,11 +61,11 @@ Storm is too far away to be a threat to land for now
 
 ##### African Union
 ### [The African Union officially recognises the National Transitional Council as Libya's legitimate leadership. ](/news/2011/09/20/the-african-union-officially-recognises-the-national-transitional-council-as-libya-s-legitimate-leadership.md)
-_Context: Libya, African Union, National Transitional Council_
+_Context: African Union, Libya, National Transitional Council_
 
 ##### Norway
 ### [A Norwegian judge orders Anders Behring Breivik, the perpetrator of the 2011 Norway attacks, to be kept in solitary confinement for four more weeks. ](/news/2011/09/20/a-norwegian-judge-orders-anders-behring-breivik-the-perpetrator-of-the-2011-norway-attacks-to-be-kept-in-solitary-confinement-for-four-mor.md)
-_Context: Anders Behring Breivik, 2011 Norway attacks, solitary confinement, Norway_
+_Context: solitary confinement, Anders Behring Breivik, Norway, 2011 Norway attacks_
 
 ##### United States military
 ### [The United States military officially ends its policy known as "don't ask, don't tell" and allows homosexual personnel to publicly declare their sexual orientation without being dismissed. ](/news/2011/09/20/the-united-states-military-officially-ends-its-policy-known-as-don-t-ask-don-t-tell-and-allows-homosexual-personnel-to-publicly-declare-t.md)
@@ -81,7 +81,7 @@ _Context: Mexican, links to organised crime, Boca del Rio_
 
 ##### Zambia
 ### [Voters in Zambia go to the polls for a general election, with a close presidential race expected between incumbent Rupiah Banda and opposition leader Michael Sata. ](/news/2011/09/20/voters-in-zambia-go-to-the-polls-for-a-general-election-with-a-close-presidential-race-expected-between-incumbent-rupiah-banda-and-oppositi.md)
-_Context: Michael Sata, presidential election, Zambia, Rupiah Banda_
+_Context: Rupiah Banda, presidential election, Michael Sata, Zambia_
 
 ## [Previous Day...](/news/2011/09/19/index.md)
 

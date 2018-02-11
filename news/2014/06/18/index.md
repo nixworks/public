@@ -5,7 +5,7 @@ Formats: [HTML](2014/06/18/index.html)  [JSON](2014/06/18/index.json)  [XML](201
 
 ##### 2014 Northern Iraq offensive
 ### [40 Indians working for a Turkish construction company are abducted by militants in Mosul. ](/news/2014/06/18/40-indians-working-for-a-turkish-construction-company-are-abducted-by-militants-in-mosul.md)
-_Context: Turkish, 2014 Northern Iraq offensive, Indians, Mosul_
+_Context: Turkish, Indians, 2014 Northern Iraq offensive, Mosul_
 
 ##### Syrian Civil War
 ### [Opposition activists claim that Syrian Army helicopters have bombed a refugee camp near the border with Jordan, killing at least 20 people. ](/news/2014/06/18/opposition-activists-claim-that-syrian-army-helicopters-have-bombed-a-refugee-camp-near-the-border-with-jordan-killing-at-least-20-people.md)
@@ -13,11 +13,11 @@ Activists say Syrian army helicopters bomb a refugee camp, killing at least 20 p
 
 ##### Ukraine
 ### [Ukrainian President Petro Poroshenko asks parliament to dismiss the country's central bank governor, Stepan Kubiv. ](/news/2014/06/18/ukrainian-president-petro-poroshenko-asks-parliament-to-dismiss-the-country-s-central-bank-governor-stepan-kubiv.md)
-_Context: country's central bank, Stepan Kubiv, Ukraine, Petro Poroshenko_
+_Context: Petro Poroshenko, Ukraine, Stepan Kubiv, country's central bank_
 
 ##### Malaysian Maritime Enforcement Agency
 ### [The Malaysian Maritime Enforcement Agency reports that a boat carrying 97 Indonesians has capsized with 66 missing. ](/news/2014/06/18/the-malaysian-maritime-enforcement-agency-reports-that-a-boat-carrying-97-indonesians-has-capsized-with-66-missing.md)
-_Context: Malaysian Maritime Enforcement Agency, Indonesia_
+_Context: Indonesia, Malaysian Maritime Enforcement Agency_
 
 ##### Luxembourg
 ### [Luxembourg's Chamber of Deputies votes to equalize same-sex marriage and adoption rights from 1 January, 2015. ](/news/2014/06/18/luxembourg-s-chamber-of-deputies-votes-to-equalize-same-sex-marriage-and-adoption-rights-from-1-january-2015.md)
@@ -37,7 +37,7 @@ News - Your daily dose of information: European and International latest breakin
 
 ##### Trademark Trial and Appeal Board
 ### [The Trademark Trial and Appeal Board, a tribunal of the United States Patent and Trademark Office, rules 2-1 to cancel several trademarks of the NFL's Washington Redskins on the basis that they were "disparaging to Native Americans." The cancellation will be stayed while the team appeals in federal court, a process likely to take years. ](/news/2014/06/18/the-trademark-trial-and-appeal-board-a-tribunal-of-the-united-states-patent-and-trademark-office-rules-2a1-to-cancel-several-trademarks.md)
-_Context: United States Patent and Trademark Office, federal court, Native American, cancel several trademarks, Washington Redskins, National Football League, Trademark Trial and Appeal Board, disparaging_
+_Context: Native American, federal court, United States Patent and Trademark Office, National Football League, cancel several trademarks, Trademark Trial and Appeal Board, Washington Redskins, disparaging_
 
 ## [Previous Day...](/news/2014/06/17/index.md)
 

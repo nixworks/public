@@ -37,15 +37,15 @@ Three people arrested during protests over disputed presidential poll are senten
 
 ##### Guinea
 ### [ Unions in Guinea call for a two day strike in protest at the deaths of opposition supporters at a rally last month. ](/news/2009/10/10/unions-in-guinea-call-for-a-two-day-strike-in-protest-at-the-deaths-of-opposition-supporters-at-a-rally-last-month.md)
-_Context: Guinea, massacre of opposition protesters_
+_Context: massacre of opposition protesters, Guinea_
 
-##### United States
+##### American
 ### [ United States President Barack Obama announces he will end the "Don't ask, don't tell" policy against homosexuals serving in the U.S. military. ](/news/2009/10/10/united-states-president-barack-obama-announces-he-will-end-the-don-t-ask-don-t-tell-policy-against-homosexuals-serving-in-the-u-s-milit.md)
-_Context: United States, Barack Obama, United States armed forces, gay, U.S. President, Don't ask, don't tell_
+_Context: U.S. President, Don't ask, don't tell, gay, Barack Obama, American, United States armed forces_
 
 ##### Islam
 ### [ More than 40 people are arrested after clashes between anti-Islamic and anti-racist demonstrations in Manchester, England. ](/news/2009/10/10/more-than-40-people-are-arrested-after-clashes-between-anti-islamic-and-anti-racist-demonstrations-in-manchester-england.md)
-_Context: England, Islam, Manchester, racial bias_
+_Context: racial bias, Manchester, Islam, England_
 
 ##### Argentina
 ### [ The Argentine Senate passes a controversial media bill regarding the ownership of media outlets in the country. ](/news/2009/10/10/the-argentine-senate-passes-a-controversial-media-bill-regarding-the-ownership-of-media-outlets-in-the-country.md)

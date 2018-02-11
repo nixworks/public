@@ -9,7 +9,7 @@ A gunman killed an Israeli soldier and wounded at least 11 other people at a bus
 
 ##### Kunduz hospital airstrike
 ### [Afghanistan's acting defense minister has stated that the Medecins Sans Frontieres hospital in Kunduz bombed on 3 October by U.S. forces was being used as a safe haven by insurgents. MSF has repeatedly denied the allegation, stating "Every staff member in Kunduz working for MSF has repeatedly reported to us that there were no armed people in the hospital at the time of the bombing". ](/news/2015/10/19/afghanistanas-acting-defense-minister-has-stated-that-the-ma-c-decins-sans-frontia-res-hospital-in-kunduz-bombed-on-3-october-by-u-s-forces.md)
-_Context: Afghanistan, Kunduz, Kunduz hospital airstrike, Medecins Sans Frontieres_
+_Context: Kunduz, Kunduz hospital airstrike, Afghanistan, Medecins Sans Frontieres_
 
 ##### Economy of China
 ### [China's economy expanded 6.9% in third quarter over last year's growth, just slightly better than forecast. ](/news/2015/10/19/chinaas-economy-expanded-6-9-in-third-quarter-over-last-yearas-growth-just-slightly-better-than-forecast.md)
@@ -17,7 +17,7 @@ The weak result compares with 7 percent growth in the previous two quarters, but
 
 ##### Aetna
 ### [Shareholders from both companies overwhelmingly approve Aetna's acquisition of Humana for $37 billion. ](/news/2015/10/19/shareholders-from-both-companies-overwhelmingly-approve-aetna-s-acquisition-of-humana-for-37-billion.md)
-_Context: Aetna, Humana_
+_Context: Humana, Aetna_
 
 ##### 2015 Pacific typhoon season
 ### [Rising floodwaters are causing problems in the northern Philippines as Typhoon Koppu (Lando in the Philippines) is set to linger over the island of Luzon until Wednesday. Eleven people have died so far. ](/news/2015/10/19/rising-floodwaters-are-causing-problems-in-the-northern-philippines-as-typhoon-koppu-lando-in-the-philippines-is-set-to-linger-over-the-is.md)
@@ -33,7 +33,7 @@ Prime Minister Shinzo Abe on Sunday became the first sitting Japanese leader to 
 
 ##### Pope Francis
 ### [Pope Francis encourages bishops from around the world to sign an appeal to world leaders, meeting in Paris next month, for crucial climate change talks. In a major teaching document in June, the encyclical Laudato Si' (Latin: Praised be), Francis denounced what he called the "structurally perverse" fossil fuel-based world economy that exploits the poor and destroys the habitability of the Earth for humans. ](/news/2015/10/19/pope-francis-encourages-bishops-from-around-the-world-to-sign-an-appeal-to-world-leaders-meeting-in-paris-next-month-for-crucial-climate-c.md)
-_Context: climate change, Laudato Si', Pope Francis, 2015 United Nations Climate Change Conference, habitable, world economy, Paris, fossil fuel, world leaders, encyclical_
+_Context: Pope Francis, Laudato Si', encyclical, fossil fuel, world economy, habitable, Paris, climate change, 2015 United Nations Climate Change Conference, world leaders_
 
 ##### European migrant crisis
 ### [Croatia reopens its border with Serbia allowing thousands of refugees to cross. ](/news/2015/10/19/croatia-reopens-its-border-with-serbia-allowing-thousands-of-refugees-to-cross.md)
@@ -81,7 +81,7 @@ Soviet nostalgia rules as images of the former dictator go on display in the cen
 
 ##### Eric Chu
 ### [Eric Chu, KMT party chairman, has replaced Hung Hsiu-chu as Taiwan's ruling party candidate just months ahead of elections. ](/news/2015/10/19/eric-chu-kmt-party-chairman-has-replaced-hung-hsiu-chu-as-taiwanas-ruling-party-candidate-just-months-ahead-of-elections.md)
-_Context: Eric Chu, Taiwan, KMT, Hung Hsiu-chu_
+_Context: Hung Hsiu-chu, Taiwan, KMT, Eric Chu_
 
 ##### Apple Inc.
 ### [Apple pulls hundreds of iOS mobile applications from its App Store which, the company discovered, includes software that was secretly sending users' personal information to an advertising firm in China. ](/news/2015/10/19/apple-pulls-hundreds-of-ios-mobile-applications-from-its-app-store-which-the-company-discovered-includes-software-that-was-secretly-sendin.md)

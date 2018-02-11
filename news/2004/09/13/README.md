@@ -9,23 +9,23 @@ _Context: Time Warner, Sony, MGM_
 
 ##### Fathers 4 Justice
 ### [ A Fathers 4 Justice protester dressed as Batman breaches security at Buckingham Palace and scales a wall. He remains on a balcony for five hours before being arrested by police. ](/news/2004/09/13/a-fathers-4-justice-protester-dressed-as-batman-breaches-security-at-buckingham-palace-and-scales-a-wall-he-remains-on-a-balcony-for-five.md)
-_Context: remains on a balcony for five hours, Batman, Fathers 4 Justice, Buckingham Palace_
+_Context: Buckingham Palace, remains on a balcony for five hours, Fathers 4 Justice, Batman_
 
 ##### United States Secretary of State
 ### [ United States Secretary of State Colin Powell says that he saw no direct connection between Saddam Hussein's former regime in Iraq and the September 11, 2001, attacks. During an interview on NBC's "Meet the Press," Powell also said he believes that if John Kerry were president at the time of a terrorist attack he would respond in a "robust" way. ](/news/2004/09/13/united-states-secretary-of-state-colin-powell-says-that-he-saw-no-direct-connection-between-saddam-hussein-s-former-regime-in-iraq-and-the.md)
-_Context: John Kerry, United States Secretary of State, NBC, Iraq, Colin Powell, September 11, 2001, attacks, Meet the Press, Saddam Hussein, terrorist attack, U.S. President_
+_Context: Meet the Press, NBC, September 11, 2001, attacks, U.S. President, Saddam Hussein, United States Secretary of State, John Kerry, Colin Powell, Iraq, terrorist attack_
 
 ##### Rebel-held
 ### [ The "pre-election offensive" against the Iraqi resistance continues in the rebel-held city of Fallujah, with air-strikes killing at least 16, including women and children. Joint U.S.-Iraqi forces say that they are targeting Jordanian militant Abu Musab al-Zarqawi, who is linked to al-Qaeda. The U.S. military says it is investigating an incident that occurred September 12 in Baghdad in which five people, including an "al-Arabiya" journalist broadcasting live, were killed in a helicopter attack. ](/news/2004/09/13/the-pre-election-offensive-against-the-iraqi-resistance-continues-in-the-rebel-held-city-of-fallujah-with-air-strikes-killing-at-least-1.md)
-_Context: Iraqi, Baghdad, al-Qaeda, rebel-held, Jordan, helicopter, al-Arabiya, Abu Musab al-Zarqawi, Fallujah_
+_Context: helicopter, rebel-held, Jordan, Abu Musab al-Zarqawi, al-Qaeda, Baghdad, Iraqi, Fallujah, al-Arabiya_
 
 ##### Afghanistan
 ### [ In Afghanistan, 22 insurgents believed to be members of the Taliban and al-Qaeda are killed in the province of Zabul. Zabul Province is widely regarded as a Taleban stronghold. ](/news/2004/09/13/in-afghanistan-22-insurgents-believed-to-be-members-of-the-taliban-and-al-qaeda-are-killed-in-the-province-of-zabul-zabul-province-is-wid.md)
-_Context: al-Qaeda, Zabul, Taliban, stronghold, Afghanistan_
+_Context: stronghold, Afghanistan, Taliban, al-Qaeda, Zabul_
 
 ##### Ulster Defence Association
 ### [ Former UDA member Ken Barrett pleads guilty to the murder of solicitor Pat Finucane in 1989&mdash;one of the most controversial murders of Northern Ireland's Troubles. ](/news/2004/09/13/former-uda-member-ken-barrett-pleads-guilty-to-the-murder-of-solicitor-pat-finucane-in-1989-mdash-one-of-the-most-controversial-murders-of.md)
-_Context: Northern Ireland, Troubles, Pat Finucane, Ulster Defence Association_
+_Context: Ulster Defence Association, Troubles, Northern Ireland, Pat Finucane_
 
 ## [Previous Day...](/news/2004/09/12/index.md)
 

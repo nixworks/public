@@ -37,7 +37,7 @@ South Korea uses hotline to counterpropose talks at Panmunjom truce village afte
 
 ##### The Guardian
 ### [The Guardian obtains a copy of a court order signed on April 25 by Judge Roger Vinson of the secret Foreign Intelligence Surveillance Court (FISC). The order permits the FBI, and thereby the Obama administration, to indiscriminately collect phone records of millions of Verizon Communications customers on an "ongoing, daily basis", with all domestic and international calls affected. The permit is similar to one issued to the Bush administration. The Guardian's report does not state from whom they obtained the document. ](/news/2013/06/6/the-guardian-obtains-a-copy-of-a-court-order-signed-on-april-25-by-judge-roger-vinson-of-the-secret-foreign-intelligence-surveillance-court.md)
-_Context: Obama administration, Roger Vinson, Bush Administration, United States Foreign Intelligence Surveillance Court, Verizon Communications, The Guardian, FBI_
+_Context: Bush Administration, Obama administration, The Guardian, Verizon Communications, Roger Vinson, FBI, United States Foreign Intelligence Surveillance Court_
 
 ##### National Security Agency
 ### [The Guardian obtains a copy of a document from April that reveals that the NSA is mining data using PRISM, spying on the e-mails and web activities of American citizens through direct access to Google, Apple, Microsoft, Facebook, YouTube, Skype, Yahoo, Paltalk and AOL. The Guardian's report does not state from whom they obtained the document. ](/news/2013/06/6/the-guardian-obtains-a-copy-of-a-document-from-april-that-reveals-that-the-nsa-is-mining-data-using-prism-spying-on-the-e-mails-and-web-act.md)
@@ -61,7 +61,7 @@ New Jersey Gov. Chris Christie announced Thursday he will appoint the state&rsqu
 
 ##### President
 ### [The President of Brazil, Dilma Rousseff, approves a bill to modernize the infrastructure of all national ports in her country. She vetoes 13 contradictory sections. ](/news/2013/06/6/the-president-of-brazil-dilma-rousseff-approves-a-bill-to-modernize-the-infrastructure-of-all-national-ports-in-her-country-she-vetoes-13.md)
-_Context: Dilma Rousseff, Brazil, president, port, infrastructure, modernize_
+_Context: infrastructure, president, port, modernize, Dilma Rousseff, Brazil_
 
 ## [Previous Day...](/news/2013/06/5/index.md)
 

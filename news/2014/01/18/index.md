@@ -21,15 +21,15 @@ A 16-year-old boy from Bristol has set a new world record by becoming the younge
 
 ##### Belden Namah
 ### [A warrant is issued for the arrest of Belden Namah, the Leader of the Opposition in Papua New Guinea over claims he threatened the police commissioner in a letter. ](/news/2014/01/18/a-warrant-is-issued-for-the-arrest-of-belden-namah-the-leader-of-the-opposition-in-papua-new-guinea-over-claims-he-threatened-the-police-co.md)
-_Context: Belden Namah, Papua New Guinea_
+_Context: Papua New Guinea, Belden Namah_
 
 ##### Autopsy
 ### [An autopsy finds Sunanda Pushkar, the wife of Indian cabinet minister Shashi Tharoor found dead in her hotel room on Friday, had died a "sudden and unnatural death". ](/news/2014/01/18/an-autopsy-finds-sunanda-pushkar-the-wife-of-indian-cabinet-minister-shashi-tharoor-found-dead-in-her-hotel-room-on-friday-had-died-a-sud.md)
-_Context: autopsy, Shashi Tharoor, India, Sunanda Pushkar_
+_Context: Sunanda Pushkar, autopsy, Shashi Tharoor, India_
 
 ##### Egyptian constitutional referendum, 2014
 ### [Egypt's election council claims that 98.1% of voters supported the new military-backed constitution with a 38.6% turnout. ](/news/2014/01/18/egypt-s-election-council-claims-that-98-1-of-voters-supported-the-new-military-backed-constitution-with-a-38-6-turnout.md)
-_Context: Egyptian military, Egyptian constitutional referendum, 2014, Egypt, constitution_
+_Context: Egyptian constitutional referendum, 2014, constitution, Egyptian military, Egypt_
 
 ## [Previous Day...](/news/2014/01/17/index.md)
 

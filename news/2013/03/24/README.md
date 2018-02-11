@@ -5,13 +5,13 @@ Formats: [HTML](2013/03/24/index.html)  [JSON](2013/03/24/index.json)  [XML](201
 
 ##### Suicide bomber
 ### [A suicide bomber strikes a Pakistani military checkpoint in the tribal district of North Waziristan, killing at least 17 soldiers. ](/news/2013/03/24/a-suicide-bomber-strikes-a-pakistani-military-checkpoint-in-the-tribal-district-of-north-waziristan-killing-at-least-17-soldiers.md)
-_Context: North Waziristan, suicide bomber_
+_Context: suicide bomber, North Waziristan_
 
 ##### Central African Republic
 ### [Rebels in the Central African Republic reportedly take the presidential palace in Bangui, as President Francois Bozize flees to the neighbouring Democratic Republic of Congo. ](/news/2013/03/24/rebels-in-the-central-african-republic-reportedly-take-the-presidential-palace-in-bangui-as-president-franassois-boziza-c-flees-to-the-neighb.md)
 Looting is reported in the capital of the Central African Republic after President Francois Bozize flees and rebels take control of the city.
 
-##### Israel Defense Forces
+##### Israeli Army
 ### [Israeli soldiers fire an anti-tank missile at a Syrian Army post after coming under fire for the second time in 12 hours in the Golan Heights area. ](/news/2013/03/24/israeli-soldiers-fire-an-anti-tank-missile-at-a-syrian-army-post-after-coming-under-fire-for-the-second-time-in-12-hours-in-the-golan-height.md)
 Syrian outpost completely destroyed, leaving two wounded; defense minister warns of no-tolerance approach to attacks
 
@@ -25,7 +25,7 @@ Eurozone finance ministers agree a deal on a bailout for Cyprus to prevent its b
 
 ##### Bolivia
 ### [Bolivia's President Evo Morales vows to take a border dispute with Chile to the International Court of Justice in The Hague. ](/news/2013/03/24/bolivia-s-president-evo-morales-vows-to-take-a-border-dispute-with-chile-to-the-international-court-of-justice-in-the-hague.md)
-_Context: International Court of Justice, Chile, Evo Morales, President of Bolivia, border dispute, The Hague, Bolivia_
+_Context: International Court of Justice, border dispute, Evo Morales, Chile, The Hague, Bolivia, President of Bolivia_
 
 ##### US Secretary of State
 ### [US Secretary of State John Kerry arrives in Iraq on an unannounced visit to press for greater co-operation over the conflict in Syria. ](/news/2013/03/24/us-secretary-of-state-john-kerry-arrives-in-iraq-on-an-unannounced-visit-to-press-for-greater-co-operation-over-the-conflict-in-syria.md)
@@ -41,11 +41,11 @@ Khoso, 84, is a venerated officer bearing a reputation of honesty.
 
 ##### Syria
 ### [Syria's opposition chief Ahmed Moaz al-Khatib resigns from the Syrian National Coalition after inconclusive talks with the European Union. ](/news/2013/03/24/syria-s-opposition-chief-ahmed-moaz-al-khatib-resigns-from-the-syrian-national-coalition-after-inconclusive-talks-with-the-european-union.md)
-_Context: Syria, European Union, Syrian National Coalition, Ahmed Moaz al-Khatib_
+_Context: European Union, Syria, Ahmed Moaz al-Khatib, Syrian National Coalition_
 
 ##### Gay marriage
 ### [Hundreds of thousands of people march in Paris against proposals to legalise same-sex marriage in France with violent clashes after police deny marchers access to the Champs-Elysees. ](/news/2013/03/24/hundreds-of-thousands-of-people-march-in-paris-against-proposals-to-legalise-same-sex-marriage-in-france-with-violent-clashes-after-police-d.md)
-_Context: Champs-Elysees, gay marriage_
+_Context: gay marriage, Champs-Elysees_
 
 ## [Previous Day...](/news/2013/03/23/index.md)
 

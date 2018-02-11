@@ -27,7 +27,7 @@ _Context: Iceland, Kaupthing_
 ### [An ammonia cooling pump on the International Space Station malfunctions, requiring suspension of some non-critical systems. ](/news/2013/12/12/an-ammonia-cooling-pump-on-the-international-space-station-malfunctions-requiring-suspension-of-some-non-critical-systems.md)
 _Context: International Space Station_
 
-##### United States
+##### American
 ### [The United States announces that it will enforce sanctions on more than two dozen companies who assisted Iran with its nuclear program. ](/news/2013/12/12/the-united-states-announces-that-it-will-enforce-sanctions-on-more-than-two-dozen-companies-who-assisted-iran-with-its-nuclear-program.md)
 Get up to the minute breaking political news and in-depth analysis on ABCNews.com.
 
@@ -37,15 +37,15 @@ North Korea said on Friday Jang Song Thaek, the uncle of leader Kim Jong Un and 
 
 ##### Australia
 ### [Australia's High Court rules same-sex marriages held in the country are invalid. ](/news/2013/12/12/australia-s-high-court-rules-same-sex-marriages-held-in-the-country-are-invalid.md)
-_Context: Australia, High Court of Australia, same-sex marriages_
+_Context: same-sex marriages, High Court of Australia, Australia_
 
 ##### United Nations
 ### [The United Nations says that the legalization of marijuana in Uruguay is a violation of international law. ](/news/2013/12/12/the-united-nations-says-that-the-legalization-of-marijuana-in-uruguay-is-a-violation-of-international-law.md)
-_Context: marijuana, United Nations, legalization, Uruguay, international law_
+_Context: Uruguay, United Nations, international law, marijuana, legalization_
 
 ##### Bangladesh
 ### [Bangladesh hangs Abdul Kader Mullah, a leader of the Bangladesh Jamaat-e-Islami, for committing atrocities in the Bangladesh Liberation War in 1971. ](/news/2013/12/12/bangladesh-hangs-abdul-kader-mullah-a-leader-of-the-bangladesh-jamaat-e-islami-for-committing-atrocities-in-the-bangladesh-liberation-war.md)
-_Context: Abdul Kader Mullah, Bangladesh Jamaat-e-Islami, independence war, Bangladesh_
+_Context: Bangladesh, Abdul Kader Mullah, independence war, Bangladesh Jamaat-e-Islami_
 
 ##### Federal Motor Carrier Safety Administration
 ### [The United States Federal Motor Carrier Safety Administration, the federal bus safety regulator, shuts down 52 busline companies in a major nationwide crackdown on unsafe outfits. ](/news/2013/12/12/the-united-states-federal-motor-carrier-safety-administration-the-federal-bus-safety-regulator-shuts-down-52-busline-companies-in-a-major.md)
@@ -55,7 +55,7 @@ _Context: Federal Motor Carrier Safety Administration_
 ### [Tassaduq Hussain Jillani takes the oath as the new chief justice of Pakistan. ](/news/2013/12/12/tassaduq-hussain-jillani-takes-the-oath-as-the-new-chief-justice-of-pakistan.md)
 Says he will take notice of footage of Justice Chaudhry’s retirement reference being leaked to one media group.
 
-##### United States
+##### American
 ### [Sanctions are being considered by the United States against Ukraine after the recent violent dispersal of protests. ](/news/2013/12/12/sanctions-are-being-considered-by-the-united-states-against-ukraine-after-the-recent-violent-dispersal-of-protests.md)
 The US state department says it is considering all options, including sanctions, towards Ukraine after riot police moved in on protesters.
 

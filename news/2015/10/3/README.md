@@ -13,7 +13,7 @@ Kabul/Brussels. 3 October 2015: The international medical organization Doctors W
 
 ##### ISIL
 ### [ISIL claims responsibility for the killing of a 65-year-old Japanese citizen in Bangladesh. This attack comes after the recent murder of an Italian, Cesare Tavella, in Bangladesh, which was also claimed by ISIL. ](/news/2015/10/3/isil-claims-responsibility-for-the-killing-of-a-65-year-old-japanese-citizen-in-bangladesh-this-attack-comes-after-the-recent-murder-of-an.md)
-_Context: Japan, Bangladesh, ISIL_
+_Context: Bangladesh, Japan, ISIL_
 
 ##### Hurricane Joaquin
 ### [As Hurricane Joaquin, still a Category 3 storm, heads northeast, a Tropical Storm Warning and a Hurricane Watch are in effect for Bermuda. Winds will begin to strengthen early Saturday with thunderstorms and more significant showers around midnight. Joaquin should turn toward the north-northeast Sunday and pass around 125 nmi west of Bermuda that evening. ](/news/2015/10/3/as-hurricane-joaquin-still-a-category-3-storm-heads-northeast-a-tropical-storm-warning-and-a-hurricane-watch-are-in-effect-for-bermuda-w.md)

@@ -9,15 +9,15 @@ At least six mediators have been killed by pro-government militiamen in the Syri
 
 ##### Greece
 ### [Unions in Greece call a general strike over new austerity measures. ](/news/2013/07/16/unions-in-greece-call-a-general-strike-over-new-austerity-measures.md)
-_Context: Greece, general strike_
+_Context: general strike, Greece_
 
 ##### McDonald's restaurants
 ### [McDonald's announces that it will open its first outlet in Viet Nam early next year, which will be in Ho Chi Minh City, and will be operated by Henry Nguyen, a Vietnamese businessman and the son-in-law of Vietnam's Prime Minister Nguyen Tan Dung. ](/news/2013/07/16/mcdonald-s-announces-that-it-will-open-its-first-outlet-in-viet-nam-early-next-year-which-will-be-in-ho-chi-minh-city-and-will-be-operated.md)
-_Context: McDonald's restaurants, Nguyen Tan Dung, Viet Nam, Ho Chi Minh City_
+_Context: Viet Nam, Ho Chi Minh City, McDonald's restaurants, Nguyen Tan Dung_
 
 ##### British Columbia
 ### [The British Columbia coroner's office reports that actor Cory Monteith died of an overdose of heroin and alcohol. ](/news/2013/07/16/the-british-columbia-coroner-s-office-reports-that-actor-cory-monteith-died-of-an-overdose-of-heroin-and-alcohol.md)
-_Context: drug overdose, coroner, ethanol (C|H|3|C|H|2|O|H), British Columbia, heroin, Cory Monteith_
+_Context: British Columbia, coroner, drug overdose, ethanol (C|H|3|C|H|2|O|H), heroin, Cory Monteith_
 
 ##### As many as 27 children die and 25 others are hospitalised
 ### [As many as 27 children die and 25 others are hospitalised after eating lunch served at their school in eastern India. ](/news/2013/07/16/as-many-as-27-children-die-and-25-others-are-hospitalised-after-eating-lunch-served-at-their-school-in-eastern-india.md)
@@ -29,11 +29,11 @@ Panama seizes a North Korean-flagged ship carrying &quot;undeclared military car
 
 ##### South Korea
 ### [South Korea blames North Korea for cyberattacks on government websites last month. ](/news/2013/07/16/south-korea-blames-north-korea-for-cyberattacks-on-government-websites-last-month.md)
-_Context: cyberattack, North Korea, South Korea_
+_Context: North Korea, South Korea, cyberattack_
 
 ##### Police officers
 ### [Clashes continue between Egyptian police and supporters of deposed President Mohamed Morsi in central Cairo with 22 people injured. ](/news/2013/07/16/clashes-continue-between-egyptian-police-and-supporters-of-deposed-president-mohamed-morsi-in-central-cairo-with-22-people-injured.md)
-_Context: Cairo, President, Mohamed Morsi, police officers_
+_Context: police officers, Cairo, President, Mohamed Morsi_
 
 ##### Black metal
 ### [Norwegian black metal musician, Kristian "Varg" Vikernes, and his wife are arrested in France on suspicion of alleged plans for a terrorist act after buying 4 rifles at the same time. ](/news/2013/07/16/norwegian-black-metal-musician-kristian-varg-vikernes-and-his-wife-are-arrested-in-france-on-suspicion-of-alleged-plans-for-a-terrorist.md)

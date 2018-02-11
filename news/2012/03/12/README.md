@@ -25,7 +25,7 @@ Oil prices fell on Monday on concerns about slowing growth in China and recessio
 
 ##### India
 ### [India's Kingfisher Airlines cancels at least 40 flights due to pilots not turning up for work due to unpaid salaries. ](/news/2012/03/12/india-s-kingfisher-airlines-cancels-at-least-40-flights-due-to-pilots-not-turning-up-for-work-due-to-unpaid-salaries.md)
-_Context: pilot, India, Kingfisher Airlines_
+_Context: pilot, Kingfisher Airlines, India_
 
 ##### Qianjiang
 ### [A new section of high-speed railway that had undergone test runs collapses near Qianjiang, China. ](/news/2012/03/12/a-new-section-of-high-speed-railway-that-had-undergone-test-runs-collapses-near-qianjiang-china.md)
@@ -33,7 +33,7 @@ The collapsed section raised new doubts about the quality of work and training o
 
 ##### Avalanche
 ### [Over 45 people are trapped by avalanches in the remote Afghan villages of Poshan and Ghadoor in Nuristan province. ](/news/2012/03/12/over-45-people-are-trapped-by-avalanches-in-the-remote-afghan-villages-of-poshan-and-ghadoor-in-nuristan-province.md)
-_Context: avalanche, Ghadoor, Poshan, Nuristan province, Afghanistan_
+_Context: Ghadoor, Poshan, Nuristan province, avalanche, Afghanistan_
 
 ##### US Census Bureau headquarters
 ### [United States Census Bureau has estimated the world population up to 7 billion people. ](/news/2012/03/12/united-states-census-bureau-has-estimated-the-world-population-up-to-7-billion-people.md)
@@ -45,7 +45,7 @@ Afghanistan&#039;s Taliban insurgents today vowed revenge against &quot;sick min
 
 ##### Belgium
 ### [Belgium asks the International Court of Justice to order Senegal to put former Chadian President Hissne Habr on trial or to extradite him on charges of torture and crimes against humanity. ](/news/2012/03/12/belgium-asks-the-international-court-of-justice-to-order-senegal-to-put-former-chadian-president-hissene-habre-on-trial-or-to-extradite-him.md)
-_Context: Hissne Habr, Belgium, Chad, crimes against humanity, Senegal, International Court of Justice, Chadian President_
+_Context: crimes against humanity, Belgium, Hissne Habr, Senegal, Chad, Chadian President, International Court of Justice_
 
 ##### Human Rights Council
 ### [A scuffle breaks out at the United Nations Human Rights Council after a North Korean diplomat said a U.N. report on the human rights situation in the country had been "fabricated". ](/news/2012/03/12/a-scuffle-breaks-out-at-the-united-nations-human-rights-council-after-a-north-korean-diplomat-said-a-u-n-report-on-the-human-rights-situati.md)
@@ -53,7 +53,7 @@ The report covers the period from Sep 2011 to Jan 2012, when it said the situati
 
 ##### Baghdad
 ### [Robbers kill at least 9 people and injure 14 in a jewelry heist in East Baghdad, Iraq. ](/news/2012/03/12/robbers-kill-at-least-9-people-and-injure-14-in-a-jewelry-heist-in-east-baghdad-iraq.md)
-_Context: Baghdad, Iraq_
+_Context: Iraq, Baghdad_
 
 ##### 9th U.S. Circuit Court of Appeals
 ### [The 9th U.S. Circuit Court of Appeals rules that a 22 year sentence given to Ahmed Ressam for attempting to bomb the Los Angeles International Airport as part of the 2000 millennium attack plots was too light. ](/news/2012/03/12/the-9th-u-s-circuit-court-of-appeals-rules-that-a-22-year-sentence-given-to-ahmed-ressam-for-attempting-to-bomb-the-los-angeles-internation.md)

@@ -17,7 +17,7 @@ _Context: second Dby administration, Sudan, Central African Republic, Chadian re
 
 ##### Parliament
 ### [ The Parliament of Nepal, reinstated last week after a 4-year hiatus, unanimously approves a proposal by new prime minister Girija Prasad Koirala to hold elections for a special assembly to draw up a new constitution. ](/news/2006/04/30/the-parliament-of-nepal-reinstated-last-week-after-a-4-year-hiatus-unanimously-approves-a-proposal-by-new-prime-minister-girija-prasad-ko.md)
-_Context: Girija Prasad Koirala, Parliament, Prime Minister, elections, Constitution of Nepal, reinstated last week after a 4-year hiatus_
+_Context: Parliament, Prime Minister, reinstated last week after a 4-year hiatus, Constitution of Nepal, Girija Prasad Koirala, elections_
 
 ##### Miners
 ### [ 24 miners have been killed in a mine explosion in the Chinese province of Shaanxi. ](/news/2006/04/30/24-miners-have-been-killed-in-a-mine-explosion-in-the-chinese-province-of-shaanxi.md)

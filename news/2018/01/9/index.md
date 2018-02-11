@@ -5,7 +5,7 @@ Formats: [HTML](2018/01/9/index.html)  [JSON](2018/01/9/index.json)  [XML](2018/
 
 ##### Steve Bannon
 ### [Steve Bannon steps down as executive chairman of Breitbart News amid a dispute with U.S. President Donald Trump over comments he made about the Trump family in Michael Wolff's "Fire and Fury". ](/news/2018/01/9/steve-bannon-steps-down-as-executive-chairman-of-breitbart-news-amid-a-dispute-with-u-s-president-donald-trump-over-comments-he-made-about.md)
-_Context: Fire and Fury, Michael Wolff, Breitbart News, U.S. President, Steve Bannon, Donald Trump_
+_Context: Michael Wolff, Breitbart News, Steve Bannon, Fire and Fury, U.S. President, Donald Trump_
 
 ##### 2017-18 South-West Indian Ocean cyclone season
 ### [At least 29 people are dead and 22 are missing in the aftermath of a strong tropical cyclone striking Madagascar. ](/news/2018/01/9/at-least-29-people-are-dead-and-22-are-missing-in-the-aftermath-of-a-strong-tropical-cyclone-striking-madagascar.md)
@@ -41,11 +41,11 @@ The federal judges gave lawmakers until Jan. 29 to show them a new map. The dead
 
 ##### Politics of Poland
 ### [New ministers of defence, finance, interior, health, environment and foreign affairs, amongst others, are appointed. ](/news/2018/01/9/new-ministers-of-defence-finance-interior-health-environment-and-foreign-affairs-amongst-others-are-appointed.md)
-_Context: Cabinet of Mateusz Morawiecki, foreign affairs, health, finance, defence, interior, Politics of Poland_
+_Context: interior, finance, Cabinet of Mateusz Morawiecki, foreign affairs, Politics of Poland, defence, health_
 
 ##### Politics of Egypt
 ### [The Parliament of Egypt approves, with a two-thirds majority in favour, extending the nationwide state of emergency for a further three months, starting January 13. ](/news/2018/01/9/the-parliament-of-egypt-approves-with-a-two-thirds-majority-in-favour-extending-the-nationwide-state-of-emergency-for-a-further-three-mont.md)
-_Context: Parliament of Egypt, state of emergency, Politics of Egypt_
+_Context: state of emergency, Parliament of Egypt, Politics of Egypt_
 
 ##### Politics of Spain
 ### [Artur Mas announces that he is resigning as president of the PDeCAT party. ](/news/2018/01/9/artur-mas-announces-that-he-is-resigning-as-president-of-the-pdecat-party.md)

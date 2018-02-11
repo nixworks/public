@@ -29,11 +29,11 @@ At least 30 people were killed when two buses collided in a head-on crash in Pak
 
 ##### Ludwigshafen
 ### [An explosion and fire in Ludwigshafen, at the largest production site of BASF in Germany, kills at least two people and injures six more with two people still missing. BASF is the world's biggest chemical producer. ](/news/2016/10/17/an-explosion-and-fire-in-ludwigshafen-at-the-largest-production-site-of-basf-in-germany-kills-at-least-two-people-and-injures-six-more-wit.md)
-_Context: Ludwigshafen, BASF, German, chemical producer_
+_Context: Ludwigshafen, German, chemical producer, BASF_
 
 ##### East India
 ### [A fire breaks out at a hospital in the East Indian city of Bhubaneswar, Odisha, killing at least 20 people. ](/news/2016/10/17/a-fire-breaks-out-at-a-hospital-in-the-east-indian-city-of-bhubaneswar-odisha-killing-at-least-20-people.md)
-_Context: East India, Odisha, Bhubaneswar_
+_Context: Odisha, Bhubaneswar, East India_
 
 ##### Yemeni Civil War
 ### [The United Nations announces that the warring parties in Yemen have agreed to a 72-hour ceasefire starting October 19 at 23:59 AST (4:59 EDT). ](/news/2016/10/17/the-united-nations-announces-that-the-warring-parties-in-yemen-have-agreed-to-a-72-hour-ceasefire-starting-october-19-at-23-59-ast-4-59-edt.md)
@@ -47,7 +47,7 @@ _Context: European Union, Syrian Civil War_
 ### [Circuit Court Judge Debra Nelson in Seminole County, Florida, sentences Matthew Apperson, convicted by a jury last month of second-degree attempted murder, to 20 years in prison for shooting at George Zimmerman, who had shot and killed unarmed Trayvon Martin in February 2012. ](/news/2016/10/17/circuit-court-judge-debra-nelson-in-seminole-county-florida-sentences-matthew-apperson-convicted-by-a-jury-last-month-of-second-degree-at.md)
 A Florida man was sentenced to 20 years in prison on Monday for shooting at George Zimmerman, who had shot and killed unarmed black teenager Trayvon Martin in 2012 in a case that garnered national attention, prosecutors said.
 
-##### United States
+##### American
 ### [American conservative undercover video producer James O'Keefe releases a series of videos allegedly showing conversations with, among others, Scott Foval, the former national field director of Americans United for Change, speaking about his hiring of people to sabotage rallies for Donald Trump by staging fights in them in a process Foval called "bird dogging". ](/news/2016/10/17/american-conservative-undercover-video-producer-james-o-keefe-releases-a-series-of-videos-allegedly-showing-conversations-with-among-others.md)
 Hillary Clinton haters find vindication — but no moral high-ground — in Project Veritas undercover investigation VIDEO 
 

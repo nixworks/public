@@ -21,7 +21,7 @@ _Context: Nanjing, Five-Year Plan, China_
 
 ##### Uganda Human Rights Commission
 ### [ Uganda Human Rights Commission, in its 2004 report, states that at least 4,000 children who were among the tens of thousands abducted by the Lord's Resistance Army rebels cannot be traced. This estimate is much lower than the previous estimate of 20,000 kidnapped children released by the most recent Human Rights Watch report. The UHRC accuses the Uganda People's Defence Forces (UPDF) of torturing the Acholi people of northern Uganda through brutal methods to extract information or to instill discipline in suspects. ](/news/2005/10/8/uganda-human-rights-commission-in-its-2004-report-states-that-at-least-4-000-children-who-were-among-the-tens-of-thousands-abducted-by-th.md)
-_Context: Human Rights Watch, Uganda People's Defence Forces, Uganda Human Rights Commission, Lord's Resistance Army, Acholi_
+_Context: Uganda Human Rights Commission, Uganda People's Defence Forces, Acholi, Human Rights Watch, Lord's Resistance Army_
 
 ## [Previous Day...](/news/2005/10/7/index.md)
 

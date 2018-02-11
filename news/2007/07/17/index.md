@@ -25,7 +25,7 @@ A freight train derailed in Ukraine, releasing a cloud of toxic gas and that poi
 
 ##### Sudan
 ### [ The Sudanese government says that a recent attempted coup d'etat did not have the support of the United States government, contrary to previous accusations from Nafi Ali Nafi, Sudanese President Omar al-Bashir's assistant. The government has arrested 14 members of the Umma Reform and Renewal Party for plotting the coup. ](/news/2007/07/17/the-sudanese-government-says-that-a-recent-attempted-coup-d-a-c-tat-did-not-have-the-support-of-the-united-states-government-contrary-to-pre.md)
-_Context: United States, coup, Umma Reform and Renewal Party, Omar al-Bashir, Sudan_
+_Context: coup, Omar al-Bashir, Sudan, American, Umma Reform and Renewal Party_
 
 ##### Tamil Tigers
 ### [ All three men charged with supporting Tamil Tigers have been granted bail in Melbourne. ](/news/2007/07/17/all-three-men-charged-with-supporting-tamil-tigers-have-been-granted-bail-in-melbourne.md)
@@ -33,11 +33,11 @@ All three men charged with supporting Sri Lanka&#039;s Tamil Tigers rebel group 
 
 ##### Beijing
 ### [ Delegates arrive in Beijing for the resumption of six party talks on Wednesday involving North Korea, South Korea, China, Russia, Japan and the United States to discuss the second phase of a deal on North Korean nuclear disarmament. ](/news/2007/07/17/delegates-arrive-in-beijing-for-the-resumption-of-six-party-talks-on-wednesday-involving-north-korea-south-korea-china-russia-japan-and.md)
-_Context: United States, South Korea, Russia, six party talks, Beijing, China, North Korea, Japan_
+_Context: Japan, American, Russia, South Korea, Beijing, North Korea, China, six party talks_
 
 ##### 2007 Chuetsu offshore earthquake
 ### [ 2007 Chuetsu offshore earthquake: The Government of Japan orders The Tokyo Electric Power Company to keep its Kashiwazaki-Kariwa Nuclear Power Plant closed pending safety checks after the earthquake caused a leak. ](/news/2007/07/17/2007-cha-etsu-offshore-earthquake-the-government-of-japan-orders-the-tokyo-electric-power-company-to-keep-its-kashiwazaki-kariwa-nuclear-p.md)
-_Context: Kashiwazaki-Kariwa Nuclear Power Plant, The Tokyo Electric Power Company, Japan, 2007 Chuetsu offshore earthquake, earthquake_
+_Context: Kashiwazaki-Kariwa Nuclear Power Plant, The Tokyo Electric Power Company, Japan, earthquake, 2007 Chuetsu offshore earthquake_
 
 ## [Previous Day...](/news/2007/07/16/index.md)
 

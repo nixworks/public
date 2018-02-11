@@ -13,7 +13,7 @@ Syrian rebels including jihadists counter-attacked the army and its allies on Fr
 
 ##### American Airlines Flight 383 (2016)
 ### [An American Airlines Boeing 767 catches fire after an aborted takeoff at Chicago's O'Hare International Airport. Seven passengers and one flight attendant were injured, and taken to area hospitals. ](/news/2016/10/28/an-american-airlines-boeing-767-catches-fire-after-an-aborted-takeoff-at-chicago-s-o-hare-international-airport-seven-passengers-and-one-fl.md)
-_Context: American Airlines Flight 383 (2016), Chicago, O'Hare International Airport, American Airlines, Boeing 767_
+_Context: O'Hare International Airport, Boeing 767, American Airlines Flight 383 (2016), Chicago, American Airlines_
 
 ##### Royal Clarence Hotel
 ### [A fire destroys the historic Royal Clarence Hotel in Exeter, Devon, which is described as the oldest hotel in England. ](/news/2016/10/28/a-fire-destroys-the-historic-royal-clarence-hotel-in-exeter-devon-which-is-described-as-the-oldest-hotel-in-england.md)
@@ -21,7 +21,7 @@ A massive fire in Exeter destroys historic buildings including what is described
 
 ##### Convention for the Conservation of Antarctic Marine Living Resources
 ### [At an annual meeting of the Convention for the Conservation of Antarctic Marine Living Resources in Hobart, Australia, twenty-four countries and the European Union agree to create the world's largest marine park in Antarctica's Ross Sea. The marine park will cover more than 12 percent of the Southern Ocean, and will be protected from commercial fishing for 35 years. ](/news/2016/10/28/at-an-annual-meeting-of-the-convention-for-the-conservation-of-antarctic-marine-living-resources-in-hobart-australia-twenty-four-countries.md)
-_Context: Hobart, European Union, Southern Ocean, Antarctica, Australia, Convention for the Conservation of Antarctic Marine Living Resources, Ross Sea_
+_Context: Ross Sea, Convention for the Conservation of Antarctic Marine Living Resources, Antarctica, Hobart, Australia, European Union, Southern Ocean_
 
 ##### Drug crackdown
 ### [Datu Saudi-Ampatuan mayor Samsudin Dimaukom, publicly accused by Philippine President Rodrigo Duterte of involvement in the illegal drug trade, is killed, along with nine others, by Philippine police at a highway checkpoint in what police describe as an anti-drug operation. ](/news/2016/10/28/datu-saudi-ampatuan-mayor-samsudin-dimaukom-publicly-accused-by-philippine-president-rodrigo-duterte-of-involvement-in-the-illegal-drug-tra.md)
@@ -29,7 +29,7 @@ _Context: Hobart, European Union, Southern Ocean, Antarctica, Australia, Convent
 
 ##### Bernard Madoff
 ### [Irving Picard, a court-appointed trustee liquidating the Madoff asset management firm, says that he has reached a settlement with the family of the late Stanley Chais, in connection with monies that had been funneled from California investors, through Chais, into Madoff's Ponzi scheme. ](/news/2016/10/28/irving-picard-a-court-appointed-trustee-liquidating-the-madoff-asset-management-firm-says-that-he-has-reached-a-settlement-with-the-family.md)
-_Context: Ponzi scheme, Stanley Chais, Bernard Madoff, Irving Picard_
+_Context: Bernard Madoff, Ponzi scheme, Irving Picard, Stanley Chais_
 
 ##### Email server
 ### [ James Comey informs Congress that "the FBI has learned of the existence of emails that appear pertinent to the investigation." He says the FBI has not yet assessed the importance or significance of these emails. ](/news/2016/10/28/james-comey-informs-congress-that-the-fbi-has-learned-of-the-existence-of-emails-that-appear-pertinent-to-the-investigation-he-says-the.md)

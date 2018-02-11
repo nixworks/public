@@ -5,7 +5,7 @@ Formats: [HTML](2015/01/17/index.html)  [JSON](2015/01/17/index.json)  [XML](201
 
 ##### Terrorism in Yemen
 ### [Gunmen abduct the chief of staff to Yemen's president in the center of the capital, Sana'a. It is uncertain if Shiite Houthi rebels or al-Qaeda militants kidnapped Ahmed Awad bin Mubarak. ](/news/2015/01/17/gunmen-abduct-the-chief-of-staff-to-yemen-s-president-in-the-center-of-the-capital-sana-a-it-is-uncertain-if-shiite-houthi-rebels-or-al-qa.md)
-_Context: Terrorism in Yemen, Yemen, Ahmed Awad bin Mubarak, Sana'a, al-Qaeda_
+_Context: Terrorism in Yemen, al-Qaeda, Ahmed Awad bin Mubarak, Sana'a, Yemen_
 
 ##### Charlie Hebdo
 ### [Violence surrounding various protests against "Charlie Hebdo" leaves five protesters dead as well as some churches set ablaze in Niger. ](/news/2015/01/17/violence-surrounding-various-protests-against-charlie-hebdo-leaves-five-protesters-dead-as-well-as-some-churches-set-ablaze-in-niger.md)
@@ -17,11 +17,11 @@ _Context: Boko Haram, Chad, Nigeria, Cameroon_
 
 ##### Ukraine
 ### [Clashes between the Ukrainian army and pro-Russia rebels over Donetsk International Airport intensifies. ](/news/2015/01/17/clashes-between-the-ukrainian-army-and-pro-russia-rebels-over-donetsk-international-airport-intensifies.md)
-_Context: Ukraine, Russia, army, Donetsk International Airport_
+_Context: Ukraine, Russia, Donetsk International Airport, army_
 
 ##### Athens
 ### [Greek anti-terror police arrest four people in Athens, Greece in alleged relation to the January 15 failed terrorist plot to kill police officers in Belgium. ](/news/2015/01/17/greek-anti-terror-police-arrest-four-people-in-athens-greece-in-alleged-relation-to-the-january-15-failed-terrorist-plot-to-kill-police-off.md)
-_Context: terrorist, Belgium, Greece, Athens_
+_Context: Athens, terrorist, Belgium, Greece_
 
 ##### 2015 Papal visit to Sri Lanka and the Philippines
 ### [Pope Francis celebrates mass at Typhoon Haiyan (Yolanda)-hit city of Tacloban with an audience of half-a-million people. ](/news/2015/01/17/pope-francis-celebrates-mass-at-typhoon-haiyan-yolanda-hit-city-of-tacloban-with-an-audience-of-half-a-million-people.md)

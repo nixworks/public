@@ -13,11 +13,11 @@ _Context: Iraq, Babil Province, car bombing_
 
 ##### Archaeologist
 ### [Archaeologists in the US state of Maryland claim to have found a fort in the Zekiah Swamp in Charles County built to protect the "friendly" Piscataway Indians in 1680. ](/news/2011/09/14/archaeologists-in-the-us-state-of-maryland-claim-to-have-found-a-fort-in-the-zekiah-swamp-in-charles-county-built-to-protect-the-friendly.md)
-_Context: Archaeologist, Zekiah Swamp, Maryland, Piscataway Indians, Charles County_
+_Context: Zekiah Swamp, Charles County, Archaeologist, Piscataway Indians, Maryland_
 
 ##### Robert Zoellick
 ### [Robert Zoellick, the President of the World Bank, claims that the world economy has entered the "danger zone", with the United States, European Union and Japan having to make tough decisions. ](/news/2011/09/14/robert-zoellick-the-president-of-the-world-bank-claims-that-the-world-economy-has-entered-the-danger-zone-with-the-united-states-europ.md)
-_Context: European Union, Japan, World Bank, United States, Robert Zoellick_
+_Context: American, Japan, World Bank, Robert Zoellick, European Union_
 
 ##### Tropical Storm Maria
 ### [Tropical Storm Maria is strengthening in the Atlantic Ocean with a hurricane watch issued in Bermuda for when it arrives either late tonight or tomorrow. ](/news/2011/09/14/tropical-storm-maria-is-strengthening-in-the-atlantic-ocean-with-a-hurricane-watch-issued-in-bermuda-for-when-it-arrives-either-late-tonight.md)
@@ -29,11 +29,11 @@ Former West Australian premier Brian Burke is set to face a new corruption trial
 
 ##### French-born
 ### [A French Appeals Court clears former Prime Minister Dominique de Villepin of charges of involvement in a smear campaign against current President Nicolas Sarkozy. ](/news/2011/09/14/a-french-appeals-court-clears-former-prime-minister-dominique-de-villepin-of-charges-of-involvement-in-a-smear-campaign-against-current-pres.md)
-_Context: Nicolas Sarkozy, Dominique de Villepin, Prime Minister, French-born, French President_
+_Context: French President, Nicolas Sarkozy, Prime Minister, Dominique de Villepin, French-born_
 
 ##### Paul Tiensten
 ### [Paul Tiensten, a former Minister in Papua New Guinea, flees to Australia after being summonsed in East New Britain Province to face charges of fraud and corruption. ](/news/2011/09/14/paul-tiensten-a-former-minister-in-papua-new-guinea-flees-to-australia-after-being-summonsed-in-east-new-britain-province-to-face-charges.md)
-_Context: Australia, East New Britain Province, Paul Tiensten, summons, Papua New Guinea_
+_Context: East New Britain Province, summons, Paul Tiensten, Papua New Guinea, Australia_
 
 ##### Conservative Party
 ### [Two days after his release from prison, British Conservative peer Lord Hanningfield is arrested on suspicion of fraudulently claiming expenses during his time as leader of Essex County Council. ](/news/2011/09/14/two-days-after-his-release-from-prison-british-conservative-peer-lord-hanningfield-is-arrested-on-suspicion-of-fraudulently-claiming-expens.md)
@@ -41,11 +41,11 @@ Lord Hanningfield, who was jailed for expenses fraud, has been arrested over mon
 
 ##### Court case
 ### [In a court case concerning the theft of Kevlar-related trade secrets, DuPont is awarded US$920 million in damages.](/news/2011/09/14/in-a-court-case-concerning-the-theft-of-kevlar-related-trade-secrets-dupont-is-awarded-us-920-million-in-damages.md)
-_Context: Kevlar, DuPont, trade secrets, court case_
+_Context: Kevlar, trade secrets, DuPont, court case_
 
 ##### Australian government
 ### [The Australian government's Minister for Broadband, Communications and the Digital Economy, Stephen Conroy, announces an inquiry into the national media. ](/news/2011/09/14/the-australian-government-s-minister-for-broadband-communications-and-the-digital-economy-stephen-conroy-announces-an-inquiry-into-the-na.md)
-_Context: Stephen Conroy, Australian government_
+_Context: Australian government, Stephen Conroy_
 
 ##### NASA
 ### [NASA announces plans for a Space Launch System to replace the Space Shuttle program with the first flight tentatively scheduled for 2017. ](/news/2011/09/14/nasa-announces-plans-for-a-space-launch-system-to-replace-the-space-shuttle-program-with-the-first-flight-tentatively-scheduled-for-2017.md)

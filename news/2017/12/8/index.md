@@ -13,7 +13,7 @@ António Guterres, UN secretary general, described the attack by an Islamist ext
 
 ##### Japan-European Union relations
 ### [The European Union and Japan announce that they concluded negotiations on a trade deal. ](/news/2017/12/8/the-european-union-and-japan-announce-that-they-concluded-negotiations-on-a-trade-deal.md)
-_Context: Japan-European Union relations, European Union, Japan_
+_Context: European Union, Japan-European Union relations, Japan_
 
 ##### December 2017 Southern California wildfires
 ### [Donald Trump approves California's request for an emergency declaration, allowing the Federal Emergency Management Agency to coordinate disaster relief efforts across five Southern California counties. ](/news/2017/12/8/donald-trump-approves-california-s-request-for-an-emergency-declaration-allowing-the-federal-emergency-management-agency-to-coordinate-disa.md)
@@ -25,7 +25,7 @@ Fourteen of the 15 members of United Nations Security Council condemned Presiden
 
 ##### Brexit negotiations
 ### [The European Union and the United Kingdom reach agreement on the first stage of Brexit including the status of the border between the U.K. and Ireland. ](/news/2017/12/8/the-european-union-and-the-united-kingdom-reach-agreement-on-the-first-stage-of-brexit-including-the-status-of-the-border-between-the-u-k-a.md)
-_Context: Brexit negotiations, European Union, United Kingdom, Irish_
+_Context: United Kingdom, European Union, Irish, Brexit negotiations_
 
 ##### 2017 North Korean crisis
 ### [The Japanese Minister of Defense says that his country is to procure medium-range missiles. This purchase is controversial for a country that renounced the right to wage war. ](/news/2017/12/8/the-japanese-minister-of-defense-says-that-his-country-is-to-procure-medium-range-missiles-this-purchase-is-controversial-for-a-country-tha.md)
@@ -53,7 +53,7 @@ Deputy national security adviser Dina Powell will step down from her position ea
 
 ##### Ukrainian crisis
 ### [Mikheil Saakashvili is arrested again by the National Police of Ukraine. He was on the run since December 5. He has been leading anti-corruption rallies against Petro Poroshenko. ](/news/2017/12/8/mikheil-saakashvili-is-arrested-again-by-the-national-police-of-ukraine-he-was-on-the-run-since-december-5-he-has-been-leading-anti-corrup.md)
-_Context: Mikheil Saakashvili, Ukrainian crisis, Ukrainian police, Petro Poroshenko_
+_Context: Ukrainian police, Mikheil Saakashvili, Petro Poroshenko, Ukrainian crisis_
 
 ## [Previous Day...](/news/2017/12/7/index.md)
 

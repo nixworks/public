@@ -9,9 +9,9 @@ Thailand signs its first-ever deal with Muslim rebels based in Malaysia to begin
 
 ##### 2013 Rishon LeZion car bombing
 ### [2013 Rishon LeZion car bombing: At least 2 people are killed in a car bombing in Rishon LeZion near Tel Aviv, Israel. ](/news/2013/02/28/2013-rishon-lezion-car-bombing-at-least-2-people-are-killed-in-a-car-bombing-in-rishon-lezion-near-tel-aviv-israel.md)
-_Context: car bombing, 2013 Rishon LeZion car bombing, Israel, Rishon LeZion, Tel Aviv_
+_Context: Tel Aviv, Israel, 2013 Rishon LeZion car bombing, car bombing, Rishon LeZion_
 
-##### United States
+##### American
 ### [The United States announces that it will provide $60 million of food and medical aid, but not weapons, to rebel fighters. ](/news/2013/02/28/the-united-states-announces-that-it-will-provide-60-million-of-food-and-medical-aid-but-not-weapons-to-rebel-fighters.md)
 Secretary of State John Kerry says the US will provide &quot;non-lethal&quot; support to Syrian rebels for the first time, as well as extra aid to the opposition.
 
@@ -25,9 +25,9 @@ Bombings target predominantly Shia Muslim areas in and around Baghdad against a 
 
 ##### Cannes Film Festival
 ### [The Cannes Film Festival board of directors announce that Steven Spielberg will head the 2013 Cannes Film Festival jury. ](/news/2013/02/28/the-cannes-film-festival-board-of-directors-announce-that-steven-spielberg-will-head-the-2013-cannes-film-festival-jury.md)
-_Context: 2013 Cannes Film Festival, Steven Spielberg, Cannes Film Festival_
+_Context: Steven Spielberg, 2013 Cannes Film Festival, Cannes Film Festival_
 
-##### United States
+##### American
 ### [Revised data indicates that the United States economy grew 0.1% in the fourth quarter of 2012. ](/news/2013/02/28/revised-data-indicates-that-the-united-states-economy-grew-0-1-in-the-fourth-quarter-of-2012.md)
 Gross domestic product grew at a 0.1 percent annual rate, below the average but above the original estimate of a contraction.
 
@@ -73,7 +73,7 @@ _Context: Alenka Bratusek, Parliament, Janez Jansa, Prime Minister of Slovenia, 
 
 ##### Haruhiko Kuroda
 ### [Haruhiko Kuroda is selected by Japanese Prime Minister Shinzo Abe to lead the Bank of Japan. ](/news/2013/02/28/haruhiko-kuroda-is-selected-by-japanese-prime-minister-shinza-abe-to-lead-the-bank-of-japan.md)
-_Context: Haruhiko Kuroda, Bank of Japan, Shinzo Abe, Japan, Prime Minister of Japan_
+_Context: Shinzo Abe, Bank of Japan, Haruhiko Kuroda, Japan, Prime Minister of Japan_
 
 ##### Eastleigh by-election
 ### [Voters go to the polls in the Eastleigh by-election following the resignation of former UK Cabinet Minister Chris Huhne with Liberal Democrat candidate Mike Thornton retaining the seat for his party. ](/news/2013/02/28/voters-go-to-the-polls-in-the-eastleigh-by-election-following-the-resignation-of-former-uk-cabinet-minister-chris-huhne-with-liberal-democra.md)

@@ -13,7 +13,7 @@ The leader of Bahrain&#8217;s largest opposition party Wednesday confirmed that 
 
 ##### Henrietta Moraes
 ### ["The Portrait of Henrietta Moraes", a painting by Francis Bacon, sells at Christie's for GBP21.3 million, the second most valuable work of post-war contemporary art sold at the London auction house. ](/news/2012/02/15/the-portrait-of-henrietta-moraes-a-painting-by-francis-bacon-sells-at-christie-s-for-agbp21-3-million-the-second-most-valuable-work-of.md)
-_Context: Francis Bacon, London, Henrietta Moraes, Christie's_
+_Context: London, Henrietta Moraes, Christie's, Francis Bacon_
 
 ##### Sony
 ### [Sony admits it increased the price of two Whitney Houston albums hours after she was found in the bathtub of her hotel room last Saturday. Fans react with outrage. ](/news/2012/02/15/sony-admits-it-increased-the-price-of-two-whitney-houston-albums-hours-after-she-was-found-in-the-bathtub-of-her-hotel-room-last-saturday-f.md)
@@ -21,7 +21,7 @@ Record label Sony apologises for increasing the price of two Whitney Houston alb
 
 ##### Coal miner
 ### [Approximately 3000 coal miners working for BHP Billiton in the Australian state of Queensland commence a week-long strike. ](/news/2012/02/15/approximately-3000-coal-miners-working-for-bhp-billiton-in-the-australian-state-of-queensland-commence-a-week-long-strike.md)
-_Context: coal miner, Queensland, BHP Billiton, Australia_
+_Context: Queensland, Australia, BHP Billiton, coal miner_
 
 ##### 
 ### [The UK unemployment rate reaches a 17-year high. ](/news/2012/02/15/the-uk-unemployment-rate-reaches-a-17-year-high.md)
@@ -43,11 +43,11 @@ Four TCU football players were arrested in a drug sweep on and around campus on 
 
 ##### Anti-Counterfeiting Trade Agreement
 ### [ACTA loses further support in Europe as Bulgaria and the Netherlands join Poland and Germany in declining to ratify it due to privacy and human rights concerns. ](/news/2012/02/15/acta-loses-further-support-in-europe-as-bulgaria-and-the-netherlands-join-poland-and-germany-in-declining-to-ratify-it-due-to-privacy-and-hu.md)
-_Context: Anti-Counterfeiting Trade Agreement, Polish, German, Netherlands, Bulgaria, Europe_
+_Context: Polish, Netherlands, Anti-Counterfeiting Trade Agreement, Europe, Bulgaria, German_
 
 ##### Kim Jong-il
 ### [A giant statue of Kim Jong-il is unveiled in North Korea ahead of the 70th anniversary of his birthday. ](/news/2012/02/15/a-giant-statue-of-kim-jong-il-is-unveiled-in-north-korea-ahead-of-the-70th-anniversary-of-his-birthday.md)
-_Context: Kim Jong-il, North Korea_
+_Context: North Korea, Kim Jong-il_
 
 ## [Previous Day...](/news/2012/02/14/index.md)
 

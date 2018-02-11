@@ -13,7 +13,7 @@ _Context: Wikipedia, Jimmy Wales_
 
 ##### India
 ### [ India and Pakistan announce that they have agreed to give each other advance notice of future nuclear missile tests. ](/news/2005/08/6/india-and-pakistan-announce-that-they-have-agreed-to-give-each-other-advance-notice-of-future-nuclear-missile-tests.md)
-_Context: India, Pakistan_
+_Context: Pakistan, India_
 
 ##### Tunisia
 ### [ Fourteen people are killed when a Tunisian ATR 72 passenger plane carrying 39 passengers and crew ditches in the sea off the coast of the Italian island of Sicily. ](/news/2005/08/6/fourteen-people-are-killed-when-a-tunisian-atr-72-passenger-plane-carrying-39-passengers-and-crew-ditches-in-the-sea-off-the-coast-of-the-i.md)
@@ -21,7 +21,7 @@ Search Continues For Three Missing Passengers, 13 Confirmed Dead
 
 ##### Cuba
 ### [ Cuban veteran singer Ibrahim Ferrer, vocalist and front man of the Buena Vista Social Club band, dies at the age of 78 ](/news/2005/08/6/cuban-veteran-singer-ibrahim-ferrer-vocalist-and-front-man-of-the-buena-vista-social-club-band-dies-at-the-age-of-78.md)
-_Context: Buena Vista Social Club, Cuba, Ibrahim Ferrer_
+_Context: Cuba, Buena Vista Social Club, Ibrahim Ferrer_
 
 ## [Previous Day...](/news/2005/08/5/index.md)
 

@@ -25,7 +25,7 @@ Ranbir Kapoor&#039;s Badtameez Dil seems to have won the hearts of the audience 
 
 ##### Tornado
 ### [The death toll from the tornados that hit Oklahoma City on May 31 rises to nine. ](/news/2013/06/1/the-death-toll-from-the-tornados-that-hit-oklahoma-city-on-may-31-rises-to-nine.md)
-_Context: Oklahoma City, tornado_
+_Context: tornado, Oklahoma City_
 
 ##### Manila
 ### [Three people are killed in apartment building explosion in Manila, Philippines. ](/news/2013/06/1/three-people-are-killed-in-apartment-building-explosion-in-manila-philippines.md)

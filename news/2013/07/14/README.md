@@ -13,11 +13,11 @@ Dozens of people have been killed in a wave of explosions which tore through ove
 
 ##### Russia
 ### [Four policemen are killed in Russia's restless Dagestan region as gunmen open fire on their car. ](/news/2013/07/14/four-policemen-are-killed-in-russia-s-restless-dagestan-region-as-gunmen-open-fire-on-their-car.md)
-_Context: Russia, Dagestan_
+_Context: Dagestan, Russia_
 
 ##### Typhoon Soulik
 ### [Typhoon Soulik kills three people in China's Guangdong province after having killed two people in Taiwan. ](/news/2013/07/14/typhoon-soulik-kills-three-people-in-china-s-guangdong-province-after-having-killed-two-people-in-taiwan.md)
-_Context: Typhoon Soulik, China, Taiwan, Guangdong_
+_Context: Taiwan, Typhoon Soulik, Guangdong, China_
 
 ##### Mexican Army
 ### [The Mexican Army captures Miguel Trevio Morales, a leader of the Los Zetas criminal gang. ](/news/2013/07/14/the-mexican-army-captures-miguel-trevino-morales-a-leader-of-the-los-zetas-criminal-gang.md)

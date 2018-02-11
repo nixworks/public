@@ -9,7 +9,7 @@ Roman Catholic bishops called on corrupt Catholic leaders in Africa on Friday to
 
 ##### Bernard Fellay
 ### [ Bernard Fellay, Superior General of the Society of St. Pius X, says that the Vatican is considering the possibility of converting the Lefebvrist group into a personal prelature. ](/news/2009/10/23/bernard-fellay-superior-general-of-the-society-of-st-pius-x-says-that-the-vatican-is-considering-the-possibility-of-converting-the-lefeb.md)
-_Context: Marcel Lefebvre, Society of St. Pius X, Bernard Fellay_
+_Context: Society of St. Pius X, Bernard Fellay, Marcel Lefebvre_
 
 ##### Universal mobile phone charger
 ### [ A universal mobile phone charger that works with any handset is approved by the International Telecommunication Union. ](/news/2009/10/23/a-universal-mobile-phone-charger-that-works-with-any-handset-is-approved-by-the-international-telecommunication-union.md)
@@ -17,7 +17,7 @@ _Context: International Telecommunication Union, universal mobile phone charger_
 
 ##### Jean Todt
 ### [ Jean Todt defeats Ari Vatanen in an election to become the new head of the Fdration Internationale de l'Automobile, replacing former head Max Mosley, who held the position for 16 years. ](/news/2009/10/23/jean-todt-defeats-ari-vatanen-in-an-election-to-become-the-new-head-of-the-federation-internationale-de-l-automobile-replacing-former-head.md)
-_Context: Jean Todt, Max Mosley, Fdration Internationale de l'Automobile, Ari Vatanen_
+_Context: Ari Vatanen, Jean Todt, Max Mosley, Fdration Internationale de l'Automobile_
 
 ##### Economy of the United Kingdom
 ### [ The UK GDP contracts by 0.4% between July and September, meaning that the United Kingdom has been contracting for 6 successive quarters for the first time since records were kept in 1955. ](/news/2009/10/23/the-uk-gdp-contracts-by-0-4-between-july-and-september-meaning-that-the-united-kingdom-has-been-contracting-for-6-successive-quarters-for.md)
@@ -25,7 +25,7 @@ New figures show the British economy shrank unexpectedly in the third quarter of
 
 ##### Swiss Government
 ### [ The Swiss Government says that the United States has formally requested the extradition of film director Roman Polanski for having unlawful sex with an underage girl in 1977. ](/news/2009/10/23/the-swiss-government-says-that-the-united-states-has-formally-requested-the-extradition-of-film-director-roman-polanski-for-having-unlawful.md)
-_Context: extradition, 1977, Swiss Government, United States, sex, Roman Polanski_
+_Context: American, 1977, Roman Polanski, extradition, Swiss Government, sex_
 
 ##### Peshawar
 ### [ A huge explosion rips through an upmarket area of Peshawar in Pakistan. ](/news/2009/10/23/a-huge-explosion-rips-through-an-upmarket-area-of-peshawar-in-pakistan.md)
@@ -33,7 +33,7 @@ _Context: Pakistan, Peshawar_
 
 ##### Oil refinery fire
 ### [ A huge explosion occurs at an oil refinery in Catao, Puerto Rico. ](/news/2009/10/23/a-huge-explosion-occurs-at-an-oil-refinery-in-catano-puerto-rico.md)
-_Context: oil refinery fire, Catao, Puerto Rico, oil refinery_
+_Context: oil refinery, Catao, Puerto Rico, oil refinery fire_
 
 ##### Vitit Muntarbhorn
 ### [ Vitit Muntarbhorn, United Nations Special Rapporteur for North Korea, says the country should improve its "abysmal" rights record, adding it should provide food to over 8 million citizens. ](/news/2009/10/23/vitit-muntarbhorn-united-nations-special-rapporteur-for-north-korea-says-the-country-should-improve-its-abysmal-rights-record-adding-i.md)
@@ -45,7 +45,7 @@ _Context: Association of Southeast Asian Nations_
 
 ##### Kenya
 ### [ A white Kenyan, Thomas P. G. Cholmondeley, is released after five months of an eight month prison sentence for manslaughter. ](/news/2009/10/23/a-white-kenyan-thomas-p-g-cholmondeley-is-released-after-five-months-of-an-eight-month-prison-sentence-for-manslaughter.md)
-_Context: Kenya, Thomas P. G. Cholmondeley_
+_Context: Thomas P. G. Cholmondeley, Kenya_
 
 ## [Previous Day...](/news/2009/10/22/index.md)
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/5/united-states-president-barack-obama-delays-a-me
 
 ### [2009-10-5](/news/2009/10/5/index.md)
 
-##### United States
+##### American
 #  United States President Barack Obama delays a meeting with the Dalai Lama until after a visit to China. 
 
 
@@ -17,8 +17,8 @@ Formats: [HTML](/news/2009/10/5/united-states-president-barack-obama-delays-a-me
 
 ### Related:
 
-1. [ABC News reports that President Barack Obama will nominate the United States Secretary of Commerce Gary Locke as the next United States ambassador to the People's Republic of China. ](/news/2011/03/7/abc-news-reports-that-president-barack-obama-will-nominate-the-united-states-secretary-of-commerce-gary-locke-as-the-next-united-states-amba.md) _Context: Barack Obama, China, U.S. President, United States_
-2. [United States President Barack Obama meets with the Dalai Lama amid opposition from China. ](/news/2010/02/18/united-states-president-barack-obama-meets-with-the-dalai-lama-amid-opposition-from-china.md) _Context: 14th Dalai Lama, Barack Obama, China, United States_
-3. [ China Central Television omits sensitive portions of U.S. President Obama's inaugural address. ](/news/2009/01/21/china-central-television-omits-sensitive-portions-of-u-s-president-obama-s-inaugural-address.md) _Context: Barack Obama, China, U.S. President, United States_
-4. [Plans for a Chicago-based presidential library in honour of the former U.S. President Obama are revealed. ](/news/2017/05/3/plans-for-a-chicago-based-presidential-library-in-honour-of-the-former-u-s-president-obama-are-revealed.md) _Context: Barack Obama, U.S. President, United States_
-5. [Philippine President Rodrigo Duterte tells U.S. President Barack Obama to "go to hell" after the United States refuses to sell some weapons to his country, while also acknowledging the cooperation of Russia and China. ](/news/2016/10/4/philippine-president-rodrigo-duterte-tells-u-s-president-barack-obama-to-go-to-hell-after-the-united-states-refuses-to-sell-some-weapons.md) _Context: Barack Obama, U.S. President, United States_
+1. [ABC News reports that President Barack Obama will nominate the United States Secretary of Commerce Gary Locke as the next United States ambassador to the People's Republic of China. ](/news/2011/03/7/abc-news-reports-that-president-barack-obama-will-nominate-the-united-states-secretary-of-commerce-gary-locke-as-the-next-united-states-amba.md) _Context: American, Barack Obama, China, U.S. President_
+2. [United States President Barack Obama meets with the Dalai Lama amid opposition from China. ](/news/2010/02/18/united-states-president-barack-obama-meets-with-the-dalai-lama-amid-opposition-from-china.md) _Context: 14th Dalai Lama, American, Barack Obama, China_
+3. [ China Central Television omits sensitive portions of U.S. President Obama's inaugural address. ](/news/2009/01/21/china-central-television-omits-sensitive-portions-of-u-s-president-obama-s-inaugural-address.md) _Context: American, Barack Obama, China, U.S. President_
+4. [Plans for a Chicago-based presidential library in honour of the former U.S. President Obama are revealed. ](/news/2017/05/3/plans-for-a-chicago-based-presidential-library-in-honour-of-the-former-u-s-president-obama-are-revealed.md) _Context: American, Barack Obama, U.S. President_
+5. [Philippine President Rodrigo Duterte tells U.S. President Barack Obama to "go to hell" after the United States refuses to sell some weapons to his country, while also acknowledging the cooperation of Russia and China. ](/news/2016/10/4/philippine-president-rodrigo-duterte-tells-u-s-president-barack-obama-to-go-to-hell-after-the-united-states-refuses-to-sell-some-weapons.md) _Context: American, Barack Obama, U.S. President_

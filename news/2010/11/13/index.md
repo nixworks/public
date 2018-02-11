@@ -25,7 +25,7 @@ A fire at a zoo in the German city of Karlsruhe leaves 26 animals dead, includin
 
 ##### Asia Pacific Economic Cooperation
 ### [Leaders from the Asia Pacific Economic Cooperation area attend the APEC Japan 2010 summit in Yokohama. ](/news/2010/11/13/leaders-from-the-asia-pacific-economic-cooperation-area-attend-the-apec-japan-2010-summit-in-yokohama.md)
-_Context: APEC Japan 2010, Asia Pacific Economic Cooperation, Yokohama_
+_Context: Yokohama, Asia Pacific Economic Cooperation, APEC Japan 2010_
 
 ##### U.S. President
 ### [Former U.S. President Jimmy Carter says that Hamas has agreed to deliver a letter from abducted Israel Defense Forces soldier Gilad Shalit to his family; Carter has mediated between the two sides in the past. ](/news/2010/11/13/former-u-s-president-jimmy-carter-says-that-hamas-has-agreed-to-deliver-a-letter-from-abducted-israel-defense-forces-soldier-gilad-shalit-t.md)
@@ -45,11 +45,11 @@ Pro-democracy leader emerges from seven-year house arrest and addresses supporte
 
 ##### Bangladesh
 ### [Police and protesters clash in the Bangladeshi capital Dhaka over the authorities' bid to evict opposition leader Khaleda Zia from her home. ](/news/2010/11/13/police-and-protesters-clash-in-the-bangladeshi-capital-dhaka-over-the-authorities-bid-to-evict-opposition-leader-khaleda-zia-from-her-home.md)
-_Context: Bangladesh, Khaleda Zia, Dhaka_
+_Context: Bangladesh, Dhaka, Khaleda Zia_
 
 ##### France
 ### [The French Cabinet led by Prime Minister Francois Fillon resigns ahead of a reshuffle by President Nicolas Sarkozy. ](/news/2010/11/13/the-french-cabinet-led-by-prime-minister-franassois-fillon-resigns-ahead-of-a-reshuffle-by-president-nicolas-sarkozy.md)
-_Context: French President, France, Prime Minister, Francois Fillon, Nicolas Sarkozy_
+_Context: Francois Fillon, French President, Nicolas Sarkozy, Prime Minister, France_
 
 ## [Previous Day...](/news/2010/11/12/index.md)
 

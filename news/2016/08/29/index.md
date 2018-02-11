@@ -45,7 +45,7 @@ Officials are concerned that the Russians are attempting to interfere in the U.S
 
 ##### Li Jinbin
 ### [Li Jinbin becomes Communist Party Secretary (top official) of Anhui, succeeding Wang Xuejun.Chen Quanguo becomes Communist Party Secretary of the Xinjiang Uyghur Autonomous Region, succeeding Zhang Chunxian, who will take on another office.Li Jiheng becomes Communist Party Secretary of the Inner Mongolia Autonomous Region, succeeding Wang Jun. ](/news/2016/08/29/li-jinbin-becomes-communist-party-secretary-top-official-of-anhui-succeeding-wang-xuejun-chen-quanguo-becomes-communist-party-secretary-o.md)
-_Context: Anhui, Xinjiang Uyghur Autonomous Region, Inner Mongolia, Li Jiheng, Chen Quanguo, Communist Party Secretary, Zhang Chunxian, Wang Xuejun, Li Jinbin, Wang Jun_
+_Context: Chen Quanguo, Li Jiheng, Wang Jun, Xinjiang Uyghur Autonomous Region, Zhang Chunxian, Communist Party Secretary, Inner Mongolia, Li Jinbin, Anhui, Wang Xuejun_
 
 ##### University of Texas at Austin
 ### [Scientists from the University of Texas at Austin postulate that the hominin fossil Lucy (Dinkinesh) died due to a fall from a tree. Paleoanthropologist Donald Johanson, who is credited with discovering and naming Lucy, disagrees. ](/news/2016/08/29/scientists-from-the-university-of-texas-at-austin-postulate-that-the-hominin-fossil-lucy-dinkinesh-died-due-to-a-fall-from-a-tree-paleoan.md)

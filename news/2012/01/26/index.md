@@ -13,7 +13,7 @@ The retired colonel who claims to have seized control of PNG&#039;s military thr
 
 ##### United Nations
 ### [The United Nations says detainees from Libya's civil war are being tortured. ](/news/2012/01/26/the-united-nations-says-detainees-from-libya-s-civil-war-are-being-tortured.md)
-_Context: Libya, United Nations, civil war_
+_Context: civil war, United Nations, Libya_
 
 ##### 2011-2012 Syrian uprising
 ### [2011-2012 Syrian uprising: The Arab League calls on the United Nations Security Council to back its plan to end the violence in Syria. ](/news/2012/01/26/2011a2012-syrian-uprising-the-arab-league-calls-on-the-united-nations-security-council-to-back-its-plan-to-end-the-violence-in-syria.md)

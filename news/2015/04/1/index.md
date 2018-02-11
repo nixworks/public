@@ -9,11 +9,11 @@ The emergency landing of two U.S. Marine Corps F-18 fighter jets on the island o
 
 ##### Mexican
 ### [Flames engulf a Mexican state-run Pemex oil platform in the Gulf of Mexico, killing four workers. ](/news/2015/04/1/flames-engulf-a-mexican-state-run-pemex-oil-platform-in-the-gulf-of-mexico-killing-four-workers.md)
-_Context: Gulf of Mexico, Mexican, Petroleos Mexicanos_
+_Context: Mexican, Petroleos Mexicanos, Gulf of Mexico_
 
 ##### Russia
 ### [The Russian trawler "Dalniy Vostok" with 132 crew sinks off of the Kamchatka peninsula leaving at least 54 dead and 15 missing. ](/news/2015/04/1/the-russian-trawler-dalniy-vostok-with-132-crew-sinks-off-of-the-kamchatka-peninsula-leaving-at-least-54-dead-and-15-missing.md)
-_Context: Russia, ''Dalniy Vostok'', Kamchatka peninsula, sinks_
+_Context: Russia, Kamchatka peninsula, sinks, ''Dalniy Vostok''_
 
 ##### California
 ### [California governor Jerry Brown announces mandatory water restrictions in response to the worst drought in California history. ](/news/2015/04/1/california-governor-jerry-brown-announces-mandatory-water-restrictions-in-response-to-the-worst-drought-in-california-history.md)
@@ -29,11 +29,11 @@ _Context: Tulsa, Oklahoma_
 
 ##### New Jersey
 ### [A federal grand jury indicts New Jersey Senator Bob Menendez on corruption charges. ](/news/2015/04/1/a-federal-grand-jury-indicts-new-jersey-senator-bob-menendez-on-corruption-charges.md)
-_Context: New Jersey, Bob Menendez_
+_Context: Bob Menendez, New Jersey_
 
 ##### Atlanta
 ### [A court convicts eleven Atlanta, Georgia teachers as part of a mass cheating scandal. ](/news/2015/04/1/a-court-convicts-eleven-atlanta-georgia-teachers-as-part-of-a-mass-cheating-scandal.md)
-_Context: mass cheating scandal, Atlanta, Georgia_
+_Context: Georgia, mass cheating scandal, Atlanta_
 
 ##### Obama Administration
 ### [The Obama Administration targets overseas cyber attackers with a sanctions program. ](/news/2015/04/1/the-obama-administration-targets-overseas-cyber-attackers-with-a-sanctions-program.md)

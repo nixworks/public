@@ -9,23 +9,23 @@ _Context: Dick Cheney, President of Haiti, Jean-Bertrand Aristide, United States
 
 ##### Conservative Party
 ### [ The UK Conservative Party withdraws from the Butler Inquiry into intelligence on Iraq's weapons of mass destruction, claiming the way its terms of reference have been interpreted is too narrow. The Liberal Democrats claim that this was obvious from the beginning. ](/news/2004/03/1/the-uk-conservative-party-withdraws-from-the-butler-inquiry-into-intelligence-on-iraq-s-weapons-of-mass-destruction-claiming-the-way-its-t.md)
-_Context: Iraq, Butler Review, Liberal Democrats, weapons of mass destruction, Conservative Party_
+_Context: Liberal Democrats, Butler Review, Iraq, Conservative Party, weapons of mass destruction_
 
 ##### Russian President
 ### [ President of Russia Vladimir Putin names Mikhail Fradkov as his new prime minister. ](/news/2004/03/1/president-of-russia-vladimir-putin-names-mikhail-fradkov-as-his-new-prime-minister.md)
-_Context: Prime Minister of Russia, Mikhail Fradkov, Vladimir Putin, Russian President_
+_Context: Vladimir Putin, Russian President, Prime Minister of Russia, Mikhail Fradkov_
 
 ##### Marc Dutroux
 ### [ Marc Dutroux, alleged Belgian child molester and murderer of four girls, goes on trial. ](/news/2004/03/1/marc-dutroux-alleged-belgian-child-molester-and-murderer-of-four-girls-goes-on-trial.md)
-_Context: Marc Dutroux, child molestation, murderer, Belgium_
+_Context: child molestation, Marc Dutroux, Belgium, murderer_
 
 ##### Same-sex marriage in the United States
 ### [ Same-sex marriage in the United States: President of the United States George W. Bush urges passage of a constitutional amendment to define marriage as between one man and one woman, as the only way to stop "municipal and judicial activists" from issuing marriage licenses to same-sex couples. "If we are to prevent the meaning of marriage from being changed forever, our nation must enact a constitutional amendment." John Kerry denounces the amendment as "toying" or "tampering" with the Constitution of the United States for partisan advantage. ](/news/2004/03/1/same-sex-marriage-in-the-united-states-president-of-the-united-states-george-w-bush-urges-passage-of-a-constitutional-amendment-to-define.md)
-_Context: constitutional amendment to ban, John Kerry, George W. Bush, Same-sex marriage in the United States, marriage, unconstitutional, U.S. President_
+_Context: Same-sex marriage in the United States, George W. Bush, constitutional amendment to ban, John Kerry, marriage, unconstitutional, U.S. President_
 
 ##### British Academy of Film and Television Arts
 ### [ The winners of the BAFTA Games Awards are announced. The controversial and popular Grand Theft Auto: Vice City sweeps the pool, with five awards. ](/news/2004/03/1/the-winners-of-the-bafta-games-awards-are-announced-the-controversial-and-popular-grand-theft-auto-vice-city-sweeps-the-pool-with-five-a.md)
-_Context: Grand Theft Auto: Vice City, British Academy of Film and Television Arts_
+_Context: British Academy of Film and Television Arts, Grand Theft Auto: Vice City_
 
 ##### Haiti
 ### [ Several hundred United States, French, and Canadian troops are deployed to Haiti. ](/news/2004/03/1/several-hundred-united-states-french-and-canadian-troops-are-deployed-to-haiti.md)

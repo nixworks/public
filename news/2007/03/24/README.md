@@ -9,15 +9,15 @@ _Context: Senator, Democratic Republic of Congo, Jean-Pierre Bemba, Kinshasa_
 
 ##### United Kingdom
 ### [ The United Kingdom announces the withdrawal of all British Armed Forces serving as part of the European Union Force in Bosnia and Herzegovina. ](/news/2007/03/24/the-united-kingdom-announces-the-withdrawal-of-all-british-armed-forces-serving-as-part-of-the-european-union-force-in-bosnia-and-herzegovi.md)
-_Context: United Kingdom, Bosnia and Herzegovina, British military personnel, European Union Force_
+_Context: British military personnel, United Kingdom, European Union Force, Bosnia and Herzegovina_
 
 ##### War in Iraq
 ### [ War in Iraq: At least 47 people die in insurgent strikes including 20 as a result of a suicide truck bomb in a Baghdad police station. ](/news/2007/03/24/war-in-iraq-at-least-47-people-die-in-insurgent-strikes-including-20-as-a-result-of-a-suicide-truck-bomb-in-a-baghdad-police-station.md)
-_Context: insurgent, car bomb, War in Iraq, suicide attack, police station, Baghdad_
+_Context: police station, suicide attack, War in Iraq, car bomb, Baghdad, insurgent_
 
 ##### United Nations Security Council
 ### [ The United Nations Security Council unanimously adopts Resolution 1747, imposing additional economic sanctions on the Islamic Republic of Iran for its ongoing nuclear programme. ](/news/2007/03/24/the-united-nations-security-council-unanimously-adopts-resolution-1747-imposing-additional-economic-sanctions-on-the-islamic-republic-of-i.md)
-_Context: economic sanction, Resolution 1747, United Nations Security Council, Islamic Republic of Iran, produce nuclear fuel on an industrial scale_
+_Context: United Nations Security Council, Islamic Republic of Iran, produce nuclear fuel on an industrial scale, Resolution 1747, economic sanction_
 
 ##### Xi Jinping
 ### [ Xi Jinping is appointed the new CPC Shanghai Committee Secretary, thus becoming the number one figure in Shanghai, replacing acting party chief Han Zheng. He leaves his post as Party chief in Zhejiang. ](/news/2007/03/24/xi-jinping-is-appointed-the-new-cpc-shanghai-committee-secretary-thus-becoming-the-number-one-figure-in-shanghai-replacing-acting-party-c.md)

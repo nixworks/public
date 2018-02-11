@@ -5,7 +5,7 @@ Formats: [HTML](2013/05/15/index.html)  [JSON](2013/05/15/index.json)  [XML](201
 
 ##### Alcohol
 ### [Gunmen using silenced weapons attack at least nine alcohol stores in western Baghdad, killing twelve people. ](/news/2013/05/15/gunmen-using-silenced-weapons-attack-at-least-nine-alcohol-stores-in-western-baghdad-killing-twelve-people.md)
-_Context: stores, Baghdad, alcohol_
+_Context: Baghdad, alcohol, stores_
 
 ##### Syria
 ### [Rebel fighters launch a massive assault on a prison in Syria's northern city of Aleppo. ](/news/2013/05/15/rebel-fighters-launch-a-massive-assault-on-a-prison-in-syria-s-northern-city-of-aleppo.md)
@@ -13,7 +13,7 @@ Syrian rebel fighters launch an attack on Aleppo prison, and government forces r
 
 ##### DR Congo
 ### [A rebel attack on army positions in the eastern Democratic Republic of the Congo town of Beni leaves at least 31 people dead, including 23 Mai Mai and three FARDC troops. ](/news/2013/05/15/a-rebel-attack-on-army-positions-in-the-eastern-democratic-republic-of-the-congo-town-of-beni-leaves-at-least-31-people-dead-including-23-m.md)
-_Context: DR Congo, Mai Mai, FARDC, Beni_
+_Context: Beni, FARDC, Mai Mai, DR Congo_
 
 ##### Americans
 ### [American graphic designer Richard Swanson dies after being struck by a pickup truck in Oregon while attempting to dribble a soccer ball all the way to Brazil to raise money for charity. ](/news/2013/05/15/american-graphic-designer-richard-swanson-dies-after-being-struck-by-a-pickup-truck-in-oregon-while-attempting-to-dribble-a-soccer-ball-all.md)
@@ -41,19 +41,19 @@ The Bank of England upgrades its economic growth forecast, but separate figures 
 
 ##### Myanmar
 ### [Authorities in Myanmar and Bangladesh prepare for the arrival of Cyclone Mahasen, which has already killed at least seven people and displaced nearly 4,000 in Sri Lanka. ](/news/2013/05/15/authorities-in-myanmar-and-bangladesh-prepare-for-the-arrival-of-cyclone-mahasen-which-has-already-killed-at-least-seven-people-and-displac.md)
-_Context: Bangladesh, Myanmar, Sri Lanka, Cyclone Mahasen_
+_Context: Bangladesh, Cyclone Mahasen, Myanmar, Sri Lanka_
 
 ##### Granbury, Texas
 ### [A tornado hits Granbury, Texas, United States, killing several people and injuring at least 100. ](/news/2013/05/15/a-tornado-hits-granbury-texas-united-states-killing-several-people-and-injuring-at-least-100.md)
-_Context: United States, Granbury, Texas_
+_Context: Granbury, Texas, American_
 
 ##### U.S.
 ### [The jury in the U.S. state of Arizona that convicted Jodi Arias of first-degree murder last week quickly decide that she should either face the death penalty or life in prison without parole during the penalty phase of trial. ](/news/2013/05/15/the-jury-in-the-u-s-state-of-arizona-that-convicted-jodi-arias-of-first-degree-murder-last-week-quickly-decide-that-she-should-either-face.md)
-_Context: sentenced to death, U.S., life in prison without parole, Arizona, first-degree murder, Jodi Arias_
+_Context: U.S., sentenced to death, life in prison without parole, Jodi Arias, first-degree murder, Arizona_
 
 ##### U.S.
 ### [According to the U.S. ATF, no evidence has yet been found that a bomb blast was responsible for the April West Fertilizer Company explosion that killed fifteen people in West, Texas. ](/news/2013/05/15/according-to-the-u-s-atf-no-evidence-has-yet-been-found-that-a-bomb-blast-was-responsible-for-the-april-west-fertilizer-company-explosion.md)
-_Context: West Fertilizer Company explosion, U.S., West, Texas, Bureau of Alcohol, Tobacco, Firearms and Explosives_
+_Context: West, Texas, Bureau of Alcohol, Tobacco, Firearms and Explosives, West Fertilizer Company explosion, U.S._
 
 ##### China
 ### [China, India, and four other nations join the Arctic Council with observer status. ](/news/2013/05/15/china-india-and-four-other-nations-join-the-arctic-council-with-observer-status.md)
@@ -69,7 +69,7 @@ WASHINGTON &ndash; President Obama announced the resignation Wednesday evening o
 
 ##### United Kingdom
 ### [In the United Kingdom House of Commons, an amendment to last Wednesday's Queen's Speech expressing regret that it did not contain legislation for a referendum on EU membership is defeated 277&ndash;131. ](/news/2013/05/15/in-the-united-kingdom-house-of-commons-an-amendment-to-last-wednesday-s-queen-s-speech-expressing-regret-that-it-did-not-contain-legislatio.md)
-_Context: Queen's Speech, European Union, House of Commons, United Kingdom_
+_Context: United Kingdom, Queen's Speech, European Union, House of Commons_
 
 ##### Nature
 ### [In a study published in "Nature", University of Oregon researchers describe the first creation of human embryonic stem cells by cloning. ](/news/2013/05/15/in-a-study-published-in-nature-university-of-oregon-researchers-describe-the-first-creation-of-human-embryonic-stem-cells-by-cloning.md)

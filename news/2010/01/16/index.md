@@ -25,11 +25,11 @@ Diamond oceans are possible on Uranus and Neptune. Learn how scientists discover
 
 ##### Afghanistan
 ### [The Afghan parliament for a second time rejects most of President Hamid Karzai's cabinet nominees. ](/news/2010/01/16/the-afghan-parliament-for-a-second-time-rejects-most-of-president-hamid-karzai-s-cabinet-nominees.md)
-_Context: Hamid Karzai, Afghanistan_
+_Context: Afghanistan, Hamid Karzai_
 
 ##### India
 ### [India's National Security Advisor M K Narayanan steps down as part of an overhaul of security in the country. ](/news/2010/01/16/india-s-national-security-advisor-m-k-narayanan-steps-down-as-part-of-an-overhaul-of-security-in-the-country.md)
-_Context: National Security Advisor, M K Narayanan, India_
+_Context: National Security Advisor, India, M K Narayanan_
 
 ##### China
 ### [China announces an increase of 28% in the number of internet users in the country, now at 384 million. ](/news/2010/01/16/china-announces-an-increase-of-28-in-the-number-of-internet-users-in-the-country-now-at-384-million.md)
@@ -41,7 +41,7 @@ A tragedy has occurred at the main Havana Psychiatric Hospital with 26 patients 
 
 ##### Malaysia
 ### [Another church is attacked in Malaysia and a mosque also targeted for the first time in a row over the use of the word "Allah" by non-Muslims. ](/news/2010/01/16/another-church-is-attacked-in-malaysia-and-a-mosque-also-targeted-for-the-first-time-in-a-row-over-the-use-of-the-word-allah-by-non-muslim.md)
-_Context: Malaysia, Muslim, in a row, Allah_
+_Context: Allah, Malaysia, Muslim, in a row_
 
 ##### Kenya
 ### [Kenya will deport a radical Jamaican Muslim cleric Abdullah el-Faisal after protests against his detention led to rioting. ](/news/2010/01/16/kenya-will-deport-a-radical-jamaican-muslim-cleric-abdullah-el-faisal-after-protests-against-his-detention-led-to-rioting.md)
@@ -49,11 +49,11 @@ Kenya will deport jailed Jamaican Muslim cleric Sheikh Abdullah al-Faisal &quot;
 
 ##### Australian
 ### [Australian police bust a $A18 million cannabis crop. The cannabis crop has been found growing on leased land in a national park in northern New South Wales. ](/news/2010/01/16/australian-police-bust-a-a18-million-cannabis-crop-the-cannabis-crop-has-been-found-growing-on-leased-land-in-a-national-park-in-northern.md)
-_Context: national park, cannabis, Australian, NSW_
+_Context: NSW, Australian, national park, cannabis_
 
 ##### Japan
 ### [Japanese politician Ichiro Ozawa vows to stay on after the arrests of several of his aides in a growing funding scandal in the Democratic Party of Japan. ](/news/2010/01/16/japanese-politician-ichiro-ozawa-vows-to-stay-on-after-the-arrests-of-several-of-his-aides-in-a-growing-funding-scandal-in-the-democratic-pa.md)
-_Context: Ichiro Ozawa, Japan, Democratic Party_
+_Context: Democratic Party, Ichiro Ozawa, Japan_
 
 ## [Previous Day...](/news/2010/01/15/index.md)
 

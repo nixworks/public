@@ -25,15 +25,15 @@ BUENOS AIRES, Argentina (AP) — A strong earthquake with a magnitude of 6.2 str
 
 ##### Australia-United States relations
 ### [Australia and the United States reach a deal to relocate asylum seekers from Nauru and Papua New Guinea's Manus Island to the U.S. ](/news/2016/11/13/australia-and-the-united-states-reach-a-deal-to-relocate-asylum-seekers-from-nauru-and-papua-new-guinea-s-manus-island-to-the-u-s.md)
-_Context: Papua New Guinea, Australia-United States relations, Nauru, United States, Manus Island, Australia_
+_Context: Papua New Guinea, Australia, American, Manus Island, Nauru, Australia-United States relations_
 
 ##### Philippine
 ### [Philippine president Rodrigo Duterte threatens to suspend the country's habeas corpus "if forced to" by what he says the worsening lawlessness in the country. He mentioned in the same speech, the alleged widespread illegal drug trade in the country, the rebellion in Mindanao, and the worsening campaign against the militant Maute group. ](/news/2016/11/13/philippine-president-rodrigo-duterte-threatens-to-suspend-the-country-s-habeas-corpus-if-forced-to-by-what-he-says-the-worsening-lawlessne.md)
-_Context: Philippine, Rodrigo Duterte, Maute group, habeas corpus, Moro conflict_
+_Context: Moro conflict, Rodrigo Duterte, Maute group, habeas corpus, Philippine_
 
 ##### Bulgarian presidential election, 2016
 ### [Bulgarians head to the polls in a presidential runoff between BSP backed Rumen Radev, of the socialist opposition, and Tsetska Tsacheva, Chairwoman of the National Assembly, from incumbent prime-minister Boyko Borisov's conservative GERB. Exit polls by Alpha Research and Gallup International show Radev with about 58 percent of the vote with Tsacheva getting around 35 percent. ](/news/2016/11/13/bulgarians-head-to-the-polls-in-a-presidential-runoff-between-bsp-backed-rumen-radev-of-the-socialist-opposition-and-tsetska-tsacheva-cha.md)
-_Context: Bulgarian presidential election, 2016, Tsetska Tsacheva, Boyko Borisov, Rumen Radev, GERB, Prime Minister, Chairwoman of the National Assembly, conservative, socialist, Socialist Party, Gallup International_
+_Context: Prime Minister, GERB, Bulgarian presidential election, 2016, Chairwoman of the National Assembly, Gallup International, Rumen Radev, Tsetska Tsacheva, Boyko Borisov, Socialist Party, conservative, socialist_
 
 ##### Moldovan presidential election
 ### [Voters in Moldova head to the polls in the country's presidential runoff between two opposition candidates, Igor Dodon, from the pro-Russian socialist PSRM, and Maia Sandu, from the pro-EU liberal PAS, with Dodon expected to win. Preliminary results, in this first Moldovan election where the president is chosen by national votes rather than by parliament, will be announced Monday. ](/news/2016/11/13/voters-in-moldova-head-to-the-polls-in-the-country-s-presidential-runoff-between-two-opposition-candidates-igor-dodon-from-the-pro-russian.md)
@@ -41,7 +41,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ##### 2016 South Korean political scandal
 ### [A South Korean official says prosecutors will question President Park Geun-hye, no later than Wednesday, about the political corruption scandal. This will be the first time a sitting president is questioned by prosecutors in a criminal case. ](/news/2016/11/13/a-south-korean-official-says-prosecutors-will-question-president-park-geun-hye-no-later-than-wednesday-about-the-political-corruption-scan.md)
-_Context: Park Geun-hye, 2016 South Korean political scandal, South Korea, South Korean President_
+_Context: South Korea, South Korean President, Park Geun-hye, 2016 South Korean political scandal_
 
 ##### Presidential transition of Donald Trump
 ### [President-elect of the United States Donald Trump says he plans to deport or imprison up to 3 million illegal migrants, targeting those with criminal records. ](/news/2016/11/13/president-elect-of-the-united-states-donald-trump-says-he-plans-to-deport-or-imprison-up-to-3-million-illegal-migrants-targeting-those-with.md)

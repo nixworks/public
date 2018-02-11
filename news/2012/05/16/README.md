@@ -9,11 +9,11 @@ _Context: Cambodia_
 
 ##### Black box
 ### [The black box from a Russian passenger jet that crashed in the Indonesian province of West Java on May 9 is recovered by Indonesian authorities. ](/news/2012/05/16/the-black-box-from-a-russian-passenger-jet-that-crashed-in-the-indonesian-province-of-west-java-on-may-9-is-recovered-by-indonesian-authorit.md)
-_Context: West Java, Russian passenger jet that crashed, Indonesia, black box_
+_Context: Russian passenger jet that crashed, black box, West Java, Indonesia_
 
 ##### Bosnian Serb
 ### [The trial of former Bosnian Serb Army Colonel General Ratko Mladic starts in the International Criminal Tribunal for the former Yugoslavia in The Hague, Netherlands. ](/news/2012/05/16/the-trial-of-former-bosnian-serb-army-colonel-general-ratko-mladia-starts-in-the-international-criminal-tribunal-for-the-former-yugoslavia.md)
-_Context: Army, Bosnian Serb, Ratko Mladic, Colonel General, International Criminal Tribunal for the former Yugoslavia, The Hague_
+_Context: International Criminal Tribunal for the former Yugoslavia, Army, The Hague, Bosnian Serb, Ratko Mladic, Colonel General_
 
 ##### Police
 ### [Police in the Australian state of Queensland remove an Aboriginal Tent Embassy in Musgrave Park in the state capital Brisbane. ](/news/2012/05/16/police-in-the-australian-state-of-queensland-remove-an-aboriginal-tent-embassy-in-musgrave-park-in-the-state-capital-brisbane.md)
@@ -33,7 +33,7 @@ _Context: Melbourne, Banksy, Parachuting Rat_
 
 ##### China Central Television Headquarters
 ### [China Central Television Headquarters in Beijing is completed, a decade after its design by OMA. ](/news/2012/05/16/china-central-television-headquarters-in-beijing-is-completed-a-decade-after-its-design-by-oma.md)
-_Context: OMA, China Central Television Headquarters_
+_Context: China Central Television Headquarters, OMA_
 
 ## [Previous Day...](/news/2012/05/15/index.md)
 

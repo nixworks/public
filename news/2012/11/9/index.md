@@ -13,11 +13,11 @@ _Context: Stockholm, Swedish prime minister, Sager House_
 
 ##### Iranian Revolutionary guards
 ### [Two Iranian Revolutionary Guard fighter jets fire on an unmanned American General Atomics MQ-1 Predator drone in international airspace near Kuwait. ](/news/2012/11/9/two-iranian-revolutionary-guard-fighter-jets-fire-on-an-unmanned-american-general-atomics-mq-1-predator-drone-in-international-airspace-near.md)
-_Context: Iranian Revolutionary guards, Kuwait, fire, General Atomics MQ-1 Predator_
+_Context: Kuwait, Iranian Revolutionary guards, fire, General Atomics MQ-1 Predator_
 
 ##### Colombo
 ### [Clashes break out at a jail in Colombo, Sri Lanka, killing at least 13 inmates and injuring 32 others. At least nine police officers, a prison guard and a bystander were also injured during the disturbances. ](/news/2012/11/9/clashes-break-out-at-a-jail-in-colombo-sri-lanka-killing-at-least-13-inmates-and-injuring-32-others-at-least-nine-police-officers-a-pris.md)
-_Context: Colombo, Sri Lanka_
+_Context: Sri Lanka, Colombo_
 
 ##### Bahraini uprising (2011-present)
 ### [Bahraini uprising: A teenager is killed during a crackdown on protesters near the capital Manama. ](/news/2012/11/9/bahraini-uprising-a-teenager-is-killed-during-a-crackdown-on-protesters-near-the-capital-manama.md)
@@ -37,15 +37,15 @@ The ambushing of the Prime Minister with the names of rumoured Tory paedophiles 
 
 ##### Central Intelligence Agency
 ### [CIA Director David Petraeus submits his resignation to President Barack Obama, citing an extramarital affair he had. ](/news/2012/11/9/cia-director-david-petraeus-submits-his-resignation-to-president-barack-obama-citing-an-extramarital-affair-he-had.md)
-_Context: David Petraeus, Director of the CIA, Central Intelligence Agency, Barack Obama_
+_Context: Central Intelligence Agency, David Petraeus, Barack Obama, Director of the CIA_
 
 ##### Russia
 ### [Russian president Vladimir Putin sacks the chief of the armed forces Nikolai Makarov, three days after sacking the defence minister amid a corruption scandal. ](/news/2012/11/9/russian-president-vladimir-putin-sacks-the-chief-of-the-armed-forces-nikolai-makarov-three-days-after-sacking-the-defence-minister-amid-a-c.md)
-_Context: Russia, Vladimir Putin, Nikolai Makarov_
+_Context: Nikolai Makarov, Russia, Vladimir Putin_
 
 ##### China
 ### [Hundreds of Tibetan students and monks protest against education policies in China's western Qinghai Province, shortly after a series of self-immolations by Tibetan monks. ](/news/2012/11/9/hundreds-of-tibetan-students-and-monks-protest-against-education-policies-in-china-s-western-qinghai-province-shortly-after-a-series-of-sel.md)
-_Context: monks, Tibet, Qinghai Province, China_
+_Context: Tibet, monks, China, Qinghai Province_
 
 ##### Secretary of State for International Development
 ### [The UK's Secretary of State for International Development Justine Greening confirms Britain will cease giving financial aid to India by 2015. ](/news/2012/11/9/the-uk-s-secretary-of-state-for-international-development-justine-greening-confirms-britain-will-cease-giving-financial-aid-to-india-by-2015.md)

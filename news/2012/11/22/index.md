@@ -13,7 +13,7 @@ A 16-year-old Russian ban on importing British beef and lamb is to be lifted.
 
 ##### European Commission
 ### [The European Commission gives its backing to commodities giant Glencore's $31 billion (GBP19.5 billion) bid to take over mining company Xstrata. ](/news/2012/11/22/the-european-commission-gives-its-backing-to-commodities-giant-glencore-s-31-billion-agbp19-5-billion-bid-to-take-over-mining-company-xst.md)
-_Context: Xstrata, mining company, European Commission, Glencore_
+_Context: mining company, Xstrata, Glencore, European Commission_
 
 ##### Subway train
 ### [A subway train rear ends another in Busan, South Korea, injuring 40. ](/news/2012/11/22/a-subway-train-rear-ends-another-in-busan-south-korea-injuring-40.md)
@@ -21,11 +21,11 @@ _Context: Busan, South Korea, subway train_
 
 ##### Beaumont, Texas
 ### [Up to 120 people are injured and 2 killed near Beaumont, Texas in a 100-vehicle pileup in dense fog that forced the closure of both directions of Interstate 10 in Southeast Texas. ](/news/2012/11/22/up-to-120-people-are-injured-and-2-killed-near-beaumont-texas-in-a-100-vehicle-pileup-in-dense-fog-that-forced-the-closure-of-both-directio.md)
-_Context: Southeast Texas, Interstate 10, Beaumont, Texas_
+_Context: Beaumont, Texas, Interstate 10, Southeast Texas_
 
 ##### Hostage
 ### [A hostage situation in the northern city of Thessaloniki, Greece, ends peacefully, as policemen arrest a 72-year-old Greek pensioner who was threatening to set a tax office building on fire due to a financial dispute. ](/news/2012/11/22/a-hostage-situation-in-the-northern-city-of-thessaloniki-greece-ends-peacefully-as-policemen-arrest-a-72-year-old-greek-pensioner-who-was.md)
-_Context: arson, Thessaloniki, Greece, hostage, pensioner_
+_Context: pensioner, Thessaloniki, arson, hostage, Greece_
 
 ##### Israel
 ### [Israeli police and Shin Bet arrest several suspects in relation to the bombing of a public bus in Tel Aviv. The suspects claim affiliation with Hamas and Islamic Jihad and reveal they planted the bomb on the bus and detonated it remotely using a cell phone. ](/news/2012/11/22/israeli-police-and-shin-bet-arrest-several-suspects-in-relation-to-the-bombing-of-a-public-bus-in-tel-aviv-the-suspects-claim-affiliation-w.md)
@@ -33,7 +33,7 @@ Israel Security Agency reveals suspects arrested hours after the terror attack t
 
 ##### Japan
 ### [Japanese police rescue four hostages from a Toyokawa Shinkin bank and arrest the knife-wielding man who had held them captive for more than 12 hours while demanding that Prime Minister Yoshihiko Noda resign. ](/news/2012/11/22/japanese-police-rescue-four-hostages-from-a-toyokawa-shinkin-bank-and-arrest-the-knife-wielding-man-who-had-held-them-captive-for-more-than.md)
-_Context: police, Yoshihiko Noda, Toyokawa, Japan, hostage, Shinkin bank, Prime Minister of Japan_
+_Context: Japan, hostage, Toyokawa, Yoshihiko Noda, police, Prime Minister of Japan, Shinkin bank_
 
 ##### BBC
 ### [The BBC appoints Tony Hall, Baron Hall of Birkenhead, as the new Director-General of the corporation after the resignation of George Entwistle earlier this month due to the Newsnight controversy. He is expected to start in the role in early March 2013. ](/news/2012/11/22/the-bbc-appoints-tony-hall-baron-hall-of-birkenhead-as-the-new-director-general-of-the-corporation-after-the-resignation-of-george-entwist.md)

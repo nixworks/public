@@ -17,7 +17,7 @@ A plane has crashed in Malta, killing all five people on board in the country&#0
 
 ##### France
 ### [France clears the Calais Jungle, relocating six thousand migrants. ](/news/2016/10/24/france-clears-the-calais-jungle-relocating-six-thousand-migrants.md)
-_Context: Calais Jungle, France_
+_Context: France, Calais Jungle_
 
 ##### Montgomery County
 ### [Wendy Demchick-Alloy, a Montgomery County court judge in Norristown, sentences former Pennsylvania Attorney General Kathleen Kane to serve 10 to 23 months in county jail for leaking confidential grand jury information and then lying about it to investigators. Specifically, she was convicted on August 15 on charges of perjury, false swearing, obstruction of justice, official oppression, and conspiracy. ](/news/2016/10/24/wendy-demchick-alloy-a-montgomery-county-court-judge-in-norristown-sentences-former-pennsylvania-attorney-general-kathleen-kane-to-serve-1.md)

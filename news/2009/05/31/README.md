@@ -5,39 +5,39 @@ Formats: [HTML](2009/05/31/index.html)  [JSON](2009/05/31/index.json)  [XML](200
 
 ##### Parti Keadilan Rakyat
 ### [ The People's Justice Party wins the by-election in Penanti, Penang, Malaysia. ](/news/2009/05/31/the-people-s-justice-party-wins-the-by-election-in-penanti-penang-malaysia.md)
-_Context: Penang, Parti Keadilan Rakyat, by-election, Malaysia, Penanti_
+_Context: by-election, Penanti, Parti Keadilan Rakyat, Penang, Malaysia_
 
 ##### Russia
 ### [ Russian cyclist Denis Menchov wins the 2009 Giro d'Italia in Rome, Italy. ](/news/2009/05/31/russian-cyclist-denis-menchov-wins-the-2009-giro-d-italia-in-rome-italy.md)
-_Context: cyclist, Rome, Italy, Italy, Giro d'Italia, Russia, Denis Menchov, 2009_
+_Context: Denis Menchov, cyclist, Giro d'Italia, Italy, Rome, Italy, Russia, 2009_
 
 ##### Late-term abortion
 ### [ Late-term abortion provider George Tiller is shot and killed in Wichita, Kansas, United States. ](/news/2009/05/31/late-term-abortion-provider-george-tiller-is-shot-and-killed-in-wichita-kansas-united-states.md)
-_Context: Wichita, Kansas, United States, Late-term abortion, Kansas, George Tiller_
+_Context: George Tiller, Wichita, Kansas, Late-term abortion, American, Kansas_
 
 ##### South Ossetia
 ### [ South Ossetia holds its parliamentary election. ](/news/2009/05/31/south-ossetia-holds-its-parliamentary-election.md)
-_Context: South Ossetia, parliamentary election_
+_Context: parliamentary election, South Ossetia_
 
 ##### Fatah-Hamas conflict
 ### [ Six people are killed during battle between Hamas militants and the Palestinian National Authority's Preventive Security Service in the West Bank. ](/news/2009/05/31/six-people-are-killed-during-battle-between-hamas-militants-and-the-palestinian-national-authority-s-preventive-security-service-in-the-wes.md)
-_Context: Fatah-Hamas conflict, Palestinian Authority, militant, West Bank, Hamas, Preventive Security Service_
+_Context: Palestinian Authority, Fatah-Hamas conflict, militant, Preventive Security Service, West Bank, Hamas_
 
 ##### Assassinated
 ### [ Two men are charged with plotting to assassinate former Hong Kong Democratic Party Chairman Martin Lee. ](/news/2009/05/31/two-men-are-charged-with-plotting-to-assassinate-former-hong-kong-democratic-party-chairman-martin-lee.md)
-_Context: Martin Lee, assassinated, Hong Kong, Democratic Party, Chairman_
+_Context: assassinated, Martin Lee, Hong Kong, Democratic Party, Chairman_
 
 ##### Escape
 ### [ At least 44 inmates escape from a prison in Bagua Grande, Peru. ](/news/2009/05/31/at-least-44-inmates-escape-from-a-prison-in-bagua-grande-peru.md)
-_Context: Bagua Grande, prison, escape, Peru_
+_Context: prison, Bagua Grande, Peru, escape_
 
 ##### EUR
 ### [ A man steals EUR6 million in jewellery from Chopard in Paris, France. ](/news/2009/05/31/a-man-steals-a-6-million-in-jewellery-from-chopard-in-paris-france.md)
-_Context: Chopard, EUR, Paris, France, jewellery_
+_Context: Chopard, France, EUR, Paris, jewellery_
 
 ##### Demonstration
 ### [ Thousands of demonstrators gather in Hong Kong to commemorate the upcoming anniversary of the Tiananmen Square massacre of June 4, 1989. ](/news/2009/05/31/thousands-of-demonstrators-gather-in-hong-kong-to-commemorate-the-upcoming-anniversary-of-the-tiananmen-square-massacre-of-june-4-1989.md)
-_Context: Tiananmen Square, demonstration, Tiananmen Square protests of 1989, Hong Kong_
+_Context: Tiananmen Square, Tiananmen Square protests of 1989, demonstration, Hong Kong_
 
 ##### Protest
 ### [ At least 72 protesters are arrested after battling with the National Police Agency in Seoul, South Korea. ](/news/2009/05/31/at-least-72-protesters-are-arrested-after-battling-with-the-national-police-agency-in-seoul-south-korea.md)

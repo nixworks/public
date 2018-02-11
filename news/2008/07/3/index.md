@@ -9,11 +9,11 @@ _Context: tour of duty, United States military, 24th Marine Expeditionary Unit, 
 
 ##### European Central Bank
 ### [ The European Central Bank increases interest rates in the Eurozone to 4.25 per cent to tackle inflation. ](/news/2008/07/3/the-european-central-bank-increases-interest-rates-in-the-eurozone-to-4-25-per-cent-to-tackle-inflation.md)
-_Context: Eurozone, interest rates, inflation, European Central Bank_
+_Context: Eurozone, interest rates, European Central Bank, inflation_
 
 ##### France
 ### [ French authorities charge Continental Airlines and five individuals over the Concorde disaster. ](/news/2008/07/3/french-authorities-charge-continental-airlines-and-five-individuals-over-the-concorde-disaster.md)
-_Context: France, Continental Airlines, Air France Flight 4590_
+_Context: Continental Airlines, Air France Flight 4590, France_
 
 ##### MV ''Princess of the Stars
 ### [ MV "Princess of the Stars" disaster: The Board of Marine Inquiry says that two of four ballast tanks were empty, leaving the ship unstable. ](/news/2008/07/3/mv-princess-of-the-stars-disaster-the-board-of-marine-inquiry-says-that-two-of-four-ballast-tanks-were-empty-leaving-the-ship-unstable.md)
@@ -25,7 +25,7 @@ _Context: YouTube, Google, Viacom_
 
 ##### NASA
 ### [ NASA announces discovery of water in the atmosphere of Mercury by its MESSENGER probe. ](/news/2008/07/3/nasa-announces-discovery-of-water-in-the-atmosphere-of-mercury-by-its-messenger-probe.md)
-_Context: MESSENGER, Mercury's, NASA_
+_Context: Mercury's, NASA, MESSENGER_
 
 ##### Series of explosions
 ### [ A series of explosions at a depot storing 1,500 tonnes of obsolete munitions forces the evacuation of some 2,000 people in Sofia and the closure of the Bulgarian capital's main airport. ](/news/2008/07/3/a-series-of-explosions-at-a-depot-storing-1-500-tonnes-of-obsolete-munitions-forces-the-evacuation-of-some-2-000-people-in-sofia-and-the-cl.md)

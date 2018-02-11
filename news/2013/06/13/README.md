@@ -13,7 +13,7 @@ Greek&#x20;unions&#x20;called&#x20;for&#x20;a&#x20;24-hour&#x20;general&#x20;str
 
 ##### Buenos Aires
 ### [A train collision in Buenos Aires, Argentina, results in three deaths and at least 150 injured. ](/news/2013/06/13/a-train-collision-in-buenos-aires-argentina-results-in-three-deaths-and-at-least-150-injured.md)
-_Context: Buenos Aires, Argentina_
+_Context: Argentina, Buenos Aires_
 
 ##### Geismar
 ### [A chemical plant explodes in Geismar, Louisiana, injuring 73 people and killing one. ](/news/2013/06/13/a-chemical-plant-explodes-in-geismar-louisiana-injuring-73-people-and-killing-one.md)
@@ -21,7 +21,7 @@ An explosion and fire killed one person and injured 73 at the Williams Olefins c
 
 ##### BRCA gene
 ### [United States Supreme Court rules that isolated human genes are not patentable, invalidating BRCA gene patents held by Myriad Genetics. ](/news/2013/06/13/united-states-supreme-court-rules-that-isolated-human-genes-are-not-patentable-invalidating-brca-gene-patents-held-by-myriad-genetics.md)
-_Context: Myriad Genetics, BRCA gene_
+_Context: BRCA gene, Myriad Genetics_
 
 ##### Kidnap
 ### [Kidnapped British engineer Malcolm Primrose is found safe in Indonesia. ](/news/2013/06/13/kidnapped-british-engineer-malcolm-primrose-is-found-safe-in-indonesia.md)
@@ -45,7 +45,7 @@ Dale Cregan will spend the rest of his life in jail for four murders including t
 
 ##### Zimbabwe
 ### [The incumbent President of Zimbabwe, Robert Mugabe, determines that elections will be scheduled for 31 July 2013, however Mugabe's leading presidential contestant and primary political rival Morgan Tsvangirai rejects this as being "a unilateral and flagrant breach of the constitution". ](/news/2013/06/13/the-incumbent-president-of-zimbabwe-robert-mugabe-determines-that-elections-will-be-scheduled-for-31-july-2013-however-mugabe-s-leading-p.md)
-_Context: Zimbabwe, recent elections, Robert Mugabe, Morgan Tsvangirai_
+_Context: Robert Mugabe, recent elections, Morgan Tsvangirai, Zimbabwe_
 
 ## [Previous Day...](/news/2013/06/12/index.md)
 

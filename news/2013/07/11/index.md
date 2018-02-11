@@ -25,11 +25,11 @@ _Context: Typhoon Nari, Taiwan_
 
 ##### Lower Manhattan
 ### [Eight people are injured (three seriously) in Lower Manhattan as a result of an explosion and partial collapse, of as-yet unknown cause, in a five-storey building, in Chinatown, Manhattan, New York City, on Pike Street, near Henry Street. ](/news/2013/07/11/eight-people-are-injured-three-seriously-in-lower-manhattan-as-a-result-of-an-explosion-and-partial-collapse-of-as-yet-unknown-cause-in.md)
-_Context: New York City, Chinatown, Lower Manhattan, Henry Street, Manhattan, Pike Street_
+_Context: Manhattan, New York City, Henry Street, Pike Street, Lower Manhattan, Chinatown_
 
 ##### Iranian
 ### [An Iranian exile group claims that it has evidence of secret nuclear facilities located in tunnels beneath a mountain near the town of Damavand. ](/news/2013/07/11/an-iranian-exile-group-claims-that-it-has-evidence-of-secret-nuclear-facilities-located-in-tunnels-beneath-a-mountain-near-the-town-of-damav.md)
-_Context: Damavand, nuclear program, Iranian_
+_Context: Damavand, Iranian, nuclear program_
 
 ##### Moscow
 ### [A district court in Moscow convicts the late investment fund auditor Sergei Magnitsky of tax evasion in Russia's first posthumous trial. ](/news/2013/07/11/a-district-court-in-moscow-convicts-the-late-investment-fund-auditor-sergei-magnitsky-of-tax-evasion-in-russia-s-first-posthumous-trial.md)

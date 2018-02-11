@@ -9,11 +9,11 @@ A Libyan envoy representing Colonel Gaddafi has been in London in the past few d
 
 ##### 2010-2011 Ivorian crisis
 ### [2010-2011 Ivorian crisis: Heavy fighting continues in Abidjan, the largest city in the Ivory Coast between forces loyal to current President of the Ivory Coast Laurent Gbagbo and internationally-recognised claimant Alassane Ouattara. ](/news/2011/04/1/2010a2011-ivorian-crisis-heavy-fighting-continues-in-abidjan-the-largest-city-in-the-ivory-coast-between-forces-loyal-to-current-preside.md)
-_Context: Ivory Coast, President of the Ivory Coast, Abidjan, 2010-2011 Ivorian crisis, Laurent Gbagbo, Alassane Ouattara_
+_Context: Alassane Ouattara, President of the Ivory Coast, Ivory Coast, Laurent Gbagbo, 2010-2011 Ivorian crisis, Abidjan_
 
 ##### Turkey
 ### [The Turkish army kills seven PKK rebels who crossed the border from Syria. ](/news/2011/04/1/the-turkish-army-kills-seven-pkk-rebels-who-crossed-the-border-from-syria.md)
-_Context: Turkey, Syria, Kurdistan Workers Party_
+_Context: Kurdistan Workers Party, Turkey, Syria_
 
 ##### Koran
 ### [At least twelve people have been killed at a protest against Koran burning in Mazar-i-Sharif with at least eight of them being United Nations personnel. ](/news/2011/04/1/at-least-twelve-people-have-been-killed-at-a-protest-against-koran-burning-in-mazar-i-sharif-with-at-least-eight-of-them-being-united-nation.md)
@@ -35,9 +35,9 @@ _Context: Anglo Irish Bank_
 
 ##### Microsoft
 ### [Microsoft lodged an antitrust complaint against Google with the European Commission. ](/news/2011/04/1/microsoft-lodged-an-antitrust-complaint-against-google-with-the-european-commission.md)
-_Context: European Commission, Microsoft, antitrust, Google_
+_Context: antitrust, European Commission, Google, Microsoft_
 
-##### United States
+##### American
 ### [Unemployment in the United States falls to 8.8 per cent on the back of 216,000 jobs being added. ](/news/2011/04/1/unemployment-in-the-united-states-falls-to-8-8-per-cent-on-the-back-of-216-000-jobs-being-added.md)
 The U.S. economy posted a second straight month of solid gains in March, marking a decisive shift in the labor market that should help to underpin the economic recovery. 
 
@@ -51,7 +51,7 @@ Valais cantonal police say three German ski tourers have been killed by an avala
 
 ##### Military
 ### [Japan Self-Defense Forces and the members of the United States Armed Forces search for people still missing after the 2011 Tohoku earthquake and tsunami. ](/news/2011/04/1/japan-self-defense-forces-and-the-members-of-the-united-states-armed-forces-search-for-people-still-missing-after-the-2011-tahoku-earthquak.md)
-_Context: 2011 Tohoku earthquake and tsunami, United States military personnel, military_
+_Context: United States military personnel, military, 2011 Tohoku earthquake and tsunami_
 
 ##### 
 ### [Radioactivity levels surge in Japan. ](/news/2011/04/1/radioactivity-levels-surge-in-japan.md)
@@ -67,7 +67,7 @@ _Context: Crete, earthquake_
 
 ##### Southwest Airlines Flight 812
 ### [A 6 foot hole appears at 36,000 feet aboard Southwest Airlines Flight 812, a Boeing 737 en route from Phoenix, Arizona to Sacramento, California; the plane lands safely in Yuma, Arizona. ](/news/2011/04/1/a-6-foot-hole-appears-at-36-000-feet-aboard-southwest-airlines-flight-812-a-boeing-737-en-route-from-phoenix-arizona-to-sacramento-califo.md)
-_Context: Southwest Airlines Flight 812, Sacramento, California, Yuma, Arizona, Phoenix, Arizona, Boeing 737_
+_Context: Sacramento, California, Southwest Airlines Flight 812, Yuma, Arizona, Phoenix, Arizona, Boeing 737_
 
 ##### South African Development Community
 ### [The South African Development Community demands an end to the political violence in Zimbabwe, amid tensions in the unity government. ](/news/2011/04/1/the-south-african-development-community-demands-an-end-to-the-political-violence-in-zimbabwe-amid-tensions-in-the-unity-government.md)
@@ -79,19 +79,19 @@ An estimated 32,788 people were killed in traffic accidents in 2010, the fewest 
 
 ##### Anglo Irish Bank
 ### [Former chief executive of nationalised Anglo Irish Bank David Drumm is questioned about the bank's debts and his declaration of bankruptcy in Massachusetts. Drumm bans the press from attending. ](/news/2011/04/1/former-chief-executive-of-nationalised-anglo-irish-bank-david-drumm-is-questioned-about-the-bank-s-debts-and-his-declaration-of-bankruptcy-i.md)
-_Context: Anglo Irish Bank, Massachusetts_
+_Context: Massachusetts, Anglo Irish Bank_
 
 ##### International Court of Justice
 ### [The International Court of Justice (ICJ) in The Hague dismisses by 10-6 Georgia's accusation that Russia and separatist rebels engaged in ethnic cleansing in Abkhazia and South Ossetia. ](/news/2011/04/1/the-international-court-of-justice-icj-in-the-hague-dismisses-by-10-6-georgia-s-accusation-that-russia-and-separatist-rebels-engaged-in-et.md)
-_Context: The Hague, Abkhazia,  Georgian, Russia, ethnic cleansing, International Court of Justice, South Ossetia_
+_Context: The Hague, Russia, South Ossetia, International Court of Justice,  Georgian, Abkhazia, ethnic cleansing_
 
 ##### Chinese
 ### [A female Chinese national exchange student to Sweden studying in Orebro is found murdered in daylight. ](/news/2011/04/1/a-female-chinese-national-exchange-student-to-sweden-studying-in-arebro-is-found-murdered-in-daylight.md)
-_Context: Chinese, Orebro, exchange student_
+_Context: Orebro, exchange student, Chinese_
 
 ##### French Polynesian President
 ### [French Polynesian President Gaston Tong Sang is ousted in a vote of no confidence led by opposition leader Oscar Temaru. Temaru once again becomes President of French Polynesia for the fifth time. ](/news/2011/04/1/french-polynesian-president-gaston-tong-sang-is-ousted-in-a-vote-of-no-confidence-led-by-opposition-leader-oscar-temaru-temaru-once-again-b.md)
-_Context: French Polynesian President, French Polynesia, Gaston Tong Sang, vote of no confidence, Oscar Temaru_
+_Context: Gaston Tong Sang, Oscar Temaru, vote of no confidence, French Polynesia, French Polynesian President_
 
 ##### Steve Fielding
 ### [Senator Steve Fielding launches his campaign to outlaw lies on April 1 in his battle against those who engage in the "ever-growing annual tradition of playing practical jokes on less intelligent Australians". ](/news/2011/04/1/senator-steve-fielding-launches-his-campaign-to-outlaw-lies-on-april-1-in-his-battle-against-those-who-engage-in-the-ever-growing-annual-tr.md)
@@ -103,7 +103,7 @@ _Context: Gholamhossein Karbaschi, Executives of Construction Party, Mohammad-Al
 
 ##### Government of Kuwait
 ### [Government of Kuwait led by Nasser Al-Sabah has resigned due to a stand-off with parliament, potentially allowing for early elections. ](/news/2011/04/1/government-of-kuwait-led-by-nasser-al-sabah-has-resigned-due-to-a-stand-off-with-parliament-potentially-allowing-for-early-elections.md)
-_Context: Nasser Mohammed Al-Ahmed Al-Sabah, Parliament, Government of Kuwait, early elections_
+_Context: early elections, Parliament, Government of Kuwait, Nasser Mohammed Al-Ahmed Al-Sabah_
 
 ##### Geoid
 ### [Scientists use a geoid model to illustrate the force of gravity on Earth from data from the Goce satellite. ](/news/2011/04/1/scientists-use-a-geoid-model-to-illustrate-the-force-of-gravity-on-earth-from-data-from-the-goce-satellite.md)
@@ -111,7 +111,7 @@ The European Space Agency releases an unusual illustration of Planet Earth which
 
 ##### FIFA
 ### [FIFA suspends Bosnia and Herzegovina from international football after its failure to drop a rotating presidential system between a Muslim, a Serb and a Croat, which is similar to the country's complex political system. ](/news/2011/04/1/fifa-suspends-bosnia-and-herzegovina-from-international-football-after-its-failure-to-drop-a-rotating-presidential-system-between-a-muslim.md)
-_Context: Croat, Bosniaks, FIFA, Bosnia and Herzegovina, Bosnian Serb_
+_Context: Bosnian Serb, Bosnia and Herzegovina, Croat, FIFA, Bosniaks_
 
 ## [Previous Day...](/news/2011/03/31/index.md)
 

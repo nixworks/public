@@ -13,7 +13,7 @@ Chancellor Angela Merkel&#039;s ruling coalition was seriously weakened last nig
 
 ##### Sandro Bondi
 ### [Sandro Bondi, Italy's minister of culture, calls for a boycott of the 2010 Cannes Film Festival after a documentary on the 2009 L'Aquila earthquake was included in the programme. ](/news/2010/05/9/sandro-bondi-italy-s-minister-of-culture-calls-for-a-boycott-of-the-2010-cannes-film-festival-after-a-documentary-on-the-2009-l-aquila-ear.md)
-_Context: minister of culture, Italy, wins, 2009 L'Aquila earthquake, Sandro Bondi_
+_Context: minister of culture, wins, Italy, Sandro Bondi, 2009 L'Aquila earthquake_
 
 ##### Sumatra
 ### [An earthquake strikes Sumatra sparking fears of a tsunami. ](/news/2010/05/9/an-earthquake-strikes-sumatra-sparking-fears-of-a-tsunami.md)
@@ -23,9 +23,9 @@ An&#x20;earthquake&#x20;of&#x20;7.2&#x20;magnitude&#x20;on&#x20;the&#x20;Richter
 ### [A mine explosion in Mezhdurechensk (Kemerovo Oblast), Russia, kills at least 12 people and injures 24 others with 64 unaccounted for. ](/news/2010/05/9/a-mine-explosion-in-mezhdurechensk-kemerovo-oblast-russia-kills-at-least-12-people-and-injures-24-others-with-64-unaccounted-for.md)
 _Context: Russia, Mezhdurechensk_
 
-##### United States
+##### American
 ### [U.S. missiles kill five people in North Waziristan, Pakistan. ](/news/2010/05/9/u-s-missiles-kill-five-people-in-north-waziristan-pakistan.md)
-_Context: Pakistan, North Waziristan, United States_
+_Context: American, Pakistan, North Waziristan_
 
 ##### 
 ### [A Chinese man is freed from prison after 10 years after the man he had been convicted of killing is found alive. ](/news/2010/05/9/a-chinese-man-is-freed-from-prison-after-10-years-after-the-man-he-had-been-convicted-of-killing-is-found-alive.md)
@@ -33,7 +33,7 @@ A Chinese man who spent nearly 10 years in jail for murder has been cleared afte
 
 ##### Somali pirates
 ### [Somali pirates seize MS "Marida Marguerite", a German-owned tanker, off the coast of Somalia. ](/news/2010/05/9/somali-pirates-seize-ms-marida-marguerite-a-german-owned-tanker-off-the-coast-of-somalia.md)
-_Context: Somalia, Somali pirates_
+_Context: Somali pirates, Somalia_
 
 ##### Dallas Braden
 ### [Dallas Braden of the Oakland Athletics throws the 19th perfect game in Major League Baseball history in a 4-0 win over the Tampa Bay Rays. ](/news/2010/05/9/dallas-braden-of-the-oakland-athletics-throws-the-19th-perfect-game-in-major-league-baseball-history-in-a-4-0-win-over-the-tampa-bay-rays.md)

@@ -13,11 +13,11 @@ Demonstrators protest government&#8217;s failure to act against Islamic State at
 
 ##### Taliban insurgency
 ### [A suicide bomber kills at least four people and wounds 16 in Afghanistan's Helmand province. ](/news/2014/10/8/a-suicide-bomber-kills-at-least-four-people-and-wounds-16-in-afghanistan-s-helmand-province.md)
-_Context: Afghanistan, Helmand province, suicide bomber, Taliban insurgency_
+_Context: Taliban insurgency, suicide bomber, Afghanistan, Helmand province_
 
 ##### Al-Qaeda insurgency in Yemen
 ### [al-Qaeda launches an attack on the south Yemen town of al-Bayda killing at least four soldiers before being beaten back by the army. ](/news/2014/10/8/al-qaeda-launches-an-attack-on-the-south-yemen-town-of-al-bayda-killing-at-least-four-soldiers-before-being-beaten-back-by-the-army.md)
-_Context: al-Qaeda, Yemen, al-Qaeda insurgency in Yemen, al-Bayda_
+_Context: Yemen, al-Bayda, al-Qaeda insurgency in Yemen, al-Qaeda_
 
 ##### Vienna Philharmonic Orchestra
 ### [The Vienna Philharmonic Orchestra is awarded the $1 million Birgit Nilsson Prize in a ceremony in Stockholm. ](/news/2014/10/8/the-vienna-philharmonic-orchestra-is-awarded-the-1-million-birgit-nilsson-prize-in-a-ceremony-in-stockholm.md)
@@ -29,7 +29,7 @@ The paintings of hands and animals in seven limestone caves on Sulawesi had prev
 
 ##### Ebola virus disease in the United States
 ### [The first person who was diagnosed with ebola in the United States, Thomas Eric Duncan, a Liberian man, dies in Dallas, Texas. ](/news/2014/10/8/the-first-person-who-was-diagnosed-with-ebola-in-the-united-states-thomas-eric-duncan-a-liberian-man-dies-in-dallas-texas.md)
-_Context: Texas, ebola, Ebola virus disease in the United States, Dallas, United States, Liberia_
+_Context: Ebola virus disease in the United States, Texas, ebola, Dallas, American, Liberia_
 
 ##### Uhuru Kenyatta
 ### [Uhuru Kenyatta, the President of Kenya, appears at a status conference at the International Criminal Court regarding post-election violence in 2007. ](/news/2014/10/8/uhuru-kenyatta-the-president-of-kenya-appears-at-a-status-conference-at-the-international-criminal-court-regarding-post-election-violence.md)

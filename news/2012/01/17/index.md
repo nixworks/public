@@ -13,11 +13,11 @@ _Context: Syria_
 
 ##### Burma
 ### [Officials in Burma order the military to stop offensives in ethnic minority areas. ](/news/2012/01/17/officials-in-burma-order-the-military-to-stop-offensives-in-ethnic-minority-areas.md)
-_Context: security forces, Internal conflict in Burma, Burma_
+_Context: Internal conflict in Burma, Burma, security forces_
 
 ##### 2011-2012 Yemeni uprising
 ### [2011-2012 Yemeni uprising: Vice President Abdurabu Hadi says that presidential and parliamentary elections planned for next month will go ahead. ](/news/2012/01/17/2011a2012-yemeni-uprising-vice-president-abdurabu-hadi-says-that-presidential-and-parliamentary-elections-planned-for-next-month-will-go.md)
-_Context: parliamentary, presidential election, 2011-2012 Yemeni uprising_
+_Context: parliamentary, 2011-2012 Yemeni uprising, presidential election_
 
 ##### Port-au-Prince
 ### [At least 26 people are killed after a truck's brakes fail along a busy street in Port-au-Prince, Haiti. ](/news/2012/01/17/at-least-26-people-are-killed-after-a-truck-s-brakes-fail-along-a-busy-street-in-port-au-prince-haiti.md)

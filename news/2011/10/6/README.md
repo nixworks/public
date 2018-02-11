@@ -17,7 +17,7 @@ The Bank of England says it will inject a further £75bn into the economy throug
 
 ##### Hurricane Jova
 ### [Tropical Storm Jova forms off the Pacific coast of Mexico. ](/news/2011/10/6/tropical-storm-jova-forms-off-the-pacific-coast-of-mexico.md)
-_Context: Mexican, South Pacific Ocean, Hurricane Jova_
+_Context: Hurricane Jova, Mexican, South Pacific Ocean_
 
 ##### South Korea
 ### [South Korea rejects North Korea's demands that two citizens from the north who crossed the border be repatriated. ](/news/2011/10/6/south-korea-rejects-north-korea-s-demands-that-two-citizens-from-the-north-who-crossed-the-border-be-repatriated.md)
@@ -25,7 +25,7 @@ _Context: North Korea, South Korea_
 
 ##### Ichiro Ozawa
 ### [The trial of Ichiro Ozawa, a powerful faction leader in the ruling Democratic Party of Japan, over a political funding scandal begins today in Japan. ](/news/2011/10/6/the-trial-of-ichira-ozawa-a-powerful-faction-leader-in-the-ruling-democratic-party-of-japan-over-a-political-funding-scandal-begins-today.md)
-_Context: Ichiro Ozawa, Democratic Party, Japan_
+_Context: Democratic Party, Ichiro Ozawa, Japan_
 
 ##### Canadian
 ### [Voters in Canada's most populous province Ontario go to the polls for a general election with the Ontario Liberal Party, led by Dalton McGuinty, winning another term under a slight minority government.](/news/2011/10/6/voters-in-canada-s-most-populous-province-ontario-go-to-the-polls-for-a-general-election-with-the-ontario-liberal-party-led-by-dalton-mcgui.md)

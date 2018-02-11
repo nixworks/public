@@ -31,13 +31,13 @@ Two remandees have died and 30 others been admitted following a cholera outbreak
 ### [Cleanup continues after the Refugio Oil Spill at Refugio State Beach along the coast of Santa Barbara County, California.](/news/2015/05/21/cleanup-continues-after-the-refugio-oil-spill-at-refugio-state-beach-along-the-coast-of-santa-barbara-county-california.md)
 The owner of the ruptured pipeline that spilled thousands of gallons of oil along the coastline of Refugio State Beach near Santa Barbara has accumulated 175 safety and maintenance infractions since 2006, ranking among the top five in the U.S. for its num
 
-##### United States
+##### American
 ### [Health authorities in the United States say that 53 people in nine states have been sickened in a salmonella outbreak. California is the worst affected state with 31 cases with the other states with cases include Arizona, Illinois, Mississippi, New Mexico, South Dakota, Virginia, Washington and Wisconsin. ](/news/2015/05/21/health-authorities-in-the-united-states-say-that-53-people-in-nine-states-have-been-sickened-in-a-salmonella-outbreak-california-is-the-wor.md)
 The source of the outbreak is unknown, but most who fell ill reported eating sushi containing raw tuna.
 
 ##### Brazilian
 ### [Brazilian anti-corruption blogger Evany Jose Metzker is found dead after investigating a drug dealing and prostitution case. ](/news/2015/05/21/brazilian-anti-corruption-blogger-evany-josa-c-metzker-is-found-dead-after-investigating-a-drug-dealing-and-prostitution-case.md)
-_Context: Brazilian, blogger_
+_Context: blogger, Brazilian_
 
 ##### Death of Freddie Gray
 ### [A grand jury in the American city of Baltimore indicts six police officers relating to the death of Freddie Gray in police custody. All six officers will face charges of reckless endangerment. ](/news/2015/05/21/a-grand-jury-in-the-american-city-of-baltimore-indicts-six-police-officers-relating-to-the-death-of-freddie-gray-in-police-custody-all-six.md)
@@ -49,7 +49,7 @@ _Context: Washington D.C._
 
 ##### Mexican Drug War
 ### [Mexican police find three dismembered bodies in a search for ten missing people in Chilapa, a city occupied by vigilantes with alleged links to drug rings between May 9-14. ](/news/2015/05/21/mexican-police-find-three-dismembered-bodies-in-a-search-for-ten-missing-people-in-chilapa-a-city-occupied-by-vigilantes-with-alleged-links.md)
-_Context: Chilapa, Mexican police, Mexican Drug War_
+_Context: Mexican police, Chilapa, Mexican Drug War_
 
 ## [Previous Day...](/news/2015/05/20/index.md)
 

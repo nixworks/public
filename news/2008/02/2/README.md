@@ -17,11 +17,11 @@ _Context: Dambulla, Sri Lanka_
 
 ##### Battle of N'Djamena
 ### [ Battle of N'Djamena: Chadian rebels enter the capital N'Djamena and head for the presidential palace. ](/news/2008/02/2/battle-of-n-djamena-chadian-rebels-enter-the-capital-n-djamena-and-head-for-the-presidential-palace.md)
-_Context: Chad, N'Djamena, Battle of N'Djamena_
+_Context: Chad, Battle of N'Djamena, N'Djamena_
 
 ##### France
 ### [ French President Nicolas Sarkozy marries singer and former supermodel Carla Bruni at the Elysee Palace. ](/news/2008/02/2/french-president-nicolas-sarkozy-marries-singer-and-former-supermodel-carla-bruni-at-the-alysa-c-e-palace.md)
-_Context: Nicolas Sarkozy, Carla Bruni, supermodel, French President, France, Elysee Palace_
+_Context: Nicolas Sarkozy, supermodel, Elysee Palace, French President, Carla Bruni, France_
 
 ## [Previous Day...](/news/2008/02/1/index.md)
 

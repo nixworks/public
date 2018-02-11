@@ -5,11 +5,11 @@ Formats: [HTML](2009/08/9/index.html)  [JSON](2009/08/9/index.json)  [XML](2009/
 
 ##### South Africa
 ### [ South African opposition parties call on President Jacob Zuma to withdraw Sandile Ngcobo as Chief Justice because he failed to consult the opposition and Judicial Service Committee. ](/news/2009/08/9/south-african-opposition-parties-call-on-president-jacob-zuma-to-withdraw-sandile-ngcobo-as-chief-justice-because-he-failed-to-consult-the.md)
-_Context: South Africa, Jacob Zuma, Chief Justice, President, Judicial Service Committee, Sandile Ngcobo_
+_Context: South Africa, President, Chief Justice, Jacob Zuma, Sandile Ngcobo, Judicial Service Committee_
 
 ##### Sri Lanka
 ### [ Sri Lanka's governing coalition wins in Jaffna but suffers a surprise defeat in Vavuniya in the country's first post-war local elections. ](/news/2009/08/9/sri-lanka-s-governing-coalition-wins-in-jaffna-but-suffers-a-surprise-defeat-in-vavuniya-in-the-country-s-first-post-war-local-elections.md)
-_Context: local elections, coalition, Jaffna, Sri Lanka, Vavuniya_
+_Context: local elections, coalition, Vavuniya, Sri Lanka, Jaffna_
 
 ##### China
 ### [ A million people are evacuated in southeastern China as Typhoon Morakot approaches. ](/news/2009/08/9/a-million-people-are-evacuated-in-southeastern-china-as-typhoon-morakot-approaches.md)
@@ -21,7 +21,7 @@ A strong earthquake with a preliminary magnitude of 6.9 jolted central Japan on 
 
 ##### Tonga
 ### [ Tonga raises the death toll from the MV "Princess Ashika" sinking to 93. ](/news/2009/08/9/tonga-raises-the-death-toll-from-the-mv-princess-ashika-sinking-to-93.md)
-_Context: Tonga, MV ''Princess Ashika'' ferry disaster_
+_Context: MV ''Princess Ashika'' ferry disaster, Tonga_
 
 ##### Majorca
 ### [ Three bombs explode on the island of Majorca, Spain. ](/news/2009/08/9/three-bombs-explode-on-the-island-of-majorca-spain.md)
@@ -33,11 +33,11 @@ At least 46 people have been killed in a landslide triggered by heavy rains in n
 
 ##### Kam Air
 ### [ A Kam Air plane bound for the Xinjiang Autonomous Region in northwestern China is diverted to Kandahar, Afghanistan after an earlier alleged bomb threat. ](/news/2009/08/9/a-kam-air-plane-bound-for-the-xinjiang-autonomous-region-in-northwestern-china-is-diverted-to-kandahar-afghanistan-after-an-earlier-allege.md)
-_Context: China, Kandahar, Kam Air, Afghanistan, Xinjiang Autonomous Region_
+_Context: Kam Air, Kandahar, Xinjiang Autonomous Region, Afghanistan, China_
 
 ##### Taoiseach
 ### [ Former Taoiseach of Ireland Garret FitzGerald is among twenty Irish nationals who are quarantined at a French chateau due to swine flu. ](/news/2009/08/9/former-taoiseach-of-ireland-garret-fitzgerald-is-among-twenty-irish-nationals-who-are-quarantined-at-a-french-chateau-due-to-swine-flu.md)
-_Context: Irish, Taoiseach, France, swine flu, Garret FitzGerald_
+_Context: swine flu, Garret FitzGerald, Taoiseach, Irish, France_
 
 ##### Iran
 ### [ A senior General from the Iranian Revolutionary Guard calls for opposition leaders Mohammad Khatami, Mir Hossein Mousavi and Mehdi Karroubi to stand trial. ](/news/2009/08/9/a-senior-general-from-the-iranian-revolutionary-guard-calls-for-opposition-leaders-mohammad-khatami-mir-hossein-mousavi-and-mehdi-karroubi.md)
@@ -53,7 +53,7 @@ Reasons for the phenomenon, experts say, include poor security at heliports, ove
 
 ##### Mount Darwin
 ### [ Seventeen people, including five children, are killed when a crowded bus crashes into a ditch after being side-swiped by an oncoming heavy truck in Mount Darwin, Zimbabwe. ](/news/2009/08/9/seventeen-people-including-five-children-are-killed-when-a-crowded-bus-crashes-into-a-ditch-after-being-side-swiped-by-an-oncoming-heavy.md)
-_Context: Zimbabwe, Mount Darwin_
+_Context: Mount Darwin, Zimbabwe_
 
 ## [Previous Day...](/news/2009/08/8/index.md)
 

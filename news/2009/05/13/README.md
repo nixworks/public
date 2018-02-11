@@ -3,25 +3,25 @@ Formats: [HTML](2009/05/13/index.html)  [JSON](2009/05/13/index.json)  [XML](200
 
 ## [2009-05-13](/news/2009/05/13/index.md)
 
-##### United States
+##### American
 ### [ United States President Barack Obama proclaims May 2009 as Jewish American Heritage Month. ](/news/2009/05/13/united-states-president-barack-obama-proclaims-may-2009-as-jewish-american-heritage-month.md)
-_Context: U.S. President, United States, Barack Obama, Jewish American Heritage Month_
+_Context: American, Barack Obama, U.S. President, Jewish American Heritage Month_
 
 ##### Pope
 ### [ Pope Benedict XVI advocates the creation of a Palestinian state. ](/news/2009/05/13/pope-benedict-xvi-advocates-the-creation-of-a-palestinian-state.md)
-_Context: Palestinian state, resume negotiations, Pope, Palestinian, Pope Benedict XVI_
+_Context: Pope Benedict XVI, Palestinian, resume negotiations, Palestinian state, Pope_
 
 ##### European Commission
 ### [ The European Commission fines Intel Corporation EUR1.06 billion for anti-competitive practices. ](/news/2009/05/13/the-european-commission-fines-intel-corporation-a-1-06-billion-for-anti-competitive-practices.md)
-_Context: EUR, Intel Corporation, anti-competitive practices, European Commission, fine_
+_Context: Intel Corporation, anti-competitive practices, fine, EUR, European Commission_
 
 ##### United Nations
 ### [ The United Nations reports that Somalia is experiencing its worst drought since the 1990s. ](/news/2009/05/13/the-united-nations-reports-that-somalia-is-experiencing-its-worst-drought-since-the-1990s.md)
-_Context: drought, United Nations, 1990s, Somalia_
+_Context: United Nations, drought, 1990s, Somalia_
 
 ##### Ordnance
 ### [ Artillery shelling kills 50 people and injures 40 more at a hospital in Sri Lanka's war zone. ](/news/2009/05/13/artillery-shelling-kills-50-people-and-injures-40-more-at-a-hospital-in-sri-lanka-s-war-zone.md)
-_Context: war zone, ordnance, aerial shells, Sri Lankan Civil War, hospital, Sri Lanka_
+_Context: Sri Lanka, hospital, ordnance, war zone, aerial shells, Sri Lankan Civil War_
 
 ##### Suicide attack
 ### [ A suicide attack at FOB Salerno kills seven civilians and injures 21 more in Khost, Afghanistan. ](/news/2009/05/13/a-suicide-attack-at-fob-salerno-kills-seven-civilians-and-injures-21-more-in-khost-afghanistan.md)
@@ -29,11 +29,11 @@ A suicide bomb attack outside a NATO base killed seven civilians in southeastern
 
 ##### Movement for the Emancipation of the Niger Delta
 ### [ The Emancipation Movement and the Army battle in Nigeria's Niger Delta. ](/news/2009/05/13/the-emancipation-movement-and-the-army-battle-in-nigeria-s-niger-delta.md)
-_Context: Nigeria, Military, Conflict in the Niger Delta, Movement for the Emancipation of the Niger Delta, Niger Delta_
+_Context: Conflict in the Niger Delta, Movement for the Emancipation of the Niger Delta, Military, Nigeria, Niger Delta_
 
 ##### Pixar
 ### [ Pixar's "Up" becomes the first animated film to open the Cannes Film Festival. ](/news/2009/05/13/pixar-s-up-becomes-the-first-animated-film-to-open-the-cannes-film-festival.md)
-_Context: animated film, Up, 2009, Pixar, Cannes Film Festival_
+_Context: Cannes Film Festival, Up, animated film, 2009, Pixar_
 
 ## [Previous Day...](/news/2009/05/12/index.md)
 

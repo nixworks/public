@@ -9,7 +9,7 @@ Get the latest science news and technology news, read tech reviews and more at A
 
 ##### United Nations Secretary-General
 ### [ United Nations Secretary-General Kofi Annan launches the Central Emergency Response Fund to provide aid to regions of Africa currently facing starvation. ](/news/2006/03/9/united-nations-secretary-general-kofi-annan-launches-the-central-emergency-response-fund-to-provide-aid-to-regions-of-africa-currently-faci.md)
-_Context: United Nations Secretary-General, Central Emergency Response Fund, Kofi Annan, starvation_
+_Context: Kofi Annan, starvation, United Nations Secretary-General, Central Emergency Response Fund_
 
 ##### Sable-sur-Sarthe hostage crisis
 ### [ The Sable-sur-Sarthe hostage crisis in France ends peacefully with no casualties. The gunman had suffered from depression. ](/news/2006/03/9/the-sabla-c-sur-sarthe-hostage-crisis-in-france-ends-peacefully-with-no-casualties-the-gunman-had-suffered-from-depression.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2010/05/24/index.html)  [JSON](2010/05/24/index.json)  [XML](201
 
 ##### Trinidad and Tobago
 ### [Trinidad and Tobago holds a general election, resulting in the victory of the United National Congress, and Kamla Persad-Bissessar becoming its first female Prime Minister. ](/news/2010/05/24/trinidad-and-tobago-holds-a-general-election-resulting-in-the-victory-of-the-united-national-congress-and-kamla-persad-bissessar-becoming.md)
-_Context: United National Congress, Prime Minister, Kamla Persad-Bissessar, Trinidad and Tobago, general election_
+_Context: United National Congress, Trinidad and Tobago, general election, Prime Minister, Kamla Persad-Bissessar_
 
 ##### Continue to rise
 ### [The death toll as a result of severe flooding in Poland reaches 15 as Interior Minister Jerzy Miller says "The situation is worse than expected". ](/news/2010/05/24/the-death-toll-as-a-result-of-severe-flooding-in-poland-reaches-15-as-interior-minister-jerzy-miller-says-the-situation-is-worse-than-expec.md)
@@ -37,7 +37,7 @@ _Context: Beijing_
 
 ##### U.S.-China Strategic and Economic Dialogue
 ### [The second round of the U.S.-China Strategic and Economic Dialogue begins in Beijing, China. ](/news/2010/05/24/the-second-round-of-the-u-s-achina-strategic-and-economic-dialogue-begins-in-beijing-china.md)
-_Context: China, Beijing, U.S.-China Strategic and Economic Dialogue_
+_Context: Beijing, China, U.S.-China Strategic and Economic Dialogue_
 
 ##### Bashar al-Ageidi
 ### [The assassination of Bashar al-Ageidi from the election-winning Iraqiya bloc of Ayad Allawi takes place outside his house in Mosul. ](/news/2010/05/24/the-assassination-of-bashar-al-ageidi-from-the-election-winning-iraqiya-bloc-of-ayad-allawi-takes-place-outside-his-house-in-mosul.md)
@@ -53,11 +53,11 @@ A Kenyan appeal court rules that Islamic courts are illegal and discriminatory u
 
 ##### Niger
 ### [Niger proposes reforms that would see only those with a university degree be allowed to run in presidential elections and parliamentary candidates be under the age of seventy and have some form of secondary education. Opposition groups say this discriminates against the 80 per cent of the population that is illiterate. ](/news/2010/05/24/niger-proposes-reforms-that-would-see-only-those-with-a-university-degree-be-allowed-to-run-in-presidential-elections-and-parliamentary-cand.md)
-_Context: university degree, Niger_
+_Context: Niger, university degree_
 
 ##### President
 ### [President of Iran Mahmoud Ahmadinejad is met with protests during a speech in Khorramshahr. ](/news/2010/05/24/president-of-iran-mahmoud-ahmadinejad-is-met-with-protests-during-a-speech-in-khorramshahr.md)
-_Context: Mahmoud Ahmadinejad, Khorramshahr, President_
+_Context: Mahmoud Ahmadinejad, President, Khorramshahr_
 
 ##### International Monetary Fund
 ### [The International Monetary Fund says "far-reaching" reforms are vital for Spain's economy. ](/news/2010/05/24/the-international-monetary-fund-says-far-reaching-reforms-are-vital-for-spain-s-economy.md)
@@ -69,11 +69,11 @@ _Context: Manchester, Plane Stupid_
 
 ##### Huddersfield
 ### [The people of Huddersfield in the Metropolitan Borough of Kirklees of West Yorkshire in England are ordered to remain indoors and several schools are shut down after a huge fire engulfs a chemical plant in the area. ](/news/2010/05/24/the-people-of-huddersfield-in-the-metropolitan-borough-of-kirklees-of-west-yorkshire-in-england-are-ordered-to-remain-indoors-and-several-sc.md)
-_Context: West Yorkshire, Metropolitan Borough of Kirklees, England, Huddersfield_
+_Context: Metropolitan Borough of Kirklees, England, Huddersfield, West Yorkshire_
 
 ##### General Medical Council
 ### [The UK's General Medical Council bans Dr. Andrew Wakefield, who was the first to publish research suggesting a connection between the MMR vaccine and autism, from practicing in the country, finding him guilty of "serious professional misconduct." ](/news/2010/05/24/the-uk-s-general-medical-council-bans-dr-andrew-wakefield-who-was-the-first-to-publish-research-suggesting-a-connection-between-the-mmr-va.md)
-_Context: Andrew Wakefield, autism, MMR vaccine, General Medical Council_
+_Context: General Medical Council, autism, Andrew Wakefield, MMR vaccine_
 
 ##### Dumbbell
 ### [Peter Harvey, the UK teacher who attacked a pupil with a dumbbell while shouting "die, die, die", is sentenced to community order as his trial ends in Nottingham. The judge calls him as a "thoroughly decent man". ](/news/2010/05/24/peter-harvey-the-uk-teacher-who-attacked-a-pupil-with-a-dumbbell-while-shouting-die-die-die-is-sentenced-to-community-order-as-his-tri.md)
@@ -85,7 +85,7 @@ The SDLP leader and South Down MP Margaret Ritchie has formally resigned from th
 
 ##### Sarah, Duchess of York
 ### [Sarah, Duchess of York receives support from businessman Simon Cowell and an award for her work with the disadvantaged children of the U.S. city of Los Angeles despite being caught in a newspaper sting in Britain. ](/news/2010/05/24/sarah-duchess-of-york-receives-support-from-businessman-simon-cowell-and-an-award-for-her-work-with-the-disadvantaged-children-of-the-u-s.md)
-_Context: Los Angeles, Sarah, Duchess of York, Simon Cowell, United States_
+_Context: Sarah, Duchess of York, American, Los Angeles, Simon Cowell_
 
 ##### Iran
 ### [Iran's largest water supply project is inaugurated in Khorramshahr. ](/news/2010/05/24/iran-s-largest-water-supply-project-is-inaugurated-in-khorramshahr.md)

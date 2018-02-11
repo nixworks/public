@@ -37,7 +37,7 @@ A large UPS cargo plane crashed and burst into flames, killing its pilot and cop
 
 ##### 2013 Korean crisis
 ### [2013 Korean crisis: North and South Korea agree to reopen the jointly-operated Kaesong Industrial Region. ](/news/2013/08/14/2013-korean-crisis-north-and-south-korea-agree-to-reopen-the-jointly-operated-kaesong-industrial-region.md)
-_Context: Kaesong area, North Korea, South Korea, 2013 Korean crisis_
+_Context: 2013 Korean crisis, North Korea, Kaesong area, South Korea_
 
 ##### San Francisco Police Department
 ### [San Francisco police seize $1.5 million in ecstasy in one of the largest busts in department history.](/news/2013/08/14/san-francisco-police-seize-1-5-million-in-ecstasy-in-one-of-the-largest-busts-in-department-history.md)
@@ -49,7 +49,7 @@ It can be hard for doctors to tell if someone who is severely brain injured and 
 
 ##### Nova Delphinus 2013
 ### [Nova Delphinus 2013, now visible to the naked eye in dark sky conditions, is reported in the constellation Delphinus by amateur astronomer Koichi Itagaki. ](/news/2013/08/14/nova-delphinus-2013-now-visible-to-the-naked-eye-in-dark-sky-conditions-is-reported-in-the-constellation-delphinus-by-amateur-astronomer-k.md)
-_Context: amateur astronomer, Nova Delphinus 2013, Delphinus_
+_Context: amateur astronomer, Delphinus, Nova Delphinus 2013_
 
 ## [Previous Day...](/news/2013/08/13/index.md)
 

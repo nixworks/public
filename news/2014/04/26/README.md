@@ -13,7 +13,7 @@ _Context: Afghanistan_
 
 ##### Afghan
 ### [Afghan Presidential elections are set to go to a second round between former foreign minister Abdullah Abdullah and Ashraf Ghani after no candidate won an absolute majority in first round. ](/news/2014/04/26/afghan-presidential-elections-are-set-to-go-to-a-second-round-between-former-foreign-minister-abdullah-abdullah-and-ashraf-ghani-after-no-ca.md)
-_Context: Abdullah Abdullah, Afghan presidential election, 2014, Ashraf Ghani, Afghan_
+_Context: Ashraf Ghani, Abdullah Abdullah, Afghan presidential election, 2014, Afghan_
 
 ##### E.T. the Extra-Terrestrial
 ### [Copies of "E.T. the Extra-Terrestrial" and other Atari games that were buried in 1983 are discovered in a New Mexican desert. ](/news/2014/04/26/copies-of-e-t-the-extra-terrestrial-and-other-atari-games-that-were-buried-in-1983-are-discovered-in-a-new-mexican-desert.md)

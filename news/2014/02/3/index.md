@@ -9,7 +9,7 @@ _Context: Super Bowl XLVIII, Fox Broadcasting Company_
 
 ##### Gulf of Carpentaria
 ### [Cyclone Fletcher becomes the third cyclone to form in a week as it crosses the Gulf of Carpentaria into Queensland. ](/news/2014/02/3/cyclone-fletcher-becomes-the-third-cyclone-to-form-in-a-week-as-it-crosses-the-gulf-of-carpentaria-into-queensland.md)
-_Context: Queensland, Gulf of Carpentaria_
+_Context: Gulf of Carpentaria, Queensland_
 
 ##### Northeastern United States
 ### [A winter storm hits the Northeastern United States, resulting in at least two deaths and thousands of flights being disrupted. Pennsylvania, New Jersey, and New York are amongst the worst affected. ](/news/2014/02/3/a-winter-storm-hits-the-northeastern-united-states-resulting-in-at-least-two-deaths-and-thousands-of-flights-being-disrupted-pennsylvania.md)

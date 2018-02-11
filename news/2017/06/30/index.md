@@ -31,7 +31,7 @@ A huge new study conducted in 33 sites across Europe finds that seeds coated wit
 ### [A temperature of 53.7degC (128.7degF) is recorded during the 2017 heat wave in Ahvaz, Khuzestan Province, breaking Iran's previous record and becoming one of the highest temperatures ever recorded on Earth. ](/news/2017/06/30/a-temperature-of-53-7adegc-128-7adegf-is-recorded-during-the-2017-heat-wave-in-ahvaz-khuzestan-province-breaking-iran-s-previous-record-and.md)
 Ahvaz hits hottest temperature ever recorded in Iran, and possibly the world.
 
-##### United States
+##### American
 ### [U.S. President Donald Trump signs an executive order re-establishing the National Space Council, which was disbanded in 1993. ](/news/2017/06/30/u-s-president-donald-trump-signs-an-executive-order-re-establishing-the-national-space-council-which-was-disbanded-in-1993.md)
 Vice President Pence will head the council, but a NASA administrator has yet to be appointed.
 

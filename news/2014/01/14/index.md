@@ -5,7 +5,7 @@ Formats: [HTML](2014/01/14/index.html)  [JSON](2014/01/14/index.json)  [XML](201
 
 ##### Mexican Drug War
 ### [Communitary forces take several towns in Mexican state of Michoacn trying to expel the Knights Templar Cartel forces, and prompting the intervention of Mexican Army against them.](/news/2014/01/14/communitary-forces-take-several-towns-in-mexican-state-of-michoacan-trying-to-expel-the-knights-templar-cartel-forces-and-prompting-the-int.md)
-_Context: Mexican Army, Knights Templar Cartel, Mexican Drug War, Michoacn_
+_Context: Michoacn, Knights Templar Cartel, Mexican Drug War, Mexican Army_
 
 ##### Syrian Civil War
 ### [46 Palestinians and Syrian residents in the Yarmouk Camp have died of starvation and lack of medical care, since October, from a Syrian army enforced blockade. ](/news/2014/01/14/46-palestinians-and-syrian-residents-in-the-yarmouk-camp-have-died-of-starvation-and-lack-of-medical-care-since-october-from-a-syrian-army.md)

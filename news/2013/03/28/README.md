@@ -13,7 +13,7 @@ _Context: DR Congo, United Nations Security Council_
 
 ##### Pibor County
 ### [A battle for an airstrip in Pibor County kills 143 rebels and 20 government troops. The rebels reportedly belong to a group led by David Yau Yau. ](/news/2013/03/28/a-battle-for-an-airstrip-in-pibor-county-kills-143-rebels-and-20-government-troops-the-rebels-reportedly-belong-to-a-group-led-by-david-yau.md)
-_Context: Pibor County, David Yau Yau_
+_Context: David Yau Yau, Pibor County_
 
 ##### Mortar
 ### [Mortar fire hits Damascus University cafeteria section killing 15 students and injuring 7 others. ](/news/2013/03/28/mortar-fire-hits-damascus-university-cafeteria-section-killing-15-students-and-injuring-7-others.md)
@@ -21,7 +21,7 @@ Mortar fire hits the University of Damascus, killing 15 students and wounding se
 
 ##### Barbara Walters
 ### [Barbara Walters, longtime newswoman and host of the American talk show "The View", announces plans to retire in May 2014. ](/news/2013/03/28/barbara-walters-longtime-newswoman-and-host-of-the-american-talk-show-the-view-announces-plans-to-retire-in-may-2014.md)
-_Context: The View, talk show, Barbara Walters, United States_
+_Context: talk show, The View, Barbara Walters, American_
 
 ##### Olivier Award
 ### [Olivier Award and Tony Award winning actor Richard Griffiths dies at the age of 65. ](/news/2013/03/28/olivier-award-and-tony-award-winning-actor-richard-griffiths-dies-at-the-age-of-65.md)
@@ -41,7 +41,7 @@ Davao City -- About 40 houses were burned to the ground after a fire broke out i
 
 ##### 193 UN member states
 ### [The members of the United Nations are scheduled to decide on Australian diplomat Peter Woolcott's draft for the first ever treaty to regulate the conventional arms trade. ](/news/2013/03/28/the-members-of-the-united-nations-are-scheduled-to-decide-on-australian-diplomat-peter-woolcott-s-draft-for-the-first-ever-treaty-to-regulat.md)
-_Context: treaty, arms sales, Australia, Peter Woolcott, 193 UN member states, United Nations_
+_Context: 193 UN member states, arms sales, Australia, treaty, United Nations, Peter Woolcott_
 
 ##### Syria
 ### [The Syrian opposition opens its first embassy in Qatar, a day after it was given Damascus's seat at the Arab League. ](/news/2013/03/28/the-syrian-opposition-opens-its-first-embassy-in-qatar-a-day-after-it-was-given-damascus-s-seat-at-the-arab-league.md)
@@ -57,7 +57,7 @@ _Context: Adam Lanza, Sandy Hook Elementary School shooting_
 
 ##### El Salvador
 ### [Edwin Ernesto Rivera Gracias, a Salvadoran national recently added to the FBI's 10 Most Wanted Fugitives list for allegedly committing a 2011 murder in Colorado, surrenders after agreeing to face charges. ](/news/2013/03/28/edwin-ernesto-rivera-gracias-a-salvadoran-national-recently-added-to-the-fbi-s-10-most-wanted-fugitives-list-for-allegedly-committing-a-201.md)
-_Context: Colorado, FBI, 10 Most Wanted Fugitives list, El Salvador_
+_Context: Colorado, 10 Most Wanted Fugitives list, FBI, El Salvador_
 
 ##### United Kingdom
 ### [British-Italian fraudster Giovanni Di Stefano is sentenced to 14 years in jail for fraud. ](/news/2013/03/28/britishaitalian-fraudster-giovanni-di-stefano-is-sentenced-to-14-years-in-jail-for-fraud.md)
@@ -69,11 +69,11 @@ Former cabinet minister Andrew Mitchell is suing the Sun over claims he swore an
 
 ##### President
 ### [Former President of Chile Michelle Bachelet announces that she is running in the Chilean presidential election on November 17. ](/news/2013/03/28/former-president-of-chile-michelle-bachelet-announces-that-she-is-running-in-the-chilean-presidential-election-on-november-17.md)
-_Context: President, president, Michelle Bachelet, Chile_
+_Context: Michelle Bachelet, Chile, President, president_
 
 ##### President
 ### [Former President of South Africa Nelson Mandela is hospitalised with a lung infection. ](/news/2013/03/28/former-president-of-south-africa-nelson-mandela-is-hospitalised-with-a-lung-infection.md)
-_Context: Nelson Mandela, South Africa, lung infection, President_
+_Context: lung infection, President, South Africa, Nelson Mandela_
 
 ##### Italy
 ### [Italy remains in political gridlock as Pier Luigi Bersani announces that the latest attempts to form a stable government have failed. ](/news/2013/03/28/italy-remains-in-political-gridlock-as-pier-luigi-bersani-announces-that-the-latest-attempts-to-form-a-stable-government-have-failed.md)
@@ -85,9 +85,9 @@ _Context: B.C., AD, Shroud of Turin_
 
 ##### Maundy Thursday
 ### [As part of the Maundy Thursday service Pope Francis washes the feet of prisoners at a juvenile detention centre in Rome, Italy. ](/news/2013/03/28/as-part-of-the-maundy-thursday-service-pope-francis-washes-the-feet-of-prisoners-at-a-juvenile-detention-centre-in-rome-italy.md)
-_Context: Maundy Thursday, juvenile detention centre, washes the feet, Italy, Rome, Italy, Pope Francis_
+_Context: Rome, Italy, Maundy Thursday, washes the feet, Italy, Pope Francis, juvenile detention centre_
 
-##### United States
+##### American
 ### [American bioengineers at Stanford University build a transistor-like transcriptor out of DNA and RNA molecules. ](/news/2013/03/28/american-bioengineers-at-stanford-university-build-a-transistor-like-transcriptor-out-of-dna-and-rna-molecules.md)
 Transistors are the basic building blocks of electronics; now they can be made with living cells. -&gt;
 

@@ -5,7 +5,7 @@ Formats: [HTML](2010/05/12/index.html)  [JSON](2010/05/12/index.json)  [XML](201
 
 ##### Global Green USA
 ### [Global Green USA attends BioShield 2010 Tabletop Exercise in Tbilisi, Georgia. ](/news/2010/05/12/global-green-usa-attends-bioshield-2010-tabletop-exercise-in-tbilisi-georgia.md)
-_Context: Global Green USA, Tbilisi,  Georgian_
+_Context:  Georgian, Tbilisi, Global Green USA_
 
 ##### Afriqiyah Airways Flight 771
 ### [Afriqiyah Airways Flight 771 arriving from South Africa en route to London crashes at Tripoli airport, Libya, killing 104 people; a 10-year-old child is the sole survivor. ](/news/2010/05/12/afriqiyah-airways-flight-771-arriving-from-south-africa-en-route-to-london-crashes-at-tripoli-airport-libya-killing-104-people-a-10-year.md)
@@ -17,11 +17,11 @@ RESTRICTIONS on flights to and from airports in Spain, Portugal and Morocco were
 
 ##### International Committee of the Red Cross
 ### [The International Committee of the Red Cross confirms reports of a second, secret US prison at Bagram Air Base in Afghanistan after new allegations of torture. ](/news/2010/05/12/the-international-committee-of-the-red-cross-confirms-reports-of-a-second-secret-us-prison-at-bagram-air-base-in-afghanistan-after-new-alle.md)
-_Context: Bagram Air Base, Afghanistan, International Committee of the Red Cross_
+_Context: Bagram Air Base, International Committee of the Red Cross, Afghanistan_
 
 ##### Russia
 ### [Russia and Turkey sign a $20 billion deal permitting Moscow to build and own a controlling stake in Ankara's first nuclear power plant. ](/news/2010/05/12/russia-and-turkey-sign-a-20-billion-deal-permitting-moscow-to-build-and-own-a-controlling-stake-in-ankara-s-first-nuclear-power-plant.md)
-_Context: Moscow, Ankara, Turkey, Russia_
+_Context: Ankara, Moscow, Turkey, Russia_
 
 ##### South Sudan
 ### [In South Sudan there is violence for the third time in a week between the army and forces led by the former general George Athor. ](/news/2010/05/12/in-south-sudan-there-is-violence-for-the-third-time-in-a-week-between-the-army-and-forces-led-by-the-former-general-george-athor.md)
@@ -29,11 +29,11 @@ _Context: South Sudan, George Athor_
 
 ##### Hanzhong
 ### [9 people, including 7 children, are killed at a school near Hanzhong city, Shaanxi, China. ](/news/2010/05/12/9-people-including-7-children-are-killed-at-a-school-near-hanzhong-city-shaanxi-china.md)
-_Context: China, Hanzhong, Shaanxi_
+_Context: China, Shaanxi, Hanzhong_
 
 ##### Shi'ite
 ### [A bomb planted inside a grocery store in a mainly Shi'ite area of Baghdad kills three people and wounds 23. ](/news/2010/05/12/a-bomb-planted-inside-a-grocery-store-in-a-mainly-shi-ite-area-of-baghdad-kills-three-people-and-wounds-23.md)
-_Context: Shi'ite, Baghdad_
+_Context: Baghdad, Shi'ite_
 
 ##### Irish
 ### [Irish authorities launch an investigation into last night's "violent incident" which saw protesters attempt to storm Dil ireann in a campaign against bank bail-outs. ](/news/2010/05/12/irish-authorities-launch-an-investigation-into-last-night-s-violent-incident-which-saw-protesters-attempt-to-storm-dail-eireann-in-a-campa.md)
@@ -49,7 +49,7 @@ Tens of thousands of pilgrims have flocked to one of Christianity&#39;s most pop
 
 ##### North Korea
 ### [North Korea says it has undertaken nuclear fusion, a claim disputed by international scientists. ](/news/2010/05/12/north-korea-says-it-has-undertaken-nuclear-fusion-a-claim-disputed-by-international-scientists.md)
-_Context: North Korea, nuclear fusion_
+_Context: nuclear fusion, North Korea_
 
 ##### Supermassive black hole
 ### [A possible supermassive black hole is witnessed being hurled from its parent galaxy at high speed. ](/news/2010/05/12/a-possible-supermassive-black-hole-is-witnessed-being-hurled-from-its-parent-galaxy-at-high-speed.md)

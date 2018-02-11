@@ -17,7 +17,7 @@ Nigerian officials say Boko Haram gunmen have killed seven people in a raid in n
 
 ##### Bronze Age
 ### [A Bronze Age village is discovered in Cambridgeshire, United Kingdom. ](/news/2016/01/12/a-bronze-age-village-is-discovered-in-cambridgeshire-united-kingdom.md)
-_Context: Cambridgeshire, Bronze Age, United Kingdom_
+_Context: Cambridgeshire, United Kingdom, Bronze Age_
 
 ##### Junior doctor
 ### [Junior doctors in the United Kingdom go on strike over a proposed new contract. ](/news/2016/01/12/junior-doctors-in-the-united-kingdom-go-on-strike-over-a-proposed-new-contract.md)
@@ -45,7 +45,7 @@ The implementation of a nuclear agreement reached last July is now just days awa
 
 ##### Iran-United States relations
 ### [Iran seizes the crew of two small United States Navy boats near Farsi Island, in the Persian Gulf, after they had allegedly entered Iranian waters. Pentagon spokesman, Peter Cook, told Associated Press that Iran has assured the United States that the crew and vessels will be returned promptly. ](/news/2016/01/12/iran-seizes-the-crew-of-two-small-united-states-navy-boats-near-farsi-island-in-the-persian-gulf-after-they-had-allegedly-entered-iranian.md)
-_Context: Persian Gulf, Associated Press, Farsi Island, Peter Cook, United States, United States Navy, Iran, Iran-United States relations_
+_Context: Persian Gulf, American, Farsi Island, United States Navy, Associated Press, Peter Cook, Iran, Iran-United States relations_
 
 ##### North Korea-United States relations
 ### [The United States House of Representatives votes overwhelmingly in favor of legislation to tighten sanctions on North Korea in response to the North's latest nuclear test. ](/news/2016/01/12/the-united-states-house-of-representatives-votes-overwhelmingly-in-favor-of-legislation-to-tighten-sanctions-on-north-korea-in-response-to-t.md)

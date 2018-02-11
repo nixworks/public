@@ -13,7 +13,7 @@ Nation erupts in joy; leaders extend congratulations; educational institutions g
 
 ##### Greece
 ### [Greece is the first developed market to be demoted into an emerging market by the MSCI Emerging Markets Index. ](/news/2013/11/27/greece-is-the-first-developed-market-to-be-demoted-into-an-emerging-market-by-the-msci-emerging-markets-index.md)
-_Context: MSCI Emerging Markets Index, developed market, Greece, emerging market_
+_Context: MSCI Emerging Markets Index, emerging market, developed market, Greece_
 
 ##### Wuhan
 ### [In China, some second-tier cities such as Wuhan and Shenyang begin to enhance local housing price controlling policy, following all first-tier cities' controlling policy enhancement in the country. ](/news/2013/11/27/in-china-some-second-tier-cities-such-as-wuhan-and-shenyang-begin-to-enhance-local-housing-price-controlling-policy-following-all-first-ti.md)
@@ -27,13 +27,13 @@ Bankruptcy court judge approves anti-trust settlement with Justice Department, c
 ### [The price of one Bitcoin breaks above $1,000 for the first time, and marks a rise of over 7,600 percent so far this year. ](/news/2013/11/27/the-price-of-one-bitcoin-breaks-above-1-000-for-the-first-time-and-marks-a-rise-of-over-7-600-percent-so-far-this-year.md)
 Bitcoin continued its stellar rally on Wednesday, breaking above $1,000 for the first time and marking a rise of over 7,600 percent so far this year.
 
-##### United States
+##### American
 ### [A winter weather storm in the United States kills 11 people and causes major travel delays. ](/news/2013/11/27/a-winter-weather-storm-in-the-united-states-kills-11-people-and-causes-major-travel-delays.md)
 More than 200 flights were canceled and more than 5,000 were delayed by a deadly storm that is on track to pounce on the East Coast on the busiest travel day of the year.
 
 ##### Arena Corinthians
 ### [Two people die after a crane collapses in the Arena Corinthians in the Brazilian city SGBPo Paulo which is due to host the opening ceremony of the 2014 World Cup. Parts of the grandstands also collapse. ](/news/2013/11/27/two-people-die-after-a-crane-collapses-in-the-arena-corinthians-in-the-brazilian-city-sagbpo-paulo-which-is-due-to-host-the-opening-ceremony.md)
-_Context: Arena Corinthians, SGBPo Paulo, Brazil, 2014 World Cup_
+_Context: SGBPo Paulo, Arena Corinthians, 2014 World Cup, Brazil_
 
 ##### Tucson, Arizona
 ### [Three girls (two of whom eventually fled to a neighbor's house to escape their knife-wielding stepfather and notified police) held captive for several months or more in extremely dirty conditions (possibly up to two years), subjected to long barrages of loud music or static, fed only once a day and having gone up to four months without a bath, are rescued in Tucson, Arizona. ](/news/2013/11/27/three-girls-two-of-whom-eventually-fled-to-a-neighbor-s-house-to-escape-their-knife-wielding-stepfather-and-notified-police-held-captive-f.md)
@@ -45,7 +45,7 @@ Angry protesters set fire to the office of Tunisia&#39;s ruling Islamist party i
 
 ##### Thailand
 ### [As anti-government protests in Thailand continue to spread beyond the capital Bangkok, the parliament discusses a no-confidence motion against the Prime Minister Yingluck Shinawatra. ](/news/2013/11/27/as-anti-government-protests-in-thailand-continue-to-spread-beyond-the-capital-bangkok-the-parliament-discusses-a-no-confidence-motion-again.md)
-_Context: Bangkok, Parliament, Prime Minister, Yingluck Shinawatra, Thailand_
+_Context: Yingluck Shinawatra, Prime Minister, Parliament, Thailand, Bangkok_
 
 ##### Prime Minister of Latvia
 ### [The Prime Minister of Latvia Valdis Dombrovskis resigns due to the Riga supermarket roof collapse. ](/news/2013/11/27/the-prime-minister-of-latvia-valdis-dombrovskis-resigns-due-to-the-riga-supermarket-roof-collapse.md)

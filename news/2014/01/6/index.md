@@ -5,11 +5,11 @@ Formats: [HTML](2014/01/6/index.html)  [JSON](2014/01/6/index.json)  [XML](2014/
 
 ##### Khyber Agency
 ### [A bomb detonates in a tribal elder's home in Khyber Agency, Pakistan, killing 10 people and injuring another 9. ](/news/2014/01/6/a-bomb-detonates-in-a-tribal-elder-s-home-in-khyber-agency-pakistan-killing-10-people-and-injuring-another-9.md)
-_Context: Khyber Agency, Pakistan_
+_Context: Pakistan, Khyber Agency_
 
 ##### Ghazni Province
 ### [A suicide car bomber detonates at a police checkpoint in Ghazni Province, Afghanistan, killing 3 police officers. ](/news/2014/01/6/a-suicide-car-bomber-detonates-at-a-police-checkpoint-in-ghazni-province-afghanistan-killing-3-police-officers.md)
-_Context: Ghazni Province, Afghanistan_
+_Context: Afghanistan, Ghazni Province_
 
 ##### Nigeria
 ### [Gunmen kill 30 people in the central Nigerian village of Shonong in the Riyom local government area. ](/news/2014/01/6/gunmen-kill-30-people-in-the-central-nigerian-village-of-shonong-in-the-riyom-local-government-area.md)
@@ -25,7 +25,7 @@ _Context: Vienna Convention on Diplomatic Relations, Czech Republic, Jamal al-Ja
 
 ##### Colleen LaRose
 ### [American-born Colleen LaRose, who calls herself Jihad Jane, is sentenced to 10 years in prison for a failed al Qaeda-linked plot to kill Swedish artist Lars Vilks who had depicted the head of the Muslim Prophet Mohammad on a dog. ](/news/2014/01/6/american-born-colleen-larose-who-calls-herself-jihad-jane-is-sentenced-to-10-years-in-prison-for-a-failed-al-qaeda-linked-plot-to-kill-swe.md)
-_Context: Mohammad, Lars Vilks, Colleen LaRose_
+_Context: Mohammad, Colleen LaRose, Lars Vilks_
 
 ##### Venezuela
 ### [Venezuelan beauty queen Monica Spear and her British ex-husband are murdered through a carjacking in Caracas. ](/news/2014/01/6/venezuelan-beauty-queen-ma3nica-spear-and-her-british-ex-husband-are-murdered-through-a-carjacking-in-caracas.md)

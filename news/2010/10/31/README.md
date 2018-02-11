@@ -3,7 +3,7 @@ Formats: [HTML](2010/10/31/index.html)  [JSON](2010/10/31/index.json)  [XML](201
 
 ## [2010-10-31](/news/2010/10/31/index.md)
 
-##### United States
+##### American
 ### [The US, UK, France and Germany ban all air freight from Yemen at their respective countries' airports following the discovery of two explosive packages. ](/news/2010/10/31/the-us-uk-france-and-germany-ban-all-air-freight-from-yemen-at-their-respective-countries-airports-following-the-discovery-of-two-explosi.md)
 Al-Qaida in Yemen suspected of sending cargo bombs reportedly destined for two Chicago synagogues; two women arrested; UK: Plane may have been target.
 
@@ -25,7 +25,7 @@ Shanghai bids farewell to the World Expo, a six-month extravaganza which drew 72
 
 ##### President
 ### [The President of Venezuela Hugo Chvez nationalises Sidetur, a subsidiary of Sivensa.](/news/2010/10/31/the-president-of-venezuela-hugo-chavez-nationalises-sidetur-a-subsidiary-of-sivensa.md)
-_Context: Hugo Chvez, Sidetur, President, Sivensa_
+_Context: President, Sivensa, Sidetur, Hugo Chvez_
 
 ##### Haiti cholera outbreak
 ### [The death toll from the 2010 Haitian cholera outbreak reaches 330 with the impact of Hurricane Tomas later in the week expected to make things worse. ](/news/2010/10/31/the-death-toll-from-the-2010-haitian-cholera-outbreak-reaches-330-with-the-impact-of-hurricane-tomas-later-in-the-week-expected-to-make-thin.md)
@@ -37,11 +37,11 @@ Indonesia has ramped up efforts to help those on remote islands hit by a devasta
 
 ##### Mounts Merapi
 ### [Mount Merapi erupts again in Indonesia, surprising villagers who had returned to check their possessions. ](/news/2010/10/31/mount-merapi-erupts-again-in-indonesia-surprising-villagers-who-had-returned-to-check-their-possessions.md)
-_Context: Indonesia, Mounts Merapi_
+_Context: Mounts Merapi, Indonesia_
 
 ##### Human Rights Watch
 ### [Human Rights Watch expresses concern that Iran and Saudi Arabia, which have been criticized for their records on women's rights, are expected to join a new U.N. agency devoted to women and could interfere with the work of the agency. ](/news/2010/10/31/human-rights-watch-expresses-concern-that-iran-and-saudi-arabia-which-have-been-criticized-for-their-records-on-women-s-rights-are-expecte.md)
-_Context: Women's rights in Saudi Arabia, Human Rights Watch, U.N., women's rights, Iran_
+_Context: women's rights, Women's rights in Saudi Arabia, Human Rights Watch, Iran, U.N._
 
 ##### Hamid Karzai
 ### [Afghan President Hamid Karzai denounces a large-scale drug raid in which U.S. forces and Russian drug agents took part, calling it a violation of Afghan sovereignty, even though Afghan police participated. ](/news/2010/10/31/afghan-president-hamid-karzai-denounces-a-large-scale-drug-raid-in-which-u-s-forces-and-russian-drug-agents-took-part-calling-it-a-violati.md)
@@ -51,9 +51,9 @@ Afghan President Hamid Karzai on Saturday denounced a large-scale drug raid in w
 ### [Six New Zealanders return home after breaking Israel's blockade of Gaza claiming to have delivered medical aid and a message of international solidarity. ](/news/2010/10/31/six-new-zealanders-return-home-after-breaking-israel-s-blockade-of-gaza-claiming-to-have-delivered-medical-aid-and-a-message-of-internationa.md)
 _Context: New Zealand_
 
-##### United States
+##### American
 ### [A United States military commission sentences Guantanamo Bay detainee Omar Khadr to eight more years in prison after pleading guilty to the murder of an American soldier in 2002. ](/news/2010/10/31/a-united-states-military-commission-sentences-guantanamo-bay-detainee-omar-khadr-to-eight-more-years-in-prison-after-pleading-guilty-to-the.md)
-_Context: Guantanamo Bay, United States, Guantanamo military commission, Omar Khadr_
+_Context: American, Guantanamo military commission, Omar Khadr, Guantanamo Bay_
 
 ##### Somalia
 ### [The Somali parliament approves Mohamed Abdullahi Mohamed as Prime Minister. ](/news/2010/10/31/the-somali-parliament-approves-mohamed-abdullahi-mohamed-as-prime-minister.md)
@@ -61,7 +61,7 @@ Somalia&amp;&#x23;039&#x3B;s&#x20;parliament&#x20;has&#x20;approved&#x20;the&#x2
 
 ##### Brazil
 ### [Voters in Brazil go to the polls for the second round of the Brazilian presidential election between Dilma Rousseff and Jos Serra. Rousseff won 55% of the vote and will become the first female President of Brazil. ](/news/2010/10/31/voters-in-brazil-go-to-the-polls-for-the-second-round-of-the-brazilian-presidential-election-between-dilma-rousseff-and-jose-serra-rousseff.md)
-_Context: Brazilian presidential election, Dilma Rousseff, Brazil, president, Jos Serra_
+_Context: president, Brazilian presidential election, Jos Serra, Dilma Rousseff, Brazil_
 
 ##### Ivory Coast
 ### [Voters in the Ivory Coast go to the polls for the long delayed presidential election. ](/news/2010/10/31/voters-in-the-ivory-coast-go-to-the-polls-for-the-long-delayed-presidential-election.md)

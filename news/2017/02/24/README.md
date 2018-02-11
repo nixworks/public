@@ -21,11 +21,11 @@ In January, J.C. Penney CEO Marvin Ellison said the department store chain was g
 
 ##### Guatemala
 ### [The Guatemalan army blockades a ship from the Dutch NGO Women on Waves that provides material for abortions. ](/news/2017/02/24/the-guatemalan-army-blockades-a-ship-from-the-dutch-ngo-women-on-waves-that-provides-material-for-abortions.md)
-_Context: Women on Waves, army, Guatemala, abortion, Netherlands_
+_Context: army, abortion, Women on Waves, Netherlands, Guatemala_
 
 ##### Israel
 ### [Israel denies entry to Omar Shakir, a researcher for Human Rights Watch and an American citizen, because the organization engages in so-called Palestinian propaganda. HRW's Sari Bashi said, "This Israeli government has been narrowing the space for democratic activity," by closing the country off to critics. Later, the Israel government would grant Mr. Shakir a tourist visa while considering HRW's appeal on the work visa. ](/news/2017/02/24/israel-denies-entry-to-omar-shakir-a-researcher-for-human-rights-watch-and-an-american-citizen-because-the-organization-engages-in-so-call.md)
-_Context: visa, work visa, Israel, Human Rights Watch_
+_Context: Human Rights Watch, Israel, visa, work visa_
 
 ##### 2017 Mexico-United States diplomatic crisis
 ### [Mexico states that it will reject third-country deportees. ](/news/2017/02/24/mexico-states-that-it-will-reject-third-country-deportees.md)
@@ -37,7 +37,7 @@ German intelligence spied on the BBC and other foreign journalists, Spiegel news
 
 ##### Death of Kim Jong-nam
 ### [Malaysian police claim that Kim Jong-nam, half brother of North Korean leader Kim Jong-un, was killed by VX nerve agent, a toxin used almost exclusively for chemical warfare. ](/news/2017/02/24/malaysian-police-claim-that-kim-jong-nam-half-brother-of-north-korean-leader-kim-jong-un-was-killed-by-vx-nerve-agent-a-toxin-used-almost.md)
-_Context: Death of Kim Jong-nam, North Korea, nerve agent, VX, Kim Jong-un, Kim Jong-nam, Malaysian police_
+_Context: North Korea, VX, Death of Kim Jong-nam, Kim Jong-un, Kim Jong-nam, Malaysian police, nerve agent_
 
 ##### Presidency of Donald Trump
 ### [The Trump administration signals that it plans a crackdown on U.S states that legalize the use of cannabis. ](/news/2017/02/24/the-trump-administration-signals-that-it-plans-a-crackdown-on-u-s-states-that-legalize-the-use-of-cannabis.md)
@@ -49,7 +49,7 @@ South&#x20;African&#x20;police&#x20;fired&#x20;rubber&#x20;bullets&#x20;and&#x20
 
 ##### Philippine
 ### [Philippine vice president Leni Robredo defends her fellow Liberal party-mate Leila de Lima who was arrested for alleged drug trafficking. Robredo calls de Lima's arrest political harassment. ](/news/2017/02/24/philippine-vice-president-leni-robredo-defends-her-fellow-liberal-party-mate-leila-de-lima-who-was-arrested-for-alleged-drug-trafficking-ro.md)
-_Context: Philippine, Leni Robredo, Liberal Party, Leila de Lima, political harassment_
+_Context: Philippine, Leni Robredo, Liberal Party, political harassment, Leila de Lima_
 
 ##### Presidency of Donald Trump
 ### [The Trump White House bars "The New York Times", CNN, the "Los Angeles Times", the "New York Daily News", "The Hill", the "Daily Mail", BBC, Politico, and BuzzFeed from a Friday press "gaggle." Generally conservative, mostly new, outlets were permitted entry, such as Breitbart News, One America News Network, and "The Washington Times". Also allowed in were ABC News, CBS News, NBC News, "The Wall Street Journal", Bloomberg News, and Fox News. "Time" magazine and the Associated Press could have attended but chose not to in protest. The White House Correspondents' Association, which represents the press corps, quickly rebuked the White House's actions. ](/news/2017/02/24/the-trump-white-house-bars-the-new-york-times-cnn-the-los-angeles-times-the-new-york-daily-news-the-hill-the-daily-mail-bbc.md)

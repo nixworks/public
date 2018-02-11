@@ -5,11 +5,11 @@ Formats: [HTML](2017/02/11/index.html)  [JSON](2017/02/11/index.json)  [XML](201
 
 ##### War in Afghanistan (2015-present)
 ### [A suicide bomber kills at least seven people outside a bank in Lashkargah. ](/news/2017/02/11/a-suicide-bomber-kills-at-least-seven-people-outside-a-bank-in-lashkargah.md)
-_Context: War in Afghanistan (2015-present), Lashkargah_
+_Context: Lashkargah, War in Afghanistan (2015-present)_
 
 ##### Syrian Civil War
 ### [Syrian rebels and Turkish troops enter al-Bab, with Syrian troops also approaching the town, prompting heavy clashes with ISIL militants. ](/news/2017/02/11/syrian-rebels-and-turkish-troops-enter-al-bab-with-syrian-troops-also-approaching-the-town-prompting-heavy-clashes-with-isil-militants.md)
-_Context: militants, Turkish troops, ISIL, Free Syrian Army, al-Bab, Syrian Civil War, Syrian Armed Forces, Battle of al-Bab_
+_Context: Syrian Civil War, Syrian Armed Forces, Turkish troops, al-Bab, militants, ISIL, Free Syrian Army, Battle of al-Bab_
 
 ##### 2017 Istanbul nightclub shooting
 ### [Abdulkadir Masharipov is charged with murder in relation to the shootings in Istanbul that killed 39 people and is remanded in custody. Islamic State in Iraq and the Levant has claimed responsibility for the shootings. ](/news/2017/02/11/abdulkadir-masharipov-is-charged-with-murder-in-relation-to-the-shootings-in-istanbul-that-killed-39-people-and-is-remanded-in-custody-isla.md)

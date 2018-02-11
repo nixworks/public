@@ -9,11 +9,11 @@ The Palestinian government warns that it will pull out of peace talks if Israel 
 
 ##### NATO
 ### [Two members of NATO's International Security Assistance Force are killed by improvised explosive devices in Afghanistan. ](/news/2010/08/23/two-members-of-nato-s-international-security-assistance-force-are-killed-by-improvised-explosive-devices-in-afghanistan.md)
-_Context: Afghanistan, improvised explosive device, NATO, International Security Assistance Force_
+_Context: NATO, improvised explosive device, International Security Assistance Force, Afghanistan_
 
 ##### National Assembly
 ### [At least 17 people, including a member of the National Assembly of Pakistan, Maulana Noor Mohammed Wazir, are killed in the bombing of a mosque in Pakistan's South Waziristan region. ](/news/2010/08/23/at-least-17-people-including-a-member-of-the-national-assembly-of-pakistan-maulana-noor-mohammed-wazir-are-killed-in-the-bombing-of-a-mos.md)
-_Context: National Assembly, Maulana Noor Mohammed Wazir, Pakistan, mosque, bomb, South Waziristan_
+_Context: South Waziristan, bomb, National Assembly, mosque, Maulana Noor Mohammed Wazir, Pakistan_
 
 ##### Anne Frank tree
 ### [The Anne Frank tree in Amsterdam is knocked down by a gust of heavy wind, breaking off about a meter above ground. ](/news/2010/08/23/the-anne-frank-tree-in-amsterdam-is-knocked-down-by-a-gust-of-heavy-wind-breaking-off-about-a-meter-above-ground.md)
@@ -45,11 +45,11 @@ Thailand says it will resume diplomatic ties with Cambodia, after Phnom Penh ann
 
 ##### Elephant
 ### [2 tonnes of elephant ivory and five rhino horns disguised as avocados destined for Malaysia are seized in Nairobi, Kenya. ](/news/2010/08/23/2-tonnes-of-elephant-ivory-and-five-rhino-horns-disguised-as-avocados-destined-for-malaysia-are-seized-in-nairobi-kenya.md)
-_Context: Nairobi, rhino, ivory, elephant, Kenya, Malaysia_
+_Context: Kenya, Nairobi, elephant, Malaysia, ivory, rhino_
 
 ##### China
 ### [China considers removing the death penalty for several economic crimes. ](/news/2010/08/23/china-considers-removing-the-death-penalty-for-several-economic-crimes.md)
-_Context: China, death penalty_
+_Context: death penalty, China_
 
 ##### Islam
 ### [25 prisoners, including Islamic militants, escape from a prison in Dushanbe, Tajikistan. ](/news/2010/08/23/25-prisoners-including-islamic-militants-escape-from-a-prison-in-dushanbe-tajikistan.md)

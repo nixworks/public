@@ -5,19 +5,19 @@ Formats: [HTML](2009/09/19/index.html)  [JSON](2009/09/19/index.json)  [XML](200
 
 ##### Africa
 ### [ A six-nation east African regional bloc consisting of Djibouti, Ethiopia, Kenya, Somalia, Sudan and Uganda urges global sanctions on Eritrea for backing Islamist rebels in neighbouring war-torn Somalia. ](/news/2009/09/19/a-six-nation-east-african-regional-bloc-consisting-of-djibouti-ethiopia-kenya-somalia-sudan-and-uganda-urges-global-sanctions-on-eritre.md)
-_Context: Eritrea, Kenya, Somalia, Africa, Sudan, Uganda, Ethiopia, Islam, Djibouti_
+_Context: Africa, Somalia, Eritrea, Islam, Kenya, Djibouti, Ethiopia, Uganda, Sudan_
 
 ##### Denver
 ### [ Two men are arrested in Denver, Colorado, United States, as part of an FBI terror probe. ](/news/2009/09/19/two-men-are-arrested-in-denver-colorado-united-states-as-part-of-an-fbi-terror-probe.md)
-_Context: United States, Colorado, FBI, Denver_
+_Context: Denver, FBI, American, Colorado_
 
 ##### Yemen
 ### [ Attacks by rebels in Yemen are reported despite a ceasefire. ](/news/2009/09/19/attacks-by-rebels-in-yemen-are-reported-despite-a-ceasefire.md)
-_Context: Yemen, ceasefire_
+_Context: ceasefire, Yemen_
 
 ##### Yellow shirt
 ### [ Pro and anti government protestors demonstrate in the Thai capital Bangkok and near the Preah Vihear Temple along the border with Cambodia. ](/news/2009/09/19/pro-and-anti-government-protestors-demonstrate-in-the-thai-capital-bangkok-and-near-the-preah-vihear-temple-along-the-border-with-cambodia.md)
-_Context: Preah Vihear Temple, Bangkok, yellow shirt, Cambodia, Thailand, red shirt_
+_Context: Preah Vihear Temple, Cambodia, red shirt, Bangkok, yellow shirt, Thailand_
 
 ##### Gay pride
 ### [ A gay pride march in Belgrade, Serbia, is called off after police and Prime Minister Mirko Cvetkovic tell organisers they could not guarantee its safety. ](/news/2009/09/19/a-gay-pride-march-in-belgrade-serbia-is-called-off-after-police-and-prime-minister-mirko-cvetkovia-tell-organisers-they-could-not-guaran.md)
@@ -29,7 +29,7 @@ _Context: Bali, Richter scale, earthquake, Indonesia_
 
 ##### DNA
 ### [ DNA tests confirm that Islamist bomber Noordin Mohamed Top is dead. ](/news/2009/09/19/dna-tests-confirm-that-islamist-bomber-noordin-mohamed-top-is-dead.md)
-_Context: Noordin Mohamed Top, DNA, bomb, Islamist_
+_Context: Islamist, bomb, Noordin Mohamed Top, DNA_
 
 ##### President of the European Commission
 ### [ President of the European Commission Jose Manuel Barroso arrives in Ireland on the campaign trail for the country's second referendum on the Treaty of Lisbon. ](/news/2009/09/19/president-of-the-european-commission-josa-c-manuel-barroso-arrives-in-ireland-on-the-campaign-trail-for-the-country-s-second-referendum-on-t.md)
@@ -37,11 +37,11 @@ European Commission President José Manuel Barroso has said a No vote will affec
 
 ##### Takayama
 ### [ Four people are seriously injured in a bear attack in Takayama, Gifu Prefecture, Japan. ](/news/2009/09/19/four-people-are-seriously-injured-in-a-bear-attack-in-takayama-gifu-prefecture-japan.md)
-_Context: Takayama, Gifu Prefecture, Japan_
+_Context: Japan, Gifu Prefecture, Takayama_
 
 ##### Pakistan
 ### [ Pakistani police raid a local security firm that provides security for the United States embassy for illegal weapons possession. ](/news/2009/09/19/pakistani-police-raid-a-local-security-firm-that-provides-security-for-the-united-states-embassy-for-illegal-weapons-possession.md)
-_Context: United States, security, Pakistan_
+_Context: security, American, Pakistan_
 
 ##### Al Qaeda
 ### [ The German government raises its terrorism alert level after al Qaeda posted a video on the Internet threatening attacks in Germany based on the outcome of this month's elections. ](/news/2009/09/19/the-german-government-raises-its-terrorism-alert-level-after-al-qaeda-posted-a-video-on-the-internet-threatening-attacks-in-germany-based-o.md)
@@ -65,7 +65,7 @@ Pope Benedict today announced he would hold a special meeting next year of Roman
 
 ##### Nigeria
 ### [ Nigeria's government asks cinemas to stop showing the science fiction film, "District 9", saying it denigrates the country's image by portraying Nigerians as cannibals, criminals and prostitutes. ](/news/2009/09/19/nigeria-s-government-asks-cinemas-to-stop-showing-the-science-fiction-film-district-9-saying-it-denigrates-the-country-s-image-by-portr.md)
-_Context: District 9, Nigeria_
+_Context: Nigeria, District 9_
 
 ##### Parachutists
 ### [ Hundreds of parachutists from the United States, the United Kingdom and the Netherlands commemorate the 65th anniversary of Operation Market Garden near Arnhem, the Netherlands. ](/news/2009/09/19/hundreds-of-parachutists-from-the-united-states-the-united-kingdom-and-the-netherlands-commemorate-the-65th-anniversary-of-operation-marke.md)
@@ -73,7 +73,7 @@ HUNDREDS of British, American and Dutch parachutists jumped over the central Net
 
 ##### Guernsey
 ### [ Becky Simmons becomes the first Guernsey-born person to swim the English Channel. ](/news/2009/09/19/becky-simmons-becomes-the-first-guernsey-born-person-to-swim-the-english-channel.md)
-_Context: English Channel, Guernsey_
+_Context: Guernsey, English Channel_
 
 ## [Previous Day...](/news/2009/09/18/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2012/04/23/index.html)  [JSON](2012/04/23/index.json)  [XML](201
 
 ##### Bangladesh
 ### [At least two people are killed and hundreds of others injured in clashes between police and protestors during a nationwide strike in Bangladesh, which was triggered by the unexplained disappearance of opposition politician Ilyas Ali. ](/news/2012/04/23/at-least-two-people-are-killed-and-hundreds-of-others-injured-in-clashes-between-police-and-protestors-during-a-nationwide-strike-in-banglad.md)
-_Context: Ilyas Ali, Bangladesh_
+_Context: Bangladesh, Ilyas Ali_
 
 ##### Iran's oil ministry
 ### [Iran's oil ministry and its National Iranian Oil Company suffers a malware attack by a computer virus. ](/news/2012/04/23/iran-s-oil-ministry-and-its-national-iranian-oil-company-suffers-a-malware-attack-by-a-computer-virus.md)
@@ -17,7 +17,7 @@ Shells and gunfire from Syrian security forces have killed 33 people in the city
 
 ##### William Shakespeare
 ### [A festival of William Shakespeare's 37 plays performed polyglotically, from Swahili to sign language, begins as part of the World Shakespeare Festival on the anniversary of the Bard of Avon's birth. ](/news/2012/04/23/a-festival-of-william-shakespeare-s-37-plays-performed-polyglotically-from-swahili-to-sign-language-begins-as-part-of-the-world-shakespear.md)
-_Context: William Shakespeare, Swahili, sign language_
+_Context: Swahili, William Shakespeare, sign language_
 
 ##### Tiago Klimeck
 ### [Brazilian actor Tiago Klimeck dies at the age of 27 after accidentally hanging himself while playing Judas in an Easter Passion play performed in Itarare, SGBPo Paulo. ](/news/2012/04/23/brazilian-actor-tiago-klimeck-dies-at-the-age-of-27-after-accidentally-hanging-himself-while-playing-judas-in-an-easter-passion-play-perform.md)
@@ -29,11 +29,11 @@ _Context: White House_
 
 ##### Kazakhstan
 ### [Kazakhstan issues an official 'thank you' to Sacha Baron Cohen for his comedy character Borat Sagdiyev despite an initial ban. ](/news/2012/04/23/kazakhstan-issues-an-official-athank-youa-to-sacha-baron-cohen-for-his-comedy-character-borat-sagdiyev-despite-an-initial-ban.md)
-_Context: Sacha Baron Cohen, Kazakhstan, Borat Sagdiyev_
+_Context: Kazakhstan, Borat Sagdiyev, Sacha Baron Cohen_
 
 ##### European Union
 ### [The European Union suspends most trade sanctions against Myanmar for a year but leaves an arms embargo in place. ](/news/2012/04/23/the-european-union-suspends-most-trade-sanctions-against-myanmar-for-a-year-but-leaves-an-arms-embargo-in-place.md)
-_Context: Myanmar, European Union_
+_Context: European Union, Myanmar_
 
 ##### North Korea
 ### [North Korea threatens to reduce South Korea to "ashes" after the failed North Korean rocket launch. ](/news/2012/04/23/north-korea-threatens-to-reduce-south-korea-to-ashes-after-the-failed-north-korean-rocket-launch.md)
@@ -61,7 +61,7 @@ The police chief who chose not to arrest George Zimmerman after he shot and kill
 
 ##### North Carolina
 ### [The North Carolina trial of former U.S. Senator and presidential hopeful John Edwards, concerning the use of illegal campaign donations to cover up an affair with a mistress, begins. ](/news/2012/04/23/the-north-carolina-trial-of-former-u-s-senator-and-presidential-hopeful-john-edwards-concerning-the-use-of-illegal-campaign-donations-to-c.md)
-_Context: United States Senate, John Edwards, an affair, North Carolina_
+_Context: United States Senate, North Carolina, John Edwards, an affair_
 
 ##### China
 ### [Around 45 people are detained across China in a tainted capsule medicine scandal. ](/news/2012/04/23/around-45-people-are-detained-across-china-in-a-tainted-capsule-medicine-scandal.md)
@@ -77,7 +77,7 @@ _Context: Beatrix, Prime Minister, Mark Rutte_
 
 ##### Burma
 ### [Burma's parliament opens without the party of Aung San Suu Kyi who boycotted the legislature over a disagreement on the wording of the oath of office. ](/news/2012/04/23/burma-s-parliament-opens-without-the-party-of-aung-san-suu-kyi-who-boycotted-the-legislature-over-a-disagreement-on-the-wording-of-the-oath.md)
-_Context: parliament, Aung San Suu Kyi, National League for Democracy, oath of office, Burma_
+_Context: oath of office, Burma, Aung San Suu Kyi, National League for Democracy, parliament_
 
 ##### Canadian
 ### [Voters in the Canadian province of Alberta go to the polls for a general election with the incumbent Progressive Conservatives being reelected. ](/news/2012/04/23/voters-in-the-canadian-province-of-alberta-go-to-the-polls-for-a-general-election-with-the-incumbent-progressive-conservatives-being-reelect.md)
@@ -89,7 +89,7 @@ Venezuelan President Hugo Chavez phones state TV to deny rumours he has died whi
 
 ##### Orca
 ### [Scientists record what they believe to be the first adult white orca in the wild off the coast of Kamchatka, Russia. ](/news/2012/04/23/scientists-record-what-they-believe-to-be-the-first-adult-white-orca-in-the-wild-off-the-coast-of-kamchatka-russia.md)
-_Context: orca, Kamchatka, Russia_
+_Context: Russia, orca, Kamchatka_
 
 ## [Previous Day...](/news/2012/04/22/index.md)
 

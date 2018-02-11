@@ -5,19 +5,19 @@ Formats: [HTML](2010/01/15/index.html)  [JSON](2010/01/15/index.json)  [XML](201
 
 ##### Johnson & Johnson
 ### [Johnson & Johnson recalls more than 53&nbsp;million bottles of over-the-counter products, including Tylenol, Motrin and Rolaids, from the Americas, the United Arab Emirates and Fiji. ](/news/2010/01/15/johnson-johnson-recalls-more-than-53-nbsp-million-bottles-of-over-the-counter-products-including-tylenol-motrin-and-rolaids-from-the-am.md)
-_Context: Tylenol, Rolaids, Motrin, United Arab Emirates, Fiji, Johnson & Johnson, Americas_
+_Context: Americas, Fiji, United Arab Emirates, Johnson & Johnson, Tylenol, Rolaids, Motrin_
 
 ##### President
 ### [President Faure Gnassingb and national team captain Emmanuel Adebayor are among dignitaries to attend a funeral ceremony held in Lom for the two football officials killed during the Togo national football team attack in Angola. ](/news/2010/01/15/president-faure-gnassingbe-and-national-team-captain-emmanuel-adebayor-are-among-dignitaries-to-attend-a-funeral-ceremony-held-in-lome-for-t.md)
-_Context: President, Togo national football team, captain, Angola, Togo national football team attack, Emmanuel Adebayor, Faure Gnassingb, Lom_
+_Context: Togo national football team, Togo national football team attack, captain, President, Faure Gnassingb, Emmanuel Adebayor, Angola, Lom_
 
 ##### Nairobi
 ### [At least five people die and dozens are injured in Nairobi, Kenya, when police clash with protesters demanding the release of Jamaican Muslim cleric Abdullah al-Faisal. ](/news/2010/01/15/at-least-five-people-die-and-dozens-are-injured-in-nairobi-kenya-when-police-clash-with-protesters-demanding-the-release-of-jamaican-musli.md)
-_Context: Abdullah al-Faisal, Nairobi, Kenya, Muslim, Jamaica_
+_Context: Jamaica, Kenya, Nairobi, Abdullah al-Faisal, Muslim_
 
 ##### President
 ### [President of Tunisia Zine El Abidine Ben Ali reshuffles his government, making 11 ministerial changes including the appointment of new finance, defence, tourism and foreign affairs ministers, and sends his condolences to Haiti. ](/news/2010/01/15/president-of-tunisia-zine-el-abidine-ben-ali-reshuffles-his-government-making-11-ministerial-changes-including-the-appointment-of-new-finan.md)
-_Context: Zine El Abidine Ben Ali, President, Haiti_
+_Context: Haiti, President, Zine El Abidine Ben Ali_
 
 ##### Bjaa
 ### [Muslim fundamentalists kill two people, an army colonel and the military commander of Bjaa in northern Algeria. ](/news/2010/01/15/muslim-fundamentalists-kill-two-people-an-army-colonel-and-the-military-commander-of-bejaia-in-northern-algeria.md)
@@ -25,7 +25,7 @@ _Context: Bjaa, Algeria_
 
 ##### Sundumbili
 ### [23 security guards are detained after clashing over the care of a taxi rank in Sundumbili, KwaZulu-Natal. ](/news/2010/01/15/23-security-guards-are-detained-after-clashing-over-the-care-of-a-taxi-rank-in-sundumbili-kwazulu-natal.md)
-_Context: Sundumbili, KwaZulu-Natal_
+_Context: KwaZulu-Natal, Sundumbili_
 
 ##### Spain
 ### [Spain's government sees a video showing three aid workers who have been held hostage by Al-Qaeda in Mali since November 2009. ](/news/2010/01/15/spain-s-government-sees-a-video-showing-three-aid-workers-who-have-been-held-hostage-by-al-qaeda-in-mali-since-november-2009.md)

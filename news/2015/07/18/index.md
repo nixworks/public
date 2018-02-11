@@ -13,7 +13,7 @@ The Islamic State group used poison gas in attacks against Kurdish-controlled ar
 
 ##### War in Donbass
 ### [Three civilians have been killed by shelling in the Donbass town of Avdiivka, within government-held territory. ](/news/2015/07/18/three-civilians-have-been-killed-by-shelling-in-the-donbass-town-of-avdiivka-within-government-held-territory.md)
-_Context: Donbass, War in Donbass, Timeline of the war in Donbass (July 2015-present)_
+_Context: War in Donbass, Donbass, Timeline of the war in Donbass (July 2015-present)_
 
 ##### Sinai insurgency
 ### [Militants kill at least five soldiers in attacks on two Egyptian Army checkpoints. ](/news/2015/07/18/militants-kill-at-least-five-soldiers-in-attacks-on-two-egyptian-army-checkpoints.md)

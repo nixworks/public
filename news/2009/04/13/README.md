@@ -5,7 +5,7 @@ Formats: [HTML](2009/04/13/index.html)  [JSON](2009/04/13/index.json)  [XML](200
 
 ##### House fire
 ### [ A fire destroys a homeless hostel and kills at least 22 people in Kamien Pomorski, Poland. ](/news/2009/04/13/a-fire-destroys-a-homeless-hostel-and-kills-at-least-22-people-in-kamiea-pomorski-poland.md)
-_Context: hostel, homeless people, destroys, house fire, Kamien Pomorski, Polish_
+_Context: house fire, Kamien Pomorski, homeless people, destroys, hostel, Polish_
 
 ##### Taliban
 ### [ The Taliban's Students' Movement imposes sharia law in Swat, Pakistan. ](/news/2009/04/13/the-taliban-s-students-movement-imposes-sharia-law-in-swat-pakistan.md)
@@ -13,27 +13,27 @@ Pakistani Taliban are imposing their rule in a Pakistani mountain valley they to
 
 ##### Thailand
 ### [ Thai Prime Minister Abhisit Vejjajiva says that anti-government protests in Bangkok are "under control". ](/news/2009/04/13/thai-prime-minister-abhisit-vejjajiva-says-that-anti-government-protests-in-bangkok-are-under-control.md)
-_Context: Prime Minister, Abhisit Vejjajiva, Thailand, Royal Thai Government, Bangkok, political crisis_
+_Context: Bangkok, Royal Thai Government, Thailand, Abhisit Vejjajiva, political crisis, Prime Minister_
 
 ##### Media
 ### [ Mass media in Fiji protest against government censorship. ](/news/2009/04/13/mass-media-in-fiji-protest-against-government-censorship.md)
-_Context: government, protest, censorship, media, Fiji_
+_Context: media, government, Fiji, protest, censorship_
 
 ##### China
 ### [ China's government publishes a National Human Rights Action Plan. ](/news/2009/04/13/china-s-government-publishes-a-national-human-rights-action-plan.md)
-_Context: Chinese human rights, government, China_
+_Context: China, government, Chinese human rights_
 
 ##### Palestinian
 ### [ An unmanned Palestinian fishing vessel explodes near an Israeli Navy patrol in the Gaza Strip. ](/news/2009/04/13/an-unmanned-palestinian-fishing-vessel-explodes-near-an-israeli-navy-patrol-in-the-gaza-strip.md)
-_Context: Israeli-Palestinian conflict, Palestinian, Gaza Strip, Israel, fishing vessel, patrol, Israeli navy_
+_Context: Israel, Gaza Strip, fishing vessel, Palestinian, Israeli navy, patrol, Israeli-Palestinian conflict_
 
 ##### Protest
 ### [ Protests against Georgian President Mikheil Saakashvili continue in Tbilisi. ](/news/2009/04/13/protests-against-georgian-president-mikheil-saakashvili-continue-in-tbilisi.md)
-_Context:  Georgian, Mikheil Saakashvili, Protest, Tbilisi, President of Georgia_
+_Context: Tbilisi, Mikheil Saakashvili, President of Georgia, Protest,  Georgian_
 
 ##### United Nations
 ### [ The United Nations Security Council condemns North Korea's launch of Kwangmyongsong-2. ](/news/2009/04/13/the-united-nations-security-council-condemns-north-korea-s-launch-of-kwangmyangsang-2.md)
-_Context: North Korea, United Nations Security Council, launches, United Nations, Kwangmyongsong-2_
+_Context: United Nations, launches, Kwangmyongsong-2, North Korea, United Nations Security Council_
 
 ## [Previous Day...](/news/2009/04/12/index.md)
 

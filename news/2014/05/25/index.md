@@ -5,7 +5,7 @@ Formats: [HTML](2014/05/25/index.html)  [JSON](2014/05/25/index.json)  [XML](201
 
 ##### Yemeni
 ### [The Yemeni Military kills 5 al-Qaeda militants and arrests 4 in a raid north of Sana'a. ](/news/2014/05/25/the-yemeni-military-kills-5-al-qaeda-militants-and-arrests-4-in-a-raid-north-of-sana-a.md)
-_Context: Yemeni, Sana'a, al-Qaeda_
+_Context: al-Qaeda, Yemeni, Sana'a_
 
 ##### Homs
 ### [3 bombs detonate in Homs, Syria, killing 9 people and injuring another 20. ](/news/2014/05/25/3-bombs-detonate-in-homs-syria-killing-9-people-and-injuring-another-20.md)
@@ -21,15 +21,15 @@ The rainstorms, stated to be once-in-a-century phenomenon, slashed Guangzhou, Zh
 
 ##### Pope Francis
 ### [Pope Francis invites the President of Israel Shimon Peres and the President of the State of Palestine Mahmoud Abbas to pray with him at the Vatican for peace and the invitations are accepted. ](/news/2014/05/25/pope-francis-invites-the-president-of-israel-shimon-peres-and-the-president-of-the-state-of-palestine-mahmoud-abbas-to-pray-with-him-at-the.md)
-_Context: Vatican City, Mahmoud Abbas, President, Shimon Peres, President of the State of Palestine, Pope Francis_
+_Context: Shimon Peres, Vatican City, President of the State of Palestine, Pope Francis, President, Mahmoud Abbas_
 
 ##### Lebanese
 ### [Lebanese security forces arrest Islamist militant leader Omar Bakri Muhammad. ](/news/2014/05/25/lebanese-security-forces-arrest-islamist-militant-leader-omar-bakri-muhammad.md)
-_Context: Lebanese, Omar Bakri Muhammad, Islamists_
+_Context: Omar Bakri Muhammad, Lebanese, Islamists_
 
 ##### Colombia
 ### [Voters in Colombia go to the polls for the first round in the presidential election. Opposition candidate Oscar Ivan Zuluaga wins a plurality of votes and will face the incumbent Juan Manuel Santos in the second round. ](/news/2014/05/25/voters-in-colombia-go-to-the-polls-for-the-first-round-in-the-presidential-election-opposition-candidate-ascar-iva-n-zuluaga-wins-a-plural.md)
-_Context: Juan Manuel Santos, Colombia, Oscar Ivan Zuluaga_
+_Context: Colombia, Juan Manuel Santos, Oscar Ivan Zuluaga_
 
 ##### Ukraine
 ### [Voters in Ukraine go to the polls for the first round of voting in the presidential election amidst ongoing violence in the east of the country with exit polls indicating that businessman Petro Poroshenko is headed for victory. ](/news/2014/05/25/voters-in-ukraine-go-to-the-polls-for-the-first-round-of-voting-in-the-presidential-election-amidst-ongoing-violence-in-the-east-of-the-coun.md)
@@ -45,7 +45,7 @@ On May 25 Belgium will hold its regional, federal and European elections. Like i
 
 ##### Lithuania
 ### [Voters in Lithuania go to the polls with incumbent Dalia Grybauskaite winning re-election in the second round. ](/news/2014/05/25/voters-in-lithuania-go-to-the-polls-with-incumbent-dalia-grybauskaita-winning-re-election-in-the-second-round.md)
-_Context: Lithuania, Dalia Grybauskaite_
+_Context: Dalia Grybauskaite, Lithuania_
 
 ##### Greek local elections, 2014
 ### [Greece votes in European and second-round local elections ](/news/2014/05/25/greece-votes-in-european-and-second-round-local-elections.md)

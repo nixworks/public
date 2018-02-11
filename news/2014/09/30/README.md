@@ -13,15 +13,15 @@ A hard-line Buddhist monk from Myanmar known for his anti-Muslim stance said his
 
 ##### Ebola Virus in the United States
 ### [A case of Ebola Virus is being treated in the American city of Dallas, Texas. ](/news/2014/09/30/a-case-of-ebola-virus-is-being-treated-in-the-american-city-of-dallas-texas.md)
-_Context: Ebola Virus in the United States, Ebola Virus, Dallas, Texas_
+_Context: Ebola Virus, Ebola Virus in the United States, Dallas, Texas_
 
 ##### Fern Creek Traditional High School
 ### [A student is shot and wounded at Fern Creek Traditional High School in Louisville, Kentucky, U.S. A suspect, also a student at the school, has been arrested. ](/news/2014/09/30/a-student-is-shot-and-wounded-at-fern-creek-traditional-high-school-in-louisville-kentucky-u-s-a-suspect-also-a-student-at-the-school-h.md)
-_Context: Louisville, Kentucky, United States, Fern Creek Traditional High School_
+_Context: Louisville, Kentucky, Fern Creek Traditional High School, American_
 
 ##### Albemarle High School
 ### [A student is shot and wounded at Albemarle High School in Albemarle, North Carolina, U.S. A student is arrested. ](/news/2014/09/30/a-student-is-shot-and-wounded-at-albemarle-high-school-in-albemarle-north-carolina-u-s-a-student-is-arrested.md)
-_Context: Albemarle High School, Albemarle, North Carolina, U.S._
+_Context: U.S., Albemarle, North Carolina, Albemarle High School_
 
 ## [Previous Day...](/news/2014/09/29/index.md)
 

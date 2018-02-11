@@ -5,7 +5,7 @@ Formats: [HTML](2010/11/14/index.html)  [JSON](2010/11/14/index.json)  [XML](201
 
 ##### Behsod district
 ### [One person dies when a bomb in a pushcart explodes in Behsod district of Nangarhar province, east of Kabul, Afghanistan. ](/news/2010/11/14/one-person-dies-when-a-bomb-in-a-pushcart-explodes-in-behsod-district-of-nangarhar-province-east-of-kabul-afghanistan.md)
-_Context: Kabul, Behsod district, Nangarhar province, Afghanistan_
+_Context: Kabul, Nangarhar province, Afghanistan, Behsod district_
 
 ##### Russia
 ### [Russian security forces kill three rebels in Buinaksk in the Caucasus region of Dagestan. ](/news/2010/11/14/russian-security-forces-kill-three-rebels-in-buinaksk-in-the-caucasus-region-of-dagestan.md)
@@ -13,11 +13,11 @@ _Context: Russia, Dagestan, Buinaksk, Caucasus_
 
 ##### Helmand province
 ### [Eleven people are killed in Helmand province, Uruzgan province, Kandahar province, and Nangarhar province of Afghanistan. ](/news/2010/11/14/eleven-people-are-killed-in-helmand-province-uruzgan-province-kandahar-province-and-nangarhar-province-of-afghanistan.md)
-_Context: Kandahar province, Uruzgan province, Nangarhar province, Helmand province_
+_Context: Kandahar province, Nangarhar province, Helmand province, Uruzgan province_
 
 ##### Sudan
 ### [A northern Sudanese plane bombs Southern Sudan, injuring several people, and the UN sends an assessment team to the area. ](/news/2010/11/14/a-northern-sudanese-plane-bombs-southern-sudan-injuring-several-people-and-the-un-sends-an-assessment-team-to-the-area.md)
-_Context: United Nations, Southern Sudan, Sudan_
+_Context: Sudan, United Nations, Southern Sudan_
 
 ##### Somalia
 ### [Somali pirates free British couple Paul and Rachel Chandler after a year in captivity. ](/news/2010/11/14/somali-pirates-free-british-couple-paul-and-rachel-chandler-after-a-year-in-captivity.md)
@@ -25,7 +25,7 @@ Paul and Rachel Chandler fly to Kenya after huge ransom is reportedly paid to en
 
 ##### Afghanistan
 ### [Abdul Khaliq Farahi, the Afghan consul general in Pakistan, is released by gunmen after two years in captivity. ](/news/2010/11/14/abdul-khaliq-farahi-the-afghan-consul-general-in-pakistan-is-released-by-gunmen-after-two-years-in-captivity.md)
-_Context: consul general, Afghanistan, Pakistan_
+_Context: consul general, Pakistan, Afghanistan_
 
 ##### Singer-songwriter
 ### [Former British soldier turned singer-songwriter James Blunt claims that he stopped what he believed would be World War III by disobeying a direct order for his troops to attack Russian soldiers given by American General Wesley Clark while he was in Kosovo with NATO in 1999. ](/news/2010/11/14/former-british-soldier-turned-singer-songwriter-james-blunt-claims-that-he-stopped-what-he-believed-would-be-world-war-iii-by-disobeying-a-d.md)
@@ -59,17 +59,17 @@ A radical Muslim cleric who once cheered the Sept. 11 terror attacks on the Unit
 
 ##### UNAMID
 ### [The head of the joint UN-African Union mission in Darfur expresses concern that military tensions between north and south Sudan over the Southern Sudanese independence referendum could spill over into the separate Darfur conflict, undermining troubled peace efforts there. ](/news/2010/11/14/the-head-of-the-joint-un-african-union-mission-in-darfur-expresses-concern-that-military-tensions-between-north-and-south-sudan-over-the-sou.md)
-_Context: UNAMID, Southern Sudanese Independence Referendum, Darfur conflict, south Sudan_
+_Context: UNAMID, Darfur conflict, south Sudan, Southern Sudanese Independence Referendum_
 
 ##### Spain
 ### [Thousands of people protest in Spain against a raid by Moroccan authorities in a camp in the disputed Western Sahara. ](/news/2010/11/14/thousands-of-people-protest-in-spain-against-a-raid-by-moroccan-authorities-in-a-camp-in-the-disputed-western-sahara.md)
-_Context: Western Sahara, Morocco, Spain_
+_Context: Spain, Morocco, Western Sahara_
 
 ##### Cabinet of Israel
 ### [The Israeli cabinet approves a plan to allow 8,000 Ethiopians of Jewish descent into the country. ](/news/2010/11/14/the-israeli-cabinet-approves-a-plan-to-allow-8-000-ethiopians-of-jewish-descent-into-the-country.md)
 _Context: Cabinet of Israel, Ethiopians of Jewish descent_
 
-##### United States
+##### American
 ### [The United States offers Israel 20 F-35s and opposition to anti-Israel resolutions in the UN if Israel agrees to a partial 90-day freeze in building in the West Bank, excluding east Jerusalem. ](/news/2010/11/14/the-united-states-offers-israel-20-f-35s-and-opposition-to-anti-israel-resolutions-in-the-un-if-israel-agrees-to-a-partial-90-day-freeze-in.md)
 US offers incentives for a 90-day building freeze in West Bank, but the proposal does not include East Jerusalem.
 
@@ -103,11 +103,11 @@ Italian Prime Minister Silvio Berlusconi, fighting for the survival of his gover
 
 ##### Burma
 ### [Thousands of cheering supporters greet Burmese democracy leader Aung San Suu Kyi outside the headquarters of the National League for Democracy in Yangon. ](/news/2010/11/14/thousands-of-cheering-supporters-greet-burmese-democracy-leader-aung-san-suu-kyi-outside-the-headquarters-of-the-national-league-for-democra.md)
-_Context: Aung San Suu Kyi, National League for Democracy, Yangon, Burma_
+_Context: Yangon, Burma, National League for Democracy, Aung San Suu Kyi_
 
 ##### Gerry Adams
 ### [Gerry Adams, the President of Sinn Fein, announces that he will resign his positions in the Northern Ireland Assembly and the Parliament of the United Kingdom to stand for the Dail. ](/news/2010/11/14/gerry-adams-the-president-of-sinn-fa-c-in-announces-that-he-will-resign-his-positions-in-the-northern-ireland-assembly-and-the-parliament-of.md)
-_Context: Parliament, Dail, Gerry Adams, Northern Ireland Assembly, Sinn Fein_
+_Context: Parliament, Sinn Fein, Dail, Northern Ireland Assembly, Gerry Adams_
 
 ##### PASOK
 ### [The Panhellenic Socialist Movement (PASOK) of Greek Prime Minister George Papandreou does well in a second round of municipal elections including its candidates elected as mayors of Athens and Thessaloniki. ](/news/2010/11/14/the-panhellenic-socialist-movement-pasok-of-greek-prime-minister-george-papandreou-does-well-in-a-second-round-of-municipal-elections-incl.md)

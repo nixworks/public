@@ -9,11 +9,11 @@ At least 12 civilians are killed by rockets in Aleppo, activists say, as opposit
 
 ##### Chad
 ### [13 Chadian soldiers and 65 Islamist insurgents are killed in heavy fighting in a remote part of northern Mali. ](/news/2013/02/22/13-chadian-soldiers-and-65-islamist-insurgents-are-killed-in-heavy-fighting-in-a-remote-part-of-northern-mali.md)
-_Context: Mali, Chad, Islamist_
+_Context: Chad, Islamist, Mali_
 
 ##### Bangladesh
 ### [At least four people are dead in Bangladesh following clashes between the Islamists and the police. ](/news/2013/02/22/at-least-four-people-are-dead-in-bangladesh-following-clashes-between-the-islamists-and-the-police.md)
-_Context: Bangladesh, police officers, Islamists_
+_Context: police officers, Islamists, Bangladesh_
 
 ##### Moody's Investors Service
 ### [For the first time ever, Moody's Investors Service downgrades the United Kingdom's bond credit rating from AAA to AA1. ](/news/2013/02/22/for-the-first-time-ever-moody-s-investors-service-downgrades-the-united-kingdom-s-bond-credit-rating-from-aaa-to-aa1.md)
@@ -29,7 +29,7 @@ U.S. health regulators approved a new drug made by Swiss drugmaker Roche Holding
 
 ##### Shinzo Abe
 ### [Shinzo Abe, the Prime Minister of Japan, meets with the President of the United States Barack Obama at the White House to discuss trade, economic, and security issues including North Korea and the Senkaku Islands dispute with China. ](/news/2013/02/22/shinzo-abe-the-prime-minister-of-japan-meets-with-the-president-of-the-united-states-barack-obama-at-the-white-house-to-discuss-trade-eco.md)
-_Context: United States, Shinzo Abe, Barack Obama, Senkaku Islands dispute, White House, Prime Minister of Japan, China, North Korea, Japan, U.S. President_
+_Context: U.S. President, China, North Korea, Senkaku Islands dispute, Prime Minister of Japan, White House, Shinzo Abe, Japan, American, Barack Obama_
 
 ##### North Korea
 ### [North Korea announces plans to allow foreign residents mobile access to the Internet. ](/news/2013/02/22/north-korea-announces-plans-to-allow-foreign-residents-mobile-access-to-the-internet.md)
@@ -37,15 +37,15 @@ Get the latest science news and technology news, read tech reviews and more at A
 
 ##### Japan
 ### [Japan vows to continue its whale hunting despite pressure from environmentalist group Sea Shepherd. ](/news/2013/02/22/japan-vows-to-continue-its-whale-hunting-despite-pressure-from-environmentalist-group-sea-shepherd.md)
-_Context: Japan, Sea Shepherd, environmentalist, whaling_
+_Context: whaling, Japan, Sea Shepherd, environmentalist_
 
-##### United States
+##### American
 ### [The United States Justice Department joins a lawsuit against cyclist Lance Armstrong for allegedly defrauding the United States Postal Service by using money from it to buy performance-enhancing drugs. ](/news/2013/02/22/the-united-states-justice-department-joins-a-lawsuit-against-cyclist-lance-armstrong-for-allegedly-defrauding-the-united-states-postal-servi.md)
 Lance Armstrong fortune in jeopardy after Justice Department backs Landis in whistleblower suit.
 
 ##### Downtown
 ### [Six people are stabbed and wounded in downtown Los Angeles, California. Two suspects are arrested. ](/news/2013/02/22/six-people-are-stabbed-and-wounded-in-downtown-los-angeles-california-two-suspects-are-arrested.md)
-_Context: downtown, California, Los Angeles_
+_Context: Los Angeles, California, downtown_
 
 ##### Paralympian
 ### [Paralympian Oscar Pistorius is released on 1 million rand bail, pending trial for the murder of Reeva Steenkamp. ](/news/2013/02/22/paralympian-oscar-pistorius-is-released-on-1-million-rand-bail-pending-trial-for-the-murder-of-reeva-steenkamp.md)

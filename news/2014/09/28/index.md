@@ -13,7 +13,7 @@ _Context: Pakistan_
 
 ##### Buddhists
 ### [A Buddhist monk accused of inciting violence against Muslims in Burma says he is joining forces with the Bodu Bala Sena group in Sri Lanka in order to combat a "serious threat from jihadist groups". ](/news/2014/09/28/a-buddhist-monk-accused-of-inciting-violence-against-muslims-in-burma-says-he-is-joining-forces-with-the-bodu-bala-sena-group-in-sri-lanka-i.md)
-_Context: Muslim, Burma, Bodu Bala Sena, Sri Lanka, Buddhists_
+_Context: Bodu Bala Sena, Burma, Buddhists, Sri Lanka, Muslim_
 
 ##### Japan
 ### [Dozens of people are rescued from Japan's Mount Ontake following a volcanic eruption, with at least 30 feared dead. This is the first deadly eruption in Japan since 1991. ](/news/2014/09/28/dozens-of-people-are-rescued-from-japan-s-mount-ontake-following-a-volcanic-eruption-with-at-least-30-feared-dead-this-is-the-first-deadly.md)
@@ -29,7 +29,7 @@ Tens of thousands join mass civil disobedience over voting rights as authorities
 
 ##### ''Formosa Betrayed''
 ### [A student protester hurls the book "Formosa Betrayed" at President Ma Ying-jeou of Taiwan and hits the president; the Presidential Office condemns the act of violence. ](/news/2014/09/28/a-student-protester-hurls-the-book-formosa-betrayed-at-president-ma-ying-jeou-of-taiwan-and-hits-the-president-the-presidential-office-co.md)
-_Context: Presidential Office, ''Formosa Betrayed'', Taiwan, Ma Ying-jeou_
+_Context: Presidential Office, Ma Ying-jeou, ''Formosa Betrayed'', Taiwan_
 
 ## [Previous Day...](/news/2014/09/27/index.md)
 

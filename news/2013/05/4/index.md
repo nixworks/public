@@ -17,11 +17,11 @@ Violence between Muslims and Christians in the northeastern Nigerian town of Wuk
 
 ##### Cuban
 ### [Cuban "Filin" pioneer Cesar Portillo de la Luz dies at the age of 90. ](/news/2013/05/4/cuban-filin-pioneer-ca-c-sar-portillo-de-la-luz-dies-at-the-age-of-90.md)
-_Context: Cesar Portillo de la Luz, Filin, Cuban_
+_Context: Cuban, Filin, Cesar Portillo de la Luz_
 
 ##### Americans
 ### [American author Harper Lee files a lawsuit claiming that a literary agent tricked her into relinquishing the copyright on her book, "To Kill a Mockingbird". ](/news/2013/05/4/american-author-harper-lee-files-a-lawsuit-claiming-that-a-literary-agent-tricked-her-into-relinquishing-the-copyright-on-her-book-to-kill.md)
-_Context: Harper Lee, To Kill a Mockingbird, Americans_
+_Context: Americans, To Kill a Mockingbird, Harper Lee_
 
 ##### China
 ### [Hundreds of protestors gather in Chinese cities to rally against planned large-scale industrial projects. ](/news/2013/05/4/hundreds-of-protestors-gather-in-chinese-cities-to-rally-against-planned-large-scale-industrial-projects.md)
@@ -37,7 +37,7 @@ There were seven &quot;potentially serious&quot; incidents when the new NHS 111 
 
 ##### U.S.
 ### [In the U.S., Alaska's Cleveland Volcano experiences a low-level eruption. ](/news/2013/05/4/in-the-u-s-alaska-s-cleveland-volcano-experiences-a-low-level-eruption.md)
-_Context: U.S., Cleveland Volcano, Alaska_
+_Context: Alaska, Cleveland Volcano, U.S._
 
 ##### Nigel Evans
 ### [Nigel Evans, a deputy speaker of the United Kingdom House of Commons, is arrested for allegedly raping two men. ](/news/2013/05/4/nigel-evans-a-deputy-speaker-of-the-united-kingdom-house-of-commons-is-arrested-for-allegedly-raping-two-men.md)

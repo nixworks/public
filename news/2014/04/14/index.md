@@ -3,7 +3,7 @@ Formats: [HTML](2014/04/14/index.html)  [JSON](2014/04/14/index.json)  [XML](201
 
 ## [2014-04-14](/news/2014/04/14/index.md)
 
-##### United States
+##### American
 ### [Syria's political opposition urges US action in response to the Syrian government's barrel bombing campaign in the city of Aleppo. ](/news/2014/04/14/syria-s-political-opposition-urges-us-action-in-response-to-the-syrian-government-s-barrel-bombing-campaign-in-the-city-of-aleppo.md)
 Syrian government troops seize at least three border communities, including an ancient Christian hamlet, north of Damascus, state media and activists say, in a dramatic one-day sweep that suggests rebel strongholds along the Lebanese frontier are near total collapse.
 
@@ -21,11 +21,11 @@ Pro-Russian activists attack another official building in east Ukraine, ignoring
 
 ##### Washington Post
 ### [The "Washington Post" and "The Guardian" newspapers win the Pulitzer Prize for Public Service for their stories on the National Security Agency based on leaks from Edward Snowden. ](/news/2014/04/14/the-washington-post-and-the-guardian-newspapers-win-the-pulitzer-prize-for-public-service-for-their-stories-on-the-national-security-age.md)
-_Context: National Security Agency, Pulitzer Prize for Public Service, Edward Snowden, Washington Post, The Guardian_
+_Context: Pulitzer Prize for Public Service, Washington Post, The Guardian, Edward Snowden, National Security Agency_
 
-##### United States
+##### American
 ### [American financial services company TIAA-CREF agrees to buy Nuveen Investments for $6.25 billion. ](/news/2014/04/14/american-financial-services-company-tiaaacref-agrees-to-buy-nuveen-investments-for-6-25-billion.md)
-_Context: TIAA-CREF, $, United States, Nuveen Investments_
+_Context: $, TIAA-CREF, Nuveen Investments, American_
 
 ##### Abu Hamza al-Masri
 ### [Radical British Muslim cleric Abu Hamza al-Masri goes on trial in the American state of New York for 11 alleged terrorism offenses. ](/news/2014/04/14/radical-british-muslim-cleric-abu-hamza-al-masri-goes-on-trial-in-the-american-state-of-new-york-for-11-alleged-terrorism-offenses.md)
@@ -37,7 +37,7 @@ A federal appeals court has ruled that the venue for Auernheimer&#039;s prosecut
 
 ##### Republic of Macedonia
 ### [Voters in the Republic of Macedonia head to the polls for a runoff presidential election. ](/news/2014/04/14/voters-in-the-republic-of-macedonia-head-to-the-polls-for-a-runoff-presidential-election.md)
-_Context: runoff presidential election, Republic of Macedonia_
+_Context: Republic of Macedonia, runoff presidential election_
 
 ##### Vietnam
 ### [Vietnam frees Nguyen Tien Trung and Vi Duc Hoi. ](/news/2014/04/14/vietnam-frees-nguyen-tien-trung-and-vi-duc-hoi.md)

@@ -41,7 +41,7 @@ _Context: Papa John's Pizza, United States Department of Labor, New York Attorne
 
 ##### Vietnam
 ### [Vietnam says a Chinese vessel rammed into and sank one of its fishing boats near disputed islands in the South China Sea. More than 20 Vietnamese fishing boats have been attacked by Chinese vessels this year causing tensions between both countries. ](/news/2015/10/15/vietnam-says-a-chinese-vessel-rammed-into-and-sank-one-of-its-fishing-boats-near-disputed-islands-in-the-south-china-sea-more-than-20-vietn.md)
-_Context: Vietnam, China, South China Sea_
+_Context: South China Sea, Vietnam, China_
 
 ##### SS ''El Faro''
 ### [The United States National Transportation Safety Board (NSTB) has asked the U.S. Navy to resume the search ended by the U.S. Coast Guard for the merchant vessel SS "El Faro" believed lost on October 7 during Hurricane Joaquin. The loss of the ship -- with its crew of 33 hands -- is regarded as "the worst U.S. merchant marine disaster of recent memory." ](/news/2015/10/15/the-united-states-national-transportation-safety-board-nstb-has-asked-the-u-s-navy-to-resume-the-search-ended-by-the-u-s-coast-guard-for.md)
@@ -53,11 +53,11 @@ Raban Alou, 18, from Wentworthville, faces terrorism charges, while Talal Alamed
 
 ##### The Intercept
 ### [A cache of classified intelligence documents published from The Intercept, released by an anonymous whistleblower, highlight details surrounding post-September 11 attacks United States drone strikes in Afghanistan, Somalia, and Yemen, alleging that the United States conducts these strikes under extremely unreliable information and faulty pretenses. ](/news/2015/10/15/a-cache-of-classified-intelligence-documents-published-from-the-intercept-released-by-an-anonymous-whistleblower-highlight-details-surroun.md)
-_Context: whistleblower, Afghanistan, The Intercept, September 11 attacks, United States, Somalia, Yemen_
+_Context: The Intercept, Yemen, American, Afghanistan, whistleblower, September 11 attacks, Somalia_
 
 ##### Sydney
 ### [ Five individuals - four men and a teenage boy - are arrested in connection with the gang-rape of a 16-year-old girl at a Sydney, Australia, house party. ](/news/2015/10/15/five-individuals-a-four-men-and-a-teenage-boy-a-are-arrested-in-connection-with-the-gang-rape-of-a-16-year-old-girl-at-a-sydney-austra.md)
-_Context: Sydney, Australia_
+_Context: Australia, Sydney_
 
 ##### Libyans
 ### [ Scottish and U.S. prosecutors identify two Libyans as suspects in the Lockerbie bombing. ](/news/2015/10/15/scottish-and-u-s-prosecutors-identify-two-libyans-as-suspects-in-the-lockerbie-bombing.md)

@@ -29,7 +29,7 @@ A diamond called the Pink Star has fetched a record price for a gemstone by sell
 
 ##### One World Trade Center
 ### [One World Trade Center becomes the tallest building in the United States. ](/news/2013/11/13/one-world-trade-center-becomes-the-tallest-building-in-the-united-states.md)
-_Context: One World Trade Center, United States_
+_Context: One World Trade Center, American_
 
 ##### Poppy
 ### [Poppy farmers in Afghanistan report record yields for their opium crops. ](/news/2013/11/13/poppy-farmers-in-afghanistan-report-record-yields-for-their-opium-crops.md)
@@ -45,7 +45,7 @@ _Context: Philippines_
 
 ##### Marine
 ### [Four members of the United States Marine Corps are killed after ordnance accidentally explodes after a training exercise at Marine Corps Base Camp Pendleton in Southern California. ](/news/2013/11/13/four-members-of-the-united-states-marine-corps-are-killed-after-ordnance-accidentally-explodes-after-a-training-exercise-at-marine-corps-bas.md)
-_Context: ordnance, Marine Corps Base Camp Pendleton, Southern California, Marine_
+_Context: Marine Corps Base Camp Pendleton, ordnance, Marine, Southern California_
 
 ##### State Department
 ### [The United States State Department designates Boko Haram as a "terrorist" group. ](/news/2013/11/13/the-united-states-state-department-designates-boko-haram-as-a-terrorist-group.md)
@@ -53,17 +53,17 @@ The United States formally designated Nigerian militant groups Boko Haram and An
 
 ##### China
 ### [China, Russia, Cuba, Saudi Arabia, Vietnam, and Algeria are elected to the United Nations Human Rights Council. ](/news/2013/11/13/china-russia-cuba-saudi-arabia-vietnam-and-algeria-are-elected-to-the-united-nations-human-rights-council.md)
-_Context: Human Rights Council, Saudi Arabia, Vietnam, China, Cuba, Algeria, United Nations, Russia_
+_Context: Vietnam, Algeria, United Nations, Russia, Human Rights Council, Saudi Arabia, China, Cuba_
 
 ##### Kevin Rudd
 ### [Kevin Rudd announces his retirement from Australian politics. ](/news/2013/11/13/kevin-rudd-announces-his-retirement-from-australian-politics.md)
-_Context: Kevin Rudd, Australia, Politics of Australia_
+_Context: Australia, Kevin Rudd, Politics of Australia_
 
 ##### Wikileak
 ### [Wikileaks publishes a secret draft chapter of the Trans-Pacific Partnership. ](/news/2013/11/13/wikileaks-publishes-a-secret-draft-chapter-of-the-trans-pacific-partnership.md)
 The Trans-Pacific Partnership, negotiated in secret between 12 Pacific Rim nations, &amp;#34;would trample over individual rights and free expression&amp;#34; according to Julian Assange
 
-##### United States
+##### American
 ### [The United States Government announces that 106,185 people signed up for health insurance through the Health Insurance Marketplace as part of the Patient Protection and Affordable Care Act during its first month of release on October. ](/news/2013/11/13/the-united-states-government-announces-that-106-185-people-signed-up-for-health-insurance-through-the-health-insurance-marketplace-as-part-o.md)
 New data also show that in the first month of open enrollment, 26,794 signed up through the problem-plagued federal exchange, HealthCare.gov, and the rest through state exchanges.
 

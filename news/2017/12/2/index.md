@@ -21,7 +21,7 @@ Cyclone Ockhi, which claimed 13 lives in Tamil Nadu and Kerala, has now moved be
 
 ##### Bangladesh-Holy See relations
 ### [Pope Francis ends his six-day trip to Myanmar and Bangladesh by visiting the Rohingya refugees in Dhaka. ](/news/2017/12/2/pope-francis-ends-his-six-day-trip-to-myanmar-and-bangladesh-by-visiting-the-rohingya-refugees-in-dhaka.md)
-_Context: Dhaka, Rohingya, Pope Francis, Bangladesh, Bangladesh-Holy See relations, Myanmar, refugees_
+_Context: Bangladesh-Holy See relations, Pope Francis, refugees, Rohingya, Myanmar, Dhaka, Bangladesh_
 
 ##### Saudi-led intervention in Yemen
 ### [The former president of Yemen Ali Abdullah Saleh suggests that he is open to talking to the Saudi-led coalition that his forces have been fighting for years. ](/news/2017/12/2/the-former-president-of-yemen-ali-abdullah-saleh-suggests-that-he-is-open-to-talking-to-the-saudi-led-coalition-that-his-forces-have-been-fi.md)
@@ -29,7 +29,7 @@ Ali Abdullah Saleh says he may &quot;turn the page&quot; if coalition forces lif
 
 ##### United States and the United Nations
 ### [The Trump administrations withdraws the United States from the Global Compact on Migration of the United Nations. ](/news/2017/12/2/the-trump-administrations-withdraws-the-united-states-from-the-global-compact-on-migration-of-the-united-nations.md)
-_Context: United States and the United Nations, United Nations_
+_Context: United Nations, United States and the United Nations_
 
 ##### Tax Cuts and Jobs Act of 2017
 ### [The United States Senate passes the Republican tax reform bill with a 51-49 vote. ](/news/2017/12/2/the-united-states-senate-passes-the-republican-tax-reform-bill-with-a-51a49-vote.md)

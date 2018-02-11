@@ -17,11 +17,11 @@ Fifteen people died and around 130 were injured when a fire broke out in a hotel
 
 ##### Fire
 ### [A massive fire engulfs a warehouse holding 5,600 tons of rubber tires in Savannah, Georgia, United States. ](/news/2014/02/8/a-massive-fire-engulfs-a-warehouse-holding-5-600-tons-of-rubber-tires-in-savannah-georgia-united-states.md)
-_Context: tons, fire, warehouse, rubber, Savannah, Georgia_
+_Context: fire, warehouse, tons, rubber, Savannah, Georgia_
 
 ##### Argentina
 ### [A truck and a bus collide in the Argentine province of Mendoza, killing at least 17 people and injuring more than 10 others. ](/news/2014/02/8/a-truck-and-a-bus-collide-in-the-argentine-province-of-mendoza-killing-at-least-17-people-and-injuring-more-than-10-others.md)
-_Context: Argentina, Mendoza Province_
+_Context: Mendoza Province, Argentina_
 
 ##### Japan
 ### [Large snowstorms kill 6 people and injure over 600 in Japan. ](/news/2014/02/8/large-snowstorms-kill-6-people-and-injure-over-600-in-japan.md)
@@ -41,7 +41,7 @@ Allegations of money laundering and tax evasion against king&#x27;s daughter are
 
 ##### Minister of State for Immigration
 ### [The British Minister of State for Immigration Mark Harper resigns after it is discovered that a cleaner that he employed was not legally allowed to work in the United Kingdom. ](/news/2014/02/8/the-british-minister-of-state-for-immigration-mark-harper-resigns-after-it-is-discovered-that-a-cleaner-that-he-employed-was-not-legally-all.md)
-_Context: United Kingdom, Mark Harper, Minister of State for Immigration_
+_Context: Minister of State for Immigration, Mark Harper, United Kingdom_
 
 ##### Hamdeen Sabahi
 ### [Hamdeen Sabahi announces his candidacy for the upcoming Egyptian presidential elections. ](/news/2014/02/8/hamdeen-sabahi-announces-his-candidacy-for-the-upcoming-egyptian-presidential-elections.md)

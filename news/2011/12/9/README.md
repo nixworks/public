@@ -5,7 +5,7 @@ Formats: [HTML](2011/12/9/index.html)  [JSON](2011/12/9/index.json)  [XML](2011/
 
 ##### Credit rating
 ### [Credit rating agency Moody's downgrades the ratings of France's three biggest banks, Credit Agricole, BNP Paribas and Societe Generale. ](/news/2011/12/9/credit-rating-agency-moody-s-downgrades-the-ratings-of-france-s-three-biggest-banks-cra-c-dit-agricole-bnp-paribas-and-socia-c-ta-c-ga-c-na-c-rale.md)
-_Context: Moody's, Credit Agricole, Societe Generale, BNP Paribas, Credit rating, France_
+_Context: France, BNP Paribas, Moody's, Societe Generale, Credit Agricole, Credit rating_
 
 ##### Stock exchange
 ### [Stock prices rise at stock exchanges around the world, and some analysts see this as a reaction to a fiscal agreement among the leaders of the eurozone. ](/news/2011/12/9/stock-prices-rise-at-stock-exchanges-around-the-world-and-some-analysts-see-this-as-a-reaction-to-a-fiscal-agreement-among-the-leaders-of-t.md)
@@ -21,11 +21,11 @@ The PM effectively vetoes an EU-wide treaty change, after making what French Pre
 
 ##### Croatia
 ### [Croatia's President Ivo Josipovic and Prime minister Jadranka Kosor sign the accession treaty of Croatia to the European Union, to become the 28th member state on July 1, 2013. ](/news/2011/12/9/croatia-s-president-ivo-josipovia-and-prime-minister-jadranka-kosor-sign-the-accession-treaty-of-croatia-to-the-european-union-to-become-t.md)
-_Context: European Union, Croatia, accession treaty, formal entry of Croatia, Jadranka Kosor, Ivo Josipovic_
+_Context: accession treaty, Jadranka Kosor, Croatia, Ivo Josipovic, European Union, formal entry of Croatia_
 
 ##### Cheshire, Connecticut home invasion murders
 ### [Joshua Komisarjevsky, found guilty of the Cheshire, Connecticut home invasion murders, is sentenced to death by lethal injection. ](/news/2011/12/9/joshua-komisarjevsky-found-guilty-of-the-cheshire-connecticut-home-invasion-murders-is-sentenced-to-death-by-lethal-injection.md)
-_Context: lethal injection, Cheshire, Connecticut home invasion murders, death_
+_Context: Cheshire, Connecticut home invasion murders, lethal injection, death_
 
 ##### Camorra
 ### [Camorra's Michele Zagaria caught in underground bunker ](/news/2011/12/9/camorra-s-michele-zagaria-caught-in-underground-bunker.md)
@@ -33,7 +33,7 @@ _Context: Michele Zagaria, Camorra_
 
 ##### President
 ### [Incumbent President of the Democratic Republic of the Congo Joseph Kabila is declared the winner of the Congolese general election but lead opposition candidate Etienne Tshisekedi disputes the outcome. ](/news/2011/12/9/incumbent-president-of-the-democratic-republic-of-the-congo-joseph-kabila-is-declared-the-winner-of-the-congolese-general-election-but-lead.md)
-_Context: President, presidential election, Etienne Tshisekedi, Kabila government_
+_Context: Kabila government, President, presidential election, Etienne Tshisekedi_
 
 ## [Previous Day...](/news/2011/12/8/index.md)
 

@@ -9,19 +9,19 @@ Militants using a car bomb and firing weapons attacked the U.S. consulate in the
 
 ##### An explosion
 ### [An explosion at a coal mine in Raleigh County, West Virginia kills 25 miners and leaves several missing. This is the deadliest mining accident in the U.S. in at least 35 years. ](/news/2010/04/5/an-explosion-at-a-coal-mine-in-raleigh-county-west-virginia-kills-25-miners-and-leaves-several-missing-this-is-the-deadliest-mining-accide.md)
-_Context: West Virginia, An explosion, Raleigh County, coal mine_
+_Context: coal mine, West Virginia, Raleigh County, An explosion_
 
 ##### United States Supreme Court
 ### [The United States Supreme Court declines to take up a case by residents of Bikini Atoll and Enewetak in the Marshall Islands, who are seeking compensation for U.S. nuclear tests conducted on the islands. ](/news/2010/04/5/the-united-states-supreme-court-declines-to-take-up-a-case-by-residents-of-bikini-atoll-and-enewetak-in-the-marshall-islands-who-are-seekin.md)
-_Context: Bikini Atoll, United States Supreme Court, Marshall Islands, compensation, U.S. nuclear tests, Enewetak_
+_Context: United States Supreme Court, U.S. nuclear tests, Bikini Atoll, Marshall Islands, Enewetak, compensation_
 
 ##### Wikileaks
 ### [Wikileaks releases a video from 2007 showing the killing of civilians, including two Reuters news staff, by the U.S. military in Baghdad, Iraq. ](/news/2010/04/5/wikileaks-releases-a-video-from-2007-showing-the-killing-of-civilians-including-two-reuters-news-staff-by-the-u-s-military-in-baghdad-ir.md)
-_Context: Baghdad, Reuters, United States armed forces, releases a video, Iraq, Wikileaks_
+_Context: Baghdad, United States armed forces, Reuters, Iraq, Wikileaks, releases a video_
 
 ##### Centers for Disease Control and Prevention
 ### [The Centers for Disease Control and Prevention is currently attempting to gauge the risk of the recently-discovered XMRV virus, linked to rare forms of prostate cancer and chronic fatigue syndrome, to the blood donation supply. ](/news/2010/04/5/the-centers-for-disease-control-and-prevention-is-currently-attempting-to-gauge-the-risk-of-the-recently-discovered-xmrv-virus-linked-to-ra.md)
-_Context: chronic fatigue syndrome, prostate cancer, XMRV, blood donation, Centers for Disease Control and Prevention_
+_Context: Centers for Disease Control and Prevention, XMRV, blood donation, prostate cancer, chronic fatigue syndrome_
 
 ##### Iran
 ### [Iran invites 60 countries to a two-day nuclear disarmament conference in Tehran on April 17&ndash;18, entitled "Nuclear energy for everyone, nuclear arms for no one". China says it will attend the conference which invites "the world to disarm and prevent proliferation". ](/news/2010/04/5/iran-invites-60-countries-to-a-two-day-nuclear-disarmament-conference-in-tehran-on-april-17-ndash-18-entitled-nuclear-energy-for-everyone.md)

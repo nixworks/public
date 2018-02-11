@@ -17,15 +17,15 @@ Former Ivory Coast president Laurent Gbagbo appeared at the International Crimin
 
 ##### Julian Assange
 ### [Julian Assange is allowed a final appeal to the Supreme Court of the United Kingdom against his extradition to Sweden to answer questions over sexual assault allegations. ](/news/2011/12/5/julian-assange-is-allowed-a-final-appeal-to-the-supreme-court-of-the-united-kingdom-against-his-extradition-to-sweden-to-answer-questions-ov.md)
-_Context: Sweden, sexual assault, extradition, Supreme Court of the United Kingdom, Julian Assange_
+_Context: extradition, Sweden, Julian Assange, sexual assault, Supreme Court of the United Kingdom_
 
 ##### Parliamentary elections
 ### [Preliminary results are released from the Russian legislative election showing the ruling United Russia winning 50 percent of the vote, well down on its 2008 vote. ](/news/2011/12/5/preliminary-results-are-released-from-the-russian-legislative-election-showing-the-ruling-united-russia-winning-50-percent-of-the-vote-well.md)
-_Context: United Russia, parliamentary elections_
+_Context: parliamentary elections, United Russia_
 
 ##### Peru declares
 ### [Peru declares a state of emergency in four provinces amid protests over a mining project. ](/news/2011/12/5/peru-declares-a-state-of-emergency-in-four-provinces-amid-protests-over-a-mining-project.md)
-_Context: state of emergency, Peru declares_
+_Context: Peru declares, state of emergency_
 
 ## [Previous Day...](/news/2011/12/4/index.md)
 

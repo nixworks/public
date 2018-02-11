@@ -13,7 +13,7 @@ Bombings in Baghdad, Kirkuk and Samara leave at least 35 people dead and dozens 
 
 ##### Ma Jian
 ### [Ma Jian, author of the banned novel "Beijing Coma", daubs red paint over his face at the London Book Fair and calls Chinese publishers "the mouthpiece of the Chinese communist party." ](/news/2012/04/19/ma-jian-author-of-the-banned-novel-beijing-coma-daubs-red-paint-over-his-face-at-the-london-book-fair-and-calls-chinese-publishers-the.md)
-_Context: London Book Fair, Ma Jian, Beijing Coma, China_
+_Context: Ma Jian, China, London Book Fair, Beijing Coma_
 
 ##### Alan Turing
 ### [Two papers on Alan Turing's theory of code-breaking are released to the UK's National Archives after 70 years. ](/news/2012/04/19/two-papers-on-alan-turing-s-theory-of-code-breaking-are-released-to-the-uk-s-national-archives-after-70-years.md)
@@ -25,7 +25,7 @@ Irish comedian Dylan Moran becomes the first professional English-speaking comed
 
 ##### Men At Work
 ### [Men At Work flautist Greg Ham is found dead at his Melbourne home. ](/news/2012/04/19/men-at-work-flautist-greg-ham-is-found-dead-at-his-melbourne-home.md)
-_Context: Greg Ham, Men At Work, Melbourne_
+_Context: Melbourne, Greg Ham, Men At Work_
 
 ##### The Band
 ### [The Band singer and drummer Levon Helm dies of throat cancer at the age of 71. ](/news/2012/04/19/the-band-singer-and-drummer-levon-helm-dies-of-throat-cancer-at-the-age-of-71.md)

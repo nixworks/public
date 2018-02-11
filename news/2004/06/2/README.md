@@ -9,7 +9,7 @@ Médecins Sans Frontières (MSF) is an international, independent, medical human
 
 ##### United States Air Force Academy
 ### [ In a speech given at the United States Air Force Academy, President Bush compares the present War on Terrorism in the Middle East to World War&nbsp;II in Europe. ](/news/2004/06/2/in-a-speech-given-at-the-united-states-air-force-academy-president-bush-compares-the-present-war-on-terrorism-in-the-middle-east-to-world.md)
-_Context: Middle East, George W. Bush, United States Air Force Academy, World War&nbsp;II, War on Terrorism_
+_Context: United States Air Force Academy, World War&nbsp;II, Middle East, War on Terrorism, George W. Bush_
 
 ##### Zhou Zhengyi
 ### [ Zhou Zhengyi, the 11th richest businessman in mainland China, is given a three-year jail sentence for stock market fraud. ](/news/2004/06/2/zhou-zhengyi-the-11th-richest-businessman-in-mainland-china-is-given-a-three-year-jail-sentence-for-stock-market-fraud.md)

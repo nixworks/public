@@ -18,7 +18,7 @@ Greeks are voting today in national elections that may determine whether the cou
 
 ### Changes:
 
-1. [Voters in Armenia go to the polls for a parliamentary election with exit polls showing the ruling Republican Party doing well. ](/news/2012/05/6/voters-in-armenia-go-to-the-polls-for-a-parliamentary-election-with-exit-polls-showing-the-ruling-republican-party-doing-well.md) _2018-02-09 05:00:16 (First version)_
+1. [Voters in Armenia go to the polls for a parliamentary election with exit polls showing the ruling Republican Party doing well. ](/news/2012/05/6/voters-in-armenia-go-to-the-polls-for-a-parliamentary-election-with-exit-polls-showing-the-ruling-republican-party-doing-well.md) _2018-02-10 05:09:12 (First version)_
 1. [Voters in Greece go to the polls for a parliamentary election with parties opposed to austerity measures winning 60 per cent of the vote and the two main parties in favour of austerity suffering withering defeats. ](/news/2012/05/6/voters-in-greece-go-to-the-polls-for-a-parliamentary-election-with-parties-opposed-to-austerity-measures-winning-60-per-cent-of-the-vote-and.md) _(Current version)_
 
 ### Related:

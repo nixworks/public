@@ -5,7 +5,7 @@ Formats: [HTML](2015/08/13/index.html)  [JSON](2015/08/13/index.json)  [XML](201
 
 ##### 2015 Baghdad market truck bomb
 ### [A truck bombing in Baghdad, Iraq kills at least 76 people and wounds 212 others. Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2015/08/13/a-truck-bombing-in-baghdad-iraq-kills-at-least-76-people-and-wounds-212-others-islamic-state-of-iraq-and-the-levant-claims-responsibility.md)
-_Context: Iraq War (2014-present), Iraq, 2015 Baghdad market truck bomb, ISIL, Baghdad_
+_Context: Baghdad, Iraq, Iraq War (2014-present), ISIL, 2015 Baghdad market truck bomb_
 
 ##### Solid Energy
 ### [The New Zealand government-owned, coal-mining company, Solid Energy, goes into temporary voluntary administration, asking creditors to freeze most of its debt. ](/news/2015/08/13/the-new-zealand-government-owned-coal-mining-company-solid-energy-goes-into-temporary-voluntary-administration-asking-creditors-to-freez.md)
@@ -25,7 +25,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Avoiding
 ### [Swedish prosecutors drop some charges against Wikileaks founder Julian Assange as the statute of limitations expire but will continue to investigate rape claims. ](/news/2015/08/13/swedish-prosecutors-drop-some-charges-against-wikileaks-founder-julian-assange-as-the-statute-of-limitations-expire-but-will-continue-to-inv.md)
-_Context: avoiding, Julian Assange, Wikileaks, Sweden_
+_Context: avoiding, Sweden, Wikileaks, Julian Assange_
 
 ##### Al-Qaeda
 ### [Al-Qaeda leader Ayman al-Zawahiri pledges allegiance to the new Taliban chief Akhter Mansour in an audio message posted online. ](/news/2015/08/13/al-qaeda-leader-ayman-al-zawahiri-pledges-allegiance-to-the-new-taliban-chief-akhter-mansour-in-an-audio-message-posted-online.md)

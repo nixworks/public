@@ -17,7 +17,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Israel
 ### [ Israel captures Hamas leader Ibrahim Hamed in a Ramallah raid. ](/news/2006/05/23/israel-captures-hamas-leader-ibrahim-hamed-in-a-ramallah-raid.md)
-_Context: Israel, Ramallah, Hamas, Ibrahim Hamed_
+_Context: Hamas, Ibrahim Hamed, Ramallah, Israel_
 
 ## [Previous Day...](/news/2006/05/22/index.md)
 

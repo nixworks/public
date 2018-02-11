@@ -9,11 +9,11 @@ A suicide bomber in an explosive-laden car rammed into a police station in Pesha
 
 ##### 2011 Yemeni uprising
 ### [Violent clashes occur between tribesmen and government officials in Sana'a, Yemen. ](/news/2011/05/25/violent-clashes-occur-between-tribesmen-and-government-officials-in-sana-a-yemen.md)
-_Context: Yemen, 2011 Yemeni uprising, Sana'a_
+_Context: Yemen, Sana'a, 2011 Yemeni uprising_
 
 ##### South Africa
 ### [South African President Jacob Zuma will visit Libya for talks with Libyan leader Muammar Gaddafi, in renewed efforts by the African Union to broker a cease-fire in the 2011 Libyan civil war. ](/news/2011/05/25/south-african-president-jacob-zuma-will-visit-libya-for-talks-with-libyan-leader-muammar-gaddafi-in-renewed-efforts-by-the-african-union-to.md)
-_Context: Muammar Gaddafi, President, Libya, Jacob Zuma, South Africa, civil war, African Union_
+_Context: President, Libya, South Africa, Jacob Zuma, African Union, Muammar Gaddafi, civil war_
 
 ##### Europe
 ### [Police in the eastern European state of Georgia use teargas to disperse a protest in central Tbilisi. ](/news/2011/05/25/police-in-the-eastern-european-state-of-georgia-use-teargas-to-disperse-a-protest-in-central-tbilisi.md)
@@ -25,15 +25,15 @@ _Context: Oprah Winfrey, Oprah Winfrey Show_
 
 ##### United States of America
 ### [U.S. author Jeffery Deaver unveils his James Bond novel, "Carte Blanche". ](/news/2011/05/25/u-s-author-jeffery-deaver-unveils-his-james-bond-novel-carte-blanche.md)
-_Context: United States of America, Carte Blanche, James Bond, Jeffery Deaver_
+_Context: Carte Blanche, James Bond, United States of America, Jeffery Deaver_
 
 ##### David Einhorn
 ### [An influential investor and stock trader, David Einhorn, demands the resignation of Steve Ballmer, the CEO of software giant Microsoft, speaking at the Ira W. Sohn Investment Research Conference. ](/news/2011/05/25/an-influential-investor-and-stock-trader-david-einhorn-demands-the-resignation-of-steve-ballmer-the-ceo-of-software-giant-microsoft-spea.md)
-_Context: Ira W. Sohn Investment Research Conference, Steve Ballmer, David Einhorn, Microsoft_
+_Context: Microsoft, Steve Ballmer, David Einhorn, Ira W. Sohn Investment Research Conference_
 
 ##### German
 ### [Germany shuts down part of its airspace as volcanic ash from the eruption of Iceland's Grimsvotn reaches northern Europe. ](/news/2011/05/25/germany-shuts-down-part-of-its-airspace-as-volcanic-ash-from-the-eruption-of-iceland-s-gramsvaptn-reaches-northern-europe.md)
-_Context: northern Europe, German, eruption, Iceland, Grimsvotn_
+_Context: eruption, Grimsvotn, German, northern Europe, Iceland_
 
 ##### Storms and tornadoes
 ### [Powerful storms and tornadoes continue across the Central United States, claiming at least 10 more lives across Arkansas, Kansas and Oklahoma. ](/news/2011/05/25/powerful-storms-and-tornadoes-continue-across-the-central-united-states-claiming-at-least-10-more-lives-across-arkansas-kansas-and-oklahom.md)
@@ -41,7 +41,7 @@ Arkansas, Oklahoma and Kansas picked up the pieces after damaging storms and tor
 
 ##### Fukushima Daiichi nuclear disaster
 ### [Two of the reactors damaged in the March earthquake and tsunami at the Fukushima Daiichi nuclear power plant in Japan may be riddled with holes, according to the facility's owner, Tokyo Electric Power Co. ](/news/2011/05/25/two-of-the-reactors-damaged-in-the-march-earthquake-and-tsunami-at-the-fukushima-daiichi-nuclear-power-plant-in-japan-may-be-riddled-with-ho.md)
-_Context: Tokyo Electric Power Co., Fukushima Daiichi Nuclear Power Plant, 2011 Tohoku earthquake and tsunami, Fukushima Daiichi nuclear disaster, Japan_
+_Context: 2011 Tohoku earthquake and tsunami, Fukushima Daiichi Nuclear Power Plant, Tokyo Electric Power Co., Fukushima Daiichi nuclear disaster, Japan_
 
 ##### Air ambulance
 ### [At least 12 people die after an air ambulance crashes in Faridabad, India. ](/news/2011/05/25/at-least-12-people-die-after-an-air-ambulance-crashes-in-faridabad-india.md)
@@ -49,7 +49,7 @@ A small aircraft with 7 on board crashed into a colony in Faridabad on Wednesday
 
 ##### Barack Obama
 ### [Barack Obama, the President of the United States, addresses the Parliament of the United Kingdom. ](/news/2011/05/25/barack-obama-the-president-of-the-united-states-addresses-the-parliament-of-the-united-kingdom.md)
-_Context: Parliament, U.S. President, Barack Obama_
+_Context: Parliament, Barack Obama, U.S. President_
 
 ##### Christine Lagarde
 ### [Christine Lagarde, the French Minister for Finance, announces her candidacy to be head of the International Monetary Fund. ](/news/2011/05/25/christine-lagarde-the-french-minister-for-finance-announces-her-candidacy-to-be-head-of-the-international-monetary-fund.md)
@@ -57,11 +57,11 @@ Since Dominique Strauss-Kahn resigned to fight sexual assault charges, Finance M
 
 ##### Palestine
 ### [Palestinian officials dismiss Israeli PM Benjamin Netanyahu's speech to the US Congress, saying it will not lead to peace. ](/news/2011/05/25/palestinian-officials-dismiss-israeli-pm-benjamin-netanyahu-s-speech-to-the-us-congress-saying-it-will-not-lead-to-peace.md)
-_Context: US Congress, Benjamin Netanyahu, peace, Israeli PM, Palestine_
+_Context: US Congress, peace, Benjamin Netanyahu, Palestine, Israeli PM_
 
 ##### North Korea
 ### [North Korean leader Kim Jong-il arrives in Beijing for a meeting with the President of the People's Republic of China, Hu Jintao. ](/news/2011/05/25/north-korean-leader-kim-jong-il-arrives-in-beijing-for-a-meeting-with-the-president-of-the-people-s-republic-of-china-hu-jintao.md)
-_Context: Hu Jintao, Beijing, Chinese President, Kim Jong-il, North Korea_
+_Context: Hu Jintao, Beijing, North Korea, Kim Jong-il, Chinese President_
 
 ##### Jared Lee Loughner
 ### [Jared Lee Loughner, accused of murder in the 2011 Tucson shootings, is found to be incompetent to face a trial because of mental health issues. ](/news/2011/05/25/jared-lee-loughner-accused-of-murder-in-the-2011-tucson-shootings-is-found-to-be-incompetent-to-face-a-trial-because-of-mental-health-issu.md)

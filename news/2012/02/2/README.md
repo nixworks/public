@@ -5,7 +5,7 @@ Formats: [HTML](2012/02/2/index.html)  [JSON](2012/02/2/index.json)  [XML](2012/
 
 ##### Philippines
 ### [The Philippines military claim to have killed Abu Sayyaf leader Umbra Jumdail, Malaysian Zulkifli bin Hir, a leader of Jemaah Islamiyah, and Singaporean Abdullah Ali. ](/news/2012/02/2/the-philippines-military-claim-to-have-killed-abu-sayyaf-leader-umbra-jumdail-malaysian-zulkifli-bin-hir-a-leader-of-jemaah-islamiyah-and.md)
-_Context: Malaysian, Abu Sayyaf, Jemaah Islamiyah, Philippines, Zulkifli bin Hir, Umbra Jumdail_
+_Context: Jemaah Islamiyah, Zulkifli bin Hir, Umbra Jumdail, Abu Sayyaf, Malaysian, Philippines_
 
 ##### Yemen
 ### [Six kidnapped aid workers are released in Yemen. ](/news/2012/02/2/six-kidnapped-aid-workers-are-released-in-yemen.md)
@@ -13,7 +13,7 @@ _Context: Yemen_
 
 ##### Mexican Army
 ### [The Mexican Army sends 4,000 soldiers to Michoacn state as a result of recent violence. ](/news/2012/02/2/the-mexican-army-sends-4-000-soldiers-to-michoacan-state-as-a-result-of-recent-violence.md)
-_Context: Michoacn, Mexican Army_
+_Context: Mexican Army, Michoacn_
 
 ##### Papua New Guinea
 ### [The ferry Rabaul Queen sinks off the coast of Papua New Guinea near the Finschhafen District, with an estimated 350 people on board. Nearby commercial ships rescue 238 people from the sea. ](/news/2012/02/2/the-ferry-rabaul-queen-sinks-off-the-coast-of-papua-new-guinea-near-the-finschhafen-district-with-an-estimated-350-people-on-board-nearby.md)
@@ -21,7 +21,7 @@ More than 100 people are missing and about 230 are rescued after a ferry sinks o
 
 ##### Europe
 ### [More than 110 people are killed across Europe as a result of a recent cold snap. ](/news/2012/02/2/more-than-110-people-are-killed-across-europe-as-a-result-of-a-recent-cold-snap.md)
-_Context: Early 2012 European cold wave, Europe_
+_Context: Europe, Early 2012 European cold wave_
 
 ##### Australia
 ### [Thousands of residents of Australian towns Bellingen and Moree, New South Wales are warned to prepare to evacuate as a result of heavy rain. ](/news/2012/02/2/thousands-of-residents-of-australian-towns-bellingen-and-moree-new-south-wales-are-warned-to-prepare-to-evacuate-as-a-result-of-heavy-rain.md)
@@ -45,7 +45,7 @@ _Context: Church of Scientology, French-born, fraud_
 
 ##### Egypt
 ### [Egyptian comedian Adel Emam is sentenced to three months in prison for insulting Islam. ](/news/2012/02/2/egyptian-comedian-adel-emam-is-sentenced-to-three-months-in-prison-for-insulting-islam.md)
-_Context: Egypt, insulting Islam, Adel Emam_
+_Context: Egypt, Adel Emam, insulting Islam_
 
 ##### Prime Minister of Egypt
 ### [The Prime Minister of Egypt Kamal Ganzouri calls an emergency Cabinet meeting to discuss the Port Said Stadium clashes which resulted in at least 74 deaths. ](/news/2012/02/2/the-prime-minister-of-egypt-kamal-ganzouri-calls-an-emergency-cabinet-meeting-to-discuss-the-port-said-stadium-clashes-which-resulted-in-at.md)

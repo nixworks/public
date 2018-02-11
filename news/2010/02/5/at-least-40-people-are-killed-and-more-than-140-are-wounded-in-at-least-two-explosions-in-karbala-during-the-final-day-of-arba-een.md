@@ -18,7 +18,7 @@ At least 40 people killed and 140 others injured in attacks on Shia pilgrims.
 
 ### Changes:
 
-1. [At least 22 people are killed and more than 50 are injured in two separate bombings in Karachi. ](/news/2010/02/5/at-least-22-people-are-killed-and-more-than-50-are-injured-in-two-separate-bombings-in-karachi.md) _2018-02-09 04:20:40 (First version)_
+1. [At least 22 people are killed and more than 50 are injured in two separate bombings in Karachi. ](/news/2010/02/5/at-least-22-people-are-killed-and-more-than-50-are-injured-in-two-separate-bombings-in-karachi.md) _2018-02-10 04:26:14 (First version)_
 1. [At least 40 people are killed and more than 140 are wounded in at least two explosions in Karbala during the final day of Arba'een. ](/news/2010/02/5/at-least-40-people-are-killed-and-more-than-140-are-wounded-in-at-least-two-explosions-in-karbala-during-the-final-day-of-arba-een.md) _(Current version)_
 
 ### Related:

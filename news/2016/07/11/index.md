@@ -21,7 +21,7 @@ The US is to send 560 more military personnel to Iraq to help in the fight again
 
 ##### Israeli-Palestinian conflict
 ### [Israeli forces level land east of Khan Yunis in the southern Gaza Strip. ](/news/2016/07/11/israeli-forces-level-land-east-of-khan-yunis-in-the-southern-gaza-strip.md)
-_Context: Gaza Strip, Israeli-Palestinian conflict, Khan Yunis_
+_Context: Gaza Strip, Khan Yunis, Israeli-Palestinian conflict_
 
 ##### Srebrenica massacre
 ### [The 127 people who were massacred in the Srebrenica massacre in 1995 and were subsequently discovered in mass graves are buried at the Srebrenica Genocide Memorial following a funeral. For the first time, Bosnian Serbs were not welcome to attend the ceremony. ](/news/2016/07/11/the-127-people-who-were-massacred-in-the-srebrenica-massacre-in-1995-and-were-subsequently-discovered-in-mass-graves-are-buried-at-the-srebr.md)
@@ -29,11 +29,11 @@ Thousands of Muslim Bosniaks paid respect to 127 victims of the 1995 Srebrenica 
 
 ##### Flood
 ### [Floods resulting from the annual monsoon season cause 22 deaths and make 100,000 people homeless in India. ](/news/2016/07/11/floods-resulting-from-the-annual-monsoon-season-cause-22-deaths-and-make-100-000-people-homeless-in-india.md)
-_Context: Flood, monsoon, India_
+_Context: India, Flood, monsoon_
 
 ##### Lockheed C-130 Hercules
 ### [A Lockheed C-130 Hercules owned by the Portuguese Armed Forces catches fire while taking off from Montijo Air Base, killing at least three people. ](/news/2016/07/11/a-lockheed-c-130-hercules-owned-by-the-portuguese-armed-forces-catches-fire-while-taking-off-from-montijo-air-base-killing-at-least-three-p.md)
-_Context: Portuguese Armed Forces, Montijo Air Base, Lockheed C-130 Hercules_
+_Context: Portuguese Armed Forces, Lockheed C-130 Hercules, Montijo Air Base_
 
 ##### St. Joseph courthouse shooting
 ### [At least three people die, including the shooter, in a shooting at the Berrien County courthouse in the U.S. state of Michigan. ](/news/2016/07/11/at-least-three-people-die-including-the-shooter-in-a-shooting-at-the-berrien-county-courthouse-in-the-u-s-state-of-michigan.md)

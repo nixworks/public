@@ -9,7 +9,7 @@ A series of barrel bombs dropped by Syria&#39;s regime killed at least 45 civili
 
 ##### Boko Haram
 ### [A suicide bomber kills 26 people in a Maiduguri mosque hours after militants launch an attack on the first full day of President of Nigeria Muhammadu Buhari's term of office. ](/news/2015/05/30/a-suicide-bomber-kills-26-people-in-a-maiduguri-mosque-hours-after-militants-launch-an-attack-on-the-first-full-day-of-president-of-nigeria.md)
-_Context: Boko Haram, President, suicide bomber, Muhammadu Buhari, Maiduguri_
+_Context: Boko Haram, President, Maiduguri, suicide bomber, Muhammadu Buhari_
 
 ##### Japan
 ### [A 7.8 magnitude earthquake occurs off the coast of Japan. No tsunami warning is issued. ](/news/2015/05/30/a-7-8-magnitude-earthquake-occurs-off-the-coast-of-japan-no-tsunami-warning-is-issued.md)
@@ -29,7 +29,7 @@ US defence secretary expresses deep concern about China’s push to claim resour
 
 ##### Beau Biden
 ### [Beau Biden, U.S. Vice President Joseph Biden's son, who had served in the Iraq War and for multiple terms as the Attorney General of Delaware, dies at Walter Reed Medical Center after a battle with malignant brain cancer. ](/news/2015/05/30/beau-biden-u-s-vice-president-joseph-biden-s-son-who-had-served-in-the-iraq-war-and-for-multiple-terms-as-the-attorney-general-of-delawar.md)
-_Context: Joseph Biden, Attorney General of Delaware, Walter Reed Medical Center, Beau Biden, brain cancer, Iraq War_
+_Context: brain cancer, Iraq War, Attorney General of Delaware, Joseph Biden, Beau Biden, Walter Reed Medical Center_
 
 ##### Martin O'Malley
 ### [Martin O'Malley announces that he will be seeking the Democratic Party nomination in the 2016 US presidential election. ](/news/2015/05/30/martin-o-malley-announces-that-he-will-be-seeking-the-democratic-party-nomination-in-the-2016-us-presidential-election.md)

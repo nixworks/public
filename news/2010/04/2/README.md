@@ -29,7 +29,7 @@ _Context: New York City subway_
 
 ##### New England
 ### [Record rains cause flooding across New England, with Rhode Island hit the hardest. Federal Emergency Management Agency (FEMA) officials say as many as 200,000 people in Rhode Island could be affected. President Barack Obama talks to Governor Don Carcieri about the damage. ](/news/2010/04/2/record-rains-cause-flooding-across-new-england-with-rhode-island-hit-the-hardest-federal-emergency-management-agency-fema-officials-say.md)
-_Context: U.S. President, New England, Rhode Island Governor, Don Carcieri, Rhode Island, Barack Obama, federal aid_
+_Context: federal aid, Don Carcieri, U.S. President, Rhode Island Governor, New England, Barack Obama, Rhode Island_
 
 ##### Limerick
 ### [Limerick pubs break with tradition by opening on Good Friday following the recent landmark court ruling. ](/news/2010/04/2/limerick-pubs-break-with-tradition-by-opening-on-good-friday-following-the-recent-landmark-court-ruling.md)

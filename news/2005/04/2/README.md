@@ -9,15 +9,15 @@ _Context: zeptogram, xenon, Caltech_
 
 ##### Riccardo Muti
 ### [ Riccardo Muti resigns as music director of La Scala opera house, Milan after 18 years, following a vote of no-confidence by 700 orchestra members and staff last month. ](/news/2005/04/2/riccardo-muti-resigns-as-music-director-of-la-scala-opera-house-milan-after-18-years-following-a-vote-of-no-confidence-by-700-orchestra-m.md)
-_Context: Milan, La Scala, Riccardo Muti, music director, opera house_
+_Context: opera house, music director, Milan, La Scala, Riccardo Muti_
 
 ##### France
 ### [ In France, radical wine producers attack the offices of agriculture ministries in Montpellier and Carcassonne with dynamite. A group calling itself "Comit Rgional d'Action Viticole" (Crav) takes responsibility.](/news/2005/04/2/in-france-radical-wine-producers-attack-the-offices-of-agriculture-ministries-in-montpellier-and-carcassonne-with-dynamite-a-group-callin.md)
-_Context: Carcassonne, agriculture, Montpellier, Comit Rgional d'Action Viticole, France, wine, dynamite_
+_Context: France, Montpellier, agriculture, dynamite, wine, Carcassonne, Comit Rgional d'Action Viticole_
 
 ##### Nepal
 ### [ In Nepal, former prime minister Girija Prasad Koirala is released from house arrest and demands the return to democracy. ](/news/2005/04/2/in-nepal-former-prime-minister-girija-prasad-koirala-is-released-from-house-arrest-and-demands-the-return-to-democracy.md)
-_Context: Nepal, house arrest, democratic, Girija Prasad Koirala_
+_Context: Nepal, democratic, house arrest, Girija Prasad Koirala_
 
 ## [Previous Day...](/news/2005/04/1/index.md)
 

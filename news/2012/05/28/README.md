@@ -13,7 +13,7 @@ Colombian FARC rebels on Mondayreleased a proof of life video in which a kidnapp
 
 ##### Bomb
 ### [A suspected bomb explodes in a shopping complex in Nairobi, Kenya, injuring 33 people. ](/news/2012/05/28/a-suspected-bomb-explodes-in-a-shopping-complex-in-nairobi-kenya-injuring-33-people.md)
-_Context: shopping complex, Nairobi, Kenya, bomb_
+_Context: bomb, Nairobi, Kenya, shopping complex_
 
 ##### Lhasa
 ### [For the first time a series of self-immolations have reached the Tibetan capital of Lhasa when two Tibetans set themselves on fire.](/news/2012/05/28/for-the-first-time-a-series-of-self-immolations-have-reached-the-tibetan-capital-of-lhasa-when-two-tibetans-set-themselves-on-fire.md)
@@ -43,7 +43,7 @@ _Context: ISAF, helicopter, Afghanistan_
 ### [19 people are killed in a fire at a shopping centre in Doha, Qatar. ](/news/2012/05/28/19-people-are-killed-in-a-fire-at-a-shopping-centre-in-doha-qatar.md)
 A fire at a shopping centre in the Qatari capital Doha kills at least 19 people, 13 of them children, eyewitnesses and officials say.
 
-##### Prime Minister
+##### Indian Prime Minister
 ### [Prime Minister of India Manmohan Singh makes the first official visit to Myanmar by an Indian PM since 1987. ](/news/2012/05/28/prime-minister-of-india-manmohan-singh-makes-the-first-official-visit-to-myanmar-by-an-indian-pm-since-1987.md)
 Manmohan Singh is meeting President Thein Sein as he makes the first official visit to Burma by an Indian prime minister since 1987.
 
@@ -53,15 +53,15 @@ Ex-Prime Minister Tony Blair tells the Leveson Inquiry his friendship with Ruper
 
 ##### Malawi
 ### [The Parliament of Malawi reverts the Flag of Malawi to the original version used between 1964 to 2010. The outgoing flag was introduced in 2010 by the late President Bingu wa Mutharika. ](/news/2012/05/28/the-parliament-of-malawi-reverts-the-flag-of-malawi-to-the-original-version-used-between-1964-to-2010-the-outgoing-flag-was-introduced-in-2.md)
-_Context: Bingu wa Mutharika, Flag of Malawi, Malawi_
+_Context: Flag of Malawi, Bingu wa Mutharika, Malawi_
 
 ##### 1989 Tiananmen Square protests
 ### [The father of a victim of the 1989 Tiananmen Square protests commits suicide in Beijing after failing attempts for government redress. ](/news/2012/05/28/the-father-of-a-victim-of-the-1989-tiananmen-square-protests-commits-suicide-in-beijing-after-failing-attempts-for-government-redress.md)
-_Context: Beijing, 1989 Tiananmen Square protests_
+_Context: 1989 Tiananmen Square protests, Beijing_
 
 ##### China
 ### [The Chinese Communist Party expels the former railways minister, Liu Zhijun, over corruption. ](/news/2012/05/28/the-chinese-communist-party-expels-the-former-railways-minister-liu-zhijun-over-corruption.md)
-_Context: Communist Party of China, Liu Zhijun, China_
+_Context: China, Liu Zhijun, Communist Party of China_
 
 ##### Nepal
 ### [Political parties in Nepal fail to agree on a new constitution, leaving the country with no constitution and no sitting national Legislature. ](/news/2012/05/28/political-parties-in-nepal-fail-to-agree-on-a-new-constitution-leaving-the-country-with-no-constitution-and-no-sitting-national-legislature.md)

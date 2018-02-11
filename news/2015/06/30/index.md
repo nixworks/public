@@ -13,11 +13,11 @@ The Philippines has put off signing an agreement to join the China-led Asian Inf
 
 ##### Greek government-debt crisis
 ### [The Greek bailout program by the European Union ends today with Greece failing to make a payment to the International Monetary Fund. ](/news/2015/06/30/the-greek-bailout-program-by-the-european-union-ends-today-with-greece-failing-to-make-a-payment-to-the-international-monetary-fund.md)
-_Context: Greek government-debt crisis, International Monetary Fund, Greece, European Union_
+_Context: Greece, International Monetary Fund, European Union, Greek government-debt crisis_
 
 ##### Reinsurance
 ### [British reinsurance broker the Willis Group announces a merger with American company Towers Watson to create an $18 billion company. ](/news/2015/06/30/british-reinsurance-broker-the-willis-group-announces-a-merger-with-american-company-towers-watson-to-create-an-18-billion-company.md)
-_Context: Towers Watson, Willis Group, reinsurance_
+_Context: reinsurance, Towers Watson, Willis Group_
 
 ##### 2015 Indonesian military plane crash
 ### [A Hercules C-130 military aircraft with 113 people onboard crashes in a residential area in the Indonesian city of Medan, resulting in at least 116 deaths. ](/news/2015/06/30/a-hercules-c-130-military-aircraft-with-113-people-onboard-crashes-in-a-residential-area-in-the-indonesian-city-of-medan-resulting-in-at-le.md)
@@ -25,7 +25,7 @@ More than 100 are feared killed as a military transport plane crashes in a resid
 
 ##### Self-immolation
 ### [ A man self-immolates aboard a "Nozomi" Shinkansen train running from Tokyo to Osaka; the man and another passenger die. Eleven others were reported injured. ](/news/2015/06/30/a-man-self-immolates-aboard-a-nozomi-shinkansen-train-running-from-tokyo-to-osaka-the-man-and-another-passenger-die-eleven-others-were.md)
-_Context: self-immolation, Tokyo, Osaka, Shinkansen, Nozomi_
+_Context: self-immolation, Nozomi, Osaka, Tokyo, Shinkansen_
 
 ##### Governor of California
 ### [Governor of California Jerry Brown signs a bill into law requiring all children to get vaccinations before being allowed to go to school or day care. ](/news/2015/06/30/governor-of-california-jerry-brown-signs-a-bill-into-law-requiring-all-children-to-get-vaccinations-before-being-allowed-to-go-to-school-or.md)
@@ -37,7 +37,7 @@ The Supreme Court en banc asks the Civil Registrar to respond to a petition file
 
 ##### New Jersey Governor
 ### [ New Jersey governor Chris Christie formally announces his candidacy for the Republican nomination for the 2016 presidential election. ](/news/2015/06/30/new-jersey-governor-chris-christie-formally-announces-his-candidacy-for-the-republican-nomination-for-the-2016-presidential-election.md)
-_Context: Republican Party presidential candidates, 2016, New Jersey Governor, Chris Christie_
+_Context: Chris Christie, New Jersey Governor, Republican Party presidential candidates, 2016_
 
 ##### Leap second
 ### [A leap second is added to the clock for the first time in 3 years. ](/news/2015/06/30/a-leap-second-is-added-to-the-clock-for-the-first-time-in-3-years.md)

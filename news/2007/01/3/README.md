@@ -21,11 +21,11 @@ News and opinion from The Times &amp; The Sunday Times
 
 ##### United States President
 ### [ Former United States President Gerald Ford is buried in his hometown of Grand Rapids, Michigan. ](/news/2007/01/3/former-united-states-president-gerald-ford-is-buried-in-his-hometown-of-grand-rapids-michigan.md)
-_Context: buried, Mich., Gerald Ford, Grand Rapids, United States President_
+_Context: Gerald Ford, buried, Mich., United States President, Grand Rapids_
 
 ##### National Express Coach crash
 ### [ A National Express coach overturns, killing two people, near Heathrow Airport, London on a slip road from the M4 to the M25 motorways. The driver is arrested on suspicion of causing death by dangerous driving. ](/news/2007/01/3/a-national-express-coach-overturns-killing-two-people-near-heathrow-airport-london-on-a-slip-road-from-the-m4-to-the-m25-motorways-the.md)
-_Context: Heathrow Airport, London, causing death by dangerous driving, M25 motorway, M4, National Express Coach crash, slip road_
+_Context: Heathrow Airport, National Express Coach crash, London, causing death by dangerous driving, slip road, M25 motorway, M4_
 
 ## [Previous Day...](/news/2007/01/2/index.md)
 

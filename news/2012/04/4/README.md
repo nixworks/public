@@ -17,7 +17,7 @@ _Context: Mogadishu, Somali Olympic Committee, Somalia, Somali Football Federati
 
 ##### German
 ### [German Nobel laureate Gunter Grass's poem, that accuses Israel of plotting to "wipe out" Iran, generates controversy. ](/news/2012/04/4/german-nobel-laureate-ga1-4nter-grass-s-poem-that-accuses-israel-of-plotting-to-wipe-out-iran-generates-controversy.md)
-_Context: Israel, Gunter Grass, Nobel laureate, poem, Iran, German_
+_Context: Israel, Iran, Nobel laureate, German, poem, Gunter Grass_
 
 ##### Northern England
 ### [As many as 50,000 homes in northern England are hit by a power blackout after heavy winds, snow and ice bring down electricity cables. ](/news/2012/04/4/as-many-as-50-000-homes-in-northern-england-are-hit-by-a-power-blackout-after-heavy-winds-snow-and-ice-bring-down-electricity-cables.md)
@@ -29,7 +29,7 @@ Some 200 US Marines, the first contingent of up to 2,500 to be deployed in north
 
 ##### ASEAN Summit
 ### [The 20th ASEAN Summit meeting in Phnom Penh, Cambodia, calls for sanctions to be lifted against Myanmar or Burma following recent by-elections. ](/news/2012/04/4/the-20th-asean-summit-meeting-in-phnom-penh-cambodia-calls-for-sanctions-to-be-lifted-against-myanmar-or-burma-following-recent-by-electio.md)
-_Context: ASEAN Summit, sanctions, by-elections earlier this month, Phnom Penh, Myanmar, Cambodia_
+_Context: sanctions, Cambodia, ASEAN Summit, Phnom Penh, by-elections earlier this month, Myanmar_
 
 ##### France
 ### [France arrests ten suspected militant Islamists following 13 people arrested last week. ](/news/2012/04/4/france-arrests-ten-suspected-militant-islamists-following-13-people-arrested-last-week.md)
@@ -37,11 +37,11 @@ _Context: Islamist, France_
 
 ##### New Orleans Police Department
 ### [Former New Orleans Police Department officers are sentenced to decades in jail for shooting civilians after Hurricane Katrina, and a subsequent coverup. ](/news/2012/04/4/former-new-orleans-police-department-officers-are-sentenced-to-decades-in-jail-for-shooting-civilians-after-hurricane-katrina-and-a-subsequ.md)
-_Context: New Orleans Police Department, Hurricane Katrina_
+_Context: Hurricane Katrina, New Orleans Police Department_
 
 ##### Venezuela
 ### [A Venezuelan state legislator Juan Carlos Figarella dies after being shot in an apparent robbery on Monday. ](/news/2012/04/4/a-venezuelan-state-legislator-juan-carlos-figarella-dies-after-being-shot-in-an-apparent-robbery-on-monday.md)
-_Context: Juan Carlos Figarella, Venezuela_
+_Context: Venezuela, Juan Carlos Figarella_
 
 ##### President of Serbia
 ### [The President of Serbia Boris Tadic announces his resignation to pave the way for early presidential elections. ](/news/2012/04/4/the-president-of-serbia-boris-tadia-announces-his-resignation-to-pave-the-way-for-early-presidential-elections.md)

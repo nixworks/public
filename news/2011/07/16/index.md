@@ -21,11 +21,11 @@ _Context: Ohi Nuclear Power Plant, Fukushima Daiichi nuclear disaster, Japan_
 
 ##### Mount Lokon
 ### [Nearly 5,000 people are evacuated after Mount Lokon in Indonesia erupts. ](/news/2011/07/16/nearly-5-000-people-are-evacuated-after-mount-lokon-in-indonesia-erupts.md)
-_Context: Mount Lokon, Indonesia_
+_Context: Indonesia, Mount Lokon_
 
 ##### North Sumatra Province
 ### [Seven people are killed and two injured after a customs boat sinks near the coast of North Sumatra Province in Indonesia. ](/news/2011/07/16/seven-people-are-killed-and-two-injured-after-a-customs-boat-sinks-near-the-coast-of-north-sumatra-province-in-indonesia.md)
-_Context: Indonesia, North Sumatra Province_
+_Context: North Sumatra Province, Indonesia_
 
 ##### Quadriga
 ### [Quadriga is not to be awarded this year due to the backlash sustained by organisers for giving it to Prime Minister of Russia and former KGB spy chief Vladimir Putin. Among the upheaval Danish artist Olafur Eliasson gave back his award and Vaclav Havel was reported to be considering doing that too. ](/news/2011/07/16/quadriga-is-not-to-be-awarded-this-year-due-to-the-backlash-sustained-by-organisers-for-giving-it-to-prime-minister-of-russia-and-former-kgb.md)

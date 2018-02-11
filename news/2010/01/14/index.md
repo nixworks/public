@@ -5,23 +5,23 @@ Formats: [HTML](2010/01/14/index.html)  [JSON](2010/01/14/index.json)  [XML](201
 
 ##### India
 ### [India celebrates the Thai Pongal, Makar Sankranti and Magh Bihu harvest festivals in places around the country (Palayamkottai, Haridwar). ](/news/2010/01/14/india-celebrates-the-thai-pongal-makar-sankranti-and-magh-bihu-harvest-festivals-in-places-around-the-country-palayamkottai-haridwar.md)
-_Context: Palayamkottai, Haridwar, Magh Bihu, India, Thai Pongal, harvest festival, Makar Sankranti_
+_Context: Thai Pongal, Makar Sankranti, Haridwar, Palayamkottai, Magh Bihu, harvest festival, India_
 
 ##### Two buses crash
 ### [40 people are killed after two buses crash head-on in one of Papua New Guinea's worst ever road accidents. ](/news/2010/01/14/40-people-are-killed-after-two-buses-crash-head-on-in-one-of-papua-new-guinea-s-worst-ever-road-accidents.md)
-_Context: two buses crash, Papua New Guinea_
+_Context: Papua New Guinea, two buses crash_
 
 ##### Stampede
 ### [Seven people die in a stampede at a religious festival on the Ganges in West Bengal, India. ](/news/2010/01/14/seven-people-die-in-a-stampede-at-a-religious-festival-on-the-ganges-in-west-bengal-india.md)
-_Context: Ganges, India, West Bengal, stampede_
+_Context: West Bengal, stampede, Ganges, India_
 
 ##### Venezuela
 ### [Venezuelan President Hugo Chavez partially reverses a decision to ration electricity in the country a day after it was announced, saying it was having "undesirable effects" on the population. Thus, Caracas residents won't have power cuts anymore. ](/news/2010/01/14/venezuelan-president-hugo-cha-vez-partially-reverses-a-decision-to-ration-electricity-in-the-country-a-day-after-it-was-announced-saying-it.md)
-_Context: Hugo Chavez, ration electricity, Venezuela, Caracas_
+_Context: Hugo Chavez, Venezuela, ration electricity, Caracas_
 
 ##### Guinea
 ### [The head of Guinea's junta Moussa Dadis Camara and interim leader General Sekouba Konate hold emergency talks with Burkina Faso's President Blaise Compaore. ](/news/2010/01/14/the-head-of-guinea-s-junta-moussa-dadis-camara-and-interim-leader-general-sa-c-kouba-konata-c-hold-emergency-talks-with-burkina-faso-s-presiden.md)
-_Context: Burkina Faso, Sekouba Konate, junta, Moussa Dadis Camara, Guinea, Blaise Compaore_
+_Context: junta, Moussa Dadis Camara, Sekouba Konate, Burkina Faso, Blaise Compaore, Guinea_
 
 ##### Mongolia
 ### [Mongolian President Tsakhiagiin Elbegdorj announces a moratorium on the death penalty, calling for it to be abolished. ](/news/2010/01/14/mongolian-president-tsakhiagiin-elbegdorj-announces-a-moratorium-on-the-death-penalty-calling-for-it-to-be-abolished.md)
@@ -33,7 +33,7 @@ Eight Irish people were among crew rescued from a sinking racing yacht after it 
 
 ##### Irish
 ### [A man is held in custody in Ireland after threatening that there was a bomb on board a transatlantic flight which had to land in an emergency at Shannon Airport. ](/news/2010/01/14/a-man-is-held-in-custody-in-ireland-after-threatening-that-there-was-a-bomb-on-board-a-transatlantic-flight-which-had-to-land-in-an-emergenc.md)
-_Context: Irish, Shannon Airport_
+_Context: Shannon Airport, Irish_
 
 ##### Taoiseach
 ### [Taoiseach Brian Cowen meets Prime Minister Gordon Brown in London for talks on the devolution process in Northern Ireland. ](/news/2010/01/14/taoiseach-brian-cowen-meets-prime-minister-gordon-brown-in-london-for-talks-on-the-devolution-process-in-northern-ireland.md)
@@ -41,7 +41,7 @@ Taoiseach Brian Cowen and British prime minister Gordon Brown Mr Brown played do
 
 ##### Afghanistan
 ### [A suicide bombing at a market in Afghanistan's Oruzgan Province kills 20 people. ](/news/2010/01/14/a-suicide-bombing-at-a-market-in-afghanistan-s-ora-zgan-province-kills-20-people.md)
-_Context: Oruzgan Province, Afghanistan_
+_Context: Afghanistan, Oruzgan Province_
 
 ## [Previous Day...](/news/2010/01/13/index.md)
 

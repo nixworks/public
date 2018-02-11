@@ -15,7 +15,7 @@ Belgian officials charge three men arrested in overnight raids with terrorism of
 ### [A week of heavy rains and flooding in south China results in at least 25 deaths, six people missing and 33,000 people displaced. ](/news/2016/06/18/a-week-of-heavy-rains-and-flooding-in-south-china-results-in-at-least-25-deaths-six-people-missing-and-33-000-people-displaced.md)
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 
-##### United States
+##### American
 ### [Six people are killed and 10 injured when a van crashes in the U.S. state of Virginia. ](/news/2016/06/18/six-people-are-killed-and-10-injured-when-a-van-crashes-in-the-u-s-state-of-virginia.md)
 Six people were killed in Virginia and 10 others hospitalized when the van in which they were riding hit another car and flipped over several times on a highway on Saturday, police said.
 
@@ -25,7 +25,7 @@ Thomas Mair gives his name as &quot;Death to traitors, freedom for Britain&quot;
 
 ##### Police officer
 ### [A 73-year-old gunman shoots dead a police officer, and seriously wounds another before shooting himself dead in Vihti, Finland. Finnish broadcaster Yle reports it is the first time a police officer in Finland has been killed in the line of duty since 2007. ](/news/2016/06/18/a-73-year-old-gunman-shoots-dead-a-police-officer-and-seriously-wounds-another-before-shooting-himself-dead-in-vihti-finland-finnish-broa.md)
-_Context: Yle, Finland, Vihti, police officer_
+_Context: Yle, Vihti, Finland, police officer_
 
 ##### Mohamed Morsi
 ### [Mohamed Morsi, former President of Egypt, is sentenced to life imprisonment and another 15 years for his role in allegedly leaking government secrets to Qatar. Six people, including two Al-Jazeera employees, are sentenced to death. ](/news/2016/06/18/mohamed-morsi-former-president-of-egypt-is-sentenced-to-life-imprisonment-and-another-15-years-for-his-role-in-allegedly-leaking-governmen.md)

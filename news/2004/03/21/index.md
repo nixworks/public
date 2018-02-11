@@ -5,23 +5,23 @@ Formats: [HTML](2004/03/21/index.html)  [JSON](2004/03/21/index.json)  [XML](200
 
 ##### Jimmy Carter
 ### [ Jimmy Carter, former US president and 2002 Nobel Peace Prize winner, vehemently condemns George W. Bush and Tony Blair for waging an unnecessary war "based upon lies and misinterpretations" in order to oust Saddam Hussein. He claims that Blair had allowed his better judgment to be swayed by Bush's desire to finish a war that his father had started. ](/news/2004/03/21/jimmy-carter-former-us-president-and-2002-nobel-peace-prize-winner-vehemently-condemns-george-w-bush-and-tony-blair-for-waging-an-unnece.md)
-_Context: George W. Bush, Saddam Hussein, Nobel Peace Prize, Jimmy Carter, Tony Blair, George H. W. Bush_
+_Context: Nobel Peace Prize, George H. W. Bush, George W. Bush, Tony Blair, Saddam Hussein, Jimmy Carter_
 
 ##### Malaysian general election
 ### [ Malaysian general election: Secular ruling coalition Barisan Nasional wins a two-thirds majority and wrests back the state of Terengganu from Islamist party PAS. A recount is pending for the closely contested state of Kelantan. ](/news/2004/03/21/malaysian-general-election-secular-ruling-coalition-barisan-nasional-wins-a-two-thirds-majority-and-wrests-back-the-state-of-terengganu-fr.md)
-_Context: PAS, Terengganu, Barisan Nasional, Malaysian general election, Kelantan_
+_Context: Terengganu, Kelantan, Malaysian general election, PAS, Barisan Nasional_
 
 ##### Malaysian Grand Prix
 ### [ The second race of the 2004 Formula One championship, in Malaysia, is won by Michael Schumacher. ](/news/2004/03/21/the-second-race-of-the-2004-formula-one-championship-in-malaysia-is-won-by-michael-schumacher.md)
-_Context: Formula One, Malaysia, Malaysian Grand Prix, Michael Schumacher_
+_Context: Malaysian Grand Prix, Michael Schumacher, Formula One, Malaysia_
 
 ##### Mauna Loa
 ### [ Measurements taken at Mauna Loa Observatory show carbon dioxide readings of 379 parts per million, up by 3 ppm in one year; average increase for the past decade has been 1.8 ppm. The reason for this accelerated buildup in a greenhouse gas requires further analysis. ](/news/2004/03/21/measurements-taken-at-mauna-loa-observatory-show-carbon-dioxide-readings-of-379-parts-per-million-up-by-3-ppm-in-one-year-average-increas.md)
-_Context: greenhouse gas, Mauna Loa, carbon dioxide_
+_Context: Mauna Loa, carbon dioxide, greenhouse gas_
 
 ##### Al-Qaeda
 ### [ Al-Qaeda claims to have purchased "smart briefcase bombs" with nuclear capabilities on the black market. ](/news/2004/03/21/al-qaeda-claims-to-have-purchased-smart-briefcase-bombs-with-nuclear-capabilities-on-the-black-market.md)
-_Context: nuclear war, al-Qaeda, black market_
+_Context: al-Qaeda, nuclear war, black market_
 
 ##### Salvadoran presidential election
 ### [ Salvadoran presidential election: Voting takes place to elect a new president of El Salvador. ](/news/2004/03/21/salvadoran-presidential-election-voting-takes-place-to-elect-a-new-president-of-el-salvador.md)

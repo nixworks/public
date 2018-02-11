@@ -5,7 +5,7 @@ Formats: [HTML](2007/05/12/index.html)  [JSON](2007/05/12/index.json)  [XML](200
 
 ##### Guinea
 ### [ Guinean soldiers riot in the capital Conakry after the President of Guinea Lansana Conte fails to attend a meeting to discuss grievances over their pay and conditions. ](/news/2007/05/12/guinean-soldiers-riot-in-the-capital-conakry-after-the-president-of-guinea-lansana-conta-c-fails-to-attend-a-meeting-to-discuss-grievances-o.md)
-_Context: Lansana Conte, Guinea, Conakry, President of Guinea_
+_Context: Lansana Conte, Guinea, President of Guinea, Conakry_
 
 ##### Izmir
 ### [ A bomb placed on a bicycle was detonated in a bazaar in Izmir, Turkey wounding fifteen people just a day before the scheduled "republic protest" in the city. One of the wounded was in a critical condition and later died in the hospital while most of the others were lightly wounded and were released from the hospital the same day. ](/news/2007/05/12/a-bomb-placed-on-a-bicycle-was-detonated-in-a-bazaar-in-adegzmir-turkey-wounding-fifteen-people-just-a-day-before-the-scheduled-republic-pr.md)
@@ -13,19 +13,19 @@ _Context: Turkey, fifth mass rally, Izmir_
 
 ##### Muttahida Qaumi Movement
 ### [ At least 33 people are killed and 120 are injured in violent protests organized by the political organization Muttahida Qaumi Movement (led by exiled Altaf Hussain) in the Pakistani city of Karachi. ](/news/2007/05/12/at-least-33-people-are-killed-and-120-are-injured-in-violent-protests-organized-by-the-political-organization-muttahida-qaumi-movement-led.md)
-_Context: Muttahida Qaumi Movement, Pakistan, Karachi, Altaf Hussain_
+_Context: Altaf Hussain, Pakistan, Muttahida Qaumi Movement, Karachi_
 
 ##### 2007 Eurovision Song Contest
 ### [ The final of the 2007 Eurovision Song Contest takes place in Helsinki, Finland. Serbia wins with its debut entry "Molitva". ](/news/2007/05/12/the-final-of-the-2007-eurovision-song-contest-takes-place-in-helsinki-finland-serbia-wins-with-its-debut-entry-molitva.md)
-_Context: Helsinki, Finland, Molitva, 2007 Eurovision Song Contest, Serbia_
+_Context: Helsinki, 2007 Eurovision Song Contest, Serbia, Finland, Molitva_
 
 ##### Su Tseng-Chang
 ### [ Su Tseng-Chang resigns as the Premier of the Republic of China (Taiwan) following a loss in a primary election to be the Democratic Progressive Party candidate in the 2008 Taiwanese presidential election. ](/news/2007/05/12/su-tseng-chang-resigns-as-the-premier-of-the-republic-of-china-taiwan-following-a-loss-in-a-primary-election-to-be-the-democratic-progres.md)
-_Context: primary election, Su Tseng-Chang, Democratic Progressive Party, 2008 presidential election, Premier_
+_Context: Su Tseng-Chang, Democratic Progressive Party, primary election, Premier, 2008 presidential election_
 
 ##### Armenia
 ### [ Voters in Armenia go to the polls to elect a new National Assembly of Armenia. ](/news/2007/05/12/voters-in-armenia-go-to-the-polls-to-elect-a-new-national-assembly-of-armenia.md)
-_Context: elect, National Assembly of Armenia, Armenia_
+_Context: Armenia, National Assembly of Armenia, elect_
 
 ## [Previous Day...](/news/2007/05/11/index.md)
 

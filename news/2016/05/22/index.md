@@ -41,15 +41,15 @@ Mexican authorities say a total of six men were killed in shootings at two night
 
 ##### Austrian presidential election, 2016
 ### [The second round of voting takes place to elect either Norbert Hofer or Alexander Van der Bellen as President of Austria. ](/news/2016/05/22/the-second-round-of-voting-takes-place-to-elect-either-norbert-hofer-or-alexander-van-der-bellen-as-president-of-austria.md)
-_Context: President, second round, Austrian presidential election, 2016, Norbert Hofer, Alexander Van der Bellen_
+_Context: Alexander Van der Bellen, Norbert Hofer, second round, President, Austrian presidential election, 2016_
 
 ##### Vietnamese legislative election, 2016
 ### [Voters in Vietnam go to the polls to choose legislators for its Parliament. The only legal party in the country is the Communist Party, which has already chosen its members. ](/news/2016/05/22/voters-in-vietnam-go-to-the-polls-to-choose-legislators-for-its-parliament-the-only-legal-party-in-the-country-is-the-communist-party-whic.md)
-_Context: Communist Party, Vietnamese legislative election, 2016, Vietnam, Parliament_
+_Context: Communist Party, Vietnam, Vietnamese legislative election, 2016, Parliament_
 
 ##### Tajikistani constitutional referendum, 2016
 ### [Voters in Tajikistan go to the polls for a referendum to make various amendments to the constitution which include, among other things, the elimination of term limits to allow President Emomali Rahmon and only him to run again for office and lowering the presidential age limit from 35 to 30, which observers believe will position Rahmon's son Rustam Emomali for future succession. ](/news/2016/05/22/voters-in-tajikistan-go-to-the-polls-for-a-referendum-to-make-various-amendments-to-the-constitution-which-include-among-other-things-the.md)
-_Context: Emomali Rahmon, Tajikistan, constitution, Tajikistani constitutional referendum, 2016, President_
+_Context: Emomali Rahmon, Tajikistan, Tajikistani constitutional referendum, 2016, constitution, President_
 
 ##### NASA
 ### [NASA projects that 2016 will have the warmest global temperature average on record. This year would be the third record-breaking year in a row. Per NOAA annals, April marked the 12th record warmest month in a row. ](/news/2016/05/22/nasa-projects-that-2016-will-have-the-warmest-global-temperature-average-on-record-this-year-would-be-the-third-record-breaking-year-in-a-r.md)

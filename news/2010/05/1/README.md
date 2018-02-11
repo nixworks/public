@@ -17,7 +17,7 @@ _Context: Nazimiye, Turkey_
 
 ##### Thoroughbred racing
 ### [In thoroughbred racing, Super Saver, ridden by Calvin Borel, wins the 2010 Kentucky Derby. ](/news/2010/05/1/in-thoroughbred-racing-super-saver-ridden-by-calvin-borel-wins-the-2010-kentucky-derby.md)
-_Context: thoroughbred racing, Calvin Borel, Super Saver, 2010 Kentucky Derby_
+_Context: 2010 Kentucky Derby, Super Saver, Calvin Borel, thoroughbred racing_
 
 ##### Nalchik
 ### [At least one person is killed and 21 others are injured at a horse race in Nalchik, Kabardino-Balkaria. ](/news/2010/05/1/at-least-one-person-is-killed-and-21-others-are-injured-at-a-horse-race-in-nalchik-kabardino-balkaria.md)
@@ -29,7 +29,7 @@ Five killed and 10 wounded in attack in Swat valley town of Mingora.
 
 ##### Johnson & Johnson
 ### [Johnson & Johnson announces the recall of 43 over-the-counter medicines intended for infants and children, affecting the United States and nine other markets. ](/news/2010/05/1/johnson-johnson-announces-the-recall-of-43-over-the-counter-medicines-intended-for-infants-and-children-affecting-the-united-states-and-n.md)
-_Context: United States, Johnson & Johnson_
+_Context: Johnson & Johnson, American_
 
 ##### Kathmandu
 ### [At least 150,000 people gather in Kathmandu to support Maoists who want the Prime Minister to resign; a general strike is called for on Sunday, May 2. ](/news/2010/05/1/at-least-150-000-people-gather-in-kathmandu-to-support-maoists-who-want-the-prime-minister-to-resign-a-general-strike-is-called-for-on-sund.md)
@@ -69,7 +69,7 @@ Rising rates of obesity among young Americans could pose a risk to the future of
 
 ##### Taipei
 ### [A Taipei-Shanghai flight makes an emergency landing in Hangzhou after an American passenger makes an inappropriate reference to a bomb. ](/news/2010/05/1/a-taipei-shanghai-flight-makes-an-emergency-landing-in-hangzhou-after-an-american-passenger-makes-an-inappropriate-reference-to-a-bomb.md)
-_Context: Taipei, Hangzhou, United States, Shanghai_
+_Context: Taipei, American, Hangzhou, Shanghai_
 
 ##### Boston
 ### [A major pipe rupture in Weston, Massachusetts leaves up to 2 million people in the Greater Boston area without drinkable tap water for 59 hours. ](/news/2010/05/1/a-major-pipe-rupture-in-weston-massachusetts-leaves-up-to-2-million-people-in-the-greater-boston-area-without-drinkable-tap-water-for-59-ho.md)

@@ -29,7 +29,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Schleswig-Holstein
 ### [Voters in Schleswig-Holstein go to the polls for a state election with the governing coalition of CDU and FDP losing their majority, paving the way for a coalition between SPD, The Greens and the Danish minority's SSW. ](/news/2012/05/6/voters-in-schleswig-holstein-go-to-the-polls-for-a-state-election-with-the-governing-coalition-of-cdu-and-fdp-losing-their-majority-paving.md)
-_Context: FDP, Christian Democratic Union, Schleswig-Holstein, state election, Greens, SSW, SPD, Danish minority's_
+_Context: Schleswig-Holstein, Christian Democratic Union, Danish minority's, SSW, FDP, SPD, state election, Greens_
 
 ## [Previous Day...](/news/2012/05/5/index.md)
 

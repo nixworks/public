@@ -27,9 +27,9 @@ An Air Algerie flight crashed on Thursday en route from Ouagadougou in Burkina F
 ### [Eighteen people including 16 schoolchildren die after a train collides with a bus in the Medak district of the Indian state of Telangana. ](/news/2014/07/24/eighteen-people-including-16-schoolchildren-die-after-a-train-collides-with-a-bus-in-the-medak-district-of-the-indian-state-of-telangana.md)
 Mangled remains of a school bus with blood stains on it, strewn bags, tiffin boxes, notebooks and text books was all it remained on the accident site of the bus-train collision in which 18 persons, including 16 school children, were killed in
 
-##### United States
+##### American
 ### [The United States Federal Aviation Administration lifts its ban on aircraft travelling to and from Israel imposed due to concerns about Hamas rockets. ](/news/2014/07/24/the-united-states-federal-aviation-administration-lifts-its-ban-on-aircraft-travelling-to-and-from-israel-imposed-due-to-concerns-about-hama.md)
-_Context: United States, Hamas, Israel, Federal Aviation Administration_
+_Context: Federal Aviation Administration, Israel, American, Hamas_
 
 ##### American
 ### [Three American citizens have been detained in Iran this week including "Washington Post" correspondent Jason Rezaian. Rezaian's Iranian wife Yeganeh Salehi has also been detained. ](/news/2014/07/24/three-american-citizens-have-been-detained-in-iran-this-week-including-washington-post-correspondent-jason-rezaian-rezaian-s-iranian-wife.md)

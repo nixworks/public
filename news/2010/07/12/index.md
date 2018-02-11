@@ -13,7 +13,7 @@ Afghan rights group says current year has been the most violent since US-led inv
 
 ##### Opens fire
 ### [A gunman opens fire at a fiber optics plant in Albuquerque, New Mexico, killing two and wounding four before committing suicide. ](/news/2010/07/12/a-gunman-opens-fire-at-a-fiber-optics-plant-in-albuquerque-new-mexico-killing-two-and-wounding-four-before-committing-suicide.md)
-_Context: opens fire, suicide, Albuquerque, New Mexico, New Mexico, fiber optics_
+_Context: suicide, New Mexico, opens fire, fiber optics, Albuquerque, New Mexico_
 
 ##### German
 ### [At least eight people are injured after a tornado strikes the German island of Duene in the North Sea. ](/news/2010/07/12/at-least-eight-people-are-injured-after-a-tornado-strikes-the-german-island-of-duene-in-the-north-sea.md)
@@ -31,7 +31,7 @@ The Ministry of Defence unveils its new prototype stealthy unmanned combat air v
 ### [An Israeli military probe into the naval raid on the Gaza-bound flotilla praises the naval commandos who killed eight Turks and one Turkish-American but criticises poor Israeli intelligence that did not have a sufficient backup plan for its troops in the event that the Flotilla's passengers reacted violently to the raid. ](/news/2010/07/12/an-israeli-military-probe-into-the-naval-raid-on-the-gaza-bound-flotilla-praises-the-naval-commandos-who-killed-eight-turks-and-one-turkish.md)
 The killing of nine Turks in a raid on a Gaza-bound flotilla last month followed intelligence and planning &quot;mistakes&quot;, according to an Israel Defence Force (IDF)-commissioned report.
 
-##### United States
+##### American
 ### [The United States is pleased after Russia suggests Iran could build a nuclear weapon in future, an unusual admission from Moscow. ](/news/2010/07/12/the-united-states-is-pleased-after-russia-suggests-iran-could-build-a-nuclear-weapon-in-future-an-unusual-admission-from-moscow.md)
 Russian President Dmitry Medvedev said on Monday Iran was gaining the ability to build a nuclear bomb, remarks welcomed in Washington as a sign of growing international unity behind a tough line toward Tehran.
 
@@ -61,7 +61,7 @@ The International Criminal Court (ICC) yesterday charged Sudanese President Omar
 
 ##### Cuba
 ### [Cuba releases 7 political prisoners and sends them into exile in Spain, the first in a wave of 52. ](/news/2010/07/12/cuba-releases-7-political-prisoners-and-sends-them-into-exile-in-spain-the-first-in-a-wave-of-52.md)
-_Context: political prisoner, Cuba, exile_
+_Context: Cuba, exile, political prisoner_
 
 ##### Italy
 ### [Italian military police general Giampaolo Ganzer is sentenced to 14 years imprisonment and fined EUR65,000 for drug smuggling between 1991 and 1997. ](/news/2010/07/12/italian-military-police-general-giampaolo-ganzer-is-sentenced-to-14-years-imprisonment-and-fined-a-65-000-for-drug-smuggling-between-1991-a.md)
@@ -77,11 +77,11 @@ Two men who organised a controversial art exhibition in Moscow are found guilty 
 
 ##### Jon Bon Jovi
 ### [Singer Jon Bon Jovi opts to continue with Bon Jovi's world concert tour despite tearing his calf muscle at the end of a concert in New Jersey. ](/news/2010/07/12/singer-jon-bon-jovi-opts-to-continue-with-bon-jovi-s-world-concert-tour-despite-tearing-his-calf-muscle-at-the-end-of-a-concert-in-new-jerse.md)
-_Context: Bon Jovi, Jon Bon Jovi, New Jersey_
+_Context: Bon Jovi, New Jersey, Jon Bon Jovi_
 
 ##### Spain
 ### [Spain's victorious 2010 FIFA World Cup "campeones" return to Madrid where they are met by millions of people in the streets, the royal family and politicians. ](/news/2010/07/12/spain-s-victorious-2010-fifa-world-cup-campeones-return-to-madrid-where-they-are-met-by-millions-of-people-in-the-streets-the-royal-famil.md)
-_Context: 2010 FIFA World Cup, Spain, 2010 FIFA World Cup Final, Madrid_
+_Context: Madrid, 2010 FIFA World Cup, Spain, 2010 FIFA World Cup Final_
 
 ##### Paul the Octopus
 ### [Paul the Octopus retires. ](/news/2010/07/12/paul-the-octopus-retires.md)

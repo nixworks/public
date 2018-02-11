@@ -13,7 +13,7 @@ _Context: Colombo, Sri Lanka, bus_
 
 ##### Gaston Flosse
 ### [ Gaston Flosse is elected President of French Polynesia after a deal with Oscar Temaru. ](/news/2008/02/23/gaston-flosse-is-elected-president-of-french-polynesia-after-a-deal-with-oscar-temaru.md)
-_Context: President, Gaston Flosse, Oscar Temaru_
+_Context: Oscar Temaru, Gaston Flosse, President_
 
 ## [Previous Day...](/news/2008/02/22/index.md)
 

@@ -19,13 +19,13 @@ Seven people - mainly members of the security forces - are killed in a blast in 
 ### [The People's Republic of China's People's Liberation Army Navy's first aircraft carrier, the "Liaoning", commences service. ](/news/2012/09/25/the-people-s-republic-of-china-s-people-s-liberation-army-navy-s-first-aircraft-carrier-the-liaoning-commences-service.md)
 China says its first aircraft carrier - a refurbished Soviet ship - has entered into service, expanding its ability to defend its sovereignty.
 
-##### United States
+##### American
 ### [American singer Andy Williams dies at the age of 84 at his home in Branson, Missouri. ](/news/2012/09/25/american-singer-andy-williams-dies-at-the-age-of-84-at-his-home-in-branson-missouri.md)
-_Context: Branson, Missouri, United States, Andy Williams_
+_Context: American, Andy Williams, Branson, Missouri_
 
 ##### Magnitude
 ### [A 6.2-magnitude earthquake hits near the Baja California peninsula with no immediate reports of injuries or damage. ](/news/2012/09/25/a-6-2-magnitude-earthquake-hits-near-the-baja-california-peninsula-with-no-immediate-reports-of-injuries-or-damage.md)
-_Context: magnitude, Baja California peninsula_
+_Context: Baja California peninsula, magnitude_
 
 ##### World Health Organisation
 ### [The World Health Organisation announces a global alert and is investigating the case of a novel coronavirus found in a Qatari man returning from Saudi Arabia. ](/news/2012/09/25/the-world-health-organisation-announces-a-global-alert-and-is-investigating-the-case-of-a-novel-coronavirus-found-in-a-qatari-man-returning.md)
@@ -33,7 +33,7 @@ _Context: magnitude, Baja California peninsula_
 
 ##### Taiwan
 ### [Over 50 Taiwanese ships clash with ships from the Japan Coast Guard in waters off the Senkaku Islands. ](/news/2012/09/25/over-50-taiwanese-ships-clash-with-ships-from-the-japan-coast-guard-in-waters-off-the-senkaku-islands.md)
-_Context: Japan Coast Guard, Senkaku Islands, Taiwan_
+_Context: Japan Coast Guard, Taiwan, Senkaku Islands_
 
 ##### South Korea
 ### [South Korea expresses concern over China's plan to monitor the disputed Socotra Rock area with unmanned drones. ](/news/2012/09/25/south-korea-expresses-concern-over-china-s-plan-to-monitor-the-disputed-socotra-rock-area-with-unmanned-drones.md)
@@ -41,11 +41,11 @@ SEOUL, Sept. 25 (Yonhap) -- South Korea is seeking to verify media reports that 
 
 ##### Tsuyoshi Kikukawa
 ### [Tsuyoshi Kikukawa, the former President of Japan's Olympus Corporation, pleads guilty to fraud for his role in the Olympus scandal. ](/news/2012/09/25/tsuyoshi-kikukawa-the-former-president-of-japan-s-olympus-corporation-pleads-guilty-to-fraud-for-his-role-in-the-olympus-scandal.md)
-_Context: Japan, Olympus scandal, Olympus Corp, Tsuyoshi Kikukawa_
+_Context: Olympus scandal, Japan, Olympus Corp, Tsuyoshi Kikukawa_
 
 ##### Enough Project
 ### [Activists from the Enough Project reveal through "The Guardian" newspaper that Omar al-Bashir's Sudan and Joseph Kabila's DR Congo together received 2.4 million pound sterling (around USD 4 million) in British military aid, in the last five years alone. ](/news/2012/09/25/activists-from-the-enough-project-reveal-through-the-guardian-newspaper-that-omar-al-bashir-s-sudan-and-joseph-kabila-s-dr-congo-together.md)
-_Context: Enough Project, military aid, DR Congo, Kabila government, Sudan, Omar al-Bashir, pound sterling, United Kingdom, $, The Guardian_
+_Context: DR Congo, Sudan, pound sterling, Omar al-Bashir, military aid, $, United Kingdom, Kabila government, The Guardian, Enough Project_
 
 ##### Clash
 ### [Protestors and police clash in Madrid over Spanish anti-austerity measures. ](/news/2012/09/25/protestors-and-police-clash-in-madrid-over-spanish-anti-austerity-measures.md)
@@ -53,7 +53,7 @@ Spanish police ringing parliament in Madrid fire rubber bullets at protesters ta
 
 ##### Anouchka van Miltenburg
 ### [Anouchka van Miltenburg of the People's Party for Freedom and Democracy (VVD) is elected as President of the House of Representatives of the Netherlands, giving the VVD the "Big Three" in Dutch politics: Prime Minister, President of the Senate and President of the House of Representatives. ](/news/2012/09/25/anouchka-van-miltenburg-of-the-people-s-party-for-freedom-and-democracy-vvd-is-elected-as-president-of-the-house-of-representatives-of-the.md)
-_Context: VVD, Politics of the Netherlands, President of the House of Representatives of the Netherlands, Prime Minister, Anouchka van Miltenburg, President of the Senate_
+_Context: President of the Senate, Politics of the Netherlands, President of the House of Representatives of the Netherlands, Anouchka van Miltenburg, VVD, Prime Minister_
 
 ## [Previous Day...](/news/2012/09/24/index.md)
 

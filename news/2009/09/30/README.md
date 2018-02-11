@@ -5,7 +5,7 @@ Formats: [HTML](2009/09/30/index.html)  [JSON](2009/09/30/index.json)  [XML](200
 
 ##### The deadly tsunami
 ### [ The death toll from an earthquake and tsunami in the Samoan Islands region in the South Pacific rises to at least 113. ](/news/2009/09/30/the-death-toll-from-an-earthquake-and-tsunami-in-the-samoan-islands-region-in-the-south-pacific-rises-to-at-least-113.md)
-_Context: the deadly tsunami, South Pacific Ocean, Samoan Islands, tsunami_
+_Context: the deadly tsunami, Samoan Islands, tsunami, South Pacific Ocean_
 
 ##### Magnitude
 ### [ A 7.6 magnitude earthquake strikes western Indonesia, killing at least 75 and trapping thousands of people under rubble. ](/news/2009/09/30/a-7-6-magnitude-earthquake-strikes-western-indonesia-killing-at-least-75-and-trapping-thousands-of-people-under-rubble.md)
@@ -13,11 +13,11 @@ _Context: Indonesia, magnitude, earthquake_
 
 ##### Guinea
 ### [ Guinea's military leader Captain Moussa Dadis Camara bans all "subversive" gatherings and demonstrations in the aftermath of opposition protests. ](/news/2009/09/30/guinea-s-military-leader-captain-moussa-dadis-camara-bans-all-subversive-gatherings-and-demonstrations-in-the-aftermath-of-opposition-pro.md)
-_Context: massacre of opposition protesters, Moussa Dadis Camara, Guinea_
+_Context: Moussa Dadis Camara, Guinea, massacre of opposition protesters_
 
-##### United States
+##### American
 ### [ Diplomatic officials from the United States and Burma hold their first high level meetings in New York City. ](/news/2009/09/30/diplomatic-officials-from-the-united-states-and-burma-hold-their-first-high-level-meetings-in-new-york-city.md)
-_Context: Burma, New York City, United States_
+_Context: Burma, American, New York City_
 
 ##### Church
 ### [ 24 people are killed and 62 injured after a church collapses in Nepal. ](/news/2009/09/30/24-people-are-killed-and-62-injured-after-a-church-collapses-in-nepal.md)
@@ -25,9 +25,9 @@ _Context: church, Nepal_
 
 ##### Typhoon Ketsana
 ### [ The death toll from Typhoon Ketsana across Southeast Asia rises to 300. ](/news/2009/09/30/the-death-toll-from-typhoon-ketsana-across-southeast-asia-rises-to-300.md)
-_Context: Asia, Typhoon Ketsana_
+_Context: Typhoon Ketsana, Asia_
 
-##### United States
+##### American
 ### [ The United States is to withdraw 4,000 troops from Iraq by the end of October. ](/news/2009/09/30/the-united-states-is-to-withdraw-4-000-troops-from-iraq-by-the-end-of-october.md)
 US commander Odierno says 4,000 troops will be sent home by the end October.
 
@@ -41,7 +41,7 @@ _Context: 2008 South Ossetia war, international fact-finding mission,  Georgian_
 
 ##### President
 ### [ Former President of Peru Alberto Fujimori is sentenced to six years in jail for corruption by a court in Lima. ](/news/2009/09/30/former-president-of-peru-alberto-fujimori-is-sentenced-to-six-years-in-jail-for-corruption-by-a-court-in-lima.md)
-_Context: Peru, President, Alberto Fujimori, Lima_
+_Context: Alberto Fujimori, Lima, Peru, President_
 
 ## [Previous Day...](/news/2009/09/29/index.md)
 

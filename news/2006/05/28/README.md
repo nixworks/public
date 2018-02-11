@@ -9,7 +9,7 @@ _Context: Italy, Lewis Brooke Miskell, Canadian, Naples_
 
 ##### Comoros
 ### [ Comoros volcano Mount Karthala erupts. ](/news/2006/05/28/comoros-volcano-mount-karthala-erupts.md)
-_Context: Mount Karthala, Comoros_
+_Context: Comoros, Mount Karthala_
 
 ## [Previous Day...](/news/2006/05/27/index.md)
 

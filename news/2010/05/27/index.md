@@ -13,11 +13,11 @@ The death toll in a bombing in the southern Russia city of Stavropol has risen t
 
 ##### Deepwater Horizon oil spill
 ### [The Gulf of Mexico oil spill is now the worst oil spill in U.S. history, surpassing the worst previous spill, the Exxon Valdez wreck on the Alaska coast in 1989, according to scientists' latest estimates. ](/news/2010/05/27/the-gulf-of-mexico-oil-spill-is-now-the-worst-oil-spill-in-u-s-history-surpassing-the-worst-previous-spill-the-exxon-valdez-wreck-on-the.md)
-_Context: Exxon Valdez, Alaska, Deepwater Horizon oil spill_
+_Context: Alaska, Deepwater Horizon oil spill, Exxon Valdez_
 
 ##### Yemen
 ### [A US-born Yemenite cleric linked to Al-Qaeda, Anwar Al-Awlaki, advocates the killing of US civilians in a new Al Qaeda video. ](/news/2010/05/27/a-us-born-yemenite-cleric-linked-to-al-qaeda-anwar-al-awlaki-advocates-the-killing-of-us-civilians-in-a-new-al-qaeda-video.md)
-_Context: Anwar Al-Awlaki, al-Qaeda, Yemen_
+_Context: Yemen, Anwar Al-Awlaki, al-Qaeda_
 
 ##### LGBT rights
 ### [Two campaigners for LGBT rights in Zimbabwe are freed after spending six days in custody on charges of possessing pornographic material and insulting President Robert Mugabe. ](/news/2010/05/27/two-campaigners-for-lgbt-rights-in-zimbabwe-are-freed-after-spending-six-days-in-custody-on-charges-of-possessing-pornographic-material-and.md)
@@ -73,7 +73,7 @@ _Context: Spain_
 
 ##### French Polynesia
 ### [French Polynesia Vice President Edouard Fritch is arrested in a bribery probe. ](/news/2010/05/27/french-polynesia-vice-president-edouard-fritch-is-arrested-in-a-bribery-probe.md)
-_Context: Edouard Fritch, bribes, Vice President, French Polynesia_
+_Context: bribes, Vice President, French Polynesia, Edouard Fritch_
 
 ##### Peter James Bethune
 ### [Peter James Bethune, a New Zealand anti-whaling campaigner, pleads guilty to four charges over his alleged attacks on the Japanese whaling vessel MV "Shonan Maru 2" in February. ](/news/2010/05/27/peter-james-bethune-a-new-zealand-anti-whaling-campaigner-pleads-guilty-to-four-charges-over-his-alleged-attacks-on-the-japanese-whaling-v.md)

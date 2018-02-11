@@ -9,7 +9,7 @@ Observatory for Human Rights confirms ambush on three checkpoints around norther
 
 ##### ComScore
 ### [Internet analytics company ComScore says Google's Gmail has edged out Microsoft's Hotmail as the world's top e-mail service. ](/news/2012/11/1/internet-analytics-company-comscore-says-google-s-gmail-has-edged-out-microsoft-s-hotmail-as-the-world-s-top-e-mail-service.md)
-_Context: Hotmail, Microsoft, ComScore, Gmail, e-mail, Google_
+_Context: Google, e-mail, ComScore, Gmail, Hotmail, Microsoft_
 
 ##### Hurricane Sandy
 ### [The death toll in the U.S. attributed to Hurricane Sandy rises to at least 90, nearly half in New York City, as millions of people in the Northeastern United States continue to deal with power outages, gasoline shortages and sparse public transportation. ](/news/2012/11/1/the-death-toll-in-the-u-s-attributed-to-hurricane-sandy-rises-to-at-least-90-nearly-half-in-new-york-city-as-millions-of-people-in-the-no.md)
@@ -25,7 +25,7 @@ _Context: Darfur, Yellow fever, Sudan_
 
 ##### President of Indonesia
 ### [President of Indonesia Susilo Bambang Yudhoyono receives a medal of Knighthood of the Order of the Bath from Queen Elizabeth II. ](/news/2012/11/1/president-of-indonesia-susilo-bambang-yudhoyono-receives-a-medal-of-knighthood-of-the-order-of-the-bath-from-queen-elizabeth-ii.md)
-_Context: President of Indonesia, Order of the Bath, Queen Elizabeth II, Susilo Bambang Yudhoyono_
+_Context: Order of the Bath, Susilo Bambang Yudhoyono, President of Indonesia, Queen Elizabeth II_
 
 ##### Stoned to death
 ### [Parents kill their 15-year-old daughter in an "honour killing" by pouring acid on her after seeing her talking to a young man, in Azad Kashmir, Pakistan. ](/news/2012/11/1/parents-kill-their-15-year-old-daughter-in-an-ahonour-killinga-by-pouring-acid-on-her-after-seeing-her-talking-to-a-young-man-in-azad-k.md)
@@ -37,7 +37,7 @@ _Context: Evin prison, Iranian human rights, Nasrin Sotoudeh_
 
 ##### Perjury
 ### [Charges of perjury and child endangerment, among others, are filed against former Penn State President Graham Spanier and two other administrators in connection with the Penn State scandal involving imprisoned former football coach Jerry Sandusky; new charges also are filed against Athletic Director Tim Curley and retired Vice President Gary Schultz, who are already under arrest on perjury and failure to report child abuse charges. ](/news/2012/11/1/charges-of-perjury-and-child-endangerment-among-others-are-filed-against-former-penn-state-president-graham-spanier-and-two-other-administ.md)
-_Context: Pennsylvania State University, Jerry Sandusky, perjury, Penn State child sex abuse scandal, Graham Spanier, child endangerment, Tim Curley, child abuse_
+_Context: perjury, Pennsylvania State University, Graham Spanier, Tim Curley, child endangerment, Jerry Sandusky, child abuse, Penn State child sex abuse scandal_
 
 ##### Prison officer
 ### [A prison officer is killed in an ambush by dissident Irish republicans as he drives to work along Northern Ireland's M1 motorway. The officer, who worked at the province's Maghaberry Prison, is the first member of the Northern Ireland Prison Service to be killed in such an attack in 20 years. ](/news/2012/11/1/a-prison-officer-is-killed-in-an-ambush-by-dissident-irish-republicans-as-he-drives-to-work-along-northern-ireland-s-m1-motorway-the-office.md)

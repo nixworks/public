@@ -5,35 +5,35 @@ Formats: [HTML](2009/05/28/index.html)  [JSON](2009/05/28/index.json)  [XML](200
 
 ##### General Motors
 ### [ General Motors asks Germany to indebt its subsidiary automakers Opel and Vauxhall Motors. ](/news/2009/05/28/general-motors-asks-germany-to-indebt-its-subsidiary-automakers-opel-and-vauxhall-motors.md)
-_Context: indebt, German, Vauxhall Motors, General Motors, automakers, subsidiary, Opel_
+_Context: Opel, indebt, automakers, subsidiary, General Motors, Vauxhall Motors, German_
 
 ##### Bus
 ### [ Sixteen people are killed and more than 20 injured when a bus crashes near Yambol, Bulgaria. ](/news/2009/05/28/sixteen-people-are-killed-and-more-than-20-injured-when-a-bus-crashes-near-yambol-bulgaria.md)
-_Context: bus, crashes, Bulgaria, Yambol_
+_Context: Bulgaria, crashes, bus, Yambol_
 
 ##### Person of interest
 ### [ Raymond Hewlett, a person of interest in Madeleine McCann's disappearance, gives the West Yorkshire Police a DNA sample for testing. ](/news/2009/05/28/raymond-hewlett-a-person-of-interest-in-madeleine-mccann-s-disappearance-gives-the-west-yorkshire-police-a-dna-sample-for-testing.md)
-_Context: West Yorkshire Police, DNA profiling, DNA, Madeleine McCann's disappearance, person of interest, West Yorkshire_
+_Context: person of interest, West Yorkshire, Madeleine McCann's disappearance, West Yorkshire Police, DNA profiling, DNA_
 
 ##### Chile
 ### [ Former Chilean Army conscript Jos Adolfo Paredes Mrquez is charged with murdering activist-singer Vctor Jara during General Augusto Pinochet's coup d'tat in 1973. ](/news/2009/05/28/former-chilean-army-conscript-jose-adolfo-paredes-marquez-is-charged-with-murdering-activist-singer-victor-jara-during-general-augusto-pino.md)
-_Context: Chile, Augusto Pinochet, activist, general, 1973 Chilean coup d'tat, Army, murder, 1973, Vctor Jara, conscript, singer_
+_Context: Augusto Pinochet, 1973 Chilean coup d'tat, activist, murder, Army, 1973, general, Vctor Jara, singer, Chile, conscript_
 
-##### United States
+##### American
 ### [ United States Secretary of State Hillary Clinton reaffirms President Barack Obama's demand that Israel halt settlement in the West Bank. ](/news/2009/05/28/united-states-secretary-of-state-hillary-clinton-reaffirms-president-barack-obama-s-demand-that-israel-halt-settlement-in-the-west-bank.md)
-_Context: Barack Obama, U.S. President, Hillary Clinton, United States Secretary of State, West Bank, United States, Israel, Israeli settlement_
+_Context: Israel, Barack Obama, American, West Bank, Israeli settlement, Hillary Clinton, U.S. President, United States Secretary of State_
 
 ##### Magnitude
 ### [ A 7.1-magnitude earthquake occurs in the Gulf of Honduras. ](/news/2009/05/28/a-7-1-magnitude-earthquake-occurs-in-the-gulf-of-honduras.md)
-_Context: Gulf of Honduras, earthquake, magnitude_
+_Context: earthquake, Gulf of Honduras, magnitude_
 
 ##### Bomb
 ### [ Two bombs kill eight people and injure 74 others in Peshawar, Pakistan. ](/news/2009/05/28/two-bombs-kill-eight-people-and-injure-74-others-in-peshawar-pakistan.md)
-_Context: Pakistan, bomb, Peshawar, War in North-West Pakistan_
+_Context: Pakistan, War in North-West Pakistan, Peshawar, bomb_
 
-##### United States
+##### American
 ### [ The United States and South Korea increase their alert states after North Korea renounces the armistice that halted the Korean War in 1953. ](/news/2009/05/28/the-united-states-and-south-korea-increase-their-alert-states-after-north-korea-renounces-the-armistice-that-halted-the-korean-war-in-1953.md)
-_Context: United States, South Korea, alert state, Korean War, North Korea, armistice_
+_Context: alert state, South Korea, Korean War, armistice, North Korea, American_
 
 ##### Scientist
 ### [ Scientists claim the "long-tailed dinosaur" had the capacity to hold its cranium at a height in a giraffe-like manner. ](/news/2009/05/28/scientists-claim-the-long-tailed-dinosaur-had-the-capacity-to-hold-its-cranium-at-a-height-in-a-giraffe-like-manner.md)

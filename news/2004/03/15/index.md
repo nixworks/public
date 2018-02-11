@@ -5,31 +5,31 @@ Formats: [HTML](2004/03/15/index.html)  [JSON](2004/03/15/index.json)  [XML](200
 
 ##### Baptist church
 ### [ Four U.S. Baptist missionaries working on a water purification project are killed in a drive-by shooting in the northern Iraqi city of Mosul. ](/news/2004/03/15/four-u-s-baptist-missionaries-working-on-a-water-purification-project-are-killed-in-a-drive-by-shooting-in-the-northern-iraqi-city-of-mosu.md)
-_Context: Baptist church, missionary, Mosul, water purification, Iraq_
+_Context: water purification, Baptist church, Mosul, Iraq, missionary_
 
 ##### Pavlo Lazarenko
 ### [ Pavlo Lazarenko, former prime minister of Ukraine, stands trial in a U.S. federal court in San Francisco for money laundering. ](/news/2004/03/15/pavlo-lazarenko-former-prime-minister-of-ukraine-stands-trial-in-a-u-s-federal-court-in-san-francisco-for-money-laundering.md)
-_Context: Pavlo Lazarenko, San Francisco, money laundering, Ukraine_
+_Context: Pavlo Lazarenko, Ukraine, San Francisco, money laundering_
 
 ##### Same-sex marriage in the United States
 ### [ Same-sex marriage in the United States: Commissioners of Multnomah County, Oregon, dismiss state attorney general Hardy Myers' non-binding opinion that same-sex marriages are illegal and vow to continue issuing marriage licenses to same-sex couples. ](/news/2004/03/15/same-sex-marriage-in-the-united-states-commissioners-of-multnomah-county-oregon-dismiss-state-attorney-general-hardy-myers-non-binding.md)
-_Context: Multnomah County, Oregon, gay, Same-sex marriage in the United States, Hardy Myers, same-sex marriage, marriage license_
+_Context: gay, same-sex marriage, marriage license, Hardy Myers, Same-sex marriage in the United States, Multnomah County, Oregon_
 
 ##### Elected
 ### [ Newly elected Spanish Prime Minister Jos Luis Rodrguez Zapatero announces his government's opposition to the invasion and continued occupation of Iraq and his intention to withdraw Spanish troops from Iraq by June 30, unless they are part of a U.N. force. ](/news/2004/03/15/newly-elected-spanish-prime-minister-jose-luis-rodriguez-zapatero-announces-his-government-s-opposition-to-the-invasion-and-continued-occup.md)
-_Context: Iraq, Spain, U.N., Jos Luis Rodrguez Zapatero, Prime Minister, elected_
+_Context: Prime Minister, Jos Luis Rodrguez Zapatero, Iraq, elected, U.N., Spain_
 
 ##### 90377 Sedna
 ### [ Astronomers announce the discovery of 90377 Sedna, a Pluto-like planetoid which is the most distant individual object known to orbit the Sun. ](/news/2004/03/15/astronomers-announce-the-discovery-of-90377-sedna-a-pluto-like-planetoid-which-is-the-most-distant-individual-object-known-to-orbit-the-su.md)
-_Context: planetoid, Pluto, 90377 Sedna, Sun_
+_Context: planetoid, Pluto, Sun, 90377 Sedna_
 
 ##### Iran
 ### [ Iran will reallow the entry of UN nuclear inspectors after March 27, says International Atomic Energy Agency chief Mohamed ElBaradei. ](/news/2004/03/15/iran-will-reallow-the-entry-of-un-nuclear-inspectors-after-march-27-says-international-atomic-energy-agency-chief-mohamed-elbaradei.md)
-_Context: Mohamed ElBaradei, UN, Iran, IAEA_
+_Context: UN, Iran, Mohamed ElBaradei, IAEA_
 
 ##### Haiti
 ### [ Haiti recalls its ambassador of neighbouring Caribbean state Jamaica, where ousted president Jean-Bertrand Aristide is said to be making a personal visit. Haiti also threatens to boycott a 2-day Caricom meeting. ](/news/2004/03/15/haiti-recalls-its-ambassador-of-neighbouring-caribbean-state-jamaica-where-ousted-president-jean-bertrand-aristide-is-said-to-be-making-a.md)
-_Context: Jean-Bertrand Aristide, Jamaica, Caricom, Caribbean, Haiti_
+_Context: Caricom, Caribbean, Haiti, Jamaica, Jean-Bertrand Aristide_
 
 ##### Malaysian general election
 ### [ In the aftermath of nomination day for the Malaysian general election, Barisan Nasional wins four more seats in various state assemblies and another parliamentary seat, uncontested. ](/news/2004/03/15/in-the-aftermath-of-nomination-day-for-the-malaysian-general-election-barisan-nasional-wins-four-more-seats-in-various-state-assemblies-an.md)
@@ -37,7 +37,7 @@ Channel NewsAsia - Breaking News, Asia-Pacific news coverage from Channel NewsAs
 
 ##### Arab
 ### [ Exiled Syrian Kurds storm the Syrian consulate in Geneva and other Kurds protest in Turkey and Germany at weekend violence in northeast Syria. ](/news/2004/03/15/exiled-syrian-kurds-storm-the-syrian-consulate-in-geneva-and-other-kurds-protest-in-turkey-and-germany-at-weekend-violence-in-northeast-syr.md)
-_Context: Geneva, Arab, Kurds_
+_Context: Geneva, Kurds, Arab_
 
 ## [Previous Day...](/news/2004/03/14/index.md)
 

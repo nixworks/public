@@ -33,7 +33,7 @@ Army suspends rescue helicopter flights in Uttarakhand state due to dense fog as
 
 ##### Romanians
 ### [At least 18 Romanians were killed and 32 were injured after a bus crash, in Montenegro. ](/news/2013/06/23/at-least-18-romanians-were-killed-and-32-were-injured-after-a-bus-crash-in-montenegro.md)
-_Context: Montenegro, bus crash, Romanians_
+_Context: Romanians, Montenegro, bus crash_
 
 ##### Hong Kong
 ### [After a failed U.S. extradition request Hong Kong says does not fully comply with the law, U.S. whistleblower Edward Snowden leaves Hong Kong for Moscow. ](/news/2013/06/23/after-a-failed-u-s-extradition-request-hong-kong-says-does-not-fully-comply-with-the-law-u-s-whistleblower-edward-snowden-leaves-hong-kon.md)

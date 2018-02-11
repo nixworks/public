@@ -17,7 +17,7 @@ _Context: Sudan, United Nations High Commissioner for Refugees, refugee camp, So
 
 ##### Indonesian police
 ### [Indonesian police arrest four people in connection with the suicide bombing of a mosque in Cirebon, West Java. ](/news/2011/10/8/indonesian-police-arrest-four-people-in-connection-with-the-suicide-bombing-of-a-mosque-in-cirebon-west-java.md)
-_Context: mosque, suicide bombing, Cirebon, Indonesian police, West Java_
+_Context: West Java, suicide bombing, Indonesian police, mosque, Cirebon_
 
 ## [Previous Day...](/news/2011/10/7/index.md)
 

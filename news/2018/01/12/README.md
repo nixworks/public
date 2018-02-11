@@ -21,7 +21,7 @@ U.S. President Donald Trump canceled a trip to London scheduled for next month t
 
 ##### Nepal-United States relations
 ### [Nepalese authorities state that they are "discussing their response" to Trump's recent comment which referred to their country (among others) as a "shithole". Botswana summoned their U.S. ambassador, asking for clarification and expressed their concerns. ](/news/2018/01/12/nepalese-authorities-state-that-they-are-discussing-their-response-to-trump-s-recent-comment-which-referred-to-their-country-among-others.md)
-_Context: Nepal-United States relations, Botswana-United States relations, Donald Trump, Botswana_
+_Context: Botswana-United States relations, Botswana, Donald Trump, Nepal-United States relations_
 
 ##### Murder of Zainab Ansari
 ### [Protesters set a government office on fire in the Pakistani city of Kasur, in a second day of riots after the rape and murder of a six-year-old girl. ](/news/2018/01/12/protesters-set-a-government-office-on-fire-in-the-pakistani-city-of-kasur-in-a-second-day-of-riots-after-the-rape-and-murder-of-a-six-year.md)
@@ -33,7 +33,7 @@ Former Ukip leader Nigel Farage is having half his MEP’s salary docked followi
 
 ##### Government
 ### [The CDU-CSU (Christian Democrats) and SPD (Social Democrats) agree on a blueprint for formal negotiations on a new "grand coalition" government after the September 2017 federal election. ](/news/2018/01/12/the-cdu-csu-christian-democrats-and-spd-social-democrats-agree-on-a-blueprint-for-formal-negotiations-on-a-new-grand-coalition-governm.md)
-_Context: CDU/CSU, government, caretaker, grand coalition, SPD_
+_Context: caretaker, CDU/CSU, government, grand coalition, SPD_
 
 ##### Politics of Mexico
 ### [Mexicans react with incredulity after President of Mexico Enrique Pena Nieto appointed Alberto Bazbaz to the position of head of the CISEN intelligence service. Bazbaz is known for having overseen a 9-day search for a missing girl, Paulette Gebara Farah, who was eventually found dead in her own bed. ](/news/2018/01/12/mexicans-react-with-incredulity-after-president-of-mexico-enrique-pea-a-nieto-appointed-alberto-bazbaz-to-the-position-of-head-of-the-cisen.md)

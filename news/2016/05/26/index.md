@@ -5,7 +5,7 @@ Formats: [HTML](2016/05/26/index.html)  [JSON](2016/05/26/index.json)  [XML](201
 
 ##### Iraqi civil war
 ### [Iraqi security forces and Shiite Popular Mobilization Forces recapture Al-Karmah, about 16 kilometers (10 miles) northeast of Fallujah. ](/news/2016/05/26/iraqi-security-forces-and-shiite-popular-mobilization-forces-recapture-al-karmah-about-16-kilometers-10-miles-northeast-of-fallujah.md)
-_Context: Iraqi civil war, Iraqi Armed Forces, Al-Karmah, Operation Breaking Terrorism, Fallujah, Shia, Popular Mobilization Forces_
+_Context: Al-Karmah, Shia, Popular Mobilization Forces, Iraqi civil war, Iraqi Armed Forces, Operation Breaking Terrorism, Fallujah_
 
 ##### Archaeologists
 ### [Archaeologists announce the discovery of a 2,400-year-old tomb which they believe to be that of Aristotle based on its grandiosity, and its location atop a hill in Stagira, the city of his birth. ](/news/2016/05/26/archaeologists-announce-the-discovery-of-a-2-400-year-old-tomb-which-they-believe-to-be-that-of-aristotle-based-on-its-grandiosity-and-its.md)
@@ -37,7 +37,7 @@ South Korea plans to import $3.5 billion worth of arms this year to enhance its 
 
 ##### South Korean President
 ### [South Korean President Park Geun-hye, during her state visit to Ethiopia to work toward full-scale defense cooperation, pledges $1 million in aid for drought recovery. Park is expected to continue to Uganda and Kenya after this visit. ](/news/2016/05/26/south-korean-president-park-geun-hye-during-her-state-visit-to-ethiopia-to-work-toward-full-scale-defense-cooperation-pledges-1-million-i.md)
-_Context: South Korean President, Kenya, Uganda, Park Geun-hye_
+_Context: Uganda, South Korean President, Park Geun-hye, Kenya_
 
 ##### President of Indonesia
 ### [Indonesian President Joko Widodo issues an executive order (Perppu) making child sexual abuse punishable by chemical castration and extends the maximum penalty to death. ](/news/2016/05/26/indonesian-president-joko-widodo-issues-an-executive-order-perppu-making-child-sexual-abuse-punishable-by-chemical-castration-and-extends.md)

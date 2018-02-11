@@ -13,7 +13,7 @@ _Context: Arcelor, Mittal Steel_
 
 ##### Palestinian
 ### [ Eight Palestinian militants, including Hamas militants, infiltrate into an army post in Israel using a tunnel. Two Israeli soldiers are killed, one kidnapped and three wounded in the attack, in which at least two Palestinian militants die. Israeli PM vows a fierce military response to the attack once the soldier, Gilad Shalit, is returned. Two infantry brigades and supporting armoured regiments are deployed along the Gaza Strip border, in preparation for a major offensive.](/news/2006/06/25/eight-palestinian-militants-including-hamas-militants-infiltrate-into-an-army-post-in-israel-using-a-tunnel-two-israeli-soldiers-are-kil.md)
-_Context: Israel, Ehud Olmert, tunnel, Hamas, Gilad Shalit, kidnapped, Gaza Strip, Palestinian_
+_Context: Hamas, Ehud Olmert, Israel, tunnel, Gaza Strip, Palestinian, Gilad Shalit, kidnapped_
 
 ##### Jos Ramos-Horta
 ### [ Jos Ramos-Horta resigns as both Foreign and Interim Defence Minister of East Timor amidst ongoing political turmoil. ](/news/2006/06/25/jose-ramos-horta-resigns-as-both-foreign-and-interim-defence-minister-of-east-timor-amidst-ongoing-political-turmoil.md)
@@ -21,11 +21,11 @@ _Context: Jos Ramos-Horta, troubled nation, East Timor_
 
 ##### Referendum
 ### [ Italians vote in a referendum on whether to approve the modification of 53 articles in the constitution. Approval would give more power to the prime minister and to the regions, making Italy a federal state. ](/news/2006/06/25/italians-vote-in-a-referendum-on-whether-to-approve-the-modification-of-53-articles-in-the-constitution-approval-would-give-more-power-to.md)
-_Context: regions, Italian Prime Minister, federal state, referendum, Constitution of Italy, Italy_
+_Context: Italian Prime Minister, Constitution of Italy, regions, Italy, referendum, federal state_
 
 ##### World's third richest man
 ### [ The world's third richest man, Warren Buffett, pledges to donate approximately $37 billion USD in shares to the Bill & Melinda Gates Foundation, effectively making it the largest charitable organization in history. ](/news/2006/06/25/the-world-s-third-richest-man-warren-buffett-pledges-to-donate-approximately-37-billion-usd-in-shares-to-the-bill-melinda-gates-founda.md)
-_Context: Warren Buffett, $, Bill & Melinda Gates Foundation, world's third richest man_
+_Context: Bill & Melinda Gates Foundation, world's third richest man, $, Warren Buffett_
 
 ## [Previous Day...](/news/2006/06/24/index.md)
 

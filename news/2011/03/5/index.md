@@ -9,7 +9,7 @@ Heavy fighting rocks the strategic Libyan city of Zawiya after rebels repelled a
 
 ##### Slumdog Millionaire
 ### ["Slumdog Millionaire" souvenirs are destroyed after the home of actress Rubina Ali burns down in a fire in Garib Nagar near Bandra Railway Station in Mumbai. 21 people are wounded and more than 2,000 others become homeless. ](/news/2011/03/5/slumdog-millionaire-souvenirs-are-destroyed-after-the-home-of-actress-rubina-ali-burns-down-in-a-fire-in-garib-nagar-near-bandra-railway-s.md)
-_Context: Garib Nagar, Bandra Railway Station, Rubina Ali, Slumdog Millionaire, Mumbai_
+_Context: Mumbai, Garib Nagar, Slumdog Millionaire, Bandra Railway Station, Rubina Ali_
 
 ##### ChristChurch Cathedral
 ### [A search of ChristChurch Cathedral, Christchurch has found no bodies from the 2011 Canterbury earthquake despite fears that there were 22 bodies buried there - the confirmed death toll is 165. ](/news/2011/03/5/a-search-of-christchurch-cathedral-christchurch-has-found-no-bodies-from-the-2011-canterbury-earthquake-despite-fears-that-there-were-22-bo.md)
@@ -29,13 +29,13 @@ Six people are reported to have been killed in Russia after an Antonov-148 plane
 
 ##### South Korea
 ### [South Korea reports China's formal invitation to probable North Korean heir Kim Jong-un to visit the country, though China has not confirmed this. ](/news/2011/03/5/south-korea-reports-china-s-formal-invitation-to-probable-north-korean-heir-kim-jong-un-to-visit-the-country-though-china-has-not-confirmed.md)
-_Context: Kim Jong-un, South Korea, North Korea_
+_Context: North Korea, South Korea, Kim Jong-un_
 
 ##### Italian Prime Minister
 ### [Prime Minister of Italy Silvio Berlusconi is put on trial for corruption again, one of the four trials he is involved in at the moment. ](/news/2011/03/5/prime-minister-of-italy-silvio-berlusconi-is-put-on-trial-for-corruption-again-one-of-the-four-trials-he-is-involved-in-at-the-moment.md)
 Italian Prime Minister Silvio Berlusconi plans to set aside every Monday in order to attend all his forthcoming trials, his lawyer says.
 
-##### United States
+##### American
 ### [United States aid worker Alan Gross has been found guilty of crimes against the state of Cuba supposedly for setting up illegal Internet connections. ](/news/2011/03/5/united-states-aid-worker-alan-gross-has-been-found-guilty-of-crimes-against-the-state-of-cuba-supposedly-for-setting-up-illegal-internet-con.md)
 The trial of US aid worker Alan Gross for crimes against the state in Cuba ends, with the verdict yet to be formally announced.
 
@@ -49,7 +49,7 @@ Saudi Arabia bans all protests and marches in the country and warns police will 
 
 ##### 2011 National People's Congress
 ### [2011 National People's Congress: Chinese Premier Wen Jiabao delivers the annual Government Work Report to the National People's Congress in the Great Hall of the People in Beijing, outlining the priorities for the Chinese government in the next five years. ](/news/2011/03/5/2011-national-people-s-congress-chinese-premier-wen-jiabao-delivers-the-annual-government-work-report-to-the-national-people-s-congress-in.md)
-_Context: parliament, Wen Jiabao, 2011 National People's Congress, Great Hall of the People, Beijing_
+_Context: Great Hall of the People, 2011 National People's Congress, parliament, Beijing, Wen Jiabao_
 
 ##### Phil Hogan
 ### [Phil Hogan says Fine Gael and the Labour Party have agreed a draft of a proposed Programme for Government as talks between the political parties resume at Government Buildings in Dublin following the recent general election. ](/news/2011/03/5/phil-hogan-says-fine-gael-and-the-labour-party-have-agreed-a-draft-of-a-proposed-programme-for-government-as-talks-between-the-political-par.md)

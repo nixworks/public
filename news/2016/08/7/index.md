@@ -25,7 +25,7 @@ Oscar Pistorius was rushed to Pretoria’s Kalafong Hospital after sustaining in
 
 ##### Iran
 ### [Iran confirms it has executed nuclear scientist Shahram Amiri by hanging for treason. Iranian judiciary spokesman Gholam-Hossein Mohseni-Eje'i says Amiri was charged with spying for enemies of the Islamic Republic of Iran and that U.S. officials had been unaware that Iran was monitoring Amiri's efforts for the West. His body was returned to his family with rope marks around his neck. ](/news/2016/08/7/iran-confirms-it-has-executed-nuclear-scientist-shahram-amiri-by-hanging-for-treason-iranian-judiciary-spokesman-gholam-hossein-mohseni-eje.md)
-_Context: nuclear program, Gholam-Hossein Mohseni-Eje'i, United States, Shahram Amiri, Iran_
+_Context: nuclear program, Shahram Amiri, American, Gholam-Hossein Mohseni-Eje'i, Iran_
 
 ##### Thai constitutional referendum, 2016
 ### [Voters in Thailand go to the polls to vote on whether a new constitution, which would restore elections but empower the military, should it be adopted. The military junta has banned campaigning in opposition to the new constitution. The constitution is approved by 61.45 percent. ](/news/2016/08/7/voters-in-thailand-go-to-the-polls-to-vote-on-whether-a-new-constitution-which-would-restore-elections-but-empower-the-military-should-it.md)

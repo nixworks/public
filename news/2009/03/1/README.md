@@ -5,21 +5,21 @@ Formats: [HTML](2009/03/1/index.html)  [JSON](2009/03/1/index.json)  [XML](2009/
 
 ##### Basque Nationalist Party
 ### [ The Basque Nationalist Party wins a plurality of seats in Spain's Basque Country's parliamentary elections. ](/news/2009/03/1/the-basque-nationalist-party-wins-a-plurality-of-seats-in-spain-s-basque-country-s-parliamentary-elections.md)
-_Context: Basque, Spain, parliamentary elections, Basque Nationalist Party, plurality_
+_Context: Basque Nationalist Party, Spain, parliamentary elections, Basque, plurality_
 
 ##### Canadian
 ### [ Canada's Samuel Lunenfeld Research Institute discovers a new method to create embryonic-like stem cells that could cure spinal-cord injuries and Parkinson's disease. ](/news/2009/03/1/canada-s-samuel-lunenfeld-research-institute-discovers-a-new-method-to-create-embryonic-like-stem-cells-that-could-cure-spinal-cord-injurie.md)
-_Context: Canadian, spinal-cord injuries, Samuel Lunenfeld Research Institute, Parkinson's disease, embryonic stem cell research_
+_Context: Canadian, spinal-cord injuries, Parkinson's disease, Samuel Lunenfeld Research Institute, embryonic stem cell research_
 
-##### United States
+##### American
 ### [ The United States Coast Guard searches Florida's west coast for a fishing vessel carrying National Football League players Marquis Cooper and Corey Smith. ](/news/2009/03/1/the-united-states-coast-guard-searches-florida-s-west-coast-for-a-fishing-vessel-carrying-national-football-league-players-marquis-cooper-a.md)
 The boat departed from a ramp in Clearwater Pass early Saturday morning with four people in board and was supposed to return sometimes after dark, but never did.
 
 ##### China
 ### [ China's first lunar probe, Chang'e 1, impacts the Moon. ](/news/2009/03/1/china-s-first-lunar-probe-chang-e-1-impacts-the-moon.md)
-_Context: Moon, Chang'e 1, lunar probe, China_
+_Context: lunar probe, China, Chang'e 1, Moon_
 
-##### United States
+##### American
 ### [ The United States, Israel, and Canada will boycott the Durban Review Conference. ](/news/2009/03/1/the-united-states-israel-and-canada-will-boycott-the-durban-review-conference.md)
 Anti-Semitism, &#39;Islamophobia,&#39; Durban II and the U.N.
 

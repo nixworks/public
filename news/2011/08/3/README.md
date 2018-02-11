@@ -21,11 +21,11 @@ _Context: Barnes & Noble, Nook, John Malone_
 
 ##### New Zealand
 ### [More than 26,000 people have permanently left New Zealand's Canterbury Region since the 2011 Christchurch earthquake in February. ](/news/2011/08/3/more-than-26-000-people-have-permanently-left-new-zealand-s-canterbury-region-since-the-2011-christchurch-earthquake-in-february.md)
-_Context: Canterbury Region, New Zealand, 2011 Christchurch earthquake_
+_Context: New Zealand, 2011 Christchurch earthquake, Canterbury Region_
 
 ##### Bell 412 helicopter
 ### [Ten people die as a Bell 412 helicopter crashes in Indonesia's North Sulawesi province. ](/news/2011/08/3/ten-people-die-as-a-bell-412-helicopter-crashes-in-indonesia-s-north-sulawesi-province.md)
-_Context: North Sulawesi, Indonesia, Bell 412 helicopter_
+_Context: Indonesia, North Sulawesi, Bell 412 helicopter_
 
 ##### Computer security
 ### [Computer security firm McAfee uncovers one of the largest series of cyber attacks against the International Olympic Committee, Indian government, the United Nations, the steel industry and defence and security firms. ](/news/2011/08/3/computer-security-firm-mcafee-uncovers-one-of-the-largest-series-of-cyber-attacks-against-the-international-olympic-committee-indian-govern.md)
@@ -33,7 +33,7 @@ The UN and the International Olympic Committee were among those targeted by one 
 
 ##### President
 ### [The former President of Egypt, Hosni Mubarak, leaves the resort town of Sharm el-Sheikh, Egypt to return to Cairo for his trial. ](/news/2011/08/3/the-former-president-of-egypt-hosni-mubarak-leaves-the-resort-town-of-sharm-el-sheikh-egypt-to-return-to-cairo-for-his-trial.md)
-_Context: Hosni Mubarak, Cairo, President, trial, Sharm el-Sheikh_
+_Context: Sharm el-Sheikh, President, Cairo, Hosni Mubarak, trial_
 
 ##### Heather Mills
 ### [Charity campaigner Heather Mills tells the BBC's "Newsnight" that a senior Mirror Group journalist admitted hacking voicemails left for her by Sir Paul McCartney while they were together. ](/news/2011/08/3/charity-campaigner-heather-mills-tells-the-bbc-s-newsnight-that-a-senior-mirror-group-journalist-admitted-hacking-voicemails-left-for-her.md)

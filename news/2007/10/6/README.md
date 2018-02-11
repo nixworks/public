@@ -25,7 +25,7 @@ A Taliban suicide car bomb killed five Afghan civilians and a U.S. soldier in Ka
 
 ##### Pervez Musharraf
 ### [ Pervez Musharraf wins the Pakistani Presidential Election in unofficial results. The announcement of the official result will be withheld until a Supreme Court verdict is made on the legality of his candidacy. ](/news/2007/10/6/pervez-musharraf-wins-the-pakistani-presidential-election-in-unofficial-results-the-announcement-of-the-official-result-will-be-withheld-u.md)
-_Context: Supreme Court, 2007 Pakistani presidential election, Pervez Musharraf_
+_Context: 2007 Pakistani presidential election, Supreme Court, Pervez Musharraf_
 
 ##### Jason Lewis
 ### [ Adventurer Jason Lewis of Expedition 360 completes the first human-powered circumnavigation of the globe. ](/news/2007/10/6/adventurer-jason-lewis-of-expedition-360-completes-the-first-human-powered-circumnavigation-of-the-globe.md)
@@ -33,7 +33,7 @@ _Context: Jason Lewis, Expedition 360_
 
 ##### Quentin L. Cook
 ### [ Quentin L. Cook is called as an apostle of The Church of Jesus Christ of Latter-day Saints in the 177th Semi-Annual General Conference. ](/news/2007/10/6/quentin-l-cook-is-called-as-an-apostle-of-the-church-of-jesus-christ-of-latter-day-saints-in-the-177th-semi-annual-general-conference.md)
-_Context: The Church of Jesus Christ of Latter-day Saints, Quentin L. Cook,  177th Semi-Annual General Conference,  apostle_
+_Context:  177th Semi-Annual General Conference, The Church of Jesus Christ of Latter-day Saints,  apostle, Quentin L. Cook_
 
 ##### Royal Canadian Mounted Police
 ### [ Christopher John Worden, a Royal Canadian Mounted Police constable from Hay River, Northwest Territories, is shot and killed by an unknown assailant. ](/news/2007/10/6/christopher-john-worden-a-royal-canadian-mounted-police-constable-from-hay-river-northwest-territories-is-shot-and-killed-by-an-unknown.md)

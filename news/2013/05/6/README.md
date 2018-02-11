@@ -15,11 +15,11 @@ United Nations human rights investigators have gathered testimony from casualtie
 ### [At least 10 people are killed and 26 others injured in attacks across Iraq. ](/news/2013/05/6/at-least-10-people-are-killed-and-26-others-injured-in-attacks-across-iraq.md)
 ##### Islamist
 ### [13 people die in clashes between Islamist protesters and Bangladesh Police officers in the Bangladesh capital of Dhaka and the outlying suburb of Kanchpur. ](/news/2013/05/6/13-people-die-in-clashes-between-islamist-protesters-and-bangladesh-police-officers-in-the-bangladesh-capital-of-dhaka-and-the-outlying-subu.md)
-_Context: Islamist, Dhaka, police officers_
+_Context: Dhaka, Islamist, police officers_
 
 ##### Jamiat Ulema-e-Islam
 ### [15 people are killed and another 50 are injured when a bomb detonates at a political rally of the Jamiat Ulema-e-Islam in Kurram Valley, Federally Administered Tribal Areas, Pakistan. ](/news/2013/05/6/15-people-are-killed-and-another-50-are-injured-when-a-bomb-detonates-at-a-political-rally-of-the-jamiat-ulema-e-islam-in-kurram-valley-fed.md)
-_Context: Kurram, Pakistan, Jamiat Ulema-e-Islam, Federally Administered Tribal Areas_
+_Context: Jamiat Ulema-e-Islam, Federally Administered Tribal Areas, Kurram, Pakistan_
 
 ##### Walmart
 ### [Wal-Mart passes ExxonMobil as the largest company by revenue on the annual Fortune 500 list. ](/news/2013/05/6/wal-mart-passes-exxonmobil-as-the-largest-company-by-revenue-on-the-annual-fortune-500-list.md)
@@ -31,7 +31,7 @@ _Context: MBIA, US$, Bank of America_
 
 ##### Sweden
 ### [A new Swedish study published in the journal "Pediatrics" finds that children whose parents suck on their pacifiers have fewer allergies later in life. ](/news/2013/05/6/a-new-swedish-study-published-in-the-journal-pediatrics-finds-that-children-whose-parents-suck-on-their-pacifiers-have-fewer-allergies-lat.md)
-_Context: allergies, Sweden, Pediatrics, pacifier_
+_Context: Pediatrics, pacifier, Sweden, allergies_
 
 ##### German
 ### [Germany arrests a 93-year-old, alleged former Auschwitz guard, Hans Lipschis, on charges of murder. ](/news/2013/05/6/germany-arrests-a-93-year-old-alleged-former-auschwitz-guard-hans-lipschis-on-charges-of-murder.md)
@@ -55,7 +55,7 @@ THREE women have emerged from a house in Cleveland, Ohio, claiming to have spent
 
 ##### Americans
 ### [American singer Lauryn Hill is sentenced to prison for three months after being convicted of tax evasion. ](/news/2013/05/6/american-singer-lauryn-hill-is-sentenced-to-prison-for-three-months-after-being-convicted-of-tax-evasion.md)
-_Context: Americans, Lauryn Hill_
+_Context: Lauryn Hill, Americans_
 
 ##### Italian Prime Minister
 ### [Seven-time Prime Minister of Italy Giulio Andreotti dies in Rome at the age of 94 years. ](/news/2013/05/6/seven-time-prime-minister-of-italy-giulio-andreotti-dies-in-rome-at-the-age-of-94-years.md)

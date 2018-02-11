@@ -9,7 +9,7 @@ _Context: DR Congo, military coup_
 
 ##### Abidjan
 ### [State television is taken off air in the city of Abidjan, Ivory Coast, during clashes between forces loyal to incumbent President Laurent Gbagbo and rival groups. ](/news/2011/02/27/state-television-is-taken-off-air-in-the-city-of-abidjan-ivory-coast-during-clashes-between-forces-loyal-to-incumbent-president-laurent-gb.md)
-_Context: Laurent Gbagbo, Abidjan, Ivory Coast_
+_Context: Abidjan, Ivory Coast, Laurent Gbagbo_
 
 ##### Al-Qaeda
 ### [At least 115 people are killed in a government offensive against Al-Qaeda linked militants in Somalia. ](/news/2011/02/27/at-least-115-people-are-killed-in-a-government-offensive-against-al-qaeda-linked-militants-in-somalia.md)
@@ -21,7 +21,7 @@ BIRMINGHAM,AL (WBRC) - The Birmingham - Shuttlesworth International Airport has 
 
 ##### 83rd Academy Awards
 ### [The 83rd Academy Awards are held to honor the best films in 2010 at the Kodak Theater in Hollywood, California. ](/news/2011/02/27/the-83rd-academy-awards-are-held-to-honor-the-best-films-in-2010-at-the-kodak-theater-in-hollywood-california.md)
-_Context: films in 2010, 83rd Academy Awards, California, Hollywood, Kodak Theater_
+_Context: California, Kodak Theater, 83rd Academy Awards, films in 2010, Hollywood_
 
 ##### Government of Egypt
 ### [The Government of Egypt announces that the Egyptian stock market will reopen on Tuesday. ](/news/2011/02/27/the-government-of-egypt-announces-that-the-egyptian-stock-market-will-reopen-on-tuesday.md)
@@ -37,7 +37,7 @@ North Korea threatened to take military action if the South continues to drop le
 
 ##### United Nations Secretary-General
 ### [The Secretary-General of the United Nations Ban Ki-moon claims that Belarus has broken an international arms embargo on the Ivory Coast by delivering three attack helicopters to military forces supporting the President of the Ivory Coast Laurent Gbagbo. ](/news/2011/02/27/the-secretary-general-of-the-united-nations-ban-ki-moon-claims-that-belarus-has-broken-an-international-arms-embargo-on-the-ivory-coast-by-d.md)
-_Context: attack helicopter, United Nations Secretary-General, Ivory Coast, President of the Ivory Coast, Laurent Gbagbo, Belarus, Ban Ki-moon_
+_Context: attack helicopter, United Nations Secretary-General, President of the Ivory Coast, Ivory Coast, Laurent Gbagbo, Ban Ki-moon, Belarus_
 
 #####  Bahrain
 ### [ Bahrain: Thousands of anti-government protesters demonstrate in the capital Manama, as 18 opposition MPs submit their resignations. ](/news/2011/02/27/bahrain-thousands-of-anti-government-protesters-demonstrate-in-the-capital-manama-as-18-opposition-mps-submit-their-resignations.md)
@@ -81,7 +81,7 @@ _Context: Split, Croatia_
 
 ##### Wisconsin
 ### [The Wisconsin AFL-CIO warns that hundreds of unionists will risk arrest in trying to prevent police clearing the Wisconsin State Capitol in the US city of Madison. ](/news/2011/02/27/the-wisconsin-aflacio-warns-that-hundreds-of-unionists-will-risk-arrest-in-trying-to-prevent-police-clearing-the-wisconsin-state-capitol-i.md)
-_Context: Wisconsin, AFL-CIO, Wisconsin State Capitol, Madison, Wisconsin_
+_Context: AFL-CIO, Wisconsin State Capitol, Madison, Wisconsin, Wisconsin_
 
 ##### Hacker group Anonymous
 ### [Anonymous targets Koch Brothers-backed Americans for Prosperity to demonstrate against its support of anti-union legislation in Wisconsin and the influence of money in US politics. ](/news/2011/02/27/anonymous-targets-koch-brothers-backed-americans-for-prosperity-to-demonstrate-against-its-support-of-anti-union-legislation-in-wisconsin-an.md)
@@ -89,7 +89,7 @@ There was nothing terribly sophisticated about the denial of service attack exec
 
 ##### Arab League
 ### [The head of the Arab League Amr Moussa announces that he will run as a candidate in the Egyptian presidential election. ](/news/2011/02/27/the-head-of-the-arab-league-amr-moussa-announces-that-he-will-run-as-a-candidate-in-the-egyptian-presidential-election.md)
-_Context: President, Amr Moussa, Egyptian presidential election in September, Arab League_
+_Context: Arab League, Egyptian presidential election in September, President, Amr Moussa_
 
 ## [Previous Day...](/news/2011/02/26/index.md)
 

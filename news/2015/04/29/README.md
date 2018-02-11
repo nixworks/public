@@ -9,7 +9,7 @@ Bombing by aircraft that had ignored warning to turn back intended to prevent Ir
 
 ##### Russian financial crisis (2014-present)
 ### [ State-owned gas company, Gazprom, loses 86 percent in net income due to ruble devaluation, plunge on oil prices, and Ukraine crisis. ](/news/2015/04/29/state-owned-gas-company-gazprom-loses-86-percent-in-net-income-due-to-ruble-devaluation-plunge-on-oil-prices-and-ukraine-crisis.md)
-_Context: Ukraine crisis, oil prices, net income, Gazprom, Russian financial crisis (2014-present)_
+_Context: oil prices, Gazprom, Russian financial crisis (2014-present), net income, Ukraine crisis_
 
 ##### Suspicions
 ### [The death toll for the earthquake reaches 6,100 as the first food aid reaches Nepal. This includes 6000+ people in Nepal, 19 people on Mount Everest, 76 in India, 25 in China, and 4 in Bangladesh. ](/news/2015/04/29/the-death-toll-for-the-earthquake-reaches-6-100-as-the-first-food-aid-reaches-nepal-this-includes-6000-people-in-nepal-19-people-on-mount.md)

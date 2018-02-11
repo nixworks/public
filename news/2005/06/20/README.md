@@ -13,15 +13,15 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Cedar Revolution
 ### [ Cedar Revolution: The Anti-Syrian bloc of Saad al-Hariri captured control of the Lebanese Legislature in the Lebanese general election of 2005, winning 72 of the 128 available seats. ](/news/2005/06/20/cedar-revolution-the-anti-syrian-bloc-of-saad-al-hariri-captured-control-of-the-lebanese-legislature-in-the-lebanese-general-election-of-2.md)
-_Context: Syria, Lebanese, Saad al-Hariri, Legislature, Lebanese general election of 2005, Cedar Revolution_
+_Context: Lebanese, Saad al-Hariri, Syria, Cedar Revolution, Lebanese general election of 2005, Legislature_
 
 ##### Suicide-bomb
 ### [ A Suicide bomber in Iraq kills 13 policemen, and injured more than 100 people, in the city of Irbil, northern Iraq. ](/news/2005/06/20/a-suicide-bomber-in-iraq-kills-13-policemen-and-injured-more-than-100-people-in-the-city-of-irbil-northern-iraq.md)
-_Context: Irbil, suicide-bomb, Iraq, Iraqi police_
+_Context: Irbil, suicide-bomb, Iraqi police, Iraq_
 
 ##### Earthquake
 ### [ In Japan, magnitude 4.9 earthquake hits central Niigata Prefecture, with little reported damage and no tsunami risk ](/news/2005/06/20/in-japan-magnitude-4-9-earthquake-hits-central-niigata-prefecture-with-little-reported-damage-and-no-tsunami-risk.md)
-_Context: Niigata, tsunami, earthquake_
+_Context: tsunami, earthquake, Niigata_
 
 ##### International Whaling Commission
 ### [ International Whaling Commission meets in Ulsan, South Korea. Japan tries to ease its restrictions to whaling but its suggestion to exclude proposed creation of whale sanctuaries is voted down ](/news/2005/06/20/international-whaling-commission-meets-in-ulsan-south-korea-japan-tries-to-ease-its-restrictions-to-whaling-but-its-suggestion-to-exclude.md)

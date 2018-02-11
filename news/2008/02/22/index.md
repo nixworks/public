@@ -9,7 +9,7 @@ _Context: Russian President, Vladimir Putin, Kosovo, Russia_
 
 ##### White House
 ### [ The White House announces that U.S. Army National Guard Master Sergeant Woodrow W. Keeble will posthumously receive the Medal of Honor for his service in the Korean War, becoming the first Sioux to receive the award. ](/news/2008/02/22/the-white-house-announces-that-u-s-army-national-guard-master-sergeant-woodrow-w-keeble-will-posthumously-receive-the-medal-of-honor-for.md)
-_Context: Woodrow W. Keeble, U.S. Army National Guard, White House, Sioux, Medal of Honor, Korean War_
+_Context: Medal of Honor, Sioux, Korean War, U.S. Army National Guard, Woodrow W. Keeble, White House_
 
 ##### Swedish Academy
 ### [ The Swedish Academy, the body that awards the Nobel Prize in Literature, names the professor of literature Anders Olsson as one of its members to succeed poet and writer Lars Forssell, who died in July 2007. ](/news/2008/02/22/the-swedish-academy-the-body-that-awards-the-nobel-prize-in-literature-names-the-professor-of-literature-anders-olsson-as-one-of-its-memb.md)
@@ -21,15 +21,15 @@ Thousands of Turkish troops have crossed into northern Iraq to hunt Kurdish rebe
 
 ##### Northern Rock
 ### [ The Northern Rock bank is formally nationalized by the British government. ](/news/2008/02/22/the-northern-rock-bank-is-formally-nationalized-by-the-british-government.md)
-_Context: His Majesty's Government, nationalization, Northern Rock_
+_Context: His Majesty's Government, Northern Rock, nationalization_
 
-##### United States
+##### American
 ### [ The United States warns the Serbian government that it has a responsibility to protect its assets after about 1,000 protesters set fire to the U.S. embassy in anger at Kosovo's declaration of independence. ](/news/2008/02/22/the-united-states-warns-the-serbian-government-that-it-has-a-responsibility-to-protect-its-assets-after-about-1-000-protesters-set-fire-to.md)
-_Context: Kosovo, United States, Serbia_
+_Context: American, Serbia, Kosovo_
 
-##### United States
+##### American
 ### [ A United States Air Force B-2 Spirit stealth bomber crashes at Anderson Air Force Base on Guam. The two pilots ejected, with one hospitalized. It is the first B-2 to crash. ](/news/2008/02/22/a-united-states-air-force-b-2-spirit-stealth-bomber-crashes-at-anderson-air-force-base-on-guam-the-two-pilots-ejected-with-one-hospitaliz.md)
-_Context: stealth, bomber, Anderson Air Force Base, Guam, ejected, B-2 Spirit, United States Air Force, United States_
+_Context: bomber, Anderson Air Force Base, Guam, B-2 Spirit, American, stealth, ejected, United States Air Force_
 
 ## [Previous Day...](/news/2008/02/21/index.md)
 

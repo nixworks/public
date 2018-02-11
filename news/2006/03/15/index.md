@@ -13,7 +13,7 @@ A wonky, geeky, ranty exploration of how the global economy fits together.
 
 ##### British House of Commons
 ### [ United Kingdom: The House of Commons votes to approve an education reform bill. The Prime minister, Tony Blair's authority is called into question for his relying on the opposition Conservative party to secure the vote, due to revolt within his own Labour party. ](/news/2006/03/15/united-kingdom-the-house-of-commons-votes-to-approve-an-education-reform-bill-the-prime-minister-tony-blair-s-authority-is-called-into-q.md)
-_Context: British House of Commons, Labour Party, Tony Blair, Conservative Party, PM_
+_Context: British House of Commons, Labour Party, PM, Conservative Party, Tony Blair_
 
 ##### War in Iraq
 ### [ War in Iraq: A raid by the United States military kills eleven Iraqis, mostly civilians. ](/news/2006/03/15/war-in-iraq-a-raid-by-the-united-states-military-kills-eleven-iraqis-mostly-civilians.md)
@@ -25,7 +25,7 @@ The 191-member U.N. General Assembly has approved, despite U.S. objection, the c
 
 ##### Queen Elizabeth
 ### [ Queen Elizabeth&nbsp;II, Head of the Commonwealth opens the 2006 Commonwealth Games in Melbourne, Australia. ](/news/2006/03/15/queen-elizabeth-nbsp-ii-head-of-the-commonwealth-opens-the-2006-commonwealth-games-in-melbourne-australia.md)
-_Context: Melbourne, Australia, Head, Queen Elizabeth, 2006 Commonwealth Games_
+_Context: 2006 Commonwealth Games, Melbourne, Australia, Head, Queen Elizabeth_
 
 ##### UK Islamist demonstration outside the Danish Embassy
 ### [ Five arrests are made over the UK Islamist demonstration outside the Danish Embassy in London against the cartoons depicting the prophet Muhammad. ](/news/2006/03/15/five-arrests-are-made-over-the-uk-islamist-demonstration-outside-the-danish-embassy-in-london-against-the-cartoons-depicting-the-prophet-mu.md)

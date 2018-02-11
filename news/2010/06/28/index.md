@@ -13,7 +13,7 @@ Five American men sentenced last week to serve 10 years in a Pakistani prison on
 
 ##### European Union
 ### [The European Union and United States sign a five-year agreement on sharing financial data in anti-terrorist investigations for accounts suspected of being used for terrorist financing, after agreeing on limits to protect customer privacy. ](/news/2010/06/28/the-european-union-and-united-states-sign-a-five-year-agreement-on-sharing-financial-data-in-anti-terrorist-investigations-for-accounts-susp.md)
-_Context: European Union, anti-terrorist, customer privacy, terrorist financing, United States_
+_Context: American, customer privacy, terrorist financing, anti-terrorist, European Union_
 
 ##### Hurricane Alex
 ### [Tropical Storm Alex is expected to become a hurricane, with heavy winds, rain and rough seas in the Gulf of Mexico, driving the oil deeper inland and bringing much of the cleanup to a standstill. ](/news/2010/06/28/tropical-storm-alex-is-expected-to-become-a-hurricane-with-heavy-winds-rain-and-rough-seas-in-the-gulf-of-mexico-driving-the-oil-deeper-i.md)
@@ -33,17 +33,17 @@ Ahmadinejad says negotiations over nuclear programme will resume only in late Au
 
 ##### G20 summit
 ### [World leaders at the G20 summit agree to cut their budget deficits in half by 2013, while US President Obama urges continued spending to support economic growth. ](/news/2010/06/28/world-leaders-at-the-g20-summit-agree-to-cut-their-budget-deficits-in-half-by-2013-while-us-president-obama-urges-continued-spending-to-sup.md)
-_Context: G20 summit, United States President, budget deficit, Barack Obama_
+_Context: Barack Obama, budget deficit, G20 summit, United States President_
 
 ##### 
 ### [Toronto police arrest over 600 people outside the G20 summit, with police using rubber bullets and tear gas on protestors. ](/news/2010/06/28/toronto-police-arrest-over-600-people-outside-the-g20-summit-with-police-using-rubber-bullets-and-tear-gas-on-protestors.md)
 ##### Rwanda
 ### [Rwandan authorities arrest two people in connection with the killing of a journalist critical of Rwandan President Paul Kagame, and deny complicity in the murder. ](/news/2010/06/28/rwandan-authorities-arrest-two-people-in-connection-with-the-killing-of-a-journalist-critical-of-rwandan-president-paul-kagame-and-deny-com.md)
-_Context: Paul Kagame, president, Rwanda_
+_Context: president, Paul Kagame, Rwanda_
 
 ##### Sri Lanka
 ### [Sri Lanka's President Mahinda Rajapakse and other prominent Sri Lankans protest international calls and the appointment of a United Nations panel to investigate war crimes allegedly committed during the country's civil war with the Tamil Tiger separatists. ](/news/2010/06/28/sri-lanka-s-president-mahinda-rajapakse-and-other-prominent-sri-lankans-protest-international-calls-and-the-appointment-of-a-united-nations.md)
-_Context: Sri Lankan Civil War, Sri Lanka, United Nations, Mahinda Rajapakse, war crimes, President of Sri Lanka, Tamil Tiger_
+_Context: war crimes, Tamil Tiger, United Nations, Sri Lankan Civil War, Mahinda Rajapakse, Sri Lanka, President of Sri Lanka_
 
 ##### Landslide
 ### [At least 100 people are feared trapped or buried in a landslide in Guizhou Province in south-west China following continued heavy rain. ](/news/2010/06/28/at-least-100-people-are-feared-trapped-or-buried-in-a-landslide-in-guizhou-province-in-south-west-china-following-continued-heavy-rain.md)
@@ -59,7 +59,7 @@ Tens of thousands of people who fled ethnic fighting in Kyrgyzstan earlier this 
 
 ##### Turkey
 ### [Philip Gordon, the Obama administration's top diplomat on European affairs warns Turkey that it must demonstrate its commitment to NATO, Europe and the United States after its opposition to sanctions against Iran's nuclear program and rhetoric against Israel after the Gaza flotilla raid. ](/news/2010/06/28/philip-gordon-the-obama-administration-s-top-diplomat-on-european-affairs-warns-turkey-that-it-must-demonstrate-its-commitment-to-nato-eur.md)
-_Context: Gaza flotilla raid, European Union, NATO, ban on ballistic missile tests, Israel, Turkey, United States_
+_Context: American, Israel, Gaza flotilla raid, NATO, ban on ballistic missile tests, Turkey, European Union_
 
 ##### Presidential election
 ### [A presidential election takes place in Burundi with incumbent President Pierre Nkurunziza as the only candidate. A series of grenade attacks also take place. ](/news/2010/06/28/a-presidential-election-takes-place-in-burundi-with-incumbent-president-pierre-nkurunziza-as-the-only-candidate-a-series-of-grenade-attacks.md)
@@ -83,11 +83,11 @@ _Context: Fiji_
 
 ##### Red Crescent
 ### [The Red Crescent delays an aid shipment bound for Gaza after being told that Egypt would prevent it from using the internationally neutral Suez Canal. ](/news/2010/06/28/the-red-crescent-delays-an-aid-shipment-bound-for-gaza-after-being-told-that-egypt-would-prevent-it-from-using-the-internationally-neutral-s.md)
-_Context: Egypt, Red Crescent, Gaza Strip, Suez Canal_
+_Context: Suez Canal, Gaza Strip, Egypt, Red Crescent_
 
 ##### United Nations
 ### [A group of armed men vandalises a United Nations summer camp in the Gaza Strip, in a second attack since May. Hamas and the Popular Front for the Liberation of Palestine condemn the attack. ](/news/2010/06/28/a-group-of-armed-men-vandalises-a-united-nations-summer-camp-in-the-gaza-strip-in-a-second-attack-since-may-hamas-and-the-popular-front-fo.md)
-_Context: PFLP, Gaza Strip, Hamas, United Nations_
+_Context: United Nations, Hamas, Gaza Strip, PFLP_
 
 ##### Turkey
 ### [Turkey closes its airspace to some Israeli military flights in apparent retaliation for Israeli raid on the Gaza-flotilla; civilian commercial flights are not affected. ](/news/2010/06/28/turkey-closes-its-airspace-to-some-israeli-military-flights-in-apparent-retaliation-for-israeli-raid-on-the-gaza-flotilla-civilian-commerci.md)
@@ -95,7 +95,7 @@ Turkey reportedly refuses flyover rights to Israeli military planes.
 
 ##### Somali pirates
 ### [Somali pirates hijack a Singaporean chemical tanker in the Gulf of Aden, carrying a cargo of ethylene glycol. ](/news/2010/06/28/somali-pirates-hijack-a-singaporean-chemical-tanker-in-the-gulf-of-aden-carrying-a-cargo-of-ethylene-glycol.md)
-_Context: Singapore, Somali pirates, chemical tanker, ethylene glycol, Gulf of Aden_
+_Context: chemical tanker, Gulf of Aden, Somali pirates, ethylene glycol, Singapore_
 
 ##### Joseph Stalin
 ### [A second statue of Joseph Stalin is removed by authorities in Georgia. ](/news/2010/06/28/a-second-statue-of-joseph-stalin-is-removed-by-authorities-in-georgia.md)
@@ -119,11 +119,11 @@ _Context: Australia, Central Intelligence Agency_
 
 ##### Le Monde
 ### ["Le Monde" is sold to Xavier Niel, Matthieu Pigasse and Pierre Berge. ](/news/2010/06/28/le-monde-is-sold-to-xavier-niel-matthieu-pigasse-and-pierre-berga-c.md)
-_Context: Pierre Berge, Le Monde, Matthieu Pigasse, Xavier Niel_
+_Context: Pierre Berge, Matthieu Pigasse, Le Monde, Xavier Niel_
 
 ##### Derailment
 ### [One person is killed and eleven are injured in a derailment at Usti nad Labem, Czech Republic. ](/news/2010/06/28/one-person-is-killed-and-eleven-are-injured-in-a-derailment-at-asta-nad-labem-czech-republic.md)
-_Context: derailment, Czech Republic, Usti nad Labem_
+_Context: Czech Republic, derailment, Usti nad Labem_
 
 ##### Turkey
 ### [Turkish soldiers mistakenly kill two villagers in Hatay. ](/news/2010/06/28/turkish-soldiers-mistakenly-kill-two-villagers-in-hatay.md)

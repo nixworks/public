@@ -21,7 +21,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Suicide bomb
 ### [ A suicide bomb in Pannapittya, Sri Lanka, kills three people, including Parami Kulkathunga, Deputy Chief of Staff of the Sri Lankan Army. ](/news/2006/06/26/a-suicide-bomb-in-pannapittya-sri-lanka-kills-three-people-including-parami-kulkathunga-deputy-chief-of-staff-of-the-sri-lankan-army.md)
-_Context: Sri Lanka, Sri Lankan Army, Pannapittya, Parami Kulkathunga, suicide bomb_
+_Context: Sri Lanka, Pannapittya, Parami Kulkathunga, suicide bomb, Sri Lankan Army_
 
 ##### Hamas
 ### [ Israel has stated that they will ensure that the Hamas-controlled Palestinian government is "toppled" if their captured soldier, Gilad Shalit, is killed. Three Palestinian groups claiming to hold Shalit refuse to provide information about his health via the Palestine Red Crescent, unless all jailed Palestinian women and teenagers are released from Israeli prisons. Three Qassam rockets are launched from the Gaza Strip against Israeli towns, one of them wounding 4 civilians in Sderot and causing a power outage throughout the city. ](/news/2006/06/26/israel-has-stated-that-they-will-ensure-that-the-hamas-controlled-palestinian-government-is-toppled-if-their-captured-soldier-gilad-shal.md)
@@ -29,7 +29,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Italy
 ### [ Italians reject the modification of their constitution. In a two-day referendum, "No" beats "Yes" approximately 61% to 38%, thus keeping the text unchanged. The Northern League had announced its withdrawal from the centre-right opposition coalition if reform was defeated. Votes of Italians living abroad are still to be counted. ](/news/2006/06/26/italians-reject-the-modification-of-their-constitution-in-a-two-day-referendum-no-beats-yes-approximately-61-to-38-thus-keeping-th.md)
-_Context: Northern League, constitution, Italy_
+_Context: Italy, constitution, Northern League_
 
 ## [Previous Day...](/news/2006/06/25/index.md)
 

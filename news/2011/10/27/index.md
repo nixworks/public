@@ -13,7 +13,7 @@ Eighteen people have been killed in a twin bombing in Baghdad, Iraqi police and 
 
 ##### Pakistan
 ### [A bomb explodes in a food market in the Pakistani city of Peshawar, injuring at least 11 people. ](/news/2011/10/27/a-bomb-explodes-in-a-food-market-in-the-pakistani-city-of-peshawar-injuring-at-least-11-people.md)
-_Context: Peshawar, Pakistan_
+_Context: Pakistan, Peshawar_
 
 ##### Australian Stock Exchange
 ### [Trading on the Australian Stock Exchange is suspended for four hours due to a technical fault. ](/news/2011/10/27/trading-on-the-australian-stock-exchange-is-suspended-for-four-hours-due-to-a-technical-fault.md)
@@ -21,23 +21,23 @@ ALL trading on the Australian stock exchange has been halted indefinitely.
 
 ##### Bank of Korea
 ### [The Bank of Korea reports that the South Korean economy grew at the slowest rate in three quarters. ](/news/2011/10/27/the-bank-of-korea-reports-that-the-south-korean-economy-grew-at-the-slowest-rate-in-three-quarters.md)
-_Context: Economy of South Korea, Bank of Korea_
+_Context: Bank of Korea, Economy of South Korea_
 
 ##### Greece
 ### [Reports indicate that European private banks have agreed to accept a 50% loss on Greek bonds, therefore removing the last apparent roadblock to a solution for the European sovereign debt crisis. ](/news/2011/10/27/reports-indicate-that-european-private-banks-have-agreed-to-accept-a-50-loss-on-greek-bonds-therefore-removing-the-last-apparent-roadblock.md)
-_Context: Greece, Eurozone crisis_
+_Context: Eurozone crisis, Greece_
 
 ##### Thailand
 ### [Tens of thousands of people attempt to flee the Thai capital Bangkok as floodwaters rise. ](/news/2011/10/27/tens-of-thousands-of-people-attempt-to-flee-the-thai-capital-bangkok-as-floodwaters-rise.md)
-_Context: Bangkok, Thailand_
+_Context: Thailand, Bangkok_
 
 ##### 7.1 magnitude earthquake
 ### [The death toll from the 2011 Van earthquake in Turkey reaches 523, with rain and snow making conditions worse for people left homeless by the earthquake. ](/news/2011/10/27/the-death-toll-from-the-2011-van-earthquake-in-turkey-reaches-523-with-rain-and-snow-making-conditions-worse-for-people-left-homeless-by-th.md)
-_Context: 7.1 magnitude earthquake, Turkey_
+_Context: Turkey, 7.1 magnitude earthquake_
 
 ##### German
 ### [Twelve thousand people are evacuated from the German city of Halle, following the discovery of an unexploded World War II-era bomb. ](/news/2011/10/27/twelve-thousand-people-are-evacuated-from-the-german-city-of-halle-following-the-discovery-of-an-unexploded-world-war-ii-era-bomb.md)
-_Context: Halle, World War II, German_
+_Context: German, Halle, World War II_
 
 ##### Serial murderer
 ### [Scottish serial murderer Robert Black is convicted of the 1981 murder of Northern Irish schoolgirl Jennifer Cardy. ](/news/2011/10/27/scottish-serial-murderer-robert-black-is-convicted-of-the-1981-murder-of-northern-irish-schoolgirl-jennifer-cardy.md)
@@ -49,7 +49,7 @@ Polling stations have closed after 15 hours of voting in two elections and on tw
 
 ##### Giles Fraser
 ### [Dr Giles Fraser, the canon chancellor of London's St Paul's Cathedral, announces his resignation from the post, as police prepare to remove Occupy London protesters from the cathedral's churchyard. Dr Fraser said he could not condone the use of violence against the demonstrators. ](/news/2011/10/27/dr-giles-fraser-the-canon-chancellor-of-london-s-st-paul-s-cathedral-announces-his-resignation-from-the-post-as-police-prepare-to-remove.md)
-_Context: London, Occupy London, St Paul's Cathedral, Giles Fraser_
+_Context: St Paul's Cathedral, Occupy London, London, Giles Fraser_
 
 ##### Islamist
 ### [The moderate Islamist Renaissance Party (Nahda) officially wins the Tunisian Constituent Assembly election, gaining more than 41% of the vote and securing 90 of the 217 parliamentary seats being contested. ](/news/2011/10/27/the-moderate-islamist-renaissance-party-nahda-officially-wins-the-tunisian-constituent-assembly-election-gaining-more-than-41-of-the-vot.md)
@@ -57,7 +57,7 @@ _Context: Islamist, Renaissance Party, Tunisian Constituent Assembly_
 
 ##### Crown Prince Nayef
 ### [Nayef bin Abdul-Aziz Al Saud, the Saudi Arabian Minister of the Interior, is named as the new Crown Prince of Saudi Arabia, following the death of Sultan bin Abdul-Aziz Al Saud on October 22. ](/news/2011/10/27/nayef-bin-abdul-aziz-al-saud-the-saudi-arabian-minister-of-the-interior-is-named-as-the-new-crown-prince-of-saudi-arabia-following-the-de.md)
-_Context: Sultan bin Abdul-Aziz Al Saud, Crown Prince, Saudi Arabia, Crown Prince Nayef, Interior Ministry_
+_Context: Crown Prince Nayef, Interior Ministry, Sultan bin Abdul-Aziz Al Saud, Saudi Arabia, Crown Prince_
 
 ##### United Kingdom
 ### [Researchers in the United Kingdom use a pioneering gene therapy technique to treat sufferers of ocular defects such as retinal choroideremia. ](/news/2011/10/27/researchers-in-the-united-kingdom-use-a-pioneering-gene-therapy-technique-to-treat-sufferers-of-ocular-defects-such-as-retinal-choroideremia.md)

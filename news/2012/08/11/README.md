@@ -33,7 +33,7 @@ _Context: Bangladesh_
 
 ##### Mitt Romney
 ### [Mitt Romney, the presumptive Republican Party nominee for the United States presidency, names Wisconsin Congressman Paul Ryan as the Republican Party's vice presidential candidate in the presidential election in November. ](/news/2012/08/11/mitt-romney-the-presumptive-republican-party-nominee-for-the-united-states-presidency-names-wisconsin-congressman-paul-ryan-as-the-republi.md)
-_Context: presumptive, U.S. President, Wisconsin, United States presidential election, 2012, Republican, vice presidential candidate, Mitt Romney, Paul Ryan_
+_Context: Wisconsin, Paul Ryan, Republican, presumptive, vice presidential candidate, U.S. President, Mitt Romney, United States presidential election, 2012_
 
 ## [Previous Day...](/news/2012/08/10/index.md)
 

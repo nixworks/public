@@ -13,7 +13,7 @@ Afghan rescuers are searching for dozens of people believed to be trapped under 
 
 ##### Atlanta
 ### [The Atlanta-based U.S. Centers for Disease Control and Prevention (CDC), were so concerned about a study released today in "The New England Journal of Medicine", that they are launching another new study about why so many people are becoming infected by or exposed to the potentially deadly "Clostridium difficile" (""C. diff."") bacterium after going to the doctor's or dentist's office. ](/news/2015/02/25/the-atlanta-based-u-s-centers-for-disease-control-and-prevention-cdc-were-so-concerned-about-a-study-released-today-in-the-new-england.md)
-_Context: The New England Journal of Medicine, Clostridium difficile, potentially deadly, Centers for Disease Control and Prevention, Atlanta_
+_Context: Clostridium difficile, potentially deadly, Centers for Disease Control and Prevention, Atlanta, The New England Journal of Medicine_
 
 ##### Khaleda Zia
 ### [An arrest warrant is issued for Khaleda Zia, former Prime Minister of Bangladesh, after she fails to show up to face graft charges. ](/news/2015/02/25/an-arrest-warrant-is-issued-for-khaleda-zia-former-prime-minister-of-bangladesh-after-she-fails-to-show-up-to-face-graft-charges.md)
@@ -25,15 +25,15 @@ If court approves extradition request, justice minister will decide whether to h
 
 ##### Morgan Stanley
 ### [Morgan Stanley agrees to pay $2.6 billion to settle with the United States Department of Justice over its sale of residential mortgage backed securities. ](/news/2015/02/25/morgan-stanley-agrees-to-pay-2-6-billion-to-settle-with-the-united-states-department-of-justice-over-its-sale-of-residential-mortgage-backe.md)
-_Context: Morgan Stanley, Department of Justice, mortgage_
+_Context: Department of Justice, mortgage, Morgan Stanley_
 
 ##### Austrian Parliament
 ### [The Austrian Parliament passes a bill, partly aimed at tackling Islamist radicalism, that gives Muslims more legal security but bans foreign funding for mosques and imams. ](/news/2015/02/25/the-austrian-parliament-passes-a-bill-partly-aimed-at-tackling-islamist-radicalism-that-gives-muslims-more-legal-security-but-bans-foreign.md)
 Parliament in Austria passes a controversial new bill that reforms a century-old law on Islam, despite claims it will treat Muslims unequally.
 
-##### United States
+##### American
 ### [A United States district court judge orders documents turned over to hedge fund NML Capital with regard to the flow of funds in a February 9 issuance of Argentina dollar denominated sovereign bonds. ](/news/2015/02/25/a-united-states-district-court-judge-orders-documents-turned-over-to-hedge-fund-nml-capital-with-regard-to-the-flow-of-funds-in-a-february-9.md)
-_Context: hedge fund, NML Capital, Argentina, U.S. District Judge, sovereign bonds, United States, judge_
+_Context: American, sovereign bonds, judge, Argentina, hedge fund, U.S. District Judge, NML Capital_
 
 ##### National Congress
 ### [The Argentine National Congress approves installation of a Chinese satellite tracking station in Patagonia. ](/news/2015/02/25/the-argentine-national-congress-approves-installation-of-a-chinese-satellite-tracking-station-in-patagonia.md)

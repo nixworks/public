@@ -5,11 +5,11 @@ Formats: [HTML](2007/12/5/index.html)  [JSON](2007/12/5/index.json)  [XML](2007/
 
 ##### National Television
 ### [ Swedish National Television reveals systematic food safety irregularities at ICA, the leading grocery store chain in Sweden. ](/news/2007/12/5/swedish-national-television-reveals-systematic-food-safety-irregularities-at-ica-the-leading-grocery-store-chain-in-sweden.md)
-_Context: ICA, Sweden, systematic food safety irregularities, National Television_
+_Context: Sweden, systematic food safety irregularities, National Television, ICA_
 
 ##### United Kingdom
 ### [ Two British citizens are arrested in Lithuania after trying to ship 14 kg (31 pounds) of khat out of Vilnius. ](/news/2007/12/5/two-british-citizens-are-arrested-in-lithuania-after-trying-to-ship-14-kg-31-pounds-of-khat-out-of-vilnius.md)
-_Context: Lithuania, Vilnius, khat, United Kingdom_
+_Context: United Kingdom, Vilnius, Lithuania, khat_
 
 ##### Latvia
 ### [ Latvian Prime Minister Aigars Kalvitis resigns. ](/news/2007/12/5/latvian-prime-minister-aigars-kalva-tis-resigns.md)
@@ -25,7 +25,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Afghanistan
 ### [ A suicide bomber rams a car into a minibus containing Afghan soldiers on a highway south of Kabul. Thirteen, including six Afghan soldiers, are killed in the incident. ](/news/2007/12/5/a-suicide-bomber-rams-a-car-into-a-minibus-containing-afghan-soldiers-on-a-highway-south-of-kabul-thirteen-including-six-afghan-soldiers.md)
-_Context: Kabul, Afghanistan_
+_Context: Afghanistan, Kabul_
 
 ## [Previous Day...](/news/2007/12/4/index.md)
 

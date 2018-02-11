@@ -9,11 +9,11 @@ At least 18 people were killed in a gunfight between two feuding tribes in south
 
 ##### Italian
 ### [Two Italian priests and a Canadian nun have been kidnapped by gunmen in Cameroon. ](/news/2014/04/5/two-italian-priests-and-a-canadian-nun-have-been-kidnapped-by-gunmen-in-cameroon.md)
-_Context: Canadian, Cameroon, Italian_
+_Context: Canadian, Italian, Cameroon_
 
 ##### Tyson Foods Incorporated
 ### [Tyson Foods recalls 75,000 pounds of frozen chicken nuggets due to complaints that pieces of plastic were found in its products. ](/news/2014/04/5/tyson-foods-recalls-75-000-pounds-of-frozen-chicken-nuggets-due-to-complaints-that-pieces-of-plastic-were-found-in-its-products.md)
-_Context: chicken nuggets, Tyson Foods Incorporated_
+_Context: Tyson Foods Incorporated, chicken nuggets_
 
 ##### Tasikmalaya
 ### [At least 3 are killed and 7 injured when a passenger train derails in the Tasikmalaya District, in Indonesia's West Java Island after hitting mounds of mud following a downpour of rain. ](/news/2014/04/5/at-least-3-are-killed-and-7-injured-when-a-passenger-train-derails-in-the-tasikmalaya-district-in-indonesia-s-west-java-island-after-hittin.md)
@@ -29,11 +29,11 @@ PRIME Minister Tony Abbott has made a last-ditch plea to West Australian voters 
 
 ##### Sinn Fein
 ### [Sinn Fein's Martin McGuinness, the Deputy First Minister of Northern Ireland accepts an invitation to attend several events during the forthcoming State visit of Irish President Michael D. Higgins to the United Kingdom, including a banquet to be held by Elizabeth II at Windsor Castle. ](/news/2014/04/5/sinn-fa-c-inas-martin-mcguinness-the-deputy-first-minister-of-northern-ireland-accepts-an-invitation-to-attend-several-events-during-the-fo.md)
-_Context: Martin McGuinness, banquet, Michael D. Higgins, Windsor Castle, Deputy First Minister of Northern Ireland, President, Elizabeth II, Sinn Fein_
+_Context: Deputy First Minister of Northern Ireland, Sinn Fein, Windsor Castle, Martin McGuinness, President, Elizabeth II, banquet, Michael D. Higgins_
 
 ##### Roman Catholic Archdiocese of Atlanta
 ### [Roman Catholic Archdiocese of Atlanta archbishop Wilton Gregory announces he will sell his recently-acquired $2.2 million mansion amid criticism amongst parishioners. ](/news/2014/04/5/roman-catholic-archdiocese-of-atlanta-archbishop-wilton-gregory-announces-he-will-sell-his-recently-acquired-2-2-million-mansion-amid-criti.md)
-_Context: Roman Catholic Archdiocese of Atlanta, Wilton Gregory_
+_Context: Wilton Gregory, Roman Catholic Archdiocese of Atlanta_
 
 ## [Previous Day...](/news/2014/04/4/index.md)
 

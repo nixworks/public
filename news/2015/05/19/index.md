@@ -33,7 +33,7 @@ _Context: French-born, France, Germanwings Flight 9525_
 
 ##### Baku
 ### [ At least 16 people are killed and scores are injured in a residential building fire in Baku, Azerbaijan. ](/news/2015/05/19/at-least-16-people-are-killed-and-scores-are-injured-in-a-residential-building-fire-in-baku-azerbaijan.md)
-_Context: Azerbaijan, Baku_
+_Context: Baku, Azerbaijan_
 
 ##### Norwegian Cruise Line's
 ### [ Norwegian Cruise Line's "Norwegian Dawn" ran aground three miles off Bermuda when departing for a return trip to Boston, Massachusetts, U.S.A.. ](/news/2015/05/19/norwegian-cruise-line-s-norwegian-dawn-ran-aground-three-miles-off-bermuda-when-departing-for-a-return-trip-to-boston-massachusetts-u-s.md)
@@ -57,7 +57,7 @@ Mohawk Industries Inc and fiveother companies have agreed to pay a combined $275
 
 ##### Presidents
 ### [The President of Burundi Pierre Nkurunziza says that the government will proceed with a presidential election despite protests and a recent failed coup. ](/news/2015/05/19/the-president-of-burundi-pierre-nkurunziza-says-that-the-government-will-proceed-with-a-presidential-election-despite-protests-and-a-recent.md)
-_Context: Pierre Nkurunziza, failed coup, 2015 Burundian unrest, Burundian presidential election, 2015, Presidents_
+_Context: Pierre Nkurunziza, failed coup, Burundian presidential election, 2015, 2015 Burundian unrest, Presidents_
 
 ##### Lawmakers
 ### [The United States Congress sends a human trafficking bill to President Barack Obama for signature. ](/news/2015/05/19/the-united-states-congress-sends-a-human-trafficking-bill-to-president-barack-obama-for-signature.md)

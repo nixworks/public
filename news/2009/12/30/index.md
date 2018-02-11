@@ -3,9 +3,9 @@ Formats: [HTML](2009/12/30/index.html)  [JSON](2009/12/30/index.json)  [XML](200
 
 ## [2009-12-30](/news/2009/12/30/index.md)
 
-##### United States
+##### American
 ### [ Seven American CIA agents are killed by a suicide bomb attack in a US military base in Khost Province, Afghanistan. Two of the seven killed are contractors for Blackwater Worldwide. The CIA considers contractors to be officers. ](/news/2009/12/30/seven-american-cia-agents-are-killed-by-a-suicide-bomb-attack-in-a-us-military-base-in-khost-province-afghanistan-two-of-the-seven-killed.md)
-_Context: suicide bomb, Khost, Afghanistan, United States, Central Intelligence Agency, Blackwater Worldwide_
+_Context: Central Intelligence Agency, Blackwater Worldwide, suicide bomb, Khost, Afghanistan, American_
 
 ##### Canadian
 ### [ Four Canadian soldiers and a journalist, Michelle Lang of the "Calgary Herald, "are killed in a vehicle explosion in Kandahar, Afghanistan. ](/news/2009/12/30/four-canadian-soldiers-and-a-journalist-michelle-lang-of-the-calgary-herald-are-killed-in-a-vehicle-explosion-in-kandahar-afghanistan.md)
@@ -25,7 +25,7 @@ A British hostage has been freed after more than two-and-a-half years in captivi
 
 ##### President of Indonesia
 ### [ Former President of Indonesia Abdurrahman Wahid dies at the age of 69. ](/news/2009/12/30/former-president-of-indonesia-abdurrahman-wahid-dies-at-the-age-of-69.md)
-_Context: President of Indonesia, Indonesia, Abdurrahman Wahid_
+_Context: Abdurrahman Wahid, President of Indonesia, Indonesia_
 
 ##### Nigeria
 ### [ The death toll in clashes in the northern Nigerian state of Bauchi rises to 70, with 1,000 displaced. ](/news/2009/12/30/the-death-toll-in-clashes-in-the-northern-nigerian-state-of-bauchi-rises-to-70-with-1-000-displaced.md)
@@ -33,7 +33,7 @@ _Context: Nigeria, Bauchi State_
 
 ##### Taiwan
 ### [ Taiwan announces plans to reimpose a ban on certain U.S. beef products amid concerns over mad cow disease. ](/news/2009/12/30/taiwan-announces-plans-to-reimpose-a-ban-on-certain-u-s-beef-products-amid-concerns-over-mad-cow-disease.md)
-_Context: mad cow disease, Taiwan, United States_
+_Context: mad cow disease, Taiwan, American_
 
 ##### Australia
 ### [ The Australian government predicts a 20% fall in the number of Indian students studying in the country, due to a series of racist attacks earlier this year. ](/news/2009/12/30/the-australian-government-predicts-a-20-fall-in-the-number-of-indian-students-studying-in-the-country-due-to-a-series-of-racist-attacks-e.md)
@@ -41,7 +41,7 @@ New figures show there will be 4,000 fewer Indian nationals coming to Australia 
 
 ##### Iran
 ### [ Thousands of pro-government supporters in Iran demonstrate against recent anti-government protests on Ashura. ](/news/2009/12/30/thousands-of-pro-government-supporters-in-iran-demonstrate-against-recent-anti-government-protests-on-ashura.md)
-_Context: Ashura, Iran, anti-government protests_
+_Context: anti-government protests, Iran, Ashura_
 
 ##### China
 ### [ A senior Chinese admiral says the country may build its first foreign naval base in the Middle East. ](/news/2009/12/30/a-senior-chinese-admiral-says-the-country-may-build-its-first-foreign-naval-base-in-the-middle-east.md)

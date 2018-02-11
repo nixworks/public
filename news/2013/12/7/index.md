@@ -11,7 +11,7 @@ Syrian rebels from an Islamist alliance formed last month have occupied bases an
 ### [France expands its role in the conflict in the Central African Republic. ](/news/2013/12/7/france-expands-its-role-in-the-conflict-in-the-central-african-republic.md)
 A reinforced French force in the Central African Republic expands operations in the capital and beyond, to try to end deadly sectarian fighting.
 
-##### United States
+##### American
 ### [87-year-old American comedian Don Rickles is recovering after treatment for a leg infection of necrotizing fasciitis, better known as a flesh-eating disease. ](/news/2013/12/7/87-year-old-american-comedian-don-rickles-is-recovering-after-treatment-for-a-leg-infection-of-necrotizing-fasciitis-better-known-as-a-fles.md)
 Don Rickles is on the mend. After canceling several shows due to treatment for a leg infection, the New York Post has reported that the 87-year-old comedy legend was suffering from necrotizing fasciitis, better known as a flesh-eating disease.
 
@@ -25,11 +25,11 @@ CASUALTIES in the wake of Yolanda (international name: Haiyan) rose to 5,786 on 
 
 ##### New York University School of Medicine
 ### [Researchers at the New York University School of Medicine are published in the "Journal of the National Cancer Institute", describing a link between decreased levels of gut microbe diversity and increased colorectal cancer rates. A possible cause of the link may be that such people's digestive tracts have lower levels of bacteria that ferment dietary fiber into the anti-inflammatory fatty acid butyrate. However, the causative link remains uncertain since there could be other influencing factors, such as genetics, obesity, or the presence of inflammatory types of microbes. ](/news/2013/12/7/researchers-at-the-new-york-university-school-of-medicine-are-published-in-the-journal-of-the-national-cancer-institute-describing-a-link.md)
-_Context: dietary fiber, anti-inflammatory, gut microbe, butyrate, New York University School of Medicine, fatty acid, Journal of the National Cancer Institute, colorectal cancer_
+_Context: colorectal cancer, Journal of the National Cancer Institute, New York University School of Medicine, dietary fiber, butyrate, fatty acid, anti-inflammatory, gut microbe_
 
 ##### North Korea
 ### [North Korea releases 85-year-old American retiree Merrill Newman after 42 days in captivity. The United States once again asks the DPRK to pardon and release Kenneth Bae. ](/news/2013/12/7/north-korea-releases-85-year-old-american-retiree-merrill-newman-after-42-days-in-captivity-the-united-states-once-again-asks-the-dprk-to-p.md)
-_Context: United States, Merrill Newman, American, Kenneth Bae, North Korea_
+_Context: North Korea, American, American, Kenneth Bae, Merrill Newman_
 
 ##### World Trade Organization
 ### [The World Trade Organization meeting in Bali, Indonesia, concludes with agreement to simplify trade deals and make it easier for poorer states to sell their goods as part of the Bali Package. ](/news/2013/12/7/the-world-trade-organization-meeting-in-bali-indonesia-concludes-with-agreement-to-simplify-trade-deals-and-make-it-easier-for-poorer-stat.md)

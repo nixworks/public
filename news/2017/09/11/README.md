@@ -9,11 +9,11 @@ Islamic State militants ambushed a police convoy in Egypt’s Sinai Peninsula on
 
 ##### Syrian Civil War
 ### [Russia sends 175 demining combat engineers to defuse mines in Deir ez-Zor Governorate. ](/news/2017/09/11/russia-sends-175-demining-combat-engineers-to-defuse-mines-in-deir-ez-zor-governorate.md)
-_Context: Deir ez-Zor Governorate, demining, Syrian Civil War, Siege of Deir ez-Zor (2014-17), combat engineers, Russia_
+_Context: combat engineers, Deir ez-Zor Governorate, Syrian Civil War, demining, Russia, Siege of Deir ez-Zor (2014-17)_
 
 ##### Monkey selfie copyright dispute
 ### [PETA and David Slater settle the monkey selfie copyright dispute. ](/news/2017/09/11/peta-and-david-slater-settle-the-monkey-selfie-copyright-dispute.md)
-_Context: monkey selfie copyright dispute, Monkey selfie copyright dispute, PETA_
+_Context: PETA, Monkey selfie copyright dispute, monkey selfie copyright dispute_
 
 ##### Rail accidents in 2017
 ### [Two trains collide in Andermatt railway station in the Canton of Uri, Switzerland, injuring around 30 people. ](/news/2017/09/11/two-trains-collide-in-andermatt-railway-station-in-the-canton-of-uri-switzerland-injuring-around-30-people.md)
@@ -29,7 +29,7 @@ The United Nations Security Council approved new sanctions aimed at punishing No
 
 ##### Crime in Belgium
 ### [Mouscron mayor Alfred Gadenne is found dead with his throat slashed inside the Belgian city's cemetery. A suspect has reportedly turned himself in to police. ](/news/2017/09/11/mouscron-mayor-alfred-gadenne-is-found-dead-with-his-throat-slashed-inside-the-belgian-city-s-cemetery-a-suspect-has-reportedly-turned-hims.md)
-_Context: Crime in Belgium, Mouscron, Alfred Gadenne_
+_Context: Alfred Gadenne, Mouscron, Crime in Belgium_
 
 ##### Crime in Brazil
 ### [Brazil is to investigate the supposed murder of ten members of an Amazonian tribe in the Javari Valley. ](/news/2017/09/11/brazil-is-to-investigate-the-supposed-murder-of-ten-members-of-an-amazonian-tribe-in-the-javari-valley.md)
@@ -41,7 +41,7 @@ California on Monday sued the Trump administration, challenging as unconstitutio
 
 ##### Politics of the Philippines
 ### [Philippine Justice secretary Vitaliano Aguirre is caught allegedly conspiring a lawsuit against opposition Senator Risa Hontiveros. ](/news/2017/09/11/philippine-justice-secretary-vitaliano-aguirre-is-caught-allegedly-conspiring-a-lawsuit-against-opposition-senator-risa-hontiveros.md)
-_Context: Philippines, Justice, Politics of the Philippines, senators, lawsuit, Risa Hontiveros, Vitaliano Aguirre_
+_Context: Justice, Vitaliano Aguirre, Philippines, senators, lawsuit, Risa Hontiveros, Politics of the Philippines_
 
 ##### Catalan independence
 ### [Around a million people rally in Barcelona to mark the National Day of Catalonia and to support the upcoming independence referendum on 1 October. ](/news/2017/09/11/around-a-million-people-rally-in-barcelona-to-mark-the-national-day-of-catalonia-and-to-support-the-upcoming-independence-referendum-on-1-oc.md)

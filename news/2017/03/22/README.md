@@ -15,13 +15,13 @@ At least 33 people killed in coalition strike on school used as refugee centre n
 ### [Multiple suicide blasts occur at a refugee camp near Maiduguri, Nigeria, leaving eight people dead and wounding 18 others. ](/news/2017/03/22/multiple-suicide-blasts-occur-at-a-refugee-camp-near-maiduguri-nigeria-leaving-eight-people-dead-and-wounding-18-others.md)
 A total of eight people including five suicide bombers have been killed in multiple explosions in Maiduguri, the Borno State capital.
 
-##### Israel Defense Forces
+##### Israeli Army
 ### [An Israeli Army tank kills a Palestinian teenager and wounds two others near the Gaza border. ](/news/2017/03/22/an-israeli-army-tank-kills-a-palestinian-teenager-and-wounds-two-others-near-the-gaza-border.md)
 Incident comes after IDF completes large scale drill in the south simulating a war with Gaza.
 
 ##### March 2017 Israel-Syria incident
 ### [The Israeli Air Force resumes bombing against suspected Hezbollah-related targets in Syria, with a fourth round of bombings occurring near military sites near Damascus. ](/news/2017/03/22/the-israeli-air-force-resumes-bombing-against-suspected-hezbollah-related-targets-in-syria-with-a-fourth-round-of-bombings-occurring-near-m.md)
-_Context: Israeli Air Force, March 2017 Israel-Syria incident, Syria, Hezbollah, Damascus_
+_Context: Damascus, March 2017 Israel-Syria incident, Hezbollah, Israeli Air Force, Syria_
 
 ##### Ramle
 ### [Near the town of Ramle, Israeli archeologists uncover hundreds of gin and whiskey bottles dating back to the First World War at the site of a former British Army barracks. ](/news/2017/03/22/near-the-town-of-ramle-israeli-archeologists-uncover-hundreds-of-gin-and-whiskey-bottles-dating-back-to-the-first-world-war-at-the-site-of.md)

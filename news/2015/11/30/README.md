@@ -5,7 +5,7 @@ Formats: [HTML](2015/11/30/index.html)  [JSON](2015/11/30/index.json)  [XML](201
 
 ##### Paris attack aftermath
 ### [French intelligence services are reportedly operating under the theory that Paris-attacks suspect Salah Abdeslam has escaped to Syria despite country-wide martial law in 3 different countries. ](/news/2015/11/30/french-intelligence-services-are-reportedly-operating-under-the-theory-that-paris-attacks-suspect-salah-abdeslam-has-escaped-to-syria-despit.md)
-_Context: France, Syria, November 2015 Paris attacks, Salah Abdeslam, martial law, Paris attack aftermath, intelligence services_
+_Context: intelligence services, Syria, Paris attack aftermath, France, Salah Abdeslam, martial law, November 2015 Paris attacks_
 
 ##### Military intervention against ISIL
 ### [With the support of Combined Joint Task Force - Operation Inherent Resolve, Iraqi Armed Forces have launched operations to retake Ramadi from ISIL. ](/news/2015/11/30/with-the-support-of-combined-joint-task-force-a-operation-inherent-resolve-iraqi-armed-forces-have-launched-operations-to-retake-ramadi-f.md)
@@ -17,21 +17,21 @@ US soldiers have reportedly arrived in northern Syria - the first official deplo
 
 ##### Saudi-led intervention in Yemen
 ### [Clashes with Yemeni forces in the kingdom's southern Jizan Region near the border with Yemen leave at least three Saudi border guards killed. ](/news/2015/11/30/clashes-with-yemeni-forces-in-the-kingdom-s-southern-jizan-region-near-the-border-with-yemen-leave-at-least-three-saudi-border-guards-killed.md)
-_Context: border guards, Jizan Region, Saudi-led intervention in Yemen, Saudi Arabia, Yemen_
+_Context: Yemen, Jizan Region, Saudi-led intervention in Yemen, border guards, Saudi Arabia_
 
-##### United States
+##### American
 ### [Responding to reports, the American Tribune Publishing Co. states it is not in talks to sell the company. ](/news/2015/11/30/responding-to-reports-the-american-tribune-publishing-co-states-it-is-not-in-talks-to-sell-the-company.md)
 Tribune Publishing — owner of the Chicago Tribune, Los Angeles Times and other daily papers — denies Rupert Murdoch-fueled rumor that a sale is imminent.
 
 ##### Canadian
 ### [Canadian BlackBerry Limited announces plans to shut down operations in Pakistan at year's end because it cannot comply with the Pakistani government's monitoring orders which would result in a massive invasion of user privacy. ](/news/2015/11/30/canadian-blackberry-limited-announces-plans-to-shut-down-operations-in-pakistan-at-year-s-end-because-it-cannot-comply-with-the-pakistani-go.md)
-_Context: user privacy, Canadian, government, Pakistan, BlackBerry Limited_
+_Context: Pakistan, government, Canadian, BlackBerry Limited, user privacy_
 
 ##### International Monetary Fund
 ### [The International Monetary Fund modifies its benchmark currency basket to include the yuan of the People's Republic of China. The basket also includes the U.S. dollar, the euro, the pound sterling, and the Japanese yen. ](/news/2015/11/30/the-international-monetary-fund-modifies-its-benchmark-currency-basket-to-include-the-yuan-of-the-people-s-republic-of-china-the-basket-als.md)
-_Context: China, yuan, International Monetary Fund, benchmark currency basket_
+_Context: benchmark currency basket, International Monetary Fund, yuan, China_
 
-##### United States
+##### American
 ### [The United States Federal Reserve Board approves a rule prohibiting the government from extending emergency loans to "too big to fail" companies, a practice deemed essential during the global financial crisis of 2008 and 2009. ](/news/2015/11/30/the-united-states-federal-reserve-board-approves-a-rule-prohibiting-the-government-from-extending-emergency-loans-to-too-big-to-fail-compa.md)
 The Federal Reserve Board approved a rule prohibiting the government from extending emergency loans to &quot;too big to fail&quot; companies.
 
@@ -49,11 +49,11 @@ By Alisa TangBANGKOK (Thomson Reuters Foundation) - The estimated number of adol
 
 ##### Martyrs' Day (United Arab Emirates)
 ### [Martyrs' Day (United Arab Emirates) is being observed in United Arab Emirates as Commemoration Day this year on November 30, 2015, recognising the sacrifices and dedication of Emirati martyrs who have given their life in the UAE and abroad in the field of civil, military and humanitarian service. ](/news/2015/11/30/martyrs-day-united-arab-emirates-is-being-observed-in-united-arab-emirates-as-commemoration-day-this-year-on-november-30-2015-recognisi.md)
-_Context: Emirati martyrs, United Arab Emirates, Martyrs' Day (United Arab Emirates)_
+_Context: United Arab Emirates, Emirati martyrs, Martyrs' Day (United Arab Emirates)_
 
 ##### South Korea
 ### [South Korea's parliament approves a free trade pact with China after opposition lawmakers, concerned that deal that would hurt agriculture and fisheries, secured a $1.4 billion relief package for farmers. ](/news/2015/11/30/south-korea-s-parliament-approves-a-free-trade-pact-with-china-after-opposition-lawmakers-concerned-that-deal-that-would-hurt-agriculture-a.md)
-_Context: China, parliamentary review, fisheries, South Korea, free trade, agriculture_
+_Context: agriculture, free trade, China, South Korea, parliamentary review, fisheries_
 
 ##### 2015 United Nations Climate Change Conference
 ### [Around 150 world leaders attend the UN Climate Change Conference in Paris, aiming for a global deal on limiting greenhouse gas emissions. ](/news/2015/11/30/around-150-world-leaders-attend-the-un-climate-change-conference-in-paris-aiming-for-a-global-deal-on-limiting-greenhouse-gas-emissions.md)
@@ -81,7 +81,7 @@ Added to list of ‘undesirable organisations’, the foundations are accused of
 
 ##### Baltimore
 ### [Jury selection begins for the trial of William Porter, a Baltimore, Maryland police officer charged with manslaughter and other charges surrounding the April 19 death of Freddie Gray. Porter is the first of six officers to be tried. ](/news/2015/11/30/jury-selection-begins-for-the-trial-of-william-porter-a-baltimore-maryland-police-officer-charged-with-manslaughter-and-other-charges-surr.md)
-_Context: Baltimore, manslaughter by gross negligence, Maryland, Death of Freddie Gray_
+_Context: Baltimore, Death of Freddie Gray, Maryland, manslaughter by gross negligence_
 
 ##### Landslide victory in the December 6 election
 ### [Venezuela announces it will suspend the sale of alcoholic beverages, fireworks and weapons before Sunday's parliamentary elections, starting Friday at 6 p.m. until next Monday at 6 p.m. Civilian permits for the possession and use of firearms and knives will be also be suspended for the same period. ](/news/2015/11/30/venezuela-announces-it-will-suspend-the-sale-of-alcoholic-beverages-fireworks-and-weapons-before-sunday-s-parliamentary-elections-starting.md)
@@ -89,11 +89,11 @@ Venezuela will suspend the sale of alcoholic beverages, fireworks and weapons in
 
 ##### Burkinabe general election, 2015
 ### [Former prime minister Roch Marc Kabore appears on course for a commanding victory in Burkina Faso's election, one large enough to eliminate the need for a run-off. According to the Independent National Electoral Commission, with results from about 72 percent of the country counted, Kabore has 54 percent of the vote with his closest challenger, former finance minister Zephirin Diabre, getting 29 percent. ](/news/2015/11/30/former-prime-minister-roch-marc-kabora-c-appears-on-course-for-a-commanding-victory-in-burkina-faso-s-election-one-large-enough-to-eliminate.md)
-_Context: Burkinabe general election, 2015, prime minister, Burkina Faso, Zephirin Diabre, Roch Marc Kabore_
+_Context: prime minister, Zephirin Diabre, Burkinabe general election, 2015, Burkina Faso, Roch Marc Kabore_
 
 ##### Saudi Arabia elections, 2015
 ### [For the first time in the country's history, Saudi Arabian women are allowed to vote and to stand for office in the December 12, 2015, elections. Candidacy filings opened yesterday. In two days, more than 900 women have signed up to run for various local government positions in the Arab nation. ](/news/2015/11/30/for-the-first-time-in-the-country-s-history-saudi-arabian-women-are-allowed-to-vote-and-to-stand-for-office-in-the-december-12-2015-elect.md)
-_Context: Arab, Saudi Arabia elections, 2015, Saudi Arabia_
+_Context: Arab, Saudi Arabia, Saudi Arabia elections, 2015_
 
 ##### North Carolina State University
 ### [Researchers at North Carolina State University discover a new diamond-like, solid phase of carbon, called Q-carbon, that can be attained at room temperature. The result is a uniquely crystalline material, harder than a real diamond and likely boasting a variety of new properties, most unknown or unstudied. ](/news/2015/11/30/researchers-at-north-carolina-state-university-discover-a-new-diamond-like-solid-phase-of-carbon-called-q-carbon-that-can-be-attained-at.md)

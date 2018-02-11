@@ -49,11 +49,11 @@ Follow our rolling coverage of today&#039;s marches which saw an estimated 400,0
 
 ##### Geraldine Ferraro
 ### [Geraldine Ferraro, a Democratic Party Congresswoman and the first woman to stand for Vice-President of the United States on a major party ticket dies in Boston. ](/news/2011/03/26/geraldine-ferraro-a-democratic-party-congresswoman-and-the-first-woman-to-stand-for-vice-president-of-the-united-states-on-a-major-party-ti.md)
-_Context: Geraldine Ferraro, Boston, Massachusetts, Vice-President of the United States, Democrat, United States House of Representatives_
+_Context: United States House of Representatives, Geraldine Ferraro, Boston, Massachusetts, Vice-President of the United States, Democrat_
 
 ##### Governor-General of Canada
 ### [The Governor-General of Canada David Johnston dissolves the Parliament of Canada and issues writs for the Canadian federal election. ](/news/2011/03/26/the-governor-general-of-canada-david-johnston-dissolves-the-parliament-of-canada-and-issues-writs-for-the-canadian-federal-election.md)
-_Context: Parliament of Canada, Governor-General of Canada, David Johnston, 2011 Canadian federal election_
+_Context: David Johnston, Parliament of Canada, 2011 Canadian federal election, Governor-General of Canada_
 
 ## [Previous Day...](/news/2011/03/25/index.md)
 

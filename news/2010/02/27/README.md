@@ -7,9 +7,9 @@ Formats: [HTML](2010/02/27/index.html)  [JSON](2010/02/27/index.json)  [XML](201
 ### [An 8.8 magnitude earthquake hits near the city of Concepcin, Chile. ](/news/2010/02/27/an-8-8-magnitude-earthquake-hits-near-the-city-of-concepcion-chile.md)
 One of the biggest earthquakes in recorded history rocked Chile on Saturday, killing more than 300 people, toppling buildings and freeways, and setting off sirens thousands of miles away as...
 
-##### Prime Minister
+##### Indian Prime Minister
 ### [Prime Minister of India Manmohan Singh arrives in Saudi Arabia on the first PM visit there since Indira Gandhi's in 1982. ](/news/2010/02/27/prime-minister-of-india-manmohan-singh-arrives-in-saudi-arabia-on-the-first-pm-visit-there-since-indira-gandhi-s-in-1982.md)
-_Context: Saudi Arabia, Manmohan Singh, Indira Gandhi, Prime Minister_
+_Context: Manmohan Singh, Indian Prime Minister, Indira Gandhi, Saudi Arabia_
 
 ##### Egypt
 ### [Egyptian prosecutors begin investigating yesterday's incident where an Italian cruise liner smashed into a dock at Sharm el-Sheikh during severe weather conditions, killing sailors from Brazil, Honduras and India and injuring several passengers. ](/news/2010/02/27/egyptian-prosecutors-begin-investigating-yesterday-s-incident-where-an-italian-cruise-liner-smashed-into-a-dock-at-sharm-el-sheikh-during-se.md)
@@ -25,7 +25,7 @@ _Context: Puning, Guangdong, Lantern Festival_
 
 ##### Yuan
 ### [A drought causes at least 10 billion yuan ($1.46 billion) in direct economic loss at Fanaga village of Luquan county, near Kunming, capital of Yunnan. ](/news/2010/02/27/a-drought-causes-at-least-10-billion-yuan-1-46-billion-in-direct-economic-loss-at-fanaga-village-of-luquan-county-near-kunming-capital.md)
-_Context: yuan, Luquan, Kunming, Fanaga village, Yunnan_
+_Context: yuan, Fanaga village, Yunnan, Luquan, Kunming_
 
 ##### Colombia
 ### [Constitutional judges in Colombia reject a referendum to allow President lvaro Uribe to stand for a third term in office. ](/news/2010/02/27/constitutional-judges-in-colombia-reject-a-referendum-to-allow-president-alvaro-uribe-to-stand-for-a-third-term-in-office.md)
@@ -45,7 +45,7 @@ _Context: Visaginas, Ignalina Nuclear Power Plant_
 
 ##### Gatorade
 ### [Drinks firm Gatorade ends its endorsement deal with golfer Tiger Woods after his string of extra-marital affairs. ](/news/2010/02/27/drinks-firm-gatorade-ends-its-endorsement-deal-with-golfer-tiger-woods-after-his-string-of-extra-marital-affairs.md)
-_Context: Tiger Woods, Gatorade_
+_Context: Gatorade, Tiger Woods_
 
 ## [Previous Day...](/news/2010/02/26/index.md)
 

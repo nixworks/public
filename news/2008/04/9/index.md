@@ -9,7 +9,7 @@ _Context: San Francisco, 2008 Summer Olympics torch relay_
 
 ##### Tibet
 ### [ The body representing all National Olympic Committees says it had deleted a mention of Tibet in its Beijing Games declaration after a debate among its members. ](/news/2008/04/9/the-body-representing-all-national-olympic-committees-says-it-had-deleted-a-mention-of-tibet-in-its-beijing-games-declaration-after-a-debat.md)
-_Context: 2008 Summer Olympics, Tibet_
+_Context: Tibet, 2008 Summer Olympics_
 
 ##### American Airlines
 ### [ American Airlines cancels more than 1,000 flights in order to make sure some wiring on its fleet of 300 MD-80 jetliners was secured correctly inside wheel wells. ](/news/2008/04/9/american-airlines-cancels-more-than-1-000-flights-in-order-to-make-sure-some-wiring-on-its-fleet-of-300-md-80-jetliners-was-secured-correct.md)
@@ -17,7 +17,7 @@ The airline is also expected to cancel 900 more flights on Thursday to make sure
 
 ##### Nepal
 ### [ Police in Nepal shoot dead six Maoists the day before the holding of Constituent Assembly elections. ](/news/2008/04/9/police-in-nepal-shoot-dead-six-maoists-the-day-before-the-holding-of-constituent-assembly-elections.md)
-_Context: Nepalese Constituent Assembly election, 2008, Maoist supporters, Nepal_
+_Context: Nepal, Maoist supporters, Nepalese Constituent Assembly election, 2008_
 
 ##### Her Majesty's Most Honourable Privy Council
 ### [ Her Majesty's Most Honourable Privy Council approves changes to the system of government on Sark, ending about 450 years of feudalism on the Channel Island. ](/news/2008/04/9/her-majesty-s-most-honourable-privy-council-approves-changes-to-the-system-of-government-on-sark-ending-about-450-years-of-feudalism-on-th.md)

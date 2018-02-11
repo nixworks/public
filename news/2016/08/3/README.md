@@ -13,7 +13,7 @@ A British-era bridge across the Savitri River on the Mumbai-Goa highway collapse
 
 ##### Emirates
 ### [An Emirates Boeing 777-300, flight EK521 from Thiruvananthapuram in India, crash lands at Dubai International Airport and bursts into flames. All 282 passengers and 18 crew evacuate safely, although one firefighter is killed during the rescue. ](/news/2016/08/3/an-emirates-boeing-777-300-flight-ek521-from-thiruvananthapuram-in-india-crash-lands-at-dubai-international-airport-and-bursts-into-flames.md)
-_Context: Thiruvananthapuram, flight EK521, India, Boeing 777-300, Emirates, Dubai International Airport_
+_Context: Thiruvananthapuram, Dubai International Airport, Emirates, flight EK521, Boeing 777-300, India_
 
 ##### 2016 Atlantic hurricane season
 ### [ Tropical Storm Earl, now about 265 miles (425 km) east-southeast of Belize City with top sustained winds of 70 mph (110 KM-H), becomes Hurricane Earl that could produce up to 16 inches of rain by the time it hits Belize. On Sunday, then a tropical wave, Earl was responsible for nine deaths, with four people still missing, in the Dominican Republic. ](/news/2016/08/3/tropical-storm-earl-now-about-265-miles-425-km-east-southeast-of-belize-city-with-top-sustained-winds-of-70-mph-110-km-h-becomes-hurr.md)
@@ -39,7 +39,7 @@ The Supreme Court temporarily blocked a Virginia transgender student from using 
 ### [At least one person is dead and several injured as a result of a knife attack in London's Russell Square. ](/news/2016/08/3/at-least-one-person-is-dead-and-several-injured-as-a-result-of-a-knife-attack-in-london-s-russell-square.md)
 A man is arrested on suspicion of murder after a US citizen was killed and five other people were injured in a knife attack in Russell Square, central London.
 
-##### United States
+##### American
 ### [The United States Federal Aviation Administration approves private startup company Moon Express landing a robotic craft on the Moon, according to the Mountain View, California, company. ](/news/2016/08/3/the-united-states-federal-aviation-administration-approves-private-startup-company-moon-express-landing-a-robotic-craft-on-the-moon-accordi.md)
 If accomplished, that feat would win the company, Moon Express, the Google Lunar X Prize competition and an accompanying $20 million reward.
 

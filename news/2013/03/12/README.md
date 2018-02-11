@@ -13,7 +13,7 @@ Israeli troops shot to death a Palestinian man on Tuesday after he and others hu
 
 ##### England
 ### [English singer and lyricist Morrissey is diagnosed with severe pneumonia and hospitalised in San Francisco on his U.S. tour. ](/news/2013/03/12/english-singer-and-lyricist-morrissey-is-diagnosed-with-severe-pneumonia-and-hospitalised-in-san-francisco-on-his-u-s-tour.md)
-_Context: San Francisco, England, United States, pneumonia, Morrissey_
+_Context: England, Morrissey, San Francisco, American, pneumonia_
 
 ##### Better Business Bureau
 ### [The Better Business Bureau expels the Los Angeles chapter, the nation's largest chapter, over a pay-to-play scheme. ](/news/2013/03/12/the-better-business-bureau-expels-the-los-angeles-chapter-the-nation-s-largest-chapter-over-a-pay-to-play-scheme.md)
@@ -29,7 +29,7 @@ A Japanese energy explorer said on Tuesday it extracted gas from offshore methan
 
 ##### Apollo Global Management
 ### [Private equity firm Apollo Global Management announces that it has purchased the rights to Twinkies and other Hostess Brands snacks and hopes to have the treats back on grocery shelves by summer. ](/news/2013/03/12/private-equity-firm-apollo-global-management-announces-that-it-has-purchased-the-rights-to-twinkies-and-other-hostess-brands-snacks-and-hope.md)
-_Context: snack, Hostess Brands, Twinkie, Apollo Global Management_
+_Context: Hostess Brands, snack, Twinkie, Apollo Global Management_
 
 ##### Bell AH-1 Cobra
 ### [An Israeli military helicopter Bell AH-1 Cobra crashes near Palmachim Airbase in southern Israel and kills two IAF pilots. ](/news/2013/03/12/an-israeli-military-helicopter-bell-ah-1-cobra-crashes-near-palmachim-airbase-in-southern-israel-and-kills-two-iaf-pilots.md)
@@ -57,17 +57,17 @@ Far-reaching restrictions on the trade in hardwood trees have been agreed at Cit
 
 ##### South Africa
 ### [South Africa exhumes the bodies of two people whose deaths may be tied to Winnie Madikizela-Mandela, ex-wife of Nelson Mandela. ](/news/2013/03/12/south-africa-exhumes-the-bodies-of-two-people-whose-deaths-may-be-tied-to-winnie-madikizela-mandela-ex-wife-of-nelson-mandela.md)
-_Context: Nelson Mandela, exhume, South Africa, Winnie Madikizela-Mandela_
+_Context: South Africa, Nelson Mandela, exhume, Winnie Madikizela-Mandela_
 
 ##### Opus Dei
 ### [The secretive Opus Dei sect is mobilising within the Irish professions to interfere with abortion law reform, according to Senator John Crown. ](/news/2013/03/12/the-secretive-opus-dei-sect-is-mobilising-within-the-irish-professions-to-interfere-with-abortion-law-reform-according-to-senator-john-crow.md)
-_Context: abortion law, Opus Dei, John Crown, Seanad Eireann, Irish, Abortion in the Republic of Ireland_
+_Context: Abortion in the Republic of Ireland, John Crown, Opus Dei, abortion law, Seanad Eireann, Irish_
 
 ##### United States Secret Service
 ### [The United States Secret Service launches an investigation after hackers post what they claim is personal data and credit information of celebrities, including First Lady Michelle Obama, online. ](/news/2013/03/12/the-united-states-secret-service-launches-an-investigation-after-hackers-post-what-they-claim-is-personal-data-and-credit-information-of-cel.md)
 The US Secret Service has launched an investigation after hackers posted what they said was personal data and credit information of celebrities, including First Lady Michelle Obama, online.
 
-##### United States
+##### American
 ### [A U.S. judge entered a plea of not guilty on the behalf of alleged Aurora theater gunman James Holmes, after his lawyers said they were not ready to enter a plea. ](/news/2013/03/12/a-u-s-judge-entered-a-plea-of-not-guilty-on-the-behalf-of-alleged-aurora-theater-gunman-james-holmes-after-his-lawyers-said-they-were-not.md)
 A US judge has entered a plea of not guilty on behalf of alleged Aurora theatre gunman James Holmes, after his lawyers said they were not ready to enter a plea.
 
@@ -75,9 +75,9 @@ A US judge has entered a plea of not guilty on behalf of alleged Aurora theatre 
 ### [Former New York City police officer Gilberto Valle is found guilty of plotting to kidnap, kill, and eat women. ](/news/2013/03/12/former-new-york-city-police-officer-gilberto-valle-is-found-guilty-of-plotting-to-kidnap-kill-and-eat-women.md)
 New York City police officer Gilberto Valle is convicted of plotting to murder his wife, and cook and eat other women.
 
-##### United States
+##### American
 ### [Authorities believe that a U.S. man suspected of killing his grandparents on March 8 in Renton, Washington, is barricaded in a hotel in Lincoln City, Oregon. ](/news/2013/03/12/authorities-believe-that-a-u-s-man-suspected-of-killing-his-grandparents-on-march-8-in-renton-washington-is-barricaded-in-a-hotel-in-linc.md)
-_Context: Oregon, March 8, Renton, Washington, United States, Washington, Lincoln City_
+_Context: Washington, Oregon, Lincoln City, March 8, Renton, Washington, American_
 
 ##### Greenland
 ### [Voters in Greenland go to the polls for a parliamentary election. ](/news/2013/03/12/voters-in-greenland-go-to-the-polls-for-a-parliamentary-election.md)

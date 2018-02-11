@@ -3,7 +3,7 @@ Formats: [HTML](2010/06/30/index.html)  [JSON](2010/06/30/index.json)  [XML](201
 
 ## [2010-06-30](/news/2010/06/30/index.md)
 
-##### United States
+##### American
 ### [The United States government is sued by 10 plaintiffs, including an American citizen, challenging the country's no-fly list. ](/news/2010/06/30/the-united-states-government-is-sued-by-10-plaintiffs-including-an-american-citizen-challenging-the-country-s-no-fly-list.md)
 The American Civil Liberties Union plans to sue the US authorities over the &quot;no-fly&quot; list, saying it stops innocent people from travelling.
 
@@ -19,7 +19,7 @@ The Democratic Republic of Congo marks 50 years of independence Wednesday with U
 ### [A man claiming to be an Iranian nuclear scientist, Shahram Amiri, says he has escaped from United States agents whom he alleges were holding him illegally and calls for help from the Iranian government and human rights agencies. ](/news/2010/06/30/a-man-claiming-to-be-an-iranian-nuclear-scientist-shahram-amiri-says-he-has-escaped-from-united-states-agents-whom-he-alleges-were-holding.md)
 A man claiming to be an Iranian nuclear scientist kidnapped by the US says he has escaped from custody, in a video shown on Iranian TV.
 
-##### United States
+##### American
 ### [A man whom the United States considers to be the 11th member of a Russian spy ring goes missing in Cyprus. ](/news/2010/06/30/a-man-whom-the-united-states-considers-to-be-the-11th-member-of-a-russian-spy-ring-goes-missing-in-cyprus.md)
 The 11th member of alleged Russian spy ring in US fails to appear at police station.
 
@@ -45,7 +45,7 @@ Sudanese authorities release Islamist opposition leader Hassan al-Turabi after s
 
 ##### His predecessor
 ### [Benigno Aquino III is sworn in as the 15th President of the Philippines and Jejomar Binay is sworn the 15th Vice President of the Philippines.](/news/2010/06/30/benigno-aquino-iii-is-sworn-in-as-the-15th-president-of-the-philippines-and-jejomar-binay-is-sworn-the-15th-vice-president-of-the-philippine.md)
-_Context: President, his predecessor, Jejomar Binay, Vice President of the Philippines_
+_Context: his predecessor, Jejomar Binay, President, Vice President of the Philippines_
 
 ##### Burundi
 ### [Two people are killed overnight in Burundi and two others wounded in violence that follows a controversial presidential election in which incumbent Pierre Nkurunziza was the only candidate. ](/news/2010/06/30/two-people-are-killed-overnight-in-burundi-and-two-others-wounded-in-violence-that-follows-a-controversial-presidential-election-in-which-in.md)
@@ -61,7 +61,7 @@ Dozens protesting arrest of opposition Islamic party leaders injured in clashes.
 
 ##### 6.2-magnitude earthquake
 ### [A 6.2-magnitude earthquake occurs in southern Mexico near the city of Pinotepa Nacional, shaking buildings as far away as Mexico City but not causing serious damage or casualties. ](/news/2010/06/30/a-6-2-magnitude-earthquake-occurs-in-southern-mexico-near-the-city-of-pinotepa-nacional-shaking-buildings-as-far-away-as-mexico-city-but-no.md)
-_Context: Pinotepa Nacional, 6.2-magnitude earthquake, Mexican, Mexico City_
+_Context: 6.2-magnitude earthquake, Pinotepa Nacional, Mexican, Mexico City_
 
 ##### Egypt
 ### [An unfinished secret tomb is found in Egypt. ](/news/2010/06/30/an-unfinished-secret-tomb-is-found-in-egypt.md)
@@ -69,7 +69,7 @@ _Context: Egypt_
 
 ##### Leviathan melvillei
 ### [The discovery of fossilized remains of "Leviathan melvillei", an extinct species of physeteroid whale, is announced in "Nature". ](/news/2010/06/30/the-discovery-of-fossilized-remains-of-leviathan-melvillei-an-extinct-species-of-physeteroid-whale-is-announced-in-nature.md)
-_Context: whale, Leviathan melvillei, physeteroid, ''Nature''_
+_Context: Leviathan melvillei, ''Nature'', physeteroid, whale_
 
 ##### Irish
 ### [Ireland officially exits recession. ](/news/2010/06/30/ireland-officially-exits-recession.md)
@@ -77,11 +77,11 @@ Figures from the CSO show that the Irish economy technically emerged from recess
 
 ##### Southwest China
 ### [Rescuers have recovered eight bodies from the ruins of a southwest China village, two days after a devastating rain-triggered landslide destroyed 37 houses and buried 99 villagers under mud. 91 residents of Dazhai Village, Guanling County, Guizhou Province, remained missing. ](/news/2010/06/30/rescuers-have-recovered-eight-bodies-from-the-ruins-of-a-southwest-china-village-two-days-after-a-devastating-rain-triggered-landslide-dest.md)
-_Context: Dazhai, Guizhou, Guanling, southwest China_
+_Context: Guanling, Dazhai, Guizhou, southwest China_
 
 ##### Iraq
 ### [13 people are killed during attacks in Iraq: 4 people die in the town of Beiji. ](/news/2010/06/30/13-people-are-killed-during-attacks-in-iraq-4-people-die-in-the-town-of-beiji.md)
-_Context: Iraq, Baiji_
+_Context: Baiji, Iraq_
 
 ##### Afghanistan
 ### [8 militants are killed in fighting at eastern Afghanistan's Jalalabad Airport. ](/news/2010/06/30/8-militants-are-killed-in-fighting-at-eastern-afghanistan-s-jalalabad-airport.md)
@@ -109,15 +109,15 @@ A war crimes court rules that model Naomi Campbell can be called to testify agai
 
 ##### Italy
 ### [The Italian government appeals to the European Court of Human Rights to overturn a ban on classroom crucifixes. ](/news/2010/06/30/the-italian-government-appeals-to-the-european-court-of-human-rights-to-overturn-a-ban-on-classroom-crucifixes.md)
-_Context: crucifix, Italy, European Court of Human Rights_
+_Context: Italy, European Court of Human Rights, crucifix_
 
 ##### Goodluck Jonathan
 ### [Goodluck Jonathan suspends the Nigeria national football team from international competition for two years due to poor performances in the 2010 FIFA World Cup in South Africa. ](/news/2010/06/30/goodluck-jonathan-suspends-the-nigeria-national-football-team-from-international-competition-for-two-years-due-to-poor-performances-in-the-2.md)
-_Context: South Africa, 2010 FIFA World Cup, Goodluck Jonathan, national football team_
+_Context: 2010 FIFA World Cup, South Africa, Goodluck Jonathan, national football team_
 
 ##### Roger Federer
 ### [Roger Federer is defeated by Tomas Berdych of the Czech Republic at Wimbledon, so Federer will not contest the final for the first time since 2002, also his second Wimbledon loss during that time. ](/news/2010/06/30/roger-federer-is-defeated-by-toma-a-berdych-of-the-czech-republic-at-wimbledon-so-federer-will-not-contest-the-final-for-the-first-time-si.md)
-_Context: Czech Republic, Roger Federer, Tomas Berdych, 2010 Wimbledon Championships_
+_Context: Tomas Berdych, Roger Federer, Czech Republic, 2010 Wimbledon Championships_
 
 ## [Previous Day...](/news/2010/06/29/index.md)
 

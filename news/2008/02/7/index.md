@@ -9,7 +9,7 @@ A gunman killed two police officers and three city officials on Thursday night w
 
 ##### Sugar refinery
 ### [ Four people die and dozens are hurt in an explosion at a sugar refinery in Port Wentworth, Georgia. ](/news/2008/02/7/four-people-die-and-dozens-are-hurt-in-an-explosion-at-a-sugar-refinery-in-port-wentworth-georgia.md)
-_Context: Port Wentworth, Georgia, sugar refinery_
+_Context: sugar refinery, Port Wentworth, Georgia_
 
 ##### Lawmakers
 ### [ The United States Congress approves a $168 billion economic stimulus package and sends it to President George W. Bush for his approval. ](/news/2008/02/7/the-united-states-congress-approves-a-168-billion-economic-stimulus-package-and-sends-it-to-president-george-w-bush-for-his-approval.md)
@@ -17,7 +17,7 @@ Democrats agreed to add only payments for senior citizens and disabled veterans 
 
 ##### Slovakia
 ### [ The Slovakian Parliament vote on the Lisbon Treaty ratification is indefinitely postponed. ](/news/2008/02/7/the-slovakian-parliament-vote-on-the-lisbon-treaty-ratification-is-indefinitely-postponed.md)
-_Context: Slovakia, Parliament of Slovakia, Lisbon Treaty_
+_Context: Slovakia, Lisbon Treaty, Parliament of Slovakia_
 
 ##### National Assembly
 ### [ The National Assembly of France approves the Treaty of Lisbon by 336 votes to 52. ](/news/2008/02/7/the-national-assembly-of-france-approves-the-treaty-of-lisbon-by-336-votes-to-52.md)
@@ -29,19 +29,19 @@ Atlantis launches on schedule despite earlier forecasts of thunderstorms and hea
 
 ##### Muslim
 ### [ British Muslim cleric Abu Hamza al-Masri will be extradited to the United States to face terror charges. ](/news/2008/02/7/british-muslim-cleric-abu-hamza-al-masri-will-be-extradited-to-the-united-states-to-face-terror-charges.md)
-_Context: Muslim, United States, extradition, Abu Hamza al-Masri_
+_Context: extradition, Muslim, Abu Hamza al-Masri, American_
 
-##### United States
+##### American
 ### [ There are mass arrests in the United States and Italy in an anti-Mafia sweep including three suspected senior members of the Gambino crime family. ](/news/2008/02/7/there-are-mass-arrests-in-the-united-states-and-italy-in-an-anti-mafia-sweep-including-three-suspected-senior-members-of-the-gambino-crime.md)
 Police in the United States and Italy arrested 77 suspected members of the Mafia on Thursday, including some of its most wanted leaders, for an array of crimes going back more than 30 years.
 
 ##### 2008
 ### [ United States presidential election, 2008: Former Governor of Massachusetts Mitt Romney suspends his campaign. ](/news/2008/02/7/united-states-presidential-election-2008-former-governor-of-massachusetts-mitt-romney-suspends-his-campaign.md)
-_Context: 2008, his campaign, Mitt Romney, Massachusetts governor_
+_Context: Mitt Romney, 2008, Massachusetts governor, his campaign_
 
 ##### Eastern Orthodox Church
 ### [ The Orthodox Church of Greece elects a new leader, Archbishop Ieronymos II of Athens. ](/news/2008/02/7/the-orthodox-church-of-greece-elects-a-new-leader-archbishop-ieronymos-ii-of-athens.md)
-_Context: Eastern Orthodox Church, Archbishop Ieronymos II of Athens, Church of Greece_
+_Context: Eastern Orthodox Church, Church of Greece, Archbishop Ieronymos II of Athens_
 
 ##### Afghanistan
 ### [ No agreement on Afghanistan ahead of NATO meeting. ](/news/2008/02/7/no-agreement-on-afghanistan-ahead-of-nato-meeting.md)
@@ -49,11 +49,11 @@ _Context: NATO, Afghanistan_
 
 ##### United States Secretary of State
 ### [ The United States Secretary of State Condoleezza Rice and United Kingdom Secretary of State for Foreign and Commonwealth Affairs David Miliband visit Afghanistan. ](/news/2008/02/7/the-united-states-secretary-of-state-condoleezza-rice-and-united-kingdom-secretary-of-state-for-foreign-and-commonwealth-affairs-david-mili.md)
-_Context: United Kingdom, Condoleezza Rice, Afghanistan, Foreign Secretary, David Miliband, United States Secretary of State_
+_Context: Foreign Secretary, United Kingdom, United States Secretary of State, Condoleezza Rice, Afghanistan, David Miliband_
 
 ##### Rio Tinto
 ### [ Rio Tinto rejects BHP Billiton's $147 billion hostile takeover bid. ](/news/2008/02/7/rio-tinto-rejects-bhp-billiton-s-147-billion-hostile-takeover-bid.md)
-_Context: hostile takeover, Rio Tinto, BHP Billiton_
+_Context: Rio Tinto, hostile takeover, BHP Billiton_
 
 ##### WHO
 ### [ WHO declares global tobacco control efforts and an approach to avoid tens of millions of premature deaths by the middle of this century. ](/news/2008/02/7/who-declares-global-tobacco-control-efforts-and-an-approach-to-avoid-tens-of-millions-of-premature-deaths-by-the-middle-of-this-century.md)

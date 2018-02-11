@@ -5,7 +5,7 @@ Formats: [HTML](2014/01/31/index.html)  [JSON](2014/01/31/index.json)  [XML](201
 
 ##### Israeli-Palestinian Conflict
 ### [The Israeli Air Force strikes targets in the Gaza Strip in response to ongoing rocket fire from the Palestinian territory. ](/news/2014/01/31/the-israeli-air-force-strikes-targets-in-the-gaza-strip-in-response-to-ongoing-rocket-fire-from-the-palestinian-territory.md)
-_Context: Gaza Strip, Israeli Air Force, Israeli-Palestinian Conflict_
+_Context: Israeli-Palestinian Conflict, Israeli Air Force, Gaza Strip_
 
 ##### Balochistan conflict
 ### [A bomb kills three Pakistan Army soldiers and injures four others in the restive province of Balochistan. ](/news/2014/01/31/a-bomb-kills-three-pakistan-army-soldiers-and-injures-four-others-in-the-restive-province-of-balochistan.md)

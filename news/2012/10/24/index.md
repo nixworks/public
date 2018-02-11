@@ -29,7 +29,7 @@ Ireland&#39;s analogue television network has been replaced by a digital signal 
 
 ##### International Trade Commission
 ### [An administrative law judge with the U.S. International Trade Commission issues a preliminary decision on a long-running Samsung-Apple dispute, in favor of Apple's complaint on four of the six patents in dispute. ](/news/2012/10/24/an-administrative-law-judge-with-the-u-s-international-trade-commission-issues-a-preliminary-decision-on-a-long-running-samsung-apple-dispu.md)
-_Context: International Trade Commission, Samsung, Apple Inc._
+_Context: Samsung, Apple Inc., International Trade Commission_
 
 ##### Roma
 ### [After years of delays and disputes over cost and design, and amid references in newspapers to Germany's rejection of asylum applications by Roma from Kosovo and comments from the country's interior minister alleging "increasing abuse of asylum from countries in the Balkans", Angela Merkel unveils a memorial near the Reichstag to members of the Roma community killed during the Nazi Holocaust. ](/news/2012/10/24/after-years-of-delays-and-disputes-over-cost-and-design-and-amid-references-in-newspapers-to-germany-s-rejection-of-asylum-applications-by.md)
@@ -57,11 +57,11 @@ ATLANTA (Reuters) - A former employee at a suburban Atlanta megachurch was taken
 
 ##### Denver
 ### [Police in the Denver suburb of Westminster, Colorado arrest a 17-year-old resident who was allegedly involved in an attempted abduction in the killing of 10-year-old Jessica Ridgeway. ](/news/2012/10/24/police-in-the-denver-suburb-of-westminster-colorado-arrest-a-17-year-old-resident-who-was-allegedly-involved-in-an-attempted-abduction-in-t.md)
-_Context: Denver, Westminster, Colorado_
+_Context: Westminster, Colorado, Denver_
 
 ##### Los Angeles
 ### [Three people are shot dead, two are critically wounded, and a gunman is at large after shootings at two locations in the Los Angeles suburb of Downey, California: a business next to a Coca-Cola plant, and a residence. ](/news/2012/10/24/three-people-are-shot-dead-two-are-critically-wounded-and-a-gunman-is-at-large-after-shootings-at-two-locations-in-the-los-angeles-suburb.md)
-_Context: Downey, California, Coca-Cola, Los Angeles_
+_Context: Coca-Cola, Los Angeles, Downey, California_
 
 ##### Welsh government
 ### [The Welsh government reaches an agreement with the British government giving Wales limited powers to borrow money to finance major projects. ](/news/2012/10/24/the-welsh-government-reaches-an-agreement-with-the-british-government-giving-wales-limited-powers-to-borrow-money-to-finance-major-projects.md)

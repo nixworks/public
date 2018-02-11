@@ -9,11 +9,11 @@ An inquest into the Sydney siege hears that one hostage was killed by police fir
 
 ##### Taliban insurgency
 ### [Taliban attacks across Afghanistan kill 17 people. ](/news/2015/01/29/taliban-attacks-across-afghanistan-kill-17-people.md)
-_Context: Taliban insurgency, Afghanistan, Taliban_
+_Context: Afghanistan, Taliban, Taliban insurgency_
 
 ##### Moro insurgency in the Philippines
 ### [Philippines President Benigno Aquino III distances himself from a botched raid against a terrorist, Zulkifli Abdhir, that killed around 50 people, including police officers and Abdhir, while pledging support for a peace process with the Moro people. Supreme Court Chief Justice Maria Lourdes Sereno urges the public to continue to support the peace treaty. ](/news/2015/01/29/philippines-president-benigno-aquino-iii-distances-himself-from-a-botched-raid-against-a-terrorist-zulkifli-abdhir-that-killed-around-50-p.md)
-_Context: Maria Lourdes Sereno, Supreme Court of the Philippines, Philippines, peace deal, Filipino Muslims, peace treaty, Zulkifli Abdhir, Chief Justice, Philippine National Police, January 25 botched police operation, Moro insurgency in the Philippines, his predecessor, President_
+_Context: Zulkifli Abdhir, peace treaty, Maria Lourdes Sereno, Chief Justice, Philippine National Police, Philippines, his predecessor, Moro insurgency in the Philippines, peace deal, President, January 25 botched police operation, Filipino Muslims, Supreme Court of the Philippines_
 
 ##### Iraqi insurgency (2011-present)
 ### [Several attacks around Baghdad including bombings and shootings kill at least sixteen people. ](/news/2015/01/29/several-attacks-around-baghdad-including-bombings-and-shootings-kill-at-least-sixteen-people.md)
@@ -41,7 +41,7 @@ A gas tank truck explodes outside a maternity hospital in Mexico City, killing a
 
 ##### Malaysia Airlines Flight 370
 ### [Without recovering any physical evidence, including the data recorders, Malaysia officially declares the loss of Flight 370 over the Indian Ocean an accident meaning that victims families can seek compensation. ](/news/2015/01/29/without-recovering-any-physical-evidence-including-the-data-recorders-malaysia-officially-declares-the-loss-of-flight-370-over-the-indian.md)
-_Context: Indian, Malaysia Airlines Flight 370, Malaysia_
+_Context: Indian, Malaysia, Malaysia Airlines Flight 370_
 
 ##### Northern England
 ### [Heavy snowfall in northern England leads to the closures of hundreds of schools, roads and Manchester Airport. ](/news/2015/01/29/heavy-snowfall-in-northern-england-leads-to-the-closures-of-hundreds-of-schools-roads-and-manchester-airport.md)

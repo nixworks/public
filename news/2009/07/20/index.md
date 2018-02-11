@@ -13,11 +13,11 @@ Ex-president seeks referendum to resolve dispute over June 12 presidential vote.
 
 ##### Wildfire
 ### [ Wildfires force thousands of residents to flee in the Okanagan, western Canada. ](/news/2009/07/20/wildfires-force-thousands-of-residents-to-flee-in-the-okanagan-western-canada.md)
-_Context: Okanagan, Wildfire, Canadian_
+_Context: Okanagan, Canadian, Wildfire_
 
 ##### India
 ### [ India and the United States sign a defence pact. ](/news/2009/07/20/india-and-the-united-states-sign-a-defence-pact.md)
-_Context: India, United States_
+_Context: American, India_
 
 ##### German
 ### [ 260 cars pile up in Germany. ](/news/2009/07/20/260-cars-pile-up-in-germany.md)

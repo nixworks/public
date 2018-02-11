@@ -13,7 +13,7 @@ Three people were wounded in the assault, which the Central Asian country’s go
 
 ##### War in Somalia (2009-present)
 ### [A car bomb explodes outside the President of Somalia's compound in Mogadishu claiming at least ten people's lives. Al Shabaab has claimed responsibility for the attack. ](/news/2016/08/30/a-car-bomb-explodes-outside-the-president-of-somalia-s-compound-in-mogadishu-claiming-at-least-ten-people-s-lives-al-shabaab-has-claimed-re.md)
-_Context: Al Shabaab, War in Somalia (2009-present), Mogadishu, President, car bomb_
+_Context: War in Somalia (2009-present), Mogadishu, President, Al Shabaab, car bomb_
 
 ##### Syrian civil war
 ### [The Islamic State of Iraq and the Levant says its official spokesman, Abu Mohammad al-Adnani, has been killed in Syria's Aleppo Governorate. The group's statement, distributed by Amaq News Agency, did not say how al-Adnani was killed. ](/news/2016/08/30/the-islamic-state-of-iraq-and-the-levant-says-its-official-spokesman-abu-mohammad-al-adnani-has-been-killed-in-syria-s-aleppo-governorate.md)
@@ -33,7 +33,7 @@ Confirmed cases of Zika virus in Singapore rose to 82 on Tuesday, as the United 
 
 ##### Rodrigo Duterte
 ### [Philippines president Rodrigo Duterte says he would not press on for China to abide by the South China Sea ruling but he might do so in the future. ](/news/2016/08/30/philippines-president-rodrigo-duterte-says-he-would-not-press-on-for-china-to-abide-by-the-south-china-sea-ruling-but-he-might-do-so-in-the.md)
-_Context: China, Territorial disputes in the South China Sea, Rodrigo Duterte_
+_Context: Rodrigo Duterte, China, Territorial disputes in the South China Sea_
 
 ##### North Korea
 ### [Two North Korean officials are reportedly publicly executed by Kim Jong-un after they allegedly disobeyed orders: former agriculture minister Hwang Min for unsuitable policies and Ri Yong Jin, a senior official at the education ministry, for sleeping at a meeting with Kim, disrespect for the leader and corruption. They were allegedly executed by anti-aircraft artillery fire. ](/news/2016/08/30/two-north-korean-officials-are-reportedly-publicly-executed-by-kim-jong-un-after-they-allegedly-disobeyed-orders-former-agriculture-ministe.md)
@@ -49,7 +49,7 @@ Venezuela has arrested several opposition activists accused of plotting violence
 
 ##### Impeached
 ### [The Senate postpones the impeachment vote on suspended President Dilma Rousseff to Wednesday. ](/news/2016/08/30/the-senate-postpones-the-impeachment-vote-on-suspended-president-dilma-rousseff-to-wednesday.md)
-_Context: Senate, Dilma Rousseff, impeached, president_
+_Context: Dilma Rousseff, Senate, impeached, president_
 
 ## [Previous Day...](/news/2016/08/29/index.md)
 

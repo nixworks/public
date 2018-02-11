@@ -9,7 +9,7 @@ _Context: peacekeeping mission, United Nations, United Nations Security Council,
 
 ##### French President
 ### [ French President Jacques Chirac says sending 15,000 peacekeeping troops to southern Lebanon is "excessive". ](/news/2006/08/25/french-president-jacques-chirac-says-sending-15-000-peacekeeping-troops-to-southern-lebanon-is-excessive.md)
-_Context: Jacques Chirac, French President, Lebanese_
+_Context: French President, Lebanese, Jacques Chirac_
 
 ##### Aer Lingus
 ### [ An Aer Lingus flight from New York is evacuated at Shannon Airport following information about explosives on board the flight. ](/news/2006/08/25/an-aer-lingus-flight-from-new-york-is-evacuated-at-shannon-airport-following-information-about-explosives-on-board-the-flight.md)

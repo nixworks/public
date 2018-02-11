@@ -9,7 +9,7 @@ _Context: United Nations, Syrian civil war_
 
 ##### Oxford English Dictionary
 ### [The "Oxford English Dictionary" confirms that it will change the definition of the word "marriage" to include the LGBT community. ](/news/2013/07/25/the-oxford-english-dictionary-confirms-that-it-will-change-the-definition-of-the-word-marriage-to-include-the-lgbt-community.md)
-_Context: marriage, Oxford English Dictionary, same-sex couples_
+_Context: same-sex couples, Oxford English Dictionary, marriage_
 
 ##### China
 ### [China begins a major effort to boost its economic growth with business tax breaks and export liberalization, amid an increasing industrial slowdown. ](/news/2013/07/25/china-begins-a-major-effort-to-boost-its-economic-growth-with-business-tax-breaks-and-export-liberalization-amid-an-increasing-industrial-s.md)

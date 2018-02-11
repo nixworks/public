@@ -13,11 +13,11 @@ At least 73 people were killed and scores injured in Mozambique on Thursday as t
 
 ##### European migrant crisis
 ### [Around 100 people are feared to have drowned in the Mediterranean Sea off the coast of Libya. So far this week, 18 people are confirmed dead and 340 missing attempting to migrate to Europe. ](/news/2016/11/17/around-100-people-are-feared-to-have-drowned-in-the-mediterranean-sea-off-the-coast-of-libya-so-far-this-week-18-people-are-confirmed-dead.md)
-_Context: European migrant crisis, Europe, Mediterranean Sea, Libya_
+_Context: Libya, Europe, Mediterranean Sea, European migrant crisis_
 
 ##### Japan-United States relations
 ### [Japanese Prime Minister Shinzo Abe becomes the first foreign head of government to meet President-elect of the United States Donald Trump since his election as President on November 8. ](/news/2016/11/17/japanese-prime-minister-shinza-abe-becomes-the-first-foreign-head-of-government-to-meet-president-elect-of-the-united-states-donald-trump-s.md)
-_Context: Prime Minister of Japan, Japan-United States relations, Donald Trump, President-elect, Shinzo Abe, 2016 U.S. presidential election_
+_Context: Japan-United States relations, Shinzo Abe, President-elect, Donald Trump, 2016 U.S. presidential election, Prime Minister of Japan_
 
 ##### Three UK
 ### [The Three UK mobile phone company admits that there has been a cyber-security breach involving the details of millions of customers. ](/news/2016/11/17/the-three-uk-mobile-phone-company-admits-that-there-has-been-a-cyber-security-breach-involving-the-details-of-millions-of-customers.md)
@@ -25,7 +25,7 @@ One of Britain&#39;s biggest mobile phone companies has admitted to a major cybe
 
 ##### Rio de Janeiro
 ### [Former Rio de Janeiro governor Sergio Cabral is arrested in corruption probe. ](/news/2016/11/17/former-rio-de-janeiro-governor-sa-c-rgio-cabral-is-arrested-in-corruption-probe.md)
-_Context: Rio de Janeiro, Sergio Cabral Filho_
+_Context: Sergio Cabral Filho, Rio de Janeiro_
 
 ##### President
 ### [President Joseph Kabila appoints Samy Badibanga as the new Prime Minister of the Democratic Republic of the Congo as part of a power-sharing deal agreed by the opposition and government. ](/news/2016/11/17/president-joseph-kabila-appoints-samy-badibanga-as-the-new-prime-minister-of-the-democratic-republic-of-the-congo-as-part-of-a-power-sharing.md)

@@ -25,7 +25,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Microbus
 ### [At least five people are killed and ten injured in a microbus crash in Egypt's New Valley Governorate. ](/news/2016/01/17/at-least-five-people-are-killed-and-ten-injured-in-a-microbus-crash-in-egypt-s-new-valley-governorate.md)
-_Context: Egypt, microbus, New Valley Governorate_
+_Context: New Valley Governorate, Egypt, microbus_
 
 ##### Ebola virus epidemic in West Africa
 ### [Sierra Leone imposes quarantine on hundreds of people following a recent death from the Ebola virus. ](/news/2016/01/17/sierra-leone-imposes-quarantine-on-hundreds-of-people-following-a-recent-death-from-the-ebola-virus.md)

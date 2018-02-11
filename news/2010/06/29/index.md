@@ -11,7 +11,7 @@ Turkey wants a formal apology for the killing of nine Turkish citizens who were 
 ### [Egyptian border guards fatally shoot an Eritrean woman in the stomach and leg as she tries to cross the border illegally into Israel. ](/news/2010/06/29/egyptian-border-guards-fatally-shoot-an-eritrean-woman-in-the-stomach-and-leg-as-she-tries-to-cross-the-border-illegally-into-israel.md)
 An African migrant is shot and killed by Egyptian police as she tries to cross illegally into Israel.
 
-##### United States
+##### American
 ### [The Supreme Court rules that Nigerian families can sue drug company Pfizer for using a deadly antibiotic on their children. ](/news/2010/06/29/the-supreme-court-rules-that-nigerian-families-can-sue-drug-company-pfizer-for-using-a-deadly-antibiotic-on-their-children.md)
 The US Supreme Court gives Nigerian families the green light to sue Pfizer over the use of a new antibiotic on their children.
 
@@ -33,7 +33,7 @@ _Context: Hyderabad_
 
 ##### East Java
 ### [Six people are killed in a train derailment in East Java, Indonesia. ](/news/2010/06/29/six-people-are-killed-in-a-train-derailment-in-east-java-indonesia.md)
-_Context: Indonesia, East Java_
+_Context: East Java, Indonesia_
 
 ##### United Kingdom
 ### [The United Kingdom's Iraq Inquiry resumes after a break for the general election, with Douglas Brand as the first witness. ](/news/2010/06/29/the-united-kingdom-s-iraq-inquiry-resumes-after-a-break-for-the-general-election-with-douglas-brand-as-the-first-witness.md)
@@ -49,11 +49,11 @@ Sudan announces it is closing its border with Libya to protect travellers from a
 
 ##### Indonesia
 ### [Indonesian publisher and blogger, the "Prince of Jihad", is imprisoned for five years after being convicted of concealing information about suicide attacks on two hotels in Jakarta. ](/news/2010/06/29/indonesian-publisher-and-blogger-the-prince-of-jihad-is-imprisoned-for-five-years-after-being-convicted-of-concealing-information-about.md)
-_Context: Indonesia, suicide attacks on two hotels, Jakarta_
+_Context: suicide attacks on two hotels, Indonesia, Jakarta_
 
 ##### Jayant Patel
 ### [Dr. Jayant Patel is convicted at the Supreme Court of Queensland, Australia of three charges of manslaughter committed while working at the Bundaberg Base Hospital. ](/news/2010/06/29/dr-jayant-patel-is-convicted-at-the-supreme-court-of-queensland-australia-of-three-charges-of-manslaughter-committed-while-working-at-the.md)
-_Context: Queensland, Supreme Court, Jayant Patel, Australia, Bundaberg, manslaughter by gross negligence, Base Hospital_
+_Context: Base Hospital, Queensland, Australia, Jayant Patel, Bundaberg, manslaughter by gross negligence, Supreme Court_
 
 ##### Sydney
 ### [Sydney experiences its coldest June day in 27 years. ](/news/2010/06/29/sydney-experiences-its-coldest-june-day-in-27-years.md)
@@ -61,11 +61,11 @@ Sydney has shivered through its coldest June day in 27 years, with the mercury p
 
 ##### Major floods
 ### [At least 21 people die and hundreds are evacuated after major floods in the northeast of Romania. ](/news/2010/06/29/at-least-21-people-die-and-hundreds-are-evacuated-after-major-floods-in-the-northeast-of-romania.md)
-_Context: Romania, major floods_
+_Context: major floods, Romania_
 
 ##### Hurricane Alex
 ### [Hurricane Alex becomes the first hurricane of the 2010 Atlantic hurricane season with warnings posted from Baffin Bay, Texas south to Mexico. ](/news/2010/06/29/hurricane-alex-becomes-the-first-hurricane-of-the-2010-atlantic-hurricane-season-with-warnings-posted-from-baffin-bay-texas-south-to-mexico.md)
-_Context: Texas, hurricane, Baffin Bay, Hurricane Alex, 2010 Atlantic hurricane season, Mexican_
+_Context: hurricane, Texas, Mexican, 2010 Atlantic hurricane season, Hurricane Alex, Baffin Bay_
 
 ##### Swine flu
 ### [21 suspected cases of swine flu A (H1N1), with one death, have been reported in Thanjavur in India. ](/news/2010/06/29/21-suspected-cases-of-swine-flu-a-h1n1-with-one-death-have-been-reported-in-thanjavur-in-india.md)

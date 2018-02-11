@@ -13,7 +13,7 @@ _Context: Nigeria, Arab, Delta State_
 
 ##### Greek Orthodox
 ### [Greek Orthodox and Armenian Apostolic priests fight in the Church of the Nativity in Bethlehem over a cleaning dispute; Palestinian police break up the fighting. ](/news/2011/12/28/greek-orthodox-and-armenian-apostolic-priests-fight-in-the-church-of-the-nativity-in-bethlehem-over-a-cleaning-dispute-palestinian-police-b.md)
-_Context: Palestine, Church of the Nativity, Bethlehem, Greek Orthodox, Armenian Apostolic_
+_Context: Church of the Nativity, Greek Orthodox, Bethlehem, Armenian Apostolic, Palestine_
 
 ##### Russia
 ### [A Russian court rejects an attempt to ban "Bhagavad Gita As It Is", a Russian translation of the Hindu holy book Bhagavad Gita. ](/news/2011/12/28/a-russian-court-rejects-an-attempt-to-ban-bhagavad-gita-as-it-is-a-russian-translation-of-the-hindu-holy-book-bhagavad-gita.md)
@@ -21,7 +21,7 @@ An edition of the Hindu holy book the Bhagvad Gita escapes a threatened ban in R
 
 ##### Colisseum
 ### [Stones reportedly fall from the Colisseum, one of Rome's most famous landmarks. ](/news/2011/12/28/stones-reportedly-fall-from-the-colisseum-one-of-rome-s-most-famous-landmarks.md)
-_Context: Colisseum, Rome, Italy_
+_Context: Rome, Italy, Colisseum_
 
 ##### The Silence of the Lambs
 ### ["The Silence of the Lambs", a 1991 thriller film starring Jodie Foster and Anthony Hopkins, is to be preserved by the United States Library of Congress as part of its National Film Registry. ](/news/2011/12/28/the-silence-of-the-lambs-a-1991-thriller-film-starring-jodie-foster-and-anthony-hopkins-is-to-be-preserved-by-the-united-states-library.md)
@@ -33,7 +33,7 @@ _Context: Osh Airport, crash-landing, Kyrgyzstan_
 
 ##### Lahar
 ### [Four people are killed and 1,000 others flee their homes amid lahars from the Mount Gamalama volcano in Indonesia. ](/news/2011/12/28/four-people-are-killed-and-1-000-others-flee-their-homes-amid-lahars-from-the-mount-gamalama-volcano-in-indonesia.md)
-_Context: Gamalama, Indonesia, lahar_
+_Context: Indonesia, lahar, Gamalama_
 
 ##### Iran
 ### [Iran threatens to close down the key oil route of the Strait of Hormuz if more sanctions are imposed on it by Western nations. ](/news/2011/12/28/iran-threatens-to-close-down-the-key-oil-route-of-the-strait-of-hormuz-if-more-sanctions-are-imposed-on-it-by-western-nations.md)
@@ -73,7 +73,7 @@ Republican presidential candidates gang up on rival Ron Paul as a poll gives him
 
 ##### China
 ### [China's Compass satellite navigation system, a rival to the American Global Positioning System (GPS), becomes operational, offering navigation services on the Chinese mainland. The system is expected to become available worldwide by 2020. ](/news/2011/12/28/china-s-compass-satellite-navigation-system-a-rival-to-the-american-global-positioning-system-gps-becomes-operational-offering-navigati.md)
-_Context: Chinese mainland, Global Positioning System, China, Compass satellite navigation system_
+_Context: China, Compass satellite navigation system, Chinese mainland, Global Positioning System_
 
 ## [Previous Day...](/news/2011/12/27/index.md)
 

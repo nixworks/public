@@ -21,19 +21,19 @@ _Context: Pakistan, drones launch_
 
 ##### Short Strand
 ### [Masked men in camouflage gear attack homes in the mainly nationalist Short Strand area of East Belfast, with pipe bombs and Molotov cocktails being thrown. ](/news/2011/06/20/masked-men-in-camouflage-gear-attack-homes-in-the-mainly-nationalist-short-strand-area-of-east-belfast-with-pipe-bombs-and-molotov-cocktail.md)
-_Context: firebomb, pipe bomb, Short Strand, Belfast_
+_Context: Short Strand, Belfast, pipe bomb, firebomb_
 
 ##### General
 ### [General Walter L. Sharp, the Commander of United States Forces Korea, warns that North Korea is likely to launch more attacks but states that US and South Korean forces are prepared. ](/news/2011/06/20/general-walter-l-sharp-the-commander-of-united-states-forces-korea-warns-that-north-korea-is-likely-to-launch-more-attacks-but-states-tha.md)
-_Context: South Korea, Walter L. Sharp, North Korea, United States Forces Korea, General_
+_Context: North Korea, General, United States Forces Korea, Walter L. Sharp, South Korea_
 
 ##### Nepal
 ### [Nepal experiences its first lesbian wedding ceremony as a lawyer and a college professor tie the knot. ](/news/2011/06/20/nepal-experiences-its-first-lesbian-wedding-ceremony-as-a-lawyer-and-a-college-professor-tie-the-knot.md)
-_Context: tie knots, lesbian, Nepal_
+_Context: Nepal, lesbian, tie knots_
 
 ##### Anglican Church
 ### [The Anglican Church in the United Kingdom considers guidelines allowing openly homosexual clergy to become bishops. ](/news/2011/06/20/the-anglican-church-in-the-united-kingdom-considers-guidelines-allowing-openly-homosexual-clergy-to-become-bishops.md)
-_Context: gay, Anglican Church, United Kingdom_
+_Context: gay, United Kingdom, Anglican Church_
 
 ##### London Assembly
 ### [London Assembly Member Jenny Jones urges Westminster Council to consider a blue plaque for veteran peace campaigner Brian Haw following his recent death at the age of 62. ](/news/2011/06/20/london-assembly-member-jenny-jones-urges-westminster-council-to-consider-a-blue-plaque-for-veteran-peace-campaigner-brian-haw-following-his.md)
@@ -41,7 +41,7 @@ London Assembly Member Jenny Jones calls on the Westminster Council to put up a 
 
 ##### Jackass
 ### [American "Jackass" star Ryan Dunn dies in a high-speed accident on U.S. Route 322 in West Goshen Township, Pennsylvania. ](/news/2011/06/20/american-jackass-star-ryan-dunn-dies-in-a-high-speed-accident-on-u-s-route-322-in-west-goshen-township-pennsylvania.md)
-_Context: Jackass, West Goshen Township, Pennsylvania, Ryan Dunn, U.S. Route 322_
+_Context: U.S. Route 322, West Goshen Township, Pennsylvania, Jackass, Ryan Dunn_
 
 ##### Eurozone
 ### [Eurozone finance ministers agree to seek a voluntary rollover of Greek debt by private bondholders in order to meet a substantial part of Greek funding needs. ](/news/2011/06/20/eurozone-finance-ministers-agree-to-seek-a-voluntary-rollover-of-greek-debt-by-private-bondholders-in-order-to-meet-a-substantial-part-of-gr.md)
@@ -53,27 +53,27 @@ Afghanistan says it is &quot;running out of patience&quot; with the IMF after it
 
 ##### PNC Financial Services
 ### [Financial group and banking firm PNC Financial Services is to acquire RBC Bank from the Royal Bank of Canada for US$3.45 billion. ](/news/2011/06/20/financial-group-and-banking-firm-pnc-financial-services-is-to-acquire-rbc-bank-from-the-royal-bank-of-canada-for-us-3-45-billion.md)
-_Context: US$, Royal Bank of Canada, RBC Bank, PNC Financial Services_
+_Context: Royal Bank of Canada, PNC Financial Services, US$, RBC Bank_
 
 ##### Greer
 ### [Residents of Greer, a small town in the U.S. state of Arizona, are allowed to return home after the Wallow Fire is slowly brought under control. ](/news/2011/06/20/residents-of-greer-a-small-town-in-the-u-s-state-of-arizona-are-allowed-to-return-home-after-the-wallow-fire-is-slowly-brought-under-cont.md)
-_Context: Arizona, Wallow Fire, U.S. state, Greer_
+_Context: U.S. state, Wallow Fire, Greer, Arizona_
 
 ##### Darwin
 ### [The Volcanic Ash Advisory Centre in Darwin warns that Australian travellers face more disruption from ash from the 2011 Puyehue-Cordon Caulle eruption in Chile. ](/news/2011/06/20/the-volcanic-ash-advisory-centre-in-darwin-warns-that-australian-travellers-face-more-disruption-from-ash-from-the-2011-puyehue-corda3n-caul.md)
-_Context: 2011 Puyehue-Cordon Caulle eruption, Chile, Australian, Darwin_
+_Context: 2011 Puyehue-Cordon Caulle eruption, Darwin, Australian, Chile_
 
 ##### Heat wave
 ### [The Korea Meteorological Administration issues a heat wave warning for inland South Korean cities including Seoul, Suwon and Chuncheon. ](/news/2011/06/20/the-korea-meteorological-administration-issues-a-heat-wave-warning-for-inland-south-korean-cities-including-seoul-suwon-and-chuncheon.md)
-_Context: Seoul, South Korea, Chuncheon, Suwon, heat wave_
+_Context: South Korea, Chuncheon, Suwon, Seoul, heat wave_
 
 ##### RusAir
 ### [A RusAir Tupolev Tu-134 passenger jet crashes near Petrozavodsk Airport in Russia's Karelia region with 45 people dead. ](/news/2011/06/20/a-rusair-tupolev-tu-134-passenger-jet-crashes-near-petrozavodsk-airport-in-russia-s-karelia-region-with-45-people-dead.md)
-_Context: Karelia, crashes near, Tupolev Tu-134, RusAir, Petrozavodsk Airport, Russia_
+_Context: Russia, Karelia, RusAir, Tupolev Tu-134, Petrozavodsk Airport, crashes near_
 
 ##### Hurricane Beatriz
 ### [Hurricane Beatriz becomes the second hurricane of the 2011 Pacific hurricane season. ](/news/2011/06/20/hurricane-beatriz-becomes-the-second-hurricane-of-the-2011-pacific-hurricane-season.md)
-_Context: Hurricane Beatriz, Hurricane Jova_
+_Context: Hurricane Jova, Hurricane Beatriz_
 
 ##### Foreign Policy
 ### [U.S. magazine "Foreign Policy" releases its index of "failed states", with the editor labeling Somalia as an "unequivocably failed state". ](/news/2011/06/20/u-s-magazine-foreign-policy-releases-its-index-of-failed-states-with-the-editor-labeling-somalia-as-an-unequivocably-failed-state.md)
@@ -81,7 +81,7 @@ An index of troubled countries reveals the common threads that lead to suffering
 
 ##### Russian President
 ### [President of Russia Dmitry Medvedev practically rules out supporting a United Nations Security Council resolution condemning a crackdown by the Government of Syria on protestors. ](/news/2011/06/20/president-of-russia-dmitry-medvedev-practically-rules-out-supporting-a-united-nations-security-council-resolution-condemning-a-crackdown-by.md)
-_Context: Russian President, Government of Syria, Dmitry Medvedev, United Nations Security Council, protestors_
+_Context: Government of Syria, Dmitry Medvedev, protestors, United Nations Security Council, Russian President_
 
 ##### France
 ### [France prepares to attempt to extradite Manuel Noriega back to Panama. ](/news/2011/06/20/france-prepares-to-attempt-to-extradite-manuel-noriega-back-to-panama.md)

@@ -13,7 +13,7 @@ The Taoiseach has told the Dáil that the second referendum on the Lisbon Treaty
 
 ##### North Korea
 ### [ North Korean leader Kim Jong-il makes a rare public appearance to mark the 15th anniversary of his father's death. ](/news/2009/07/8/north-korean-leader-kim-jong-il-makes-a-rare-public-appearance-to-mark-the-15th-anniversary-of-his-father-s-death.md)
-_Context: North Korea, Kim Il-sung, Kim Jong-il_
+_Context: Kim Il-sung, Kim Jong-il, North Korea_
 
 ##### 35th G8 Summit
 ### [ The 35th G8 Summit begins in L'Aquila, Italy. ](/news/2009/07/8/the-35th-g8-summit-begins-in-l-aquila-italy.md)
@@ -21,11 +21,11 @@ _Context: L'Aquila, Italy, 35th G8 Summit_
 
 ##### Ethnic riots
 ### [ Chinese President Hu Jintao leaves the 35th G8 Summit and returns to Beijing to deal with the ongoing riots in Urumqi. ](/news/2009/07/8/chinese-president-hu-jintao-leaves-the-35th-g8-summit-and-returns-to-beijing-to-deal-with-the-ongoing-riots-in-ara1-4mqi.md)
-_Context: Urumqi, Hu Jintao, 35th G8 Summit, Chinese President, Beijing, ethnic riots, China_
+_Context: ethnic riots, Chinese President, China, 35th G8 Summit, Urumqi, Hu Jintao, Beijing_
 
 ##### Yemenia Flight 626
 ### [ Debris and bodies from Yemenia Flight 626, which crashed off the Comoros in the Indian Ocean, wash up on Mafia Island, Tanzania. ](/news/2009/07/8/debris-and-bodies-from-yemenia-flight-626-which-crashed-off-the-comoros-in-the-indian-ocean-wash-up-on-mafia-island-tanzania.md)
-_Context: Comoros, Mafia Island, Yemenia Flight 626, Indian, Tanzania_
+_Context: Tanzania, Indian, Yemenia Flight 626, Comoros, Mafia Island_
 
 ##### Indonesian presidential election
 ### [ Indonesians go to the polls for the first round of the presidential election. ](/news/2009/07/8/indonesians-go-to-the-polls-for-the-first-round-of-the-presidential-election.md)
@@ -33,27 +33,27 @@ Voting begins with more than 170 million registered voters and 500,000 polling s
 
 ##### Malaysia
 ### [ Malaysian opposition leader Anwar Ibrahim's trial on sodomy charges of engaging in sexual intercourse with a male aide is delayed after his main defence lawyer falls ill. ](/news/2009/07/8/malaysian-opposition-leader-anwar-ibrahim-s-trial-on-sodomy-charges-of-engaging-in-sexual-intercourse-with-a-male-aide-is-delayed-after-his.md)
-_Context: Anwar Ibrahim, sexual intercourse, sodomy, Malaysia_
+_Context: sexual intercourse, Anwar Ibrahim, Malaysia, sodomy_
 
 ##### July 2009 Mindanao bombings
 ### [ The UN Development Program suspends feeding operations for Mindanao refugees. ](/news/2009/07/8/the-un-development-program-suspends-feeding-operations-for-mindanao-refugees.md)
-_Context: Mindanao, July 2009 Mindanao bombings, UN Development Program_
+_Context: July 2009 Mindanao bombings, Mindanao, UN Development Program_
 
 ##### South Africa
 ### [ Strikes by 70,000 workers in South Africa halt work on the World Cup 2010 stadiums. ](/news/2009/07/8/strikes-by-70-000-workers-in-south-africa-halt-work-on-the-world-cup-2010-stadiums.md)
-_Context: 2010 FIFA World Cup, South Africa_
+_Context: South Africa, 2010 FIFA World Cup_
 
 ##### South Korea
 ### [ South Korea says North Korea is behind a number of cyber attacks on the websites of government agencies, banks and businesses in South Korea and the United States. ](/news/2009/07/8/south-korea-says-north-korea-is-behind-a-number-of-cyber-attacks-on-the-websites-of-government-agencies-banks-and-businesses-in-south-kore.md)
-_Context: United States, cyber-war, South Korea, North Korea_
+_Context: South Korea, cyber-war, North Korea, American_
 
 ##### Honduras
 ### [ Exiled Honduran President Manuel Zelaya and interim President Roberto Micheletti agree to talks under mediation by Costa Rica. ](/news/2009/07/8/exiled-honduran-president-manuel-zelaya-and-interim-president-roberto-micheletti-agree-to-talks-under-mediation-by-costa-rica.md)
-_Context: Manuel Zelaya, Roberto Micheletti, President, Costa Rica, Honduras_
+_Context: Honduras, Manuel Zelaya, President, Roberto Micheletti, Costa Rica_
 
 ##### Iran
 ### [ Iran says two thirds of protesters have already been released and another 100 will be freed in the aftermath of the disputed presidential election. ](/news/2009/07/8/iran-says-two-thirds-of-protesters-have-already-been-released-and-another-100-will-be-freed-in-the-aftermath-of-the-disputed-presidential-e.md)
-_Context: protests against the regime, Iran, re-election_
+_Context: Iran, protests against the regime, re-election_
 
 ##### German
 ### [ Germany defends its response to the stabbing of pregnant Egyptian Marwa El-Sherbini, saying Chancellor Angela Merkel will meet the Egyptian President to discuss the affair. ](/news/2009/07/8/germany-defends-its-response-to-the-stabbing-of-pregnant-egyptian-marwa-el-sherbini-saying-chancellor-angela-merkel-will-meet-the-egyptian.md)
@@ -61,23 +61,23 @@ Hundreds of mourners today protested at the funeral of an Egyptian woman who was
 
 ##### Rio Tinto
 ### [ Four Rio Tinto executives accused of espionage are detained by Chinese Authorities amid iron ore negotiations. ](/news/2009/07/8/four-rio-tinto-executives-accused-of-espionage-are-detained-by-chinese-authorities-amid-iron-ore-negotiations.md)
-_Context: Rio Tinto, espionage, iron ore_
+_Context: espionage, iron ore, Rio Tinto_
 
 ##### Mosul
 ### [ Two car bombs blow up in Mosul, the second of them killing at least nine people. ](/news/2009/07/8/two-car-bombs-blow-up-in-mosul-the-second-of-them-killing-at-least-nine-people.md)
 _Context: Mosul_
 
-##### United States
+##### American
 ### [ Undercover investigators smuggle bomb-making materials into government buildings in the United States, assembling bombs within, on ten occasions. ](/news/2009/07/8/undercover-investigators-smuggle-bomb-making-materials-into-government-buildings-in-the-united-states-assembling-bombs-within-on-ten-occa.md)
-_Context: United States_
+_Context: American_
 
 ##### The Guardian
 ### [ "The Guardian" claims that rival English newspaper, the Rupert Murdoch-owned "News of the World" tabloid, paid GBP1 million in court costs after its journalists were accused of involvement in phone tapping celebrities and politicians. ](/news/2009/07/8/the-guardian-claims-that-rival-english-newspaper-the-rupert-murdoch-owned-news-of-the-world-tabloid-paid-agbp1-million-in-court-costs.md)
-_Context: tabloid, Rupert Murdoch, News of the World, The Guardian, England_
+_Context: tabloid, The Guardian, Rupert Murdoch, News of the World, England_
 
 ##### Rapamycin
 ### [ It is claimed that the drug rapamycin, discovered in the soil of Easter Island in the 1970s, may help to fight the ageing process. ](/news/2009/07/8/it-is-claimed-that-the-drug-rapamycin-discovered-in-the-soil-of-easter-island-in-the-1970s-may-help-to-fight-the-ageing-process.md)
-_Context: rapamycin, Easter Island_
+_Context: Easter Island, rapamycin_
 
 ## [Previous Day...](/news/2009/07/7/index.md)
 

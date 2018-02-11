@@ -13,7 +13,7 @@ Sweden has presented its new centre-left government and created a surprise by an
 
 ##### Special vote
 ### [After counting special votes from the 20 September New Zealand general election, the National Party loses its one-seat majority after losing a seat to the Green Party. With the support of ACT and United Future, National still forms a government, albeit a minority government. ](/news/2014/10/4/after-counting-special-votes-from-the-20-september-new-zealand-general-election-the-national-party-loses-its-one-seat-majority-after-losing.md)
-_Context: United Future, ACT, New Zealand general election, minority government, special vote, New Zealand National Party, Green Party_
+_Context: minority government, New Zealand general election, special vote, ACT, United Future, New Zealand National Party, Green Party_
 
 ##### Latvian parliamentary election, 2014
 ### [Latvia votes in a parliamentary election; Laimdota Straujuma's centre-right government keeps its majority. ](/news/2014/10/4/latvia-votes-in-a-parliamentary-election-laimdota-straujuma-s-centre-right-government-keeps-its-majority.md)

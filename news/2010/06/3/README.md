@@ -5,7 +5,7 @@ Formats: [HTML](2010/06/3/index.html)  [JSON](2010/06/3/index.json)  [XML](2010/
 
 ##### British Airways
 ### [British Airways issues an apology for a photograph in a staff magazine which implied Osama Bin Laden had a frequent flyer boarding pass for first class. ](/news/2010/06/3/british-airways-issues-an-apology-for-a-photograph-in-a-staff-magazine-which-implied-osama-bin-laden-had-a-frequent-flyer-boarding-pass-for.md)
-_Context: British Airways, Osama Bin Laden_
+_Context: Osama Bin Laden, British Airways_
 
 ##### Human Rights Council
 ### [United Nations Human Rights Council passed a resolution calling for an independent fact-finding mission into Israel's interception of a Gaza-bound flotilla. ](/news/2010/06/3/united-nations-human-rights-council-passed-a-resolution-calling-for-an-independent-fact-finding-mission-into-israel-s-interception-of-a-gaza.md)
@@ -17,11 +17,11 @@ Heavy fighting between government forces and Islamist militants in Mogadishu kil
 
 ##### China
 ### [The Chinese newspaper "Southern Metropolitan Daily" publishes a cartoon referring to the Tiananmen Square protests of 1989; the image is later removed. ](/news/2010/06/3/the-chinese-newspaper-southern-metropolitan-daily-publishes-a-cartoon-referring-to-the-tiananmen-square-protests-of-1989-the-image-is-lat.md)
-_Context: Tiananmen Square protests of 1989, China_
+_Context: China, Tiananmen Square protests of 1989_
 
 ##### ITV
 ### [ITV postpones a second night of its soap opera "Coronation Street" due to a storyline which had similar themes to the Cumbria shootings. ](/news/2010/06/3/itv-postpones-a-second-night-of-its-soap-opera-coronation-street-due-to-a-storyline-which-had-similar-themes-to-the-cumbria-shootings.md)
-_Context: Coronation Street, Cumbria shootings, ITV_
+_Context: Cumbria shootings, Coronation Street, ITV_
 
 ##### Financial Services Authority
 ### [The Financial Services Authority (FSA) fines JPMorgan Securities a record sum of GBP33.32 million ($48.2 million) for failure to protect the money of its clients. ](/news/2010/06/3/the-financial-services-authority-fsa-fines-jpmorgan-securities-a-record-sum-of-agbp33-32-million-48-2-million-for-failure-to-protect-th.md)
@@ -49,7 +49,7 @@ _Context: central China, Shangqiu_
 
 ##### Law Courts of Brussels
 ### [A judge and court clerk are shot dead at the Law Courts of Brussels, the main courts in the Belgian capital. ](/news/2010/06/3/a-judge-and-court-clerk-are-shot-dead-at-the-law-courts-of-brussels-the-main-courts-in-the-belgian-capital.md)
-_Context: Belgium, Law Courts of Brussels_
+_Context: Law Courts of Brussels, Belgium_
 
 ##### Congolese
 ### [Leading Congolese rights activist Floribert Chebeya is found dead in his car after having been summoned to a meeting with the police chief. ](/news/2010/06/3/leading-congolese-rights-activist-floribert-chebeya-is-found-dead-in-his-car-after-having-been-summoned-to-a-meeting-with-the-police-chief.md)
@@ -57,7 +57,7 @@ Congolese rights activist Floribert Chebeya is found dead in his car after havin
 
 ##### Luigi Padovese
 ### [Bishop Luigi Padovese of the Roman Catholic Apostolic Vicariate of Anatolia is attacked at his home in Iskenderun, Hatay Province and dies later in hospital. Mr Padovese's driver is arrested. ](/news/2010/06/3/bishop-luigi-padovese-of-the-roman-catholic-apostolic-vicariate-of-anatolia-is-attacked-at-his-home-in-adegskenderun-hatay-province-and-dies.md)
-_Context: Hatay Province, Luigi Padovese, Roman Catholic Apostolic Vicariate of Anatolia, Iskenderun_
+_Context: Luigi Padovese, Hatay Province, Roman Catholic Apostolic Vicariate of Anatolia, Iskenderun_
 
 ##### Police Service of Northern Ireland
 ### [A report by the Police Service of Northern Ireland's Historical Enquiries Team concludes that a British soldier who fatally shot a 41-year-old civilian in Derry in 1971 acted "unlawfully", as the civilian "was not carrying a firearm and he posed no threat to the soldiers". ](/news/2010/06/3/a-report-by-the-police-service-of-northern-ireland-s-historical-enquiries-team-concludes-that-a-british-soldier-who-fatally-shot-a-41-year-o.md)
@@ -65,7 +65,7 @@ The soldier who killed a man in 1971 should have been charged with murder, the c
 
 ##### Christian Wulff
 ### [Christian Wulff is nominated for President of Germany by Chancellor Angela Merkel. ](/news/2010/06/3/christian-wulff-is-nominated-for-president-of-germany-by-chancellor-angela-merkel.md)
-_Context: Christian Wulff, President of Germany, Chancellor, Angela Merkel_
+_Context: President of Germany, Chancellor, Christian Wulff, Angela Merkel_
 
 ##### Dawn Purvis
 ### [Dawn Purvis resigns as leader of the Progressive Unionist Party over the fatal shooting of Bobby Moffett. ](/news/2010/06/3/dawn-purvis-resigns-as-leader-of-the-progressive-unionist-party-over-the-fatal-shooting-of-bobby-moffett.md)

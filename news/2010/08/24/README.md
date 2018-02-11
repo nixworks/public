@@ -13,7 +13,7 @@ Army says it is regaining control of Loder after fighting killed 33 and displace
 
 ##### Al-Shabaab
 ### [Al-Shabaab militants storm the Hotel Muna, close to the Presidential palace Villa Somalia in Mogadishu, killing at least 33 people including several MPs. ](/news/2010/08/24/al-shabaab-militants-storm-the-hotel-muna-close-to-the-presidential-palace-villa-somalia-in-mogadishu-killing-at-least-33-people-including.md)
-_Context: Villa Somalia, MPs, President, Al-Shabaab, storm the Hotel Muna_
+_Context: storm the Hotel Muna, MPs, Al-Shabaab, Villa Somalia, President_
 
 ##### Rwanda
 ### [Foreign human rights groups accuse Rwandan and Congolese rebels of gang-raping nearly 200 women and some baby boys over four days within miles of a U.N. peacekeepers' base in the village of Bunangiri, North Kivu province, Democratic Republic of the Congo. ](/news/2010/08/24/foreign-human-rights-groups-accuse-rwandan-and-congolese-rebels-of-gang-raping-nearly-200-women-and-some-baby-boys-over-four-days-within-mil.md)
@@ -21,7 +21,7 @@ Aid groups say up to 200 women were raped in four days near a UN peacekeeping ba
 
 ##### Lance-corporal
 ### [A lance-corporal in the Australian Army is killed in fighting with the Taliban in Afghanistan's Oruzgan province. ](/news/2010/08/24/a-lance-corporal-in-the-australian-army-is-killed-in-fighting-with-the-taliban-in-afghanistan-s-oruzgan-province.md)
-_Context: Taliban, Oruzgan province, soldiers, Afghanistan, lance-corporal_
+_Context: soldiers, Afghanistan, lance-corporal, Oruzgan province, Taliban_
 
 ##### Lindsay Lohan
 ### [American actor Lindsay Lohan is released from a rehabilitation centre 22 days into a three month program. ](/news/2010/08/24/american-actor-lindsay-lohan-is-released-from-a-rehabilitation-centre-22-days-into-a-three-month-program.md)
@@ -37,7 +37,7 @@ Gas has been discovered off the coast of Greenland after the first drilling for 
 
 ##### Philippine Stock Exchange
 ### [Stocks on the Philippine Stock Exchange fall the day after the Manila hostage crisis. ](/news/2010/08/24/stocks-on-the-philippine-stock-exchange-fall-the-day-after-the-manila-hostage-crisis.md)
-_Context: Manila hostage crisis, Philippine Stock Exchange_
+_Context: Philippine Stock Exchange, Manila hostage crisis_
 
 ##### Henan Airlines Flight 8387
 ### [Henan Airlines Flight 8387, carrying 91 people on board, overshoots the runway and bursts into flames in Yichun City in Heilongjiang, northeastern China; at least 43 people are reported dead. ](/news/2010/08/24/henan-airlines-flight-8387-carrying-91-people-on-board-overshoots-the-runway-and-bursts-into-flames-in-yichun-city-in-heilongjiang-northe.md)
@@ -57,7 +57,7 @@ Rescue workers established phone contact with the 33 trapped Chilean miners for 
 
 ##### Department of Justice
 ### [The United States Department of Justice states that it will appeal a decision by United States federal judge Royce C. Lamberth to block an executive order by President Barack Obama to expand embryonic stem cell research. ](/news/2010/08/24/the-united-states-department-of-justice-states-that-it-will-appeal-a-decision-by-united-states-federal-judge-royce-c-lamberth-to-block-an-e.md)
-_Context: Royce C. Lamberth, embryonic stem cell, U.S. President, Federal District Judge, executive order, Department of Justice, Barack Obama_
+_Context: U.S. President, embryonic stem cell, executive order, Royce C. Lamberth, Federal District Judge, Department of Justice, Barack Obama_
 
 ##### Samantha Cameron
 ### [Samantha Cameron, wife of the British Prime Minister David Cameron, gives birth to the couple's fourth child, a girl. ](/news/2010/08/24/samantha-cameron-wife-of-the-british-prime-minister-david-cameron-gives-birth-to-the-couple-s-fourth-child-a-girl.md)
@@ -65,7 +65,7 @@ David Cameron says he is a &quot;very proud dad&quot; after his wife Samantha ga
 
 ##### John McCain
 ### [John McCain wins the Republican Party primary election to become the nominee in the US Senate election in Arizona. ](/news/2010/08/24/john-mccain-wins-the-republican-party-primary-election-to-become-the-nominee-in-the-us-senate-election-in-arizona.md)
-_Context: US Senate election in Arizona, Republican, John McCain, primary election_
+_Context: US Senate election in Arizona, primary election, Republican, John McCain_
 
 ## [Previous Day...](/news/2010/08/23/index.md)
 

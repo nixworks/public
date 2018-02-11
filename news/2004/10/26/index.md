@@ -5,15 +5,15 @@ Formats: [HTML](2004/10/26/index.html)  [JSON](2004/10/26/index.json)  [XML](200
 
 ##### American Airlines Flight 587
 ### [ The co-pilot of American Airlines Flight 587 caused the November 2001, crash in New York City that claimed the lives of 265 people, the staff of the U.S. National Transportation Safety Board said. ](/news/2004/10/26/the-co-pilot-of-american-airlines-flight-587-caused-the-november-2001-crash-in-new-york-city-that-claimed-the-lives-of-265-people-the-sta.md)
-_Context: American Airlines Flight 587, NTSB, New York City_
+_Context: American Airlines Flight 587, New York City, NTSB_
 
 ##### Reporters Without Borders
 ### [ A report by the media watchdog group Reporters Without Borders (RSF) ranks press freedom across the world. The ten lowest scoring countries (least free) in the report were North Korea, Cuba, Myanmar, Turkmenistan, Eritrea, the People's Republic of China, Vietnam, Nepal, Saudi Arabia, and Iran, while the ten highest were Denmark, Finland, Iceland, Ireland, the Netherlands, Norway, Slovakia, Switzerland, New Zealand, and Latvia. ](/news/2004/10/26/a-report-by-the-media-watchdog-group-reporters-without-borders-rsf-ranks-press-freedom-across-the-world-the-ten-lowest-scoring-countries.md)
-_Context: Cuba, Latvia, Slovakia, Denmark, New Zealand, Finland, Myanmar, Switzerland, Irish, covering, Eritrea, Turkmenistan, North Korea, China, Saudi Arabia, Netherlands, Norway, Iran, Nepal, Iceland, Vietnam, Reporters Without Borders_
+_Context: Iran, North Korea, China, Cuba, Saudi Arabia, Switzerland, Vietnam, Norway, Reporters Without Borders, Finland, Iceland, Irish, Denmark, Netherlands, Slovakia, New Zealand, covering, Myanmar, Turkmenistan, Latvia, Eritrea, Nepal_
 
 ##### Israeli-Palestinian conflict
 ### [ Israeli-Palestinian conflict: The Knesset approves Israeli Prime Minister Ariel Sharon's plan to withdraw 21 settlements from the Gaza Strip and 4 from the West Bank by next year. Israeli Finance Minister Benjamin Netanyahu and three other cabinet ministers from Sharon's ruling Likud government threaten to resign if a referendum over the plan will not be held. ](/news/2004/10/26/israeli-palestinian-conflict-the-knesset-approves-israeli-prime-minister-ariel-sharon-s-plan-to-withdraw-21-settlements-from-the-gaza-stri.md)
-_Context: Ariel Sharon, Likud, referendum, Gaza Strip, Israel's unilateral disengagement plan of 2004, Finance Minister, parliament in Israel, West Bank, Benjamin Netanyahu, Israeli-Palestinian conflict_
+_Context: Finance Minister, West Bank, referendum, parliament in Israel, Israeli-Palestinian conflict, Ariel Sharon, Likud, Israel's unilateral disengagement plan of 2004, Gaza Strip, Benjamin Netanyahu_
 
 ##### AIDS in the country
 ### [ The People's Republic of China shuts down dozens of illegal or unsanitary blood collection stations as part of its efforts to curb the spread of AIDS in the country. ](/news/2004/10/26/the-people-s-republic-of-china-shuts-down-dozens-of-illegal-or-unsanitary-blood-collection-stations-as-part-of-its-efforts-to-curb-the-spre.md)

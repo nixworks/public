@@ -5,7 +5,7 @@ Formats: [HTML](2009/12/31/index.html)  [JSON](2009/12/31/index.json)  [XML](200
 
 ##### High Court
 ### [ A High Court in Malaysia rules that the country's Christians have a constitutional right to use the word "Allah" in reference to God, declaring the government's ban on the use of "Allah" by non-Muslims as unconstitutional. ](/news/2009/12/31/a-high-court-in-malaysia-rules-that-the-country-s-christians-have-a-constitutional-right-to-use-the-word-allah-in-reference-to-god-decla.md)
-_Context: Allah, High Court, constitutional right, Muslim, God, unconstitutional, Christians, Malaysia_
+_Context: Allah, Christians, constitutional right, God, Muslim, Malaysia, unconstitutional, High Court_
 
 ##### Catholic Church
 ### [ Former Catholic Primate of All Ireland Cardinal Cahal Daly, "the hierarchy's foremost theologian and its most trenchant critic of politically-inspired violence", dies in Belfast aged 92. ](/news/2009/12/31/former-catholic-primate-of-all-ireland-cardinal-cahal-daly-the-hierarchy-s-foremost-theologian-and-its-most-trenchant-critic-of-political.md)
@@ -21,11 +21,11 @@ _Context: Kapisa Province, Afghanistan, France_
 
 ##### Althing
 ### [ The Althing (Icelandic parliament) approves the payment of EUR3.8 billion to the United Kingdom and the Netherlands as deposit insurance for the collapsed Icesave savings scheme. ](/news/2009/12/31/the-althing-icelandic-parliament-approves-the-payment-of-a-3-8-billion-to-the-united-kingdom-and-the-netherlands-as-deposit-insurance-fo.md)
-_Context: Althing, Iceland, Icesave, Netherlands, United Kingdom, deposit insurance_
+_Context: Icesave, United Kingdom, deposit insurance, Iceland, Netherlands, Althing_
 
 ##### Government of Serbia
 ### [ The Government of Serbia decides to sue Croatia for genocide before the International Court of Justice. ](/news/2009/12/31/the-government-of-serbia-decides-to-sue-croatia-for-genocide-before-the-international-court-of-justice.md)
-_Context: International Court of Justice, Government of Serbia, genocide, Croatia_
+_Context: genocide, Croatia, Government of Serbia, International Court of Justice_
 
 ##### University of Cambridge
 ### [ The University of Cambridge successfully acquires a collection of Siegfried Sassoon's personal papers for GBP1.25 million, following a six-month fundraising campaign. ](/news/2009/12/31/the-university-of-cambridge-successfully-acquires-a-collection-of-siegfried-sassoon-s-personal-papers-for-agbp1-25-million-following-a-six.md)
@@ -33,7 +33,7 @@ Cambridge University has acquired an important collection of personal papers bel
 
 ##### Killed by a gunman
 ### [ At least six people are killed by a gunman at a shopping centre in Espoo, near Helsinki. ](/news/2009/12/31/at-least-six-people-are-killed-by-a-gunman-at-a-shopping-centre-in-espoo-near-helsinki.md)
-_Context: Espoo, Helsinki, killed by a gunman_
+_Context: Helsinki, Espoo, killed by a gunman_
 
 ##### Lithuania
 ### [ Lithuania shuts the Baltic region's one and only nuclear power station in Visaginas. The Lithuanian nuclear power station provides 70% of the nation's energy and was traded for membership to the European Union. ](/news/2009/12/31/lithuania-shuts-the-baltic-region-s-one-and-only-nuclear-power-station-in-visaginas-the-lithuanian-nuclear-power-station-provides-70-of-t.md)
@@ -41,7 +41,7 @@ Lithuanians are braced for a devastating increase in energy prices when the stru
 
 ##### Impressionist
 ### [ "Les Choristes" by Impressionist artist Edgar Degas mysteriously disappears from Marseilles's Cantini Museum. ](/news/2009/12/31/les-choristes-by-impressionist-artist-edgar-degas-mysteriously-disappears-from-marseilles-s-cantini-museum.md)
-_Context: Edgar Degas, Marseilles, Impressionist_
+_Context: Impressionist, Marseilles, Edgar Degas_
 
 ##### Van Morrison
 ### [ Van Morrison tells "RTE News at One" that a baby his own website claimed he has fathered does not exist and that he has never met the alleged mother. ](/news/2009/12/31/van-morrison-tells-rta-news-at-one-that-a-baby-his-own-website-claimed-he-has-fathered-does-not-exist-and-that-he-has-never-met-the-alle.md)
@@ -49,7 +49,7 @@ Van Morrison has exclusively told RTÉ Radio&#39;s News at One that his official
 
 ##### Sir Patrick Stewart
 ### [ Patrick Stewart, the actor who played Captain Jean-Luc Picard in "Star Trek: The Next Generation" and Professor X in "X-Men", is knighted by Queen Elizabeth II of the United Kingdom. ](/news/2009/12/31/patrick-stewart-the-actor-who-played-captain-jean-luc-picard-in-star-trek-the-next-generation-and-professor-x-in-x-men-is-knighted-b.md)
-_Context: his role, Star Trek: The Next Generation, knights and dames, Sir Patrick Stewart, Queen, Professor X, Queen Elizabeth, X-Men_
+_Context: his role, Star Trek: The Next Generation, Queen, knights and dames, Sir Patrick Stewart, Professor X, X-Men, Queen Elizabeth_
 
 ##### Blue moon
 ### [ Both a blue moon and a lunar eclipse occur. ](/news/2009/12/31/both-a-blue-moon-and-a-lunar-eclipse-occur.md)

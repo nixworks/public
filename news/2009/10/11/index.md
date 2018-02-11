@@ -5,15 +5,15 @@ Formats: [HTML](2009/10/11/index.html)  [JSON](2009/10/11/index.json)  [XML](200
 
 ##### Luis Armando Pena Soltren
 ### [ Luis Armando Pena Soltren, a suspect wanted for the 1968 hijacking of Pan Am Flight 281, is captured after more than 40 years. ](/news/2009/10/11/luis-armando-pena-soltren-a-suspect-wanted-for-the-1968-hijacking-of-pan-am-flight-281-is-captured-after-more-than-40-years.md)
-_Context: Luis Armando Pena Soltren, aircraft piracy, Pan Am Flight 281_
+_Context: aircraft piracy, Luis Armando Pena Soltren, Pan Am Flight 281_
 
 ##### Arturo "Zambo" Cavero
 ### [ Thousands of people attend the state funeral of Arturo "Zambo" Cavero in Lima, Peru. President Alan Garcia posthumously awards him the Order of the Sun. ](/news/2009/10/11/thousands-of-people-attend-the-state-funeral-of-arturo-zambo-cavero-in-lima-peru-president-alan-garcaa-posthumously-awards-him-the-ord.md)
-_Context: Arturo "Zambo" Cavero, President, Peru, Order of the Sun, Lima, Alan Garcia_
+_Context: President, Arturo "Zambo" Cavero, Peru, Alan Garcia, Lima, Order of the Sun_
 
 ##### Moscow
 ### [ Mayoral, regional and district council elections take place in Moscow and 75 other regions across Russia. ](/news/2009/10/11/mayoral-regional-and-district-council-elections-take-place-in-moscow-and-75-other-regions-across-russia.md)
-_Context: Moscow, Russia_
+_Context: Russia, Moscow_
 
 ##### Gay rights
 ### [ Thousands of people march in protest for gay rights in Washington, D.C.. ](/news/2009/10/11/thousands-of-people-march-in-protest-for-gay-rights-in-washington-d-c.md)
@@ -25,11 +25,11 @@ An extensive search has been launched for a 79-year-old Irish priest who has bee
 
 ##### River ferry sinking
 ### [ At least 10 people die and seven are declared missing in a river ferry sinking on the Mekong in Kratie Province, Cambodia. ](/news/2009/10/11/at-least-10-people-die-and-seven-are-declared-missing-in-a-river-ferry-sinking-on-the-mekong-in-kratia-c-province-cambodia.md)
-_Context: Mekong River, river ferry sinking, Cambodia, Kratie Province_
+_Context: Kratie Province, river ferry sinking, Cambodia, Mekong River_
 
 ##### Pope
 ### [ Pope Benedict XVI canonizes five new saints: Father Damien, Rafael Arnaiz Baron, Zygmunt Szczesny Felinski, Francisco Coll Guitart, and Jeanne Jugan. ](/news/2009/10/11/pope-benedict-xvi-canonizes-five-new-saints-father-damien-rafael-arna-iz-bara3n-zygmunt-szczasny-feliaski-francisco-coll-guitart-and.md)
-_Context: Pope Benedict XVI, Zygmunt Szczesny Felinski, saint, Rafael Arnaiz Baron, Francisco Coll Guitart, Pope, Father Damien, Jeanne Jugan_
+_Context: Francisco Coll Guitart, Rafael Arnaiz Baron, Father Damien, saint, Jeanne Jugan, Pope Benedict XVI, Pope, Zygmunt Szczesny Felinski_
 
 ##### Iraq
 ### [ A spate of car bombings kills 19 people and wounds dozens in the western Iraqi city of Ramadi, in Anbar province. ](/news/2009/10/11/a-spate-of-car-bombings-kills-19-people-and-wounds-dozens-in-the-western-iraqi-city-of-ramadi-in-anbar-province.md)
@@ -37,7 +37,7 @@ A spate of car bombings killed 19 people Sunday in Iraq&#39;s western Anbar prov
 
 ##### Pakistani
 ### [ Pakistani commandos storm an office building and rescue 39 people taken hostage by suspected Taliban militants after an attack on the army's headquarters in the city of Rawalpindi. ](/news/2009/10/11/pakistani-commandos-storm-an-office-building-and-rescue-39-people-taken-hostage-by-suspected-taliban-militants-after-an-attack-on-the-army.md)
-_Context: Pakistani, Taliban, taken hostage, Rawalpindi_
+_Context: Rawalpindi, taken hostage, Taliban, Pakistani_
 
 ##### INLA
 ### [ The Irish National Liberation Army (INLA) announces an end to violence in Northern Ireland. ](/news/2009/10/11/the-irish-national-liberation-army-inla-announces-an-end-to-violence-in-northern-ireland.md)

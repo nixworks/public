@@ -13,19 +13,19 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Bill Clinton
 ### [ Former US Presidents Bill Clinton and George H. W. Bush visit Sri Lanka to see marks of the 2004 Indian Ocean earthquake ](/news/2005/02/21/former-us-presidents-bill-clinton-and-george-h-w-bush-visit-sri-lanka-to-see-marks-of-the-2004-indian-ocean-earthquake.md)
-_Context: Bill Clinton, George H. W. Bush, 2004 Indian Ocean earthquake, Sri Lanka_
+_Context: George H. W. Bush, 2004 Indian Ocean earthquake, Bill Clinton, Sri Lanka_
 
 ##### Airport
 ### [ Airport authorities evacuate the Virgin Blue terminal in Melbourne airport in Australia after 45 people become ill. A chemical leak is suspected. ](/news/2005/02/21/airport-authorities-evacuate-the-virgin-blue-terminal-in-melbourne-airport-in-australia-after-45-people-become-ill-a-chemical-leak-is-susp.md)
-_Context: Melbourne, Virgin Australia, Airport_
+_Context: Virgin Australia, Airport, Melbourne_
 
 ##### Syria
 ### [ Syrian President Bashar al-Assad appoints his brother-in-law Assef Shawkat as head of the country's military intelligence service, replacing Hassan Khalil.](/news/2005/02/21/syrian-president-bashar-al-assad-appoints-his-brother-in-law-assef-shawkat-as-head-of-the-country-s-military-intelligence-service-replacin.md)
-_Context: Bashar al-Assad, Syria, Hassan Khalil, Assef Shawkat, military intelligence_
+_Context: Syria, Bashar al-Assad, military intelligence, Hassan Khalil, Assef Shawkat_
 
 ##### Curfew
 ### [ Curfew is imposed on the Indian city of Lucknow after sectarian violence between Sunni and Shia Muslims. 3 people are dead and 20 injured ](/news/2005/02/21/curfew-is-imposed-on-the-indian-city-of-lucknow-after-sectarian-violence-between-sunni-and-shia-muslims-3-people-are-dead-and-20-injured.md)
-_Context: Shia, Muslim, curfew, Lucknow, Sunni, sectarian violence_
+_Context: Shia, Muslim, sectarian violence, Lucknow, curfew, Sunni_
 
 ##### Avalanche
 ### [ A new avalanche claims at least 42 lives in Kashmir. A previous avalanche was on February 6 ](/news/2005/02/21/a-new-avalanche-claims-at-least-42-lives-in-kashmir-a-previous-avalanche-was-on-february-6.md)
@@ -37,7 +37,7 @@ _Context: registered partnership, Royal Navy_
 
 ##### Israel
 ### [ Israel releases 500 Palestinian prisoners, as a gesture of goodwill to the Palestinian Authority and to its chairman, Mahmoud Abbas. Israel plans to release another 400 Palestinian prisoners within the next 3 months. ](/news/2005/02/21/israel-releases-500-palestinian-prisoners-as-a-gesture-of-goodwill-to-the-palestinian-authority-and-to-its-chairman-mahmoud-abbas-israel.md)
-_Context: Palestinian Authority, Palestinian, goodwill, Mahmoud Abbas, Israel_
+_Context: Israel, goodwill, Palestinian, Palestinian Authority, Mahmoud Abbas_
 
 ## [Previous Day...](/news/2005/02/20/index.md)
 

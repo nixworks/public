@@ -5,11 +5,11 @@ Formats: [HTML](2010/12/20/index.html)  [JSON](2010/12/20/index.json)  [XML](201
 
 ##### Somalia
 ### [7 people are killed in a roadside bomb and shooting incident in the Somali capital Mogadishu. ](/news/2010/12/20/7-people-are-killed-in-a-roadside-bomb-and-shooting-incident-in-the-somali-capital-mogadishu.md)
-_Context: Mogadishu, Somalia_
+_Context: Somalia, Mogadishu_
 
 ##### Kenya
 ### [A bomb exploded at a downtown bus station in Kenya's capital as passengers boarded a bus, killing at least one person and wounding up to 39 others, police said. Suspicions centered on a Somali militant group. ](/news/2010/12/20/a-bomb-exploded-at-a-downtown-bus-station-in-kenya-s-capital-as-passengers-boarded-a-bus-killing-at-least-one-person-and-wounding-up-to-39.md)
-_Context: Nairobi, Somali, Kenya_
+_Context: Nairobi, Kenya, Somali_
 
 ##### Republic of Korea Marine Corps
 ### [The Republic of Korea Marine Corps holds live-fire drill exercises on Yeonpyeong Island. North Korea says it will not retaliate. ](/news/2010/12/20/the-republic-of-korea-marine-corps-holds-live-fire-drill-exercises-on-yeonpyeong-island-north-korea-says-it-will-not-retaliate.md)
@@ -17,7 +17,7 @@ South Korea holds live-firing exercises on an island close to the border with No
 
 ##### Taliban
 ### [13 Afghan soldiers were killed in two separate suicide attacks launched by Taliban in the capital city of Afghanistan. ](/news/2010/12/20/13-afghan-soldiers-were-killed-in-two-separate-suicide-attacks-launched-by-taliban-in-the-capital-city-of-afghanistan.md)
-_Context: Taliban, Afghanistan, Kabul_
+_Context: Kabul, Afghanistan, Taliban_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI discusses sexual abuse of children by priests while dining with cardinals and bishops at his traditional Christmas audience. ](/news/2010/12/20/pope-benedict-xvi-discusses-sexual-abuse-of-children-by-priests-while-dining-with-cardinals-and-bishops-at-his-traditional-christmas-audienc.md)
@@ -25,7 +25,7 @@ Pope Benedict calls for the Catholic Church to reflect on mistakes that allowed 
 
 ##### Social network
 ### [Social network chief Mark Zuckerberg is photographed meeting CEO of Chinese search engine Baidu Robin Li, in Beijing, China. ](/news/2010/12/20/social-network-chief-mark-zuckerberg-is-photographed-meeting-ceo-of-chinese-search-engine-baidu-robin-li-in-beijing-china.md)
-_Context: Social network, Mark Zuckerberg, Baidu, search engine, Robin Li, Beijing_
+_Context: Baidu, Robin Li, Mark Zuckerberg, search engine, Beijing, Social network_
 
 ##### European Central Bank
 ### [The European Central Bank worries about its ability to provide further financial assistance to eurozone members due to flawed legislation. ](/news/2010/12/20/the-european-central-bank-worries-about-its-ability-to-provide-further-financial-assistance-to-eurozone-members-due-to-flawed-legislation.md)
@@ -61,11 +61,11 @@ Russian President Dimitry Medvedev arrives in India on Tuesday to secure nuclear
 
 ##### North Korea
 ### [North Korea agrees with United States troubleshooter Bill Richardson to permit the return of United Nations nuclear inspectors. ](/news/2010/12/20/north-korea-agrees-with-united-states-troubleshooter-bill-richardson-to-permit-the-return-of-united-nations-nuclear-inspectors.md)
-_Context: North Korea, IAEA, Bill Richardson, United States, United Nations_
+_Context: Bill Richardson, IAEA, North Korea, American, United Nations_
 
 ##### Israel
 ### [Israel orders all of their foreign envoys to thwart Palestinian attempts to draft a UN resolution with the aims of recognition of Palestinian and to pressure Israel to stop settling its citizens within Palestine. ](/news/2010/12/20/israel-orders-all-of-their-foreign-envoys-to-thwart-palestinian-attempts-to-draft-a-un-resolution-with-the-aims-of-recognition-of-palestinia.md)
-_Context: Palestine, UN, Israel_
+_Context: UN, Palestine, Israel_
 
 ##### Russia
 ### [Russia warns the U.S. that a renegotiation of the Start treaty may lead to the pact's destruction. ](/news/2010/12/20/russia-warns-the-u-s-that-a-renegotiation-of-the-start-treaty-may-lead-to-the-pact-s-destruction.md)
@@ -81,7 +81,7 @@ _Context: Indonesia_
 
 ##### David Paterson
 ### [David Paterson, Governor of New York, is fined $62,125 for accepting free gifts from a registered lobbyist--the New York Yankees. ](/news/2010/12/20/david-paterson-governor-of-new-york-is-fined-62-125-for-accepting-free-gifts-from-a-registered-lobbyistathe-new-york-yankees.md)
-_Context: New York Yankees, New York Governor, David Paterson, lobbyist_
+_Context: David Paterson, New York Yankees, New York Governor, lobbyist_
 
 ##### Iranian director
 ### [Iranian director Jafar Panahi is sentenced to six years imprisonment for making a film "against the regime." ](/news/2010/12/20/iranian-director-jafar-panahi-is-sentenced-to-six-years-imprisonment-for-making-a-film-against-the-regime.md)
@@ -97,7 +97,7 @@ Police in Belarus beat and arrest scores of protesters and several presidential 
 
 ##### Mexican
 ### [Mexican politician Diego Fernandez de Cevallos is released by his kidnappers seven months after being abducted. ](/news/2010/12/20/mexican-politician-diego-fernandez-de-cevallos-is-released-by-his-kidnappers-seven-months-after-being-abducted.md)
-_Context: Mexican, Diego Fernandez de Cevallos_
+_Context: Diego Fernandez de Cevallos, Mexican_
 
 ##### Sea creatures
 ### [1,200 new species and varieties of sea creatures discovered during the first world survey of marine life are presented at a conference in Jerusalem, Israel. ](/news/2010/12/20/1-200-new-species-and-varieties-of-sea-creatures-discovered-during-the-first-world-survey-of-marine-life-are-presented-at-a-conference-in-je.md)

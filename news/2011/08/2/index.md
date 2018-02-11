@@ -5,7 +5,7 @@ Formats: [HTML](2011/08/2/index.html)  [JSON](2011/08/2/index.json)  [XML](2011/
 
 ##### Civil war
 ### [2011 Libyan civil war: Seven rebels are killed and 50 injured in fighting in the town of Zlitan. ](/news/2011/08/2/2011-libyan-civil-war-seven-rebels-are-killed-and-50-injured-in-fighting-in-the-town-of-zlitan.md)
-_Context: civil war, Zlitan_
+_Context: Zlitan, civil war_
 
 ##### Suicide-bomb
 ### [Suicide bombers attack a guesthouse used by foreigners in the northern Afghanistan province of Kunduz with at least four security guards dead. ](/news/2011/08/2/suicide-bombers-attack-a-guesthouse-used-by-foreigners-in-the-northern-afghanistan-province-of-kunduz-with-at-least-four-security-guards-dea.md)
@@ -25,15 +25,15 @@ Activists had promised to stay until ex-president Hosni Mubarak appears in court
 
 ##### Ethiopia
 ### [Four Ethiopian peacekeepers are killed by a landmine in the Abyei region of Sudan. ](/news/2011/08/2/four-ethiopian-peacekeepers-are-killed-by-a-landmine-in-the-abyei-region-of-sudan.md)
-_Context: peacekeepers, Sudan, Abyei, Ethiopia_
+_Context: Ethiopia, Sudan, Abyei, peacekeepers_
 
 ##### United Nations
 ### [The United Nations warns that Uganda could be the next country to be affected by the famine in the Horn of Africa. ](/news/2011/08/2/the-united-nations-warns-that-uganda-could-be-the-next-country-to-be-affected-by-the-famine-in-the-horn-of-africa.md)
-_Context: Uganda, United Nations, famine, Horn of Africa_
+_Context: United Nations, Horn of Africa, Uganda, famine_
 
 ##### Tropical Storm Emily
 ### [Tropical Storm Emily moves towards Puerto Rico. ](/news/2011/08/2/tropical-storm-emily-moves-towards-puerto-rico.md)
-_Context: Tropical Storm Emily, Puerto Rico_
+_Context: Puerto Rico, Tropical Storm Emily_
 
 ##### United Nations
 ### [The United Nations Working Group on Arbitrary Detention calls on China to release Liu Xiaobo and his wife. ](/news/2011/08/2/the-united-nations-working-group-on-arbitrary-detention-calls-on-china-to-release-liu-xiaobo-and-his-wife.md)
@@ -41,7 +41,7 @@ A UN panel of independent legal experts calls on China to free Nobel Peace laure
 
 ##### Israel
 ### [Israel's Supreme Court orders the West Bank outpost of Migron, inhabited by 250 Jewish settlers, to be evacuated without delay. ](/news/2011/08/2/israel-s-supreme-court-orders-the-west-bank-outpost-of-migron-inhabited-by-250-jewish-settlers-to-be-evacuated-without-delay.md)
-_Context: Israel, Supreme Court, West Bank_
+_Context: Supreme Court, Israel, West Bank_
 
 ##### Europe
 ### [Four European nations (the United Kingdom, France, Germany and Portugal) circulate a draft United Nations Security Council resolution condemning the Government of Syria for its recent crackdown on protesters. ](/news/2011/08/2/four-european-nations-the-united-kingdom-france-germany-and-portugal-circulate-a-draft-united-nations-security-council-resolution-condem.md)
@@ -49,7 +49,7 @@ Syrian forces shelled Hama with tanks and artillery for a third day as European 
 
 ##### South Korea
 ### [South Korean prosecutors send a summons to Park Chul, President of Hankuk University of Foreign Studies, over alleged embezzlement. ](/news/2011/08/2/south-korean-prosecutors-send-a-summons-to-park-chul-president-of-hankuk-university-of-foreign-studies-over-alleged-embezzlement.md)
-_Context: embezzlement, summons, South Korea, Hankuk University of Foreign Studies_
+_Context: embezzlement, South Korea, Hankuk University of Foreign Studies, summons_
 
 ##### Conspiracy to hack mobile phones
 ### [Former "News of the World" managing editor Stuart Kuttner is arrested and later bailed as part of the ongoing investigation into phone hacking. ](/news/2011/08/2/former-news-of-the-world-managing-editor-stuart-kuttner-is-arrested-and-later-bailed-as-part-of-the-ongoing-investigation-into-phone-hacki.md)
@@ -57,11 +57,11 @@ A 71-year-old man, thought to be ex-News of the World executive Stuart Kuttner, 
 
 ##### Papuan people
 ### [Around 10,000 Papuan people demonstrate in support of independence from Indonesia in the Papuan capital of Jayapura. ](/news/2011/08/2/around-10-000-papuan-people-demonstrate-in-support-of-independence-from-indonesia-in-the-papuan-capital-of-jayapura.md)
-_Context: Jayapura, Papua, Indonesia, Papuan people_
+_Context: Indonesia, Jayapura, Papua, Papuan people_
 
 ##### Peter O'Neill
 ### [Peter O'Neill of Southern Highlands Province is elected Prime Minister of Papua New Guinea in a 70-24 vote, ousting acting Prime Minister Sam Abal who promises to contest the decision in court. ](/news/2011/08/2/peter-o-neill-of-southern-highlands-province-is-elected-prime-minister-of-papua-new-guinea-in-a-70-24-vote-ousting-acting-prime-minister-sa.md)
-_Context: Peter O'Neill, Sam Abal, Prime Minister, Southern Highlands Province_
+_Context: Southern Highlands Province, Sam Abal, Peter O'Neill, Prime Minister_
 
 ##### United States Senate
 ### [The United States Senate passes legislation to raise the debt ceiling in order to avert the 2011 US debt ceiling crisis and President Barack Obama signs it into law. ](/news/2011/08/2/the-united-states-senate-passes-legislation-to-raise-the-debt-ceiling-in-order-to-avert-the-2011-us-debt-ceiling-crisis-and-president-barack.md)

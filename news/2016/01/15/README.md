@@ -9,7 +9,7 @@ Exchanges of fire continue at a luxury hotel in Burkina Faso as special forces s
 
 ##### 2016 Jakarta attacks
 ### [Three men are arrested in the outskirts of Jakarta in connection with the attacks. Police have identified the attackers killed in the raid with two of the men having been imprisoned for terrorism related offences. ](/news/2016/01/15/three-men-are-arrested-in-the-outskirts-of-jakarta-in-connection-with-the-attacks-police-have-identified-the-attackers-killed-in-the-raid-w.md)
-_Context: 2016 Jakarta attacks, Jakarta_
+_Context: Jakarta, 2016 Jakarta attacks_
 
 ##### War in Somalia
 ### [al Shabaab militants overrun an African Union base in southern Somalia with unconfirmed reports of dozens of soldiers dead. ](/news/2016/01/15/al-shabaab-militants-overrun-an-african-union-base-in-southern-somalia-with-unconfirmed-reports-of-dozens-of-soldiers-dead.md)
@@ -17,7 +17,7 @@ Al Shabaab fighters attacked a remote Somali army base and entered a nearby town
 
 ##### Syrian Civil War
 ### [UNICEF confirms severe malnutrition in the besieged Syrian town of Madaya. Russia calls for humanitarian aid to be let into besieged towns like Madaya, Fua and Kafraya. ](/news/2016/01/15/unicef-confirms-severe-malnutrition-in-the-besieged-syrian-town-of-madaya-russia-calls-for-humanitarian-aid-to-be-let-into-besieged-towns-l.md)
-_Context: Al-Fu'ah, Syria, Kafraya, malnutrition, Russia, Madaya, UNICEF, Syrian Civil War_
+_Context: Madaya, Syria, Kafraya, Syrian Civil War, malnutrition, Al-Fu'ah, Russia, UNICEF_
 
 ##### Wikipedia
 ### [Wikipedia celebrates its 15th anniversary. ](/news/2016/01/15/wikipedia-celebrates-its-15th-anniversary.md)
@@ -81,15 +81,15 @@ A special court is being set up in The Hague to try war crimes committed during 
 
 ##### PKK rebellion (2015-present)
 ### [Twelve Turkish academics are detained for signing a declaration opposing military action against Kurdistan Workers Party forces in southeast Turkey. ](/news/2016/01/15/twelve-turkish-academics-are-detained-for-signing-a-declaration-opposing-military-action-against-kurdistan-workers-party-forces-in-southeast.md)
-_Context: Turkey, Turkish, Kurdistan Workers Party, PKK rebellion (2015-present)_
+_Context: PKK rebellion (2015-present), Turkey, Kurdistan Workers Party, Turkish_
 
 ##### Anti-corruption campaign in China
 ### [Wei Hong, Governor of Sichuan province, is announced to be under investigation for "breaching discipline" by the Central Commission for Discipline Inspection. ](/news/2016/01/15/wei-hong-governor-of-sichuan-province-is-announced-to-be-under-investigation-for-breaching-discipline-by-the-central-commission-for-disc.md)
-_Context: Wei Hong, Anti-corruption campaign in China, Central Commission for Discipline Inspection, Sichuan_
+_Context: Sichuan, Central Commission for Discipline Inspection, Wei Hong, Anti-corruption campaign in China_
 
 ##### Azerbaijan
 ### [Azerbaijani National Police use tear gas and water cannons to forcibly disperse protesters in the Quba District who were protesting the country's worsening economic situation, resulting in scores being arrested. ](/news/2016/01/15/azerbaijani-national-police-use-tear-gas-and-water-cannons-to-forcibly-disperse-protesters-in-the-quba-district-who-were-protesting-the-coun.md)
-_Context: Azerbaijan, National Police,  Quba District_
+_Context: Azerbaijan,  Quba District, National Police_
 
 ## [Previous Day...](/news/2016/01/14/index.md)
 

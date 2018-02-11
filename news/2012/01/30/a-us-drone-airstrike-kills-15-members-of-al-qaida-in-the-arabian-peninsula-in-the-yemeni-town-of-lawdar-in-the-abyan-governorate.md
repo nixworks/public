@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/01/30/a-us-drone-airstrike-kills-15-members-of-al-qai
 
 ### [2012-01-30](/news/2012/01/30/index.md)
 
-##### Flying drone
+##### UAV
 # A US drone airstrike kills 15 members of al Qaida in the Arabian Peninsula in the Yemeni town of Lawdar in the Abyan Governorate. 
 
 

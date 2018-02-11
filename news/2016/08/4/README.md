@@ -13,7 +13,7 @@ _Context: Bank of England, 2009_
 
 ##### 2016 Atlantic hurricane season
 ### [Hurricane Earl makes landfall in Belize near Belize City early today. ](/news/2016/08/4/hurricane-earl-makes-landfall-in-belize-near-belize-city-early-today.md)
-_Context: Belize, Belize City, 2016 Atlantic hurricane season, Earl's_
+_Context: Earl's, Belize, Belize City, 2016 Atlantic hurricane season_
 
 ##### Wildfires
 ### [Wildfires in seven U.S. states are keeping thousands of firefighters at bay. ](/news/2016/08/4/wildfires-in-seven-u-s-states-are-keeping-thousands-of-firefighters-at-bay.md)
@@ -37,11 +37,11 @@ South Africa&#39;s opposition DA party wins a majority in local elections in thr
 
 ##### Nepal
 ### [In Nepal, Pushpa Kamal Dahal takes the oath of office and secrecy as Prime Minister. ](/news/2016/08/4/in-nepal-pushpa-kamal-dahal-takes-the-oath-of-office-and-secrecy-as-prime-minister.md)
-_Context: Prime Minister, Pushpa Kamal Dahal, Nepal_
+_Context: Pushpa Kamal Dahal, Prime Minister, Nepal_
 
 ##### China
 ### [China's unmanned lunar rover Yutu shuts down after exploring the Moon for 31 months. ](/news/2016/08/4/china-s-unmanned-lunar-rover-yutu-shuts-down-after-exploring-the-moon-for-31-months.md)
-_Context: lunar rover, China, Yutu, Moon_
+_Context: lunar rover, China, Moon, Yutu_
 
 ## [Previous Day...](/news/2016/08/3/index.md)
 

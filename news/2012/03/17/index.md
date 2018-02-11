@@ -9,7 +9,7 @@ At least 27 people have been killed in two explosions in the Syrian capital Dama
 
 ##### Tibet
 ### [A Tibetan monk sets himself on fire in southwest China, in the latest in a series of similar incidents where nearly 30 monks have now self-immolated. ](/news/2012/03/17/a-tibetan-monk-sets-himself-on-fire-in-southwest-china-in-the-latest-in-a-series-of-similar-incidents-where-nearly-30-monks-have-now-self-i.md)
-_Context: Tibet, China, self-immolated_
+_Context: self-immolated, Tibet, China_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI launches an internal investigation into leaks of confidential documents alleging corruption, financial mismanagement and power struggles among senior church officials. ](/news/2012/03/17/pope-benedict-xvi-launches-an-internal-investigation-into-leaks-of-confidential-documents-alleging-corruption-financial-mismanagement-and-p.md)
@@ -17,15 +17,15 @@ _Context: corruption, Pope Benedict XVI_
 
 ##### Pope Shenouda III of Alexandria
 ### [Pope Shenouda III of Alexandria, the leader of Egypt's Coptic Christian community, dies of cancer at the age of 88. ](/news/2012/03/17/pope-shenouda-iii-of-alexandria-the-leader-of-egypt-s-coptic-christian-community-dies-of-cancer-at-the-age-of-88.md)
-_Context: cancer, Pope Shenouda III of Alexandria, Coptic Christian, Egypt_
+_Context: cancer, Pope Shenouda III of Alexandria, Egypt, Coptic Christian_
 
 ##### Severe Tropical Cyclone Lua
 ### [Severe Tropical Cyclone Lua is upgraded to a Category 4 cyclone as it hits the town of Pardoo on the northwest coast of Western Australia. ](/news/2012/03/17/severe-tropical-cyclone-lua-is-upgraded-to-a-category-4-cyclone-as-it-hits-the-town-of-pardoo-on-the-northwest-coast-of-western-australia.md)
-_Context: Severe Tropical Cyclone Lua, Western Australia, Pardoo_
+_Context: Pardoo, Western Australia, Severe Tropical Cyclone Lua_
 
 ##### Burma
 ### [Burma signs an agreement with the International Labour Organization to end forced labour by 2015. ](/news/2012/03/17/burma-signs-an-agreement-with-the-international-labour-organization-to-end-forced-labour-by-2015.md)
-_Context: International Labour Organization, Burma, forced labour_
+_Context: International Labour Organization, forced labour, Burma_
 
 ##### China
 ### [China expresses concern at North Korea's intention to launch a satellite next month to mark the centenary of founder Kim Il-sung's birth. ](/news/2012/03/17/china-expresses-concern-at-north-korea-s-intention-to-launch-a-satellite-next-month-to-mark-the-centenary-of-founder-kim-il-sung-s-birth.md)
@@ -33,7 +33,7 @@ Beijing adds voice to international concern and urges restraint after Pyongyang 
 
 ##### Mauritanian
 ### [Mauritania's state information agency announces that Abdullah Senussi, Muammar Gaddafi's former intelligence chief, has been arrested at the airport in Nouakchott upon arrival from Morocco. ](/news/2012/03/17/mauritania-s-state-information-agency-announces-that-abdullah-senussi-muammar-gaddafi-s-former-intelligence-chief-has-been-arrested-at-the.md)
-_Context: Abdullah Senussi, Nouakchott, Mauritanian, Muammar Gaddafi, Morocco_
+_Context: Nouakchott, Morocco, Muammar Gaddafi, Abdullah Senussi, Mauritanian_
 
 ##### Belarus
 ### [Belarus executes Vladislav Kovalev, one of the men convicted of the 2011 Minsk Metro bombing. ](/news/2012/03/17/belarus-executes-vladislav-kovalev-one-of-the-men-convicted-of-the-2011-minsk-metro-bombing.md)
@@ -49,7 +49,7 @@ _Context: Nazi, Jewish, Holocaust, John Demjanjuk_
 
 ##### Police
 ### [Venezuelan police shoot dead the daughter of a Chilean diplomat at a police checkpoint at the city of Maracaibo after the vehicle she was travelling in refused to stop - 11 police officers are under investigation. ](/news/2012/03/17/venezuelan-police-shoot-dead-the-daughter-of-a-chilean-diplomat-at-a-police-checkpoint-at-the-city-of-maracaibo-after-the-vehicle-she-was-tr.md)
-_Context: police, Chile, Maracaibo_
+_Context: Chile, police, Maracaibo_
 
 ##### Chongqing
 ### [Chinese leaders urge officials and residents in Chongqing to support the change of leadership in the city, after former chief Bo Xilai was removed. ](/news/2012/03/17/chinese-leaders-urge-officials-and-residents-in-chongqing-to-support-the-change-of-leadership-in-the-city-after-former-chief-bo-xilai-was-r.md)
@@ -61,7 +61,7 @@ _Context: African Union, Benin_
 
 ##### East Timor
 ### [Voters in East Timor go to the polls for a presidential election with incumbent President Jose Ramos-Horta standing against 11 other candidates. ](/news/2012/03/17/voters-in-east-timor-go-to-the-polls-for-a-presidential-election-with-incumbent-president-jose-ramos-horta-standing-against-11-other-candida.md)
-_Context: Jose Ramos-Horta, East Timor, President, 2012_
+_Context: 2012, Jose Ramos-Horta, President, East Timor_
 
 ##### Julian Assange
 ### [Julian Assange announces plans to run for the Senate of Australia despite being under house arrest in the United Kingdom. ](/news/2012/03/17/julian-assange-announces-plans-to-run-for-the-senate-of-australia-despite-being-under-house-arrest-in-the-united-kingdom.md)

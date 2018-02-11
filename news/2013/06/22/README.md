@@ -5,7 +5,7 @@ Formats: [HTML](2013/06/22/index.html)  [JSON](2013/06/22/index.json)  [XML](201
 
 ##### Water cannon
 ### [Police use water cannon, tear gas and rubber bullets on thousands of civilians gathered in Istanbul's Taksim Square for a memorial to the 4 protestors killed in previous days. ](/news/2013/06/22/police-use-water-cannon-tear-gas-and-rubber-bullets-on-thousands-of-civilians-gathered-in-istanbul-s-taksim-square-for-a-memorial-to-the-4.md)
-_Context: water cannon, Taksim Square, tear gas, rubber bullet, Istanbul_
+_Context: rubber bullet, Taksim Square, water cannon, Istanbul, tear gas_
 
 ##### Friends of Syria Group
 ### [The Friends of Syria Group agrees to give urgent assistance to the rebels. ](/news/2013/06/22/the-friends-of-syria-group-agrees-to-give-urgent-assistance-to-the-rebels.md)
@@ -25,15 +25,15 @@ _Context: flooding in Alberta_
 
 ##### Canterbury Region
 ### [The worst flooding in 20 years affects the Canterbury Region of New Zealand, with the towns of Leeston and Lyttelton amongst the worst affected. ](/news/2013/06/22/the-worst-flooding-in-20-years-affects-the-canterbury-region-of-new-zealand-with-the-towns-of-leeston-and-lyttelton-amongst-the-worst-affec.md)
-_Context: Leeston, Canterbury Region, Lyttelton, New Zealand_
+_Context: Canterbury Region, Leeston, Lyttelton, New Zealand_
 
 ##### Dayton, Ohio
 ### [Two die in a plane crash in Dayton, Ohio. ](/news/2013/06/22/two-die-in-a-plane-crash-in-dayton-ohio.md)
-_Context: Ohio, Dayton, Ohio_
+_Context: Dayton, Ohio, Ohio_
 
 ##### Pardoning
 ### [A petition about pardoning former U.S. National Security Agency contractor Edward Snowden reaches 100,000 signatures. ](/news/2013/06/22/a-petition-about-pardoning-former-u-s-national-security-agency-contractor-edward-snowden-reaches-100-000-signatures.md)
-_Context: National Security Agency, Edward Snowden, pardoning_
+_Context: pardoning, National Security Agency, Edward Snowden_
 
 ##### Barack Obama
 ### [U.S. president Barack Obama is accused of anti-Catholicism at home and in Northern Ireland for his remarks on Protestant and Catholic segregation of schools while visiting for the G8 summit earlier this week. ](/news/2013/06/22/u-s-president-barack-obama-is-accused-of-anti-catholicism-at-home-and-in-northern-ireland-for-his-remarks-on-protestant-and-catholic-segreg.md)

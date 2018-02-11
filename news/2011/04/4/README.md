@@ -13,7 +13,7 @@ At least seven people have been killed after a suicide bomber struck a bus stati
 
 ##### Baton
 ### [Police baton and tear gas people protesting on a highway in Dhaka, arresting dozens. ](/news/2011/04/4/police-baton-and-tear-gas-people-protesting-on-a-highway-in-dhaka-arresting-dozens.md)
-_Context: Dhaka, tear gas, baton_
+_Context: baton, Dhaka, tear gas_
 
 ##### Policemen
 ### [Yemeni police fire live rounds and teargas at protesters in the city of Taiz killing one person and injuring over 400. ](/news/2011/04/4/yemeni-police-fire-live-rounds-and-teargas-at-protesters-in-the-city-of-taiz-killing-one-person-and-injuring-over-400.md)
@@ -29,7 +29,7 @@ A Turkish humanitarian ship carrying more than 250 injured people from the Libya
 
 ##### Muslim Brotherhood
 ### [Police arrest a man with a fake explosive belt attempting to enter the headquarters of the Muslim Brotherhood in Amman. ](/news/2011/04/4/police-arrest-a-man-with-a-fake-explosive-belt-attempting-to-enter-the-headquarters-of-the-muslim-brotherhood-in-amman.md)
-_Context: Amman, Muslim Brotherhood_
+_Context: Muslim Brotherhood, Amman_
 
 ##### Israel
 ### [Israeli war planes roam at low attitudes across the skies of Gaza. ](/news/2011/04/4/israeli-war-planes-roam-at-low-attitudes-across-the-skies-of-gaza.md)
@@ -53,11 +53,11 @@ A three-panel oil painting by artist Zhang Xiaogang sells for 79m Hong Kong doll
 
 ##### Prince Albert II of Monaco
 ### [Prince Albert II of Monaco's Rhodesian-born fiancee Charlene Wittstock converts to Roman Catholicism. ](/news/2011/04/4/prince-albert-ii-of-monaco-s-rhodesian-born-fianca-c-e-charlene-wittstock-converts-to-roman-catholicism.md)
-_Context: Roman Catholicism, Rhodesia, Prince Albert II of Monaco, Charlene, Princess of Monaco_
+_Context: Charlene, Princess of Monaco, Prince Albert II of Monaco, Roman Catholicism, Rhodesia_
 
 ##### Bank of Japan
 ### [The Bank of Japan releases its Quarterly Tankan survey of business sentiment confirming that the recent 2011 Tohoku earthquake and tsunami has had a negative effect on business confidence. ](/news/2011/04/4/the-bank-of-japan-releases-its-quarterly-tankan-survey-of-business-sentiment-confirming-that-the-recent-2011-tahoku-earthquake-and-tsunami.md)
-_Context: Quarterly Tankan survey of business sentiment, 2011 Tohoku earthquake and tsunami, Bank of Japan_
+_Context: 2011 Tohoku earthquake and tsunami, Quarterly Tankan survey of business sentiment, Bank of Japan_
 
 ##### 
 ### [It is reported that China has succeeded in genetically modifying cows to produce "human" milk. ](/news/2011/04/4/it-is-reported-that-china-has-succeeded-in-genetically-modifying-cows-to-produce-human-milk.md)
@@ -79,7 +79,7 @@ The M11 in Essex is closed following a six-vehicle crash which leaves five peopl
 
 ##### Dog
 ### [A two-year-old dog is reunited with her owner in tsunami-ravished Japan. ](/news/2011/04/4/a-two-year-old-dog-is-reunited-with-her-owner-in-tsunami-ravished-japan.md)
-_Context: Japan, dog_
+_Context: dog, Japan_
 
 ##### Tornado
 ### [A possible tornado hits an automotive plant in Hopkinsville, Kentucky near Nashville, injuring seven people. ](/news/2011/04/4/a-possible-tornado-hits-an-automotive-plant-in-hopkinsville-kentucky-near-nashville-injuring-seven-people.md)
@@ -99,7 +99,7 @@ _Context: Gulf Co-operation Council, Iran_
 
 ##### Indonesia
 ### [The Indonesian government appeals after Saudi Arabia acquits a woman accused of torturing her Indonesian maid. ](/news/2011/04/4/the-indonesian-government-appeals-after-saudi-arabia-acquits-a-woman-accused-of-torturing-her-indonesian-maid.md)
-_Context: Saudi Arabia, Indonesia_
+_Context: Indonesia, Saudi Arabia_
 
 ##### Prince Albert II of Monaco
 ### [Prince Albert II of Monaco and his fiancee Charlene Wittstock arrive in Ireland for a state visit, 50 years after the visit of Prince Rainier and Hollywood actress Princess Grace. They are to dine at a state banquet hosted by President Mary McAleese and her husband at Aras an Uachtarain. ](/news/2011/04/4/prince-albert-ii-of-monaco-and-his-fianca-c-e-charlene-wittstock-arrive-in-ireland-for-a-state-visit-50-years-after-the-visit-of-prince-raini.md)
@@ -115,7 +115,7 @@ _Context: Japanese Foreign Ministry_
 
 ##### North Korea
 ### [North Korea executes former railways minister Kim Yong Sam in connection with the Ryongchon disaster in 2004. ](/news/2011/04/4/north-korea-executes-former-railways-minister-kim-yong-sam-in-connection-with-the-ryongchon-disaster-in-2004.md)
-_Context: North Korea, Ryongchon disaster, Kim Yong Sam_
+_Context: Ryongchon disaster, Kim Yong Sam, North Korea_
 
 ##### Gilgo
 ### [Three more human remains are found in the Gilgo area of Long Island New York bringing the total number of bodies to eight with a serial killer believed to be responsible. ](/news/2011/04/4/three-more-human-remains-are-found-in-the-gilgo-area-of-long-island-new-york-bringing-the-total-number-of-bodies-to-eight-with-a-serial-kill.md)
@@ -135,7 +135,7 @@ Prominent lawyer and dissident Cu Huy Ha Vu is jailed for seven years in Vietnam
 
 ##### Than Shwe
 ### [Than Shwe, the former head of Burma's State Peace and Development Council, retires as the head of the Myanmar military. ](/news/2011/04/4/than-shwe-the-former-head-of-burma-s-state-peace-and-development-council-retires-as-the-head-of-the-myanmar-military.md)
-_Context: Burma, security forces, Than Shwe, State Peace and Development Council_
+_Context: Than Shwe, State Peace and Development Council, security forces, Burma_
 
 ##### Ivor Callely
 ### [Controversial Irish senator Ivor Callely, who last year was embroiled in an expenses scandal, is fined EUR60 by a court for breaching the law. ](/news/2011/04/4/controversial-irish-senator-ivor-callely-who-last-year-was-embroiled-in-an-expenses-scandal-is-fined-a-60-by-a-court-for-breaching-the-la.md)
@@ -147,7 +147,7 @@ US president releases email and online video announcing his intention to stand f
 
 ##### Michel "Sweet Micky" Martelly
 ### [Musician Michel "Sweet Micky" Martelly wins the Haitian general election, 2010-2011. ](/news/2011/04/4/musician-michel-sweet-micky-martelly-wins-the-haitian-general-election-2010a2011.md)
-_Context: Michel "Sweet Micky" Martelly, Haitian general election, 2010-2011_
+_Context: Haitian general election, 2010-2011, Michel "Sweet Micky" Martelly_
 
 ##### United Kingdom
 ### [As part of the British government's package of welfare reforms, from today the one-and-a-half million people in the United Kingdom who claim incapacity benefit will begin to receive letters asking them to attend a work capability assessment. The tests are part of government plans to reduce the number of long-term claimants and will take until 2014 to complete. ](/news/2011/04/4/as-part-of-the-british-government-s-package-of-welfare-reforms-from-today-the-one-and-a-half-million-people-in-the-united-kingdom-who-claim.md)

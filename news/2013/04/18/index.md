@@ -15,13 +15,13 @@ At least 27 people, including two children, have been killed and scores hurt in 
 ### [Prominent Hillsborough disaster justice campaigner Anne Williams dies from cancer, having made her last public appearance at Anfield's recent 24th anniversary memorial. ](/news/2013/04/18/prominent-hillsborough-disaster-justice-campaigner-anne-williams-dies-from-cancer-having-made-her-last-public-appearance-at-anfield-s-recen.md)
 Tributes were paid today to one the leading lights in the family campaign to bring truth and justice for the victims and survivors of the Hillsborough disaster.
 
-##### United States
+##### American
 ### [The United States reclaims its spot as the top export market for Japan as China slips due to economic slowdown. Japan's overall annual trade deficit meanwhile reaches 8.2 trillion yen, the highest on record. ](/news/2013/04/18/the-united-states-reclaims-its-spot-as-the-top-export-market-for-japan-as-china-slips-due-to-economic-slowdown-japan-s-overall-annual-trade.md)
-_Context: top export market, United States, China, Japan, trade surplus, yen_
+_Context: China, yen, top export market, trade surplus, American, Japan_
 
 ##### Trade Minister
 ### [Australian Trade Minister Craig Emerson says free trade talks between Australia and China are deadlocked over differences of opinion on the removal of investment limits for state-owned enterprises. ](/news/2013/04/18/australian-trade-minister-craig-emerson-says-free-trade-talks-between-australia-and-china-are-deadlocked-over-differences-of-opinion-on-the.md)
-_Context: Trade Minister, Craig Emerson, state-owned enterprises, free trade talks, China, Australia_
+_Context: Trade Minister, China, state-owned enterprises, Craig Emerson, free trade talks, Australia_
 
 ##### YouTube
 ### [YouTube successfully defends itself in a billion dollar copyright infringement suit by Viacom. ](/news/2013/04/18/youtube-successfully-defends-itself-in-a-billion-dollar-copyright-infringement-suit-by-viacom.md)
@@ -49,7 +49,7 @@ About 30 migrant workers are injured in a shooting on a strawberry farm in Greec
 
 ##### Earth-like
 ### [Two Earth-like planets, Kepler-62e and Kepler-62f, are discovered cirulating around the star Kepler-62 in the habitable zone. ](/news/2013/04/18/two-earth-like-planets-kepler-62e-and-kepler-62f-are-discovered-cirulating-around-the-star-kepler-62-in-the-habitable-zone.md)
-_Context: Kepler-62e, Kepler-62, star, Kepler-62f, habitable zone, Earth-like_
+_Context: Kepler-62f, habitable zone, star, Kepler-62, Earth-like, Kepler-62e_
 
 ## [Previous Day...](/news/2013/04/17/index.md)
 

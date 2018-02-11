@@ -29,7 +29,7 @@ The execution of the Twinkies brand hasn&#39;t been called off, but it has been 
 
 ##### Indianapolis
 ### [Indianapolis and Indiana state homeland security and police authorities now say that the $4.4 million explosion in Richmond Hill neighborhood may not be due to gas or a faulty furnace, but may somehow have been an intentional criminal homicide; they are seeking a white van that was seen in that subdivision the day of the blast with a $10,000 reward. ](/news/2012/11/19/indianapolis-and-indiana-state-homeland-security-and-police-authorities-now-say-that-the-4-4-million-explosion-in-richmond-hill-neighborhoo.md)
-_Context: Indianapolis, Indiana_
+_Context: Indiana, Indianapolis_
 
 ##### The battle
 ### [The battle to succeed Nicolas Sarkozy as leader of the centre-right UMP party takes a farcical turn with both Franois Fillon and rival Jean-Franois Cop claiming the crown. ](/news/2012/11/19/the-battle-to-succeed-nicolas-sarkozy-as-leader-of-the-centre-right-ump-party-takes-a-farcical-turn-with-both-francois-fillon-and-rival-jean.md)

@@ -17,15 +17,15 @@ Jerusalem schools to close at noon ahead of expected flurries.
 
 ##### Several world powers
 ### [Members of the P5+1 powers meet with representatives of Iran in Geneva to discuss Iran's nuclear program. ](/news/2015/02/19/members-of-the-p5-1-powers-meet-with-representatives-of-iran-in-geneva-to-discuss-iran-s-nuclear-program.md)
-_Context: Iran, Geneva, several world powers, nuclear program_
+_Context: Geneva, nuclear program, Iran, several world powers_
 
 ##### Qatar
 ### [Qatar withdraws its ambassador from Egypt following disagreement over Egyptian Air Force strikes against Islamic State targets in Libya after the execution of 21 Coptic Christian hostages by Islamic State. ](/news/2015/02/19/qatar-withdraws-its-ambassador-from-egypt-following-disagreement-over-egyptian-air-force-strikes-against-islamic-state-targets-in-libya-afte.md)
-_Context: Qatar, execution of 21 Coptic Christian, Egyptian Air Force, Egypt, Islamic State in Iraq and the Levant, Libya_
+_Context: Egyptian Air Force, Islamic State in Iraq and the Levant, Egypt, Qatar, execution of 21 Coptic Christian, Libya_
 
 ##### Ronald Reagan UCLA Medical Center
 ### [2 people are dead and 7 others infected at the Ronald Reagan UCLA Medical Center, in Los Angeles County, California, after contracting a super-resistant bacterial infection of Carbapenem-resistant Enterobacteriaceae (CRE). 179 other people may have been exposed to the bacteria as well. ](/news/2015/02/19/2-people-are-dead-and-7-others-infected-at-the-ronald-reagan-ucla-medical-center-in-los-angeles-county-california-after-contracting-a-sup.md)
-_Context: Carbapenem-resistant Enterobacteriaceae, Ronald Reagan UCLA Medical Center, Los Angeles County, California_
+_Context: Los Angeles County, California, Ronald Reagan UCLA Medical Center, Carbapenem-resistant Enterobacteriaceae_
 
 ##### Prime Minister
 ### [Former Prime Minister of Thailand Yingluck Shinawatra will be indicted over a controversial rice subsidy scheme. ](/news/2015/02/19/former-prime-minister-of-thailand-yingluck-shinawatra-will-be-indicted-over-a-controversial-rice-subsidy-scheme.md)

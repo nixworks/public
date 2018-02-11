@@ -9,7 +9,7 @@ Suspected militants from the Nigerian Islamist group Boko Haram killed 26 people
 
 ##### Yemeni Crisis (2011-present)
 ### [The Yemeni government in exile announces that it has reached a truce with the Houthi rebels. ](/news/2015/07/8/the-yemeni-government-in-exile-announces-that-it-has-reached-a-truce-with-the-houthi-rebels.md)
-_Context: Yemeni Crisis (2011-present), Yemen, Houthi, truce_
+_Context: Yemeni Crisis (2011-present), Houthi, Yemen, truce_
 
 ##### Ghardaia
 ### [At least 22 people are killed in clashes between Arab and Berber communities in Ghardaia, Algeria. ](/news/2015/07/8/at-least-22-people-are-killed-in-clashes-between-arab-and-berber-communities-in-ghardaia-algeria.md)
@@ -49,7 +49,7 @@ Russia vetoed a United Nations Security Council resolution on Wednesday that wou
 
 ##### Canadian
 ### [Tens of thousands of people are being evacuated from western Canada as firefighters continue to battle wildfires in Saskatchewan, Alberta and British Columbia. ](/news/2015/07/8/tens-of-thousands-of-people-are-being-evacuated-from-western-canada-as-firefighters-continue-to-battle-wildfires-in-saskatchewan-alberta-an.md)
-_Context: Alberta, British Columbia, wildfire, Canadian, Saskatchewan_
+_Context: Saskatchewan, Canadian, wildfire, British Columbia, Alberta_
 
 ##### 1Malaysia Development Berhad scandal
 ### [Malaysian police raid the offices of government owned by 1Malaysia Development Berhad in relation to a corruption scandal. ](/news/2015/07/8/malaysian-police-raid-the-offices-of-government-owned-by-1malaysia-development-berhad-in-relation-to-a-corruption-scandal.md)

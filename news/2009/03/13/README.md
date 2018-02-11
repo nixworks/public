@@ -3,29 +3,29 @@ Formats: [HTML](2009/03/13/index.html)  [JSON](2009/03/13/index.json)  [XML](200
 
 ## [2009-03-13](/news/2009/03/13/index.md)
 
-##### United States
+##### American
 ### [ The United States abandons the term "enemy combatant" for detainees at Guantanamo Bay Naval Base's detention camp. ](/news/2009/03/13/the-united-states-abandons-the-term-enemy-combatant-for-detainees-at-guanta-namo-bay-naval-base-s-detention-camp.md)
-_Context: detainees, Guantanamo Bay, detainee, United States, enemy combatant, military base at Guantanamo Bay_
+_Context: Guantanamo Bay, detainee, military base at Guantanamo Bay, detainees, enemy combatant, American_
 
 ##### Italy
 ### [ Italy's Ministry of Foreign Affairs reports that three Doctors Without Borders volunteers kidnapped in Darfur, Sudan, have been freed. ](/news/2009/03/13/italy-s-ministry-of-foreign-affairs-reports-that-three-doctors-without-borders-volunteers-kidnapped-in-darfur-sudan-have-been-freed.md)
-_Context: Darfur, Italy, volunteer, conflict, Ministry of Foreign Affairs, Sudan, Medecins Sans Frontieres_
+_Context: Italy, Ministry of Foreign Affairs, Darfur, Sudan, conflict, volunteer, Medecins Sans Frontieres_
 
 ##### United Nations
 ### [ United Nations High Commissioner for Human Rights Navanethem Pillay accuses Sri Lanka's Armed Forces and the Tamil Tigers of possible war crimes. ](/news/2009/03/13/united-nations-high-commissioner-for-human-rights-navanethem-pillay-accuses-sri-lanka-s-armed-forces-and-the-tamil-tigers-of-possible-war-c.md)
-_Context: United Nations, Navanethem Pillay, Sri Lanka, OCHR, Sri Lankan Civil War, LTTE, armed forces, war crime_
+_Context: OCHR, war crime, armed forces, United Nations, Sri Lankan Civil War, LTTE, Sri Lanka, Navanethem Pillay_
 
 ##### Pakistani police
 ### [ Police are mobilized in Pakistan as thousands of protestors march toward Islamabad. ](/news/2009/03/13/police-are-mobilized-in-pakistan-as-thousands-of-protestors-march-toward-islamabad.md)
 Police in Pakistan have blocked highways and banned political gatherings in three provinces as thousands of protesters attempt to march to the capital, Islamabad.
 
-##### United States
+##### American
 ### [ An American demonstrator from the International Solidarity Movement is critically wounded by Israel's Defense Forces at the West Bank barrier. ](/news/2009/03/13/an-american-demonstrator-from-the-international-solidarity-movement-is-critically-wounded-by-israel-s-defense-forces-at-the-west-bank-barri.md)
-_Context: West Bank, United States, demonstration, International Solidarity Movement, barrier, Israel, Israel Defense Forces_
+_Context: Israeli Army, International Solidarity Movement, barrier, demonstration, West Bank, Israel, American_
 
 ##### Japan
 ### [ Japan announces it will intercept North Korea's upcoming satellite launch if the boosters threaten its territory. ](/news/2009/03/13/japan-announces-it-will-intercept-north-korea-s-upcoming-satellite-launch-if-the-boosters-threaten-its-territory.md)
-_Context: boosters, North Korea, Japan, satellite_
+_Context: satellite, Japan, North Korea, boosters_
 
 ##### Premier
 ### [ Premier Wen Jiabao says China may introduce a new stimulus package if the current financial crisis intensifies and expresses concern for U.S. Treasury Department securities. ](/news/2009/03/13/premier-wen-jiabao-says-china-may-introduce-a-new-stimulus-package-if-the-current-financial-crisis-intensifies-and-expresses-concern-for-u.md)
@@ -41,7 +41,7 @@ A house in Blackrock has been completely destroyed by an explosion this afternoo
 
 ##### Fire
 ### [ A fire at Bashundhara City in Dhaka, Bangladesh, kills seven people and injures at least 30 others. ](/news/2009/03/13/a-fire-at-bashundhara-city-in-dhaka-bangladesh-kills-seven-people-and-injures-at-least-30-others.md)
-_Context: Bashundhara City, fire, Bangladesh, Dhaka_
+_Context: Dhaka, fire, Bangladesh, Bashundhara City_
 
 ## [Previous Day...](/news/2009/03/12/index.md)
 

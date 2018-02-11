@@ -5,7 +5,7 @@ Formats: [HTML](2015/12/22/index.html)  [JSON](2015/12/22/index.json)  [XML](201
 
 ##### Battle of Ramadi
 ### [The Iraqi Army advances into the center of Ramadi, the latest development in the effort, which began in November, to regain the city from the Islamic State of Iraq and the Levant. ](/news/2015/12/22/the-iraqi-army-advances-into-the-center-of-ramadi-the-latest-development-in-the-effort-which-began-in-november-to-regain-the-city-from-th.md)
-_Context: Battle of Ramadi, ISIL, Iraqi Army, Ramadi_
+_Context: Battle of Ramadi, Ramadi, ISIL, Iraqi Army_
 
 ##### Islamist insurgency in Nigeria
 ### [More than 1 million children have been forced out of school as a result of Boko Haram terrorism in northeastern Nigeria and its neighboring countries, which leaves the children more susceptible to violence, poverty and child marriage, Manuel Fontaine, UNICEF's West and Central Africa regional director, said in a statement. ](/news/2015/12/22/more-than-1-million-children-have-been-forced-out-of-school-as-a-result-of-boko-haram-terrorism-in-northeastern-nigeria-and-its-neighboring.md)
@@ -25,11 +25,11 @@ An aircraft crashed into a wall and burst into flames in Dwarka area, on the out
 
 ##### Line
 ### [At least 30 people are injured from an explosion at a gas pipeline near Villahermosa, Mexico. ](/news/2015/12/22/at-least-30-people-are-injured-from-an-explosion-at-a-gas-pipeline-near-villahermosa-mexico.md)
-_Context: Villahermosa, Mexican, line_
+_Context: line, Mexican, Villahermosa_
 
 ##### European migrant crisis
 ### [Turkey's state-run Anadolu Agency reports 11 migrants, including three children, drowned, and the Turkish coast guard rescued seven Syrians from a capsized boat headed to the Greek island of Samos. ](/news/2015/12/22/turkey-s-state-run-anadolu-agency-reports-11-migrants-including-three-children-drowned-and-the-turkish-coast-guard-rescued-seven-syrians.md)
-_Context: Turkey, Turkish Coast Guard, European migrant crisis, Syrian, Anadolu Agency, Samos, migrants, Greece_
+_Context: European migrant crisis, Syrian, Turkey, Greece, Anadolu Agency, migrants, Samos, Turkish Coast Guard_
 
 ##### Philippines
 ### [The Philippines becomes the first country in Asia, and second in the world (after Mexico), to approve use of the dengue vaccine. ](/news/2015/12/22/the-philippines-becomes-the-first-country-in-asia-and-second-in-the-world-after-mexico-to-approve-use-of-the-dengue-vaccine.md)
@@ -37,15 +37,15 @@ Dengvaxia, manufactured by French pharmaceutical giant Sanofi, is also being rev
 
 ##### India
 ### [According to industry sources, the Indian health ministry is considering Sanofi Pasteur's dengue fever vaccine for large-scale clinical trial exemption which would accelerate approval for marketing. India reported a record number of dengue fever cases this year. ](/news/2015/12/22/according-to-industry-sources-the-indian-health-ministry-is-considering-sanofi-pasteur-s-dengue-fever-vaccine-for-large-scale-clinical-tria.md)
-_Context: India, India's health ministry, clinical trial, dengue fever vaccine, Sanofi Pasteur_
+_Context: Sanofi Pasteur, India, India's health ministry, dengue fever vaccine, clinical trial_
 
 ##### Colombian President
 ### [Colombian President Juan Manuel Santos signs a decree fully legalizing medical marijuana. Growers must apply to the National Narcotics Council for a license. Earlier, Colombia decriminalized personal possession of up to 20 grams. ](/news/2015/12/22/colombian-president-juan-manuel-santos-signs-a-decree-fully-legalizing-medical-marijuana-growers-must-apply-to-the-national-narcotics-counc.md)
-_Context: Colombian President, Legality of cannabis, Colombia, personal possession, Juan Manuel Santos, medical marijuana_
+_Context: Colombian President, personal possession, Juan Manuel Santos, Colombia, Legality of cannabis, medical marijuana_
 
 ##### Philippine presidential election, 2016
 ### [The Philippine Commission on Elections disqualifies presidential frontrunner Grace Poe, who is a rival of Mar Roxas, the candidate favored by President Benigno Aquino III. The move is widely believed to be politically motivated. ](/news/2015/12/22/the-philippine-commission-on-elections-disqualifies-presidential-frontrunner-grace-poe-who-is-a-rival-of-mar-roxas-the-candidate-favored-b.md)
-_Context: politically motivated, Grace Poe, his predecessor, Philippine presidential election, 2016, Mar Roxas, Philippines, Commission on Elections_
+_Context: Philippine presidential election, 2016, Commission on Elections, Philippines, Grace Poe, politically motivated, his predecessor, Mar Roxas_
 
 ##### Central African constitutional referendum, 2015
 ### [Central African Republic's National Election Authority announces voters approved (93%) the new constitution in the December 13 referendum. Amid sporatic violence, 39 percent of registered citizens voted in the two-day poll. The first round of the presidential elections and Parliamentary elections now can be held on December 27, 2015. Acting President Catherine Samba-Panza and current members of the legislature cannot participate. ](/news/2015/12/22/central-african-republic-s-national-election-authority-announces-voters-approved-93-the-new-constitution-in-the-december-13-referendum-a.md)
@@ -61,7 +61,7 @@ The elections could take place on January 10th, 2016, according to sources close
 
 ##### Nicolas Cage
 ### [American actor Nicolas Cage agrees to return to Mongolia a stolen dinosaur skull he bought in 2007 for $276,000. Cage says he was unaware the skull had entered the country illegally. ](/news/2015/12/22/american-actor-nicolas-cage-agrees-to-return-to-mongolia-a-stolen-dinosaur-skull-he-bought-in-2007-for-276-000-cage-says-he-was-unaware-th.md)
-_Context: Nicolas Cage, Mongolia_
+_Context: Mongolia, Nicolas Cage_
 
 ##### Falcon 9 Flight 20
 ### [American aerospace manufacturer and space transport services company SpaceX makes history by sending the first orbital rocket into space and landing the first stage back on the ground at Cape Canaveral Air Force Station. ](/news/2015/12/22/american-aerospace-manufacturer-and-space-transport-services-company-spacex-makes-history-by-sending-the-first-orbital-rocket-into-space-and.md)

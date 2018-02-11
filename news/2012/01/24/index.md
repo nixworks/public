@@ -9,11 +9,11 @@ Syrian security forces killed 52 people across the country on Tuesday as troops 
 
 ##### 2011 Egyptian revolution
 ### [2011-2012 Egyptian revolution: Chairman of the Supreme Council of the Armed Forces, Field Marshal Mohamed Hussein Tantawi, lifts Egypt's state of emergency a day before the anniversary of the revolution. ](/news/2012/01/24/2011a2012-egyptian-revolution-chairman-of-the-supreme-council-of-the-armed-forces-field-marshal-mohamed-hussein-tantawi-lifts-egypt-s-s.md)
-_Context: 2011 Egyptian revolution, Mohamed Hussein Tantawi, Field Marshal, Egypt, state of emergency, governing body_
+_Context: Egypt, Mohamed Hussein Tantawi, governing body, 2011 Egyptian revolution, state of emergency, Field Marshal_
 
 ##### Libya
 ### [In Libya, the town of Bani Walid, a former stronghold of Muammar Gaddafi, revolts against the National Transitional Council government. ](/news/2012/01/24/in-libya-the-town-of-bani-walid-a-former-stronghold-of-muammar-gaddafi-revolts-against-the-national-transitional-council-government.md)
-_Context: Bani Walid, Muammar Gaddafi, revolts, Libya, National Transitional Council_
+_Context: Muammar Gaddafi, Bani Walid, National Transitional Council, revolts, Libya_
 
 ##### 2012 Academy Awards
 ### [Nominations for the 2012 Academy Awards are announced ](/news/2012/01/24/nominations-for-the-2012-academy-awards-are-announced.md)
@@ -21,7 +21,7 @@ Martin Scorsese&#039;s adventure film Hugo leads the Academy Awards with 11 nomi
 
 ##### Andrew Miller
 ### [Andrew Miller's novel "Pure" wins the 2011 Costa Book of the Year Award. ](/news/2012/01/24/andrew-miller-s-novel-pure-wins-the-2011-costa-book-of-the-year-award.md)
-_Context: Andrew Miller, 2011 Costa Book of the Year Award, Pure_
+_Context: 2011 Costa Book of the Year Award, Pure, Andrew Miller_
 
 ##### Apple Inc.
 ### [Apple Inc. announces that the technology generated over $127 billion in revenue during 2011. Apple sold over 37 million iPhones and over 15 million iPads during the fourth quarter of 2011. ](/news/2012/01/24/apple-inc-announces-that-the-technology-generated-over-127-billion-in-revenue-during-2011-apple-sold-over-37-million-iphones-and-over-15.md)
@@ -37,7 +37,7 @@ _Context: Baltasar Garzon, Spain, Franco, Augusto Pinochet_
 
 ##### U.S. President
 ### [United States President Barack Obama presents his 2012 State of the Union Address to the United States Congress. ](/news/2012/01/24/united-states-president-barack-obama-presents-his-2012-state-of-the-union-address-to-the-united-states-congress.md)
-_Context: Barack Obama, lawmakers, 2012 State of the Union Address, U.S. President_
+_Context: Barack Obama, 2012 State of the Union Address, U.S. President, lawmakers_
 
 ## [Previous Day...](/news/2012/01/23/index.md)
 

@@ -11,7 +11,7 @@ Two days before he resigned as defense secretary, Donald H. Rumsfeld submitted a
 
 ##### Iraqi insurgency
 ### [ Iraqi insurgency: At least 50 people are killed by three car bombs exploding in Baghdad. ](/news/2006/12/2/iraqi-insurgency-at-least-50-people-are-killed-by-three-car-bombs-exploding-in-baghdad.md)
-_Context: Iraqi insurgency, Baghdad_
+_Context: Baghdad, Iraqi insurgency_
 
 ##### Bahrain
 ### [ Bahrainis go to the polls today in the second round of voting in the Kingdom's parliamentary elections. ](/news/2006/12/2/bahrainis-go-to-the-polls-today-in-the-second-round-of-voting-in-the-kingdom-s-parliamentary-elections.md)
@@ -27,7 +27,7 @@ News and opinion from The Times &amp; The Sunday Times
 
 ##### War in Chad (2005-present)
 ### [ War in Chad (2005-present)-Darfur conflict: Chadian rebels have attacked the eastern town of Guereda, neighbouring Sudan's war-torn Darfur region. ](/news/2006/12/2/war-in-chad-2005apresent-darfur-conflict-chadian-rebels-have-attacked-the-eastern-town-of-gua-c-ra-c-da-neighbouring-sudan-s-war-torn-dar.md)
-_Context: Guereda, Chad, Darfur conflict, Darfur, War in Chad (2005-present), Sudan_
+_Context: Guereda, Darfur, Chad, Sudan, Darfur conflict, War in Chad (2005-present)_
 
 ##### Malakal
 ### [ Police and aid workers recover more than 100 bodies from Malakal in south Sudan resulting from fighting between former rebels and Government forces. ](/news/2006/12/2/police-and-aid-workers-recover-more-than-100-bodies-from-malakal-in-south-sudan-resulting-from-fighting-between-former-rebels-and-governmen.md)
@@ -47,7 +47,7 @@ _Context: Michael Ignatieff, Stephane Dion, Liberal Party's_
 
 ##### Ed Stelmach
 ### [ Ed Stelmach is elected leader of the Progressive Conservative Association of Alberta and will become the next premier of Alberta, replacing outgoing leader Ralph Klein and defeating competitors Jim Dinning and Ted Morton. ](/news/2006/12/2/ed-stelmach-is-elected-leader-of-the-progressive-conservative-association-of-alberta-and-will-become-the-next-premier-of-alberta-replacing.md)
-_Context: Progressive Conservative Party, Alberta, Ed Stelmach, Ted Morton, Ralph Klein, Jim Dinning, premier_
+_Context: Alberta, Ed Stelmach, Ted Morton, premier, Progressive Conservative Party, Ralph Klein, Jim Dinning_
 
 ## [Previous Day...](/news/2006/12/1/index.md)
 

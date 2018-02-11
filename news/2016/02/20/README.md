@@ -9,7 +9,7 @@ Heavy clashes in the eastern Libyan city of Benghazi have left at least 14 peopl
 
 ##### Yemeni Civil War (2015-present)
 ### [Al-Qaeda militants take control of the southern Yemeni town of Ahwar in the Abyan Governorate. ](/news/2016/02/20/al-qaeda-militants-take-control-of-the-southern-yemeni-town-of-ahwar-in-the-abyan-governorate.md)
-_Context: Ahwar, Yemeni Civil War (2015-present), Yemen, Abyan Governorate, al-Qaida_
+_Context: al-Qaida, Ahwar, Yemeni Civil War (2015-present), Abyan Governorate, Yemen_
 
 ##### War in Afghanistan (2015-present)
 ### [A United States Air Force operated MQ-9 Reaper drone crashes at the Kandahar Airfield in southern Afghanistan. ](/news/2016/02/20/a-united-states-air-force-operated-mq-9-reaper-drone-crashes-at-the-kandahar-airfield-in-southern-afghanistan.md)
@@ -49,11 +49,11 @@ Hillary Clinton won the Nevada Democratic caucuses on Saturday, beating Bernie S
 
 ##### China's State Council
 ### [China's State Council announces that Liu Shiyu, who had been chairman of the Agricultural Bank of China Limited, will replace Xiao Gang as head of the China's Securities Regulatory Commission. ](/news/2016/02/20/china-s-state-council-announces-that-liu-shiyu-who-had-been-chairman-of-the-agricultural-bank-of-china-limited-will-replace-xiao-gang-as-h.md)
-_Context: Xiao Gang, China's State Council, Agricultural Bank of China, Liu Shiyu, China's Securities Regulatory Commission_
+_Context: China's State Council, Agricultural Bank of China, Xiao Gang, China's Securities Regulatory Commission, Liu Shiyu_
 
 ##### Ugandan general election, 2016
 ### [The President of Uganda Yoweri Museveni is declared the winner of the Presidential election with 60% of the vote. European Union observers state that the election was held in an "intimidating atmosphere". ](/news/2016/02/20/the-president-of-uganda-yoweri-museveni-is-declared-the-winner-of-the-presidential-election-with-60-of-the-vote-european-union-observers-s.md)
-_Context: Yoweri Museveni, Ugandan general election, 2016, European Union, President_
+_Context: Yoweri Museveni, European Union, Ugandan general election, 2016, President_
 
 ## [Previous Day...](/news/2016/02/19/index.md)
 

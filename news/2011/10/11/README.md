@@ -5,11 +5,11 @@ Formats: [HTML](2011/10/11/index.html)  [JSON](2011/10/11/index.json)  [XML](201
 
 ##### China
 ### [China follows Russian admonishment of the Syrian government while the opposition Syrian National Council gains support in Egypt and is recognized by Libya. ](/news/2011/10/11/china-follows-russian-admonishment-of-the-syrian-government-while-the-opposition-syrian-national-council-gains-support-in-egypt-and-is-recog.md)
-_Context: China, Libya, Egypt, Russia, Syrian, Syrian National Council_
+_Context: Russia, Syrian, China, Egypt, Libya, Syrian National Council_
 
 ##### European Union
 ### [The EU imposes further sanctions on Belarus, Iran, and Syria, expresses support for Libya's National Transitional Council, and reiterates call for Syria's President Bashar al-Assad to step down. ](/news/2011/10/11/the-eu-imposes-further-sanctions-on-belarus-iran-and-syria-expresses-support-for-libya-s-national-transitional-council-and-reiterates-ca.md)
-_Context: Libya, European Union, Belarus, President, Bashar al-Assad, Syria, Iran, National Transitional Council_
+_Context: Bashar al-Assad, National Transitional Council, Belarus, Libya, Syria, President, European Union, Iran_
 
 ##### Senator
 ### [The Senate of the United States passes the Currency Exchange Rate Oversight Reform Act of 2011 designed to press the People's Republic of China to raise the value of the Renminbi. ](/news/2011/10/11/the-senate-of-the-united-states-passes-the-currency-exchange-rate-oversight-reform-act-of-2011-designed-to-press-the-people-s-republic-of-ch.md)
@@ -21,7 +21,7 @@ _Context: Parliament of Slovakia, eurozone_
 
 ##### Jaguar Financial Corp.
 ### [Jaguar Financial Corp. claims that it has the support of 8% of the shareholders of Research in Motion in its campaign for corporate-governance changes at the Canada-based manufacturer of the BlackBerry. ](/news/2011/10/11/jaguar-financial-corp-claims-that-it-has-the-support-of-8-of-the-shareholders-of-research-in-motion-in-its-campaign-for-corporate-governan.md)
-_Context: BlackBerry, Research in Motion, Jaguar Financial Corp._
+_Context: Jaguar Financial Corp., Research in Motion, BlackBerry_
 
 ##### Hurricane Jova
 ### [Hurricane Jova crosses the western coast of Mexico northwest of the port of Manzanillo, Colima, at Category 2 strength. ](/news/2011/10/11/hurricane-jova-crosses-the-western-coast-of-mexico-northwest-of-the-port-of-manzanillo-colima-at-category-2-strength.md)
@@ -29,11 +29,11 @@ Hurricane Jova came ashore near Mexico’s Pacific resort of Manzanillo today, l
 
 ##### Oil spill
 ### [An oil spill from the ship Rena off the coast of Tauranga in New Zealand becomes the country's worst environmental disaster. ](/news/2011/10/11/an-oil-spill-from-the-ship-rena-off-the-coast-of-tauranga-in-new-zealand-becomes-the-country-s-worst-environmental-disaster.md)
-_Context: New Zealand, environmental disaster, Tauranga, oil spill_
+_Context: New Zealand, oil spill, Tauranga, environmental disaster_
 
 ##### Israel
 ### [The Cabinet of Israel approves a prisoner swap deal with Hamas for the release of the Israeli Army soldier Gilad Shalit, who had been held in captivity for five years. In exchange, Israel agrees to release a thousand Palestinian prisoners held in Israel, among them hundreds of prisoners serving multiple life sentences for planning and perpetrating murderous attacks against Israeli civilians.](/news/2011/10/11/the-cabinet-of-israel-approves-a-prisoner-swap-deal-with-hamas-for-the-release-of-the-israeli-army-soldier-gilad-shalit-who-had-been-held-i.md)
-_Context: life in prison, Israeli Army, Hamas, Gilad Shalit, Israel_
+_Context: life in prison, Hamas, Israeli Army, Israel, Gilad Shalit_
 
 ##### Yulia Tymoshenko
 ### [Yulia Tymoshenko, the former Prime Minister of Ukraine, is jailed for seven years for exceeding her powers by entering a gas deal with Russia. ](/news/2011/10/11/yulia-tymoshenko-the-former-prime-minister-of-ukraine-is-jailed-for-seven-years-for-exceeding-her-powers-by-entering-a-gas-deal-with-russi.md)
@@ -49,19 +49,19 @@ The US says it has broken up a plot by agents linked to Iran to assassinate the 
 
 ##### Liberia
 ### [Voters in Liberia go to the polls for a general election with current President and recent Nobel Peace Prize laureate Ellen Johnson-Sirleaf facing a tight race. ](/news/2011/10/11/voters-in-liberia-go-to-the-polls-for-a-general-election-with-current-president-and-recent-nobel-peace-prize-laureate-ellen-johnson-sirleaf.md)
-_Context: Liberia, President of Liberia, Liberian presidential election, Ellen Johnson-Sirleaf, Nobel Peace Prize_
+_Context: Ellen Johnson-Sirleaf, Nobel Peace Prize, Liberian presidential election, President of Liberia, Liberia_
 
 ##### Myanmar
 ### [Myanmar's tightly controlled state newspapers call for a political amnesty indicating that reforms may soon be announced by President Thein Sein with the National Human Rights Commission recommending the pardon of some 6000 plus "prisoners of conscience". ](/news/2011/10/11/myanmar-s-tightly-controlled-state-newspapers-call-for-a-political-amnesty-indicating-that-reforms-may-soon-be-announced-by-president-thein.md)
-_Context: Myanmar, amnesty, Thein Sein, President of Burma, National Human Rights Commission_
+_Context: amnesty, President of Burma, National Human Rights Commission, Thein Sein, Myanmar_
 
 ##### Canadian
 ### [Voters in the Canadian province of Newfoundland and Labrador go to the polls for general election with the Progressive Conservative Party winning its third straight majority and its leader Kathy Dunderdale becoming the first woman elected as Premier of the province. ](/news/2011/10/11/voters-in-the-canadian-province-of-newfoundland-and-labrador-go-to-the-polls-for-general-election-with-the-progressive-conservative-party-wi.md)
-_Context: Progressive Conservative Party, Canadian, Newfoundland and Labrador, Kathy Dunderdale, general election, Premier of the province_
+_Context: Premier of the province, general election, Canadian, Kathy Dunderdale, Newfoundland and Labrador, Progressive Conservative Party_
 
 ##### Yukon
 ### [In the Yukon Territory voters re-elect the Yukon Party under Premier Darrell Pasloski, with an NDP official opposition. ](/news/2011/10/11/in-the-yukon-territory-voters-re-elect-the-yukon-party-under-premier-darrell-pasloski-with-an-ndp-official-opposition.md)
-_Context: Darrell Pasloski, Yukon, re-elect, NDP, Yukon Party_
+_Context: re-elect, Yukon Party, Darrell Pasloski, Yukon, NDP_
 
 ##### U.S. President
 ### [President of the United States Barack Obama's "jobs bill" stalls in the Senate. ](/news/2011/10/11/president-of-the-united-states-barack-obama-s-jobs-bill-stalls-in-the-senate.md)

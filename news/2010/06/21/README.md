@@ -5,7 +5,7 @@ Formats: [HTML](2010/06/21/index.html)  [JSON](2010/06/21/index.json)  [XML](201
 
 ##### Mara
 ### [Mara gang members in El Salvador attack a bus on the outskirts of San Salvador, shooting at it before dousing it with gasoline and lighting it on fire, killing 14 and injuring 16. Gang members open fire on another bus shortly afterward, killing another 2 people. ](/news/2010/06/21/mara-gang-members-in-el-salvador-attack-a-bus-on-the-outskirts-of-san-salvador-shooting-at-it-before-dousing-it-with-gasoline-and-lighting.md)
-_Context: El Salvador, Mara, San Salvador_
+_Context: Mara, San Salvador, El Salvador_
 
 ##### Iraq
 ### [Iraq's electricity minister Karim Waheed offers his resignation on live television as "Iraqis are not capable of being patient in their suffering". Two people are shot dead by armed forces while protesting over lack of electricity generation blamed by Waheed on lack of funding. ](/news/2010/06/21/iraq-s-electricity-minister-karim-waheed-offers-his-resignation-on-live-television-as-iraqis-are-not-capable-of-being-patient-in-their-suff.md)
@@ -33,15 +33,15 @@ _Context: Colombian presidential election, Juan Manuel Santos_
 
 ##### Bronislaw Komorowski
 ### [Bronislaw Komorowski and Jaroslaw Kaczynski face each other on 4 July after Sunday's inconclusive vote in Polish presidential election, 2010. ](/news/2010/06/21/bronisaaw-komorowski-and-jarosaaw-kaczyaski-face-each-other-on-4-july-after-sunday-s-inconclusive-vote-in-polish-presidential-election-2.md)
-_Context: Jaroslaw Kaczynski, Polish presidential election, 2010, Bronislaw Komorowski_
+_Context: Polish presidential election, 2010, Bronislaw Komorowski, Jaroslaw Kaczynski_
 
 ##### Weapon of mass destruction
 ### [An American man pleads guilty to charges of attempted use of a weapon of mass destruction in the 2010 Times Square car bombing attempt. ](/news/2010/06/21/an-american-man-pleads-guilty-to-charges-of-attempted-use-of-a-weapon-of-mass-destruction-in-the-2010-times-square-car-bombing-attempt.md)
-_Context: Times Square bomber, weapon of mass destruction_
+_Context: weapon of mass destruction, Times Square bomber_
 
 ##### CASA C-212 Aviocar
 ### [Search teams find the wreckage of a CASA C-212 Aviocar private plane carrying senior Australian mining executives including Ken Talbot in the jungle of the Republic of the Congo. ](/news/2010/06/21/search-teams-find-the-wreckage-of-a-casa-c-212-aviocar-private-plane-carrying-senior-australian-mining-executives-including-ken-talbot-in-th.md)
-_Context: Republic of the Congo, Australia, Ken Talbot, jungle, mine, CASA C-212 Aviocar_
+_Context: Ken Talbot, jungle, CASA C-212 Aviocar, Australia, Republic of the Congo, mine_
 
 ##### Iran
 ### [Iran bans two International Atomic Energy Agency weapons inspectors from entering the country claiming they had leaked false information about Iran's nuclear program. ](/news/2010/06/21/iran-bans-two-international-atomic-energy-agency-weapons-inspectors-from-entering-the-country-claiming-they-had-leaked-false-information-abo.md)
@@ -49,7 +49,7 @@ Read the latest World and International news headlines from Sky News Australia. 
 
 ##### Xi Jinping
 ### [Chinese Vice-President Xi Jinping meets with Australian Prime Minister Kevin Rudd on an official trip to Canberra. The two countries sign agreements valued at over A$10 billion. ](/news/2010/06/21/chinese-vice-president-xi-jinping-meets-with-australian-prime-minister-kevin-rudd-on-an-official-trip-to-canberra-the-two-countries-sign-ag.md)
-_Context: Australian Prime Minister, Australia, Xi Jinping, Kevin Rudd, Australian Dollar, Canberra_
+_Context: Australian Dollar, Australia, Australian Prime Minister, Kevin Rudd, Xi Jinping, Canberra_
 
 ##### Shirqat
 ### [8 people die and 10 people are wounded in a suicide attack in the northern city of Shirqat of Iraq. ](/news/2010/06/21/8-people-die-and-10-people-are-wounded-in-a-suicide-attack-in-the-northern-city-of-shirqat-of-iraq.md)
@@ -57,11 +57,11 @@ _Context: Iraq, Shirqat_
 
 ##### The Washington Post
 ### ["The Washington Post" reports that Gizab villagers in Afghanistan overturned their local Taliban movement during April, with some members putting down their weapons and being welcomed back into their local community. The United States did not hear of this before now as it happened in a remote part of the country ignored by the military. ](/news/2010/06/21/the-washington-post-reports-that-gizab-villagers-in-afghanistan-overturned-their-local-taliban-movement-during-april-with-some-members-pu.md)
-_Context: Gizab, The Washington Post, Taliban, United States_
+_Context: The Washington Post, Gizab, Taliban, American_
 
 ##### Australia
 ### [Three Australian soldiers and a United States army soldier are killed in a helicopter crash in Afghanistan with nine NATO casualties overall. ](/news/2010/06/21/three-australian-soldiers-and-a-united-states-army-soldier-are-killed-in-a-helicopter-crash-in-afghanistan-with-nine-nato-casualties-overall.md)
-_Context: soldiers, United States army, Afghanistan, helicopter, NATO, Australia_
+_Context: NATO, soldiers, Australia, Afghanistan, United States army, helicopter_
 
 ##### South Korea
 ### [The northernmost radiation detection station of the South Korean Institute of Nuclear Safety claims to have detected an eightfold increase in the radioactive substance xenon. ](/news/2010/06/21/the-northernmost-radiation-detection-station-of-the-south-korean-institute-of-nuclear-safety-claims-to-have-detected-an-eightfold-increase-i.md)
@@ -97,7 +97,7 @@ A memorial sculpture commemorating the victims of Bloody Sunday has been vandali
 
 ##### North America
 ### [A tour of North America by Simon & Garfunkel is "postponed indefinitely" as Art Garfunkel develops vocal cord paresis; he is expected to recover. ](/news/2010/06/21/a-tour-of-north-america-by-simon-garfunkel-is-postponed-indefinitely-as-art-garfunkel-develops-vocal-cord-paresis-he-is-expected-to-rec.md)
-_Context: North America, Art Garfunkel, vocal cord paresis, Simon & Garfunkel_
+_Context: Simon & Garfunkel, vocal cord paresis, Art Garfunkel, North America_
 
 ##### Hyksos
 ### [Hyksos capital Avaris is believed to have been located via radar imaging by a group of Austrian archaeologists in Tel al-Dabaa. ](/news/2010/06/21/hyksos-capital-avaris-is-believed-to-have-been-located-via-radar-imaging-by-a-group-of-austrian-archaeologists-in-tel-al-dabaa.md)

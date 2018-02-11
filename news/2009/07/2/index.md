@@ -9,11 +9,11 @@ There is extensive flooding in parts of Co Mayo following several hours of torre
 
 ##### Amnesty International
 ### [ A report by Amnesty International states that Israeli military activities and Palestinian militant rocket attacks during the Gaza War were war crimes. ](/news/2009/07/2/a-report-by-amnesty-international-states-that-israeli-military-activities-and-palestinian-militant-rocket-attacks-during-the-gaza-war-were.md)
-_Context: Amnesty International, war crimes, Palestinian, Israel, 2008-2009 Gaza War_
+_Context: Palestinian, Amnesty International, war crimes, Israel, 2008-2009 Gaza War_
 
 ##### United States armed forces
 ### [ The United States armed forces launch Operation Strike of the Sword against the Taliban in Helmand, Afghanistan. ](/news/2009/07/2/the-united-states-armed-forces-launch-operation-strike-of-the-sword-against-the-taliban-in-helmand-afghanistan.md)
-_Context: Afghanistan, Operation Strike of the Sword, United States armed forces, Taliban, Helmand_
+_Context: Operation Strike of the Sword, United States armed forces, Taliban, Afghanistan, Helmand_
 
 ##### Honduras
 ### [ The Honduran interim government defies international pressure to reverse the recent coup, saying there is no chance at all of ousted President Manuel Zelaya returning to office. ](/news/2009/07/2/the-honduran-interim-government-defies-international-pressure-to-reverse-the-recent-coup-saying-there-is-no-chance-at-all-of-ousted-presid.md)
@@ -21,23 +21,23 @@ An interim government set up after a military coup in Honduras said on Thursday 
 
 ##### Section 377
 ### [ A 148-year-old colonial law banning homosexual intercourse in India is overturned by the High Court in New Delhi. ](/news/2009/07/2/a-148-year-old-colonial-law-banning-homosexual-intercourse-in-india-is-overturned-by-the-high-court-in-new-delhi.md)
-_Context: New Delhi, homosexual intercourse in India, Section 377, Delhi High Court_
+_Context: Section 377, New Delhi, homosexual intercourse in India, Delhi High Court_
 
 ##### South Korea
 ### [ The South Korean Defence Ministry says North Korea has fired four missiles off its east coast. ](/news/2009/07/2/the-south-korean-defence-ministry-says-north-korea-has-fired-four-missiles-off-its-east-coast.md)
-_Context: North Korea, Defence Ministry, South Korea_
+_Context: South Korea, Defence Ministry, North Korea_
 
 ##### Japan
 ### [ Japanese diplomat Yukiya Amano is elected Director General of the International Atomic Energy Agency. ](/news/2009/07/2/japanese-diplomat-yukiya-amano-is-elected-director-general-of-the-international-atomic-energy-agency.md)
-_Context: IAEA, Japan, Yukiya Amano_
+_Context: Japan, IAEA, Yukiya Amano_
 
 ##### Vaccine
 ### [ The first vaccine for H1N1 swine flu virus strain has been made by Novartis in Marburg, Germany. ](/news/2009/07/2/the-first-vaccine-for-h1n1-swine-flu-virus-strain-has-been-made-by-novartis-in-marburg-germany.md)
-_Context: swine flu, vaccine, H1N1, Novartis, Marburg, German_
+_Context: Novartis, vaccine, H1N1, swine flu, Marburg, German_
 
 ##### Royal Air Force
 ### [ A Royal Air Force plane crashes in a rural area of Argyll, United Kingdom. ](/news/2009/07/2/a-royal-air-force-plane-crashes-in-a-rural-area-of-argyll-united-kingdom.md)
-_Context: Royal Air Force, Argyll, United Kingdom_
+_Context: Argyll, United Kingdom, Royal Air Force_
 
 ## [Previous Day...](/news/2009/07/1/index.md)
 

@@ -21,7 +21,7 @@ _Context: South Pacific Ocean_
 
 ##### Yokohama
 ### [ Three people are hurt and a gunman takes his own life in a rare shooting incident in Yokohama, Japan. ](/news/2009/11/6/three-people-are-hurt-and-a-gunman-takes-his-own-life-in-a-rare-shooting-incident-in-yokohama-japan.md)
-_Context: Japan, Yokohama_
+_Context: Yokohama, Japan_
 
 ##### A shooting
 ### [ One person is killed and five are injured during a shooting in an office building in Orlando, Florida, USA. ](/news/2009/11/6/one-person-is-killed-and-five-are-injured-during-a-shooting-in-an-office-building-in-orlando-florida-usa.md)
@@ -41,11 +41,11 @@ At each stage, the camps of the ousted president and of the acting president hav
 
 ##### Luanxian
 ### [ 19 people are killed after a truck runs into a crowd in Luanxian, Hebei, China. ](/news/2009/11/6/19-people-are-killed-after-a-truck-runs-into-a-crowd-in-luanxian-hebei-china.md)
-_Context: Hebei, Luanxian, China_
+_Context: China, Luanxian, Hebei_
 
 ##### India
 ### [ Indian and Burmese armed forces target a Nagaland separatist rebel base in the northeast of Burma. ](/news/2009/11/6/indian-and-burmese-armed-forces-target-a-nagaland-separatist-rebel-base-in-the-northeast-of-burma.md)
-_Context: Burma, separatist rebel, Nagaland, India_
+_Context: separatist rebel, Nagaland, Burma, India_
 
 ##### Cte d'Ivoire
 ### [ A court in Cte d'Ivoire orders that compensation due to thousands of people affected by the dumped waste of Trafigura should not be distributed to one man. ](/news/2009/11/6/a-court-in-cote-d-ivoire-orders-that-compensation-due-to-thousands-of-people-affected-by-the-dumped-waste-of-trafigura-should-not-be-distri.md)

@@ -5,31 +5,31 @@ Formats: [HTML](2006/09/25/index.html)  [JSON](2006/09/25/index.json)  [XML](200
 
 ##### Cluster bomb
 ### [ Up to a million cluster bomblets discharged by Israel in its conflict with Hezbollah remain unexploded in southern Lebanon, the UN has said. ](/news/2006/09/25/up-to-a-million-cluster-bomblets-discharged-by-israel-in-its-conflict-with-hezbollah-remain-unexploded-in-southern-lebanon-the-un-has-said.md)
-_Context: UN, southern Lebanon, Hezbollah, cluster bomb, Israel_
+_Context: Israel, Hezbollah, southern Lebanon, cluster bomb, UN_
 
 ##### Iranian President
 ### [ Iranian President Mahmoud Ahmadinejad says that rabbis are more critical of Zionism and the "Zionist regime" than he has been. He expresses hope that "God willing, with the force of God behind it, we shall soon experience a world without the United States and Zionism." ](/news/2006/09/25/iranian-president-mahmoud-ahmadinejad-says-that-rabbis-are-more-critical-of-zionism-and-the-zionist-regime-than-he-has-been-he-expresses.md)
-_Context: Mahmoud Ahmadinejad, United States, Zionist, government, Iranian President_
+_Context: government, Zionist, American, Mahmoud Ahmadinejad, Iranian President_
 
 ##### Condoleezza Rice
 ### [ Condoleezza Rice, the United States Secretary of State, and Barry Lowenkron, the assistant secretary of state for human rights, meet with Kasymzhomart Tokayev, the foreign minister of Kazakhstan. They discussed the War in Afghanistan and Iraq and the Nazarbayev administration's desire to head the Organization for Security and Cooperation in Europe in 2009, which the United States Government opposes. ](/news/2006/09/25/condoleezza-rice-the-united-states-secretary-of-state-and-barry-lowenkron-the-assistant-secretary-of-state-for-human-rights-meet-with-k.md)
-_Context: United States Government, Condoleezza Rice, Nursultan Nazarbayev, Kazakhstan, Kasymzhomart Tokayev, Organization for Security and Cooperation in Europe, War in Afghanistan (2001-present), foreign minister, War in Iraq, United States Secretary of State_
+_Context: Organization for Security and Cooperation in Europe, War in Afghanistan (2001-present), Nursultan Nazarbayev, Kazakhstan, Condoleezza Rice, foreign minister, War in Iraq, United States Government, United States Secretary of State, Kasymzhomart Tokayev_
 
 ##### Insurgents
 ### [ Iraq insurgency: British forces are reported to have killed senior Al-Qaeda operative Omar al-Faruq during a gunfight in Basra, Iraq. ](/news/2006/09/25/iraq-insurgency-british-forces-are-reported-to-have-killed-senior-al-qaeda-operative-omar-al-faruq-during-a-gunfight-in-basra-iraq.md)
-_Context: United Kingdom, al-Qaeda, Omar al-Faruq, insurgents, British military personnel, Basra, Iraq_
+_Context: Iraq, Basra, Omar al-Faruq, British military personnel, insurgents, al-Qaeda, United Kingdom_
 
 ##### Comair Flight 5191
 ### [ The family of the lone survivor in the crash of Comair Flight 5191 says doctors have amputated co-pilot James Polehinke's left leg, and he has no memory of the crash. ](/news/2006/09/25/the-family-of-the-lone-survivor-in-the-crash-of-comair-flight-5191-says-doctors-have-amputated-co-pilot-james-polehinke-s-left-leg-and-he.md)
-_Context: Comair Flight 5191, co-pilot_
+_Context: co-pilot, Comair Flight 5191_
 
 ##### Maria Fyodorovna
 ### [ Remains of Dagmar of Denmark, the mother of the last Tsar of Russia, are transported from the Roskilde Cathedral to Saint Petersburg in order to be reburied in the Peter and Paul Cathedral on 28 September. ](/news/2006/09/25/remains-of-dagmar-of-denmark-the-mother-of-the-last-tsar-of-russia-are-transported-from-the-roskilde-cathedral-to-saint-petersburg-in-ord.md)
-_Context: 28 September, Maria Fyodorovna, Saint Petersburg, Roskilde Cathedral, Nicholas II, Peter and Paul Cathedral_
+_Context: Maria Fyodorovna, Peter and Paul Cathedral, Nicholas II, Roskilde Cathedral, Saint Petersburg, 28 September_
 
 ##### Kismayo
 ### [ After taking over Kismayo, Somali Islamist militants open fire on anti-sharia protesters. Three deaths are being reported. ](/news/2006/09/25/after-taking-over-kismayo-somali-islamist-militants-open-fire-on-anti-sharia-protesters-three-deaths-are-being-reported.md)
-_Context: Kismayo, Somalia, sharia law, Islamists_
+_Context: sharia law, Somalia, Islamists, Kismayo_
 
 ##### Safia Ahmed-jan
 ### [ Two gunmen kill Safia Ahmed-jan, the provincial director of Afghanistan's Ministry of Women's Affairs outside her home in Kandahar. ](/news/2006/09/25/two-gunmen-kill-safia-ahmed-jan-the-provincial-director-of-afghanistan-s-ministry-of-women-s-affairs-outside-her-home-in-kandahar.md)

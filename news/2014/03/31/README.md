@@ -5,7 +5,7 @@ Formats: [HTML](2014/03/31/index.html)  [JSON](2014/03/31/index.json)  [XML](201
 
 ##### North Korea
 ### [North and South Korea exchange artillery fire across sea boundaries. ](/news/2014/03/31/north-and-south-korea-exchange-artillery-fire-across-sea-boundaries.md)
-_Context: North Korea, South Korea_
+_Context: South Korea, North Korea_
 
 ##### Kenya
 ### [Explosions kill at least five people and injure several more in the Kenyan capital, Nairobi. ](/news/2014/03/31/explosions-kill-at-least-five-people-and-injure-several-more-in-the-kenyan-capital-nairobi.md)
@@ -25,15 +25,15 @@ The International Court of Justice rules Japan must immediately stop its whaling
 
 ##### Tuvalu
 ### [Tuvalu withdraws its recognition of Abkhazia and South Ossetia after re-establishing diplomatic relations with Georgia. ](/news/2014/03/31/tuvalu-withdraws-its-recognition-of-abkhazia-and-south-ossetia-after-re-establishing-diplomatic-relations-with-georgia.md)
-_Context: Tuvalu,  Georgian, Abkhazia, South Ossetia, recognition_
+_Context: Tuvalu, South Ossetia,  Georgian, recognition, Abkhazia_
 
 ##### Pakistan
 ### [A Pakistani court charges former President Pervez Musharraf with high treason in relation to the imposition of the emergency rule in 2007. ](/news/2014/03/31/a-pakistani-court-charges-former-president-pervez-musharraf-with-high-treason-in-relation-to-the-imposition-of-the-emergency-rule-in-2007.md)
-_Context: Pervez Musharraf, Pakistan, emergency rule, president, high treason_
+_Context: president, Pervez Musharraf, high treason, Pakistan, emergency rule_
 
 ##### French municipal elections, 2014
 ### [French government and Socialist Party admit major defeat following the The President of France Franois Hollande appoints Manuel Valls, previously Minister of the Interior, as the new Prime Minister. He replaces Jean-Marc Ayrault. ](/news/2014/03/31/french-government-and-socialist-party-admit-major-defeat-following-the-the-president-of-france-francois-hollande-appoints-manuel-valls-prev.md)
-_Context: PS, Minister of the Interior, Jean-Marc Ayrault, French President, Prime Minister, French municipal elections, 2014, Manuel Valls, Franois Hollande_
+_Context: PS, French municipal elections, 2014, Franois Hollande, Minister of the Interior, Jean-Marc Ayrault, French President, Prime Minister, Manuel Valls_
 
 ##### Intergovernmental Panel on Climate Change
 ### [The Intergovernmental Panel on Climate Change releases a new report outlining the impact of climate change on the world at the end of a week of meetings in Yokohama, Japan. ](/news/2014/03/31/the-intergovernmental-panel-on-climate-change-releases-a-new-report-outlining-the-impact-of-climate-change-on-the-world-at-the-end-of-a-week.md)

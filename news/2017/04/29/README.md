@@ -17,7 +17,7 @@ A Cuban military plane has reportedly crashed in the western province of Artemis
 
 ##### April 2017 North American storm complex
 ### [At least 7 people are killed in the US states of Missouri, Arkansas and Texas due to tornadoes and floods. ](/news/2017/04/29/at-least-7-people-are-killed-in-the-us-states-of-missouri-arkansas-and-texas-due-to-tornadoes-and-floods.md)
-_Context: Missouri, Arkansas, April 2017 North American storm complex, Texas_
+_Context: April 2017 North American storm complex, Texas, Missouri, Arkansas_
 
 ##### 2017 block of Wikipedia in Turkey
 ### [Monitoring group Turkey Blocks reports that a provisional administrative order blocks access to all language editions of Wikipedia in Turkey. ](/news/2017/04/29/monitoring-group-turkey-blocks-reports-that-a-provisional-administrative-order-blocks-access-to-all-language-editions-of-wikipedia-in-turkey.md)

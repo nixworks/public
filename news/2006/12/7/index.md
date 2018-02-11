@@ -9,7 +9,7 @@ _Context: Discovery, NASA, STS-116_
 
 ##### George W. Bush
 ### [ George W. Bush, the President of the United States says that Syria and Iran might be included in regional talks on the future of Iraq if they meet certain conditions. ](/news/2006/12/7/george-w-bush-the-president-of-the-united-states-says-that-syria-and-iran-might-be-included-in-regional-talks-on-the-future-of-iraq-if-th.md)
-_Context: U.S. President, Iraq, Syria, George W. Bush, Iran_
+_Context: U.S. President, Syria, Iraq, Iran, George W. Bush_
 
 ##### Hewlett-Packard
 ### [ Hewlett-Packard pays a fine of $14.5 million to settle an investigation by the Attorney General of California related to leaks from its boardroom. ](/news/2006/12/7/hewlett-packard-pays-a-fine-of-14-5-million-to-settle-an-investigation-by-the-attorney-general-of-california-related-to-leaks-from-its-boa.md)
@@ -29,23 +29,23 @@ _Context: South Korea, Kim Hyung-chil, Doha Asian Games_
 
 ##### Nigerian
 ### [ Nigerian gun men attack an Agip oil terminal in the Niger River delta and take three Italians hostage. ](/news/2006/12/7/nigerian-gun-men-attack-an-agip-oil-terminal-in-the-niger-river-delta-and-take-three-italians-hostage.md)
-_Context: Niger River, Agip, Nigerian, Italy_
+_Context: Agip, Nigerian, Italy, Niger River_
 
 ##### Vietnam
 ### [ Nearly 100 people are dead or unaccounted for in Vietnam as a result of Typhoon Durian. It had earlier killed over 550 people in the Philippines and left a similar number missing. ](/news/2006/12/7/nearly-100-people-are-dead-or-unaccounted-for-in-vietnam-as-a-result-of-typhoon-durian-it-had-earlier-killed-over-550-people-in-the-philip.md)
-_Context: Typhoon Durian, Vietnam, Philippines_
+_Context: Typhoon Durian, Philippines, Vietnam_
 
 ##### Bushfire
 ### [ Seven towns are under immediate threat from bushfires in Gippsland in the Australian state of Victoria. ](/news/2006/12/7/seven-towns-are-under-immediate-threat-from-bushfires-in-gippsland-in-the-australian-state-of-victoria.md)
-_Context: Victoria, bushfire, Gippsland, Australia_
+_Context: bushfire, Victoria, Australia, Gippsland_
 
 ##### Conservative Party's
 ### [ A motion brought by the Conservative government to reopen debate on same-sex marriage in Canada is defeated by the Canadian House of Commons. ](/news/2006/12/7/a-motion-brought-by-the-conservative-government-to-reopen-debate-on-same-sex-marriage-in-canada-is-defeated-by-the-canadian-house-of-common.md)
-_Context: same-sex marriage in Canada, Conservative Party's, Canadian House of Commons_
+_Context: Canadian House of Commons, same-sex marriage in Canada, Conservative Party's_
 
 ##### Fiji
 ### [ Fiji's Great Council of Chiefs condemns the coup d'etat and calls on coup leader Frank Bainimarama to stop his activities. It refuses to meet with him. ](/news/2006/12/7/fiji-s-great-council-of-chiefs-condemns-the-coup-d-a-c-tat-and-calls-on-coup-leader-frank-bainimarama-to-stop-his-activities-it-refuses-to-m.md)
-_Context: Great Council of Chiefs, Voreqe Bainimarama, Fiji, coup_
+_Context: Voreqe Bainimarama, coup, Fiji, Great Council of Chiefs_
 
 ##### Fazel Lankarani
 ### [ Grand Ayatollah Fazel Lankarani of Iran issues a fatwa calling for the deaths of Azeris Rafiq Tagi, a writer, and Samir Sadagatoglu, his editor, who were charged in November 2006 with "inciting national, racial and religious enmity" after they criticized Islam. ](/news/2006/12/7/grand-ayatollah-fazel-lankarani-of-iran-issues-a-fatwa-calling-for-the-deaths-of-azeris-rafiq-taaa-a-writer-and-samir-sadagatoglu-his.md)
@@ -53,11 +53,11 @@ An article recently published by an Azerbaijani bimonthly newspaper that dispara
 
 ##### Hard Rock Cafe
 ### [ The Hard Rock Cafe chain of cafes, hotels and casinos, as well as its extensive collection of rock and roll memorabilia, is purchased from the The Rank Group by the Seminole Tribe of Florida for US$965 million. ](/news/2006/12/7/the-hard-rock-cafe-chain-of-cafes-hotels-and-casinos-as-well-as-its-extensive-collection-of-rock-and-roll-memorabilia-is-purchased-from.md)
-_Context: The Rank Group, US$, memorabilia, Seminole, Hard Rock Cafe, rock and roll_
+_Context: The Rank Group, Seminole, memorabilia, US$, rock and roll, Hard Rock Cafe_
 
 ##### Nintendo
 ### [ Nintendo's next generation gaming console, the Wii, is released in Australia. ](/news/2006/12/7/nintendo-s-next-generation-gaming-console-the-wii-is-released-in-australia.md)
-_Context: Wii, Australia, Nintendo_
+_Context: Wii, Nintendo, Australia_
 
 ## [Previous Day...](/news/2006/12/6/index.md)
 

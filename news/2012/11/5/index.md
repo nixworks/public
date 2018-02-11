@@ -13,7 +13,7 @@ Two foreign workers have been killed and a third person seriously injured by bom
 
 ##### Widespread flooding
 ### [Widespread flooding in Nigeria since July is reported to have killed 363 people and displaced 2.1 million people. ](/news/2012/11/5/widespread-flooding-in-nigeria-since-july-is-reported-to-have-killed-363-people-and-displaced-2-1-million-people.md)
-_Context: Nigeria, Widespread flooding_
+_Context: Widespread flooding, Nigeria_
 
 ##### United States Navy
 ### [The biennial naval training exercise Keen Sword between the United States Navy and the Japan Maritime Self-Defense Force commences off the shore off Okinawa amid tension with China. ](/news/2012/11/5/the-biennial-naval-training-exercise-keen-sword-between-the-united-states-navy-and-the-japan-maritime-self-defense-force-commences-off-the-s.md)
@@ -21,11 +21,11 @@ The US and Japan begin joint military exercises, amid simmering tensions with Ch
 
 ##### Asia-Europe Meeting
 ### [Asian and European leaders meet at the Ninth Asia-Europe Meeting in Vientiane, Laos to discuss issues including the current financial crisis. 51 foreign leaders are expected to attend including premier of China Wen Jiabao and President of Laos Choummaly Sayasone. ](/news/2012/11/5/asian-and-european-leaders-meet-at-the-ninth-asiaaeurope-meeting-in-vientiane-laos-to-discuss-issues-including-the-current-financial-cris.md)
-_Context: Asia-Europe Meeting, Choummaly Sayasone, China, Laos, Vientiane, Wen Jiabao_
+_Context: Wen Jiabao, Choummaly Sayasone, China, Laos, Vientiane, Asia-Europe Meeting_
 
 ##### British Prime Minister
 ### [British Prime Minister David Cameron orders a fresh investigation into allegations of sexual abuse involving a senior Conservative politician from the Thatcher era. The allegations concern sexual abuse at children's homes in Wales during the 1970s and 1980s. ](/news/2012/11/5/british-prime-minister-david-cameron-orders-a-fresh-investigation-into-allegations-of-sexual-abuse-involving-a-senior-conservative-politicia.md)
-_Context: British Prime Minister, David Cameron, Conservative Party_
+_Context: British Prime Minister, Conservative Party, David Cameron_
 
 ##### Australia
 ### [A judge in Australia rules that Standard & Poor's misled investors in its rating of two pre-crisis issues of structured debt. ](/news/2012/11/5/a-judge-in-australia-rules-that-standard-poor-s-misled-investors-in-its-rating-of-two-pre-crisis-issues-of-structured-debt.md)

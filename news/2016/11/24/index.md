@@ -29,7 +29,7 @@ A truck bomb in Iraq kills 77 people, most of them foreign Shia pilgrims, police
 
 ##### Insurgency in the North Caucasus
 ### [Two Russian special forces and two suspected militants are killed in a gunfight in Nazran, Ingushetia. ](/news/2016/11/24/two-russian-special-forces-and-two-suspected-militants-are-killed-in-a-gunfight-in-nazran-ingushetia.md)
-_Context: Ingushetia, Insurgency in the North Caucasus, Nazran, Russian special forces, Ingushetia insurgency_
+_Context: Ingushetia, Russian special forces, Ingushetia insurgency, Nazran, Insurgency in the North Caucasus_
 
 ##### 2016 India-Pakistan military confrontation
 ### [Pakistani Chief of Air Staff Sohail Aman warns India not to escalate tensions in the disputed territory of Kashmir under the threat of a full-scale war. British Foreign Secretary Boris Johnson urges both sides to restrain themselves while on a diplomatic mission to Islamabad. ](/news/2016/11/24/pakistani-chief-of-air-staff-sohail-aman-warns-india-not-to-escalate-tensions-in-the-disputed-territory-of-kashmir-under-the-threat-of-a-ful.md)
@@ -41,7 +41,7 @@ Amnesty says Nigerian security forces have killed more than 150 protesters since
 
 ##### Sinai insurgency
 ### [Eight Egyptian Army soldiers are killed by a suicide bomber at a checkpoint in northern Sinai. ](/news/2016/11/24/eight-egyptian-army-soldiers-are-killed-by-a-suicide-bomber-at-a-checkpoint-in-northern-sinai.md)
-_Context: suicide bomber, Sinai Peninsula, Sinai insurgency, Egyptian Army_
+_Context: suicide bomber, Sinai insurgency, Egyptian Army, Sinai Peninsula_
 
 ##### 2016 Atlantic hurricane season
 ### [Hurricane Otto makes landfall in Nicaragua, becoming the southernmost hurricane on record to hit Central America. ](/news/2016/11/24/hurricane-otto-makes-landfall-in-nicaragua-becoming-the-southernmost-hurricane-on-record-to-hit-central-america.md)
@@ -73,11 +73,11 @@ Police clashed with supporters of presidential candidate Maryse Narcisse in Port
 
 ##### Austrian presidential election, 2016
 ### [Freedom Party of Austria presidential candidate Norbert Hofer intends to hold a referendum on European Union membership if elected. ](/news/2016/11/24/freedom-party-of-austria-presidential-candidate-norbert-hofer-intends-to-hold-a-referendum-on-european-union-membership-if-elected.md)
-_Context: Freedom Party of Austria, Norbert Hofer, European Union, Austrian presidential election, 2016_
+_Context: Austrian presidential election, 2016, Freedom Party of Austria, European Union, Norbert Hofer_
 
 ##### Grenadian constitutional referendum, 2016
 ### [Voters in Grenada choose whether they should be more independent from the British legal system, among other amendments. ](/news/2016/11/24/voters-in-grenada-choose-whether-they-should-be-more-independent-from-the-british-legal-system-among-other-amendments.md)
-_Context: Grenada, Grenadian constitutional referendum, 2016, United Kingdom_
+_Context: Grenada, United Kingdom, Grenadian constitutional referendum, 2016_
 
 ## [Previous Day...](/news/2016/11/23/index.md)
 

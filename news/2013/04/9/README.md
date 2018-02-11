@@ -13,7 +13,7 @@ A shortlist of ten authors including Haruki Murakami and past winners Michel Hou
 
 ##### 2013 Bushehr earthquake
 ### [2013 Bushehr earthquake: A 6.1-magnitude earthquake rocks the Iranian towns of Khvormuj, Bandar Deyr and Kangan, killing 37 people and injuring over 850, and was felt as far as Bahrain. ](/news/2013/04/9/2013-bushehr-earthquake-a-6-1amagnitude-earthquake-rocks-the-iranian-towns-of-khvormuj-bandar-deyr-and-kangan-killing-37-people-and-inj.md)
-_Context: Bandar Deyr, magnitude, earthquake, Iran, 2013 Bushehr earthquake, Khvormuj, Bahrain_
+_Context: 2013 Bushehr earthquake, Khvormuj, Iran, Bandar Deyr, Bahrain, magnitude, earthquake_
 
 ##### Helicopter
 ### [A helicopter crash kills two American NATO soldiers in eastern Afghanistan. ](/news/2013/04/9/a-helicopter-crash-kills-two-american-nato-soldiers-in-eastern-afghanistan.md)
@@ -21,7 +21,7 @@ A helicopter crash in eastern Afghanistan killed two American members of the NAT
 
 ##### WikiLeaks
 ### [Among the cables available now on WikiLeaks are the Nixon administration's early comments on recently-deceased former UK Prime Minister Margaret Thatcher. ](/news/2013/04/9/among-the-cables-available-now-on-wikileaks-are-the-nixon-administration-s-early-comments-on-recently-deceased-former-uk-prime-minister-marg.md)
-_Context: WikiLeaks, Margaret Thatcher, UK Prime Minister, Richard Nixon_
+_Context: UK Prime Minister, WikiLeaks, Margaret Thatcher, Richard Nixon_
 
 ##### North Korea
 ### [North Korea announces its plans to launch a missile tomorrow; an event on that day had been warned about before. ](/news/2013/04/9/north-korea-announces-its-plans-to-launch-a-missile-tomorrow-an-event-on-that-day-had-been-warned-about-before.md)
@@ -29,7 +29,7 @@ NORTH Korea has completed preparations for up to three missile launches, sources
 
 ##### Iran
 ### [Iran announces that a new uranium ore mine and an enrichment plant will be added to the country's nuclear policy, defying the U.N. resolutions. ](/news/2013/04/9/iran-announces-that-a-new-uranium-ore-mine-and-an-enrichment-plant-will-be-added-to-the-country-s-nuclear-policy-defying-the-u-n-resolutio.md)
-_Context: Iran, uranium, U.N._
+_Context: uranium, Iran, U.N._
 
 ##### Velika Ivanca shooting
 ### [Velika Ivanca shooting: At least 13 people are killed and another three injured after a man goes on a spree shooting in the village of Velika Ivanca near the Serbian capital Belgrade. ](/news/2013/04/9/velika-ivanaa-shooting-at-least-13-people-are-killed-and-another-three-injured-after-a-man-goes-on-a-spree-shooting-in-the-village-of-veli.md)
@@ -49,11 +49,11 @@ Uhuru Kenyatta was sworn in as Kenyan president on Tuesday, presenting Western s
 
 ##### France
 ### [The French Senate adopts article 1 of Bill 344, which legalizes same-sex marriage, in a 179-157 vote. ](/news/2013/04/9/the-french-senate-adopts-article-1-of-bill-344-which-legalizes-same-sex-marriage-in-a-179a157-vote.md)
-_Context: French Senate, gay marriage, Bill 344, France_
+_Context: Bill 344, gay marriage, French Senate, France_
 
 ##### Grenada
 ### [Grenada Prime Minister Keith Mitchell announces that Dr. Cecile La Grenade will become the country's first female Governor General. She will succeed Sir Carlyle Glean. ](/news/2013/04/9/grenada-prime-minister-keith-mitchell-announces-that-dr-cecile-la-grenade-will-become-the-country-s-first-female-governor-general-she-will.md)
-_Context: Keith Mitchell, Carlyle Glean, Governor General, Prime Minister, Grenada_
+_Context: Prime Minister, Carlyle Glean, Governor General, Keith Mitchell, Grenada_
 
 ## [Previous Day...](/news/2013/04/8/index.md)
 

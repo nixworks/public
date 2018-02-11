@@ -13,7 +13,7 @@ The archaeologist who looked after ancient ruins of Palmyra in Syria for 40 year
 
 ##### Iraq War (2014-present)
 ### [A suicide bomber kills at least 20 Iraqi Army troops in the city of Baiji. ](/news/2015/08/19/a-suicide-bomber-kills-at-least-20-iraqi-army-troops-in-the-city-of-baiji.md)
-_Context: Baiji, suicide bomber, Iraq War (2014-present), Iraqi Army_
+_Context: Iraqi Army, Baiji, suicide bomber, Iraq War (2014-present)_
 
 ##### South Sudanese Civil War
 ### [Fighting resumes in South Sudan after the failure to reach a deal between tribes loyal to the president and tribes loyal to the former vice-president. ](/news/2015/08/19/fighting-resumes-in-south-sudan-after-the-failure-to-reach-a-deal-between-tribes-loyal-to-the-president-and-tribes-loyal-to-the-former-vice.md)
@@ -29,7 +29,7 @@ The German Bundestag is expected to approve €86bn bailout, paving the way for 
 
 ##### Samsung Bioepis Co.
 ### [Samsung Bioepis Co., a drug development arm of global giant Samsung, picks four banks to manage an IPO it plans for the United States in 2016. ](/news/2015/08/19/samsung-bioepis-co-a-drug-development-arm-of-global-giant-samsung-picks-four-banks-to-manage-an-ipo-it-plans-for-the-united-states-in-201.md)
-_Context: Samsung, Samsung Bioepis Co._
+_Context: Samsung Bioepis Co., Samsung_
 
 ##### Brush fire
 ### [A brush fire burning near the American town of Twisp, Washington, kills three firefighters, injures as many as four others, and forces the evacuation of the towns of Twisp and Winthrop. ](/news/2015/08/19/a-brush-fire-burning-near-the-american-town-of-twisp-washington-kills-three-firefighters-injures-as-many-as-four-others-and-forces-the-e.md)

@@ -17,11 +17,11 @@ President Hollande says Algeria crisis justifies Mali intervention as French con
 
 ##### Dujail
 ### [Two car bombs explode in the city of Dujail, Iraq, leaving at least 7 dead and 25 wounded. ](/news/2013/01/17/two-car-bombs-explode-in-the-city-of-dujail-iraq-leaving-at-least-7-dead-and-25-wounded.md)
-_Context: Dujail, Iraq_
+_Context: Iraq, Dujail_
 
 ##### Somalia
 ### [Militants belonging to Somali group al-Shabaab announce they have executed the French intelligence agent who was the target of the unsuccessful French rescue attempt on January 11. French officials believe the hostage was killed during the mission itself, and the group is using the incident to manipulate the media. ](/news/2013/01/17/militants-belonging-to-somali-group-al-shabaab-announce-they-have-executed-the-french-intelligence-agent-who-was-the-target-of-the-unsuccess.md)
-_Context: rescue attempt, intelligence agent, Somalia, France, Al-Shabaab_
+_Context: Al-Shabaab, France, Somalia, rescue attempt, intelligence agent_
 
 ##### 2013 Jakarta flood
 ### [2013 Jakarta flood: A massive flood hits Jakarta, Indonesia, with the Indonesian Army deploying rubber boats in the financial district to rescue people trapped in this flood. Four people were killed and over 2,000 evacuated. ](/news/2013/01/17/2013-jakarta-flood-a-massive-flood-hits-jakarta-indonesia-with-the-indonesian-army-deploying-rubber-boats-in-the-financial-district-to-re.md)
@@ -43,7 +43,7 @@ Tens of thousands of Kurds poured onto the streets of the Turkish city of Diyarb
 
 ##### Japan
 ### [Japan decides to build the world's largest offshore wind farm near the site of Fukushima Daiichi Nuclear Power Plant in Fukushima Prefecture. ](/news/2013/01/17/japan-decides-to-build-the-worldas-largest-offshore-wind-farm-near-the-site-of-fukushima-daiichi-nuclear-power-plant-in-fukushima-prefectu.md)
-_Context: Japan, Fukushima Prefecture, Fukushima Daiichi Nuclear Power Plant, wind farm_
+_Context: Fukushima Daiichi Nuclear Power Plant, wind farm, Fukushima Prefecture, Japan_
 
 ##### European Space Agency
 ### [The European Space Agency officially joins a project to build a Service Module based on their Automated Transfer Vehicle for NASA's Orion, a spacecraft to carry astronauts into deep space. ](/news/2013/01/17/the-european-space-agency-officially-joins-a-project-to-build-a-service-module-based-on-their-automated-transfer-vehicle-for-nasaas-orion.md)

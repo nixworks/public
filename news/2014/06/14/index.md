@@ -17,11 +17,11 @@ More than 1,000 soldiers have paraded in front of the Queen as she celebrated he
 
 ##### Alexander Stubb
 ### [Alexander Stubb is elected new leader of the National Coalition Party and thus the new prime minister of Finland, the first Swedish-speaking Finn to hold the post since 1959. ](/news/2014/06/14/alexander-stubb-is-elected-new-leader-of-the-national-coalition-party-and-thus-the-new-prime-minister-of-finland-the-first-swedish-speaking.md)
-_Context: Alexander Stubb, prime minister of Finland, National Coalition Party, Swedish-speaking Finn, 1959_
+_Context: prime minister of Finland, Alexander Stubb, National Coalition Party, 1959, Swedish-speaking Finn_
 
 ##### Afghan presidential election, 2014
 ### [Voters in Afghanistan go to the polls for the second round of voting with the Taliban threatening polling booths. Dozens of people are killed across the country. ](/news/2014/06/14/voters-in-afghanistan-go-to-the-polls-for-the-second-round-of-voting-with-the-taliban-threatening-polling-booths-dozens-of-people-are-kille.md)
-_Context: Taliban, Afghanistan, Afghan presidential election, 2014_
+_Context: Afghanistan, Afghan presidential election, 2014, Taliban_
 
 ## [Previous Day...](/news/2014/06/13/index.md)
 

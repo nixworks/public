@@ -13,11 +13,11 @@ A suicide bomber targeted a foreign forces convoy in downtown Kabul during morni
 
 ##### Syrian Civil War
 ### [Following Russian airstrikes, the Syrian army and allied Lebanese Hezbollah militia take control of a highland area in Idlib province close to insurgent-held positions, according to the Syrian Observatory for Human Rights. ](/news/2015/10/11/following-russian-airstrikes-the-syrian-army-and-allied-lebanese-hezbollah-militia-take-control-of-a-highland-area-in-idlib-province-close.md)
-_Context: Syrian Civil War, Idlib Governorate, Russia, Syrian army's, Russian military intervention in the Syrian Civil War, Syrian Observatory for Human Rights, Hezbollah, Lebanese_
+_Context: Idlib Governorate, Russia, Syrian army's, Russian military intervention in the Syrian Civil War, Lebanese, Syrian Civil War, Syrian Observatory for Human Rights, Hezbollah_
 
 ##### Boko Haram insurgency in Cameroon
 ### [At least eight people are killed following a suicide bomb attack in northern Cameroon's Sangueleri region near the Nigerian border. Boko Haram have previously carried out attacks in the region. ](/news/2015/10/11/at-least-eight-people-are-killed-following-a-suicide-bomb-attack-in-northern-cameroon-s-sangueleri-region-near-the-nigerian-border-boko-har.md)
-_Context: Boko Haram, Boko Haram insurgency in Cameroon, Far North Region, suicide bombing, Nigeria, Cameroon_
+_Context: Boko Haram, suicide bombing, Far North Region, Nigeria, Cameroon, Boko Haram insurgency in Cameroon_
 
 ##### Turkey-PKK conflict
 ### [The Turkish Air Force launches a wave of airstrikes against PKK targets in northern Iraq and southeastern Turkey. Turkish security officials have also rejected a PKK ceasefire declared on Saturday shortly after the bombings in Ankara, saying "The PKK ceasefire means nothing for us. The operations will continue without a break". ](/news/2015/10/11/the-turkish-air-force-launches-a-wave-of-airstrikes-against-pkk-targets-in-northern-iraq-and-southeastern-turkey-turkish-security-officials.md)
@@ -25,7 +25,7 @@ Turkish warplanes struck Kurdistan Workers Party (PKK) militant targets in north
 
 ##### Iraqi Civil War (2014-present)
 ### [Iraq's military reports bombing a convoy possibly carrying Islamic State of Iraq and the Levant leader, Abu Bakr al-Baghdadi. The group was headed to a meeting in the western Al Anbar Governorate, close to the Syrian border. Eight senior ISIS figures were killed, but al-Baghdadi did not appear to be among them according to Iraqi officials. ](/news/2015/10/11/iraq-s-military-reports-bombing-a-convoy-possibly-carrying-islamic-state-of-iraq-and-the-levant-leader-abu-bakr-al-baghdadi-the-group-was.md)
-_Context: Abu Bakr al-Baghdadi, Syria, Iraqi Civil War (2014-present), ISIL, Iraq, Anbar province_
+_Context: ISIL, Abu Bakr al-Baghdadi, Syria, Iraqi Civil War (2014-present), Anbar province, Iraq_
 
 ##### Saudi-led intervention in Yemen
 ### [An Arab coalition airstrike on a prison in Yemen's central Al Bayda Governorate, reportedly kills 20 prisoners. The prison which held more than 100 prisoners was controlled by the Houthis. ](/news/2015/10/11/an-arab-coalition-airstrike-on-a-prison-in-yemen-s-central-al-bayda-governorate-reportedly-kills-20-prisoners-the-prison-which-held-more-t.md)
@@ -33,7 +33,7 @@ Sanaa, Oct 12 (IANS) At least 20 prisoners were killed when warplanes of the Sau
 
 ##### South Africa
 ### [South Africa plans to leave the International Criminal Court (ICC) as the government faces criticism for, earlier this year, ignoring a court order to arrest Sudan's president. ](/news/2015/10/11/south-africa-plans-to-leave-the-international-criminal-court-icc-as-the-government-faces-criticism-for-earlier-this-year-ignoring-a-cour.md)
-_Context: Sudan, ICC, South Africa_
+_Context: Sudan, South Africa, ICC_
 
 ##### ISNA
 ### [Iranian Students News Agency reports an undisclosed verdict has been reached in the espionage case of "Washington Post" reporter Jason Rezaian, who has been held by Iran for more than 14 months. The final closed door hearing on Rezaian's case was on August 10, 2015. By not disclosing details, the Post stated that it seems Tehran could be working a political angle. Last month at the UN, Iranian President Hassan Rouhani told journalists he would welcome quicker steps on mutual prisoner releases. ](/news/2015/10/11/iranian-students-news-agency-reports-an-undisclosed-verdict-has-been-reached-in-the-espionage-case-of-washington-post-reporter-jason-rezai.md)
@@ -49,7 +49,7 @@ Local residents in Phuket have attacked a police station on the island after rio
 
 ##### Belarusian presidential election, 2015
 ### [Belarussian President Alexander Lukashenko won a fifth term by a landslide in today's election. ](/news/2015/10/11/belarussian-president-alexander-lukashenko-won-a-fifth-term-by-a-landslide-in-today-s-election.md)
-_Context: Belarussian President, Belarusian presidential election, 2015, Alexander Lukashenko_
+_Context: Alexander Lukashenko, Belarussian President, Belarusian presidential election, 2015_
 
 ##### Guinean presidential election, 2015
 ### [Millions of Guineans vote peacefully in the West African country's second free election since gaining independence from France nearly 60 years ago. Ballot counting started; the provisional outcome is not expected until the end of this week, an official said. Incumbent President Alpha Conde is expected to win reelection. ](/news/2015/10/11/millions-of-guineans-vote-peacefully-in-the-west-african-country-s-second-free-election-since-gaining-independence-from-france-nearly-60-yea.md)

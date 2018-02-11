@@ -25,11 +25,11 @@ Two Palestinians are shot dead by an Israeli truck driver in the West Bank after
 
 ##### Greece
 ### [Voters in Greece go to the polls for a second legislative election after the first election on May 6 failed to form a coalition government. ](/news/2012/06/17/voters-in-greece-go-to-the-polls-for-a-second-legislative-election-after-the-first-election-on-may-6-failed-to-form-a-coalition-government.md)
-_Context: first election on May 6, second legislative election, coalition, failed, Greece_
+_Context: Greece, coalition, failed, second legislative election, first election on May 6_
 
 ##### Egypt
 ### [Voters in Egypt go to the polls for a second day to vote in the second round of a presidential election, with former prime minister Ahmed Shafik and Mohamed Morsi of the Muslim Brotherhood's Freedom and Justice Party both competing for the presidency. ](/news/2012/06/17/voters-in-egypt-go-to-the-polls-for-a-second-day-to-vote-in-the-second-round-of-a-presidential-election-with-former-prime-minister-ahmed-sh.md)
-_Context: Ahmed Shafik, Egypt, Prime Minister of Egypt, presidential election, Mohamed Morsi, Freedom and Justice Party_
+_Context: Freedom and Justice Party, Mohamed Morsi, Prime Minister of Egypt, presidential election, Egypt, Ahmed Shafik_
 
 ##### France
 ### [Voters in France go to the polls for legislative election with the Socialist Party winning a majority. ](/news/2012/06/17/voters-in-france-go-to-the-polls-for-legislative-election-with-the-socialist-party-winning-a-majority.md)

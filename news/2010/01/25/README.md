@@ -5,7 +5,7 @@ Formats: [HTML](2010/01/25/index.html)  [JSON](2010/01/25/index.json)  [XML](201
 
 ##### Live Nation
 ### [Live Nation and Ticketmaster complete their merger, following an agreement with the United States Department of Justice to divest some interests. ](/news/2010/01/25/live-nation-and-ticketmaster-complete-their-merger-following-an-agreement-with-the-united-states-department-of-justice-to-divest-some-inter.md)
-_Context: Live Nation, Department of Justice, Ticketmaster_
+_Context: Live Nation, Ticketmaster, Department of Justice_
 
 ##### Venezuela
 ### [Police in the Venezuelan capital Caracas disperse an opposition student protest over the closure of several television stations. Meanwhile, Vice President Ramn Carrizales resigns. ](/news/2010/01/25/police-in-the-venezuelan-capital-caracas-disperse-an-opposition-student-protest-over-the-closure-of-several-television-stations-meanwhile.md)
@@ -21,7 +21,7 @@ _Context: Beijing, 14th Dalai Lama, China_
 
 ##### Saint Kitts and Nevis
 ### [Voters in Saint Kitts and Nevis go to the polls in the 2010 general election. ](/news/2010/01/25/voters-in-saint-kitts-and-nevis-go-to-the-polls-in-the-2010-general-election.md)
-_Context: 2010 general election, Saint Kitts and Nevis_
+_Context: Saint Kitts and Nevis, 2010 general election_
 
 ##### Melamine
 ### [New traces of melamine in milk products are discovered in China, more than a year after thousands of children became ill from a previous incident. ](/news/2010/01/25/new-traces-of-melamine-in-milk-products-are-discovered-in-china-more-than-a-year-after-thousands-of-children-became-ill-from-a-previous-inc.md)
@@ -33,11 +33,11 @@ Intense gun battles between African Union peacekeepers and Islamic fundamentalis
 
 ##### G4 bloc
 ### [Environment ministers from the G4 bloc (IBSA Dialogue Forum & China) meet in New Delhi, India, to agree a common position ahead of future climate change talks, such as the 2010 United Nations Climate Change Conference ("COP-16") at Cancn, Mexico, to be held from 29 November 2010 to 10 December 2010 ](/news/2010/01/25/environment-ministers-from-the-g4-bloc-ibsa-dialogue-forum-china-meet-in-new-delhi-india-to-agree-a-common-position-ahead-of-future-cl.md)
-_Context: climate change, IBSA Dialogue Forum, New Delhi, India, China, Cancn,  2010 United Nations Climate Change Conference, G4 bloc, Mexican_
+_Context: IBSA Dialogue Forum, China, Mexican, Cancn,  2010 United Nations Climate Change Conference, India, G4 bloc, New Delhi, climate change_
 
 ##### Netherlands
 ### [Dutch football club HFC Haarlem, national champion in 1946, is declared bankrupt, becoming the first Dutch professional club to be disestablished since FC Wageningen and VCV Zeeland in 1992. ](/news/2010/01/25/dutch-football-club-hfc-haarlem-national-champion-in-1946-is-declared-bankrupt-becoming-the-first-dutch-professional-club-to-be-disestabl.md)
-_Context: national champion, HFC Haarlem, association football, 1992, Netherlands, FC Wageningen, Dutch professional club, VCV Zeeland_
+_Context: 1992, association football, HFC Haarlem, FC Wageningen, Dutch professional club, VCV Zeeland, Netherlands, national champion_
 
 ##### Ali Hassan al-Majid
 ### [Ali Hassan al-Majid, known as "Chemical Ali", is executed. ](/news/2010/01/25/ali-hassan-al-majid-known-as-chemical-ali-is-executed.md)
@@ -47,9 +47,9 @@ _Context: Ali Hassan al-Majid_
 ### [Burma's Home Minister General Maung Oo says Aung San Suu Kyi will be released by November this year. ](/news/2010/01/25/burma-s-home-minister-general-maung-oo-says-aung-san-suu-kyi-will-be-released-by-november-this-year.md)
 Military reportedly planning to free opposition leader from house arrest.
 
-##### United States
+##### American
 ### [The United States will reportedly "reconsider" Algeria's placement on its terror watch list, which requires Algerian citizens to undergo extra security screening. ](/news/2010/01/25/the-united-states-will-reportedly-reconsider-algeria-s-placement-on-its-terror-watch-list-which-requires-algerian-citizens-to-undergo-ext.md)
-_Context: United States, Algeria_
+_Context: Algeria, American_
 
 ##### Ethiopian Airlines
 ### [Ethiopian Airlines Flight 409, with 85 passengers on board, crashes into the Mediterranean Sea after taking off from Beirut Airport, Lebanon. ](/news/2010/01/25/ethiopian-airlines-flight-409-with-85-passengers-on-board-crashes-into-the-mediterranean-sea-after-taking-off-from-beirut-airport-lebanon.md)
@@ -75,11 +75,11 @@ Taoiseach Brian Cowen is to meet British Prime Minister Gordon Brown tomorrow to
 
 ##### Israel
 ### [Israeli Prime Minister Benjamin Netanyahu attends the opening of an exhibition of Auschwitz concentration camp blueprints in Yad Vashem. ](/news/2010/01/25/israeli-prime-minister-benjamin-netanyahu-attends-the-opening-of-an-exhibition-of-auschwitz-concentration-camp-blueprints-in-yad-vashem.md)
-_Context: Benjamin Netanyahu, Auschwitz, Israeli Prime Minister, Holocaust and Remembrance Center, Israel_
+_Context: Israeli Prime Minister, Israel, Holocaust and Remembrance Center, Benjamin Netanyahu, Auschwitz_
 
 ##### Lady in the Lake trial
 ### [Gordon Park, convicted murderer in the Lady in the Lake trial, is found hanged in his prison cell in Garth prison, Lancashire, England, in an apparent suicide. ](/news/2010/01/25/gordon-park-convicted-murderer-in-the-lady-in-the-lake-trial-is-found-hanged-in-his-prison-cell-in-garth-prison-lancashire-england-in-a.md)
-_Context: Garth prison, Lady in the Lake trial, England_
+_Context: Lady in the Lake trial, Garth prison, England_
 
 ## [Previous Day...](/news/2010/01/24/index.md)
 

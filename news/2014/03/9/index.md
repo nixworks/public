@@ -9,7 +9,7 @@ _Context: Hillah, Iraq_
 
 ##### Nazario Moreno Gonzalez
 ### [Mexican authorities confirm that Nazario Moreno Gonzalez, the top leader of the Knights Templar Cartel, was killed in the state of Michoacan. ](/news/2014/03/9/mexican-authorities-confirm-that-nazario-moreno-gonza-lez-the-top-leader-of-the-knights-templar-cartel-was-killed-in-the-state-of-michoaca.md)
-_Context: Knights Templar Cartel, Nazario Moreno Gonzalez, Michoacan_
+_Context: Nazario Moreno Gonzalez, Knights Templar Cartel, Michoacan_
 
 ##### Horn of Africa
 ### [At least 42 migrants from the Horn of Africa drown when their boat overturns off the coast of Shabwah Governorate, Yemen. ](/news/2014/03/9/at-least-42-migrants-from-the-horn-of-africa-drown-when-their-boat-overturns-off-the-coast-of-shabwah-governorate-yemen.md)
@@ -33,7 +33,7 @@ _Context: Vice President of Afghanistan, Mohammed Fahim_
 
 ##### Colombian parliamentary election, 2014
 ### [President Juan Manuel Santos' coalition wins a reduced majority, while former President Alvaro Uribe is elected to the Senate. ](/news/2014/03/9/president-juan-manuel-santos-coalition-wins-a-reduced-majority-while-former-president-alvaro-uribe-is-elected-to-the-senate.md)
-_Context: Alvaro Uribe, Colombian parliamentary election, 2014, Juan Manuel Santos_
+_Context: Colombian parliamentary election, 2014, Juan Manuel Santos, Alvaro Uribe_
 
 ## [Previous Day...](/news/2014/03/8/index.md)
 

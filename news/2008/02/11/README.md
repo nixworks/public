@@ -5,23 +5,23 @@ Formats: [HTML](2008/02/11/index.html)  [JSON](2008/02/11/index.json)  [XML](200
 
 ##### Mistrial
 ### [ Judge John Kessler declares a mistrial in the case of China Arnold, who allegedly microwaved her baby to death. ](/news/2008/02/11/judge-john-kessler-declares-a-mistrial-in-the-case-of-china-arnold-who-allegedly-microwaved-her-baby-to-death.md)
-_Context: mistrial, China Arnold, microwaved_
+_Context: China Arnold, mistrial, microwaved_
 
-##### United States
+##### American
 ### [ The United States files charges against six alleged al-Qaeda operatives including Khalid Sheikh Mohammed in connection with the September 11, 2001 attacks, seeking the death penalty for war crimes and murder. ](/news/2008/02/11/the-united-states-files-charges-against-six-alleged-al-qaeda-operatives-including-khalid-sheikh-mohammed-in-connection-with-the-september-1.md)
-_Context: files charges against, Capital punishment in the United States, United States, al-Qaeda, September 11, 2001 attacks, murder, Khalid Sheikh Mohammed, war crimes_
+_Context: murder, files charges against, war crimes, American, al-Qaeda, Khalid Sheikh Mohammed, September 11, 2001 attacks, Capital punishment in the United States_
 
 ##### Painter
 ### [ Paintings by Paul Czanne, Edgar Degas, Vincent van Gogh, and Claude Monet are stolen from the Foundation E.G. Bhrle, a museum in Zrich. ](/news/2008/02/11/paintings-by-paul-cezanne-edgar-degas-vincent-van-gogh-and-claude-monet-are-stolen-from-the-foundation-e-g-buhrle-a-museum-in-zurich.md)
-_Context: museum, Zrich, painter, Foundation E.G. Bhrle, Edgar Degas, Vincent van Gogh, Paul Czanne, Monet_
+_Context: Zrich, painter, Monet, Edgar Degas, Foundation E.G. Bhrle, Paul Czanne, museum, Vincent van Gogh_
 
 ##### The Singapore Flyer
 ### [ The Singapore Flyer, the largest Ferris wheel in the world (30 meters higher than London Eye), starts to turn. ](/news/2008/02/11/the-singapore-flyer-the-largest-ferris-wheel-in-the-world-30-meters-higher-than-london-eye-starts-to-turn.md)
-_Context: The Singapore Flyer, Ferris wheel, London Eye_
+_Context: London Eye, Ferris wheel, The Singapore Flyer_
 
 ##### Gregg Bergersen
 ### [ Gregg Bergersen, a United States Defense Department Analyst, is arrested and charged with espionage after being accused of leaking American military secrets to the Chinese government. ](/news/2008/02/11/gregg-bergersen-a-united-states-defense-department-analyst-is-arrested-and-charged-with-espionage-after-being-accused-of-leaking-american.md)
-_Context: Gregg Bergersen, United States, China, U.S. military, espionage_
+_Context: espionage, Gregg Bergersen, American, U.S. military, China_
 
 ## [Previous Day...](/news/2008/02/10/index.md)
 

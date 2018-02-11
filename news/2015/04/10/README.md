@@ -9,7 +9,7 @@ Vote indicates country will not join Saudi-led military coalition but will &quot
 
 ##### Iraqi insurgency
 ### [A car bomb blast in Baghdad kills at least three people and injures 12. ](/news/2015/04/10/a-car-bomb-blast-in-baghdad-kills-at-least-three-people-and-injures-12.md)
-_Context: Iraqi insurgency, Baghdad, car bomb_
+_Context: car bomb, Iraqi insurgency, Baghdad_
 
 ##### Balochistan conflict
 ### [Gunmen kill 20 laborers at a dam construction in Pakistan's Balochistan province. ](/news/2015/04/10/gunmen-kill-20-laborers-at-a-dam-construction-in-pakistan-s-balochistan-province.md)
@@ -17,7 +17,7 @@ Gunmen kill 20 construction workers in Pakistan&#039;s restive south-western pro
 
 ##### Environmental Protection Agency
 ### [The U.S. Environmental Protection Agency reaches an agreement with two petroleum industry groups about biofuel blending targets. ](/news/2015/04/10/the-u-s-environmental-protection-agency-reaches-an-agreement-with-two-petroleum-industry-groups-about-biofuel-blending-targets.md)
-_Context: petroleum industry, Environmental Protection Agency, biofuel_
+_Context: Environmental Protection Agency, biofuel, petroleum industry_
 
 ##### Malaysia
 ### [Malaysia toughens its sedition laws to cover all online media and provide for mandatory jail sentences. ](/news/2015/04/10/malaysia-toughens-its-sedition-laws-to-cover-all-online-media-and-provide-for-mandatory-jail-sentences.md)

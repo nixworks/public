@@ -37,7 +37,7 @@ Philippine police say 182 inmates complaining of hunger and squalid conditions h
 
 ##### Eric Holder
 ### [U.S. Attorney General Eric Holder announces that federal prosecutors will seek the death penalty against Boston Marathon bombing suspect Dzhokhar Tsarnaev. ](/news/2014/01/30/u-s-attorney-general-eric-holder-announces-that-federal-prosecutors-will-seek-the-death-penalty-against-boston-marathon-bombing-suspect-dzh.md)
-_Context: Boston Marathon bombing, Eric Holder, Dzhokhar Tsarnaev, Capital punishment in the United States_
+_Context: Capital punishment in the United States, Boston Marathon bombing, Dzhokhar Tsarnaev, Eric Holder_
 
 ##### American
 ### [American Amanda Knox is found guilty of the murder of Meredith Kercher together with Knox's former boyfriend Raffaele Sollecito. ](/news/2014/01/30/american-amanda-knox-is-found-guilty-of-the-murder-of-meredith-kercher-together-with-knox-s-former-boyfriend-raffaele-sollecito.md)
@@ -49,11 +49,11 @@ Disagreement over DONG sale spells doom for coalition. SF leaves government, Vil
 
 ##### Thai Army
 ### [The Thai Army announces plans to deploy more troops in the streets of Bangkok ahead of Sunday's general election. ](/news/2014/01/30/the-thai-army-announces-plans-to-deploy-more-troops-in-the-streets-of-bangkok-ahead-of-sunday-s-general-election.md)
-_Context: Bangkok, general election held on February 2, Thai Army_
+_Context: Bangkok, Thai Army, general election held on February 2_
 
 ##### Mohammad-Ali Najafi
 ### [Mohammad-Ali Najafi resigns as Head of Iran's Cultural Heritage, Handcrafts and Tourism Organization, marking the first change in President Rouhani's cabinet. ](/news/2014/01/30/mohammad-ali-najafi-resigns-as-head-of-iran-s-cultural-heritage-handcrafts-and-tourism-organization-marking-the-first-change-in-president.md)
-_Context: Mohammad-Ali Najafi, Hassan Rouhani, Cultural Heritage, Handcrafts and Tourism Organization, cabinet_
+_Context: Hassan Rouhani, cabinet, Mohammad-Ali Najafi, Cultural Heritage, Handcrafts and Tourism Organization_
 
 ##### Netherlands
 ### [In the Netherlands, State Secretary of Finance Frans Weekers resigns after opposition parties give fierce criticism about his performance. ](/news/2014/01/30/in-the-netherlands-state-secretary-of-finance-frans-weekers-resigns-after-opposition-parties-give-fierce-criticism-about-his-performance.md)

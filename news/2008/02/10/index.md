@@ -5,19 +5,19 @@ Formats: [HTML](2008/02/10/index.html)  [JSON](2008/02/10/index.json)  [XML](200
 
 ##### Namdaemun
 ### [ The wooden portion of Namdaemun Gate in Seoul, South Korea is destroyed in a suspicious fire. ](/news/2008/02/10/the-wooden-portion-of-namdaemun-gate-in-seoul-south-korea-is-destroyed-in-a-suspicious-fire.md)
-_Context: South Korea, arson, Seoul, Namdaemun_
+_Context: South Korea, Namdaemun, Seoul, arson_
 
 ##### Illinois
 ### [ Illinois Senator Barack Obama wins the Maine caucus. ](/news/2008/02/10/illinois-senator-barack-obama-wins-the-maine-caucus.md)
-_Context: caucus, Barack Obama, Illinois, United States Senate, Maine_
+_Context: Barack Obama, caucus, Illinois, United States Senate, Maine_
 
 ##### Suicide car bomb
 ### [ A suicide car bomb at a market in Balad, Iraq kills 25. U.S. Secretary of Defense Robert Gates also arrives in Iraq from a Germany security conference to meet with Iraqi leaders, General David Petraeus and U.S. Ambassador to Iraq Ryan Crocker. ](/news/2008/02/10/a-suicide-car-bomb-at-a-market-in-balad-iraq-kills-25-u-s-secretary-of-defense-robert-gates-also-arrives-in-iraq-from-a-germany-security.md)
-_Context: German, suicide car bomb, Iraq, Ryan Crocker, Balad, Robert Gates, David Petraeus, Secretary of Defense_
+_Context: Ryan Crocker, Secretary of Defense, Iraq, Robert Gates, David Petraeus, German, Balad, suicide car bomb_
 
 ##### Football
 ### [ Association football: Egypt beats Cameroon 1-0 to win the 2008 Africa Cup of Nations in Ghana. ](/news/2008/02/10/association-football-egypt-beats-cameroon-1-0-to-win-the-2008-africa-cup-of-nations-in-ghana.md)
-_Context: Cameroon, football, Ghana, Egypt, 2008 Africa Cup of Nations_
+_Context: 2008 Africa Cup of Nations, Egypt, Ghana, football, Cameroon_
 
 ##### Rock concert
 ### [ Ten people are trampled to death at a rock concert in Bandung, Indonesia. ](/news/2008/02/10/ten-people-are-trampled-to-death-at-a-rock-concert-in-bandung-indonesia.md)

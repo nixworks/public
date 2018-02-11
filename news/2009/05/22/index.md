@@ -9,19 +9,19 @@ Indian Prime Minister Manmohan Singh was sworn in on Friday for a second five-ye
 
 ##### Flood
 ### [ Floods kill at least 11 people in Haiti. ](/news/2009/05/22/floods-kill-at-least-11-people-in-haiti.md)
-_Context: Flood, Haiti_
+_Context: Haiti, Flood_
 
 ##### Magnitude
 ### [ A 5.7-magnitude earthquake strikes Chiautla de Tapia, Puebla, Mexico. ](/news/2009/05/22/a-5-7-magnitude-earthquake-strikes-chiautla-de-tapia-puebla-mexico.md)
-_Context: earthquake, Mexican, Chiautla de Tapia, Puebla, magnitude_
+_Context: magnitude, Puebla, earthquake, Chiautla de Tapia, Mexican_
 
 ##### Transitional Federal Government
 ### [ At least 36 people are killed as the Transitional Federal Government and Islamist militants battle in Mogadishu, Somalia. ](/news/2009/05/22/at-least-36-people-are-killed-as-the-transitional-federal-government-and-islamist-militants-battle-in-mogadishu-somalia.md)
-_Context: Islamists, Somalia, Transitional Federal Government, Mogadishu, violence, militant_
+_Context: violence, Mogadishu, militant, Islamists, Transitional Federal Government, Somalia_
 
 ##### Bingu wa Mutharika
 ### [ Bingu wa Mutharika is reelected as President of Malawi. ](/news/2009/05/22/bingu-wa-mutharika-is-reelected-as-president-of-malawi.md)
-_Context: Bingu wa Mutharika, President, reelected, Malawi_
+_Context: President, reelected, Malawi, Bingu wa Mutharika_
 
 ##### Space Shuttle
 ### [ The Space Shuttle "Atlantis" prepares to land at the Kennedy Space Center in Florida, United States. ](/news/2009/05/22/the-space-shuttle-atlantis-prepares-to-land-at-the-kennedy-space-center-in-florida-united-states.md)
@@ -29,11 +29,11 @@ NASA&#039;s space shuttle fleet began setting records with its first launch on A
 
 ##### United Nations
 ### [ The United Nations requests aid for 1,500,000 people who have been displaced by war in northwest Pakistan. ](/news/2009/05/22/the-united-nations-requests-aid-for-1-500-000-people-who-have-been-displaced-by-war-in-northwest-pakistan.md)
-_Context: displaced, United Nations, Pakistan, Northwestern Pakistan, people, War in North-West Pakistan, assistance_
+_Context: assistance, War in North-West Pakistan, people, Pakistan, Northwestern Pakistan, United Nations, displaced_
 
 ##### Spain
 ### [ Spain's National Police Corps arrests 23 people for trafficking Nigerian prostitutes through voodoo. ](/news/2009/05/22/spain-s-national-police-corps-arrests-23-people-for-trafficking-nigerian-prostitutes-through-voodoo.md)
-_Context: Spain, Trafficking in Persons, National Police Corps, Nigeria, prostitutes, voodoo, arrest_
+_Context: arrest, prostitutes, Spain, Nigeria, National Police Corps, Trafficking in Persons, voodoo_
 
 ##### Northern Ireland
 ### [ Northern Ireland's first sextuplets are born in Belfast. ](/news/2009/05/22/northern-ireland-s-first-sextuplets-are-born-in-belfast.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2016/04/23/index.html)  [JSON](2016/04/23/index.json)  [XML](201
 
 ##### War in North-West Pakistan
 ### [The Pakistani Taliban claims the killing of a Sikh lawmaker, Soran Singh. ](/news/2016/04/23/the-pakistani-taliban-claims-the-killing-of-a-sikh-lawmaker-soran-singh.md)
-_Context: Sikh, War in North-West Pakistan, Pakistani Taliban, Soran Singh_
+_Context: Soran Singh, Sikh, War in North-West Pakistan, Pakistani Taliban_
 
 ##### Syrian Civil War
 ### [ISIL claims to have shot down a Syrian Arab Air Force MiG-23, southeast of Damascus, and captured its pilot. Amaq News Agency, which supports ISIL, gave the pilot's name as Azzam Eid, from Hama. The Syrian Observatory for Human Rights says it was not clear whether the plane had been shot down or crashed because of mechanical failure. ](/news/2016/04/23/isil-claims-to-have-shot-down-a-syrian-arab-air-force-mig-23-southeast-of-damascus-and-captured-its-pilot-amaq-news-agency-which-support.md)
@@ -13,7 +13,7 @@ News agency linked to Islamic State gives name of airman, posts video of charred
 
 ##### Al-Qaeda insurgency in Yemen
 ### [Yemeni government forces along with Popular Resistance militia kill dozens of Al-Qaeda in the Arabian Peninsula fighters in clashes in southern Yemen. A drone strike kills two others further north, near Ma'rib. ](/news/2016/04/23/yemeni-government-forces-along-with-popular-resistance-militia-kill-dozens-of-al-qaeda-in-the-arabian-peninsula-fighters-in-clashes-in-south.md)
-_Context: Ma'rib, al-Qaida, Popular Resistance, Al-Qaeda insurgency in Yemen, Yemen, Government forces_
+_Context: Government forces, Popular Resistance, al-Qaida, Al-Qaeda insurgency in Yemen, Yemen, Ma'rib_
 
 ##### Iraqi Civil War
 ### [Two separate car bombs kill at least 12 people in Iraq's capital, Baghdad. The Islamic State claims responsibility for the blast at the security checkpoint in a northern district that killed nine and injured 28 others. Three people are killed and 11 injured at the second bombing in southern Baghdad that targeted an army convoy; no group has claimed responsibility. ](/news/2016/04/23/two-separate-car-bombs-kill-at-least-12-people-in-iraq-s-capital-baghdad-the-islamic-state-claims-responsibility-for-the-blast-at-the-secu.md)
@@ -21,7 +21,7 @@ At least 12 people were killed on Saturday in two separate car bomb attacks in B
 
 ##### William Shakespeare
 ### [The continuing influence of English dramatist William Shakespeare is celebrated on the 400th anniversary of his death in Stratford-upon-Avon. ](/news/2016/04/23/the-continuing-influence-of-english-dramatist-william-shakespeare-is-celebrated-on-the-400th-anniversary-of-his-death-in-stratford-upon-avon.md)
-_Context: William Shakespeare, Stratford-upon-Avon_
+_Context: Stratford-upon-Avon, William Shakespeare_
 
 ##### Spain
 ### [Spain commemorates the 400th anniversary of the death of its most famous author Miguel de Cervantes. ](/news/2016/04/23/spain-commemorates-the-400th-anniversary-of-the-death-of-its-most-famous-author-miguel-de-cervantes.md)
@@ -29,11 +29,11 @@ Spain&#x20;marks&#x20;the&#x20;fourth&#x20;centenary&#x20;of&#x20;the&#x20;death
 
 ##### 2015-16 South Pacific cyclone season
 ### [Samoan authorities prepared for Severe Tropical Cyclone Amos which is forecast to make landfall later tonight. ](/news/2016/04/23/samoan-authorities-prepared-for-severe-tropical-cyclone-amos-which-is-forecast-to-make-landfall-later-tonight.md)
-_Context: Severe Tropical Cyclone Amos, Samoa, 2015-16 South Pacific cyclone season_
+_Context: 2015-16 South Pacific cyclone season, Samoa, Severe Tropical Cyclone Amos_
 
 ##### Russia
 ### [A Russian oil tanker catches fire in the Caspian Sea, killing at least one crew member. A total of 10 crew members were evacuated from the ship, which was in the territorial waters of Turkmenistan when the fire broke out. It was unclear what caused the blaze. ](/news/2016/04/23/a-russian-oil-tanker-catches-fire-in-the-caspian-sea-killing-at-least-one-crew-member-a-total-of-10-crew-members-were-evacuated-from-the-s.md)
-_Context: Russia, Caspian Sea, oil tanker, Turkmenistan_
+_Context: Turkmenistan, Russia, oil tanker, Caspian Sea_
 
 ##### Earthquake
 ### [The death toll from the earthquake passes 650 with over 50 people missing. It is now the deadliest earthquake in South America this century. ](/news/2016/04/23/the-death-toll-from-the-earthquake-passes-650-with-over-50-people-missing-it-is-now-the-deadliest-earthquake-in-south-america-this-century.md)
@@ -41,11 +41,11 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### North Korea's nuclear program
 ### [North Korea is reported to have launched a submarine-launched ballistic missile for the first time. ](/news/2016/04/23/north-korea-is-reported-to-have-launched-a-submarine-launched-ballistic-missile-for-the-first-time.md)
-_Context: submarine-launched ballistic missile, North Korea's nuclear program, North Korea_
+_Context: submarine-launched ballistic missile, North Korea, North Korea's nuclear program_
 
 ##### Russia-United States relations
 ### [President of Russia Vladimir Putin accuses the United States of reneging on a 16-year-old deal that called for reducing Russia's and the United States' stockpiles of weapons-grade plutonium. He accused Washington of trying to preserve its ability to turn some of its plutonium stockpile back into a form usable for nuclear weapons. ](/news/2016/04/23/president-of-russia-vladimir-putin-accuses-the-united-states-of-reneging-on-a-16-year-old-deal-that-called-for-reducing-russia-s-and-the-uni.md)
-_Context: Russian President, U.S. government, plutonium, Vladimir Putin, Russia-United States relations, Russia_
+_Context: Russian President, Vladimir Putin, U.S. government, Russia, plutonium, Russia-United States relations_
 
 ##### Syrian peace process
 ### [Reuters reports the Friday afternoon truce between Kurdish Asayish forces and pro-Syrian government forces, declared following a three-day outbreak of violence that killed at least 26 people, is holding. ](/news/2016/04/23/reuters-reports-the-friday-afternoon-truce-between-kurdish-asayish-forces-and-pro-syrian-government-forces-declared-following-a-three-day-o.md)
@@ -57,7 +57,7 @@ European Council President Donald Tusk has praised Turkey’s treatment of refug
 
 ##### North Korea-United States relations
 ### [ Foreign Minister Ri Su-yong says North Korea is ready to halt nuclear tests if the United States suspends its annual military exercises with South Korea. ](/news/2016/04/23/foreign-minister-ri-su-yong-says-north-korea-is-ready-to-halt-nuclear-tests-if-the-united-states-suspends-its-annual-military-exercises-wit.md)
-_Context: North Korea, North Korea's foreign ministry, United States, North Korea-United States relations, nuclear tests, Ri Su-yong's, South Korea_
+_Context: South Korea, North Korea's foreign ministry, North Korea-United States relations, Ri Su-yong's, nuclear tests, North Korea, American_
 
 ##### Attacks on secularists in Bangladesh
 ### [Professor Rezaul Karim Siddique is killed in the Bangladeshi city of Rajshahi in an ISIL attack. ](/news/2016/04/23/professor-rezaul-karim-siddique-is-killed-in-the-bangladeshi-city-of-rajshahi-in-an-isil-attack.md)
@@ -77,7 +77,7 @@ Ministers agree to propose joint list of tax havens and approve plan to automati
 
 ##### Philippine presidential election, 2016
 ### [Human rights activists, lawyers, labor rights groups and other advocates endorse Leni Robredo for vice president. ](/news/2016/04/23/human-rights-activists-lawyers-labor-rights-groups-and-other-advocates-endorse-leni-robredo-for-vice-president.md)
-_Context: Human rights, Leni Robredo, Philippine presidential election, 2016, labor rights_
+_Context: labor rights, Human rights, Leni Robredo, Philippine presidential election, 2016_
 
 ##### South Sudanese Civil War
 ### [Rebel leader Riek Machar misses an international deadline to return to the capital Juba to take the post of Vice President. Machar was offered the position by President Salva Kiir Mayardit in the hopes of putting an end to the civil war but has repeatedly delayed his return. ](/news/2016/04/23/rebel-leader-riek-machar-misses-an-international-deadline-to-return-to-the-capital-juba-to-take-the-post-of-vice-president-machar-was-offer.md)
@@ -89,11 +89,11 @@ Thousands of people have protested in the German city of Hannover against a prop
 
 ##### Darfurian status referendum, 2016
 ### [According to the Sudanese electoral commission, more than 97% of voters in Darfur choose to remain as five states rather than form a single region. However, The vote was held amid ongoing insecurity and many of Sudan's 2.5 million displaced people were not registered to vote, with the U.S. State Department warning that the referendum could not be considered credible "under current rules and conditions". ](/news/2016/04/23/according-to-the-sudanese-electoral-commission-more-than-97-of-voters-in-darfur-choose-to-remain-as-five-states-rather-than-form-a-single.md)
-_Context: Sudan, State Department, Darfur, Darfurian status referendum, 2016_
+_Context: Darfurian status referendum, 2016, Sudan, State Department, Darfur_
 
 ##### Congo President
 ### [Congo President Denis Sassou Nguesso names former opposition leader Clement Mouamba as prime minister. ](/news/2016/04/23/congo-president-denis-sassou-nguesso-names-former-opposition-leader-cla-c-ment-mouamba-as-prime-minister.md)
-_Context: Clement Mouamba, Denis Sassou Nguesso, Congo President_
+_Context: Clement Mouamba, Congo President, Denis Sassou Nguesso_
 
 ##### Solar-powered aircraft
 ### [Solar-powered aircraft Solar Impulse 2 lands in Mountain View, California after a 62-hour flight across the Pacific Ocean from Hawaii. ](/news/2016/04/23/solar-powered-aircraft-solar-impulse-2-lands-in-mountain-view-california-after-a-62-hour-flight-across-the-pacific-ocean-from-hawaii.md)

@@ -9,17 +9,17 @@ Seven people have been killed at a Syrian pro-government TV channel, state media
 
 ##### Police
 ### [Police in Bolivia end their violent rebellion after a pay deal is reached ](/news/2012/06/27/police-in-bolivia-end-their-violent-rebellion-after-a-pay-deal-is-reached.md)
-_Context: Bolivia, Police_
+_Context: Police, Bolivia_
 
 ##### Taliban
 ### [Roadside bombs and an ambush by the Taliban in their stronghold of Musa Qala, Afghanistan, kill 10 police officers. ](/news/2012/06/27/roadside-bombs-and-an-ambush-by-the-taliban-in-their-stronghold-of-musa-qala-afghanistan-kill-10-police-officers.md)
-_Context: Musa Qala, Taliban_
+_Context: Taliban, Musa Qala_
 
 ##### MNLA
 ### [The MNLA and al Qaeda-linked Islamists clash in a gunbattle in Gao, Mali, that kills at least 20, witnesses say. ](/news/2012/06/27/the-mnla-and-al-qaeda-linked-islamists-clash-in-a-gunbattle-in-gao-mali-that-kills-at-least-20-witnesses-say.md)
-_Context: MNLA, al Qaeda, Gao_
+_Context: al Qaeda, MNLA, Gao_
 
-##### United States
+##### American
 ### [A United States drone attack kills five in Pakistan. ](/news/2012/06/27/a-united-states-drone-attack-kills-five-in-pakistan.md)
 Missiles target compound in South Waziristan allegedly being used by warlord Hafiz Gul Bahadur.
 
@@ -33,7 +33,7 @@ Barclays Bank pays £290m in penalties and boss Bob Diamond gives up his bonus a
 
 ##### Bank of China
 ### [Bank of China becomes the first Chinese bank to open a branch in Taiwan. ](/news/2012/06/27/bank-of-china-becomes-the-first-chinese-bank-to-open-a-branch-in-taiwan.md)
-_Context: Bank of China, Taiwan, China_
+_Context: China, Bank of China, Taiwan_
 
 ##### Landslide
 ### [At least 50 people are killed in rain-triggered landslides in the Bangladesh districts of Cox's Bazaar and Chittagong. ](/news/2012/06/27/at-least-50-people-are-killed-in-rain-triggered-landslides-in-the-bangladesh-districts-of-cox-s-bazaar-and-chittagong.md)
@@ -45,7 +45,7 @@ A massive wildfire has swept through a residential area of Colorado&#039;s secon
 
 ##### Orange Lake Resort
 ### [An 11-year-old girl, Ashton Jojo, vacationing with her family at a miniature golf course at Orange Lake Resort, in Orange County, Florida, is accidentally electrocuted after she falls into a 2-foot deep pond at the course while looking for her lost golf ball. ](/news/2012/06/27/an-11-year-old-girl-ashton-jojo-vacationing-with-her-family-at-a-miniature-golf-course-at-orange-lake-resort-in-orange-county-florida-i.md)
-_Context: Orange Lake Resort, Orange County, Florida_
+_Context: Orange County, Florida, Orange Lake Resort_
 
 ##### Somalia
 ### [The Somali president urges everyone to donate funds to Somalia to help combat pirates. ](/news/2012/06/27/the-somali-president-urges-everyone-to-donate-funds-to-somalia-to-help-combat-pirates.md)

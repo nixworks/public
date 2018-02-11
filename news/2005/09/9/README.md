@@ -5,27 +5,27 @@ Formats: [HTML](2005/09/9/index.html)  [JSON](2005/09/9/index.json)  [XML](2005/
 
 ##### Department of Homeland Security
 ### [ United States Department of Homeland Security Secretary Michael Chertoff appoints Vice Admiral Thad W. Allen, chief of staff of the United States Coast Guard, to direct Hurricane Katrina relief efforts in New Orleans, in place of Federal Emergency Management Agency director Michael D. Brown, who returns to Washington to direct planning for future disaster relief. ](/news/2005/09/9/united-states-department-of-homeland-security-secretary-michael-chertoff-appoints-vice-admiral-thad-w-allen-chief-of-staff-of-the-united.md)
-_Context: Thad W. Allen, Hurricane Katrina, Secretary of Homeland Security, federal aid, Michael Brown, Department of Homeland Security, United States Coast Guard, Michael Chertoff_
+_Context: Hurricane Katrina, Michael Brown, Michael Chertoff, United States Coast Guard, Secretary of Homeland Security, federal aid, Thad W. Allen, Department of Homeland Security_
 
 ##### Belgian Air Force
 ### [ During a military exercise, a Belgian Air Force F-16 fighter jet crashes in the Wadden Sea (Waddenzee), near the Dutch island of Vlieland. The pilot failed to eject, and died in the crash. ](/news/2005/09/9/during-a-military-exercise-a-belgian-air-force-f-16-fighter-jet-crashes-in-the-wadden-sea-waddenzee-near-the-dutch-island-of-vlieland.md)
-_Context: Wadden Sea, Netherlands, F-16, Belgian Air Force, Vlieland, ejected_
+_Context: ejected, F-16, Wadden Sea, Vlieland, Belgian Air Force, Netherlands_
 
 ##### China
 ### [ People's Republic of China President Hu Jintao meets with Canadian Prime Minister Paul Martin in Ottawa. The event is met with protesters and supporters of the Chinese government. Martin and Hu agree on a new "Strategic Partnership", and sign a series of agreements on transportation, food inspection, and scientific research. Hu also meets with Governor General Adrienne Clarkson. ](/news/2005/09/9/people-s-republic-of-china-president-hu-jintao-meets-with-canadian-prime-minister-paul-martin-in-ottawa-the-event-is-met-with-protesters-a.md)
-_Context: Paul Martin, China, Canadian, Governor General of Canada, Prime Minister of Canada, Adrienne Clarkson, Hu Jintao, Chinese President_
+_Context: Paul Martin, Adrienne Clarkson, Chinese President, China, Canadian, Prime Minister of Canada, Governor General of Canada, Hu Jintao_
 
 ##### Grand jury
 ### [ A federal grand jury in Providence, Rhode Island indicts Richard Hatch, winner of "Survivor: Pulau Tiga", for income tax evasion and fraud for allegedly failing to pay taxes on his winnings and misusing charity funds. ](/news/2005/09/9/a-federal-grand-jury-in-providence-rhode-island-indicts-richard-hatch-winner-of-survivor-pulau-tiga-for-income-tax-evasion-and-fraud.md)
-_Context: Survivor: Pulau Tiga, Providence, Rhode Island, Richard Hatch, Rhode Island, income tax, presumption of innocence, evasion, fraud, grand jury, indicted_
+_Context: fraud, Survivor: Pulau Tiga, Rhode Island, indicted, evasion, Providence, Rhode Island, presumption of innocence, income tax, Richard Hatch, grand jury_
 
 ##### Earthquake
 ### [ An earthquake measuring 7.3 on the Richter scale is detected off the eastern coast of Papua New Guinea, though no damage has been recorded. ](/news/2005/09/9/an-earthquake-measuring-7-3-on-the-richter-scale-is-detected-off-the-eastern-coast-of-papua-new-guinea-though-no-damage-has-been-recorded.md)
-_Context: earthquake, Richter scale, Papua New Guinea_
+_Context: Papua New Guinea, Richter scale, earthquake_
 
 ##### Kim Beazley
 ### [ Australian Federal Opposition Leader Kim Beazley says the Australian Government's proposed new anti-terrorism laws would not deter terrorism. Others say the laws would radicalise young Muslims and civil liberty groups say the laws would make Australian society more dangerous.](/news/2005/09/9/australian-federal-opposition-leader-kim-beazley-says-the-australian-government-s-proposed-new-anti-terrorism-laws-would-not-deter-terroris.md)
-_Context: anti-terrorism, Government of Australia, Kim Beazley_
+_Context: Kim Beazley, anti-terrorism, Government of Australia_
 
 ##### Australian Security Intelligence Organisation
 ### [ The Australian Security Intelligence Organisation plans to recruit an additional 500 spies for its current staffing of 1,000 to counter terrorism. ](/news/2005/09/9/the-australian-security-intelligence-organisation-plans-to-recruit-an-additional-500-spies-for-its-current-staffing-of-1-000-to-counter-ter.md)

@@ -21,7 +21,7 @@ WELLINGTON (Reuters Life!) - New Zealand will name a part of its highest mountai
 
 ##### Stock market
 ### [Stock markets in Asia and Australia continue to rebound after the United States Federal Reserve promises to keep interest rates near zero for two years. ](/news/2011/08/10/stock-markets-in-asia-and-australia-continue-to-rebound-after-the-united-states-federal-reserve-promises-to-keep-interest-rates-near-zero-fo.md)
-_Context: Australia, interest rates, Stock market, United States Federal Reserve, Asia_
+_Context: Stock market, Australia, Asia, interest rates, United States Federal Reserve_
 
 ##### Trade deficit
 ### [The trade surplus of the People's Republic of China rises to US$31.5 billion in July, the highest level in two years. ](/news/2011/08/10/the-trade-surplus-of-the-people-s-republic-of-china-rises-to-us-31-5-billion-in-july-the-highest-level-in-two-years.md)
@@ -29,7 +29,7 @@ _Context: China, trade deficit_
 
 ##### Australia
 ### [Australia's Civil Aviation Safety Authority gives Tiger Airways the all clear to resume operations after a six-week suspension for safety violations. ](/news/2011/08/10/australia-s-civil-aviation-safety-authority-gives-tiger-airways-the-all-clear-to-resume-operations-after-a-six-week-suspension-for-safety-vi.md)
-_Context: Australia, Tiger Airways, Civil Aviation Safety Authority_
+_Context: Tiger Airways, Civil Aviation Safety Authority, Australia_
 
 ##### Australian
 ### [Australian crime figure Judy Moran is sentenced to 26 years in jail for her part in the murder of Des "Tuppence" Moran in Melbourne with the actual murderer Geoffrey Armour also sentenced to 26 years. ](/news/2011/08/10/australian-crime-figure-judy-moran-is-sentenced-to-26-years-in-jail-for-her-part-in-the-murder-of-des-tuppence-moran-in-melbourne-with-the.md)

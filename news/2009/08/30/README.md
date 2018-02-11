@@ -29,11 +29,11 @@ _Context: Yaounde, Cameroon_
 
 ##### Internal conflict in Peru
 ### [ The remains of 92 victims of a military massacre in Putis, Peru, are laid to rest 25 years later.](/news/2009/08/30/the-remains-of-92-victims-of-a-military-massacre-in-putis-peru-are-laid-to-rest-25-years-later.md)
-_Context: Putis, Internal conflict in Peru, Peru_
+_Context: Internal conflict in Peru, Peru, Putis_
 
 ##### Ehud Olmert
 ### [ Ehud Olmert is indicted on three counts of corruption, becoming the first ex-Prime Minister of Israel to face criminal charges. ](/news/2009/08/30/ehud-olmert-is-indicted-on-three-counts-of-corruption-becoming-the-first-ex-prime-minister-of-israel-to-face-criminal-charges.md)
-_Context: Ehud Olmert, Israel_
+_Context: Israel, Ehud Olmert_
 
 ##### Al Qaeda
 ### [ Al Qaeda claims responsibility for the attempted assassination on Saudi Prince Muhammad bin Nayef. ](/news/2009/08/30/al-qaeda-claims-responsibility-for-the-attempted-assassination-on-saudi-prince-muhammad-bin-nayef.md)
@@ -45,7 +45,7 @@ _Context: President, Mahmoud Ahmadinejad, Iran, Islamic Consultative Assembly of
 
 ##### Burma
 ### [ Burma says 26 government troops and 8 rebels were killed during violence in the Kokang region of Shan State. ](/news/2009/08/30/burma-says-26-government-troops-and-8-rebels-were-killed-during-violence-in-the-kokang-region-of-shan-state.md)
-_Context: Kokang, Myanmar Armed Forces, rebels, Burma, Shan State, violence_
+_Context: Kokang, Shan State, violence, rebels, Burma, Myanmar Armed Forces_
 
 ##### 14th Dalai Lama
 ### [ The Dalai Lama begins a visit to Taiwan, amid criticism from China. ](/news/2009/08/30/the-dalai-lama-begins-a-visit-to-taiwan-amid-criticism-from-china.md)

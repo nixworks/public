@@ -5,19 +5,19 @@ Formats: [HTML](2007/07/10/index.html)  [JSON](2007/07/10/index.json)  [XML](200
 
 ##### President
 ### [ President Luiz Incio Lula da Silva announces plans to build a nuclear-powered submarine to patrol the waters off Brazil's coast at a cost of US$500 million. ](/news/2007/07/10/president-luiz-inacio-lula-da-silva-announces-plans-to-build-a-nuclear-powered-submarine-to-patrol-the-waters-off-brazil-s-coast-at-a-cost.md)
-_Context: Brazil, president, $, nuclear submarine, Luiz Incio Lula da Silva_
+_Context: president, $, Brazil, Luiz Incio Lula da Silva, nuclear submarine_
 
 ##### Mexican
 ### [ Mexico's Interior Ministry increases security on strategic installations following attacks on pipelines. The People's Revolutionary Army (EPR) has claimed responsibility. ](/news/2007/07/10/mexico-s-interior-ministry-increases-security-on-strategic-installations-following-attacks-on-pipelines-the-people-s-revolutionary-army-e.md)
-_Context: Mexican, People's Revolutionary Army, line, Secretary of the Interior_
+_Context: line, Mexican, People's Revolutionary Army, Secretary of the Interior_
 
 ##### Muammar al-Gaddafi
 ### [ The Gadhafi Foundation announces a deal has been reached with families of more than 400 children infected with HIV in the case of five Bulgarian nurses and a Palestinian doctor. ](/news/2007/07/10/the-gadhafi-foundation-announces-a-deal-has-been-reached-with-families-of-more-than-400-children-infected-with-hiv-in-the-case-of-five-bulg.md)
-_Context: Bulgaria, Palestinian, HIV, Muammar al-Gaddafi_
+_Context: Bulgaria, HIV, Palestinian, Muammar al-Gaddafi_
 
 ##### European Union
 ### [ The European Union chooses Dominique Strauss-Kahn as its nominee to head the International Monetary Fund, making him the frontrunner to fill the position in October. ](/news/2007/07/10/the-european-union-chooses-dominique-strauss-kahn-as-its-nominee-to-head-the-international-monetary-fund-making-him-the-frontrunner-to-fil.md)
-_Context: European Union, International Monetary Fund, Dominique Strauss-Kahn_
+_Context: International Monetary Fund, Dominique Strauss-Kahn, European Union_
 
 ##### Maoist
 ### [ All 24 police officers missing after a fight between police and Maoist insurgents in Chhattisgarh central India have been found dead. ](/news/2007/07/10/all-24-police-officers-missing-after-a-fight-between-police-and-maoist-insurgents-in-chhattisgarh-central-india-have-been-found-dead.md)
@@ -25,43 +25,43 @@ _Context: Chhattisgarh, Maoist, India_
 
 ##### Amy St. Eve
 ### [ Amy St. Eve, the judge in the Conrad Black fraud case, orders the jury to go back to work after it advised her that it couldn't reach a verdict on all the counts before it. ](/news/2007/07/10/amy-st-eve-the-judge-in-the-conrad-black-fraud-case-orders-the-jury-to-go-back-to-work-after-it-advised-her-that-it-couldn-t-reach-a-ver.md)
-_Context: Amy St. Eve, Conrad Black, fraud_
+_Context: Amy St. Eve, fraud, Conrad Black_
 
 ##### Ral Castro
 ### [ Ral Castro, the interim leader of Cuba, sets a date in late October for local elections. ](/news/2007/07/10/raul-castro-the-interim-leader-of-cuba-sets-a-date-in-late-october-for-local-elections.md)
-_Context: local elections, October, Cuba, interim leader, Ral Castro_
+_Context: interim leader, Cuba, Ral Castro, October, local elections_
 
 ##### Chester Turner
 ### [ Chester Turner is sentenced to death for the murder of ten women and an unborn child in Los Angeles, California in the 1980s and 1990s. ](/news/2007/07/10/chester-turner-is-sentenced-to-death-for-the-murder-of-ten-women-and-an-unborn-child-in-los-angeles-california-in-the-1980s-and-1990s.md)
-_Context: Los Angeles, California, Chester Turner_
+_Context: Chester Turner, Los Angeles, California_
 
 ##### Pope Benedict XVI
 ### [ Pope Benedict XVI approves a document issued by the Congregation for the Doctrine of the Faith which redeclares the doctrine of Extra Ecclesiam nulla salus, that only the Roman Catholic Church is the true Christian church, and no other Christian denomination has the "means of salvation." ](/news/2007/07/10/pope-benedict-xvi-approves-a-document-issued-by-the-congregation-for-the-doctrine-of-the-faith-which-redeclares-the-doctrine-of-extra-eccle.md)
-_Context: Christian, Extra Ecclesiam nulla salus, Congregation for the Doctrine of the Faith, Roman Catholic Church, Pope Benedict XVI, salvation_
+_Context: Christian, Pope Benedict XVI, Congregation for the Doctrine of the Faith, Extra Ecclesiam nulla salus, salvation, Roman Catholic Church_
 
 ##### Green Zone
 ### [ Mortars hit the Green Zone in Baghdad. The Green Zone has been attacked at least 80 times since March, killing 26. ](/news/2007/07/10/mortars-hit-the-green-zone-in-baghdad-the-green-zone-has-been-attacked-at-least-80-times-since-march-killing-26.md)
-_Context: Baghdad, Green Zone_
+_Context: Green Zone, Baghdad_
 
 ##### Cessna 310
 ### [ A Cessna 310 registered to the Competitor Liaison Bureau, an arm of NASCAR, attempting an emergency landing at Orlando Sanford International Airport crashes into two homes in Sanford, Florida. Three people in one of the homes are critically injured, and a fourth person, a four-year-old girl, died; an off-duty firefighter that first responded to the scene was also injured. Two people in the other house and both the pilot and passenger in the Cessna are killed; the passenger was Dr. Bruce Kennedy, husband of International Speedway Corporation president Lesa Kennedy and brother-in-law of NASCAR chief Brian France. ](/news/2007/07/10/a-cessna-310-registered-to-the-competitor-liaison-bureau-an-arm-of-nascar-attempting-an-emergency-landing-at-orlando-sanford-internationa.md)
-_Context: the state, Brian France, emergency landing, a suburb of Orlando, Lesa Kennedy, Orlando Sanford International Airport, Cessna 310, International Speedway Corporation, NASCAR_
+_Context: the state, Cessna 310, Orlando Sanford International Airport, NASCAR, emergency landing, a suburb of Orlando, International Speedway Corporation, Brian France, Lesa Kennedy_
 
 ##### Julian Moti
 ### [ Julian Moti is appointed as the Attorney-General of the Solomon Islands despite being wanted in Australia on child sex charges. ](/news/2007/07/10/julian-moti-is-appointed-as-the-attorney-general-of-the-solomon-islands-despite-being-wanted-in-australia-on-child-sex-charges.md)
-_Context: child-sex, Australia, Solomon Islands, Julian Moti_
+_Context: child-sex, Solomon Islands, Australia, Julian Moti_
 
 ##### Simn Trinidad
 ### [ Simn Trinidad, a high-ranking member of the Revolutionary Armed Forces of Colombia, is found guilty of conspiracy to hold three Americans hostage by a U.S. court. ](/news/2007/07/10/simon-trinidad-a-high-ranking-member-of-the-revolutionary-armed-forces-of-colombia-is-found-guilty-of-conspiracy-to-hold-three-americans.md)
-_Context: Simn Trinidad, United States, Revolutionary Armed Forces of Colombia_
+_Context: American, Revolutionary Armed Forces of Colombia, Simn Trinidad_
 
 ##### Captive Nations Week
 ### [ In observance of Captive Nations Week, there was a brief ceremony and laying of a wreath today at the Victims of Communism Memorial, Massachusetts and New Jersey Avenues, NW, Washington, D.C.. On 10 July, George W. Bush issued a Proclamation, designating July 15 through 21 as Captive Nations Week and called upon the American people to reaffirm the country's "commitment to all those seeking liberty, justice and self-determination." This year marks the 49th observance of Captive Nations Week. ](/news/2007/07/10/in-observance-of-captive-nations-week-there-was-a-brief-ceremony-and-laying-of-a-wreath-today-at-the-victims-of-communism-memorial-massac.md)
-_Context: Washington, D.C., 10 July, self-determination, George W. Bush, Massachusetts, United States, Captive Nations Week, Communist, Proclamation_
+_Context: Washington, D.C., George W. Bush, self-determination, 10 July, Communist, American, Proclamation, Captive Nations Week, Massachusetts_
 
 ##### Thailand
 ### [ Thailand's highest court rules that a corruption case may proceed against former Prime Minister of Thailand Thaksin Shinawatra. ](/news/2007/07/10/thailand-s-highest-court-rules-that-a-corruption-case-may-proceed-against-former-prime-minister-of-thailand-thaksin-shinawatra.md)
-_Context: Thaksin Shinawatra, Prime Minister, Thailand_
+_Context: Prime Minister, Thaksin Shinawatra, Thailand_
 
 ##### China
 ### [ China executes the former head of the State Food and Drug Association Zheng Xiaoyu for corruption. ](/news/2007/07/10/china-executes-the-former-head-of-the-state-food-and-drug-association-zheng-xiaoyu-for-corruption.md)
@@ -69,7 +69,7 @@ China executed the former head of its State Food and Drug Administration on Tues
 
 ##### Sri Lankan Tamil
 ### [ A Tamil man from Sydney is charged with multiple terrorism charges over alleged links with the Tamil Tigers. ](/news/2007/07/10/a-tamil-man-from-sydney-is-charged-with-multiple-terrorism-charges-over-alleged-links-with-the-tamil-tigers.md)
-_Context: terrorism, Sydney, Sri Lankan Tamil, Tamil Tigers_
+_Context: terrorism, Tamil Tigers, Sydney, Sri Lankan Tamil_
 
 ## [Previous Day...](/news/2007/07/9/index.md)
 

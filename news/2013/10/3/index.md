@@ -13,7 +13,7 @@ Fifteen people are killed as five attackers, including at least three suicide bo
 
 ##### Antitrust
 ### [The antitrust chief of the European Union, Joaquin Almunia, discusses coming charges against Gazprom, the Russian natural gas monopolist. ](/news/2013/10/3/the-antitrust-chief-of-the-european-union-joaquin-almunia-discusses-coming-charges-against-gazprom-the-russian-natural-gas-monopolist.md)
-_Context: antitrust, European Union, Russia, Joaquin Almunia, Gazprom_
+_Context: antitrust, Russia, Gazprom, European Union, Joaquin Almunia_
 
 ##### Twitter Inc.
 ### [Twitter Inc. publicly files IPO related disclosure documents. ](/news/2013/10/3/twitter-inc-publicly-files-ipo-related-disclosure-documents.md)

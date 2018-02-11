@@ -5,11 +5,11 @@ Formats: [HTML](2009/01/12/index.html)  [JSON](2009/01/12/index.json)  [XML](200
 
 ##### Flooding
 ### [ Flooding caused by Tropical Depression 04F kills eight people and displaces more than 6,000 in Fiji. ](/news/2009/01/12/flooding-caused-by-tropical-depression-04f-kills-eight-people-and-displaces-more-than-6-000-in-fiji.md)
-_Context: Flooding, Fiji, Tropical Depression 04F_
+_Context: Tropical Depression 04F, Fiji, Flooding_
 
 ##### Urban warfare
 ### [ Urban warfare begins between Israeli Defense Forces and Hamas militants as the former push further into Gaza City. ](/news/2009/01/12/urban-warfare-begins-between-israeli-defense-forces-and-hamas-militants-as-the-former-push-further-into-gaza-city.md)
-_Context: Urban warfare, Hamas, Gaza, militant, fire, Israel Defense Forces, Israel_
+_Context: Israeli Army, militant, Urban warfare, Gaza, fire, Hamas, Israel_
 
 ##### Ferry
 ### [ The Indonesian ferry MV "Teratai Prima" capsizes and sinks off Sulawesi, Indonesia, killing more than 230 people. ](/news/2009/01/12/the-indonesian-ferry-mv-teratai-prima-capsizes-and-sinks-off-sulawesi-indonesia-killing-more-than-230-people.md)
@@ -17,7 +17,7 @@ Rescue teams returned empty-handed Tuesday from searches in choppy Indonesian se
 
 ##### Iraq
 ### [ Iraqi Security Forces announce that they have captured Tha'ir Kadhim Sraiwi, the alleged leader of Salafi terrorist group Jamaat Ansar al-Sunna. ](/news/2009/01/12/iraqi-security-forces-announce-that-they-have-captured-tha-ir-kadhim-sraiwi-the-alleged-leader-of-salafi-terrorist-group-jamaat-ansar-al-s.md)
-_Context: group, Jamaat Ansar al-Sunna, Iraq, terrorist, Iraqi security forces, Salafi_
+_Context: Iraq, Jamaat Ansar al-Sunna, Iraqi security forces, group, terrorist, Salafi_
 
 ## [Previous Day...](/news/2009/01/11/index.md)
 

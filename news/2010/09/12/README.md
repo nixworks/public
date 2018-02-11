@@ -3,11 +3,11 @@ Formats: [HTML](2010/09/12/index.html)  [JSON](2010/09/12/index.json)  [XML](201
 
 ## [2010-09-12](/news/2010/09/12/index.md)
 
-##### United States
+##### American
 ### [At least 3 people are killed by a United States missile attack on a home where associates of Tehrik-i-Taliban Pakistan chief Hafiz Gul Bahadur were believed to be staying in northwest Pakistan. ](/news/2010/09/12/at-least-3-people-are-killed-by-a-united-states-missile-attack-on-a-home-where-associates-of-tehrik-i-taliban-pakistan-chief-hafiz-gul-bahad.md)
 A suspected U.S. missile strike Sunday killed at least five associates of a warlord who is fighting Western troops in Afghanistan, intelligence officials said.
 
-##### Israel Defense Forces
+##### Israeli Army
 ### [Israeli soldiers identify a group of armed men approaching Israel from Gaza near Kibbutz Erez, killing three; Palestinian sources claim that two were farmers. ](/news/2010/09/12/israeli-soldiers-identify-a-group-of-armed-men-approaching-israel-from-gaza-near-kibbutz-erez-killing-three-palestinian-sources-claim-that.md)
 Soldiers identify a group of armed men approaching security fence near Kibbutz Erez and kill 3; IDF reports no soldier casualties.
 
@@ -29,7 +29,7 @@ Claude&#x20;Chabrol&#x20;&#x28;pictured&#x29;,&#x20;film&#x20;director&#x20;and&
 
 ##### Lady Gaga
 ### [Lady Gaga wins eight MTV Video Music Awards at the 2010 ceremony including Video of the Year for "Bad Romance". ](/news/2010/09/12/lady-gaga-wins-eight-mtv-video-music-awards-at-the-2010-ceremony-including-video-of-the-year-for-bad-romance.md)
-_Context: Lady Gaga, 2010 ceremony, MTV Video Music Awards, Bad Romance_
+_Context: MTV Video Music Awards, Lady Gaga, Bad Romance, 2010 ceremony_
 
 ##### 2010 Copiap mining accident
 ### [The 33 miners involved in the 2010 Copiap mining accident are permitted to smoke cigarettes after one month of underground entrapment. ](/news/2010/09/12/the-33-miners-involved-in-the-2010-copiapo-mining-accident-are-permitted-to-smoke-cigarettes-after-one-month-of-underground-entrapment.md)
@@ -65,11 +65,11 @@ Iranian authorities are ready to release on $500,000 (£325,000) bail one of the
 
 ##### Mexican marines
 ### [Mexican marines capture alleged Beltrn Leyva Cartel leader Sergio Villarreal Barragn in the state of Puebla. ](/news/2010/09/12/mexican-marines-capture-alleged-beltran-leyva-cartel-leader-sergio-villarreal-barragan-in-the-state-of-puebla.md)
-_Context: Beltrn Leyva Cartel, Sergio Villarreal Barragn, Puebla, Mexican marines_
+_Context: Puebla, Mexican marines, Beltrn Leyva Cartel, Sergio Villarreal Barragn_
 
 ##### Russian President
 ### [President of Russia Dmitry Medvedev approves a plan to overhaul Russia's police system. ](/news/2010/09/12/president-of-russia-dmitry-medvedev-approves-a-plan-to-overhaul-russia-s-police-system.md)
-_Context: Russian President, Russia, state police, Dmitry Medvedev_
+_Context: state police, Dmitry Medvedev, Russian President, Russia_
 
 ##### Malaysia
 ### [Malaysia's police force is debated following the fatal shooting of a 15-year-old boy. ](/news/2010/09/12/malaysia-s-police-force-is-debated-following-the-fatal-shooting-of-a-15-year-old-boy.md)

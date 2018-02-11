@@ -17,7 +17,7 @@ Mr. Clancy’s books were successfully transformed into blockbuster Hollywood fi
 
 ##### I-40
 ### [An accident involving a church bus, a tractor-trailer, and an SUV on I-40 in Jefferson County, Tennessee, leaves eight dead and 14 injured. ](/news/2013/10/2/an-accident-involving-a-church-bus-a-tractor-trailer-and-an-suv-on-i-40-in-jefferson-county-tennessee-leaves-eight-dead-and-14-injured.md)
-_Context: I-40, Jefferson County, Tennessee_
+_Context: Jefferson County, Tennessee, I-40_
 
 ##### Silk Road
 ### [Law enforcement in the U.S. shuts down "Silk Road," an internet marketplace for various illegal activities including the illicit drug trade, and arrests its alleged principal, Ross Ulbricht. ](/news/2013/10/2/law-enforcement-in-the-u-s-shuts-down-silk-road-an-internet-marketplace-for-various-illegal-activities-including-the-illicit-drug-trade.md)

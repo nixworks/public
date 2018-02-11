@@ -9,7 +9,7 @@ Thailand&#039;s anti-government protesters have given tacit support to a plan fo
 
 ##### Argentine
 ### [Former Argentine President Nstor Kirchner is unanimously elected the first Secretary General of the Union of South American Nations (Unasur) at a heads of state summit held in Campana, Argentina. ](/news/2010/05/4/former-argentine-president-nestor-kirchner-is-unanimously-elected-the-first-secretary-general-of-the-union-of-south-american-nations-unasur.md)
-_Context: Argentina, Nstor Kirchner, Union of South American Nations, heads of state, Campana, Argentine, President_
+_Context: Argentina, Nstor Kirchner, Union of South American Nations, heads of state, Argentine, Campana, President_
 
 ##### United States authorities
 ### [U.S. Customs and Border Protection agents arrest Faisal Shahzad, a naturalized U.S. citizen from Pakistan, in connection with the attempted car bombing in Times Square as he tried to flee the country. ](/news/2010/05/4/u-s-customs-and-border-protection-agents-arrest-faisal-shahzad-a-naturalized-u-s-citizen-from-pakistan-in-connection-with-the-attempted.md)
@@ -41,7 +41,7 @@ _Context: Hohhot, Inner Mongolia_
 
 ##### Remembrance of the Dead
 ### [Dozens of people are injured when panic breaks out at the Remembrance of the Dead in Amsterdam, the Netherlands. ](/news/2010/05/4/dozens-of-people-are-injured-when-panic-breaks-out-at-the-remembrance-of-the-dead-in-amsterdam-the-netherlands.md)
-_Context: Netherlands, Remembrance of the Dead, Amsterdam_
+_Context: Remembrance of the Dead, Amsterdam, Netherlands_
 
 ##### Snubfin dolphin
 ### [Experts announce a rescue plan intended to preserve the existence of the endangered snubfin dolphin, the only dolphin unique to Australia. ](/news/2010/05/4/experts-announce-a-rescue-plan-intended-to-preserve-the-existence-of-the-endangered-snubfin-dolphin-the-only-dolphin-unique-to-australia.md)

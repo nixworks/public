@@ -17,11 +17,11 @@ _Context: Latin, Internet Corporation for Assigned Names and Numbers_
 
 ##### NASA
 ### [ NASA reveals that a partial parachute failure resulted in damage to the Ares I-X test booster upon splashdown in the Atlantic Ocean following its test flight on Wednesday. ](/news/2009/10/30/nasa-reveals-that-a-partial-parachute-failure-resulted-in-damage-to-the-ares-i-x-test-booster-upon-splashdown-in-the-atlantic-ocean-followi.md)
-_Context: Ares I-X, parachute, NASA, Atlantic Ocean, splashdown_
+_Context: splashdown, Ares I-X, parachute, NASA, Atlantic Ocean_
 
-##### United States
+##### American
 ### [ A U.S. judge orders a trial for two doctors and a lawyer accused of providing American sex symbol Anna Nicole Smith with drugs. ](/news/2009/10/30/a-u-s-judge-orders-a-trial-for-two-doctors-and-a-lawyer-accused-of-providing-american-sex-symbol-anna-nicole-smith-with-drugs.md)
-_Context: United States, sex symbol, Anna Nicole Smith_
+_Context: American, Anna Nicole Smith, sex symbol_
 
 ##### African Union
 ### [ African Union leaders agree to establish a hybrid court to end the Darfur conflict in western Sudan. ](/news/2009/10/30/african-union-leaders-agree-to-establish-a-hybrid-court-to-end-the-darfur-conflict-in-western-sudan.md)
@@ -33,23 +33,23 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 
 ##### France
 ### [ Former French President Jacques Chirac is ordered to stand trial on corruption charges. ](/news/2009/10/30/former-french-president-jacques-chirac-is-ordered-to-stand-trial-on-corruption-charges.md)
-_Context: corruption, Jacques Chirac, France, French President_
+_Context: France, corruption, Jacques Chirac, French President_
 
 ##### Honduras
 ### [ Honduras' de facto leader Roberto Micheletti and ousted President Manuel Zelaya agree a deal to end the political crisis, reinstating Zelaya as President. ](/news/2009/10/30/honduras-de-facto-leader-roberto-micheletti-and-ousted-president-manuel-zelaya-agree-a-deal-to-end-the-political-crisis-reinstating-zelay.md)
-_Context: Honduras, Manuel Zelaya, Roberto Micheletti, political crisis in the country, President_
+_Context: Manuel Zelaya, Roberto Micheletti, political crisis in the country, President, Honduras_
 
 ##### South Korea
 ### [ South Korea's spy agency, the National Intelligence Service, names North Korea's telecommunications ministry as responsible for a wave of cyber attacks in July. ](/news/2009/10/30/south-korea-s-spy-agency-the-national-intelligence-service-names-north-korea-s-telecommunications-ministry-as-responsible-for-a-wave-of-c.md)
-_Context: wave of cyber attacks, South Korea, South Korea's intelligence agency, North Korea_
+_Context: South Korea, wave of cyber attacks, South Korea's intelligence agency, North Korea_
 
 ##### Large fire
 ### [ A large fire at an oil depot on the outskirts of Jaipur, Rajasthan, India, leaves six people dead and around 135 injured. ](/news/2009/10/30/a-large-fire-at-an-oil-depot-on-the-outskirts-of-jaipur-rajasthan-india-leaves-six-people-dead-and-around-135-injured.md)
-_Context: Jaipur, Rajasthan, oil depot, large fire, India_
+_Context: oil depot, large fire, India, Jaipur, Rajasthan_
 
 ##### Taiwan
 ### [ Taiwan's President Ma Ying-jeou calls on China to remove missiles targeting the island. ](/news/2009/10/30/taiwan-s-president-ma-ying-jeou-calls-on-china-to-remove-missiles-targeting-the-island.md)
-_Context: Ma Ying-jeou, Taiwan, China, President_
+_Context: Taiwan, President, China, Ma Ying-jeou_
 
 ##### Burma
 ### [ Burmese authorities arrest 50 people &ndash; including journalists, students and political activists, in a security crackdown, according to a Thailand based human rights group. ](/news/2009/10/30/burmese-authorities-arrest-50-people-ndash-including-journalists-students-and-political-activists-in-a-security-crackdown-according-to.md)

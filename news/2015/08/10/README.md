@@ -17,11 +17,11 @@ _Context: Ikea, VasterCNYs, Sweden_
 
 ##### Islamic State in Iraq and the Levant
 ### [ISIL claims responsibility for a bombing in central Iraqi city of Baquba that killed at least 30 people and injured 40 more. ](/news/2015/08/10/isil-claims-responsibility-for-a-bombing-in-central-iraqi-city-of-baquba-that-killed-at-least-30-people-and-injured-40-more.md)
-_Context: Baquba, Iraq, Islamic State in Iraq and the Levant_
+_Context: Iraq, Baquba, Islamic State in Iraq and the Levant_
 
 ##### Alphabet Inc.
 ### [Google creates a new holding company called Alphabet Inc. containing Google Inc. and Calico containing Google Ventures, Google Capital, Google X, and other subsidiaries. ](/news/2015/08/10/google-creates-a-new-holding-company-called-alphabet-inc-containing-google-inc-and-calico-containing-google-ventures-google-capital-goog.md)
-_Context: Google Ventures, Google Capital, Alphabet Inc., Google, Calico, Google_
+_Context: Google, Google Capital, Google, Calico, Google Ventures, Alphabet Inc._
 
 ##### Floods in Myanmar
 ### [The death toll from floods in Myanmar tops 100 with more than a million people affected. ](/news/2015/08/10/the-death-toll-from-floods-in-myanmar-tops-100-with-more-than-a-million-people-affected.md)

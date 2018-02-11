@@ -17,11 +17,11 @@ _Context: Dakar_
 
 ##### Suleja
 ### [Five people are injured in a bomb explosion near a church in Suleja, Nigeria. ](/news/2012/02/19/five-people-are-injured-in-a-bomb-explosion-near-a-church-in-suleja-nigeria.md)
-_Context: Suleja, Nigeria_
+_Context: Nigeria, Suleja_
 
 ##### Suicide bomber
 ### [A suicide bomber kills at least 19 officers and cadets and injures 26 outside an Iraqi police academy in northeastern Baghdad. ](/news/2012/02/19/a-suicide-bomber-kills-at-least-19-officers-and-cadets-and-injures-26-outside-an-iraqi-police-academy-in-northeastern-baghdad.md)
-_Context: suicide bomber, Iraqi police, Baghdad_
+_Context: suicide bomber, Baghdad, Iraqi police_
 
 ##### Chad
 ### [Rebels from Chad rob 40 people &ndash; including a local government official &ndash; in attacks in the Central African Republic. ](/news/2012/02/19/rebels-from-chad-rob-40-people-ndash-including-a-local-government-official-ndash-in-attacks-in-the-central-african-republic.md)
@@ -89,11 +89,11 @@ On the second day of an Irish visit that focused on trade, Chinese Vice Presiden
 
 ##### Burma
 ### [Burmese dissident monk U Gambira, released last month from prison, is to face trial on charges breaking into and squatting in monasteries. ](/news/2012/02/19/burmese-dissident-monk-u-gambira-released-last-month-from-prison-is-to-face-trial-on-charges-breaking-into-and-squatting-in-monasteries.md)
-_Context: Burma, monastery, U Gambira_
+_Context: monastery, Burma, U Gambira_
 
 ##### Mexican
 ### [A fight amongst inmates leads to a prison riot in the Mexican city of Apodaca, Nuevo Leon, with 44 people dead. ](/news/2012/02/19/a-fight-amongst-inmates-leads-to-a-prison-riot-in-the-mexican-city-of-apodaca-nuevo-lea3n-with-44-people-dead.md)
-_Context: Nuevo Leon, Apodaca, Mexican_
+_Context: Mexican, Nuevo Leon, Apodaca_
 
 ##### Hosni Mubarak
 ### [Egyptian election officials fail to confirm the date of the first presidential election since Hosni Mubarak was ousted from power in last year's revolution. ](/news/2012/02/19/egyptian-election-officials-fail-to-confirm-the-date-of-the-first-presidential-election-since-hosni-mubarak-was-ousted-from-power-in-last-ye.md)

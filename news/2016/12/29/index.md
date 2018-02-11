@@ -17,13 +17,13 @@ Academic refuses honour in protest against ‘those who remained unresponsive’
 
 ##### Bank of Italy
 ### [The Bank of Italy says in a statement that the country's treasury will have to put up around 6.6 billion euros to rescue Monte dei Paschi given the European Central Bank's estimate of Monte dei Paschi's capital shortfall. ](/news/2016/12/29/the-bank-of-italy-says-in-a-statement-that-the-country-s-treasury-will-have-to-put-up-around-6-6-billion-euros-to-rescue-monte-dei-paschi-gi.md)
-_Context: Monte dei Paschi, European Central Bank, Bank of Italy_
+_Context: Monte dei Paschi, Bank of Italy, European Central Bank_
 
 ##### 
 ### [At least 50 people drown and thousands are left homeless due to flooding in the Democratic Republic of the Congo. ](/news/2016/12/29/at-least-50-people-drown-and-thousands-are-left-homeless-due-to-flooding-in-the-democratic-republic-of-the-congo.md)
 Floods&#x20;triggered&#x20;by&#x20;heavy&#x20;rains&#x20;and&#x20;a&#x20;river&#x20;bursting&#x20;its&#x20;banks&#x20;have&#x20;killed&#x20;at&#x20;least&#x20;50&#x20;people&#x20;and&#x20;left&#x20;thousands&#x20;homeless&#x20;in&#x20;the&#x20;southwest&#x20;Democratic&#x20;Republic&#x20;of&#x20;Con...
 
-##### United States
+##### American
 ### [The United States expels 35 Russian diplomats over the alleged Russian interference during the U.S.'s 2016 presidential election. ](/news/2016/12/29/the-united-states-expels-35-russian-diplomats-over-the-alleged-russian-interference-during-the-u-s-s-2016-presidential-election.md)
 The US expels 35 Russian diplomats in the wake of cyber attacks related to the US election.
 
@@ -31,11 +31,11 @@ The US expels 35 Russian diplomats in the wake of cyber attacks related to the U
 ### [The Egyptian government approves a deal granting two Red Sea islands to Saudi Arabia. ](/news/2016/12/29/the-egyptian-government-approves-a-deal-granting-two-red-sea-islands-to-saudi-arabia.md)
 ##### Kyriakos Amiridis
 ### [The Ambassador of Greece to Brazil, Kyriakos Amiridis, is reported missing while on vacation in Rio de Janeiro. A homicide team is investigating his disappearance. ](/news/2016/12/29/the-ambassador-of-greece-to-brazil-kyriakos-amiridis-is-reported-missing-while-on-vacation-in-rio-de-janeiro-a-homicide-team-is-investiga.md)
-_Context: Kyriakos Amiridis, Rio de Janeiro_
+_Context: Rio de Janeiro, Kyriakos Amiridis_
 
 ##### Ahmet Sik
 ### [Turkish journalist Ahmet Sik is arrested in Istanbul, allegedly over a social media posting. ](/news/2016/12/29/turkish-journalist-ahmet-aa-k-is-arrested-in-istanbul-allegedly-over-a-social-media-posting.md)
-_Context: Istanbul, Ahmet Sik_
+_Context: Ahmet Sik, Istanbul_
 
 ##### Pakistan
 ### [Naveed Baloch, the man from Pakistan who was wrongly arrested in the aftermath of the recent attack on a Christmas market in Berlin, gives an interview outlining the conditions in which he was held and reveals he is now in hiding amid fears for his life. ](/news/2016/12/29/naveed-baloch-the-man-from-pakistan-who-was-wrongly-arrested-in-the-aftermath-of-the-recent-attack-on-a-christmas-market-in-berlin-gives-a.md)

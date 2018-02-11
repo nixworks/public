@@ -9,7 +9,7 @@ _Context: Newfoundland and Labrador, Royal Commission_
 
 ##### Subatomic particle
 ### [ There are reports of the discovery of a possible new type of subatomic particle, a pentaquark. ](/news/2003/07/2/there-are-reports-of-the-discovery-of-a-possible-new-type-of-subatomic-particle-a-pentaquark.md)
-_Context: pentaquark, subatomic particle_
+_Context: subatomic particle, pentaquark_
 
 ## [Previous Day...](/news/2003/07/1/index.md)
 

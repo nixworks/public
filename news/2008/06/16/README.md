@@ -5,7 +5,7 @@ Formats: [HTML](2008/06/16/index.html)  [JSON](2008/06/16/index.json)  [XML](200
 
 ##### Chad
 ### [ Chadian rebels take the town Biltine as they move toward the capital N'Djamena. ](/news/2008/06/16/chadian-rebels-take-the-town-biltine-as-they-move-toward-the-capital-n-djamena.md)
-_Context: Chad, Biltine, N'Djamena_
+_Context: N'Djamena, Biltine, Chad_
 
 ##### Taliban
 ### [ Hundreds of Taliban militants swarm in the Arghandab District of Kandahar Province with the Afghan government sending reinforcements to the nearby city of Kandahar. ](/news/2008/06/16/hundreds-of-taliban-militants-swarm-in-the-arghandab-district-of-kandahar-province-with-the-afghan-government-sending-reinforcements-to-the.md)
@@ -17,7 +17,7 @@ California beginsmarrying gay and lesbian couples on Monday afternoon in a stepl
 
 ##### ICC
 ### [ International Criminal Court judges severely criticize prosecutors in the case against Thomas Lubanga. ](/news/2008/06/16/international-criminal-court-judges-severely-criticize-prosecutors-in-the-case-against-thomas-lubanga.md)
-_Context: Thomas Lubanga, ICC_
+_Context: ICC, Thomas Lubanga_
 
 ##### Israel
 ### [ Israel and Syria conclude talks on the Golan Heights issue held in Turkey. ](/news/2008/06/16/israel-and-syria-conclude-talks-on-the-golan-heights-issue-held-in-turkey.md)
@@ -29,11 +29,11 @@ _Context: conflict, Global food price crisis, Office for the Coordination of Hum
 
 ##### Tiger Woods
 ### [ Tiger Woods defeats Rocco Mediate in a playoff to win the 2008 U.S. Open Golf Championship. ](/news/2008/06/16/tiger-woods-defeats-rocco-mediate-in-a-playoff-to-win-the-2008-u-s-open-golf-championship.md)
-_Context: Tiger Woods, 2008 U.S. Open Golf Championship, Rocco Mediate_
+_Context: Tiger Woods, Rocco Mediate, 2008 U.S. Open Golf Championship_
 
 ##### European Union
 ### [ The European Union agrees to tougher sanctions against Iran for its alleged nuclear weapons program with the United Kingdom freezing assets of Iran's largest bank Bank Melli. ](/news/2008/06/16/the-european-union-agrees-to-tougher-sanctions-against-iran-for-its-alleged-nuclear-weapons-program-with-the-united-kingdom-freezing-assets.md)
-_Context: sanctions, Iran and weapons of mass destruction, European Union, Bank Melli, Iran, United Kingdom_
+_Context: European Union, Iran and weapons of mass destruction, Bank Melli, United Kingdom, sanctions, Iran_
 
 ##### France
 ### [ France announces plans to cut 54,000 defense jobs and push for a stronger European Security and Defence Policy as part of a new defense strategy. ](/news/2008/06/16/france-announces-plans-to-cut-54-000-defense-jobs-and-push-for-a-stronger-european-security-and-defence-policy-as-part-of-a-new-defense-str.md)
@@ -49,11 +49,11 @@ Japan on Monday turned back a Taiwan activist boat which approached a group of d
 
 ##### Summer 2008 China region floods
 ### [ Heavy rainstorm and major flooding continues in the South China region. Millions of people are affected in Anhui, Hunan, Jiangxi, Fujian and Guangdong. Tens of thousands of victims of the 2008 Sichuan earthquake are evacuated due to heavy rains as 65 people are dead or missing with flood warnings on the Yangtze River and Pearl River amongst other rivers. ](/news/2008/06/16/heavy-rainstorm-and-major-flooding-continues-in-the-south-china-region-millions-of-people-are-affected-in-anhui-hunan-jiangxi-fujian-an.md)
-_Context: Summer 2008 China region floods, deadly earthquake, Hunan, Guangdong, Pearl, Yangtze River, Fujian, Jiangxi, Anhui, flood_
+_Context: Summer 2008 China region floods, Anhui, Fujian, Guangdong, Jiangxi, Hunan, Pearl, deadly earthquake, flood, Yangtze River_
 
 ##### Suicide bombing
 ### [ At least 12 police officers are killed and many more people wounded by a suicide bombing outside a police station in the town of Vavuniya in northern Sri Lanka. ](/news/2008/06/16/at-least-12-police-officers-are-killed-and-many-more-people-wounded-by-a-suicide-bombing-outside-a-police-station-in-the-town-of-vavuniya-i.md)
-_Context: Sri Lanka, Vavuniya, suicide bombing_
+_Context: Vavuniya, Sri Lanka, suicide bombing_
 
 ## [Previous Day...](/news/2008/06/15/index.md)
 

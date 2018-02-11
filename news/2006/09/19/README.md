@@ -17,7 +17,7 @@ Canadian intelligence officials passed false warnings and bad information to Ame
 
 ##### Israel
 ### [ Israeli media report an explosion in Tel Aviv. Police spokesman Micky Rosenfeld said the blast appeared to be criminal in nature and not a terrorist attack. ](/news/2006/09/19/israeli-media-report-an-explosion-in-tel-aviv-police-spokesman-micky-rosenfeld-said-the-blast-appeared-to-be-criminal-in-nature-and-not-a.md)
-_Context: Tel Aviv, criminal, Israel, terrorist_
+_Context: terrorist, Israel, criminal, Tel Aviv_
 
 ##### Space Shuttle program
 ### [ The return of the space shuttle "Atlantis" is delayed by one day after a mysterious object is found floating near the shuttle. ](/news/2006/09/19/the-return-of-the-space-shuttle-atlantis-is-delayed-by-one-day-after-a-mysterious-object-is-found-floating-near-the-shuttle.md)
@@ -25,15 +25,15 @@ _Context: Space Shuttle program, Space Shuttle Atlantis_
 
 ##### Crowds of about 1,000 demonstrators
 ### [ 2006 protests in Hungary: demonstrations continue in Hungary peacefully to enforce the resignation of the Gyurcsny-government. The demonstrators expressed their regret on the vandalism done at the Hungarian Television's headquarters last night. In the meantime, farmers announced that they will close roads in the countryside and around Budapest. ](/news/2006/09/19/2006-protests-in-hungary-demonstrations-continue-in-hungary-peacefully-to-enforce-the-resignation-of-the-gyurcsany-government-the-demonst.md)
-_Context: Budapest, Gyurcsny-government, Hungary, Hungarian Television, crowds of about 1,000 demonstrators_
+_Context: Gyurcsny-government, Hungary, crowds of about 1,000 demonstrators, Hungarian Television, Budapest_
 
 ##### Controversial speech
 ### [ Pope Benedict XVI Islam controversy: In Ankara, protesters demand that the Justice Ministry arrest the Pope upon his arrival in Turkey, should he go ahead with his planned visit there in November. ](/news/2006/09/19/pope-benedict-xvi-islam-controversy-in-ankara-protesters-demand-that-the-justice-ministry-arrest-the-pope-upon-his-arrival-in-turkey-sho.md)
-_Context: controversial speech, Turkey, Ankara_
+_Context: Ankara, Turkey, controversial speech_
 
 ##### Corporal
 ### [ A corporal in the Duke of Lancaster's Regiment becomes the first British soldier to confess to committing a war crime in Iraq, after admitting inhumane treatment of civilians, at a court martial. ](/news/2006/09/19/a-corporal-in-the-duke-of-lancaster-s-regiment-becomes-the-first-british-soldier-to-confess-to-committing-a-war-crime-in-iraq-after-admitt.md)
-_Context: war crime, court martial, United Kingdom, Duke of Lancaster's Regiment, Iraq, corporal_
+_Context: Duke of Lancaster's Regiment, corporal, Iraq, war crime, United Kingdom, court martial_
 
 ## [Previous Day...](/news/2006/09/18/index.md)
 

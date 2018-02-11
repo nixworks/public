@@ -33,7 +33,7 @@ Calabasas is a city of about 24,000 northwest of downtown Los Angeles. The city 
 
 ##### Tropical Storm Colin
 ### [Tropical Storm Colin forms in the Gulf of Mexico and is likely to hit Florida's Gulf Coast tomorrow. ](/news/2016/06/5/tropical-storm-colin-forms-in-the-gulf-of-mexico-and-is-likely-to-hit-florida-s-gulf-coast-tomorrow.md)
-_Context: Gulf Coast of the United States, Gulf of Mexico, the state, Tropical Storm Colin_
+_Context: Gulf Coast of the United States, Gulf of Mexico, Tropical Storm Colin, the state_
 
 ##### Czech Republic
 ### [ Six people are hurt as an unknown assailant fires shots at a Czech tourist bus on the A7 autoroute near Saulce-sur-Rhone in southeastern France. ](/news/2016/06/5/six-people-are-hurt-as-an-unknown-assailant-fires-shots-at-a-czech-tourist-bus-on-the-a7-autoroute-near-saulce-sur-rha-ne-in-southeastern-f.md)
@@ -53,7 +53,7 @@ _Context: Romania, Romanian local elections, 2016_
 
 ##### Swiss referendums, 2016
 ### [Voters in Switzerland go to the polls to vote in a number of referenda including a proposal for a basic income of 2,500 francs a month. ](/news/2016/06/5/voters-in-switzerland-go-to-the-polls-to-vote-in-a-number-of-referenda-including-a-proposal-for-a-basic-income-of-2-500-francs-a-month.md)
-_Context: Swiss referendums, 2016, referenda, francs, basic income, Switzerland_
+_Context: francs, referenda, Swiss referendums, 2016, Switzerland, basic income_
 
 ##### Puerto Rico Democratic primary, 2016
 ### [Amid frustrations with the ongoing economic crisis, Puerto Rican Democrats vote in the Commonwealth's primary with front-runner Hillary Clinton forecast to win following yesterday's sweep in the Virgin Islands' caucus, moving even closer to locking up her party's presidential nomination. There are 60 pledged delegates at stake. ](/news/2016/06/5/amid-frustrations-with-the-ongoing-economic-crisis-puerto-rican-democrats-vote-in-the-commonwealth-s-primary-with-front-runner-hillary-clin.md)

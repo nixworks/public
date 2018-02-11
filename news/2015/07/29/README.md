@@ -29,7 +29,7 @@ When Zion Harvey was a toddler, he developed a serious infection that resulted i
 
 ##### Nigeria
 ### [Nigerian President Muhammadu Buhari visits neighboring Cameroon to bolster support for a multinational army to fight Boko Haram. ](/news/2015/07/29/nigerian-president-muhammadu-buhari-visits-neighboring-cameroon-to-bolster-support-for-a-multinational-army-to-fight-boko-haram.md)
-_Context: Boko Haram, Muhammadu Buhari, Nigeria, Cameroon_
+_Context: Muhammadu Buhari, Nigeria, Cameroon, Boko Haram_
 
 ##### University of Cincinnati
 ### [University of Cincinnati Police officer Ray Tensing is charged with murder for the July 19, 2015 shooting death of Samuel DuBose. ](/news/2015/07/29/university-of-cincinnati-police-officer-ray-tensing-is-charged-with-murder-for-the-july-19-2015-shooting-death-of-samuel-dubose.md)

@@ -9,15 +9,15 @@ _Context: Baghdad, Iraqi Police_
 
 ##### Zahra Shahid Hussain
 ### [Zahra Shahid Hussain, a senior vice-president of Imran Khan's Pakistan Tehreek-e-Insaf Party is shot dead by a gunman outside her home in Karachi. ](/news/2013/05/18/zahra-shahid-hussain-a-senior-vice-president-of-imran-khan-s-pakistan-tehreek-e-insaf-party-is-shot-dead-by-a-gunman-outside-her-home-in-ka.md)
-_Context: Imran Khan, Zahra Shahid Hussain, Karachi, Pakistan Tehreek-e-Insaf_
+_Context: Imran Khan, Karachi, Zahra Shahid Hussain, Pakistan Tehreek-e-Insaf_
 
 ##### Emmelie de Forest
 ### [Emmelie de Forest of Denmark wins the 2013 Eurovision Song Contest with the song "Only Teardrops". ](/news/2013/05/18/emmelie-de-forest-of-denmark-wins-the-2013-eurovision-song-contest-with-the-song-only-teardrops.md)
-_Context: Emmelie de Forest, Denmark, Only Teardrops, 2013, Eurovision Song Contest_
+_Context: Emmelie de Forest, Eurovision Song Contest, Only Teardrops, 2013, Denmark_
 
 ##### Powerball
 ### [A winner is found for a record $590 million Powerball jackpot with the winning ticket sold at an agent in Zephyrhills, Florida. ](/news/2013/05/18/a-winner-is-found-for-a-record-590-million-powerball-jackpot-with-the-winning-ticket-sold-at-an-agent-in-zephyrhills-florida.md)
-_Context: jackpot, the state, Powerball, Zephyrhills_
+_Context: Zephyrhills, the state, Powerball, jackpot_
 
 ##### Rome, Italy
 ### [One hundred thousand people march in Rome, the capital of Italy, to protest the austerity measures of the new government, demanding a new policy focus on the creation of jobs. ](/news/2013/05/18/one-hundred-thousand-people-march-in-rome-the-capital-of-italy-to-protest-the-austerity-measures-of-the-new-government-demanding-a-new-po.md)
@@ -37,7 +37,7 @@ _Context: Damascus, Virginia_
 
 ##### North Korea
 ### [North Korea launches three short-range missiles off its east coast and into the Sea of Japan - two in the morning and one in the afternoon. ](/news/2013/05/18/north-korea-launches-three-short-range-missiles-off-its-east-coast-and-into-the-sea-of-japan-two-in-the-morning-and-one-in-the-afternoon.md)
-_Context: launches, North Korea, Sea of Japan_
+_Context: North Korea, Sea of Japan, launches_
 
 ## [Previous Day...](/news/2013/05/17/index.md)
 

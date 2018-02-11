@@ -21,9 +21,9 @@ _Context: Sinaloa, 100 media workers killed_
 
 ##### Bangkok
 ### [Thousands of protesters fill the streets of Bangkok, Thailand, after lawmakers pass a draft bill for political amnesty which could allow self-exiled Prime Minister Thaksin Shinawatra to re-enter the country. ](/news/2013/11/5/thousands-of-protesters-fill-the-streets-of-bangkok-thailand-after-lawmakers-pass-a-draft-bill-for-political-amnesty-which-could-allow-sel.md)
-_Context: Bangkok, Thaksin Shinawatra, Prime Minister, Thailand_
+_Context: Thailand, Bangkok, Thaksin Shinawatra, Prime Minister_
 
-##### United States
+##### American
 ### [American rapper DMX is arrested in South Carolina for driving with a suspended licence, and without a vehicle tag or insurance. ](/news/2013/11/5/american-rapper-dmx-is-arrested-in-south-carolina-for-driving-with-a-suspended-licence-and-without-a-vehicle-tag-or-insurance.md)
 Rapper DMX, whose real name is EarlSimmons, was arrested outside a South Carolina airport onMonday for driving with a suspended license and without avehicle tag and insurance, according to the Spartanburg CountyDetention Center.
 
@@ -41,7 +41,7 @@ Toronto Mayor Rob Ford says admitting to the world that he smoked crack cocaine 
 
 ##### Indian Space Research Organisation
 ### [The ISRO of India launches a PSLV-XL rocket carrying the Mars Orbiter Mission probe, which will eventually be sent to Mars. ](/news/2013/11/5/the-isro-of-india-launches-a-pslv-xl-rocket-carrying-the-mars-orbiter-mission-probe-which-will-eventually-be-sent-to-mars.md)
-_Context: Indian Space Research Organisation, Mars, PSLV-C38, India, Mars Orbiter Mission_
+_Context: Mars, Mars Orbiter Mission, India, Indian Space Research Organisation, PSLV-C38_
 
 ## [Previous Day...](/news/2013/11/4/index.md)
 

@@ -9,7 +9,7 @@ U.S. climate scientist James Hansen won a $100,000 environmental prize Wednesday
 
 ##### Gay & Lesbian Alliance Against Defamation
 ### [The Gay & Lesbian Alliance Against Defamation (GLAAD) announces that the number of LGBT characters on scripted programs in the United States has doubled since 2005. ](/news/2010/04/7/the-gay-lesbian-alliance-against-defamation-glaad-announces-that-the-number-of-lgbt-characters-on-scripted-programs-in-the-united-states.md)
-_Context: United States, gay and bisexual men, Gay & Lesbian Alliance Against Defamation_
+_Context: Gay & Lesbian Alliance Against Defamation, gay and bisexual men, American_
 
 ##### Kurmanbek Bakiyev
 ### [ President Kurmanbek Bakiyev reportedly flees the country, as the government steps down and protestors overrun the parliament building. The opposition announces the formation of a new provisional government headed by Roza Otunbayeva. ](/news/2010/04/7/president-kurmanbek-bakiyev-reportedly-flees-the-country-as-the-government-steps-down-and-protestors-overrun-the-parliament-building-the.md)
@@ -29,7 +29,7 @@ According to the group, military courts in Gaza sentenced 16 people to death in 
 
 ##### Human Rights Watch
 ### [Human Rights Watch requests that the Government of Peru investigate the deaths of six civilians after police opened fire on a mining demonstration last Sunday. At least 30 others were injured. ](/news/2010/04/7/human-rights-watch-requests-that-the-government-of-peru-investigate-the-deaths-of-six-civilians-after-police-opened-fire-on-a-mining-demonst.md)
-_Context: Government of Peru, Human Rights Watch_
+_Context: Human Rights Watch, Government of Peru_
 
 ##### Brazil
 ### [Brazil is hit by a second day of heavy rain. ](/news/2010/04/7/brazil-is-hit-by-a-second-day-of-heavy-rain.md)
@@ -49,15 +49,15 @@ The chief executive of a Sydney football club says he will ignore a ruling by th
 
 ##### Prime Minister
 ### [Prime Minister of Thailand Abhisit Vejjajiva, declares a state of emergency after widespread anti-government protests and shortly after demonstrators stormed the country's parliament. ](/news/2010/04/7/prime-minister-of-thailand-abhisit-vejjajiva-declares-a-state-of-emergency-after-widespread-anti-government-protests-and-shortly-after-demo.md)
-_Context: Abhisit Vejjajiva, National Assembly of Thailand, Prime Minister_
+_Context: National Assembly of Thailand, Prime Minister, Abhisit Vejjajiva_
 
 ##### Amnesty International
 ### [Amnesty International's Secretary-General sparks a furor by saying that "jihad in self-defense" is not "antithetical" to human rights. ](/news/2010/04/7/amnesty-internationalas-secretary-general-sparks-a-furor-by-saying-that-ajihad-in-self-defensea-is-not-aantitheticala-to-human-rig.md)
-_Context: self-defense, jihad, human rights, Amnesty International_
+_Context: Amnesty International, jihad, self-defense, human rights_
 
 ##### Supreme Council of Antiquities
 ### [Sixteen countries attend a two-day conference organised by the Supreme Council of Antiquities in Cairo to discuss the retrieval of old items which were pillaged by other nations, such as the Rosetta Stone (held by the British Museum, London) and Queen Nefertitti's bust (held by the Neues Museum, Berlin). ](/news/2010/04/7/sixteen-countries-attend-a-two-day-conference-organised-by-the-supreme-council-of-antiquities-in-cairo-to-discuss-the-retrieval-of-old-items.md)
-_Context: Cairo, Nefertiti, Rosetta Stone, London, British Museum, Neues Museum, Supreme Council of Antiquities, Berlin_
+_Context: Neues Museum, Rosetta Stone, Berlin, London, Nefertiti, British Museum, Supreme Council of Antiquities, Cairo_
 
 ##### Grey Seal
 ### [A starving Grey Seal claiming to be from London Zoo is found in Skerries, Ireland. The Irish Seal Sanctuary asks the UK and Europe for help identifying it. ](/news/2010/04/7/a-starving-grey-seal-claiming-to-be-from-london-zoo-is-found-in-skerries-ireland-the-irish-seal-sanctuary-asks-the-uk-and-europe-for-help.md)
@@ -65,7 +65,7 @@ A young grey seal, with a London Zoo tag, has been found in Skerries and brought
 
 ##### Turkey
 ### [Turkey's Prime Minister, Recep Tayyip Erdogan, describes Israel as the "main threat to peace" in the Middle East. ](/news/2010/04/7/turkey-s-prime-minister-recep-tayyip-erdoaan-describes-israel-as-the-main-threat-to-peace-in-the-middle-east.md)
-_Context: Prime Minister, Turkey, Middle East, Recep Tayyip Erdogan, Israel_
+_Context: Recep Tayyip Erdogan, Prime Minister, Turkey, Israel, Middle East_
 
 ##### FC Barcelona
 ### [FC Barcelona's Lionel Messi is widely hailed as the best footballer in the world after scoring four goals for the first time in his career in one UEFA Champions League game, including his fourth hat-trick of 2010. ](/news/2010/04/7/fc-barcelona-s-lionel-messi-is-widely-hailed-as-the-best-footballer-in-the-world-after-scoring-four-goals-for-the-first-time-in-his-career-i.md)
@@ -73,11 +73,11 @@ The legend at the Nou Camp reads &#034;mes que un club&#034; (more than a club) 
 
 ##### Martina Navratilova
 ### [Tennis player Martina Navratilova announces she has been diagnosed with breast cancer. ](/news/2010/04/7/tennis-player-martina-navratilova-announces-she-has-been-diagnosed-with-breast-cancer.md)
-_Context: Martina Navratilova, breast cancer_
+_Context: breast cancer, Martina Navratilova_
 
 ##### Han Zheng
 ### [Shanghai mayor Han Zheng, leading a delegation with a presence from some 50 companies, visits Taiwan for investment talks. ](/news/2010/04/7/shanghai-mayor-han-zheng-leading-a-delegation-with-a-presence-from-some-50-companies-visits-taiwan-for-investment-talks.md)
-_Context: Han Zheng, Taiwan_
+_Context: Taiwan, Han Zheng_
 
 ##### Norway
 ### [Norway experiences its first Catholic child abuse scandal as it becomes known that a bishop, Georg Muller, was forced to resign in 2009 because of sexual abuse of an altar boy in the early 1990s. ](/news/2010/04/7/norway-experiences-its-first-catholic-child-abuse-scandal-as-it-becomes-known-that-a-bishop-georg-ma1-4ller-was-forced-to-resign-in-2009-bec.md)

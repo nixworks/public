@@ -9,11 +9,11 @@ _Context: Bahraini uprising (2011-present)_
 
 ##### Ambulance
 ### [Five people are killed after an ambulance hits a roadside bomb in Sar-e-Pul Province. ](/news/2012/06/11/five-people-are-killed-after-an-ambulance-hits-a-roadside-bomb-in-sar-e-pul-province.md)
-_Context: Sar-e-Pul Province, ambulance_
+_Context: ambulance, Sar-e-Pul Province_
 
 ##### Party of the Democratic Revolution
 ### [Margarito Genchi Casiano, a politician of the Party of the Democratic Revolution, is gunned down in the southern state of Guerrero. ](/news/2012/06/11/margarito-genchi-casiano-a-politician-of-the-party-of-the-democratic-revolution-is-gunned-down-in-the-southern-state-of-guerrero.md)
-_Context: Guerrero, Party of the Democratic Revolution_
+_Context: Party of the Democratic Revolution, Guerrero_
 
 ##### Flame
 ### [Researchers uncover direct links between the Flame and Stuxnet cyber-attacks on Iran, saying the attackers worked together on both at early stages of each threat's development. ](/news/2012/06/11/researchers-uncover-direct-links-between-the-flame-and-stuxnet-cyber-attacks-on-iran-saying-the-attackers-worked-together-on-both-at-early.md)
@@ -33,7 +33,7 @@ Google has struck a deal to digitise French books, ending a six-year legal battl
 
 ##### Madonna
 ### [Madonna exposes her right breast on stage in Istanbul. ](/news/2012/06/11/madonna-exposes-her-right-breast-on-stage-in-istanbul.md)
-_Context: Madonna, Istanbul_
+_Context: Istanbul, Madonna_
 
 ##### Lady Gaga
 ### [Lady Gaga suffers a concussion after smacking her head with a pole during a show in New Zealand. ](/news/2012/06/11/lady-gaga-suffers-a-concussion-after-smacking-her-head-with-a-pole-during-a-show-in-new-zealand.md)
@@ -41,7 +41,7 @@ During another New Zealand show, the Mother Monster responds to a shot Madonna f
 
 ##### Pan-Arab
 ### [A pan-Arab satellite television channel, Al Mayadeen ("The Squares" in Arabic), is launched in Lebanon that is speculated to be a mouthpiece for Iran and Hezbollah. ](/news/2012/06/11/a-pan-arab-satellite-television-channel-al-mayadeen-the-squares-in-arabic-is-launched-in-lebanon-that-is-speculated-to-be-a-mouthpiece.md)
-_Context: pan-Arab, Al Mayadeen, Iran, Hezbollah, Lebanese_
+_Context: Al Mayadeen, Iran, Hezbollah, pan-Arab, Lebanese_
 
 ##### Dangote Cement
 ### [Dangote Cement opens a new line of production at its Obajana facility in the Kogi State, making the plant the largest in Sub-Sahara Africa and one of the largest in the world. ](/news/2012/06/11/dangote-cement-opens-a-new-line-of-production-at-its-obajana-facility-in-the-kogi-state-making-the-plant-the-largest-in-sub-sahara-africa-a.md)
@@ -61,7 +61,7 @@ More than 100,000 households remain without power this morning and may remain wi
 
 ##### England
 ### [Flooding hits large parts of England and Wales. ](/news/2012/06/11/flooding-hits-large-parts-of-england-and-wales.md)
-_Context: England, Wales_
+_Context: Wales, England_
 
 ##### Al-Shabaab
 ### [Al-Shabaab offers a reward of 10 camels for information about the whereabouts of Barack Obama and chickens for information on Hillary Clinton in response to the U.S. announcement of rewards of $3-7 million for various militant commanders. ](/news/2012/06/11/al-shabaab-offers-a-reward-of-10-camels-for-information-about-the-whereabouts-of-barack-obama-and-chickens-for-information-on-hillary-clinto.md)
@@ -77,7 +77,7 @@ The US exempts seven countries, including India and South Korea, from economic s
 
 ##### San Gabriel Valley
 ### [Police in the San Gabriel Valley in southern California cite United States Secretary of Commerce John Bryson for felony hit and run for alleged involvement in a series of accidents on the weekend. ](/news/2012/06/11/police-in-the-san-gabriel-valley-in-southern-california-cite-united-states-secretary-of-commerce-john-bryson-for-felony-hit-and-run-for-alle.md)
-_Context: San Gabriel Valley, United States Secretary of Commerce, southern California_
+_Context: San Gabriel Valley, southern California, United States Secretary of Commerce_
 
 ##### Leveson Inquiry
 ### [Former British Prime Minister Gordon Brown tells the Leveson Inquiry into press standards that he did not declare war on Rupert Murdoch after the Labour Party lost the support of "The Sun" newspaper in 2009. ](/news/2012/06/11/former-british-prime-minister-gordon-brown-tells-the-leveson-inquiry-into-press-standards-that-he-did-not-declare-war-on-rupert-murdoch-afte.md)
@@ -97,7 +97,7 @@ Protest organisers asked to appear in court on Tuesday, when they had planned to
 
 ##### Ali Larijani
 ### [Ali Larijani is sworn in as Chairman of the Parliament of Iran for another term. ](/news/2012/06/11/ali-larijani-is-sworn-in-as-chairman-of-the-parliament-of-iran-for-another-term.md)
-_Context: Speaker, MPs, Ali Larijani_
+_Context: Ali Larijani, Speaker, MPs_
 
 ##### European Extremely Large Telescope
 ### [The European Extremely Large Telescope is given the go-ahead by member states of the European Southern Observatory organisation. ](/news/2012/06/11/the-european-extremely-large-telescope-is-given-the-go-ahead-by-member-states-of-the-european-southern-observatory-organisation.md)
