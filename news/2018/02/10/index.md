@@ -15,17 +15,21 @@ Turkish premier says two soldiers died after their helicopter was shot down duri
 ### [A double-decker bus overturns near Tai Po in Hong Kong, killing at least 19 people. ](/news/2018/02/10/a-double-decker-bus-overturns-near-tai-po-in-hong-kong-killing-at-least-19-people.md)
 Photographs show double-decker bus lying on its side with its roof torn off near Tai Po
 
+##### Helicopter
+### [A Papillon Tours helicopter crashes in the Grand Canyon in the Southwestern United States, killing three people and injuring the other four on board. ](/news/2018/02/10/a-papillon-tours-helicopter-crashes-in-the-grand-canyon-in-the-southwestern-united-states-killing-three-people-and-injuring-the-other-four.md)
+Six passengers and a pilot were on board the Papillion helicopter when it crashed around 5:20 p.m., and three were killed
+
 ##### India-Palestine relations
 ### [Indian Prime Minister Narendra Modi visits Palestine, saying that he backs an independent Palestine state. This event has been labeled as "historic" as it is the first time an Indian Prime Minister has visited Palestine. ](/news/2018/02/10/indian-prime-minister-narendra-modi-visits-palestine-saying-that-he-backs-an-independent-palestine-state-this-event-has-been-labeled-as-h.md)
 Narendra Modi backs independent Palestinian state during first trip by an Indian prime minister to occupied territories.
 
 ##### North Korea-South Korea relations
 ### [South Korean President Moon Jae-in hosts talks at the Blue House with North Korean President of the Presidium of the Supreme People's Assembly Kim Yong-nam and Kim Jong-Un's sister Kim Yo-jong. ](/news/2018/02/10/south-korean-president-moon-jae-in-hosts-talks-at-the-blue-house-with-north-korean-president-of-the-presidium-of-the-supreme-people-s-assemb.md)
-_Context: Moon Jae-in, South Korean President, Kim Jong-Un, North Korea, Kim Yong-nam, Kim Yo-jong, Blue House, North Korea-South Korea relations, President of the Presidium of the Supreme People's Assembly_
+_Context: Kim Yo-jong, Kim Jong-Un, Kim Yong-nam, Blue House, Moon Jae-in, North Korea-South Korea relations, South Korean President, President of the Presidium of the Supreme People's Assembly, North Korea_
 
 ##### Federal Railroad Administration
 ### [Heath Hall, the acting Federal Railroad Administration chief, resigns "effective immediately" over a Politico report that he has a second job in Madison County, Mississippi. ](/news/2018/02/10/heath-hall-the-acting-federal-railroad-administration-chief-resigns-effective-immediately-over-a-politico-report-that-he-has-a-second-jo.md)
-_Context: Madison County, Mississippi, Federal Railroad Administration, Politico_
+_Context: Madison County, Mississippi, Politico, Federal Railroad Administration_
 
 ## [Previous Day...](/news/2018/02/9/index.md)
 
