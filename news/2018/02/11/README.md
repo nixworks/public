@@ -9,11 +9,15 @@ The Russian regional airliner went down within minutes, killing all 71 people on
 
 ##### United Kingdom
 ### [United Kingdom Secretary of State for International Development Penny Mordaunt tells BBC One that Oxfam's failure to pass on information regarding sexual misconduct allegations of its workers in Haiti and Chad shows an "absolute" absence and failure of moral leadership. ](/news/2018/02/11/united-kingdom-secretary-of-state-for-international-development-penny-mordaunt-tells-bbc-one-that-oxfam-s-failure-to-pass-on-information-reg.md)
-_Context: BBC One, Secretary of State for International Development, United Kingdom, Oxfam, Penny Mordaunt, Haiti, Chad, sexual misconduct allegations_
+The charity is warned it must account for its actions or risk losing its government funding.
 
 ##### Sri Lankan local elections, 2018
 ### [In provisional results with most votes in, the opposition SLPP (Rajapaksa) is projected to win 44.05% of the vote, the ruling coalition parties UNP (Wickremesinghe) and SLFP (Sirisena) gather 31.65% and 9.52% respectively. Rosy Senanayake (UNP) is set to become the first female mayor of the capital Colombo. ](/news/2018/02/11/in-provisional-results-with-most-votes-in-the-opposition-slpp-rajapaksa-is-projected-to-win-44-05-of-the-vote-the-ruling-coalition-part.md)
 Party backed by former President Mahinda Rajapaksa set to score landslide victory in key local elections.
+
+##### Earth
+### [ A study is made to glimpse what Earth-sized exoplanets are made of. ](/news/2018/02/11/a-study-is-made-to-glimpse-what-earth-sized-exoplanets-are-made-of.md)
+_Context: Earth, exoplanet_
 
 ## [Previous Day...](/news/2018/02/10/index.md)
 

@@ -6,12 +6,13 @@ Formats: [HTML](/news/2018/02/11/united-kingdom-secretary-of-state-for-internati
 ##### United Kingdom
 # United Kingdom Secretary of State for International Development Penny Mordaunt tells BBC One that Oxfam's failure to pass on information regarding sexual misconduct allegations of its workers in Haiti and Chad shows an "absolute" absence and failure of moral leadership. 
 
-
+The charity is warned it must account for its actions or risk losing its government funding.
 
 
 ### Sources:
 
-1. [The Daily Mail](http://www.dailymail.co.uk/wires/pa/article-5377867/Oxfam-lied-failed-moral-leadership-Haiti-sex-allegations--minister.html)
+1. [BBC News](http://www.bbc.co.uk/news/uk-43020875)
+1. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p05xt55d.jpg)
 
 ### Related:
 
