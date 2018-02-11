@@ -11,9 +11,8 @@ Photographs show double-decker bus lying on its side with its roof torn off near
 
 ### Sources:
 
-1. [AP via ABC News](http://abcnews.go.com/International/wireStory/27-killed-indonesia-bus-crash-52984801)
-2. [The Guardian](https://www.theguardian.com/world/2018/feb/10/bus-topples-over-in-hong-kong-tai-po)
-2. [Cover Image](https://i.guim.co.uk/img/media/e5c4c78de5f2890cff971595cfc8f2f93e80c855/3_209_2574_1544/master/2574.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxOC8wMS8zMS9mYWNlYm9va19kZWZhdWx0LnBuZw&amp;s=2facdfd9ab3c4bcc7e71bd2ec1d4e6da)
+1. [The Guardian](https://www.theguardian.com/world/2018/feb/10/bus-topples-over-in-hong-kong-tai-po)
+1. [Cover Image](https://i.guim.co.uk/img/media/e5c4c78de5f2890cff971595cfc8f2f93e80c855/3_209_2574_1544/master/2574.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxOC8wMS8zMS9mYWNlYm9va19kZWZhdWx0LnBuZw&amp;s=2facdfd9ab3c4bcc7e71bd2ec1d4e6da)
 
 ### Changes:
 
