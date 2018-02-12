@@ -5,7 +5,7 @@ Formats: [HTML](2018/02/7/index.html)  [JSON](2018/02/7/index.json)  [XML](2018/
 
 ##### Israeli involvement in the Syrian Civil War
 ### [Syrian state media say that Israeli warplanes attacked a military position in Jamraya, Rif Dimashq Governorate, from Lebanese airspace, with the Syrian Air Defense Force intercepting most of the missiles. The target is rumored to be a weapon research facility. ](/news/2018/02/7/syrian-state-media-say-that-israeli-warplanes-attacked-a-military-position-in-jamraya-rif-dimashq-governorate-from-lebanese-airspace-with.md)
-_Context: Rif Dimashq Governorate, Syrian Air Defense Force, Israeli involvement in the Syrian Civil War, Lebanese, Jamraya, Syria, Israel_
+_Context: Syria, Israeli involvement in the Syrian Civil War, Syrian Air Defense Force, Rif Dimashq Governorate, Israel, Jamraya, Lebanese_
 
 ##### United States attacks on the Syrian government
 ### [United States Central Command says that it killed more than 100 pro-government troops in "self-defense" strikes 8 km east of the Euphrates de-confliction line that was reportedly agreed with Russia. ](/news/2018/02/7/united-states-central-command-says-that-it-killed-more-than-100-pro-government-troops-in-self-defense-strikes-8-km-east-of-the-euphrates-d.md)

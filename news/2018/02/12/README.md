@@ -5,7 +5,7 @@ Formats: [HTML](2018/02/12/index.html)  [JSON](2018/02/12/index.json)  [XML](201
 
 ##### Drone strikes in Pakistan
 ### [Tehrik-i-Taliban Pakistan (TTP) confirms its deputy leader Khalid Mehsud has been killed in a U.S. drone strike in North Waziristan, near the border with Afghanistan. ](/news/2018/02/12/tehrik-i-taliban-pakistan-ttp-confirms-its-deputy-leader-khalid-mehsud-has-been-killed-in-a-u-s-drone-strike-in-north-waziristan-near-th.md)
-_Context: Tehrik-i-Taliban Pakistan, Drone strikes in Pakistan, North Waziristan, Khalid Mehsud, U.S., Afghanistan_
+_Context: Khalid Mehsud, Afghanistan, Drone strikes in Pakistan, Tehrik-i-Taliban Pakistan, North Waziristan, U.S._
 
 ##### Egypt
 ### [Egypt bans "Saturday Night Live Arabia" for using "sexual expressions that are inappropriate for viewers". ](/news/2018/02/12/egypt-bans-saturday-night-live-arabia-for-using-sexual-expressions-that-are-inappropriate-for-viewers.md)
@@ -17,7 +17,7 @@ Up to 16,000 London City Airport passengers are affected after the 500kg device 
 
 ##### Saratov Airlines Flight 703
 ### [Emergency teams comb snowy fields outside Moscow Monday for debris from a crashed Russian airliner and the remains of the 71 people who died. Transport Minister Maksim Sokolov says the search for victims' remains will take a week. He notes that emergency teams already have found the plane's flight data recorder, which is crucial for determining the crash's cause. ](/news/2018/02/12/emergency-teams-comb-snowy-fields-outside-moscow-monday-for-debris-from-a-crashed-russian-airliner-and-the-remains-of-the-71-people-who-died.md)
-_Context: Moscow, Saratov Airlines Flight 703, Transport, Maksim Sokolov, airliner, Russia, Emergency, flight data recorder_
+_Context: airliner, flight data recorder, Russia, Emergency, Saratov Airlines Flight 703, Transport, Maksim Sokolov, Moscow_
 
 ##### Cyprus-Turkey maritime zones dispute
 ### [The European Union urges calm and restraint after Turkish Navy warships obstruct a Cypriot offshore drilling vessel in the Eastern Mediterranean, which was approaching an area to explore for natural gas. ](/news/2018/02/12/the-european-union-urges-calm-and-restraint-after-turkish-navy-warships-obstruct-a-cypriot-offshore-drilling-vessel-in-the-eastern-mediterra.md)
@@ -29,7 +29,7 @@ Last year Georgia’s former President Mikheil Saakashvili, who is well known fo
 
 ##### Politics of the Netherlands
 ### [Foreign Minister of the Netherlands Halbe Zijlstra admits to lying about having attended a meeting with Vladimir Putin in 2006. Zijlstra had said that Putin mentioned plans to expand Russia to include Belarus, Ukraine, and the Baltic states but now says that he was not present and borrowed the story from a source. ](/news/2018/02/12/foreign-minister-of-the-netherlands-halbe-zijlstra-admits-to-lying-about-having-attended-a-meeting-with-vladimir-putin-in-2006-zijlstra-had.md)
-_Context: Foreign Minister of the Netherlands, Halbe Zijlstra, expand, Politics of the Netherlands, Vladimir Putin, Russia_
+_Context: Foreign Minister of the Netherlands, expand, Vladimir Putin, Politics of the Netherlands, Halbe Zijlstra, Russia_
 
 ##### Presidency of Donald Trump
 ### [U.S. President Donald Trump introduces his $1.5 trillion federal infrastructure plan to several governors and mayors at the White House. ](/news/2018/02/12/u-s-president-donald-trump-introduces-his-1-5-trillion-federal-infrastructure-plan-to-several-governors-and-mayors-at-the-white-house.md)

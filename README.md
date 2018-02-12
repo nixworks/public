@@ -5,7 +5,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ##### Drone strikes in Pakistan
 ### [Tehrik-i-Taliban Pakistan (TTP) confirms its deputy leader Khalid Mehsud has been killed in a U.S. drone strike in North Waziristan, near the border with Afghanistan. ](/news/2018/02/12/tehrik-i-taliban-pakistan-ttp-confirms-its-deputy-leader-khalid-mehsud-has-been-killed-in-a-u-s-drone-strike-in-north-waziristan-near-th.md)
-_Context: Tehrik-i-Taliban Pakistan, Drone strikes in Pakistan, North Waziristan, Khalid Mehsud, U.S., Afghanistan_
+_Context: Khalid Mehsud, Afghanistan, Drone strikes in Pakistan, Tehrik-i-Taliban Pakistan, North Waziristan, U.S._
 
 ##### Egypt
 ### [Egypt bans "Saturday Night Live Arabia" for using "sexual expressions that are inappropriate for viewers". ](/news/2018/02/12/egypt-bans-saturday-night-live-arabia-for-using-sexual-expressions-that-are-inappropriate-for-viewers.md)
@@ -17,7 +17,7 @@ Up to 16,000 London City Airport passengers are affected after the 500kg device 
 
 ##### Saratov Airlines Flight 703
 ### [Emergency teams comb snowy fields outside Moscow Monday for debris from a crashed Russian airliner and the remains of the 71 people who died. Transport Minister Maksim Sokolov says the search for victims' remains will take a week. He notes that emergency teams already have found the plane's flight data recorder, which is crucial for determining the crash's cause. ](/news/2018/02/12/emergency-teams-comb-snowy-fields-outside-moscow-monday-for-debris-from-a-crashed-russian-airliner-and-the-remains-of-the-71-people-who-died.md)
-_Context: Moscow, Saratov Airlines Flight 703, Transport, Maksim Sokolov, airliner, Russia, Emergency, flight data recorder_
+_Context: airliner, flight data recorder, Russia, Emergency, Saratov Airlines Flight 703, Transport, Maksim Sokolov, Moscow_
 
 ##### Cyprus-Turkey maritime zones dispute
 ### [The European Union urges calm and restraint after Turkish Navy warships obstruct a Cypriot offshore drilling vessel in the Eastern Mediterranean, which was approaching an area to explore for natural gas. ](/news/2018/02/12/the-european-union-urges-calm-and-restraint-after-turkish-navy-warships-obstruct-a-cypriot-offshore-drilling-vessel-in-the-eastern-mediterra.md)
@@ -29,7 +29,7 @@ Last year Georgia’s former President Mikheil Saakashvili, who is well known fo
 
 ##### Politics of the Netherlands
 ### [Foreign Minister of the Netherlands Halbe Zijlstra admits to lying about having attended a meeting with Vladimir Putin in 2006. Zijlstra had said that Putin mentioned plans to expand Russia to include Belarus, Ukraine, and the Baltic states but now says that he was not present and borrowed the story from a source. ](/news/2018/02/12/foreign-minister-of-the-netherlands-halbe-zijlstra-admits-to-lying-about-having-attended-a-meeting-with-vladimir-putin-in-2006-zijlstra-had.md)
-_Context: Foreign Minister of the Netherlands, Halbe Zijlstra, expand, Politics of the Netherlands, Vladimir Putin, Russia_
+_Context: Foreign Minister of the Netherlands, expand, Vladimir Putin, Politics of the Netherlands, Halbe Zijlstra, Russia_
 
 ##### Presidency of Donald Trump
 ### [U.S. President Donald Trump introduces his $1.5 trillion federal infrastructure plan to several governors and mayors at the White House. ](/news/2018/02/12/u-s-president-donald-trump-introduces-his-1-5-trillion-federal-infrastructure-plan-to-several-governors-and-mayors-at-the-white-house.md)
@@ -93,19 +93,19 @@ Narendra Modi backs independent Palestinian state during first trip by an Indian
 
 ##### North Korea-South Korea relations
 ### [South Korean President Moon Jae-in hosts talks at the Blue House with North Korean President of the Presidium of the Supreme People's Assembly Kim Yong-nam and Kim Jong-Un's sister Kim Yo-jong. ](/news/2018/02/10/south-korean-president-moon-jae-in-hosts-talks-at-the-blue-house-with-north-korean-president-of-the-presidium-of-the-supreme-people-s-assemb.md)
-_Context: North Korea-South Korea relations, Moon Jae-in, Kim Jong-Un, South Korean President, President of the Presidium of the Supreme People's Assembly, Kim Yong-nam, Kim Yo-jong, Blue House, North Korea_
+_Context: South Korean President, North Korea-South Korea relations, Kim Yo-jong, Kim Yong-nam, North Korea, President of the Presidium of the Supreme People's Assembly, Moon Jae-in, Blue House, Kim Jong-Un_
 
 ##### Crime in Ohio
 ### [Two officers of the Westerville, Ohio Police Department are shot and killed (one died immediately, one later at the hospital) in an ambush-type attack which had begun as a domestic dispute between the male perpetrator, who was wounded during the incident, and his wife. ](/news/2018/02/10/two-officers-of-the-westerville-ohio-police-department-are-shot-and-killed-one-died-immediately-one-later-at-the-hospital-in-an-ambush-t.md)
-_Context: Westerville, Ohio, Crime in Ohio, ambush_
+_Context: ambush, Westerville, Ohio, Crime in Ohio_
 
 ##### Politics of the United States
 ### [Heath Hall, the acting Federal Railroad Administration chief, resigns "effective immediately" over a Politico report that he has a second job in Madison County, Mississippi. ](/news/2018/02/10/heath-hall-the-acting-federal-railroad-administration-chief-resigns-effective-immediately-over-a-politico-report-that-he-has-a-second-jo.md)
-_Context: Politico, Madison County, Mississippi, Politics of the United States, Federal Railroad Administration_
+_Context: Politics of the United States, Politico, Madison County, Mississippi, Federal Railroad Administration_
 
 ##### Politics of the Republic of Ireland
 ### [Mary Lou McDonald is confirmed in the position of president of Sinn Fein. She succeeds Gerry Adams, who was Sinn Fein's leader since 1983. ](/news/2018/02/10/mary-lou-mcdonald-is-confirmed-in-the-position-of-president-of-sinn-fa-c-in-she-succeeds-gerry-adams-who-was-sinn-fa-c-in-s-leader-since-1983.md)
-_Context: president of Sinn Fein, Sinn Fein, Gerry Adams, Mary Lou McDonald, Politics of the Republic of Ireland_
+_Context: Politics of the Republic of Ireland, Gerry Adams, president of Sinn Fein, Sinn Fein, Mary Lou McDonald_
 
 ---
 

@@ -29,19 +29,19 @@ Narendra Modi backs independent Palestinian state during first trip by an Indian
 
 ##### North Korea-South Korea relations
 ### [South Korean President Moon Jae-in hosts talks at the Blue House with North Korean President of the Presidium of the Supreme People's Assembly Kim Yong-nam and Kim Jong-Un's sister Kim Yo-jong. ](/news/2018/02/10/south-korean-president-moon-jae-in-hosts-talks-at-the-blue-house-with-north-korean-president-of-the-presidium-of-the-supreme-people-s-assemb.md)
-_Context: North Korea-South Korea relations, Moon Jae-in, Kim Jong-Un, South Korean President, President of the Presidium of the Supreme People's Assembly, Kim Yong-nam, Kim Yo-jong, Blue House, North Korea_
+_Context: South Korean President, North Korea-South Korea relations, Kim Yo-jong, Kim Yong-nam, North Korea, President of the Presidium of the Supreme People's Assembly, Moon Jae-in, Blue House, Kim Jong-Un_
 
 ##### Crime in Ohio
 ### [Two officers of the Westerville, Ohio Police Department are shot and killed (one died immediately, one later at the hospital) in an ambush-type attack which had begun as a domestic dispute between the male perpetrator, who was wounded during the incident, and his wife. ](/news/2018/02/10/two-officers-of-the-westerville-ohio-police-department-are-shot-and-killed-one-died-immediately-one-later-at-the-hospital-in-an-ambush-t.md)
-_Context: Westerville, Ohio, Crime in Ohio, ambush_
+_Context: ambush, Westerville, Ohio, Crime in Ohio_
 
 ##### Politics of the United States
 ### [Heath Hall, the acting Federal Railroad Administration chief, resigns "effective immediately" over a Politico report that he has a second job in Madison County, Mississippi. ](/news/2018/02/10/heath-hall-the-acting-federal-railroad-administration-chief-resigns-effective-immediately-over-a-politico-report-that-he-has-a-second-jo.md)
-_Context: Politico, Madison County, Mississippi, Politics of the United States, Federal Railroad Administration_
+_Context: Politics of the United States, Politico, Madison County, Mississippi, Federal Railroad Administration_
 
 ##### Politics of the Republic of Ireland
 ### [Mary Lou McDonald is confirmed in the position of president of Sinn Fein. She succeeds Gerry Adams, who was Sinn Fein's leader since 1983. ](/news/2018/02/10/mary-lou-mcdonald-is-confirmed-in-the-position-of-president-of-sinn-fa-c-in-she-succeeds-gerry-adams-who-was-sinn-fa-c-in-s-leader-since-1983.md)
-_Context: president of Sinn Fein, Sinn Fein, Gerry Adams, Mary Lou McDonald, Politics of the Republic of Ireland_
+_Context: Politics of the Republic of Ireland, Gerry Adams, president of Sinn Fein, Sinn Fein, Mary Lou McDonald_
 
 ## [Previous Day...](/news/2018/02/9/index.md)
 
