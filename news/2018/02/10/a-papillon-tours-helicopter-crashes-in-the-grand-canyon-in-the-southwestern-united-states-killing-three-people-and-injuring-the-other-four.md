@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/10/a-papillon-tours-helicopter-crashes-in-the-gran
 ### [2018-02-10](/news/2018/02/10/index.md)
 
 ##### Helicopter
-# A Papillon Tours helicopter crashes in the Grand Canyon in the Southwestern United States, killing three people and injuring the other four on board. 
+# A Papillon Tours helicopter crashes in the Grand Canyon in the Southwestern United States, killing three people and injuring the other four on board. The six passengers were all British citizens. 
 
 Six passengers and a pilot were on board the Papillion helicopter when it crashed around 5:20 p.m., and three were killed
 
