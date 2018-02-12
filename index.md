@@ -5,19 +5,19 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ##### Drone strikes in Pakistan
 ### [Tehrik-i-Taliban Pakistan (TTP) confirms its deputy leader Khalid Mehsud has been killed in a U.S. drone strike in North Waziristan, near the border with Afghanistan. ](/news/2018/02/12/tehrik-i-taliban-pakistan-ttp-confirms-its-deputy-leader-khalid-mehsud-has-been-killed-in-a-u-s-drone-strike-in-north-waziristan-near-th.md)
-_Context: North Waziristan, Drone strikes in Pakistan, Khalid Mehsud, Afghanistan, U.S., Tehrik-i-Taliban Pakistan_
+_Context: Afghanistan, Tehrik-i-Taliban Pakistan, U.S., North Waziristan, Khalid Mehsud, Drone strikes in Pakistan_
 
 ##### Egypt
 ### [Egypt bans "Saturday Night Live Arabia" for using "sexual expressions that are inappropriate for viewers". ](/news/2018/02/12/egypt-bans-saturday-night-live-arabia-for-using-sexual-expressions-that-are-inappropriate-for-viewers.md)
 Latest season of satirical show with same format as US Saturday Night Live had just ended
 
-##### London City Airport
+##### London's City
 ### [All flights to and from London's City Airport have been cancelled after an unexploded World War II bomb was discovered in the River Thames at George V Dock, the airport says. ](/news/2018/02/12/all-flights-to-and-from-london-s-city-airport-have-been-cancelled-after-an-unexploded-world-war-ii-bomb-was-discovered-in-the-river-thames-a.md)
 Up to 16,000 London City Airport passengers are affected after the 500kg device was found.
 
 ##### Saratov Airlines Flight 703
 ### [Emergency teams comb snowy fields outside Moscow Monday for debris from a crashed Russian airliner and the remains of the 71 people who died. Transport Minister Maksim Sokolov says the search for victims' remains will take a week. He notes that emergency teams already have found the plane's flight data recorder, which is crucial for determining the crash's cause. ](/news/2018/02/12/emergency-teams-comb-snowy-fields-outside-moscow-monday-for-debris-from-a-crashed-russian-airliner-and-the-remains-of-the-71-people-who-died.md)
-_Context: Transport, Russia, Moscow, Saratov Airlines Flight 703, Maksim Sokolov, airliner, Emergency, flight data recorder_
+_Context: Emergency, Moscow, Maksim Sokolov, airliner, Saratov Airlines Flight 703, flight data recorder, Transport, Russia_
 
 ##### Ukrainian crisis
 ### [Mikheil Saakashvili, leader of the Movement of New Forces, was detained by Ministry of Internal Affairs in Kiev, and then deported from Ukraine. ](/news/2018/02/12/mikheil-saakashvili-leader-of-the-movement-of-new-forces-was-detained-by-ministry-of-internal-affairs-in-kiev-and-then-deported-from-ukra.md)
@@ -25,7 +25,11 @@ Last year Georgia’s former President Mikheil Saakashvili, who is well known fo
 
 ##### Politics of the Netherlands
 ### [Foreign Minister of the Netherlands Halbe Zijlstra admits to lying about having attended a meeting with Vladimir Putin in 2006. Zijlstra had said that Putin mentioned plans to expand Russia to include Belarus, Ukraine, and the Baltic states but now says that he was not present and borrowed the story from a source. ](/news/2018/02/12/foreign-minister-of-the-netherlands-halbe-zijlstra-admits-to-lying-about-having-attended-a-meeting-with-vladimir-putin-in-2006-zijlstra-had.md)
-_Context: expand, Russia, Vladimir Putin, Foreign Minister of the Netherlands, Politics of the Netherlands, Halbe Zijlstra_
+_Context: Politics of the Netherlands, Vladimir Putin, Foreign Minister of the Netherlands, Halbe Zijlstra, expand, Russia_
+
+##### Presidency of Donald Trump
+### [U.S. President Donald Trump introduces his $1.5 trillion federal infrastructure plan to several governors and mayors at the White House. ](/news/2018/02/12/u-s-president-donald-trump-introduces-his-1-5-trillion-federal-infrastructure-plan-to-several-governors-and-mayors-at-the-white-house.md)
+The Trump administration is asking Congress to cut “duplicative” environmental review procedures as part of the president’s massive
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -36,7 +40,7 @@ Most of the daily information we see on the mainstream media today is the news e
 ## [Yesterday](/news/2018/02/11/index.md)
 
 ##### Saratov Airlines Flight 703
-### [An Antonov An-148 of Saratov Airlines with 71 people on board crashes shortly after take-off from Domodedovo Airport, Moscow, Russia. The TASS agency cites an emergency source stating that none of the 65 passengers and 6 crew members have survived. ](/news/2018/02/11/an-antonov-an-148-of-saratov-airlines-with-71-people-on-board-crashes-shortly-after-take-off-from-domodedovo-airport-moscow-russia-the-ta.md)
+### [An Antonov An-148 of Saratov Airlines with 71 people on board crashes shortly after take-off from Domodedovo Airport, Moscow, Russia. The TASS agency cites an emergency source stating that none of the 65 passengers and 6 crew members has survived. ](/news/2018/02/11/an-antonov-an-148-of-saratov-airlines-with-71-people-on-board-crashes-shortly-after-take-off-from-domodedovo-airport-moscow-russia-the-ta.md)
 The Russian regional airliner went down within minutes, killing all 71 people on board.
 
 ##### United Kingdom
@@ -81,19 +85,19 @@ Narendra Modi backs independent Palestinian state during first trip by an Indian
 
 ##### North Korea-South Korea relations
 ### [South Korean President Moon Jae-in hosts talks at the Blue House with North Korean President of the Presidium of the Supreme People's Assembly Kim Yong-nam and Kim Jong-Un's sister Kim Yo-jong. ](/news/2018/02/10/south-korean-president-moon-jae-in-hosts-talks-at-the-blue-house-with-north-korean-president-of-the-presidium-of-the-supreme-people-s-assemb.md)
-_Context: Kim Jong-Un, North Korea, Kim Yo-jong, North Korea-South Korea relations, Moon Jae-in, Kim Yong-nam, South Korean President, President of the Presidium of the Supreme People's Assembly, Blue House_
+_Context: North Korea, Blue House, Kim Yo-jong, Kim Yong-nam, President of the Presidium of the Supreme People's Assembly, South Korean President, Kim Jong-Un, North Korea-South Korea relations, Moon Jae-in_
 
 ##### Crime in Ohio
 ### [Two officers of the Westerville, Ohio Police Department are shot and killed (one died immediately, one later at the hospital) in an ambush-type attack which had begun as a domestic dispute between the male perpetrator, who was wounded during the incident, and his wife. ](/news/2018/02/10/two-officers-of-the-westerville-ohio-police-department-are-shot-and-killed-one-died-immediately-one-later-at-the-hospital-in-an-ambush-t.md)
-_Context: Westerville, Ohio, ambush, Crime in Ohio_
+_Context: ambush, Westerville, Ohio, Crime in Ohio_
 
 ##### Politics of the United States
 ### [Heath Hall, the acting Federal Railroad Administration chief, resigns "effective immediately" over a Politico report that he has a second job in Madison County, Mississippi. ](/news/2018/02/10/heath-hall-the-acting-federal-railroad-administration-chief-resigns-effective-immediately-over-a-politico-report-that-he-has-a-second-jo.md)
-_Context: Politics of the United States, Federal Railroad Administration, Politico, Madison County, Mississippi_
+_Context: Politico, Madison County, Mississippi, Politics of the United States, Federal Railroad Administration_
 
 ##### Politics of the Republic of Ireland
 ### [Mary Lou McDonald is confirmed in the position of president of Sinn Fein. She succeeds Gerry Adams, who was Sinn Fein's leader since 1983. ](/news/2018/02/10/mary-lou-mcdonald-is-confirmed-in-the-position-of-president-of-sinn-fa-c-in-she-succeeds-gerry-adams-who-was-sinn-fa-c-in-s-leader-since-1983.md)
-_Context: president of Sinn Fein, Gerry Adams, Sinn Fein, Politics of the Republic of Ireland, Mary Lou McDonald_
+_Context: Sinn Fein, Politics of the Republic of Ireland, Mary Lou McDonald, president of Sinn Fein, Gerry Adams_
 
 ---
 

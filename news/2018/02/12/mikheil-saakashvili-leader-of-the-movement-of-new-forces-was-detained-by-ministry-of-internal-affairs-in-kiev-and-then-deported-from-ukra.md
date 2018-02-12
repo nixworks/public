@@ -12,8 +12,8 @@ Last year Georgia’s former President Mikheil Saakashvili, who is well known fo
 ### Sources:
 
 1. [Kyiv Post](https://www.kyivpost.com/ukraine-politics/breaking-saakashvili-arrested-kyiv.html)
-2. [Sputnik](https://sputniknews.com/europe/201802121061582323-saakashvili-kidnapped-kiev/)
-3. [U.S. News & World Report](https://www.usnews.com/news/world/articles/2018-02-12/ex-georgian-leader-saakashvili-kidnapped-in-kiev-his-facebook-page)
+2. [Sputnik News](https://sputniknews.com/europe/201802121061582323-saakashvili-kidnapped-kiev/)
+3. [U.S. News](https://www.usnews.com/news/world/articles/2018-02-12/ex-georgian-leader-saakashvili-kidnapped-in-kiev-his-facebook-page)
 3. [Cover Image](https://cdn4.img.sputniknews.com/images/105973/99/1059739905.jpg)
 
 ### Related:

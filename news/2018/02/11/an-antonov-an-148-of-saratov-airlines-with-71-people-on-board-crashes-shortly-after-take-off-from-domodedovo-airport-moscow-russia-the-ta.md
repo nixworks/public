@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/11/an-antonov-an-148-of-saratov-airlines-with-71-p
 ### [2018-02-11](/news/2018/02/11/index.md)
 
 ##### Saratov Airlines Flight 703
-# An Antonov An-148 of Saratov Airlines with 71 people on board crashes shortly after take-off from Domodedovo Airport, Moscow, Russia. The TASS agency cites an emergency source stating that none of the 65 passengers and 6 crew members have survived. 
+# An Antonov An-148 of Saratov Airlines with 71 people on board crashes shortly after take-off from Domodedovo Airport, Moscow, Russia. The TASS agency cites an emergency source stating that none of the 65 passengers and 6 crew members has survived. 
 
 The Russian regional airliner went down within minutes, killing all 71 people on board.
 
@@ -18,7 +18,7 @@ The Russian regional airliner went down within minutes, killing all 71 people on
 ### Changes:
 
 1. [An Antonov An-148 of Saratov Airlines with 71 people on board crashes shortly after take-off from Domodedovo Airport, Moscow, Russia. TASS agency cites an emergency source stating that none of the 65 passengers and 6 crew members survive. ](/news/2018/02/11/an-antonov-an-148-of-saratov-airlines-with-71-people-on-board-crashes-shortly-after-take-off-from-domodedovo-airport-moscow-russia-tass-a.md) _2018-02-11 22:30:15 (First version)_
-1. [An Antonov An-148 of Saratov Airlines with 71 people on board crashes shortly after take-off from Domodedovo Airport, Moscow, Russia. The TASS agency cites an emergency source stating that none of the 65 passengers and 6 crew members have survived. ](/news/2018/02/11/an-antonov-an-148-of-saratov-airlines-with-71-people-on-board-crashes-shortly-after-take-off-from-domodedovo-airport-moscow-russia-the-ta.md) _(Current version)_
+1. [An Antonov An-148 of Saratov Airlines with 71 people on board crashes shortly after take-off from Domodedovo Airport, Moscow, Russia. The TASS agency cites an emergency source stating that none of the 65 passengers and 6 crew members has survived. ](/news/2018/02/11/an-antonov-an-148-of-saratov-airlines-with-71-people-on-board-crashes-shortly-after-take-off-from-domodedovo-airport-moscow-russia-the-ta.md) _(Current version)_
 
 ### Related:
 

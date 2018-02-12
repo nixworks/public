@@ -4,7 +4,7 @@ Formats: [HTML](2018/02/11/index.html)  [JSON](2018/02/11/index.json)  [XML](201
 ## [2018-02-11](/news/2018/02/11/index.md)
 
 ##### Saratov Airlines Flight 703
-### [An Antonov An-148 of Saratov Airlines with 71 people on board crashes shortly after take-off from Domodedovo Airport, Moscow, Russia. The TASS agency cites an emergency source stating that none of the 65 passengers and 6 crew members have survived. ](/news/2018/02/11/an-antonov-an-148-of-saratov-airlines-with-71-people-on-board-crashes-shortly-after-take-off-from-domodedovo-airport-moscow-russia-the-ta.md)
+### [An Antonov An-148 of Saratov Airlines with 71 people on board crashes shortly after take-off from Domodedovo Airport, Moscow, Russia. The TASS agency cites an emergency source stating that none of the 65 passengers and 6 crew members has survived. ](/news/2018/02/11/an-antonov-an-148-of-saratov-airlines-with-71-people-on-board-crashes-shortly-after-take-off-from-domodedovo-airport-moscow-russia-the-ta.md)
 The Russian regional airliner went down within minutes, killing all 71 people on board.
 
 ##### United Kingdom

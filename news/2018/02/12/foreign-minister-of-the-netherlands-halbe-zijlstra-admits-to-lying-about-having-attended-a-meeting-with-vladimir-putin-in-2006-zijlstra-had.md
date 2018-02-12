@@ -12,7 +12,7 @@ Formats: [HTML](/news/2018/02/12/foreign-minister-of-the-netherlands-halbe-zijls
 ### Sources:
 
 1. [De Telegraaf](https://www.telegraaf.nl/nieuws/1660792/zijlstra-betuigt-spijt-over-leugen)
-2. [Politico.eu](https://www.politico.eu/article/dutch-foreign-minister-halbe-zijlstra-admits-to-lying-about-meeting-vladimir-putin/)
+2. [Politico](https://www.politico.eu/article/dutch-foreign-minister-halbe-zijlstra-admits-to-lying-about-meeting-vladimir-putin/)
 
 ### Changes:
 

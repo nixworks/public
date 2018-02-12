@@ -4,10 +4,15 @@ Formats: [HTML](/news/2018/02/12/u-s-president-donald-trump-introduces-his-1-5-t
 ### [2018-02-12](/news/2018/02/12/index.md)
 
 ##### Presidency of Donald Trump
-# U.S. President Donald Trump introduces his $1.5 trillion federal infrastructure plan to several governors and mayors at the White House. "([http:--thehill.com-policy-energy-environment-373414-trump-aims-to-speed-environmental-reviews-in-infrastructure-plan The Hill)"]
+# U.S. President Donald Trump introduces his $1.5 trillion federal infrastructure plan to several governors and mayors at the White House. 
+
+The Trump administration is asking Congress to cut “duplicative” environmental review procedures as part of the president’s massive
 
 
+### Sources:
 
+1. [The Hill](http://thehill.com/policy/energy-environment/373414-trump-aims-to-speed-environmental-reviews-in-infrastructure-plan)
+1. [Cover Image](http://thehill.com/sites/default/files/trump_020618getty.jpg)
 
 ### Related:
 
