@@ -9,7 +9,7 @@ The overnight clash came after pro-government forces attacked a U.S.-backed base
 
 ##### Economy of Germany
 ### [Germany's trade surplus shrank in 2017 for the first time since 2009, reflecting strong domestic demand. ](/news/2018/02/8/germany-s-trade-surplus-shrank-in-2017-for-the-first-time-since-2009-reflecting-strong-domestic-demand.md)
-_Context: Economy of Germany, trade surplus_
+_Context: trade surplus, Economy of Germany_
 
 ##### Japan-United Kingdom relations
 ### [After a meeting with top Japanese business and British government executives in 10 Downing Street, Japan's ambassador to Britain warns that companies may discontinue their UK operations if a Brexit without a new trade deal makes them unprofitable. ](/news/2018/02/8/after-a-meeting-with-top-japanese-business-and-british-government-executives-in-10-downing-street-japan-s-ambassador-to-britain-warns-that.md)
@@ -25,7 +25,7 @@ BANJUL (Reuters) – Gambia has rejoined the Commonwealth, the tiny West African
 
 ##### Belgium-Netherlands relations
 ### [A judge in Amsterdam delays the extradition of the man suspected of a lethal stabbing on the Bruges Market Square, citing concerns over the living conditions in Belgian jails. ](/news/2018/02/8/a-judge-in-amsterdam-delays-the-extradition-of-the-man-suspected-of-a-lethal-stabbing-on-the-bruges-market-square-citing-concerns-over-the.md)
-_Context: Market Square, Amsterdam, Belgium-Netherlands relations, Bruges, concerns_
+_Context: Bruges, Amsterdam, Belgium-Netherlands relations, concerns, Market Square_
 
 ##### United States-Guatemala relations
 ### [U.S. President Donald Trump meets with Guatemalan President Jimmy Morales. Trump thanks Morales for having supported the decision of the United States to recognize Jerusalem as Israel's capital. They discuss various issues about the crisis in Venezuela, drug trafficking and the UN anti-corruption commission. ](/news/2018/02/8/u-s-president-donald-trump-meets-with-guatemalan-president-jimmy-morales-trump-thanks-morales-for-having-supported-the-decision-of-the-uni.md)
@@ -41,11 +41,11 @@ McArthur, 66, a self-employed landscaper, was charged last month with five count
 
 ##### Mexican Drug War
 ### [Mexican authorities arrest American-born Jose Maria Guizar Valencia, the alleged leader of the Zetas drug cartel, as he was entering a hotel in Mexico City's upscale neighborhood of Roma. ](/news/2018/02/8/mexican-authorities-arrest-american-born-jose-maria-guizar-valencia-the-alleged-leader-of-the-zetas-drug-cartel-as-he-was-entering-a-hotel.md)
-_Context: Mexican Drug War, Mexico City, Zetas, Roma, American, drug cartel_
+_Context: Mexico City, Zetas, American, Mexican Drug War, drug cartel, Roma_
 
 ##### Weinstein effect
 ### [Jeff Kruse announces his resignation from the Oregon State Senate, effective March 15, amid allegations that he sexually harassed female colleagues and other staffers. Kruse denies the allegations. ](/news/2018/02/8/jeff-kruse-announces-his-resignation-from-the-oregon-state-senate-effective-march-15-amid-allegations-that-he-sexually-harassed-female-col.md)
-_Context: Weinstein effect, Jeff Kruse, Oregon State Senate_
+_Context: Jeff Kruse, Oregon State Senate, Weinstein effect_
 
 ## [Previous Day...](/news/2018/02/7/index.md)
 

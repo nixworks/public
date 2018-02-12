@@ -11,7 +11,7 @@ Up to 16,000 London City Airport passengers are affected after the 500kg device 
 
 ### Sources:
 
-1. [BBC News](http://www.bbc.co.uk/news/uk-england-london-43027472)
+1. [BBC](http://www.bbc.co.uk/news/uk-england-london-43027472)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/branded_news/108A5/production/_99994776_de52.jpg)
 
 ### Related:
