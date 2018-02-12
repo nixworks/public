@@ -13,7 +13,7 @@ A state of emergency has been declared as New Zealand aid agencies gear to help.
 
 ##### Saratov Airlines Flight 703
 ### [MOSCOW (AP) - Emergency teams combed snowy fields outside Moscow Monday for debris from a crashed Russian airliner and the remains of the 71 people who died. Transport Minister Maksim Sokolov said the search for victims' remains will take a week. He noted that emergency teams already have found the plane's flight data recorder, which is crucial for determining the crash's cause. ](/news/2018/02/12/moscow-ap-emergency-teams-combed-snowy-fields-outside-moscow-monday-for-debris-from-a-crashed-russian-airliner-and-the-remains-of-the-71.md)
-_Context: Russian, Moscow, Transport, Emergency, airliner, flight data recorder, Saratov Airlines Flight 703, Maksim Sokolov_
+_Context: Transport, flight data recorder, Emergency, Maksim Sokolov, airliner, Saratov Airlines Flight 703, Russian, Moscow_
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -25,7 +25,7 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ##### Concerns and controversies at the 2018 Winter Olympics
 ### [NBC fires analyst Joshua Cooper Ramo for comments he made during the 2018 Winter Olympics about Korea under Japanese rule, which he has since apologized for making. ](/news/2018/02/11/nbc-fires-analyst-joshua-cooper-ramo-for-comments-he-made-during-the-2018-winter-olympics-about-korea-under-japanese-rule-which-he-has-sinc.md)
-_Context: 2018 Winter Olympics, Concerns and controversies at the 2018 Winter Olympics, Korea under Japanese rule, NBC, Joshua Cooper Ramo_
+_Context: 2018 Winter Olympics, NBC, Korea under Japanese rule, Concerns and controversies at the 2018 Winter Olympics, Joshua Cooper Ramo_
 
 ##### Saratov Airlines Flight 703
 ### [An Antonov An-148 of Saratov Airlines with 71 people on board crashes shortly after take-off from Domodedovo Airport, Moscow, Russia. The TASS agency cites an emergency source stating that none of the 65 passengers and 6 crew members have survived. ](/news/2018/02/11/an-antonov-an-148-of-saratov-airlines-with-71-people-on-board-crashes-shortly-after-take-off-from-domodedovo-airport-moscow-russia-the-ta.md)
@@ -61,7 +61,7 @@ Photographs show double-decker bus lying on its side with its roof torn off near
 
 ##### West Java
 ### [A bus carrying local tourists crashes in West Java, Indonesia, killing at least 27 people. ](/news/2018/02/10/a-bus-carrying-local-tourists-crashes-in-west-java-indonesia-killing-at-least-27-people.md)
-_Context: Indonesia, West Java_
+_Context: West Java, Indonesia_
 
 ##### Helicopter
 ### [A Papillon Tours helicopter crashes in the Grand Canyon in the Southwestern United States, killing three people and injuring the other four on board. The six passengers were all British citizens. ](/news/2018/02/10/a-papillon-tours-helicopter-crashes-in-the-grand-canyon-in-the-southwestern-united-states-killing-three-people-and-injuring-the-other-four.md)
@@ -73,19 +73,19 @@ Narendra Modi backs independent Palestinian state during first trip by an Indian
 
 ##### North Korea-South Korea relations
 ### [South Korean President Moon Jae-in hosts talks at the Blue House with North Korean President of the Presidium of the Supreme People's Assembly Kim Yong-nam and Kim Jong-Un's sister Kim Yo-jong. ](/news/2018/02/10/south-korean-president-moon-jae-in-hosts-talks-at-the-blue-house-with-north-korean-president-of-the-presidium-of-the-supreme-people-s-assemb.md)
-_Context: Kim Yong-nam, President of the Presidium of the Supreme People's Assembly, Kim Yo-jong, North Korea, North Korea-South Korea relations, Blue House, Kim Jong-Un, South Korean President, Moon Jae-in_
+_Context: Blue House, Kim Jong-Un, North Korea, Moon Jae-in, North Korea-South Korea relations, South Korean President, Kim Yong-nam, Kim Yo-jong, President of the Presidium of the Supreme People's Assembly_
 
 ##### Crime in Ohio
 ### [Two officers of the Westerville, Ohio Police Department are shot and killed (one died immediately, one later at the hospital) in an ambush-type attack which had begun as a domestic dispute between the male perpetrator, who was wounded during the incident, and his wife. ](/news/2018/02/10/two-officers-of-the-westerville-ohio-police-department-are-shot-and-killed-one-died-immediately-one-later-at-the-hospital-in-an-ambush-t.md)
-_Context: ambush, Westerville, Ohio, Crime in Ohio_
+_Context: Crime in Ohio, ambush, Westerville, Ohio_
 
 ##### Politics of the United States
 ### [Heath Hall, the acting Federal Railroad Administration chief, resigns "effective immediately" over a Politico report that he has a second job in Madison County, Mississippi. ](/news/2018/02/10/heath-hall-the-acting-federal-railroad-administration-chief-resigns-effective-immediately-over-a-politico-report-that-he-has-a-second-jo.md)
-_Context: Politico, Federal Railroad Administration, Madison County, Mississippi, Politics of the United States_
+_Context: Politico, Madison County, Mississippi, Politics of the United States, Federal Railroad Administration_
 
 ##### Politics of the Republic of Ireland
 ### [Mary Lou McDonald is confirmed in the position of president of Sinn Fein. She succeeds Gerry Adams, who was Sinn Fein's leader since 1983. ](/news/2018/02/10/mary-lou-mcdonald-is-confirmed-in-the-position-of-president-of-sinn-fa-c-in-she-succeeds-gerry-adams-who-was-sinn-fa-c-in-s-leader-since-1983.md)
-_Context: president of Sinn Fein, Sinn Fein, Gerry Adams, Politics of the Republic of Ireland, Mary Lou McDonald_
+_Context: Gerry Adams, president of Sinn Fein, Mary Lou McDonald, Sinn Fein, Politics of the Republic of Ireland_
 
 ---
 

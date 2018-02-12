@@ -13,7 +13,7 @@ A state of emergency has been declared as New Zealand aid agencies gear to help.
 
 ##### Saratov Airlines Flight 703
 ### [MOSCOW (AP) - Emergency teams combed snowy fields outside Moscow Monday for debris from a crashed Russian airliner and the remains of the 71 people who died. Transport Minister Maksim Sokolov said the search for victims' remains will take a week. He noted that emergency teams already have found the plane's flight data recorder, which is crucial for determining the crash's cause. ](/news/2018/02/12/moscow-ap-emergency-teams-combed-snowy-fields-outside-moscow-monday-for-debris-from-a-crashed-russian-airliner-and-the-remains-of-the-71.md)
-_Context: Russian, Moscow, Transport, Emergency, airliner, flight data recorder, Saratov Airlines Flight 703, Maksim Sokolov_
+_Context: Transport, flight data recorder, Emergency, Maksim Sokolov, airliner, Saratov Airlines Flight 703, Russian, Moscow_
 
 ## [Previous Day...](/news/2018/02/11/index.md)
 
