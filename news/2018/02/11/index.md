@@ -3,10 +3,6 @@ Formats: [HTML](2018/02/11/index.html)  [JSON](2018/02/11/index.json)  [XML](201
 
 ## [2018-02-11](/news/2018/02/11/index.md)
 
-##### Concerns and controversies at the 2018 Winter Olympics
-### [NBC fires analyst Joshua Cooper Ramo for comments he made during the 2018 Winter Olympics about Korea under Japanese rule, which he has since apologized for making. ](/news/2018/02/11/nbc-fires-analyst-joshua-cooper-ramo-for-comments-he-made-during-the-2018-winter-olympics-about-korea-under-japanese-rule-which-he-has-sinc.md)
-_Context: NBC, 2018 Winter Olympics, Concerns and controversies at the 2018 Winter Olympics, Joshua Cooper Ramo, Korea under Japanese rule_
-
 ##### Saratov Airlines Flight 703
 ### [An Antonov An-148 of Saratov Airlines with 71 people on board crashes shortly after take-off from Domodedovo Airport, Moscow, Russia. The TASS agency cites an emergency source stating that none of the 65 passengers and 6 crew members have survived. ](/news/2018/02/11/an-antonov-an-148-of-saratov-airlines-with-71-people-on-board-crashes-shortly-after-take-off-from-domodedovo-airport-moscow-russia-the-ta.md)
 The Russian regional airliner went down within minutes, killing all 71 people on board.

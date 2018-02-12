@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/12/tonga-is-nervously-waiting-for-a-direct-hit-fro
 ### [2018-02-12](/news/2018/02/12/index.md)
 
 ##### 2017-18 South Pacific cyclone season
-# Tonga is nervously waiting for a direct hit from tropical cyclone Gita, forecast to become a category 5 event. Tropical cyclone Gita is due to make landfall about 7pm (local time is the same as NZT). It has strengthened overnight and is forecast to strike Tonga. A state of emergency has been declared in the island kingdom and it is thought the cyclone will be the strongest storm ever to hit Tonga in history. 
+# Tonga is nervously waiting for a direct hit from tropical cyclone Gita, forecast to become a category 5 event. Tropical cyclone Gita is due to make landfall about 7pm local time. It has strengthened overnight and is forecast to strike Tonga. A state of emergency has been declared in the island kingdom and it is thought the cyclone will be the strongest storm ever to hit Tonga in history. 
 
 A state of emergency has been declared as New Zealand aid agencies gear to help.
 
@@ -16,7 +16,7 @@ A state of emergency has been declared as New Zealand aid agencies gear to help.
 ### Changes:
 
 1. [Tonga is nervously waiting for a direct hit from Tropical Cyclone Gita - which is forecast to become a category 5 event. Tropical Cyclone Gita is due to make landfall about 7pm (local time is the same as NZT). It has strengthened overnight and is forecast to strike Tonga. A state of emergency has been declared in the island kingdom and it is thought the cyclone will be the strongest storm ever to hit Tonga in history. ](/news/2018/02/12/tonga-is-nervously-waiting-for-a-direct-hit-from-tropical-cyclone-gita-which-is-forecast-to-become-a-category-5-event-tropical-cyclone-gi.md) _2018-02-12 14:30:20 (First version)_
-1. [Tonga is nervously waiting for a direct hit from tropical cyclone Gita, forecast to become a category 5 event. Tropical cyclone Gita is due to make landfall about 7pm (local time is the same as NZT). It has strengthened overnight and is forecast to strike Tonga. A state of emergency has been declared in the island kingdom and it is thought the cyclone will be the strongest storm ever to hit Tonga in history. ](/news/2018/02/12/tonga-is-nervously-waiting-for-a-direct-hit-from-tropical-cyclone-gita-forecast-to-become-a-category-5-event-tropical-cyclone-gita-is-due.md) _(Current version)_
+1. [Tonga is nervously waiting for a direct hit from tropical cyclone Gita, forecast to become a category 5 event. Tropical cyclone Gita is due to make landfall about 7pm local time. It has strengthened overnight and is forecast to strike Tonga. A state of emergency has been declared in the island kingdom and it is thought the cyclone will be the strongest storm ever to hit Tonga in history. ](/news/2018/02/12/tonga-is-nervously-waiting-for-a-direct-hit-from-tropical-cyclone-gita-forecast-to-become-a-category-5-event-tropical-cyclone-gita-is-due.md) _(Current version)_
 
 ### Related:
 
