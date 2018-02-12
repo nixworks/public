@@ -37,11 +37,11 @@ Turkey and Greece have agreed to ask for a NATO mission to monitor refugee flows
 
 ##### Rojava conflict
 ### [Turkish President Recep Tayyip Erdogan blasts the United States over its support for Syrian Kurdish groups which Turkey considers to be terrorists. ](/news/2016/02/10/turkish-president-recep-tayyip-erdoaan-blasts-the-united-states-over-its-support-for-syrian-kurdish-groups-which-turkey-considers-to-be-ter.md)
-_Context: President of Turkey, American, Rojava conflict, terrorist, Syrian Kurdish groups, Recep Tayyip Erdogan_
+_Context: President of Turkey, Syrian Kurdish groups, Recep Tayyip Erdogan, Rojava conflict, American, terrorist_
 
 ##### Abingdon
 ### [A shootout in Abingdon, Maryland results in the deaths of two Harford County Sheriff's Office deputies and the suspected gunman. ](/news/2016/02/10/a-shootout-in-abingdon-maryland-results-in-the-deaths-of-two-harford-county-sheriff-s-office-deputies-and-the-suspected-gunman.md)
-_Context: Harford County Sheriff's Office, Abingdon, Maryland_
+_Context: Harford County Sheriff's Office, Maryland, Abingdon_
 
 ##### North Korea
 ### [North Korea reportedly executes Ri Yong-gil, Chief of the General Staff of the Korean People's Army on charges of corruption, according to South Korean media. ](/news/2016/02/10/north-korea-reportedly-executes-ri-yong-gil-chief-of-the-general-staff-of-the-korean-people-s-army-on-charges-of-corruption-according-to-s.md)
@@ -57,7 +57,7 @@ Republican Chris Christie drops out of the US presidential race after a disappoi
 
 ##### Parliament of Australia
 ### [The Parliament of Australia considers the Turnbull Government's proposed legislation to legalize the growing of marijuana for medical use. The bill is expected to pass. ](/news/2016/02/10/the-parliament-of-australia-considers-the-turnbull-government-s-proposed-legislation-to-legalize-the-growing-of-marijuana-for-medical-use-t.md)
-_Context: Parliament of Australia, Turnbull Government, marijuana for medical use_
+_Context: Parliament of Australia, marijuana for medical use, Turnbull Government_
 
 ##### Foreign minister
 ### [French Foreign Minister Laurent Fabius announces his resignation. President Francois Hollande says he will nominate Fabius to lead the country's Constitutional Council. ](/news/2016/02/10/french-foreign-minister-laurent-fabius-announces-his-resignation-president-francois-hollande-says-he-will-nominate-fabius-to-lead-the-count.md)

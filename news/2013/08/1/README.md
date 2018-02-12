@@ -11,13 +11,13 @@ Five Afghan policeman die in a US air strike during a battle with insurgents nea
 ### [The Dow Jones Industrial Average and S&P 500 hit record highs. ](/news/2013/08/1/the-dow-jones-industrial-average-and-s-p-500-hit-record-highs.md)
 U.S. stocks rise sharply after data that show jobless claims falling to a five-year low and a manufacturing index surging to a two-year high.
 
-##### National Security Agency
+##### NSA
 ### [American National Security Agency whistleblower Edward Snowden is granted a one-year temporary political asylum in Russia and leaves Moscow's Sheremetyevo Airport. ](/news/2013/08/1/american-national-security-agency-whistleblower-edward-snowden-is-granted-a-one-year-temporary-political-asylum-in-russia-and-leaves-moscow.md)
 NSA whistleblower Edward Snowden has been granted temporary asylum in Russia and is allowed to enter the country’s territory.
 
 ##### Manila
 ### [In talks in Manila, the Philippines and Vietnam agree to work together on a framework for resolving maritime territorial disputes in the South China Sea. ](/news/2013/08/1/in-talks-in-manila-the-philippines-and-vietnam-agree-to-work-together-on-a-framework-for-resolving-maritime-territorial-disputes-in-the-sou.md)
-_Context: Vietnam, Manila, Philippines_
+_Context: Manila, Philippines, Vietnam_
 
 ##### Vietnam
 ### [Russian police detain 1,200 illegal Vietnamese migrants in raids in Moscow. ](/news/2013/08/1/russian-police-detain-1-200-illegal-vietnamese-migrants-in-raids-in-moscow.md)
@@ -29,7 +29,7 @@ _Context: Greece, Turkey_
 
 ##### American
 ### [The U.S. states of Minnesota and Rhode Island begin issuing marriage licenses to same-sex couples. ](/news/2013/08/1/the-u-s-states-of-minnesota-and-rhode-island-begin-issuing-marriage-licenses-to-same-sex-couples.md)
-_Context: Rhode Island, American, same-sex marriage in the United States, Minnesota_
+_Context: Rhode Island, Minnesota, American, same-sex marriage in the United States_
 
 ##### Dhaka
 ### [The Dhaka High Court rules the registration of Bangladesh's largest Islamic group Jamaat-e-Islami as a political party illegal making it potentially ineligible to contest elections. ](/news/2013/08/1/the-dhaka-high-court-rules-the-registration-of-bangladesh-s-largest-islamic-group-jamaat-e-islami-as-a-political-party-illegal-making-it-pot.md)
@@ -45,19 +45,19 @@ Ariel Castro is jailed for life plus 1,000 years for kidnapping three women and 
 
 ##### Italy
 ### [Italy's top court confirms that former Prime Minister Silvio Berlusconi will serve a prison sentence for a tax fraud conviction. ](/news/2013/08/1/italy-s-top-court-confirms-that-former-prime-minister-silvio-berlusconi-will-serve-a-prison-sentence-for-a-tax-fraud-conviction.md)
-_Context: Italian Prime Minister, Italy, top court, Silvio Berlusconi_
+_Context: Italy, Silvio Berlusconi, top court, Italian Prime Minister_
 
 ##### Prime Minister of Tuvalu
 ### [The Prime Minister of Tuvalu, Willy Telavi, is removed from office by Governor General Iakoba Italeli after accusations that he allegedly tried to replace Italeli as Governor General. Opposition leader Enele Sopoaga is appointed as the country's acting Prime Minister. ](/news/2013/08/1/the-prime-minister-of-tuvalu-willy-telavi-is-removed-from-office-by-governor-general-iakoba-italeli-after-accusations-that-he-allegedly-tr.md)
-_Context: Prime Minister of Tuvalu, Iakoba Italeli, Enele Sopoaga, Governor General, Willy Telavi_
+_Context: Willy Telavi, Enele Sopoaga, Prime Minister of Tuvalu, Iakoba Italeli, Governor General_
 
 ##### Parliament of New Zealand
 ### [Geoff Thorn, the General Manager of Parliamentary Service in the Parliament of New Zealand, submits his resignation to the Speaker David Carter after phone and other data belonging to Fairfax New Zealand journalist Andrea Vance were released to an inquiry without her permission. ](/news/2013/08/1/geoff-thorn-the-general-manager-of-parliamentary-service-in-the-parliament-of-new-zealand-submits-his-resignation-to-the-speaker-david-car.md)
-_Context: Parliament of New Zealand, Fairfax New Zealand, Speaker, David Carter_
+_Context: Parliament of New Zealand, Speaker, David Carter, Fairfax New Zealand_
 
 ##### Robert Mugabe
 ### [Robert Mugabe's ZANU-PF party claims victory in yesterday's Zimbabwean general election as the opposition Movement for Democratic Change alleges "massive fraud". ](/news/2013/08/1/robert-mugabe-s-zanu-pf-party-claims-victory-in-yesterday-s-zimbabwean-general-election-as-the-opposition-movement-for-democratic-change-all.md)
-_Context: recent elections, Robert Mugabe, Movement for Democratic Change, ZANU-PF_
+_Context: Movement for Democratic Change, recent elections, Robert Mugabe, ZANU-PF_
 
 ## [Previous Day...](/news/2013/07/31/index.md)
 

@@ -9,7 +9,7 @@ _Context: Netherlands Environmental Assessment Agency, China's greenhouse gas em
 
 ##### Prosecutor
 ### [ French prosecutors launch an investigation into alleged embezzlement by two African leaders, Omar Bongo Ondimba of Gabon and Denis Sassou Nguesso of the Republic of the Congo. ](/news/2007/06/19/french-prosecutors-launch-an-investigation-into-alleged-embezzlement-by-two-african-leaders-omar-bongo-ondimba-of-gabon-and-denis-sassou-n.md)
-_Context: prosecutor, embezzlement, Republic of the Congo, Denis Sassou Nguesso, Gabon, Omar Bongo Ondimba_
+_Context: prosecutor, Omar Bongo Ondimba, embezzlement, Gabon, Republic of the Congo, Denis Sassou Nguesso_
 
 ##### Michael Bloomberg
 ### [ Michael Bloomberg, mayor of New York City, leaves the Republican Party and registers as an independent. ](/news/2007/06/19/michael-bloomberg-mayor-of-new-york-city-leaves-the-republican-party-and-registers-as-an-independent.md)
@@ -17,7 +17,7 @@ Mayor Michael R. Bloomberg of New York, a former Democrat, is changing his affil
 
 ##### North Korea
 ### [ North Korea is reported to have test-fired a short-range missile towards the Sea of Japan. ](/news/2007/06/19/north-korea-is-reported-to-have-test-fired-a-short-range-missile-towards-the-sea-of-japan.md)
-_Context: North Korea, test-fired a short-range missile, Sea of Japan_
+_Context: Sea of Japan, North Korea, test-fired a short-range missile_
 
 ##### Hostage
 ### [ Two armed robbers are holding several people hostage in a Crdit Lyonnais bank in Paris. ](/news/2007/06/19/two-armed-robbers-are-holding-several-people-hostage-in-a-credit-lyonnais-bank-in-paris.md)
@@ -33,11 +33,11 @@ The U.S. military said it had launched a major offensive against al Qaeda north 
 
 ##### Fossil
 ### [ An early fossil proving that the giant panda was once a pygmy is found. ](/news/2007/06/19/an-early-fossil-proving-that-the-giant-panda-was-once-a-pygmy-is-found.md)
-_Context: fossil, pygmy, panda_
+_Context: fossil, panda, pygmy_
 
 ##### Fiji
 ### [ Fiji's interim government agrees in principle to elections in 2009, following a Pacific Islands Forum assessment, and calls for assistance from the European Union and Pacific nations like Australia for funding. ](/news/2007/06/19/fiji-s-interim-government-agrees-in-principle-to-elections-in-2009-following-a-pacific-islands-forum-assessment-and-calls-for-assistance.md)
-_Context: Pacific Islands Forum, Fiji, 2009, election, European Union_
+_Context: Pacific Islands Forum, European Union, 2009, Fiji, election_
 
 ##### Papua New Guinea
 ### [ A candidate in the forthcoming Papua New Guinea election is charged with attempted murder of Deputy Prime Minister Don Polye. ](/news/2007/06/19/a-candidate-in-the-forthcoming-papua-new-guinea-election-is-charged-with-attempted-murder-of-deputy-prime-minister-don-polye.md)

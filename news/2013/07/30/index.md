@@ -13,7 +13,7 @@ Syrian opposition and government forces battle for Homs; Kurdish leader killed
 
 ##### Sudanese nomadic conflicts
 ### [134 people are reported to have been killed in a new wave of violence between two rival tribes in Sudan's Darfur region. ](/news/2013/07/30/134-people-are-reported-to-have-been-killed-in-a-new-wave-of-violence-between-two-rival-tribes-in-sudan-s-darfur-region.md)
-_Context: Darfur, Sudanese nomadic conflicts_
+_Context: Sudanese nomadic conflicts, Darfur_
 
 ##### Vietnam
 ### [Vietnam's Ministry of Justice, Ha Hung Cuong, becomes the second government ministry, after the Health Ministry, to back plans to legalize same-sex marriage in Vietnam, when he submits a draft of an amended Law on Marriage and Family to the government. ](/news/2013/07/30/vietnamas-ministry-of-justice-ha-ha1ng-caedega-ng-becomes-the-second-government-ministry-after-the-health-ministry-to-back-plans-to-leg.md)
@@ -21,7 +21,7 @@ Vietnam’s Ministry of Justice has followed on the heels of the country’s Min
 
 ##### Fiat
 ### [Fiat wins at least a partial victory in Delaware Chancery Court, but the judge declines its invitation to order a United Autoworkers affiliated trust to sell its Chrysler shares to the Italian company. ](/news/2013/07/30/fiat-wins-at-least-a-partial-victory-in-delaware-chancery-court-but-the-judge-declines-its-invitation-to-order-a-united-autoworkers-affilia.md)
-_Context: Chrysler, United Autoworkers, Fiat, Delaware Chancery Court_
+_Context: Chrysler, Fiat, Delaware Chancery Court, United Autoworkers_
 
 ##### India
 ### [At least nine children are killed and another twenty injured after their school bus collides with a truck in the Indian city of Hanumangarh in Rajasthan state. ](/news/2013/07/30/at-least-nine-children-are-killed-and-another-twenty-injured-after-their-school-bus-collides-with-a-truck-in-the-indian-city-of-hanumangarh.md)
@@ -41,7 +41,7 @@ _Context: train that derailed_
 
 ##### Honduras
 ### [Honduras declares a state of emergency after an outbreak of dengue fever kills 16 people and sickens 12,000. ](/news/2013/07/30/honduras-declares-a-state-of-emergency-after-an-outbreak-of-dengue-fever-kills-16-people-and-sickens-12-000.md)
-_Context: state of emergency, Honduras, dengue_
+_Context: Honduras, dengue, state of emergency_
 
 ##### US Secretary of State
 ### [US Secretary of State, John Kerry, announces that Israeli and Palestinian officials have agreed to resume negotiations for a peace agreement. ](/news/2013/07/30/us-secretary-of-state-john-kerry-announces-that-israeli-and-palestinian-officials-have-agreed-to-resume-negotiations-for-a-peace-agreement.md)
@@ -69,7 +69,7 @@ _Context: Internet forum, Raif Badawi, religion in Saudi Arabia_
 
 ##### Mamnoon Hussain
 ### [Mamnoon Hussain is elected as the 12th President of Pakistan. ](/news/2013/07/30/mamnoon-hussain-is-elected-as-the-12th-president-of-pakistan.md)
-_Context: elected, Mamnoon Hussain, president_
+_Context: Mamnoon Hussain, elected, president_
 
 ## [Previous Day...](/news/2013/07/29/index.md)
 

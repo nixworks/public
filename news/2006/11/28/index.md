@@ -9,7 +9,7 @@ Judge rules that the Treasury Department has denied blind people reasonable acce
 
 ##### Speaker-designate
 ### [ Speaker-designate of the United States House of Representatives Nancy Pelosi announces that controversial Democratic Rep. Alcee Hastings will not be the chairman of the House Permanent Select Committee on Intelligence in the 110th Congress. ](/news/2006/11/28/speaker-designate-of-the-united-states-house-of-representatives-nancy-pelosi-announces-that-controversial-democratic-rep-alcee-hastings-wi.md)
-_Context: Speaker-designate, United States House of Representatives, Nancy Pelosi, Democrat, House Permanent Select Committee on Intelligence, Rep. Alcee Hastings, 110th Congress_
+_Context: House Permanent Select Committee on Intelligence, Rep. Alcee Hastings, 110th Congress, Nancy Pelosi, Speaker-designate, Democrat, United States House of Representatives_
 
 ##### Rafael Correa
 ### [ Rafael Correa will be the next President of Ecuador after winning the election with 57 per cent of the vote (94% counted). He will not be officially confirmed until all the votes are counted. ](/news/2006/11/28/rafael-correa-will-be-the-next-president-of-ecuador-after-winning-the-election-with-57-per-cent-of-the-vote-94-counted-he-will-not-be-o.md)
@@ -17,11 +17,11 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Canadian House of Commons
 ### [ The Canadian House of Commons supports a motion recognising the people of Quebec as a separate nation within a united Canada. ](/news/2006/11/28/the-canadian-house-of-commons-supports-a-motion-recognising-the-people-of-quebec-as-a-separate-nation-within-a-united-canada.md)
-_Context: Canadian House of Commons, nation, Quebec, Canadian_
+_Context: Canadian House of Commons, nation, Canadian, Quebec_
 
 ##### Ben Bernanke
 ### [ Ben Bernanke, the Chairman of the United States Federal Reserve predicts that the US economy should undertake a moderate expansion but inflation risks are "primarily to the upside." ](/news/2006/11/28/ben-bernanke-the-chairman-of-the-united-states-federal-reserve-predicts-that-the-us-economy-should-undertake-a-moderate-expansion-but-infl.md)
-_Context: Ben Bernanke, American, Federal Reserve, inflation_
+_Context: American, Federal Reserve, Ben Bernanke, inflation_
 
 ##### Chad
 ### [ Chadian rebels said they shot down a government military plane with a captured ground-to-air missile in fighting near the eastern town of Abeche, which they briefly seized at the weekend. ](/news/2006/11/28/chadian-rebels-said-they-shot-down-a-government-military-plane-with-a-captured-ground-to-air-missile-in-fighting-near-the-eastern-town-of-a.md)
@@ -33,19 +33,19 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Pope Benedict XVI
 ### [ Pope Benedict XVI arrives in Turkey at the start of a four day tour that has sparked protests. ](/news/2006/11/28/pope-benedict-xvi-arrives-in-turkey-at-the-start-of-a-four-day-tour-that-has-sparked-protests.md)
-_Context: Pope Benedict XVI, Turkey_
+_Context: Turkey, Pope Benedict XVI_
 
 ##### Thailand
 ### [ The Thai Government lifts martial law in 41 of the country's 76 provinces as recommended by coup leader Sonthi Boonyaratglin. ](/news/2006/11/28/the-thai-government-lifts-martial-law-in-41-of-the-country-s-76-provinces-as-recommended-by-coup-leader-sonthi-boonyaratglin.md)
-_Context: martial law, coup, Thailand, Sonthi Boonyaratglin_
+_Context: Thailand, Sonthi Boonyaratglin, martial law, coup_
 
 ##### North Korea
 ### [ Nuclear envoys from North Korea, China and the United States meet to discuss North Korea's nuclear program. ](/news/2006/11/28/nuclear-envoys-from-north-korea-china-and-the-united-states-meet-to-discuss-north-korea-s-nuclear-program.md)
-_Context: American, North Korea, China_
+_Context: American, China, North Korea_
 
 ##### Prime Minister
 ### [ The Prime Minister of Fiji Laisenia Qarase flies to New Zealand to hold talks with Commodore Frank Bainimarama tomorrow as part of efforts sponsored by the New Zealand Government to avert a coup d'etat. ](/news/2006/11/28/the-prime-minister-of-fiji-laisenia-qarase-flies-to-new-zealand-to-hold-talks-with-commodore-frank-bainimarama-tomorrow-as-part-of-efforts.md)
-_Context: coup, Laisenia Qarase, Prime Minister, New Zealand, Voreqe Bainimarama_
+_Context: Laisenia Qarase, Voreqe Bainimarama, New Zealand, Prime Minister, coup_
 
 ## [Previous Day...](/news/2006/11/27/index.md)
 

@@ -33,7 +33,7 @@ DO YOU KNOW MORE? CONTACT THE HERALD HERE - New Zealand Herald
 
 ##### President of Italy
 ### [President of Italy Giorgio Napolitano announces his impending resignation, citing "old age". ](/news/2014/12/31/president-of-italy-giorgio-napolitano-announces-his-impending-resignation-citing-old-age.md)
-_Context: President of Italy, Giorgio Napolitano_
+_Context: Giorgio Napolitano, President of Italy_
 
 ##### President of Gambia
 ### [President of Gambia Yahya Jammeh remains in power after a failed coup attempt while he was travelling outside the country. ](/news/2014/12/31/president-of-gambia-yahya-jammeh-remains-in-power-after-a-failed-coup-attempt-while-he-was-travelling-outside-the-country.md)
@@ -41,15 +41,15 @@ President Yahya Jammeh arrives in Gambian capital after a failed coup on his pre
 
 ##### Nur Bekri
 ### [Nur Bekri resigns as the Chairman of the Xinjiang Uyghur Autonomous Region of China to become the Director of the National Energy Administration, and is replaced in the interim by Shohrat Zakir. ](/news/2014/12/31/nur-bekri-resigns-as-the-chairman-of-the-xinjiang-uyghur-autonomous-region-of-china-to-become-the-director-of-the-national-energy-administra.md)
-_Context: Xinjiang, National Energy Administration, Nur Bekri, Shohrat Zakir_
+_Context: National Energy Administration, Shohrat Zakir, Xinjiang, Nur Bekri_
 
 ##### Sun Chunlan
 ### [China relieves Sun Chunlan of her post as Party Committee Secretary of Tianjin, China, and replaces her on an interim basis with Huang Xingguo. ](/news/2014/12/31/china-relieves-sun-chunlan-of-her-post-as-party-committee-secretary-of-tianjin-china-and-replaces-her-on-an-interim-basis-with-huang-xingg.md)
-_Context: Huang Xingguo, Sun Chunlan, Tianjin, Party Committee Secretary_
+_Context: Party Committee Secretary, Huang Xingguo, Tianjin, Sun Chunlan_
 
 ##### Djibouti
 ### [As part of an agreement with Djibouti's Prime Minister Abdoulkader Kamil, the country's main opposition party, the Union for National Salvation, decides to return to its eight seats in the National Assembly after having boycotted it since the parliamentary election in 2013. ](/news/2014/12/31/as-part-of-an-agreement-with-djibouti-s-prime-minister-abdoulkader-kamil-the-country-s-main-opposition-party-the-union-for-national-salvat.md)
-_Context: parliamentary election in 2013, Union for National Salvation, Djibouti, Abdoulkader Kamil_
+_Context: parliamentary election in 2013, Union for National Salvation, Abdoulkader Kamil, Djibouti_
 
 ## [Previous Day...](/news/2014/12/30/index.md)
 

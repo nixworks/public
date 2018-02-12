@@ -5,7 +5,7 @@ Formats: [HTML](2011/12/7/index.html)  [JSON](2011/12/7/index.json)  [XML](2011/
 
 ##### American
 ### [The United States commemorates the 70th anniversary of the attack on Pearl Harbor, Hawai'i. ](/news/2011/12/7/the-united-states-commemorates-the-70th-anniversary-of-the-attack-on-pearl-harbor-hawai-i.md)
-_Context: attack on Pearl Harbor, Hawai'i, Pearl Harbor, American_
+_Context: Hawai'i, attack on Pearl Harbor, American, Pearl Harbor_
 
 ##### Japan
 ### [The board of Japan's Olympus Corporation announces its plans to resign early next year due to its accounting scandal. ](/news/2011/12/7/the-board-of-japan-s-olympus-corporation-announces-its-plans-to-resign-early-next-year-due-to-its-accounting-scandal.md)
@@ -17,7 +17,7 @@ Disgraced former Israeli President Moshe Katsav begins a seven-year sentence for
 
 ##### Governor of Illinois
 ### [The former Governor of the US state of Illinois Rod Blagojevich is sentenced to 14 years in jail for corruption. ](/news/2011/12/7/the-former-governor-of-the-us-state-of-illinois-rod-blagojevich-is-sentenced-to-14-years-in-jail-for-corruption.md)
-_Context: corruption, Rod Blagojevich, Illinois, Governor of Illinois_
+_Context: Rod Blagojevich, Governor of Illinois, corruption, Illinois_
 
 ##### Anti-corruption
 ### [Security expert and anti-corruption activist Alfredo Landaverde is killed in Honduras, a day after journalist Luz Marina Paz Villalobos is killed, leading to a ban on a motorcycle passengers. ](/news/2011/12/7/security-expert-and-anti-corruption-activist-alfredo-landaverde-is-killed-in-honduras-a-day-after-journalist-luz-marina-paz-villalobos-is-k.md)
@@ -29,7 +29,7 @@ The first and only president of the Soviet Union, Mikhail Gorbachev has said tha
 
 ##### Egypt
 ### [Egypt's Freedom and Justice Party claims to have won a majority of seats in the runoff election. ](/news/2011/12/7/egypt-s-freedom-and-justice-party-claims-to-have-won-a-majority-of-seats-in-the-runoff-election.md)
-_Context: Freedom and Justice Party, Egypt, lower house of the national parliament_
+_Context: Egypt, Freedom and Justice Party, lower house of the national parliament_
 
 ##### Russian Federal Space Agency
 ### [The Russian Federal Space Agency officially gives up attempting to rescue Fobos-Grunt and Yinghuo-1, and expects them to fall back to Earth in January 2012. ](/news/2011/12/7/the-russian-federal-space-agency-officially-gives-up-attempting-to-rescue-fobos-grunt-and-yinghuo-1-and-expects-them-to-fall-back-to-earth.md)

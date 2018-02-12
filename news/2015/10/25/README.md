@@ -53,7 +53,7 @@ Jimmy Morales, a former TV comedy actor who promised to clean up Guatemala’s c
 
 ##### Louisiana gubernatorial election, 2015
 ### [Republican U.S. Senator David Vitter and Democratic state Representative John Bel Edwards top two Republican candidates for spots in the November 21 runoff election. Edwards wins 40 percent and Vitter 23 percent of the primary vote, according to unofficial returns. ](/news/2015/10/25/republican-u-s-senator-david-vitter-and-democratic-state-representative-john-bel-edwards-top-two-republican-candidates-for-spots-in-the-nov.md)
-_Context: United States Senate, Congressional primaries, Louisiana gubernatorial election, 2015, David Vitter, Democrat, Republican, state Representative, John Bel Edwards, second round_
+_Context: United States Senate, Louisiana gubernatorial election, 2015, Republican, Congressional primaries, David Vitter, John Bel Edwards, second round, state Representative, Democrat_
 
 ##### Haitian presidential election, 2015
 ### [Unlike the first round of the Haitian parliamentary elections when balloting was cancelled in 22 constituencies, voting appeared orderly, and largely peaceful, with a large turnout in Sunday's presidential and parliamentary second round elections. Electoral officials said there might be partial results in 10 days but final results would not be ready until late November. Haitians faced lengthy ballots featuring 54 presidential hopefuls and significant numbers of legislative and municipal candidates. An expected runoff between the top two presidential candidates is scheduled for December 27. ](/news/2015/10/25/unlike-the-first-round-of-the-haitian-parliamentary-elections-when-balloting-was-cancelled-in-22-constituencies-voting-appeared-orderly-an.md)
@@ -65,11 +65,11 @@ Voters are due to go to the polls in Argentina to choose a new president, to rep
 
 ##### Ivory Coast
 ### [Voters in the Ivory Coast go to the polls for a presidential election with incumbent Alassane Ouattara favoured to win. ](/news/2015/10/25/voters-in-the-ivory-coast-go-to-the-polls-for-a-presidential-election-with-incumbent-alassane-ouattara-favoured-to-win.md)
-_Context: Alassane Ouattara, Ivory Coast, Ivorian presidential election, 2015_
+_Context: Ivorian presidential election, 2015, Alassane Ouattara, Ivory Coast_
 
 ##### Tanzanian general election, 2015
 ### [Voters in Tanzania, including Tanganyika and semi-autonomous Zanzibar, which also elects its own government, go to the polls for an election with the ruling Chama Cha Mapinduzi (Revolutionary Party) facing the greatest challenge to its dominance in over 50 years. ](/news/2015/10/25/voters-in-tanzania-including-tanganyika-and-semi-autonomous-zanzibar-which-also-elects-its-own-government-go-to-the-polls-for-an-election.md)
-_Context: Tanganyika, Chama Cha Mapinduzi, Zanzibar, Tanzania, Tanzanian general election, 2015, semi-autonomous_
+_Context: Tanzanian general election, 2015, Tanzania, Chama Cha Mapinduzi, semi-autonomous, Zanzibar, Tanganyika_
 
 ## [Previous Day...](/news/2015/10/24/index.md)
 

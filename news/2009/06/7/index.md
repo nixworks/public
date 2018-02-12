@@ -5,7 +5,7 @@ Formats: [HTML](2009/06/7/index.html)  [JSON](2009/06/7/index.json)  [XML](2009/
 
 ##### European Union
 ### [ The European Union's parliamentary election concludes in Austria, Belgium, Bulgaria, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Italy, Lithuania, Luxembourg, Poland, Portugal, Romania, Slovenia, Spain, and Sweden. ](/news/2009/06/7/the-european-union-s-parliamentary-election-concludes-in-austria-belgium-bulgaria-denmark-estonia-finland-france-germany-greece-hu.md)
-_Context: European Parliament, Poland, Austria, Portugal, election, Sweden, Romania, Spain, Finland, Hungary, Germany, Lithuania, Greece, Denmark, France, Luxembourg, Estonia, Italy, Belgium, European Union, Slovenia, Bulgaria_
+_Context: election, European Parliament, Finland, Portugal, Italy, Bulgaria, Denmark, Sweden, France, Romania, Slovenia, Belgium, Estonia, Greece, European Union, Germany, Austria, Poland, Lithuania, Luxembourg, Spain, Hungary_
 
 ##### Air France
 ### [ Air France replaces airspeed sensors on its Airbus aircraft. ](/news/2009/06/7/air-france-replaces-airspeed-sensors-on-its-airbus-aircraft.md)
@@ -13,7 +13,7 @@ Search crews have spotted more bodies and found a large amount of debris from th
 
 ##### Bolivia
 ### [ Bolivia's government seeks two Irish passport-holders who are allegedly connected to the attempted assassination of President Evo Morales in April. ](/news/2009/06/7/bolivia-s-government-seeks-two-irish-passport-holders-who-are-allegedly-connected-to-the-attempted-assassination-of-president-evo-morales-i.md)
-_Context: assassination, Evo Morales, President of Bolivia, Bolivia, government, April 2009, Irish, passport-holders_
+_Context: President of Bolivia, Irish, April 2009, assassination, Bolivia, government, Evo Morales, passport-holders_
 
 ##### Gay pride
 ### [ A seven-day gay pride festival is held for the first time in Shanghai, China. ](/news/2009/06/7/a-seven-day-gay-pride-festival-is-held-for-the-first-time-in-shanghai-china.md)
@@ -21,7 +21,7 @@ _Context: China, Shanghai, gay pride, festival_
 
 ##### American
 ### [ The United States Supreme Court is requested to block Italian automaker Fiat's purchase of Chrysler. ](/news/2009/06/7/the-united-states-supreme-court-is-requested-to-block-italian-automaker-fiat-s-purchase-of-chrysler.md)
-_Context: American, Indiana State Police Pension Trust v. Chrysler, automakers, Fiat, Italy, Supreme Court of the United States, Chrysler, purchase_
+_Context: Indiana State Police Pension Trust v. Chrysler, automakers, American, purchase, Italy, Fiat, Chrysler, Supreme Court of the United States_
 
 ##### Cuba
 ### [ Former Cuban President Fidel Castro dismisses allegations that ex-U.S. State Department employee Kendall Myers spied for his country. ](/news/2009/06/7/former-cuban-president-fidel-castro-dismisses-allegations-that-ex-u-s-state-department-employee-kendall-myers-spied-for-his-country.md)
@@ -33,15 +33,15 @@ A co-ordinated plot by British cabinet ministers was behind the resignations las
 
 ##### Dalai Lama
 ### [ Dalai Lama Tenzin Gyatso is granted honorary citizenship in Paris, France. ](/news/2009/06/7/dalai-lama-tenzin-gyatso-is-granted-honorary-citizenship-in-paris-france.md)
-_Context: Dalai Lama, France, honorary citizenship, Paris, 14th Dalai Lama_
+_Context: France, honorary citizenship, Dalai Lama, Paris, 14th Dalai Lama_
 
 ##### Declares
 ### [ Radio Shabelle director Moqtar Mohamed Hirabe is killed in Mogadishu, Somalia. ](/news/2009/06/7/radio-shabelle-director-moqtar-mohamed-hirabe-is-killed-in-mogadishu-somalia.md)
-_Context: declares, Somalia, Mogadishu_
+_Context: Somalia, declares, Mogadishu_
 
 ##### Billy Elliot the Musical
 ### [ "Billy Elliot the Musical" wins Best Musical and "God of Carnage" wins Best Play at the 63rd Tony Awards. ](/news/2009/06/7/billy-elliot-the-musical-wins-best-musical-and-god-of-carnage-wins-best-play-at-the-63rd-tony-awards.md)
-_Context: Tony Award, God of Carnage, Best Play, Best Musical, Billy Elliot the Musical, 63rd_
+_Context: Best Play, Best Musical, Tony Award, Billy Elliot the Musical, God of Carnage, 63rd_
 
 ## [Previous Day...](/news/2009/06/6/index.md)
 

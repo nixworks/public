@@ -5,7 +5,7 @@ Formats: [HTML](2014/12/9/index.html)  [JSON](2014/12/9/index.json)  [XML](2014/
 
 ##### Ansar al-Sharia
 ### [An Ansar al-Sharia suicide bomb attack kills seven soldiers at an army base in southern Yemen. ](/news/2014/12/9/an-ansar-al-sharia-suicide-bomb-attack-kills-seven-soldiers-at-an-army-base-in-southern-yemen.md)
-_Context: Ansar al-Sharia, Hadhramaut Governorate, suicide bomb, soldiers_
+_Context: Hadhramaut Governorate, Ansar al-Sharia, suicide bomb, soldiers_
 
 ##### Turkish Army
 ### [Three Turkish Army soldiers die by gunfire in the town of Ceylanpinar. The local Turkish governor begins an investigation of whether the gunfire came from the Syrian side of the border. ](/news/2014/12/9/three-turkish-army-soldiers-die-by-gunfire-in-the-town-of-ceylanpinar-the-local-turkish-governor-begins-an-investigation-of-whether-the-gun.md)
@@ -33,7 +33,7 @@ You might have noticed that The Pirate Bay is offline today; the site has disapp
 
 ##### Democrat
 ### [The Democrat-controlled United States Senate Select Committee on Intelligence releases a report critical of the post-September 11 Bush Administration-era CIA interrogation techniques used to extract intelligence from captured Al-Qaeda operatives. The Obama Administration places US embassies around the world on high alert. ](/news/2014/12/9/the-democrat-controlled-united-states-senate-select-committee-on-intelligence-releases-a-report-critical-of-the-post-september-11-bush-admin.md)
-_Context: Obama Administration, Senate Intelligence Committee, report, Democrat, Bush Administration, al-Qaeda, CIA, September 11 attacks_
+_Context: Obama Administration, Bush Administration, al-Qaeda, Senate Intelligence Committee, Democrat, CIA, September 11 attacks, report_
 
 ##### Hong Kong Police Force
 ### [The Hong Kong Police Force warn protesters that they have until Thursday to leave their protest camp in Admiralty. ](/news/2014/12/9/the-hong-kong-police-force-warn-protesters-that-they-have-until-thursday-to-leave-their-protest-camp-in-admiralty.md)

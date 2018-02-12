@@ -9,7 +9,7 @@ Congress moves one step closer to fulfilling its first pledge of the 2006 electi
 
 ##### American
 ### [ The United States Food and Drug Administration suspends a gene therapy study and reviews 28 others after the death of a patient. ](/news/2007/07/26/the-united-states-food-and-drug-administration-suspends-a-gene-therapy-study-and-reviews-28-others-after-the-death-of-a-patient.md)
-_Context: Food and Drug Administration, gene therapy, American_
+_Context: gene therapy, American, Food and Drug Administration_
 
 ##### Mojave Airport
 ### [ Two people are killed and four injured in an explosion at the Mojave Airport in California. ](/news/2007/07/26/two-people-are-killed-and-four-injured-in-an-explosion-at-the-mojave-airport-in-california.md)
@@ -37,11 +37,11 @@ A federal judge ordered the government to pay $101 million to two men and the fa
 
 ##### Israel
 ### [ Israeli troops and airstrike kill four militants in an incursion into the Gaza Strip including three members of Islamic Jihad and one Hamas member. ](/news/2007/07/26/israeli-troops-and-airstrike-kill-four-militants-in-an-incursion-into-the-gaza-strip-including-three-members-of-islamic-jihad-and-one-hamas.md)
-_Context: Hamas, Israel, Gaza Strip, Hamas_
+_Context: Hamas, Gaza Strip, Israel, Hamas_
 
 ##### Explosion
 ### [ An explosion at an ordnance depot in Aleppo, Syria kills at least 15 people and injures 50 others. ](/news/2007/07/26/an-explosion-at-an-ordnance-depot-in-aleppo-syria-kills-at-least-15-people-and-injures-50-others.md)
-_Context: ordnance, explosion, Aleppo, Syria_
+_Context: ordnance, Syria, Aleppo, explosion_
 
 ##### 2007 European heat wave
 ### [ Effects of the 2007 European heat wave worsen with new forest fires being reported. ](/news/2007/07/26/effects-of-the-2007-european-heat-wave-worsen-with-new-forest-fires-being-reported.md)
@@ -49,11 +49,11 @@ _Context: 2007 European heat wave_
 
 ##### Earthquake
 ### [ A magnitude 7 earthquake in the Maluku Sea off the coast of Indonesia triggers a tsunami warning for North Maluku in Indonesia which is later cancelled. ](/news/2007/07/26/a-magnitude-7-earthquake-in-the-maluku-sea-off-the-coast-of-indonesia-triggers-a-tsunami-warning-for-north-maluku-in-indonesia-which-is-lat.md)
-_Context: tsunami, Maluku Islands, Indonesia, earthquake, North Maluku_
+_Context: earthquake, tsunami, Maluku Islands, North Maluku, Indonesia_
 
 ##### War in Afghanistan (2001-present)
 ### [ War in Afghanistan: United States-led troops kill more than 50 insurgents in the Helmand province of Afghanistan. ](/news/2007/07/26/war-in-afghanistan-united-states-led-troops-kill-more-than-50-insurgents-in-the-helmand-province-of-afghanistan.md)
-_Context: Helmand province, War in Afghanistan (2001-present), Afghanistan, American_
+_Context: Afghanistan, Helmand province, War in Afghanistan (2001-present), American_
 
 ##### Summer 2007 United Kingdom floods
 ### [ Summer 2007 United Kingdom floods: Flood water levels in the River Thames is expected to rise further as England expects more heavy rain. Two people die in Tewkesbury, Gloucestershire trying to pump water out of a club. ](/news/2007/07/26/summer-2007-united-kingdom-floods-flood-water-levels-in-the-river-thames-is-expected-to-rise-further-as-england-expects-more-heavy-rain-t.md)

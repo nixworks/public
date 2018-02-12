@@ -25,15 +25,15 @@ Political parties welcome a report calling for banks to separate their retail ba
 
 ##### A petrol pipeline explosion
 ### [At least 75 people are killed by a petrol pipeline explosion in Nairobi, Kenya. ](/news/2011/09/12/at-least-75-people-are-killed-by-a-petrol-pipeline-explosion-in-nairobi-kenya.md)
-_Context: Nairobi, Kenya, a petrol pipeline explosion_
+_Context: a petrol pipeline explosion, Kenya, Nairobi_
 
 ##### Indonesia
 ### [At least 19 people die in a bus crash on the Indonesian island of Java. ](/news/2011/09/12/at-least-19-people-die-in-a-bus-crash-on-the-indonesian-island-of-java.md)
-_Context: Java, Indonesia_
+_Context: Indonesia, Java_
 
 ##### Zanzibar
 ### [At least 240 bodies have been recovered off the coast of Zanzibar following Saturday's ferry sinking. ](/news/2011/09/12/at-least-240-bodies-have-been-recovered-off-the-coast-of-zanzibar-following-saturday-s-ferry-sinking.md)
-_Context: Zanzibar, Zanzibar ferry sinking_
+_Context: Zanzibar ferry sinking, Zanzibar_
 
 ##### Marcoule
 ### [An explosion occurs at the Marcoule nuclear power plant in southern France, killing one person and injuring four. ](/news/2011/09/12/an-explosion-occurs-at-the-marcoule-nuclear-power-plant-in-southern-france-killing-one-person-and-injuring-four.md)

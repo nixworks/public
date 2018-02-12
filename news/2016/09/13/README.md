@@ -13,7 +13,7 @@ SHIKARPUR - At least 13 people, including five cops, were injured after one of t
 
 ##### 2016 Pacific typhoon season
 ### [Taiwan issues land and sea warnings for Typhoon Meranti which is expected to hit tomorrow the southern part of the island. ](/news/2016/09/13/taiwan-issues-land-and-sea-warnings-for-typhoon-meranti-which-is-expected-to-hit-tomorrow-the-southern-part-of-the-island.md)
-_Context: 2016 Pacific typhoon season, Typhoon Meranti, Taiwan_
+_Context: Taiwan, 2016 Pacific typhoon season, Typhoon Meranti_
 
 ##### 2016 North Korean floods
 ### [The Red Cross warns that North Korea faces a "major, complex disaster" after recent floods kill scores of people and leave more than 100,000 homeless. ](/news/2016/09/13/the-red-cross-warns-that-north-korea-faces-a-major-complex-disaster-after-recent-floods-kill-scores-of-people-and-leave-more-than-100-000.md)
@@ -41,7 +41,7 @@ Opening arguments began on Tuesday in the trial of former American International
 
 ##### Chelsea Manning
 ### [Imprisoned former American Army intelligence analyst and transgender person Chelsea Manning, who is serving a 35-year sentence at Fort Leavenworth, will have the military provide the costs of gender reassignment surgery. She was convicted by court-martial in July 2013 of violations of the Espionage Act and other offenses, after disclosing to WikiLeaks nearly three-quarters of a million classified or unclassified but sensitive military and diplomatic documents. ](/news/2016/09/13/imprisoned-former-american-army-intelligence-analyst-and-transgender-person-chelsea-manning-who-is-serving-a-35-year-sentence-at-fort-leave.md)
-_Context: WikiLeaks, Espionage Act, Chelsea Manning, Fort Leavenworth, gender reassignment_
+_Context: gender reassignment, Espionage Act, WikiLeaks, Fort Leavenworth, Chelsea Manning_
 
 ##### The Bronx
 ### [The Cuban-born American arsonist who torched 87 people in March 1990 at The Bronx Happy Land fire, Julio Gonzalez, dies in prison at the age of 61. ](/news/2016/09/13/the-cuban-born-american-arsonist-who-torched-87-people-in-march-1990-at-the-bronx-happy-land-fire-julio-gonza-lez-dies-in-prison-at-the-ag.md)

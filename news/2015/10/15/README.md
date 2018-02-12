@@ -21,7 +21,7 @@ An Afghan migrant has been shot dead after an incident near the southeastern Bul
 
 ##### Boko Haram insurgency
 ### [A twin bombing near a mosque kills at least 26 people in the northeast Nigerian city of Maiduguri. ](/news/2015/10/15/a-twin-bombing-near-a-mosque-kills-at-least-26-people-in-the-northeast-nigerian-city-of-maiduguri.md)
-_Context: Nigeria, Maiduguri, Boko Haram insurgency_
+_Context: Boko Haram insurgency, Maiduguri, Nigeria_
 
 ##### Israeli-Palestinian conflict
 ### [An Israeli is stabbed by a fellow Israeli Jew, because he is mistaken for an Arab. ](/news/2015/10/15/an-israeli-is-stabbed-by-a-fellow-israeli-jew-because-he-is-mistaken-for-an-arab.md)
@@ -37,7 +37,7 @@ German automotive watchdog KBA ordered Volkswagen to recall 2.4 million vehicles
 
 ##### Papa John's Pizza
 ### [Four Papa John's Pizza franchise owners agree to a settlement of about $500,000 after admitting to paying employees unfair wages, according to Thursday's announcement by New York attorney general Eric Schneiderman and the U.S. Labor Department. Schneiderman has reached settlements with several other Papa John's franchises, including one for over $2 million. Out-of-court settlements have also been reached with other fast-food franchises. ](/news/2015/10/15/four-papa-john-s-pizza-franchise-owners-agree-to-a-settlement-of-about-500-000-after-admitting-to-paying-employees-unfair-wages-according.md)
-_Context: Papa John's Pizza, United States Department of Labor, New York Attorney General, Eric Schneiderman_
+_Context: Eric Schneiderman, New York Attorney General, United States Department of Labor, Papa John's Pizza_
 
 ##### Vietnam
 ### [Vietnam says a Chinese vessel rammed into and sank one of its fishing boats near disputed islands in the South China Sea. More than 20 Vietnamese fishing boats have been attacked by Chinese vessels this year causing tensions between both countries. ](/news/2015/10/15/vietnam-says-a-chinese-vessel-rammed-into-and-sank-one-of-its-fishing-boats-near-disputed-islands-in-the-south-china-sea-more-than-20-vietn.md)
@@ -53,7 +53,7 @@ Raban Alou, 18, from Wentworthville, faces terrorism charges, while Talal Alamed
 
 ##### The Intercept
 ### [A cache of classified intelligence documents published from The Intercept, released by an anonymous whistleblower, highlight details surrounding post-September 11 attacks United States drone strikes in Afghanistan, Somalia, and Yemen, alleging that the United States conducts these strikes under extremely unreliable information and faulty pretenses. ](/news/2015/10/15/a-cache-of-classified-intelligence-documents-published-from-the-intercept-released-by-an-anonymous-whistleblower-highlight-details-surroun.md)
-_Context: The Intercept, Yemen, American, Afghanistan, whistleblower, September 11 attacks, Somalia_
+_Context: Afghanistan, September 11 attacks, Somalia, Yemen, The Intercept, whistleblower, American_
 
 ##### Sydney
 ### [ Five individuals - four men and a teenage boy - are arrested in connection with the gang-rape of a 16-year-old girl at a Sydney, Australia, house party. ](/news/2015/10/15/five-individuals-a-four-men-and-a-teenage-boy-a-are-arrested-in-connection-with-the-gang-rape-of-a-16-year-old-girl-at-a-sydney-austra.md)

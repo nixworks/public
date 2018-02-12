@@ -9,7 +9,7 @@ _Context: UN Security Council, Iran, Resolution 1737_
 
 ##### U.S. military
 ### [ The U.S. military reports that top Taliban military commander Mullah Akhtar Mohammad Osmani was killed on Tuesday by a U.S. airstrike while traveling by vehicle in a deserted area in the southern Afghanistan province of Helmand. Taliban spokesmen deny he is dead. ](/news/2006/12/23/the-u-s-military-reports-that-top-taliban-military-commander-mullah-akhtar-mohammad-osmani-was-killed-on-tuesday-by-a-u-s-airstrike-while.md)
-_Context: airstrike, Mullah Akhtar Mohammad Osmani, U.S. military, Afghanistan, Taliban, Helmand Province_
+_Context: Afghanistan, Helmand Province, U.S. military, Mullah Akhtar Mohammad Osmani, Taliban, airstrike_
 
 ## [Previous Day...](/news/2006/12/22/index.md)
 

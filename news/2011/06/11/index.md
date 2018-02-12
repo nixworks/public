@@ -13,19 +13,19 @@ Opposition calls for further reform at first protest in months after martial law
 
 ##### Fazul Abdullah Mohammed
 ### [Fazul Abdullah Mohammed, mastermind of the 1998 United States embassy bombings in Kenya and Tanzania, is killed in Somalia. ](/news/2011/06/11/fazul-abdullah-mohammed-mastermind-of-the-1998-united-states-embassy-bombings-in-kenya-and-tanzania-is-killed-in-somalia.md)
-_Context: Fazul Abdullah Mohammed, Somalia, 1998 United States embassy bombings, Tanzania, Kenya_
+_Context: Somalia, Tanzania, 1998 United States embassy bombings, Fazul Abdullah Mohammed, Kenya_
 
 ##### 2011 Yemeni uprising
 ### [2011 Yemeni uprising: Yemeni President Ali Abdullah Saleh's health is in poor condition a week after a bomb blast injured him and killed several others. ](/news/2011/06/11/2011-yemeni-uprising-yemeni-president-ali-abdullah-saleh-s-health-is-in-poor-condition-a-week-after-a-bomb-blast-injured-him-and-killed-sev.md)
-_Context: 2011 Yemeni uprising, Ali Abdullah Saleh, President, Yemen_
+_Context: Yemen, President, 2011 Yemeni uprising, Ali Abdullah Saleh_
 
 ##### Civil war
 ### [2011 Libyan civil war: Rebels make further gains west of Tripoli, battling in Zawiya just 30 miles from the capital. ](/news/2011/06/11/2011-libyan-civil-war-rebels-make-further-gains-west-of-tripoli-battling-in-zawiya-just-30-miles-from-the-capital.md)
-_Context: Zawiya, civil war, Tripoli_
+_Context: Tripoli, Zawiya, civil war_
 
 ##### South Korea
 ### [South Korea welcomes the return of ancient Korean royal books looted by French troops in 1866, during an invasion of Ganghwa Island in retaliation for Koreans' persecution of French Catholic missionaries. ](/news/2011/06/11/south-korea-welcomes-the-return-of-ancient-korean-royal-books-looted-by-french-troops-in-1866-during-an-invasion-of-ganghwa-island-in-retal.md)
-_Context: France, ancient Korean royal books, South Korea_
+_Context: South Korea, France, ancient Korean royal books_
 
 ##### Bruce Forsyth
 ### [Entertainer Bruce Forsyth is knighted in the Queen's Birthday Honours. Others recognised for their contribution to society include actor Colin Firth, and the team which secured England's Ashes victory over Australia. ](/news/2011/06/11/entertainer-bruce-forsyth-is-knighted-in-the-queen-s-birthday-honours-others-recognised-for-their-contribution-to-society-include-actor-col.md)
@@ -33,11 +33,11 @@ Entertainment legend Bruce Forsyth is knighted in a list which also recognises O
 
 ##### Go on sale
 ### [Media censorship laws in Burma relating to sport, entertainment, lottery and fairytales are eased slightly, though restrictions on news titles remain. ](/news/2011/06/11/media-censorship-laws-in-burma-relating-to-sport-entertainment-lottery-and-fairytales-are-eased-slightly-though-restrictions-on-news-titl.md)
-_Context: Burma, go on sale_
+_Context: go on sale, Burma_
 
 ##### Rome, Italy
 ### [Over half a million people demonstrate in Rome, Italy, demanding same sex rights. ](/news/2011/06/11/over-half-a-million-people-demonstrate-in-rome-italy-demanding-same-sex-rights.md)
-_Context: Italy, Rome, Italy, same sex rights_
+_Context: same sex rights, Rome, Italy, Italy_
 
 ##### China
 ### [Two officials are detained in China after 1,500 people clashed with riot police over the death of a local legislator in police custody. ](/news/2011/06/11/two-officials-are-detained-in-china-after-1-500-people-clashed-with-riot-police-over-the-death-of-a-local-legislator-in-police-custody.md)

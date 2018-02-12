@@ -23,7 +23,7 @@ _Context: China, Xinjiang_
 
 ##### German
 ### [Shots are fired at the German ambassador's residence in Athens, Greece; no casualties are reported. ](/news/2013/12/30/shots-are-fired-at-the-german-ambassador-s-residence-in-athens-greece-no-casualties-are-reported.md)
-_Context: Greece, German, Athens_
+_Context: Athens, German, Greece_
 
 ##### Iraq
 ### [10 people are killed in violence as Iraqi security forces dismantle an anti-government protest camp in the western city of Ramadi. ](/news/2013/12/30/10-people-are-killed-in-violence-as-iraqi-security-forces-dismantle-an-anti-government-protest-camp-in-the-western-city-of-ramadi.md)

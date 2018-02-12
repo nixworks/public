@@ -5,11 +5,11 @@ Formats: [HTML](2005/11/10/index.html)  [JSON](2005/11/10/index.json)  [XML](200
 
 ##### Liberian presidential election
 ### [ Liberian presidential election: Ellen Johnson-Sirleaf wins the Liberian presidential run-off election in Liberia, defeating George Weah. Johnson-Sirleaf becomes the first-ever elected female head of state in Africa. ](/news/2005/11/10/liberian-presidential-election-ellen-johnson-sirleaf-wins-the-liberian-presidential-run-off-election-in-liberia-defeating-george-weah-jo.md)
-_Context: run-off election, Ellen Johnson-Sirleaf, Liberian presidential election, Liberia, George Weah, Africa, head of state_
+_Context: Ellen Johnson-Sirleaf, head of state, run-off election, Liberia, George Weah, Liberian presidential election, Africa_
 
 ##### 2005 levee failures in Greater New Orleans
 ### [ 2005 levee failures in Greater New Orleans: An Investigations of the 17th Street Canal, whose failure flooded much of New Orleans, Louisiana in the wake of Hurricane Katrina, show that metal pilings were seven feet shallower than engineering specifications. ](/news/2005/11/10/2005-levee-failures-in-greater-new-orleans-an-investigations-of-the-17th-street-canal-whose-failure-flooded-much-of-new-orleans-louisian.md)
-_Context: 17th Street Canal, New Orleans, Louisiana, Hurricane Katrina, 2005 levee failures in Greater New Orleans_
+_Context: Hurricane Katrina, 17th Street Canal, 2005 levee failures in Greater New Orleans, New Orleans, Louisiana_
 
 ##### United States House of Representatives
 ### [ United States House of Representatives Republican leadership drops a provision from budget plans that would open the Arctic National Wildlife Refuge to drilling due to opposition from moderate Republicans and expected opposition in the Senate. ](/news/2005/11/10/united-states-house-of-representatives-republican-leadership-drops-a-provision-from-budget-plans-that-would-open-the-arctic-national-wildli.md)
@@ -17,15 +17,15 @@ _Context: Arctic National Wildlife Refuge, United States House of Representative
 
 ##### Boeing 777
 ### [ A Boeing 777-200LR Worldliner jet aircraft breaks the record for the longest non-stop passenger airline flight. The 20,000-kilometer (12,500-mile) flight from Hong Kong to London lasted 23 hours. ](/news/2005/11/10/a-boeing-777-200lr-worldliner-jet-aircraft-breaks-the-record-for-the-longest-non-stop-passenger-airline-flight-the-20-000-kilometer-12-50.md)
-_Context: Hong Kong, Boeing 777, London_
+_Context: Boeing 777, Hong Kong, London_
 
 ##### War in Afghanistan (2001-present)
 ### [ War in Afghanistan: Taliban insurgents are suspected in the killing of seven police in an ambush in Kandahar. Two civilians from Uruzgan were also found decapitated. ](/news/2005/11/10/war-in-afghanistan-taliban-insurgents-are-suspected-in-the-killing-of-seven-police-in-an-ambush-in-kandahar-two-civilians-from-uruzgan-we.md)
-_Context: War in Afghanistan (2001-present), ambush, decapitated, Taliban insurgency, Kandahar, Uruzgan_
+_Context: Kandahar, decapitated, War in Afghanistan (2001-present), Taliban insurgency, ambush, Uruzgan_
 
 ##### Iraq War
 ### [ Iraq War: At least 33 are killed in an attack on a restaurant in Baghdad. Al-Qaida in Iraq claims responsibility. ](/news/2005/11/10/iraq-war-at-least-33-are-killed-in-an-attack-on-a-restaurant-in-baghdad-al-qaida-in-iraq-claims-responsibility.md)
-_Context: Al-Qaida in Iraq, Iraq War, Baghdad_
+_Context: Al-Qaida in Iraq, Baghdad, Iraq War_
 
 ## [Previous Day...](/news/2005/11/9/index.md)
 

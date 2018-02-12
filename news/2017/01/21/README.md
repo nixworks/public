@@ -9,11 +9,11 @@ The blast happened at the time when dozens of people were busy shopping in the v
 
 ##### Syrian Civil War
 ### [A car bomb attack occurs in the Rakban refugee camp near the Jordanian border. Casualty counts are currently unknown and no one has yet taken credit for the attack. ](/news/2017/01/21/a-car-bomb-attack-occurs-in-the-rakban-refugee-camp-near-the-jordanian-border-casualty-counts-are-currently-unknown-and-no-one-has-yet-take.md)
-_Context: Jordan, Syrian Civil War_
+_Context: Syrian Civil War, Jordan_
 
 ##### Saudi Arabia
 ### [Two suicide bombers detonate their explosives during a firefight with Saudi security forces in Jeddah. ](/news/2017/01/21/two-suicide-bombers-detonate-their-explosives-during-a-firefight-with-saudi-security-forces-in-jeddah.md)
-_Context: Jeddah, Saudi Arabia_
+_Context: Saudi Arabia, Jeddah_
 
 ##### Rafah
 ### [Eight people are killed in Rafah, Egypt, after a shell lands on the home in which they were staying. ](/news/2017/01/21/eight-people-are-killed-in-rafah-egypt-after-a-shell-lands-on-the-home-in-which-they-were-staying.md)
@@ -25,7 +25,7 @@ The incident took place around 11 pm yesterday when the train was on its way to 
 
 ##### Police
 ### [Brazilian police enter the Alcacuz prison outside the city of Natal, Rio Grande do Norte, after a week of fighting leaves 26 inmates dead. At least 126 people have been killed in Brazil's prisons since the beginning of the year. ](/news/2017/01/21/brazilian-police-enter-the-alcacuz-prison-outside-the-city-of-natal-rio-grande-do-norte-after-a-week-of-fighting-leaves-26-inmates-dead-a.md)
-_Context: police, Natal, Rio Grande do Norte, Brazil_
+_Context: Brazil, police, Natal, Rio Grande do Norte_
 
 ##### Inauguration of Donald Trump protests
 ### [A crowd of over 500,000 gather in Washington DC, U.S., to advocate for women's rights and address the inauguration of Donald Trump ](/news/2017/01/21/a-crowd-of-over-500-000-gather-in-washington-dc-u-s-to-advocate-for-women-s-rights-and-address-the-inauguration-of-donald-trump.md)

@@ -13,7 +13,7 @@ There have been renewed clashes between Israeli military and militants in Gaza o
 
 ##### Nagorno-Karabakh conflict
 ### [Four Azerbaijani soldiers are killed in fresh clashes with Armenian groups near the border of the breakaway Nagorno-Karabakh Republic. ](/news/2014/08/3/four-azerbaijani-soldiers-are-killed-in-fresh-clashes-with-armenian-groups-near-the-border-of-the-breakaway-nagorno-karabakh-republic.md)
-_Context: Azerbaijan, Armenian, Nagorno-Karabakh conflict, Nagorno-Karabakh, 2014 Armenian-Azerbaijani clashes_
+_Context: Azerbaijan, Nagorno-Karabakh, Nagorno-Karabakh conflict, 2014 Armenian-Azerbaijani clashes, Armenian_
 
 ##### Syrian Civil War
 ### [The Islamic State loses control of three towns in the area around Al-Asharah to local tribesmen. ](/news/2014/08/3/the-islamic-state-loses-control-of-three-towns-in-the-area-around-al-asharah-to-local-tribesmen.md)
@@ -29,7 +29,7 @@ _Context: Banco Espirito Santo, Bank of Portugal_
 
 ##### 2014 Ludian earthquake
 ### [A magnitude 6.1 earthquake kills at least 367 people and injures more than 1,700 in Yunnan, China. ](/news/2014/08/3/a-magnitude-6-1-earthquake-kills-at-least-367-people-and-injures-more-than-1-700-in-yunnan-china.md)
-_Context: 2014 Ludian earthquake, China, Yunnan_
+_Context: Yunnan, 2014 Ludian earthquake, China_
 
 ##### Hartmannswillerkopf
 ### [In a joint ceremony at the Hartmannswillerkopf cemetery, French President Francois Hollande and his German counterpart, Joachim Gauck, commemorate the 100th anniversary of Germany's declaration of war on France in the beginning of World War I. ](/news/2014/08/3/in-a-joint-ceremony-at-the-hartmannswillerkopf-cemetery-french-president-franassois-hollande-and-his-german-counterpart-joachim-gauck-comm.md)

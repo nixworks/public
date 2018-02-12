@@ -9,11 +9,11 @@ The passenger train bound for the Belgian capital jumps the tracks, with one car
 
 ##### Chile
 ### [A bus traveling to Chile overturns in Argentina's Mendoza Province, killing at least 19 people. ](/news/2017/02/18/a-bus-traveling-to-chile-overturns-in-argentina-s-mendoza-province-killing-at-least-19-people.md)
-_Context: Mendoza Province, Chile, Argentina_
+_Context: Chile, Argentina, Mendoza Province_
 
 ##### China-North Korea relations
 ### [China's Ministry of Commerce suspends all coal imports from North Korea until the end of 2017, as part of international sanctions against North Korea over its ballistic missile program. ](/news/2017/02/18/china-s-ministry-of-commerce-suspends-all-coal-imports-from-north-korea-until-the-end-of-2017-as-part-of-international-sanctions-against-no.md)
-_Context: Ministry of Commerce, Sanctions against North Korea, China-North Korea relations, China, North Korea, North Korea's nuclear program_
+_Context: Sanctions against North Korea, Ministry of Commerce, China, North Korea, North Korea's nuclear program, China-North Korea relations_
 
 ##### War in Donbass
 ### [At the Munich Security Conference, a truce between Russian-backed separatists and the Ukrainian army, per the Minsk Protocol, takes effect Monday. Pending a permanent political agreement, Russian President Vladimir Putin orders that civil registration documents issued in separatist-held areas of Donetsk and Luhansk in eastern Ukraine be temporarily recognized. Ukrainian authorities say this violates provisions in the Minsk agreement. This is the third such agreement because the previous two in 2014 and 2015 were violated. Low-level fighting and artillery fire never fully stopped. ](/news/2017/02/18/at-the-munich-security-conference-a-truce-between-russian-backed-separatists-and-the-ukrainian-army-per-the-minsk-protocol-takes-effect-m.md)
@@ -25,11 +25,11 @@ The UN says criminal groups are filling the power vacuum left by rebels near the
 
 ##### Omar Abdel-Rahman
 ### [Omar Abdel-Rahman, convicted in the 1993 World Trade Center bombing, dies in his federal prison cell in Butner, North Carolina. ](/news/2017/02/18/omar-abdel-rahman-convicted-in-the-1993-world-trade-center-bombing-dies-in-his-federal-prison-cell-in-butner-north-carolina.md)
-_Context: 1993 World Trade Center bombing, Omar Abdel-Rahman, Butner, North Carolina_
+_Context: Butner, North Carolina, Omar Abdel-Rahman, 1993 World Trade Center bombing_
 
 ##### Gather
 ### [As many as fifty thousand people gather in Manila for a march organized by the Philippine Catholic Church to protest the Philippine Drug War. ](/news/2017/02/18/as-many-as-fifty-thousand-people-gather-in-manila-for-a-march-organized-by-the-philippine-catholic-church-to-protest-the-philippine-drug-war.md)
-_Context: drug crackdown, Manila, gather, Philippine Catholic Church_
+_Context: Manila, gather, drug crackdown, Philippine Catholic Church_
 
 ##### Adama Barrow
 ### [Adama Barrow is officially sworn in as the Gambia's new President. ](/news/2017/02/18/adama-barrow-is-officially-sworn-in-as-the-gambia-s-new-president.md)

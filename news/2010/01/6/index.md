@@ -13,7 +13,7 @@ _Context: Russia, Dagestan_
 
 ##### Palestine
 ### [Palestinians kill an Egyptian border guard and 50 people are injured in clashes between pro-Palestinian activists and Egyptian police as a Viva Palestina convoy nears the border with Gaza. ](/news/2010/01/6/palestinians-kill-an-egyptian-border-guard-and-50-people-are-injured-in-clashes-between-pro-palestinian-activists-and-egyptian-police-as-a-v.md)
-_Context: Gaza Strip, Palestine, Egypt, Viva Palestina_
+_Context: Gaza Strip, Palestine, Viva Palestina, Egypt_
 
 ##### Iris Robinson
 ### [Iris Robinson, the wife of Northern Ireland's First Minister, admits having previously attempted suicide. Her husband Peter Robinson gives an emotional interview in which he speaks of being "deeply hurt" after learning of her extramarital affair. ](/news/2010/01/6/iris-robinson-the-wife-of-northern-ireland-s-first-minister-admits-having-previously-attempted-suicide-her-husband-peter-robinson-gives-a.md)
@@ -21,7 +21,7 @@ The wife of Northern Ireland First Minister Peter Robinson tried to kill herself
 
 ##### China
 ### [China becomes the largest exporting country, pushing Germany from first place. ](/news/2010/01/6/china-becomes-the-largest-exporting-country-pushing-germany-from-first-place.md)
-_Context: China, top export market, German_
+_Context: top export market, China, German_
 
 ##### Tourism
 ### [China's tourism revenue hits USD 185 billion in 2009. ](/news/2010/01/6/china-s-tourism-revenue-hits-usd-185-billion-in-2009.md)
@@ -33,19 +33,19 @@ _Context: Europe, Switzerland, Polish_
 
 ##### Xiangtan County
 ### [At least 25 people are killed and at least three others are trapped in a mine fire in Xiangtan County in Hunan. ](/news/2010/01/6/at-least-25-people-are-killed-and-at-least-three-others-are-trapped-in-a-mine-fire-in-xiangtan-county-in-hunan.md)
-_Context: Xiangtan County, Hunan_
+_Context: Hunan, Xiangtan County_
 
 ##### Sea Shepherd
 ### [Sea Shepherd claims that the Japanese whaling fleet's "Shonan Maru" deliberately rammed and sunk their ship, the "Ady Gil".](/news/2010/01/6/sea-shepherd-claims-that-the-japanese-whaling-fleet-s-shanan-maru-deliberately-rammed-and-sunk-their-ship-the-ady-gil.md)
-_Context: whaling, Ady Gil, Sea Shepherd, Shonan Maru_
+_Context: Sea Shepherd, whaling, Ady Gil, Shonan Maru_
 
 ##### Dauletabad - Salyp Yar gas pipeline
 ### [The Dauletabad - Salyp Yar gas pipeline between Turkmenistan and Iran is opened. ](/news/2010/01/6/the-dauletabad-a-salyp-yar-gas-pipeline-between-turkmenistan-and-iran-is-opened.md)
-_Context: Iran, Turkmenistan, Dauletabad - Salyp Yar gas pipeline_
+_Context: Dauletabad - Salyp Yar gas pipeline, Turkmenistan, Iran_
 
 ##### Algeria
 ### [Algerian US ambassador Abdellah Baali and Nigerian Information Minister Dora Akunyili are upset at the decision of the United States to subject Algerians and Nigerians to tougher-than-usual security tests at airports, saying it is "discrimination" and "risks ties". Both have officially complained. ](/news/2010/01/6/algerian-us-ambassador-abdellah-baali-and-nigerian-information-minister-dora-akunyili-are-upset-at-the-decision-of-the-united-states-to-subj.md)
-_Context: American, Nigeria, Algeria, Abdellah Baali, Dora Akunyili_
+_Context: American, Abdellah Baali, Nigeria, Algeria, Dora Akunyili_
 
 ##### U.S.
 ### [The U.S. government lowers the threshold for information deemed important enough to put suspicious individuals on a watch list or no-fly list, or have their visa revoked. ](/news/2010/01/6/the-u-s-government-lowers-the-threshold-for-information-deemed-important-enough-to-put-suspicious-individuals-on-a-watch-list-or-no-fly-lis.md)
@@ -57,7 +57,7 @@ _Context: Yemen, Sana'a, al-Qaeda_
 
 ##### Li Junqi
 ### [50-year-old Chinese journalist Li Junqi is imprisoned for 16 years after accepting bribes for his part in a mass three-month cover-up of a coal mine disaster in Hebei in which 35 people, including a rescue worker, were killed prior to the 2008 Summer Olympics in Beijing. ](/news/2010/01/6/50-year-old-chinese-journalist-li-junqi-is-imprisoned-for-16-years-after-accepting-bribes-for-his-part-in-a-mass-three-month-cover-up-of-a-c.md)
-_Context: bribes, Hebei, 2008 Summer Olympics, Beijing, Li Junqi_
+_Context: bribes, 2008 Summer Olympics, Hebei, Li Junqi, Beijing_
 
 ##### Japan
 ### [Japanese Finance Minister Hirohisa Fujii resigns at the age of 77 due to ill health. ](/news/2010/01/6/japanese-finance-minister-hirohisa-fujii-resigns-at-the-age-of-77-due-to-ill-health.md)
@@ -65,7 +65,7 @@ _Context: Japan, Hirohisa Fujii_
 
 ##### U.K. Cabinet
 ### [Ex-Cabinet Ministers Geoff Hoon and Patricia Hewitt call for a secret ballot to settle the debate over the leadership of the Labour Party of British Prime Minister Gordon Brown. ](/news/2010/01/6/ex-cabinet-ministers-geoff-hoon-and-patricia-hewitt-call-for-a-secret-ballot-to-settle-the-debate-over-the-leadership-of-the-labour-party-of.md)
-_Context: Prime Minister, U.K. Cabinet, Gordon Brown, Labour Party, Patricia Hewitt, Geoff Hoon_
+_Context: U.K. Cabinet, Patricia Hewitt, Labour Party, Prime Minister, Gordon Brown, Geoff Hoon_
 
 ##### Fabrice Bellard
 ### [Computer scientist Fabrice Bellard claims he has computed p to almost 2.7 trillion digits. ](/news/2010/01/6/computer-scientist-fabrice-bellard-claims-he-has-computed-i-to-almost-2-7-trillion-digits.md)

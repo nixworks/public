@@ -5,11 +5,11 @@ Formats: [HTML](2017/03/10/index.html)  [JSON](2017/03/10/index.json)  [XML](201
 
 ##### Yemeni Civil War (2015-present)
 ### [A Saudi-led coalition airstrike on a market in Al Hudaydah Governorate, Yemen, kills at least 20 civilians and six Houthi militants. ](/news/2017/03/10/a-saudi-led-coalition-airstrike-on-a-market-in-al-hudaydah-governorate-yemen-kills-at-least-20-civilians-and-six-houthi-militants.md)
-_Context: Yemeni Civil War (2015-present), Al Hudaydah Governorate, Saudi-led intervention in Yemen, Houthi, Yemen_
+_Context: Yemeni Civil War (2015-present), Al Hudaydah Governorate, Saudi-led intervention in Yemen, Yemen, Houthi_
 
 ##### Istanbul
 ### [A helicopter crashes in Istanbul's Buyukcekmece district, killing at least seven people. ](/news/2017/03/10/a-helicopter-crashes-in-istanbul-s-ba1-4ya1-4kassekmece-district-killing-at-least-seven-people.md)
-_Context: Buyukcekmece, Istanbul_
+_Context: Istanbul, Buyukcekmece_
 
 ##### 2017 Guatemala orphanage fire
 ### [The death toll at the fire at an orphanage in San Jose Pinula, Guatemala, rises to at least 35 children. ](/news/2017/03/10/the-death-toll-at-the-fire-at-an-orphanage-in-san-josa-c-pinula-guatemala-rises-to-at-least-35-children.md)
@@ -25,7 +25,7 @@ The UN humanitarian chief pleads for help to avoid &quot;a catastrophe&quot; in 
 
 ##### Impeached
 ### [South Korea's Constitutional Court upholds the impeachment of President Park Geun-hye, removing her from office. Hwang Kyo-ahn assumes powers as Acting President. ](/news/2017/03/10/south-korea-s-constitutional-court-upholds-the-impeachment-of-president-park-geun-hye-removing-her-from-office-hwang-kyo-ahn-assumes-power.md)
-_Context: South Korean President, Hwang Kyo-ahn, South Korea, Constitutional Court, Impeached, Park Geun-hye_
+_Context: South Korean President, Impeached, Park Geun-hye, South Korea, Hwang Kyo-ahn, Constitutional Court_
 
 ##### 2017 dismissal of U.S. attorneys
 ### [United States Attorney General Jeff Sessions requests the resignations of 46 Barack Obama-era chief federal prosecutors, including United States Attorney for the Southern District of New York Preet Bharara, who was previously told to stay on by then President-elect Donald Trump in November. ](/news/2017/03/10/united-states-attorney-general-jeff-sessions-requests-the-resignations-of-46-barack-obama-era-chief-federal-prosecutors-including-united-st.md)

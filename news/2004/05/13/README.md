@@ -5,11 +5,11 @@ Formats: [HTML](2004/05/13/index.html)  [JSON](2004/05/13/index.json)  [XML](200
 
 ##### Scaled Composites
 ### [ Scaled Composites sets a new civilian altitude record of 60 kilometres in a craft called SpaceShipOne during a test flight above California's Mojave Desert in preparation for the X-Prize. ](/news/2004/05/13/scaled-composites-sets-a-new-civilian-altitude-record-of-60-kilometres-in-a-craft-called-spaceshipone-during-a-test-flight-above-california.md)
-_Context: Scaled Composites, California, Mojave Desert, SpaceShipOne, km, Ansari X Prize_
+_Context: California, Mojave Desert, Scaled Composites, Ansari X Prize, km, SpaceShipOne_
 
 ##### Abu Ghraib prisoner abuse
 ### [ Abu Ghraib prisoner abuse: Some members of the British government begin to distance themselves from the Bush administration and Prime Minister Tony Blair. Peter Hain, Leader of the House of Commons, tells Parliament that the pictures are "appalling and possibly in breach of the Geneva Convention". ](/news/2004/05/13/abu-ghraib-prisoner-abuse-some-members-of-the-british-government-begin-to-distance-themselves-from-the-bush-administration-and-prime-minis.md)
-_Context: Abu Ghraib prisoner abuse, Leader of the House of Commons, Tony Blair, Geneva Convention, George W. Bush, Peter Hain, Prime Minister_
+_Context: Abu Ghraib prisoner abuse, Peter Hain, Prime Minister, Leader of the House of Commons, Tony Blair, Geneva Convention, George W. Bush_
 
 ##### Coalition Provisional Authority
 ### [ A poll commissioned by the US-led Coalition Provisional Authority has found that 80% of Iraqis distrust the occupying government and 82% want the U.S. and its allies to leave Iraq. ](/news/2004/05/13/a-poll-commissioned-by-the-us-led-coalition-provisional-authority-has-found-that-80-of-iraqis-distrust-the-occupying-government-and-82-wa.md)
@@ -21,7 +21,7 @@ _Context: Yang Jianli_
 
 ##### Indian general elections
 ### [ Indian general elections: Sonia Gandhi's opposition Congress Party scores an upset victory as the vote is tallied for the formation of the 14th Lok Sabha. The ruling BJP-led coalition concedes defeat, and Prime Minister Atal Bihari Vajpayee resigns. ](/news/2004/05/13/indian-general-elections-sonia-gandhi-s-opposition-congress-party-scores-an-upset-victory-as-the-vote-is-tallied-for-the-formation-of-the.md)
-_Context: Indian Prime Minister, Sonia Gandhi, Indian general elections, Bharatiya Janata Party, Lok Sabha, Atal Bihari Vajpayee, Congress Party_
+_Context: Congress Party, Indian Prime Minister, Sonia Gandhi, Indian general elections, Atal Bihari Vajpayee, Lok Sabha, Bharatiya Janata Party_
 
 ##### Sitcom
 ### [ The television sitcom "Frasier" airs its final episode, bringing to an end Kelsey Grammer's 23 years playing the character Frasier Crane. ](/news/2004/05/13/the-television-sitcom-frasier-airs-its-final-episode-bringing-to-an-end-kelsey-grammer-s-23-years-playing-the-character-frasier-crane.md)
@@ -29,7 +29,7 @@ Breaking News, data &amp; opinions in business, sports, entertainment, travel, l
 
 ##### Polish
 ### [ A joint Polish-Egyptian archaeological team claims to have discovered the Library of Alexandria. ](/news/2004/05/13/a-joint-polishaegyptian-archaeological-team-claims-to-have-discovered-the-library-of-alexandria.md)
-_Context: Archaeologists, Library of Alexandria, Polish, Egypt_
+_Context: Polish, Egypt, Library of Alexandria, Archaeologists_
 
 ## [Previous Day...](/news/2004/05/12/index.md)
 

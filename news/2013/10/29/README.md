@@ -29,7 +29,7 @@ A once-in-a-decade storm claims lives in the Netherlands, France, Germany and so
 
 ##### United Nations
 ### [The United Nations confirms an outbreak of polio in Syria. ](/news/2013/10/29/the-united-nations-confirms-an-outbreak-of-polio-in-syria.md)
-_Context: polio, United Nations, Syria_
+_Context: Syria, United Nations, polio_
 
 ##### Dust storm
 ### [At least three people are dead after a dust storm causes an accident on Interstate 10 near Picacho Peak, Arizona, United States. ](/news/2013/10/29/at-least-three-people-are-dead-after-a-dust-storm-causes-an-accident-on-interstate-10-near-picacho-peak-arizona-united-states.md)
@@ -49,11 +49,11 @@ The government has welcomed the sentences handed down to the Boeremag members co
 
 ##### Greenwood County
 ### [A man shoots and kills five people and then commits suicide at a house in Greenwood County, South Carolina, U.S. ](/news/2013/10/29/a-man-shoots-and-kills-five-people-and-then-commits-suicide-at-a-house-in-greenwood-county-south-carolina-u-s.md)
-_Context: Greenwood County, South Carolina_
+_Context: South Carolina, Greenwood County_
 
 ##### Marilyn Tavenner
 ### [Marilyn Tavenner, the Administrator of Centers for Medicare and Medicaid Services, becomes the first Obama administration official to apologise for the troubled roll out of the healthcare.gov website as part of the Affordable Care Act or "Obamacare" system. ](/news/2013/10/29/marilyn-tavenner-the-administrator-of-centers-for-medicare-and-medicaid-services-becomes-the-first-obama-administration-official-to-apolog.md)
-_Context: Affordable Care Act, Marilyn Tavenner, Centers for Medicare and Medicaid Services, Obama administration, healthcare.gov_
+_Context: Obama administration, healthcare.gov, Affordable Care Act, Centers for Medicare and Medicaid Services, Marilyn Tavenner_
 
 ## [Previous Day...](/news/2013/10/28/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2008/04/30/index.html)  [JSON](2008/04/30/index.json)  [XML](200
 
 ##### Brazil
 ### [ Brazil's long-term foreign currency sovereign credit rating is raised to BBB[?] by Standard & Poor's, marking the first time the country's foreign currency debt receives an investment grade rating. ](/news/2008/04/30/brazil-s-long-term-foreign-currency-sovereign-credit-rating-is-raised-to-bbba-by-standard-poor-s-marking-the-first-time-the-country-s.md)
-_Context: investment grade, Brazil, sovereign credit rating, Standard & Poor's_
+_Context: Brazil, sovereign credit rating, investment grade, Standard & Poor's_
 
 ##### War on Terrorism
 ### [ The United States Department of State's annual report on terrorism states that al-Qaeda "has reconstituted some of its pre-9-11 operational capabilities" in the Federally Administered Tribal Areas of Pakistan. ](/news/2008/04/30/the-united-states-department-of-state-s-annual-report-on-terrorism-states-that-al-qaeda-has-reconstituted-some-of-its-pre-9-11-operational.md)
@@ -21,7 +21,7 @@ Afghan security forces surrounded a house in the capital Kabul on Wednesday and 
 
 ##### HP Labs
 ### [ HP Labs announces the creation of the memristor, at times described as the fourth basic electronic element. The memristor was first predicted in 1971 by Leon Chua. The discovery may have a tremendous impact on computing and electronics, joining the other basic electronic elements the resistor, capacitor, and inductor. ](/news/2008/04/30/hp-labs-announces-the-creation-of-the-memristor-at-times-described-as-the-fourth-basic-electronic-element-the-memristor-was-first-predict.md)
-_Context: HP Labs, capacitor, inductor, memristor, resistor, Leon Chua_
+_Context: capacitor, resistor, memristor, Leon Chua, inductor, HP Labs_
 
 ## [Previous Day...](/news/2008/04/29/index.md)
 

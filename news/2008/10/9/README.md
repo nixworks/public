@@ -5,11 +5,11 @@ Formats: [HTML](2008/10/9/index.html)  [JSON](2008/10/9/index.json)  [XML](2008/
 
 ##### Narcoterrorist
 ### [ Narcoterrorist attack on a military convoy by Shining Path guerrillas kills 19 including women and children in southeast Peru. ](/news/2008/10/9/narcoterrorist-attack-on-a-military-convoy-by-shining-path-guerrillas-kills-19-including-women-and-children-in-southeast-peru.md)
-_Context: Shining Path, Narcoterrorist, Peru_
+_Context: Shining Path, Peru, Narcoterrorist_
 
 ##### Montenegro
 ### [ Montenegro and Macedonia recognize Kosovo, bringing the total number of United Nations members recognising Kosovo to fifty. ](/news/2008/10/9/montenegro-and-macedonia-recognize-kosovo-bringing-the-total-number-of-united-nations-members-recognising-kosovo-to-fifty.md)
-_Context: Kosovo, officially recognizes, United Nations, Montenegro, Macedonia_
+_Context: United Nations, Montenegro, Macedonia, officially recognizes, Kosovo_
 
 ##### U.S.
 ### [ The U.S. National Security Agency is accused of listening to Americans' private phone conversations.](/news/2008/10/9/the-u-s-national-security-agency-is-accused-of-listening-to-americans-private-phone-conversations.md)
@@ -17,7 +17,7 @@ Despite pledges by President George W. Bush and American intelligence officials 
 
 ##### 2008 Pacific hurricane season
 ### [ 2008 Pacific hurricane season : Tropical Storm Odile forms south of Mexico while Hurricane Norbert weakens to tropical storm strength northwest of Odile. ](/news/2008/10/9/2008-pacific-hurricane-season-tropical-storm-odile-forms-south-of-mexico-while-hurricane-norbert-weakens-to-tropical-storm-strength-north.md)
-_Context: tropical storm, Hurricane Norbert, Mexican, Tropical Storm Odile, 2008 Pacific hurricane season_
+_Context: 2008 Pacific hurricane season, Mexican, Tropical Storm Odile, Hurricane Norbert, tropical storm_
 
 ##### International Monetary Fund
 ### [ Head of International Monetary Fund says the US financial crisis threatens to send the world into a recession. IMF releases World Economic Outlook report with gloomy projections for the global financial system. ](/news/2008/10/9/head-of-international-monetary-fund-says-the-us-financial-crisis-threatens-to-send-the-world-into-a-recession-imf-releases-world-economic.md)
@@ -29,7 +29,7 @@ North Korea deployed more than 10 missiles on its west coast apparently for an i
 
 ##### DR Congo
 ### [ Democratic Republic of the Congo accuses Rwanda of sending troops across the border, threatening the city of Goma. ](/news/2008/10/9/democratic-republic-of-the-congo-accuses-rwanda-of-sending-troops-across-the-border-threatening-the-city-of-goma.md)
-_Context: Rwanda, DR Congo, Goma_
+_Context: Goma, Rwanda, DR Congo_
 
 ##### NATO
 ### [ NATO commander U.S. Army Gen. Bantz J. Craddock asks member countries for authority to target drug trade in Afghanistan. ](/news/2008/10/9/nato-commander-u-s-army-gen-bantz-j-craddock-asks-member-countries-for-authority-to-target-drug-trade-in-afghanistan.md)
@@ -37,11 +37,11 @@ A U.S. call for NATO to launch direct attacks on the drugs trade fueling the Tal
 
 ##### United Kingdom
 ### [ Court in the United Kingdom hears of how two doctors planned car bomb attacks on London and Glasgow airports in revenge for how UK was treating Muslims ](/news/2008/10/9/court-in-the-united-kingdom-hears-of-how-two-doctors-planned-car-bomb-attacks-on-london-and-glasgow-airports-in-revenge-for-how-uk-was-trea.md)
-_Context: Glasgow, United Kingdom, planned car bomb attacks, London_
+_Context: London, Glasgow, planned car bomb attacks, United Kingdom_
 
 ##### NATO
 ### [ NATO plans on sending seven warships to protect United Nations food aid from Piracy in Somalia. ](/news/2008/10/9/nato-plans-on-sending-seven-warships-to-protect-united-nations-food-aid-from-piracy-in-somalia.md)
-_Context: NATO, United Nations, Somali pirates_
+_Context: United Nations, Somali pirates, NATO_
 
 ##### North Korea
 ### [ North Korea ends its nuclear freeze as it prepares to restart a nuclear facility ](/news/2008/10/9/north-korea-ends-its-nuclear-freeze-as-it-prepares-to-restart-a-nuclear-facility.md)
@@ -49,11 +49,11 @@ _Context: North Korea_
 
 ##### Absolute majority
 ### [ No candidate wins a majority in the Maldives' first democratic presidential election; the incumbent Maumoon Abdul Gayoom will face Mohamed Nasheed in a runoff. ](/news/2008/10/9/no-candidate-wins-a-majority-in-the-maldives-first-democratic-presidential-election-the-incumbent-maumoon-abdul-gayoom-will-face-mohamed.md)
-_Context: first democratic election, democratic, Mohamed Nasheed, absolute majority, Maldives, Maumoon Abdul Gayoom, run-off election_
+_Context: Maumoon Abdul Gayoom, run-off election, Mohamed Nasheed, first democratic election, democratic, Maldives, absolute majority_
 
 ##### Zetas
 ### [ Los Zetas of the Gulf Cartel suspected killers of 5 police near Guadalajara during nationwide crackdown in Mexico. ](/news/2008/10/9/los-zetas-of-the-gulf-cartel-suspected-killers-of-5-police-near-guadalajara-during-nationwide-crackdown-in-mexico.md)
-_Context: Mexican, Gulf Cartel, Zetas, Guadalajara_
+_Context: Guadalajara, Mexican, Gulf Cartel, Zetas_
 
 ## [Previous Day...](/news/2008/10/8/index.md)
 

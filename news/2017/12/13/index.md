@@ -5,11 +5,11 @@ Formats: [HTML](2017/12/13/index.html)  [JSON](2017/12/13/index.json)  [XML](201
 
 ##### Saudi-led intervention in Yemen
 ### [At least 30 people are reported to have been killed in Saudi-led coalition air strikes on a rebel military police camp in Yemen's capital, Sanaa. ](/news/2017/12/13/at-least-30-people-are-reported-to-have-been-killed-in-saudi-led-coalition-air-strikes-on-a-rebel-military-police-camp-in-yemen-s-capital-s.md)
-_Context: Sanaa, Saudi-led intervention in Yemen, Yemen_
+_Context: Yemen, Saudi-led intervention in Yemen, Sanaa_
 
 ##### Israeli-Palestinian conflict
 ### [Militant Palestinians fire rockets towards Israel from the Gaza Strip. The Israel Defense Forces say that the Iron Dome system intercepted two missiles, while one rocket fell in a flat open area and nobody was hurt. ](/news/2017/12/13/militant-palestinians-fire-rockets-towards-israel-from-the-gaza-strip-the-israel-defense-forces-say-that-the-iron-dome-system-intercepted-t.md)
-_Context: Gaza Strip, Palestine, Israel, Iron Dome, Israeli Army, Israeli-Palestinian conflict_
+_Context: Israeli-Palestinian conflict, Palestine, Iron Dome, Gaza Strip, Israel, Israeli Army_
 
 ##### Rohingya persecution in Myanmar
 ### [Dublin City Councillors vote 59-2 to revoke the Freedom of the City of Dublin given to Myanmar's Aung San Suu Kyi for her apparent failure to protect the Rohingya minority from violence. Singer Bob Geldof returned his Freedom one month ago, protesting that Suu Kyi also held the honour. ](/news/2017/12/13/dublin-city-councillors-vote-59a2-to-revoke-the-freedom-of-the-city-of-dublin-given-to-myanmar-s-aung-san-suu-kyi-for-her-apparent-failure.md)
@@ -21,7 +21,7 @@ US military helicopter window falls onto school in Okinawa, Japan. Second incide
 
 ##### Proclamation No. 216
 ### [The Congress of the Philippines votes to approve President Rodrigo Duterte's request to extend the declaration of martial law in Mindanao until December 31, 2018. ](/news/2017/12/13/the-congress-of-the-philippines-votes-to-approve-president-rodrigo-duterte-s-request-to-extend-the-declaration-of-martial-law-in-mindanao-un.md)
-_Context: Rodrigo Duterte, Mindanao, martial law, Proclamation No. 216, Congress of the Philippines, President_
+_Context: Rodrigo Duterte, martial law, Mindanao, President, Proclamation No. 216, Congress of the Philippines_
 
 ##### Rohingya insurgency in Western Myanmar
 ### [Two Reuters journalists are arrested in Myanmar for trying to illegally obtain official documents. The were reporting about the Rohingya Muslim community in Rakhine State. ](/news/2017/12/13/two-reuters-journalists-are-arrested-in-myanmar-for-trying-to-illegally-obtain-official-documents-the-were-reporting-about-the-rohingya-mus.md)

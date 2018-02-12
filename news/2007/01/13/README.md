@@ -9,15 +9,15 @@ _Context: Martial law, two years of helping, Somalia_
 
 ##### Energy dispute
 ### [ The energy dispute between Russia and Belarus is resolved after about 10 hours of negotiations between Russian Prime Minister Mikhail Fradkov and his Belarusian counterpart, Sergey Sidorsky. ](/news/2007/01/13/the-energy-dispute-between-russia-and-belarus-is-resolved-after-about-10-hours-of-negotiations-between-russian-prime-minister-mikhail-fradk.md)
-_Context: Mikhail Fradkov, Belarus, energy dispute, Russia, Sergey Sidorsky_
+_Context: Mikhail Fradkov, Russia, energy dispute, Belarus, Sergey Sidorsky_
 
 ##### Earthquake
 ### [ A major earthquake measuring approximately 8.2 magnitude occurs in the north-western Pacific Ocean at 04:23:20 UTC. A tsunami is detected and a warning is issued for Russia, Japan, Marcus Island, Wake Island, Midway Island, Northern Mariana Islands, Guam, Marshall Islands, Taiwan, Yap, Pohnpei, and Chuuk. ](/news/2007/01/13/a-major-earthquake-measuring-approximately-8-2-magnitude-occurs-in-the-north-western-pacific-ocean-at-04-23-20-utc-a-tsunami-is-detected-a.md)
-_Context: Chuuk, Japan, Russia, tsunami, Midway Island, Yap, South Pacific Ocean, Wake Island, earthquake, Taiwan, Marshall Islands, Pohnpei, Guam, Northern Mariana Islands, 8.2 magnitude, Marcus Island_
+_Context: tsunami, South Pacific Ocean, Northern Mariana Islands, 8.2 magnitude, Marshall Islands, Pohnpei, Midway Island, Japan, Russia, Chuuk, Guam, earthquake, Yap, Wake Island, Taiwan, Marcus Island_
 
 ##### Schutzstaffel
 ### [ 10 former members of the Nazi SS are sentenced "in absentia" to life imprisonment for their role in the Marzabotto massacre, the worst massacre in Italy during World War II. ](/news/2007/01/13/10-former-members-of-the-nazi-ss-are-sentenced-in-absentia-to-life-imprisonment-for-their-role-in-the-marzabotto-massacre-the-worst-mass.md)
-_Context: Italy, Schutzstaffel, World War II, Marzabotto massacre, life imprisonment_
+_Context: World War II, Marzabotto massacre, Schutzstaffel, life imprisonment, Italy_
 
 ## [Previous Day...](/news/2007/01/12/index.md)
 

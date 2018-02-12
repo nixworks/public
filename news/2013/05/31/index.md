@@ -5,7 +5,7 @@ Formats: [HTML](2013/05/31/index.html)  [JSON](2013/05/31/index.json)  [XML](201
 
 ##### Protestors
 ### [Turkish protestors are removed from Gezi Park in Taksim Square, Istanbul, in a violent crackdown by police after days of anti-government unrest. ](/news/2013/05/31/turkish-protestors-are-removed-from-gezi-park-in-taksim-square-istanbul-in-a-violent-crackdown-by-police-after-days-of-anti-government-unr.md)
-_Context: protestors, Istanbul, Taksim Square_
+_Context: Istanbul, Taksim Square, protestors_
 
 ##### Starbucks
 ### [Starbucks announces it will no longer allow customers to smoke in any of its locations. ](/news/2013/05/31/starbucks-announces-it-will-no-longer-allow-customers-to-smoke-in-any-of-its-locations.md)
@@ -13,7 +13,7 @@ _Context: Starbucks_
 
 ##### Firemen
 ### [Four firemen are killed and five others injured fighting a fire in Houston, Texas, U.S. ](/news/2013/05/31/four-firemen-are-killed-and-five-others-injured-fighting-a-fire-in-houston-texas-u-s.md)
-_Context: firemen, Houston, Texas_
+_Context: Texas, Houston, firemen_
 
 ##### Phoenix, Arizona
 ### [Four people are killed when two small planes collide near Phoenix, Arizona, U.S. ](/news/2013/05/31/four-people-are-killed-when-two-small-planes-collide-near-phoenix-arizona-u-s.md)
@@ -21,7 +21,7 @@ _Context: Phoenix, Arizona_
 
 ##### Oklahoma City
 ### [Oklahoma City's Will Rogers World Airport is evacuated due to a tornado threat with three tornadoes touching down with five people dead and others reported missing. ](/news/2013/05/31/oklahoma-city-s-will-rogers-world-airport-is-evacuated-due-to-a-tornado-threat-with-three-tornadoes-touching-down-with-five-people-dead-and.md)
-_Context: Oklahoma City, May 31 tornado, Will Rogers World Airport_
+_Context: Will Rogers World Airport, Oklahoma City, May 31 tornado_
 
 ##### Middle East respiratory syndrome coronavirus
 ### [Italy announces its first case of novel coronavirus. ](/news/2013/05/31/italy-announces-its-first-case-of-novel-coronavirus.md)

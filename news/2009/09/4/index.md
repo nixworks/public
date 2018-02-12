@@ -17,7 +17,7 @@ Chinese soldiers and paramilitary police deployed amid simmering ethnic tensions
 
 ##### India
 ### [ Thousands of mourners from across southern India pay their respects to the dead chief minister of Andhra Pradesh, Y. S. Rajasekhara Reddy. ](/news/2009/09/4/thousands-of-mourners-from-across-southern-india-pay-their-respects-to-the-dead-chief-minister-of-andhra-pradesh-y-s-rajasekhara-reddy.md)
-_Context: India, Y. S. Rajasekhara Reddy, Andhra Pradesh_
+_Context: India, Andhra Pradesh, Y. S. Rajasekhara Reddy_
 
 ##### The Gambia
 ### [ Six Gambian journalists jailed for criticising President Yahya Jammeh are freed. ](/news/2009/09/4/six-gambian-journalists-jailed-for-criticising-president-yahya-jammeh-are-freed.md)
@@ -29,11 +29,11 @@ Police detain more than 50 people, but protests over disputed vote said to be ov
 
 ##### Burma
 ### [ A court in Burma agrees to hear an appeal by detained National League for Democracy leader Aung San Suu Kyi. ](/news/2009/09/4/a-court-in-burma-agrees-to-hear-an-appeal-by-detained-national-league-for-democracy-leader-aung-san-suu-kyi.md)
-_Context: Aung San Suu Kyi, National League for Democracy, Burma_
+_Context: National League for Democracy, Aung San Suu Kyi, Burma_
 
 ##### North Korea
 ### [ North Korea announces it is in the final stage of uranium enrichment, as Russia, South Korea, Japan and the United States express concern. ](/news/2009/09/4/north-korea-announces-it-is-in-the-final-stage-of-uranium-enrichment-as-russia-south-korea-japan-and-the-united-states-express-concern.md)
-_Context: North Korea, North Korea's nuclear program, uranium enrichment, Japan, American, South Korea, Russia_
+_Context: Russia, Japan, South Korea, North Korea, American, North Korea's nuclear program, uranium enrichment_
 
 ##### Kunduz airstrike
 ### [ More than 90 people, among them at least 40 civilians, are killed when an American jetfighter called in by German troops attacks two fuel tankers hijacked by Taliban-insurgents in Kunduz, northern Afghanistan. ](/news/2009/09/4/more-than-90-people-among-them-at-least-40-civilians-are-killed-when-an-american-jetfighter-called-in-by-german-troops-attacks-two-fuel-t.md)
@@ -45,7 +45,7 @@ _Context: political crisis, Madagascar, Madagascan Army_
 
 ##### International Monetary Fund
 ### [ The International Monetary Fund grants Zimbabwe a US$ 500 million loan, its first to the country in 10 years. ](/news/2009/09/4/the-international-monetary-fund-grants-zimbabwe-a-us-500-million-loan-its-first-to-the-country-in-10-years.md)
-_Context: International Monetary Fund, Zimbabwe, $_
+_Context: $, Zimbabwe, International Monetary Fund_
 
 ##### Arctic
 ### [ Temperatures in the Arctic are at their highest for 2000 years, according to a new study. ](/news/2009/09/4/temperatures-in-the-arctic-are-at-their-highest-for-2000-years-according-to-a-new-study.md)
@@ -69,7 +69,7 @@ _Context: Mumbai, Chhatrapati Shivaji International Airport, Air India Flight 82
 
 ##### Bangladesh
 ### [ Two Bangladeshi newspapers, the "Daily Manab Zamin" and the "New Nation", apologise after publishing an article taken from satirical US website "The Onion", which claimed the Moon landings were faked. ](/news/2009/09/4/two-bangladeshi-newspapers-the-daily-manab-zamin-and-the-new-nation-apologise-after-publishing-an-article-taken-from-satirical-us-web.md)
-_Context: American, The Onion, Bangladesh, New Nation, Daily Manab Zamin, Moon_
+_Context: Moon, American, Bangladesh, Daily Manab Zamin, New Nation, The Onion_
 
 ##### American
 ### [ Former US soldier Steven D. Green is sentenced to life in prison with no possibility of release for the murder of an Iraqi girl and her family.](/news/2009/09/4/former-us-soldier-steven-d-green-is-sentenced-to-life-in-prison-with-no-possibility-of-release-for-the-murder-of-an-iraqi-girl-and-her-fam.md)

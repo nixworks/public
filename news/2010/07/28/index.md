@@ -5,7 +5,7 @@ Formats: [HTML](2010/07/28/index.html)  [JSON](2010/07/28/index.json)  [XML](201
 
 ##### Bomb
 ### [A bomb on a civilian bus in Nimruz Province in southwest Afghanistan results in at least 25 deaths. ](/news/2010/07/28/a-bomb-on-a-civilian-bus-in-nimruz-province-in-southwest-afghanistan-results-in-at-least-25-deaths.md)
-_Context: bomb, Nimruz Province, Afghanistan, bus_
+_Context: bus, Afghanistan, Nimruz Province, bomb_
 
 ##### Explosion
 ### [An explosion at a plastics factory in Nanjing, China, kills at least 12 people and injures hundreds. ](/news/2010/07/28/an-explosion-at-a-plastics-factory-in-nanjing-china-kills-at-least-12-people-and-injures-hundreds.md)
@@ -17,7 +17,7 @@ Two Americans were among the 152 people killed when a jetliner slammed into wood
 
 ##### United States Air Force
 ### [A United States Air Force Boeing C-17 crashes at the Elmendorf Air Force Base in Alaska. ](/news/2010/07/28/a-united-states-air-force-boeing-c-17-crashes-at-the-elmendorf-air-force-base-in-alaska.md)
-_Context: Alaska, United States Air Force, Boeing C-17, Elmendorf Air Force Base_
+_Context: Elmendorf Air Force Base, Boeing C-17, United States Air Force, Alaska_
 
 ##### Boat sinks
 ### [A boat sinks on the Kasai river in the Democratic Republic of the Congo, killing as many as 140. ](/news/2010/07/28/a-boat-sinks-on-the-kasai-river-in-the-democratic-republic-of-the-congo-killing-as-many-as-140.md)
@@ -29,7 +29,7 @@ British PM David Cameron warns Pakistan not to have any relationship with groups
 
 ##### Bedouins
 ### [Around 300 Bedouins living in "illegal settlements" in Israel's Negev desert have been made homeless after police raided their village and razed their homes. They are to be resettled in Rahat. ](/news/2010/07/28/around-300-bedouins-living-in-illegal-settlements-in-israel-s-negev-desert-have-been-made-homeless-after-police-raided-their-village-and-r.md)
-_Context: Rahat, Bedouins, police, Negev desert, Israel_
+_Context: Rahat, Bedouins, Negev desert, Israel, police_
 
 ##### Federal District Judge
 ### [United States federal judge Susan Bolton issues a ruling blocking Arizona from implementing sections of Arizona SB 1070 requiring police to check a person's immigration status and requiring immigrants to carry their papers at all times. ](/news/2010/07/28/united-states-federal-judge-susan-bolton-issues-a-ruling-blocking-arizona-from-implementing-sections-of-arizona-sb-1070-requiring-police-to.md)
@@ -45,7 +45,7 @@ Eight severed human heads were discovered in four locations in the capital of th
 
 ##### Grand National Party
 ### [The ruling Grand National Party in South Korea wins five out of eight seats in a by-election to National Assembly seats left vacant by resignations or convictions. ](/news/2010/07/28/the-ruling-grand-national-party-in-south-korea-wins-five-out-of-eight-seats-in-a-by-election-to-national-assembly-seats-left-vacant-by-resig.md)
-_Context: National Assembly of South Korea, Grand National Party, South Korea, by-election_
+_Context: South Korea, by-election, National Assembly of South Korea, Grand National Party_
 
 ##### Governor of California
 ### [Governor of the U.S. state of California Arnold Schwarzenegger declares a "fiscal state of emergency" requiring most state employees to take three days a month of unpaid leave until a new budget is enacted. ](/news/2010/07/28/governor-of-the-u-s-state-of-california-arnold-schwarzenegger-declares-a-fiscal-state-of-emergency-requiring-most-state-employees-to-take.md)
@@ -53,7 +53,7 @@ California Governor Arnold Schwarzenegger has declared a fiscal state of emergen
 
 ##### Spain
 ### [The Spanish autonomous community of Catalonia bans bullfighting, the first region on the mainland to do so. ](/news/2010/07/28/the-spanish-autonomous-community-of-catalonia-bans-bullfighting-the-first-region-on-the-mainland-to-do-so.md)
-_Context: autonomous community, Spain, bullfighting, Catalonia_
+_Context: autonomous community, bullfighting, Catalonia, Spain_
 
 ## [Previous Day...](/news/2010/07/27/index.md)
 

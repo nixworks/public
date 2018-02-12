@@ -17,7 +17,7 @@ _Context: Smith & Wesson_
 
 ##### Men's Wearhouse
 ### [Men's Wearhouse fires its founder and longtime spokesperson George Zimmer. ](/news/2013/06/25/men-s-wearhouse-fires-its-founder-and-longtime-spokesperson-george-zimmer.md)
-_Context: George Zimmer, Men's Wearhouse_
+_Context: Men's Wearhouse, George Zimmer_
 
 ##### 2013 North India floods
 ### [2013 North India floods: A rescue helicopter crashes in Uttarakhand; 19 people are feared dead. ](/news/2013/06/25/2013-north-india-floods-a-rescue-helicopter-crashes-in-uttarakhand-19-people-are-feared-dead.md)
@@ -37,7 +37,7 @@ Italian police searches on Tuesday of more than 30 Italian soccer clubs includes
 
 ##### Russian President
 ### [Russian president Vladimir Putin confirms that Edward Snowden is currently in a Moscow airport's international area; Russia rejects United States extradition demands. ](/news/2013/06/25/russian-president-vladimir-putin-confirms-that-edward-snowden-is-currently-in-a-moscow-airport-s-international-area-russia-rejects-united-s.md)
-_Context: Edward Snowden, Moscow, extradition, Vladimir Putin, Russian President_
+_Context: Russian President, Moscow, Edward Snowden, Vladimir Putin, extradition_
 
 ##### Rio de Janeiro
 ### [Nine are killed in gun battles between paramilitary forces and drug gangs in Rio de Janeiro favelas. ](/news/2013/06/25/nine-are-killed-in-gun-battles-between-paramilitary-forces-and-drug-gangs-in-rio-de-janeiro-favelas.md)
@@ -61,7 +61,7 @@ _Context: Sheikh Tamim bin Hamad al-Than, Hamad bin Khalifa Al Thani, Qatar Emir
 
 ##### Greek Prime Minister
 ### [The Prime Minister of Greece, Antonis Samaras, reshuffles his cabinet giving more positions to his Panhellenic Socialist Movement coalition partner, appointing its leader Evangelos Venizelos as Deputy Prime Minister and Foreign Minister. ](/news/2013/06/25/the-prime-minister-of-greece-antonis-samaras-reshuffles-his-cabinet-giving-more-positions-to-his-panhellenic-socialist-movement-coalition.md)
-_Context: Deputy Prime Minister, Antonis Samaras, Evangelos Venizelos, PASOK, Foreign Minister, Greek Prime Minister_
+_Context: Foreign Minister, PASOK, Greek Prime Minister, Deputy Prime Minister, Evangelos Venizelos, Antonis Samaras_
 
 ##### FICCI
 ### [FICCI calls on the government of India to legalize sports betting. ](/news/2013/06/25/ficci-calls-on-the-government-of-india-to-legalize-sports-betting.md)

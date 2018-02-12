@@ -9,7 +9,7 @@ Gunmen from Islamist group Boko Haram shot or burned to death 59 pupils in a boa
 
 ##### Gold Country
 ### [1,427 gold coins from the mid-19th century that were buried in eight cans are discovered by an anonymous couple while walking their dog in Gold Country, California. The find dubbed the Saddle Ridge Hoard is expected to be worth over $10 million dollars (USD) and is the largest known hoard of gold coins ever found in the United States.](/news/2014/02/25/1-427-gold-coins-from-the-mid-19th-century-that-were-buried-in-eight-cans-are-discovered-by-an-anonymous-couple-while-walking-their-dog-in-g.md)
-_Context: Saddle Ridge Hoard, hoard, Gold Country_
+_Context: hoard, Gold Country, Saddle Ridge Hoard_
 
 ##### Asiana Airlines
 ### [Asiana Airlines is fined US$500,000 for failing to promptly assist families of passengers aboard the flight. ](/news/2014/02/25/asiana-airlines-is-fined-us-500-000-for-failing-to-promptly-assist-families-of-passengers-aboard-the-flight.md)
@@ -33,7 +33,7 @@ While a crowd outside the court chanted “freedom” and “shame”, a judge i
 
 ##### China
 ### [China's National Meteorological Center of CMA warns of heavy smog in northern and central China over the next two days. ](/news/2014/02/25/china-s-national-meteorological-center-of-cma-warns-of-heavy-smog-in-northern-and-central-china-over-the-next-two-days.md)
-_Context: smog, National Meteorological Center, China, China_
+_Context: National Meteorological Center, China, smog, China_
 
 ## [Previous Day...](/news/2014/02/24/index.md)
 

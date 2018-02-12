@@ -41,11 +41,11 @@ _Context: massacre of opposition protesters, Guinea_
 
 ##### American
 ### [ United States President Barack Obama announces he will end the "Don't ask, don't tell" policy against homosexuals serving in the U.S. military. ](/news/2009/10/10/united-states-president-barack-obama-announces-he-will-end-the-don-t-ask-don-t-tell-policy-against-homosexuals-serving-in-the-u-s-milit.md)
-_Context: U.S. President, Don't ask, don't tell, gay, Barack Obama, American, United States armed forces_
+_Context: gay, United States armed forces, Don't ask, don't tell, Barack Obama, U.S. President, American_
 
 ##### Islam
 ### [ More than 40 people are arrested after clashes between anti-Islamic and anti-racist demonstrations in Manchester, England. ](/news/2009/10/10/more-than-40-people-are-arrested-after-clashes-between-anti-islamic-and-anti-racist-demonstrations-in-manchester-england.md)
-_Context: racial bias, Manchester, Islam, England_
+_Context: Manchester, Islam, England, racial bias_
 
 ##### Argentina
 ### [ The Argentine Senate passes a controversial media bill regarding the ownership of media outlets in the country. ](/news/2009/10/10/the-argentine-senate-passes-a-controversial-media-bill-regarding-the-ownership-of-media-outlets-in-the-country.md)

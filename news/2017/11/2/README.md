@@ -17,7 +17,7 @@ Powell is known for his centrist ideas and experience in the Federal Reserve.
 
 ##### 2017 NTPC power plant explosion
 ### [At least 22 people killed and 100 injured in boiler explosion at a coal-fired power plant in Uttar Pradesh state, India. ](/news/2017/11/2/at-least-22-people-killed-and-100-injured-in-boiler-explosion-at-a-coal-fired-power-plant-in-uttar-pradesh-state-india.md)
-_Context: 2017 NTPC power plant explosion, coal-fired power plant_
+_Context: coal-fired power plant, 2017 NTPC power plant explosion_
 
 ##### Spanish constitutional crisis
 ### [Judge Lamela sends preventive detention to eight of the ministers of the Government of Catalonia (Junqueras, Forn, Batet, Romeva, Mundo, Bassa, Rull, Turull) due to an alleged crime of sedition and rebellion. The ninth Santi Vila, minister of Enterprise and Knowledge, leaves the jail the next day after payment of a bail, being the only one who was given this opportunity. ](/news/2017/11/2/judge-lamela-sends-preventive-detention-to-eight-of-the-ministers-of-the-government-of-catalonia-junqueras-forn-batet-romeva-munda3-ba.md)

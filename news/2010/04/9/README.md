@@ -5,7 +5,7 @@ Formats: [HTML](2010/04/9/index.html)  [JSON](2010/04/9/index.json)  [XML](2010/
 
 ##### Brazil
 ### [Rescue efforts continue in Brazil in an attempt to locate around 200 people believed to have been buried in their homes by a large landslide in Morro do Bumba near Rio de Janeiro city in the state of Rio de Janeiro. ](/news/2010/04/9/rescue-efforts-continue-in-brazil-in-an-attempt-to-locate-around-200-people-believed-to-have-been-buried-in-their-homes-by-a-large-landslide.md)
-_Context: Rio de Janeiro, Rio de Janeiro, buried in their homes by a large landslide, Morro do Bumba, Brazil_
+_Context: buried in their homes by a large landslide, Morro do Bumba, Brazil, Rio de Janeiro, Rio de Janeiro_
 
 ##### Shanxi province
 ### [The death toll in Shanxi's flooded Wangjialing coal mine reaches 25. ](/news/2010/04/9/the-death-toll-in-shanxi-s-flooded-wangjialing-coal-mine-reaches-25.md)
@@ -29,11 +29,11 @@ Heavy security amid fears of racial tensions around funeral of Eugene Terreblanc
 
 ##### Red shirt
 ### [Anti-government protesters in Thailand storm and occupy an opposition television station. ](/news/2010/04/9/anti-government-protesters-in-thailand-storm-and-occupy-an-opposition-television-station.md)
-_Context: Thailand, red shirt_
+_Context: red shirt, Thailand_
 
 ##### German
 ### [Germany charges a former member of the Red Army Faction (RAF) in connection with the murder of Attorney General Siegfried Buback, who was shot alongside two other men in 1977. ](/news/2010/04/9/germany-charges-a-former-member-of-the-red-army-faction-raf-in-connection-with-the-murder-of-attorney-general-siegfried-buback-who-was-sh.md)
-_Context: Attorney General of Germany, Red Army Faction, German, Siegfried Buback_
+_Context: German, Siegfried Buback, Red Army Faction, Attorney General of Germany_
 
 ##### Sri Lanka
 ### [Sri Lanka's governing coalition wins a majority in the country's 2010 parliamentary election. ](/news/2010/04/9/sri-lanka-s-governing-coalition-wins-a-majority-in-the-country-s-2010-parliamentary-election.md)
@@ -41,7 +41,7 @@ _Context: Sri Lanka, parliamentary election_
 
 ##### Sudan
 ### [Ahead of Sudan's first multi-party elections in 24 years, some opposition parties criticise lack of access to balanced media coverage and accuse the government of manipulation. ](/news/2010/04/9/ahead-of-sudan-s-first-multi-party-elections-in-24-years-some-opposition-parties-criticise-lack-of-access-to-balanced-media-coverage-and-ac.md)
-_Context: post-election protests, Sudan_
+_Context: Sudan, post-election protests_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI encounters allegations he was responsible for obstructing the punishment of American paedophile priest Stephen Kiesle by signing ](/news/2010/04/9/pope-benedict-xvi-encounters-allegations-he-was-responsible-for-obstructing-the-punishment-of-american-paedophile-priest-stephen-kiesle-by-s.md)
@@ -65,11 +65,11 @@ _Context: metro, Line 2, Pudong International Airport_
 
 ##### Air Force
 ### [U.S. helicopter - Air Force CV-22 Osprey - crashes in southern Afghanistan, killing three U.S. service members and one civilian employee. Zabiullah Mujahid says Taliban fighters shot down the chopper. ](/news/2010/04/9/u-s-helicopter-air-force-cv-22-osprey-crashes-in-southern-afghanistan-killing-three-u-s-service-members-and-one-civilian-employee-za.md)
-_Context: CV-22 Osprey, Air Force, Afghanistan, Zabiullah Mujahid, Taliban_
+_Context: Zabiullah Mujahid, Taliban, CV-22 Osprey, Air Force, Afghanistan_
 
 ##### Justice
 ### [Associate Justice John Paul Stevens of the U.S. Supreme Court announces his retirement after serving on the court for 34 years. ](/news/2010/04/9/associate-justice-john-paul-stevens-of-the-u-s-supreme-court-announces-his-retirement-after-serving-on-the-court-for-34-years.md)
-_Context: Supreme Court of the United States, Justice, John Paul Stevens_
+_Context: Supreme Court of the United States, John Paul Stevens, Justice_
 
 ##### Tangshan
 ### [ 4.1-magnitude earthquake jolts northern Chinese city of Tangshan. ](/news/2010/04/9/4-1-magnitude-earthquake-jolts-northern-chinese-city-of-tangshan.md)
@@ -77,7 +77,7 @@ _Context: Tangshan_
 
 ##### World Bank
 ### [ The World Bank approves a $3.75 billion loan for a coal-fired power plant in South Africa. ](/news/2010/04/9/the-world-bank-approves-a-3-75-billion-loan-for-a-coal-fired-power-plant-in-south-africa.md)
-_Context: South Africa, World Bank,  coal based electricity_
+_Context: World Bank, South Africa,  coal based electricity_
 
 ## [Previous Day...](/news/2010/04/8/index.md)
 

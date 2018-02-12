@@ -9,7 +9,7 @@ A militant group in Gaza said the first rocket strike in more than three months 
 
 ##### Mexican
 ### [Gunmen break into a prison in the Mexican border city of Ciudad Miguel Aleman, Tamaulipas, and liberate 12 inmates. ](/news/2013/02/26/gunmen-break-into-a-prison-in-the-mexican-border-city-of-ciudad-miguel-alema-n-tamaulipas-and-liberate-12-inmates.md)
-_Context: Mexican, Ciudad Miguel Aleman, Tamaulipas_
+_Context: Tamaulipas, Mexican, Ciudad Miguel Aleman_
 
 ##### Yobe State
 ### [Gunmen kill seven guards guarding a marketplace in Yobe State, Nigeria. ](/news/2013/02/26/gunmen-kill-seven-guards-guarding-a-marketplace-in-yobe-state-nigeria.md)
@@ -25,7 +25,7 @@ UK, French, Hong Kong and Japanese nationals are among 19 tourists killed in a h
 
 ##### February 2013 Great Plains blizzard
 ### [February 2013 Great Plains blizzard: A 71-year-old man is killed in Woodward, Oklahoma, United States, when his roof collapses after a powerful winter storm affecting much of the central United States. ](/news/2013/02/26/february-2013-great-plains-blizzard-a-71-year-old-man-is-killed-in-woodward-oklahoma-united-states-when-his-roof-collapses-after-a-power.md)
-_Context: Woodward, Oklahoma, American, winter storm, February 2013 Great Plains blizzard_
+_Context: winter storm, Oklahoma, American, February 2013 Great Plains blizzard, Woodward_
 
 ##### Sleep loss
 ### [A study finds that sleep loss can alter gene behavior, which may explain why it often precedes medical problems such as diabetes, obesity, and heart disease. ](/news/2013/02/26/a-study-finds-that-sleep-loss-can-alter-gene-behavior-which-may-explain-why-it-often-precedes-medical-problems-such-as-diabetes-obesity-a.md)
@@ -33,23 +33,23 @@ Just a week of inadequate sleep can alter the activity of hundreds of genes, whi
 
 ##### Clinical trial
 ### [Pediatric clinical trials of Amgen's Sensipar, used to treat various hyperparathyroidism problems which result in abnormal levels of serum calcium, are halted in the United States after a 14-year-old patient dies. ](/news/2013/02/26/pediatric-clinical-trials-of-amgen-s-sensipar-used-to-treat-various-hyperparathyroidism-problems-which-result-in-abnormal-levels-of-serum-c.md)
-_Context: American, clinical trial, Amgen, Sensipar, hyperparathyroidism, serum calcium_
+_Context: Amgen, clinical trial, American, serum calcium, hyperparathyroidism, Sensipar_
 
 ##### China
 ### [Representatives of six major world powers - China, France, Germany, United Kingdom, Russia and the United States - meet with Iranian officials to discuss the nation's nuclear program. ](/news/2013/02/26/representatives-of-six-major-world-powers-a-china-france-germany-united-kingdom-russia-and-the-united-states-a-meet-with-iranian-off.md)
-_Context: American, France, the nation's nuclear program, Russia, United Kingdom, Iran, German, China_
+_Context: the nation's nuclear program, China, United Kingdom, American, France, Russia, German, Iran_
 
 ##### Mexican
 ### [Mexican teacher's union leader Elba Esther Gordillo is arrested on corruption charges. ](/news/2013/02/26/mexican-teacher-s-union-leader-elba-esther-gordillo-is-arrested-on-corruption-charges.md)
-_Context: Mexican, teacher's union, corruption, Elba Esther Gordillo_
+_Context: Mexican, teacher's union, Elba Esther Gordillo, corruption_
 
 ##### Police officers
 ### [2013 Santa Cruz shooting: Two police officers are fatally shot in Santa Cruz, California, United States. The suspect is shot and killed. ](/news/2013/02/26/2013-santa-cruz-shooting-two-police-officers-are-fatally-shot-in-santa-cruz-california-united-states-the-suspect-is-shot-and-killed.md)
-_Context: Santa Cruz, California, police officers, American, California_
+_Context: California, American, police officers, Santa Cruz, California_
 
 ##### National Salvation Front
 ### [The National Salvation Front, Egypt's main opposition party, announces it will boycott the upcoming parliamentary election. ](/news/2013/02/26/the-national-salvation-front-egypt-s-main-opposition-party-announces-it-will-boycott-the-upcoming-parliamentary-election.md)
-_Context: National Salvation Front, boycott, the upcoming parliamentary election, Egypt_
+_Context: the upcoming parliamentary election, National Salvation Front, boycott, Egypt_
 
 ##### Chuck Hagel
 ### [Chuck Hagel is confirmed by the Senate as the United States Secretary of Defense. ](/news/2013/02/26/chuck-hagel-is-confirmed-by-the-senate-as-the-united-states-secretary-of-defense.md)

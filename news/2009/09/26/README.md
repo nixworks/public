@@ -13,7 +13,7 @@ The Minister of State with responsibility for Overseas Development has delivered
 
 ##### Metro Manila
 ### [ At least 10 people are dead in Metro Manila after Tropical Storm Ketsana hits the northern Philippines. ](/news/2009/09/26/at-least-10-people-are-dead-in-metro-manila-after-tropical-storm-ketsana-hits-the-northern-philippines.md)
-_Context: Philippines, Metro Manila, Tropical Storm Ketsana_
+_Context: Metro Manila, Tropical Storm Ketsana, Philippines_
 
 ##### Detainees
 ### [ Three detainees held by the United States at Guantanamo Bay in Cuba, are sent abroad to two countries. Ireland accepts two detainees of Uzbeki origin in a humanitarian gesture, with Minister for Justice, Equality and Law Reform Dermot Ahern saying Ireland was one of the first countries in Europe to call for the closure of Guantanamo Bay and that the two men would now be given time to rebuild their lives. ](/news/2009/09/26/three-detainees-held-by-the-united-states-at-guanta-namo-bay-in-cuba-are-sent-abroad-to-two-countries-ireland-accepts-two-detainees-of-uz.md)
@@ -21,7 +21,7 @@ Three detainees held at the U.S. military prison at Guantanamo Bay, Cuba, have b
 
 ##### Kenya
 ### [ Kenyan President Mwai Kibaki writes to President of the United States Barack Obama to express his concern and disappointment over threats it has received from that country concerning a travel ban on Kenyan officials it blames for hindering reforms. ](/news/2009/09/26/kenyan-president-mwai-kibaki-writes-to-president-of-the-united-states-barack-obama-to-express-his-concern-and-disappointment-over-threats-i.md)
-_Context: president, U.S. President, Barack Obama, Mwai Kibaki, Kenya_
+_Context: Kenya, U.S. President, president, Barack Obama, Mwai Kibaki_
 
 ##### Car bomb
 ### [ Two car bomb blasts kill at least 12 people in northwestern Pakistan. ](/news/2009/09/26/two-car-bomb-blasts-kill-at-least-12-people-in-northwestern-pakistan.md)
@@ -29,15 +29,15 @@ Police officers and civilians among casualties of car-bomb attacks in Bannu and 
 
 ##### President
 ### [ Iranian President Mahmoud Ahmadinejad rejects U.S. President Barack Obama's accusation about Iran's nuclear program. ](/news/2009/09/26/iranian-president-mahmoud-ahmadinejad-rejects-u-s-president-barack-obama-s-accusation-about-iran-s-nuclear-program.md)
-_Context: nuclear program, U.S. President, Barack Obama, Mahmoud Ahmadinejad, President_
+_Context: nuclear program, Barack Obama, President, Mahmoud Ahmadinejad, U.S. President_
 
 ##### Korean War
 ### [ Families separated for over 50 years since the Korean War meet at the Kumgangsan resort, North Korea. ](/news/2009/09/26/families-separated-for-over-50-years-since-the-korean-war-meet-at-the-kamgangsan-resort-north-korea.md)
-_Context: Korean War, Mount Kumgang resort, North Korea_
+_Context: North Korea, Mount Kumgang resort, Korean War_
 
 ##### Mass grave
 ### [ Two mass graves linked to Colombia's internal conflict are discovered. ](/news/2009/09/26/two-mass-graves-linked-to-colombia-s-internal-conflict-are-discovered.md)
-_Context: internal conflict, mass grave, Colombia_
+_Context: Colombia, internal conflict, mass grave_
 
 ##### Second dust storm
 ### [ A second dust storm hits Sydney, Australia. ](/news/2009/09/26/a-second-dust-storm-hits-sydney-australia.md)
@@ -45,7 +45,7 @@ The weather bureau is using satellite imagery to monitor another dust storm whic
 
 ##### Pope
 ### [ Pope Benedict XVI arrives for a three day visit to the Czech Republic. ](/news/2009/09/26/pope-benedict-xvi-arrives-for-a-three-day-visit-to-the-czech-republic.md)
-_Context: Pope Benedict XVI, Czech Republic, Pope_
+_Context: Czech Republic, Pope, Pope Benedict XVI_
 
 ##### Europe
 ### [ Twenty-two large banks in Europe may have accumulated credit losses of close to EUR400 billion for this year and next, according to officials who have seen a draft of conclusions of "stress tests" conducted by European regulators. ](/news/2009/09/26/twenty-two-large-banks-in-europe-may-have-accumulated-credit-losses-of-close-to-a-400-billion-for-this-year-and-next-according-to-officia.md)
@@ -53,15 +53,15 @@ Europe’s 22 biggest banks may have accumulated about 400 billion euros in cred
 
 ##### Geelong
 ### [ Geelong defeats St Kilda in the 2009 AFL Grand Final at the Melbourne Cricket Ground.](/news/2009/09/26/geelong-defeats-st-kilda-in-the-2009-afl-grand-final-at-the-melbourne-cricket-ground.md)
-_Context: Melbourne Cricket Ground, Geelong, 2009 AFL Grand Final, St Kilda Football Club_
+_Context: St Kilda Football Club, 2009 AFL Grand Final, Geelong, Melbourne Cricket Ground_
 
 ##### Spain
 ### [ The Spanish government formally unveils plans to liberalise the country's abortion law. ](/news/2009/09/26/the-spanish-government-formally-unveils-plans-to-liberalise-the-country-s-abortion-law.md)
-_Context: Spain, abortion_
+_Context: abortion, Spain_
 
 ##### Nigeria
 ### [ Nigerian President Umaru Yar'Adua returns to Abuja after a visit to Saudi Arabia. ](/news/2009/09/26/nigerian-president-umaru-yar-adua-returns-to-abuja-after-a-visit-to-saudi-arabia.md)
-_Context: President, Saudi Arabia, Abuja, Umaru Yar'Adua, Nigeria_
+_Context: Umaru Yar'Adua, President, Nigeria, Saudi Arabia, Abuja_
 
 ##### Pope Benedict XVI
 ### [ Pope Benedict XVI's robes are graced by a spider as he addresses politicians and diplomats in Prague. ](/news/2009/09/26/pope-benedict-xvi-s-robes-are-graced-by-a-spider-as-he-addresses-politicians-and-diplomats-in-prague.md)

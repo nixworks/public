@@ -5,7 +5,7 @@ Formats: [HTML](2006/11/26/index.html)  [JSON](2006/11/26/index.json)  [XML](200
 
 ##### Somali Civil War
 ### [ Somali Civil War: The Islamic Courts Union that controls much of southern Somalia has dispatched thousands of troops to within 15km of the border with Ethiopia. ](/news/2006/11/26/somali-civil-war-the-islamic-courts-union-that-controls-much-of-southern-somalia-has-dispatched-thousands-of-troops-to-within-15km-of-the.md)
-_Context: Islamic Courts Union, Somalia, Ethiopia, Somali Civil War_
+_Context: Somali Civil War, Somalia, Ethiopia, Islamic Courts Union_
 
 ##### Chad
 ### [ Chad's armed forces have retaken Abeche with no major fighting being reported. ](/news/2006/11/26/chad-s-armed-forces-have-retaken-aba-c-cha-c-with-no-major-fighting-being-reported.md)
@@ -13,11 +13,11 @@ _Context: Abeche, Chad_
 
 ##### Peter Hain
 ### [ Peter Hain, the Secretary of State for Northern Ireland criticizes "murky murders" associated with Vladimir Putin's regime in Russia following the poisoning of Alexander Litvinenko. ](/news/2006/11/26/peter-hain-the-secretary-of-state-for-northern-ireland-criticizes-murky-murders-associated-with-vladimir-putin-s-regime-in-russia-follow.md)
-_Context: Russia, Alexander Litvinenko, Vladimir Putin, Northern Ireland, Secretary of State for Northern Ireland, Peter Hain_
+_Context: Secretary of State for Northern Ireland, Peter Hain, Northern Ireland, Russia, Alexander Litvinenko, Vladimir Putin_
 
 ##### Sunni
 ### [ Sunni and Shia Islamists score big victories in Bahrain's parliamentary elections as results are announced from yesterday's poll ](/news/2006/11/26/sunni-and-shia-islamists-score-big-victories-in-bahrain-s-parliamentary-elections-as-results-are-announced-from-yesterday-s-poll.md)
-_Context: Sunni, Islamist, Al Wefaq, parliamentary elections, Bahrain_
+_Context: Bahrain, Islamist, Al Wefaq, Sunni, parliamentary elections_
 
 ##### Ceasefire
 ### [ A ceasefire commences between Israeli and Palestinian fighters in the Gaza Strip. It followed negotiations between the Palestinian President Mahmoud Abbas and Israeli Prime Minister Ehud Olmert. ](/news/2006/11/26/a-ceasefire-commences-between-israeli-and-palestinian-fighters-in-the-gaza-strip-it-followed-negotiations-between-the-palestinian-presiden.md)
@@ -37,7 +37,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Italian Prime Minister
 ### [ Former Italian Prime Minister Silvio Berlusconi collapses while giving a speech in Tuscany and has to be carried from the podium by his aides. Doctors treating him afterwards blamed a sudden drop in blood pressure. ](/news/2006/11/26/former-italian-prime-minister-silvio-berlusconi-collapses-while-giving-a-speech-in-tuscany-and-has-to-be-carried-from-the-podium-by-his-aid.md)
-_Context: Tuscany, Silvio Berlusconi, blood pressure, Italian Prime Minister_
+_Context: blood pressure, Italian Prime Minister, Tuscany, Silvio Berlusconi_
 
 ## [Previous Day...](/news/2006/11/25/index.md)
 

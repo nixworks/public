@@ -9,7 +9,7 @@ _Context: Syria_
 
 ##### Muammar Gaddafi
 ### [A group of Gaddafi loyalists take control of part of the town of Bani Walid and fly the green flag after a battle with NTC forces left 5 dead and 20 injured. ](/news/2012/01/23/a-group-of-gaddafi-loyalists-take-control-of-part-of-the-town-of-bani-walid-and-fly-the-green-flag-after-a-battle-with-ntc-forces-left-5-dea.md)
-_Context: green flag, Bani Walid, Muammar Gaddafi, revolts_
+_Context: Bani Walid, green flag, Muammar Gaddafi, revolts_
 
 ##### Ruchir Joshi
 ### [Ruchir Joshi, Jeet Thayil, Hari Kunzru and Amitava Kumar flee Jaipur on the advice of officials at the Jaipur Literature Festival after reading excerpts from Salman Rushdie's "The Satanic Verses", which is banned in India. Rushdie, himself banned from the event, is told that police are searching for the four fugitive writers. ](/news/2012/01/23/ruchir-joshi-jeet-thayil-hari-kunzru-and-amitava-kumar-flee-jaipur-on-the-advice-of-officials-at-the-jaipur-literature-festival-after-read.md)

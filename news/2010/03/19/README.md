@@ -17,7 +17,7 @@ Former US general says 1995 massacre due in part to Dutch army allowing gay troo
 
 ##### Hoax
 ### [A hoax stating that at least 200 people have died in a mining accident in Bo, Sierra Leone, makes headlines around the world. ](/news/2010/03/19/a-hoax-stating-that-at-least-200-people-have-died-in-a-mining-accident-in-bo-sierra-leone-makes-headlines-around-the-world.md)
-_Context: Sierra Leone, hoax, Bo_
+_Context: hoax, Bo, Sierra Leone_
 
 ##### Sudan
 ### [At least 13 people die during clashes in Sudan. ](/news/2010/03/19/at-least-13-people-die-during-clashes-in-sudan.md)
@@ -41,11 +41,11 @@ Jeddah Summary Court sends copy of lawsuit filed against writer to justice minis
 
 ##### Ethiopia
 ### [Ethiopian Prime Minister Meles Zenawi says radio station the Voice of America (VOA) is promoting "destabilising propaganda" that is inciting genocide in his country. ](/news/2010/03/19/ethiopian-prime-minister-meles-zenawi-says-radio-station-the-voice-of-america-voa-is-promoting-destabilising-propaganda-that-is-inciting.md)
-_Context: Voice of America, Prime Minister, genocide, Ethiopia, Meles Zenawi_
+_Context: genocide, Ethiopia, Voice of America, Prime Minister, Meles Zenawi_
 
 ##### Egypt
 ### [Egyptian mosques pray for President Hosni Mubarak&mdash;who is ill and whose health is taboo&mdash;as images of his recovery in Germany are broadcast on television screens, boosting stock markets. ](/news/2010/03/19/egyptian-mosques-pray-for-president-hosni-mubarak-mdash-who-is-ill-and-whose-health-is-taboo-mdash-as-images-of-his-recovery-in-germany-are.md)
-_Context: mosque, German, Hosni Mubarak, President, Egypt_
+_Context: mosque, President, Egypt, Hosni Mubarak, German_
 
 ##### Switzerland
 ### [Switzerland ceases to deport asylum seekers in response to the death of a Nigerian man at Zrich Airport as he was being forcefully deported. Nigeria condemns the occurrence. ](/news/2010/03/19/switzerland-ceases-to-deport-asylum-seekers-in-response-to-the-death-of-a-nigerian-man-at-zurich-airport-as-he-was-being-forcefully-deported.md)
@@ -53,7 +53,7 @@ BERLIN - Switzerland has halted all repatriation flights for rejected asylum see
 
 ##### South Africa
 ### [South African police fire water cannon at 2,000 students protesting at the release of hip-hop performer Molemo "Jub Jub" Maarohanye, accused of killing four school pupils. ](/news/2010/03/19/south-african-police-fire-water-cannon-at-2-000-students-protesting-at-the-release-of-hip-hop-performer-molemo-jub-jub-maarohanye-accused.md)
-_Context: South Africa, Molemo "Jub Jub" Maarohanye_
+_Context: Molemo "Jub Jub" Maarohanye, South Africa_
 
 ##### President
 ### [President of Egypt Hosni Mubarak names Sheikh Ahmed Mohammed Ahmed al-Tayeb as head of Al-Azhar University. ](/news/2010/03/19/president-of-egypt-hosni-mubarak-names-sheikh-ahmed-mohammed-ahmed-al-tayeb-as-head-of-al-azhar-university.md)
@@ -61,7 +61,7 @@ Sheikh Ahmed Mohammed Ahmed al-Tayeb named as head of Al-Azhar Islamic instituti
 
 ##### American
 ### [A judge in the United States rejects a $657.5 million deal for 10,000 people involved in the aftermath of 9-11. ](/news/2010/03/19/a-judge-in-the-united-states-rejects-a-657-5-million-deal-for-10-000-people-involved-in-the-aftermath-of-9-11.md)
-_Context: September 11 attacks, American_
+_Context: American, September 11 attacks_
 
 ##### FIFA
 ### [FIFA dismisses the bid of Indonesia for the 2022 FIFA World Cup after the country failed to provide "guarantees". ](/news/2010/03/19/fifa-dismisses-the-bid-of-indonesia-for-the-2022-fifa-world-cup-after-the-country-failed-to-provide-guarantees.md)
@@ -73,7 +73,7 @@ _Context: Large Hadron Collider_
 
 ##### Amnesty International
 ### [Amnesty International asks Saudi Arabia's King Abdullah to intervene in the case of a Lebanese man sentenced to death for "sorcery". ](/news/2010/03/19/amnesty-international-asks-saudi-arabia-s-king-abdullah-to-intervene-in-the-case-of-a-lebanese-man-sentenced-to-death-for-sorcery.md)
-_Context: Abdullah, Saudi Arabia, Lebanese, Amnesty International_
+_Context: Lebanese, Saudi Arabia, Amnesty International, Abdullah_
 
 ##### Colombia
 ### [An investigation is urged into the assassination of Colombian human rights activist Johnny Hurtado. ](/news/2010/03/19/an-investigation-is-urged-into-the-assassination-of-colombian-human-rights-activist-johnny-hurtado.md)
@@ -81,7 +81,7 @@ _Context: Johnny Hurtado, Colombia_
 
 ##### Colombia
 ### [Colombian journalist, radio reporter and "El Pulso" magazine editor Clodomiro Castilla is shot to death while reading a book at his Montera home. ](/news/2010/03/19/colombian-journalist-radio-reporter-and-el-pulso-magazine-editor-clodomiro-castilla-is-shot-to-death-while-reading-a-book-at-his-monteria.md)
-_Context: Montera, Colombia, El Pulso, Clodomiro Castilla_
+_Context: Clodomiro Castilla, Montera, Colombia, El Pulso_
 
 ## [Previous Day...](/news/2010/03/18/index.md)
 

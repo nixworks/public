@@ -9,7 +9,7 @@ Government plans to make possession of a national identity card mandatory for pa
 
 ##### Israel
 ### [ Israeli aircraft fire rockets at a car in Gaza, killing two Islamic Jihad members and three innocent bystanders as well as wounding seven other people, mostly children. Commander-in-Chief of the Israel Air Force, Maj.-Gen. Eliezer Shkedy said: "We are doing everything we can possibly think of to prevent innocent people from being harmed, but this is a war and nothing is certain." ](/news/2006/03/6/israeli-aircraft-fire-rockets-at-a-car-in-gaza-killing-two-islamic-jihad-members-and-three-innocent-bystanders-as-well-as-wounding-seven-o.md)
-_Context: Israel Air Force, Israel, Islamic Jihad, Gaza Strip, Eliezer Shkedy_
+_Context: Israel Air Force, Islamic Jihad, Gaza Strip, Eliezer Shkedy, Israel_
 
 ##### Milan Babic
 ### [ Milan Babic, former leader of the breakaway Republic of Serbian Krajina, commits suicide in prison while serving a sentence for war crimes. ](/news/2006/03/6/milan-babia-former-leader-of-the-breakaway-republic-of-serbian-krajina-commits-suicide-in-prison-while-serving-a-sentence-for-war-crimes.md)
@@ -21,7 +21,7 @@ Gov. Mike Rounds signed a bill Monday banning almost all abortions in South Dako
 
 ##### Zacarias Moussaoui
 ### [ The sentencing hearing of Zacarias Moussaoui, the only person indicted in the US for a direct role in the 9-11 attacks, has opened in Virginia. ](/news/2006/03/6/the-sentencing-hearing-of-zacarias-moussaoui-the-only-person-indicted-in-the-us-for-a-direct-role-in-the-9-11-attacks-has-opened-in-virgi.md)
-_Context: 9/11, Zacarias Moussaoui_
+_Context: Zacarias Moussaoui, 9/11_
 
 ##### Polish
 ### [ Avian flu outbreak: Poland confirms first outbreak of H5N1, the bird flu virus, in two wild swans. ](/news/2006/03/6/avian-flu-outbreak-poland-confirms-first-outbreak-of-h5n1-the-bird-flu-virus-in-two-wild-swans.md)
@@ -29,7 +29,7 @@ The first Polish case of H5 bird flu has been found in two swans found dead on t
 
 ##### South Africa
 ### [ In South Africa, former Deputy President (1999-2005) Jacob Zuma pleads not guilty of rape as his trial starts. ](/news/2006/03/6/in-south-africa-former-deputy-president-1999a2005-jacob-zuma-pleads-not-guilty-of-rape-as-his-trial-starts.md)
-_Context: not guilty, rape, Jacob Zuma, South Africa_
+_Context: Jacob Zuma, rape, not guilty, South Africa_
 
 ## [Previous Day...](/news/2006/03/5/index.md)
 

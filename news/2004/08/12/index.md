@@ -5,11 +5,11 @@ Formats: [HTML](2004/08/12/index.html)  [JSON](2004/08/12/index.json)  [XML](200
 
 ##### Lee Hsien Loong
 ### [ Lee Hsien Loong is sworn in as the third Prime Minister of Singapore. ](/news/2004/08/12/lee-hsien-loong-is-sworn-in-as-the-third-prime-minister-of-singapore.md)
-_Context: Lee Hsien Loong, Prime Minister of Singapore_
+_Context: Prime Minister of Singapore, Lee Hsien Loong_
 
 ##### New Jersey
 ### [ New Jersey Governor Jim McGreevey resigns his post effective November 15, saying that his extramarital homosexual affair would leave the governor's office "vulnerable to rumors, false allegations and threats of disclosure.". ](/news/2004/08/12/new-jersey-governor-jim-mcgreevey-resigns-his-post-effective-november-15-saying-that-his-extramarital-homosexual-affair-would-leave-the-go.md)
-_Context: gay, New Jersey, New Jersey Governor, Jim McGreevey_
+_Context: gay, New Jersey Governor, Jim McGreevey, New Jersey_
 
 ##### San Francisco, California
 ### [ Unanimously determining that San Francisco's same-sex marriages are illegal, the California Supreme Court votes 5-2 to annul all 4,000 such marriages performed in San Francisco this year. ](/news/2004/08/12/unanimously-determining-that-san-francisco-s-same-sex-marriages-are-illegal-the-california-supreme-court-votes-5a2-to-annul-all-4-000-su.md)
@@ -21,11 +21,11 @@ _Context: Jose M. DurGBPo Barroso, President of the European Commission, Europea
 
 ##### Catholic faithful
 ### [ A Roman Catholic seminary at St Poelten in Austria is shut down following allegations of sexual impropriety. ](/news/2004/08/12/a-roman-catholic-seminary-at-st-poelten-in-austria-is-shut-down-following-allegations-of-sexual-impropriety.md)
-_Context: seminary, Catholic faithful_
+_Context: Catholic faithful, seminary_
 
 ##### Najaf
 ### [ In Najaf, US forces besiege the Imam Ali Mosque, where followers of the radical Shia cleric Moqtada al Sadr are barricaded. ](/news/2004/08/12/in-najaf-us-forces-besiege-the-imam-ali-mosque-where-followers-of-the-radical-shia-cleric-moqtada-al-sadr-are-barricaded.md)
-_Context: Najaf, Imam Ali Mosque, Moqtada al Sadr, Shia_
+_Context: Moqtada al Sadr, Imam Ali Mosque, Najaf, Shia_
 
 ## [Previous Day...](/news/2004/08/11/index.md)
 

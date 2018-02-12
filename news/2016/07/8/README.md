@@ -5,19 +5,19 @@ Formats: [HTML](2016/07/8/index.html)  [JSON](2016/07/8/index.json)  [XML](2016/
 
 ##### Insurgency in the North Caucasus
 ### [At least eight unidentified militants and one security officer are killed in ongoing clashes in rural Dagestan, Russia. ](/news/2016/07/8/at-least-eight-unidentified-militants-and-one-security-officer-are-killed-in-ongoing-clashes-in-rural-dagestan-russia.md)
-_Context: Insurgency in the North Caucasus, Federal Security Service, Russia, Dagestan_
+_Context: Federal Security Service, Russia, Dagestan, Insurgency in the North Caucasus_
 
 ##### Boko Haram insurgency
 ### [According to a Nigerian Army spokesman, a Boko Haram suicide bomber kills six people inside a mosque in the town of Damboa, Borno State. A second suicide bomber attempted to enter the same mosque but failed to gain entry and detonated his belt, killing only himself. ](/news/2016/07/8/according-to-a-nigerian-army-spokesman-a-boko-haram-suicide-bomber-kills-six-people-inside-a-mosque-in-the-town-of-damboa-borno-state-a-s.md)
-_Context: Nigerian Army, Boko Haram, Boko Haram insurgency, Damboa, Borno State_
+_Context: Boko Haram, Damboa, Boko Haram insurgency, Borno State, Nigerian Army_
 
 ##### Syrian Civil War
 ### [Airstrikes hit Darkush in Idlib Province near the Turkish border, killing at least 23 people, according to the Syrian Observatory for Human Rights. At least 25 died when rebels shelled government-held areas of Aleppo. Friday is the last day of a 72-hour Syrian Army-sponsored ceasefire. ](/news/2016/07/8/airstrikes-hit-darkush-in-idlib-province-near-the-turkish-border-killing-at-least-23-people-according-to-the-syrian-observatory-for-human.md)
-_Context: Syrian Observatory for Human Rights, Darkush, Turkey, Idlib Governorate, Aleppo, Syrian Civil War, Syrian Army_
+_Context: Syrian Army, Darkush, Idlib Governorate, Syrian Civil War, Aleppo, Syrian Observatory for Human Rights, Turkey_
 
 ##### South Sudanese Civil War
 ### [Five soldiers between the two rival Sudan People's Liberation Army factions are killed in clashes in the capital Juba, with reports of heavy gunfire continuing, despite President Salva Kiir Mayardit and rebel leader Riek Machar having reached a peace deal back in April. ](/news/2016/07/8/five-soldiers-between-the-two-rival-sudan-people-s-liberation-army-factions-are-killed-in-clashes-in-the-capital-juba-with-reports-of-heavy.md)
-_Context: Riek Machar, Salva Kiir Mayardit, President, South Sudanese Civil War, local clashes, Juba, Sudan People's Liberation Army_
+_Context: Sudan People's Liberation Army, Salva Kiir Mayardit, South Sudanese Civil War, Juba, Riek Machar, President, local clashes_
 
 ##### 2016 Pacific typhoon season
 ### [Typhoon Nepartak hits eastern Taiwan causing three deaths so far, 124 injuries, thousands of people to be evacuated, disrupting transport and power supplies. ](/news/2016/07/8/typhoon-nepartak-hits-eastern-taiwan-causing-three-deaths-so-far-124-injuries-thousands-of-people-to-be-evacuated-disrupting-transport-an.md)
@@ -33,7 +33,7 @@ Edhi created a charitable empire out of nothing, masterminding Pakistan&rsquo;s 
 
 ##### 2016 Warsaw summit
 ### [NATO members gather in Warsaw, Poland, for a two-day summit. Much of the focus will be on Russia and NATO's commitments in bolstering its presence in Eastern Europe. Other issues to be discussed will include Europe's migrant crises, ISIL extremists, and the United Kingdom's withdrawal from the European Union. ](/news/2016/07/8/nato-members-gather-in-warsaw-poland-for-a-two-day-summit-much-of-the-focus-will-be-on-russia-and-nato-s-commitments-in-bolstering-its-pr.md)
-_Context: ISIL, Aftermath of the United Kingdom European Union membership referendum, 2016, European migrant crisis, Polish, Russia, NATO, 2016 Warsaw summit, Eastern Europe, Warsaw_
+_Context: Warsaw, 2016 Warsaw summit, NATO, Aftermath of the United Kingdom European Union membership referendum, 2016, Russia, European migrant crisis, ISIL, Polish, Eastern Europe_
 
 ##### South Korea-United States relations
 ### [American and South Korean military officials agree to deploy a U.S. Terminal High Altitude Area Defense (THAAD) missile defense system in the country to counter North Korea's growing threats and use of ballistic missile and nuclear tests. ](/news/2016/07/8/american-and-south-korean-military-officials-agree-to-deploy-a-u-s-terminal-high-altitude-area-defense-thaad-missile-defense-system-in-th.md)

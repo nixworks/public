@@ -5,15 +5,15 @@ Formats: [HTML](2005/05/6/index.html)  [JSON](2005/05/6/index.json)  [XML](2005/
 
 ##### U.S. Court of Appeals for the District of Columbia
 ### [ The United States Court of Appeals for the District of Columbia Circuit rules that the FCC overstepped its authority in attempting to impose the "broadcast flag" on hardware manufacturers. ](/news/2005/05/6/the-united-states-court-of-appeals-for-the-district-of-columbia-circuit-rules-that-the-fcc-overstepped-its-authority-in-attempting-to-impos.md)
-_Context: U.S. Court of Appeals for the District of Columbia, FCC's, broadcast flag_
+_Context: U.S. Court of Appeals for the District of Columbia, broadcast flag, FCC's_
 
 ##### Fatah
 ### [ Fatah wins 55 percent of the seats in municipal elections held in 84 cities across the West Bank and Gaza. Hamas wins about a third of the seats. Fatah won a majority of seats in Beit Lahiya, Hawara and Tulkarem, Hamas won the majority in Qalqiliya and El Boureij. Election participation was 70 percent in the West Bank and 80 percent in Gaza. ](/news/2005/05/6/fatah-wins-55-percent-of-the-seats-in-municipal-elections-held-in-84-cities-across-the-west-bank-and-gaza-hamas-wins-about-a-third-of-the.md)
-_Context: Fatah, Tulkarem, West Bank, Hamas, Hawara, Beit Lahiya, Qalqiliya, El Boureij, Gaza Strip_
+_Context: Tulkarem, Hawara, Fatah, Qalqiliya, Hamas, West Bank, Beit Lahiya, Gaza Strip, El Boureij_
 
 ##### BST
 ### [ At 04:28 BST, The Labour Party wins a parliamentary majority. Despite a substantially reduced majority, Tony Blair becomes the first Labour Prime Minister to lead his party to three election victories. ](/news/2005/05/6/at-04-28-bst-the-labour-party-wins-a-parliamentary-majority-despite-a-substantially-reduced-majority-tony-blair-becomes-the-first-labour.md)
-_Context: Prime Minister, majority, Labour Party, BST, Tony Blair_
+_Context: Tony Blair, BST, Prime Minister, Labour Party, majority_
 
 ##### Suicide bomber
 ### [ A suicide bomber in a car blows himself up near a vegetable market in a southern Iraqi town, killing at least 22 people and wounding 45. ](/news/2005/05/6/a-suicide-bomber-in-a-car-blows-himself-up-near-a-vegetable-market-in-a-southern-iraqi-town-killing-at-least-22-people-and-wounding-45.md)

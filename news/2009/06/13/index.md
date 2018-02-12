@@ -5,11 +5,11 @@ Formats: [HTML](2009/06/13/index.html)  [JSON](2009/06/13/index.json)  [XML](200
 
 ##### Mahmoud Ahmadinejad
 ### [ Mahmoud Ahmadinejad is reelected as the President of Iran, although opposition leader Mir-Hossein Mousavi demands a recount. ](/news/2009/06/13/mahmoud-ahmadinejad-is-reelected-as-the-president-of-iran-although-opposition-leader-mir-hossein-mousavi-demands-a-recount.md)
-_Context: Iran, Mahmoud Ahmadinejad, President, Mir-Hossein Mousavi, re-election_
+_Context: Mahmoud Ahmadinejad, President, Mir-Hossein Mousavi, Iran, re-election_
 
 ##### California
 ### [ California Governor Arnold Schwarzenegger delivers a speech regarding the state's financial crisis, favoring state spending cuts rather than the issuing of bonds. ](/news/2009/06/13/california-governor-arnold-schwarzenegger-delivers-a-speech-regarding-the-state-s-financial-crisis-favoring-state-spending-cuts-rather-tha.md)
-_Context: bonds, Governor of California, state's financial crisis, Arnold Schwarzenegger, California_
+_Context: bonds, Arnold Schwarzenegger, Governor of California, state's financial crisis, California_
 
 ##### Plutonium
 ### [ North Korea announces it will "weaponise all plutonium" and begin uranium enrichment following United Nations Security Council Resolution 1874 against the country. ](/news/2009/06/13/north-korea-announces-it-will-weaponise-all-plutonium-and-begin-uranium-enrichment-following-united-nations-security-council-resolution-1.md)
@@ -29,7 +29,7 @@ NASA.gov brings you images, videos and interactive features from the unique pers
 
 ##### Queen Elizabeth
 ### [ Queen Elizabeth II of the United Kingdom celebrates her 83rd birthday at Trooping the Colour. ](/news/2009/06/13/queen-elizabeth-ii-of-the-united-kingdom-celebrates-her-83rd-birthday-at-trooping-the-colour.md)
-_Context: Queen Elizabeth, Trooping the Colour, United Kingdom_
+_Context: Trooping the Colour, Queen Elizabeth, United Kingdom_
 
 ## [Previous Day...](/news/2009/06/12/index.md)
 

@@ -9,7 +9,7 @@ A failed Syrian asylum seeker blows himself up and injures 15 other people with 
 
 ##### Syrian civil war
 ### [Syrian opposition activists report government airstrikes on Aleppo Province kill at least five people and hit at least five medical facilities. ](/news/2016/07/24/syrian-opposition-activists-report-government-airstrikes-on-aleppo-province-kill-at-least-five-people-and-hit-at-least-five-medical-faciliti.md)
-_Context: Aleppo Governorate, Syrian civil war, airstrike_
+_Context: airstrike, Syrian civil war, Aleppo Governorate_
 
 ##### Cambodia
 ### [Thousands of people in Cambodia attend the funeral of Kem Ley, a critic of the perceived corrupt and authoritarian rule of Hun Sen, who has been in power since 1985. ](/news/2016/07/24/thousands-of-people-in-cambodia-attend-the-funeral-of-kem-ley-a-critic-of-the-perceived-corrupt-and-authoritarian-rule-of-hun-sen-who-has.md)
@@ -45,7 +45,7 @@ _Context: Prime Minister, Khadga Prasad Oli, parliament_
 
 ##### July 2016 Turkish ''coup d'etat'' attempt
 ### [In an unusual show of unity, tens of thousands of supporters of Turkey's ruling party and the country's main opposition parties hold a cross-party "Republic and Democracy" rally in support of democracy in Istanbul's central Taksim Square. ](/news/2016/07/24/in-an-unusual-show-of-unity-tens-of-thousands-of-supporters-of-turkey-s-ruling-party-and-the-country-s-main-opposition-parties-hold-a-cross.md)
-_Context: Turkey, Taksim Square, ruling party, Istanbul, July 2016 Turkish ''coup d'etat'' attempt, CHP_
+_Context: Istanbul, CHP, Turkey, July 2016 Turkish ''coup d'etat'' attempt, ruling party, Taksim Square_
 
 ## [Previous Day...](/news/2016/07/23/index.md)
 

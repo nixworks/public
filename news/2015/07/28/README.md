@@ -9,7 +9,7 @@ At least 29 people were killed by suspected Islamist insurgents in northeastern 
 
 ##### Netherlands
 ### [Dutch aerospace company Fokker Technologies is acquired by the British multinational GKN. ](/news/2015/07/28/dutch-aerospace-company-fokker-technologies-is-acquired-by-the-british-multinational-gkn.md)
-_Context: multinational, Fokker Technologies, GKN, Netherlands, aerospace_
+_Context: aerospace, multinational, Fokker Technologies, Netherlands, GKN_
 
 ##### Libya
 ### [Rescuers find 13 dead migrants in a boat off the Libyan coast. ](/news/2015/07/28/rescuers-find-13-dead-migrants-in-a-boat-off-the-libyan-coast.md)
@@ -25,7 +25,7 @@ A fire started by an exploding gas canister kills at least 25 people in the Egyp
 
 ##### India
 ### [At least six people have been killed and several are missing following a building collapse in the Indian city of Thane. ](/news/2015/07/28/at-least-six-people-have-been-killed-and-several-are-missing-following-a-building-collapse-in-the-indian-city-of-thane.md)
-_Context: India, Thane_
+_Context: Thane, India_
 
 ##### Libya
 ### [A Libyan court sentences Saif al-Islam Gaddafi to death in absentia for alleged atrocities in 2011. ](/news/2015/07/28/a-libyan-court-sentences-saif-al-islam-gaddafi-to-death-in-absentia-for-alleged-atrocities-in-2011.md)
@@ -37,11 +37,11 @@ _Context: Santa Cruz, California_
 
 ##### 2015 Clinton Correctional Facility escape
 ### [ Joyce Mitchell, who had smuggled hacksaw blades inside frozen meat to Richard Matt and David Sweat in prison, before withdrawing as their getaway driver, pleads guilty to a first-degree felony of promoting prison contraband and to a misdemeanor count of fourth-degree criminal facilitation. She faces up to 7 years in prison when sentenced. ](/news/2015/07/28/joyce-mitchell-who-had-smuggled-hacksaw-blades-inside-frozen-meat-to-richard-matt-and-david-sweat-in-prison-before-withdrawing-as-their-g.md)
-_Context: felony, misdemeanor, 2015 Clinton Correctional Facility escape, contraband, Richard Matt_
+_Context: 2015 Clinton Correctional Facility escape, misdemeanor, Richard Matt, contraband, felony_
 
 ##### 1Malaysia Development Berhad
 ### [Malaysian Prime Minister Najib Razak fires Deputy Prime Minister Muhyiddin Yassin. ](/news/2015/07/28/malaysian-prime-minister-najib-razak-fires-deputy-prime-minister-muhyiddin-yassin.md)
-_Context: Malaysia, Najib Razak, 1Malaysia Development Berhad, Muhyiddin Yassin_
+_Context: Malaysia, 1Malaysia Development Berhad, Najib Razak, Muhyiddin Yassin_
 
 ##### Barack Obama
 ### [Barack Obama is the first US president to speak in front of the African Union (AU). He encourages the world to strengthen economic ties with the continent, but also criticises the lack of democracy. ](/news/2015/07/28/barack-obama-is-the-first-us-president-to-speak-in-front-of-the-african-union-au-he-encourages-the-world-to-strengthen-economic-ties-with.md)

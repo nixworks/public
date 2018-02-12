@@ -13,7 +13,7 @@ _Context: Pakistan, Peshawar, suicide bombing_
 
 ##### Yemen
 ### [Attackers blow up Yemen's main oil pipeline, halting the flow of crude oil. ](/news/2013/05/24/attackers-blow-up-yemen-s-main-oil-pipeline-halting-the-flow-of-crude-oil.md)
-_Context: crude oil, line, Yemen_
+_Context: Yemen, line, crude oil_
 
 ##### Atlanta airport
 ### [A collision between a hotel shuttle bus and a tractor-trailer occurs near the Atlanta airport, injuring eighteen people. ](/news/2013/05/24/a-collision-between-a-hotel-shuttle-bus-and-a-tractor-trailer-occurs-near-the-atlanta-airport-injuring-eighteen-people.md)
@@ -33,11 +33,11 @@ By Genevra PittmanNEW YORK (Reuters Health) - More babies born via cesarean sect
 
 ##### Main Street Family Pharmacy
 ### [Main Street Family Pharmacy of Newbern, Tennessee, US voluntarily recalls a steroid injection (preservative-free methylprednisolone acetate), used for arthritis and allergy relief in at least 11 states. No serious infections are reported. ](/news/2013/05/24/main-street-family-pharmacy-of-newbern-tennessee-us-voluntarily-recalls-a-steroid-injection-preservative-free-methylprednisolone-acetate.md)
-_Context: injection, Newbern, Tennessee, allergy, arthritis, steroid, Main Street Family Pharmacy, methylprednisolone acetate_
+_Context: allergy, Main Street Family Pharmacy, arthritis, Newbern, Tennessee, methylprednisolone acetate, steroid, injection_
 
 ##### Metropolitan Police Service
 ### [As part of "a policy of reducing the impact of rough sleepers on the community" London's Metropolitan police seize belongings including sleeping bags from homeless people. ](/news/2013/05/24/as-part-of-a-policy-of-reducing-the-impact-of-rough-sleepers-on-the-community-london-s-metropolitan-police-seize-belongings-including-slee.md)
-_Context: Metropolitan Police Service, homeless people_
+_Context: homeless people, Metropolitan Police Service_
 
 ##### Malaysian police
 ### [Malaysian police arrest four people for sedition including opposition politician Chua Tian Chang, the Vice-President of Parti Keadilan Rakyat. ](/news/2013/05/24/malaysian-police-arrest-four-people-for-sedition-including-opposition-politician-chua-tian-chang-the-vice-president-of-parti-keadilan-rakya.md)
@@ -57,11 +57,11 @@ British fighter jets have escorted a Pakistan International Airlines passenger p
 
 ##### Rafael Correa
 ### [Rafael Correa is sworn in as President of Ecuador for an unprecedented third term. ](/news/2013/05/24/rafael-correa-is-sworn-in-as-president-of-ecuador-for-an-unprecedented-third-term.md)
-_Context: President, Rafael Correa_
+_Context: Rafael Correa, President_
 
 ##### President
 ### [President of Uganda Yoweri Museveni removes Aronda Nyakairima as head of the military and names him as Minister of the Interior. ](/news/2013/05/24/president-of-uganda-yoweri-museveni-removes-aronda-nyakairima-as-head-of-the-military-and-names-him-as-minister-of-the-interior.md)
-_Context: Yoweri Museveni, Aronda Nyakairima, President_
+_Context: Yoweri Museveni, President, Aronda Nyakairima_
 
 ## [Previous Day...](/news/2013/05/23/index.md)
 

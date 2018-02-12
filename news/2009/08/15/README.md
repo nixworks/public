@@ -5,7 +5,7 @@ Formats: [HTML](2009/08/15/index.html)  [JSON](2009/08/15/index.json)  [XML](200
 
 ##### Hamas
 ### [ Hamas police claim to have killed Abdel-Latif Moussa, head of the Islamic group Jund Ansar Allah in a shootout. ](/news/2009/08/15/hamas-police-claim-to-have-killed-abdel-latif-moussa-head-of-the-islamic-group-jund-ansar-allah-in-a-shootout.md)
-_Context: Jund Ansar Allah, Hamas, shootout, Abdel-Latif Moussa, Islam_
+_Context: Jund Ansar Allah, shootout, Islam, Hamas, Abdel-Latif Moussa_
 
 ##### Hong Kong
 ### [ Hong Kong posts 3.3% growth over its previous quarter, far exceeding predictions, signaling an end to its recession. ](/news/2009/08/15/hong-kong-posts-3-3-growth-over-its-previous-quarter-far-exceeding-predictions-signaling-an-end-to-its-recession.md)
@@ -17,7 +17,7 @@ _Context: American, Colombia_
 
 ##### Japan
 ### [ Japan expresses remorse for its actions in World War II on the anniversary of its 1945 defeat, but former Prime Ministers Junichiro Koizumi and Shinzo Abe visit the Yasukuni Shrine, a controversial war shrine seen as a symbol of its past militarism. ](/news/2009/08/15/japan-expresses-remorse-for-its-actions-in-world-war-ii-on-the-anniversary-of-its-1945-defeat-but-former-prime-ministers-junichiro-koizumi.md)
-_Context: Prime Minister of Japan, Yasukuni Shrine, surrender, Junichiro Koizumi, controversial, World War II, Japan, Shinzo Abe_
+_Context: Prime Minister of Japan, Shinzo Abe, controversial, Japan, surrender, Yasukuni Shrine, World War II, Junichiro Koizumi_
 
 ##### President
 ### [ Former President of Zambia, Frederick Chiluba, awaits the verdict in his trial into his criminal case for being accused of plundering the national economy during his decade-long rule. ](/news/2009/08/15/former-president-of-zambia-frederick-chiluba-awaits-the-verdict-in-his-trial-into-his-criminal-case-for-being-accused-of-plundering-the-n.md)
@@ -29,7 +29,7 @@ The whereabouts of the Finnish-owned vessel and its Russian crew remain unknown.
 
 ##### Suicide bomb
 ### [ A suicide bomb attack occurs outside the NATO headquarters in Kabul, Afghanistan, killing at least seven and injuring 100. ](/news/2009/08/15/a-suicide-bomb-attack-occurs-outside-the-nato-headquarters-in-kabul-afghanistan-killing-at-least-seven-and-injuring-100.md)
-_Context: NATO, Kabul, suicide bomb, Afghanistan_
+_Context: suicide bomb, Afghanistan, NATO, Kabul_
 
 ##### Prison riot
 ### [ A prison riot in the Mexican state of Durango leaves at least 19 people dead and 20 injured. ](/news/2009/08/15/a-prison-riot-in-the-mexican-state-of-durango-leaves-at-least-19-people-dead-and-20-injured.md)

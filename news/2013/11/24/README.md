@@ -33,7 +33,7 @@ Low turnout and vote abuses marred Sunday elections meant to complete democratic
 
 ##### Kiev
 ### [More than 100,000 people protest in Kiev, Ukraine, against the decision of Viktor Yanukovych's government to suspend preparations for signing of the association agreement with the European Union under pressure from Russia. ](/news/2013/11/24/more-than-100-000-people-protest-in-kiev-ukraine-against-the-decision-of-viktor-yanukovych-s-government-to-suspend-preparations-for-signin.md)
-_Context: Ukraine-European Union relations, European Union, Russia, Viktor Yanukovych, Kiev, Ukraine_
+_Context: Ukraine-European Union relations, Viktor Yanukovych, European Union, Russia, Ukraine, Kiev_
 
 ##### Pope Francis
 ### [Pope Francis venerates the purported remains of his first ever predecessor, as the Vatican gives a public display for what some claim are St Peter's remains. ](/news/2013/11/24/pope-francis-venerates-the-purported-remains-of-his-first-ever-predecessor-as-the-vatican-gives-a-public-display-for-what-some-claim-are-st.md)

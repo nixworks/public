@@ -33,11 +33,11 @@ Six suspects charged with attempting to overthrow constitutional order, governme
 
 ##### Hezbollah political activities
 ### [Hassan Nasrallah, the Secretary-General of Hezbollah, vows to return to Israel. Tens of thousands of people demonstrate in South Beirut. ](/news/2017/12/11/hassan-nasrallah-the-secretary-general-of-hezbollah-vows-to-return-to-israel-tens-of-thousands-of-people-demonstrate-in-south-beirut.md)
-_Context: Beirut, Israel, Hassan Nasrallah, Hezbollah political activities, Secretary-General of Hezbollah_
+_Context: Beirut, Hassan Nasrallah, Israel, Secretary-General of Hezbollah, Hezbollah political activities_
 
 ##### Ukrainian crisis
 ### [Ukrainian opposition leader Mikheil Saakashvili is freed from detention following Judge Larysa Tsokol's dismissal of prosecutors' house arrest request. ](/news/2017/12/11/ukrainian-opposition-leader-mikheil-saakashvili-is-freed-from-detention-following-judge-larysa-tsokol-s-dismissal-of-prosecutorsa-house-ar.md)
-_Context: Mikheil Saakashvili, Ukrainian crisis, opposition leader, house arrest_
+_Context: Ukrainian crisis, opposition leader, Mikheil Saakashvili, house arrest_
 
 ##### Politics of India
 ### [Rahul Gandhi is elected unopposed as the head of the opposition Congress Party. On 16 January 2018, he is to take over the reins from his mother Sonia Gandhi, who held the position for 19 years. ](/news/2017/12/11/rahul-gandhi-is-elected-unopposed-as-the-head-of-the-opposition-congress-party-on-16-january-2018-he-is-to-take-over-the-reins-from-his-mo.md)

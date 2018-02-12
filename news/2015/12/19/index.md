@@ -21,11 +21,11 @@ A car bomb exploded on Saturday on a busy street in the Somali capital Mogadishu
 
 ##### Joint Comprehensive Plan of Action
 ### [Iran nuclear chief Ali Akbar Salehi says nine tons of Iran's enriched uranium will be exported to Russia in the next few days, as the country moves to implement the nuclear deal and secure relief from international sanctions. ](/news/2015/12/19/iran-nuclear-chief-ali-akbar-salehi-says-nine-tons-of-iran-s-enriched-uranium-will-be-exported-to-russia-in-the-next-few-days-as-the-countr.md)
-_Context: Ali Akbar Salehi, enriched uranium, Iran nuclear chief, Joint Comprehensive Plan of Action, Russia, Iran_
+_Context: enriched uranium, Joint Comprehensive Plan of Action, Iran nuclear chief, Russia, Iran, Ali Akbar Salehi_
 
 ##### European migrant crisis
 ### [Germany's refugee crisis coordinator Peter Altmaier says, in an interview with German magazine "Focus", that he and Austrian special minister Josef Ostermayer are working on a proposal for a common European asylum law. He added other countries such as France and The Netherlands would be approached soon. ](/news/2015/12/19/germany-s-refugee-crisis-coordinator-peter-altmaier-says-in-an-interview-with-german-magazine-focus-that-he-and-austrian-special-ministe.md)
-_Context: German magazine ''Focus'', special minister Josef Ostermayer, France, European migrant crisis, Germany's refugee crisis coordinator, Peter Altmaier, Netherlands, Austria_
+_Context: Peter Altmaier, European migrant crisis, France, Germany's refugee crisis coordinator, special minister Josef Ostermayer, German magazine ''Focus'', Netherlands, Austria_
 
 ##### Rwandan constitutional referendum, 2015
 ### [Rwandans vote overwhelmingly to lift constitutional restrictions that will allow President Paul Kagame to run for more terms in office. The National Electoral Commission reports more than 98 percent of voters approved the referendum. Final official results will be released Monday. ](/news/2015/12/19/rwandans-vote-overwhelmingly-to-lift-constitutional-restrictions-that-will-allow-president-paul-kagame-to-run-for-more-terms-in-office-the.md)

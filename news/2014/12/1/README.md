@@ -13,7 +13,7 @@ Maoist rebels kill at least 14 paramilitary policemen in an ambush in the centra
 
 ##### Boko Haram
 ### [Dual Boko Haram attacks in Maiduguri and Damaturu leave at least 77 dead, including 33 police, 6 soldiers, and 20 militants. ](/news/2014/12/1/dual-boko-haram-attacks-in-maiduguri-and-damaturu-leave-at-least-77-dead-including-33-police-6-soldiers-and-20-militants.md)
-_Context: Boko Haram, Damaturu, police, Nigerian Army, Maiduguri_
+_Context: Boko Haram, Damaturu, Maiduguri, police, Nigerian Army_
 
 ##### Suicide bomb
 ### [A suicide bomb kills at least nine, including two policemen, at a funeral for a tribal elder in Baghlan Province, northern Afghanistan. ](/news/2014/12/1/a-suicide-bomb-kills-at-least-nine-including-two-policemen-at-a-funeral-for-a-tribal-elder-in-baghlan-province-northern-afghanistan.md)
@@ -21,7 +21,7 @@ At least nine killed and 20 wounded in suicide attack at funeral in Baghlan prov
 
 ##### South Korea
 ### [A search continues for 52 people missing from a South Korean fishing vessel, the "Oriong-501", that sank early in the morning in bad weather in the Bering Sea off Russia's Chukotka Autonomous Okrug. Eight people have been rescued including one person who subsequently died. ](/news/2014/12/1/a-search-continues-for-52-people-missing-from-a-south-korean-fishing-vessel-the-oriong-501-that-sank-early-in-the-morning-in-bad-weather.md)
-_Context: South Korea, Russia, Chukotka Autonomous Okrug, Bering Sea_
+_Context: Russia, South Korea, Bering Sea, Chukotka Autonomous Okrug_
 
 ##### Pandemic
 ### [Researchers claim that the pandemic has reached a tipping point where the number of people receiving treatment in a year was greater than the number of new cases. ](/news/2014/12/1/researchers-claim-that-the-pandemic-has-reached-a-tipping-point-where-the-number-of-people-receiving-treatment-in-a-year-was-greater-than-th.md)
@@ -29,7 +29,7 @@ The world has finally reached &quot;the beginning of the end&quot; of the AIDS p
 
 ##### Russia
 ### [Russia abandons its plans for the South Stream pipeline to Bulgaria due to European Union objections instead looking at a pipeline to Turkey. ](/news/2014/12/1/russia-abandons-its-plans-for-the-south-stream-pipeline-to-bulgaria-due-to-european-union-objections-instead-looking-at-a-pipeline-to-turkey.md)
-_Context: Bulgaria, European Union, Turkey, South Stream, Russia_
+_Context: Russia, European Union, Bulgaria, South Stream, Turkey_
 
 ##### United Nations World Food Program
 ### [The United Nations World Food Program suspends a food program for 1.7 million Syrian refugees after donor countries fail to meet their commitments. ](/news/2014/12/1/the-united-nations-world-food-program-suspends-a-food-program-for-1-7-million-syrian-refugees-after-donor-countries-fail-to-meet-their-commi.md)

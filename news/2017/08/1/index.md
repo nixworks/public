@@ -29,7 +29,7 @@ Two leading activists were taken to a military jail by security forces in the mi
 
 ##### Political appointments by Donald Trump
 ### [The United States Senate, in a 92-5 vote, confirms Christopher A. Wray as Director of the Federal Bureau of Investigation. ](/news/2017/08/1/the-united-states-senate-in-a-92a5-vote-confirms-christopher-a-wray-as-director-of-the-federal-bureau-of-investigation.md)
-_Context: Political appointments by Donald Trump, United States Senate, Director of the Federal Bureau of Investigation, Christopher A. Wray_
+_Context: Christopher A. Wray, Political appointments by Donald Trump, Director of the Federal Bureau of Investigation, United States Senate_
 
 ## [Previous Day...](/news/2017/07/31/index.md)
 

@@ -41,7 +41,7 @@ George Entwistle quits after he admits a Newsnight report has caused a crisis of
 
 ##### U.S. President
 ### [President of the United States Barack Obama officially wins the state of Florida and its 29 electoral votes in the presidential election, putting the final count to 332 electoral votes for Obama--more than the 270 needed to ensure election--to Mitt Romney's 206 electoral votes. ](/news/2012/11/10/president-of-the-united-states-barack-obama-officially-wins-the-state-of-florida-and-its-29-electoral-votes-in-the-presidential-election-pu.md)
-_Context: presidential election, Barack Obama, Electoral College, U.S. President, the state, Mitt Romney_
+_Context: Barack Obama, Mitt Romney, U.S. President, Electoral College, presidential election, the state_
 
 ## [Previous Day...](/news/2012/11/9/index.md)
 

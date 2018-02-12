@@ -13,7 +13,7 @@ The move is the latest step in the Obama administration’s fight against wildli
 
 ##### Environmental
 ### [A collection of environmental groups including the Sierra Club file a brief opposing the Arch Coal plan to exit from bankruptcy. ](/news/2016/06/2/a-collection-of-environmental-groups-including-the-sierra-club-file-a-brief-opposing-the-arch-coal-plan-to-exit-from-bankruptcy.md)
-_Context: environmental, bankruptcy, Sierra Club, Arch Coal_
+_Context: Sierra Club, Arch Coal, environmental, bankruptcy_
 
 ##### 2016 European floods
 ### [At least eleven people are killed in heavy flooding across Europe. ](/news/2016/06/2/at-least-eleven-people-are-killed-in-heavy-flooding-across-europe.md)
@@ -21,7 +21,7 @@ At least five people are dead and dozens of towns are inundated by flooding acro
 
 ##### Romania
 ### [A Romanian medical helicopter crashes near Cahul, Moldova, killing four people. ](/news/2016/06/2/a-romanian-medical-helicopter-crashes-near-cahul-moldova-killing-four-people.md)
-_Context: Moldova, Cahul, Romania_
+_Context: Cahul, Moldova, Romania_
 
 ##### May 2016 United States storm complex
 ### [At least five United States Army soldiers are killed and four are missing after their Light Medium Tactical Vehicle overturns near Fort Hood in Texas. ](/news/2016/06/2/at-least-five-united-states-army-soldiers-are-killed-and-four-are-missing-after-their-light-medium-tactical-vehicle-overturns-near-fort-hood.md)
@@ -53,7 +53,7 @@ Mathura clashes: 24 killed, 368 arrested in violence - The clashes took place wh
 
 ##### Breaks out in a rally
 ### [Violence breaks out in a rally supporting Donald Trump in San Jose, California. An officer and several demonstrators were assaulted, and a few people were arrested. ](/news/2016/06/2/violence-breaks-out-in-a-rally-supporting-donald-trump-in-san-jose-california-an-officer-and-several-demonstrators-were-assaulted-and-a-f.md)
-_Context: San Jose, California, breaks out in a rally, Donald Trump_
+_Context: Donald Trump, breaks out in a rally, San Jose, California_
 
 ##### 
 ### [ In Ottawa, Canada Marc Leduc is found guilty first-degree murder in the killings of two women found dead in 2008 and 2011 involved in drugs and sex trade. His DNA was matched after he was arrested in a 2012 sex assault with a knife. ](/news/2016/06/2/in-ottawa-canada-marc-leduc-is-found-guilty-first-degree-murder-in-the-killings-of-two-women-found-dead-in-2008-and-2011-involved-in-drugs.md)
@@ -61,7 +61,7 @@ Marc Leduc has been found guilty of first-degree murder in the deaths of Pamela 
 
 ##### Paul Ryan
 ### [U.S. House Speaker Paul Ryan endorses Donald Trump for President of the United States. ](/news/2016/06/2/u-s-house-speaker-paul-ryan-endorses-donald-trump-for-president-of-the-united-states.md)
-_Context: Paul Ryan, Donald Trump_
+_Context: Donald Trump, Paul Ryan_
 
 ##### Supreme Court of the United States
 ### [The Supreme Court of the United States accepts a petition by five people from American Samoa arguing that people born in this U.S. territory are entitled to U.S citizenship under the United States Constitution. The State Department currently opposes this idea. ](/news/2016/06/2/the-supreme-court-of-the-united-states-accepts-a-petition-by-five-people-from-american-samoa-arguing-that-people-born-in-this-u-s-territory.md)

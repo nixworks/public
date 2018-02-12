@@ -13,7 +13,7 @@ Intelligence official confirms masked ISIS militant seen in many beheading video
 
 ##### France
 ### [French actresses Marion Cotillard and Melanie Laurent, and French President Francois Hollande begin their two-day state visit to the Philippines, where they are to discuss climate change. ](/news/2015/02/26/french-actresses-marion-cotillard-and-ma-c-lanie-laurent-and-french-president-franassois-hollande-begin-their-two-day-state-visit-to-the-phili.md)
-_Context: Marion Cotillard, French President, France, Francois Hollande, Melanie Laurent, Philippines, climate change_
+_Context: climate change, Marion Cotillard, Philippines, French President, Melanie Laurent, Francois Hollande, France_
 
 ##### Norway
 ### [Norwegian police raid the offices of the Catholic Church's diocese in Oslo, charging the church administration with serious fraud under the suspicion of wrongfully claiming as much as NOK 50 million in state support by presenting fraudulent membership statistics. ](/news/2015/02/26/norwegian-police-raid-the-offices-of-the-catholic-churchas-diocese-in-oslo-charging-the-church-administration-with-serious-fraud-under-th.md)
@@ -29,11 +29,11 @@ A North Korean shipping company has renamed and reflagged its vessels in an atte
 
 ##### Washington, D.C.
 ### [Effective midnight, Washington, D.C. joins Alaska, Colorado, and Washington state as the only places in the United States that locally purport to override federal law and allow the use of marijuana for recreational purposes. ](/news/2015/02/26/effective-midnight-washington-d-c-joins-alaska-colorado-and-washington-state-as-the-only-places-in-the-united-states-that-locally-purpo.md)
-_Context: marijuana, Washington, Washington, D.C., Alaska, American, Colorado_
+_Context: Washington, D.C., marijuana, Washington, Alaska, Colorado, American_
 
 ##### FCC's
 ### [The US Federal Communications Commission votes to classify internet service providers as public utilities, creating net neutrality rules. The FCC also votes to preempt state laws in North Carolina and Tennessee that effectively prevent municipal broadband providers from expanding outside their existing service areas. ](/news/2015/02/26/the-us-federal-communications-commission-votes-to-classify-internet-service-providers-as-public-utilities-creating-net-neutrality-rules-th.md)
-_Context: North Carolina, municipal broadband, Tennessee, internet service providers, public utility, Net neutrality in the United States, FCC's_
+_Context: municipal broadband, Tennessee, FCC's, public utility, internet service providers, North Carolina, Net neutrality in the United States_
 
 ## [Previous Day...](/news/2015/02/25/index.md)
 

@@ -9,7 +9,7 @@ Live updates as heavy gunfire is heard at a shopping centre in the Kenyan capita
 
 ##### President
 ### [President Bashar al-Assad said he will allow international experts to access chemical weapons sites. ](/news/2013/09/23/president-bashar-al-assad-said-he-will-allow-international-experts-to-access-chemical-weapons-sites.md)
-_Context: chemical weapons facilities, President, Bashar al-Assad_
+_Context: President, chemical weapons facilities, Bashar al-Assad_
 
 ##### Hong Kong
 ### [At least 25 people are dead in Hong Kong and southern China after Typhoon Usagi passes through with the storm having killed eight people in the Philippines. ](/news/2013/09/23/at-least-25-people-are-dead-in-hong-kong-and-southern-china-after-typhoon-usagi-passes-through-with-the-storm-having-killed-eight-people-in.md)

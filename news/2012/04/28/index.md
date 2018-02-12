@@ -13,11 +13,11 @@ _Context: Kandahar Province, Afghanistan_
 
 ##### 2012 Dnipropetrovsk explosions
 ### [2012 Dnipropetrovsk explosions: Ukrainian president Viktor Yanukovich promises an investigation into the incident that injured 30 people. ](/news/2012/04/28/2012-dnipropetrovsk-explosions-ukrainian-president-viktor-yanukovich-promises-an-investigation-into-the-incident-that-injured-30-people.md)
-_Context: Viktor Yanukovich, 2012 Dnipropetrovsk explosions, Ukraine_
+_Context: Viktor Yanukovich, Ukraine, 2012 Dnipropetrovsk explosions_
 
 ##### Busch Stadium
 ### [One person dies and more than 110 are injured when a tent collapses at a restaurant near Busch Stadium in St. Louis, Missouri. ](/news/2012/04/28/one-person-dies-and-more-than-110-are-injured-when-a-tent-collapses-at-a-restaurant-near-busch-stadium-in-st-louis-missouri.md)
-_Context: St. Louis, Busch Stadium, Missouri_
+_Context: Missouri, St. Louis, Busch Stadium_
 
 ##### Egypt-Saudi Arabia relations
 ### [Egypt-Saudi Arabia relations: Saudi Arabia shuts its embassy and consulates in Egypt following protests over an Egyptian human rights lawyer Ahmed al-Gizawi being detained in Saudi Arabia. ](/news/2012/04/28/egyptasaudi-arabia-relations-saudi-arabia-shuts-its-embassy-and-consulates-in-egypt-following-protests-over-an-egyptian-human-rights-lawy.md)

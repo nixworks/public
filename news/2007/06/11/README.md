@@ -17,15 +17,15 @@ The vote today opened the way for the Sunni coalition that had installed him to 
 
 ##### Flooding
 ### [ Flooding in the southern Chinese provinces of Guangdong, Guangxi, Guizhou, Hunan, Fujian, and Jiangxi damage agricultural land and crops, kill 66 people, and force 600,000 people from their homes. ](/news/2007/06/11/flooding-in-the-southern-chinese-provinces-of-guangdong-guangxi-guizhou-hunan-fujian-and-jiangxi-damage-agricultural-land-and-crops-k.md)
-_Context: Fujian, Guangxi Zhuang, Hunan, Jiangxi, Guizhou, Guangdong, Flooding_
+_Context: Guangxi Zhuang, Guangdong, Jiangxi, Fujian, Guizhou, Hunan, Flooding_
 
 ##### Majeedah Bolkiah
 ### [ Majeedah Bolkiah&mdash;daughter of Hassanal Bolkiah, Sultan of Brunei&mdash;marries Khairul Khalil, an official in the office of the Prime Minister in a lavish Islamic wedding ceremony. ](/news/2007/06/11/majeedah-bolkiah-mdash-daughter-of-hassanal-bolkiah-sultan-of-brunei-mdash-marries-khairul-khalil-an-official-in-the-office-of-the-prime.md)
-_Context: Brunei, Prime Minister, Majeedah Bolkiah, Sultan, wedding, Islam, Khairul Khalil, Hassanal Bolkiah_
+_Context: Khairul Khalil, Brunei, Hassanal Bolkiah, Islam, wedding, Majeedah Bolkiah, Prime Minister, Sultan_
 
 ##### Newcastle
 ### [ Newcastle, New South Wales remains on alert for rising floodwaters from the Hunter River as people evacuated from Maitland, New South Wales return to their home. ](/news/2007/06/11/newcastle-new-south-wales-remains-on-alert-for-rising-floodwaters-from-the-hunter-river-as-people-evacuated-from-maitland-new-south-wales.md)
-_Context: Newcastle, flood, Hunter River, Maitland, New South Wales_
+_Context: flood, Hunter River, Maitland, New South Wales, Newcastle_
 
 ## [Previous Day...](/news/2007/06/10/index.md)
 

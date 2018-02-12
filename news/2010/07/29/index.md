@@ -5,7 +5,7 @@ Formats: [HTML](2010/07/29/index.html)  [JSON](2010/07/29/index.json)  [XML](201
 
 ##### SITE Institute
 ### [The SITE Institute, a terrorist-monitoring organisation, states that the al-Qaeda affiliated Islamic State of Iraq has claimed responsibility for a deadly attack on the offices of Al-Arabiya Television in Baghdad that killed four people and injured at least 10. ](/news/2010/07/29/the-site-institute-a-terrorist-monitoring-organisation-states-that-the-al-qaeda-affiliated-islamic-state-of-iraq-has-claimed-responsibilit.md)
-_Context: Baghdad, Al-Arabiya, al-Qaeda, Islamic State of Iraq, SITE Institute, terrorist_
+_Context: Al-Arabiya, terrorist, al-Qaeda, SITE Institute, Islamic State of Iraq, Baghdad_
 
 ##### M/V ''M. STAR''
 ### [An investigation is launched into the unexplained damage suffered by the Japanese oil tanker M-V "M. STAR" in the Strait of Hormuz near Oman. ](/news/2010/07/29/an-investigation-is-launched-into-the-unexplained-damage-suffered-by-the-japanese-oil-tanker-m-v-m-star-in-the-strait-of-hormuz-near-oman.md)
@@ -13,11 +13,11 @@ Officials investigate damage to a Japanese oil tanker in the Strait of Hormuz, a
 
 ##### Ellen DeGeneres
 ### [U.S. talk-show host Ellen DeGeneres announces that she is leaving the "American Idol" television show after one year as a judge. ](/news/2010/07/29/u-s-talk-show-host-ellen-degeneres-announces-that-she-is-leaving-the-american-idol-television-show-after-one-year-as-a-judge.md)
-_Context: Ellen DeGeneres, American Idol_
+_Context: American Idol, Ellen DeGeneres_
 
 ##### Reserve Bank of New Zealand
 ### [The Reserve Bank of New Zealand lifts interest rates by 0.25 percentage points to three per cent. ](/news/2010/07/29/the-reserve-bank-of-new-zealand-lifts-interest-rates-by-0-25-percentage-points-to-three-per-cent.md)
-_Context: interest rates, Reserve Bank of New Zealand_
+_Context: Reserve Bank of New Zealand, interest rates_
 
 ##### Metro Bank
 ### [Metro Bank opens its first branch, in Holborn, London, the first wholly new high street bank in the United Kingdom for more than a century. ](/news/2010/07/29/metro-bank-opens-its-first-branch-in-holborn-london-the-first-wholly-new-high-street-bank-in-the-united-kingdom-for-more-than-a-century.md)
@@ -33,11 +33,11 @@ Timing to be left to Palestinians; conditions are set.
 
 ##### North Korea
 ### [North Korean foreign minister Pak Ui-chun arrives in Burma in the first visit since the two countries restored ties in 2007, amid worries over nuclear cooperation. ](/news/2010/07/29/north-korean-foreign-minister-pak-ui-chun-arrives-in-burma-in-the-first-visit-since-the-two-countries-restored-ties-in-2007-amid-worries-ov.md)
-_Context: Pak Ui-chun, North Korea, Burma_
+_Context: North Korea, Burma, Pak Ui-chun_
 
 ##### Mexican Army
 ### [The Mexican Army kills Sinaloa Cartel drug lord Ignacio Coronel Villarreal in Zapopan, Jalisco, during a raid. ](/news/2010/07/29/the-mexican-army-kills-sinaloa-cartel-drug-lord-ignacio-coronel-villarreal-in-zapopan-jalisco-during-a-raid.md)
-_Context: Mexican Army, Ignacio Coronel Villarreal, Sinaloa Cartel, Jalisco, Zapopan, drug lord_
+_Context: Jalisco, Sinaloa Cartel, Ignacio Coronel Villarreal, drug lord, Mexican Army, Zapopan_
 
 ##### Malawi
 ### [Malawi adopts a new national flag, replacing the previous flag originally adopted in 1964. ](/news/2010/07/29/malawi-adopts-a-new-national-flag-replacing-the-previous-flag-originally-adopted-in-1964.md)
@@ -49,7 +49,7 @@ Greek police fire tear gas to disperse hundreds of lorry drivers protesting in A
 
 ##### Arizona
 ### [People in the U.S. state of Arizona protest the introduction of state immigration laws with demonstrators being arrested outside the office of Maricopa County sheriff Joe Arpaio. ](/news/2010/07/29/people-in-the-u-s-state-of-arizona-protest-the-introduction-of-state-immigration-laws-with-demonstrators-being-arrested-outside-the-office.md)
-_Context: Arizona, Joe Arpaio, immigration law, Maricopa County, sheriff_
+_Context: sheriff, Arizona, Joe Arpaio, Maricopa County, immigration law_
 
 ##### United States House of Representatives
 ### [The United States House of Representatives Ethics Committee begins a public hearing into New York Democratic Congressman Charles B. Rangel. ](/news/2010/07/29/the-united-states-house-of-representatives-ethics-committee-begins-a-public-hearing-into-new-york-democratic-congressman-charles-b-rangel.md)
@@ -61,15 +61,15 @@ AU-PRINCE (Reuters) - Grammy-award winning singer Wyclef Jean said on Thursday t
 
 ##### UNESCO
 ### [UNESCO's World Heritage Committee removes Ecuador's Galpagos Islands from its list of endangered World Heritage Sites. ](/news/2010/07/29/unesco-s-world-heritage-committee-removes-ecuador-s-galapagos-islands-from-its-list-of-endangered-world-heritage-sites.md)
-_Context: world heritage site, Ecuador, Galpagos Islands, UNESCO, World Heritage Committee_
+_Context: Galpagos Islands, UNESCO, world heritage site, Ecuador, World Heritage Committee_
 
 ##### Google
 ### [Google claims that its Chinese Internet search and mobile search is blocked. ](/news/2010/07/29/google-claims-that-its-chinese-internet-search-and-mobile-search-is-blocked.md)
-_Context: search engine, Chinese, Google, Internet_
+_Context: search engine, Internet, Google, Chinese_
 
 ##### Moscow
 ### [Moscow records its hottest temperature in recorded history with a heat wave expected to result in its hottest month on record. ](/news/2010/07/29/moscow-records-its-hottest-temperature-in-recorded-history-with-a-heat-wave-expected-to-result-in-its-hottest-month-on-record.md)
-_Context: Moscow, heat wave_
+_Context: heat wave, Moscow_
 
 ## [Previous Day...](/news/2010/07/28/index.md)
 

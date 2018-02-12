@@ -5,7 +5,7 @@ Formats: [HTML](2015/05/5/index.html)  [JSON](2015/05/5/index.json)  [XML](2015/
 
 ##### Curtis Culwell Center attack
 ### [Curtis Culwell Center attack: ISIS claims responsibility for the attack on an exhibition of drawings of the Prophet Muhammad in the American city of Garland, Texas. One of the suspects was previously interrogated and surveilled by the FBI having visited Somalia, and both suspects praised ISIS in social media. ](/news/2015/05/5/curtis-culwell-center-attack-isis-claims-responsibility-for-the-attack-on-an-exhibition-of-drawings-of-the-prophet-muhammad-in-the-american.md)
-_Context: Curtis Culwell Center attack, ISIS, Islamic State in Iraq and the Levant, Somalia, Muhammad, Garland, Texas_
+_Context: Curtis Culwell Center attack, Islamic State in Iraq and the Levant, ISIS, Garland, Texas, Somalia, Muhammad_
 
 ##### Domestic workers
 ### [Indonesia permanently bans domestic workers from employment in the Middle East citing "many problems" regarding "labor norms and human rights violations". ](/news/2015/05/5/indonesia-permanently-bans-domestic-workers-from-employment-in-the-middle-east-citing-many-problems-regarding-labor-norms-and-human-right.md)
@@ -17,11 +17,11 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### England
 ### [Catriona Finlayson-Wilkins, 41, of England, becomes the first diabetic (she has Type I diabetes) to give birth naturally after using an artificial pancreas throughout her pregnancy. ](/news/2015/05/5/catriona-finlayson-wilkins-41-of-england-becomes-the-first-diabetic-she-has-type-i-diabetes-to-give-birth-naturally-after-using-an-arti.md)
-_Context: Type I diabetes, England, artificial pancreas, pregnancy_
+_Context: pregnancy, artificial pancreas, Type I diabetes, England_
 
 ##### University of Toronto
 ### [According to University of Toronto researchers Donald Branch and Stephen McCarthy, a combination of three HIV drugs--lamivudine, AZT, and tenofovir--shows some promise fighting at least a lab-modified version (which could not infect humans) of Ebola. ](/news/2015/05/5/according-to-university-of-toronto-researchers-donald-branch-and-stephen-mccarthy-a-combination-of-three-hiv-drugsalamivudine-azt-and-t.md)
-_Context: tenofovir, lamivudine, AZT, University of Toronto, Ebola_
+_Context: AZT, University of Toronto, tenofovir, Ebola, lamivudine_
 
 ##### Free Trade Agreement
 ### [South Korea and Vietnam sign a bilateral Free Trade Agreement. ](/news/2015/05/5/south-korea-and-vietnam-sign-a-bilateral-free-trade-agreement.md)
@@ -49,7 +49,7 @@ The exceptionally luminous galaxy, EGS-zs8-1, is already about one-sixth as mass
 
 ##### Archaeornithura meemannae
 ### [ "Archaeornithura meemannae", a new species of prehistoric bird that represents the oldest known member of the modern bird lineage, is discovered. ](/news/2015/05/5/archaeornithura-meemannae-a-new-species-of-prehistoric-bird-that-represents-the-oldest-known-member-of-the-modern-bird-lineage-is-disco.md)
-_Context: Archaeornithura meemannae, modern bird lineage_
+_Context: modern bird lineage, Archaeornithura meemannae_
 
 ## [Previous Day...](/news/2015/05/4/index.md)
 

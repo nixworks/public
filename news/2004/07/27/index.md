@@ -9,23 +9,23 @@ _Context: crime syndicate, South Africa, al-Qaeda_
 
 ##### Massachusetts Supreme Judicial Court
 ### [ The Massachusetts Supreme Judicial Court orders the unsealing of investigative files related to the unsolved 1972 murder of 13-year-old altar boy Danny Croteau. Richard Lavigne, a defrocked priest convicted of child molestation, is the only suspect in the case. ](/news/2004/07/27/the-massachusetts-supreme-judicial-court-orders-the-unsealing-of-investigative-files-related-to-the-unsolved-1972-murder-of-13-year-old-alt.md)
-_Context: Danny Croteau, altar boy, Richard Lavigne, murder, defrocked priest, child molestation, Massachusetts Supreme Judicial Court_
+_Context: murder, defrocked priest, child molestation, Richard Lavigne, altar boy, Danny Croteau, Massachusetts Supreme Judicial Court_
 
 ##### Civil Code
 ### [ A lower French court annuls the same-sex union of Stephane Chapin and Bertrand Charpentier, stating that the Civil Code does not allow same-sex unions and that allowing them is for the legislature. The couple say they will appeal against the court's ruling, even to the European Court of Human Rights. The mayor who officiated at the ceremony, Noel Mamere of the left-wing Greens Party, had been suspended from duties for one month by the national executive. ](/news/2004/07/27/a-lower-french-court-annuls-the-same-sex-union-of-stephane-chapin-and-bertrand-charpentier-stating-that-the-civil-code-does-not-allow-same.md)
-_Context: appeal, European Court of Human Rights, Civil Code, legislature, mayor_
+_Context: Civil Code, appeal, legislature, European Court of Human Rights, mayor_
 
 ##### Iran
 ### [ Iran is alleged to have broken seals placed upon uranium centrifuges by the International Atomic Energy Agency and resumed their construction. ](/news/2004/07/27/iran-is-alleged-to-have-broken-seals-placed-upon-uranium-centrifuges-by-the-international-atomic-energy-agency-and-resumed-their-constructi.md)
-_Context: uranium, IAEA, Iran, centrifuge_
+_Context: uranium, centrifuge, Iran, IAEA_
 
 ##### United Nations
 ### [ The United Nations warns that Bangladesh is on the verge of a humanitarian crisis, as severe flooding causes more than 350 deaths. Forty-one of the country's sixty-four districts are affected by the floods, and officials say 14 million people are either marooned or homeless; other estimates reach as high as 30 million. ](/news/2004/07/27/the-united-nations-warns-that-bangladesh-is-on-the-verge-of-a-humanitarian-crisis-as-severe-flooding-causes-more-than-350-deaths-forty-on.md)
-_Context: Bangladesh, United Nations, flood_
+_Context: United Nations, Bangladesh, flood_
 
 ##### European Union
 ### [ The European Union's 25 foreign ministers jointly call on the United Nations to pass a resolution threatening sanctions if the Sudanese government does not rein in the Arab militias blamed for atrocities in Darfur. ](/news/2004/07/27/the-european-union-s-25-foreign-ministers-jointly-call-on-the-united-nations-to-pass-a-resolution-threatening-sanctions-if-the-sudanese-gov.md)
-_Context: Sudan, Arab, United Nations, European Union, Darfur_
+_Context: Arab, Sudan, European Union, Darfur, United Nations_
 
 ## [Previous Day...](/news/2004/07/26/index.md)
 

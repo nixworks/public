@@ -9,11 +9,11 @@ The episode, which wounded eight people in Puchong, was thought to have been the
 
 ##### Drug crackdown
 ### [The Communist Party of the Philippines agrees to fight drug lords after its legal wing Bagong Alyansang Makabayan joins the government cabinet of Rodrigo Duterte. ](/news/2016/07/4/the-communist-party-of-the-philippines-agrees-to-fight-drug-lords-after-its-legal-wing-bagong-alyansang-makabayan-joins-the-government-cabin.md)
-_Context: Bagong Alyansang Makabayan, Communist, cabinet, decades-old problem, drug crackdown, Rodrigo Duterte_
+_Context: decades-old problem, cabinet, drug crackdown, Bagong Alyansang Makabayan, Rodrigo Duterte, Communist_
 
 ##### Syrian Civil War
 ### [Israel's military attacks two Syrian Army targets in Syrian territory from the Golan Heights after a fire from the fighting damages a security fence on the border. ](/news/2016/07/4/israel-s-military-attacks-two-syrian-army-targets-in-syrian-territory-from-the-golan-heights-after-a-fire-from-the-fighting-damages-a-securi.md)
-_Context: Israeli Army, Syrian Army, Syrian Civil War, Israel-Syria relations, Golan Heights_
+_Context: Israeli Army, Golan Heights, Syrian Army, Israel-Syria relations, Syrian Civil War_
 
 ##### 2016 Saudi Arabia bombings
 ### [A suspected suicide bomber detonates his belt near the U.S. consulate in Jeddah, killing himself and wounding two guards. ](/news/2016/07/4/a-suspected-suicide-bomber-detonates-his-belt-near-the-u-s-consulate-in-jeddah-killing-himself-and-wounding-two-guards.md)

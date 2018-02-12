@@ -9,11 +9,11 @@ _Context: Greece_
 
 ##### Tropical Cyclone Sandra
 ### [Tropical Cyclone Sandra forms in the Coral Sea off the coast of the Australian state of Queensland. ](/news/2013/03/8/tropical-cyclone-sandra-forms-in-the-coral-sea-off-the-coast-of-the-australian-state-of-queensland.md)
-_Context: Coral Sea, Queensland, Tropical Cyclone Sandra, Australia_
+_Context: Coral Sea, Australia, Queensland, Tropical Cyclone Sandra_
 
 ##### Prime Minister
 ### [Former Prime Minister of the Netherlands and United Nations High Commissioner for Refugees Ruud Lubbers is injured in a car accident and rushed to a hospital with minor injuries. ](/news/2013/03/8/former-prime-minister-of-the-netherlands-and-united-nations-high-commissioner-for-refugees-ruud-lubbers-is-injured-in-a-car-accident-and-rus.md)
-_Context: Ruud Lubbers, United Nations High Commissioner for Refugees, Netherlands, United Nations, Prime Minister, car accident_
+_Context: Netherlands, Prime Minister, car accident, United Nations, Ruud Lubbers, United Nations High Commissioner for Refugees_
 
 ##### North Korea
 ### [North Korea ends all peace pacts with South Korea and closes the main Panmunjom border crossing inside the Korean Demilitarized Zone. North Korean generals affirm they are aiming their long range missiles at the U.S. mainland in retaliation for the recently approved U.N. sanctions. ](/news/2013/03/8/north-korea-ends-all-peace-pacts-with-south-korea-and-closes-the-main-panmunjom-border-crossing-inside-the-korean-demilitarized-zone-north.md)

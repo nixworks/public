@@ -13,7 +13,7 @@ _Context: Guatemala City_
 
 ##### Iran Aseman Airlines
 ### [ Iran Aseman Airlines Flight 6895, a Boeing 737, crashes in Bishkek, Kyrgyzstan shortly after takeoff, killing 71 people. ](/news/2008/08/24/iran-aseman-airlines-flight-6895-a-boeing-737-crashes-in-bishkek-kyrgyzstan-shortly-after-takeoff-killing-71-people.md)
-_Context: Boeing 737, Iran Aseman Airlines, Kyrgyzstan, Flight 6895, Bishkek_
+_Context: Kyrgyzstan, Bishkek, Iran Aseman Airlines, Flight 6895, Boeing 737_
 
 #####  Georgian
 ### [ A train carrying oil products hits a landmine and catches fire. A Georgian Interior Ministry spokesman blamed Russia for the blast. ](/news/2008/08/24/a-train-carrying-oil-products-hits-a-landmine-and-catches-fire-a-georgian-interior-ministry-spokesman-blamed-russia-for-the-blast.md)

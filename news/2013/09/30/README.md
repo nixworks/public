@@ -13,7 +13,7 @@ _Context: thrombosis, GlaxoSmithKline, Aspen Pharmacare_
 
 ##### Tropical Storm Wutip
 ### [Tropical Storm Wutip lashes central Vietnam, uprooting trees, cutting power lines and damaging more than 1,000 houses. ](/news/2013/09/30/tropical-storm-wutip-lashes-central-vietnam-uprooting-trees-cutting-power-lines-and-damaging-more-than-1-000-houses.md)
-_Context: Vietnam, Tropical Storm Wutip_
+_Context: Tropical Storm Wutip, Vietnam_
 
 ##### Refugee
 ### [Thirteen refugees drown off the Italian coast swimming to shore from their leaky vessel. ](/news/2013/09/30/thirteen-refugees-drown-off-the-italian-coast-swimming-to-shore-from-their-leaky-vessel.md)

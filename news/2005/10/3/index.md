@@ -5,39 +5,39 @@ Formats: [HTML](2005/10/3/index.html)  [JSON](2005/10/3/index.json)  [XML](2005/
 
 ##### ECOWAS
 ### [ West African leaders call for the strengthening of United Nations peacekeeping force to ensure efforts to end the three year civil war in Cote d'Ivoire pay off. A total 6,640 peacekeepers are currently serving in the UN force, which is under Senegalese command, monitoring the buffer zone between the north and south with the help of 4,000 French troops. ](/news/2005/10/3/west-african-leaders-call-for-the-strengthening-of-united-nations-peacekeeping-force-to-ensure-efforts-to-end-the-three-year-civil-war-in-c.md)
-_Context: peacekeeping, Ivorian Civil War, buffer zone, ECOWAS, Senegal, United Nations, France_
+_Context: ECOWAS, Senegal, buffer zone, United Nations, France, Ivorian Civil War, peacekeeping_
 
 ##### South Africa
 ### [ South Africa announces a ZAR 140 million (USD $22 million) donation to the United Nations World Food Programme (WFP) and the Food and Agriculture Organization (FAO) to alleviate food shortages in Southern Africa. ](/news/2005/10/3/south-africa-announces-a-zar-140-million-usd-22-million-donation-to-the-united-nations-world-food-programme-wfp-and-the-food-and-agric.md)
-_Context: South Africa, Southern Africa, USD, United Nations, Food and Agriculture Organization, World Food Programme, ZAR_
+_Context: USD, ZAR, World Food Programme, United Nations, Food and Agriculture Organization, Southern Africa, South Africa_
 
 ##### Australia
 ### [ Australians Barry J. Marshall and Robin Warren have been awarded the 2005 Nobel Prize in Physiology or Medicine "for their discovery of the bacterium "Helicobacter pylouri" and its role in gastritis and peptic ulcer disease". ](/news/2005/10/3/australians-barry-j-marshall-and-robin-warren-have-been-awarded-the-2005-nobel-prize-in-physiology-or-medicine-for-their-discovery-of-the.md)
-_Context: gastritis, Nobel Prize in Physiology or Medicine, Robin Warren, Helicobacter pylouri, Australia, peptic ulcer, Barry J. Marshall, bacterium_
+_Context: Barry J. Marshall, bacterium, peptic ulcer, Australia, Robin Warren, Helicobacter pylouri, Nobel Prize in Physiology or Medicine, gastritis_
 
 ##### American
 ### [ U.S. Representative Tom DeLay is indicted on a charge of money laundering. ](/news/2005/10/3/u-s-representative-tom-delay-is-indicted-on-a-charge-of-money-laundering.md)
-_Context: U.S. House of Representatives, money laundering, Tom DeLay, American_
+_Context: Tom DeLay, money laundering, American, U.S. House of Representatives_
 
 ##### Typhoon Longwang
 ### [ Up to 60 police cadets have been swept away by powerful Typhoon Longwang in Fujian, south-east China. ](/news/2005/10/3/up-to-60-police-cadets-have-been-swept-away-by-powerful-typhoon-longwang-in-fujian-south-east-china.md)
-_Context: Typhoon Longwang, China, Fujian_
+_Context: Typhoon Longwang, Fujian, China_
 
 ##### Manchester United
 ### [ Former Manchester United footballer George Best reported to be in intensive care (due to a kidney infection) at Cromwell Hospital, London. ](/news/2005/10/3/former-manchester-united-footballer-george-best-reported-to-be-in-intensive-care-due-to-a-kidney-infection-at-cromwell-hospital-london.md)
-_Context: Manchester United, George Best, intensive care, football, London_
+_Context: football, Manchester United, George Best, intensive care, London_
 
 ##### Stampede
 ### [ At least 11 people die during a stampede at a concert in Sangju, South Korea. ](/news/2005/10/3/at-least-11-people-die-during-a-stampede-at-a-concert-in-sangju-south-korea.md)
-_Context: stampede, Sangju, concert, South Korea_
+_Context: concert, South Korea, stampede, Sangju_
 
 ##### Heavy metal
 ### [ Welsh heavy metal band Bullet For My Valentine release their debut album The Poison. On January 30, 2009, the album was certified gold by the RIAA after 500,000 copies were sold in the United States. ](/news/2005/10/3/welsh-heavy-metal-band-bullet-for-my-valentine-release-their-debut-album-the-poison-on-january-30-2009-the-album-was-certified-gold-by-t.md)
-_Context: RIAA, heavy metal, Bullet For My Valentine, American, The Poison_
+_Context: heavy metal, RIAA, The Poison, American, Bullet For My Valentine_
 
 ##### American
 ### [ On the first day of the U.S. Supreme Court's fall term, President George W. Bush nominates White House Counsel Harriet Miers to fill the seat currently held by Sandra Day O'Connor. The nominee has no judicial experience. ](/news/2005/10/3/on-the-first-day-of-the-u-s-supreme-court-s-fall-term-president-george-w-bush-nominates-white-house-counsel-harriet-miers-to-fill-the-se.md)
-_Context: U.S. President, Sandra Day O'Connor, American, George W. Bush, White House Counsel, Harriet Miers, Supreme Court of the United States_
+_Context: Supreme Court of the United States, Harriet Miers, White House Counsel, George W. Bush, Sandra Day O'Connor, American, U.S. President_
 
 ##### War in Afghanistan (2001-present)
 ### [ Conflict in Afghanistan: Afghan troops kill 31 suspects following clashes in Paktika, in eastern Afghanistan. ](/news/2005/10/3/conflict-in-afghanistan-afghan-troops-kill-31-suspects-following-clashes-in-paktika-in-eastern-afghanistan.md)
@@ -45,23 +45,23 @@ _Context: Afghanistan, Paktika, War in Afghanistan (2001-present)_
 
 ##### Solar eclipse
 ### [ Millions of people view the solar eclipse which occurred at 10:31 UTC, mainly in Africa and south-west Europe. ](/news/2005/10/3/millions-of-people-view-the-solar-eclipse-which-occurred-at-10-31-utc-mainly-in-africa-and-south-west-europe.md)
-_Context: south, Europe, west, Africa, clock, solar eclipse_
+_Context: clock, west, Europe, Africa, solar eclipse, south_
 
 ##### Train
 ### [ A train derails and crashes in Datia, Madhya Pradesh in India, killing 16 people. ](/news/2005/10/3/a-train-derails-and-crashes-in-datia-madhya-pradesh-in-india-killing-16-people.md)
-_Context: train, India, Datia, Madhya Pradesh_
+_Context: train, Datia, India, Madhya Pradesh_
 
 ##### NTL
 ### [ NTL, the largest British cable television company, telco and ISP, announces its multi-billion pound purchase of Telewest, the second largest cable company, creating one of the largest companies in the British media industry. ](/news/2005/10/3/ntl-the-largest-british-cable-television-company-telco-and-isp-announces-its-multi-billion-pound-purchase-of-telewest-the-second-larges.md)
-_Context: British media industry, NTL, Telewest, Internet service provider, telco, cable television_
+_Context: NTL, Internet service provider, cable television, British media industry, telco, Telewest_
 
 ##### Turkey
 ### [ Turkey and Croatia begin talks about joining the European Union following over a day of debate over an Austrian proposal that Turkey should be offered an associate status short of full membership. ](/news/2005/10/3/turkey-and-croatia-begin-talks-about-joining-the-european-union-following-over-a-day-of-debate-over-an-austrian-proposal-that-turkey-should.md)
-_Context: joining the European Union, Austria, Croatia, Turkey_
+_Context: Austria, joining the European Union, Turkey, Croatia_
 
 ##### Canadian
 ### [ In Canada, the Canadian Broadcasting Corporation and the Canadian Media Guild announce a preliminary agreement to end the current lockout of CMG members in most of the country which seriously impaired corporation's programming since August 17. ](/news/2005/10/3/in-canada-the-canadian-broadcasting-corporation-and-the-canadian-media-guild-announce-a-preliminary-agreement-to-end-the-current-lockout-o.md)
-_Context: Canadian, CBC, Canadian Media Guild, August 17, locks out_
+_Context: locks out, Canadian, August 17, Canadian Media Guild, CBC_
 
 ## [Previous Day...](/news/2005/10/2/index.md)
 

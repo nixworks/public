@@ -29,7 +29,7 @@ _Context: Tamiflu_
 
 ##### Genetically modified wheat
 ### [Following the controversial discovery of genetically modified wheat on a U.S. farm on May 29, Japan suspends imports of wheat from the U.S. ](/news/2013/05/30/following-the-controversial-discovery-of-genetically-modified-wheat-on-a-u-s-farm-on-may-29-japan-suspends-imports-of-wheat-from-the-u-s.md)
-_Context: wheat, genetically modified wheat, Japan_
+_Context: Japan, wheat, genetically modified wheat_
 
 ##### Hezbollah
 ### [Nigeria soldiers uncover a large stock of weapons that they believe belonged to Hezbollah. ](/news/2013/05/30/nigeria-soldiers-uncover-a-large-stock-of-weapons-that-they-believe-belonged-to-hezbollah.md)
@@ -57,7 +57,7 @@ _Context: banning same-sex marriage_
 
 ##### Seton Hall University
 ### [Seton Hall University is shut down due to a bomb threat that turns out to be a hoax. ](/news/2013/05/30/seton-hall-university-is-shut-down-due-to-a-bomb-threat-that-turns-out-to-be-a-hoax.md)
-_Context: bomb threat, Seton Hall University_
+_Context: Seton Hall University, bomb threat_
 
 ##### 
 ### [New analysis suggests that turtles evolved a shell 40 million years earlier than previously thought. ](/news/2013/05/30/new-analysis-suggests-that-turtles-evolved-a-shell-40-million-years-earlier-than-previously-thought.md)

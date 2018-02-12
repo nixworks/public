@@ -5,15 +5,15 @@ Formats: [HTML](2004/08/15/index.html)  [JSON](2004/08/15/index.json)  [XML](200
 
 ##### Chvez recall
 ### [ Chvez recall: Venezuelan President Hugo Chvez defeats a recall vote with 58% support. Some opposition members claim election fraud, but monitors from the OAS and the Carter Center endorse the official result. ](/news/2004/08/15/chavez-recall-venezuelan-president-hugo-chavez-defeats-a-recall-vote-with-58-support-some-opposition-members-claim-election-fraud-but-m.md)
-_Context: Organization of American States, Chvez recall, President, Venezuela, Hugo Chvez, recall referendum, Carter Center_
+_Context: Hugo Chvez, President, recall referendum, Venezuela, Organization of American States, Chvez recall, Carter Center_
 
 ##### Iraq
 ### [ 1,300 Iraqi delegates begin a three-day conference in Baghdad to select an interim National Assembly. The area of the conference is attacked by mortars, which kill one person and wound 17. ](/news/2004/08/15/1-300-iraqi-delegates-begin-a-three-day-conference-in-baghdad-to-select-an-interim-national-assembly-the-area-of-the-conference-is-attacke.md)
-_Context: Mortar fire, Baghdad, National Assembly of Iraq, Iraq_
+_Context: Baghdad, Mortar fire, Iraq, National Assembly of Iraq_
 
 ##### Palestinians
 ### [ 1,600 Palestinians in Israeli jails begin a liquids-only diet, which they are describing as a hunger strike to protest against their prison conditions. Israeli Internal Security Minister Tzahi Hanegbi comments: "As far as I'm concerned, they can strike for a day, a month, until death." ](/news/2004/08/15/1-600-palestinians-in-israeli-jails-begin-a-liquids-only-diet-which-they-are-describing-as-a-hunger-strike-to-protest-against-their-prison.md)
-_Context: Israel, Tzahi Hanegbi, hunger strike, Palestinians_
+_Context: Israel, Palestinians, Tzahi Hanegbi, hunger strike_
 
 ##### Dhemaji
 ### [ India's Independence Day celebrations are marred by a bomb blast that kills some 18 people at a parade in Dhemaji, Assam. Immediate suspicion falls on ULFA separatists. ](/news/2004/08/15/india-s-independence-day-celebrations-are-marred-by-a-bomb-blast-that-kills-some-18-people-at-a-parade-in-dhemaji-assam-immediate-suspici.md)

@@ -9,11 +9,11 @@ _Context: Korean maritime border incidents, South Korea, North Korea_
 
 ##### ISIL
 ### [A hospital in the northern Iraqi city of Tal Afar says that 29 suspected ISIL fighters were killed in airstrikes last night. ](/news/2014/10/7/a-hospital-in-the-northern-iraqi-city-of-tal-afar-says-that-29-suspected-isil-fighters-were-killed-in-airstrikes-last-night.md)
-_Context: Iraq, Tal Afar, ISIL_
+_Context: Tal Afar, ISIL, Iraq_
 
 ##### Earthquake
 ### [A magnitude 6.0 earthquake hits China's Yunnan province with at least one death reported. ](/news/2014/10/7/a-magnitude-6-0-earthquake-hits-china-s-yunnan-province-with-at-least-one-death-reported.md)
-_Context: earthquake, China, Yunnan province_
+_Context: China, earthquake, Yunnan province_
 
 ##### 2014 Pacific typhoon season
 ### [Supertyphoon Vongfong becomes the most intense storm of the year as it heads for Japan. ](/news/2014/10/7/supertyphoon-vongfong-becomes-the-most-intense-storm-of-the-year-as-it-heads-for-japan.md)

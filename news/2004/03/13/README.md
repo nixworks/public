@@ -13,11 +13,11 @@ _Context: March 11, 2004 Madrid attacks, Morocco, ETA_
 
 ##### Taliban
 ### [ U.S. forces launch new offensive aimed at the Taliban and al-Qaeda and the capture of Osama bin Laden and Mullah Omar in Afghanistan. ](/news/2004/03/13/u-s-forces-launch-new-offensive-aimed-at-the-taliban-and-al-qaeda-and-the-capture-of-osama-bin-laden-and-mullah-omar-in-afghanistan.md)
-_Context: Al-Qaida, Osama bin Laden, Mullah Omar, Afghanistan, Taliban_
+_Context: Al-Qaida, Taliban, Mullah Omar, Afghanistan, Osama bin Laden_
 
 ##### DARPA Grand Challenge
 ### [ Fifteen teams that qualified for the DARPA Grand Challenge start on a 150-200 mile robotic race to Las Vegas, Nevada, for a $1 million prize. All of the teams break down within seven miles of the start line; none collect the prize. ](/news/2004/03/13/fifteen-teams-that-qualified-for-the-darpa-grand-challenge-start-on-a-150a200-mile-robotic-race-to-las-vegas-nevada-for-a-1-million-pr.md)
-_Context: DARPA Grand Challenge, $, Las Vegas, Nevada_
+_Context: $, DARPA Grand Challenge, Las Vegas, Nevada_
 
 ##### Fresno, California
 ### [ Nine people, eight of whom are children, are found dead in Fresno, California, US. A man apparently related to the victims is arrested. The police speculate that the deaths may have been part of a ritual. ](/news/2004/03/13/nine-people-eight-of-whom-are-children-are-found-dead-in-fresno-california-us-a-man-apparently-related-to-the-victims-is-arrested-the.md)

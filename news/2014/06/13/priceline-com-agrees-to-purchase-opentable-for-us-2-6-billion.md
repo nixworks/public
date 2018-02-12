@@ -15,7 +15,7 @@ Formats: [HTML](/news/2014/06/13/priceline-com-agrees-to-purchase-opentable-for-
 
 ### Changes:
 
-1. [Amaya Gaming Group agrees to purchase PokerStars for US$4.9 billion. ](/news/2014/06/13/amaya-gaming-group-agrees-to-purchase-pokerstars-for-us-4-9-billion.md) _2018-02-10 05:33:52 (First version)_
+1. [Amaya Gaming Group agrees to purchase PokerStars for US$4.9 billion. ](/news/2014/06/13/amaya-gaming-group-agrees-to-purchase-pokerstars-for-us-4-9-billion.md) _2018-02-11 05:15:33 (First version)_
 1. [Priceline.com agrees to purchase OpenTable for US$2.6 billion. ](/news/2014/06/13/priceline-com-agrees-to-purchase-opentable-for-us-2-6-billion.md) _(Current version)_
 
 ### Related:

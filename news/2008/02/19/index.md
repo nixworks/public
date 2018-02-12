@@ -17,7 +17,7 @@ Ailing Cuban leader Fidel Castro stepped down on Tuesday 49 years after taking p
 
 ##### Chaudhry Shujaat Hussain
 ### [ Chaudhry Shujaat Hussain, the chairman of Pakistan's governing party, the pro-Musharraf Pakistan Muslim League (Q) (PML-Q) concedes defeat after preliminary results show that it cannot retain a majority in the Parliament of Pakistan. ](/news/2008/02/19/chaudhry-shujaat-hussain-the-chairman-of-pakistan-s-governing-party-the-pro-musharraf-pakistan-muslim-league-q-pml-q-concedes-defeat.md)
-_Context: Pervez Musharraf, Chaudhry Shujaat Hussain, Parliament's, Pakistan, Pakistan Muslim League (Q)_
+_Context: Pervez Musharraf, Pakistan Muslim League (Q), Chaudhry Shujaat Hussain, Pakistan, Parliament's_
 
 ## [Previous Day...](/news/2008/02/18/index.md)
 

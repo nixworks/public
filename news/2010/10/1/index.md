@@ -5,7 +5,7 @@ Formats: [HTML](2010/10/1/index.html)  [JSON](2010/10/1/index.json)  [XML](2010/
 
 ##### Abuja
 ### [In Abuja, two car bombs explode during Nigeria's 50th anniversary celebrations of its Independence from the British Empire, killing 12 and injuring 17. Militant rebel group MEND claims responsibility. ](/news/2010/10/1/in-abuja-two-car-bombs-explode-during-nigeria-s-50th-anniversary-celebrations-of-its-independence-from-the-british-empire-killing-12-and-i.md)
-_Context: Abuja, British rule, Abuja car bombings, Nigeria, Movement for the Emancipation of the Niger Delta_
+_Context: Movement for the Emancipation of the Niger Delta, Abuja car bombings, British rule, Nigeria, Abuja_
 
 ##### Merajuddin
 ### [Prominent video journalist Merajuddin is hospitalised in Srinagar after being severely beaten with a baton in his neck by Kashmir police. They also beat up his son and colleague in the latest police attack on the media there. ](/news/2010/10/1/prominent-video-journalist-merajuddin-is-hospitalised-in-srinagar-after-being-severely-beaten-with-a-baton-in-his-neck-by-kashmir-police-th.md)
@@ -21,11 +21,11 @@ Six sailors taken hostage by an armed gang off the coast of Cameroon have been f
 
 ##### International Security Assistance Force
 ### [An airstrike launched by the NATO-led International Security Assistance Force (ISAF) kills 15 insurgents in the Tsowkey district of Afghanistan's eastern Kunar province. ](/news/2010/10/1/an-airstrike-launched-by-the-nato-led-international-security-assistance-force-isaf-kills-15-insurgents-in-the-tsowkey-district-of-afghanis.md)
-_Context: Tsowkey, Kunar Province, International Security Assistance Force_
+_Context: International Security Assistance Force, Tsowkey, Kunar Province_
 
 ##### Jonathan Franzen
 ### [American author Jonathan Franzen advises British fans to cease reading his latest novel "Freedom" as a printing error has led to the publication of an old draft of his text, with thousands of copies set to be pulped. ](/news/2010/10/1/american-author-jonathan-franzen-advises-british-fans-to-cease-reading-his-latest-novel-freedom-as-a-printing-error-has-led-to-the-publica.md)
-_Context: Jonathan Franzen, pulped, Freedom_
+_Context: pulped, Freedom, Jonathan Franzen_
 
 ##### Sky 3D
 ### [Sky 3D, the first dedicated 3D TV channel in Europe, launches in the UK. ](/news/2010/10/1/sky-3d-the-first-dedicated-3d-tv-channel-in-europe-launches-in-the-uk.md)
@@ -37,11 +37,11 @@ _Context: BMW_
 
 ##### Bob Dudley
 ### [American Bob Dudley succeeds Tony Hayward as the new CEO of BP after the recent controversies over the Oil Spill crisis in the Deepwater Horizon. ](/news/2010/10/1/american-bob-dudley-succeeds-tony-hayward-as-the-new-ceo-of-bp-after-the-recent-controversies-over-the-oil-spill-crisis-in-the-deepwater-hor.md)
-_Context: Bob Dudley, Tony Hayward_
+_Context: Tony Hayward, Bob Dudley_
 
 ##### Tropical Storm Nicole
 ### [A massive rainstorm, formed from the combination of the remnants of Tropical Storm Nicole and a second extratropical low, drenches the East Coast of the United States from North Carolina to Maine. ](/news/2010/10/1/a-massive-rainstorm-formed-from-the-combination-of-the-remnants-of-tropical-storm-nicole-and-a-second-extratropical-low-drenches-the-east.md)
-_Context: Maine, East Coast of the United States, North Carolina, Tropical Storm Nicole_
+_Context: Tropical Storm Nicole, North Carolina, East Coast of the United States, Maine_
 
 ##### United Nations
 ### [The United Nations publishes a toned down version of its report into war crimes said to have occurred in the Democratic Republic of the Congo during the 1990s after Uganda, Rwanda and Burundi rejected the report's findings. ](/news/2010/10/1/the-united-nations-publishes-a-toned-down-version-of-its-report-into-war-crimes-said-to-have-occurred-in-the-democratic-republic-of-the-cong.md)
@@ -49,7 +49,7 @@ Document detailing attacks by Rwandan and Ugandan troops against civilians toned
 
 ##### North Korea
 ### [North Korea and South Korea agree to restart a family reunion program for families separated in the Korean War. ](/news/2010/10/1/north-korea-and-south-korea-agree-to-restart-a-family-reunion-program-for-families-separated-in-the-korean-war.md)
-_Context: North Korea, Korean War, family reunion, South Korea_
+_Context: Korean War, North Korea, family reunion, South Korea_
 
 ##### Nobel peace
 ### [Nobel peace laureate Mairead Maguire is to be deported from Israel within 48 hours after her appeal to overturn her entry refusal was rejected. ](/news/2010/10/1/nobel-peace-laureate-mairead-maguire-is-to-be-deported-from-israel-within-48-hours-after-her-appeal-to-overturn-her-entry-refusal-was-reject.md)
@@ -73,7 +73,7 @@ Pakistan ex-military ruler Pervez Musharraf apologises for &quot;negative&quot; 
 
 ##### Thailand
 ### [Thailand lifts a state of emergency in Nakhon Ratchasima, Khon Kaen and Udon Thani but it remains in place in Bangkok and the nearby provinces of Nonthaburi, Pathum Thani and Samut Prakan. ](/news/2010/10/1/thailand-lifts-a-state-of-emergency-in-nakhon-ratchasima-khon-kaen-and-udon-thani-but-it-remains-in-place-in-bangkok-and-the-nearby-provinc.md)
-_Context: Pathum Thani, Nakhon Ratchasima, Thailand, Nonthaburi, Udon Thani, Khon Kaen, state of emergency, Samut Prakan, Bangkok_
+_Context: Thailand, Nonthaburi, state of emergency, Bangkok, Pathum Thani, Nakhon Ratchasima, Khon Kaen, Udon Thani, Samut Prakan_
 
 ##### U.S. President
 ### [President of the United States Barack Obama calls a press conference in the White House to make a "personnel announcement" reported to be related to the departure of his aide Rahm Emanuel. ](/news/2010/10/1/president-of-the-united-states-barack-obama-calls-a-press-conference-in-the-white-house-to-make-a-personnel-announcement-reported-to-be-re.md)
@@ -81,7 +81,7 @@ US President Barack Obama confirms the resignation of his hard-hitting chief of 
 
 ##### Sky
 ### [Sky has launched its 3D Channel, Virgin Media has announced the launch of 3D Movies On Demand - the first digital TV service. ](/news/2010/10/1/sky-has-launched-its-3d-channel-virgin-media-has-announced-the-launch-of-3d-movies-on-demand-a-the-first-digital-tv-service.md)
-_Context: 3D Channel, TV service, Virgin Media, Sky_
+_Context: TV service, Virgin Media, 3D Channel, Sky_
 
 ##### Ig Nobel Prize
 ### [The 2010 Ig Nobel Prizes are announced. ](/news/2010/10/1/the-2010-ig-nobel-prizes-are-announced.md)
@@ -97,7 +97,7 @@ _Context: lawmakers, NASA_
 
 ##### China
 ### [China launches the Chang'e 2 lunar probe from Sichuan. ](/news/2010/10/1/china-launches-the-chang-e-2-lunar-probe-from-sichuan.md)
-_Context: Sichuan, Chang'e 2, China_
+_Context: Chang'e 2, China, Sichuan_
 
 ## [Previous Day...](/news/2010/09/30/index.md)
 

@@ -9,7 +9,7 @@ Deadly attack in volatile southwestern province followed small arms fire on US M
 
 ##### Defense contractor
 ### [U.S. defense contractor Lockheed Martin, the largest military contractor in the world, is targeted by a "significant and tenacious" cyber attack. ](/news/2011/05/29/u-s-defense-contractor-lockheed-martin-the-largest-military-contractor-in-the-world-is-targeted-by-a-significant-and-tenacious-cyber-at.md)
-_Context: cyber attack, defense contractor, Lockheed_
+_Context: defense contractor, Lockheed, cyber attack_
 
 ##### French-born
 ### [Three French foreign aid workers disappear in Yemen's Hadramout province. ](/news/2011/05/29/three-french-foreign-aid-workers-disappear-in-yemen-s-hadramout-province.md)
@@ -33,11 +33,11 @@ _Context: jet-ski, hip-hop, Sean Kingston, Miami Beach_
 
 ##### Greenpeace India's
 ### [3 Greenpeace activists successfully evade a Danish warship to scale an oil rig off the coast of Greenland, attempting to begin deepwater drilling in the arctic. ](/news/2011/05/29/3-greenpeace-activists-successfully-evade-a-danish-warship-to-scale-an-oil-rig-off-the-coast-of-greenland-attempting-to-begin-deepwater-dri.md)
-_Context: Greenland, Greenpeace India's, Denmark_
+_Context: Greenpeace India's, Denmark, Greenland_
 
 ##### Dennis Daugaard
 ### [Dennis Daugaard, the Governor of the US state of South Dakota, warns residents living south of the state capital of Pierre to prepare evacuation plans ahead of likely flooding of the Missouri River. ](/news/2011/05/29/dennis-daugaard-the-governor-of-the-us-state-of-south-dakota-warns-residents-living-south-of-the-state-capital-of-pierre-to-prepare-evacua.md)
-_Context: Dennis Daugaard, Missouri River, South Dakota Governor, Pierre, South Dakota_
+_Context: South Dakota Governor, South Dakota, Pierre, Dennis Daugaard, Missouri River_
 
 ##### Mich.
 ### [Storms in the US state of Michigan lead to the loss of power to 100,000 houses. ](/news/2011/05/29/storms-in-the-us-state-of-michigan-lead-to-the-loss-of-power-to-100-000-houses.md)
@@ -45,11 +45,11 @@ _Context: Mich._
 
 ##### Ferenc Madl
 ### [Ferenc Madl, the President of Hungary (2000-2005), dies in Budapest. ](/news/2011/05/29/ferenc-ma-dl-the-president-of-hungary-2000-2005-dies-in-budapest.md)
-_Context: Budapest, President of Hungary, Ferenc Madl_
+_Context: Ferenc Madl, President of Hungary, Budapest_
 
 ##### Sergei Bagapsh
 ### [Sergei Bagapsh, the President of the breakaway Georgian province of Abkhazia, dies from complications of lung surgery in Moscow. ](/news/2011/05/29/sergei-bagapsh-the-president-of-the-breakaway-georgian-province-of-abkhazia-dies-from-complications-of-lung-surgery-in-moscow.md)
-_Context:  Georgian, Moscow, Abkhazia, Sergei Bagapsh, President_
+_Context: Moscow,  Georgian, Abkhazia, President, Sergei Bagapsh_
 
 ##### Goodluck Jonathan
 ### [Goodluck Jonathan is sworn in as President of Nigeria at a ceremony attended by foreign heads of state in Abuja. ](/news/2011/05/29/goodluck-jonathan-is-sworn-in-as-president-of-nigeria-at-a-ceremony-attended-by-foreign-heads-of-state-in-abuja.md)

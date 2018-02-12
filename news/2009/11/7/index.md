@@ -5,15 +5,15 @@ Formats: [HTML](2009/11/7/index.html)  [JSON](2009/11/7/index.json)  [XML](2009/
 
 ##### United Kingdom
 ### [ A British tourist is shot dead by a masked gunman in the U.S. state of Texas. ](/news/2009/11/7/a-british-tourist-is-shot-dead-by-a-masked-gunman-in-the-u-s-state-of-texas.md)
-_Context: United Kingdom, Texas_
+_Context: Texas, United Kingdom_
 
 ##### Saudi Arabia
 ### [ Saudi forces bomb a Houthi rebel stronghold in northern Yemen for a third day. ](/news/2009/11/7/saudi-forces-bomb-a-houthi-rebel-stronghold-in-northern-yemen-for-a-third-day.md)
-_Context: Houthi, Yemen, due to fighting, Saudi Arabia_
+_Context: Saudi Arabia, Houthi, due to fighting, Yemen_
 
 ##### Bermeo
 ### [ Thousands of people in Bermeo, Spain, demonstrate for the release of 36 Spanish fishermen being held by Somali pirates. ](/news/2009/11/7/thousands-of-people-in-bermeo-spain-demonstrate-for-the-release-of-36-spanish-fishermen-being-held-by-somali-pirates.md)
-_Context: Somali pirates, Spain, Bermeo_
+_Context: Bermeo, Spain, Somali pirates_
 
 ##### Andorra
 ### [ At least two workers are killed after a bridge under construction collapses in Andorra. ](/news/2009/11/7/at-least-two-workers-are-killed-after-a-bridge-under-construction-collapses-in-andorra.md)
@@ -21,11 +21,11 @@ _Context: Andorra_
 
 ##### NATO
 ### [ A NATO airstrike kills 7 members of the Afghan security force in the western province of Badghis. ](/news/2009/11/7/a-nato-airstrike-kills-7-members-of-the-afghan-security-force-in-the-western-province-of-badghis.md)
-_Context: Badghis Province, Afghanistan, NATO_
+_Context: Afghanistan, NATO, Badghis Province_
 
 ##### Madagascar
 ### [ Rival factions in Madagascar agree to form a unity government to end the political crisis in the country. ](/news/2009/11/7/rival-factions-in-madagascar-agree-to-form-a-unity-government-to-end-the-political-crisis-in-the-country.md)
-_Context: political crisis, unity, Madagascar_
+_Context: unity, Madagascar, political crisis_
 
 ##### South Island
 ### [ Scientists in the South Island, New Zealand, discover the first dinosaur footprints in the country, thought to be 70 million years old. ](/news/2009/11/7/scientists-in-the-south-island-new-zealand-discover-the-first-dinosaur-footprints-in-the-country-thought-to-be-70-million-years-old.md)
@@ -33,11 +33,11 @@ Dinosaur footprints found in northwest Nelson have given scientists their first 
 
 ##### Russia
 ### [ 11 people are confirmed dead after the crashing of a Russian military plane into the sea in the Tatar Strait, in the far east of Russia, yesterday. ](/news/2009/11/7/11-people-are-confirmed-dead-after-the-crashing-of-a-russian-military-plane-into-the-sea-in-the-tatar-strait-in-the-far-east-of-russia-ye.md)
-_Context: Tatar Strait, Russia_
+_Context: Russia, Tatar Strait_
 
 ##### Northern Mariana Islands
 ### [ Voters in the Northern Mariana Islands go to the polls to elect the governor, legislature and local municipal offices. ](/news/2009/11/7/voters-in-the-northern-mariana-islands-go-to-the-polls-to-elect-the-governor-legislature-and-local-municipal-offices.md)
-_Context: 2009 gubernatorial election and runoff, legislature, go to the polls, municipal, Northern Mariana Islands_
+_Context: municipal, legislature, go to the polls, Northern Mariana Islands, 2009 gubernatorial election and runoff_
 
 ##### Venezuela
 ### [ Venezuela deploys 15,000 soldiers to its border with Colombia. ](/news/2009/11/7/venezuela-deploys-15-000-soldiers-to-its-border-with-colombia.md)

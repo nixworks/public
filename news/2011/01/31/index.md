@@ -13,11 +13,11 @@ _Context: Sudan_
 
 ##### Nigeria
 ### [Nigerian police say they have foiled a bomb attack at a church in the city of Bauchi, days after deadly clashes between Christian and Muslim youths. ](/news/2011/01/31/nigerian-police-say-they-have-foiled-a-bomb-attack-at-a-church-in-the-city-of-bauchi-days-after-deadly-clashes-between-christian-and-muslim.md)
-_Context: Muslim, Nigeria, Christian, Bauchi_
+_Context: Nigeria, Bauchi, Christian, Muslim_
 
 ##### Suicide bomber
 ### [A suicide bomber kills DSP Rashid Khan, a senior local police official in the northwestern Pakistani city of Peshawar, and at least three others. ](/news/2011/01/31/a-suicide-bomber-kills-dsp-rashid-khan-a-senior-local-police-official-in-the-northwestern-pakistani-city-of-peshawar-and-at-least-three-ot.md)
-_Context: suicide bomber, Pakistan, Peshawar_
+_Context: suicide bomber, Peshawar, Pakistan_
 
 ##### Bangladesh
 ### [Police in Bangladesh fire tear gas at 20,000 demonstrators protesting against government plans to build an airport south of the capital Dhaka. A policeman is killed in the incident. ](/news/2011/01/31/police-in-bangladesh-fire-tear-gas-at-20-000-demonstrators-protesting-against-government-plans-to-build-an-airport-south-of-the-capital-dhak.md)
@@ -25,7 +25,7 @@ Police in Bangladesh fire tear gas and rubber bullets to disperse villagers prot
 
 ##### Mogadishu
 ### [At least 17 people are killed and scores more injured in a shootout between opposing government security forces in Mogadishu, Somalia. ](/news/2011/01/31/at-least-17-people-are-killed-and-scores-more-injured-in-a-shootout-between-opposing-government-security-forces-in-mogadishu-somalia.md)
-_Context: Somalia, Mogadishu_
+_Context: Mogadishu, Somalia_
 
 ##### Genzyme
 ### [Pharmaceutical companies Genzyme and Sanofi-Aventis are reported to have reached an "agreement in principle" on a deal in which Sanofi, a French company, will acquire Cambridge-based Genzyme for an undetermined amount of money. ](/news/2011/01/31/pharmaceutical-companies-genzyme-and-sanofi-aventis-are-reported-to-have-reached-an-agreement-in-principle-on-a-deal-in-which-sanofi-a-fr.md)
@@ -33,23 +33,23 @@ Genzyme and Sanofi-Aventis have reached a so called &ldquo;agreement in principl
 
 ##### Oil
 ### [The price of oil rises above $100 for the first time since 2008 as traders worry about possible disruption to the Suez Canal as a result of events in Egypt. ](/news/2011/01/31/the-price-of-oil-rises-above-100-for-the-first-time-since-2008-as-traders-worry-about-possible-disruption-to-the-suez-canal-as-a-result-of.md)
-_Context: oil, Suez Canal_
+_Context: Suez Canal, oil_
 
 ##### Johor
 ### [2 people are killed and 29,000 are evacuated following floods in Johor, southern Malaysia. ](/news/2011/01/31/2-people-are-killed-and-29-000-are-evacuated-following-floods-in-johor-southern-malaysia.md)
-_Context: Malaysia, Johor_
+_Context: Johor, Malaysia_
 
 ##### Japanese government
 ### [The Japanese government urges residents living near the Shinmoedake volcano in Kyushu to evacuate as eruptions become worse. ](/news/2011/01/31/the-japanese-government-urges-residents-living-near-the-shinmoedake-volcano-in-kya-sha-to-evacuate-as-eruptions-become-worse.md)
-_Context: Japanese government, Shinmoedake, volcano, Kyushu_
+_Context: volcano, Shinmoedake, Japanese government, Kyushu_
 
 ##### Anna Bligh
 ### [Anna Bligh, the Premier of the Australian state of Queensland warns tens of thousands of people to prepare for evacuation ahead of Cyclone Yasi expected to hit later in the week. ](/news/2011/01/31/anna-bligh-the-premier-of-the-australian-state-of-queensland-warns-tens-of-thousands-of-people-to-prepare-for-evacuation-ahead-of-cyclone-y.md)
-_Context: Queensland, Cyclone Yasi, Australia, Anna Bligh, Premier_
+_Context: Australia, Premier, Queensland, Cyclone Yasi, Anna Bligh_
 
 ##### European Union
 ### [The European Union and United States impose new sanctions against Belarus President Alexander Lukashenko and close associates. ](/news/2011/01/31/the-european-union-and-united-states-impose-new-sanctions-against-belarus-president-alexander-lukashenko-and-close-associates.md)
-_Context: Belarus, Alexander Lukashenko, American, European Union_
+_Context: American, Belarus, European Union, Alexander Lukashenko_
 
 ##### Oman
 ### [Oman says it has uncovered a spy network from the United Arab Emirates operating in the country. ](/news/2011/01/31/oman-says-it-has-uncovered-a-spy-network-from-the-united-arab-emirates-operating-in-the-country.md)
@@ -89,7 +89,7 @@ Niger&amp;&#x23;039&#x3B;s&#x20;junta&#x20;leader&#x20;Salou&#x20;Djibo&#x20;cal
 
 ##### United States Secretary of State
 ### [The United States Secretary of State Hillary Clinton convenes a mass meeting of United States ambassadors from around the world. ](/news/2011/01/31/the-united-states-secretary-of-state-hillary-clinton-convenes-a-mass-meeting-of-united-states-ambassadors-from-around-the-world.md)
-_Context: United States Secretary of State, Hillary Clinton, ambassadors, American_
+_Context: Hillary Clinton, American, United States Secretary of State, ambassadors_
 
 ##### 40th Canadian Parliament
 ### [The 40th Canadian Parliament returns to session amid speculation of an impending election after an extended "holiday break". ](/news/2011/01/31/the-40th-canadian-parliament-returns-to-session-amid-speculation-of-an-impending-election-after-an-extended-holiday-break.md)

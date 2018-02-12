@@ -13,7 +13,7 @@ Hurricane Matthew heads towards Jamaica, with wind speeds strong enough to wreck
 
 ##### 2016 Ethiopian protests
 ### [Police allegedly attack Oromo protestors at a religious festival in Bishoftu, Ethiopia causing a stampede which kills dozens of people. ](/news/2016/10/2/police-allegedly-attack-oromo-protestors-at-a-religious-festival-in-bishoftu-ethiopia-causing-a-stampede-which-kills-dozens-of-people.md)
-_Context: Bishoftu, Oromo, Ethiopia, 2016 Ethiopian protests_
+_Context: Oromo, Bishoftu, 2016 Ethiopian protests, Ethiopia_
 
 ##### Ravn Alaska
 ### [A Ravn Alaska Cessna 208B crashes near Togiak, Alaska killing three people. ](/news/2016/10/2/a-ravn-alaska-cessna-208b-crashes-near-togiak-alaska-killing-three-people.md)

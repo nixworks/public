@@ -21,7 +21,7 @@ _Context: BBC, superinjunction, Private Eye, Andrew Marr_
 
 ##### Russia
 ### [The Russian capital Moscow is to allow its first gay pride rally in May. ](/news/2011/04/26/the-russian-capital-moscow-is-to-allow-its-first-gay-pride-rally-in-may.md)
-_Context: Russia, Moscow, gay pride_
+_Context: Moscow, gay pride, Russia_
 
 ##### Another France Telecom
 ### [Management and unions confirm another France Telecom worker has committed suicide. ](/news/2011/04/26/management-and-unions-confirm-another-france-ta-c-la-c-com-worker-has-committed-suicide.md)
@@ -29,23 +29,23 @@ A France Telecom worker and father of four commits suicide by setting himself on
 
 ##### France
 ### [French dairy group Groupe Lactalis launches a 3.4 billion euro bid for Italian dairy group Parmalat. ](/news/2011/04/26/french-dairy-group-groupe-lactalis-launches-a-3-4-billion-euro-bid-for-italian-dairy-group-parmalat.md)
-_Context: euro, Italy, Parmalat, Groupe Lactalis, France_
+_Context: Parmalat, France, Italy, Groupe Lactalis, euro_
 
 ##### Greece
 ### [Greece's budget deficit for 2010 is 10.5% of gross domestic product, significantly higher than expected. ](/news/2011/04/26/greece-s-budget-deficit-for-2010-is-10-5-of-gross-domestic-product-significantly-higher-than-expected.md)
-_Context: budget deficit, gross domestic product, Greece_
+_Context: gross domestic product, Greece, budget deficit_
 
 ##### Ukraine
 ### [Ukraine commemorates the 25th anniversary of the Chernobyl disaster. ](/news/2011/04/26/ukraine-commemorates-the-25th-anniversary-of-the-chernobyl-disaster.md)
-_Context: Chernobyl disaster, Ukraine_
+_Context: Ukraine, Chernobyl disaster_
 
 ##### Colombian President
 ### [President of Colombia Juan Manuel Santos calls for national unity after floods kill 91 people. ](/news/2011/04/26/president-of-colombia-juan-manuel-santos-calls-for-national-unity-after-floods-kill-91-people.md)
-_Context: Juan Manuel Santos, Colombian President_
+_Context: Colombian President, Juan Manuel Santos_
 
 ##### Poplar Bluff
 ### [Thousands of residents in the US town of Poplar Bluff, Missouri, are evacuated as the Black River overflows its banks. ](/news/2011/04/26/thousands-of-residents-in-the-us-town-of-poplar-bluff-missouri-are-evacuated-as-the-black-river-overflows-its-banks.md)
-_Context: Black River, Missouri, Poplar Bluff_
+_Context: Black River, Poplar Bluff, Missouri_
 
 ##### Ecuador
 ### [Authorities in Ecuador evacuate nearby residents as the Tungurahua erupts. ](/news/2011/04/26/authorities-in-ecuador-evacuate-nearby-residents-as-the-tungurahua-erupts.md)
@@ -81,11 +81,11 @@ President Barack Obama has unwittingly waded into a military legal tangle by dec
 
 ##### India
 ### [An Indian court orders Suresh Kalmadi, the chief organiser of the 2010 Commonwealth Games, to remain in custody while corruption charges against him are investigated. ](/news/2011/04/26/an-indian-court-orders-suresh-kalmadi-the-chief-organiser-of-the-2010-commonwealth-games-to-remain-in-custody-while-corruption-charges-aga.md)
-_Context: India, Suresh Kalmadi, 2010 Commonwealth Games_
+_Context: India, 2010 Commonwealth Games, Suresh Kalmadi_
 
 ##### Japan
 ### [Japanese anti-nuclear protests following the Fukushima I nuclear accidents: Hundreds of farmers protest against Japan's atomic crisis, outside the TEPCO head office in Tokyo. ](/news/2011/04/26/japanese-anti-nuclear-protests-following-the-fukushima-i-nuclear-accidents-hundreds-of-farmers-protest-against-japan-s-atomic-crisis-outsi.md)
-_Context: Japan, Fukushima I nuclear accidents, Tokyo, TEPCO_
+_Context: Japan, Tokyo, TEPCO, Fukushima I nuclear accidents_
 
 ##### Belgium
 ### [Belgium reaches one year without a government. ](/news/2011/04/26/belgium-reaches-one-year-without-a-government.md)
@@ -101,7 +101,7 @@ An election official in New Jersey rules that Olympic gold medallist Carl Lewis 
 
 ##### Nigeria
 ### [Voters in Nigeria go to the polls for state governor elections. ](/news/2011/04/26/voters-in-nigeria-go-to-the-polls-for-state-governor-elections.md)
-_Context: Nigeria, state governor elections_
+_Context: state governor elections, Nigeria_
 
 ##### 24th Seanad
 ### [Counting begins in elections for the 24th Seanad in Ireland. ](/news/2011/04/26/counting-begins-in-elections-for-the-24th-seanad-in-ireland.md)

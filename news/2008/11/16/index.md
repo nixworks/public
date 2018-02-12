@@ -9,11 +9,11 @@ Jimmie Johnson locked up his third consecutive championship with a solid 15th-pl
 
 ##### Magnitude
 ### [ A 7.3 magnitude earthquake strikes off the coast of Indonesia, kills two; a tsunami warning is issued, but later lifted. ](/news/2008/11/16/a-7-3-magnitude-earthquake-strikes-off-the-coast-of-indonesia-kills-two-a-tsunami-warning-is-issued-but-later-lifted.md)
-_Context: earthquake, magnitude, Indonesia, tsunami_
+_Context: earthquake, tsunami, Indonesia, magnitude_
 
 ##### American
 ### [ United States President-elect Barack Obama resigns his Senate seat. ](/news/2008/11/16/united-states-president-elect-barack-obama-resigns-his-senate-seat.md)
-_Context: Barack Obama, American, U.S. President, United States Senate, President-elect_
+_Context: Barack Obama, American, United States Senate, U.S. President, President-elect_
 
 ## [Previous Day...](/news/2008/11/15/index.md)
 

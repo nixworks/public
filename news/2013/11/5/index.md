@@ -13,15 +13,15 @@ Famed Chicago chef Charlie Trotter died this morning, according to a family frie
 
 ##### Lagos
 ### [A 4-story building under construction collapses in Lagos, Nigeria, killing 4 people. ](/news/2013/11/5/a-4-story-building-under-construction-collapses-in-lagos-nigeria-killing-4-people.md)
-_Context: Nigeria, Lagos_
+_Context: Lagos, Nigeria_
 
 ##### Sinaloa
 ### [Sports journalist Alberto Angulo Gerardo is killed in the Mexican state of Sinaloa. His death add ups to the death toll of more than 100 media workers killed in Mexico since the year 2000. ](/news/2013/11/5/sports-journalist-alberto-angulo-gerardo-is-killed-in-the-mexican-state-of-sinaloa-his-death-add-ups-to-the-death-toll-of-more-than-100-med.md)
-_Context: Sinaloa, 100 media workers killed_
+_Context: 100 media workers killed, Sinaloa_
 
 ##### Bangkok
 ### [Thousands of protesters fill the streets of Bangkok, Thailand, after lawmakers pass a draft bill for political amnesty which could allow self-exiled Prime Minister Thaksin Shinawatra to re-enter the country. ](/news/2013/11/5/thousands-of-protesters-fill-the-streets-of-bangkok-thailand-after-lawmakers-pass-a-draft-bill-for-political-amnesty-which-could-allow-sel.md)
-_Context: Thailand, Bangkok, Thaksin Shinawatra, Prime Minister_
+_Context: Thailand, Prime Minister, Thaksin Shinawatra, Bangkok_
 
 ##### American
 ### [American rapper DMX is arrested in South Carolina for driving with a suspended licence, and without a vehicle tag or insurance. ](/news/2013/11/5/american-rapper-dmx-is-arrested-in-south-carolina-for-driving-with-a-suspended-licence-and-without-a-vehicle-tag-or-insurance.md)
@@ -41,7 +41,7 @@ Toronto Mayor Rob Ford says admitting to the world that he smoked crack cocaine 
 
 ##### Indian Space Research Organisation
 ### [The ISRO of India launches a PSLV-XL rocket carrying the Mars Orbiter Mission probe, which will eventually be sent to Mars. ](/news/2013/11/5/the-isro-of-india-launches-a-pslv-xl-rocket-carrying-the-mars-orbiter-mission-probe-which-will-eventually-be-sent-to-mars.md)
-_Context: Mars, Mars Orbiter Mission, India, Indian Space Research Organisation, PSLV-C38_
+_Context: Indian Space Research Organisation, Mars Orbiter Mission, Mars, India, PSLV-C38_
 
 ## [Previous Day...](/news/2013/11/4/index.md)
 

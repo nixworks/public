@@ -5,7 +5,7 @@ Formats: [HTML](2007/05/17/index.html)  [JSON](2007/05/17/index.json)  [XML](200
 
 ##### Jaak Aaviksoo
 ### [ Jaak Aaviksoo, the Estonian Defence Minister, states that the Russian Government may be behind recent hacking on Estonian government and commercial web sites following the moving of the Bronze Soldier. ](/news/2007/05/17/jaak-aaviksoo-the-estonian-defence-minister-states-that-the-russian-government-may-be-behind-recent-hacking-on-estonian-government-and-co.md)
-_Context: Defence Minister, Russia, web site, hacker, Estonia, Bronze Soldier, Jaak Aaviksoo_
+_Context: Jaak Aaviksoo, hacker, web site, Russia, Bronze Soldier, Defence Minister, Estonia_
 
 ##### Paul Wolfowitz
 ### [ Paul Wolfowitz announces his resignation effective June 30 as president of the World Bank Group after protracted discussions over alleged ethics violations. ](/news/2007/05/17/paul-wolfowitz-announces-his-resignation-effective-june-30-as-president-of-the-world-bank-group-after-protracted-discussions-over-alleged-e.md)
@@ -13,27 +13,27 @@ Paul Wolfowitz resigned as president of the World Bank on Thursday, ending a pro
 
 ##### United States Senate
 ### [ United States Senate Democratic Party officials seek a vote of no confidence on Attorney-General Alberto Gonzales. ](/news/2007/05/17/united-states-senate-democratic-party-officials-seek-a-vote-of-no-confidence-on-attorney-general-alberto-gonzales.md)
-_Context: United States Senate, Democrat, Alberto Gonzales, vote of no confidence, Attorney-General of the United States_
+_Context: Democrat, vote of no confidence, Attorney-General of the United States, Alberto Gonzales, United States Senate_
 
 ##### Gordon Brown
 ### [ Gordon Brown is confirmed as the next leader of the British Labour Party, taking effect on 24 June. Brown will succeed Tony Blair as Prime Minister of the United Kingdom when he kisses the hand of Queen Elizabeth II on 27 June. ](/news/2007/05/17/gordon-brown-is-confirmed-as-the-next-leader-of-the-british-labour-party-taking-effect-on-24-june-brown-will-succeed-tony-blair-as-prime.md)
-_Context: Tony Blair, Gordon Brown, kisses the hand, Prime Minister, 24 June, 27 June, Labour Party, Elizabeth II, confirmed_
+_Context: confirmed, Tony Blair, 27 June, Labour Party, Gordon Brown, Elizabeth II, 24 June, kisses the hand, Prime Minister_
 
 ##### 2007 Israel-Gaza conflict
 ### [ 2007 Israel-Gaza conflict: An Israeli aircraft bombs a building of the Hamas-run Executive Force in Gaza, killing at least one person and injuring about 45 others. ](/news/2007/05/17/2007-israel-gaza-conflict-an-israeli-aircraft-bombs-a-building-of-the-hamas-run-executive-force-in-gaza-killing-at-least-one-person-and-i.md)
-_Context: Gaza Strip, Hamas, Israel, 2007 Israel-Gaza conflict_
+_Context: 2007 Israel-Gaza conflict, Hamas, Gaza Strip, Israel_
 
 ##### Train
 ### [ Trains travel between North Korea and South Korea for the first time since the Korean War. ](/news/2007/05/17/trains-travel-between-north-korea-and-south-korea-for-the-first-time-since-the-korean-war.md)
-_Context: Korean War, South Korea, Train, North Korea_
+_Context: South Korea, North Korea, Train, Korean War_
 
 ##### Algeria
 ### [ Voters in Algeria go to the polls to elect a new People's National Assembly with tight security arrangements after recent bomb attacks. ](/news/2007/05/17/voters-in-algeria-go-to-the-polls-to-elect-a-new-people-s-national-assembly-with-tight-security-arrangements-after-recent-bomb-attacks.md)
-_Context: Algeria, recent bomb attacks, People's National Assembly, go to the polls_
+_Context: Algeria, People's National Assembly, go to the polls, recent bomb attacks_
 
 ##### France
 ### [ French President Sarkozy appoints Franois Fillon as his Prime Minister. ](/news/2007/05/17/french-president-sarkozy-appoints-francois-fillon-as-his-prime-minister.md)
-_Context: France, Prime Minister, Franois Fillon, Nicolas Sarkozy_
+_Context: Nicolas Sarkozy, France, Prime Minister, Franois Fillon_
 
 ##### Canadian Radio-television and Telecommunications Commission
 ### [ The Canadian Radio-television and Telecommunications Commission announces that all over-the-air TV broadcasts must be digital by August 31, 2011. ](/news/2007/05/17/the-canadian-radio-television-and-telecommunications-commission-announces-that-all-over-the-air-tv-broadcasts-must-be-digital-by-august-31.md)

@@ -9,7 +9,7 @@ Arab League ministers agree to ask United Nations for joint force and special Ar
 
 ##### Turkey
 ### [Turkish warplanes carry out strikes against PKK hideouts in northern Iraq. ](/news/2012/02/12/turkish-warplanes-carry-out-strikes-against-pkk-hideouts-in-northern-iraq.md)
-_Context: Iraq, Kurdistan Workers' Party, Turkey_
+_Context: Turkey, Kurdistan Workers' Party, Iraq_
 
 ##### Hellenic Parliament
 ### [The Hellenic Parliament votes to approve austerity measures demanded in return for another bailout from the eurozone. ](/news/2012/02/12/the-hellenic-parliament-votes-to-approve-austerity-measures-demanded-in-return-for-another-bailout-from-the-eurozone.md)
@@ -17,11 +17,11 @@ Protests grow in the Greek capital, Athens, with buildings set alight as MPs vot
 
 ##### Comrade Artemio
 ### [Comrade Artemio, leader of the Shining Path Peruvian rebel movement, is captured in the Huallaga Valley area by the Army and National Police. ](/news/2012/02/12/comrade-artemio-leader-of-the-shining-path-peruvian-rebel-movement-is-captured-in-the-huallaga-valley-area-by-the-army-and-national-police.md)
-_Context: Peru, Peruvian Army, Shining Path, Comrade Artemio, Huallaga Valley, National Police_
+_Context: Comrade Artemio, National Police, Huallaga Valley, Peruvian Army, Shining Path, Peru_
 
 ##### 54th Grammy Awards
 ### [The 54th Grammy Awards for music are held at the Staples Center in the U.S. city of Los Angeles, with some of the show being re-worked to commemorate Whitney Houston. ](/news/2012/02/12/the-54th-grammy-awards-for-music-are-held-at-the-staples-center-in-the-u-s-city-of-los-angeles-with-some-of-the-show-being-re-worked-to-co.md)
-_Context: Staples Center, Whitney Houston, Los Angeles, 54th Grammy Awards, music_
+_Context: 54th Grammy Awards, Whitney Houston, Staples Center, music, Los Angeles_
 
 ##### British Academy of Film and Television Arts
 ### [The British Academy of Film and Television Arts Film Awards is held in London with "The Artist" winning the Award for best film. ](/news/2012/02/12/the-british-academy-of-film-and-television-arts-film-awards-is-held-in-london-with-the-artist-winning-the-award-for-best-film.md)
@@ -33,11 +33,11 @@ The NSW State Emergency Services have issued an evacuation order for people with
 
 ##### President
 ### [A senior aide to the President of the Democratic Republic of the Congo, Joseph Kabila, is killed, and the Finance Minister Matata Ponyo Mapon is injured in a plane crash near the town of Bukavu. ](/news/2012/02/12/a-senior-aide-to-the-president-of-the-democratic-republic-of-the-congo-joseph-kabila-is-killed-and-the-finance-minister-matata-ponyo-mapo.md)
-_Context: Kabila government, President, Bukavu, DR Congo, Matata Ponyo Mapon_
+_Context: Kabila government, Matata Ponyo Mapon, Bukavu, President, DR Congo_
 
 ##### International Air Transport Association
 ### [The International Air Transport Association calls for the United Nations to intervene in the dispute between the People's Republic of China and the European Union over airlines' involvement in the EU's carbon tax scheme for airlines. ](/news/2012/02/12/the-international-air-transport-association-calls-for-the-united-nations-to-intervene-in-the-dispute-between-the-people-s-republic-of-china.md)
-_Context: European Union, carbon tax, China, International Air Transport Association, United Nations_
+_Context: International Air Transport Association, European Union, China, United Nations, carbon tax_
 
 ##### Tibetan
 ### [A teenage Tibetan Buddhist nun Tenzin Choedon dies after setting herself on fire in protest against Chinese rule of Tibet in Sichuan province. ](/news/2012/02/12/a-teenage-tibetan-buddhist-nun-tenzin-choedon-dies-after-setting-herself-on-fire-in-protest-against-chinese-rule-of-tibet-in-sichuan-provinc.md)
@@ -45,7 +45,7 @@ An 18-year-old Tibetan nun has set herself on fire in western China in the lates
 
 ##### Iran
 ### [Iran rebukes Azerbaijan for allegedly assisting Israel's Mossad secret service in operations against it. ](/news/2012/02/12/iran-rebukes-azerbaijan-for-allegedly-assisting-israel-s-mossad-secret-service-in-operations-against-it.md)
-_Context: Mossad, Israel, Iran, Azerbaijan_
+_Context: Iran, Azerbaijan, Mossad, Israel_
 
 ##### Malaysia
 ### [Malaysia deports Saudi Arabian journalist Hamzar Kashgari, accused of insulting the prophet Muhammad in a tweet. ](/news/2012/02/12/malaysia-deports-saudi-arabian-journalist-hamzar-kashgari-accused-of-insulting-the-prophet-muhammad-in-a-tweet.md)
@@ -61,15 +61,15 @@ _Context: Chinese village that staged a rebellion, democratic_
 
 ##### Emperor
 ### [Emperor Akihito is to undertake heart bypass surgery on 18 February 2012. ](/news/2012/02/12/emperor-akihito-is-to-undertake-heart-bypass-surgery-on-18-february-2012.md)
-_Context: heart bypass, Emperor, Akihito_
+_Context: Akihito, heart bypass, Emperor_
 
 ##### Nigeria
 ### [Nigeria's ruling People's Democratic Party wins a gubernatorial election in Bayelsa State with its candidate Henry Dickson receiving 90% of the vote. ](/news/2012/02/12/nigeria-s-ruling-people-s-democratic-party-wins-a-gubernatorial-election-in-bayelsa-state-with-its-candidate-henry-dickson-receiving-90-of.md)
-_Context: Nigeria, People's Democratic Party, Henry Dickson, Bayelsa State_
+_Context: Henry Dickson, People's Democratic Party, Bayelsa State, Nigeria_
 
 ##### Venezuela
 ### [The Venezuelan opposition Mesa de la Unidad Democratica holds a primary election, selecting Henrique Capriles as its candidate for the presidential election in early October. ](/news/2012/02/12/the-venezuelan-opposition-mesa-de-la-unidad-democra-tica-holds-a-primary-election-selecting-henrique-capriles-as-its-candidate-for-the-pres.md)
-_Context: Henrique Capriles, primary election, Mesa de la Unidad Democratica, Venezuela, inauguration approaches_
+_Context: Mesa de la Unidad Democratica, primary election, Henrique Capriles, inauguration approaches, Venezuela_
 
 ## [Previous Day...](/news/2012/02/11/index.md)
 

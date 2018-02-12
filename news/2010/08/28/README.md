@@ -17,15 +17,15 @@ Government extends foreign land leases and allows independent agricultural busin
 
 ##### ICC
 ### [The International Criminal Court reports Kenya to the United Nations Security Council over a visit by Sudanese President Omar al-Bashir to the country. ](/news/2010/08/28/the-international-criminal-court-reports-kenya-to-the-united-nations-security-council-over-a-visit-by-sudanese-president-omar-al-bashir-to-t.md)
-_Context: United Nations Security Council, Sudanese President, Omar al-Bashir, Sudan, ICC, Kenya_
+_Context: Sudanese President, Omar al-Bashir, United Nations Security Council, Kenya, Sudan, ICC_
 
 ##### Rwanda
 ### [Rwanda threatens to limit cooperation with the United Nations after a report accused the country of war crimes in neighbouring Democratic Republic of the Congo. ](/news/2010/08/28/rwanda-threatens-to-limit-cooperation-with-the-united-nations-after-a-report-accused-the-country-of-war-crimes-in-neighbouring-democratic-re.md)
-_Context: DR Congo, United Nations, war crime, Rwanda_
+_Context: DR Congo, Rwanda, war crime, United Nations_
 
 ##### Iran
 ### [Iran says no final decision has been made on the stoning of Sakineh Mohammadi Ashtiani, who was convicted of adultery. ](/news/2010/08/28/iran-says-no-final-decision-has-been-made-on-the-stoning-of-sakineh-mohammadi-ashtiani-who-was-convicted-of-adultery.md)
-_Context: Sakineh Mohammadi Ashtiani, stoning, adultery, Iran_
+_Context: adultery, Iran, Sakineh Mohammadi Ashtiani, stoning_
 
 ##### President
 ### [Former President of Madagascar Marc Ravalomanana is sentenced "in absentia" to life in prison with hard labour for ordering the killing of opposition supporters. ](/news/2010/08/28/former-president-of-madagascar-marc-ravalomanana-is-sentenced-in-absentia-to-life-in-prison-with-hard-labour-for-ordering-the-killing-of-o.md)
@@ -33,7 +33,7 @@ The exiled Madagascan president is sentenced to life in prison with hard labour 
 
 ##### Glenn Beck
 ### [A large gathering of people attend Glenn Beck's "Restoring Honor" rally at the National Mall in Washington, D.C. ](/news/2010/08/28/a-large-gathering-of-people-attend-glenn-beck-s-restoring-honor-rally-at-the-national-mall-in-washington-d-c.md)
-_Context: National Mall, "Restoring Honor" rally, Glenn Beck, Washington, D.C._
+_Context: "Restoring Honor" rally, Washington, D.C., Glenn Beck, National Mall_
 
 ## [Previous Day...](/news/2010/08/27/index.md)
 

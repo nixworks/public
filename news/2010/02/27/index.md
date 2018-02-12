@@ -9,7 +9,7 @@ One of the biggest earthquakes in recorded history rocked Chile on Saturday, kil
 
 ##### Indian Prime Minister
 ### [Prime Minister of India Manmohan Singh arrives in Saudi Arabia on the first PM visit there since Indira Gandhi's in 1982. ](/news/2010/02/27/prime-minister-of-india-manmohan-singh-arrives-in-saudi-arabia-on-the-first-pm-visit-there-since-indira-gandhi-s-in-1982.md)
-_Context: Manmohan Singh, Indian Prime Minister, Indira Gandhi, Saudi Arabia_
+_Context: Saudi Arabia, Indian Prime Minister, Manmohan Singh, Indira Gandhi_
 
 ##### Egypt
 ### [Egyptian prosecutors begin investigating yesterday's incident where an Italian cruise liner smashed into a dock at Sharm el-Sheikh during severe weather conditions, killing sailors from Brazil, Honduras and India and injuring several passengers. ](/news/2010/02/27/egyptian-prosecutors-begin-investigating-yesterday-s-incident-where-an-italian-cruise-liner-smashed-into-a-dock-at-sharm-el-sheikh-during-se.md)
@@ -25,7 +25,7 @@ _Context: Puning, Guangdong, Lantern Festival_
 
 ##### Yuan
 ### [A drought causes at least 10 billion yuan ($1.46 billion) in direct economic loss at Fanaga village of Luquan county, near Kunming, capital of Yunnan. ](/news/2010/02/27/a-drought-causes-at-least-10-billion-yuan-1-46-billion-in-direct-economic-loss-at-fanaga-village-of-luquan-county-near-kunming-capital.md)
-_Context: yuan, Fanaga village, Yunnan, Luquan, Kunming_
+_Context: Fanaga village, Yunnan, Kunming, yuan, Luquan_
 
 ##### Colombia
 ### [Constitutional judges in Colombia reject a referendum to allow President lvaro Uribe to stand for a third term in office. ](/news/2010/02/27/constitutional-judges-in-colombia-reject-a-referendum-to-allow-president-alvaro-uribe-to-stand-for-a-third-term-in-office.md)

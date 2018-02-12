@@ -9,7 +9,7 @@ Yahoo Inc will sell as much as half of its 40 percent stake in Chinese e-commerc
 
 ##### Securities Division
 ### [The Securities Division of the government of Massachusetts subpoenas financial services firm Morgan Stanley (MS), in connection with an MS analyst's talks with institutional investors prior to the Facebook initial public offering. ](/news/2012/05/22/the-securities-division-of-the-government-of-massachusetts-subpoenas-financial-services-firm-morgan-stanley-ms-in-connection-with-an-ms-a.md)
-_Context: Massachusetts, Facebook, subpoena, initial public offering, Morgan Stanley, Securities Division_
+_Context: Morgan Stanley, Securities Division, Massachusetts, Facebook, subpoena, initial public offering_
 
 ##### Hampi Express
 ### [At least 14 people die and 30 are injured after the Hampi Express collides with a goods train in the Indian state of Andhra Pradesh. ](/news/2012/05/22/at-least-14-people-die-and-30-are-injured-after-the-hampi-express-collides-with-a-goods-train-in-the-indian-state-of-andhra-pradesh.md)
@@ -25,11 +25,11 @@ The family of John McAreavey has appealed for privacy and cautioned members of t
 
 ##### Burma
 ### [The Burmese government appeals for "understanding" after rare protests in Mandalay and Yangon over power shortages. ](/news/2012/05/22/the-burmese-government-appeals-for-understanding-after-rare-protests-in-mandalay-and-yangon-over-power-shortages.md)
-_Context: Mandalay, Burma, Yangon_
+_Context: Burma, Yangon, Mandalay_
 
 ##### US state
 ### [Voters in the US states of Arkansas and Kentucky go to the polls, with Mitt Romney winning the Republican primaries, and President Barack Obama winning but performing relatively poorly against token opposition in the Democratic primaries. ](/news/2012/05/22/voters-in-the-us-states-of-arkansas-and-kentucky-go-to-the-polls-with-mitt-romney-winning-the-republican-primaries-and-president-barack-ob.md)
-_Context: Republican primaries, Barack Obama, US state, Arkansas, Democratic primaries, Mitt Romney, U.S. President, Kentucky_
+_Context: US state, Barack Obama, Mitt Romney, Arkansas, U.S. President, Democratic primaries, Republican primaries, Kentucky_
 
 ##### Sarah West
 ### [British naval officer Commander Sarah West is appointed commander of the Royal Navy frigate Portland 6, becoming the first female officer to take command of a major British warship. ](/news/2012/05/22/british-naval-officer-commander-sarah-west-is-appointed-commander-of-the-royal-navy-frigate-portland-6-becoming-the-first-female-officer-to.md)

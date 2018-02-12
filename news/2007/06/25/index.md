@@ -9,15 +9,15 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 
 ##### Conoco Phillips
 ### [ Conoco Phillips and ExxonMobil reject a deal with PDVSA, the nationalised oil company of Venezuela, over the future participation in development of reserves in the Orinoco Belt. ](/news/2007/06/25/conoco-phillips-and-exxonmobil-reject-a-deal-with-pdvsa-the-nationalised-oil-company-of-venezuela-over-the-future-participation-in-develo.md)
-_Context: Conoco Phillips, PDVSA, ExxonMobil Corporation, Orinoco Belt, Venezuela_
+_Context: PDVSA, Orinoco Belt, ExxonMobil Corporation, Conoco Phillips, Venezuela_
 
 ##### President
 ### [ Middle East leaders President of Egypt Hosni Mubarak, President of the Palestinian Authority Mahmoud Abbas, Prime Minister of Israel Ehud Olmert, and King Abdullah II of Jordan meet to support Abbas' leadership of the Palestinian Authority. Olmert announces that he will release 250 Palestinian political prisoners as a gesture of goodwill. ](/news/2007/06/25/middle-east-leaders-president-of-egypt-hosni-mubarak-president-of-the-palestinian-authority-mahmoud-abbas-prime-minister-of-israel-ehud-o.md)
-_Context: Palestinian Authority, President of the Palestinian Authority, Mahmoud Abbas, Jordanian King, President, Ehud Olmert, Israeli Prime Minister, Hosni Mubarak, Abdullah II of Jordan_
+_Context: President, Ehud Olmert, Jordanian King, Palestinian Authority, Hosni Mubarak, Mahmoud Abbas, Abdullah II of Jordan, Israeli Prime Minister, President of the Palestinian Authority_
 
 ##### Iran
 ### [ Iran invites the International Atomic Energy Agency to Tehran to discuss its nuclear program. ](/news/2007/06/25/iran-invites-the-international-atomic-energy-agency-to-tehran-to-discuss-its-nuclear-program.md)
-_Context: IAEA, Iran, Tehran_
+_Context: Tehran, Iran, IAEA_
 
 ##### United States Supreme Court
 ### [ The United States Supreme Court issues three 5&ndash;4 split-decision rulings limiting student freedom of expression ](/news/2007/06/25/the-united-states-supreme-court-issues-three-5-ndash-4-split-decision-rulings-limiting-student-freedom-of-expression.md)

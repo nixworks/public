@@ -13,15 +13,15 @@ Activists calling for the ouster of president clash with government supporters i
 
 ##### England
 ### [2011 English protests: Thousands of protesters demonstrate against cuts and increases in tuition fees in England; police escort student leader Aaron Porter away in Manchester amid calls from protesters for his resignation. ](/news/2011/01/29/2011-english-protests-thousands-of-protesters-demonstrate-against-cuts-and-increases-in-tuition-fees-in-england-police-escort-student-lead.md)
-_Context: England, student leader, Manchester, Aaron Porter_
+_Context: student leader, England, Manchester, Aaron Porter_
 
 ##### Russia
 ### [Investigators in Russia say they have discovered the identities of those responsible for the bombing at Domodedovo International Airport in Moscow. ](/news/2011/01/29/investigators-in-russia-say-they-have-discovered-the-identities-of-those-responsible-for-the-bombing-at-domodedovo-international-airport-in.md)
-_Context: bombing, Moscow, Domodedovo International Airport, Russia_
+_Context: bombing, Moscow, Russia, Domodedovo International Airport_
 
 ##### Afghanistan
 ### [Abdul Latif Ashna, the deputy governor of Afghanistan's Kandahar Province, is killed in a suicide attack. ](/news/2011/01/29/abdul-latif-ashna-the-deputy-governor-of-afghanistan-s-kandahar-province-is-killed-in-a-suicide-attack.md)
-_Context: Kandahar Province, Afghanistan_
+_Context: Afghanistan, Kandahar Province_
 
 ##### Somalia
 ### [Clashes between rebels and government forces in Somalia leave several civilians dead in the capital Mogadishu. ](/news/2011/01/29/clashes-between-rebels-and-government-forces-in-somalia-leave-several-civilians-dead-in-the-capital-mogadishu.md)
@@ -29,7 +29,7 @@ _Context: Somalia, Mogadishu_
 
 ##### China
 ### [China begins the first test flights of private helicopters in its airspace. ](/news/2011/01/29/china-begins-the-first-test-flights-of-private-helicopters-in-its-airspace.md)
-_Context: helicopters, China_
+_Context: China, helicopters_
 
 ##### Wall Street
 ### [Wall Street firm Goldman Sachs triples the base salary of its chief executive Lloyd Blankfein to $2 million, up from $600,000, after the bank's profit falls by 38 per cent. ](/news/2011/01/29/wall-street-firm-goldman-sachs-triples-the-base-salary-of-its-chief-executive-lloyd-blankfein-to-2-million-up-from-600-000-after-the-ban.md)
@@ -37,7 +37,7 @@ Wall Street firm Goldman Sachs Group awards chief executive Lloyd Blankfein $12.
 
 ##### Hamilton, Ontario
 ### [Close to 8,000 protesters rally in Hamilton, Ontario to support workers locked out from Stelco after disagreeing against pension changes made by U.S. Steel. Analysts predict that similar protests may spread across the country. ](/news/2011/01/29/close-to-8-000-protesters-rally-in-hamilton-ontario-to-support-workers-locked-out-from-stelco-after-disagreeing-against-pension-changes-mad.md)
-_Context: Hamilton, Ontario, Stelco, U.S. Steel_
+_Context: Stelco, Hamilton, Ontario, U.S. Steel_
 
 ##### Passenger train
 ### [At least ten people die after a passenger train collides with a goods train in the German state of Saxony-Anhalt near the city of Magdeburg. ](/news/2011/01/29/at-least-ten-people-die-after-a-passenger-train-collides-with-a-goods-train-in-the-german-state-of-saxony-anhalt-near-the-city-of-magdeburg.md)
@@ -49,7 +49,7 @@ The&#x20;African&#x20;Union&#x20;is&#x20;to&#x20;form&#x20;a&#x20;panel&#x20;of&
 
 ##### Lesbian
 ### [The UK gives a lesbian from Uganda an injunction to temporarily prevent her deportation to the country where gay activist David Kato was murdered earlier this week. ](/news/2011/01/29/the-uk-gives-a-lesbian-from-uganda-an-injunction-to-temporarily-prevent-her-deportation-to-the-country-where-gay-activist-david-kato-was-mur.md)
-_Context: David Kato, gay activist, lesbian, Uganda_
+_Context: David Kato, lesbian, Uganda, gay activist_
 
 ##### Politics of the Netherlands
 ### [The Dutch government freezes all contacts with Iran in protest over the fate of a Dutch-Iranian woman who was hanged for alleged drug smuggling. ](/news/2011/01/29/the-dutch-government-freezes-all-contacts-with-iran-in-protest-over-the-fate-of-a-dutch-iranian-woman-who-was-hanged-for-alleged-drug-smuggl.md)
@@ -73,7 +73,7 @@ The Finance Bill will not go to the D&aacute;il tonight after the Seanad passed 
 
 ##### Burma
 ### [Burma's pro-democracy leader Aung San Suu Kyi addresses the World Economic Forum in Davos, Switzerland. ](/news/2011/01/29/burma-s-pro-democracy-leader-aung-san-suu-kyi-addresses-the-world-economic-forum-in-davos-switzerland.md)
-_Context: democratic, Burma, World Economic Forum, Switzerland, Davos, Aung San Suu Kyi_
+_Context: Davos, Burma, Aung San Suu Kyi, Switzerland, World Economic Forum, democratic_
 
 ##### London
 ### [Students and union members stage protest marches in London and Manchester against increases in tuition fees and public spending cuts in the United Kingdom. ](/news/2011/01/29/students-and-union-members-stage-protest-marches-in-london-and-manchester-against-increases-in-tuition-fees-and-public-spending-cuts-in-the.md)

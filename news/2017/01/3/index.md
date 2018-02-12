@@ -21,7 +21,7 @@ Authorities in the Philippines are hunting for more than 100 prisoners who escap
 
 ##### Presidential transition of Donald Trump
 ### [U.S. President-elect Donald Trump says that Robert Lighthizer will be the country's chief trade negotiator. ](/news/2017/01/3/u-s-president-elect-donald-trump-says-that-robert-lighthizer-will-be-the-country-s-chief-trade-negotiator.md)
-_Context: Donald Trump, Presidential transition of Donald Trump, Robert Lighthizer_
+_Context: Robert Lighthizer, Donald Trump, Presidential transition of Donald Trump_
 
 ##### 115th United States Congress
 ### [The Republican-led U.S. House of Representatives cancels plans approved on Monday, following widespread criticism, including a tweet by President-elect Trump, that would have weakened the House's independent ethics watchdog, the Office of Congressional Ethics. ](/news/2017/01/3/the-republican-led-u-s-house-of-representatives-cancels-plans-approved-on-monday-following-widespread-criticism-including-a-tweet-by-pres.md)
@@ -29,7 +29,7 @@ The president-elect took to Twitter to criticize the move against an independent
 
 ##### Turkish Parliament
 ### [The Grand National Assembly of Turkey votes to extend a state of emergency imposed after last year's attempted coup for another three months. ](/news/2017/01/3/the-grand-national-assembly-of-turkey-votes-to-extend-a-state-of-emergency-imposed-after-last-year-s-attempted-coup-for-another-three-months.md)
-_Context: last year's attempted coup, state of emergency, Turkish Parliament_
+_Context: state of emergency, Turkish Parliament, last year's attempted coup_
 
 ## [Previous Day...](/news/2017/01/2/index.md)
 

@@ -9,11 +9,11 @@ There are unconfirmed reports that Jihad Makdissi has either defected or been fi
 
 ##### DR Congo
 ### [The Congolese government re-establishes control over Goma from M23 rebels. ](/news/2012/12/3/the-congolese-government-re-establishes-control-over-goma-from-m23-rebels.md)
-_Context: government, DR Congo, Goma, M23_
+_Context: government, M23, Goma, DR Congo_
 
 ##### Catherine, Duchess of Cambridge
 ### [The Duke and Duchess of Cambridge announce they are expecting their first child. The baby could be third in line to the throne, after Prince Charles and Prince William. The Duchess is admitted to hospital with severe morning sickness. ](/news/2012/12/3/the-duke-and-duchess-of-cambridge-announce-they-are-expecting-their-first-child-the-baby-could-be-third-in-line-to-the-throne-after-prince.md)
-_Context: morning sickness, Duke of Cambridge, Cambridge, Catherine, Duchess of Cambridge, Prince Charles_
+_Context: morning sickness, Duke of Cambridge, Catherine, Duchess of Cambridge, Prince Charles, Cambridge_
 
 ##### Elizabeth Price
 ### [Elizabeth Price is awarded the 2012 Turner Prize for her 2012 twenty-minute video installation "The Woolworths Choir of 1979". ](/news/2012/12/3/elizabeth-price-is-awarded-the-2012-turner-prize-for-her-2012-twenty-minute-video-installation-the-woolworths-choir-of-1979.md)
@@ -29,7 +29,7 @@ Japan orders emergency inspections of road tunnels after nine people were killed
 
 ##### EgyptAir
 ### [An EgyptAir pilot makes an emergency landing at Hurghada airport after a snake bites a Jordanian passenger. ](/news/2012/12/3/an-egyptair-pilot-makes-an-emergency-landing-at-hurghada-airport-after-a-snake-bites-a-jordanian-passenger.md)
-_Context: airport, Hurghada, Jordan, EgyptAir, emergency landing, snake_
+_Context: Hurghada, airport, snake, Jordan, EgyptAir, emergency landing_
 
 ##### South Korea
 ### [South Korea's Yonhap news agency reports that North Korea has installed an Unha rocket at its Dongchang-ri launch site. Japan is threatening to shoot down the rocket if it manages to stay airborne and threaten Japanese territory. ](/news/2012/12/3/south-korea-s-yonhap-news-agency-reports-that-north-korea-has-installed-an-unha-rocket-at-its-dongchang-ri-launch-site-japan-is-threatening.md)
@@ -41,7 +41,7 @@ Japan is threatening to shoot down a North Korean rocket that Pyongyang says it 
 
 ##### Singapore
 ### [Singapore charges five Chinese bus drivers and deports 29 others for holding the country's first strike in 26 years. ](/news/2012/12/3/singapore-charges-five-chinese-bus-drivers-and-deports-29-others-for-holding-the-country-s-first-strike-in-26-years.md)
-_Context: Singapore, Chinese_
+_Context: Chinese, Singapore_
 
 ##### Netherlands
 ### [Dutch linesman Richard Nieuwenhuizen dies in hospital after he was kicked and punched by three teenage players of a club from Nieuw Sloten, Amsterdam, while officiating at a match on Sunday. ](/news/2012/12/3/dutch-linesman-richard-nieuwenhuizen-dies-in-hospital-after-he-was-kicked-and-punched-by-three-teenage-players-of-a-club-from-nieuw-sloten.md)
@@ -49,7 +49,7 @@ A Dutch man has died after being kicked and punched by three teenage football pl
 
 ##### Mykola Azarov
 ### [Mykola Azarov, the Prime Minister of Ukraine, and his government resign en masse following controversial elections. ](/news/2012/12/3/mykola-azarov-the-prime-minister-of-ukraine-and-his-government-resign-en-masse-following-controversial-elections.md)
-_Context: government, Mykola Azarov, elections, en masse, Prime Minister of Ukraine_
+_Context: government, Mykola Azarov, en masse, elections, Prime Minister of Ukraine_
 
 ##### NASA
 ### [NASA's Curiosity rover has detected several simple carbon-based organic compounds on Mars, but it remains unclear whether they were formed via Earthly contamination or whether they contain only elements indigenous to the planet. ](/news/2012/12/3/nasa-s-curiosity-rover-has-detected-several-simple-carbon-based-organic-compounds-on-mars-but-it-remains-unclear-whether-they-were-formed-v.md)
@@ -57,7 +57,7 @@ NASA&#039;s Mars rover Curiosity has found some complex chemistry on Mars, but n
 
 ##### Sea Launch
 ### [The Sea Launch consortium successfully launches its Zenit-3SL carrier rocket with the Eutelsat 70B satellite from the Odyssey Launch Platform in the Pacific Ocean. ](/news/2012/12/3/the-sea-launch-consortium-successfully-launches-its-zenit-3sl-carrier-rocket-with-the-eutelsat-70b-satellite-from-the-odyssey-launch-platfor.md)
-_Context: South Pacific Ocean, carrier rocket, Eutelsat 70B, Sea Launch, satellite, Odyssey Launch Platform, successfully, Zenit-3SL_
+_Context: Odyssey Launch Platform, South Pacific Ocean, Eutelsat 70B, Sea Launch, successfully, carrier rocket, Zenit-3SL, satellite_
 
 ##### NASA
 ### [NASA announces that the Voyager 1 spacecraft, launched in 1977, has nearly reached the edge of the solar system and is imminently to past through the heliosphere into interstellar space. ](/news/2012/12/3/nasa-announces-that-the-voyager-1-spacecraft-launched-in-1977-has-nearly-reached-the-edge-of-the-solar-system-and-is-imminently-to-past-th.md)

@@ -9,11 +9,11 @@ The soldier was taking part in an operation against Islamic State, which is thou
 
 ##### A freight train derails
 ### [A freight train derails in Hunedoara County, Romania, killing both crew members on board. ](/news/2017/04/8/a-freight-train-derails-in-hunedoara-county-romania-killing-both-crew-members-on-board.md)
-_Context: Hunedoara County, A freight train derails, Romania_
+_Context: Romania, A freight train derails, Hunedoara County_
 
 ##### Swiebodzice
 ### [ In Swiebodzice, Poland, an old tenement house collapses killing at least six people, including two children, and injuring six. The exploration teams are looking for 4 missing people. ](/news/2017/04/8/in-awiebodzice-poland-an-old-tenement-house-collapses-killing-at-least-six-people-including-two-children-and-injuring-six-the-explora.md)
-_Context: Swiebodzice, tenement house, Polish_
+_Context: Swiebodzice, Polish, tenement house_
 
 ##### Cyclone Debbie
 ### [Another body has been found after flooding in eastern Queensland, raising the death toll to twelve. ](/news/2017/04/8/another-body-has-been-found-after-flooding-in-eastern-queensland-raising-the-death-toll-to-twelve.md)

@@ -5,11 +5,11 @@ Formats: [HTML](2012/09/6/index.html)  [JSON](2012/09/6/index.json)  [XML](2012/
 
 ##### Vladimir Putin
 ### [Vladimir Putin urges the Western and Arab world to review their position. He asks to end the violence first, then sit around the table and only then move on to "these practical steps about the internal organisation of the country itself". ](/news/2012/09/6/vladimir-putin-urges-the-western-and-arab-world-to-review-their-position-he-asks-to-end-the-violence-first-then-sit-around-the-table-and-o.md)
-_Context: Arab world, Westerners, Vladimir Putin, Syria_
+_Context: Syria, Westerners, Vladimir Putin, Arab world_
 
 ##### Revolutionary Armed Forces of Colombia
 ### [The FARC want an armistice at the start of the peace talks starting October 8th in Oslo, Norway. The government doesn't want a truce. ](/news/2012/09/6/the-farc-want-an-armistice-at-the-start-of-the-peace-talks-starting-october-8th-in-oslo-norway-the-government-doesn-t-want-a-truce.md)
-_Context: Oslo, Norway, armistice, Revolutionary Armed Forces of Colombia, truce_
+_Context: Oslo, armistice, truce, Revolutionary Armed Forces of Colombia, Norway_
 
 ##### 61 people
 ### [61 people, illegal immigrants traveling below deck, die after a fishing boat capsizes fifty meters off the Izmir Province coast of Turkey, near the Greek Aegean islands. ](/news/2012/09/6/61-people-illegal-immigrants-traveling-below-deck-die-after-a-fishing-boat-capsizes-fifty-meters-off-the-izmir-province-coast-of-turkey-n.md)
@@ -17,7 +17,7 @@ A boat carrying migrants capsizes off the coast of western Turkey killing at lea
 
 ##### Annecy murders
 ### [A toddler is found alive, hours after a shooting leaves four dead and another child heavily injured in a wood in Chevaline, Haute-Savoie near Lake Annecy, France. A car with a British licence plate is involved. British tourists, the male Iraqi-passport-holding driver and two women in the car, and a local inhabitant on a cycle, who was on paternity leave, are among the deaths. ](/news/2012/09/6/a-toddler-is-found-alive-hours-after-a-shooting-leaves-four-dead-and-another-child-heavily-injured-in-a-wood-in-chevaline-haute-savoie-nea.md)
-_Context: Annecy murders, France, Iraq, Lake Annecy, United Kingdom, Chevaline, Haute-Savoie_
+_Context: Lake Annecy, Annecy murders, Chevaline, Haute-Savoie, France, Iraq, United Kingdom_
 
 ##### Human Rights Watch
 ### [Human Rights Watch says it has evidence of more cases of waterboarding involving United States operatives. ](/news/2012/09/6/human-rights-watch-says-it-has-evidence-of-more-cases-of-waterboarding-involving-united-states-operatives.md)
@@ -25,7 +25,7 @@ A human rights organization says it has collected evidence of two previously unr
 
 ##### Sri Lanka
 ### [After Sri Lanka, Liang Guanglie leaves India for Laos. It has been the first visit to India of a Chinese Minister of Defence in eight years. ](/news/2012/09/6/after-sri-lanka-liang-guanglie-leaves-india-for-laos-it-has-been-the-first-visit-to-india-of-a-chinese-minister-of-defence-in-eight-years.md)
-_Context: Liang Guanglie, Sri Lanka, China, Laos, India, Chinese Defense Ministry_
+_Context: Liang Guanglie, Sri Lanka, China, India, Chinese Defense Ministry, Laos_
 
 ##### James Winnefeld
 ### [Admiral James Winnefeld, Vice Chairman of the U.S. Joint Chiefs of Staff, is in Israel. The Pentagon recently has scaled down a joint military exercise, planned for October. The drill should help blend both countries' missile defense capabilities. ](/news/2012/09/6/admiral-james-winnefeld-vice-chairman-of-the-u-s-joint-chiefs-of-staff-is-in-israel-the-pentagon-recently-has-scaled-down-a-joint-milita.md)

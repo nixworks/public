@@ -5,11 +5,11 @@ Formats: [HTML](2005/03/31/index.html)  [JSON](2005/03/31/index.json)  [XML](200
 
 ##### Democratic Forces for the Liberation of Rwanda
 ### [ The rebel Democratic Forces for the Liberation of Rwanda, members of which had participated in the 1994 Rwandan Genocide, announces that it is giving up its armed struggle. The FDLR has been a key source of instability in the aftermath of the Second Congo War. ](/news/2005/03/31/the-rebel-democratic-forces-for-the-liberation-of-rwanda-members-of-which-had-participated-in-the-1994-rwandan-genocide-announces-that-it.md)
-_Context: civil war in the Democratic Republic of Congo, Rwandan Genocide, Democratic Forces for the Liberation of Rwanda_
+_Context: civil war in the Democratic Republic of Congo, Democratic Forces for the Liberation of Rwanda, Rwandan Genocide_
 
 ##### Pope John Paul II
 ### [ Pope John Paul II's condition has once again worsened. The pontiff, 84, suffers from a drop in blood pressure and a high fever. He is reportedly given Last Rites. ](/news/2005/03/31/pope-john-paul-ii-s-condition-has-once-again-worsened-the-pontiff-84-suffers-from-a-drop-in-blood-pressure-and-a-high-fever-he-is-repor.md)
-_Context: Last Rites, fever, blood pressure, Pope John Paul II_
+_Context: blood pressure, Pope John Paul II, Last Rites, fever_
 
 ##### Terri Schiavo
 ### [ Terri Schiavo dies 13 days after her feeding tube was removed by court order in Florida, US. ](/news/2005/03/31/terri-schiavo-dies-13-days-after-her-feeding-tube-was-removed-by-court-order-in-florida-us.md)
@@ -17,15 +17,15 @@ _Context: Terri Schiavo, the state_
 
 ##### Matthew Nagle
 ### [ Matthew Nagle, a 25-year-old paralysed man, has become the first person known to have benefited from a microchip implanted into his brain which can "read" thoughts. He can think his TV on and off, change channels and alter the volume thanks to the technology and software linked to devices in his home.](/news/2005/03/31/matthew-nagle-a-25-year-old-paralysed-man-has-become-the-first-person-known-to-have-benefited-from-a-microchip-implanted-into-his-brain-w.md)
-_Context: Matthew Nagle, TV_
+_Context: TV, Matthew Nagle_
 
 ##### United Nations
 ### [ A UN report has stated that malnutrition rates in Iraqi children under five have almost doubled since the US-led invasion of Iraq. ](/news/2005/03/31/a-un-report-has-stated-that-malnutrition-rates-in-iraqi-children-under-five-have-almost-doubled-since-the-us-led-invasion-of-iraq.md)
-_Context: malnutrition, 2003 invasion of Iraq, United Nations_
+_Context: United Nations, 2003 invasion of Iraq, malnutrition_
 
 ##### United Nations
 ### [ The UN-backed Millennium Ecosystem Assessment, the most comprehensive survey of the Earth's ecological condition to date, finds that the condition of the world's ecosystems is deteriorating at a dangerous rate. There has been "substantial and largely irreversible" loss of biodiversity, the report says. Basic resources like timber, water, and food are at risk in some areas, and may be put at risk in more. ](/news/2005/03/31/the-un-backed-millennium-ecosystem-assessment-the-most-comprehensive-survey-of-the-earth-s-ecological-condition-to-date-finds-that-the-co.md)
-_Context: timber, ecosystem, food, biodiversity, United Nations, water, Millennium Ecosystem Assessment_
+_Context: biodiversity, ecosystem, Millennium Ecosystem Assessment, United Nations, food, timber, water_
 
 ##### Parliamentary elections
 ### [ The elections in Zimbabwe have proceeded with large queues seen at many polling stations. No violence has been reported, and Incumbent president Robert Mugabe of the ZANU-PF party has declared the elections to be free and fair. Opposition leader, Morgan Tsvangirai of the party MDC, disputes this, but still believes his party will win. The election has already been branded unfair by both the U.S. and the EU and their observers have been barred from monitoring the poll. Results are expected in two days.](/news/2005/03/31/the-elections-in-zimbabwe-have-proceeded-with-large-queues-seen-at-many-polling-stations-no-violence-has-been-reported-and-incumbent-pres.md)
@@ -49,11 +49,11 @@ Reuters.com is your online source for the latest U.S. news stories from coast to
 
 ##### South Africa
 ### [ In South Africa, Johannesburg's Labour Court rules that the mining strike of the 30,000 employees of mining company Gold Fields is "unlawful and unprotected" and orders them to go back to work. The National Union of Mineworkers states that it expects its members to obey the ruling ](/news/2005/03/31/in-south-africa-johannesburg-s-labour-court-rules-that-the-mining-strike-of-the-30-000-employees-of-mining-company-gold-fields-is-unlawfu.md)
-_Context: Labour Court, Johannesburg, Gold Fields, National Union of Mineworkers, South Africa_
+_Context: Gold Fields, Johannesburg, South Africa, Labour Court, National Union of Mineworkers_
 
 ##### Pakistan
 ### [ In Pakistan, Pakistan Oppressed Nations Movement organizes partial strikes in various cities to protest over Punjabi influence in the country ](/news/2005/03/31/in-pakistan-pakistan-oppressed-nations-movement-organizes-partial-strikes-in-various-cities-to-protest-over-punjabi-influence-in-the-count.md)
-_Context: Pakistan, Pakistan Oppressed Nations Movement, Punjab_
+_Context: Pakistan Oppressed Nations Movement, Pakistan, Punjab_
 
 ##### Ukraine
 ### [ In Ukraine, security service states that the death of former interior minister Yuri Kravchenko was probably suicide ](/news/2005/03/31/in-ukraine-security-service-states-that-the-death-of-former-interior-minister-yuri-kravchenko-was-probably-suicide.md)

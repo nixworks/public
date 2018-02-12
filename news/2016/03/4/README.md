@@ -25,11 +25,11 @@ Syrian rebel fighters seized a border crossing with Iraq from Islamic State on F
 
 ##### Electricity
 ### [Electricity is gradually being restored across Syria from a nationwide blackout that began early Thursday afternoon. Syria's Electricity Ministry says the electrical grid is expected to return to normal capacity by midnight. There is no immediate word on the cause. ](/news/2016/03/4/electricity-is-gradually-being-restored-across-syria-from-a-nationwide-blackout-that-began-early-thursday-afternoon-syria-s-electricity-min.md)
-_Context: Syria's Electricity Ministry, Electricity, electrical grid, Syria_
+_Context: electrical grid, Syria, Syria's Electricity Ministry, Electricity_
 
 ##### Indonesia
 ### [Five people, including an 18-month-old baby, are missing from an Indonesian ferryboat traveling from Bali to East Java that sank in the Bali Strait; 76 people have been rescued. ](/news/2016/03/4/five-people-including-an-18-month-old-baby-are-missing-from-an-indonesian-ferryboat-traveling-from-bali-to-east-java-that-sank-in-the-bali.md)
-_Context: Indonesia, East Java, Bali, Bali Strait_
+_Context: Bali, East Java, Bali Strait, Indonesia_
 
 ##### South China Sea disputes
 ### [The U.S. Navy dispatches a carrier strike group containing the Nimitz carrier nuclear-powered supercarrier John C. Stennis to the South China Sea. ](/news/2016/03/4/the-u-s-navy-dispatches-a-carrier-strike-group-containing-the-nimitz-carrier-nuclear-powered-supercarrier-john-c-stennis-to-the-south-chin.md)
@@ -65,7 +65,7 @@ Polling is underway in Samoa&#39;s general election.
 
 ##### Serbian parliamentary election, 2016
 ### [Serbian President Tomislav Nikolic, at the request of Serbian Prime Minister Aleksandar Vucic, dissolves Serbia's parliament and calls for early elections to take place on April 24. ](/news/2016/03/4/serbian-president-tomislav-nikolia-at-the-request-of-serbian-prime-minister-aleksandar-vuaia-dissolves-serbia-s-parliament-and-calls-fo.md)
-_Context: Serbian parliamentary election, 2016, National Assembly, Serbia, President of Serbia, Prime Minister of Serbia, Tomislav Nikolic, Aleksandar Vucic_
+_Context: National Assembly, Serbian parliamentary election, 2016, Serbia, President of Serbia, Prime Minister of Serbia, Aleksandar Vucic, Tomislav Nikolic_
 
 ##### 2016 U.S. presidential election
 ### [Ben Carson suspends his campaign for the Republican Party nomination. The expected announcement was made during a speech at the 2016 Conservative Political Action Conference (CPAC). ](/news/2016/03/4/ben-carson-suspends-his-campaign-for-the-republican-party-nomination-the-expected-announcement-was-made-during-a-speech-at-the-2016-conserv.md)

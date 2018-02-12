@@ -5,7 +5,7 @@ Formats: [HTML](2017/06/25/index.html)  [JSON](2017/06/25/index.json)  [XML](201
 
 ##### Israeli-Syrian ceasefire line incidents during the Syrian Civil War
 ### [Israel strikes two Syrian Army artillery positions and an ammunition truck in Quneitra Governorate, after stray shells from Syria land in the northern Golan Heights for a second day in a row. ](/news/2017/06/25/israel-strikes-two-syrian-army-artillery-positions-and-an-ammunition-truck-in-quneitra-governorate-after-stray-shells-from-syria-land-in-th.md)
-_Context: Golan Heights, Israeli-Syrian ceasefire line incidents during the Syrian Civil War, Syria, Syrian Army, Israel, Quneitra Governorate_
+_Context: Israel, Israeli-Syrian ceasefire line incidents during the Syrian Civil War, Syria, Golan Heights, Syrian Army, Quneitra Governorate_
 
 ##### 2017 Bahawalpur explosion
 ### [Over 150 people die and dozens are injured, many critically, when an oil tanker truck overturns and explodes as people from surrounding villages gather around the truck to collect the spilling oil. The accident happened in Bahawalpur, eastern Pakistan. ](/news/2017/06/25/over-150-people-die-and-dozens-are-injured-many-critically-when-an-oil-tanker-truck-overturns-and-explodes-as-people-from-surrounding-vill.md)
@@ -25,15 +25,15 @@ A flotilla of boats and the air force went to the aid of vessel that sank with a
 
 ##### 2017 Qatar diplomatic crisis
 ### [The Bahrain News Agency publishes an official list of the demands from Saudi Arabia, Bahrain, the United Arab Emirates and Egypt towards Qatar. Turkey says the demands on Qatar are unlawful. ](/news/2017/06/25/the-bahrain-news-agency-publishes-an-official-list-of-the-demands-from-saudi-arabia-bahrain-the-united-arab-emirates-and-egypt-towards-qat.md)
-_Context: United Arab Emirates, Bahrain, Egypt, Saudi Arabia, 2017 Qatar diplomatic crisis, Bahrain News Agency, Qatar, Turkey_
+_Context: United Arab Emirates, Bahrain, Qatar, Egypt, Bahrain News Agency, Turkey, 2017 Qatar diplomatic crisis, Saudi Arabia_
 
 ##### Albanian parliamentary election, 2017
 ### [Voters in Albania go to the polls in an election important to the country's European Union candidacy, with both the ruling Socialist Party and the rival Democratic Party looking to gain a majority in the country's parliament. Voting is extended by one hour because of Eid al-Fitr celebrations and 39{{nbsp}}degC (102{{nbsp}}degF) degree temperatures. ](/news/2017/06/25/voters-in-albania-go-to-the-polls-in-an-election-important-to-the-country-s-european-union-candidacy-with-both-the-ruling-socialist-party-a.md)
-_Context: Albania, parliament, Socialist Party, Democratic Party, Albanian parliamentary election, 2017, European Union candidacy, Eid al-Fitr_
+_Context: Eid al-Fitr, parliament, Democratic Party, European Union candidacy, Albanian parliamentary election, 2017, Socialist Party, Albania_
 
 ##### Politics of Syria
 ### [In the first declared visit to the town since the beginning of the war, President Bashar al-Assad attends the Eid al-Fitr prayer in Hama. ](/news/2017/06/25/in-the-first-declared-visit-to-the-town-since-the-beginning-of-the-war-president-bashar-al-assad-attends-the-eid-al-fitr-prayer-in-hama.md)
-_Context: Bashar al-Assad, Politics of Syria, Hama, Syrian Civil War, Eid al-Fitr_
+_Context: Eid al-Fitr, Syrian Civil War, Bashar al-Assad, Hama, Politics of Syria_
 
 ## [Previous Day...](/news/2017/06/24/index.md)
 

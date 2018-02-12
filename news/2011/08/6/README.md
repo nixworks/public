@@ -9,7 +9,7 @@ _Context: Gulf Co-operation Council, 2011 Syrian uprising_
 
 ##### Islamist
 ### [The Islamist al-Shabaab rebels in Somalia pull out of the capital Mogadishu. ](/news/2011/08/6/the-islamist-al-shabaab-rebels-in-somalia-pull-out-of-the-capital-mogadishu.md)
-_Context: Islamist, Mogadishu, Al-Shabaab, Somalia_
+_Context: Al-Shabaab, Somalia, Islamist, Mogadishu_
 
 ##### Saudi Arabia
 ### [Police in Saudi Arabia shoot dead a gunman who fired at the palace of Prince Nayef bin Abdul-Aziz Al Saud in Jeddah. ](/news/2011/08/6/police-in-saudi-arabia-shoot-dead-a-gunman-who-fired-at-the-palace-of-prince-nayef-bin-abdul-aziz-al-saud-in-jeddah.md)
@@ -29,7 +29,7 @@ _Context: Typhoon Muifa, China_
 
 ##### Asylum seekers
 ### [Asylum seekers at the Christmas Island Immigration Reception and Processing Centre off the Indian Ocean coast of Western Australia start a hunger strike in protest at their deportation to Malaysia. ](/news/2011/08/6/asylum-seekers-at-the-christmas-island-immigration-reception-and-processing-centre-off-the-indian-ocean-coast-of-western-australia-start-a-h.md)
-_Context: hunger strike, Indian, asylum seekers, Western Australia, Christmas Island Immigration Reception and Processing Centre, Malaysia_
+_Context: Malaysia, Western Australia, Indian, hunger strike, asylum seekers, Christmas Island Immigration Reception and Processing Centre_
 
 ## [Previous Day...](/news/2011/08/5/index.md)
 

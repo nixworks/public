@@ -21,7 +21,7 @@ BEIRUT (AFP) - A US-backed Arab-Kurdish alliance advanced Wednesday (Dec 21) to 
 
 ##### James Taylor
 ### [Musician James Taylor cancels a concert in Manila to protest the ongoing drug war. ](/news/2016/12/21/musician-james-taylor-cancels-a-concert-in-manila-to-protest-the-ongoing-drug-war.md)
-_Context: Manila, James Taylor, drug crackdown_
+_Context: James Taylor, drug crackdown, Manila_
 
 ##### Financial Industry Regulatory Authority
 ### [The U.S. Financial Industry Regulatory Authority fines several companies, including Wells Fargo, RBC Capital Markets, and LPL Financial, a combined $14.4 million for record-keeping problems that could have allowed company and customer documents to be altered. ](/news/2016/12/21/the-u-s-financial-industry-regulatory-authority-fines-several-companies-including-wells-fargo-rbc-capital-markets-and-lpl-financial-a-c.md)
@@ -57,7 +57,7 @@ It is the first time an anti-discrimination bill reaches the Senate plenary
 
 ##### Operation Car Wash
 ### [Brazilian construction firm Odebrecht and affiliated petrochemical company Braskem plead guilty of violating American foreign bribery laws in connection with the Petrobras deal. ](/news/2016/12/21/brazilian-construction-firm-odebrecht-and-affiliated-petrochemical-company-braskem-plead-guilty-of-violating-american-foreign-bribery-laws-i.md)
-_Context: Petrobras, construction, petrochemical, Odebrecht, Brazil, Operation Car Wash, American foreign bribery laws, Braskem_
+_Context: American foreign bribery laws, petrochemical, Petrobras, Odebrecht, construction, Operation Car Wash, Brazil, Braskem_
 
 ##### DuPont
 ### [ A federal jury orders DuPont to pay $2 million to a man with testicular cancer after finding the company liable for diseases linked to C8, a Teflon-making chemical. ](/news/2016/12/21/a-federal-jury-orders-dupont-to-pay-2-million-to-a-man-with-testicular-cancer-after-finding-the-company-liable-for-diseases-linked-to-c8.md)
@@ -73,11 +73,11 @@ Turkey suspended nearly 2,000 teachers and school employees on Wednesday, an off
 
 ##### Gambian presidential election, 2016
 ### [Gambia's Chief Justice sets January 10, 2017, for the hearing by the Supreme Court, made up of judges from Nigeria and Sierra Leone, of President Yahya Jammeh's ruling party's legal challenge of the December 1 election results. ](/news/2016/12/21/gambia-s-chief-justice-sets-january-10-2017-for-the-hearing-by-the-supreme-court-made-up-of-judges-from-nigeria-and-sierra-leone-of-pres.md)
-_Context: Gambian presidential election, 2016, Sierra Leone, Yahya Jammeh, President, Nigeria_
+_Context: Gambian presidential election, 2016, Yahya Jammeh, President, Sierra Leone, Nigeria_
 
 ##### Presidential transition of Donald Trump
 ### [President-elect Donald Trump names Carl Icahn as the Special Advisor to the President on Regulatory Reform. ](/news/2016/12/21/president-elect-donald-trump-names-carl-icahn-as-the-special-advisor-to-the-president-on-regulatory-reform.md)
-_Context: Donald Trump, Presidential transition of Donald Trump, Carl Icahn, President-elect_
+_Context: Donald Trump, Carl Icahn, Presidential transition of Donald Trump, President-elect_
 
 ##### Sahara
 ### [ Snow falls in the Sahara desert for the first time in 37 years. ](/news/2016/12/21/snow-falls-in-the-sahara-desert-for-the-first-time-in-37-years.md)

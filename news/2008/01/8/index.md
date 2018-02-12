@@ -5,7 +5,7 @@ Formats: [HTML](2008/01/8/index.html)  [JSON](2008/01/8/index.json)  [XML](2008/
 
 ##### Voters
 ### [ Voters in New Hampshire go to the polls for the first primary election to determine presidential nominees for the Democratic and Republican parties. New York Senator Hillary Clinton wins the Democratic primary. Arizona Senator John McCain wins the Republican primary. ](/news/2008/01/8/voters-in-new-hampshire-go-to-the-polls-for-the-first-primary-election-to-determine-presidential-nominees-for-the-democratic-and-republican.md)
-_Context: United States Senate, Voters, go to the polls, Hillary Clinton, John McCain, Arizona, New Hampshire, primary election, New York, Democratic primary, Republican primary, Democrat, Republican_
+_Context: Arizona, Republican primary, Democrat, Voters, primary election, United States Senate, New Hampshire, Democratic primary, John McCain, Hillary Clinton, go to the polls, New York, Republican_
 
 ##### Relief pitcher
 ### [ Former relief pitcher Rich Gossage is elected to the Baseball Hall of Fame. ](/news/2008/01/8/former-relief-pitcher-rich-gossage-is-elected-to-the-baseball-hall-of-fame.md)

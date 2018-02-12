@@ -13,7 +13,7 @@ _Context: Baghdad_
 
 ##### United Nations
 ### [The United Nations appeals for $4.4 billion of aid for refugees, the largest such request in the UN's history. ](/news/2013/06/7/the-united-nations-appeals-for-4-4-billion-of-aid-for-refugees-the-largest-such-request-in-the-un-s-history.md)
-_Context: United States dollars, United Nations_
+_Context: United Nations, United States dollars_
 
 ##### Bolivia
 ### [A suspected rapist is attacked and buried alive by an angry mob in Bolivia. ](/news/2013/06/7/a-suspected-rapist-is-attacked-and-buried-alive-by-an-angry-mob-in-bolivia.md)
@@ -21,7 +21,7 @@ A mob in a Bolivian town buried alive a teenager alongside the body of a woman t
 
 ##### Opens fire
 ### [A gunman opens fire at Santa Monica College in Santa Monica, California, after setting a house on fire nearby, killing five people, including the suspect. ](/news/2013/06/7/a-gunman-opens-fire-at-santa-monica-college-in-santa-monica-california-after-setting-a-house-on-fire-nearby-killing-five-people-includin.md)
-_Context: California, Santa Monica, opens fire, Santa Monica College_
+_Context: opens fire, Santa Monica College, California, Santa Monica_
 
 ##### Assam
 ### [Villagers in Assam kill a 55-year-old man suspected of practicing black magic to "appease" a goddess. ](/news/2013/06/7/villagers-in-assam-kill-a-55-year-old-man-suspected-of-practicing-black-magic-to-appease-a-goddess.md)
@@ -29,7 +29,7 @@ _Context: Assam_
 
 ##### Elizabeth II
 ### [Elizabeth II appears in the BBC newsroom behind the BBC News Channel's newsreaders while they are live on air. ](/news/2013/06/7/elizabeth-ii-appears-in-the-bbc-newsroom-behind-the-bbc-news-channel-s-newsreaders-while-they-are-live-on-air.md)
-_Context: BBC News Channel, Elizabeth II_
+_Context: Elizabeth II, BBC News Channel_
 
 ##### Bangkok
 ### [Bangkok tops the list of world's most visited cities. ](/news/2013/06/7/bangkok-tops-the-list-of-world-s-most-visited-cities.md)
@@ -65,7 +65,7 @@ _Context: Nha Trang_
 
 ##### Breast milk
 ### [Breast milk boosts brain development by 30%, as compared to formula-fed babies, according to a new study. ](/news/2013/06/7/breast-milk-boosts-brain-development-by-30-as-compared-to-formula-fed-babies-according-to-a-new-study.md)
-_Context: Breast milk, formula_
+_Context: formula, Breast milk_
 
 ##### Barack Obama
 ### [U.S. president Barack Obama and Chinese president Xi Jinping begin a two-day meeting of Sino-American relations. ](/news/2013/06/7/u-s-president-barack-obama-and-chinese-president-xi-jinping-begin-a-two-day-meeting-of-sino-american-relations.md)
@@ -73,7 +73,7 @@ Chinese President Xi Jinping and his US counterpart Barack Obama open two days o
 
 ##### David Cameron
 ### [UK premier David Cameron attracts criticism for attending the 61st annual summit of the secretive Bilderberg Group at The Grove, Watford. ](/news/2013/06/7/uk-premier-david-cameron-attracts-criticism-for-attending-the-61st-annual-summit-of-the-secretive-bilderberg-group-at-the-grove-watford.md)
-_Context: the 61st annual summit, The Grove, Watford, Bilderberg Group, David Cameron_
+_Context: The Grove, Watford, David Cameron, the 61st annual summit, Bilderberg Group_
 
 ##### 
 ### [The US government comes under heavy criticism at home and abroad when news of its secret PRISM surveillance program to monitor emails and other person information is leaked. ](/news/2013/06/7/the-us-government-comes-under-heavy-criticism-at-home-and-abroad-when-news-of-its-secret-prism-surveillance-program-to-monitor-emails-and-ot.md)
@@ -91,7 +91,7 @@ _Context: Khmer Rouge_
 
 ##### Televised debate
 ### [Candidates hold a third and final televised debate, giving their plans on domestic and foreign policies and also criticizing Mahmoud Ahmadinejad's nuclear and human rights policies. ](/news/2013/06/7/candidates-hold-a-third-and-final-televised-debate-giving-their-plans-on-domestic-and-foreign-policies-and-also-criticizing-mahmoud-ahmadin.md)
-_Context: televised debate, Mahmoud Ahmadinejad, Human rights in Iran, Iranian government, Foreign relations of Iran, nuclear program_
+_Context: Human rights in Iran, televised debate, nuclear program, Mahmoud Ahmadinejad, Iranian government, Foreign relations of Iran_
 
 ## [Previous Day...](/news/2013/06/6/index.md)
 

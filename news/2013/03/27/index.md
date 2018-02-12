@@ -9,11 +9,11 @@ Five people are reported killed as Thai government begins talks with separatists
 
 ##### Government
 ### [The Government of Mali announces that 63 of their soldiers have been killed fighting jihadists since the French led intervention Operation Serval in January 2013. ](/news/2013/03/27/the-government-of-mali-announces-that-63-of-their-soldiers-have-been-killed-fighting-jihadists-since-the-french-led-intervention-operation-s.md)
-_Context: Operation Serval, Government, Mali, January 2013, France_
+_Context: Mali, January 2013, Operation Serval, France, Government_
 
 ##### Greece
 ### [A bomb explodes outside the residence of a Greek shipowner near Acropolis in central Athens; no one is injured. ](/news/2013/03/27/a-bomb-explodes-outside-the-residence-of-a-greek-shipowner-near-acropolis-in-central-athens-no-one-is-injured.md)
-_Context: Greece, Acropolis, Athens_
+_Context: Greece, Athens, Acropolis_
 
 ##### The Rolling Stones
 ### [The Rolling Stones are to headline Glastonbury Festival 2013 in Pilton, Somerset, England. ](/news/2013/03/27/the-rolling-stones-are-to-headline-glastonbury-festival-2013-in-pilton-somerset-england.md)
@@ -25,11 +25,11 @@ _Context: National Poetry Competition_
 
 ##### Kate Tempest
 ### [Kate Tempest wins the 2013 Ted Hughes Award for innovation in poetry. ](/news/2013/03/27/kate-tempest-wins-the-2013-ted-hughes-award-for-innovation-in-poetry.md)
-_Context: Kate Tempest, Ted Hughes Award, poetry_
+_Context: Ted Hughes Award, poetry, Kate Tempest_
 
 ##### 2013 Nantou earthquake
 ### [2013 Nantou earthquake: At least one person is killed and 19 others are injured when a 6.0-magnitude earthquake strikes near Taipei, Taiwan, causing a fire and shaking buildings. ](/news/2013/03/27/2013-nantou-earthquake-at-least-one-person-is-killed-and-19-others-are-injured-when-a-6-0-magnitude-earthquake-strikes-near-taipei-taiwan.md)
-_Context: Taipei, Taiwan, 2013 Nantou earthquake, earthquake, magnitude, hits_
+_Context: Taiwan, magnitude, Taipei, 2013 Nantou earthquake, earthquake, hits_
 
 ##### Tornado
 ### [A mini-tornado in the Philippines kills 12 people when a motorboat capsized. ](/news/2013/03/27/a-mini-tornado-in-the-philippines-kills-12-people-when-a-motorboat-capsized.md)
@@ -57,11 +57,11 @@ _Context: Oscar Pistorius_
 
 ##### Wildlife
 ### [Wildlife officials in Cameroon find over 40 elephant carcasses, clustered in Nki and Lobeke national parks, with a horseback-riding band of about 300 poachers from Sudan being the chief suspects. ](/news/2013/03/27/wildlife-officials-in-cameroon-find-over-40-elephant-carcasses-clustered-in-nki-and-lobeke-national-parks-with-a-horseback-riding-band-of.md)
-_Context: elephant, Cameroon, Sudan, poachers, Nki, Lobeke, Wildlife_
+_Context: Lobeke, Sudan, elephant, Wildlife, Cameroon, poachers, Nki_
 
 ##### Spam-fighting group
 ### [A row between a spam-fighting group and the hosting firm CyberBunker sparks retaliatory attacks, flooding core infrastructure of the Internet, in what security experts are describing as the biggest cyberattack in history. ](/news/2013/03/27/a-row-between-a-spam-fighting-group-and-the-hosting-firm-cyberbunker-sparks-retaliatory-attacks-flooding-core-infrastructure-of-the-interne.md)
-_Context: hosting firm, CyberBunker, cyberattack, spam-fighting group, Internet_
+_Context: spam-fighting group, CyberBunker, Internet, hosting firm, cyberattack_
 
 ##### Wales
 ### [Police in Wales says they will call off the search for missing April Jones in about a month. ](/news/2013/03/27/police-in-wales-says-they-will-call-off-the-search-for-missing-april-jones-in-about-a-month.md)

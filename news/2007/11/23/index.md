@@ -9,11 +9,11 @@ _Context: European Union, Bronislaw Komorowski, Reform Treaty_
 
 ##### Supreme Court
 ### [ The Supreme Court of Pakistan orders the Election Commission to declare Pervez Musharraf the winner in the 2007 Pakistani presidential election. ](/news/2007/11/23/the-supreme-court-of-pakistan-orders-the-election-commission-to-declare-pervez-musharraf-the-winner-in-the-2007-pakistani-presidential-elec.md)
-_Context: Pervez Musharraf, Supreme Court, Election Commission, 2007 Pakistani presidential election_
+_Context: 2007 Pakistani presidential election, Supreme Court, Pervez Musharraf, Election Commission_
 
 ##### Lebanese
 ### [ The term of Lebanese President Emile Lahoud ends with no successor and a political dispute over who is in power. ](/news/2007/11/23/the-term-of-lebanese-president-amile-lahoud-ends-with-no-successor-and-a-political-dispute-over-who-is-in-power.md)
-_Context: Lebanese, Emile Lahoud, President of Lebanon_
+_Context: Lebanese, President of Lebanon, Emile Lahoud_
 
 ##### Copenhagen
 ### [ A court in Copenhagen, Denmark, convicts three men for plotting terrorist attacks using triacetone triperoxide. ](/news/2007/11/23/a-court-in-copenhagen-denmark-convicts-three-men-for-plotting-terrorist-attacks-using-triacetone-triperoxide.md)
@@ -21,19 +21,19 @@ _Context: triacetone triperoxide, Copenhagen, terrorist attack_
 
 ##### Israel
 ### [ An Israeli psychiatrist and reserve officer is charged with giving classified information to Iran, Russia and Hamas. ](/news/2007/11/23/an-israeli-psychiatrist-and-reserve-officer-is-charged-with-giving-classified-information-to-iran-russia-and-hamas.md)
-_Context: reserve, classified information, Hamas, Iran, Israel, psychiatrist, officer_
+_Context: classified information, Hamas, Iran, officer, reserve, Israel, psychiatrist_
 
 ##### Senate
 ### [ The Senate of Nigeria declares the handover of the Bakassi peninsula to Cameroon was "illegal". ](/news/2007/11/23/the-senate-of-nigeria-declares-the-handover-of-the-bakassi-peninsula-to-cameroon-was-illegal.md)
-_Context: Senate, Bakassi, peninsula, Cameroon, handover, Nigeria_
+_Context: Bakassi, Nigeria, Senate, handover, peninsula, Cameroon_
 
 ##### Ghazil
 ### [ A bomb explosion kills at least 13 people and hurts 50 in the Ghazil pet market of Baghdad, Iraq. ](/news/2007/11/23/a-bomb-explosion-kills-at-least-13-people-and-hurts-50-in-the-ghazil-pet-market-of-baghdad-iraq.md)
-_Context: Baghdad, Iraq, Ghazil_
+_Context: Ghazil, Iraq, Baghdad_
 
 ##### European Centre for Disease Prevention and Control
 ### [ The European Centre for Disease Prevention and Control finds that the rate of new cases of AIDS in Europe has doubled since 1999. ](/news/2007/11/23/the-european-centre-for-disease-prevention-and-control-finds-that-the-rate-of-new-cases-of-aids-in-europe-has-doubled-since-1999.md)
-_Context: rate, AIDS, European Centre for Disease Prevention and Control_
+_Context: AIDS, rate, European Centre for Disease Prevention and Control_
 
 ##### Louise Christian
 ### [ Louise Christian, the lawyer for Alexander Litvinenko's wife, reveals that the polonium-210 that killed him probably came from a Russian nuclear plant. ](/news/2007/11/23/louise-christian-the-lawyer-for-alexander-litvinenko-s-wife-reveals-that-the-polonium-210-that-killed-him-probably-came-from-a-russian-nu.md)
@@ -41,11 +41,11 @@ _Context: polonium-210, Alexander Litvinenko, nuclear plant, Louise Christian_
 
 ##### Paris Metro
 ### [ Many employees of Paris Metro cross picket lines and return to work, defying the ongoing public-sector strikes. Transit officials report near-normal operation. ](/news/2007/11/23/many-employees-of-paris-ma-c-tro-cross-picket-lines-and-return-to-work-defying-the-ongoing-public-sector-strikes-transit-officials-report-n.md)
-_Context: Paris Metro, public-sector strikes_
+_Context: public-sector strikes, Paris Metro_
 
 ##### Typhoon Mitag
 ### [ Typhoon Mitag remains stationary but threatens the Bicol Region, east of the Philippines, and is expected to make landfall in Virac, Catanduanes tomorrow. ](/news/2007/11/23/typhoon-mitag-remains-stationary-but-threatens-the-bicol-region-east-of-the-philippines-and-is-expected-to-make-landfall-in-virac-catand.md)
-_Context: Catanduanes, Philippines, Virac, landfall, Bicol Region, Typhoon Mitag_
+_Context: landfall, Catanduanes, Virac, Philippines, Bicol Region, Typhoon Mitag_
 
 ## [Previous Day...](/news/2007/11/22/index.md)
 

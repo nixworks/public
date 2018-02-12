@@ -25,7 +25,7 @@ _Context: Bangladesh_
 
 ##### Afghanistan
 ### [At least 30 people die in southern Afghanistan after a bus crashes into the wreckage of a truck attacked by Taliban insurgents. ](/news/2013/04/26/at-least-30-people-die-in-southern-afghanistan-after-a-bus-crashes-into-the-wreckage-of-a-truck-attacked-by-taliban-insurgents.md)
-_Context: Taliban, Afghanistan_
+_Context: Afghanistan, Taliban_
 
 ##### South Korea
 ### [South Korea announces that it will withdraw its remaining workers from North Korea's Kaesong Industrial Region to protect their safety after the North Korean government rejects talks. ](/news/2013/04/26/south-korea-announces-that-it-will-withdraw-its-remaining-workers-from-north-korea-s-kaesong-industrial-region-to-protect-their-safety-after.md)
@@ -37,7 +37,7 @@ _Context: White House, Syria, American_
 
 ##### Boston Marathon bombings
 ### [Boston Marathon bombings suspect Dzhokhar Tsarnaev is transferred from Beth Israel Deaconess Medical Center to the federal prison facility in Fort Devens in the U.S. state of Massachusetts. ](/news/2013/04/26/boston-marathon-bombings-suspect-dzhokhar-tsarnaev-is-transferred-from-beth-israel-deaconess-medical-center-to-the-federal-prison-facility-i.md)
-_Context: U.S., facility, Fort Devens, Massachusetts, federal prison, Beth Israel Deaconess Medical Center, Boston Marathon bombings, Dzhokhar Tsarnaev_
+_Context: federal prison, Dzhokhar Tsarnaev, U.S., facility, Boston Marathon bombings, Beth Israel Deaconess Medical Center, Fort Devens, Massachusetts_
 
 ##### Birmingham
 ### [Eleven members of a Birmingham, United Kingdom, terror cell are jailed for planning an attack to rival the 7 July and 9-11 atrocities. ](/news/2013/04/26/eleven-members-of-a-birmingham-united-kingdom-terror-cell-are-jailed-for-planning-an-attack-to-rival-the-7-july-and-9-11-atrocities.md)

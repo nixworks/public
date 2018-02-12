@@ -53,7 +53,7 @@ There&#8217;s now only one day to go until voting starts for the 2014 European P
 
 ##### Prayuth Chan-ocha
 ### [Thailand's army chief Prayuth Chan-ocha announces a coup d'etat, saying the military is taking control of government. ](/news/2014/05/22/thailand-s-army-chief-prayuth-chan-ocha-announces-a-coup-d-a-c-tat-saying-the-military-is-taking-control-of-government.md)
-_Context: Prayuth Chan-ocha, military coup_
+_Context: military coup, Prayuth Chan-ocha_
 
 ##### United Kingdom local elections, 2014
 ### [Voters in the United Kingdom go to the polls for local elections with the United Kingdom Independence Party making strong gains. ](/news/2014/05/22/voters-in-the-united-kingdom-go-to-the-polls-for-local-elections-with-the-united-kingdom-independence-party-making-strong-gains.md)

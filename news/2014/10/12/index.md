@@ -5,15 +5,15 @@ Formats: [HTML](2014/10/12/index.html)  [JSON](2014/10/12/index.json)  [XML](201
 
 ##### ISIL
 ### [Islamic State claims responsibility for a triple suicide bombing in Iraq's Diyala Province that killed 26 Kurds as well as an attack in Anbar Province that killed the head of security. ](/news/2014/10/12/islamic-state-claims-responsibility-for-a-triple-suicide-bombing-in-iraq-s-diyala-province-that-killed-26-kurds-as-well-as-an-attack-in-anba.md)
-_Context: suicide bombing, ISIL, Diyala Province, Kurdish, Anbar Province, Iraq_
+_Context: suicide bombing, Iraq, Diyala Province, Anbar Province, Kurdish, ISIL_
 
 ##### Post-civil war violence in Libya
 ### [At least 21 people die in Libyan tribal clashes on the weekend. ](/news/2014/10/12/at-least-21-people-die-in-libyan-tribal-clashes-on-the-weekend.md)
-_Context: Libya, Post-civil war violence in Libya_
+_Context: Post-civil war violence in Libya, Libya_
 
 ##### Nigeria
 ### [At least 26 people have been killed in tribal clashes in Nigeria's Plateau State over the past week. ](/news/2014/10/12/at-least-26-people-have-been-killed-in-tribal-clashes-in-nigeria-s-plateau-state-over-the-past-week.md)
-_Context: Plateau State, Nigeria_
+_Context: Nigeria, Plateau State_
 
 ##### 2014 Pacific typhoon season
 ### [At least 28 people are injured on the Japanese islands of Okinawa and Kyushu with 150,000 evacuated as Typhoon Vongfong approaches. ](/news/2014/10/12/at-least-28-people-are-injured-on-the-japanese-islands-of-okinawa-and-kyushu-with-150-000-evacuated-as-typhoon-vongfong-approaches.md)
@@ -25,11 +25,11 @@ The cyclone, which crossed the Visakhapatnam coast, seems to be in a period of l
 
 ##### 2014 United States Ebola virus outbreak
 ### [A Texas nurse tests positive for Ebola. The health care worker is the first person to contract the disease in the United States of America, the first infection in the US to occur by secondary contact, and the second in the world sickened from exposure outside of the African continent. ](/news/2014/10/12/a-texas-nurse-tests-positive-for-ebola-the-health-care-worker-is-the-first-person-to-contract-the-disease-in-the-united-states-of-america.md)
-_Context: 2014 United States Ebola virus outbreak, United States of America, Texas_
+_Context: United States of America, 2014 United States Ebola virus outbreak, Texas_
 
 ##### Bosnia and Herzegovina general election, 2014
 ### [Bakir Izetbegovic and Dragan Covic appear to have won the Bosniak and Croat seat in the presidency while the race for the Serb seat is still too close to call. ](/news/2014/10/12/bakir-izetbegovia-and-dragan-aovia-appear-to-have-won-the-bosniak-and-croat-seat-in-the-presidency-while-the-race-for-the-serb-seat-is-st.md)
-_Context: Croat, Serb, Bakir Izetbegovic, presidency, Dragan Covic, Bosniaks, Bosnia and Herzegovina general election, 2014_
+_Context: Serb, Croat, Dragan Covic, Bosniaks, Bosnia and Herzegovina general election, 2014, presidency, Bakir Izetbegovic_
 
 ##### Re-elected
 ### [Voters in Bolivia go to the polls for a general election with incumbent President Evo Morales winning in a landslide with 60 per cent of the vote. ](/news/2014/10/12/voters-in-bolivia-go-to-the-polls-for-a-general-election-with-incumbent-president-evo-morales-winning-in-a-landslide-with-60-per-cent-of-the.md)

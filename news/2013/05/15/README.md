@@ -13,7 +13,7 @@ Syrian rebel fighters launch an attack on Aleppo prison, and government forces r
 
 ##### DR Congo
 ### [A rebel attack on army positions in the eastern Democratic Republic of the Congo town of Beni leaves at least 31 people dead, including 23 Mai Mai and three FARDC troops. ](/news/2013/05/15/a-rebel-attack-on-army-positions-in-the-eastern-democratic-republic-of-the-congo-town-of-beni-leaves-at-least-31-people-dead-including-23-m.md)
-_Context: Beni, FARDC, Mai Mai, DR Congo_
+_Context: Mai Mai, Beni, DR Congo, FARDC_
 
 ##### Americans
 ### [American graphic designer Richard Swanson dies after being struck by a pickup truck in Oregon while attempting to dribble a soccer ball all the way to Brazil to raise money for charity. ](/news/2013/05/15/american-graphic-designer-richard-swanson-dies-after-being-struck-by-a-pickup-truck-in-oregon-while-attempting-to-dribble-a-soccer-ball-all.md)
@@ -41,7 +41,7 @@ The Bank of England upgrades its economic growth forecast, but separate figures 
 
 ##### Myanmar
 ### [Authorities in Myanmar and Bangladesh prepare for the arrival of Cyclone Mahasen, which has already killed at least seven people and displaced nearly 4,000 in Sri Lanka. ](/news/2013/05/15/authorities-in-myanmar-and-bangladesh-prepare-for-the-arrival-of-cyclone-mahasen-which-has-already-killed-at-least-seven-people-and-displac.md)
-_Context: Bangladesh, Cyclone Mahasen, Myanmar, Sri Lanka_
+_Context: Sri Lanka, Bangladesh, Myanmar, Cyclone Mahasen_
 
 ##### Granbury, Texas
 ### [A tornado hits Granbury, Texas, United States, killing several people and injuring at least 100. ](/news/2013/05/15/a-tornado-hits-granbury-texas-united-states-killing-several-people-and-injuring-at-least-100.md)
@@ -49,11 +49,11 @@ _Context: Granbury, Texas, American_
 
 ##### U.S.
 ### [The jury in the U.S. state of Arizona that convicted Jodi Arias of first-degree murder last week quickly decide that she should either face the death penalty or life in prison without parole during the penalty phase of trial. ](/news/2013/05/15/the-jury-in-the-u-s-state-of-arizona-that-convicted-jodi-arias-of-first-degree-murder-last-week-quickly-decide-that-she-should-either-face.md)
-_Context: U.S., sentenced to death, life in prison without parole, Jodi Arias, first-degree murder, Arizona_
+_Context: sentenced to death, life in prison without parole, Arizona, first-degree murder, Jodi Arias, U.S._
 
 ##### U.S.
 ### [According to the U.S. ATF, no evidence has yet been found that a bomb blast was responsible for the April West Fertilizer Company explosion that killed fifteen people in West, Texas. ](/news/2013/05/15/according-to-the-u-s-atf-no-evidence-has-yet-been-found-that-a-bomb-blast-was-responsible-for-the-april-west-fertilizer-company-explosion.md)
-_Context: West, Texas, Bureau of Alcohol, Tobacco, Firearms and Explosives, West Fertilizer Company explosion, U.S._
+_Context: Bureau of Alcohol, Tobacco, Firearms and Explosives, U.S., West, Texas, West Fertilizer Company explosion_
 
 ##### China
 ### [China, India, and four other nations join the Arctic Council with observer status. ](/news/2013/05/15/china-india-and-four-other-nations-join-the-arctic-council-with-observer-status.md)

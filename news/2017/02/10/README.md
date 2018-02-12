@@ -45,7 +45,7 @@ Major funding commitment to help ‘virtually bankrupt’ country shake off lega
 
 ##### Peru
 ### [A judge in Peru issues an arrest warrant for former President Alejandro Toledo for allegedly receiving US$20 million in bribes from Odebrecht, a Brazilian construction company, in exchange for a contract deal to build a transoceanic highway between Brazil and the Peruvian coast. Toledo denies any wrongdoing. ](/news/2017/02/10/a-judge-in-peru-issues-an-arrest-warrant-for-former-president-alejandro-toledo-for-allegedly-receiving-us-20-million-in-bribes-from-odebrech.md)
-_Context: bribes, President, Alejandro Toledo, Peru, Odebrecht, $, Brazil_
+_Context: Odebrecht, President, Peru, Brazil, Alejandro Toledo, bribes, $_
 
 ##### Cabinet of Donald Trump
 ### [The United States Senate, in a 52 to 47 vote, confirms physician and U.S. Representative Tom Price to be Secretary of Health and Human Services. ](/news/2017/02/10/the-united-states-senate-in-a-52-to-47-vote-confirms-physician-and-u-s-representative-tom-price-to-be-secretary-of-health-and-human-servi.md)

@@ -13,7 +13,7 @@ _Context: suicide, Japan_
 
 ##### China
 ### [ China sentences activist Liu Xiaobo to 11 years in prison for "subversion of state power". ](/news/2009/12/25/china-sentences-activist-liu-xiaobo-to-11-years-in-prison-for-subversion-of-state-power.md)
-_Context: Liu Xiaobo, China, subverting_
+_Context: Liu Xiaobo, subverting, China_
 
 ##### China
 ### [ China's National Bureau of Statistics revised the growth rate of its gross domestic product (GDP) for 2008 to 9.6 percent from 9 percent. ](/news/2009/12/25/china-s-national-bureau-of-statistics-revised-the-growth-rate-of-its-gross-domestic-product-gdp-for-2008-to-9-6-percent-from-9-percent.md)

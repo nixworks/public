@@ -5,7 +5,7 @@ Formats: [HTML](2006/07/27/index.html)  [JSON](2006/07/27/index.json)  [XML](200
 
 ##### Somalia
 ### [ Somalia's interim government unravels as at least 20 government members resign, most being parliament members, accusing the country's virtually powerless government of failing to bring peace. ](/news/2006/07/27/somalia-s-interim-government-unravels-as-at-least-20-government-members-resign-most-being-parliament-members-accusing-the-country-s-virtu.md)
-_Context: resign, Somalia_
+_Context: Somalia, resign_
 
 ##### DR Congo
 ### [ The three main militia groups in the troubled DR Congo eastern province of Ituri have agreed to lay down arms and begin integrating into the Congolese army.](/news/2006/07/27/the-three-main-militia-groups-in-the-troubled-dr-congo-eastern-province-of-ituri-have-agreed-to-lay-down-arms-and-begin-integrating-into-th.md)
@@ -21,11 +21,11 @@ _Context: Rome, Italy, Venice Biennale, Venice Film Festival_
 
 ##### 2006 Kodori crisis
 ### [ 2006 Kodori crisis: the rebel renegade Emzar Kvitsiani escapes as one civilian gets killed in the fighting. ](/news/2006/07/27/2006-kodori-crisis-the-rebel-renegade-emzar-kvitsiani-escapes-as-one-civilian-gets-killed-in-the-fighting.md)
-_Context: Emzar Kvitsiani, 2006 Kodori crisis_
+_Context: 2006 Kodori crisis, Emzar Kvitsiani_
 
 ##### Fu Xiancai
 ### [ The government investigation of the assault that partially paralyzed Fu Xiancai, a Chinese activist protesting the displacement caused by the Three Gorges Dam, concludes that he hit himself in the back of the neck, breaking three vertebrae. ](/news/2006/07/27/the-government-investigation-of-the-assault-that-partially-paralyzed-fu-xiancai-a-chinese-activist-protesting-the-displacement-caused-by-t.md)
-_Context: vertebra, displacement, Fu Xiancai, Three Gorges Dam, China_
+_Context: China, Fu Xiancai, vertebra, displacement, Three Gorges Dam_
 
 ##### 2006
 ### [ The team for 2006 Tour de France winner Floyd Landis announces that he failed a drug test during the race, with high levels of testosterone. ](/news/2006/07/27/the-team-for-2006-tour-de-france-winner-floyd-landis-announces-that-he-failed-a-drug-test-during-the-race-with-high-levels-of-testosterone.md)
@@ -37,7 +37,7 @@ As the battles raged, a meeting of U.S., European and Arab countries in Rome fai
 
 ##### Robert Charles Browne
 ### [ Already-convicted murder Robert Charles Browne pleads guilty to another killing, and leads authorities to suspect he might be America's most prolific serial killer ](/news/2006/07/27/already-convicted-murder-robert-charles-browne-pleads-guilty-to-another-killing-and-leads-authorities-to-suspect-he-might-be-america-s-mos.md)
-_Context: serial killer, Robert Charles Browne_
+_Context: Robert Charles Browne, serial killer_
 
 ##### Yushchenko
 ### [ 2006 Ukraine parliament crisis. Ukraine's president, Yushchenko, holds crisis talks over political stalemate. ](/news/2006/07/27/2006-ukraine-parliament-crisis-ukraine-s-president-yushchenko-holds-crisis-talks-over-political-stalemate.md)

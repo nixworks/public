@@ -9,7 +9,7 @@ At least five people have been killed in multiple suicide bombings in a mainly C
 
 ##### Mahamasina Municipal Stadium
 ### [At least two people are killed and 72 are injured following a grenade attack on a concert at the Mahamasina Municipal Stadium in Madagascar's capital, Antananarivo. ](/news/2016/06/27/at-least-two-people-are-killed-and-72-are-injured-following-a-grenade-attack-on-a-concert-at-the-mahamasina-municipal-stadium-in-madagascar.md)
-_Context: Mahamasina Municipal Stadium, Antananarivo, Madagascar_
+_Context: Mahamasina Municipal Stadium, Madagascar, Antananarivo_
 
 ##### Brexit impact
 ### [The value of the British pound initially falls by more than 2% as Asian markets open to a decline. ](/news/2016/06/27/the-value-of-the-british-pound-initially-falls-by-more-than-2-as-asian-markets-open-to-a-decline.md)
@@ -41,7 +41,7 @@ After six years of estrangement over a deadly clash in the waters outside of Gaz
 
 ##### Moldovan Prime Minister
 ### [Former Moldovan Prime Minister Vlad Filat is sentenced to prison for nine years after being found guilty of corruption and abuse of power. ](/news/2016/06/27/former-moldovan-prime-minister-vlad-filat-is-sentenced-to-prison-for-nine-years-after-being-found-guilty-of-corruption-and-abuse-of-power.md)
-_Context: Moldovan Prime Minister, Vlad Filat_
+_Context: Vlad Filat, Moldovan Prime Minister_
 
 ##### Whole Woman's Health v. Hellerstedt
 ### [The Supreme Court of the United States strikes down a law that would have required abortion clinics in Texas to upgrade in order to meet new "hospital-like" standards. Supporters of abortion rights said that the proposed law would force nearly all abortion clinics in the state to shut down, while their opponents argued for women's health benefits. ](/news/2016/06/27/the-supreme-court-of-the-united-states-strikes-down-a-law-that-would-have-required-abortion-clinics-in-texas-to-upgrade-in-order-to-meet-new.md)

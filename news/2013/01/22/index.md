@@ -13,11 +13,11 @@ Car bombs in and around the Iraqi capital, Baghdad, have killed at least 17 peop
 
 ##### Colombia
 ### [In Colombia, FARC rebels dynamite two southern oil pipelines and planted a bomb on the top coal exporter's northern railway after the end of a rebel ceasefire. ](/news/2013/01/22/in-colombia-farc-rebels-dynamite-two-southern-oil-pipelines-and-planted-a-bomb-on-the-top-coal-exporter-s-northern-railway-after-the-end-of.md)
-_Context: ceasefire, oil pipeline, Colombia, FARC_
+_Context: ceasefire, FARC, Colombia, oil pipeline_
 
 ##### James Bond
 ### [The James Bond film "Skyfall" opens in China with censored scenes, prompting criticism from fans. ](/news/2013/01/22/the-james-bond-film-skyfall-opens-in-china-with-censored-scenes-prompting-criticism-from-fans.md)
-_Context: James Bond, Censorship in China, China, Skyfall_
+_Context: James Bond, China, Censorship in China, Skyfall_
 
 ##### United Nations Security Council
 ### [The United Nations Security Council passes Resolution 2087, condemning North Korea's December 2012 rocket launch and expanding economic sanctions against the country. ](/news/2013/01/22/the-united-nations-security-council-passes-resolution-2087-condemning-north-korea-s-december-2012-rocket-launch-and-expanding-economic-sanc.md)
@@ -41,7 +41,7 @@ British grandmother Lindsay Sandiford is sentenced to death by firing squad in B
 
 ##### Lone Star College-North Harris
 ### [At least three people are injured after a gunman opens fire at the campus of Lone Star College-North Harris in Houston, Texas. ](/news/2013/01/22/at-least-three-people-are-injured-after-a-gunman-opens-fire-at-the-campus-of-lone-star-collegeanorth-harris-in-houston-texas.md)
-_Context: Lone Star College-North Harris, Texas, Houston_
+_Context: Texas, Houston, Lone Star College-North Harris_
 
 ##### Elections for the 19th Knesset
 ### [The Elections for the 19th Knesset are held in Israel. The incumbent Prime Minister Benjamin Netanyahu's electoral alliance, Likud Yisrael Beiteinu, wins a plurality with 31 seats. ](/news/2013/01/22/the-elections-for-the-19th-knesset-are-held-in-israel-the-incumbent-prime-minister-benjamin-netanyahu-s-electoral-alliance-likud-yisrael-b.md)

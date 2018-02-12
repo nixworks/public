@@ -13,11 +13,11 @@ The Taliban claimed responsibility for a suicide attack Tuesday in central Afgha
 
 ##### War in Somalia (2009-present)
 ### [Al-Shabaab Islamic militants storm the presidential palace in Mogadishu with heavy gunfire as government troops try to repel them. ](/news/2014/07/8/al-shabaab-islamic-militants-storm-the-presidential-palace-in-mogadishu-with-heavy-gunfire-as-government-troops-try-to-repel-them.md)
-_Context: President, War in Somalia (2009-present), Mogadishu, Al-Shabaab_
+_Context: Mogadishu, War in Somalia (2009-present), President, Al-Shabaab_
 
 ##### Typhoon Neoguri
 ### [Typhoon Neoguri heads towards the southern Japanese island of Okinawa with 100,000 on the island and adjacent islands urged to evacuate. ](/news/2014/07/8/typhoon-neoguri-heads-towards-the-southern-japanese-island-of-okinawa-with-100-000-on-the-island-and-adjacent-islands-urged-to-evacuate.md)
-_Context: Typhoon Neoguri, Okinawa, Japan_
+_Context: Okinawa, Japan, Typhoon Neoguri_
 
 ##### South Africa
 ### [More than 50 people are injured after two trains collide near the South African city of Durban. ](/news/2014/07/8/more-than-50-people-are-injured-after-two-trains-collide-near-the-south-african-city-of-durban.md)
@@ -33,7 +33,7 @@ A U.N. tribunal has awarded Bangladesh nearly four-fifths of an area sprawling o
 
 ##### Brazil
 ### [Several buses are set alight and an electronics store looted in the Brazilian city of Sao Paulo following Brazil's crushing defeat by Germany in the World Cup semi-final. ](/news/2014/07/8/several-buses-are-set-alight-and-an-electronics-store-looted-in-the-brazilian-city-of-sao-paulo-following-brazil-s-crushing-defeat-by-german.md)
-_Context: Sao Paulo, Brazil_
+_Context: Brazil, Sao Paulo_
 
 ##### Rengan Rajaratnam
 ### [A jury acquits Rengan Rajaratnam after a trial on insider trading charges in U.S. District Court in New York City. ](/news/2014/07/8/a-jury-acquits-rengan-rajaratnam-after-a-trial-on-insider-trading-charges-in-u-s-district-court-in-new-york-city.md)
@@ -45,7 +45,7 @@ _Context: pro-US, Taiwan provincial_
 
 ##### Several spending scandals
 ### [Amidst several spending scandals, the French major opposition party Union for a Popular Movement is discovered to have an hidden debt of EUR79.1 millions for the year 2013 ](/news/2014/07/8/amidst-several-spending-scandals-the-french-major-opposition-party-union-for-a-popular-movement-is-discovered-to-have-an-hidden-debt-of-a.md)
-_Context: several spending scandals, UMP_
+_Context: UMP, several spending scandals_
 
 ## [Previous Day...](/news/2014/07/7/index.md)
 

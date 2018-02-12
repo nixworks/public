@@ -25,7 +25,7 @@ China is to open disputed South China Sea islands up to tourism this month, stat
 
 ##### Doha
 ### [Hundreds of delegates meet in Doha, Qatar, to raise funds to rebuild the Sudanese region of Darfur, that has been racked by conflict. ](/news/2013/04/7/hundreds-of-delegates-meet-in-doha-qatar-to-raise-funds-to-rebuild-the-sudanese-region-of-darfur-that-has-been-racked-by-conflict.md)
-_Context: Doha, conflict, Sudan, Qatar, Darfur_
+_Context: Sudan, Qatar, conflict, Doha, Darfur_
 
 ##### American
 ### [United States Secretary of State John Kerry arrives in Turkey, where he is to have talks addressing relations with Israel and the conflict in Syria. ](/news/2013/04/7/united-states-secretary-of-state-john-kerry-arrives-in-turkey-where-he-is-to-have-talks-addressing-relations-with-israel-and-the-conflict-i.md)
@@ -37,11 +37,11 @@ Egyptian police fired tear gas outside Cairo&#39;s Coptic cathedral on Sunday af
 
 ##### Singapore
 ### [Eric Ding Si Yang, a Singaporean businessman, is charged with corruption for offering free sex to three Lebanese football referees to induce them to fix a match in the AFC Cup. ](/news/2013/04/7/eric-ding-si-yang-a-singaporean-businessman-is-charged-with-corruption-for-offering-free-sex-to-three-lebanese-football-referees-to-induce.md)
-_Context: free sex, Lebanese, referees, Singapore, AFC Cup, match fixing, corruption, football_
+_Context: football, match fixing, free sex, Lebanese, corruption, Singapore, AFC Cup, referees_
 
 ##### Rehtaeh Parsons
 ### [Rehtaeh Parsons, a 17-year-old Canadian gang-rape victim from Halifax, Novia Scotia, is taken off of life support and dies three days after a suicide attempt. Parson's claimed to have been raped when she was 15, she had been bullied ever since the alleged incident; officials with the Royal Canadian Mounted Police and the justice system are deciding whether to file charges. ](/news/2013/04/7/rehtaeh-parsons-a-17-year-old-canadian-gang-rape-victim-from-halifax-novia-scotia-is-taken-off-of-life-support-and-dies-three-days-after.md)
-_Context: Royal Canadian Mounted Police, gang-rape, suicide, Rehtaeh Parsons, life support, Canadian, Halifax, Novia Scotia_
+_Context: Rehtaeh Parsons, gang-rape, Royal Canadian Mounted Police, suicide, Canadian, Novia Scotia, life support, Halifax_
 
 ##### Montenegro
 ### [Voters in Montenegro go to the polls for a presidential election with both candidates declaring themselves winner. ](/news/2013/04/7/voters-in-montenegro-go-to-the-polls-for-a-presidential-election-with-both-candidates-declaring-themselves-winner.md)

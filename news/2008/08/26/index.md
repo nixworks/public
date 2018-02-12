@@ -5,11 +5,11 @@ Formats: [HTML](2008/08/26/index.html)  [JSON](2008/08/26/index.json)  [XML](200
 
 ##### Sudan
 ### [ A Sudanese plane is hijacked shortly after taking off from Nyala in the Darfur region and flown to Kufra in Libya. ](/news/2008/08/26/a-sudanese-plane-is-hijacked-shortly-after-taking-off-from-nyala-in-the-darfur-region-and-flown-to-kufra-in-libya.md)
-_Context: Darfur, Kufra, aircraft piracy, Nyala, Libya, Sudan_
+_Context: Sudan, aircraft piracy, Kufra, Nyala, Darfur, Libya_
 
 ##### Tamil Tigers
 ### [ Tamil Tigers carry out an air raid on a major naval base at Trincomalee on the east coast of Sri Lanka, injuring four sailors. ](/news/2008/08/26/tamil-tigers-carry-out-an-air-raid-on-a-major-naval-base-at-trincomalee-on-the-east-coast-of-sri-lanka-injuring-four-sailors.md)
-_Context: Sri Lanka, Trincomalee, Tamil Tigers_
+_Context: Trincomalee, Sri Lanka, Tamil Tigers_
 
 ##### American
 ### [ Flight delays hit more than two dozen United States airports because of a communication network problem in a Federal Aviation Administration facility in Atlanta, Georgia. ](/news/2008/08/26/flight-delays-hit-more-than-two-dozen-united-states-airports-because-of-a-communication-network-problem-in-a-federal-aviation-administratio.md)
@@ -21,7 +21,7 @@ _Context: Iraq, Diyala Governorate_
 
 ##### Malaysia
 ### [ Malaysian opposition leader Anwar Ibrahim wins a landslide victory in the by-election in Permatang Pauh. ](/news/2008/08/26/malaysian-opposition-leader-anwar-ibrahim-wins-a-landslide-victory-in-the-by-election-in-permatang-pauh.md)
-_Context: by-election in Permatang Pauh, Anwar Ibrahim, landslide, Malaysia_
+_Context: Anwar Ibrahim, by-election in Permatang Pauh, landslide, Malaysia_
 
 ##### Russia
 ### [ Russia recognises the independence of Abkhazia and South Ossetia.](/news/2008/08/26/russia-recognises-the-independence-of-abkhazia-and-south-ossetia.md)
@@ -33,7 +33,7 @@ _Context: Hurricane Gustav, Hurricane Gustav, Haiti_
 
 ##### Koshi River
 ### [ The Koshi River breaks embankment to pick up the course abandoned over 200 years ago causing floods in the Indian state of Bihar and killing 42 people. ](/news/2008/08/26/the-koshi-river-breaks-embankment-to-pick-up-the-course-abandoned-over-200-years-ago-causing-floods-in-the-indian-state-of-bihar-and-killin.md)
-_Context: 2008 Indian floods, Koshi River, Bihar, India_
+_Context: Koshi River, 2008 Indian floods, Bihar, India_
 
 ## [Previous Day...](/news/2008/08/25/index.md)
 

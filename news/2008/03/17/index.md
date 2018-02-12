@@ -9,7 +9,7 @@ Barack Obama confronted the divisions between black and white as he sought to di
 
 ##### UNMIK
 ### [ UNMIK and NATO KFOR forces clashed with Serb protesters in North Kosovo resulting in over 150 wounded after arresting Serb lawyers and court officials who had taken control of a UN court. The clashes are part of ongoing unrest following Kosovo's declaration of independence. ](/news/2008/03/17/unmik-and-nato-kfor-forces-clashed-with-serb-protesters-in-north-kosovo-resulting-in-over-150-wounded-after-arresting-serb-lawyers-and-cour.md)
-_Context: UNMIK, unrest, Kosovo Force, North Kosovo_
+_Context: unrest, UNMIK, Kosovo Force, North Kosovo_
 
 ##### Container ship
 ### [ A container ship pilot whose ship hit the San Francisco Bay Bridge resulting in an oil spill is charged with breaking United States pollution laws. ](/news/2008/03/17/a-container-ship-pilot-whose-ship-hit-the-san-francisco-bay-bridge-resulting-in-an-oil-spill-is-charged-with-breaking-united-states-polluti.md)
@@ -17,19 +17,19 @@ The pilot of a containership that hit the San Francisco Bay Bridge last year and
 
 ##### Stock market
 ### [ World stock markets decline sharply after the proposed sale of investment bank Bear Stearns to rival JPMorgan Chase. ](/news/2008/03/17/world-stock-markets-decline-sharply-after-the-proposed-sale-of-investment-bank-bear-stearns-to-rival-jpmorgan-chase.md)
-_Context: JPMorgan Chase, investment bank, Bear Stearns, stock market_
+_Context: Bear Stearns, investment bank, JPMorgan Chase, stock market_
 
 ##### China
 ### [ Chinese security forces round up Tibetan dissidents in Lhasa. Qiangba Puncog, Chairman of the Tibet Autonomous Region, says the official death toll from the unrest is 13 and calm is returning to the city. ](/news/2008/03/17/chinese-security-forces-round-up-tibetan-dissidents-in-lhasa-qiangba-puncog-chairman-of-the-tibet-autonomous-region-says-the-official-de.md)
-_Context: Tibet, 2008 unrest in Tibet, China, Qiangba Puncog, dissident, security force, Tibet Autonomous Region, Lhasa_
+_Context: dissident, security force, Qiangba Puncog, Tibet Autonomous Region, Lhasa, 2008 unrest in Tibet, China, Tibet_
 
 ##### 2008 National People's Congress
 ### [ 2008 National People's Congress: Li Keqiang, Hui Liangyu, Zhang Dejiang, and Wang Qishan are approved by the National People's Congress as the new Vice-Premiers of the State Council. ](/news/2008/03/17/2008-national-people-s-congress-li-keqiang-hui-liangyu-zhang-dejiang-and-wang-qishan-are-approved-by-the-national-people-s-congress-as.md)
-_Context: Hui Liangyu, parliament, Wang Qishan, 2008 National People's Congress, Li Keqiang, Zhang Dejiang_
+_Context: 2008 National People's Congress, Li Keqiang, parliament, Wang Qishan, Hui Liangyu, Zhang Dejiang_
 
 ##### American
 ### [ United States Vice President Dick Cheney visits Baghdad, three days before the fifth anniversary of the 2003 invasion. ](/news/2008/03/17/united-states-vice-president-dick-cheney-visits-baghdad-three-days-before-the-fifth-anniversary-of-the-2003-invasion.md)
-_Context: Baghdad, 2003 invasion of Iraq, American, Dick Cheney, U.S. Vice President_
+_Context: American, Dick Cheney, U.S. Vice President, Baghdad, 2003 invasion of Iraq_
 
 ##### Parliament
 ### [ The new Parliament convenes for the first time after the 2008 general election. ](/news/2008/03/17/the-new-parliament-convenes-for-the-first-time-after-the-2008-general-election.md)
@@ -37,35 +37,35 @@ _Context: Parliament, by-elections_
 
 ##### Albania
 ### [ Albanian Defense Minister Fatmir Mediu resigns over the 2008 Tirana explosions. ](/news/2008/03/17/albanian-defense-minister-fatmir-mediu-resigns-over-the-2008-tirana-explosions.md)
-_Context: Albania, Fatmir Mediu, 2008 Tirana explosions, Defense Minister_
+_Context: Defense Minister, 2008 Tirana explosions, Fatmir Mediu, Albania_
 
 ##### United Nations
 ### [ United Nations police are forced to retreat from Serb areas of Mitrovica after clashes with Serb protesters. At least 22 UN policemen and two Kosovo Force soldiers are injured. ](/news/2008/03/17/united-nations-police-are-forced-to-retreat-from-serb-areas-of-mitrovica-after-clashes-with-serb-protesters-at-least-22-un-policemen-and-t.md)
-_Context: Kosovo Force, clashes, Mitrovica, United Nations, Serbia_
+_Context: Serbia, Kosovo Force, clashes, Mitrovica, United Nations_
 
 ##### David Paterson
 ### [ David Paterson is sworn in as the new Governor of New York after the Eliot Spitzer prostitution scandal. ](/news/2008/03/17/david-paterson-is-sworn-in-as-the-new-governor-of-new-york-after-the-eliot-spitzer-prostitution-scandal.md)
-_Context: David Paterson, Eliot Spitzer prostitution scandal, New York Governor_
+_Context: New York Governor, Eliot Spitzer prostitution scandal, David Paterson_
 
 ##### France
 ### [ French President Nicolas Sarkozy's Union for a Popular Movement party loses the 2008 municipal elections. ](/news/2008/03/17/french-president-nicolas-sarkozy-s-union-for-a-popular-movement-party-loses-the-2008-municipal-elections.md)
-_Context: French President, Nicolas Sarkozy, UMP, France, 2008 municipal elections_
+_Context: UMP, France, 2008 municipal elections, French President, Nicolas Sarkozy_
 
 ##### German
 ### [ German Chancellor Angela Merkel and half of her cabinet visit Israel in a move to upgrade bilateral relations ](/news/2008/03/17/german-chancellor-angela-merkel-and-half-of-her-cabinet-visit-israel-in-a-move-to-upgrade-bilateral-relations.md)
-_Context: Chancellor, German, Israel, Angela Merkel_
+_Context: Israel, German, Chancellor, Angela Merkel_
 
 ##### Jovica Stanisic
 ### [ The trial of Jovica Stanisic and Franko Simatovic, two former Serbian State Security Service officers and allies of Slobodan Milosevic, starts at the International Criminal Tribunal for the former Yugoslavia in The Hague. ](/news/2008/03/17/the-trial-of-jovica-stania-ia-and-franko-simatovia-two-former-serbian-state-security-service-officers-and-allies-of-slobodan-miloa-evia.md)
-_Context: International Criminal Tribunal for the former Yugoslavia, Franko Simatovic, Serbia, State Security Service, Slobodan Milosevic, The Hague, Jovica Stanisic_
+_Context: Franko Simatovic, International Criminal Tribunal for the former Yugoslavia, Serbia, Jovica Stanisic, The Hague, Slobodan Milosevic, State Security Service_
 
 ##### Uganda
 ### [ Ugandan Lord's Resistance Army leader Joseph Kony enters the Central African Republic, thus violating a ceasefire. ](/news/2008/03/17/ugandan-lord-s-resistance-army-leader-joseph-kony-enters-the-central-african-republic-thus-violating-a-ceasefire.md)
-_Context: ceasefire, Joseph Kony, Uganda, Central African Republic, Lord's Resistance Army_
+_Context: Lord's Resistance Army, Uganda, ceasefire, Central African Republic, Joseph Kony_
 
 ##### Suicide bomber
 ### [ A suicide bomber attacks a NATO convoy in Gereshk in Helmand province of Afghanistan, killing three Afghan civilians. ](/news/2008/03/17/a-suicide-bomber-attacks-a-nato-convoy-in-gereshk-in-helmand-province-of-afghanistan-killing-three-afghan-civilians.md)
-_Context: NATO, Helmand, Gereshk, Afghanistan, suicide bomber_
+_Context: suicide bomber, Helmand, NATO, Gereshk, Afghanistan_
 
 ##### World War II
 ### [ World War II Royal Australian Navy warship HMAS "Sydney" is discovered off the coast of Western Australia after being missing for 65 years with the loss of all 600+ crew. ](/news/2008/03/17/world-war-ii-royal-australian-navy-warship-hmas-sydney-is-discovered-off-the-coast-of-western-australia-after-being-missing-for-65-years.md)
@@ -73,7 +73,7 @@ The group searching for HMAS Sydney has found the wreckage of the World War II A
 
 ##### Luftwaffe
 ### [ A former Luftwaffe pilot reveals he may have shot down the airplane of French writer and aviator Antoine de Saint Exupery, thus killing him, on July 31, 1944. ](/news/2008/03/17/a-former-luftwaffe-pilot-reveals-he-may-have-shot-down-the-airplane-of-french-writer-and-aviator-antoine-de-saint-exupa-c-ry-thus-killing-hi.md)
-_Context: Antoine de Saint Exupery, Luftwaffe, writer, airplane, France, pilot_
+_Context: Luftwaffe, Antoine de Saint Exupery, airplane, France, writer, pilot_
 
 ## [Previous Day...](/news/2008/03/16/index.md)
 

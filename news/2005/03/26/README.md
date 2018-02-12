@@ -5,7 +5,7 @@ Formats: [HTML](2005/03/26/index.html)  [JSON](2005/03/26/index.json)  [XML](200
 
 ##### Marburg virus
 ### [ Death toll from Marburg virus epidemic in Angola rises to 120; first case of the Ebola-like virus is reported outside Uige Province and the capital, Luanda. ](/news/2005/03/26/death-toll-from-marburg-virus-epidemic-in-angola-rises-to-120-first-case-of-the-ebola-like-virus-is-reported-outside-uige-province-and-the.md)
-_Context: virus, Luanda, Angola, Uige Province, Ebola, epidemic, Marburg virus_
+_Context: Luanda, Ebola, epidemic, Uige Province, Marburg virus, Angola, virus_
 
 ##### Taiwan
 ### [ Hundreds of thousands of Taiwanese hold mass rally to protest against the People's Republic of China's anti-secession law. ](/news/2005/03/26/hundreds-of-thousands-of-taiwanese-hold-mass-rally-to-protest-against-the-people-s-republic-of-china-s-anti-secession-law.md)

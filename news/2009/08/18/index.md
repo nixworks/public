@@ -9,11 +9,11 @@ _Context: multiple organ dysfunction syndrome, Kim Dae-jung_
 
 ##### Bombing
 ### [ Seven people are killed in a bombing targeting a NATO convoy in Kabul, days before the presidential elections in Afghanistan. ](/news/2009/08/18/seven-people-are-killed-in-a-bombing-targeting-a-nato-convoy-in-kabul-days-before-the-presidential-elections-in-afghanistan.md)
-_Context: Afghanistan, NATO, presidential election, bombing, Kabul_
+_Context: bombing, Afghanistan, presidential election, NATO, Kabul_
 
 ##### Jesse Jackson
 ### [ Jesse Jackson is crowned prince of the Agni people during a three-day visit to Cte d'Ivoire, succeeding Michael Jackson. ](/news/2009/08/18/jesse-jackson-is-crowned-prince-of-the-agni-people-during-a-three-day-visit-to-cote-d-ivoire-succeeding-michael-jackson.md)
-_Context: Jesse Jackson, Michael Jackson, Cte d'Ivoire_
+_Context: Cte d'Ivoire, Michael Jackson, Jesse Jackson_
 
 ## [Previous Day...](/news/2009/08/17/index.md)
 

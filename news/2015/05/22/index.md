@@ -21,7 +21,7 @@ Li Hejun&nbsp;began the day as China’s second-richest man with a fortune worth
 
 ##### Wembley Stadium
 ### [Surrounding areas of Wembley Stadium, London, UK have been evacuated following the discovery by construction crews of a still-live World War II-era 50-kg (110-llb) conventional-explosive bomb, a remnant of the Blitz. ](/news/2015/05/22/surrounding-areas-of-wembley-stadium-london-uk-have-been-evacuated-following-the-discovery-by-construction-crews-of-a-still-live-world-war.md)
-_Context: bomb, World War II, London, Wembley Stadium, the Blitz, United Kingdom_
+_Context: bomb, London, the Blitz, World War II, Wembley Stadium, United Kingdom_
 
 ##### Myanmar Navy
 ### [The Myanmar Navy rescues two boats carrying 208 migrants as it faces growing international pressure to tackle the Rohingya migration crisis. ](/news/2015/05/22/the-myanmar-navy-rescues-two-boats-carrying-208-migrants-as-it-faces-growing-international-pressure-to-tackle-the-rohingya-migration-crisis.md)
@@ -41,7 +41,7 @@ Get up to the minute breaking political news and in-depth analysis on ABCNews.co
 
 ##### Science
 ### ["Science" publishes a series of papers on biodiversity in the deep sea, including tens of thousands of single-celled organisms most of which had not been previously identified. ](/news/2015/05/22/science-publishes-a-series-of-papers-on-biodiversity-in-the-deep-sea-including-tens-of-thousands-of-single-celled-organisms-most-of-which.md)
-_Context: biodiversity, single-celled organism, Science_
+_Context: single-celled organism, biodiversity, Science_
 
 ## [Previous Day...](/news/2015/05/21/index.md)
 

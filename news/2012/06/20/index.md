@@ -17,7 +17,7 @@ The Turkish military said it has carried out strikes on Kurdish rebel targets in
 
 ##### Syrian Observatory for Human Rights
 ### [The Syrian Observatory for Human Rights claims that at least 20 Syrian Army soldiers and five rebels are killed in heavy fighting near Latakia district. ](/news/2012/06/20/the-syrian-observatory-for-human-rights-claims-that-at-least-20-syrian-army-soldiers-and-five-rebels-are-killed-in-heavy-fighting-near-latak.md)
-_Context: Syrian Observatory for Human Rights, Latakia district, Syrian Army_
+_Context: Latakia district, Syrian Army, Syrian Observatory for Human Rights_
 
 ##### Libya
 ### [Tribal clashes in western Libya lead to 105 people dead and some 500 injured. ](/news/2012/06/20/tribal-clashes-in-western-libya-lead-to-105-people-dead-and-some-500-injured.md)
@@ -29,7 +29,7 @@ News unveils a $2b takeover bid for James Packer-controlled Consolidated Media e
 
 ##### Larry Ellison
 ### [Larry Ellison, the American CEO of Oracle Corp, agrees to buy 98 per cent of the Hawaiian island of Lanai. ](/news/2012/06/20/larry-ellison-the-american-ceo-of-oracle-corp-agrees-to-buy-98-per-cent-of-the-hawaiian-island-of-lanai.md)
-_Context: Larry Ellison, Lanai, Oracle Corp, Hawaii_
+_Context: Larry Ellison, Lanai, Hawaii, Oracle Corp_
 
 ##### American
 ### [The United States Congress suggests to extend its military presence in Kuwait. ](/news/2012/06/20/the-united-states-congress-suggests-to-extend-its-military-presence-in-kuwait.md)
@@ -45,7 +45,7 @@ Former Romanian Prime Minister Adrian Nastase shoots himself in the neck hours a
 
 ##### Egypt
 ### [In Egypt, Hosni Mubarak, ousted from power in last year's revolution, is reported to in a coma and has been taken off life support. ](/news/2012/06/20/in-egypt-hosni-mubarak-ousted-from-power-in-last-year-s-revolution-is-reported-to-in-a-coma-and-has-been-taken-off-life-support.md)
-_Context: Hosni Mubarak, 2011 Egyptian revolution, Egypt_
+_Context: 2011 Egyptian revolution, Egypt, Hosni Mubarak_
 
 ##### Presidential election
 ### [The Supreme Elections Commission in Egypt announces that the results of the presidential election are not going to be released on Thursday due to complaints by rival candidates. ](/news/2012/06/20/the-supreme-elections-commission-in-egypt-announces-that-the-results-of-the-presidential-election-are-not-going-to-be-released-on-thursday-d.md)

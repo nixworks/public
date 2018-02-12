@@ -29,7 +29,7 @@ At least one person has been reported dead in yet another
 
 ##### Legionnaires' disease
 ### [The death toll from a Legionnaires' disease outbreak at a Quincy, Illinois veterans home rises to at least seven with more than the current number of 32 sickened expected since the incubation period for illness can be up to two weeks. ](/news/2015/09/1/the-death-toll-from-a-legionnaires-disease-outbreak-at-a-quincy-illinois-veterans-home-rises-to-at-least-seven-with-more-than-the-current.md)
-_Context: Legionnaires' disease, Quincy, Illinois_
+_Context: Quincy, Illinois, Legionnaires' disease_
 
 ##### European migrant crisis
 ### [Authorities in Hungary close the Budapest Keleti railway station to prevent hundreds of migrants from boarding trains to other European capitals. ](/news/2015/09/1/authorities-in-hungary-close-the-budapest-keleti-railway-station-to-prevent-hundreds-of-migrants-from-boarding-trains-to-other-european-capi.md)
@@ -53,7 +53,7 @@ Guatemalan President Otto Perez Molina rejected accusations by the attorney gene
 
 ##### New Zealand flag debate
 ### [Four alternatives to the current New Zealand flag are chosen for a Spring referendum (20 November - 11 December 2015) in which New Zealanders will determine their favorite of the new designs. ](/news/2015/09/1/four-alternatives-to-the-current-new-zealand-flag-are-chosen-for-a-spring-referendum-20-november-a-11-december-2015-in-which-new-zealand.md)
-_Context: New Zealand flag, New Zealanders, New Zealand flag debate_
+_Context: New Zealanders, New Zealand flag, New Zealand flag debate_
 
 ##### Russia
 ### [A law affecting online personal computer data storage comes into force in Russia. ](/news/2015/09/1/a-law-affecting-online-personal-computer-data-storage-comes-into-force-in-russia.md)

@@ -5,19 +5,19 @@ Formats: [HTML](2005/02/26/index.html)  [JSON](2005/02/26/index.json)  [XML](200
 
 ##### Pope John Paul II
 ### [ For the first time in his 26-year papacy, Pope John Paul II, who is ill, will not bless the faithful at the weekly Angelus prayer service and will instead follow the service from his hospital room. ](/news/2005/02/26/for-the-first-time-in-his-26-year-papacy-pope-john-paul-ii-who-is-ill-will-not-bless-the-faithful-at-the-weekly-angelus-prayer-service-a.md)
-_Context: Pope John Paul II, Angelus_
+_Context: Angelus, Pope John Paul II_
 
 ##### Syria
 ### [ Israel's Defence Minister blames Syria for complicity in yesterday's suicide bombing in Tel Aviv which killed 4 people. Syria denies links to the bombing. Islamic Jihad, from its headquarters in Damascus claims responsibility for the attack, stating it was designed to damage the Palestinian Authority for acting ""according to American interests"". ](/news/2005/02/26/israel-s-defence-minister-blames-syria-for-complicity-in-yesterday-s-suicide-bombing-in-tel-aviv-which-killed-4-people-syria-denies-links.md)
-_Context: suicide bombing, Syria, Palestinian Authority, Palestinian Islamic Jihad, Damascus, Tel Aviv_
+_Context: Palestinian Islamic Jihad, Tel Aviv, suicide bombing, Palestinian Authority, Syria, Damascus_
 
 ##### Wichita, Kansas
 ### [ Wichita, Kansas police announce the arrest of the BTK killer. ](/news/2005/02/26/wichita-kansas-police-announce-the-arrest-of-the-btk-killer.md)
-_Context: BTK killer, Wichita, Kansas_
+_Context: Wichita, Kansas, BTK killer_
 
 ##### United Nations
 ### [ In a conference organized by the UN Food and Agriculture Organization, officials urge changes to be made in how poultry are raised in Southeast Asia to prevent a bird flu pandemic. ](/news/2005/02/26/in-a-conference-organized-by-the-un-food-and-agriculture-organization-officials-urge-changes-to-be-made-in-how-poultry-are-raised-in-south.md)
-_Context: Avian flu virus, United Nations, poultry, Asia, pandemic_
+_Context: pandemic, poultry, United Nations, Asia, Avian flu virus_
 
 ##### Nepal
 ### [ Nepali soldiers kill at least a dozen Maoist rebels in Kailali district. ](/news/2005/02/26/nepali-soldiers-kill-at-least-a-dozen-maoist-rebels-in-kailali-district.md)
@@ -25,7 +25,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Canadian
 ### [ Canadian Prime Minister Paul Martin announces that the US must get permission first before launching missiles over Canadian airspace, after recently announcing Canada's non-involvement in the controversial US National Missile Defence plan. ](/news/2005/02/26/canadian-prime-minister-paul-martin-announces-that-the-us-must-get-permission-first-before-launching-missiles-over-canadian-airspace-after.md)
-_Context: National Missile Defence, missile, Paul Martin, Canadian, American_
+_Context: American, Canadian, Paul Martin, National Missile Defence, missile_
 
 ##### Egypt
 ### [ Egyptian President Hosni Mubarak calls for parliament to amend the constitution to allow for direct, secret elections for the next president. ](/news/2005/02/26/egyptian-president-hosni-mubarak-calls-for-parliament-to-amend-the-constitution-to-allow-for-direct-secret-elections-for-the-next-presiden.md)

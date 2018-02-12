@@ -17,7 +17,7 @@ _Context: Nazimiye, Turkey_
 
 ##### Thoroughbred racing
 ### [In thoroughbred racing, Super Saver, ridden by Calvin Borel, wins the 2010 Kentucky Derby. ](/news/2010/05/1/in-thoroughbred-racing-super-saver-ridden-by-calvin-borel-wins-the-2010-kentucky-derby.md)
-_Context: 2010 Kentucky Derby, Super Saver, Calvin Borel, thoroughbred racing_
+_Context: Calvin Borel, Super Saver, thoroughbred racing, 2010 Kentucky Derby_
 
 ##### Nalchik
 ### [At least one person is killed and 21 others are injured at a horse race in Nalchik, Kabardino-Balkaria. ](/news/2010/05/1/at-least-one-person-is-killed-and-21-others-are-injured-at-a-horse-race-in-nalchik-kabardino-balkaria.md)
@@ -61,7 +61,7 @@ _Context: Albania, European Patent Organisation_
 
 ##### Taiwan
 ### [Taiwan employs capital punishment for the first time since 2005, executing four men for "grave offences such as fatal kidnappings and murders". ](/news/2010/05/1/taiwan-employs-capital-punishment-for-the-first-time-since-2005-executing-four-men-for-grave-offences-such-as-fatal-kidnappings-and-murder.md)
-_Context: the first time since 2005, Taiwan, capital punishment_
+_Context: capital punishment, Taiwan, the first time since 2005_
 
 ##### The Washington Post
 ### [Two retired generals tell "The Washington Post" that, with more than 25 per cent of young Americans being "too fat to fight", obesity is threatening the future of the United States military. ](/news/2010/05/1/two-retired-generals-tell-the-washington-post-that-with-more-than-25-per-cent-of-young-americans-being-too-fat-to-fight-obesity-is-thr.md)
@@ -69,7 +69,7 @@ Rising rates of obesity among young Americans could pose a risk to the future of
 
 ##### Taipei
 ### [A Taipei-Shanghai flight makes an emergency landing in Hangzhou after an American passenger makes an inappropriate reference to a bomb. ](/news/2010/05/1/a-taipei-shanghai-flight-makes-an-emergency-landing-in-hangzhou-after-an-american-passenger-makes-an-inappropriate-reference-to-a-bomb.md)
-_Context: Taipei, American, Hangzhou, Shanghai_
+_Context: Shanghai, Taipei, American, Hangzhou_
 
 ##### Boston
 ### [A major pipe rupture in Weston, Massachusetts leaves up to 2 million people in the Greater Boston area without drinkable tap water for 59 hours. ](/news/2010/05/1/a-major-pipe-rupture-in-weston-massachusetts-leaves-up-to-2-million-people-in-the-greater-boston-area-without-drinkable-tap-water-for-59-ho.md)

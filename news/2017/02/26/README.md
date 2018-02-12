@@ -5,7 +5,7 @@ Formats: [HTML](2017/02/26/index.html)  [JSON](2017/02/26/index.json)  [XML](201
 
 ##### Syrian Civil War
 ### [The Syrian Army recaptures the strategic town of Tadef from ISIL, south of al-Bab, securing key transportation routes in eastern Aleppo Governorate. ](/news/2017/02/26/the-syrian-army-recaptures-the-strategic-town-of-tadef-from-isil-south-of-al-bab-securing-key-transportation-routes-in-eastern-aleppo-gove.md)
-_Context: ISIL, Syrian Army, Syrian Civil War, al-Bab, Tadef, Aleppo Governorate_
+_Context: Aleppo Governorate, al-Bab, Tadef, Syrian Army, Syrian Civil War, ISIL_
 
 ##### Sabal Trail Transmission Pipeline
 ### [A Sabal Trail Transmission Pipeline protester who was seen firing a high powered rifle at the pipeline construction site in Florida was chased by police until his car crashed. The suspect was shot and killed by a deputy after he tried to engage police in a gunfight ](/news/2017/02/26/a-sabal-trail-transmission-pipeline-protester-who-was-seen-firing-a-high-powered-rifle-at-the-pipeline-construction-site-in-florida-was-chas.md)

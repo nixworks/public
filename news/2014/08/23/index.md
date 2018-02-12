@@ -17,11 +17,11 @@ A UN envoy calls for action to prevent what he says may be the possible massacre
 
 ##### Islamist insurgency in Nigeria
 ### [Thirty-five Nigerian police officers are missing following an attack on a training school in Borno state. ](/news/2014/08/23/thirty-five-nigerian-police-officers-are-missing-following-an-attack-on-a-training-school-in-borno-state.md)
-_Context: police, Islamist insurgency in Nigeria, Borno state_
+_Context: Islamist insurgency in Nigeria, Borno state, police_
 
 ##### Goldman Sachs
 ### [Goldman Sachs agrees to buy back $3.15 billion in low quality mortgage bonds that it dumped on Fannie Mae and Freddie Mac preceding the financial crisis of 2007-08. ](/news/2014/08/23/goldman-sachs-agrees-to-buy-back-3-15-billion-in-low-quality-mortgage-bonds-that-it-dumped-on-fannie-mae-and-freddie-mac-preceding-the-fina.md)
-_Context: Fannie Mae, $, Freddie Mac, financial crisis of 2007-08, Goldman Sachs_
+_Context: $, Freddie Mac, Goldman Sachs, financial crisis of 2007-08, Fannie Mae_
 
 ##### Iceland
 ### [Iceland issues a red alert warning for the Bardarbunga volcano meaning significant emissions are likely. ](/news/2014/08/23/iceland-issues-a-red-alert-warning-for-the-ba-radegarbunga-volcano-meaning-significant-emissions-are-likely.md)

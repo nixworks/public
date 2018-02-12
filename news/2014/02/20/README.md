@@ -21,7 +21,7 @@ Two men charged in the beating of a San Francisco Giants fan pleaded guilty Thur
 
 ##### High Court of Australia
 ### [The High Court of Australia rules that the Senate election in the state of Western Australia was void, meaning that a half-Senate election will be held in that state. ](/news/2014/02/20/the-high-court-of-australia-rules-that-the-senate-election-in-the-state-of-western-australia-was-void-meaning-that-a-half-senate-election-w.md)
-_Context: High Court of Australia, Western Australia, Senate election, half-Senate election_
+_Context: Western Australia, Senate election, High Court of Australia, half-Senate election_
 
 ##### Utah
 ### [Utah and Colorado have announced that they plan to increase the smoking age to 21. ](/news/2014/02/20/utah-and-colorado-have-announced-that-they-plan-to-increase-the-smoking-age-to-21.md)

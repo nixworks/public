@@ -37,7 +37,7 @@ At least 25 people were killed on Wednesday when a 12-storey building collapsed 
 
 ##### Organized crime from Russia
 ### [Russian mafia boss Aslan Usoyan is killed in Moscow. ](/news/2013/01/16/russian-mafia-boss-aslan-usoyan-is-killed-in-moscow.md)
-_Context: Aslan Usoyan, Moscow, organized crime from Russia_
+_Context: organized crime from Russia, Moscow, Aslan Usoyan_
 
 ##### Jutiapa
 ### [Carlos Castillo Medrano, the mayor of Jutiapa, Guatemala, is shot and killed by unidentified assailants. ](/news/2013/01/16/carlos-castillo-medrano-the-mayor-of-jutiapa-guatemala-is-shot-and-killed-by-unidentified-assailants.md)

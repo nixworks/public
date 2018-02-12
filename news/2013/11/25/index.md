@@ -13,7 +13,7 @@ _Context: Benghazi, Libya, Libyan National Army_
 
 ##### The Hunger Games: Catching Fire
 ### ["The Hunger Games: Catching Fire" becomes the biggest North American November film release, grossing $161 million in the U.S. and Canada over its first weekend. ](/news/2013/11/25/the-hunger-games-catching-fire-becomes-the-biggest-north-american-november-film-release-grossing-161-million-in-the-u-s-and-canada-ove.md)
-_Context: The Hunger Games: Catching Fire, United States dollars, film release_
+_Context: United States dollars, The Hunger Games: Catching Fire, film release_
 
 ##### SGBPo Jose do Rio Preto
 ### [A cargo train laden with corn derails in SGBPo Jose do Rio Preto in southeastern Brazil, smashing into houses and killing at least eight and injuring another six. ](/news/2013/11/25/a-cargo-train-laden-with-corn-derails-in-sagbpo-josa-c-do-rio-preto-in-southeastern-brazil-smashing-into-houses-and-killing-at-least-eight-a.md)
@@ -21,11 +21,11 @@ A train has derailed and smashed into homes in southeastern Brazil, killing 8.
 
 ##### Premier of the People's Republic of China
 ### [Chinese Premier Li Keqiang, arrives in Bucharest, Romania, to attend the China-Central and Eastern Europe (CEE) leaders' meeting as a guest of Romanian Prime Minister Victor Ponta. ](/news/2013/11/25/chinese-premier-li-keqiang-arrives-in-bucharest-romania-to-attend-the-china-central-and-eastern-europe-cee-leadersa-meeting-as-a-gues.md)
-_Context: Li Keqiang, Premier of the People's Republic of China, Prime Minister, Bucharest, Victor Ponta, Romania_
+_Context: Bucharest, Prime Minister, Victor Ponta, Premier of the People's Republic of China, Li Keqiang, Romania_
 
 ##### Ohio
 ### [Ohio Attorney General Mike DeWine announces that four Steubenville, Ohio, City Schools employees, including Superintendent Michael McVey, have been indicted on felony and-or misdemeanor charges (obstruction, making false statements, etc.) relating to the 2012 Steubenville rape case. ](/news/2013/11/25/ohio-attorney-general-mike-dewine-announces-that-four-steubenville-ohio-city-schools-employees-including-superintendent-michael-mcvey-ha.md)
-_Context: Mike DeWine, 2012 Steubenville rape case, Attorney General, Ohio, Steubenville, Ohio_
+_Context: Steubenville, Ohio, Mike DeWine, Attorney General, 2012 Steubenville rape case, Ohio_
 
 ##### Columbine
 ### [The official intermediate report on the shooting is released online, totaling 48 pages, and detailing no clear motive for the shooting. It states that perpetrator Adam Lanza had had an obsession with shootings like Columbine, had a strained and non-communicative relationship with his murdered mother Nancy, and had planned the shooting and the details in advance. It does say he had mental health issues, but does not indicate they were causative factors. ](/news/2013/11/25/the-official-intermediate-report-on-the-shooting-is-released-online-totaling-48-pages-and-detailing-no-clear-motive-for-the-shooting-it-s.md)

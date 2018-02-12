@@ -21,11 +21,11 @@ A gunfight in the Democratic Republic of Congo mining capital of Lubumbashi leav
 
 ##### International Organization for Migration
 ### [The International Organization for Migration (IOM) expresses concern about thousands of Chadian people, mainly women, children and the elderly, stranded on dangerous territory on the border between Chad and Libya. ](/news/2011/06/29/the-international-organization-for-migration-iom-expresses-concern-about-thousands-of-chadian-people-mainly-women-children-and-the-elder.md)
-_Context: Libya, International Organization for Migration, Chad_
+_Context: International Organization for Migration, Chad, Libya_
 
 ##### Brown University
 ### [Research by Brown University finds the U.S. wars on Iraq and Afghanistan are expected to cost at least $3.2 trillion, and maybe as much as $4.4 trillion, higher than previously expected. ](/news/2011/06/29/research-by-brown-university-finds-the-u-s-wars-on-iraq-and-afghanistan-are-expected-to-cost-at-least-3-2-trillion-and-maybe-as-much-as.md)
-_Context: Iraq War, War in Afghanistan (2001-present), Brown University_
+_Context: War in Afghanistan (2001-present), Brown University, Iraq War_
 
 ##### Abuja
 ### [A curfew is imposed on Abuja by the Nigerian government due to recent deadly attacks. ](/news/2011/06/29/a-curfew-is-imposed-on-abuja-by-the-nigerian-government-due-to-recent-deadly-attacks.md)
@@ -57,7 +57,7 @@ _Context: United Kingdom_
 
 ##### Alderney Gambling Control Commission
 ### [The Alderney Gambling Control Commission suspends Full Tilt Poker's gaming license prior to a hearing over an indictment by the United States Department of Justice. ](/news/2011/06/29/the-alderney-gambling-control-commission-suspends-full-tilt-poker-s-gaming-license-prior-to-a-hearing-over-an-indictment-by-the-united-state.md)
-_Context: Department of Justice, Alderney Gambling Control Commission, indicted, Full Tilt Poker_
+_Context: indicted, Alderney Gambling Control Commission, Department of Justice, Full Tilt Poker_
 
 ##### Media conglomerate
 ### [Media conglomerate News Corporation sells MySpace to Specific Media. ](/news/2011/06/29/media-conglomerate-news-corporation-sells-myspace-to-specific-media.md)
@@ -81,11 +81,11 @@ South Sudan claims the North is using rebels to sow chaos ahead of its official 
 
 ##### North Korea
 ### [North Korea accuses South Korea of slander and threatens "a retaliatory sacred war". ](/news/2011/06/29/north-korea-accuses-south-korea-of-slander-and-threatens-a-retaliatory-sacred-war.md)
-_Context: slander, South Korea, North Korea_
+_Context: South Korea, slander, North Korea_
 
 ##### Omar al-Bashir
 ### [Omar al-Bashir of Sudan and Hu Jintao of the People's Republic of China meet. ](/news/2011/06/29/omar-al-bashir-of-sudan-and-hu-jintao-of-the-people-s-republic-of-china-meet.md)
-_Context: Omar al-Bashir, Sudan, Hu Jintao, China_
+_Context: Hu Jintao, China, Sudan, Omar al-Bashir_
 
 ##### U.S. state
 ### [A lawsuit of $25 million is brought by the mother of a U.S. teen, who was kidnapped, bound and forced to consume alcoholic substances before his death at a fraternity house, against the group responsible for his ordeal in the U.S. state of New York. ](/news/2011/06/29/a-lawsuit-of-25-million-is-brought-by-the-mother-of-a-u-s-teen-who-was-kidnapped-bound-and-forced-to-consume-alcoholic-substances-before.md)
@@ -121,7 +121,7 @@ Fianna Fáil Senator Ned O&#39;Sullivan has said he made &#39;around a dozen&#39
 
 ##### Rhode Island General Assembly
 ### [The Rhode Island General Assembly passes legislation allowing same-sex couples in the US state to enter civil unions. ](/news/2011/06/29/the-rhode-island-general-assembly-passes-legislation-allowing-same-sex-couples-in-the-us-state-to-enter-civil-unions.md)
-_Context: civil union, Rhode Island General Assembly_
+_Context: Rhode Island General Assembly, civil union_
 
 ## [Previous Day...](/news/2011/06/28/index.md)
 

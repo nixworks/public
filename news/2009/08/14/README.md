@@ -5,7 +5,7 @@ Formats: [HTML](2009/08/14/index.html)  [JSON](2009/08/14/index.json)  [XML](200
 
 ##### Pakistan
 ### [ Pakistan begins its first international freight train service from Islamabad to Istanbul. ](/news/2009/08/14/pakistan-begins-its-first-international-freight-train-service-from-islamabad-to-istanbul.md)
-_Context: Islamabad, Pakistan, Istanbul_
+_Context: Pakistan, Istanbul, Islamabad_
 
 ##### Caracas
 ### [ Hundreds of people protest in Caracas, Venezuela, after journalists protesting a new education law were beaten the previous day. ](/news/2009/08/14/hundreds-of-people-protest-in-caracas-venezuela-after-journalists-protesting-a-new-education-law-were-beaten-the-previous-day.md)
@@ -17,7 +17,7 @@ _Context: Madagascar_
 
 ##### MV ''Arctic Sea''
 ### [ The MV "Arctic Sea", missing since late July, is reportedly found 400 nmi off the Cape Verde islands. ](/news/2009/08/14/the-mv-arctic-sea-missing-since-late-july-is-reportedly-found-400-nmi-off-the-cape-verde-islands.md)
-_Context: Cape Verde, MV ''Arctic Sea''_
+_Context: MV ''Arctic Sea'', Cape Verde_
 
 ##### Canadian
 ### [ A Canadian court orders the government to repatriate Omar Khadr, the sole remaining Western citizen held in Guantanamo Bay detention camp. ](/news/2009/08/14/a-canadian-court-orders-the-government-to-repatriate-omar-khadr-the-sole-remaining-western-citizen-held-in-guantanamo-bay-detention-camp.md)
@@ -33,7 +33,7 @@ Paraguay&#039;s government withdrew a bill that would approve the incorporation 
 
 ##### Sudan
 ### [ In an unexpected move, Sudanese President Omar al-Bashir replaces Salah Gosh, his country's chief of security and intelligence since the mid-1990s, with General Mohamed Atta al-Mawla. ](/news/2009/08/14/in-an-unexpected-move-sudanese-president-omar-al-bashir-replaces-salah-gosh-his-country-s-chief-of-security-and-intelligence-since-the-mi.md)
-_Context: Mohamed Atta al-Mawla, Omar al-Bashir, Sudan, Salah Gosh, President, General_
+_Context: Salah Gosh, General, President, Omar al-Bashir, Sudan, Mohamed Atta al-Mawla_
 
 ##### Polish
 ### [ The remains of over 2,000 people discovered in Poland's largest mass grave from World War II are reburied in a military cemetery. ](/news/2009/08/14/the-remains-of-over-2-000-people-discovered-in-poland-s-largest-mass-grave-from-world-war-ii-are-reburied-in-a-military-cemetery.md)
@@ -45,7 +45,7 @@ Mexico president Felipe Calder&oacute;n and Uruguay&rsquo;s Tabare Vazquez signe
 
 ##### Philippines
 ### [ After launching a major offensive attack on a suspected ASG training camp, the day-long clash in the Southern Philippines resulted in 23 government casualties and 31 casualties from the Abu Sayyaf Group. ](/news/2009/08/14/after-launching-a-major-offensive-attack-on-a-suspected-asg-training-camp-the-day-long-clash-in-the-southern-philippines-resulted-in-23-go.md)
-_Context: Philippines, Abu Sayyaf Group_
+_Context: Abu Sayyaf Group, Philippines_
 
 ##### Iran
 ### [ Iranian reformists call for a probe of the Supreme Leader Ali Khamenei and his ability to rule. ](/news/2009/08/14/iranian-reformists-call-for-a-probe-of-the-supreme-leader-ali-khamenei-and-his-ability-to-rule.md)
@@ -65,7 +65,7 @@ Lawyers for the Lockerbie bomber say he is abandoning his second appeal against 
 
 ##### United Kingdom
 ### [ The United Kingdom imposes direct rule on the Turks and Caicos Islands after an inquiry found evidence of government corruption. ](/news/2009/08/14/the-united-kingdom-imposes-direct-rule-on-the-turks-and-caicos-islands-after-an-inquiry-found-evidence-of-government-corruption.md)
-_Context: government, United Kingdom, Turks and Caicos Islands, direct rule_
+_Context: United Kingdom, Turks and Caicos Islands, direct rule, government_
 
 ##### Gaza Strip
 ### [ At least 13 people are killed and at least 85 are injured in a fierce gun battle in Gaza. ](/news/2009/08/14/at-least-13-people-are-killed-and-at-least-85-are-injured-in-a-fierce-gun-battle-in-gaza.md)
@@ -73,11 +73,11 @@ _Context: Gaza Strip_
 
 ##### American
 ### [ United States senator Jim Webb arrives in Burma for talks with General Than Shwe. ](/news/2009/08/14/united-states-senator-jim-webb-arrives-in-burma-for-talks-with-general-than-shwe.md)
-_Context: Than Shwe, Burma, Jim Webb, American_
+_Context: Jim Webb, Than Shwe, Burma, American_
 
 ##### University of Glasgow
 ### [ A University of Glasgow study suggests Asians may view faces differently from others. ](/news/2009/08/14/a-university-of-glasgow-study-suggests-asians-may-view-faces-differently-from-others.md)
-_Context: University of Glasgow, Asia_
+_Context: Asia, University of Glasgow_
 
 ## [Previous Day...](/news/2009/08/13/index.md)
 

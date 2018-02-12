@@ -11,8 +11,8 @@ Documents reveal ex-Fifa president Joao Havelange was paid huge sums in bribes b
 
 ### Sources:
 
-1. [BBC](http://www.bbc.co.uk/sport/0/football/18804464)
-1. [Cover Image](http://ichef.bbci.co.uk/onesport/cps/624/mcs/media/images/61513000/jpg/_61513827_joao_havelange_getty.jpg)
+1. [BBC](https://www.bbc.co.uk/sport/0/football/18804464)
+1. [Cover Image](https://ichef.bbci.co.uk/onesport/cps/624/mcs/media/images/61513000/jpg/_61513827_joao_havelange_getty.jpg)
 
 ### Changes:
 

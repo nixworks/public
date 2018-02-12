@@ -25,7 +25,7 @@ Agreement between economic powerhouses reached after heads of state meet, follow
 
 ##### Iran
 ### [Iran spares the life of a convicted drug trafficker who survived a hanging. ](/news/2013/10/23/iran-spares-the-life-of-a-convicted-drug-trafficker-who-survived-a-hanging.md)
-_Context: drug trafficking, hanging, Iran_
+_Context: hanging, drug trafficking, Iran_
 
 ##### Danvers, Massachusetts
 ### [A 14-year-old student from Danvers, Massachusetts is accused of killing his math teacher at Danvers High School and dumping the body in the woods. ](/news/2013/10/23/a-14-year-old-student-from-danvers-massachusetts-is-accused-of-killing-his-math-teacher-at-danvers-high-school-and-dumping-the-body-in-the.md)
@@ -41,7 +41,7 @@ A Chinese newspaper publishes a full-page appeal for the release of one of its j
 
 ##### Cambodia
 ### [Thousands of opposition supporters protest in the Cambodian capital Phnom Penh following disputed July elections which saw incumbent Prime Minister Hun Sen re-elected. ](/news/2013/10/23/thousands-of-opposition-supporters-protest-in-the-cambodian-capital-phnom-penh-following-disputed-july-elections-which-saw-incumbent-prime-m.md)
-_Context: Phnom Penh, Hun Sen, Cambodia, July elections_
+_Context: Hun Sen, Cambodia, July elections, Phnom Penh_
 
 ##### 
 ### [President Obama's staff has unmasked and fired a national security official who tweeted critical comments under a pseudonym. ](/news/2013/10/23/president-obama-s-staff-has-unmasked-and-fired-a-national-security-official-who-tweeted-critical-comments-under-a-pseudonym.md)

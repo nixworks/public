@@ -9,23 +9,23 @@ Dutch&#x20;troops&#x20;ended&#x20;their&#x20;four-year&#x20;mission&#x20;in&#x20
 
 ##### Landmine
 ### [Wooden box mines, suspected to come from North Korea, wash ashore on a South Korean beach killing one man and injuring another. ](/news/2010/08/1/wooden-box-mines-suspected-to-come-from-north-korea-wash-ashore-on-a-south-korean-beach-killing-one-man-and-injuring-another.md)
-_Context: landmine, North Korea, South Korea_
+_Context: South Korea, North Korea, landmine_
 
 ##### Israeli Army
 ### [Israel Defense Forces jets attack targets in the Gaza Strip following a Qassam rocket fired at the Negev in Israel on Saturday night. ](/news/2010/08/1/israel-defense-forces-jets-attack-targets-in-the-gaza-strip-following-a-qassam-rocket-fired-at-the-negev-in-israel-on-saturday-night.md)
-_Context: Israel, Gaza Strip, Qassam rocket, Negev, Israeli Army_
+_Context: Negev, Gaza Strip, Qassam rocket, Israeli Army, Israel_
 
 ##### DR Congo
 ### [Almost 90,000 people flee renewed fighting in the eastern Democratic Republic of the Congo in the past month reflecting a declining security situation as the military fights Allied Democratic Forces-National Army for the Liberation of Uganda Ugandan Islamist rebels. ](/news/2010/08/1/almost-90-000-people-flee-renewed-fighting-in-the-eastern-democratic-republic-of-the-congo-in-the-past-month-reflecting-a-declining-security.md)
-_Context: Islamist, Allied Democratic Forces-National Army for the Liberation of Uganda, Military of the Democratic Republic of the Congo, Uganda, DR Congo_
+_Context: Islamist, Military of the Democratic Republic of the Congo, Uganda, DR Congo, Allied Democratic Forces-National Army for the Liberation of Uganda_
 
 ##### India
 ### [Six people die in the Indian province of Jammu and Kashmir after a third day of clashes between security forces and Muslim separatists. ](/news/2010/08/1/six-people-die-in-the-indian-province-of-jammu-and-kashmir-after-a-third-day-of-clashes-between-security-forces-and-muslim-separatists.md)
-_Context: security forces, India, Jammu and Kashmir_
+_Context: Jammu and Kashmir, security forces, India_
 
 ##### World Heritage List
 ### [Hawaii's Papahanaumokuakea Marine National Monument, the habitat of the endangered Hawaiian Monk seal and rare birds, and Sri Lanka's central highlands are added. ](/news/2010/08/1/hawaii-s-papahanaumokuakea-marine-national-monument-the-habitat-of-the-endangered-hawaiian-monk-seal-and-rare-birds-and-sri-lanka-s-cent.md)
-_Context: Papahanaumokuakea Marine National Monument, Hawaii, World Heritage List, Monk seal, Sri Lanka_
+_Context: Sri Lanka, World Heritage List, Hawaii, Papahanaumokuakea Marine National Monument, Monk seal_
 
 ##### Philippine Airlines
 ### [Philippine Airlines tells 25 airline pilots to return to work after quitting without notice forcing the airline to cancel flights. ](/news/2010/08/1/philippine-airlines-tells-25-airline-pilots-to-return-to-work-after-quitting-without-notice-forcing-the-airline-to-cancel-flights.md)
@@ -57,7 +57,7 @@ A new global treaty banning cluster munitions enters into force, hailed by campa
 
 ##### Colombia
 ### [Colombia denies claims by Venezuela that it is planning a military attack, a day after Venezuelan president Hugo Chavez said he was sending troops to their mutual border. ](/news/2010/08/1/colombia-denies-claims-by-venezuela-that-it-is-planning-a-military-attack-a-day-after-venezuelan-president-hugo-cha-vez-said-he-was-sending.md)
-_Context: Colombia, Venezuela, Hugo Chavez_
+_Context: Venezuela, Hugo Chavez, Colombia_
 
 ##### President
 ### [The President of Israel Shimon Peres and the President of Egypt Hosni Mubarak agree that Israel and the Palestinian Authority should hold direct talks. ](/news/2010/08/1/the-president-of-israel-shimon-peres-and-the-president-of-egypt-hosni-mubarak-agree-that-israel-and-the-palestinian-authority-should-hold-di.md)

@@ -13,11 +13,11 @@ The month-old fire in northern Santa Barbara County has burned an estimated 44,4
 
 ##### U.S. President
 ### [ US President George W. Bush signs a bill to implement recommendations of the 9-11 Commission. ](/news/2007/08/3/us-president-george-w-bush-signs-a-bill-to-implement-recommendations-of-the-9-11-commission.md)
-_Context: 9-11 Commission, George W. Bush, U.S. President_
+_Context: George W. Bush, 9-11 Commission, U.S. President_
 
 ##### Lawmakers
 ### [ The United States Congress allocates $250 million to rebuild the I-35W Mississippi River bridge in Minneapolis, Minnesota. ](/news/2007/08/3/the-united-states-congress-allocates-250-million-to-rebuild-the-i-35w-mississippi-river-bridge-in-minneapolis-minnesota.md)
-_Context: I-35W Mississippi River bridge, Minneapolis, $, lawmakers_
+_Context: Minneapolis, $, lawmakers, I-35W Mississippi River bridge_
 
 ##### United States Senate
 ### [ The United States Senate votes to extend the powers of intelligence agents to eavesdrop on suspected terrorists in a victory for President of the United States George W. Bush. ](/news/2007/08/3/the-united-states-senate-votes-to-extend-the-powers-of-intelligence-agents-to-eavesdrop-on-suspected-terrorists-in-a-victory-for-president.md)
@@ -25,7 +25,7 @@ The US Senate has voted to extend the power of intelligence agents to eavesdrop 
 
 ##### Your Black Muslim Bakery
 ### [ Raids at the Your Black Muslim Bakery in Oakland, California allegedly produces evidence that links the bakery to the murder of Chauncey Bailey, editor of "The Oakland Post", and two other people. ](/news/2007/08/3/raids-at-the-your-black-muslim-bakery-in-oakland-california-allegedly-produces-evidence-that-links-the-bakery-to-the-murder-of-chauncey-ba.md)
-_Context: murder, Oakland, California, The Oakland Post, Your Black Muslim Bakery, Chauncey Bailey_
+_Context: Chauncey Bailey, The Oakland Post, Oakland, California, murder, Your Black Muslim Bakery_
 
 ##### Canadian
 ### [ The Canadian government agrees to make available a judicial report on the treatment of Maher Arar falsely accused of terrorism. ](/news/2007/08/3/the-canadian-government-agrees-to-make-available-a-judicial-report-on-the-treatment-of-maher-arar-falsely-accused-of-terrorism.md)
@@ -33,7 +33,7 @@ The Canadian Government is giving up its quest to suppress a controversial judic
 
 ##### Mexican
 ### [ Mexican archaeologists announce the discovery of what is believed to be the tomb of Aztec emperor Ahuitzotl. ](/news/2007/08/3/mexican-archaeologists-announce-the-discovery-of-what-is-believed-to-be-the-tomb-of-aztec-emperor-ahuitzotl.md)
-_Context: Aztec, Ahuitzotl, Mexican_
+_Context: Mexican, Ahuitzotl, Aztec_
 
 ##### Russia
 ### [ Russia says that it will launch a criminal case against Andrei Lugovoi if the United Kingdom provides it with convincing evidence of Lugovoi's involvement in the murder of Alexander Litvinenko. ](/news/2007/08/3/russia-says-that-it-will-launch-a-criminal-case-against-andrei-lugovoi-if-the-united-kingdom-provides-it-with-convincing-evidence-of-lugovo.md)
@@ -45,11 +45,11 @@ _Context: Sierra Leone_
 
 ##### President of Zimbabwe
 ### [ The President Robert Mugabe of Zimbabwe signs the Interception of Communication Act into law, allowing the Zimbabwean government to listen to private telephone conversations, open mail and intercept faxes and e-mail. ](/news/2007/08/3/the-president-robert-mugabe-of-zimbabwe-signs-the-interception-of-communication-act-into-law-allowing-the-zimbabwean-government-to-listen.md)
-_Context: telephone, e-mail, mail, President of Zimbabwe, fax, Interception of Communication Act, Zimbabwe, Robert Mugabe_
+_Context: Interception of Communication Act, e-mail, telephone, President of Zimbabwe, fax, mail, Zimbabwe, Robert Mugabe_
 
 ##### Cuba
 ### [ Two Cuban boxers, Guillermo Rigondeaux Olympic bantamweight champion and amateur welterweight world champion Erislandi Lara, who deserted their team at the 2007 Pan American Games are found in Rio de Janeiro, Brazil and will be sent back to Cuba. ](/news/2007/08/3/two-cuban-boxers-guillermo-rigondeaux-olympic-bantamweight-champion-and-amateur-welterweight-world-champion-erislandi-lara-who-deserted-t.md)
-_Context: Guillermo Rigondeaux, welterweight, boxing, Olympic Games, Rio de Janeiro, bantamweight, 2007 Pan American Games, Cuba, Brazil, Erislandi Lara_
+_Context: Erislandi Lara, 2007 Pan American Games, Brazil, welterweight, bantamweight, boxing, Cuba, Guillermo Rigondeaux, Olympic Games, Rio de Janeiro_
 
 ##### Outbreak
 ### [ An outbreak of foot and mouth disease at a cattle farm in Surrey, UK is confirmed by Defra. The unlicenced movement of all livestock throughout the UK is prohibited. ](/news/2007/08/3/an-outbreak-of-foot-and-mouth-disease-at-a-cattle-farm-in-surrey-uk-is-confirmed-by-defra-the-unlicenced-movement-of-all-livestock-throug.md)
@@ -65,19 +65,19 @@ Monsoon floods have forced almost 20 million people out of their homes in northe
 
 ##### Turkey
 ### [ Turkey's two largest cities, Ankara and Istanbul, struggle with water shortages with Ankara rationing water to two days on, two days off as a result of having 5% left in their reservoirs. ](/news/2007/08/3/turkey-s-two-largest-cities-ankara-and-istanbul-struggle-with-water-shortages-with-ankara-rationing-water-to-two-days-on-two-days-off-as.md)
-_Context: rationing water, Ankara, Istanbul, Turkey, reservoirs_
+_Context: rationing water, Ankara, reservoirs, Turkey, Istanbul_
 
 ##### Supreme Court
 ### [ The Supreme Court of Pakistan frees Javed Hashmi, the leader of the Alliance for the Restoration of Democracy and Pakistan Muslim League faction leader, who was jailed in 2003 for writing a letter critical of the President of Pakistan Pervez Musharraf. ](/news/2007/08/3/the-supreme-court-of-pakistan-frees-javed-hashmi-the-leader-of-the-alliance-for-the-restoration-of-democracy-and-pakistan-muslim-league-fa.md)
-_Context: Pervez Musharraf, Supreme Court, president, Pakistan Muslim League, Javed Hashmi_
+_Context: Supreme Court, Pakistan Muslim League, Pervez Musharraf, Javed Hashmi, president_
 
 ##### Darfur
 ### [ Rebel groups in Darfur hold meetings in Tanzania jointly mediated by the United Nations and the African Union to resolve disputes. ](/news/2007/08/3/rebel-groups-in-darfur-hold-meetings-in-tanzania-jointly-mediated-by-the-united-nations-and-the-african-union-to-resolve-disputes.md)
-_Context: Darfur, Tanzania, United Nations, African Union_
+_Context: African Union, United Nations, Tanzania, Darfur_
 
 ##### Patriarch
 ### [ Patriarch Teoctist of the Romanian Orthodox Church is buried in a ceremony in Bucharest led by Bartholomew I, the leader of the Eastern Orthodox churches. ](/news/2007/08/3/patriarch-teoctist-of-the-romanian-orthodox-church-is-buried-in-a-ceremony-in-bucharest-led-by-bartholomew-i-the-leader-of-the-eastern-ort.md)
-_Context: Bucharest, Teoctist, Eastern Orthodox, Patriarch, Bartholomew I, Romanian Orthodox Church_
+_Context: Patriarch, Bucharest, Teoctist, Romanian Orthodox Church, Eastern Orthodox, Bartholomew I_
 
 ## [Previous Day...](/news/2007/08/2/index.md)
 

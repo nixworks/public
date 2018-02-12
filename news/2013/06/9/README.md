@@ -5,7 +5,7 @@ Formats: [HTML](2013/06/9/index.html)  [JSON](2013/06/9/index.json)  [XML](2013/
 
 ##### Lebanese
 ### [A Lebanese man protesting against Hezbollah's role in the Syrian civil war is shot dead outside the Iranian embassy in Beirut. ](/news/2013/06/9/a-lebanese-man-protesting-against-hezbollah-s-role-in-the-syrian-civil-war-is-shot-dead-outside-the-iranian-embassy-in-beirut.md)
-_Context: Iranian embassy, Beirut, Lebanese, Syrian civil war, Hezbollah_
+_Context: Hezbollah, Iranian embassy, Lebanese, Beirut, Syrian civil war_
 
 ##### Taliban
 ### [Thirty-five militants and one soldier are killed in fighting in the Khyber Agency tribal region of northwest Pakistan in an operation. ](/news/2013/06/9/thirty-five-militants-and-one-soldier-are-killed-in-fighting-in-the-khyber-agency-tribal-region-of-northwest-pakistan-in-an-operation.md)
@@ -37,11 +37,11 @@ Some in the administration and Congress say whoever leaked the information shoul
 
 ##### Muslims
 ### [300 Muslims are arrested in Moscow, Russia while they pray at a mosque in an apparent crackdown on radical Islam. ](/news/2013/06/9/300-muslims-are-arrested-in-moscow-russia-while-they-pray-at-a-mosque-in-an-apparent-crackdown-on-radical-islam.md)
-_Context: Muslims, Russia, mosque, Moscow_
+_Context: Muslims, Russia, Moscow, mosque_
 
 ##### Anti-government protests
 ### [2013 protests in Turkey: Turkish prime minister Recep Tayyip Erdogan called protestors "a handful of looters". ](/news/2013/06/9/2013-protests-in-turkey-turkish-prime-minister-recep-tayyip-erdoaan-called-protestors-a-handful-of-looters.md)
-_Context: anti-government protests, Recep Tayyip Erdogan_
+_Context: Recep Tayyip Erdogan, anti-government protests_
 
 ## [Previous Day...](/news/2013/06/8/index.md)
 

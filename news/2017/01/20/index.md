@@ -17,7 +17,7 @@ An association of Japanese toilet makers will unify pictograms on toilets with b
 
 ##### Tehran
 ### [Search continues for missing firefighters in Tehran's Plasco Building site after the building's deadly fire and collapsing last day. ](/news/2017/01/20/search-continues-for-missing-firefighters-in-tehran-s-plasco-building-site-after-the-building-s-deadly-fire-and-collapsing-last-day.md)
-_Context: Plasco Building, Tehran_
+_Context: Tehran, Plasco Building_
 
 ##### 2017 Rigopiano avalanche
 ### [Italian emergency crews rescue 10 people, including four children, from 161/2 feet of snow and wreckage from the luxury Hotel Rigopiano following yesterday's Gran Sasso mountain avalanche. Searchers find four bodies, while families of at least 16 people still missing wait for news. ](/news/2017/01/20/italian-emergency-crews-rescue-10-people-including-four-children-from-16a1-2-feet-of-snow-and-wreckage-from-the-luxury-hotel-rigopiano-follo.md)
@@ -33,11 +33,11 @@ The heir to the Johnson &amp; Johnson pharmaceutical empire originally supported
 
 ##### Drove a car
 ### [Three people are killed and twenty injured after a man drove a car into the Bourke Street Mall in the CBD of the Australian city Melbourne. A man has been arrested and Victoria Police say the incident is not terror related. In the next few weeks, the death toll would rise to six. ](/news/2017/01/20/three-people-are-killed-and-twenty-injured-after-a-man-drove-a-car-into-the-bourke-street-mall-in-the-cbd-of-the-australian-city-melbourne.md)
-_Context: drove a car, Melbourne, Bourke Street Mall, Victoria Police, Australia_
+_Context: Victoria Police, Bourke Street Mall, Australia, Melbourne, drove a car_
 
 ##### Inauguration of Donald Trump protests
 ### [Some protesters of the inauguration smash windows, damage cars, and clash with the police. Six police officers and at least one civilian are injured. DC police say 217 protesters have been arrested. ](/news/2017/01/20/some-protesters-of-the-inauguration-smash-windows-damage-cars-and-clash-with-the-police-six-police-officers-and-at-least-one-civilian-are.md)
-_Context: DC police, Inauguration of Donald Trump protests_
+_Context: Inauguration of Donald Trump protests, DC police_
 
 ##### Inauguration of Donald Trump
 ### [Donald Trump is officially sworn in as the 45th President of the United States. ](/news/2017/01/20/donald-trump-is-officially-sworn-in-as-the-45th-president-of-the-united-states.md)
@@ -49,7 +49,7 @@ The Gambian strongman Yahya Jammeh has agreed to step down, officials involved i
 
 ##### Cabinet of Donald Trump
 ### [The U.S. Senate confirms the first two members of President Donald Trump's Cabinet: retired Marine General James Mattis as Secretary of Defense, and retired Marine general John F. Kelly as Secretary of Homeland Security. ](/news/2017/01/20/the-u-s-senate-confirms-the-first-two-members-of-president-donald-trump-s-cabinet-retired-marine-general-james-mattis-as-secretary-of-defe.md)
-_Context: Donald Trump, Secretary of Homeland Security, John F. Kelly, Cabinet, Cabinet of Donald Trump, James Mattis, U.S. President, United States Secretary of Defense_
+_Context: Donald Trump, United States Secretary of Defense, Secretary of Homeland Security, Cabinet of Donald Trump, James Mattis, John F. Kelly, Cabinet, U.S. President_
 
 ## [Previous Day...](/news/2017/01/19/index.md)
 

@@ -9,7 +9,7 @@ Ahmad Shafiq promises not to allow street violence again, after clashes in Cairo
 
 ##### United States Senate
 ### [The United States Senate passes a motion supporting democracy in Egypt and calling on President Hosni Mubarak to begin transferring power. ](/news/2011/02/3/the-united-states-senate-passes-a-motion-supporting-democracy-in-egypt-and-calling-on-president-hosni-mubarak-to-begin-transferring-power.md)
-_Context: President, United States Senate, Hosni Mubarak, democratic_
+_Context: democratic, President, Hosni Mubarak, United States Senate_
 
 ##### 2011 Yemeni protests
 ### [2011 Yemeni protests: Thousands of pro- and anti-government supporters demonstrate in Yemen over the rule of President Ali Abdullah Saleh in a planned "day of rage". ](/news/2011/02/3/2011-yemeni-protests-thousands-of-pro-and-anti-government-supporters-demonstrate-in-yemen-over-the-rule-of-president-ali-abdullah-saleh-in.md)
@@ -17,7 +17,7 @@ Anti-government demonstrators reiterate calls for president to stand down while 
 
 ##### 2010-2011 Algerian protests
 ### [2010-2011 Algerian protests: President Abdelaziz Bouteflika vows to lift the country's state of emergency, in force since 1992, in the "very near future". ](/news/2011/02/3/2010a2011-algerian-protests-president-abdelaziz-bouteflika-vows-to-lift-the-country-s-state-of-emergency-in-force-since-1992-in-the-ve.md)
-_Context: Abdelaziz Bouteflika, 2010-2011 Algerian protests, President_
+_Context: 2010-2011 Algerian protests, Abdelaziz Bouteflika, President_
 
 ##### Protestors
 ### [2011 Syrian protests: Social media mobilises the people of Syria for rallies demanding freedom, human rights and the end to emergency law, scheduled for Friday and Saturday in front of the parliament in Damascus and at Syrian embassies internationally. ](/news/2011/02/3/2011-syrian-protests-social-media-mobilises-the-people-of-syria-for-rallies-demanding-freedom-human-rights-and-the-end-to-emergency-law-s.md)
@@ -41,7 +41,7 @@ Brent crude rose above $103 a barrel on Thursday after violent clashes in Egypt 
 
 ##### Cyclone Yasi
 ### [Cyclone Yasi hits North Queensland in Australia with the worst affected towns including Mission Beach, Tully, Cardwell and Innisfail. ](/news/2011/02/3/cyclone-yasi-hits-north-queensland-in-australia-with-the-worst-affected-towns-including-mission-beach-tully-cardwell-and-innisfail.md)
-_Context: northern, Cyclone Yasi, Tully, Mission Beach, Australia, Cardwell, Innisfail_
+_Context: northern, Cyclone Yasi, Australia, Tully, Innisfail, Cardwell, Mission Beach_
 
 ##### Ankara
 ### [Death toll of second blast reaches 18 in Ankara, Turkey. ](/news/2011/02/3/death-toll-of-second-blast-reaches-18-in-ankara-turkey.md)
@@ -49,7 +49,7 @@ _Context: Turkey, Ankara_
 
 ##### Fireworks
 ### [Two people are killed and 223 injured in Beijing as a result of fireworks set off on the first day of the Chinese New Year. ](/news/2011/02/3/two-people-are-killed-and-223-injured-in-beijing-as-a-result-of-fireworks-set-off-on-the-first-day-of-the-chinese-new-year.md)
-_Context: Chinese New Year, fireworks_
+_Context: fireworks, Chinese New Year_
 
 ##### Silvio Berlusconi
 ### [Italy's parliament rejects a search request by prosecutors investigating Silvio Berlusconi for having sexual intercourse with an under-age prostitute. ](/news/2011/02/3/italy-s-parliament-rejects-a-search-request-by-prosecutors-investigating-silvio-berlusconi-for-having-sexual-intercourse-with-an-under-age-p.md)
@@ -77,7 +77,7 @@ Thirty years after the first Internet addresses were created, the supply of addr
 
 ##### Protein folding
 ### [Protein folding is advanced by the announcement of a discovery of a key mechanism in the relationship of protein folding to surrounding water by Olivier Collet at Nancy University (Nancy-Universite). ](/news/2011/02/3/protein-folding-is-advanced-by-the-announcement-of-a-discovery-of-a-key-mechanism-in-the-relationship-of-protein-folding-to-surrounding-wate.md)
-_Context: Nancy-Universite, Nancy University, Protein folding_
+_Context: Nancy-Universite, Protein folding, Nancy University_
 
 ## [Previous Day...](/news/2011/02/2/index.md)
 

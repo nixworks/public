@@ -21,7 +21,7 @@ _Context: Mexican, Tamaulipas, Valle Hermoso_
 
 ##### Russia
 ### [At least two people are killed in a blaze at a shopping centre in the southwest Russian city of Ufa. ](/news/2011/01/22/at-least-two-people-are-killed-in-a-blaze-at-a-shopping-centre-in-the-southwest-russian-city-of-ufa.md)
-_Context: Ufa, Russia_
+_Context: Russia, Ufa_
 
 ##### Death toll from flooding
 ### [The death toll from flooding in South Africa rises to 70 and more than 8,000 families are homeless. Five other nearby countries - Botswana, Mozambique, Namibia, Zambia and Zimbabwe - are threatened by killer heavy rains. ](/news/2011/01/22/the-death-toll-from-flooding-in-south-africa-rises-to-70-and-more-than-8-000-families-are-homeless-five-other-nearby-countries-botswana.md)
@@ -49,7 +49,7 @@ Prime Minister Sali Berisha of Albania says there will be no Tunisia-style upris
 
 ##### Tunisia
 ### [Tunisia's prime minister Mohamed Ghannouchi promises in a TV interview to leave politics "in the shortest possible timeframe" after elections to be held following President Zine El Abidine Ben Ali's recent fall. ](/news/2011/01/22/tunisia-s-prime-minister-mohamed-ghannouchi-promises-in-a-tv-interview-to-leave-politics-in-the-shortest-possible-timeframe-after-election.md)
-_Context: Zine El Abidine Ben Ali, demonstrations that toppled his regime, President of Tunisia, Mohamed Ghannouchi, Tunisia_
+_Context: President of Tunisia, Tunisia, Zine El Abidine Ben Ali, Mohamed Ghannouchi, demonstrations that toppled his regime_
 
 ##### Taoiseach
 ### [Taoiseach Brian Cowen announces he is to make a "significant" statement on his leadership of the ruling Fianna Fail party in Dublin at 14:00, to be broadcast on television and radio. ](/news/2011/01/22/taoiseach-brian-cowen-announces-he-is-to-make-a-significant-statement-on-his-leadership-of-the-ruling-fianna-fa-il-party-in-dublin-at-14-0.md)
@@ -57,7 +57,7 @@ Irish Prime Minister Brian Cowenwill address the media at 1400 GMT on Saturday, 
 
 ##### H-II Transfer Vehicle
 ### [An unmanned Japanese H-II Transfer Vehicle HTV-2 Resupply Craft was launched atop the H-IIB rocket Saturday on a mission to deliver cargo to the International Space Station. ](/news/2011/01/22/an-unmanned-japanese-h-ii-transfer-vehicle-htv-2-resupply-craft-was-launched-atop-the-h-iib-rocket-saturday-on-a-mission-to-deliver-cargo-to.md)
-_Context: H-IIB, H-II Transfer Vehicle, International Space Station_
+_Context: H-IIB, International Space Station, H-II Transfer Vehicle_
 
 ## [Previous Day...](/news/2011/01/21/index.md)
 

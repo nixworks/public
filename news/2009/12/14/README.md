@@ -5,15 +5,15 @@ Formats: [HTML](2009/12/14/index.html)  [JSON](2009/12/14/index.json)  [XML](200
 
 ##### Group of 77
 ### [ The Group of 77 (including China, India, UAE, Qatar, and Saudi Arabia) suspends participation in treaty negotiations at the Copenhagen Climate Change Conference, citing the unwillingness of developed nations to live up to the Kyoto Protocol and what they view as a lack of open negotiations. ](/news/2009/12/14/the-group-of-77-including-china-india-uae-qatar-and-saudi-arabia-suspends-participation-in-treaty-negotiations-at-the-copenhagen-clim.md)
-_Context: Saudi Arabia, China, Conference on Climate Change, Group of 77, Copenhagen, Kyoto Protocol, India, Qatar, UAE_
+_Context: China, UAE, Qatar, India, Saudi Arabia, Copenhagen, Kyoto Protocol, Group of 77, Conference on Climate Change_
 
 ##### Antonio Maria Costa
 ### [ Antonio Maria Costa, head of the UN Office on Drugs and Crime, claims that some banks were rescued during the recent global financial crisis by billions of dollars that originated from the illegal drug trade. ](/news/2009/12/14/antonio-maria-costa-head-of-the-un-office-on-drugs-and-crime-claims-that-some-banks-were-rescued-during-the-recent-global-financial-crisi.md)
-_Context: UN Office on Drugs and Crime, drug traffickers, Antonio Maria Costa_
+_Context: Antonio Maria Costa, drug traffickers, UN Office on Drugs and Crime_
 
 ##### Veined Octopus
 ### [ Researchers report that the Veined Octopus retrieves coconut shell halves to use as shelter, becoming the first invertebrates recorded to use tools. ](/news/2009/12/14/researchers-report-that-the-veined-octopus-retrieves-coconut-shell-halves-to-use-as-shelter-becoming-the-first-invertebrates-recorded-to-u.md)
-_Context: use tools, invertebrate, coconut, Veined Octopus_
+_Context: Veined Octopus, invertebrate, use tools, coconut_
 
 ##### Eritrea
 ### [ The Eritrean national football team goes missing in Kenya, with the intention of seeking asylum. ](/news/2009/12/14/the-eritrean-national-football-team-goes-missing-in-kenya-with-the-intention-of-seeking-asylum.md)
@@ -21,7 +21,7 @@ _Context: Eritrea, national football team, Kenya_
 
 ##### Cabin crew
 ### [ Cabin crew at British Airways vote overwhelmingly in favour of a planned 12 days of strike action over Christmas and the New Year in a dispute over job cuts and changes to staff contracts. ](/news/2009/12/14/cabin-crew-at-british-airways-vote-overwhelmingly-in-favour-of-a-planned-12-days-of-strike-action-over-christmas-and-the-new-year-in-a-disp.md)
-_Context: proposed twelve day strike, Cabin crew, Christmas, New Year, British Airways_
+_Context: Cabin crew, New Year, Christmas, proposed twelve day strike, British Airways_
 
 ##### Sebastian Piera
 ### [ Centre-right candidate Sebastian Piera wins the first round of the presidential election in Chile, and will face a run off with centre-left candidate Eduardo Frei on January 17. ](/news/2009/12/14/centre-right-candidate-sebastian-pinera-wins-the-first-round-of-the-presidential-election-in-chile-and-will-face-a-run-off-with-centre-lef.md)
@@ -37,11 +37,11 @@ _Context: junta, ECOWAS, Guinea_
 
 ##### Sudan
 ### [ Sudanese police fire tear gas and detain some 38 protesters in clashes at a planned pro-democracy rally in Omdurman. ](/news/2009/12/14/sudanese-police-fire-tear-gas-and-detain-some-38-protesters-in-clashes-at-a-planned-pro-democracy-rally-in-omdurman.md)
-_Context: Sudan, Omdurman_
+_Context: Omdurman, Sudan_
 
 ##### Bangkok
 ### [ A Bangkok court extends the detention of the crew of the seized Ilyushin Il-76, a cargo aircraft loaded with 35 tonnes of arms from North Korea, charging them with the illegal possession of weapons. ](/news/2009/12/14/a-bangkok-court-extends-the-detention-of-the-crew-of-the-seized-ilyushin-il-76-a-cargo-aircraft-loaded-with-35-tonnes-of-arms-from-north-k.md)
-_Context: Bangkok, cargo aircraft, Ilyushin Il-76, North Korea_
+_Context: Ilyushin Il-76, North Korea, cargo aircraft, Bangkok_
 
 ##### China
 ### [ It is revealed that China's People's Liberation Army has built a massive underground tunnel in the Hebei region to protect its nuclear weapons. ](/news/2009/12/14/it-is-revealed-that-china-s-people-s-liberation-army-has-built-a-massive-underground-tunnel-in-the-hebei-region-to-protect-its-nuclear-weap.md)
@@ -53,7 +53,7 @@ _Context: Hypo Alpe-Adria-Bank International, Austria_
 
 ##### TeliaSonera
 ### [ TeliaSonera opens the world's first 4G LTE cellular network for public in Oslo, Norway, and Stockholm, Sweden. ](/news/2009/12/14/teliasonera-opens-the-world-s-first-4g-lte-cellular-network-for-public-in-oslo-norway-and-stockholm-sweden.md)
-_Context: Oslo, Sweden, Norway, cellular network, TeliaSonera, 4G, Stockholm, LTE_
+_Context: LTE, Stockholm, Oslo, Sweden, cellular network, TeliaSonera, 4G, Norway_
 
 ## [Previous Day...](/news/2009/12/13/index.md)
 

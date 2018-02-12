@@ -5,31 +5,31 @@ Formats: [HTML](2007/11/21/index.html)  [JSON](2007/11/21/index.json)  [XML](200
 
 ##### Opposition
 ### [ Opposition politician and Pakistan Tehreek-e-Insaf leader Imran Khan is released from prison in Punjab. ](/news/2007/11/21/opposition-politician-and-pakistan-tehreek-e-insaf-leader-imran-khan-is-released-from-prison-in-punjab.md)
-_Context: Opposition, Punjab, Pakistan Tehreek-e-Insaf, politician, Imran Khan_
+_Context: Opposition, Imran Khan, Pakistan Tehreek-e-Insaf, politician, Punjab_
 
 ##### Transport
 ### [ Transport unions start talks with management and the government over pension reforms in the eighth consecutive day of strike. ](/news/2007/11/21/transport-unions-start-talks-with-management-and-the-government-over-pension-reforms-in-the-eighth-consecutive-day-of-strike.md)
-_Context: management, government, strike, labour unions, Transport, pension reform_
+_Context: government, management, Transport, strike, pension reform, labour unions_
 
 ##### American
 ### [ United States Secretary of State Condoleezza Rice says the White House wants to broker a permanent deal between Israel and the Palestinian Authority before President George W. Bush leaves office. ](/news/2007/11/21/united-states-secretary-of-state-condoleezza-rice-says-the-white-house-wants-to-broker-a-permanent-deal-between-israel-and-the-palestinian.md)
-_Context: George W. Bush, Palestinian Authority, U.S. President, United States Secretary of State, American, Israel, White House, Condoleezza Rice_
+_Context: George W. Bush, United States Secretary of State, American, Palestinian Authority, Condoleezza Rice, White House, U.S. President, Israel_
 
 ##### Portugal
 ### [ Portuguese Minister of Foreign Affairs Lus Amado says Zimbabwean President Robert Mugabe is not welcome at the December European Union-African Union summit in Lisbon. United Kingdom Prime Minister Gordon Brown says he will not attend if Mugabe is present. ](/news/2007/11/21/portuguese-minister-of-foreign-affairs-luis-amado-says-zimbabwean-president-robert-mugabe-is-not-welcome-at-the-december-european-union-afr.md)
-_Context: Lisbon, Portugal, United Kingdom, Zimbabwe, Robert Mugabe, African Union, Lus Amado, European Union, Prime Minister, President of Zimbabwe, Gordon Brown, Minister of Foreign Affairs_
+_Context: Minister of Foreign Affairs, Lisbon, Prime Minister, African Union, Gordon Brown, Robert Mugabe, Lus Amado, Zimbabwe, United Kingdom, Portugal, President of Zimbabwe, European Union_
 
 ##### England
 ### [ England fail to qualify for Euro 2008 after 3-2 loss to Croatia. ](/news/2007/11/21/england-fail-to-qualify-for-euro-2008-after-3-2-loss-to-croatia.md)
-_Context: Euro 2008, England, Croatia_
+_Context: Croatia, Euro 2008, England_
 
 ##### White House
 ### [ Former White House Press Secretary Scott McClellan claims that United States President George W. Bush was involved in the Plame affair. ](/news/2007/11/21/former-white-house-press-secretary-scott-mcclellan-claims-that-united-states-president-george-w-bush-was-involved-in-the-plame-affair.md)
-_Context: U.S. President, White House, White House Press Secretary, George W. Bush, American, CIA leak scandal, Scott McClellan_
+_Context: White House, American, White House Press Secretary, U.S. President, Scott McClellan, CIA leak scandal, George W. Bush_
 
 ##### French President
 ### [ Former President of France Jacques Chirac is probed by a judge for alleged embezzlement of public funds when he was Mayor of Paris. ](/news/2007/11/21/former-president-of-france-jacques-chirac-is-probed-by-a-judge-for-alleged-embezzlement-of-public-funds-when-he-was-mayor-of-paris.md)
-_Context: embezzlement, public funds, French President, Mayor of Paris, Jacques Chirac_
+_Context: embezzlement, Jacques Chirac, French President, public funds, Mayor of Paris_
 
 ##### Kyoto
 ### [ Researchers in Kyoto, San Francisco, and Wisconsin publish evidence of turning human skin cells into stem cells by the retroviral insertion of genes. ](/news/2007/11/21/researchers-in-kyoto-san-francisco-and-wisconsin-publish-evidence-of-turning-human-skin-cells-into-stem-cells-by-the-retroviral-insertion.md)
@@ -37,7 +37,7 @@ Turning human skin cells into what appear to be embryonic stem cells without hav
 
 ##### Flooding
 ### [ The death toll from flooding caused by cyclone Guba in the Oro Province of Papua New Guinea rises to 150. ](/news/2007/11/21/the-death-toll-from-flooding-caused-by-cyclone-guba-in-the-oro-province-of-papua-new-guinea-rises-to-150.md)
-_Context: cyclone Guba, Oro Province, flooding, Papua New Guinea_
+_Context: Papua New Guinea, flooding, Oro Province, cyclone Guba_
 
 ##### Islamic Action Front
 ### [ The Islamic Action Front loses most of its seats in the 2007 Jordanian parliamentary election. ](/news/2007/11/21/the-islamic-action-front-loses-most-of-its-seats-in-the-2007-jordanian-parliamentary-election.md)
@@ -49,23 +49,23 @@ _Context: army, cyclone Sidr_
 
 ##### Military
 ### [ The Nigerian Army is deployed in Kano State after six people died in clashes during local elections. ](/news/2007/11/21/the-nigerian-army-is-deployed-in-kano-state-after-six-people-died-in-clashes-during-local-elections.md)
-_Context: local election, Kano state, Military_
+_Context: Military, Kano state, local election_
 
 ##### United Nations
 ### [ The United Nations General Assembly approves Resolution 62-9, stating that the "emergency phase" in Chernobyl is over, and the "recovery phase" should start. ](/news/2007/11/21/the-united-nations-general-assembly-approves-resolution-62-9-stating-that-the-emergency-phase-in-chernobyl-is-over-and-the-recovery-ph.md)
-_Context: Resolution 62/9, United Nations General Assembly, United Nations, Chernobyl_
+_Context: United Nations, Resolution 62/9, Chernobyl, United Nations General Assembly_
 
 ##### Iraq
 ### [ About 1,000 people a day are returning to Iraq from Syria and Jordan. ](/news/2007/11/21/about-1-000-people-a-day-are-returning-to-iraq-from-syria-and-jordan.md)
-_Context: Syria, Jordan, Iraq_
+_Context: Jordan, Syria, Iraq_
 
 ##### South Africa
 ### [ A South African Police Oryx helicopter crashes near Wepener, killing 14 officers. ](/news/2007/11/21/a-south-african-police-oryx-helicopter-crashes-near-wepener-killing-14-officers.md)
-_Context: Wepener, South Africa, helicopter, Oryx, Police_
+_Context: helicopter, Oryx, Police, South Africa, Wepener_
 
 ##### India
 ### [ The Indian Army is deployed in Kolkata after a riot against Bangladeshi feminist writer Taslima Nasreen erupts into violence. ](/news/2007/11/21/the-indian-army-is-deployed-in-kolkata-after-a-riot-against-bangladeshi-feminist-writer-taslima-nasreen-erupts-into-violence.md)
-_Context: Bangladesh, feminist, Kolkata, violence, riot, Indian Army, Taslima Nasreen, India_
+_Context: Taslima Nasreen, violence, feminist, riot, India, Kolkata, Indian Army, Bangladesh_
 
 ## [Previous Day...](/news/2007/11/20/index.md)
 

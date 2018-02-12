@@ -9,15 +9,15 @@ _Context: Somalia, Kenya_
 
 ##### Ja'ar
 ### [Children in Ja'ar, Yemen, accidentally set off a shell, killing one and wounding seven others. ](/news/2012/07/2/children-in-jae-ar-yemen-accidentally-set-off-a-shell-killing-one-and-wounding-seven-others.md)
-_Context: Yemen, Ja'ar_
+_Context: Ja'ar, Yemen_
 
 ##### Kenya
 ### [Officials in Kenya say that two Iranian Islamic Revolutionary Guards arrested with explosives planned to attack Israeli, American, British and Saudi Arabian targets inside Kenya. ](/news/2012/07/2/officials-in-kenya-say-that-two-iranian-islamic-revolutionary-guards-arrested-with-explosives-planned-to-attack-israeli-american-british-a.md)
-_Context: Saudi Arabian, United Kingdom, American, Islamic Revolutionary Guards, Kenya, Iran, Israelis_
+_Context: United Kingdom, American, Islamic Revolutionary Guards, Kenya, Iran, Israelis, Saudi Arabian_
 
 ##### Finland
 ### [Finland says it will block the euro zone's permanent bailout fund (ESM) from buying government bonds in the open market, while The Netherlands also indicates opposition to the bond-buying idea. ](/news/2012/07/2/finland-says-it-will-block-the-euro-zone-s-permanent-bailout-fund-esm-from-buying-government-bonds-in-the-open-market-while-the-netherlan.md)
-_Context: Finland, Netherlands_
+_Context: Netherlands, Finland_
 
 ##### Airbus
 ### [Airbus says it plans to open a $600 million assembly plant in Mobile, Alabama, USA. ](/news/2012/07/2/airbus-says-it-plans-to-open-a-600-million-assembly-plant-in-mobile-alabama-usa.md)
@@ -29,15 +29,15 @@ GlaxoSmithKline Plc agreed to plead guilty to misdemeanor criminal charges and p
 
 ##### IPO
 ### [Despite early frustration and strife about their IPO, Facebook decides to remain on the Nasdaq. ](/news/2012/07/2/despite-early-frustration-and-strife-about-their-ipo-facebook-decides-to-remain-on-the-nasdaq.md)
-_Context: Nasdaq, IPO, Facebook_
+_Context: Nasdaq, Facebook, IPO_
 
 ##### United Kingdom
 ### [The British government announces a parliamentary investigation into the Barclays Libor scandal, with reports hoped to be filed by the end of the year. ](/news/2012/07/2/the-british-government-announces-a-parliamentary-investigation-into-the-barclays-libor-scandal-with-reports-hoped-to-be-filed-by-the-end-of.md)
-_Context: Barclays, Libor, United Kingdom_
+_Context: Libor, Barclays, United Kingdom_
 
 ##### Chicago
 ### [Some, but not all, of Chicago's taxi drivers go on strike during the morning rush hour to protest a new set of city regulations that took effect. ](/news/2012/07/2/some-but-not-all-of-chicago-s-taxi-drivers-go-on-strike-during-the-morning-rush-hour-to-protest-a-new-set-of-city-regulations-that-took-ef.md)
-_Context: taxi, Chicago, rush hour_
+_Context: rush hour, taxi, Chicago_
 
 ##### Northeast India
 ### [At least 79 people are killed and 2.2 million rendered homeless as torrential monsoon rains trigger floods in Northeast India. ](/news/2012/07/2/at-least-79-people-are-killed-and-2-2-million-rendered-homeless-as-torrential-monsoon-rains-trigger-floods-in-northeast-india.md)
@@ -73,7 +73,7 @@ Hamas said it suspended the elections commission for not treating its supporters
 
 ##### NASA
 ### [NASA and Lockheed Martin unveil the first space-bound Orion spacecraft in Cape Canaveral. ](/news/2012/07/2/nasa-and-lockheed-martin-unveil-the-first-space-bound-orion-spacecraft-in-cape-canaveral.md)
-_Context: Lockheed, Cape Canaveral, Orion spacecraft, NASA_
+_Context: Lockheed, NASA, Orion spacecraft, Cape Canaveral_
 
 ## [Previous Day...](/news/2012/07/1/index.md)
 

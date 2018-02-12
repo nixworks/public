@@ -57,7 +57,7 @@ _Context: Sofia, Parliament of Bulgaria_
 
 ##### President of South Sudan
 ### [The President of South Sudan, Salva Kiir Mayardit, sacks his entire government, including the Vice President, Riek Machar. ](/news/2013/07/23/the-president-of-south-sudan-salva-kiir-mayardit-sacks-his-entire-government-including-the-vice-president-riek-machar.md)
-_Context: President of South Sudan, Riek Machar, Salva Kiir Mayardit_
+_Context: Riek Machar, Salva Kiir Mayardit, President of South Sudan_
 
 ## [Previous Day...](/news/2013/07/22/index.md)
 

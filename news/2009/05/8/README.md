@@ -13,7 +13,7 @@ Afghan President Hamid Karzai on Friday called on the United States to halt air 
 
 ##### Louis Caldera
 ### [ Louis Caldera resigns as Director of the White House Military Office. ](/news/2009/05/8/louis-caldera-resigns-as-director-of-the-white-house-military-office.md)
-_Context: resigns, Director, White House Military Office, Louis Caldera_
+_Context: Director, resigns, White House Military Office, Louis Caldera_
 
 ##### Wildfires
 ### [ Wildfires cause at least 30,000 people to evacuate Santa Barbara, California, United States. ](/news/2009/05/8/wildfires-cause-at-least-30-000-people-to-evacuate-santa-barbara-california-united-states.md)
@@ -21,19 +21,19 @@ A Californian bushfire that consumed 75 homes has raged for a fourth day, forcin
 
 ##### Islam
 ### [ Islamic terrorist and Singaporean fugitive Mas Selamat bin Kastari is arrested in Malaysia. ](/news/2009/05/8/islamic-terrorist-and-singaporean-fugitive-mas-selamat-bin-kastari-is-arrested-in-malaysia.md)
-_Context: Singapore, Islam, Mas Selamat bin Kastari, fugitive, Islamic terrorism, Malaysia_
+_Context: fugitive, Mas Selamat bin Kastari, Islam, Singapore, Malaysia, Islamic terrorism_
 
 ##### Evacuation centers
 ### [ At least 45,000 people evacuate as war between the government and the Taliban continues in Swat, Pakistan. ](/news/2009/05/8/at-least-45-000-people-evacuate-as-war-between-the-government-and-the-taliban-continues-in-swat-pakistan.md)
-_Context: government, Taliban, Pakistan, evacuation centers, Swat, Pakistan, War in North-West Pakistan_
+_Context: government, War in North-West Pakistan, Swat, Pakistan, evacuation centers, Taliban, Pakistan_
 
 ##### Cave-in
 ### [ A cave-in at a gold mine in Siguiri, Guinea, kills 20 people, injures five more, and renders ten others missing. ](/news/2009/05/8/a-cave-in-at-a-gold-mine-in-siguiri-guinea-kills-20-people-injures-five-more-and-renders-ten-others-missing.md)
-_Context: kills, Siguiri, Guinea, gold mine, disappear, cave-in_
+_Context: gold mine, cave-in, disappear, Guinea, kills, Siguiri_
 
 ##### Pope
 ### [ Pope Benedict XVI begins his tour of Jordan, Israel, and the Palestinian territories. ](/news/2009/05/8/pope-benedict-xvi-begins-his-tour-of-jordan-israel-and-the-palestinian-territories.md)
-_Context: Pope, Palestine, tour, Jordan, Pope Benedict XVI, Israel_
+_Context: Pope, Pope Benedict XVI, tour, Palestine, Israel, Jordan_
 
 ## [Previous Day...](/news/2009/05/7/index.md)
 

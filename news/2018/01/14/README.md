@@ -25,7 +25,7 @@ An explosion started the blaze while the centre at Vila Nova da Rainha hosted a 
 
 ##### Palestine-United States relations
 ### [President of the State of Palestine Mahmoud Abbas describes President of the United States Donald Trump's Middle East peace efforts as the "slap of the century." ](/news/2018/01/14/president-of-the-state-of-palestine-mahmoud-abbas-describes-president-of-the-united-states-donald-trump-s-middle-east-peace-efforts-as-the.md)
-_Context: Palestine-United States relations, President of the State of Palestine, Mahmoud Abbas, Donald Trump, U.S. President, peace_
+_Context: President of the State of Palestine, Mahmoud Abbas, Palestine-United States relations, U.S. President, Donald Trump, peace_
 
 ##### Turpin case
 ### [A couple in Perris, California is arrested for allegedly holding captive and abusing their 13 children. ](/news/2018/01/14/a-couple-in-perris-california-is-arrested-for-allegedly-holding-captive-and-abusing-their-13-children.md)
@@ -41,7 +41,7 @@ Guatemala, Jan 14 (Prensa Latina) Guatemalan president, Jimmy Morales, concludes
 
 ##### Biological Psychiatry
 ### [A study in "Biological Psychiatry" asserts that increasing the activity of the habenula brain region leads to social problems in rodents, whereas decreasing activity of the region prevents social problems. ](/news/2018/01/14/a-study-in-biological-psychiatry-asserts-that-increasing-the-activity-of-the-habenula-brain-region-leads-to-social-problems-in-rodents-wh.md)
-_Context: social, rodent, Biological Psychiatry, habenula_
+_Context: social, Biological Psychiatry, habenula, rodent_
 
 ## [Previous Day...](/news/2018/01/13/index.md)
 

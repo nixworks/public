@@ -17,7 +17,7 @@ _Context: Sage Stallone, Los Angeles County Coroner's Office_
 
 ##### Magnitude
 ### [A 7.6-magnitude earthquake in the Philippine province of Eastern Samar kills at least one person. ](/news/2012/08/31/a-7-6-magnitude-earthquake-in-the-philippine-province-of-eastern-samar-kills-at-least-one-person.md)
-_Context: earthquake, Eastern Samar, magnitude, Philippines_
+_Context: Philippines, magnitude, Eastern Samar, earthquake_
 
 ##### Armenia
 ### [Armenia suspends diplomatic relations with Hungary after Ramil Safarov's extradition to Azerbaijan. ](/news/2012/08/31/armenia-suspends-diplomatic-relations-with-hungary-after-ramil-safarov-s-extradition-to-azerbaijan.md)
@@ -33,7 +33,7 @@ Apple Inc. lost a patent lawsuit in Japan as a Tokyo judge ruled that Samsung El
 
 ##### Roman Abramovich
 ### [Roman Abramovich, the owner of Chelsea FC, wins his legal action against fellow Russian oligarch Boris Berezovsky. ](/news/2012/08/31/roman-abramovich-the-owner-of-chelsea-fc-wins-his-legal-action-against-fellow-russian-oligarch-boris-berezovsky.md)
-_Context: Boris Berezovsky, Roman Abramovich, Chelsea FC_
+_Context: Boris Berezovsky, Chelsea FC, Roman Abramovich_
 
 ##### Harvard University
 ### [Harvard University investigates a widespread cheating allegation on a take-home test in one of its undergraduate classes last spring. ](/news/2012/08/31/harvard-university-investigates-a-widespread-cheating-allegation-on-a-take-home-test-in-one-of-its-undergraduate-classes-last-spring.md)
@@ -45,7 +45,7 @@ Second election since end of 27-year civil war likely to keep Eduardo dos Santos
 
 ##### Enrique Pea Nieto
 ### [Enrique Pea Nieto of the Institutional Revolutionary Party (PRI) is declared the winner of the Mexican presidential elections. ](/news/2012/08/31/enrique-pena-nieto-of-the-institutional-revolutionary-party-pri-is-declared-the-winner-of-the-mexican-presidential-elections.md)
-_Context: Mexican presidential elections, Institutional Revolutionary Party, Enrique Pea Nieto_
+_Context: Mexican presidential elections, Enrique Pea Nieto, Institutional Revolutionary Party_
 
 ## [Previous Day...](/news/2012/08/30/index.md)
 

@@ -13,7 +13,7 @@ _Context: 2016 Russian Defence Ministry Tupolev Tu-154 crash, Black Sea_
 
 ##### China
 ### [ China resumes diplomatic ties with SGBPo Tome and Principe two weeks after the African island nation broke diplomatic ties with Taiwan. ](/news/2016/12/26/china-resumes-diplomatic-ties-with-sagbpo-toma-c-and-prancipe-two-weeks-after-the-african-island-nation-broke-diplomatic-ties-with-taiwan.md)
-_Context: Taiwan, China, SGBPo Tome and Principe_
+_Context: SGBPo Tome and Principe, Taiwan, China_
 
 ##### CHP
 ### [ CHP MP Ozturk Yilmaz says Turkey has expressed its readiness to work with president Assad of Syria. ](/news/2016/12/26/chp-mp-azta1-4rk-ya-lmaz-says-turkey-has-expressed-its-readiness-to-work-with-president-assad-of-syria.md)

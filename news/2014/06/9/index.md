@@ -5,7 +5,7 @@ Formats: [HTML](2014/06/9/index.html)  [JSON](2014/06/9/index.json)  [XML](2014/
 
 ##### Karachi
 ### [Karachi's Jinnah International Airport will resume services after yesterday's attack which claimed 21 lives. ](/news/2014/06/9/karachi-s-jinnah-international-airport-will-resume-services-after-yesterday-s-attack-which-claimed-21-lives.md)
-_Context: Karachi, Jinnah International Airport_
+_Context: Jinnah International Airport, Karachi_
 
 ##### Patriotic Union of Kurdistan
 ### [A suicide truck bomber detonates his vehicle at the gate of a Patriotic Union of Kurdistan office in Tuz Khormato, Iraq, a second truck bomb detonated as people were gathering around the first one. Over 15 are killed and at least 110 injured. ](/news/2014/06/9/a-suicide-truck-bomber-detonates-his-vehicle-at-the-gate-of-a-patriotic-union-of-kurdistan-office-in-tuz-khormato-iraq-a-second-truck-bomb.md)
@@ -41,7 +41,7 @@ Tyson Foods Inc., the largest U.S. meat company, raised its offer for Hillshire 
 
 ##### Nguyen Duc Kien
 ### [Vietnamese banking tycoon Nguyen Duc Kien is sentenced to 30 years in prison in Vietnam on charges of tax evasion, violating state economic regulations, fraud, and running an illegal business. ](/news/2014/06/9/vietnamese-banking-tycoon-nguyen-duc-kien-is-sentenced-to-30-years-in-prison-in-vietnam-on-charges-of-tax-evasion-violating-state-economic.md)
-_Context: Nguyen Duc Kien, Vietnam_
+_Context: Vietnam, Nguyen Duc Kien_
 
 ##### Russia
 ### [A Russian court in Moscow sentences five men to prison for the 2006 assassination of journalist Anna Politkovskaya. ](/news/2014/06/9/a-russian-court-in-moscow-sentences-five-men-to-prison-for-the-2006-assassination-of-journalist-anna-politkovskaya.md)

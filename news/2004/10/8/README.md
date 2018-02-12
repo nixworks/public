@@ -5,7 +5,7 @@ Formats: [HTML](2004/10/8/index.html)  [JSON](2004/10/8/index.json)  [XML](2004/
 
 ##### U.S. President
 ### [ US President George W. Bush and challenger Senator John Kerry meet at Washington University in St. Louis, Missouri, for the second of three U.S. presidential debates. ](/news/2004/10/8/us-president-george-w-bush-and-challenger-senator-john-kerry-meet-at-washington-university-in-st-louis-missouri-for-the-second-of-three.md)
-_Context: United States Senate, Missouri, Washington University in St. Louis, U.S. presidential debates, John Kerry, U.S. President, George W. Bush, St. Louis_
+_Context: Washington University in St. Louis, St. Louis, Missouri, John Kerry, U.S. President, U.S. presidential debates, George W. Bush, United States Senate_
 
 ##### Hilton Taba
 ### [ Rescue teams retrieve at least 30 bodies from the ruins of the Hilton Taba in Taba, Egypt. Officials say up to 20 more bodies could be recovered. ](/news/2004/10/8/rescue-teams-retrieve-at-least-30-bodies-from-the-ruins-of-the-hilton-taba-in-taba-egypt-officials-say-up-to-20-more-bodies-could-be-reco.md)
@@ -13,7 +13,7 @@ _Context: Hilton Taba, Taba_
 
 ##### Earthquake
 ### [ An earthquake of magnitude 6.5 occurs near Manila, the capital city of the Philippines. Its effects are felt as far as 90 miles (145 km) north of the city. The quake causes buildings to sway and knocks out power in some areas, but no serious damage or injuries are reported. ](/news/2004/10/8/an-earthquake-of-magnitude-6-5-occurs-near-manila-the-capital-city-of-the-philippines-its-effects-are-felt-as-far-as-90-miles-145-km-no.md)
-_Context: earthquake, Manila, Richter scale_
+_Context: Richter scale, earthquake, Manila_
 
 ##### Hostage
 ### [ Reports confirm that British hostage Kenneth Bigley was beheaded yesterday by his captors, members of Abu Musab al-Zarqawi's Tawhid and Jihad militant group, despite last-minute exchanges between the group and the British government. ](/news/2004/10/8/reports-confirm-that-british-hostage-kenneth-bigley-was-beheaded-yesterday-by-his-captors-members-of-abu-musab-al-zarqawi-s-tawhid-and-jih.md)

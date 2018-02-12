@@ -37,7 +37,7 @@ _Context: Association of Southeast Asian Nations, Malaysia, South China Sea_
 
 ##### South Korea
 ### [South Korea and China agree to establish an emergency navy and military hotline. ](/news/2015/11/4/south-korea-and-china-agree-to-establish-an-emergency-navy-and-military-hotline.md)
-_Context: hotline, South Korea, China_
+_Context: hotline, China, South Korea_
 
 ##### China-United States relations
 ### [U.S. Secretary of Defense Ashton Carter and his counterpart from Malaysia, Hishammuddin Hussein, will visit the USS Theodore Roosevelt (CVN-71) as it cruises in the South China Sea, this in the wake of China's dismay over a U.S. Navy ship's sailing in the vicinity of artificial islands constructed by China in the Spratly Islands. ](/news/2015/11/4/u-s-secretary-of-defense-ashton-carter-and-his-counterpart-from-malaysia-hishammuddin-hussein-will-visit-the-uss-theodore-roosevelt-cvn.md)
@@ -73,7 +73,7 @@ Ethnically diverse ministers include 15 men and 15 women as new prime minister h
 
 ##### Belizean general election, 2015
 ### [Voters in Belize go to the polls with the United Democratic Party led by Dean Barrow hoping for a third consecutive term. ](/news/2015/11/4/voters-in-belize-go-to-the-polls-with-the-united-democratic-party-led-by-dean-barrow-hoping-for-a-third-consecutive-term.md)
-_Context: Belizean general election, 2015, United Democratic Party, Belize, Dean Barrow_
+_Context: Dean Barrow, Belizean general election, 2015, United Democratic Party, Belize_
 
 ## [Previous Day...](/news/2015/11/3/index.md)
 

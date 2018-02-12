@@ -9,7 +9,7 @@ Suspected Ugandan rebels killed more than 20 people overnight in their second at
 
 ##### Cyclone Hudhud
 ### [The death toll from the Nepalese avalanche caused by the remnants of Cyclone Hudhud reaches 40. ](/news/2014/10/18/the-death-toll-from-the-nepalese-avalanche-caused-by-the-remnants-of-cyclone-hudhud-reaches-40.md)
-_Context: Nepal, Cyclone Hudhud, avalanche_
+_Context: avalanche, Cyclone Hudhud, Nepal_
 
 ##### Nicaragua
 ### [Days of heavy rainfall in Nicaragua lead to at least 22 deaths including 9 people killed in the capital Managua by a wall collapse. ](/news/2014/10/18/days-of-heavy-rainfall-in-nicaragua-lead-to-at-least-22-deaths-including-9-people-killed-in-the-capital-managua-by-a-wall-collapse.md)

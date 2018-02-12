@@ -5,7 +5,7 @@ Formats: [HTML](2010/03/28/index.html)  [JSON](2010/03/28/index.json)  [XML](201
 
 ##### BBC
 ### [The BBC reports it has found evidence of a massacre which occurred in Democratic Republic of Congo last December in which at least 321 people, including children, were killed. Human Rights Watch calls it "one of the worst massacres carried out by the LRA". ](/news/2010/03/28/the-bbc-reports-it-has-found-evidence-of-a-massacre-which-occurred-in-democratic-republic-of-congo-last-december-in-which-at-least-321-peopl.md)
-_Context: LRA, Democratic Republic of Congo, BBC, Human Rights Watch, massacre_
+_Context: Democratic Republic of Congo, Human Rights Watch, massacre, BBC, LRA_
 
 ##### Palm Sunday
 ### [At a Palm Sunday mass in Saint Peter's Square, Rome, Pope Benedict XVI tells tens of thousands of people about the recent "petty gossip" he has been subjected to, thought to mean the child sexual abuse within the Roman Catholic Church, though he fails to directly mention the scandal. ](/news/2010/03/28/at-a-palm-sunday-mass-in-saint-peter-s-square-rome-pope-benedict-xvi-tells-tens-of-thousands-of-people-about-the-recent-petty-gossip-he.md)
@@ -17,7 +17,7 @@ Posters leaving out Al Aksa mosque plastered on buses with e. Jerusalem routes.
 
 ##### U.S. President
 ### [U.S. President Barack Obama, in his first visit to Afghanistan as commander in chief, meets with Afghan President Hamid Karzai and speaks to American troops deployed there. ](/news/2010/03/28/u-s-president-barack-obama-in-his-first-visit-to-afghanistan-as-commander-in-chief-meets-with-afghan-president-hamid-karzai-and-speaks-to.md)
-_Context: Hamid Karzai, U.S. President, Afghanistan President, Afghanistan, Barack Obama_
+_Context: Afghanistan President, Barack Obama, Afghanistan, Hamid Karzai, U.S. President_
 
 ##### Patissia
 ### [One male is killed and two other people are injured in the Patissia area of the Greek capital Athens after a bomb explodes outside a public building. It is the first fatal bombing in Greece for many years. ](/news/2010/03/28/one-male-is-killed-and-two-other-people-are-injured-in-the-patissia-area-of-the-greek-capital-athens-after-a-bomb-explodes-outside-a-public.md)
@@ -33,7 +33,7 @@ Six people were killed and 15 others wounded in a roadside bomb attack in the Ir
 
 ##### Olancho
 ### [2 journalists are shot dead, in the northeastern region of Olancho in Honduras. ](/news/2010/03/28/2-journalists-are-shot-dead-in-the-northeastern-region-of-olancho-in-honduras.md)
-_Context: Honduras, Olancho_
+_Context: Olancho, Honduras_
 
 ##### Thailand
 ### [Thai Prime Minister Abhisit Vejjajiva meets with leaders of the National United Front of Democracy Against Dictatorship on live television to help bring about an end to the political crisis in the country. ](/news/2010/03/28/thai-prime-minister-abhisit-vejjajiva-meets-with-leaders-of-the-national-united-front-of-democracy-against-dictatorship-on-live-television-t.md)

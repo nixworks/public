@@ -9,15 +9,15 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Mauritania
 ### [ Mauritania denounces amendments to an oil contract made by former leader Maaouiya Ould Taya with Woodside Petroleum. The Mauritanian authorities declare that the amendments were signed "outside the legal framework of normal practice, to the great detriment of our country", and could cost Mauritania up to $200 million a year. ](/news/2006/02/6/mauritania-denounces-amendments-to-an-oil-contract-made-by-former-leader-maaouiya-ould-taya-with-woodside-petroleum-the-mauritanian-author.md)
-_Context: Mauritania, Woodside Petroleum, Maaouiya Ould Taya_
+_Context: Maaouiya Ould Taya, Mauritania, Woodside Petroleum_
 
 ##### U.S. Senate Committee on the Judiciary
 ### [ U.S. Senate Committee on the Judiciary hearings begin regarding the NSA warrantless surveillance program, with testimony from Attorney General Alberto Gonzales. ](/news/2006/02/6/u-s-senate-committee-on-the-judiciary-hearings-begin-regarding-the-nsa-warrantless-surveillance-program-with-testimony-from-attorney-gene.md)
-_Context: United States Attorney General, warrantless wiretapping, Alberto Gonzales, U.S. Senate Committee on the Judiciary_
+_Context: U.S. Senate Committee on the Judiciary, warrantless wiretapping, Alberto Gonzales, United States Attorney General_
 
 ##### Stephen Harper
 ### [ As Stephen Harper is sworn in as Canada's 22nd Prime Minister, David Emerson crosses the floor from the Liberal Party to join Harper's Conservative Party, and is appointed as Minister of International Trade. Harper also appointed Michael Fortier, an unelected party supporter, to minister of public works and government services and to the senate. ](/news/2006/02/6/as-stephen-harper-is-sworn-in-as-canada-s-22nd-prime-minister-david-emerson-crosses-the-floor-from-the-liberal-party-to-join-harper-s-cons.md)
-_Context: Stephen Harper, Liberal Party's, David Emerson, Michael Fortier, Prime Minister of Canada, crosses the floor, Conservative Party's_
+_Context: David Emerson, Stephen Harper, Michael Fortier, Conservative Party's, crosses the floor, Prime Minister of Canada, Liberal Party's_
 
 ##### Australian
 ### [ United States, Indonesian, and Australian scientists working in the Foja Mountains in eastern Papua, Indonesia, discover 20 previously unknown frog species, a new species of honeyeater, four new butterflies, and at least five new plants. Also discovered were a kangaroo unknown in Papua, and a six-wired bird-of-paradise, previously known only from dead specimens whose origin was unknown. ](/news/2006/02/6/united-states-indonesian-and-australian-scientists-working-in-the-foja-mountains-in-eastern-papua-indonesia-discover-20-previously-unkn.md)
@@ -29,7 +29,7 @@ _Context: BMW, Google_
 
 ##### Egypt
 ### [ In the Egyptian port of Safaga, relatives of hundreds of passengers killed when the ferry "al-Salam Boccaccio '98" sank in the Red Sea, attack the office of El Salam Maritime Transport. ](/news/2006/02/6/in-the-egyptian-port-of-safaga-relatives-of-hundreds-of-passengers-killed-when-the-ferry-al-salam-boccaccio-98-sank-in-the-red-sea-att.md)
-_Context: Safaga, al-Salam Boccaccio '98, Red Sea, El Salam Maritime Transport, Egypt_
+_Context: El Salam Maritime Transport, al-Salam Boccaccio '98, Egypt, Red Sea, Safaga_
 
 ##### Isabelle Dinoire
 ### [ Isabelle Dinoire, the French woman who received the world's first partial face transplant appears before the media for the first time, saying she expects to resume a normal life. ](/news/2006/02/6/isabelle-dinoire-the-french-woman-who-received-the-world-s-first-partial-face-transplant-appears-before-the-media-for-the-first-time-sayi.md)

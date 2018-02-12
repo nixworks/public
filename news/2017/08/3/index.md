@@ -5,7 +5,7 @@ Formats: [HTML](2017/08/3/index.html)  [JSON](2017/08/3/index.json)  [XML](2017/
 
 ##### War in Afghanistan (2015-present)
 ### [ A suicide bomber attacks a convoy in Afghanistan's Kabul province, killing a Georgian soldier and three civilians and wounding 13 others, including six Resolute Support personnel. ](/news/2017/08/3/a-suicide-bomber-attacks-a-convoy-in-afghanistan-s-kabul-province-killing-a-georgian-soldier-and-three-civilians-and-wounding-13-others-i.md)
-_Context: Resolute Support, suicide bomber, Afghanistan,  Georgian, War in Afghanistan (2015-present), Kabul province_
+_Context: suicide bomber, Resolute Support, Kabul province,  Georgian, Afghanistan, War in Afghanistan (2015-present)_
 
 ##### Sewage
 ### [A sewage leak, due to a single toilet, contaminated about 200 passengers's bags at Nashville International Airport, according to Southwest Airlines. ](/news/2017/08/3/a-sewage-leak-due-to-a-single-toilet-contaminated-about-200-passengers-s-bags-at-nashville-international-airport-according-to-southwest-a.md)
@@ -29,7 +29,7 @@ Special counsel Robert Mueller has impaneled a grand jury in Washington to inves
 
 ##### Abortion in Chile
 ### [Chilean lawmakers have approved a bill that would legalize abortion in limited circumstances and end the socially conservative country's status as the last in South America with a blanket ban on the procedure. ](/news/2017/08/3/chilean-lawmakers-have-approved-a-bill-that-would-legalize-abortion-in-limited-circumstances-and-end-the-socially-conservative-country-s-sta.md)
-_Context: abortion, Abortion in Chile, Chilean lawmakers, conservative, South America_
+_Context: conservative, Abortion in Chile, Chilean lawmakers, South America, abortion_
 
 ##### Raytheon
 ### [Raytheon wins the dismissal of a USD$1 billion whistleblower lawsuit accusing the defense contractor of over billing the U.S. government on a contract for satellite sensors, nearly 18 months after the United States Court of Appeals for the Ninth Circuit revived the case. ](/news/2017/08/3/raytheon-wins-the-dismissal-of-a-usd-1-billion-whistleblower-lawsuit-accusing-the-defense-contractor-of-over-billing-the-u-s-government-on.md)

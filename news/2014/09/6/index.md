@@ -13,7 +13,7 @@ Syrian warplanes bombed a bakery run by Islamic State in the city of Raqqa, kill
 
 ##### American
 ### [The United States says that it will not coordinate with Iran in the fight against the Islamic State of Iraq and Syria. ](/news/2014/09/6/the-united-states-says-that-it-will-not-coordinate-with-iran-in-the-fight-against-the-islamic-state-of-iraq-and-syria.md)
-_Context: Islamic State of Iraq and Syria, Iran, American_
+_Context: American, Islamic State of Iraq and Syria, Iran_
 
 ##### 2014 India-Pakistan floods
 ### [Heavy monsoon rains and flash floods leave over 200 people dead across India and Pakistan. ](/news/2014/09/6/heavy-monsoon-rains-and-flash-floods-leave-over-200-people-dead-across-india-and-pakistan.md)
@@ -21,7 +21,7 @@ Heavy monsoon rains and flash floods have killed 128 people in Pakistan and 108 
 
 ##### China
 ### [China says two pilots conducting fighter jet take-off and landing tests for the Chinese aircraft carrier Liaoning were killed during trials. ](/news/2014/09/6/china-says-two-pilots-conducting-fighter-jet-take-off-and-landing-tests-for-the-chinese-aircraft-carrier-liaoning-were-killed-during-trials.md)
-_Context: China, ''Liaoning''_
+_Context: ''Liaoning'', China_
 
 ##### 2014 California wildfires
 ### [A wildfire is reported to have burned 300 acres near Yosemite National Park, forcing the evacuation of 700 nearby homes. ](/news/2014/09/6/a-wildfire-is-reported-to-have-burned-300-acres-near-yosemite-national-park-forcing-the-evacuation-of-700-nearby-homes.md)
@@ -29,7 +29,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ##### Sierra Leone
 ### [Sierra Leone declares a four day nationwide lockdown to attempt to stop the spread of Ebola. ](/news/2014/09/6/sierra-leone-declares-a-four-day-nationwide-lockdown-to-attempt-to-stop-the-spread-of-ebola.md)
-_Context: Sierra Leone, Ebola_
+_Context: Ebola, Sierra Leone_
 
 ##### Egypt
 ### [Egypt charges former president Mohammed Morsi and nine others for leaking sensitive government information to Qatar. ](/news/2014/09/6/egypt-charges-former-president-mohammed-morsi-and-nine-others-for-leaking-sensitive-government-information-to-qatar.md)
@@ -37,7 +37,7 @@ Egypt charged ousted president Mohamed Mursi and nine others on Saturday with en
 
 ##### Independence referendum
 ### [A surge for the yes-campaign following the TV debate "Scotland Decides: Salmond versus Darling" culminates with a poll from YouGov and The Sunday Times showing that a majority will vote in favor of Scottish independence. ](/news/2014/09/6/a-surge-for-the-yes-campaign-following-the-tv-debate-scotland-decides-salmond-versus-darling-culminates-with-a-poll-from-yougov-and-the-s.md)
-_Context: The Sunday Times, independence referendum, Scotland Decides: Salmond versus Darling, YouGov, will vote in favor_
+_Context: Scotland Decides: Salmond versus Darling, YouGov, independence referendum, will vote in favor, The Sunday Times_
 
 ## [Previous Day...](/news/2014/09/5/index.md)
 

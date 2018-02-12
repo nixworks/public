@@ -9,7 +9,7 @@ POWERFUL explosions have again rocked the area around the residence of Libyan le
 
 ##### South Korea
 ### [South Korea's Yonhap News agency reports that North Korea has test-fired a KN-06 missile. ](/news/2011/06/8/south-korea-s-yonhap-news-agency-reports-that-north-korea-has-test-fired-a-kn-06-missile.md)
-_Context: North Korea, KN-06, South Korea, Yonhap News_
+_Context: KN-06, North Korea, South Korea, Yonhap News_
 
 ##### Syrian
 ### [Syrian residents from the town of Jisr al-Shugur flee from a threatened reprisal from the government of President Bashar al-Assad. ](/news/2011/06/8/syrian-residents-from-the-town-of-jisr-al-shugur-flee-from-a-threatened-reprisal-from-the-government-of-president-bashar-al-assad.md)
@@ -37,7 +37,7 @@ _Context: Hurricane, Hurricane Jova_
 
 ##### Eagar
 ### [Residents in the US towns of Eagar and Springerville, Arizona are ordered to fully evacuate ahead of the Wallow Fire. ](/news/2011/06/8/residents-in-the-us-towns-of-eagar-and-springerville-arizona-are-ordered-to-fully-evacuate-ahead-of-the-wallow-fire.md)
-_Context: Springerville, Arizona, Wallow Fire, Eagar_
+_Context: Wallow Fire, Springerville, Arizona, Eagar_
 
 ##### Missouri River
 ### [260 miles (420 km) of the Missouri River are closed to boaters as residents of the US states of Iowa, Nebraska and Missouri continue to prepare for heavy flooding, with rain in Montana making the situation worse. ](/news/2011/06/8/260-miles-420-km-of-the-missouri-river-are-closed-to-boaters-as-residents-of-the-us-states-of-iowa-nebraska-and-missouri-continue-to-prep.md)
@@ -45,19 +45,19 @@ With the heaviest flooding yet to come, officials closed 260 miles of the Missou
 
 ##### Floods
 ### [Floods in the People's Republic of China kill 52 people with 32 people missing with more heavy rain expected. ](/news/2011/06/8/floods-in-the-people-s-republic-of-china-kill-52-people-with-32-people-missing-with-more-heavy-rain-expected.md)
-_Context: China, Floods_
+_Context: Floods, China_
 
 ##### Australia
 ### [Australia announces a ban of live cattle exports to Indonesia of up to six months following recent reports of cruel treatment in Indonesian abattoirs. ](/news/2011/06/8/australia-announces-a-ban-of-live-cattle-exports-to-indonesia-of-up-to-six-months-following-recent-reports-of-cruel-treatment-in-indonesian.md)
-_Context: Australia, cattle, Indonesia, abattoir_
+_Context: cattle, Indonesia, abattoir, Australia_
 
 ##### United Kingdom
 ### [The United Kingdom and France prepare a draft United Nations Security Council resolution on the 2011 Syrian uprising. ](/news/2011/06/8/the-united-kingdom-and-france-prepare-a-draft-united-nations-security-council-resolution-on-the-2011-syrian-uprising.md)
-_Context: 2011 Syrian uprising, France, United Kingdom, United Nations Security Council resolution, United Nations Security Council_
+_Context: United Nations Security Council, United Kingdom, 2011 Syrian uprising, France, United Nations Security Council resolution_
 
 ##### New York City
 ### [In New York, representatives of Morocco and Western Sahara conclude UN-backed talks on resolving the conflict between the two countries without reaching an agreement that was satisfactory to both parties. ](/news/2011/06/8/in-new-york-representatives-of-morocco-and-western-sahara-conclude-un-backed-talks-on-resolving-the-conflict-between-the-two-countries-with.md)
-_Context: UN, conflict between the two countries, Western Sahara, Morocco, New York City_
+_Context: Western Sahara, New York City, UN, conflict between the two countries, Morocco_
 
 ##### India
 ### [Indian social activist Anna Hazare begins a second hunger strike against corruption. ](/news/2011/06/8/indian-social-activist-anna-hazare-begins-a-second-hunger-strike-against-corruption.md)
@@ -73,7 +73,7 @@ The Internet has been rolling along for decades on the strength of IPv4 and its 
 
 ##### Russian Federal Space Agency
 ### [The Russian Federal Space Agency successfully launches a Soyuz TMA-02M carrying a Russian, American and Japanese astronaut towards the International Space Station. ](/news/2011/06/8/the-russian-federal-space-agency-successfully-launches-a-soyuz-tma-02m-carrying-a-russian-american-and-japanese-astronaut-towards-the-inter.md)
-_Context: Soyuz TMA-02M, Russian, Russian Federal Space Agency, American, Japanese, International Space Station_
+_Context: Soyuz TMA-02M, Japanese, Russian, American, International Space Station, Russian Federal Space Agency_
 
 ## [Previous Day...](/news/2011/06/7/index.md)
 

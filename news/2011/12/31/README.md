@@ -9,7 +9,7 @@ Observer says he witnessed snipers in southern Syrian city, as huge rallies took
 
 ##### Kurdistan Workers' Party
 ### [Two members of the outlawed Kurdistan Workers' Party die in a battle with Turkish police in the city of Diyarbakir. ](/news/2011/12/31/two-members-of-the-outlawed-kurdistan-workers-party-die-in-a-battle-with-turkish-police-in-the-city-of-diyarbakir.md)
-_Context: Turkish police, Diyarbakir, Kurdistan Workers' Party_
+_Context: Diyarbakir, Turkish police, Kurdistan Workers' Party_
 
 ##### Ethiopia
 ### [Ethiopian forces capture the central Somali town of Beledweyne from al-Shabaab Islamist militants. ](/news/2011/12/31/ethiopian-forces-capture-the-central-somali-town-of-beledweyne-from-al-shabaab-islamist-militants.md)
@@ -17,7 +17,7 @@ Ethiopian forces capture the central Somali town of Beledweyne from Islamist mil
 
 ##### President of Sudan
 ### [The President of Sudan Omar Hassan al-Bashir urges members of the Darfur based Justice and Equality Movement (JEM) to seek peace following the recent death of rebel leader Ibrahim Khalil. ](/news/2011/12/31/the-president-of-sudan-omar-hassan-al-bashir-urges-members-of-the-darfur-based-justice-and-equality-movement-jem-to-seek-peace-following-t.md)
-_Context: Ibrahim Khalil, Darfur, Justice and Equality Movement, Omar Hassan al-Bashir, President of Sudan_
+_Context: Justice and Equality Movement, Omar Hassan al-Bashir, President of Sudan, Ibrahim Khalil, Darfur_
 
 ##### President
 ### [The President of Nigeria Goodluck Jonathan declares a state of emergency in the states of Borno, Yobe, Niger and Plateau due to violence by the Islamist sect Boko Haram. ](/news/2011/12/31/the-president-of-nigeria-goodluck-jonathan-declares-a-state-of-emergency-in-the-states-of-borno-yobe-niger-and-plateau-due-to-violence-by.md)
@@ -29,19 +29,19 @@ Fighters from the Lou Nuer ethnic group in South Sudan attack the town of Pibor,
 
 ##### Chile
 ### [Authorities in Chile close the Torres del Paine National Park, amid an ongoing forest fire in Patagonia. ](/news/2011/12/31/authorities-in-chile-close-the-torres-del-paine-national-park-amid-an-ongoing-forest-fire-in-patagonia.md)
-_Context: forest fire, Torres del Paine National Park, Chile, Patagonia_
+_Context: Torres del Paine National Park, forest fire, Patagonia, Chile_
 
 ##### Firecracker
 ### [More than 200 people are injured by illegally huge firecrackers and celebratory gunfire in the Philippines. ](/news/2011/12/31/more-than-200-people-are-injured-by-illegally-huge-firecrackers-and-celebratory-gunfire-in-the-philippines.md)
-_Context: Philippines, firecracker_
+_Context: firecracker, Philippines_
 
 ##### Cyclone Thane
 ### [The death toll from Cyclone Thane in southern India rises to at least 33 with 21 people dead in Cuddalore. ](/news/2011/12/31/the-death-toll-from-cyclone-thane-in-southern-india-rises-to-at-least-33-with-21-people-dead-in-cuddalore.md)
-_Context: India, Cyclone Thane, Cuddalore_
+_Context: Cyclone Thane, India, Cuddalore_
 
 ##### Chinese
 ### [A Chinese bus driver dies of bird flu in the city of Shenzhen in Guangdong province. ](/news/2011/12/31/a-chinese-bus-driver-dies-of-bird-flu-in-the-city-of-shenzhen-in-guangdong-province.md)
-_Context: Chinese, Guangdong province, Influenza A virus subtype H5N1, Shenzhen_
+_Context: Shenzhen, Guangdong province, Influenza A virus subtype H5N1, Chinese_
 
 ##### Ohio
 ### [A 4.0-magnitude earthquake hits Ohio, with no immediate reports of damage. ](/news/2011/12/31/a-4-0-magnitude-earthquake-hits-ohio-with-no-immediate-reports-of-damage.md)
@@ -53,19 +53,19 @@ _Context: Hollywood_
 
 ##### U.S. President
 ### [The President of the United States Barack Obama signs a law providing for new sanctions against Iran. ](/news/2011/12/31/the-president-of-the-united-states-barack-obama-signs-a-law-providing-for-new-sanctions-against-iran.md)
-_Context: U.S. President, sanctions, Barack Obama, Iran_
+_Context: U.S. President, Barack Obama, Iran, sanctions_
 
 ##### U.S. President
 ### [United States President Barack Obama signs the National Defense Authorization Act into law allowing the indefinite imprisonment of any United States citizen under suspect of terrorism without need of trial. ](/news/2011/12/31/united-states-president-barack-obama-signs-the-national-defense-authorization-act-into-law-allowing-the-indefinite-imprisonment-of-any-unite.md)
-_Context: terrorism, National Defense Authorization Act, Barack Obama, United States citizen, U.S. President_
+_Context: Barack Obama, National Defense Authorization Act, United States citizen, terrorism, U.S. President_
 
 ##### Kim Jong-un
 ### [Kim Jong-un is named as the Supreme Commander of North Korea's armed forces following the death of his father Kim Jong-Il. ](/news/2011/12/31/kim-jong-un-is-named-as-the-supreme-commander-of-north-korea-s-armed-forces-following-the-death-of-his-father-kim-jong-il.md)
-_Context: Kim Jong-un, Kim Jong-Il, North Korea_
+_Context: North Korea, Kim Jong-un, Kim Jong-Il_
 
 ##### NASA
 ### [NASA succeeds in putting the first of two Gravity Recovery and Interior Laboratory satellites in orbit around the moon. ](/news/2011/12/31/nasa-succeeds-in-putting-the-first-of-two-gravity-recovery-and-interior-laboratory-satellites-in-orbit-around-the-moon.md)
-_Context: NASA, GRAIL, satellite, moon_
+_Context: moon, NASA, GRAIL, satellite_
 
 ## [Previous Day...](/news/2011/12/30/index.md)
 

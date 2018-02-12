@@ -45,7 +45,7 @@ Sudanese authorities release Islamist opposition leader Hassan al-Turabi after s
 
 ##### His predecessor
 ### [Benigno Aquino III is sworn in as the 15th President of the Philippines and Jejomar Binay is sworn the 15th Vice President of the Philippines.](/news/2010/06/30/benigno-aquino-iii-is-sworn-in-as-the-15th-president-of-the-philippines-and-jejomar-binay-is-sworn-the-15th-vice-president-of-the-philippine.md)
-_Context: his predecessor, Jejomar Binay, President, Vice President of the Philippines_
+_Context: President, Vice President of the Philippines, Jejomar Binay, his predecessor_
 
 ##### Burundi
 ### [Two people are killed overnight in Burundi and two others wounded in violence that follows a controversial presidential election in which incumbent Pierre Nkurunziza was the only candidate. ](/news/2010/06/30/two-people-are-killed-overnight-in-burundi-and-two-others-wounded-in-violence-that-follows-a-controversial-presidential-election-in-which-in.md)
@@ -61,7 +61,7 @@ Dozens protesting arrest of opposition Islamic party leaders injured in clashes.
 
 ##### 6.2-magnitude earthquake
 ### [A 6.2-magnitude earthquake occurs in southern Mexico near the city of Pinotepa Nacional, shaking buildings as far away as Mexico City but not causing serious damage or casualties. ](/news/2010/06/30/a-6-2-magnitude-earthquake-occurs-in-southern-mexico-near-the-city-of-pinotepa-nacional-shaking-buildings-as-far-away-as-mexico-city-but-no.md)
-_Context: 6.2-magnitude earthquake, Pinotepa Nacional, Mexican, Mexico City_
+_Context: Mexican, 6.2-magnitude earthquake, Pinotepa Nacional, Mexico City_
 
 ##### Egypt
 ### [An unfinished secret tomb is found in Egypt. ](/news/2010/06/30/an-unfinished-secret-tomb-is-found-in-egypt.md)
@@ -69,7 +69,7 @@ _Context: Egypt_
 
 ##### Leviathan melvillei
 ### [The discovery of fossilized remains of "Leviathan melvillei", an extinct species of physeteroid whale, is announced in "Nature". ](/news/2010/06/30/the-discovery-of-fossilized-remains-of-leviathan-melvillei-an-extinct-species-of-physeteroid-whale-is-announced-in-nature.md)
-_Context: Leviathan melvillei, ''Nature'', physeteroid, whale_
+_Context: Leviathan melvillei, whale, physeteroid, ''Nature''_
 
 ##### Irish
 ### [Ireland officially exits recession. ](/news/2010/06/30/ireland-officially-exits-recession.md)
@@ -77,11 +77,11 @@ Figures from the CSO show that the Irish economy technically emerged from recess
 
 ##### Southwest China
 ### [Rescuers have recovered eight bodies from the ruins of a southwest China village, two days after a devastating rain-triggered landslide destroyed 37 houses and buried 99 villagers under mud. 91 residents of Dazhai Village, Guanling County, Guizhou Province, remained missing. ](/news/2010/06/30/rescuers-have-recovered-eight-bodies-from-the-ruins-of-a-southwest-china-village-two-days-after-a-devastating-rain-triggered-landslide-dest.md)
-_Context: Guanling, Dazhai, Guizhou, southwest China_
+_Context: Guanling, Dazhai, southwest China, Guizhou_
 
 ##### Iraq
 ### [13 people are killed during attacks in Iraq: 4 people die in the town of Beiji. ](/news/2010/06/30/13-people-are-killed-during-attacks-in-iraq-4-people-die-in-the-town-of-beiji.md)
-_Context: Baiji, Iraq_
+_Context: Iraq, Baiji_
 
 ##### Afghanistan
 ### [8 militants are killed in fighting at eastern Afghanistan's Jalalabad Airport. ](/news/2010/06/30/8-militants-are-killed-in-fighting-at-eastern-afghanistan-s-jalalabad-airport.md)
@@ -113,11 +113,11 @@ _Context: Italy, European Court of Human Rights, crucifix_
 
 ##### Goodluck Jonathan
 ### [Goodluck Jonathan suspends the Nigeria national football team from international competition for two years due to poor performances in the 2010 FIFA World Cup in South Africa. ](/news/2010/06/30/goodluck-jonathan-suspends-the-nigeria-national-football-team-from-international-competition-for-two-years-due-to-poor-performances-in-the-2.md)
-_Context: 2010 FIFA World Cup, South Africa, Goodluck Jonathan, national football team_
+_Context: South Africa, 2010 FIFA World Cup, Goodluck Jonathan, national football team_
 
 ##### Roger Federer
 ### [Roger Federer is defeated by Tomas Berdych of the Czech Republic at Wimbledon, so Federer will not contest the final for the first time since 2002, also his second Wimbledon loss during that time. ](/news/2010/06/30/roger-federer-is-defeated-by-toma-a-berdych-of-the-czech-republic-at-wimbledon-so-federer-will-not-contest-the-final-for-the-first-time-si.md)
-_Context: Tomas Berdych, Roger Federer, Czech Republic, 2010 Wimbledon Championships_
+_Context: Czech Republic, Roger Federer, 2010 Wimbledon Championships, Tomas Berdych_
 
 ## [Previous Day...](/news/2010/06/29/index.md)
 

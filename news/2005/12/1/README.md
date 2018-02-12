@@ -5,7 +5,7 @@ Formats: [HTML](2005/12/1/index.html)  [JSON](2005/12/1/index.json)  [XML](2005/
 
 ##### South Africa
 ### [ South Africa's Constitutional Court declares that current marriage laws restricting marriage to opposite-sex couples are unconstitutional and must be changed within a year. Once the change is made, South Africa will be the fifth country in the world where same-sex marriages are recognized, after Canada, Spain, the Netherlands, and Belgium. ](/news/2005/12/1/south-africa-s-constitutional-court-declares-that-current-marriage-laws-restricting-marriage-to-opposite-sex-couples-are-unconstitutional-a.md)
-_Context: South Africa, Canadian, Netherlands, South African Constitutional Court, must be changed within a year, Belgium, Spain, unconstitutional, same-sex marriages_
+_Context: must be changed within a year, unconstitutional, same-sex marriages, South African Constitutional Court, South Africa, Netherlands, Belgium, Canadian, Spain_
 
 ##### European Central Bank
 ### [ The European Central Bank raises interest rates for the first time in five years, from 2.0% to 2.25%. This will affect the cost of money in the twelve Eurozone countries. ](/news/2005/12/1/the-european-central-bank-raises-interest-rates-for-the-first-time-in-five-years-from-2-0-to-2-25-this-will-affect-the-cost-of-money-in.md)
@@ -13,11 +13,11 @@ _Context: European Central Bank, Eurozone_
 
 ##### Buddhist
 ### [ A Buddhist manuscript written on birch bark in the 1st century or 2nd century passes from a private collection to the University of Washington library, becoming part of the Early Buddhist Manuscripts Project. ](/news/2005/12/1/a-buddhist-manuscript-written-on-birch-bark-in-the-1st-century-or-2nd-century-passes-from-a-private-collection-to-the-university-of-washing.md)
-_Context: library, Early Buddhist Manuscripts Project, University of Washington, Buddhist, birch bark, manuscript_
+_Context: manuscript, Buddhist, library, birch bark, Early Buddhist Manuscripts Project, University of Washington_
 
 ##### Muriel Degauque
 ### [ Muriel Degauque is identified as the Belgian suicide bomber who killed herself in Iraq on November 9, 2005. ](/news/2005/12/1/muriel-degauque-is-identified-as-the-belgian-suicide-bomber-who-killed-herself-in-iraq-on-november-9-2005.md)
-_Context: Iraq, Muriel Degauque, suicide bomber, Belgium_
+_Context: suicide bomber, Belgium, Iraq, Muriel Degauque_
 
 ## [Previous Day...](/news/2005/11/30/index.md)
 

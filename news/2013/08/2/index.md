@@ -13,7 +13,7 @@ Taylor Farms of Mexico, a division of a California-based produce supplier whose 
 
 ##### State Department
 ### [The United States Department of State announces a worldwide travel alert for U.S. citizens and some embassies throughout Southwest Asia and North Africa will be closed following an al-Qaeda threat. ](/news/2013/08/2/the-united-states-department-of-state-announces-a-worldwide-travel-alert-for-u-s-citizens-and-some-embassies-throughout-southwest-asia-and.md)
-_Context: Southwest Asia, State Department, North Africa, al-Qaeda, travel alert_
+_Context: travel alert, Southwest Asia, North Africa, State Department, al-Qaeda_
 
 ##### UK Foreign Office
 ### [The UK Foreign Office has warned its embassy staff in Southwest Asia to be vigilant as Eid al-Fitr approaches. British embassies remained open. ](/news/2013/08/2/the-uk-foreign-office-has-warned-its-embassy-staff-in-southwest-asia-to-be-vigilant-as-eid-al-fitr-approaches-british-embassies-remained-op.md)
@@ -21,15 +21,15 @@ _Context: Eid al-Fitr, UK Foreign Office_
 
 ##### Zimbabwe
 ### [The Zimbabwe Electoral Commission says that Robert Mugabe's ZANU-PF party has won 142 seats of 210 seats in the general election. ](/news/2013/08/2/the-zimbabwe-electoral-commission-says-that-robert-mugabe-s-zanu-pf-party-has-won-142-seats-of-210-seats-in-the-general-election.md)
-_Context: Robert Mugabe, recent elections, Zimbabwe, ZANU-PF_
+_Context: Zimbabwe, Robert Mugabe, ZANU-PF, recent elections_
 
 ##### Samantha Power
 ### [Samantha Power is sworn in as the new United States Ambassador to the United Nations by Vice President Joe Biden. ](/news/2013/08/2/samantha-power-is-sworn-in-as-the-new-united-states-ambassador-to-the-united-nations-by-vice-president-joe-biden.md)
-_Context: Samantha Power, Ambassador to the United Nations, Joe Biden_
+_Context: Samantha Power, Joe Biden, Ambassador to the United Nations_
 
 ##### Run-off election
 ### [There will be a run-off election on August 11 in the Malian presidential election between Ibrahim Boubacar Keita and Soumala Ciss as no candidate could achieve a majority in the election held earlier this week. ](/news/2013/08/2/there-will-be-a-run-off-election-on-august-11-in-the-malian-presidential-election-between-ibrahim-boubacar-keita-and-soumaila-cisse-as-no-ca.md)
-_Context: run-off election, the election, Ibrahim Boubacar Keita, Soumala Ciss_
+_Context: run-off election, Soumala Ciss, Ibrahim Boubacar Keita, the election_
 
 ##### Lavasoa dwarf lemur
 ### [A new primate, the Lavasoa dwarf lemur, is discovered in Madagascar. ](/news/2013/08/2/a-new-primate-the-lavasoa-dwarf-lemur-is-discovered-in-madagascar.md)

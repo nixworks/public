@@ -37,15 +37,15 @@ _Context: Haiti, 2010 Haiti earthquake_
 
 ##### South Korea
 ### [The South Korean Ministry for Reunification advises that it has reopened Red Cross communications with North Korea over the Panmunjom Border Area. ](/news/2011/01/12/the-south-korean-ministry-for-reunification-advises-that-it-has-reopened-red-cross-communications-with-north-korea-over-the-panmunjom-border.md)
-_Context: Red Cross, North Korea, South Korea, Panmunjeom_
+_Context: Panmunjeom, South Korea, Red Cross, North Korea_
 
 ##### Palestine
 ### [Palestinian militants on the Gaza Strip tell Hamas that they will cease firing rockets at Israel in order to prevent an Israel Defense Forces offensive. ](/news/2011/01/12/palestinian-militants-on-the-gaza-strip-tell-hamas-that-they-will-cease-firing-rockets-at-israel-in-order-to-prevent-an-israel-defense-force.md)
-_Context: Israeli Army, Israel, Gaza Strip, Hamas, Palestine_
+_Context: Gaza Strip, Hamas, Palestine, Israeli Army, Israel_
 
 ##### Tunisia
 ### [Tunisia's Interior Minister Rafik Belhaj Kacem is sacked by President Zine El Abidine Ben Ali, who also orders the release of most people detained during recent unrest. ](/news/2011/01/12/tunisia-s-interior-minister-rafik-belhaj-kacem-is-sacked-by-president-zine-el-abidine-ben-ali-who-also-orders-the-release-of-most-people-de.md)
-_Context: Zine El Abidine Ben Ali, President, Tunisia_
+_Context: Tunisia, Zine El Abidine Ben Ali, President_
 
 ##### Sudan People's Liberation Army/Movement
 ### [The Sudan People's Liberation Army-Movement estimates that turnout in the Southern Sudanese independence referendum has passed the 60% threshold for the result to be declared valid. ](/news/2011/01/12/the-sudan-people-s-liberation-army-movement-estimates-that-turnout-in-the-southern-sudanese-independence-referendum-has-passed-the-60-thres.md)
@@ -53,11 +53,11 @@ Officials say the 60 per cent benchmark needed to validate secession referendum 
 
 ##### Lebanese
 ### [Lebanon's Government led by Prime Minister Saad Hariri collapses following the withdrawal of Hezbollah. ](/news/2011/01/12/lebanon-s-government-led-by-prime-minister-saad-hariri-collapses-following-the-withdrawal-of-hezbollah.md)
-_Context: Prime Minister, Saad Hariri, Lebanese, Government, Hezbollah_
+_Context: Government, Prime Minister, Hezbollah, Saad Hariri, Lebanese_
 
 ##### U.S. President
 ### [The President of the United States Barack Obama addresses the nation about the 2011 Tucson shooting following a visit to Representative Gabrielle Giffords in hospital. ](/news/2011/01/12/the-president-of-the-united-states-barack-obama-addresses-the-nation-about-the-2011-tucson-shooting-following-a-visit-to-representative-gabr.md)
-_Context: 2011 Tucson shooting, Barack Obama, Gabrielle Giffords, U.S. President, United States House of Representatives_
+_Context: Gabrielle Giffords, 2011 Tucson shooting, Barack Obama, United States House of Representatives, U.S. President_
 
 ##### Burma
 ### [Burma has passed a law enacting conscription for both males and females.](/news/2011/01/12/burma-has-passed-a-law-enacting-conscription-for-both-males-and-females.md)

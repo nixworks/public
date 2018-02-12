@@ -13,11 +13,11 @@ Somalia&rsquo;s Al Qaeda linked Al Shabaab militants have taken back strategic I
 
 ##### Akira Amari
 ### [Japan's Economy Minister, Akira Amari says that a completed Trans-Pacific Partnership agreement by the end of 2014 is unlikely. ](/news/2014/11/8/japan-s-economy-minister-akira-amari-says-that-a-completed-trans-pacific-partnership-agreement-by-the-end-of-2014-is-unlikely.md)
-_Context: Trans-Pacific Partnership, Akira Amari_
+_Context: Akira Amari, Trans-Pacific Partnership_
 
 ##### North Korea
 ### [North Korea releases American detainees Kenneth Bae and Matthew Todd Miller. ](/news/2014/11/8/north-korea-releases-american-detainees-kenneth-bae-and-matthew-todd-miller.md)
-_Context: North Korea, Matthew Todd Miller, Kenneth Bae_
+_Context: Matthew Todd Miller, North Korea, Kenneth Bae_
 
 ## [Previous Day...](/news/2014/11/7/index.md)
 

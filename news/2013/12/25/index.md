@@ -5,7 +5,7 @@ Formats: [HTML](2013/12/25/index.html)  [JSON](2013/12/25/index.json)  [XML](201
 
 ##### Tetiana Chornovol
 ### [Tetiana Chornovol, an Ukrainian civic activist and journalist, is dragged from her car and beaten by a group of men. Authorities say that this is the latest attack on government opponents. ](/news/2013/12/25/tetiana-chornovol-an-ukrainian-civic-activist-and-journalist-is-dragged-from-her-car-and-beaten-by-a-group-of-men-authorities-say-that-th.md)
-_Context: Tetiana Chornovol, Ukraine_
+_Context: Ukraine, Tetiana Chornovol_
 
 ##### Car bomb
 ### [A car bomb explodes near a church as Christian worshippers were leaving a Christmas service in the capital, Baghdad, killing at least 14 people and wounding 28 others. ](/news/2013/12/25/a-car-bomb-explodes-near-a-church-as-christian-worshippers-were-leaving-a-christmas-service-in-the-capital-baghdad-killing-at-least-14-peo.md)

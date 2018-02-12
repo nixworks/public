@@ -5,23 +5,23 @@ Formats: [HTML](2004/06/7/index.html)  [JSON](2004/06/7/index.json)  [XML](2004/
 
 ##### United Nations Relief and Works Agency for Palestine Refugees in the Near East
 ### [ The United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA) opens its two-day conference on Humanitarian Needs of Palestinian Refugess opens in Geneva, Switzerland. Participation in the conference is by invitation only. Israel is excluded from the conference. ](/news/2004/06/7/the-united-nations-relief-and-works-agency-for-palestine-refugees-in-the-near-east-unrwa-opens-its-two-day-conference-on-humanitarian-nee.md)
-_Context: United Nations Relief and Works Agency for Palestine Refugees in the Near East, Israel_
+_Context: Israel, United Nations Relief and Works Agency for Palestine Refugees in the Near East_
 
 ##### BBC
 ### [ Gunmen attack a BBC news team in Riyadh, Saudi Arabia, killing cameraman Simon Cumbers and seriously injuring correspondent Frank Gardner. ](/news/2004/06/7/gunmen-attack-a-bbc-news-team-in-riyadh-saudi-arabia-killing-cameraman-simon-cumbers-and-seriously-injuring-correspondent-frank-gardner.md)
-_Context: Frank Gardner, Simon Cumbers, BBC, Saudi Arabia, Riyadh_
+_Context: BBC, Simon Cumbers, Frank Gardner, Saudi Arabia, Riyadh_
 
 ##### U.S. presence in Iraq
 ### [ U.S.-led occupation of Iraq: The UN Security Council reaches a compromise agreement on the draft resolution on Iraq. ](/news/2004/06/7/u-s-led-occupation-of-iraq-the-un-security-council-reaches-a-compromise-agreement-on-the-draft-resolution-on-iraq.md)
-_Context: U.S. presence in Iraq, Iraq, UN Security Council_
+_Context: U.S. presence in Iraq, UN Security Council, Iraq_
 
 ##### North American Free Trade Agreement
 ### [ North American Free Trade Agreement: The United States Supreme Court opens US roads to trucks from Mexico, enforcing a key component of the NAFTA agreement over the protests of some environmentalists and Teamsters. ](/news/2004/06/7/north-american-free-trade-agreement-the-united-states-supreme-court-opens-us-roads-to-trucks-from-mexico-enforcing-a-key-component-of-the.md)
-_Context: United States Supreme Court, environmentalist, North American Free Trade Agreement, Teamsters, Mexican_
+_Context: Teamsters, environmentalist, North American Free Trade Agreement, Mexican, United States Supreme Court_
 
 ##### San Francisco
 ### [ A civil trial begins in San Francisco, California, in the U.S. Justice Department's effort to prevent the purchase of PeopleSoft by Oracle Corporation. Antitrust authorities contend that the proposed acquisition of PeopleSoft, for USD $7.7 billion, would effectively monopolize the market for enterprise software. ](/news/2004/06/7/a-civil-trial-begins-in-san-francisco-california-in-the-u-s-justice-department-s-effort-to-prevent-the-purchase-of-peoplesoft-by-oracle.md)
-_Context: California, $, San Francisco, PeopleSoft, Antitrust, Oracle Corporation_
+_Context: Oracle Corporation, PeopleSoft, California, $, San Francisco, Antitrust_
 
 ##### Tampa Bay Lightning
 ### [ The Tampa Bay Lightning defeat the Calgary Flames in Game 7 of the Stanley Cup Finals 2-1, their first Stanley Cup victory. ](/news/2004/06/7/the-tampa-bay-lightning-defeat-the-calgary-flames-in-game-7-of-the-stanley-cup-finals-2a1-their-first-stanley-cup-victory.md)

@@ -9,23 +9,23 @@ _Context: Capitoline Wolf, Etruscan_
 
 ##### China
 ### [ China claims to have foiled the disruption of the 2008 Summer Olympics by suspected terrorists of separatist East Turkestan Islamic Movement from Xinjiang province. ](/news/2008/07/10/china-claims-to-have-foiled-the-disruption-of-the-2008-summer-olympics-by-suspected-terrorists-of-separatist-east-turkestan-islamic-movemen.md)
-_Context: China, terrorists, Xinjiang, East Turkestan Islamic Movement, 2008 Summer Olympics_
+_Context: terrorists, 2008 Summer Olympics, East Turkestan Islamic Movement, China, Xinjiang_
 
 ##### Senator
 ### [ The Senate of the United States confirms the appointment of General David Petraeus as the Commander of the United States Central Command and Raymond T. Odierno as the Commander of the Multinational Force Iraq replacing General Petraeus. ](/news/2008/07/10/the-senate-of-the-united-states-confirms-the-appointment-of-general-david-petraeus-as-the-commander-of-the-united-states-central-command-an.md)
-_Context: David Petraeus, Senator, United States Central Command, Raymond T. Odierno, Multinational Force Iraq_
+_Context: David Petraeus, Senator, Raymond T. Odierno, Multinational Force Iraq, United States Central Command_
 
 ##### United States Secretary of State
 ### [ The United States Secretary of State Condoleezza Rice warns Iran that it should have no doubt that the United States will defend its allies including Israel. ](/news/2008/07/10/the-united-states-secretary-of-state-condoleezza-rice-warns-iran-that-it-should-have-no-doubt-that-the-united-states-will-defend-its-allies.md)
-_Context: Condoleezza Rice, United States Secretary of State, Israel, American_
+_Context: Israel, United States Secretary of State, Condoleezza Rice, American_
 
 #####  Georgian
 ### [ Georgia recalls its ambassador from Moscow after Russian fighters entered Georgian airspace. ](/news/2008/07/10/georgia-recalls-its-ambassador-from-moscow-after-russian-fighters-entered-georgian-airspace.md)
-_Context: Russia, recalls,  Georgian, Moscow_
+_Context: recalls, Russia,  Georgian, Moscow_
 
 ##### Midnight's Children
 ### [ "Midnight's Children" by Salman Rushdie is awarded The Best of the Booker, as the best novel to have won a Man Booker Prize in the first 40 years of its existence. ](/news/2008/07/10/midnight-s-children-by-salman-rushdie-is-awarded-the-best-of-the-booker-as-the-best-novel-to-have-won-a-man-booker-prize-in-the-first-40.md)
-_Context: Salman Rushdie, Man Booker Prize, Midnight's Children, The Best of the Booker_
+_Context: Midnight's Children, Man Booker Prize, Salman Rushdie, The Best of the Booker_
 
 ## [Previous Day...](/news/2008/07/9/index.md)
 

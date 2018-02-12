@@ -13,11 +13,11 @@ _Context: scrubber, Legionellosis, Norway_
 
 ##### Aria
 ### [ A previously unknown aria written by Johann Sebastian Bach in October of 1713 is discovered in documents from a German library. It is the first new work to be discovered by Bach since 1975.](/news/2005/06/8/a-previously-unknown-aria-written-by-johann-sebastian-bach-in-october-of-1713-is-discovered-in-documents-from-a-german-library-it-is-the-f.md)
-_Context: 1975, aria, 1713, German, Johann Sebastian Bach_
+_Context: Johann Sebastian Bach, German, aria, 1975, 1713_
 
 ##### Bolivia
 ### [ In Bolivia, widespread demonstrations continue. Ex-president Carlos Mesa, who has already offered his resignation, states that there is a threat of civil war without immediate elections. Congress will decide on Thursday whether to accept the resignation ](/news/2005/06/8/in-bolivia-widespread-demonstrations-continue-ex-president-carlos-mesa-who-has-already-offered-his-resignation-states-that-there-is-a-t.md)
-_Context: election, civil war, Bolivia, Carlos Mesa_
+_Context: Carlos Mesa, civil war, Bolivia, election_
 
 ##### Philippines
 ### [ The Philippine senate is evacuated after a bomb threat. ](/news/2005/06/8/the-philippine-senate-is-evacuated-after-a-bomb-threat.md)
@@ -25,11 +25,11 @@ _Context: Philippines_
 
 ##### 2005 elections
 ### [ Ethiopian general elections: At least 22 Ethiopians are killed at demonstrations in Addis Ababa between police and students who accuse the ruling party of fraud in last month's general elections. ](/news/2005/06/8/ethiopian-general-elections-at-least-22-ethiopians-are-killed-at-demonstrations-in-addis-ababa-between-police-and-students-who-accuse-the.md)
-_Context: Ethiopia, EPRDF, Addis Ababa, 2005 elections_
+_Context: 2005 elections, Addis Ababa, EPRDF, Ethiopia_
 
 ##### European Commission
 ### [ The European Commission and its president Jos Manuel Barroso survive the no confidence vote ](/news/2005/06/8/the-european-commission-and-its-president-jose-manuel-barroso-survive-the-no-confidence-vote.md)
-_Context: Jos Manuel Barroso, no confidence vote, European Commission_
+_Context: no confidence vote, Jos Manuel Barroso, European Commission_
 
 ## [Previous Day...](/news/2005/06/7/index.md)
 

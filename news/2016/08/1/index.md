@@ -29,7 +29,7 @@ A security law has come into force in Malaysia that gives the Prime Minister, Na
 
 ##### 2016 state of emergency in Venezuela
 ### [Venezuela's National Electoral Council says the opposition successfully met the one percent of voter signatures in every state requirement for a referendum to recall President Nicolas Maduro. Council head Tibisay Lucena did not name a date for the next phase of the referendum process: collect 20 percent of voters' signatures. ](/news/2016/08/1/venezuela-s-national-electoral-council-says-the-opposition-successfully-met-the-one-percent-of-voter-signatures-in-every-state-requirement-f.md)
-_Context: Tibisay Lucena, National Electoral Council, Venezuela, 2016 state of emergency in Venezuela, Nicolas Maduro, President_
+_Context: 2016 state of emergency in Venezuela, Venezuela, President, Nicolas Maduro, National Electoral Council, Tibisay Lucena_
 
 ## [Previous Day...](/news/2016/07/31/index.md)
 

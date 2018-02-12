@@ -9,11 +9,11 @@ As shelling in the Damascus suburbs worsened, the United Nations warned that it 
 
 ##### Northern Ireland
 ### [In Northern Ireland, 15 police officers are injured during rioting at Belfast City Hall following a vote to change Belfast City Council's policy on flying the union flag. ](/news/2012/12/4/in-northern-ireland-15-police-officers-are-injured-during-rioting-at-belfast-city-hall-following-a-vote-to-change-belfast-city-council-s-po.md)
-_Context: Belfast City Council, Belfast City Hall, Northern Ireland, union flag_
+_Context: union flag, Belfast City Hall, Northern Ireland, Belfast City Council_
 
 ##### European Union
 ### [In a setback to the movement toward banking union in the EU, Germany's finance minister Wolfgang Schauble says he will not allow a unitary system of supervision without changes in the underlying treaties. ](/news/2012/12/4/in-a-setback-to-the-movement-toward-banking-union-in-the-eu-germany-s-finance-minister-wolfgang-scha-uble-says-he-will-not-allow-a-unitary.md)
-_Context: German, Wolfgang Schauble, European Union, finance minister_
+_Context: German, European Union, Wolfgang Schauble, finance minister_
 
 ##### Typhoon Bopha
 ### [Typhoon Bopha makes landfall on the Philippines island of Mindanao with reports of floods and landslides. Authorities confirm at least 81 deaths amid widespread property damage. ](/news/2012/12/4/typhoon-bopha-makes-landfall-on-the-philippines-island-of-mindanao-with-reports-of-floods-and-landslides-authorities-confirm-at-least-81-de.md)
@@ -21,11 +21,11 @@ Typhoon Bopha has killed at least 52 people in the Philippines.
 
 ##### Black Sea
 ### [The cargo ship Volgo Balt 199 sinks in the Black Sea near Istanbul with an Ukrainian and Russian crew of 12. Four crew members are rescued and one is found dead, while the rest are missing. Two rescuers are killed and two others left missing after their boat hit rocks during the search operations. ](/news/2012/12/4/the-cargo-ship-volgo-balt-199-sinks-in-the-black-sea-near-istanbul-with-an-ukrainian-and-russian-crew-of-12-four-crew-members-are-rescued-a.md)
-_Context: Istanbul, Black Sea, Ukraine, Russia_
+_Context: Istanbul, Black Sea, Russia, Ukraine_
 
 ##### Fighter jet
 ### [A Chinese fighter jet Chengdu J-7 crashes in the city of Shantou, Guangdong province, China, sparking a fire that injures at least four people. ](/news/2012/12/4/a-chinese-fighter-jet-chengdu-j-7-crashes-in-the-city-of-shantou-guangdong-province-china-sparking-a-fire-that-injures-at-least-four-peop.md)
-_Context: Chengdu J-7, Guangdong, China, fighter jet, Shantou_
+_Context: Shantou, fighter jet, Guangdong, Chengdu J-7, China_
 
 ##### US Navy
 ### [The US Navy denies Iranian state media reports that a ScanEagle drone has been shot down over the Persian Gulf. ](/news/2012/12/4/the-us-navy-denies-iranian-state-media-reports-that-a-scaneagle-drone-has-been-shot-down-over-the-persian-gulf.md)
@@ -33,7 +33,7 @@ As shelling in the Damascus suburbs worsened, the United Nations warned that it 
 
 ##### International Olympic Committee
 ### [The International Olympic Committee suspends India's national Olympic committee because of government interference in its election process. India's athletes will be barred from competing in Olympic events under their national flag, although the IOC could allow them to do so under the Olympic flag. ](/news/2012/12/4/the-international-olympic-committee-suspends-india-s-national-olympic-committee-because-of-government-interference-in-its-election-process.md)
-_Context: national flag, Government of India, Olympic events, International Olympic Committee, national Olympic committee, Olympic flag, IOC, India_
+_Context: national Olympic committee, International Olympic Committee, Olympic flag, Government of India, national flag, Olympic events, IOC, India_
 
 ##### Japanese police
 ### [Japanese police raid the headquarters of the Central Nippon Expressway Company, which operates the Sasago Tunnel that had collapsed over the weekend. ](/news/2012/12/4/japanese-police-raid-the-headquarters-of-the-central-nippon-expressway-company-which-operates-the-sasago-tunnel-that-had-collapsed-over-the.md)
@@ -45,7 +45,7 @@ All Commonwealth realms agree to a bill to change royal succession rules which d
 
 ##### United States Senate
 ### [The United States Senate fails to ratify the United Nations Convention on the Rights of Persons with Disabilities, with the motion failing to win the two-thirds majority. ](/news/2012/12/4/the-united-states-senate-fails-to-ratify-the-united-nations-convention-on-the-rights-of-persons-with-disabilities-with-the-motion-failing-t.md)
-_Context: United States Senate, Convention on the Rights of Persons with Disabilities, United Nations_
+_Context: Convention on the Rights of Persons with Disabilities, United Nations, United States Senate_
 
 ##### President
 ### [One hundred thousand people protest outside the President of Egypt's palace over proposed constitutional changes. ](/news/2012/12/4/one-hundred-thousand-people-protest-outside-the-president-of-egypt-s-palace-over-proposed-constitutional-changes.md)

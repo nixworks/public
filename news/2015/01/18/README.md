@@ -5,7 +5,7 @@ Formats: [HTML](2015/01/18/index.html)  [JSON](2015/01/18/index.json)  [XML](201
 
 ##### Israeli-Lebanese conflict
 ### [An Israeli helicopter strike near the border with Syria kills two senior IRGC figures and six members of Hezbollah. ](/news/2015/01/18/an-israeli-helicopter-strike-near-the-border-with-syria-kills-two-senior-irgc-figures-and-six-members-of-hezbollah.md)
-_Context: IRGC, Hezbollah, Israeli-Lebanese conflict, Syria, Israeli Defence Forces_
+_Context: Israeli Defence Forces, Israeli-Lebanese conflict, Syria, IRGC, Hezbollah_
 
 ##### Boko Haram
 ### [Boko Haram militants kidnap 80 people and kill three others from villages in north Cameroon. ](/news/2015/01/18/boko-haram-militants-kidnap-80-people-and-kill-three-others-from-villages-in-north-cameroon.md)
@@ -13,7 +13,7 @@ It is thought around 30 adults and 50 children have been taken by the extremist 
 
 ##### Hindu
 ### [A clash with Hindu villagers in Sarayian village in India's Bihar state leaves at least three Muslim villagers burned to death. ](/news/2015/01/18/a-clash-with-hindu-villagers-in-sarayian-village-in-india-s-bihar-state-leaves-at-least-three-muslim-villagers-burned-to-death.md)
-_Context: Hindu, Bihar, India, Muslim_
+_Context: India, Muslim, Hindu, Bihar_
 
 ##### Libyan Civil War (2014&ndash;present)
 ### [State-sponsored army and Islamist-sponsored opposition declare a ceasefire. ](/news/2015/01/18/state-sponsored-army-and-islamist-sponsored-opposition-declare-a-ceasefire.md)

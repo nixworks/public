@@ -5,7 +5,7 @@ Formats: [HTML](2016/05/26/index.html)  [JSON](2016/05/26/index.json)  [XML](201
 
 ##### Iraqi civil war
 ### [Iraqi security forces and Shiite Popular Mobilization Forces recapture Al-Karmah, about 16 kilometers (10 miles) northeast of Fallujah. ](/news/2016/05/26/iraqi-security-forces-and-shiite-popular-mobilization-forces-recapture-al-karmah-about-16-kilometers-10-miles-northeast-of-fallujah.md)
-_Context: Al-Karmah, Shia, Popular Mobilization Forces, Iraqi civil war, Iraqi Armed Forces, Operation Breaking Terrorism, Fallujah_
+_Context: Shia, Iraqi civil war, Popular Mobilization Forces, Fallujah, Iraqi Armed Forces, Operation Breaking Terrorism, Al-Karmah_
 
 ##### Archaeologists
 ### [Archaeologists announce the discovery of a 2,400-year-old tomb which they believe to be that of Aristotle based on its grandiosity, and its location atop a hill in Stagira, the city of his birth. ](/news/2016/05/26/archaeologists-announce-the-discovery-of-a-2-400-year-old-tomb-which-they-believe-to-be-that-of-aristotle-based-on-its-grandiosity-and-its.md)
@@ -37,7 +37,7 @@ South Korea plans to import $3.5 billion worth of arms this year to enhance its 
 
 ##### South Korean President
 ### [South Korean President Park Geun-hye, during her state visit to Ethiopia to work toward full-scale defense cooperation, pledges $1 million in aid for drought recovery. Park is expected to continue to Uganda and Kenya after this visit. ](/news/2016/05/26/south-korean-president-park-geun-hye-during-her-state-visit-to-ethiopia-to-work-toward-full-scale-defense-cooperation-pledges-1-million-i.md)
-_Context: Uganda, South Korean President, Park Geun-hye, Kenya_
+_Context: South Korean President, Uganda, Park Geun-hye, Kenya_
 
 ##### President of Indonesia
 ### [Indonesian President Joko Widodo issues an executive order (Perppu) making child sexual abuse punishable by chemical castration and extends the maximum penalty to death. ](/news/2016/05/26/indonesian-president-joko-widodo-issues-an-executive-order-perppu-making-child-sexual-abuse-punishable-by-chemical-castration-and-extends.md)
@@ -57,7 +57,7 @@ Some in Louisiana wondered if the new law, which comes at a time of national deb
 
 ##### Attacked
 ### [A Muslim mob is found to have attacked Coptic homes and stripped a woman in public in Minya Governorate, Egypt, on 20 May 2016. ](/news/2016/05/26/a-muslim-mob-is-found-to-have-attacked-coptic-homes-and-stripped-a-woman-in-public-in-minya-governorate-egypt-on-20-may-2016.md)
-_Context: Coptic, Minya Governorate, attacked, Egypt_
+_Context: Egypt, Coptic, attacked, Minya Governorate_
 
 ##### CGT
 ### [French labor unions, led by the CGT, implement a strike in protest of proposed reforms to labor laws. ](/news/2016/05/26/french-labor-unions-led-by-the-cgt-implement-a-strike-in-protest-of-proposed-reforms-to-labor-laws.md)

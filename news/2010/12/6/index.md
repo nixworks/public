@@ -9,23 +9,23 @@ A Bangladeshi-flagged cargo ship hijacked by pirates off the coast of India appe
 
 ##### The Washington Post
 ### ["The Washington Post" reports that an FBI informant so frightened Muslim worshippers by referring to violent jihad while spying on an Islamic community centre in Irvine, California, that they reported him to the authorities. The FBI spy, a convicted fraudster, sues the FBI. ](/news/2010/12/6/the-washington-post-reports-that-an-fbi-informant-so-frightened-muslim-worshippers-by-referring-to-violent-jihad-while-spying-on-an-islami.md)
-_Context: FBI, Muslim, The Washington Post, Irvine, California, jihad_
+_Context: jihad, Irvine, California, The Washington Post, Muslim, FBI_
 
 ##### Egypt
 ### [Egypt calls in international shark experts following recent attacks, one fatal, on tourists in Sharm el-Sheikh in the past week. ](/news/2010/12/6/egypt-calls-in-international-shark-experts-following-recent-attacks-one-fatal-on-tourists-in-sharm-el-sheikh-in-the-past-week.md)
-_Context: shark, Sharm el-Sheikh, Egypt_
+_Context: Sharm el-Sheikh, Egypt, shark_
 
 ##### Israel
 ### [Israeli firefighters douse the Mount Carmel forest fire which killed at least 41 people in the north of the country. ](/news/2010/12/6/israeli-firefighters-douse-the-mount-carmel-forest-fire-which-killed-at-least-41-people-in-the-north-of-the-country.md)
-_Context: Israel, Mount Carmel forest fire_
+_Context: Mount Carmel forest fire, Israel_
 
 ##### Haiti
 ### [Officials in Haiti say more than 2,000 people have died in the cholera outbreak. ](/news/2010/12/6/officials-in-haiti-say-more-than-2-000-people-have-died-in-the-cholera-outbreak.md)
-_Context: Haiti, worst epidemic of cholera_
+_Context: worst epidemic of cholera, Haiti_
 
 ##### Geneva
 ### [Iran meets with six world powers in Geneva for talks concerning its nuclear program. ](/news/2010/12/6/iran-meets-with-six-world-powers-in-geneva-for-talks-concerning-its-nuclear-program.md)
-_Context: Geneva, nuclear program_
+_Context: nuclear program, Geneva_
 
 ##### American
 ### [Newly released cables from the United States indicate former Prime Minister of Australia Kevin Rudd suggested the use of force against China if it could not be "successfully integrated" into the international community. The Australian government refuses to respond to the release. ](/news/2010/12/6/newly-released-cables-from-the-united-states-indicate-former-prime-minister-of-australia-kevin-rudd-suggested-the-use-of-force-against-china.md)
@@ -41,7 +41,7 @@ US&#x20;airline&#x20;Continental&#x20;has&#x20;been&#x20;found&#x20;criminally&#
 
 ##### U.S. President
 ### [The President of the United States Barack Obama says that a deal has been reached with the Republican Party to extend the Bush era tax cuts. ](/news/2010/12/6/the-president-of-the-united-states-barack-obama-says-that-a-deal-has-been-reached-with-the-republican-party-to-extend-the-bush-era-tax-cuts.md)
-_Context: U.S. President, George W. Bush, Republican, Barack Obama_
+_Context: George W. Bush, Republican, Barack Obama, U.S. President_
 
 ## [Previous Day...](/news/2010/12/5/index.md)
 

@@ -5,27 +5,27 @@ Formats: [HTML](2007/02/5/index.html)  [JSON](2007/02/5/index.json)  [XML](2007/
 
 ##### 2008
 ### [ U.S. Presidential Election, 2008: Former New York City mayor Rudy Giuliani (R) officially files for candidacy for President of the United States of America. ](/news/2007/02/5/u-s-presidential-election-2008-former-new-york-city-mayor-rudy-giuliani-r-officially-files-for-candidacy-for-president-of-the-united-s.md)
-_Context: Republican, President of the United States of America, Rudy Giuliani, New York City, Mayor, 2008_
+_Context: Rudy Giuliani, Mayor, New York City, Republican, 2008, President of the United States of America_
 
 ##### Space Shuttle
 ### [ Space Shuttle astronaut Lisa Nowak is arrested in Florida for attempted kidnapping. ](/news/2007/02/5/space-shuttle-astronaut-lisa-nowak-is-arrested-in-florida-for-attempted-kidnapping.md)
-_Context: Space Shuttle, the state, kidnapping, astronaut, Lisa Nowak_
+_Context: kidnapping, Lisa Nowak, astronaut, the state, Space Shuttle_
 
 ##### Boris Berezovsky
 ### [ Boris Berezovsky tells the BBC that Alexander Litvinenko, on his deathbed, said that Andrei Lugovoi was responsible for his poisoning. ](/news/2007/02/5/boris-berezovsky-tells-the-bbc-that-alexander-litvinenko-on-his-deathbed-said-that-andrei-lugovoi-was-responsible-for-his-poisoning.md)
-_Context: Alexander Litvinenko, murder of Russian spy Alexander Litvinenko, Boris Berezovsky, BBC, Andrei Lugovoi_
+_Context: BBC, murder of Russian spy Alexander Litvinenko, Alexander Litvinenko, Boris Berezovsky, Andrei Lugovoi_
 
 ##### American
 ### [ U.S. President George W. Bush has submitted a $2.9 trillion budget to Congress including almost $700 billion in new military spending. ](/news/2007/02/5/u-s-president-george-w-bush-has-submitted-a-2-9-trillion-budget-to-congress-including-almost-700-billion-in-new-military-spending.md)
-_Context: United States federal budget, 110th United States Congress, George W. Bush, American, $, military spending, U.S. President_
+_Context: military spending, George W. Bush, U.S. President, United States federal budget, $, 110th United States Congress, American_
 
 ##### Syria
 ### [ Syrian President Bashar al-Assad has said his country can play a major role in international efforts to end the Civil war in Iraq. ](/news/2007/02/5/syrian-president-bashar-al-assad-has-said-his-country-can-play-a-major-role-in-international-efforts-to-end-the-civil-war-in-iraq.md)
-_Context: Civil war in Iraq, Syria, Bashar al-Assad, President_
+_Context: Civil war in Iraq, Bashar al-Assad, Syria, President_
 
 ##### France
 ### [ French police arrest 13 Kurdish Turks for allegedly funding PKK terrorist operations. ](/news/2007/02/5/french-police-arrest-13-kurdish-turks-for-allegedly-funding-pkk-terrorist-operations.md)
-_Context: Kurdish, France, Kurdistan Workers Party_
+_Context: Kurdistan Workers Party, Kurdish, France_
 
 ##### President
 ### [ Iranian President Mahmoud Ahmadinejad will present a herbal treatment for AIDS that the Iranian government says is effective in helping patients to cure their symptoms. ](/news/2007/02/5/iranian-president-mahmoud-ahmadinejad-will-present-a-herbal-treatment-for-aids-that-the-iranian-government-says-is-effective-in-helping-pat.md)
@@ -33,11 +33,11 @@ Iran was set to make fantastic claims on the anniversary of the Islamic Revoluti
 
 ##### Charity
 ### [ A coalition of charity, faith groups and unions have warned Tony Blair that any military action against Iran would have "unthinkable" consequences. ](/news/2007/02/5/a-coalition-of-charity-faith-groups-and-unions-have-warned-tony-blair-that-any-military-action-against-iran-would-have-unthinkable-conse.md)
-_Context: charity, Iran, Tony Blair, labour unions, military_
+_Context: Tony Blair, labour unions, Iran, charity, military_
 
 ##### Malaysia
 ### [ Former Malaysian premier Mahathir Mohamad hosts a conference calling for George W. Bush and Tony Blair to be tried by an unofficial tribunal for war crimes in Iraq. ](/news/2007/02/5/former-malaysian-premier-mahathir-mohamad-hosts-a-conference-calling-for-george-w-bush-and-tony-blair-to-be-tried-by-an-unofficial-tribuna.md)
-_Context: Iraq, George W. Bush, Malaysia, war crimes, Mahathir Mohamad, Tony Blair_
+_Context: Tony Blair, Mahathir Mohamad, George W. Bush, Iraq, war crimes, Malaysia_
 
 ## [Previous Day...](/news/2007/02/4/index.md)
 

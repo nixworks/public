@@ -9,11 +9,11 @@ The emergency landing of two U.S. Marine Corps F-18 fighter jets on the island o
 
 ##### Mexican
 ### [Flames engulf a Mexican state-run Pemex oil platform in the Gulf of Mexico, killing four workers. ](/news/2015/04/1/flames-engulf-a-mexican-state-run-pemex-oil-platform-in-the-gulf-of-mexico-killing-four-workers.md)
-_Context: Mexican, Petroleos Mexicanos, Gulf of Mexico_
+_Context: Mexican, Gulf of Mexico, Petroleos Mexicanos_
 
 ##### Russia
 ### [The Russian trawler "Dalniy Vostok" with 132 crew sinks off of the Kamchatka peninsula leaving at least 54 dead and 15 missing. ](/news/2015/04/1/the-russian-trawler-dalniy-vostok-with-132-crew-sinks-off-of-the-kamchatka-peninsula-leaving-at-least-54-dead-and-15-missing.md)
-_Context: Russia, Kamchatka peninsula, sinks, ''Dalniy Vostok''_
+_Context: sinks, Russia, Kamchatka peninsula, ''Dalniy Vostok''_
 
 ##### California
 ### [California governor Jerry Brown announces mandatory water restrictions in response to the worst drought in California history. ](/news/2015/04/1/california-governor-jerry-brown-announces-mandatory-water-restrictions-in-response-to-the-worst-drought-in-california-history.md)
@@ -33,7 +33,7 @@ _Context: Bob Menendez, New Jersey_
 
 ##### Atlanta
 ### [A court convicts eleven Atlanta, Georgia teachers as part of a mass cheating scandal. ](/news/2015/04/1/a-court-convicts-eleven-atlanta-georgia-teachers-as-part-of-a-mass-cheating-scandal.md)
-_Context: Georgia, mass cheating scandal, Atlanta_
+_Context: mass cheating scandal, Atlanta, Georgia_
 
 ##### Obama Administration
 ### [The Obama Administration targets overseas cyber attackers with a sanctions program. ](/news/2015/04/1/the-obama-administration-targets-overseas-cyber-attackers-with-a-sanctions-program.md)
@@ -41,7 +41,7 @@ President Barack Obama launched a sanctions program on Wednesday to target indiv
 
 ##### Thailand
 ### [Thailand's military junta repeals martial law in favor of an imposed constitutional provision that allows the leader of the government to make extra-constitutional orders. ](/news/2015/04/1/thailand-s-military-junta-repeals-martial-law-in-favor-of-an-imposed-constitutional-provision-that-allows-the-leader-of-the-government-to-ma.md)
-_Context: military junta, Thailand_
+_Context: Thailand, military junta_
 
 ## [Previous Day...](/news/2015/03/31/index.md)
 

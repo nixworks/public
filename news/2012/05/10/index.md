@@ -9,7 +9,7 @@ Dozens of people were killed or wounded in two &quot;terrorist explosions&quot; 
 
 ##### Al-Qaeda
 ### [An airstrike reportedly kills five al-Qaeda militants in the southern Yemeni town of Jaar. ](/news/2012/05/10/an-airstrike-reportedly-kills-five-al-qaeda-militants-in-the-southern-yemeni-town-of-jaar.md)
-_Context: al-Qaeda, Ja'ar, Yemen_
+_Context: Yemen, Ja'ar, al-Qaeda_
 
 ##### International Committee of the Red Cross
 ### [The International Committee of the Red Cross suspends all humanitarian work in Pakistan after a worker was kidnapped and killed. ](/news/2012/05/10/the-international-committee-of-the-red-cross-suspends-all-humanitarian-work-in-pakistan-after-a-worker-was-kidnapped-and-killed.md)
@@ -25,7 +25,7 @@ A Francis Bacon painting of a man and his reflection brought in $44.9m at Sotheb
 
 ##### Salman Rushdie
 ### [Salman Rushdie, Art Spiegelman and Mario Vargas Llosa are among those to protest against the planned spending of US$300 million on the Fifth Avenue branch of the New York Public Library, saying it is "a misplaced use of funds in a time of great scarcity". A letter signed by more than 700 writers, academics and others is sent to the library. ](/news/2012/05/10/salman-rushdie-art-spiegelman-and-mario-vargas-llosa-are-among-those-to-protest-against-the-planned-spending-of-us-300-million-on-the-fifth.md)
-_Context: Mario Vargas Llosa, New York Public Library, Fifth Avenue, Art Spiegelman, Salman Rushdie_
+_Context: Fifth Avenue, New York Public Library, Salman Rushdie, Art Spiegelman, Mario Vargas Llosa_
 
 ##### United Kingdom
 ### [As many as 400,000 public sector workers in the United Kingdom resolve to stage a 24-hour mass strike in protest against planned pension cuts. ](/news/2012/05/10/as-many-as-400-000-public-sector-workers-in-the-united-kingdom-resolve-to-stage-a-24-hour-mass-strike-in-protest-against-planned-pension-cut.md)
@@ -37,7 +37,7 @@ _Context: industrial dispute, Air India_
 
 ##### Sukhoi Superjet 100
 ### [The wreckage of a missing Sukhoi Superjet 100 plane, which vanished from radar on a demonstration flight with 45 people on board on May 9, is found in Indonesia. There are reportedly no signs of survivors. ](/news/2012/05/10/the-wreckage-of-a-missing-sukhoi-superjet-100-plane-which-vanished-from-radar-on-a-demonstration-flight-with-45-people-on-board-on-may-9-i.md)
-_Context: Indonesia, Sukhoi Superjet 100, Russian passenger jet that crashed_
+_Context: Sukhoi Superjet 100, Russian passenger jet that crashed, Indonesia_
 
 ##### North Sea
 ### [A helicopter ditches in the North Sea off Aberdeen. ](/news/2012/05/10/a-helicopter-ditches-in-the-north-sea-off-aberdeen.md)
@@ -53,11 +53,11 @@ Most travel agencies in China are suspending tours to the Philippines amid tensi
 
 ##### Australian Federal Police
 ### [A dozen members of the Australian Federal Police are expelled from Vanuatu, following a diplomatic row over the arrest of the Prime Minister of Vanuatu's private secretary in Australia last month. ](/news/2012/05/10/a-dozen-members-of-the-australian-federal-police-are-expelled-from-vanuatu-following-a-diplomatic-row-over-the-arrest-of-the-prime-minister.md)
-_Context: Vanuatu, Australian Federal Police, Australia, Prime Minister of Vanuatu_
+_Context: Vanuatu, Prime Minister of Vanuatu, Australian Federal Police, Australia_
 
 ##### London
 ### [London's Metropolitan Police launches its 14th investigation into alleged police racism in six weeks. ](/news/2012/05/10/london-s-metropolitan-police-launches-its-14th-investigation-into-alleged-police-racism-in-six-weeks.md)
-_Context: Metropolitan Police, London_
+_Context: London, Metropolitan Police_
 
 ##### David Cameron
 ### [British prime minister David Cameron allowed his former spokesman Andy Coulson, the ex-editor of the now-defunct "News of the World" tabloid, access to some of the British government's most sensitive secrets without full security clearance, the Leveson Inquiry is told. ](/news/2012/05/10/british-prime-minister-david-cameron-allowed-his-former-spokesman-andy-coulson-the-ex-editor-of-the-now-defunct-news-of-the-world-tabloid.md)

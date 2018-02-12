@@ -21,7 +21,7 @@ The move leaves Japan nuclear power-free for second time since 2011 Fukushima cr
 
 ##### Colombia
 ### [Six people die in a stampede in a bar following a police raid in the Colombian capital Bogota. ](/news/2013/09/15/six-people-die-in-a-stampede-in-a-bar-following-a-police-raid-in-the-colombian-capital-bogota.md)
-_Context: Bogota, Colombia_
+_Context: Colombia, Bogota_
 
 ##### Mount Sinabung
 ### [Nearly 6,000 people flee after Mount Sinabung explodes in Indonesia's North Sumatra province. ](/news/2013/09/15/nearly-6-000-people-flee-after-mount-sinabung-explodes-in-indonesia-s-north-sumatra-province.md)

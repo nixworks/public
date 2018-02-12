@@ -5,7 +5,7 @@ Formats: [HTML](2017/08/4/index.html)  [JSON](2017/08/4/index.json)  [XML](2017/
 
 ##### Danish royal consorts
 ### [Denmark's Prince Henrik announces he won't be buried next to Queen Margrethe II in the Roskilde Cathedral where Danish royals have been buried since 1559. The 83-year-old, French-born Henrik has been dissatisfied with his non-equal role as Prince consort. The 77-year old Margrethe, who had a specially designed sarcophagus made for the couple, accepts Henrik's decision, according to a royal house spokeswoman. ](/news/2017/08/4/denmark-s-prince-henrik-announces-he-won-t-be-buried-next-to-queen-margrethe-ii-in-the-roskilde-cathedral-where-danish-royals-have-been-buri.md)
-_Context: Roskilde Cathedral, Queen Margrethe II, Danish royal consorts, sarcophagus, Denmark, Prince consort, French-born, Prince Henrik_
+_Context: Prince Henrik, Danish royal consorts, Prince consort, Denmark, sarcophagus, Roskilde Cathedral, Queen Margrethe II, French-born_
 
 ##### Economy of the United States
 ### [The U.S. economy added over 200,000 jobs last month, dropping the country's unemployment rate to match a previous 16-year low at 4.3%. Wage growth remained below the Federal Reserve Board's target of 3.5%. ](/news/2017/08/4/the-u-s-economy-added-over-200-000-jobs-last-month-dropping-the-country-s-unemployment-rate-to-match-a-previous-16-year-low-at-4-3-wage.md)
@@ -29,7 +29,7 @@ Rwandan President Paul Kagame has extended his 17 years in power after winning t
 
 ##### Crisis in Venezuela
 ### [Socorro Flores Liera, Mexico's deputy foreign minister for Latin America and the Caribbean, speaks during an interview with Reuters in Mexico City, that during the first half of 2017, 1,420 Venezuelans have sought asylum in Mexico, a nearly four-fold jump compared to the 361 total Venezuelan asylum applicants for all of 2016, as the result of Venezuela's deepening political and economic crisis. ](/news/2017/08/4/socorro-flores-liera-mexico-s-deputy-foreign-minister-for-latin-america-and-the-caribbean-speaks-during-an-interview-with-reuters-in-mexic.md)
-_Context: Mexico City, Mexican, Venezuela, Crisis in Venezuela_
+_Context: Mexican, Crisis in Venezuela, Mexico City, Venezuela_
 
 ## [Previous Day...](/news/2017/08/3/index.md)
 

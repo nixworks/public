@@ -5,7 +5,7 @@ Formats: [HTML](2007/09/7/index.html)  [JSON](2007/09/7/index.json)  [XML](2007/
 
 ##### 2007 Lebanon conflict
 ### [ 2007 Lebanon conflict: The Lebanese Army declares victory after ending a three-month conflict with Fatah al-Islam militants in Nahr el-Bared.](/news/2007/09/7/2007-lebanon-conflict-the-lebanese-army-declares-victory-after-ending-a-three-month-conflict-with-fatah-al-islam-militants-in-nahr-el-bare.md)
-_Context: Lebanese Army, Fatah al-Islam, Nahr el-Bared, 2007 Lebanon conflict_
+_Context: Lebanese Army, Fatah al-Islam, 2007 Lebanon conflict, Nahr el-Bared_
 
 ##### Subtropical Storm Gabrielle
 ### [ Subtropical Storm Gabrielle forms southeast of the Carolina coast in the Atlantic Ocean. ](/news/2007/09/7/subtropical-storm-gabrielle-forms-southeast-of-the-carolina-coast-in-the-atlantic-ocean.md)
@@ -17,7 +17,7 @@ The trial over the drowning of 35 residents was the only prosecution to result f
 
 ##### Pilgrim
 ### [ At least 80 people have died and scores injured as a truck and trailers carrying pilgrims plunges into a gorge near the village of Desuri Ki Naal in Rajasthan, India. ](/news/2007/09/7/at-least-80-people-have-died-and-scores-injured-as-a-truck-and-trailers-carrying-pilgrims-plunges-into-a-gorge-near-the-village-of-desuri-k.md)
-_Context: India, Desuri Ki Naal, gorge, Rajasthan, pilgrim_
+_Context: pilgrim, Desuri Ki Naal, Rajasthan, gorge, India_
 
 ##### World War II
 ### [ The pilot of a civilian World War II stunt plane dies while practicing at Naval Air Station Oceana in Virginia Beach, Virginia. ](/news/2007/09/7/the-pilot-of-a-civilian-world-war-ii-stunt-plane-dies-while-practicing-at-naval-air-station-oceana-in-virginia-beach-virginia.md)
@@ -25,11 +25,11 @@ _Context: Virginia Beach, World War II, stunt plane, Naval Air Station Oceana_
 
 ##### Robert Mugabe
 ### [ Robert Mugabe, the President of Zimbabwe, accused Levy Mwanawasa, the President of Zambia and Chairman of the Southern African Development Community, of selling out his country to the Western world and plotting with foreign intelligence agencies during an SADC conference in August. President Mwanawasa later apologized to Mugabe, saying Mugabe had misunderstood an earlier comment. ](/news/2007/09/7/robert-mugabe-the-president-of-zimbabwe-accused-levy-mwanawasa-the-president-of-zambia-and-chairman-of-the-southern-african-development.md)
-_Context: Southern African Development Community, Levy Mwanawasa, President, President of Zimbabwe, Robert Mugabe_
+_Context: President of Zimbabwe, President, Southern African Development Community, Robert Mugabe, Levy Mwanawasa_
 
 ##### U.S. District Court for the District of Columbia
 ### [ United States District Court judge Royce Lamberth orders Iran to pay $2.6 billion to victims and families in the 1983 Hezbollah bombing of a United States Marine Corps barracks in Lebanon that claimed 241 American lives. ](/news/2007/09/7/united-states-district-court-judge-royce-lamberth-orders-iran-to-pay-2-6-billion-to-victims-and-families-in-the-1983-hezbollah-bombing-of.md)
-_Context: U.S. District Court for the District of Columbia, $, Royce Lamberth, bomb, Hezbollah, Iran, Lebanese, Marine_
+_Context: U.S. District Court for the District of Columbia, Lebanese, bomb, Marine, Iran, Hezbollah, $, Royce Lamberth_
 
 ##### Roman Catholic Diocese of San Diego
 ### [ The Roman Catholic Diocese of San Diego agrees to pay $198.1 million to settle 144 claims of sexual abuse by clergy. ](/news/2007/09/7/the-roman-catholic-diocese-of-san-diego-agrees-to-pay-198-1-million-to-settle-144-claims-of-sexual-abuse-by-clergy.md)
@@ -41,7 +41,7 @@ The number of people killed when Hurricane Felix tore into the border area betwe
 
 ##### Polish
 ### [ The Polish Sejm votes to dissolve itself, causing early parliamentary elections in October 2007. ](/news/2007/09/7/the-polish-sejm-votes-to-dissolve-itself-causing-early-parliamentary-elections-in-october-2007.md)
-_Context: Polish, parliamentary elections, Sejm_
+_Context: Sejm, Polish, parliamentary elections_
 
 ##### Stock Markets
 ### [ Global Stock Markets fall sharply amid recession fears after the release of a report that shows a surprise decline of the US workforce in August, for the first time in four years. ](/news/2007/09/7/global-stock-markets-fall-sharply-amid-recession-fears-after-the-release-of-a-report-that-shows-a-surprise-decline-of-the-us-workforce-in-a.md)
@@ -49,7 +49,7 @@ _Context: American, workforce, Stock Markets, recession_
 
 ##### Indonesia
 ### [ The Indonesian Supreme Court rejects an appeal by Bali bomber Amrozi bin Nurhasyim. ](/news/2007/09/7/the-indonesian-supreme-court-rejects-an-appeal-by-bali-bomber-amrozi-bin-nurhasyim.md)
-_Context: Bali bomber, Indonesia, Amrozi bin Nurhasyim_
+_Context: Amrozi bin Nurhasyim, Bali bomber, Indonesia_
 
 ##### United States District Court
 ### [ United States District Court judge William Hoeveler refuses to block the extradition of former Panamanian leader Manuel Noriega to France to face charges. ](/news/2007/09/7/united-states-district-court-judge-william-hoeveler-refuses-to-block-the-extradition-of-former-panamanian-leader-manuel-noriega-to-france-t.md)
@@ -65,7 +65,7 @@ _Context: Osama bin Laden, video, American_
 
 ##### BBC
 ### [ The BBC reports that investigations into a recent outbreak of foot and mouth disease has identified five breaches of biosecurity at the Pirbright site of the Institute for Animal Health. ](/news/2007/09/7/the-bbc-reports-that-investigations-into-a-recent-outbreak-of-foot-and-mouth-disease-has-identified-five-breaches-of-biosecurity-at-the-pir.md)
-_Context: BBC, biosecurity, Pirbright, Institute for Animal Health, foot and mouth disease_
+_Context: foot and mouth disease, biosecurity, Pirbright, Institute for Animal Health, BBC_
 
 ##### Morocco
 ### [ Voters in Morocco go to the polls for the Moroccan parliamentary election, 2007. ](/news/2007/09/7/voters-in-morocco-go-to-the-polls-for-the-moroccan-parliamentary-election-2007.md)
@@ -77,7 +77,7 @@ Russian President Vladimir Putinis set to sign a nuclear energy deal with Austra
 
 ##### 2007 Pacific typhoon season
 ### [ 2007 Pacific typhoon season: Typhoon Fitow passes over Tokyo with one casualty occurring in Nagano Prefecture last night. ](/news/2007/09/7/2007-pacific-typhoon-season-typhoon-fitow-passes-over-tokyo-with-one-casualty-occurring-in-nagano-prefecture-last-night.md)
-_Context: Tokyo, Nagano Prefecture, 2007 Pacific typhoon season_
+_Context: Nagano Prefecture, Tokyo, 2007 Pacific typhoon season_
 
 ## [Previous Day...](/news/2007/09/6/index.md)
 

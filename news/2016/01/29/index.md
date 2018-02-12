@@ -5,7 +5,7 @@ Formats: [HTML](2016/01/29/index.html)  [JSON](2016/01/29/index.json)  [XML](201
 
 ##### Terrorism in Saudi Arabia
 ### [At least 3 people are killed and 7 wounded in an attack on a Shia mosque in Saudi Arabia's Eastern Province. ](/news/2016/01/29/at-least-3-people-are-killed-and-7-wounded-in-an-attack-on-a-shia-mosque-in-saudi-arabia-s-eastern-province.md)
-_Context: Eastern Province, Shia, Terrorism in Saudi Arabia, Saudi Arabia_
+_Context: Terrorism in Saudi Arabia, Eastern Province, Shia, Saudi Arabia_
 
 ##### Iraqi Civil War (2014-present)
 ### [A pipeline used to generate around half the electricity in Iraqi Kurdistan is blown up, knocking out power across the region. ](/news/2016/01/29/a-pipeline-used-to-generate-around-half-the-electricity-in-iraqi-kurdistan-is-blown-up-knocking-out-power-across-the-region.md)
@@ -25,7 +25,7 @@ Xerox Corp (XRX.N) will split into two companies, one holding its legacy printer
 
 ##### 2015-16 Australian region cyclone season
 ### [Tropical Cyclone Stan gathers strength as it heads towards the Pilbara and Kimberley regions of Western Australia. ](/news/2016/01/29/tropical-cyclone-stan-gathers-strength-as-it-heads-towards-the-pilbara-and-kimberley-regions-of-western-australia.md)
-_Context: Western Australia, 2015-16 Australian region cyclone season, Pilbara, Kimberley_
+_Context: Pilbara, 2015-16 Australian region cyclone season, Kimberley, Western Australia_
 
 ##### 2015-16 UK and Ireland windstorm season
 ### [Storm Gertrude impacts the British Isles, with 90mph winds knocking out power lines and causing travel disruption. ](/news/2016/01/29/storm-gertrude-impacts-the-british-isles-with-90mph-winds-knocking-out-power-lines-and-causing-travel-disruption.md)
@@ -41,11 +41,11 @@ Japan has put its military on alert for a possible North Korean ballistic missil
 
 ##### Human rights in China
 ### [Human rights activists claim that three pro-democracy advocates have been sentenced to up to five years imprisonment on charges of attempting to overthrow the Communist Party government in Guangzhou. ](/news/2016/01/29/human-rights-activists-claim-that-three-pro-democracy-advocates-have-been-sentenced-to-up-to-five-years-imprisonment-on-charges-of-attemptin.md)
-_Context: Human rights in China, Communist Party of China, Guangzhou_
+_Context: Guangzhou, Communist Party of China, Human rights in China_
 
 ##### Email server
 ### [The Government of the United States rules that 22 emails on Hillary Clinton's home server contained closely guarded information rated as "Top Secret". ](/news/2016/01/29/the-government-of-the-united-states-rules-that-22-emails-on-hillary-clinton-s-home-server-contained-closely-guarded-information-rated-as-to.md)
-_Context: Hillary Clinton, United States government, emails, email server_
+_Context: Hillary Clinton, email server, emails, United States government_
 
 ##### University of California, Los Angeles
 ### [Scientists from UCLA conclude that study of the geology of the Earth and Moon indicate that both consist of a mixture of rocks from the original Earth and a hypothesized planetary-mass object called Theia after a collision. ](/news/2016/01/29/scientists-from-ucla-conclude-that-study-of-the-geology-of-the-earth-and-moon-indicate-that-both-consist-of-a-mixture-of-rocks-from-the-orig.md)

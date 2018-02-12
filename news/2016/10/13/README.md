@@ -9,7 +9,7 @@ The U.S. military launched cruise missile strikes on Thursday to knock out three
 
 ##### Boko Haram
 ### [Negotiations between the Nigerian president's administration and Islamist militants free 21 of the 270 schoolgirls kidnapped in 2014 by Boko Haram in Chibok, Nigeria (leaving 218 victims still unaccounted for). ](/news/2016/10/13/negotiations-between-the-nigerian-president-s-administration-and-islamist-militants-free-21-of-the-270-schoolgirls-kidnapped-in-2014-by-boko.md)
-_Context: Nigerian, Chibok, Boko Haram, Chibok schoolgirls kidnapping_
+_Context: Chibok, Nigerian, Boko Haram, Chibok schoolgirls kidnapping_
 
 ##### American
 ### [American singer-songwriter Bob Dylan wins the Nobel Prize in Literature. ](/news/2016/10/13/american-singer-songwriter-bob-dylan-wins-the-nobel-prize-in-literature.md)
@@ -45,7 +45,7 @@ UNITED NATIONSâ€”The U.N. General Assembly on Thursday officially appointed AntÃ
 
 ##### Proposed second Scottish independence referendum
 ### [Scottish leader Nicola Sturgeon will introduce a bill launching a new referendum to determine the final status of the country. ](/news/2016/10/13/scottish-leader-nicola-sturgeon-will-introduce-a-bill-launching-a-new-referendum-to-determine-the-final-status-of-the-country.md)
-_Context: Brexit, Nicola Sturgeon, Proposed second Scottish independence referendum, country_
+_Context: country, Proposed second Scottish independence referendum, Nicola Sturgeon, Brexit_
 
 ##### 
 ### [Cyberthieves inject 5,925 online web retailers with website software malicious code that is stealing the credit card details of customers. ](/news/2016/10/13/cyberthieves-inject-5-925-online-web-retailers-with-website-software-malicious-code-that-is-stealing-the-credit-card-details-of-customers.md)

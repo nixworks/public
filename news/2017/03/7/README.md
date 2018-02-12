@@ -21,7 +21,7 @@ The Midwest was slammed with 29 reported tornadoes Monday, according to the Nati
 
 ##### CSX Transportation
 ### [A CSX Transportation freight train collides with a charter bus in Biloxi, Mississippi, killing at least four people and leaving dozens injured. ](/news/2017/03/7/a-csx-transportation-freight-train-collides-with-a-charter-bus-in-biloxi-mississippi-killing-at-least-four-people-and-leaving-dozens-injur.md)
-_Context: Biloxi, Mississippi, CSX Transportation_
+_Context: CSX Transportation, Biloxi, Mississippi_
 
 ##### 2016-2017 Cook Inlet natural gas leak
 ### [An investigation by the United States Department of Transportation's Pipeline and Hazardous Materials Safety Administration finds that the natural gas leak occurring in Alaska's Cook Inlet began earlier than first reported, and represents significant safety and environmental risks. The agency gives pipeline operator Hilcorp Energy until May 1, 2017 to fix the leak, or shut the pipeline down. ](/news/2017/03/7/an-investigation-by-the-united-states-department-of-transportation-s-pipeline-and-hazardous-materials-safety-administration-finds-that-the-n.md)
@@ -37,7 +37,7 @@ The start of the Thaad deployment comes a day after North Korea launched four ba
 
 ##### Vault 7
 ### [WikiLeaks releases thousands of documents that it claims provides details of surveillance software used by the United States Central Intelligence Agency. ](/news/2017/03/7/wikileaks-releases-thousands-of-documents-that-it-claims-provides-details-of-surveillance-software-used-by-the-united-states-central-intelli.md)
-_Context: WikiLeaks, American, Vault 7, Central Intelligence Agency_
+_Context: WikiLeaks, Vault 7, American, CIA_
 
 ##### European migrant crisis
 ### [The National Assembly of Hungary approves the automatic detention of all asylum seekers who enter the country. ](/news/2017/03/7/the-national-assembly-of-hungary-approves-the-automatic-detention-of-all-asylum-seekers-who-enter-the-country.md)

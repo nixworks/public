@@ -13,15 +13,15 @@ The number of connections on mobile phone networks has crossed the 4 billion mar
 
 ##### Azerbaijan
 ### [ Azerbaijan Air Force Lieutenant General Rail Rzayev is killed in Baku. ](/news/2009/02/11/azerbaijan-air-force-lieutenant-general-rail-rzayev-is-killed-in-baku.md)
-_Context: Rail Rzayev, Lieutenant General, Air Force, Azerbaijan, Baku_
+_Context: Azerbaijan, Rail Rzayev, Lieutenant General, Baku, Air Force_
 
 ##### Palestinian
 ### [ Palestinian militants launch four mortar shells and one Qassam rocket from the Gaza Strip into Israel. ](/news/2009/02/11/palestinian-militants-launch-four-mortar-shells-and-one-qassam-rocket-from-the-gaza-strip-into-israel.md)
-_Context: negotiate, militant, Israel, Qassam rocket, Gaza Strip, Mortar, Palestinian_
+_Context: Palestinian, Mortar, Israel, negotiate, Gaza Strip, Qassam rocket, militant_
 
 ##### Movement for Democratic Change
 ### [ Movement for Democratic Change President Morgan Tsvangirai becomes Zimbabwe's new Prime Minister. ](/news/2009/02/11/movement-for-democratic-change-president-morgan-tsvangirai-becomes-zimbabwe-s-new-prime-minister.md)
-_Context: Zimbabwe, Prime Minister, Morgan Tsvangirai, Movement for Democratic Change_
+_Context: Zimbabwe, Morgan Tsvangirai, Prime Minister, Movement for Democratic Change_
 
 ##### Deposit
 ### [ A mysterious deposit of cosmic dust is discovered inside the Red Rectangle Nebula. ](/news/2009/02/11/a-mysterious-deposit-of-cosmic-dust-is-discovered-inside-the-red-rectangle-nebula.md)
@@ -45,7 +45,7 @@ _Context: oil tanker, container ship, Dubai, United Arab Emirates_
 
 ##### Philippines
 ### [ The Philippines' Bureau of Fisheries and Aquatic Resources rescues more than 200 dolphins after a mass beaching in Bataan. ](/news/2009/02/11/the-philippines-bureau-of-fisheries-and-aquatic-resources-rescues-more-than-200-dolphins-after-a-mass-beaching-in-bataan.md)
-_Context: Bataan, dolphin, mass beaching, Philippines, Bureau of Fisheries and Aquatic Resources_
+_Context: Bureau of Fisheries and Aquatic Resources, Philippines, Bataan, mass beaching, dolphin_
 
 ##### American
 ### [ U.S. Democrat John Dingell of Michigan becomes the House of Representatives' longest-serving member. ](/news/2009/02/11/u-s-democrat-john-dingell-of-michigan-becomes-the-house-of-representatives-longest-serving-member.md)
@@ -53,11 +53,11 @@ Michigan Democrat John Dingell today becomes the longest-serving member of the H
 
 ##### Oscar Temaru
 ### [ Oscar Temaru is elected President of French Polynesia for the fourth time in five years. ](/news/2009/02/11/oscar-temaru-is-elected-president-of-french-polynesia-for-the-fourth-time-in-five-years.md)
-_Context: French Polynesia, President, Oscar Temaru, elected_
+_Context: President, Oscar Temaru, elected, French Polynesia_
 
 ##### United Kingdom
 ### [ The United Kingdom's Conservative Party admits to altering the Italian painter Titian's Wikipedia entry following a confrontation with Prime Minister Gordon Brown. ](/news/2009/02/11/the-united-kingdom-s-conservative-party-admits-to-altering-the-italian-painter-titian-s-wikipedia-entry-following-a-confrontation-with-prim.md)
-_Context: Wikipedia, Gordon Brown, Prime Minister, United Kingdom, Conservative Party, Titian, Italy, painter_
+_Context: Conservative Party, Prime Minister, Titian, painter, Wikipedia, Gordon Brown, United Kingdom, Italy_
 
 ## [Previous Day...](/news/2009/02/10/index.md)
 

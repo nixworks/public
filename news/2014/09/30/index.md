@@ -21,7 +21,7 @@ _Context: Louisville, Kentucky, Fern Creek Traditional High School, American_
 
 ##### Albemarle High School
 ### [A student is shot and wounded at Albemarle High School in Albemarle, North Carolina, U.S. A student is arrested. ](/news/2014/09/30/a-student-is-shot-and-wounded-at-albemarle-high-school-in-albemarle-north-carolina-u-s-a-student-is-arrested.md)
-_Context: U.S., Albemarle, North Carolina, Albemarle High School_
+_Context: Albemarle High School, Albemarle, North Carolina, U.S._
 
 ## [Previous Day...](/news/2014/09/29/index.md)
 

@@ -29,7 +29,7 @@ _Context: Afghanistan, Taliban_
 
 ##### Tear gas
 ### [Police use tear gas and batons on people protesting against their government in Maldives. ](/news/2011/05/1/police-use-tear-gas-and-batons-on-people-protesting-against-their-government-in-maldives.md)
-_Context: baton, Maldives, tear gas_
+_Context: baton, tear gas, Maldives_
 
 ##### Christian
 ### [A crowd of hundreds of people attack a Christian seminary, a church and houses of local Christians in Gujranwala, Pakistan, after finding out that two Christians who had been accused of blasphemy have been released from protective custody by the police. ](/news/2011/05/1/a-crowd-of-hundreds-of-people-attack-a-christian-seminary-a-church-and-houses-of-local-christians-in-gujranwala-pakistan-after-finding-ou.md)
@@ -41,15 +41,15 @@ Thousands of Holocaust survivors and Israelis Sunday mourned the 6 million Jews 
 
 ##### Pope
 ### [Pope John Paul II is beatified by Pope Benedict XVI in Saint Peter's Square, Rome. ](/news/2011/05/1/pope-john-paul-ii-is-beatified-by-pope-benedict-xvi-in-saint-peter-s-square-rome.md)
-_Context: Saint Peter's Square, Pope, Rome, Italy, Pope John Paul II, beatified, Pope Benedict XVI_
+_Context: beatified, Pope Benedict XVI, Pope, Rome, Italy, Pope John Paul II, Saint Peter's Square_
 
 ##### William Martin Morris
 ### [Pope Benedict XVI also removes William Martin Morris as the Bishop of the Roman Catholic Diocese of Toowoomba in Australia for allegedly advocating the ordination of women and married priests. ](/news/2011/05/1/pope-benedict-xvi-also-removes-william-martin-morris-as-the-bishop-of-the-roman-catholic-diocese-of-toowoomba-in-australia-for-allegedly-adv.md)
-_Context: Australia, Roman Catholic Diocese of Toowoomba, bishops, William Martin Morris_
+_Context: Australia, William Martin Morris, bishops, Roman Catholic Diocese of Toowoomba_
 
 ##### Australia
 ### [Australian television personality Karl Stefanovic wins the Gold Logie Award for Most Popular Personality on Australian Television at the Logie Awards of 2011. ](/news/2011/05/1/australian-television-personality-karl-stefanovic-wins-the-gold-logie-award-for-most-popular-personality-on-australian-television-at-the-log.md)
-_Context: Karl Stefanovic, Logie Awards of 2011, Gold Logie Award for Most Popular Personality on Australian Television, Australia_
+_Context: Australia, Logie Awards of 2011, Karl Stefanovic, Gold Logie Award for Most Popular Personality on Australian Television_
 
 ##### National Association of Head Teachers
 ### [British head teachers vote 99.6 per cent in favour of staging a ballot on a strike over pension cuts in what would be a first national strike by the National Association of Head Teachers (NAHT). ](/news/2011/05/1/british-head-teachers-vote-99-6-per-cent-in-favour-of-staging-a-ballot-on-a-strike-over-pension-cuts-in-what-would-be-a-first-national-strik.md)
@@ -65,15 +65,15 @@ Hundreds of thousands of Cubans turn out for May Day parades in what was billed 
 
 ##### IAEA
 ### [The International Atomic Energy Agency is sending a team to Japan this month to inspect the crippled Fukushima nuclear plants and will present its preliminary evaluation of the crisis in June.](/news/2011/05/1/the-international-atomic-energy-agency-is-sending-a-team-to-japan-this-month-to-inspect-the-crippled-fukushima-nuclear-plants-and-will-prese.md)
-_Context: IAEA, Fukushima I nuclear accidents, Japan_
+_Context: Fukushima I nuclear accidents, IAEA, Japan_
 
 ##### Flight Data Recorder
 ### [The Memory Unit of the Flight Data Recorder from Air France 447 is recovered from the bottom of the Atlantic Ocean, nearly two years after the jet crashed. ](/news/2011/05/1/the-memory-unit-of-the-flight-data-recorder-from-air-france-447-is-recovered-from-the-bottom-of-the-atlantic-ocean-nearly-two-years-after-t.md)
-_Context: Air France 447, Atlantic Ocean, Flight Data Recorder_
+_Context: Air France 447, Flight Data Recorder, Atlantic Ocean_
 
 ##### Indian Air Force
 ### [The Indian Air Force searches unsuccessfully for a helicopter containing Dorjee Khandu, the Chief Minister of Arunachal Pradesh state and four others. ](/news/2011/05/1/the-indian-air-force-searches-unsuccessfully-for-a-helicopter-containing-dorjee-khandu-the-chief-minister-of-arunachal-pradesh-state-and-fo.md)
-_Context: Dorjee Khandu, helicopter, Chief Minister, Arunachal Pradesh, Indian Air Force_
+_Context: Arunachal Pradesh, Chief Minister, helicopter, Dorjee Khandu, Indian Air Force_
 
 ##### Blog
 ### [Police investigate a blogger Teacher Wang for fraud after he predicts a magnitude-14 earthquake and 170m (560ft) high tsunami is to strike Taiwan on 11 May, toppling the Taipei 101 skyscraper and Presidential Office building. The prediction is removed from the internet. ](/news/2011/05/1/police-investigate-a-blogger-teacher-wang-for-fraud-after-he-predicts-a-magnitude-14-earthquake-and-170m-560ft-high-tsunami-is-to-strike-t.md)
@@ -89,7 +89,7 @@ Opening Rafah would help Hamas build a formidable terrorist military machine, a 
 
 ##### American
 ### [It is reported that the United States has denied the United Nations access to imprisoned serviceman Bradley Manning whom the U.S. accuses of disclosing government information to the general public. ](/news/2011/05/1/it-is-reported-that-the-united-states-has-denied-the-united-nations-access-to-imprisoned-serviceman-bradley-manning-whom-the-u-s-accuses-of.md)
-_Context: American, United Nations, Bradley Manning_
+_Context: United Nations, American, Bradley Manning_
 
 ##### Police
 ### [German officials say they have foiled a terror plot with the arrest of three suspected al-Qaeda bomb-makers. ](/news/2011/05/1/german-officials-say-they-have-foiled-a-terror-plot-with-the-arrest-of-three-suspected-al-qaeda-bomb-makers.md)

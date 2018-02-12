@@ -13,7 +13,7 @@ _Context: industrial disaster_
 
 ##### Mining accident
 ### [At least 28 people are killed in a mining accident in China's Sichuan Province. ](/news/2013/05/12/at-least-28-people-are-killed-in-a-mining-accident-in-china-s-sichuan-province.md)
-_Context: mining accident, Sichuan Province_
+_Context: Sichuan Province, mining accident_
 
 ##### 17-year cicada
 ### [The first group of what is an expected to be more than a trillion 17-year cicadas to emerge in the eastern United States is spotted in North Carolina. ](/news/2013/05/12/the-first-group-of-what-is-an-expected-to-be-more-than-a-trillion-17-year-cicadas-to-emerge-in-the-eastern-united-states-is-spotted-in-north.md)
@@ -25,11 +25,11 @@ The World Health Organization warns that it appears &quot;increasingly&quot; lik
 
 ##### Shooting
 ### [Nineteen people are injured during a shooting at a Mother's Day parade in New Orleans, Louisiana, United States. ](/news/2013/05/12/nineteen-people-are-injured-during-a-shooting-at-a-mother-s-day-parade-in-new-orleans-louisiana-united-states.md)
-_Context: American, shooting, Louisiana, Mother's Day, New Orleans_
+_Context: shooting, Louisiana, American, Mother's Day, New Orleans_
 
 ##### Waynesville
 ### [Four people are found fatally shot in Waynesville, Indiana, United States. ](/news/2013/05/12/four-people-are-found-fatally-shot-in-waynesville-indiana-united-states.md)
-_Context: Waynesville, American, Indiana_
+_Context: Indiana, Waynesville, American_
 
 ##### Valley Springs, California
 ### [A 12-year-old boy is arrested in connection to the April 27 Valley Springs, California, United States stabbing of his 8-year-old sister. ](/news/2013/05/12/a-12-year-old-boy-is-arrested-in-connection-to-the-april-27-valley-springs-california-united-states-stabbing-of-his-8-year-old-sister.md)
@@ -45,7 +45,7 @@ _Context: Nawaz Sharif_
 
 ##### Bulgaria
 ### [Voters in Bulgaria go to the polls for a parliamentary election. Boyko Borisov's GERB party wins between 30% and 32% of the votes, closely followed by Sergei Stanishev's resurgent BSP with 26 to 28 percent. No party manages to obtain a majority, while analysts predict a political deadlock amid low voter turnout and economic woes. ](/news/2013/05/12/voters-in-bulgaria-go-to-the-polls-for-a-parliamentary-election-boyko-borisov-s-gerb-party-wins-between-30-and-32-of-the-votes-closely-f.md)
-_Context: parliamentary election, GERB, Sergei Stanishev, Bulgaria, Boyko Borisov, Socialist Party_
+_Context: Boyko Borisov, Socialist Party, parliamentary election, GERB, Sergei Stanishev, Bulgaria_
 
 ##### Murrawarri Republic
 ### [The Murrawarri Republic begins a sovereignty campaign with the UN. ](/news/2013/05/12/the-murrawarri-republic-begins-a-sovereignty-campaign-with-the-un.md)
@@ -53,7 +53,7 @@ Activists in northern New South Wales, who&#039;ve declared an Aboriginal republ
 
 ##### Pope Francis
 ### [Pope Francis canonizes a record-breaking 800+ new Catholic Church saints - Emeritus Pope Benedict XVI had submitted the 813 "Martyrs of Otranto" who had been beheaded by Ottoman soldiers for refusing to convert to Islam. ](/news/2013/05/12/pope-francis-canonizes-a-record-breaking-800-new-catholic-church-saints-emeritus-pope-benedict-xvi-had-submitted-the-813-martyrs-of-otra.md)
-_Context: Pope Francis, Martyrs of Otranto, Pope Benedict XVI, Catholic Church_
+_Context: Catholic Church, Martyrs of Otranto, Pope Francis, Pope Benedict XVI_
 
 ##### SUNY Buffalo
 ### [In a study by SUNY Buffalo, it is discovered that "Utricularia gibba", a carnivorous bladderwort plant, has the shortest known DNA sequence of any multicellular plant and that it lacks "junk DNA", sequences of code that do not encode proteins. ](/news/2013/05/12/in-a-study-by-suny-buffalo-it-is-discovered-that-utricularia-gibba-a-carnivorous-bladderwort-plant-has-the-shortest-known-dna-sequence.md)

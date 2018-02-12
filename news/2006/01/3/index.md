@@ -7,7 +7,7 @@ Formats: [HTML](2006/01/3/index.html)  [JSON](2006/01/3/index.json)  [XML](2006/
 ### [ U.S. pilots targeting a house outside of Baghdad where they believed insurgents had taken shelter killed a family of 12. ](/news/2006/01/3/u-s-pilots-targeting-a-house-outside-of-baghdad-where-they-believed-insurgents-had-taken-shelter-killed-a-family-of-12.md)
 ##### Israel
 ### [ Israeli television claims that Police in Tel Aviv found evidence that proves Prime Minister of Israel Ariel Sharon's family took bribes while Sharon was running for the leadership of the Likud Party. An aide dismissed the allegations. ](/news/2006/01/3/israeli-television-claims-that-police-in-tel-aviv-found-evidence-that-proves-prime-minister-of-israel-ariel-sharon-s-family-took-bribes-whi.md)
-_Context: Tel Aviv, Israeli Prime Minister, Israel, Ariel Sharon, Likud Party_
+_Context: Likud Party, Israel, Tel Aviv, Israeli Prime Minister, Ariel Sharon_
 
 ##### Sago Mine disaster
 ### [ Sago Mine disaster: In West Virginia, US, family members now say only one trapped miner has been brought out alive from the collapsed coal mine. All 12 others are dead. Earlier news reports, at approximately 10:30 p.m. EST, indicated that 12 miners were found alive. Rescue crews found one body late Tuesday after 13 miners were trapped following an explosion on Monday. ](/news/2006/01/3/sago-mine-disaster-in-west-virginia-us-family-members-now-say-only-one-trapped-miner-has-been-brought-out-alive-from-the-collapsed-coal.md)
@@ -15,19 +15,19 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ##### Restarts
 ### [ Russia-Ukraine gas dispute: The Russian and Ukrainian natural gas companies agree to end their dispute and resume gas supply to Ukraine under a complex price scheme in which OAO Gazprom will sell gas to the Rosukrenergo trading company (owned by Gazprom Bank and Raiffeisen Bank) for US$230 (E195) per 1,000 cubic meters as of Jan. 1, and Ukraine will buy gas from the company for US$95 (E80). ](/news/2006/01/3/russia-ukraine-gas-dispute-the-russian-and-ukrainian-natural-gas-companies-agree-to-end-their-dispute-and-resume-gas-supply-to-ukraine-und.md)
-_Context: Ukraine, restarts, Gazprom_
+_Context: Ukraine, Gazprom, restarts_
 
 ##### Journalist
 ### [ Chinese journalist and whistleblower Jiang Weiping, who was jailed in 2000 for violating the State Secrets Law on charges of "subversion," is released after the one year left on his prison sentence is commuted. In 1999 Jiang wrote two articles for a Hong Kong magazine accusing Bo Xilai, who at the time was governor of Liaoning province, but is now China's economic minister, of covering up corruption. ](/news/2006/01/3/chinese-journalist-and-whistleblower-jiang-weiping-who-was-jailed-in-2000-for-violating-the-state-secrets-law-on-charges-of-subversion.md)
-_Context: Bo Xilai, Liaoning, whistleblower, journalist, economic minister, Hong Kong, corruption, State Secrets Law, Jiang Weiping, subversion_
+_Context: Bo Xilai, journalist, Hong Kong, State Secrets Law, corruption, Jiang Weiping, whistleblower, Liaoning, economic minister, subversion_
 
 ##### Iraqi insurgency
 ### [ Conflict in Iraq: Six members of the same family of 14 have been confirmed killed following a U.S. airstrike in Northern Iraq. ](/news/2006/01/3/conflict-in-iraq-six-members-of-the-same-family-of-14-have-been-confirmed-killed-following-a-u-s-airstrike-in-northern-iraq.md)
-_Context: Military of the United States, Iraq, airstrike, Iraqi insurgency_
+_Context: Iraqi insurgency, Military of the United States, airstrike, Iraq_
 
 ##### Israeli-Palestinian Conflict
 ### [ Israeli-Palestinian Conflict: Israel Police prevents Palestinians in East Jerusalem from campaigning in the upcoming Elections in the Palestinian National Authority. ](/news/2006/01/3/israeli-palestinian-conflict-israel-police-prevents-palestinians-in-east-jerusalem-from-campaigning-in-the-upcoming-elections-in-the-pales.md)
-_Context: East Jerusalem, Palestinians, Israeli-Palestinian Conflict, Israeli police, elections_
+_Context: Israeli-Palestinian Conflict, elections, East Jerusalem, Palestinians, Israeli police_
 
 ##### Bad Reichenhall
 ### [ Rescue workers are still battling to find survivors after the roof of an ice rink collapsed in Bad Reichenhall, southern Germany, leaving at least 10 people dead, some of them children. It is thought many are still trapped under the rubble. ](/news/2006/01/3/rescue-workers-are-still-battling-to-find-survivors-after-the-roof-of-an-ice-rink-collapsed-in-bad-reichenhall-southern-germany-leaving-a.md)
@@ -35,7 +35,7 @@ _Context: children, Bad Reichenhall_
 
 ##### Dofasco Inc.
 ### [ Bidding continues in an international auction for Canadian steel company Dofasco Inc., Hamilton, Ont.&nbsp;- the latest bid, C$4.9 billion, came Tuesday from German steelmaker ThyssenKrupp AG. ](/news/2006/01/3/bidding-continues-in-an-international-auction-for-canadian-steel-company-dofasco-inc-hamilton-ont-nbsp-a-the-latest-bid-c-4-9-billio.md)
-_Context: Hamilton, Ontario, ThyssenKrupp, Dofasco Inc._
+_Context: ThyssenKrupp, Hamilton, Ontario, Dofasco Inc._
 
 ##### Defaults
 ### [ Four years after defaulting on its external debt, Argentina pays its USD 9.57 billion debt with the International Monetary Fund. ](/news/2006/01/3/four-years-after-defaulting-on-its-external-debt-argentina-pays-its-usd-9-57-billion-debt-with-the-international-monetary-fund.md)

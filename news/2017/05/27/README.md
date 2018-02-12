@@ -13,7 +13,7 @@ Libyan Islamist group Ansar al-Sharia, a group linked to Al-Qaeda, is formally d
 
 ##### Gregg Allman
 ### [Gregg Allman, co-founder, vocalist and keyboard player of the Allman Brothers, dies in Savannah, Georgia. ](/news/2017/05/27/gregg-allman-co-founder-vocalist-and-keyboard-player-of-the-allman-brothers-dies-in-savannah-georgia.md)
-_Context: Savannah, Georgia, Gregg Allman, Allman Brothers_
+_Context: Savannah, Georgia, Allman Brothers, Gregg Allman_
 
 ##### British Airways
 ### [British Airways cancels all flights from Heathrow Airport and Gatwick Airport amid a "major IT system failure", that is causing severe disruption to flight operations worldwide. ](/news/2017/05/27/british-airways-cancels-all-flights-from-heathrow-airport-and-gatwick-airport-amid-a-major-it-system-failure-that-is-causing-severe-disru.md)
@@ -25,7 +25,7 @@ Germany called the climate change talks &quot;very unsatisfactory&quot;, describ
 
 ##### Colombey
 ### [Colombey authorities report the tomb of French national hero Charles de Gaulle has been vandalized. ](/news/2017/05/27/colombey-authorities-report-the-tomb-of-french-national-hero-charles-de-gaulle-has-been-vandalized.md)
-_Context: Colombey, Charles de Gaulle, France_
+_Context: Charles de Gaulle, Colombey, France_
 
 ##### 2017 Manchester Arena bombing
 ### [Theresa May announces that the British terror threat level has been downgraded from "critical" to "severe" and that Operation Temperer will be phased out shortly, following productive counter-terrorism investigations. ](/news/2017/05/27/theresa-may-announces-that-the-british-terror-threat-level-has-been-downgraded-from-critical-to-severe-and-that-operation-temperer-will.md)

@@ -13,11 +13,11 @@ _Context: Somalia_
 
 ##### Unit 731
 ### [An excavation begins at the Tokyo site of Unit 731, a covert Imperial Japanese Army biological and chemical warfare site that conducted human experimentation. ](/news/2011/02/21/an-excavation-begins-at-the-tokyo-site-of-unit-731-a-covert-imperial-japanese-army-biological-and-chemical-warfare-site-that-conducted-huma.md)
-_Context: Imperial Japanese Army, Unit 731, biological, human experimentation, chemical warfare_
+_Context: Imperial Japanese Army, Unit 731, chemical warfare, human experimentation, biological_
 
 ##### South Waziristan
 ### [A suspected United States missile strike kills four militants in the South Waziristan region of Pakistan. ](/news/2011/02/21/a-suspected-united-states-missile-strike-kills-four-militants-in-the-south-waziristan-region-of-pakistan.md)
-_Context: South Waziristan, Pakistan_
+_Context: Pakistan, South Waziristan_
 
 ##### Rock music
 ### [English rock band Deep Purple will release a record single of the song "Hush" in support of UK Record Store Day which is the third Saturday in April. ](/news/2011/02/21/english-rock-band-deep-purple-will-release-a-record-single-of-the-song-hush-in-support-of-uk-record-store-day-which-is-the-third-saturday.md)
@@ -25,15 +25,15 @@ _Context: Record Store Day, Hush, Deep Purple, rock music_
 
 ##### BP
 ### [UK based oil giant BP agrees to pay Reliance Industries $7.2 billion for a stake in 23 oil and gas blocks in deep water off India. The two companies will also enter into a joint venture for marketing and sourcing natural gas. ](/news/2011/02/21/uk-based-oil-giant-bp-agrees-to-pay-reliance-industries-7-2-billion-for-a-stake-in-23-oil-and-gas-blocks-in-deep-water-off-india-the-two-c.md)
-_Context: natural gas, BP, Reliance Industries_
+_Context: BP, Reliance Industries, natural gas_
 
 ##### ConAgra
 ### [ConAgra lays off 234 workers from its Slim Jim manufacturing plant in Garner, North Carolina prior to the closure of the plant. ](/news/2011/02/21/conagra-lays-off-234-workers-from-its-slim-jim-manufacturing-plant-in-garner-north-carolina-prior-to-the-closure-of-the-plant.md)
-_Context: Garner, North Carolina, Slim Jim, ConAgra_
+_Context: Slim Jim, ConAgra, Garner, North Carolina_
 
 ##### St. Paul
 ### [The United States cities of St. Paul and Minneapolis declare snow emergencies. ](/news/2011/02/21/the-united-states-cities-of-st-paul-and-minneapolis-declare-snow-emergencies.md)
-_Context: St. Paul, snow emergencies, Minneapolis_
+_Context: Minneapolis, St. Paul, snow emergencies_
 
 ##### Influenza A virus subtype H5N1
 ### [Bird flu is discovered in the Indian state of Andhra Pradesh. ](/news/2011/02/21/bird-flu-is-discovered-in-the-indian-state-of-andhra-pradesh.md)
@@ -45,11 +45,11 @@ _Context: Mount Bulusan, Philippines, Luzon_
 
 ##### Mali
 ### [At least thirty people are killed in a stampede at a Mali stadium following a sermon by a leading Muslim imam. ](/news/2011/02/21/at-least-thirty-people-are-killed-in-a-stampede-at-a-mali-stadium-following-a-sermon-by-a-leading-muslim-imam.md)
-_Context: imam, Muslim, Mali_
+_Context: imam, Mali, Muslim_
 
 ##### Tunisia
 ### [Tunisia asks Saudi Arabia to extradite former President Zine El Abidine Ben Ali who was ousted in January. ](/news/2011/02/21/tunisia-asks-saudi-arabia-to-extradite-former-president-zine-el-abidine-ben-ali-who-was-ousted-in-january.md)
-_Context: Tunisia, Zine El Abidine Ben Ali, Saudi Arabia_
+_Context: Tunisia, Saudi Arabia, Zine El Abidine Ben Ali_
 
 ##### DR Congo
 ### [A court in the Democratic Republic of the Congo sentences an army colonel to 20 years imprisonment for crimes against humanity. ](/news/2011/02/21/a-court-in-the-democratic-republic-of-the-congo-sentences-an-army-colonel-to-20-years-imprisonment-for-crimes-against-humanity.md)
@@ -57,7 +57,7 @@ _Context: crimes against humanity, DR Congo_
 
 ##### Bombay High Court
 ### [The Bombay High Court in India upholds the death sentence for convicted Pakistani terrorist Ajmal Kasab for his involvement in the 2008 Mumbai attacks. ](/news/2011/02/21/the-bombay-high-court-in-india-upholds-the-death-sentence-for-convicted-pakistani-terrorist-ajmal-kasab-for-his-involvement-in-the-2008-mumb.md)
-_Context: Pakistan, 2008 Mumbai attacks, Ajmal Kasab, Bombay High Court_
+_Context: Pakistan, 2008 Mumbai attacks, Bombay High Court, Ajmal Kasab_
 
 ##### 
 ### [China's top security official urges ways to "detect conflicts and problems early on" and improve "social management", after small protests took place inspired by events in the Middle East and North Africa. ](/news/2011/02/21/china-s-top-security-official-urges-ways-to-detect-conflicts-and-problems-early-on-and-improve-social-management-after-small-protests-t.md)
@@ -75,7 +75,7 @@ _Context: Victoria, Governor, Alex Chernov_
 
 ##### Venezuela
 ### [Three Venezuelan hunger strikers are hospitalised after calling for an international probe into alleged human rights abuses by the President of Venezuela Hugo Chvez. ](/news/2011/02/21/three-venezuelan-hunger-strikers-are-hospitalised-after-calling-for-an-international-probe-into-alleged-human-rights-abuses-by-the-president.md)
-_Context: Hugo Chvez, Venezuela, human rights, hunger strike, President_
+_Context: President, human rights, hunger strike, Hugo Chvez, Venezuela_
 
 ## [Previous Day...](/news/2011/02/20/index.md)
 

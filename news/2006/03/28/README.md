@@ -13,11 +13,11 @@ A Canadian soldier was killed early Wednesday when Taliban insurgents attacked a
 
 ##### Kadima
 ### [ Kadima leader Ehud Olmert declares victory in the 17th Israeli legislative election, ahead of main opponents Labor and Likud. ](/news/2006/03/28/kadima-leader-ehud-olmert-declares-victory-in-the-17th-israeli-legislative-election-ahead-of-main-opponents-labor-and-likud.md)
-_Context: Labor, Ehud Olmert, Likud, Israeli legislative election, 17th, Kadima_
+_Context: Labor, Kadima, Israeli legislative election, 17th, Likud, Ehud Olmert_
 
 ##### 2006 labor protests in France
 ### [ Over a million protesters join large protests in France amid strikes against the new contrat premire embauche, which protesters say will harm job stability for workers under the age of 26. Violent clashes with the police in Paris are reported. ](/news/2006/03/28/over-a-million-protesters-join-large-protests-in-france-amid-strikes-against-the-new-contrat-premiere-embauche-which-protesters-say-will-h.md)
-_Context: 2006 labor protests in France, Paris, contrat premire embauche, general strike, riot police_
+_Context: 2006 labor protests in France, Paris, general strike, contrat premire embauche, riot police_
 
 ##### Local government
 ### [ More than one million local government workers in the UK strike over cuts to pension schemes, in an action co-ordinated by eight trade unions. ](/news/2006/03/28/more-than-one-million-local-government-workers-in-the-uk-strike-over-cuts-to-pension-schemes-in-an-action-co-ordinated-by-eight-trade-unio.md)
@@ -29,11 +29,11 @@ White House chief of staff Andy Card is resigning, President Bush said Tuesday, 
 
 ##### Liberia
 ### [ Former Liberian President Charles Taylor disappears after Nigeria agrees to extradite him to face war crime charges in Sierra Leone. ](/news/2006/03/28/former-liberian-president-charles-taylor-disappears-after-nigeria-agrees-to-extradite-him-to-face-war-crime-charges-in-sierra-leone.md)
-_Context: war crime, Charles G. Taylor, Nigeria, President, Liberia, extradition, Sierra Leone_
+_Context: extradition, Liberia, President, Charles G. Taylor, war crime, Nigeria, Sierra Leone_
 
 ##### Abdul Rahman
 ### [ Abdul Rahman is deemed mentally unfit to stand trial, and released. He is seeking asylum in a Western country. His whereabouts are unknown. ](/news/2006/03/28/abdul-rahman-is-deemed-mentally-unfit-to-stand-trial-and-released-he-is-seeking-asylum-in-a-western-country-his-whereabouts-are-unknown.md)
-_Context: mentally unfit to stand trial, asylum, Abdul Rahman_
+_Context: mentally unfit to stand trial, Abdul Rahman, asylum_
 
 ## [Previous Day...](/news/2006/03/27/index.md)
 

@@ -21,11 +21,11 @@ Chrysler said Wednesday that it would recall 870,000 SUVs to fix a defect in the
 
 ##### President
 ### [The President of Chile Michelle Bachelet declares the northern part of Chile to be a disaster zone including the regions of Arica y Parinacota, and Tarapaca. ](/news/2014/04/2/the-president-of-chile-michelle-bachelet-declares-the-northern-part-of-chile-to-be-a-disaster-zone-including-the-regions-of-arica-y-parinaco.md)
-_Context: Arica y Parinacota, Chile, Michelle Bachelet, President, Tarapaca_
+_Context: Chile, President, Michelle Bachelet, Arica y Parinacota, Tarapaca_
 
 ##### High Court of Australia
 ### [The High Court of Australia recognises a neutral third gender that is neither male nor female. ](/news/2014/04/2/the-high-court-of-australia-recognises-a-neutral-third-gender-that-is-neither-male-nor-female.md)
-_Context: third gender, High Court of Australia_
+_Context: High Court of Australia, third gender_
 
 ##### Supreme Court of the United States
 ### [The Supreme Court of the United States, in "McCutcheon v. Federal Election Commission", votes 5-4 to overturn limits on the amount of money that an individual can donate to politicians' campaigns over a two-year cycle. ](/news/2014/04/2/the-supreme-court-of-the-united-states-in-mccutcheon-v-federal-election-commission-votes-5a4-to-overturn-limits-on-the-amount-of-mone.md)

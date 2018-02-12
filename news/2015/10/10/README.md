@@ -13,7 +13,7 @@ Two blasts at a peace rally in the Turkish capital Ankara kill at least 95 peopl
 
 ##### Boko Haram insurgency
 ### [Five suicide bombers target a village in Chad that is home to thousands of Nigerian refugees who have fled Boko Haram, killing at least 36 people. ](/news/2015/10/10/five-suicide-bombers-target-a-village-in-chad-that-is-home-to-thousands-of-nigerian-refugees-who-have-fled-boko-haram-killing-at-least-36-p.md)
-_Context: Boko Haram insurgency, Nigerian, suicide bomber, Chad, Boko Haram_
+_Context: Boko Haram insurgency, Chad, Nigerian, Boko Haram, suicide bomber_
 
 ##### War in Afghanistan (2015-present)
 ### [The U.S. Department of Defense will make payments to families of victims of last week's U.S. airstrike that struck a Medecins Sans Frontieres (Doctors Without Borders) hospital in the Afghan city of Kunduz. At least 22 people were killed including 12 staff members and 10 patients, including three children. MSF says 33 people are still missing and presumed to have died in the fire. ](/news/2015/10/10/the-u-s-department-of-defense-will-make-payments-to-families-of-victims-of-last-week-s-u-s-airstrike-that-struck-a-ma-c-decins-sans-frontia.md)
@@ -21,7 +21,7 @@ The U.S. Department of Defense will seek to make &quot;condolence payments&quot;
 
 ##### Mali conflict
 ### [Suspected jihadists attack Dioungani, a village in central Mali, killing a local official in front of his family. ](/news/2015/10/10/suspected-jihadists-attack-dioungani-a-village-in-central-mali-killing-a-local-official-in-front-of-his-family.md)
-_Context: Mali conflict, Mali, Dioungani, jihadists_
+_Context: jihadists, Mali, Dioungani, Mali conflict_
 
 ##### Halting site
 ### [At least eight people have died in a major fire at a halting site for Irish travellers in the south of Dublin. ](/news/2015/10/10/at-least-eight-people-have-died-in-a-major-fire-at-a-halting-site-for-irish-travellers-in-the-south-of-dublin.md)
@@ -37,7 +37,7 @@ The United States and the Philippines opposed the construction, as tensions in t
 
 ##### North Korea
 ### [North Korea holds a massive military parade in its capital, Pyongyang, to celebrate the 70th anniversary of Workers' Party of Korea rule in the country. Liu Yunshan, the highest-ranking Chinese official to visit North Korea in three years, attends the parade. ](/news/2015/10/10/north-korea-holds-a-massive-military-parade-in-its-capital-pyongyang-to-celebrate-the-70th-anniversary-of-workers-party-of-korea-rule-in.md)
-_Context: Liu Yunshan, Workers' Party of Korea, Pyongyang, North Korea_
+_Context: Pyongyang, North Korea, Liu Yunshan, Workers' Party of Korea_
 
 ##### Egypt-France relations
 ### [During a state visit to Cairo by French prime minister Manuel Valls, Egypt officially signs a deal with France to purchase the two "Mistral"-class helicopter carriers that were originally destined for Russia but France refused to deliver due to the Ukrainian crisis. Russia will sell Egypt the helicopters originally intended for the ships. ](/news/2015/10/10/during-a-state-visit-to-cairo-by-french-prime-minister-manuel-valls-egypt-officially-signs-a-deal-with-france-to-purchase-the-two-mistral.md)

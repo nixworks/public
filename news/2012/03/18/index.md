@@ -29,15 +29,15 @@ Gunmen on motorbikes kill man believed to have been a language teacher in southe
 
 ##### Hospital
 ### [Two hospital nurses are arrested in the Uruguayan capital Montevideo in connection with the suspicious death of dozens of patients over several years at two hospitals. ](/news/2012/03/18/two-hospital-nurses-are-arrested-in-the-uruguayan-capital-montevideo-in-connection-with-the-suspicious-death-of-dozens-of-patients-over-seve.md)
-_Context: Uruguay, Montevideo, hospital, nurses_
+_Context: nurses, Uruguay, hospital, Montevideo_
 
 ##### Superleague Greece
 ### [A Superleague Greece match between Athens football clubs Olympiacos and Panathinaikos is abandoned after fans set fire to parts of the Athens Olympic Stadium. ](/news/2012/03/18/a-superleague-greece-match-between-athens-football-clubs-olympiacos-and-panathinaikos-is-abandoned-after-fans-set-fire-to-parts-of-the-athen.md)
-_Context: Athens, Olympic Stadium, Superleague Greece, Olympiacos, Panathinaikos_
+_Context: Olympiacos, Athens, Superleague Greece, Olympic Stadium, Panathinaikos_
 
 ##### Downtown
 ### [A tourist in Downtown Baltimore, Maryland is beaten, robbed, and stripped by a group of African-Americans. ](/news/2012/03/18/a-tourist-in-downtown-baltimore-maryland-is-beaten-robbed-and-stripped-by-a-group-of-african-americans.md)
-_Context: beaten, robbed, and stripped, Baltimore, Maryland, Downtown_
+_Context: Baltimore, Maryland, beaten, robbed, and stripped, Downtown_
 
 ##### Guinea-Bissau
 ### [Voters in Guinea-Bissau go to the polls for a presidential election following the death of President Malam Bacai Sanha in January. ](/news/2012/03/18/voters-in-guinea-bissau-go-to-the-polls-for-a-presidential-election-following-the-death-of-president-malam-bacai-sanha-in-january.md)
@@ -45,11 +45,11 @@ Votes are being counted in the West African nation of Guinea-Bissau following an
 
 ##### Joachim Gauck
 ### [Joachim Gauck is elected President of the Federal Republic of Germany by the Federal Assembly. ](/news/2012/03/18/joachim-gauck-is-elected-president-of-the-federal-republic-of-germany-by-the-federal-assembly.md)
-_Context: Joachim Gauck, President of the Federal Republic of Germany, Federal Assembly_
+_Context: Federal Assembly, President of the Federal Republic of Germany, Joachim Gauck_
 
 ##### Republican primaries
 ### [Voters in the US territory of Puerto Rico go to the polls for the Republican primary with Mitt Romney winning all of the delegates. ](/news/2012/03/18/voters-in-the-us-territory-of-puerto-rico-go-to-the-polls-for-the-republican-primary-with-mitt-romney-winning-all-of-the-delegates.md)
-_Context: Republican primary, Republican primaries, Mitt Romney, Puerto Rico_
+_Context: Republican primaries, Puerto Rico, Mitt Romney, Republican primary_
 
 ##### Cuba
 ### [Authorities in Cuba detain dissident Berta Soler and dozens of her supporters ahead of a visit by Pope Benedict XVI. ](/news/2012/03/18/authorities-in-cuba-detain-dissident-berta-soler-and-dozens-of-her-supporters-ahead-of-a-visit-by-pope-benedict-xvi.md)
@@ -61,7 +61,7 @@ The King of Tonga has died in Hong Kong, sparking an outpouring of grief in the 
 
 ##### Dinesh Trivedi
 ### [Dinesh Trivedi resigns as India's Minister for Railways following a negative response to fare increases. ](/news/2012/03/18/dinesh-trivedi-resigns-as-india-s-minister-for-railways-following-a-negative-response-to-fare-increases.md)
-_Context: Minister for Railways, Dinesh Trivedi, India_
+_Context: India, Dinesh Trivedi, Minister for Railways_
 
 ## [Previous Day...](/news/2012/03/17/index.md)
 

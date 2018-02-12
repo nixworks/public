@@ -9,11 +9,11 @@ _Context: swine flu, current outbreak_
 
 ##### His Majesty's Government
 ### [ Her Majesty's Government reveals the names of 16 of the 22 people banned from entering the United Kingdom. ](/news/2009/05/5/her-majesty-s-government-reveals-the-names-of-16-of-the-22-people-banned-from-entering-the-united-kingdom.md)
-_Context: United Kingdom, His Majesty's Government_
+_Context: His Majesty's Government, United Kingdom_
 
 ##### Soldiers
 ### [ At least 500 soldiers mutiny after Georgia's government discovers a plot to assassinate President Mikheil Saakashvili. ](/news/2009/05/5/at-least-500-soldiers-mutiny-after-georgia-s-government-discovers-a-plot-to-assassinate-president-mikheil-saakashvili.md)
-_Context: soldiers, President of Georgia, Mikheil Saakashvili, mutiny,  Georgian, government, assassinated_
+_Context: Mikheil Saakashvili, government,  Georgian, mutiny, assassinated, President of Georgia, soldiers_
 
 ##### Flood
 ### [ Floods and mudslides in Brazil kill 19 people and render 186,000 others homeless. ](/news/2009/05/5/floods-and-mudslides-in-brazil-kill-19-people-and-render-186-000-others-homeless.md)
@@ -21,7 +21,7 @@ Floods and mudslides from heavy rains in northern Brazil have driven more than 1
 
 ##### Braidwood Inquiry
 ### [ The Braidwood Inquiry begins to investigate the safety of Tasers and the death of Robert Dziekanski. ](/news/2009/05/5/the-braidwood-inquiry-begins-to-investigate-the-safety-of-tasers-and-the-death-of-robert-dziekaaski.md)
-_Context: Robert Dziekanski, Braidwood Inquiry, Taser_
+_Context: Braidwood Inquiry, Robert Dziekanski, Taser_
 
 ## [Previous Day...](/news/2009/05/4/index.md)
 

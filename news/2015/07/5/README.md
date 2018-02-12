@@ -25,7 +25,7 @@ Early Sunday, a delegation from San Antonio was in Bonn, Germany, to witness the
 
 ##### 2015 Pacific typhoon season
 ### [Over 1,000 people in the Philippines are stranded temporarily by Severe Tropical Storm Linfa (Egay) as landslides occur in Palawan province. ](/news/2015/07/5/over-1-000-people-in-the-philippines-are-stranded-temporarily-by-severe-tropical-storm-linfa-egay-as-landslides-occur-in-palawan-province.md)
-_Context: 2015 Pacific typhoon season, Palawan, Philippines_
+_Context: Palawan, 2015 Pacific typhoon season, Philippines_
 
 ##### Wildfire
 ### [More than 60 wildfires start in the Canadian province of British Columbia over the weekend leading to several communities declaring a state of emergency. ](/news/2015/07/5/more-than-60-wildfires-start-in-the-canadian-province-of-british-columbia-over-the-weekend-leading-to-several-communities-declaring-a-state.md)
@@ -41,7 +41,7 @@ Foreign ministry says Chinese tourists recently &quot;attacked and disturbed&quo
 
 ##### Russia
 ### [A Russian space capsule reaches the International Space Station allowing resupply of provisions after the crash of the SpaceX space capsule last week. ](/news/2015/07/5/a-russian-space-capsule-reaches-the-international-space-station-allowing-resupply-of-provisions-after-the-crash-of-the-spacex-space-capsule.md)
-_Context: International Space Station, Russia, SpaceX_
+_Context: Russia, SpaceX, International Space Station_
 
 ## [Previous Day...](/news/2015/07/4/index.md)
 

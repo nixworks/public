@@ -13,11 +13,11 @@ _Context: Panama_
 
 ##### Kunar Province
 ### [At least 37 people are killed and others are wounded in a U.S.-led airstrike in Kunar Province, Afghanistan. ](/news/2011/02/18/at-least-37-people-are-killed-and-others-are-wounded-in-a-u-s-led-airstrike-in-kunar-province-afghanistan.md)
-_Context: Afghanistan, Kunar Province_
+_Context: Kunar Province, Afghanistan_
 
-##### Central Intelligence Agency
+##### CIA
 ### [Retired CIA officer-turned-political activist Ray McGovern is thrown out, bloodied and arrested while protesting a speech given by Hillary Clinton on internet freedomdate=August 2017 at George Washington University in Washington, D.C. Veterans for Peace requests that Clinton apologise. ](/news/2011/02/18/retired-cia-officer-turned-political-activist-ray-mcgovern-is-thrown-out-bloodied-and-arrested-while-protesting-a-speech-given-by-hillary-c.md)
-_Context: Hillary Clinton, Central Intelligence Agency, internet freedom, George Washington University, Washington, D.C., Veterans for Peace, Ray McGovern_
+_Context: internet freedom, George Washington University, Washington, D.C., Veterans for Peace, CIA, Ray McGovern, Hillary Clinton_
 
 ##### Manama
 ### [Troops and tanks patrol Manama as the Bahraini military sets up checkpoints; a ban on public gatherings is announced. ](/news/2011/02/18/troops-and-tanks-patrol-manama-as-the-bahraini-military-sets-up-checkpoints-a-ban-on-public-gatherings-is-announced.md)
@@ -69,11 +69,11 @@ Federal prosecutors have shelved a criminal investigation of Angelo R. Mozilo af
 
 ##### Japan
 ### [Japan officially suspends its whaling program for the season due to interference by the Sea Shepherd conservation organisation. ](/news/2011/02/18/japan-officially-suspends-its-whaling-program-for-the-season-due-to-interference-by-the-sea-shepherd-conservation-organisation.md)
-_Context: Sea Shepherd, Japan, whaling_
+_Context: whaling, Japan, Sea Shepherd_
 
 ##### U.S. President
 ### [President of the United States Barack Obama is announced to visit Brazil, Chile and El Salvador from March 19 to 23. ](/news/2011/02/18/president-of-the-united-states-barack-obama-is-announced-to-visit-brazil-chile-and-el-salvador-from-march-19-to-23.md)
-_Context: U.S. President, El Salvador, Brazil, Barack Obama, Chile_
+_Context: Barack Obama, Chile, El Salvador, Brazil, U.S. President_
 
 ##### Italian Prime Minister
 ### [Prime Minister of Italy Silvio Berlusconi proposes a reform of the Italian judiciary system restricting telephone taps, one of the methods used by prosecutors in the Ruby Rubacuori scandal. ](/news/2011/02/18/prime-minister-of-italy-silvio-berlusconi-proposes-a-reform-of-the-italian-judiciary-system-restricting-telephone-taps-one-of-the-methods-u.md)
@@ -85,15 +85,15 @@ A Chinese-born US geologist loses his appeal against an eight-year sentence in C
 
 ##### Turkey
 ### [A Turkish court jails three journalists associated with a dissident website pending trials on being part of the Ergenekon organisation allegedly plotting to overthrow the Government of Turkey. ](/news/2011/02/18/a-turkish-court-jails-three-journalists-associated-with-a-dissident-website-pending-trials-on-being-part-of-the-ergenekon-organisation-alleg.md)
-_Context: Ergenekon, dissident, Turkey, Turkish government_
+_Context: Turkey, Ergenekon, Turkish government, dissident_
 
 ##### Madeleine McCann
 ### [A McCann family spokesman insists reports that Madeleine McCann was taken to the United States after being snatched during a family holiday in Portugal must be treated with caution. ](/news/2011/02/18/a-mccann-family-spokesman-insists-reports-that-madeleine-mccann-was-taken-to-the-united-states-after-being-snatched-during-a-family-holiday.md)
-_Context: American, Madeleine McCann, Portugal_
+_Context: Portugal, Madeleine McCann, American_
 
 ##### New Caledonia
 ### [New Caledonia's coalition government collapses after the pro-independence Caledonian Union party withdraws its support for President Philippe Gomes in a dispute over the use of New Caledonian flags. ](/news/2011/02/18/new-caledonia-s-coalition-government-collapses-after-the-pro-independence-caledonian-union-party-withdraws-its-support-for-president-philipp.md)
-_Context: coalition, New Caledonia, President of New Caledonia, New Caledonian flags, Philippe Gomes, Caledonian Union_
+_Context: Caledonian Union, New Caledonia, New Caledonian flags, Philippe Gomes, President of New Caledonia, coalition_
 
 ##### Uganda
 ### [Voters in Uganda go to the polls for the Ugandan general election. ](/news/2011/02/18/voters-in-uganda-go-to-the-polls-for-the-ugandan-general-election.md)
@@ -101,11 +101,11 @@ Museveni confident of a fourth term while opposition threatens mass protests if 
 
 ##### Washington Post
 ### [The "Washington Post" reports that United States Senator Jeff Bingaman of New Mexico will announce that he will not contest the 2012 Senate election for New Mexico. ](/news/2011/02/18/the-washington-post-reports-that-united-states-senator-jeff-bingaman-of-new-mexico-will-announce-that-he-will-not-contest-the-2012-senate.md)
-_Context: Washington Post, 2012 Senate election for New Mexico, Jeff Bingaman, New Mexico, Senator, American_
+_Context: 2012 Senate election for New Mexico, American, New Mexico, Jeff Bingaman, Senator, Washington Post_
 
 ##### Obama administration
 ### [The Obama administration rescinds most of a regulation designed to protect health care workers who refuse to provide a service that they find objectionable but retains protections against performing abortions when you have strong anti-abortion convictions. ](/news/2011/02/18/the-obama-administration-rescinds-most-of-a-regulation-designed-to-protect-health-care-workers-who-refuse-to-provide-a-service-that-they-fin.md)
-_Context: Obama administration, regulation, health care, abortion_
+_Context: health care, Obama administration, abortion, regulation_
 
 ##### United States House of Representatives
 ### [The United States House of Representatives blocks Federal funding for Planned Parenthood. ](/news/2011/02/18/the-united-states-house-of-representatives-blocks-federal-funding-for-planned-parenthood.md)
@@ -113,7 +113,7 @@ _Context: United States government, Planned Parenthood, United States House of R
 
 ##### U.S. state
 ### [The U.S. state of Wisconsin has demonstrations in the tens of thousands against a bill forcing public service workers to pay increased pension costs, increased healthcare coverage as well as stripping them of almost all union rights. Senators yesterday fled the state to Illinois. ](/news/2011/02/18/the-u-s-state-of-wisconsin-has-demonstrations-in-the-tens-of-thousands-against-a-bill-forcing-public-service-workers-to-pay-increased-pensi.md)
-_Context: U.S. state, Wisconsin, Illinois, Senate_
+_Context: Senate, Illinois, U.S. state, Wisconsin_
 
 ##### NASA
 ### [NASA clears the Space Shuttle Discovery for its final flight on Thursday. ](/news/2011/02/18/nasa-clears-the-space-shuttle-discovery-for-its-final-flight-on-thursday.md)

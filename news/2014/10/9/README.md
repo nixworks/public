@@ -17,7 +17,7 @@ A hand grenade hurled from a parking lot into a popular tourist area of Kuala Lu
 
 ##### Iraqi insurgency (2011-present)
 ### [A car bombing in a busy street in Baghdad's largest Shi'ite neighbourhood kills at least 12 people. ](/news/2014/10/9/a-car-bombing-in-a-busy-street-in-baghdad-s-largest-shi-ite-neighbourhood-kills-at-least-12-people.md)
-_Context: Baghdad, Iraqi insurgency (2011-present), Shi'ite, car bombing_
+_Context: Iraqi insurgency (2011-present), Baghdad, car bombing, Shi'ite_
 
 ##### Patrick Modiano
 ### [The French novelist Patrick Modiano is awarded the 2014 Nobel Prize in Literature. ](/news/2014/10/9/the-french-novelist-patrick-modiano-is-awarded-the-2014-nobel-prize-in-literature.md)

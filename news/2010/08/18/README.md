@@ -13,7 +13,7 @@ More than 2,000 civilian and military personnel from 18 countries began a 12-day
 
 ##### Julian Assange
 ### [Julian Assange of Wikileaks says the United States has approached the website to try to negotiate the release of a further 15,000 Afghanistan war documents which the military desires to keep secret; the United States denies this. ](/news/2010/08/18/julian-assange-of-wikileaks-says-the-united-states-has-approached-the-website-to-try-to-negotiate-the-release-of-a-further-15-000-afghanista.md)
-_Context: Julian Assange, Wikileaks, American_
+_Context: Wikileaks, Julian Assange, American_
 
 ##### American
 ### [The United States ends combat operations in Iraq as its last combat brigade departs for Kuwait. ](/news/2010/08/18/the-united-states-ends-combat-operations-in-iraq-as-its-last-combat-brigade-departs-for-kuwait.md)
@@ -25,7 +25,7 @@ Rebels kill three Indian peacekeepers in a night-time ambush at a base in the ea
 
 ##### American
 ### [The United States deploys troops along its border with Mexico by the order of President Barack Obama. ](/news/2010/08/18/the-united-states-deploys-troops-along-its-border-with-mexico-by-the-order-of-president-barack-obama.md)
-_Context: U.S. President, American, Barack Obama, Mexican_
+_Context: American, U.S. President, Barack Obama, Mexican_
 
 ##### American Ballet Theatre
 ### [The American Ballet Theatre is given permission by its country's President, Barack Obama, to perform in Cuba; it would be the first time in 50 years. American tourists are still banned by their government from travelling to Cuba. ](/news/2010/08/18/the-american-ballet-theatre-is-given-permission-by-its-country-s-president-barack-obama-to-perform-in-cuba-it-would-be-the-first-time-in.md)
@@ -33,7 +33,7 @@ The American Ballet Theatre company is to perform in Cuba later this year for th
 
 ##### Soul
 ### [Soul singer Erykah Badu is fined and punished by the city of Dallas, Texas, United States, after being convicted of disorderly conduct for removing her clothes and re-enacting a controversial scene from the country's history while filming a music video. ](/news/2010/08/18/soul-singer-erykah-badu-is-fined-and-punished-by-the-city-of-dallas-texas-united-states-after-being-convicted-of-disorderly-conduct-for-r.md)
-_Context: music video, Erykah Badu, disorderly conduct, Soul, Dallas, Texas_
+_Context: Erykah Badu, music video, Dallas, Texas, Soul, disorderly conduct_
 
 ##### Rupert Murdoch
 ### [Rupert Murdoch provides $1 million to the U.S. Republican Party ahead of an important election in November, more than doubling the party's funds with one of the largest handouts by a media organisation; critics declare Fox News is not impartial. ](/news/2010/08/18/rupert-murdoch-provides-1-million-to-the-u-s-republican-party-ahead-of-an-important-election-in-november-more-than-doubling-the-party-s-f.md)
@@ -53,11 +53,11 @@ Taiwanese technology giant Foxconn plans to hold a morale-boosting employee rall
 
 ##### American
 ### [United States car maker General Motors files for an Initial Public Offering. ](/news/2010/08/18/united-states-car-maker-general-motors-files-for-an-initial-public-offering.md)
-_Context: American, IPO, General Motors_
+_Context: American, General Motors, IPO_
 
 ##### Japan
 ### [Japanese carmaker Mazda recalls 215,000 vehicles in the United States and 11,000 vehicles in China due to power steering flaws. ](/news/2010/08/18/japanese-carmaker-mazda-recalls-215-000-vehicles-in-the-united-states-and-11-000-vehicles-in-china-due-to-power-steering-flaws.md)
-_Context: Chinese, Mazda, power steering, American, Japan_
+_Context: power steering, Mazda, Chinese, Japan, American_
 
 ##### Saudi Arabia
 ### [Saudi Arabia overtakes the United States as the main donor to the stricken country. ](/news/2010/08/18/saudi-arabia-overtakes-the-united-states-as-the-main-donor-to-the-stricken-country.md)
@@ -85,19 +85,19 @@ A strange double earthquake triggered the Tonga tsunami that killed 192 people i
 
 ##### Bus
 ### [A bus plunges into a 100 metre ravine in the Philippines Benguet province resulting in 39 deaths. ](/news/2010/08/18/a-bus-plunges-into-a-100-metre-ravine-in-the-philippines-benguet-province-resulting-in-39-deaths.md)
-_Context: ravine, Philippines, bus, Benguet_
+_Context: bus, ravine, Benguet, Philippines_
 
 ##### South Korea
 ### [3 people are killed and 3 others are missing after a South Korean fishing boat sinks 400 miles from Dunedin on the South Island of New Zealand. ](/news/2010/08/18/3-people-are-killed-and-3-others-are-missing-after-a-south-korean-fishing-boat-sinks-400-miles-from-dunedin-on-the-south-island-of-new-zeala.md)
-_Context: fishing boat, South Korea, South Island, New Zealand, Dunedin_
+_Context: Dunedin, fishing boat, South Island, New Zealand, South Korea_
 
 ##### Morocco
 ### [Moroccan activists blockading a Spanish enclave in protest at alleged abuses by border police agree to suspend the action during Ramadan. ](/news/2010/08/18/moroccan-activists-blockading-a-spanish-enclave-in-protest-at-alleged-abuses-by-border-police-agree-to-suspend-the-action-during-ramadan.md)
-_Context: Melilla, Morocco, Ramadan_
+_Context: Melilla, Ramadan, Morocco_
 
 ##### Mauritanian
 ### [Mauritania extradites a man to Mali convicted for kidnapping three Spanish aid workers believed to be held by the Al-Qaeda Organization in the Islamic Maghreb. ](/news/2010/08/18/mauritania-extradites-a-man-to-mali-convicted-for-kidnapping-three-spanish-aid-workers-believed-to-be-held-by-the-al-qaeda-organization-in-t.md)
-_Context: Mauritanian, Mali, Spain, Al Qaeda in the Islamic Maghreb_
+_Context: Mali, Spain, Al Qaeda in the Islamic Maghreb, Mauritanian_
 
 ##### Russia
 ### [Russia, Afghanistan, Tajikistan and Pakistan agree to step up the fight against terrorism and narcotics in a summit in the Russian Black Sea resort of Sochi. ](/news/2010/08/18/russia-afghanistan-tajikistan-and-pakistan-agree-to-step-up-the-fight-against-terrorism-and-narcotics-in-a-summit-in-the-russian-black-sea.md)
@@ -109,7 +109,7 @@ _Context: American, war crime, Burma_
 
 ##### Israel
 ### [A court in Israel court jails a man who broke into the Turkish embassy in Tel Aviv and asked for asylum; his lawyer says the man was once an Israeli informer whose life is now under threat. ](/news/2010/08/18/a-court-in-israel-court-jails-a-man-who-broke-into-the-turkish-embassy-in-tel-aviv-and-asked-for-asylum-his-lawyer-says-the-man-was-once-an.md)
-_Context: Tel Aviv, Israel, Turkey_
+_Context: Israel, Turkey, Tel Aviv_
 
 ##### Colombia
 ### [A court in Colombia declares as unconstitutional a controversial deal allowing the United States to freely use its military bases and says it will have to be redrafted; other Latin American countries have expressed concern that the United States is exerting excessive influence on the region. ](/news/2010/08/18/a-court-in-colombia-declares-as-unconstitutional-a-controversial-deal-allowing-the-united-states-to-freely-use-its-military-bases-and-says-i.md)
@@ -133,7 +133,7 @@ The authorities in the Philippines investigate mobile phone footage that appears
 
 ##### Jeremy Ractliffe
 ### [Jeremy Ractliffe resigns from the board of the Nelson Mandela Children's Fund after revealing he kept diamonds given to him by Naomi Campbell. ](/news/2010/08/18/jeremy-ractliffe-resigns-from-the-board-of-the-nelson-mandela-children-s-fund-after-revealing-he-kept-diamonds-given-to-him-by-naomi-campbel.md)
-_Context: Naomi Campbell, Jeremy Ractliffe, Nelson Mandela Children's Fund_
+_Context: Naomi Campbell, Nelson Mandela Children's Fund, Jeremy Ractliffe_
 
 ##### Israel
 ### [Two Israeli groups launch a course in "Zionist editing" of the online encyclopedia project Wikipedia. ](/news/2010/08/18/two-israeli-groups-launch-a-course-in-zionist-editing-of-the-online-encyclopedia-project-wikipedia.md)
@@ -141,11 +141,11 @@ _Context: Israel, Wikipedia_
 
 ##### Brazil
 ### [Candidates commence daily broadcasts in Brazil ahead of general and presidential elections on 3 October. ](/news/2010/08/18/candidates-commence-daily-broadcasts-in-brazil-ahead-of-general-and-presidential-elections-on-3-october.md)
-_Context: Brazilian presidential election, general, Brazil_
+_Context: Brazil, Brazilian presidential election, general_
 
 ##### David Paterson
 ### [David Paterson, Governor of the U.S. state of New York, is to discuss relocating the controversial Park51 Islamic community centre and mosque near World Trade Center site in New York City. ](/news/2010/08/18/david-paterson-governor-of-the-u-s-state-of-new-york-is-to-discuss-relocating-the-controversial-park51-islamic-community-centre-and-mosqu.md)
-_Context: New York, Park51, New York City, mosque, New York Governor, Islam, David Paterson, U.S. state, Ground Zero_
+_Context: David Paterson, mosque, New York City, Park51, U.S. state, New York Governor, Ground Zero, New York, Islam_
 
 ##### Haiti
 ### [Haiti's final decision on its presidential election candidates is delayed until Friday due to eligibility issues; it had initially been expected yesterday. ](/news/2010/08/18/haiti-s-final-decision-on-its-presidential-election-candidates-is-delayed-until-friday-due-to-eligibility-issues-it-had-initially-been-expe.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2011/01/7/index.html)  [JSON](2011/01/7/index.json)  [XML](2011/
 
 ##### Suicide bombing
 ### [A suicide bomber kills 17 people and wounds at least 20 others in a public bathhouse in Kandahar province, Afghanistan; the Taliban claims responsibility for the attack. ](/news/2011/01/7/a-suicide-bomber-kills-17-people-and-wounds-at-least-20-others-in-a-public-bathhouse-in-kandahar-province-afghanistan-the-taliban-claims-r.md)
-_Context: suicide bombing, Kandahar province, Taliban, Afghanistan_
+_Context: Kandahar province, Taliban, Afghanistan, suicide bombing_
 
 ##### Jos
 ### [Seven people are killed in Jos and at least two people are killed at a rally in Bayelsa State. ](/news/2011/01/7/seven-people-are-killed-in-jos-and-at-least-two-people-are-killed-at-a-rally-in-bayelsa-state.md)
@@ -21,7 +21,7 @@ _Context: India, West Bengal_
 
 ##### South Korea
 ### [South Korea lowers its surveillance alert level against North Korea. ](/news/2011/01/7/south-korea-lowers-its-surveillance-alert-level-against-north-korea.md)
-_Context: South Korea, North Korea_
+_Context: North Korea, South Korea_
 
 ##### Israeli Army
 ### [Israeli troops round up five men and kill a 67-year-old Palestinian man during an operation into the West Bank, aiming at arresting members of Hamas. ](/news/2011/01/7/israeli-troops-round-up-five-men-and-kill-a-67-year-old-palestinian-man-during-an-operation-into-the-west-bank-aiming-at-arresting-members.md)
@@ -33,7 +33,7 @@ The ruling voided two foreclosures, putting the nation’s banks on notice that 
 
 ##### French President
 ### [French President Nicolas Sarkozy and First Lady Carla Bruni begin an official trip to the overseas departments of Guadeloupe and Martinique. ](/news/2011/01/7/french-president-nicolas-sarkozy-and-first-lady-carla-bruni-begin-an-official-trip-to-the-overseas-departments-of-guadeloupe-and-martinique.md)
-_Context: Carla Bruni, Guadeloupe, Nicolas Sarkozy, French President, Martinique_
+_Context: French President, Carla Bruni, Martinique, Guadeloupe, Nicolas Sarkozy_
 
 ##### Ghana
 ### [Ghana says a threat of force by the Economic Community of West African States to remove Ivorian President Laurent Gbagbo would "not bring about peace" in the country. ](/news/2011/01/7/ghana-says-a-threat-of-force-by-the-economic-community-of-west-african-states-to-remove-ivorian-president-laurent-gbagbo-would-not-bring-ab.md)
@@ -41,7 +41,7 @@ A plan by West African leaders for a military intervention in Ivory Coast’s po
 
 ##### Laurent Gbagbo
 ### [Laurent Gbagbo expels the ambassadors for Canada and the United Kingdom from Cote d'Ivoire. Both nations reject the decision, recognizing Alassane Ouattara as the rightful President. ](/news/2011/01/7/laurent-gbagbo-expels-the-ambassadors-for-canada-and-the-united-kingdom-from-ca-te-d-ivoire-both-nations-reject-the-decision-recognizing-a.md)
-_Context: Canadian, Laurent Gbagbo, Alassane Ouattara, Cote d'Ivoire, United Kingdom_
+_Context: United Kingdom, Laurent Gbagbo, Canadian, Alassane Ouattara, Cote d'Ivoire_
 
 ##### Chile
 ### [Chile recognises the State of Palestine. ](/news/2011/01/7/chile-recognises-the-state-of-palestine.md)
@@ -49,7 +49,7 @@ Officials at Foreign Ministry fear &#39;domino effect&#39; in South America; &#3
 
 ##### Christians in Iran
 ### [Dozens of Christians in Iran are arrested, after security forces forcibly entered their homes and verbally and physically abused them, in a crackdown on converts from Islam and evangelical groups, which an Iranian official who confirmed the arrests called an "enemy cultural invasion." ](/news/2011/01/7/dozens-of-christians-in-iran-are-arrested-after-security-forces-forcibly-entered-their-homes-and-verbally-and-physically-abused-them-in-a.md)
-_Context: Christians in Iran, Iranian police_
+_Context: Iranian police, Christians in Iran_
 
 ##### Adrian Jacobs
 ### [A lawsuit by the estate of Adrian Jacobs against Scholastic, claiming that J. K. Rowling's "Harry Potter and the Goblet of Fire" plagiarised one of his own works, is dismissed by a court in the United States. ](/news/2011/01/7/a-lawsuit-by-the-estate-of-adrian-jacobs-against-scholastic-claiming-that-j-k-rowling-s-harry-potter-and-the-goblet-of-fire-plagiarised.md)
@@ -61,11 +61,11 @@ Former Labour MP David Chaytor is jailed for 18 months for fraudulently claiming
 
 ##### United Nations
 ### [The United Nations says thousands of people are arriving in Southern Sudan from north Sudan ahead of the independence referendum on Sunday. ](/news/2011/01/7/the-united-nations-says-thousands-of-people-are-arriving-in-southern-sudan-from-north-sudan-ahead-of-the-independence-referendum-on-sunday.md)
-_Context: United Nations, Southern Sudan, Southern Sudanese Independence Referendum, Sudan_
+_Context: United Nations, Sudan, Southern Sudanese Independence Referendum, Southern Sudan_
 
 ##### China
 ### [Parents in China demand compensation after more than 200 children are poisoned by lead. ](/news/2011/01/7/parents-in-china-demand-compensation-after-more-than-200-children-are-poisoned-by-lead.md)
-_Context: lead contamination, China_
+_Context: China, lead contamination_
 
 ##### Algeria
 ### [Youths in Algeria riot for a second night in unrest over social and political grievances. ](/news/2011/01/7/youths-in-algeria-riot-for-a-second-night-in-unrest-over-social-and-political-grievances.md)

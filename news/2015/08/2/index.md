@@ -13,7 +13,7 @@ Two Turkish soldiers are killed and dozens are wounded in a suicide attack near 
 
 ##### Burundian Army
 ### [General Adolphe Nshimirimana, former chief of staff of the Burundi Army, is assassinated in Bujumbura. ](/news/2015/08/2/general-adolphe-nshimirimana-former-chief-of-staff-of-the-burundi-army-is-assassinated-in-bujumbura.md)
-_Context: Burundian Army, Bujumbura_
+_Context: Bujumbura, Burundian Army_
 
 ##### Boko Haram
 ### [Nigerian Army soldiers rescue 178 people from Boko Haram camps including 101 children. ](/news/2015/08/2/nigerian-army-soldiers-rescue-178-people-from-boko-haram-camps-including-101-children.md)

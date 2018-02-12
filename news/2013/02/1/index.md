@@ -33,7 +33,7 @@ A truck carrying fireworks explodes on a highway in central China, causing part 
 
 ##### Zhoukou
 ### [Three construction workers are killed and eight are injured after a wall collapses on a construction site in Zhoukou, Henan, China. ](/news/2013/02/1/three-construction-workers-are-killed-and-eight-are-injured-after-a-wall-collapses-on-a-construction-site-in-zhoukou-henan-china.md)
-_Context: Zhoukou, China, Henan_
+_Context: China, Henan, Zhoukou_
 
 ##### Metropolitan Police Service
 ### [Metropolitan Police detective April Casburn, who tried to sell information to the "News of the World", regarding the investigation into phone hacking scandal, is jailed for 15 months. ](/news/2013/02/1/metropolitan-police-detective-april-casburn-who-tried-to-sell-information-to-the-news-of-the-world-regarding-the-investigation-into-phon.md)
@@ -49,11 +49,11 @@ Unbridled candor and unyielding chutzpah made three-term mayor stand out in a ci
 
 ##### Chris Evans
 ### [Chris Evans, the leader of Australian Labor Party in the Senate, announces his resignation from the Ministry of Education. ](/news/2013/02/1/chris-evans-the-leader-of-australian-labor-party-in-the-senate-announces-his-resignation-from-the-ministry-of-education.md)
-_Context: Senate, Ministry of Education, Chris Evans, Australian Labor Party_
+_Context: Ministry of Education, Chris Evans, Senate, Australian Labor Party_
 
 ##### Muqrin bin Abdulaziz Al Saud
 ### [Muqrin bin Abdulaziz Al Saud, the former head of Saudi Arabia's Intelligence Directorate, is appointed second deputy Prime Minister, making him second in line to the Saudi throne. ](/news/2013/02/1/muqrin-bin-abdulaziz-al-saud-the-former-head-of-saudi-arabia-s-intelligence-directorate-is-appointed-second-deputy-prime-minister-making.md)
-_Context: Muqrin bin Abdulaziz Al Saud, Succession to the Saudi Arabian throne, King, Prime Minister, Intelligence Directorate, Saudi Arabia_
+_Context: King, Intelligence Directorate, Muqrin bin Abdulaziz Al Saud, Prime Minister, Saudi Arabia, Succession to the Saudi Arabian throne_
 
 ##### Steven Chu
 ### [Steven Chu steps down as United States Secretary of Energy. ](/news/2013/02/1/steven-chu-steps-down-as-united-states-secretary-of-energy.md)

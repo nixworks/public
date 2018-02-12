@@ -9,7 +9,7 @@ _Context: Thailand, South Thailand insurgency_
 
 ##### Nigerian Sharia conflict
 ### [Nigerian Sharia conflict: Three people are killed by Islamist group Boko Haram in northeastern Nigeria, in the latest in a number of attacks. ](/news/2010/12/29/nigerian-sharia-conflict-three-people-are-killed-by-islamist-group-boko-haram-in-northeastern-nigeria-in-the-latest-in-a-number-of-attacks.md)
-_Context: Islamist, Nigeria, Nigerian Sharia conflict, Boko Haram_
+_Context: Islamist, Nigerian Sharia conflict, Boko Haram, Nigeria_
 
 ##### Mexican Drug War
 ### [Mexican Drug War: The Mexican Los Zetas drug cartel threatens to launch a war in northern Guatemala where the government declared a "state of siege". ](/news/2010/12/29/mexican-drug-war-the-mexican-los-zetas-drug-cartel-threatens-to-launch-a-war-in-northern-guatemala-where-the-government-declared-a-state-o.md)
@@ -25,11 +25,11 @@ The number of Iraqi civilians killed in violence in Iraq this year fell to its l
 
 ##### Protests
 ### [2010 Tunisian protests: People ignore threats of "firm" punishment from Tunisian President Zine El Abidine Ben Ali and continue to protest over unemployment and poor living conditions. ](/news/2010/12/29/2010-tunisian-protests-people-ignore-threats-of-firm-punishment-from-tunisian-president-zine-el-abidine-ben-ali-and-continue-to-protest-o.md)
-_Context: President, Zine El Abidine Ben Ali, protests, Tunisia_
+_Context: Tunisia, President, Zine El Abidine Ben Ali, protests_
 
 ##### Minimum wage
 ### [The minimum wage in the Chinese capital Beijing is raised by 20% for the second time in six months, amid rising food costs. ](/news/2010/12/29/the-minimum-wage-in-the-chinese-capital-beijing-is-raised-by-20-for-the-second-time-in-six-months-amid-rising-food-costs.md)
-_Context: Beijing, minimum wage, China_
+_Context: Beijing, China, minimum wage_
 
 ##### Vietnam
 ### [12 Vietnamese sailors are missing after a cargo ship sinks in the South China Sea. 11 other crew were rescued. ](/news/2010/12/29/12-vietnamese-sailors-are-missing-after-a-cargo-ship-sinks-in-the-south-china-sea-11-other-crew-were-rescued.md)
@@ -49,11 +49,11 @@ A letter published by a group of rabbis in Israel has sparked calls for their di
 
 ##### American
 ### [The United States revokes the visa for Bernardo Alvarez Herrera, the Venezuelan ambassador to the country. ](/news/2010/12/29/the-united-states-revokes-the-visa-for-bernardo-alvarez-herrera-the-venezuelan-ambassador-to-the-country.md)
-_Context: Bernardo Alvarez Herrera, visa-free travel, American_
+_Context: visa-free travel, American, Bernardo Alvarez Herrera_
 
 ##### Cote d'Ivoire
 ### [Cote d'Ivoire President Laurent Gbagbo refuses to step down after a meeting with other African leaders. ](/news/2010/12/29/ca-te-d-ivoire-president-laurent-gbagbo-refuses-to-step-down-after-a-meeting-with-other-african-leaders.md)
-_Context: Laurent Gbagbo, Africa, President, Cote d'Ivoire_
+_Context: President, Laurent Gbagbo, Africa, Cote d'Ivoire_
 
 ##### Thailand
 ### [Seven Thais, including a MP, are arrested after illegally crossing the border into Cambodia. ](/news/2010/12/29/seven-thais-including-a-mp-are-arrested-after-illegally-crossing-the-border-into-cambodia.md)
@@ -69,7 +69,7 @@ _Context: Angola, Togo national football team attack_
 
 ##### Colombian President
 ### [President of Colombia Juan Manuel Santos announces the death of Pedro Guerrero, one of the country's most wanted men who was killed in a gunbattle with police while he celebrated Christmas. ](/news/2010/12/29/president-of-colombia-juan-manuel-santos-announces-the-death-of-pedro-guerrero-one-of-the-country-s-most-wanted-men-who-was-killed-in-a-gun.md)
-_Context: Christmas, Colombian President, Juan Manuel Santos, Pedro Guerrero_
+_Context: Pedro Guerrero, Colombian President, Juan Manuel Santos, Christmas_
 
 ##### Ikililou Dhoinine
 ### [Ikililou Dhoinine is elected president by residents of the Comoros Islands. ](/news/2010/12/29/ikililou-dhoinine-is-elected-president-by-residents-of-the-comoros-islands.md)
@@ -77,7 +77,7 @@ The&#x20;former&#x20;vice&#x20;president&#x20;of&#x20;Comoros&#x20;and&#x20;ruli
 
 ##### Government
 ### [The Chinese government sets out new measures to tackle corruption. ](/news/2010/12/29/the-chinese-government-sets-out-new-measures-to-tackle-corruption.md)
-_Context: government, corruption_
+_Context: corruption, government_
 
 ## [Previous Day...](/news/2010/12/28/index.md)
 

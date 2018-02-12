@@ -9,7 +9,7 @@ _Context: Chad, N'Djamena, capital, Chadian rebels_
 
 ##### Magdi Yacoub
 ### [ Coronary specialist Sir Magdi Yacoub operates on Welsh schoolgirl cardiomyopathy patient Hannah Clark, whose original heart is reconnected, after a donor heart was rejected by her body. This is a UK-first organ-replacement reversal. ](/news/2006/04/12/coronary-specialist-sir-magdi-yacoub-operates-on-welsh-schoolgirl-cardiomyopathy-patient-hannah-clark-whose-original-heart-is-reconnected.md)
-_Context: cardiomyopathy, heart, Magdi Yacoub, organ-replacement reversal_
+_Context: cardiomyopathy, Magdi Yacoub, organ-replacement reversal, heart_
 
 ##### Terrorism Act
 ### [ The UK's Terrorism Act 2006 comes into force, making illegal the act of glorifying terrorism. ](/news/2006/04/12/the-uk-s-terrorism-act-2006-comes-into-force-making-illegal-the-act-of-glorifying-terrorism.md)

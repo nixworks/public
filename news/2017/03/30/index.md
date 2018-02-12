@@ -5,7 +5,7 @@ Formats: [HTML](2017/03/30/index.html)  [JSON](2017/03/30/index.json)  [XML](201
 
 ##### Syrian Civil War
 ### [According to the United Nations High Commissioner for Refugees, the total number of refugees from Syria reaches over five million. ](/news/2017/03/30/according-to-the-united-nations-high-commissioner-for-refugees-the-total-number-of-refugees-from-syria-reaches-over-five-million.md)
-_Context: United Nations High Commissioner for Refugees, refugees from Syria, Syrian Civil War_
+_Context: refugees from Syria, United Nations High Commissioner for Refugees, Syrian Civil War_
 
 ##### Turkish constitutional referendum, 2017
 ### [Several people are wounded in clashes outside the Turkish consulate in Brussels. ](/news/2017/03/30/several-people-are-wounded-in-clashes-outside-the-turkish-consulate-in-brussels.md)
@@ -57,7 +57,7 @@ Tyrannosaurs had sensitive snouts that they may have enjoyed rubbing together wh
 
 ##### SpaceX
 ### [SpaceX successfully places the SES-10 telecommunications satellite on a geostationary transfer orbit. The event is notable because of the implied economic cost savings of reusing, for the first time, a used Falcon 9 first stage which had previously been recovered. That first stage had previously launched a Dragon spacecraft to the International Space Station and landed on an autonomous drone ship during the CRS-8 mission. ](/news/2017/03/30/spacex-successfully-places-the-ses-10-telecommunications-satellite-on-a-geostationary-transfer-orbit-the-event-is-notable-because-of-the-im.md)
-_Context: geostationary transfer orbit, SES-10, Dragon cargo capsule, SpaceX, Falcon 9, International Space Station, CRS-8, autonomous drone ship_
+_Context: geostationary transfer orbit, International Space Station, Dragon cargo capsule, autonomous drone ship, CRS-8, SES-10, SpaceX, Falcon 9_
 
 ## [Previous Day...](/news/2017/03/29/index.md)
 

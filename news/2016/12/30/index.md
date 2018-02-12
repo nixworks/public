@@ -13,11 +13,11 @@ Six migrant workers died of suffocation in a fire that broke out in a Pune baker
 
 ##### Coal India
 ### [At least seven people are killed and 30 trapped after a pile of waste collapses in a Coal India mine in Jharkhand. ](/news/2016/12/30/at-least-seven-people-are-killed-and-30-trapped-after-a-pile-of-waste-collapses-in-a-coal-india-mine-in-jharkhand.md)
-_Context: Coal India, Jharkhand_
+_Context: Jharkhand, Coal India_
 
 ##### Cessna 525
 ### [A Cessna 525 carrying six passengers goes missing shortly after takeoff from Cleveland Burke Lakefront Airport in the United States. ](/news/2016/12/30/a-cessna-525-carrying-six-passengers-goes-missing-shortly-after-takeoff-from-cleveland-burke-lakefront-airport-in-the-united-states.md)
-_Context: Cleveland Burke Lakefront Airport, Cessna 525, American_
+_Context: Cessna 525, American, Cleveland Burke Lakefront Airport_
 
 ##### Russia-United States relations
 ### [After 35 Russian diplomats are expelled from the United States, Russia's foreign minister Sergey Lavrov recommends expelling 35 American diplomats. Russian President Vladimir Putin rejects Lavrov's recommendation and expresses a desire to restore relations between the two countries. ](/news/2016/12/30/after-35-russian-diplomats-are-expelled-from-the-united-states-russia-s-foreign-minister-sergey-lavrov-recommends-expelling-35-american-dip.md)
@@ -37,7 +37,7 @@ A school for transgender people opens in Kochi, to help school dropouts finish t
 
 ##### Romania
 ### [Romanian President Klaus Iohannis designates social-democrat Sorin Grindeanu as the country's new prime minister, after the victory of the centre-left PSD earlier this month. ](/news/2016/12/30/romanian-president-klaus-iohannis-designates-social-democrat-sorin-grindeanu-as-the-country-s-new-prime-minister-after-the-victory-of-the-c.md)
-_Context: Sorin Grindeanu, Prime Minister, President, social-democrat, earlier this month, Klaus Iohannis, Romania, centre-left, PSD_
+_Context: earlier this month, social-democrat, Romania, Klaus Iohannis, President, centre-left, Sorin Grindeanu, PSD, Prime Minister_
 
 ##### China's State Council
 ### [China's State Council announces details of its intention to ban all ivory trade and processing activities by the end of 2017. ](/news/2016/12/30/china-s-state-council-announces-details-of-its-intention-to-ban-all-ivory-trade-and-processing-activities-by-the-end-of-2017.md)

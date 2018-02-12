@@ -17,7 +17,7 @@ _Context: Greece, International Monetary Fund, European Union, Greek government-
 
 ##### Reinsurance
 ### [British reinsurance broker the Willis Group announces a merger with American company Towers Watson to create an $18 billion company. ](/news/2015/06/30/british-reinsurance-broker-the-willis-group-announces-a-merger-with-american-company-towers-watson-to-create-an-18-billion-company.md)
-_Context: reinsurance, Towers Watson, Willis Group_
+_Context: reinsurance, Willis Group, Towers Watson_
 
 ##### 2015 Indonesian military plane crash
 ### [A Hercules C-130 military aircraft with 113 people onboard crashes in a residential area in the Indonesian city of Medan, resulting in at least 116 deaths. ](/news/2015/06/30/a-hercules-c-130-military-aircraft-with-113-people-onboard-crashes-in-a-residential-area-in-the-indonesian-city-of-medan-resulting-in-at-le.md)
@@ -25,7 +25,7 @@ More than 100 are feared killed as a military transport plane crashes in a resid
 
 ##### Self-immolation
 ### [ A man self-immolates aboard a "Nozomi" Shinkansen train running from Tokyo to Osaka; the man and another passenger die. Eleven others were reported injured. ](/news/2015/06/30/a-man-self-immolates-aboard-a-nozomi-shinkansen-train-running-from-tokyo-to-osaka-the-man-and-another-passenger-die-eleven-others-were.md)
-_Context: self-immolation, Nozomi, Osaka, Tokyo, Shinkansen_
+_Context: self-immolation, Tokyo, Shinkansen, Nozomi, Osaka_
 
 ##### Governor of California
 ### [Governor of California Jerry Brown signs a bill into law requiring all children to get vaccinations before being allowed to go to school or day care. ](/news/2015/06/30/governor-of-california-jerry-brown-signs-a-bill-into-law-requiring-all-children-to-get-vaccinations-before-being-allowed-to-go-to-school-or.md)
@@ -37,7 +37,7 @@ The Supreme Court en banc asks the Civil Registrar to respond to a petition file
 
 ##### New Jersey Governor
 ### [ New Jersey governor Chris Christie formally announces his candidacy for the Republican nomination for the 2016 presidential election. ](/news/2015/06/30/new-jersey-governor-chris-christie-formally-announces-his-candidacy-for-the-republican-nomination-for-the-2016-presidential-election.md)
-_Context: Chris Christie, New Jersey Governor, Republican Party presidential candidates, 2016_
+_Context: New Jersey Governor, Chris Christie, Republican Party presidential candidates, 2016_
 
 ##### Leap second
 ### [A leap second is added to the clock for the first time in 3 years. ](/news/2015/06/30/a-leap-second-is-added-to-the-clock-for-the-first-time-in-3-years.md)

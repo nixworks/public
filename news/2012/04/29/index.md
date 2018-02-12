@@ -5,11 +5,11 @@ Formats: [HTML](2012/04/29/index.html)  [JSON](2012/04/29/index.json)  [XML](201
 
 ##### Revolutionary Armed Forces of Colombia
 ### [Revolutionary Armed Forces of Colombia kill four members of Colombian Army on a mission to destroy cocaine laboratories in Caquet Department with another four soldiers, a police officer and a French journalist missing. ](/news/2012/04/29/revolutionary-armed-forces-of-colombia-kill-four-members-of-colombian-army-on-a-mission-to-destroy-cocaine-laboratories-in-caqueta-departmen.md)
-_Context: Caquet Department, cocaine, French-born, Colombian Army, Revolutionary Armed Forces of Colombia_
+_Context: cocaine, Colombian Army, Revolutionary Armed Forces of Colombia, Caquet Department, French-born_
 
 ##### Christian
 ### [Several explosions are reported near a Christian service at Bayero University Kano in the northern Nigerian city of Kano, with at least 16 people killed. ](/news/2012/04/29/several-explosions-are-reported-near-a-christian-service-at-bayero-university-kano-in-the-northern-nigerian-city-of-kano-with-at-least-16-p.md)
-_Context: Nigeria, Kano, Bayero University Kano, Christian_
+_Context: Bayero University Kano, Kano, Nigeria, Christian_
 
 ##### Burma
 ### [Four officials are killed in rebel attacks in northern Burma. ](/news/2012/04/29/four-officials-are-killed-in-rebel-attacks-in-northern-burma.md)
@@ -25,19 +25,19 @@ _Context: Syria, Lebanese_
 
 ##### Japan
 ### [At least seven people die following a bus crash in Japan's Gunma Prefecture north of Tokyo. ](/news/2012/04/29/at-least-seven-people-die-following-a-bus-crash-in-japan-s-gunma-prefecture-north-of-tokyo.md)
-_Context: Japan, Tokyo, Gunma Prefecture_
+_Context: Gunma Prefecture, Japan, Tokyo_
 
 ##### Bronx River Parkway
 ### [Seven people are killed, including three children, when a vehicle they were in flipped over on the Bronx River Parkway in The Bronx, New York City. ](/news/2012/04/29/seven-people-are-killed-including-three-children-when-a-vehicle-they-were-in-flipped-over-on-the-bronx-river-parkway-in-the-bronx-new-yor.md)
-_Context: The Bronx, New York City, Bronx River Parkway_
+_Context: New York City, Bronx River Parkway, The Bronx_
 
 ##### Chemical weapons
 ### [The final deadline (no more extensions) for the total destruction of chemical weapons stockpiles under the international Chemical Weapons Convention is reached. ](/news/2012/04/29/the-final-deadline-no-more-extensions-for-the-total-destruction-of-chemical-weapons-stockpiles-under-the-international-chemical-weapons-co.md)
-_Context: Chemical Weapons Convention, chemical weapons_
+_Context: chemical weapons, Chemical Weapons Convention_
 
 ##### United Nations
 ### [The United Nations Secretary-General Ban Ki-moon visits Burma. ](/news/2012/04/29/the-united-nations-secretary-general-ban-ki-moon-visits-burma.md)
-_Context: Burma, United Nations, Ban Ki-moon_
+_Context: Ban Ki-moon, United Nations, Burma_
 
 ##### Malian coup d'tat
 ### [2012 Malian coup d'tat: Mali coup leader Amadou Haya Sanogo rejects a decision by the Economic Community of West African States to deploy troops to the country. ](/news/2012/04/29/2012-malian-coup-d-etat-mali-coup-leader-amadou-haya-sanogo-rejects-a-decision-by-the-economic-community-of-west-african-states-to-deploy-t.md)
@@ -49,7 +49,7 @@ A European Union member ofparliament with a diplomatic passport said she was pre
 
 ##### Sudan
 ### [Sudan arrests four foreigners in the disputed border region with South Sudan on accusations of spying. ](/news/2012/04/29/sudan-arrests-four-foreigners-in-the-disputed-border-region-with-south-sudan-on-accusations-of-spying.md)
-_Context: Sudan, South Sudan_
+_Context: South Sudan, Sudan_
 
 ##### China
 ### [Chinese authorities begin to round-up associates of human rights activist Chen Guangcheng in light of his escape from house arrest. ](/news/2012/04/29/chinese-authorities-begin-to-round-up-associates-of-human-rights-activist-chen-guangcheng-in-light-of-his-escape-from-house-arrest.md)

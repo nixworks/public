@@ -9,7 +9,7 @@ Car bomb detonates outside court complex in coastal city, killing police officer
 
 ##### Gas
 ### [Following a start-of-year hike to the price of gas, widespread riots and looting mostly targeting gas stations, supermarkets and department stores take place in several cities in Mexico. Over 250 people are said to have been arrested so far while blockades to PEMEX installations potentially lead to critical situations in some states. ](/news/2017/01/5/following-a-start-of-year-hike-to-the-price-of-gas-widespread-riots-and-looting-mostly-targeting-gas-stations-supermarkets-and-department.md)
-_Context: PEMEX, gas, states, Mexican_
+_Context: Mexican, states, PEMEX, gas_
 
 ##### Sears Holdings
 ### [Sears Holdings announces that 108 Kmart and 42 Sears stores will close in the United States in 2017, affecting retailers in 40 states. The company also announced it is selling its trademark Craftsman tool brand to Stanley Black & Decker for $900 million. ](/news/2017/01/5/sears-holdings-announces-that-108-kmart-and-42-sears-stores-will-close-in-the-united-states-in-2017-affecting-retailers-in-40-states-the-c.md)
@@ -17,11 +17,11 @@ Sears Holdings Corp. agreed to sell its Craftsman tool brand to Stanley Black &a
 
 ##### Obamacare repeal efforts
 ### [Paul Ryan announces that the Republican party will, as part of its efforts to repeal Obamacare, seek to stop using federal money to fund Planned Parenthood. ](/news/2017/01/5/paul-ryan-announces-that-the-republican-party-will-as-part-of-its-efforts-to-repeal-obamacare-seek-to-stop-using-federal-money-to-fund-pla.md)
-_Context: Paul Ryan, Planned Parenthood, Obamacare, Obamacare repeal efforts_
+_Context: Planned Parenthood, Obamacare, Paul Ryan, Obamacare repeal efforts_
 
 ##### List of organs of the human body
 ### [Scientists classify the mesentery as an organ, making it the 79th human organ. It connects the intestines to the abdominal cavity. ](/news/2017/01/5/scientists-classify-the-mesentery-as-an-organ-making-it-the-79th-human-organ-it-connects-the-intestines-to-the-abdominal-cavity.md)
-_Context: mesentery, abdominal cavity, List of organs of the human body_
+_Context: abdominal cavity, mesentery, List of organs of the human body_
 
 ## [Previous Day...](/news/2017/01/4/index.md)
 

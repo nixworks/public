@@ -21,15 +21,15 @@ Less than 10 minutes after it took off from Agra, one of the Indian Air Force&#0
 
 ##### South Korea
 ### [South Korea captures a North Korean fishing boat that had crossed into their waters amid rising tensions between the two neighboring countries. ](/news/2014/03/28/south-korea-captures-a-north-korean-fishing-boat-that-had-crossed-into-their-waters-amid-rising-tensions-between-the-two-neighboring-countri.md)
-_Context: North Korea, South Korea, rising tensions between the two neighboring countries_
+_Context: rising tensions between the two neighboring countries, South Korea, North Korea_
 
 ##### Prime Minister of Norway
 ### [Former Prime Minister of Norway Jens Stoltenberg is appointed to succeed Denmark's Anders Fogh Rasmussen as the next Secretary General of NATO. ](/news/2014/03/28/former-prime-minister-of-norway-jens-stoltenberg-is-appointed-to-succeed-denmark-s-anders-fogh-rasmussen-as-the-next-secretary-general-of-na.md)
-_Context: Secretary General of NATO, Anders Fogh Rasmussen, Jens Stoltenberg, Prime Minister of Norway_
+_Context: Prime Minister of Norway, Secretary General of NATO, Anders Fogh Rasmussen, Jens Stoltenberg_
 
 ##### Buddhist
 ### [Buddhist mobs in western Myanmar reportedly target foreign aid groups and workers in reaction to supposedly disrespectful treatment of a Buddhist flag. ](/news/2014/03/28/buddhist-mobs-in-western-myanmar-reportedly-target-foreign-aid-groups-and-workers-in-reaction-to-supposedly-disrespectful-treatment-of-a-bud.md)
-_Context: Burma, Buddhist_
+_Context: Buddhist, Burma_
 
 ##### Brampton
 ### [A shooting occurs at a courthouse in Brampton, Ontario, Canada, with one shooter dead and a police officer injured. ](/news/2014/03/28/a-shooting-occurs-at-a-courthouse-in-brampton-ontario-canada-with-one-shooter-dead-and-a-police-officer-injured.md)

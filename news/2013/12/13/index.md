@@ -17,11 +17,11 @@ Authorities said Friday they foiled a suicide bombing plot to blow up the Mid-Co
 
 ##### Gunman critically wounds a student in a shooting
 ### [A gunman critically wounds a student in a shooting at Arapahoe High School, Centennial, Colorado, United States. ](/news/2013/12/13/a-gunman-critically-wounds-a-student-in-a-shooting-at-arapahoe-high-school-centennial-colorado-united-states.md)
-_Context: Arapahoe High School, Centennial, gunman critically wounds a student in a shooting, Colorado, American_
+_Context: Centennial, Colorado, gunman critically wounds a student in a shooting, American, Arapahoe High School_
 
 ##### American
 ### [Warships of the United States and China confront each other in international waters within the South China Sea. ](/news/2013/12/13/warships-of-the-united-states-and-china-confront-each-other-in-international-waters-within-the-south-china-sea.md)
-_Context: China, American, international waters, South China Sea_
+_Context: international waters, South China Sea, China, American_
 
 ##### Prince Harry
 ### [Prince Harry and his "Walking with the Wounded" team reach the South Pole after three weeks trekking in the Antarctic. ](/news/2013/12/13/prince-harry-and-his-walking-with-the-wounded-team-reach-the-south-pole-after-three-weeks-trekking-in-the-antarctic.md)
@@ -29,7 +29,7 @@ Prince Harry and his fellow adventurers in the Walking With The Wounded expediti
 
 ##### Google
 ### [Google removes a privacy feature from its Android mobile software, despite objections from groups such as the Electronic Frontier Foundation. ](/news/2013/12/13/google-removes-a-privacy-feature-from-its-android-mobile-software-despite-objections-from-groups-such-as-the-electronic-frontier-foundation.md)
-_Context: software, Google, Android, Electronic Frontier Foundation_
+_Context: software, Electronic Frontier Foundation, Android, Google_
 
 ##### Egypt
 ### [The storm spreads to Egypt with some Cairo suburbs seeing snowfall. Local news reports claimed it was the capital's first snowfall in 112 years. Night temperatures are expected to drop as low as 2C - 36F. ](/news/2013/12/13/the-storm-spreads-to-egypt-with-some-cairo-suburbs-seeing-snowfall-local-news-reports-claimed-it-was-the-capital-s-first-snowfall-in-112-ye.md)

@@ -13,7 +13,7 @@ Troops have joined the Syrian regime&#039;s military forces and Hizbollah allies
 
 ##### ISIL
 ### [ISIL confirms that U.S. forces killed its number two leader, Abu Mutaz al-Qurashi, in an airstrike near Mosul back in August. ](/news/2015/10/14/isil-confirms-that-u-s-forces-killed-its-number-two-leader-abu-mutaz-al-qurashi-in-an-airstrike-near-mosul-back-in-august.md)
-_Context: Abu Mutaz al-Qurashi, American, ISIL, Mosul, ISIL, U.S. airstrikes_
+_Context: American, Abu Mutaz al-Qurashi, U.S. airstrikes, ISIL, Mosul, ISIL_
 
 ##### Israeli-Palestinian conflict
 ### [Israel's military deploys new checkpoints in its Arab neighborhoods, as well as thousands of border police soldiers to cities and on roads to assist police forces in response to recent Palestinian stabbing attacks. ](/news/2015/10/14/israel-s-military-deploys-new-checkpoints-in-its-arab-neighborhoods-as-well-as-thousands-of-border-police-soldiers-to-cities-and-on-roads-t.md)
@@ -25,7 +25,7 @@ At least seven people were killed and several others injured today in Pakistan
 
 ##### Boko Haram insurgency
 ### [A triple suicide-bomb attack in the northeast Nigerian city of Maiduguri kills at least 7 people. ](/news/2015/10/14/a-triple-suicide-bomb-attack-in-the-northeast-nigerian-city-of-maiduguri-kills-at-least-7-people.md)
-_Context: suicide-bomb, Boko Haram insurgency, Nigerian, Maiduguri_
+_Context: Boko Haram insurgency, Nigerian, suicide-bomb, Maiduguri_
 
 ##### War in Afghanistan (2015-present)
 ### [Taliban insurgents overrun two security checkpoints near Kandahar in the southern Helmand Province, killing at least 29 border police officers, according to local officials. ](/news/2015/10/14/taliban-insurgents-overrun-two-security-checkpoints-near-kandahar-in-the-southern-helmand-province-killing-at-least-29-border-police-office.md)

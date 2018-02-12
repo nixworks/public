@@ -49,7 +49,7 @@ Metallurgical Corp of China Ltd (MCC) said on Wednesday four of its employees wo
 
 ##### Knife attack
 ### [A knife attack on a Taipei Metro train leaves at least 4 dead and 21 passengers injured. ](/news/2014/05/21/a-knife-attack-on-a-taipei-metro-train-leaves-at-least-4-dead-and-21-passengers-injured.md)
-_Context: knife attack, Taipei Metro_
+_Context: Taipei Metro, knife attack_
 
 ##### Egypt
 ### [An Egyptian court sentences 155 members of the Muslim Brotherhood to prison, including 54 life sentences. ](/news/2014/05/21/an-egyptian-court-sentences-155-members-of-the-muslim-brotherhood-to-prison-including-54-life-sentences.md)
@@ -61,7 +61,7 @@ A court in Egypt sentences ousted President Hosni Mubarak to three years in pris
 
 ##### Tehran
 ### [Six Iranians that were arrested have been released in Tehran after releasing a fan video set to Pharrell Williams' "Happy", sparking outcries over the internet. ](/news/2014/05/21/six-iranians-that-were-arrested-have-been-released-in-tehran-after-releasing-a-fan-video-set-to-pharrell-williams-happy-sparking-outcrie.md)
-_Context: Happy, Pharrell Williams, Tehran_
+_Context: Pharrell Williams, Happy, Tehran_
 
 ##### Poisoned alcohol
 ### [Ten men convicted for producing poisoned alcohol that killed more than 30 people in 2012 have been sentenced to prison by a court in the Czech Republic, including 2 life sentences. ](/news/2014/05/21/ten-men-convicted-for-producing-poisoned-alcohol-that-killed-more-than-30-people-in-2012-have-been-sentenced-to-prison-by-a-court-in-the-cze.md)

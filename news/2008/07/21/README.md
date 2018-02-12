@@ -5,7 +5,7 @@ Formats: [HTML](2008/07/21/index.html)  [JSON](2008/07/21/index.json)  [XML](200
 
 ##### Congress of France
 ### [ The Congress of France (the National Assembly and the Senate meeting together) passes a bill that would make major changes to the Constitution of France, with a margin of only one vote; this bill is designed to strengthen Parliament, while establishing a two-term presidential term limit and allowing the President to speak before Parliament.](/news/2008/07/21/the-congress-of-france-the-national-assembly-and-the-senate-meeting-together-passes-a-bill-that-would-make-major-changes-to-the-constitut.md)
-_Context: Congress of France, Constitution of France, National Assembly, Senate_
+_Context: Congress of France, Senate, National Assembly, Constitution of France_
 
 ##### Russia
 ### [ Russia and China sign a pact demarcating their 4,300-kilometer border, bringing an end to more than 40 years of negotiations. ](/news/2008/07/21/russia-and-china-sign-a-pact-demarcating-their-4-300-kilometer-border-bringing-an-end-to-more-than-40-years-of-negotiations.md)
@@ -13,19 +13,19 @@ _Context: demarcating their 4,300-kilometer border, more than 40 years of negoti
 
 ##### Fugitive
 ### [ Fugitive Radovan Karadzic, indicted for war crimes by the International Criminal Tribunal for the Former Yugoslavia, is arrested in Serbia. ](/news/2008/07/21/fugitive-radovan-karada3-4ia-indicted-for-war-crimes-by-the-international-criminal-tribunal-for-the-former-yugoslavia-is-arrested-in-serbi.md)
-_Context: Serbia, war crimes, Radovan Karadzic, International Criminal Tribunal for the Former Yugoslavia, Fugitive_
+_Context: war crimes, Radovan Karadzic, Serbia, International Criminal Tribunal for the Former Yugoslavia, Fugitive_
 
 ##### United States Food and Drug Administration
 ### [ The United States Food and Drug Administration finds the same salmonella strain responsible for the 2008 United States salmonellosis outbreak in Mexican-grown jalapeno peppers. ](/news/2008/07/21/the-united-states-food-and-drug-administration-finds-the-same-salmonella-strain-responsible-for-the-2008-united-states-salmonellosis-outbre.md)
-_Context: Mexican, jalapeno, salmonella, 2008 United States salmonellosis outbreak, United States Food and Drug Administration_
+_Context: 2008 United States salmonellosis outbreak, United States Food and Drug Administration, Mexican, salmonella, jalapeno_
 
 ##### Terrorism
 ### [ The first terrorism trial of a Guantanamo Bay inmate begins with Salim Ahmed Hamdan, the former driver and bodyguard of Osama bin Laden, pleading not guilty. ](/news/2008/07/21/the-first-terrorism-trial-of-a-guantanamo-bay-inmate-begins-with-salim-ahmed-hamdan-the-former-driver-and-bodyguard-of-osama-bin-laden-pl.md)
-_Context: Guantanamo Bay, Osama bin Laden, Salim Ahmed Hamdan, terrorism_
+_Context: Guantanamo Bay, Osama bin Laden, terrorism, Salim Ahmed Hamdan_
 
 ##### Yahoo!
 ### [ Yahoo! reaches a deal with Carl Icahn giving him three seats on its board of directors. ](/news/2008/07/21/yahoo-reaches-a-deal-with-carl-icahn-giving-him-three-seats-on-its-board-of-directors.md)
-_Context: board of directors, Carl Icahn, Yahoo!_
+_Context: Carl Icahn, Yahoo!, board of directors_
 
 ##### Dollar
 ### [ Zimbabwe introduces a new 100-billion-dollar bank note as the annual inflation rate hits 2.2 million percent. ](/news/2008/07/21/zimbabwe-introduces-a-new-100-billion-dollar-bank-note-as-the-annual-inflation-rate-hits-2-2-million-percent.md)
@@ -37,7 +37,7 @@ _Context: Nepal, Ram Baran Yadav, presidential election_
 
 ##### Bus explosions
 ### [ At least three people die and 14 are injured in deliberate explosions on buses in the city of Kunming, the capital of Yunnan province in the People's Republic of China. ](/news/2008/07/21/at-least-three-people-die-and-14-are-injured-in-deliberate-explosions-on-buses-in-the-city-of-kunming-the-capital-of-yunnan-province-in-th.md)
-_Context: bus explosions, Kunming, China, Yunnan, bus_
+_Context: China, Yunnan, Kunming, bus, bus explosions_
 
 ##### United States Air Force
 ### [ A United States Air Force B-52 bomber crashes near Guam in the western Pacific Ocean. ](/news/2008/07/21/a-united-states-air-force-b-52-bomber-crashes-near-guam-in-the-western-pacific-ocean.md)

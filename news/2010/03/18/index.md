@@ -9,7 +9,7 @@ Khartoum reaches truce agreement with smaller group after talks with Jem stalled
 
 ##### Nigeria
 ### [Nigeria recalls its ambassador to Libya after Libyan leader Muammar al-Gaddafi suggests the country be partitioned into two separate Christian and Muslim nations. ](/news/2010/03/18/nigeria-recalls-its-ambassador-to-libya-after-libyan-leader-muammar-al-gaddafi-suggests-the-country-be-partitioned-into-two-separate-christi.md)
-_Context: Muammar al-Gaddafi, Christian, Muslim, Nigeria, partitioned, Libya_
+_Context: partitioned, Muammar al-Gaddafi, Christian, Nigeria, Libya, Muslim_
 
 ##### Polar bear
 ### [Proposed international trade bans on polar bears and bluefin tuna are rejected by the Convention on International Trade in Endangered Species of Wild Fauna and Flora. ](/news/2010/03/18/proposed-international-trade-bans-on-polar-bears-and-bluefin-tuna-are-rejected-by-the-convention-on-international-trade-in-endangered-specie.md)
@@ -37,11 +37,11 @@ A foreign agricultural worker was the first fatality from Gaza rocket fire since
 
 ##### Turkey
 ### [Turkey arrests around 20 people as it investigates an alleged attempted coup d'tat. ](/news/2010/03/18/turkey-arrests-around-20-people-as-it-investigates-an-alleged-attempted-coup-d-etat.md)
-_Context: Turkey, coup d'tat_
+_Context: coup d'tat, Turkey_
 
 ##### The Gambia
 ### [Charges occur in The Gambia's attempted coup d'tat to overthrow President Yahya Jammeh. ](/news/2010/03/18/charges-occur-in-the-gambia-s-attempted-coup-d-etat-to-overthrow-president-yahya-jammeh.md)
-_Context: The Gambia, President, Yahya Jammeh_
+_Context: Yahya Jammeh, The Gambia, President_
 
 ##### Sahil Saeed
 ### [Released kidnapped child Sahil Saeed returns home to Manchester in England. ](/news/2010/03/18/released-kidnapped-child-sahil-saeed-returns-home-to-manchester-in-england.md)

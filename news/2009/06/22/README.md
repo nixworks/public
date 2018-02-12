@@ -17,7 +17,7 @@ A major international conference in Sydney today will look at how to expand the 
 
 ##### Silk Route
 ### [ A plan to create a modern Silk Route of roads and railways linking East Asia with Europe makes its first substantial progress. ](/news/2009/06/22/a-plan-to-create-a-modern-silk-route-of-roads-and-railways-linking-east-asia-with-europe-makes-its-first-substantial-progress.md)
-_Context: East Asia, Europe, Silk Route_
+_Context: Silk Route, East Asia, Europe_
 
 ##### Brazil
 ### [ Brazilian officials identify the first 11 of 50 bodies recovered from Air France Flight 447. ](/news/2009/06/22/brazilian-officials-identify-the-first-11-of-50-bodies-recovered-from-air-france-flight-447.md)
@@ -29,19 +29,19 @@ World whaling body expected to see fierce debate between pro- and anti-whaling c
 
 ##### Congress of France
 ### [ For the first time in 136 years, the Congress of France convenes in the Palace of Versailles to listen to an address by the President of France, Nicolas Sarkozy. ](/news/2009/06/22/for-the-first-time-in-136-years-the-congress-of-france-convenes-in-the-palace-of-versailles-to-listen-to-an-address-by-the-president-of-fr.md)
-_Context: French President, Palace of Versailles, Nicolas Sarkozy, Congress of France_
+_Context: Nicolas Sarkozy, French President, Palace of Versailles, Congress of France_
 
 ##### Zimbabwe
 ### [ Zimbabwe's Prime Minister Morgan Tsvangirai insists the coalition government is tackling the country's dire humanitarian and economic crisis at a talk at Southwark Cathedral in London. ](/news/2009/06/22/zimbabwe-s-prime-minister-morgan-tsvangirai-insists-the-coalition-government-is-tackling-the-country-s-dire-humanitarian-and-economic-crisi.md)
-_Context: Morgan Tsvangirai, Zimbabwe, London, Southwark Cathedral_
+_Context: Zimbabwe, Morgan Tsvangirai, Southwark Cathedral, London_
 
 ##### Conservative Party
 ### [ Conservative MP John Bercow is elected the new Speaker of the House of Commons of the United Kingdom. ](/news/2009/06/22/conservative-mp-john-bercow-is-elected-the-new-speaker-of-the-house-of-commons-of-the-united-kingdom.md)
-_Context: the House of Commons, John Bercow, Speaker of the British House of Commons, MP, Conservative Party, elected_
+_Context: Speaker of the British House of Commons, John Bercow, MP, elected, the House of Commons, Conservative Party_
 
 ##### France
 ### [ French President Nicolas Sarkozy calls for the burqa to be banned in France. ](/news/2009/06/22/french-president-nicolas-sarkozy-calls-for-the-burqa-to-be-banned-in-france.md)
-_Context: French President, burqa, Nicolas Sarkozy, France_
+_Context: French President, Nicolas Sarkozy, burqa, France_
 
 ##### Utegate scandal in Australia
 ### [ The email at the heart of the Utegate scandal in Australia is declared a forgery by Federal Police. ](/news/2009/06/22/the-email-at-the-heart-of-the-utegate-scandal-in-australia-is-declared-a-forgery-by-federal-police.md)

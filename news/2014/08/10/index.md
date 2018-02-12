@@ -9,7 +9,7 @@ A three-day truce comes into effect between Israel and the Palestinians in Gaza,
 
 ##### President of Iraqi Kurdistan
 ### [The President of Iraqi Kurdistan, Massoud Barzani, appeals for international military aid to help defeat Islamist militants. ](/news/2014/08/10/the-president-of-iraqi-kurdistan-massoud-barzani-appeals-for-international-military-aid-to-help-defeat-islamist-militants.md)
-_Context: President of Iraqi Kurdistan, ISIL, Massoud Barzani_
+_Context: Massoud Barzani, President of Iraqi Kurdistan, ISIL_
 
 ##### Typhoon Halong
 ### [Typhoon Halong makes landfall on Shikoku in Japan with warnings of the potential of flooding and landslides with at least 39 people killed and nine injured. ](/news/2014/08/10/typhoon-halong-makes-landfall-on-shikoku-in-japan-with-warnings-of-the-potential-of-flooding-and-landslides-with-at-least-39-people-killed-a.md)

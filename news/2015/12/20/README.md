@@ -9,11 +9,11 @@ A Kenyan police official says an Air France flight from Mauritius to Paris has b
 
 ##### Territorial disputes in the South China Sea
 ### [Vietnam is reported to be preparing for a possible military conflict with China over territorial claims in the South China Sea. ](/news/2015/12/20/vietnam-is-reported-to-be-preparing-for-a-possible-military-conflict-with-china-over-territorial-claims-in-the-south-china-sea.md)
-_Context: China, South China Sea, China-Vietnam relations, Vietnam, Territorial disputes in the South China Sea_
+_Context: South China Sea, Vietnam, China-Vietnam relations, Territorial disputes in the South China Sea, China_
 
 ##### Syrian Civil War
 ### [A missile-strike in Jaramana in southern Syria kills high-ranking Lebanese Hezbollah commander Samir Kuntar and eight National Defence Force (NDF) personnel. The responsibility for the incident taken by the Free Syrian Army, though Hezbollah alleges Israeli involvement. Kuntar was the longest serving Lebanese prisoner in Israel until his release in 2008. On April 22, 1979 Kuntar and his team broke into an apartment building and kidnapped a father, 31-year-old Danny Haran, and his 4-year-old daughter, Einat, taking them to a nearby beach and killing them. ](/news/2015/12/20/a-missile-strike-in-jaramana-in-southern-syria-kills-high-ranking-lebanese-hezbollah-commander-samir-kuntar-and-eight-national-defence-force.md)
-_Context: release in 2008, Syria, Syrian Civil War, Lebanese, Hezbollah, Jaramana, Samir Kuntar, National Defence Force, Israel, Free Syrian Army_
+_Context: Syria, National Defence Force, Israel, Free Syrian Army, Lebanese, release in 2008, Samir Kuntar, Jaramana, Hezbollah, Syrian Civil War_
 
 ##### Runs over pedestrians
 ### [A motorist runs over pedestrians at the Las Vegas Strip between Planet Hollywood and Paris Las Vegas, killing one person and injuring at least 26 more. ](/news/2015/12/20/a-motorist-runs-over-pedestrians-at-the-las-vegas-strip-between-planet-hollywood-and-paris-las-vegas-killing-one-person-and-injuring-at-lea.md)
@@ -29,11 +29,11 @@ More than three thousand people united in a march to mark the closure of Kelling
 
 ##### 2015 Shenzhen landslide
 ### [Thirty-three buildings collapse after a landslide hit an industrial park in Shenzhen, China, leaving at least 91 people missing. ](/news/2015/12/20/thirty-three-buildings-collapse-after-a-landslide-hit-an-industrial-park-in-shenzhen-china-leaving-at-least-91-people-missing.md)
-_Context: China, Shenzhen, 2015 Shenzhen landslide_
+_Context: 2015 Shenzhen landslide, Shenzhen, China_
 
 ##### Svalbard
 ### [An avalanche in Svalbard, a Norwegian Arctic archipelago, kills one and injures nine others as the snow smashes into 10 houses in Longyearbyen. The deluge from Sukkertoppen mountain follows Friday's 60 mph storm that ripped off a school roof and temporarily closed the airport. Dozens of homes at the foot of the mountain were evacuated and all of the area's residents have been located, according to Tone Hertzberg, a spokeswoman for Svalbard's governor. Experts from Norges Geotekniske Institutt are examining nearby slopes. ](/news/2015/12/20/an-avalanche-in-svalbard-a-norwegian-arctic-archipelago-kills-one-and-injures-nine-others-as-the-snow-smashes-into-10-houses-in-longyearby.md)
-_Context: Arctic, archipelago, Longyearbyen, Svalbard, Norway, Norges Geotekniske Institutt_
+_Context: Longyearbyen, Svalbard, archipelago, Arctic, Norway, Norges Geotekniske Institutt_
 
 ##### Ferry
 ### [A ferry ran into trouble in rough seas off the coast of Indonesia's island of Sulawesi, with at least three killed, including two children, 39 rescued, and 77 missing. The New Marina, a fiberglass boat, was reported to be carrying 109 passengers with a crew of 10. The National Search and Rescue Agency says the boat sank 22.5 km (24 miles) off the coast of the Wajo Regency in South Sulawesi. Rescue teams expect to resume their search for the missing, Monday. ](/news/2015/12/20/a-ferry-ran-into-trouble-in-rough-seas-off-the-coast-of-indonesia-s-island-of-sulawesi-with-at-least-three-killed-including-two-children.md)

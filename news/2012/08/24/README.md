@@ -5,7 +5,7 @@ Formats: [HTML](2012/08/24/index.html)  [JSON](2012/08/24/index.json)  [XML](201
 
 ##### Sheikh
 ### [Three people, including a 28-year-old anti-Assad sheikh, are killed in combat between pro-Assad and anti-Assad groups in the Lebanese city of Tripoli. ](/news/2012/08/24/three-people-including-a-28-year-old-anti-assad-sheikh-are-killed-in-combat-between-pro-assad-and-anti-assad-groups-in-the-lebanese-city-o.md)
-_Context: Tripoli, Lebanon, Syria, sheikh, Lebanese, Syrian opposition, combat_
+_Context: combat, Syrian opposition, Syria, sheikh, Tripoli, Lebanon, Lebanese_
 
 ##### War in Afghanistan (2001-present)
 ### [Afghanistan: Insurgents kill four men including three soldiers in the Afghan Army in Paktia Province. ](/news/2012/08/24/afghanistan-insurgents-kill-four-men-including-three-soldiers-in-the-afghan-army-in-paktia-province.md)
@@ -21,7 +21,7 @@ Tropical Storm Isaac dumps rain on eastern Cuba after bringing flood misery to t
 
 ##### Monsoon
 ### [Heavy monsoon rain and floods kill 26 people in Pakistan. ](/news/2012/08/24/heavy-monsoon-rain-and-floods-kill-26-people-in-pakistan.md)
-_Context: flood, Pakistan, monsoon_
+_Context: monsoon, flood, Pakistan_
 
 ##### Yangmingtan Bridge
 ### [The newly-built Yangmingtan Bridge in Harbin City in China collapses, killing three and injuring five people. ](/news/2012/08/24/the-newly-built-yangmingtan-bridge-in-harbin-city-in-china-collapses-killing-three-and-injuring-five-people.md)
@@ -29,7 +29,7 @@ A section of a multi-million dollar bridge in China that opened in November has 
 
 ##### House of Representatives
 ### [The House of Representatives of Japan passes a resolution criticising the President of South Korea Lee Myung-bak's recent visit to the disputed Liancourt Rocks. ](/news/2012/08/24/the-house-of-representatives-of-japan-passes-a-resolution-criticising-the-president-of-south-korea-lee-myung-bak-s-recent-visit-to-the-dispu.md)
-_Context: South Korean President, Lee Myung-bak, House of Representatives, Liancourt Rocks_
+_Context: Lee Myung-bak, South Korean President, Liancourt Rocks, House of Representatives_
 
 ##### Huitzilac, Morelos
 ### [Two U.S. government employees are ambushed and wounded by gunshots near Huitzilac, Morelos, by Mexican Federal Police officers. Details are still unclear. ](/news/2012/08/24/two-u-s-government-employees-are-ambushed-and-wounded-by-gunshots-near-huitzilac-morelos-by-mexican-federal-police-officers-details-are.md)
@@ -41,7 +41,7 @@ Anders Behring Breivik, who killed 77 people in two attacks in Norway last year,
 
 ##### South Korea
 ### [A South Korean court rules that Apple Inc. and Samsung Electronics infringed each other's patents on mobile computing technology. ](/news/2012/08/24/a-south-korean-court-rules-that-apple-inc-and-samsung-electronics-infringed-each-other-s-patents-on-mobile-computing-technology.md)
-_Context: Samsung, Apple Inc., South Korea_
+_Context: Apple Inc., South Korea, Samsung_
 
 ##### California
 ### [A jury in the U.S. state of California rules that Samsung Electronics owes Apple Inc. over US$1 billion for patent infringement. ](/news/2012/08/24/a-jury-in-the-u-s-state-of-california-rules-that-samsung-electronics-owes-apple-inc-over-us-1-billion-for-patent-infringement.md)
@@ -49,7 +49,7 @@ The patent trial of the century is not going well for Samsung; the jury has rule
 
 ##### High Court of Australia
 ### [The High Court of Australia quashes the conviction of former Bundaberg, Queensland surgeon Jayant Patel on manslaughter charges due to a miscarriage of justice with a fresh trial to be held. ](/news/2012/08/24/the-high-court-of-australia-quashes-the-conviction-of-former-bundaberg-queensland-surgeon-jayant-patel-on-manslaughter-charges-due-to-a-mis.md)
-_Context: Bundaberg, Queensland, manslaughter by gross negligence, High Court of Australia, Jayant Patel_
+_Context: High Court of Australia, Bundaberg, Queensland, manslaughter by gross negligence, Jayant Patel_
 
 ##### Kills
 ### [A gunman shoots and kills a former coworker near the Empire State Building in New York City. Following the initial shooting, police kill the gunman, and nine other people are wounded. ](/news/2012/08/24/a-gunman-shoots-and-kills-a-former-coworker-near-the-empire-state-building-in-new-york-city-following-the-initial-shooting-police-kill-the.md)
@@ -57,15 +57,15 @@ _Context: New York City, kills, Empire State Building_
 
 ##### U.S. District Court for the District of Massachusetts
 ### [The U.S. District Court for the District of Massachusetts, in the case "Sony BMG v. Tenenbaum", awards Sony BMG US$675,000 in statutory damages against Joel Tenenbaum, who shared 30 MP3 files through the defunct Kazaa network. ](/news/2012/08/24/the-u-s-district-court-for-the-district-of-massachusetts-in-the-case-sony-bmg-v-tenenbaum-awards-sony-bmg-us-675-000-in-statutory-dama.md)
-_Context: U.S. District Court for the District of Massachusetts, Kazaa, Sony BMG v. Tenenbaum_
+_Context: Kazaa, U.S. District Court for the District of Massachusetts, Sony BMG v. Tenenbaum_
 
 ##### Romania
 ### [A court in Romania, at the request of the Romanian Intelligence Service, expels 8 Palestinians suspected of being involved with Hamas and Hezbollah. ](/news/2012/08/24/a-court-in-romania-at-the-request-of-the-romanian-intelligence-service-expels-8-palestinians-suspected-of-being-involved-with-hamas-and-he.md)
-_Context: Hamas, Hezbollah, Palestinian, Romanian Intelligence Service, Romania_
+_Context: Palestinian, Romanian Intelligence Service, Romania, Hezbollah, Hamas_
 
 ##### Mir-Hossein Mousavi
 ### [Mir-Hossein Mousavi, leader of the Iranian opposition and former Prime Minister, returns home from a hospital after a heart attack. ](/news/2012/08/24/mir-hossein-mousavi-leader-of-the-iranian-opposition-and-former-prime-minister-returns-home-from-a-hospital-after-a-heart-attack.md)
-_Context: Mir-Hossein Mousavi, Prime Minister of Iran, Iranian opposition, reformist_
+_Context: Mir-Hossein Mousavi, reformist, Iranian opposition, Prime Minister of Iran_
 
 ## [Previous Day...](/news/2012/08/23/index.md)
 

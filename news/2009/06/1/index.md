@@ -13,11 +13,11 @@ _Context: Nicaragua, Crdoba banknotes_
 
 ##### Dow Jones & Company
 ### [ Dow Jones & Company will replace Citigroup and General Motors with Travelers Companies and Cisco Systems on its Industrial Average on June 8. ](/news/2009/06/1/dow-jones-company-will-replace-citigroup-and-general-motors-with-travelers-companies-and-cisco-systems-on-its-industrial-average-on-june.md)
-_Context: Travelers Companies, Dow Jones Industrial Average, Dow Jones & Company, June 8, Citigroup, Cisco, General Motors_
+_Context: Cisco, June 8, Travelers Companies, Dow Jones & Company, General Motors, Dow Jones Industrial Average, Citigroup_
 
 ##### Air France
 ### [ Air France Flight 447 disappears over the Atlantic Ocean, near Brazil. ](/news/2009/06/1/air-france-flight-447-disappears-over-the-atlantic-ocean-near-brazil.md)
-_Context: Brazil, crash of Air France Flight 447, Air France, Atlantic Ocean_
+_Context: crash of Air France Flight 447, Air France, Brazil, Atlantic Ocean_
 
 ##### American
 ### [ The United States Congressional Research Service reports that China is aiding the development of Pakistan's program of nuclear weaponry. ](/news/2009/06/1/the-united-states-congressional-research-service-reports-that-china-is-aiding-the-development-of-pakistan-s-program-of-nuclear-weaponry.md)
@@ -25,7 +25,7 @@ China is providing assistance to Pakistan in developing its plutonium-based nucl
 
 ##### General Motors
 ### [ General Motors files for bankruptcy under Chapter 11 of the U.S. Bankruptcy Code. ](/news/2009/06/1/general-motors-files-for-bankruptcy-under-chapter-11-of-the-u-s-bankruptcy-code.md)
-_Context: General Motors, Bankruptcy in the United States, bankruptcy, sells, Chapter 11_
+_Context: Chapter 11, sells, General Motors, Bankruptcy in the United States, bankruptcy_
 
 ##### Taliban
 ### [ The Taliban kidnaps approximately 400 people in North-West Frontier Province, Pakistan. ](/news/2009/06/1/the-taliban-kidnaps-approximately-400-people-in-north-west-frontier-province-pakistan.md)
@@ -33,7 +33,7 @@ Pakistani authorities negotiated on Tuesday for the release of about 200 student
 
 ##### Movement for the Emancipation of the Niger Delta
 ### [ The Movement for the Emancipation of the Niger Delta refuses to release British hostage Matthew Maguire. ](/news/2009/06/1/the-movement-for-the-emancipation-of-the-niger-delta-refuses-to-release-british-hostage-matthew-maguire.md)
-_Context: United Kingdom, Movement for the Emancipation of the Niger Delta, hostage, Niger Delta_
+_Context: Niger Delta, United Kingdom, hostage, Movement for the Emancipation of the Niger Delta_
 
 ##### Military recruitment
 ### [ A man kills one soldier and injures another at a military recruitment center in Little Rock, Arkansas. ](/news/2009/06/1/a-man-kills-one-soldier-and-injures-another-at-a-military-recruitment-center-in-little-rock-arkansas.md)

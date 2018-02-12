@@ -5,7 +5,7 @@ Formats: [HTML](2013/08/22/index.html)  [JSON](2013/08/22/index.json)  [XML](201
 
 ##### Pakistani Taliban
 ### [5 Taliban militants are killed in bomb attack in South Waziristan. ](/news/2013/08/22/5-taliban-militants-are-killed-in-bomb-attack-in-south-waziristan.md)
-_Context: South Waziristan, Pakistani Taliban_
+_Context: Pakistani Taliban, South Waziristan_
 
 ##### Iraq
 ### [Fourteen people are killed by a suicide bomber in a military headquarters in Western Iraq. ](/news/2013/08/22/fourteen-people-are-killed-by-a-suicide-bomber-in-a-military-headquarters-in-western-iraq.md)

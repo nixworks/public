@@ -17,7 +17,7 @@ Gunmen in Nigeria storm an oil barge off the coast, killing two sailors and kidn
 
 ##### Iran
 ### [Iran claims to have successfully test fired a Fateh-110 missile. ](/news/2012/08/4/iran-claims-to-have-successfully-test-fired-a-fateh-110-missile.md)
-_Context: Fateh-110 missile, Iran_
+_Context: Iran, Fateh-110 missile_
 
 ##### North Korea
 ### [North Korea raises the death toll from recent floods to 169, with 400 missing. ](/news/2012/08/4/north-korea-raises-the-death-toll-from-recent-floods-to-169-with-400-missing.md)
@@ -29,11 +29,11 @@ Three jawans of fire services were among six persons killed as torrential rains 
 
 ##### Islam
 ### [Jailed Islamist cleric Abu Bakar Bashir threatens to wage war in Burma following alleged abuses by Buddhists against the country's Rohingya people by the Tatmadaw, in a letter to Burmese president Thein Sein. ](/news/2012/08/4/jailed-islamist-cleric-abu-bakar-bashir-threatens-to-wage-war-in-burma-following-alleged-abuses-by-buddhists-against-the-country-s-rohingya.md)
-_Context: Abu Bakar Bashir, security forces, Burma, Rohingya, Islam, Thein Sein_
+_Context: Islam, security forces, Rohingya, Abu Bakar Bashir, Burma, Thein Sein_
 
 ##### Sudan
 ### [Sudan confirms an oil agreement with neighbouring South Sudan. ](/news/2012/08/4/sudan-confirms-an-oil-agreement-with-neighbouring-south-sudan.md)
-_Context: South Sudan, Sudan_
+_Context: Sudan, South Sudan_
 
 ##### Russia
 ### [The defence lawyer for the Russian band Pussy Riot says the accused face long jail terms, and accuses the court of pressuring the defendants and witnesses. ](/news/2012/08/4/the-defence-lawyer-for-the-russian-band-pussy-riot-says-the-accused-face-long-jail-terms-and-accuses-the-court-of-pressuring-the-defendants.md)

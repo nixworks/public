@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/25/gunfire-is-reported-at-a-central-intelligence-a
 
 ### [2011-09-25](/news/2011/09/25/index.md)
 
-##### Central Intelligence Agency
+##### CIA
 # Gunfire is reported at a Central Intelligence Agency (CIA) compound in the Afghan capital Kabul. 
 
 An Afghan employee kills one US citizen and wounds another before being shot dead at a compound believed to house the CIA station in the Afghan capital, Kabul, officials say.

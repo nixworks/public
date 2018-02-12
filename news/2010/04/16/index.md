@@ -19,7 +19,7 @@ _Context: Israel, Gaza Strip, Palestine_
 
 ##### President
 ### [President of Iran Mahmoud Ahmadinejad writes a letter to President of the United States Barack Obama urging cooperation between the two countries. ](/news/2010/04/16/president-of-iran-mahmoud-ahmadinejad-writes-a-letter-to-president-of-the-united-states-barack-obama-urging-cooperation-between-the-two-coun.md)
-_Context: U.S. President, Mahmoud Ahmadinejad, Barack Obama, President_
+_Context: U.S. President, President, Mahmoud Ahmadinejad, Barack Obama_
 
 ##### Severe storm in India
 ### [Victims of the recent severe storm in India angered by slow government response attack officials and raid an aid storage facility. ](/news/2010/04/16/victims-of-the-recent-severe-storm-in-india-angered-by-slow-government-response-attack-officials-and-raid-an-aid-storage-facility.md)
@@ -27,15 +27,15 @@ _Context: severe storm in India_
 
 ##### Blackwater Worldwide
 ### [Gary Jackson, former president of the US private security firm, Blackwater Worldwide (Xe Services LLC), and four other former workers are indicted on federal weapons charges. ](/news/2010/04/16/gary-jackson-former-president-of-the-us-private-security-firm-blackwater-worldwide-xe-services-llc-and-four-other-former-workers-are-in.md)
-_Context: Xe Services, Blackwater Worldwide, LLC_
+_Context: LLC, Xe Services, Blackwater Worldwide_
 
 ##### Securities and Exchange Commission
 ### [The U.S. Securities and Exchange Commission charges Goldman Sachs with defrauding investors. ](/news/2010/04/16/the-u-s-securities-and-exchange-commission-charges-goldman-sachs-with-defrauding-investors.md)
-_Context: Securities and Exchange Commission, Goldman Sachs_
+_Context: Goldman Sachs, Securities and Exchange Commission_
 
 ##### Israeli Prime Minister
 ### [Former Israeli Prime Minister Ehud Olmert is named as the key suspect in "one of the biggest corruption scandals in Israel's history". ](/news/2010/04/16/former-israeli-prime-minister-ehud-olmert-is-named-as-the-key-suspect-in-one-of-the-biggest-corruption-scandals-in-israel-s-history.md)
-_Context: Israeli Prime Minister, Israel, Ehud Olmert_
+_Context: Israeli Prime Minister, Ehud Olmert, Israel_
 
 ##### United Nations
 ### [The United Nations commission investigating the events and circumstances surrounding the assassination of Benazir Bhutto submits its report which states that the murder was "avoidable" and the inquiry was bungled. ](/news/2010/04/16/the-united-nations-commission-investigating-the-events-and-circumstances-surrounding-the-assassination-of-benazir-bhutto-submits-its-report.md)
@@ -55,11 +55,11 @@ _Context: David Cameron, Nick Clegg, Liberal Democrats, Gordon Brown_
 
 ##### Popular protests
 ### [As a result of popular protests in the north and capital of the country President Kurmanbek Bakiyev officially resigns after he leaves Kyrgyzstan for Kazakhstan. ](/news/2010/04/16/as-a-result-of-popular-protests-in-the-north-and-capital-of-the-country-president-kurmanbek-bakiyev-officially-resigns-after-he-leaves-kyrgy.md)
-_Context: president, Kazakhstan, Kurmanbek Bakiyev, Kyrgyzstan, popular protests_
+_Context: president, Kyrgyzstan, Kurmanbek Bakiyev, popular protests, Kazakhstan_
 
 ##### Sudan
 ### [Vote counting begins in Sudan after the five-day landmark multi-party election. ](/news/2010/04/16/vote-counting-begins-in-sudan-after-the-five-day-landmark-multi-party-election.md)
-_Context: Sudan, post-election protests_
+_Context: post-election protests, Sudan_
 
 ##### Al-Qaeda
 ### [Al-Qaeda reportedly free an Italian couple that they had been holding since December 2009. ](/news/2010/04/16/al-qaeda-reportedly-free-an-italian-couple-that-they-had-been-holding-since-december-2009.md)
@@ -71,7 +71,7 @@ _Context: Mohammad Khatami, Iran_
 
 ##### 2010 BRIC summit
 ### [The 2010 BRIC summit opens in Brasilia amidst growing cooperation and calls for a bigger role. ](/news/2010/04/16/the-2010-bric-summit-opens-in-brasalia-amidst-growing-cooperation-and-calls-for-a-bigger-role.md)
-_Context: Brasilia, 2010 BRIC summit_
+_Context: 2010 BRIC summit, Brasilia_
 
 ##### Arisman Pongruangrong
 ### [Senior red-shirt leader Arisman Pongruangrong climbs down a rope to escape an arrest attempt by Thai security forces laying siege to Thaksin Shinawatra's SC Park Hotel in Bangkok. He urges protesters to leave Ratchaprasong "to avoid being used as human shields". ](/news/2010/04/16/senior-red-shirt-leader-arisman-pongruangrong-climbs-down-a-rope-to-escape-an-arrest-attempt-by-thai-security-forces-laying-siege-to-thaksin.md)
@@ -79,11 +79,11 @@ An anti-government protest leader has evaded arrest in Thailand by scaling down 
 
 ##### United States Secretary of State
 ### [United States Secretary of State Hillary Clinton calls again on Israel and the Palestinians to make a better effort to pursue peace. ](/news/2010/04/16/united-states-secretary-of-state-hillary-clinton-calls-again-on-israel-and-the-palestinians-to-make-a-better-effort-to-pursue-peace.md)
-_Context: Palestine, Israel, Hillary Clinton, United States Secretary of State_
+_Context: Israel, United States Secretary of State, Palestine, Hillary Clinton_
 
 ##### Lady Gaga
 ### [Lady Gaga breaks a YouTube most viewed record, becoming "Queen of YouTube" with more than one billion views. ](/news/2010/04/16/lady-gaga-breaks-a-youtube-most-viewed-record-becoming-queen-of-youtube-with-more-than-one-billion-views.md)
-_Context: YouTube, Lady Gaga_
+_Context: Lady Gaga, YouTube_
 
 ## [Previous Day...](/news/2010/04/15/index.md)
 

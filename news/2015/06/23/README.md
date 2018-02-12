@@ -9,11 +9,11 @@ Islamic extremists ISIL, who were reported on Sunday to have mined the ancient c
 
 ##### South Korea
 ### [South Korean author Shin Kyung-sook admits to plagiarising a short story from Japanese author Yukio Mishima. ](/news/2015/06/23/south-korean-author-shin-kyung-sook-admits-to-plagiarising-a-short-story-from-japanese-author-yukio-mishima.md)
-_Context: South Korea, Shin Kyung-sook, Japan, Yukio Mishima_
+_Context: Japan, South Korea, Shin Kyung-sook, Yukio Mishima_
 
 ##### Australian
 ### [Australian author Sofie Laguna wins the Miles Franklin Award for her novel "The Eye of the Sheep". ](/news/2015/06/23/australian-author-sofie-laguna-wins-the-miles-franklin-award-for-her-novel-the-eye-of-the-sheep.md)
-_Context: Miles Franklin Award, Australian, Sofie Laguna, The Eye of the Sheep_
+_Context: The Eye of the Sheep, Australian, Sofie Laguna, Miles Franklin Award_
 
 ##### Greece
 ### [The deputy speaker of the Greek parliament, Alexis Mitropoulos, warns that the body may reject concessions the government had made to the country's creditors. ](/news/2015/06/23/the-deputy-speaker-of-the-greek-parliament-alexis-mitropoulos-warns-that-the-body-may-reject-concessions-the-government-had-made-to-the-co.md)
@@ -33,7 +33,7 @@ Hungary on Tuesday suspended European Union asylum rules requiring it to take ba
 
 ##### Charleston church shooting
 ### [Amazon.com announces that it is removing Confederate Flag merchandise from sale following the shootings. ](/news/2015/06/23/amazon-com-announces-that-it-is-removing-confederate-flag-merchandise-from-sale-following-the-shootings.md)
-_Context: Confederate Battle Flag, Amazon.com, Charleston church shooting_
+_Context: Amazon.com, Confederate Battle Flag, Charleston church shooting_
 
 ## [Previous Day...](/news/2015/06/22/index.md)
 

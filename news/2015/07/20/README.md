@@ -25,11 +25,11 @@ _Context: Venezuela_
 
 ##### Joint Comprehensive Plan of Action
 ### [The United Nations Security Council unanimously approves the Nuclear Pact between Iran and a group of six world powers in return for sanctions relief. ](/news/2015/07/20/the-united-nations-security-council-unanimously-approves-the-nuclear-pact-between-iran-and-a-group-of-six-world-powers-in-return-for-sanctio.md)
-_Context: Joint Comprehensive Plan of Action, United Nations Security Council, Nuclear Pact, several world powers, Iran_
+_Context: Iran, Nuclear Pact, several world powers, Joint Comprehensive Plan of Action, United Nations Security Council_
 
 ##### American
 ### [The United States and Cuba resume full diplomatic relations after five decades. ](/news/2015/07/20/the-united-states-and-cuba-resume-full-diplomatic-relations-after-five-decades.md)
-_Context: Cuba, Cuba-United States relations, American_
+_Context: Cuba-United States relations, American, Cuba_
 
 ##### Philae
 ### [ The Philae lander on comet 67P-Churyumov-Gerasimenko has lost contact with the European Space Agency (ESA) ground control. ](/news/2015/07/20/the-philae-lander-on-comet-67p-churyumovagerasimenko-has-lost-contact-with-the-european-space-agency-esa-ground-control.md)

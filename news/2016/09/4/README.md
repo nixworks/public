@@ -9,7 +9,7 @@ At least 5 countries issue travel warnings after the Davao City explosion that k
 
 ##### Syrian Civil War
 ### [Syrian government forces advance around and encircle Aleppo in order to try and impose a siege. ](/news/2016/09/4/syrian-government-forces-advance-around-and-encircle-aleppo-in-order-to-try-and-impose-a-siege.md)
-_Context: advance around and encircle, Aleppo, Syrian Civil War, Syrian government_
+_Context: Aleppo, Syrian government, advance around and encircle, Syrian Civil War_
 
 ##### Mother Teresa
 ### [Mother Teresa, known for working with the desperately poor, is canonized in a ceremony at the Vatican. ](/news/2016/09/4/mother-teresa-known-for-working-with-the-desperately-poor-is-canonized-in-a-ceremony-at-the-vatican.md)
@@ -17,7 +17,7 @@ Mother Teresa, revered for her work with the poor in India, is proclaimed a sain
 
 ##### Earthquake
 ### [A 6.0 magnitude earthquake strikes Agusan del Sur province in Mindanao island. ](/news/2016/09/4/a-6-0-magnitude-earthquake-strikes-agusan-del-sur-province-in-mindanao-island.md)
-_Context: Agusan del Sur, Mindanao, earthquake_
+_Context: Mindanao, Agusan del Sur, earthquake_
 
 ##### September 2016 Afghanistan road crash
 ### [At least 35 people die and 25 are injured after a bus crashes into a fuel tanker in Afghanistan's Zabul province. ](/news/2016/09/4/at-least-35-people-die-and-25-are-injured-after-a-bus-crashes-into-a-fuel-tanker-in-afghanistan-s-zabul-province.md)
@@ -33,15 +33,15 @@ The Zika virus behind an outbreak in Singapore was not imported from South Ameri
 
 ##### 2016 U.S. presidential election
 ### [The "Richmond Times-Dispatch" of Virginia is first to endorse Libertarian candidate Gary Johnson for president and the first newspaper media endorsement of a third-party nominee in this election cycle. ](/news/2016/09/4/the-richmond-times-dispatch-of-virginia-is-first-to-endorse-libertarian-candidate-gary-johnson-for-president-and-the-first-newspaper-media.md)
-_Context: Libertarian, Virginia, Richmond Times-Dispatch, Gary Johnson, 2016 U.S. presidential election_
+_Context: Richmond Times-Dispatch, Libertarian, Gary Johnson, Virginia, 2016 U.S. presidential election_
 
 ##### Mecklenburg-Vorpommern state election, 2016
 ### [Voters in the federal German state of Mecklenburg-Vorpommern head to the polls in a regional election to elect members to the Landtag of Mecklenburg-Vorpommern. The latest polling indicates the anti-immigration Alternative for Germany (AfD) are expected to gain strongly. ](/news/2016/09/4/voters-in-the-federal-german-state-of-mecklenburg-vorpommern-head-to-the-polls-in-a-regional-election-to-elect-members-to-the-landtag-of-mec.md)
-_Context: Mecklenburg-Vorpommern, Alternative for Germany, Mecklenburg-Vorpommern state election, 2016, German, Landtag of Mecklenburg-Vorpommern_
+_Context: German, Landtag of Mecklenburg-Vorpommern, Mecklenburg-Vorpommern state election, 2016, Mecklenburg-Vorpommern, Alternative for Germany_
 
 ##### Hong Kong legislative election, 2016
 ### [Voters in Hong Kong go to the polls for a Legislative Council election, the first major election since the 2014 pro-democracy street protests. Several young pro-independence candidates win seats in the election. ](/news/2016/09/4/voters-in-hong-kong-go-to-the-polls-for-a-legislative-council-election-the-first-major-election-since-the-2014-pro-democracy-street-protest.md)
-_Context: 2014 pro-democracy street protests, legislature, Hong Kong, Hong Kong legislative election, 2016_
+_Context: legislature, 2014 pro-democracy street protests, Hong Kong, Hong Kong legislative election, 2016_
 
 ## [Previous Day...](/news/2016/09/3/index.md)
 

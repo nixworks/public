@@ -9,7 +9,7 @@ Formats: [HTML](2017/05/3/index.html)  [JSON](2017/05/3/index.json)  [XML](2017/
 
 ##### Somalia
 ### [Somali Public Works Minister Abbas Abdullahi Sheikh Siraji is shot and killed inside his vehicle by security forces near the Villa Somalia in the capital Mogadishu, after mistaking him for a militant. ](/news/2017/05/3/somali-public-works-minister-abbas-abdullahi-sheikh-siraji-is-shot-and-killed-inside-his-vehicle-by-security-forces-near-the-villa-somalia-i.md)
-_Context: Villa Somalia, Mogadishu, Abbas Abdullahi Sheikh Siraji, Somalia_
+_Context: Somalia, Abbas Abdullahi Sheikh Siraji, Mogadishu, Villa Somalia_
 
 ##### Chicago
 ### [Plans for a Chicago-based presidential library in honour of the former U.S. President Obama are revealed. ](/news/2017/05/3/plans-for-a-chicago-based-presidential-library-in-honour-of-the-former-u-s-president-obama-are-revealed.md)
@@ -25,7 +25,7 @@ They are believed to be 1,800m underground and in danger from volatile gases.
 
 ##### Billerica
 ### [A car crash at an auto auction in Billerica, Massachusetts, kills at least three and injures nine, two critically. ](/news/2017/05/3/a-car-crash-at-an-auto-auction-in-billerica-massachusetts-kills-at-least-three-and-injures-nine-two-critically.md)
-_Context: Billerica, Massachusetts_
+_Context: Massachusetts, Billerica_
 
 ##### Last month's presidential election
 ### [Candidates Marine Le Pen and Emmanuel Macron face off in a debate. ](/news/2017/05/3/candidates-marine-le-pen-and-emmanuel-macron-face-off-in-a-debate.md)

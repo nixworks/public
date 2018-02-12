@@ -5,11 +5,11 @@ Formats: [HTML](2008/04/10/index.html)  [JSON](2008/04/10/index.json)  [XML](200
 
 ##### Anders Lago
 ### [ Mayor Anders Lago of Sdertlje, Sweden, says that his small city of about 80,000 is currently home to nearly 6,000 Iraqis. "More refugees than the United States and Canada together". ](/news/2008/04/10/mayor-anders-lago-of-sodertalje-sweden-says-that-his-small-city-of-about-80-000-is-currently-home-to-nearly-6-000-iraqis-more-refugees.md)
-_Context: American, Canadian, Iraq, Sdertlje, Sweden, Anders Lago, refugee_
+_Context: Canadian, refugee, Iraq, Sweden, American, Anders Lago, Sdertlje_
 
 ##### Frontier Airlines
 ### [ Frontier Airlines files for bankruptcy protection. ](/news/2008/04/10/frontier-airlines-files-for-bankruptcy-protection.md)
-_Context: Frontier Airlines, bankruptcy_
+_Context: bankruptcy, Frontier Airlines_
 
 ##### European Parliament
 ### [ The European Parliament passes a resolution in favor of a boycott of the opening ceremonies of the Beijing Olympiad. ](/news/2008/04/10/the-european-parliament-passes-a-resolution-in-favor-of-a-boycott-of-the-opening-ceremonies-of-the-beijing-olympiad.md)

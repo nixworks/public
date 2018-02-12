@@ -21,7 +21,7 @@ Whitney Houston was unconscious and underwater in a bath when found on Saturday 
 
 ##### David Kelly
 ### [David Kelly, the "grand old man of Irish acting", dies in Dublin. ](/news/2012/02/13/david-kelly-the-grand-old-man-of-irish-acting-dies-in-dublin.md)
-_Context: Dublin, David Kelly_
+_Context: David Kelly, Dublin_
 
 ##### ITV1
 ### [The UK broadcaster ITV1 screens the first ever British advert aimed specifically at dogs. The 60-second commercial for the Bakers dog food brand features high-pitched sounds that cannot be heard by humans, and is a send up of the 1969 film "The Italian Job". ](/news/2012/02/13/the-uk-broadcaster-itv1-screens-the-first-ever-british-advert-aimed-specifically-at-dogs-the-60-second-commercial-for-the-bakers-dog-food-b.md)
@@ -33,11 +33,11 @@ US actor Al Pacino receives the National Medal of Arts at a White House ceremony
 
 ##### Australia and New Zealand Banking Group
 ### [The Australia and New Zealand Banking Group announces plans to cut 1000 jobs in Australia. ](/news/2012/02/13/the-australia-and-new-zealand-banking-group-announces-plans-to-cut-1000-jobs-in-australia.md)
-_Context: Australia, Australia and New Zealand Banking Group_
+_Context: Australia and New Zealand Banking Group, Australia_
 
 ##### Japan
 ### [Japan suffers negative economic growth for the fourth quarter of 2011 making it three out of four quarters that the Japanese economy shrinks. ](/news/2012/02/13/japan-suffers-negative-economic-growth-for-the-fourth-quarter-of-2011-making-it-three-out-of-four-quarters-that-the-japanese-economy-shrinks.md)
-_Context: Economy of Japan, Japan, economic growth_
+_Context: Japan, Economy of Japan, economic growth_
 
 ##### Rangers F.C.
 ### [Rangers F.C. announces an intent to enter administration. ](/news/2012/02/13/rangers-f-c-announces-an-intent-to-enter-administration.md)
@@ -45,7 +45,7 @@ Rangers Football Club lodges legal papers signalling its intention to go into ad
 
 ##### European Union
 ### [The European Union and United States approve Google's $12.5 billion acquisition of smartphone maker Motorola. ](/news/2012/02/13/the-european-union-and-united-states-approve-google-s-12-5-billion-acquisition-of-smartphone-maker-motorola.md)
-_Context: Google, American, smartphone, European Union, Motorola Mobility_
+_Context: European Union, smartphone, Motorola Mobility, Google, American_
 
 ##### Moody's Investors Service
 ### [Moody's Investors Service downgrades the credit ratings of several European Union members including Italy, Malta, Portugal, Slovakia, Slovenia and Spain and issues a negative outlook for the ratings of Austria, France and the United Kingdom. ](/news/2012/02/13/moody-s-investors-service-downgrades-the-credit-ratings-of-several-european-union-members-including-italy-malta-portugal-slovakia-sloven.md)
@@ -57,15 +57,15 @@ _Context: United States Geological Survey, Northern California, Weitchpec, magni
 
 ##### Azerbaijan
 ### [Azerbaijan rejects a claim by Iran that it has been helping Israeli spies in the killing of an Iranian nuclear scientist. ](/news/2012/02/13/azerbaijan-rejects-a-claim-by-iran-that-it-has-been-helping-israeli-spies-in-the-killing-of-an-iranian-nuclear-scientist.md)
-_Context: Israel, Iran, Azerbaijan_
+_Context: Israel, Azerbaijan, Iran_
 
 ##### Prime Minister
 ### [The Prime Minister of Pakistan Yousuf Raza Gilani appears before the Supreme Court of Pakistan to face contempt of court charges. ](/news/2012/02/13/the-prime-minister-of-pakistan-yousuf-raza-gilani-appears-before-the-supreme-court-of-pakistan-to-face-contempt-of-court-charges.md)
-_Context: Yousuf Raza Gilani, Supreme Court, Prime Minister, contempt of court_
+_Context: contempt of court, Yousuf Raza Gilani, Prime Minister, Supreme Court_
 
 ##### Abu Qatada
 ### [Abu Qatada, accused of being one of the United Kingdom's most dangerous preachers of Islamic extremism, is released from prison following a ruling from the European Court of Human Rights last week. ](/news/2012/02/13/abu-qatada-accused-of-being-one-of-the-united-kingdom-s-most-dangerous-preachers-of-islamic-extremism-is-released-from-prison-following-a.md)
-_Context: United Kingdom, Abu Qatada, European Court of Human Rights, Islamic extremist group_
+_Context: Abu Qatada, Islamic extremist group, United Kingdom, European Court of Human Rights_
 
 ##### Turkmenistan
 ### [The president of Turkmenistan, Gurbanguli Berdymukhamedov, wins a new five-year term with 97% of the vote, according to election officials. ](/news/2012/02/13/the-president-of-turkmenistan-gurbanguli-berdymukhamedov-wins-a-new-five-year-term-with-97-of-the-vote-according-to-election-officials.md)
@@ -77,11 +77,11 @@ Governor Christine Gregoire signed legislation on Monday to make Washington stat
 
 ##### New Jersey
 ### [The New Jersey state Senate passes a bill to legalize marriage for same-sex couples by a vote of 24-16. ](/news/2012/02/13/the-new-jersey-state-senate-passes-a-bill-to-legalize-marriage-for-same-sex-couples-by-a-vote-of-24-16.md)
-_Context: allow, New Jersey_
+_Context: New Jersey, allow_
 
 ##### European Space Agency
 ### [The first launch of a new ESA carrier rocket Vega takes place from the Guiana Space Centre. ](/news/2012/02/13/the-first-launch-of-a-new-esa-carrier-rocket-vega-takes-place-from-the-guiana-space-centre.md)
-_Context: Vega, Guiana Space Centre, European Space Agency_
+_Context: Guiana Space Centre, Vega, European Space Agency_
 
 ## [Previous Day...](/news/2012/02/12/index.md)
 

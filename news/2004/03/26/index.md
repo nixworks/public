@@ -5,11 +5,11 @@ Formats: [HTML](2004/03/26/index.html)  [JSON](2004/03/26/index.json)  [XML](200
 
 ##### Lawmakers
 ### [ The United States Congress prepares legislation against peer-to-peer technology on multiple fronts. ](/news/2004/03/26/the-united-states-congress-prepares-legislation-against-peer-to-peer-technology-on-multiple-fronts.md)
-_Context: technology, lawmakers, peer-to-peer_
+_Context: lawmakers, technology, peer-to-peer_
 
 ##### United Nations
 ### [ United Nations electoral experts and security support arrive in Baghdad. ](/news/2004/03/26/united-nations-electoral-experts-and-security-support-arrive-in-baghdad.md)
-_Context: security, expert, United Nations, Baghdad, election_
+_Context: election, security, United Nations, Baghdad, expert_
 
 ##### Tropical cyclone
 ### [ The first South Atlantic hurricane ever recorded forms 275 miles off the coast of Brazil. ](/news/2004/03/26/the-first-south-atlantic-hurricane-ever-recorded-forms-275-miles-off-the-coast-of-brazil.md)
@@ -21,11 +21,11 @@ Lord Carey, the former Archbishop of Canterbury, has launched an attack on Islam
 
 ##### 2004 presidential election
 ### [ ROC presidential election, 2004: The controversial victory of Chen Shui-bian is confirmed by the state electoral commission, with a margin of only 29,518 votes - 0.2% of the total&nbsp;- separating the candidates. Pan-Blue protestors storm and hurl eggs at the Central Electoral Commission building. ](/news/2004/03/26/roc-presidential-election-2004-the-controversial-victory-of-chen-shui-bian-is-confirmed-by-the-state-electoral-commission-with-a-margin.md)
-_Context: Chen Shui-bian, 2004 presidential election, coalition allies_
+_Context: 2004 presidential election, Chen Shui-bian, coalition allies_
 
 ##### Israeli-Palestinian conflict
 ### [ Israeli-Palestinian conflict: The United States vetoes a United Nations Security Council resolution (sponsored by Algeria and Libya) condemning the killing by Israel of Sheikh Ahmed Yassin along with six other Palestinians outside a mosque in Gaza City and calling for a complete cessation of executions. The veto is publicly motivated by the resolution making no mention of suicide bombings committed by Hamas and attributed to Yassin. 11 votes are recorded in favour, with three (United Kingdom, Germany, and Romania) abstaining and one (the United States) against. ](/news/2004/03/26/israeli-palestinian-conflict-the-united-states-vetoes-a-united-nations-security-council-resolution-sponsored-by-algeria-and-libya-condem.md)
-_Context: United Nations Security Council, Israeli-Palestinian conflict, suicide bombing, execution, Palestinians, Israel, Algeria, Ahmed Yassin, Libya, Hamas, Gaza, Romania, Sheikh, mosque_
+_Context: mosque, Hamas, execution, Israel, Sheikh, United Nations Security Council, suicide bombing, Palestinians, Romania, Israeli-Palestinian conflict, Algeria, Libya, Ahmed Yassin, Gaza_
 
 ## [Previous Day...](/news/2004/03/25/index.md)
 

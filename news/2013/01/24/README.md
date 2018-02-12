@@ -9,7 +9,7 @@ Two of the most wanted Islamist rebels in Chechnya were among 13 killed in a sho
 
 ##### Japan Coast Guard
 ### [A Japan Coast Guard ship engages a Taiwanese ship carrying activists bound for the Senkaku Islands. ](/news/2013/01/24/a-japan-coast-guard-ship-engages-a-taiwanese-ship-carrying-activists-bound-for-the-senkaku-islands.md)
-_Context: Senkaku Islands, Taiwan, engages, Japan Coast Guard_
+_Context: engages, Japan Coast Guard, Taiwan, Senkaku Islands_
 
 ##### Malian army
 ### [The Malian army says it is investigating allegations that soldiers have carried out summary executions in the Islamist-controlled north of Mali. ](/news/2013/01/24/the-malian-army-says-it-is-investigating-allegations-that-soldiers-have-carried-out-summary-executions-in-the-islamist-controlled-north-of-m.md)
@@ -21,11 +21,11 @@ British and other foreign nationals are advised to leave the Libyan city of Beng
 
 ##### Government of Ukraine
 ### [The government of Ukraine signs a major $10 billion shale gas deal with Royal Dutch Shell to reduce its dependency on Russian gas imports. ](/news/2013/01/24/the-government-of-ukraine-signs-a-major-10-billion-shale-gas-deal-with-royal-dutch-shell-to-reduce-its-dependency-on-russian-gas-imports.md)
-_Context: Ukraine, Russia, Government of Ukraine, shale gas, Royal Dutch Shell, gas imports_
+_Context: Russia, Ukraine, shale gas, Royal Dutch Shell, gas imports, Government of Ukraine_
 
 ##### Bolivia
 ### [Seventeen people are killed and 34 others are injured in a bus crash near the town of Taperas, Bolivia, along a newly built highway to Brazil. ](/news/2013/01/24/seventeen-people-are-killed-and-34-others-are-injured-in-a-bus-crash-near-the-town-of-taperas-bolivia-along-a-newly-built-highway-to-brazi.md)
-_Context: Brazil, highway, Bolivia_
+_Context: Bolivia, highway, Brazil_
 
 ##### David Headley
 ### [David Headley is sentenced to 35 years in prison for his role in the 2008 Mumbai attacks. ](/news/2013/01/24/david-headley-is-sentenced-to-35-years-in-prison-for-his-role-in-the-2008-mumbai-attacks.md)
@@ -37,11 +37,11 @@ North Korea says it is proceeding with plans for a third nuclear test, two days 
 
 ##### Polish Prime Minister
 ### [Prime Minister of Poland Donald Tusk is hospitalized with an acute infection of the respiratory tract. ](/news/2013/01/24/prime-minister-of-poland-donald-tusk-is-hospitalized-with-an-acute-infection-of-the-respiratory-tract.md)
-_Context: Polish Prime Minister, infection, Donald Tusk, Polish, respiratory tract_
+_Context: Donald Tusk, Polish, infection, respiratory tract, Polish Prime Minister_
 
 ##### European Bioinformatics Institute
 ### [Scientists from the European Bioinformatics Institute in Hinxton, England, successfully use DNA as a means of data storage. ](/news/2013/01/24/scientists-from-the-european-bioinformatics-institute-in-hinxton-england-successfully-use-dna-as-a-means-of-data-storage.md)
-_Context: England, data storage, DNA, European Bioinformatics Institute, Hinxton_
+_Context: England, European Bioinformatics Institute, data storage, DNA, Hinxton_
 
 ## [Previous Day...](/news/2013/01/23/index.md)
 

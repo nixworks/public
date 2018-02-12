@@ -17,7 +17,7 @@ The Vatican clarifies comments by Pope Benedict XVI on condoms, saying he did no
 
 ##### Buckingham Palace
 ### [Buckingham Palace announces the engagement of the Queen's granddaughter Zara Phillips and Rugby Union player Mike Tindall. ](/news/2010/12/21/buckingham-palace-announces-the-engagement-of-the-queen-s-granddaughter-zara-phillips-and-rugby-union-player-mike-tindall.md)
-_Context: Queen Elizabeth, Zara Phillips, Rugby Union, Buckingham Palace, Mike Tindall_
+_Context: Queen Elizabeth, Buckingham Palace, Zara Phillips, Mike Tindall, Rugby Union_
 
 ##### Toyota
 ### [Toyota agrees to pay the US government $32.4 million over its handling of car recalls in 2010 where over 10 million cars were recalled worldwide, over 14 separate recalls. ](/news/2010/12/21/toyota-agrees-to-pay-the-us-government-32-4-million-over-its-handling-of-car-recalls-in-2010-where-over-10-million-cars-were-recalled-world.md)
@@ -33,7 +33,7 @@ _Context: Iran_
 
 ##### Fatah
 ### [Top Fatah members aligned with Palestinian Authority President Mahmoud Abbas asked Israel to attack Hamas ahead of Hamas' violent takeover of the Gaza Strip in 2007, according to a US diplomatic cable published by Wikileaks. ](/news/2010/12/21/top-fatah-members-aligned-with-palestinian-authority-president-mahmoud-abbas-asked-israel-to-attack-hamas-ahead-of-hamasa-violent-takeover.md)
-_Context: seized control of the territory, Mahmoud Abbas, Fatah, Wikileaks, Hamas, Palestinian Authority, Israel_
+_Context: Palestinian Authority, Israel, seized control of the territory, Wikileaks, Hamas, Mahmoud Abbas, Fatah_
 
 ##### Politics of Turkey
 ### [The Turkish government warns US President Barack Obama that a congressional vote on a resolution recognizing the Armenian genocide during World War I will severely damage Turkey-United States relations. ](/news/2010/12/21/the-turkish-government-warns-us-president-barack-obama-that-a-congressional-vote-on-a-resolution-recognizing-the-armenian-genocide-during-wo.md)
@@ -53,7 +53,7 @@ A diplomat at the Russian embassy in London has been sent home after the Foreign
 
 ##### Thailand
 ### [The Thai Cabinet agrees to lift a state of emergency in the capital Bangkok and three surrounding provinces. ](/news/2010/12/21/the-thai-cabinet-agrees-to-lift-a-state-of-emergency-in-the-capital-bangkok-and-three-surrounding-provinces.md)
-_Context: Thailand, Bangkok, state of emergency_
+_Context: Bangkok, state of emergency, Thailand_
 
 ##### Venezuela
 ### [The Venezuelan parliament approves a law tightening rules on internet content. ](/news/2010/12/21/the-venezuelan-parliament-approves-a-law-tightening-rules-on-internet-content.md)
@@ -65,11 +65,11 @@ A university student, who referred to himself in court as the &quot;Crossbow Can
 
 ##### Tuvalu
 ### [Tuvalu Prime Minister Maatia Toafa is ousted in a vote of no confidence, necessitating nominations for a new Prime Minister. ](/news/2010/12/21/tuvalu-prime-minister-maatia-toafa-is-ousted-in-a-vote-of-no-confidence-necessitating-nominations-for-a-new-prime-minister.md)
-_Context: Tuvalu, Prime Minister of Tuvalu, vote of no confidence, Maatia Toafa_
+_Context: Maatia Toafa, Tuvalu, vote of no confidence, Prime Minister of Tuvalu_
 
 ##### Milo Dukanovic
 ### [Milo Dukanovic resigns as Prime Minister of Montenegro. ](/news/2010/12/21/milo-aukanovia-resigns-as-prime-minister-of-montenegro.md)
-_Context: Milo Dukanovic, Montenegro, Prime Minister_
+_Context: Montenegro, Milo Dukanovic, Prime Minister_
 
 ##### Siale'ataonga Tu'ivakano
 ### [Siale'ataonga Tu'ivakano is elected as the Prime Minister of Tonga. ](/news/2010/12/21/siale-ataonga-tu-ivakano-is-elected-as-the-prime-minister-of-tonga.md)

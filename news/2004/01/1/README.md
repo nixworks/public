@@ -5,7 +5,7 @@ Formats: [HTML](2004/01/1/index.html)  [JSON](2004/01/1/index.json)  [XML](2004/
 
 ##### British Airways
 ### [ A British Airways flight from London to Washington, D.C. is canceled one day after the same flight is delayed for three hours on the tarmac at Dulles International Airport for security screening. ](/news/2004/01/1/a-british-airways-flight-from-london-to-washington-d-c-is-canceled-one-day-after-the-same-flight-is-delayed-for-three-hours-on-the-tarmac.md)
-_Context: Dulles International Airport, British Airways_
+_Context: British Airways, Dulles International Airport_
 
 ##### Thirty Year Rule
 ### [ State papers released under Britain's Thirty Year Rule suggest that the United States considered using force to seize oil fields in the Middle East during an oil embargo by Arab states in 1973. ](/news/2004/01/1/state-papers-released-under-britain-s-thirty-year-rule-suggest-that-the-united-states-considered-using-force-to-seize-oil-fields-in-the-mid.md)

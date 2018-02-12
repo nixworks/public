@@ -21,7 +21,7 @@ After only three appearances on the Comedy Central show, a 31-year-old comedian 
 
 ##### Papua New Guinea
 ### [A 7.7 magnitude earthquake off the coast of Papua New Guinea prompts a tsunami warning for Papua New Guinea and the Solomon Islands. ](/news/2015/03/30/a-7-7-magnitude-earthquake-off-the-coast-of-papua-new-guinea-prompts-a-tsunami-warning-for-papua-new-guinea-and-the-solomon-islands.md)
-_Context: tsunami, Papua New Guinea, Solomon Islands_
+_Context: Papua New Guinea, tsunami, Solomon Islands_
 
 ##### U.S. Route 27 in Florida
 ### [A van crash on U.S. Route 27 in Florida near the town of Moore Haven results in 8 deaths and 10 injuries. ](/news/2015/03/30/a-van-crash-on-u-s-route-27-in-florida-near-the-town-of-moore-haven-results-in-8-deaths-and-10-injuries.md)
@@ -37,11 +37,11 @@ Officials say two men dressed as women tried to break through a security gate to
 
 ##### Newly elected
 ### [Queen Elizabeth II dissolves the Parliament and calls a general election for May 7. ](/news/2015/03/30/queen-elizabeth-ii-dissolves-the-parliament-and-calls-a-general-election-for-may-7.md)
-_Context: newly elected, Elizabeth II, Parliament_
+_Context: Elizabeth II, newly elected, Parliament_
 
 ##### Nigerian general election, 2015
 ### [Challenger Muhammadu Buhari leads by two million votes with three-quarters of the states having their votes counted but votes from some of President Goodluck Jonathan's strongest states in the Niger Delta have yet to be counted. ](/news/2015/03/30/challenger-muhammadu-buhari-leads-by-two-million-votes-with-three-quarters-of-the-states-having-their-votes-counted-but-votes-from-some-of-p.md)
-_Context: Goodluck Jonathan, Nigerian general election, 2015, President, Muhammadu Buhari, Niger Delta_
+_Context: President, Muhammadu Buhari, Nigerian general election, 2015, Niger Delta, Goodluck Jonathan_
 
 ## [Previous Day...](/news/2015/03/29/index.md)
 

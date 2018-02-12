@@ -9,11 +9,11 @@ _Context: post-election violence, Kenya_
 
 ##### Taiwan
 ### [ Taiwan's Premier Chang Chun-hsiung remains in office as President Chen Shui-bian rejects his resignation. ](/news/2008/01/27/taiwan-s-premier-chang-chun-hsiung-remains-in-office-as-president-chen-shui-bian-rejects-his-resignation.md)
-_Context: Premier, President, Chang Chun-hsiung, Taiwan, Chen Shui-bian_
+_Context: Taiwan, Chen Shui-bian, President, Premier, Chang Chun-hsiung_
 
 ##### War in Pakistan (2004-present)
 ### [ War in Pakistan (2004-present): Troops close in on Darra Adam Khel in Pakistan after fierce clashes. ](/news/2008/01/27/war-in-pakistan-2004apresent-troops-close-in-on-darra-adam-khel-in-pakistan-after-fierce-clashes.md)
-_Context: Pakistan, War in Pakistan (2004-present), Darra Adam Khel_
+_Context: War in Pakistan (2004-present), Pakistan, Darra Adam Khel_
 
 ##### Novak Dokovic
 ### [ Novak Dokovic wins the men's title of the 2008 Australian Open. ](/news/2008/01/27/novak-aokovia-wins-the-men-s-title-of-the-2008-australian-open.md)

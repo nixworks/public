@@ -13,19 +13,19 @@ _Context: fire, Andover Inn, Liverpool_
 
 ##### Chad
 ### [ Chad orders United States' ChevronTexaco and Malaysia's Petronas out of the country for failing to meet tax obligations. Chadian president, Idriss Dby, stated that Chad, whose new national oil company was to partner with an Exxon Mobil-ChevronTexaco-Petronas consortium, will continue to work with US' Exxon Mobil while attempting to "find a solution with the two other partners." ](/news/2006/08/26/chad-orders-united-states-chevrontexaco-and-malaysia-s-petronas-out-of-the-country-for-failing-to-meet-tax-obligations-chadian-president.md)
-_Context: Exxon Mobil, Chad, American, Petronas, ChevronTexaco, Malaysia, Idriss Dby_
+_Context: Chad, Petronas, ChevronTexaco, Exxon Mobil, American, Malaysia, Idriss Dby_
 
 ##### Israel
 ### [ Eyewitnesses claim that Israel bombed a Reuters armored car in Gaza City. Hospital staff say that two cameramen and three bystanders were injured. ](/news/2006/08/26/eyewitnesses-claim-that-israel-bombed-a-reuters-armored-car-in-gaza-city-hospital-staff-say-that-two-cameramen-and-three-bystanders-were-i.md)
-_Context: Gaza, Reuters, Israel_
+_Context: Reuters, Israel, Gaza_
 
 ##### Pakistan
 ### [ Pakistani security forces kill rebel chieftain Nawab Akbar Bugti in heavy fighting near the town of Dera Bugti in Baluchistan province. At least 25 commandos and 30 insurgents were killed in the fighting. ](/news/2006/08/26/pakistani-security-forces-kill-rebel-chieftain-nawab-akbar-bugti-in-heavy-fighting-near-the-town-of-dera-bugti-in-baluchistan-province-at.md)
-_Context: Pakistan, Balochistan, Dera Bugti, Nawab Akbar Bugti_
+_Context: Pakistan, Dera Bugti, Nawab Akbar Bugti, Balochistan_
 
 ##### NASA
 ### [ NASA delays the launch of the Space Shuttle "Atlantis" (STS-115) for 24 hours. Lightning struck the space shuttle launch pad on Friday but no damage was caused. ](/news/2006/08/26/nasa-delays-the-launch-of-the-space-shuttle-atlantis-sts-115-for-24-hours-lightning-struck-the-space-shuttle-launch-pad-on-friday-but.md)
-_Context: Space Shuttle Atlantis, Lightning, STS-115, NASA_
+_Context: STS-115, Space Shuttle Atlantis, NASA, Lightning_
 
 ##### Uganda
 ### [ Ugandan government and rebel group Lord's Resistance Army sign a truce, in efforts to end the 20-year conflict. ](/news/2006/08/26/ugandan-government-and-rebel-group-lord-s-resistance-army-sign-a-truce-in-efforts-to-end-the-20-year-conflict.md)

@@ -25,7 +25,7 @@ _Context: Will Rogers World Airport, Oklahoma City, emergency condition_
 
 ##### Stabbed
 ### [Six students, including the suspect, are stabbed at Mountain View High School in Orem, Utah. The suspect is taken into custody, and there are no reports of life threatening injuries. ](/news/2016/11/15/six-students-including-the-suspect-are-stabbed-at-mountain-view-high-school-in-orem-utah-the-suspect-is-taken-into-custody-and-there-ar.md)
-_Context: Mountain View High School, stabbed, Orem, Utah_
+_Context: Orem, Utah, Mountain View High School, stabbed_
 
 ##### Anchorage, Alaska
 ### [Police in Anchorage, Alaska link a gun that a suspect used in the attempted murder of a police officer, to five unsolved homicides in the city which occurred over the summer. The suspect was killed during the murder attempt. ](/news/2016/11/15/police-in-anchorage-alaska-link-a-gun-that-a-suspect-used-in-the-attempted-murder-of-a-police-officer-to-five-unsolved-homicides-in-the-ci.md)
@@ -33,7 +33,7 @@ A gun used to shoot a police officer Saturday morning was the same weapon used i
 
 ##### Sandy Hook Elementary School shootings
 ### [The families of those killed in the Sandy Hook Elementary School shootings of 2012 ask the Connecticut Supreme Court to reverse a lower court dismissal of their lawsuit against Remington Arms, maker of the Bushmaster rifle used by murderer Adam Lanza. ](/news/2016/11/15/the-families-of-those-killed-in-the-sandy-hook-elementary-school-shootings-of-2012-ask-the-connecticut-supreme-court-to-reverse-a-lower-cour.md)
-_Context: Connecticut Supreme Court, Adam Lanza, Bushmaster rifle, Remington Arms, Sandy Hook Elementary School shootings_
+_Context: Adam Lanza, Sandy Hook Elementary School shootings, Remington Arms, Connecticut Supreme Court, Bushmaster rifle_
 
 ##### Court of cassation
 ### [Egypt's court of cassation overturns the death sentence on Mohamed Morsi and five other members of the Muslim Brotherhood. The court orders a retrial of six men for their roles in releasing the prisoners from the Wadi el-Natrun prison. ](/news/2016/11/15/egypt-s-court-of-cassation-overturns-the-death-sentence-on-mohamed-morsi-and-five-other-members-of-the-muslim-brotherhood-the-court-orders.md)

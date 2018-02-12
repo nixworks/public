@@ -29,11 +29,11 @@ Tens of thousands of public sector workers demonstrate in the Romanian capital t
 
 ##### Pakistan Telecommunication Authority
 ### [Pakistan Telecommunication Authority acting on orders from Lahore High court blocks access to Facebook in the country until May 31 due to a Facebook group encouraging drawings of the Prophet Mohammed on May 20, labeled as Everybody Draw Mohammed Day. ](/news/2010/05/19/pakistan-telecommunication-authority-acting-on-orders-from-lahore-high-court-blocks-access-to-facebook-in-the-country-until-may-31-due-to-a.md)
-_Context: Pakistan Telecommunication Authority, Mohammed, Everybody Draw Mohammed Day, Facebook, Lahore High court_
+_Context: Lahore High court, Pakistan Telecommunication Authority, Facebook, Mohammed, Everybody Draw Mohammed Day_
 
 ##### Ukraine
 ### [Ukraine and China are interested in cooperation in cargo transportation sphere. Konstyantyn Hryshchenko says this at the joint news conference with Foreign Minister of China Yang Jiechi. ](/news/2010/05/19/ukraine-and-china-are-interested-in-cooperation-in-cargo-transportation-sphere-konstyantyn-hryshchenko-says-this-at-the-joint-news-conferen.md)
-_Context: Yang, Konstyantyn Hryshchenko, Foreign Minister of China, Ukraine, China_
+_Context: Yang, Konstyantyn Hryshchenko, Ukraine, China, Foreign Minister of China_
 
 ##### Shanxi Province
 ### [10 people are confirmed dead and one is missing after a coal mine gas explosion Tuesday in north China's Shanxi Province ](/news/2010/05/19/10-people-are-confirmed-dead-and-one-is-missing-after-a-coal-mine-gas-explosion-tuesday-in-north-china-s-shanxi-province.md)
@@ -45,7 +45,7 @@ _Context: CNETCC, National Computer Network Emergency Response Center of China_
 
 ##### Yandex
 ### [Yandex, Russia's largest search engine and the eighth-largest in the world, launches an English language search engine. ](/news/2010/05/19/yandex-russia-s-largest-search-engine-and-the-eighth-largest-in-the-world-launches-an-english-language-search-engine.md)
-_Context: Russia, Yandex, search engine, English_
+_Context: Russia, English, Yandex, search engine_
 
 ## [Previous Day...](/news/2010/05/18/index.md)
 

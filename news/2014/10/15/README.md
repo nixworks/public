@@ -25,7 +25,7 @@ A second healthcare worker involved in the care of America&#039;s first Ebola pa
 
 ##### Jerusalem
 ### [3 police officers are injured in Jerusalem as Israeli riot police and Palestinian protesters clash before a Jewish festival. ](/news/2014/10/15/3-police-officers-are-injured-in-jerusalem-as-israeli-riot-police-and-palestinian-protesters-clash-before-a-jewish-festival.md)
-_Context: Jerusalem, Palestinian, Israelis, Jewish_
+_Context: Palestinian, Jewish, Jerusalem, Israelis_
 
 ##### 2014 pro-democracy street protests
 ### [Violent clashes between police and protesters occur in central Hong Kong as protesters attempt to barricade a major road. ](/news/2014/10/15/violent-clashes-between-police-and-protesters-occur-in-central-hong-kong-as-protesters-attempt-to-barricade-a-major-road.md)
@@ -37,7 +37,7 @@ Nicola Sturgeon will succeed Alex Salmond as SNP leader and first minister, afte
 
 ##### Saudi Arabia
 ### [Popular Saudi Shia Sheikh Nimr al-Nimr sentenced to death by Saudi court that tries terrorists and human rights activists. ](/news/2014/10/15/popular-saudi-shia-sheikh-nimr-al-nimr-sentenced-to-death-by-saudi-court-that-tries-terrorists-and-human-rights-activists.md)
-_Context: Shia, Saudi court, Saudi Arabia, Nimr al-Nimr_
+_Context: Saudi Arabia, Saudi court, Nimr al-Nimr, Shia_
 
 ## [Previous Day...](/news/2014/10/14/index.md)
 

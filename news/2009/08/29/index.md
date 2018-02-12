@@ -21,11 +21,11 @@ _Context: North Korea, Northern Limit Line, South Korea_
 
 ##### Peacekeeping mission
 ### [ Two civilian members of the UNAMID peacekeeping force are kidnapped by armed men in Darfur, Sudan. ](/news/2009/08/29/two-civilian-members-of-the-unamid-peacekeeping-force-are-kidnapped-by-armed-men-in-darfur-sudan.md)
-_Context: peacekeeping mission, Sudan, Darfur_
+_Context: Darfur, peacekeeping mission, Sudan_
 
 ##### American
 ### [ Seven people are found dead in the US state of Georgia and two are seriously wounded in one of the worst slayings in the state in 25 years.](/news/2009/08/29/seven-people-are-found-dead-in-the-us-state-of-georgia-and-two-are-seriously-wounded-in-one-of-the-worst-slayings-in-the-state-in-25-years.md)
-_Context: American, worst slayings_
+_Context: worst slayings, American_
 
 ## [Previous Day...](/news/2009/08/28/index.md)
 

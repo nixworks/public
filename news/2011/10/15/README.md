@@ -5,7 +5,7 @@ Formats: [HTML](2011/10/15/index.html)  [JSON](2011/10/15/index.json)  [XML](201
 
 ##### 2011 Yemeni protests
 ### [2011 Yemeni protests: At least nine people are killed and dozens injured in the Yemeni capital Sana'a after security forces use tear gas and live ammunition to disperse anti-government protesters. ](/news/2011/10/15/2011-yemeni-protests-at-least-nine-people-are-killed-and-dozens-injured-in-the-yemeni-capital-sana-a-after-security-forces-use-tear-gas-and.md)
-_Context: tear gas, Yemen, 2011 Yemeni protests, Sana'a_
+_Context: Sana'a, tear gas, Yemen, 2011 Yemeni protests_
 
 ##### Yemen
 ### [Yemeni officials report that Ibrahim al-Banna, the media chief of Al-Qaeda in the Arabian Peninsula, has been killed along with six other militants in a Friday air strike in Yemen's Shabwa Governorate. ](/news/2011/10/15/yemeni-officials-report-that-ibrahim-al-banna-the-media-chief-of-al-qaeda-in-the-arabian-peninsula-has-been-killed-along-with-six-other-mi.md)

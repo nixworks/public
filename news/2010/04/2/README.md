@@ -17,11 +17,11 @@ _Context: Shanxi province_
 
 ##### Brazil
 ### [Brazilian land reform activist Pedro Alcantara de Souza is fatally shot five times in the head by two men on motorcycles as he tries to ride his own bicycle in Par. ](/news/2010/04/2/brazilian-land-reform-activist-pedro-alcantara-de-souza-is-fatally-shot-five-times-in-the-head-by-two-men-on-motorcycles-as-he-tries-to-ride.md)
-_Context: Par, Pedro Alcantara de Souza, Brazil_
+_Context: Brazil, Par, Pedro Alcantara de Souza_
 
 ##### Soyuz TMA-18
 ### [Soyuz TMA-18 is launched from the Baikonur Cosmodrome, carrying three members of the Expedition 23 crew of the International Space Station. ](/news/2010/04/2/soyuz-tma-18-is-launched-from-the-baikonur-cosmodrome-carrying-three-members-of-the-expedition-23-crew-of-the-international-space-station.md)
-_Context: International Space Station, Baikonur Cosmodrome, Expedition 23, Soyuz TMA-18_
+_Context: Soyuz TMA-18, Baikonur Cosmodrome, Expedition 23, International Space Station_
 
 ##### New York City subway
 ### [3 men are charged with murder in the fatal stabbings of two men on a New York City subway over the weekend. ](/news/2010/04/2/3-men-are-charged-with-murder-in-the-fatal-stabbings-of-two-men-on-a-new-york-city-subway-over-the-weekend.md)
@@ -29,7 +29,7 @@ _Context: New York City subway_
 
 ##### New England
 ### [Record rains cause flooding across New England, with Rhode Island hit the hardest. Federal Emergency Management Agency (FEMA) officials say as many as 200,000 people in Rhode Island could be affected. President Barack Obama talks to Governor Don Carcieri about the damage. ](/news/2010/04/2/record-rains-cause-flooding-across-new-england-with-rhode-island-hit-the-hardest-federal-emergency-management-agency-fema-officials-say.md)
-_Context: federal aid, Don Carcieri, U.S. President, Rhode Island Governor, New England, Barack Obama, Rhode Island_
+_Context: federal aid, New England, Rhode Island Governor, U.S. President, Rhode Island, Don Carcieri, Barack Obama_
 
 ##### Limerick
 ### [Limerick pubs break with tradition by opening on Good Friday following the recent landmark court ruling. ](/news/2010/04/2/limerick-pubs-break-with-tradition-by-opening-on-good-friday-following-the-recent-landmark-court-ruling.md)

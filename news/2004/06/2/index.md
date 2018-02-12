@@ -9,7 +9,7 @@ Médecins Sans Frontières (MSF) is an international, independent, medical human
 
 ##### United States Air Force Academy
 ### [ In a speech given at the United States Air Force Academy, President Bush compares the present War on Terrorism in the Middle East to World War&nbsp;II in Europe. ](/news/2004/06/2/in-a-speech-given-at-the-united-states-air-force-academy-president-bush-compares-the-present-war-on-terrorism-in-the-middle-east-to-world.md)
-_Context: United States Air Force Academy, World War&nbsp;II, Middle East, War on Terrorism, George W. Bush_
+_Context: United States Air Force Academy, World War&nbsp;II, George W. Bush, Middle East, War on Terrorism_
 
 ##### Zhou Zhengyi
 ### [ Zhou Zhengyi, the 11th richest businessman in mainland China, is given a three-year jail sentence for stock market fraud. ](/news/2004/06/2/zhou-zhengyi-the-11th-richest-businessman-in-mainland-china-is-given-a-three-year-jail-sentence-for-stock-market-fraud.md)
@@ -17,7 +17,7 @@ _Context: Zhou Zhengyi, mainland China_
 
 ##### Fetish
 ### [ Norman Hutchins, who has a fetish for surgical masks becomes the first person in history to be banned from all British hospitals. ](/news/2004/06/2/norman-hutchins-who-has-a-fetish-for-surgical-masks-becomes-the-first-person-in-history-to-be-banned-from-all-british-hospitals.md)
-_Context: fetish, hospital, surgical mask_
+_Context: surgical mask, hospital, fetish_
 
 ##### Scaled Composites
 ### [ Scaled Composites announces that the world's first private manned space flight is scheduled for June 21, 2004. ](/news/2004/06/2/scaled-composites-announces-that-the-world-s-first-private-manned-space-flight-is-scheduled-for-june-21-2004.md)

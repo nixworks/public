@@ -17,11 +17,11 @@ _Context: Thailand, Bhumibol Adulyadej, King_
 
 ##### Ravine
 ### [A bus plunges over a ravine in Brazil's SGBPo Paulo state, resulting in at least 18 people killed and 28 injured. ](/news/2016/06/9/a-bus-plunges-over-a-ravine-in-brazil-s-sagbpo-paulo-state-resulting-in-at-least-18-people-killed-and-28-injured.md)
-_Context: SGBPo Paulo, ravine, Brazil_
+_Context: SGBPo Paulo, Brazil, ravine_
 
 ##### Northrop F-5
 ### [A Northrop F-5 of the Swiss Air Force crashes during an air show at the Leeuwarden Air Base in the Netherlands. ](/news/2016/06/9/a-northrop-f-5-of-the-swiss-air-force-crashes-during-an-air-show-at-the-leeuwarden-air-base-in-the-netherlands.md)
-_Context: air show, Northrop F-5, Netherlands, Leeuwarden Air Base, Swiss Air Force_
+_Context: air show, Swiss Air Force, Leeuwarden Air Base, Netherlands, Northrop F-5_
 
 ##### Small plane
 ### [Three people aboard a small plane are killed when the aircraft crashes into a parked car near the Houston, Texas, Hobby Airport. ](/news/2016/06/9/three-people-aboard-a-small-plane-are-killed-when-the-aircraft-crashes-into-a-parked-car-near-the-houston-texas-hobby-airport.md)
@@ -61,7 +61,7 @@ The University of Papua New Guinea obtains an injunction to stop protests, after
 
 ##### United States Court of Appeals for the Ninth Circuit
 ### [The 9th U.S. Circuit Court of Appeals rules there is no Second Amendment protection for concealed weapons, upholding a California law that does not consider "general self-defense" sufficient for a license. ](/news/2016/06/9/the-9th-u-s-circuit-court-of-appeals-rules-there-is-no-second-amendment-protection-for-concealed-weapons-upholding-a-california-law-that-d.md)
-_Context: general self-defense, concealed weapons, Second Amendment, California, United States Court of Appeals for the Ninth Circuit_
+_Context: general self-defense, concealed weapons, California, United States Court of Appeals for the Ninth Circuit, Second Amendment_
 
 ##### Venezuela
 ### [Venezuelan opposition lawmaker, Julio Borges, is left bloodied after being hit in the face with a pipe in downtown Caracas. He spoke at a press conference after the attack with blood streaming down from his nose and mouth, and bloody stains on his button-down shirt, accusing the attackers of being supporters of President Nicolas Maduro. ](/news/2016/06/9/venezuelan-opposition-lawmaker-julio-borges-is-left-bloodied-after-being-hit-in-the-face-with-a-pipe-in-downtown-caracas-he-spoke-at-a-pr.md)

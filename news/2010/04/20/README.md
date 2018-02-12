@@ -17,7 +17,7 @@ The oil rig that exploded and then sank 36 hours later could lead to a major oil
 
 ##### Bishop of Augsburg
 ### [Bishop of Augsburg Walter Mixa apologises and asks for forgiveness for his physical abuse of children in the 1970s and 1980s. ](/news/2010/04/20/bishop-of-augsburg-walter-mixa-apologises-and-asks-for-forgiveness-for-his-physical-abuse-of-children-in-the-1970s-and-1980s.md)
-_Context: Bishop of Augsburg, Walter Mixa_
+_Context: Walter Mixa, Bishop of Augsburg_
 
 ##### Reynaldo Bignone
 ### [82-year-old General Reynaldo Bignone, former military ruler of Argentina, is imprisoned for 25 years for abductions and tortures committed between 1978 and 1979. ](/news/2010/04/20/82-year-old-general-reynaldo-bignone-former-military-ruler-of-argentina-is-imprisoned-for-25-years-for-abductions-and-tortures-committed-b.md)
@@ -33,11 +33,11 @@ _Context: Cairo_
 
 ##### Omar al-Bashir
 ### [Omar al-Bashir's ruling party agrees to accept the results of the recent general election in Sudan. ](/news/2010/04/20/omar-al-bashir-s-ruling-party-agrees-to-accept-the-results-of-the-recent-general-election-in-sudan.md)
-_Context: post-election protests, Sudan, Omar al-Bashir_
+_Context: post-election protests, Omar al-Bashir, Sudan_
 
 ##### Palestine
 ### [Palestinian officials say they will oppose new Israeli orders on deporting Palestinians from the West Bank. ](/news/2010/04/20/palestinian-officials-say-they-will-oppose-new-israeli-orders-on-deporting-palestinians-from-the-west-bank.md)
-_Context: Palestine, Israel, West Bank_
+_Context: Palestine, West Bank, Israel_
 
 ##### An earthquake struck on 14 April
 ### [The Yushu earthquake death toll rises to 2,046. ](/news/2010/04/20/the-yushu-earthquake-death-toll-rises-to-2-046.md)
@@ -57,15 +57,15 @@ Britain has been accused of complicity in the torture of Taliban suspects arrest
 
 ##### Kandahar
 ### [Deputy Mayor of Kandahar Azizollah Yarmal, Afghanistan is shot dead while praying at a mosque. ](/news/2010/04/20/deputy-mayor-of-kandahar-azizollah-yarmal-afghanistan-is-shot-dead-while-praying-at-a-mosque.md)
-_Context: Azizollah Yarmal, Afghanistan, Kandahar, mosque_
+_Context: mosque, Azizollah Yarmal, Afghanistan, Kandahar_
 
 ##### Sri Lanka
 ### [Repeat polls for Sri Lanka's April parliamentary election are held in Nawalapitiya and Trincomalee where ballots were annulled due to violence. ](/news/2010/04/20/repeat-polls-for-sri-lanka-s-april-parliamentary-election-are-held-in-nawalapitiya-and-trincomalee-where-ballots-were-annulled-due-to-violen.md)
-_Context: Sri Lanka, Nawalapitiya, Trincomalee, parliamentary election_
+_Context: parliamentary election, Sri Lanka, Nawalapitiya, Trincomalee_
 
 ##### U.S. President
 ### [President of the United States Barack Obama speaks of the "unbreakable bonds" and "special relationship" between his country and Israel on the 62nd anniversary of Israel's birth. ](/news/2010/04/20/president-of-the-united-states-barack-obama-speaks-of-the-unbreakable-bonds-and-special-relationship-between-his-country-and-israel-on-t.md)
-_Context: Israel, Barack Obama, U.S. President_
+_Context: Israel, U.S. President, Barack Obama_
 
 ##### United States Supreme Court
 ### [The United States Supreme Court, in ruling on "United States v. Stevens", strikes down a law outlawing videos that depict animal cruelty. ](/news/2010/04/20/the-united-states-supreme-court-in-ruling-on-united-states-v-stevens-strikes-down-a-law-outlawing-videos-that-depict-animal-cruelty.md)
@@ -77,7 +77,7 @@ Two Canadian men may face charges of flag desecration and vandalism in Californi
 
 ##### Kaduna
 ### [Two prisoners are killed and several others are injured during an attempted jail break in Kaduna, Nigeria. ](/news/2010/04/20/two-prisoners-are-killed-and-several-others-are-injured-during-an-attempted-jail-break-in-kaduna-nigeria.md)
-_Context: Kaduna, Nigeria_
+_Context: Nigeria, Kaduna_
 
 ##### Rwanda
 ### [Two high-ranking officers are suspended from Rwanda's military and arrested; Maj-Gen Charles Muhire is accused of corruption and misuse of office, whilst Lt-Gen Karenzi Karake is accused of immoral conduct. ](/news/2010/04/20/two-high-ranking-officers-are-suspended-from-rwanda-s-military-and-arrested-maj-gen-charles-muhire-is-accused-of-corruption-and-misuse-of-o.md)

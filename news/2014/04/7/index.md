@@ -9,7 +9,7 @@ Russian soldier shoots dead naval officer in Crimea, defence ministry says
 
 ##### Finance Minister
 ### [The Finance Minister of France, Michel Sapin, says that his country is committed to both budget cuts and growth, and willing to make "tough brave" decisions. ](/news/2014/04/7/the-finance-minister-of-france-michel-sapin-says-that-his-country-is-committed-to-both-budget-cuts-and-growth-and-willing-to-make-tough.md)
-_Context: Michel Sapin, Finance Minister, France_
+_Context: Finance Minister, Michel Sapin, France_
 
 ##### President
 ### [The President of Ireland, Michael D. Higgins, arrives in the United Kingdom for a state visit, the first to the UK by an Irish Head of State. ](/news/2014/04/7/the-president-of-ireland-michael-d-higgins-arrives-in-the-united-kingdom-for-a-state-visit-the-first-to-the-uk-by-an-irish-head-of-state.md)

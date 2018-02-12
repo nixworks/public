@@ -9,7 +9,7 @@ At least 73 people have been killed in a series of bomb attacks in central Iraq,
 
 ##### Women's rights
 ### [A Thailand-based women's rights group accuses Myanmar of using rape as a weapon of war. ](/news/2014/01/15/a-thailand-based-women-s-rights-group-accuses-myanmar-of-using-rape-as-a-weapon-of-war.md)
-_Context: rape as a weapon of war, Myanmar, women's rights_
+_Context: rape as a weapon of war, women's rights, Myanmar_
 
 ##### Westerners
 ### [Western and Arab countries pledge to give an additional US$1.4 billion for United Nations aid. ](/news/2014/01/15/western-and-arab-countries-pledge-to-give-an-additional-us-1-4-billion-for-united-nations-aid.md)
@@ -29,7 +29,7 @@ A hemet-mounted camera worn by a firefighter may provide answers in the death of
 
 ##### LGBT rights
 ### [An anti-LGBT rights law that makes gay marriage punishable by up to 14 years in prison is passed in Nigeria. ](/news/2014/01/15/an-anti-lgbt-rights-law-that-makes-gay-marriage-punishable-by-up-to-14-years-in-prison-is-passed-in-nigeria.md)
-_Context: gay marriage, Nigeria, LGBT rights_
+_Context: gay marriage, LGBT rights, Nigeria_
 
 ##### Italy
 ### [Italy says that it will use the Italian Army against the mafia who are accused of dumping toxic waste in Naples. ](/news/2014/01/15/italy-says-that-it-will-use-the-italian-army-against-the-mafia-who-are-accused-of-dumping-toxic-waste-in-naples.md)
@@ -39,13 +39,13 @@ The Italian government is considering using the army to deal with mafia in Naple
 ### [A Danish tourist is gang-raped in Delhi, India after she was lost from her hotel. ](/news/2014/01/15/a-danish-tourist-is-gang-raped-in-delhi-india-after-she-was-lost-from-her-hotel.md)
 The woman said she was assaulted after approaching a group of men Tuesday to ask for directions to her hotel, according to the police.
 
-##### National Security Agency
+##### NSA
 ### [The National Security Agency uses radio waves to spy on computers. ](/news/2014/01/15/the-national-security-agency-uses-radio-waves-to-spy-on-computers.md)
 The agency has put software in thousands of computers that allows for surveillance and can also create a path for launching cyberattacks, according to documents, experts and officials.
 
 ##### Egyptians
 ### [Egyptians vote on a constitution that will ban political parties based on religion, give women equal rights and protect the status of minority Coptic Christians. ](/news/2014/01/15/egyptians-vote-on-a-constitution-that-will-ban-political-parties-based-on-religion-give-women-equal-rights-and-protect-the-status-of-minori.md)
-_Context: Egyptians, Coptic, political parties based on religion, women's rights_
+_Context: women's rights, Egyptians, Coptic, political parties based on religion_
 
 ##### Bangkok
 ### [Thai protesters continue to shutdown Bangkok in order to force Yingluck to step down. ](/news/2014/01/15/thai-protesters-continue-to-shutdown-bangkok-in-order-to-force-yingluck-to-step-down.md)

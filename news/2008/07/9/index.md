@@ -5,27 +5,27 @@ Formats: [HTML](2008/07/9/index.html)  [JSON](2008/07/9/index.json)  [XML](2008/
 
 ##### John McCain
 ### [ Questioned about conspiratorial ties at a town hall meeting in Portsmouth, Ohio, Senator John McCain does not deny he was president of the New Citizenship Project (forerunner of the neo-conservative Project for the New American Century). Instead he states his pride in the 9-11 Commission. ](/news/2008/07/9/questioned-about-conspiratorial-ties-at-a-town-hall-meeting-in-portsmouth-ohio-senator-john-mccain-does-not-deny-he-was-president-of-the.md)
-_Context: Project for the New American Century, John McCain, neo-conservative, 9/11 Commission, New Citizenship Project_
+_Context: neo-conservative, Project for the New American Century, John McCain, 9/11 Commission, New Citizenship Project_
 
 ##### India
 ### [ India formally submits the nuclear safeguards agreement to IAEA to implement the United States-India Peaceful Atomic Energy Cooperation Act. ](/news/2008/07/9/india-formally-submits-the-nuclear-safeguards-agreement-to-iaea-to-implement-the-united-states-india-peaceful-atomic-energy-cooperation-act.md)
-_Context: India, United States-India Peaceful Atomic Energy Cooperation Act, IAEA_
+_Context: United States-India Peaceful Atomic Energy Cooperation Act, India, IAEA_
 
 ##### Senator
 ### [ The Senate of the United States approves legislation overhauling the rules for eavesdropping and offering immunity to telecom companies who may have violated wiretapping and privacy laws after the September 11, 2001 attacks. ](/news/2008/07/9/the-senate-of-the-united-states-approves-legislation-overhauling-the-rules-for-eavesdropping-and-offering-immunity-to-telecom-companies-who.md)
-_Context: eavesdropping, wiretapped, Senator, September 11, 2001 attacks, privacy, telecom_
+_Context: eavesdropping, telecom, September 11, 2001 attacks, wiretapped, Senator, privacy_
 
 ##### Peacekeepers
 ### [ Five peacekeepers are killed and another 17 missing following an ambush on a patrol by the joint United Nations-African Union peacekeeping mission in Darfur. ](/news/2008/07/9/five-peacekeepers-are-killed-and-another-17-missing-following-an-ambush-on-a-patrol-by-the-joint-united-nations-african-union-peacekeeping.md)
-_Context: United Nations, African Union, peacekeepers, Darfur_
+_Context: African Union, United Nations, peacekeepers, Darfur_
 
 ##### Turkish police
 ### [ Three members of the Turkish police force are killed during an armed attack on the United States consulate in Istanbul with three attackers also dead. The US ambassador states that it is an "obvious case of terrorism". ](/news/2008/07/9/three-members-of-the-turkish-police-force-are-killed-during-an-armed-attack-on-the-united-states-consulate-in-istanbul-with-three-attackers.md)
-_Context: Turkish police, armed attack, Istanbul, American_
+_Context: American, Istanbul, Turkish police, armed attack_
 
 ##### Iran
 ### [ Iran test-fires nine long- and medium-range missiles, including the Shahab-3. ](/news/2008/07/9/iran-test-fires-nine-long-and-medium-range-missiles-including-the-shahab-3.md)
-_Context: test-fires, missile, Shahab-3, Iran_
+_Context: missile, Iran, Shahab-3, test-fires_
 
 ##### Potos
 ### [ A road crash near Potos in southern Bolivia leaves at least 47 dead. It is unclear if the vehicle was a bus or a truck. ](/news/2008/07/9/a-road-crash-near-potosi-in-southern-bolivia-leaves-at-least-47-dead-it-is-unclear-if-the-vehicle-was-a-bus-or-a-truck.md)
@@ -33,7 +33,7 @@ At least 47 people, including 12 children, have been killed in Bolivia after a b
 
 ##### Tillman Thomas
 ### [ Tillman Thomas succeeds Keith Mitchell as the new Prime Minister of Grenada following the general elections. ](/news/2008/07/9/tillman-thomas-succeeds-keith-mitchell-as-the-new-prime-minister-of-grenada-following-the-general-elections.md)
-_Context: Tillman Thomas, Prime Minister, Keith Mitchell, general elections, Grenada_
+_Context: Keith Mitchell, general elections, Tillman Thomas, Prime Minister, Grenada_
 
 ## [Previous Day...](/news/2008/07/8/index.md)
 

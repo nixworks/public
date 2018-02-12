@@ -17,7 +17,7 @@ Reviewing the Pathankot air base attack, Prime Minister Narendra Modi is current
 
 ##### Libyan Civil War (2014-present)
 ### [The Islamic State of Iraq and the Levant's branch in Libya attacks the Libyan oil port of Sidra, which is Libya's largest oil depot. Two members of the Petrol Facilities Guard militia, which is defending Sidra, were reportedly killed in clashes. Islamic State militants were reportedly pushed back from the port, but the group now says it controls the town of Bin Jawad, 30km west of Sidra on the road from its stronghold in Sirte. ](/news/2016/01/4/the-islamic-state-of-iraq-and-the-levant-s-branch-in-libya-attacks-the-libyan-oil-port-of-sidra-which-is-libya-s-largest-oil-depot-two-mem.md)
-_Context: ISIL, Sidra, Sirte, Libyan Civil War (2014-present), Libya, ISIL, oil depot, Bin Jawad_
+_Context: Bin Jawad, Sirte, ISIL, oil depot, Libya, ISIL, Sidra, Libyan Civil War (2014-present)_
 
 ##### 2015 Chinese stock market crash
 ### [Trading on the Shanghai Stock Exchange and the Shenzhen Stock Exchange are suspended for the day after stock indices plummeted by 6.85% and 8.1% respectively. ](/news/2016/01/4/trading-on-the-shanghai-stock-exchange-and-the-shenzhen-stock-exchange-are-suspended-for-the-day-after-stock-indices-plummeted-by-6-85-and.md)
@@ -25,7 +25,7 @@ Wall Street closed sharply lower Monday after weak Chinese economic data ignited
 
 ##### Nokia
 ### [Nokia, the telecommunications giant based in Finland, announces that it has gained control of French counterpart Alcatel-Lucent, and sets the date for formal consolidation as January 14. ](/news/2016/01/4/nokia-the-telecommunications-giant-based-in-finland-announces-that-it-has-gained-control-of-french-counterpart-alcatel-lucent-and-sets-th.md)
-_Context: Finland, Alcatel-Lucent, telecommunications, Nokia_
+_Context: Finland, telecommunications, Alcatel-Lucent, Nokia_
 
 ##### 2016 Northeast India earthquake
 ### [At least six people are killed and dozens injured from a 6.7 magnitude earthquake that struck 20 miles from the city of Imphal, the capital of the Indian state of Manipur, near the border with Myanmar. ](/news/2016/01/4/at-least-six-people-are-killed-and-dozens-injured-from-a-6-7-magnitude-earthquake-that-struck-20-miles-from-the-city-of-imphal-the-capital.md)
@@ -45,7 +45,7 @@ President Obama’s executive actions on guns will stop short of the kind of lar
 
 ##### New Year's Eve sexual assaults in Germany
 ### [German police begin investigations into a gang of up to 1,000 men of North African and Arab appearance who committed sexual assaults on women in Cologne's main square on New Year's Eve. ](/news/2016/01/4/german-police-begin-investigations-into-a-gang-of-up-to-1-000-men-of-north-african-and-arab-appearance-who-committed-sexual-assaults-on-wome.md)
-_Context: Arab, Cologne, New Year's Eve sexual assaults in Germany, North Africa, German_
+_Context: German, North Africa, Cologne, New Year's Eve sexual assaults in Germany, Arab_
 
 ##### Marshallese general election, 2015
 ### [Casten Nemra is elected President of the Marshall Islands by the Nitijela. Nemra narrowly defeated Alvin Jacklick by a 17-16 vote. ](/news/2016/01/4/casten-nemra-is-elected-president-of-the-marshall-islands-by-the-nitijela-nemra-narrowly-defeated-alvin-jacklick-by-a-17-16-vote.md)
@@ -53,7 +53,7 @@ The Marshall Islands parliament elected its youngest President, and only the sec
 
 ##### Peking University
 ### [Former "Peking University prodigy" Li Shulei is named the Secretary of the Discipline Inspection Commission of the municipality of Beijing. ](/news/2016/01/4/former-peking-university-prodigy-li-shulei-is-named-the-secretary-of-the-discipline-inspection-commission-of-the-municipality-of-beijing.md)
-_Context: Beijing, Li Shulei, Peking University_
+_Context: Peking University, Li Shulei, Beijing_
 
 ##### International Union of Pure and Applied Chemistry
 ### [The International Union of Pure and Applied Chemistry confirms the addition of four new chemical elements to the periodic table after scientists from the Joint Institute for Nuclear Research in Dubna, Russia and the Lawrence Livermore National Laboratory in Livermore, California, United States provided sufficient evidence to fill the elements 113, 115, 117 and 118, which were temporarily named ununtrium, ununpentium, ununseptium and ununoctium, respectively. ](/news/2016/01/4/the-international-union-of-pure-and-applied-chemistry-confirms-the-addition-of-four-new-chemical-elements-to-the-periodic-table-after-scient.md)

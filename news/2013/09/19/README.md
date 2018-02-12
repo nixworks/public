@@ -9,11 +9,11 @@ An Egyptian police general is killed in fighting as security forces storm the Mu
 
 ##### Al-Qaida
 ### [Jihadis belonging to the al-Qaida offshoot known as the ISIL overrun the town of Azaz, after driving out the Free Syrian Army. ](/news/2013/09/19/jihadis-belonging-to-the-al-qaida-offshoot-known-as-the-isil-overrun-the-town-of-azaz-after-driving-out-the-free-syrian-army.md)
-_Context: Free Syrian Army, al-Qaida, Azaz, ISIL_
+_Context: Azaz, Free Syrian Army, al-Qaida, ISIL_
 
 ##### Japan
 ### [Japan reports that two Chinese ships have entered territorial waters off the coast of the disputed Senkaku Islands. ](/news/2013/09/19/japan-reports-that-two-chinese-ships-have-entered-territorial-waters-off-the-coast-of-the-disputed-senkaku-islands.md)
-_Context: China, Senkaku Islands, Japan, Senkaku Islands dispute, territorial waters_
+_Context: Senkaku Islands dispute, territorial waters, Japan, Senkaku Islands, China_
 
 ##### Singapore police
 ### [Singapore police arrest 14 people in Singapore in relation to alleged match fixing in football matches, including alleged financier and organiser Dan Tan Seet Eng. ](/news/2013/09/19/singapore-police-arrest-14-people-in-singapore-in-relation-to-alleged-match-fixing-in-football-matches-including-alleged-financier-and-orga.md)
@@ -25,15 +25,15 @@ Thirteen people, including 3-year-old Deonta&apos; Howard, who suffered a gunsho
 
 ##### Imperial Petroleum
 ### [Imperial Petroleum is indicted in the largest instance of tax and securities fraud in Indiana state history. ](/news/2013/09/19/imperial-petroleum-is-indicted-in-the-largest-instance-of-tax-and-securities-fraud-in-indiana-state-history.md)
-_Context: Indiana, Imperial Petroleum_
+_Context: Imperial Petroleum, Indiana_
 
 ##### Money laundering
 ### [A Texas state appelate court overturns the November 2010 money laundering conviction of former United States House Majority Leader Tom DeLay. ](/news/2013/09/19/a-texas-state-appelate-court-overturns-the-november-2010-money-laundering-conviction-of-former-united-states-house-majority-leader-tom-delay.md)
-_Context: money laundering, Tom DeLay, United States House Majority Leader_
+_Context: money laundering, United States House Majority Leader, Tom DeLay_
 
 ##### JPMorgan Chase
 ### [JPMorgan Chase is fined $920 million for illegal practices (misleading investors and government regulators) related to trading losses in 2012. ](/news/2013/09/19/jpmorgan-chase-is-fined-920-million-for-illegal-practices-misleading-investors-and-government-regulators-related-to-trading-losses-in-201.md)
-_Context: United States dollars, fined, JPMorgan Chase_
+_Context: JPMorgan Chase, United States dollars, fined_
 
 ## [Previous Day...](/news/2013/09/18/index.md)
 

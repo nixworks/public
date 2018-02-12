@@ -13,15 +13,15 @@ A gunman opened fire Monday in a hair salon in the Romanian capital, killing two
 
 ##### Iraqi police
 ### [Gunmen disguised as police kill 27 members of Iraq's security forces in the town of Haditha. ](/news/2012/03/5/gunmen-disguised-as-police-kill-27-members-of-iraq-s-security-forces-in-the-town-of-haditha.md)
-_Context: Iraq, Haditha, Iraqi police_
+_Context: Haditha, Iraqi police, Iraq_
 
 ##### Battle
 ### [The death toll in a battle between the Yemeni Army and Al-Qaeda on the outskirts of Zinjibar yesterday rises to over 130. ](/news/2012/03/5/the-death-toll-in-a-battle-between-the-yemeni-army-and-al-qaeda-on-the-outskirts-of-zinjibar-yesterday-rises-to-over-130.md)
-_Context: al-Qaeda, battle, Yemeni Army, Zinjibar_
+_Context: Zinjibar, Yemeni Army, battle, al-Qaeda_
 
 ##### Burundi
 ### [A soldier from Burundi is killed in an explosion in northern Mogadishu, Somalia. ](/news/2012/03/5/a-soldier-from-burundi-is-killed-in-an-explosion-in-northern-mogadishu-somalia.md)
-_Context: Somalia, Burundi, Mogadishu_
+_Context: Mogadishu, Burundi, Somalia_
 
 ##### The Lorax
 ### ["The Lorax" brings in US$70.7M during its opening weekend, the highest opener of 2012, and fifth highest total for an animated film ever. ](/news/2012/03/5/the-lorax-brings-in-us-70-7m-during-its-opening-weekend-the-highest-opener-of-2012-and-fifth-highest-total-for-an-animated-film-ever.md)
@@ -41,7 +41,7 @@ Israeli PM Benjamin Netanyahu tells US President Barack Obama that Israel must a
 
 ##### Felipe Calderon
 ### [Felipe Calderon, the President of Mexico, asks Joe Biden, the vice-President of the United States for assistance in stopping the flow of money and weapons into Mexico. ](/news/2012/03/5/felipe-caldera3n-the-president-of-mexico-asks-joe-biden-the-vice-president-of-the-united-states-for-assistance-in-stopping-the-flow-of-mo.md)
-_Context: President, Felipe Calderon, vice-President of the United States, Joe Biden_
+_Context: Joe Biden, President, Felipe Calderon, vice-President of the United States_
 
 ##### Sea Shepherd
 ### [The Sea Shepherd anti-whaling organisation claims to have closed down Japan's main whaling ship, the "Nisshin Maru", deep inside the Southern Ocean off the Antarctic coast. ](/news/2012/03/5/the-sea-shepherd-anti-whaling-organisation-claims-to-have-closed-down-japan-s-main-whaling-ship-the-nisshin-maru-deep-inside-the-souther.md)

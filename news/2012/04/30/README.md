@@ -25,7 +25,7 @@ Latest figures come amid quarterly unemployment data showing nearly 25 per cent 
 
 ##### Ferry capsizes
 ### [An overloaded ferry capsizes on the Brahmaputra River in India killing at least 103 people. ](/news/2012/04/30/an-overloaded-ferry-capsizes-on-the-brahmaputra-river-in-india-killing-at-least-103-people.md)
-_Context: India, ferry capsizes, Brahmaputra River_
+_Context: Brahmaputra River, ferry capsizes, India_
 
 ##### Falmouth Beach Hotel
 ### [A major fire destroys the Falmouth Beach Hotel in Gyllyngvase in Falmouth, Cornwall. ](/news/2012/04/30/a-major-fire-destroys-the-falmouth-beach-hotel-in-gyllyngvase-in-falmouth-cornwall.md)
@@ -49,11 +49,11 @@ MI6 officer Gareth Williams possibly died from poisoning or asphyxiation, a Home
 
 ##### Sunni
 ### [Fugitive Sunni Vice President of Iraq Tariq al-Hashimi and his bodyguards are charged with killing at least six judges. ](/news/2012/04/30/fugitive-sunni-vice-president-of-iraq-tariq-al-hashimi-and-his-bodyguards-are-charged-with-killing-at-least-six-judges.md)
-_Context: Tariq al-Hashimi, Sunni, Vice President_
+_Context: Vice President, Tariq al-Hashimi, Sunni_
 
 ##### Burma
 ### [Burmese opposition leader Aung San Suu Kyi says that a dispute over the wording of the oath of office has been resolved and that she and her colleagues from the National League for Democracy will attend parliament for the first time. ](/news/2012/04/30/burmese-opposition-leader-aung-san-suu-kyi-says-that-a-dispute-over-the-wording-of-the-oath-of-office-has-been-resolved-and-that-she-and-her.md)
-_Context: Burma, National League for Democracy, opposition, Aung San Suu Kyi, MP_
+_Context: Aung San Suu Kyi, MP, Burma, opposition, National League for Democracy_
 
 ## [Previous Day...](/news/2012/04/29/index.md)
 

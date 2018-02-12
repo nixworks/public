@@ -49,7 +49,7 @@ At least 16 persons were killed and 21 injured after a passenger bus (NA 4 Kha 4
 
 ##### Helicopter
 ### [The wreckage of a crashed helicopter containing Dorjee Khandu, Chief Minister of the Indian state of Arunachal Pradesh, is found with three bodies nearby. ](/news/2011/05/4/the-wreckage-of-a-crashed-helicopter-containing-dorjee-khandu-chief-minister-of-the-indian-state-of-arunachal-pradesh-is-found-with-three.md)
-_Context: Arunachal Pradesh, India, helicopter, Chief Minister, Dorjee Khandu_
+_Context: helicopter, Chief Minister, Arunachal Pradesh, Dorjee Khandu, India_
 
 ##### Levee
 ### [Despite the breach of a levee on the Mississippi River to ease flood pressure in southern Illinois, massive flooding continues from Minnesota to Louisiana and hundreds of square miles of mostly farmland in Missouri are under water. ](/news/2011/05/4/despite-the-breach-of-a-levee-on-the-mississippi-river-to-ease-flood-pressure-in-southern-illinois-massive-flooding-continues-from-minnesot.md)
@@ -57,7 +57,7 @@ The Mississippi river spilled out across huge swaths of farmland in the American
 
 ##### US Highway 30
 ### [Two trains collide near US Highway 30 near the US city of Portland, Oregon, causing a fire and necessitating the evacuation of nearby residents. ](/news/2011/05/4/two-trains-collide-near-us-highway-30-near-the-us-city-of-portland-oregon-causing-a-fire-and-necessitating-the-evacuation-of-nearby-reside.md)
-_Context: Portland, Oregon, Oregon, US Highway 30_
+_Context: Portland, Oregon, US Highway 30, Oregon_
 
 ##### Warren
 ### [A building explosion occurs in the US city of Warren, Michigan. ](/news/2011/05/4/a-building-explosion-occurs-in-the-us-city-of-warren-michigan.md)
@@ -81,7 +81,7 @@ Two Rwandan rebel leaders went on trial in Germany on Wednesday on charges of cr
 
 ##### China
 ### [China announces the creation of a State Internet Information Office to 'direct, coordinate, and supervise' online content management, prompting fears that online censorship will grow even more stringent. ](/news/2011/05/4/china-announces-the-creation-of-a-state-internet-information-office-to-direct-coordinate-and-supervise-online-content-management-prompt.md)
-_Context: China, blocks mentions, State Internet Information Office_
+_Context: China, State Internet Information Office, blocks mentions_
 
 ##### United States House of Representatives
 ### [The United States House of Representatives passes the "No Taxpayer Funding for Abortion Act" banning the direct Federal funding of abortions. ](/news/2011/05/4/the-united-states-house-of-representatives-passes-the-no-taxpayer-funding-for-abortion-act-banning-the-direct-federal-funding-of-abortions.md)

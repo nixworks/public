@@ -13,7 +13,7 @@ _Context: Syria, terrorist, Jordan, arrest_
 
 ##### March 11, 2004 Madrid bombings
 ### [ At least three persons suspected in involvement in the March 11, 2004 Madrid bombings blow themselves up in an apartment building in the Madrid suburb Legans as police officers try to arrest them. Besides the suspects, one police officer is killed and 11 injured. ](/news/2004/04/3/at-least-three-persons-suspected-in-involvement-in-the-march-11-2004-madrid-bombings-blow-themselves-up-in-an-apartment-building-in-the-ma.md)
-_Context: March 11, 2004 Madrid bombings, Legans_
+_Context: Legans, March 11, 2004 Madrid bombings_
 
 ##### Simpsons
 ### [ "Simpsons" voice actors are on strike. ](/news/2004/04/3/simpsons-voice-actors-are-on-strike.md)
@@ -25,11 +25,11 @@ _Context: Stuttgart, Cologne_
 
 ##### Research
 ### [ An ongoing study by sociologist Robert Cushing for the "Austin American-Statesman" newspaper reveals a statistical anomaly: soldiers and Marines from rural areas are dying at twice the rate of troops from cities and suburbs. ](/news/2004/04/3/an-ongoing-study-by-sociologist-robert-cushing-for-the-austin-american-statesman-newspaper-reveals-a-statistical-anomaly-soldiers-and-ma.md)
-_Context: Marine, sociologist, Austin American-Statesman, area, statistic, Robert Cushing, research, rural, cities, suburb_
+_Context: statistic, Robert Cushing, Marine, sociologist, suburb, area, Austin American-Statesman, cities, research, rural_
 
 ##### Pennsylvania
 ### [ Pennsylvania's chief auditor states that community notification about felons is often ""incorrect, late, and ineffective"", after review of state police monitoring of sexually violent predators under Megan's Law. ](/news/2004/04/3/pennsylvania-s-chief-auditor-states-that-community-notification-about-felons-is-often-incorrect-late-and-ineffective-after-review-of.md)
-_Context: Pennsylvania, felony, state police, Megan's Law, sexually violent predator, auditor, incorrect, community notification_
+_Context: incorrect, auditor, community notification, felony, state police, sexually violent predator, Pennsylvania, Megan's Law_
 
 ## [Previous Day...](/news/2004/04/2/index.md)
 

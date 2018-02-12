@@ -45,7 +45,7 @@ Bulldozers demolished a hotel in an Arab east Jerusalem neighborhood Sunday to m
 
 ##### Iceland
 ### [The U.S. ambassador to Iceland is summoned in relation to secret United States attempts to access private details concerning Icelandic MP Birgitta Jonsdottir. The matter is described as "very serious". ](/news/2011/01/9/the-u-s-ambassador-to-iceland-is-summoned-in-relation-to-secret-united-states-attempts-to-access-private-details-concerning-icelandic-mp-bi.md)
-_Context: Iceland, American, Birgitta Jonsdottir_
+_Context: Birgitta Jonsdottir, Iceland, American_
 
 ##### Hillary Clinton
 ### [Hillary Clinton of the United States speaks out against Iran in Abu Dhabi during a five-day trip to the United Arab Emirates, Oman and Qatar. She requests that the world increase its pressure on Iran, a country she considers "a serious concern". ](/news/2011/01/9/hillary-clinton-of-the-united-states-speaks-out-against-iran-in-abu-dhabi-during-a-five-day-trip-to-the-united-arab-emirates-oman-and-qatar.md)
@@ -61,7 +61,7 @@ _Context: Robert Gates, United States Secretary of Defense_
 
 ##### Li Keqiang
 ### [Chinese Vice Premier Li Keqiang begins a four-day visit to the UK; Scotland and China sign a green energy deal. ](/news/2011/01/9/chinese-vice-premier-li-keqiang-begins-a-four-day-visit-to-the-uk-scotland-and-china-sign-a-green-energy-deal.md)
-_Context: green energy, Li Keqiang_
+_Context: Li Keqiang, green energy_
 
 ##### The Guardian
 ### [An investigation by "The Guardian" newspaper reveals details of how Metropolitan police officer Mark Kennedy infiltrated dozens of protest groups in 22 countries using the pseudonym Mark Stone. ](/news/2011/01/9/an-investigation-by-the-guardian-newspaper-reveals-details-of-how-metropolitan-police-officer-mark-kennedy-infiltrated-dozens-of-protest-g.md)
@@ -77,7 +77,7 @@ People in Southern Sudan vote in a historic referendum that will decide whether 
 
 ##### Ulster Unionist Party
 ### [Ulster Unionist Party leader Tom Elliott accepts an invitation to meet with members of the Northern Ireland Gay Rights Association in a groundbreaking move. ](/news/2011/01/9/ulster-unionist-party-leader-tom-elliott-accepts-an-invitation-to-meet-with-members-of-the-northern-ireland-gay-rights-association-in-a-grou.md)
-_Context: Tom Elliott, Ulster Unionist Party_
+_Context: Ulster Unionist Party, Tom Elliott_
 
 ## [Previous Day...](/news/2011/01/8/index.md)
 

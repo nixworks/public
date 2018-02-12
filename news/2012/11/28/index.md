@@ -29,7 +29,7 @@ The European Commission gives the go-ahead to a major restructuring of four nati
 
 ##### Carlisle
 ### [Seven students and a teacher are injured as the result of a small explosion in an eighth-grade science classroom in Wilson Middle School in Carlisle, Pennsylvania, USA. Two of the students were flown by helicopter to Johns Hopkins Hospital in Baltimore. One was released that evening, the other is in fair condition. ](/news/2012/11/28/seven-students-and-a-teacher-are-injured-as-the-result-of-a-small-explosion-in-an-eighth-grade-science-classroom-in-wilson-middle-school-in.md)
-_Context: Pennsylvania, Carlisle, USA, Baltimore, Johns Hopkins Hospital_
+_Context: Baltimore, Pennsylvania, Carlisle, USA, Johns Hopkins Hospital_
 
 ##### Richard O'Dwyer
 ### [British student Richard O'Dwyer reaches an agreement with authorities in the United States to avoid being extradited from the United Kingdom to stand trial over infringement of U.S. copyright laws over his TVShack website which hosted links to pirated films and television shows. ](/news/2012/11/28/british-student-richard-o-dwyer-reaches-an-agreement-with-authorities-in-the-united-states-to-avoid-being-extradited-from-the-united-kingdom.md)
@@ -45,11 +45,11 @@ For the first time in living memory, New York City - whose murder rate has hit a
 
 ##### CNN
 ### [CNN publish a list of the top 10 CNN Heroes of 2012. Pushpa Basnet, a social worker from Nepal, is listed among others. ](/news/2012/11/28/cnn-publish-a-list-of-the-top-10-cnn-heroes-of-2012-pushpa-basnet-a-social-worker-from-nepal-is-listed-among-others.md)
-_Context: Pushpa Basnet, CNN Heroes, CNN, Nepal, social worker_
+_Context: social worker, CNN Heroes, Nepal, Pushpa Basnet, CNN_
 
 ##### President
 ### [President of Egypt Mohamed Morsi will address the nation about a decree greatly increasing his powers. ](/news/2012/11/28/president-of-egypt-mohamed-morsi-will-address-the-nation-about-a-decree-greatly-increasing-his-powers.md)
-_Context: President, Mohamed Morsi, decree_
+_Context: Mohamed Morsi, decree, President_
 
 ## [Previous Day...](/news/2012/11/27/index.md)
 

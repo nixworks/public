@@ -21,11 +21,11 @@ Thousands march through the streets of Johannesburg as outrage and tension over 
 
 ##### China
 ### [China's best-known microblogging site Sina Weibo introduces new restrictions on the content its 300 million users can post. ](/news/2012/05/29/china-s-best-known-microblogging-site-sina-weibo-introduces-new-restrictions-on-the-content-its-300-million-users-can-post.md)
-_Context: China, microblog, Sina Weibo_
+_Context: microblog, Sina Weibo, China_
 
 ##### Wall Street
 ### [Four of Wall Street's market makers involved in Facebook's botched IPO are expecting losses from technical glitches to be around US$115&nbsp;million. ](/news/2012/05/29/four-of-wall-street-s-market-makers-involved-in-facebook-s-botched-ipo-are-expecting-losses-from-technical-glitches-to-be-around-us-115-nbsp.md)
-_Context: Wall Street, IPO, Facebook_
+_Context: Facebook, Wall Street, IPO_
 
 ##### Ibercaja
 ### [Three Spanish savings banks - Ibercaja, Liberbank and Caja3 - approve a merger. ](/news/2012/05/29/three-spanish-savings-banks-ibercaja-liberbank-and-caja3-approve-a-merger.md)
@@ -33,7 +33,7 @@ Three Spanish savings banks - Ibercaja, Liberbank and Caja3 - approve a merger t
 
 ##### VK
 ### [Russian social network VK announces that it will postpone its planned initial public offering indefinitely, following the recent botched float of Facebook. ](/news/2012/05/29/russian-social-network-vk-announces-that-it-will-postpone-its-planned-initial-public-offering-indefinitely-following-the-recent-botched-flo.md)
-_Context: initial public offering, VK, Facebook_
+_Context: VK, initial public offering, Facebook_
 
 ##### Earthquake
 ### [A 5.8-magnitude earthquake rocks northern Italy near Bologna, killing at least 24 people. ](/news/2012/05/29/a-5-8-magnitude-earthquake-rocks-northern-italy-near-bologna-killing-at-least-24-people.md)
@@ -41,7 +41,7 @@ At least 17 people killed and others trapped under rubble as 5.8-magnitude quake
 
 ##### North Korea
 ### [North Korea faces its worst drought in 50 years. ](/news/2012/05/29/north-korea-faces-its-worst-drought-in-50-years.md)
-_Context: North Korea, drought_
+_Context: drought, North Korea_
 
 ##### Aung San Suu Kyi
 ### [Aung San Suu Kyi, the leader of the National League for Democracy opposition party in Burma and MP for Kawhmu, leaves Yangon for Bangkok, Thailand on her first overseas trip in 22 years. ](/news/2012/05/29/aung-san-suu-kyi-the-leader-of-the-national-league-for-democracy-opposition-party-in-burma-and-mp-for-kawhmu-leaves-yangon-for-bangkok-th.md)
@@ -73,11 +73,11 @@ PNG politicians will hold a special sitting of parliament tomorrow to elect a ne
 
 ##### Chen Xitong
 ### [Chen Xitong former mayor of Beijing apologises for deaths during the 1989 Tiananmen Square protests, adding that they could have been avoided, in a book released in Hong Kong this week. ](/news/2012/05/29/chen-xitong-former-mayor-of-beijing-apologises-for-deaths-during-the-1989-tiananmen-square-protests-adding-that-they-could-have-been-avoide.md)
-_Context: 1989 Tiananmen Square protests, Hong Kong, Chen Xitong, Beijing_
+_Context: Chen Xitong, Beijing, Hong Kong, 1989 Tiananmen Square protests_
 
 ##### Barack Obama
 ### [U.S. president Barack Obama gives out the Presidential Medal of Freedom to 13 recipients, including Israeli president Shimon Peres, astronaut John Glenn and musician Bob Dylan, at the White House. ](/news/2012/05/29/u-s-president-barack-obama-gives-out-the-presidential-medal-of-freedom-to-13-recipients-including-israeli-president-shimon-peres-astronau.md)
-_Context: White House, Shimon Peres, Presidential Medal of Freedom with Distinction, Bob Dylan, Israel, John Glenn, Barack Obama_
+_Context: John Glenn, Israel, Bob Dylan, White House, Shimon Peres, Presidential Medal of Freedom with Distinction, Barack Obama_
 
 ## [Previous Day...](/news/2012/05/28/index.md)
 

@@ -41,15 +41,15 @@ Fifty-eight foot American-owned yacht seized off the coast of Oman with four US 
 
 ##### Tear gas
 ### [Police shoot tear gas and water cannons as thousands of people protest against an authorized neo-Nazi march in Dresden. ](/news/2011/02/19/police-shoot-tear-gas-and-water-cannons-as-thousands-of-people-protest-against-an-authorized-neo-nazi-march-in-dresden.md)
-_Context: Dresden, water cannon, tear gas_
+_Context: water cannon, tear gas, Dresden_
 
 ##### Iran
 ### [Iranian director Asghar Farhadi wins three awards, including the Golden Bear, for his film "Nader and Simin, A Separation" as the 61st Berlin International Film Festival ends. There are other winners from Argentina, Albania, Germany and Hungary. ](/news/2011/02/19/iranian-director-asghar-farhadi-wins-three-awards-including-the-golden-bear-for-his-film-nader-and-simin-a-separation-as-the-61st-berli.md)
-_Context: Golden Bear, Nader and Simin, A Separation, 61st Berlin International Film Festival, Argentina, Asghar Farhadi, Hungary, Albania, German, Iran_
+_Context: Argentina, Iran, 61st Berlin International Film Festival, Nader and Simin, A Separation, German, Hungary, Golden Bear, Asghar Farhadi, Albania_
 
 ##### International Petroleum Investment Company
 ### [International Petroleum Investment Company makes a $4billion bid for the remaining 53% of shares of Compania Espanola de Petroleos.](/news/2011/02/19/international-petroleum-investment-company-makes-a-4billion-bid-for-the-remaining-53-of-shares-of-compaa-aa-espaa-ola-de-petra3leos.md)
-_Context: Compania Espanola de Petroleos, International Petroleum Investment Company_
+_Context: International Petroleum Investment Company, Compania Espanola de Petroleos_
 
 ##### American
 ### [The United States vetoes a draft of a U.N. Security Council resolution critical of Israeli settlements in the West Bank. ](/news/2011/02/19/the-united-states-vetoes-a-draft-of-a-u-n-security-council-resolution-critical-of-israeli-settlements-in-the-west-bank.md)
@@ -61,7 +61,7 @@ The Cuban government frees a jailed dissident journalist who refused to go into 
 
 ##### Madagascar
 ### [The return of former Madagascan President Marc Ravalomanana, in exile in South Africa, is blocked by the government on the island. Tear gas is fired to disperse supporters at the international airport. ](/news/2011/02/19/the-return-of-former-madagascan-president-marc-ravalomanana-in-exile-in-south-africa-is-blocked-by-the-government-on-the-island-tear-gas.md)
-_Context: Madagascar, President, Marc Ravalomanana, South Africa_
+_Context: Marc Ravalomanana, President, South Africa, Madagascar_
 
 ##### Governor of Wisconsin
 ### [Governor of Wisconsin Scott Walker rejects union concessions on the state budget as protests continue in the state capital. ](/news/2011/02/19/governor-of-wisconsin-scott-walker-rejects-union-concessions-on-the-state-budget-as-protests-continue-in-the-state-capital.md)
@@ -81,7 +81,7 @@ Prime Minister Ahmed Shafiq said on Saturday Egypt would release more than 200 p
 
 ##### Ahmad Vahidi
 ### [Iran's defense minister Ahmad Vahidi unveils 32 scientific and research projects conducted at Malek Ashtar Industrial University. ](/news/2011/02/19/iran-s-defense-minister-ahmad-vahidi-unveils-32-scientific-and-research-projects-conducted-at-malek-ashtar-industrial-university.md)
-_Context: Malek Ashtar Industrial University, Ahmad Vahidi_
+_Context: Ahmad Vahidi, Malek Ashtar Industrial University_
 
 ## [Previous Day...](/news/2011/02/18/index.md)
 

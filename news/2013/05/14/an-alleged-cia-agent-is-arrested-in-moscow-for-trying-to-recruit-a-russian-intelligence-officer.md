@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/14/an-alleged-cia-agent-is-arrested-in-moscow-for-
 
 ### [2013-05-14](/news/2013/05/14/index.md)
 
-##### Central Intelligence Agency
+##### CIA
 # An alleged CIA agent is arrested in Moscow for trying to recruit a Russian intelligence officer. 
 
 Russia is expelling a US diplomat briefly detained in Moscow for allegedly trying to recruit a Russian intelligence officer, officials say.

@@ -5,7 +5,7 @@ Formats: [HTML](2010/12/14/index.html)  [JSON](2010/12/14/index.json)  [XML](201
 
 ##### Philippines
 ### [The Philippine government says it will attempt to end the long-running communist insurgency "within three years", as it announces a resumption of peace talks with rebels. ](/news/2010/12/14/the-philippine-government-says-it-will-attempt-to-end-the-long-running-communist-insurgency-within-three-years-as-it-announces-a-resumpti.md)
-_Context: Philippines, communist insurgency_
+_Context: communist insurgency, Philippines_
 
 ##### Pike River Mine
 ### [Receivers of the Pike River Mine on the South Island of New Zealand lay off 114 workers following the closure of the mine after the Pike River Mine disaster. ](/news/2010/12/14/receivers-of-the-pike-river-mine-on-the-south-island-of-new-zealand-lay-off-114-workers-following-the-closure-of-the-mine-after-the-pike-riv.md)
@@ -21,11 +21,11 @@ At least 25 killed and over 100 injured as fire sweeps through garment factory n
 
 ##### Japan
 ### [Japan protests a visit by First Deputy Prime Minister of Russia, Igor Shuvalov, to the disputed Kunashiri and Etorofu islands. ](/news/2010/12/14/japan-protests-a-visit-by-first-deputy-prime-minister-of-russia-igor-shuvalov-to-the-disputed-kunashiri-and-etorofu-islands.md)
-_Context: Igor Shuvalov, Russia, Iturup, rival territorial claims, Japan, Kunashir_
+_Context: rival territorial claims, Japan, Kunashir, Russia, Iturup, Igor Shuvalov_
 
 ##### United Nations High Commissioner for Refugees
 ### [The United Nations High Commissioner for Refugees urges Cambodia to allow more time to resettle Vietnamese refugees after it announced the closure of a refugee camp. ](/news/2010/12/14/the-united-nations-high-commissioner-for-refugees-urges-cambodia-to-allow-more-time-to-resettle-vietnamese-refugees-after-it-announced-the-c.md)
-_Context: Cambodia, Vietnam, United Nations High Commissioner for Refugees_
+_Context: Cambodia, United Nations High Commissioner for Refugees, Vietnam_
 
 ##### Foreign ministers
 ### [Foreign ministers from the European Union say they would recognise a Palestinian state "when appropriate". ](/news/2010/12/14/foreign-ministers-from-the-european-union-say-they-would-recognise-a-palestinian-state-when-appropriate.md)
@@ -41,7 +41,7 @@ MANILA, Philippines (4th UPDATE) - Hubert Webb and 5 others accused in the Vizco
 
 ##### Julian Assange
 ### [Julian Assange is to be released on bail of GBP240,000 GBP. ](/news/2010/12/14/julian-assange-is-to-be-released-on-bail-of-agbp240-000-gbp.md)
-_Context: Julian Assange, GBP_
+_Context: GBP, Julian Assange_
 
 ##### Sudan
 ### [At least 30 Sudanese women are arrested after holding a protest march over a video that allegedly shows a policeman whipping a woman. ](/news/2010/12/14/at-least-30-sudanese-women-are-arrested-after-holding-a-protest-march-over-a-video-that-allegedly-shows-a-policeman-whipping-a-woman.md)
@@ -57,7 +57,7 @@ Venezuelan parliament supports in first vote president’s controversial proposa
 
 ##### Michael Somare
 ### [Michael Somare steps down as Prime Minister of Papua New Guinea for an upcoming leadership tribunal. Deputy Prime Minister Sam Abal becomes Prime Minister during the trial. ](/news/2010/12/14/michael-somare-steps-down-as-prime-minister-of-papua-new-guinea-for-an-upcoming-leadership-tribunal-deputy-prime-minister-sam-abal-becomes.md)
-_Context: Michael Somare, Sam Abal, Prime Minister_
+_Context: Prime Minister, Michael Somare, Sam Abal_
 
 ##### Italian Prime Minister
 ### [The Prime Minister of Italy Silvio Berlusconi narrowly survives (314 to 311) a no-confidence vote in the parliament moved by Gianfranco Fini. A formal complaint about Mr Berlusconi allegedly trying to buy votes is being investigated. ](/news/2010/12/14/the-prime-minister-of-italy-silvio-berlusconi-narrowly-survives-314-to-311-a-no-confidence-vote-in-the-parliament-moved-by-gianfranco-fini.md)
@@ -65,11 +65,11 @@ At least 90 people are injured as police and protesters clash in Rome after Ital
 
 ##### Hwang Eui-don
 ### [General Hwang Eui-don, the chief of the South Korean Army, resigns. ](/news/2010/12/14/general-hwang-eui-don-the-chief-of-the-south-korean-army-resigns.md)
-_Context: South Korea, Army, Hwang Eui-don_
+_Context: Hwang Eui-don, South Korea, Army_
 
 ##### Ivory Coast
 ### [Supporters of Ivory Coast presidential aspirant Alassane Ouattara conduct a mass protest over the results of the recent presidential election. ](/news/2010/12/14/supporters-of-ivory-coast-presidential-aspirant-alassane-ouattara-conduct-a-mass-protest-over-the-results-of-the-recent-presidential-electio.md)
-_Context: Alassane Ouattara, 2010 presidential election, President, Ivory Coast_
+_Context: President, Ivory Coast, Alassane Ouattara, 2010 presidential election_
 
 ## [Previous Day...](/news/2010/12/13/index.md)
 

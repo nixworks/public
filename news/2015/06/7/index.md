@@ -5,7 +5,7 @@ Formats: [HTML](2015/06/7/index.html)  [JSON](2015/06/7/index.json)  [XML](2015/
 
 ##### Saudi-led intervention in Yemen
 ### [The Saudi-led coalition launches airstrikes on Houthi gatherings in Taez. ](/news/2015/06/7/the-saudi-led-coalition-launches-airstrikes-on-houthi-gatherings-in-taez.md)
-_Context: Houthi, Saudi-led intervention in Yemen, Taez_
+_Context: Taez, Houthi, Saudi-led intervention in Yemen_
 
 ##### 69th Tony Awards
 ### [The 2015 Tony Awards, which celebrate the best theatrical performances on Broadway, are held at Radio City Music Hall with "The Curious Incident of the Dog in the Night-Time" winning best play and "Fun Home" winning best musical. ](/news/2015/06/7/the-2015-tony-awards-which-celebrate-the-best-theatrical-performances-on-broadway-are-held-at-radio-city-music-hall-with-the-curious-inci.md)

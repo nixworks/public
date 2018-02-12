@@ -9,15 +9,15 @@ _Context: 2015 Bangkok bombing, Bangkok, Thai police officers_
 
 ##### Denali
 ### [Denali, the highest mountain peak in North America, officially regains its original Alaska Native name through an executive order issued by American President Barack Obama. Previously, since 1917, it had been known as Mount McKinley. ](/news/2015/08/31/denali-the-highest-mountain-peak-in-north-america-officially-regains-its-original-alaska-native-name-through-an-executive-order-issued-by.md)
-_Context: Alaska Native, Denali, U.S. President, executive order, North America, Barack Obama_
+_Context: U.S. President, Denali, executive order, Alaska Native, North America, Barack Obama_
 
 ##### 2015 Atlantic hurricane season
 ### [Hurricane Fred hits Cape Verde causing flooding and the closure of airports. ](/news/2015/08/31/hurricane-fred-hits-cape-verde-causing-flooding-and-the-closure-of-airports.md)
-_Context: Cape Verde, 2015 Atlantic hurricane season, Tropical Storm Fred's_
+_Context: 2015 Atlantic hurricane season, Tropical Storm Fred's, Cape Verde_
 
 ##### Turkey-PKK conflict
 ### [A judge in Turkey charges two reporters and a support worker for "Vice News" with being members of Islamic State of Iraq and Levant, following their arrest a few days prior. ](/news/2015/08/31/a-judge-in-turkey-charges-two-reporters-and-a-support-worker-for-vice-news-with-being-members-of-islamic-state-of-iraq-and-levant-followi.md)
-_Context: ISIL, Turkey-PKK conflict, Vice News_
+_Context: Turkey-PKK conflict, Vice News, ISIL_
 
 ##### Building
 ### [Riot police clash with protesters armed with firecrackers and petrol bombs outside the parliament building, in Kiev, Ukraine, leaving one national guardsman dead and around 100 people injured. ](/news/2015/08/31/riot-police-clash-with-protesters-armed-with-firecrackers-and-petrol-bombs-outside-the-parliament-building-in-kiev-ukraine-leaving-one-na.md)
@@ -25,7 +25,7 @@ At least one policeman killed and 90 people injured as protesters clash with sec
 
 ##### Syria
 ### [Syrian authorities name a park in Damascus after the North Korean founding leader Kim Il-Sung. ](/news/2015/08/31/syrian-authorities-name-a-park-in-damascus-after-the-north-korean-founding-leader-kim-il-sung.md)
-_Context: Syria, Damascus, North Korea, Kim Il-Sung_
+_Context: North Korea, Damascus, Syria, Kim Il-Sung_
 
 ##### Czech Republic
 ### [Czech authorities extradite from the United States Kevin Dahlgren, who is suspected of killing four Czech family members. ](/news/2015/08/31/czech-authorities-extradite-from-the-united-states-kevin-dahlgren-who-is-suspected-of-killing-four-czech-family-members.md)
@@ -41,7 +41,7 @@ Three people have been killed and eight others injured after violence erupted in
 
 ##### Sumatran Rhino
 ### [Conservationists report in "Oryx, the International Journal of Conservation" that the Sumatran Rhino is now considered extinct in the wild in Malaysia. No new wild animals have been spotted since 2007, elsewhere fewer than 100 Rhinos remain in the wild. ](/news/2015/08/31/conservationists-report-in-oryx-the-international-journal-of-conservation-that-the-sumatran-rhino-is-now-considered-extinct-in-the-wild-i.md)
-_Context: Malaysia, Sumatran Rhino_
+_Context: Sumatran Rhino, Malaysia_
 
 ## [Previous Day...](/news/2015/08/30/index.md)
 

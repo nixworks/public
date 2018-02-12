@@ -5,15 +5,15 @@ Formats: [HTML](2008/04/16/index.html)  [JSON](2008/04/16/index.json)  [XML](200
 
 ##### Zimbabwe
 ### [ A Zimbabwean judge clears two British journalists of reporting on the 2008 presidential election without accreditation. ](/news/2008/04/16/a-zimbabwean-judge-clears-two-british-journalists-of-reporting-on-the-2008-presidential-election-without-accreditation.md)
-_Context: journalist, run-off presidential election, Zimbabwe_
+_Context: Zimbabwe, journalist, run-off presidential election_
 
 ##### Narmada River
 ### [ Around 44 people, mostly children, die after a bus plunges into the Narmada River in the western Indian state of Gujarat. ](/news/2008/04/16/around-44-people-mostly-children-die-after-a-bus-plunges-into-the-narmada-river-in-the-western-indian-state-of-gujarat.md)
-_Context: Narmada River, Gujarat, India_
+_Context: Gujarat, Narmada River, India_
 
 ##### United States Supreme Court
 ### [ The United States Supreme Court upholds the constitutionality of lethal injection as a form of capital punishment over Eighth Amendment "cruel and unusual punishment" challenges. ](/news/2008/04/16/the-united-states-supreme-court-upholds-the-constitutionality-of-lethal-injection-as-a-form-of-capital-punishment-over-eighth-amendment-cr.md)
-_Context: constitutionality, cruel and unusual punishment, lethal injection, capital punishment, United States Supreme Court, constitutional rights, upholds_
+_Context: lethal injection, capital punishment, constitutional rights, upholds, cruel and unusual punishment, United States Supreme Court, constitutionality_
 
 ## [Previous Day...](/news/2008/04/15/index.md)
 

@@ -9,11 +9,11 @@ Ten people are killed as a car bomb explodes at a bus station near Basra in sout
 
 ##### Japan
 ### [Japanese architect Toyo Ito wins the 2013 Pritzker Architecture Prize. ](/news/2013/03/17/japanese-architect-toyo-ito-wins-the-2013-pritzker-architecture-prize.md)
-_Context: architect, Japan, Pritzker Architecture Prize, Toyo Ito_
+_Context: Japan, Pritzker Architecture Prize, Toyo Ito, architect_
 
 ##### Train derailment
 ### [Following a train derailment, Amtrak temporarily suspends service along the busy New York-to-Boston route. ](/news/2013/03/17/following-a-train-derailment-amtrak-temporarily-suspends-service-along-the-busy-new-york-to-boston-route.md)
-_Context: train derailment, Amtrak, New York, Boston_
+_Context: Amtrak, New York, train derailment, Boston_
 
 ##### Albania
 ### [An Albanian hitman serving time in Greece takes six people hostage in an apparent escape attempt. ](/news/2013/03/17/an-albanian-hitman-serving-time-in-greece-takes-six-people-hostage-in-an-apparent-escape-attempt.md)
@@ -21,7 +21,7 @@ A hostage drama at a Greek prison ends peacefully with the surrender of an Alban
 
 ##### Shooting
 ### [Five people are wounded during a shooting at a nightclub in Belle Glade, Florida, United States. ](/news/2013/03/17/five-people-are-wounded-during-a-shooting-at-a-nightclub-in-belle-glade-florida-united-states.md)
-_Context: American, shooting, nightclub, the state, Belle Glade_
+_Context: American, shooting, Belle Glade, the state, nightclub_
 
 ##### France
 ### [Prominent French lawyer Olivier Metzner is found dead of an apparent suicide. ](/news/2013/03/17/prominent-french-lawyer-olivier-metzner-is-found-dead-of-an-apparent-suicide.md)
@@ -33,7 +33,7 @@ Read the latest World and International news headlines from Sky News Australia. 
 
 ##### Rome, Italy
 ### [Thousands of people gather in Rome's Saint Peter's Square to hear Pope Francis deliver his first Angelus prayer and blessing. ](/news/2013/03/17/thousands-of-people-gather-in-rome-s-saint-peter-s-square-to-hear-pope-francis-deliver-his-first-angelus-prayer-and-blessing.md)
-_Context: Angelus, Rome, Italy, Saint Peter's Square, Pope Francis_
+_Context: Angelus, Rome, Italy, Pope Francis, Saint Peter's Square_
 
 ##### Mariana Trench
 ### [New data suggests that the Mariana Trench, the deepest part of the World Ocean, is home to a large amount of bacterial life forms. ](/news/2013/03/17/new-data-suggests-that-the-mariana-trench-the-deepest-part-of-the-world-ocean-is-home-to-a-large-amount-of-bacterial-life-forms.md)

@@ -29,7 +29,7 @@ A diamond called the Pink Star has fetched a record price for a gemstone by sell
 
 ##### One World Trade Center
 ### [One World Trade Center becomes the tallest building in the United States. ](/news/2013/11/13/one-world-trade-center-becomes-the-tallest-building-in-the-united-states.md)
-_Context: One World Trade Center, American_
+_Context: American, One World Trade Center_
 
 ##### Poppy
 ### [Poppy farmers in Afghanistan report record yields for their opium crops. ](/news/2013/11/13/poppy-farmers-in-afghanistan-report-record-yields-for-their-opium-crops.md)
@@ -53,11 +53,11 @@ The United States formally designated Nigerian militant groups Boko Haram and An
 
 ##### China
 ### [China, Russia, Cuba, Saudi Arabia, Vietnam, and Algeria are elected to the United Nations Human Rights Council. ](/news/2013/11/13/china-russia-cuba-saudi-arabia-vietnam-and-algeria-are-elected-to-the-united-nations-human-rights-council.md)
-_Context: Vietnam, Algeria, United Nations, Russia, Human Rights Council, Saudi Arabia, China, Cuba_
+_Context: China, Cuba, Russia, Saudi Arabia, Human Rights Council, Algeria, United Nations, Vietnam_
 
 ##### Kevin Rudd
 ### [Kevin Rudd announces his retirement from Australian politics. ](/news/2013/11/13/kevin-rudd-announces-his-retirement-from-australian-politics.md)
-_Context: Australia, Kevin Rudd, Politics of Australia_
+_Context: Politics of Australia, Australia, Kevin Rudd_
 
 ##### Wikileak
 ### [Wikileaks publishes a secret draft chapter of the Trans-Pacific Partnership. ](/news/2013/11/13/wikileaks-publishes-a-secret-draft-chapter-of-the-trans-pacific-partnership.md)
@@ -69,7 +69,7 @@ New data also show that in the first month of open enrollment, 26,794 signed up 
 
 ##### Southern Ocean
 ### [A gigantic iceberg is floating in the Southern Ocean after breaking off the Pine Island Glacier in Antarctica. ](/news/2013/11/13/a-gigantic-iceberg-is-floating-in-the-southern-ocean-after-breaking-off-the-pine-island-glacier-in-antarctica.md)
-_Context: Pine Island Glacier, Southern Ocean, Antarctica_
+_Context: Southern Ocean, Antarctica, Pine Island Glacier_
 
 ##### Panthera blytheae
 ### [Scientists discover "Panthera blytheae" in Tibet, the oldest big cat fossil ever discovered. ](/news/2013/11/13/scientists-discover-panthera-blytheae-in-tibet-the-oldest-big-cat-fossil-ever-discovered.md)

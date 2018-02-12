@@ -9,7 +9,7 @@ Armed men launched two attacks in Iran on Wednesday morning local time, killing 
 
 ##### Economy of South Africa
 ### [The giant South Africa based cement company, PPC Ltd., presents its first quarter results, dominated by the "impact of a liquidity crisis precipitated by an unexpected S&P debt downgrade." ](/news/2017/06/7/the-giant-south-africa-based-cement-company-ppc-ltd-presents-its-first-quarter-results-dominated-by-the-impact-of-a-liquidity-crisis-pr.md)
-_Context: PPC Ltd., cement, Economy of South Africa, South Africa_
+_Context: cement, South Africa, PPC Ltd., Economy of South Africa_
 
 ##### 2017 Qatar diplomatic crisis
 ### [The Philippines partially lifts a temporary suspension of deployment of overseas workers to Qatar. ](/news/2017/06/7/the-philippines-partially-lifts-a-temporary-suspension-of-deployment-of-overseas-workers-to-qatar.md)
@@ -25,7 +25,7 @@ A woman is taken to hospital with a &quot;slash wound&quot; after being attacked
 
 ##### Political appointments of Donald Trump
 ### [United States president Donald Trump announces lawyer Christopher A. Wray as his nominee to be director of the Federal Bureau of Investigation. ](/news/2017/06/7/united-states-president-donald-trump-announces-lawyer-christopher-a-wray-as-his-nominee-to-be-director-of-the-federal-bureau-of-investigati.md)
-_Context: FBI, Christopher A. Wray, Political appointments of Donald Trump, Donald Trump_
+_Context: Christopher A. Wray, FBI, Donald Trump, Political appointments of Donald Trump_
 
 ##### 2017 clashes at the Turkish Ambassador's Residence in Washington, D.C.
 ### [A U.S. House resolution unanimously passes 397-0 calling for all Turkish security guards involved in the May 16 clashes to be charged and prosecuted under United States law. ](/news/2017/06/7/a-u-s-house-resolution-unanimously-passes-397a0-calling-for-all-turkish-security-guards-involved-in-the-may-16-clashes-to-be-charged-and.md)

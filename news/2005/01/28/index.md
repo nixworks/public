@@ -5,7 +5,7 @@ Formats: [HTML](2005/01/28/index.html)  [JSON](2005/01/28/index.json)  [XML](200
 
 ##### Riggs Bank
 ### [ Riggs Bank agrees to pay a $16 million fine after pleading guilty to violating the Bank Secrecy Act by hiding transfers of millions of dollars in accounts controlled by Chilean despot Augusto Pinochet and top officials of Equatorial Guinea. ](/news/2005/01/28/riggs-bank-agrees-to-pay-a-16-million-fine-after-pleading-guilty-to-violating-the-bank-secrecy-act-by-hiding-transfers-of-millions-of-doll.md)
-_Context: Riggs Bank, Augusto Pinochet, million, Bank Secrecy Act, Equatorial Guinea_
+_Context: Augusto Pinochet, Equatorial Guinea, million, Bank Secrecy Act, Riggs Bank_
 
 ##### Michael McManus
 ### [ Michael McManus, author of the U.S.-wide syndicated newspaper column "Ethics & Religion", was paid $10,000 by the DHHS for writing articles promoting a marriage initiative. ](/news/2005/01/28/michael-mcmanus-author-of-the-u-s-wide-syndicated-newspaper-column-ethics-religion-was-paid-10-000-by-the-dhhs-for-writing-articles.md)
@@ -13,19 +13,19 @@ _Context: DHHS, Michael McManus_
 
 ##### Guantnamo Bay
 ### [ An Australian recently freed from Guantanamo Bay claims U.S. agents told him they killed his whole family and strung the interrogation room with faked photos of his wife and children with animals' heads. He also says he was sexually assaulted and menstrual blood had been put all over him before being left alone in a cell with no water. ](/news/2005/01/28/an-australian-recently-freed-from-guantanamo-bay-claims-u-s-agents-told-him-they-killed-his-whole-family-and-strung-the-interrogation-room.md)
-_Context: menstrual, sexual assault, Guantnamo Bay_
+_Context: Guantnamo Bay, menstrual, sexual assault_
 
 ##### Asia
 ### [ Asia's richest woman, Nina Wang, is formally charged with forgery of her kidnapped husband's will. ](/news/2005/01/28/asia-s-richest-woman-nina-wang-is-formally-charged-with-forgery-of-her-kidnapped-husband-s-will.md)
-_Context: Asia, Nina Wang_
+_Context: Nina Wang, Asia_
 
 ##### Israeli-Palestinian Conflict
 ### [ Israeli-Palestinian Conflict: Hamas, contesting their first election, have swept to power in local elections in Gaza. ](/news/2005/01/28/israeli-palestinian-conflict-hamas-contesting-their-first-election-have-swept-to-power-in-local-elections-in-gaza.md)
-_Context: Israeli-Palestinian Conflict, Gaza Strip, Hamas_
+_Context: Hamas, Gaza Strip, Israeli-Palestinian Conflict_
 
 ##### Kim Beazley
 ### [ Kim Beazley is re-elected to the leadership of the Australian Labor Party unopposed, succeeding Mark Latham, in the fourth leadership change since losing government in 1996. ](/news/2005/01/28/kim-beazley-is-re-elected-to-the-leadership-of-the-australian-labor-party-unopposed-succeeding-mark-latham-in-the-fourth-leadership-chang.md)
-_Context: Kim Beazley, Mark Latham, 1996, Australian Labor Party_
+_Context: Mark Latham, 1996, Australian Labor Party, Kim Beazley_
 
 ##### 2004 Indian Ocean earthquake
 ### [ A month after the 2004 Indian Ocean earthquake and tsunamis, more than 1000 bodies a day are still being recovered in Aceh. ](/news/2005/01/28/a-month-after-the-2004-indian-ocean-earthquake-and-tsunamis-more-than-1000-bodies-a-day-are-still-being-recovered-in-aceh.md)

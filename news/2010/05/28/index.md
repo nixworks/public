@@ -13,7 +13,7 @@ _Context: Guatemala, Pacaya_
 
 ##### Friday's attack
 ### [Assailants attack two mosques in Lahore, Pakistan, killing at least 80 and injuring 50 more. ](/news/2010/05/28/assailants-attack-two-mosques-in-lahore-pakistan-killing-at-least-80-and-injuring-50-more.md)
-_Context: Lahore, Pakistan, Friday's attack_
+_Context: Friday's attack, Lahore, Pakistan_
 
 ##### India
 ### [At least 25 people are killed and 150 injured in India after a Mumbai train with 13 passenger coaches is derailed by an explosion on the tracks and collides with another train as it traveled through the Paschim Medinipur district, a rebel stronghold in eastern India. ](/news/2010/05/28/at-least-25-people-are-killed-and-150-injured-in-india-after-a-mumbai-train-with-13-passenger-coaches-is-derailed-by-an-explosion-on-the-tra.md)
@@ -41,11 +41,11 @@ Chinese Premier Wen Jiabao says Beijing will not protect whoever was behind the 
 
 ##### Peru
 ### [Peruvian AIDESEP indigenous leader Alberto Pizango, detained on Wednesday as he returned from almost a year in exile in Nicaragua and charged with objecting to oil digging in the rainforest, is released on bail. ](/news/2010/05/28/peruvian-aidesep-indigenous-leader-alberto-pizango-detained-on-wednesday-as-he-returned-from-almost-a-year-in-exile-in-nicaragua-and-charge.md)
-_Context: Alberto Pizango, Peru, AIDESEP, Nicaragua_
+_Context: Peru, Alberto Pizango, AIDESEP, Nicaragua_
 
 ##### President
 ### [President of South Africa Jacob Zuma, in a rare disagreement with another African state, issues a statement of condemnation following Malawi's sentencing of a same-sex couple to 14 years in jail. ](/news/2010/05/28/president-of-south-africa-jacob-zuma-in-a-rare-disagreement-with-another-african-state-issues-a-statement-of-condemnation-following-malawi.md)
-_Context: Jacob Zuma, President, Malawi, same-sex couples_
+_Context: Malawi, same-sex couples, President, Jacob Zuma_
 
 ##### BBC
 ### [The BBC intervenes and tensions escalate after the UK cabinet members' threat to boycott "Question Time" unless Alastair Campbell, former adviser to Tony Blair, is removed from the panel. ](/news/2010/05/28/the-bbc-intervenes-and-tensions-escalate-after-the-uk-cabinet-members-threat-to-boycott-question-time-unless-alastair-campbell-former-ad.md)
@@ -61,7 +61,7 @@ As BP continued its effort to gain control of its untamed deep-sea well, Preside
 
 ##### Australia
 ### [Australia promises to begin legal action against Japan due to disagreeing with its annual whaling hunt in the Southern Ocean. ](/news/2010/05/28/australia-promises-to-begin-legal-action-against-japan-due-to-disagreeing-with-its-annual-whaling-hunt-in-the-southern-ocean.md)
-_Context: Australia, Japan, Southern Ocean_
+_Context: Southern Ocean, Australia, Japan_
 
 ##### Indonesia
 ### [Indonesia announces a two-year moratorium on rainforest logging in return for up to $1bn in aid from Norway, which will help preserve forests. ](/news/2010/05/28/indonesia-announces-a-two-year-moratorium-on-rainforest-logging-in-return-for-up-to-1bn-in-aid-from-norway-which-will-help-preserve-forest.md)
@@ -77,7 +77,7 @@ France&#x20;will&#x20;host&#x20;the&#x20;European&#x20;Football&#x20;Championshi
 
 ##### Joe Biden
 ### [Joe Biden, Bill Clinton and Barack Obama give the United States men's national soccer team a presidential send-off to South Africa from the White House ahead of the 2010 FIFA World Cup. ](/news/2010/05/28/joe-biden-bill-clinton-and-barack-obama-give-the-united-states-men-s-national-soccer-team-a-presidential-send-off-to-south-africa-from-the.md)
-_Context: White House, Bill Clinton, Joe Biden, Barack Obama, 2010 FIFA World Cup, United States men's national soccer team, South Africa_
+_Context: Joe Biden, Bill Clinton, United States men's national soccer team, Barack Obama, White House, South Africa, 2010 FIFA World Cup_
 
 ## [Previous Day...](/news/2010/05/27/index.md)
 

@@ -13,7 +13,7 @@ A top rebel commander in eastern Ukraine has been killed in a car bombing that r
 
 ##### Ukraine-United States relations
 ### [U.S. President Donald Trump and Ukrainian President Petro Poroshenko, in a telephone call, discuss strengthening the two countries' strategic partnership with particular attention to the conflict in the Donbass, a Ukrainian region that borders Russia. ](/news/2017/02/4/u-s-president-donald-trump-and-ukrainian-president-petro-poroshenko-in-a-telephone-call-discuss-strengthening-the-two-countries-strategi.md)
-_Context: Ukrainian President, War in Donbass, Donbass, U.S. President, Ukraine-United States relations, Donald Trump, Russia, Petro Poroshenko_
+_Context: Russia, Ukraine-United States relations, Petro Poroshenko, U.S. President, Donbass, Ukrainian President, War in Donbass, Donald Trump_
 
 ##### 2017 Romanian protests
 ### [Romanian Prime Minister Sorin Grindeanu announces that his government will scrap its proposed decree of decriminalizing some graft offenses on Sunday. ](/news/2017/02/4/romanian-prime-minister-sorin-grindeanu-announces-that-his-government-will-scrap-its-proposed-decree-of-decriminalizing-some-graft-offenses.md)
@@ -29,7 +29,7 @@ Homeland Security announced Saturday it is suspending the implementation of Pres
 
 ##### Cave squeaker
 ### [The cave squeaker ("Arthroleptis troglodytes"), a critically endangered species of frog, is located and captured for the first time since 1962. Scientists announce plans to breed. ](/news/2017/02/4/the-cave-squeaker-arthroleptis-troglodytes-a-critically-endangered-species-of-frog-is-located-and-captured-for-the-first-time-since-19.md)
-_Context: frog, cave squeaker_
+_Context: cave squeaker, frog_
 
 ## [Previous Day...](/news/2017/02/3/index.md)
 

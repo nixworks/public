@@ -5,7 +5,7 @@ Formats: [HTML](2009/07/27/index.html)  [JSON](2009/07/27/index.json)  [XML](200
 
 ##### Gloria Macapagal-Arroyo
 ### [ President Gloria Macapagal-Arroyo delivers her last State of the Nation Address and denies plans to extend her term which end in June 2010 as plans to convene a constituent assembly to amend the constitution erupts. ](/news/2009/07/27/president-gloria-macapagal-arroyo-delivers-her-last-state-of-the-nation-address-and-denies-plans-to-extend-her-term-which-end-in-june-2010.md)
-_Context: constituent assembly, State of the Nation Address, Gloria Macapagal-Arroyo_
+_Context: Gloria Macapagal-Arroyo, constituent assembly, State of the Nation Address_
 
 ##### A line of wildfires
 ### [ A line of wildfires in the Mediterranean region, which has killed eight people, spreads to Croatia. ](/news/2009/07/27/a-line-of-wildfires-in-the-mediterranean-region-which-has-killed-eight-people-spreads-to-croatia.md)
@@ -13,7 +13,7 @@ The majority of wildfires in France, Italy and Spain have been extinguished or b
 
 ##### Killed as clashes continue
 ### [ At least 150 people are killed as clashes continue between radical Islamists in northern Nigeria after two days of unrest. ](/news/2009/07/27/at-least-150-people-are-killed-as-clashes-continue-between-radical-islamists-in-northern-nigeria-after-two-days-of-unrest.md)
-_Context: killed as clashes continue, Islamists, Nigeria_
+_Context: killed as clashes continue, Nigeria, Islamists_
 
 ##### Canadian
 ### [ Canada challenges the seal ban of the European Union at the World Trade Organization. ](/news/2009/07/27/canada-challenges-the-seal-ban-of-the-european-union-at-the-world-trade-organization.md)
@@ -25,15 +25,15 @@ China is bringing 150 senior officials, including nearly its whole Cabinet, to t
 
 ##### Liberia
 ### [ Former Liberian leader Charles Taylor denies cannibalism at his war trial in The Hague. ](/news/2009/07/27/former-liberian-leader-charles-taylor-denies-cannibalism-at-his-war-trial-in-the-hague.md)
-_Context: Charles Taylor, The Hague, cannibalism, Liberia_
+_Context: cannibalism, Liberia, The Hague, Charles Taylor_
 
 ##### Eastern Cape
 ### [ A rural community in the Eastern Cape in South Africa lays claim to the entire town of Mthatha in one of the biggest land restitution cases since the end of apartheid. ](/news/2009/07/27/a-rural-community-in-the-eastern-cape-in-south-africa-lays-claim-to-the-entire-town-of-mthatha-in-one-of-the-biggest-land-restitution-cases.md)
-_Context: Eastern Cape, apartheid, South Africa, Mthatha_
+_Context: Eastern Cape, Mthatha, apartheid, South Africa_
 
 ##### Patriarch Kirill
 ### [ Patriarch Kirill of the Russian Orthodox Church begins a visit to Ukraine. ](/news/2009/07/27/patriarch-kirill-of-the-russian-orthodox-church-begins-a-visit-to-ukraine.md)
-_Context: Russian, Patriarch Kirill, Ukraine_
+_Context: Ukraine, Russian, Patriarch Kirill_
 
 ##### France
 ### [ French President Nicolas Sarkozy leaves hospital after tests due to his fainting fits. ](/news/2009/07/27/french-president-nicolas-sarkozy-leaves-hospital-after-tests-due-to-his-fainting-fits.md)
@@ -41,7 +41,7 @@ French President Nicolas Sarkozy has left hospital after tests confirmed that hi
 
 ##### German
 ### [ German health minister Ulla Schmidt is criticised when her official car is stolen during the burglarization of her driver's hotel room in Alicante, Spain. ](/news/2009/07/27/german-health-minister-ulla-schmidt-is-criticised-when-her-official-car-is-stolen-during-the-burglarization-of-her-driver-s-hotel-room-in-a.md)
-_Context: Spain, German, Ulla Schmidt, health minister, Alicante_
+_Context: Alicante, Ulla Schmidt, Spain, health minister, German_
 
 ##### Sex
 ### [ A Saudi man facing flogging or imprisonment for speaking of his illegal sexual conquests on television apologises for his actions. ](/news/2009/07/27/a-saudi-man-facing-flogging-or-imprisonment-for-speaking-of-his-illegal-sexual-conquests-on-television-apologises-for-his-actions.md)
@@ -53,15 +53,15 @@ Garda&iacute; in Waterford are investigating after a significant amount of damag
 
 ##### Bokode
 ### [ Researchers outline bokodes, a proposed replacement for the black and white stripes of the traditional barcode. ](/news/2009/07/27/researchers-outline-bokodes-a-proposed-replacement-for-the-black-and-white-stripes-of-the-traditional-barcode.md)
-_Context: bokode, barcode_
+_Context: barcode, bokode_
 
 ##### United Kingdom
 ### [ A British-led military offensive, Operation Panther's Claw, succeeds in clearing the Taliban from parts of southern Helmand Province in Afghanistan. ](/news/2009/07/27/a-british-led-military-offensive-operation-panther-s-claw-succeeds-in-clearing-the-taliban-from-parts-of-southern-helmand-province-in-afg.md)
-_Context: United Kingdom, Operation Panther's Claw, Afghanistan, Helmand Province, Taliban_
+_Context: Taliban, United Kingdom, Operation Panther's Claw, Afghanistan, Helmand Province_
 
 ##### Albania
 ### [ Albanian Prime Minister Sali Berisha's alliance wins enough seats to form a government, though it fell one seat short of a majority. ](/news/2009/07/27/albanian-prime-minister-sali-berisha-s-alliance-wins-enough-seats-to-form-a-government-though-it-fell-one-seat-short-of-a-majority.md)
-_Context: Sali Berisha, Prime Minister, Albania_
+_Context: Prime Minister, Sali Berisha, Albania_
 
 ## [Previous Day...](/news/2009/07/26/index.md)
 

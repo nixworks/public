@@ -5,7 +5,7 @@ Formats: [HTML](2011/09/22/index.html)  [JSON](2011/09/22/index.json)  [XML](201
 
 ##### Pakistan
 ### [At least five people are killed in a bus bombing in Pakistan's Bajaur Agency. ](/news/2011/09/22/at-least-five-people-are-killed-in-a-bus-bombing-in-pakistan-s-bajaur-agency.md)
-_Context: Pakistan, Bajaur_
+_Context: Bajaur, Pakistan_
 
 ##### Stock market
 ### [World stock markets plunge amid growing global fears of recession. ](/news/2011/09/22/world-stock-markets-plunge-amid-growing-global-fears-of-recession.md)
@@ -13,11 +13,11 @@ _Context: recession, stock market_
 
 ##### Facebook
 ### [Facebook makes major changes to its social networking interface, updating its profile page, adding an app store, and amending its news feed with a "timeline" feature. ](/news/2011/09/22/facebook-makes-major-changes-to-its-social-networking-interface-updating-its-profile-page-adding-an-app-store-and-amending-its-news-feed.md)
-_Context: Facebook, social networking, app store_
+_Context: app store, Facebook, social networking_
 
 ##### Hewlett-Packard
 ### [Hewlett-Packard fires CEO Lo Apotheker, replacing him with former eBay CEO Meg Whitman. ](/news/2011/09/22/hewlett-packard-fires-ceo-leo-apotheker-replacing-him-with-former-ebay-ceo-meg-whitman.md)
-_Context: CEO, Lo Apotheker, Meg Whitman, eBay, Hewlett-Packard_
+_Context: Lo Apotheker, Hewlett-Packard, CEO, Meg Whitman, eBay_
 
 ##### Typhoon Roke
 ### [Typhoon Roke passes through the Japanese island of Honshu, causing 13 deaths, and arrives in Hokkaido. ](/news/2011/09/22/typhoon-roke-passes-through-the-japanese-island-of-honshu-causing-13-deaths-and-arrives-in-hokkaido.md)
@@ -33,11 +33,11 @@ _Context: Han, drainage basin, Wei River_
 
 ##### Hurricane Jova
 ### [2011 Pacific hurricane season: Hurricane Hilary reaches category 3 strength off the coast of Mexico, but is not expected to make landfall. ](/news/2011/09/22/2011-pacific-hurricane-season-hurricane-hilary-reaches-category-3-strength-off-the-coast-of-mexico-but-is-not-expected-to-make-landfall.md)
-_Context: Hilary, category 3, Hurricane Jova_
+_Context: category 3, Hurricane Jova, Hilary_
 
 ##### Anniston Chemical Activity
 ### [The Anniston Chemical Activity destroys its last mustard gas shells, becoming the fifth of nine US chemical weapons depots to close under terms of the Chemical Weapons Treaty. ](/news/2011/09/22/the-anniston-chemical-activity-destroys-its-last-mustard-gas-shells-becoming-the-fifth-of-nine-us-chemical-weapons-depots-to-close-under-te.md)
-_Context: Anniston Chemical Activity, mustard gas, chemical weapon, Chemical Weapons Treaty_
+_Context: mustard gas, Anniston Chemical Activity, chemical weapon, Chemical Weapons Treaty_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI commences a state visit to Germany. ](/news/2011/09/22/pope-benedict-xvi-commences-a-state-visit-to-germany.md)
@@ -45,11 +45,11 @@ Pope Benedict XVI faces a clamour for change as he heads to Germany for his firs
 
 ##### F-16
 ### [China warns the United States over its proposed sale of newer versions of the General Dynamics F-16 Fighting Falcon to Taiwan. ](/news/2011/09/22/china-warns-the-united-states-over-its-proposed-sale-of-newer-versions-of-the-general-dynamics-f-16-fighting-falcon-to-taiwan.md)
-_Context: Taiwan, F-16_
+_Context: F-16, Taiwan_
 
 ##### General Assembly of the United Nations
 ### [Representatives of the United States and European nations walk out of the General Assembly of the United Nations during an accusatory speech by the President of Iran, Mahmoud Ahmadinejad. ](/news/2011/09/22/representatives-of-the-united-states-and-european-nations-walk-out-of-the-general-assembly-of-the-united-nations-during-an-accusatory-speech.md)
-_Context: General Assembly of the United Nations, President, Mahmoud Ahmadinejad_
+_Context: General Assembly of the United Nations, Mahmoud Ahmadinejad, President_
 
 ##### FBI
 ### [The Federal Bureau of Investigation arrests suspected members of the computer hacking groups LulzSec and Anonymous in the US cities of Phoenix, Arizona and San Francisco. ](/news/2011/09/22/the-federal-bureau-of-investigation-arrests-suspected-members-of-the-computer-hacking-groups-lulzsec-and-anonymous-in-the-us-cities-of-phoen.md)
@@ -65,7 +65,7 @@ Italy’s Parliament rejected a request to authorize the arrest of a former aide
 
 ##### Chile
 ### [Tens of thousands of students protest in the Chilean capital Santiago for increased education expenditure. ](/news/2011/09/22/tens-of-thousands-of-students-protest-in-the-chilean-capital-santiago-for-increased-education-expenditure.md)
-_Context: Santiago, Chile_
+_Context: Chile, Santiago_
 
 ##### Shelly Yachimovich
 ### [Former television journalist Shelly Yachimovich is elected as the head of the Israeli Labor Party. ](/news/2011/09/22/former-television-journalist-shelly-yachimovich-is-elected-as-the-head-of-the-israeli-labor-party.md)

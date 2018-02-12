@@ -37,7 +37,7 @@ A&#x20;French&#x20;intelligence&#x20;expert&#x20;has&#x20;poured&#x20;cold&#x20;
 
 ##### OSCE
 ### [The OSCE titles the parliamentary election in Georgia as "fair and free". Partial results show a majority of votes for Georgian Dream. President Saakashvili concedes that his party, United National Movement, will move to opposition. Bidzina Ivanishvili is expected to become prime minister, and after legislative changes next year, also head of state. ](/news/2012/10/2/the-osce-titles-the-parliamentary-election-in-georgia-as-fair-and-free-partial-results-show-a-majority-of-votes-for-georgian-dream-presi.md)
-_Context: Prime Minister of Georgia, parliamentary election, Georgian Dream, United National Movement, OSCE, Mikheil Saakashvili, President of Georgia, Bidzina Ivanishvili_
+_Context: Prime Minister of Georgia, President of Georgia, Mikheil Saakashvili, Georgian Dream, United National Movement, Bidzina Ivanishvili, parliamentary election, OSCE_
 
 ## [Previous Day...](/news/2012/10/1/index.md)
 

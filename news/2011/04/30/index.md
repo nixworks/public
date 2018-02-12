@@ -13,11 +13,11 @@ Libyan leader Colonel Muammar Gaddafi says no-one can force him to leave his cou
 
 ##### Thailand
 ### [Thai and Cambodian troops exchange gunfire near the Ta Krabei temple in Oddar Meanchey Province marking the ninth straight day of border clashes. ](/news/2011/04/30/thai-and-cambodian-troops-exchange-gunfire-near-the-ta-krabei-temple-in-oddar-meanchey-province-marking-the-ninth-straight-day-of-border-cla.md)
-_Context: Cambodia, Oddar Meanchey Province, Thailand_
+_Context: Thailand, Cambodia, Oddar Meanchey Province_
 
 ##### Morocco
 ### [Moroccan interior minister Taieb Cherkaoui says the bomb detonated in Marrakech was set off remotely. ](/news/2011/04/30/moroccan-interior-minister-taieb-cherkaoui-says-the-bomb-detonated-in-marrakech-was-set-off-remotely.md)
-_Context: bomb detonated, Morocco, Taieb Cherkaoui, Marrakech_
+_Context: Taieb Cherkaoui, Marrakech, bomb detonated, Morocco_
 
 ##### Danes
 ### [A study carried out by the Danish Booksellers Association reveals almost one third of Danes over the age of 14 read at least one book annually written in the English language. ](/news/2011/04/30/a-study-carried-out-by-the-danish-booksellers-association-reveals-almost-one-third-of-danes-over-the-age-of-14-read-at-least-one-book-annual.md)
@@ -33,7 +33,7 @@ _Context: three day tornado outbreak_
 
 ##### South Korea
 ### [South Korea announces plans to hold two frontline artillery drills on Baengnyeong Island and Yeonpyeong Island near North Korea. ](/news/2011/04/30/south-korea-announces-plans-to-hold-two-frontline-artillery-drills-on-baengnyeong-island-and-yeonpyeong-island-near-north-korea.md)
-_Context: North Korea, Yeonpyeong Island, South Korea, Baengnyeong Island_
+_Context: Yeonpyeong Island, Baengnyeong Island, South Korea, North Korea_
 
 ##### Bradley Manning
 ### [Army intelligence analyst Bradley Manning, imprisoned by the United States on charges of disclosing government information to the general public, is found competent to stand trial by a "panel of experts", despite having earlier been thought of as a "suicide risk" and having his clothes removed. ](/news/2011/04/30/army-intelligence-analyst-bradley-manning-imprisoned-by-the-united-states-on-charges-of-disclosing-government-information-to-the-general-pu.md)

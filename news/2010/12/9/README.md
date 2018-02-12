@@ -9,11 +9,11 @@ Dame Helen Mirren condemns film-makers for aiming movies at young men, saying Ho
 
 ##### Governor of Florida
 ### [Governor of the U.S. state of Florida Charlie Crist posthumously pardons Jim Morrison, the lead singer of The Doors, for indecent exposure. ](/news/2010/12/9/governor-of-the-u-s-state-of-florida-charlie-crist-posthumously-pardons-jim-morrison-the-lead-singer-of-the-doors-for-indecent-exposure.md)
-_Context: indecent exposure, Jim Morrison, Doors, Governor of Florida, the state, Charlie Crist_
+_Context: Governor of Florida, Doors, Jim Morrison, Charlie Crist, indecent exposure, the state_
 
 ##### Coronation Street
 ### [An hour-long live episode of "Coronation Street" is broadcast on the soap opera's 50th anniversary. ](/news/2010/12/9/an-hour-long-live-episode-of-coronation-street-is-broadcast-on-the-soap-opera-s-50th-anniversary.md)
-_Context: soap opera, Coronation Street_
+_Context: Coronation Street, soap opera_
 
 ##### Calisto Tanzi
 ### [Calisto Tanzi, the founder and former chief executive of multinational food corporation Parmalat, is sentenced to 18 years imprisonment for fraud. ](/news/2010/12/9/calisto-tanzi-the-founder-and-former-chief-executive-of-multinational-food-corporation-parmalat-is-sentenced-to-18-years-imprisonment-for.md)
@@ -73,7 +73,7 @@ Haiti says it will review the disputed result of its presidential election, afte
 
 ##### Southern Sudan
 ### [Crowds gather in the South Sudan capital Juba to mark one month until the referendum on independence. ](/news/2010/12/9/crowds-gather-in-the-south-sudan-capital-juba-to-mark-one-month-until-the-referendum-on-independence.md)
-_Context: Southern Sudan, Juba, Southern Sudanese Independence Referendum_
+_Context: Juba, Southern Sudan, Southern Sudanese Independence Referendum_
 
 ##### 
 ### [Thousands of British students demonstrate as MPs vote to triple university tuition fees. ](/news/2010/12/9/thousands-of-british-students-demonstrate-as-mps-vote-to-triple-university-tuition-fees.md)
@@ -81,7 +81,7 @@ Parliamentary coalition votes to triple university fees as students clash with p
 
 ##### South Korea
 ### [South Korea reports its first two cases of the superbug New Delhi metallo-beta-lactamase. ](/news/2010/12/9/south-korea-reports-its-first-two-cases-of-the-superbug-new-delhi-metallo-beta-lactamase.md)
-_Context: South Korea, superbug, New Delhi metallo-beta-lactamase_
+_Context: superbug, South Korea, New Delhi metallo-beta-lactamase_
 
 ## [Previous Day...](/news/2010/12/8/index.md)
 

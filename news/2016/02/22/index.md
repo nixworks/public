@@ -5,7 +5,7 @@ Formats: [HTML](2016/02/22/index.html)  [JSON](2016/02/22/index.json)  [XML](201
 
 ##### Insurgency in Jammu and Kashmir
 ### [Loud explosions and gunfire are heard in a building where Kashmiri forces are fighting Jammu Kashmir Liberation Front militants in a standoff that has claimed the lives of five soldiers and one civilian. ](/news/2016/02/22/loud-explosions-and-gunfire-are-heard-in-a-building-where-kashmiri-forces-are-fighting-jammu-kashmir-liberation-front-militants-in-a-standof.md)
-_Context: 2016 Pampore stand-off, Kashmir, Jammu Kashmir Liberation Front, Insurgency in Jammu and Kashmir_
+_Context: Kashmir, 2016 Pampore stand-off, Insurgency in Jammu and Kashmir, Jammu Kashmir Liberation Front_
 
 ##### War in Afghanistan (2015-present)
 ### [A suicide bomber kills at least 13 people and injures 19 in Afghanistan's Parwan province. The Taliban claims responsibility. ](/news/2016/02/22/a-suicide-bomber-kills-at-least-13-people-and-injures-19-in-afghanistan-s-parwan-province-the-taliban-claims-responsibility.md)
@@ -17,11 +17,11 @@ Zimbabwe President Robert Mugabe ordered the expulsion of eight foreign diamond 
 
 ##### 2015-16 South Pacific cyclone season
 ### [The death toll in Fiji rises to at least 17 as authorities continue to assess the damage. All schools in the country are closed for the week. A nationwide curfew remains in effect. ](/news/2016/02/22/the-death-toll-in-fiji-rises-to-at-least-17-as-authorities-continue-to-assess-the-damage-all-schools-in-the-country-are-closed-for-the-week.md)
-_Context: Fiji, 2015-16 South Pacific cyclone season, Cyclone Winston_
+_Context: Cyclone Winston, Fiji, 2015-16 South Pacific cyclone season_
 
 ##### Russia-United States relations
 ### [Russia has announced that it will ask permission to fly unarmed surveillance planes over the United States citing the Open Skies Treaty. ](/news/2016/02/22/russia-has-announced-that-it-will-ask-permission-to-fly-unarmed-surveillance-planes-over-the-united-states-citing-the-open-skies-treaty.md)
-_Context: Open Skies Treaty, American, Russia-United States relations_
+_Context: American, Open Skies Treaty, Russia-United States relations_
 
 ##### European migrant crisis
 ### [German Interior Minister Thomas de Maiziere strongly criticizes Austria's decision to put a daily cap on the number of refugees the country can accept. Austria has set a limit of dealing with 80 asylum applications a day, while letting thousands of others transit to Germany. Maiziere said this sends "the wrong signal" and is "unacceptable". ](/news/2016/02/22/german-interior-minister-thomas-de-maizia-re-strongly-criticizes-austria-s-decision-to-put-a-daily-cap-on-the-number-of-refugees-the-country.md)
@@ -37,7 +37,7 @@ The US and Russia announce that a planned partial cessation of hostilities in Sy
 
 ##### 2016 Kalamazoo shootings
 ### [Jason Dalton is charged with six counts of murder in Kalamazoo County, Michigan. ](/news/2016/02/22/jason-dalton-is-charged-with-six-counts-of-murder-in-kalamazoo-county-michigan.md)
-_Context: Kalamazoo County, Michigan, 2016 Kalamazoo shootings_
+_Context: 2016 Kalamazoo shootings, Kalamazoo County, Michigan_
 
 ##### Maryland  Court of Appeals
 ### [The Maryland Court of Appeals rules the state's Public Information Act does not apply to abortion clinic license applicants' names, denying the Maryland Coalition for Life's appeal which had noted that courts in Illinois, Kansas and Minnesota have ordered these names released. The ruling can not be appealed to federal courts. ](/news/2016/02/22/the-maryland-court-of-appeals-rules-the-state-s-public-information-act-does-not-apply-to-abortion-clinic-license-applicants-names-denying.md)
@@ -45,11 +45,11 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ##### Philippine Senate election, 2016
 ### [Walden Bello, a socialist candidate for the Philippine Senate, files a petition that may disqualify boxer Manny Pacquiao for violating election rules regarding publicity. Based on the commission's rules, Pacquiao's wife, Jinkee Pacquiao, may substitute. ](/news/2016/02/22/walden-bello-a-socialist-candidate-for-the-philippine-senate-files-a-petition-that-may-disqualify-boxer-manny-pacquiao-for-violating-elect.md)
-_Context: Manny Pacquiao, Walden Bello, Philippine Senate election, 2016, Jinkee Pacquiao_
+_Context: Walden Bello, Philippine Senate election, 2016, Manny Pacquiao, Jinkee Pacquiao_
 
 ##### Ugandan general election, 2016
 ### [Opposition leader Kizza Besigye is arrested while trying to obtain copies of the official election results. ](/news/2016/02/22/opposition-leader-kizza-besigye-is-arrested-while-trying-to-obtain-copies-of-the-official-election-results.md)
-_Context: Kizza Besigye, Ugandan general election, 2016_
+_Context: Ugandan general election, 2016, Kizza Besigye_
 
 ##### Jat reservation agitation
 ### [Jat protesters reach an agreement with the Indian government on increased reservations similar to those authorized for economically disadvantaged lower castes. Authorities say at least 19 people have been killed in the three-day demonstrations. Protest leaders call for reopening blockaded roads in the northern state of Haryana. Water restrictions, implemented after protesters damaged the water station's New Dehli feed, remain in effect while engineers repair the equipment. ](/news/2016/02/22/jat-protesters-reach-an-agreement-with-the-indian-government-on-increased-reservations-similar-to-those-authorized-for-economically-disadvan.md)

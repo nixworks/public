@@ -25,7 +25,7 @@ _Context: RTS, MICEX, Russia_
 
 ##### American
 ### [ Investigators in the United States announce that they have found human remains in what is believed to be the wreckage of Steve Fossett's plane, which went missing over California a year ago. ](/news/2008/10/3/investigators-in-the-united-states-announce-that-they-have-found-human-remains-in-what-is-believed-to-be-the-wreckage-of-steve-fossett-s-pl.md)
-_Context: California, went missing, American, Steve Fossett_
+_Context: went missing, American, California, Steve Fossett_
 
 ##### American
 ### [ United States government announces sale of billions of dollars of arms to Taiwan to keep a balance with China's massive arms buildup aimed at Taiwan. ](/news/2008/10/3/united-states-government-announces-sale-of-billions-of-dollars-of-arms-to-taiwan-to-keep-a-balance-with-china-s-massive-arms-buildup-aimed.md)
@@ -37,7 +37,7 @@ _Context: Russia, pirates_
 
 ##### Viking
 ### [ The remains of a Viking-era stave church, including the skeletal remains of a woman, is uncovered near the cemetery of the Lnns church in Odensbacken outside rebro in central Sweden. ](/news/2008/10/3/the-remains-of-a-viking-era-stave-church-including-the-skeletal-remains-of-a-woman-is-uncovered-near-the-cemetery-of-the-lannas-church-in.md)
-_Context: stave church, woman, Odensbacken, Viking, Sweden, rebro, cemetery_
+_Context: Sweden, Odensbacken, woman, rebro, Viking, stave church, cemetery_
 
 ##### Jury
 ### [ A jury convicts retired American football player O.J. Simpson of armed robbery and kidnapping, 13 years to the day after he was acquitted of killing his ex-wife and her friend in Los Angeles. ](/news/2008/10/3/a-jury-convicts-retired-american-football-player-o-j-simpson-of-armed-robbery-and-kidnapping-13-years-to-the-day-after-he-was-acquitted-o.md)

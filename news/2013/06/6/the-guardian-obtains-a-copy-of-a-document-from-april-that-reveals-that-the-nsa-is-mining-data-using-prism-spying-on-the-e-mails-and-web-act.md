@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/6/the-guardian-obtains-a-copy-of-a-document-from-a
 
 ### [2013-06-6](/news/2013/06/6/index.md)
 
-##### National Security Agency
+##### NSA
 # The Guardian obtains a copy of a document from April that reveals that the NSA is mining data using PRISM, spying on the e-mails and web activities of American citizens through direct access to Google, Apple, Microsoft, Facebook, YouTube, Skype, Yahoo, Paltalk and AOL. The Guardian's report does not state from whom they obtained the document. 
 
 The National Security Agency&#039;s Prism program tapped directly into the servers of most of the web&#039;s largest companies, monitoring our search history, the content of emails, file transfers, and live chats, The Guardian alleges.

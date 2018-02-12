@@ -5,7 +5,7 @@ Formats: [HTML](2015/09/2/index.html)  [JSON](2015/09/2/index.json)  [XML](2015/
 
 ##### Iraq War (2014-present)
 ### [Masked men in military uniforms kidnap 16 Turkish workers in Baghdad. ](/news/2015/09/2/masked-men-in-military-uniforms-kidnap-16-turkish-workers-in-baghdad.md)
-_Context: Iraq War (2014-present), Baghdad, Turkish_
+_Context: Baghdad, Iraq War (2014-present), Turkish_
 
 ##### Syrian Civil War
 ### [A car bomb kills at least seven people in the Latakia Governorate. ](/news/2015/09/2/a-car-bomb-kills-at-least-seven-people-in-the-latakia-governorate.md)
@@ -13,7 +13,7 @@ At least ten people were killed and scores wounded when a car bomb exploded in t
 
 ##### India
 ### [150 million workers go on strike in India to oppose Prime Minister Narendra Modi's labour market reforms. ](/news/2015/09/2/150-million-workers-go-on-strike-in-india-to-oppose-prime-minister-narendra-modi-s-labour-market-reforms.md)
-_Context: India, Narendra Modi, Indian Prime Minister_
+_Context: Narendra Modi, India, Indian Prime Minister_
 
 ##### France
 ### [French police arrest an arsonist for a fire in an apartment in the 18th arrondissement of Paris which killed eight people.](/news/2015/09/2/french-police-arrest-an-arsonist-for-a-fire-in-an-apartment-in-the-18th-arrondissement-of-paris-which-killed-eight-people.md)
@@ -21,7 +21,7 @@ French police arrest a man suspected of starting a fire that killed eight people
 
 ##### Upcoming congressional votes
 ### [President Barack Obama has sufficient support in the United States Senate to uphold a veto of the proposed congressional vote of disapproval of the nuclear deal with Iran. ](/news/2015/09/2/president-barack-obama-has-sufficient-support-in-the-united-states-senate-to-uphold-a-veto-of-the-proposed-congressional-vote-of-disapproval.md)
-_Context: Iran, Barack Obama, U.S. President, Upcoming congressional votes, United States Senate_
+_Context: Upcoming congressional votes, Iran, Barack Obama, U.S. President, United States Senate_
 
 ##### India
 ### [Eight people have been killed and over 30 injured in riots in the Indian state of Manipur since the passage of three controversial land bills on Monday. ](/news/2015/09/2/eight-people-have-been-killed-and-over-30-injured-in-riots-in-the-indian-state-of-manipur-since-the-passage-of-three-controversial-land-bill.md)
@@ -33,7 +33,7 @@ Gang violence in El Salvador left 907 people dead last month, a level of bloodsh
 
 ##### Dutch Public Prosecution Service
 ### [The Dutch Public Prosecution Service releases a statement that former Deputy Prime Minister of the Netherlands Els Borst who was murdered on 8 February 2014, died from forty-one stab wounds on her head, neck and hands. ](/news/2015/09/2/the-dutch-public-prosecution-service-releases-a-statement-that-former-deputy-prime-minister-of-the-netherlands-els-borst-who-was-murdered-on.md)
-_Context: stab wounds, Dutch Public Prosecution Service, Deputy Prime Minister of the Netherlands, Els Borst_
+_Context: Deputy Prime Minister of the Netherlands, Els Borst, stab wounds, Dutch Public Prosecution Service_
 
 ##### France
 ### [A French probe into the death of former Palestinian leader Yasser Arafat in 2004 closes without bringing any new information. ](/news/2015/09/2/a-french-probe-into-the-death-of-former-palestinian-leader-yasser-arafat-in-2004-closes-without-bringing-any-new-information.md)
@@ -41,7 +41,7 @@ French&#x20;judges&#x20;investigating&#x20;claims&#x20;that&#x20;Palestinian&#x2
 
 ##### Guatemalan President
 ### [A judge orders that President of Guatemala Otto Perez Molina be detained for his alleged role in a corruption scandal. ](/news/2015/09/2/a-judge-orders-that-president-of-guatemala-otto-pa-c-rez-molina-be-detained-for-his-alleged-role-in-a-corruption-scandal.md)
-_Context: Guatemalan President, Otto Perez Molina_
+_Context: Otto Perez Molina, Guatemalan President_
 
 ##### Tree
 ### [A new study estimates that there are three trillion trees on Earth, with 15 billion lost each year to mainly human causes. ](/news/2015/09/2/a-new-study-estimates-that-there-are-three-trillion-trees-on-earth-with-15-billion-lost-each-year-to-mainly-human-causes.md)

@@ -5,11 +5,11 @@ Formats: [HTML](2014/11/26/index.html)  [JSON](2014/11/26/index.json)  [XML](201
 
 ##### 2014 pro-Russian unrest in Ukraine
 ### [At least three people die in a new round of fighting between the Armed Forces of Ukraine and pro-Russian separatists. ](/news/2014/11/26/at-least-three-people-die-in-a-new-round-of-fighting-between-the-armed-forces-of-ukraine-and-pro-russian-separatists.md)
-_Context: Ukrainian military, 2014 pro-Russian unrest in Ukraine_
+_Context: 2014 pro-Russian unrest in Ukraine, Ukrainian military_
 
 ##### China
 ### [A fire in a coal mine in China's Liaoning province kills 24 miners and injures another 52. ](/news/2014/11/26/a-fire-in-a-coal-mine-in-china-s-liaoning-province-kills-24-miners-and-injures-another-52.md)
-_Context: China, Liaoning province_
+_Context: Liaoning province, China_
 
 ##### Eastern United States
 ### [A heavy storm in the eastern United States causes poor road conditions, and delays and cancellations of airline flights ahead of the Thanksgiving holidays with up to 30 million people affected. ](/news/2014/11/26/a-heavy-storm-in-the-eastern-united-states-causes-poor-road-conditions-and-delays-and-cancellations-of-airline-flights-ahead-of-the-thanksg.md)

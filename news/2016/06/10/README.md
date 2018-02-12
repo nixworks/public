@@ -5,15 +5,15 @@ Formats: [HTML](2016/06/10/index.html)  [JSON](2016/06/10/index.json)  [XML](201
 
 ##### War in Afghanistan (2015-present)
 ### [A blast occurs at a mosque in a small village in the Nangarhar Province, killing four people and injuring nearly 40 more. ](/news/2016/06/10/a-blast-occurs-at-a-mosque-in-a-small-village-in-the-nangarhar-province-killing-four-people-and-injuring-nearly-40-more.md)
-_Context: War in Afghanistan (2015-present), Nangarhar Province_
+_Context: Nangarhar Province, War in Afghanistan (2015-present)_
 
 ##### 2016 Aktobe shootings
 ### [Kazakh police kill five additional suspected militants in Aktobe as part of a "counterterrorism operation". ](/news/2016/06/10/kazakh-police-kill-five-additional-suspected-militants-in-aktobe-as-part-of-a-counterterrorism-operation.md)
-_Context: Aktobe, Kazakhstan, 2016 Aktobe shootings, policemen_
+_Context: 2016 Aktobe shootings, Aktobe, policemen, Kazakhstan_
 
 ##### Conflict in the Niger Delta
 ### [The Niger Delta Avengers blow up an oil pipeline operated by Italy's Eni in the Niger Delta. ](/news/2016/06/10/the-niger-delta-avengers-blow-up-an-oil-pipeline-operated-by-italy-s-eni-in-the-niger-delta.md)
-_Context: Italy, Conflict in the Niger Delta, Eni, Niger Delta Avengers, Niger Delta_
+_Context: Niger Delta, Eni, Conflict in the Niger Delta, Italy, Niger Delta Avengers_
 
 ##### Manbij offensive
 ### [Kurdish-led fighters completely encircle the ISIL-held town of Manbij, near the Turkish border, while Syrian forces move closer to ISIL's de facto capital, Raqqa. ](/news/2016/06/10/kurdish-led-fighters-completely-encircle-the-isil-held-town-of-manbij-near-the-turkish-border-while-syrian-forces-move-closer-to-isil-s-de.md)
@@ -41,7 +41,7 @@ Israel on Friday temporarily barred Palestinians from entering the country, a st
 
 ##### Russia-United States relations
 ### [Russia's Foreign Ministry warns of "retaliatory measures" over the entry of the United States Navy destroyer, USS "Porter". The USS "Porter" arrived in the Black Sea port of Varna, Bulgaria, earlier this week for what the U.S. Navy called a routine deployment. ](/news/2016/06/10/russia-s-foreign-ministry-warns-of-retaliatory-measures-over-the-entry-of-the-united-states-navy-destroyer-uss-porter-the-uss-porter.md)
-_Context: Bulgaria, USS ''Porter'', Russia-United States relations, Foreign Ministry, Russia, Varna, United States Navy_
+_Context: Varna, USS ''Porter'', Russia, Russia-United States relations, United States Navy, Foreign Ministry, Bulgaria_
 
 ##### Cuba-United States relations
 ### [The U.S. Department of Commerce approves service by six commercial airlines from five U.S. cities, including Miami and Philadelphia, to nine international airports in Cuba. Approval for routes to the capital Havana are still pending. Most of the carriers plan to begin their new service this fall and winter. ](/news/2016/06/10/the-u-s-department-of-commerce-approves-service-by-six-commercial-airlines-from-five-u-s-cities-including-miami-and-philadelphia-to-nine.md)

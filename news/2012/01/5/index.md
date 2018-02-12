@@ -25,7 +25,7 @@ _Context: Pakistan Taliban_
 
 ##### Landslide
 ### [At least 25 people die with dozens missing as a result of a landslide at a gold mining site in the Philippines Compostela Valley Province. ](/news/2012/01/5/at-least-25-people-die-with-dozens-missing-as-a-result-of-a-landslide-at-a-gold-mining-site-in-the-philippines-compostela-valley-province.md)
-_Context: landslide, Philippines, gold mining, Compostela Valley Province_
+_Context: Compostela Valley Province, Philippines, gold mining, landslide_
 
 ##### Wildfire
 ### [At least six firefighters die fighting wildfires in southern Chile with two badly burnt and one missing. ](/news/2012/01/5/at-least-six-firefighters-die-fighting-wildfires-in-southern-chile-with-two-badly-burnt-and-one-missing.md)

@@ -9,15 +9,15 @@ The Tasmanian Aboriginal community are using National Aboriginal Islander Day Ob
 
 ##### Imam
 ### [Imam Ahmad Afzali leaves the United States for Saudi Arabia, under plea deal in the case involving Najibullah Zazi's alleged plan to bomb the New York City subway. ](/news/2010/07/5/imam-ahmad-afzali-leaves-the-united-states-for-saudi-arabia-under-plea-deal-in-the-case-involving-najibullah-zazi-s-alleged-plan-to-bomb-th.md)
-_Context: New York City subway, Imam, American, Ahmad Afzali, Najibullah Zazi, Saudi Arabia_
+_Context: Ahmad Afzali, American, Imam, Najibullah Zazi, Saudi Arabia, New York City subway_
 
 ##### Hijab
 ### [Anti-government demonstrators, including women dressed in full hijabs brandishing AK-47 automatic rifles, march in Somalia's capital Mogadishu, protesting killings by the African Union Mission in Somalia. ](/news/2010/07/5/anti-government-demonstrators-including-women-dressed-in-full-hijabs-brandishing-ak-47-automatic-rifles-march-in-somalia-s-capital-mogadis.md)
-_Context: high-powered rifles, Mogadishu, African Union, Somalia, AK-47s, AMISOM, hijab_
+_Context: hijab, AK-47s, Mogadishu, high-powered rifles, Somalia, African Union, AMISOM_
 
 ##### European Union
 ### [The European Union withdraws a trade concessions deal with Sri Lanka after the former accused the latter of not improving its human rights record. ](/news/2010/07/5/the-european-union-withdraws-a-trade-concessions-deal-with-sri-lanka-after-the-former-accused-the-latter-of-not-improving-its-human-rights-r.md)
-_Context: European Union, Sri Lanka, human rights record_
+_Context: Sri Lanka, human rights record, European Union_
 
 ##### Iran
 ### [Iran accuses Germany, United Arab Emirates and United Kingdom of refusing to provide fuel to its passenger planes. ](/news/2010/07/5/iran-accuses-germany-united-arab-emirates-and-united-kingdom-of-refusing-to-provide-fuel-to-its-passenger-planes.md)
@@ -25,7 +25,7 @@ Iran accuses the UK, Germany and the UAE of refusing to refuel its passenger jet
 
 ##### Police
 ### [Afghan Police and international forces kill 64 people in a three-day drug bust operation in Helmand province, Afghanistan, and destroy 16,641 kilograms (36,687 pounds) of narcotics. ](/news/2010/07/5/afghan-police-and-international-forces-kill-64-people-in-a-three-day-drug-bust-operation-in-helmand-province-afghanistan-and-destroy-16-64.md)
-_Context: police, International Security Assistance Force, narcotic, Helmand, Afghanistan_
+_Context: Afghanistan, International Security Assistance Force, narcotic, police, Helmand_
 
 ##### India
 ### [A nationwide strike takes place in India in protest at a recent rise in fuel prices. ](/news/2010/07/5/a-nationwide-strike-takes-place-in-india-in-protest-at-a-recent-rise-in-fuel-prices.md)
@@ -49,7 +49,7 @@ Laboratory tests showed that the tar balls came from the BP Macondo well that bl
 
 ##### Xinjiang
 ### [Security is boosted in Xinjiang in western China on the anniversary of the July 2009 Urumqi riots. ](/news/2010/07/5/security-is-boosted-in-xinjiang-in-western-china-on-the-anniversary-of-the-july-2009-ara1-4mqi-riots.md)
-_Context: China, ethnic riots, Xinjiang_
+_Context: China, Xinjiang, ethnic riots_
 
 ##### Saidnaya
 ### [Human rights groups say at least 52 prisoners have disappeared from Saidnaya Military Prison in Syria, following disturbances in 2008 that led to the deaths of 22 people. ](/news/2010/07/5/human-rights-groups-say-at-least-52-prisoners-have-disappeared-from-saidnaya-military-prison-in-syria-following-disturbances-in-2008-that-l.md)
@@ -69,7 +69,7 @@ Justin Bieber tour page is the target of internet pranksters, voting for the Can
 
 ##### Bobby Fischer
 ### [The body of late chess legend Bobby Fischer has been exhumed in Iceland, in an effort to settle paternity questions. ](/news/2010/07/5/the-body-of-late-chess-legend-bobby-fischer-has-been-exhumed-in-iceland-in-an-effort-to-settle-paternity-questions.md)
-_Context: Bobby Fischer, Iceland_
+_Context: Iceland, Bobby Fischer_
 
 ##### Japanese
 ### [Japanese scientists believe the SELENE probe has spotted rocks that originated deep within the Moon on its surface. ](/news/2010/07/5/japanese-scientists-believe-the-selene-probe-has-spotted-rocks-that-originated-deep-within-the-moon-on-its-surface.md)

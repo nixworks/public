@@ -9,11 +9,11 @@ _Context: Arab League, 2011-2012 Syrian uprising_
 
 ##### Dakar
 ### [Fires rage through Dakar after Senegal's top court rules that President Abdoulaye Wade can run for a third term in office next month and prevents his best-known opponent, Grammy Award-winning musician Youssou N'Dour, from running against him. ](/news/2012/01/28/fires-rage-through-dakar-after-senegal-s-top-court-rules-that-president-abdoulaye-wade-can-run-for-a-third-term-in-office-next-month-and-pre.md)
-_Context: Youssou N'Dour, Abdoulaye Wade, Senegal, Grammy Award, Dakar_
+_Context: Senegal, Abdoulaye Wade, Dakar, Grammy Award, Youssou N'Dour_
 
 ##### Islamist
 ### [11 Islamist militants are killed in a shootout in the northeastern Nigerian city of Maiduguri. ](/news/2012/01/28/11-islamist-militants-are-killed-in-a-shootout-in-the-northeastern-nigerian-city-of-maiduguri.md)
-_Context: Islamist, Maiduguri, Nigeria_
+_Context: Maiduguri, Nigeria, Islamist_
 
 ##### Archbishop of York
 ### [Archbishop of York Dr. John Sentamu calls on the Church of England not to permit same-sex marriage. ](/news/2012/01/28/archbishop-of-york-dr-john-sentamu-calls-on-the-church-of-england-not-to-permit-same-sex-marriage.md)
@@ -29,7 +29,7 @@ The African Union inaugurates its newly built Chinese-funded headquarters in the
 
 ##### Eurozone
 ### [A German government plan is leaked proposing a eurozone "budget commissioner" to take control of Greece's economic affairs. ](/news/2012/01/28/a-german-government-plan-is-leaked-proposing-a-eurozone-budget-commissioner-to-take-control-of-greece-s-economic-affairs.md)
-_Context: eurozone, Greece_
+_Context: Greece, eurozone_
 
 ##### The Sun
 ### [A police officer and four journalists associated with British tabloid "The Sun" are arrested in relation to the News International phone hacking scandal, by detectives investigating payments made to police by journalists. The BBC understands the four journalists are ex-deputy editor Fergus Shanahan, ex-managing editor Graham Dudman, crime editor Mike Sullivan and head of news Chris Pharo. ](/news/2012/01/28/a-police-officer-and-four-journalists-associated-with-british-tabloid-the-sun-are-arrested-in-relation-to-the-news-international-phone-hac.md)
@@ -41,7 +41,7 @@ At least eight sea lions have been shot dead in the US state of Washington in th
 
 ##### Red Cross
 ### [Israeli police enter the Red Cross compound and arrest two more Palestinian MPs associated with Hamas. ](/news/2012/01/28/israeli-police-enter-the-red-cross-compound-and-arrest-two-more-palestinian-mps-associated-with-hamas.md)
-_Context: Hamas, Red Cross_
+_Context: Red Cross, Hamas_
 
 ##### Ireland
 ### [A poll finds most voters in Ireland want to see any new European Treaty put to a referendum, though the government remains undecided. ](/news/2012/01/28/a-poll-finds-most-voters-in-ireland-want-to-see-any-new-european-treaty-put-to-a-referendum-though-the-government-remains-undecided.md)

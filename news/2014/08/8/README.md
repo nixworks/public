@@ -5,7 +5,7 @@ Formats: [HTML](2014/08/8/index.html)  [JSON](2014/08/8/index.json)  [XML](2014/
 
 ##### Hamas
 ### [Hamas rejects the continuation of a 72-hour ceasefire and has shot over 60 rockets since 8:00 into southern Israel. Israel launches air strikes in response. ](/news/2014/08/8/hamas-rejects-the-continuation-of-a-72-hour-ceasefire-and-has-shot-over-60-rockets-since-8-00-into-southern-israel-israel-launches-air-stri.md)
-_Context: Israel, Hamas_
+_Context: Hamas, Israel_
 
 ##### American
 ### [U.S. F-A-18 fighters bomb ISIS artillery units and a military convoy. ](/news/2014/08/8/u-s-f-a-18-fighters-bomb-isis-artillery-units-and-a-military-convoy.md)
@@ -17,7 +17,7 @@ _Context: 2014 pro-Russian unrest in Ukraine, Ukraine_
 
 ##### Malaysia
 ### [Malaysia's state investment company Khazanah Nasional announces plans to delist Malaysia Airlines and make it fully state-owned while the business is overhauled. ](/news/2014/08/8/malaysia-s-state-investment-company-khazanah-nasional-announces-plans-to-delist-malaysia-airlines-and-make-it-fully-state-owned-while-the-bu.md)
-_Context: Malaysia, Khazanah Nasional, Malaysia Airlines_
+_Context: Khazanah Nasional, Malaysia Airlines, Malaysia_
 
 ##### World Health Organisation
 ### [The World Health Organisation states that the Ebola virus outbreak is an international public health emergency. ](/news/2014/08/8/the-world-health-organisation-states-that-the-ebola-virus-outbreak-is-an-international-public-health-emergency.md)
@@ -29,7 +29,7 @@ There was no immediate word on whether the shooter, John W. Hinckley, could face
 
 ##### Case
 ### [In a case brought by a group of former NCAA athletes, U.S. District Court judge Claudia Wilken rules that the NCAA violated antitrust law by restricting the compensation that college athletes can receive for their publicity rights. ](/news/2014/08/8/in-a-case-brought-by-a-group-of-former-ncaa-athletes-u-s-district-court-judge-claudia-wilken-rules-that-the-ncaa-violated-antitrust-law-by.md)
-_Context: case, Claudia Wilken, NCAA, United States District Court for the Northern District of California, United States antitrust law_
+_Context: case, United States antitrust law, NCAA, United States District Court for the Northern District of California, Claudia Wilken_
 
 ##### Italian senate
 ### [The Italian senate votes in favor of a dramatic reduction of its own size and powers to challenge laws proposed in the lower house, and for turning itself into an unelected body. ](/news/2014/08/8/the-italian-senate-votes-in-favor-of-a-dramatic-reduction-of-its-own-size-and-powers-to-challenge-laws-proposed-in-the-lower-house-and-for.md)

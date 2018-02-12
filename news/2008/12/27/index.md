@@ -5,11 +5,11 @@ Formats: [HTML](2008/12/27/index.html)  [JSON](2008/12/27/index.json)  [XML](200
 
 ##### President
 ### [ President of Pakistan Asif Ali Zardari accepts that "non-state actors" exist in the country and vows to root out terrorism there. ](/news/2008/12/27/president-of-pakistan-asif-ali-zardari-accepts-that-non-state-actors-exist-in-the-country-and-vows-to-root-out-terrorism-there.md)
-_Context: terrorism, president, Pakistan, Asif Ali Zardari_
+_Context: terrorism, Pakistan, president, Asif Ali Zardari_
 
 ##### Yule goat
 ### [ The Gavle goat, a large Swedish yule goat, is torched by vandals for the 23rd time since its construction in 1966. ](/news/2008/12/27/the-ga-vle-goat-a-large-swedish-yule-goat-is-torched-by-vandals-for-the-23rd-time-since-its-construction-in-1966.md)
-_Context: Yule goat, Sweden, yule goat_
+_Context: Yule goat, yule goat, Sweden_
 
 ##### Woolworths Group
 ### [ On the eve of its centenary, Woolworths Group begins closing its stores in the United Kingdom. ](/news/2008/12/27/on-the-eve-of-its-centenary-woolworths-group-begins-closing-its-stores-in-the-united-kingdom.md)

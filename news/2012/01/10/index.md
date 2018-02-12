@@ -9,7 +9,7 @@ _Context: bombing, Khyber Agency_
 
 ##### Amir Mirza Hekmati
 ### [Amir Mirza Hekmati is sentenced to death by Iran's Islamic Revolutionary Court. ](/news/2012/01/10/amir-mirza-hekmati-is-sentenced-to-death-by-iran-s-islamic-revolutionary-court.md)
-_Context: Islamic Revolutionary Court, Amir Mirza Hekmati, Iran_
+_Context: Islamic Revolutionary Court, Iran, Amir Mirza Hekmati_
 
 ##### Scottish Government
 ### [The Scottish Government announces that it plans to hold the referendum on Scottish independence in the autumn of 2014, but Secretary of State for Scotland Michael Moore tells the House of Commons that the power to hold a referendum is "reserved" to Westminster. ](/news/2012/01/10/the-scottish-government-announces-that-it-plans-to-hold-the-referendum-on-scottish-independence-in-the-autumn-of-2014-but-secretary-of-stat.md)

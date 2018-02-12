@@ -9,7 +9,7 @@ A British security consultant kidnapped six days ago by gunmen in Somalia has de
 
 ##### United Kingdom
 ### [United Kingdom boyband JLS and hip-hop MC Tinie Tempah dominate the Music of Black Origin Awards in Liverpool. ](/news/2010/10/20/united-kingdom-boyband-jls-and-hip-hop-mc-tinie-tempah-dominate-the-music-of-black-origin-awards-in-liverpool.md)
-_Context: United Kingdom, boyband, MC, Music of Black Origin Awards, JLS, Liverpool, hip-hop, Tinie Tempah_
+_Context: MC, Liverpool, United Kingdom, JLS, Music of Black Origin Awards, hip-hop, boyband, Tinie Tempah_
 
 ##### France
 ### [France braces itself for another day of strikes against proposed cuts to pensions that the Senate will consider later this week. ](/news/2010/10/20/france-braces-itself-for-another-day-of-strikes-against-proposed-cuts-to-pensions-that-the-senate-will-consider-later-this-week.md)
@@ -17,11 +17,11 @@ French strikers impose new fuel blockades, hours after security forces clear pro
 
 ##### China
 ### [China denies reports that it has banned export of rare earth mineral to the United States and Europe following similar measures against Japan. ](/news/2010/10/20/china-denies-reports-that-it-has-banned-export-of-rare-earth-mineral-to-the-united-states-and-europe-following-similar-measures-against-japa.md)
-_Context: rare earth mineral, China, Japan, American, Europe_
+_Context: China, rare earth mineral, American, Europe, Japan_
 
 ##### Sino-Singapore Tianjin Eco-city
 ### [The Sino-Singapore Tianjin Eco-city holds a groundbreaking ceremony for its Eco-technology Park in Binhai New Area a key national strategic area in Tianjin. ](/news/2010/10/20/the-sino-singapore-tianjin-eco-city-holds-a-groundbreaking-ceremony-for-its-eco-technology-park-in-binhai-new-area-a-key-national-strategic.md)
-_Context: Binhai New Area, Eco-technology Park, Sino-Singapore Tianjin Eco-city, Tianjin_
+_Context: Binhai New Area, Sino-Singapore Tianjin Eco-city, Eco-technology Park, Tianjin_
 
 ##### Ecuador
 ### [All four Ecuadorean miners trapped underground since a mine collapse have been found dead. ](/news/2010/10/20/all-four-ecuadorean-miners-trapped-underground-since-a-mine-collapse-have-been-found-dead.md)
@@ -45,11 +45,11 @@ At least 1,000 Tibetan students in north-west China protest against new curbs on
 
 ##### Spain
 ### [Spanish Prime Minister Jos Luis Rodrguez Zapatero reshuffles his cabinet in a move to strengthen his government. ](/news/2010/10/20/spanish-prime-minister-jose-luis-rodriguez-zapatero-reshuffles-his-cabinet-in-a-move-to-strengthen-his-government.md)
-_Context: Spain, Jos Luis Rodrguez Zapatero_
+_Context: Jos Luis Rodrguez Zapatero, Spain_
 
 ##### Guinea
 ### [The two rival presidential candidates in Guinea agree to go ahead with a presidential run-off on Sunday amid the replacement of the head of the election commission. ](/news/2010/10/20/the-two-rival-presidential-candidates-in-guinea-agree-to-go-ahead-with-a-presidential-run-off-on-sunday-amid-the-replacement-of-the-head-of.md)
-_Context: November's presidential poll, Guinea_
+_Context: Guinea, November's presidential poll_
 
 ##### United Kingdom
 ### [In the United Kingdom, Chancellor George Osborne outlines a Comprehensive Spending Review which will see the biggest spending cuts in decades, totalling GBP81bn, with welfare, local government and police particularly affected. ](/news/2010/10/20/in-the-united-kingdom-chancellor-george-osborne-outlines-a-comprehensive-spending-review-which-will-see-the-biggest-spending-cuts-in-decade.md)
@@ -61,7 +61,7 @@ The United States plans to sell up to $60 billion worth of military aircraft to 
 
 ##### Astronomer
 ### [Astronomers announce the discovery of the galaxy UDFy-38135539, the most distant object observed from earth. ](/news/2010/10/20/astronomers-announce-the-discovery-of-the-galaxy-udfy-38135539-the-most-distant-object-observed-from-earth.md)
-_Context: galaxy, UDFy-38135539, Astronomer, distant object_
+_Context: Astronomer, UDFy-38135539, galaxy, distant object_
 
 ## [Previous Day...](/news/2010/10/19/index.md)
 

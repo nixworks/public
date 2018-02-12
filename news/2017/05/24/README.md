@@ -21,7 +21,7 @@ Moody&rsquo;s has downgraded China rating to A1 from Aa3, with a stable outlook.
 
 ##### European migrant crisis
 ### [The Italian Coast Guard reports that at least 20 migrants are killed when their 500-passenger boat capsizes in the Mediterranean Sea off Libya's coast. About 1,700 people have been rescued in 15 operations since Tuesday. ](/news/2017/05/24/the-italian-coast-guard-reports-that-at-least-20-migrants-are-killed-when-their-500-passenger-boat-capsizes-in-the-mediterranean-sea-off-lib.md)
-_Context: Libya, Italian Coast Guard, Mediterranean Sea, European migrant crisis_
+_Context: Libya, European migrant crisis, Mediterranean Sea, Italian Coast Guard_
 
 ##### Mount Everest
 ### [Four climbers are found dead on Mount Everest, bringing this season's death toll to 10. ](/news/2017/05/24/four-climbers-are-found-dead-on-mount-everest-bringing-this-season-s-death-toll-to-10.md)
@@ -37,7 +37,7 @@ A top Taiwan court ruled in favor of gay marriage Wednesday, a landmark ruling t
 
 ##### Drug crackdown
 ### [During a phone call between U.S. president Donald Trump and Philippine president Rodrigo Duterte, Trump allegedly congratulates Duterte on his drug war, which has been widely criticized for its brutality by human rights organizations. ](/news/2017/05/24/during-a-phone-call-between-u-s-president-donald-trump-and-philippine-president-rodrigo-duterte-trump-allegedly-congratulates-duterte-on-h.md)
-_Context: Donald Trump, drug crackdown, Rodrigo Duterte_
+_Context: drug crackdown, Rodrigo Duterte, Donald Trump_
 
 ##### Murder of Seth Rich
 ### [Fox News retracts their claims regarding the murder. ](/news/2017/05/24/fox-news-retracts-their-claims-regarding-the-murder.md)
@@ -45,7 +45,7 @@ On May 16, a story was posted on the Fox News website on the investigation into 
 
 ##### Legality of cannabis
 ### [Vermont governor Phil Scott vetoes a bill legalizing marijuana in the state. ](/news/2017/05/24/vermont-governor-phil-scott-vetoes-a-bill-legalizing-marijuana-in-the-state.md)
-_Context: Vermont, Legality of cannabis, marijuana, Phil Scott_
+_Context: marijuana, Legality of cannabis, Phil Scott, Vermont_
 
 ##### Budget
 ### [President Donald Trump's proposed budget for fiscal year 2018, titled "America First: A Budget Blueprint to Make America Great Again," has a $2 trillion accounting error over 10 years because it uses the same money twice for two different purposes. ](/news/2017/05/24/president-donald-trump-s-proposed-budget-for-fiscal-year-2018-titled-america-first-a-budget-blueprint-to-make-america-great-again-has-a.md)

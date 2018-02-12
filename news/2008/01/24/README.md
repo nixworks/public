@@ -13,19 +13,19 @@ A prestigious medical school was tipped off that one of its students had been a 
 
 ##### Italy
 ### [ Italian Prime Minister Romano Prodi is forced to resign following a lost vote of confidence in the Senate. ](/news/2008/01/24/italian-prime-minister-romano-prodi-is-forced-to-resign-following-a-lost-vote-of-confidence-in-the-senate.md)
-_Context: confidence motion, resign, Romano Prodi, Italian Senate, Prime Minister, Italy_
+_Context: resign, Italian Senate, confidence motion, Romano Prodi, Prime Minister, Italy_
 
 ##### Australia
 ### [ An Australian girl spontaneously switches blood types and adopts her donor's immune system following a liver transplant in the first known case of its type. ](/news/2008/01/24/an-australian-girl-spontaneously-switches-blood-types-and-adopts-her-donor-s-immune-system-following-a-liver-transplant-in-the-first-known.md)
-_Context: liver, blood type, Australia, donor, transplant, immune system_
+_Context: liver, blood type, transplant, donor, immune system, Australia_
 
 ##### Brazil
 ### [ The Brazilian government passes legislation aimed at curbing Amazon deforestation. ](/news/2008/01/24/the-brazilian-government-passes-legislation-aimed-at-curbing-amazon-deforestation.md)
-_Context: deforestation, Politics of Brazil, Amazon Rainforest, Brazil, legislation_
+_Context: Amazon Rainforest, Brazil, legislation, deforestation, Politics of Brazil_
 
 ##### Jerome Kerviel
 ### [ Jerome Kerviel is blamed for worsening the January 2008 stock market downturn by allegedly losing EUR4.9 billion ($7 billion) for French bank Societe Generale. ](/news/2008/01/24/ja-c-ra-me-kerviel-is-blamed-for-worsening-the-january-2008-stock-market-downturn-by-allegedly-losing-a-4-9-billion-7-billion-for-french.md)
-_Context: Jerome Kerviel, French, January 2008 stock market downturn, EUR, Societe Generale, bank, $_
+_Context: Jerome Kerviel, January 2008 stock market downturn, bank, Societe Generale, $, French, EUR_
 
 ## [Previous Day...](/news/2008/01/23/index.md)
 

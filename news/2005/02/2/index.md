@@ -9,11 +9,11 @@ _Context: Baghdad_
 
 ##### Irish Republican Army
 ### [ The IRA withdraws its weapons decommissioning offer because of claims that the organisation is connected to a Belfast bank raid last December in which GBP26.5m was stolen. ](/news/2005/02/2/the-ira-withdraws-its-weapons-decommissioning-offer-because-of-claims-that-the-organisation-is-connected-to-a-belfast-bank-raid-last-decemb.md)
-_Context: Irish Republican Army, Belfast_
+_Context: Belfast, Irish Republican Army_
 
 ##### U.S. President
 ### [ President of the United States George W. Bush delivers his 2005 State of the Union address. The section on Social Security reform is booed by some members of Congress, a very rare show of open disdain for the President during such a speech. ](/news/2005/02/2/president-of-the-united-states-george-w-bush-delivers-his-2005-state-of-the-union-address-the-section-on-social-security-reform-is-booed.md)
-_Context: U.S. President, State of the Union, President, George W. Bush, Social Security_
+_Context: President, George W. Bush, U.S. President, Social Security, State of the Union_
 
 ##### United States armed forces
 ### [ A former secret U.S. military investigative report on Guantanamo Bay is revealed to conclude there is no evidence of systemic detainee abuse but cited several cases of questionable physical force documented on videotape. Prisoners released have stated abuse is commonplace, and one former U.S. National Guardsman received brain damage after being beaten while posing undercover as a rowdy detainee. All Freedom of Information Act requests by the ACLU for video and photographs depicting detainee treatment have been denied. ](/news/2005/02/2/a-former-secret-u-s-military-investigative-report-on-guantanamo-bay-is-revealed-to-conclude-there-is-no-evidence-of-systemic-detainee-abus.md)
@@ -21,19 +21,19 @@ Breaking News, data &amp; opinions in business, sports, entertainment, travel, l
 
 ##### German
 ### [ The German Federal Labour Agency reports that the German unemployment rate hit 12.1% in January. More than 5 million people are unemployed today in Germany. Ignoring the margin of error inherent in the usage of different statistical methods over different areas, this rate is the highest since the Great Depression and the Weimar Republic. ](/news/2005/02/2/the-german-federal-labour-agency-reports-that-the-german-unemployment-rate-hit-12-1-in-january-more-than-5-million-people-are-unemployed.md)
-_Context: Great Depression, unemployment, German, Weimar Republic_
+_Context: Great Depression, unemployment, Weimar Republic, German_
 
 ##### Star Trek: Enterprise
 ### [ The cancellation of "Star Trek: Enterprise" is announced, marking the end of 18 consecutive years of "Star Trek" on television. ](/news/2005/02/2/the-cancellation-of-star-trek-enterprise-is-announced-marking-the-end-of-18-consecutive-years-of-star-trek-on-television.md)
-_Context: Star Trek: Enterprise, Star Trek, television_
+_Context: television, Star Trek: Enterprise, Star Trek_
 
 ##### Jerusalem
 ### [ Jerusalem-Israel: Horst Kohler, President of Germany, has a special audience in the Knesset, the highest chamber of Israel. Speaking in German, he says that Germany has to fight more aggressively against anti-semitism and far-right parties. ](/news/2005/02/2/jerusalem-israel-horst-kaphler-president-of-germany-has-a-special-audience-in-the-knesset-the-highest-chamber-of-israel-speaking-in-ge.md)
-_Context: Jerusalem, Israel, German, parliament in Israel, anti-semitic, Horst Kohler, German language_
+_Context: German, Jerusalem, Israel, German language, anti-semitic, Horst Kohler, parliament in Israel_
 
 ##### Ariel Sharon
 ### [ Ariel Sharon, the Prime Minister of Israel, and Abu Mazen, the President of the Palestinian National Authority, are invited by Egypt to attend a summit at Sharm el-Sheikh. A Jordanian delegation will also attend. ](/news/2005/02/2/ariel-sharon-the-prime-minister-of-israel-and-abu-mazen-the-president-of-the-palestinian-national-authority-are-invited-by-egypt-to-att.md)
-_Context: Palestinian Authority, Egypt, Ariel Sharon, Abu Mazen, Israeli Prime Minister, Jordan, Sharm el-Sheikh_
+_Context: Jordan, Egypt, Sharm el-Sheikh, Abu Mazen, Ariel Sharon, Israeli Prime Minister, Palestinian Authority_
 
 ##### Gyanendra of Nepal
 ### [ King Gyanendra of Nepal forms a new cabinet and names himself as its head. His decision to dismiss his former cabinet has been widely condemned. ](/news/2005/02/2/king-gyanendra-of-nepal-forms-a-new-cabinet-and-names-himself-as-its-head-his-decision-to-dismiss-his-former-cabinet-has-been-widely-conde.md)
@@ -45,7 +45,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Spain
 ### [ The Spanish parliament rejects an appeal from the Basque regional government for more autonomy and a referendum for eventual independence. ](/news/2005/02/2/the-spanish-parliament-rejects-an-appeal-from-the-basque-regional-government-for-more-autonomy-and-a-referendum-for-eventual-independence.md)
-_Context: referendum, independence, Spain, Basque, autonomy_
+_Context: Basque, referendum, Spain, independence, autonomy_
 
 ##### Slovenia
 ### [ The parliament of Slovenia ratifies the European Union Constitution. ](/news/2005/02/2/the-parliament-of-slovenia-ratifies-the-european-union-constitution.md)
@@ -53,7 +53,7 @@ _Context: Slovenia, European Union Constitution_
 
 ##### Japan
 ### [ In Japan, the first of the former residents of the island of Miyakejima return to the homes they left after a volcanic eruption in 2000. ](/news/2005/02/2/in-japan-the-first-of-the-former-residents-of-the-island-of-miyakejima-return-to-the-homes-they-left-after-a-volcanic-eruption-in-2000.md)
-_Context: Japan, 2000, eruption, Miyakejima_
+_Context: Japan, 2000, Miyakejima, eruption_
 
 ## [Previous Day...](/news/2005/02/1/index.md)
 

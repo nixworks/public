@@ -13,11 +13,11 @@ _Context: Police, Bolivia_
 
 ##### Taliban
 ### [Roadside bombs and an ambush by the Taliban in their stronghold of Musa Qala, Afghanistan, kill 10 police officers. ](/news/2012/06/27/roadside-bombs-and-an-ambush-by-the-taliban-in-their-stronghold-of-musa-qala-afghanistan-kill-10-police-officers.md)
-_Context: Taliban, Musa Qala_
+_Context: Musa Qala, Taliban_
 
 ##### MNLA
 ### [The MNLA and al Qaeda-linked Islamists clash in a gunbattle in Gao, Mali, that kills at least 20, witnesses say. ](/news/2012/06/27/the-mnla-and-al-qaeda-linked-islamists-clash-in-a-gunbattle-in-gao-mali-that-kills-at-least-20-witnesses-say.md)
-_Context: al Qaeda, MNLA, Gao_
+_Context: MNLA, Gao, al Qaeda_
 
 ##### American
 ### [A United States drone attack kills five in Pakistan. ](/news/2012/06/27/a-united-states-drone-attack-kills-five-in-pakistan.md)
@@ -33,7 +33,7 @@ Barclays Bank pays £290m in penalties and boss Bob Diamond gives up his bonus a
 
 ##### Bank of China
 ### [Bank of China becomes the first Chinese bank to open a branch in Taiwan. ](/news/2012/06/27/bank-of-china-becomes-the-first-chinese-bank-to-open-a-branch-in-taiwan.md)
-_Context: China, Bank of China, Taiwan_
+_Context: Taiwan, Bank of China, China_
 
 ##### Landslide
 ### [At least 50 people are killed in rain-triggered landslides in the Bangladesh districts of Cox's Bazaar and Chittagong. ](/news/2012/06/27/at-least-50-people-are-killed-in-rain-triggered-landslides-in-the-bangladesh-districts-of-cox-s-bazaar-and-chittagong.md)
@@ -69,7 +69,7 @@ The prime minister has called for MPs to support Lords reform, as a Bill to crea
 
 ##### Food and Drug Administration
 ### [The U.S. Food and Drug Administration (FDA) approves weight loss drug lorcaserin, the first such drug approved since 1999. ](/news/2012/06/27/the-u-s-food-and-drug-administration-fda-approves-weight-loss-drug-lorcaserin-the-first-such-drug-approved-since-1999.md)
-_Context: Food and Drug Administration, lorcaserin_
+_Context: lorcaserin, Food and Drug Administration_
 
 ## [Previous Day...](/news/2012/06/26/index.md)
 

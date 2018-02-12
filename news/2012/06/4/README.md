@@ -9,7 +9,7 @@ Armed gunmen burst into a drug rehabilitation clinic in northern Mexico late on 
 
 ##### Drone attack
 ### [A US drone attack kills at least 15 suspected militants in Pakistan's North Waziristan region. High ranked al-Qaeda official Abu Yahya al-Libi is killed in the attack. ](/news/2012/06/4/a-us-drone-attack-kills-at-least-15-suspected-militants-in-pakistan-s-north-waziristan-region-high-ranked-al-qaeda-official-abu-yahya-al-li.md)
-_Context: drone attack, Abu Yahya al-Libi, al-Qaeda, North Waziristan, Pakistan_
+_Context: Abu Yahya al-Libi, drone attack, al-Qaeda, Pakistan, North Waziristan_
 
 ##### Car bomb
 ### [A car bomb explodes near Iraqi government offices in central Baghdad, killing at least 26 and injuring 190. Eight others are killed in additional attacks across the country. ](/news/2012/06/4/a-car-bomb-explodes-near-iraqi-government-offices-in-central-baghdad-killing-at-least-26-and-injuring-190-eight-others-are-killed-in-addit.md)
@@ -29,7 +29,7 @@ The Duke of Edinburgh misses the Diamond Jubilee concert after being taken to ho
 
 ##### Eduard Khil
 ### [Russian baritone singer Eduard Khil, made famous overseas by the "Trololo" internet meme, dies from complications of a stroke in St. Petersburg. ](/news/2012/06/4/russian-baritone-singer-eduard-khil-made-famous-overseas-by-the-trololo-internet-meme-dies-from-complications-of-a-stroke-in-st-petersb.md)
-_Context: Eduard Khil, internet meme, Trololo, St. Petersburg_
+_Context: St. Petersburg, Eduard Khil, Trololo, internet meme_
 
 ##### Japan
 ### [Japan's S&P-TOPIX 150 reaches its lowest level since 1983 as global stock markets continue to fall. ](/news/2012/06/4/japan-s-s-p-topix-150-reaches-its-lowest-level-since-1983-as-global-stock-markets-continue-to-fall.md)
@@ -45,7 +45,7 @@ Police in Berlin arrest the Canadian porn actor wanted for the murder and dismem
 
 ##### Parliament
 ### [The Parliament of Albania fails without a vote in the second round to elect the President of the Republic of Albania. ](/news/2012/06/4/the-parliament-of-albania-fails-without-a-vote-in-the-second-round-to-elect-the-president-of-the-republic-of-albania.md)
-_Context: Republic of Albania, President of Albania, elects, parliament_
+_Context: President of Albania, elects, parliament, Republic of Albania_
 
 ##### Prime Minister of Japan
 ### [The Prime Minister of Japan Yoshihiko Noda announces a Cabinet reshuffle following a split in the ruling Democratic Party of Japan. ](/news/2012/06/4/the-prime-minister-of-japan-yoshihiko-noda-announces-a-cabinet-reshuffle-following-a-split-in-the-ruling-democratic-party-of-japan.md)
@@ -53,7 +53,7 @@ Japanese Prime Minister Yoshihiko Noda reshuffled his Cabinet in an effort to wi
 
 ##### Indians
 ### [Indian cricketer Sachin Tendulkar is sworn in as a member of Parliament's upper house the Rajya Sabha. ](/news/2012/06/4/indian-cricketer-sachin-tendulkar-is-sworn-in-as-a-member-of-parliament-s-upper-house-the-rajya-sabha.md)
-_Context: Rajya Sabha, Indians, Sachin Tendulkar_
+_Context: Indians, Sachin Tendulkar, Rajya Sabha_
 
 ##### China
 ### [China blocks Internet access to terms related to the Tiananmen Square protests of 1989 on the 23rd anniversary of the protests. ](/news/2012/06/4/china-blocks-internet-access-to-terms-related-to-the-tiananmen-square-protests-of-1989-on-the-23rd-anniversary-of-the-protests.md)

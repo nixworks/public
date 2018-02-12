@@ -25,7 +25,7 @@ At least 53 people have been killed in a road accident involving a bus and lorry
 
 ##### Frozen food
 ### [Frozen food manufacturer Findus withdraws its beef lasagne ready meals after tests showed the product contained horse meat. ](/news/2013/02/7/frozen-food-manufacturer-findus-withdraws-its-beef-lasagne-ready-meals-after-tests-showed-the-product-contained-horse-meat.md)
-_Context: Frozen food, horses for meat, lasagne, ready meal, 2013 meat adulteration scandal, Findus_
+_Context: 2013 meat adulteration scandal, Frozen food, ready meal, horses for meat, Findus, lasagne_
 
 ##### Japan
 ### [Japan scrambles its fighter aircraft to intercept two Russian SU-27 fighter aircraft, claiming that they have violated its airspace off Rishiri Island. Russia denies its aircraft entered Japanese airspace. ](/news/2013/02/7/japan-scrambles-its-fighter-aircraft-to-intercept-two-russian-su-27-fighter-aircraft-claiming-that-they-have-violated-its-airspace-off-rish.md)
@@ -33,35 +33,35 @@ Two Russian fighter jets have violated Japanese airspace, prompting Tokyo to scr
 
 ##### Romania
 ### [A diplomatic dispute between Romania and Hungary erupts as a Hungarian government official and the ambassador in Bucharest make commentaries that trigger large criticism from the Romanian side. ](/news/2013/02/7/a-diplomatic-dispute-between-romania-and-hungary-erupts-as-a-hungarian-government-official-and-the-ambassador-in-bucharest-make-commentaries.md)
-_Context: Romania, Hungary, Bucharest_
+_Context: Hungary, Romania, Bucharest_
 
 ##### Supreme Leader
 ### [The Supreme Leader of Iran Ali Khamenei accuses the United States of "holding a gun" to Tehran's head to pressure it to hold direct talks and states that it's very unlikely that these talks may take place. ](/news/2013/02/7/the-supreme-leader-of-iran-ali-khamenei-accuses-the-united-states-of-holding-a-gun-to-tehran-s-head-to-pressure-it-to-hold-direct-talks-an.md)
-_Context: Tehran, Supreme Leader, Ali Khamenei, Iran, American_
+_Context: Tehran, Supreme Leader, American, Iran, Ali Khamenei_
 
 ##### South Korea
 ### [South Korean soldiers on the world's most heavily armed border now have orders to shoot back immediately if they come under attack. ](/news/2013/02/7/south-korean-soldiers-on-the-world-s-most-heavily-armed-border-now-have-orders-to-shoot-back-immediately-if-they-come-under-attack.md)
-_Context: world's most heavily armed border, South Korea_
+_Context: South Korea, world's most heavily armed border_
 
 ##### Christopher Dorner
 ### [2013 Southern California shootings: Christopher Dorner, an ex-police officer, is named a suspect wanted in connection with shootings that occurred throughout Southern California in the past week. In those shootings, three people died, including a police officer and an assistant women's basketball coach at California State University, Fullerton, and several others were wounded. ](/news/2013/02/7/2013-southern-california-shootings-christopher-dorner-an-ex-police-officer-is-named-a-suspect-wanted-in-connection-with-shootings-that-oc.md)
-_Context: Christopher Dorner, 2013 Southern California shootings, Southern California, California State University, Fullerton_
+_Context: California State University, Fullerton, Christopher Dorner, Southern California, 2013 Southern California shootings_
 
 ##### Tunisia
 ### [A major crisis deepens in Tunisia after the murder of Chokri Belaid. The leading party Ennahda states that it will not accept a new government, even if suggested by its leading member, Prime Minister Hamadi Jebali. In today's clashes at least one person died. ](/news/2013/02/7/a-major-crisis-deepens-in-tunisia-after-the-murder-of-chokri-belaid-the-leading-party-ennahda-states-that-it-will-not-accept-a-new-governme.md)
-_Context: Prime Minister of Tunisia, Hamadi Jebali, Ennahda, Tunisia, Chokri Belaid_
+_Context: Tunisia, Chokri Belaid, Ennahda, Prime Minister of Tunisia, Hamadi Jebali_
 
 ##### United Kingdom
 ### [UK Secretary of State for Education Michael Gove confirms that plans to replace the General Certificate of Secondary Education with a new English Baccalaureate qualification have been abandoned. ](/news/2013/02/7/uk-secretary-of-state-for-education-michael-gove-confirms-that-plans-to-replace-the-general-certificate-of-secondary-education-with-a-new-en.md)
-_Context: Secretary of State for Education, General Certificate of Secondary Education, United Kingdom, English Baccalaureate, Michael Gove_
+_Context: Secretary of State for Education, English Baccalaureate, Michael Gove, General Certificate of Secondary Education, United Kingdom_
 
 ##### Canadian Senator
 ### [Canadian Senator Patrick Brazeau is arrested over an incident relating to domestic violence. The ruling Conservative Party of Canada in response removes him from caucus. ](/news/2013/02/7/canadian-senator-patrick-brazeau-is-arrested-over-an-incident-relating-to-domestic-violence-the-ruling-conservative-party-of-canada-in-resp.md)
-_Context: Conservative Party's, Patrick Brazeau, caucus, Canadian Senator_
+_Context: Patrick Brazeau, Canadian Senator, Conservative Party's, caucus_
 
 ##### Azerbaijan
 ### [Azerbaijan's first satellite Azerspace-1 is launched aboard an Ariane 5 launch rocket in French Guiana. ](/news/2013/02/7/azerbaijan-s-first-satellite-azerspace-1-is-launched-aboard-an-ariane-5-launch-rocket-in-french-guiana.md)
-_Context: Azerbaijan, launch rocket, satellite, Azerspace-1, French Guiana, Ariane 5_
+_Context: French Guiana, Azerbaijan, Ariane 5, Azerspace-1, satellite, launch rocket_
 
 ## [Previous Day...](/news/2013/02/6/index.md)
 

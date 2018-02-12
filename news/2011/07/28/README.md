@@ -29,11 +29,11 @@ Sony Corp., Japan’s largest exporter of consumer electronics, cut its annual p
 
 ##### Asiana Airlines Flight 991
 ### [Asiana Airlines Flight 991 crashes in the Pacific Ocean, near Jeju Island, South Korea, killing 2 onboard. ](/news/2011/07/28/asiana-airlines-flight-991-crashes-in-the-pacific-ocean-near-jeju-island-south-korea-killing-2-onboard.md)
-_Context: Asiana Airlines Flight 991, South Korea, South Pacific Ocean, Jeju Island_
+_Context: Asiana Airlines Flight 991, South Korea, Jeju Island, South Pacific Ocean_
 
 ##### Seoul
 ### [At least 57 people are dead and 12 are confirmed missing in the Seoul and Siheung region of South Korea due to landslides caused by heavy rain. ](/news/2011/07/28/at-least-57-people-are-dead-and-12-are-confirmed-missing-in-the-seoul-and-siheung-region-of-south-korea-due-to-landslides-caused-by-heavy-ra.md)
-_Context: South Korea, Seoul, landslide, Siheung_
+_Context: Siheung, Seoul, landslide, South Korea_
 
 ##### Bogra District
 ### [At least 17 people are killed and 30 injured after a truck collides with a bus in the Bogra District of Bangladesh. ](/news/2011/07/28/at-least-17-people-are-killed-and-30-injured-after-a-truck-collides-with-a-bus-in-the-bogra-district-of-bangladesh.md)
@@ -41,7 +41,7 @@ _Context: Bogra District, Bangladesh_
 
 ##### Famine
 ### [2011 Horn of Africa famine: African Union peacekeepers launch a major offensive against Al-Shabaab militants in Mogadishu, Somalia, in order to reduce threats to relief efforts. ](/news/2011/07/28/2011-horn-of-africa-famine-african-union-peacekeepers-launch-a-major-offensive-against-al-shabaab-militants-in-mogadishu-somalia-in-order.md)
-_Context: Mogadishu, Al-Shabaab, African Union, famine_
+_Context: African Union, Al-Shabaab, famine, Mogadishu_
 
 ##### DR Congo
 ### [Authorities in the Democratic Republic of the Congo say more than 100 people are feared dead after two boats collided on Tshuapa River. ](/news/2011/07/28/authorities-in-the-democratic-republic-of-the-congo-say-more-than-100-people-are-feared-dead-after-two-boats-collided-on-tshuapa-river.md)
@@ -65,7 +65,7 @@ _Context: Supreme Court of England and Wales, Britain's nuclear weapons tests du
 
 ##### President of Tunisia
 ### [Former President of Tunisia Zine El Abidine Ben Ali is sentenced to 16 years in absentia for corruption and property fraud. ](/news/2011/07/28/former-president-of-tunisia-zine-el-abidine-ben-ali-is-sentenced-to-16-years-in-absentia-for-corruption-and-property-fraud.md)
-_Context: President of Tunisia, Zine El Abidine Ben Ali_
+_Context: Zine El Abidine Ben Ali, President of Tunisia_
 
 ##### John Boehner
 ### [John Boehner delays a vote on the United States House of Representatives debt ceiling legislation with the issue deferred until at least Friday. ](/news/2011/07/28/john-boehner-delays-a-vote-on-the-united-states-house-of-representatives-debt-ceiling-legislation-with-the-issue-deferred-until-at-least-fri.md)

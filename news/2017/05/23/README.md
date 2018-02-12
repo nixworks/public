@@ -29,7 +29,7 @@ The White House says it is a &quot;taxpayer first&quot; budget, but even grizzle
 
 ##### Apple Inc.
 ### [Apple Inc. and Nokia agree to increase their partnership after settling a patent dispute. ](/news/2017/05/23/apple-inc-and-nokia-agree-to-increase-their-partnership-after-settling-a-patent-dispute.md)
-_Context: Apple Inc., Nokia, patent_
+_Context: Nokia, Apple Inc., patent_
 
 ##### Indian Air Force
 ### [An Indian Air Force Sukhoi Su-30 goes missing near the border with China and is presumed to have crashed along with its two pilots. ](/news/2017/05/23/an-indian-air-force-sukhoi-su-30-goes-missing-near-the-border-with-china-and-is-presumed-to-have-crashed-along-with-its-two-pilots.md)

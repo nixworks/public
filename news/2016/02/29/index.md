@@ -5,7 +5,7 @@ Formats: [HTML](2016/02/29/index.html)  [JSON](2016/02/29/index.json)  [XML](201
 
 ##### Iraqi Civil War (2014-present)
 ### [At least 40 people are killed and 58 others wounded following a suicide bombing at a Shi'ite funeral in the city of Miqdadiyah, Diyala Governorate. ISIL claim responsibility for the attack. ](/news/2016/02/29/at-least-40-people-are-killed-and-58-others-wounded-following-a-suicide-bombing-at-a-shi-ite-funeral-in-the-city-of-miqdadiyah-diyala-gover.md)
-_Context: Miqdadiyah, Shi'ites, Iraqi Civil War (2014-present), Diyala Governorate, ISIL_
+_Context: Iraqi Civil War (2014-present), Diyala Governorate, ISIL, Shi'ites, Miqdadiyah_
 
 ##### China
 ### [China says it expects to lay off 1.8 million state workers in the coal and steel sectors, or about 15 percent of the industries' workforce, as part of efforts to reduce industrial overcapacity. ](/news/2016/02/29/china-says-it-expects-to-lay-off-1-8-million-state-workers-in-the-coal-and-steel-sectors-or-about-15-percent-of-the-industries-workforce.md)
@@ -21,7 +21,7 @@ Police have fired tear gas and stun grenades after a few hundred migrants angry 
 
 ##### Pakistan
 ### [Pakistani authorities hang Mumtaz Qadri for his role in the murder of reformist Punjab governor Salmaan Taseer in 2011. ](/news/2016/02/29/pakistani-authorities-hang-mumtaz-qadri-for-his-role-in-the-murder-of-reformist-punjab-governor-salmaan-taseer-in-2011.md)
-_Context: Pakistan, Punjab Province, Salmaan Taseer, Mumtaz Qadri_
+_Context: Punjab Province, Pakistan, Salmaan Taseer, Mumtaz Qadri_
 
 ##### Calais migrant crisis
 ### [Clashes break out inside the Calais jungle camp in the port city of Calais between migrants and riot police as officials attempted to evict hundreds of migrants from the southern section of the camp. Several tents and wooden shacks were set on fire by migrants. ](/news/2016/02/29/clashes-break-out-inside-the-calais-jungle-camp-in-the-port-city-of-calais-between-migrants-and-riot-police-as-officials-attempted-to-evict.md)

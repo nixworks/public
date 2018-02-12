@@ -25,7 +25,7 @@ The United States has carried out a fresh delivery of ammunition to fighters fro
 
 ##### Daily fantasy sports
 ### [Daily fantasy sports companies DraftKings and FanDuel, who are fighting New York's cease-and-desist order that their industry is gambling in the U.S. state, apparently are OK with that label in the United Kingdom. DraftKings obtained a British gambling license in August and FanDuel applied for one earlier this month. ](/news/2015/11/15/daily-fantasy-sports-companies-draftkings-and-fanduel-who-are-fighting-new-york-s-cease-and-desist-order-that-their-industry-is-gambling-in.md)
-_Context: DraftKings, United Kingdom, New York, FanDuel, Daily fantasy sports_
+_Context: New York, Daily fantasy sports, DraftKings, FanDuel, United Kingdom_
 
 ##### China
 ### [The death toll from a landslide on Friday in China's Zhejiang province rises to 16 with 21 still missing. ](/news/2015/11/15/the-death-toll-from-a-landslide-on-friday-in-china-s-zhejiang-province-rises-to-16-with-21-still-missing.md)
@@ -45,7 +45,7 @@ World’s tallest building draped in colours of the French national flag
 
 ##### European migrant crisis
 ### [Swedish police increase checks of asylum facilities in the country's southwest amid reports refugees are leaving to avoid being registered by immigration officials. ](/news/2015/11/15/swedish-police-increase-checks-of-asylum-facilities-in-the-country-s-southwest-amid-reports-refugees-are-leaving-to-avoid-being-registered-b.md)
-_Context: asylum facilities, European migrant crisis, Sweden, refugee, immigration officials_
+_Context: European migrant crisis, refugee, Sweden, asylum facilities, immigration officials_
 
 ##### Japan-Philippines relations
 ### [Reuters reports Japanese Prime Minister Shinzo Abe and Philippine President Benigno Aquino are set to agree on a deal paving the way for Tokyo to directly supply Manila with used military equipment. An announcement is expected this week during the Asia-Pacific Economic Cooperation (APEC) summit in Manila. ](/news/2015/11/15/reuters-reports-japanese-prime-minister-shinza-abe-and-philippine-president-benigno-aquino-are-set-to-agree-on-a-deal-paving-the-way-for-to.md)
@@ -53,7 +53,7 @@ The Japanese and Philippine leaders will agree this week on a deal paving the wa
 
 ##### Myanmar general election, 2015
 ### [Aung San Suu Kyi holds talks with parliament's outgoing chairman, Shwe Mann, seeking his help in an orderly democratic transition to the newly-elected National League for Democracy (NLD) government. Mann, who was ousted as head of the Union Solidarity and Development Party in August, lost his house seat in the November 8 vote. The current parliament will have at least one more session. ](/news/2015/11/15/aung-san-suu-kyi-holds-talks-with-parliament-s-outgoing-chairman-shwe-mann-seeking-his-help-in-an-orderly-democratic-transition-to-the-new.md)
-_Context: Shwe Mann, Myanmar general election, 2015, parliament's, outgoing chairman, National League for Democracy, Aung San Suu Kyi, Union Solidarity and Development Party_
+_Context: Shwe Mann, Union Solidarity and Development Party, parliament's, Aung San Suu Kyi, outgoing chairman, National League for Democracy, Myanmar general election, 2015_
 
 ## [Previous Day...](/news/2015/11/14/index.md)
 

@@ -37,17 +37,17 @@ Flood waters on Tuesday ripped through a retirement community in northwestern Ar
 
 ##### United States House of Representatives
 ### [The United States House of Representatives decides not to take up a resolution declaring the mass killings of Armenians early last century a genocide, helping the administration to avoid a diplomatic clash with Turkey. ](/news/2010/12/22/the-united-states-house-of-representatives-decides-not-to-take-up-a-resolution-declaring-the-mass-killings-of-armenians-early-last-century-a.md)
-_Context: Armenian, genocide of Armenians, Turkey, United States House of Representatives_
+_Context: United States House of Representatives, Armenian, genocide of Armenians, Turkey_
 
 ##### United States Senate
 ### [The United States Senate votes to ratify the New START Treaty with the Russia, which halves the number of deployed strategic nuclear missile launchers maintained by each nation. ](/news/2010/12/22/the-united-states-senate-votes-to-ratify-the-new-start-treaty-with-the-russia-which-halves-the-number-of-deployed-strategic-nuclear-missile.md)
-_Context: nuclear missile, Russia, United States Senate, New START Treaty_
+_Context: United States Senate, Russia, nuclear missile, New START Treaty_
 
 ##### United Nations
 ### [The United Nations votes in favour of restoring a reference to sexual orientation in a resolution banning the unjustified killing of minority groups. ](/news/2010/12/22/the-united-nations-votes-in-favour-of-restoring-a-reference-to-sexual-orientation-in-a-resolution-banning-the-unjustified-killing-of-minorit.md)
 The UN votes to restore a reference to sexual orientation in a resolution against the unjustified killing of minority groups, after heavy US pressure.
 
-##### United States diplomatic cables leak
+##### 250,000 documents
 ### [United States diplomatic cables leak: ](/news/2010/12/22/united-states-diplomatic-cables-leak.md)
 The British government has trained a paramilitary force accused of hundreds of killings in Bangladesh, according to leaked U.S. embassy cables. 
 
@@ -55,7 +55,7 @@ The British government has trained a paramilitary force accused of hundreds of k
 ### [The Russian government is "forced to take an adequate corresponding measure" following Britain's expulsion of one of its diplomats. ](/news/2010/12/22/the-russian-government-is-forced-to-take-an-adequate-corresponding-measure-following-britain-s-expulsion-of-one-of-its-diplomats.md)
 ##### Tibet
 ### [Three Tibetan Buddhist monks are unaccounted for after being sentenced to long prison terms by Chinese authorities earlier this year for participating in a peaceful protest march by Drepung monastery monks in 2008. ](/news/2010/12/22/three-tibetan-buddhist-monks-are-unaccounted-for-after-being-sentenced-to-long-prison-terms-by-chinese-authorities-earlier-this-year-for-par.md)
-_Context: Bhikkhu, Tibet, Drepung monastery, China, Buddhist_
+_Context: China, Buddhist, Drepung monastery, Bhikkhu, Tibet_
 
 ##### United Nations
 ### [The United Nations office for torture issues in Geneva investigates an abuse complaint concerning United States Army private Bradley Manning, suspected by the United States government of passing classified documents to the WikiLeaks website. ](/news/2010/12/22/the-united-nations-office-for-torture-issues-in-geneva-investigates-an-abuse-complaint-concerning-united-states-army-private-bradley-manning.md)
@@ -71,7 +71,7 @@ Seven of nine presidential candidates could receive up to 15-year sentences amid
 
 ##### Metropolitan Police Authority
 ### [The chair of the Metropolitan Police Authority's civil liberties panel describes as "appalling" and "ghastly" a kettling video and encourages students subjected to this procedure to make official complaints against the British police. ](/news/2010/12/22/the-chair-of-the-metropolitan-police-authority-s-civil-liberties-panel-describes-as-appalling-and-ghastly-a-kettling-video-and-encourage.md)
-_Context: Metropolitan Police Authority, kettling_
+_Context: kettling, Metropolitan Police Authority_
 
 ##### Jorge Rafael Videla
 ### [Jorge Rafael Videla, the former "de facto" President of Argentina, is sentenced to life imprisonment after being convicted of crimes against humanity. ](/news/2010/12/22/jorge-rafael-videla-the-former-de-facto-president-of-argentina-is-sentenced-to-life-imprisonment-after-being-convicted-of-crimes-against.md)
@@ -79,7 +79,7 @@ Former Argentine military ruler Jorge Videla is sentenced to life in prison for 
 
 ##### U.S. President
 ### [President of the United States Barack Obama signs into law the Don't Ask, Don't Tell Repeal Act of 2010, which will bring an end the "don't ask, don't tell" policy of discriminating against the presence of openly gay people in the country's military. More than 13,000 people were sacked by the United States under this policy. ](/news/2010/12/22/president-of-the-united-states-barack-obama-signs-into-law-the-don-t-ask-don-t-tell-repeal-act-of-2010-which-will-bring-an-end-the-don-t.md)
-_Context: Barack Obama, Don't Ask, Don't Tell Repeal Act of 2010, don't ask, don't tell, openly gay, U.S. President_
+_Context: don't ask, don't tell, U.S. President, openly gay, Barack Obama, Don't Ask, Don't Tell Repeal Act of 2010_
 
 ##### Liberal Democrats
 ### [The fears of British Liberal Democrat government ministers over policies relating to welfare and tuition fees are secretly recorded by "The Daily Telegraph" newspaper. ](/news/2010/12/22/the-fears-of-british-liberal-democrat-government-ministers-over-policies-relating-to-welfare-and-tuition-fees-are-secretly-recorded-by-the.md)
@@ -91,11 +91,11 @@ Tory MP Zac Goldsmith will not be reported to police over allegations related to
 
 ##### Montenegro
 ### [Montenegrin Prime Minister Milo Dukanovic resigns, citing a need for new leadership, and his intentions to turn to business. ](/news/2010/12/22/montenegrin-prime-minister-milo-aukanovia-resigns-citing-a-need-for-new-leadership-and-his-intentions-to-turn-to-business.md)
-_Context: Milo Dukanovic, Prime Minister, Montenegro_
+_Context: Milo Dukanovic, Montenegro, Prime Minister_
 
 ##### Peer-reviewed
 ### [Two eight-year-olds publish a significant peer-reviewed study in the Biology Letters journal of the Royal Society, examining the spatial memory of bumblebees. ](/news/2010/12/22/two-eight-year-olds-publish-a-significant-peer-reviewed-study-in-the-biology-letters-journal-of-the-royal-society-examining-the-spatial-mem.md)
-_Context: Biology Letters, bumblebee, peer-reviewed, spatial memory, Royal Society_
+_Context: peer-reviewed, Royal Society, spatial memory, Biology Letters, bumblebee_
 
 ## [Previous Day...](/news/2010/12/21/index.md)
 

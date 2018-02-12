@@ -25,7 +25,7 @@ Israel freed 26 Palestinian prisoners on Wednesday, the second stage of a limite
 
 ##### Mongolia
 ### [Mongolian president Tsakhiagiin Elbegdorj visits North Korea and becomes the first head of state to meet with Kim Jong-un since Kim's taking office as Supreme Leader. ](/news/2013/10/30/mongolian-president-tsakhiagiin-elbegdorj-visits-north-korea-and-becomes-the-first-head-of-state-to-meet-with-kim-jong-un-since-kim-s-taking.md)
-_Context: Tsakhiagiin Elbegdorj, North Korea, leader, President of Mongolia, head of state, Mongolia, Kim Jong-un_
+_Context: head of state, leader, Mongolia, Tsakhiagiin Elbegdorj, North Korea, President of Mongolia, Kim Jong-un_
 
 ##### China
 ### [Chinese police arrest five suspects in connection to the Tiananmen square suicide attack. ](/news/2013/10/30/chinese-police-arrest-five-suspects-in-connection-to-the-tiananmen-square-suicide-attack.md)

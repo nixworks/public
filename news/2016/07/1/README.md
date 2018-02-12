@@ -57,7 +57,7 @@ Duterte, 71, won power in a landslide after a campaign dominated by threats to k
 
 ##### U Gambira
 ### [U Gambira, a former Burmese monk and one of the most visible leaders during Myanmar's 2007 Saffron Revolution, is released from prison after having the charges against him dropped. ](/news/2016/07/1/u-gambira-a-former-burmese-monk-and-one-of-the-most-visible-leaders-during-myanmar-s-2007-saffron-revolution-is-released-from-prison-after.md)
-_Context: Myanmar, Myanmar's, U Gambira, Saffron Revolution_
+_Context: Saffron Revolution, U Gambira, Myanmar, Myanmar's_
 
 ##### Austrian presidential election, 2016
 ### [Austria's highest court orders a repeat of the presidential elections narrowly lost in May by right-wing populist Freedom Party of Austria candidate Norbert Hofer. The margin of votes was less than 1%. ](/news/2016/07/1/austriaas-highest-court-orders-a-repeat-of-the-presidential-elections-narrowly-lost-in-may-by-right-wing-populist-freedom-party-of-austria.md)
@@ -69,7 +69,7 @@ Thousands demand resignation of CY Leung who critics accuse of failing to confro
 
 ##### New Belarusian ruble
 ### [ The new Belarusian ruble replaces the old Belarusian ruble during redenomination. ](/news/2016/07/1/the-new-belarusian-ruble-replaces-the-old-belarusian-ruble-during-redenomination.md)
-_Context: new Belarusian ruble, redenomination, Belarusian ruble_
+_Context: new Belarusian ruble, Belarusian ruble, redenomination_
 
 ##### Paris
 ### [Paris, France, implements a pollution-reduction program that bans residents from driving cars built before 1997, and motorcycles built before 2000, on weekdays inside the city limits between 8 a.m. and 8 p.m. ](/news/2016/07/1/paris-france-implements-a-pollution-reduction-program-that-bans-residents-from-driving-cars-built-before-1997-and-motorcycles-built-befor.md)

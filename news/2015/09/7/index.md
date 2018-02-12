@@ -45,7 +45,7 @@ Thousands rallied behind a top-ranked student who not only failed her exams but 
 
 ##### Hungary
 ### [Hungary's Defense Minister Csaba Hende resigns amid the refugee crisis. Prime Minister Viktor Orban immediately replaced Hende with a member of his Fidesz party, Istvan Simicsko. ](/news/2015/09/7/hungary-s-defense-minister-csaba-hende-resigns-amid-the-refugee-crisis-prime-minister-viktor-orba-n-immediately-replaced-hende-with-a-membe.md)
-_Context: Prime Minister, Hungary, Defense Minister, Fidesz party, Istvan Simicsko, Csaba Hende, Viktor Orban_
+_Context: Hungary, Defense Minister, Istvan Simicsko, Fidesz party, Viktor Orban, Csaba Hende, Prime Minister_
 
 ##### Bolide
 ### [A bolide or meteor fireball explodes over the Thai city of Bangkok. ](/news/2015/09/7/a-bolide-or-meteor-fireball-explodes-over-the-thai-city-of-bangkok.md)

@@ -21,7 +21,7 @@ At least six people are dead and dozens injured after a series of explosions tor
 
 ##### 2015 Hajj stampede
 ### [Iran's Supreme Leader Ayatollah Ali Khamenei warns Saudi Arabia of "harsh" measures if the Kingdom fails to promptly repatriate the bodies of more than 200 Iranian pilgrims killed in last week's Hajj stampede. ](/news/2015/09/30/iran-s-supreme-leader-ayatollah-ali-khamenei-warns-saudi-arabia-of-harsh-measures-if-the-kingdom-fails-to-promptly-repatriate-the-bodies-o.md)
-_Context: 2015 Hajj stampede, pilgrims, Ali Khamenei, stampede, Supreme Leader, Hajj, Saudi Arabia_
+_Context: stampede, 2015 Hajj stampede, Ali Khamenei, Saudi Arabia, Hajj, pilgrims, Supreme Leader_
 
 ##### Saudi-led intervention in Yemen
 ### [An Iranian fishing boat loaded with weapons, including rockets and anti-tank shells, is intercepted and seized in the Arabian Sea, 150 miles southeast of the Omani Port of Salalah, by Arab coalition forces. Saudi Arabia has previously accused Iran of supplying weapons to Houthi militants in Yemen. ](/news/2015/09/30/an-iranian-fishing-boat-loaded-with-weapons-including-rockets-and-anti-tank-shells-is-intercepted-and-seized-in-the-arabian-sea-150-miles.md)
@@ -45,7 +45,7 @@ The strongest earthquake of the year struck the Groningen province at 6:05 p.m. 
 
 ##### Mahmoud Abbas
 ### [Mahmoud Abbas, the President of the Palestinian Authority, states that Palestine will no longer abide by the Oslo accords and claims that Israel has not been complying with them. ](/news/2015/09/30/mahmoud-abbas-the-president-of-the-palestinian-authority-states-that-palestine-will-no-longer-abide-by-the-oslo-accords-and-claims-that-is.md)
-_Context: Mahmoud Abbas, Palestine, President of the Palestinian Authority, Israel, Oslo accords_
+_Context: Israel, President of the Palestinian Authority, Oslo accords, Palestine, Mahmoud Abbas_
 
 ##### The flag
 ### [The flag of the State of Palestine is raised above the grounds of the United Nations Headquarters in New York for the first time. ](/news/2015/09/30/the-flag-of-the-state-of-palestine-is-raised-above-the-grounds-of-the-united-nations-headquarters-in-new-york-for-the-first-time.md)
@@ -53,11 +53,11 @@ U.N. members voted earlier this month to allow the Palestinian and Vatican flags
 
 ##### Georgia
 ### [The American state of Georgia executes Kelly Gissendaner for her role in the murder of her husband despite several appeals and a plea for clemency by Pope Francis. ](/news/2015/09/30/the-american-state-of-georgia-executes-kelly-gissendaner-for-her-role-in-the-murder-of-her-husband-despite-several-appeals-and-a-plea-for-cl.md)
-_Context: Pope Francis, Georgia, Kelly Gissendaner_
+_Context: Pope Francis, Kelly Gissendaner, Georgia_
 
 ##### Governor
 ### [Oklahoma Governor Mary Fallin issues a 37-day stay of Richard Glossip's execution that was scheduled for today to allow the American state time to address questions about chemicals and protocol. Pope Francis, who spent last week in the U.S., asked Archbishop Carlo Maria Vigano, the Apostolic Nuncio to the United States, to intercede with the governor and request she commute Glossip's sentence. ](/news/2015/09/30/oklahoma-governor-mary-fallin-issues-a-37-day-stay-of-richard-glossip-s-execution-that-was-scheduled-for-today-to-allow-the-american-state-t.md)
-_Context: American, stay, Archbishop Carlo Maria Vigano, to the U.S., Richard Glossip's, governor, Mary Fallin, Pope Francis_
+_Context: American, Archbishop Carlo Maria Vigano, governor, Mary Fallin, Richard Glossip's, Pope Francis, to the U.S., stay_
 
 ##### Mexican
 ### [Mexican authorities arrest American Paul Erven Jackson for kidnapping and torturing two women in Oregon after more than 24 years on the run. ](/news/2015/09/30/mexican-authorities-arrest-american-paul-erven-jackson-for-kidnapping-and-torturing-two-women-in-oregon-after-more-than-24-years-on-the-run.md)

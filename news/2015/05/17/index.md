@@ -5,7 +5,7 @@ Formats: [HTML](2015/05/17/index.html)  [JSON](2015/05/17/index.json)  [XML](201
 
 ##### Taliban
 ### [A suicide attack by the Taliban kills three and injures at least eighteen outside Kabul International Airport in Afghanistan. ](/news/2015/05/17/a-suicide-attack-by-the-taliban-kills-three-and-injures-at-least-eighteen-outside-kabul-international-airport-in-afghanistan.md)
-_Context: Taliban, Kabul International Airport, Afghanistan_
+_Context: Afghanistan, Taliban, Kabul International Airport_
 
 ##### ISIL
 ### [The Islamic State reportedly seizes control of the Iraqi city of Ramadi after the retreat of government forces. ](/news/2015/05/17/the-islamic-state-reportedly-seizes-control-of-the-iraqi-city-of-ramadi-after-the-retreat-of-government-forces.md)
@@ -13,7 +13,7 @@ The Iraqi city of Ramadi falls to IS militants after troops abandoned their posi
 
 ##### Pope Francis
 ### [Pope Francis of the Roman Catholic Church canonises two saints from Palestine, Sister Mariam Baouardy and Sister Marie Alphonsine Ghattas. ](/news/2015/05/17/pope-francis-of-the-roman-catholic-church-canonises-two-saints-from-palestine-sister-mariam-baouardy-and-sister-marie-alphonsine-ghattas.md)
-_Context: canonized, Pope Francis, Catholic Church, saints, Mariam Baouardy, Marie Alphonsine Ghattas, Palestine_
+_Context: saints, Mariam Baouardy, canonized, Pope Francis, Marie Alphonsine Ghattas, Catholic Church, Palestine_
 
 ##### 2015 ''Billboard'' Music Awards
 ### [American pop music star Taylor Swift wins 8 awards at the "Billboard" Music Awards, including top artist. ](/news/2015/05/17/american-pop-music-star-taylor-swift-wins-8-awards-at-the-billboard-music-awards-including-top-artist.md)

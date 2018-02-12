@@ -9,15 +9,15 @@ _Context: Prime Minister's Questions, Labour Party, Harriet Harman, Leader of th
 
 ##### Human
 ### [ A cross human-cow embryo survives a third straight day after being fertilized at Newcastle University, England. A director for embryonic stem cell laboratories at the Australian Stem Cell Centre said that the "99 per cent human" embryo could improve research within the field of human diseases. The Catholic Church in England however said that the creation was "monstrous" and says that the later destruction of it is unethical. ](/news/2008/04/2/a-cross-human-cow-embryo-survives-a-third-straight-day-after-being-fertilized-at-newcastle-university-england-a-director-for-embryonic-st.md)
-_Context: Roman Catholic Church, Australian Stem Cell Centre, embryo, Newcastle University, diseases, cow, embryonic stem cell, human, England_
+_Context: England, embryo, embryonic stem cell, Newcastle University, diseases, Roman Catholic Church, human, Australian Stem Cell Centre, cow_
 
 ##### United States House of Representatives
 ### [ The United States House of Representatives votes to provide $50 billion over five years to fight AIDS, tuberculosis and malaria in Africa and other third world areas. ](/news/2008/04/2/the-united-states-house-of-representatives-votes-to-provide-50-billion-over-five-years-to-fight-aids-tuberculosis-and-malaria-in-africa-a.md)
-_Context: tuberculosis, Africa, United States House of Representatives, $, malaria, AIDS_
+_Context: malaria, tuberculosis, United States House of Representatives, AIDS, Africa, $_
 
 ##### Serbian
 ### [ Suspended Serb prison workers from Lipljan, Kosovo, claim that Serbia has not paid them money promised for leaving the Kosovo institutions. ](/news/2008/04/2/suspended-serb-prison-workers-from-lipljan-kosovo-claim-that-serbia-has-not-paid-them-money-promised-for-leaving-the-kosovo-institutions.md)
-_Context: Kosovo, Lipljan, Serbian, Serbia_
+_Context: Serbian, Kosovo, Serbia, Lipljan_
 
 ##### Pristina
 ### [ Talks begin in Pristina on demarcation of the border between Macedonia and Kosovo. ](/news/2008/04/2/talks-begin-in-pria-tina-on-demarcation-of-the-border-between-macedonia-and-kosovo.md)
@@ -37,13 +37,13 @@ The European Commission on Wednesdayopened an in-depth investigation of British 
 
 ##### U.S. President
 ### [ The President of the United States George W. Bush supports the bids by Georgia and Ukraine to become members of the North Atlantic Treaty Organization. ](/news/2008/04/2/the-president-of-the-united-states-george-w-bush-supports-the-bids-by-georgia-and-ukraine-to-become-members-of-the-north-atlantic-treaty-o.md)
-_Context:  Georgian, NATO, George W. Bush, U.S. President, Ukraine_
+_Context: George W. Bush, Ukraine,  Georgian, NATO, U.S. President_
 
 ##### 
 ### [ Cuban citizens now have access to what were formerly "tourist-only" hotels and cellphones. ](/news/2008/04/2/cuban-citizens-now-have-access-to-what-were-formerly-tourist-only-hotels-and-cellphones.md)
 ##### Morgan Tsvangirai
 ### [ Morgan Tsvangirai's Movement for Democratic Change defeats Robert Mugabe's ZANU-PF in the Zimbabean "'parliamentary"' elections. ](/news/2008/04/2/morgan-tsvangirai-s-movement-for-democratic-change-defeats-robert-mugabe-s-zanu-pf-in-the-zimbabean-parliamentary-elections.md)
-_Context: parliamentary, Morgan Tsvangirai, Zimbabwe, Movement for Democratic Change, Robert Mugabe, ZANU-PF_
+_Context: Movement for Democratic Change, ZANU-PF, Robert Mugabe, parliamentary, Morgan Tsvangirai, Zimbabwe_
 
 ## [Previous Day...](/news/2008/04/1/index.md)
 

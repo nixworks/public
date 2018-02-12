@@ -13,7 +13,7 @@ A suicide bomber killed at least 25 new recruits inside a police compound in the
 
 ##### Rickshaw
 ### [A truck collides with a motorised rickshaw in the Adilabad district of India's Telangana state resulting in 16 deaths. ](/news/2016/05/15/a-truck-collides-with-a-motorised-rickshaw-in-the-adilabad-district-of-india-s-telangana-state-resulting-in-16-deaths.md)
-_Context: rickshaw, Adilabad district, Telangana, India_
+_Context: rickshaw, Telangana, Adilabad district, India_
 
 ##### Capital punishment in the Philippines
 ### [President-elect of the Philippines, Rodrigo Duterte, vows to reintroduce capital punishment and give security forces permission to shoot to kill for organized crime figures and people resisting arrest. Duterte is due to take office on June 30, 2016. ](/news/2016/05/15/president-elect-of-the-philippines-rodrigo-duterte-vows-to-reintroduce-capital-punishment-and-give-security-forces-permission-to-shoot-to.md)
@@ -25,7 +25,7 @@ A CIA tip off to South Africa&#39;s apartheid regime which led to Nelson Mandela
 
 ##### Dominican Republic general election, 2016
 ### [Voters in the Dominican Republic go to the polls for a general election. ](/news/2016/05/15/voters-in-the-dominican-republic-go-to-the-polls-for-a-general-election.md)
-_Context: Dominican Republic general election, 2016, Dominican Republic_
+_Context: Dominican Republic, Dominican Republic general election, 2016_
 
 ## [Previous Day...](/news/2016/05/14/index.md)
 

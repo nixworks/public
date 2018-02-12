@@ -17,11 +17,11 @@ Additional rules may be needed to monitor growth in Big Data, or collection of h
 
 ##### Beijing
 ### [Companies shut down production in Beijing and cars are taken off the road after a red alert for smog is issued in northern China. Dozens of cities have closed schools due to the smog. ](/news/2016/12/19/companies-shut-down-production-in-beijing-and-cars-are-taken-off-the-road-after-a-red-alert-for-smog-is-issued-in-northern-china-dozens-of.md)
-_Context: Beijing, northern China_
+_Context: northern China, Beijing_
 
 ##### Polish
 ### [Polish protesters block the parliament in order to prevent the possibility of legalizing restrictions on press freedom. ](/news/2016/12/19/polish-protesters-block-the-parliament-in-order-to-prevent-the-possibility-of-legalizing-restrictions-on-press-freedom.md)
-_Context: Poland's parliament, Polish, press freedom_
+_Context: Poland's parliament, press freedom, Polish_
 
 ##### Paris
 ### [A court in Paris finds International Monetary Fund Managing Director Christine Lagarde guilty of negligence in a 404 million euro "misuse of public funds" case. The court ruled that Lagarde won't be fined, won't serve any jail time, or receive a criminal record. The IMF Executive Board "looks forward to continuing to work with" her. ](/news/2016/12/19/a-court-in-paris-finds-international-monetary-fund-managing-director-christine-lagarde-guilty-of-negligence-in-a-404-million-euro-misuse-of.md)
@@ -37,7 +37,7 @@ Electors across the country met on Monday and officially gave Mr. Trump a majori
 
 ##### ALPHA
 ### [ALPHA, a CERN experiment, has observed for the first time the spectrum of antihydrogen. ](/news/2016/12/19/alpha-a-cern-experiment-has-observed-for-the-first-time-the-spectrum-of-antihydrogen.md)
-_Context: antihydrogen, ALPHA, spectrum, CERN_
+_Context: spectrum, antihydrogen, ALPHA, CERN_
 
 ## [Previous Day...](/news/2016/12/18/index.md)
 

@@ -53,7 +53,7 @@ _Context: Guatemala, John McAfee, Belize_
 
 ##### Mexican
 ### [Mexico's Supreme Court of Justice of the Nation rules that a ban on same-sex marriage in Oaxaca state is illegal. ](/news/2012/12/5/mexico-s-supreme-court-of-justice-of-the-nation-rules-that-a-ban-on-same-sex-marriage-in-oaxaca-state-is-illegal.md)
-_Context: same-sex marriage, Mexican, Mexican Supreme Court, Oaxaca_
+_Context: same-sex marriage, Mexican, Oaxaca, Mexican Supreme Court_
 
 ##### London
 ### [London's King Edward VII's Hospital says it is reviewing telephone protocol after two disc jockeys from a Sydney-based radio station, 2Day FM made a prank call to the hospital in which they posed as Queen Elizabeth and Prince Charles, and spoke with a member of nursing staff about the health of the Duchess of Cambridge. ](/news/2012/12/5/london-s-king-edward-vii-s-hospital-says-it-is-reviewing-telephone-protocol-after-two-disc-jockeys-from-a-sydney-based-radio-station-2day-f.md)
@@ -61,7 +61,7 @@ The hospital treating the pregnant Duchess of Cambridge says it &quot;deeply reg
 
 ##### Government
 ### [The peace talks between the Colombian government and the Revolutionary Armed Forces of Colombia (FARC) resume in Havana, Cuba. ](/news/2012/12/5/the-peace-talks-between-the-colombian-government-and-the-revolutionary-armed-forces-of-colombia-farc-resume-in-havana-cuba.md)
-_Context: government, Revolutionary Armed Forces of Colombia, Cuba, Havana_
+_Context: Revolutionary Armed Forces of Colombia, Havana, Cuba, government_
 
 ## [Previous Day...](/news/2012/12/4/index.md)
 

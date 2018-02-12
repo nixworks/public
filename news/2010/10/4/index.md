@@ -33,7 +33,7 @@ Latest breaking news articles, photos, video, blogs, reviews, analysis, opinion 
 
 ##### High altitude
 ### [The world's oldest known high altitude human settlement, estimated to be 49,000 years old, is uncovered near Kokoda, Papua New Guinea. ](/news/2010/10/4/the-world-s-oldest-known-high-altitude-human-settlement-estimated-to-be-49-000-years-old-is-uncovered-near-kokoda-papua-new-guinea.md)
-_Context: human settlement, Kokoda, high altitude, Papua New Guinea_
+_Context: high altitude, human settlement, Kokoda, Papua New Guinea_
 
 ##### Jonathan Evans
 ### [Jonathan Evans, head of Britain's MI5, gives a rare interview, disclosing details of his love for classics and calling for wider availability of Latin and Greek in schools as, he claims, they are useful for spies. ](/news/2010/10/4/jonathan-evans-head-of-britain-s-mi5-gives-a-rare-interview-disclosing-details-of-his-love-for-classics-and-calling-for-wider-availabilit.md)
@@ -65,23 +65,23 @@ The suit centers on rules and fees the companies impose on merchants. They are c
 
 ##### Indonesia
 ### [Indonesian Coordinating Minister for Public Welfare Affairs Agung Laksono said here on Tuesday that the massive flood in Wasior, West Papua that continuously occurred from Sunday to Monday has claimed 56 lives. ](/news/2010/10/4/indonesian-coordinating-minister-for-public-welfare-affairs-agung-laksono-said-here-on-tuesday-that-the-massive-flood-in-wasior-west-papua.md)
-_Context: Indonesia, Wasior, West Papua, Agung Laksono_
+_Context: Agung Laksono, Wasior, West Papua, Indonesia_
 
 ##### Hatay Province
 ### [3 people were killed and 5 were injured after a boiler exploded in a tannery in Hatay in the Dericiler area of Guzelburc town. The injured were taken to Mustafa Kemal University's faculty of medicine hospital. ](/news/2010/10/4/3-people-were-killed-and-5-were-injured-after-a-boiler-exploded-in-a-tannery-in-hatay-in-the-dericiler-area-of-ga1-4zelburass-town-the-injured.md)
-_Context: Hatay Province, Guzelburc, Mustafa Kemal University_
+_Context: Guzelburc, Hatay Province, Mustafa Kemal University_
 
 ##### Netravati Express
 ### [Two persons were killed when a mini-lorry was hit by the Netravati Express, they were travelling at an unmanned level crossing at Panachuvadu near Punnapra, India. ](/news/2010/10/4/two-persons-were-killed-when-a-mini-lorry-was-hit-by-the-netravati-express-they-were-travelling-at-an-unmanned-level-crossing-at-panachuvad.md)
-_Context: Panachuvadu, Netravati Express, Punnapra_
+_Context: Panachuvadu, Punnapra, Netravati Express_
 
 ##### Indonesia
 ### [At least 26 are killed and many more left missing after flash floods in eastern Indonesia's Papua province. ](/news/2010/10/4/at-least-26-are-killed-and-many-more-left-missing-after-flash-floods-in-eastern-indonesia-s-papua-province.md)
-_Context: Indonesia, Papua_
+_Context: Papua, Indonesia_
 
 ##### Wen Jiabao
 ### [Chinese Premier Wen Jiabao and Japanese Prime Minister Naoto Kan met in Brussels, on the sidelines of the Asia-Europe Meeting. ](/news/2010/10/4/chinese-premier-wen-jiabao-and-japanese-prime-minister-naoto-kan-met-in-brussels-on-the-sidelines-of-the-asiaaeurope-meeting.md)
-_Context: Wen Jiabao, Naoto Kan, Asia-Europe Meeting_
+_Context: Asia-Europe Meeting, Naoto Kan, Wen Jiabao_
 
 ##### Asia-Europe Meeting
 ### [The 2010 Asia-Europe Meeting commences in Brussels, Belgium with Russia, Australia and New Zealand joining the discussions. ](/news/2010/10/4/the-2010-asiaaeurope-meeting-commences-in-brussels-belgium-with-russia-australia-and-new-zealand-joining-the-discussions.md)
@@ -109,11 +109,11 @@ Dutch anti-Islam MP Geert Wilders tells a court he will not be silenced, as he g
 
 ##### Syria
 ### [Syria issues arrest warrants for more than 30 people accused of misleading an investigation into the 2005 assassination of Lebanon's former prime minister Rafic Hariri. ](/news/2010/10/4/syria-issues-arrest-warrants-for-more-than-30-people-accused-of-misleading-an-investigation-into-the-2005-assassination-of-lebanon-s-former.md)
-_Context: Rafic Hariri, Syria, Lebanese_
+_Context: Syria, Lebanese, Rafic Hariri_
 
 ##### Prime Minister
 ### [Former Prime Minister of Fiji Mahendra Chaudhry is released on bail. ](/news/2010/10/4/former-prime-minister-of-fiji-mahendra-chaudhry-is-released-on-bail.md)
-_Context: bail, Prime Minister, Mahendra Chaudhry_
+_Context: Prime Minister, Mahendra Chaudhry, bail_
 
 ##### Thailand
 ### [A court in Thailand rejects a request to drop charges against Viktor Bout, whom the United States suspects of attempting to sell weapons to its opponents. He was arrested by undercover United States agents in 2008 at a Bangkok hotel. ](/news/2010/10/4/a-court-in-thailand-rejects-a-request-to-drop-charges-against-viktor-bout-whom-the-united-states-suspects-of-attempting-to-sell-weapons-to.md)
@@ -141,7 +141,7 @@ _Context: Democratic Party, Ichiro Ozawa_
 
 ##### Lima
 ### [Lima receives its first female mayor in Susana Villaran. ](/news/2010/10/4/lima-receives-its-first-female-mayor-in-susana-villara-n.md)
-_Context: Susana Villaran, Lima_
+_Context: Lima, Susana Villaran_
 
 ##### Cuba
 ### [The Cuban government considers another large-scale round of political prisoner releases after the release of 52 in July. ](/news/2010/10/4/the-cuban-government-considers-another-large-scale-round-of-political-prisoner-releases-after-the-release-of-52-in-july.md)

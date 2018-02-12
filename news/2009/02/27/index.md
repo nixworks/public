@@ -5,7 +5,7 @@ Formats: [HTML](2009/02/27/index.html)  [JSON](2009/02/27/index.json)  [XML](200
 
 ##### China
 ### [ China's Navy and Denmark's Navy thwart Somali pirate attacks on Italian and Chinese merchant vessels in the Gulf of Aden. ](/news/2009/02/27/china-s-navy-and-denmark-s-navy-thwart-somali-pirate-attacks-on-italian-and-chinese-merchant-vessels-in-the-gulf-of-aden.md)
-_Context: Italy, Somalia, Gulf of Aden, People's Liberation Army Navy, Navy, China, Somali pirates, merchant vessel, Denmark_
+_Context: Italy, Somalia, People's Liberation Army Navy, Somali pirates, Denmark, China, Gulf of Aden, merchant vessel, Navy_
 
 ##### American
 ### [ A nationwide "Chicago Tea Party" occurred across the United States, where protesters say government spending is out of control. ](/news/2009/02/27/a-nationwide-chicago-tea-party-occurred-across-the-united-states-where-protesters-say-government-spending-is-out-of-control.md)
@@ -13,19 +13,19 @@ Fox 32 Chicago News, breaking news, local headlines, weather, sports traffic and
 
 ##### China
 ### [ China's Armed Police shoot a Tibetan monk as he immolates himself in Sichuan. ](/news/2009/02/27/china-s-armed-police-shoot-a-tibetan-monk-as-he-immolates-himself-in-sichuan.md)
-_Context: People's Armed Police, Tibet, Sichuan, China, self-immolation, monk_
+_Context: Sichuan, Tibet, self-immolation, People's Armed Police, China, monk_
 
 ##### ASEAN
 ### [ ASEAN, Australia, and New Zealand sign a free trade agreement to increase commerce. ](/news/2009/02/27/asean-australia-and-new-zealand-sign-a-free-trade-agreement-to-increase-commerce.md)
-_Context: ASEAN, New Zealand, Australia, agreement, commerce, free trade_
+_Context: free trade, New Zealand, commerce, ASEAN, Australia, agreement_
 
 ##### Bangladesh
 ### [ Bangladesh's military arrests 300 Rifles for mutiny and discovers a mass grave containing 58 officers killed during the revolt. ](/news/2009/02/27/bangladesh-s-military-arrests-300-rifles-for-mutiny-and-discovers-a-mass-grave-containing-58-officers-killed-during-the-revolt.md)
-_Context: mass grave, 2009 Bangladesh Rifles revolt, Bangladesh Rifles, Bangladesh, military_
+_Context: Bangladesh Rifles, military, mass grave, Bangladesh, 2009 Bangladesh Rifles revolt_
 
 ##### American
 ### [ United States President Barack Obama announces he will withdraw most soldiers from the Iraq War by August 2010. ](/news/2009/02/27/united-states-president-barack-obama-announces-he-will-withdraw-most-soldiers-from-the-iraq-war-by-august-2010.md)
-_Context: United States military personnel, American, Barack Obama, Iraq War, U.S. President_
+_Context: American, United States military personnel, U.S. President, Barack Obama, Iraq War_
 
 ##### Euro
 ### [ Seven million euros are stolen from the Bank of Ireland in Dublin. ](/news/2009/02/27/seven-million-euros-are-stolen-from-the-bank-of-ireland-in-dublin.md)
@@ -33,15 +33,15 @@ Up to &euro;7 million may have been stolen from a Dublin bank following a so-cal
 
 ##### Civil war
 ### [ At least 50 people are killed in combat between Southern Sudan and militias in Malakal. ](/news/2009/02/27/at-least-50-people-are-killed-in-combat-between-southern-sudan-and-militias-in-malakal.md)
-_Context: Malakal, civil war, militia, Southern Sudan_
+_Context: civil war, Southern Sudan, militia, Malakal_
 
 ##### Animated
 ### [ The animated sitcom "The Simpsons" becomes the longest-running U.S. primetime television series after Fox Broadcasting confirms two more seasons. ](/news/2009/02/27/the-animated-sitcom-the-simpsons-becomes-the-longest-running-u-s-primetime-television-series-after-fox-broadcasting-confirms-two-more-se.md)
-_Context: Fox Broadcasting Company, primetime, longest-running, The Simpsons, sitcom, American, animated, television series_
+_Context: primetime, Fox Broadcasting Company, American, animated, The Simpsons, television series, sitcom, longest-running_
 
 ##### Venezuela
 ### [ Venezuelan President Hugo Chavez claims that former Cuban President Fidel Castro recently appeared publicly in Havana for the first time since 2006. ](/news/2009/02/27/venezuelan-president-hugo-cha-vez-claims-that-former-cuban-president-fidel-castro-recently-appeared-publicly-in-havana-for-the-first-time-s.md)
-_Context: Fidel Castro, Havana, Venezuelan President, Cuba, Venezuela, Hugo Chavez_
+_Context: Venezuelan President, Venezuela, Havana, Fidel Castro, Hugo Chavez, Cuba_
 
 ## [Previous Day...](/news/2009/02/26/index.md)
 

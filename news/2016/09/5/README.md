@@ -25,7 +25,7 @@ Schlafly rose to prominence and influence among conservatives through her fight 
 
 ##### Russia-Saudi Arabia relations
 ### [Russia and Saudi Arabia agree on a plan to manipulate oil output. ](/news/2016/09/5/russia-and-saudi-arabia-agree-on-a-plan-to-manipulate-oil-output.md)
-_Context: Russia-Saudi Arabia relations, Saudi Arabia, oil, Russia_
+_Context: Saudi Arabia, Russia-Saudi Arabia relations, Russia, oil_
 
 ##### Rodrigo Duterte
 ### [The Duterte administration suspends more Philippine mines for violating environmental regulations. ](/news/2016/09/5/the-duterte-administration-suspends-more-philippine-mines-for-violating-environmental-regulations.md)
@@ -45,7 +45,7 @@ Singapore has added 91 new Zika cases since Friday, with a possible new cluster 
 
 ##### 2016 G20 Hangzhou summit
 ### [U.S. President Barack Obama and Russian President Vladimir Putin fail to agree on a peace deal regarding the Syrian civil war. ](/news/2016/09/5/u-s-president-barack-obama-and-russian-president-vladimir-putin-fail-to-agree-on-a-peace-deal-regarding-the-syrian-civil-war.md)
-_Context: Barack Obama, U.S. President, Syrian civil war, Russian President, 2016 G20 Hangzhou summit, Vladimir Putin_
+_Context: 2016 G20 Hangzhou summit, Vladimir Putin, Barack Obama, U.S. President, Syrian civil war, Russian President_
 
 ##### Philippines-United States relations
 ### [U.S. President Barack Obama cancels a scheduled meeting with the President of the Philippines, Rodrigo Duterte, after Duterte referred to Obama as a "son of a whore", while adding "I am no American puppet", in response to Obama's recent criticism of his war on drugs. ](/news/2016/09/5/u-s-president-barack-obama-cancels-a-scheduled-meeting-with-the-president-of-the-philippines-rodrigo-duterte-after-duterte-referred-to-ob.md)
@@ -65,11 +65,11 @@ Nathan Law Kwun-chung, a 23-year-old pro-independence candidate has just been el
 
 ##### 2016 U.S. presidential election
 ### [Libertarian nominee Gary Johnson qualifies in Connecticut giving him ballot access to 48 states. ](/news/2016/09/5/libertarian-nominee-gary-johnson-qualifies-in-connecticut-giving-him-ballot-access-to-48-states.md)
-_Context: Connecticut, Libertarian, Gary Johnson, 2016 U.S. presidential election_
+_Context: 2016 U.S. presidential election, Gary Johnson, Connecticut, Libertarian_
 
 ##### European Space Agency
 ### [The European Space Agency's robotic lander "Philae" is discovered wedged in a crack between some rocks in the shadow of a cliff on 67P-Churyumov-Gerasimenko by the Rosetta space probe after being lost since 2014. ](/news/2016/09/5/the-european-space-agency-s-robotic-lander-philae-is-discovered-wedged-in-a-crack-between-some-rocks-in-the-shadow-of-a-cliff-on-67p-chury.md)
-_Context: lander, ''Rosetta'' space probe, Philae, 67P/Churyumov-Gerasimenko, European Space Agency_
+_Context: European Space Agency, Philae, ''Rosetta'' space probe, lander, 67P/Churyumov-Gerasimenko_
 
 ## [Previous Day...](/news/2016/09/4/index.md)
 

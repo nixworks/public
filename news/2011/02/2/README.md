@@ -21,7 +21,7 @@ The FBI has launched a manhunt for a previously unknown team of men suspected to
 
 ##### Car bomb
 ### [At least two people are dead and ten injured following the explosion of a car bomb in a commercial area of the Pakistani town of Peshawar. ](/news/2011/02/2/at-least-two-people-are-dead-and-ten-injured-following-the-explosion-of-a-car-bomb-in-a-commercial-area-of-the-pakistani-town-of-peshawar.md)
-_Context: Pakistan, Peshawar, car bomb_
+_Context: car bomb, Peshawar, Pakistan_
 
 ##### American
 ### [American rock duo The White Stripes announce that they are breaking up. ](/news/2011/02/2/american-rock-duo-the-white-stripes-announce-that-they-are-breaking-up.md)
@@ -45,7 +45,7 @@ _Context: American, January 31-February 2, 2011 North American winter storm_
 
 ##### Five-star
 ### [A fire destroys a five-star Sheraton hotel in the Heping District of Shenyang, Liaoning, China, then the tallest building in Northeastern China, after midnight fireworks celebrating the Chinese New Year set ablaze flammable thermal insulation outside the hotel walls. Firefighters were unable to put out the blaze as ladders could not reach the higher storeys of the building, but no casualties or injuries were reported. ](/news/2011/02/2/a-fire-destroys-a-five-star-sheraton-hotel-in-the-heping-district-of-shenyang-liaoning-china-then-the-tallest-building-in-northeastern-ch.md)
-_Context: Sheraton, five-star, Shenyang, firework, Chinese New Year, Northeastern China, Heping District, Liaoning, thermal insulation_
+_Context: Northeastern China, Sheraton, five-star, Heping District, firework, Liaoning, Chinese New Year, Shenyang, thermal insulation_
 
 ##### Sudanese cabinet
 ### [The Sudanese government, in its first official reaction after preliminary results were announced indicating a landslide vote in favor of Southern Sudan's independence, agrees to accept the results; Vice-President Ali Osman Taha says the government intends "to pursue a policy of good neighbourly relations with the south". ](/news/2011/02/2/the-sudanese-government-in-its-first-official-reaction-after-preliminary-results-were-announced-indicating-a-landslide-vote-in-favor-of-sou.md)
@@ -61,15 +61,15 @@ _Context: Lars Vilks, Colleen LaRose, work offended many Muslims_
 
 ##### India
 ### [The Indian Central Bureau of Investigation arrests former minister for communications A. Raja and other officials associated with the 2G spectrum scam. ](/news/2011/02/2/the-indian-central-bureau-of-investigation-arrests-former-minister-for-communications-a-raja-and-other-officials-associated-with-the-2g-spe.md)
-_Context: 2G spectrum scam, A. Raja, India, CBI_
+_Context: CBI, 2G spectrum scam, A. Raja, India_
 
 ##### Federal District Judge
 ### [United States federal judge Carl J. Barbier rules that Deepwater Horizon oil spill compensation fund administrator Ken Feinberg should advise people that he is working for BP. ](/news/2011/02/2/united-states-federal-judge-carl-j-barbier-rules-that-deepwater-horizon-oil-spill-compensation-fund-administrator-ken-feinberg-should-advis.md)
-_Context: Deepwater Horizon oil spill, Federal District Judge, Ken Feinberg, BP, Carl J. Barbier_
+_Context: BP, Ken Feinberg, Federal District Judge, Deepwater Horizon oil spill, Carl J. Barbier_
 
 ##### Parliament
 ### [The parliament of Kazakhstan approves a bill giving the President the power to declare a snap presidential election. ](/news/2011/02/2/the-parliament-of-kazakhstan-approves-a-bill-giving-the-president-the-power-to-declare-a-snap-presidential-election.md)
-_Context: Kazakhstan, parliament_
+_Context: parliament, Kazakhstan_
 
 ##### Palestinian Authority
 ### [The Palestinian Authority announces that it will hold local elections originally due to be held in June 2010. ](/news/2011/02/2/the-palestinian-authority-announces-that-it-will-hold-local-elections-originally-due-to-be-held-in-june-2010.md)
@@ -77,7 +77,7 @@ Delayed from June, vote would be in West Bank only; decision comes after PA expr
 
 ##### Wen Jiabao
 ### [Chinese Premier Wen Jiabao visits rural Jinzhai County in Jiangxi province to celebrate Chinese New Year with local farmers. ](/news/2011/02/2/chinese-premier-wen-jiabao-visits-rural-jinzhai-county-in-jiangxi-province-to-celebrate-chinese-new-year-with-local-farmers.md)
-_Context: Wen Jiabao, Jiangxi, Jinzhai County_
+_Context: Jinzhai County, Wen Jiabao, Jiangxi_
 
 ##### Prime Minister
 ### [Prime Minister of New Zealand, John Key, announces a general election for November 26, giving an unusually long notice for poll. ](/news/2011/02/2/prime-minister-of-new-zealand-john-key-announces-a-general-election-for-november-26-giving-an-unusually-long-notice-for-poll.md)
@@ -85,11 +85,11 @@ _Context: John Key, general election, Prime Minister_
 
 ##### Russian President
 ### [The President of Russia, Dmitry Medvedev, expands the Kremlin's human rights council and authorises it to investigate the cases of Sergei Magnitsky and Mikhail Khodorkovsky. ](/news/2011/02/2/the-president-of-russia-dmitry-medvedev-expands-the-kremlin-s-human-rights-council-and-authorises-it-to-investigate-the-cases-of-sergei-ma.md)
-_Context: Dmitry Medvedev, Mikhail Khodorkovsky, Sergei Magnitsky, Russian President, Kremlin, human rights_
+_Context: Sergei Magnitsky, human rights, Mikhail Khodorkovsky, Russian President, Kremlin, Dmitry Medvedev_
 
 ##### BBC
 ### [BBC executive Craig Oliver is chosen to replace Andy Coulson as British Prime Minister David Cameron's Director of Communications. ](/news/2011/02/2/bbc-executive-craig-oliver-is-chosen-to-replace-andy-coulson-as-british-prime-minister-david-cameron-s-director-of-communications.md)
-_Context: David Cameron, Craig Oliver, Andy Coulson, BBC_
+_Context: Craig Oliver, David Cameron, Andy Coulson, BBC_
 
 ##### United States Senate
 ### [The United States Senate votes down a repeal of healthcare reforms 47-51. ](/news/2011/02/2/the-united-states-senate-votes-down-a-repeal-of-healthcare-reforms-47-51.md)

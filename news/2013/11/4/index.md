@@ -13,7 +13,7 @@ _Context: Mali_
 
 ##### German magazine ''Focus''
 ### [German magazine "Focus" reports the 2012 discovery of Nazi plundered art worth EUR1 billion in Munich, including lost works by Picasso and Matisse. ](/news/2013/11/4/german-magazine-focus-reports-the-2012-discovery-of-nazi-plundered-art-worth-a-1-billion-in-munich-including-lost-works-by-picasso-and-m.md)
-_Context: Picasso, 2012 discovery, Munich, Nazi plunder, German magazine ''Focus'', Matisse_
+_Context: Picasso, Matisse, Munich, Nazi plunder, 2012 discovery, German magazine ''Focus''_
 
 ##### Ardal
 ### [A man fatally stabs three people on a bus en route between Ardal and Tyin in Norway. ](/news/2013/11/4/a-man-fatally-stabs-three-people-on-a-bus-en-route-between-ardal-and-tyin-in-norway.md)
@@ -25,7 +25,7 @@ In one of the largest health care fraud settlements in U.S. history, Johnson & J
 
 ##### Opens fire
 ### [A gunman opens fire inside the Westfield Garden State Plaza in Paramus, New Jersey, shooting out security cameras. Hours later, the gunman commits suicide near the mall. ](/news/2013/11/4/a-gunman-opens-fire-inside-the-westfield-garden-state-plaza-in-paramus-new-jersey-shooting-out-security-cameras-hours-later-the-gunman-c.md)
-_Context: opens fire, Westfield Garden State Plaza, New Jersey, Paramus_
+_Context: Westfield Garden State Plaza, Paramus, New Jersey, opens fire_
 
 ##### The state
 ### [In Florida, United States, Eric Rivera Jr. is convicted of second-degree murder in the 2007 killing of NFL Washington Redskins player Sean Taylor during a burglary. ](/news/2013/11/4/in-florida-united-states-eric-rivera-jr-is-convicted-of-second-degree-murder-in-the-2007-killing-of-nfl-washington-redskins-player-sean-t.md)

@@ -21,7 +21,7 @@ Bolivia suspends the operating licence of LaMia, the airline whose plane crashed
 
 ##### Ukrainian crisis
 ### [Ukraine starts a missile test near Crimea, annexed by Russia in 2014, while Russia puts its air-defense and naval forces in the region on high alert. ](/news/2016/12/1/ukraine-starts-a-missile-test-near-crimea-annexed-by-russia-in-2014-while-russia-puts-its-air-defense-and-naval-forces-in-the-region-on-hi.md)
-_Context: Ukraine, Russia, Ukrainian crisis, its intervention in Ukraine, Crimea_
+_Context: Russia, its intervention in Ukraine, Ukraine, Crimea, Ukrainian crisis_
 
 ##### Israeli-Palestinian conflict
 ### [The Israeli Ministry of Transportation orders a bus company in Beersheba to remove Arabic-language advertisements on their buses following complaints from several Jewish residents. ](/news/2016/12/1/the-israeli-ministry-of-transportation-orders-a-bus-company-in-beersheba-to-remove-arabic-language-advertisements-on-their-buses-following-c.md)
@@ -41,7 +41,7 @@ The leader of Yemen’s Houthi Ansarullah movement says the newly-formed Nationa
 
 ##### Gambian presidential election, 2016
 ### [Elections are held in The Gambia. ](/news/2016/12/1/elections-are-held-in-the-gambia.md)
-_Context: The Gambia, Gambian presidential election, 2016_
+_Context: Gambian presidential election, 2016, The Gambia_
 
 ##### North Carolina  gubernatorial election, 2016
 ### [Recounts begin in North Carolina. ](/news/2016/12/1/recounts-begin-in-north-carolina.md)
@@ -49,7 +49,7 @@ _Context: North Carolina  gubernatorial election, 2016, North Carolina_
 
 ##### 2016 United States presidential election recounts
 ### [The Jill Stein-initiated recounts begin in Wisconsin. ](/news/2016/12/1/the-jill-stein-initiated-recounts-begin-in-wisconsin.md)
-_Context: Jill Stein, 2016 United States presidential election recounts, Wisconsin_
+_Context: 2016 United States presidential election recounts, Jill Stein, Wisconsin_
 
 ##### Last month's presidential election
 ### [Francois Hollande, the President of France, announces that he will not run in next year's presidential election. This leaves the selection of a candidate for the French Socialist Party wide open. ](/news/2016/12/1/franassois-hollande-the-president-of-france-announces-that-he-will-not-run-in-next-year-s-presidential-election-this-leaves-the-selection.md)
@@ -57,7 +57,7 @@ Surprise move not to stand for a second term in upcoming presidential election t
 
 ##### Presidential transition of Donald Trump
 ### [President-elect Donald Trump names retired United States Marine Corps general James Mattis as United States Secretary of Defense. ](/news/2016/12/1/president-elect-donald-trump-names-retired-united-states-marine-corps-general-james-mattis-as-united-states-secretary-of-defense.md)
-_Context: James Mattis, Marine, Donald Trump, Presidential transition of Donald Trump, United States Secretary of Defense_
+_Context: Marine, Presidential transition of Donald Trump, James Mattis, United States Secretary of Defense, Donald Trump_
 
 ##### Roscosmos
 ### [Roscosmos cargo spacecraft Progress MS-04 fails to dock with the International Space Station after experiencing a rocket failure. The spacecraft is believed to have mainly burnt up in the atmosphere. ](/news/2016/12/1/roscosmos-cargo-spacecraft-progress-ms-04-fails-to-dock-with-the-international-space-station-after-experiencing-a-rocket-failure-the-spacec.md)

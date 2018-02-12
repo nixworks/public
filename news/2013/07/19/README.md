@@ -9,15 +9,15 @@ A bomb blast in crowded Sunni mosque in central Iraq has killed at least 20 peop
 
 ##### Colombia
 ### [Colombian FARC offer to release Kevin Scott Sutay, an American soldier captured last month. ](/news/2013/07/19/colombian-farc-offer-to-release-kevin-scott-sutay-an-american-soldier-captured-last-month.md)
-_Context: Colombia, FARC_
+_Context: FARC, Colombia_
 
 ##### Australian Prime Minister
 ### [The Prime Minister of Australia, Kevin Rudd, announces a plan to settle asylum seekers who come by boat in Papua New Guinea. ](/news/2013/07/19/the-prime-minister-of-australia-kevin-rudd-announces-a-plan-to-settle-asylum-seekers-who-come-by-boat-in-papua-new-guinea.md)
-_Context: Kevin Rudd, asylum seeker, Australian Prime Minister, Papua New Guinea_
+_Context: asylum seeker, Australian Prime Minister, Papua New Guinea, Kevin Rudd_
 
 ##### Pope Francis
 ### [Pope Francis names a new Pontifical Commission to investigate current accounting practices among all Vatican offices and bodies and to help devise new strategies for greater fiscal responsibility and fiscal transparency. ](/news/2013/07/19/pope-francis-names-a-new-pontifical-commission-to-investigate-current-accounting-practices-among-all-vatican-offices-and-bodies-and-to-help.md)
-_Context: fiscal responsibility, accounting, Holy See, Pontifical Commission, fiscal transparency, Pope Francis_
+_Context: Pontifical Commission, Pope Francis, Holy See, fiscal transparency, fiscal responsibility, accounting_
 
 ##### Russian court
 ### [A Russian court releases Kremlin critic Alexei Navalny a day after being sentenced for alleged embezzlement. ](/news/2013/07/19/a-russian-court-releases-kremlin-critic-alexei-navalny-a-day-after-being-sentenced-for-alleged-embezzlement.md)
@@ -29,7 +29,7 @@ _Context: Sam Rainsy, Cambodia, July elections_
 
 ##### Muslim Brotherhood
 ### [The Muslim Brotherhood calls for millions of supporters to hold rallies across Egypt two weeks after Mohamed Morsi was deposed as president. ](/news/2013/07/19/the-muslim-brotherhood-calls-for-millions-of-supporters-to-hold-rallies-across-egypt-two-weeks-after-mohamed-morsi-was-deposed-as-president.md)
-_Context: Egypt, Muslim Brotherhood, Mohamed Morsi, coup d'tat_
+_Context: Egypt, coup d'tat, Mohamed Morsi, Muslim Brotherhood_
 
 ## [Previous Day...](/news/2013/07/18/index.md)
 

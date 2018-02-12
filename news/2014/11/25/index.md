@@ -9,7 +9,7 @@ The freed captives were six Yemeni citizens, a Saudi and an Ethiopian, who were 
 
 ##### Islamic State in Iraq and the Levant
 ### [Syrian Air Force raids on the city of Raqqa kill at least 36 people. ](/news/2014/11/25/syrian-air-force-raids-on-the-city-of-raqqa-kill-at-least-36-people.md)
-_Context: Syrian Air Force, Raqqa, Islamic State in Iraq and the Levant_
+_Context: Syrian Air Force, Islamic State in Iraq and the Levant, Raqqa_
 
 ##### Suicide bomber
 ### [Two teenage girl suicide bombers kill more than 40 people in Maiduguri, the capital of Borno state in northeastern Nigeria. ](/news/2014/11/25/two-teenage-girl-suicide-bombers-kill-more-than-40-people-in-maiduguri-the-capital-of-borno-state-in-northeastern-nigeria.md)
@@ -17,7 +17,7 @@ They carried the bombs under their hijabs, detonating them in a double suicide a
 
 ##### Egypt
 ### [A block of flats collapses in the Egyptian capital Cairo killing at least 10 people. ](/news/2014/11/25/a-block-of-flats-collapses-in-the-egyptian-capital-cairo-killing-at-least-10-people.md)
-_Context: Cairo, Egypt_
+_Context: Egypt, Cairo_
 
 ##### Prime minister of Portugal
 ### [Portuguese police arrest the ex-prime minister of Portugal, Jose Socrates. They accuse him of corruption, fiscal fraud, and money laundering. ](/news/2014/11/25/portuguese-police-arrest-the-ex-prime-minister-of-portugal-josa-c-socrates-they-accuse-him-of-corruption-fiscal-fraud-and-money-launderin.md)

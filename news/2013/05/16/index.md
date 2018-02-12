@@ -13,7 +13,7 @@ Spike in violence comes amid tensions between the Shiite-led government and Sunn
 
 ##### Sinai Peninsula
 ### [Suspected militants abduct six security personnel in the Sinai Peninsula, Egypt. ](/news/2013/05/16/suspected-militants-abduct-six-security-personnel-in-the-sinai-peninsula-egypt.md)
-_Context: Egypt, Sinai Peninsula_
+_Context: Sinai Peninsula, Egypt_
 
 ##### Adamawa State
 ### [The Nigerian military imposes a dusk to dawn curfew in Adamawa State. ](/news/2013/05/16/the-nigerian-military-imposes-a-dusk-to-dawn-curfew-in-adamawa-state.md)
@@ -21,15 +21,15 @@ _Context: Adamawa State_
 
 ##### The Office
 ### [The American adaptation of the television series "The Office" airs its last episode on the National Broadcasting Company after nine seasons. ](/news/2013/05/16/the-american-adaptation-of-the-television-series-the-office-airs-its-last-episode-on-the-national-broadcasting-company-after-nine-seasons.md)
-_Context: NBC, The Office_
+_Context: The Office, NBC_
 
 ##### Jenny Colgan
 ### [British author Jenny Colgan wins the 2013 Romantic Novel of the Year Award for her book "Welcome to Rosie Hopkins' Sweetshop of Dreams". ](/news/2013/05/16/british-author-jenny-colgan-wins-the-2013-romantic-novel-of-the-year-award-for-her-book-welcome-to-rosie-hopkins-sweetshop-of-dreams.md)
-_Context: Welcome to Rosie Hopkins' Sweetshop of Dreams, Romantic Novel of the Year Award, Jenny Colgan_
+_Context: Jenny Colgan, Welcome to Rosie Hopkins' Sweetshop of Dreams, Romantic Novel of the Year Award_
 
 ##### Bea Arthur
 ### [A topless painting of actress Bea Arthur sells for US$2 million at auction. ](/news/2013/05/16/a-topless-painting-of-actress-bea-arthur-sells-for-us-2-million-at-auction.md)
-_Context: Bea Arthur, US$_
+_Context: US$, Bea Arthur_
 
 ##### Bill Gates
 ### [Bill Gates becomes the world's richest person for the first time since 2007 with a fortune of approximately $72.7 billion. ](/news/2013/05/16/bill-gates-becomes-the-world-s-richest-person-for-the-first-time-since-2007-with-a-fortune-of-approximately-72-7-billion.md)
@@ -49,7 +49,7 @@ _Context: Nepal_
 
 ##### Supreme National Security Council of Iran
 ### [The Secretary of the Supreme National Security Council of Iran, Saeed Jalili, reiterates that Iran will never give up its right to use nuclear energy for peaceful means, but it will not seek nuclear weapons. ](/news/2013/05/16/the-secretary-of-the-supreme-national-security-council-of-iran-saeed-jalili-reiterates-that-iran-will-never-give-up-its-right-to-use-nucle.md)
-_Context: Saeed Jalili, Supreme National Security Council of Iran_
+_Context: Supreme National Security Council of Iran, Saeed Jalili_
 
 ##### 
 ### [The United States announces new sanctions against the Syrian government. ](/news/2013/05/16/the-united-states-announces-new-sanctions-against-the-syrian-government.md)
@@ -65,7 +65,7 @@ Two brothers, who belong to a New Orleans gang, have been charged with opening f
 
 ##### Stockholm School of Economics
 ### [Rolf Wolff, president of the Stockholm School of Economics, is fired amidst a scandal where he promoted a convicted insider trader for a top position at the university and allegedly he lied about his academic credentials. ](/news/2013/05/16/rolf-wolff-president-of-the-stockholm-school-of-economics-is-fired-amidst-a-scandal-where-he-promoted-a-convicted-insider-trader-for-a-top.md)
-_Context: Stockholm School of Economics, insider trader_
+_Context: insider trader, Stockholm School of Economics_
 
 ##### 
 ### [Water dating back 2.6 billion years, by far the oldest ever found, is discovered in a Canadian mine. ](/news/2013/05/16/water-dating-back-2-6-billion-years-by-far-the-oldest-ever-found-is-discovered-in-a-canadian-mine.md)

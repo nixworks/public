@@ -9,7 +9,7 @@ COTABATO, Philippines (AFP) - A bloodbath in the southern Philippines has placed
 
 ##### War in Donbass
 ### [Artillery shelling of Donetsk leaves at least one civilian dead while five Ukrainian Army soldiers are killed in heavy fighting. ](/news/2015/02/2/artillery-shelling-of-donetsk-leaves-at-least-one-civilian-dead-while-five-ukrainian-army-soldiers-are-killed-in-heavy-fighting.md)
-_Context: War in Donbass, Donetsk, Ukrainian Army_
+_Context: Ukrainian Army, Donetsk, War in Donbass_
 
 ##### Lesotho Defence Force
 ### [A shootout between Lesotho Defence Force soldiers and two former bodyguards of Prime Minister Tom Thabane leaves at least one bystander killed and three others wounded. ](/news/2015/02/2/a-shootout-between-lesotho-defence-force-soldiers-and-two-former-bodyguards-of-prime-minister-tom-thabane-leaves-at-least-one-bystander-kill.md)
@@ -29,11 +29,11 @@ It&#039;s up and running again with a few modifications, though some &#034;staff
 
 ##### 2014-15 North American winter
 ### [A winter storm causes the cancellation of school in the midwestern United States and the cancellation of 1,000 flights. ](/news/2015/02/2/a-winter-storm-causes-the-cancellation-of-school-in-the-midwestern-united-states-and-the-cancellation-of-1-000-flights.md)
-_Context: 2014-15 North American winter, midwestern_
+_Context: midwestern, 2014-15 North American winter_
 
 ##### Gaza-Israel conflict
 ### [Canadian academic William Schabas resigns as the head of a United Nations committee investigating alleged Israeli war crimes in an offensive in the Gaza Strip during 2014 due to Israel alleging bias due to consultancy work he did for the Palestine Liberation Organisation. ](/news/2015/02/2/canadian-academic-william-schabas-resigns-as-the-head-of-a-united-nations-committee-investigating-alleged-israeli-war-crimes-in-an-offensive.md)
-_Context: United Nations, Israel, Palestine Liberation Organisation, Gaza Strip, Gaza-Israel conflict, William Schabas, Canadian_
+_Context: William Schabas, United Nations, Gaza Strip, Gaza-Israel conflict, Canadian, Israel, Palestine Liberation Organisation_
 
 ##### International Monetary Fund
 ### [Former International Monetary Fund head Dominique Strauss-Kahn goes on trial in France on pimping charges. ](/news/2015/02/2/former-international-monetary-fund-head-dominique-strauss-kahn-goes-on-trial-in-france-on-pimping-charges.md)
@@ -41,11 +41,11 @@ The trial of former IMF chief Dominique Strauss-Kahn on charges of procuring wom
 
 ##### Tupelo, Mississippi
 ### [Police in Tupelo, Mississippi, US arrest Thomas Jesse Lee for killing his wife and four other members of his family in LaGrange, Georgia. ](/news/2015/02/2/police-in-tupelo-mississippi-us-arrest-thomas-jesse-lee-for-killing-his-wife-and-four-other-members-of-his-family-in-lagrange-georgia.md)
-_Context: Tupelo, Mississippi, LaGrange, Georgia_
+_Context: LaGrange, Georgia, Tupelo, Mississippi_
 
 ##### Iran
 ### [Iran successfully puts the Fajr satellite in orbit using a Safir-B1 rocket. ](/news/2015/02/2/iran-successfully-puts-the-fajr-satellite-in-orbit-using-a-safir-b1-rocket.md)
-_Context: Iran, Fajr, Safir-B1_
+_Context: Safir-B1, Fajr, Iran_
 
 ## [Previous Day...](/news/2015/02/1/index.md)
 

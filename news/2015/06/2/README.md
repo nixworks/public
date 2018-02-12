@@ -5,15 +5,15 @@ Formats: [HTML](2015/06/2/index.html)  [JSON](2015/06/2/index.json)  [XML](2015/
 
 ##### Yemeni Civil War (2015)
 ### [Armed tribesmen kill 18 Houthi fighters in an ambush in Yemen's Ibb Governorate. ](/news/2015/06/2/armed-tribesmen-kill-18-houthi-fighters-in-an-ambush-in-yemen-s-ibb-governorate.md)
-_Context: Yemeni Civil War (2015), Yemen, Houthi, Ibb Governorate_
+_Context: Houthi, Yemen, Yemeni Civil War (2015), Ibb Governorate_
 
 ##### Communist insurgency in the Philippines
 ### [Adelberto Silva, the highest ranked leader of the Communist Party of the Philippines and New People's Army, has been arrested. ](/news/2015/06/2/adelberto-silva-the-highest-ranked-leader-of-the-communist-party-of-the-philippines-and-new-people-s-army-has-been-arrested.md)
-_Context: Communist insurgency in the Philippines, New People's Army, Communist_
+_Context: Communist, New People's Army, Communist insurgency in the Philippines_
 
 ##### Boko Haram
 ### [A suicide bombing in the city of Maiduguri in the north of Nigeria kills 20 people. ](/news/2015/06/2/a-suicide-bombing-in-the-city-of-maiduguri-in-the-north-of-nigeria-kills-20-people.md)
-_Context: Boko Haram, Maiduguri, Nigeria_
+_Context: Nigeria, Maiduguri, Boko Haram_
 
 ##### Alton Towers: The Smiler roller coaster crash
 ### [This roller coaster breakdown resulted in 4 people critically injured. Many injured in this theme park were stuck in the ride for several hours. ](/news/2015/06/2/this-roller-coaster-breakdown-resulted-in-4-people-critically-injured-many-injured-in-this-theme-park-were-stuck-in-the-ride-for-several-ho.md)
@@ -29,7 +29,7 @@ China’s official news agency said the ship sank Monday night in a storm, and a
 
 ##### Malaysia Airlines Flight 370
 ### [Two brothers whose father was on Malaysia Airlines Flight 370 last year when it disappeared receive compensation from the government of Malaysia and Malaysian Airlines. ](/news/2015/06/2/two-brothers-whose-father-was-on-malaysia-airlines-flight-370-last-year-when-it-disappeared-receive-compensation-from-the-government-of-mala.md)
-_Context: Malaysia, Malaysia Airlines Flight 370, Malaysian Airlines_
+_Context: Malaysian Airlines, Malaysia, Malaysia Airlines Flight 370_
 
 ##### 2015 Middle East respiratory syndrome coronavirus outbreak in South Korea
 ### [Two people die of Middle East respiratory syndrome in South Korea. ](/news/2015/06/2/two-people-die-of-middle-east-respiratory-syndrome-in-south-korea.md)
@@ -37,7 +37,7 @@ South Korea has reported 24 cases of the virus since diagnosing the its first ME
 
 ##### Beijing
 ### [Beijing bans smoking in indoor public places, including offices, shopping malls, restaurants, bars and airports, and in outdoor public places, including hospitals and schools. ](/news/2015/06/2/beijing-bans-smoking-in-indoor-public-places-including-offices-shopping-malls-restaurants-bars-and-airports-and-in-outdoor-public-place.md)
-_Context: shopping malls, restaurants, hospitals, airports, schools, Beijing, bars, offices, ban_
+_Context: schools, airports, offices, restaurants, bars, hospitals, shopping malls, ban, Beijing_
 
 ##### Thai Army
 ### [Thai Army Lieutenant General Manus Kongpan is suspended after police order his arrest on involvement in people trafficking. ](/news/2015/06/2/thai-army-lieutenant-general-manus-kongpan-is-suspended-after-police-order-his-arrest-on-involvement-in-people-trafficking.md)

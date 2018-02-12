@@ -25,15 +25,15 @@ _Context: Taiwan, Taipei_
 
 ##### Pope Benedict XVI
 ### [ Pope Benedict XVI opens a three-week synod of African bishops with a Mass in St. Peter's Basilica in Rome. ](/news/2009/10/4/pope-benedict-xvi-opens-a-three-week-synod-of-african-bishops-with-a-mass-in-st-peter-s-basilica-in-rome.md)
-_Context: Vatican, Pope Benedict XVI, bishop, Rome, Italy, Africa, Mass, synod_
+_Context: Pope Benedict XVI, bishop, Vatican, Rome, Italy, Mass, synod, Africa_
 
 ##### China
 ### [ Chinese Premier Wen Jiabao commences his three-day visit to North Korea, and is greeted at the airport by ailing leader Kim Jong-il. ](/news/2009/10/4/chinese-premier-wen-jiabao-commences-his-three-day-visit-to-north-korea-and-is-greeted-at-the-airport-by-ailing-leader-kim-jong-il.md)
-_Context: Wen Jiabao, Premier, China, Kim Jong-il, North Korea_
+_Context: Kim Jong-il, China, Premier, Wen Jiabao, North Korea_
 
 ##### United Kingdom
 ### [ The British and French governments announce a "historic" GBP2.5 billion allocation to the International Monetary Fund to help less wealthy countries. ](/news/2009/10/4/the-british-and-french-governments-announce-a-historic-agbp2-5-billion-allocation-to-the-international-monetary-fund-to-help-less-wealthy.md)
-_Context: United Kingdom, France, International Monetary Fund_
+_Context: United Kingdom, International Monetary Fund, France_
 
 ##### Nigeria
 ### [ One of the last prominent militant leaders in Nigeria's Niger Delta region, Government Ekpemupolo (Tompolo), agrees to an amnesty with the government. ](/news/2009/10/4/one-of-the-last-prominent-militant-leaders-in-nigeria-s-niger-delta-region-government-ekpemupolo-tompolo-agrees-to-an-amnesty-with-the.md)

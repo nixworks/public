@@ -5,11 +5,11 @@ Formats: [HTML](2007/09/3/index.html)  [JSON](2007/09/3/index.json)  [XML](2007/
 
 ##### China
 ### [ The People's Republic of China charges human rights activist Yang Chunlin, who gathered 10,000 signatures to an open letter opposing the Beijing Olympics on human rights grounds, with attempting to subvert state power. ](/news/2007/09/3/the-people-s-republic-of-china-charges-human-rights-activist-yang-chunlin-who-gathered-10-000-signatures-to-an-open-letter-opposing-the-be.md)
-_Context: China, human rights, Yang Chunlin, 2008 Summer Olympics, open letter_
+_Context: 2008 Summer Olympics, Yang Chunlin, China, open letter, human rights_
 
 ##### Panama
 ### [ Panama begins work on its GBP2.7 billion Panama Canal expansion project. ](/news/2007/09/3/panama-begins-work-on-its-agbp2-7-billion-panama-canal-expansion-project.md)
-_Context: Panama, expanded, pound sterling_
+_Context: expanded, pound sterling, Panama_
 
 ##### Judge
 ### [ Six expatriate judges resign from the Fijian legal system following disagreements with the military-appointed acting Chief Justice Anthony Gates. ](/news/2007/09/3/six-expatriate-judges-resign-from-the-fijian-legal-system-following-disagreements-with-the-military-appointed-acting-chief-justice-anthony.md)
@@ -17,27 +17,27 @@ _Context: Chief Justice, judge, Fiji, Anthony Gates_
 
 ##### Financial Times
 ### [ The "Financial Times" reports that the military of the People's Republic of China successfully hacked into The Pentagon's computer network. ](/news/2007/09/3/the-financial-times-reports-that-the-military-of-the-people-s-republic-of-china-successfully-hacked-into-the-pentagon-s-computer-network.md)
-_Context: hackers, Financial Times, United States military, People's Liberation Army_
+_Context: hackers, People's Liberation Army, Financial Times, United States military_
 
 ##### Japan
 ### [ Japan and Chile sign a free trade agreement. ](/news/2007/09/3/japan-and-chile-sign-a-free-trade-agreement.md)
-_Context: free trade agreement, Chile, Japan_
+_Context: Japan, free trade agreement, Chile_
 
 ##### Mittal Steel
 ### [ Mittal Steel completes the first part of its takeover of Arcelor with ArcelorMittal being listed on European stock exchanges with the combined company becoming the world's largest steel producer. ](/news/2007/09/3/mittal-steel-completes-the-first-part-of-its-takeover-of-arcelor-with-arcelormittal-being-listed-on-european-stock-exchanges-with-the-combi.md)
-_Context: Arcelor, stock exchange, Europe, steel, Mittal Steel, ArcelorMittal_
+_Context: Mittal Steel, steel, stock exchange, Europe, ArcelorMittal, Arcelor_
 
 ##### Tomas Medina Caracas
 ### [ Tomas Medina Caracas (known by his nom de guerre "Negro Acacio"), one of FARC's most important leaders and the liaison between this Colombian guerrilla and Brazilian drug dealers, is killed in action by Colombian armed forces in Guaviare. ](/news/2007/09/3/toma-s-medina-caracas-known-by-his-nom-de-guerre-negro-acacio-one-of-farc-s-most-important-leaders-and-the-liaison-between-this-colomb.md)
-_Context: guerrilla, military, nom de guerre, Tomas Medina Caracas, Guaviare, Colombia, Brazil, narcotics, FARC_
+_Context: FARC, narcotics, Tomas Medina Caracas, Colombia, guerrilla, military, Brazil, nom de guerre, Guaviare_
 
 ##### Israeli Defense Forces
 ### [ The Israeli Defense Forces announce plans for a force upgrade following problems in the 2006 Lebanon War and a perceived threat from Iran. ](/news/2007/09/3/the-israeli-defense-forces-announce-plans-for-a-force-upgrade-following-problems-in-the-2006-lebanon-war-and-a-perceived-threat-from-iran.md)
-_Context: Israeli Defense Forces, Iran, Israeli-Lebanese war of 2006_
+_Context: Israeli Defense Forces, Israeli-Lebanese war of 2006, Iran_
 
 ##### U.S. President
 ### [ U.S. President George W. Bush makes a surprise visit to Iraq and addresses military leaders and the troops, saying that with success, a U.S. Iraq troop cut is possible. ](/news/2007/09/3/u-s-president-george-w-bush-makes-a-surprise-visit-to-iraq-and-addresses-military-leaders-and-the-troops-saying-that-with-success-a-u-s.md)
-_Context: Iraq War, U.S. President, Iraq, troop cut, George W. Bush, Military of the United States_
+_Context: Iraq War, George W. Bush, Military of the United States, Iraq, troop cut, U.S. President_
 
 ##### Rail Maritime and Transport Union
 ### [ The Rail Maritime and Transport Union threatens a three day strike on the London Underground with last minute talks between the union and Transport for London failing to prevent this outcome. ](/news/2007/09/3/the-rail-maritime-and-transport-union-threatens-a-three-day-strike-on-the-london-underground-with-last-minute-talks-between-the-union-and-t.md)
@@ -53,11 +53,11 @@ Two ethnic groups from Nepal&#039;s restive southern Terai region have claimed r
 
 ##### United Nations Secretary-General
 ### [ Secretary-General of the United Nations Ban Ki-Moon arrives in Sudan to press for an end to violence in Darfur. ](/news/2007/09/3/secretary-general-of-the-united-nations-ban-ki-moon-arrives-in-sudan-to-press-for-an-end-to-violence-in-darfur.md)
-_Context: Sudan, Ban Ki-Moon, United Nations Secretary-General, Darfur_
+_Context: Ban Ki-Moon, Sudan, Darfur, United Nations Secretary-General_
 
 ##### Europe
 ### [ European energy companies Gaz de France and Suez agree to merge in what would be a privatisation of the French state-owned Gaz de France. ](/news/2007/09/3/european-energy-companies-gaz-de-france-and-suez-agree-to-merge-in-what-would-be-a-privatisation-of-the-french-state-owned-gaz-de-france.md)
-_Context: Suez, France, Europe, Gaz de France, privatisation_
+_Context: Gaz de France, France, Suez, privatisation, Europe_
 
 ##### Susan Kiefel
 ### [ Justice Susan Kiefel becomes the third woman to serve on the High Court of Australia. ](/news/2007/09/3/justice-susan-kiefel-becomes-the-third-woman-to-serve-on-the-high-court-of-australia.md)
@@ -65,7 +65,7 @@ _Context: High Court of Australia, Susan Kiefel_
 
 ##### Cargo ship
 ### [ Four cargo ships carrying methanol sink on the Han River, the source of the water supply for Wuhan, China, with environmental authorities monitoring water quality. ](/news/2007/09/3/four-cargo-ships-carrying-methanol-sink-on-the-han-river-the-source-of-the-water-supply-for-wuhan-china-with-environmental-authorities-m.md)
-_Context: methanol, Wuhan, water quality, Han, cargo ship_
+_Context: Han, cargo ship, Wuhan, methanol, water quality_
 
 ##### Sun Zhengcai
 ### [ Sun Zhengcai, the Chinese Minister for Agriculture, states that China will clamp down on foods tainted with illegal and excessive chemicals. ](/news/2007/09/3/sun-zhengcai-the-chinese-minister-for-agriculture-states-that-china-will-clamp-down-on-foods-tainted-with-illegal-and-excessive-chemicals.md)
@@ -73,7 +73,7 @@ _Context: chemical, Sun Zhengcai, food_
 
 ##### Bangladesh
 ### [ The interim Government of Bangladesh arrests former Prime Minister of Bangladesh Khaleda Zia and her son on corruption charges. ](/news/2007/09/3/the-interim-government-of-bangladesh-arrests-former-prime-minister-of-bangladesh-khaleda-zia-and-her-son-on-corruption-charges.md)
-_Context: Prime Minister, Bangladesh, corruption, Khaleda Zia_
+_Context: Bangladesh, Prime Minister, corruption, Khaleda Zia_
 
 ##### Australian Prime Minister
 ### [ The Prime Minister of Australia John Howard puts an appeal on YouTube for people not to participate in violent protests this week. ](/news/2007/09/3/the-prime-minister-of-australia-john-howard-puts-an-appeal-on-youtube-for-people-not-to-participate-in-violent-protests-this-week.md)
@@ -81,15 +81,15 @@ The Sydney Morning Herald 404 Page
 
 ##### Jamaica
 ### [ Jamaican voters go to the polls for the Jamaican general election, 2007. ](/news/2007/09/3/jamaican-voters-go-to-the-polls-for-the-jamaican-general-election-2007.md)
-_Context: Jamaica, Jamaican general election, 2007_
+_Context: Jamaican general election, 2007, Jamaica_
 
 ##### Takehiko Endo
 ### [ According to reports in Japanese media, Takehiko Endo resigns as the Japanese Agriculture Minister due to involvements in illegal dealings in 1999. ](/news/2007/09/3/according-to-reports-in-japanese-media-takehiko-endo-resigns-as-the-japanese-agriculture-minister-due-to-involvements-in-illegal-dealings.md)
-_Context: Japan, Takehiko Endo_
+_Context: Takehiko Endo, Japan_
 
 ##### Hurricane Felix
 ### [ Hurricane Felix reaches Category 5 strength as it heads towards Honduras issues a hurricane warning for an area from Limon on the north coast to the border with Nicaragua. The Bay Islands are placed on red alert, and the departments of Gracias a Dios, Colon, Atlantida, Olancho, Cortes and Yoro are placed on yellow alert. ](/news/2007/09/3/hurricane-felix-reaches-category-5-strength-as-it-heads-towards-honduras-issues-a-hurricane-warning-for-an-area-from-lima3n-on-the-north-co.md)
-_Context: Colon, Saffir-Simpson Hurricane Scale, Gracias a Dios, Olancho, Nicaragua, Cortes, Bay Islands, (Wikinews), Limon, Honduras, Atlantida, Yoro, Hurricane Felix_
+_Context: Hurricane Felix, Limon, Yoro, Bay Islands, (Wikinews), Olancho, Atlantida, Nicaragua, Gracias a Dios, Honduras, Cortes, Colon, Saffir-Simpson Hurricane Scale_
 
 ## [Previous Day...](/news/2007/09/2/index.md)
 

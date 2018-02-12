@@ -5,11 +5,11 @@ Formats: [HTML](2013/12/2/index.html)  [JSON](2013/12/2/index.json)  [XML](2013/
 
 ##### Right Livelihood Award
 ### [The Right Livelihood Award, sometimes understood as a critique of the Nobel Prize, is presented at a ceremony in the Swedish Parliament building to Dr. Paul Walker, Raji Sourani, Denis Mukwege, and Hans Herren. ](/news/2013/12/2/the-right-livelihood-award-sometimes-understood-as-a-critique-of-the-nobel-prize-is-presented-at-a-ceremony-in-the-swedish-parliament-buil.md)
-_Context: Denis Mukwege, Swedish Parliament, Raji Sourani, Hans Herren, Right Livelihood Award_
+_Context: Swedish Parliament, Denis Mukwege, Hans Herren, Right Livelihood Award, Raji Sourani_
 
 ##### French-born
 ### [French artist Laure Prouvost wins the 2013 Turner Prize for a video installation set in a mock tea party. ](/news/2013/12/2/french-artist-laure-prouvost-wins-the-2013-turner-prize-for-a-video-installation-set-in-a-mock-tea-party.md)
-_Context: video installation, Turner Prize, Laure Prouvost, French-born_
+_Context: video installation, Laure Prouvost, Turner Prize, French-born_
 
 ##### Philippines
 ### [The death toll in the Philippines is confirmed over 5,700. ](/news/2013/12/2/the-death-toll-in-the-philippines-is-confirmed-over-5-700.md)
@@ -25,7 +25,7 @@ _Context: Guarulhos, Brazil_
 
 ##### Pope Francis
 ### [Pope Francis meets with the Prime Minister of Israel Benjamin Netanyahu at the Vatican to discuss global affairs including the nuclear program of Iran. ](/news/2013/12/2/pope-francis-meets-with-the-prime-minister-of-israel-benjamin-netanyahu-at-the-vatican-to-discuss-global-affairs-including-the-nuclear-progr.md)
-_Context: Israeli Prime Minister, Vatican, nuclear program, Pope Francis, Benjamin Netanyahu_
+_Context: Israeli Prime Minister, Vatican, Pope Francis, nuclear program, Benjamin Netanyahu_
 
 ##### New Hampshire
 ### [In the New Hampshire's U.S. District Court, the former medical technician David Kwiatkowski is sentenced to 39 years in prison for infecting unknown numbers of patients in various states with hepatitis C through the reuse of his contaminated syringes. ](/news/2013/12/2/in-the-new-hampshire-s-u-s-district-court-the-former-medical-technician-david-kwiatkowski-is-sentenced-to-39-years-in-prison-for-infecting.md)

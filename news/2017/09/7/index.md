@@ -21,7 +21,7 @@ The online retail giant said it is seeking a location in North America for a new
 
 ##### Trump administraion
 ### [Fifteen states sue the Trump administration over potential violations of the Due Process Clause as a result of actions concerning the rescindment of the DACA program. ](/news/2017/09/7/fifteen-states-sue-the-trump-administration-over-potential-violations-of-the-due-process-clause-as-a-result-of-actions-concerning-the-rescin.md)
-_Context: Due Process Clause, Trump administraion, Deferred Action for Childhood Arrivals_
+_Context: Due Process Clause, Deferred Action for Childhood Arrivals, Trump administraion_
 
 ##### Atlantic hurricanes
 ### [Irma has killed at least 14 people. The storm, still at Category 5 strength with maximum sustained winds of 175 mph (280 km-h), is moving west-northwest at 16 mph (26 km-h). It has reached the dual-country island of Hispaniola and is forecast to pass over the Turks and Caicos Islands as it heads towards The Bahamas and Cuba. The eye did not directly hit Puerto Rico; still casualties are reported and around two-thirds of its 3.4 million population are without electricity. ](/news/2017/09/7/irma-has-killed-at-least-14-people-the-storm-still-at-category-5-strength-with-maximum-sustained-winds-of-175-mph-280-km-h-is-moving-we.md)
@@ -37,7 +37,7 @@ The Latest on tensions on the Korean Peninsula (all times local):
 
 ##### Qatar-United States relations
 ### [Qatar announces it will donate USD$ 30 million to help people in Texas recover from Harvey. ](/news/2017/09/7/qatar-announces-it-will-donate-usd-30-million-to-help-people-in-texas-recover-from-harvey.md)
-_Context: Qatar-United States relations, Texas, Qatar, Hurricane Harvey_
+_Context: Texas, Qatar-United States relations, Hurricane Harvey, Qatar_
 
 ##### Australian Marriage Law Postal Survey
 ### [The High Court of Australia rejects the challenge against the postal survey on same-sex marriage, allowing the survey to begin in mid-September as planned. ](/news/2017/09/7/the-high-court-of-australia-rejects-the-challenge-against-the-postal-survey-on-same-sex-marriage-allowing-the-survey-to-begin-in-mid-septem.md)
@@ -49,7 +49,7 @@ She says the due-process rights of the accused need to be protected.
 
 ##### Executive Order 13780
 ### [The United States Court of Appeals for the Ninth Circuit rejects the Trump administration arguments regarding the travel ban on grandparents, cousins and others with a "bona fide" relationship in the United States. ](/news/2017/09/7/the-united-states-court-of-appeals-for-the-ninth-circuit-rejects-the-trump-administration-arguments-regarding-the-travel-ban-on-grandparents.md)
-_Context: bona fide, Trump administraion, Executive Order 13780, United States Court of Appeals for the Ninth Circuit_
+_Context: Executive Order 13780, Trump administraion, United States Court of Appeals for the Ninth Circuit, bona fide_
 
 ##### Secession
 ### [Spain plans to sue leading members of the Catalan Parliament over the proposed independence referendum in Catalonia. ](/news/2017/09/7/spain-plans-to-sue-leading-members-of-the-catalan-parliament-over-the-proposed-independence-referendum-in-catalonia.md)

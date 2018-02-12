@@ -25,7 +25,7 @@ Two separate bomb attacks targeting Shia pilgrims in the Iraqi city of Karbala h
 
 ##### China
 ### [Twenty people are injured in China's Sichuan province following clashes with police over a proposed chemical plant, protesters and officials say. In a separate protest, riot police dispersed a group of parents who lost their children in the devastating 2008 earthquake after they tried to meet with the mayor of Deyang city to discuss compensation claims. ](/news/2011/01/24/twenty-people-are-injured-in-china-s-sichuan-province-following-clashes-with-police-over-a-proposed-chemical-plant-protesters-and-officials.md)
-_Context: 2008 earthquake, Deyang, police, China, Sichuan province_
+_Context: China, Deyang, police, 2008 earthquake, Sichuan province_
 
 ##### Hamas
 ### [Hamas bans the sale of two books that it says "contradict" Islam after receiving complaints from locals. ](/news/2011/01/24/hamas-bans-the-sale-of-two-books-that-it-says-contradict-islam-after-receiving-complaints-from-locals.md)
@@ -37,7 +37,7 @@ Eastman Kodak Co. was handed a setback by a U.S. trade agency in the camera comp
 
 ##### Ivory Coast
 ### [Internationally recognised President of Ivory Coast Alassane Ouattara calls for a halt to cocoa and coffee exports to cut off funding for incumbent President Laurent Gbagbo. ](/news/2011/01/24/internationally-recognised-president-of-ivory-coast-alassane-ouattara-calls-for-a-halt-to-cocoa-and-coffee-exports-to-cut-off-funding-for-in.md)
-_Context: Ivory Coast, Laurent Gbagbo, cocoa, Alassane Ouattara, coffee_
+_Context: Laurent Gbagbo, cocoa, Ivory Coast, Alassane Ouattara, coffee_
 
 ##### Australia
 ### [An Australian internal review finds that the fatal Christmas Island boat disaster was responded to appropriately. ](/news/2011/01/24/an-australian-internal-review-finds-that-the-fatal-christmas-island-boat-disaster-was-responded-to-appropriately.md)
@@ -49,11 +49,11 @@ _Context: China, Shandong_
 
 ##### Freezing rain
 ### [Heavy snow and freezing rain fall in Southwestern China, causing roof collapses and damages to crops. ](/news/2011/01/24/heavy-snow-and-freezing-rain-fall-in-southwestern-china-causing-roof-collapses-and-damages-to-crops.md)
-_Context: freezing rain, Southwestern China_
+_Context: Southwestern China, freezing rain_
 
 ##### United Nations
 ### [The United Nations calls for the international community to increase support to Somalia as the country approaches the twentieth anniversary since the start of its civil war. ](/news/2011/01/24/the-united-nations-calls-for-the-international-community-to-increase-support-to-somalia-as-the-country-approaches-the-twentieth-anniversary.md)
-_Context: United Nations, international community, Somalia, Somali Civil War_
+_Context: Somalia, international community, United Nations, Somali Civil War_
 
 ##### Peru
 ### [Peru recognises Palestine "as a free and sovereign state". ](/news/2011/01/24/peru-recognises-palestine-as-a-free-and-sovereign-state.md)
@@ -69,11 +69,11 @@ Two political activists involved in the 2009 post-presidential election protest 
 
 ##### South Korea
 ### [South Korean media report that two North Koreans have been executed in front of 500 spectators for handling propaganda leaflets floated across the border from South Korea, apparently as part of a campaign by North Korean leader Kim Jong-Il to tighten ideological control as he grooms his youngest son as eventual successor. ](/news/2011/01/24/south-korean-media-report-that-two-north-koreans-have-been-executed-in-front-of-500-spectators-for-handling-propaganda-leaflets-floated-acro.md)
-_Context: Kim Jong-Il, South Korea, Kim Jong-un, executed in front of 500 spectators, North Korea, North Korea - South Korea relations_
+_Context: North Korea, South Korea, Kim Jong-Il, Kim Jong-un, executed in front of 500 spectators, North Korea - South Korea relations_
 
 ##### Egypt
 ### [Egypt's general prosecutor bans media reporting of the investigation into a deadly New Year's Day church bombing, saying any revelations could hinder the work of investigators, a day after Egypt's government accused a Palestinian militant group, the Army of Islam, of carrying out the bombing with the help of a local accomplice. ](/news/2011/01/24/egypt-s-general-prosecutor-bans-media-reporting-of-the-investigation-into-a-deadly-new-year-s-day-church-bombing-saying-any-revelations-cou.md)
-_Context: Army of Islam, Egypt, New Year's Day church bombing, Human rights in Egypt, Palestinian_
+_Context: New Year's Day church bombing, Palestinian, Army of Islam, Egypt, Human rights in Egypt_
 
 ##### Indonesia
 ### [Three Indonesian soldiers captured on video torturing two men from West Papua are jailed; human rights groups criticize the sentences of 10 months in jail for "disobeying orders" handed out to the low-ranking soldiers, saying the military was reluctant to abide by human rights principles. ](/news/2011/01/24/three-indonesian-soldiers-captured-on-video-torturing-two-men-from-west-papua-are-jailed-human-rights-groups-criticize-the-sentences-of-10.md)
@@ -85,7 +85,7 @@ Jared L. Loughner rejected charges that he tried to kill Representative Gabriell
 
 ##### Israel
 ### [One of the operatives on a boat caught in Israel's Gaza flotilla raid suggests Israel's report into the attack is a "PR exercise". ](/news/2011/01/24/one-of-the-operatives-on-a-boat-caught-in-israel-s-gaza-flotilla-raid-suggests-israel-s-report-into-the-attack-is-a-pr-exercise.md)
-_Context: Gaza flotilla raid, Israel_
+_Context: Israel, Gaza flotilla raid_
 
 ##### Tunisia
 ### [Tunisian officials negotiate the formation of a supervisory council to oversee the country's interim government, in an effort to appease protesters angry at the continued presence in the cabinet of holdovers linked to deposed President Zine El Abidine Ben Ali'sregime. ](/news/2011/01/24/tunisian-officials-negotiate-the-formation-of-a-supervisory-council-to-oversee-the-country-s-interim-government-in-an-effort-to-appease-pro.md)
@@ -93,7 +93,7 @@ _Context: Zine El Abidine Ben Ali, President of Tunisia, Tunisia_
 
 ##### Hezbollah
 ### [Hezbollah and its allies win support a majority in parliament to nominate their candidate, Najib Mikati, as Prime Minister of Lebanon, giving them the upper hand in attempts to form a government and sparking accusations of a pro-Iranian coup by loyalists of ousted Prime Minister Saad Hariri. ](/news/2011/01/24/hezbollah-and-its-allies-win-support-a-majority-in-parliament-to-nominate-their-candidate-najib-mikati-as-prime-minister-of-lebanon-givin.md)
-_Context: Prime Minister of Lebanon, Najib Mikati, Saad Hariri, Iran, parliament, coup, Hezbollah_
+_Context: Saad Hariri, Hezbollah, Iran, coup, Najib Mikati, Prime Minister of Lebanon, parliament_
 
 ##### Yemen
 ### [Yemen frees a female activist accused of inciting disorder after protests demanding her release. ](/news/2011/01/24/yemen-frees-a-female-activist-accused-of-inciting-disorder-after-protests-demanding-her-release.md)
@@ -109,7 +109,7 @@ Lara Giddings has been sworn in as Tasmania&#039;s first female premier after be
 
 ##### India
 ### [Indian opposition Bharatiya Janata Party seeks the President's intervention on being denied entry into Kashmir Valley for the flag hoisting programme in Srinagar on Republic Day (India). ](/news/2011/01/24/indian-opposition-bharatiya-janata-party-seeks-the-president-s-intervention-on-being-denied-entry-into-kashmir-valley-for-the-flag-hoisting.md)
-_Context: India, Kashmir Valley, Srinagar, Republic Day (India), Bharatiya Janata Party_
+_Context: Kashmir Valley, India, Bharatiya Janata Party, Srinagar, Republic Day (India)_
 
 ##### Avian cholera
 ### [An emerging outbreak of avian cholera kills thousands of eider ducks in Arctic regions of Canada. Scientists are studying the outbreak and its potential to spread to Greenland. ](/news/2011/01/24/an-emerging-outbreak-of-avian-cholera-kills-thousands-of-eider-ducks-in-arctic-regions-of-canada-scientists-are-studying-the-outbreak-and-i.md)

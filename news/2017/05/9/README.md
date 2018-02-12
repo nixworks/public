@@ -5,7 +5,7 @@ Formats: [HTML](2017/05/9/index.html)  [JSON](2017/05/9/index.json)  [XML](2017/
 
 ##### Syria-United States relations
 ### [Despite opposition from Turkey, President Donald Trump authorizes an arms deal with the Syrian Kurds to assist the Syrian Democratic Forces in their fight against Islamic State of Iraq and the Levant (ISIL). ](/news/2017/05/9/despite-opposition-from-turkey-president-donald-trump-authorizes-an-arms-deal-with-the-syrian-kurds-to-assist-the-syrian-democratic-forces.md)
-_Context: Donald Trump, ISIL, Turkey-United States relations, Turkey, Syria-United States relations, Syrian Kurds, Syrian Democratic Forces_
+_Context: Syria-United States relations, ISIL, Turkey-United States relations, Syrian Kurds, Syrian Democratic Forces, Donald Trump, Turkey_
 
 ##### Basuki Tjahaja Purnama
 ### [Former Jakarta Governor Basuki Tjahaja Purnama, popularly known as "Ahok", is found guilty of blasphemy and sentenced to two years in prison. The accusation that he insulted the Quran sparked large protests last November. ](/news/2017/05/9/former-jakarta-governor-basuki-tjahaja-purnama-popularly-known-as-ahok-is-found-guilty-of-blasphemy-and-sentenced-to-two-years-in-prison.md)
@@ -25,7 +25,7 @@ Being a communist would no longer be a fireable offense for California governmen
 
 ##### Georgia's 6th congressional district special election, 2017
 ### [The election between Democrat Jon Ossoff and Republican Karen Handel to replace the seat vacated by Tom Price becomes the most expensive congressional race in United States history. ](/news/2017/05/9/the-election-between-democrat-jon-ossoff-and-republican-karen-handel-to-replace-the-seat-vacated-by-tom-price-becomes-the-most-expensive-con.md)
-_Context: Karen Handel, Tom Price, Jon Ossoff, Georgia's 6th congressional district special election, 2017, American_
+_Context: Georgia's 6th congressional district special election, 2017, American, Karen Handel, Tom Price, Jon Ossoff_
 
 ## [Previous Day...](/news/2017/05/8/index.md)
 

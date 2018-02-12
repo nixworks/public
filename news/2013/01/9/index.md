@@ -9,7 +9,7 @@ Forty-eight Iranians held hostage by Syrian rebels since August are freed, repor
 
 ##### James M. Buchanan
 ### [James M. Buchanan, who won the Nobel Memorial Prize in Economic Sciences in 1986 for his role in developing public choice theory, dies aged 93 in the American town of Blacksburg, Virginia. ](/news/2013/01/9/james-m-buchanan-who-won-the-nobel-memorial-prize-in-economic-sciences-in-1986-for-his-role-in-developing-public-choice-theory-dies-aged.md)
-_Context: Blacksburg, Virginia, public choice theory, Nobel Memorial Prize in Economic Sciences, James M. Buchanan_
+_Context: public choice theory, Blacksburg, Virginia, James M. Buchanan, Nobel Memorial Prize in Economic Sciences_
 
 ##### AIG
 ### [AIG announces that it will not join a lawsuit against the U.S. government over the 2008 bailout. ](/news/2013/01/9/aig-announces-that-it-will-not-join-a-lawsuit-against-the-u-s-government-over-the-2008-bailout.md)
@@ -29,7 +29,7 @@ Saudi Arabia beheads a Sri Lankan domestic worker for killing a baby in her care
 
 ##### United States Secretary of Labor
 ### [U.S. Secretary of Labor Hilda Solis announces her resignation from the position, and is expected to step down some time around the presidential inauguration in late January. ](/news/2013/01/9/u-s-secretary-of-labor-hilda-solis-announces-her-resignation-from-the-position-and-is-expected-to-step-down-some-time-around-the-president.md)
-_Context: United States Secretary of Labor, Hilda Solis, second inauguration_
+_Context: Hilda Solis, second inauguration, United States Secretary of Labor_
 
 ##### Venezuela
 ### [The Venezuelan Supreme Tribunal of Justice rules that the latest inauguration of President Hugo Chavez can be deferred while his recovery continues from a cancer operation. ](/news/2013/01/9/the-venezuelan-supreme-tribunal-of-justice-rules-that-the-latest-inauguration-of-president-hugo-cha-vez-can-be-deferred-while-his-recovery-c.md)

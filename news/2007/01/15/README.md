@@ -5,7 +5,7 @@ Formats: [HTML](2007/01/15/index.html)  [JSON](2007/01/15/index.json)  [XML](200
 
 ##### U.S. President
 ### [ The President of the United States George W. Bush declares a state of emergency in Oklahoma following the death of 11 people in a midwinter storm. Twenty-five people have died in the midwestern United States as a result of the storm. ](/news/2007/01/15/the-president-of-the-united-states-george-w-bush-declares-a-state-of-emergency-in-oklahoma-following-the-death-of-11-people-in-a-midwinter.md)
-_Context: U.S. President, George W. Bush, midwestern, Oklahoma, state of emergency_
+_Context: state of emergency, U.S. President, midwestern, George W. Bush, Oklahoma_
 
 ##### Colombia
 ### [ Colombian police arrest Eugenio Montoya, also known as Don Hugo, suspected of being a leader of the Norte del Valle syndicate, which is described by the Federal Bureau of Investigation as the "most powerful and violent drug-trafficking organization in Colombia". ](/news/2007/01/15/colombian-police-arrest-eugenio-montoya-also-known-as-don-hugo-suspected-of-being-a-leader-of-the-norte-del-valle-syndicate-which-is-des.md)
@@ -17,7 +17,7 @@ _Context: Babel, Golden Globe Award, Dreamgirls, 64th Golden Globe Awards_
 
 ##### Israel
 ### [ The Syrian government may sign an agreement in which it will recognize Israel and end its support for Hezbollah and Hamas in return for Israeli withdrawal from most of the Golan Heights. ](/news/2007/01/15/the-syrian-government-may-sign-an-agreement-in-which-it-will-recognize-israel-and-end-its-support-for-hezbollah-and-hamas-in-return-for-isr.md)
-_Context: Israel, Hamas, Hezbollah, Golan Heights_
+_Context: Golan Heights, Hezbollah, Hamas, Israel_
 
 ##### Saddam Hussein
 ### [ Saddam Hussein's half-brother and former intelligence chief Barzan Ibrahim as well as the former chief judge of Iraq Awad Hamed al-Bandar are hanged before dawn. According to the video released by the Iraqi government, the head of Barzan Ibrahim was separated from the rest of his body. Although government officials call the beheading an accident, many Iraqi Sunnis still express umbrage toward the decapitation, accusing the Iraqi government of mutilating the body. ](/news/2007/01/15/saddam-hussein-s-half-brother-and-former-intelligence-chief-barzan-ibrahim-as-well-as-the-former-chief-judge-of-iraq-awad-hamed-al-bandar-a.md)
@@ -37,7 +37,7 @@ _Context: 21 July 2005 London bombings_
 
 ##### Rafael Correa
 ### [ Rafael Correa becomes President of Ecuador, replacing Alfredo Palacio. ](/news/2007/01/15/rafael-correa-becomes-president-of-ecuador-replacing-alfredo-palacio.md)
-_Context: Alfredo Palacio, President, Rafael Correa, Ecuador_
+_Context: Alfredo Palacio, Ecuador, President, Rafael Correa_
 
 ## [Previous Day...](/news/2007/01/14/index.md)
 

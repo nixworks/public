@@ -9,11 +9,11 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Tropical Storm Alberto
 ### [ Tropical Storm Alberto threatens to hit the Northwest coast of Florida, United States. Hurricane warnings are issued and Gov. Jeb Bush declares a state of emergency. Mandatory evacuations are ordered for low-lying areas. ](/news/2006/06/12/tropical-storm-alberto-threatens-to-hit-the-northwest-coast-of-florida-united-states-hurricane-warnings-are-issued-and-gov-jeb-bush-decl.md)
-_Context: American, Jeb Bush, Tropical Storm Alberto, the state_
+_Context: the state, American, Tropical Storm Alberto, Jeb Bush_
 
 ##### Albania
 ### [ Albania signs a Stabilisation and Association Agreement, a first step toward joining the European Union. ](/news/2006/06/12/albania-signs-a-stabilisation-and-association-agreement-a-first-step-toward-joining-the-european-union.md)
-_Context: Association Agreement, European Union candidacy, European Union, Albania, signs_
+_Context: Association Agreement, European Union, signs, European Union candidacy, Albania_
 
 ##### North Korea
 ### [ U.S. officials say that North Korea is planning to test the Taepodong-2 intercontinental ballistic missile that may be able to reach the United States. ](/news/2006/06/12/u-s-officials-say-that-north-korea-is-planning-to-test-the-taepodong-2-intercontinental-ballistic-missile-that-may-be-able-to-reach-the-un.md)
@@ -25,7 +25,7 @@ _Context: Palestinian, Jerusalem_
 
 ##### Power outage
 ### [ A blackout hits Auckland, New Zealand, lasting for several hours after a severe storm lashed the country. Many media outlets compared it to the 1998 Auckland power crisis. ](/news/2006/06/12/a-blackout-hits-auckland-new-zealand-lasting-for-several-hours-after-a-severe-storm-lashed-the-country-many-media-outlets-compared-it-to.md)
-_Context: 1998 Auckland power crisis, power outage, Auckland, New Zealand_
+_Context: New Zealand, 1998 Auckland power crisis, power outage, Auckland_
 
 ## [Previous Day...](/news/2006/06/11/index.md)
 

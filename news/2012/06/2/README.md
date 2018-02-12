@@ -9,11 +9,11 @@ _Context: Tripoli, Lebanon, Lebanese, Bashar al-Assad_
 
 ##### Drones launch
 ### [A drone attack conducted by the United States kills two suspected militants outside their hideout in South Waziristan in northwestern Pakistan. ](/news/2012/06/2/a-drone-attack-conducted-by-the-united-states-kills-two-suspected-militants-outside-their-hideout-in-south-waziristan-in-northwestern-pakist.md)
-_Context: South Waziristan, American, Pakistan, drones launch_
+_Context: South Waziristan, American, drones launch, Pakistan_
 
 ##### Taliban
 ### [Four aid workers kidnapped by Taliban insurgents in the northern Afghan province of Badakhshan on May 22 are rescued by ISAF forces. ](/news/2012/06/2/four-aid-workers-kidnapped-by-taliban-insurgents-in-the-northern-afghan-province-of-badakhshan-on-may-22-are-rescued-by-isaf-forces.md)
-_Context: Taliban, Afghan, Badakhshan, ISAF_
+_Context: Afghan, Taliban, Badakhshan, ISAF_
 
 ##### Allied Air
 ### [An Allied Air cargo plane crashes into a minibus after overshooting the runway at Accra's Kotoka International Airport in Ghana killing at least twelve people. ](/news/2012/06/2/an-allied-air-cargo-plane-crashes-into-a-minibus-after-overshooting-the-runway-at-accra-s-kotoka-international-airport-in-ghana-killing-at-l.md)
@@ -21,11 +21,11 @@ A cargo jet has crash into a minibus at Ghana&#039;s Accra airport after oversho
 
 ##### Cairo, Egypt
 ### [A court in Cairo, Egypt, finds former president Hosni Mubarak and former interior minister Habib al-Adly guilty for complicity in the killings of demonstrators in the 2011 revolution that ousted Mubarak and both are sentenced to life in prison. Mubarak and his two sons, Gamal and Alaa, are all acquitted on separate corruption charges. ](/news/2012/06/2/a-court-in-cairo-egypt-finds-former-president-hosni-mubarak-and-former-interior-minister-habib-al-adly-guilty-for-complicity-in-the-killin.md)
-_Context: Habib al-Adly, 2011 Egyptian revolution, Hosni Mubarak, Gamel, Cairo, Egypt, Alaa Mubarak_
+_Context: Habib al-Adly, 2011 Egyptian revolution, Cairo, Egypt, Gamel, Alaa Mubarak, Hosni Mubarak_
 
 ##### Shooting
 ### [A shooting in the food court of the Eaton Centre mall in Toronto, Canada kills at least one man and injures seven other people. ](/news/2012/06/2/a-shooting-in-the-food-court-of-the-eaton-centre-mall-in-toronto-canada-kills-at-least-one-man-and-injures-seven-other-people.md)
-_Context: shooting, Toronto, Eaton Centre, Canadian_
+_Context: Eaton Centre, Canadian, shooting, Toronto_
 
 ## [Previous Day...](/news/2012/06/1/index.md)
 

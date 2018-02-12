@@ -25,11 +25,11 @@ Actor Jackie Chan, famed for his daring stunts, confirms he will be steering awa
 
 ##### Tamweel Tower
 ### [A fire breaks out at a residential highrise, the Tamweel Tower in the Jumeirah Lake Towers, Dubai, UAE. ](/news/2012/11/18/a-fire-breaks-out-at-a-residential-highrise-the-tamweel-tower-in-the-jumeirah-lake-towers-dubai-uae.md)
-_Context: UAE, Jumeirah Lake Towers, Dubai, Tamweel Tower_
+_Context: Tamweel Tower, Jumeirah Lake Towers, Dubai, UAE_
 
 ##### ASEAN
 ### [ASEAN leaders sign a controversial human rights declaration. ](/news/2012/11/18/asean-leaders-sign-a-controversial-human-rights-declaration.md)
-_Context: human rights, ASEAN_
+_Context: ASEAN, human rights_
 
 ##### Same-sex marriage
 ### [Clashes take place at an anti-gay marriage protest in Paris, France. ](/news/2012/11/18/clashes-take-place-at-an-anti-gay-marriage-protest-in-paris-france.md)

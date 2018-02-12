@@ -17,7 +17,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Great Internet Mersenne Prime Search
 ### [ The Great Internet Mersenne Prime Search (GIMPS) discovers the 44th Mersenne prime. It was verified on September 11. ](/news/2006/09/4/the-great-internet-mersenne-prime-search-gimps-discovers-the-44th-mersenne-prime-it-was-verified-on-september-11.md)
-_Context: Mersenne prime, Great Internet Mersenne Prime Search_
+_Context: Great Internet Mersenne Prime Search, Mersenne prime_
 
 ## [Previous Day...](/news/2006/09/3/index.md)
 

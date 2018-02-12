@@ -5,11 +5,11 @@ Formats: [HTML](2010/10/14/index.html)  [JSON](2010/10/14/index.json)  [XML](201
 
 ##### ISAF
 ### [Eight ISAF NATO soldiers are killed in multiple attacks in Afghanistan, including four in roadside bombings. ](/news/2010/10/14/eight-isaf-nato-soldiers-are-killed-in-multiple-attacks-in-afghanistan-including-four-in-roadside-bombings.md)
-_Context: Afghanistan, IED, ISAF, NATO_
+_Context: NATO, ISAF, IED, Afghanistan_
 
 ##### Iraq
 ### [Six people, including an Iraqi Interior Ministry official and four members of a leading political bloc, die in multiple explosions throughout Baghdad apparently targeting members of former prime Minister Ayad Allawi's al-Iraqiya political coalition; four were killed in a roadside bomb and three others were wounded. ](/news/2010/10/14/six-people-including-an-iraqi-interior-ministry-official-and-four-members-of-a-leading-political-bloc-die-in-multiple-explosions-throughou.md)
-_Context: Ayad Allawi, Iraq, Baghdad, Iraqi National Movement_
+_Context: Baghdad, Ayad Allawi, Iraqi National Movement, Iraq_
 
 ##### American
 ### [The shortlist for the United States National Book Award is announced. ](/news/2010/10/14/the-shortlist-for-the-united-states-national-book-award-is-announced.md)
@@ -25,15 +25,15 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 
 ##### UN peace messenger
 ### [American actor and UN peace messenger, George Clooney, calls for the freezing of assets held by Sudan's President Omar al-Bashir, who is wanted by the International Criminal Court for war crimes in Darfur, as a good way of putting pressure on the Sudanese government ](/news/2010/10/14/american-actor-and-un-peace-messenger-george-clooney-calls-for-the-freezing-of-assets-held-by-sudan-s-president-omar-al-bashir-who-is-wan.md)
-_Context: George Clooney, UN peace messenger, Omar al-Bashir, conflict_
+_Context: UN peace messenger, Omar al-Bashir, George Clooney, conflict_
 
 ##### Benjamin Netanyahu
 ### [Israeli Prime Minister Benjamin Netanyahu says that Lebanon is becoming a "satellite" of Iran after it hosts a controversial visit by Iranian President Mahmoud Ahmadinejad, who again "predicts" Israel's destruction at a Hezbollah rally in southern Lebanon. ](/news/2010/10/14/israeli-prime-minister-benjamin-netanyahu-says-that-lebanon-is-becoming-a-satellite-of-iran-after-it-hosts-a-controversial-visit-by-irania.md)
-_Context: Mahmoud Ahmadinejad, Iran, Hezbollah, Iranian President, Lebanese, Benjamin Netanyahu_
+_Context: Iranian President, Hezbollah, Iran, Lebanese, Benjamin Netanyahu, Mahmoud Ahmadinejad_
 
 ##### Cyprus
 ### [A new border gate opens on the divided island of Cyprus, providing a seventh crossing point between the Turkish-controlled TRNC and the southern part of the country. ](/news/2010/10/14/a-new-border-gate-opens-on-the-divided-island-of-cyprus-providing-a-seventh-crossing-point-between-the-turkish-controlled-trnc-and-the-sout.md)
-_Context: TRNC, Cyprus_
+_Context: Cyprus, TRNC_
 
 ##### Turkey
 ### [Turkish lawyers file a complaint against Israel over the Gaza flotilla raid in the International Criminal Court. ](/news/2010/10/14/turkish-lawyers-file-a-complaint-against-israel-over-the-gaza-flotilla-raid-in-the-international-criminal-court.md)
@@ -41,15 +41,15 @@ Complaint filed with International Criminal Court accuses Israel of war crimes i
 
 ##### Afghanistan
 ### [At least seven Afghan border guards are detained by Iran after crossing their mutual border. ](/news/2010/10/14/at-least-seven-afghan-border-guards-are-detained-by-iran-after-crossing-their-mutual-border.md)
-_Context: Iran, Afghanistan_
+_Context: Afghanistan, Iran_
 
 ##### Prime Minister of Japan
 ### [The Prime Minister of Japan Naoto Kan calls on China to release Nobel Peace Prize winner Liu Xiaobo. ](/news/2010/10/14/the-prime-minister-of-japan-naoto-kan-calls-on-china-to-release-nobel-peace-prize-winner-liu-xiaobo.md)
-_Context: Nobel Peace Prize, Naoto Kan, Prime Minister of Japan, China, Liu Xiaobo_
+_Context: Liu Xiaobo, China, Nobel Peace Prize, Naoto Kan, Prime Minister of Japan_
 
 ##### Stephen Harper
 ### [Canada's PM Stephen Harper and Lan Lijun, China's Ambassador to Canada, take part in a ceremony to mark the 40th anniversary of Sino-Canadian relations. ](/news/2010/10/14/canada-s-pm-stephen-harper-and-lan-lijun-china-s-ambassador-to-canada-take-part-in-a-ceremony-to-mark-the-40th-anniversary-of-sino-canadia.md)
-_Context: Sino-Canadian relations, Lan Lijun, Stephen Harper_
+_Context: Sino-Canadian relations, Stephen Harper, Lan Lijun_
 
 ##### Islamic Sharia Council
 ### [President of the Islamic Sharia Council in the United Kingdom, Sheikh Maulana Abu Sayeed, stirs controversy in Britain by claiming that it is impossible for men to rape their wives and that husbands who commit such acts should not be prosecuted.](/news/2010/10/14/president-of-the-islamic-sharia-council-in-the-united-kingdom-sheikh-maulana-abu-sayeed-stirs-controversy-in-britain-by-claiming-that-it-i.md)
@@ -77,7 +77,7 @@ Sharif Ahmed names Mohamed Abdullahi Mohamed as new prime minister of the transi
 
 ##### Anton Abele
 ### [18-year-old Anton Abele becomes Sweden's youngest ever MP; he is a member of the ruling Moderate Party. ](/news/2010/10/14/18-year-old-anton-abele-becomes-sweden-s-youngest-ever-mp-he-is-a-member-of-the-ruling-moderate-party.md)
-_Context: Anton Abele, Moderate Party, Sweden_
+_Context: Moderate Party, Sweden, Anton Abele_
 
 ##### Burma
 ### [Burmese pro-democracy leader Aung San Suu Kyi announces that she will boycott next month's general election. ](/news/2010/10/14/burmese-pro-democracy-leader-aung-san-suu-kyi-announces-that-she-will-boycott-next-month-s-general-election.md)
@@ -85,7 +85,7 @@ Burmese pro-democracy leader Aung San Suu Kyi will boycott the country&#039;s ge
 
 ##### Obama administration
 ### [The Obama administration asks United States District Court for the Central District of California judge Virginia A. Phillips to stay her ruling in Log Cabin Republicans v. United States of America that the Don't Ask, Don't Tell policy is unconstitutional while it appeals the decision. ](/news/2010/10/14/the-obama-administration-asks-united-states-district-court-for-the-central-district-of-california-judge-virginia-a-phillips-to-stay-her-rul.md)
-_Context: judge, Obama administration, Log Cabin Republicans v. United States of America, Virginia A. Phillips, Don't Ask, Don't Tell, U.S. District Judge of California_
+_Context: Log Cabin Republicans v. United States of America, Don't Ask, Don't Tell, Virginia A. Phillips, judge, U.S. District Judge of California, Obama administration_
 
 ##### President
 ### [The President of Peru Alan Garcia denies claims that he slapped a man who called him corrupt when he visited a Lima hospital last weekend. ](/news/2010/10/14/the-president-of-peru-alan-garcia-denies-claims-that-he-slapped-a-man-who-called-him-corrupt-when-he-visited-a-lima-hospital-last-weekend.md)

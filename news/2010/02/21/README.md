@@ -17,11 +17,11 @@ _Context: China, Chinese Ministry of Commerce, Foreign investment_
 
 ##### King Mohammed
 ### [King Mohammed of Morocco requests structural examinations of all the country's old mosques after a minaret collapse kills 41 people. ](/news/2010/02/21/king-mohammed-of-morocco-requests-structural-examinations-of-all-the-country-s-old-mosques-after-a-minaret-collapse-kills-41-people.md)
-_Context: King Mohammed, Morocco, a minaret collapse_
+_Context: a minaret collapse, King Mohammed, Morocco_
 
 ##### Japan
 ### [Japanese Foreign Minister Katsuya Okada dismisses Australia's threat to take the country to the International Court of Justice over Japan's whaling in the Antarctic. ](/news/2010/02/21/japanese-foreign-minister-katsuya-okada-dismisses-australia-s-threat-to-take-the-country-to-the-international-court-of-justice-over-japan-s.md)
-_Context: Australia, Japan, whaling, International Court of Justice, Katsuya Okada, Antarctic, Foreign Minister_
+_Context: Australia, Antarctic, Katsuya Okada, Foreign Minister, International Court of Justice, whaling, Japan_
 
 ##### Prime Minister
 ### [Prime Minister of the Netherlands Jan Peter Balkenende says the country will begin pulling out of Afghanistan in August and be gone by the end of the year following the collapse of Balkenende-4 over the issue. ](/news/2010/02/21/prime-minister-of-the-netherlands-jan-peter-balkenende-says-the-country-will-begin-pulling-out-of-afghanistan-in-august-and-be-gone-by-the-e.md)

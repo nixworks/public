@@ -25,7 +25,7 @@ The helicopter had just picked up an injured skier from a resort in central Ital
 
 ##### Kennel
 ### [ Fire destroys a kennel in Wasilla, Alaska, killing 46 Labrador Retrievers. Thirty-two other dogs survive the fire in the licensed shelter. ](/news/2017/01/24/fire-destroys-a-kennel-in-wasilla-alaska-killing-46-labrador-retrievers-thirty-two-other-dogs-survive-the-fire-in-the-licensed-shelter.md)
-_Context: Wasilla, Alaska, kennel, Labrador Retriever_
+_Context: kennel, Wasilla, Alaska, Labrador Retriever_
 
 ##### Police
 ### [Police discover US$20 million in a bed frame under a mattress at a Massachusetts home. The cash is believed to be linked to Telexfree, a pyramid scheme disguised as a company that claimed to provide internet phone services. A Brazilian man that police were following was charged in connection to the money. ](/news/2017/01/24/police-discover-us-20-million-in-a-bed-frame-under-a-mattress-at-a-massachusetts-home-the-cash-is-believed-to-be-linked-to-telexfree-a-pyr.md)
@@ -53,7 +53,7 @@ New deputy leader had previously vowed to prosecute ex-ruler Yahya Jammeh for al
 
 ##### Presidency of Donald Trump
 ### [U.S. President Donald Trump signs documents approving the construction of both the Keystone XL and Dakota Access Pipelines. ](/news/2017/01/24/u-s-president-donald-trump-signs-documents-approving-the-construction-of-both-the-keystone-xl-and-dakota-access-pipelines.md)
-_Context: Presidency of Donald Trump, Donald Trump, Dakota Access Pipeline, Keystone XL, U.S. President_
+_Context: Keystone XL, Dakota Access Pipeline, Donald Trump, Presidency of Donald Trump, U.S. President_
 
 ## [Previous Day...](/news/2017/01/23/index.md)
 

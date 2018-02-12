@@ -9,11 +9,11 @@ _Context: Chen Shui-Bian_
 
 ##### Quinceanera
 ### [ Gunmen massacre 14 people at a quinceanera celebration in Creel, Chihuahua, Mexico. ](/news/2008/08/17/gunmen-massacre-14-people-at-a-quinceaa-era-celebration-in-creel-chihuahua-mexico.md)
-_Context: quinceanera, Creel, Chihuahua, Mexican_
+_Context: Creel, Chihuahua, quinceanera, Mexican_
 
 ##### Tropical Storm Fay
 ### [ Tropical Storm Fay kills at least 4 people in Haiti and the Dominican Republic before heading for the Florida Keys where tourists are being evacuated. ](/news/2008/08/17/tropical-storm-fay-kills-at-least-4-people-in-haiti-and-the-dominican-republic-before-heading-for-the-florida-keys-where-tourists-are-being.md)
-_Context: Florida Keys, Haiti, Tropical Storm Fay, Dominican Republic_
+_Context: Dominican Republic, Haiti, Tropical Storm Fay, Florida Keys_
 
 ##### Afghan National Army
 ### [ The Afghan National Army kills 28 Taliban insurgents as the militants attempt an ambush of a convoy in Zabul province. ](/news/2008/08/17/the-afghan-national-army-kills-28-taliban-insurgents-as-the-militants-attempt-an-ambush-of-a-convoy-in-zabul-province.md)

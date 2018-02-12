@@ -5,7 +5,7 @@ Formats: [HTML](2009/11/13/index.html)  [JSON](2009/11/13/index.json)  [XML](200
 
 ##### Philippines
 ### [ Philippines President Gloria Arroyo signs a law banning torture, making it a criminal offence punishable by up to 30 years imprisonment. ](/news/2009/11/13/philippines-president-gloria-arroyo-signs-a-law-banning-torture-making-it-a-criminal-offence-punishable-by-up-to-30-years-imprisonment.md)
-_Context: Philippines, President, torture, Gloria Arroyo_
+_Context: torture, Gloria Arroyo, Philippines, President_
 
 ##### Turkey
 ### [ The Turkish government unveils a plan to improve rights of the Kurdish minority to end the decades long ethnic conflict in the southeast of the country. ](/news/2009/11/13/the-turkish-government-unveils-a-plan-to-improve-rights-of-the-kurdish-minority-to-end-the-decades-long-ethnic-conflict-in-the-southeast-of.md)
@@ -21,7 +21,7 @@ Microsoft has acknowledged that it incorporated open-source code into a Windows 
 
 ##### American
 ### [ American politician William J. Jefferson, former Democratic Party Congressman from the U.S. state of Louisiana, is sentenced to 13 years in prison for corruption. ](/news/2009/11/13/american-politician-william-j-jefferson-former-democratic-party-congressman-from-the-u-s-state-of-louisiana-is-sentenced-to-13-years-in.md)
-_Context: U.S. state, lawmakers, American, Democrat, William J. Jefferson, Louisiana_
+_Context: Democrat, Louisiana, William J. Jefferson, lawmakers, American, U.S. state_
 
 ##### NASA
 ### [ NASA claims to have discovered water after the LCROSS satellite crashes near the South Pole of the Moon. ](/news/2009/11/13/nasa-claims-to-have-discovered-water-after-the-lcross-satellite-crashes-near-the-south-pole-of-the-moon.md)
@@ -29,7 +29,7 @@ The discovery, which came out of a mission a month ago, confirmed scientists’ 
 
 ##### South Africa
 ### [ South African President Jacob Zuma says the police do not have a "licence to kill" after recent incidents of innocent people being killed by police. ](/news/2009/11/13/south-african-president-jacob-zuma-says-the-police-do-not-have-a-licence-to-kill-after-recent-incidents-of-innocent-people-being-killed-b.md)
-_Context: Jacob Zuma, South Africa, President_
+_Context: South Africa, President, Jacob Zuma_
 
 ##### Previous explosion at the same site
 ### [ Two people are killed and 43 rescued from a bomb shelter in a fire that triggered multiple explosions at an arms depot near Ulyanovsk, western Russia. ](/news/2009/11/13/two-people-are-killed-and-43-rescued-from-a-bomb-shelter-in-a-fire-that-triggered-multiple-explosions-at-an-arms-depot-near-ulyanovsk-west.md)
@@ -53,7 +53,7 @@ _Context: snow, China_
 
 ##### Czech Republic
 ### [ Czech Prime minister Jan Fischer deposits the Treaty of Lisbon ratification instrument at the Italian foreign ministry in Rome. ](/news/2009/11/13/czech-prime-minister-jan-fischer-deposits-the-treaty-of-lisbon-ratification-instrument-at-the-italian-foreign-ministry-in-rome.md)
-_Context: deposits, Jan Fischer, Czech Republic, Rome, Italy, Treaty of Lisbon, Italy_
+_Context: Italy, deposits, Czech Republic, Treaty of Lisbon, Rome, Italy, Jan Fischer_
 
 ##### Maoist supporters
 ### [ Tens of thousands of Maoist supporters in Nepal block the headquarters for the Nepali government for a second day. ](/news/2009/11/13/tens-of-thousands-of-maoist-supporters-in-nepal-block-the-headquarters-for-the-nepali-government-for-a-second-day.md)
@@ -65,7 +65,7 @@ _Context: Gareth Jones, famine in Ukraine in 1932-1933_
 
 ##### Peshawar
 ### [ A bomb hits the Peshawar office of Pakistan's Inter-Services Intelligence agency with at least seven people dead and 35 injured. ](/news/2009/11/13/a-bomb-hits-the-peshawar-office-of-pakistan-s-inter-services-intelligence-agency-with-at-least-seven-people-dead-and-35-injured.md)
-_Context: Peshawar, Pakistan, Inter-Services Intelligence_
+_Context: Inter-Services Intelligence, Peshawar, Pakistan_
 
 ##### Jersey
 ### [ Jersey's Chief Minister Terry Le Sueur hosts the 13th summit of the British-Irish Council. ](/news/2009/11/13/jersey-s-chief-minister-terry-le-sueur-hosts-the-13th-summit-of-the-britishairish-council.md)
@@ -73,11 +73,11 @@ Taoiseach Brian Cowen is to attend the 13th British-Irish Council Summit today i
 
 ##### Japan Coast Guard
 ### [ The Japan Coast Guard evacuates 28 passengers and crew from the "Ariake" commercial ferry after it rolls over onto its side in rough seas off Mie Prefecture in the Pacific Ocean. ](/news/2009/11/13/the-japan-coast-guard-evacuates-28-passengers-and-crew-from-the-ariake-commercial-ferry-after-it-rolls-over-onto-its-side-in-rough-seas-o.md)
-_Context: South Pacific Ocean, Mie Prefecture, Ariake, Japan Coast Guard_
+_Context: Mie Prefecture, South Pacific Ocean, Japan Coast Guard, Ariake_
 
 ##### Kosovo
 ### [ Kosovo prepares for historic elections after a flare-up earlier this week targeted Prime Minister Hashim Thaci in the western town of Decan. ](/news/2009/11/13/kosovo-prepares-for-historic-elections-after-a-flare-up-earlier-this-week-targeted-prime-minister-hashim-thaci-in-the-western-town-of-deassa.md)
-_Context: Hashim Thaci, Kosovo, Decan_
+_Context: Decan, Hashim Thaci, Kosovo_
 
 ##### Clint Eastwood
 ### [ Actor and film director Clint Eastwood is made a commander of the Legion d'honneur. ](/news/2009/11/13/actor-and-film-director-clint-eastwood-is-made-a-commander-of-the-la-c-gion-d-honneur.md)

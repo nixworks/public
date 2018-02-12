@@ -9,7 +9,7 @@ Six French soldiers have been injured after a car slammed into them before speed
 
 ##### Atlantic hurricanes
 ### [Hurricane Franklin, the Atlantic Ocean's first hurricane of the season, is set to hit Mexico's Gulf state of Veracruz tonight or tomorrow morning. The category 1 storm is expected to lose strength as it moves inland through the oil-producing state. ](/news/2017/08/9/hurricane-franklin-the-atlantic-ocean-s-first-hurricane-of-the-season-is-set-to-hit-mexico-s-gulf-state-of-veracruz-tonight-or-tomorrow-mo.md)
-_Context: Hurricane Franklin, Veracruz, Atlantic hurricanes, Gulf of Mexico, Atlantic Ocean, Mexican_
+_Context: Veracruz, Hurricane Franklin, Atlantic Ocean, Gulf of Mexico, Atlantic hurricanes, Mexican_
 
 ##### Cuba-United States relations
 ### [Two Cuban diplomats are expelled from the Embassy of Cuba in Washington, D.C., after an incident in Havana forced U.S. officials to return home. ](/news/2017/08/9/two-cuban-diplomats-are-expelled-from-the-embassy-of-cuba-in-washington-d-c-after-an-incident-in-havana-forced-u-s-officials-to-return-h.md)
@@ -33,7 +33,7 @@ The lawsuit was filed by two rights groups, but others say they are holding off 
 
 ##### GT road rally
 ### [Former Prime Minister of Pakistan Nawaz Sharif goes home after his disqualification by the Supreme Court in the Panama Papers case. ](/news/2017/08/9/former-prime-minister-of-pakistan-nawaz-sharif-goes-home-after-his-disqualification-by-the-supreme-court-in-the-panama-papers-case.md)
-_Context: Nawaz Sharif, GT road rally, Prime Minister, Supreme Court, Panama Papers case_
+_Context: GT road rally, Prime Minister, Nawaz Sharif, Supreme Court, Panama Papers case_
 
 ##### Regions of the Philippines
 ### [President of the Philippines Rodrigo Duterte abolishes the Negros Island Region (first created in 2015 by his predecessor) through Executive Order no. 38, citing lack of funds to fully establish the region. Negros Occidental reverts back to the Western Visayas region, Negros Oriental back to the Central Visayas region. ](/news/2017/08/9/president-of-the-philippines-rodrigo-duterte-abolishes-the-negros-island-region-first-created-in-2015-by-his-predecessor-through-executive.md)

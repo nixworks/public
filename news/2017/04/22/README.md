@@ -5,7 +5,7 @@ Formats: [HTML](2017/04/22/index.html)  [JSON](2017/04/22/index.json)  [XML](201
 
 ##### Pope Francis
 ### [Pope Francis, while honoring Christians killed under Nazism, communism, dictatorships, and terrorism at Rome's Basilica of St. Bartholomew, adds to those named the wife of a Muslim he met in Lesbos, Greece, who was killed by terrorists because she wouldn't throw down her crucifix. Francis referred to the Lesbos camp as a 'concentration camp' noting, despite the good will of local communities, many refugee camps are overcrowded and little more than prisons. ](/news/2017/04/22/pope-francis-while-honoring-christians-killed-under-nazism-communism-dictatorships-and-terrorism-at-rome-s-basilica-of-st-bartholomew.md)
-_Context: terrorism, communism, refugee camp, Pope Francis, dictator, Christian, Lesbos, Greece, Rome's Basilica of St. Bartholomew, Nazism, Muslim_
+_Context: Pope Francis, refugee camp, Christian, terrorism, Greece, Rome's Basilica of St. Bartholomew, Muslim, dictator, communism, Nazism, Lesbos_
 
 ##### American Airlines
 ### [American Airlines announces it is investigating a viral video of an incident on a San Francisco to Dallas flight which shows a male flight attendant upsetting a female passenger, who he had allegedly forcefully taken a baby buggy from, and threatening to fight a male passenger. The American Airlines employee has been suspended. ](/news/2017/04/22/american-airlines-announces-it-is-investigating-a-viral-video-of-an-incident-on-a-san-francisco-to-dallas-flight-which-shows-a-male-flight-a.md)

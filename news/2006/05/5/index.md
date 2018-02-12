@@ -5,23 +5,23 @@ Formats: [HTML](2006/05/5/index.html)  [JSON](2006/05/5/index.json)  [XML](2006/
 
 ##### China
 ### [ The government of China has made artificial rainfall to wash a layer of sand and dust off Beijing. ](/news/2006/05/5/the-government-of-china-has-made-artificial-rainfall-to-wash-a-layer-of-sand-and-dust-off-beijing.md)
-_Context: Beijing, China, artificial rainfall_
+_Context: artificial rainfall, Beijing, China_
 
 ##### China
 ### [ The Agriculture Ministry of China confirmed another outbreak of bird flu in Qinghai Province, killing more than 120 birds. ](/news/2006/05/5/the-agriculture-ministry-of-china-confirmed-another-outbreak-of-bird-flu-in-qinghai-province-killing-more-than-120-birds.md)
-_Context: Avian flu virus, China, Qinghai Province_
+_Context: Qinghai Province, Avian flu virus, China_
 
 ##### Sudan
 ### [ The government of Sudan signs an accord with the main Darfur rebel group, the Alliance of Revolutionary Forces of West Sudan, reached through mediation in Abuja, Nigeria. ](/news/2006/05/5/the-government-of-sudan-signs-an-accord-with-the-main-darfur-rebel-group-the-alliance-of-revolutionary-forces-of-west-sudan-reached-throu.md)
-_Context: Darfur conflict, Sudan, Nigeria, Alliance of Revolutionary Forces of West Sudan, Abuja_
+_Context: Sudan, Nigeria, Alliance of Revolutionary Forces of West Sudan, Abuja, Darfur conflict_
 
 ##### Porter Goss
 ### [ Porter Goss resigns as director of the U.S. Central Intelligence Agency (CIA). ](/news/2006/05/5/porter-goss-resigns-as-director-of-the-u-s-central-intelligence-agency-cia.md)
-_Context: Central Intelligence Agency, American, Porter Goss, Director of the CIA_
+_Context: American, Porter Goss, Director of the CIA, CIA_
 
 ##### Labour Party
 ### [ Following significant Labour Party losses in the English local elections, British Prime Minister Tony Blair announces the largest Cabinet reshuffle of his tenure. The changes include sacking embattled Home Secretary Charles Clarke, the demotion of long-serving Foreign Secretary Jack Straw, and the stripping from Deputy Prime Minister John Prescott of his departmental portfolio. ](/news/2006/05/5/following-significant-labour-party-losses-in-the-english-local-elections-british-prime-minister-tony-blair-announces-the-largest-cabinet-r.md)
-_Context: Home Secretary, reshuffle, John Prescott, Tony Blair, English local elections, Charles Clarke, Prime Minister, Foreign Secretary, United Kingdom, Jack Straw, Labour Party, U.K. Cabinet, changes_
+_Context: John Prescott, U.K. Cabinet, Prime Minister, Foreign Secretary, Jack Straw, Tony Blair, changes, reshuffle, English local elections, Charles Clarke, Labour Party, United Kingdom, Home Secretary_
 
 ## [Previous Day...](/news/2006/05/4/index.md)
 

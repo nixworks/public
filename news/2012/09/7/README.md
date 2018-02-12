@@ -9,7 +9,7 @@ A motorcycle bomb exploded as worshippers left a mosque after Friday prayers in 
 
 ##### Al-Shabaab
 ### [Iranian sources citing Ash-Shabaab say a U.S. drone attack killed eight people in Kismayo, south Somalia. ](/news/2012/09/7/iranian-sources-citing-ash-shabaab-say-a-u-s-drone-attack-killed-eight-people-in-kismayo-south-somalia.md)
-_Context: drone attack, Kismayo, American, killed, Somalia, Al-Shabaab_
+_Context: drone attack, Somalia, Kismayo, Al-Shabaab, American, killed_
 
 ##### Chile
 ### [Humanitarian groups express concern over Chile's army head, involved in controversy over a directive instructing military recruiters not to admit homosexuals. ](/news/2012/09/7/humanitarian-groups-express-concern-over-chile-s-army-head-involved-in-controversy-over-a-directive-instructing-military-recruiters-not-to.md)
@@ -21,11 +21,11 @@ News Ltd has lowered its offer for Pay-TV operator Consolidated Media to $1.94 b
 
 ##### Reserve Bank of India
 ### [The Reserve Bank of India permits Indian investments to and from Pakistan. India's minister of external affairs SM Krishna arrives in Pakistan for a meeting on Saturday in Islamabad with his Pakistani counterpart Hina Rabbani Khar. ](/news/2012/09/7/the-reserve-bank-of-india-permits-indian-investments-to-and-from-pakistan-india-s-minister-of-external-affairs-sm-krishna-arrives-in-pakist.md)
-_Context: SM Krishna, Reserve Bank of India, foreign ministry, Pakistan, minister of external affairs, Hina Rabbani Khar, Islamabad, India_
+_Context: Hina Rabbani Khar, Islamabad, minister of external affairs, Pakistan, Reserve Bank of India, SM Krishna, foreign ministry, India_
 
 ##### Cipla
 ### [Cipla does not infringe a valid Roche patent on erlotinib (trade name "Tarceva") for the production of its generic cancer drug Erlocip, says the Delhi High Court. ](/news/2012/09/7/cipla-does-not-infringe-a-valid-roche-patent-on-erlotinib-trade-name-tarceva-for-the-production-of-its-generic-cancer-drug-erlocip-says.md)
-_Context: Cipla, Hoffmann-La Roche, erlotinib, Delhi High Court_
+_Context: Hoffmann-La Roche, Cipla, Delhi High Court, erlotinib_
 
 ##### A series of earthquakes
 ### [A series of earthquakes hits south-west China, leaving at least 64 people dead and 715 injured. ](/news/2012/09/7/a-series-of-earthquakes-hits-south-west-china-leaving-at-least-64-people-dead-and-715-injured.md)
@@ -33,7 +33,7 @@ A series of earthquakes hit south-west China, leaving at least 64 people dead an
 
 ##### Secretary of State
 ### [U.S. Secretary of State Clinton notifies Congress of her intent to include the Haqqani network on the government's terror list. An attache at the Embassy of Pakistan in Washington dismisses the decision as an "internal matter" of the United States and reaffirms Pakistan's commitment to "combating extremism and terrorism." Haqqani senior commanders say the decision will not help in bringing peace to Afghanistan. ](/news/2012/09/7/u-s-secretary-of-state-clinton-notifies-congress-of-her-intent-to-include-the-haqqani-network-on-the-government-s-terror-list-an-attacha-c.md)
-_Context: War in Afghanistan (2001-present), Secretary of State, lawmakers, Hillary Clinton, Afghanistan, Haqqani network, terror list_
+_Context: Afghanistan, Hillary Clinton, lawmakers, Haqqani network, terror list, War in Afghanistan (2001-present), Secretary of State_
 
 ##### Canadian
 ### [Canada closes its embassy in Iran and orders all Iranian diplomatic staff out of Canada, citing Iran's support for Syrian President Bashar al-Assad, Iran's "among the worst" human rights record, its lack of respect for the Vienna conventions, its nuclear program and the security of Canadian diplomatic personnel. It sees Iran as the world's "most significant threat to global peace and security." Minister of foreign affairs Baird says the Canadian government files Iran as a "state sponsor of terrorism" under the Canadian ](/news/2012/09/7/canada-closes-its-embassy-in-iran-and-orders-all-iranian-diplomatic-staff-out-of-canada-citing-iran-s-support-for-syrian-president-bashar-a.md)
@@ -49,7 +49,7 @@ Read the latest World and International news headlines from Sky News Australia. 
 
 ##### Pakistan
 ### [Pakistan orders foreign nationals working for the Save the Children NGO to leave the country within four weeks. The Pakistani government has accused the organization of being linked to the fake vaccination program used in the hunt for Osama bin Laden. The charity and the U.S. government deny any links. ](/news/2012/09/7/pakistan-orders-foreign-nationals-working-for-the-save-the-children-ngo-to-leave-the-country-within-four-weeks-the-pakistani-government-has.md)
-_Context: Pakistan, NGO, Dr. Shakil Afridi, Osama bin Laden, U.S. government, Save the Children, hunt_
+_Context: hunt, Pakistan, Dr. Shakil Afridi, NGO, Osama bin Laden, U.S. government, Save the Children_
 
 ##### Russky Island
 ### [Economic leaders assemble on Russky Island, off the coast of Vladivostok, Russia, for the forum's 24th summit on September 8th and 9th. ](/news/2012/09/7/economic-leaders-assemble-on-russky-island-off-the-coast-of-vladivostok-russia-for-the-forum-s-24th-summit-on-september-8th-and-9th.md)
@@ -65,7 +65,7 @@ _Context: English Premier League_
 
 ##### Iran
 ### [The Iranian ministry of interior sets 14 June 2013 as the date of the next presidential election, for a successor of current president, Mahmoud Ahmadinejad. For the first time, this election is to be held on the same date as the next municipal elections. ](/news/2012/09/7/the-iranian-ministry-of-interior-sets-14-june-2013-as-the-date-of-the-next-presidential-election-for-a-successor-of-current-president-mahm.md)
-_Context: President, Mahmoud Ahmadinejad, presidential, Iran, Elections in Iran, ministry of interior, next municipal elections_
+_Context: President, presidential, Mahmoud Ahmadinejad, ministry of interior, next municipal elections, Elections in Iran, Iran_
 
 ## [Previous Day...](/news/2012/09/6/index.md)
 

@@ -17,15 +17,15 @@ _Context: Iranian opposition_
 
 ##### Philippine government
 ### [The Government of the Philippines and Communist Party of the Philippines hold their first peace talks in six years in Oslo, Norway. ](/news/2011/02/15/the-government-of-the-philippines-and-communist-party-of-the-philippines-hold-their-first-peace-talks-in-six-years-in-oslo-norway.md)
-_Context: Norway, Oslo, Communist, Philippine government_
+_Context: Philippine government, Oslo, Norway, Communist_
 
 ##### Prime Minister of Japan
 ### [The Prime Minister of Japan Naoto Kan vows to find the remains of the 12,000 Japanese soldiers still missing after the Battle of Iwo Jima of World War II. ](/news/2011/02/15/the-prime-minister-of-japan-naoto-kan-vows-to-find-the-remains-of-the-12-000-japanese-soldiers-still-missing-after-the-battle-of-iwo-jima-of.md)
-_Context: Imperial Japanese Army, Battle of Iwo Jima, Prime Minister of Japan, World War II, Naoto Kan_
+_Context: World War II, Prime Minister of Japan, Imperial Japanese Army, Naoto Kan, Battle of Iwo Jima_
 
 ##### Raymond Chandler
 ### [Writer Raymond Chandler's wife's ashes are buried over his casket during a ceremony in San Diego in the U.S. state of California. ](/news/2011/02/15/writer-raymond-chandler-s-wife-s-ashes-are-buried-over-his-casket-during-a-ceremony-in-san-diego-in-the-u-s-state-of-california.md)
-_Context: San Diego, Raymond Chandler, U.S. state, California_
+_Context: Raymond Chandler, San Diego, California, U.S. state_
 
 ##### China
 ### [The People's Republic of China orders makers of films and television programs to limit the amount of smoking shown on-screen. ](/news/2011/02/15/the-people-s-republic-of-china-orders-makers-of-films-and-television-programs-to-limit-the-amount-of-smoking-shown-on-screen.md)
@@ -33,11 +33,11 @@ _Context: China, smoking_
 
 ##### Mtley Cre
 ### [Mtley Cre singer Vince Neil begins a 15-day jail sentence for drunk driving in Las Vegas. ](/news/2011/02/15/motley-crue-singer-vince-neil-begins-a-15-day-jail-sentence-for-drunk-driving-in-las-vegas.md)
-_Context: drunk driving, Las Vegas, Vince Neil, Mtley Cre_
+_Context: Las Vegas, drunk driving, Vince Neil, Mtley Cre_
 
 ##### Government of Malaysia
 ### [The Government of Malaysia cancels a concert by expatriate Iranian singer Mohsen Namjoo "because it is not appropriate in terms of religion, culture and the country's cosmopolitan nature". ](/news/2011/02/15/the-government-of-malaysia-cancels-a-concert-by-expatriate-iranian-singer-mohsen-namjoo-because-it-is-not-appropriate-in-terms-of-religion.md)
-_Context: Iran, Mohsen Namjoo, Government of Malaysia_
+_Context: Iran, Government of Malaysia, Mohsen Namjoo_
 
 ##### Inflation
 ### [Inflation in the People's Republic of China increases to 4.9 per cent. ](/news/2011/02/15/inflation-in-the-people-s-republic-of-china-increases-to-4-9-per-cent.md)
@@ -45,11 +45,11 @@ Chinese consumer price inflation quickened to 4.9% in the year to January, the N
 
 ##### Apple Inc.
 ### [Apple launches a subscription service for magazines, newspapers, videos, and music bought through its App Store. ](/news/2011/02/15/apple-launches-a-subscription-service-for-magazines-newspapers-videos-and-music-bought-through-its-app-store.md)
-_Context: Apple Inc., App Store_
+_Context: App Store, Apple Inc._
 
 ##### United Airlines
 ### [United Airlines temporarily grounds its fleet of 96 Boeing 757 jetliners so it can perform checks to earlier modifications to air-data computers. ](/news/2011/02/15/united-airlines-temporarily-grounds-its-fleet-of-96-boeing-757-jetliners-so-it-can-perform-checks-to-earlier-modifications-to-air-data-compu.md)
-_Context: Boeing 757, United Airlines_
+_Context: United Airlines, Boeing 757_
 
 ##### Delaware
 ### [The Delaware Chancery Court upholds the use of a poison pill by Airgas, effectively ending a takeover bid launched a year ago by Air Products. ](/news/2011/02/15/the-delaware-chancery-court-upholds-the-use-of-a-poison-pill-by-airgas-effectively-ending-a-takeover-bid-launched-a-year-ago-by-air-product.md)
@@ -65,11 +65,11 @@ The State Department will finance programs to help Internet users around the wor
 
 ##### UNASUR Constitutive Treaty
 ### [The UNASUR Constitutive Treaty of the Union of South American Nations will come into force on March 11th, following the deposit of its ninth instrument of ratification, by the Uruguayan government. ](/news/2011/02/15/the-unasur-constitutive-treaty-of-the-union-of-south-american-nations-will-come-into-force-on-march-11th-following-the-deposit-of-its-ninth.md)
-_Context: Union of South American Nations, Uruguayan government, UNASUR Constitutive Treaty_
+_Context: Union of South American Nations, UNASUR Constitutive Treaty, Uruguayan government_
 
 ##### Islam
 ### [Islamic morality police arrest over 80 Muslims in Malaysia to prevent them from celebrating Valentine's Day. ](/news/2011/02/15/islamic-morality-police-arrest-over-80-muslims-in-malaysia-to-prevent-them-from-celebrating-valentine-s-day.md)
-_Context: Valentine's Day, Malaysia, Muslim, Islam_
+_Context: Valentine's Day, Islam, Muslim, Malaysia_
 
 ##### Italian Prime Minister
 ### [The Prime Minister of Italy Silvio Berlusconi is indicted on charges of paying for sex with an underaged girl and abuse of power in the so-called Rubygate scandal. ](/news/2011/02/15/the-prime-minister-of-italy-silvio-berlusconi-is-indicted-on-charges-of-paying-for-sex-with-an-underaged-girl-and-abuse-of-power-in-the-so-c.md)
@@ -89,15 +89,15 @@ A review of the F.B.I.’s scientific work on the investigation of the anthrax l
 
 ##### U.S. Immigration and Customs Enforcement
 ### [Two U.S. Immigration and Customs Enforcement officers are shot while travelling between Monterrey and Mexico City with one officer dying. ](/news/2011/02/15/two-u-s-immigration-and-customs-enforcement-officers-are-shot-while-travelling-between-monterrey-and-mexico-city-with-one-officer-dying.md)
-_Context: Mexico City, U.S. Immigration and Customs Enforcement, Monterrey_
+_Context: Mexico City, Monterrey, U.S. Immigration and Customs Enforcement_
 
 ##### Palestinian
 ### [A Palestinian teen is released from Israeli custody after the police officer who alledegly beat a confession out of him fails to show up to an inquiry. The teenager was held in Israel for 7 months for allegedly throwing rocks before being released.](/news/2011/02/15/a-palestinian-teen-is-released-from-israeli-custody-after-the-police-officer-who-alledegly-beat-a-confession-out-of-him-fails-to-show-up-to.md)
-_Context: beat a confession, Palestinian, Israel_
+_Context: Palestinian, beat a confession, Israel_
 
 ##### Israel
 ### [The Israeli Knesset has passed a bill making boycotting Israeli individuals or organizations illegal.](/news/2011/02/15/the-israeli-knesset-has-passed-a-bill-making-boycotting-israeli-individuals-or-organizations-illegal.md)
-_Context: parliament in Israel, boycotting Israeli, Israel_
+_Context: boycotting Israeli, parliament in Israel, Israel_
 
 ##### WikiLeaks
 ### [A proposal by a consortium of private contractors to attack WikiLeaks and to discredit journalists in favour of the website - including Glenn Greenwald - is uncovered after thousands of e-mails are leaked onto the internet, some of which call for people who donate to be tracked and intimidated. ](/news/2011/02/15/a-proposal-by-a-consortium-of-private-contractors-to-attack-wikileaks-and-to-discredit-journalists-in-favour-of-the-website-including-glen.md)

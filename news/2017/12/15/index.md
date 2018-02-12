@@ -5,7 +5,7 @@ Formats: [HTML](2017/12/15/index.html)  [JSON](2017/12/15/index.json)  [XML](201
 
 ##### Israeli-Palestinian conflict
 ### [Palestinians and the Israeli army scuffle in Jerusalem, Bethlehem and at the Qalandia border crossing over the status of Jerusalem. Clashes are also reported in Gaza, Ramallah, Hebron and Qalqilya. In conflicts where Israeli law enforcement used live ammunition and Palestinians threw rocks, two Palestinians died in Gaza while 150 were wounded and two more were killed in the West Bank while a further 10 were wounded. ](/news/2017/12/15/palestinians-and-the-israeli-army-scuffle-in-jerusalem-bethlehem-and-at-the-qalandia-border-crossing-over-the-status-of-jerusalem-clashes.md)
-_Context: Ramallah, recognize Jerusalem as Israel's capital, status of Jerusalem, Qalqilya, Israeli-Palestinian conflict, Gaza, Qalandia, West Bank, Jerusalem, Bethlehem, Israeli Army, Palestinians, Hebron_
+_Context: Qalqilya, Bethlehem, Israeli-Palestinian conflict, status of Jerusalem, Gaza, Jerusalem, Hebron, recognize Jerusalem as Israel's capital, West Bank, Israeli Army, Ramallah, Palestinians, Qalandia_
 
 ##### Beate Uhse AG
 ### [Beate Uhse AG, supplier of the "Pabo" erotica catalog, files for bankruptcy in Germany. Only the holding company restructures in order to secure refinancing with the creditors. Beate Uhse-Rotermund opened the first sex shop in 1962, in Flensburg, under the name "Institut fur Ehehygiene" ("Institute for marriage hygiene"). ](/news/2017/12/15/beate-uhse-ag-supplier-of-the-pabo-erotica-catalog-files-for-bankruptcy-in-germany-only-the-holding-company-restructures-in-order-to-se.md)
@@ -13,15 +13,15 @@ Germany-based sex shop chain Beate Uhse AG says its holding company is filing fo
 
 ##### Irish
 ### [In an effort to avert strikes, the Irish low-cost carrier Ryanair reverses its long-standing policy of refusing to recognize pilots' labour unions. ](/news/2017/12/15/in-an-effort-to-avert-strikes-the-irish-low-cost-carrier-ryanair-reverses-its-long-standing-policy-of-refusing-to-recognize-pilots-labour.md)
-_Context: Irish, low-cost carrier, labour unions, Ryanair_
+_Context: low-cost carrier, labour unions, Irish, Ryanair_
 
 ##### 2017 Java earthquake
 ### [A magnitude 6.5 earthquake strikes the island of Java causing massive damage along with two confirmed deaths. ](/news/2017/12/15/a-magnitude-6-5-earthquakea-strikesa-the-island-of-javaa-causing-massive-damage-along-with-two-confirmed-deaths.md)
-_Context: magnitude, earthquake, Java, 2017 Java earthquake_
+_Context: earthquake, Java, 2017 Java earthquake, magnitude_
 
 ##### Child sexual abuse in Australia
 ### [A 17-volume report detailing children's experiences of sexual abuse in Australian institutions is published. It concludes that the issue is systemic and "not a case of a few rotten apples". It contains 189 new recommendations, for a total of 406. This report finalizes a five-year Royal Commission inquiry. ](/news/2017/12/15/a-17-volume-report-detailing-children-s-experiences-of-sexual-abuse-in-australian-institutions-is-published-it-concludes-that-the-issue-is.md)
-_Context: Child sexual abuse in Australia, Australia, Royal Commission_
+_Context: Royal Commission, Child sexual abuse in Australia, Australia_
 
 ##### Drug overdose
 ### [The most recent U.S. government statistics show a marked increase in the yearly number of deaths by drug overdose. The number for end May 2017 is 66,324, up 17% when compared to the previous 12-month period. ](/news/2017/12/15/the-most-recent-u-s-government-statistics-show-a-marked-increase-in-the-yearly-number-of-deaths-by-drug-overdose-the-number-for-end-may-20.md)
@@ -33,7 +33,7 @@ Former Russian economy minister Alexei Ulyukayev was found guilty of soliciting 
 
 ##### Obamacare replacement proposals
 ### [A Federal District Judge for Eastern Pennsylvania temporarily enjoins the Trump administration from implementing new rules that change the Obamacare contraceptive mandate. California, Delaware, Maryland, Massachusetts, New York, Virginia and Washington have also sued the federal government over the rules. ](/news/2017/12/15/a-federal-district-judge-for-eastern-pennsylvania-temporarily-enjoins-the-trump-administration-from-implementing-new-rules-that-change-the-o.md)
-_Context: Eastern Pennsylvania, Washington, New York, California, Delaware, Virginia, Federal District Judge, Obamacare replacement proposals, Massachusetts, Maryland, contraceptive mandate_
+_Context: Virginia, Massachusetts, Washington, California, Obamacare replacement proposals, Eastern Pennsylvania, contraceptive mandate, Maryland, New York, Federal District Judge, Delaware_
 
 ##### Censorship in France
 ### [France's Constitutional Court rejects a bill to make visiting terrorist websites a criminal offence, citing "inviolability of freedom of communication and expression" as a reason. ](/news/2017/12/15/france-s-constitutional-court-rejects-a-bill-to-make-visiting-terrorist-websites-a-criminal-offence-citing-inviolability-of-freedom-of-com.md)
@@ -41,7 +41,7 @@ The issue of counter-terrorist measures is a highly debated topic in France, as 
 
 ##### Brexit
 ### [European Union leaders agree to allow the next phase of Brexit. ](/news/2017/12/15/european-union-leaders-agree-to-allow-the-next-phase-of-brexit.md)
-_Context: Brexit, next phase of Brexit, European Union_
+_Context: next phase of Brexit, European Union, Brexit_
 
 ## [Previous Day...](/news/2017/12/14/index.md)
 

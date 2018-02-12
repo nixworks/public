@@ -5,11 +5,11 @@ Formats: [HTML](2009/07/11/index.html)  [JSON](2009/07/11/index.json)  [XML](200
 
 ##### President
 ### [ The President of Peru Alan Garca names Javier Velsquez as the Prime Minister of Peru. ](/news/2009/07/11/the-president-of-peru-alan-garcia-names-javier-velasquez-as-the-prime-minister-of-peru.md)
-_Context: Alan Garca, President, Prime Minister, Javier Velsquez_
+_Context: President, Prime Minister, Alan Garca, Javier Velsquez_
 
 ##### Riots
 ### [ The death toll from the recent riots in rmqi rises to 184. ](/news/2009/07/11/the-death-toll-from-the-recent-riots-in-urumqi-rises-to-184.md)
-_Context: riots, rmqi_
+_Context: rmqi, riots_
 
 ##### Srebrenica
 ### [ A mass funeral takes place in Srebrenica, Bosnia, to commemorate the 14th anniversary of the massacre that took place in the town. ](/news/2009/07/11/a-mass-funeral-takes-place-in-srebrenica-bosnia-to-commemorate-the-14th-anniversary-of-the-massacre-that-took-place-in-the-town.md)

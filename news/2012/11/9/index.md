@@ -9,15 +9,15 @@ UN projects the number of people requiring humanitarian assistance in Syria coul
 
 ##### Sager House
 ### [A security guard is found shot dead at the Sager House, the official residence of the Swedish prime minister, in the capital Stockholm. ](/news/2012/11/9/a-security-guard-is-found-shot-dead-at-the-sager-house-the-official-residence-of-the-swedish-prime-minister-in-the-capital-stockholm.md)
-_Context: Stockholm, Swedish prime minister, Sager House_
+_Context: Sager House, Stockholm, Swedish prime minister_
 
 ##### Iranian Revolutionary guards
 ### [Two Iranian Revolutionary Guard fighter jets fire on an unmanned American General Atomics MQ-1 Predator drone in international airspace near Kuwait. ](/news/2012/11/9/two-iranian-revolutionary-guard-fighter-jets-fire-on-an-unmanned-american-general-atomics-mq-1-predator-drone-in-international-airspace-near.md)
-_Context: Kuwait, Iranian Revolutionary guards, fire, General Atomics MQ-1 Predator_
+_Context: Iranian Revolutionary guards, fire, General Atomics MQ-1 Predator, Kuwait_
 
 ##### Colombo
 ### [Clashes break out at a jail in Colombo, Sri Lanka, killing at least 13 inmates and injuring 32 others. At least nine police officers, a prison guard and a bystander were also injured during the disturbances. ](/news/2012/11/9/clashes-break-out-at-a-jail-in-colombo-sri-lanka-killing-at-least-13-inmates-and-injuring-32-others-at-least-nine-police-officers-a-pris.md)
-_Context: Sri Lanka, Colombo_
+_Context: Colombo, Sri Lanka_
 
 ##### Bahraini uprising (2011-present)
 ### [Bahraini uprising: A teenager is killed during a crackdown on protesters near the capital Manama. ](/news/2012/11/9/bahraini-uprising-a-teenager-is-killed-during-a-crackdown-on-protesters-near-the-capital-manama.md)
@@ -35,9 +35,9 @@ An Algerian military transport aircraft returning to the country from Paris with
 ### [The UK broadcaster ITV faces an investigation by the media regulator Ofcom after television presenter Phillip Schofield handed Prime Minister David Cameron an internet-generated list of potential suspects in a child abuse case involving a care home during a live interview on Thursday, and asked him to comment. ](/news/2012/11/9/the-uk-broadcaster-itv-faces-an-investigation-by-the-media-regulator-ofcom-after-television-presenter-phillip-schofield-handed-prime-ministe.md)
 The ambushing of the Prime Minister with the names of rumoured Tory paedophiles by the ITV presenter Phillip Schofield has generated more than 100 viewer complaints to Ofcom.
 
-##### Central Intelligence Agency
+##### CIA
 ### [CIA Director David Petraeus submits his resignation to President Barack Obama, citing an extramarital affair he had. ](/news/2012/11/9/cia-director-david-petraeus-submits-his-resignation-to-president-barack-obama-citing-an-extramarital-affair-he-had.md)
-_Context: Central Intelligence Agency, David Petraeus, Barack Obama, Director of the CIA_
+_Context: David Petraeus, Barack Obama, CIA, Director of the CIA_
 
 ##### Russia
 ### [Russian president Vladimir Putin sacks the chief of the armed forces Nikolai Makarov, three days after sacking the defence minister amid a corruption scandal. ](/news/2012/11/9/russian-president-vladimir-putin-sacks-the-chief-of-the-armed-forces-nikolai-makarov-three-days-after-sacking-the-defence-minister-amid-a-c.md)
@@ -45,7 +45,7 @@ _Context: Nikolai Makarov, Russia, Vladimir Putin_
 
 ##### China
 ### [Hundreds of Tibetan students and monks protest against education policies in China's western Qinghai Province, shortly after a series of self-immolations by Tibetan monks. ](/news/2012/11/9/hundreds-of-tibetan-students-and-monks-protest-against-education-policies-in-china-s-western-qinghai-province-shortly-after-a-series-of-sel.md)
-_Context: Tibet, monks, China, Qinghai Province_
+_Context: monks, China, Tibet, Qinghai Province_
 
 ##### Secretary of State for International Development
 ### [The UK's Secretary of State for International Development Justine Greening confirms Britain will cease giving financial aid to India by 2015. ](/news/2012/11/9/the-uk-s-secretary-of-state-for-international-development-justine-greening-confirms-britain-will-cease-giving-financial-aid-to-india-by-2015.md)

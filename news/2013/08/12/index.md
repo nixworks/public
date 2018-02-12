@@ -33,11 +33,11 @@ _Context: mob boss, Whitey Bulger_
 
 ##### Eric Holder
 ### [U.S. Attorney General Eric Holder, in a major policy shift in the War on Drugs, announces that the federal government, following some states' stances, will direct its prosecutors to no longer insist on automatic mandatory minimum prison sentences for non-violent, low-level, non-repeat offender drug offenses where the defendant is not involved with gangs and-or cartels. ](/news/2013/08/12/u-s-attorney-general-eric-holder-in-a-major-policy-shift-in-the-war-on-drugs-announces-that-the-federal-government-following-some-states.md)
-_Context: War on Drugs, mandatory minimum, Eric Holder_
+_Context: Eric Holder, War on Drugs, mandatory minimum_
 
 ##### Ibrahim Boubacar Keta
 ### [Ibrahim Boubacar Keta is elected as President of Mali. Although results have not yet been made official, his opponent Soumala Ciss has conceded defeat in the election. ](/news/2013/08/12/ibrahim-boubacar-keita-is-elected-as-president-of-mali-although-results-have-not-yet-been-made-official-his-opponent-soumaila-cisse-has-co.md)
-_Context: President of Mali, Soumala Ciss, the election, Ibrahim Boubacar Keta_
+_Context: Soumala Ciss, President of Mali, the election, Ibrahim Boubacar Keta_
 
 ## [Previous Day...](/news/2013/08/11/index.md)
 

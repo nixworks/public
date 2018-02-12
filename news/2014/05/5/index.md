@@ -9,7 +9,7 @@ _Context: Siege of Sloviansk, Eastern Ukraine, Sloviansk, Ukrainian military_
 
 ##### Vladimir Putin
 ### [Russian media reveals that President Vladimir Putin secretly signed a decree (No. 279) honoring more than 300 journalists for their "objective coverage" of Crimea's seizure from Ukraine. ](/news/2014/05/5/russian-media-reveals-that-president-vladimir-putin-secretly-signed-a-decree-no-279-honoring-more-than-300-journalists-for-their-objecti.md)
-_Context: Vladimir Putin, signed a decree, Crimea_
+_Context: Crimea, Vladimir Putin, signed a decree_
 
 ##### Tatiana Samoilova
 ### [Russian actress Tatiana Samoilova dies at age 80. ](/news/2014/05/5/russian-actress-tatiana-samoilova-dies-at-age-80.md)
@@ -25,7 +25,7 @@ _Context: ARM Holdings, Advanced Micro Devices_
 
 ##### Eleven people are missing
 ### [Eleven people are missing after a Chinese cargo ship collides with a Marshall Islands registered container ship off the coast of Hong Kong. ](/news/2014/05/5/eleven-people-are-missing-after-a-chinese-cargo-ship-collides-with-a-marshall-islands-registered-container-ship-off-the-coast-of-hong-kong.md)
-_Context: Eleven people are missing, container ship, Marshall Islands_
+_Context: Eleven people are missing, Marshall Islands, container ship_
 
 ##### At least two people are dead and 30 missing
 ### [At least two people are dead and 30 missing after two boats carrying illegal immigrants collide in the Aegean Sea off the coast of Greece. ](/news/2014/05/5/at-least-two-people-are-dead-and-30-missing-after-two-boats-carrying-illegal-immigrants-collide-in-the-aegean-sea-off-the-coast-of-greece.md)
@@ -37,7 +37,7 @@ The World Health Organization declares the recent spread of polio an internation
 
 ##### The Coca-Cola Company
 ### [Coca-Cola and PepsiCo said they will remove brominated vegetable oil (BVO) from their drinks. ](/news/2014/05/5/coca-cola-and-pepsico-said-they-will-remove-brominated-vegetable-oil-bvo-from-their-drinks.md)
-_Context: The Coca-Cola Company, brominated vegetable oil, PepsiCo_
+_Context: PepsiCo, brominated vegetable oil, The Coca-Cola Company_
 
 ##### U.S. Supreme Court
 ### [The U.S. Supreme Court rules that a practice of beginning legislative sessions with prayers does not violate the Establishment Clause of the First Amendment. ](/news/2014/05/5/the-u-s-supreme-court-rules-that-a-practice-of-beginning-legislative-sessions-with-prayers-does-not-violate-the-establishment-clause-of-the.md)
@@ -45,7 +45,7 @@ _Context: U.S. Supreme Court, religious establishment clause_
 
 ##### Naomi Mutah Nyadar
 ### [Naomi Mutah Nyadar, the leader of the One Million Women protest in Nigeria over failure to act on the kidnapping of 203 schoolgirls by terrorist group Boko Haram, is reportedly detained on the orders of First Lady of Nigeria Patience Jonathan. ](/news/2014/05/5/naomi-mutah-nyadar-the-leader-of-the-one-million-women-protest-in-nigeria-over-failure-to-act-on-the-kidnapping-of-203-schoolgirls-by-terro.md)
-_Context: Nigeria, Naomi Mutah Nyadar, First Lady of Nigeria, Patience Jonathan, One Million Women, Boko Haram_
+_Context: Naomi Mutah Nyadar, Patience Jonathan, Nigeria, First Lady of Nigeria, Boko Haram, One Million Women_
 
 ## [Previous Day...](/news/2014/05/4/index.md)
 

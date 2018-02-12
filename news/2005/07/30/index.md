@@ -13,15 +13,15 @@ _Context: Basra, Iraq, Conflict in Iraq_
 
 ##### Lawyer
 ### [ Lawyers for the former President of Iraq, Saddam Hussein, claim he was attacked by an unidentified man after questioning by the Iraqi special tribunal on Thursday; however the United States denies the event. ](/news/2005/07/30/lawyers-for-the-former-president-of-iraq-saddam-hussein-claim-he-was-attacked-by-an-unidentified-man-after-questioning-by-the-iraqi-speci.md)
-_Context: Saddam Hussein, President of Iraq, Iraq, Lawyer_
+_Context: Lawyer, President of Iraq, Saddam Hussein, Iraq_
 
 ##### Uzbekistan
 ### [ Uzbekistan has reportedly given the United States six months to move out of a key base used for operations in Afghanistan.](/news/2005/07/30/uzbekistan-has-reportedly-given-the-united-states-six-months-to-move-out-of-a-key-base-used-for-operations-in-afghanistan.md)
-_Context: American, Afghanistan, Uzbekistan_
+_Context: Afghanistan, Uzbekistan, American_
 
 ##### Military base
 ### [ Russia begins to withdraw its troops from the military bases in Georgia ](/news/2005/07/30/russia-begins-to-withdraw-its-troops-from-the-military-bases-in-georgia.md)
-_Context: military base,  Georgian_
+_Context:  Georgian, military base_
 
 ## [Previous Day...](/news/2005/07/29/index.md)
 

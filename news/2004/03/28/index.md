@@ -5,7 +5,7 @@ Formats: [HTML](2004/03/28/index.html)  [JSON](2004/03/28/index.json)  [XML](200
 
 ##### Abdel Aziz al-Rantissi
 ### [ Abdel Aziz al-Rantissi, leader of Hamas, states that God has declared war on the United States. ](/news/2004/03/28/abdel-aziz-al-rantissi-leader-of-hamas-states-that-god-has-declared-war-on-the-united-states.md)
-_Context: Hamas, Allah, Abdel Aziz al-Rantissi_
+_Context: Allah, Hamas, Abdel Aziz al-Rantissi_
 
 ##### University of Cambridge
 ### [ Cambridge University wins a controversial victory in the 150th Boat Race by six lengths, with a total time of 18:47 minutes. ](/news/2004/03/28/cambridge-university-wins-a-controversial-victory-in-the-150th-boat-race-by-six-lengths-with-a-total-time-of-18-47-minutes.md)
@@ -17,11 +17,11 @@ _Context: democratic, summit, Arab League_
 
 ##### Home Secretary
 ### [ UK Home Secretary David Blunkett prepares to publish a white paper on organized crime that will unveil new details of the Serious Organised Crime Agency, the proposed "British FBI". ](/news/2004/03/28/uk-home-secretary-david-blunkett-prepares-to-publish-a-white-paper-on-organized-crime-that-will-unveil-new-details-of-the-serious-organised.md)
-_Context: Home Secretary, publish, David Blunkett, Serious Organised Crime Agency, organization, white paper, FBI_
+_Context: FBI, David Blunkett, publish, Home Secretary, white paper, Serious Organised Crime Agency, organization_
 
 ##### Israel
 ### [ Israeli State Attorney Edna Arbel recommends that Prime Minister Ariel Sharon be indicted for taking bribes. ](/news/2004/03/28/israeli-state-attorney-edna-arbel-recommends-that-prime-minister-ariel-sharon-be-indicted-for-taking-bribes.md)
-_Context: Edna Arbel, Israel, Israeli Prime Minister, Ariel Sharon_
+_Context: Edna Arbel, Israeli Prime Minister, Ariel Sharon, Israel_
 
 ##### French regional elections
 ### [ The French regional elections result in massive losses for the governing conservative parties and victories for socialist-green alliances in at least 20 of 22 regions. ](/news/2004/03/28/the-french-regional-elections-result-in-massive-losses-for-the-governing-conservative-parties-and-victories-for-socialist-green-alliances-i.md)

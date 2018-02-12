@@ -5,19 +5,19 @@ Formats: [HTML](2008/07/20/index.html)  [JSON](2008/07/20/index.json)  [XML](200
 
 ##### Golf
 ### [ Golfer Pdraig Harrington of Ireland wins his second successive Open Championship (British Open). ](/news/2008/07/20/golfer-padraig-harrington-of-ireland-wins-his-second-successive-open-championship-british-open.md)
-_Context: second successive, Open Championship (British Open), Golf, Pdraig Harrington, Irish_
+_Context: second successive, Open Championship (British Open), Irish, Golf, Pdraig Harrington_
 
 ##### The Dark Knight
 ### [ "The Dark Knight" sets a new record for box office receipts for an opening weekend in the United States with US$158.4 million earned between Friday and Sunday. ](/news/2008/07/20/the-dark-knight-sets-a-new-record-for-box-office-receipts-for-an-opening-weekend-in-the-united-states-with-us-158-4-million-earned-betwee.md)
-_Context: $, American, The Dark Knight_
+_Context: The Dark Knight, $, American_
 
 ##### Colombia
 ### [ The Colombian diaspora celebrates Colombia's Independence Day with concerts and marches against violence, kidnapping and the FARC in Bogot, Leticia, the country's other 1,119 cities and municipalities, and events in cities around the world including Paris (attended by Ingrid Betancourt), London, Washington, D.C., New York City and Miami. ](/news/2008/07/20/the-colombian-diaspora-celebrates-colombia-s-independence-day-with-concerts-and-marches-against-violence-kidnapping-and-the-farc-in-bogota.md)
-_Context: Washington, D.C., FARC, New York City, Colombia, London, Miami, Ingrid Betancourt, Bogot, Leticia, Paris, diaspora, Independence Day_
+_Context: FARC, New York City, London, Independence Day, Leticia, Miami, diaspora, Ingrid Betancourt, Colombia, Washington, D.C., Paris, Bogot_
 
 ##### Afghanistan
 ### [ At least 13 Afghan police and civilians are killed in an airstrike by NATO forces two weeks after an airstrike killed 52 civilians at a wedding. ](/news/2008/07/20/at-least-13-afghan-police-and-civilians-are-killed-in-an-airstrike-by-nato-forces-two-weeks-after-an-airstrike-killed-52-civilians-at-a-wed.md)
-_Context: NATO, airstrike, Afghanistan_
+_Context: Afghanistan, airstrike, NATO_
 
 ##### Beijing
 ### [ Beijing introduces traffic restrictions and factory closures in an effort to reduce air pollution for the 2008 Summer Olympics. ](/news/2008/07/20/beijing-introduces-traffic-restrictions-and-factory-closures-in-an-effort-to-reduce-air-pollution-for-the-2008-summer-olympics.md)
@@ -25,11 +25,11 @@ _Context: Beijing, 2008 Summer Olympics, air pollution_
 
 ##### Mass
 ### [ 500,000 people attend the closing mass of World Youth Day 2008 in Sydney, Australia, celebrated by Pope Benedict XVI, who announces Madrid as the host city for the next World Youth Day in 2011. ](/news/2008/07/20/500-000-people-attend-the-closing-mass-of-world-youth-day-2008-in-sydney-australia-celebrated-by-pope-benedict-xvi-who-announces-madrid.md)
-_Context: next World Youth Day in 2011, Sydney, mass, Australia, World Youth Day 2008, Pope, Madrid, Benedict XVI_
+_Context: World Youth Day 2008, Sydney, Australia, Benedict XVI, next World Youth Day in 2011, mass, Pope, Madrid_
 
 ##### Loveparade
 ### [ 1,600,000 people attend the Loveparade in Dortmund, Germany. ](/news/2008/07/20/1-600-000-people-attend-the-loveparade-in-dortmund-germany.md)
-_Context: Dortmund, Loveparade, German_
+_Context: German, Loveparade, Dortmund_
 
 ## [Previous Day...](/news/2008/07/19/index.md)
 

@@ -9,7 +9,7 @@ A fragile 48-hour ceasefire in Yemen ended on Monday after failing to stem viole
 
 ##### War in Afghanistan
 ### [At least 32 people are killed and another 80 injured in a suicide bombing at a Kabul Shia mosque. ISIL claims responsibility. ](/news/2016/11/21/at-least-32-people-are-killed-and-another-80-injured-in-a-suicide-bombing-at-a-kabul-shia-mosque-isil-claims-responsibility.md)
-_Context: ISIL, mosque, November 2016 Kabul suicide bombing, War in Afghanistan, Shia, suicide bombing, Kabul_
+_Context: mosque, ISIL, November 2016 Kabul suicide bombing, Kabul, Shia, suicide bombing, War in Afghanistan_
 
 ##### Boko Haram insurgency
 ### [A militant attack on a base in Lake Chad leaves six Cameroonian soldiers dead. ](/news/2016/11/21/a-militant-attack-on-a-base-in-lake-chad-leaves-six-cameroonian-soldiers-dead.md)
@@ -41,11 +41,11 @@ Tree slices through school bus carrying 35 passengers, grades K-5, after acciden
 
 ##### Russia-United States relations
 ### [President Barack Obama and Vladimir Putin meet in Peru on the sidelines of the Asia-Pacific Economic Cooperation conference to discuss involvement in the Syrian Civil War. ](/news/2016/11/21/president-barack-obama-and-vladimir-putin-meet-in-peru-on-the-sidelines-of-the-asia-pacific-economic-cooperation-conference-to-discuss-invol.md)
-_Context: Russia-United States relations, Barack Obama, Vladimir Putin, APEC Peru 2016, Asia-Pacific Economic Cooperation, Peru, Syrian Civil War_
+_Context: APEC Peru 2016, Peru, Vladimir Putin, Syrian Civil War, Barack Obama, Asia-Pacific Economic Cooperation, Russia-United States relations_
 
 ##### NATO-Russia relations
 ### [Russia deploys its S-400 missile system in Kaliningrad, an exclave between Poland and Lithuania, in response to "NATO expansion" near its borders. The United States criticizes the move as "destabilizing" to Europe. Russia announced the planned deployment over a decade ago. ](/news/2016/11/21/russia-deploys-its-s-400-missile-system-in-kaliningrad-an-exclave-between-poland-and-lithuania-in-response-to-nato-expansion-near-its-bo.md)
-_Context: Lithuania, S-400 missile, Kaliningrad, Russia, NATO-Russia relations, Polish, NATO, American_
+_Context: Russia, Lithuania, NATO, American, Kaliningrad, NATO-Russia relations, Polish, S-400 missile_
 
 ##### Philippine criminal law
 ### [Concern is raised by the United Nations and human rights groups after Rodrigo Duterte proposes a law that allows jailing children as young as nine for certain crimes. ](/news/2016/11/21/concern-is-raised-by-the-united-nations-and-human-rights-groups-after-rodrigo-duterte-proposes-a-law-that-allows-jailing-children-as-young-a.md)

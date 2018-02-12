@@ -13,7 +13,7 @@ Army personnel rescued flood-affected villagers of Mirbaazar in Kulgam district 
 
 ##### Ebola
 ### [The Ebola death total in West Africa exceeds 1,900, according to the World Health Organization. ](/news/2014/09/4/the-ebola-death-total-in-west-africa-exceeds-1-900-according-to-the-world-health-organization.md)
-_Context: Ebola, World Health Organization_
+_Context: World Health Organization, Ebola_
 
 ##### NATO
 ### [The two-day NATO summit in Newport, Wales, begins. Leaders agree to apply further sanctions on Russia. NATO sources claim that there are "several thousand" Russian troops inside Ukraine. ](/news/2014/09/4/the-two-day-nato-summit-in-newport-wales-begins-leaders-agree-to-apply-further-sanctions-on-russia-nato-sources-claim-that-there-are-se.md)

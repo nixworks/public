@@ -9,11 +9,11 @@ _Context: Calvin College, George W. Bush_
 
 ##### Elena Paparizou
 ### [ The Greek entry "My Number One" by Elena Paparizou wins the 50th Annual Eurovision Song Contest in Kiev, Ukraine. 24 countries of the European Broadcasting Union participate in the final, fifteen other countries having been eliminated in Thursdays' semi-finals. ](/news/2005/05/21/the-greek-entry-my-number-one-by-elena-paparizou-wins-the-50th-annual-eurovision-song-contest-in-kiev-ukraine-24-countries-of-the-europ.md)
-_Context: European Broadcasting Union, Kiev, 50th Annual Eurovision Song Contest, Ukraine, Elena Paparizou_
+_Context: Elena Paparizou, Kiev, European Broadcasting Union, 50th Annual Eurovision Song Contest, Ukraine_
 
 ##### The Sun
 ### [ "The Sun", the largest selling British tabloid newspaper, publishes more surreptitiously taken pictures of Saddam Hussein, while claiming to condemn the leaking of the first photographs. Other pictures also published show the imprisoned Ali Hassan al-Majid ("Chemical Ali") and Huda Salih Mahdi Ammash ("Mrs Anthrax"). President Bush intervenes to support an investigation into the leaking of the photos. ](/news/2005/05/21/the-sun-the-largest-selling-british-tabloid-newspaper-publishes-more-surreptitiously-taken-pictures-of-saddam-hussein-while-claiming-t.md)
-_Context: Saddam Hussein, United Kingdom, The Sun, tabloid, George W. Bush, Ali Hassan al-Majid, Huda Salih Mahdi Ammash_
+_Context: Ali Hassan al-Majid, George W. Bush, tabloid, The Sun, Saddam Hussein, Huda Salih Mahdi Ammash, United Kingdom_
 
 ## [Previous Day...](/news/2005/05/20/index.md)
 

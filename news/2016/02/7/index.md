@@ -13,7 +13,7 @@ The explosion created a small crater near the building complex.
 
 ##### Explosion
 ### [One person is killed and six others injured in an explosion at JCG Farms, an American feed mill near Atlanta, Georgia. ](/news/2016/02/7/one-person-is-killed-and-six-others-injured-in-an-explosion-at-jcg-farms-an-american-feed-mill-near-atlanta-georgia.md)
-_Context: feed mill, explosion, Atlanta, Georgia_
+_Context: explosion, feed mill, Atlanta, Georgia_
 
 ##### North Korea's nuclear program
 ### [North Korea launches a long range rocket that critics claim is a test of banned technology for a long range missile that could hit the United States. South Korea's military says the rocket released an object into orbit. ](/news/2016/02/7/north-korea-launches-a-long-range-rocket-that-critics-claim-is-a-test-of-banned-technology-for-a-long-range-missile-that-could-hit-the-unite.md)
@@ -41,7 +41,7 @@ Politicians in Haiti reach an agreement to install a transitional government hou
 
 ##### Parliament of Algeria
 ### [The Parliament of Algeria considers a new constitution imposing term limits for the President and recognising Amazigh as an official language. ](/news/2016/02/7/the-parliament-of-algeria-considers-a-new-constitution-imposing-term-limits-for-the-president-and-recognising-amazigh-as-an-official-languag.md)
-_Context: Amazigh, term limits, Parliament of Algeria_
+_Context: term limits, Amazigh, Parliament of Algeria_
 
 ## [Previous Day...](/news/2016/02/6/index.md)
 

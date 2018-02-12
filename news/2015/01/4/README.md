@@ -9,7 +9,7 @@ A bomb targeting Shiite Muslims at a volleyball match killed at least four peopl
 
 ##### United Nations
 ### [A vehicle carrying United Nations peacekeepers hits a roadside bomb in northern Mali, injuring six soldiers. ](/news/2015/01/4/a-vehicle-carrying-united-nations-peacekeepers-hits-a-roadside-bomb-in-northern-mali-injuring-six-soldiers.md)
-_Context: Mali, United Nations_
+_Context: United Nations, Mali_
 
 ##### Houthi
 ### [A bombing at a local Houthi movement headquarters in Dhamar Governorate, Yemen, kills five people and wounds 25. ](/news/2015/01/4/a-bombing-at-a-local-houthi-movement-headquarters-in-dhamar-governorate-yemen-kills-five-people-and-wounds-25.md)
@@ -21,7 +21,7 @@ A suicide car bomb attack by the Somali Islamist group al-Shabab kills four peop
 
 ##### Nairobi
 ### [A six-story building collapse in Nairobi, Kenya, kills one person and leaves several others injured. ](/news/2015/01/4/a-six-story-building-collapse-in-nairobi-kenya-kills-one-person-and-leaves-several-others-injured.md)
-_Context: Kenya, Nairobi_
+_Context: Nairobi, Kenya_
 
 ##### Pope Francis
 ### [Pope Francis announces the appointment of 20 new Cardinals, many of them coming from outside of Europe. ](/news/2015/01/4/pope-francis-announces-the-appointment-of-20-new-cardinals-many-of-them-coming-from-outside-of-europe.md)

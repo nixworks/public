@@ -13,3 +13,7 @@ Six people are reported to have been killed in Russia after an Antonov-148 plane
 
 1. [Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/world-news/six-killed-in-russian-test-flight-15104766.html?r=RSS)
 1. [Cover Image](http://www.belfasttelegraph.co.uk/migration_catalog/article25750846.ece/ALTERNATES/h342/World%20News%2010-1.jpg)
+
+### Related:
+
+1. [An Antonov An-148 of Saratov Airlines with 71 people on board crashes shortly after take-off from Domodedovo Airport, Moscow, Russia. The TASS agency cites an emergency source stating that none of the 65 passengers and 6 crew members have survived. ](/news/2018/02/11/an-antonov-an-148-of-saratov-airlines-with-71-people-on-board-crashes-shortly-after-take-off-from-domodedovo-airport-moscow-russia-the-ta.md) _Context: Antonov An-148_

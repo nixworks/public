@@ -17,11 +17,11 @@ At least 11 protesters killed on fourth day of widespread protests against burni
 
 ##### Boko Haram
 ### [Suspected Boko Haram Islamist militants launch simultaneous gun and bomb attacks in the northern Nigerian city of Gombe. ](/news/2012/02/24/suspected-boko-haram-islamist-militants-launch-simultaneous-gun-and-bomb-attacks-in-the-northern-nigerian-city-of-gombe.md)
-_Context: Gombe, Boko Haram, Islamist, Nigeria_
+_Context: Islamist, Nigeria, Boko Haram, Gombe_
 
 ##### Taliban
 ### [The Taliban attacks a Pakistani police station in Peshawar killing four officers. ](/news/2012/02/24/the-taliban-attacks-a-pakistani-police-station-in-peshawar-killing-four-officers.md)
-_Context: Peshawar, Pakistani police, Taliban_
+_Context: Taliban, Peshawar, Pakistani police_
 
 ##### Air Zimbabwe
 ### [Air Zimbabwe suspends all of its flights indefinitely. ](/news/2012/02/24/air-zimbabwe-suspends-all-of-its-flights-indefinitely.md)
@@ -33,7 +33,7 @@ _Context: Volcker rule, Securities and Exchange Commission_
 
 ##### Prince Friso of Orange-Nassau
 ### [Prince Friso of Orange-Nassau, who was buried under an avalanche in Lech, Austria, while skiing off piste, is reported to have suffered massive brain damage due to oxygen shortage; it remains unclear whether he will ever regain consciousness. ](/news/2012/02/24/prince-friso-of-orange-nassau-who-was-buried-under-an-avalanche-in-lech-austria-while-skiing-off-piste-is-reported-to-have-suffered-mass.md)
-_Context: off piste, Prince Friso of Orange-Nassau, Lech, Austria_
+_Context: Prince Friso of Orange-Nassau, Lech, off piste, Austria_
 
 ##### IAEA
 ### [The International Atomic Energy Agency reports that Iran is expanding its nuclear activities. ](/news/2012/02/24/the-international-atomic-energy-agency-reports-that-iran-is-expanding-its-nuclear-activities.md)
@@ -41,7 +41,7 @@ A report indicated Iran had begun producing fuel inside a new facility near the 
 
 ##### Disappearance of Azaria Chamberlain
 ### [A fourth inquest begins into the disappearance of Azaria Chamberlain at Uluru in outback Australia in the Northern Territory. ](/news/2012/02/24/a-fourth-inquest-begins-into-the-disappearance-of-azaria-chamberlain-at-uluru-in-outback-australia-in-the-northern-territory.md)
-_Context: Northern Territory, Australia, disappearance of Azaria Chamberlain, Uluru_
+_Context: Uluru, Northern Territory, Australia, disappearance of Azaria Chamberlain_
 
 ##### Dharun Ravi
 ### [The trial begins of former US student Dharun Ravi, accused of spying on a homosexual encounter involving his room-mate, which resulted in his death. The case has triggered debate about the difficulties faced by young gay men in America. ](/news/2012/02/24/the-trial-begins-of-former-us-student-dharun-ravi-accused-of-spying-on-a-homosexual-encounter-involving-his-room-mate-which-resulted-in-hi.md)
@@ -53,11 +53,11 @@ _Context: Garry Conille, Haiti_
 
 ##### Australian Prime Minister
 ### [Former Prime Minister Kevin Rudd announces that he will contest the leadership of the Australian Labor Party with current PM Julia Gillard on Monday. ](/news/2012/02/24/former-prime-minister-kevin-rudd-announces-that-he-will-contest-the-leadership-of-the-australian-labor-party-with-current-pm-julia-gillard-o.md)
-_Context: Australian Prime Minister, Kevin Rudd, Australian Labor Party, Julia Gillard_
+_Context: Australian Labor Party, Julia Gillard, Kevin Rudd, Australian Prime Minister_
 
 ##### Governor
 ### [The Governor of the Mexican state of Nuevo Leon fires the states' public safety secretary General Jaime Castaneda following the Apodaca prison riot where 44 inmates were killed. ](/news/2012/02/24/the-governor-of-the-mexican-state-of-nuevo-lea3n-fires-the-states-public-safety-secretary-general-jaime-castaneda-following-the-apodaca-pri.md)
-_Context: Apodaca prison riot, Governor, Nuevo Leon, Mexican, Jaime Castaneda_
+_Context: Jaime Castaneda, Apodaca prison riot, Nuevo Leon, Governor, Mexican_
 
 ## [Previous Day...](/news/2012/02/23/index.md)
 

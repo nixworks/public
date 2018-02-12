@@ -9,7 +9,7 @@ _Context: Cayman Islands, Hurricane Paloma_
 
 ##### Altering
 ### [ A doctored photo of North Korean Kim Jong-il, released Wednesday, renews speculation about the leader's health. ](/news/2008/11/7/a-doctored-photo-of-north-korean-kim-jong-il-released-wednesday-renews-speculation-about-the-leader-s-health.md)
-_Context: Kim Jong-il, altering, North Korea_
+_Context: altering, North Korea, Kim Jong-il_
 
 ##### School
 ### [ A two-story school in Ption-Ville, Haiti, collapses with 500 students inside, killing at least 75 people. ](/news/2008/11/7/a-two-story-school-in-petion-ville-haiti-collapses-with-500-students-inside-killing-at-least-75-people.md)
@@ -17,11 +17,11 @@ AU-PRINCE (Reuters) - The death toll rose to at least 75 on Saturday in the coll
 
 ##### Malaysia
 ### [ Malaysian blogger Raja Petra Kamarudin is released from detention under the Internal Security Act after a court ruled that his detention was illegal. ](/news/2008/11/7/malaysian-blogger-raja-petra-kamarudin-is-released-from-detention-under-the-internal-security-act-after-a-court-ruled-that-his-detention-wa.md)
-_Context: Raja Petra Kamarudin, indefinite detention without trial, Malaysia_
+_Context: indefinite detention without trial, Malaysia, Raja Petra Kamarudin_
 
 ##### Afghanistan President
 ### [ President of Afghanistan Hamid Karzai opens a new terminal at Kabul International Airport. ](/news/2008/11/7/president-of-afghanistan-hamid-karzai-opens-a-new-terminal-at-kabul-international-airport.md)
-_Context: Hamid Karzai, Kabul International Airport, Afghanistan, Afghanistan President_
+_Context: Hamid Karzai, Afghanistan, Afghanistan President, Kabul International Airport_
 
 ##### American
 ### [ Unemployment in the United States reaches its highest rate in 14 years. ](/news/2008/11/7/unemployment-in-the-united-states-reaches-its-highest-rate-in-14-years.md)

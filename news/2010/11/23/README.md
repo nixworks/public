@@ -9,7 +9,7 @@ North and South Korea fire artillery shells across their tense western sea borde
 
 ##### Movement for the Emancipation of the Niger Delta
 ### [The Movement for the Emancipation of the Niger Delta claims responsibility for the destruction of an oil pipeline feeding a refinery in the Niger Delta. ](/news/2010/11/23/the-movement-for-the-emancipation-of-the-niger-delta-claims-responsibility-for-the-destruction-of-an-oil-pipeline-feeding-a-refinery-in-the.md)
-_Context: Movement for the Emancipation of the Niger Delta, Niger Delta_
+_Context: Niger Delta, Movement for the Emancipation of the Niger Delta_
 
 ##### Clarence House
 ### [Clarence House confirms that Prince William and Catherine Middleton are to be married at Westminster Abbey on Friday 29 April 2011. ](/news/2010/11/23/clarence-house-confirms-that-prince-william-and-catherine-middleton-are-to-be-married-at-westminster-abbey-on-friday-29-april-2011.md)
@@ -33,7 +33,7 @@ _Context: Suriname_
 
 ##### Saudi Arabia
 ### [A Saudi woman accused of torturing her Indonesian maid is sent to jail while the maid is hospitalised, in a case that has caused tensions between the two countries. ](/news/2010/11/23/a-saudi-woman-accused-of-torturing-her-indonesian-maid-is-sent-to-jail-while-the-maid-is-hospitalised-in-a-case-that-has-caused-tensions-be.md)
-_Context: Saudi Arabia, Indonesia_
+_Context: Indonesia, Saudi Arabia_
 
 ##### The Gambia
 ### [The Gambia severs diplomatic and economic relations with Iran and orders Iranian government representatives to leave within 48 hours. The Gambia has given no reason for the move. ](/news/2010/11/23/the-gambia-severs-diplomatic-and-economic-relations-with-iran-and-orders-iranian-government-representatives-to-leave-within-48-hours-the-ga.md)
@@ -45,7 +45,7 @@ India forms two new army divisions - comprising more than 36,000 men - to defend
 
 ##### Bangladesh
 ### [Bangladesh sentences a further 23 soldiers from the Bangladesh Rifles to imprisonment over a mutiny in February 2009. ](/news/2010/11/23/bangladesh-sentences-a-further-23-soldiers-from-the-bangladesh-rifles-to-imprisonment-over-a-mutiny-in-february-2009.md)
-_Context: Bangladesh, Bangladesh Rifles, 2009 Bangladesh Rifles revolt_
+_Context: Bangladesh Rifles, Bangladesh, 2009 Bangladesh Rifles revolt_
 
 ##### Brian Cowen
 ### [Brian Cowen, the Taoiseach, claims in Dil ireann that he is "not clinging to power". ](/news/2010/11/23/brian-cowen-the-taoiseach-claims-in-dail-eireann-that-he-is-not-clinging-to-power.md)
@@ -53,7 +53,7 @@ Taoiseach Brian Cowen has rejected Fine Gael&#39;s accusations that he is engage
 
 ##### Burma
 ### [Burmese pro-democracy leader Aung San Suu Kyi is reunited with her son for the first time in a decade. ](/news/2010/11/23/burmese-pro-democracy-leader-aung-san-suu-kyi-is-reunited-with-her-son-for-the-first-time-in-a-decade.md)
-_Context: Aung San Suu Kyi, Burma, democratic_
+_Context: democratic, Burma, Aung San Suu Kyi_
 
 ##### Abdullah II of Jordan
 ### [King Abdullah II of Jordan commissions the Prime Minister Samir Rifai to form a new government following recent elections. ](/news/2010/11/23/king-abdullah-ii-of-jordan-commissions-the-prime-minister-samir-rifai-to-form-a-new-government-following-recent-elections.md)

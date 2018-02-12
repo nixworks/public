@@ -9,11 +9,11 @@ At least 10 people are killed and more than 65 wounded in the northern Afghan ci
 
 ##### ISIL
 ### [Sohaib al Rawi, Governor of Al Anbar Governorate in Iraq, claims that ISIL has killed 52 people, mostly police officers on the border with Syria in the past week. ](/news/2015/04/9/sohaib-al-rawi-governor-of-al-anbar-governorate-in-iraq-claims-that-isil-has-killed-52-people-mostly-police-officers-on-the-border-with-s.md)
-_Context: Iraqi police, Iraq, Syria, ISIL, Anbar province_
+_Context: Anbar province, Iraq, Syria, Iraqi police, ISIL_
 
 ##### Communist Party of China
 ### [The regional branch of the Communist Party of China in Tibet demands that Buddhist monasteries display the Chinese flag in an effort to shore up Chinese rule. ](/news/2015/04/9/the-regional-branch-of-the-communist-party-of-china-in-tibet-demands-that-buddhist-monasteries-display-the-chinese-flag-in-an-effort-to-shor.md)
-_Context: Buddhists, Tibet, Chinese flag, Communist Party of China_
+_Context: Chinese flag, Communist Party of China, Tibet, Buddhists_
 
 ##### Bangladesh
 ### [At least 24 people are killed and 22 injured in a bus accident in southwestern Bangladesh. ](/news/2015/04/9/at-least-24-people-are-killed-and-22-injured-in-a-bus-accident-in-southwestern-bangladesh.md)
@@ -21,7 +21,7 @@ _Context: Bangladesh_
 
 ##### Bunker fuel
 ### [ A ship spills toxic bunker fuel into English Bay, Vancouver. The fuel has washed up on Vancouver's beaches, prompting a warning from city officials. ](/news/2015/04/9/a-ship-spills-toxic-bunker-fuel-into-english-bay-vancouver-the-fuel-has-washed-up-on-vancouver-s-beaches-prompting-a-warning-from-city-o.md)
-_Context: English Bay, Vancouver, Vancouver, bunker fuel_
+_Context: English Bay, Vancouver, bunker fuel, Vancouver_
 
 ##### Tornadoes of 2015
 ### [A violent storm system spawns at least one tornado killing two people and injuring seven others in the American state of Illinois and causing widespread damage especially in the small towns of Rochelle and Fairdale. ](/news/2015/04/9/a-violent-storm-system-spawns-at-least-one-tornado-killing-two-people-and-injuring-seven-others-in-the-american-state-of-illinois-and-causin.md)

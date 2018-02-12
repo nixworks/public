@@ -9,23 +9,23 @@ The notoriously congested London airport has opened a fifth terminal, at a cost 
 
 ##### Colombia
 ### [ Colombian Ministry of National Defense Juan Manuel Santos says the government will pay US$2.5 million to Pedro Pablo Montoya, the FARC rebel who killed Ivn Ros. ](/news/2008/03/14/colombian-ministry-of-national-defense-juan-manuel-santos-says-the-government-will-pay-us-2-5-million-to-pedro-pablo-montoya-the-farc-rebe.md)
-_Context: Ivn Ros, Minister of National Defence, government, United States dollars, Revolutionary Armed Forces of Colombia, Colombia, Juan Manuel Santos_
+_Context: government, Colombia, Ivn Ros, Juan Manuel Santos, Minister of National Defence, United States dollars, Revolutionary Armed Forces of Colombia_
 
 ##### Muhammed Rahim
 ### [ Muhammed Rahim, an al-Qaeda member who helped Osama bin Laden escape from Tora Bora, Afghanistan in 2001, is taken to the Guantanamo Bay detention camp. ](/news/2008/03/14/muhammed-rahim-an-al-qaeda-member-who-helped-osama-bin-laden-escape-from-tora-bora-afghanistan-in-2001-is-taken-to-the-guantanamo-bay-de.md)
-_Context: Muhammed Rahim, Osama bin Laden, al-Qaeda, detainee, Tora Bora, Afghanistan_
+_Context: Afghanistan, Osama bin Laden, al-Qaeda, Tora Bora, Muhammed Rahim, detainee_
 
 ##### Brussels
 ### [ After a summit in Brussels, European Union leaders agree to a 20% reduction in greenhouse gases by 2020. ](/news/2008/03/14/after-a-summit-in-brussels-european-union-leaders-agree-to-a-20-reduction-in-greenhouse-gases-by-2020.md)
-_Context: European Union, Brussels, greenhouse gas_
+_Context: Brussels, European Union, greenhouse gas_
 
 ##### American
 ### [ United States investment bank Bear Stearns gets emergency funding from JPMorgan Chase, with the Federal Reserve Bank of New York's backing. ](/news/2008/03/14/united-states-investment-bank-bear-stearns-gets-emergency-funding-from-jpmorgan-chase-with-the-federal-reserve-bank-of-new-york-s-backing.md)
-_Context: Bear Stearns, investment bank, Federal Reserve Bank of New York, American, JPMorgan Chase_
+_Context: American, JPMorgan Chase, investment bank, Bear Stearns, Federal Reserve Bank of New York_
 
 ##### Tornado
 ### [ An EF2 tornado hits Atlanta, Georgia, damaging many buildings including the CNN Center, the Georgia Dome, the World Congress Center and the Philips Arena. ](/news/2008/03/14/an-ef2-tornado-hits-atlanta-georgia-damaging-many-buildings-including-the-cnn-center-the-georgia-dome-the-world-congress-center-and-the.md)
-_Context: Philips Arena, Atlanta, Georgia, Georgia, CNN Center, tornado, World Congress Center, Georgia Dome_
+_Context: CNN Center, tornado, Atlanta, Georgia, World Congress Center, Philips Arena, Georgia Dome, Georgia_
 
 ##### Iran
 ### [ Iranian voters go to the polls in legislative election. Nearly 90 percent of reformist candidates have been disqualified from the election. ](/news/2008/03/14/iranian-voters-go-to-the-polls-in-legislative-election-nearly-90-percent-of-reformist-candidates-have-been-disqualified-from-the-election.md)
@@ -33,7 +33,7 @@ _Context: legislative election, Iran_
 
 ##### Lhasa
 ### [ Seven are reported dead in Lhasa, Tibet as protests turn violent. Protests began Monday on the anniversary of the failed 1959 Tibetan uprising with calls for the release of detained Buddhist monks. Other protests followed calling for Tibetan independence and displaying the banned Tibetan national flag. ](/news/2008/03/14/seven-are-reported-dead-in-lhasa-tibet-as-protests-turn-violent-protests-began-monday-on-the-anniversary-of-the-failed-1959-tibetan-upris.md)
-_Context: Lhasa, Tibet, free Tibet, possible protests, protests turn violent_
+_Context: possible protests, Tibet, protests turn violent, free Tibet, Lhasa_
 
 ##### Venezuela
 ### [ Venezuelan President Hugo Chvez dares the United States to designate Venezuela as a state sponsor of terrorism. ](/news/2008/03/14/venezuelan-president-hugo-chavez-dares-the-united-states-to-designate-venezuela-as-a-state-sponsor-of-terrorism.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2016/06/11/index.html)  [JSON](2016/06/11/index.json)  [XML](201
 
 ##### War in Afghanistan (2015-present)
 ### [Fighting breaks out between ISIL militants and Afghan police in the Haska Mina District, Nangarhar Province, leaving six police officers and 15 militants dead, according to officials. ](/news/2016/06/11/fighting-breaks-out-between-isil-militants-and-afghan-police-in-the-haska-mina-district-nangarhar-province-leaving-six-police-officers-and.md)
-_Context: police, War in Afghanistan (2015-present), ISIL, Haska Mina District, Nangarhar Province_
+_Context: ISIL, Haska Mina District, War in Afghanistan (2015-present), police, Nangarhar Province_
 
 ##### Libyan Civil War (2014-present)
 ### [Libyan forces claim to have captured the port in the city of Sirte after heavy fighting with ISIL. ](/news/2016/06/11/libyan-forces-claim-to-have-captured-the-port-in-the-city-of-sirte-after-heavy-fighting-with-isil.md)

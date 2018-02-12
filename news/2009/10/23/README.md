@@ -9,15 +9,15 @@ Roman Catholic bishops called on corrupt Catholic leaders in Africa on Friday to
 
 ##### Bernard Fellay
 ### [ Bernard Fellay, Superior General of the Society of St. Pius X, says that the Vatican is considering the possibility of converting the Lefebvrist group into a personal prelature. ](/news/2009/10/23/bernard-fellay-superior-general-of-the-society-of-st-pius-x-says-that-the-vatican-is-considering-the-possibility-of-converting-the-lefeb.md)
-_Context: Society of St. Pius X, Bernard Fellay, Marcel Lefebvre_
+_Context: Marcel Lefebvre, Society of St. Pius X, Bernard Fellay_
 
 ##### Universal mobile phone charger
 ### [ A universal mobile phone charger that works with any handset is approved by the International Telecommunication Union. ](/news/2009/10/23/a-universal-mobile-phone-charger-that-works-with-any-handset-is-approved-by-the-international-telecommunication-union.md)
-_Context: International Telecommunication Union, universal mobile phone charger_
+_Context: universal mobile phone charger, International Telecommunication Union_
 
 ##### Jean Todt
 ### [ Jean Todt defeats Ari Vatanen in an election to become the new head of the Fdration Internationale de l'Automobile, replacing former head Max Mosley, who held the position for 16 years. ](/news/2009/10/23/jean-todt-defeats-ari-vatanen-in-an-election-to-become-the-new-head-of-the-federation-internationale-de-l-automobile-replacing-former-head.md)
-_Context: Ari Vatanen, Jean Todt, Max Mosley, Fdration Internationale de l'Automobile_
+_Context: Max Mosley, Jean Todt, Ari Vatanen, Fdration Internationale de l'Automobile_
 
 ##### Economy of the United Kingdom
 ### [ The UK GDP contracts by 0.4% between July and September, meaning that the United Kingdom has been contracting for 6 successive quarters for the first time since records were kept in 1955. ](/news/2009/10/23/the-uk-gdp-contracts-by-0-4-between-july-and-september-meaning-that-the-united-kingdom-has-been-contracting-for-6-successive-quarters-for.md)
@@ -25,7 +25,7 @@ New figures show the British economy shrank unexpectedly in the third quarter of
 
 ##### Swiss Government
 ### [ The Swiss Government says that the United States has formally requested the extradition of film director Roman Polanski for having unlawful sex with an underage girl in 1977. ](/news/2009/10/23/the-swiss-government-says-that-the-united-states-has-formally-requested-the-extradition-of-film-director-roman-polanski-for-having-unlawful.md)
-_Context: American, 1977, Roman Polanski, extradition, Swiss Government, sex_
+_Context: 1977, American, Swiss Government, Roman Polanski, sex, extradition_
 
 ##### Peshawar
 ### [ A huge explosion rips through an upmarket area of Peshawar in Pakistan. ](/news/2009/10/23/a-huge-explosion-rips-through-an-upmarket-area-of-peshawar-in-pakistan.md)
@@ -33,7 +33,7 @@ _Context: Pakistan, Peshawar_
 
 ##### Oil refinery fire
 ### [ A huge explosion occurs at an oil refinery in Catao, Puerto Rico. ](/news/2009/10/23/a-huge-explosion-occurs-at-an-oil-refinery-in-catano-puerto-rico.md)
-_Context: oil refinery, Catao, Puerto Rico, oil refinery fire_
+_Context: oil refinery, oil refinery fire, Catao, Puerto Rico_
 
 ##### Vitit Muntarbhorn
 ### [ Vitit Muntarbhorn, United Nations Special Rapporteur for North Korea, says the country should improve its "abysmal" rights record, adding it should provide food to over 8 million citizens. ](/news/2009/10/23/vitit-muntarbhorn-united-nations-special-rapporteur-for-north-korea-says-the-country-should-improve-its-abysmal-rights-record-adding-i.md)

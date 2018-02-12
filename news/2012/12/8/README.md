@@ -29,11 +29,11 @@ Seeking to control global warming, nearly 200 countries agreed Saturday to exten
 
 ##### American football
 ### [American football player Josh Brent of the Dallas Cowboys is arrested for driving while intoxicated and vehicular manslaughter in relation to the death of teammate Jerry Brown. ](/news/2012/12/8/american-football-player-josh-brent-of-the-dallas-cowboys-is-arrested-for-driving-while-intoxicated-and-vehicular-manslaughter-in-relation-t.md)
-_Context: Josh Brent, Dallas Cowboys, vehicular manslaughter, American football, Jerry Brown_
+_Context: Dallas Cowboys, Josh Brent, American football, vehicular manslaughter, Jerry Brown_
 
 ##### Australia
 ### [Bosses at Australian radio station 2Day FM suspend all advertising until Monday after several major advertisers withdrew their business in the wake of the death of Jacintha Saldanha. ](/news/2012/12/8/bosses-at-australian-radio-station-2day-fm-suspend-all-advertising-until-monday-after-several-major-advertisers-withdrew-their-business-in-t.md)
-_Context: 2Day FM, Australia, Jacintha Saldanha_
+_Context: Jacintha Saldanha, 2Day FM, Australia_
 
 ##### General election
 ### [The Ghanaian election is extended by one day as glitches in the electoral system cause extended delays in voting in some areas. ](/news/2012/12/8/the-ghanaian-election-is-extended-by-one-day-as-glitches-in-the-electoral-system-cause-extended-delays-in-voting-in-some-areas.md)
@@ -45,7 +45,7 @@ The Burmese government apologises to Buddhist monks for the injuries caused duri
 
 ##### Italy
 ### [Italian Prime Minister Mario Monti says he will resign after passing the 2013 budget. ](/news/2012/12/8/italian-prime-minister-mario-monti-says-he-will-resign-after-passing-the-2013-budget.md)
-_Context: Italy, Mario Monti, Italian Prime Minister_
+_Context: Italy, Italian Prime Minister, Mario Monti_
 
 ##### Hugo Chvez
 ### [Hugo Chvez, the President of Venezuela, announces that he has cancer again. Preparing to travel to Havana, Cuba, for further cancer surgery, he named Vice President Nicols Maduro to carry out his legacy if he is unable to remain in office. ](/news/2012/12/8/hugo-chavez-the-president-of-venezuela-announces-that-he-has-cancer-again-preparing-to-travel-to-havana-cuba-for-further-cancer-surgery.md)

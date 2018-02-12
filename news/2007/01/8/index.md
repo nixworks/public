@@ -5,43 +5,43 @@ Formats: [HTML](2007/01/8/index.html)  [JSON](2007/01/8/index.json)  [XML](2007/
 
 ##### United States Supreme Court
 ### [ The United States Supreme Court declines to hear an appeal of "Gilmore v. Gonzales", which was a challenge to travel papers and secret laws. ](/news/2007/01/8/the-united-states-supreme-court-declines-to-hear-an-appeal-of-gilmore-v-gonzales-which-was-a-challenge-to-travel-papers-and-secret-laws.md)
-_Context: secret law, travel papers, United States Supreme Court, Gilmore v. Gonzales_
+_Context: travel papers, secret law, Gilmore v. Gonzales, United States Supreme Court_
 
 ##### Manhattan
 ### [ An unknown odor persists in Manhattan, New York and Jersey City, New Jersey throughout much of the day, resulting in the evacuation of several high-rise buildings and the temporary shutdown of PATH train service under the Hudson River. ](/news/2007/01/8/an-unknown-odor-persists-in-manhattan-new-york-and-jersey-city-new-jersey-throughout-much-of-the-day-resulting-in-the-evacuation-of-seve.md)
-_Context: Jersey City, Hudson River, New Jersey, PATH, Manhattan_
+_Context: New Jersey, Manhattan, Hudson River, Jersey City, PATH_
 
 ##### Russia
 ### [ Russian oil supplies to Poland, Germany, and Ukraine are cut as the Russia-Belarus energy dispute escalates. ](/news/2007/01/8/russian-oil-supplies-to-poland-germany-and-ukraine-are-cut-as-the-russia-belarus-energy-dispute-escalates.md)
-_Context: German, Belarus, energy dispute, Russia, Polish, Ukraine_
+_Context: Russia, Ukraine, Polish, Belarus, energy dispute, German_
 
 ##### East Turkestan Islamic Movement
 ### [ It is reported that Chinese police killed 18 members of the East Turkestan Islamic Movement organization and arrested 17 others in a raid in the Pamir Plateau on 5 January. ETIM members shot and killed one officer and wounded another. Police found 22 grenades and enough explosive material to make 1,500 more. ](/news/2007/01/8/it-is-reported-that-chinese-police-killed-18-members-of-the-east-turkestan-islamic-movement-organization-and-arrested-17-others-in-a-raid-i.md)
-_Context: Pamir Plateau, a raid, 5 January, East Turkestan Islamic Movement_
+_Context: a raid, Pamir Plateau, East Turkestan Islamic Movement, 5 January_
 
 ##### AC-130
 ### [ A U.S. AC-130 gunship attacks Al Qaeda operatives during the ongoing fighting in the Battle of Ras Kamboni ](/news/2007/01/8/a-u-s-ac-130-gunship-attacks-al-qaeda-operatives-during-the-ongoing-fighting-in-the-battle-of-ras-kamboni.md)
-_Context: capture, AC-130, Al Qaeda_
+_Context: Al Qaeda, AC-130, capture_
 
 ##### Kazakh Prime Minister
 ### [ Kazakh Prime Minister Daniyal Akhmetov unexpectedly resigns without explanation. Deputy Prime Minister Karim Masimov, Akhmetov's longtime rival, is expected to replace him. ](/news/2007/01/8/kazakh-prime-minister-daniyal-akhmetov-unexpectedly-resigns-without-explanation-deputy-prime-minister-karim-masimov-akhmetov-s-longtime-r.md)
-_Context: Kazakh Prime Minister, Daniyal Akhmetov, Karim Masimov_
+_Context: Daniyal Akhmetov, Karim Masimov, Kazakh Prime Minister_
 
 ##### SPO
 ### [ SPO and OVP agree on a coalition government after the October 2006 Austrian elections. Both parties will get an equal share of ministers with the SPO's Alfred Gusenbauer set to become Chancellor of Austria, and the OVP has had more success in implementing their demands in the coalition agreement. The government will be sworn in on 11 January. ](/news/2007/01/8/spa-and-avp-agree-on-a-coalition-government-after-the-october-2006-austrian-elections-both-parties-will-get-an-equal-share-of-ministers.md)
-_Context: OVP, SPO, Chancellor, October 2006 Austrian elections, Alfred Gusenbauer, 11 January_
+_Context: 11 January, Alfred Gusenbauer, OVP, SPO, Chancellor, October 2006 Austrian elections_
 
 ##### Indonesia
 ### [ Indonesian naval ships discover large metal objects off the west coast of Sulawesi that could possibly be the wreckage of Adam Air Flight 574 missing a week ago. ](/news/2007/01/8/indonesian-naval-ships-discover-large-metal-objects-off-the-west-coast-of-sulawesi-that-could-possibly-be-the-wreckage-of-adam-air-flight-5.md)
-_Context: Sulawesi island, Flight 574, Adam Air, Indonesia_
+_Context: Adam Air, Indonesia, Flight 574, Sulawesi island_
 
 ##### Mounir El Motassadeq
 ### [ Mounir El Motassadeq is sentenced by a court in Hamburg, Germany to 15 years in jail for his role in the planning of the September 11, 2001 attacks. ](/news/2007/01/8/mounir-el-motassadeq-is-sentenced-by-a-court-in-hamburg-germany-to-15-years-in-jail-for-his-role-in-the-planning-of-the-september-11-2001.md)
-_Context: German, planning of the September 11, 2001 attacks, Mounir El Motassadeq, Hamburg_
+_Context: Hamburg, Mounir El Motassadeq, planning of the September 11, 2001 attacks, German_
 
 ##### Quasar
 ### [ The discovery of the first example of a "triple quasar" is announced at the American Astronomical Society meeting in Seattle. ](/news/2007/01/8/the-discovery-of-the-first-example-of-a-triple-quasar-is-announced-at-the-american-astronomical-society-meeting-in-seattle.md)
-_Context: Seattle, quasar, American Astronomical Society_
+_Context: quasar, Seattle, American Astronomical Society_
 
 ##### Arenda Troutman
 ### [ Chicago Alderman Arenda Troutman is arrested by the FBI and charged with accepting a bribe from a federal informant as part of an undercover investigation. ](/news/2007/01/8/chicago-alderman-arenda-troutman-is-arrested-by-the-fbi-and-charged-with-accepting-a-bribe-from-a-federal-informant-as-part-of-an-undercove.md)

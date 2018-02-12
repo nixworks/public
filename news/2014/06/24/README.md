@@ -21,7 +21,7 @@ _Context: United States Navy SEAL_
 
 ##### Pakistan International Airlines
 ### [At least 1 killed and 2 injured as unidentified gunmen open fire on a Pakistan International Airlines aircraft at Bacha Khan International Airport in Peshawar, Pakistan. ](/news/2014/06/24/at-least-1-killed-and-2-injured-as-unidentified-gunmen-open-fire-on-a-pakistan-international-airlines-aircraft-at-bacha-khan-international-a.md)
-_Context: Pakistan International Airlines, Peshawar, Bacha Khan International Airport_
+_Context: Bacha Khan International Airport, Pakistan International Airlines, Peshawar_
 
 ##### Emir of Qatar
 ### [The Emir of Qatar, Sheikh Tamim bin Hamad Al Thani, agrees to spend 2.2 billion Euros to convert Barcelona's "La Monumental" bullring into a 40,000-capacity mosque, the biggest in Europe. ](/news/2014/06/24/the-emir-of-qatar-sheikh-tamim-bin-hamad-al-thani-agrees-to-spend-2-2-billion-euros-to-convert-barcelona-s-la-monumental-bullring-into-a.md)

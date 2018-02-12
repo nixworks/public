@@ -5,7 +5,7 @@ Formats: [HTML](2011/11/10/index.html)  [JSON](2011/11/10/index.json)  [XML](201
 
 ##### Syria
 ### [Opposition activists claim that at least 38 people, including six children, have been killed by security forces across Syria: 16 in the city of Homs, 10 in Idlib, six in Hama, three in the suburbs of Damascus and three in Daraa. ](/news/2011/11/10/opposition-activists-claim-that-at-least-38-people-including-six-children-have-been-killed-by-security-forces-across-syria-16-in-the-city.md)
-_Context: Daraa, Hama, Syria, Idlib, Homs, Damascus_
+_Context: Syria, Damascus, Daraa, Homs, Idlib, Hama_
 
 ##### Hinchingbrooke Hospital
 ### [Hinchingbrooke Hospital in the English county of Cambridgeshire becomes the first NHS hospital to be run by a private firm. Healthcare partnership Circle has been awarded a ten-year contract, and will take over administration of the hospital &ndash; which has heavy financial debts &ndash; in February 2012. ](/news/2011/11/10/hinchingbrooke-hospital-in-the-english-county-of-cambridgeshire-becomes-the-first-nhs-hospital-to-be-run-by-a-private-firm-healthcare-partn.md)
@@ -25,7 +25,7 @@ _Context: Department of Labour, disaster, New Zealand, Pike River Mine_
 
 ##### Israel
 ### [Israel's Supreme Court upholds a seven-year rape sentence against former President Moshe Katsav. ](/news/2011/11/10/israel-s-supreme-court-upholds-a-seven-year-rape-sentence-against-former-president-moshe-katsav.md)
-_Context: Supreme Court, Israel, President, Moshe Katsav, rape_
+_Context: Moshe Katsav, Supreme Court, rape, President, Israel_
 
 ##### James Murdoch
 ### [James Murdoch, the chief executive of News International, makes his second appearance before the House of Commons Culture, Media and Sport Committee, as the News International phone hacking scandal continues. ](/news/2011/11/10/james-murdoch-the-chief-executive-of-news-international-makes-his-second-appearance-before-the-house-of-commons-culture-media-and-sport-c.md)
@@ -53,7 +53,7 @@ The Opposition says a change of leadership in Nauru will not impact its policy o
 
 ##### Libya
 ### [A former Libyan envoy to the Arab League confirms that Musa al-Sadr, an Iranian-Lebanese scholar, was executed by Libyan dictator Muammar Gaddafi in 1978. ](/news/2011/11/10/a-former-libyan-envoy-to-the-arab-league-confirms-that-musa-al-sadr-an-iranian-lebanese-scholar-was-executed-by-libyan-dictator-muammar-ga.md)
-_Context: Imam Moussa al-Sadr, Iranian-Lebanese scholar, Arab League, Libya, Muammar Gaddafi_
+_Context: Muammar Gaddafi, Libya, Imam Moussa al-Sadr, Arab League, Iranian-Lebanese scholar_
 
 ##### South Africa
 ### [In South Africa, controversial ANC Youth League leader Julius Malema is suspended from the country's ruling party for 5 years. ](/news/2011/11/10/in-south-africa-controversial-anc-youth-league-leader-julius-malema-is-suspended-from-the-country-s-ruling-party-for-5-years.md)
@@ -61,15 +61,15 @@ _Context: ANC, Julius Malema, South Africa_
 
 ##### Canadian
 ### [200,000 Canadian college and university students vote in favour of boycotting classes in Quebec. Thousands are expected to participate in a protest march against tuition fee increases in Montreal. ](/news/2011/11/10/200-000-canadian-college-and-university-students-vote-in-favour-of-boycotting-classes-in-quebec-thousands-are-expected-to-participate-in-a.md)
-_Context: Quebec, Montreal, Canadian, tuition fee_
+_Context: Quebec, Montreal, tuition fee, Canadian_
 
 ##### Virginia
 ### [Incumbent Virginia State Senator Edd Houck concedes defeat in the state elections, giving the Republican Party control over the Virginia General Assembly. ](/news/2011/11/10/incumbent-virginia-state-senator-edd-houck-concedes-defeat-in-the-state-elections-giving-the-republican-party-control-over-the-virginia-gen.md)
-_Context: Virginia, Virginia General Assembly, State Senator, Republican, Edd Houck, state elections_
+_Context: Edd Houck, Republican, Virginia, Virginia General Assembly, state elections, State Senator_
 
 ##### President of Liberia
 ### [The incumbent President of Liberia, Ellen Johnson Sirleaf, is declared the winner of the Liberian presidential election, gaining 90% of the vote following a boycott by opposition candidate Winston Tubman. ](/news/2011/11/10/the-incumbent-president-of-liberia-ellen-johnson-sirleaf-is-declared-the-winner-of-the-liberian-presidential-election-gaining-90-of-the.md)
-_Context: Ellen Johnson Sirleaf, Liberian presidential election, President of Liberia, Winston Tubman_
+_Context: Ellen Johnson Sirleaf, Winston Tubman, President of Liberia, Liberian presidential election_
 
 ## [Previous Day...](/news/2011/11/9/index.md)
 

@@ -9,23 +9,23 @@ Senator John McCain sought to move from a convention marked by an effort to reas
 
 ##### American
 ### [ Former United States political lobbyist Jack Abramoff is sentenced to four years in prison for his role in the Jack Abramoff scandals. ](/news/2008/09/4/former-united-states-political-lobbyist-jack-abramoff-is-sentenced-to-four-years-in-prison-for-his-role-in-the-jack-abramoff-scandals.md)
-_Context: Jack Abramoff, American, Jack Abramoff scandals, lobbyist_
+_Context: Jack Abramoff scandals, Jack Abramoff, American, lobbyist_
 
 ##### Flood
 ### [ The death toll from flooding in Haiti caused by Tropical Storm Hanna rises to 61. ](/news/2008/09/4/the-death-toll-from-flooding-in-haiti-caused-by-tropical-storm-hanna-rises-to-61.md)
-_Context: flood, Haiti, Tropical Storm Hanna_
+_Context: Tropical Storm Hanna, Haiti, flood_
 
 ##### Royal Thai Government
 ### [ The Government of Thailand agrees to hold a referendum to resolve the 2008 Thai political crisis. ](/news/2008/09/4/the-government-of-thailand-agrees-to-hold-a-referendum-to-resolve-the-2008-thai-political-crisis.md)
-_Context: referendum, assemble, Royal Thai Government_
+_Context: assemble, Royal Thai Government, referendum_
 
 ##### Tata Motors
 ### [ Tata Motors suspends work at its Tata Nano plant at Singur, West Bengal, due to continued agitations from the Trinamul Congress. ](/news/2008/09/4/tata-motors-suspends-work-at-its-tata-nano-plant-at-singur-west-bengal-due-to-continued-agitations-from-the-trinamul-congress.md)
-_Context: Tata Nano, Trinamul Congress, Singur, West Bengal, Tata Motors_
+_Context: Singur, Tata Nano, Tata Motors, Trinamul Congress, West Bengal_
 
 ##### Fermi National Accelerator Laboratory
 ### [ Physicists at the Fermi National Accelerator Laboratory report the discovery of the Bottom Omega-, a "doubly-strange" baryon containing two strange quarks and a bottom quark. ](/news/2008/09/4/physicists-at-the-fermi-national-accelerator-laboratory-report-the-discovery-of-the-bottom-omega-a-doubly-strange-baryon-containing-two.md)
-_Context: Fermi National Accelerator Laboratory, bottom quark, strange quark, baryon, Bottom Omega-, strange_
+_Context: strange quark, bottom quark, Fermi National Accelerator Laboratory, Bottom Omega-, baryon, strange_
 
 ## [Previous Day...](/news/2008/09/3/index.md)
 
