@@ -13,11 +13,15 @@ A state of emergency has been declared as New Zealand aid agencies gear to help.
 
 ##### Saratov Airlines Flight 703
 ### [Emergency teams comb snowy fields outside Moscow Monday for debris from a crashed Russian airliner and the remains of the 71 people who died. Transport Minister Maksim Sokolov says the search for victims' remains will take a week. He notes that emergency teams already have found the plane's flight data recorder, which is crucial for determining the crash's cause. ](/news/2018/02/12/emergency-teams-comb-snowy-fields-outside-moscow-monday-for-debris-from-a-crashed-russian-airliner-and-the-remains-of-the-71-people-who-died.md)
-_Context: Russian, flight data recorder, airliner, Emergency, Transport, Maksim Sokolov, Moscow, Saratov Airlines Flight 703_
+_Context: Transport, Moscow, airliner, Emergency, Russian, Maksim Sokolov, flight data recorder, Saratov Airlines Flight 703_
 
 ##### Movement of New Forces
 ### [According to his official Facebook page and his spokesperson, Mikheil Saakashvili is abducted by unknown camouflaged people in Kiev, Ukraine. They seized him and drove him away in a white van. The SBU and the General Prosecutor Office deny any involvement. Saakashvili's whereabouts are unknown. The Ukrainian Ministry of Internal Affairs confirms Saakashvili's detention. ](/news/2018/02/12/according-to-his-official-facebook-page-and-his-spokesperson-mikheil-saakashvili-is-abducted-by-unknown-camouflaged-people-in-kiev-ukraine.md)
 Last year Georgia’s former President Mikheil Saakashvili, who is well known for his extravagant behavior, warned that Ukraine’s President Petro Poroshenko wanted to kidnap him. Well, it might just have happened…
+
+##### Politics of the Netherlands
+### [Foreign Minister of the Netherlands Halbe Zijlstra admits to lying about a meeting he had with Vladimir Putin in 2006. Zijlstra claimed that Putin mentioned plans to expand Russia to include Belarus, Ukraine, and the Baltic states. ](/news/2018/02/12/foreign-minister-of-the-netherlands-halbe-zijlstra-admits-to-lying-about-a-meeting-he-had-with-vladimir-putin-in-2006-zijlstra-claimed-that.md)
+_Context: Vladimir Putin, Halbe Zijlstra, Politics of the Netherlands, expand, Russia, Foreign Minister of the Netherlands_
 
 ## [Previous Day...](/news/2018/02/11/index.md)
 
