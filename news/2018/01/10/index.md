@@ -9,7 +9,7 @@ Colombia&#8217;s military and ELN rebels resumed hostilities on Wednesday after 
 
 ##### Ivorian soldiers
 ### [Ivorian soldiers in Bouake attack the Coordination Center for Operational Decision-Making ("fr de Coordination des Decisions Operationnelles") military base, seizing their weaponry and setting the base on fire after accusations that the unit was spying on them. Last year the soldiers were involved in a series of mutinies. ](/news/2018/01/10/ivorian-soldiers-in-bouaka-c-attack-the-coordination-center-for-operational-decision-making-fr-de-coordination-des-da-c-cisions-opa-c-rationnel.md)
-_Context: series of mutinies, Ivorian soldiers, Bouake_
+_Context: Bouake, series of mutinies, Ivorian soldiers_
 
 ##### Rohingya persecution in Myanmar
 ### [Senior General Min Aung Hlaing posts on Facebook that Myanmar Army troops and Rakhine State villagers killed 10 Rohingya Muslims whose bodies were found in a mass grave in Inn Din village. This is the first time Myanmar's military has officially acknowledged extrajudicial actions against the Rohingya. Fortify Rights chief executive officer Matthew Smith says the two Reuters journalists who have been jailed since December 12, 2017, were investigating the same mass grave referenced by Min Aung Hlaing. ](/news/2018/01/10/senior-general-min-aung-hlaing-posts-on-facebook-that-myanmar-army-troops-and-rakhine-state-villagers-killed-10-rohingya-muslims-whose-bodie.md)

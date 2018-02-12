@@ -1,11 +1,31 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2018/02/11/index.md)
+## [News](/news/2018/02/12/index.md)
+
+##### Saratov Airlines Flight 703
+### [MOSCOW (AP) - Emergency teams combed snowy fields outside Moscow Monday for debris from a crashed Russian airliner and the remains of the 71 people who died. Transport Minister Maksim Sokolov said the search for victims' remains will take a week. He noted that emergency teams already have found the plane's flight data recorder, which is crucial for determining the crash's cause. ](/news/2018/02/12/moscow-ap-emergency-teams-combed-snowy-fields-outside-moscow-monday-for-debris-from-a-crashed-russian-airliner-and-the-remains-of-the-71.md)
+_Context: Moscow, Russian, Transport, airliner, Emergency, Maksim Sokolov, flight data recorder, Saratov Airlines Flight 703_
+
+##### London City Airport
+### [All flights to and from London's City Airport have been cancelled after an unexploded World War II bomb was discovered in the River Thames at George V Dock, the airport says.](/news/2018/02/12/all-flights-to-and-from-london-s-city-airport-have-been-cancelled-after-an-unexploded-world-war-ii-bomb-was-discovered-in-the-river-thames-a.md)
+_Context: World War II, Airport, unexploded, George V, flights, London City Airport, River Thames_
+
+##### Tropica
+### [Tonga is nervously waiting for a direct hit from Tropical Cyclone Gita - which is forecast to become a category 5 event. Tropical Cyclone Gita is due to make landfall about 7pm (local time is the same as NZT). It has strengthened overnight and is forecast to strike Tonga. A state of emergency has been declared in the island kingdom and it is thought the cyclone will be the strongest storm ever to hit Tonga in history. ](/news/2018/02/12/tonga-is-nervously-waiting-for-a-direct-hit-from-tropical-cyclone-gita-which-is-forecast-to-become-a-category-5-event-tropical-cyclone-gi.md)
+A state of emergency has been declared as New Zealand aid agencies gear to help.
+
+##### Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2018/02/11/index.md)
 
 ##### Concerns and controversies at the 2018 Winter Olympics
 ### [NBC fires analyst Joshua Cooper Ramo for comments he made during the 2018 Winter Olympics about Korea under Japanese rule, which he has since apologized for making. ](/news/2018/02/11/nbc-fires-analyst-joshua-cooper-ramo-for-comments-he-made-during-the-2018-winter-olympics-about-korea-under-japanese-rule-which-he-has-sinc.md)
-_Context: Concerns and controversies at the 2018 Winter Olympics, 2018 Winter Olympics, Joshua Cooper Ramo, Korea under Japanese rule, NBC_
+_Context: Korea under Japanese rule, Joshua Cooper Ramo, NBC, Concerns and controversies at the 2018 Winter Olympics, 2018 Winter Olympics_
 
 ##### Saratov Airlines Flight 703
 ### [An Antonov An-148 of Saratov Airlines with 71 people on board crashes shortly after take-off from Domodedovo Airport, Moscow, Russia. The TASS agency cites an emergency source stating that none of the 65 passengers and 6 crew members have survived. ](/news/2018/02/11/an-antonov-an-148-of-saratov-airlines-with-71-people-on-board-crashes-shortly-after-take-off-from-domodedovo-airport-moscow-russia-the-ta.md)
@@ -23,13 +43,9 @@ Iranian president issues call for unity in speech to mark 39th anniversary of Is
 ### [In provisional results with most votes in, the opposition SLPP (Rajapaksa) is projected to win 44.05% of the vote, the ruling coalition parties UNP (Wickremesinghe) and SLFP (Sirisena) gather 31.65% and 9.52% respectively. Rosy Senanayake (UNP) is set to become the first female mayor of the capital Colombo. ](/news/2018/02/11/in-provisional-results-with-most-votes-in-the-opposition-slpp-rajapaksa-is-projected-to-win-44-05-of-the-vote-the-ruling-coalition-part.md)
 Party backed by former President Mahinda Rajapaksa set to score landslide victory in key local elections.
 
-##### Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2018/02/10/index.md)
+## [Day Before Yesterday](/news/2018/02/10/index.md)
 
 ##### February 2018 Israel-Syria incident
 ### [The Israeli Army says that it shot down a Syrian UAV manufactured in Iran and, in response, it bombed the Tiyas Military Airbase in Homs Governorate, Syria, where it was launched from. ](/news/2018/02/10/the-israeli-army-says-that-it-shot-down-a-syrian-uav-manufactured-in-iran-and-in-response-it-bombed-the-tiyas-military-airbase-in-homs-gov.md)
@@ -57,63 +73,23 @@ Narendra Modi backs independent Palestinian state during first trip by an Indian
 
 ##### North Korea-South Korea relations
 ### [South Korean President Moon Jae-in hosts talks at the Blue House with North Korean President of the Presidium of the Supreme People's Assembly Kim Yong-nam and Kim Jong-Un's sister Kim Yo-jong. ](/news/2018/02/10/south-korean-president-moon-jae-in-hosts-talks-at-the-blue-house-with-north-korean-president-of-the-presidium-of-the-supreme-people-s-assemb.md)
-_Context: President of the Presidium of the Supreme People's Assembly, Kim Yong-nam, Moon Jae-in, North Korea, Kim Jong-Un, Blue House, South Korean President, Kim Yo-jong, North Korea-South Korea relations_
+_Context: South Korean President, Kim Yong-nam, North Korea, Moon Jae-in, Kim Jong-Un, North Korea-South Korea relations, Kim Yo-jong, Blue House, President of the Presidium of the Supreme People's Assembly_
 
 ##### Crime in Ohio
 ### [Two officers of the Westerville, Ohio Police Department are shot and killed (one died immediately, one later at the hospital) in an ambush-type attack which had begun as a domestic dispute between the male perpetrator, who was wounded during the incident, and his wife. ](/news/2018/02/10/two-officers-of-the-westerville-ohio-police-department-are-shot-and-killed-one-died-immediately-one-later-at-the-hospital-in-an-ambush-t.md)
-_Context: Westerville, Ohio, ambush, Crime in Ohio_
+_Context: ambush, Crime in Ohio, Westerville, Ohio_
 
 ##### Politics of the United States
 ### [Heath Hall, the acting Federal Railroad Administration chief, resigns "effective immediately" over a Politico report that he has a second job in Madison County, Mississippi. ](/news/2018/02/10/heath-hall-the-acting-federal-railroad-administration-chief-resigns-effective-immediately-over-a-politico-report-that-he-has-a-second-jo.md)
-_Context: Madison County, Mississippi, Federal Railroad Administration, Politics of the United States, Politico_
+_Context: Politico, Madison County, Mississippi, Politics of the United States, Federal Railroad Administration_
 
 ##### Politics of the Republic of Ireland
 ### [Mary Lou McDonald is confirmed in the position of president of Sinn Fein. She succeeds Gerry Adams, who was Sinn Fein's leader since 1983. ](/news/2018/02/10/mary-lou-mcdonald-is-confirmed-in-the-position-of-president-of-sinn-fa-c-in-she-succeeds-gerry-adams-who-was-sinn-fa-c-in-s-leader-since-1983.md)
-_Context: Sinn Fein, Gerry Adams, president of Sinn Fein, Politics of the Republic of Ireland, Mary Lou McDonald_
+_Context: Sinn Fein, Gerry Adams, Mary Lou McDonald, president of Sinn Fein, Politics of the Republic of Ireland_
 
 ---
 
-## [Day Before Yesterday](/news/2018/02/9/index.md)
-
-##### Trinity Mirror
-### [Trinity Mirror agrees to buy British publishing group Northern & Shell from Richard Desmond for GBP126.7 million. The deal gives Trinity Mirror ownership of the "Daily Express" and "Daily Star" newspapers. ](/news/2018/02/9/trinity-mirror-agrees-to-buy-british-publishing-group-northern-shell-from-richard-desmond-for-agbp126-7-million-the-deal-gives-trinity-mi.md)
-Richard Desmond agrees to sell newspapers along with celebrity magazine OK!
-
-##### Earthquakes in 2018
-### [A 5.8 magnitude earthquake strikes off the coast of the Mexican state of Jalisco, prompting evacuations in the tourist resort of Puerto Vallarta and is felt in the country's second-largest metropolitan area of Guadalajara. No casualties are reported. ](/news/2018/02/9/a-5-8-magnitude-earthquake-strikes-off-the-coast-of-the-mexican-state-of-jalisco-prompting-evacuations-in-the-tourist-resort-of-puerto-vall.md)
-_Context: Earthquakes in 2018, Jalisco, Puerto Vallarta, Guadalajara, Mexican, magnitude_
-
-##### IOS jailbreaking
-### [A Vice Motherboard report traces the origin of a significant iOS source code leak to an Apple intern and five "friends" in the iOS jailbreaking community. ](/news/2018/02/9/a-vice-motherboard-report-traces-the-origin-of-a-significant-ios-source-code-leak-to-an-apple-intern-and-five-friends-in-the-ios-jailbreak.md)
-Earlier this week, a portion of iOS source code was posted online to GitHub, and in an interesting twist, a new report from Motherboard reveals that the code was originally leaked by a former Apple intern. The Verge reports: According to Motherboard, the intern who stole the code took it and distri....
-
-##### Russian espionage in the United States
-### [The New York Times reports that the CIA handed $100,000 to an unnamed Russian intelligence source in a Berlin hotel room, allegedly expecting to get back stolen NSA hacking tools. ](/news/2018/02/9/the-new-york-times-reports-that-the-cia-handed-100-000-to-an-unnamed-russian-intelligence-source-in-a-berlin-hotel-room-allegedly-expectin.md)
-U.S. agents met the Russian in a Berlin hotel room with a suitcase full of cash.
-
-##### United States federal government shutdown of 2018
-### [The United States government runs out of funding for the second time this year, prompting another government shutdown. ](/news/2018/02/9/the-united-states-government-runs-out-of-funding-for-the-second-time-this-year-prompting-another-government-shutdown.md)
-Government funding expired at midnight after Senator Rand Paul of Kentucky held up the Senate’s vote on a budget deal that would keep federal agencies open.
-
-##### Presidency of Donald Trump
-### [Rachel Brand, Associate Attorney General since May 2017, plans to step down in the next several weeks in favor of a job in the private sector. ](/news/2018/02/9/rachel-brand-associate-attorney-general-since-may-2017-plans-to-step-down-in-the-next-several-weeks-in-favor-of-a-job-in-the-private-secto.md)
-_Context: Presidency of Donald Trump, Associate Attorney General, Rachel Brand_
-
-##### Politics of Turkey
-### [Turkey arrests 17 leaders of the left-wing Peoples' Democratic Party for opposition to the ongoing Afrin offensive. ](/news/2018/02/9/turkey-arrests-17-leaders-of-the-left-wing-peoples-democratic-party-for-opposition-to-the-ongoing-afrin-offensive.md)
-_Context: Turkish military operation in Afrin, Peoples' Democratic Party, Politics of Turkey, opposition, Turkey_
-
-##### Human genetics
-### [Researchers at the University of Edinburgh claim they have successfully brought prepubescent-sourced, immature human egg cells to maturity in a laboratory for the first time. The work may be significant because it may allow the harvesting and preservation of eggs from young girls undergoing toxic cancer treatment before their lifetime reservoirs of those cells are destroyed. ](/news/2018/02/9/researchers-at-the-university-of-edinburgh-claim-they-have-successfully-brought-prepubescent-sourced-immature-human-egg-cells-to-maturity-i.md)
-STUDY QUESTIONCan complete oocyte development be achieved from human ovarian tissue containing primordial/unilaminar follicles and grown in vitro in a multi-step culture to meiotic maturation demonstrated by the formation of polar bodies and a Metaphase II spindle?SUMMARY ANSWERDevelopment of human ...
-
-##### Asteroid close approaches to Earth in 2018
-### [As predicted, asteroid 2018 CB, estimated to be between 15 and 40 metres (50-130 feet) in diameter, makes a fly-by past Earth at a distance of around 64,500 km (40,100 mi). This is the second asteroid to make a fly-by this week. ](/news/2018/02/9/as-predicted-asteroid-2018-cb-estimated-to-be-between-15-and-40-metres-50a130-feet-in-diameter-makes-a-fly-by-past-earth-at-a-distanc.md)
-The space rock 2018 CB is up to 40m long and will come within 64,000km of the planet’s surface
-
----
-
-## [Previous Day...](/news/2018/02/8/index.md)
+## [Previous Day...](/news/2018/02/9/index.md)
 
 ---
 
