@@ -4,15 +4,20 @@ Formats: [HTML](/news/2018/02/12/foreign-minister-of-the-netherlands-halbe-zijls
 ### [2018-02-12](/news/2018/02/12/index.md)
 
 ##### Politics of the Netherlands
-# Foreign Minister of the Netherlands Halbe Zijlstra admits to lying about having attended a meeting with Vladimir Putin in 2006. Zijlstra had said that Putin mentioned plans to expand Russia to include Belarus, Ukraine, and the Baltic states but now says that he was not present and borrowed the story from a source.
+# Foreign Minister of the Netherlands Halbe Zijlstra admits to lying about having attended a meeting with Vladimir Putin in 2006. Zijlstra had said that Putin mentioned plans to expand Russia to include Belarus, Ukraine, and the Baltic states but now says that he was not present and borrowed the story from a source. 
 
 
 
+
+### Sources:
+
+1. [De Telegraaf](https://www.telegraaf.nl/nieuws/1660792/zijlstra-betuigt-spijt-over-leugen)
+2. [Politico.eu](https://www.politico.eu/article/dutch-foreign-minister-halbe-zijlstra-admits-to-lying-about-meeting-vladimir-putin/)
 
 ### Changes:
 
 1. [Foreign Minister of the Netherlands Halbe Zijlstra admits to lying about a meeting he had with Vladimir Putin in 2006. Zijlstra claimed that Putin mentioned plans to expand Russia to include Belarus, Ukraine, and the Baltic states. ](/news/2018/02/12/foreign-minister-of-the-netherlands-halbe-zijlstra-admits-to-lying-about-a-meeting-he-had-with-vladimir-putin-in-2006-zijlstra-claimed-that.md) _2018-02-12 16:30:23 (First version)_
-1. [Foreign Minister of the Netherlands Halbe Zijlstra admits to lying about having attended a meeting with Vladimir Putin in 2006. Zijlstra had said that Putin mentioned plans to expand Russia to include Belarus, Ukraine, and the Baltic states but now says that he was not present and borrowed the story from a source.](/news/2018/02/12/foreign-minister-of-the-netherlands-halbe-zijlstra-admits-to-lying-about-having-attended-a-meeting-with-vladimir-putin-in-2006-zijlstra-had.md) _(Current version)_
+1. [Foreign Minister of the Netherlands Halbe Zijlstra admits to lying about having attended a meeting with Vladimir Putin in 2006. Zijlstra had said that Putin mentioned plans to expand Russia to include Belarus, Ukraine, and the Baltic states but now says that he was not present and borrowed the story from a source. ](/news/2018/02/12/foreign-minister-of-the-netherlands-halbe-zijlstra-admits-to-lying-about-having-attended-a-meeting-with-vladimir-putin-in-2006-zijlstra-had.md) _(Current version)_
 
 ### Related:
 
