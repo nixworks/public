@@ -16,7 +16,7 @@ The charity is warned it must account for its actions or risk losing its governm
 Iranian president issues call for unity in speech to mark 39th anniversary of Islamic revolution
 
 ##### Sri Lankan local elections, 2018
-### [In provisional results with most votes in, the opposition SLPP (Rajapaksa) is projected to win 44.05% of the vote, the ruling coalition parties UNP (Wickremesinghe) and SLFP (Sirisena) gather 31.65% and 9.52% respectively. Rosy Senanayake (UNP) is set to become the first female mayor of the capital Colombo. ](/news/2018/02/11/in-provisional-results-with-most-votes-in-the-opposition-slpp-rajapaksa-is-projected-to-win-44-05-of-the-vote-the-ruling-coalition-part.md)
+### [The opposition SLPP (Rajapaksa) wins 44.65% of the vote, the ruling coalition parties UNP (Wickremesinghe) and UPFA (Sirisena) gather 32.63% and 8.94% respectively. Rosy Senanayake (UNP) becomes the first female mayor of the capital Colombo. ](/news/2018/02/11/the-opposition-slpp-rajapaksa-wins-44-65-of-the-vote-the-ruling-coalition-parties-unp-wickremesinghe-and-upfa-sirisena-gather-32-63.md)
 Party backed by former President Mahinda Rajapaksa set to score landslide victory in key local elections.
 
 ## [Previous Day...](/news/2018/02/10/index.md)

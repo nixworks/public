@@ -5,7 +5,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ##### Drone strikes in Pakistan
 ### [Tehrik-i-Taliban Pakistan (TTP) confirms its deputy leader Khalid Mehsud has been killed in a U.S. drone strike in North Waziristan, near the border with Afghanistan. ](/news/2018/02/12/tehrik-i-taliban-pakistan-ttp-confirms-its-deputy-leader-khalid-mehsud-has-been-killed-in-a-u-s-drone-strike-in-north-waziristan-near-th.md)
-_Context: Afghanistan, North Waziristan, Drone strikes in Pakistan, Tehrik-i-Taliban Pakistan, U.S., Khalid Mehsud_
+_Context: North Waziristan, Drone strikes in Pakistan, Khalid Mehsud, Afghanistan, U.S., Tehrik-i-Taliban Pakistan_
 
 ##### Egypt
 ### [Egypt bans "Saturday Night Live Arabia" for using "sexual expressions that are inappropriate for viewers". ](/news/2018/02/12/egypt-bans-saturday-night-live-arabia-for-using-sexual-expressions-that-are-inappropriate-for-viewers.md)
@@ -15,13 +15,9 @@ Latest season of satirical show with same format as US Saturday Night Live had j
 ### [All flights to and from London's City Airport have been cancelled after an unexploded World War II bomb was discovered in the River Thames at George V Dock, the airport says. ](/news/2018/02/12/all-flights-to-and-from-london-s-city-airport-have-been-cancelled-after-an-unexploded-world-war-ii-bomb-was-discovered-in-the-river-thames-a.md)
 Up to 16,000 London City Airport passengers are affected after the 500kg device was found.
 
-##### 2017-18 South Pacific cyclone season
-### [Tonga is nervously waiting for a direct hit from tropical cyclone Gita, forecast to become a category 5 event. Tropical cyclone Gita is due to make landfall about 7pm local time. It has strengthened overnight and is forecast to strike Tonga. A state of emergency has been declared in the island kingdom and it is thought the cyclone will be the strongest storm ever to hit Tonga in history. ](/news/2018/02/12/tonga-is-nervously-waiting-for-a-direct-hit-from-tropical-cyclone-gita-forecast-to-become-a-category-5-event-tropical-cyclone-gita-is-due.md)
-A state of emergency has been declared as New Zealand aid agencies gear to help.
-
 ##### Saratov Airlines Flight 703
 ### [Emergency teams comb snowy fields outside Moscow Monday for debris from a crashed Russian airliner and the remains of the 71 people who died. Transport Minister Maksim Sokolov says the search for victims' remains will take a week. He notes that emergency teams already have found the plane's flight data recorder, which is crucial for determining the crash's cause. ](/news/2018/02/12/emergency-teams-comb-snowy-fields-outside-moscow-monday-for-debris-from-a-crashed-russian-airliner-and-the-remains-of-the-71-people-who-died.md)
-_Context: Moscow, airliner, Emergency, Russian, Maksim Sokolov, Saratov Airlines Flight 703, flight data recorder, Transport_
+_Context: Transport, Russia, Moscow, Saratov Airlines Flight 703, Maksim Sokolov, airliner, Emergency, flight data recorder_
 
 ##### Ukrainian crisis
 ### [Mikheil Saakashvili, leader of the Movement of New Forces, was detained by Ministry of Internal Affairs in Kiev, and then deported from Ukraine. ](/news/2018/02/12/mikheil-saakashvili-leader-of-the-movement-of-new-forces-was-detained-by-ministry-of-internal-affairs-in-kiev-and-then-deported-from-ukra.md)
@@ -29,7 +25,7 @@ Last year Georgia’s former President Mikheil Saakashvili, who is well known fo
 
 ##### Politics of the Netherlands
 ### [Foreign Minister of the Netherlands Halbe Zijlstra admits to lying about having attended a meeting with Vladimir Putin in 2006. Zijlstra had said that Putin mentioned plans to expand Russia to include Belarus, Ukraine, and the Baltic states but now says that he was not present and borrowed the story from a source. ](/news/2018/02/12/foreign-minister-of-the-netherlands-halbe-zijlstra-admits-to-lying-about-having-attended-a-meeting-with-vladimir-putin-in-2006-zijlstra-had.md)
-_Context: Vladimir Putin, expand, Russia, Halbe Zijlstra, Politics of the Netherlands, Foreign Minister of the Netherlands_
+_Context: expand, Russia, Vladimir Putin, Foreign Minister of the Netherlands, Politics of the Netherlands, Halbe Zijlstra_
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -52,7 +48,7 @@ The charity is warned it must account for its actions or risk losing its governm
 Iranian president issues call for unity in speech to mark 39th anniversary of Islamic revolution
 
 ##### Sri Lankan local elections, 2018
-### [In provisional results with most votes in, the opposition SLPP (Rajapaksa) is projected to win 44.05% of the vote, the ruling coalition parties UNP (Wickremesinghe) and SLFP (Sirisena) gather 31.65% and 9.52% respectively. Rosy Senanayake (UNP) is set to become the first female mayor of the capital Colombo. ](/news/2018/02/11/in-provisional-results-with-most-votes-in-the-opposition-slpp-rajapaksa-is-projected-to-win-44-05-of-the-vote-the-ruling-coalition-part.md)
+### [The opposition SLPP (Rajapaksa) wins 44.65% of the vote, the ruling coalition parties UNP (Wickremesinghe) and UPFA (Sirisena) gather 32.63% and 8.94% respectively. Rosy Senanayake (UNP) becomes the first female mayor of the capital Colombo. ](/news/2018/02/11/the-opposition-slpp-rajapaksa-wins-44-65-of-the-vote-the-ruling-coalition-parties-unp-wickremesinghe-and-upfa-sirisena-gather-32-63.md)
 Party backed by former President Mahinda Rajapaksa set to score landslide victory in key local elections.
 
 ---
@@ -73,7 +69,7 @@ Photographs show double-decker bus lying on its side with its roof torn off near
 
 ##### West Java
 ### [A bus carrying local tourists crashes in West Java, Indonesia, killing at least 27 people. ](/news/2018/02/10/a-bus-carrying-local-tourists-crashes-in-west-java-indonesia-killing-at-least-27-people.md)
-_Context: West Java, Indonesia_
+_Context: Indonesia, West Java_
 
 ##### Helicopter
 ### [A Papillon Tours helicopter crashes in the Grand Canyon in the Southwestern United States, killing three people and injuring the other four on board. The six passengers were all British citizens. ](/news/2018/02/10/a-papillon-tours-helicopter-crashes-in-the-grand-canyon-in-the-southwestern-united-states-killing-three-people-and-injuring-the-other-four.md)
@@ -85,19 +81,19 @@ Narendra Modi backs independent Palestinian state during first trip by an Indian
 
 ##### North Korea-South Korea relations
 ### [South Korean President Moon Jae-in hosts talks at the Blue House with North Korean President of the Presidium of the Supreme People's Assembly Kim Yong-nam and Kim Jong-Un's sister Kim Yo-jong. ](/news/2018/02/10/south-korean-president-moon-jae-in-hosts-talks-at-the-blue-house-with-north-korean-president-of-the-presidium-of-the-supreme-people-s-assemb.md)
-_Context: Moon Jae-in, Kim Yong-nam, South Korean President, North Korea, Blue House, President of the Presidium of the Supreme People's Assembly, Kim Yo-jong, Kim Jong-Un, North Korea-South Korea relations_
+_Context: Kim Jong-Un, North Korea, Kim Yo-jong, North Korea-South Korea relations, Moon Jae-in, Kim Yong-nam, South Korean President, President of the Presidium of the Supreme People's Assembly, Blue House_
 
 ##### Crime in Ohio
 ### [Two officers of the Westerville, Ohio Police Department are shot and killed (one died immediately, one later at the hospital) in an ambush-type attack which had begun as a domestic dispute between the male perpetrator, who was wounded during the incident, and his wife. ](/news/2018/02/10/two-officers-of-the-westerville-ohio-police-department-are-shot-and-killed-one-died-immediately-one-later-at-the-hospital-in-an-ambush-t.md)
-_Context: Westerville, Ohio, Crime in Ohio, ambush_
+_Context: Westerville, Ohio, ambush, Crime in Ohio_
 
 ##### Politics of the United States
 ### [Heath Hall, the acting Federal Railroad Administration chief, resigns "effective immediately" over a Politico report that he has a second job in Madison County, Mississippi. ](/news/2018/02/10/heath-hall-the-acting-federal-railroad-administration-chief-resigns-effective-immediately-over-a-politico-report-that-he-has-a-second-jo.md)
-_Context: Politics of the United States, Madison County, Mississippi, Federal Railroad Administration, Politico_
+_Context: Politics of the United States, Federal Railroad Administration, Politico, Madison County, Mississippi_
 
 ##### Politics of the Republic of Ireland
 ### [Mary Lou McDonald is confirmed in the position of president of Sinn Fein. She succeeds Gerry Adams, who was Sinn Fein's leader since 1983. ](/news/2018/02/10/mary-lou-mcdonald-is-confirmed-in-the-position-of-president-of-sinn-fa-c-in-she-succeeds-gerry-adams-who-was-sinn-fa-c-in-s-leader-since-1983.md)
-_Context: Politics of the Republic of Ireland, president of Sinn Fein, Mary Lou McDonald, Gerry Adams, Sinn Fein_
+_Context: president of Sinn Fein, Gerry Adams, Sinn Fein, Politics of the Republic of Ireland, Mary Lou McDonald_
 
 ---
 
