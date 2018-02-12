@@ -4,15 +4,15 @@ Formats: [HTML](/news/2018/02/12/all-flights-to-and-from-london-s-city-airport-h
 ### [2018-02-12](/news/2018/02/12/index.md)
 
 ##### London City Airport
-# All flights to and from London's City Airport have been cancelled after an unexploded World War II bomb was discovered in the River Thames at George V Dock, the airport says.
+# All flights to and from London's City Airport have been cancelled after an unexploded World War II bomb was discovered in the River Thames at George V Dock, the airport says. 
 
-
+Up to 16,000 London City Airport passengers are affected after the 500kg device was found.
 
 
 ### Sources:
 
-1. [News.com](http://www.news.com.au/world/breaking-news/wwii-bomb-closes-london-city-airport/news-story/6bf3b0bdd52b7802ffa58d70f8bac69b)
-1. [Cover Image](https://s.wp.com/wp-content/themes/vip/newscorpau-nca/assets/dist/img/common/placeholders/newscomau-major.png)
+1. [BBC News](http://www.bbc.co.uk/news/uk-england-london-43027472)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/branded_news/108A5/production/_99994776_de52.jpg)
 
 ### Related:
 
