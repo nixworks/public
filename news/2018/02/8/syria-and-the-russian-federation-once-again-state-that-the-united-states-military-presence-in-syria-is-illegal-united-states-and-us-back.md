@@ -11,7 +11,8 @@ The overnight clash came after pro-government forces attacked a U.S.-backed base
 
 ### Sources:
 
-1. [The Washington Post](https://www.washingtonpost.com/world/middle_east/syria-accuses-us-of-aggression-after-its-warplanes-strike-pro-government-forces/2018/02/08/bab1502a-0cb4-11e8-8890-372e2047c935_story.html)
+1. [The Washington Post](https://www.washingtonpost.com/blogs/post-partisan/wp/2018/02/09/in-syria-russian-bad-faith-turns-fatal/)
+2. [The Washington Post](https://www.washingtonpost.com/world/middle_east/syria-accuses-us-of-aggression-after-its-warplanes-strike-pro-government-forces/2018/02/08/bab1502a-0cb4-11e8-8890-372e2047c935_story.html)
 
 ### Changes:
 

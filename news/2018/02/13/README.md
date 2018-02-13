@@ -17,11 +17,11 @@ Jacob Zuma is refusing to resign so his party has decided to issue a formal dema
 
 ##### Politics of the Netherlands
 ### [Halbe Zijlstra offers his resignation as Minister of Foreign Affairs of the Netherlands. Minister Sigrid Kaag takes over the portfolio ad interim. ](/news/2018/02/13/halbe-zijlstra-offers-his-resignation-as-minister-of-foreign-affairs-of-the-netherlands-minister-sigrid-kaag-takes-over-the-portfolio-ad-in.md)
-_Context: Sigrid Kaag, ad interim, Halbe Zijlstra, Minister of Foreign Affairs of the Netherlands, Minister, Politics of the Netherlands_
+_Context: Minister of Foreign Affairs of the Netherlands, Politics of the Netherlands, Minister, ad interim, Sigrid Kaag, Halbe Zijlstra_
 
 ##### Supersonic transport
 ### [A new plane that would fly from London to New York in three hours has just received crucial funding. The aircraft, officially named Quiet Supersonic Transport (QueSST) and dubbed the "Son of Concorde", was proposed by NASA and has just been given the go-ahead by US officials. QueSST could make its maiden voyage in 2021 if all goes according to plan. If so, it will halve the current travel time between London and New York. ](/news/2018/02/13/a-new-plane-that-would-fly-from-london-to-new-york-in-three-hours-has-just-received-crucial-funding-the-aircraft-officially-named-quiet-su.md)
-_Context: Quiet Supersonic Transport, Supersonic transport, Concorde, New York, NASA, travel, plane, London_
+_Context: Supersonic transport, London, travel, New York, NASA, Concorde, plane, Quiet Supersonic Transport_
 
 ## [Previous Day...](/news/2018/02/12/index.md)
 
