@@ -7,6 +7,10 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [South Africa's ruling ANC party formally requests that President Jacob Zuma step down after he refused to resign. ](/news/2018/02/13/south-africa-s-ruling-anc-party-formally-requests-that-president-jacob-zuma-step-down-after-he-refused-to-resign.md)
 Jacob Zuma is refusing to resign so his party has decided to issue a formal demand, reports say.
 
+##### Plane
+### [A new plane that would fly from London to New York in three hours has just received crucial funding. The aircraft, dubbed the 'Son of Concorde', was proposed by Nasa and has just been given the go-ahead by US officials. QueSST could make its maiden voyage in 2021 if all goes according to plan. If so, it will halve the current travel time between London and New York. Nasa has been awarded GBP14.3 billion in the latest US budget, around GBP360 million more than last year - although it is not clear how much of this will fund production of the Son of Concorde. ](/news/2018/02/13/a-new-plane-that-would-fly-from-london-to-new-york-in-three-hours-has-just-received-crucial-funding-the-aircraft-dubbed-the-ason-of-conc.md)
+_Context: travel, US, Son of Concorde, billion, Nasa, London, plane, New York, Son of Concorde_
+
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
@@ -17,7 +21,7 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ##### Drone strikes in Pakistan
 ### [Tehrik-i-Taliban Pakistan (TTP) confirms its deputy leader Khalid Mehsud has been killed in a U.S. drone strike in North Waziristan, near the border with Afghanistan. ](/news/2018/02/12/tehrik-i-taliban-pakistan-ttp-confirms-its-deputy-leader-khalid-mehsud-has-been-killed-in-a-u-s-drone-strike-in-north-waziristan-near-th.md)
-_Context: North Waziristan, Afghanistan, U.S., Drone strikes in Pakistan, Khalid Mehsud, Tehrik-i-Taliban Pakistan_
+_Context: Drone strikes in Pakistan, Khalid Mehsud, Tehrik-i-Taliban Pakistan, North Waziristan, Afghanistan, U.S._
 
 ##### Egypt
 ### [Egypt bans "Saturday Night Live Arabia" for using "sexual expressions that are inappropriate for viewers". ](/news/2018/02/12/egypt-bans-saturday-night-live-arabia-for-using-sexual-expressions-that-are-inappropriate-for-viewers.md)
@@ -29,11 +33,11 @@ Up to 16,000 London City Airport passengers are affected after the 500kg device 
 
 ##### 2017-18 South Pacific cyclone season
 ### [Tonga is directly hit by Cyclone Gita, causing heavy damage to the country as well as destroying its parliament building. Gita is the strongest storm to hit Tonga in its history. ](/news/2018/02/12/tonga-is-directly-hit-by-cyclone-gita-causing-heavy-damage-to-the-country-as-well-as-destroying-its-parliament-building-gita-is-the-strong.md)
-_Context: Tonga, 2017-18 South Pacific cyclone season, Cyclone Gita_
+_Context: 2017-18 South Pacific cyclone season, Tonga, Cyclone Gita_
 
 ##### Saratov Airlines Flight 703
 ### [Emergency teams comb snowy fields outside Moscow Monday for debris from a crashed Russian airliner and the remains of the 71 people who died. Transport Minister Maksim Sokolov says that emergency teams have already found the plane's flight data recorder, which will help them determine the crash's cause, but notes that the search for the victims' remains will take at least a week. ](/news/2018/02/12/emergency-teams-comb-snowy-fields-outside-moscow-monday-for-debris-from-a-crashed-russian-airliner-and-the-remains-of-the-71-people-who-died.md)
-_Context: Emergency, airliner, Transport, Russia, Saratov Airlines Flight 703, Maksim Sokolov, Moscow, flight data recorder_
+_Context: Moscow, Emergency, flight data recorder, Saratov Airlines Flight 703, Transport, Russia, Maksim Sokolov, airliner_
 
 ##### Cyprus-Turkey maritime zones dispute
 ### [The European Union urges calm and restraint after Turkish Navy warships obstruct a Cypriot offshore drilling vessel in the Eastern Mediterranean, which was approaching an area to explore for natural gas. ](/news/2018/02/12/the-european-union-urges-calm-and-restraint-after-turkish-navy-warships-obstruct-a-cypriot-offshore-drilling-vessel-in-the-eastern-mediterra.md)
@@ -45,11 +49,11 @@ Last year Georgia’s former President Mikheil Saakashvili, who is well known fo
 
 ##### Politics of the Netherlands
 ### [Foreign Minister of the Netherlands Halbe Zijlstra admits to lying about having attended a meeting with Vladimir Putin in 2006. Zijlstra had said that Putin mentioned plans to expand Russia to include Belarus, Ukraine, and the Baltic states but now says that he was not present and borrowed the story from a source. ](/news/2018/02/12/foreign-minister-of-the-netherlands-halbe-zijlstra-admits-to-lying-about-having-attended-a-meeting-with-vladimir-putin-in-2006-zijlstra-had.md)
-_Context: Halbe Zijlstra, Foreign Minister of the Netherlands, expand, Politics of the Netherlands, Russia, Vladimir Putin_
+_Context: Russia, Halbe Zijlstra, Vladimir Putin, expand, Politics of the Netherlands, Foreign Minister of the Netherlands_
 
 ##### Politics of New Zealand
 ### [Former Prime Minister Bill English resigns as National Party leader. ](/news/2018/02/12/former-prime-minister-bill-english-resigns-as-national-party-leader.md)
-_Context: Politics of New Zealand, Bill English, Prime Minister, National Party_
+_Context: Politics of New Zealand, Prime Minister, Bill English, National Party_
 
 ##### Presidency of Donald Trump
 ### [U.S. President Donald Trump introduces his US$1.5 trillion federal infrastructure plan to several governors and mayors at the White House. ](/news/2018/02/12/u-s-president-donald-trump-introduces-his-us-1-5-trillion-federal-infrastructure-plan-to-several-governors-and-mayors-at-the-white-house.md)
