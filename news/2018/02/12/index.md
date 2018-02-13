@@ -5,23 +5,23 @@ Formats: [HTML](2018/02/12/index.html)  [JSON](2018/02/12/index.json)  [XML](201
 
 ##### Drone strikes in Pakistan
 ### [Tehrik-i-Taliban Pakistan (TTP) confirms its deputy leader Khalid Mehsud has been killed in a U.S. drone strike in North Waziristan, near the border with Afghanistan. ](/news/2018/02/12/tehrik-i-taliban-pakistan-ttp-confirms-its-deputy-leader-khalid-mehsud-has-been-killed-in-a-u-s-drone-strike-in-north-waziristan-near-th.md)
-_Context: Tehrik-i-Taliban Pakistan, U.S., Khalid Mehsud, Drone strikes in Pakistan, Afghanistan, North Waziristan_
+_Context: Khalid Mehsud, Afghanistan, U.S., Drone strikes in Pakistan, North Waziristan, Tehrik-i-Taliban Pakistan_
 
 ##### Egypt
 ### [Egypt bans "Saturday Night Live Arabia" for using "sexual expressions that are inappropriate for viewers". ](/news/2018/02/12/egypt-bans-saturday-night-live-arabia-for-using-sexual-expressions-that-are-inappropriate-for-viewers.md)
 Latest season of satirical show with same format as US Saturday Night Live had just ended
 
-##### London's City
-### [All flights to and from London's City Airport have been cancelled after an unexploded World War II bomb was discovered in the River Thames at George V Dock, the airport says. ](/news/2018/02/12/all-flights-to-and-from-london-s-city-airport-have-been-cancelled-after-an-unexploded-world-war-ii-bomb-was-discovered-in-the-river-thames-a.md)
+##### London City Airport
+### [All flights to and from London City Airport were cancelled after an unexploded World War II bomb was discovered in the River Thames at King George V Dock. ](/news/2018/02/12/all-flights-to-and-from-london-city-airport-were-cancelled-after-an-unexploded-world-war-ii-bomb-was-discovered-in-the-river-thames-at-king.md)
 Up to 16,000 London City Airport passengers are affected after the 500kg device was found.
 
 ##### 2017-18 South Pacific cyclone season
-### [Tonga is directly hit by Cyclone Gita, causing excessive damage to the country as well as destroying the Houses of Parliament. Gita is the strongest storm ever to hit Tonga. ](/news/2018/02/12/tonga-is-directly-hit-by-cyclone-gita-causing-excessive-damage-to-the-country-as-well-as-destroying-the-houses-of-parliament-gita-is-the-s.md)
-_Context: 2017-18 South Pacific cyclone season, Tonga, Cyclone Gita_
+### [Tonga is directly hit by Cyclone Gita, causing excessive damage to the country as well as destroying its parliament building. Gita is the strongest storm to hit Tonga in its history. ](/news/2018/02/12/tonga-is-directly-hit-by-cyclone-gita-causing-excessive-damage-to-the-country-as-well-as-destroying-its-parliament-building-gita-is-the-st.md)
+_Context: Tonga, 2017-18 South Pacific cyclone season, Cyclone Gita_
 
 ##### Saratov Airlines Flight 703
-### [Emergency teams comb snowy fields outside Moscow Monday for debris from a crashed Russian airliner and the remains of the 71 people who died. Transport Minister Maksim Sokolov says the search for victims' remains will take a week. He notes that emergency teams already have found the plane's flight data recorder, which is crucial for determining the crash's cause. ](/news/2018/02/12/emergency-teams-comb-snowy-fields-outside-moscow-monday-for-debris-from-a-crashed-russian-airliner-and-the-remains-of-the-71-people-who-died.md)
-_Context: Emergency, Russia, Maksim Sokolov, airliner, Saratov Airlines Flight 703, Transport, Moscow, flight data recorder_
+### [Emergency teams comb snowy fields outside Moscow Monday for debris from a crashed Russian airliner and the remains of the 71 people who died. Transport Minister Maksim Sokolov says that emergency teams have already found the plane's flight data recorder, which will help them determine the crash's cause, but notes that the search for the victims' remains will take at least a week. ](/news/2018/02/12/emergency-teams-comb-snowy-fields-outside-moscow-monday-for-debris-from-a-crashed-russian-airliner-and-the-remains-of-the-71-people-who-died.md)
+_Context: Emergency, Moscow, Transport, flight data recorder, Maksim Sokolov, Russia, airliner, Saratov Airlines Flight 703_
 
 ##### Cyprus-Turkey maritime zones dispute
 ### [The European Union urges calm and restraint after Turkish Navy warships obstruct a Cypriot offshore drilling vessel in the Eastern Mediterranean, which was approaching an area to explore for natural gas. ](/news/2018/02/12/the-european-union-urges-calm-and-restraint-after-turkish-navy-warships-obstruct-a-cypriot-offshore-drilling-vessel-in-the-eastern-mediterra.md)
@@ -33,11 +33,11 @@ Last year Georgia’s former President Mikheil Saakashvili, who is well known fo
 
 ##### Politics of the Netherlands
 ### [Foreign Minister of the Netherlands Halbe Zijlstra admits to lying about having attended a meeting with Vladimir Putin in 2006. Zijlstra had said that Putin mentioned plans to expand Russia to include Belarus, Ukraine, and the Baltic states but now says that he was not present and borrowed the story from a source. ](/news/2018/02/12/foreign-minister-of-the-netherlands-halbe-zijlstra-admits-to-lying-about-having-attended-a-meeting-with-vladimir-putin-in-2006-zijlstra-had.md)
-_Context: expand, Russia, Politics of the Netherlands, Vladimir Putin, Halbe Zijlstra, Foreign Minister of the Netherlands_
+_Context: Vladimir Putin, Halbe Zijlstra, expand, Politics of the Netherlands, Foreign Minister of the Netherlands, Russia_
 
 ##### Politics of New Zealand
-### [Former prime minister Bill English resigns as National Party leader. ](/news/2018/02/12/former-prime-minister-bill-english-resigns-as-national-party-leader.md)
-_Context: National Party, prime minister, Politics of New Zealand, Bill English_
+### [Former Prime Minister Bill English resigns as National Party leader. ](/news/2018/02/12/former-prime-minister-bill-english-resigns-as-national-party-leader.md)
+_Context: Prime Minister, Politics of New Zealand, Bill English, National Party_
 
 ##### Presidency of Donald Trump
 ### [U.S. President Donald Trump introduces his US$1.5 trillion federal infrastructure plan to several governors and mayors at the White House. ](/news/2018/02/12/u-s-president-donald-trump-introduces-his-us-1-5-trillion-federal-infrastructure-plan-to-several-governors-and-mayors-at-the-white-house.md)
