@@ -12,7 +12,7 @@ The Russian regional airliner went down within minutes, killing all 71 people on
 ### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-43024235)
-2. [Le Figaro](http://basmatek.com/watch.php?vid=1c756996a)
+2. [Reuters via ''The Daily Star](http://www.dailystar.com.lb/News/World/2018/Feb-11/437607-saratov-airlines-plane-crashes-near-moscow-71-people-feared-dead-interfax.ashx)
 2. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p05xty0w.jpg)
 
 ### Changes:
