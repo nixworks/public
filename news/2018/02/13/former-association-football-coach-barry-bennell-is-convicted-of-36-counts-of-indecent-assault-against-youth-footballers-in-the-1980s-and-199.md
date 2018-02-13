@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/02/13/former-association-football-coach-barry-bennell
 
 ### [2018-02-13](/news/2018/02/13/index.md)
 
-##### Association football
+##### United Kingdom football sexual abuse scandal
 # Former association football coach Barry Bennell is convicted of 36 counts of indecent assault against youth footballers in the 1980s and 1990s, following a trial at Liverpool Crown Court. 
 
 Former football coach Barry Bennell is found guilty dozens of sex offences against boys in the 1980s.

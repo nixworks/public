@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/13/a-new-plane-that-would-fly-from-london-to-new-y
 ### [2018-02-13](/news/2018/02/13/index.md)
 
 ##### Supersonic transport
-# A new plane that would fly from London to New York in three hours has just received crucial funding. The aircraft, officially named Quiet Supersonic Transport (QueSST) and dubbed the 'Son of Concorde', was proposed by NASA and has just been given the go-ahead by US officials. QueSST could make its maiden voyage in 2021 if all goes according to plan. If so, it will halve the current travel time between London and New York. 
+# A new plane that would fly from London to New York in three hours has just received crucial funding. The aircraft, officially named Quiet Supersonic Transport (QueSST) and dubbed the "Son of Concorde", was proposed by NASA and has just been given the go-ahead by US officials. QueSST could make its maiden voyage in 2021 if all goes according to plan. If so, it will halve the current travel time between London and New York. 
 
 
 
@@ -17,7 +17,7 @@ Formats: [HTML](/news/2018/02/13/a-new-plane-that-would-fly-from-london-to-new-y
 ### Changes:
 
 1. [A new plane that would fly from London to New York in three hours has just received crucial funding. The aircraft, dubbed the 'Son of Concorde', was proposed by NASA and has just been given the go-ahead by US officials. QueSST could make its maiden voyage in 2021 if all goes according to plan. If so, it will halve the current travel time between London and New York. NASA has been awarded GBP14.3 billion in the latest US budget, around GBP360 million more than last year - although it is not clear how much of this will fund production of the Son of Concorde. ](/news/2018/02/13/a-new-plane-that-would-fly-from-london-to-new-york-in-three-hours-has-just-received-crucial-funding-the-aircraft-dubbed-the-ason-of-conc.md) _2018-02-13 16:30:24 (First version)_
-1. [A new plane that would fly from London to New York in three hours has just received crucial funding. The aircraft, officially named Quiet Supersonic Transport (QueSST) and dubbed the 'Son of Concorde', was proposed by NASA and has just been given the go-ahead by US officials. QueSST could make its maiden voyage in 2021 if all goes according to plan. If so, it will halve the current travel time between London and New York. ](/news/2018/02/13/a-new-plane-that-would-fly-from-london-to-new-york-in-three-hours-has-just-received-crucial-funding-the-aircraft-officially-named-quiet-su.md) _(Current version)_
+1. [A new plane that would fly from London to New York in three hours has just received crucial funding. The aircraft, officially named Quiet Supersonic Transport (QueSST) and dubbed the "Son of Concorde", was proposed by NASA and has just been given the go-ahead by US officials. QueSST could make its maiden voyage in 2021 if all goes according to plan. If so, it will halve the current travel time between London and New York. ](/news/2018/02/13/a-new-plane-that-would-fly-from-london-to-new-york-in-three-hours-has-just-received-crucial-funding-the-aircraft-officially-named-quiet-su.md) _(Current version)_
 
 ### Related:
 

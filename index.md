@@ -3,11 +3,11 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/02/13/index.md)
 
-##### Israeli military court
+##### Israeli-Palestinian conflict
 ### [In closed-door proceedings at an Israeli military court in Ofer Prison, near Ramallah, 17-year-old Palestinian activist Ahed Tamimi is indicted on 12 counts of assault and incitement. She is ordered held until the end of the trial, which is adjourned until next month. ](/news/2018/02/13/in-closed-door-proceedings-at-an-israeli-military-court-in-ofer-prison-near-ramallah-17-year-old-palestinian-activist-ahed-tamimi-is-indic.md)
 A Palestinian teenage girl filmed slapping an Israeli soldier and hailed as a hero by Palestinians, has gone on trial Wednesday in an Israeli military court in the West Bank.
 
-##### Association football
+##### United Kingdom football sexual abuse scandal
 ### [Former association football coach Barry Bennell is convicted of 36 counts of indecent assault against youth footballers in the 1980s and 1990s, following a trial at Liverpool Crown Court. ](/news/2018/02/13/former-association-football-coach-barry-bennell-is-convicted-of-36-counts-of-indecent-assault-against-youth-footballers-in-the-1980s-and-199.md)
 Former football coach Barry Bennell is found guilty dozens of sex offences against boys in the 1980s.
 
@@ -16,12 +16,12 @@ Former football coach Barry Bennell is found guilty dozens of sex offences again
 Jacob Zuma is refusing to resign so his party has decided to issue a formal demand, reports say.
 
 ##### Politics of the Netherlands
-### [Halbe Zijlstra resigns as Minister of Foreign Affairs of the Netherlands. ](/news/2018/02/13/halbe-zijlstra-resigns-as-minister-of-foreign-affairs-of-the-netherlands.md)
-_Context: Minister of Foreign Affairs of the Netherlands, Halbe Zijlstra, Politics of the Netherlands_
+### [Halbe Zijlstra offers his resignation as Minister of Foreign Affairs of the Netherlands. Minister Sigrid Kaag takes over the portfolio ad interim. ](/news/2018/02/13/halbe-zijlstra-offers-his-resignation-as-minister-of-foreign-affairs-of-the-netherlands-minister-sigrid-kaag-takes-over-the-portfolio-ad-in.md)
+_Context: Sigrid Kaag, ad interim, Halbe Zijlstra, Minister of Foreign Affairs of the Netherlands, Minister, Politics of the Netherlands_
 
 ##### Supersonic transport
-### [A new plane that would fly from London to New York in three hours has just received crucial funding. The aircraft, officially named Quiet Supersonic Transport (QueSST) and dubbed the 'Son of Concorde', was proposed by NASA and has just been given the go-ahead by US officials. QueSST could make its maiden voyage in 2021 if all goes according to plan. If so, it will halve the current travel time between London and New York. ](/news/2018/02/13/a-new-plane-that-would-fly-from-london-to-new-york-in-three-hours-has-just-received-crucial-funding-the-aircraft-officially-named-quiet-su.md)
-_Context: Supersonic transport, London, New York, NASA, travel, plane, Concorde, Quiet Supersonic Transport_
+### [A new plane that would fly from London to New York in three hours has just received crucial funding. The aircraft, officially named Quiet Supersonic Transport (QueSST) and dubbed the "Son of Concorde", was proposed by NASA and has just been given the go-ahead by US officials. QueSST could make its maiden voyage in 2021 if all goes according to plan. If so, it will halve the current travel time between London and New York. ](/news/2018/02/13/a-new-plane-that-would-fly-from-london-to-new-york-in-three-hours-has-just-received-crucial-funding-the-aircraft-officially-named-quiet-su.md)
+_Context: Quiet Supersonic Transport, Supersonic transport, Concorde, New York, NASA, travel, plane, London_
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -33,7 +33,7 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ##### Drone strikes in Pakistan
 ### [Tehrik-i-Taliban Pakistan (TTP) confirms its deputy leader Khalid Mehsud has been killed in a U.S. drone strike in North Waziristan, near the border with Afghanistan. ](/news/2018/02/12/tehrik-i-taliban-pakistan-ttp-confirms-its-deputy-leader-khalid-mehsud-has-been-killed-in-a-u-s-drone-strike-in-north-waziristan-near-th.md)
-_Context: Afghanistan, North Waziristan, Drone strikes in Pakistan, Tehrik-i-Taliban Pakistan, U.S., Khalid Mehsud_
+_Context: Khalid Mehsud, Drone strikes in Pakistan, North Waziristan, Tehrik-i-Taliban Pakistan, Afghanistan, U.S._
 
 ##### Egypt
 ### [Egypt bans "Saturday Night Live Arabia" for using "sexual expressions that are inappropriate for viewers". ](/news/2018/02/12/egypt-bans-saturday-night-live-arabia-for-using-sexual-expressions-that-are-inappropriate-for-viewers.md)
@@ -45,11 +45,11 @@ Up to 16,000 London City Airport passengers are affected after the 500kg device 
 
 ##### 2017-18 South Pacific cyclone season
 ### [Tonga is directly hit by Cyclone Gita, causing heavy damage to the country as well as destroying its parliament building. Gita is the strongest storm to hit Tonga in its history. ](/news/2018/02/12/tonga-is-directly-hit-by-cyclone-gita-causing-heavy-damage-to-the-country-as-well-as-destroying-its-parliament-building-gita-is-the-strong.md)
-_Context: Cyclone Gita, 2017-18 South Pacific cyclone season, Tonga_
+_Context: Tonga, 2017-18 South Pacific cyclone season, Cyclone Gita_
 
 ##### Saratov Airlines Flight 703
 ### [Emergency teams comb snowy fields outside Moscow Monday for debris from a crashed Russian airliner and the remains of the 71 people who died. Transport Minister Maksim Sokolov says that emergency teams have already found the plane's flight data recorder, which will help them determine the crash's cause, but notes that the search for the victims' remains will take at least a week. ](/news/2018/02/12/emergency-teams-comb-snowy-fields-outside-moscow-monday-for-debris-from-a-crashed-russian-airliner-and-the-remains-of-the-71-people-who-died.md)
-_Context: Transport, Emergency, Saratov Airlines Flight 703, Maksim Sokolov, flight data recorder, Moscow, airliner, Russia_
+_Context: flight data recorder, Maksim Sokolov, Russia, Saratov Airlines Flight 703, Moscow, Emergency, Transport, airliner_
 
 ##### Cyprus-Turkey maritime zones dispute
 ### [The European Union urges calm and restraint after Turkish Navy warships obstruct a Cypriot offshore drilling vessel in the Eastern Mediterranean, which was approaching an area to explore for natural gas. ](/news/2018/02/12/the-european-union-urges-calm-and-restraint-after-turkish-navy-warships-obstruct-a-cypriot-offshore-drilling-vessel-in-the-eastern-mediterra.md)
@@ -61,11 +61,11 @@ Last year Georgia’s former President Mikheil Saakashvili, who is well known fo
 
 ##### Politics of the Netherlands
 ### [Foreign Minister of the Netherlands Halbe Zijlstra admits to lying about having attended a meeting with Vladimir Putin in 2006. Zijlstra had said that Putin mentioned plans to expand Russia to include Belarus, Ukraine, and the Baltic states but now says that he was not present and borrowed the story from a source. ](/news/2018/02/12/foreign-minister-of-the-netherlands-halbe-zijlstra-admits-to-lying-about-having-attended-a-meeting-with-vladimir-putin-in-2006-zijlstra-had.md)
-_Context: Vladimir Putin, Politics of the Netherlands, Foreign Minister of the Netherlands, Halbe Zijlstra, Russia, expand_
+_Context: Foreign Minister of the Netherlands, Russia, Politics of the Netherlands, Vladimir Putin, expand, Halbe Zijlstra_
 
 ##### Politics of New Zealand
 ### [Former Prime Minister Bill English resigns as National Party leader. ](/news/2018/02/12/former-prime-minister-bill-english-resigns-as-national-party-leader.md)
-_Context: Bill English, National Party, Prime Minister, Politics of New Zealand_
+_Context: Bill English, Politics of New Zealand, Prime Minister, National Party_
 
 ##### Presidency of Donald Trump
 ### [U.S. President Donald Trump introduces his US$1.5 trillion federal infrastructure plan to several governors and mayors at the White House. ](/news/2018/02/12/u-s-president-donald-trump-introduces-his-us-1-5-trillion-federal-infrastructure-plan-to-several-governors-and-mayors-at-the-white-house.md)
