@@ -9,7 +9,7 @@ Residents form a human chain in a bid to halt troops from sweeping into the coas
 
 ##### Civil war
 ### [The Libyan Armed Forces bomb large fuel storage tanks in the town of Misrata, destroying the tanks and causing a large fire. ](/news/2011/05/7/the-libyan-armed-forces-bomb-large-fuel-storage-tanks-in-the-town-of-misrata-destroying-the-tanks-and-causing-a-large-fire.md)
-_Context: Misrata, its armed forces, civil war_
+_Context: its armed forces, civil war, Misrata_
 
 ##### Nigeria
 ### [Sectarian violence in northern Nigeria kills at least 16 people. ](/news/2011/05/7/sectarian-violence-in-northern-nigeria-kills-at-least-16-people.md)
@@ -23,7 +23,7 @@ The&#x20;Taliban&#x20;claimed&#x20;responsibility&#x20;for&#x20;a&#x20;wave&#x20
 ### [Al Qaeda in the Islamic Maghreb denies responsibility for a bomb attack on a Marrakesh cafe that killed 16 people on April 28. ](/news/2011/05/7/al-qaeda-in-the-islamic-maghreb-denies-responsibility-for-a-bomb-attack-on-a-marrakesh-cafe-that-killed-16-people-on-april-28.md)
 Al Qaeda in the Islamic Maghreb (AQIM) denied Saturday it was involved in a bomb attack on a cafe in Marrakesh last week that killed 17 people including eight French nationals.
 
-##### American
+##### U.S.
 ### [The United States releases videos of Osama bin Laden captured in last Sunday's raid. ](/news/2011/05/7/the-united-states-releases-videos-of-osama-bin-laden-captured-in-last-sunday-s-raid.md)
 Video footage recorded at Osama bin Laden&#39;s compound in Abbottabad, Pakistan, shows the al-Qaida founder watching himself on TV, The Associated Press reported. 
 
@@ -37,7 +37,7 @@ Tunisia&#x27;s&#x20;government&#x20;declared&#x20;an&#x20;overnight&#x20;curfew&
 
 ##### Sony
 ### [Sony states that it will delay the restart of its PlayStation Network following the PlayStation Network outage, and that it has managed to remove user data that had been posted online by a third party. ](/news/2011/05/7/sony-states-that-it-will-delay-the-restart-of-its-playstation-network-following-the-playstation-network-outage-and-that-it-has-managed-to-r.md)
-_Context: Sony, PlayStation Network outage, PlayStation Network_
+_Context: PlayStation Network, Sony, PlayStation Network outage_
 
 ##### Merpati Nusantara Airlines
 ### [A Merpati Nusantara Airlines Xian MA60 passenger plane with 25 passengers crashes into the sea near the Indonesian province of West Papua with no survivors. ](/news/2011/05/7/a-merpati-nusantara-airlines-xian-ma60-passenger-plane-with-25-passengers-crashes-into-the-sea-near-the-indonesian-province-of-west-papua-wi.md)
@@ -49,15 +49,15 @@ _Context: Bolivia, United Nations_
 
 ##### China
 ### [China, Kyrgyzstan and Tajikistan conduct an anti-terror drill in the restive Xinjiang region of western China. ](/news/2011/05/7/china-kyrgyzstan-and-tajikistan-conduct-an-anti-terror-drill-in-the-restive-xinjiang-region-of-western-china.md)
-_Context: China, Xinjiang, Tajikistan, Kyrgyzstan_
+_Context: Kyrgyzstan, Tajikistan, China, Xinjiang_
 
 ##### Russia
 ### [Three Russian human rights activists monitoring trials of opposition activists in Belarus are expelled. ](/news/2011/05/7/three-russian-human-rights-activists-monitoring-trials-of-opposition-activists-in-belarus-are-expelled.md)
-_Context: Belarus, Russia_
+_Context: Russia, Belarus_
 
 ##### Yomiuri
 ### [The "Yomiuri" reports that Japan and the United States have given up on plans to relocate Marine Corps Air Station Futenma from Okinawa by 2014. ](/news/2011/05/7/the-yomiuri-reports-that-japan-and-the-united-states-have-given-up-on-plans-to-relocate-marine-corps-air-station-futenma-from-okinawa-by-2.md)
-_Context: American, Japan, Okinawa, Marine Corps Air Station Futenma, Yomiuri_
+_Context: Okinawa, Yomiuri, Marine Corps Air Station Futenma, Japan, U.S._
 
 ##### People's Action Party
 ### [The ruling People's Action Party retains control of government, winning 81 of 87 seats. ](/news/2011/05/7/the-ruling-people-s-action-party-retains-control-of-government-winning-81-of-87-seats.md)
@@ -65,11 +65,11 @@ Singapore’s long-governing People’s Action Party (PAP) won an absolute parli
 
 ##### Scottish National Party
 ### [The Scottish National Party urges British Prime Minister David Cameron to amend the Scotland Bill to give the Scottish Parliament greater legislative powers. ](/news/2011/05/7/the-scottish-national-party-urges-british-prime-minister-david-cameron-to-amend-the-scotland-bill-to-give-the-scottish-parliament-greater-le.md)
-_Context: David Cameron, Scotland Bill, Scottish Parliament, Scottish National Party_
+_Context: David Cameron, Scotland Bill, Scottish National Party, Scottish Parliament_
 
 ##### Scottish Liberal Democrat
 ### [Scottish Liberal Democrat leader Tavish Scott resigns after a collapse of his party's support at the Scottish Parliament election. ](/news/2011/05/7/scottish-liberal-democrat-leader-tavish-scott-resigns-after-a-collapse-of-his-party-s-support-at-the-scottish-parliament-election.md)
-_Context: Tavish Scott, Scottish Liberal Democrat, recently victorious_
+_Context: Scottish Liberal Democrat, recently victorious, Tavish Scott_
 
 ##### Secretary of State for Business
 ### [British Secretary of State for Business Vince Cable launches a fierce attack on the tactics of his party's Conservative coalition partners as "ruthless, calculating and very tribal" for the way they conducted themselves in the Alternative Vote referendum. ](/news/2011/05/7/british-secretary-of-state-for-business-vince-cable-launches-a-fierce-attack-on-the-tactics-of-his-party-s-conservative-coalition-partners-a.md)
@@ -81,7 +81,7 @@ _Context: Deputy Prime Minister, Nick Clegg_
 
 ##### Northern Ireland Assembly election
 ### [Counting for the Northern Ireland Assembly election finally ends with the DUP and Sinn Fin winning the most seats, 38 and 29 respectively. ](/news/2011/05/7/counting-for-the-northern-ireland-assembly-election-finally-ends-with-the-dup-and-sinn-fein-winning-the-most-seats-38-and-29-respectively.md)
-_Context: Sinn Fin, Democratic Unionist Party, Northern Ireland Assembly election_
+_Context: Democratic Unionist Party, Northern Ireland Assembly election, Sinn Fin_
 
 ##### Welsh Labour Party
 ### [The Welsh Labour Party says it expects to be in government by the end of next week, and may govern alone after winning 30 of the 60 Welsh Assembly seats in Thursday's election. ](/news/2011/05/7/the-welsh-labour-party-says-it-expects-to-be-in-government-by-the-end-of-next-week-and-may-govern-alone-after-winning-30-of-the-60-welsh-as.md)
@@ -89,7 +89,7 @@ Labour say they expect to be in government in Cardiff Bay by the end of next wee
 
 ##### Ecuador
 ### [Voters in Ecuador go to the polls for the Ecuadorian constitutional referendum with the government declaring victory based on exit polls. ](/news/2011/05/7/voters-in-ecuador-go-to-the-polls-for-the-ecuadorian-constitutional-referendum-with-the-government-declaring-victory-based-on-exit-polls.md)
-_Context: Ecuador, Ecuadorian constitutional referendum, exit poll_
+_Context: exit poll, Ecuadorian constitutional referendum, Ecuador_
 
 ## [Previous Day...](/news/2011/05/6/index.md)
 

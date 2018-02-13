@@ -9,7 +9,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ##### 2016 India-Pakistan military confrontation
 ### [Pakistan Army's Inter-Services Public Relations (ISPR) reports seven Pakistani soldiers have been killed by Indian cross-border shelling in Bhimber District, Azad Kashmir. ](/news/2016/11/14/pakistan-army-s-inter-services-public-relations-ispr-reports-seven-pakistani-soldiers-have-been-killed-by-indian-cross-border-shelling-in.md)
-_Context: 2016 India-Pakistan military confrontation, Azad Kashmir, Pakistan, Pakistan Army, India, Bhimber District, Inter-Services Public Relations_
+_Context: Inter-Services Public Relations, India, Azad Kashmir, 2016 India-Pakistan military confrontation, Pakistan Army, Pakistan, Bhimber District_
 
 ##### Iraqi Civil War (2014-present)
 ### [A suicide bomber kills six people near Karbala. ](/news/2016/11/14/a-suicide-bomber-kills-six-people-near-karbala.md)
@@ -33,7 +33,7 @@ A Russian MiG-29 fighter jet crashes in the Mediterranean as it tries to land on
 
 ##### Malaysia
 ### [A report states that Malaysia does not successfully deal with child sexual abuse cases due to weaknesses in the nation's criminal justice system, and the country's failure to increase public awareness of this crime by not releasing relevant data. ](/news/2016/11/14/a-report-states-that-malaysia-does-not-successfully-deal-with-child-sexual-abuse-cases-due-to-weaknesses-in-the-nation-s-criminal-justice-sy.md)
-_Context: criminal justice system, Malaysia, sexually assaulted_
+_Context: Malaysia, criminal justice system, sexually assaulted_
 
 ##### Brendan Dassey
 ### [ A judge orders the release of Brendan Dassey, the subject of the Netflix series "Making a Murderer". Wisconsin's Attorney General announces he intends to file an emergency appeal. ](/news/2016/11/14/a-judge-orders-the-release-of-brendan-dassey-the-subject-of-the-netflix-series-making-a-murderer-wisconsin-s-attorney-general-announces.md)
@@ -45,7 +45,7 @@ Login credentials for over 412 million users of adult websites run by California
 
 ##### Bulgarian presidential election, 2016
 ### [Bulgarian Prime Minister Boyko Borissov resigns as a result of Socialist-backed Rumen Radev winning the presidential election. ](/news/2016/11/14/bulgarian-prime-minister-boyko-borissov-resigns-as-a-result-of-socialist-backed-rumen-radev-winning-the-presidential-election.md)
-_Context: Boyko Borissov, Bulgarian Prime Minister, Socialist Party, Rumen Radev, Bulgarian presidential election, 2016_
+_Context: Socialist Party, Bulgarian Prime Minister, Boyko Borissov, Bulgarian presidential election, 2016, Rumen Radev_
 
 ##### Augustin Matata Ponyo
 ### [Augustin Matata Ponyo resigns as Prime Minister of the Democratic Republic of the Congo. ](/news/2016/11/14/augustin-matata-ponyo-resigns-as-prime-minister-of-the-democratic-republic-of-the-congo.md)
@@ -53,7 +53,7 @@ Congolese Prime Minister Augustin Matata Ponyo resigned on Monday as part of the
 
 ##### Igor Dodon
 ### [Igor Dodon, of the Socialists' Party, wins Sunday's Moldovan presidential election run-off with 52.2 percent of the vote, besting former Education Minister Maia Sandu of the Action and Security Party. Sandu has not yet accepted these preliminary results because of voting irregularities which she will present to the Central Election Commission for review. ](/news/2016/11/14/igor-dodon-of-the-socialistsa-party-wins-sunday-s-moldovan-presidential-election-run-off-with-52-2-percent-of-the-vote-besting-former-e.md)
-_Context: Action and Security Party, Igor Dodon, Education Minister, Moldovan presidential election, Maia Sandu, Central Election Commission, Socialists' Party_
+_Context: Action and Security Party, Education Minister, Central Election Commission, Maia Sandu, Igor Dodon, Socialists' Party, Moldovan presidential election_
 
 ##### Presidential transition of Donald Trump
 ### [President-elect Donald Trump is seeking top secret security clearances for his children, according to CBS News. ](/news/2016/11/14/president-elect-donald-trump-is-seeking-top-secret-security-clearances-for-his-children-according-to-cbs-news.md)
@@ -61,7 +61,7 @@ His children would need to fill out a security questionnaire and go through back
 
 ##### Luxor
 ### [Spanish archaeologists in Luxor announce the discovery of an approximately 3000 year old mummy in "near perfect" condition. ](/news/2016/11/14/spanish-archaeologists-in-luxor-announce-the-discovery-of-an-approximately-3000-year-old-mummy-in-near-perfect-condition.md)
-_Context: Luxor, mummy_
+_Context: mummy, Luxor_
 
 ## [Previous Day...](/news/2016/11/13/index.md)
 

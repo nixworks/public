@@ -21,11 +21,11 @@ A suicide bomber who killed seven CIA agents at a base in Afghanistan in January
 
 ##### Simon Cowell
 ### [Simon Cowell signs a deal with ITV which will see "The X Factor" and "Britain's Got Talent" return for the next three years. ](/news/2010/10/19/simon-cowell-signs-a-deal-with-itv-which-will-see-the-x-factor-and-britain-s-got-talent-return-for-the-next-three-years.md)
-_Context: The X Factor, Simon Cowell, ITV, Britain's Got Talent_
+_Context: ITV, Britain's Got Talent, The X Factor, Simon Cowell_
 
 ##### Google
 ### [Google and the Israel Antiquities Authority announce plans to publish the Dead Sea Scrolls online. ](/news/2010/10/19/google-and-the-israel-antiquities-authority-announce-plans-to-publish-the-dead-sea-scrolls-online.md)
-_Context: Israel Antiquities Authority, Dead Sea Scrolls, Google_
+_Context: Israel Antiquities Authority, Google, Dead Sea Scrolls_
 
 ##### 431 km per hour speed
 ### [China reveals plans to develop a "super-speed" train with a speed of up to 500 km per hour from the 431 km per hour speed. ](/news/2010/10/19/china-reveals-plans-to-develop-a-super-speed-train-with-a-speed-of-up-to-500-km-per-hour-from-the-431-km-per-hour-speed.md)
@@ -33,7 +33,7 @@ _Context: 431 km per hour speed_
 
 ##### Jia Qinglin
 ### [Jia Qinglin, chairman of the National Committee of the Chinese People's Political Consultative Conference, announces the opening of the 7th China-ASEAN Expo (CAEXPO) in Nanning, capital of southwest China's Guangxi Zhuang Autonomous Region. ](/news/2010/10/19/jia-qinglin-chairman-of-the-national-committee-of-the-chinese-people-s-political-consultative-conference-announces-the-opening-of-the-7th.md)
-_Context: Nanning, China, Jia Qinglin, ASEAN, Guangxi Zhuang Autonomous Region, Expo_
+_Context: Expo, Nanning, China, ASEAN, Guangxi Zhuang Autonomous Region, Jia Qinglin_
 
 ##### China
 ### [China raises deposit rate for 1st time since 2007, the People's Bank of China said in a statement. ](/news/2010/10/19/china-raises-deposit-rate-for-1st-time-since-2007-the-people-s-bank-of-china-said-in-a-statement.md)
@@ -57,11 +57,11 @@ UK court finds Prince Saud Abdulaziz bin Nasser al Saud guilty of murdering serv
 
 ##### ICC
 ### [The International Criminal Court (ICC) agrees to pursue the criminal trial of former Vice-President of the Democratic Republic of the Congo Jean-Pierre Bemba. ](/news/2010/10/19/the-international-criminal-court-icc-agrees-to-pursue-the-criminal-trial-of-former-vice-president-of-the-democratic-republic-of-the-congo.md)
-_Context: ICC, Jean-Pierre Bemba, DR Congo_
+_Context: ICC, DR Congo, Jean-Pierre Bemba_
 
 ##### United States Secretary of State
 ### [The United States Secretary of State Hillary Clinton says that she understands the trial of two hikers will start on November 6. ](/news/2010/10/19/the-united-states-secretary-of-state-hillary-clinton-says-that-she-understands-the-trial-of-two-hikers-will-start-on-november-6.md)
-_Context: two American citizens, United States Secretary of State, Hillary Clinton_
+_Context: United States Secretary of State, two American citizens, Hillary Clinton_
 
 ##### Kenya
 ### [The Kenyan Higher Education Minister William Ruto is suspended by President Mwai Kibaki after a court ruled he must stand trial for corruption allegations. ](/news/2010/10/19/the-kenyan-higher-education-minister-william-ruto-is-suspended-by-president-mwai-kibaki-after-a-court-ruled-he-must-stand-trial-for-corrupti.md)
@@ -77,11 +77,11 @@ The military ruler in Niger sacks his intelligence chief following the arrest of
 
 ##### Prime Minister
 ### [The Prime Minister of the United Kingdom David Cameron announces a cut to British Armed Forces of 17,000 or ten per cent over five years. ](/news/2010/10/19/the-prime-minister-of-the-united-kingdom-david-cameron-announces-a-cut-to-british-armed-forces-of-17-000-or-ten-per-cent-over-five-years.md)
-_Context: Prime Minister, British military personnel, David Cameron_
+_Context: Prime Minister, David Cameron, British military personnel_
 
 ##### Naheed Nenshi
 ### [Naheed Nenshi is voted mayor of Calgary, Alberta, the first Muslim person to be elected mayor of a major city in Canada. ](/news/2010/10/19/naheed-nenshi-is-voted-mayor-of-calgary-alberta-the-first-muslim-person-to-be-elected-mayor-of-a-major-city-in-canada.md)
-_Context: Calgary, Alberta, Muslim, Naheed Nenshi, is voted mayor, Canadian, Alberta_
+_Context: is voted mayor, Naheed Nenshi, Muslim, Calgary, Alberta, Alberta, Canadian_
 
 ## [Previous Day...](/news/2010/10/18/index.md)
 

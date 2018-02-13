@@ -5,7 +5,7 @@ Formats: [HTML](2006/02/9/index.html)  [JSON](2006/02/9/index.json)  [XML](2006/
 
 ##### Scooter Libby
 ### [ I. Lewis "Scooter" Libby, US Vice President Cheney's former chief of staff tells federal grand jury that his superiors authorized him to give secret information to reporters as part of the Bush administration's defense of intelligence used to justify invading Iraq. ](/news/2006/02/9/i-lewis-scooter-libby-us-vice-president-cheney-s-former-chief-of-staff-tells-federal-grand-jury-that-his-superiors-authorized-him-to-gi.md)
-_Context: Iraq, Dick Cheney, US Vice President, George W. Bush administration, Scooter Libby_
+_Context: Dick Cheney, US Vice President, George W. Bush administration, Scooter Libby, Iraq_
 
 ##### Rene Preval
 ### [ Early results indicate that Rene Preval has an overwhelming lead in the Haitian general election ](/news/2006/02/9/early-results-indicate-that-rena-c-pra-c-val-has-an-overwhelming-lead-in-the-haitian-general-election.md)
@@ -17,11 +17,11 @@ News and opinion from The Times &amp; The Sunday Times
 
 ##### Interpol
 ### [ U.S. forces are searching for the Cole 06 attacker who escaped from prison last Friday. According to Interpol, an al-Qaida operative who had been sentenced to death for plotting the bombing of the USS "Cole" in 2000 escaped with a group of convicts from their prison last week in Sanaa, Yemen. ](/news/2006/02/9/u-s-forces-are-searching-for-the-cole-06-attacker-who-escaped-from-prison-last-friday-according-to-interpol-an-al-qaida-operative-who-ha.md)
-_Context: al-Qaida, Yemen, USS ''Cole'' bombing, Sanaa, Interpol_
+_Context: Interpol, Yemen, al-Qaida, USS ''Cole'' bombing, Sanaa_
 
 ##### Egypt
 ### [ Egypt's Supreme Council of Antiquities announces the discovery of an intact pharaonic tomb in the Valley of the Kings&nbsp;&ndash; the first to be discovered since King Tutankhamun's in 1922. ](/news/2006/02/9/egypt-s-supreme-council-of-antiquities-announces-the-discovery-of-an-intact-pharaonic-tomb-in-the-valley-of-the-kings-nbsp-ndash-the-firs.md)
-_Context: the tomb, Egypt, Supreme Council of Antiquities, Valley of the Kings, KV63_
+_Context: the tomb, Supreme Council of Antiquities, KV63, Egypt, Valley of the Kings_
 
 ##### Turkey
 ### [ In Turkey, Istanbul's police chief said a bomb blast at an Internet cafe in the city had wounded 14 people. ](/news/2006/02/9/in-turkey-istanbul-s-police-chief-said-a-bomb-blast-at-an-internet-cafe-in-the-city-had-wounded-14-people.md)
@@ -37,7 +37,7 @@ _Context: Nigeria, bird flu_
 
 ##### House of Keys
 ### [ The House of Keys, the lower house of the Isle of Man, a crown dependency of the United Kingdom, votes to lower the voting age to 16. ](/news/2006/02/9/the-house-of-keys-the-lower-house-of-the-isle-of-man-a-crown-dependency-of-the-united-kingdom-votes-to-lower-the-voting-age-to-16.md)
-_Context: lower house, crown dependency, Isle of Man, House of Keys_
+_Context: House of Keys, Isle of Man, crown dependency, lower house_
 
 ##### Mannheim
 ### [ Mannheim, Germany--Ernst Zundel, a German white supremacist extradited from Canada on accusations he repeatedly denied the Holocaust, returned to court Thursday to face charges of incitement, libel and disparaging the dead. ](/news/2006/02/9/mannheim-germanyaernst-za1-4ndel-a-german-white-supremacist-extradited-from-canada-on-accusations-he-repeatedly-denied-the-holocaust-ret.md)
@@ -45,7 +45,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Jyllands-Posten Muhammad cartoons controversy
 ### [ Jyllands-Posten Muhammad cartoons controversy: administration at the University of Prince Edward Island, Canada, ordered a halt to the on-campus distribution of the student newspaper Cadre after the cartoons were re-printed in the newspaper. Campus authorities also attempted to seize all 2,000 copies of the edition containing the cartoons. ](/news/2006/02/9/jyllands-posten-muhammad-cartoons-controversy-administration-at-the-university-of-prince-edward-island-canada-ordered-a-halt-to-the-on-c.md)
-_Context: University of Prince Edward Island, Jyllands-Posten Muhammad cartoons controversy, Cadre_
+_Context: Cadre, Jyllands-Posten Muhammad cartoons controversy, University of Prince Edward Island_
 
 ## [Previous Day...](/news/2006/02/8/index.md)
 

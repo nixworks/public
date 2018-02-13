@@ -13,7 +13,7 @@ _Context: Algiers, Islamic_
 
 ##### Suicide bomber
 ### [ A suicide bomber kills two foreign tourists in a Cairo market and injures a further score of bystanders. A group called "Islamic Pride Brigades" claims responsibility. ](/news/2005/04/8/a-suicide-bomber-kills-two-foreign-tourists-in-a-cairo-market-and-injures-a-further-score-of-bystanders-a-group-called-islamic-pride-brig.md)
-_Context: Islamic Pride Brigades, Cairo, suicide bomber, score_
+_Context: Islamic Pride Brigades, suicide bomber, score, Cairo_
 
 ##### Israel
 ### [ Israeli Defence Minister Shaul Mofaz announces that private homes in the Gaza strip settlements will not be demolished after the disengagement plan. Religious structures such as synagogues, Mikveh baths and cemeteries will be dismantled and transferred inside the "Green line". ](/news/2005/04/8/israeli-defence-minister-shaul-mofaz-announces-that-private-homes-in-the-gaza-strip-settlements-will-not-be-demolished-after-the-disengagem.md)
@@ -21,7 +21,7 @@ Defense, Internal Security Ministers recommend transferring Gush Katif houses to
 
 ##### Manchester
 ### [ Scientists at Manchester's Christie Hospital claim a cure for cancer could be available in 5 years. ](/news/2005/04/8/scientists-at-manchester-s-christie-hospital-claim-a-cure-for-cancer-could-be-available-in-5-years.md)
-_Context: Manchester, cancer_
+_Context: cancer, Manchester_
 
 ##### Djibouti
 ### [ Presidential elections begin in Djibouti. Incumbent president Ismail Omar Guelleh is the only candidate. ](/news/2005/04/8/presidential-elections-begin-in-djibouti-incumbent-president-ismail-omar-guelleh-is-the-only-candidate.md)

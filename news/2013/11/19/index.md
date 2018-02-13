@@ -15,7 +15,7 @@ At least 19 people are killed in an al-Shabab attack on an African Union base in
 ### [The Syrian Army captures the town of Qarah. ](/news/2013/11/19/the-syrian-army-captures-the-town-of-qarah.md)
 Syrian troops captured a key town from rebels near the Lebanese border on Tuesday, days after launching a broad offensive to retake a mountainous western region, state media and activists said. The at
 
-##### American
+##### U.S.
 ### [The United States commemorates the 150th anniversary of the Gettysburg Address. ](/news/2013/11/19/the-united-states-commemorates-the-150th-anniversary-of-the-gettysburg-address.md)
 When president Abraham Lincoln dedicated a cemetery on the Gettysburg battlefield 150 years ago on Tuesday, the US had already been at war with itself for almost three years. The nation would fight on for another 18 months, and by then almost a million people would be dead or wounded.
 
@@ -25,7 +25,7 @@ Bombardier (BBDb.TO) has signed a letter of intent to sell five CSeries jetliner
 
 ##### World Bank
 ### [The World Bank offers a US$500 million loan to the Philippines. ](/news/2013/11/19/the-world-bank-offers-a-us-500-million-loan-to-the-philippines.md)
-_Context: Philippines, World Bank_
+_Context: World Bank, Philippines_
 
 ##### Cyclone
 ### [At least 18 people are dead after Cyclone Cleopatra hits the Italian island of Sardinia, causing heavy floods. ](/news/2013/11/19/at-least-18-people-are-dead-after-cyclone-cleopatra-hits-the-italian-island-of-sardinia-causing-heavy-floods.md)
@@ -37,7 +37,7 @@ One person has died and as many as 50 workers are feared trapped after the roof 
 
 ##### Air Evac International
 ### [An Air Evac International Learjet 35 crashes shortly after take-off from Fort Lauderdale-Hollywood International Airport, on its way to Cozumel, Mexico, after calling mayday and during an attempt to return to the airport, possibly due to engine failure, leaving 2 persons dead and two missing as a result. ](/news/2013/11/19/an-air-evac-international-learjet-35-crashes-shortly-after-take-off-from-fort-lauderdale-hollywood-international-airport-on-its-way-to-cozu.md)
-_Context: mayday, Fort Lauderdale-Hollywood International Airport, Cozumel, Mexico, Learjet 35, Air Evac International_
+_Context: Cozumel, Mexico, Fort Lauderdale-Hollywood International Airport, Learjet 35, Air Evac International, mayday_
 
 ##### Creigh Deeds
 ### [Virginia State Senator Creigh Deeds was stabbed multiple times at his home by his son Austin "Gus" Deeds. His son, Gus was found dead from a self-inflicted gunshot wound in the home. ](/news/2013/11/19/virginia-state-senator-creigh-deeds-was-stabbed-multiple-times-at-his-home-by-his-son-austin-gus-deeds-his-son-gus-was-found-dead-from-a.md)

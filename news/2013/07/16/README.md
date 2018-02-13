@@ -9,15 +9,15 @@ At least six mediators have been killed by pro-government militiamen in the Syri
 
 ##### Greece
 ### [Unions in Greece call a general strike over new austerity measures. ](/news/2013/07/16/unions-in-greece-call-a-general-strike-over-new-austerity-measures.md)
-_Context: Greece, general strike_
+_Context: general strike, Greece_
 
 ##### McDonald's restaurants
 ### [McDonald's announces that it will open its first outlet in Viet Nam early next year, which will be in Ho Chi Minh City, and will be operated by Henry Nguyen, a Vietnamese businessman and the son-in-law of Vietnam's Prime Minister Nguyen Tan Dung. ](/news/2013/07/16/mcdonald-s-announces-that-it-will-open-its-first-outlet-in-viet-nam-early-next-year-which-will-be-in-ho-chi-minh-city-and-will-be-operated.md)
-_Context: Viet Nam, Ho Chi Minh City, Nguyen Tan Dung, McDonald's restaurants_
+_Context: McDonald's restaurants, Nguyen Tan Dung, Ho Chi Minh City, Viet Nam_
 
 ##### British Columbia
 ### [The British Columbia coroner's office reports that actor Cory Monteith died of an overdose of heroin and alcohol. ](/news/2013/07/16/the-british-columbia-coroner-s-office-reports-that-actor-cory-monteith-died-of-an-overdose-of-heroin-and-alcohol.md)
-_Context: ethanol (C|H|3|C|H|2|O|H), British Columbia, Cory Monteith, coroner, drug overdose, heroin_
+_Context: heroin, coroner, Cory Monteith, British Columbia, ethanol (C|H|3|C|H|2|O|H), drug overdose_
 
 ##### As many as 27 children die and 25 others are hospitalised
 ### [As many as 27 children die and 25 others are hospitalised after eating lunch served at their school in eastern India. ](/news/2013/07/16/as-many-as-27-children-die-and-25-others-are-hospitalised-after-eating-lunch-served-at-their-school-in-eastern-india.md)
@@ -33,7 +33,7 @@ _Context: cyberattack, North Korea, South Korea_
 
 ##### Police officers
 ### [Clashes continue between Egyptian police and supporters of deposed President Mohamed Morsi in central Cairo with 22 people injured. ](/news/2013/07/16/clashes-continue-between-egyptian-police-and-supporters-of-deposed-president-mohamed-morsi-in-central-cairo-with-22-people-injured.md)
-_Context: police officers, Cairo, President, Mohamed Morsi_
+_Context: police officers, Cairo, Mohamed Morsi, President_
 
 ##### Black metal
 ### [Norwegian black metal musician, Kristian "Varg" Vikernes, and his wife are arrested in France on suspicion of alleged plans for a terrorist act after buying 4 rifles at the same time. ](/news/2013/07/16/norwegian-black-metal-musician-kristian-varg-vikernes-and-his-wife-are-arrested-in-france-on-suspicion-of-alleged-plans-for-a-terrorist.md)

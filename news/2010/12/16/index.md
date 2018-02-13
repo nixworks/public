@@ -13,7 +13,7 @@ Images posted on social-network sites show police intervening to halt disturbanc
 
 ##### Herat
 ### [Fourteen civilians are killed and four others injured when a minibus struck a roadside bomb while traveling to Herat, Afghanistan. ](/news/2010/12/16/fourteen-civilians-are-killed-and-four-others-injured-when-a-minibus-struck-a-roadside-bomb-while-traveling-to-herat-afghanistan.md)
-_Context: Afghanistan, Herat_
+_Context: Herat, Afghanistan_
 
 ##### U.S.
 ### [A U.S. missile strike kills seven militants in the Spin Drand area of Khyber, Pakistan. ](/news/2010/12/16/a-u-s-missile-strike-kills-seven-militants-in-the-spin-drand-area-of-khyber-pakistan.md)
@@ -21,7 +21,7 @@ A U.S. missile strike killed seven militants Thursday in a Pakistani region clos
 
 ##### European Union
 ### [European Union leaders agree to change the constitution to establish a mechanism to tackle sovereign debt problems. ](/news/2010/12/16/european-union-leaders-agree-to-change-the-constitution-to-establish-a-mechanism-to-tackle-sovereign-debt-problems.md)
-_Context: European Union, constitution, sovereign debt_
+_Context: European Union, sovereign debt, constitution_
 
 ##### International Monetary Fund
 ### [The International Monetary Fund approves a 22.5bn euro loan to the Republic of Ireland. ](/news/2010/12/16/the-international-monetary-fund-approves-a-22-5bn-euro-loan-to-the-republic-of-ireland.md)
@@ -41,7 +41,7 @@ _Context: Hangzhou, Zhejiang_
 
 ##### Christmas Island
 ### [The death toll from the Christmas Island boat wreck rises to 28 as the search for survivors continues. ](/news/2010/12/16/the-death-toll-from-the-christmas-island-boat-wreck-rises-to-28-as-the-search-for-survivors-continues.md)
-_Context: wreck, Christmas Island_
+_Context: Christmas Island, wreck_
 
 ##### Tara Air
 ### [Wreckage of a Tara Air de Havilland Canada DHC-6 Twin Otter that crashed on Wednesday with twenty people aboard is found in Nepal. ](/news/2010/12/16/wreckage-of-a-tara-air-de-havilland-canada-dhc-6-twin-otter-that-crashed-on-wednesday-with-twenty-people-aboard-is-found-in-nepal.md)
@@ -53,11 +53,11 @@ New Brunswick is promising financial help for people whose homes and businesses 
 
 ##### Lake-effect snow
 ### [One person is killed by Lake effect snowsqualls from Lake Huron on Highway 402 in Southwestern Ontario as the Canadian military rescues people trapped under snowdrifts for over a day. ](/news/2010/12/16/one-person-is-killed-by-lake-effect-snowsqualls-from-lake-huron-on-highway-402-in-southwestern-ontario-as-the-canadian-military-rescues-peop.md)
-_Context: Lake-effect snow, Canadian military, Highway 402, snowdrift, Lake Huron, Southwestern Ontario, snowsquall_
+_Context: Lake Huron, Highway 402, Southwestern Ontario, Canadian military, snowsquall, snowdrift, Lake-effect snow_
 
 ##### Governor
 ### [Governor of the U.S. state of New Mexico Bill Richardson arrives in Pyongyang for talks with North Korean officials concerning the situation on the Korean peninsula. ](/news/2010/12/16/governor-of-the-u-s-state-of-new-mexico-bill-richardson-arrives-in-pyongyang-for-talks-with-north-korean-officials-concerning-the-situation.md)
-_Context: North Korea, Pyongyang, New Mexico, Governor, Bill Richardson, Korean peninsula_
+_Context: Pyongyang, North Korea, Bill Richardson, Korean peninsula, New Mexico, Governor_
 
 ##### WikiLeaks
 ### [WikiLeaks founder Julian Assange appears in the British High Court of Justice to successfully apply for bail on sexual assault charges. ](/news/2010/12/16/wikileaks-founder-julian-assange-appears-in-the-british-high-court-of-justice-to-successfully-apply-for-bail-on-sexual-assault-charges.md)
@@ -85,7 +85,7 @@ Troops and police loyal to Ivory Coast leader Laurent Gbagbo have sealed off sta
 
 ##### European Court of Human Rights
 ### [The European Court of Human Rights rules that Ireland's ban on abortion in life-threatening cases is illegal. ](/news/2010/12/16/the-european-court-of-human-rights-rules-that-ireland-s-ban-on-abortion-in-life-threatening-cases-is-illegal.md)
-_Context: Irish, European Court of Human Rights, abortion_
+_Context: European Court of Human Rights, Irish, abortion_
 
 ##### Scottish Government
 ### [The Scottish Government rules out re-introducing tuition fees for Scottish university students, but students from other parts of the United Kingdom attending university in Scotland may face fees of GBP6,000. ](/news/2010/12/16/the-scottish-government-rules-out-re-introducing-tuition-fees-for-scottish-university-students-but-students-from-other-parts-of-the-united.md)

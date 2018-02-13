@@ -5,7 +5,7 @@ Formats: [HTML](2006/09/2/index.html)  [JSON](2006/09/2/index.json)  [XML](2006/
 
 ##### Iraqi Prime Minister
 ### [ Iraqi Prime Minister Nouri al-Maliki meets with Grand Ayatollah Ali al-Sistani in Najaf, Iraq. ](/news/2006/09/2/iraqi-prime-minister-nouri-al-maliki-meets-with-grand-ayatollah-ali-al-sistani-in-najaf-iraq.md)
-_Context: Ali al-Sistani, Iraq, Nouri al-Maliki, Iraqi Prime Minister, Najaf, Grand Ayatollah_
+_Context: Iraq, Najaf, Grand Ayatollah, Iraqi Prime Minister, Nouri al-Maliki, Ali al-Sistani_
 
 ##### Afghanistan
 ### [ In Afghanistan, 14 British armed forces personnel are killed after their aircraft crashes in Kandahar. ](/news/2006/09/2/in-afghanistan-14-british-armed-forces-personnel-are-killed-after-their-aircraft-crashes-in-kandahar.md)
@@ -25,7 +25,7 @@ In the days following the war in Lebanon, newspapers from the Arab world report 
 
 ##### Palestine
 ### [ Donors promise $500m in aid for the Palestinian territories but the UN warns there must be a new peace process too. ](/news/2006/09/2/donors-promise-500m-in-aid-for-the-palestinian-territories-but-the-un-warns-there-must-be-a-new-peace-process-too.md)
-_Context: UN, Palestine_
+_Context: Palestine, UN_
 
 ## [Previous Day...](/news/2006/09/1/index.md)
 

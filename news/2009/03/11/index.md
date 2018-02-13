@@ -5,31 +5,31 @@ Formats: [HTML](2009/03/11/index.html)  [JSON](2009/03/11/index.json)  [XML](200
 
 ##### United Nations
 ### [ The United Nations Children's Fund claims that a meningitis epidemic in Nigeria, Niger, Burkina Faso, and Mali has killed 931 people since January 2009. ](/news/2009/03/11/the-united-nations-children-s-fund-claims-that-a-meningitis-epidemic-in-nigeria-niger-burkina-faso-and-mali-has-killed-931-people-since.md)
-_Context: United Nations, United Nations Children's Fund, Nigeria, Niger, Mali, Burkina Faso, meningitis, epidemic_
+_Context: epidemic, Niger, Burkina Faso, Nigeria, United Nations, meningitis, United Nations Children's Fund, Mali_
 
-##### American
+##### U.S.
 ### [ The United States National Aeronautics and Space Administration delays the Space Shuttle "Discovery"'s mission to the International Space Station due to a hydrogen gas leak. ](/news/2009/03/11/the-united-states-national-aeronautics-and-space-administration-delays-the-space-shuttle-discovery-s-mission-to-the-international-space-s.md)
-_Context: Space Shuttle, lands, hydrogen gas, American, Discovery, International Space Station, NASA, natural gas leak_
+_Context: lands, hydrogen gas, natural gas leak, NASA, Discovery, International Space Station, Space Shuttle, U.S._
 
 ##### China
 ### [ China's exports contract 25.7%, the worst decline since 1993. ](/news/2009/03/11/china-s-exports-contract-25-7-the-worst-decline-since-1993.md)
-_Context: China, 4th quarter of 2007 and the second quarter of 2009, export_
+_Context: 4th quarter of 2007 and the second quarter of 2009, China, export_
 
 ##### Liberal Democrats
 ### [ The Liberal Democrats claim that more than 1,000 police officers in the United Kingdom have criminal records. ](/news/2009/03/11/the-liberal-democrats-claim-that-more-than-1-000-police-officers-in-the-united-kingdom-have-criminal-records.md)
-_Context: United Kingdom, police, Liberal Democrats, criminal records_
+_Context: Liberal Democrats, criminal records, police, United Kingdom_
 
 ##### Killed
 ### [ At least 15 people are killed in a school shooting in Winnenden, Germany. ](/news/2009/03/11/at-least-15-people-are-killed-in-a-school-shooting-in-winnenden-germany.md)
-_Context: German, school shooting, Winnenden, killed_
+_Context: school shooting, Winnenden, German, killed_
 
 ##### Iraq
 ### [ Former Iraqi Intelligence Service Director Ali Hassan al-Majid and former Deputy Prime Minister Tariq Aziz are sentenced to 15 years in jail for crimes against humanity. ](/news/2009/03/11/former-iraqi-intelligence-service-director-ali-hassan-al-majid-and-former-deputy-prime-minister-tariq-aziz-are-sentenced-to-15-years-in-jai.md)
-_Context: Ali Hassan al-Majid, Deputy Prime Minister, Iraq, Intelligence Service, crimes against humanity, Tariq Aziz_
+_Context: Ali Hassan al-Majid, Tariq Aziz, crimes against humanity, Deputy Prime Minister, Intelligence Service, Iraq_
 
 ##### French President
 ### [ President Nicolas Sarkozy announces that France will rejoin NATO's military command. ](/news/2009/03/11/president-nicolas-sarkozy-announces-that-france-will-rejoin-nato-s-military-command.md)
-_Context: French President, Nicolas Sarkozy, military command, France, NATO_
+_Context: NATO, French President, Nicolas Sarkozy, military command, France_
 
 ## [Previous Day...](/news/2009/03/10/index.md)
 

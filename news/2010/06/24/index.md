@@ -33,7 +33,7 @@ Plessner: The Turks are opening another front against us.
 
 ##### Australian Prime Minister
 ### [Prime Minister of Australia Kevin Rudd steps down after his leadership is contested following considerable drops in popularity in polls in recent months. Julia Gillard becomes Australia's first female Prime Minister. ](/news/2010/06/24/prime-minister-of-australia-kevin-rudd-steps-down-after-his-leadership-is-contested-following-considerable-drops-in-popularity-in-polls-in-r.md)
-_Context: leadership is contested, Julia Gillard, Kevin Rudd, Australian Prime Minister_
+_Context: leadership is contested, Australian Prime Minister, Julia Gillard, Kevin Rudd_
 
 ##### Iraq
 ### [Several people are killed during suicide attacks and bombings across Iraq. ](/news/2010/06/24/several-people-are-killed-during-suicide-attacks-and-bombings-across-iraq.md)
@@ -57,11 +57,11 @@ Iran flotilla organizers note Israel sees vessels from Iran, Lebanon as &#39;sig
 
 ##### United Nations
 ### [U.N. Secretary General Ban Ki-moon states as "illegal and unhelpful" the plan to demolish Palestinian homes in East Jerusalem to make way for a tourist park. ](/news/2010/06/24/u-n-secretary-general-ban-ki-moon-states-as-illegal-and-unhelpful-the-plan-to-demolish-palestinian-homes-in-east-jerusalem-to-make-way-fo.md)
-_Context: Palestinian, tourist park, Ban Ki-moon, United Nations, Secretary General of the United Nations, East Jerusalem_
+_Context: Secretary General of the United Nations, Palestinian, tourist park, United Nations, Ban Ki-moon, East Jerusalem_
 
 ##### United Nations Relief and Works Agency for Palestine Refugees in the Near East
 ### [United Nations Relief and Works Agency for Palestine Refugees in the Near East commissioner-general Filippo Grandi questions the fine print of Israel's promise to ease its blockade on Gaza, citing parts which are unclear and saying it is "urgent, because the conditions are very bad on the ground". ](/news/2010/06/24/united-nations-relief-and-works-agency-for-palestine-refugees-in-the-near-east-commissioner-general-filippo-grandi-questions-the-fine-print.md)
-_Context: Israel, United Nations Relief and Works Agency for Palestine Refugees in the Near East, Gaza Strip, fine print, Filippo Grandi_
+_Context: Israel, United Nations Relief and Works Agency for Palestine Refugees in the Near East, Filippo Grandi, Gaza Strip, fine print_
 
 ##### Philippine
 ### [Hooded gunmen kill 4 commuters in Philippines. ](/news/2010/06/24/hooded-gunmen-kill-4-commuters-in-philippines.md)
@@ -81,11 +81,11 @@ _Context: Somaliland_
 
 ##### Russia
 ### [Russia's natural gas export monopoly Gazprom announces that it will restart gas supply to Belarus in full following payment of the debt. ](/news/2010/06/24/russia-s-natural-gas-export-monopoly-gazprom-announces-that-it-will-restart-gas-supply-to-belarus-in-full-following-payment-of-the-debt.md)
-_Context: Belarus, monopoly, export, Gazprom, Russia, natural gas_
+_Context: export, Belarus, monopoly, Gazprom, natural gas, Russia_
 
 ##### Bridgeport
 ### [Bridgeport, Connecticut in the United States is put under a state of emergency when hurricane-force winds from a strong storm went through, causing injuries and severe damage including the collapse of a multi-story building. ](/news/2010/06/24/bridgeport-connecticut-in-the-united-states-is-put-under-a-state-of-emergency-when-hurricane-force-winds-from-a-strong-storm-went-through.md)
-_Context: Bridgeport, American_
+_Context: Bridgeport, U.S._
 
 ##### Sri Lanka
 ### [Sri Lanka announces that a United Nations panel investigating human rights abuses will not be allowed to enter the country. ](/news/2010/06/24/sri-lanka-announces-that-a-united-nations-panel-investigating-human-rights-abuses-will-not-be-allowed-to-enter-the-country.md)
@@ -93,13 +93,13 @@ The Sri Lankan foreign minister has said that a UN panel on human rights will no
 
 ##### China
 ### [China announces it has broken up what it describes as a terrorist ring in Xinjiang in the west of the country. ](/news/2010/06/24/china-announces-it-has-broken-up-what-it-describes-as-a-terrorist-ring-in-xinjiang-in-the-west-of-the-country.md)
-_Context: Xinjiang, China_
+_Context: China, Xinjiang_
 
 ##### Slovakia
 ### [Slovakia defeat defending champion Italy by a 3-2 score; following France's elimination on Tuesday, this marks the first time in World Cup history that both previous finalists fail to progress beyond the first round of play. ](/news/2010/06/24/slovakia-defeat-defending-champion-italy-by-a-3-2-score-following-france-s-elimination-on-tuesday-this-marks-the-first-time-in-world-cup-h.md)
-_Context: World Cup, defending champion, Slovakia, 3-2 score, elimination, French, Italy_
+_Context: Italy, Slovakia, defending champion, 3-2 score, French, World Cup, elimination_
 
-##### American
+##### U.S.
 ### [American John Isner defeats Frenchman Nicolas Mahut, 4-6, 6-3, 7-6 (7), 6-7 (3), 70-68, in the longest match in tennis history, finally advancing from the first round of the 2010 Wimbledon Gentlemen's Singles tournament. The match took over 11 hours, spanning three days. ](/news/2010/06/24/american-john-isner-defeats-frenchman-nicolas-mahut-4-6-6-3-7-6-7-6-7-3-70-68-in-the-longest-match-in-tennis-history-finally-adva.md)
 John Isner won a three-day, 11 hour-plus marathon over qualifier Nicolas Mahut of France on Thursday at Wimbledon, claiming the fifth set 70-68 on a service break.
 

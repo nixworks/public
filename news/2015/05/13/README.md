@@ -53,7 +53,7 @@ Government launches investigation into cause of Manila blaze which killed at lea
 
 ##### Gold mine
 ### [Rescue workers attempt to rescue at least 15 gold miners trapped by floods in a mine in Colombia's Caldas Department. ](/news/2015/05/13/rescue-workers-attempt-to-rescue-at-least-15-gold-miners-trapped-by-floods-in-a-mine-in-colombia-s-caldas-department.md)
-_Context: Caldas Department, gold mine_
+_Context: gold mine, Caldas Department_
 
 ##### Catholic Church
 ### [The Vatican concludes a treaty to recognize the Palestinian state. ](/news/2015/05/13/the-vatican-concludes-a-treaty-to-recognize-the-palestinian-state.md)
@@ -73,7 +73,7 @@ _Context: Wisconsin, Shooting of Tony Robinson_
 
 ##### Hyon Yong-chol
 ### [South Korea claims that North Korea has executed its defense chief Hyon Yong-chol with an anti-aircraft gun. ](/news/2015/05/13/south-korea-claims-that-north-korea-has-executed-its-defense-chief-hyon-yong-chol-with-an-anti-aircraft-gun.md)
-_Context: Hyon Yong-chol, anti-aircraft gun_
+_Context: anti-aircraft gun, Hyon Yong-chol_
 
 ##### United States House of Representatives
 ### [The United States House of Representatives votes overwhelmingly to end the mass collection of Americans' phone data with the USA Freedom Act passing 338-88 (79%). The bill's passage through the Senate is less certain. ](/news/2015/05/13/the-united-states-house-of-representatives-votes-overwhelmingly-to-end-the-mass-collection-of-americans-phone-data-with-the-usa-freedom-act.md)

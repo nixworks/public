@@ -53,7 +53,7 @@ Guatemalan President Otto Perez Molina rejected accusations by the attorney gene
 
 ##### New Zealand flag debate
 ### [Four alternatives to the current New Zealand flag are chosen for a Spring referendum (20 November - 11 December 2015) in which New Zealanders will determine their favorite of the new designs. ](/news/2015/09/1/four-alternatives-to-the-current-new-zealand-flag-are-chosen-for-a-spring-referendum-20-november-a-11-december-2015-in-which-new-zealand.md)
-_Context: New Zealanders, New Zealand flag, New Zealand flag debate_
+_Context: New Zealand flag, New Zealanders, New Zealand flag debate_
 
 ##### Russia
 ### [A law affecting online personal computer data storage comes into force in Russia. ](/news/2015/09/1/a-law-affecting-online-personal-computer-data-storage-comes-into-force-in-russia.md)

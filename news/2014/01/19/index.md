@@ -19,7 +19,7 @@ _Context: Hamas, Gaza Strip, Israeli Air Force_
 ### [New violent clashes erupt in Ukraine as a reaction to new strict anti-protest laws. ](/news/2014/01/19/new-violent-clashes-erupt-in-ukraine-as-a-reaction-to-new-strict-anti-protest-laws.md)
 ##### Norway
 ### [Residents of the historic Norwegian village of Laerdalsoyri are evacuated due to a fire that has destroyed at least 10 homes. ](/news/2014/01/19/residents-of-the-historic-norwegian-village-of-la-rdalsa-yri-are-evacuated-due-to-a-fire-that-has-destroyed-at-least-10-homes.md)
-_Context: Norway, Laerdalsoyri_
+_Context: Laerdalsoyri, Norway_
 
 ##### Hungary
 ### [Voters in Hungary will go to the polls for a parliamentary election on April 6. ](/news/2014/01/19/voters-in-hungary-will-go-to-the-polls-for-a-parliamentary-election-on-april-6.md)

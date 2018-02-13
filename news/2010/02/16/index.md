@@ -17,7 +17,7 @@ _Context: Port of Shanghai, 2004, ''Queen Mary 2''_
 
 ##### Queen Rania
 ### [Queen Rania of Jordan meets with CEOs of mobile operators from around the world in Barcelona on Monday to rally support for the 1GOAL global education campaign. ](/news/2010/02/16/queen-rania-of-jordan-meets-with-ceos-of-mobile-operators-from-around-the-world-in-barcelona-on-monday-to-rally-support-for-the-1goal-global.md)
-_Context: Jordan, Barcelona, education, Queen Rania_
+_Context: Barcelona, education, Queen Rania, Jordan_
 
 ##### Libya
 ### [Libya detains Irish nationals at its airport in Tripoli due to the escalation of a dispute between it and Switzerland which has led Libya to refuse anyone from the Schengen area, despite Ireland not being a member. ](/news/2010/02/16/libya-detains-irish-nationals-at-its-airport-in-tripoli-due-to-the-escalation-of-a-dispute-between-it-and-switzerland-which-has-led-libya-to.md)
@@ -25,7 +25,7 @@ TWO IRISH nationals have been detained at the airport in Libya&rsquo;s capital T
 
 ##### EMI
 ### [EMI places its Abbey Road Studios in St John's Wood, London, up for sale in an attempt to ease the debt burden created by Terra Firma Capital Partners' leveraged buyout of the company. ](/news/2010/02/16/emi-places-its-abbey-road-studios-in-st-john-s-wood-london-up-for-sale-in-an-attempt-to-ease-the-debt-burden-created-by-terra-firma-capita.md)
-_Context: Abbey Road Studios, Terra Firma Capital Partners, St John's Wood, leveraged buyout, EMI, London_
+_Context: EMI, St John's Wood, Terra Firma Capital Partners, Abbey Road Studios, London, leveraged buyout_
 
 ## [Previous Day...](/news/2010/02/15/index.md)
 

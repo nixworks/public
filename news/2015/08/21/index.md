@@ -5,7 +5,7 @@ Formats: [HTML](2015/08/21/index.html)  [JSON](2015/08/21/index.json)  [XML](201
 
 ##### Destroyed
 ### [The Islamic State in Iraq and the Levant destroys the historic Mar Elian monastery near the town of Al-Qaryatayn in the Homs Governorate in Syria. ](/news/2015/08/21/the-islamic-state-in-iraq-and-the-levant-destroys-the-historic-mar-elian-monastery-near-the-town-of-al-qaryatayn-in-the-homs-governorate-in.md)
-_Context: destroyed, Syria, Homs Governorate, Mar Elian monastery, Al-Qaryatayn, Islamic State in Iraq and the Levant_
+_Context: Al-Qaryatayn, destroyed, Islamic State in Iraq and the Levant, Homs Governorate, Mar Elian monastery, Syria_
 
 ##### Saudi-led intervention in Yemen
 ### [Saudi-led coalition air-strikes on the Yemeni city of Taiz leave at least 65 civilians killed. ](/news/2015/08/21/saudi-led-coalition-air-strikes-on-the-yemeni-city-of-taiz-leave-at-least-65-civilians-killed.md)
@@ -17,11 +17,11 @@ Police investigate incident near Arras, France, in which three US citizens – t
 
 ##### George Parker Bidder III
 ### [A bottle with a letter left inside by British marine biologist George Parker Bidder III is discovered by a woman vacationing in Germany. The bottle dating from 1906, if confirmed, would be the world's oldest message in a bottle found to date. ](/news/2015/08/21/a-bottle-with-a-letter-left-inside-by-british-marine-biologist-george-parker-bidder-iii-is-discovered-by-a-woman-vacationing-in-germany-the.md)
-_Context: German, George Parker Bidder III, message in a bottle_
+_Context: German, message in a bottle, George Parker Bidder III_
 
 ##### United Kingdom
 ### [Britain's Information Commissioner's Office orders Google, Inc. to remove, from its search engines, links to news stories about Google's implementation of a "right to be forgotten" request, that include identifying information about a decade-old shoplifting conviction, which the Information Commission's Office considers as being no longer relevant. The order applies only in the United Kingdom. ](/news/2015/08/21/britain-s-information-commissioner-s-office-orders-google-inc-to-remove-from-its-search-engines-links-to-news-stories-about-google-s-imp.md)
-_Context: Google, right to be forgotten, United Kingdom, Information Commissioner's Office_
+_Context: Google, United Kingdom, right to be forgotten, Information Commissioner's Office_
 
 ##### Dow Jones Industrial Average
 ### [The Dow Jones Industrial Average drops and closes down 530.94 points, or 3.12 percent, with the NASDAQ and S&P 500 also down more than 3%. ](/news/2015/08/21/the-dow-jones-industrial-average-drops-and-closes-down-530-94-points-or-3-12-percent-with-the-nasdaq-and-s-p-500-also-down-more-than-3.md)
@@ -43,13 +43,13 @@ Winds will continue to challenge firefighters across North Central Washington. P
 ### [Supreme Leader of North Korea Kim Jong-un orders the Korean People's Army to be on a war footing following the exchange of artillery fire with South Korea yesterday. ](/news/2015/08/21/supreme-leader-of-north-korea-kim-jong-un-orders-the-korean-people-s-army-to-be-on-a-war-footing-following-the-exchange-of-artillery-fire-wi.md)
 North Korean leader Kim Jong-un has ordered his frontline troops to be on a war footing, state media says, as tensions rise with the South.
 
-##### American
+##### U.S.
 ### [The United States halts, then resumes its annual military exercise with South Korea, Foal Eagle, amid rising tensions. ](/news/2015/08/21/the-united-states-halts-then-resumes-its-annual-military-exercise-with-south-korea-foal-eagle-amid-rising-tensions.md)
-_Context: South Korea, military exercise, American, Foal Eagle_
+_Context: Foal Eagle, military exercise, South Korea, U.S._
 
 ##### Wickremesinghe
 ### [Ranil Wickremesinghe is sworn in as the new Prime Minister of Sri Lanka following a strong performance by his United National Front for Good Governance in last Monday's election. ](/news/2015/08/21/ranil-wickremesinghe-is-sworn-in-as-the-new-prime-minister-of-sri-lanka-following-a-strong-performance-by-his-united-national-front-for-good.md)
-_Context: election, Wickremesinghe, United National Front for Good Governance, Prime Minister of Sri Lanka_
+_Context: election, United National Front for Good Governance, Wickremesinghe, Prime Minister of Sri Lanka_
 
 ##### Greek legislative election, September 2015
 ### [Twenty-five parliamentarians from the governing Syriza party announce plans to form a new party, the Popular Unity, led by former energy minister Panagiotis Lafazanis. ](/news/2015/08/21/twenty-five-parliamentarians-from-the-governing-syriza-party-announce-plans-to-form-a-new-party-the-popular-unity-led-by-former-energy-min.md)

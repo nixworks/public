@@ -13,7 +13,7 @@ A suicide bomber blew himself up at a bank close to the heavily protected U.S. e
 
 ##### Banking in the United States
 ### [Berkshire Hathaway Inc has become the largest shareholder of Bank of America by exercising its right to acquire 700 million shares at a steep discount, more than tripling an investment it made six years ago. Bank of America on Tuesday announced the exercise of the warrants, which gave Berkshire, controlled by Warren Buffett, the right to buy the bank's shares for about $7.14 each. Bank of America shares closed down 14 cents at $23.58 on the same day. ](/news/2017/08/29/berkshire-hathaway-inc-has-become-the-largest-shareholder-of-bank-of-america-by-exercising-its-right-to-acquire-700-million-shares-at-a-stee.md)
-_Context: Warren Buffett, Banking in the United States, Berkshire Hathaway Inc, Bank of America, shares_
+_Context: shares, Bank of America, Berkshire Hathaway Inc, Warren Buffett, Banking in the United States_
 
 ##### Hurricane Harvey
 ### [The death toll from Hurricane Harvey reaches 30 as Sylvester Turner, the mayor of Houston, Texas, introduces a curfew to deter looters. ](/news/2017/08/29/the-death-toll-from-hurricane-harvey-reaches-30-as-sylvester-turner-the-mayor-of-houston-texas-introduces-a-curfew-to-deter-looters.md)
@@ -25,11 +25,11 @@ North Korea has test fired a missile over Japan in an unprecedented act that is 
 
 ##### 2017 clashes at the Turkish Ambassador's Residence in Washington, D.C.
 ### [A grand jury in Washington, D.C. has issued indictments for 19 people, including 15 identified as Turkish security officials, for attacking protesters in May 2017. ](/news/2017/08/29/a-grand-jury-in-washington-d-c-has-issued-indictments-for-19-people-including-15-identified-as-turkish-security-officials-for-attacking.md)
-_Context: 2017 clashes at the Turkish Ambassador's Residence in Washington, D.C., Washington, D.C., grand jury_
+_Context: grand jury, Washington, D.C., 2017 clashes at the Turkish Ambassador's Residence in Washington, D.C._
 
 ##### European migrant crisis
 ### [The Libyan Navy rescues nearly 500 migrants in three operations in the seas west of the capital Tripoli. ](/news/2017/08/29/the-libyan-navy-rescues-nearly-500-migrants-in-three-operations-in-the-seas-west-of-the-capital-tripoli.md)
-_Context: Tripoli, Libyan Navy, European migrant crisis_
+_Context: Tripoli, European migrant crisis, Libyan Navy_
 
 ##### Politics of Germany
 ### [The Landtag of the Free State of Saxony has lifted the immunity of Frauke Petry, Party Chair in the Alternative for Germany party, opening the way for prosecutors to pursue possible perjury charges against her concerning statements made to a committee of the Saxony parliament about how the party's campaign for the 2014 election was financed. ](/news/2017/08/29/the-landtag-of-the-free-state-of-saxony-has-lifted-the-immunity-of-frauke-petry-party-chair-in-the-alternative-for-germany-party-opening-t.md)
@@ -37,7 +37,7 @@ A regional parliament has lifted the immunity of the best known politician in th
 
 ##### Sexual orientation and gender identity in the United States military
 ### [Defense Secretary James Mattis announces that transgender troops in the military will continue to serve pending the results of a study started in June to assess the Pentagon's ability to fight and win wars. ](/news/2017/08/29/defense-secretary-james-mattis-announces-that-transgender-troops-in-the-military-will-continue-to-serve-pending-the-results-of-a-study-start.md)
-_Context: Sexual orientation and gender identity in the United States military, United States Secretary of Defense, Transgender personnel in the United States military, James Mattis_
+_Context: Sexual orientation and gender identity in the United States military, Transgender personnel in the United States military, United States Secretary of Defense, James Mattis_
 
 ## [Previous Day...](/news/2017/08/28/index.md)
 

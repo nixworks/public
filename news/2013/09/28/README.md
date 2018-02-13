@@ -11,7 +11,7 @@ _Context: Boko Haram_
 
 ##### Syrian rebels
 ### [Syrian rebels claim taking control of a military post on the edge of the city of Deraa on Syria's southern border with Jordan after four days of heavy fighting with the Syrian Armed Forces. ](/news/2013/09/28/syrian-rebels-claim-taking-control-of-a-military-post-on-the-edge-of-the-city-of-deraa-on-syria-s-southern-border-with-jordan-after-four-day.md)
-_Context: Jordan, Syrian rebels, Syrian Armed Forces_
+_Context: Syrian Armed Forces, Jordan, Syrian rebels_
 
 ##### Pakistan
 ### [A 6.8-magnitude earthquake strikes the Pakistani province of Balochistan, four days after a 7.7-magnitude earthquake killed at least 515 people in the same region. ](/news/2013/09/28/a-6-8-magnitude-earthquake-strikes-the-pakistani-province-of-balochistan-four-days-after-a-7-7-magnitude-earthquake-killed-at-least-515-peo.md)
@@ -19,11 +19,11 @@ Officials say a major earthquake of 6.8 magnitude or larger has hit southwest Pa
 
 ##### Nikolaos Michaloliakos
 ### [Nikolaos Michaloliakos, the leader of the Greek far-right party Golden Dawn, is arrested on charges of forming a criminal organization. ](/news/2013/09/28/nikolaos-michaloliakos-the-leader-of-the-greek-far-right-party-golden-dawn-is-arrested-on-charges-of-forming-a-criminal-organization.md)
-_Context: Greece, Golden Dawn, Nikolaos Michaloliakos_
+_Context: Golden Dawn, Nikolaos Michaloliakos, Greece_
 
 ##### U.S. Navy
 ### [U.S. Navy Vice Admiral Tim Giardina is suspended from his duties as #2 of the U.S. Strategic Command due to an investigation into gambling-related issues. ](/news/2013/09/28/u-s-navy-vice-admiral-tim-giardina-is-suspended-from-his-duties-as-2-of-the-u-s-strategic-command-due-to-an-investigation-into-gambling-r.md)
-_Context: U.S. Strategic Command, Tim Giardina, U.S. Navy, Vice Admiral_
+_Context: Vice Admiral, U.S. Strategic Command, Tim Giardina, U.S. Navy_
 
 ##### Guinea
 ### [Voters in Guinea go to the polls for a legislative election. ](/news/2013/09/28/voters-in-guinea-go-to-the-polls-for-a-legislative-election.md)
@@ -31,7 +31,7 @@ The people of Guinea have voted in their first parliamentary election since a mi
 
 ##### Silvio Berlusconi
 ### [All the ministers from Silvio Berlusconi's People of Freedom party resign from the Government of Italy. ](/news/2013/09/28/all-the-ministers-from-silvio-berlusconi-s-people-of-freedom-party-resign-from-the-government-of-italy.md)
-_Context: Silvio Berlusconi, Government of Italy, People of Freedom_
+_Context: People of Freedom, Government of Italy, Silvio Berlusconi_
 
 ## [Previous Day...](/news/2013/09/27/index.md)
 

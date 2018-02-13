@@ -9,19 +9,19 @@ Explosion said to have caused homes to shake homes as far as 5 miles away; over 
 
 ##### Prince Rainier
 ### [ Rainier III, Prince of Monaco reportedly has gone into renal and heart failure and is on a ventilator. ](/news/2005/03/23/rainier-iii-prince-of-monaco-reportedly-has-gone-into-renal-and-heart-failure-and-is-on-a-ventilator.md)
-_Context: heart failure, Prince Rainier, renal failure, ventilator_
+_Context: renal failure, heart failure, Prince Rainier, ventilator_
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: Iraqi Army officials claim that they along with backing from U.S. troops have killed at least 80 insurgents in a raid on a camp near Tikrit. ](/news/2005/03/23/conflict-in-iraq-iraqi-army-officials-claim-that-they-along-with-backing-from-u-s-troops-have-killed-at-least-80-insurgents-in-a-raid-on.md)
-_Context: Iraqi insurgency, Tikrit, Conflict in Iraq, Iraq_
+_Context: Tikrit, Iraqi insurgency, Iraq, Conflict in Iraq_
 
 ##### Christian
 ### [ Two people die following a bomb in a shopping centre in a Christian area of North Beirut, Lebanon. The two are believed to have been foreign workers. ](/news/2005/03/23/two-people-die-following-a-bomb-in-a-shopping-centre-in-a-christian-area-of-north-beirut-lebanon-the-two-are-believed-to-have-been-foreig.md)
-_Context: Beirut, Christian, Lebanese_
+_Context: Lebanese, Beirut, Christian_
 
 ##### Lebanese
 ### [ In Lebanon, Michel Abu Arraj, a judge investigating the murder of Rafik Hariri, asks to step down from the case prior to public announcement of the results of the United Nations investigation. ](/news/2005/03/23/in-lebanon-michel-abu-arraj-a-judge-investigating-the-murder-of-rafik-hariri-asks-to-step-down-from-the-case-prior-to-public-announcemen.md)
-_Context: Michel Abu Arraj, United Nations, Rafik Hariri, Lebanese_
+_Context: United Nations, Michel Abu Arraj, Rafik Hariri, Lebanese_
 
 ##### Israel
 ### [ Israel announces that it will ban Palestinians from the West Bank and Gaza Strip from entering Israel during the upcoming Purim holiday. ](/news/2005/03/23/israel-announces-that-it-will-ban-palestinians-from-the-west-bank-and-gaza-strip-from-entering-israel-during-the-upcoming-purim-holiday.md)
@@ -29,7 +29,7 @@ Israel has banned the entry of Palestinians from the West Bank and Gaza during t
 
 ##### Brazil
 ### [ In Brazil, the Brazilian Army receives permission to set up second emergency field hospital in the park of Rio de Janeiro to alleviate shortage of medical services. Mayor Cesar Maia opposes the move, blaming the situation on lack of government funding. ](/news/2005/03/23/in-brazil-the-brazilian-army-receives-permission-to-set-up-second-emergency-field-hospital-in-the-park-of-rio-de-janeiro-to-alleviate-shor.md)
-_Context: Cesar Maia, Army, Mayor, Brazil, Rio de Janeiro_
+_Context: Cesar Maia, Rio de Janeiro, Brazil, Mayor, Army_
 
 ##### Kyrgyzstan
 ### [ In Kyrgyzstan, riot police break up a protest in the capital Bishkek. ](/news/2005/03/23/in-kyrgyzstan-riot-police-break-up-a-protest-in-the-capital-bishkek.md)
@@ -41,7 +41,7 @@ _Context: Scottish Episcopal Church_
 
 ##### Central African Republic
 ### [ In the Central African Republic, the spokesman of Andr Kolingba, former military ruler, says that yesterday's shootout outside his house was an assassination attempt. Kolingba has called for an annulment of the results of the presidential elections. ](/news/2005/03/23/in-the-central-african-republic-the-spokesman-of-andre-kolingba-former-military-ruler-says-that-yesterday-s-shootout-outside-his-house-w.md)
-_Context: Andr Kolingba, Central African Republic_
+_Context: Central African Republic, Andr Kolingba_
 
 ##### Cambodia
 ### [ In Cambodia, 16 prisoners die during a jailbreak in the province of Kampong Cham; 30 others escape. ](/news/2005/03/23/in-cambodia-16-prisoners-die-during-a-jailbreak-in-the-province-of-kampong-cham-30-others-escape.md)

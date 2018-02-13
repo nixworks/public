@@ -33,7 +33,7 @@ _Context: Sanctions against North Korea, chemical weapons, United Nations_
 
 ##### Drug crackdown
 ### [After the shooting of Kian Loyd delos Santos, a 17-year-old student, in the campaign against drugs in the Philippines, thousands of marchers protest in EDSA heeding calls from the Philippine Catholic Church to criticize the drug war. ](/news/2017/08/21/after-the-shooting-of-kian-loyd-delos-santos-a-17-year-old-student-in-the-campaign-against-drugs-in-the-philippines-thousands-of-marchers.md)
-_Context: Philippines, drug crackdown, Philippine Catholic Church, shooting of Kian Loyd delos Santos, EDSA_
+_Context: shooting of Kian Loyd delos Santos, drug crackdown, EDSA, Philippine Catholic Church, Philippines_
 
 ##### Beating of DeAndre Harris
 ### [Virginia Governor Terry McAuliffe calls for arrests related to the beating of a black counterprotester by white supremacists during the Unite the Right rally. (](/news/2017/08/21/virginia-governor-terry-mcauliffe-calls-for-arrests-related-to-the-beating-of-a-black-counterprotester-by-white-supremacists-during-the-unit.md)
@@ -41,7 +41,7 @@ Gov. Terry McAuliffe &ldquo;wants to see arrests and prosecutions&rdquo; in the 
 
 ##### Solar eclipse of August 21, 2017
 ### [Millions of United States residents and visitors are able to witness a total solar eclipse that crosses through North America. It is the first total solar eclipse visible across the entire contiguous United States since the solar eclipse of June 8, 1918. ](/news/2017/08/21/millions-of-united-states-residents-and-visitors-are-able-to-witness-a-total-solar-eclipse-that-crosses-through-north-america-it-is-the-fir.md)
-_Context: Solar eclipse of August 21, 2017, North America, total solar eclipse, contiguous United States, American, solar eclipse of June 8, 1918_
+_Context: total solar eclipse, North America, Solar eclipse of August 21, 2017, solar eclipse of June 8, 1918, U.S., contiguous United States_
 
 ## [Previous Day...](/news/2017/08/20/index.md)
 

@@ -25,19 +25,19 @@ Afghan President Hamid Karzai calls the first joint operation by Russian and US 
 
 ##### Guinea
 ### [Thousands of people flee their homes in Guinea amid ethnic clashes ahead of a presidential run-off. ](/news/2010/10/30/thousands-of-people-flee-their-homes-in-guinea-amid-ethnic-clashes-ahead-of-a-presidential-run-off.md)
-_Context: Guinea, November's presidential poll_
+_Context: November's presidential poll, Guinea_
 
 ##### Plateau State
 ### [Community leaders in Plateau State, Nigeria, appeal for calm following attacks by Muslim Hausa-Fulani against a Christian village near the city of Jos. ](/news/2010/10/30/community-leaders-in-plateau-state-nigeria-appeal-for-calm-following-attacks-by-muslim-hausa-fulani-against-a-christian-village-near-the-c.md)
-_Context: Plateau State, Christian, Nigeria, Jos, Hausa-Fulani, Muslim_
+_Context: Muslim, Plateau State, Jos, Nigeria, Christian, Hausa-Fulani_
 
 ##### Somali pirates
 ### [Somali pirates attack and seize a Liberian tanker with 24 crew on board in the Indian Ocean. ](/news/2010/10/30/somali-pirates-attack-and-seize-a-liberian-tanker-with-24-crew-on-board-in-the-indian-ocean.md)
-_Context: Somali pirates, Indian, Liberia_
+_Context: Liberia, Indian, Somali pirates_
 
 ##### AMISOM
 ### [A roadside bomb targeting the African Union Mission to Somalia kills seven people in the capital Mogadishu. ](/news/2010/10/30/a-roadside-bomb-targeting-the-african-union-mission-to-somalia-kills-seven-people-in-the-capital-mogadishu.md)
-_Context: Mogadishu, AMISOM_
+_Context: AMISOM, Mogadishu_
 
 ##### Take That
 ### [English pop group Take That sell 1 million 2011 reunion tour tickets within 24 hours amid crashing websites and jammed phone lines. ](/news/2010/10/30/english-pop-group-take-that-sell-1-million-2011-reunion-tour-tickets-within-24-hours-amid-crashing-websites-and-jammed-phone-lines.md)
@@ -65,7 +65,7 @@ _Context: Typhoon Chaba, Japan_
 
 ##### France
 ### [French and Australian rescue crews find four French nationals who died in a helicopter crash in Antarctica. ](/news/2010/10/30/french-and-australian-rescue-crews-find-four-french-nationals-who-died-in-a-helicopter-crash-in-antarctica.md)
-_Context: Antarctica, Australia, France, find four French nationals, helicopter_
+_Context: France, helicopter, Antarctica, Australia, find four French nationals_
 
 ##### Tropical Storm Tomas
 ### [Hurricane Tomas lashes the islands of Saint Lucia and Saint Vincent in the Lesser Antilles. ](/news/2010/10/30/hurricane-tomas-lashes-the-islands-of-saint-lucia-and-saint-vincent-in-the-lesser-antilles.md)
@@ -89,7 +89,7 @@ Saudi king invites bloc leaders to Riyadh for talks aimed at breaking months of 
 
 ##### Rwanda
 ### [Two men are sentenced to life imprisonment for the killing of a Rwandan journalist who had allegedly uncovered evidence that the Rwandan government was behind the attempted murder of an ex-army general. ](/news/2010/10/30/two-men-are-sentenced-to-life-imprisonment-for-the-killing-of-a-rwandan-journalist-who-had-allegedly-uncovered-evidence-that-the-rwandan-gov.md)
-_Context: Rwanda, Rwandan government_
+_Context: Rwandan government, Rwanda_
 
 ##### Turkey
 ### [Turkey lifts a two-year ban on YouTube, which was blocked due to videos insulting the country's founder Mustafa Kemal Ataturk. ](/news/2010/10/30/turkey-lifts-a-two-year-ban-on-youtube-which-was-blocked-due-to-videos-insulting-the-country-s-founder-mustafa-kemal-atata1-4rk.md)
@@ -101,7 +101,7 @@ Two people remain in detention in connection with alleged attack plot in Gothenb
 
 ##### Soccer
 ### [Fourteen people are killed by gunmen at a soccer field in San Pedro Sula, Honduras. ](/news/2010/10/30/fourteen-people-are-killed-by-gunmen-at-a-soccer-field-in-san-pedro-sula-honduras.md)
-_Context: soccer, San Pedro Sula, Honduras_
+_Context: soccer, Honduras, San Pedro Sula_
 
 ##### Rally to Restore Sanity and/or Fear
 ### [An estimated 200,000 people attend the Rally to Restore Sanity and-or Fear by political satirists Jon Stewart and Stephen Colbert on the National Mall in Washington, D.C. ](/news/2010/10/30/an-estimated-200-000-people-attend-the-rally-to-restore-sanity-and-or-fear-by-political-satirists-jon-stewart-and-stephen-colbert-on-the-nat.md)
@@ -109,7 +109,7 @@ Gathering in Washington called attempt to inject humour and tone down partisan d
 
 ##### Harriet Harman
 ### [Harriet Harman, the deputy leader of the British Labour Party, issues an apology for branding Danny Alexander, a member of the British Government, a "ginger rodent". Mr Alexander tweets in response: "I am proud to be ginger and rodents do valuable work cleaning up mess others leave behind". ](/news/2010/10/30/harriet-harman-the-deputy-leader-of-the-british-labour-party-issues-an-apology-for-branding-danny-alexander-a-member-of-the-british-gover.md)
-_Context: Harriet Harman, Danny Alexander, ginger, Labour Party, Twitter_
+_Context: Harriet Harman, Labour Party, ginger, Danny Alexander, Twitter_
 
 ##### Al-Hayat
 ### [In an interview with "Al-Hayat" later quoted by Israeli television, senior Hamas official Mahmoud al-Zahar calls a "rebel" against Hamas policy anyone who fires rockets from Gaza into Israel. ](/news/2010/10/30/in-an-interview-with-al-hayat-later-quoted-by-israeli-television-senior-hamas-official-mahmoud-al-zahar-calls-a-rebel-against-hamas-pol.md)

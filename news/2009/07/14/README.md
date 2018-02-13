@@ -5,7 +5,7 @@ Formats: [HTML](2009/07/14/index.html)  [JSON](2009/07/14/index.json)  [XML](200
 
 ##### Malaysia
 ### [ Malaysian opposition party PAS wins the Manek Urai by-election against government-led Barisan Nasional. ](/news/2009/07/14/malaysian-opposition-party-pas-wins-the-manek-urai-by-election-against-government-led-barisan-nasional.md)
-_Context: Barisan Nasional, opposition, Manek Urai by-election, Malaysia, PAS_
+_Context: opposition, Manek Urai by-election, Barisan Nasional, Malaysia, PAS_
 
 ##### Jerzy Buzek
 ### [ Jerzy Buzek, former Prime Minister of Poland, is elected the 28th President of the European Parliament, succeeding Hans-Gert Pottering. ](/news/2009/07/14/jerzy-buzek-former-prime-minister-of-poland-is-elected-the-28th-president-of-the-european-parliament-succeeding-hans-gert-papttering.md)
@@ -13,11 +13,11 @@ _Context: Hans-Gert Pottering, Jerzy Buzek, Prime Minister, President of the Eur
 
 ##### World Health Organization
 ### [ The World Health Organization reports that yields for an H1N1 virus vaccine are lower than expected. ](/news/2009/07/14/the-world-health-organization-reports-that-yields-for-an-h1n1-virus-vaccine-are-lower-than-expected.md)
-_Context: virus, H1N1, vaccine, World Health Organization_
+_Context: vaccine, H1N1, virus, World Health Organization_
 
 ##### Ethnic riots
 ### [ China urges Turkish Prime Minister Tayyip Erdogan to retract his comments of "genocide" in Xinjiang. ](/news/2009/07/14/china-urges-turkish-prime-minister-tayyip-erdoaan-to-retract-his-comments-of-genocide-in-xinjiang.md)
-_Context: China, Turkish Prime Minister, Xinjiang, Tayyip Erdogan, Turkey, ethnic riots_
+_Context: Tayyip Erdogan, ethnic riots, China, Turkey, Turkish Prime Minister, Xinjiang_
 
 ##### France
 ### [ Two foreign nationals, believed to be French, are kidnapped by gunmen after a hotel is stormed in Mogadishu, Somalia. ](/news/2009/07/14/two-foreign-nationals-believed-to-be-french-are-kidnapped-by-gunmen-after-a-hotel-is-stormed-in-mogadishu-somalia.md)
@@ -29,27 +29,27 @@ First publicly reported trials since the 2003 attacks involved suspected al-Qaed
 
 ##### Japan
 ### [ Japanese Prime Minister Taro Aso survives a vote of no-confidence. ](/news/2009/07/14/japanese-prime-minister-taro-aso-survives-a-vote-of-no-confidence.md)
-_Context: Taro Aso, Japan, Prime Minister of Japan_
+_Context: Japan, Prime Minister of Japan, Taro Aso_
 
 ##### Liberia
 ### [ Former Liberian President Charles Taylor takes the stand in his own defence at his trial. ](/news/2009/07/14/former-liberian-president-charles-taylor-takes-the-stand-in-his-own-defence-at-his-trial.md)
-_Context: Charles Taylor, trial, President of Liberia, Liberia_
+_Context: trial, Charles Taylor, Liberia, President of Liberia_
 
 ##### Series of riots
 ### [ 240 people are arrested in a series of riots in France on the eve of the Bastille Day celebrations. ](/news/2009/07/14/240-people-are-arrested-in-a-series-of-riots-in-france-on-the-eve-of-the-bastille-day-celebrations.md)
-_Context: series of riots, Bastille Day, France_
+_Context: Bastille Day, series of riots, France_
 
 ##### Immigration
 ### [ Talks on immigration between the United States and Cuba, suspended since 2003, will resume. ](/news/2009/07/14/talks-on-immigration-between-the-united-states-and-cuba-suspended-since-2003-will-resume.md)
-_Context: immigration, Cuba, American_
+_Context: immigration, Cuba, U.S._
 
 ##### Lithuanian parliament
 ### [ The Lithuanian parliament overcomes the President's veto and passes a law which forbids propaganda of homosexual, bisexual and polygamous relations, in order to protect minors from detriment to their development. At the same time the law forbids any mocking and defiance on the basis of sexual orientation. ](/news/2009/07/14/the-lithuanian-parliament-overcomes-the-president-s-veto-and-passes-a-law-which-forbids-propaganda-of-homosexual-bisexual-and-polygamous-r.md)
-_Context: minors, Lithuanian parliament, propaganda, President_
+_Context: minors, President, propaganda, Lithuanian parliament_
 
 ##### Canadian
 ### [ Canada imposes visa requirements to come into effect on July 14 on travellers from Mexico and the Czech Republic after a big jump in refugee claims from these two countries. ](/news/2009/07/14/canada-imposes-visa-requirements-to-come-into-effect-on-july-14-on-travellers-from-mexico-and-the-czech-republic-after-a-big-jump-in-refuge.md)
-_Context: visa-free travel, Mexican, Czech Republic, Canadian, refugee_
+_Context: visa-free travel, Czech Republic, refugee, Mexican, Canadian_
 
 ##### Egypt
 ### [ An Egyptian civil servant is jailed for three years for insulting President Hosni Mubarak in a poem. ](/news/2009/07/14/an-egyptian-civil-servant-is-jailed-for-three-years-for-insulting-president-hosni-mubarak-in-a-poem.md)

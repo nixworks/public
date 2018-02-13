@@ -5,15 +5,15 @@ Formats: [HTML](2010/10/6/index.html)  [JSON](2010/10/6/index.json)  [XML](2010/
 
 ##### Drones launch
 ### [Eleven suspected militants are killed in a US drone attack near Miramshah in North Waziristan, Pakistan. ](/news/2010/10/6/eleven-suspected-militants-are-killed-in-a-us-drone-attack-near-miramshah-in-north-waziristan-pakistan.md)
-_Context: drones launch, Miramshah, Pakistan_
+_Context: Miramshah, Pakistan, drones launch_
 
 ##### Azmat Khel
 ### [One person is killed and two others were injured when an explosion took place in the Azmat Khel Area of Bannu, Pakistan. ](/news/2010/10/6/one-person-is-killed-and-two-others-were-injured-when-an-explosion-took-place-in-the-azmat-khel-area-of-bannu-pakistan.md)
-_Context: Pakistan, Azmat Khel, Bannu_
+_Context: Bannu, Pakistan, Azmat Khel_
 
 ##### Thailand
 ### [Thai authorities accuse the anti-government red shirts of being behind a bomb blast in the capital Bangkok that killed at least three people. ](/news/2010/10/6/thai-authorities-accuse-the-anti-government-red-shirts-of-being-behind-a-bomb-blast-in-the-capital-bangkok-that-killed-at-least-three-people.md)
-_Context: Bangkok, United Front for Democracy Against Dictatorship, Thailand_
+_Context: Thailand, United Front for Democracy Against Dictatorship, Bangkok_
 
 ##### NATO
 ### [Gunmen torch up to 40 oil tanker trucks carrying fuel for NATO forces in Afghanistan in Quetta and Nowshera, Pakistan and kill a truck driver. The Tehreek-e-Taliban claimed responsibility for that and other attacks. This was the sixth attack on convoys taking supplies to Afghanistan since Pakistan closed a key border crossing almost a week ago. ](/news/2010/10/6/gunmen-torch-up-to-40-oil-tanker-trucks-carrying-fuel-for-nato-forces-in-afghanistan-in-quetta-and-nowshera-pakistan-and-kill-a-truck-drive.md)
@@ -21,15 +21,15 @@ The U.S. apologized Wednesday for a recent helicopter attack that killed two Pak
 
 ##### United Kingdom
 ### [A British embassy car is attacked in Sanaa, the capital of Yemen with three people injured . ](/news/2010/10/6/a-british-embassy-car-is-attacked-in-sanaa-the-capital-of-yemen-with-three-people-injured.md)
-_Context: United Kingdom, Sana'a, embassies, Yemen_
+_Context: United Kingdom, Yemen, Sana'a, embassies_
 
 ##### U.S. President
 ### [President of the United States Barack Obama awards a Medal of Honor posthumously to Robert James Miller of the US Army Green Berets for "conspicuous gallantry ... at risk of life above and beyond the call of duty" while fighting in the War in Afghanistan on January 25, 2008. ](/news/2010/10/6/president-of-the-united-states-barack-obama-awards-a-medal-of-honor-posthumously-to-robert-james-miller-of-the-us-army-green-berets-for-con.md)
-_Context: Robert James Miller, Special Forces, Barack Obama, War in Afghanistan (2001-present), Medal of Honor, U.S. President_
+_Context: Robert James Miller, Special Forces, War in Afghanistan (2001-present), U.S. President, Barack Obama, Medal of Honor_
 
 ##### Pusan International Film Festival
 ### [The 15th Pusan International Film Festival started in Pusan, South Korea. ](/news/2010/10/6/the-15th-pusan-international-film-festival-started-in-pusan-south-korea.md)
-_Context: Pusan, Pusan International Film Festival, South Korea_
+_Context: South Korea, Pusan, Pusan International Film Festival_
 
 ##### Ireland
 ### [Irish poet Seamus Heaney wins the Forward Poetry Prize. ](/news/2010/10/6/irish-poet-seamus-heaney-wins-the-forward-poetry-prize.md)
@@ -37,11 +37,11 @@ Poet Seamus Heaney is named the winner of the prestigious Forward Prize, which c
 
 ##### Autopsy
 ### [An autopsy finds that the death of United States actor Gary Coleman in Salt Lake City, Utah was an accident. ](/news/2010/10/6/an-autopsy-finds-that-the-death-of-united-states-actor-gary-coleman-in-salt-lake-city-utah-was-an-accident.md)
-_Context: American, Utah, Gary Coleman, Salt Lake City, autopsy_
+_Context: Gary Coleman, Salt Lake City, Utah, U.S., autopsy_
 
 ##### My Dinh National Stadium
 ### [Four people were killed and three others were injured when two containers of fireworks exploded near the My Dinh National Stadium, Hanoi. ](/news/2010/10/6/four-people-were-killed-and-three-others-were-injured-when-two-containers-of-fireworks-exploded-near-the-my-dinh-national-stadium-hanoi.md)
-_Context: My Dinh National Stadium, Hanoi_
+_Context: Hanoi, My Dinh National Stadium_
 
 ##### Tajikistan
 ### [At least 25 soldiers are killed in a helicopter crash in Tajikistan, east of the capital Dushanbe. ](/news/2010/10/6/at-least-25-soldiers-are-killed-in-a-helicopter-crash-in-tajikistan-east-of-the-capital-dushanbe.md)
@@ -69,7 +69,7 @@ _Context: India, Vishwas Nagar_
 
 ##### Tornado
 ### [Tornadoes hit Bellemont, Arizona in the southwest of the United States resulting in at least seven people being injured. ](/news/2010/10/6/tornadoes-hit-bellemont-arizona-in-the-southwest-of-the-united-states-resulting-in-at-least-seven-people-being-injured.md)
-_Context: American, Arizona, Bellemont, tornado_
+_Context: Bellemont, tornado, U.S., Arizona_
 
 ##### South Korea
 ### [South Korea and the European Union sign a free trade agreement. ](/news/2010/10/6/south-korea-and-the-european-union-sign-a-free-trade-agreement.md)
@@ -79,17 +79,17 @@ _Context: free trade agreement, European Union, South Korea_
 ### [46 police officers in Ecuador are arrested on suspicion of involvement in last week's uprising. ](/news/2010/10/6/46-police-officers-in-ecuador-are-arrested-on-suspicion-of-involvement-in-last-week-s-uprising.md)
 _Context: protested against being stripped of their bonuses, Ecuador_
 
-##### American
+##### U.S.
 ### [The first civilian trial of a person formerly imprisoned by the United States in Guantanamo Bay begins in New York. According to his lawyers Ahmed Ghailani of Tanzania was tortured. ](/news/2010/10/6/the-first-civilian-trial-of-a-person-formerly-imprisoned-by-the-united-states-in-guanta-namo-bay-begins-in-new-york-according-to-his-lawyer.md)
 The judge in the first civilian case against an ex-Guantanamo inmate bars a key government witness, in a blow to US prosecutors.
 
 ##### Federal Court of Canada
 ### [A Federal Court of Canada judge rejects a request by francophone groups outside Quebec to overturn the Conservative government's decision to scrap the longform census. ](/news/2010/10/6/a-federal-court-of-canada-judge-rejects-a-request-by-francophone-groups-outside-quebec-to-overturn-the-conservative-government-s-decision-to.md)
-_Context: census, francophone, Conservative Party's, Quebec, Federal Court of Canada_
+_Context: Quebec, Federal Court of Canada, Conservative Party's, census, francophone_
 
-##### American
+##### U.S.
 ### [United States Federal Bureau of Investigation agents arrest dozens of Puerto Rico police officers accused of aiding drug traffickers. ](/news/2010/10/6/united-states-federal-bureau-of-investigation-agents-arrest-dozens-of-puerto-rico-police-officers-accused-of-aiding-drug-traffickers.md)
-_Context: Puerto Rico, police officers, FBI, American_
+_Context: police officers, FBI, Puerto Rico, U.S._
 
 ##### Victoria
 ### [Law enforcement agencies in Victoria, Australia, the United Kingdom and Spain conduct raids in relation to allegedly corrupt behaviour by the currency subsidiary of the Reserve Bank of Australia. ](/news/2010/10/6/law-enforcement-agencies-in-victoria-australia-the-united-kingdom-and-spain-conduct-raids-in-relation-to-allegedly-corrupt-behaviour-by-th.md)
@@ -105,15 +105,15 @@ Ethiopian opposition leader Birtukan Mideksa was freed from prison today after t
 
 ##### Pro- and anti
 ### [China's climate negotiator Xie Zhenhua states that the country's voluntary efforts supported by its own resources and technologies only accept "non-invasive" international consultation and analysis at the UNFCCC meeting in Tianjin, China. ](/news/2010/10/6/china-s-climate-negotiator-xie-zhenhua-states-that-the-country-s-voluntary-efforts-supported-by-its-own-resources-and-technologies-only-acce.md)
-_Context: UNFCCC, Xie Zhenhua, China, pro- and anti, Tianjin_
+_Context: Xie Zhenhua, Tianjin, UNFCCC, pro- and anti, China_
 
 ##### China
 ### [China's gross domestic product (GDP) will grow by 10.5 percent in 2010 and 9.6 percent in 2011, ahead of other major economies, according to a report released by the International Monetary Fund. ](/news/2010/10/6/china-s-gross-domestic-product-gdp-will-grow-by-10-5-percent-in-2010-and-9-6-percent-in-2011-ahead-of-other-major-economies-according-to.md)
-_Context: International Monetary Fund, China, gross domestic product_
+_Context: gross domestic product, International Monetary Fund, China_
 
 ##### Richard F. Heck
 ### [Richard F. Heck, Ei-ichi Negishi and Akira Suzuki win the 2010 Nobel Prize in Chemistry for developing new ways of linking carbon atoms together. ](/news/2010/10/6/richard-f-heck-ei-ichi-negishi-and-akira-suzuki-win-the-2010-nobel-prize-in-chemistry-for-developing-new-ways-of-linking-carbon-atoms-toge.md)
-_Context: Akira Suzuki, Nobel Prize in Chemistry, Richard F. Heck, atom, Ei-ichi Negishi, carbon_
+_Context: atom, Akira Suzuki, Nobel Prize in Chemistry, Richard F. Heck, Ei-ichi Negishi, carbon_
 
 ## [Previous Day...](/news/2010/10/5/index.md)
 

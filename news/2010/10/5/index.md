@@ -5,7 +5,7 @@ Formats: [HTML](2010/10/5/index.html)  [JSON](2010/10/5/index.json)  [XML](2010/
 
 ##### Afghanistan
 ### [Afghan militant attacks kill 4 civilians, wound 6 in southwestern Farah province's Rusht Rod district. ](/news/2010/10/5/afghan-militant-attacks-kill-4-civilians-wound-6-in-southwestern-farah-province-s-rusht-rod-district.md)
-_Context: Rusht Rod, Afghanistan, Farah province_
+_Context: Afghanistan, Farah province, Rusht Rod_
 
 ##### Bangkok
 ### [At least 3 people are killed and 9 others receive wounds during a bomb explosion at an apartment complex in the suburbs of Bangkok. ](/news/2010/10/5/at-least-3-people-are-killed-and-9-others-receive-wounds-during-a-bomb-explosion-at-an-apartment-complex-in-the-suburbs-of-bangkok.md)
@@ -13,7 +13,7 @@ A bomb explosion at an apartment building on the outskirts of the Thai capital o
 
 ##### ULFA
 ### [A linkmen working for the banned ULFA is killed, while 2 other cadres reportedly escape with their lives in an encounter in Meghalaya's West Garo Hills district. ](/news/2010/10/5/a-linkmen-working-for-the-banned-ulfa-is-killed-while-2-other-cadres-reportedly-escape-with-their-lives-in-an-encounter-in-meghalaya-s-west.md)
-_Context: West Garo Hills, ULFA, Meghalaya_
+_Context: West Garo Hills, Meghalaya, ULFA_
 
 ##### Derry
 ### [A car bomb explodes beside a shopping centre in Derry, Northern Ireland. ](/news/2010/10/5/a-car-bomb-explodes-beside-a-shopping-centre-in-derry-northern-ireland.md)
@@ -29,7 +29,7 @@ Paul Henry has been suspended by TVNZ for comments he made yesterday about the G
 
 ##### Google lines up Internet TV
 ### [Google lines up Internet TV programming partners like TBS, TNT, CNN, HBO, NBA, CNBC. ](/news/2010/10/5/google-lines-up-internet-tv-programming-partners-like-tbs-tnt-cnn-hbo-nba-cnbc.md)
-_Context: CNN, CNBC, Google lines up Internet TV, TBS, basketball, TNT, HBO_
+_Context: basketball, HBO, Google lines up Internet TV, TNT, CNN, CNBC, TBS_
 
 ##### Koro
 ### [Researchers identify a new, though threatened, language known as Koro. ](/news/2010/10/5/researchers-identify-a-new-though-threatened-language-known-as-koro.md)
@@ -37,7 +37,7 @@ Researchers have identified a language new to science in a remote region of Indi
 
 ##### Bank of Japan
 ### [The Bank of Japan lowers interest rates in Japan to a range of between 0 and 0.1%. ](/news/2010/10/5/the-bank-of-japan-lowers-interest-rates-in-japan-to-a-range-of-between-0-and-0-1.md)
-_Context: interest rates, Bank of Japan, Japan_
+_Context: Bank of Japan, Japan, interest rates_
 
 ##### Mexican
 ### [Mexico issues its first ever 100-year bond, raising US$1 billion in a day. ](/news/2010/10/5/mexico-issues-its-first-ever-100-year-bond-raising-us-1-billion-in-a-day.md)
@@ -53,7 +53,7 @@ At least 400 children have died from lead poisoning in northern Nigeria this yea
 
 ##### Cessna 402
 ### [At least seven people die after a Cessna 402 crashes in the Bahamas. ](/news/2010/10/5/at-least-seven-people-die-after-a-cessna-402-crashes-in-the-bahamas.md)
-_Context: Cessna 402, Bahamas_
+_Context: Bahamas, Cessna 402_
 
 ##### President of Indonesia
 ### [President of Indonesia Susilo Bambang Yudhoyono cancels a state visit to the Netherlands in protest of a possible court arrest. ](/news/2010/10/5/president-of-indonesia-susilo-bambang-yudhoyono-cancels-a-state-visit-to-the-netherlands-in-protest-of-a-possible-court-arrest.md)
@@ -65,7 +65,7 @@ Former Pakistani military ruler Pervez Musharraf says that his forces trained mi
 
 ##### U.S. President
 ### [President of the United States Barack Obama announces plans via Secretary of Energy Steven Chu that additional solar panels will be installed at the White House, while the founder of Sungevity plans to install solar panels at the private official residence of President of the Maldives Mohamed Nasheed for the "Global Work Party" event planned by 350. ](/news/2010/10/5/president-of-the-united-states-barack-obama-announces-plans-via-secretary-of-energy-steven-chu-that-additional-solar-panels-will-be-installe.md)
-_Context: Steven Chu, White House, Sungevity, U.S. President, President of the Maldives, Barack Obama, Mohamed Nasheed, solar panel_
+_Context: President of the Maldives, Sungevity, Barack Obama, U.S. President, Steven Chu, solar panel, White House, Mohamed Nasheed_
 
 ##### Nobel Peace Prize
 ### [1976 Nobel Peace Prize laureate Mairead Maguire is deported by Israel ending her joint effort with other Nobel laureates to meet Israeli and Palestinian peace activists. ](/news/2010/10/5/1976-nobel-peace-prize-laureate-mairead-maguire-is-deported-by-israel-ending-her-joint-effort-with-other-nobel-laureates-to-meet-israeli-and.md)
@@ -81,7 +81,7 @@ A Saudi Arabian prince murdered his servant in a London hotel in an attack with 
 
 ##### Faisal Shahzad
 ### [Faisal Shahzad, the failed Times Square bomber, is sentenced to life imprisonment without the possibility of parole by a court in New York. ](/news/2010/10/5/faisal-shahzad-the-failed-times-square-bomber-is-sentenced-to-life-imprisonment-without-the-possibility-of-parole-by-a-court-in-new-york.md)
-_Context: Faisal Shahzad, Times Square bomber, life imprisonment, New York_
+_Context: life imprisonment, Times Square bomber, New York, Faisal Shahzad_
 
 ##### Societe Generale
 ### [Former Societe Generale trader Jerome Kerviel is sentenced to three years in jail in France for his role in the 2008 Societe Generale trading loss. ](/news/2010/10/5/former-socia-c-ta-c-ga-c-na-c-rale-trader-ja-c-ra-me-kerviel-is-sentenced-to-three-years-in-jail-in-france-for-his-role-in-the-2008-socia-c-ta-c-ga-c-na-c-r.md)
@@ -89,7 +89,7 @@ Former Societe Generale trader Jerome Kerviel sentenced to three years in jail a
 
 ##### Extradite
 ### [The extradiction of alleged arms dealer Viktor Bout from Thailand to the United States moves a step closer after a Thai court dismisses money laundering charges against him. ](/news/2010/10/5/the-extradiction-of-alleged-arms-dealer-viktor-bout-from-thailand-to-the-united-states-moves-a-step-closer-after-a-thai-court-dismisses-mone.md)
-_Context: arms dealer, American, extradite, Thailand, Viktor Bout, money laundering_
+_Context: Viktor Bout, money laundering, arms dealer, extradite, Thailand, U.S._
 
 ##### France
 ### [French police arrest twelve alleged al-Qaeda terrorists in Marseilles and Bordeaux including three suspects allegedly found with bomb making kits. ](/news/2010/10/5/french-police-arrest-twelve-alleged-al-qaeda-terrorists-in-marseilles-and-bordeaux-including-three-suspects-allegedly-found-with-bomb-making.md)
@@ -105,7 +105,7 @@ The judge in the first civilian case against an ex-Guantanamo inmate bars a key 
 
 ##### Serbia
 ### [Serbia mark the tenth anniversary of the overthrow of Slobodan Milosevic. EU and U.S. politicians send their congratulations. ](/news/2010/10/5/serbia-mark-the-tenth-anniversary-of-the-overthrow-of-slobodan-miloa-evia-eu-and-u-s-politicians-send-their-congratulations.md)
-_Context: Slobodan Milosevic, overthrow, Serbia_
+_Context: Serbia, overthrow, Slobodan Milosevic_
 
 ##### David Cameron
 ### [UK Prime Minister David Cameron is forced to issue an apology to his own voters after breaking an election promise by withdrawing child benefit from 1.2 million of them. ](/news/2010/10/5/uk-prime-minister-david-cameron-is-forced-to-issue-an-apology-to-his-own-voters-after-breaking-an-election-promise-by-withdrawing-child-bene.md)
@@ -113,15 +113,15 @@ _Context: David Cameron_
 
 ##### President of Bolivia
 ### [President of Bolivia Evo Morales knees a political opponent in the "testicular zone" during a friendly football match. ](/news/2010/10/5/president-of-bolivia-evo-morales-knees-a-political-opponent-in-the-testicular-zone-during-a-friendly-football-match.md)
-_Context: Evo Morales, President of Bolivia_
+_Context: President of Bolivia, Evo Morales_
 
 ##### Kim Jong-un
 ### [Kim Jong-un joins his father Kim Jong-il in observing Korean People's Army, confirming his status as heir-apparent as Supreme Leader of North Korea. ](/news/2010/10/5/kim-jong-un-joins-his-father-kim-jong-il-in-observing-korean-people-s-army-confirming-his-status-as-heir-apparent-as-supreme-leader-of-nort.md)
-_Context: Kim Jong-un, North Korea, Kim Jong-il, Korean People's Army_
+_Context: North Korea, Kim Jong-il, Kim Jong-un, Korean People's Army_
 
 ##### President
 ### [President of Senegal Abdoulaye Wade dismisses his energy minister Samuel Sarr, following a week of protests over frequent power cuts, and replaces him with Wade's own son. ](/news/2010/10/5/president-of-senegal-abdoulaye-wade-dismisses-his-energy-minister-samuel-sarr-following-a-week-of-protests-over-frequent-power-cuts-and-re.md)
-_Context: President, Samuel Sarr, Abdoulaye Wade_
+_Context: Abdoulaye Wade, President, Samuel Sarr_
 
 ##### Sudan
 ### [Sudan announces its timetable for January's referendum on independence for the south, with 14 November named as the first date for voter registration. ](/news/2010/10/5/sudan-announces-its-timetable-for-january-s-referendum-on-independence-for-the-south-with-14-november-named-as-the-first-date-for-voter-reg.md)

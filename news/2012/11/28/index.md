@@ -5,7 +5,7 @@ Formats: [HTML](2012/11/28/index.html)  [JSON](2012/11/28/index.json)  [XML](201
 
 ##### Damascus
 ### [At least 54 people are killed and more than 120 injured by two car bomb explosions in a south-eastern district of Damascus, Syria's capital. ](/news/2012/11/28/at-least-54-people-are-killed-and-more-than-120-injured-by-two-car-bomb-explosions-in-a-south-eastern-district-of-damascus-syria-s-capital.md)
-_Context: Syria, Damascus_
+_Context: Damascus, Syria_
 
 ##### M23
 ### [M23 rebels announce their withdrawal from territory captured from government troops after a pullout deal was reached in Uganda. ](/news/2012/11/28/m23-rebels-announce-their-withdrawal-from-territory-captured-from-government-troops-after-a-pullout-deal-was-reached-in-uganda.md)
@@ -19,7 +19,7 @@ More than 200 people are wounded as protesters demanding jobs clash with securit
 ### [The UK's Home Office launches a ten week consultation on whether to introduce a minimum price for the sale of alcohol of 45p a unit. The plans are aimed at tackling binge drinking and other alcohol related problems. ](/news/2012/11/28/the-uk-s-home-office-launches-a-ten-week-consultation-on-whether-to-introduce-a-minimum-price-for-the-sale-of-alcohol-of-45p-a-unit-the-pla.md)
 Ministers are proposing to set a minimum price of 45p a unit for the sale of alcohol in England and Wales as part of a drive to tackle problem drinking.
 
-##### American
+##### U.S.
 ### [The United States Environmental Protection Agency announces that BP has been suspended from bidding on future US government contracts as a result of the 2010 "Deepwater Horizon" oil spill. ](/news/2012/11/28/the-united-states-environmental-protection-agency-announces-that-bp-has-been-suspended-from-bidding-on-future-us-government-contracts-as-a-r.md)
 BP Plc, which agreed to plead guilty to criminal charges after the worst oil spill in U.S. history, will be suspended from winning new contracts from the federal government, the U.S. Environmental Protection Agency said today.
 
@@ -29,7 +29,7 @@ The European Commission gives the go-ahead to a major restructuring of four nati
 
 ##### Carlisle
 ### [Seven students and a teacher are injured as the result of a small explosion in an eighth-grade science classroom in Wilson Middle School in Carlisle, Pennsylvania, USA. Two of the students were flown by helicopter to Johns Hopkins Hospital in Baltimore. One was released that evening, the other is in fair condition. ](/news/2012/11/28/seven-students-and-a-teacher-are-injured-as-the-result-of-a-small-explosion-in-an-eighth-grade-science-classroom-in-wilson-middle-school-in.md)
-_Context: Baltimore, Pennsylvania, Carlisle, USA, Johns Hopkins Hospital_
+_Context: Baltimore, Carlisle, Pennsylvania, USA, Johns Hopkins Hospital_
 
 ##### Richard O'Dwyer
 ### [British student Richard O'Dwyer reaches an agreement with authorities in the United States to avoid being extradited from the United Kingdom to stand trial over infringement of U.S. copyright laws over his TVShack website which hosted links to pirated films and television shows. ](/news/2012/11/28/british-student-richard-o-dwyer-reaches-an-agreement-with-authorities-in-the-united-states-to-avoid-being-extradited-from-the-united-kingdom.md)
@@ -45,11 +45,11 @@ For the first time in living memory, New York City - whose murder rate has hit a
 
 ##### CNN
 ### [CNN publish a list of the top 10 CNN Heroes of 2012. Pushpa Basnet, a social worker from Nepal, is listed among others. ](/news/2012/11/28/cnn-publish-a-list-of-the-top-10-cnn-heroes-of-2012-pushpa-basnet-a-social-worker-from-nepal-is-listed-among-others.md)
-_Context: social worker, CNN Heroes, Nepal, Pushpa Basnet, CNN_
+_Context: social worker, Pushpa Basnet, CNN, Nepal, CNN Heroes_
 
 ##### President
 ### [President of Egypt Mohamed Morsi will address the nation about a decree greatly increasing his powers. ](/news/2012/11/28/president-of-egypt-mohamed-morsi-will-address-the-nation-about-a-decree-greatly-increasing-his-powers.md)
-_Context: Mohamed Morsi, decree, President_
+_Context: President, Mohamed Morsi, decree_
 
 ## [Previous Day...](/news/2012/11/27/index.md)
 

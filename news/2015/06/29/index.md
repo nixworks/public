@@ -21,7 +21,7 @@ _Context: Chad, N'Djamena_
 
 ##### Egypt
 ### [Egypt's state prosecutor Hisham Barakat dies in a bomb attack in Cairo. ](/news/2015/06/29/egypt-s-state-prosecutor-hisham-barakat-dies-in-a-bomb-attack-in-cairo.md)
-_Context: Egypt, Cairo, Hisham Barakat_
+_Context: Hisham Barakat, Cairo, Egypt_
 
 ##### Nangarhar province
 ### [According to witnesses who fled fighting in Nangarhar province, fighters loyal to Islamic State seize substantial territory in Afghanistan for the first time, wresting areas in the east from rival Taliban insurgents in a new threat to stability, scorching opium poppy fields that help to fund the Taliban's campaign to overthrow the Afghan government. ](/news/2015/06/29/according-to-witnesses-who-fled-fighting-in-nangarhar-province-fighters-loyal-to-islamic-state-seize-substantial-territory-in-afghanistan-f.md)
@@ -29,13 +29,13 @@ Hundreds of insurgents pledging allegiance to Islamic State pushed out the Talib
 
 ##### Yemeni Crisis (2011-present)
 ### [A car bomb explodes behind a military hospital in the Yemeni capital Sana'a causing 28 casualties. Islamic State has claimed responsibility. ](/news/2015/06/29/a-car-bomb-explodes-behind-a-military-hospital-in-the-yemeni-capital-sana-a-causing-28-casualties-islamic-state-has-claimed-responsibility.md)
-_Context: car bomb, Sana'a, Yemen, Yemeni Crisis (2011-present)_
+_Context: car bomb, Yemen, Sana'a, Yemeni Crisis (2011-present)_
 
 ##### Israeli Navy
 ### [ The Israeli Navy intercepts and takes control of the lone ship still involved in Freedom Flotilla III and pilots it to Ashdod. The other three ships involved had already turned back after being intercepted. Israel offered all ships to unload their humanitarian aid cargo in Israeli ports and transport it into Gaza for free but the ships refused. ](/news/2015/06/29/the-israeli-navy-intercepts-and-takes-control-of-the-lone-ship-still-involved-in-freedom-flotilla-iii-and-pilots-it-to-ashdod-the-other-th.md)
 Contact lost with Swedish-registered &#8216;Marianne&#8217; making its way to Palestinian enclave alone; Israeli Navy boats said to be nearby
 
-##### American
+##### U.S.
 ### [The United States Office of Personnel Management closes down its system for employee background checks following the theft of millions of records in a computer hacking incident suspected to be conducted by Chinese hackers. ](/news/2015/06/29/the-united-states-office-of-personnel-management-closes-down-its-system-for-employee-background-checks-following-the-theft-of-millions-of-re.md)
 US Office of Personnel Management shuts down system for background checks in wake of hack - @ABC
 
@@ -53,7 +53,7 @@ _Context: Burundian legislative election, 2015, Burundi_
 
 ##### Puerto Rico government-debt crisis
 ### [Governor Alejandro Garcia Padilla said the region has failed attempts and is unable to pay off the $72 billion debt. ](/news/2015/06/29/governor-alejandro-garcaa-padilla-said-the-region-has-failed-attempts-and-is-unable-to-pay-off-the-72-billion-debt.md)
-_Context: Alejandro Garcia Padilla, Puerto Rico government-debt crisis_
+_Context: Puerto Rico government-debt crisis, Alejandro Garcia Padilla_
 
 ##### Barack Obama
 ### [U.S. President Barack Obama signs the Defending Public Safety Employees Retirement Act (H.R. 2146), renewing Trade Promotion Authority, and the Trade Preferences Extension Act of 2015 (H.R. 1295), extending Trade Adjustment Assistance. ](/news/2015/06/29/u-s-president-barack-obama-signs-the-defending-public-safety-employees-retirement-act-h-r-2146-renewing-trade-promotion-authority-and.md)

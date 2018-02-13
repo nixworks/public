@@ -9,7 +9,7 @@ At least 16 people reported killed by Syrian forces in city that has become foca
 
 ##### F-15 Eagle
 ### [A F-15 Eagle fighter aircraft from the Japan Air Self-Defense Force based in Naha Air Base on Okinawa crashed on a training exercise on the East China Sea, leading to Japan grounding all F-15 while investigating the cause. ](/news/2011/07/5/a-f-15-eagle-fighter-aircraft-from-the-japan-air-self-defense-force-based-in-naha-air-base-on-okinawa-crashed-on-a-training-exercise-on-the.md)
-_Context: East China Sea, Okinawa, fighter aircraft, Naha Air Base, Japan Air Self-Defense Force, F-15 Eagle_
+_Context: Okinawa, Japan Air Self-Defense Force, F-15 Eagle, fighter aircraft, Naha Air Base, East China Sea_
 
 ##### Taji
 ### [At least 35 people are killed and 28 others are wounded during two explosions in Taji, Iraq. ](/news/2011/07/5/at-least-35-people-are-killed-and-28-others-are-wounded-during-two-explosions-in-taji-iraq.md)
@@ -37,7 +37,7 @@ Venezuela marks the 200th anniversary of independence from Spain, a day after Pr
 
 ##### Sting
 ### [Sting cancels a performance in Astana, Kazakhstan, in support of striking oil and gas workers and calls for "the spotlight of the international media [to be shone] on their situation in the hope of bringing about positive change". ](/news/2011/07/5/sting-cancels-a-performance-in-astana-kazakhstan-in-support-of-striking-oil-and-gas-workers-and-calls-for-the-spotlight-of-the-internatio.md)
-_Context: Kazakhstan, Sting, Astana_
+_Context: Astana, Sting, Kazakhstan_
 
 ##### Sony Music Entertainment
 ### [Sony Music Ireland investigates a possible hacking incident after the early morning appearance of stories relating to R. Kelly, "The X Factor" and the hoax deaths of members of The Script on its website. ](/news/2011/07/5/sony-music-ireland-investigates-a-possible-hacking-incident-after-the-early-morning-appearance-of-stories-relating-to-r-kelly-the-x-facto.md)
@@ -61,7 +61,7 @@ Oil prices rose to their highest in two weeks on Tuesday, aided by a broad rush 
 
 ##### Earthquake
 ### [A 6.5 magnitude earthquake occurs 30 kilometres west of Taupo in the Waikato Region of the North Island of New Zealand. ](/news/2011/07/5/a-6-5-magnitude-earthquake-occurs-30-kilometres-west-of-taupo-in-the-waikato-region-of-the-north-island-of-new-zealand.md)
-_Context: New Zealand, earthquake, Taupo, Waikato Region, North Island_
+_Context: New Zealand, North Island, Taupo, earthquake, Waikato Region_
 
 ##### Japan
 ### [The Japanese media reports that Ryu Matsumoto is to resign as Minister of State for Disaster Management after making insensitive remarks while touring areas hit by the 2011 Tohoku earthquake and tsunami. ](/news/2011/07/5/the-japanese-media-reports-that-ryu-matsumoto-is-to-resign-as-minister-of-state-for-disaster-management-after-making-insensitive-remarks-whi.md)
@@ -73,15 +73,15 @@ Argentine President Cristina Fernandez unveils economic measures to help the sou
 
 ##### Brian Schweitzer
 ### [Brian Schweitzer, the Governor of the US state of Montana declares a state of emergency in counties affected by an oil spill in the Yellowstone River. ](/news/2011/07/5/brian-schweitzer-the-governor-of-the-us-state-of-montana-declares-a-state-of-emergency-in-counties-affected-by-an-oil-spill-in-the-yellowst.md)
-_Context: Governor, state of emergency, Montana, Brian Schweitzer, Yellowstone River_
+_Context: Governor, Yellowstone River, Montana, state of emergency, Brian Schweitzer_
 
 ##### Phoenix, Arizona
 ### [The US city of Phoenix, Arizona is hit by a large dust storm leaving thousands of people without power and grounding flights at Phoenix Sky Harbor International Airport. ](/news/2011/07/5/the-us-city-of-phoenix-arizona-is-hit-by-a-large-dust-storm-leaving-thousands-of-people-without-power-and-grounding-flights-at-phoenix-sky.md)
-_Context: Arizona, Phoenix  Sky Harbor International Airport, dust storm, Phoenix, Arizona_
+_Context: Phoenix, Arizona, dust storm, Arizona, Phoenix  Sky Harbor International Airport_
 
 ##### Escalator
 ### [One person is killed and 29 injured in an escalator malfunction on the Beijing Subway at Beijing Zoo Station. ](/news/2011/07/5/one-person-is-killed-and-29-injured-in-an-escalator-malfunction-on-the-beijing-subway-at-beijing-zoo-station.md)
-_Context: Beijing Zoo Station, Beijing Subway, escalator_
+_Context: Beijing Zoo Station, escalator, Beijing Subway_
 
 ##### News of the World
 ### [British tabloid the "News of the World" faces fresh allegations linking it to hacking activities, this time after it emerges that the mobile phone of murdered 13-year-old schoolgirl Milly Dowler was interfered with and messages left by relatives were deleted. This gave relatives the false impression that Milly Dowler was still alive when she was not. ](/news/2011/07/5/british-tabloid-the-news-of-the-world-faces-fresh-allegations-linking-it-to-hacking-activities-this-time-after-it-emerges-that-the-mobile.md)
@@ -93,7 +93,7 @@ Two national newspapers published articles following the arrest of a man over th
 
 ##### UK Uncut
 ### [13 UK Uncut activists appear in court on charges of aggravated trespass after peacefully occupying the luxury London food retailer Fortnum & Mason during a protest against tax avoidance in March. More than 100 other activists are also expected to be put on trial later, with Labour MP John McDonnell claiming such a trial would be "outrageous" and "fly in the face of public opinion". ](/news/2011/07/5/13-uk-uncut-activists-appear-in-court-on-charges-of-aggravated-trespass-after-peacefully-occupying-the-luxury-london-food-retailer-fortnum.md)
-_Context: Fortnum & Mason, John McDonnell, Labour Party, UK Uncut, trespass_
+_Context: UK Uncut, John McDonnell, trespass, Fortnum & Mason, Labour Party_
 
 ##### Netherlands
 ### [The Netherlands is held responsible for the deaths of three Bosniaks during the Srebrenica massacre in Bosnia, according to a court ruling in The Hague. ](/news/2011/07/5/the-netherlands-is-held-responsible-for-the-deaths-of-three-bosniaks-during-the-srebrenica-massacre-in-bosnia-according-to-a-court-ruling-i.md)
@@ -101,11 +101,11 @@ The Dutch state was responsible for the deaths of three Bosniaks in the 1995 Sre
 
 ##### Plymouth
 ### [25-year-old navy medic Michael Lyons is found guilty in Plymouth of refusing to attend rifle training; Lyons says he developed a moral objection to the war in Afghanistan due to revelations made public by WikiLeaks. ](/news/2011/07/5/25-year-old-navy-medic-michael-lyons-is-found-guilty-in-plymouth-of-refusing-to-attend-rifle-training-lyons-says-he-developed-a-moral-objec.md)
-_Context: WikiLeaks, Plymouth, War in Afghanistan (2001-present)_
+_Context: War in Afghanistan (2001-present), Plymouth, WikiLeaks_
 
 ##### NSW
 ### [New South Wales police are given more powers to remove burqas as anyone refusing to do so faces fines of thousands of dollars or months behind bars. ](/news/2011/07/5/new-south-wales-police-are-given-more-powers-to-remove-burqas-as-anyone-refusing-to-do-so-faces-fines-of-thousands-of-dollars-or-months-behi.md)
-_Context: burqa, NSW_
+_Context: NSW, burqa_
 
 ##### Yonge Street
 ### [Up to 7,000 police march on Yonge Street in Newmarket, Ontario, including some Royal Canadian Mounted Police and American officers, accompanied by thousands of spectators for the funeral procession for Canadian YRP police Constable Garrett Styles, killed when a 15-year-old underage driver accelerated during a traffic stop. ](/news/2011/07/5/up-to-7-000-police-march-on-yonge-street-in-newmarket-ontario-including-some-royal-canadian-mounted-police-and-american-officers-accompan.md)
@@ -117,7 +117,7 @@ The Supreme Court dismisses an attempt by police to suspend a legal ruling limit
 
 ##### Somalia
 ### [A Somali man, Ahmed Abdulkadir Warsame, is charged in the US city of New York with assisting the terrorist groups Al Shaabab and Al Qaeda in the Arabian Peninsula. ](/news/2011/07/5/a-somali-man-ahmed-abdulkadir-warsame-is-charged-in-the-us-city-of-new-york-with-assisting-the-terrorist-groups-al-shaabab-and-al-qaeda-in.md)
-_Context: Al-Shabaab, Somalia, Al Qaeda in the Arabian Peninsula, New York_
+_Context: Somalia, New York, Al Qaeda in the Arabian Peninsula, Al-Shabaab_
 
 ##### Death of her daughter Caylee
 ### [Casey Anthony is acquitted of murder in relation to the death of her daughter Caylee, but guilty on four counts of misdemeanor providing false information to a law enforcement officer. ](/news/2011/07/5/casey-anthony-is-acquitted-of-murder-in-relation-to-the-death-of-her-daughter-caylee-but-guilty-on-four-counts-of-misdemeanor-providing-fal.md)

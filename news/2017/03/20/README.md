@@ -17,7 +17,7 @@ At least 20 more people also injured in the incident near Kintampo town, accordi
 
 ##### 2017 South Supreme Airlines Antonov An-26 crash
 ### [An Antonov An-26 of South Supreme Airlines crashes upon landing at Wau Airport, South Sudan, the 43 people on board survived. ](/news/2017/03/20/an-antonov-an-26-of-south-supreme-airlines-crashes-upon-landing-at-wau-airport-south-sudan-the-43-people-on-board-survived.md)
-_Context: Antonov An-26, South Supreme Airlines, Wau Airport, 2017 South Supreme Airlines Antonov An-26 crash_
+_Context: South Supreme Airlines, Antonov An-26, Wau Airport, 2017 South Supreme Airlines Antonov An-26 crash_
 
 ##### East Timorese presidential election, 2017
 ### [Elections are held in East Timor to vote for the nation's 4th President. Francisco Guterres, runner-up in the 2007 and 2012 elections, is expected to win due to the support of Xanana GusmGBPo. ](/news/2017/03/20/elections-are-held-in-east-timor-to-vote-for-the-nation-s-4th-president-francisco-guterres-runner-up-in-the-2007-and-2012-elections-is-ex.md)
@@ -29,7 +29,7 @@ FBI Director James B. Comey and Adm. Mike Rogers, director of the NSA, will be i
 
 ##### Neil Gorsuch Supreme Court nomination
 ### [The Senate Judiciary Committee begins hearings on the nomination of Judge Neil M. Gorsuch to the Supreme Court of the United States. ](/news/2017/03/20/the-senate-judiciary-committee-begins-hearings-on-the-nomination-of-judge-neil-m-gorsuch-to-the-supreme-court-of-the-united-states.md)
-_Context: Neil M. Gorsuch, Supreme Court of the United States, Neil Gorsuch Supreme Court nomination, United States Senate Committee on the Judiciary_
+_Context: Neil M. Gorsuch, United States Senate Committee on the Judiciary, Neil Gorsuch Supreme Court nomination, Supreme Court of the United States_
 
 ##### Brexit
 ### [British Prime Minister Theresa May announces that her government will trigger article 50, which begins the process of withdrawing from the European Union, on March 29. ](/news/2017/03/20/british-prime-minister-theresa-may-announces-that-her-government-will-trigger-article-50-which-begins-the-process-of-withdrawing-from-the-e.md)

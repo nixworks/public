@@ -13,7 +13,7 @@ Authorities in Romania say one person has died and 19 people were hospitalized f
 
 ##### 2017 disasters in DR Congo
 ### [A military transport plane crashes after take-off from N'djili Airport in Kinshasa, Democratic Republic of the Congo, killing all 12 Russian crew members. ](/news/2017/09/30/a-military-transport-plane-crashes-after-take-off-from-n-djili-airport-in-kinshasa-democratic-republic-of-the-congo-killing-all-12-russian.md)
-_Context: DR Congo, Kinshasa, N'djili Airport, 2017 disasters in DR Congo, Russia_
+_Context: Russia, N'djili Airport, Kinshasa, 2017 disasters in DR Congo, DR Congo_
 
 ##### Human stampede
 ### [A crowd surge collapses a barrier during a soccer match at Stade de la Licorne in Amiens, France, injuring twenty-nine people, five of them seriously. ](/news/2017/09/30/a-crowd-surge-collapses-a-barrier-during-a-soccer-match-at-stade-de-la-licorne-in-amiens-france-injuring-twenty-nine-people-five-of-them.md)
@@ -21,7 +21,7 @@ Twenty-nine fans were hurt, five of them seriously, when a barrier collapsed Sat
 
 ##### Foreign relations of Thailand
 ### [Thailand's Ministry of Foreign Affairs says it is "closely following the situation" in Rakhine State and offers aid for the governments of Myanmar and Bangladesh. ](/news/2017/09/30/thailand-s-ministry-of-foreign-affairs-says-it-is-closely-following-the-situation-in-rakhine-state-and-offers-aid-for-the-governments-of-m.md)
-_Context: Rakhine State, Myanmar, Ministry of Foreign Affairs, Bangladesh, Rohingya persecution in Myanmar (2016-present), Foreign relations of Thailand, Thailand_
+_Context: Ministry of Foreign Affairs, Myanmar, Rakhine State, Rohingya persecution in Myanmar (2016-present), Thailand, Foreign relations of Thailand, Bangladesh_
 
 ##### Abortion in the Republic of Ireland
 ### [Tens of thousands of protesters march through Dublin to demand Ireland to change its abortion laws, and anti-abortion activists stage counter-demonstrations. A pro-choice rally is held outside the Irish embassy in London. ](/news/2017/09/30/tens-of-thousands-of-protesters-march-through-dublin-to-demand-ireland-to-change-its-abortion-laws-and-anti-abortion-activists-stage-counte.md)

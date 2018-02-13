@@ -37,15 +37,15 @@ _Context: Jenny Tonge, Liberal Democrats_
 
 ##### President
 ### [The President of Venezuela Hugo Chvez is recovering from the removal of a tumour from his pelvis in a Cuban hospital. ](/news/2012/02/29/the-president-of-venezuela-hugo-chavez-is-recovering-from-the-removal-of-a-tumour-from-his-pelvis-in-a-cuban-hospital.md)
-_Context: tumour, President, Cuba, Hugo Chvez_
+_Context: Hugo Chvez, President, tumour, Cuba_
 
 ##### Egypt
 ### [Egypt announces that a presidential election will held on May 23-24. ](/news/2012/02/29/egypt-announces-that-a-presidential-election-will-held-on-may-23-24.md)
-_Context: Egypt, presidential election_
+_Context: presidential election, Egypt_
 
 ##### Mitt Romney
 ### [Mitt Romney wins the Republican caucuses held in the US state of Wyoming. ](/news/2012/02/29/mitt-romney-wins-the-republican-caucuses-held-in-the-us-state-of-wyoming.md)
-_Context: Republican, Mitt Romney, Wyoming, Wyoming_
+_Context: Wyoming, Wyoming, Mitt Romney, Republican_
 
 ## [Previous Day...](/news/2012/02/28/index.md)
 

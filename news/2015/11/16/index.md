@@ -9,7 +9,7 @@ Latest updates as Paris manhunt continues and France hits back at Islamic State 
 
 ##### Saudi-led intervention in Yemen
 ### [Yemeni security officials, who are neutral in the conflict, say Saudi-led airstrikes and clashes have killed over 40 Houthi militants and 4 civilians over the past 24 hours, with most of the airstrikes taking place in the southwestern Ibb Governorate. ](/news/2015/11/16/yemeni-security-officials-who-are-neutral-in-the-conflict-say-saudi-led-airstrikes-and-clashes-have-killed-over-40-houthi-militants-and-4.md)
-_Context: Saudi Arabia, Yemen, Saudi-led intervention in Yemen, Houthi, Ibb Governorate_
+_Context: Ibb Governorate, Yemen, Saudi Arabia, Houthi, Saudi-led intervention in Yemen_
 
 ##### Sinai insurgency
 ### [Egypt's security forces shoot dead at least 24 ISIS militants as they hid inside a cave in a mountainous area in central Sinai, not far from the crash site of Metrojet Flight 9268, a Russian airliner the group says it brought down. ](/news/2015/11/16/egypt-s-security-forces-shoot-dead-at-least-24-isis-militants-as-they-hid-inside-a-cave-in-a-mountainous-area-in-central-sinai-not-far-from.md)
@@ -23,17 +23,17 @@ The Japanese economy shrank 0.2 per cent in the July-September period, slipping 
 ### [Marriott International announces it has agreed to buy Starwood Hotels & Resorts in a $12.2 billion deal that would create the world's largest hotel company. ](/news/2015/11/16/marriott-international-announces-it-has-agreed-to-buy-starwood-hotels-resorts-in-a-12-2-billion-deal-that-would-create-the-worldas-larg.md)
 The company will keep its headquarters in Bethesda following the $12.2 billion deal.
 
-##### American
+##### U.S.
 ### [In the United States, federal and state authorities announce Education Management Corp., a company that enrolls more than 100,000 students at North American for-profit trade schools and colleges, agrees to pay $95.5 million to settle claims it illegally paid recruiters and exaggerated the career-placement abilities of its schools. EDMC also agreed to forgive $102.8 million in loans made to more than 80,000 former students. ](/news/2015/11/16/in-the-united-states-federal-and-state-authorities-announce-education-management-corp-a-company-that-enrolls-more-than-100-000-students-a.md)
 Federal and state authorities announced a $95.5-million settlement Monday with the nation&apos;s second-largest chain of for-profit colleges.
 
-##### American
+##### U.S.
 ### [American, British-based telecommunications and television company Liberty Global announces a GBP3.5bn (US$5.3bn) deal to buy British multinational telecommunications company Cable and Wireless Communications (CWC). ](/news/2015/11/16/american-british-based-telecommunications-and-television-company-liberty-global-announces-a-agbp3-5bn-us-5-3bn-deal-to-buy-british-multin.md)
 Liberty Global announces &pound;3.5bn deal to buy London-listed cable provider as billionaire John Malone plans further expansion in Latin America and the Caribbean
 
 ##### China
 ### [The death toll from a landslide in a village in China's Zhejiang province rises to 25 with 12 people still missing. ](/news/2015/11/16/the-death-toll-from-a-landslide-in-a-village-in-china-s-zhejiang-province-rises-to-25-with-12-people-still-missing.md)
-_Context: Zhejiang, China_
+_Context: China, Zhejiang_
 
 ##### 2015 North Indian Ocean cyclone season
 ### [ Floods in Sri Lanka and the southern Indian state of Tamil Nadu cause over 70 deaths with the city of Chennai worst affected. ](/news/2015/11/16/floods-in-sri-lanka-and-the-southern-indian-state-of-tamil-nadu-cause-over-70-deaths-with-the-city-of-chennai-worst-affected.md)
@@ -41,7 +41,7 @@ Reports suggest at least 71 people have died from drowning, collapsing walls and
 
 ##### 2015 Atlantic hurricane season
 ### [The United States National Transportation Safety Board announces it has completed its search of the sunken "El Faro", but did not find the voyage data recorder, i.e., the black box. ](/news/2015/11/16/the-united-states-national-transportation-safety-board-announces-it-has-completed-its-search-of-the-sunken-el-faro-but-did-not-find-the-v.md)
-_Context: Hurricane Joaquin, 2015 Atlantic hurricane season, American, El Faro, NTSB, voyage data recorder_
+_Context: 2015 Atlantic hurricane season, U.S., voyage data recorder, El Faro, Hurricane Joaquin, NTSB_
 
 ##### Territorial disputes in the South China Sea
 ### [The Stethem visits Shanghai, signaling that relations between the two countries continue despite tensions over the recent Lassen 6 cruise near artificial islands constructed by China. The navies of the two nations plan combined maritime exercise as well. ](/news/2015/11/16/the-stethem-visits-shanghai-signaling-that-relations-between-the-two-countries-continue-despite-tensions-over-the-recent-lassen-6-cruise-ne.md)

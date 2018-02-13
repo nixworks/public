@@ -17,13 +17,13 @@ Academic refuses honour in protest against ‘those who remained unresponsive’
 
 ##### Bank of Italy
 ### [The Bank of Italy says in a statement that the country's treasury will have to put up around 6.6 billion euros to rescue Monte dei Paschi given the European Central Bank's estimate of Monte dei Paschi's capital shortfall. ](/news/2016/12/29/the-bank-of-italy-says-in-a-statement-that-the-country-s-treasury-will-have-to-put-up-around-6-6-billion-euros-to-rescue-monte-dei-paschi-gi.md)
-_Context: Monte dei Paschi, European Central Bank, Bank of Italy_
+_Context: Monte dei Paschi, Bank of Italy, European Central Bank_
 
 ##### 
 ### [At least 50 people drown and thousands are left homeless due to flooding in the Democratic Republic of the Congo. ](/news/2016/12/29/at-least-50-people-drown-and-thousands-are-left-homeless-due-to-flooding-in-the-democratic-republic-of-the-congo.md)
 Floods&#x20;triggered&#x20;by&#x20;heavy&#x20;rains&#x20;and&#x20;a&#x20;river&#x20;bursting&#x20;its&#x20;banks&#x20;have&#x20;killed&#x20;at&#x20;least&#x20;50&#x20;people&#x20;and&#x20;left&#x20;thousands&#x20;homeless&#x20;in&#x20;the&#x20;southwest&#x20;Democratic&#x20;Republic&#x20;of&#x20;Con...
 
-##### American
+##### U.S.
 ### [The United States expels 35 Russian diplomats over the alleged Russian interference during the U.S.'s 2016 presidential election. ](/news/2016/12/29/the-united-states-expels-35-russian-diplomats-over-the-alleged-russian-interference-during-the-u-s-s-2016-presidential-election.md)
 The US expels 35 Russian diplomats in the wake of cyber attacks related to the US election.
 

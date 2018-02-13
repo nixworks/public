@@ -9,11 +9,11 @@ France confirms an Algerian jihadist group linked to IS has beheaded 55-year-old
 
 ##### Flash flood
 ### [At least 55 people are dead as a result of flash floods and mudslides in northeast India following days of heavy rain. ](/news/2014/09/24/at-least-55-people-are-dead-as-a-result-of-flash-floods-and-mudslides-in-northeast-india-following-days-of-heavy-rain.md)
-_Context: flash flood, mudslide, India_
+_Context: India, mudslide, flash flood_
 
 ##### Japan
 ### [Japan imposes additional sanctions on Russia due to the Ukraine conflict and a visit by an aide of the President of Russia Vladimir Putin to a contested island off the coast off northern Japan. ](/news/2014/09/24/japan-imposes-additional-sanctions-on-russia-due-to-the-ukraine-conflict-and-a-visit-by-an-aide-of-the-president-of-russia-vladimir-putin-to.md)
-_Context: Vladimir Putin, Ukraine, Russia, Russian President, Japan_
+_Context: Ukraine, Japan, Vladimir Putin, Russia, Russian President_
 
 ##### Disappearance of Hannah Graham
 ### [A Virginia man is arrested in relation to the disappearance of Hannah Graham, a British student studying at the University of Virginia. ](/news/2014/09/24/a-virginia-man-is-arrested-in-relation-to-the-disappearance-of-hannah-graham-a-british-student-studying-at-the-university-of-virginia.md)
@@ -27,7 +27,7 @@ India&#039;s low-cost mission to Mars enters the red planet&#039;s orbit on its 
 
 ##### HU-25 Falcon
 ### [After 32 years of service, the last operational HU-25 Falcon, the only jet to ever be a part of the US Coast Guard's air fleet, was retired in Corpus Christi, Texas. The Falcon played a significant role in search and rescue as well as counter drug missions and was a critical asset during the Gulf War. ](/news/2014/09/24/after-32-years-of-service-the-last-operational-hu-25-falcon-the-only-jet-to-ever-be-a-part-of-the-us-coast-guard-s-air-fleet-was-retired.md)
-_Context: HU-25 Falcon, Corpus Christi, Gulf War, US Coast Guard_
+_Context: Corpus Christi, Gulf War, US Coast Guard, HU-25 Falcon_
 
 ## [Previous Day...](/news/2014/09/23/index.md)
 

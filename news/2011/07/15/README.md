@@ -9,7 +9,7 @@ Security forces in Indian-administered Kashmir kill three militants in an ongoin
 
 ##### Drones launch
 ### [International campaigners against the drone attacks, carried out by the United States in Pakistan, launch their attempt to have former CIA legal chief John A. Rizzo arrested and charged with the murders of hundreds of people after his admission in "Newsweek" that he approved attacks each month since 2004. ](/news/2011/07/15/international-campaigners-against-the-drone-attacks-carried-out-by-the-united-states-in-pakistan-launch-their-attempt-to-have-former-cia-l.md)
-_Context: John A. Rizzo, Pakistan, drones launch, Newsweek, American_
+_Context: U.S., John A. Rizzo, Newsweek, Pakistan, drones launch_
 
 ##### Recep Tayyip Erdogan
 ### [Soldiers, air force bombers and helicopter gunships begin a major offensive in south-eastern Turkey as the country's prime minister Recep Tayyip Erdogan vows to seek vengeance on Kurdish rebels. ](/news/2011/07/15/soldiers-air-force-bombers-and-helicopter-gunships-begin-a-major-offensive-in-south-eastern-turkey-as-the-country-s-prime-minister-recep-ta.md)
@@ -61,7 +61,7 @@ An Indonesian volcano has erupted, spewing rocks, lava and ash hundreds of metre
 
 ##### Pilgrim
 ### [Four pilgrims die when a boulder falls on them at a voodoo festival in Saut d'Eau, Haiti. ](/news/2011/07/15/four-pilgrims-die-when-a-boulder-falls-on-them-at-a-voodoo-festival-in-saut-d-eau-haiti.md)
-_Context: pilgrim, voodoo, Saut d'Eau, Haiti_
+_Context: voodoo, Saut d'Eau, pilgrim, Haiti_
 
 ##### Earthquake
 ### [A magnitude 6 earthquake occurs off the coast of Chile near Valparaiso. ](/news/2011/07/15/a-magnitude-6-earthquake-occurs-off-the-coast-of-chile-near-valparaaso.md)
@@ -69,11 +69,11 @@ A 6.0-magnitude earthquake struck offshore some 58 miles south-southwest of Valp
 
 ##### Zendstation Smilde
 ### [A portion of the Zendstation Smilde in Hoogersmilde, Netherlands collapses in a fire. ](/news/2011/07/15/a-portion-of-the-zendstation-smilde-in-hoogersmilde-netherlands-collapses-in-a-fire.md)
-_Context: Hoogersmilde, Zendstation Smilde, Netherlands_
+_Context: Netherlands, Hoogersmilde, Zendstation Smilde_
 
 ##### Irish
 ### [Ireland's Taoiseach Enda Kenny attacks the Vatican's approach to the child abuse scandals in the country as "absolutely disgraceful", while the Socialist Party's Joe Higgins tells Dail Eireann that people were "throwing their hands in the air" after the report into the sexual abuse scandal in Cloyne diocese was published this week. ](/news/2011/07/15/ireland-s-taoiseach-enda-kenny-attacks-the-vatican-s-approach-to-the-child-abuse-scandals-in-the-country-as-absolutely-disgraceful-while.md)
-_Context: Taoiseach, Dail Eireann, Socialist Party, Joe Higgins, Enda Kenny, Irish, sexual abuse scandal in Cloyne diocese_
+_Context: Enda Kenny, Dail Eireann, Socialist Party, Joe Higgins, Taoiseach, Irish, sexual abuse scandal in Cloyne diocese_
 
 ##### United States Secretary of State
 ### [The United States Secretary of State Hillary Clinton meets with NATO leaders to try to find a solution to the Libya crisis. ](/news/2011/07/15/the-united-states-secretary-of-state-hillary-clinton-meets-with-nato-leaders-to-try-to-find-a-solution-to-the-libya-crisis.md)

@@ -13,7 +13,7 @@ A top Taliban commander and his deputy are among dozens of insurgents killed in 
 
 ##### Egyptian Army
 ### [Four Egyptian Army soldiers are injured in a raid on militants in the Sinai Peninsula. ](/news/2012/08/18/four-egyptian-army-soldiers-are-injured-in-a-raid-on-militants-in-the-sinai-peninsula.md)
-_Context: Sinai Peninsula, Egyptian Army_
+_Context: Egyptian Army, Sinai Peninsula_
 
 ##### Bahrain
 ### [Bahraini security forces kill a 16-year-old boy during rioting in the city of Muharraq. ](/news/2012/08/18/bahraini-security-forces-kill-a-16-year-old-boy-during-rioting-in-the-city-of-muharraq.md)
@@ -29,11 +29,11 @@ _Context: Tropical Storm Leslie, Mexican_
 
 ##### Reserve Bank of India
 ### [The Reserve Bank of India acknowledges poor data for the current monsoon season. ](/news/2012/08/18/the-reserve-bank-of-india-acknowledges-poor-data-for-the-current-monsoon-season.md)
-_Context: monsoon, Reserve Bank of India_
+_Context: Reserve Bank of India, monsoon_
 
 ##### Egypt
 ### [Egypt's state news agency says President Mohammed Morsi is to attend the upcoming Non-Aligned Movement meeting in Iran at the end of August. ](/news/2012/08/18/egypt-s-state-news-agency-says-president-mohammed-morsi-is-to-attend-the-upcoming-non-aligned-movement-meeting-in-iran-at-the-end-of-august.md)
-_Context: Egypt, Mohammed Morsi, Non-Aligned Movement, Iran_
+_Context: Iran, Egypt, Non-Aligned Movement, Mohammed Morsi_
 
 ##### U.S. District Court
 ### [A U.S. District Court judge declines Facebook's $20 million offer to settle a lawsuit revolving around privacy, expressing among other concerns that up to half of that money would be paid to attorneys, and none to the victims. ](/news/2012/08/18/a-u-s-district-court-judge-declines-facebook-s-20-million-offer-to-settle-a-lawsuit-revolving-around-privacy-expressing-among-other-conce.md)

@@ -3,13 +3,13 @@ Formats: [HTML](2009/10/5/index.html)  [JSON](2009/10/5/index.json)  [XML](2009/
 
 ## [2009-10-5](/news/2009/10/5/index.md)
 
-##### American
+##### U.S.
 ### [ The United States Federal Trade Commission issues regulations for writers of blogs. ](/news/2009/10/5/the-united-states-federal-trade-commission-issues-regulations-for-writers-of-blogs.md)
-_Context: American, blogs, U.S. Federal Trade Commission_
+_Context: blogs, U.S., U.S. Federal Trade Commission_
 
 ##### Nobel Prize in Medicine
 ### [ The 2009 Nobel Prize in Medicine goes to Elizabeth H. Blackburn, Carol W. Greider, and Jack W. Szostak, "for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase". ](/news/2009/10/5/the-2009-nobel-prize-in-medicine-goes-to-elizabeth-h-blackburn-carol-w-greider-and-jack-w-szostak-for-the-discovery-of-how-chromosom.md)
-_Context: telomerase, chromosome, enzyme, Jack W. Szostak, telomere, Nobel Prize in Medicine, Elizabeth H. Blackburn, Carol W. Greider_
+_Context: chromosome, telomere, Nobel Prize in Medicine, Elizabeth H. Blackburn, enzyme, telomerase, Jack W. Szostak, Carol W. Greider_
 
 ##### Bangkok
 ### [ An early morning passenger train bound for Bangkok derails in Hua Hin, killing at least seven people and injuring dozens more. ](/news/2009/10/5/an-early-morning-passenger-train-bound-for-bangkok-derails-in-hua-hin-killing-at-least-seven-people-and-injuring-dozens-more.md)
@@ -17,7 +17,7 @@ _Context: Bangkok, Hua Hin_
 
 ##### Samoa
 ### [ Samoans cram into churches and community halls to remember friends and relatives killed in a recent tsunami. ](/news/2009/10/5/samoans-cram-into-churches-and-community-halls-to-remember-friends-and-relatives-killed-in-a-recent-tsunami.md)
-_Context: Samoa, the deadly tsunami_
+_Context: the deadly tsunami, Samoa_
 
 ##### Canadian
 ### [ The Canadian province of Quebec is planning a lawsuit against tobacco companies to seek damages for healthcare costs. ](/news/2009/10/5/the-canadian-province-of-quebec-is-planning-a-lawsuit-against-tobacco-companies-to-seek-damages-for-healthcare-costs.md)
@@ -31,9 +31,9 @@ An explosion apparently caused by a suicide bomber in the lobby of the World Foo
 ### [ Honduran interim President Roberto Micheletti lifts a decree restricting civil liberties. ](/news/2009/10/5/honduran-interim-president-roberto-micheletti-lifts-a-decree-restricting-civil-liberties.md)
 Roberto Micheletti cancels decree limiting freedom of speech, assembly and movement.
 
-##### American
+##### U.S.
 ### [ United States President Barack Obama delays a meeting with the Dalai Lama until after a visit to China. ](/news/2009/10/5/united-states-president-barack-obama-delays-a-meeting-with-the-dalai-lama-until-after-a-visit-to-china.md)
-_Context: Barack Obama, China, U.S. President, 14th Dalai Lama, American_
+_Context: China, 14th Dalai Lama, Barack Obama, U.S. President, U.S._
 
 ##### France Tlcom
 ### [ The Deputy Chief Executive of France Tlcom, Louis-Pierre Wene, resigns over a series of suicides at the company. ](/news/2009/10/5/the-deputy-chief-executive-of-france-telecom-louis-pierre-wene-resigns-over-a-series-of-suicides-at-the-company.md)

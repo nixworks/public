@@ -9,7 +9,7 @@ Armed men set fire to a casino in the northern Mexican city of Monterrey, killin
 
 ##### Libya
 ### [Libya's National Transitional Council announces plans to move its headquarters to Tripoli following the capture of the city from Muammar Gaddafi. ](/news/2011/08/25/libya-s-national-transitional-council-announces-plans-to-move-its-headquarters-to-tripoli-following-the-capture-of-the-city-from-muammar-gad.md)
-_Context: Tripoli, National Transitional Council, Muammar Gaddafi, Libya_
+_Context: Muammar Gaddafi, Tripoli, National Transitional Council, Libya_
 
 ##### Gaza Strip
 ### [17 rockets and mortars are fired from Gaza at southwestern Israeli cities. 2 people, one of them a nine-month-old baby, are hurt in the attack. ](/news/2011/08/25/17-rockets-and-mortars-are-fired-from-gaza-at-southwestern-israeli-cities-2-people-one-of-them-a-nine-month-old-baby-are-hurt-in-the-atta.md)
@@ -17,11 +17,11 @@ _Context: Gaza Strip_
 
 ##### Syria
 ### [Gunmen attack prominent Syrian political cartoonist Ali Farzat, beating him badly and breaking both of his hands, with the beating believed to be related to cartoons critical of President of Syria Bashar Assad and his family. ](/news/2011/08/25/gunmen-attack-prominent-syrian-political-cartoonist-ali-farzat-beating-him-badly-and-breaking-both-of-his-hands-with-the-beating-believed.md)
-_Context: political cartoonist, Ali Farzat, President, Syria, Bashar Assad's_
+_Context: Syria, Ali Farzat, President, political cartoonist, Bashar Assad's_
 
 ##### Berkshire Hathaway Inc.
 ### [Berkshire Hathaway, the conglomerate headed by Warren Buffett, announces a plan to invest $5 billion in Bank of America. ](/news/2011/08/25/berkshire-hathaway-the-conglomerate-headed-by-warren-buffett-announces-a-plan-to-invest-5-billion-in-bank-of-america.md)
-_Context: Bank of America, Berkshire Hathaway Inc., Warren Buffett_
+_Context: Bank of America, Warren Buffett, Berkshire Hathaway Inc._
 
 ##### Zimbabwe
 ### [At least 19 people are feared dead in Zimbabwe after a haulage truck and bus collide ](/news/2011/08/25/at-least-19-people-are-feared-dead-in-zimbabwe-after-a-haulage-truck-and-bus-collide.md)
@@ -37,7 +37,7 @@ With Hurricane Irene bearing down on New York City, subways, buses and commuter 
 
 ##### 2011 Pacific typhoon season
 ### [2011 Pacific typhoon season: At least one person in the Philippines is missing and several towns are flooded as a result of Typhoon Nanmadol which is now heading for Taiwan. ](/news/2011/08/25/2011-pacific-typhoon-season-at-least-one-person-in-the-philippines-is-missing-and-several-towns-are-flooded-as-a-result-of-typhoon-nanmadol.md)
-_Context: 2011 Pacific typhoon season, Philippines, Typhoon Nanmadol, Taiwan_
+_Context: Typhoon Nanmadol, 2011 Pacific typhoon season, Philippines, Taiwan_
 
 ##### Metropolitan Police Service
 ### [London's Metropolitan Police Service says that it has now made over 2,000 arrests in connection with the riots which occurred in London. ](/news/2011/08/25/london-s-metropolitan-police-service-says-that-it-has-now-made-over-2-000-arrests-in-connection-with-the-riots-which-occurred-in-london.md)
@@ -53,7 +53,7 @@ Police in Austria arrest a man suspected of imprisoning and sexually abusing his
 
 ##### Iran
 ### [Former Iranian Prime Minister Mir-Hossein Mousavi is hospitalized after a heart attack. ](/news/2011/08/25/former-iranian-prime-minister-mir-hossein-mousavi-is-hospitalized-after-a-heart-attack.md)
-_Context: Iran, Mir-Hossein Mousavi, Prime Minister of Iran_
+_Context: Iran, Prime Minister of Iran, Mir-Hossein Mousavi_
 
 ##### Deputy Prime Minister
 ### [A protester is arrested for throwing a paint bomb at British Deputy Prime Minister Nick Clegg as he arrives at a Liberal Democrats party meeting in Glasgow. ](/news/2011/08/25/a-protester-is-arrested-for-throwing-a-paint-bomb-at-british-deputy-prime-minister-nick-clegg-as-he-arrives-at-a-liberal-democrats-party-mee.md)

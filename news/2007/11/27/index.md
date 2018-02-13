@@ -9,11 +9,11 @@ Here are the remarks President Bush delivered today at the United States Naval A
 
 ##### Texas
 ### [ Texas oilman Oscar Wyatt Jr. is sentenced to a year and one day in jail for breaching the rules of the United Nations oil-for-food program. ](/news/2007/11/27/texas-oilman-oscar-wyatt-jr-is-sentenced-to-a-year-and-one-day-in-jail-for-breaching-the-rules-of-the-united-nations-oil-for-food-program.md)
-_Context: United Nations, Oscar Wyatt Jr., oil-for-food, Texas_
+_Context: Oscar Wyatt Jr., oil-for-food, United Nations, Texas_
 
 ##### Russia
 ### [ Russian Federation Council Speaker Sergei Mironov said that the fact that the election day has been set for March 2 allows president Vladimir Putin, who is required to leave office when his second term ends in May 2008, the option of resigning early and then running again. ](/news/2007/11/27/russian-federation-council-speaker-sergei-mironov-said-that-the-fact-that-the-election-day-has-been-set-for-march-2-allows-president-vladim.md)
-_Context: Federation Council, Russia, Vladimir Putin, go to the polls, Sergei Mironov_
+_Context: go to the polls, Vladimir Putin, Russia, Federation Council, Sergei Mironov_
 
 ##### Zimbabwe's economic crisis
 ### [ Zimbabwe's Central Statistical Office has not issued estimated inflation figures because no products are being sold. Inflation is independently estimated at around 15,000% to 20,000%. ](/news/2007/11/27/zimbabwe-s-central-statistical-office-has-not-issued-estimated-inflation-figures-because-no-products-are-being-sold-inflation-is-independe.md)

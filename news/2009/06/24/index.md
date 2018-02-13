@@ -17,23 +17,23 @@ Archaeologists said a bone flute and two fragments of ivory flutes discovered la
 
 ##### Mark Sanford
 ### [ Mark Sanford, Governor of the U.S. state of South Carolina, admits to adultery with an Argentine woman and resigns as Chairman of the Republican Governors Association. ](/news/2009/06/24/mark-sanford-governor-of-the-u-s-state-of-south-carolina-admits-to-adultery-with-an-argentine-woman-and-resigns-as-chairman-of-the-repub.md)
-_Context: Mark Sanford, South Carolina, U.S. state, South Carolina governor, Argentina, Republican Governors Association, admits, adultery_
+_Context: Mark Sanford, Republican Governors Association, South Carolina governor, Argentina, U.S. state, South Carolina, adultery, admits_
 
 ##### Iran
 ### [ Supreme Leader Ayatollah Ali Khamenei declares the recent election result will stand. ](/news/2009/06/24/supreme-leader-ayatollah-ali-khamenei-declares-the-recent-election-result-will-stand.md)
 Ayatollah Ali Khamenei has declared that the disputed Iran election result will stand, despite violent street protests in recent days.
 
-##### American
+##### U.S.
 ### [ At least 43 people are killed by United States aircraft in South Waziristan, Pakistan. ](/news/2009/06/24/at-least-43-people-are-killed-by-united-states-aircraft-in-south-waziristan-pakistan.md)
 At least 30 people have been killed in US missile strikes in the South Waziristan region of Pakistan.
 
 ##### Government
 ### [ The Chinese government formally arrests dissident Liu Xiaobo on charges of state subversion. ](/news/2009/06/24/the-chinese-government-formally-arrests-dissident-liu-xiaobo-on-charges-of-state-subversion.md)
-_Context: subverting, government, Liu Xiaobo, dissident_
+_Context: dissident, government, subverting, Liu Xiaobo_
 
-##### American
+##### U.S.
 ### [ The United States is to send an ambassador to Syria after an absence of four years. ](/news/2009/06/24/the-united-states-is-to-send-an-ambassador-to-syria-after-an-absence-of-four-years.md)
-_Context: Syria, American_
+_Context: Syria, U.S._
 
 ##### Chechnya
 ### [ A bomb kills two people and injures six others in Chechnya, Russia. ](/news/2009/06/24/a-bomb-kills-two-people-and-injures-six-others-in-chechnya-russia.md)

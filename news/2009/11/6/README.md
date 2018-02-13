@@ -45,7 +45,7 @@ _Context: Luanxian, Hebei, China_
 
 ##### India
 ### [ Indian and Burmese armed forces target a Nagaland separatist rebel base in the northeast of Burma. ](/news/2009/11/6/indian-and-burmese-armed-forces-target-a-nagaland-separatist-rebel-base-in-the-northeast-of-burma.md)
-_Context: Burma, India, separatist rebel, Nagaland_
+_Context: separatist rebel, India, Burma, Nagaland_
 
 ##### Cte d'Ivoire
 ### [ A court in Cte d'Ivoire orders that compensation due to thousands of people affected by the dumped waste of Trafigura should not be distributed to one man. ](/news/2009/11/6/a-court-in-cote-d-ivoire-orders-that-compensation-due-to-thousands-of-people-affected-by-the-dumped-waste-of-trafigura-should-not-be-distri.md)

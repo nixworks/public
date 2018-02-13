@@ -5,7 +5,7 @@ Formats: [HTML](2010/09/22/index.html)  [JSON](2010/09/22/index.json)  [XML](201
 
 ##### Bara
 ### [Three troops were killed when a roadside blast struck a military vehicle in Bara area of Khyber, one of the seven tribal agencies in Pakistan's restive northwest bordering Afghanistan. ](/news/2010/09/22/three-troops-were-killed-when-a-roadside-blast-struck-a-military-vehicle-in-bara-area-of-khyber-one-of-the-seven-tribal-agencies-in-pakista.md)
-_Context: Bara, Afghanistan, Khyber Agency, Pakistan_
+_Context: Bara, Khyber Agency, Pakistan, Afghanistan_
 
 ##### Quetta
 ### [At least one person is killed and 10 injured in a shootout in Quetta, Pakistan. ](/news/2010/09/22/at-least-one-person-is-killed-and-10-injured-in-a-shootout-in-quetta-pakistan.md)
@@ -25,25 +25,25 @@ Twelve people were killed and more than 70 injured on Wednesday when a bomb expl
 
 ##### Sopore
 ### [A militant is killed in an ongoing operation by security forces in militancy-hit Sopore township of north Kashmir in the Baramulla district. ](/news/2010/09/22/a-militant-is-killed-in-an-ongoing-operation-by-security-forces-in-militancy-hit-sopore-township-of-north-kashmir-in-the-baramulla-district.md)
-_Context: Sopore, Jammu and Kashmir, Baramulla_
+_Context: Sopore, Baramulla, Jammu and Kashmir_
 
 ##### Typhoon Fanapi
 ### [At least 18 people are dead and 44 missing after heavy rains from Typhoon Fanapi flood parts of southern China. ](/news/2010/09/22/at-least-18-people-are-dead-and-44-missing-after-heavy-rains-from-typhoon-fanapi-flood-parts-of-southern-china.md)
-_Context: flood, Typhoon Fanapi, southern Chinese_
+_Context: southern Chinese, flood, Typhoon Fanapi_
 
 ##### 
 ### [Two workers are killed and another is injured after a mine in Balikesir collapses. 22 workers have been killed there in the past six months. ](/news/2010/09/22/two-workers-are-killed-and-another-is-injured-after-a-mine-in-bala-kesir-collapses-22-workers-have-been-killed-there-in-the-past-six-months.md)
-##### American
+##### U.S.
 ### [U.S. celebrity Paris Hilton is barred from entering Japan after pleading guilty to cocaine possession in Las Vegas, Nevada earlier in the week. ](/news/2010/09/22/u-s-celebrity-paris-hilton-is-barred-from-entering-japan-after-pleading-guilty-to-cocaine-possession-in-las-vegas-nevada-earlier-in-the-we.md)
-_Context: Paris Hilton, cocaine, Japan, American, celebrity, Las Vegas, Nevada, Nevada_
+_Context: Paris Hilton, Nevada, cocaine, celebrity, Japan, U.S., Las Vegas, Nevada_
 
-##### American
+##### U.S.
 ### [United States singer Eddie Fisher dies in Berkeley, California. ](/news/2010/09/22/united-states-singer-eddie-fisher-dies-in-berkeley-california.md)
-_Context: Eddie Fisher, California, American, Berkeley, California_
+_Context: California, Eddie Fisher, U.S., Berkeley, California_
 
 ##### Russia
 ### [Russia bans arms sales to Iran, in accordance with United Nations Security Council Resolution 1929. ](/news/2010/09/22/russia-bans-arms-sales-to-iran-in-accordance-with-united-nations-security-council-resolution-1929.md)
-_Context: ban on ballistic missile tests, Russia, Iran_
+_Context: Russia, Iran, ban on ballistic missile tests_
 
 ##### China
 ### [China threatens Japan with "further action" if the latter does not release a Chinese fishing captain detained near the disputed Senkaku Islands. ](/news/2010/09/22/china-threatens-japan-with-further-action-if-the-latter-does-not-release-a-chinese-fishing-captain-detained-near-the-disputed-senkaku-isla.md)
@@ -59,7 +59,7 @@ North Korea reportedly held a meeting earlier this month aimed at hampering the 
 
 ##### Human rights
 ### [A panel of human rights experts convened by the United Nations Human Rights Council says Israel's seizure of the MV Mavi Marmara in the Gaza flotilla raid was "clearly unlawful". ](/news/2010/09/22/a-panel-of-human-rights-experts-convened-by-the-united-nations-human-rights-council-says-israel-s-seizure-of-the-mv-mavi-marmara-in-the-gaza.md)
-_Context: Israel, Human Rights Council, Gaza flotilla raid,  MV ''Mavi Marmara'', human rights_
+_Context:  MV ''Mavi Marmara'', Israel, human rights, Gaza flotilla raid, Human Rights Council_
 
 ##### Mutilated
 ### [14 mutilated bodies are discovered in the Ruzizi River in Burundi, close to the border with the Democratic Republic of the Congo. ](/news/2010/09/22/14-mutilated-bodies-are-discovered-in-the-ruzizi-river-in-burundi-close-to-the-border-with-the-democratic-republic-of-the-congo.md)
@@ -67,7 +67,7 @@ Residents in northern Burundi are on alert after the discovery of 14 bodies, som
 
 ##### Iran
 ### [Iranian human rights campaigner Emadeddin Baghi is sentenced to six years in jail after recording an interview for the BBC with reformist cleric Grand Ayatollah Hussein-Ali Montazeri. ](/news/2010/09/22/iranian-human-rights-campaigner-emadeddin-baghi-is-sentenced-to-six-years-in-jail-after-recording-an-interview-for-the-bbc-with-reformist-cl.md)
-_Context: Emadeddin Baghi, Hussein-Ali Montazeri, Iran, BBC, Grand Ayatollah, human rights abuses_
+_Context: human rights abuses, Iran, Hussein-Ali Montazeri, Emadeddin Baghi, BBC, Grand Ayatollah_
 
 ##### Asylum seeker
 ### [Another group of asylum seekers starts a new protest at the Villawood Immigration Detention Centre in Sydney, Australia, while other detainees continue a hunger strike. ](/news/2010/09/22/another-group-of-asylum-seekers-starts-a-new-protest-at-the-villawood-immigration-detention-centre-in-sydney-australia-while-other-detaine.md)

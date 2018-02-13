@@ -5,7 +5,7 @@ Formats: [HTML](2009/01/24/index.html)  [JSON](2009/01/24/index.json)  [XML](200
 
 ##### Pope
 ### [ Pope Benedict XVI rescinds the excommunications of four bishops consecrated in 1988 by French Archbishop Marcel Lefebvre. ](/news/2009/01/24/pope-benedict-xvi-rescinds-the-excommunications-of-four-bishops-consecrated-in-1988-by-french-archbishop-marcel-lefebvre.md)
-_Context: Marcel Lefebvre, excommunicate, Pope Benedict XVI, Pope, France, four bishops, consecrated, Archbishop_
+_Context: France, excommunicate, Archbishop, Pope Benedict XVI, four bishops, Marcel Lefebvre, Pope, consecrated_
 
 ##### Suicide bombing
 ### [ A suicide car bomb targeting African Union peacekeepers kills 14 civilians in Mogadishu, Somalia. ](/news/2009/01/24/a-suicide-car-bomb-targeting-african-union-peacekeepers-kills-14-civilians-in-mogadishu-somalia.md)
@@ -13,7 +13,7 @@ A suicide car bomb aimed at African Union (AU) peacekeepers in the Somali capita
 
 ##### Europe
 ### [ A European windstorm across France and Spain kills 15 people with hurricane-force winds. ](/news/2009/01/24/a-european-windstorm-across-france-and-spain-kills-15-people-with-hurricane-force-winds.md)
-_Context: France, European windstorm, kills, hurricane-force, Europe, Spain_
+_Context: European windstorm, France, hurricane-force, Spain, kills, Europe_
 
 ##### Avalanche
 ### [ An avalanche in the Scottish Highlands kills three mountain climbers. ](/news/2009/01/24/an-avalanche-in-the-scottish-highlands-kills-three-mountain-climbers.md)

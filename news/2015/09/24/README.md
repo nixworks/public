@@ -5,7 +5,7 @@ Formats: [HTML](2015/09/24/index.html)  [JSON](2015/09/24/index.json)  [XML](201
 
 ##### Yemeni Crisis (2011-present)
 ### [At least 29 people are killed in a bombing of a mosque in the Yemeni capital Sana'a during prayers for Eid al-Adha. ](/news/2015/09/24/at-least-29-people-are-killed-in-a-bombing-of-a-mosque-in-the-yemeni-capital-sana-a-during-prayers-for-eid-al-adha.md)
-_Context: Sana'a, Yemeni Crisis (2011-present), Yemen, Eid al-Adha, mosque_
+_Context: Eid al-Adha, Sana'a, Yemeni Crisis (2011-present), Yemen, mosque_
 
 ##### Nagorno-Karabakh conflict
 ### [The government of Armenia claims that Azerbaijani forces shelled Tavush Province resulting in three deaths. ](/news/2015/09/24/the-government-of-armenia-claims-that-azerbaijani-forces-shelled-tavush-province-resulting-in-three-deaths.md)

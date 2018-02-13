@@ -9,35 +9,35 @@ _Context: Miami_
 
 ##### Google
 ### [ Google sponsors a US$30 million spaceflight contest to land a robotic lander on the moon and beam back a gigabyte of images and videos to earth. ](/news/2007/09/13/google-sponsors-a-us-30-million-spaceflight-contest-to-land-a-robotic-lander-on-the-moon-and-beam-back-a-gigabyte-of-images-and-videos-to-e.md)
-_Context: spaceflight, Google, earth, moon, gigabyte, $_
+_Context: Google, $, moon, gigabyte, earth, spaceflight_
 
 ##### 2007
 ### [ 2007 Atlantic hurricane season: Tropical Storm Ingrid forms in the Atlantic Ocean 800 miles from the outer Caribbean islands. ](/news/2007/09/13/2007-atlantic-hurricane-season-tropical-storm-ingrid-forms-in-the-atlantic-ocean-800-miles-from-the-outer-caribbean-islands.md)
-_Context: Atlantic Ocean, 2007, Caribbean_
+_Context: Atlantic Ocean, Caribbean, 2007_
 
 ##### Ethiopia
 ### [ Ethiopia will deploy 5,000 troops as part of a joint United Nations - African Union mission in the Darfur region of Sudan. ](/news/2007/09/13/ethiopia-will-deploy-5-000-troops-as-part-of-a-joint-united-nations-african-union-mission-in-the-darfur-region-of-sudan.md)
-_Context: Sudan, Ethiopia, Darfur, United Nations, African Union_
+_Context: Sudan, Darfur, African Union, United Nations, Ethiopia_
 
 ##### United Nations General Assembly
 ### [ After deliberating for 22 years, the United Nations General Assembly adopts the non-binding Declaration on the Rights of Indigenous Peoples; 143 countries vote in favour, while 11 abstain and Australia, Canada, New Zealand and the United States vote against. ](/news/2007/09/13/after-deliberating-for-22-years-the-united-nations-general-assembly-adopts-the-non-binding-declaration-on-the-rights-of-indigenous-peoples.md)
-_Context: Declaration on the Rights of Indigenous Peoples, New Zealand, Canadian, American, Australia, United Nations General Assembly_
+_Context: Australia, New Zealand, United Nations General Assembly, Declaration on the Rights of Indigenous Peoples, Canadian, U.S._
 
 ##### Pakistani troops
 ### [ At least fifteen Pakistani Army soldiers die in a bombing at their mess at the Terbella Ghazi base north of Islamabad. ](/news/2007/09/13/at-least-fifteen-pakistani-army-soldiers-die-in-a-bombing-at-their-mess-at-the-terbella-ghazi-base-north-of-islamabad.md)
-_Context: Islamabad, Pakistani troops, Terbella Ghazi_
+_Context: Pakistani troops, Terbella Ghazi, Islamabad_
 
 ##### 2007 Formula One Season
 ### [ 2007 Formula One Season: The Fdration Internationale de l'Automobile (FIA) fines the McLaren Formula One team $US100 million and removes all its points in the Constructors' Championship. ](/news/2007/09/13/2007-formula-one-season-the-federation-internationale-de-l-automobile-fia-fines-the-mclaren-formula-one-team-us100-million-and-removes.md)
-_Context: Constructors' Championship, Fdration Internationale de l'Automobile, McLaren, $, Formula One, 2007 Formula One Season_
+_Context: Formula One, Fdration Internationale de l'Automobile, $, Constructors' Championship, 2007 Formula One Season, McLaren_
 
 ##### Alexis Debat
 ### [ Alexis Debat, a consultant for ABC News and writer at "The National Interest", alleged expert on terrorism, is forced to resign after "Rue 89" revealed that he made two bogus interviews, one with Barack Obama and another with Alan Greenspan. ](/news/2007/09/13/alexis-debat-a-consultant-for-abc-news-and-writer-at-the-national-interest-alleged-expert-on-terrorism-is-forced-to-resign-after-rue.md)
-_Context: Alexis Debat, Barack Obama, ABC News, Rue 89, Alan Greenspan, terrorism, The National Interest_
+_Context: Rue 89, Alexis Debat, ABC News, The National Interest, Alan Greenspan, terrorism, Barack Obama_
 
 ##### Rita Verdonk
 ### [ Rita Verdonk, a controversial and popular Dutch politician, is expelled from the VVD. ](/news/2007/09/13/rita-verdonk-a-controversial-and-popular-dutch-politician-is-expelled-from-the-vvd.md)
-_Context: Netherlands, VVD, Rita Verdonk_
+_Context: Rita Verdonk, Netherlands, VVD_
 
 ##### Sheikh Sittar
 ### [ A key US ally, Sheikh Sittar, is killed by a bomb. ](/news/2007/09/13/a-key-us-ally-sheikh-sittar-is-killed-by-a-bomb.md)

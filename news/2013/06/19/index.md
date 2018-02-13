@@ -29,7 +29,7 @@ Sky News Australia has the top stories in news online from Australia and the res
 
 ##### France
 ### [Flash flooding in southwest France claims two victims and causes the shrine at Lourdes to be closed. ](/news/2013/06/19/flash-flooding-in-southwest-france-claims-two-victims-and-causes-the-shrine-at-lourdes-to-be-closed.md)
-_Context: Lourdes, France_
+_Context: France, Lourdes_
 
 ##### Nigel Evans
 ### [Nigel Evans, Deputy Speaker of the UK House of Commons, is arrested on suspicion of three counts of indecent assault. ](/news/2013/06/19/nigel-evans-deputy-speaker-of-the-uk-house-of-commons-is-arrested-on-suspicion-of-three-counts-of-indecent-assault.md)
@@ -41,7 +41,7 @@ An Italian court has rejected an attempt by Silvio Berlusconi to strike down a c
 
 ##### Domenico Dolce
 ### [An Italian court convicts fashion designers Domenico Dolce and Stefano Gabbana of tax evasion, giving them suspended sentences and heavy fines. ](/news/2013/06/19/an-italian-court-convicts-fashion-designers-domenico-dolce-and-stefano-gabbana-of-tax-evasion-giving-them-suspended-sentences-and-heavy-fin.md)
-_Context: Domenico Dolce, tax fraud, Stefano Gabbana_
+_Context: tax fraud, Stefano Gabbana, Domenico Dolce_
 
 ##### Xbox One
 ### [After receiving negative feedback, Microsoft decides to change many features of its upcoming Xbox One. ](/news/2013/06/19/after-receiving-negative-feedback-microsoft-decides-to-change-many-features-of-its-upcoming-xbox-one.md)

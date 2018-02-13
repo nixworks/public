@@ -23,7 +23,7 @@ An explosion at around 10 a.m. Monday at controversial Yasukuni Shrine damages t
 ### [Seven people are feared dead after a helicopter crashes in the Indian town of Katra, Jammu and Kashmir, near the Hindu shrine of Vaishno Devi. ](/news/2015/11/23/seven-people-are-feared-dead-after-a-helicopter-crashes-in-the-indian-town-of-katra-jammu-and-kashmir-near-the-hindu-shrine-of-vaishno-dev.md)
 A bird-hit soon after take-off downed the helicopter that killed six pilgrims from Vaishno Devi and a woman pilot in Jammu&#039;s Katra today. The aircraft -- which was returning from Sanji Chhat to Katra -- crashed and caught fire.
 
-##### American
+##### U.S.
 ### [A U.S. Apache helicopter crashes in South Korea's Gangwon Province, killing the pilot and one crew member. ](/news/2015/11/23/a-u-s-apache-helicopter-crashes-in-south-korea-s-gangwon-province-killing-the-pilot-and-one-crew-member.md)
 A U.S. Army Apache helicopter crashed in central South Korea on Monday during a training mission, killing two pilots aboard, police and military officials said.
 
@@ -31,13 +31,13 @@ A U.S. Army Apache helicopter crashed in central South Korea on Monday during a 
 ### [A highway traffic accident in the Mexican state of Puebla kills 20 people and injures at least 15 others. ](/news/2015/11/23/a-highway-traffic-accident-in-the-mexican-state-of-puebla-kills-20-people-and-injures-at-least-15-others.md)
 _Context: Puebla_
 
-##### American
+##### U.S.
 ### [All four crew members aboard a United States military helicopter (UH-60) are killed when their chopper crashes at Fort Hood in Killeen, Texas. ](/news/2015/11/23/all-four-crew-members-aboard-a-united-states-military-helicopter-uh-60-are-killed-when-their-chopper-crashes-at-fort-hood-in-killeen-texa.md)
 The crew was flying a routine training mission when their UH-60 chopper went down, the U.S. Army said. The cause was under investigation.
 
-##### American
+##### U.S.
 ### [The United States issues a worldwide travel alert due to heightened activity by Islamic State in Iraq and the Levant (aka Da'esh-ISIS), Boko Haram, al-Qa'ida and other terrorist groups through February 24, 2016. ](/news/2015/11/23/the-united-states-issues-a-worldwide-travel-alert-due-to-heightened-activity-by-islamic-state-in-iraq-and-the-levant-aka-daaesh-isis-bo.md)
-_Context: Boko Haram, American, al-Qa'ida, Islamic State in Iraq and the Levant_
+_Context: Boko Haram, Islamic State in Iraq and the Levant, U.S., al-Qa'ida_
 
 ##### Hong Kong local elections, 2015
 ### [Hong Kong's pro-democracy movement gets a boost with Umbrella Soldiers winning at least four seats in Sunday's election although the distribution of political power over the district council seats remains broadly the same vis-a-vis the Hong Kong local elections, 2011. ](/news/2015/11/23/hong-kong-s-pro-democracy-movement-gets-a-boost-with-umbrella-soldiers-winning-at-least-four-seats-in-sunday-s-election-although-the-distrib.md)

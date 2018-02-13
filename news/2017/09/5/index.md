@@ -33,7 +33,7 @@ QC for one plaintiff says ‘putting to the public a vote on her family unit’ 
 
 ##### Politics of Taiwan
 ### [Tainan Mayor William Lai Ching-te is appointed as the new Premier by the President of the Republic of China Tsai Ing-wen. ](/news/2017/09/5/tainan-mayor-william-lai-ching-te-is-appointed-as-the-new-premier-by-the-president-of-the-republic-of-china-tsai-ing-wen.md)
-_Context: Politics of Taiwan, Tainan, Taiwan, William Lai Ching-te, Tsai Ing-wen, Premier, Mayor, President_
+_Context: Taiwan, President, Mayor, Politics of Taiwan, Premier, William Lai Ching-te, Tainan, Tsai Ing-wen_
 
 ##### Presidency of Donald Trump
 ### [The Trump Administration announces that, during the next six months, it will be ending the DACA program that has halted the deportation of about 800,000 people who were brought to the U.S. illegally as children. Congress is called upon to pass legislation to correct the situation. ](/news/2017/09/5/the-trump-administration-announces-that-during-the-next-six-months-it-will-be-ending-the-daca-program-that-has-halted-the-deportation-of-a.md)

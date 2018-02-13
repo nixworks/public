@@ -5,11 +5,11 @@ Formats: [HTML](2013/05/10/index.html)  [JSON](2013/05/10/index.json)  [XML](201
 
 ##### Libya
 ### [Bombs explode outside two police stations in Libya's eastern city of Benghazi. ](/news/2013/05/10/bombs-explode-outside-two-police-stations-in-libya-s-eastern-city-of-benghazi.md)
-_Context: Benghazi, Libya_
+_Context: Libya, Benghazi_
 
 ##### Albert del Rosario
 ### [Albert del Rosario, the Philippines Secretary of Foreign Affairs, wants to withdraw Filipino peacekeepers from the Golan Heights subsequent to Syrian rebels kidnapping four troops. ](/news/2013/05/10/albert-del-rosario-the-philippines-secretary-of-foreign-affairs-wants-to-withdraw-filipino-peacekeepers-from-the-golan-heights-subsequent.md)
-_Context: Albert del Rosario, Philippines Foreign Secretary, Philippines, Golan Heights, Syria, Filipino_
+_Context: Syria, Philippines, Golan Heights, Filipino, Albert del Rosario, Philippines Foreign Secretary_
 
 ##### Tamerlan Tsarnaev
 ### [Suspect Tamerlan Tsarnaev is buried in the al-Barzakh Cemetery in Doswell, Virginia, United States. ](/news/2013/05/10/suspect-tamerlan-tsarnaev-is-buried-in-the-al-barzakh-cemetery-in-doswell-virginia-united-states.md)

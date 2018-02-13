@@ -13,15 +13,15 @@ _Context: Boat Race, University of Cambridge_
 
 ##### Arab League
 ### [ The Arab League summit is postponed. The meeting was put off indefinitely because of differences of opinion regarding ways to encourage reform in the region, including democratization. ](/news/2004/03/28/the-arab-league-summit-is-postponed-the-meeting-was-put-off-indefinitely-because-of-differences-of-opinion-regarding-ways-to-encourage-ref.md)
-_Context: democratic, summit, Arab League_
+_Context: Arab League, summit, democratic_
 
 ##### Home Secretary
 ### [ UK Home Secretary David Blunkett prepares to publish a white paper on organized crime that will unveil new details of the Serious Organised Crime Agency, the proposed "British FBI". ](/news/2004/03/28/uk-home-secretary-david-blunkett-prepares-to-publish-a-white-paper-on-organized-crime-that-will-unveil-new-details-of-the-serious-organised.md)
-_Context: FBI, David Blunkett, publish, Home Secretary, white paper, Serious Organised Crime Agency, organization_
+_Context: David Blunkett, organization, Home Secretary, Serious Organised Crime Agency, FBI, white paper, publish_
 
 ##### Israel
 ### [ Israeli State Attorney Edna Arbel recommends that Prime Minister Ariel Sharon be indicted for taking bribes. ](/news/2004/03/28/israeli-state-attorney-edna-arbel-recommends-that-prime-minister-ariel-sharon-be-indicted-for-taking-bribes.md)
-_Context: Edna Arbel, Israeli Prime Minister, Ariel Sharon, Israel_
+_Context: Israel, Ariel Sharon, Israeli Prime Minister, Edna Arbel_
 
 ##### French regional elections
 ### [ The French regional elections result in massive losses for the governing conservative parties and victories for socialist-green alliances in at least 20 of 22 regions. ](/news/2004/03/28/the-french-regional-elections-result-in-massive-losses-for-the-governing-conservative-parties-and-victories-for-socialist-green-alliances-i.md)
@@ -29,11 +29,11 @@ _Context: French regional elections_
 
 ##### Coup d'etat
 ### [ A coup attempt in the Democratic Republic of the Congo fails. ](/news/2004/03/28/a-coup-attempt-in-the-democratic-republic-of-the-congo-fails.md)
-_Context: coup d'etat, DR Congo_
+_Context: DR Congo, coup d'etat_
 
 ##### Cecilia Zhang
 ### [ The skeletal remains of Cecilia Zhang are found in a Toronto ravine after her high-publicity kidnapping. ](/news/2004/03/28/the-skeletal-remains-of-cecilia-zhang-are-found-in-a-toronto-ravine-after-her-high-publicity-kidnapping.md)
-_Context: kidnapping, Cecilia Zhang, Toronto_
+_Context: Cecilia Zhang, kidnapping, Toronto_
 
 ## [Previous Day...](/news/2004/03/27/index.md)
 

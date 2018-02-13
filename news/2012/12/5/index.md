@@ -5,7 +5,7 @@ Formats: [HTML](2012/12/5/index.html)  [JSON](2012/12/5/index.json)  [XML](2012/
 
 ##### Hungary
 ### [Hungary closes its embassy in Damascus and pulls out all personnel. ](/news/2012/12/5/hungary-closes-its-embassy-in-damascus-and-pulls-out-all-personnel.md)
-_Context: Damascus, Hungary_
+_Context: Hungary, Damascus_
 
 ##### Tripoli, Lebanon
 ### [The death toll from two days of clashes in the city of Tripoli reaches six, with dozens reported injured. ](/news/2012/12/5/the-death-toll-from-two-days-of-clashes-in-the-city-of-tripoli-reaches-six-with-dozens-reported-injured.md)
@@ -49,7 +49,7 @@ At least three crew members died when a cargo ship carrying cars sank after coll
 
 ##### John McAfee
 ### [American businessman John McAfee is arrested in Guatemala following an alleged illegal entry after leaving Belize where he is wanted for questioning over the death of fellow American Gregory Faull. ](/news/2012/12/5/american-businessman-john-mcafee-is-arrested-in-guatemala-following-an-alleged-illegal-entry-after-leaving-belize-where-he-is-wanted-for-que.md)
-_Context: Guatemala, John McAfee, Belize_
+_Context: John McAfee, Guatemala, Belize_
 
 ##### Mexican
 ### [Mexico's Supreme Court of Justice of the Nation rules that a ban on same-sex marriage in Oaxaca state is illegal. ](/news/2012/12/5/mexico-s-supreme-court-of-justice-of-the-nation-rules-that-a-ban-on-same-sex-marriage-in-oaxaca-state-is-illegal.md)
@@ -61,7 +61,7 @@ The hospital treating the pregnant Duchess of Cambridge says it &quot;deeply reg
 
 ##### Government
 ### [The peace talks between the Colombian government and the Revolutionary Armed Forces of Colombia (FARC) resume in Havana, Cuba. ](/news/2012/12/5/the-peace-talks-between-the-colombian-government-and-the-revolutionary-armed-forces-of-colombia-farc-resume-in-havana-cuba.md)
-_Context: Revolutionary Armed Forces of Colombia, Havana, Cuba, government_
+_Context: Cuba, Revolutionary Armed Forces of Colombia, government, Havana_
 
 ## [Previous Day...](/news/2012/12/4/index.md)
 

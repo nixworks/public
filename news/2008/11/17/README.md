@@ -5,7 +5,7 @@ Formats: [HTML](2008/11/17/index.html)  [JSON](2008/11/17/index.json)  [XML](200
 
 ##### ''Sirius Star''
 ### [ The MV "Sirius Star", a Saudi-owned oil tanker, is captured off the coast of Somalia by pirates. This is the largest vessel to date to be hijacked by Somali pirates. ](/news/2008/11/17/the-mv-sirius-star-a-saudi-owned-oil-tanker-is-captured-off-the-coast-of-somalia-by-pirates-this-is-the-largest-vessel-to-date-to-be-h.md)
-_Context: ''Sirius Star'', Somali pirates, Saudi Arabia, Somalia, oil tanker_
+_Context: Somalia, oil tanker, ''Sirius Star'', Somali pirates, Saudi Arabia_
 
 ##### Citigroup
 ### [ Citigroup will cut 75,000 jobs by early 2009. ](/news/2008/11/17/citigroup-will-cut-75-000-jobs-by-early-2009.md)

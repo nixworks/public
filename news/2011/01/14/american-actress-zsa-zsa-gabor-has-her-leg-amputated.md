@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/14/american-actress-zsa-zsa-gabor-has-her-leg-ampu
 
 ### [2011-01-14](/news/2011/01/14/index.md)
 
-##### American
+##### U.S.
 # American actress Zsa Zsa Gabor has her leg amputated. 
 
 
@@ -17,8 +17,8 @@ Formats: [HTML](/news/2011/01/14/american-actress-zsa-zsa-gabor-has-her-leg-ampu
 
 ### Related:
 
-1. [Hungarian actress Zsa Zsa Gabor is rehospitalised in the United States after becoming unconscious. ](/news/2010/09/1/hungarian-actress-zsa-zsa-gabor-is-rehospitalised-in-the-united-states-after-becoming-unconscious.md) _Context: American, Zsa Zsa Gabor_
-2. [Hungarian actress Zsa Zsa Gabor, hospitalised after falling in the United States last month, is not released from hospital as had been initially expected due to a negative reaction to her morphine. ](/news/2010/08/7/hungarian-actress-zsa-zsa-gabor-hospitalised-after-falling-in-the-united-states-last-month-is-not-released-from-hospital-as-had-been-initi.md) _Context: American, Zsa Zsa Gabor_
-3. [Hungarian actress Zsa Zsa Gabor is discharged from a United States hospital after spending four weeks there. ](/news/2010/08/12/hungarian-actress-zsa-zsa-gabor-is-discharged-from-a-united-states-hospital-after-spending-four-weeks-there.md) _Context: American, Zsa Zsa Gabor_
-4. [U.S. President Donald Trump meets with Guatemalan President Jimmy Morales. Trump thanks Morales for having supported the decision of the United States to recognize Jerusalem as Israel's capital. They discuss various issues about the crisis in Venezuela, drug trafficking and the UN anti-corruption commission. ](/news/2018/02/8/u-s-president-donald-trump-meets-with-guatemalan-president-jimmy-morales-trump-thanks-morales-for-having-supported-the-decision-of-the-uni.md) _Context: American_
-5. [Syria and the Russian Federation once again state that the United States' military presence in Syria is "illegal". United States and US-backed forces now have control of about a quarter of Syrian territory. ](/news/2018/02/8/syria-and-the-russian-federation-once-again-state-that-the-united-states-military-presence-in-syria-is-illegal-united-states-and-us-back.md) _Context: American_
+1. [Hungarian actress Zsa Zsa Gabor is rehospitalised in the United States after becoming unconscious. ](/news/2010/09/1/hungarian-actress-zsa-zsa-gabor-is-rehospitalised-in-the-united-states-after-becoming-unconscious.md) _Context: U.S., Zsa Zsa Gabor_
+2. [Hungarian actress Zsa Zsa Gabor, hospitalised after falling in the United States last month, is not released from hospital as had been initially expected due to a negative reaction to her morphine. ](/news/2010/08/7/hungarian-actress-zsa-zsa-gabor-hospitalised-after-falling-in-the-united-states-last-month-is-not-released-from-hospital-as-had-been-initi.md) _Context: U.S., Zsa Zsa Gabor_
+3. [Hungarian actress Zsa Zsa Gabor is discharged from a United States hospital after spending four weeks there. ](/news/2010/08/12/hungarian-actress-zsa-zsa-gabor-is-discharged-from-a-united-states-hospital-after-spending-four-weeks-there.md) _Context: U.S., Zsa Zsa Gabor_
+4. [U.S. President Donald Trump meets with Guatemalan President Jimmy Morales. Trump thanks Morales for having supported the decision of the United States to recognize Jerusalem as Israel's capital. They discuss various issues about the crisis in Venezuela, drug trafficking and the UN anti-corruption commission. ](/news/2018/02/8/u-s-president-donald-trump-meets-with-guatemalan-president-jimmy-morales-trump-thanks-morales-for-having-supported-the-decision-of-the-uni.md) _Context: U.S._
+5. [Syria and the Russian Federation once again state that the United States' military presence in Syria is "illegal". United States and US-backed forces now have control of about a quarter of Syrian territory. ](/news/2018/02/8/syria-and-the-russian-federation-once-again-state-that-the-united-states-military-presence-in-syria-is-illegal-united-states-and-us-back.md) _Context: U.S._

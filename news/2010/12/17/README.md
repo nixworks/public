@@ -5,7 +5,7 @@ Formats: [HTML](2010/12/17/index.html)  [JSON](2010/12/17/index.json)  [XML](201
 
 ##### Maoist
 ### [Maoist rebels abduct seven villagers in the Purulia district of India's West Bengal state. ](/news/2010/12/17/maoist-rebels-abduct-seven-villagers-in-the-purulia-district-of-india-s-west-bengal-state.md)
-_Context: Purulia, West Bengal, Maoist_
+_Context: Purulia, Maoist, West Bengal_
 
 ##### Pakistan
 ### [American missile attacks kill 57 suspected militants in a region in northwest Pakistan. ](/news/2010/12/17/american-missile-attacks-kill-57-suspected-militants-in-a-region-in-northwest-pakistan.md)

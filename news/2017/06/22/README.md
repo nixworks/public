@@ -5,7 +5,7 @@ Formats: [HTML](2017/06/22/index.html)  [JSON](2017/06/22/index.json)  [XML](201
 
 ##### War in Afghanistan
 ### [A car bomb outside a New Kabul Bank branch in Lashkargah, Helmand Province, kills at least 20 people. The Taliban claims responsibility. ](/news/2017/06/22/a-car-bomb-outside-a-new-kabul-bank-branch-in-lashkargah-helmand-province-kills-at-least-20-people-the-taliban-claims-responsibility.md)
-_Context: Helmand Province, Lashkargah, 2017 Lashkargah bombing, War in Afghanistan, New Kabul Bank, Taliban_
+_Context: Taliban, War in Afghanistan, New Kabul Bank, Helmand Province, Lashkargah, 2017 Lashkargah bombing_
 
 ##### Mexico-United States wall
 ### [United States President Donald Trump plans on adding solar panels to his proposed border wall with Mexico. ](/news/2017/06/22/united-states-president-donald-trump-plans-on-adding-solar-panels-to-his-proposed-border-wall-with-mexico.md)
@@ -29,7 +29,7 @@ They will be treated as UK citizens for healthcare, education benefits and pensi
 
 ##### Immigration to the United States
 ### [A judge in Michigan halts the possible deportation of over 100 Chaldean Iraqi Christians. ](/news/2017/06/22/a-judge-in-michigan-halts-the-possible-deportation-of-over-100-chaldean-iraqi-christians.md)
-_Context: Christian, Chaldean, Mich., Immigration to the United States_
+_Context: Chaldean, Immigration to the United States, Mich., Christian_
 
 ##### Dismissal of James Comey
 ### [U.S. President Donald Trump clarifies that he did not record any private conversations with former FBI Director James Comey. ](/news/2017/06/22/u-s-president-donald-trump-clarifies-that-he-did-not-record-any-private-conversations-with-former-fbi-director-james-comey.md)

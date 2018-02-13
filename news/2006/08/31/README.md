@@ -9,15 +9,15 @@ NASA begins its next step in human spaceflight with Thursday&#39;s announcement 
 
 ##### United Nations Security Council
 ### [ The United Nations Security Council approves resolution 1706, which is meant to resolve the Darfur conflict.](/news/2006/08/31/the-united-nations-security-council-approves-resolution-1706-which-is-meant-to-resolve-the-darfur-conflict.md)
-_Context: UNSC Resolution 1706, United Nations Security Council, Darfur conflict_
+_Context: United Nations Security Council, UNSC Resolution 1706, Darfur conflict_
 
 ##### UNCTAD
 ### [ The annual development report released by the United Nations Conference on Trade and Development criticizes Japan and Germany for not doing enough to stabilize international trade by buying imports. ](/news/2006/08/31/the-annual-development-report-released-by-the-united-nations-conference-on-trade-and-development-criticizes-japan-and-germany-for-not-doing.md)
-_Context: Japan, German, UNCTAD, import_
+_Context: Japan, import, German, UNCTAD_
 
 ##### Bristol-Myers Squibb
 ### [ Bristol-Myers Squibb and Sanofi-Aventis win a court ruling in the US banning Apotex from selling a generic version of Plavix, the world's second best-selling medicine. Apotex had won over 50 per cent of all US prescriptions since the sale of the drug began on August 8. ](/news/2006/08/31/bristol-myers-squibb-and-sanofi-aventis-win-a-court-ruling-in-the-us-banning-apotex-from-selling-a-generic-version-of-plavix-the-world-s-s.md)
-_Context: Bristol-Myers Squibb, Plavix, generic, August 8, Sanofi-Aventis, Apotex_
+_Context: generic, Plavix, Bristol-Myers Squibb, Sanofi-Aventis, Apotex, August 8_
 
 ##### Iraqi insurgency
 ### [ Multiple rocket and bomb attacks in Baghdad kill at least 43 people and injure more than 100 others. ](/news/2006/08/31/multiple-rocket-and-bomb-attacks-in-baghdad-kill-at-least-43-people-and-injure-more-than-100-others.md)
@@ -25,31 +25,31 @@ _Context: Iraqi insurgency, Baghdad_
 
 ##### Warren Jeffs
 ### [ Warren Jeffs waives his extradition hearing, and will be extradited to Washington County, Utah, where he will first face charges as an accomplice to bigamy and rape in arranging polygamous marriages between older men and underage girls. He also faces similar charges in Arizona, and federal charges in connection with his flight from justice. ](/news/2006/08/31/warren-jeffs-waives-his-extradition-hearing-and-will-be-extradited-to-washington-county-utah-where-he-will-first-face-charges-as-an-acco.md)
-_Context: bigamy, fugitive, Arizona, Washington County, Utah, extradition, accomplice, polygamy, Warren Jeffs, rape_
+_Context: Warren Jeffs, bigamy, extradition, fugitive, polygamy, Utah, Washington County, Arizona, accomplice, rape_
 
 ##### Israel
 ### [ Israeli police, at the request of the British Embassy in Tel Aviv, captured a man who broke in to the Embassy and demanded asylum, threatening to kill himself if his demands were not met. ](/news/2006/08/31/israeli-police-at-the-request-of-the-british-embassy-in-tel-aviv-captured-a-man-who-broke-in-to-the-embassy-and-demanded-asylum-threaten.md)
-_Context: Israel, United Kingdom, Embassy, Tel Aviv_
+_Context: United Kingdom, Israel, Embassy, Tel Aviv_
 
 ##### United Kingdom
 ### [ The future of UK model manufacturer Airfix, founded in 1939, is in doubt after the financial collapse of parent company Humbrol. Company administrators declare they wish to sell the Airfix brand. ](/news/2006/08/31/the-future-of-uk-model-manufacturer-airfix-founded-in-1939-is-in-doubt-after-the-financial-collapse-of-parent-company-humbrol-company-ad.md)
-_Context: Airfix, administrators, 1939, United Kingdom, Humbrol_
+_Context: United Kingdom, Airfix, Humbrol, administrators, 1939_
 
 ##### Syria
 ### [ Syria welcomes Venezuelan President Hugo Chvez, who said yesterday that the two countries will "build a new world" free of U.S. domination and vowed to one day "dig the grave of U.S. imperialism." State Department spokesman Tom Casey retorts that Chvez should remind Damascus about its international obligations to prevent Hezbollah from receiving weapons. ](/news/2006/08/31/syria-welcomes-venezuelan-president-hugo-chavez-who-said-yesterday-that-the-two-countries-will-build-a-new-world-free-of-u-s-domination.md)
-_Context: Syria, Venezuela, Hugo Chvez, Hezbollah, Tom Casey_
+_Context: Venezuela, Syria, Hezbollah, Tom Casey, Hugo Chvez_
 
 ##### Mahmoud Ahmadinejad
 ### [ Mahmoud Ahmadinejad, the President of Iran, stated that Iran had the right to use nuclear technology on the day that a United Nations Security Council deadline expires. President Ahmadinejad said: "They should know that the Iranian nation will not yield to pressure and will not let its rights be trampled on." ](/news/2006/08/31/mahmoud-ahmadinejad-the-president-of-iran-stated-that-iran-had-the-right-to-use-nuclear-technology-on-the-day-that-a-united-nations-secur.md)
-_Context: Iran, United Nations Security Council, Mahmoud Ahmadinejad, President_
+_Context: Iran, President, United Nations Security Council, Mahmoud Ahmadinejad_
 
 ##### Norway
 ### [ Norwegian police announce they have recovered the Edvard Munch paintings "The Scream" and "Madonna", stolen in 2004. ](/news/2006/08/31/norwegian-police-announce-they-have-recovered-the-edvard-munch-paintings-the-scream-and-madonna-stolen-in-2004.md)
-_Context: Norway, ''Madonna'', Edvard Munch, The Scream_
+_Context: Norway, Edvard Munch, ''Madonna'', The Scream_
 
 ##### Japan
 ### [ A magnitude 4.8 earthquake affected Japan just south of Tokyo. Shinkansen service was suspended for 15 minutes but no damage was reported. ](/news/2006/08/31/a-magnitude-4-8-earthquake-affected-japan-just-south-of-tokyo-shinkansen-service-was-suspended-for-15-minutes-but-no-damage-was-reported.md)
-_Context: Tokyo, Japan, Shinkansen_
+_Context: Shinkansen, Tokyo, Japan_
 
 ## [Previous Day...](/news/2006/08/30/index.md)
 

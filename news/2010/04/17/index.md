@@ -25,7 +25,7 @@ At least eight people were injured by a bomb blast in Bangalore shortly before t
 
 ##### Lech Kaczynski
 ### [Over 100,000 mourners attend a memorial service to honour the death of the Polish president Lech Kaczynski, and 95 others who were killed in a plane crash the previous week. ](/news/2010/04/17/over-100-000-mourners-attend-a-memorial-service-to-honour-the-death-of-the-polish-president-lech-kaczyaski-and-95-others-who-were-killed-i.md)
-_Context: 2010 Polish Air Force Tu-154 crash, Lech Kaczynski_
+_Context: Lech Kaczynski, 2010 Polish Air Force Tu-154 crash_
 
 ##### Tokyo
 ### [Snowfall in central Tokyo matches a record set in April 1967. ](/news/2010/04/17/snowfall-in-central-tokyo-matches-a-record-set-in-april-1967.md)
@@ -51,7 +51,7 @@ _Context: Toyota, Sienna_
 
 ##### Republic of Macedonia
 ### [The Former Yugoslav Republic of Macedonia buys 202 double decker buses from China's Zhengzhou Yutong Group for EUR35 million in the first cooperation between the two countries. ](/news/2010/04/17/the-former-yugoslav-republic-of-macedonia-buys-202-double-decker-buses-from-china-s-zhengzhou-yutong-group-for-a-35-million-in-the-first-co.md)
-_Context: Zhengzhou Yutong Group, Republic of Macedonia_
+_Context: Republic of Macedonia, Zhengzhou Yutong Group_
 
 ## [Previous Day...](/news/2010/04/16/index.md)
 

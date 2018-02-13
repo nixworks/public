@@ -5,11 +5,11 @@ Formats: [HTML](2008/12/19/index.html)  [JSON](2008/12/19/index.json)  [XML](200
 
 ##### Republican
 ### [ Republican Party Representative Ray LaHood of Illinois is nominated as the next Secretary of Transportation. ](/news/2008/12/19/republican-party-representative-ray-lahood-of-illinois-is-nominated-as-the-next-secretary-of-transportation.md)
-_Context: Ray LaHood, Illinois, Secretary of Transportation, Republican, United States House of Representatives_
+_Context: Ray LaHood, United States House of Representatives, Secretary of Transportation, Republican, Illinois_
 
 ##### U.S. President
 ### [ U.S. President George W. Bush's administration files a trade case to the World Trade Organization against the People's Republic of China over the alleged use of export subsidies to promote Chinese-made goods. ](/news/2008/12/19/u-s-president-george-w-bush-s-administration-files-a-trade-case-to-the-world-trade-organization-against-the-people-s-republic-of-china-ov.md)
-_Context: George W. Bush, China, subsidies, World Trade Organization, U.S. President, Bush Administration, export_
+_Context: U.S. President, China, George W. Bush, Bush Administration, World Trade Organization, export, subsidies_
 
 ##### Rangzieb Ahmed
 ### [ Rangzieb Ahmed, the highest-ranked al-Qaeda operative in the United Kingdom, becomes the first person convicted of the charge of directing terrorism. ](/news/2008/12/19/rangzieb-ahmed-the-highest-ranked-al-qaeda-operative-in-the-united-kingdom-becomes-the-first-person-convicted-of-the-charge-of-directing.md)
@@ -21,7 +21,7 @@ A $13.4 billion loan to General Motors and Chrysler may be followed by $4 billio
 
 ##### Internet
 ### [ Internet and telephone transmissions between Europe, the Middle East, and Asia are seriously disrupted. The FLAG, SEA-ME-WE 3, and SEA-ME-WE 4 submarine communications cables are believed to have been cut for the second time this year. ](/news/2008/12/19/internet-and-telephone-transmissions-between-europe-the-middle-east-and-asia-are-seriously-disrupted-the-flag-sea-me-we-3-and-sea-me-w.md)
-_Context: break, SEA-ME-WE 4, SEA-ME-WE 3, Middle East, submarine communications cable, Asia, telecom, Europe, Internet, telephone, FLAG_
+_Context: SEA-ME-WE 4, Middle East, FLAG, Europe, submarine communications cable, SEA-ME-WE 3, Internet, telecom, telephone, break, Asia_
 
 ##### The bank's nationalisation
 ### [ Three resignations ensue when Anglo Irish Bank chairman Sean Fitzpatrick admits to concealing a total of EUR87 million in loans. ](/news/2008/12/19/three-resignations-ensue-when-anglo-irish-bank-chairman-sean-fitzpatrick-admits-to-concealing-a-total-of-a-87-million-in-loans.md)
@@ -29,7 +29,7 @@ David Drumm has resigned as chief executive of Anglo Irish Bank following last n
 
 ##### Vanuatu
 ### [ Thirty prisoners burn down and escape their jail in Vanuatu. Two Members of Parliament are later arrested for harboring some of the fugitives. ](/news/2008/12/19/thirty-prisoners-burn-down-and-escape-their-jail-in-vanuatu-two-members-of-parliament-are-later-arrested-for-harboring-some-of-the-fugitiv.md)
-_Context: Vanuatu, Parliament, MP_
+_Context: MP, Parliament, Vanuatu_
 
 ## [Previous Day...](/news/2008/12/18/index.md)
 

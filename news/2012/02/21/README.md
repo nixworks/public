@@ -9,11 +9,11 @@ Syrian government forces killed at least 100 people on Tuesday in assaults on vi
 
 ##### General
 ### [US General John R. Allen, the head of the International Security Assistance Force in Afghanistan commissions an inquiry into allegations that Qurans were burnt at an American Air Force base as Afghans protest. ](/news/2012/02/21/us-general-john-r-allen-the-head-of-the-international-security-assistance-force-in-afghanistan-commissions-an-inquiry-into-allegations-tha.md)
-_Context: Afghanistan, International Security Assistance Force, John R. Allen, Quran, General, United States Air Force_
+_Context: United States Air Force, John R. Allen, Afghanistan, Quran, General, International Security Assistance Force_
 
 ##### Thailand
 ### [Thailand sends an extradition request to Malaysia for one of the five Iranian nationals suspected of involvement in the bombings in Bangkok earlier this month. ](/news/2012/02/21/thailand-sends-an-extradition-request-to-malaysia-for-one-of-the-five-iranian-nationals-suspected-of-involvement-in-the-bombings-in-bangkok.md)
-_Context: Bangkok, Malaysia, extradition, Thailand, Iran, bombings_
+_Context: Iran, Bangkok, bombings, extradition, Thailand, Malaysia_
 
 ##### Indonesia
 ### [Rioting inmates take control of Indonesia's Kerobokan Prison on the island of Bali. ](/news/2012/02/21/rioting-inmates-take-control-of-indonesia-s-kerobokan-prison-on-the-island-of-bali.md)
@@ -21,7 +21,7 @@ Police have reclaimed control of Bali&#039;s infamous Kerobokan prison, which la
 
 ##### 2012 BRIT Awards
 ### [The 2012 BRIT Awards for British popular music are held in O2 Arena in London with Adele, One Direction, Ed Sheeran and Coldplay among the winners. ](/news/2012/02/21/the-2012-brit-awards-for-british-popular-music-are-held-in-o2-arena-in-london-with-adele-one-direction-ed-sheeran-and-coldplay-among-the-w.md)
-_Context: London, Adele, One Direction, Ed Sheeran, Coldplay, O2 Arena, British, 2012 BRIT Awards, popular music_
+_Context: Ed Sheeran, O2 Arena, Adele, London, 2012 BRIT Awards, Coldplay, popular music, One Direction, British_
 
 ##### Euro zone
 ### [Euro zone finance ministers reach an agreement on a second Greek bailout. ](/news/2012/02/21/euro-zone-finance-ministers-reach-an-agreement-on-a-second-greek-bailout.md)
@@ -37,7 +37,7 @@ SEOUL, Feb. 21 (Yonhap) -- National Assembly Speaker Park Hee-tae was indicted w
 
 ##### Yemen
 ### [Voters in Yemen go to the polls for a presidential election with current Vice-President Abd Rabbuh Mansur al-Hadi the only candidate on the ballot paper. ](/news/2012/02/21/voters-in-yemen-go-to-the-polls-for-a-presidential-election-with-current-vice-president-abd-rabbuh-mansur-al-hadi-the-only-candidate-on-the.md)
-_Context: presidential election, Abd Rabbuh Mansur al-Hadi, Yemen_
+_Context: Yemen, Abd Rabbuh Mansur al-Hadi, presidential election_
 
 ##### Burma
 ### [Burma lifts restrictions on election campaigning. ](/news/2012/02/21/burma-lifts-restrictions-on-election-campaigning.md)

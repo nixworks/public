@@ -37,7 +37,7 @@ German men convicted on the basis of a 19th century law criminalizing homosexual
 
 ##### Impeachment process against Dilma Rousseff
 ### [The Federal Senate of Brazil debates whether to suspend and impeach President Dilma Rousseff for allegedly breaching budget rules. The President's allies are not optimistic about the Senate vote. ](/news/2016/05/11/the-federal-senate-of-brazil-debates-whether-to-suspend-and-impeach-president-dilma-rousseff-for-allegedly-breaching-budget-rules-the-presi.md)
-_Context: Impeachment process against Dilma Rousseff, Senate, president, Dilma Rousseff, Brazil_
+_Context: Brazil, Senate, Dilma Rousseff, president, Impeachment process against Dilma Rousseff_
 
 ##### Recognition of same-sex unions in Italy
 ### [The Italian Parliament gives final approval to legislation recognizing civil unions of same-sex couples. ](/news/2016/05/11/the-italian-parliament-gives-final-approval-to-legislation-recognizing-civil-unions-of-same-sex-couples.md)
@@ -45,7 +45,7 @@ The law, opposed by the Vatican, stops short of gay marriage but brings Italy mo
 
 ##### Ugandan general election, 2016
 ### [Uganda arrests opposition leader Kizza Besigye as he addressed a crowd of supporters in the capital Kampala, and shuts down access to social media within the country prior to President Yoweri Museveni's inauguration tomorrow. ](/news/2016/05/11/uganda-arrests-opposition-leader-kizza-besigye-as-he-addressed-a-crowd-of-supporters-in-the-capital-kampala-and-shuts-down-access-to-social.md)
-_Context: Kampala, inauguration, Kizza Besigye, Uganda, President, social media, Ugandan general election, 2016, Yoweri Museveni_
+_Context: President, Kizza Besigye, social media, Yoweri Museveni, inauguration, Ugandan general election, 2016, Uganda, Kampala_
 
 ## [Previous Day...](/news/2016/05/10/index.md)
 

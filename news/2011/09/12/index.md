@@ -33,7 +33,7 @@ _Context: Indonesia, Java_
 
 ##### Zanzibar
 ### [At least 240 bodies have been recovered off the coast of Zanzibar following Saturday's ferry sinking. ](/news/2011/09/12/at-least-240-bodies-have-been-recovered-off-the-coast-of-zanzibar-following-saturday-s-ferry-sinking.md)
-_Context: Zanzibar ferry sinking, Zanzibar_
+_Context: Zanzibar, Zanzibar ferry sinking_
 
 ##### Marcoule
 ### [An explosion occurs at the Marcoule nuclear power plant in southern France, killing one person and injuring four. ](/news/2011/09/12/an-explosion-occurs-at-the-marcoule-nuclear-power-plant-in-southern-france-killing-one-person-and-injuring-four.md)

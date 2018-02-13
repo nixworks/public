@@ -5,7 +5,7 @@ Formats: [HTML](2008/06/5/index.html)  [JSON](2008/06/5/index.json)  [XML](2008/
 
 ##### Ireland
 ### [ An Irish opinion poll shows the EU Treaty of Lisbon heading for defeat. ](/news/2008/06/5/an-irish-opinion-poll-shows-the-eu-treaty-of-lisbon-heading-for-defeat.md)
-_Context: Ireland, Treaty of Lisbon, European Union, opinion poll_
+_Context: European Union, Treaty of Lisbon, opinion poll, Ireland_
 
 ##### Are detained
 ### [ American and British diplomats are detained in Zimbabwe. ](/news/2008/06/5/american-and-british-diplomats-are-detained-in-zimbabwe.md)
@@ -13,27 +13,27 @@ _Context: Zimbabwe, are detained_
 
 ##### United States Secretary of Defense
 ### [ United States Secretary of Defense Robert Gates announces the resignation of United States Secretary of the Air Force Michael Wynne and his Chief of Staff General T. Michael Moseley over the 2007 United States Air Force nuclear weapons incident. ](/news/2008/06/5/united-states-secretary-of-defense-robert-gates-announces-the-resignation-of-united-states-secretary-of-the-air-force-michael-wynne-and-his.md)
-_Context: United States Secretary of Defense, 2007 United States Air Force nuclear weapons incident, Secretary of the Air Force, T. Michael Moseley, Michael Wynne, Robert Gates_
+_Context: Michael Wynne, T. Michael Moseley, 2007 United States Air Force nuclear weapons incident, Robert Gates, United States Secretary of Defense, Secretary of the Air Force_
 
 ##### USS ''Essex''
 ### [ The USS "Essex", USS "Juneau", USS "Harpers Ferry" and USS "Mustin" depart the coast of Burma as the State Peace and Development Council maintains its refusal of the ships' aid in Cyclone Nargis relief. ](/news/2008/06/5/the-uss-essex-uss-juneau-uss-harpers-ferry-and-uss-mustin-depart-the-coast-of-burma-as-the-state-peace-and-development-council-ma.md)
-_Context: USS ''Juneau'', Burma, USS ''Harpers Ferry'', Cyclone Nargis, State Peace and Development Council, USS ''Mustin'', USS ''Essex''_
+_Context: USS ''Mustin'', USS ''Harpers Ferry'', USS ''Essex'', State Peace and Development Council, Burma, USS ''Juneau'', Cyclone Nargis_
 
 ##### Khalid Sheikh Mohammed
 ### [ Khalid Sheikh Mohammed and four others are arraigned at Guantanamo Bay detention camp under the Military Commissions Act of 2006, and charged with crimes related to the September 11, 2001 attacks. ](/news/2008/06/5/khalid-sheikh-mohammed-and-four-others-are-arraigned-at-guantanamo-bay-detention-camp-under-the-military-commissions-act-of-2006-and-charg.md)
-_Context: Military Commissions Act of 2006, detainee, Khalid Sheikh Mohammed, September 11, 2001 attacks_
+_Context: Khalid Sheikh Mohammed, September 11, 2001 attacks, detainee, Military Commissions Act of 2006_
 
 ##### Luis Moreno-Ocampo
 ### [ Prosecutor Luis Moreno-Ocampo of the International Criminal Court reports that crimes in the War in Darfur "required the sustained mobilization of the entire State apparatus" of Sudan. ](/news/2008/06/5/prosecutor-luis-moreno-ocampo-of-the-international-criminal-court-reports-that-crimes-in-the-war-in-darfur-required-the-sustained-mobiliza.md)
-_Context: ICC, Sudanese cabinet, conflict, Luis Moreno-Ocampo_
+_Context: conflict, Luis Moreno-Ocampo, ICC, Sudanese cabinet_
 
 ##### ''Rdhuset'' court house
 ### [ A fire destroys major parts of the "Rdhuset" court house in Stockholm, the architectural landmark designed by Carl Westman. ](/news/2008/06/5/a-fire-destroys-major-parts-of-the-radhuset-court-house-in-stockholm-the-architectural-landmark-designed-by-carl-westman.md)
-_Context: Stockholm, ''Rdhuset'' court house, Carl Westman_
+_Context: ''Rdhuset'' court house, Carl Westman, Stockholm_
 
 ##### Turkey
 ### [ Turkey's Constitutional Court reinstates a ban on the hijab in universities, citing the constitution's secular principles. ](/news/2008/06/5/turkey-s-constitutional-court-reinstates-a-ban-on-the-hijab-in-universities-citing-the-constitution-s-secular-principles.md)
-_Context: Turkey, hijab, reinstates a ban, secular foundation, Constitutional Court of Turkey_
+_Context: secular foundation, Constitutional Court of Turkey, reinstates a ban, hijab, Turkey_
 
 ##### Israeli Prime Minister
 ### [ Prime Minister of Israel Ehud Olmert says that "the end of Iran's nuclear program is near". ](/news/2008/06/5/prime-minister-of-israel-ehud-olmert-says-that-the-end-of-iran-s-nuclear-program-is-near.md)

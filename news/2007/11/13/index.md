@@ -5,11 +5,11 @@ Formats: [HTML](2007/11/13/index.html)  [JSON](2007/11/13/index.json)  [XML](200
 
 ##### Fossil
 ### [ The fossil of a new prehistoric great ape species, named "Nakalipithecus nakayamai", is discovered in Kenya. ](/news/2007/11/13/the-fossil-of-a-new-prehistoric-great-ape-species-named-nakalipithecus-nakayamai-is-discovered-in-kenya.md)
-_Context: Kenya, great ape, fossil, Nakalipithecus nakayamai, prehistoric_
+_Context: Nakalipithecus nakayamai, Kenya, great ape, prehistoric, fossil_
 
 ##### Turkey
 ### [ Turkish helicopters bomb several Kurdistan Workers Party positions in northern Iraq. ](/news/2007/11/13/turkish-helicopters-bomb-several-kurdistan-workers-party-positions-in-northern-iraq.md)
-_Context: helicopter, Iraq, Turkey, Kurdistan Workers Party_
+_Context: Iraq, Turkey, Kurdistan Workers Party, helicopter_
 
 ##### Cameroon
 ### [ 21 Cameroonian soldiers are killed by unknown attackers in the Bakassi peninsula. ](/news/2007/11/13/21-cameroonian-soldiers-are-killed-by-unknown-attackers-in-the-bakassi-peninsula.md)
@@ -25,23 +25,23 @@ French commuters dusted off old bikes and aired their walking shoes on Tuesday i
 
 ##### Explosion
 ### [ An explosion hits the south wing of the House of Representatives of the Philippines in Quezon City, killing three people, including Congressman Wahab Akbar, and wounding 10. ](/news/2007/11/13/an-explosion-hits-the-south-wing-of-the-house-of-representatives-of-the-philippines-in-quezon-city-killing-three-people-including-congres.md)
-_Context: Philippines, Congressman, Wahab Akbar, Philippine lower House, Quezon City, explosion_
+_Context: explosion, Congressman, Quezon City, Philippines, Wahab Akbar, Philippine lower House_
 
 ##### Strait of Kerch
 ### [ Clean-up operations continue in the Strait of Kerch after the oil spill disaster. Ten ships have sunk, 2,000 tons of fuel oil and 6,000 tons of sulphur have been spilled, three sailors have died and about 20 are missing. ](/news/2007/11/13/clean-up-operations-continue-in-the-strait-of-kerch-after-the-oil-spill-disaster-ten-ships-have-sunk-2-000-tons-of-fuel-oil-and-6-000-ton.md)
-_Context: ship, sailor, sulphur, oil spill, fuel oil, environmental disaster, Strait of Kerch, tons_
+_Context: tons, oil spill, ship, fuel oil, Strait of Kerch, environmental disaster, sulphur, sailor_
 
 ##### Hamas
 ### [ Hamas security forces arrest 400 Fatah supporters after a rally to commemorate Yasser Arafat's death ended in gunfire. ](/news/2007/11/13/hamas-security-forces-arrest-400-fatah-supporters-after-a-rally-to-commemorate-yasser-arafat-s-death-ended-in-gunfire.md)
-_Context: Hamas, Fatah, Yasser Arafat_
+_Context: Fatah, Yasser Arafat, Hamas_
 
 ##### President
 ### [ The President of Israel, Shimon Peres, meets the President of Turkey, Abdullah Gl, in Ankara, and he will also address the Grand National Assembly of Turkey. ](/news/2007/11/13/the-president-of-israel-shimon-peres-meets-the-president-of-turkey-abdullah-gul-in-ankara-and-he-will-also-address-the-grand-national.md)
-_Context: Turkish Parliament, Abdullah Gl, Ankara, President, Shimon Peres, President of Turkey_
+_Context: Ankara, President of Turkey, President, Abdullah Gl, Shimon Peres, Turkish Parliament_
 
 ##### Denmark
 ### [ Danish voters go to the polls for an early parliamentary election called by Prime Minister Anders Fogh Rasmussen. ](/news/2007/11/13/danish-voters-go-to-the-polls-for-an-early-parliamentary-election-called-by-prime-minister-anders-fogh-rasmussen.md)
-_Context: Denmark, Prime Minister of Denmark, Anders Fogh Rasmussen, early parliamentary elections, Voters_
+_Context: Voters, Denmark, Prime Minister of Denmark, Anders Fogh Rasmussen, early parliamentary elections_
 
 ##### 2007 Pakistani state of emergency
 ### [ 2007 Pakistani state of emergency: Backed by hundreds of police officers, the Pakistani government again placed former Prime Minister Benazir Bhutto under house arrest to prevent a protest against President Pervez Musharraf. ](/news/2007/11/13/2007-pakistani-state-of-emergency-backed-by-hundreds-of-police-officers-the-pakistani-government-again-placed-former-prime-minister-benaz.md)

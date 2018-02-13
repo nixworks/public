@@ -9,9 +9,9 @@ The attack hit a vehicle in northwestern Pakistan late on Thursday night, govern
 
 ##### Al-Qaeda
 ### [Two al-Qaeda fighters and two pro-government militiamen are killed in clashes in Jaar, Yemen. ](/news/2013/03/22/two-al-qaeda-fighters-and-two-pro-government-militiamen-are-killed-in-clashes-in-jaar-yemen.md)
-_Context: Yemen, Ja'ar, al-Qaeda_
+_Context: al-Qaeda, Yemen, Ja'ar_
 
-##### American
+##### U.S.
 ### [American alternative rock band My Chemical Romance announces their breakup in one paragraph after a musical career spanning 12 years. ](/news/2013/03/22/american-alternative-rock-band-my-chemical-romance-announces-their-breakup-in-one-paragraph-after-a-musical-career-spanning-12-years.md)
 My Chemical Romance has called it quits, the rock act announced on its website on Friday. The long-running group had been together for over a decade, releasing four studio albums.
 
@@ -41,7 +41,7 @@ One hundred kilograms of horsemeat imported from Hungary and labelled as beef ha
 
 ##### U.S. President
 ### [President of the United States Barack Obama visits Jordan and meets with King Abdullah II. He warns of extremist threat in Syria. ](/news/2013/03/22/president-of-the-united-states-barack-obama-visits-jordan-and-meets-with-king-abdullah-ii-he-warns-of-extremist-threat-in-syria.md)
-_Context: Barack Obama, Abdullah II of Jordan, U.S. President, Jordan, visit, American, Syria_
+_Context: U.S., U.S. President, Syria, Barack Obama, Abdullah II of Jordan, Jordan, visit_
 
 ##### Xi Jinping
 ### [Xi Jinping heads to Russia on the first stop of his maiden overseas tour as President of China. ](/news/2013/03/22/xi-jinping-heads-to-russia-on-the-first-stop-of-his-maiden-overseas-tour-as-president-of-china.md)
@@ -73,7 +73,7 @@ Bosco Ntaganda has been taken into custody and is being flown to The Hague to st
 
 ##### Shooting
 ### [A shooting at Marine Corps Base Quantico in Virginia, United States, kills three people, including the suspected shooter. ](/news/2013/03/22/a-shooting-at-marine-corps-base-quantico-in-virginia-united-states-kills-three-people-including-the-suspected-shooter.md)
-_Context: Virginia, American, shooting, Marine Corps Base Quantico_
+_Context: U.S., shooting, Marine Corps Base Quantico, Virginia_
 
 ##### State of emergency
 ### [A state of emergency is imposed in the Burmese town of Meiktila after at least twenty people are killed in communal violence. ](/news/2013/03/22/a-state-of-emergency-is-imposed-in-the-burmese-town-of-meiktila-after-at-least-twenty-people-are-killed-in-communal-violence.md)
@@ -85,11 +85,11 @@ _Context: Najib Mikati, Prime Minister of Lebanon, Lebanese_
 
 ##### Australian Labor Party
 ### [Several Ministers and Australian Labor Party figures resign or are sacked following a leadership spill including Simon Crean, Martin Ferguson, Chris Bowen, Kim Carr, Richard Marles, Ed Husic and Joel Fitzgibbon. ](/news/2013/03/22/several-ministers-and-australian-labor-party-figures-resign-or-are-sacked-following-a-leadership-spill-including-simon-crean-martin-ferguso.md)
-_Context: Chris Bowen, Richard Marles, Ed Husic, Martin Ferguson, Simon Crean, Kim Carr, leadership spill, Joel Fitzgibbon, Australian Labor Party_
+_Context: leadership spill, Kim Carr, Chris Bowen, Ed Husic, Martin Ferguson, Australian Labor Party, Simon Crean, Richard Marles, Joel Fitzgibbon_
 
 ##### French President
 ### [Former President of France Nicolas Sarkozy is being investigated over claims of illegal donations received from the country's richest woman, Liliane Bettencourt of L'Oreal. ](/news/2013/03/22/former-president-of-france-nicolas-sarkozy-is-being-investigated-over-claims-of-illegal-donations-received-from-the-country-s-richest-woman.md)
-_Context: richest woman, Liliane Bettencourt, French President, Nicolas Sarkozy, France, L'Oreal_
+_Context: richest woman, L'Oreal, French President, Liliane Bettencourt, France, Nicolas Sarkozy_
 
 ##### Pakistan
 ### [Former Pakistani President Pervez Musharraf is granted protective bail in several cases, paving the way for his return to Pakistan from self-imposed exile. ](/news/2013/03/22/former-pakistani-president-pervez-musharraf-is-granted-protective-bail-in-several-cases-paving-the-way-for-his-return-to-pakistan-from-self.md)
@@ -97,7 +97,7 @@ Former Pakistani President Pervez Musharraf has been granted protective bail in 
 
 ##### Lizards
 ### [Two new species of lizards are discovered in the Andes Mountains in Peru. ](/news/2013/03/22/two-new-species-of-lizards-are-discovered-in-the-andes-mountains-in-peru.md)
-_Context: lizards, Andes Mountains, Peru_
+_Context: Peru, Andes Mountains, lizards_
 
 ## [Previous Day...](/news/2013/03/21/index.md)
 

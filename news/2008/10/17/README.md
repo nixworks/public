@@ -5,7 +5,7 @@ Formats: [HTML](2008/10/17/index.html)  [JSON](2008/10/17/index.json)  [XML](200
 
 ##### French President
 ### [ The President of France Nicolas Sarkozy withdraws tacit support for the Quebec sovereignty movement shown by some of his predecessors in a visit to Quebec City. ](/news/2008/10/17/the-president-of-france-nicolas-sarkozy-withdraws-tacit-support-for-the-quebec-sovereignty-movement-shown-by-some-of-his-predecessors-in-a.md)
-_Context: Nicolas Sarkozy, French President, Quebec sovereignty movement, Quebec City_
+_Context: Quebec sovereignty movement, Quebec City, Nicolas Sarkozy, French President_
 
 ##### United States House of Representatives
 ### [ U.S. Congressman Vito Fossella is convicted of drunken driving. ](/news/2008/10/17/u-s-congressman-vito-fossella-is-convicted-of-drunken-driving.md)
@@ -21,11 +21,11 @@ Turkey, Austria and Japan won nonpermanent seats on the United Nations Security 
 
 ##### Morgan Tsvangirai
 ### [ Morgan Tsvangirai of Zimbabwe's Movement for Democratic Change states that power-sharing talks with President Robert Mugabe have failed to reach an agreement. ](/news/2008/10/17/morgan-tsvangirai-of-zimbabwe-s-movement-for-democratic-change-states-that-power-sharing-talks-with-president-robert-mugabe-have-failed-to.md)
-_Context: Robert Mugabe, Morgan Tsvangirai, President, Zimbabwe, power-sharing talks, Movement for Democratic Change_
+_Context: Robert Mugabe, power-sharing talks, Movement for Democratic Change, Morgan Tsvangirai, Zimbabwe, President_
 
 ##### Dravida Munnetra Kazhagam
 ### [ Fourteen Dravida Munnetra Kazhagam members of the Lok Sabha in the Indian state of Tamil Nadu, including two ministers and five ministers of state, hand in post-dated resignations to party chief M Karunanidhi. ](/news/2008/10/17/fourteen-dravida-munnetra-kazhagam-members-of-the-lok-sabha-in-the-indian-state-of-tamil-nadu-including-two-ministers-and-five-ministers-o.md)
-_Context: Dravida Munnetra Kazhagam, Lok Sabha, M Karunanidhi, India, Tamil Nadu_
+_Context: M Karunanidhi, Dravida Munnetra Kazhagam, Lok Sabha, India, Tamil Nadu_
 
 ##### United States Supreme Court
 ### [ The United States Supreme Court overturns a lower court's order requiring state officials in Ohio to supply information that would have made it easier to challenge prospective voters. ](/news/2008/10/17/the-united-states-supreme-court-overturns-a-lower-courtas-order-requiring-state-officials-in-ohio-to-supply-information-that-would-have-m.md)
@@ -37,7 +37,7 @@ _Context: State Department, North Korea, nuclear reactor_
 
 ##### U.S.  National Oceanic and Atmospheric Administration
 ### [ The National Oceanic and Atmospheric Administration declares that the beluga whale of Alaska's Cook Inlet is an endangered species. ](/news/2008/10/17/the-national-oceanic-and-atmospheric-administration-declares-that-the-beluga-whale-of-alaska-s-cook-inlet-is-an-endangered-species.md)
-_Context: Alaska, beluga whale, endangered species, U.S.  National Oceanic and Atmospheric Administration, Cook Inlet_
+_Context: Alaska, beluga whale, U.S.  National Oceanic and Atmospheric Administration, endangered species, Cook Inlet_
 
 ##### Parliament of Germany
 ### [ The Parliament of Germany passes a 500 billion euro ($673.8 billion) bank bailout. ](/news/2008/10/17/the-parliament-of-germany-passes-a-500-billion-euro-673-8-billion-bank-bailout.md)
@@ -45,7 +45,7 @@ Measure approved under fast-track procedure as European markets rally.
 
 ##### Sachin Tendulkar
 ### [ Sachin Tendulkar of the India cricket team becomes the highest aggregate run scorer in Test cricket at 0901 hrs(GMT) and the first to pass 12,000 in scoring 88 during the second test against Australia at the Punjab Cricket Association Stadium in Mohali. ](/news/2008/10/17/sachin-tendulkar-of-the-india-cricket-team-becomes-the-highest-aggregate-run-scorer-in-test-cricket-at-0901-hrs-gmt-and-the-first-to-pass.md)
-_Context: Mohali, Australia, Mohali, Test, India cricket team, 2008-09 Border-Gavaskar cricket test series, Sachin Tendulkar_
+_Context: Australia, Mohali, Test, Sachin Tendulkar, India cricket team, 2008-09 Border-Gavaskar cricket test series, Mohali_
 
 ## [Previous Day...](/news/2008/10/16/index.md)
 

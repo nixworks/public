@@ -9,7 +9,7 @@ _Context: Nafusa Mountains, Misrata_
 
 ##### Sri Lanka
 ### [Sri Lanka asks the United Nations not to publish a report on alleged war crimes. ](/news/2011/04/21/sri-lanka-asks-the-united-nations-not-to-publish-a-report-on-alleged-war-crimes.md)
-_Context: United Nations, Sri Lanka_
+_Context: Sri Lanka, United Nations_
 
 ##### Ed Markey
 ### [U.S. Congressman Ed Markey (D-Mass.) sends Apple chief executive Steve Jobs a letter asking him to explain the purpose of a file embedded on iPhones and iPads that keeps a detailed log of the devices' location. ](/news/2011/04/21/u-s-congressman-ed-markey-d-mass-sends-apple-chief-executive-steve-jobs-a-letter-asking-him-to-explain-the-purpose-of-a-file-embedded-on.md)
@@ -21,7 +21,7 @@ The Federal Energy Regulatory Commission issued a $30 million civil penalty agai
 
 ##### Vietnam
 ### [Prominent Vietnamese dissident Cu Huy Ha Vu appeals his sentence for "anti-state propaganda". ](/news/2011/04/21/prominent-vietnamese-dissident-cu-huy-ha-vu-appeals-his-sentence-for-anti-state-propaganda.md)
-_Context: Cu Huy Ha Vu, Vietnam_
+_Context: Vietnam, Cu Huy Ha Vu_
 
 ##### Uganda
 ### [Protests take place in Uganda after the arrest of opposition leader Kizza Besigye during a demonstration. ](/news/2011/04/21/protests-take-place-in-uganda-after-the-arrest-of-opposition-leader-kizza-besigye-during-a-demonstration.md)

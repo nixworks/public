@@ -13,7 +13,7 @@ Hamas fires on capital for first time, Tel Aviv for second day in a row; no inju
 
 ##### School bus
 ### [A school bus carrying about 60 schoolchildren is hit by a train near Manfalut, 350 km (230 miles) south of Egyptian capital Cairo. At least 50 children and the driver are killed in the crash. The Egyptian minister of transport, Mohamed Rashad Al Matini, resigns. ](/news/2012/11/17/a-school-bus-carrying-about-60-schoolchildren-is-hit-by-a-train-near-manfalut-350-km-230-miles-south-of-egyptian-capital-cairo-at-least.md)
-_Context: Cairo, Manfalut, school bus, Egypt, Egyptian minister of transport, is hit by a train_
+_Context: Cairo, is hit by a train, Manfalut, Egyptian minister of transport, school bus, Egypt_
 
 ##### Bolivar, Missouri
 ### [Authorities in Bolivar, Missouri, arrest Blaec Lammers, 20, after he is accused of stockpiling weapons in an attempt to commit a copycat crime mirroring the 2012 Aurora shooting, this time targeting the premiere of "The Twilight Saga: Breaking Dawn - Part 2". ](/news/2012/11/17/authorities-in-bolivar-missouri-arrest-blaec-lammers-20-after-he-is-accused-of-stockpiling-weapons-in-an-attempt-to-commit-a-copycat-cri.md)

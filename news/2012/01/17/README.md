@@ -13,15 +13,15 @@ _Context: Syria_
 
 ##### Burma
 ### [Officials in Burma order the military to stop offensives in ethnic minority areas. ](/news/2012/01/17/officials-in-burma-order-the-military-to-stop-offensives-in-ethnic-minority-areas.md)
-_Context: Burma, security forces, Internal conflict in Burma_
+_Context: Internal conflict in Burma, Burma, security forces_
 
 ##### 2011-2012 Yemeni uprising
 ### [2011-2012 Yemeni uprising: Vice President Abdurabu Hadi says that presidential and parliamentary elections planned for next month will go ahead. ](/news/2012/01/17/2011a2012-yemeni-uprising-vice-president-abdurabu-hadi-says-that-presidential-and-parliamentary-elections-planned-for-next-month-will-go.md)
-_Context: parliamentary, 2011-2012 Yemeni uprising, presidential election_
+_Context: parliamentary, presidential election, 2011-2012 Yemeni uprising_
 
 ##### Port-au-Prince
 ### [At least 26 people are killed after a truck's brakes fail along a busy street in Port-au-Prince, Haiti. ](/news/2012/01/17/at-least-26-people-are-killed-after-a-truck-s-brakes-fail-along-a-busy-street-in-port-au-prince-haiti.md)
-_Context: Port-au-Prince, Haiti_
+_Context: Haiti, Port-au-Prince_
 
 ##### India
 ### [India and China agree to establish a working mechanism to deal with border issues. ](/news/2012/01/17/india-and-china-agree-to-establish-a-working-mechanism-to-deal-with-border-issues.md)
@@ -33,11 +33,11 @@ Zhu Yufu became the latest advocate to be swept up in a continuing series of arr
 
 ##### Kim Jong-nam
 ### [Kim Jong-nam, half-brother of new North Korean leader Kim Jong-un, predicts the regime will fall if reforms are not made soon. ](/news/2012/01/17/kim-jong-nam-half-brother-of-new-north-korean-leader-kim-jong-un-predicts-the-regime-will-fall-if-reforms-are-not-made-soon.md)
-_Context: Kim Jong-nam, Kim Jong-un, North Korea_
+_Context: North Korea, Kim Jong-un, Kim Jong-nam_
 
 ##### Vietnam
 ### [Vietnam's Prime Minister Nguyen TCNYn Dung orders an investigation into a guerrilla-style standoff with farmers who laid land mines and firing improvised shotguns amid a land eviction. ](/news/2012/01/17/vietnam-s-prime-minister-nguya-n-taocnyn-da-c-ng-orders-an-investigation-into-a-guerrilla-style-standoff-with-farmers-who-laid-land-mines-and.md)
-_Context: Nguyen TCNYn Dung, Vietnam, land mine_
+_Context: Vietnam, Nguyen TCNYn Dung, land mine_
 
 ##### Abdollah Jassbi
 ### [Abdollah Jassbi resigns as President of Islamic Azad University after near thirty years in position. ](/news/2012/01/17/abdollah-jassbi-resigns-as-president-of-islamic-azad-university-after-near-thirty-years-in-position.md)

@@ -9,7 +9,7 @@ One of the biggest earthquakes in recorded history rocked Chile on Saturday, kil
 
 ##### Indian Prime Minister
 ### [Prime Minister of India Manmohan Singh arrives in Saudi Arabia on the first PM visit there since Indira Gandhi's in 1982. ](/news/2010/02/27/prime-minister-of-india-manmohan-singh-arrives-in-saudi-arabia-on-the-first-pm-visit-there-since-indira-gandhi-s-in-1982.md)
-_Context: Saudi Arabia, Indian Prime Minister, Manmohan Singh, Indira Gandhi_
+_Context: Indira Gandhi, Manmohan Singh, Indian Prime Minister, Saudi Arabia_
 
 ##### Egypt
 ### [Egyptian prosecutors begin investigating yesterday's incident where an Italian cruise liner smashed into a dock at Sharm el-Sheikh during severe weather conditions, killing sailors from Brazil, Honduras and India and injuring several passengers. ](/news/2010/02/27/egyptian-prosecutors-begin-investigating-yesterday-s-incident-where-an-italian-cruise-liner-smashed-into-a-dock-at-sharm-el-sheikh-during-se.md)
@@ -21,11 +21,11 @@ _Context: Pakistan, Dera Ghazi Khan_
 
 ##### Lantern Festival
 ### [19 are killed and dozens are injured by firecrackers during the Lantern Festival celebrations in Puning, Guangdong. ](/news/2010/02/27/19-are-killed-and-dozens-are-injured-by-firecrackers-during-the-lantern-festival-celebrations-in-puning-guangdong.md)
-_Context: Puning, Guangdong, Lantern Festival_
+_Context: Lantern Festival, Puning, Guangdong_
 
 ##### Yuan
 ### [A drought causes at least 10 billion yuan ($1.46 billion) in direct economic loss at Fanaga village of Luquan county, near Kunming, capital of Yunnan. ](/news/2010/02/27/a-drought-causes-at-least-10-billion-yuan-1-46-billion-in-direct-economic-loss-at-fanaga-village-of-luquan-county-near-kunming-capital.md)
-_Context: Fanaga village, Yunnan, Kunming, yuan, Luquan_
+_Context: Yunnan, yuan, Kunming, Fanaga village, Luquan_
 
 ##### Colombia
 ### [Constitutional judges in Colombia reject a referendum to allow President lvaro Uribe to stand for a third term in office. ](/news/2010/02/27/constitutional-judges-in-colombia-reject-a-referendum-to-allow-president-alvaro-uribe-to-stand-for-a-third-term-in-office.md)
@@ -41,11 +41,11 @@ Three people are dead and more than 20 injured after a suicide bomber rammed a v
 
 ##### Visaginas
 ### [Thousands of people protest in Visaginas about a four-fold rise in electricity prices after their local Ignalina Nuclear Power Plant was shut down. ](/news/2010/02/27/thousands-of-people-protest-in-visaginas-about-a-four-fold-rise-in-electricity-prices-after-their-local-ignalina-nuclear-power-plant-was-shu.md)
-_Context: Visaginas, Ignalina Nuclear Power Plant_
+_Context: Ignalina Nuclear Power Plant, Visaginas_
 
 ##### Gatorade
 ### [Drinks firm Gatorade ends its endorsement deal with golfer Tiger Woods after his string of extra-marital affairs. ](/news/2010/02/27/drinks-firm-gatorade-ends-its-endorsement-deal-with-golfer-tiger-woods-after-his-string-of-extra-marital-affairs.md)
-_Context: Gatorade, Tiger Woods_
+_Context: Tiger Woods, Gatorade_
 
 ## [Previous Day...](/news/2010/02/26/index.md)
 

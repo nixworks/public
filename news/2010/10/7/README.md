@@ -21,7 +21,7 @@ THE LEADER of a Congolese rebel group suspected of being involved in the rape of
 
 ##### Pakistan
 ### [14 people are killed and 70 others are injured in 2 suicide blasts at a shrine in Pakistan's southern port city of Karachi. ](/news/2010/10/7/14-people-are-killed-and-70-others-are-injured-in-2-suicide-blasts-at-a-shrine-in-pakistan-s-southern-port-city-of-karachi.md)
-_Context: Pakistan, Karachi_
+_Context: Karachi, Pakistan_
 
 ##### Baghdad
 ### [At least 5 people are killed due to back-to-back afternoon bombings at a vegetable market south of Baghdad. In Iskandariyah, about 30 miles (50 kilometers) south of Baghdad, also wounded at least 20 people. ](/news/2010/10/7/at-least-5-people-are-killed-due-to-back-to-back-afternoon-bombings-at-a-vegetable-market-south-of-baghdad-in-iskandariyah-about-30-miles.md)
@@ -33,7 +33,7 @@ _Context: Tajikistan_
 
 ##### Iran
 ### [Gunmen kill 4 police officers in Iranian Kurdish area. ](/news/2010/10/7/gunmen-kill-4-police-officers-in-iranian-kurdish-area.md)
-_Context: Kurdish, Iran_
+_Context: Iran, Kurdish_
 
 ##### Takhar province
 ### [20 Taliban militants, including two rebel commanders, are killed in fighting with security forces in northeastern Takhar province, Afghanistan. ](/news/2010/10/7/20-taliban-militants-including-two-rebel-commanders-are-killed-in-fighting-with-security-forces-in-northeastern-takhar-province-afghanist.md)
@@ -61,9 +61,9 @@ A Roman helmet unearthed found in a Cumbrian field by a metal detector enthusias
 
 ##### FBI
 ### [The FBI seizes a set of John Lennon's fingerprints. ](/news/2010/10/7/the-fbi-seizes-a-set-of-john-lennon-s-fingerprints.md)
-_Context: John Lennon, FBI_
+_Context: FBI, John Lennon_
 
-##### American
+##### U.S.
 ### [United States film studio Metro Goldwyn Mayer begins plans to file for Chapter 11 bankruptcy in a bid to rid itself of $4 billion in debts. ](/news/2010/10/7/united-states-film-studio-metro-goldwyn-mayer-begins-plans-to-file-for-chapter-11-bankruptcy-in-a-bid-to-rid-itself-of-4-billion-in-debts.md)
 Hollywood film studio Metro Goldwyn Mayer begins plans to file for bankruptcy protection to try to rid itself of $4bn of debts.
 
@@ -73,7 +73,7 @@ Civil servants stage 24-hour strike in protest against pay cuts and pension free
 
 ##### $
 ### [The United States dollar reaches a 15-year low against the Japanese yen and depreciates against a range of other currencies due to concerns about further quantitative easing by the United States Federal Reserve. ](/news/2010/10/7/the-united-states-dollar-reaches-a-15-year-low-against-the-japanese-yen-and-depreciates-against-a-range-of-other-currencies-due-to-concerns.md)
-_Context: quantitative easing, United States Federal Reserve, Japan, $, yen, currency_
+_Context: currency, yen, United States Federal Reserve, quantitative easing, Japan, $_
 
 ##### Irrawaddy River
 ### [Nine, mostly children, die, after an overloaded river ferry capsizes in the Irrawaddy River delta, in Myanmar. ](/news/2010/10/7/nine-mostly-children-die-after-an-overloaded-river-ferry-capsizes-in-the-irrawaddy-river-delta-in-myanmar.md)
@@ -97,13 +97,13 @@ Toxic red sludge from a Hungarian alumina plant reached the Danube on Thursday a
 
 ##### Security Council
 ### [Members of the U.N. Security Council arrive in the Darfur region of Sudan prior to the referendum on independence from Sudan and receive a hostile welcome from pro-government forces. ](/news/2010/10/7/members-of-the-u-n-security-council-arrive-in-the-darfur-region-of-sudan-prior-to-the-referendum-on-independence-from-sudan-and-receive-a-h.md)
-_Context: referendum on independence from Sudan, Security Council, Sudan, Darfur_
+_Context: Darfur, Sudan, referendum on independence from Sudan, Security Council_
 
 ##### Russia
 ### [Russia will refund Iran for the canceled the sale of an air defense missile system following United Nations sanctions against Iran's nuclear program ](/news/2010/10/7/russia-will-refund-iran-for-the-canceled-the-sale-of-an-air-defense-missile-system-following-united-nations-sanctions-against-iranas-nucle.md)
-_Context: nuclear program, Russia, Iran, anti-air, ban on ballistic missile tests_
+_Context: Iran, ban on ballistic missile tests, anti-air, nuclear program, Russia_
 
-##### American
+##### U.S.
 ### [The United States apologizes to Pakistan for a helicopter strike on a Pakistan Army border post that killed 3 soldiers. ](/news/2010/10/7/the-united-states-apologizes-to-pakistan-for-a-helicopter-strike-on-a-pakistan-army-border-post-that-killed-3-soldiers.md)
 As the White House tried to mollify Pakistan over an airstrike, officials said there were larger tensions.
 
@@ -133,11 +133,11 @@ Zimbabwean Prime Minister Morgan Tsvangirai accuses President Robert Mugabe of v
 
 ##### United Kingdom
 ### [The United Kingdom Labour Party announces its Shadow Cabinet to be led by Ed Miliband. ](/news/2010/10/7/the-united-kingdom-labour-party-announces-its-shadow-cabinet-to-be-led-by-ed-miliband.md)
-_Context: Shadow Cabinet, United Kingdom, Ed Miliband, Labour Party_
+_Context: United Kingdom, Labour Party, Ed Miliband, Shadow Cabinet_
 
 ##### Mark Rutte
 ### [Mark Rutte of the People's Party for Freedom and Democracy is asked by Queen Beatrix of the Netherlands to become Prime Minister of the Netherlands leading a coalition government. ](/news/2010/10/7/mark-rutte-of-the-people-s-party-for-freedom-and-democracy-is-asked-by-queen-beatrix-of-the-netherlands-to-become-prime-minister-of-the-neth.md)
-_Context: VVD, Mark Rutte, Netherlands, Prime Minister, Beatrix_
+_Context: Netherlands, Beatrix, Mark Rutte, VVD, Prime Minister_
 
 ##### South Africa
 ### [South African Archbishop Desmond Tutu retires from public life after reaching his 79th birthday. ](/news/2010/10/7/south-african-archbishop-desmond-tutu-retires-from-public-life-after-reaching-his-79th-birthday.md)

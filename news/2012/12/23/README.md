@@ -9,7 +9,7 @@ Dozens of people are killed in a government air strike on a bakery in central Sy
 
 ##### Somalia
 ### [Troops in Somalia's region of Puntland free 22 hostages seized by pirates nearly three years ago. ](/news/2012/12/23/troops-in-somalia-s-region-of-puntland-free-22-hostages-seized-by-pirates-nearly-three-years-ago.md)
-_Context: Somalia, Puntland, Somali pirates_
+_Context: Somalia, Somali pirates, Puntland_
 
 ##### Mali
 ### [Islamists in Mali are reported to have resumed a campaign to destroy mausoleums that they consider idolatrous in the historic city of Timbuktu. ](/news/2012/12/23/islamists-in-mali-are-reported-to-have-resumed-a-campaign-to-destroy-mausoleums-that-they-consider-idolatrous-in-the-historic-city-of-timbuk.md)
@@ -33,11 +33,11 @@ Homes in Stonehaven are evacuated after significant flooding hit the Aberdeenshi
 
 ##### Train
 ### [A train derails in the Swiss Alps after ramming into mounds of snow from an avalanche blocking the tracks with no injuries. ](/news/2012/12/23/a-train-derails-in-the-swiss-alps-after-ramming-into-mounds-of-snow-from-an-avalanche-blocking-the-tracks-with-no-injuries.md)
-_Context: avalanche, train, Swiss Alps, snow_
+_Context: train, snow, avalanche, Swiss Alps_
 
 ##### Fire
 ### [At least 600 shops are destroyed as a fire sweeps through a market and money exchange in Kabul, Afghanistan. ](/news/2012/12/23/at-least-600-shops-are-destroyed-as-a-fire-sweeps-through-a-market-and-money-exchange-in-kabul-afghanistan.md)
-_Context: market, Afghanistan, money exchange, fire, Kabul_
+_Context: Afghanistan, money exchange, fire, Kabul, market_
 
 ##### South Korea
 ### [The South Korean defence ministry says the launch of a satellite into space by North Korea was a disguised test of a 10,000 km range missile. ](/news/2012/12/23/the-south-korean-defence-ministry-says-the-launch-of-a-satellite-into-space-by-north-korea-was-a-disguised-test-of-a-10-000-km-range-missile.md)

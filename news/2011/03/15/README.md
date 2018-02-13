@@ -21,7 +21,7 @@ Iran, Syria change usual smuggling route due to close surveillance by Israel, US
 
 ##### Nasdaq OMX Group
 ### [Nasdaq OMX Group is preparing a bid for NYSE Euronext. Such a bid would, at the least, complicate the planned merger between NYSE and Deutsche Boerse. Reuters reported the planned counter-bid citing "a source familiar with the situation." ](/news/2011/03/15/nasdaq-omx-group-is-preparing-a-bid-for-nyse-euronext-such-a-bid-would-at-the-least-complicate-the-planned-merger-between-nyse-and-deutsc.md)
-_Context: Deutsche Boerse, NYSE Euronext, Nasdaq OMX Group_
+_Context: NYSE Euronext, Nasdaq OMX Group, Deutsche Boerse_
 
 ##### 
 ### [Dozens of workers at the Fukushima Daiichi nuclear power complex (also called "Fukushima I") have stayed behind to end the radiation leaks, known as the "Fukushima 50", risking fatal radiation exposure. ](/news/2011/03/15/dozens-of-workers-at-the-fukushima-daiichi-nuclear-power-complex-also-called-fukushima-i-have-stayed-behind-to-end-the-radiation-leaks.md)
@@ -33,7 +33,7 @@ America&#039;s last World War 1 veteran is farewelled decades after returning to
 
 ##### European Union
 ### [The European Union holds talks with Aung San Suu Kyi and other Burmese opposition figures over the lifting of international sanctions. ](/news/2011/03/15/the-european-union-holds-talks-with-aung-san-suu-kyi-and-other-burmese-opposition-figures-over-the-lifting-of-international-sanctions.md)
-_Context: Aung San Suu Kyi, Burma, European Union_
+_Context: Burma, Aung San Suu Kyi, European Union_
 
 ##### Egypt
 ### [Egypt dissolves State Security Investigations Service, its former internal security and spying agency. ](/news/2011/03/15/egypt-dissolves-state-security-investigations-service-its-former-internal-security-and-spying-agency.md)
@@ -41,23 +41,23 @@ _Context: Egypt, security personnel_
 
 ##### Metropolitan Police
 ### [The Metropolitan Police in London, England launch an investigation into the death of reggae musician Smiley Culture in a police raid in Surrey. ](/news/2011/03/15/the-metropolitan-police-in-london-england-launch-an-investigation-into-the-death-of-reggae-musician-smiley-culture-in-a-police-raid-in-surr.md)
-_Context: Surrey, England, reggae, Metropolitan Police, London, Smiley Culture_
+_Context: England, Metropolitan Police, London, Surrey, reggae, Smiley Culture_
 
 ##### Mafia
 ### [Former US mafia leader Joey Merlino of the Scarfo crime family is released from prison in Indiana and is sent to a halfway house in Florida. ](/news/2011/03/15/former-us-mafia-leader-joey-merlino-of-the-scarfo-crime-family-is-released-from-prison-in-indiana-and-is-sent-to-a-halfway-house-in-florida.md)
-_Context: the state, Joey Merlino, Scarfo crime family, Indiana, halfway house, mafia_
+_Context: halfway house, mafia, Joey Merlino, Scarfo crime family, the state, Indiana_
 
 ##### German
 ### [German national Christian Gerhartsreiter is charged with the murder of a San Marino, California man in the 1980s. ](/news/2011/03/15/german-national-christian-gerhartsreiter-is-charged-with-the-murder-of-a-san-marino-california-man-in-the-1980s.md)
-_Context: German, San Marino, Christian Gerhartsreiter, California_
+_Context: Christian Gerhartsreiter, German, San Marino, California_
 
-##### American
+##### U.S.
 ### [The United States Drug Enforcement Administration seizes the state of Georgia's supply of a lethal injection drug due to questions over how it was imported to the US. ](/news/2011/03/15/the-united-states-drug-enforcement-administration-seizes-the-state-of-georgia-s-supply-of-a-lethal-injection-drug-due-to-questions-over-how.md)
-_Context: Georgia, American, Drug Enforcement Administration, lethal injection_
+_Context: Drug Enforcement Administration, lethal injection, Georgia, U.S._
 
-##### American
+##### U.S.
 ### [United States nurse William Francis Melchert-Dinkel is convicted of aiding the suicides of an English man and Canadian woman. ](/news/2011/03/15/united-states-nurse-william-francis-melchert-dinkel-is-convicted-of-aiding-the-suicides-of-an-english-man-and-canadian-woman.md)
-_Context: Canadian, English, suicide, William Francis Melchert-Dinkel, American_
+_Context: English, suicide, William Francis Melchert-Dinkel, U.S., Canadian_
 
 ##### British Medical Association
 ### [At a British Medical Association conference, delegates call for the coalition government to halt its plans to overhaul the National Health Service in England. However, they stop short of complete opposition to the proposals. ](/news/2011/03/15/at-a-british-medical-association-conference-delegates-call-for-the-coalition-government-to-halt-its-plans-to-overhaul-the-national-health-s.md)
@@ -65,11 +65,11 @@ Doctors at an emergency union meeting have called on the government to put a hal
 
 ##### Angela Merkel
 ### [Angela Merkel, the Chancellor of Germany, announces that Germany will shut down all of its pre-1980 nuclear reactors following the problems in Japan. ](/news/2011/03/15/angela-merkel-the-chancellor-of-germany-announces-that-germany-will-shut-down-all-of-its-pre-1980-nuclear-reactors-following-the-problems.md)
-_Context: German, Japan, nuclear reactor, Angela Merkel, Chancellor_
+_Context: German, Angela Merkel, nuclear reactor, Japan, Chancellor_
 
 ##### Mayor of Miami-Dade County
 ### [The Mayor of Miami-Dade County in the U.S. state of Florida, Carlos Alvarez, and County commissioner Natacha Seijas are defeated in recall elections. ](/news/2011/03/15/the-mayor-of-miami-dade-county-in-the-u-s-state-of-florida-carlos-alvarez-and-county-commissioner-natacha-seijas-are-defeated-in-recall-e.md)
-_Context: recall, U.S. state, the state, County commission, Mayor of Miami-Dade County, Carlos Alvarez_
+_Context: the state, Mayor of Miami-Dade County, County commission, Carlos Alvarez, U.S. state, recall_
 
 ## [Previous Day...](/news/2011/03/14/index.md)
 

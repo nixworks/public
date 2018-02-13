@@ -5,11 +5,11 @@ Formats: [HTML](2008/01/29/index.html)  [JSON](2008/01/29/index.json)  [XML](200
 
 ##### School bus
 ### [ 20 civilians including 11 children die and 14 are wounded after a mine explodes targeting a school bus in Madhu, Sri Lanka. ](/news/2008/01/29/20-civilians-including-11-children-die-and-14-are-wounded-after-a-mine-explodes-targeting-a-school-bus-in-madhu-sri-lanka.md)
-_Context: Madhu, Sri Lanka, school bus_
+_Context: Madhu, school bus, Sri Lanka_
 
 ##### Iran
 ### [ Iran's judiciary sentences 54 Bah' religion followers for "anti-regime propaganda." ](/news/2008/01/29/iran-s-judiciary-sentences-54-baha-i-religion-followers-for-anti-regime-propaganda.md)
-_Context: Bah', Iran, propaganda, sentences_
+_Context: propaganda, sentences, Iran, Bah'_
 
 ##### Beijing-Guangzhou railway
 ### [ Snow storms cut the Beijing-Guangzhou railway and paralyze China's "Chunyun" period. ](/news/2008/01/29/snow-storms-cut-the-beijing-guangzhou-railway-and-paralyze-china-s-chunyun-period.md)
@@ -21,7 +21,7 @@ The House, seizing a rare moment of bipartisanship to respond to the economy’s
 
 ##### Venezuela
 ### [ Venezuelan gunmen hold 30 hostages in a bank in Gurico state before fleeing the scene in an ambulance with several hostages. The gunmen are subsequently captured. ](/news/2008/01/29/venezuelan-gunmen-hold-30-hostages-in-a-bank-in-guarico-state-before-fleeing-the-scene-in-an-ambulance-with-several-hostages-the-gunmen-ar.md)
-_Context: ambulance, Gurico, Venezuela, bank_
+_Context: Venezuela, bank, Gurico, ambulance_
 
 ##### Voters
 ### [ Voters in Florida go to the polls to determine presidential nominees. New York Senator Hillary Clinton wins the Democratic primary with no delegates awarded. ](/news/2008/01/29/voters-in-florida-go-to-the-polls-to-determine-presidential-nominees-new-york-senator-hillary-clinton-wins-the-democratic-primary-with-no.md)
@@ -37,7 +37,7 @@ _Context: Pakistan Army, North Waziristan_
 
 ##### Car bomb
 ### [ A car bomb in Thenia, Algeria kills at least three people. ](/news/2008/01/29/a-car-bomb-in-thenia-algeria-kills-at-least-three-people.md)
-_Context: Thenia, car bomb, Algeria_
+_Context: Algeria, car bomb, Thenia_
 
 ## [Previous Day...](/news/2008/01/28/index.md)
 

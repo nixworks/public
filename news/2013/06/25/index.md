@@ -37,7 +37,7 @@ Italian police searches on Tuesday of more than 30 Italian soccer clubs includes
 
 ##### Russian President
 ### [Russian president Vladimir Putin confirms that Edward Snowden is currently in a Moscow airport's international area; Russia rejects United States extradition demands. ](/news/2013/06/25/russian-president-vladimir-putin-confirms-that-edward-snowden-is-currently-in-a-moscow-airport-s-international-area-russia-rejects-united-s.md)
-_Context: Russian President, Moscow, Edward Snowden, Vladimir Putin, extradition_
+_Context: Edward Snowden, Russian President, extradition, Vladimir Putin, Moscow_
 
 ##### Rio de Janeiro
 ### [Nine are killed in gun battles between paramilitary forces and drug gangs in Rio de Janeiro favelas. ](/news/2013/06/25/nine-are-killed-in-gun-battles-between-paramilitary-forces-and-drug-gangs-in-rio-de-janeiro-favelas.md)
@@ -57,11 +57,11 @@ Representative Edward J. Markey of Massachusetts won a promotion to the Senate o
 
 ##### Qatar Emir
 ### [The Emir of Qatar Sheikh Hamad bin Khalifa Al Thani abdicates in favour of his son Sheikh Tamim bin Hamad Al Thani. ](/news/2013/06/25/the-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-abdicates-in-favour-of-his-son-sheikh-tamim-bin-hamad-al-thani.md)
-_Context: Sheikh Tamim bin Hamad al-Than, Hamad bin Khalifa Al Thani, Qatar Emir_
+_Context: Hamad bin Khalifa Al Thani, Sheikh Tamim bin Hamad al-Than, Qatar Emir_
 
 ##### Greek Prime Minister
 ### [The Prime Minister of Greece, Antonis Samaras, reshuffles his cabinet giving more positions to his Panhellenic Socialist Movement coalition partner, appointing its leader Evangelos Venizelos as Deputy Prime Minister and Foreign Minister. ](/news/2013/06/25/the-prime-minister-of-greece-antonis-samaras-reshuffles-his-cabinet-giving-more-positions-to-his-panhellenic-socialist-movement-coalition.md)
-_Context: Foreign Minister, PASOK, Greek Prime Minister, Deputy Prime Minister, Evangelos Venizelos, Antonis Samaras_
+_Context: Greek Prime Minister, PASOK, Evangelos Venizelos, Antonis Samaras, Foreign Minister, Deputy Prime Minister_
 
 ##### FICCI
 ### [FICCI calls on the government of India to legalize sports betting. ](/news/2013/06/25/ficci-calls-on-the-government-of-india-to-legalize-sports-betting.md)

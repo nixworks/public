@@ -31,7 +31,7 @@ ANCHORAGE, Alaska (AP) - The day started out as a perfect Alaska excursion: Exci
 ### [Seven mountain climbers die in an avalanche in the French Alps near the town of Pelvoux. ](/news/2015/09/15/seven-mountain-climbers-die-in-an-avalanche-in-the-french-alps-near-the-town-of-pelvoux.md)
 The avalanche occurred near the town of Pelvoux in southeast France.
 
-##### American
+##### U.S.
 ### [The U.S. Food and Drug Administration orders R. J. Reynolds Tobacco Company to stop further U.S. sale and distribution of four cigarette products because they may be more dangerous than similar older cigarettes. ](/news/2015/09/15/the-u-s-food-and-drug-administration-orders-r-j-reynolds-tobacco-company-to-stop-further-u-s-sale-and-distribution-of-four-cigarette-pro.md)
 Reynolds American Inc can no longer sell Camel Crush Bold or three other cigarette products in the United States because they may be more dangerous than similar older cigarettes, the Food and Drug Administration said on Tuesday.
 

@@ -9,11 +9,11 @@ Angola’s governing party took a lead in a parliamentary election and is on tra
 
 ##### Roger Federer
 ### [ Roger Federer defeats Andy Murray to win the U.S. Tennis Open for a record-breaking fifth consecutive time. ](/news/2008/09/8/roger-federer-defeats-andy-murray-to-win-the-u-s-tennis-open-for-a-record-breaking-fifth-consecutive-time.md)
-_Context: U.S. Tennis Open, Andy Murray, Roger Federer_
+_Context: U.S. Tennis Open, Roger Federer, Andy Murray_
 
 ##### Washington Mutual
 ### [ Washington Mutual, the largest savings and loan in the United States, ousts Chief Executive Kerry Killinger as a result of losses incurred as a result of the subprime mortgage crisis. ](/news/2008/09/8/washington-mutual-the-largest-savings-and-loan-in-the-united-states-ousts-chief-executive-kerry-killinger-as-a-result-of-losses-incurred.md)
-_Context: Chief Executive, savings and loan, Washington Mutual, Kerry Killinger, American, subprime mortgage crisis_
+_Context: savings and loan, Kerry Killinger, Chief Executive, U.S., Washington Mutual, subprime mortgage crisis_
 
 ##### Landslide
 ### [ A landslide triggered by heavy rain strikes a warehouse in Linfen in Shanxi province, China, killing at least 26 people and injuring others. ](/news/2008/09/8/a-landslide-triggered-by-heavy-rain-strikes-a-warehouse-in-linfen-in-shanxi-province-china-killing-at-least-26-people-and-injuring-others.md)
@@ -29,11 +29,11 @@ _Context: Azizabad, civilian, Afghanistan, Herat, US military_
 
 ##### Russian President
 ### [ President of Russia Dmitry Medvedev and President of France Nicolas Sarkozy announced after talks in Moscow that an agreement to pull Russian forces from Georgia within a month has been reached. The agreement has become possible as EU will send 200 civilian monitors to the area and guarantee that Georgia signs a pledge to not use military force in Abkhazia and South Ossetia again. ](/news/2008/09/8/president-of-russia-dmitry-medvedev-and-president-of-france-nicolas-sarkozy-announced-after-talks-in-moscow-that-an-agreement-to-pull-russi.md)
-_Context: Nicolas Sarkozy, Abkhazia, South Ossetia, Russian security forces, Dmitry Medvedev, Moscow,  Georgian, French President, Russian President_
+_Context: Russian President, Abkhazia, South Ossetia, Moscow, Russian security forces, Dmitry Medvedev, Nicolas Sarkozy, French President,  Georgian_
 
 ##### United Kingdom
 ### [ Three British Muslim men are found guilty of conspiracy to murder relating to the 2006 transatlantic aircraft plot. ](/news/2008/09/8/three-british-muslim-men-are-found-guilty-of-conspiracy-to-murder-relating-to-the-2006-transatlantic-aircraft-plot.md)
-_Context: 2006 transatlantic aircraft plot, United Kingdom, conspiracy, murder_
+_Context: 2006 transatlantic aircraft plot, conspiracy, United Kingdom, murder_
 
 ## [Previous Day...](/news/2008/09/7/index.md)
 

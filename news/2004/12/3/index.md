@@ -9,11 +9,11 @@ _Context: Yukos, Vladimir Putin, Russian President_
 
 ##### Kosovo
 ### [ Kosovo's parliament elects a former KLA commander, Ramush Haradinaj, who has been questioned twice by UN war crimes investigators. ](/news/2004/12/3/kosovo-s-parliament-elects-a-former-kla-commander-ramush-haradinaj-who-has-been-questioned-twice-by-un-war-crimes-investigators.md)
-_Context: war crime, Kosovo, Ramush Haradinaj, Kosovo Liberation Army_
+_Context: Kosovo Liberation Army, Ramush Haradinaj, Kosovo, war crime_
 
 ##### Brazil
 ### [ Brazilian paleontologists of the Federal University of Rio de Janeiro announce a find of a new dinosaur species, "Unaysaurus tolentinoi". The find also shows links to Europe when both continents were part of Pangaea. ](/news/2004/12/3/brazilian-paleontologists-of-the-federal-university-of-rio-de-janeiro-announce-a-find-of-a-new-dinosaur-species-unaysaurus-tolentinoi-t.md)
-_Context: Unaysaurus tolentinoi, dinosaur, Pangaea, Federal University of Rio de Janeiro, Brazil_
+_Context: Brazil, Federal University of Rio de Janeiro, Unaysaurus tolentinoi, Pangaea, dinosaur_
 
 ##### Luzon
 ### [ Typhoon Nanmadol slams into the island of Luzon in the Philippines, less than a week after tropical depression locally called "Winnie" caused landslides and floods in the region also affected by the earlier typhoons Muifa and Merbok. Floods and landslides by Winnie killed at least 495 persons. More people are expected to be declared missing or dead as typhoon Nanmadol leaves the country later today. ](/news/2004/12/3/typhoon-nanmadol-slams-into-the-island-of-luzon-in-the-philippines-less-than-a-week-after-tropical-depression-locally-called-winnie-caus.md)

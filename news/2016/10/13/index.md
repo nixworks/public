@@ -9,9 +9,9 @@ The U.S. military launched cruise missile strikes on Thursday to knock out three
 
 ##### Boko Haram
 ### [Negotiations between the Nigerian president's administration and Islamist militants free 21 of the 270 schoolgirls kidnapped in 2014 by Boko Haram in Chibok, Nigeria (leaving 218 victims still unaccounted for). ](/news/2016/10/13/negotiations-between-the-nigerian-president-s-administration-and-islamist-militants-free-21-of-the-270-schoolgirls-kidnapped-in-2014-by-boko.md)
-_Context: Chibok, Nigerian, Boko Haram, Chibok schoolgirls kidnapping_
+_Context: Chibok, Boko Haram, Nigerian, Chibok schoolgirls kidnapping_
 
-##### American
+##### U.S.
 ### [American singer-songwriter Bob Dylan wins the Nobel Prize in Literature. ](/news/2016/10/13/american-singer-songwriter-bob-dylan-wins-the-nobel-prize-in-literature.md)
 The prolific musician is the first American to win the prize for lifetime literary achievement in 23 years. While Dylan long enjoyed favor as an outside shot for the award, few expected him to win.
 
@@ -29,7 +29,7 @@ Nicole battered Bermuda during its long journey through the Atlantic.
 
 ##### Hurricane Matthew
 ### [The death toll in North Carolina rises to 22 as flood waters continue to rise. Governor Pat McCrory says places that had a foot of water in the morning, were under 12 feet of water. ](/news/2016/10/13/the-death-toll-in-north-carolina-rises-to-22-as-flood-waters-continue-to-rise-governor-pat-mccrory-says-places-that-had-a-foot-of-water-in.md)
-_Context: Hurricane Matthew, Governor, North Carolina, Pat McCrory_
+_Context: Pat McCrory, Governor, Hurricane Matthew, North Carolina_
 
 ##### Kelowna, BC
 ### [A plane crash near Kelowna, BC, kills Canadian politician and former Premier of Alberta Jim Prentice along with three others. ](/news/2016/10/13/a-plane-crash-near-kelowna-bc-kills-canadian-politician-and-former-premier-of-alberta-jim-prentice-along-with-three-others.md)
@@ -45,7 +45,7 @@ UNITED NATIONSâ€”The U.N. General Assembly on Thursday officially appointed AntÃ
 
 ##### Proposed second Scottish independence referendum
 ### [Scottish leader Nicola Sturgeon will introduce a bill launching a new referendum to determine the final status of the country. ](/news/2016/10/13/scottish-leader-nicola-sturgeon-will-introduce-a-bill-launching-a-new-referendum-to-determine-the-final-status-of-the-country.md)
-_Context: country, Proposed second Scottish independence referendum, Nicola Sturgeon, Brexit_
+_Context: Brexit, Nicola Sturgeon, Proposed second Scottish independence referendum, country_
 
 ##### 
 ### [Cyberthieves inject 5,925 online web retailers with website software malicious code that is stealing the credit card details of customers. ](/news/2016/10/13/cyberthieves-inject-5-925-online-web-retailers-with-website-software-malicious-code-that-is-stealing-the-credit-card-details-of-customers.md)
@@ -57,7 +57,7 @@ Thailand&#039;s King Bhumibol Adulyadej, the world&#039;s longest-reigning monar
 
 ##### Lasting peace
 ### [Colombian President Juan Manuel Santos extends his ceasefire with the FARC rebels through the end of the year. ](/news/2016/10/13/colombian-president-juan-manuel-santos-extends-his-ceasefire-with-the-farc-rebels-through-the-end-of-the-year.md)
-_Context: FARC, lasting peace, Colombian President, ceasefire, Juan Manuel Santos_
+_Context: ceasefire, lasting peace, Juan Manuel Santos, Colombian President, FARC_
 
 ## [Previous Day...](/news/2016/10/12/index.md)
 

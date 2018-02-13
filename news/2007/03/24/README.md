@@ -9,15 +9,15 @@ _Context: Senator, Democratic Republic of Congo, Kinshasa, Jean-Pierre Bemba_
 
 ##### United Kingdom
 ### [ The United Kingdom announces the withdrawal of all British Armed Forces serving as part of the European Union Force in Bosnia and Herzegovina. ](/news/2007/03/24/the-united-kingdom-announces-the-withdrawal-of-all-british-armed-forces-serving-as-part-of-the-european-union-force-in-bosnia-and-herzegovi.md)
-_Context: Bosnia and Herzegovina, European Union Force, United Kingdom, British military personnel_
+_Context: British military personnel, United Kingdom, Bosnia and Herzegovina, European Union Force_
 
 ##### War in Iraq
 ### [ War in Iraq: At least 47 people die in insurgent strikes including 20 as a result of a suicide truck bomb in a Baghdad police station. ](/news/2007/03/24/war-in-iraq-at-least-47-people-die-in-insurgent-strikes-including-20-as-a-result-of-a-suicide-truck-bomb-in-a-baghdad-police-station.md)
-_Context: Baghdad, War in Iraq, police station, suicide attack, insurgent, car bomb_
+_Context: War in Iraq, insurgent, Baghdad, suicide attack, police station, car bomb_
 
 ##### United Nations Security Council
 ### [ The United Nations Security Council unanimously adopts Resolution 1747, imposing additional economic sanctions on the Islamic Republic of Iran for its ongoing nuclear programme. ](/news/2007/03/24/the-united-nations-security-council-unanimously-adopts-resolution-1747-imposing-additional-economic-sanctions-on-the-islamic-republic-of-i.md)
-_Context: produce nuclear fuel on an industrial scale, Resolution 1747, United Nations Security Council, economic sanction, Islamic Republic of Iran_
+_Context: economic sanction, produce nuclear fuel on an industrial scale, Resolution 1747, Islamic Republic of Iran, United Nations Security Council_
 
 ##### Xi Jinping
 ### [ Xi Jinping is appointed the new CPC Shanghai Committee Secretary, thus becoming the number one figure in Shanghai, replacing acting party chief Han Zheng. He leaves his post as Party chief in Zhejiang. ](/news/2007/03/24/xi-jinping-is-appointed-the-new-cpc-shanghai-committee-secretary-thus-becoming-the-number-one-figure-in-shanghai-replacing-acting-party-c.md)
@@ -25,7 +25,7 @@ The ruling Communist Party appointed Xi Jinping as the top leader of Shanghai.
 
 ##### Elections
 ### [ Elections in the Australian state of New South Wales sees the Australian Labor Party led by Morris Iemma retain government despite a small swing against it. ](/news/2007/03/24/elections-in-the-australian-state-of-new-south-wales-sees-the-australian-labor-party-led-by-morris-iemma-retain-government-despite-a-small.md)
-_Context: Morris Iemma, Australia, Elections, Australian Labor Party, NSW_
+_Context: Morris Iemma, Elections, NSW, Australia, Australian Labor Party_
 
 ## [Previous Day...](/news/2007/03/23/index.md)
 

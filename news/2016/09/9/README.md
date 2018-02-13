@@ -5,7 +5,7 @@ Formats: [HTML](2016/09/9/index.html)  [JSON](2016/09/9/index.json)  [XML](2016/
 
 ##### War in Afghanistan (2015-present)
 ### [United States Navy SEALs, by high altitude parachuting, fail in a rescue attempt after the team does not find the American and Australian hostages who were kidnapped in Kabul last month. ](/news/2016/09/9/united-states-navy-seals-by-high-altitude-parachuting-fail-in-a-rescue-attempt-after-the-team-does-not-find-the-american-and-australian-ho.md)
-_Context: Kabul, United States Navy SEAL, War in Afghanistan (2015-present), high altitude parachuting_
+_Context: United States Navy SEAL, War in Afghanistan (2015-present), Kabul, high altitude parachuting_
 
 ##### Iraqi civil war
 ### [Twin suicide bombings at the Nakheel Mall in eastern Baghdad kill 12 people and injure more than 40 others. ISIL claims responsibility. ](/news/2016/09/9/twin-suicide-bombings-at-the-nakheel-mall-in-eastern-baghdad-kill-12-people-and-injure-more-than-40-others-isil-claims-responsibility.md)
@@ -13,7 +13,7 @@ Twelve people were killed late on Friday in two suicide bombings claimed by Isla
 
 ##### Norway
 ### [The Norwegian newspaper "Aftenposten" accuses Facebook of censorship because of the website's decision to remove the iconic Vietnam War-era photo "napalm girl" as child pornography. ](/news/2016/09/9/the-norwegian-newspaper-aftenposten-accuses-facebook-of-censorship-because-of-the-website-s-decision-to-remove-the-iconic-vietnam-waraer.md)
-_Context: napalm girl, Norway, child pornography, Vietnam War, Aftenposten, Facebook_
+_Context: Vietnam War, Aftenposten, child pornography, napalm girl, Norway, Facebook_
 
 ##### General Motors
 ### [General Motors recalls 4.3 million vehicles after a defect in the software for the airbag led to one fatality. ](/news/2016/09/9/general-motors-recalls-4-3-million-vehicles-after-a-defect-in-the-software-for-the-airbag-led-to-one-fatality.md)

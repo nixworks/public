@@ -5,7 +5,7 @@ Formats: [HTML](2017/05/11/index.html)  [JSON](2017/05/11/index.json)  [XML](201
 
 ##### Battle of Mosul
 ### [The Iraqi army's chief of staff, Lt Gen Othman al-Ghanmi, states that his security forces are only days away from completing the operation to recapture Mosul from ISIL. ](/news/2017/05/11/the-iraqi-army-s-chief-of-staff-lt-gen-othman-al-ghanmi-states-that-his-security-forces-are-only-days-away-from-completing-the-operation-t.md)
-_Context: Iraq, Mosul, Othman al-Ghanmi, Battle of Mosul, ISIL_
+_Context: Battle of Mosul, Mosul, Othman al-Ghanmi, Iraq, ISIL_
 
 ##### New Orleans City Council
 ### [The New Orleans City Council removes the statue of Confederate President Jefferson Davis in New Orleans. This action is the second of four planned removals of Confederate monuments in the city. ](/news/2017/05/11/the-new-orleans-city-council-removes-the-statue-of-confederate-president-jefferson-davis-in-new-orleans-this-action-is-the-second-of-four-p.md)
@@ -21,7 +21,7 @@ High-level officials from the world&rsquo;s eight Arctic nations will meet in Al
 
 ##### Triple Talaq in India
 ### [The Supreme Court of India begins hearings on whether oral divorce is a fundamental right of Islam. ](/news/2017/05/11/the-supreme-court-of-india-begins-hearings-on-whether-oral-divorce-is-a-fundamental-right-of-islam.md)
-_Context: Triple Talaq in India, Supreme Court of India, oral divorce, Islam_
+_Context: oral divorce, Islam, Triple Talaq in India, Supreme Court of India_
 
 ##### Moscow
 ### [Moscow police detain five protesters after they attempted to deliver a petition to investigate the status of LGBT rights in Chechnya to the Prosecutor General of Russia. ](/news/2017/05/11/moscow-police-detain-five-protesters-after-they-attempted-to-deliver-a-petition-to-investigate-the-status-of-lgbt-rights-in-chechnya-to-the.md)
@@ -33,11 +33,11 @@ The Federal Bureau of Investigation carried out a raid on a Republican fundraisi
 
 ##### Last general election
 ### [An unknown person or organization leaks a 45-page draft campaign manifesto, described as "the most left-wing," of the Labour Party, that is due for official confirmation tomorrow. ](/news/2017/05/11/an-unknown-person-or-organization-leaks-a-45-page-draft-campaign-manifesto-described-as-the-most-left-wing-of-the-labour-party-that-is.md)
-_Context: Labour Party, left-wing, last general election_
+_Context: left-wing, Labour Party, last general election_
 
 ##### French parliamentary election, 2017
 ### [French President-elect Emmanuel Macron announces his slate of candidates for the upcoming elections for French Parliament. ](/news/2017/05/11/french-president-elect-emmanuel-macron-announces-his-slate-of-candidates-for-the-upcoming-elections-for-french-parliament.md)
-_Context: Emmanuel Macron, French Parliament, French parliamentary election, 2017_
+_Context: Emmanuel Macron, French parliamentary election, 2017, French Parliament_
 
 ## [Previous Day...](/news/2017/05/10/index.md)
 

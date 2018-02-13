@@ -5,7 +5,7 @@ Formats: [HTML](2007/11/1/index.html)  [JSON](2007/11/1/index.json)  [XML](2007/
 
 ##### Myntverket
 ### [ The Swedish Mint (Myntverket) in Eskilstuna, Sweden, loses the competition to produce Swedish national coins to Rahapaja Oy of Finland, ending a more than 1000-year-long tradition of minting Swedish coins in Sweden. ](/news/2007/11/1/the-swedish-mint-myntverket-in-eskilstuna-sweden-loses-the-competition-to-produce-swedish-national-coins-to-rahapaja-oy-of-finland-end.md)
-_Context: Finland, Sweden, Myntverket, Eskilstuna, SKr, minting, Rahapaja Oy_
+_Context: Rahapaja Oy, minting, Finland, Eskilstuna, Sweden, SKr, Myntverket_
 
 ##### Chrysler
 ### [ Automaker Chrysler announces plans for cutting an additional 12,000 jobs worldwide as part of a major restructuring plan. ](/news/2007/11/1/automaker-chrysler-announces-plans-for-cutting-an-additional-12-000-jobs-worldwide-as-part-of-a-major-restructuring-plan.md)
@@ -21,15 +21,15 @@ Tropical Storm Noel, whose rains have killed at least 108 people in the Caribbea
 
 ##### Benazir Bhutto
 ### [ Benazir Bhutto leaves Karachi for United Arab Emirates amidst speculations that President Pervez Musharraf might impose martial law in Pakistan. ](/news/2007/11/1/benazir-bhutto-leaves-karachi-for-united-arab-emirates-amidst-speculations-that-president-pervez-musharraf-might-impose-martial-law-in-paki.md)
-_Context: Pervez Musharraf, United Arab Emirates, Benazir Bhutto, martial law, Karachi, Pakistan_
+_Context: martial law, Benazir Bhutto, United Arab Emirates, Pakistan, Karachi, Pervez Musharraf_
 
 ##### 2007 Tabasco flood
 ### [ 2007 Tabasco flood: Massive flooding hits the Mexican state of Tabasco, with Governor Andres Granier estimating that 80% of its 25,000 km2 surface area is underwater. ](/news/2007/11/1/2007-tabasco-flood-massive-flooding-hits-the-mexican-state-of-tabasco-with-governor-andra-c-s-granier-estimating-that-80-of-its-25-000-kma.md)
-_Context: Governor, 2007 Tabasco flood, Tabasco, Andres Granier_
+_Context: Tabasco, 2007 Tabasco flood, Governor, Andres Granier_
 
 ##### Metropolitan Police
 ### [ The London Metropolitan Police is found guilty of violations of Health and Safety law over the shooting of Jean Charles de Menezes on the London Underground in July 2005, and is fined GBP175,000 and ordered to pay GBP385,000 in legal costs. ](/news/2007/11/1/the-london-metropolitan-police-is-found-guilty-of-violations-of-health-and-safety-law-over-the-shooting-of-jean-charles-de-menezes-on-the-l.md)
-_Context: Metropolitan Police, London Underground, Health and Safety law, Jean Charles de Menezes_
+_Context: Jean Charles de Menezes, Health and Safety law, Metropolitan Police, London Underground_
 
 ##### Flash flood
 ### [ Flash floods in central Vietnam kill at least 13 people and injure 31 with 14,000 homes submerged in QuGBPng Tri, QuGBPng Binh and QuGBPng Nam provinces. ](/news/2007/11/1/flash-floods-in-central-vietnam-kill-at-least-13-people-and-injure-31-with-14-000-homes-submerged-in-quaogbpng-tra-quaogbpng-ba-nh-and-q.md)

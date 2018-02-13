@@ -25,7 +25,7 @@ Twelve migrants, including four children, drowned on Friday after their boat cap
 
 ##### Gambia
 ### [Gambia cuts diplomatic relations with Taiwan. ](/news/2013/11/15/gambia-cuts-diplomatic-relations-with-taiwan.md)
-_Context: diplomatic relations, Gambia, Taiwan_
+_Context: diplomatic relations, Taiwan, Gambia_
 
 ##### Ethiopia
 ### [Police in Ethiopia arrest dozens of people outside the Saudi Arabian embassy in the capital Addis Ababa who were protesting against attacks on Ethiopians in Saudi Arabia. ](/news/2013/11/15/police-in-ethiopia-arrest-dozens-of-people-outside-the-saudi-arabian-embassy-in-the-capital-addis-ababa-who-were-protesting-against-attacks.md)
@@ -33,7 +33,7 @@ Police crackdown on demonstrations against targeted attacks on Ethiopian migrant
 
 ##### Australia
 ### [Prosecutors in the Australian state of Queensland drop manslaughter charges against American surgeon Jayant Patel, who pleads guilty to charges of fraud. ](/news/2013/11/15/prosecutors-in-the-australian-state-of-queensland-drop-manslaughter-charges-against-american-surgeon-jayant-patel-who-pleads-guilty-to-char.md)
-_Context: Jayant Patel, American, Australia, Queensland, manslaughter by gross negligence_
+_Context: Australia, American, manslaughter by gross negligence, Queensland, Jayant Patel_
 
 ##### U.S. Supreme Court
 ### [The U.S. Supreme Court says that it will hear a securities fraud case this term that arises out of the asbestos liabilities of Halliburton, an oilfield services company. ](/news/2013/11/15/the-u-s-supreme-court-says-that-it-will-hear-a-securities-fraud-case-this-term-that-arises-out-of-the-asbestos-liabilities-of-halliburton.md)
@@ -49,7 +49,7 @@ Burmese officials say they are releasing 69 political prisoners, including the g
 
 ##### Australian Electoral Commission
 ### [The Australian Electoral Commission petitions the High Court of Australia for a new Senate election in the state of Western Australia due to the loss of 1,370 ballot papers and the closeness of the result. ](/news/2013/11/15/the-australian-electoral-commission-petitions-the-high-court-of-australia-for-a-new-senate-election-in-the-state-of-western-australia-due-to.md)
-_Context: Australian Electoral Commission, High Court of Australia, Western Australia, Senate election_
+_Context: Senate election, Western Australia, Australian Electoral Commission, High Court of Australia_
 
 ##### Brazil
 ### [The Brazilian Supreme Federal Court issues a long-time awaited order to arrest for bribery 12 former top officials who had served under ex-president Lula, in one of the nation's biggest corruption cases. ](/news/2013/11/15/the-brazilian-supreme-federal-court-issues-a-long-time-awaited-order-to-arrest-for-bribery-12-former-top-officials-who-had-served-under-ex-p.md)

@@ -17,7 +17,7 @@ _Context: Turkey, Istanbul, Ankara, Bombs_
 
 ##### Browning
 ### [ "The gun that killed nine million people", the Browning with serial no. 19047 which Gavrilo Princip used to assassinate Archduke Franz Ferdinand of Austria, is found in a Jesuit house in Austria and will be put on display in the Vienna museum of military history. ](/news/2004/06/24/the-gun-that-killed-nine-million-people-the-browning-with-serial-no-19047-which-gavrilo-princip-used-to-assassinate-archduke-franz-ferd.md)
-_Context: Jesuit, Browning, Archduke Franz Ferdinand of Austria, Gavrilo Princip, Vienna, Austria_
+_Context: Jesuit, Gavrilo Princip, Vienna, Austria, Archduke Franz Ferdinand of Austria, Browning_
 
 ## [Previous Day...](/news/2004/06/23/index.md)
 

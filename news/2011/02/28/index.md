@@ -9,7 +9,7 @@ Rights groups fear dozens killed in violent backlash against supposed Gaddafi-hi
 
 ##### Ethiopia
 ### [Ethiopia and Kenya may attack the al-Shabaab Islamist militant group in Somalia, following its threat to target Kenya. ](/news/2011/02/28/ethiopia-and-kenya-may-attack-the-al-shabaab-islamist-militant-group-in-somalia-following-its-threat-to-target-kenya.md)
-_Context: Kenya, Islamist, Somalia, Ethiopia, Al-Shabaab_
+_Context: Islamist, Somalia, Ethiopia, Kenya, Al-Shabaab_
 
 ##### Yangon
 ### [A bomb explodes in Yangon, Burma, injuring eight people. ](/news/2011/02/28/a-bomb-explodes-in-yangon-burma-injuring-eight-people.md)
@@ -17,7 +17,7 @@ _Context: Yangon, Burma_
 
 ##### Frank Buckles
 ### [Frank Buckles, the last surviving veteran of World War I in the United States, passes away in Charles Town, West Virginia, aged 110. ](/news/2011/02/28/frank-buckles-the-last-surviving-veteran-of-world-war-i-in-the-united-states-passes-away-in-charles-town-west-virginia-aged-110.md)
-_Context: last surviving veteran, Frank Buckles, American, First World War, Charles Town, West Virginia_
+_Context: U.S., last surviving veteran, First World War, Frank Buckles, Charles Town, West Virginia_
 
 ##### Product placement
 ### [The ban on product placement in television programmes is lifted, allowing advertisers to pay for their goods to be seen on British TV. The first product to be displayed in this regard is a Nescafe coffee machine, which appeared on "This Morning". ](/news/2011/02/28/the-ban-on-product-placement-in-television-programmes-is-lifted-allowing-advertisers-to-pay-for-their-goods-to-be-seen-on-british-tv-the-f.md)
@@ -33,11 +33,11 @@ U.S. stocks rallied, extending a third monthly gain, as billionaire investor War
 
 ##### United Kingdom
 ### [The United Kingdom's largest bank HSBC doubles its profits to $19bn (GBP11.8bn) in 2010. ](/news/2011/02/28/the-united-kingdom-s-largest-bank-hsbc-doubles-its-profits-to-19bn-gbp11-8bn-in-2010.md)
-_Context: HSBC, United Kingdom_
+_Context: United Kingdom, HSBC_
 
 ##### United States Government
 ### [The United States Government grants its first deepwater drilling license since the Deepwater Horizon oil spill to Noble Energy. ](/news/2011/02/28/the-united-states-government-grants-its-first-deepwater-drilling-license-since-the-deepwater-horizon-oil-spill-to-noble-energy.md)
-_Context: Deepwater Horizon oil spill, United States Government, deepwater drilling, Noble Energy_
+_Context: Deepwater Horizon oil spill, Noble Energy, United States Government, deepwater drilling_
 
 ##### Bandeira do Sul
 ### [At least 16 people in Bandeira do Sul are killed after a high-voltage electric powerline crashed onto a float participating in a parade ahead of Brazil's carnival celebrations. ](/news/2011/02/28/at-least-16-people-in-bandeira-do-sul-are-killed-after-a-high-voltage-electric-powerline-crashed-onto-a-float-participating-in-a-parade-ahea.md)
@@ -45,11 +45,11 @@ _Context: Brazilian Carnival, Brazil, Bandeira do Sul_
 
 ##### New Zealand
 ### [New Zealand police evacuate 60 properties in Christchurch suburbs after cracks from the 2011 Canterbury earthquake appear in cliffs. ](/news/2011/02/28/new-zealand-police-evacuate-60-properties-in-christchurch-suburbs-after-cracks-from-the-2011-canterbury-earthquake-appear-in-cliffs.md)
-_Context: Christchurch, New Zealand, 2011 Canterbury earthquake_
+_Context: 2011 Canterbury earthquake, New Zealand, Christchurch_
 
 ##### Chinese
 ### [Eleven Chinese fishermen are missing after their fishing boat sinks in the East China Sea. ](/news/2011/02/28/eleven-chinese-fishermen-are-missing-after-their-fishing-boat-sinks-in-the-east-china-sea.md)
-_Context: Chinese, fishing boat, East China Sea_
+_Context: fishing boat, Chinese, East China Sea_
 
 ##### United Nations
 ### [United Nations Secretary-General Ban Ki-moon says Belarus has "seriously violated" the arms embargo against the Ivory Coast, after a delivery of attack helicopters and material to the country. ](/news/2011/02/28/united-nations-secretary-general-ban-ki-moon-says-belarus-has-seriously-violated-the-arms-embargo-against-the-ivory-coast-after-a-deliver.md)
@@ -85,7 +85,7 @@ British security guard Danny Fitzsimons is jailed for 20 years by an Iraqi court
 
 ##### Venezuela
 ### [Venezuelan union leader Ruben Gonzalez is sentenced to seven years in jail in connection with a strike at the state iron mining company. ](/news/2011/02/28/venezuelan-union-leader-ruben-gonzalez-is-sentenced-to-seven-years-in-jail-in-connection-with-a-strike-at-the-state-iron-mining-company.md)
-_Context: Ruben Gonzalez, iron mining, Venezuela_
+_Context: iron mining, Venezuela, Ruben Gonzalez_
 
 ##### Tanzania
 ### [The President of Tanzania, Jakaya Kikwete, accuses the opposition of provoking violence in the country in an attempt to remove the government. ](/news/2011/02/28/the-president-of-tanzania-jakaya-kikwete-accuses-the-opposition-of-provoking-violence-in-the-country-in-an-attempt-to-remove-the-governmen.md)
@@ -97,7 +97,7 @@ Prosecutor also orders financial assets of former president and his family insid
 
 ##### Iran
 ### [Iran confirms that it is holding two Opposition leaders MirHosein Mousavi and Mehdi Karroubi under house arrest. ](/news/2011/02/28/iran-confirms-that-it-is-holding-two-opposition-leaders-mirhosein-mousavi-and-mehdi-karroubi-under-house-arrest.md)
-_Context: house arrest, Mehdi Karroubi, reformist, Mir-Hossein Mousavi, Iran_
+_Context: Mehdi Karroubi, Iran, Mir-Hossein Mousavi, reformist, house arrest_
 
 ##### Ali Abdullah Saleh
 ### [President Ali Abdullah Saleh offers to form a unity government with the opposition. ](/news/2011/02/28/president-ali-abdullah-saleh-offers-to-form-a-unity-government-with-the-opposition.md)

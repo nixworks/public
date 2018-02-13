@@ -13,7 +13,7 @@ _Context: 2011-2012 Bahraini uprising, Manama_
 
 ##### Dhusamareb
 ### [An attack by a suicide bomber in a cafe attached to a hotel in Dhusamareb, Somalia, causes an indeterminate number of fatalities, including according to witnesses two MPs, Yusuf Mire Seerar and Abdiweli Sheik Mohamud. ](/news/2012/05/1/an-attack-by-a-suicide-bomber-in-a-cafa-c-attached-to-a-hotel-in-dhusamareb-somalia-causes-an-indeterminate-number-of-fatalities-including.md)
-_Context: Somalia, Dhusamareb_
+_Context: Dhusamareb, Somalia_
 
 ##### 2012 Mali counter-coup attempt
 ### [2012 Mali counter-coup attempt: Heavy fighting takes place in the Malian capital Bamako between coup supporters and opponents. ](/news/2012/05/1/2012-mali-counter-coup-attempt-heavy-fighting-takes-place-in-the-malian-capital-bamako-between-coup-supporters-and-opponents.md)
@@ -41,7 +41,7 @@ _Context: 2011 Tohoku earthquake and tsunami, Japan_
 
 ##### Obama administration
 ### [U.S. President Barack Obama visits Afghanistan on an unannounced visit coinciding with the first anniversary of Osama Bin Laden's assassination by the U.S. Special Forces in Pakistan, signing an agreement with Afghan President Hamid Karzai outlining a continuing U.S. role in Afghanistan after 2014. ](/news/2012/05/1/u-s-president-barack-obama-visits-afghanistan-on-an-unannounced-visit-coinciding-with-the-first-anniversary-of-osama-bin-laden-s-assassinat.md)
-_Context: father's killing, Pakistan, Obama administration, Osama Bin Laden, Hamid Karzai, Afghanistan_
+_Context: Obama administration, Pakistan, father's killing, Osama Bin Laden, Afghanistan, Hamid Karzai_
 
 ##### President of the European Commission
 ### [Five European presidents and the President of the European Commission cancel visits to Ukraine over the treatment of the former prime minister Yulia Tymoshenko. ](/news/2012/05/1/five-european-presidents-and-the-president-of-the-european-commission-cancel-visits-to-ukraine-over-the-treatment-of-the-former-prime-minist.md)
@@ -49,7 +49,7 @@ Ukraine is facing growing isolation as five presidents and the EU Commission can
 
 ##### Egypt
 ### [Egypt security services foil an alleged Iranian plot to kill the Saudi ambassador in Cairo. ](/news/2012/05/1/egypt-security-services-foil-an-alleged-iranian-plot-to-kill-the-saudi-ambassador-in-cairo.md)
-_Context: Iran, Saudi Arabia, Egypt, Cairo_
+_Context: Egypt, Iran, Saudi Arabia, Cairo_
 
 ##### Li Keqiang
 ### [Chinese Vice-Premier Li Keqiang visits Moscow. China and Russia sign trade deals worth $15 billion. ](/news/2012/05/1/chinese-vice-premier-li-keqiang-visits-moscow-china-and-russia-sign-trade-deals-worth-15-billion.md)
@@ -69,11 +69,11 @@ _Context: Tomas Borge, Nicaragua, Sandinista National Liberation Front_
 
 ##### Turkey
 ### [A parliamentary committee begins work on Turkey's first fully civilian constitution. ](/news/2012/05/1/a-parliamentary-committee-begins-work-on-turkey-s-first-fully-civilian-constitution.md)
-_Context: Turkey, constitution_
+_Context: constitution, Turkey_
 
 ##### Tzipi Livni
 ### [Former opposition leader and foreign minister Tzipi Livni quits the Israeli parliament. ](/news/2012/05/1/former-opposition-leader-and-foreign-minister-tzipi-livni-quits-the-israeli-parliament.md)
-_Context: Israel, Tzipi Livni_
+_Context: Tzipi Livni, Israel_
 
 ## [Previous Day...](/news/2012/04/30/index.md)
 

@@ -9,11 +9,11 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Philippines
 ### [The Philippines and the local Communist Party agree to renew talks that may lead to a peace treaty which could end the 46-year communist insurgency in the country. ](/news/2014/12/26/the-philippines-and-the-local-communist-party-agree-to-renew-talks-that-may-lead-to-a-peace-treaty-which-could-end-the-46-year-communist-ins.md)
-_Context: peace treaty, Communist, Philippines, CPP-NPA-NDF rebellion_
+_Context: Philippines, Communist, peace treaty, communist rebels_
 
 ##### 2014 Southeast Asian floods
 ### [Flooding in Peninsular Malaysia forces the evacuation of over 100,000 people. ](/news/2014/12/26/flooding-in-peninsular-malaysia-forces-the-evacuation-of-over-100-000-people.md)
-_Context: Peninsular Malaysia, 2014 Southeast Asian floods_
+_Context: 2014 Southeast Asian floods, Peninsular Malaysia_
 
 ##### 2004 Indian Ocean earthquake and tsunami
 ### [Countries around the Indian Ocean commemorate the tenth anniversary of the tsunami. ](/news/2014/12/26/countries-around-the-indian-ocean-commemorate-the-tenth-anniversary-of-the-tsunami.md)
@@ -25,7 +25,7 @@ Three South Korean workers have died after apparently inhaling toxic gas at a co
 
 ##### Taiwan
 ### [The Special Investigation Division of Taiwan initiates a review stemming from allegations that President Ma Ying-jeou has received illegal political donations from Ting Hsin International Group, a disgraced conglomerate at the center of the recent food scandal. ](/news/2014/12/26/the-special-investigation-division-of-taiwan-initiates-a-review-stemming-from-allegations-that-president-ma-ying-jeou-has-received-illegal-p.md)
-_Context: Ting Hsin International Group, Taiwan, recent food scandal, President of Taiwan, Ma Ying-jeou_
+_Context: President of Taiwan, recent food scandal, Ting Hsin International Group, Ma Ying-jeou, Taiwan_
 
 ##### Sony Pictures Entertainment hack
 ### [North Korea's embassy in Moscow issues a statement, saying: "The film "The Interview", produced by the U.S. studio Sony Pictures, is a very dangerous film product that justifies and promotes terrorism." ](/news/2014/12/26/north-korea-s-embassy-in-moscow-issues-a-statement-saying-the-film-the-interview-produced-by-the-u-s-studio-sony-pictures-is-a-very.md)

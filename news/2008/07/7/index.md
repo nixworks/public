@@ -5,7 +5,7 @@ Formats: [HTML](2008/07/7/index.html)  [JSON](2008/07/7/index.json)  [XML](2008/
 
 ##### Austrian People's Party
 ### [ Austrian People's Party leader Wilhelm Molterer pulls his party out of the ruling grand coalition, forcing a snap general election. ](/news/2008/07/7/austrian-people-s-party-leader-wilhelm-molterer-pulls-his-party-out-of-the-ruling-grand-coalition-forcing-a-snap-general-election.md)
-_Context: Austrian People's Party, snap general election, grand coalition, Wilhelm Molterer_
+_Context: Austrian People's Party, Wilhelm Molterer, snap general election, grand coalition_
 
 ##### Hurricane Bertha
 ### [ Hurricane Bertha becomes the first hurricane of the 2008 Atlantic hurricane season. ](/news/2008/07/7/hurricane-bertha-becomes-the-first-hurricane-of-the-2008-atlantic-hurricane-season.md)
@@ -21,11 +21,11 @@ _Context: MV ''Princess of the Stars, Sulpicio Lines_
 
 ##### Church of England
 ### [ The Church of England's governing body votes to allow female bishops. ](/news/2008/07/7/the-church-of-england-s-governing-body-votes-to-allow-female-bishops.md)
-_Context: female bishops, General Synod of the Church of England, Church of England_
+_Context: Church of England, General Synod of the Church of England, female bishops_
 
 ##### Uranium
 ### [ Unenriched uranium leaks into the Gaffire and Lauzon rivers from the Tricastin Nuclear Power Center in Bollne, France resulting in the plant being closed. ](/news/2008/07/7/unenriched-uranium-leaks-into-the-gaffiere-and-lauzon-rivers-from-the-tricastin-nuclear-power-center-in-bollene-france-resulting-in-the-pl.md)
-_Context: Bollne, Lauzon rivers, uranium, Gaffire, France, Tricastin Nuclear Power Center_
+_Context: Gaffire, Tricastin Nuclear Power Center, uranium, Lauzon rivers, Bollne, France_
 
 ## [Previous Day...](/news/2008/07/6/index.md)
 

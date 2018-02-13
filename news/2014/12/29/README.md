@@ -25,11 +25,11 @@ _Context: Pakistan_
 
 ##### Greek elections
 ### [Snap elections are to be called after the Hellenic Parliament fails to elect a new Greek president. ](/news/2014/12/29/snap-elections-are-to-be-called-after-the-hellenic-parliament-fails-to-elect-a-new-greek-president.md)
-_Context: Hellenic Parliament, elect a new Greek president, Greek elections_
+_Context: Greek elections, Hellenic Parliament, elect a new Greek president_
 
 ##### Blocks
 ### [The Chinese government blocks some of Google's Gmail services. ](/news/2014/12/29/the-chinese-government-blocks-some-of-google-s-gmail-services.md)
-_Context: Google, Gmail, blocks_
+_Context: Google, blocks, Gmail_
 
 ## [Previous Day...](/news/2014/12/28/index.md)
 

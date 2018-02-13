@@ -17,7 +17,7 @@ The swoop by the army and security forces came after 17 suspects were arrested e
 
 ##### Military intervention against ISIL
 ### [The United States military says ISIL's so-called minister-of-war, Abu Omar al-Shishani, ne Tarkhan Tayumurazovich Batirashvili, appears to have been killed in a U.S. air strike near the town of Al-Shaddadi in Syria. ](/news/2016/03/8/the-united-states-military-says-isil-s-so-called-minister-of-war-abu-omar-al-shishani-na-c-tarkhan-tayumurazovich-batirashvili-appears-to.md)
-_Context: Military intervention against ISIL, airstrike, Syria, Omar al-Shishani, Al-Shaddadah, ISIL, U.S. military_
+_Context: Military intervention against ISIL, airstrike, Omar al-Shishani, Al-Shaddadah, U.S. military, Syria, ISIL_
 
 ##### International Women's Day
 ### [International Women's Day is celebrated. The International Women's Day theme for 2016 is "Planet 50-50 by 2030: Step It Up for Gender Equality". ](/news/2016/03/8/international-women-s-day-is-celebrated-the-international-womenas-day-theme-for-2016-is-planet-50-50-by-2030-step-it-up-for-gender-equa.md)
@@ -25,7 +25,7 @@ Celebrating women from the Philippines to Afghanistan to Poland and beyond.
 
 ##### Zika virus outbreak (2015-present)
 ### [The World Health Organization cautions pregnant women against traveling to areas where there is ongoing transmission of Zika virus, echoing earlier alerts from the U.S. Centers for Disease Control and Prevention, and other health agencies in areas where virus infection has been prevalent. Director General Margaret Chan says evidence strongly suggests sexual transmission is more common than previously assumed. ](/news/2016/03/8/the-world-health-organization-cautions-pregnant-women-against-traveling-to-areas-where-there-is-ongoing-transmission-of-zika-virus-echoing.md)
-_Context: World Health Organization, Centers for Disease Control and Prevention, Zika virus outbreak (2015-present), sexual transmission, Director General, Margaret Chan, Zika virus_
+_Context: Margaret Chan, sexual transmission, Director General, World Health Organization, Zika virus, Zika virus outbreak (2015-present), Centers for Disease Control and Prevention_
 
 ##### U.S. Commerce Department
 ### [Export restrictions placed by the commerce department of the United States against China's state-owned ZTE for alleged violations of U.S.-imposed export controls on Iran takes effect. ](/news/2016/03/8/export-restrictions-placed-by-the-commerce-department-of-the-united-states-against-china-s-state-owned-zte-for-alleged-violations-of-u-s-im.md)
@@ -53,7 +53,7 @@ Turkish authorities have seized control of the Cihan news agency, the agency sai
 
 ##### Italy
 ### [Acting on requests from neighboring Italy, Swiss authorities arrest 15 people sought as suspected members of the 'Ndrangheta organized crime syndicate, a Mafia-type organization centered in Calabria, Italy. ](/news/2016/03/8/acting-on-requests-from-neighboring-italy-swiss-authorities-arrest-15-people-sought-as-suspected-members-of-the-ndrangheta-organized-crime.md)
-_Context: Mafia, Calabria, 'Ndrangheta, organization, Italy, Swiss authorities_
+_Context: Mafia, Swiss authorities, Italy, organization, Calabria, 'Ndrangheta_
 
 ##### Presidential primaries
 ### [Voters in the U.S. states of Mississippi, Michigan, Hawaii and Idaho vote in primary elections and caucuses. ](/news/2016/03/8/voters-in-the-u-s-states-of-mississippi-michigan-hawaii-and-idaho-vote-in-primary-elections-and-caucuses.md)
@@ -65,7 +65,7 @@ The Obama administration is expanding the number of households that will receive
 
 ##### Philippine presidential election, 2016
 ### [The Supreme Court of the Philippines, in a 9-6 ruling, reverses the Commission on Elections order that had disqualified Senator Grace Poe from running in the May 9, 2016, presidential election. The petitioners plan to file a motion for reconsideration. ](/news/2016/03/8/the-supreme-court-of-the-philippines-in-a-9-6-ruling-reverses-the-commission-on-elections-order-that-had-disqualified-senator-grace-poe-fr.md)
-_Context: Grace Poe, Commission on Elections, Supreme Court of the Philippines, Philippine presidential election, 2016_
+_Context: Commission on Elections, Grace Poe, Supreme Court of the Philippines, Philippine presidential election, 2016_
 
 ##### U.S. carrier
 ### [U.S. carrier Alaska Airlines reschedules Flight 870 from Anchorage, Alaska, to Honolulu, Hawaii, to depart at 2:00 p.m. local time (23:00 UTC) so passengers can view 2016's only total solar eclipse for 1 minute and 59 seconds, 695 miles north of Honolulu at 37,000 feet. ](/news/2016/03/8/u-s-carrier-alaska-airlines-reschedules-flight-870-from-anchorage-alaska-to-honolulu-hawaii-to-depart-at-2-00-p-m-local-time-23-00-ut.md)

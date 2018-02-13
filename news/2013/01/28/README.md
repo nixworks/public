@@ -13,7 +13,7 @@ French-led troops in Mali have entered the historic city of Timbuktu, after capt
 
 ##### The Boomtown Rats
 ### [The Boomtown Rats reform for Isle of Wight festival, their first show since 1986. ](/news/2013/01/28/the-boomtown-rats-reform-for-isle-of-wight-festival-their-first-show-since-1986.md)
-_Context: Isle of Wight, The Boomtown Rats_
+_Context: The Boomtown Rats, Isle of Wight_
 
 ##### U.S.
 ### [Anonymous sources say U.S. billionaire Warren Buffett bid to acquire NYSE Euronext in November 2012, but lost the auction to IntercontinentalExchange. ](/news/2013/01/28/anonymous-sources-say-u-s-billionaire-warren-buffett-bid-to-acquire-nyse-euronext-in-november-2012-but-lost-the-auction-to-intercontinenta.md)
@@ -23,7 +23,7 @@ Warren Buffett made a bid to acquire New York Stock Exchange operator NYSE Euron
 ### [A freight train collides with a bus at a level crossing in Heihe City, Heilongjiang province, China, killing at least 10 people and injuring 11 others. ](/news/2013/01/28/a-freight-train-collides-with-a-bus-at-a-level-crossing-in-heihe-city-heilongjiang-province-china-killing-at-least-10-people-and-injuring.md)
 At least ten people were killed and eleven others injured today after a passenger bus and a cargo train collided in northeast China Province.
 
-##### American
+##### U.S.
 ### [American fighter aircraft F-16 flying out of Aviano Air Base loses radio contact and crashes in the Adriatic Sea. ](/news/2013/01/28/american-fighter-aircraft-f-16-flying-out-of-aviano-air-base-loses-radio-contact-and-crashes-in-the-adriatic-sea.md)
 A U.S. F-16 fighter jet was feared to have crashed on Monday during a training exercise over the Adriatic Sea, and the U.S. Air Force said the status of its Italy-based pilot was unknown.
 

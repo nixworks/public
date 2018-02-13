@@ -5,19 +5,19 @@ Formats: [HTML](2011/09/22/index.html)  [JSON](2011/09/22/index.json)  [XML](201
 
 ##### Pakistan
 ### [At least five people are killed in a bus bombing in Pakistan's Bajaur Agency. ](/news/2011/09/22/at-least-five-people-are-killed-in-a-bus-bombing-in-pakistan-s-bajaur-agency.md)
-_Context: Bajaur, Pakistan_
+_Context: Pakistan, Bajaur_
 
 ##### Stock market
 ### [World stock markets plunge amid growing global fears of recession. ](/news/2011/09/22/world-stock-markets-plunge-amid-growing-global-fears-of-recession.md)
-_Context: recession, stock market_
+_Context: stock market, recession_
 
 ##### Facebook
 ### [Facebook makes major changes to its social networking interface, updating its profile page, adding an app store, and amending its news feed with a "timeline" feature. ](/news/2011/09/22/facebook-makes-major-changes-to-its-social-networking-interface-updating-its-profile-page-adding-an-app-store-and-amending-its-news-feed.md)
-_Context: app store, Facebook, social networking_
+_Context: Facebook, app store, social networking_
 
 ##### Hewlett-Packard
 ### [Hewlett-Packard fires CEO Lo Apotheker, replacing him with former eBay CEO Meg Whitman. ](/news/2011/09/22/hewlett-packard-fires-ceo-leo-apotheker-replacing-him-with-former-ebay-ceo-meg-whitman.md)
-_Context: Lo Apotheker, Hewlett-Packard, CEO, Meg Whitman, eBay_
+_Context: Lo Apotheker, CEO, Hewlett-Packard, Meg Whitman, eBay_
 
 ##### Typhoon Roke
 ### [Typhoon Roke passes through the Japanese island of Honshu, causing 13 deaths, and arrives in Hokkaido. ](/news/2011/09/22/typhoon-roke-passes-through-the-japanese-island-of-honshu-causing-13-deaths-and-arrives-in-hokkaido.md)
@@ -25,19 +25,19 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Dombivli
 ### [At least four people are killed and 18 injured in a factory fire in the suburb of Dombivli in the Indian city of Mumbai. ](/news/2011/09/22/at-least-four-people-are-killed-and-18-injured-in-a-factory-fire-in-the-suburb-of-dombivli-in-the-indian-city-of-mumbai.md)
-_Context: Dombivli, Mumbai_
+_Context: Mumbai, Dombivli_
 
 ##### Drainage basin
 ### [Heavy floods and related disasters across China, especially in the drainage basin of the Han and Wei Rivers, leave 90 dead and 22 missing. ](/news/2011/09/22/heavy-floods-and-related-disasters-across-china-especially-in-the-drainage-basin-of-the-han-and-wei-rivers-leave-90-dead-and-22-missing.md)
-_Context: Han, drainage basin, Wei River_
+_Context: drainage basin, Wei River, Han_
 
 ##### Hurricane Jova
 ### [2011 Pacific hurricane season: Hurricane Hilary reaches category 3 strength off the coast of Mexico, but is not expected to make landfall. ](/news/2011/09/22/2011-pacific-hurricane-season-hurricane-hilary-reaches-category-3-strength-off-the-coast-of-mexico-but-is-not-expected-to-make-landfall.md)
-_Context: category 3, Hurricane Jova, Hilary_
+_Context: Hurricane Jova, Hilary, category 3_
 
 ##### Anniston Chemical Activity
 ### [The Anniston Chemical Activity destroys its last mustard gas shells, becoming the fifth of nine US chemical weapons depots to close under terms of the Chemical Weapons Treaty. ](/news/2011/09/22/the-anniston-chemical-activity-destroys-its-last-mustard-gas-shells-becoming-the-fifth-of-nine-us-chemical-weapons-depots-to-close-under-te.md)
-_Context: mustard gas, Anniston Chemical Activity, chemical weapon, Chemical Weapons Treaty_
+_Context: Anniston Chemical Activity, chemical weapon, mustard gas, Chemical Weapons Treaty_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI commences a state visit to Germany. ](/news/2011/09/22/pope-benedict-xvi-commences-a-state-visit-to-germany.md)

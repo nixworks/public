@@ -13,7 +13,7 @@ _Context: Egypt, Sinai Peninsula_
 
 ##### Native American
 ### [A shooter opens fire inside a Native American tribal office in Alturas, California, United States, killing four and wounding two. ](/news/2014/02/20/a-shooter-opens-fire-inside-a-native-american-tribal-office-in-alturas-california-united-states-killing-four-and-wounding-two.md)
-_Context: Native American, Alturas, California_
+_Context: Alturas, Native American, California_
 
 ##### Bryan Stow
 ### [Louie Sanchez and Marvin Norwood are sentenced to eight years in prison for the 2011 beating of Bryan Stow. ](/news/2014/02/20/louie-sanchez-and-marvin-norwood-are-sentenced-to-eight-years-in-prison-for-the-2011-beating-of-bryan-stow.md)

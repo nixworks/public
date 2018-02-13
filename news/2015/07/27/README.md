@@ -21,11 +21,11 @@ The Istanbul Police Department has issued of bomb attack warnings on crowded pla
 
 ##### Philippines
 ### [Philippines President Benigno Aquino III holds his final State of the Nation Address before stepping down in 2016. He advocates the passage of the Bangsamoro Basic Law and an anti-dynasty bill. ](/news/2015/07/27/philippines-president-benigno-aquino-iii-holds-his-final-state-of-the-nation-address-before-stepping-down-in-2016-he-advocates-the-passage.md)
-_Context: anti-dynasty bill, Philippine presidential election, 2016, his predecessor, Bangsamoro Basic Law, State of the Nation Address, Philippines_
+_Context: Philippines, State of the Nation Address, anti-dynasty bill, Bangsamoro Basic Law, his predecessor, Philippine presidential election, 2016_
 
 ##### France
 ### [French farmers protesting low prices within the country turn back hundreds of trucks suspected of carrying foreign agricultural products at the country's border with Germany. ](/news/2015/07/27/french-farmers-protesting-low-prices-within-the-country-turn-back-hundreds-of-trucks-suspected-of-carrying-foreign-agricultural-products-at.md)
-_Context: France, farmers, German_
+_Context: German, France, farmers_
 
 ## [Previous Day...](/news/2015/07/26/index.md)
 

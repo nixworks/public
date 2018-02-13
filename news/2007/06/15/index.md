@@ -13,11 +13,11 @@ The district attorney who prosecuted three Duke University lacrosse players accu
 
 ##### Switzerland
 ### [ Switzerland opens the world's longest rail tunnel on land, the 34-kilometre Ltschberg tunnel under the Alps. ](/news/2007/06/15/switzerland-opens-the-world-s-longest-rail-tunnel-on-land-the-34-kilometre-lotschberg-tunnel-under-the-alps.md)
-_Context: tunnel, Switzerland, Ltschberg tunnel, Alps_
+_Context: Alps, tunnel, Ltschberg tunnel, Switzerland_
 
 ##### UK
 ### [ In the UK, seven members of Dhiren Barot's al Qaeda cell are sentenced to a total of 136 years in prison. ](/news/2007/06/15/in-the-uk-seven-members-of-dhiren-barot-s-al-qaeda-cell-are-sentenced-to-a-total-of-136-years-in-prison.md)
-_Context: al Qaeda, Dhiren Barot, UK_
+_Context: UK, Dhiren Barot, al Qaeda_
 
 ##### Indonesia
 ### [ Indonesia claims that it has captured Jemaah Islamiyah leader Zarkarsih. ](/news/2007/06/15/indonesia-claims-that-it-has-captured-jemaah-islamiyah-leader-zarkarsih.md)
@@ -25,7 +25,7 @@ Indonesia has captured the head of Southeast Asian militant group Jemaah Islamiy
 
 ##### Soldier
 ### [ A roadside bomb kills at least seven soldiers in Yala Province, Thailand. ](/news/2007/06/15/a-roadside-bomb-kills-at-least-seven-soldiers-in-yala-province-thailand.md)
-_Context: soldier, Thailand, Yala Province_
+_Context: Yala Province, Thailand, soldier_
 
 ##### United States Secretary of Defense
 ### [ United States Secretary of Defense Robert Gates meets with Iraqi Prime Minister Nuri Kamal Al-Maliki and U.S. military leaders in Iraq to discuss the effectiveness of the current military campaign. ](/news/2007/06/15/united-states-secretary-of-defense-robert-gates-meets-with-iraqi-prime-minister-nuri-kamal-al-maliki-and-u-s-military-leaders-in-iraq-to-d.md)
@@ -33,7 +33,7 @@ U.S. Defense Secretary Robert Gates met Iraqi leaders on Saturday to tell them W
 
 ##### Strike
 ### [ Two oil and transport unions begin a strike in Nigeria over an increase in fuel duty and a doubling of sales tax. ](/news/2007/06/15/two-oil-and-transport-unions-begin-a-strike-in-nigeria-over-an-increase-in-fuel-duty-and-a-doubling-of-sales-tax.md)
-_Context: strike, sales tax, Nigeria, fuel duty_
+_Context: strike, fuel duty, Nigeria, sales tax_
 
 ## [Previous Day...](/news/2007/06/14/index.md)
 

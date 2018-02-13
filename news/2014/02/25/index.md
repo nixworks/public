@@ -15,9 +15,9 @@ _Context: hoard, Gold Country, Saddle Ridge Hoard_
 ### [Asiana Airlines is fined US$500,000 for failing to promptly assist families of passengers aboard the flight. ](/news/2014/02/25/asiana-airlines-is-fined-us-500-000-for-failing-to-promptly-assist-families-of-passengers-aboard-the-flight.md)
 _Context: Asiana Airlines_
 
-##### American
+##### U.S.
 ### [The United States administration formally declares that it no longer recognizes Viktor Yanukovych as Ukraine's president as "his actions have undermined his legitimacy". ](/news/2014/02/25/the-united-states-administration-formally-declares-that-it-no-longer-recognizes-viktor-yanukovych-as-ukraineas-president-as-his-actions-h.md)
-_Context: American, Viktor Yanukovych_
+_Context: Viktor Yanukovych, U.S._
 
 ##### Hyde Park and Regent's Park bombings
 ### [A court in the UK rules that a man arrested in connection with the 1982 Hyde Park and Regent's Park bombings will not be prosecuted for his involvement.](/news/2014/02/25/a-court-in-the-uk-rules-that-a-man-arrested-in-connection-with-the-1982-hyde-park-and-regent-s-park-bombings-will-not-be-prosecuted-for-his.md)

@@ -21,11 +21,11 @@ _Context: indefinite detention without trial, Malaysia, Raja Petra Kamarudin_
 
 ##### Afghanistan President
 ### [ President of Afghanistan Hamid Karzai opens a new terminal at Kabul International Airport. ](/news/2008/11/7/president-of-afghanistan-hamid-karzai-opens-a-new-terminal-at-kabul-international-airport.md)
-_Context: Hamid Karzai, Afghanistan, Afghanistan President, Kabul International Airport_
+_Context: Afghanistan, Afghanistan President, Hamid Karzai, Kabul International Airport_
 
-##### American
+##### U.S.
 ### [ Unemployment in the United States reaches its highest rate in 14 years. ](/news/2008/11/7/unemployment-in-the-united-states-reaches-its-highest-rate-in-14-years.md)
-_Context: American_
+_Context: U.S._
 
 ##### Kivu conflict
 ### [ The Kivu conflict in the Democratic Republic of the Congo continues while the United Nations meets to discuss peace talks. ](/news/2008/11/7/the-kivu-conflict-in-the-democratic-republic-of-the-congo-continues-while-the-united-nations-meets-to-discuss-peace-talks.md)

@@ -5,19 +5,19 @@ Formats: [HTML](2011/05/12/index.html)  [JSON](2011/05/12/index.json)  [XML](201
 
 ##### Syria
 ### [The Syrian military continues to crack down on protesters, with students in the city of Aleppo the latest target. ](/news/2011/05/12/the-syrian-military-continues-to-crack-down-on-protesters-with-students-in-the-city-of-aleppo-the-latest-target.md)
-_Context: Aleppo, Syria, 2011 Syrian uprising_
+_Context: Syria, Aleppo, 2011 Syrian uprising_
 
 ##### 2011 Yemeni protests
 ### [Two anti-government protesters are killed by Yemeni security forces. ](/news/2011/05/12/two-anti-government-protesters-are-killed-by-yemeni-security-forces.md)
-_Context: 2011 Yemeni protests, Yemen_
+_Context: Yemen, 2011 Yemeni protests_
 
 ##### Libya
 ### [Libyan leader Muammar Gaddafi appears on state television for the first time in two weeks. ](/news/2011/05/12/libyan-leader-muammar-gaddafi-appears-on-state-television-for-the-first-time-in-two-weeks.md)
-_Context: Libya, Muammar Gaddafi_
+_Context: Muammar Gaddafi, Libya_
 
 ##### Nigeria
 ### [Nigerian soldiers raid suspected militant camps in the Niger Delta in a new offensive. ](/news/2011/05/12/nigerian-soldiers-raid-suspected-militant-camps-in-the-niger-delta-in-a-new-offensive.md)
-_Context: Niger Delta, Nigeria_
+_Context: Nigeria, Niger Delta_
 
 ##### Uganda
 ### [Police in Uganda open fire on a crowd as it attacks a car carrying Nigerian President Goodluck Jonathan in the capital Kampala, killing one person. ](/news/2011/05/12/police-in-uganda-open-fire-on-a-crowd-as-it-attacks-a-car-carrying-nigerian-president-goodluck-jonathan-in-the-capital-kampala-killing-one.md)
@@ -29,7 +29,7 @@ ITV axes the Scottish police drama Taggart after nearly 30 years, in the wake of
 
 ##### BBC
 ### [The BBC is to broadcast its political debate programme "Question Time" from inside a prison for the first time next Thursday. Ten members of staff and ten prisoners from London's Wormwood Scrubs prison are to join 100 other audience members, while panelists are to include Secretary of State for Justice Kenneth Clarke and former Home Secretary Jack Straw. ](/news/2011/05/12/the-bbc-is-to-broadcast-its-political-debate-programme-question-time-from-inside-a-prison-for-the-first-time-next-thursday-ten-members-of.md)
-_Context: Jack Straw, Wormwood Scrubbs Prison, BBC, Secretary of State for Justice, Question Time, Kenneth Clarke, Home Secretary, London_
+_Context: BBC, Kenneth Clarke, London, Question Time, Wormwood Scrubbs Prison, Jack Straw, Home Secretary, Secretary of State for Justice_
 
 ##### Elizabeth II
 ### [Queen Elizabeth II becomes the second-longest-reigning British monarch. ](/news/2011/05/12/queen-elizabeth-ii-becomes-the-second-longest-reigning-british-monarch.md)
@@ -37,11 +37,11 @@ _Context: second-longest-reigning British monarch, Elizabeth II_
 
 ##### DR Congo
 ### [A US$600 million project to revamp the Democratic Republic of the Congo's colonial-era railway system is launched in the capital Kinshasa, primarily funded by the World Bank and China. ](/news/2011/05/12/a-us-600-million-project-to-revamp-the-democratic-republic-of-the-congo-s-colonial-era-railway-system-is-launched-in-the-capital-kinshasa-p.md)
-_Context: World Bank, China, DR Congo, Kinshasa_
+_Context: World Bank, Kinshasa, DR Congo, China_
 
 ##### Brazil
 ### [The Brazilian Senate approves a plan to triple payments to Paraguay for the use of excess electricity generated at the jointly-run Itaipu Dam. ](/news/2011/05/12/the-brazilian-senate-approves-a-plan-to-triple-payments-to-paraguay-for-the-use-of-excess-electricity-generated-at-the-jointly-run-itaipu-da.md)
-_Context: Brazil, Brazilian Senate, Paraguay, Itaipu Dam_
+_Context: Paraguay, Brazilian Senate, Brazil, Itaipu Dam_
 
 ##### Australia
 ### [The Australian airline Qantas is fined NZ$6.5 million for breaches of the Commerce Act in New Zealand, the biggest penalty for price fixing in the history of that country. ](/news/2011/05/12/the-australian-airline-qantas-is-fined-nz-6-5-million-for-breaches-of-the-commerce-act-in-new-zealand-the-biggest-penalty-for-price-fixing.md)
@@ -57,7 +57,7 @@ As the Mississippi River continues to rise and more bays are opened in the Bonne
 
 ##### ICC
 ### [The International Criminal Court asks the United Nations Security Council to take action over Djibouti's failure to arrest Sudanese President Omar al-Bashir, who was indicted by the court on charges of war crimes. ](/news/2011/05/12/the-international-criminal-court-asks-the-united-nations-security-council-to-take-action-over-djibouti-s-failure-to-arrest-sudanese-presiden.md)
-_Context: ICC, Omar al-Bashir, United Nations Security Council, Sudan, Djibouti, war crime_
+_Context: war crime, United Nations Security Council, Omar al-Bashir, Djibouti, ICC, Sudan_
 
 ##### Ethiopia
 ### [Thousands of asylum seekers from Ethiopia and Somalia are stranded in camps in northern Mozambique after measures adopted by the government to restrict their movements. ](/news/2011/05/12/thousands-of-asylum-seekers-from-ethiopia-and-somalia-are-stranded-in-camps-in-northern-mozambique-after-measures-adopted-by-the-government.md)
@@ -69,7 +69,7 @@ _Context: Cambodia, corruption_
 
 ##### Indonesia
 ### [Indonesia deports an alleged people smuggler to Australia to face charges in connection to the death of 48 asylum seekers at Christmas Island last year. ](/news/2011/05/12/indonesia-deports-an-alleged-people-smuggler-to-australia-to-face-charges-in-connection-to-the-death-of-48-asylum-seekers-at-christmas-islan.md)
-_Context: asylum seeker, people smuggling, Indonesia, Christmas Island, Australia_
+_Context: people smuggling, Christmas Island, Indonesia, asylum seeker, Australia_
 
 ##### John Demjanjuk
 ### [John Demjanjuk is convicted by a German court of killing over 28,000 Jews in Nazi Germany.](/news/2011/05/12/john-demjanjuk-is-convicted-by-a-german-court-of-killing-over-28-000-jews-in-nazi-germany.md)
@@ -89,23 +89,23 @@ _Context: Bradford_
 
 ##### Yoweri Museveni
 ### [Yoweri Museveni is sworn in for a fourth term as President of Uganda, amid protests. ](/news/2011/05/12/yoweri-museveni-is-sworn-in-for-a-fourth-term-as-president-of-uganda-amid-protests.md)
-_Context: President, Uganda, Yoweri Museveni_
+_Context: Yoweri Museveni, Uganda, President_
 
 ##### Belarus
 ### [Belarus jails six election protesters for up to three and a half years. ](/news/2011/05/12/belarus-jails-six-election-protesters-for-up-to-three-and-a-half-years.md)
-_Context: Belarus, election protesters_
+_Context: election protesters, Belarus_
 
 ##### Muslim Brotherhood
 ### [The Muslim Brotherhood in Egypt says it will expel any member that attempts to run for President. ](/news/2011/05/12/the-muslim-brotherhood-in-egypt-says-it-will-expel-any-member-that-attempts-to-run-for-president.md)
-_Context: Muslim Brotherhood, Egypt, President_
+_Context: Egypt, President, Muslim Brotherhood_
 
 ##### China
 ### [A petition is delivered to the Chinese parliament by underground Christian churches asking for their religious freedom to be respected. ](/news/2011/05/12/a-petition-is-delivered-to-the-chinese-parliament-by-underground-christian-churches-asking-for-their-religious-freedom-to-be-respected.md)
-_Context: China, parliament, religious freedom, Christian_
+_Context: China, religious freedom, parliament, Christian_
 
 ##### National Alliance Party
 ### [The ruling National Alliance Party in Papua New Guinea to elect an interim leader with concerns that Prime Minister Sir Michael Somare may not return to office after having heart surgery in Singapore. ](/news/2011/05/12/the-ruling-national-alliance-party-in-papua-new-guinea-to-elect-an-interim-leader-with-concerns-that-prime-minister-sir-michael-somare-may-n.md)
-_Context: National Alliance Party, Papua New Guinea, Singapore, heart surgery, Michael Somare, Prime Minister_
+_Context: National Alliance Party, Papua New Guinea, Singapore, Prime Minister, heart surgery, Michael Somare_
 
 ##### Parliamentary Commissioner for Standards
 ### [The Parliamentary Standards Commissioner has recommended that Liberal Democrat MP and former Chief Secretary to the Treasury David Laws be suspended from the House of Commons for 7 days over wrongly claimed expenses. ](/news/2011/05/12/the-parliamentary-standards-commissioner-has-recommended-that-liberal-democrat-mp-and-former-chief-secretary-to-the-treasury-david-laws-be-s.md)

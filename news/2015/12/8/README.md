@@ -21,7 +21,7 @@ At least 22 officers killed and hostages held as regional leaders meet in Pakist
 
 ##### Yemeni Civil War (2015)
 ### [Saudi-led coalition airstrikes, targeting Houthi rebels battling pro-government fighters, killed and wounded dozens in the port city of Mocha, according to Yemeni security officials. Around 35 fighters on both sides were killed in the battle over a key military base near the city of Taiz. ](/news/2015/12/8/saudi-led-coalition-airstrikes-targeting-houthi-rebels-battling-pro-government-fighters-killed-and-wounded-dozens-in-the-port-city-of-moch.md)
-_Context: Taiz, Mocha, Saudi-led intervention in Yemen, Yemen, Houthi, Yemeni, Yemeni Civil War (2015)_
+_Context: Yemeni, Mocha, Taiz, Saudi-led intervention in Yemen, Houthi, Yemen, Yemeni Civil War (2015)_
 
 ##### Russian military intervention
 ### [For the first time, Russia strikes Islamic State targets in northern Syria with 3M-54 Klub (Kalibr) cruise missiles launched from a Kilo-class submarine in the Mediterranean, according to the Russian Minister of Defence, Sergey Shoygu. ](/news/2015/12/8/for-the-first-time-russia-strikes-islamic-state-targets-in-northern-syria-with-3m-54-klub-kalibr-cruise-missiles-launched-from-a-kilo-cla.md)
@@ -35,7 +35,7 @@ A roadside bombing killed four Egyptian security personnel in the Sinai Peninsul
 ### [UK-based Anglo American plc (AAUKF) announces plans to slash 85k jobs and shed 60% of assets over the next several years; it will also halt dividend payments for the rest of 2015-16 and cut capital expenditures. The company cited depressed commodity prices for its actions. ](/news/2015/12/8/uk-based-anglo-american-plc-aaukf-announces-plans-to-slash-85k-jobs-and-shed-60-of-assets-over-the-next-several-years-it-will-also-halt.md)
 Mining giant Anglo American will shed about 85,000 jobs as it sells off 60% of its assets in response to a slump in commodity prices. 
 
-##### American
+##### U.S.
 ### [U.S. airplane manufacturer Boeing unveils the first Boeing 737 MAX airplane at its factory in Renton, Washington. ](/news/2015/12/8/u-s-airplane-manufacturer-boeing-unveils-the-first-boeing-737-max-airplane-at-its-factory-in-renton-washington.md)
 Boeing rolls the first 737 MAX out of the hangar, but its lag behind Airbus may leave Boeing with “a product strategy problem.”
 
@@ -43,11 +43,11 @@ Boeing rolls the first 737 MAX out of the hangar, but its lag behind Airbus may 
 ### [The United Kingdom's Met Office issues two new severe weather warnings for wind and rain covering across much of Scotland and Northern England beginning 6 a.m. Wednesday. ](/news/2015/12/8/the-united-kingdom-s-met-office-issues-two-new-severe-weather-warnings-for-wind-and-rain-covering-across-much-of-scotland-and-northern-engla.md)
 Government agrees council tax and business rates relief for 5,000 as forecasters issue two new severe weather alerts for devastated region
 
-##### American
+##### U.S.
 ### [The United States Food and Drug Administration approves marketing of a cooling cap system to reduce hair loss in female breast cancer patients during chemotherapy. The DigniCap scalp cooling system, a product first available in Sweden in the 1990s, produces near-freezing temperatures that make it harder for cancer-fighting drugs to reach and harm hair follicles. ](/news/2015/12/8/the-united-states-food-and-drug-administration-approves-marketing-of-a-cooling-cap-system-to-reduce-hair-loss-in-female-breast-cancer-patien.md)
 Media Contact: Caren Browning King + Company 212 561-7464 &#x43;&#097;r&#x65;&#x6e;.B&#x72;&#111;w&#x6e;&#x69;ng&#x40;&#107;i&#x6e;&#x67;&#099;o&#x6d;&#x70;r&#x2e;&#x63;&#111;m Dignitana Receives U.S. FDA De Novo Clearance for The DigniCap® Scalp Cooling System that Reduces Hair Loss Related to Che...
 
-##### American
+##### U.S.
 ### [The United States agrees with Singapore on a first deployment of the U.S. P8 Poseidon surveillance aircraft in Singapore this month, in a fresh response to China over its pursuit of territorial claims in the South China Sea. ](/news/2015/12/8/the-united-states-agrees-with-singapore-on-a-first-deployment-of-the-u-s-p8-poseidon-surveillance-aircraft-in-singapore-this-month-in-a-fr.md)
 The United States has agreed with Singapore on a first deployment of the U.S. P8 Poseidon spy plane in Singapore this month, in a fresh response to China over its pursuit of territorial claims in the South China Sea.
 

@@ -5,7 +5,7 @@ Formats: [HTML](2006/02/4/index.html)  [JSON](2006/02/4/index.json)  [XML](2006/
 
 ##### Saddam Hussein
 ### [ Saddam Hussein aims to sue Tony Blair and George W. Bush for crimes against Iraq. ](/news/2006/02/4/saddam-hussein-aims-to-sue-tony-blair-and-george-w-bush-for-crimes-against-iraq.md)
-_Context: Saddam Hussein, Iraq, George W. Bush, Tony Blair_
+_Context: Tony Blair, Iraq, Saddam Hussein, George W. Bush_
 
 ##### Fort Benning
 ### [ Georgia, US. 17 human rights activists sentenced to prison including one 81-year-old retired World War&nbsp;II Veteran for trespassing at Fort Benning military camp. ](/news/2006/02/4/georgia-us-17-human-rights-activists-sentenced-to-prison-including-one-81-year-old-retired-world-war-nbsp-ii-veteran-for-trespassing-at-f.md)
@@ -17,11 +17,11 @@ _Context: IAEA, United Nations Security Council, nuclear program_
 
 ##### A stampede
 ### [ A stampede at a sports stadium in Pasig City, Metro Manila, Philippines, kills 73 and injures more than 320, mostly women. Tens of thousands of people had gathered to watch the anniversary presentation of the popular ABS-CBN early afternoon TV gameshow, "Wowowee". ](/news/2006/02/4/a-stampede-at-a-sports-stadium-in-pasig-city-metro-manila-philippines-kills-73-and-injures-more-than-320-mostly-women-tens-of-thousand.md)
-_Context: Pasig City, Metro Manila, Wowowee, ABS-CBN, A stampede, Philippines_
+_Context: Wowowee, Philippines, Metro Manila, Pasig City, A stampede, ABS-CBN_
 
 ##### Denmark
 ### [ The Danish, and as a consequence of sharing the same building, the Chilean and Swedish embassies in Damascus, are firebombed by protestors denouncing the publication of what they consider sacrilegious cartoons depicting the Prophet Muhammad. The Norwegian embassy is also burned. ](/news/2006/02/4/the-danish-and-as-a-consequence-of-sharing-the-same-building-the-chilean-and-swedish-embassies-in-damascus-are-firebombed-by-protestors.md)
-_Context: Denmark, Norway, Damascus, Sweden, Chile, Jyllands-Posten Muhammad cartoons controversy_
+_Context: Norway, Denmark, Sweden, Jyllands-Posten Muhammad cartoons controversy, Damascus, Chile_
 
 ## [Previous Day...](/news/2006/02/3/index.md)
 

@@ -13,7 +13,7 @@ _Context: Chechnya_
 
 ##### United States Senate
 ### [ Senator John McCain persuades President George W. Bush to accept a ban on cruel, inhuman and degrading treatment of detainees. ](/news/2005/12/16/senator-john-mccain-persuades-president-george-w-bush-to-accept-a-ban-on-cruel-inhuman-and-degrading-treatment-of-detainees.md)
-_Context: John McCain, George W. Bush, United States Senate, U.S. President_
+_Context: George W. Bush, John McCain, U.S. President, United States Senate_
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: Iraqi Police claim that they captured Abu Musab al-Zarqawi in 2004 and then released him by mistake. ](/news/2005/12/16/conflict-in-iraq-iraqi-police-claim-that-they-captured-abu-musab-al-zarqawi-in-2004-and-then-released-him-by-mistake.md)
@@ -21,11 +21,11 @@ _Context: 2004, Iraqi Police, Abu Musab al-Zarqawi, Conflict in Iraq_
 
 ##### Hamas
 ### [ Hamas, the main Palestinian opposition party make a large series of gains in the West Bank municipal elections. ](/news/2005/12/16/hamas-the-main-palestinian-opposition-party-make-a-large-series-of-gains-in-the-west-bank-municipal-elections.md)
-_Context: West Bank, Palestinian, Hamas_
+_Context: Palestinian, West Bank, Hamas_
 
 ##### Liaoyuan
 ### [ At least 39 people, 33 of whom were patients, die after a fire breaks out in a hospital in the city of Liaoyuan, near Changchun in China's Jilin Province. The cause of the fire is unknown. ](/news/2005/12/16/at-least-39-people-33-of-whom-were-patients-die-after-a-fire-breaks-out-in-a-hospital-in-the-city-of-liaoyuan-near-changchun-in-china-s.md)
-_Context: Liaoyuan, China, Jilin Province, Changchun_
+_Context: Liaoyuan, Changchun, Jilin Province, China_
 
 ##### Israeli-Palestinian conflict
 ### [ Israeli-Palestinian conflict: An Israeli settler dies following a drive-by shooting claimed by the al-Aqsa Martyrs' Brigades and Islamic Jihad. ](/news/2005/12/16/israeli-palestinian-conflict-an-israeli-settler-dies-following-a-drive-by-shooting-claimed-by-the-al-aqsa-martyrs-brigades-and-islamic-ji.md)
@@ -37,7 +37,7 @@ _Context: Intellectual property, Pfizer, Lipitor_
 
 ##### Denis Donaldson
 ### [ Denis Donaldson is expelled from Sinn Fin for being a British spy. He later confirms this in a statement. ](/news/2005/12/16/denis-donaldson-is-expelled-from-sinn-fein-for-being-a-british-spy-he-later-confirms-this-in-a-statement.md)
-_Context: espionage, Denis Donaldson, Sinn Fin_
+_Context: Denis Donaldson, Sinn Fin, espionage_
 
 ## [Previous Day...](/news/2005/12/15/index.md)
 

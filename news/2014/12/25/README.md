@@ -5,7 +5,7 @@ Formats: [HTML](2014/12/25/index.html)  [JSON](2014/12/25/index.json)  [XML](201
 
 ##### Libyan civil war
 ### [A militia attack on a power plant in Sirte leaves at least 19 soldiers dead. ](/news/2014/12/25/a-militia-attack-on-a-power-plant-in-sirte-leaves-at-least-19-soldiers-dead.md)
-_Context: Sirte, Libyan civil war, soldiers_
+_Context: Libyan civil war, Sirte, soldiers_
 
 ##### Somali civil war
 ### [Al-Shabab militants attack AMISOM's headquarters in Mogadishu, leaving three peacekeeping soldiers and a civilian contractor dead. Five of the attackers are also killed. ](/news/2014/12/25/al-shabab-militants-attack-amisom-s-headquarters-in-mogadishu-leaving-three-peacekeeping-soldiers-and-a-civilian-contractor-dead-five-of-t.md)
@@ -17,23 +17,23 @@ Pakistan says it has killed the alleged mastermind of a school attack in Peshawa
 
 ##### Pope Francis
 ### [Pope Francis condemns the Islamic State of Iraq and Syria for violence against women, children, and ethnic minorities. ](/news/2014/12/25/pope-francis-condemns-the-islamic-state-of-iraq-and-syria-for-violence-against-women-children-and-ethnic-minorities.md)
-_Context: Pope Francis, ethnic minorities, women, children, Islamic State of Iraq and Syria_
+_Context: Islamic State of Iraq and Syria, ethnic minorities, Pope Francis, children, women_
 
 ##### Iraq
 ### [Iraqi Christians defy persecution and celebrate Christmas in Baghdad. ](/news/2014/12/25/iraqi-christians-defy-persecution-and-celebrate-christmas-in-baghdad.md)
-_Context: Baghdad, Iraq, Christmas , Christian_
+_Context: Christmas , Iraq, Baghdad, Christian_
 
 ##### 2014 Ebola epidemic
 ### [In her Royal Christmas Message, Queen Elizabeth II praises aid workers for fighting ebola in West Africa. ](/news/2014/12/25/in-her-royal-christmas-message-queen-elizabeth-ii-praises-aid-workers-for-fighting-ebola-in-west-africa.md)
-_Context: West Africa, 2014 Ebola epidemic, Royal Christmas Message, ebola, Queen Elizabeth II_
+_Context: Royal Christmas Message, West Africa, 2014 Ebola epidemic, ebola, Queen Elizabeth II_
 
-##### American
+##### U.S.
 ### [United States President Barack Obama praises U.S. troops and reflects on the U.S. withdrawal from Afghanistan during his annual Christmas message from Hawaii. ](/news/2014/12/25/united-states-president-barack-obama-praises-u-s-troops-and-reflects-on-the-u-s-withdrawal-from-afghanistan-during-his-annual-christmas-me.md)
-_Context: Afghanistan, Barack Obama, U.S. President, U.S. withdrawal, United States military personnel, Hawaii, American_
+_Context: U.S. withdrawal, Hawaii, U.S. President, Barack Obama, United States military personnel, U.S., Afghanistan_
 
 ##### 2014 Russian financial crisis
 ### [Vladimir Putin announces price controls on vodka to reduce bootlegging and moonshining. ](/news/2014/12/25/vladimir-putin-announces-price-controls-on-vodka-to-reduce-bootlegging-and-moonshining.md)
-_Context: moonshine, vodka, bootleg, 2014 Russian financial crisis, Vladimir Putin_
+_Context: vodka, moonshine, Vladimir Putin, 2014 Russian financial crisis, bootleg_
 
 ## [Previous Day...](/news/2014/12/24/index.md)
 

@@ -13,7 +13,7 @@ _Context: Mexico City_
 
 ##### Kenya
 ### [ Political parties in Kenya agree to set up an independent panel to review the disputed 2007 presidential elections. ](/news/2008/02/15/political-parties-in-kenya-agree-to-set-up-an-independent-panel-to-review-the-disputed-2007-presidential-elections.md)
-_Context: Kenya, Kenyan presidential election, 2007_
+_Context: Kenyan presidential election, 2007, Kenya_
 
 ## [Previous Day...](/news/2008/02/14/index.md)
 

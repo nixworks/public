@@ -13,11 +13,11 @@ _Context: Sri Lanka, mudslide_
 
 ##### Tunisian parliamentary election, 2014
 ### [The results of the recent Tunisian parliamentary election are announced with the secular Nidaa Tounes party winning a plurality of seats. ](/news/2014/10/29/the-results-of-the-recent-tunisian-parliamentary-election-are-announced-with-the-secular-nidaa-tounes-party-winning-a-plurality-of-seats.md)
-_Context: Tunisia, Nidaa Tounes, Tunisian parliamentary election, 2014_
+_Context: Tunisia, Tunisian parliamentary election, 2014, Nidaa Tounes_
 
 ##### Guy Scott
 ### [Guy Scott, the Vice-President of Zambia, becomes the interim President following the death of Michael Sata in London on Tuesday. ](/news/2014/10/29/guy-scott-the-vice-president-of-zambia-becomes-the-interim-president-following-the-death-of-michael-sata-in-london-on-tuesday.md)
-_Context: Michael Sata, Vice-President of Zambia, Guy Scott, President_
+_Context: Guy Scott, President, Michael Sata, Vice-President of Zambia_
 
 ## [Previous Day...](/news/2014/10/28/index.md)
 

@@ -3,7 +3,7 @@ Formats: [HTML](2010/07/24/index.html)  [JSON](2010/07/24/index.json)  [XML](201
 
 ## [2010-07-24](/news/2010/07/24/index.md)
 
-##### American
+##### U.S.
 ### [The United States and South Korea begin showing off their navy and air force by maneuvering dozens of ships and planes and thousands of troops in the Sea of Japan with intent to "rattle" North Korea. ](/news/2010/07/24/the-united-states-and-south-korea-begin-showing-off-their-navy-and-air-force-by-maneuvering-dozens-of-ships-and-planes-and-thousands-of-troo.md)
 The US and South Korea hold a major military exercise in the Sea of Japan, despite threats of retaliation from North Korea.
 
@@ -29,7 +29,7 @@ Protesters around the world rally in support of jailed woman facing execution fo
 
 ##### Academy Award
 ### [Thousands of people across the globe film their daily lives for Oscar-winning director Kevin Macdonald and producer Ridley Scott's YouTube-based documentary "Life in a Day". ](/news/2010/07/24/thousands-of-people-across-the-globe-film-their-daily-lives-for-oscar-winning-director-kevin-macdonald-and-producer-ridley-scott-s-youtube-b.md)
-_Context: Ridley Scott, Kevin Macdonald, Life in a Day, Academy Award_
+_Context: Kevin Macdonald, Life in a Day, Academy Award, Ridley Scott_
 
 ##### Peru
 ### [More than half of Peru enters a state of emergency due to unusually cold weather. ](/news/2010/07/24/more-than-half-of-peru-enters-a-state-of-emergency-due-to-unusually-cold-weather.md)
@@ -53,11 +53,11 @@ Three Spaniards arrested by Israel during a raid on a Gaza-bound aid flotilla ar
 
 ##### U.S. military
 ### [An investigation reveals that several dozen staff and contractors of the United States Department of Defense, some with high-level security clearances, allegedly downloaded child pornography; an undisclosed number did so on government-owned computers. ](/news/2010/07/24/an-investigation-reveals-that-several-dozen-staff-and-contractors-of-the-united-states-department-of-defense-some-with-high-level-security.md)
-_Context: child pornography, U.S. military_
+_Context: U.S. military, child pornography_
 
 ##### United States House of Representatives
 ### [In the United States House of Representatives, Republicans introduce Resolution 1553, which expresses United States support for Israeli use of any necessary military force to eliminate any threat it believes Iran poses. ](/news/2010/07/24/in-the-united-states-house-of-representatives-republicans-introduce-resolution-1553-which-expresses-united-states-support-for-israeli-use.md)
-_Context: American, Israel, Iran, United States House of Representatives_
+_Context: U.S., United States House of Representatives, Iran, Israel_
 
 ##### Prime Minister of Russia
 ### [Prime Minister of Russia Vladimir Putin meets the Russian intelligence agents who were swapped with the United States. ](/news/2010/07/24/prime-minister-of-russia-vladimir-putin-meets-the-russian-intelligence-agents-who-were-swapped-with-the-united-states.md)

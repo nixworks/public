@@ -13,23 +13,23 @@ _Context: United States Attorney General, Hispanic, Alberto Gonzales, United Sta
 
 ##### Democratic Republic of Congo
 ### [ In Congo (Kinshasa), the equestrian statue of King Lopold of the Belgians, who founded the Congo Free State in 1885, is briefly re-erected in Kinshasa before it is again removed. ](/news/2005/02/4/in-congo-kinshasa-the-equestrian-statue-of-king-leopold-of-the-belgians-who-founded-the-congo-free-state-in-1885-is-briefly-re-erected.md)
-_Context: Democratic Republic of Congo, equestrian statue, King Lopold of the Belgians, Kinshasa, Congo Free State_
+_Context: Congo Free State, King Lopold of the Belgians, Democratic Republic of Congo, equestrian statue, Kinshasa_
 
 ##### Uganda
 ### [ The government of Uganda announces a new ceasefire of 18 days with the Lord's Resistance Army. ](/news/2005/02/4/the-government-of-uganda-announces-a-new-ceasefire-of-18-days-with-the-lord-s-resistance-army.md)
-_Context: Lord's Resistance Army, ceasefire, Uganda_
+_Context: Lord's Resistance Army, Uganda, ceasefire_
 
 ##### Mauritanian
 ### [ In Mauritania, four army officers who plotted coups against President Maaouya Ould Sid'Ahmed Taya each receive a life sentence instead of the expected death penalty after a four-month trial. The sentenced include former army major Saleh Ould Hanenna. ](/news/2005/02/4/in-mauritania-four-army-officers-who-plotted-coups-against-president-maaouya-ould-sid-ahmed-taya-each-receive-a-life-sentence-instead-of-t.md)
-_Context: President, life sentence, sentenced to death, Ould Taya, coup, Mauritanian, Saleh Ould Hanenna_
+_Context: President, coup, life sentence, Saleh Ould Hanenna, Ould Taya, Mauritanian, sentenced to death_
 
 ##### Watergate
 ### [ Watergate papers of "Washington Post" reporters Bob Woodward and Carl Bernstein are announced to go on public display. The reporters still do not intend to reveal the identity of Deep Throat. ](/news/2005/02/4/watergate-papers-of-washington-post-reporters-bob-woodward-and-carl-bernstein-are-announced-to-go-on-public-display-the-reporters-still.md)
-_Context: Washington Post, Bob Woodward, Carl Bernstein, Watergate, Deep Throat_
+_Context: Bob Woodward, Watergate, Carl Bernstein, Deep Throat, Washington Post_
 
 ##### Same-sex marriage in the United States
 ### [ Same-sex marriage in the United States: The New York State Supreme Court rules that the state's ban on same-sex marriage violates the state constitution. The decision is stayed for 30 days. ](/news/2005/02/4/same-sex-marriage-in-the-united-states-the-new-york-state-supreme-court-rules-that-the-state-s-ban-on-same-sex-marriage-violates-the-state.md)
-_Context: same-sex marriage, New York State Supreme Court, Same-sex marriage in the United States_
+_Context: New York State Supreme Court, same-sex marriage, Same-sex marriage in the United States_
 
 ## [Previous Day...](/news/2005/02/3/index.md)
 

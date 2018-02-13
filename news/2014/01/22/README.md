@@ -5,7 +5,7 @@ Formats: [HTML](2014/01/22/index.html)  [JSON](2014/01/22/index.json)  [XML](201
 
 ##### United Front for Democracy Against Dictatorship
 ### [Kwanchai Praipana, a leader of the pro-government United Front for Democracy Against Dictatorship, is shot in the city of Udon Thani as protesters gather in Bangkok despite the declaration of a state of emergency. ](/news/2014/01/22/kwanchai-praipana-a-leader-of-the-pro-government-united-front-for-democracy-against-dictatorship-is-shot-in-the-city-of-udon-thani-as-prot.md)
-_Context: Udon Thani, Bangkok, state of emergency, United Front for Democracy Against Dictatorship_
+_Context: Bangkok, Udon Thani, United Front for Democracy Against Dictatorship, state of emergency_
 
 ##### Ukraine
 ### [Ukrainian security forces start dismantling protest camps in Kiev with two protesters feared dead after clashes with police. ](/news/2014/01/22/ukrainian-security-forces-start-dismantling-protest-camps-in-kiev-with-two-protesters-feared-dead-after-clashes-with-police.md)
@@ -29,7 +29,7 @@ Two top US science agencies confirm 2013 was the fourth warmest year for the pla
 
 ##### European Space Agency
 ### [Scientists from the European Space Agency and other institutions detect the presence of water vapour on Ceres. ](/news/2014/01/22/scientists-from-the-european-space-agency-and-other-institutions-detect-the-presence-of-water-vapour-on-ceres.md)
-_Context: Ceres, European Space Agency_
+_Context: European Space Agency, Ceres_
 
 ## [Previous Day...](/news/2014/01/21/index.md)
 

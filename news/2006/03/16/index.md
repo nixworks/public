@@ -9,7 +9,7 @@ _Context: Thaksin Shinawatra, Sondhi Limthongkul, Thailand_
 
 ##### George W. Bush
 ### [ U.S. President George W. Bush nominates Idaho Governor Dirk Kempthorne as United States Secretary of the Interior. ](/news/2006/03/16/u-s-president-george-w-bush-nominates-idaho-governor-dirk-kempthorne-as-united-states-secretary-of-the-interior.md)
-_Context: Idaho Governor, Secretary of the Interior, George W. Bush, Dirk Kempthorne_
+_Context: Idaho Governor, Secretary of the Interior, Dirk Kempthorne, George W. Bush_
 
 ##### Iraq war
 ### [ Near the third anniversary of the beginning of the Iraq war, U.S. and Iraqi forces on Thursday launch an air assault known as Operation Swarmer into Salahuddin province in what was termed the largest air assault since the U.S.-led invasion in 2003. ](/news/2006/03/16/near-the-third-anniversary-of-the-beginning-of-the-iraq-war-u-s-and-iraqi-forces-on-thursday-launch-an-air-assault-known-as-operation-swa.md)

@@ -9,7 +9,7 @@ The closure of the embassy comes after weeks of concern about the safety of thos
 
 ##### Libya
 ### [Gunmen kill five refugees from the Libyan town of Tawergha in a camp in a Tripoli suburb. ](/news/2012/02/6/gunmen-kill-five-refugees-from-the-libyan-town-of-tawergha-in-a-camp-in-a-tripoli-suburb.md)
-_Context: Tripoli, Libya, Tawergha_
+_Context: Tawergha, Libya, Tripoli_
 
 ##### Brazilian Army
 ### [More than 1000 Brazilian Army and police surround the state Legislative Assembly in Salvador, Bahia, after striking police officers and their families occupy it. ](/news/2012/02/6/more-than-1000-brazilian-army-and-police-surround-the-state-legislative-assembly-in-salvador-bahia-after-striking-police-officers-and-thei.md)
@@ -25,7 +25,7 @@ _Context: European Union, Greek government debt crisis, government of Greece_
 
 ##### 2012 Negros Oriental earthquake
 ### [A 6.9 magnitude earthquake hits near the central Philippines off the coast of Negros Island causing at least 13 deaths and 29 people missing with houses buried in a landslide in Guihulngan. ](/news/2012/02/6/a-6-9-magnitude-earthquake-hits-near-the-central-philippines-off-the-coast-of-negros-island-causing-at-least-13-deaths-and-29-people-missing.md)
-_Context: Philippines, Guihulngan, Negros Island, 2012 Negros Oriental earthquake_
+_Context: Guihulngan, Philippines, Negros Island, 2012 Negros Oriental earthquake_
 
 ##### Pakistan
 ### [A three-storey factory collapses in the Pakistani city of Lahore after a gas explosion resulting in at least three deaths with dozens of workers trapped. ](/news/2012/02/6/a-three-storey-factory-collapses-in-the-pakistani-city-of-lahore-after-a-gas-explosion-resulting-in-at-least-three-deaths-with-dozens-of-wor.md)
@@ -41,11 +41,11 @@ The Queen visits a school in Norfolk and there are gun salutes around the UK as 
 
 ##### Myanmar
 ### [Myanmar's Election Commission clears National League for Democracy leader Aung San Suu Kyi to run in a by-election in the seat of Kawhmu. ](/news/2012/02/6/myanmar-s-election-commission-clears-national-league-for-democracy-leader-aung-san-suu-kyi-to-run-in-a-by-election-in-the-seat-of-kawhmu.md)
-_Context: by-elections earlier this month, Myanmar, Kawhmu, Aung San Suu Kyi, National League for Democracy_
+_Context: Aung San Suu Kyi, Kawhmu, by-elections earlier this month, Myanmar, National League for Democracy_
 
 ##### Romania
 ### [Romanian Prime Minister Emil Boc and his entire cabinet resign after major social and political unrest in the country. ](/news/2012/02/6/romanian-prime-minister-emil-boc-and-his-entire-cabinet-resign-after-major-social-and-political-unrest-in-the-country.md)
-_Context: Emil Boc, Romania, Prime Minister, major social and political unrest_
+_Context: Romania, Emil Boc, major social and political unrest, Prime Minister_
 
 ##### Palestinian
 ### [The BBC reports that rival Palestinian factions have agreed to form a government led by President Mahmoud Abbas ahead of elections. ](/news/2012/02/6/the-bbc-reports-that-rival-palestinian-factions-have-agreed-to-form-a-government-led-by-president-mahmoud-abbas-ahead-of-elections.md)

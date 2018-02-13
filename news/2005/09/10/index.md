@@ -9,11 +9,11 @@ _Context: Democratic Republic of Congo_
 
 ##### Loyalist
 ### [ Several police have been injured when Loyalist gunmen open fire after the Whiterock Orange Order Parade in Belfast, Northern Ireland. ](/news/2005/09/10/several-police-have-been-injured-when-loyalist-gunmen-open-fire-after-the-whiterock-orange-order-parade-in-belfast-northern-ireland.md)
-_Context: Northern Ireland, Orange Order, Belfast, Loyalist_
+_Context: Northern Ireland, Loyalist, Belfast, Orange Order_
 
 ##### Iraqi army
 ### [ Iraqi forces and US troops attack Iraqi insurgents in Tal Afar. ](/news/2005/09/10/iraqi-forces-and-us-troops-attack-iraqi-insurgents-in-tal-afar.md)
-_Context: Iraqi insurgent, Iraqi army, Tal Afar, United States military_
+_Context: United States military, Iraqi army, Tal Afar, Iraqi insurgent_
 
 ##### New Zealand
 ### [ Ahead of New Zealand's September 17 general election, Leader of the Opposition Don Brash denies lying about knowing of an anti-Labour pamphlet released by the Exclusive Brethren. ](/news/2005/09/10/ahead-of-new-zealand-s-september-17-general-election-leader-of-the-opposition-don-brash-denies-lying-about-knowing-of-an-anti-labour-pamph.md)

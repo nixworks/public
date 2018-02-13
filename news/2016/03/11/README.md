@@ -5,7 +5,7 @@ Formats: [HTML](2016/03/11/index.html)  [JSON](2016/03/11/index.json)  [XML](201
 
 ##### Insurgency in the Maghreb (2002-present)
 ### [The Algerian Army kills three suspected Islamist militants near the eastern city of El Oued and seizes a large quantity of weapons, including six anti-aircraft missiles. ](/news/2016/03/11/the-algerian-army-kills-three-suspected-islamist-militants-near-the-eastern-city-of-el-oued-and-seizes-a-large-quantity-of-weapons-includin.md)
-_Context: Algerian Army, El Oued, Insurgency in the Maghreb (2002-present)_
+_Context: El Oued, Insurgency in the Maghreb (2002-present), Algerian Army_
 
 ##### Yemeni Civil War (2015-present)
 ### [More than 50 people have died in fighting in the Yemeni city of Taiz. ](/news/2016/03/11/more-than-50-people-have-died-in-fighting-in-the-yemeni-city-of-taiz.md)
@@ -21,19 +21,19 @@ By Serajul QuadirDHAKA (Reuters) -...
 
 ##### General Motors
 ### [General Motors acquires Cruise Automation, a three-year old software company that's been testing self-driving cars on the streets of San Francisco. ](/news/2016/03/11/general-motors-acquires-cruise-automation-a-three-year-old-software-company-that-s-been-testing-self-driving-cars-on-the-streets-of-san-fra.md)
-_Context: General Motors, software company, self-driving cars, San Francisco_
+_Context: General Motors, self-driving cars, San Francisco, software company_
 
 ##### Japan
 ### [Japan's emperor and prime minister attend a memorial service marking the fifth anniversary of the 2011 Tohoku earthquake and tsunami in which 15,894 people died and caused the Fukushima Daiichi nuclear disaster. Many people remain displaced and recovery efforts are ongoing. ](/news/2016/03/11/japanas-emperor-and-prime-minister-attend-a-memorial-service-marking-the-fifth-anniversary-of-the-2011-tahoku-earthquake-and-tsunami-in-w.md)
-_Context: Fukushima Daiichi nuclear disaster, recovery, Emperor, 2011 Tohoku earthquake and tsunami, Japan, Prime Minister of Japan_
+_Context: Fukushima Daiichi nuclear disaster, Emperor, Prime Minister of Japan, Japan, 2011 Tohoku earthquake and tsunami, recovery_
 
 ##### 2016 SGBPo Paulo flood and mudslide
 ### [At least 15 people are killed by flooding and mudslides in and around SGBPo Paulo, Brazil, following heavy rain. ](/news/2016/03/11/at-least-15-people-are-killed-by-flooding-and-mudslides-in-and-around-sagbpo-paulo-brazil-following-heavy-rain.md)
-_Context: Brazil, SGBPo Paulo, 2016 SGBPo Paulo flood and mudslide_
+_Context: Brazil, 2016 SGBPo Paulo flood and mudslide, SGBPo Paulo_
 
 ##### North Korea's nuclear program
 ### [Kim Jong-un, the supreme leader of North Korea, orders the country to conduct more tests of nuclear weapons to improve its capacity. ](/news/2016/03/11/kim-jong-un-the-supreme-leader-of-north-korea-orders-the-country-to-conduct-more-tests-of-nuclear-weapons-to-improve-its-capacity.md)
-_Context: North Korea, Kim Jong-un, North Korea's nuclear program, leader_
+_Context: leader, Kim Jong-un, North Korea's nuclear program, North Korea_
 
 ##### South Sudanese Civil War
 ### [A new United Nations report on South Sudan describes one of the most horrendous human rights situations in the world, in particular by Government forces, including use of rape as a widespread weapon of war and recommends the U.N. Security Council consider imposing a comprehensive arms embargo on South Sudan and referring the matter to the International Criminal Court. ](/news/2016/03/11/a-new-united-nations-report-on-south-sudan-describes-one-of-the-most-horrendous-human-rights-situations-in-the-world-in-particular-by-gover.md)
@@ -45,7 +45,7 @@ _Context: Hezbollah, Arab League, Lebanese_
 
 ##### Saudi Arabia
 ### [The delegation from Saudi Arabia departed from the meeting of the Arab League, offended by remarks of the Foreign Minister of Iraq, Ibrahim al-Jaafari, an indication of increasing tension among Arab states. ](/news/2016/03/11/the-delegation-from-saudi-arabia-departed-from-the-meeting-of-the-arab-league-offended-by-remarks-of-the-foreign-minister-of-iraq-ibrahim.md)
-_Context: Iraq, Saudi Arabia, Arab League, Ibrahim al-Jaafari_
+_Context: Ibrahim al-Jaafari, Arab League, Iraq, Saudi Arabia_
 
 ##### Syrian peace process
 ### [The High Negotiations Committee, Syria's main opposition group, will attend Monday's U.N.-brokered peace talks in Geneva, Switzerland, a day shy of the fifth anniversary of the start of the conflict, and two-plus weeks into the ceasefire agreement. Although fighting continues, a significant drop in violence has been seen during the truce. The first round of Geneva talks collapsed on Feb. 3 during a government offensive against rebels in Aleppo. ](/news/2016/03/11/the-high-negotiations-committee-syria-s-main-opposition-group-will-attend-monday-s-u-n-brokered-peace-talks-in-geneva-switzerland-a-day.md)

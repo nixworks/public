@@ -17,11 +17,11 @@ _Context: James Robertson , Guantnamo Bay_
 
 ##### Microsoft
 ### [ Microsoft announces it will pay Novell USD $536 million to settle its ten-year-long antitrust suit and will pay legal costs incurred by the Computer and Communications Industry Association (CCIA). In return, CCIA will not pursue its arguments in favor of the European Union's antitrust suit. ](/news/2004/11/7/microsoft-announces-it-will-pay-novell-usd-536-million-to-settle-its-ten-year-long-antitrust-suit-and-will-pay-legal-costs-incurred-by-the.md)
-_Context: USD, European Union, Novell, antitrust, CCIA, Microsoft_
+_Context: European Union, Microsoft, Novell, USD, antitrust, CCIA_
 
 ##### Pitcairn Island
 ### [ The Pitcairn Island governing council selects the first female mayor in its 214-year history after the former mayor, Steve Christian, was convicted of rape. ](/news/2004/11/7/the-pitcairn-island-governing-council-selects-the-first-female-mayor-in-its-214-year-history-after-the-former-mayor-steve-christian-was-c.md)
-_Context: Pitcairn sexual assault trial of 2004, Pitcairn Island, Steve Christian_
+_Context: Steve Christian, Pitcairn Island, Pitcairn sexual assault trial of 2004_
 
 ##### $
 ### [ The United States dollar falls to a record low of $1.2985 against the euro. ](/news/2004/11/7/the-united-states-dollar-falls-to-a-record-low-of-1-2985-against-the-euro.md)
@@ -33,39 +33,39 @@ _Context: spy, Hong Kong_
 
 ##### Revolutionary Armed Forces of Colombia
 ### [ Intelligence services intercept FARC guerrilla communications calling all units to focus on assassinating Colombian President lvaro Uribe. ](/news/2004/11/7/intelligence-services-intercept-farc-guerrilla-communications-calling-all-units-to-focus-on-assassinating-colombian-president-alvaro-uribe.md)
-_Context: guerrillas, Revolutionary Armed Forces of Colombia, lvaro Uribe_
+_Context: lvaro Uribe, Revolutionary Armed Forces of Colombia, guerrillas_
 
 ##### Chechen
 ### [ Russian troops storm a Chechen rebel base and kill 22 militants. ](/news/2004/11/7/russian-troops-storm-a-chechen-rebel-base-and-kill-22-militants.md)
-_Context: militant, Chechen_
+_Context: Chechen, militant_
 
 ##### Iyad Allawi
 ### [ Iraqi Prime Minister Iyad Allawi publicly authorizes an offensive in Fallujah and Ramadi to "liberate the people" and "clean Falluja of terrorists". U.S. and Iraqi forces advance. A hospital doctor in Falluja reports 15 people killed and 20 wounded. ](/news/2004/11/7/iraqi-prime-minister-iyad-allawi-publicly-authorizes-an-offensive-in-fallujah-and-ramadi-to-liberate-the-people-and-clean-falluja-of-ter.md)
-_Context: Fallujah, terrorism, Ramadi, Iyad Allawi_
+_Context: Fallujah, terrorism, Iyad Allawi, Ramadi_
 
 ##### Illness of Yasser Arafat
 ### [ Illness of Yasser Arafat: Officials of the Palestinian Authority travel to France to see Yasser Arafat. Suha Arafat, wife of Yasser Arafat, says, "They are trying to bury Abu Ammar (Arafat) alive". Israeli security officials believe Arafat is brain-dead or comatose, and is on life support equipment and will be disconnected on Tuesday, the Muslim holiday of Lailat-ul-Qadr so that he will be declared dead on that day. ](/news/2004/11/7/illness-of-yasser-arafat-officials-of-the-palestinian-authority-travel-to-france-to-see-yasser-arafat-suha-arafat-wife-of-yasser-arafat.md)
-_Context: Yasser Arafat, Israel, Illness of Yasser Arafat, Palestinian Authority, Lailat-ul-Qadr, Suha Arafat, life support_
+_Context: Israel, Illness of Yasser Arafat, Lailat-ul-Qadr, Palestinian Authority, life support, Yasser Arafat, Suha Arafat_
 
 ##### Magnitude
 ### [ A 5.8 magnitude earthquake rocks northern Japan. It was centered close to the Earth's surface in the Chuetsu area of Niigata prefecture. ](/news/2004/11/7/a-5-8-magnitude-earthquake-rocks-northern-japan-it-was-centered-close-to-the-earth-s-surface-in-the-chuetsu-area-of-niigata-prefecture.md)
-_Context: earthquake, Niigata prefecture, Chuetsu, magnitude_
+_Context: magnitude, Niigata prefecture, Chuetsu, earthquake_
 
 ##### Eindhoven
 ### [ A Muslim school in Eindhoven in the Netherlands suffers a bomb attack. It is believed to be a revenge attack in retaliation for the murder of Theo van Gogh, following a weekend in which several mosques were attacked throughout the Netherlands. ](/news/2004/11/7/a-muslim-school-in-eindhoven-in-the-netherlands-suffers-a-bomb-attack-it-is-believed-to-be-a-revenge-attack-in-retaliation-for-the-murder.md)
-_Context: mosque, improvised explosive device, Eindhoven, Theo van Gogh_
+_Context: Eindhoven, improvised explosive device, mosque, Theo van Gogh_
 
 ##### Cte d'Ivoire
 ### [ The current wave of violence in Cte d'Ivoire causes London markets to fear a lack of cocoa exports, sending cocoa to a five-year high. French forces, including tanks, deploy throughout the Ivorian capital, Abidjan, to restore order. ](/news/2004/11/7/the-current-wave-of-violence-in-cote-d-ivoire-causes-london-markets-to-fear-a-lack-of-cocoa-exports-sending-cocoa-to-a-five-year-high-fre.md)
-_Context: Cte d'Ivoire, cocoa, Abidjan_
+_Context: Cte d'Ivoire, Abidjan, cocoa_
 
 ##### Electronic voting
 ### [ An electronic voting machine in 1B in Franklin County, Ohio, recorded 260 votes for John Kerry and 4258 votes for George W. Bush though only 638 people voted there, one of several alleged problems. ](/news/2004/11/7/an-electronic-voting-machine-in-1b-in-franklin-county-ohio-recorded-260-votes-for-john-kerry-and-4258-votes-for-george-w-bush-though-onl.md)
-_Context: George W. Bush, electronic voting, John Kerry, Franklin County_
+_Context: George W. Bush, John Kerry, Franklin County, electronic voting_
 
 ##### Supercomputers
 ### [ Supercomputers: The Top 500 Supercomputers list, which officially charts the records for the 500 fastest computers in the world, announces IBM's Blue Gene-L prototype as the world's fastest supercomputer. Using the Linpack benchmark, it achieved a record computational speed of 70.72 TFlops, taking the title away from Japan's Earth Simulator (35.86 TFlops) which held the title since June 2002. NASA's Columbia takes second place with 51.87 TFlops. ](/news/2004/11/7/supercomputers-the-top-500-supercomputers-list-which-officially-charts-the-records-for-the-500-fastest-computers-in-the-world-announces.md)
-_Context: Top 500 Supercomputers, Supercomputers, TFlops, NASA, Columbia, Blue Gene/L, IBM, Earth Simulator, Linpack_
+_Context: NASA, Linpack, IBM, TFlops, Top 500 Supercomputers, Blue Gene/L, Columbia, Earth Simulator, Supercomputers_
 
 ## [Previous Day...](/news/2004/11/6/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2014/11/2/index.html)  [JSON](2014/11/2/index.json)  [XML](2014/
 
 ##### Sunni
 ### [Over 300 members of the Sunni Albu Nimr tribe are executed by ISIS militants in Anbar Province, western Iraq. ](/news/2014/11/2/over-300-members-of-the-sunni-albu-nimr-tribe-are-executed-by-isis-militants-in-anbar-province-western-iraq.md)
-_Context: Iraq, Islamic State of Iraq and Syria, Sunni, Anbar Province, Albu Nimr_
+_Context: Anbar Province, Albu Nimr, Iraq, Sunni, Islamic State of Iraq and Syria_
 
 ##### Islamist
 ### [The death toll surpasses 200 from fighting between loyalist troops and Islamist militias in Benghazi since an offensive launched by Khalifa Hifter began two weeks ago. ](/news/2014/11/2/the-death-toll-surpasses-200-from-fighting-between-loyalist-troops-and-islamist-militias-in-benghazi-since-an-offensive-launched-by-khalifa.md)
@@ -13,7 +13,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### A suicide bombing
 ### [At least 60 people were killed and 110 injured by a suicide bombing in the Pakistani city of Lahore. ](/news/2014/11/2/at-least-60-people-were-killed-and-110-injured-by-a-suicide-bombing-in-the-pakistani-city-of-lahore.md)
-_Context: Lahore, Pakistan, a suicide bombing_
+_Context: a suicide bombing, Pakistan, Lahore_
 
 ##### Abu Sayyaf
 ### [Abu Sayyaf guerillas kill six Philippine Army soldiers outside the town of Basilan. ](/news/2014/11/2/abu-sayyaf-guerillas-kill-six-philippine-army-soldiers-outside-the-town-of-basilan.md)
@@ -29,11 +29,11 @@ Gaza&#8217;s rulers deny responsibility for Friday&#8217;s attack and say they a
 
 ##### Hit-and-run
 ### [Multiple people are arrested for their alleged involvement with a hit-and-run that killed three 13-year-old trick-or-treaters in Santa Ana, California, U.S. ](/news/2014/11/2/multiple-people-are-arrested-for-their-alleged-involvement-with-a-hit-and-run-that-killed-three-13-year-old-trick-or-treaters-in-santa-ana.md)
-_Context: hit-and-run, trick-or-treat, Santa Ana, California_
+_Context: California, trick-or-treat, Santa Ana, hit-and-run_
 
 ##### Donetsk People's Republic
 ### [Voters in break away "people's republics" (Donetsk People's Republic and Lugansk People's Republic respectively) in Donetsk and Luhansk go to the polls for parliamentary and presidential elections. Rebel leaders Alexander Zakharchenko (Donetsk) and Igor Plotnisky (Luhansk) appear set for victory in early counting in elections which will be recognised in Russia but not elsewhere. International observers noted a very high turnout. ](/news/2014/11/2/voters-in-break-away-people-s-republics-donetsk-people-s-republic-and-lugansk-people-s-republic-respectively-in-donetsk-and-luhansk-go-t.md)
-_Context: Luhansk, Lugansk People's Republic, Donetsk, parliamentary and presidential elections, Russia, Donetsk People's Republic, Alexander Zakharchenko_
+_Context: Russia, Donetsk People's Republic, Lugansk People's Republic, Alexander Zakharchenko, Luhansk, Donetsk, parliamentary and presidential elections_
 
 ## [Previous Day...](/news/2014/11/1/index.md)
 

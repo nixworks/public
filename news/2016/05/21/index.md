@@ -33,7 +33,7 @@ KABUL, Afghanistan (AP) — Norway&#039;s foreign minister says his government h
 
 ##### 2015-16 Iraqi protests
 ### [ At least four are killed and 90 injured among protesters who stormed the Green Zone in Baghdad. ](/news/2016/05/21/at-least-four-are-killed-and-90-injured-among-protesters-who-stormed-the-green-zone-in-baghdad.md)
-_Context: 2015-16 Iraqi protests, Green Zone, Baghdad_
+_Context: Baghdad, 2015-16 Iraqi protests, Green Zone_
 
 ##### Kazakhstan
 ### [Kazakhstan police detain dozens of protesters during rallies against proposed land reforms in the former Central Asian Soviet Republic. ](/news/2016/05/21/kazakhstan-police-detain-dozens-of-protesters-during-rallies-against-proposed-land-reforms-in-the-former-central-asian-soviet-republic.md)
@@ -49,7 +49,7 @@ Violent protests have broken out in Chile as President Michelle Bachelet present
 
 ##### Lake Mead
 ### [Lake Mead in Mohave County, Arizona, the largest reservoir in the United States, drops to its lowest level in history, declining to its lowest level since it was filled in the 1930s. The reservoir serves water to the states of Arizona, Nevada and California. ](/news/2016/05/21/lake-mead-in-mohave-county-arizona-the-largest-reservoir-in-the-united-states-drops-to-its-lowest-level-in-history-declining-to-its-lowe.md)
-_Context: reservoir, Nevada, Mohave County, Arizona, California, Arizona, Lake Mead, American_
+_Context: U.S., Mohave County, Arizona, Arizona, Lake Mead, Nevada, California, reservoir_
 
 ## [Previous Day...](/news/2016/05/20/index.md)
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/23/the-united-states-arrests-zhenli-ye-gon-a-mexic
 
 ### [2007-07-23](/news/2007/07/23/index.md)
 
-##### American
+##### U.S.
 #  The United States arrests Zhenli Ye Gon, a Mexican citizen accused of making large amounts of crystal meth in a laboratory. 
 
 The United States arrested on Monday a Mexican laboratory owner accused of helping make huge quantities of crystal meth, four months after police found $206 million cash in his Mexico City mansion.
@@ -16,8 +16,8 @@ The United States arrested on Monday a Mexican laboratory owner accused of helpi
 
 ### Related:
 
-1. [Mexican drug lord Joaquin "El Chapo" Guzman is extradited to the United States, where he will face charges for his role as leader of the Sinaloa Cartel. ](/news/2017/01/19/mexican-drug-lord-joaquan-el-chapo-guzma-n-is-extradited-to-the-united-states-where-he-will-face-charges-for-his-role-as-leader-of-the-s.md) _Context: American, Mexican_
-2. [Mexican drug cartel kingpin Benjamn Arellano Flix pleads guilty to racketeering and conspiracy to launder money in the United States. ](/news/2012/01/4/mexican-drug-cartel-kingpin-benjamin-arellano-felix-pleads-guilty-to-racketeering-and-conspiracy-to-launder-money-in-the-united-states.md) _Context: American, Mexican_
-3. [The Mexican media reports that hitman Jos Antonio Acosta Hernndez, associated with the La Lnea gang, is arrested in Chihuahua in connection to killing United States consular official and murders at a Juarez birthday party. ](/news/2011/07/30/the-mexican-media-reports-that-hitman-jose-antonio-acosta-hernandez-associated-with-the-la-linea-gang-is-arrested-in-chihuahua-in-connecti.md) _Context: American, Mexican_
-4. [Twenty-three people allegedly linked to the Mexican Los Zetas Cartel are indicted in the US state of Colorado for allegedly trying to smuggle marijuana in the United States. ](/news/2011/07/11/twenty-three-people-allegedly-linked-to-the-mexican-los-zetas-cartel-are-indicted-in-the-us-state-of-colorado-for-allegedly-trying-to-smuggl.md) _Context: American, Mexican_
-5. [U.S. President Donald Trump meets with Guatemalan President Jimmy Morales. Trump thanks Morales for having supported the decision of the United States to recognize Jerusalem as Israel's capital. They discuss various issues about the crisis in Venezuela, drug trafficking and the UN anti-corruption commission. ](/news/2018/02/8/u-s-president-donald-trump-meets-with-guatemalan-president-jimmy-morales-trump-thanks-morales-for-having-supported-the-decision-of-the-uni.md) _Context: American_
+1. [Mexican drug lord Joaquin "El Chapo" Guzman is extradited to the United States, where he will face charges for his role as leader of the Sinaloa Cartel. ](/news/2017/01/19/mexican-drug-lord-joaquan-el-chapo-guzma-n-is-extradited-to-the-united-states-where-he-will-face-charges-for-his-role-as-leader-of-the-s.md) _Context: Mexican, U.S._
+2. [Mexican drug cartel kingpin Benjamn Arellano Flix pleads guilty to racketeering and conspiracy to launder money in the United States. ](/news/2012/01/4/mexican-drug-cartel-kingpin-benjamin-arellano-felix-pleads-guilty-to-racketeering-and-conspiracy-to-launder-money-in-the-united-states.md) _Context: Mexican, U.S._
+3. [The Mexican media reports that hitman Jos Antonio Acosta Hernndez, associated with the La Lnea gang, is arrested in Chihuahua in connection to killing United States consular official and murders at a Juarez birthday party. ](/news/2011/07/30/the-mexican-media-reports-that-hitman-jose-antonio-acosta-hernandez-associated-with-the-la-linea-gang-is-arrested-in-chihuahua-in-connecti.md) _Context: Mexican, U.S._
+4. [Twenty-three people allegedly linked to the Mexican Los Zetas Cartel are indicted in the US state of Colorado for allegedly trying to smuggle marijuana in the United States. ](/news/2011/07/11/twenty-three-people-allegedly-linked-to-the-mexican-los-zetas-cartel-are-indicted-in-the-us-state-of-colorado-for-allegedly-trying-to-smuggl.md) _Context: Mexican, U.S._
+5. [U.S. President Donald Trump meets with Guatemalan President Jimmy Morales. Trump thanks Morales for having supported the decision of the United States to recognize Jerusalem as Israel's capital. They discuss various issues about the crisis in Venezuela, drug trafficking and the UN anti-corruption commission. ](/news/2018/02/8/u-s-president-donald-trump-meets-with-guatemalan-president-jimmy-morales-trump-thanks-morales-for-having-supported-the-decision-of-the-uni.md) _Context: U.S._

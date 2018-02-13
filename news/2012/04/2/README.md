@@ -9,7 +9,7 @@ _Context: FARC, Colombia_
 
 ##### U.S. Federal Trade Commission
 ### [The U.S. Federal Trade Commission allows the proposed merger of two large firms within the market for pharmacy benefit management, Express Scripts and Medco Health Solutions, despite the arguments of many that the degree of concentration that will create in the PBM market will prove unhealthy. ](/news/2012/04/2/the-u-s-federal-trade-commission-allows-the-proposed-merger-of-two-large-firms-within-the-market-for-pharmacy-benefit-management-express-s.md)
-_Context: U.S. Federal Trade Commission, pharmacy benefit management, Express Scripts, Medco Health Solutions_
+_Context: Medco Health Solutions, U.S. Federal Trade Commission, pharmacy benefit management, Express Scripts_
 
 ##### UTair Aviation
 ### [A twin engine UTair Aviation ATR-72 crashes in western Siberia near the city of Tyumen with at least 31 people dead of the 43 on board. ](/news/2012/04/2/a-twin-engine-utair-aviation-atr-72-crashes-in-western-siberia-near-the-city-of-tyumen-with-at-least-31-people-dead-of-the-43-on-board.md)
@@ -29,11 +29,11 @@ A 43-year-old former student is arrested after seven people are shot dead at a p
 
 ##### Burma
 ### [Burma's National League for Democracy claims to have won 43 of 45 seats contested yesterday in by-elections. ](/news/2012/04/2/burma-s-national-league-for-democracy-claims-to-have-won-43-of-45-seats-contested-yesterday-in-by-elections.md)
-_Context: National League for Democracy, Burma, by-elections earlier this month_
+_Context: Burma, by-elections earlier this month, National League for Democracy_
 
 ##### Pl Schmitt
 ### [Pl Schmitt resigns as President of Hungary after his doctorate is revoked in a plagiarism scandal. ](/news/2012/04/2/pal-schmitt-resigns-as-president-of-hungary-after-his-doctorate-is-revoked-in-a-plagiarism-scandal.md)
-_Context: President of Hungary, Pl Schmitt_
+_Context: Pl Schmitt, President of Hungary_
 
 ##### 1940 United States Census
 ### [The data from the 1940 United States Census are released including information on 132 million people. ](/news/2012/04/2/the-data-from-the-1940-united-states-census-are-released-including-information-on-132-million-people.md)

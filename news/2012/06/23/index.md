@@ -13,11 +13,11 @@ _Context: Mexican, Mexican Drug War_
 
 ##### Pakistan
 ### [In the Pakistani city of Quetta, armed people on motorcycles kill eight people; targeting Shias. ](/news/2012/06/23/in-the-pakistani-city-of-quetta-armed-people-on-motorcycles-kill-eight-people-targeting-shias.md)
-_Context: Quetta, Pakistan, Shia_
+_Context: Pakistan, Quetta, Shia_
 
 ##### Music concert
 ### [100,000 people attend the first day of a two-day music concert at Hackney Marshes in London, which forms part of the build-up to the 2012 Summer Olympics. ](/news/2012/06/23/100-000-people-attend-the-first-day-of-a-two-day-music-concert-at-hackney-marshes-in-london-which-forms-part-of-the-build-up-to-the-2012-su.md)
-_Context: Hackney Marshes, London, music concert, 2012 Summer Olympics_
+_Context: music concert, Hackney Marshes, London, 2012 Summer Olympics_
 
 ##### Ulster Bank
 ### [Tens of thousands of Ulster Bank customers continue to struggle to access their cash after days of problems. ](/news/2012/06/23/tens-of-thousands-of-ulster-bank-customers-continue-to-struggle-to-access-their-cash-after-days-of-problems.md)
@@ -51,7 +51,7 @@ _Context: Algo Centre Mall, Elliot Lake_
 
 ##### Anna Alban
 ### [Ecuador's ambassador to the UK, Anna Alban, is reported to be flying to Quito to discuss WikiLeaks editor-in-chief Julian Assange's attempt to gain political asylum. ](/news/2012/06/23/ecuador-s-ambassador-to-the-uk-anna-alban-is-reported-to-be-flying-to-quito-to-discuss-wikileaks-editor-in-chief-julian-assange-s-attempt.md)
-_Context: Julian Assange, WikiLeaks, Quito, Anna Alban_
+_Context: Julian Assange, WikiLeaks, Anna Alban, Quito_
 
 ##### Paraguayan President
 ### [Latin American countries come together to express concern over the ousting from power of President of Paraguay Fernando Lugo, with Argentine President Cristina Fernndez de Kirchner, Ecuadorian President Rafael Correa and Venezuelan President Hugo Chvez vowing not to recognise the government of the newly-installed Paraguayan leader. ](/news/2012/06/23/latin-american-countries-come-together-to-express-concern-over-the-ousting-from-power-of-president-of-paraguay-fernando-lugo-with-argentine.md)
@@ -61,13 +61,13 @@ Heads of three regional countries say they will not recognise new government aft
 ### [The United Nations sustainable development summit ends in Brazil with a warning on corporate power. ](/news/2012/06/23/the-united-nations-sustainable-development-summit-ends-in-brazil-with-a-warning-on-corporate-power.md)
 The Rio+20 summit ends with an agreement from world leaders that charities say represents a &quot;missed chance&quot; to tackle environmental problems.
 
-##### American
+##### U.S.
 ### [A United States judge dismisses an injunction from Apple Inc. against Motorola for patent infringement. ](/news/2012/06/23/a-united-states-judge-dismisses-an-injunction-from-apple-inc-against-motorola-for-patent-infringement.md)
-_Context: Motorola, American, Apple Inc._
+_Context: U.S., Apple Inc., Motorola_
 
 ##### High Court
 ### [After a five-day trial in the High Court, 27-year-old assistant tutor Luke Cooper, who is completing a PhD in international relations at the University of Sussex, is awarded GBP35,000 over a front page "Evening Standard" article and GBP25,000 over a follow-up piece in the "Daily Mail". These articles threatened his future academic prospects during the November 2010 march against government cuts. ](/news/2012/06/23/after-a-five-day-trial-in-the-high-court-27-year-old-assistant-tutor-luke-cooper-who-is-completing-a-phd-in-international-relations-at-the.md)
-_Context: PhD, Evening Standard, international relations, the November 2010 march against government cuts, University of Sussex, Daily Mail, High Court_
+_Context: the November 2010 march against government cuts, Daily Mail, Evening Standard, University of Sussex, PhD, international relations, High Court_
 
 ##### Papua New Guinea
 ### [Voters in Papua New Guinea start going to the polls for a general election. ](/news/2012/06/23/voters-in-papua-new-guinea-start-going-to-the-polls-for-a-general-election.md)
@@ -79,11 +79,11 @@ _Context: Hosni Mubarak_
 
 ##### Elizabeth II
 ### [Hundreds of people demonstrate against next week's visit of Elizabeth II to Belfast. ](/news/2012/06/23/hundreds-of-people-demonstrate-against-next-week-s-visit-of-elizabeth-ii-to-belfast.md)
-_Context: Elizabeth II, Belfast_
+_Context: Belfast, Elizabeth II_
 
 ##### FIFA
 ### [Former FIFA vice-president Jack Warner becomes the national security minister of Trinidad and Tobago. ](/news/2012/06/23/former-fifa-vice-president-jack-warner-becomes-the-national-security-minister-of-trinidad-and-tobago.md)
-_Context: Jack Warner, FIFA, Trinidad and Tobago_
+_Context: FIFA, Trinidad and Tobago, Jack Warner_
 
 ## [Previous Day...](/news/2012/06/22/index.md)
 

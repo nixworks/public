@@ -25,11 +25,11 @@ VATICAN CITY (AP) — In a sweeping document on family life that opened a door t
 
 ##### North Carolina bathroom bill
 ### [Bruce Springsteen and the E Street Band cancels their Sunday night concert in Greensboro, North Carolina, to protest the state's controversial "bathroom bill." ](/news/2016/04/8/bruce-springsteen-and-the-e-street-band-cancels-their-sunday-night-concert-in-greensboro-north-carolina-to-protest-the-state-s-controversi.md)
-_Context: North Carolina bathroom bill, bathroom bill, Bruce Springsteen and the E Street Band, Greensboro, North Carolina_
+_Context: Bruce Springsteen and the E Street Band, bathroom bill, North Carolina bathroom bill, Greensboro, North Carolina_
 
 ##### Starwood Hotels and Resorts Worldwide
 ### [Both Starwood Hotels and Resorts Worldwide and Marriott International shareholders approve Marriott's acquisition of Starwood, which will create the world's largest hotelier. The deal has cleared the pre-merger antitrust reviews in the United States and Canada; approvals from the European Union and China is pending. Last week, Anbang Insurance Group topped Marriott's bid, then withdrew their offer three days later. ](/news/2016/04/8/both-starwood-hotels-and-resorts-worldwide-and-marriott-international-shareholders-approve-marriott-s-acquisition-of-starwood-which-will-cr.md)
-_Context: pre-merger, American, reduced competition and higher prices, China, Canadian, European Union, shareholders, Anbang Insurance Group, Starwood Hotels and Resorts Worldwide, Marriott International_
+_Context: Canadian, pre-merger, Marriott International, shareholders, Starwood Hotels and Resorts Worldwide, Anbang Insurance Group, U.S., European Union, reduced competition and higher prices, China_
 
 ##### San Jose
 ### [At least 245 people are reportedly injured following a head-on collision between two commuter trains in San Jose, Costa Rica. ](/news/2016/04/8/at-least-245-people-are-reportedly-injured-following-a-head-on-collision-between-two-commuter-trains-in-san-josa-c-costa-rica.md)
@@ -37,15 +37,15 @@ _Context: San Jose_
 
 ##### Angoon
 ### [Three people are killed, and there was one survivor, following the crash of a small plane headed to Angoon in Southeast Alaska, United States. ](/news/2016/04/8/three-people-are-killed-and-there-was-one-survivor-following-the-crash-of-a-small-plane-headed-to-angoon-in-southeast-alaska-united-state.md)
-_Context: Angoon, American, Southeast Alaska_
+_Context: U.S., Angoon, Southeast Alaska_
 
 ##### North Korea-South Korea relations
 ### [A group of 13 North Koreans working at a restaurant in an unidentified country defect en masse to South Korea, according to Seoul's Ministry of Unification. ](/news/2016/04/8/a-group-of-13-north-koreans-working-at-a-restaurant-in-an-unidentified-country-defect-en-masse-to-south-korea-according-to-seoul-s-ministry.md)
-_Context: South Korea, Ministry of Unification, North Korea, defects, Seoul, North Korea-South Korea relations_
+_Context: North Korea-South Korea relations, defects, Ministry of Unification, Seoul, North Korea, South Korea_
 
 ##### Egypt-Saudi Arabia relations
 ### [King of Saudi Arabia Salman bin Abdulaziz Al Saud announces, during his trip to Cairo, that a bridge crossing the Red Sea will be built, linking Egypt and Saudi Arabia. Egyptian President Abdel Fattah el-Sisi says the bridge will be named after the Saudi monarch. A Saudi-Egypt Causeway project has been in the works for years. ](/news/2016/04/8/king-of-saudi-arabia-salman-bin-abdulaziz-al-saud-announces-during-his-trip-to-cairo-that-a-bridge-crossing-the-red-sea-will-be-built-lin.md)
-_Context: Egypt, King, Saudi-Egypt Causeway, President, Cairo, Red Sea, king, Saudi Arabia, Abdel Fattah el-Sisi, Egypt-Saudi Arabia relations_
+_Context: Cairo, king, Red Sea, King, Saudi-Egypt Causeway, Saudi Arabia, Egypt-Saudi Arabia relations, Abdel Fattah el-Sisi, President, Egypt_
 
 ##### Syria-United States relations
 ### [Syria releases American freelance photographer Kevin Patrick Dawes who was kidnapped in 2012. ](/news/2016/04/8/syria-releases-american-freelance-photographer-kevin-patrick-dawes-who-was-kidnapped-in-2012.md)
@@ -53,7 +53,7 @@ The 33-year-old from San Diego disappeared after crossing into Syria from Turkey
 
 ##### NATO-Russia relations
 ### [NATO announces it will hold a meeting of the NATO-Russia Council at the ambassadorial level at NATO headquarters in Brussels in the next two weeks after a two-year break since NATO cut all practical cooperation with Russia in 2014. ](/news/2016/04/8/nato-announces-it-will-hold-a-meeting-of-the-natoarussia-council-at-the-ambassadorial-level-at-nato-headquarters-in-brussels-in-the-next-t.md)
-_Context: Russia, NATO-Russia Council, NATO-Russia relations, NATO, NATO headquarters, Brussels_
+_Context: NATO, Russia, NATO-Russia Council, NATO headquarters, Brussels, NATO-Russia relations_
 
 ##### Egypt-Italy relations
 ### [Italy recalls its ambassador to Egypt for consultations in protest over the lack of progress in a probe into the fate of murdered Cambridge University student Giulio Regeni. "We want only one thing, the truth about what happened to Giulio," Foreign Minister Paolo Gentiloni said on Friday. ](/news/2016/04/8/italy-recalls-its-ambassador-to-egypt-for-consultations-in-protest-over-the-lack-of-progress-in-a-probe-into-the-fate-of-murdered-cambridge.md)
@@ -77,7 +77,7 @@ Belgian prosecutors say a suspect has admitted being the &quot;man in the hat&qu
 
 ##### Panama Papers
 ### [El Salvador officials seize documents and equipment during a raid of the local offices of Panamanian law firm Mossack Fonseca. Attorney General Douglas Melendez says authorities interviewed seven employees, and confiscated 20 computers and some documents. ](/news/2016/04/8/el-salvador-officials-seize-documents-and-equipment-during-a-raid-of-the-local-offices-of-panamanian-law-firm-mossack-fonseca-attorney-gene.md)
-_Context: Panama Papers, Mossack Fonseca, El Salvador, Panama_
+_Context: Panama, El Salvador, Mossack Fonseca, Panama Papers_
 
 ##### Occupy movement
 ### [The French occupy movement known as Nuit debout enters its ninth day, "March 40," spreading across dozens of French cities and to Belgium, Germany, and Spain. ](/news/2016/04/8/the-french-occupy-movement-known-as-nuit-debout-enters-its-ninth-day-march-40-spreading-across-dozens-of-french-cities-and-to-belgium-g.md)
@@ -85,7 +85,7 @@ For more than a week, vast nocturnal gatherings have spread across France in a c
 
 ##### Djiboutian presidential election, 2016
 ### [Voters in Djibouti go to the polls for the first round of voting in a presidential election with current President Ismail Omar Guelleh winning a fourth term in office. ](/news/2016/04/8/voters-in-djibouti-go-to-the-polls-for-the-first-round-of-voting-in-a-presidential-election-with-current-president-ismaa-l-omar-guelleh-winn.md)
-_Context: President, Djibouti, Djiboutian presidential election, 2016, Ismail Omar Guelleh_
+_Context: President, Djiboutian presidential election, 2016, Djibouti, Ismail Omar Guelleh_
 
 ##### Myanmar
 ### [A Myanmar court releases 69 jailed student activists in the first wave of amnesty for the country's political prisoners, with more releases expected. This comes after State Counsellor Aung San Suu Kyi vowed to push for the release of all the political prisoners in Myanmar. ](/news/2016/04/8/a-myanmar-court-releases-69-jailed-student-activists-in-the-first-wave-of-amnesty-for-the-country-s-political-prisoners-with-more-releases.md)

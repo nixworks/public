@@ -5,7 +5,7 @@ Formats: [HTML](2011/08/9/index.html)  [JSON](2011/08/9/index.json)  [XML](2011/
 
 ##### Australian
 ### [Australians fill out the 2011 Australian census. ](/news/2011/08/9/australians-fill-out-the-2011-australian-census.md)
-_Context: 2011 Australian census, Australian_
+_Context: Australian, 2011 Australian census_
 
 ##### Trend
 ### [The Australian Commonwealth and Westpac banks cut fixed home loan rates. ](/news/2011/08/9/the-australian-commonwealth-and-westpac-banks-cut-fixed-home-loan-rates.md)
@@ -33,7 +33,7 @@ A series of recall votes is a culmination of a political year that is said to gi
 
 ##### Penny Wong
 ### [Penny Wong, the first openly gay member of the Australian Cabinet, announces that her partner will be having a baby. ](/news/2011/08/9/penny-wong-the-first-openly-gay-member-of-the-australian-cabinet-announces-that-her-partner-will-be-having-a-baby.md)
-_Context: Australian Cabinet, Penny Wong_
+_Context: Penny Wong, Australian Cabinet_
 
 ## [Previous Day...](/news/2011/08/8/index.md)
 

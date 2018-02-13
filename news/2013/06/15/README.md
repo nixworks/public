@@ -25,7 +25,7 @@ MANILA, Philippines &ndash; More than 10,000 families in Cotabato were evacuated
 
 ##### Gulfstream IV
 ### [A Gulfstream IV aircraft carrying former President George W. Bush from Philadelphia International Airport to Dallas Love Field is diverted safely to Louisville International Airport when the pilot smells smoke; Bush arrived safely in Dallas early Sunday. ](/news/2013/06/15/a-gulfstream-iv-aircraft-carrying-former-president-george-w-bush-from-philadelphia-international-airport-to-dallas-love-field-is-diverted-s.md)
-_Context: Dallas Love Field, Louisville International Airport, Gulfstream IV, Philadelphia, George W. Bush_
+_Context: Louisville International Airport, George W. Bush, Philadelphia, Dallas Love Field, Gulfstream IV_
 
 ##### Piedras Negras, Mexico
 ### [The City of Piedras Negras, Mexico was devastated by the June 14-15, 2013 flood affecting an estimated 40,000-50,000 residents, approximately 30-35% of its city residents, with more than 62 residential subdivisions (Colonias) flooded. ](/news/2013/06/15/the-city-of-piedras-negras-mexico-was-devastated-by-the-june-14-15-2013-flood-affecting-an-estimated-40-000-50-000-residents-approximatel.md)

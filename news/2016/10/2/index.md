@@ -13,7 +13,7 @@ Hurricane Matthew heads towards Jamaica, with wind speeds strong enough to wreck
 
 ##### 2016 Ethiopian protests
 ### [Police allegedly attack Oromo protestors at a religious festival in Bishoftu, Ethiopia causing a stampede which kills dozens of people. ](/news/2016/10/2/police-allegedly-attack-oromo-protestors-at-a-religious-festival-in-bishoftu-ethiopia-causing-a-stampede-which-kills-dozens-of-people.md)
-_Context: Oromo, Bishoftu, 2016 Ethiopian protests, Ethiopia_
+_Context: 2016 Ethiopian protests, Oromo, Bishoftu, Ethiopia_
 
 ##### Ravn Alaska
 ### [A Ravn Alaska Cessna 208B crashes near Togiak, Alaska killing three people. ](/news/2016/10/2/a-ravn-alaska-cessna-208b-crashes-near-togiak-alaska-killing-three-people.md)
@@ -41,7 +41,7 @@ Hungarians have overwhelmingly rejected the EU&#39;s refugee quota plan in a ref
 
 ##### Marino Riccardi
 ### [Marino Riccardi and Fabio Berardi take office as the Captains Regent of San Marino. ](/news/2016/10/2/marino-riccardi-and-fabio-berardi-take-office-as-the-captains-regent-of-san-marino.md)
-_Context: San Marino, Fabio Berardi, Captains Regent, Marino Riccardi_
+_Context: Captains Regent, San Marino, Fabio Berardi, Marino Riccardi_
 
 ## [Previous Day...](/news/2016/10/1/index.md)
 

@@ -5,11 +5,11 @@ Formats: [HTML](2008/09/12/index.html)  [JSON](2008/09/12/index.json)  [XML](200
 
 ##### Northwest Orient Airlines Flight 2501
 ### [ Northwest Orient Airlines Flight 2501: Fifty years after the airliner vanished over Lake Michigan, it is claimed that human remains washed ashore and were buried without the relatives' knowledge in an unmarked mass grave.](/news/2008/09/12/northwest-orient-airlines-flight-2501-fifty-years-after-the-airliner-vanished-over-lake-michigan-it-is-claimed-that-human-remains-washed.md)
-_Context: Northwest Orient Airlines Flight 2501, Lake Michigan_
+_Context: Lake Michigan, Northwest Orient Airlines Flight 2501_
 
 ##### 2008 unrest in Bolivia
 ### [ Bolivia declares martial law in the department of Pando following days of clashes between supporters of the national and local governments. ](/news/2008/09/12/bolivia-declares-martial-law-in-the-department-of-pando-following-days-of-clashes-between-supporters-of-the-national-and-local-governments.md)
-_Context: Bolivia, martial law, 2008 unrest in Bolivia, Pando_
+_Context: Bolivia, 2008 unrest in Bolivia, Pando, martial law_
 
 ##### United Kingdom
 ### [ The collapse of the United Kingdom's third largest tour operator XL Leisure Group, leaves over 85,000 British holidaymakers stranded abroad. ](/news/2008/09/12/the-collapse-of-the-united-kingdom-s-third-largest-tour-operator-xl-leisure-group-leaves-over-85-000-british-holidaymakers-stranded-abroad.md)
@@ -21,7 +21,7 @@ Rescue teams worked frantically into this morning after a Metrolink passenger tr
 
 ##### Car bomb
 ### [ A car bomb in the mainly Shiite town of Dujail in Iraq kills at least 32 people and injures another 43. ](/news/2008/09/12/a-car-bomb-in-the-mainly-shiite-town-of-dujail-in-iraq-kills-at-least-32-people-and-injures-another-43.md)
-_Context: Dujail, car bomb, Shiite, Iraq_
+_Context: Iraq, Shiite, car bomb, Dujail_
 
 ##### Thailand
 ### [ The Thai People's Power Party agrees not to renominate ousted Prime Minister of Thailand Samak Sundaravej for the position following objections from the other members of the coalition. ](/news/2008/09/12/the-thai-people-s-power-party-agrees-not-to-renominate-ousted-prime-minister-of-thailand-samak-sundaravej-for-the-position-following-object.md)
@@ -29,19 +29,19 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Pakistan Army
 ### [ The Pakistan Army claims that at least 30 militants and 2 soldiers have been killed in fighting in the Bajaur region of the Federally Administered Tribal Areas. ](/news/2008/09/12/the-pakistan-army-claims-that-at-least-30-militants-and-2-soldiers-have-been-killed-in-fighting-in-the-bajaur-region-of-the-federally-admin.md)
-_Context: Federally Administered Tribal Areas, Pakistan Army, Bajaur_
+_Context: Bajaur, Pakistan Army, Federally Administered Tribal Areas_
 
 ##### Malaysia
 ### [ The Malaysian government arrests the editor and prominent blogger activist Raja Petra Kamarudin of the Malaysia Today website, a journalist from Sin Chew Jit Poh and opposition politician Teresa Kok under the Internal Security Act. ](/news/2008/09/12/the-malaysian-government-arrests-the-editor-and-prominent-blogger-activist-raja-petra-kamarudin-of-the-malaysia-today-website-a-journalist.md)
-_Context: Raja Petra Kamarudin, Teresa Kok, Malaysia, Malaysia Today, Sin Chew Jit Poh, indefinite detention without trial_
+_Context: indefinite detention without trial, Sin Chew Jit Poh, Teresa Kok, Raja Petra Kamarudin, Malaysia Today, Malaysia_
 
-##### American
+##### U.S.
 ### [ The United States-led coalition claims to kill at least 10 militants in fighting in Afghanistan. ](/news/2008/09/12/the-united-states-led-coalition-claims-to-kill-at-least-10-militants-in-fighting-in-afghanistan.md)
-_Context: Afghanistan, American_
+_Context: U.S., Afghanistan_
 
-##### Prime Minister
+##### Prime minister
 ### [ The Prime Minister of New Zealand Helen Clark calls an election for November 8. ](/news/2008/09/12/the-prime-minister-of-new-zealand-helen-clark-calls-an-election-for-november-8.md)
-_Context: November 8, Prime Minister, election, Helen Clark_
+_Context: Helen Clark, prime minister, November 8, election_
 
 ##### Kim Jong-Il
 ### [ North Korean leader Kim Jong-Il is said by Chinese authorities to be suffering irregular convulsions following a stroke which kept him from attending the country's 60th anniversary celebration. Chinese authorities believe his long-term ability to govern will be impeded. ](/news/2008/09/12/north-korean-leader-kim-jong-il-is-said-by-chinese-authorities-to-be-suffering-irregular-convulsions-following-a-stroke-which-kept-him-from.md)
@@ -49,7 +49,7 @@ _Context: Kim Jong-Il_
 
 ##### Constitutional Court
 ### [ The Constitutional Court of Spain rules that the Government of the Basque Country could not call a planned referendum on working towards self-determination as only the Government of Spain could call such a vote; the Basque Government said it would appeal to the European Court of Human Rights. ](/news/2008/09/12/the-constitutional-court-of-spain-rules-that-the-government-of-the-basque-country-could-not-call-a-planned-referendum-on-working-towards-se.md)
-_Context: Basque, self-determination, European Court of Human Rights, Spanish government, Constitutional Court, planned referendum_
+_Context: Spanish government, Constitutional Court, planned referendum, Basque, self-determination, European Court of Human Rights_
 
 ## [Previous Day...](/news/2008/09/11/index.md)
 

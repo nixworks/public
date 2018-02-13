@@ -5,7 +5,7 @@ Formats: [HTML](2011/09/27/index.html)  [JSON](2011/09/27/index.json)  [XML](201
 
 ##### Republic of Dagestan
 ### [One policeman and seven civilians die as a result of car bombing in the Republic of Dagestan, Russia. ](/news/2011/09/27/one-policeman-and-seven-civilians-die-as-a-result-of-car-bombing-in-the-republic-of-dagestan-russia.md)
-_Context: Republic of Dagestan, Russia_
+_Context: Russia, Republic of Dagestan_
 
 ##### Arab Gas Pipeline
 ### [An explosion destroys the Arab Gas Pipeline in Egypt's Sinai Peninsula supplying natural gas to Jordan and Israel. ](/news/2011/09/27/an-explosion-destroys-the-arab-gas-pipeline-in-egypt-s-sinai-peninsula-supplying-natural-gas-to-jordan-and-israel.md)
@@ -17,15 +17,15 @@ Women will be allowed to serve in frontline combat roles within five years under
 
 ##### Syrian Army
 ### [The Syrian Army launches an attack on the town of Rastan near the city of Homs. ](/news/2011/09/27/the-syrian-army-launches-an-attack-on-the-town-of-rastan-near-the-city-of-homs.md)
-_Context: Homs, Syrian Army, Rastan_
+_Context: Syrian Army, Homs, Rastan_
 
 ##### Abu Sayyaf
 ### [Abu Sayyaf gunmen attack pro-government militia in the township of Sumisip on Basilan Island in the Philippines, with six people reported killed and five wounded. ](/news/2011/09/27/abu-sayyaf-gunmen-attack-pro-government-militia-in-the-township-of-sumisip-on-basilan-island-in-the-philippines-with-six-people-reported-ki.md)
-_Context: Abu Sayyaf, Philippines, Sumisip, Basilan Island_
+_Context: Abu Sayyaf, Basilan Island, Philippines, Sumisip_
 
 ##### Suicide bomber
 ### [A suicide bomber kills at least two people in the city of Lashkar Gah in Afghanistan's Helmand Province. ](/news/2011/09/27/a-suicide-bomber-kills-at-least-two-people-in-the-city-of-lashkar-gah-in-afghanistan-s-helmand-province.md)
-_Context: Lashkar Gah, suicide bomber, Helmand Province, Afghanistan_
+_Context: suicide bomber, Lashkar Gah, Afghanistan, Helmand Province_
 
 ##### Australia
 ### [Visitors to Australia face delays as Australian Customs and Border Protection Service staff go on strike over a pay dispute. ](/news/2011/09/27/visitors-to-australia-face-delays-as-australian-customs-and-border-protection-service-staff-go-on-strike-over-a-pay-dispute.md)
@@ -33,7 +33,7 @@ _Context: Australian Customs and Border Protection Service, Australia_
 
 ##### South Korea
 ### [South Korea's Financial Services Commission announces plans to pump more money into suspended local savings banks. ](/news/2011/09/27/south-korea-s-financial-services-commission-announces-plans-to-pump-more-money-into-suspended-local-savings-banks.md)
-_Context: Financial Services Commission, South Korea_
+_Context: South Korea, Financial Services Commission_
 
 ##### Ninoy Aquino International Airport
 ### [Thousands of airline passengers are stranded at the Ninoy Aquino International Airport in Manila after Philippine Airlines staff stage a walkout. ](/news/2011/09/27/thousands-of-airline-passengers-are-stranded-at-the-ninoy-aquino-international-airport-in-manila-after-philippine-airlines-staff-stage-a-wal.md)
@@ -73,11 +73,11 @@ _Context: CEO, Melli Bank, Saderat Bank_
 
 ##### Hijacker
 ### [Fugitive hijacker George Wright is caught in Portugal, thirty-nine years after he and members of the Black Liberation Army took control of Delta Air Lines Flight 841 and flew it to Algeria. ](/news/2011/09/27/fugitive-hijacker-george-wright-is-caught-in-portugal-thirty-nine-years-after-he-and-members-of-the-black-liberation-army-took-control-of-d.md)
-_Context: hijacker, Black Liberation Army, George Wright, Delta Air Lines Flight 841, Portugal_
+_Context: George Wright, hijacker, Delta Air Lines Flight 841, Portugal, Black Liberation Army_
 
 ##### Trial of Dr Conrad Murray
 ### [The trial of Dr Conrad Murray for manslaughter in connection to the death of American singer Michael Jackson begins in California. ](/news/2011/09/27/the-trial-of-dr-conrad-murray-for-manslaughter-in-connection-to-the-death-of-american-singer-michael-jackson-begins-in-california.md)
-_Context: manslaughter by gross negligence, Michael Jackson, California, trial of Dr Conrad Murray, death of Michael Jackson_
+_Context: death of Michael Jackson, California, trial of Dr Conrad Murray, manslaughter by gross negligence, Michael Jackson_
 
 ## [Previous Day...](/news/2011/09/26/index.md)
 

@@ -9,7 +9,7 @@ CNN HAS apologised for printing a story on its website that incorrectly accused 
 
 ##### Irish
 ### [ Irish Independent Member of Parliament Noel Grealish withdraws his support for the country's government over the issue of pay cuts in the public sector. The move reduces the administration of Taoiseach Brian Cowen to a minority government. ](/news/2009/12/5/irish-independent-member-of-parliament-noel-grealish-withdraws-his-support-for-the-country-s-government-over-the-issue-of-pay-cuts-in-the-p.md)
-_Context: Noel Grealish, Irish, TD, country's government, Independent, public sector, minority government, Brian Cowen, Taoiseach_
+_Context: minority government, public sector, Irish, Brian Cowen, TD, Independent, Noel Grealish, Taoiseach, country's government_
 
 ##### 2010 FIFA World Cup
 ### [ More than one million tickets for the 2010 FIFA World Cup in South Africa go on sale globally. ](/news/2009/12/5/more-than-one-million-tickets-for-the-2010-fifa-world-cup-in-south-africa-go-on-sale-globally.md)
@@ -17,7 +17,7 @@ _Context: 2010 FIFA World Cup_
 
 ##### Chile
 ### [ Thousands of people attend the funeral of Chilean singer and national icon Vctor Jara in Santiago, reburied 36 years after his death via torture in the 1973 military coup carried out by Augusto Pinochet. ](/news/2009/12/5/thousands-of-people-attend-the-funeral-of-chilean-singer-and-national-icon-victor-jara-in-santiago-reburied-36-years-after-his-death-via-t.md)
-_Context: Santiago, Vctor Jara, Chile, Augusto Pinochet, 1973 Chilean coup d'tat_
+_Context: 1973 Chilean coup d'tat, Augusto Pinochet, Santiago, Chile, Vctor Jara_
 
 ##### Bhumibol Adulyadej
 ### [ Bhumibol Adulyadej, King of Thailand, returns to his hospital bed in Bangkok after making a brief public appearance to mark his 82nd birthday. ](/news/2009/12/5/bhumibol-adulyadej-king-of-thailand-returns-to-his-hospital-bed-in-bangkok-after-making-a-brief-public-appearance-to-mark-his-82nd-birthd.md)
@@ -33,15 +33,15 @@ _Context: Italian Prime Minister, Silvio Berlusconi_
 
 ##### Russian President
 ### [ Russian President Dmitry Medvedev declares a national day of mourning on December 7 following a nightclub fire which resulted in 109 deaths yesterday. ](/news/2009/12/5/russian-president-dmitry-medvedev-declares-a-national-day-of-mourning-on-december-7-following-a-nightclub-fire-which-resulted-in-109-deaths.md)
-_Context: Russian President, national day of mourning, nightclub fire, Dmitry Medvedev_
+_Context: national day of mourning, Russian President, nightclub fire, Dmitry Medvedev_
 
 ##### Guinea
 ### [ Guinea's vice-president and defence minister Sekouba Konat of the ruling National Council for Democracy and Development takes charge of the country after leader Moussa Dadis Camara was shot in an assassination attempt. ](/news/2009/12/5/guinea-s-vice-president-and-defence-minister-sekouba-konate-of-the-ruling-national-council-for-democracy-and-development-takes-charge-of-th.md)
-_Context: Moussa Dadis Camara, Sekouba Konat, Guinea, junta_
+_Context: Guinea, junta, Moussa Dadis Camara, Sekouba Konat_
 
 ##### President
 ### [ The President of the Philippines Gloria Macapagal-Arroyo declares martial law in Maguindanao following the Maguindanao massacre. ](/news/2009/12/5/the-president-of-the-philippines-gloria-macapagal-arroyo-declares-martial-law-in-maguindanao-following-the-maguindanao-massacre.md)
-_Context: Maguindanao massacre, President, martial law, Gloria Macapagal-Arroyo, Maguindanao_
+_Context: Maguindanao massacre, Gloria Macapagal-Arroyo, Maguindanao, President, martial law_
 
 ##### David Christopher Kelly
 ### [ Six doctors in the United Kingdom are taking legal action to demand a formal inquest into the death of government scientist David Christopher Kelly. ](/news/2009/12/5/six-doctors-in-the-united-kingdom-are-taking-legal-action-to-demand-a-formal-inquest-into-the-death-of-government-scientist-david-christoph.md)

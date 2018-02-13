@@ -13,7 +13,7 @@ Royal Dutch Shell (RDSa.L) shareholders approved its $50 billion takeover of BG 
 
 ##### January 2016 United States blizzard
 ### [The death toll from the blizzard that hit the Eastern United States rises to 50. ](/news/2016/01/27/the-death-toll-from-the-blizzard-that-hit-the-eastern-united-states-rises-to-50.md)
-_Context: Eastern U.S., January 2016 United States blizzard_
+_Context: January 2016 United States blizzard, Eastern U.S._
 
 ##### Zika virus outbreak
 ### [Several Zika virus cases have been reported in Denmark, Italy, Spain, the United Kingdom and Switzerland. ](/news/2016/01/27/several-zika-virus-cases-have-been-reported-in-denmark-italy-spain-the-united-kingdom-and-switzerland.md)
@@ -33,7 +33,7 @@ The Marshall Islands parliament has elected Hilda Heine as the country&#39;s new
 
 ##### November 2015 Paris attacks
 ### [Christiane Taubira, differing with President Francois Hollande concerning pending terrorist-citizenship legislation, resigns as the Minister of Justice in France. ](/news/2016/01/27/christiane-taubira-differing-with-president-franassois-hollande-concerning-pending-terrorist-citizenship-legislation-resigns-as-the-ministe.md)
-_Context: France, Francois Hollande, November 2015 Paris attacks, French President, Christiane Taubira, Minister of Justice_
+_Context: November 2015 Paris attacks, Christiane Taubira, Francois Hollande, French President, Minister of Justice, France_
 
 ##### Vietnam
 ### [Vietnam reelects conservative Nguyen Phu Trong as General Secretary of the Communist Party of Vietnam. Deputy Prime Minister Nguyen Xuan Phuc, a member of the Politburo, is expected to replace Nguyen TCNYn Dung as prime minister. Dung is not eligible for another term. ](/news/2016/01/27/vietnam-reelects-conservative-nguya-n-phao-tra-ng-as-general-secretary-of-the-communist-party-of-vietnam-deputy-prime-minister-nguya-n-x.md)
@@ -41,7 +41,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Artificial intelligence
 ### [ A computer program called AlphaGo, powered by DeepMind, beats the European Go champion Fan Hui, 5-0. This is the first time artificial intelligence has defeated a professional player in this ancient Chinese abstract strategy board game. ](/news/2016/01/27/a-computer-program-called-alphago-powered-by-deepmind-beats-the-european-go-champion-fan-hui-5-0-this-is-the-first-time-artificial-inte.md)
-_Context: DeepMind, AlphaGo, board game, Go, computer program, abstract strategy, Artificial intelligence, ancient Chinese, artificial intelligence_
+_Context: Artificial intelligence, abstract strategy, AlphaGo, artificial intelligence, computer program, board game, Go, ancient Chinese, DeepMind_
 
 ## [Previous Day...](/news/2016/01/26/index.md)
 

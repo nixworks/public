@@ -5,15 +5,15 @@ Formats: [HTML](2007/06/10/index.html)  [JSON](2007/06/10/index.json)  [XML](200
 
 ##### Palestinian Journalist Syndicate
 ### [ The Palestinian Journalist Syndicate criticizes Islamic Jihad militants for using a vehicle marked with a "TV" sign to approach Gaza's frontier border with Israel in an attempt to kidnap an Israel Defense Forces soldier from a position across the border. ](/news/2007/06/10/the-palestinian-journalist-syndicate-criticizes-islamic-jihad-militants-for-using-a-vehicle-marked-with-a-tv-sign-to-approach-gaza-s-fron.md)
-_Context: Hamas, Israeli Army, Israel, Palestinian Journalist Syndicate, Gaza Strip_
+_Context: Hamas, Israel, Palestinian Journalist Syndicate, Gaza Strip, Israeli Army_
 
 ##### Sunday talk show
 ### [ On the Sunday talk show "Meet the Press", former U.S. Secretary of State Colin Powell calls for the immediate closure of the Guantanamo Bay detention camp. ](/news/2007/06/10/on-the-sunday-talk-show-meet-the-press-former-u-s-secretary-of-state-colin-powell-calls-for-the-immediate-closure-of-the-guantanamo-bay.md)
-_Context: Colin Powell, Sunday talk show, detainee, United States Secretary of State, Meet the Press_
+_Context: Colin Powell, detainee, Meet the Press, United States Secretary of State, Sunday talk show_
 
 ##### France
 ### [ France holds a parliamentary election; early projections indicate that President Nicolas Sarkozy's center-right UMP party will secure a comfortable victory. ](/news/2007/06/10/france-holds-a-parliamentary-election-early-projections-indicate-that-president-nicolas-sarkozy-s-center-right-ump-party-will-secure-a-com.md)
-_Context: Nicolas Sarkozy, France, go to the polls, President, center-right, UMP_
+_Context: France, Nicolas Sarkozy, center-right, President, UMP, go to the polls_
 
 ##### Belgium
 ### [ Belgium holds a general election. Liberal Prime Minister Guy Verhofstadt is expected to lose power to the Christian Democrats of Yves Leterme. ](/news/2007/06/10/belgium-holds-a-general-election-liberal-prime-minister-guy-verhofstadt-is-expected-to-lose-power-to-the-christian-democrats-of-yves-leter.md)
@@ -25,7 +25,7 @@ _Context: Philippines_
 
 ##### Tv series
 ### [ The hit tv series The Sopranos aired its final episode. ](/news/2007/06/10/the-hit-tv-series-the-sopranos-aired-its-final-episode.md)
-_Context: tv series, The Sopranos_
+_Context: The Sopranos, tv series_
 
 ## [Previous Day...](/news/2007/06/9/index.md)
 

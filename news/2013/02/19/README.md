@@ -17,11 +17,11 @@ A Yemeni air force plane crashed in the capital Sanaa on Tuesday, killing at lea
 
 ##### Country Club Plaza
 ### [Two people are missing and at least 14 injured after a car struck a gas main causing an explosion at the Country Club Plaza in the American city of Kansas City, Missouri. ](/news/2013/02/19/two-people-are-missing-and-at-least-14-injured-after-a-car-struck-a-gas-main-causing-an-explosion-at-the-country-club-plaza-in-the-american.md)
-_Context: American, Country Club Plaza, Missouri, Kansas City_
+_Context: Country Club Plaza, Missouri, U.S., Kansas City_
 
 ##### European sovereign-debt crisis
 ### [European sovereign-debt crisis: Workers for the Spanish flag carrier airline Iberia strike over plans to axe 3,807 jobs. ](/news/2013/02/19/european-sovereign-debt-crisis-workers-for-the-spanish-flag-carrier-airline-iberia-strike-over-plans-to-axe-3-807-jobs.md)
-_Context: European sovereign-debt crisis, Spain, flag carrier, airline, Iberia_
+_Context: flag carrier, Iberia, Spain, European sovereign-debt crisis, airline_
 
 ##### Malaysia
 ### [The governments of Singapore and Malaysia announce plans to build a high-speed rail link between the city-state of Singapore and Kuala Lumpur by 2020. ](/news/2013/02/19/the-governments-of-singapore-and-malaysia-announce-plans-to-build-a-high-speed-rail-link-between-the-city-state-of-singapore-and-kuala-lumpu.md)
@@ -41,7 +41,7 @@ North Korea has been criticised for remarks about the &quot;final destruction&qu
 
 ##### Shooting spree
 ### [A one-man carjacking and shooting spree in Orange County, California, United States, results in the death of 4 people including the alleged gunman. ](/news/2013/02/19/a-one-man-carjacking-and-shooting-spree-in-orange-county-california-united-states-results-in-the-death-of-4-people-including-the-alleged.md)
-_Context: shooting spree, Orange County, American, California_
+_Context: California, shooting spree, Orange County, U.S._
 
 ##### South Africa
 ### [A memorial service is held for South African Reeva Steenkamp, who was shot dead at the home of athlete Oscar Pistorius last week. Pistorius faced murder hearings. ](/news/2013/02/19/a-memorial-service-is-held-for-south-african-reeva-steenkamp-who-was-shot-dead-at-the-home-of-athlete-oscar-pistorius-last-week-pistorius.md)
@@ -49,11 +49,11 @@ Adam Steenkamp, the brother of Reeva Steenkamp, says her family wants to remembe
 
 ##### City Hall
 ### [The City Hall of the Canadian city of Montreal is shut down as the Quebec police conduct anti-corruption raids. ](/news/2013/02/19/the-city-hall-of-the-canadian-city-of-montreal-is-shut-down-as-the-quebec-police-conduct-anti-corruption-raids.md)
-_Context: Canadian, Montreal, Quebec police, City Hall, anti-corruption_
+_Context: Canadian, Quebec police, City Hall, Montreal, anti-corruption_
 
 ##### Christine Milne
 ### [Christine Milne, the leader of The Australian Greens, announces that the party has ended its agreement with the Australian Labor Party which led to the formation of the minority government led by Prime Minister Julia Gillard. ](/news/2013/02/19/christine-milne-the-leader-of-the-australian-greens-announces-that-the-party-has-ended-its-agreement-with-the-australian-labor-party-which.md)
-_Context: The Australian Greens, Julia Gillard, Australian Labor Party, Christine Milne, Australian Prime Minister_
+_Context: Julia Gillard, Australian Labor Party, The Australian Greens, Australian Prime Minister, Christine Milne_
 
 ##### Armenia
 ### [Official partial returns from the Armenian presidential election indicate that incumbent President Serzh Sargsyan will be reelected in a landslide with the leading Opposition candidate Raffi Hovannisian raising concerns about irregularities. ](/news/2013/02/19/official-partial-returns-from-the-armenian-presidential-election-indicate-that-incumbent-president-serzh-sargsyan-will-be-reelected-in-a-lan.md)
@@ -65,7 +65,7 @@ Tunisian Prime Minister Hamadi Jebali resigns after failing to form a new govern
 
 ##### 2013 Bulgarian protests
 ### [2013 Bulgarian protests: At least 10 people are injured in the Bulgarian capital Sofia, as tens of thousands turn up for rallies in 10 cities, a day after Prime Minister Boyko Borisov sacked his Finance Minister Simeon Djankov. The government revokes the license of Czech company CEZ due to high electricity prices, which helped fuel the 9-day protests. ](/news/2013/02/19/2013-bulgarian-protests-at-least-10-people-are-injured-in-the-bulgarian-capital-sofia-as-tens-of-thousands-turn-up-for-rallies-in-10-citie.md)
-_Context: Czech Republic, 2013 Bulgarian protests, Sofia, Prime Minister, Boyko Borisov, CEZ, Bulgaria, Simeon Djankov_
+_Context: Czech Republic, Boyko Borisov, Simeon Djankov, CEZ, Sofia, Prime Minister, Bulgaria, 2013 Bulgarian protests_
 
 ##### Nepal
 ### [Nepal's major political parties agree to form an interim government led by the Supreme Court Chief Justice Khil Raj Regmi, pending a new Constituent Assembly election to write a new constitution. ](/news/2013/02/19/nepal-s-major-political-parties-agree-to-form-an-interim-government-led-by-the-supreme-court-chief-justice-khil-raj-regmi-pending-a-new-con.md)

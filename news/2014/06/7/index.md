@@ -17,11 +17,11 @@ Flash flooding in the remote northern Afghan province of Baghlan kills at least 
 
 ##### Tracy Morgan
 ### [Actor-comedian Tracy Morgan is taken to ICU at Robert Wood Johnson University Hospital following a six-vehicle chain-reaction crash on the New Jersey Turnpike that killed friend & fellow comedian James McNair. ](/news/2014/06/7/actor-comedian-tracy-morgan-is-taken-to-icu-at-robert-wood-johnson-university-hospital-following-a-six-vehicle-chain-reaction-crash-on-the-n.md)
-_Context: New Jersey Turnpike, Tracy Morgan, Robert Wood Johnson University Hospital, James McNair_
+_Context: Robert Wood Johnson University Hospital, New Jersey Turnpike, Tracy Morgan, James McNair_
 
 ##### President
 ### [Ten supporters of former President of Egypt Mohammed Morsi's Muslim Brotherhood movement are sentenced to death in absentia for allegedly inciting violence and blocking a road last July. ](/news/2014/06/7/ten-supporters-of-former-president-of-egypt-mohammed-morsi-s-muslim-brotherhood-movement-are-sentenced-to-death-in-absentia-for-allegedly-in.md)
-_Context: in absentia, Muslim Brotherhood, President, Mohammed Morsi_
+_Context: President, Mohammed Morsi, in absentia, Muslim Brotherhood_
 
 ##### Altaf Hussain
 ### [Altaf Hussain, the exiled founder of the Muttahida Qaumi Movement in Pakistan, is released in London on money laundering charges. ](/news/2014/06/7/altaf-hussain-the-exiled-founder-of-the-muttahida-qaumi-movement-in-pakistan-is-released-in-london-on-money-laundering-charges.md)
@@ -37,7 +37,7 @@ Petro Poroshenko will be sworn in on Saturday as Ukraine&#039;s president, buoye
 
 ##### Binyamin Ben-Eliezer
 ### [Binyamin Ben-Eliezer of the Israeli Labor Party withdraws from the presidential election on 10 June as a result of a graft probe. ](/news/2014/06/7/binyamin-ben-eliezer-of-the-israeli-labor-party-withdraws-from-the-presidential-election-on-10-june-as-a-result-of-a-graft-probe.md)
-_Context: Binyamin Ben-Eliezer, presidential election, graft, Israeli Labor Party_
+_Context: Israeli Labor Party, presidential election, Binyamin Ben-Eliezer, graft_
 
 ##### Michael Gove
 ### [UK Education Secretary Michael Gove apologises to Prime Minister David Cameron over a row with Home Secretary Theresa May about how to tackle Islamic extremism following recent revelations about a Muslim plot to take over schools in Birmingham. ](/news/2014/06/7/uk-education-secretary-michael-gove-apologises-to-prime-minister-david-cameron-over-a-row-with-home-secretary-theresa-may-about-how-to-tackl.md)

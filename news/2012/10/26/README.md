@@ -5,7 +5,7 @@ Formats: [HTML](2012/10/26/index.html)  [JSON](2012/10/26/index.json)  [XML](201
 
 ##### Latest round of sectarian clashes
 ### [Latest round of sectarian clashes between Buddhists and Rohingya Muslims kill at least 64 people in western Burma; 3,200 Rohingya have been displaced. ](/news/2012/10/26/latest-round-of-sectarian-clashes-between-buddhists-and-rohingya-muslims-kill-at-least-64-people-in-western-burma-3-200-rohingya-have-been.md)
-_Context: Buddhist, Latest round of sectarian clashes, Burma, Rohingya_
+_Context: Burma, Rohingya, Latest round of sectarian clashes, Buddhist_
 
 ##### Lakhdar Brahimi
 ### [Fighting in Syria continues as the ceasefire agreement mediated by U.N. special envoy Lakhdar Brahimi to occur during the Muslim holiday of Eid al-Adha begins. ](/news/2012/10/26/fighting-in-syria-continues-as-the-ceasefire-agreement-mediated-by-u-n-special-envoy-lakhdar-brahimi-to-occur-during-the-muslim-holiday-of.md)
@@ -29,7 +29,7 @@ _Context: Russia, Sergei Udaltsov_
 
 ##### Italy
 ### [Former Italian Prime Minister Silvio Berlusconi is sentenced to four years imprisonment for fiscal fraud. ](/news/2012/10/26/former-italian-prime-minister-silvio-berlusconi-is-sentenced-to-four-years-imprisonment-for-fiscal-fraud.md)
-_Context: Italy, Silvio Berlusconi_
+_Context: Silvio Berlusconi, Italy_
 
 ##### China
 ### [Chinese politician Bo Xilai is stripped of his membership of the National People's Congress. ](/news/2012/10/26/chinese-politician-bo-xilai-is-stripped-of-his-membership-of-the-national-people-s-congress.md)

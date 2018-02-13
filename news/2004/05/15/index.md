@@ -9,7 +9,7 @@ Recent discoveries of sarin nerve gas and mustard gas in Iraq renew questions ab
 
 ##### Ukraine
 ### [ Ukraine wins the 49th annual Eurovision Song Contest. ](/news/2004/05/15/ukraine-wins-the-49th-annual-eurovision-song-contest.md)
-_Context: Ukraine, Eurovision Song Contest, 49th_
+_Context: 49th, Eurovision Song Contest, Ukraine_
 
 ##### FIFA
 ### [ FIFA announces that the 2010 Football World Cup will be held in South Africa. ](/news/2004/05/15/fifa-announces-that-the-2010-football-world-cup-will-be-held-in-south-africa.md)
@@ -21,7 +21,7 @@ _Context: Preakness, Smarty Jones_
 
 ##### Arsenal
 ### [ Arsenal defeat Leicester City 2-1 in the Premier League to become the first team to go unbeaten in the top tier English league since Preston North End in the 1888-1889 season, going 26W-12D-0L. ](/news/2004/05/15/arsenal-defeat-leicester-city-2-1-in-the-premier-league-to-become-the-first-team-to-go-unbeaten-in-the-top-tier-english-league-since-presto.md)
-_Context: English Premier League, Arsenal, Leicester City, 26W-12D-0L_
+_Context: Arsenal, 26W-12D-0L, Leicester City, English Premier League_
 
 ## [Previous Day...](/news/2004/05/14/index.md)
 

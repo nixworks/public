@@ -5,11 +5,11 @@ Formats: [HTML](2015/09/25/index.html)  [JSON](2015/09/25/index.json)  [XML](201
 
 ##### 2015 Burkinab coup d'tat
 ### [Burkina Faso's cabinet dissolves the elite presidential guard behind last week's coup d'tat, creates a commission to investigate these events, and dismisses the minister in charge of security. ](/news/2015/09/25/burkina-faso-s-cabinet-dissolves-the-elite-presidential-guard-behind-last-week-s-coup-d-etat-creates-a-commission-to-investigate-these-even.md)
-_Context: coup d'tat, 2015 Burkinab coup d'tat, Burkina Faso, elite presidential guard_
+_Context: elite presidential guard, coup d'tat, 2015 Burkinab coup d'tat, Burkina Faso_
 
 ##### Syrian Civil War
 ### [New Syrian Forces trade American supplied equipment to the Al Qaeda-linked Nusra Front in return for safe passage. ](/news/2015/09/25/new-syrian-forces-trade-american-supplied-equipment-to-the-al-qaeda-linked-nusra-front-in-return-for-safe-passage.md)
-_Context: New Syrian Forces, Al Qaeda, Nusra Front, Syrian Civil War_
+_Context: Nusra Front, Syrian Civil War, Al Qaeda, New Syrian Forces_
 
 ##### China
 ### [The People's Republic of China will launch a cap and trade policy creating a carbon market in 2017. ](/news/2015/09/25/the-people-s-republic-of-china-will-launch-a-cap-and-trade-policy-creating-a-carbon-market-in-2017.md)
@@ -17,7 +17,7 @@ White House officials announce deal, which will make China the world’s biggest
 
 ##### Ukraine
 ### [Ukraine selectively bans certain Russian airlines such as Aeroflot and Transaero from flying to and through Ukraine. ](/news/2015/09/25/ukraine-selectively-bans-certain-russian-airlines-such-as-aeroflot-and-transaero-from-flying-to-and-through-ukraine.md)
-_Context: Transaero, Aeroflot, Ukraine, Russia_
+_Context: Aeroflot, Transaero, Ukraine, Russia_
 
 ##### 2015 Hajj stampede
 ### [King Salman of Saudi Arabia orders an investigation into the stampede near Mecca which has claimed over 700 lives and caused 800 injuries. ](/news/2015/09/25/king-salman-of-saudi-arabia-orders-an-investigation-into-the-stampede-near-mecca-which-has-claimed-over-700-lives-and-caused-800-injuries.md)
@@ -25,7 +25,7 @@ Saudi Arabia&#039;s King orders an investigation into a stampede at the annual H
 
 ##### Recent incident of hazes in 2015
 ### [Singapore closes its primary and secondary schools as smoke from the Indonesian fires raises air pollution to hazardous levels. ](/news/2015/09/25/singapore-closes-its-primary-and-secondary-schools-as-smoke-from-the-indonesian-fires-raises-air-pollution-to-hazardous-levels.md)
-_Context: Indonesia, Singapore, air pollution, recent incident of hazes in 2015_
+_Context: recent incident of hazes in 2015, air pollution, Singapore, Indonesia_
 
 ##### Indonesia
 ### [Thirty-nine people are injured after an earthquake in the waters off the coast of the Indonesian province of West Papua. ](/news/2015/09/25/thirty-nine-people-are-injured-after-an-earthquake-in-the-waters-off-the-coast-of-the-indonesian-province-of-west-papua.md)
@@ -41,7 +41,7 @@ The World Health Organization removes Nigeria from the list of polio endemic cou
 
 ##### 2015 FIFA corruption case
 ### [The Office of the Attorney General of Switzerland opens criminal proceedings against the President of FIFA Sepp Blatter. ](/news/2015/09/25/the-office-of-the-attorney-general-of-switzerland-opens-criminal-proceedings-against-the-president-of-fifa-sepp-blatter.md)
-_Context: President of FIFA, 2015 FIFA corruption case, Switzerland, Sepp Blatter_
+_Context: Switzerland, 2015 FIFA corruption case, Sepp Blatter, President of FIFA_
 
 ##### European migrant crisis
 ### [Croatia reopens its border with Serbia. ](/news/2015/09/25/croatia-reopens-its-border-with-serbia.md)
@@ -49,7 +49,7 @@ _Context: Croatia, Serbia, European migrant crisis_
 
 ##### Hakubun Shimomura
 ### [Hakubun Shimomura resigns as Japan's Minister of Education, Culture, Sports, Science and Technology due to the design for the stadium for the 2020 Summer Olympics being abandoned. ](/news/2015/09/25/hakubun-shimomura-resigns-as-japan-s-minister-of-education-culture-sports-science-and-technology-due-to-the-design-for-the-stadium-for-th.md)
-_Context: Hakubun Shimomura, 2020 Summer Olympics, Japan, stadium, Minister of Education, Culture, Sports, Science and Technology_
+_Context: stadium, Japan, 2020 Summer Olympics, Minister of Education, Culture, Sports, Science and Technology, Hakubun Shimomura_
 
 ##### John Boehner
 ### [John Boehner schedules his resignation from the position of Speaker of the United States House of Representatives and from Congress for the end of October. ](/news/2015/09/25/john-boehner-schedules-his-resignation-from-the-position-of-speaker-of-the-united-states-house-of-representatives-and-from-congress-for-the.md)

@@ -9,7 +9,7 @@ Afghan official identified the dead soldiers as British and said four others wer
 
 ##### Eduardo Castro Luque
 ### [Eduardo Castro Luque, the deputy-elect of Ciudad Obregon, Sonora, is assassinated by gunmen two days before joining office. ](/news/2012/09/15/eduardo-castro-luque-the-deputy-elect-of-ciudad-obregon-sonora-is-assassinated-by-gunmen-two-days-before-joining-office.md)
-_Context: Ciudad Obregon, Sonora, Eduardo Castro Luque_
+_Context: Eduardo Castro Luque, Ciudad Obregon, Sonora_
 
 ##### 2012 Sydney Islamic riots
 ### [2012 Sydney Islamic riots: Muslim protesters shouting anti-American slogans clash with police outside the US embassy in Sydney, Australia. ](/news/2012/09/15/2012-sydney-islamic-riots-muslim-protesters-shouting-anti-american-slogans-clash-with-police-outside-the-us-embassy-in-sydney-australia.md)
@@ -33,7 +33,7 @@ _Context: Fukushima Daiichi nuclear disaster_
 
 ##### Japan
 ### [Anti-Japanese protests spread in China over the disputed Senkaku Islands. ](/news/2012/09/15/anti-japanese-protests-spread-in-china-over-the-disputed-senkaku-islands.md)
-_Context: Senkaku Islands, China, Japan_
+_Context: Japan, Senkaku Islands, China_
 
 ##### Gambia
 ### [Gambia's President Yahya Jammeh orders an immediate halt to executions on death row. ](/news/2012/09/15/gambia-s-president-yahya-jammeh-orders-an-immediate-halt-to-executions-on-death-row.md)

@@ -29,7 +29,7 @@ Tributes are being paid to singer Amy Winehouse, who was found dead at her Londo
 
 ##### Escondida
 ### [Workers at the Escondida copper mine in northern Chile vote to continue a strike for a second day. ](/news/2011/07/23/workers-at-the-escondida-copper-mine-in-northern-chile-vote-to-continue-a-strike-for-a-second-day.md)
-_Context: Chile, Escondida_
+_Context: Escondida, Chile_
 
 ##### CRH
 ### [Two CRH bullet trains collide in near Wenzhou, Zhejiang province, China, killing at least 35. ](/news/2011/07/23/two-crh-bullet-trains-collide-in-near-wenzhou-zhejiang-province-china-killing-at-least-35.md)
@@ -41,7 +41,7 @@ _Context: famine, Somalia, Unicef_
 
 ##### Kim Sung-hwan
 ### [Kim Sung-hwan, the South Korean Minister for Foreign Affairs, meets with Pak Ui-chun, his North Korean counterpart, on the sidelines of an ASEAN meeting in Bali, Indonesia. ](/news/2011/07/23/kim-sung-hwan-the-south-korean-minister-for-foreign-affairs-meets-with-pak-ui-chun-his-north-korean-counterpart-on-the-sidelines-of-an-a.md)
-_Context: North Korea, South Korea, Bali, Pak Ui-chun, ASEAN, Kim Sung-hwan, Indonesia_
+_Context: Pak Ui-chun, Bali, Kim Sung-hwan, North Korea, South Korea, Indonesia, ASEAN_
 
 ##### Asylum seekers
 ### [Asylum seekers at the Scherger Immigration Detention Centre near Weipa in the Australian state of Queensland start harming themselves in protest. ](/news/2011/07/23/asylum-seekers-at-the-scherger-immigration-detention-centre-near-weipa-in-the-australian-state-of-queensland-start-harming-themselves-in-pro.md)
@@ -53,11 +53,11 @@ The phone-hacking story took a new and dramatic turn yesterday as a former journ
 
 ##### Grand Prairie
 ### [A gunman fatally shoots six people, including himself, and wounds four others in a shooting in Grand Prairie, Texas. ](/news/2011/07/23/a-gunman-fatally-shoots-six-people-including-himself-and-wounds-four-others-in-a-shooting-in-grand-prairie-texas.md)
-_Context: Grand Prairie, Texas_
+_Context: Texas, Grand Prairie_
 
 ##### Daryoush Rezaei
 ### [Daryoush Rezaei, an Iranian scientist, is shot dead outside his home in Tehran. It was reported that the scientist had links to the country's nuclear programme. ](/news/2011/07/23/daryoush-rezaei-an-iranian-scientist-is-shot-dead-outside-his-home-in-tehran-it-was-reported-that-the-scientist-had-links-to-the-country.md)
-_Context: Tehran, Daryoush Rezaei_
+_Context: Daryoush Rezaei, Tehran_
 
 ##### Federal Aviation Administration
 ### [Nearly 4,000 employees of the US Federal Aviation Administration are furloughed due to Congressional authorisation for its programs lapsing. ](/news/2011/07/23/nearly-4-000-employees-of-the-us-federal-aviation-administration-are-furloughed-due-to-congressional-authorisation-for-its-programs-lapsing.md)
@@ -69,7 +69,7 @@ Sri Lankans vote in local elections - many in the northern former war zone, wher
 
 ##### Latvia
 ### [Voters in Latvia go to the polls for the Latvian parliamentary dissolution referendum with 95 per cent of voters supporting dissolution of the Saeima. ](/news/2011/07/23/voters-in-latvia-go-to-the-polls-for-the-latvian-parliamentary-dissolution-referendum-with-95-per-cent-of-voters-supporting-dissolution-of-t.md)
-_Context: Latvian parliamentary dissolution referendum, Latvia, Saeima_
+_Context: Latvian parliamentary dissolution referendum, Saeima, Latvia_
 
 ##### CERN
 ### [CERN's Large Hadron Collider (LHC) produces notable fluctuations in search for Higgs Boson particle. ](/news/2011/07/23/cern-s-large-hadron-collider-lhc-produces-notable-fluctuations-in-search-for-higgs-boson-particle.md)

@@ -9,7 +9,7 @@ Fighting in Ukraine took an explosive turn Sunday night when residents of Donets
 
 ##### Boko Haram
 ### [Boko Haram launch a raid on a prison in the town of Diffa in Niger. Authorities repel the attack. ](/news/2015/02/9/boko-haram-launch-a-raid-on-a-prison-in-the-town-of-diffa-in-niger-authorities-repel-the-attack.md)
-_Context: Niger, Boko Haram, Diffa_
+_Context: Diffa, Niger, Boko Haram_
 
 ##### Police
 ### [Hooded gunmen attack French police in the city of Marseille, which Prime Minister Manuel Valls is due to visit. ](/news/2015/02/9/hooded-gunmen-attack-french-police-in-the-city-of-marseille-which-prime-minister-manuel-valls-is-due-to-visit.md)
@@ -17,7 +17,7 @@ Pierre-Marie Bourniquel, Marseille police chief, forced to take evasive action a
 
 ##### Baghdad
 ### [Several attacks, including a suicide bombing, kill at least 22 in Baghdad, Iraq, in a predominantly Shiite part of the capital. ](/news/2015/02/9/several-attacks-including-a-suicide-bombing-kill-at-least-22-in-baghdad-iraq-in-a-predominantly-shiite-part-of-the-capital.md)
-_Context: Baghdad, Iraq_
+_Context: Iraq, Baghdad_
 
 ##### Irish
 ### [Members of Ireland's police force Garda Siochana raid the Dublin home of former MEP Paul Murphy TD, taking Murphy into custody along with three other activists and politicians opposing the water-tax-rate change, stirring nationwide speculation of "political policing." The police later release all four without charges. ](/news/2015/02/9/members-of-ireland-s-police-force-garda-saocha-na-raid-the-dublin-home-of-former-mep-paul-murphy-td-taking-murphy-into-custody-along-with.md)

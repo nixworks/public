@@ -9,7 +9,7 @@ _Context: Afghanistan President, Kabul_
 
 ##### Polish
 ### [Workers at the Polish Przewozy Regionalne passenger rail network commence a 24-hour strike. ](/news/2011/08/17/workers-at-the-polish-przewozy-regionalne-passenger-rail-network-commence-a-24-hour-strike.md)
-_Context: Polish, Przewozy Regionalne_
+_Context: Przewozy Regionalne, Polish_
 
 ##### Verizon Communications
 ### [Verizon Communications says that striking workers who do not return to work by the end of August will lose medical, prescription drug, and related benefits. ](/news/2011/08/17/verizon-communications-says-that-striking-workers-who-do-not-return-to-work-by-the-end-of-august-will-lose-medical-prescription-drug-and-r.md)
@@ -17,11 +17,11 @@ Verizon Communications Inc. told 45,000 striking workers that it will suspend ce
 
 ##### Gold
 ### [The price of gold reaches a new record after the President of Venezuela Hugo Chvez announces plans to nationalize the Venezuelan gold industry. ](/news/2011/08/17/the-price-of-gold-reaches-a-new-record-after-the-president-of-venezuela-hugo-chavez-announces-plans-to-nationalize-the-venezuelan-gold-indus.md)
-_Context: Venezuelan President, gold, Venezuela, Hugo Chvez_
+_Context: Hugo Chvez, Venezuelan President, Venezuela, gold_
 
 ##### Financial Times
 ### [The "Financial Times" reports that sources "familiar with the situation" say Liberty Media is losing interest in a purchase of Barnes & Noble, due to financing constraints. ](/news/2011/08/17/the-financial-times-reports-that-sources-familiar-with-the-situation-say-liberty-media-is-losing-interest-in-a-purchase-of-barnes-nobl.md)
-_Context: Liberty Media, Barnes & Noble, Financial Times_
+_Context: Barnes & Noble, Financial Times, Liberty Media_
 
 ##### Special Tribunal for Lebanon
 ### [The Special Tribunal for Lebanon publishes an indictment against Hezbollah members accused in the 2005 assassination of Lebanese Prime Minister Rafic Hariri. ](/news/2011/08/17/the-special-tribunal-for-lebanon-publishes-an-indictment-against-hezbollah-members-accused-in-the-2005-assassination-of-lebanese-prime-minis.md)
@@ -29,7 +29,7 @@ International jurists Wednesday released details of how an analysis of cellphone
 
 ##### South Korea
 ### [A lawyer claims that 25,000 South Koreans will be suing Apple Inc. in relation to alleged privacy breaches in relation to collection of iPhone location addresses. ](/news/2011/08/17/a-lawyer-claims-that-25-000-south-koreans-will-be-suing-apple-inc-in-relation-to-alleged-privacy-breaches-in-relation-to-collection-of-ipho.md)
-_Context: Apple Inc., South Korea, iPhone_
+_Context: iPhone, South Korea, Apple Inc._
 
 ##### Sexual assault
 ### [Three sexual assault cases are lodged against the Roman Catholic Archdiocese of Miami. ](/news/2011/08/17/three-sexual-assault-cases-are-lodged-against-the-roman-catholic-archdiocese-of-miami.md)
@@ -37,7 +37,7 @@ _Context: sexual assault, Roman Catholic Archdiocese of Miami_
 
 ##### Toronto
 ### [A Toronto Imam is charged in relation to alleged sexual assaults and death threats committed against five victims over the course of three years. ](/news/2011/08/17/a-toronto-imam-is-charged-in-relation-to-alleged-sexual-assaults-and-death-threats-committed-against-five-victims-over-the-course-of-three-y.md)
-_Context: Imam, Toronto_
+_Context: Toronto, Imam_
 
 ##### Birmingham
 ### [A fourth man is charged with murder following the deaths of three men hit by a car in Birmingham, UK, during recent rioting which spread across England. ](/news/2011/08/17/a-fourth-man-is-charged-with-murder-following-the-deaths-of-three-men-hit-by-a-car-in-birmingham-uk-during-recent-rioting-which-spread-acr.md)
@@ -45,11 +45,11 @@ A fourth person is charged with murder after the deaths of three men who were st
 
 ##### Vasyl Dzharty
 ### [Vasyl Dzharty, the Prime Minister of Crimea, an autonomous region of Ukraine, dies in office. ](/news/2011/08/17/vasyl-dzharty-the-prime-minister-of-crimea-an-autonomous-region-of-ukraine-dies-in-office.md)
-_Context: autonomous region, Vasyl Dzharty, Ukraine, Prime Minister of Crimea_
+_Context: Prime Minister of Crimea, Vasyl Dzharty, autonomous region, Ukraine_
 
 ##### Singapore
 ### [Singapore's Presidential Elections Committee approves four presidential candidates for the presidential election on August 27: Tony Tan Keng Yam, Tan Cheng Bock, Tan Kin Lian and Tan Jee Say. ](/news/2011/08/17/singapore-s-presidential-elections-committee-approves-four-presidential-candidates-for-the-presidential-election-on-august-27-tony-tan-keng.md)
-_Context: presidential election, Singapore, Tan Jee Say, Presidential Elections Committee, Tony Tan Keng Yam, Tan Cheng Bock, Tan Kin Lian_
+_Context: Singapore, Tony Tan Keng Yam, presidential election, Tan Cheng Bock, Tan Jee Say, Presidential Elections Committee, Tan Kin Lian_
 
 ## [Previous Day...](/news/2011/08/16/index.md)
 

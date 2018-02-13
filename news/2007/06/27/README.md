@@ -5,27 +5,27 @@ Formats: [HTML](2007/06/27/index.html)  [JSON](2007/06/27/index.json)  [XML](200
 
 ##### Gangster
 ### [ At least 18 people die in fights between police and gangsters in a Rio de Janeiro "favela". ](/news/2007/06/27/at-least-18-people-die-in-fights-between-police-and-gangsters-in-a-rio-de-janeiro-favela.md)
-_Context: Rio de Janeiro, favela, gangster_
+_Context: favela, Rio de Janeiro, gangster_
 
 ##### Protesters
 ### [ Protesters take to the streets in Iran as the government introduces petrol rationing and raises prices. ](/news/2007/06/27/protesters-take-to-the-streets-in-iran-as-the-government-introduces-petrol-rationing-and-raises-prices.md)
-_Context: Protesters, rationing, Iran, petrol_
+_Context: Iran, Protesters, petrol, rationing_
 
 ##### Ashraf Marwan
 ### [ Dr. Ashraf Marwan, who had been accused of being a senior Mossad agent operating in Egypt prior to the Yom Kippur War, is found dead below the balcony of his home in London; Scotland Yard investigates the "unexplained" death. ](/news/2007/06/27/dr-ashraf-marwan-who-had-been-accused-of-being-a-senior-mossad-agent-operating-in-egypt-prior-to-the-yom-kippur-war-is-found-dead-below.md)
-_Context: Scotland Yard, London, Egypt, Ashraf Marwan, Yom Kippur War, Mossad_
+_Context: London, Mossad, Yom Kippur War, Egypt, Ashraf Marwan, Scotland Yard_
 
 ##### Cyclone
 ### [ At least ten people drown and thousands move to higher ground as a cyclone hits Balochistan, Pakistan. ](/news/2007/06/27/at-least-ten-people-drown-and-thousands-move-to-higher-ground-as-a-cyclone-hits-balochistan-pakistan.md)
-_Context: Pakistan, cyclone, Balochistan_
+_Context: cyclone, Pakistan, Balochistan_
 
 ##### British House of Commons
 ### [ Longstanding tradition is abandoned in the House of Commons as every serving Member of Parliament, and others, clap and give a standing ovation to Tony Blair after he finishes his last Prime Minister's Questions. Queen Elizabeth II accepts the resignation of Tony Blair as Prime Minister. Gordon Brown, MP for Kirkcaldy and Cowdenbeath and former Chancellor of the Exchequer, accepts Queen Elizabeth II's invitation to form a new government, becoming the new Prime Minister of the United Kingdom. Tony Blair takes the Chiltern Hundreds to stand down as MP for Sedgefield and accepts a role as the main Middle East envoy for the Quartet on the Middle East. His appointment is announced at the United Nations headquarters. Zalmay Khalilzad, United States Ambassador to the United Nations, welcomes the appointment of Blair as envoy. Journalists learn that Patricia Hewitt and Margaret Beckett will not be reappointed Health Secretary and Foreign Secretary, respectively, when Brown assembles his government. Brown begins contact by telephone with U.S. President George W. Bush, French President Nicolas Sarkozy, Chancellor of Germany Angela Merkel, Prime Minister of Italy Romano Prodi, and Irish Taoiseach Bertie Ahern, discussing working closely together. ](/news/2007/06/27/longstanding-tradition-is-abandoned-in-the-house-of-commons-as-every-serving-member-of-parliament-and-others-clap-and-give-a-standing-ova.md)
-_Context: Gordon Brown, Italian Prime Minister, Foreign Secretary, Prime Minister's Questions, Secretary of State for Health, Zalmay Khalilzad, Sedgefield, Nicolas Sarkozy, Angela Merkel, Kirkcaldy and Cowdenbeath, George W. Bush, telephone, Margaret Beckett, British House of Commons, resign, Taoiseach, U.S. President, Ambassador to the United Nations, MP, Prime Minister, Chancellor of the Exchequer, standing ovation, diplomatic Quartet, France, Irish, Chiltern Hundreds, Romano Prodi, President, United Nations headquarters, Chancellor, Bertie Ahern, Tony Blair, Queen Elizabeth, American, Patricia Hewitt_
+_Context: President, Secretary of State for Health, Gordon Brown, Chancellor of the Exchequer, Ambassador to the United Nations, Foreign Secretary, MP, telephone, Sedgefield, Queen Elizabeth, George W. Bush, Bertie Ahern, Nicolas Sarkozy, resign, Romano Prodi, diplomatic Quartet, France, Prime Minister, Tony Blair, standing ovation, Chiltern Hundreds, Kirkcaldy and Cowdenbeath, Patricia Hewitt, Zalmay Khalilzad, United Nations headquarters, British House of Commons, Margaret Beckett, Angela Merkel, U.S., U.S. President, Taoiseach, Italian Prime Minister, Chancellor, Irish, Prime Minister's Questions_
 
 ##### PMTair Flight U4 241
 ### [ The wreckage of PMTair Flight U4 241 is discovered in Kampot Province, Cambodia; all 22 people on board are killed in the crash. ](/news/2007/06/27/the-wreckage-of-pmtair-flight-u4-241-is-discovered-in-kampot-province-cambodia-all-22-people-on-board-are-killed-in-the-crash.md)
-_Context: Cambodia, PMTair Flight U4 241, Kampot Province_
+_Context: Cambodia, Kampot Province, PMTair Flight U4 241_
 
 ##### Capital punishment
 ### [ The Government of Kyrgyzstan abolishes capital punishment. ](/news/2007/06/27/the-government-of-kyrgyzstan-abolishes-capital-punishment.md)
@@ -33,7 +33,7 @@ _Context: capital punishment_
 
 ##### Jamaica
 ### [ Jamaican-born Floridian Barrington Irving becomes the youngest person&mdash;and the first black person&mdash;to fly solo around the world. ](/news/2007/06/27/jamaican-born-floridian-barrington-irving-becomes-the-youngest-person-mdash-and-the-first-black-person-mdash-to-fly-solo-around-the-world.md)
-_Context: circumnavigation, Barrington Irving, the state, Jamaica, black person_
+_Context: Barrington Irving, black person, the state, circumnavigation, Jamaica_
 
 ## [Previous Day...](/news/2007/06/26/index.md)
 

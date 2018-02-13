@@ -17,7 +17,7 @@ Peru gives a grandiose welcome to hundreds of Inca artefacts returned by Yale Un
 
 ##### Man Booker International Prize
 ### [The finalists for the Man Booker International Prize are announced, including Wang Anyi, Juan Goytisolo, James Kelman, John le Carre, Amin Maalouf, David Malouf, Dacia Maraini, Rohinton Mistry, Philip Pullman, Marilynne Robinson, Philip Roth, Su Tong and Anne Tyler. ](/news/2011/03/30/the-finalists-for-the-man-booker-international-prize-are-announced-including-wang-anyi-juan-goytisolo-james-kelman-john-le-carra-c-amin.md)
-_Context: Dacia Maraini, Marilynne Robinson, Wang Anyi, David Malouf, Man Booker International Prize, Su Tong, Amin Maalouf, Anne Tyler, Philip Pullman, Philip Roth, James Kelman, John le Carre, Rohinton Mistry, Juan Goytisolo_
+_Context: Rohinton Mistry, John le Carre, Amin Maalouf, Marilynne Robinson, David Malouf, Wang Anyi, Philip Roth, Su Tong, Juan Goytisolo, James Kelman, Dacia Maraini, Man Booker International Prize, Philip Pullman, Anne Tyler_
 
 ##### Orca
 ### [The orca Tilikum resumes performing shows at Seaworld Orlando 13 months after being involved in the death of trainer Dawn Blancheau. ](/news/2011/03/30/the-orca-tilikum-resumes-performing-shows-at-seaworld-orlando-13-months-after-being-involved-in-the-death-of-trainer-dawn-blancheau.md)
@@ -49,7 +49,7 @@ Japan called on the world not to impose &quot;unjustifiable&quot; import curbs o
 
 ##### Flood
 ### [Flooding across southern Thailand results in eleven deaths with thousands of people stranded. ](/news/2011/03/30/flooding-across-southern-thailand-results-in-eleven-deaths-with-thousands-of-people-stranded.md)
-_Context: Flood, southern Thailand_
+_Context: southern Thailand, Flood_
 
 ##### U.S. state
 ### [The U.S. state of Washington issues flood warnings. ](/news/2011/03/30/the-u-s-state-of-washington-issues-flood-warnings.md)
@@ -65,15 +65,15 @@ Former US President Jimmy Carter strongly criticises US policy towards Cuba at t
 
 ##### Kuwait
 ### [Kuwait recalls its ambassador to Iran after it convicted three people on charges of spying for Iran. ](/news/2011/03/30/kuwait-recalls-its-ambassador-to-iran-after-it-convicted-three-people-on-charges-of-spying-for-iran.md)
-_Context: Kuwait, Iran_
+_Context: Iran, Kuwait_
 
 ##### South Korea
 ### [The South Korean military holds a live-fire drill on Yeonpyeong Island which was shelled by North Korea last year. ](/news/2011/03/30/the-south-korean-military-holds-a-live-fire-drill-on-yeonpyeong-island-which-was-shelled-by-north-korea-last-year.md)
-_Context: South Korea, North Korea, Yeonpyeong Island_
+_Context: Yeonpyeong Island, South Korea, North Korea_
 
 ##### Yonhap
 ### [The Yonhap news agency in South Korea reports that the People's Republic of China has reinforced fences and increased patrols along its border with North Korea in order to stop a flow of refugees. ](/news/2011/03/30/the-yonhap-news-agency-in-south-korea-reports-that-the-people-s-republic-of-china-has-reinforced-fences-and-increased-patrols-along-its-bord.md)
-_Context: Yonhap, China, refugee, South Korea, North Korea_
+_Context: refugee, South Korea, North Korea, Yonhap, China_
 
 ##### Filipino
 ### [Three Filipinos are executed on drug charges in the People's Republic of China. ](/news/2011/03/30/three-filipinos-are-executed-on-drug-charges-in-the-people-s-republic-of-china.md)
@@ -81,7 +81,7 @@ Vice President Jejomar Binay confirms that the three convicted Filipino drug mul
 
 ##### Umar Patek
 ### [A man suspected of being Umar Patek wanted for his alleged role in the 2002 Bali bombings is arrested in Pakistan. ](/news/2011/03/30/a-man-suspected-of-being-umar-patek-wanted-for-his-alleged-role-in-the-2002-bali-bombings-is-arrested-in-pakistan.md)
-_Context: Pakistan, 2002 Bali bombings, Umar Patek_
+_Context: 2002 Bali bombings, Umar Patek, Pakistan_
 
 ##### Diamond
 ### [Diamonds worth millions are stolen from the BaselWorld Watch and Jewellery Fair in Basel, Switzerland. ](/news/2011/03/30/diamonds-worth-millions-are-stolen-from-the-baselworld-watch-and-jewellery-fair-in-basel-switzerland.md)
@@ -93,11 +93,11 @@ _Context: State Peace and Development Council, Burma_
 
 ##### Egypt
 ### [Egypt's transitional government promises to hold the Egyptian presidential election by November. ](/news/2011/03/30/egypt-s-transitional-government-promises-to-hold-the-egyptian-presidential-election-by-november.md)
-_Context: November, Egypt, Egyptian presidential election in September_
+_Context: November, Egyptian presidential election in September, Egypt_
 
 ##### Virophage
 ### [The first virophage virus found in a natural environment is discovered in Organic Lake in East Antarctica. ](/news/2011/03/30/the-first-virophage-virus-found-in-a-natural-environment-is-discovered-in-organic-lake-in-east-antarctica.md)
-_Context: virophage, Organic Lake, virus, East Antarctica_
+_Context: virus, virophage, East Antarctica, Organic Lake_
 
 ## [Previous Day...](/news/2011/03/29/index.md)
 

@@ -9,11 +9,11 @@ By Michael Flaherty and Supantha MukherjeeActivist hedge fund Starboard Value LP
 
 ##### Lebanese
 ### [Lebanese daily newspaper "As-Safir" ("The Ambassador" in Arabic) is to cease print and online operations after over 40 years, citing falling revenues and Lebanon's political environment and sectarian problems as reasons for its closure. The newspaper has close ties to Hezbollah. ](/news/2016/03/24/lebanese-daily-newspaper-as-safir-the-ambassador-in-arabic-is-to-cease-print-and-online-operations-after-over-40-years-citing-falling.md)
-_Context: Hezbollah, Lebanese, As-Safir_
+_Context: Lebanese, Hezbollah, As-Safir_
 
 ##### Malaysia Airlines Flight 370
 ### [Australian infrastructure and transport minister Darren Chester says in a statement that debris recovered this month in Mozambique was highly likely to be from the missing Malaysia Airlines flight. ](/news/2016/03/24/australian-infrastructure-and-transport-minister-darren-chester-says-in-a-statement-that-debris-recovered-this-month-in-mozambique-was-highl.md)
-_Context: Mozambique, Darren Chester, Australia, Malaysia Airlines, Malaysia Airlines Flight 370_
+_Context: Australia, Malaysia Airlines Flight 370, Malaysia Airlines, Mozambique, Darren Chester_
 
 ##### England
 ### [England international footballer Adam Johnson is sentenced to six years in prison for child grooming and child sexual activity. ](/news/2016/03/24/england-international-footballer-adam-johnson-is-sentenced-to-six-years-in-prison-for-child-grooming-and-child-sexual-activity.md)
@@ -25,7 +25,7 @@ Wartime leader of Bosnian Serbs found guilty of 10 of 11 charges at internationa
 
 ##### Jian Ghomeshi
 ### [In Toronto, Jian Ghomeshi is acquitted on all charges of sexual assault and choking. The judge found the claimants had "lied, had been manipulative and hid pertinent information" from the court and this created reasonable doubt. Protests against due process emerged immediately afterwards. ](/news/2016/03/24/in-toronto-jian-ghomeshi-is-acquitted-on-all-charges-of-sexual-assault-and-choking-the-judge-found-the-claimants-had-lied-had-been-manip.md)
-_Context: due process, Jian Ghomeshi_
+_Context: Jian Ghomeshi, due process_
 
 ##### New York
 ### [In New York, an appeals court upheld a lower court's decision to dismiss a lawsuit trying to keep Ted Cruz off the ballot in the U.S. Presidential contest on the ground of his Canadian birth. ](/news/2016/03/24/in-new-york-an-appeals-court-upheld-a-lower-court-s-decision-to-dismiss-a-lawsuit-trying-to-keep-ted-cruz-off-the-ballot-in-the-u-s-presid.md)

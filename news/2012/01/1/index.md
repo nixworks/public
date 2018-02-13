@@ -17,7 +17,7 @@ State of emergency remains in areas hit by deadly attacks blamed on Islamist gro
 
 ##### South Sudan
 ### [South Sudan is to send more troops and police to Pibor, the scene of ethnic violence. ](/news/2012/01/1/south-sudan-is-to-send-more-troops-and-police-to-pibor-the-scene-of-ethnic-violence.md)
-_Context: South Sudan, ethnic violence, Pibor_
+_Context: Pibor, ethnic violence, South Sudan_
 
 ##### Elizabeth II
 ### [Queen Elizabeth II appoints former Prime Minister of Australia John Howard and British painter David Hockney to the Order of Merit. ](/news/2012/01/1/queen-elizabeth-ii-appoints-former-prime-minister-of-australia-john-howard-and-british-painter-david-hockney-to-the-order-of-merit.md)
@@ -25,7 +25,7 @@ The Queen has appointed former prime minister John Howard a member of the Order 
 
 ##### Rio Tinto Alcan
 ### [Rio Tinto Alcan locks out hundreds of workers from a smelter in the Canadian town of Alma, Quebec. ](/news/2012/01/1/rio-tinto-alcan-locks-out-hundreds-of-workers-from-a-smelter-in-the-canadian-town-of-alma-quebec.md)
-_Context: Rio Tinto Alcan, Quebec, locks out, smelter, Canadian, Alma_
+_Context: Rio Tinto Alcan, Canadian, Quebec, locks out, smelter, Alma_
 
 ##### Earthquake
 ### [A 7.0-magnitude earthquake strikes south of Japan; no damage is caused. ](/news/2012/01/1/a-7-0-magnitude-earthquake-strikes-south-of-japan-no-damage-is-caused.md)
@@ -33,7 +33,7 @@ A strong earthquake with a magnitude of 7.0 jolted eastern and northeastern Japa
 
 ##### Lamu Island
 ### [A boat capsizes near Lamu Island off the Kenyan coast with at least seven people dead. ](/news/2012/01/1/a-boat-capsizes-near-lamu-island-off-the-kenyan-coast-with-at-least-seven-people-dead.md)
-_Context: Kenya, Lamu Island_
+_Context: Lamu Island, Kenya_
 
 ##### Iranian Navy
 ### [The Iranian Navy test-fires a surface-to-air missile. ](/news/2012/01/1/the-iranian-navy-test-fires-a-surface-to-air-missile.md)
@@ -57,7 +57,7 @@ Army&#x20;rulers&#x20;in&#x20;Egypt&#x20;decided&#x20;Sunday&#x20;to&#x20;bring&
 
 ##### NASA
 ### [The second of NASA's Gravity Recovery and Interior Laboratory spacecraft is in orbit around the moon. ](/news/2012/01/1/the-second-of-nasa-s-gravity-recovery-and-interior-laboratory-spacecraft-is-in-orbit-around-the-moon.md)
-_Context: GRAIL, NASA_
+_Context: NASA, GRAIL_
 
 ## [Previous Day...](/news/2011/12/31/index.md)
 

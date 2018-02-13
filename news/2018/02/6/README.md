@@ -23,9 +23,9 @@ Mohamed Nasheed asks for India to help release political prisoners amid a worsen
 ### [Polish President Andrzej Duda ratifies a controversial Holocaust bill, despite angry protests from Israel and the United States. Duda defends the legislation, which will make it illegal to accuse the Polish state of complicity in the Holocaust during the Nazi occupation. ](/news/2018/02/6/polish-president-andrzej-duda-ratifies-a-controversial-holocaust-bill-despite-angry-protests-from-israel-and-the-united-states-duda-defend.md)
 Andrzej Duda backs a controversial law that has drawn angry protests from Israel and the US.
 
-##### Falcon Heavy Test Flight
+##### Falcon Heavy test flight
 ### [SpaceX successfully launches its Falcon Heavy rocket, a feat the space company hopes will lead to increased commercial and national security missions. Both boosters were successfully landed and recovered. The core didn't land and was softly ditched in the water near the drone ship. The rocket launched Elon Musk's Tesla Roadster, playing "Life on Mars" by David Bowie, which is expected to be in an elliptic orbit of the sun, close to Mars, for several hundred million years. ](/news/2018/02/6/spacex-successfully-launches-its-falcon-heavy-rocket-a-feat-the-space-company-hopes-will-lead-to-increased-commercial-and-national-security.md)
-_Context: Elon Musk, elliptic orbit, David Bowie, Tesla Roadster, Mars, Falcon Heavy Test Flight, Falcon Heavy, SpaceX, Life on Mars_
+_Context: Elon Musk, Mars, SpaceX, elliptic orbit, Tesla Roadster, Falcon Heavy, Falcon Heavy test flight, David Bowie, Life on Mars_
 
 ##### Ozone depletion
 ### [Scientists (in the article published in the journal "Atmospheric Chemistry and Physics") warn that the ozone layer that protects people from the sun's ultraviolet radiation is recovering only over less populated areas. ](/news/2018/02/6/scientists-in-the-article-published-in-the-journal-atmospheric-chemistry-and-physics-warn-that-the-ozone-layer-that-protects-people-from.md)

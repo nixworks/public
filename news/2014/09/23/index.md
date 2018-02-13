@@ -21,7 +21,7 @@ WHO-backed plan for Ebola is seen as intermediate step between treatment centers
 
 ##### Russian President
 ### [President of Russia Vladimir Putin warns in a letter to his Ukrainian counterpart Petro Poroshenko that Moscow will restrict Ukraine's access to Russian markets if Kiev implements any part of a trade agreement with the European Union. ](/news/2014/09/23/president-of-russia-vladimir-putin-warns-in-a-letter-to-his-ukrainian-counterpart-petro-poroshenko-that-moscow-will-restrict-ukraine-s-acces.md)
-_Context: Russian President, Petro Poroshenko, European Union, Vladimir Putin, Ukrainian President_
+_Context: Petro Poroshenko, Ukrainian President, Vladimir Putin, European Union, Russian President_
 
 ## [Previous Day...](/news/2014/09/22/index.md)
 

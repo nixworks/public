@@ -5,7 +5,7 @@ Formats: [HTML](2006/01/26/index.html)  [JSON](2006/01/26/index.json)  [XML](200
 
 ##### Islamist
 ### [ Islamist party Hamas' landslide victory in Palestinian elections ends four decades of rule by the Fatah party. Hamas secures 76 seats in the 132-member legislature through parliamentary elections. Prime Minister Ahmed Qurei announces he will resign and Fatah declares it will not join a Hamas-led coalition, although Palestinian President Mahmoud Abbas plans to continue negotiations with Israel through the Palestine Liberation Organization.](/news/2006/01/26/islamist-party-hamas-landslide-victory-in-palestinian-elections-ends-four-decades-of-rule-by-the-fatah-party-hamas-secures-76-seats-in-th.md)
-_Context: Ahmed Qurei, Hamas, Fatah, Palestine, January 2006 legislative elections, Palestine Liberation Organization, Prime Minister, Israel, Mahmoud Abbas, Islamist_
+_Context: Palestine, Palestine Liberation Organization, Israel, Hamas, Ahmed Qurei, January 2006 legislative elections, Prime Minister, Fatah, Mahmoud Abbas, Islamist_
 
 ##### David Mulford
 ### [ Indian foreign secretary Shyam Saran reacts sharply to US Ambassador David Mulford's warning over the future of the Indo-US nuclear deal, saying on Thursday that it was "inappropriate" and not conducive to good relations between the two countries. ](/news/2006/01/26/indian-foreign-secretary-shyam-saran-reacts-sharply-to-us-ambassador-david-mulford-s-warning-over-the-future-of-the-indo-us-nuclear-deal-s.md)
@@ -13,19 +13,19 @@ _Context: David Mulford_
 
 ##### Ambassador
 ### [ One day after US ambassador to Mexico Tony Garza claimed that Mexican soldiers had helped drug smugglers to escape pursuit by Texas state police on US soil near El Paso, Texas, Mexican Secretary of Foreign Affairs Luis Ernesto Derbez suggested that the people involved may have been US soldiers wearing the uniforms of Mexican military. ](/news/2006/01/26/one-day-after-us-ambassador-to-mexico-tony-garza-claimed-that-mexican-soldiers-had-helped-drug-smugglers-to-escape-pursuit-by-texas-state-p.md)
-_Context: Texas state police, El Paso, ambassador, Foreign Minister, uniform, Luis Ernesto Derbez, Tony Garza, Mexican, drug smuggler_
+_Context: Tony Garza, Luis Ernesto Derbez, drug smuggler, Texas state police, ambassador, Mexican, El Paso, uniform, Foreign Minister_
 
 ##### President
 ### [ Pakistani President Pervez Musharraf rejects US objections to a proposed Iran-Pakistan-India pipeline for natural gas saying "It is in our economic interest. If somebody wants to stop us they should compensate us ... But at the moment we are going ahead". Musharraf also repeats his condemnation of the recent U.S. air strike in northern Pakistan which killed 18 people, including women and children. ](/news/2006/01/26/pakistani-president-pervez-musharraf-rejects-us-objections-to-a-proposed-iranapakistanaindia-pipeline-for-natural-gas-saying-it-is-in.md)
-_Context: recent U.S. air strike, Pakistan, president, Pervez Musharraf, Iran, natural gas_
+_Context: natural gas, Pervez Musharraf, president, Iran, Pakistan, recent U.S. air strike_
 
 ##### Liberal Democrats
 ### [ Liberal Democrat MEP for London, Sarah Ludford, who is leading a European Parliament investigation into the U.S. policy of "extraordinary rendition", says she may invite Vice President of the United States Dick Cheney, United States Secretary of Defense Donald Rumsfeld or United States Secretary of State Condoleezza Rice to testify. ](/news/2006/01/26/liberal-democrat-mep-for-london-sarah-ludford-who-is-leading-a-european-parliament-investigation-into-the-u-s-policy-of-extraordinary-r.md)
-_Context: Donald Rumsfeld, London, Liberal Democrats, Condoleezza Rice, Dick Cheney, extraordinary rendition, Sarah Ludford, Member of the European Parliament, U.S. Vice President, European Parliament, United States Secretary of Defense, United States Secretary of State_
+_Context: Member of the European Parliament, United States Secretary of Defense, U.S. Vice President, Liberal Democrats, Sarah Ludford, Dick Cheney, Condoleezza Rice, extraordinary rendition, United States Secretary of State, London, European Parliament, Donald Rumsfeld_
 
 ##### Iran's nuclear program
 ### [ In the long running dispute over Iran's nuclear program, the ambassador of the United States to India, David Mulford, has warned India to back the US plan to refer Iran to the United Nations Security Council or face cancellation of a US-India nuclear deal.](/news/2006/01/26/in-the-long-running-dispute-over-iran-s-nuclear-program-the-ambassador-of-the-united-states-to-india-david-mulford-has-warned-india-to-b.md)
-_Context: United Nations Security Council, Iran's nuclear program, David Mulford_
+_Context: United Nations Security Council, David Mulford, Iran's nuclear program_
 
 ##### Delhi
 ### [ India's foreign ministry calls the comments inapproapiate and summons the ambassador to Delhi for an explanation ](/news/2006/01/26/india-s-foreign-ministry-calls-the-comments-inapproapiate-and-summons-the-ambassador-to-delhi-for-an-explanation.md)
@@ -41,11 +41,11 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 ##### Interpol
 ### [ Interpol issues red notices against Pakistan ex-Prime Minister Benazir Bhutto and her husband, Asif Ali Zardari. ](/news/2006/01/26/interpol-issues-red-notices-against-pakistan-ex-prime-minister-benazir-bhutto-and-her-husband-asif-ali-zardari.md)
-_Context: Pakistan, Interpol, red notice, Benazir Bhutto_
+_Context: Pakistan, Interpol, Benazir Bhutto, red notice_
 
 ##### Saudi Arabia
 ### [ Saudi Arabia recalled their envoy from Denmark after Muhammad Drawings controversy, and has initiated a boycott of Danish products. ](/news/2006/01/26/saudi-arabia-recalled-their-envoy-from-denmark-after-muhammad-drawings-controversy-and-has-initiated-a-boycott-of-danish-products.md)
-_Context: Muhammad Drawings, Denmark, Saudi Arabia_
+_Context: Saudi Arabia, Muhammad Drawings, Denmark_
 
 ## [Previous Day...](/news/2006/01/25/index.md)
 

@@ -15,7 +15,7 @@ _Context: Ramadi_
 ### [The death toll of Saturday's explosion in Basra, Iraq, rises to 43, with the number of injured people being over 100. Police say the explosion was as a result of a power generator short-circuiting but other sources claim it was due to a car bomb. ](/news/2010/08/8/the-death-toll-of-saturday-s-explosion-in-basra-iraq-rises-to-43-with-the-number-of-injured-people-being-over-100-police-say-the-explosi.md)
 At least 20 dead as explosions rock marketplace in Basra, wounding scores.
 
-##### American
+##### U.S.
 ### [United States Representative Ron Klein calls for an investigation into American military aid to Lebanon to determine whether the Lebanese soldiers involved used American-supplied military equipment or received American-funded training. ](/news/2010/08/8/united-states-representative-ron-klein-calls-for-an-investigation-into-american-military-aid-to-lebanon-to-determine-whether-the-lebanese-so.md)
 Florida congressman Ron Klein calls for US to stop military support.
 
@@ -25,7 +25,7 @@ _Context: Benjamin Netanyahu, smear, Israeli Prime Minister_
 
 ##### Anatolian Agency
 ### [The Anatolian Agency reports that two Turkish Army soldiers were killed in a roadside bomb explosion in Mardin Province near the Turkish border with Syria. ](/news/2010/08/8/the-anatolian-agency-reports-that-two-turkish-army-soldiers-were-killed-in-a-roadside-bomb-explosion-in-mardin-province-near-the-turkish-bor.md)
-_Context: Mardin Province, Turkish Army, Syria, Anatolian Agency, Turkey_
+_Context: Mardin Province, Turkish Army, Anatolian Agency, Turkey, Syria_
 
 ##### AK-47s
 ### [A bridegroom accidentally shoots dead three relations and injures eight others while celebrating with an AK-47 at his wedding in Akcagoze, Gaziantep in Turkey; the man has been detained. ](/news/2010/08/8/a-bridegroom-accidentally-shoots-dead-three-relations-and-injures-eight-others-while-celebrating-with-an-ak-47-at-his-wedding-in-akcagoze-g.md)
@@ -33,11 +33,11 @@ A bridegroom in Turkey accidentally kills his father and two aunts while firing 
 
 ##### Mark Papermaster
 ### [Mark Papermaster, who engineered the Apple Inc. iPhone, leaves the company due to the antenna issues associated with the iPhone 4. ](/news/2010/08/8/mark-papermaster-who-engineered-the-apple-inc-iphone-leaves-the-company-due-to-the-antenna-issues-associated-with-the-iphone-4.md)
-_Context: Mark Papermaster, Apple Inc., iPhone 4, iPhone_
+_Context: iPhone 4, iPhone, Mark Papermaster, Apple Inc._
 
 ##### Craigslist
 ### [Ads website Craigslist faces allegations of "pay to rape" underage prostitution after a letter is published in "The Washington Post". ](/news/2010/08/8/ads-website-craigslist-faces-allegations-of-pay-to-rape-underage-prostitution-after-a-letter-is-published-in-the-washington-post.md)
-_Context: The Washington Post, Craigslist_
+_Context: Craigslist, The Washington Post_
 
 ##### Sarah, Duchess of York
 ### [It is revealed that Sarah, Duchess of York faces possible bankruptcy, which would make her the first Royal to suffer this. ](/news/2010/08/8/it-is-revealed-that-sarah-duchess-of-york-faces-possible-bankruptcy-which-would-make-her-the-first-royal-to-suffer-this.md)
@@ -65,11 +65,11 @@ Rescuers in Chile start drilling holes to provide 33 trapped miners with oxygen 
 
 ##### Embassies
 ### [Several countries evacuate staff from their embassies in Moscow due to the 2010 Russian wildfires including Germany, Austria, Poland and Canada, ](/news/2010/08/8/several-countries-evacuate-staff-from-their-embassies-in-moscow-due-to-the-2010-russian-wildfires-including-germany-austria-poland-and-can.md)
-_Context: the recent wildfires, embassies, Canadian, German, Moscow, Polish, Austria_
+_Context: Austria, Moscow, German, embassies, Polish, Canadian, the recent wildfires_
 
 ##### Sudanese President
 ### [President of Sudan Omar al-Bashir says the "mandate" of the United Nations, African Union and international aid organisations in Darfur is to "support government authorities" and that expulsion is the other option. ](/news/2010/08/8/president-of-sudan-omar-al-bashir-says-the-mandate-of-the-united-nations-african-union-and-international-aid-organisations-in-darfur-is-t.md)
-_Context: Darfur, mandate, United Nations, African Union, Sudanese President, Omar al-Bashir_
+_Context: Omar al-Bashir, African Union, Darfur, Sudanese President, United Nations, mandate_
 
 ##### UK Border Agency
 ### [There is "significant concern" after an investigation into the UK Border Agency (UKBA) reveals abuse and racial manhandlement of asylum seekers by staff. ](/news/2010/08/8/there-is-significant-concern-after-an-investigation-into-the-uk-border-agency-ukba-reveals-abuse-and-racial-manhandlement-of-asylum-seek.md)
@@ -85,7 +85,7 @@ Iraqi premier tries to drum up Kurdish support after Shia bloc cuts off negotiat
 
 ##### Colombian President
 ### [New President of Colombia Juan Manuel Santos and President of Venezuela Hugo Chavez agree to meet for talks on Tuesday, following a recent diplomatic disagreement. ](/news/2010/08/8/new-president-of-colombia-juan-manuel-santos-and-president-of-venezuela-hugo-cha-vez-agree-to-meet-for-talks-on-tuesday-following-a-recent.md)
-_Context: Hugo Chavez, Colombian President, Venezuelan President, Juan Manuel Santos, Colombia-Venezuela relations_
+_Context: Venezuelan President, Hugo Chavez, Colombia-Venezuela relations, Colombian President, Juan Manuel Santos_
 
 ##### Keith O'Brien
 ### [Cardinal Keith O'Brien who leads the Catholic Church in Scotland, defends the Scottish government's decision to release Abdelbaset al-Megrahi for humanitarian reasons and attacks the United States's "culture of vengeance" for trying to coerce Scottish ministers into "crawling like lapdogs". ](/news/2010/08/8/cardinal-keith-o-brien-who-leads-the-catholic-church-in-scotland-defends-the-scottish-government-s-decision-to-release-abdelbaset-al-megrah.md)
@@ -93,19 +93,19 @@ The leader of the Roman Catholic Church in Scotland criticises the US over react
 
 ##### Afghanistan President
 ### [President of Afghanistan Hamid Karzai's senior adviser says the government has commenced talks with some Taliban leaders. ](/news/2010/08/8/president-of-afghanistan-hamid-karzai-s-senior-adviser-says-the-government-has-commenced-talks-with-some-taliban-leaders.md)
-_Context: Hamid Karzai, Afghanistan President, Taliban_
+_Context: Afghanistan President, Hamid Karzai, Taliban_
 
 ##### Mordechai Vanunu
 ### [Mordechai Vanunu, who spoke about Israel's nuclear ambitions to "The Sunday Times" in 1986 and was referred to as a "prisoner of conscience" by Amnesty International after Israel imprisoned him for that action, is released from prison again after serving three months for meeting foreigners, including his Norwegian girlfriend, in 2007. He requests that he be allowed to leave Israel. ](/news/2010/08/8/mordechai-vanunu-who-spoke-about-israel-s-nuclear-ambitions-to-the-sunday-times-in-1986-and-was-referred-to-as-a-prisoner-of-conscience.md)
-_Context: Amnesty International, Mordechai Vanunu, Israel, Norway, prisoner of conscience, The Sunday Times_
+_Context: prisoner of conscience, Israel, Amnesty International, Norway, Mordechai Vanunu, The Sunday Times_
 
 ##### President
 ### [President of Mexico Felipe Calderon calls for a debate on the legalization of drugs. ](/news/2010/08/8/president-of-mexico-felipe-caldera3n-calls-for-a-debate-on-the-legalization-of-drugs.md)
-_Context: President, Felipe Calderon_
+_Context: Felipe Calderon, President_
 
 ##### Ebrahim Hamidi
 ### [18-year-old Ebrahim Hamidi is sentenced to death for sodomy in Iran, without legal representation after human rights lawyer Mohammad Mostafaei flees in the wake of the Sakineh Mohammadi Ashtiani case. ](/news/2010/08/8/18-year-old-ebrahim-hamidi-is-sentenced-to-death-for-sodomy-in-iran-without-legal-representation-after-human-rights-lawyer-mohammad-mostafa.md)
-_Context: Iran, Sakineh Mohammadi Ashtiani, Ebrahim Hamidi, Mohammad Mostafaei, sodomy_
+_Context: Ebrahim Hamidi, Mohammad Mostafaei, Sakineh Mohammadi Ashtiani, sodomy, Iran_
 
 ##### Mohammad Mostafaei
 ### [Mohammad Mostafaei seeks asylum in Norway after his escape from Iran to Turkey by car, horse and foot. ](/news/2010/08/8/mohammad-mostafaei-seeks-asylum-in-norway-after-his-escape-from-iran-to-turkey-by-car-horse-and-foot.md)
@@ -125,7 +125,7 @@ Journalists gather to demand greater freedoms and protection amid escalating dru
 
 ##### South Korean President
 ### [The President of South Korea Lee Myung-Bak replaces the Prime Minister of South Korea Chung Un-chan with Kim Tae-ho as part of a Cabinet reshuffle with seven other ministers also being replaced. ](/news/2010/08/8/the-president-of-south-korea-lee-myung-bak-replaces-the-prime-minister-of-south-korea-chung-un-chan-with-kim-tae-ho-as-part-of-a-cabinet-res.md)
-_Context: forming a government, Kim Tae-ho, Prime Minister, Chung Un-chan, South Korean President, Lee Myung-Bak_
+_Context: forming a government, Prime Minister, Chung Un-chan, Lee Myung-Bak, Kim Tae-ho, South Korean President_
 
 ##### Potosi
 ### [Protesters in Potosi, Bolivia, strengthen an anti-government protest by starting a hunger strike and cutting rail links to Chile. ](/news/2010/08/8/protesters-in-potosa-bolivia-strengthen-an-anti-government-protest-by-starting-a-hunger-strike-and-cutting-rail-links-to-chile.md)

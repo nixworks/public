@@ -21,7 +21,7 @@ Ulster Bank is to open 20 branches on a Sunday for the first time, to help custo
 
 ##### Tropical Storm Debby
 ### [Tropical Storm Debby continues to organize off the coast of Florida, lashing the state with high winds and heavy rains. The outer bands of the storm spawn two tornadoes, killing one person near Sarasota. ](/news/2012/06/24/tropical-storm-debby-continues-to-organize-off-the-coast-of-florida-lashing-the-state-with-high-winds-and-heavy-rains-the-outer-bands-of-t.md)
-_Context: Sarasota, the state, Tropical Storm Debby_
+_Context: the state, Tropical Storm Debby, Sarasota_
 
 ##### Christmas Island
 ### [Rescue efforts end after a boat capsized near Christmas Island, with more than 90 people still missing. ](/news/2012/06/24/rescue-efforts-end-after-a-boat-capsized-near-christmas-island-with-more-than-90-people-still-missing.md)
@@ -29,7 +29,7 @@ Rescue effort ends after refugee boat with 200 people capsized near Christmas Is
 
 ##### Manitou Springs
 ### [Manitou Springs in the U.S. state of Colorado is evacuated due to a raging wildfire just three miles from the popular vacation town. ](/news/2012/06/24/manitou-springs-in-the-u-s-state-of-colorado-is-evacuated-due-to-a-raging-wildfire-just-three-miles-from-the-popular-vacation-town.md)
-_Context: Colorado, wildfire, U.S. state, Manitou Springs_
+_Context: wildfire, Manitou Springs, U.S. state, Colorado_
 
 ##### Algo Centre Mall
 ### [The roof of the Algo Centre Mall in Elliot Lake, Ontario, Canada collapses killing at least one person and trapping several others in the debris. ](/news/2012/06/24/the-roof-of-the-algo-centre-mall-in-elliot-lake-ontario-canada-collapses-killing-at-least-one-person-and-trapping-several-others-in-the-de.md)
@@ -41,17 +41,17 @@ The iconic game show personality was admitted into Cedars-Sinai Medical Center o
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI chooses Fox News reporter and Opus Dei member Greg Burke to take a strategic communication role in the Vatican's most important government department, the secretariat of state. ](/news/2012/06/24/pope-benedict-xvi-chooses-fox-news-reporter-and-opus-dei-member-greg-burke-to-take-a-strategic-communication-role-in-the-vatican-s-most-impo.md)
-_Context: Greg Burke, Opus Dei, Fox News, secretariat of state, Pope Benedict XVI_
+_Context: Greg Burke, Opus Dei, Pope Benedict XVI, Fox News, secretariat of state_
 
 ##### Antonis Samaras
 ### [Antonis Samaras, the Prime Minister of Greece, is to miss a European Union summit as he recovers from an eye operation. ](/news/2012/06/24/antonis-samaras-the-prime-minister-of-greece-is-to-miss-a-european-union-summit-as-he-recovers-from-an-eye-operation.md)
-_Context: European Union, Antonis Samaras, Greek Prime Minister_
+_Context: Antonis Samaras, European Union, Greek Prime Minister_
 
 ##### NATO
 ### [NATO is to meet on Tuesday, based on a request from Turkey to consult them on what to do with Syria which shot down a Turkish jet after it had entered Syrian airspace. ](/news/2012/06/24/nato-is-to-meet-on-tuesday-based-on-a-request-from-turkey-to-consult-them-on-what-to-do-with-syria-which-shot-down-a-turkish-jet-after-it-h.md)
 Turkish media reports that plane wreckage was found in Syrian waters, as NATO schedules meeting to discuss incident.
 
-##### American
+##### U.S.
 ### [The United States admits that it infected Iranian computers with Spyware. ](/news/2012/06/24/the-united-states-admits-that-it-infected-iranian-computers-with-spyware.md)
 The massive piece of malware was designed to secretly map Iran&rsquo;s computer networks and monitor the computers of Iranian officials, according to officials.
 
@@ -61,7 +61,7 @@ _Context: Bradley Manning_
 
 ##### Mohamed Morsi
 ### [Mohamed Morsi of the Muslim Brotherhood is declared the winner of Egypt's presidential election run-off. ](/news/2012/06/24/mohamed-morsi-of-the-muslim-brotherhood-is-declared-the-winner-of-egypt-s-presidential-election-run-off.md)
-_Context: Mohamed Morsi, Muslim Brotherhood, presidential election_
+_Context: Mohamed Morsi, presidential election, Muslim Brotherhood_
 
 ##### Tunisia
 ### [Tunisia extradites former Libyan Prime Minister Al Baghdadi Ali Al Mahmoudi. ](/news/2012/06/24/tunisia-extradites-former-libyan-prime-minister-al-baghdadi-ali-al-mahmoudi.md)

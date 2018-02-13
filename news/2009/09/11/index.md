@@ -17,19 +17,19 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 
 ##### Zimbabwe
 ### [ Zimbabwe's President Robert Mugabe condemns "bloody whites" for meddling in his country's affairs, specifically perceived British and American interference. ](/news/2009/09/11/zimbabwe-s-president-robert-mugabe-condemns-bloody-whites-for-meddling-in-his-country-s-affairs-specifically-perceived-british-and-ameri.md)
-_Context: Robert Mugabe, American, United Kingdom, Zimbabwe, President of Zimbabwe_
+_Context: Zimbabwe, United Kingdom, U.S., President of Zimbabwe, Robert Mugabe_
 
 ##### Moldovan President
 ### [ President Vladimir Voronin of Moldova resigns. ](/news/2009/09/11/president-vladimir-voronin-of-moldova-resigns.md)
-_Context: Moldova, Vladimir Voronin, Moldovan President_
+_Context: Vladimir Voronin, Moldova, Moldovan President_
 
 ##### Prime minister
 ### [ Prime minister Jadranka Kosor of Croatia and PM Borut Pahor of Slovenia agree on an immediate end to Slovenia's blockade of Croatia's EU accession and further negotiation of the Gulf of Piran border dispute between two countries. ](/news/2009/09/11/prime-minister-jadranka-kosor-of-croatia-and-pm-borut-pahor-of-slovenia-agree-on-an-immediate-end-to-slovenia-s-blockade-of-croatia-s-eu-ac.md)
-_Context: Prime Minister of Slovenia, Jadranka Kosor, Slovenia's blockade of Croatia's EU accession, Gulf of Piran, prime minister, Slovenia, Croatia, Borut Pahor_
+_Context: Jadranka Kosor, Croatia, Borut Pahor, Gulf of Piran, Slovenia, Prime Minister of Slovenia, Slovenia's blockade of Croatia's EU accession, prime minister_
 
 ##### Kenya
 ### [ A Kenyan magistrate sentences Jon Cardon Wagner, an American who founded the popular chain of coffee shops, Nairobi Java House, to 15 years of imprisonment for the statutory rape of three teenage Kenyan girls. ](/news/2009/09/11/a-kenyan-magistrate-sentences-jon-cardon-wagner-an-american-who-founded-the-popular-chain-of-coffee-shops-nairobi-java-house-to-15-years.md)
-_Context: Jon Cardon Wagner, Kenya, Nairobi Java House, American_
+_Context: U.S., Kenya, Nairobi Java House, Jon Cardon Wagner_
 
 ##### Oldest person in the world
 ### [ The oldest person in the world, Gertrude Baines, dies in Los Angeles aged 115. ](/news/2009/09/11/the-oldest-person-in-the-world-gertrude-baines-dies-in-los-angeles-aged-115.md)
@@ -41,7 +41,7 @@ Kidnapped GOAL aid-worker Sharon Commins has made contact with her family in Ire
 
 ##### NASA
 ### [ NASA's Space Shuttle "Discovery" lands at the Edwards Air Force Base in California, USA. ](/news/2009/09/11/nasa-s-space-shuttle-discovery-lands-at-the-edwards-air-force-base-in-california-usa.md)
-_Context: Discovery, American, California, Edwards Air Force Base, NASA_
+_Context: U.S., NASA, California, Discovery, Edwards Air Force Base_
 
 ##### Venezuela
 ### [ Venezuelan President Hugo Chvez announces the discovery of a vast gas field off the coast of his country, one of the world's largest finds. ](/news/2009/09/11/venezuelan-president-hugo-chavez-announces-the-discovery-of-a-vast-gas-field-off-the-coast-of-his-country-one-of-the-world-s-largest-finds.md)

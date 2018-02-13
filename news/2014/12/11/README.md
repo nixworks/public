@@ -21,7 +21,7 @@ The capsule was buried under the Golden Dome of the Massachusetts State House in
 
 ##### United States of America
 ### [The American state of California prepares for its worst storm in five years with schools closed in the San Francisco Bay Area. ](/news/2014/12/11/the-american-state-of-california-prepares-for-its-worst-storm-in-five-years-with-schools-closed-in-the-san-francisco-bay-area.md)
-_Context: California, San Francisco Bay Area, worst storm in five years, United States of America_
+_Context: worst storm in five years, San Francisco Bay Area, California, United States of America_
 
 ##### Typhoon Hagupit (Ruby)
 ### [The death toll from Typhoon Hagupit rises to 18. ](/news/2014/12/11/the-death-toll-from-typhoon-hagupit-rises-to-18.md)
@@ -33,7 +33,7 @@ _Context: National Truth Commission, Brazilian military government, today's poli
 
 ##### British
 ### [Former British radio DJ Ray Teret is jailed for 25 years for a series of sexual assaults on 11 girls in the 1960s and 1970s conducted in association with Jimmy Saville. ](/news/2014/12/11/former-british-radio-dj-ray-teret-is-jailed-for-25-years-for-a-series-of-sexual-assaults-on-11-girls-in-the-1960s-and-1970s-conducted-in-ass.md)
-_Context: Ray Teret, Jimmy Saville, British_
+_Context: Jimmy Saville, British, Ray Teret_
 
 ##### Police
 ### [British police charge Aravindan Balakrishnan or "Comrade Bala" with 25 offences including rape in relation to the Lambeth slavery case. ](/news/2014/12/11/british-police-charge-aravindan-balakrishnan-or-comrade-bala-with-25-offences-including-rape-in-relation-to-the-lambeth-slavery-case.md)
@@ -49,7 +49,7 @@ Whether or not passwords matter, and what conditions police must meet to search 
 
 ##### 2014 pro-democracy street protests
 ### [Authorities start clearing the main protest site in Hong Kong following a recent court order for protesters to vacate the site in Admiralty area. ](/news/2014/12/11/authorities-start-clearing-the-main-protest-site-in-hong-kong-following-a-recent-court-order-for-protesters-to-vacate-the-site-in-admiralty.md)
-_Context: 2014 pro-democracy street protests, Hong Kong, Admiralty_
+_Context: 2014 pro-democracy street protests, Admiralty, Hong Kong_
 
 ##### United States House of Representatives
 ### [The United States House of Representatives narrowly passes a budget spending bill to avoid a potential government shutdown. ](/news/2014/12/11/the-united-states-house-of-representatives-narrowly-passes-a-budget-spending-bill-to-avoid-a-potential-government-shutdown.md)

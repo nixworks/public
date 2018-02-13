@@ -21,7 +21,7 @@ _Context: 2011 Yemeni protests_
 
 ##### Taliban
 ### [At least 40 people are dead and 100 injured following a Taliban suicide bomb on a Sufi Muslim shrine in Pakistan. ](/news/2011/04/3/at-least-40-people-are-dead-and-100-injured-following-a-taliban-suicide-bomb-on-a-sufi-muslim-shrine-in-pakistan.md)
-_Context: Pakistan, Taliban, Sufi, suicide bomb_
+_Context: Sufi, Taliban, suicide bomb, Pakistan_
 
 ##### China
 ### [The People's Republic of China detains Ai Weiwei, a leading artist and dissident, as part of a crackdown on dissenting views. ](/news/2011/04/3/the-people-s-republic-of-china-detains-ai-weiwei-a-leading-artist-and-dissident-as-part-of-a-crackdown-on-dissenting-views.md)
@@ -57,7 +57,7 @@ Russian President DmitryMedvedev ordered Prime Minister Vladimir Putin to &quot;
 
 ##### Guido Westerwelle
 ### [Guido Westerwelle, the Foreign Minister of Germany, resigns as leader of the Free Democrats following recent poor electoral performances. ](/news/2011/04/3/guido-westerwelle-the-foreign-minister-of-germany-resigns-as-leader-of-the-free-democrats-following-recent-poor-electoral-performances.md)
-_Context: Guido Westerwelle, Free Democratic Party (FDP), Foreign Minister of Germany_
+_Context: Free Democratic Party (FDP), Foreign Minister of Germany, Guido Westerwelle_
 
 ##### Water quality
 ### [Among the rising concerns about the water quality in Hanoi's Hoan Kiem Lake, its giant sacred turtle is captured for study and (possibly) medical treatment. ](/news/2011/04/3/among-the-rising-concerns-about-the-water-quality-in-hanoi-s-hoa-n-kiao-m-lake-its-giant-sacred-turtle-is-captured-for-study-and-possibly.md)

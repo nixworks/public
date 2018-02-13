@@ -5,7 +5,7 @@ Formats: [HTML](2017/07/2/index.html)  [JSON](2017/07/2/index.json)  [XML](2017/
 
 ##### Syrian Civil War
 ### [Three suicide bombers in Damascus kill at least 21 people and wound 12 others. ](/news/2017/07/2/three-suicide-bombers-in-damascus-kill-at-least-21-people-and-wound-12-others.md)
-_Context: Damascus, Syrian Civil War_
+_Context: Syrian Civil War, Damascus_
 
 ##### United Kingdom
 ### [The United Kingdom announces it is withdrawing from the 1964 London Fisheries Convention, which allows several European countries to fish within 6 to 12 nautical miles of each other's coastlines. ](/news/2017/07/2/the-united-kingdom-announces-it-is-withdrawing-from-the-1964-london-fisheries-convention-which-allows-several-european-countries-to-fish-wi.md)
@@ -13,7 +13,7 @@ Ministers say ending the arrangement will help the UK take back control of acces
 
 ##### People on banknotes
 ### [The Central Bank of Syria announces a new 2,000 Syrian lira (pound) bank note that will feature a portrait of President Bashar al-Assad, the President's first appearance on Syrian currency during his 17-years in office. ](/news/2017/07/2/the-central-bank-of-syria-announces-a-new-2-000-syrian-lira-pound-bank-note-that-will-feature-a-portrait-of-president-bashar-al-assad-the.md)
-_Context: People on banknotes, Central Bank of Syria, President, Syrian lira (pound), Bashar al-Assad_
+_Context: Bashar al-Assad, Central Bank of Syria, Syrian lira (pound), President, People on banknotes_
 
 ##### 2017 disasters in Russia
 ### [At least 14 people are killed in Russia's Tatarstan Republic as a bus catches fire after colliding with a truck. ](/news/2017/07/2/at-least-14-people-are-killed-in-russia-s-tatarstan-republic-as-a-bus-catches-fire-after-colliding-with-a-truck.md)

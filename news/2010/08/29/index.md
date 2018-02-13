@@ -9,11 +9,11 @@ Grief and anger at the killing of eight Hong Kong tourists in a bus siege in Man
 
 ##### President of Chechnya
 ### [At least 19 people are killed in a fire fight between President of Chechnya Ramzan Kadyrov's personal guards and protesters in Tsentoroi. ](/news/2010/08/29/at-least-19-people-are-killed-in-a-fire-fight-between-president-of-chechnya-ramzan-kadyrov-s-personal-guards-and-protesters-in-tsentoroi.md)
-_Context: Ramzan Kadyrov, President of Chechnya, Tsentoroi_
+_Context: President of Chechnya, Tsentoroi, Ramzan Kadyrov_
 
 ##### Palestinian
 ### [A Palestinian man is killed by the collapse of a smuggling tunnel under the border between Egypt and the Gaza Strip. ](/news/2010/08/29/a-palestinian-man-is-killed-by-the-collapse-of-a-smuggling-tunnel-under-the-border-between-egypt-and-the-gaza-strip.md)
-_Context: Egypt, Palestinian, Gaza Strip_
+_Context: Gaza Strip, Palestinian, Egypt_
 
 ##### Afghanistan
 ### [7 American soldiers are killed in fighting in Afghanistan over the weekend. ](/news/2010/08/29/7-american-soldiers-are-killed-in-fighting-in-afghanistan-over-the-weekend.md)
@@ -21,11 +21,11 @@ Seven U.S. troops have died in weekend attacks in Afghanistan&#39;s embattled so
 
 ##### Catholic Church
 ### [The Catholic Church admits that during a meeting in April Godfried Danneels, the retired Catholic leader in Belgium, advised a person who had experienced abuse to remain silent until his abuser Roger Vangheluwe, the Bishop of Brugge, retired. ](/news/2010/08/29/the-catholic-church-admits-that-during-a-meeting-in-april-godfried-danneels-the-retired-catholic-leader-in-belgium-advised-a-person-who-ha.md)
-_Context: Roger Vangheluwe, Catholic Church, Belgium, Godfried Danneels, Bishop of Brugge_
+_Context: Bishop of Brugge, Roger Vangheluwe, Godfried Danneels, Catholic Church, Belgium_
 
 ##### 62nd Primetime Emmy Awards
 ### ["Mad Men" wins the Emmy for Outstanding Drama Series. ](/news/2010/08/29/mad-men-wins-the-emmy-for-outstanding-drama-series.md)
-_Context: Mad Men, 62nd Primetime Emmy Awards, Emmy Awards_
+_Context: 62nd Primetime Emmy Awards, Mad Men, Emmy Awards_
 
 ##### Last of the Summer Wine
 ### [The final episode of "Last of the Summer Wine" airs on BBC One after 37 years. ](/news/2010/08/29/the-final-episode-of-last-of-the-summer-wine-airs-on-bbc-one-after-37-years.md)

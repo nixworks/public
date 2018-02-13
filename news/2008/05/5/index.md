@@ -3,9 +3,9 @@ Formats: [HTML](2008/05/5/index.html)  [JSON](2008/05/5/index.json)  [XML](2008/
 
 ## [2008-05-5](/news/2008/05/5/index.md)
 
-##### American
+##### U.S.
 ### [ The United States Federal Reserve System reports that banks are tightening lending standards on home mortgages, other types of consumer loans and business loans in response to the subprime mortgage crisis. ](/news/2008/05/5/the-united-states-federal-reserve-system-reports-that-banks-are-tightening-lending-standards-on-home-mortgages-other-types-of-consumer-loa.md)
-_Context: Federal Reserve System, American, subprime mortgage crisis_
+_Context: subprime mortgage crisis, Federal Reserve System, U.S._
 
 ##### Crude oil
 ### [ Crude oil futures contracts reach US$120 a barrel on the New York Mercantile Exchange for the first time. ](/news/2008/05/5/crude-oil-futures-contracts-reach-us-120-a-barrel-on-the-new-york-mercantile-exchange-for-the-first-time.md)
@@ -13,7 +13,7 @@ U.S. crude oil futures rosemore than $3 a barrel to a record over $120 on Monday
 
 ##### Somalia
 ### [ Somalian troops open fire killing at least two people during food riots in Mogadishu. ](/news/2008/05/5/somalian-troops-open-fire-killing-at-least-two-people-during-food-riots-in-mogadishu.md)
-_Context: Mogadishu, Somalia_
+_Context: Somalia, Mogadishu_
 
 ##### Cyclone Nargis
 ### [ Media reports the death toll from Cyclone Nargis in Myanmar to have passed 10,000. ](/news/2008/05/5/media-reports-the-death-toll-from-cyclone-nargis-in-myanmar-to-have-passed-10-000.md)
@@ -25,7 +25,7 @@ _Context: Shanghai, China_
 
 ##### Bolivia
 ### [ In Bolivia's Santa Cruz department, 86% of voters supported proposals for greater autonomy in a referendum. Bolivian President Evo Morales condemned the referendum, calling it illegal. ](/news/2008/05/5/in-bolivia-s-santa-cruz-department-86-of-voters-supported-proposals-for-greater-autonomy-in-a-referendum-bolivian-president-evo-morales.md)
-_Context: Santa Cruz, referendum, Evo Morales, President of Bolivia, Bolivia_
+_Context: referendum, Evo Morales, Bolivia, President of Bolivia, Santa Cruz_
 
 ## [Previous Day...](/news/2008/05/4/index.md)
 

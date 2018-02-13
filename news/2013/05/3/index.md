@@ -37,11 +37,11 @@ There has been mixed reaction over the Brian Shivers not guilty verdict.
 
 ##### Pakistan
 ### [Chaudhry Zulfiqar Ali, a prosecutor with Pakistan's Federal Investigation Agency leading the prosecution of former President Pervez Musharraf over alleged involvement in the assassination of Benazir Bhutto, is shot dead on the way to court in Islamabad. ](/news/2013/05/3/chaudhry-zulfiqar-ali-a-prosecutor-with-pakistan-s-federal-investigation-agency-leading-the-prosecution-of-former-president-pervez-musharra.md)
-_Context: Benazir Bhutto, Federal Investigation Agency, Pervez Musharraf, president, Pakistan, Islamabad_
+_Context: Islamabad, Pervez Musharraf, Federal Investigation Agency, president, Pakistan, Benazir Bhutto_
 
 ##### Daryl Washington
 ### [Daryl Washington, an American football player with the Arizona Cardinals, is arrested on aggravated assault charges in Phoenix, Arizona. ](/news/2013/05/3/daryl-washington-an-american-football-player-with-the-arizona-cardinals-is-arrested-on-aggravated-assault-charges-in-phoenix-arizona.md)
-_Context: Daryl Washington, Phoenix, Arizona, NFL, Arizona Cardinals_
+_Context: Arizona Cardinals, Phoenix, Arizona, Daryl Washington, NFL_
 
 ##### China
 ### [Police in China arrest more than 900 people as they shutdown a million dollar crime ring that was selling rat meat as mutton. ](/news/2013/05/3/police-in-china-arrest-more-than-900-people-as-they-shutdown-a-million-dollar-crime-ring-that-was-selling-rat-meat-as-mutton.md)

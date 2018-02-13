@@ -5,7 +5,7 @@ Formats: [HTML](2016/02/17/index.html)  [JSON](2016/02/17/index.json)  [XML](201
 
 ##### Yemeni Civil War (2015-present)
 ### [A suicide bomber kills at least 13 recruits at a Yemeni Army base run by forces loyal to ousted President Abdrabbuh Mansur Hadi in the southern port city of Aden. The Islamic State of Iraq and the Levant claim responsibility for the attack. ](/news/2016/02/17/a-suicide-bomber-kills-at-least-13-recruits-at-a-yemeni-army-base-run-by-forces-loyal-to-ousted-president-abdrabbuh-mansur-hadi-in-the-south.md)
-_Context: Abdrabbuh Mansur Hadi, Yemeni, Yemeni Civil War (2015-present), Aden, ISIL, President_
+_Context: Aden, President, Abdrabbuh Mansur Hadi, Yemeni Civil War (2015-present), Yemeni, ISIL_
 
 ##### February 2016 Ankara bombing
 ### [Military vehicles explode outside a Turkish Armed Forces barracks in Ankara, Turkey, killing at least 28 people and injuring 61 others. Authorities believe a car bomb caused the blast. A senior Turkish security source says initial signs indicate that the outlawed Kurdistan Workers' Party (PKK) are responsible. ](/news/2016/02/17/military-vehicles-explode-outside-a-turkish-armed-forces-barracks-in-ankara-turkey-killing-at-least-28-people-and-injuring-61-others-auth.md)
@@ -21,7 +21,7 @@ MSF said three people were pulled alive from the rubble of a recently destroyed 
 
 ##### The state
 ### [Experts confirm the discovery of a lost Spanish settlement in Florida from an expedition led by Tristan de Luna. ](/news/2016/02/17/experts-confirm-the-discovery-of-a-lost-spanish-settlement-in-florida-from-an-expedition-led-by-tristan-de-luna.md)
-_Context: the state, Tristan de Luna_
+_Context: Tristan de Luna, the state_
 
 ##### Iran
 ### [Iran says that it plans to increase its crude oil output until it achieves pre-sanction levels, although that contravenes OPEC efforts to restrain output. ](/news/2016/02/17/iran-says-that-it-plans-to-increase-its-crude-oil-output-until-it-achieves-pre-sanction-levels-although-that-contravenes-opec-efforts-to-re.md)
@@ -73,11 +73,11 @@ Egyptian authorities have ordered the closure of a prominent local non-governmen
 
 ##### Colombia
 ### [Colombian authorities are investigating the discovery of at least 100 dismembered bodies in a sewer system underneath La Modelo prison in Bogota. Officials say the practice of killing, dismembering, and tossing body parts into drains might have also happened at prisons in other cities, e.g., Popayan, Bucaramanga and Barranquilla. The victims include inmates, visitors, and others. ](/news/2016/02/17/colombian-authorities-are-investigating-the-discovery-of-at-least-100-dismembered-bodies-in-a-sewer-system-underneath-la-modelo-prison-in-bo.md)
-_Context: Popayan, sewer system, Barranquilla, Bogota, La Modelo, Colombia, Bucaramanga_
+_Context: Popayan, La Modelo, sewer system, Bucaramanga, Barranquilla, Colombia, Bogota_
 
 ##### Ugandan general election, 2016
 ### [Prime Minister Ruhakana Rugunda says tomorrow's presidential and parliamentary elections will be peaceful, and urges all registered citizens to vote. Seven candidates are vying to unseat President Museveni, who has been in office since 1986. ](/news/2016/02/17/prime-minister-ruhakana-rugunda-says-tomorrowas-presidential-and-parliamentary-elections-will-be-peaceful-and-urges-all-registered-citize.md)
-_Context: Yoweri Museveni, President, Ruhakana Rugunda, Ugandan general election, 2016, parliamentary, Prime Minister_
+_Context: parliamentary, President, Yoweri Museveni, Ruhakana Rugunda, Prime Minister, Ugandan general election, 2016_
 
 ## [Previous Day...](/news/2016/02/16/index.md)
 

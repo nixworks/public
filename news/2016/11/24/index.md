@@ -5,7 +5,7 @@ Formats: [HTML](2016/11/24/index.html)  [JSON](2016/11/24/index.json)  [XML](201
 
 ##### Lasting peace
 ### [The Colombian government and FARC rebels sign a new peace deal after the failure of the original one. ](/news/2016/11/24/the-colombian-government-and-farc-rebels-sign-a-new-peace-deal-after-the-failure-of-the-original-one.md)
-_Context: lasting peace, FARC, Colombia_
+_Context: Colombia, lasting peace, FARC_
 
 ##### Rohingya conflict
 ### [A United Nations official accuses Myanmar of committing genocide against the Rohingya. ](/news/2016/11/24/a-united-nations-official-accuses-myanmar-of-committing-genocide-against-the-rohingya.md)
@@ -29,7 +29,7 @@ A truck bomb in Iraq kills 77 people, most of them foreign Shia pilgrims, police
 
 ##### Insurgency in the North Caucasus
 ### [Two Russian special forces and two suspected militants are killed in a gunfight in Nazran, Ingushetia. ](/news/2016/11/24/two-russian-special-forces-and-two-suspected-militants-are-killed-in-a-gunfight-in-nazran-ingushetia.md)
-_Context: Ingushetia, Ingushetia insurgency, Nazran, Insurgency in the North Caucasus, Russian special forces_
+_Context: Insurgency in the North Caucasus, Ingushetia insurgency, Russian special forces, Ingushetia, Nazran_
 
 ##### 2016 India-Pakistan military confrontation
 ### [Pakistani Chief of Air Staff Sohail Aman warns India not to escalate tensions in the disputed territory of Kashmir under the threat of a full-scale war. British Foreign Secretary Boris Johnson urges both sides to restrain themselves while on a diplomatic mission to Islamabad. ](/news/2016/11/24/pakistani-chief-of-air-staff-sohail-aman-warns-india-not-to-escalate-tensions-in-the-disputed-territory-of-kashmir-under-the-threat-of-a-ful.md)
@@ -41,7 +41,7 @@ Amnesty says Nigerian security forces have killed more than 150 protesters since
 
 ##### Sinai insurgency
 ### [Eight Egyptian Army soldiers are killed by a suicide bomber at a checkpoint in northern Sinai. ](/news/2016/11/24/eight-egyptian-army-soldiers-are-killed-by-a-suicide-bomber-at-a-checkpoint-in-northern-sinai.md)
-_Context: Sinai insurgency, Sinai Peninsula, suicide bomber, Egyptian Army_
+_Context: Sinai Peninsula, Sinai insurgency, Egyptian Army, suicide bomber_
 
 ##### 2016 Atlantic hurricane season
 ### [Hurricane Otto makes landfall in Nicaragua, becoming the southernmost hurricane on record to hit Central America. ](/news/2016/11/24/hurricane-otto-makes-landfall-in-nicaragua-becoming-the-southernmost-hurricane-on-record-to-hit-central-america.md)
@@ -73,7 +73,7 @@ Police clashed with supporters of presidential candidate Maryse Narcisse in Port
 
 ##### Austrian presidential election, 2016
 ### [Freedom Party of Austria presidential candidate Norbert Hofer intends to hold a referendum on European Union membership if elected. ](/news/2016/11/24/freedom-party-of-austria-presidential-candidate-norbert-hofer-intends-to-hold-a-referendum-on-european-union-membership-if-elected.md)
-_Context: European Union, Freedom Party of Austria, Austrian presidential election, 2016, Norbert Hofer_
+_Context: Norbert Hofer, Austrian presidential election, 2016, Freedom Party of Austria, European Union_
 
 ##### Grenadian constitutional referendum, 2016
 ### [Voters in Grenada choose whether they should be more independent from the British legal system, among other amendments. ](/news/2016/11/24/voters-in-grenada-choose-whether-they-should-be-more-independent-from-the-british-legal-system-among-other-amendments.md)

@@ -17,7 +17,7 @@ More than 100 people were killed in a suicide car bombing at a busy market in an
 
 ##### Tolikara riot
 ### [12 people injured, 1 boy killed, and several home and kiosk burned in Tolikara Regency, Papua, Indonesia. ](/news/2015/07/17/12-people-injured-1-boy-killed-and-several-home-and-kiosk-burned-in-tolikara-regency-papua-indonesia.md)
-_Context: Tolikara riot, Tolikara Regency, Papua, Indonesia_
+_Context: Indonesia, Tolikara riot, Papua, Tolikara Regency_
 
 ##### Australian
 ### [Australian artist Nigel Milsom wins the 2015 Archibald Prize for a portrait of barrister Charles Waterstreet who represented Milsom when he was sentenced for armed robbery. ](/news/2015/07/17/australian-artist-nigel-milsom-wins-the-2015-archibald-prize-for-a-portrait-of-barrister-charles-waterstreet-who-represented-milsom-when-he.md)
@@ -41,7 +41,7 @@ Ash spewing from two volcanoes in Indonesia prompts the closure of three more ai
 
 ##### Philippines
 ### [At least five people are dead and three are missing after a coal mine in the Philippines province of Antique collapses. ](/news/2015/07/17/at-least-five-people-are-dead-and-three-are-missing-after-a-coal-mine-in-the-philippines-province-of-antique-collapses.md)
-_Context: Philippines, Antique_
+_Context: Antique, Philippines_
 
 ##### Johannesburg
 ### [Two commuter trains collide at the Booysens train station in Johannesburg, South Africa, injuring more than 250 people. ](/news/2015/07/17/two-commuter-trains-collide-at-the-booysens-train-station-in-johannesburg-south-africa-injuring-more-than-250-people.md)
@@ -53,7 +53,7 @@ All 10 South Africans detained in China a few weeks ago will soon be home, the d
 
 ##### Ukraine
 ### [Ukraine expels Valery Shibeko, Russia's top envoy to Odessa, after declaring the consulate general ""persona non grata"" for conducting unnamed activities "incompatible" with his diplomatic work. ](/news/2015/07/17/ukraine-expels-valery-shibeko-russia-s-top-envoy-to-odessa-after-declaring-the-consulate-general-persona-non-grata-for-conducting-unna.md)
-_Context: Odessa, Ukraine, persona non grata_
+_Context: Ukraine, persona non grata, Odessa_
 
 ##### Liza Maza
 ### [Liza Maza, a human rights activist and former Filipino congresswoman, and the Center for Women's Resources criticized the United States and the Philippines governments for preventing Maza's boarding of a July 9, 2015, Korean Air flight destined for Washington, D.C. Maza, who has a U.S. visa valid until 2018, was scheduled to speak before a left-wing conference on U.S. activities in the Philippines. ](/news/2015/07/17/liza-maza-a-human-rights-activist-and-former-filipino-congresswoman-and-the-center-for-women-s-resources-criticized-the-united-states-and.md)

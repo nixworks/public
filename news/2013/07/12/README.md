@@ -5,7 +5,7 @@ Formats: [HTML](2013/07/12/index.html)  [JSON](2013/07/12/index.json)  [XML](201
 
 ##### Moro National Liberation Front
 ### [The Moro National Liberation Front kidnaps eight civilians in the Philippines Basilan province later releasing four of them. ](/news/2013/07/12/the-moro-national-liberation-front-kidnaps-eight-civilians-in-the-philippines-basilan-province-later-releasing-four-of-them.md)
-_Context: Moro National Liberation Front, Philippines, Basilan island_
+_Context: Philippines, Basilan island, Moro National Liberation Front_
 
 ##### 
 ### [A car bomb explodes near an African Union convoy killing three soldiers. ](/news/2013/07/12/a-car-bomb-explodes-near-an-african-union-convoy-killing-three-soldiers.md)
@@ -25,7 +25,7 @@ China and Taiwan braced on Friday for the impact of Typhoon Soulik as the toll o
 
 ##### Australian
 ### [9 people are feared dead and 88 are rescued by Australian authorities after a boat carrying asylum seekers capsizes north of Christmas Island. ](/news/2013/07/12/9-people-are-feared-dead-and-88-are-rescued-by-australian-authorities-after-a-boat-carrying-asylum-seekers-capsizes-north-of-christmas-islan.md)
-_Context: Christmas Island, Australian, asylum seeker_
+_Context: Australian, asylum seeker, Christmas Island_
 
 ##### Derails
 ### [A commuter train derails in the Paris suburb of Bretigny-sur-Orge with at least eight people dead. ](/news/2013/07/12/a-commuter-train-derails-in-the-paris-suburb-of-bra-c-tigny-sur-orge-with-at-least-eight-people-dead.md)
@@ -33,15 +33,15 @@ An Intercity train to Limoges derailed today around 5pm in the municipality of B
 
 ##### San Francisco General Hospital
 ### [A third person, a critically injured unidentified girl, dies at San Francisco General Hospital of injuries she sustained as a result of the Saturday, July 6, 2013 crash-landing of Asiana Airlines Flight 214, a Boeing 777 (180 were injured, 16 remain hospitalized, including two critical adults; autopsy results will take about 3 weeks). ](/news/2013/07/12/a-third-person-a-critically-injured-unidentified-girl-dies-at-san-francisco-general-hospital-of-injuries-she-sustained-as-a-result-of-the.md)
-_Context: Asiana Airlines Flight 214, San Francisco General Hospital, Boeing 777_
+_Context: Boeing 777, San Francisco General Hospital, Asiana Airlines Flight 214_
 
 ##### Ethiopian Airlines
 ### [An empty Ethiopian Airlines Boeing 787 Dreamliner catches fire eight hours after landing at London Heathrow Airport, closing runways for an hour. Another Boeing 787 Dreamliner (Thomson Airways-owned) was forced to return to Britain's Manchester Airport after an unspecified mechanical problem. ](/news/2013/07/12/an-empty-ethiopian-airlines-boeing-787-dreamliner-catches-fire-eight-hours-after-landing-at-london-heathrow-airport-closing-runways-for-an.md)
-_Context: Ethiopian Airlines, Manchester, London Heathrow Airport, Thomson Airways, 787 Dreamliner_
+_Context: Manchester, London Heathrow Airport, 787 Dreamliner, Ethiopian Airlines, Thomson Airways_
 
-##### American
+##### U.S.
 ### [The US calls on the Egyptian Army to free deposed president Mohamed Morsi. ](/news/2013/07/12/the-us-calls-on-the-egyptian-army-to-free-deposed-president-mohamed-morsi.md)
-_Context: American, Egypt, 2013 coup d'etat, Mohamed Morsi, Egyptian Army, President_
+_Context: U.S., 2013 coup d'etat, Egypt, Egyptian Army, President, Mohamed Morsi_
 
 ##### Malala Yousafzai
 ### [Malala Yousafzai of Pakistan visits the UN headquarters in New York City to celebrate her 16th birthday with the UN address. ](/news/2013/07/12/malala-yousafzai-of-pakistan-visits-the-un-headquarters-in-new-york-city-to-celebrate-her-16th-birthday-with-the-un-address.md)
@@ -49,7 +49,7 @@ UNITED NATIONS (AP) — Malala Yousafzai celebrated her 16th birthday on the wor
 
 ##### Indonesia
 ### [Authorities in Indonesia search for 70 prison inmates who escaped from the Tanjung Gusta prison in North Sumatra province after a prison riot last night. Twelve of the escapees were convicted of terrorism related offences. ](/news/2013/07/12/authorities-in-indonesia-search-for-70-prison-inmates-who-escaped-from-the-tanjung-gusta-prison-in-north-sumatra-province-after-a-prison-rio.md)
-_Context: North Sumatra, Indonesia_
+_Context: Indonesia, North Sumatra_
 
 ##### Irish
 ### [In Ireland, the Dail votes to approve the controversial Protection of Life During Pregnancy Bill 2013 ](/news/2013/07/12/in-ireland-the-da-il-votes-to-approve-the-controversial-protection-of-life-during-pregnancy-bill-2013.md)
@@ -67,7 +67,7 @@ _Context: Relu Fenechiu, Romanian Transport minister_
 ### [Supporters and opponents of deposed President of Egypt Mohamed Morsi hold rallies on the first Friday of Ramadan. ](/news/2013/07/12/supporters-and-opponents-of-deposed-president-of-egypt-mohamed-morsi-hold-rallies-on-the-first-friday-of-ramadan.md)
 Sky News Australia has the top stories in news online from Australia and the rest of the World.
 
-##### American
+##### U.S.
 ### [U.S. Homeland Security Secretary Janet Napolitano announces her resignation to become the President of the University of California. ](/news/2013/07/12/u-s-homeland-security-secretary-janet-napolitano-announces-her-resignation-to-become-the-president-of-the-university-of-california.md)
 Janet Napolitano , the U.S. secretary of Homeland Security and former governor of Arizona, is being named as the next president of the University of California system, in an unusual choice that brings a national-level politician to a position usually held by an academic, The Times has learned. Her a...
 

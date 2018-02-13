@@ -9,7 +9,7 @@ A loud explosion rocked central Kabul early on Tuesday during rush hour, and a t
 
 ##### War in North-West Pakistan
 ### [A suicide bomber explodes his vest next to a government building in Mardan, Pakistan, killing one person and critically wounding three more. ](/news/2016/04/19/a-suicide-bomber-explodes-his-vest-next-to-a-government-building-in-mardan-pakistan-killing-one-person-and-critically-wounding-three-more.md)
-_Context: War in North-West Pakistan, Mardan, Pakistan_
+_Context: War in North-West Pakistan, Pakistan, Mardan_
 
 ##### Iraqi Civil War
 ### [Iraqi officials, following arrested IS militants' directions, uncover two mass graves with bodies of about 40 people in Ramadi. ](/news/2016/04/19/iraqi-officials-following-arrested-is-militants-directions-uncover-two-mass-graves-with-bodies-of-about-40-people-in-ramadi.md)
@@ -21,7 +21,7 @@ Air strikes that killed around 40 people in a crowded market in rebel territory 
 
 ##### Earthquake
 ### [The death toll from Saturday's earthquake has risen to at least 480 with 1,700 missing. Another 2,500 have been injured. President Rafael Correa states it is the worst disaster in Ecuador in seven decades, and the reconstruction will have a "huge economic impact" on the country. ](/news/2016/04/19/the-death-toll-from-saturday-s-earthquake-has-risen-to-at-least-480-with-1-700-missing-another-2-500-have-been-injured-president-rafael-co.md)
-_Context: earthquake, Rafael Correa, Ecuador, President_
+_Context: earthquake, Rafael Correa, President, Ecuador_
 
 ##### Sweden-United States relations
 ### [Swedish deputy prime minister Asa Romson is criticized after referring to the September 11 attacks in New York as mere "accidents". Romson made the comments on public television while discussing the resignation of housing minister Mehmet Kaplan who had compared Israel's treatment of Arabs to the Nazis' treatment of Jews during the Holocaust. ](/news/2016/04/19/swedish-deputy-prime-minister-asa-romson-is-criticized-after-referring-to-the-september-11-attacks-in-new-york-as-mere-accidents-romson.md)
@@ -45,7 +45,7 @@ Huang Yu convicted of leaking state secrets to unidentified foreign power, state
 
 ##### Lutz Bachmann
 ### [Lutz Bachmann, the leader of the German far-right and anti-Islam Pegida movement, goes on trial in Dresden on charges of hate speech. ](/news/2016/04/19/lutz-bachmann-the-leader-of-the-german-far-right-and-anti-islam-pegida-movement-goes-on-trial-in-dresden-on-charges-of-hate-speech.md)
-_Context: Lutz Bachmann, Pegida, Dresden, German_
+_Context: Lutz Bachmann, German, Pegida, Dresden_
 
 ##### Transgender rights in the United States
 ### [An American federal appeals court in Richmond, Virginia, rules a transgender high school student who was banned from the boys' bathroom can proceed with the lawsuit against the school board. ](/news/2016/04/19/an-american-federal-appeals-court-in-richmond-virginia-rules-a-transgender-high-school-student-who-was-banned-from-the-boys-bathroom-can.md)
@@ -61,7 +61,7 @@ BUSAN, South Korea (AP) — The 14-year-old boy in the black school jacket stare
 
 ##### Flint water crisis
 ### [According to government officials, Michigan Attorney General Bill Schuette tomorrow will announce criminal charges against two state regulators and a Flint employee in connection with the city's lead-tainted water crisis. ](/news/2016/04/19/according-to-government-officials-michigan-attorney-general-bill-schuette-tomorrow-will-announce-criminal-charges-against-two-state-regulat.md)
-_Context: Bill Schuette, Flint water crisis, criminal charge, Flint, Michigan, Michigan Attorney General_
+_Context: Bill Schuette, Flint, Michigan, criminal charge, Michigan Attorney General, Flint water crisis_
 
 ##### 2016 U.S. presidential election
 ### [Voters in the U.S. state of New York go to the polls for a primary election with Hillary Clinton and Donald Trump expected to win the respective contests for their parties in that state. ](/news/2016/04/19/voters-in-the-u-s-state-of-new-york-go-to-the-polls-for-a-primary-election-with-hillary-clinton-and-donald-trump-expected-to-win-the-respec.md)
@@ -69,15 +69,15 @@ New York election results from the 2016 general election.
 
 ##### Philippine presidential election, 2016
 ### [Rodrigo Duterte apologizes for making remarks about rape. ](/news/2016/04/19/rodrigo-duterte-apologizes-for-making-remarks-about-rape.md)
-_Context: rape, Rodrigo Duterte, Philippine presidential election, 2016_
+_Context: rape, Philippine presidential election, 2016, Rodrigo Duterte_
 
 ##### Australia
 ### [The government of the Australian external territory of Norfolk Island announces it is going to take its governance issue to the United Nations. Former and final Chief Minister of the island Lisle Snell said he seeks to have Norfolk Island added on the UN's list of Non-Self-Governing Territories and be given the rights that are accorded under the terms and conditions of being on the list. In 2015, the Australian government terminated Norfolk Island's self-governing status in response to serious financial issues but without the islanders' or government's consent. ](/news/2016/04/19/the-government-of-the-australian-external-territory-of-norfolk-island-announces-it-is-going-to-take-its-governance-issue-to-the-united-natio.md)
-_Context: Chief Minister, UN's list of Non-Self-Governing Territories, Norfolk Island, United Nations, Australia, Lisle Snell_
+_Context: Australia, Norfolk Island, United Nations, UN's list of Non-Self-Governing Territories, Chief Minister, Lisle Snell_
 
 ##### Princess Sofia
 ### [Princess Sofia of Sweden and Prince Carl Philip announce birth of first son. ](/news/2016/04/19/princess-sofia-of-sweden-and-prince-carl-philip-announce-birth-of-first-son.md)
-_Context: Prince Carl Philip, Princess Sofia, son_
+_Context: son, Princess Sofia, Prince Carl Philip_
 
 ## [Previous Day...](/news/2016/04/18/index.md)
 

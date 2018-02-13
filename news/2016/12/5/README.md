@@ -13,11 +13,11 @@ The Russian Foreign Ministry has criticized western leaders after none appeared 
 
 ##### Mexican war on drugs
 ### [ Police report 14 suspected criminals, who attacked a police patrol, are killed in a gunbattle with police and Mexican Marines in Veracruz, Mexico. An unknown number fled. ](/news/2016/12/5/police-report-14-suspected-criminals-who-attacked-a-police-patrol-are-killed-in-a-gunbattle-with-police-and-mexican-marines-in-veracruz.md)
-_Context: Mexican war on drugs, Mexican Marines, Mexican, Veracruz_
+_Context: Veracruz, Mexican war on drugs, Mexican, Mexican Marines_
 
 ##### Alaska Airlines
 ### [Alaska Airlines cancels 20 flights into and out of Seattle due to inclement weather forecast in the Pacific Northwest area. ](/news/2016/12/5/alaska-airlines-cancels-20-flights-into-and-out-of-seattle-due-to-inclement-weather-forecast-in-the-pacific-northwest-area.md)
-_Context: Alaska Airlines, Seattle, Pacific Northwest_
+_Context: Alaska Airlines, Pacific Northwest, Seattle_
 
 ##### Karachi
 ### [At least 12 people are killed and 75 others injured as a fire erupts in Karachi's Regent Plaza Hotel. ](/news/2016/12/5/at-least-12-people-are-killed-and-75-others-injured-as-a-fire-erupts-in-karachi-s-regent-plaza-hotel.md)
@@ -37,7 +37,7 @@ John Key has resigned as New Zealand&#039;s prime minister in a sudden announcem
 
 ##### Impeachment process against President Park Geun-hye
 ### [The South Korean National Assembly begins hearings ahead of an impeachment vote against President Park Geun-Hye. ](/news/2016/12/5/the-south-korean-national-assembly-begins-hearings-ahead-of-an-impeachment-vote-against-president-park-geun-hye.md)
-_Context: Impeachment process against President Park Geun-hye, South Korea, parliamentary review, South Korean President, Park Geun-Hye_
+_Context: Impeachment process against President Park Geun-hye, parliamentary review, South Korean President, Park Geun-Hye, South Korea_
 
 ##### 2016 United States presidential election recounts
 ### [ A federal judge in Michigan, Mark A. Goldsmith, rules that a recount in the Presidential Election vote in that state must begin on Monday, December 5. ](/news/2016/12/5/a-federal-judge-in-michigan-mark-a-goldsmith-rules-that-a-recount-in-the-presidential-election-vote-in-that-state-must-begin-on-monday.md)
@@ -49,11 +49,11 @@ President-elect’s former rival for Republican presidential nomination says he 
 
 ##### Italian constitutional referendum, 2016
 ### [ Following the result of the constitutional referendum, Matteo Renzi will resign from his office as Prime Minister of Italy. With most ballots counted, the "No" vote leads with 60%. ](/news/2016/12/5/following-the-result-of-the-constitutional-referendum-matteo-renzi-will-resign-from-his-office-as-prime-minister-of-italy-with-most-ballo.md)
-_Context: the "No" vote, Italian constitutional referendum, 2016, Italian Prime Minister, Matteo Renzi_
+_Context: Italian Prime Minister, Matteo Renzi, the "No" vote, Italian constitutional referendum, 2016_
 
 ##### Last month's presidential election
 ### [Manuel Valls, the Prime Minister of France, announces his candidacy for the Socialist Party nomination. He will step down as PM on Tuesday. ](/news/2016/12/5/manuel-valls-the-prime-minister-of-france-announces-his-candidacy-for-the-socialist-party-nomination-he-will-step-down-as-pm-on-tuesday.md)
-_Context: Manuel Valls, Prime Minister, last month's presidential election, PS_
+_Context: PS, last month's presidential election, Manuel Valls, Prime Minister_
 
 ##### QV66
 ### [Tests, by a team of international archaeologists, of mummified legs found in QV66 in Egypt's Valley of the Queens indicate they most likely belong to Queen Nefertari, Pharaoh Ramesses II's first and favorite wife. ](/news/2016/12/5/tests-by-a-team-of-international-archaeologists-of-mummified-legs-found-in-qv66-in-egypt-s-valley-of-the-queens-indicate-they-most-likely.md)

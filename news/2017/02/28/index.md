@@ -45,7 +45,7 @@ _Context: Royal Thai Government_
 
 ##### Presidency of Donald Trump
 ### [The Trump administration plans to increase the budget of the United States Armed Forces by more than 9%. ](/news/2017/02/28/the-trump-administration-plans-to-increase-the-budget-of-the-united-states-armed-forces-by-more-than-9.md)
-_Context: United States military personnel, Presidency of Donald Trump_
+_Context: Presidency of Donald Trump, United States military personnel_
 
 ## [Previous Day...](/news/2017/02/27/index.md)
 

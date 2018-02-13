@@ -33,7 +33,7 @@ A ritual to let freshmen blow off steam left 30 cadets injured, including 24 wit
 
 ##### General Mills
 ### [General Mills sells subsidiary Green Giant to B&G Foods Inc. for $765 million. ](/news/2015/09/4/general-mills-sells-subsidiary-green-giant-to-b-g-foods-inc-for-765-million.md)
-_Context: Green Giant, $, General Mills_
+_Context: General Mills, Green Giant, $_
 
 ##### BlackBerry Limited
 ### [BlackBerry Limited announces it will purchase Good Technology, a provider of mobile software, as part of its broader shift to a services role within the internet of things. ](/news/2015/09/4/blackberry-limited-announces-it-will-purchase-good-technology-a-provider-of-mobile-software-as-part-of-its-broader-shift-to-a-services-rol.md)

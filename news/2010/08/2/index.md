@@ -9,11 +9,11 @@ Sappers find parts of Grad rocket thought to have been one of five fired towards
 
 ##### United Nations
 ### [The United Nations establishes a panel with an Israeli and Turk amongst its members to investigate the Gaza flotilla raid in May. ](/news/2010/08/2/the-united-nations-establishes-a-panel-with-an-israeli-and-turk-amongst-its-members-to-investigate-the-gaza-flotilla-raid-in-may.md)
-_Context: Turkey, Gaza flotilla raid, Israel, United Nations_
+_Context: Israel, Turkey, Gaza flotilla raid, United Nations_
 
 ##### First Folio
 ### [An antiques dealer is imprisoned for handling a copy of the "First Folio" by poet and playwright William Shakespeare, though cleared of actually stealing it, in the UK. ](/news/2010/08/2/an-antiques-dealer-is-imprisoned-for-handling-a-copy-of-the-first-folio-by-poet-and-playwright-william-shakespeare-though-cleared-of-actu.md)
-_Context: William Shakespeare, First Folio_
+_Context: First Folio, William Shakespeare_
 
 ##### Cuba
 ### [Cuban President Ral Castro pledges to ease state control of the economy. ](/news/2010/08/2/cuban-president-raul-castro-pledges-to-ease-state-control-of-the-economy.md)
@@ -41,15 +41,15 @@ _Context: Uganda, Lake Albert_
 
 ##### European Union
 ### [The European Union announces it will end its mission to reform security forces in Guinea-Bissau due to the deteriorating situation in the country. ](/news/2010/08/2/the-european-union-announces-it-will-end-its-mission-to-reform-security-forces-in-guinea-bissau-due-to-the-deteriorating-situation-in-the-co.md)
-_Context: European Union, Guinea-Bissau_
+_Context: Guinea-Bissau, European Union_
 
 ##### Government
 ### [The Government of Pakistan summons the British High Commissioner to Islamabad for a "dressing down" by Foreign Minister Shah Mehmood Qureshi over remarks made by the British Prime Minister David Cameron on Pakistan "looking both ways" on terrorism. ](/news/2010/08/2/the-government-of-pakistan-summons-the-british-high-commissioner-to-islamabad-for-a-dressing-down-by-foreign-minister-shah-mehmood-qureshi.md)
-_Context: Shah Mehmood Qureshi, government, Minister of Foreign Affairs, terrorism, Islamabad, Prime Minister, Pakistan, David Cameron, United Kingdom_
+_Context: terrorism, United Kingdom, government, Minister of Foreign Affairs, David Cameron, Shah Mehmood Qureshi, Islamabad, Prime Minister, Pakistan_
 
 ##### Trial
 ### [The trial of Malaysian opposition leader Anwar Ibrahim on sodomy charges is deferred until August 9. ](/news/2010/08/2/the-trial-of-malaysian-opposition-leader-anwar-ibrahim-on-sodomy-charges-is-deferred-until-august-9.md)
-_Context: trial, Malaysia, sodomy, Anwar Ibrahim_
+_Context: Malaysia, trial, sodomy, Anwar Ibrahim_
 
 ##### China
 ### [A drunk man on a tractor kills 11 people and injures many others in a rampage in northern China. ](/news/2010/08/2/a-drunk-man-on-a-tractor-kills-11-people-and-injures-many-others-in-a-rampage-in-northern-china.md)
@@ -73,7 +73,7 @@ A House ethics panel charged California Democrat Rep. Maxine Waters today with b
 
 ##### Census of Marine Life
 ### [The Census of Marine Life is released after 10 years of study of the worlds oceans showing that there are 230,000 species of animal living there. ](/news/2010/08/2/the-census-of-marine-life-is-released-after-10-years-of-study-of-the-worlds-oceans-showing-that-there-are-230-000-species-of-animal-living-t.md)
-_Context: animal, ocean, Census of Marine Life_
+_Context: animal, Census of Marine Life, ocean_
 
 ## [Previous Day...](/news/2010/08/1/index.md)
 

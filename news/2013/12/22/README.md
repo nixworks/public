@@ -5,7 +5,7 @@ Formats: [HTML](2013/12/22/index.html)  [JSON](2013/12/22/index.json)  [XML](201
 
 ##### Barrel bomb
 ### [Syrian government warplanes drop barrel bombs on the city of Aleppo killing 63 people, including civilians. ](/news/2013/12/22/syrian-government-warplanes-drop-barrel-bombs-on-the-city-of-aleppo-killing-63-people-including-civilians.md)
-_Context: Aleppo, barrel bomb_
+_Context: barrel bomb, Aleppo_
 
 ##### Libya
 ### [13 people are killed and 10 injured in a suicide car bomb attack at a military checkpoint near the eastern Libyan city of Benghazi. ](/news/2013/12/22/13-people-are-killed-and-10-injured-in-a-suicide-car-bomb-attack-at-a-military-checkpoint-near-the-eastern-libyan-city-of-benghazi.md)

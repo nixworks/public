@@ -13,9 +13,9 @@ _Context: Khyber Agency_
 
 ##### South Africa
 ### [South Africa warned Ugandan intelligence services last October that it might be attacked like it was on Sunday evening. ](/news/2010/07/16/south-africa-warned-ugandan-intelligence-services-last-october-that-it-might-be-attacked-like-it-was-on-sunday-evening.md)
-_Context: attacks, Uganda, South Africa_
+_Context: South Africa, attacks, Uganda_
 
-##### American
+##### U.S.
 ### [The United States places U.S.-born Muslim cleric Anwar al-Awlaki on its "terror blacklist". ](/news/2010/07/16/the-united-states-places-u-s-born-muslim-cleric-anwar-al-awlaki-on-its-terror-blacklist.md)
 Washington puts US-born Muslim cleric Anwar al-Awlaki on a terror blacklist for allegedly planning attacks on the US.
 
@@ -33,7 +33,7 @@ Historian Orlando Figes, who admitted writing fake reviews on Amazon, is to pay 
 
 ##### President
 ### [President of Tajikistan Emomalii Rahmon's daughter Zarina Rahmonova presents the news on Channel One. ](/news/2010/07/16/president-of-tajikistan-emomalii-rahmon-s-daughter-zarina-rahmonova-presents-the-news-on-channel-one.md)
-_Context: President, Zarina Rahmonova, Emomalii Rahmon_
+_Context: Emomalii Rahmon, President, Zarina Rahmonova_
 
 ##### P!nk
 ### [Singer P!nk is hospitalised without serious injury after falling out of a harness and colliding with a barricade during a concert in Nuremberg. ](/news/2010/07/16/singer-p-nk-is-hospitalised-without-serious-injury-after-falling-out-of-a-harness-and-colliding-with-a-barricade-during-a-concert-in-nurembe.md)
@@ -89,7 +89,7 @@ Guinea has released the son of former president Lansana Conte, held for the past
 
 ##### Human Rights Watch
 ### [Human Rights Watch expresses its dissatisfaction with President of Syria Bashar al-Assad's human rights record on the tenth anniversary of his rise to the top, calling it "a wasted decade". ](/news/2010/07/16/human-rights-watch-expresses-its-dissatisfaction-with-president-of-syria-bashar-al-assad-s-human-rights-record-on-the-tenth-anniversary-of-h.md)
-_Context: Bashar al-Assad, Human Rights Watch, President_
+_Context: President, Bashar al-Assad, Human Rights Watch_
 
 ##### Mount Everest
 ### [Photos taken on Mount Everest from the same spot where similar pictures were taken by George Mallory in 1921 reveal what is described as an "alarming" loss of ice. ](/news/2010/07/16/photos-taken-on-mount-everest-from-the-same-spot-where-similar-pictures-were-taken-by-george-mallory-in-1921-reveal-what-is-described-as-an.md)
@@ -97,7 +97,7 @@ Photos taken by a mountaineer on Everest from the same spot where similar pictur
 
 ##### President
 ### [President of Venezuela Hugo Chvez announces the exhumation of 19th-century revolutionary Simn Bolvar to investigate suspected foul play in Bolvar's death. ](/news/2010/07/16/president-of-venezuela-hugo-chavez-announces-the-exhumation-of-19th-century-revolutionary-simon-bolivar-to-investigate-suspected-foul-play-i.md)
-_Context: exhumed, Simn Bolvar, President, Hugo Chvez_
+_Context: exhumed, President, Simn Bolvar, Hugo Chvez_
 
 ##### Nigeria
 ### [Police in Nigeria seize the passports of four top football officials who were sacked after the national football team's poor performance at the 2010 FIFA World Cup leads to fraud allegations. ](/news/2010/07/16/police-in-nigeria-seize-the-passports-of-four-top-football-officials-who-were-sacked-after-the-national-football-team-s-poor-performance-at.md)

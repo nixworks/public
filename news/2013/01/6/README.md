@@ -9,7 +9,7 @@ Syrian President Bashar al-Assad delivers a rare televised speech, denouncing th
 
 ##### Indian Army
 ### [A cross-border raid conducted by Indian troops in the disputed Kashmir region results in the death of one Pakistani soldier and another critically wounded, according to Pakistani reports. ](/news/2013/01/6/a-cross-border-raid-conducted-by-indian-troops-in-the-disputed-kashmir-region-results-in-the-death-of-one-pakistani-soldier-and-another-crit.md)
-_Context: Kashmir, Pakistan Army, Kashmir conflict, Indian Army_
+_Context: Indian Army, Kashmir conflict, Pakistan Army, Kashmir_
 
 ##### Drones launch
 ### [A drone attack conducted by the United States kills at least ten people (suspected militants) in South Waziristan, Pakistan. ](/news/2013/01/6/a-drone-attack-conducted-by-the-united-states-kills-at-least-ten-people-suspected-militants-in-south-waziristan-pakistan.md)
@@ -17,11 +17,11 @@ A US drone attack kills at least eight suspected militants in a Pakistan north-w
 
 ##### Kachin
 ### [Kachin rebels claim the government has fired shells at the rebel de facto headquarters of Laiza. ](/news/2013/01/6/kachin-rebels-claim-the-government-has-fired-shells-at-the-rebel-de-facto-headquarters-of-laiza.md)
-_Context: Kachin, Laiza_
+_Context: Laiza, Kachin_
 
 ##### Spin Boldak
 ### [Suicide bombers kill four in an attack in Spin Boldak, Afghanistan. ](/news/2013/01/6/suicide-bombers-kill-four-in-an-attack-in-spin-boldak-afghanistan.md)
-_Context: Afghanistan, Spin Boldak_
+_Context: Spin Boldak, Afghanistan_
 
 ##### South Africa
 ### [South Africa announces it will send 400 more soldiers to the Central African Republic in an effort to assist the current regime, which faces a potential attack by the Seleka rebel coalition on the capital. ](/news/2013/01/6/south-africa-announces-it-will-send-400-more-soldiers-to-the-central-african-republic-in-an-effort-to-assist-the-current-regime-which-faces.md)
@@ -33,11 +33,11 @@ Palestinian President Mahmoud Abbas tells West Bank officials to prepare to put 
 
 ##### Gerard Helders
 ### [In the Netherlands, Gerard Helders who served as Minister of Colonial Affairs from the 1957 until 1959, the oldest known former politician in the world dies at the age of 107. ](/news/2013/01/6/in-the-netherlands-gerard-helders-who-served-as-minister-of-colonial-affairs-from-the-1957-until-1959-the-oldest-known-former-politician-i.md)
-_Context: Gerard Helders, Minister of Colonial Affairs_
+_Context: Minister of Colonial Affairs, Gerard Helders_
 
 ##### Apple Inc.
 ### [At Apple, applications developers say they gave Apple plenty of warning about issues with its iOS maps issues. ](/news/2013/01/6/at-apple-applications-developers-say-they-gave-apple-plenty-of-warning-about-issues-with-its-ios-maps-issues.md)
-_Context: iOS, developers, Apple Inc._
+_Context: Apple Inc., iOS, developers_
 
 ## [Previous Day...](/news/2013/01/5/index.md)
 

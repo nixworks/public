@@ -15,17 +15,17 @@ At least 27 people, including two children, have been killed and scores hurt in 
 ### [Prominent Hillsborough disaster justice campaigner Anne Williams dies from cancer, having made her last public appearance at Anfield's recent 24th anniversary memorial. ](/news/2013/04/18/prominent-hillsborough-disaster-justice-campaigner-anne-williams-dies-from-cancer-having-made-her-last-public-appearance-at-anfield-s-recen.md)
 Tributes were paid today to one the leading lights in the family campaign to bring truth and justice for the victims and survivors of the Hillsborough disaster.
 
-##### American
+##### U.S.
 ### [The United States reclaims its spot as the top export market for Japan as China slips due to economic slowdown. Japan's overall annual trade deficit meanwhile reaches 8.2 trillion yen, the highest on record. ](/news/2013/04/18/the-united-states-reclaims-its-spot-as-the-top-export-market-for-japan-as-china-slips-due-to-economic-slowdown-japan-s-overall-annual-trade.md)
-_Context: top export market, Japan, China, yen, trade surplus, American_
+_Context: U.S., Japan, yen, top export market, China, trade surplus_
 
 ##### Trade Minister
 ### [Australian Trade Minister Craig Emerson says free trade talks between Australia and China are deadlocked over differences of opinion on the removal of investment limits for state-owned enterprises. ](/news/2013/04/18/australian-trade-minister-craig-emerson-says-free-trade-talks-between-australia-and-china-are-deadlocked-over-differences-of-opinion-on-the.md)
-_Context: China, Australia, state-owned enterprises, Craig Emerson, Trade Minister, free trade talks_
+_Context: Craig Emerson, state-owned enterprises, China, Australia, Trade Minister, free trade talks_
 
 ##### YouTube
 ### [YouTube successfully defends itself in a billion dollar copyright infringement suit by Viacom. ](/news/2013/04/18/youtube-successfully-defends-itself-in-a-billion-dollar-copyright-infringement-suit-by-viacom.md)
-_Context: copyright infringement, YouTube, Viacom_
+_Context: YouTube, Viacom, copyright infringement_
 
 ##### Texas fertilizer plant explosion
 ### [15 people are confirmed dead after the Texas fertilizer plant explosion in West, Texas, United States. ](/news/2013/04/18/15-people-are-confirmed-dead-after-the-texas-fertilizer-plant-explosion-in-west-texas-united-states.md)
@@ -49,7 +49,7 @@ About 30 migrant workers are injured in a shooting on a strawberry farm in Greec
 
 ##### Earth-like
 ### [Two Earth-like planets, Kepler-62e and Kepler-62f, are discovered cirulating around the star Kepler-62 in the habitable zone. ](/news/2013/04/18/two-earth-like-planets-kepler-62e-and-kepler-62f-are-discovered-cirulating-around-the-star-kepler-62-in-the-habitable-zone.md)
-_Context: Kepler-62, Kepler-62f, star, Kepler-62e, habitable zone, Earth-like_
+_Context: star, Kepler-62, Kepler-62e, Kepler-62f, Earth-like, habitable zone_
 
 ## [Previous Day...](/news/2013/04/17/index.md)
 

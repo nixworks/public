@@ -13,7 +13,7 @@ SAINT-DENIS, France — A woman blew herself up in a Paris suburb early Wednesda
 
 ##### Boko Haram insurgency
 ### [A twin-suicide bombing of a mobile phone market in the northern Nigerian city of Kano kills at least fifteen people. ](/news/2015/11/18/a-twin-suicide-bombing-of-a-mobile-phone-market-in-the-northern-nigerian-city-of-kano-kills-at-least-fifteen-people.md)
-_Context: Kano, Nigeria, suicide bombing, mobile phone, Boko Haram insurgency_
+_Context: suicide bombing, mobile phone, Nigeria, Boko Haram insurgency, Kano_
 
 ##### Syrian Civil War
 ### [The Russian Air Force destroys around 500 fuel tanker vehicles used by ISIS and other extremist groups for transporting illegal oil from Syria to Iraq. ](/news/2015/11/18/the-russian-air-force-destroys-around-500-fuel-tanker-vehicles-used-by-isis-and-other-extremist-groups-for-transporting-illegal-oil-from-syr.md)
@@ -33,13 +33,13 @@ Atlantic journalist dedicates his nonfiction prize to his friend Prince Jones, k
 
 ##### PMC-Sierra
 ### [An auction for the acquisition of chipmaker PMC-Sierra continues, with a new bid by Microsemi Corp., topping the previous bid from Skyworks Solutions. The latest bid values PMC at $2.3 billion. ](/news/2015/11/18/an-auction-for-the-acquisition-of-chipmaker-pmc-sierra-continues-with-a-new-bid-by-microsemi-corp-topping-the-previous-bid-from-skyworks.md)
-_Context: PMC-Sierra, Skyworks Solutions, Microsemi Corp._
+_Context: PMC-Sierra, Microsemi Corp., Skyworks Solutions_
 
 ##### Obama Administration
 ### [The Obama Administration through the U.S. Treasury Department will clamp down further on corporate income tax-avoiding inversion deals by U.S. companies with foreign rivals. There is a pending inversion deal between U.S. drug maker Pfizer Inc. and smaller Irish competitor Allergan, Plc. ](/news/2015/11/18/the-obama-administration-through-the-u-s-treasury-department-will-clamp-down-further-on-corporate-income-tax-avoiding-inversion-deals-by-u.md)
 The U.S. Treasury Department will clamp down further this week on corporate income tax-avoiding &quot;inversion&quot; deals by U.S. companies with foreign rivals, according to a letter seen by Reuters on Wednesday.
 
-##### American
+##### U.S.
 ### [Airport workers at seven of the busiest U.S. hubs plan to strike tonight and Thursday over wages and what they allege are threats against unionizing. The Service Employees International Union (SEIU) says some 2,000 plane cleaners, baggage handlers, and other workers will strike at New York City's Kennedy and LaGuardia airports, as well as Newark Liberty, Chicago O'Hare, Boston, Philadelphia, and Fort Lauderdale. ](/news/2015/11/18/airport-workers-at-seven-of-the-busiest-u-s-hubs-plan-to-strike-tonight-and-thursday-over-wages-and-what-they-allege-are-threats-against-un.md)
 Airport workers at seven of thebusiest U.S. hubs plan to strike on Wednesday night and Thursdayover what they say are bad wages and threats against unionizing.
 
@@ -59,7 +59,7 @@ Two people are killed following an explosion at a Cardiff steelworks.
 ### [U.S. President Barack Obama calls on China to stop constructing artificial islands in the South China Sea. Obama's comments to reporters come after a meeting with Philippine President Benigno S. Aquino III. The U.S. president is in Manila for the latest Asia-Pacific Economic Cooperation summit where the Trans-Pacific Partnership is the central topic of conversation. China attempts to keep the topic of the islands off the agenda. ](/news/2015/11/18/u-s-president-barack-obama-calls-on-china-to-stop-constructing-artificial-islands-in-the-south-china-sea-obamaas-comments-to-reporters-c.md)
 In the Philippines for an Asia-Pacific Economic Cooperation summit, President Obama urged China to halt military activities on the disputed islands.
 
-##### American
+##### U.S.
 ### [U.S. and Cuban officials sign an environmental accord in Havana, the first such agreement since the countries renewed diplomatic relations this summer. ](/news/2015/11/18/u-s-and-cuban-officials-sign-an-environmental-accord-in-havana-the-first-such-agreement-since-the-countries-renewed-diplomatic-relations-t.md)
 On Wednesday, U.S. and Cuban officials signed an environmental accord in Havana, the first such agreement since the diplomatic thaw.
 

@@ -9,15 +9,15 @@ Heavy gunfire reported in the southern Syrian city of Daraa as anti-government p
 
 ##### 2010-2011 Ivorian crisis
 ### [Up to one million people flee Abidjan in southern Cote d'Ivoire amid violence. ](/news/2011/03/25/up-to-one-million-people-flee-abidjan-in-southern-ca-te-d-ivoire-amid-violence.md)
-_Context: Abidjan, Cote d'Ivoire, 2010-2011 Ivorian crisis_
+_Context: 2010-2011 Ivorian crisis, Cote d'Ivoire, Abidjan_
 
 ##### Ethiopia
 ### [A bomb blast in the Ethiopian capital Addis Ababa injures two people. ](/news/2011/03/25/a-bomb-blast-in-the-ethiopian-capital-addis-ababa-injures-two-people.md)
-_Context: Addis Ababa, Ethiopia_
+_Context: Ethiopia, Addis Ababa_
 
 ##### Peshawar
 ### [A bomb in the city of Peshawar in Pakistan results in nineteen people being injured. ](/news/2011/03/25/a-bomb-in-the-city-of-peshawar-in-pakistan-results-in-nineteen-people-being-injured.md)
-_Context: Pakistan, Peshawar_
+_Context: Peshawar, Pakistan_
 
 ##### Archaeologist
 ### [Archaeologist Michael R. Waters and associates report in "Science" that discoveries at the Debra L Friedkin site north of Austin, Texas, may indicate that the Clovis culture was not the first to settle the Americas. ](/news/2011/03/25/archaeologist-michael-r-waters-and-associates-report-in-science-that-discoveries-at-the-debra-l-friedkin-site-north-of-austin-texas-may.md)
@@ -29,15 +29,15 @@ _Context: Zambia, China_
 
 ##### U.S.
 ### [The U.S. International Trade Commission has agreed to hear an appeal from Kodak to an initial unfavorable decision by an administrative judge on Kodak's claim that Research in Motion and Apple have infringed its patents, in connection with wireless devices equipped with digital cameras. ](/news/2011/03/25/the-u-s-international-trade-commission-has-agreed-to-hear-an-appeal-from-kodak-to-an-initial-unfavorable-decision-by-an-administrative-judg.md)
-_Context: digital cameras, Apple Inc., U.S., Kodak, International Trade Commission, Research in Motion_
+_Context: Apple Inc., digital cameras, Kodak, Research in Motion, International Trade Commission, U.S._
 
 ##### Lead
 ### [More than 100 people are poisoned by lead from a battery plant built in a residential area in Zhejiang, China. ](/news/2011/03/25/more-than-100-people-are-poisoned-by-lead-from-a-battery-plant-built-in-a-residential-area-in-zhejiang-china.md)
-_Context: China, lead, Zhejiang_
+_Context: lead, China, Zhejiang_
 
 ##### Japan
 ### [Japan's National Police Agency states that the official death toll from the 2011 Tohoku earthquake and tsunami has passed 10,000 with 17,053 missing. ](/news/2011/03/25/japan-s-national-police-agency-states-that-the-official-death-toll-from-the-2011-tahoku-earthquake-and-tsunami-has-passed-10-000-with-17-05.md)
-_Context: 2011 Tohoku earthquake and tsunami, Japan, police_
+_Context: Japan, 2011 Tohoku earthquake and tsunami, police_
 
 ##### Japan
 ### [Japanese officials raise concerns that the core of unit 3 at the Fukushima I Nuclear Power Plant may be damaged. ](/news/2011/03/25/japanese-officials-raise-concerns-that-the-core-of-unit-3-at-the-fukushima-i-nuclear-power-plant-may-be-damaged.md)
@@ -53,7 +53,7 @@ _Context: DR Congo, Kinshasa, Kabila government, Republic of Congo_
 
 ##### Iranian government
 ### [The Government of Iran rejects a United Nations Human Rights Council investigation into alleged human rights abuses. ](/news/2011/03/25/the-government-of-iran-rejects-a-united-nations-human-rights-council-investigation-into-alleged-human-rights-abuses.md)
-_Context: human rights abuses, Human Rights Council, Iranian government_
+_Context: Human Rights Council, Iranian government, human rights abuses_
 
 ##### Chinese
 ### [Chinese human rights activist Liu Xianbin is sentenced to ten years in jail on charges of inciting subversion. ](/news/2011/03/25/chinese-human-rights-activist-liu-xianbin-is-sentenced-to-ten-years-in-jail-on-charges-of-inciting-subversion.md)
@@ -69,7 +69,7 @@ Night Stalker rapist Delroy Grant, who carried out a series of sex attacks on el
 
 ##### Kyrgyzstan
 ### [Inmates at six prisons in Kyrgyzstan go on hunger strike over poor conditions. ](/news/2011/03/25/inmates-at-six-prisons-in-kyrgyzstan-go-on-hunger-strike-over-poor-conditions.md)
-_Context: hunger strike, Kyrgyzstan_
+_Context: Kyrgyzstan, hunger strike_
 
 ##### New Delhi
 ### [Demonstrators in New Delhi, India, march to the Indian Parliament demanding the government end plans to build a large number of nuclear power plants. ](/news/2011/03/25/demonstrators-in-new-delhi-india-march-to-the-indian-parliament-demanding-the-government-end-plans-to-build-a-large-number-of-nuclear-powe.md)
@@ -81,11 +81,11 @@ The exiled Tibetan Parliament here on Friday unanimously accepted the Dalai Lama
 
 ##### Zimbabwe
 ### [Zimbabwe's Minister of Public Works, Theresa Makone of the MDC, goes into hiding for fear of arrest. ](/news/2011/03/25/zimbabwe-s-minister-of-public-works-theresa-makone-of-the-mdc-goes-into-hiding-for-fear-of-arrest.md)
-_Context: Movement for Democratic Change, Minister of Public Works, Theresa Makone, Zimbabwe_
+_Context: Minister of Public Works, Zimbabwe, Theresa Makone, Movement for Democratic Change_
 
 ##### Yassin Noman
 ### [Yassin Noman, the head of Yemen's opposition coalition, rejects the offers by the President of Yemen Ali Abdullah Saleh to resign by the end of the year. ](/news/2011/03/25/yassin-noman-the-head-of-yemen-s-opposition-coalition-rejects-the-offers-by-the-president-of-yemen-ali-abdullah-saleh-to-resign-by-the-end.md)
-_Context: President, Yemen, Yassin Noman, Ali Abdullah Saleh_
+_Context: President, Ali Abdullah Saleh, Yassin Noman, Yemen_
 
 ##### Northern Ireland Assembly
 ### [The Northern Ireland Assembly dissolves ahead of May elections. ](/news/2011/03/25/the-northern-ireland-assembly-dissolves-ahead-of-may-elections.md)

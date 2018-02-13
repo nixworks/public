@@ -9,7 +9,7 @@ Thousands of people waving Syrian flags and shouting &quot;We Want Freedom!&quot
 
 ##### Civil war
 ### [Rebel forces in Libya regain the town of Ajdabiya. ](/news/2011/04/17/rebel-forces-in-libya-regain-the-town-of-ajdabiya.md)
-_Context: civil war, Libya, Ajdabiya_
+_Context: Ajdabiya, Libya, civil war_
 
 ##### NATO
 ### [NATO announces that eight soldiers from member countries died in fighting in Afghanistan. ](/news/2011/04/17/nato-announces-that-eight-soldiers-from-member-countries-died-in-fighting-in-afghanistan.md)
@@ -21,11 +21,11 @@ _Context: 2011 Yemeni protests, Sana'a_
 
 ##### China
 ### [China raises its bank reserves requirements as an anti-inflation move, an increase of 50 basis points (half of a percent) effective April 21. ](/news/2011/04/17/china-raises-its-bank-reserves-requirements-as-an-anti-inflation-move-an-increase-of-50-basis-points-half-of-a-percent-effective-april-21.md)
-_Context: China, inflation_
+_Context: inflation, China_
 
 ##### Oman
 ### [Oman is to spend 1 billion rials in an attempt to prevent further anti-government protests. ](/news/2011/04/17/oman-is-to-spend-1-billion-rials-in-an-attempt-to-prevent-further-anti-government-protests.md)
-_Context: anti-government protests, Oman, rials_
+_Context: rials, anti-government protests, Oman_
 
 ##### United States Secretary of State
 ### [The United States Secretary of State Hillary Clinton visits Japan to announce US assistance for the recovery effort following the 2011 Tohoku earthquake and tsunami. ](/news/2011/04/17/the-united-states-secretary-of-state-hillary-clinton-visits-japan-to-announce-us-assistance-for-the-recovery-effort-following-the-2011-taho.md)
@@ -45,15 +45,15 @@ _Context: Beijing, Protestant, China_
 
 ##### National Coalition Party
 ### [The National Coalition Party wins the Finnish parliamentary election (44 seats), with the True Finns, third-place finishers, emerging as a new major political party (39 seats). Biggest losers are the Centre Party (36 seats); coalition talks will probably be held between the Coalition, the True Finns and the Social Democrats (42 seats).](/news/2011/04/17/the-national-coalition-party-wins-the-finnish-parliamentary-election-44-seats-with-the-true-finns-third-place-finishers-emerging-as-a-n.md)
-_Context: National Coalition Party, Finland, parliamentary election, True Finns, Centre Party, Social Democratic Party_
+_Context: True Finns, Finland, National Coalition Party, Centre Party, Social Democratic Party, parliamentary election_
 
 ##### Goodluck Jonathan
 ### [Goodluck Jonathan will be reelected as President of Nigeria based on unofficial results in the presidential election. ](/news/2011/04/17/goodluck-jonathan-will-be-reelected-as-president-of-nigeria-based-on-unofficial-results-in-the-presidential-election.md)
-_Context: President, presidential election, Goodluck Jonathan_
+_Context: presidential election, Goodluck Jonathan, President_
 
 ##### Supreme Leader
 ### [The Supreme Leader of Iran Ayatollah Ali Khamenei refuses to accept the resignation of Intelligence Chief Heyder Moslehi. ](/news/2011/04/17/the-supreme-leader-of-iran-ayatollah-ali-khamenei-refuses-to-accept-the-resignation-of-intelligence-chief-heyder-moslehi.md)
-_Context: Supreme Leader, Heyder Moslehi, Ali Khamenei, Ayatollah_
+_Context: Heyder Moslehi, Supreme Leader, Ali Khamenei, Ayatollah_
 
 ## [Previous Day...](/news/2011/04/16/index.md)
 

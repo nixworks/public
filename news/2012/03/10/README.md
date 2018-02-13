@@ -5,7 +5,7 @@ Formats: [HTML](2012/03/10/index.html)  [JSON](2012/03/10/index.json)  [XML](201
 
 ##### 2011-2012 Syrian uprising
 ### [Syrian uprising: At least 45 women and children are killed and burned in Homs after the United Nations visited Syrian President Bashar al-Assad to discuss the uprising. ](/news/2012/03/10/syrian-uprising-at-least-45-women-and-children-are-killed-and-burned-in-homs-after-the-united-nations-visited-syrian-president-bashar-al-as.md)
-_Context: Homs, 2011-2012 Syrian uprising, Bashar al-Assad, President, United Nations_
+_Context: United Nations, 2011-2012 Syrian uprising, President, Bashar al-Assad, Homs_
 
 ##### Israeli-Palestinian clashes
 ### [March 2012 Gaza-Israel clashes: At least 130 rockets are fired into Israel from Gaza, and 12 Palestinians militants are killed as part of the latest escalation in violence in the region. ](/news/2012/03/10/march-2012-gaza-israel-clashes-at-least-130-rockets-are-fired-into-israel-from-gaza-and-12-palestinians-militants-are-killed-as-part-of-th.md)
@@ -25,7 +25,7 @@ At least six people are killed in a grenade attack in the Kenyan capital which t
 
 ##### Comics artist
 ### [French comics artist Jean Giraud, also known as Moebius, the creator of Blueberry and a range of influential science-fiction comics, dies at age 73. ](/news/2012/03/10/french-comics-artist-jean-giraud-also-known-as-mabius-the-creator-of-blueberry-and-a-range-of-influential-science-fiction-comics-dies-at.md)
-_Context: Blueberry, Jean Giraud, comics artist_
+_Context: Jean Giraud, comics artist, Blueberry_
 
 ##### Peru
 ### [A fire in Peru destroys half a million textbooks and other education materials. ](/news/2012/03/10/a-fire-in-peru-destroys-half-a-million-textbooks-and-other-education-materials.md)
@@ -33,7 +33,7 @@ A fire at an education ministry warehouse in Peru destroys 500,000 textbooks and
 
 ##### Smer-Social Democracy
 ### [The leftist opposition party Smer-Social Democracy wins a clear majority in the Slovakian parliamentary election. ](/news/2012/03/10/the-leftist-opposition-party-smer-social-democracy-wins-a-clear-majority-in-the-slovakian-parliamentary-election.md)
-_Context: Slovakian parliamentary election, Smer-Social Democracy_
+_Context: Smer-Social Democracy, Slovakian parliamentary election_
 
 ##### Mitt Romney
 ### [Mitt Romney wins the caucuses in Guam, the Northern Mariana Islands, the Virgin Islands and Wyoming. ](/news/2012/03/10/mitt-romney-wins-the-caucuses-in-guam-the-northern-mariana-islands-the-virgin-islands-and-wyoming.md)
@@ -41,11 +41,11 @@ In Wyoming, Romney won seven delegates. Santorum gained three and Paul one.
 
 ##### Rally
 ### [New protests erupt in Russia, after last week's election of Vladimir Putin as President for a third term. ](/news/2012/03/10/new-protests-erupt-in-russia-after-last-week-s-election-of-vladimir-putin-as-president-for-a-third-term.md)
-_Context: Russian President, last week's election, Vladimir Putin, rally_
+_Context: Vladimir Putin, rally, Russian President, last week's election_
 
 ##### Cyclist
 ### [Hundreds of nude cyclists take to the street in Lima, Peru to protest unsafe road conditions. ](/news/2012/03/10/hundreds-of-nude-cyclists-take-to-the-street-in-lima-peru-to-protest-unsafe-road-conditions.md)
-_Context: cyclist, Lima, Peru_
+_Context: Peru, Lima, cyclist_
 
 ##### Frank Sherwood Rowland
 ### [Frank Sherwood Rowland, the winner of the 1995 Nobel Prize in Chemistry for warning about the depletion of the ozone layer, dies in the US state of California. ](/news/2012/03/10/frank-sherwood-rowland-the-winner-of-the-1995-nobel-prize-in-chemistry-for-warning-about-the-depletion-of-the-ozone-layer-dies-in-the-us-s.md)

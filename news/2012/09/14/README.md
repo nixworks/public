@@ -25,7 +25,7 @@ _Context: Indonesia, East Kalimantan, Mahakam River_
 
 ##### Chinese Marine Surveillance
 ### [Six Chinese Marine Surveillance ships are reported near the disputed Senkaku Islands by the Japanese Coast Guard. China says "two surveillance ship fleets" are in the waters "around" the islands for "patrols and law enforcement". ](/news/2012/09/14/six-chinese-marine-surveillance-ships-are-reported-near-the-disputed-senkaku-islands-by-the-japanese-coast-guard-china-says-two-surveillan.md)
-_Context: China, Senkaku Islands, Japanese Coast Guard, Chinese Marine Surveillance_
+_Context: Chinese Marine Surveillance, Senkaku Islands, China, Japanese Coast Guard_
 
 ##### Pope
 ### [The Pope visits Lebanon. ](/news/2012/09/14/the-pope-visits-lebanon.md)
@@ -37,7 +37,7 @@ The United States accused Syria on Friday of using the &quot;brutal repression&q
 
 ##### HTV-3
 ### [HTV-3 detaches from the ISS for a burial in the Pacific Ocean. ATV 3 thrusts the ISS' orbit two kilometers up. TMA-04M will land on 17 September. ATV-003, named "Edoardo Amaldi", is planned to disconnect on September 25th and burn up itself and a load of trash in the atmosphere over the same ocean. ](/news/2012/09/14/htv-3-detaches-from-the-iss-for-a-burial-in-the-pacific-ocean-atv-3-thrusts-the-iss-orbit-two-kilometers-up-tma-04m-will-land-on-17-septe.md)
-_Context: HTV-3, South Pacific Ocean, ATV-3, TMA, ISS, Edoardo Amaldi_
+_Context: ISS, TMA, ATV-3, Edoardo Amaldi, HTV-3, South Pacific Ocean_
 
 ## [Previous Day...](/news/2012/09/13/index.md)
 

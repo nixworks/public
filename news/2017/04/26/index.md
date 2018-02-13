@@ -17,7 +17,7 @@ Latest violence between Lulua-Luba and Chow-Pende communities extends eight mont
 
 ##### Jonathan Demme
 ### [American film director Jonathan Demme, winner of the Academy Award for Best Director for "The Silence of the Lambs", dies of complications from esophageal cancer. ](/news/2017/04/26/american-film-director-jonathan-demme-winner-of-the-academy-award-for-best-director-for-the-silence-of-the-lambs-dies-of-complications-f.md)
-_Context: The Silence of the Lambs, Jonathan Demme, Academy Award for Best Director, esophageal cancer_
+_Context: esophageal cancer, Jonathan Demme, The Silence of the Lambs, Academy Award for Best Director_
 
 ##### North Korea-South Korea relations
 ### [The United States deploys parts of its Terminal High Altitude Area Defense in South Korea amidst high tension caused by North Korea's escalation of its missile and nuclear weapons programs. ](/news/2017/04/26/the-united-states-deploys-parts-of-its-terminal-high-altitude-area-defense-in-south-korea-amidst-high-tension-caused-by-north-korea-s-escala.md)
@@ -31,7 +31,7 @@ An unarmed intercontinental ballistic missile was launched just after midnight W
 ### [Venezuela says it will withdraw from the Organization of American States after the organization decided to call a meeting without Venezuela. ](/news/2017/04/26/venezuela-says-it-will-withdraw-from-the-organization-of-american-states-after-the-organization-decided-to-call-a-meeting-without-venezuela.md)
 Venezuela said on Wednesday it was quitting the Organisation of American States in anger at pressure from the bloc over the government&#39;s handling of the country&#39;s political crisis.
 
-##### American
+##### U.S.
 ### [The United States ended a six-year Central-African hunt for Joseph Kony. ](/news/2017/04/26/the-united-states-ended-a-six-year-central-african-hunt-for-joseph-kony.md)
 One of Africas longest-surviving rebel groups, the LRA has terrorised parts of central Africa for 30 years.
 
@@ -49,7 +49,7 @@ TONY Abbott has weighed in on Cory Bernardi’s recent expansion of his fledglin
 
 ##### Morocco
 ### [The Moroccan Assembly of Representatives votes 208 to 91 in favor of approving of a coalition cabinet led by Saadeddine Othmani. ](/news/2017/04/26/the-moroccan-assembly-of-representatives-votes-208-to-91-in-favor-of-approving-of-a-coalition-cabinet-led-by-saadeddine-othmani.md)
-_Context: Saadeddine Othmani, cabinet, Assembly of Representatives, Morocco_
+_Context: Assembly of Representatives, cabinet, Saadeddine Othmani, Morocco_
 
 ##### Homo
 ### [A speculative study hypothesizes that a species of "Homo" may have lived in California 130,000 years ago. ](/news/2017/04/26/a-speculative-study-hypothesizes-that-a-species-of-homo-may-have-lived-in-california-130-000-years-ago.md)

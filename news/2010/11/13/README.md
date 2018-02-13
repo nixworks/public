@@ -5,7 +5,7 @@ Formats: [HTML](2010/11/13/index.html)  [JSON](2010/11/13/index.json)  [XML](201
 
 ##### Nigerian military
 ### [The Nigerian military asks civilians in the Niger Delta creeks to leave, warning of action against camps of criminal gangs in the area. ](/news/2010/11/13/the-nigerian-military-asks-civilians-in-the-niger-delta-creeks-to-leave-warning-of-action-against-camps-of-criminal-gangs-in-the-area.md)
-_Context: Niger Delta, Nigerian military_
+_Context: Nigerian military, Niger Delta_
 
 ##### Kenyan navy
 ### [The Kenyan navy shoots dead three suspected Somali pirates who had attacked a naval patrol. ](/news/2010/11/13/the-kenyan-navy-shoots-dead-three-suspected-somali-pirates-who-had-attacked-a-naval-patrol.md)
@@ -13,7 +13,7 @@ Kenyan navy officers on patrolin the India Ocean shot dead three suspected Somal
 
 ##### China
 ### [Somali pirates hijack a Chinese ship with 29 crew on board in the Arabian Sea. ](/news/2010/11/13/somali-pirates-hijack-a-chinese-ship-with-29-crew-on-board-in-the-arabian-sea.md)
-_Context: China, Arabian Sea_
+_Context: Arabian Sea, China_
 
 ##### Taliban
 ### [Taliban insurgents attack the airport in the Afghan city of Jalalabad and a nearby base. ](/news/2010/11/13/taliban-insurgents-attack-the-airport-in-the-afghan-city-of-jalalabad-and-a-nearby-base.md)
@@ -25,7 +25,7 @@ A fire at a zoo in the German city of Karlsruhe leaves 26 animals dead, includin
 
 ##### Asia Pacific Economic Cooperation
 ### [Leaders from the Asia Pacific Economic Cooperation area attend the APEC Japan 2010 summit in Yokohama. ](/news/2010/11/13/leaders-from-the-asia-pacific-economic-cooperation-area-attend-the-apec-japan-2010-summit-in-yokohama.md)
-_Context: APEC Japan 2010, Asia Pacific Economic Cooperation, Yokohama_
+_Context: Yokohama, Asia Pacific Economic Cooperation, APEC Japan 2010_
 
 ##### U.S. President
 ### [Former U.S. President Jimmy Carter says that Hamas has agreed to deliver a letter from abducted Israel Defense Forces soldier Gilad Shalit to his family; Carter has mediated between the two sides in the past. ](/news/2010/11/13/former-u-s-president-jimmy-carter-says-that-hamas-has-agreed-to-deliver-a-letter-from-abducted-israel-defense-forces-soldier-gilad-shalit-t.md)
@@ -49,7 +49,7 @@ _Context: Bangladesh, Dhaka, Khaleda Zia_
 
 ##### France
 ### [The French Cabinet led by Prime Minister Francois Fillon resigns ahead of a reshuffle by President Nicolas Sarkozy. ](/news/2010/11/13/the-french-cabinet-led-by-prime-minister-franassois-fillon-resigns-ahead-of-a-reshuffle-by-president-nicolas-sarkozy.md)
-_Context: Francois Fillon, Prime Minister, Nicolas Sarkozy, French President, France_
+_Context: Francois Fillon, French President, Nicolas Sarkozy, France, Prime Minister_
 
 ## [Previous Day...](/news/2010/11/12/index.md)
 

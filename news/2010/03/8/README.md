@@ -21,7 +21,7 @@ _Context: Turkey, strong earthquake_
 
 ##### Simin Behbahani
 ### [Female poet Simin Behbahani says the government of Iran has issued her with a "travel ban" after confiscating her passport at Tehran International Airport as she was about to travel to France. ](/news/2010/03/8/female-poet-simin-behbahani-says-the-government-of-iran-has-issued-her-with-a-travel-ban-after-confiscating-her-passport-at-tehran-interna.md)
-_Context: Tehran International Airport, Iran, France, Simin Behbahani_
+_Context: Simin Behbahani, Iran, Tehran International Airport, France_
 
 ##### Interpol
 ### [Interpol issues "red notices" for 16 more individuals in connection with the assassination of Mahmoud al-Mabhouh, bringing to 27 the number of people wanted for the assassination. ](/news/2010/03/8/interpol-issues-red-notices-for-16-more-individuals-in-connection-with-the-assassination-of-mahmoud-al-mabhouh-bringing-to-27-the-number.md)
@@ -29,15 +29,15 @@ International Criminal Police Organization announces 27 people now wanted for al
 
 ##### French naval
 ### [The French Navy, supported by European Union aircraft and vessels, seizes 35 suspected pirates in 4 mother ships and 6 little boats off the coast of Somalia in the EU's most successful mission. ](/news/2010/03/8/the-french-navy-supported-by-european-union-aircraft-and-vessels-seizes-35-suspected-pirates-in-4-mother-ships-and-6-little-boats-off-the.md)
-_Context: European Union, Somalia, French naval_
+_Context: French naval, Somalia, European Union_
 
 ##### German
 ### [German Federal Minister of Justice Sabine Leutheusser-Schnarrenberger says the Vatican has built a "wall of silence" in response to the country's child sexual abuse controversy of recent months. ](/news/2010/03/8/german-federal-minister-of-justice-sabine-leutheusser-schnarrenberger-says-the-vatican-has-built-a-wall-of-silence-in-response-to-the-coun.md)
-_Context: Federal Minister of Justice, Holy See, sexual abuse, German, Sabine Leutheusser-Schnarrenberger_
+_Context: sexual abuse, Holy See, German, Federal Minister of Justice, Sabine Leutheusser-Schnarrenberger_
 
 ##### Terrorism
 ### [Nine people go on trial charged with terrorism and links to al-Qaeda in Belgium. ](/news/2010/03/8/nine-people-go-on-trial-charged-with-terrorism-and-links-to-al-qaeda-in-belgium.md)
-_Context: al-Qaeda, terrorism, Belgium_
+_Context: terrorism, al-Qaeda, Belgium_
 
 ##### Israel
 ### [Israel announces the construction of 112 new Jewish homes for the occupied West Bank territory despite the freeze on new settlements initiated in November 2009. ](/news/2010/03/8/israel-announces-the-construction-of-112-new-jewish-homes-for-the-occupied-west-bank-territory-despite-the-freeze-on-new-settlements-initiat.md)
@@ -45,7 +45,7 @@ Israel has approved the construction of 112 new Jewish homes in the occupied Wes
 
 ##### Pakistani Taliban
 ### [A Pakistani Taliban car bomb attack on a Federal Investigation Agency (FIA) building in Lahore kills at least 11, wounds 60. ](/news/2010/03/8/a-pakistani-taliban-car-bomb-attack-on-a-federal-investigation-agency-fia-building-in-lahore-kills-at-least-11-wounds-60.md)
-_Context: car bomb, Lahore, Federal Investigation Agency, Pakistani Taliban_
+_Context: car bomb, Federal Investigation Agency, Lahore, Pakistani Taliban_
 
 ##### Badghis Province
 ### [12 people &mdash; 10 civilian passengers and 2 policemen &mdash; die in two separate roadside bombs in Badghis Province, Afghanistan. ](/news/2010/03/8/12-people-mdash-10-civilian-passengers-and-2-policemen-mdash-die-in-two-separate-roadside-bombs-in-badghis-province-afghanistan.md)
@@ -85,7 +85,7 @@ The Chinese government says that it will have the final say, rather than the Dal
 
 ##### Scottish Maritime Museum
 ### [Plans by the Scottish Maritime Museum (SMM) to scrap "City of Adelaide"-HMS "Carrick", one of the world's oldest clippers built in Sunderland in 1864, are postponed in the hope that enough money can be raised to send her to Australia. ](/news/2010/03/8/plans-by-the-scottish-maritime-museum-smm-to-scrap-city-of-adelaide-hms-carrick-one-of-the-world-s-oldest-clippers-built-in-sunderlan.md)
-_Context: Scottish Maritime Museum, Australia, Sunderland, clipper, ''City of Adelaide''/HMS ''Carrick''_
+_Context: ''City of Adelaide''/HMS ''Carrick'', Sunderland, Scottish Maritime Museum, Australia, clipper_
 
 ## [Previous Day...](/news/2010/03/7/index.md)
 

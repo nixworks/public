@@ -9,7 +9,7 @@ Formats: [HTML](2010/05/7/index.html)  [JSON](2010/05/7/index.json)  [XML](2010/
 
 ##### Pakistan
 ### [4 policemen are killed and another seriously injured when militants open fire in Pakistan's Mansehra district of North-West Frontier Province. ](/news/2010/05/7/4-policemen-are-killed-and-another-seriously-injured-when-militants-open-fire-in-pakistan-s-mansehra-district-of-north-west-frontier-provinc.md)
-_Context: Mansehra, Pakistan, Northwestern Pakistan_
+_Context: Pakistan, Mansehra, Northwestern Pakistan_
 
 ##### Dubai
 ### [Dubai police name five new suspects in connection with the assassination of Mahmoud al-Mabhouh in January, involving passports from Australia, Britain and France. An Israeli citizen, Zev Barkan, wanted by New Zealand since 2004 for passport fraud, may have used a New Zealand passport. ](/news/2010/05/7/dubai-police-name-five-new-suspects-in-connection-with-the-assassination-of-mahmoud-al-mabhouh-in-january-involving-passports-from-australi.md)
@@ -25,19 +25,19 @@ Police fire warning shots as thousands rally in capital against nationwide shutd
 
 ##### Rift Valley Fever
 ### [The death toll from Rift Valley Fever (RVF) in South Africa has risen to 17. ](/news/2010/05/7/the-death-toll-from-rift-valley-fever-rvf-in-south-africa-has-risen-to-17.md)
-_Context: South Africa, Rift Valley Fever_
+_Context: Rift Valley Fever, South Africa_
 
 ##### Lithuania
 ### [An appeals court in Lithuania overturns a ruling which had earlier, due to fears over homophobic violence, prevented the country's first gay pride parade going ahead in Vilnius tomorrow. ](/news/2010/05/7/an-appeals-court-in-lithuania-overturns-a-ruling-which-had-earlier-due-to-fears-over-homophobic-violence-prevented-the-country-s-first-gay.md)
-_Context: Lithuania, gay pride, anti-gay, Vilnius_
+_Context: Lithuania, Vilnius, gay pride, anti-gay_
 
 ##### Nigeria
 ### [Lobbying for the role of Nigeria's new vice-president begins after Goodluck Jonathan's inauguration and Umaru Yar'Adua's death. ](/news/2010/05/7/lobbying-for-the-role-of-nigeria-s-new-vice-president-begins-after-goodluck-jonathan-s-inauguration-and-umaru-yar-adua-s-death.md)
-_Context: Umaru Yar'Adua, Nigeria, Goodluck Jonathan_
+_Context: Goodluck Jonathan, Umaru Yar'Adua, Nigeria_
 
 ##### Gunbattle
 ### [5 insurgents and 2 soldiers die in a "'gunbattle"' between Islamic rebels and Indian security forces in Kashmir. ](/news/2010/05/7/5-insurgents-and-2-soldiers-die-in-a-gunbattle-between-islamic-rebels-and-indian-security-forces-in-kashmir.md)
-_Context: Kashmir, gunbattle, Islam, India_
+_Context: Islam, India, gunbattle, Kashmir_
 
 ##### Dembia
 ### [2 die and 2 are wounded in an attack on an aid vehicle near the village of Dembia in the Central African Republic. ](/news/2010/05/7/2-die-and-2-are-wounded-in-an-attack-on-an-aid-vehicle-near-the-village-of-dembia-in-the-central-african-republic.md)
@@ -45,11 +45,11 @@ _Context: Dembia, Central African Republic_
 
 ##### Egypt
 ### [2 Egyptian peacekeepers are killed and 3 are injured by gunmen near Edd al-Fursan, South Darfur. ](/news/2010/05/7/2-egyptian-peacekeepers-are-killed-and-3-are-injured-by-gunmen-near-edd-al-fursan-south-darfur.md)
-_Context: Egypt, Edd al-Fursan, South Darfur_
+_Context: South Darfur, Edd al-Fursan, Egypt_
 
 ##### Confederation of African Football
 ### [Confederation of African Football (CAF) president Issa Hayatou asks his executive committee to lift sanctions imposed on the Togo national football team following an attack on their team bus ahead of the 2010 Africa Cup of Nations in Angola. ](/news/2010/05/7/confederation-of-african-football-caf-president-issa-hayatou-asks-his-executive-committee-to-lift-sanctions-imposed-on-the-togo-national-f.md)
-_Context: Confederation of African Football, 2010 Africa Cup of Nations, Togo national football team attack, Issa Hayatou, Togo national football team, Angola_
+_Context: Angola, 2010 Africa Cup of Nations, Togo national football team attack, Togo national football team, Issa Hayatou, Confederation of African Football_
 
 ##### National League for Democracy
 ### [A faction of the National League for Democracy in Burma forms its own political party to compete in elections, one day after the party disbanded. ](/news/2010/05/7/a-faction-of-the-national-league-for-democracy-in-burma-forms-its-own-political-party-to-compete-in-elections-one-day-after-the-party-disba.md)

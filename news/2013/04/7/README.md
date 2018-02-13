@@ -15,7 +15,7 @@ Eleven children are reported to have been among those killed in a Nato air strik
 ### [12 Nigerian policemen are missing and presumed dead after their boat was ambushed by militants in the Niger Delta region. ](/news/2013/04/7/12-nigerian-policemen-are-missing-and-presumed-dead-after-their-boat-was-ambushed-by-militants-in-the-niger-delta-region.md)
 Nigerian militants claiming to be from a group that has been inactive since 2009 say they carried out an attack that left 12 police officers dead.
 
-##### American
+##### U.S.
 ### [The United States decides to delay a long-planned intercontinental ballistic missile test scheduled for next week at the Vandenberg Air Force Base in California, following tensions with North Korea. ](/news/2013/04/7/the-united-states-decides-to-delay-a-long-planned-intercontinental-ballistic-missile-test-scheduled-for-next-week-at-the-vandenberg-air-forc.md)
 Pentagon puts off intercontinental missile launch apparently to avoid stoking tensions with North Korea.
 
@@ -25,9 +25,9 @@ China is to open disputed South China Sea islands up to tourism this month, stat
 
 ##### Doha
 ### [Hundreds of delegates meet in Doha, Qatar, to raise funds to rebuild the Sudanese region of Darfur, that has been racked by conflict. ](/news/2013/04/7/hundreds-of-delegates-meet-in-doha-qatar-to-raise-funds-to-rebuild-the-sudanese-region-of-darfur-that-has-been-racked-by-conflict.md)
-_Context: Sudan, Qatar, conflict, Doha, Darfur_
+_Context: conflict, Sudan, Doha, Darfur, Qatar_
 
-##### American
+##### U.S.
 ### [United States Secretary of State John Kerry arrives in Turkey, where he is to have talks addressing relations with Israel and the conflict in Syria. ](/news/2013/04/7/united-states-secretary-of-state-john-kerry-arrives-in-turkey-where-he-is-to-have-talks-addressing-relations-with-israel-and-the-conflict-i.md)
 US Secretary of State John Kerry discusses Iran and ties with Israel on a visit to Turkey, before talks in the West Bank on Middle East peace.
 
@@ -37,11 +37,11 @@ Egyptian police fired tear gas outside Cairo&#39;s Coptic cathedral on Sunday af
 
 ##### Singapore
 ### [Eric Ding Si Yang, a Singaporean businessman, is charged with corruption for offering free sex to three Lebanese football referees to induce them to fix a match in the AFC Cup. ](/news/2013/04/7/eric-ding-si-yang-a-singaporean-businessman-is-charged-with-corruption-for-offering-free-sex-to-three-lebanese-football-referees-to-induce.md)
-_Context: football, match fixing, free sex, Lebanese, corruption, Singapore, AFC Cup, referees_
+_Context: corruption, football, Lebanese, Singapore, AFC Cup, match fixing, free sex, referees_
 
 ##### Rehtaeh Parsons
 ### [Rehtaeh Parsons, a 17-year-old Canadian gang-rape victim from Halifax, Novia Scotia, is taken off of life support and dies three days after a suicide attempt. Parson's claimed to have been raped when she was 15, she had been bullied ever since the alleged incident; officials with the Royal Canadian Mounted Police and the justice system are deciding whether to file charges. ](/news/2013/04/7/rehtaeh-parsons-a-17-year-old-canadian-gang-rape-victim-from-halifax-novia-scotia-is-taken-off-of-life-support-and-dies-three-days-after.md)
-_Context: Rehtaeh Parsons, gang-rape, Royal Canadian Mounted Police, suicide, Canadian, Novia Scotia, life support, Halifax_
+_Context: Halifax, suicide, Canadian, Royal Canadian Mounted Police, gang-rape, Novia Scotia, life support, Rehtaeh Parsons_
 
 ##### Montenegro
 ### [Voters in Montenegro go to the polls for a presidential election with both candidates declaring themselves winner. ](/news/2013/04/7/voters-in-montenegro-go-to-the-polls-for-a-presidential-election-with-both-candidates-declaring-themselves-winner.md)

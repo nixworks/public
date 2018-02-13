@@ -21,7 +21,7 @@ Fighting broke out Wednesday between rebels and Ukrainian soldiers on the outski
 
 ##### Filling station
 ### [At least 11 people are killed in a fire at a filling station in the Ghanaian capital Accra. ](/news/2015/06/3/at-least-11-people-are-killed-in-a-fire-at-a-filling-station-in-the-ghanaian-capital-accra.md)
-_Context: Ghana, filling station, Accra_
+_Context: Ghana, Accra, filling station_
 
 ##### South Korea
 ### [South Korea has successfully test fired two ballistic missiles that can hit all of North Korea. ](/news/2015/06/3/south-korea-has-successfully-test-fired-two-ballistic-missiles-that-can-hit-all-of-north-korea.md)

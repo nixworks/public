@@ -9,7 +9,7 @@ _Context: Burma, Kachin Independence Army, China_
 
 ##### South Korea
 ### [South Korean troops mistakenly fire on a Chinese passenger plane as it flies near the disputed Northern Limit Line on the border with North Korea; there are no casualties. ](/news/2011/06/18/south-korean-troops-mistakenly-fire-on-a-chinese-passenger-plane-as-it-flies-near-the-disputed-northern-limit-line-on-the-border-with-north.md)
-_Context: Northern Limit Line, South Korea, North Korea, China_
+_Context: China, South Korea, Northern Limit Line, North Korea_
 
 ##### Syria
 ### [Syrian troops raid the town of Bdama near the Turkish border in an attempt to crush a nationwide uprising. ](/news/2011/06/18/syrian-troops-raid-the-town-of-bdama-near-the-turkish-border-in-an-attempt-to-crush-a-nationwide-uprising.md)
@@ -17,7 +17,7 @@ Syrian troops sweep into the town of Bdama near the Turkish border, reports say,
 
 ##### Clarence Clemons
 ### [American musician Clarence Clemons, best known for his work with Bruce Springsteen's E Street Band, dies from complications of a stroke. ](/news/2011/06/18/american-musician-clarence-clemons-best-known-for-his-work-with-bruce-springsteen-s-e-street-band-dies-from-complications-of-a-stroke.md)
-_Context: Bruce Springsteen and the E Street Band, E Street Band, Clarence Clemons_
+_Context: Clarence Clemons, Bruce Springsteen and the E Street Band, E Street Band_
 
 ##### Oil
 ### [Oil prices hit a four-month low, with oil now at USD $93 per barrel. ](/news/2011/06/18/oil-prices-hit-a-four-month-low-with-oil-now-at-usd-93-per-barrel.md)
@@ -25,11 +25,11 @@ Oil prices fell on Friday, with U.S. crude slumping to a four-month low under $9
 
 ##### Zambia
 ### [Former Zambian President Frederick Chiluba dies aged 68. ](/news/2011/06/18/former-zambian-president-frederick-chiluba-dies-aged-68.md)
-_Context: Zambia, Frederick Chiluba, President_
+_Context: Frederick Chiluba, President, Zambia_
 
 ##### Democratic
 ### [Pro-democracy activists in Morocco call for renewed demonstrations, saying reforms proposed by King Mohammed VI are not enough. ](/news/2011/06/18/pro-democracy-activists-in-morocco-call-for-renewed-demonstrations-saying-reforms-proposed-by-king-mohammed-vi-are-not-enough.md)
-_Context: Morocco, 2011 Moroccan protests, democratic, King Mohammed VI of Morocco, King_
+_Context: 2011 Moroccan protests, King, Morocco, King Mohammed VI of Morocco, democratic_
 
 ##### Saudi Arabia
 ### [Some Saudi Arabian women challenge a ban on female drivers, posting accounts and pictures of themselves driving automobiles. ](/news/2011/06/18/some-saudi-arabian-women-challenge-a-ban-on-female-drivers-posting-accounts-and-pictures-of-themselves-driving-automobiles.md)
@@ -41,11 +41,11 @@ Dallas, Fort Worth, and Irving elected new mayors in the June run-off elections.
 
 ##### Russian
 ### [Russian human rights activist Yelena Bonner, the widow of Soviet dissident and Nobel Peace Prize winner Andrei Sakharov, dies in the city of Boston, MA, USA. ](/news/2011/06/18/russian-human-rights-activist-yelena-bonner-the-widow-of-soviet-dissident-and-nobel-peace-prize-winner-andrei-sakharov-dies-in-the-city-of.md)
-_Context: Soviet, Nobel Peace Prize, Andrei Sakharov, Boston, Massachusetts, Yelena Bonner, Russian_
+_Context: Soviet, Nobel Peace Prize, Yelena Bonner, Andrei Sakharov, Boston, Massachusetts, Russian_
 
 ##### NOAA
 ### [NOAA states that 2011 is already one of the most extreme weather years on record. ](/news/2011/06/18/noaa-states-that-2011-is-already-one-of-the-most-extreme-weather-years-on-record.md)
-_Context: NOAA, extreme weather_
+_Context: extreme weather, NOAA_
 
 ## [Previous Day...](/news/2011/06/17/index.md)
 

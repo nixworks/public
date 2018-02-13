@@ -23,7 +23,7 @@ The FBI has launched a manhunt for a previously unknown team of men suspected to
 ### [At least two people are dead and ten injured following the explosion of a car bomb in a commercial area of the Pakistani town of Peshawar. ](/news/2011/02/2/at-least-two-people-are-dead-and-ten-injured-following-the-explosion-of-a-car-bomb-in-a-commercial-area-of-the-pakistani-town-of-peshawar.md)
 _Context: car bomb, Peshawar, Pakistan_
 
-##### American
+##### U.S.
 ### [American rock duo The White Stripes announce that they are breaking up. ](/news/2011/02/2/american-rock-duo-the-white-stripes-announce-that-they-are-breaking-up.md)
 Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, celeb videos, photos, movies, TV, music news and pop culture on&nbsp;ABCNews.com.
 
@@ -39,17 +39,17 @@ _Context: China, Yunnan Province_
 ### [Fourteen job seekers traveling home on the rooftop of an overcrowded train, are killed when they hit a low overhead bridge in northern India. ](/news/2011/02/2/fourteen-job-seekers-traveling-home-on-the-rooftop-of-an-overcrowded-train-are-killed-when-they-hit-a-low-overhead-bridge-in-northern-india.md)
 Fifteen youths were killed and several others injured on Tuesday when they fell from the roof of two speeding trains crammed with job aspirants returning from an ITBP recruitment camp in Bareilly in UP.
 
-##### American
+##### U.S.
 ### [Six thousand flights are cancelled in the United States following the January 31-February 2, 2011 North American winter storm. ](/news/2011/02/2/six-thousand-flights-are-cancelled-in-the-united-states-following-the-january-31afebruary-2-2011-north-american-winter-storm.md)
-_Context: American, January 31-February 2, 2011 North American winter storm_
+_Context: January 31-February 2, 2011 North American winter storm, U.S._
 
 ##### Five-star
 ### [A fire destroys a five-star Sheraton hotel in the Heping District of Shenyang, Liaoning, China, then the tallest building in Northeastern China, after midnight fireworks celebrating the Chinese New Year set ablaze flammable thermal insulation outside the hotel walls. Firefighters were unable to put out the blaze as ladders could not reach the higher storeys of the building, but no casualties or injuries were reported. ](/news/2011/02/2/a-fire-destroys-a-five-star-sheraton-hotel-in-the-heping-district-of-shenyang-liaoning-china-then-the-tallest-building-in-northeastern-ch.md)
-_Context: Northeastern China, Sheraton, five-star, Heping District, firework, Liaoning, Chinese New Year, Shenyang, thermal insulation_
+_Context: Heping District, five-star, Northeastern China, Liaoning, Chinese New Year, thermal insulation, Sheraton, firework, Shenyang_
 
 ##### Sudanese cabinet
 ### [The Sudanese government, in its first official reaction after preliminary results were announced indicating a landslide vote in favor of Southern Sudan's independence, agrees to accept the results; Vice-President Ali Osman Taha says the government intends "to pursue a policy of good neighbourly relations with the south". ](/news/2011/02/2/the-sudanese-government-in-its-first-official-reaction-after-preliminary-results-were-announced-indicating-a-landslide-vote-in-favor-of-sou.md)
-_Context: Southern Sudanese Independence Referendum, Sudanese cabinet, Ali Osman Taha_
+_Context: Ali Osman Taha, Sudanese cabinet, Southern Sudanese Independence Referendum_
 
 ##### Julian Assange
 ### [Julian Assange, the founder of WikiLeaks, is awarded the Sydney Peace Medal. ](/news/2011/02/2/julian-assange-the-founder-of-wikileaks-is-awarded-the-sydney-peace-medal.md)
@@ -57,15 +57,15 @@ IN the estimation of the Sydney Peace Foundation, Australian Wikileaks founder J
 
 ##### Colleen LaRose
 ### [Colleen LaRose, known as "Jihad Jane", pleads guilty to participating in a terrorist plot to kill a Swedish cartoonist whose work offended many Muslims. ](/news/2011/02/2/colleen-larose-known-as-jihad-jane-pleads-guilty-to-participating-in-a-terrorist-plot-to-kill-a-swedish-cartoonist-whose-work-offended-m.md)
-_Context: Lars Vilks, Colleen LaRose, work offended many Muslims_
+_Context: Colleen LaRose, Lars Vilks, work offended many Muslims_
 
 ##### India
 ### [The Indian Central Bureau of Investigation arrests former minister for communications A. Raja and other officials associated with the 2G spectrum scam. ](/news/2011/02/2/the-indian-central-bureau-of-investigation-arrests-former-minister-for-communications-a-raja-and-other-officials-associated-with-the-2g-spe.md)
-_Context: CBI, 2G spectrum scam, A. Raja, India_
+_Context: India, CBI, 2G spectrum scam, A. Raja_
 
 ##### Federal District Judge
 ### [United States federal judge Carl J. Barbier rules that Deepwater Horizon oil spill compensation fund administrator Ken Feinberg should advise people that he is working for BP. ](/news/2011/02/2/united-states-federal-judge-carl-j-barbier-rules-that-deepwater-horizon-oil-spill-compensation-fund-administrator-ken-feinberg-should-advis.md)
-_Context: BP, Ken Feinberg, Federal District Judge, Deepwater Horizon oil spill, Carl J. Barbier_
+_Context: Federal District Judge, Carl J. Barbier, Ken Feinberg, BP, Deepwater Horizon oil spill_
 
 ##### Parliament
 ### [The parliament of Kazakhstan approves a bill giving the President the power to declare a snap presidential election. ](/news/2011/02/2/the-parliament-of-kazakhstan-approves-a-bill-giving-the-president-the-power-to-declare-a-snap-presidential-election.md)
@@ -77,19 +77,19 @@ Delayed from June, vote would be in West Bank only; decision comes after PA expr
 
 ##### Wen Jiabao
 ### [Chinese Premier Wen Jiabao visits rural Jinzhai County in Jiangxi province to celebrate Chinese New Year with local farmers. ](/news/2011/02/2/chinese-premier-wen-jiabao-visits-rural-jinzhai-county-in-jiangxi-province-to-celebrate-chinese-new-year-with-local-farmers.md)
-_Context: Jinzhai County, Wen Jiabao, Jiangxi_
+_Context: Wen Jiabao, Jinzhai County, Jiangxi_
 
-##### Prime Minister
+##### Prime minister
 ### [Prime Minister of New Zealand, John Key, announces a general election for November 26, giving an unusually long notice for poll. ](/news/2011/02/2/prime-minister-of-new-zealand-john-key-announces-a-general-election-for-november-26-giving-an-unusually-long-notice-for-poll.md)
-_Context: John Key, general election, Prime Minister_
+_Context: prime minister, general election, John Key_
 
 ##### Russian President
 ### [The President of Russia, Dmitry Medvedev, expands the Kremlin's human rights council and authorises it to investigate the cases of Sergei Magnitsky and Mikhail Khodorkovsky. ](/news/2011/02/2/the-president-of-russia-dmitry-medvedev-expands-the-kremlin-s-human-rights-council-and-authorises-it-to-investigate-the-cases-of-sergei-ma.md)
-_Context: Sergei Magnitsky, human rights, Mikhail Khodorkovsky, Russian President, Kremlin, Dmitry Medvedev_
+_Context: Sergei Magnitsky, Mikhail Khodorkovsky, human rights, Dmitry Medvedev, Russian President, Kremlin_
 
 ##### BBC
 ### [BBC executive Craig Oliver is chosen to replace Andy Coulson as British Prime Minister David Cameron's Director of Communications. ](/news/2011/02/2/bbc-executive-craig-oliver-is-chosen-to-replace-andy-coulson-as-british-prime-minister-david-cameron-s-director-of-communications.md)
-_Context: Craig Oliver, David Cameron, Andy Coulson, BBC_
+_Context: David Cameron, Andy Coulson, BBC, Craig Oliver_
 
 ##### United States Senate
 ### [The United States Senate votes down a repeal of healthcare reforms 47-51. ](/news/2011/02/2/the-united-states-senate-votes-down-a-repeal-of-healthcare-reforms-47-51.md)
@@ -101,7 +101,7 @@ Scientists using underwater robots have discovered remnants of the Pink Terraces
 
 ##### South Korea
 ### [South Korea orders the culling of three million animals to control foot and mouth disease. ](/news/2011/02/2/south-korea-orders-the-culling-of-three-million-animals-to-control-foot-and-mouth-disease.md)
-_Context: South Korea, foot and mouth_
+_Context: foot and mouth, South Korea_
 
 ##### NASA
 ### [NASA's Kepler Mission announces the discovery of a planetary system of six planets circulating the star Kepler-11. ](/news/2011/02/2/nasa-s-kepler-mission-announces-the-discovery-of-a-planetary-system-of-six-planets-circulating-the-star-kepler-11.md)

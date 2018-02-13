@@ -5,7 +5,7 @@ Formats: [HTML](2016/08/9/index.html)  [JSON](2016/08/9/index.json)  [XML](2016/
 
 ##### Israeli-Palestinian conflict
 ### [Israel charges a UN administrative manager of being a Hamas-linked operative from Gaza. ](/news/2016/08/9/israel-charges-a-un-administrative-manager-of-being-a-hamas-linked-operative-from-gaza.md)
-_Context: Israel, Gaza Strip, Hamas, Israeli-Palestinian conflict_
+_Context: Hamas, Gaza Strip, Israel, Israeli-Palestinian conflict_
 
 ##### Saudi-led intervention in Yemen
 ### [At least 14 people are killed after Saudi-led coalition airstrikes hit a food factory in Yemen's capital Sana'a. The airstrikes come just days after the suspension of inconclusive peace talks in Kuwait. ](/news/2016/08/9/at-least-14-people-are-killed-after-saudi-led-coalition-airstrikes-hit-a-food-factory-in-yemen-s-capital-sana-a-the-airstrikes-come-just-da.md)
@@ -29,7 +29,7 @@ At least three people have died in Funchal, the capital of the Portuguese holida
 
 ##### Drug crackdown
 ### [Rodrigo Duterte says he might declare martial law in the Philippines if his spat with the Supreme Court escalates. ](/news/2016/08/9/rodrigo-duterte-says-he-might-declare-martial-law-in-the-philippines-if-his-spat-with-the-supreme-court-escalates.md)
-_Context: Rodrigo Duterte, martial law, Supreme Court of the Philippines, drug crackdown, Philippines_
+_Context: drug crackdown, martial law, Philippines, Supreme Court of the Philippines, Rodrigo Duterte_
 
 ##### Irom Chanu Sharmila
 ### [Irom Chanu Sharmila is set to end her 16-year fast against India's Armed Forces (Special Powers) Act.](/news/2016/08/9/irom-chanu-sharmila-is-set-to-end-her-16-year-fast-against-india-s-armed-forces-special-powers-act.md)
@@ -41,7 +41,7 @@ Julian Assange seemed to suggest Seth Rich was the source of DNC email leak.
 
 ##### Royal Melbourne Institute of Technology
 ### [A study conducted at the Royal Melbourne Institute of Technology shows a positive correlation with playing online video games and higher test scores in math, science and reading while a negative correlation with social media use. ](/news/2016/08/9/a-study-conducted-at-the-royal-melbourne-institute-of-technology-shows-a-positive-correlation-with-playing-online-video-games-and-higher-tes.md)
-_Context: social media, video games, Royal Melbourne Institute of Technology_
+_Context: video games, Royal Melbourne Institute of Technology, social media_
 
 ## [Previous Day...](/news/2016/08/8/index.md)
 

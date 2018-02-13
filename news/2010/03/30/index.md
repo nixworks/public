@@ -5,7 +5,7 @@ Formats: [HTML](2010/03/30/index.html)  [JSON](2010/03/30/index.json)  [XML](201
 
 ##### Colombia
 ### [Colombian soldier Pablo Emilio Moncayo is released after 12 years in FARC captivity. ](/news/2010/03/30/colombian-soldier-pablo-emilio-moncayo-is-released-after-12-years-in-farc-captivity.md)
-_Context: Pablo Emilio Moncayo, FARC, Colombia_
+_Context: Colombia, FARC, Pablo Emilio Moncayo_
 
 ##### Russia
 ### [Russia has a day of mourning following the train bombs in Moscow. ](/news/2010/03/30/russia-has-a-day-of-mourning-following-the-train-bombs-in-moscow.md)
@@ -13,7 +13,7 @@ Russians observed an official day of mourning Tuesday after suicide bombers atta
 
 ##### Andaman Islands
 ### [The Andaman Islands are rattled by a 6.6 magnitude earthquake. ](/news/2010/03/30/the-andaman-islands-are-rattled-by-a-6-6-magnitude-earthquake.md)
-_Context: 6.6 magnitude earthquake, Andaman Islands_
+_Context: Andaman Islands, 6.6 magnitude earthquake_
 
 ##### Shandong
 ### [Two mortuary staff in Shandong are arrested after 21 baby corpses are found in a river. ](/news/2010/03/30/two-mortuary-staff-in-shandong-are-arrested-after-21-baby-corpses-are-found-in-a-river.md)
@@ -29,7 +29,7 @@ In their biggest hijacking ever, Somali pirates captured 8 boats taking nearly 1
 
 ##### Mexican
 ### [10 children, youths and young adults between the ages of 8 and 21 are gunned down, presumably by drug traffickers, in the northern Mexican state of Durango. ](/news/2010/03/30/10-children-youths-and-young-adults-between-the-ages-of-8-and-21-are-gunned-down-presumably-by-drug-traffickers-in-the-northern-mexican-s.md)
-_Context: Mexican, Durango, Mexican states_
+_Context: Durango, Mexican states, Mexican_
 
 ##### China
 ### [Chinese police are hunting a man suspected of killing five members of a migrant family, including an 8-year-old girl, in the Inner Mongolia Autonomous Region. ](/news/2010/03/30/chinese-police-are-hunting-a-man-suspected-of-killing-five-members-of-a-migrant-family-including-an-8-year-old-girl-in-the-inner-mongolia.md)

@@ -21,7 +21,7 @@ _Context: Pussy Riot, Moscow, Russia_
 
 ##### John R. Allen
 ### [U.S. President Obama nominates general John R. Allen for the SACEUR function. General Joseph Dunford would succeed Allen as ISAF commander in Afghanistan. ](/news/2012/10/10/u-s-president-obama-nominates-general-john-r-allen-for-the-saceur-function-general-joseph-dunford-would-succeed-allen-as-isaf-commander-i.md)
-_Context: International Security Assistance Force, SACEUR, War in Afghanistan (2001-present), John R. Allen, Joseph F. Dunford, Jr._
+_Context: War in Afghanistan (2001-present), John R. Allen, SACEUR, International Security Assistance Force, Joseph F. Dunford, Jr._
 
 ##### American
 ### [Two American scientists, Robert Lefkowitz and Brian Kobilka, win the 2012 Nobel Prize in Chemistry for their work on discovering the inner workings of G protein-coupled receptors. ](/news/2012/10/10/two-american-scientists-robert-lefkowitz-and-brian-kobilka-win-the-2012-nobel-prize-in-chemistry-for-their-work-on-discovering-the-inner-w.md)

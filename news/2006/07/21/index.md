@@ -11,7 +11,7 @@ The Asahi Shimbun is widely regarded for its journalism as the most respected da
 ### [ Israel moves thousands of troops to the Lebanese border including reserves to deal with fierce fighting. ](/news/2006/07/21/israel-moves-thousands-of-troops-to-the-lebanese-border-including-reserves-to-deal-with-fierce-fighting.md)
 ##### Khmer Rouge
 ### [ Khmer Rouge leader Ta Mok dies in a military hospital while waiting for his trial for crimes against humanity committed in Democratic Kampuchea. ](/news/2006/07/21/khmer-rouge-leader-ta-mok-dies-in-a-military-hospital-while-waiting-for-his-trial-for-crimes-against-humanity-committed-in-democratic-kampu.md)
-_Context: crimes against humanity, Ta Mok, military hospital, Democratic Kampuchea, trial, Khmer Rouge_
+_Context: trial, Ta Mok, military hospital, crimes against humanity, Democratic Kampuchea, Khmer Rouge_
 
 ##### Cassini spacecraft
 ### [ The Cassini spacecraft takes pictures of Saturn's moon Titan that appear to show the presence of hydrocarbon lakes. ](/news/2006/07/21/the-cassini-spacecraft-takes-pictures-of-saturn-s-moon-titan-that-appear-to-show-the-presence-of-hydrocarbon-lakes.md)

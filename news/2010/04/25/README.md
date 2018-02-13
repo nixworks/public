@@ -9,7 +9,7 @@ The British government has confirmed that it has been ordered to pay back $650 m
 
 ##### Arab
 ### [55 people are killed and 85 injured after clashes between Arab nomads from the Darfur region of Sudan and the Southern Sudan army. ](/news/2010/04/25/55-people-are-killed-and-85-injured-after-clashes-between-arab-nomads-from-the-darfur-region-of-sudan-and-the-southern-sudan-army.md)
-_Context: Darfur, Sudan People's Liberation Army/Movement, Southern Sudan, Sudan, Arab_
+_Context: Arab, Sudan, Sudan People's Liberation Army/Movement, Darfur, Southern Sudan_
 
 ##### Kunduz
 ### [An inquiry is launched as at least 80 schoolgirls in different Kunduz schools are poisoned this week; the Taliban, opposed to female education, denies any knowledge. ](/news/2010/04/25/an-inquiry-is-launched-as-at-least-80-schoolgirls-in-different-kunduz-schools-are-poisoned-this-week-the-taliban-opposed-to-female-educati.md)
@@ -17,7 +17,7 @@ Dozens of Afghan schoolgirls fell ill after a suspected poison gas attack on the
 
 ##### Zhou Qiang
 ### [Zhou Qiang succeeds Zhang Chunxian as the provincial party secretary of Hunan Province in China. ](/news/2010/04/25/zhou-qiang-succeeds-zhang-chunxian-as-the-provincial-party-secretary-of-hunan-province-in-china.md)
-_Context: Zhang Chunxian, CPC party chief, Zhou Qiang_
+_Context: CPC party chief, Zhou Qiang, Zhang Chunxian_
 
 ##### Ethiopia
 ### [At least five people are killed and 20 others are injured by a bomb blast at a cafe in the Ethiopian town of Adi Haro. ](/news/2010/04/25/at-least-five-people-are-killed-and-20-others-are-injured-by-a-bomb-blast-at-a-cafe-in-the-ethiopian-town-of-adi-haro.md)
@@ -29,7 +29,7 @@ Settlers call for Palestinian homes to be demolished as US envoy tries to restar
 
 ##### Mexican Labour Party
 ### [Mexican Labour Party leader in Guerrero Rey Hernandez dies after being shot at least seven times outside his home in Tlacoachistlahuaca. ](/news/2010/04/25/mexican-labour-party-leader-in-guerrero-rey-herna-ndez-dies-after-being-shot-at-least-seven-times-outside-his-home-in-tlacoachistlahuaca.md)
-_Context: Rey Hernandez, Mexican Labour Party, Guerrero, Tlacoachistlahuaca_
+_Context: Rey Hernandez, Mexican Labour Party, Tlacoachistlahuaca, Guerrero_
 
 ##### Hungary
 ### [Hungary's Fidesz - Hungarian Civic Union wins a historic two-thirds general election victory, according to second round results. ](/news/2010/04/25/hungary-s-fidesz-a-hungarian-civic-union-wins-a-historic-two-thirds-general-election-victory-according-to-second-round-results.md)
@@ -41,7 +41,7 @@ Heinz Fischer easily defeats controversial leader of far-right Freedom Party.
 
 ##### Okinawa
 ### [Nearly 100,000 people rally in Okinawa, Japan, demanding the removal of an American base from the island. ](/news/2010/04/25/nearly-100-000-people-rally-in-okinawa-japan-demanding-the-removal-of-an-american-base-from-the-island.md)
-_Context: American, Okinawa, Japan_
+_Context: Okinawa, U.S., Japan_
 
 ##### Beirut
 ### [Thousands of people rally in Beirut to ask for the separation of religion and state in Lebanon. ](/news/2010/04/25/thousands-of-people-rally-in-beirut-to-ask-for-the-separation-of-religion-and-state-in-lebanon.md)
@@ -53,15 +53,15 @@ _Context: Quezon City, Philippines_
 
 ##### Spanish Navy
 ### [The Spanish Navy captures eight suspected pirates off the Somalia coast. ](/news/2010/04/25/the-spanish-navy-captures-eight-suspected-pirates-off-the-somalia-coast.md)
-_Context: Somalia, Spanish Navy_
+_Context: Spanish Navy, Somalia_
 
 ##### Ladies in White
 ### [The Ladies in White are stopped from marching in Havana but stand silently instead. ](/news/2010/04/25/the-ladies-in-white-are-stopped-from-marching-in-havana-but-stand-silently-instead.md)
-_Context: Havana, Ladies in White_
+_Context: Ladies in White, Havana_
 
 ##### Cuba
 ### [Cuba's Speaker of the Parliament Ricardo Alarcon challenges the United States to lift its 48-year embargo on the island if it believes Cuba benefits from the embargo, as Hillary Clinton suggested. ](/news/2010/04/25/cuba-s-speaker-of-the-parliament-ricardo-alarca3n-challenges-the-united-states-to-lift-its-48-year-embargo-on-the-island-if-it-believes-cuba.md)
-_Context: American, Ricardo Alarcon, Cuba, Hillary Clinton_
+_Context: U.S., Ricardo Alarcon, Hillary Clinton, Cuba_
 
 ##### Iran
 ### [Iranian Minister for Foreign Affairs Manouchehr Mottaki meets the head of the International Atomic Energy Agency (IAEA) in Vienna and says Iran remains interested in a nuclear fuel swap drafted by the United Nations. ](/news/2010/04/25/iranian-minister-for-foreign-affairs-manouchehr-mottaki-meets-the-head-of-the-international-atomic-energy-agency-iaea-in-vienna-and-says-i.md)
@@ -93,7 +93,7 @@ Wayne Rooney, who was last night named PFA Player of the Year, has allayed fears
 
 ##### Iraq
 ### [The first passenger flight between Iraq and the United Kingdom in two decades touches down at London Gatwick Airport, nine days overdue because of volcanic ash problems. ](/news/2010/04/25/the-first-passenger-flight-between-iraq-and-the-united-kingdom-in-two-decades-touches-down-at-london-gatwick-airport-nine-days-overdue-beca.md)
-_Context: volcanic ash problems, Iraq, London Gatwick Airport, United Kingdom_
+_Context: Iraq, United Kingdom, volcanic ash problems, London Gatwick Airport_
 
 ## [Previous Day...](/news/2010/04/24/index.md)
 

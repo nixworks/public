@@ -5,15 +5,15 @@ Formats: [HTML](2007/09/28/index.html)  [JSON](2007/09/28/index.json)  [XML](200
 
 #####  Georgian
 ### [ Supporters of the opposition gather in Georgia's capital, Tbilisi, to protest against the government in the largest such rally in the country since 2003. ](/news/2007/09/28/supporters-of-the-opposition-gather-in-georgia-s-capital-tbilisi-to-protest-against-the-government-in-the-largest-such-rally-in-the-count.md)
-_Context:  Georgian, Tbilisi, 2003, protest against the government_
+_Context: 2003,  Georgian, Tbilisi, protest against the government_
 
 ##### Lehendakari
 ### [ "Lehendakari" Juan Jos Ibarretxe announces a referendum on the future of the Basque Country for 25 October 2008. ](/news/2007/09/28/lehendakari-juan-jose-ibarretxe-announces-a-referendum-on-the-future-of-the-basque-country-for-25-october-2008.md)
-_Context: planned referendum, Juan Jos Ibarretxe, 2008, 25 October, Lehendakari, Basque_
+_Context: 2008, Lehendakari, Basque, Juan Jos Ibarretxe, planned referendum, 25 October_
 
 ##### Richard Garriott
 ### [ Richard Garriott, famed game designer and son of former NASA Skylab astronaut Owen Garriott, will become the sixth space tourist, visiting the International Space Station in 2008. ](/news/2007/09/28/richard-garriott-famed-game-designer-and-son-of-former-nasa-skylab-astronaut-owen-garriott-will-become-the-sixth-space-tourist-visiting.md)
-_Context: International Space Station, Richard Garriott, Owen Garriott, space tourist_
+_Context: Owen Garriott, space tourist, Richard Garriott, International Space Station_
 
 ##### Taungoo
 ### [ There are reports that Burmese troops from middle Myanmar have started to march towards Yangon. The reported troops are from the Central Command based in Taungoo and the South East Command. ](/news/2007/09/28/there-are-reports-that-burmese-troops-from-middle-myanmar-have-started-to-march-towards-yangon-the-reported-troops-are-from-the-central-co.md)

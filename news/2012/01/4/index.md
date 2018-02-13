@@ -5,7 +5,7 @@ Formats: [HTML](2012/01/4/index.html)  [JSON](2012/01/4/index.json)  [XML](2012/
 
 ##### Nigeria
 ### [Two bombs explode in the northern Nigerian city of Maiduguri with the Boko Haram movement believed to be responsible. ](/news/2012/01/4/two-bombs-explode-in-the-northern-nigerian-city-of-maiduguri-with-the-boko-haram-movement-believed-to-be-responsible.md)
-_Context: Maiduguri, Nigeria, Boko Haram_
+_Context: Boko Haram, Nigeria, Maiduguri_
 
 ##### Southeast Brazilian
 ### [Storms kill seven, with local states of emergency declared in Southeast Region, Brazil. ](/news/2012/01/4/storms-kill-seven-with-local-states-of-emergency-declared-in-southeast-region-brazil.md)
@@ -29,19 +29,19 @@ Two men convicted of the murder of Stephen Lawrence have been given life sentenc
 
 ##### Mexican
 ### [Mexican drug cartel kingpin Benjamn Arellano Flix pleads guilty to racketeering and conspiracy to launder money in the United States. ](/news/2012/01/4/mexican-drug-cartel-kingpin-benjamin-arellano-felix-pleads-guilty-to-racketeering-and-conspiracy-to-launder-money-in-the-united-states.md)
-_Context: Benjamn Arellano Flix, racketeering, American, Mexican, money laundering_
+_Context: money laundering, Benjamn Arellano Flix, racketeering, Mexican, U.S._
 
 ##### President of Argentina
 ### [The President of Argentina Cristina Fernndez de Kirchner temporarily hands over power to her Vice-President Amado Boudou ahead of surgery for thyroid cancer. ](/news/2012/01/4/the-president-of-argentina-cristina-fernandez-de-kirchner-temporarily-hands-over-power-to-her-vice-president-amado-boudou-ahead-of-surgery-f.md)
-_Context: Cristina Kirchner, President of Argentina, Amado Boudou, thyroid cancer_
+_Context: Amado Boudou, thyroid cancer, Cristina Kirchner, President of Argentina_
 
 ##### Mitt Romney
 ### [Republican primary candidate and former Massachusetts governor Mitt Romney wins the 2012 Iowa Caucus, with candidate and former U.S. Senator Rick Santorum behind by eight votes; Congressman Ron Paul had a strong showing in third place. ](/news/2012/01/4/republican-primary-candidate-and-former-massachusetts-governor-mitt-romney-wins-the-2012-iowa-caucus-with-candidate-and-former-u-s-senator.md)
-_Context: Rick Santorum, Mitt Romney, 2012 Iowa Caucus, Ron Paul_
+_Context: Rick Santorum, 2012 Iowa Caucus, Ron Paul, Mitt Romney_
 
 ##### Greek Prime Minister
 ### [Former Prime Minister of Greece George Papandreou announces that he will resign as head of the Panhellenic Socialist Movement. ](/news/2012/01/4/former-prime-minister-of-greece-george-papandreou-announces-that-he-will-resign-as-head-of-the-panhellenic-socialist-movement.md)
-_Context: George Papandreou, Greek Prime Minister, PASOK_
+_Context: Greek Prime Minister, PASOK, George Papandreou_
 
 ##### Protect
 ### [Armed commandos will be ordered to protect endangered tigers in India's Bandipur and Nagarhole national parks. ](/news/2012/01/4/armed-commandos-will-be-ordered-to-protect-endangered-tigers-in-india-s-bandipur-and-nagarhole-national-parks.md)

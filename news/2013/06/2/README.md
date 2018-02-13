@@ -5,7 +5,7 @@ Formats: [HTML](2013/06/2/index.html)  [JSON](2013/06/2/index.json)  [XML](2013/
 
 ##### Car bomb
 ### [A car bomb explodes near a police station in the Damascus suburb of Jobar, killing at least eight members of the security forces and injuring civilians. ](/news/2013/06/2/a-car-bomb-explodes-near-a-police-station-in-the-damascus-suburb-of-jobar-killing-at-least-eight-members-of-the-security-forces-and-injurin.md)
-_Context: Damascus, car bomb, Jobar_
+_Context: Jobar, car bomb, Damascus_
 
 ##### Taliban
 ### [Taliban insurgents attack two checkpoints in the Kamdesh District in eastern Afghanistan killing four Afghan police officers ](/news/2013/06/2/taliban-insurgents-attack-two-checkpoints-in-the-kamdesh-district-in-eastern-afghanistan-killing-four-afghan-police-officers.md)
@@ -13,7 +13,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Mandawuy Yunupingu
 ### [Mandawuy Yunupingu, frontman of the Aboriginal band Yothu Yindi dies at 56. ](/news/2013/06/2/mandawuy-yunupingu-frontman-of-the-aboriginal-band-yothu-yindi-dies-at-56.md)
-_Context: Yothu Yindi, Aboriginal Australians, Mandawuy Yunupingu_
+_Context: Yothu Yindi, Mandawuy Yunupingu, Aboriginal Australians_
 
 ##### Earthquake
 ### [A 6.2-magnitude earthquake strikes central Taiwan, killing at least one person. ](/news/2013/06/2/a-6-2-magnitude-earthquake-strikes-central-taiwan-killing-at-least-one-person.md)
@@ -25,7 +25,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### TWISTEX
 ### [It is announced that three professional storm chasers who were members of TWISTEX were among those killed by tornadoes in Oklahoma, US, on May 31. ](/news/2013/06/2/it-is-announced-that-three-professional-storm-chasers-who-were-members-of-twistex-were-among-those-killed-by-tornadoes-in-oklahoma-us-on-m.md)
-_Context: TWISTEX, tornado, Oklahoma_
+_Context: TWISTEX, Oklahoma, tornado_
 
 ##### Southern California
 ### [Wildfires in Southern California, USA, lead to hundreds of evacuations. ](/news/2013/06/2/wildfires-in-southern-california-usa-lead-to-hundreds-of-evacuations.md)
@@ -37,7 +37,7 @@ Two Labour peers are suspended by the party and a UUP peer resigns his party whi
 
 ##### Supreme Constitutional Court
 ### [The Supreme Constitutional Court of Egypt rules that the country's Islamist dominated Parliament and Constituent Assembly of Egypt were illegally elected. ](/news/2013/06/2/the-supreme-constitutional-court-of-egypt-rules-that-the-country-s-islamist-dominated-parliament-and-constituent-assembly-of-egypt-were-ille.md)
-_Context: Islamist, Parliament of Egypt, Supreme Constitutional Court, Constituent Assembly of Egypt_
+_Context: Constituent Assembly of Egypt, Parliament of Egypt, Islamist, Supreme Constitutional Court_
 
 ##### Graphene
 ### [New research finds that graphene is the strongest material in the world, even when patched together. ](/news/2013/06/2/new-research-finds-that-graphene-is-the-strongest-material-in-the-world-even-when-patched-together.md)

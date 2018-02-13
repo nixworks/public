@@ -25,7 +25,7 @@ _Context: Kenya, Nairobi_
 
 ##### Sudan
 ### [Fighting breaks out in Sudan's South Kordofan region. ](/news/2011/06/5/fighting-breaks-out-in-sudan-s-south-kordofan-region.md)
-_Context: Sudan, South Kordofan_
+_Context: South Kordofan, Sudan_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI celebrates Mass in the Croatian capital Zagreb. ](/news/2011/06/5/pope-benedict-xvi-celebrates-mass-in-the-croatian-capital-zagreb.md)
@@ -45,7 +45,7 @@ Hundreds of Vietnamese turn out in Hanoi and Ho Chi Minh City to protest against
 
 ##### Portugal
 ### [Voters in Portugal go to the polls for the Portuguese legislative election after months of a caretaker government and financial problems that led to a request for an international bailout - the opposition Social Democrats led by Pedro Passos Coelho won. ](/news/2011/06/5/voters-in-portugal-go-to-the-polls-for-the-portuguese-legislative-election-after-months-of-a-caretaker-government-and-financial-problems-tha.md)
-_Context: Social Democratic Party, Portugal, Pedro Passos Coelho, international bailout, Portuguese legislative election_
+_Context: Portuguese legislative election, international bailout, Pedro Passos Coelho, Social Democratic Party, Portugal_
 
 ##### Republic of Macedonia
 ### [Voters in the Republic of Macedonia go to the polls for parliamentary elections. ](/news/2011/06/5/voters-in-the-republic-of-macedonia-go-to-the-polls-for-parliamentary-elections.md)

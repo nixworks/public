@@ -17,7 +17,7 @@ Former Ivory Coast president Laurent Gbagbo appeared at the International Crimin
 
 ##### Julian Assange
 ### [Julian Assange is allowed a final appeal to the Supreme Court of the United Kingdom against his extradition to Sweden to answer questions over sexual assault allegations. ](/news/2011/12/5/julian-assange-is-allowed-a-final-appeal-to-the-supreme-court-of-the-united-kingdom-against-his-extradition-to-sweden-to-answer-questions-ov.md)
-_Context: extradition, Julian Assange, sexual assault, Sweden, Supreme Court of the United Kingdom_
+_Context: Julian Assange, Supreme Court of the United Kingdom, Sweden, extradition, sexual assault_
 
 ##### Parliamentary elections
 ### [Preliminary results are released from the Russian legislative election showing the ruling United Russia winning 50 percent of the vote, well down on its 2008 vote. ](/news/2011/12/5/preliminary-results-are-released-from-the-russian-legislative-election-showing-the-ruling-united-russia-winning-50-percent-of-the-vote-well.md)

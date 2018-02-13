@@ -21,7 +21,7 @@ New phone offers faster processing and downloads, a greatly improved camera and 
 
 ##### Cambodia
 ### [The death toll from the flooding of Cambodia's Mekong River and attendant flash floods reaches 164. ](/news/2011/10/4/the-death-toll-from-the-flooding-of-cambodia-s-mekong-river-and-attendant-flash-floods-reaches-164.md)
-_Context: Mekong River, flash flood, Cambodia_
+_Context: Cambodia, Mekong River, flash flood_
 
 ##### South Pacific Ocean
 ### [The Pacific islands of Tuvalu and Tokelau declare a state of emergency due to a lack of drinking water caused by low rainfall. ](/news/2011/10/4/the-pacific-islands-of-tuvalu-and-tokelau-declare-a-state-of-emergency-due-to-a-lack-of-drinking-water-caused-by-low-rainfall.md)
@@ -29,23 +29,23 @@ Tokelau, a tiny Pacific archipelago administered by New Zealand, has joined neig
 
 ##### Helicopter crashes
 ### [A helicopter crashes into the East River in New York City killing one person and injuring three after taking off from the East 34th Street Heliport. ](/news/2011/10/4/a-helicopter-crashes-into-the-east-river-in-new-york-city-killing-one-person-and-injuring-three-after-taking-off-from-the-east-34th-street-h.md)
-_Context: New York City, East River, helicopter crashes, East 34th Street Heliport_
+_Context: New York City, helicopter crashes, East 34th Street Heliport, East River_
 
 ##### Defects
 ### [Nine North Korean defectors arrive in South Korea after staying in Japan for three weeks. ](/news/2011/10/4/nine-north-korean-defectors-arrive-in-south-korea-after-staying-in-japan-for-three-weeks.md)
-_Context: Japan, South Korea, defects_
+_Context: defects, South Korea, Japan_
 
 ##### Russia
 ### [Russia and the People's Republic of China veto a United Nations Security Council resolution condemning Syria for a crackdown on political protestors. ](/news/2011/10/4/russia-and-the-people-s-republic-of-china-veto-a-united-nations-security-council-resolution-condemning-syria-for-a-crackdown-on-political-pr.md)
-_Context: United Nations Security Council, 2011 Syrian uprising, Syria, China, Russia_
+_Context: United Nations Security Council, 2011 Syrian uprising, Syria, Russia, China_
 
 ##### European Court of Justice
 ### [The European Court of Justice rules against "the imposition of national borders to sell broadcasting rights on a territory-by-territory basis", as this is in contravention of EU laws on free trade. It would allow members of the public to seek cheaper providers of Premier League football, whilst finding against a landlady who used Greek television to show live football in her public house. ](/news/2011/10/4/the-european-court-of-justice-rules-against-the-imposition-of-national-borders-to-sell-broadcasting-rights-on-a-territory-by-territory-basi.md)
-_Context: European Court of Justice, public house, English Premier League, European Union_
+_Context: European Court of Justice, English Premier League, European Union, public house_
 
 ##### US state
 ### [Voters in the US state of West Virginia go to the polls for a gubernatorial special election with acting Governor, Democrat Earl Ray Tomblin, being elected as Governor of West Virginia. ](/news/2011/10/4/voters-in-the-us-state-of-west-virginia-go-to-the-polls-for-a-gubernatorial-special-election-with-acting-governor-democrat-earl-ray-tomblin.md)
-_Context: Democrat, West Virginia, US state, Earl Ray Tomblin, gubernatorial special election, Governor of West Virginia_
+_Context: Governor of West Virginia, US state, West Virginia, gubernatorial special election, Earl Ray Tomblin, Democrat_
 
 ##### Canadian
 ### [Voters in the Canadian province of Manitoba go to the polls for a general election, with the NDP led by Greg Selinger being elected to a fourth term. ](/news/2011/10/4/voters-in-the-canadian-province-of-manitoba-go-to-the-polls-for-a-general-election-with-the-ndp-led-by-greg-selinger-being-elected-to-a-fou.md)
@@ -53,11 +53,11 @@ Polls Voters in Manitoba are set to elect their next government on Tuesday.
 
 ##### Haiti
 ### [The Haitian Senate finally approves the appointment of Garry Conille as the Prime Minister. ](/news/2011/10/4/the-haitian-senate-finally-approves-the-appointment-of-garry-conille-as-the-prime-minister.md)
-_Context: Haiti, Prime Minister, Senate, Garry Conille_
+_Context: Prime Minister, Senate, Garry Conille, Haiti_
 
 ##### Saul Perlmutter
 ### [Saul Perlmutter, Brian P. Schmidt and Adam Riess share the Nobel Prize for Physics for work on the accelerating expansion of the universe. ](/news/2011/10/4/saul-perlmutter-brian-p-schmidt-and-adam-riess-share-the-nobel-prize-for-physics-for-work-on-the-accelerating-expansion-of-the-universe.md)
-_Context: Brian P. Schmidt, Nobel Prize for Physics, Adam Riess, accelerating expansion, Saul Perlmutter, universe_
+_Context: Brian P. Schmidt, accelerating expansion, Saul Perlmutter, universe, Nobel Prize for Physics, Adam Riess_
 
 ## [Previous Day...](/news/2011/10/3/index.md)
 

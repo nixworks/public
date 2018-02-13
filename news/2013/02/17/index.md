@@ -17,19 +17,19 @@ Musician faced numerous challenges following the Jan. 13 death of her boyfriend 
 
 ##### Venezuelan government
 ### [Government of Venezuela opens a granite processing plant in the state of Bolivar, with the intention of providing about 25% of the granite required nationwide. ](/news/2013/02/17/government-of-venezuela-opens-a-granite-processing-plant-in-the-state-of-bolavar-with-the-intention-of-providing-about-25-of-the-granite.md)
-_Context: Venezuelan government, Bolivar, granite, Venezuela_
+_Context: Bolivar, granite, Venezuela, Venezuelan government_
 
 ##### Gas explosion
 ### [Five people are killed and eleven are injured, two seriously, when an apartment complex is destroyed by a gas explosion in Frenstat pod Radhostem, Czech Republic. ](/news/2013/02/17/five-people-are-killed-and-eleven-are-injured-two-seriously-when-an-apartment-complex-is-destroyed-by-a-gas-explosion-in-frena-ta-t-pod-ra.md)
-_Context: gas explosion, Frenstat pod Radhostem, Czech Republic_
+_Context: Czech Republic, Frenstat pod Radhostem, gas explosion_
 
 ##### Ecuador
 ### [Voters in Ecuador go to the polls for a general election with incumbent President Rafael Correa claiming a landslide victory. ](/news/2013/02/17/voters-in-ecuador-go-to-the-polls-for-a-general-election-with-incumbent-president-rafael-correa-claiming-a-landslide-victory.md)
 The vote showed the broad popularity of President Rafael Correa’s government’s social programs and support for the poor.
 
-##### Cyprus
+##### Cypriot
 ### [Voters in Cyprus go to the polls for a presidential election with Nicos Anastasiades of the Democratic Rally and Stavros Malas of AKEL to contest a runoff on 24 February. ](/news/2013/02/17/voters-in-cyprus-go-to-the-polls-for-a-presidential-election-with-nicos-anastasiades-of-the-democratic-rally-and-stavros-malas-of-akel-to-co.md)
-_Context: Stavros Malas, 2013 election, Nicos Anastasiades, AKEL, Democratic Rally, second round, Cyprus_
+_Context: Stavros Malas, second round, 2013 election, Cypriot, AKEL, Nicos Anastasiades, Democratic Rally_
 
 ##### Pakistan
 ### [Protests occur in Pakistan demanding protection for Shiite Muslims following yesterday's bombing in Quetta that killed 84 people. ](/news/2013/02/17/protests-occur-in-pakistan-demanding-protection-for-shiite-muslims-following-yesterday-s-bombing-in-quetta-that-killed-84-people.md)

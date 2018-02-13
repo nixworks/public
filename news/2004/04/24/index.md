@@ -3,13 +3,13 @@ Formats: [HTML](2004/04/24/index.html)  [JSON](2004/04/24/index.json)  [XML](200
 
 ## [2004-04-24](/news/2004/04/24/index.md)
 
-##### Cyprus
+##### Cypriot
 ### [ In the Cyprus reunification referendum, 65% of Turkish Cypriot voters accept and 75% of Greek Cypriot voters reject the Annan Plan. ](/news/2004/04/24/in-the-cyprus-reunification-referendum-65-of-turkish-cypriot-voters-accept-and-75-of-greek-cypriot-voters-reject-the-annan-plan.md)
-_Context: reunification referendum, Annan Plan, Cyprus_
+_Context: reunification referendum, Annan Plan, Cypriot_
 
 ##### Forgent Networks
 ### [ Forgent Networks sues 31 companies for infringement of their software patent, which they claim is used in the JPEG standard. ](/news/2004/04/24/forgent-networks-sues-31-companies-for-infringement-of-their-software-patent-which-they-claim-is-used-in-the-jpeg-standard.md)
-_Context: Forgent Networks, software patent, JPEG_
+_Context: Forgent Networks, JPEG, software patent_
 
 ## [Previous Day...](/news/2004/04/23/index.md)
 

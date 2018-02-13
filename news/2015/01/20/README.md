@@ -25,7 +25,7 @@ _Context: Taiwan, Taoyuan City_
 
 ##### I-75
 ### [An overpass of I-75 in Cincinnati, Ohio collapses while undergoing demolition, killing one worker and injuring a trucker whose vehicle was struck by debris. ](/news/2015/01/20/an-overpass-of-i-75-in-cincinnati-ohio-collapses-while-undergoing-demolition-killing-one-worker-and-injuring-a-trucker-whose-vehicle-was-s.md)
-_Context: Cincinnati, Ohio, I-75, Ohio_
+_Context: I-75, Cincinnati, Ohio, Ohio_
 
 ##### Glendive, Montana
 ### [According to preliminary tests at the Glendive, Montana city water treatment plant, the January 17 oil spill in the Yellowstone River contains benzene, a chemical that causes cancer. ](/news/2015/01/20/according-to-preliminary-tests-at-the-glendive-montana-city-water-treatment-plant-the-january-17-oil-spill-in-the-yellowstone-river-contai.md)
@@ -33,7 +33,7 @@ The latest spill may have polluted drinking water in Montana but is not expected
 
 ##### Cardiovascular surgeon
 ### [A gunman shoots a cardiovascular surgeon to death at Harvard Medical School's Brigham and Women's Hospital in Boston, Massachusetts, and then commits suicide. ](/news/2015/01/20/a-gunman-shoots-a-cardiovascular-surgeon-to-death-at-harvard-medical-school-s-brigham-and-women-s-hospital-in-boston-massachusetts-and-the.md)
-_Context: Boston, Massachusetts, Harvard Medical School, cardiovascular surgeon, Brigham and Women's Hospital_
+_Context: Harvard Medical School, cardiovascular surgeon, Brigham and Women's Hospital, Boston, Massachusetts_
 
 ##### Zambian presidential election
 ### [Voters in Zambia go to the polls for a presidential election following the October 2014 death of incumbent President Michael Sata. Defence Minister Edgar Lungu (the Patriotic Front) and Hakainde Hichilema (the United Party for National Development) seek the office. ](/news/2015/01/20/voters-in-zambia-go-to-the-polls-for-a-presidential-election-following-the-october-2014-death-of-incumbent-president-michael-sata-defence-m.md)
@@ -41,7 +41,7 @@ Heavy rains on Tuesday held up the start of voting in parts of Zambia, where a c
 
 ##### 2015 State of the Union Address
 ### [The President of the United States Barack Obama delivers a State of the Union address to the United States Congress. ](/news/2015/01/20/the-president-of-the-united-states-barack-obama-delivers-a-state-of-the-union-address-to-the-united-states-congress.md)
-_Context: U.S. President, 2015 State of the Union Address, State of the Union, lawmakers, Barack Obama_
+_Context: Barack Obama, U.S. President, 2015 State of the Union Address, lawmakers, State of the Union_
 
 ## [Previous Day...](/news/2015/01/19/index.md)
 

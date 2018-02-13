@@ -33,7 +33,7 @@ The suspect posted anti-police rants on Instagram before the fatal shooting.
 
 ##### Black Lives Matter
 ### [Hundreds of people from the group Black Lives Matter Minneapolis protest at the Mall of America, leading to its partial shutdown and 25 arrests. ](/news/2014/12/20/hundreds-of-people-from-the-group-black-lives-matter-minneapolis-protest-at-the-mall-of-america-leading-to-its-partial-shutdown-and-25-arre.md)
-_Context: Mall of America, Black Lives Matter_
+_Context: Black Lives Matter, Mall of America_
 
 ##### Anthropologists
 ### [In preparation for a government-proposed transportation tunnel, anthropologists discover 6,000-year-old charcoal at a site near Stonehenge suggesting an encampment existed much earlier than previously theorized. ](/news/2014/12/20/in-preparation-for-a-government-proposed-transportation-tunnel-anthropologists-discover-6-000-year-old-charcoal-at-a-site-near-stonehenge-s.md)

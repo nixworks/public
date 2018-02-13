@@ -9,7 +9,7 @@ Khartoum reaches truce agreement with smaller group after talks with Jem stalled
 
 ##### Nigeria
 ### [Nigeria recalls its ambassador to Libya after Libyan leader Muammar al-Gaddafi suggests the country be partitioned into two separate Christian and Muslim nations. ](/news/2010/03/18/nigeria-recalls-its-ambassador-to-libya-after-libyan-leader-muammar-al-gaddafi-suggests-the-country-be-partitioned-into-two-separate-christi.md)
-_Context: partitioned, Muammar al-Gaddafi, Christian, Nigeria, Libya, Muslim_
+_Context: Muammar al-Gaddafi, Nigeria, partitioned, Christian, Libya, Muslim_
 
 ##### Polar bear
 ### [Proposed international trade bans on polar bears and bluefin tuna are rejected by the Convention on International Trade in Endangered Species of Wild Fauna and Flora. ](/news/2010/03/18/proposed-international-trade-bans-on-polar-bears-and-bluefin-tuna-are-rejected-by-the-convention-on-international-trade-in-endangered-specie.md)
@@ -37,7 +37,7 @@ A foreign agricultural worker was the first fatality from Gaza rocket fire since
 
 ##### Turkey
 ### [Turkey arrests around 20 people as it investigates an alleged attempted coup d'tat. ](/news/2010/03/18/turkey-arrests-around-20-people-as-it-investigates-an-alleged-attempted-coup-d-etat.md)
-_Context: coup d'tat, Turkey_
+_Context: Turkey, coup d'tat_
 
 ##### The Gambia
 ### [Charges occur in The Gambia's attempted coup d'tat to overthrow President Yahya Jammeh. ](/news/2010/03/18/charges-occur-in-the-gambia-s-attempted-coup-d-etat-to-overthrow-president-yahya-jammeh.md)
@@ -49,7 +49,7 @@ Sahil Saeed, the five-year-old boy freed by kidnappers in Pakistan after his fam
 
 ##### France
 ### [French photographer Sophie Ristelhueber wins the Deutsche Brse Photography Prize. ](/news/2010/03/18/french-photographer-sophie-ristelhueber-wins-the-deutsche-borse-photography-prize.md)
-_Context: Deutsche Brse Photography Prize, Sophie Ristelhueber, France_
+_Context: France, Deutsche Brse Photography Prize, Sophie Ristelhueber_
 
 ## [Previous Day...](/news/2010/03/17/index.md)
 

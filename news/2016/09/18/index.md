@@ -21,7 +21,7 @@ Welcome to our Emmys live blog! The 68th annual Emmy Awards telecast is finally 
 
 ##### The Church of Jesus Christ of Latter-day Saints in Japan
 ### [Russell M. Nelson dedicates the Sapporo Japan Temple, the 151st LDS temple and third temple in Japan. ](/news/2016/09/18/russell-m-nelson-dedicates-the-sapporo-japan-temple-the-151st-lds-temple-and-third-temple-in-japan.md)
-_Context: The Church of Jesus Christ of Latter-day Saints in Japan, Russell M. Nelson, Sapporo Japan Temple_
+_Context: Sapporo Japan Temple, The Church of Jesus Christ of Latter-day Saints in Japan, Russell M. Nelson_
 
 ##### Chao Phraya River
 ### [A tourist boat carrying about 150 people capsizes on the Chao Phraya River in Thailand, killing at least 12 people with dozens missing. ](/news/2016/09/18/a-tourist-boat-carrying-about-150-people-capsizes-on-the-chao-phraya-river-in-thailand-killing-at-least-12-people-with-dozens-missing.md)
@@ -29,7 +29,7 @@ An overcrowded tourist boat carrying Muslim pilgrims was being piloted recklessl
 
 ##### Russian legislative election, 2016
 ### [Russian voters head to the polls to elect all 450 MPs to the 7th State Duma of the Russian Federation. Exit polls show the governing United Russia party with a comfortable lead. ](/news/2016/09/18/russian-voters-head-to-the-polls-to-elect-all-450-mps-to-the-7th-state-duma-of-the-russian-federation-exit-polls-show-the-governing-united.md)
-_Context: Exit poll, United Russia, Russian legislative election, 2016, 7th State Duma of the Russian Federation_
+_Context: 7th State Duma of the Russian Federation, United Russia, Exit poll, Russian legislative election, 2016_
 
 ##### Berlin state election, 2016
 ### [Voters head to the polls in Berlin, Germany, to elect members to the Abgeordnetenhaus of Berlin. Latest polling indicates the anti-immigration Alternative for Germany (AfD) are expected to make strong gains. ](/news/2016/09/18/voters-head-to-the-polls-in-berlin-germany-to-elect-members-to-the-abgeordnetenhaus-of-berlin-latest-polling-indicates-the-anti-immigrati.md)

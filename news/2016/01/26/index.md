@@ -9,7 +9,7 @@ Syrian pro-government forces captured a strategic southern rebel town close to t
 
 ##### War in Afghanistan (2015-present)
 ### [A U.S. drone strike kills at least 6 ISIL militants in Afghanistan's Nangarhar Province, according to the Afghan defense ministry. ](/news/2016/01/26/a-u-s-drone-strike-kills-at-least-6-isil-militants-in-afghanistan-s-nangarhar-province-according-to-the-afghan-defense-ministry.md)
-_Context: Afghanistan, ISIL, War in Afghanistan (2015-present), Nangarhar Province_
+_Context: Afghanistan, Nangarhar Province, War in Afghanistan (2015-present), ISIL_
 
 ##### French-born
 ### [French taxidrivers, air traffic controllers and school teachers go on strike over working conditions and competition from non-traditional services such as Uber. ](/news/2016/01/26/french-taxidrivers-air-traffic-controllers-and-school-teachers-go-on-strike-over-working-conditions-and-competition-from-non-traditional-se.md)
@@ -21,7 +21,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ##### Malaysia
 ### [Malaysian authorities find 13 bodies washed up on Johor beach believed to be Indonesian migrants. ](/news/2016/01/26/malaysian-authorities-find-13-bodies-washed-up-on-johor-beach-believed-to-be-indonesian-migrants.md)
-_Context: Johor, Indonesians, Malaysia_
+_Context: Indonesians, Johor, Malaysia_
 
 ##### Zika virus outbreak in the Americas (2015-present)
 ### [Virologists find the Zika virus in Australian tourists returning from South America. ](/news/2016/01/26/virologists-find-the-zika-virus-in-australian-tourists-returning-from-south-america.md)

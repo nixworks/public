@@ -15,13 +15,13 @@ A convoy of chemical weapons inspectors and UN staff that was travelling to a si
 ### [Barack Obama, the President of the United States, announces that 9,800 U.S. troops will stay in Afghanistan for a year after the withdrawal of combat troops in December. ](/news/2014/05/27/barack-obama-the-president-of-the-united-states-announces-that-9-800-u-s-troops-will-stay-in-afghanistan-for-a-year-after-the-withdrawal.md)
 The troops will include troops to train and advise Afghanistan&rsquo;s military and a group of Special Operations forces.
 
-##### American
+##### U.S.
 ### [An American doctor, Mehdi Ali Qamar, is shot and killed in Pakistan by unknown assailants on motorbikes. ](/news/2014/05/27/an-american-doctor-mehdi-ali-qamar-is-shot-and-killed-in-pakistan-by-unknown-assailants-on-motorbikes.md)
-_Context: Pakistan, American_
+_Context: U.S., Pakistan_
 
 ##### Iraqi Insurgency
 ### [At least 35 people killed, 70 injured in bomb attacks in Baghdad and Anbar Province of Iraq. ](/news/2014/05/27/at-least-35-people-killed-70-injured-in-bomb-attacks-in-baghdad-and-anbar-province-of-iraq.md)
-_Context: Baghdad, Anbar Province, Iraqi Insurgency, Iraq_
+_Context: Anbar Province, Iraq, Iraqi Insurgency, Baghdad_
 
 #####  Georgian
 ### [Opposition in Georgia's breakaway Abkhazia takes over the government headquarters, forcing President Alexander Ankvab to flee the capital, Sukhumi. ](/news/2014/05/27/opposition-in-georgia-s-breakaway-abkhazia-takes-over-the-government-headquarters-forcing-president-alexander-ankvab-to-flee-the-capital-s.md)
@@ -33,11 +33,11 @@ European Central Bank President Mario Draghi said on Tuesday the bank was aware 
 
 ##### Pfizer
 ### [Pfizer announces plans to release an over-the-counter version of heartburn medication Nexium. ](/news/2014/05/27/pfizer-announces-plans-to-release-an-over-the-counter-version-of-heartburn-medication-nexium.md)
-_Context: Nexium, Pfizer, heartburn_
+_Context: heartburn, Nexium, Pfizer_
 
 ##### Malaysia
 ### [Malaysia's Department of Civil Aviation and British satellite firm Inmarsat release the raw data used to determine the estimated path of missing Malaysia Airlines Flight 370. ](/news/2014/05/27/malaysia-s-department-of-civil-aviation-and-british-satellite-firm-inmarsat-release-the-raw-data-used-to-determine-the-estimated-path-of-mis.md)
-_Context: Malaysia, Department of Civil Aviation, Inmarsat, British_
+_Context: Inmarsat, Department of Civil Aviation, British, Malaysia_
 
 ##### Vietnam
 ### [Vietnam and China trade accusations over an incident in the South China Sea that led to the sinking of a Vietnamese fishing boat yesterday. ](/news/2014/05/27/vietnam-and-china-trade-accusations-over-an-incident-in-the-south-china-sea-that-led-to-the-sinking-of-a-vietnamese-fishing-boat-yesterday.md)
@@ -53,11 +53,11 @@ _Context: Government of Egypt_
 
 ##### CIA
 ### [The White House accidentally reveals the name of the CIA's top intelligence official in Afghanistan to approximately 6,000 journalists during U.S. President Barack Obama's visit to Bagram Airfield. ](/news/2014/05/27/the-white-house-accidentally-reveals-the-name-of-the-cia-s-top-intelligence-official-in-afghanistan-to-approximately-6-000-journalists-durin.md)
-_Context: Bagram Airfield, U.S. President, CIA, Barack Obama, Afghanistan_
+_Context: CIA, Bagram Airfield, Afghanistan, Barack Obama, U.S. President_
 
 ##### Mire
 ### [Scientists announce the discovery of a remote mire the size of England in the Republic of the Congo. ](/news/2014/05/27/scientists-announce-the-discovery-of-a-remote-mire-the-size-of-england-in-the-republic-of-the-congo.md)
-_Context: mire, Republic of the Congo, England_
+_Context: England, mire, Republic of the Congo_
 
 ## [Previous Day...](/news/2014/05/26/index.md)
 

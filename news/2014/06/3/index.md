@@ -25,7 +25,7 @@ President Barack Obama announces plans for a $1bn fund to increase US military d
 
 ##### London police
 ### [London police arrest the leader of Pakistan's MQM party, Altaf Hussain, on suspicion of money-laundering. ](/news/2014/06/3/london-police-arrest-the-leader-of-pakistan-s-mqm-party-altaf-hussain-on-suspicion-of-money-laundering.md)
-_Context: London police, Muttahida Qaumi Movement, Altaf Hussain_
+_Context: London police, Altaf Hussain, Muttahida Qaumi Movement_
 
 ##### Police
 ### [Nigerian police in Abuja ban all protests planned in support of the 276 girls kidnapped from northern Nigeria by Boko Haram. ](/news/2014/06/3/nigerian-police-in-abuja-ban-all-protests-planned-in-support-of-the-276-girls-kidnapped-from-northern-nigeria-by-boko-haram.md)

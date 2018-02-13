@@ -13,15 +13,15 @@ A 16-year-old Russian ban on importing British beef and lamb is to be lifted.
 
 ##### European Commission
 ### [The European Commission gives its backing to commodities giant Glencore's $31 billion (GBP19.5 billion) bid to take over mining company Xstrata. ](/news/2012/11/22/the-european-commission-gives-its-backing-to-commodities-giant-glencore-s-31-billion-agbp19-5-billion-bid-to-take-over-mining-company-xst.md)
-_Context: mining company, European Commission, Xstrata, Glencore_
+_Context: Glencore, Xstrata, mining company, European Commission_
 
 ##### Subway train
 ### [A subway train rear ends another in Busan, South Korea, injuring 40. ](/news/2012/11/22/a-subway-train-rear-ends-another-in-busan-south-korea-injuring-40.md)
-_Context: Busan, subway train, South Korea_
+_Context: South Korea, subway train, Busan_
 
 ##### Beaumont, Texas
 ### [Up to 120 people are injured and 2 killed near Beaumont, Texas in a 100-vehicle pileup in dense fog that forced the closure of both directions of Interstate 10 in Southeast Texas. ](/news/2012/11/22/up-to-120-people-are-injured-and-2-killed-near-beaumont-texas-in-a-100-vehicle-pileup-in-dense-fog-that-forced-the-closure-of-both-directio.md)
-_Context: Southeast Texas, Interstate 10, Beaumont, Texas_
+_Context: Interstate 10, Beaumont, Texas, Southeast Texas_
 
 ##### Hostage
 ### [A hostage situation in the northern city of Thessaloniki, Greece, ends peacefully, as policemen arrest a 72-year-old Greek pensioner who was threatening to set a tax office building on fire due to a financial dispute. ](/news/2012/11/22/a-hostage-situation-in-the-northern-city-of-thessaloniki-greece-ends-peacefully-as-policemen-arrest-a-72-year-old-greek-pensioner-who-was.md)
@@ -33,7 +33,7 @@ Israel Security Agency reveals suspects arrested hours after the terror attack t
 
 ##### Japan
 ### [Japanese police rescue four hostages from a Toyokawa Shinkin bank and arrest the knife-wielding man who had held them captive for more than 12 hours while demanding that Prime Minister Yoshihiko Noda resign. ](/news/2012/11/22/japanese-police-rescue-four-hostages-from-a-toyokawa-shinkin-bank-and-arrest-the-knife-wielding-man-who-had-held-them-captive-for-more-than.md)
-_Context: Shinkin bank, Toyokawa, hostage, Prime Minister of Japan, Yoshihiko Noda, Japan, police_
+_Context: Shinkin bank, Japan, Prime Minister of Japan, Yoshihiko Noda, hostage, Toyokawa, police_
 
 ##### BBC
 ### [The BBC appoints Tony Hall, Baron Hall of Birkenhead, as the new Director-General of the corporation after the resignation of George Entwistle earlier this month due to the Newsnight controversy. He is expected to start in the role in early March 2013. ](/news/2012/11/22/the-bbc-appoints-tony-hall-baron-hall-of-birkenhead-as-the-new-director-general-of-the-corporation-after-the-resignation-of-george-entwist.md)

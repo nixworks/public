@@ -5,7 +5,7 @@ Formats: [HTML](2006/05/12/index.html)  [JSON](2006/05/12/index.json)  [XML](200
 
 ##### Ethiopia
 ### [ Eight bombs explode in a coordinated strike in the Ethiopian capital of Addis Ababa. Three people are killed and 48 are wounded. No group has yet claimed responsibility. ](/news/2006/05/12/eight-bombs-explode-in-a-coordinated-strike-in-the-ethiopian-capital-of-addis-ababa-three-people-are-killed-and-48-are-wounded-no-group-h.md)
-_Context: Addis Ababa, Ethiopia_
+_Context: Ethiopia, Addis Ababa_
 
 ##### Oil blast
 ### [ 200 people are killed in an oil blast in Ilado, Nigeria. ](/news/2006/05/12/200-people-are-killed-in-an-oil-blast-in-ilado-nigeria.md)

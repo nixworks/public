@@ -5,15 +5,15 @@ Formats: [HTML](2009/03/14/index.html)  [JSON](2009/03/14/index.json)  [XML](200
 
 ##### G-20
 ### [ The G20 meets in Horsham, West Sussex, England, to discuss the global financial crisis. ](/news/2009/03/14/the-g20-meets-in-horsham-west-sussex-england-to-discuss-the-global-financial-crisis.md)
-_Context: G-20, England, Horsham, 4th quarter of 2007 and the second quarter of 2009, West Sussex_
+_Context: Horsham, G-20, 4th quarter of 2007 and the second quarter of 2009, West Sussex, England_
 
 ##### Antananarivo
 ### [ Former Antananarivo Mayor Andry Rajoelina demands that Malagasy President Marc Ravalomanana resign. ](/news/2009/03/14/former-antananarivo-mayor-andry-rajoelina-demands-that-malagasy-president-marc-ravalomanana-resign.md)
-_Context: Marc Ravalomanana, Mayor, President, Antananarivo, Madagascar, Andry Rajoelina_
+_Context: Andry Rajoelina, Antananarivo, President, Mayor, Marc Ravalomanana, Madagascar_
 
 ##### Pasifika Festival
 ### [ The 17th annual Pasifika Festival opens in Auckland City, New Zealand. ](/news/2009/03/14/the-17th-annual-pasifika-festival-opens-in-auckland-city-new-zealand.md)
-_Context: Auckland City, New Zealand, Pasifika Festival_
+_Context: Auckland City, Pasifika Festival, New Zealand_
 
 ##### Vietnam
 ### [ A Vietnamese cargo ship sinks in the South China Sea, killing three people. ](/news/2009/03/14/a-vietnamese-cargo-ship-sinks-in-the-south-china-sea-killing-three-people.md)
@@ -21,7 +21,7 @@ _Context: cargo ship, South China Sea, Vietnam_
 
 ##### Japanese Navy
 ### [ Maritime Self-Defense Force destroyers "Sazanami" and "Samidare" depart Japan to combat piracy in Somalia. ](/news/2009/03/14/maritime-self-defense-force-destroyers-sazanami-and-samidare-depart-japan-to-combat-piracy-in-somalia.md)
-_Context: Sazanami, destroyer, pirates, Somalia, Samidare, Japan, Japanese Navy_
+_Context: Somalia, pirates, destroyer, Sazanami, Samidare, Japanese Navy, Japan_
 
 ##### Russia
 ### [ Russia's Air Force says the country may base strategic bombers in Cuba or on a Venezuelan island. ](/news/2009/03/14/russia-s-air-force-says-the-country-may-base-strategic-bombers-in-cuba-or-on-a-venezuelan-island.md)

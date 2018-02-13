@@ -13,7 +13,7 @@ Ukrainian troops defy pro-Russian separatists and take control of an air base in
 
 ##### Boko Haram
 ### [A group of terrorists, suspected to be Boko Haram, attack a Nigerian school, resulting in the deaths of two security force members and the abduction of 200 schoolgirls. ](/news/2014/04/15/a-group-of-terrorists-suspected-to-be-boko-haram-attack-a-nigerian-school-resulting-in-the-deaths-of-two-security-force-members-and-the-a.md)
-_Context: Boko Haram, 276 girls kidnapped from northern Nigeria_
+_Context: 276 girls kidnapped from northern Nigeria, Boko Haram_
 
 ##### Lom
 ### [At least 48 people die and 15 are severely injured after a bus crashes into a truck 150 kilometres north of Lom, capital of the West African nation of Togo. ](/news/2014/04/15/at-least-48-people-die-and-15-are-severely-injured-after-a-bus-crashes-into-a-truck-150-kilometres-north-of-lome-capital-of-the-west-africa.md)

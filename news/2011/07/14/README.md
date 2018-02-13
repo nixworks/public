@@ -9,11 +9,11 @@ Activists report deaths in several provinces as Sarkozy calls for tougher sancti
 
 ##### Suicide bombing
 ### [A suicide bombing at a mosque in Kandahar, Afghanistan, kills four people and injures 11 including the head of the provincial religious council while they were praying for Ahmed Wali Karzai. ](/news/2011/07/14/a-suicide-bombing-at-a-mosque-in-kandahar-afghanistan-kills-four-people-and-injures-11-including-the-head-of-the-provincial-religious-coun.md)
-_Context: suicide bombing, Kandahar, Afghanistan, Ahmed Wali Karzai_
+_Context: Afghanistan, suicide bombing, Ahmed Wali Karzai, Kandahar_
 
 ##### Yemen
 ### [At least six Yemeni militants are killed following an air strike on a police station in the Abyan Governorate that the militants had overrun. ](/news/2011/07/14/at-least-six-yemeni-militants-are-killed-following-an-air-strike-on-a-police-station-in-the-abyan-governorate-that-the-militants-had-overrun.md)
-_Context: Yemen, Abyan Governorate_
+_Context: Abyan Governorate, Yemen_
 
 ##### Kurdistan Workers Party
 ### [Kurdistan Workers Party fighters ambush the Turkish Army in Diyarbakir Province, resulting in the death of 13 soldiers and five militants. ](/news/2011/07/14/kurdistan-workers-party-fighters-ambush-the-turkish-army-in-diyarbaka-r-province-resulting-in-the-death-of-13-soldiers-and-five-militants.md)
@@ -21,7 +21,7 @@ Kurdish fighters killed 13 Turkish soldiers in an ambush Thursday and seven mili
 
 ##### Mikhail Margelov
 ### [Mikhail Margelov, the President of Russia's special envoy on the Libyan uprising, claims that Muammar Gaddafi has a "suicidal plan" to destroy Tripoli if the rebels seem likely to capture it. ](/news/2011/07/14/mikhail-margelov-the-president-of-russia-s-special-envoy-on-the-libyan-uprising-claims-that-muammar-gaddafi-has-a-suicidal-plan-to-destr.md)
-_Context: civil war, Muammar Gaddafi, Mikhail Margelov, Tripoli_
+_Context: Muammar Gaddafi, Tripoli, Mikhail Margelov, civil war_
 
 ##### Israeli Air Force
 ### [The Israeli Air Force bombs the Gaza Strip after Hamas militants launch a missile attack on Israel. ](/news/2011/07/14/the-israeli-air-force-bombs-the-gaza-strip-after-hamas-militants-launch-a-missile-attack-on-israel.md)
@@ -49,7 +49,7 @@ The chairman of the Fine Gael parliamentary party has called for the expulsion o
 
 ##### Korean Air
 ### [Japan's foreign ministry plans to boycott Korean Air services for one month in response to a demonstration flight of a Korean Air Airbus A380 over the disputed Liancourt Rocks, beginning on Monday. ](/news/2011/07/14/japan-s-foreign-ministry-plans-to-boycott-korean-air-services-for-one-month-in-response-to-a-demonstration-flight-of-a-korean-air-airbus-a38.md)
-_Context: Korean Air, A380, Liancourt Rocks_
+_Context: Liancourt Rocks, Korean Air, A380_
 
 ##### Border
 ### [India and Bangladesh commence a joint census to resolve claims over disputed border areas. ](/news/2011/07/14/india-and-bangladesh-commence-a-joint-census-to-resolve-claims-over-disputed-border-areas.md)
@@ -73,7 +73,7 @@ The FBI is investigating reports that News Corporation sought to hack the phones
 
 ##### U.S. District Court for the District of Columbia
 ### [U.S. district court judge Reggie Walton declares a mistrial in the perjury trial of former baseball star Roger Clemens after prosecutors present evidence that Walton had previously ruled inadmissible. Walton will hold a hearing on September 2 to determine whether to hold a new trial. ](/news/2011/07/14/u-s-district-court-judge-reggie-walton-declares-a-mistrial-in-the-perjury-trial-of-former-baseball-star-roger-clemens-after-prosecutors-pre.md)
-_Context: Reggie Walton, Roger Clemens, mistrial, perjury, U.S. District Court for the District of Columbia_
+_Context: Reggie Walton, mistrial, Roger Clemens, perjury, U.S. District Court for the District of Columbia_
 
 ##### Chile
 ### [At least thirty-two Chilean police and 54 demonstrators are arrested in a demonstration demanding more funds for higher education. ](/news/2011/07/14/at-least-thirty-two-chilean-police-and-54-demonstrators-are-arrested-in-a-demonstration-demanding-more-funds-for-higher-education.md)
@@ -93,7 +93,7 @@ Shortly after President Obama and congressional leaders ended their meeting on t
 
 ##### Democrat
 ### [The Democratic Governor of Minnesota Mark Dayton and Republican legislative leaders reach a budget deal which will end a shutdown of the US state government within days. ](/news/2011/07/14/the-democratic-governor-of-minnesota-mark-dayton-and-republican-legislative-leaders-reach-a-budget-deal-which-will-end-a-shutdown-of-the-us.md)
-_Context: legislative, Minnesota Governor, Mark Dayton, Minnesota, Republican, Democrat_
+_Context: Democrat, Republican, Minnesota, Mark Dayton, Minnesota Governor, legislative_
 
 ##### Neptune
 ### [Neptune completes its first orbit of the Sun since its discovery in 1846. ](/news/2011/07/14/neptune-completes-its-first-orbit-of-the-sun-since-its-discovery-in-1846.md)
@@ -101,7 +101,7 @@ Neptune has just completed its first full orbit since its discovery 165 years ag
 
 ##### Rainbow toad
 ### [A lost rainbow toad thought to have become extinct after its last sighting in 1924 is rediscovered in Borneo by scientists from Universiti Malaysia Sarawak (UNIMAS) and photographed for the first time. ](/news/2011/07/14/a-lost-rainbow-toad-thought-to-have-become-extinct-after-its-last-sighting-in-1924-is-rediscovered-in-borneo-by-scientists-from-universiti-m.md)
-_Context: Universiti Malaysia Sarawak, rainbow toad, Borneo_
+_Context: Borneo, rainbow toad, Universiti Malaysia Sarawak_
 
 ## [Previous Day...](/news/2011/07/13/index.md)
 

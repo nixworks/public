@@ -7,13 +7,13 @@ Formats: [HTML](2013/10/3/index.html)  [JSON](2013/10/3/index.json)  [XML](2013/
 ### [Air Force fighter jets bomb camps belonging to suspected Islamist militants in northeast Nigeria in response to a massacre of students at an agricultural college. ](/news/2013/10/3/air-force-fighter-jets-bomb-camps-belonging-to-suspected-islamist-militants-in-northeast-nigeria-in-response-to-a-massacre-of-students-at-an.md)
 Fighter jets have bombed camps belonging to suspected Islamist militants in northeast Nigeria in response to a massacre of students at an agricultural college, an army spokesman said on Thursday.
 
-##### Pakistani Taliban
+##### Tehrik-i-Taliban Pakistan
 ### [The Tehrik-i-Taliban Pakistan attacks a compound belonging to former Tehrik-i-Taliban Pakistan commander Nabi Hanfi leaving 15 dead near the border of North Waziristan. ](/news/2013/10/3/the-tehrik-i-taliban-pakistan-attacks-a-compound-belonging-to-former-tehrik-i-taliban-pakistan-commander-nabi-hanfi-leaving-15-dead-near-the.md)
 Fifteen people are killed as five attackers, including at least three suicide bombers, launch an attack in northwest Pakistan.
 
 ##### Antitrust
 ### [The antitrust chief of the European Union, Joaquin Almunia, discusses coming charges against Gazprom, the Russian natural gas monopolist. ](/news/2013/10/3/the-antitrust-chief-of-the-european-union-joaquin-almunia-discusses-coming-charges-against-gazprom-the-russian-natural-gas-monopolist.md)
-_Context: antitrust, Joaquin Almunia, European Union, Russia, Gazprom_
+_Context: antitrust, Russia, European Union, Joaquin Almunia, Gazprom_
 
 ##### Twitter Inc.
 ### [Twitter Inc. publicly files IPO related disclosure documents. ](/news/2013/10/3/twitter-inc-publicly-files-ipo-related-disclosure-documents.md)
@@ -33,11 +33,11 @@ The deaths of at least 111 people again underscored the dangerous, desperate eff
 
 ##### Murtala Muhammed International Airport
 ### [A passenger plane carrying 27 people crashes at the Murtala Muhammed International Airport in Lagos, Nigeria, with 13 deaths reported. ](/news/2013/10/3/a-passenger-plane-carrying-27-people-crashes-at-the-murtala-muhammed-international-airport-in-lagos-nigeria-with-13-deaths-reported.md)
-_Context: Lagos, Nigeria, Murtala Muhammed International Airport_
+_Context: Lagos, Murtala Muhammed International Airport, Nigeria_
 
 ##### Lalu Prasad Yadav
 ### [Indian politician Lalu Prasad Yadav is sentenced to 5 years imprisonment for illegally taking money out of the Chaibasa treasury. ](/news/2013/10/3/indian-politician-lalu-prasad-yadav-is-sentenced-to-5-years-imprisonment-for-illegally-taking-money-out-of-the-chaibasa-treasury.md)
-_Context: Chaibasa, Lalu Prasad Yadav_
+_Context: Lalu Prasad Yadav, Chaibasa_
 
 ##### Fatally shot
 ### [A woman is fatally shot by police after striking a barrier at a White House security checkpoint followed by a car chase. ](/news/2013/10/3/a-woman-is-fatally-shot-by-police-after-striking-a-barrier-at-a-white-house-security-checkpoint-followed-by-a-car-chase.md)

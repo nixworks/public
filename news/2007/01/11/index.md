@@ -9,31 +9,31 @@ The Chinese government confirmed the test, but said it had no intention of parti
 
 ##### Liberal Party's
 ### [ Liberal MP Jean Lapierre resigns from the Canadian House of Commons. Justin Trudeau is likely to be the Liberals' candidate in the next election in the Outremont riding. ](/news/2007/01/11/liberal-mp-jean-lapierre-resigns-from-the-canadian-house-of-commons-justin-trudeau-is-likely-to-be-the-liberals-candidate-in-the-next-ele.md)
-_Context: Canadian, Canadian House of Commons, Justin Trudeau, Liberal Party's, Outremont riding, Jean Lapierre_
+_Context: Canadian, Justin Trudeau, Outremont riding, Jean Lapierre, Liberal Party's, Canadian House of Commons_
 
 ##### Current political crisis
 ### [ 2006-2007 Bangladeshi political crisis: Bangladesh President Iajuddin Ahmed steps down as interim leader just hours after declaring a state of emergency and a curfew in the country. ](/news/2007/01/11/2006a2007-bangladeshi-political-crisis-bangladesh-president-iajuddin-ahmed-steps-down-as-interim-leader-just-hours-after-declaring-a-sta.md)
-_Context: Bangladesh, curfew, Iajuddin Ahmed, current political crisis, state of emergency_
+_Context: curfew, Iajuddin Ahmed, state of emergency, Bangladesh, current political crisis_
 
 ##### Austria
 ### [ Austria's new government is sworn in under Chancellor Alfred Gusenbauer (SPO) and Vice-Chancellor Wilhelm Molterer (OVP). ](/news/2007/01/11/austria-s-new-government-is-sworn-in-under-chancellor-alfred-gusenbauer-spa-and-vice-chancellor-wilhelm-molterer-avp.md)
-_Context: Alfred Gusenbauer, Austria, Wilhelm Molterer, OVP, Vice-Chancellor, new government, SPO, Chancellor_
+_Context: OVP, Wilhelm Molterer, Alfred Gusenbauer, Chancellor, Austria, Vice-Chancellor, SPO, new government_
 
 ##### Kazakhstan political shakeup of 2007
 ### [ Kazakhstan political shakeup of 2007: Foreign Minister Kassym-Jomart Tokayev is appointed Chairman of the Senate of Kazakhstan. If aging President Nursultan Nazarbayev dies, according to the Constitution, Tokayev would become President. Some analysts say this is a sign that Tokayev, and not one of Nazarbayev's politically active daughters, is his desired successor. ](/news/2007/01/11/kazakhstan-political-shakeup-of-2007-foreign-minister-kassym-jomart-tokayev-is-appointed-chairman-of-the-senate-of-kazakhstan-if-aging-pr.md)
-_Context: President, Senate of Kazakhstan, the Constitution, Kazakhstan political shakeup of 2007, Nursultan Nazarbayev, Kassym-Jomart Tokayev_
+_Context: the Constitution, Senate of Kazakhstan, Nursultan Nazarbayev, President, Kazakhstan political shakeup of 2007, Kassym-Jomart Tokayev_
 
 ##### Two years of helping
 ### [ War in Somalia: A top U.S. official says that he believes the airstrike in Somalia on the previous day failed to kill the al-Qaeda suspects they targeted. ](/news/2007/01/11/war-in-somalia-a-top-u-s-official-says-that-he-believes-the-airstrike-in-somalia-on-the-previous-day-failed-to-kill-the-al-qaeda-suspects.md)
-_Context: al-Qaeda, capture, two years of helping, U.S._
+_Context: U.S., two years of helping, capture, al-Qaeda_
 
 ##### Operation Mountain Fury
 ### [ In the ongoing Operation Mountain Fury, NATO forces kill as many as 150 Taliban militants in Afghanistan's Paktika province. ](/news/2007/01/11/in-the-ongoing-operation-mountain-fury-nato-forces-kill-as-many-as-150-taliban-militants-in-afghanistan-s-paktika-province.md)
-_Context: Afghanistan, Operation Mountain Fury, NATO, Taliban, Paktika province_
+_Context: Afghanistan, Operation Mountain Fury, NATO, Paktika province, Taliban_
 
 ##### U.S. Defense Department
 ### [ The U.S. Defense Department reports that United States Department of Defense contractors, while traveling through Canada, have had Canadian coins with radio transmitters inside planted on them by unknown people. The transmitters could be used to track the locations of the contractors. ](/news/2007/01/11/the-u-s-defense-department-reports-that-united-states-department-of-defense-contractors-while-traveling-through-canada-have-had-canadian.md)
-_Context: U.S. military, Canadian, U.S. Defense Department, Canadian coin, radio transmitter_
+_Context: U.S. Defense Department, radio transmitter, U.S. military, Canadian, Canadian coin_
 
 ##### Adam Air
 ### [ Pieces of wreckage and a body are recovered from the missing Adam Air flight 574. ](/news/2007/01/11/pieces-of-wreckage-and-a-body-are-recovered-from-the-missing-adam-air-flight-574.md)

@@ -25,7 +25,7 @@ The World Bank said yesterday the Philippines can eliminate poverty within a gen
 
 ##### Francs
 ### [The Swiss franc to euro exchange rate jumps by 30% immediately following a Swiss National Bank announcement. The bank will abandon its three-year-old cap on the swiss franc's value against the euro as well as lower the interest rate on sight deposits (instant access accounts) to -0.75% (the negative number meaning that the depositor has to pay the bank 0.75% per year to hold the depositor's money). ](/news/2015/01/15/the-swiss-franc-to-euro-exchange-rate-jumps-by-30-immediately-following-a-swiss-national-bank-announcement-the-bank-will-abandon-its-three.md)
-_Context: Swiss National Bank, francs, euro_
+_Context: francs, euro, Swiss National Bank_
 
 ##### Target Corporation
 ### [Target will close all of its 133 stores in Canada and put Target Canada into bankruptcy. ](/news/2015/01/15/target-will-close-all-of-its-133-stores-in-canada-and-put-target-canada-into-bankruptcy.md)
@@ -41,7 +41,7 @@ KUALA LUMPUR (AFP/THE STAR/ASIA NEWS NETWORK) - Eight people were killed and 22 
 
 ##### Yangtze River
 ### [A newly manufactured tug boat capsizes during a test run in the Yangtze River in east China's Jiangsu Province leaving at least 20 people missing. ](/news/2015/01/15/a-newly-manufactured-tug-boat-capsizes-during-a-test-run-in-the-yangtze-river-in-east-china-s-jiangsu-province-leaving-at-least-20-people-mi.md)
-_Context: Jiangsu Province, China, Yangtze River_
+_Context: Yangtze River, China, Jiangsu Province_
 
 ##### Morbidity and Mortality Weekly Report
 ### [The Morbidity and Mortality Weekly Report estimates the effectiveness of the influenza vaccination in 2014&ndash;2015 at 23% which is the lowest since 2006. ](/news/2015/01/15/the-morbidity-and-mortality-weekly-report-estimates-the-effectiveness-of-the-influenza-vaccination-in-2014-ndash-2015-at-23-which-is-the-lo.md)

@@ -17,15 +17,15 @@ _Context: Baltic Sea, Estonia_
 
 ##### Zacarias Moussaoui
 ### [ The judge in the trial of Zacarias Moussaoui is considering throwing out the death penalty as an option after lawyers from the Federal Aviation Administration coached four government witnesses. ](/news/2006/03/13/the-judge-in-the-trial-of-zacarias-moussaoui-is-considering-throwing-out-the-death-penalty-as-an-option-after-lawyers-from-the-federal-avia.md)
-_Context: sentenced to death, Federal Aviation Administration, Zacarias Moussaoui_
+_Context: Zacarias Moussaoui, Federal Aviation Administration, sentenced to death_
 
 ##### Merck KGaA
 ### [ German drug and chemical manufacturer Merck KGaA announces plans to buy Schering in a merger of EUR14.6 billion. Merck and Schering would become Germany's largest pharmaceutical company.&nbsp;- ](/news/2006/03/13/german-drug-and-chemical-manufacturer-merck-kgaa-announces-plans-to-buy-schering-in-a-merger-of-a-14-6-billion-merck-and-schering-would-b.md)
-_Context: Merck KGaA, pharmaceutical companies, Schering_
+_Context: pharmaceutical companies, Merck KGaA, Schering_
 
 ##### Metropolitan Police Service
 ### [ London Metropolitan Police chief Sir Ian Blair admits secretly recording conversations with the Attorney General Lord Goldsmith, an act that could lead to a civil legal proceedings if the other party has not granted permission for conversations to be taped. ](/news/2006/03/13/london-metropolitan-police-chief-sir-ian-blair-admits-secretly-recording-conversations-with-the-attorney-general-lord-goldsmith-an-act-tha.md)
-_Context: Metropolitan Police Service, Attorney General for England and Wales, Sir Ian Blair, Lord Goldsmith_
+_Context: Sir Ian Blair, Lord Goldsmith, Metropolitan Police Service, Attorney General for England and Wales_
 
 ## [Previous Day...](/news/2006/03/12/index.md)
 

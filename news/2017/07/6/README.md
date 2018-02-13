@@ -5,11 +5,11 @@ Formats: [HTML](2017/07/6/index.html)  [JSON](2017/07/6/index.json)  [XML](2017/
 
 ##### World heritage sites
 ### [In a meeting held in the city of Krakow, Poland, UNESCO decides not to include Machu Picchu on its list of endangered heritage sites due to the steps taken by Peruvian authorities to address concerns about the condition of the Inca citadel. ](/news/2017/07/6/in-a-meeting-held-in-the-city-of-kraka3w-poland-unesco-decides-not-to-include-machu-picchu-on-its-list-of-endangered-heritage-sites-due-to.md)
-_Context: World heritage sites, Polish, list of endangered heritage sites, Machu Picchu, Krakow, UNESCO_
+_Context: UNESCO, list of endangered heritage sites, Krakow, Machu Picchu, World heritage sites, Polish_
 
 ##### Alternative fuel vehicles
 ### [French ecology minister Nicolas Hulot announces France is to ban the sale of petrol and diesel vehicles by 2040. ](/news/2017/07/6/french-ecology-minister-nicolas-hulot-announces-france-is-to-ban-the-sale-of-petrol-and-diesel-vehicles-by-2040.md)
-_Context: petrol engine vehicles, Alternative fuel vehicles, 2040, Nicolas Hulot, France, ecology minister, diesel-powered_
+_Context: France, ecology minister, Nicolas Hulot, Alternative fuel vehicles, diesel-powered, petrol engine vehicles, 2040_
 
 ##### 2017 Leyte earthquake
 ### [At least two are killed and power supply is interrupted in Eastern Visayas and Bohol when a 6.5 magnitude earthquake hits the province of Leyte in the Philippines ](/news/2017/07/6/at-least-two-are-killed-and-power-supply-is-interrupted-in-eastern-visayas-and-bohol-when-a-6-5-magnitude-earthquake-hits-the-province-of-le.md)
@@ -35,7 +35,7 @@ There was applause and a sense of relief in Vanuatu&#39;s parliament today as Ta
 
 ##### Supreme Court of the Philippines
 ### [The Supreme Court of the Philippines says President of the Philippines Rodrigo Duterte can declare martial law in the whole Philippines. Two days prior, the Supreme Court had ](/news/2017/07/6/the-supreme-court-of-the-philippines-says-president-of-the-philippines-rodrigo-duterte-can-declare-martial-law-in-the-whole-philippines-two.md)
-_Context: President, Philippines, Rodrigo Duterte, martial law, Supreme Court of the Philippines_
+_Context: Supreme Court of the Philippines, Philippines, Rodrigo Duterte, President, martial law_
 
 ##### New subatomic particle
 ### [Scientists announce the detection of a new subatomic particle at the Large Hadron Collider. ](/news/2017/07/6/scientists-announce-the-detection-of-a-new-subatomic-particle-at-the-large-hadron-collider.md)

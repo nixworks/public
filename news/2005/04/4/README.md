@@ -9,23 +9,23 @@ _Context: Palestinian, Israel, West Bank_
 
 ##### UNDP
 ### [ A UNDP report, the third Arab Human Development Report criticizes the United States for their actions in the Middle East, particularly in Iraq. ](/news/2005/04/4/a-undp-report-the-third-arab-human-development-report-criticizes-the-united-states-for-their-actions-in-the-middle-east-particularly-in-i.md)
-_Context: UNDP, Arab Human Development Report, Iraq, American, Middle East_
+_Context: Arab Human Development Report, UNDP, U.S., Iraq, Middle East_
 
-##### American
+##### U.S.
 ### [ The United States awards its highest military award, the Medal of Honor, to Paul Ray Smith, who was killed in fighting at the Baghdad airport in 2003. This is the first presentation of the award since 1993 and only the third since the Vietnam War. ](/news/2005/04/4/the-united-states-awards-its-highest-military-award-the-medal-of-honor-to-paul-ray-smith-who-was-killed-in-fighting-at-the-baghdad-airpo.md)
-_Context: Baghdad, Paul Ray Smith, Vietnam War, Medal of Honor, American, 1993_
+_Context: Baghdad, 1993, Medal of Honor, U.S., Vietnam War, Paul Ray Smith_
 
 ##### Holy See
 ### [ The Vatican announces that Pope John Paul II's funeral is to take place on the morning of April 8 and that he is to be buried in the crypt of Saint Peter in the Vatican. ](/news/2005/04/4/the-vatican-announces-that-pope-john-paul-ii-s-funeral-is-to-take-place-on-the-morning-of-april-8-and-that-he-is-to-be-buried-in-the-crypt.md)
-_Context: Holy See, Saint Peter, Vatican, Pope John Paul II, funeral, April 8_
+_Context: April 8, Pope John Paul II, Saint Peter, Vatican, funeral, Holy See_
 
 ##### Wedding
 ### [ The wedding of Prince Charles and Camilla Parker-Bowles, also scheduled for Friday, April 8, will be postponed one day to avoid a time conflict and allow Prince Charles to attend the Papal funeral. ](/news/2005/04/4/the-wedding-of-prince-charles-and-camilla-parker-bowles-also-scheduled-for-friday-april-8-will-be-postponed-one-day-to-avoid-a-time-conf.md)
-_Context: Prince Charles, wedding, April 8, Camilla Parker-Bowles_
+_Context: April 8, wedding, Prince Charles, Camilla Parker-Bowles_
 
 ##### Cuba
 ### [ Cuba announces three days of national mourning for Pope John Paul II. ](/news/2005/04/4/cuba-announces-three-days-of-national-mourning-for-pope-john-paul-ii.md)
-_Context: Cuba, Pope, Pope John Paul II_
+_Context: Pope John Paul II, Pope, Cuba_
 
 ##### Sudan
 ### [ Sudanese officials reject the United Nations resolution to use the International Criminal Court to prosecute the 51 people accused of responsibility for the Darfur atrocities. ](/news/2005/04/4/sudanese-officials-reject-the-united-nations-resolution-to-use-the-international-criminal-court-to-prosecute-the-51-people-accused-of-respo.md)
@@ -37,27 +37,27 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 
 ##### Iraqi National Assembly
 ### [ The Iraqi National Assembly elects Sunni Arab Hajim al-Hassani as its speaker. Shiite Hussain Shahristani and Kurd Aref Taifour are elected as his top deputies. The selections are the result of protracted debates between Iraq's top political parties. ](/news/2005/04/4/the-iraqi-national-assembly-elects-sunni-arab-hajim-al-hassani-as-its-speaker-shiite-hussain-shahristani-and-kurd-aref-taifour-are-elected.md)
-_Context: Hajim al-Hassani, Iraqi National Assembly, Aref Taifour, Hussain Shahristani, Iraq, Kurd, Shiite, Sunni_
+_Context: Hussain Shahristani, Hajim al-Hassani, Sunni, Shiite, Iraq, Aref Taifour, Iraqi National Assembly, Kurd_
 
 ##### Vandalism
 ### [ Vandals deface the grave of Yitzhak Rabin and his wife Leah in the national cemetery on Mount Herzl in Jerusalem, Israel, spray painting them with slogans. ](/news/2005/04/4/vandals-deface-the-grave-of-yitzhak-rabin-and-his-wife-leah-in-the-national-cemetery-on-mount-herzl-in-jerusalem-israel-spray-painting-th.md)
-_Context: graffiti, Leah, spray painting, cemetery, Mount Herzl, Jerusalem, Israel, Yitzhak Rabin, vandalism_
+_Context: Leah, Israel, cemetery, graffiti, Mount Herzl, Yitzhak Rabin, Jerusalem, spray painting, vandalism_
 
 ##### Amnesty International
 ### [ Amnesty International reports that at least 3,797 people were executed and 7,395 sentenced to death in 2004. ](/news/2005/04/4/amnesty-international-reports-that-at-least-3-797-people-were-executed-and-7-395-sentenced-to-death-in-2004.md)
-_Context: sentenced to death, 2004, execution, Amnesty International_
+_Context: sentenced to death, execution, 2004, Amnesty International_
 
 ##### Nigeria
 ### [ Nigerian President Olusegun Obasanjo fires his housing minister Alice Mobolaji Osomo for corruption in a housing scandal. ](/news/2005/04/4/nigerian-president-olusegun-obasanjo-fires-his-housing-minister-alice-mobolaji-osomo-for-corruption-in-a-housing-scandal.md)
-_Context: anti-corruption, President, Alice Mobolaji Osomo, Nigeria, Olusegun Obasanjo_
+_Context: Nigeria, Olusegun Obasanjo, Alice Mobolaji Osomo, anti-corruption, President_
 
 ##### United Nations Security Council
 ### [ The United Nations Security Council extends the mandate of UN and French peacekeepers in Cote d'Ivoire. ](/news/2005/04/4/the-united-nations-security-council-extends-the-mandate-of-un-and-french-peacekeepers-in-ca-te-d-ivoire.md)
-_Context: peacekeeper, United Nations, France, Cote d'Ivoire, United Nations Security Council_
+_Context: United Nations Security Council, France, peacekeeper, United Nations, Cote d'Ivoire_
 
 ##### South Africa
 ### [ South African president Thabo Mbeki hosts a meeting between rebels and the Cote d'Ivoire government in his presidential palace. ](/news/2005/04/4/south-african-president-thabo-mbeki-hosts-a-meeting-between-rebels-and-the-ca-te-d-ivoire-government-in-his-presidential-palace.md)
-_Context: South Africa, Thabo Mbeki_
+_Context: Thabo Mbeki, South Africa_
 
 ##### Moldova
 ### [ The Moldovan parliament re-elects president Vladimir Voronin. ](/news/2005/04/4/the-moldovan-parliament-re-elects-president-vladimir-voronin.md)
@@ -69,7 +69,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Jorg Haider
 ### [ Jorg Haider, the former leader of Freedom Party of Austria (FPO), together with almost all of FPO's parliamentary representatives, leaves the party to found a new party Alliance for Austria's Future. ](/news/2005/04/4/japrg-haider-the-former-leader-of-freedom-party-of-austria-fpa-together-with-almost-all-of-fpa-s-parliamentary-representatives-leave.md)
-_Context: Freedom Party of Austria, Jorg Haider, Alliance for Austria's Future_
+_Context: Freedom Party of Austria, Alliance for Austria's Future, Jorg Haider_
 
 ##### Brazil
 ### [ Brazilian police arrest 11 men over the Rio Massacre last Thursday when 30 people were killed. ](/news/2005/04/4/brazilian-police-arrest-11-men-over-the-rio-massacre-last-thursday-when-30-people-were-killed.md)

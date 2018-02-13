@@ -5,7 +5,7 @@ Formats: [HTML](2010/11/15/index.html)  [JSON](2010/11/15/index.json)  [XML](201
 
 ##### US diplomat
 ### [US diplomat Richard Holbrooke says the US has a transition plan for Afghanistan, not an exit strategy, and that there will be some drawdown of American troops in Afghanistan next year but the U.S. combat mission will not end there until 2014. ](/news/2010/11/15/us-diplomat-richard-holbrooke-says-the-us-has-a-transition-plan-for-afghanistan-not-an-exit-strategy-and-that-there-will-be-some-drawdown.md)
-_Context: U.S. combat mission, exit strategy, Richard Holbrooke, US diplomat, Afghanistan_
+_Context: US diplomat, Richard Holbrooke, exit strategy, Afghanistan, U.S. combat mission_
 
 ##### BHP Billiton
 ### [BHP Billiton abandons its US$39 billion takeover bid for Canadian fertiliser maker Potash Corp. ](/news/2010/11/15/bhp-billiton-abandons-its-us-39-billion-takeover-bid-for-canadian-fertiliser-maker-potash-corp.md)
@@ -17,19 +17,19 @@ Chinese state media report that unlicensed welders accidentally started a fire i
 
 ##### New Delhi
 ### [At least 42 people die after a building collapses in eastern New Delhi, India with at least twenty people trapped in the rubble. ](/news/2010/11/15/at-least-42-people-die-after-a-building-collapses-in-eastern-new-delhi-india-with-at-least-twenty-people-trapped-in-the-rubble.md)
-_Context: New Delhi, India_
+_Context: India, New Delhi_
 
-##### American
+##### U.S.
 ### [The United States will provide an additional US$500-million aid to Pakistan to help rebuild the country after devastating floods caused the worst natural disaster in Pakistan's history. ](/news/2010/11/15/the-united-states-will-provide-an-additional-us-500-million-aid-to-pakistan-to-help-rebuild-the-country-after-devastating-floods-caused-the.md)
-_Context: American, Pakistan, devastating floods_
+_Context: Pakistan, devastating floods, U.S._
 
 ##### Iran
 ### [Iran arrests five human rights lawyers for security-related offences, the latest in a series of arrests of Iranian human rights' activists since last year's disputed presidential election. ](/news/2010/11/15/iran-arrests-five-human-rights-lawyers-for-security-related-offences-the-latest-in-a-series-of-arrests-of-iranian-human-rights-activists-s.md)
-_Context: human rights, post-election riots, Iran, Iranian human rights_
+_Context: Iranian human rights, human rights, Iran, post-election riots_
 
 ##### A. Raja
 ### [A. Raja resigns as the Indian Telecommunications Minister over claims that licenses had been improperly given to mobile phone companies. ](/news/2010/11/15/a-raja-resigns-as-the-indian-telecommunications-minister-over-claims-that-licenses-had-been-improperly-given-to-mobile-phone-companies.md)
-_Context: A. Raja, India, Telecommunications Minister, mobile phone_
+_Context: Telecommunications Minister, mobile phone, India, A. Raja_
 
 ##### Guinea
 ### [Violence occurs in Guinea as both candidates declare victory ahead of the Guinean presidential election. ](/news/2010/11/15/violence-occurs-in-guinea-as-both-candidates-declare-victory-ahead-of-the-guinean-presidential-election.md)

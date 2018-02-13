@@ -5,15 +5,15 @@ Formats: [HTML](2007/12/20/index.html)  [JSON](2007/12/20/index.json)  [XML](200
 
 ##### New Orleans, Louisiana
 ### [ There are violent incidents in New Orleans, Louisiana as the City Council approves the demolition of 4,500 public housing units. ](/news/2007/12/20/there-are-violent-incidents-in-new-orleans-louisiana-as-the-city-council-approves-the-demolition-of-4-500-public-housing-units.md)
-_Context: New Orleans, Louisiana, public housing, Louisiana_
+_Context: New Orleans, Louisiana, Louisiana, public housing_
 
 ##### 2008
 ### [ United States presidential election, 2008: Tom Tancredo withdraws as a candidate for the Republican nomination and endorses Mitt Romney. ](/news/2007/12/20/united-states-presidential-election-2008-tom-tancredo-withdraws-as-a-candidate-for-the-republican-nomination-and-endorses-mitt-romney.md)
-_Context: 2008, Mitt Romney, Tom Tancredo, Republican_
+_Context: 2008, Tom Tancredo, Republican, Mitt Romney_
 
 ##### $
 ### [ The US$8 billion buyout of the Tribune Company is completed by Sam Zell. ](/news/2007/12/20/the-us-8-billion-buyout-of-the-tribune-company-is-completed-by-sam-zell.md)
-_Context: Tribune Company, $, Sam Zell_
+_Context: $, Tribune Company, Sam Zell_
 
 ##### Queen Elizabeth
 ### [ At 81 years, 7 months, and 29 days, Queen Elizabeth II becomes the longest-lived British monarch, surpassing the record of Queen Victoria. ](/news/2007/12/20/at-81-years-7-months-and-29-days-queen-elizabeth-ii-becomes-the-longest-lived-british-monarch-surpassing-the-record-of-queen-victoria.md)

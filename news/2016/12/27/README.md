@@ -17,7 +17,7 @@ Healthcare company Abbott Laboratories (ABT.N) has won U.S. antitrust approval f
 
 ##### 2016 Pacific typhoon season
 ### [The Philippine Coast Guard looks for 18 missing sailors from a ship sunk by Typhoon Nock-ten (Nina). At least seven people are confirmed to have died in the storm. ](/news/2016/12/27/the-philippine-coast-guard-looks-for-18-missing-sailors-from-a-ship-sunk-by-typhoon-nock-ten-nina-at-least-seven-people-are-confirmed-to.md)
-_Context: 2016 Pacific typhoon season, Philippine Coast Guard, Typhoon Nock-ten (2016)_
+_Context: Typhoon Nock-ten (2016), Philippine Coast Guard, 2016 Pacific typhoon season_
 
 ##### Pakistan
 ### [ At least 27 people are killed after drinking toxic alcohol in Pakistan. ](/news/2016/12/27/at-least-27-people-are-killed-after-drinking-toxic-alcohol-in-pakistan.md)
@@ -29,7 +29,7 @@ Israel curbed relations with countries that voted in favor of a recent U.N. Secu
 
 ##### Japan-United States relations
 ### [Japanese Prime Minister Shinzo Abe makes a landmark visit to Naval Station Pearl Harbor in Pearl Harbor, Hawaii, offering "sincere and everlasting condolences" to the victims of the attack on Pearl Harbor by the Japanese empire on December 7, 1941. ](/news/2016/12/27/japanese-prime-minister-shinza-abe-makes-a-landmark-visit-to-naval-station-pearl-harbor-in-pearl-harbor-hawaii-offering-sincere-and-ever.md)
-_Context: Hawaii, Japan, Pearl Harbor, attack on Pearl Harbor, Shinzo Abe, Prime Minister of Japan, Empire of Japan, Naval Station Pearl Harbor, Japan-United States relations_
+_Context: attack on Pearl Harbor, Japan-United States relations, Pearl Harbor, Hawaii, Empire of Japan, Japan, Prime Minister of Japan, Naval Station Pearl Harbor, Shinzo Abe_
 
 ##### Basuki Tjahaja Purnama
 ### [Basuki Tjahaja Purnama, the Christian Governor of the Indonesian capital Jakarta, will face prosecution for blasphemy. ](/news/2016/12/27/basuki-tjahaja-purnama-the-christian-governor-of-the-indonesian-capital-jakarta-will-face-prosecution-for-blasphemy.md)
@@ -41,7 +41,7 @@ Former Argentine President Cristina Fernandez was indicted on Tuesday on charges
 
 ##### Cuba
 ### [Cuba's National Assembly of People's Power approves a law banning commemorative statues of late President Fidel Castro, and the naming of public places after him, in accordance with the wishes of Castro, who died last month. ](/news/2016/12/27/cuba-s-national-assembly-of-people-s-power-approves-a-law-banning-commemorative-statues-of-late-president-fidel-castro-and-the-naming-of-pu.md)
-_Context: Cuba, died, Fidel Castro, President, Parliament_
+_Context: President, Fidel Castro, Parliament, died, Cuba_
 
 ## [Previous Day...](/news/2016/12/26/index.md)
 

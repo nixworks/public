@@ -17,7 +17,7 @@ Knife-wielding Palestinians attacked Israelis in Jerusalem and the occupied West
 
 ##### Iraqi Civil War (2014-present)
 ### [The Iranian-funded Shi'ite Al-Mukhtar Army claims responsibility for Thursday's deadly rocket attacks near the Baghdad International Airport that killed 23 members of an exiled Iranian opposition group, the People's Mujahedin of Iran. ](/news/2015/10/30/the-iranian-funded-shi-ite-al-mukhtar-army-claims-responsibility-for-thursday-s-deadly-rocket-attacks-near-the-baghdad-international-airport.md)
-_Context: People's Mujahedin of Iran, Iraqi Civil War (2014-present), Baghdad International Airport, Iran, Shia, rocket attacks_
+_Context: Iran, Baghdad International Airport, People's Mujahedin of Iran, Shia, rocket attacks, Iraqi Civil War (2014-present)_
 
 ##### Happy Days
 ### ["Happy Days" actor Al Molinaro dies at 96. ](/news/2015/10/30/happy-days-actor-al-molinaro-dies-at-96.md)
@@ -45,7 +45,7 @@ A building undergoing demolition in New York partially collapsed on Friday, kill
 
 ##### European migrant crisis
 ### [Greek prime minister Alexis Tsipras lashes out at European "ineptness" in handling the continent's massive immigration crisis. The Associated Press reports 31 more people -- mostly children -- drowned in shipwrecks in the Mediterranean Sea near the islands of Kalymnos and Rhodes. Turkey's state-run agency says four children drowned and two others are missing after two new accidents with boats headed to Greece's Lesbos and Samos islands. The death toll in the Aegean Sea over the past three days is at least 50. The Greek coast guard says they rescued 600 people in the past 24 hours, while thousands more made it safely from Turkey to Greece's southeastern islands. ](/news/2015/10/30/greek-prime-minister-alexis-tsipras-lashes-out-at-european-ineptness-in-handling-the-continent-s-massive-immigration-crisis-the-associate.md)
-_Context: Mediterranean Sea, Lesbos, Associated Press, Samos, Alexis Tsipras, European migrant crisis, Kalymnos, Rhodes, Turkey, Europe, Aegean Sea, Greek Prime Minister_
+_Context: European migrant crisis, Associated Press, Kalymnos, Mediterranean Sea, Greek Prime Minister, Rhodes, Samos, Europe, Aegean Sea, Lesbos, Turkey, Alexis Tsipras_
 
 ##### Texas
 ### [Storms hit the American state of Texas causing at least two deaths with one person reported missing. Rivers overflowed as more than a foot of rain fell in some areas while tornadoes ripped through buildings outside San Antonio. ](/news/2015/10/30/storms-hit-the-american-state-of-texas-causing-at-least-two-deaths-with-one-person-reported-missing-rivers-overflowed-as-more-than-a-foot-o.md)
@@ -53,7 +53,7 @@ School buses were trapped in near San Antonio and a tornado may have touched dow
 
 ##### Henan
 ### [A building collapse in Henan province in central China leaves 17 workers dead and 23 injured. ](/news/2015/10/30/a-building-collapse-in-henan-province-in-central-china-leaves-17-workers-dead-and-23-injured.md)
-_Context: China, Henan_
+_Context: Henan, China_
 
 ##### Virginia
 ### [A Virginia (U.S.) school bus overturns after being struck by a van, sending 28 students to local hospitals with five seriously injured. ](/news/2015/10/30/a-virginia-u-s-school-bus-overturns-after-being-struck-by-a-van-sending-28-students-to-local-hospitals-with-five-seriously-injured.md)
@@ -65,11 +65,11 @@ British resident Shaker Aamer, who spent 13 years in Guantanamo Bay, arrives bac
 
 ##### Territorial disputes in the South China Sea
 ### [The European Union sides with the United States over Tuesday's U.S.-Chinese patrolling incident in the South China Sea. ](/news/2015/10/30/the-european-union-sides-with-the-united-states-over-tuesday-s-u-s-chinese-patrolling-incident-in-the-south-china-sea.md)
-_Context: South China Sea, European Union, China, Territorial disputes in the South China Sea, American_
+_Context: China, South China Sea, Territorial disputes in the South China Sea, European Union, U.S._
 
 ##### Syria peace talks in Vienna
 ### [Representatives from about 20 countries meet in Vienna, Austria, seeking a political solution to Syria's four-year civil war that has killed more than 250,000 people, including dozens more today. For the first time Iran is at the table, where diplomats seek peace through a ceasefire plan followed by a transitional government. ](/news/2015/10/30/representatives-from-about-20-countries-meet-in-vienna-austria-seeking-a-political-solution-to-syria-s-four-year-civil-war-that-has-killed.md)
-_Context: Syria, transitional government, Syria peace talks in Vienna, Vienna, ceasefire, Iran, Syrian Civil War, Austria_
+_Context: Syria, Syrian Civil War, Syria peace talks in Vienna, Vienna, transitional government, Iran, ceasefire, Austria_
 
 ##### Permanent Court of Arbitration's
 ### [The Permanent Court of Arbitration in The Hague rules it has jurisdiction to hear the Philippines' case against China over maritime disputes in the South China Sea. ](/news/2015/10/30/the-permanent-court-of-arbitration-in-the-hague-rules-it-has-jurisdiction-to-hear-the-philippines-case-against-china-over-maritime-disputes.md)

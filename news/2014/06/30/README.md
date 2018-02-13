@@ -9,7 +9,7 @@ _Context: presidential palace, Cairo, Post-coup unrest in Egypt_
 
 ##### South Thailand insurgency
 ### [A group of gunmen open fire at a mosque in the Panare district in Pattani province in Thailand, resulting in at least one death. ](/news/2014/06/30/a-group-of-gunmen-open-fire-at-a-mosque-in-the-panare-district-in-pattani-province-in-thailand-resulting-in-at-least-one-death.md)
-_Context: South Thailand insurgency, Panare, Pattani province, Thailand, mosque_
+_Context: South Thailand insurgency, mosque, Panare, Pattani province, Thailand_
 
 ##### 2014 pro-Russian conflict in Ukraine
 ### [A cameraman from Russia's Channel One dies after being shot in Donetsk. ](/news/2014/06/30/a-cameraman-from-russia-s-channel-one-dies-after-being-shot-in-donetsk.md)
@@ -21,7 +21,7 @@ According to military assessments, Hamas has not been behind recent rocket attac
 
 ##### War in North-West Pakistan
 ### [The Pakistan Army begins a ground offensive against militants in the town of Miramshah in North Waziristan. ](/news/2014/06/30/the-pakistan-army-begins-a-ground-offensive-against-militants-in-the-town-of-miramshah-in-north-waziristan.md)
-_Context: North Waziristan, Pakistan Army, Miramshah, War in North-West Pakistan_
+_Context: Pakistan Army, Miramshah, North Waziristan, War in North-West Pakistan_
 
 ##### Israeli-Palestinian conflict
 ### [The bodies of three kidnapped Israeli teenagers, including one with dual American citizenship, are found partially buried near Hebron on the West Bank. Shin Bet determined they were murdered shortly after being kidnapped, and is searching for two Hamas kidnappers and accomplices.](/news/2014/06/30/the-bodies-of-three-kidnapped-israeli-teenagers-including-one-with-dual-american-citizenship-are-found-partially-buried-near-hebron-on-the.md)
@@ -29,11 +29,11 @@ The bodies of three Israeli teenagers who were kidnapped in the West Bank earlie
 
 ##### Mexican Drug War
 ### [Mexican Army soldiers kill 22 criminals in a shootout at a warehouse in the town of Tlatlaya in central Mexico. ](/news/2014/06/30/mexican-army-soldiers-kill-22-criminals-in-a-shootout-at-a-warehouse-in-the-town-of-tlatlaya-in-central-mexico.md)
-_Context: Tlatlaya, Mexican Army, Mexican Drug War, Mexican_
+_Context: Tlatlaya, Mexican Army, Mexican, Mexican Drug War_
 
 ##### Yosemite National Park
 ### [Yosemite National Park commemorates the 150th anniversary of Abraham Lincoln signing into law the Yosemite Grant Act, establishing Yosemite as a federally-protected area. ](/news/2014/06/30/yosemite-national-park-commemorates-the-150th-anniversary-of-abraham-lincoln-signing-into-law-the-yosemite-grant-act-establishing-yosemite.md)
-_Context: Abraham Lincoln, Yosemite National Park_
+_Context: Yosemite National Park, Abraham Lincoln_
 
 ##### China
 ### [The People's Republic of China jails 113 people in Xinjiang autonomous region for terrorism and other offences. ](/news/2014/06/30/the-people-s-republic-of-china-jails-113-people-in-xinjiang-autonomous-region-for-terrorism-and-other-offences.md)

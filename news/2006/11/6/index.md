@@ -5,11 +5,11 @@ Formats: [HTML](2006/11/6/index.html)  [JSON](2006/11/6/index.json)  [XML](2006/
 
 ##### Somali Civil War
 ### [ Somalian War: Heavy fighting has been reported between forces of Union of Islamic Courts and Puntland, the semi-autonomous region of Somalia. ](/news/2006/11/6/somalian-war-heavy-fighting-has-been-reported-between-forces-of-union-of-islamic-courts-and-puntland-the-semi-autonomous-region-of-somali.md)
-_Context: Union of Islamic Courts, Somali Civil War, Somalia, Puntland_
+_Context: Puntland, Somalia, Somali Civil War, Union of Islamic Courts_
 
 ##### Felipe Perez Roque
 ### [ Felipe Perez Roque, the Foreign Minister of Cuba, backs away from earlier predictions that Fidel Castro would return as the President of Cuba by December raising concerns about the progress of Castro's recovery from intestinal surgery. ](/news/2006/11/6/felipe-pa-c-rez-roque-the-foreign-minister-of-cuba-backs-away-from-earlier-predictions-that-fidel-castro-would-return-as-the-president-of-c.md)
-_Context: Fidel Castro, Cuba, Felipe Perez Roque, President_
+_Context: Fidel Castro, Felipe Perez Roque, President, Cuba_
 
 ##### Iraq
 ### [ The Iraqi government prepares a law that may see former Baath Party supporters restored to their former jobs. ](/news/2006/11/6/the-iraqi-government-prepares-a-law-that-may-see-former-baath-party-supporters-restored-to-their-former-jobs.md)
@@ -17,7 +17,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Tony Blair
 ### [ Tony Blair opposes the death penalty for Saddam Hussein but says the trial had reminded the world of Hussein's brutality. ](/news/2006/11/6/tony-blair-opposes-the-death-penalty-for-saddam-hussein-but-says-the-trial-had-reminded-the-world-of-hussein-s-brutality.md)
-_Context: Saddam Hussein, sentenced to death, Tony Blair_
+_Context: Tony Blair, sentenced to death, Saddam Hussein_
 
 ##### Bomb
 ### [ Bombs explode at Mexico's Federal Electoral Tribunal, an opposition party's headquarters and a bank in the capital. ](/news/2006/11/6/bombs-explode-at-mexico-s-federal-electoral-tribunal-an-opposition-party-s-headquarters-and-a-bank-in-the-capital.md)
@@ -25,7 +25,7 @@ Bombs have exploded at Mexico&#39;s top electoral court, an opposition party&#39
 
 ##### Operation Autumn Clouds
 ### [ Operation Autumn Clouds: A female Palestinian suicide bomber has blown herself up in a Gaza Strip town, killing herself and injuring an Israeli soldier, the Israeli army says. ](/news/2006/11/6/operation-autumn-clouds-a-female-palestinian-suicide-bomber-has-blown-herself-up-in-a-gaza-strip-town-killing-herself-and-injuring-an-isr.md)
-_Context: Israel, Israeli army, Gaza Strip, Operation Autumn Clouds_
+_Context: Operation Autumn Clouds, Israel, Gaza Strip, Israeli army_
 
 ##### Polish President
 ### [ The Polish President, Lech Kaczynski, proposes that there be a 100,000 man-strong EU Army designed to work with NATO. ](/news/2006/11/6/the-polish-president-lech-kaczyaski-proposes-that-there-be-a-100-000-man-strong-eu-army-designed-to-work-with-nato.md)
@@ -37,7 +37,7 @@ _Context: intensive care unit, Sheba Medical Center, Ariel Sharon_
 
 ##### Daniel Ortega
 ### [ Daniel Ortega has an early lead over Eduardo Montealegre, according to partial results from the general elections in Nicaragua. ](/news/2006/11/6/daniel-ortega-has-an-early-lead-over-eduardo-montealegre-according-to-partial-results-from-the-general-elections-in-nicaragua.md)
-_Context: Nicaragua, Eduardo Montealegre, 2006 general election, Daniel Ortega_
+_Context: 2006 general election, Eduardo Montealegre, Nicaragua, Daniel Ortega_
 
 ##### United Nations Climate Change Conference
 ### [ The United Nations Climate Change Conference (COP-12) opens in Nairobi, Kenya. ](/news/2006/11/6/the-united-nations-climate-change-conference-cop-12-opens-in-nairobi-kenya.md)

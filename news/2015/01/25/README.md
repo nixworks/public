@@ -9,7 +9,7 @@ At least 30 people were killed in heavy fighting between police and Muslim rebel
 
 ##### Miss Universe
 ### [The Miss Universe pageant crowns Miss Colombia Paulina Vega in Miami, Florida. ](/news/2015/01/25/the-miss-universe-pageant-crowns-miss-colombia-paulina-vega-in-miami-florida.md)
-_Context: crowns, Miami, the state, Miss Colombia, Miss Universe, Paulina Vega_
+_Context: Miss Universe, Miss Colombia, Miami, the state, Paulina Vega, crowns_
 
 ##### Pakistan
 ### [A massive blackout strikes Pakistan, leaving as much as 80 percent of the country without electricity at its height as officials rush to restore power. ](/news/2015/01/25/a-massive-blackout-strikes-pakistan-leaving-as-much-as-80-percent-of-the-country-without-electricity-at-its-height-as-officials-rush-to-res.md)
@@ -17,7 +17,7 @@ _Context: Pakistan_
 
 ##### Barack Obama
 ### [US President Barack Obama meets Indian Prime Minister Narendra Modi for a three-day visit in India. ](/news/2015/01/25/us-president-barack-obama-meets-indian-prime-minister-narendra-modi-for-a-three-day-visit-in-india.md)
-_Context: Barack Obama, India, Narendra Modi_
+_Context: Narendra Modi, Barack Obama, India_
 
 ##### SYRIZA
 ### [The anti-austerity SYRIZA party wins a plurality in the 2015 Greek legislative elections. ](/news/2015/01/25/the-anti-austerity-syriza-party-wins-a-plurality-in-the-2015-greek-legislative-elections.md)

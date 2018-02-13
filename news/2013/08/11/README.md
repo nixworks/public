@@ -13,11 +13,11 @@ Suspected al-Qaeda militants kill five soldiers in an attack on a gas terminal i
 
 ##### Syrian civil war
 ### [Syrian officers reports that Syrian Army kills senior Saudi Arabian al-Qaeda commander Abu Malik al-Shahri, who is known as 'Bin Laden of Syria', in outskirt of Latakia. ](/news/2013/08/11/syrian-officers-reports-that-syrian-army-kills-senior-saudi-arabian-al-qaeda-commander-abu-malik-al-shahri-who-is-known-as-bin-laden-of-sy.md)
-_Context: Osama bin Laden, al-Qaeda, Syrian civil war, Saudi Arabia, Latakia_
+_Context: Osama bin Laden, al-Qaeda, Latakia, Saudi Arabia, Syrian civil war_
 
 ##### Afgahanistan
 ### [Flash floods in Afgahanistan's Kabul province kill 22 people. ](/news/2013/08/11/flash-floods-in-afgahanistan-s-kabul-province-kill-22-people.md)
-_Context: Afgahanistan, Kabul_
+_Context: Kabul, Afgahanistan_
 
 ##### France
 ### [A coach crash in southern France kills two tourists and injures 30. ](/news/2013/08/11/a-coach-crash-in-southern-france-kills-two-tourists-and-injures-30.md)

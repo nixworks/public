@@ -5,11 +5,11 @@ Formats: [HTML](2009/02/23/index.html)  [JSON](2009/02/23/index.json)  [XML](200
 
 ##### MP
 ### [ Member of Parliament Peter Archer's report into the United Kingdom's tainted blood scandal chiefly blames United States pharmaceutical companies that provided contaminated blood plasma, thus infecting approximately 5,700 hemophiliacs with HIV or hepatitis C. ](/news/2009/02/23/member-of-parliament-peter-archer-s-report-into-the-united-kingdom-s-tainted-blood-scandal-chiefly-blames-united-states-pharmaceutical-comp.md)
-_Context: contaminated, blood plasma, HIV, hepatitis C, MP, infecting, pharmaceutical companies, hemophiliacs, Peter Archer, American, tainted blood scandal, United Kingdom, Parliament_
+_Context: blood plasma, pharmaceutical companies, Peter Archer, United Kingdom, hemophiliacs, MP, tainted blood scandal, U.S., contaminated, infecting, Parliament, hepatitis C, HIV_
 
 ##### Norway
 ### [ Norway's Royal Navy will resume searching for Antarctic explorer Roald Amundsen's Latham 47 flying boat. ](/news/2009/02/23/norway-s-royal-navy-will-resume-searching-for-antarctic-explorer-roald-amundsen-s-latham-47-flying-boat.md)
-_Context: Antarctica, explorer, Roald Amundsen, Latham 47, Royal Navy, flying boat, Norway_
+_Context: Roald Amundsen, flying boat, Antarctica, Royal Navy, Norway, Latham 47, explorer_
 
 ##### Paris
 ### [ A Paris court rejects a bid to block the auction of two China-claimed Qing Dynasty sculptures that are part of Yves Saint Laurent's art collection. ](/news/2009/02/23/a-paris-court-rejects-a-bid-to-block-the-auction-of-two-china-claimed-qing-dynasty-sculptures-that-are-part-of-yves-saint-laurent-s-art-col.md)
@@ -17,11 +17,11 @@ A Paris court rejected a bid to block the sale of two bronze sculptures claimed 
 
 ##### Dow Jones Industrial Average
 ### [ The Dow Jones Industrial Average and S&P 500 fall to their lowest levels since 1997. ](/news/2009/02/23/the-dow-jones-industrial-average-and-s-p-500-fall-to-their-lowest-levels-since-1997.md)
-_Context: Dow Jones Industrial Average, S&P 500_
+_Context: S&P 500, Dow Jones Industrial Average_
 
 ##### Pope
 ### [ Pope Benedict XVI selects Archbishop Timothy Dolan to succeed Cardinal Edward Egan as New York's Archdiocese. ](/news/2009/02/23/pope-benedict-xvi-selects-archbishop-timothy-dolan-to-succeed-cardinal-edward-egan-as-new-york-s-archdiocese.md)
-_Context: Archdiocese, Cardinal, Archbishop, Edward Egan, Pope, Pope Benedict XVI, Timothy Dolan, New York City_
+_Context: New York City, Pope, Archdiocese, Timothy Dolan, Pope Benedict XVI, Archbishop, Cardinal, Edward Egan_
 
 ##### Recent bushfires
 ### [ The death toll from recent bushfires in Victoria reaches 210 as they threaten Belgrave. ](/news/2009/02/23/the-death-toll-from-recent-bushfires-in-victoria-reaches-210-as-they-threaten-belgrave.md)
@@ -33,15 +33,15 @@ Queensland Premier Anna Bligh has called a snap state election for March 21.
 
 ##### Ethiopia
 ### [ Ethiopian national Benyam Mohammed is released from Guantanamo Bay Naval Base's detention camp. ](/news/2009/02/23/ethiopian-national-benyam-mohammed-is-released-from-guantanamo-bay-naval-base-s-detention-camp.md)
-_Context: Ethiopia, Benyam Mohammed, military base at Guantanamo Bay, detainee, national, detainees_
+_Context: detainees, national, detainee, military base at Guantanamo Bay, Benyam Mohammed, Ethiopia_
 
 ##### South Korea
 ### [ South Korea's Defense Ministry reports that North Korea has medium-range ballistic missiles capable of striking U.S. military bases. ](/news/2009/02/23/south-korea-s-defense-ministry-reports-that-north-korea-has-medium-range-ballistic-missiles-capable-of-striking-u-s-military-bases.md)
-_Context: North Korea, South Korea, United States military personnel, American, military installations, Defence Ministry, ballistic missile, medium-range missile_
+_Context: United States military personnel, South Korea, North Korea, U.S., ballistic missile, Defence Ministry, military installations, medium-range missile_
 
 ##### India
 ### [ India approves a GBP1.7-billion plan to launch its first astronauts into outer space by 2015. ](/news/2009/02/23/india-approves-a-gbp1-7-billion-plan-to-launch-its-first-astronauts-into-outer-space-by-2015.md)
-_Context: plan, India, GBP, astronaut, outer space_
+_Context: outer space, astronaut, GBP, plan, India_
 
 ## [Previous Day...](/news/2009/02/22/index.md)
 

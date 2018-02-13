@@ -5,7 +5,7 @@ Formats: [HTML](2013/08/7/index.html)  [JSON](2013/08/7/index.json)  [XML](2013/
 
 ##### Syrian Army
 ### [The Syrian Army launches a large missile on the southern Damascus neighborhood of Yarmouk, largely inhabited by Palestinian refugees. ](/news/2013/08/7/the-syrian-army-launches-a-large-missile-on-the-southern-damascus-neighborhood-of-yarmouk-largely-inhabited-by-palestinian-refugees.md)
-_Context: Damascus, Palestinian, Yarmouk Camp, Syrian Army_
+_Context: Palestinian, Damascus, Yarmouk Camp, Syrian Army_
 
 ##### Al-Qaeda
 ### [Six suspect Al-Qaeda militants are killed in a drone strike in Southern Yemen. ](/news/2013/08/7/six-suspect-al-qaeda-militants-are-killed-in-a-drone-strike-in-southern-yemen.md)
@@ -29,15 +29,15 @@ _Context: kills eleven people, Karachi_
 
 ##### Barack Obama
 ### [President Barack Obama affirms that the US will attend the upcoming G-20 meeting, despite differences with the Russian government and the cancellation of bilateral talks between Obama and President Putin. ](/news/2013/08/7/president-barack-obama-affirms-that-the-us-will-attend-the-upcoming-g-20-meeting-despite-differences-with-the-russian-government-and-the-ca.md)
-_Context: Barack Obama, G-20, meeting, President Putin_
+_Context: Barack Obama, President Putin, G-20, meeting_
 
 ##### Bank of England
 ### [Bank of England governor Mark Carney says the Bank will not consider raising United Kingdom interest rates until the unemployment rate has fallen to 7% or below. ](/news/2013/08/7/bank-of-england-governor-mark-carney-says-the-bank-will-not-consider-raising-united-kingdom-interest-rates-until-the-unemployment-rate-has-f.md)
-_Context: Mark Carney, Bank of England, interest rate, United Kingdom_
+_Context: Mark Carney, United Kingdom, interest rate, Bank of England_
 
 ##### Jomo Kenyatta International Airport
 ### [A large fire breaks out at Jomo Kenyatta International Airport in the Kenyan capital Nairobi. ](/news/2013/08/7/a-large-fire-breaks-out-at-jomo-kenyatta-international-airport-in-the-kenyan-capital-nairobi.md)
-_Context: Nairobi, Kenya, Jomo Kenyatta International Airport_
+_Context: Jomo Kenyatta International Airport, Nairobi, Kenya_
 
 ##### North Korea
 ### [North Korea and South Korea agree to resume talks on reopening the Kaesong industrial zone. ](/news/2013/08/7/north-korea-and-south-korea-agree-to-resume-talks-on-reopening-the-kaesong-industrial-zone.md)

@@ -13,11 +13,11 @@ _Context: Chinese stock market crash, China's Securities Regulatory Commission_
 
 ##### 2015 Pacific typhoon season
 ### [Hong Kong starts closing schools as Typhoon Linfa approaches. ](/news/2015/07/9/hong-kong-starts-closing-schools-as-typhoon-linfa-approaches.md)
-_Context: 2015 Pacific typhoon season, Typhoon Linfa, Hong Kong_
+_Context: Typhoon Linfa, Hong Kong, 2015 Pacific typhoon season_
 
 ##### Philippines
 ### [The Philippines asks the International Court of Arbitration at The Hague to invalidate China's claims to virtually all of the South China Sea. The hearing was attended by observers from Indonesia, Japan, Malaysia, Thailand, and Vietnam. ](/news/2015/07/9/the-philippines-asks-the-international-court-of-arbitration-at-the-hague-to-invalidate-china-s-claims-to-virtually-all-of-the-south-china-se.md)
-_Context: Vietnam, The Hague, South China Sea, Philippines, Indonesia, Thailand, International Court of Arbitration, Japan, Malaysia, China_
+_Context: Malaysia, Philippines, The Hague, Vietnam, Thailand, Japan, South China Sea, Indonesia, China, International Court of Arbitration_
 
 ##### Zeid bin Ra'ad
 ### [Prince Zeid bin Ra'ad, the United Nations High Commissioner for Human Rights, warns that violence can explode into armed conflict in Burundi following events of the current presidential election. ](/news/2015/07/9/prince-zeid-bin-ra-ad-the-united-nations-high-commissioner-for-human-rights-warns-that-violence-can-explode-into-armed-conflict-in-burundi.md)

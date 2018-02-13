@@ -17,11 +17,11 @@ _Context: 2014 Jinnah International Airport attack, Jinnah International Airport
 
 ##### Suicide bombing
 ### [24 people killed when militants attacked a Bus carrying Shia pilgrims from Iran to Quetta in Balochistan province of Pakistan.](/news/2014/06/8/24-people-killed-when-militants-attacked-a-bus-carrying-shia-pilgrims-from-iran-to-quetta-in-balochistan-province-of-pakistan.md)
-_Context: suicide bombing, Pakistan, Balochistan, Quetta, Iran_
+_Context: Quetta, suicide bombing, Iran, Pakistan, Balochistan_
 
 ##### 68th Tony Awards
 ### [The 68th Tony Awards are held in Radio City Music Hall in New York City with "All the Way" winning the Tony Award for Best Play. ](/news/2014/06/8/the-68th-tony-awards-are-held-in-radio-city-music-hall-in-new-york-city-with-all-the-way-winning-the-tony-award-for-best-play.md)
-_Context: 68th Tony Awards, Best Play, Radio City Music Hall, All the Way, New York City_
+_Context: New York City, Best Play, All the Way, 68th Tony Awards, Radio City Music Hall_
 
 ##### Bulgaria
 ### [The Government of Bulgaria orders a halt to construction work on the Gazprom-led South Stream pipeline project planned to bypass Ukraine as a transit country into Europe. ](/news/2014/06/8/the-government-of-bulgaria-orders-a-halt-to-construction-work-on-the-gazprom-led-south-stream-pipeline-project-planned-to-bypass-ukraine-as.md)
@@ -37,11 +37,11 @@ Leading Irish archbishop warns of more mass graves at other convents around the 
 
 ##### Shot dead
 ### [Three people, including two police officers, are shot dead by a couple in a shooting in a pizzeria in the US city of Las Vegas, Nevada. The woman (Amanda Miller) kills her husband (Jerad Miller) and then herself. ](/news/2014/06/8/three-people-including-two-police-officers-are-shot-dead-by-a-couple-in-a-shooting-in-a-pizzeria-in-the-us-city-of-las-vegas-nevada-the.md)
-_Context: shot dead, Las Vegas, Nevada_
+_Context: Las Vegas, Nevada, shot dead_
 
 ##### Abdel-Fattah el-Sissi
 ### [Abdel-Fattah el-Sissi is sworn in as President of Egypt for a four year term. ](/news/2014/06/8/abdel-fattah-el-sissi-is-sworn-in-as-president-of-egypt-for-a-four-year-term.md)
-_Context: President, Abdel-Fattah el-Sissi_
+_Context: Abdel-Fattah el-Sissi, President_
 
 ##### Kosovo
 ### [Voters in Kosovo go to the polls for a parliamentary election. ](/news/2014/06/8/voters-in-kosovo-go-to-the-polls-for-a-parliamentary-election.md)

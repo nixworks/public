@@ -17,7 +17,7 @@ _Context: Somalia_
 
 ##### China Three Gorges Corp.
 ### [China Three Gorges Corp. wins a bid for its 21% stake in EDP-Energias de Portugal SA with an offer of EUR2.69 billion ($3.51 billion), in the first of a series of sales of state-owned assets under Portugal's austerity program. This is the first time a mainland Chinese firm has acquired a significant stake in a southern European company. ](/news/2011/12/23/china-three-gorges-corp-wins-a-bid-for-its-21-stake-in-edp-energias-de-portugal-sa-with-an-offer-of-a-2-69-billion-3-51-billion-in-th.md)
-_Context: state-owned, Energias de Portugal, Portugal, USD, China Three Gorges Corp., mainland Chinese, EUR_
+_Context: USD, Portugal, Energias de Portugal, mainland Chinese, China Three Gorges Corp., state-owned, EUR_
 
 ##### 2011 Christchurch earthquake
 ### [A series of large aftershocks from the 22 February earthquake &ndash; the largest registering magnitude 6.0 &ndash; strike the city of Christchurch, New Zealand. ](/news/2011/12/23/a-series-of-large-aftershocks-from-the-22-february-earthquake-ndash-the-largest-registering-magnitude-6-0-ndash-strike-the-city-of-chris.md)
@@ -33,7 +33,7 @@ _Context: Vaclav Havel, Czech Republic_
 
 ##### China
 ### [A Chinese court sentences dissident Chen Wei to nine years imprisonment for "inciting subversion of state power", after he published essays online calling for multiparty democracy. ](/news/2011/12/23/a-chinese-court-sentences-dissident-chen-wei-to-nine-years-imprisonment-for-inciting-subversion-of-state-power-after-he-published-essays.md)
-_Context: China, democratic, multiparty, Chen Wei_
+_Context: China, Chen Wei, democratic, multiparty_
 
 ##### Teargas
 ### [Police fire teargas in the southern Chinese town of Haimen, and state media air confessions from two detained activists amid a protest against a proposed new power plant. ](/news/2011/12/23/police-fire-teargas-in-the-southern-chinese-town-of-haimen-and-state-media-air-confessions-from-two-detained-activists-amid-a-protest-again.md)
@@ -41,7 +41,7 @@ Riot police fired teargas to break up a protest against a planned power station 
 
 ##### Burma
 ### [Burmese opposition leader Aung San Suu Kyi registers her National League for Democracy party, and visits Burma's parliament for the first time. ](/news/2011/12/23/burmese-opposition-leader-aung-san-suu-kyi-registers-her-national-league-for-democracy-party-and-visits-burma-s-parliament-for-the-first-ti.md)
-_Context: National League for Democracy, Aung San Suu Kyi, Burma_
+_Context: National League for Democracy, Burma, Aung San Suu Kyi_
 
 ##### DR Congo
 ### [Police in the Democratic Republic of the Congo ban the swearing-in ceremony for opposition leader Etienne Tshisekedi. ](/news/2011/12/23/police-in-the-democratic-republic-of-the-congo-ban-the-swearing-in-ceremony-for-opposition-leader-etienne-tshisekedi.md)

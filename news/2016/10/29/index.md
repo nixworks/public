@@ -29,7 +29,7 @@ SEOUL (AFP/BLOOMBERG) - South Korean prosecutors on Saturday (Oct 29) raided the
 
 ##### New York City
 ### [The New York City Metropolitan Opera cancels its Saturday performances as a man, during an afternoon intermission, sprinkled an unidentified powder, suspected to be cremated ashes, into the orchestra pit. One person was exposed and requested medical attention. ](/news/2016/10/29/the-new-york-city-metropolitan-opera-cancels-its-saturday-performances-as-a-man-during-an-afternoon-intermission-sprinkled-an-unidentified.md)
-_Context: cremated ashes, Metropolitan Opera, New York City, intermission, orchestra pit_
+_Context: orchestra pit, New York City, intermission, Metropolitan Opera, cremated ashes_
 
 ##### Spanish Parliament
 ### [The Spanish Parliament votes to allow Prime Minister Mariano Rajoy to lead a People's Party minority government after a ten month interregnum. ](/news/2016/10/29/the-spanish-parliament-votes-to-allow-prime-minister-mariano-rajoy-to-lead-a-people-s-party-minority-government-after-a-ten-month-interregnu.md)

@@ -5,27 +5,27 @@ Formats: [HTML](2009/09/17/index.html)  [JSON](2009/09/17/index.json)  [XML](200
 
 ##### Irish
 ### [ A senior Irish Catholic bishop says Roman Catholics can vote "Yes" in the country's second referendum on the Treaty of Lisbon "in good conscience". ](/news/2009/09/17/a-senior-irish-catholic-bishop-says-roman-catholics-can-vote-yes-in-the-country-s-second-referendum-on-the-treaty-of-lisbon-in-good-cons.md)
-_Context: the second Irish referendum, Treaty of Lisbon, bishop, Roman Catholic, Catholic, Irish_
+_Context: Treaty of Lisbon, Irish, Roman Catholic, bishop, Catholic, the second Irish referendum_
 
 ##### Soldiers
 ### [ At least 87 refugees are killed after an army air raid on a camp for displaced people in 'Amran Governorate, northern Yemen. ](/news/2009/09/17/at-least-87-refugees-are-killed-after-an-army-air-raid-on-a-camp-for-displaced-people-in-amran-governorate-northern-yemen.md)
-_Context: Yemen, soldiers, 'Amran Governorate_
+_Context: soldiers, Yemen, 'Amran Governorate_
 
 ##### French President
 ### [ The President of France Nicolas Sarkozy says European Union leaders agree to impose a cap on banker pay. ](/news/2009/09/17/the-president-of-france-nicolas-sarkozy-says-european-union-leaders-agree-to-impose-a-cap-on-banker-pay.md)
-_Context: French President, banking, European Union, Nicolas Sarkozy_
+_Context: French President, banking, Nicolas Sarkozy, European Union_
 
 ##### Prime Minister of the Czech Republic
 ### [ The Prime Minister of the Czech Republic, Jan Fischer, says that President Barack Obama told him that the United States is abandoning plans for a missile shield based in Poland and the Czech Republic. ](/news/2009/09/17/the-prime-minister-of-the-czech-republic-jan-fischer-says-that-president-barack-obama-told-him-that-the-united-states-is-abandoning-plans.md)
-_Context: Barack Obama, U.S. President, American, Prime Minister of the Czech Republic, Polish, Jan Fischer, missile shield, Czech Republic_
+_Context: U.S., Czech Republic, U.S. President, Barack Obama, Polish, Jan Fischer, Prime Minister of the Czech Republic, missile shield_
 
 ##### African Union
 ### [ Two large explosions hit the main base of African Union peacekeepers in Mogadishu, Somalia. ](/news/2009/09/17/two-large-explosions-hit-the-main-base-of-african-union-peacekeepers-in-mogadishu-somalia.md)
-_Context: Mogadishu, African Union, Somalia_
+_Context: African Union, Mogadishu, Somalia_
 
 ##### Shia insurgency in Yemen
 ### [ Shia insurgency in Yemen: More than 80 people are killed in an air raid on a camp for displaced people in northern Yemen. ](/news/2009/09/17/shia-insurgency-in-yemen-more-than-80-people-are-killed-in-an-air-raid-on-a-camp-for-displaced-people-in-northern-yemen.md)
-_Context: Yemen, Shia insurgency in Yemen_
+_Context: Shia insurgency in Yemen, Yemen_
 
 ##### An attack at the Carolinum secondary school
 ### [ A number of children are injured in an attack at the Carolinum secondary school in the Bavarian town of Ansbach. German police arrest a man. ](/news/2009/09/17/a-number-of-children-are-injured-in-an-attack-at-the-carolinum-secondary-school-in-the-bavarian-town-of-ansbach-german-police-arrest-a-man.md)
@@ -37,15 +37,15 @@ Colombia could consider quitting the South American Nations Union, Unasur, if th
 
 ##### Ethiopia
 ### [ Ethiopia's Prime Minister Meles Zenawi denounces an International Crisis Group (ICG) report that warns his country could descend into ethnic violence ahead of its first national election since a 2005 poll triggered deadly street clashes. ](/news/2009/09/17/ethiopia-s-prime-minister-meles-zenawi-denounces-an-international-crisis-group-icg-report-that-warns-his-country-could-descend-into-ethni.md)
-_Context: Ethiopia, International Crisis Group, Meles Zenawi, Prime Minister_
+_Context: Prime Minister, Ethiopia, International Crisis Group, Meles Zenawi_
 
 ##### Car bomb
 ### [ A large car bomb attack in the centre of Kabul, Afghanistan, kills six Italian ISAF soldiers. ](/news/2009/09/17/a-large-car-bomb-attack-in-the-centre-of-kabul-afghanistan-kills-six-italian-isaf-soldiers.md)
-_Context: car bomb, Kabul, ISAF, Afghanistan, Italy_
+_Context: Italy, car bomb, ISAF, Kabul, Afghanistan_
 
 ##### Egypt
 ### [ Egypt's top Islamic authority, Grand Mufti Ali Gomaa, defends women's rights to wear trousers in public following the high-profile court case in neighbouring Sudan where women, including Lubna al-Hussein, were flogged for dressing in the garments. ](/news/2009/09/17/egypt-s-top-islamic-authority-grand-mufti-ali-gomaa-defends-women-s-rights-to-wear-trousers-in-public-following-the-high-profile-court-ca.md)
-_Context: Egypt, Ali Gomaa, Sudan, Lubna al-Hussein, lashes, Grand Mufti, Islam_
+_Context: Grand Mufti, Egypt, Lubna al-Hussein, Islam, lashes, Sudan, Ali Gomaa_
 
 ##### Burma
 ### [ Seven explosions hit the Burmese city of Yangon with no casualties. ](/news/2009/09/17/seven-explosions-hit-the-burmese-city-of-yangon-with-no-casualties.md)
@@ -53,11 +53,11 @@ _Context: Yangon, Burma_
 
 ##### Indonesia
 ### [ Indonesian police confirm the death of their most wanted man, Noordin Mohammed Top, who was suspected of involvement in the 2009 Jakarta bombings and the Bali bombings in 2002. ](/news/2009/09/17/indonesian-police-confirm-the-death-of-their-most-wanted-man-noordin-mohammed-top-who-was-suspected-of-involvement-in-the-2009-jakarta-bo.md)
-_Context: Indonesia, Noordin Mohammed Top, suicide attacks on two hotels, 2002 Bali bombings_
+_Context: Noordin Mohammed Top, Indonesia, 2002 Bali bombings, suicide attacks on two hotels_
 
 ##### United Nations
 ### [ United Nations Under-Secretary General for Political Affairs Lynn Pascoe begins visiting camps holding displaced Tamil refugees in northern Sri Lanka. ](/news/2009/09/17/united-nations-under-secretary-general-for-political-affairs-lynn-pascoe-begins-visiting-camps-holding-displaced-tamil-refugees-in-northern.md)
-_Context: Political Affairs, Lynn Pascoe, United Nations, Tamil, Sri Lanka_
+_Context: Sri Lanka, Tamil, Lynn Pascoe, Political Affairs, United Nations_
 
 ##### Venezuela
 ### [ Venezuela and China agree a $16 billion oil exploration deal allowing China to drill in the Orinoco basin. ](/news/2009/09/17/venezuela-and-china-agree-a-16-billion-oil-exploration-deal-allowing-china-to-drill-in-the-orinoco-basin.md)

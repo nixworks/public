@@ -5,7 +5,7 @@ Formats: [HTML](2016/11/18/index.html)  [JSON](2016/11/18/index.json)  [XML](201
 
 ##### Moro conflict
 ### [ At least 14 are killed in clashes with suspected Abu Sayyaf militants in Sulu, Philippines. ](/news/2016/11/18/at-least-14-are-killed-in-clashes-with-suspected-abu-sayyaf-militants-in-sulu-philippines.md)
-_Context: Moro conflict, Sulu, Philippines, Abu Sayyaf_
+_Context: Moro conflict, Abu Sayyaf, Philippines, Sulu_
 
 ##### Syrian Civil War
 ### [Syrian government air raid hits a children's hospital in rebel-held east Aleppo, forcing medical staff to evacuate patients, including several newborn babies still in incubators. ](/news/2016/11/18/syrian-government-air-raid-hits-a-children-s-hospital-in-rebel-held-east-aleppo-forcing-medical-staff-to-evacuate-patients-including-sever.md)

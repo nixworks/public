@@ -21,7 +21,7 @@ _Context: Arab, stateless_
 ### [India and Pakistan successfully conduct missile tests. ](/news/2011/03/11/india-and-pakistan-successfully-conduct-missile-tests.md)
 BalasoreIslamabad, March 11 (IANS) India Friday successfully test-fired its homegrown nuclear-tipped ballistic missiles Prithvi-II and its naval version...
 
-##### American
+##### U.S.
 ### [American actor Mel Gibson is charged with misdemeanor battery for an alleged assault on his ex-girlfriend Oksana Grigorieva in January 2010. ](/news/2011/03/11/american-actor-mel-gibson-is-charged-with-misdemeanor-battery-for-an-alleged-assault-on-his-ex-girlfriend-oksana-grigorieva-in-january-2010.md)
 Mel Gibson has been charged with a misdemeanor battery complaint in Los Angeles Superior Court and is scheduled to appear in court at 1:30 PM to accept his plea deal on the case.
 
@@ -31,11 +31,11 @@ Thousands of others were stranded on rooftops, surrounded by water left by the t
 
 ##### Governor
 ### [The Governor of Oklahoma, Mary Fallin, declares a state of emergency in all 77 counties due to wildfires burning out of control in that state and Colorado. ](/news/2011/03/11/the-governor-of-oklahoma-mary-fallin-declares-a-state-of-emergency-in-all-77-counties-due-to-wildfires-burning-out-of-control-in-that-stat.md)
-_Context: Oklahoma, Mary Fallin, Colorado, wildfire, governor, state of emergency_
+_Context: Colorado, Mary Fallin, state of emergency, Oklahoma, wildfire, governor_
 
 ##### Ravine
 ### [A bus plunges into a ravine in the Xinjiang region in western China killing at least 16 people and with 24 people injured. ](/news/2011/03/11/a-bus-plunges-into-a-ravine-in-the-xinjiang-region-in-western-china-killing-at-least-16-people-and-with-24-people-injured.md)
-_Context: ravine, Xinjiang, China_
+_Context: Xinjiang, ravine, China_
 
 ##### Karangetang
 ### [Mount Karangetang erupts in Sulawesi, Indonesia, forcing local evacuations. ](/news/2011/03/11/mount-karangetang-erupts-in-sulawesi-indonesia-forcing-local-evacuations.md)
@@ -43,23 +43,23 @@ One of Indonesia’s most active volcanoes has erupted, sending lava and searing
 
 ##### United States magistrate judge
 ### [A U.S. federal magistrate rules that prosecutors can demand Twitter account information in relation to Wikileaks. ](/news/2011/03/11/a-u-s-federal-magistrate-rules-that-prosecutors-can-demand-twitter-account-information-in-relation-to-wikileaks.md)
-_Context: Twitter, prosecutor, Wikileaks, United States magistrate judge_
+_Context: Twitter, Wikileaks, prosecutor, United States magistrate judge_
 
 ##### Blackwater Worldwide
 ### [Two ex-Blackwater consultants are found guilty in the United States of the involuntary manslaughter of a civilian in the Afghan capital Kabul. ](/news/2011/03/11/two-ex-blackwater-consultants-are-found-guilty-in-the-united-states-of-the-involuntary-manslaughter-of-a-civilian-in-the-afghan-capital-kabu.md)
-_Context: Blackwater Worldwide, Afghanistan, manslaughter by gross negligence, American, Kabul_
+_Context: manslaughter by gross negligence, U.S., Afghanistan, Blackwater Worldwide, Kabul_
 
 ##### UNASUR Constitutive Treaty
 ### [The UNASUR Constitutive Treaty enters into force, making the Union of South American Nations an international legal personality. ](/news/2011/03/11/the-unasur-constitutive-treaty-enters-into-force-making-the-union-of-south-american-nations-an-international-legal-personality.md)
-_Context: Union of South American Nations, into force, UNASUR Constitutive Treaty, legal personality_
+_Context: into force, UNASUR Constitutive Treaty, legal personality, Union of South American Nations_
 
 ##### Taiwan
 ### [Taiwan's opposition leader Tsai Ing-wen launches her presidential bid. ](/news/2011/03/11/taiwan-s-opposition-leader-tsai-ing-wen-launches-her-presidential-bid.md)
-_Context: Taiwan, Tsai Ing-wen, presidential election_
+_Context: presidential election, Taiwan, Tsai Ing-wen_
 
 ##### Zimbabwe
 ### [Zimbabwean Prime Minister Morgan Tsvangirai calls for an end to the country's unity government after one of his party members is arrested. ](/news/2011/03/11/zimbabwean-prime-minister-morgan-tsvangirai-calls-for-an-end-to-the-country-s-unity-government-after-one-of-his-party-members-is-arrested.md)
-_Context: Prime Minister, Morgan Tsvangirai, Zimbabwe_
+_Context: Morgan Tsvangirai, Prime Minister, Zimbabwe_
 
 ## [Previous Day...](/news/2011/03/10/index.md)
 

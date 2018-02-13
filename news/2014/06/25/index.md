@@ -27,9 +27,9 @@ Railways, while confirming the death of 4 people in the accident, has not ruled 
 ### [The People's Republic of China sends its first minister-level official to Taiwan to build ties with the self-governing island amid trade suspicions. ](/news/2014/06/25/the-people-s-republic-of-china-sends-its-first-minister-level-official-to-taiwan-to-build-ties-with-the-self-governing-island-amid-trade-sus.md)
 China sends its first ever ministerial-level official on a charm offensive to Taiwan following mass protests over a proposed trade agreement.
 
-##### American
+##### U.S.
 ### [The United States has added several LeT-affiliated organizations including Jama'at-ud-Dawa to its list of foreign terror organisations.](/news/2014/06/25/the-united-states-has-added-several-let-affiliated-organizations-including-jama-at-ud-dawa-to-its-list-of-foreign-terror-organisations.md)
-_Context: American, LeT, Jama'at-ud-Dawa_
+_Context: LeT, U.S., Jama'at-ud-Dawa_
 
 ##### Egypt
 ### [Egypt's president Abdel Fattah el-Sisi makes his first official visit abroad to Algeria where security was top of the agenda. ](/news/2014/06/25/egypt-s-president-abdel-fattah-el-sisi-makes-his-first-official-visit-abroad-to-algeria-where-security-was-top-of-the-agenda.md)
@@ -37,7 +37,7 @@ _Context: American, LeT, Jama'at-ud-Dawa_
 
 ##### Parliament of Romania
 ### [Both houses of the Romanian parliament widely adopt a joint statement urging Romania's president Traian Basescu to resign, following corruption scandals involving his arrested brother's graft case and one of his sons-in-law's implication in a criminal investigation. ](/news/2014/06/25/both-houses-of-the-romanian-parliament-widely-adopt-a-joint-statement-urging-romania-s-president-traian-basescu-to-resign-following-corrup.md)
-_Context: Traian Basescu, Parliament of Romania, graft, Romania, corruption_
+_Context: corruption, Parliament of Romania, Romania, graft, Traian Basescu_
 
 ## [Previous Day...](/news/2014/06/24/index.md)
 

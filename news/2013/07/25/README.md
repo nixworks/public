@@ -9,7 +9,7 @@ _Context: Syrian civil war, United Nations_
 
 ##### Oxford English Dictionary
 ### [The "Oxford English Dictionary" confirms that it will change the definition of the word "marriage" to include the LGBT community. ](/news/2013/07/25/the-oxford-english-dictionary-confirms-that-it-will-change-the-definition-of-the-word-marriage-to-include-the-lgbt-community.md)
-_Context: Oxford English Dictionary, marriage, same-sex couples_
+_Context: same-sex couples, Oxford English Dictionary, marriage_
 
 ##### China
 ### [China begins a major effort to boost its economic growth with business tax breaks and export liberalization, amid an increasing industrial slowdown. ](/news/2013/07/25/china-begins-a-major-effort-to-boost-its-economic-growth-with-business-tax-breaks-and-export-liberalization-amid-an-increasing-industrial-s.md)
@@ -25,7 +25,7 @@ Gunmen assassinate Tunisian opposition leader Mohamed Brahmi, sparking protests 
 
 ##### Communist Party of China
 ### [Disgraced Chinese Communist Party official Bo Xilai is charged with corruption and abuse of office, in the culmination of one of China's most significant political scandals in recent years. ](/news/2013/07/25/disgraced-chinese-communist-party-official-bo-xilai-is-charged-with-corruption-and-abuse-of-office-in-the-culmination-of-one-of-china-s-mos.md)
-_Context: most significant political scandals, Bo Xilai, Communist Party of China_
+_Context: most significant political scandals, Communist Party of China, Bo Xilai_
 
 ##### New Jersey
 ### [A New Jersey attorney announces the largest alleged commercial hacking and data breach scheme ever prosecuted in the United States. ](/news/2013/07/25/a-new-jersey-attorney-announces-the-largest-alleged-commercial-hacking-and-data-breach-scheme-ever-prosecuted-in-the-united-states.md)
@@ -37,7 +37,7 @@ Citizens of the small, poverty-stricken West African country of Togo are to vote
 
 ##### United Kingdom
 ### [British scientists discover the mechanism which causes human allergy to cats, and state that a general cure for the condition could become available within five years. ](/news/2013/07/25/british-scientists-discover-the-mechanism-which-causes-human-allergy-to-cats-and-state-that-a-general-cure-for-the-condition-could-become-a.md)
-_Context: United Kingdom, allergy to cats_
+_Context: allergy to cats, United Kingdom_
 
 ## [Previous Day...](/news/2013/07/24/index.md)
 

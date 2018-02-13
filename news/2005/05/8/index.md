@@ -5,7 +5,7 @@ Formats: [HTML](2005/05/8/index.html)  [JSON](2005/05/8/index.json)  [XML](2005/
 
 ##### Point guard
 ### [ Point guard Steve Nash of the NBA's Phoenix Suns makes history by becoming the first Canadian to win the NBA's MVP award. Nash edges out Shaquille O'Neal of the Miami Heat by seven votes to win the award. ](/news/2005/05/8/point-guard-steve-nash-of-the-nba-s-phoenix-suns-makes-history-by-becoming-the-first-canadian-to-win-the-nba-s-mvp-award-nash-edges-out-sh.md)
-_Context: Shaquille O'Neal, basketball, Steve Nash, Miami Heat, Point guard, Phoenix Suns, Most Valuable Player_
+_Context: Most Valuable Player, basketball, Phoenix Suns, Shaquille O'Neal, Steve Nash, Miami Heat, Point guard_
 
 ##### (Wikinews)
 ### [ United States President George W. Bush uses the anniversary of V-E Day to call the Soviet Union's occupation of the Baltic states after World War II "one of the greatest wrongs of history". He also attended Europe's third largest war cemetery in the town of Margraten, the Netherlands. ](/news/2005/05/8/united-states-president-george-w-bush-uses-the-anniversary-of-v-e-day-to-call-the-soviet-union-s-occupation-of-the-baltic-states-after-wor.md)
@@ -21,7 +21,7 @@ Women ululated, men wept and youths hugged when Lebanon&#39;s anti-Syria politic
 
 ##### Rwanda
 ### [ In Belgium, two Rwandan men, tienne Nzabonimana and Samuel Ndashyikirwa, are put into trial accused of involvement with the Rwandan genocide. ](/news/2005/05/8/in-belgium-two-rwandan-men-etienne-nzabonimana-and-samuel-ndashyikirwa-are-put-into-trial-accused-of-involvement-with-the-rwandan-genoci.md)
-_Context: Samuel Ndashyikirwa, Rwanda, 1994 genocide, tienne Nzabonimana_
+_Context: Rwanda, Samuel Ndashyikirwa, tienne Nzabonimana, 1994 genocide_
 
 ##### Central African Republic
 ### [ People in the Central African Republic vote in the second round of presidential election. Incumbent president Franois Boziz, who took over in a coup in 2003, is in favorable position. ](/news/2005/05/8/people-in-the-central-african-republic-vote-in-the-second-round-of-presidential-election-incumbent-president-francois-bozize-who-took-ove.md)

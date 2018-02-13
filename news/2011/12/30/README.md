@@ -29,7 +29,7 @@ _Context: floods_
 
 ##### Cyclone Thane
 ### [Cyclone Thane makes landfall near the southern Union Territory of Puducherry on India's southern coast. ](/news/2011/12/30/cyclone-thane-makes-landfall-near-the-southern-union-territory-of-puducherry-on-india-s-southern-coast.md)
-_Context: Puducherry, India, Union Territory, Cyclone Thane_
+_Context: Puducherry, India, Cyclone Thane, Union Territory_
 
 ##### North Korea
 ### [North Korea says that "foolish politicians around the world" should not expect any change in the country's policies. ](/news/2011/12/30/north-korea-says-that-foolish-politicians-around-the-world-should-not-expect-any-change-in-the-country-s-policies.md)
@@ -41,7 +41,7 @@ _Context: Amazon basin, Ecuador, Yasuni National Park_
 
 ##### Mdecins Sans Frontires
 ### [The international aid group Mdecins Sans Frontires withdraws non-Somali workers from a hospital in Mogadishu after two of its aid workers were shot dead on Thursday. ](/news/2011/12/30/the-international-aid-group-medecins-sans-frontieres-withdraws-non-somali-workers-from-a-hospital-in-mogadishu-after-two-of-its-aid-workers.md)
-_Context: Mogadishu, Somali, Mdecins Sans Frontires_
+_Context: Mdecins Sans Frontires, Somali, Mogadishu_
 
 ##### Chinese
 ### [Former Chinese fugitive Lai Changxing is indicted on bribery and smuggling charges. ](/news/2011/12/30/former-chinese-fugitive-lai-changxing-is-indicted-on-bribery-and-smuggling-charges.md)
@@ -53,11 +53,11 @@ Defying opinion polls that suggested yesterday&#039;s general election was too c
 
 ##### Yemen
 ### [Tens of thousands of Yemenis protest against an immunity deal for former President Ali Abdullah Saleh demanding he face trial for deaths in the 2011 Yemeni uprising. ](/news/2011/12/30/tens-of-thousands-of-yemenis-protest-against-an-immunity-deal-for-former-president-ali-abdullah-saleh-demanding-he-face-trial-for-deaths-in.md)
-_Context: Yemen, 2011 Yemeni uprising, President, Ali Abdullah Saleh_
+_Context: 2011 Yemeni uprising, Yemen, Ali Abdullah Saleh, President_
 
 ##### DR Congo
 ### [The party of Democratic Republic of the Congo politician tienne Tshisekedi says he has been placed under house arrest in Kinshasa since he claimed to have won the presidential election earlier this year. ](/news/2011/12/30/the-party-of-democratic-republic-of-the-congo-politician-etienne-tshisekedi-says-he-has-been-placed-under-house-arrest-in-kinshasa-since-he.md)
-_Context: Kinshasa, presidential election, DR Congo, tienne Tshisekedi_
+_Context: tienne Tshisekedi, presidential election, Kinshasa, DR Congo_
 
 ## [Previous Day...](/news/2011/12/29/index.md)
 

@@ -43,7 +43,7 @@ A desperate search is mounted for scores of African migrants missing after a boa
 
 ##### United States Navy
 ### [A United States Navy F-A-18 crashes near Naval Air Station Lemoore in California. ](/news/2011/04/6/a-united-states-navy-f-a-18-crashes-near-naval-air-station-lemoore-in-california.md)
-_Context: California, United States Navy, Naval Air Station Lemoore, F/A-18_
+_Context: Naval Air Station Lemoore, California, F/A-18, United States Navy_
 
 ##### Ecuador
 ### [Ecuador expels the United States ambassador over Wikileaks diplomatic cables alleging corruption within the Ecuadorian police force. ](/news/2011/04/6/ecuador-expels-the-united-states-ambassador-over-wikileaks-diplomatic-cables-alleging-corruption-within-the-ecuadorian-police-force.md)
@@ -51,7 +51,7 @@ Ecuador expels the US ambassador in Quito after the release of a US diplomatic c
 
 ##### Found guilty
 ### [The trial of Prime Minister of Italy Silvio Berlusconi for having sex with an underage prostitute begins. ](/news/2011/04/6/the-trial-of-prime-minister-of-italy-silvio-berlusconi-for-having-sex-with-an-underage-prostitute-begins.md)
-_Context: found guilty, Silvio Berlusconi, Italian Prime Minister_
+_Context: found guilty, Italian Prime Minister, Silvio Berlusconi_
 
 ##### Irish
 ### [A tape recording is released of police in the Republic of Ireland allegedly threatening to rape two female protesters, one of whom is from North America, after arresting them, causing an outcry among women's groups and anti-rape organizations. ](/news/2011/04/6/a-tape-recording-is-released-of-police-in-the-republic-of-ireland-allegedly-threatening-to-rape-two-female-protesters-one-of-whom-is-from-n.md)
@@ -59,7 +59,7 @@ Minister for Justice Alan Shatter has sought to reassure victims of sexual abuse
 
 ##### Jeff Skilling
 ### [Jeff Skilling, former CEO of Enron, loses his appeal against his conviction for fraud in the United States Court of Appeals for the Fifth Circuit. ](/news/2011/04/6/jeff-skilling-former-ceo-of-enron-loses-his-appeal-against-his-conviction-for-fraud-in-the-united-states-court-of-appeals-for-the-fifth-ci.md)
-_Context: 5th Circuit Court of Appeals, Enron, Jeff Skilling_
+_Context: Jeff Skilling, Enron, 5th Circuit Court of Appeals_
 
 ##### Mexican
 ### [More than forty bodies are found in a mass grave in Mexico's Tamaulipas state. ](/news/2011/04/6/more-than-forty-bodies-are-found-in-a-mass-grave-in-mexico-s-tamaulipas-state.md)
@@ -71,7 +71,7 @@ Efforts to curtail the environmental agency’s programs are not likely to end: 
 
 ##### China
 ### [The Chinese state-run "Global Times" newspaper dismisses international criticism over the arrest of artist Ai Weiwei. ](/news/2011/04/6/the-chinese-state-run-global-times-newspaper-dismisses-international-criticism-over-the-arrest-of-artist-ai-weiwei.md)
-_Context: state media, China, Ai Weiwei, Global Times_
+_Context: Global Times, Ai Weiwei, state media, China_
 
 ## [Previous Day...](/news/2011/04/5/index.md)
 

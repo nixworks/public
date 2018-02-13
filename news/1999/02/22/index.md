@@ -5,7 +5,7 @@ Formats: [HTML](1999/02/22/index.html)  [JSON](1999/02/22/index.json)  [XML](199
 
 ##### Iraq
 ### [ Moderate Iraqi Shiite cleric Mohammad Sadeq al-Sadr is assassinated. ](/news/1999/02/22/moderate-iraqi-shiite-cleric-mohammad-sadeq-al-sadr-is-assassinated.md)
-_Context: Mohammad Sadeq al-Sadr, Shiite, Iraq_
+_Context: Iraq, Shiite, Mohammad Sadeq al-Sadr_
 
 ## [Previous Day...](/news/1999/02/21/index.md)
 

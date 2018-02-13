@@ -5,7 +5,7 @@ Formats: [HTML](2008/08/24/index.html)  [JSON](2008/08/24/index.json)  [XML](200
 
 ##### Baghdad
 ### [ A suicide bomber attacks a feast in Baghdad's Abu Ghraib district resulting in at least 21 deaths. ](/news/2008/08/24/a-suicide-bomber-attacks-a-feast-in-baghdad-s-abu-ghraib-district-resulting-in-at-least-21-deaths.md)
-_Context: Abu Ghraib, Baghdad_
+_Context: Baghdad, Abu Ghraib_
 
 ##### Guatemala City
 ### [ A small plane crashes east of Guatemala City, killing ten and injuring four. ](/news/2008/08/24/a-small-plane-crashes-east-of-guatemala-city-killing-ten-and-injuring-four.md)
@@ -13,7 +13,7 @@ _Context: Guatemala City_
 
 ##### Iran Aseman Airlines
 ### [ Iran Aseman Airlines Flight 6895, a Boeing 737, crashes in Bishkek, Kyrgyzstan shortly after takeoff, killing 71 people. ](/news/2008/08/24/iran-aseman-airlines-flight-6895-a-boeing-737-crashes-in-bishkek-kyrgyzstan-shortly-after-takeoff-killing-71-people.md)
-_Context: Kyrgyzstan, Bishkek, Iran Aseman Airlines, Flight 6895, Boeing 737_
+_Context: Iran Aseman Airlines, Flight 6895, Bishkek, Kyrgyzstan, Boeing 737_
 
 #####  Georgian
 ### [ A train carrying oil products hits a landmine and catches fire. A Georgian Interior Ministry spokesman blamed Russia for the blast. ](/news/2008/08/24/a-train-carrying-oil-products-hits-a-landmine-and-catches-fire-a-georgian-interior-ministry-spokesman-blamed-russia-for-the-blast.md)
@@ -25,7 +25,7 @@ Visit ESPN to get up-to-the-minute sports news coverage, scores, highlights and 
 
 ##### India
 ### [ Protesters in the Indian state of West Bengal "lay siege" to the factory producing the Tata Nano, in a dispute over land expropriation. ](/news/2008/08/24/protesters-in-the-indian-state-of-west-bengal-lay-siege-to-the-factory-producing-the-tata-nano-in-a-dispute-over-land-expropriation.md)
-_Context: Tata Nano, West Bengal, India_
+_Context: West Bengal, India, Tata Nano_
 
 ## [Previous Day...](/news/2008/08/23/index.md)
 

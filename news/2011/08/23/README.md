@@ -13,7 +13,7 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 
 ##### Islam
 ### [Suspected Islamic insurgents kill two Thai Army soldiers and wound 14 other people in southern Thailand. ](/news/2011/08/23/suspected-islamic-insurgents-kill-two-thai-army-soldiers-and-wound-14-other-people-in-southern-thailand.md)
-_Context: Thai Army, Islam, Thailand_
+_Context: Islam, Thailand, Thai Army_
 
 ##### Human Rights Council
 ### [The United Nations Human Rights Council orders an investigation into alleged human rights violations by the Government of Syria in the 2011 Syrian uprising. ](/news/2011/08/23/the-united-nations-human-rights-council-orders-an-investigation-into-alleged-human-rights-violations-by-the-government-of-syria-in-the-2011.md)
@@ -25,11 +25,11 @@ _Context: Palestinian, drone aircraft, Gaza Strip_
 
 ##### Swiss
 ### [Swiss bank UBS AG announces plans to cut 3,500 jobs. ](/news/2011/08/23/swiss-bank-ubs-ag-announces-plans-to-cut-3-500-jobs.md)
-_Context: UBS AG, Swiss_
+_Context: Swiss, UBS AG_
 
 ##### Hurricane Irene
 ### [Hurricane Irene reaches Category 2 strength as it hits the island of Hispaniola containing Haiti and the Dominican Republic. ](/news/2011/08/23/hurricane-irene-reaches-category-2-strength-as-it-hits-the-island-of-hispaniola-containing-haiti-and-the-dominican-republic.md)
-_Context: Hispaniola, Hurricane Irene, Dominican Republic, Haiti_
+_Context: Hurricane Irene, Haiti, Dominican Republic, Hispaniola_
 
 ##### Magnitude 5.8 earthquake
 ### [A magnitude 5.8 earthquake strikes near Mineral, Virginia; a nearby nuclear reactor is automatically shutdown due to the quake. This is the most powerful earthquake to hit Virginia since 1897. ](/news/2011/08/23/a-magnitude-5-8-earthquake-strikes-near-mineral-virginia-a-nearby-nuclear-reactor-is-automatically-shutdown-due-to-the-quake-this-is-the.md)
@@ -37,7 +37,7 @@ A 5.8 earthquake sent tremors from the nation’s capital to New York City and N
 
 ##### Thailand
 ### [Thailand says it will recognize the State of Palestine during its September bid at the United Nations General Assembly. ](/news/2011/08/23/thailand-says-it-will-recognize-the-state-of-palestine-during-its-september-bid-at-the-united-nations-general-assembly.md)
-_Context: Palestine, United Nations General Assembly, Thailand_
+_Context: Thailand, United Nations General Assembly, Palestine_
 
 ##### New York City
 ### [A judge in New York City rules in favour dropping sexual assault charges against former International Monetary Fund head Dominique Strauss-Kahn. ](/news/2011/08/23/a-judge-in-new-york-city-rules-in-favour-dropping-sexual-assault-charges-against-former-international-monetary-fund-head-dominique-strauss-k.md)
@@ -53,11 +53,11 @@ A petition calling for Hillsborough disaster Cabinet papers to be released reach
 
 ##### Conspiracy to hack mobile phones
 ### [The BBC reports that former "News of the World" editor Andy Coulson continued to receive a severance pay package from News International while working as Director of Communications for the Conservative Party. ](/news/2011/08/23/the-bbc-reports-that-former-news-of-the-world-editor-andy-coulson-continued-to-receive-a-severance-pay-package-from-news-international-whi.md)
-_Context: Andy Coulson, News International, Conservative Party, News of the World, conspiracy to hack mobile phones, BBC_
+_Context: BBC, conspiracy to hack mobile phones, News of the World, Conservative Party, Andy Coulson, News International_
 
 ##### Hattiesburg
 ### [Hattiesburg Mayor Johnny DuPree is declared the winner in the Democratic Party primary election in Mississippi, becoming the first black candidate to win a major party nomination in a gubernatorial race. ](/news/2011/08/23/hattiesburg-mayor-johnny-dupree-is-declared-the-winner-in-the-democratic-party-primary-election-in-mississippi-becoming-the-first-black-can.md)
-_Context: primary election, Johnny DuPree, Hattiesburg, Mississippi, Democrat, major party nomination_
+_Context: Mississippi, Johnny DuPree, primary election, Hattiesburg, Democrat, major party nomination_
 
 ## [Previous Day...](/news/2011/08/22/index.md)
 

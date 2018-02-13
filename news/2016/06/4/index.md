@@ -17,11 +17,11 @@ _Context: Mount Illimani, Eastern Flight 980_
 
 ##### Thailand
 ### [Thai authorities remove all 137 tigers from the Tiger Temple in Kanchanaburi Province. The remains of 30 more tiger cubs, in addition to the 40 carcasses found earlier, were discovered Thursday. Five men have been charged with possession of endangered animal parts without permission. ](/news/2016/06/4/thai-authorities-remove-all-137-tigers-from-the-tiger-temple-in-kanchanaburi-province-the-remains-of-30-more-tiger-cubs-in-addition-to-the.md)
-_Context: Kanchanaburi Province, Thailand, Tiger Temple, endangered animal parts_
+_Context: endangered animal parts, Tiger Temple, Kanchanaburi Province, Thailand_
 
 ##### Nigeria
 ### [Nigeria's information and culture minister says the government has recovered $9.1 billion in money and assets stolen from the oil sector. ](/news/2016/06/4/nigeriaas-information-and-culture-minister-says-the-government-has-recovered-9-1-billion-in-money-and-assets-stolen-from-the-oil-sector.md)
-_Context: information and culture minister, Nigeria_
+_Context: Nigeria, information and culture minister_
 
 ##### 2016 U.S. presidential election
 ### [The Democratic Party in the Virgin Islands, which has seven unpledged delegates, holds its caucus with Hillary Clinton. The results, along with those from tomorrow's primary in Puerto Rico, could bring Hillary Clinton close to securing the nomination. ](/news/2016/06/4/the-democratic-party-in-the-virgin-islands-which-has-seven-unpledged-delegates-holds-its-caucus-with-hillary-clinton-the-results-along-w.md)

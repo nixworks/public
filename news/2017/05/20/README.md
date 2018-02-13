@@ -17,7 +17,7 @@ President Trump signed a $110 billion arms deal with Saudi Arabia on Saturday, t
 
 ##### China-United States relations
 ### [Former United States officials report that 18-20 Central Intelligence Agency sources were killed or imprisoned by the Government of China between 2010 and 2012, which significantly hampered the United States Intelligence Community. ](/news/2017/05/20/former-united-states-officials-report-that-18a20-central-intelligence-agency-sources-were-killed-or-imprisoned-by-the-government-of-china.md)
-_Context: CIA, United States Intelligence Community, China-United States relations, Government of China_
+_Context: China-United States relations, United States Intelligence Community, Government of China, CIA_
 
 ##### Enes Kanter
 ### [Enes Kanter, a Turkish basketballer playing in the American National Basketball Association, is detained at Henri Coanda International Airport after his Turkish passport was cancelled. ](/news/2017/05/20/enes-kanter-a-turkish-basketballer-playing-in-the-american-national-basketball-association-is-detained-at-henri-coanda-international-airp.md)

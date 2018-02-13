@@ -13,11 +13,11 @@ _Context: Tibet_
 
 ##### A new study
 ### [ A new study by the University of East Anglia's Climatic Research Unit shows that the warming of Earth's polar regions is caused by humans. ](/news/2008/10/31/a-new-study-by-the-university-of-east-anglia-s-climatic-research-unit-shows-that-the-warming-of-earth-s-polar-regions-is-caused-by-humans.md)
-_Context: caused by humans, warming, Climatic Research Unit, Earth, A new study, polar region, University of East Anglia_
+_Context: polar region, Earth, University of East Anglia, caused by humans, A new study, Climatic Research Unit, warming_
 
 ##### Third pipeline bombing
 ### [ The third pipeline bombing in the month of October targets an EnCana-operated gas pipeline near the town of Dawson Creek, British Columbia in Canada. ](/news/2008/10/31/the-third-pipeline-bombing-in-the-month-of-october-targets-an-encana-operated-gas-pipeline-near-the-town-of-dawson-creek-british-columbia.md)
-_Context: EnCana Corporation, British Columbia, Dawson Creek, third pipeline bombing, Canadian_
+_Context: third pipeline bombing, EnCana Corporation, Dawson Creek, Canadian, British Columbia_
 
 ## [Previous Day...](/news/2008/10/30/index.md)
 

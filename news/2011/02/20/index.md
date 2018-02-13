@@ -21,7 +21,7 @@ _Context: Pakistan Army, Mohmand Agency_
 
 ##### Sapping
 ### [Sapper Jamie Larkham of the 1st Combat Engineer Regiment (Australia) and an Afghan interpreter die in overnight fighting. ](/news/2011/02/20/sapper-jamie-larkham-of-the-1st-combat-engineer-regiment-australia-and-an-afghan-interpreter-die-in-overnight-fighting.md)
-_Context: sapping, 1st Combat Engineer Regiment (Australia), Jamie Larkham, Afghanistan_
+_Context: sapping, 1st Combat Engineer Regiment (Australia), Afghanistan, Jamie Larkham_
 
 ##### LTTE
 ### [The death is announced of slain LTTE leader Velupillai Prabhakaran's mother Vallipuram Parvathi. ](/news/2011/02/20/the-death-is-announced-of-slain-ltte-leader-velupillai-prabhakaran-s-mother-vallipuram-parvathi.md)
@@ -45,11 +45,11 @@ An American official held in Pakistan after shooting dead two men is a CIA agent
 
 ##### German Foreign Minister
 ### [Following a visit by German Foreign Minister Guido Westerwelle to Iran, two German journalists charged with espionage are released and return to Germany having been imprisoned since October for interviewing the son and lawyer of Sakineh Mohammadi Ashtiani.](/news/2011/02/20/following-a-visit-by-german-foreign-minister-guido-westerwelle-to-iran-two-german-journalists-charged-with-espionage-are-released-and-retur.md)
-_Context: German Foreign Minister, German, Guido Westerwelle, German journalist, Sakineh Mohammadi Ashtiani, Iran_
+_Context: Iran, Guido Westerwelle, Sakineh Mohammadi Ashtiani, German, German journalist, German Foreign Minister_
 
 ##### North Korea
 ### [North Korea has been observed digging tunnels at a nuclear test site in Punggye-ri in North Hamgyong Province raising concerns about another test. ](/news/2011/02/20/north-korea-has-been-observed-digging-tunnels-at-a-nuclear-test-site-in-punggye-ri-in-north-hamgyong-province-raising-concerns-about-another.md)
-_Context: North Korea, North Hamgyong Province, nuclear test, Punggye-ri_
+_Context: North Hamgyong Province, Punggye-ri, North Korea, nuclear test_
 
 ##### New Yorker Magazine
 ### ["New Yorker Magazine" reports that the Obama administration has entered exploratory talks with the Taliban in Afghanistan. ](/news/2011/02/20/new-yorker-magazine-reports-that-the-obama-administration-has-entered-exploratory-talks-with-the-taliban-in-afghanistan.md)
@@ -61,7 +61,7 @@ _Context: Indonesia, South Korea_
 
 ##### Government
 ### [The Government of Tunisia asks Saudi Arabia to extradite former President of Tunisia Zine El Abidine Ben Ali who it accuses of "several serious crimes.". ](/news/2011/02/20/the-government-of-tunisia-asks-saudi-arabia-to-extradite-former-president-of-tunisia-zine-el-abidine-ben-ali-who-it-accuses-of-several-seri.md)
-_Context: extradite, President of Tunisia, government, Saudi Arabia,  Zine El Abidine Ben Ali_
+_Context:  Zine El Abidine Ben Ali, extradite, Saudi Arabia, government, President of Tunisia_
 
 ##### Ciudad Juarez
 ### [Fifty-three people are killed in a 72-hour period in Ciudad Juarez, Mexico. ](/news/2011/02/20/fifty-three-people-are-killed-in-a-72-hour-period-in-ciudad-juarez-mexico.md)
@@ -69,7 +69,7 @@ _Context: Ciudad Juarez, Mexican_
 
 ##### Matteo Renzi
 ### [Italian politics's rising star Matteo Renzi, the Mayor of Florence, calls for the retirement of Silvio Berlusconi's generation, Berlusconi himself being "only six years younger than my granny". ](/news/2011/02/20/italian-politics-s-rising-star-matteo-renzi-the-mayor-of-florence-calls-for-the-retirement-of-silvio-berlusconi-s-generation-berlusconi-h.md)
-_Context: Matteo Renzi, Silvio Berlusconi, Mayor of Florence_
+_Context: Silvio Berlusconi, Matteo Renzi, Mayor of Florence_
 
 ##### Yoweri Museveni
 ### [Yoweri Museveni is re-elected President of Uganda for a fourth term; the opposition does not take the result well. ](/news/2011/02/20/yoweri-museveni-is-re-elected-president-of-uganda-for-a-fourth-term-the-opposition-does-not-take-the-result-well.md)
@@ -81,7 +81,7 @@ _Context: Trident_
 
 ##### 2011 Wisconsin budget protests
 ### [Thousands of protesters continue to demonstrate in the U.S. state of Wisconsin over reform of unions and taxes. ](/news/2011/02/20/thousands-of-protesters-continue-to-demonstrate-in-the-u-s-state-of-wisconsin-over-reform-of-unions-and-taxes.md)
-_Context: Wisconsin, U.S. state, 2011 Wisconsin budget protests_
+_Context: U.S. state, Wisconsin, 2011 Wisconsin budget protests_
 
 ## [Previous Day...](/news/2011/02/19/index.md)
 

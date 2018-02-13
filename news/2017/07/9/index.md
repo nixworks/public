@@ -17,7 +17,7 @@ Two cousins suffered &quot;life-changing injuries&quot; in an acid attack in eas
 
 ##### 2017 March for Justice
 ### [The 450 km-long Turkish March for Justice concludes in Istanbul at a mass rally attended by hundreds of thousands of people. ](/news/2017/07/9/the-450-km-long-turkish-march-for-justice-concludes-in-istanbul-at-a-mass-rally-attended-by-hundreds-of-thousands-of-people.md)
-_Context: 2017 March for Justice, March for Justice, Istanbul_
+_Context: March for Justice, Istanbul, 2017 March for Justice_
 
 ## [Previous Day...](/news/2017/07/8/index.md)
 

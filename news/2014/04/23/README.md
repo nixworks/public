@@ -13,7 +13,7 @@ _Context: Egypt_
 
 ##### Russia
 ### [Russia and China have blocked a proposal by the United States and France to impose U.N. sanctions on Central African Republic's former President Francois Bozize and two other people linked to the conflict. ](/news/2014/04/23/russia-and-china-have-blocked-a-proposal-by-the-united-states-and-france-to-impose-u-n-sanctions-on-central-african-republic-s-former-presi.md)
-_Context: France, Central African Republic, Russia, Francois Bozize, China, U.N., American_
+_Context: France, Central African Republic, China, Russia, U.N., U.S., Francois Bozize_
 
 ##### Car bomb
 ### [A car bomb detonates outside a police station in Nairobi, Kenya, killing 4 people. ](/news/2014/04/23/a-car-bomb-detonates-outside-a-police-station-in-nairobi-kenya-killing-4-people.md)
@@ -21,7 +21,7 @@ Four people, two of them police, are killed in the Kenyan capital Nairobi by a c
 
 ##### Earthquake
 ### [A 6.6 magnitude earthquake hits 94 km south of Port Hardy in the Canadian province of British Columbia at around 8:10 pm PDT. Seismic activity was felt as far as Kamloops. ](/news/2014/04/23/a-6-6-magnitude-earthquake-hits-94-km-south-of-port-hardy-in-the-canadian-province-of-british-columbia-at-around-8-10-pm-pdt-seismic-activi.md)
-_Context: British Columbia, Port Hardy, Kamloops, Canadian, earthquake, PDT_
+_Context: Port Hardy, British Columbia, Canadian, earthquake, Kamloops, PDT_
 
 ##### 
 ### [The official death toll of the ferry capsizing rises to 150 with 150 people still missing. ](/news/2014/04/23/the-official-death-toll-of-the-ferry-capsizing-rises-to-150-with-150-people-still-missing.md)

@@ -5,11 +5,11 @@ Formats: [HTML](2004/11/10/index.html)  [JSON](2004/11/10/index.json)  [XML](200
 
 ##### Iris Chang
 ### [ Iris Chang, acclaimed author of "The Rape of Nanking", is found dead near a freeway in Los Gatos, California. Authorities believe her cause of death to be a self-inflicted gunshot wound. ](/news/2004/11/10/iris-chang-acclaimed-author-of-the-rape-of-nanking-is-found-dead-near-a-freeway-in-los-gatos-california-authorities-believe-her-cause.md)
-_Context: Iris Chang, Los Gatos, The Rape of Nanking_
+_Context: The Rape of Nanking, Los Gatos, Iris Chang_
 
 ##### Death
 ### [ Saeb Erakat announces that Palestinian Authority leader Yasser Arafat has died at the age of 75 at a Paris hospital. Rawhi Fattouh becomes interim President of the Palestinian Authority. Mahmoud Abbas leads the Palestine Liberation Organization. Farouk Kaddoumi, foreign minister of the PLO, leads Fatah and Ahmed Qureia receives the security portfolio of the Palestinian Authority. ](/news/2004/11/10/saeb-erakat-announces-that-palestinian-authority-leader-yasser-arafat-has-died-at-the-age-of-75-at-a-paris-hospital-rawhi-fattouh-becomes.md)
-_Context: Palestine Liberation Organization, Palestinian Authority, Saeb Erakat, Fatah, Rawhi Fattouh, Yasser Arafat, Ahmed Qureia, Farouk Kaddoumi, death, Mahmoud Abbas_
+_Context: death, Palestine Liberation Organization, Yasser Arafat, Saeb Erakat, Palestinian Authority, Rawhi Fattouh, Ahmed Qureia, Mahmoud Abbas, Fatah, Farouk Kaddoumi_
 
 ##### Lithuania
 ### [ Lithuania became the first country to approve the new EU constitution. ](/news/2004/11/10/lithuania-became-the-first-country-to-approve-the-new-eu-constitution.md)
@@ -17,11 +17,11 @@ _Context: Lithuania, EU constitution_
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: Heavy fighting continues in Falluja, where U.S. military officials say over 500 insurgents, 18 U.S. and five Iraqi troops had been killed. In Baghdad, 17 people are killed when a car bomb explodes near a shopping center. ](/news/2004/11/10/conflict-in-iraq-heavy-fighting-continues-in-falluja-where-u-s-military-officials-say-over-500-insurgents-18-u-s-and-five-iraqi-troops.md)
-_Context: car bomb, Baghdad, Iraqi insurgency, Conflict in Iraq, Falluja_
+_Context: Conflict in Iraq, Falluja, Baghdad, car bomb, Iraqi insurgency_
 
 ##### Israeli Army
 ### [ Israel Defense Forces repel an al-Aqsa Martyrs Brigades attack on Netzarim in the Gaza Strip killing three Palestinians. In Hebron, one Palestinian, among a group of 400 throwing cement bricks at Jewish cars, is killed when Israeli soldiers open fire.](/news/2004/11/10/israel-defense-forces-repel-an-al-aqsa-martyrs-brigades-attack-on-netzarim-in-the-gaza-strip-killing-three-palestinians-in-hebron-one-pal.md)
-_Context: al-Aqsa Martyrs Brigades, Gaza Strip, Israeli Army, Netzarim, Palestinians, Hebron_
+_Context: Hebron, Netzarim, Israeli Army, Palestinians, al-Aqsa Martyrs Brigades, Gaza Strip_
 
 ##### Mordechai Vanunu
 ### [ Israeli nuclear technician Mordechai Vanunu is arrested, again, on suspicion of leaking classified information. ](/news/2004/11/10/israeli-nuclear-technician-mordechai-vanunu-is-arrested-again-on-suspicion-of-leaking-classified-information.md)

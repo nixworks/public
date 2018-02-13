@@ -21,7 +21,7 @@ Rescue teams search for surviving passengers of overcrowded bus that skid off mo
 
 ##### 2017 Dsseldorf axe attack
 ### [An assailant injures seven people, one severely, in an axe attack at the central railway station in Dsseldorf, Germany. Police have arrested one suspect. ](/news/2017/03/9/an-assailant-injures-seven-people-one-severely-in-an-axe-attack-at-the-central-railway-station-in-dusseldorf-germany-police-have-arreste.md)
-_Context: 2017 Dsseldorf axe attack, Dsseldorf, central railway station_
+_Context: Dsseldorf, central railway station, 2017 Dsseldorf axe attack_
 
 ## [Previous Day...](/news/2017/03/8/index.md)
 

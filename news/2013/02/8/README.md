@@ -21,11 +21,11 @@ _Context: Orakzai Tribal Area, Pakistan, Kalaya_
 
 ##### Nigeria
 ### [Nine women are shot to death in the Nigerian city of Kano. According to reports, all of them were involved in a polio vaccination policy and were most probably killed by the Islamist movement Boko Haram, which has previously threatened to target those involved in vaccinations. ](/news/2013/02/8/nine-women-are-shot-to-death-in-the-nigerian-city-of-kano-according-to-reports-all-of-them-were-involved-in-a-polio-vaccination-policy-and.md)
-_Context: polio, Kano, Nigeria, Boko Haram_
+_Context: Boko Haram, Kano, polio, Nigeria_
 
 ##### Lucy Maud Montgomery
 ### [The cover of the latest edition of Lucy Maud Montgomery's "Anne of Green Gables" arouses controversy among readers as the orphan with the "very thick, decidedly red hair" and the "much freckled" face is transformed into a blonde, buxom farm girl with come-hither eyes. This follows the recent controversy over a new cover for Sylvia Plath's "The Bell Jar" which portrays a young woman applying make-up. ](/news/2013/02/8/the-cover-of-the-latest-edition-of-lucy-maud-montgomery-s-anne-of-green-gables-arouses-controversy-among-readers-as-the-orphan-with-the-v.md)
-_Context: Sylvia Plath, The Bell Jar, Lucy Maud Montgomery, Anne of Green Gables_
+_Context: Anne of Green Gables, Lucy Maud Montgomery, The Bell Jar, Sylvia Plath_
 
 ##### US Appeals Court
 ### [The United States Court of Appeals for the Federal Circuit, which hears all appeals in U.S. patent cases, hears arguments in "CLS Bank v. Alice", a case that may sharpen standards for patentability in the fields of computer software, business methods, and financial services. ](/news/2013/02/8/the-united-states-court-of-appeals-for-the-federal-circuit-which-hears-all-appeals-in-u-s-patent-cases-hears-arguments-in-cls-bank-v-al.md)
@@ -37,15 +37,15 @@ A major snowstorm in the north-eastern US and eastern Canada leaves to hundreds 
 
 ##### Meghna River
 ### [A ferry carrying 100 passengers capsizes in the Meghna River in Bangladesh's Munshiganj District near the capital Dhaka. ](/news/2013/02/8/a-ferry-carrying-100-passengers-capsizes-in-the-meghna-river-in-bangladesh-s-munshiganj-district-near-the-capital-dhaka.md)
-_Context: Meghna River, Dhaka, Munshiganj District, Bangladesh_
+_Context: Meghna River, Munshiganj District, Dhaka, Bangladesh_
 
 ##### Hackers
 ### [Authorities are investigating how a hacker obtained access to the e-mail accounts of George H. W. Bush as well as several of the former U.S. President's relatives and close friends. ](/news/2013/02/8/authorities-are-investigating-how-a-hacker-obtained-access-to-the-e-mail-accounts-of-george-h-w-bush-as-well-as-several-of-the-former-u-s.md)
-_Context: hackers, U.S. President, George H. W. Bush_
+_Context: U.S. President, hackers, George H. W. Bush_
 
 ##### Murder-suicide
 ### [A murder-suicide on Interstate 80, near Salt Lake City, United States, causes the death of two people. ](/news/2013/02/8/a-murder-suicide-on-interstate-80-near-salt-lake-city-united-states-causes-the-death-of-two-people.md)
-_Context: Interstate 80, Salt Lake City, American, murder-suicide_
+_Context: U.S., Interstate 80, Salt Lake City, murder-suicide_
 
 ##### 2013 Bangladesh protests
 ### [2013 Bangladesh protests: In Bangladesh, over 100,000 people join in a mass movement to demand justice for atrocities committed during the Bangladesh Liberation War. ](/news/2013/02/8/2013-bangladesh-protests-in-bangladesh-over-100-000-people-join-in-a-mass-movement-to-demand-justice-for-atrocities-committed-during-the-b.md)
@@ -53,7 +53,7 @@ Hundreds of thousands rally in Bangladesh to demand the death penalty for a poli
 
 ##### 2010-2013 Greek protests
 ### [2010-2013 Greek protests: As demonstrations, protests and rallies against the government decisions to close down or downgrade schools and hospitals continue, in Ierapetra, Crete, over 7,000 people, including students, stage a peaceful march, holding candles and torches, to protest the forthcoming closure of the one of two technical schools and the only hospital of the region. ](/news/2013/02/8/2010a2013-greek-protests-as-demonstrations-protests-and-rallies-against-the-government-decisions-to-close-down-or-downgrade-schools-and.md)
-_Context: 2010-2013 Greek protests, torch, Ierapetra, Crete, candle_
+_Context: Crete, Ierapetra, candle, torch, 2010-2013 Greek protests_
 
 ##### Tunisia
 ### [In Tunisia, the funeral of the opposition politician Chokri Belaid takes place as over a million people gather in mourning amid major protests. A general strike is declared. Tunis Airport is closed and all flights suspended. ](/news/2013/02/8/in-tunisia-the-funeral-of-the-opposition-politician-chokri-belaid-takes-place-as-over-a-million-people-gather-in-mourning-amid-major-protes.md)
@@ -65,7 +65,7 @@ Filmmaker Simon Klose has spent the last four years following the founders of Th
 
 ##### Influenza vaccine
 ### [Some scientists express concern that an influenza vaccine marketed by GlaxoSmithKline called Pandemrix may be responsible for an increase in cases of narcolepsy in Europe. ](/news/2013/02/8/some-scientists-express-concern-that-an-influenza-vaccine-marketed-by-glaxosmithkline-called-pandemrix-may-be-responsible-for-an-increase-in.md)
-_Context: narcolepsy, Europe, influenza vaccine, Pandemrix, GlaxoSmithKline_
+_Context: Pandemrix, GlaxoSmithKline, narcolepsy, influenza vaccine, Europe_
 
 ## [Previous Day...](/news/2013/02/7/index.md)
 

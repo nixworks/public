@@ -5,11 +5,11 @@ Formats: [HTML](2007/10/30/index.html)  [JSON](2007/10/30/index.json)  [XML](200
 
 ##### International Space Station
 ### [ An International Space Station solar wing relocated by the crew of STS-120 is torn during deployment. ](/news/2007/10/30/an-international-space-station-solar-wing-relocated-by-the-crew-of-sts-120-is-torn-during-deployment.md)
-_Context: International Space Station, STS-120_
+_Context: STS-120, International Space Station_
 
 ##### Earthquake
 ### [ A moderate earthquake of 5.6 magnitude strikes 9 miles northeast of San Jose, California. ](/news/2007/10/30/a-moderate-earthquake-of-5-6-magnitude-strikes-9-miles-northeast-of-san-jose-california.md)
-_Context: earthquake, San Jose, California, magnitude_
+_Context: magnitude, San Jose, California, earthquake_
 
 ##### Tropical Storm Noel
 ### [ Tropical Storm Noel weakens after causing between 11 and 25 deaths in the Dominican Republic. ](/news/2007/10/30/tropical-storm-noel-weakens-after-causing-between-11-and-25-deaths-in-the-dominican-republic.md)

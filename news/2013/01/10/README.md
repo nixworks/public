@@ -13,7 +13,7 @@ Islamist rebels drove the Malian army out of the strategic northern town of Konn
 
 ##### 2013 Neuhausen am Rheinfall train collision
 ### [2013 Neuhausen am Rheinfall train collision: Two trains collide and derail in Neuhausen am Rheinfall, Switzerland, injuring 17 people. ](/news/2013/01/10/2013-neuhausen-am-rheinfall-train-collision-two-trains-collide-and-derail-in-neuhausen-am-rheinfall-switzerland-injuring-17-people.md)
-_Context: Neuhausen am Rheinfall, 2013 Neuhausen am Rheinfall train collision, Switzerland_
+_Context: Switzerland, Neuhausen am Rheinfall, 2013 Neuhausen am Rheinfall train collision_
 
 ##### Police
 ### [Police in France discover the bodies of Sakine Cansiz, one of the co-founders of the Kurdistan Workers' Party, and two other Kurdish activists who were all shot dead in a Kurdish information center in the capital, Paris. ](/news/2013/01/10/police-in-france-discover-the-bodies-of-sakine-cansa-z-one-of-the-co-founders-of-the-kurdistan-workers-party-and-two-other-kurdish-activi.md)
@@ -25,11 +25,11 @@ A senior Metropolitan Police detective is found guilty of trying to sell informa
 
 ##### Gunman opened fire
 ### [A gunman opened fire inside a classroom of Taft Union High School in Taft, California. A 16-year-old student was critically wounded, and another student was shot at but was not injured. The gunman surrendered after the classroom's teacher ordered him to drop his weapon. The teacher also suffered minor injuries after being struck by a shotgun pellet. A 16-year-old student, the suspected gunman, was arrested. ](/news/2013/01/10/a-gunman-opened-fire-inside-a-classroom-of-taft-union-high-school-in-taft-california-a-16-year-old-student-was-critically-wounded-and-ano.md)
-_Context: pellet, Taft Union High School, gunman opened fire, Taft, California_
+_Context: Taft, California, pellet, Taft Union High School, gunman opened fire_
 
 ##### U.S. President
 ### [U.S. President Barack Obama nominates White House Chief of Staff Jack Lew to be the next Secretary of the Treasury. ](/news/2013/01/10/u-s-president-barack-obama-nominates-white-house-chief-of-staff-jack-lew-to-be-the-next-secretary-of-the-treasury.md)
-_Context: Jack Lew, White House Chief of Staff, Barack Obama, United States Secretary of the Treasury, U.S. President_
+_Context: Jack Lew, White House Chief of Staff, United States Secretary of the Treasury, Barack Obama, U.S. President_
 
 ##### Near-Earth asteroid
 ### [Near-Earth asteroid 99942 Apophis passes close to the Earth with observations by European astronomers estimating that it is larger than previously thought. ](/news/2013/01/10/near-earth-asteroid-99942-apophis-passes-close-to-the-earth-with-observations-by-european-astronomers-estimating-that-it-is-larger-than-prev.md)

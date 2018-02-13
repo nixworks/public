@@ -17,7 +17,7 @@ _Context: Benghazi, Libyan Civil War (2014-present)_
 
 ##### Papua New Guinea
 ### [A 7.1 magnitude earthquake occurs in Papua New Guinea's East New Britain province with the potential to generate a local tsunami. ](/news/2015/05/1/a-7-1-magnitude-earthquake-occurs-in-papua-new-guinea-s-east-new-britain-province-with-the-potential-to-generate-a-local-tsunami.md)
-_Context: Papua New Guinea, East New Britain, tsunami_
+_Context: Papua New Guinea, tsunami, East New Britain_
 
 ##### Australian east coast low
 ### [Four people have died in South East Queensland in flood waters triggered by heavy rain. ](/news/2015/05/1/four-people-have-died-in-south-east-queensland-in-flood-waters-triggered-by-heavy-rain.md)
@@ -29,7 +29,7 @@ A major global commercial fair - Milan Expo 2015 - opens in northern Italy, but 
 
 ##### Salk Institute
 ### [Scientists at the Salk Institute and the Chinese Academy of Sciences studying Werner's syndrome, which is characterized by the appearance of premature aging, report that aging causes an overall decline in the synthesis of proteins that are themselves involved in protein synthesis. ](/news/2015/05/1/scientists-at-the-salk-institute-and-the-chinese-academy-of-sciences-studying-werner-s-syndrome-which-is-characterized-by-the-appearance-of.md)
-_Context: synthesis of proteins, Werner's syndrome, aging, Salk Institute, protein synthesis, Chinese Academy of Sciences_
+_Context: Werner's syndrome, protein synthesis, synthesis of proteins, Salk Institute, aging, Chinese Academy of Sciences_
 
 ##### France
 ### [French President Francois Hollande promises to investigate claims that French Army soldiers were involved in sexual child abuse in the Central African Republic. ](/news/2015/05/1/french-president-franassois-hollande-promises-to-investigate-claims-that-french-army-soldiers-were-involved-in-sexual-child-abuse-in-the-cent.md)

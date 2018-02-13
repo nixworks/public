@@ -17,15 +17,15 @@ The biggest border crossing between North Korea and China has been closed to tou
 
 ##### Japan
 ### [Japan and Taiwan sign an agreement over fishing rights around the Senkaku Islands. China voices "extreme concerns" over the deal. ](/news/2013/04/10/japan-and-taiwan-sign-an-agreement-over-fishing-rights-around-the-senkaku-islands-china-voices-extreme-concerns-over-the-deal.md)
-_Context: Taiwan, China, Senkaku Islands, fishing, Japan_
+_Context: Taiwan, China, Senkaku Islands, Japan, fishing_
 
 ##### Arabian camel
 ### [An Arabian camel gifted to President of France Francois Hollande for liberating Mali is killed and stewed by a family in Timbuktu, in whose care Hollande had left it. ](/news/2013/04/10/an-arabian-camel-gifted-to-president-of-france-franassois-hollande-for-liberating-mali-is-killed-and-stewed-by-a-family-in-timbuktu-in-whose.md)
 With his pledge to create a morally irreproachable republic in tatters over a ministerial tax fraud scandal, Fran&ccedil;ois Hollande has already had to eat his hat. Now, it emerges, someone else has eaten his camel.
 
-##### American
+##### U.S.
 ### [The United States, Canada, and Jordan boycott a meeting of the UN General Assembly organized by a former Serbian foreign minister, Vuk Jeremic. ](/news/2013/04/10/the-united-states-canada-and-jordan-boycott-a-meeting-of-the-un-general-assembly-organized-by-a-former-serbian-foreign-minister-vuk-jerem.md)
-_Context: Vuk Jeremic, Serbia, UN General Assembly, American, Jordan, boycott, Serbia's Foreign Minister, Canadian_
+_Context: Canadian, UN General Assembly, Jordan, Serbia, U.S., Serbia's Foreign Minister, boycott, Vuk Jeremic_
 
 ##### Liu Zhijun
 ### [Liu Zhijun, the leader of the construction of the Chinese bullet train system and Minister of Railways, is arrested on corruption charges for allegedly taking bribes and abusing his power as Minister of Railways. ](/news/2013/04/10/liu-zhijun-the-leader-of-the-construction-of-the-chinese-bullet-train-system-and-minister-of-railways-is-arrested-on-corruption-charges-fo.md)
@@ -33,7 +33,7 @@ China charges once-powerful former Railways Minister Liu Zhijun with corruption 
 
 ##### Firefighter
 ### [A man who took four firefighters hostage in Suwanee, Georgia, United States, is killed in a gun battle with police. ](/news/2013/04/10/a-man-who-took-four-firefighters-hostage-in-suwanee-georgia-united-states-is-killed-in-a-gun-battle-with-police.md)
-_Context: Suwanee, Police, hostage, American, Georgia, firefighter_
+_Context: Police, U.S., firefighter, Georgia, hostage, Suwanee_
 
 ##### Pakistan
 ### [In Pakistan, a gunman kills one police officer and injures another who were guarding health workers fighting polio. ](/news/2013/04/10/in-pakistan-a-gunman-kills-one-police-officer-and-injures-another-who-were-guarding-health-workers-fighting-polio.md)
@@ -49,7 +49,7 @@ _Context: general election, May 5_
 
 ##### Parliament
 ### [The Parliament of the United Kingdom gather for a special session to debate the legacy of former Prime Minister Margaret Thatcher. ](/news/2013/04/10/the-parliament-of-the-united-kingdom-gather-for-a-special-session-to-debate-the-legacy-of-former-prime-minister-margaret-thatcher.md)
-_Context: legacy, Margaret Thatcher, special session, Prime Minister, Parliament, United Kingdom_
+_Context: Margaret Thatcher, United Kingdom, special session, legacy, Parliament, Prime Minister_
 
 ##### Sally Jewell
 ### [Sally Jewell is confirmed as the new United States Secretary of the Interior. ](/news/2013/04/10/sally-jewell-is-confirmed-as-the-new-united-states-secretary-of-the-interior.md)

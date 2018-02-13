@@ -9,7 +9,7 @@ Sky News Australia has the top stories in news online from Australia and the res
 
 ##### Dandong
 ### [China announces that 3 residents of Dandong city in Liaoning province were shot dead and one injured in a China-North Korea border incident last week. ](/news/2010/06/9/china-announces-that-3-residents-of-dandong-city-in-liaoning-province-were-shot-dead-and-one-injured-in-a-china-north-korea-border-incident.md)
-_Context: North Korea, Liaoning province, China, Dandong_
+_Context: China, Dandong, North Korea, Liaoning province_
 
 ##### Mogadishu
 ### [At least 12 people are killed and at least 22 others are wounded during fighting and a roadside blast in Mogadishu. ](/news/2010/06/9/at-least-12-people-are-killed-and-at-least-22-others-are-wounded-during-fighting-and-a-roadside-blast-in-mogadishu.md)
@@ -17,7 +17,7 @@ _Context: Mogadishu_
 
 ##### Shanghai Television Festival
 ### [Environmental themes will feature during this week's Shanghai Television Festival and the upcoming Shanghai International Film Festival, officials said at a press conference to mark World Ocean Day. ](/news/2010/06/9/environmental-themes-will-feature-during-this-week-s-shanghai-television-festival-and-the-upcoming-shanghai-international-film-festival-off.md)
-_Context: Shanghai Television Festival, Shanghai International Film Festival, World Ocean Day_
+_Context: Shanghai International Film Festival, World Ocean Day, Shanghai Television Festival_
 
 ##### Michael Jackson
 ### [Michael Jackson's estate makes $1 billion since his death. ](/news/2010/06/9/michael-jackson-s-estate-makes-1-billion-since-his-death.md)
@@ -41,7 +41,7 @@ Muslim Brotherhood MP Mohamed Beltagy, who was on Gaza-bound flotilla, recounts 
 
 ##### French President
 ### [President Nicolas Sarkozy defends his plans to sell up to four French warships to Russia, despite concerns raised by his Georgian counterpart Mikheil Saakashvili during talks taking place a few days before a visit to Paris of Russian Prime Minister Vladimir Putin. ](/news/2010/06/9/president-nicolas-sarkozy-defends-his-plans-to-sell-up-to-four-french-warships-to-russia-despite-concerns-raised-by-his-georgian-counterpar.md)
-_Context: Nicolas Sarkozy, French warships, Paris, Vladimir Putin,  Georgian, French President, Mikheil Saakashvili, Russia, Prime Minister of Russia_
+_Context: Russia,  Georgian, Mikheil Saakashvili, French President, Nicolas Sarkozy, Vladimir Putin, Paris, Prime Minister of Russia, French warships_
 
 ##### Senegal
 ### [France closes its military bases in Senegal and removes 900 of its 1,200 troops based there. ](/news/2010/06/9/france-closes-its-military-bases-in-senegal-and-removes-900-of-its-1-200-troops-based-there.md)
@@ -49,7 +49,7 @@ France is closing its military bases in Senegal - 50 years after the independenc
 
 ##### Georgia
 ### [The U.S. state of Georgia executes its 24th death row inmate Melbert Ford by lethal injection. ](/news/2010/06/9/the-u-s-state-of-georgia-executes-its-24th-death-row-inmate-melbert-ford-by-lethal-injection.md)
-_Context: Melbert Ford, Capital punishment in the United States, death row, Georgia, lethal injection_
+_Context: Melbert Ford, Georgia, death row, Capital punishment in the United States, lethal injection_
 
 ##### Iran
 ### [Three men are arrested, two protesters are kicked and pushed downstairs and eggs are thrown during demonstrations as Iran's Foreign Minister Manouchehr Mottaki hides under an umbrella while leaving the Institute of International and European Affairs in Dublin. ](/news/2010/06/9/three-men-are-arrested-two-protesters-are-kicked-and-pushed-downstairs-and-eggs-are-thrown-during-demonstrations-as-iran-s-foreign-minister.md)
@@ -105,7 +105,7 @@ Long-term studies have revealed population declines in fishes, amphibians, repti
 
 ##### World's oldest leather shoe
 ### [The world's oldest leather shoe was found in Vayots Dzor, Armenia by a team of international archeologists. ](/news/2010/06/9/the-world-s-oldest-leather-shoe-was-found-in-vayots-dzor-armenia-by-a-team-of-international-archeologists.md)
-_Context: world's oldest leather shoe, Armenia, Vayots Dzor_
+_Context: Vayots Dzor, world's oldest leather shoe, Armenia_
 
 ##### Nelson Mandela
 ### [Nelson Mandela's grandson says his grandfather plans to attend the 2010 FIFA World Cup opening ceremony in South Africa this week. ](/news/2010/06/9/nelson-mandela-s-grandson-says-his-grandfather-plans-to-attend-the-2010-fifa-world-cup-opening-ceremony-in-south-africa-this-week.md)
@@ -113,7 +113,7 @@ _Context: South Africa, Nelson Mandela, 2010 FIFA World Cup_
 
 ##### Chicago Blackhawks
 ### [The Chicago Blackhawks defeat the Philadelphia Flyers 4-3 in overtime to win the 2010 Stanley Cup Finals in six games. Blackhawks' captain Jonathan Toews is awarded the Conn Smythe Trophy as Most Valuable Player. ](/news/2010/06/9/the-chicago-blackhawks-defeat-the-philadelphia-flyers-4-3-in-overtime-to-win-the-2010-stanley-cup-finals-in-six-games-blackhawks-captain-j.md)
-_Context: Chicago Blackhawks, 2010 Stanley Cup Finals, captain, Most Valuable Player, Jonathan Toews, Philadelphia Flyers, Conn Smythe Trophy_
+_Context: Philadelphia Flyers, Most Valuable Player, Jonathan Toews, 2010 Stanley Cup Finals, captain, Chicago Blackhawks, Conn Smythe Trophy_
 
 ## [Previous Day...](/news/2010/06/8/index.md)
 

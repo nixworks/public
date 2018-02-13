@@ -13,11 +13,11 @@ FPA statement &#39;protests methods by Hamas against journalists in Gaza&#39;, c
 
 ##### China
 ### [The Natural Development and Reform Commission, an economic planning agency of the People's Republic of China, announces an increase in the price of natural gas sold to non-residential buyers. ](/news/2014/08/12/the-natural-development-and-reform-commission-an-economic-planning-agency-of-the-people-s-republic-of-china-announces-an-increase-in-the-p.md)
-_Context: natural gas, China_
+_Context: China, natural gas_
 
 ##### Earthquake
 ### [A shallow 5.1 magnitude earthquake near Quito's capital region kills four with another three missing in a landslide. ](/news/2014/08/12/a-shallow-5-1-magnitude-earthquake-near-quito-s-capital-region-kills-four-with-another-three-missing-in-a-landslide.md)
-_Context: Quito, earthquake_
+_Context: earthquake, Quito_
 
 ##### 2014 West Africa Ebola virus outbreak
 ### [The death toll from the Ebola virus outbreak passes 1,000. ](/news/2014/08/12/the-death-toll-from-the-ebola-virus-outbreak-passes-1-000.md)

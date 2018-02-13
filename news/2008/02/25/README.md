@@ -5,15 +5,15 @@ Formats: [HTML](2008/02/25/index.html)  [JSON](2008/02/25/index.json)  [XML](200
 
 ##### New York Philharmonic
 ### [ The New York Philharmonic becomes the first American musical ensemble to perform in North Korea. ](/news/2008/02/25/the-new-york-philharmonic-becomes-the-first-american-musical-ensemble-to-perform-in-north-korea.md)
-_Context: musical ensemble, American, New York Philharmonic, North Korea_
+_Context: U.S., North Korea, New York Philharmonic, musical ensemble_
 
 ##### Suicide bombing
 ### [ A suicide bomber in Rawalpindi, Pakistan, kills 8 people including Pakistan's Surgeon General, Lieutenant General Mushtaq Ahmed Baig. ](/news/2008/02/25/a-suicide-bomber-in-rawalpindi-pakistan-kills-8-people-including-pakistan-s-surgeon-general-lieutenant-general-mushtaq-ahmed-baig.md)
-_Context: Rawalpindi, Lieutenant General, suicide bombing, Mushtaq Ahmed Baig, Pakistan_
+_Context: Lieutenant General, suicide bombing, Mushtaq Ahmed Baig, Pakistan, Rawalpindi_
 
 ##### Chairman
 ### [ Chairman of the United States Federal Communications Commission Kevin Martin says he is "ready, willing and able," to prevent broadband Internet service providers from interfering with the speed of their subscribers' Internet access. ](/news/2008/02/25/chairman-of-the-united-states-federal-communications-commission-kevin-martin-says-he-is-ready-willing-and-able-to-prevent-broadband-int.md)
-_Context: American, Kevin Martin, Chairman, broadband, FCC's, Internet, Internet service provider, Internet access, prevent_
+_Context: Internet, Chairman, prevent, Internet service provider, Kevin Martin, Internet access, U.S., FCC's, broadband_
 
 ##### Hungary
 ### [ Hungary agrees to join the South Stream gas pipeline project. ](/news/2008/02/25/hungary-agrees-to-join-the-south-stream-gas-pipeline-project.md)

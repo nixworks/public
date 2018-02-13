@@ -25,11 +25,11 @@ Forty people died after a building collapse at the megachurch of one of Nigeria&
 
 ##### 2014 Pacific hurricane season
 ### [Hurricane Odile reaches Category 4 strength as it nears Mexico's Baja California coast. ](/news/2014/09/14/hurricane-odile-reaches-category-4-strength-as-it-nears-mexico-s-baja-california-coast.md)
-_Context: Baja California, 2014 Pacific hurricane season, Mexican, Hurricane Odile_
+_Context: Hurricane Odile, 2014 Pacific hurricane season, Mexican, Baja California_
 
 ##### 2014 Pacific typhoon season
 ### [Typhoon Kalmaegi hits the northeast Philippines with warnings of potential floods and landslides. ](/news/2014/09/14/typhoon-kalmaegi-hits-the-northeast-philippines-with-warnings-of-potential-floods-and-landslides.md)
-_Context: Philippines, Typhoon Kalmaegi, 2014 Pacific typhoon season_
+_Context: Typhoon Kalmaegi, 2014 Pacific typhoon season, Philippines_
 
 ##### Africa
 ### [A boat carrying 250 people from Africa to Europe sinks off the coast off Tajoura in Libya with most people feared drowned. ](/news/2014/09/14/a-boat-carrying-250-people-from-africa-to-europe-sinks-off-the-coast-off-tajoura-in-libya-with-most-people-feared-drowned.md)

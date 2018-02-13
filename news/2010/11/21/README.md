@@ -37,19 +37,19 @@ Rescue operations are taking place in south-west China to try to reach 28 miners
 
 ##### Eruptions
 ### [The death toll from the eruptions of Mount Merapi in Indonesia reaches 292. ](/news/2010/11/21/the-death-toll-from-the-eruptions-of-mount-merapi-in-indonesia-reaches-292.md)
-_Context: eruptions, Mounts Merapi, Indonesia_
+_Context: Indonesia, eruptions, Mounts Merapi_
 
 ##### Haiti's presidential election
 ### [Four Haitian presidential candidates call for the postponement of the Haitian elections set for November 28 as the country struggles with a cholera epidemic which has killed nearly 1,200. ](/news/2010/11/21/four-haitian-presidential-candidates-call-for-the-postponement-of-the-haitian-elections-set-for-november-28-as-the-country-struggles-with-a.md)
-_Context: Haiti's presidential election, worst epidemic of cholera_
+_Context: worst epidemic of cholera, Haiti's presidential election_
 
 ##### Pike River mine
 ### [Rescuers begin drilling a hole to analyse air inside the Pike River mine in New Zealand. There has been no communication with the 29 trapped miners. ](/news/2010/11/21/rescuers-begin-drilling-a-hole-to-analyse-air-inside-the-pike-river-mine-in-new-zealand-there-has-been-no-communication-with-the-29-trapped.md)
-_Context: New Zealand, Pike River mine_
+_Context: Pike River mine, New Zealand_
 
 ##### International Tiger Forum
 ### [Russia hosts the International Tiger Forum summit meeting of international wildlife experts and officials from 13 countries in St.Petersburg, to discuss the protection of tigers which could become extinct in 12 years if unprotected. ](/news/2010/11/21/russia-hosts-the-international-tiger-forum-summit-meeting-of-international-wildlife-experts-and-officials-from-13-countries-in-st-petersburg.md)
-_Context: International Tiger Forum, extinction, St.Petersburg, tiger_
+_Context: extinction, tiger, St.Petersburg, International Tiger Forum_
 
 ##### Aasia Bibi
 ### [Aasia Bibi, a Christian woman sentenced to death in Pakistan on charges of blasphemy against Islam, appeals to President Asif Ali Zardari to pardon her. ](/news/2010/11/21/aasia-bibi-a-christian-woman-sentenced-to-death-in-pakistan-on-charges-of-blasphemy-against-islam-appeals-to-president-asif-ali-zardari-to.md)
@@ -61,7 +61,7 @@ Two Israeli soldiers who used a Palestinian child as a human shield during an of
 
 ##### Salt
 ### [Thirty five people are arrested in Salt, Jordan, to restore calm after four days of rioting following the police shooting of an alleged traffic violator. ](/news/2010/11/21/thirty-five-people-are-arrested-in-salt-jordan-to-restore-calm-after-four-days-of-rioting-following-the-police-shooting-of-an-alleged-traf.md)
-_Context: Jordan, Salt_
+_Context: Salt, Jordan_
 
 ##### Iran
 ### [Iran delays the trial of two American citizens detained while hiking until 6 February 2011. ](/news/2010/11/21/iran-delays-the-trial-of-two-american-citizens-detained-while-hiking-until-6-february-2011.md)
@@ -73,7 +73,7 @@ _Context: Blaise Compaore, President, Burkina Faso_
 
 ##### Egypt
 ### [Egypt restricts opposition before vote, with security forces arresting hundreds of opposition activists, and clamping down on the media ahead of parliamentary elections next week according to Amnesty International. ](/news/2010/11/21/egypt-restricts-opposition-before-vote-with-security-forces-arresting-hundreds-of-opposition-activists-and-clamping-down-on-the-media-ahea.md)
-_Context: Amnesty International, Egypt, Egyptian parliamentary elections_
+_Context: Egypt, Amnesty International, Egyptian parliamentary elections_
 
 ##### Iranian President
 ### [Iranian President Mahmoud Ahmadinejad rejects the country's once effective family planning program as an "ungodly Western import" and urges girls to marry at age of 16. ](/news/2010/11/21/iranian-president-mahmoud-ahmadinejad-rejects-the-country-s-once-effective-family-planning-program-as-an-ungodly-western-import-and-urges.md)

@@ -13,11 +13,11 @@ Tropical Storm Lee spawned tornado sightings and alerts from the Louisiana Gulf 
 
 ##### Wildfire
 ### [Wildfires continue to burn in the US state of Texas, destroying tens of thousands of acres of land. ](/news/2011/09/4/wildfires-continue-to-burn-in-the-us-state-of-texas-destroying-tens-of-thousands-of-acres-of-land.md)
-_Context: Wildfire, Texas_
+_Context: Texas, Wildfire_
 
 ##### German
 ### [Voters in the German state of Mecklenburg-Vorpommern go to the polls for a state election with the Social Democrats and Greens performing well and the Christian Democrats and Free Democrats performing poorly. ](/news/2011/09/4/voters-in-the-german-state-of-mecklenburg-vorpommern-go-to-the-polls-for-a-state-election-with-the-social-democrats-and-greens-performing-we.md)
-_Context: Greens, German, Free Democratic Party (FDP), SPD, Landtag of Mecklenburg-Vorpommern, CDU, state election_
+_Context: German, Landtag of Mecklenburg-Vorpommern, CDU, Greens, Free Democratic Party (FDP), state election, SPD_
 
 ## [Previous Day...](/news/2011/09/3/index.md)
 

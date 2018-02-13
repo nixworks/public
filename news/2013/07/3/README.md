@@ -21,11 +21,11 @@ Bolivia accuses European states of &quot;aggression&quot; after its presidential
 
 ##### Ecuador
 ### [Ecuador announces the discovery of a bugging device used to listen in on its embassy in the United Kingdom. Ecuador's foreign minister Ricardo Patio declares it as "another instance of a loss of ethics at the international level in relations between governments". ](/news/2013/07/3/ecuador-announces-the-discovery-of-a-bugging-device-used-to-listen-in-on-its-embassy-in-the-united-kingdom-ecuador-s-foreign-minister-ricar.md)
-_Context: Ricardo Patio, Ecuador, United Kingdom_
+_Context: United Kingdom, Ricardo Patio, Ecuador_
 
 ##### Albert II of Belgium
 ### [King Albert II of Belgium announces his abdication (effective July 21) for health reasons in favour of his son Prince Philippe, Duke of Brabant. ](/news/2013/07/3/king-albert-ii-of-belgium-announces-his-abdication-effective-july-21-for-health-reasons-in-favour-of-his-son-prince-philippe-duke-of-brab.md)
-_Context: Prince Philippe, Duke of Brabant, abdicate, Albert II of Belgium_
+_Context: abdicate, Prince Philippe, Duke of Brabant, Albert II of Belgium_
 
 ##### El Paraso
 ### [A 4,000-year-old pyramid at El Paraso in Peru is destroyed by property developers. ](/news/2013/07/3/a-4-000-year-old-pyramid-at-el-paraiso-in-peru-is-destroyed-by-property-developers.md)

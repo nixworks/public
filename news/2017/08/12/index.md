@@ -5,7 +5,7 @@ Formats: [HTML](2017/08/12/index.html)  [JSON](2017/08/12/index.json)  [XML](201
 
 ##### Syrian Civil War
 ### [Seven members of the White Helmets are shot dead by unidentified gunmen who stormed their office in rebel-held Sarmin, in northwestern Syria. ](/news/2017/08/12/seven-members-of-the-white-helmets-are-shot-dead-by-unidentified-gunmen-who-stormed-their-office-in-rebel-held-sarmin-in-northwestern-syria.md)
-_Context: Syrian Civil War, Syria, Sarmin, White Helmets_
+_Context: Syria, Sarmin, White Helmets, Syrian Civil War_
 
 ##### War in North-West Pakistan
 ### [A suicide bombing took place near a Pakistan army truck in Quetta, Balochistan, Pakistan, leaving 15 people dead including 8 soldiers, while injuring 40 others. ](/news/2017/08/12/a-suicide-bombing-took-place-near-a-pakistan-army-truck-in-quetta-balochistan-pakistan-leaving-15-people-dead-including-8-soldiers-while.md)

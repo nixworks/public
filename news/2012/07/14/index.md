@@ -17,7 +17,7 @@ _Context: Van_
 
 ##### Insurgency in the North Caucasus
 ### [North Caucasus insurgency: The Russian military kill 8 militants, including two regional commanders, in Dagestan and Kabardino-Balkaria. ](/news/2012/07/14/north-caucasus-insurgency-the-russian-military-kill-8-militants-including-two-regional-commanders-in-dagestan-and-kabardino-balkaria.md)
-_Context: Kabardino-Balkaria, Dagestan, Insurgency in the North Caucasus, Russia_
+_Context: Russia, Dagestan, Kabardino-Balkaria, Insurgency in the North Caucasus_
 
 ##### Musical
 ### [The musical "Chicago" is to close after a run of 15 years on London's West End, the longest run for a revival in British theatre. ](/news/2012/07/14/the-musical-chicago-is-to-close-after-a-run-of-15-years-on-london-s-west-end-the-longest-run-for-a-revival-in-british-theatre.md)
@@ -39,7 +39,7 @@ A man is killed by a shark while surfing off the coast of Western Australia, in 
 ### [A fire onboard the German container ship "MSC Flaminia" forces the crew to abandon ship in the middle of the Atlantic Ocean. ](/news/2012/07/14/a-fire-onboard-the-german-container-ship-msc-flaminia-forces-the-crew-to-abandon-ship-in-the-middle-of-the-atlantic-ocean.md)
 One seafarer is confirmed dead and one is still missing as a result of a serious fire on a containership in the middle of a North Atlantic voyage.
 
-##### American
+##### U.S.
 ### [Shipper International Port Corp, with permission from the United States, delivers the first shipment of humanitarian aid to Cuba, the first time in 50 years. ](/news/2012/07/14/shipper-international-port-corp-with-permission-from-the-united-states-delivers-the-first-shipment-of-humanitarian-aid-to-cuba-the-first.md)
 Fifty-year US trade embargo on Caribbean island over ideological differences ends with delivery of humanitarian aid.
 

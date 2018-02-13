@@ -9,7 +9,7 @@ _Context: Hosni Mubarak_
 
 ##### Southern Sudan
 ### [At least 16 people have been killed the Southern Sudanese state of Jonglei, breaking a ceasefire agreed last month. ](/news/2011/02/10/at-least-16-people-have-been-killed-the-southern-sudanese-state-of-jonglei-breaking-a-ceasefire-agreed-last-month.md)
-_Context: state, Jonglei, Southern Sudan_
+_Context: state, Southern Sudan, Jonglei_
 
 ##### Suicide bomber
 ### [A suicide bomber attacks a Pakistan Army recruitment centre in northwestern Pakistan causing at least 27 deaths and 40 injuries. ](/news/2011/02/10/a-suicide-bomber-attacks-a-pakistan-army-recruitment-centre-in-northwestern-pakistan-causing-at-least-27-deaths-and-40-injuries.md)
@@ -17,19 +17,19 @@ A boy in a school uniform blew himself up at a Pakistani army recruitment center
 
 ##### Revolutionary Armed Forces of Colombia
 ### [The FARC organisation releases the first of five hostages promised this week as a gesture of peace to the government in Colombia. ](/news/2011/02/10/the-farc-organisation-releases-the-first-of-five-hostages-promised-this-week-as-a-gesture-of-peace-to-the-government-in-colombia.md)
-_Context: Revolutionary Armed Forces of Colombia, Colombia_
+_Context: Colombia, Revolutionary Armed Forces of Colombia_
 
 ##### Israel
 ### [Israeli forces remove Palestinian tents near Nablus of which 8 were reportedly used as homes.](/news/2011/02/10/israeli-forces-remove-palestinian-tents-near-nablus-of-which-8-were-reportedly-used-as-homes.md)
-_Context: Israel, Nablus_
+_Context: Nablus, Israel_
 
 ##### Vietnam
 ### [Vietnam is to host the debut International Choir Festival. ](/news/2011/02/10/vietnam-is-to-host-the-debut-international-choir-festival.md)
-_Context: Vietnam, International Choir Festival_
+_Context: International Choir Festival, Vietnam_
 
 ##### Perm
 ### [Eight people are killed in a warehouse fire in Perm, Russia. ](/news/2011/02/10/eight-people-are-killed-in-a-warehouse-fire-in-perm-russia.md)
-_Context: Perm, Russia_
+_Context: Russia, Perm_
 
 ##### Manx2
 ### [A Manx2 flight from Belfast to Cork crashes on landing, killing six and injuring at least another six. It is the deadliest in Irish aviation since 1968. ](/news/2011/02/10/a-manx2-flight-from-belfast-to-cork-crashes-on-landing-killing-six-and-injuring-at-least-another-six-it-is-the-deadliest-in-irish-aviation.md)
@@ -41,7 +41,7 @@ _Context: Allentown, Pennsylvania_
 
 ##### Snowstorm
 ### [A snowstorm hits the Southeastern United States and Tennessee Valley with warnings in place across ten states. ](/news/2011/02/10/a-snowstorm-hits-the-southeastern-united-states-and-tennessee-valley-with-warnings-in-place-across-ten-states.md)
-_Context: Tennessee Valley, snowstorm, Southeastern United States_
+_Context: snowstorm, Tennessee Valley, Southeastern United States_
 
 ##### Communist Party of Cuba
 ### [Cuban Information and Communications Minister Medardo Diaz welcomes the arrival of an undersea fibre-optic cable linking it to Venezuela, which offered to help the island speed up its internet connection after the United States refused. ](/news/2011/02/10/cuban-information-and-communications-minister-medardo-diaz-welcomes-the-arrival-of-an-undersea-fibre-optic-cable-linking-it-to-venezuela-wh.md)
@@ -49,7 +49,7 @@ Cuba hails the arrival of a fibre-optic communications cable linking it to Venez
 
 ##### North Korea
 ### [North Korea reports that it will not conduct further talks with South Korea, citing a perceived lack of seriousness on South Korea's part. ](/news/2011/02/10/north-korea-reports-that-it-will-not-conduct-further-talks-with-south-korea-citing-a-perceived-lack-of-seriousness-on-south-korea-s-part.md)
-_Context: North Korea, South Korea_
+_Context: South Korea, North Korea_
 
 ##### India
 ### [Reuters reports that India and Pakistan have agreed to resume peace talks that were broken off after the 2008 Mumbai attacks. ](/news/2011/02/10/reuters-reports-that-india-and-pakistan-have-agreed-to-resume-peace-talks-that-were-broken-off-after-the-2008-mumbai-attacks.md)
@@ -57,7 +57,7 @@ India and Pakistan haveagreed to formally resume peace talks that were broken of
 
 ##### Indonesia
 ### [The trial of Indonesian Muslim cleric Abu Bakar Bashir on terrorism charges begins in Jakarta. ](/news/2011/02/10/the-trial-of-indonesian-muslim-cleric-abu-bakar-bashir-on-terrorism-charges-begins-in-jakarta.md)
-_Context: terrorism, Abu Bakar Bashir, Indonesia, Jakarta, Muslim_
+_Context: Muslim, Jakarta, Indonesia, Abu Bakar Bashir, terrorism_
 
 ##### China
 ### [Blind Chinese activist Chen Guangcheng says, in a secretly shot video, that he is still under house arrest after being released from prison. ](/news/2011/02/10/blind-chinese-activist-chen-guangcheng-says-in-a-secretly-shot-video-that-he-is-still-under-house-arrest-after-being-released-from-prison.md)

@@ -9,7 +9,7 @@ The shootout in Chihuahua comes amid rising violence nationwide.
 
 ##### Disappearance of Amelia Earhart
 ### [The aviator Amelia Earhart and her navigator Fred Noonan may have survived in the Marshall Islands and were held captive by the Japanese according to an allegedly undoctored photo in the National Archives. Experts remain divided on the claim, however. ](/news/2017/07/5/the-aviator-amelia-earhart-and-her-navigator-fred-noonan-may-have-survived-in-the-marshall-islands-and-were-held-captive-by-the-japanese-acc.md)
-_Context: Empire of Japan, Marshall Islands, Disappearance of Amelia Earhart, Amelia Earhart, Fred Noonan, National Archives_
+_Context: Empire of Japan, Disappearance of Amelia Earhart, National Archives, Fred Noonan, Marshall Islands, Amelia Earhart_
 
 ##### Volvo
 ### [Volvo says it plans to phase out fossil fuels by building only electric or hybrid cars. ](/news/2017/07/5/volvo-says-it-plans-to-phase-out-fossil-fuels-by-building-only-electric-or-hybrid-cars.md)
@@ -33,7 +33,7 @@ Refugee resettlement agencies say the State Department has given them updated in
 
 ##### Priest
 ### [A priest is arrested and questioned over an alleged drug-induced gay orgy hosted in his apartment in the Vatican City. ](/news/2017/07/5/a-priest-is-arrested-and-questioned-over-an-alleged-drug-induced-gay-orgy-hosted-in-his-apartment-in-the-vatican-city.md)
-_Context: drug, Vatican City, gay, orgy, priest_
+_Context: priest, Vatican City, orgy, gay, drug_
 
 ##### Crime in New York City
 ### [A police shooting occurs in the Bronx, New York, killing one police officer and injuring a bystander. Two officers confront the suspect and shoot him dead. ](/news/2017/07/5/a-police-shooting-occurs-in-the-bronx-new-york-killing-one-police-officer-and-injuring-a-bystander-two-officers-confront-the-suspect-and.md)
@@ -49,11 +49,11 @@ Samoa has a new Head of State. This morning the 50-member Parliament voted unani
 
 ##### Ongoing protests
 ### [Supporters of Venezuelan President Nicols Maduro storm the opposition-controlled National Assembly and injure several lawmakers, including the President of the National Assembly, Julio Borges. Several journalists were also injured in the assault. ](/news/2017/07/5/supporters-of-venezuelan-president-nicolas-maduro-storm-the-opposition-controlled-national-assembly-and-injure-several-lawmakers-including.md)
-_Context: Supporters, National Assembly, Nicols Maduro, Julio Borges, Venezuela, President of the National Assembly, ongoing protests_
+_Context: Julio Borges, Nicols Maduro, President of the National Assembly, Supporters, Venezuela, National Assembly, ongoing protests_
 
 ##### Muqui
 ### [A group of people are arrested in the Peruvian village of Muqui, located in the Andes, after they painted a wall with allusive symbols and messages to the far-left terrorist organization, Shining Path, responsible for crimes against humanity in Peru from 1980 to 1992. Police later clarified that the true intentions of the arrested, some of them students of a technical training institute, were to make a short film. ](/news/2017/07/5/a-group-of-people-are-arrested-in-the-peruvian-village-of-muqui-located-in-the-andes-after-they-painted-a-wall-with-allusive-symbols-and-m.md)
-_Context: Muqui, Shining Path, Peru, crimes against humanity, Andes_
+_Context: Peru, Shining Path, crimes against humanity, Muqui, Andes_
 
 ##### Peru
 ### [The face of the Peruvian Moche mummy the Lady of Cao is reconstructed from its skull structure, using forensic archaeology techniques and ethnographic research. ](/news/2017/07/5/the-face-of-the-peruvian-moche-mummy-the-lady-of-cao-is-reconstructed-from-its-skull-structure-using-forensic-archaeology-techniques-and-et.md)

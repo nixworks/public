@@ -17,11 +17,11 @@ _Context: cross the $1 billion mark, U.S. and Canada, Avatar_
 
 ##### ICC
 ### [Judges at the International Criminal Court rule that Sudan's president Omar al-Bashir could face charges of genocide over the War in Darfur. ](/news/2010/02/3/judges-at-the-international-criminal-court-rule-that-sudan-s-president-omar-al-bashir-could-face-charges-of-genocide-over-the-war-in-darfur.md)
-_Context: Omar al-Bashir, Sudan, conflict, genocide, ICC_
+_Context: conflict, ICC, Sudan, Omar al-Bashir, genocide_
 
 ##### Somali pirates
 ### [Pirates off the coast of Somalia seize a North Korean-flagged cargo ship south of Yemen. ](/news/2010/02/3/pirates-off-the-coast-of-somalia-seize-a-north-korean-flagged-cargo-ship-south-of-yemen.md)
-_Context: Somali pirates, North Korea, Yemen, Somalia_
+_Context: North Korea, Yemen, Somali pirates, Somalia_
 
 ##### NASA
 ### [NASA and Cornell University have given up attempting to move the "Spirit" rover, currently stuck in sand near Home Plate, Gusev crater on the planet Mars, and are converting it into a stationary outpost. Its twin rover, "Opportunity", remains mobile on Mars. ](/news/2010/02/3/nasa-and-cornell-university-have-given-up-attempting-to-move-the-spirit-rover-currently-stuck-in-sand-near-home-plate-gusev-crater-on-th.md)
@@ -29,7 +29,7 @@ NASA’s decision this week to give up trying to move stuck Mars rover Spirit ma
 
 ##### Malaysia
 ### [Malaysian opposition leader Anwar Ibrahim goes on trial in Kuala Lumpur, accused of sodomy. ](/news/2010/02/3/malaysian-opposition-leader-anwar-ibrahim-goes-on-trial-in-kuala-lumpur-accused-of-sodomy.md)
-_Context: trial, Kuala Lumpur, Malaysia, Anwar Ibrahim, sodomy_
+_Context: Malaysia, trial, sodomy, Anwar Ibrahim, Kuala Lumpur_
 
 ##### Darwin
 ### [A man detonates a homemade bomb outside a shopping mall in Darwin, Australia, wounding 15 people. ](/news/2010/02/3/a-man-detonates-a-homemade-bomb-outside-a-shopping-mall-in-darwin-australia-wounding-15-people.md)

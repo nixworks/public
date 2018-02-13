@@ -5,31 +5,31 @@ Formats: [HTML](2005/01/24/index.html)  [JSON](2005/01/24/index.json)  [XML](200
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: A suicide car bomb is detonated near interim Prime Minister Iyad Allawi's Iraqi National Accord party office. Officials say Allawi was not in the area at the time and that seven policemen and three civilians were wounded. U.S. military officials confirm the death of one soldier in Mosul and state four of Iraq's 18 provinces, a quarter of the total population and predominantly Sunni, will be unsafe to vote in Sunday's elections. ](/news/2005/01/24/conflict-in-iraq-a-suicide-car-bomb-is-detonated-near-interim-prime-minister-iyad-allawi-s-iraqi-national-accord-party-office-officials-s.md)
-_Context: legislative election, Mosul, Conflict in Iraq, Iyad Allawi, car bomb, American, Iraqi National Accord, Sunni, Iraq_
+_Context: Conflict in Iraq, legislative election, Iyad Allawi, Iraq, U.S., Sunni, Iraqi National Accord, Mosul, car bomb_
 
 ##### Yulia Tymoshenko
 ### [ Yulia Tymoshenko is appointed Prime Minister of Ukraine as one of President Viktor Yushchenko's first official acts, before a state visit in Moscow. Her post still requires ratification by the Verkhovna Rada, Ukraine's parliament. ](/news/2005/01/24/yulia-tymoshenko-is-appointed-prime-minister-of-ukraine-as-one-of-president-viktor-yushchenko-s-first-official-acts-before-a-state-visit-i.md)
-_Context: Prime Minister of Ukraine, parliament, Yulia Tymoshenko, Viktor Yushchenko, parliament, Moscow, Ukrainian President_
+_Context: Ukrainian President, Moscow, Prime Minister of Ukraine, parliament, Viktor Yushchenko, parliament, Yulia Tymoshenko_
 
 ##### Wall of Names
 ### [ New "Wall of Names" holocaust memorial is unveiled in Paris. The site will be officially opened on Thursday. ](/news/2005/01/24/new-wall-of-names-holocaust-memorial-is-unveiled-in-paris-the-site-will-be-officially-opened-on-thursday.md)
-_Context: holocaust, Paris, Wall of Names_
+_Context: Wall of Names, Paris, holocaust_
 
 ##### Sudan
 ### [ In Sudan, leader of Sudan People's Liberation Army John Garang says that the northern government would have to say why the country should stay united. SPLM leadership is to ratify the peace deal with the Khartoum government later. ](/news/2005/01/24/in-sudan-leader-of-sudan-people-s-liberation-army-john-garang-says-that-the-northern-government-would-have-to-say-why-the-country-should-s.md)
-_Context: Sudan, John Garang, Khartoum, Sudan People's Liberation Army_
+_Context: Khartoum, John Garang, Sudan, Sudan People's Liberation Army_
 
 ##### JP Morgan Chase
 ### [ JP Morgan Chase bank apologizes for its predecessors Canal Bank and Citizens' Bank which accepted slaves as collateral. ](/news/2005/01/24/jp-morgan-chase-bank-apologizes-for-its-predecessors-canal-bank-and-citizens-bank-which-accepted-slaves-as-collateral.md)
-_Context: Citizens' Bank, collateral, Canal Bank, slavery, bank, JP Morgan Chase_
+_Context: Canal Bank, collateral, JP Morgan Chase, Citizens' Bank, bank, slavery_
 
 ##### Kenya
 ### [ In Kenya, attorney general Amos Wako gives an order to drop charges against journalist Kamau Ngotho. Ngotho was charged with libel after he wrote about government corruption. ](/news/2005/01/24/in-kenya-attorney-general-amos-wako-gives-an-order-to-drop-charges-against-journalist-kamau-ngotho-ngotho-was-charged-with-libel-after-he.md)
-_Context: Amos Wako, libel, Kenya, Kamau Ngotho, government corruption, attorney general_
+_Context: attorney general, libel, Kenya, Kamau Ngotho, Amos Wako, government corruption_
 
 ##### South Africa
 ### [ In South Africa, 40 members of the country's parliament will be charged with fraud for using parliamentary travel vouchers worth 17.5 million rand illegally. ](/news/2005/01/24/in-south-africa-40-members-of-the-country-s-parliament-will-be-charged-with-fraud-for-using-parliamentary-travel-vouchers-worth-17-5-milli.md)
-_Context: fraud, parliament, South Africa, rand_
+_Context: rand, South Africa, fraud, parliament_
 
 ##### India
 ### [ In India, priest Sri Jayendra Saraswathi, his deputy Vijayendra Saraswathi and various other people have been charged for murder. Saraswathi has been released on bail after two months in prison and denies involvement. ](/news/2005/01/24/in-india-priest-sri-jayendra-saraswathi-his-deputy-vijayendra-saraswathi-and-various-other-people-have-been-charged-for-murder-saraswath.md)
@@ -37,7 +37,7 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 ##### United Kingdom
 ### [ In the United Kingdom, Alan Roy Williams, a doctor who gave evidence against Sally Clark who was wrongfully convicted of the murder of her two sons, is charged with serious professional misconduct. ](/news/2005/01/24/in-the-united-kingdom-alan-roy-williams-a-doctor-who-gave-evidence-against-sally-clark-who-was-wrongfully-convicted-of-the-murder-of-her.md)
-_Context: Sally Clark, United Kingdom, Alan Roy Williams, murder_
+_Context: murder, Sally Clark, Alan Roy Williams, United Kingdom_
 
 ##### North Korea
 ### [ North Korea has cut its food rations to half the amount that the United Nations World Food Program recommends. U.N. officials say the cut appears temporary and is not unprecedented in a country where fluctuations in public food distribution are regular. ](/news/2005/01/24/north-korea-has-cut-its-food-rations-to-half-the-amount-that-the-united-nations-world-food-program-recommends-u-n-officials-say-the-cut-a.md)
@@ -45,11 +45,11 @@ _Context: United Nations World Food Program, North Korea_
 
 ##### Finland
 ### [ According to Finland-based Crisis Management Initiative group, Free Aceh Movement and the Indonesian government have agreed to negotiate for ceasefire in Helsinki. ](/news/2005/01/24/according-to-finland-based-crisis-management-initiative-group-free-aceh-movement-and-the-indonesian-government-have-agreed-to-negotiate-fo.md)
-_Context: ceasefire, Crisis Management Initiative, Finland, Helsinki, Indonesia, GAM_
+_Context: ceasefire, Indonesia, Helsinki, Finland, Crisis Management Initiative, GAM_
 
 ##### Magnitude
 ### [ A 6.2 Richter scale earthquake in Palu, Central Sulawesi, Indonesia, results in one reported death. ](/news/2005/01/24/a-6-2-richter-scale-earthquake-in-palu-central-sulawesi-indonesia-results-in-one-reported-death.md)
-_Context: Indonesia, magnitude, Central Sulawesi, Palu, earthquake_
+_Context: earthquake, Palu, Central Sulawesi, Indonesia, magnitude_
 
 ## [Previous Day...](/news/2005/01/23/index.md)
 

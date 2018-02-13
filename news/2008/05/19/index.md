@@ -5,11 +5,11 @@ Formats: [HTML](2008/05/19/index.html)  [JSON](2008/05/19/index.json)  [XML](200
 
 ##### Sunni
 ### [ Suspected Sunni insurgents attack a minibus carrying police recruits near the border of Iraq and Syria killing 11 people. ](/news/2008/05/19/suspected-sunni-insurgents-attack-a-minibus-carrying-police-recruits-near-the-border-of-iraq-and-syria-killing-11-people.md)
-_Context: Sunni, Iraq, Syria_
+_Context: Syria, Iraq, Sunni_
 
 ##### Edward Leigh
 ### [ Edward Leigh's attempt to outlaw the creation of human-animal hybrid embryos in the United Kingdom is defeated by 336 votes to 176 in the British House of Commons. ](/news/2008/05/19/edward-leigh-s-attempt-to-outlaw-the-creation-of-human-animal-hybrid-embryos-in-the-united-kingdom-is-defeated-by-336-votes-to-176-in-the-b.md)
-_Context: hybrid, Edward Leigh, British House of Commons, human, animal, embryo, United Kingdom_
+_Context: Edward Leigh, embryo, United Kingdom, animal, British House of Commons, hybrid, human_
 
 ##### United States v. Williams
 ### [ In "United States v. Williams", the Supreme Court of the United States upholds a law making it a crime to send messages over the Internet offering or seeking child pornography even when no such pornography exists. ](/news/2008/05/19/in-united-states-v-williams-the-supreme-court-of-the-united-states-upholds-a-law-making-it-a-crime-to-send-messages-over-the-internet-o.md)
@@ -25,7 +25,7 @@ _Context: attacks on foreigners, South Africa_
 
 ##### Deadly earthquake
 ### [ Xinhua reports that 200 relief workers trying to rescue people in the earthquake have been buried in a mudslide. ](/news/2008/05/19/xinhua-reports-that-200-relief-workers-trying-to-rescue-people-in-the-earthquake-have-been-buried-in-a-mudslide.md)
-_Context: deadly earthquake, Xinhua, mudslide, earthquake_
+_Context: Xinhua, mudslide, deadly earthquake, earthquake_
 
 ##### Calamba City
 ### [ A gunman kills eight people in Calamba City in the Philippines. ](/news/2008/05/19/a-gunman-kills-eight-people-in-calamba-city-in-the-philippines.md)
@@ -33,11 +33,11 @@ _Context: Calamba City, Philippines_
 
 ##### Foreign Minister
 ### [ Foreign Ministers of the member states of ASEAN including Nyan Win of Myanmar meet to discuss Cyclone Nargis. ](/news/2008/05/19/foreign-ministers-of-the-member-states-of-asean-including-nyan-win-of-myanmar-meet-to-discuss-cyclone-nargis.md)
-_Context: Nyan Win, Foreign Minister, Association of Southeast Asian Nations, Myanmar, Cyclone Nargis_
+_Context: Nyan Win, Foreign Minister, Cyclone Nargis, Association of Southeast Asian Nations, Myanmar_
 
 ##### Prime Minister
 ### [ Former Prime Minister of Malaysia, Mahathir Mohamad, tenders his resignation from the country's ruling political party, the United Malays National Organisation (UMNO). ](/news/2008/05/19/former-prime-minister-of-malaysia-mahathir-mohamad-tenders-his-resignation-from-the-country-s-ruling-political-party-the-united-malays-n.md)
-_Context: tenders his resignation, Mahathir Mohamad, Prime Minister, Malaysia, United Malays National Organisation_
+_Context: tenders his resignation, Prime Minister, Mahathir Mohamad, United Malays National Organisation, Malaysia_
 
 ## [Previous Day...](/news/2008/05/18/index.md)
 

@@ -5,19 +5,19 @@ Formats: [HTML](2007/12/9/index.html)  [JSON](2007/12/9/index.json)  [XML](2007/
 
 ##### Shooting at a youth training center
 ### [ Two people are killed and two are injured in a shooting at a youth training center in Arvada Colorado, United States. ](/news/2007/12/9/two-people-are-killed-and-two-are-injured-in-a-shooting-at-a-youth-training-center-in-arvada-colorado-united-states.md)
-_Context: Arvada, American, Colorado, shooting at a youth training center_
+_Context: Colorado, U.S., shooting at a youth training center, Arvada_
 
 ##### Shooting at a church
 ### [ Four people are injured and two are killed after a shooting at a church in Colorado Springs, Colorado, United States. ](/news/2007/12/9/four-people-are-injured-and-two-are-killed-after-a-shooting-at-a-church-in-colorado-springs-colorado-united-states.md)
-_Context: Colorado Springs, Colorado, American, shooting at a church, Colorado_
+_Context: Colorado, U.S., shooting at a church, Colorado Springs, Colorado_
 
 ##### Taliban
 ### [ Taliban fighters in Afghanistan have pulled back to take up new positions defending the town of Musa Qala during a battle with the Afghan National Army and the International Security Assistance Force. ](/news/2007/12/9/taliban-fighters-in-afghanistan-have-pulled-back-to-take-up-new-positions-defending-the-town-of-musa-qala-during-a-battle-with-the-afghan-n.md)
-_Context: International Security Assistance Force, Afghanistan, battle, Musa Qala, Afghan National Army, Taliban_
+_Context: Afghan National Army, Afghanistan, Musa Qala, Taliban, International Security Assistance Force, battle_
 
 ##### Robert Pickton
 ### [ Robert Pickton is found guilty of second-degree murder of six women from Vancouver's Downtown Eastside. ](/news/2007/12/9/robert-pickton-is-found-guilty-of-second-degree-murder-of-six-women-from-vancouver-s-downtown-eastside.md)
-_Context: murder, Vancouver, Robert Pickton, Downtown Eastside_
+_Context: Vancouver, Robert Pickton, murder, Downtown Eastside_
 
 ## [Previous Day...](/news/2007/12/8/index.md)
 

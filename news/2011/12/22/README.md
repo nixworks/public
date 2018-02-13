@@ -7,9 +7,9 @@ Formats: [HTML](2011/12/22/index.html)  [JSON](2011/12/22/index.json)  [XML](201
 ### [At least 72 people are killed and 169 wounded in a series of 16 bombing attacks in the Iraqi capital Baghdad, shortly after the final withdrawal of American forces from Iraq. ](/news/2011/12/22/at-least-72-people-are-killed-and-169-wounded-in-a-series-of-16-bombing-attacks-in-the-iraqi-capital-baghdad-shortly-after-the-final-withdr.md)
 A wave of apparently co-ordinated bomb attacks in the Iraqi capital, Baghdad, kills at least 68 people and injure scores, officials say.
 
-##### American
+##### U.S.
 ### [The United States admits it was significantly responsible for an airstrike last month that killed 24 Pakistani soldiers. ](/news/2011/12/22/the-united-states-admits-it-was-significantly-responsible-for-an-airstrike-last-month-that-killed-24-pakistani-soldiers.md)
-_Context: Pakistan, NATO airstrike, American_
+_Context: U.S., NATO airstrike, Pakistan_
 
 ##### DR Congo
 ### [Killings and coverups are reported to be occurring in the Democratic Republic of the Congo. ](/news/2011/12/22/killings-and-coverups-are-reported-to-be-occurring-in-the-democratic-republic-of-the-congo.md)
@@ -21,11 +21,11 @@ Rights watchdog says security forces tried to hide evidence of the killings whic
 
 ##### Arab League
 ### [The first monitors from the Arab League arrive in Syria to assess the government's crack-down on anti-government demonstrations across the country. ](/news/2011/12/22/the-first-monitors-from-the-arab-league-arrive-in-syria-to-assess-the-government-s-crack-down-on-anti-government-demonstrations-across-the-c.md)
-_Context: 2011 Syrian uprising, Syria, Arab League_
+_Context: Arab League, Syria, 2011 Syrian uprising_
 
 ##### Egypt
 ### [Egypt's military-appointed Prime Minister Kamal Ganzouri calls for national dialogue after weeks of deadly protests against the military regime. ](/news/2011/12/22/egypt-s-military-appointed-prime-minister-kamal-ganzouri-calls-for-national-dialogue-after-weeks-of-deadly-protests-against-the-military-reg.md)
-_Context: Egyptian military, Egypt, Kamal Ganzouri, Prime Minister of Egypt_
+_Context: Kamal Ganzouri, Egyptian military, Egypt, Prime Minister of Egypt_
 
 ##### Dar es Salaam
 ### [Floods hit the city of Dar es Salaam, Tanzania, killing at least 13 people in the nation's worst floods since its independence in 1961. ](/news/2011/12/22/floods-hit-the-city-of-dar-es-salaam-tanzania-killing-at-least-13-people-in-the-nation-s-worst-floods-since-its-independence-in-1961.md)
@@ -41,7 +41,7 @@ An Australian teenager who stabbed an Indian student to death in an attack that 
 
 ##### Teargas
 ### [Teargas is fired and protesters arrested in Haimen, southern China, in a demonstration against the construction of a power plant. ](/news/2011/12/22/teargas-is-fired-and-protesters-arrested-in-haimen-southern-china-in-a-demonstration-against-the-construction-of-a-power-plant.md)
-_Context: Teargas, Haimen, China_
+_Context: Haimen, Teargas, China_
 
 ##### Russia
 ### [Russian President Dmitry Medvedev proposes political reforms at his final state-of-the-nation address. ](/news/2011/12/22/russian-president-dmitry-medvedev-proposes-political-reforms-at-his-final-state-of-the-nation-address.md)

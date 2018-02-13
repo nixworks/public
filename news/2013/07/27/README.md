@@ -17,7 +17,7 @@ _Context: Indianapolis, Indiana_
 
 ##### Benghazi
 ### [More than 1,000 inmates escape from prison in Benghazi, Libya. ](/news/2013/07/27/more-than-1-000-inmates-escape-from-prison-in-benghazi-libya.md)
-_Context: Benghazi, Libya_
+_Context: Libya, Benghazi_
 
 ##### Kuwait
 ### [Voters in Kuwait go to the polls for a general election, with Shiite candidates losing half their parliamentary seats. ](/news/2013/07/27/voters-in-kuwait-go-to-the-polls-for-a-general-election-with-shiite-candidates-losing-half-their-parliamentary-seats.md)

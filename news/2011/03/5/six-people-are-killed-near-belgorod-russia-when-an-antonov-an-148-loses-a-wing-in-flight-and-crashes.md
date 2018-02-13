@@ -16,4 +16,4 @@ Six people are reported to have been killed in Russia after an Antonov-148 plane
 
 ### Related:
 
-1. [An Antonov An-148 of Saratov Airlines with 71 people on board crashes shortly after take-off from Domodedovo Airport, Moscow, Russia. The TASS agency cites an emergency source stating that none of the 65 passengers and 6 crew members have survived. ](/news/2018/02/11/an-antonov-an-148-of-saratov-airlines-with-71-people-on-board-crashes-shortly-after-take-off-from-domodedovo-airport-moscow-russia-the-ta.md) _Context: Antonov An-148_
+1. [An Antonov An-148 of Saratov Airlines with 71 people on board crashes shortly after take-off from Domodedovo Airport, Moscow, Russia. The TASS agency cites an emergency source stating that none of the 65 passengers and 6 crew members has survived. ](/news/2018/02/11/an-antonov-an-148-of-saratov-airlines-with-71-people-on-board-crashes-shortly-after-take-off-from-domodedovo-airport-moscow-russia-the-ta.md) _Context: Antonov An-148_

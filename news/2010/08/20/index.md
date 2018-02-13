@@ -5,7 +5,7 @@ Formats: [HTML](2010/08/20/index.html)  [JSON](2010/08/20/index.json)  [XML](201
 
 ##### Norwegian
 ### [Norwegian stand-up comedian Hans Morten Hansen completes a 38 hours and 14 minute long stand-up marathon, setting a new world record for longest stand-up performance. ](/news/2010/08/20/norwegian-stand-up-comedian-hans-morten-hansen-completes-a-38-hours-and-14-minute-long-stand-up-marathon-setting-a-new-world-record-for-lon.md)
-_Context: stand-up comedian, Norwegian, Hans Morten Hansen_
+_Context: stand-up comedian, Hans Morten Hansen, Norwegian_
 
 ##### The Swell Season
 ### [A spectator commits suicide during a concert by The Swell Season in the U.S. state of California. ](/news/2010/08/20/a-spectator-commits-suicide-during-a-concert-by-the-swell-season-in-the-u-s-state-of-california.md)
@@ -17,11 +17,11 @@ _Context: John Carey, James Tait Black Memorial Prize, A. S. Byatt_
 
 ##### A. S. Byatt
 ### [A. S. Byatt criticises the Orange Prize as "sexist" and says women who write intellectual books are viewed as "unnatural". ](/news/2010/08/20/a-s-byatt-criticises-the-orange-prize-as-sexist-and-says-women-who-write-intellectual-books-are-viewed-as-unnatural.md)
-_Context: A. S. Byatt, Orange Prize_
+_Context: Orange Prize, A. S. Byatt_
 
 ##### J. D. Salinger
 ### [J. D. Salinger's toilet is put on sale on eBay for $1 million. ](/news/2010/08/20/j-d-salinger-s-toilet-is-put-on-sale-on-ebay-for-1-million.md)
-_Context: eBay, J. D. Salinger_
+_Context: J. D. Salinger, eBay_
 
 ##### Mr Benn
 ### [Mr Benn is reprinted for the first time in 30 years. ](/news/2010/08/20/mr-benn-is-reprinted-for-the-first-time-in-30-years.md)
@@ -61,15 +61,15 @@ Palestinians warn negotiations would be threatened if building on occupied land 
 
 ##### Canada Post
 ### [Canada Post advises customers that it cannot accept mail to Gaza until further notice. Israel Post continues to inform postal services around the world that mail service to Gaza is unavailable. ](/news/2010/08/20/canada-post-advises-customers-that-it-cannot-accept-mail-to-gaza-until-further-notice-israel-post-continues-to-inform-postal-services-aroun.md)
-_Context: Canada Post, Israel Post, Gaza Strip_
+_Context: Israel Post, Gaza Strip, Canada Post_
 
 ##### President
 ### [President of Iran Mahmoud Ahmadinejad rejects calls from the United Nations Security Council to stop all uranium enrichment but promises to stop high level enrichment if the country is assured of uranium for a research reactor. ](/news/2010/08/20/president-of-iran-mahmoud-ahmadinejad-rejects-calls-from-the-united-nations-security-council-to-stop-all-uranium-enrichment-but-promises-to.md)
-_Context: uranium, Mahmoud Ahmadinejad, President, uranium enrichment, United Nations Security Council, nuclear-powered_
+_Context: Mahmoud Ahmadinejad, United Nations Security Council, President, uranium enrichment, nuclear-powered, uranium_
 
 ##### Hillary Clinton
 ### [Hillary Clinton, the United States Secretary of State, states that the United States "categorically disagrees" with the decision of the Scottish Government to release on compassionate grounds Abdelbaset al-Megrahi, the man convicted of bombing Pan Am Flight 103. ](/news/2010/08/20/hillary-clinton-the-united-states-secretary-of-state-states-that-the-united-states-categorically-disagrees-with-the-decision-of-the-scot.md)
-_Context: United States Secretary of State, American, Scottish Government, Abdelbaset al-Megrahi, Lockerbie bombing, Hillary Clinton_
+_Context: Lockerbie bombing, Scottish Government, Abdelbaset al-Megrahi, United States Secretary of State, Hillary Clinton, U.S._
 
 ##### Mexican
 ### [6 police officers in Mexico are arrested and accused of participating in the kidnap and murder of Mayor Edelmiro Cavazos. ](/news/2010/08/20/6-police-officers-in-mexico-are-arrested-and-accused-of-participating-in-the-kidnap-and-murder-of-mayor-edelmiro-cavazos.md)
@@ -109,15 +109,15 @@ The last of the three inmates who escaped from an Arizona prison was captured wi
 
 ##### NCsoft
 ### [A man sues game-maker NCsoft, stating he would not have begun to play one of their games, Lineage II, if he had known it was addictive and claims it has left him unable to function. ](/news/2010/08/20/a-man-sues-game-maker-ncsoft-stating-he-would-not-have-begun-to-play-one-of-their-games-lineage-ii-if-he-had-known-it-was-addictive-and-c.md)
-_Context: NCsoft, Lineage II_
+_Context: Lineage II, NCsoft_
 
 ##### Prime Minister
 ### [The two major political coalitions name their candidates for Prime Minister of the Solomon Islands following the general election: Steve Abana, the leader of the Democratic Party, and Danny Philip, the former Foreign Minister. ](/news/2010/08/20/the-two-major-political-coalitions-name-their-candidates-for-prime-minister-of-the-solomon-islands-following-the-general-election-steve-aba.md)
-_Context: Prime Minister, Democratic Party, Danny Philip, Steve Abana, Foreign Minister, Solomon Islands, 2010 general election_
+_Context: Foreign Minister, Steve Abana, Danny Philip, Prime Minister, 2010 general election, Democratic Party, Solomon Islands_
 
 ##### Wyclef Jean
 ### [Musician Wyclef Jean is reportedly omitted from the list of candidates for the Haitian presidential election. ](/news/2010/08/20/musician-wyclef-jean-is-reportedly-omitted-from-the-list-of-candidates-for-the-haitian-presidential-election.md)
-_Context: presidential election, Haiti, Wyclef Jean_
+_Context: Haiti, Wyclef Jean, presidential election_
 
 ##### Osh
 ### [Thousands of people rally in support of the mayor of Osh after rumours of his firing by Kyrgyzstan's interim government circulate. ](/news/2010/08/20/thousands-of-people-rally-in-support-of-the-mayor-of-osh-after-rumours-of-his-firing-by-kyrgyzstan-s-interim-government-circulate.md)
@@ -129,11 +129,11 @@ The Indian cabinet clears a proposal to raise the salaries of members of parliam
 
 ##### United States military
 ### [The Pentagon vows to prevent "internal threats" in the United States. ](/news/2010/08/20/the-pentagon-vows-to-prevent-internal-threats-in-the-united-states.md)
-_Context: American, United States military_
+_Context: U.S., United States military_
 
 ##### Benin
 ### [More than half of politicians in Benin call for impeachment proceedings against President Boni Yayi over his involvement in a Ponzi scheme. ](/news/2010/08/20/more-than-half-of-politicians-in-benin-call-for-impeachment-proceedings-against-president-boni-yayi-over-his-involvement-in-a-ponzi-scheme.md)
-_Context: Boni Yayi, Ponzi scheme, impeachment, Benin_
+_Context: Benin, Ponzi scheme, Boni Yayi, impeachment_
 
 ##### India
 ### [India approves a draft law intended to open its civilian nuclear power industry to private investment. ](/news/2010/08/20/india-approves-a-draft-law-intended-to-open-its-civilian-nuclear-power-industry-to-private-investment.md)
@@ -149,7 +149,7 @@ _Context: recent election_
 
 ##### Only by focused light
 ### [The world's first solar-diesel power station opens in Marble Bar, Western Australia. ](/news/2010/08/20/the-world-s-first-solar-diesel-power-station-opens-in-marble-bar-western-australia.md)
-_Context: diesel fuel, Western Australia, power station, only by focused light, Marble Bar_
+_Context: only by focused light, Western Australia, Marble Bar, power station, diesel fuel_
 
 ## [Previous Day...](/news/2010/08/19/index.md)
 

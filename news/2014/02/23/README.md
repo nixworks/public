@@ -5,7 +5,7 @@ Formats: [HTML](2014/02/23/index.html)  [JSON](2014/02/23/index.json)  [XML](201
 
 ##### Viktor Yanukovych
 ### [Former Ukrainian President Viktor Yanukovych is blocked by Ukraine's customs in Donetsk from taking a plane to Russia. ](/news/2014/02/23/former-ukrainian-president-viktor-yanukovych-is-blocked-by-ukraine-s-customs-in-donetsk-from-taking-a-plane-to-russia.md)
-_Context: Viktor Yanukovych, Donetsk_
+_Context: Donetsk, Viktor Yanukovych_
 
 ##### Khao Saming District
 ### [At least two people have been killed and 41 injured in an attack on an opposition rally in the Khao Saming District in Trat Province. ](/news/2014/02/23/at-least-two-people-have-been-killed-and-41-injured-in-an-attack-on-an-opposition-rally-in-the-khao-saming-district-in-trat-province.md)

@@ -13,7 +13,7 @@ Paramount tells theaters no &#8216;Team America: World Police&#8217;
 
 ##### Staples
 ### [Staples reports that 1.16 million customer payment cards may have been affected in a data breach under investigation since October. ](/news/2014/12/19/staples-reports-that-1-16-million-customer-payment-cards-may-have-been-affected-in-a-data-breach-under-investigation-since-october.md)
-_Context: payment cards, Staples_
+_Context: Staples, payment cards_
 
 ##### Vietnamese
 ### [A Vietnam official states that twelve Vietnamese workers have been rescued three days after being trapped in a collapsed tunnel at a construction site of a hydropower plant located in Central Highlands. ](/news/2014/12/19/a-vietnam-official-states-that-twelve-vietnamese-workers-have-been-rescued-three-days-after-being-trapped-in-a-collapsed-tunnel-at-a-constru.md)
@@ -25,7 +25,7 @@ A volcano in eastern Indonesia erupted today, spewing towering clouds of hot ash
 
 ##### Centers for Disease Control and Prevention
 ### [The Centers for Disease Control and Prevention (CDC) links prepackaged caramel apples to the listeria outbreak in ten US states that caused twenty-eight illnesses and four (or five) deaths. ](/news/2014/12/19/the-centers-for-disease-control-and-prevention-cdc-links-prepackaged-caramel-apples-to-the-listeria-outbreak-in-ten-us-states-that-caused.md)
-_Context: Centers for Disease Control and Prevention, listeria, caramel apple_
+_Context: listeria, Centers for Disease Control and Prevention, caramel apple_
 
 ##### Centers for Disease Control and Prevention
 ### [The CDC reports that for the US flu season cases are early and pervasive being widespread in 29 states, especially the South and Midwest. ](/news/2014/12/19/the-cdc-reports-that-for-the-us-flu-season-cases-are-early-and-pervasive-being-widespread-in-29-states-especially-the-south-and-midwest.md)
@@ -41,7 +41,7 @@ Victims aged from 18 months to 15 years were all from same family, with mother b
 
 ##### Hong Kong
 ### [A Hong Kong jury convicts former Hong Kong Chief Secretary Rafael Hui of bribery charges in relation to misconduct in office. ](/news/2014/12/19/a-hong-kong-jury-convicts-former-hong-kong-chief-secretary-rafael-hui-of-bribery-charges-in-relation-to-misconduct-in-office.md)
-_Context: Rafael Hui, Chief Secretary, misconduct in office, Hong Kong_
+_Context: Rafael Hui, Chief Secretary, Hong Kong, misconduct in office_
 
 ##### LGBT rights in China
 ### [In China, a court rules in favor of a gay man who sued a Chongqing electroconvulsive therapy clinic that practises conversion therapy. ](/news/2014/12/19/in-china-a-court-rules-in-favor-of-a-gay-man-who-sued-a-chongqing-electroconvulsive-therapy-clinic-that-practises-conversion-therapy.md)
@@ -49,7 +49,7 @@ In a landmark case for gay rights in China, a court has ruled in favor of a man 
 
 ##### South Korea
 ### [A South Korean court orders the dissolution of the Unified Progressive Party citing pro-North Korean stances. ](/news/2014/12/19/a-south-korean-court-orders-the-dissolution-of-the-unified-progressive-party-citing-pro-north-korean-stances.md)
-_Context: Unified Progressive Party, North Korea, South Korea_
+_Context: Unified Progressive Party, South Korea, North Korea_
 
 ##### Vermont
 ### [Governor of Vermont Peter Shumlin abandons plans for the first single-payer health care system in the United States, citing transparency problems and heavy tax increases. ](/news/2014/12/19/governor-of-vermont-peter-shumlin-abandons-plans-for-the-first-single-payer-health-care-system-in-the-united-states-citing-transparency-pro.md)

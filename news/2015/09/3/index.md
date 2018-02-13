@@ -25,7 +25,7 @@ _Context: Otto Prez Molina, Alejandro Maldonado, Guatemalan President_
 
 ##### 2015 Bangkok bombing
 ### [Another suspect in the bombing is arrested in Narathiwat Province in southern Thailand and flown to Bangkok. ](/news/2015/09/3/another-suspect-in-the-bombing-is-arrested-in-narathiwat-province-in-southern-thailand-and-flown-to-bangkok.md)
-_Context: Thailand, Narathiwat, Bangkok, 2015 Bangkok bombing_
+_Context: Thailand, 2015 Bangkok bombing, Narathiwat, Bangkok_
 
 ##### Kim Davis
 ### [Kim Davis, the Rowan County, Kentucky, clerk, is jailed for contempt of court for continuing to refuse, on grounds of religious freedom, to issue marriage licenses to same-sex couples per U.S. District Judge David Bunning's August 12, 2015, order. The deputy clerks are ordered to issue these licenses. ](/news/2015/09/3/kim-davis-the-rowan-county-kentucky-clerk-is-jailed-for-contempt-of-court-for-continuing-to-refuse-on-grounds-of-religious-freedom-to.md)

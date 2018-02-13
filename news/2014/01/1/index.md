@@ -21,7 +21,7 @@ Latvia begins the new year by joining the eurozone, becoming the 18th member of 
 
 ##### Cedar-Riverside
 ### [A three-story building, housing apartments and a grocery store, explodes and burns in the Cedar-Riverside neighborhood of Minneapolis, Minnesota, injuring 13 people, some critically. ](/news/2014/01/1/a-three-story-building-housing-apartments-and-a-grocery-store-explodes-and-burns-in-the-cedar-riverside-neighborhood-of-minneapolis-minne.md)
-_Context: Minnesota, Cedar-Riverside, Minneapolis_
+_Context: Cedar-Riverside, Minnesota, Minneapolis_
 
 ##### Indonesia
 ### [Indonesia's Sinabung volcano erupts, displacing more than 19,000 people. ](/news/2014/01/1/indonesia-s-sinabung-volcano-erupts-displacing-more-than-19-000-people.md)
@@ -35,7 +35,7 @@ The Palestinian ambassador to Prague was killed on Wednesday in an explosion tha
 ### [Catholic priest Rev. Eric Freed was found bludgeoned to death in the rectory of his church in Eureka, California. Suspect Gary Lee Bullock was arrested, and had been jailed, hospitalized and released due to erratic behavior just before the killing. Freed was named by the Vatican as one of 22 Catholic priests and religious who were killed during 2013 ](/news/2014/01/1/catholic-priest-rev-eric-freed-was-found-bludgeoned-to-death-in-the-rectory-of-his-church-in-eureka-california-suspect-gary-lee-bullock-w.md)
 ##### Addicts
 ### [Recreational marijuana stores open in Colorado. ](/news/2014/01/1/recreational-marijuana-stores-open-in-colorado.md)
-_Context: Colorado, addicts, marijuana_
+_Context: marijuana, Colorado, addicts_
 
 ##### Bill de Blasio
 ### [Bill de Blasio is sworn in as the 109th Mayor of New York City. ](/news/2014/01/1/bill-de-blasio-is-sworn-in-as-the-109th-mayor-of-new-york-city.md)

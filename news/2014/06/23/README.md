@@ -5,15 +5,15 @@ Formats: [HTML](2014/06/23/index.html)  [JSON](2014/06/23/index.json)  [XML](201
 
 ##### Pakistan
 ### [Pakistani forces conduct airstrikes on terrorist hideouts in North Waziristan, killing 25 militants. ](/news/2014/06/23/pakistani-forces-conduct-airstrikes-on-terrorist-hideouts-in-north-waziristan-killing-25-militants.md)
-_Context: Pakistan, North Waziristan_
+_Context: North Waziristan, Pakistan_
 
 ##### Israeli Air Force
 ### [Israeli Air Force planes carry out a series of air strikes in Syria following an attack on Sunday that caused the death of an Israeli teenager. ](/news/2014/06/23/israeli-air-force-planes-carry-out-a-series-of-air-strikes-in-syria-following-an-attack-on-sunday-that-caused-the-death-of-an-israeli-teenag.md)
-_Context: Syria, Israeli Air Force_
+_Context: Israeli Air Force, Syria_
 
 ##### Syria
 ### [Syria hands over its remaining 100 tonnes of its declared chemical weapons to the United Nations Organisation for the Prohibition of Chemical Weapons but the organisation cannot declare that the country no longer has any such weapons. ](/news/2014/06/23/syria-hands-over-its-remaining-100-tonnes-of-its-declared-chemical-weapons-to-the-united-nations-organisation-for-the-prohibition-of-chemica.md)
-_Context: United Nations, chemical weapons, Syria, Organisation for the Prohibition of Chemical Weapons_
+_Context: chemical weapons, Organisation for the Prohibition of Chemical Weapons, Syria, United Nations_
 
 ##### Kano
 ### [An explosion at a public health school in the city of Kano in northern Nigeria kills at least 12 people. ](/news/2014/06/23/an-explosion-at-a-public-health-school-in-the-city-of-kano-in-northern-nigeria-kills-at-least-12-people.md)

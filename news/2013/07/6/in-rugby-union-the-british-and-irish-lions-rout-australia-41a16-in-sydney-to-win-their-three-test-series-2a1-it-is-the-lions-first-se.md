@@ -11,8 +11,8 @@ The British and Irish Lions secure a first series win in 16 years with a dominan
 
 ### Sources:
 
-1. [BBC Sport](http://www.bbc.co.uk/sport/0/rugby-union/23210389)
-1. [Cover Image](http://ichef.bbci.co.uk/onesport/cps/624/mcs/media/images/68585000/jpg/_68585277_lions134.jpg)
+1. [BBC Sport](https://www.bbc.co.uk/sport/0/rugby-union/23210389)
+1. [Cover Image](https://ichef.bbci.co.uk/onesport/cps/624/mcs/media/images/68585000/jpg/_68585277_lions134.jpg)
 
 ### Changes:
 

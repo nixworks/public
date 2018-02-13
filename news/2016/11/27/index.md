@@ -9,7 +9,7 @@ The Syrian army said it had taken control of an important district in rebel-held
 
 ##### Turkey-ISIL conflict
 ### [Turkish Armed Forces claim that an Islamic State of Iraq and the Levant rocket attack on Turkish-backed Syrian rebel forces caused symptoms of chemical weapons in 22 soldiers. ](/news/2016/11/27/turkish-armed-forces-claim-that-an-islamic-state-of-iraq-and-the-levant-rocket-attack-on-turkish-backed-syrian-rebel-forces-caused-symptoms.md)
-_Context: ISIL, Turkish troops, Turkey-ISIL conflict, Syria_
+_Context: Syria, ISIL, Turkey-ISIL conflict, Turkish troops_
 
 ##### Spillover of the Syrian Civil War
 ### [An Israeli Army patrol kills four ISIL-affiliated militants after they open fire from positions in Syria near the Golan Heights. ](/news/2016/11/27/an-israeli-army-patrol-kills-four-isil-affiliated-militants-after-they-open-fire-from-positions-in-syria-near-the-golan-heights.md)
@@ -41,7 +41,7 @@ Francois Fillon looks set to win the French Republican primaries.
 
 ##### Swiss referendums, 2016
 ### [In a referendum, Switzerland rejects a proposal to abolish commercial nuclear power by 2029. ](/news/2016/11/27/in-a-referendum-switzerland-rejects-a-proposal-to-abolish-commercial-nuclear-power-by-2029.md)
-_Context: Swiss referendums, 2016, Switzerland, nuclear power_
+_Context: Switzerland, nuclear power, Swiss referendums, 2016_
 
 ##### 2016 United States presidential election recount and audit
 ### [The campaign of Republican president-elect Donald Trump has called the planned recounts by Green nominee Jill Stein's campaign in Wisconsin, Pennsylvania and Michigan a "scam" and has criticized the participation of the campaign of Democratic candidate Hillary Clinton. ](/news/2016/11/27/the-campaign-of-republican-presidentaelect-donald-trump-has-called-the-planned-recounts-by-green-nominee-jill-stein-s-campaign-in-wisconsi.md)

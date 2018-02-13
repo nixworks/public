@@ -5,11 +5,11 @@ Formats: [HTML](2007/07/30/index.html)  [JSON](2007/07/30/index.json)  [XML](200
 
 ##### Juan Manuel Santos
 ### [ Juan Manuel Santos, the Defense Minister of Colombia, claims that the military has been infiltrated by FARC and drug gangs. ](/news/2007/07/30/juan-manuel-santos-the-defense-minister-of-colombia-claims-that-the-military-has-been-infiltrated-by-farc-and-drug-gangs.md)
-_Context: Colombia, FARC, Juan Manuel Santos_
+_Context: Colombia, Juan Manuel Santos, FARC_
 
 ##### FBI
 ### [ Agents from the Federal Bureau of Investigation and Internal Revenue Service search the house of Senator Ted Stevens in Girdwood, Alaska. ](/news/2007/07/30/agents-from-the-federal-bureau-of-investigation-and-internal-revenue-service-search-the-house-of-senator-ted-stevens-in-girdwood-alaska.md)
-_Context: United States Senate, FBI, Ted Stevens, Girdwood, Alaska, Internal Revenue Service_
+_Context: FBI, Ted Stevens, Internal Revenue Service, United States Senate, Girdwood, Alaska_
 
 ##### United States Secretary of State
 ### [ The United States Secretary of State Condoleezza Rice and the United States Secretary of Defense Robert Gates travel to the Middle East to offer increased aid to allies of the United States and to seek advice on Iraq. ](/news/2007/07/30/the-united-states-secretary-of-state-condoleezza-rice-and-the-united-states-secretary-of-defense-robert-gates-travel-to-the-middle-east-to.md)
@@ -21,11 +21,11 @@ Thousands of Egyptian riot police have clashed with Bedouin protesting against t
 
 ##### Palestinian Authority President
 ### [ The Palestinian President Mahmoud Abbas travels to Moscow seeking Russian support. ](/news/2007/07/30/the-palestinian-president-mahmoud-abbas-travels-to-moscow-seeking-russian-support.md)
-_Context: Palestinian Authority President, Russia, Mahmoud Abbas, Moscow_
+_Context: Mahmoud Abbas, Moscow, Palestinian Authority President, Russia_
 
 ##### IAEA
 ### [ International Atomic Energy Agency inspectors visit the Arak heavy-water reactor site in Iran. ](/news/2007/07/30/international-atomic-energy-agency-inspectors-visit-the-arak-heavy-water-reactor-site-in-iran.md)
-_Context: IAEA, Iran, Arak_
+_Context: Iran, Arak, IAEA_
 
 ##### Chief Justice
 ### [ The Chief Justice of the United States John Roberts is hospitalized after suffering a seizure at his summer home in Maine. ](/news/2007/07/30/the-chief-justice-of-the-united-states-john-roberts-is-hospitalized-after-suffering-a-seizure-at-his-summer-home-in-maine.md)
@@ -37,7 +37,7 @@ Prime Minister Gordon Brown of Britain indicated that he mostly shared President
 
 ##### Islam
 ### [ Islamic militants occupy a shrine in a tribal area of Pakistan and name it after the Lal Masjid in Islamabad recently stormed by the Pakistan army. ](/news/2007/07/30/islamic-militants-occupy-a-shrine-in-a-tribal-area-of-pakistan-and-name-it-after-the-lal-masjid-in-islamabad-recently-stormed-by-the-pakist.md)
-_Context: shrine, Islam, tribal area, Islamabad, Pakistan, Lal Masjid_
+_Context: Islam, tribal area, Lal Masjid, Islamabad, Pakistan, shrine_
 
 ##### Czech Republic
 ### [ A 15th village in the Czech Republic rejects by referendum the US plan to place anti-ballistic missiles at a nearby military base. The vote was 97% against the plan, however, the vote is non-binding on the national government. ](/news/2007/07/30/a-15th-village-in-the-czech-republic-rejects-by-referendum-the-us-plan-to-place-anti-ballistic-missiles-at-a-nearby-military-base-the-vote.md)
@@ -61,7 +61,7 @@ A meeting of Victoria&#039;s Labor Caucus has named John Brumby as the state&#03
 
 ##### Miner
 ### [ Sixty-nine miners are trapped in a flooded coal mine in Henan province in central China. ](/news/2007/07/30/sixty-nine-miners-are-trapped-in-a-flooded-coal-mine-in-henan-province-in-central-china.md)
-_Context: Henan, coal mine, miner, flood, China_
+_Context: Henan, miner, China, flood, coal mine_
 
 ##### Ivory Coast
 ### [ The President of the Ivory Coast Laurent Gbagbo visits the former rebel held north for the first time since 2002 where stockpiled weapons will be burnt as a symbol of reconciliation after the end of an uprising. ](/news/2007/07/30/the-president-of-the-ivory-coast-laurent-gbagbo-visits-the-former-rebel-held-north-for-the-first-time-since-2002-where-stockpiled-weapons-w.md)

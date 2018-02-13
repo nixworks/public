@@ -5,11 +5,11 @@ Formats: [HTML](2010/11/5/index.html)  [JSON](2010/11/5/index.json)  [XML](2010/
 
 ##### A suicide bomber kills
 ### [A suicide bomber kills at least 50 people and injures around 90 in a mosque near Darra Adam Khel region, 30 kilometers from Peshawar, the capital of Khyber Pakhtunkhwa province of Pakistan. ](/news/2010/11/5/a-suicide-bomber-kills-at-least-50-people-and-injures-around-90-in-a-mosque-near-darra-adam-khel-region-30-kilometers-from-peshawar-the-ca.md)
-_Context: Pakistan, Northwestern Pakistan, Darra Adam Khel, Peshawar, A suicide bomber kills_
+_Context: A suicide bomber kills, Northwestern Pakistan, Peshawar, Pakistan, Darra Adam Khel_
 
 ##### Sindh
 ### [At least five people are killed after two clans clash in Sindh's Khanur Mahar region of Pakistan. ](/news/2010/11/5/at-least-five-people-are-killed-after-two-clans-clash-in-sindh-s-khanur-mahar-region-of-pakistan.md)
-_Context: Khanur Mahar, Sindh_
+_Context: Sindh, Khanur Mahar_
 
 ##### Al-Qaida
 ### [Al-Qaeda in the Arabian Peninsula claims responsibility for the cargo plane bomb plot of October 29, 2010 and a September UPS plane crash in Dubai. ](/news/2010/11/5/al-qaeda-in-the-arabian-peninsula-claims-responsibility-for-the-cargo-plane-bomb-plot-of-october-29-2010-and-a-september-ups-plane-crash-in.md)
@@ -21,7 +21,7 @@ Members of the National Union of Journalists working for BBC News take industria
 
 ##### MSNBC
 ### [MSNBC suspends U.S. television pundit Keith Olbermann indefinitely for making political donations to three Democratic Party candidates. ](/news/2010/11/5/msnbc-suspends-u-s-television-pundit-keith-olbermann-indefinitely-for-making-political-donations-to-three-democratic-party-candidates.md)
-_Context: political donation, Keith Olbermann, Democrat, MSNBC_
+_Context: MSNBC, Democrat, political donation, Keith Olbermann_
 
 ##### Ready Steady Cook
 ### ["Ready Steady Cook", thought to be the longest running cookery show currently on television, is axed by the BBC. ](/news/2010/11/5/ready-steady-cook-thought-to-be-the-longest-running-cookery-show-currently-on-television-is-axed-by-the-bbc.md)
@@ -37,7 +37,7 @@ Federal Reserve Bank of Kansas City President Thomas Hoenig said the central ban
 
 ##### Mount Merapi volcanic eruption
 ### [The death toll from the Mount Merapi eruption in Indonesia rises to 122 as at least 78 bodies were removed from homes and streets blanketed by ash up to 30-centimeters deep. ](/news/2010/11/5/the-death-toll-from-the-mount-merapi-eruption-in-indonesia-rises-to-122-as-at-least-78-bodies-were-removed-from-homes-and-streets-blanketed.md)
-_Context: Indonesia, Mount Merapi volcanic eruption_
+_Context: Mount Merapi volcanic eruption, Indonesia_
 
 ##### Aero Caribbean
 ### [An Aero Caribbean passenger plane crashes in the central Cuban province of Sancti Spritus, killing all 68 on board. ](/news/2010/11/5/an-aero-caribbean-passenger-plane-crashes-in-the-central-cuban-province-of-sancti-spiritus-killing-all-68-on-board.md)
@@ -49,11 +49,11 @@ At least 21 people, including some foreign nationals, were feared killed when a 
 
 ##### East China
 ### [12 people are dead after a 41-vehicle traffic accident on an expressway in East China's Jiangxi province. ](/news/2010/11/5/12-people-are-dead-after-a-41-vehicle-traffic-accident-on-an-expressway-in-east-china-s-jiangxi-province.md)
-_Context: East China, Jiangxi_
+_Context: Jiangxi, East China_
 
 ##### Haiti
 ### [At least one person dies in Haiti from flooding caused by Hurricane Tomas, adding to the fourteen people who died in Saint Lucia. ](/news/2010/11/5/at-least-one-person-dies-in-haiti-from-flooding-caused-by-hurricane-tomas-adding-to-the-fourteen-people-who-died-in-saint-lucia.md)
-_Context: flood, Saint Lucia, Tropical Storm Tomas, Haiti_
+_Context: Haiti, Saint Lucia, Tropical Storm Tomas, flood_
 
 ##### Falls on a train
 ### [A concrete mixer lorry falls on a train near Oxshott, England. ](/news/2010/11/5/a-concrete-mixer-lorry-falls-on-a-train-near-oxshott-england.md)
@@ -73,11 +73,11 @@ Greece resumed the shipment of all mail and packages abroad after midnight on Fr
 
 ##### Government of Norway
 ### [The Government of Norway demands an explanation from the US Government on reports that the US embassy in Oslo conducted illegal surveillance on Norwegian citizens for more than ten years. ](/news/2010/11/5/the-government-of-norway-demands-an-explanation-from-the-us-government-on-reports-that-the-us-embassy-in-oslo-conducted-illegal-surveillance.md)
-_Context: United States government, Norway, American, Oslo, Government of Norway_
+_Context: Norway, Government of Norway, United States government, Oslo, U.S._
 
 ##### Peru
 ### [A Peruvian judge orders that United States born militant Lori Berenson be released from prison in Lima. ](/news/2010/11/5/a-peruvian-judge-orders-that-united-states-born-militant-lori-berenson-be-released-from-prison-in-lima.md)
-_Context: Lori Berenson, American, Peru, Lima_
+_Context: Lima, Lori Berenson, U.S., Peru_
 
 ##### Mexican
 ### [Mexican drug cartel leader Ezequiel Cardenas Guilln is shot dead by Mexican security forces in Matamoros following a gun fight of several hours. ](/news/2010/11/5/mexican-drug-cartel-leader-ezequiel-cardenas-guillen-is-shot-dead-by-mexican-security-forces-in-matamoros-following-a-gun-fight-of-several-h.md)
@@ -101,7 +101,7 @@ Nigel Farage is re-elected as leader of the UK Independence Party, replacing Lor
 
 ##### France
 ### [A protest by French anti-nuclear organisation GANVA blocks a train carrying nuclear waste near Caen in northwestern France. ](/news/2010/11/5/a-protest-by-french-anti-nuclear-organisation-ganva-blocks-a-train-carrying-nuclear-waste-near-caen-in-northwestern-france.md)
-_Context: GANVA, France, Caen, nuclear waste_
+_Context: GANVA, France, nuclear waste, Caen_
 
 ##### Presidency
 ### [The President of Tanzania Jakaya Kikwete is reelected to a second term despite allegations of vote-rigging. ](/news/2010/11/5/the-president-of-tanzania-jakaya-kikwete-is-reelected-to-a-second-term-despite-allegations-of-vote-rigging.md)

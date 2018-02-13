@@ -17,7 +17,7 @@ _Context: South Korean Navy, Northern Limit Line, North Korea, fishing boat_
 
 ##### Singapore
 ### [A Singapore court convicts British author Alan Shadrake of insulting the judicial system in his book "Once a Jolly Hangman: Singapore Justice in the Dock". ](/news/2010/11/3/a-singapore-court-convicts-british-author-alan-shadrake-of-insulting-the-judicial-system-in-his-book-once-a-jolly-hangman-singapore-justic.md)
-_Context: United Kingdom, Singapore, Alan Shadrake, judicial system_
+_Context: Alan Shadrake, United Kingdom, judicial system, Singapore_
 
 ##### Dublin
 ### [At least 25,000 students take to the streets of Dublin to protest against rising emigration, unemployment and an increase in university fees, in the largest such demonstration for a generation. ](/news/2010/11/3/at-least-25-000-students-take-to-the-streets-of-dublin-to-protest-against-rising-emigration-unemployment-and-an-increase-in-university-fees.md)
@@ -29,7 +29,7 @@ _Context: BHP Billiton, Canadian government, Potash Corporation_
 
 ##### United States Federal Reserve
 ### [The United States Federal Reserve announces its plan for further quantitative easing in a bid to ward off deflation. ](/news/2010/11/3/the-united-states-federal-reserve-announces-its-plan-for-further-quantitative-easing-in-a-bid-to-ward-off-deflation.md)
-_Context: deflation, quantitative easing, United States Federal Reserve_
+_Context: deflation, United States Federal Reserve, quantitative easing_
 
 ##### Iceland
 ### [The central bank of Iceland, i.e. the Sedlabanki, cuts its key interest rate to 5.50 percent, a somewhat deeper cut than had been expected. This is part of an ongoing policy of expanding the money supply in response to the crisis of 2008. ](/news/2010/11/3/the-central-bank-of-iceland-i-e-the-sedlabanki-cuts-its-key-interest-rate-to-5-50-percent-a-somewhat-deeper-cut-than-had-been-expected.md)
@@ -49,7 +49,7 @@ A new round of talks is scheduled to attempt to break an impasse in the dispute 
 
 ##### NATO
 ### [NATO's Secretary General Anders Fogh Rasmussen is to visit Russia to discuss the European missile defence project with President Medvedev. ](/news/2010/11/3/nato-s-secretary-general-anders-fogh-rasmussen-is-to-visit-russia-to-discuss-the-european-missile-defence-project-with-president-medvedev.md)
-_Context: NATO, Russia, Anders Fogh Rasmussen_
+_Context: NATO, Anders Fogh Rasmussen, Russia_
 
 ##### David Tamihere
 ### [David Tamihere is granted parole after serving 20 years imprisonment for the 1989 murders of two Swedish backpackers in New Zealand. ](/news/2010/11/3/david-tamihere-is-granted-parole-after-serving-20-years-imprisonment-for-the-1989-murders-of-two-swedish-backpackers-in-new-zealand.md)
@@ -65,7 +65,7 @@ San Francisco has become the first major U.S. city to pass a law that cracks dow
 
 ##### U.S. Border Patrol
 ### [The United States Border Patrol finds a sophisticated tunnel between Tijuana in Mexico and Otay Mesa, California, used by drug smugglers. ](/news/2010/11/3/the-united-states-border-patrol-finds-a-sophisticated-tunnel-between-tijuana-in-mexico-and-otay-mesa-california-used-by-drug-smugglers.md)
-_Context: drug smuggling, California, Tijuana, U.S. Border Patrol, Otay Mesa, Mexican_
+_Context: Mexican, U.S. Border Patrol, drug smuggling, Tijuana, Otay Mesa, California_
 
 ##### Constitutional referendum results
 ### [Constitutional referendum results in Niger show that 90% of voters approve a return to civilian rule from the Supreme Council for the Restoration of Democracy military junta. ](/news/2010/11/3/constitutional-referendum-results-in-niger-show-that-90-of-voters-approve-a-return-to-civilian-rule-from-the-supreme-council-for-the-restor.md)

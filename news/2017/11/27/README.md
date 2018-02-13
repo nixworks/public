@@ -9,7 +9,7 @@ Los Angeles-born actress Meghan Markle is a divorcee and three years older than 
 
 ##### Morlanwelz train collision and runaway
 ### [A passenger train collides with a car on a level crossing at Morlanwelz, Hainaut, Belgium, and is damaged by the subsequent fire. During recovery operations, it breaks free from the train hauling it, runs away for 14 km and collides with a passenger train at Strepy-Bracquegnies. Two people are killed, seven are injured. ](/news/2017/11/27/a-passenger-train-collides-with-a-car-on-a-level-crossing-at-morlanwelz-hainaut-belgium-and-is-damaged-by-the-subsequent-fire-during-rec.md)
-_Context: Hainaut, Morlanwelz, Morlanwelz train collision and runaway, Strepy-Bracquegnies, level crossing_
+_Context: level crossing, Morlanwelz train collision and runaway, Hainaut, Strepy-Bracquegnies, Morlanwelz_
 
 ##### Health in Europe
 ### [A European Union appeal committee votes to reauthorise the use of glyphosate as a herbicide for a five-year period. ](/news/2017/11/27/a-european-union-appeal-committee-votes-to-reauthorise-the-use-of-glyphosate-as-a-herbicide-for-a-five-year-period.md)
@@ -25,11 +25,11 @@ Universities and local governments offer temporary emergency assistance while in
 
 ##### 2017 Tehreek-e-Labaik protest
 ### [The Pakistan Minister for Law Zahid Hamid resigns after days of protest over proposed changes to blasphemy laws. ](/news/2017/11/27/the-pakistan-minister-for-law-zahid-hamid-resigns-after-days-of-protest-over-proposed-changes-to-blasphemy-laws.md)
-_Context: 2017 Tehreek-e-Labaik protest, Zahid Hamid, blasphemy, Pakistan_
+_Context: Zahid Hamid, blasphemy, 2017 Tehreek-e-Labaik protest, Pakistan_
 
 ##### 2017 Spanish constitutional crisis
 ### [The Attorney General of Catalonia, Jose Maria Romero de Tejada, unexpectedly dies in Barcelona of pneumonia at the age of 69, few days after the death of the Attorney General of the State. ](/news/2017/11/27/the-attorney-general-of-catalonia-josa-c-maraa-romero-de-tejada-unexpectedly-dies-in-barcelona-of-pneumonia-at-the-age-of-69-few-days-aft.md)
-_Context: Jose Maria Romero de Tejada, Barcelona, Catalonia, 2017 Spanish constitutional crisis, pneumonia_
+_Context: Barcelona, 2017 Spanish constitutional crisis, Catalonia, pneumonia, Jose Maria Romero de Tejada_
 
 ## [Previous Day...](/news/2017/11/26/index.md)
 

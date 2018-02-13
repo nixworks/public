@@ -37,7 +37,7 @@ _Context: rupee, Vodafone Group Plc, crore_
 
 ##### Jilin Baoyuanfeng Poultry Plant fire
 ### [At least 119 people are killed in a fire at a poultry farm in Jilin Province in northeastern China. ](/news/2013/06/3/at-least-119-people-are-killed-in-a-fire-at-a-poultry-farm-in-jilin-province-in-northeastern-china.md)
-_Context: Jilin Baoyuanfeng Poultry Plant fire, China, Jilin Province_
+_Context: China, Jilin Province, Jilin Baoyuanfeng Poultry Plant fire_
 
 ##### 
 ### [Flooding across Europe kills seven people and leaves others unaccounted for. ](/news/2013/06/3/flooding-across-europe-kills-seven-people-and-leaves-others-unaccounted-for.md)
@@ -45,7 +45,7 @@ State of emergency declared in several regions as heavy flooding kills eight and
 
 ##### Cebu Pacific
 ### [A Cebu Pacific flight carrying 165 passengers inbound from Manila, overshoots the runway during heavy rain in Davao City, Philippines. There are no fatalities, however the plane is heavily damaged. ](/news/2013/06/3/a-cebu-pacific-flight-carrying-165-passengers-inbound-from-manila-overshoots-the-runway-during-heavy-rain-in-davao-city-philippines-there.md)
-_Context: Cebu Pacific, Manila, Philippines, Davao City_
+_Context: Cebu Pacific, Philippines, Davao City, Manila_
 
 ##### Bill Clinton
 ### [Former U.S. president Bill Clinton is paid $500,000 to give a speech in honour of Israeli president Shimon Peres. ](/news/2013/06/3/former-u-s-president-bill-clinton-is-paid-500-000-to-give-a-speech-in-honour-of-israeli-president-shimon-peres.md)
@@ -57,11 +57,11 @@ _Context: IAEA, Ali Asghar Soltanieh_
 
 ##### Park Geun-Hye
 ### [Park Geun-Hye, the President of South Korea, warns North Korea that it will be held responsible for the fate of nine young asylum seekers repatriated from Laos. ](/news/2013/06/3/park-geun-hye-the-president-of-south-korea-warns-north-korea-that-it-will-be-held-responsible-for-the-fate-of-nine-young-asylum-seekers-re.md)
-_Context: Laos, Park Geun-Hye, South Korean President, North Korea, asylum seeker_
+_Context: South Korean President, Park Geun-Hye, North Korea, Laos, asylum seeker_
 
 ##### Tokyo International Conference on African Development
 ### [Speaking during the ongoing Fifth Tokyo International Conference on African Development (TICAD V) in Yokohama, Zambian President Michael Sata says developed nations have used Africa as a "guinea pig" for the past 50 years, taking its raw materials while pretending to help it. ](/news/2013/06/3/speaking-during-the-ongoing-fifth-tokyo-international-conference-on-african-development-ticad-v-in-yokohama-zambian-president-michael-sat.md)
-_Context: Tokyo International Conference on African Development, Yokohama, Michael Sata_
+_Context: Tokyo International Conference on African Development, Michael Sata, Yokohama_
 
 ##### Arms Trade Treaty
 ### [Over 65 countries sign the Arms Trade Treaty. ](/news/2013/06/3/over-65-countries-sign-the-arms-trade-treaty.md)
@@ -93,7 +93,7 @@ In a carnival of colour and festive music, three and a half million revellers ce
 
 ##### ICC
 ### [The International Criminal Court delays the trial of Kenyan Deputy President William Ruto for "crimes against humanity" until September. ](/news/2013/06/3/the-international-criminal-court-delays-the-trial-of-kenyan-deputy-president-william-ruto-for-crimes-against-humanity-until-september.md)
-_Context: ICC, William Ruto_
+_Context: William Ruto, ICC_
 
 ##### Uttar Pradesh
 ### [Uttar Pradesh Chief Minister Akhilesh Yadav gives away 8,000 laptops to local students. ](/news/2013/06/3/uttar-pradesh-chief-minister-akhilesh-yadav-gives-away-8-000-laptops-to-local-students.md)
@@ -105,7 +105,7 @@ Highly respected technology consultant and evangelist Atul Chitnis, hailed by ma
 
 ##### Triceratops
 ### [A set of three unusually well preserved triceratops specimens is unearthed in the U.S. state of Wyoming. ](/news/2013/06/3/a-set-of-three-unusually-well-preserved-triceratops-specimens-is-unearthed-in-the-u-s-state-of-wyoming.md)
-_Context: Wyoming, U.S. state, triceratops_
+_Context: U.S. state, Wyoming, triceratops_
 
 ## [Previous Day...](/news/2013/06/2/index.md)
 

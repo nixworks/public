@@ -13,7 +13,7 @@ Robin Thicke has lost the &quot;Blurred Lines&quot; lawsuit he has been engaged 
 
 ##### Collides
 ### [A passenger train collides with a lorry on a level crossing at Dien Sanh, Vietnam leaving one person dead and several others injured. ](/news/2015/03/10/a-passenger-train-collides-with-a-lorry-on-a-level-crossing-at-dien-sanh-vietnam-leaving-one-person-dead-and-several-others-injured.md)
-_Context: Vietnam, collides_
+_Context: collides, Vietnam_
 
 ##### New Zealand
 ### [Police in New Zealand announce they are investigating threats to contaminate infant formula, after letters were sent to dairy cooperative Fonterra and farming lobby group Federated Farmers containing packages of infant formula laced with 1080 poison. ](/news/2015/03/10/police-in-new-zealand-announce-they-are-investigating-threats-to-contaminate-infant-formula-after-letters-were-sent-to-dairy-cooperative-fo.md)
@@ -29,7 +29,7 @@ _Context: Sigma Alpha Epsilon, University of Oklahoma_
 
 ##### Pakistan
 ### [Pakistan lifts a moratorium on the death penalty for terrorism, months after reinstating it. ](/news/2015/03/10/pakistan-lifts-a-moratorium-on-the-death-penalty-for-terrorism-months-after-reinstating-it.md)
-_Context: moratorium, Pakistan, sentenced to death, terrorism_
+_Context: moratorium, terrorism, sentenced to death, Pakistan_
 
 ## [Previous Day...](/news/2015/03/9/index.md)
 

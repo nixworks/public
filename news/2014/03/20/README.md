@@ -5,7 +5,7 @@ Formats: [HTML](2014/03/20/index.html)  [JSON](2014/03/20/index.json)  [XML](201
 
 ##### 2014 Kabul Serena Hotel attack
 ### [2014 Kabul Serena Hotel attack: Four suspected Taliban members attack the luxurious Kabul Serena Hotel, killing at least 9 people, including 4 foreigners. ](/news/2014/03/20/2014-kabul-serena-hotel-attack-four-suspected-taliban-members-attack-the-luxurious-kabul-serena-hotel-killing-at-least-9-people-including.md)
-_Context: Taliban, Kabul Serena Hotel, 2014 Kabul Serena Hotel attack_
+_Context: Kabul Serena Hotel, Taliban, 2014 Kabul Serena Hotel attack_
 
 ##### Baghdad
 ### [A suicide bomber attacks a cafe in Baghdad, Iraq, killing 12 people and injuring another 38. ](/news/2014/03/20/a-suicide-bomber-attacks-a-cafe-in-baghdad-iraq-killing-12-people-and-injuring-another-38.md)
@@ -17,7 +17,7 @@ Syrian soldiers have raised the national flag on the battlements of a 900-year-o
 
 ##### European Union
 ### [European Union member states and European Parliament negotiators reach a deal on a new regulatory system for banks. ](/news/2014/03/20/european-union-member-states-and-european-parliament-negotiators-reach-a-deal-on-a-new-regulatory-system-for-banks.md)
-_Context: European Union, European Parliament_
+_Context: European Parliament, European Union_
 
 ##### Australian Prime Minister
 ### [The Prime Minister of Australia, Tony Abbott, advises the Parliament that two objects possibly related to the search for Malaysia Airlines Flight 370 have been located in the southern Indian Ocean. ](/news/2014/03/20/the-prime-minister-of-australia-tony-abbott-advises-the-parliament-that-two-objects-possibly-related-to-the-search-for-malaysia-airlines-f.md)
@@ -29,7 +29,7 @@ At least nine people are killed and five injured after a passenger train crashes
 
 ##### United States Senate Majority Leader
 ### [United States Senate Majority Leader Harry Reid orders an investigation into the breach by the CIA into the United States Senate Select Committee on Intelligence's computer systems. ](/news/2014/03/20/united-states-senate-majority-leader-harry-reid-orders-an-investigation-into-the-breach-by-the-cia-into-the-united-states-senate-select-comm.md)
-_Context: United States Senate Majority Leader, Senate Intelligence Committee, CIA, Harry Reid_
+_Context: Senate Intelligence Committee, Harry Reid, United States Senate Majority Leader, CIA_
 
 ##### 2014 Crimean crisis
 ### [The Chancellor of Germany, Angela Merkel, announces the possibility of further sanctions from the European Union against Russia for the invasion and annexation of Crimea. ](/news/2014/03/20/the-chancellor-of-germany-angela-merkel-announces-the-possibility-of-further-sanctions-from-the-european-union-against-russia-for-the-inva.md)

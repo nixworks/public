@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/12/7/the-united-states-federal-trade-commission-ftc-f
 
 ### [2015-12-7](/news/2015/12/7/index.md)
 
-##### American
+##### U.S.
 #  The United States Federal Trade Commission (FTC) files an administrative complaint challenging office-supplies giant Staples' proposed $6.3 billion acquisition of top rival Office Depot. The FTC said the deal would significantly reduce national competition in the market for office supplies sold to large business customers. The companies plan to contest the FTC decision. 
 
 Staples Inc. will face a challenge by U.S. antitrust officials, who said the office supply chain&apos;s proposed takeover of Office Depot Inc. should be blocked.
@@ -18,7 +18,7 @@ Staples Inc. will face a challenge by U.S. antitrust officials, who said the off
 ### Related:
 
 1. [U.S. District Judge Emmet Sullivan blocks the $6.3 billion merger of major office supply companies Staples and Office Depot, finding it would result in reduced competition and higher prices. The companies announce they are abandoning the deal. ](/news/2016/05/10/u-s-district-judge-emmet-sullivan-blocks-the-6-3-billion-merger-of-major-office-supply-companies-staples-and-office-depot-finding-it-woul.md) _Context: Office Depot, Staples_
-2. [The United States Federal Trade Commission considers taking antitrust action against Google. ](/news/2011/04/5/the-united-states-federal-trade-commission-considers-taking-antitrust-action-against-google.md) _Context: American, U.S. Federal Trade Commission_
+2. [The United States Federal Trade Commission considers taking antitrust action against Google. ](/news/2011/04/5/the-united-states-federal-trade-commission-considers-taking-antitrust-action-against-google.md) _Context: U.S., U.S. Federal Trade Commission_
 3. [Paul Allen's company, Interval Licensing LLC, files a patent infringement lawsuit against Google, Apple Computer, AOL, eBay, Facebook, Netflix, Office Depot, OfficeMax, Staples Inc., Yahoo and YouTube. ](/news/2010/08/27/paul-allen-s-company-interval-licensing-llc-files-a-patent-infringement-lawsuit-against-google-apple-computer-aol-ebay-facebook-netfl.md) _Context: Office Depot, Staples_
-4. [ The United States Federal Trade Commission issues regulations for writers of blogs. ](/news/2009/10/5/the-united-states-federal-trade-commission-issues-regulations-for-writers-of-blogs.md) _Context: American, U.S. Federal Trade Commission_
-5. [U.S. President Donald Trump meets with Guatemalan President Jimmy Morales. Trump thanks Morales for having supported the decision of the United States to recognize Jerusalem as Israel's capital. They discuss various issues about the crisis in Venezuela, drug trafficking and the UN anti-corruption commission. ](/news/2018/02/8/u-s-president-donald-trump-meets-with-guatemalan-president-jimmy-morales-trump-thanks-morales-for-having-supported-the-decision-of-the-uni.md) _Context: American_
+4. [ The United States Federal Trade Commission issues regulations for writers of blogs. ](/news/2009/10/5/the-united-states-federal-trade-commission-issues-regulations-for-writers-of-blogs.md) _Context: U.S., U.S. Federal Trade Commission_
+5. [U.S. President Donald Trump meets with Guatemalan President Jimmy Morales. Trump thanks Morales for having supported the decision of the United States to recognize Jerusalem as Israel's capital. They discuss various issues about the crisis in Venezuela, drug trafficking and the UN anti-corruption commission. ](/news/2018/02/8/u-s-president-donald-trump-meets-with-guatemalan-president-jimmy-morales-trump-thanks-morales-for-having-supported-the-decision-of-the-uni.md) _Context: U.S._

@@ -13,7 +13,7 @@ KARACHI: At least seven Pakistanis are reportedly killed in a rocket attack on a
 
 ##### Pinos Puente
 ### [Residents of the economically struggling town of Pinos Puente in Granada, Spain, win the El Gordo lottery. ](/news/2016/12/22/residents-of-the-economically-struggling-town-of-pinos-puente-in-granada-spain-win-the-el-gordo-lottery.md)
-_Context: Granada, El Gordo, Spain, Pinos Puente_
+_Context: Granada, Pinos Puente, El Gordo, Spain_
 
 ##### Ebola virus
 ### [A vaccine for the ebola virus is discovered to be 99.78%-99.87% effective. ](/news/2016/12/22/a-vaccine-for-the-ebola-virus-is-discovered-to-be-99-78-a99-87-effective.md)

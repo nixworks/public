@@ -5,7 +5,7 @@ Formats: [HTML](2012/02/2/index.html)  [JSON](2012/02/2/index.json)  [XML](2012/
 
 ##### Philippines
 ### [The Philippines military claim to have killed Abu Sayyaf leader Umbra Jumdail, Malaysian Zulkifli bin Hir, a leader of Jemaah Islamiyah, and Singaporean Abdullah Ali. ](/news/2012/02/2/the-philippines-military-claim-to-have-killed-abu-sayyaf-leader-umbra-jumdail-malaysian-zulkifli-bin-hir-a-leader-of-jemaah-islamiyah-and.md)
-_Context: Umbra Jumdail, Philippines, Abu Sayyaf, Jemaah Islamiyah, Malaysian, Zulkifli bin Hir_
+_Context: Jemaah Islamiyah, Umbra Jumdail, Abu Sayyaf, Zulkifli bin Hir, Malaysian, Philippines_
 
 ##### Yemen
 ### [Six kidnapped aid workers are released in Yemen. ](/news/2012/02/2/six-kidnapped-aid-workers-are-released-in-yemen.md)
@@ -45,7 +45,7 @@ _Context: Church of Scientology, fraud, French-born_
 
 ##### Egypt
 ### [Egyptian comedian Adel Emam is sentenced to three months in prison for insulting Islam. ](/news/2012/02/2/egyptian-comedian-adel-emam-is-sentenced-to-three-months-in-prison-for-insulting-islam.md)
-_Context: Adel Emam, Egypt, insulting Islam_
+_Context: Egypt, Adel Emam, insulting Islam_
 
 ##### Prime Minister of Egypt
 ### [The Prime Minister of Egypt Kamal Ganzouri calls an emergency Cabinet meeting to discuss the Port Said Stadium clashes which resulted in at least 74 deaths. ](/news/2012/02/2/the-prime-minister-of-egypt-kamal-ganzouri-calls-an-emergency-cabinet-meeting-to-discuss-the-port-said-stadium-clashes-which-resulted-in-at.md)

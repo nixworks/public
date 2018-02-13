@@ -17,15 +17,15 @@ Pact provides for demilitarisation of disputed Abyei region, says Thabo Mbeki.
 
 ##### Pakistan
 ### [Two suspected militants are killed in Khar Dand in Pakistan as a result of a drone attack. ](/news/2011/06/20/two-suspected-militants-are-killed-in-khar-dand-in-pakistan-as-a-result-of-a-drone-attack.md)
-_Context: drones launch, Pakistan_
+_Context: Pakistan, drones launch_
 
 ##### Short Strand
 ### [Masked men in camouflage gear attack homes in the mainly nationalist Short Strand area of East Belfast, with pipe bombs and Molotov cocktails being thrown. ](/news/2011/06/20/masked-men-in-camouflage-gear-attack-homes-in-the-mainly-nationalist-short-strand-area-of-east-belfast-with-pipe-bombs-and-molotov-cocktail.md)
-_Context: firebomb, Belfast, Short Strand, pipe bomb_
+_Context: Short Strand, firebomb, Belfast, pipe bomb_
 
 ##### General
 ### [General Walter L. Sharp, the Commander of United States Forces Korea, warns that North Korea is likely to launch more attacks but states that US and South Korean forces are prepared. ](/news/2011/06/20/general-walter-l-sharp-the-commander-of-united-states-forces-korea-warns-that-north-korea-is-likely-to-launch-more-attacks-but-states-tha.md)
-_Context: Walter L. Sharp, General, United States Forces Korea, North Korea, South Korea_
+_Context: North Korea, Walter L. Sharp, United States Forces Korea, South Korea, General_
 
 ##### Nepal
 ### [Nepal experiences its first lesbian wedding ceremony as a lawyer and a college professor tie the knot. ](/news/2011/06/20/nepal-experiences-its-first-lesbian-wedding-ceremony-as-a-lawyer-and-a-college-professor-tie-the-knot.md)
@@ -41,7 +41,7 @@ London Assembly Member Jenny Jones calls on the Westminster Council to put up a 
 
 ##### Jackass
 ### [American "Jackass" star Ryan Dunn dies in a high-speed accident on U.S. Route 322 in West Goshen Township, Pennsylvania. ](/news/2011/06/20/american-jackass-star-ryan-dunn-dies-in-a-high-speed-accident-on-u-s-route-322-in-west-goshen-township-pennsylvania.md)
-_Context: Ryan Dunn, Pennsylvania, West Goshen Township, Jackass, U.S. Route 322_
+_Context: West Goshen Township, Ryan Dunn, U.S. Route 322, Jackass, Pennsylvania_
 
 ##### Eurozone
 ### [Eurozone finance ministers agree to seek a voluntary rollover of Greek debt by private bondholders in order to meet a substantial part of Greek funding needs. ](/news/2011/06/20/eurozone-finance-ministers-agree-to-seek-a-voluntary-rollover-of-greek-debt-by-private-bondholders-in-order-to-meet-a-substantial-part-of-gr.md)
@@ -53,27 +53,27 @@ Afghanistan says it is &quot;running out of patience&quot; with the IMF after it
 
 ##### PNC Financial Services
 ### [Financial group and banking firm PNC Financial Services is to acquire RBC Bank from the Royal Bank of Canada for US$3.45 billion. ](/news/2011/06/20/financial-group-and-banking-firm-pnc-financial-services-is-to-acquire-rbc-bank-from-the-royal-bank-of-canada-for-us-3-45-billion.md)
-_Context: PNC Financial Services, US$, RBC Bank, Royal Bank of Canada_
+_Context: US$, PNC Financial Services, Royal Bank of Canada, RBC Bank_
 
 ##### Greer
 ### [Residents of Greer, a small town in the U.S. state of Arizona, are allowed to return home after the Wallow Fire is slowly brought under control. ](/news/2011/06/20/residents-of-greer-a-small-town-in-the-u-s-state-of-arizona-are-allowed-to-return-home-after-the-wallow-fire-is-slowly-brought-under-cont.md)
-_Context: U.S. state, Arizona, Wallow Fire, Greer_
+_Context: Arizona, Wallow Fire, Greer, U.S. state_
 
 ##### Darwin
 ### [The Volcanic Ash Advisory Centre in Darwin warns that Australian travellers face more disruption from ash from the 2011 Puyehue-Cordon Caulle eruption in Chile. ](/news/2011/06/20/the-volcanic-ash-advisory-centre-in-darwin-warns-that-australian-travellers-face-more-disruption-from-ash-from-the-2011-puyehue-corda3n-caul.md)
-_Context: Australian, 2011 Puyehue-Cordon Caulle eruption, Darwin, Chile_
+_Context: Australian, 2011 Puyehue-Cordon Caulle eruption, Chile, Darwin_
 
 ##### Heat wave
 ### [The Korea Meteorological Administration issues a heat wave warning for inland South Korean cities including Seoul, Suwon and Chuncheon. ](/news/2011/06/20/the-korea-meteorological-administration-issues-a-heat-wave-warning-for-inland-south-korean-cities-including-seoul-suwon-and-chuncheon.md)
-_Context: Suwon, South Korea, heat wave, Seoul, Chuncheon_
+_Context: Chuncheon, Seoul, South Korea, Suwon, heat wave_
 
 ##### RusAir
 ### [A RusAir Tupolev Tu-134 passenger jet crashes near Petrozavodsk Airport in Russia's Karelia region with 45 people dead. ](/news/2011/06/20/a-rusair-tupolev-tu-134-passenger-jet-crashes-near-petrozavodsk-airport-in-russia-s-karelia-region-with-45-people-dead.md)
-_Context: Russia, Karelia, Tupolev Tu-134, RusAir, crashes near, Petrozavodsk Airport_
+_Context: RusAir, Karelia, crashes near, Tupolev Tu-134, Petrozavodsk Airport, Russia_
 
 ##### Hurricane Beatriz
 ### [Hurricane Beatriz becomes the second hurricane of the 2011 Pacific hurricane season. ](/news/2011/06/20/hurricane-beatriz-becomes-the-second-hurricane-of-the-2011-pacific-hurricane-season.md)
-_Context: Hurricane Beatriz, Hurricane Jova_
+_Context: Hurricane Jova, Hurricane Beatriz_
 
 ##### Foreign Policy
 ### [U.S. magazine "Foreign Policy" releases its index of "failed states", with the editor labeling Somalia as an "unequivocably failed state". ](/news/2011/06/20/u-s-magazine-foreign-policy-releases-its-index-of-failed-states-with-the-editor-labeling-somalia-as-an-unequivocably-failed-state.md)
@@ -81,7 +81,7 @@ An index of troubled countries reveals the common threads that lead to suffering
 
 ##### Russian President
 ### [President of Russia Dmitry Medvedev practically rules out supporting a United Nations Security Council resolution condemning a crackdown by the Government of Syria on protestors. ](/news/2011/06/20/president-of-russia-dmitry-medvedev-practically-rules-out-supporting-a-united-nations-security-council-resolution-condemning-a-crackdown-by.md)
-_Context: Government of Syria, United Nations Security Council, protestors, Russian President, Dmitry Medvedev_
+_Context: United Nations Security Council, Government of Syria, protestors, Dmitry Medvedev, Russian President_
 
 ##### France
 ### [France prepares to attempt to extradite Manuel Noriega back to Panama. ](/news/2011/06/20/france-prepares-to-attempt-to-extradite-manuel-noriega-back-to-panama.md)

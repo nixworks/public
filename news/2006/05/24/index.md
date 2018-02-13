@@ -5,7 +5,7 @@ Formats: [HTML](2006/05/24/index.html)  [JSON](2006/05/24/index.json)  [XML](200
 
 ##### United Kingdom
 ### [ The United Kingdom government announces plans to overhaul the pension system ](/news/2006/05/24/the-united-kingdom-government-announces-plans-to-overhaul-the-pension-system.md)
-_Context: United Kingdom, Labour Party, pension_
+_Context: pension, United Kingdom, Labour Party_
 
 ##### World Health Organization
 ### [ The World Health Organization is investigating several bird flu deaths for a possible person-to-person transmission chain. ](/news/2006/05/24/the-world-health-organization-is-investigating-several-bird-flu-deaths-for-a-possible-person-to-person-transmission-chain.md)
@@ -25,15 +25,15 @@ _Context: Russia, Chechnya, Russian Army_
 
 ##### East Timorese army
 ### [ Disgruntled former soldiers and government troops clash in East Timor, leading to at least two deaths in Dili. Australians evacuate as violence escalates. ](/news/2006/05/24/disgruntled-former-soldiers-and-government-troops-clash-in-east-timor-leading-to-at-least-two-deaths-in-dili-australians-evacuate-as-viol.md)
-_Context: East Timor, Dili, East Timorese army_
+_Context: Dili, East Timor, East Timorese army_
 
 ##### Atatrk International Airport
 ### [ A large fire breaks out at the cargo terminal of Atatrk International Airport in Istanbul, Turkey, forcing the suspension of air traffic. ](/news/2006/05/24/a-large-fire-breaks-out-at-the-cargo-terminal-of-ataturk-international-airport-in-istanbul-turkey-forcing-the-suspension-of-air-traffic.md)
-_Context: Atatrk International Airport, Turkey, Istanbul_
+_Context: Turkey, Istanbul, Atatrk International Airport_
 
 ##### President
 ### [ President of Mexico Vicente Fox begins a tour of the United States in Salt Lake City by criticizing a proposed border wall. This comes amid the U.S. Senate passing a sweeping immigration bill. ](/news/2006/05/24/president-of-mexico-vicente-fox-begins-a-tour-of-the-united-states-in-salt-lake-city-by-criticizing-a-proposed-border-wall-this-comes-amid.md)
-_Context: Vicente Fox, illegal worker, American, Salt Lake City, President_
+_Context: illegal worker, Salt Lake City, President, U.S., Vicente Fox_
 
 ## [Previous Day...](/news/2006/05/23/index.md)
 

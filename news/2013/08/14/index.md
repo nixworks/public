@@ -37,11 +37,11 @@ A large UPS cargo plane crashed and burst into flames, killing its pilot and cop
 
 ##### 2013 Korean crisis
 ### [2013 Korean crisis: North and South Korea agree to reopen the jointly-operated Kaesong Industrial Region. ](/news/2013/08/14/2013-korean-crisis-north-and-south-korea-agree-to-reopen-the-jointly-operated-kaesong-industrial-region.md)
-_Context: Kaesong area, 2013 Korean crisis, North Korea, South Korea_
+_Context: South Korea, North Korea, 2013 Korean crisis, Kaesong area_
 
 ##### San Francisco Police Department
 ### [San Francisco police seize $1.5 million in ecstasy in one of the largest busts in department history.](/news/2013/08/14/san-francisco-police-seize-1-5-million-in-ecstasy-in-one-of-the-largest-busts-in-department-history.md)
-_Context: San Francisco Police Department, ecstasy_
+_Context: ecstasy, San Francisco Police Department_
 
 ##### University of Milan
 ### [A group of researchers led by a team at the University of Milan unveils a device which uses a magnetic pulse to stimulate the brain and measure the resulting electrical waves in order to more accurately assess the remaining level of brain function and consciousness in brain-damaged individuals. ](/news/2013/08/14/a-group-of-researchers-led-by-a-team-at-the-university-of-milan-unveils-a-device-which-uses-a-magnetic-pulse-to-stimulate-the-brain-and-meas.md)
@@ -49,7 +49,7 @@ It can be hard for doctors to tell if someone who is severely brain injured and 
 
 ##### Nova Delphinus 2013
 ### [Nova Delphinus 2013, now visible to the naked eye in dark sky conditions, is reported in the constellation Delphinus by amateur astronomer Koichi Itagaki. ](/news/2013/08/14/nova-delphinus-2013-now-visible-to-the-naked-eye-in-dark-sky-conditions-is-reported-in-the-constellation-delphinus-by-amateur-astronomer-k.md)
-_Context: Delphinus, amateur astronomer, Nova Delphinus 2013_
+_Context: amateur astronomer, Delphinus, Nova Delphinus 2013_
 
 ## [Previous Day...](/news/2013/08/13/index.md)
 

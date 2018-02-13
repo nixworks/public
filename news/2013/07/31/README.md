@@ -17,15 +17,15 @@ Eleven people die and more than 40 others are admitted to hospital in the Cuban 
 
 ##### Independent Commission against Corruption
 ### [The Independent Commission Against Corruption in the Australian state of New South Wales finds that former Ministers Ian Macdonald and Eddie Obeid acted corruptly and recommends that charges be laid. ](/news/2013/07/31/the-independent-commission-against-corruption-in-the-australian-state-of-new-south-wales-finds-that-former-ministers-ian-macdonald-and-eddie.md)
-_Context: Eddie Obeid, Australia, NSW, Independent Commission against Corruption, Ian Macdonald_
+_Context: Ian Macdonald, Independent Commission against Corruption, Eddie Obeid, NSW, Australia_
 
 ##### India
 ### [India's ruling coalition endorses the creation of a new state of Telangana to be carved out of Andhra Pradesh in southern India. ](/news/2013/07/31/india-s-ruling-coalition-endorses-the-creation-of-a-new-state-of-telangana-to-be-carved-out-of-andhra-pradesh-in-southern-india.md)
-_Context: Andhra Pradesh, India, Telangana_
+_Context: Telangana, Andhra Pradesh, India_
 
 ##### Zimbabwe
 ### [Voters in Zimbabwe go to the polls for a general election. ](/news/2013/07/31/voters-in-zimbabwe-go-to-the-polls-for-a-general-election.md)
-_Context: recent elections, Zimbabwe_
+_Context: Zimbabwe, recent elections_
 
 ##### Tunisia
 ### [Salem Labyedh resigns as Tunisia's Education Minister following last week's assassination of Mohamed Brahmi. ](/news/2013/07/31/salem-labyedh-resigns-as-tunisia-s-education-minister-following-last-week-s-assassination-of-mohamed-brahmi.md)

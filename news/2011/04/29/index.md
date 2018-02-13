@@ -9,7 +9,7 @@ Water and power have been cut in Daraa, epicentre of pro-democracy protests, wit
 
 ##### Sana'a
 ### [100,000 people march through central Sanaa in one of the largest protests yet to have taken place against the Saleh regime, with protesters demanding that he resign immediately rather than wait for the phased handover of power he has orchestrated. ](/news/2011/04/29/100-000-people-march-through-central-sanaa-in-one-of-the-largest-protests-yet-to-have-taken-place-against-the-saleh-regime-with-protesters.md)
-_Context: Ali Abdullah Saleh, Sana'a_
+_Context: Sana'a, Ali Abdullah Saleh_
 
 ##### Lahore
 ### [Thousands march across Bahrain, Pakistan and Saudi Arabia in defiance of yesterday's death sentences handed down to anti-government protesters by the ruling Bahraini regime, with people in Lahore (Pakistan) carrying symbolic coffins in solidarity. ](/news/2011/04/29/thousands-march-across-bahrain-pakistan-and-saudi-arabia-in-defiance-of-yesterday-s-death-sentences-handed-down-to-anti-government-proteste.md)
@@ -25,7 +25,7 @@ Minister says bomb attack in Marrakesh set off by remote-control device bearing 
 
 ##### Uganda
 ### [Riots take place in the Ugandan capital Kampala after opposition leader Kizza Besigye is attacked, leaving two people dead and dozens injured. ](/news/2011/04/29/riots-take-place-in-the-ugandan-capital-kampala-after-opposition-leader-kizza-besigye-is-attacked-leaving-two-people-dead-and-dozens-injure.md)
-_Context: Kizza Besigye, Kampala, Uganda_
+_Context: Kizza Besigye, Uganda, Kampala_
 
 ##### Lisa Aschan
 ### [The Lisa Aschan-directed Swedish film "She Monkeys" wins best narrative feature and the Alma Har'el-directed Israeli film "Bombay Beach" wins best documentary prize at New York's Tribeca Film Festival. ](/news/2011/04/29/the-lisa-aschan-directed-swedish-film-she-monkeys-wins-best-narrative-feature-and-the-alma-har-el-directed-israeli-film-bombay-beach-win.md)
@@ -33,7 +33,7 @@ A Swedish film about two teenage girls whose friendship turns to rivalry wins a 
 
 ##### Pope John Paul II
 ### [The Vatican brings Pope John Paul II's coffin out from below St. Peter's Basilica in Rome in preparation for his beatification. ](/news/2011/04/29/the-vatican-brings-pope-john-paul-ii-s-coffin-out-from-below-st-peter-s-basilica-in-rome-in-preparation-for-his-beatification.md)
-_Context: Vatican, Pope John Paul II, Rome, Italy, beatified_
+_Context: Pope John Paul II, beatified, Vatican, Rome, Italy_
 
 ##### 2011 Royal Wedding
 ### [The wedding of Prince William, Duke of Cambridge and Catherine Middleton takes place in Westminster Abbey; Middleton becomes HRH The Duchess of Cambridge. Police make at least 18 arrests along the wedding route in London. ](/news/2011/04/29/the-wedding-of-prince-william-duke-of-cambridge-and-catherine-middleton-takes-place-in-westminster-abbey-middleton-becomes-hrh-the-duchess.md)
@@ -61,7 +61,7 @@ A horrific storm system that killed more than 290 people in seven states across 
 
 ##### Hamas
 ### [Hamas Prime Minister Ismail Haniyeh calls on the PLO to withdraw its recognition of Israel's right to exist in response to Israel's opposition to the reconciliation deal between his movement and Fatah. ](/news/2011/04/29/hamas-prime-minister-ismail-haniyeh-calls-on-the-plo-to-withdraw-its-recognition-of-israelas-right-to-exist-in-response-to-israelas-oppo.md)
-_Context: Hamas, Ismail Haniyeh, PLO, Fatah, Israel_
+_Context: Hamas, Israel, Fatah, PLO, Ismail Haniyeh_
 
 ##### Nabil al-Arabi
 ### [Egypt's interim foreign minister Nabil al-Arabi vows to permanently open the country's Rafah Border Crossing with the Gaza Strip, branding the Mubarak regime's support for the previous blockade and assisting of Israel in implementing it as "disgraceful". ](/news/2011/04/29/egypt-s-interim-foreign-minister-nabil-al-arabi-vows-to-permanently-open-the-country-s-rafah-border-crossing-with-the-gaza-strip-branding-t.md)
@@ -69,11 +69,11 @@ Egypt says it will open its Rafah border crossing with the Gaza Strip on a perma
 
 ##### Japan
 ### [22,000 residents of the Japanese island of Okinawa file suit demanding the closure of the Kadena United States Airforce base at night and demand compensation from the Government of Japan. ](/news/2011/04/29/22-000-residents-of-the-japanese-island-of-okinawa-file-suit-demanding-the-closure-of-the-kadena-united-states-airforce-base-at-night-and-de.md)
-_Context: Japanese government, Okinawa, Japan, Kadena, United States Airforce_
+_Context: Japan, Japanese government, Kadena, Okinawa, United States Airforce_
 
 ##### Early morning protest
 ### [Police report violence in an early morning protest against controversial retailer Tesco. ](/news/2011/04/29/police-report-violence-in-an-early-morning-protest-against-controversial-retailer-tesco.md)
-_Context: Tesco, early morning protest_
+_Context: early morning protest, Tesco_
 
 ##### Charles Pasqua
 ### [Veteran former French right-wing interior minister Charles Pasqua has his conviction for illegally selling weapons to Angola quashed, while jail terms for Israeli-Russian businessman Arkady Gaydamak and French magnate Pierre Falcone are cut. ](/news/2011/04/29/veteran-former-french-right-wing-interior-minister-charles-pasqua-has-his-conviction-for-illegally-selling-weapons-to-angola-quashed-while.md)

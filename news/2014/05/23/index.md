@@ -13,11 +13,11 @@ _Context: attack the Indian consulate, Afghanistan, Herat Province_
 
 ##### Chinese
 ### [Chinese media reports that five people involved in the rmqi bombings "blew themselves up". ](/news/2014/05/23/chinese-media-reports-that-five-people-involved-in-the-urumqi-bombings-blew-themselves-up.md)
-_Context: Chinese, rmqi_
+_Context: rmqi, Chinese_
 
 ##### Russian President
 ### [Russian President Vladimir Putin announces that he will respect the outcome of Ukraine's presidential election. ](/news/2014/05/23/russian-president-vladimir-putin-announces-that-he-will-respect-the-outcome-of-ukraine-s-presidential-election.md)
-_Context: Ukrainian presidential election, Russian President, Vladimir Putin_
+_Context: Russian President, Vladimir Putin, Ukrainian presidential election_
 
 ##### Syrian Civil War
 ### [Syrian TV reports that 39 people have been killed and 205 injured as a result of a mortar attack on a pro-Assad rally. ](/news/2014/05/23/syrian-tv-reports-that-39-people-have-been-killed-and-205-injured-as-a-result-of-a-mortar-attack-on-a-pro-assad-rally.md)
@@ -25,19 +25,19 @@ BEIRUT - In the first attack to target a campaign event, a mortar shell slammed 
 
 ##### Russia
 ### [Russia and China veto a U.N. Security Council resolution that would have asked the International Criminal Court to investigate war crimes in Syria. ](/news/2014/05/23/russia-and-china-veto-a-u-n-security-council-resolution-that-would-have-asked-the-international-criminal-court-to-investigate-war-crimes-in.md)
-_Context: Russia, ICC, mass murders of thousands of political prisoner, United Nations Security Council, China_
+_Context: China, United Nations Security Council, ICC, mass murders of thousands of political prisoner, Russia_
 
 ##### Hubei
 ### [A Hubei court finds Chinese tycoon Liu Han, the former head of the conglomerate Hanlong Group, guilty of "organising and leading mafia-style crime and murder" and "obtain[ing] financial gains via illegal activities", sentencing him to death. ](/news/2014/05/23/a-hubei-court-finds-chinese-tycoon-liu-han-the-former-head-of-the-conglomerate-hanlong-group-guilty-of-organising-and-leading-mafia-style.md)
-_Context: China, sentencing him to death, Hubei, Hanlong Group_
+_Context: Hubei, China, sentencing him to death, Hanlong Group_
 
 ##### 2014 Isla Vista shootings
 ### [2014 Isla Vista shootings. Seven people have been killed and seven injured in a series of drive-by shootings in a student enclave next to the University of California campus in the American city of Santa Barbara, California. ](/news/2014/05/23/2014-isla-vista-shootings-seven-people-have-been-killed-and-seven-injured-in-a-series-of-drive-by-shootings-in-a-student-enclave-next-to-th.md)
-_Context: University of California, drive-by shooting, 2014 Isla Vista shootings, Santa Barbara, California_
+_Context: drive-by shooting, 2014 Isla Vista shootings, Santa Barbara, California, University of California_
 
 ##### European Union
 ### [Voters in the European Union go to the polls for a multi-day European Parliamentary election. Voters in Ireland and the Czech Republic vote today. ](/news/2014/05/23/voters-in-the-european-union-go-to-the-polls-for-a-multi-day-european-parliamentary-election-voters-in-ireland-and-the-czech-republic-vote.md)
-_Context: Ireland, newly elected, Czech Republic, European Union_
+_Context: European Union, newly elected, Czech Republic, Ireland_
 
 ##### Royal Thai Army
 ### [Royal Thai Army chief and coup leader General Prayuth Chan-ocha detains former Prime Minister of Thailand Yingluck Shinawatra after summoning her for talks a day after the coup. ](/news/2014/05/23/royal-thai-army-chief-and-coup-leader-general-prayuth-chan-ocha-detains-former-prime-minister-of-thailand-yingluck-shinawatra-after-summonin.md)
@@ -45,7 +45,7 @@ By Amy Sawitta Lefevre and Pracha Hariraksapitak BANGKOK (Reuters) - Thailand&#x
 
 ##### Barack Obama
 ### [Barack Obama nominates Julian Castro, the Mayor of San Antonio, to become the next Secretary of Housing and Urban Development. ](/news/2014/05/23/barack-obama-nominates-julian-castro-the-mayor-of-san-antonio-to-become-the-next-secretary-of-housing-and-urban-development.md)
-_Context: Barack Obama, Secretary of Housing and Urban Development, Mayor of San Antonio, Julian Castro_
+_Context: Secretary of Housing and Urban Development, Julian Castro, Mayor of San Antonio, Barack Obama_
 
 ##### Chelyabinsk meteor
 ### [Research shows that the Chelyabinsk meteor was the remnants of an asteroid that collided with another asteroid 290 million years before entering the Earth's atmosphere over Russia in February of last year. ](/news/2014/05/23/research-shows-that-the-chelyabinsk-meteor-was-the-remnants-of-an-asteroid-that-collided-with-another-asteroid-290-million-years-before-ente.md)

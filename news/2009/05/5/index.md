@@ -9,11 +9,11 @@ _Context: swine flu, current outbreak_
 
 ##### His Majesty's Government
 ### [ Her Majesty's Government reveals the names of 16 of the 22 people banned from entering the United Kingdom. ](/news/2009/05/5/her-majesty-s-government-reveals-the-names-of-16-of-the-22-people-banned-from-entering-the-united-kingdom.md)
-_Context: His Majesty's Government, United Kingdom_
+_Context: United Kingdom, His Majesty's Government_
 
 ##### Soldiers
 ### [ At least 500 soldiers mutiny after Georgia's government discovers a plot to assassinate President Mikheil Saakashvili. ](/news/2009/05/5/at-least-500-soldiers-mutiny-after-georgia-s-government-discovers-a-plot-to-assassinate-president-mikheil-saakashvili.md)
-_Context: Mikheil Saakashvili, government,  Georgian, mutiny, assassinated, President of Georgia, soldiers_
+_Context: soldiers, assassinated, mutiny, President of Georgia, Mikheil Saakashvili, government,  Georgian_
 
 ##### Flood
 ### [ Floods and mudslides in Brazil kill 19 people and render 186,000 others homeless. ](/news/2009/05/5/floods-and-mudslides-in-brazil-kill-19-people-and-render-186-000-others-homeless.md)

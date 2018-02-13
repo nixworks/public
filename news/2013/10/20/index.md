@@ -13,7 +13,7 @@ At least 37 people are killed and more than 40 injured by a suicide bombing at a
 
 ##### David Yau Yau
 ### [Cattle raiders believed to be led by David Yau Yau attack villages in Jonglei state, leaving at least 78 dead. ](/news/2013/10/20/cattle-raiders-believed-to-be-led-by-david-yau-yau-attack-villages-in-jonglei-state-leaving-at-least-78-dead.md)
-_Context: Jonglei, David Yau Yau_
+_Context: David Yau Yau, Jonglei_
 
 ##### Toyota Motor Corporation
 ### [Toyota Motor Corporation recalls 885,000 vehicles due to electrical problems that could prevent airbags from deploying. ](/news/2013/10/20/toyota-motor-corporation-recalls-885-000-vehicles-due-to-electrical-problems-that-could-prevent-airbags-from-deploying.md)

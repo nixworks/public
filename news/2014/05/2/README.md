@@ -9,7 +9,7 @@ Opposition fighters are to be allowed to withdraw from besieged parts of the Syr
 
 ##### Egypt
 ### [Attacks by suicide bombers on a security checkpoint and a civilian bus in Egypt's Sinai Peninsula as well as a separate bombing near a courthouse in Cairo killed at least four people. ](/news/2014/05/2/attacks-by-suicide-bombers-on-a-security-checkpoint-and-a-civilian-bus-in-egyptas-sinai-peninsula-as-well-as-a-separate-bombing-near-a-cou.md)
-_Context: Cairo, Egypt, Sinai Peninsula_
+_Context: Sinai Peninsula, Cairo, Egypt_
 
 ##### Ethiopia
 ### [At least nine students are killed in protests in Ethiopia's Oromia Region. ](/news/2014/05/2/at-least-nine-students-are-killed-in-protests-in-ethiopia-s-oromia-region.md)
@@ -25,7 +25,7 @@ Many rebels have been killed in a government offensive in east Ukraine, acting P
 
 ##### Afghanistan
 ### [A landslide strikes the town of Hobo Barik in Afghanistan's Badakhshan province with at least 350 people dead and over 2000 people missing. ](/news/2014/05/2/a-landslide-strikes-the-town-of-hobo-barik-in-afghanistan-s-badakhshan-province-with-at-least-350-people-dead-and-over-2000-people-missing.md)
-_Context: Badakhshan, Afghanistan_
+_Context: Afghanistan, Badakhshan_
 
 ##### Sinn Fein
 ### [Sinn Fein claims that party president Gerry Adams is a victim of "political policing" are dismissed by the Taoiseach (Prime Minister of Ireland) Enda Kenny, British prime minister David Cameron and Northern Ireland First Minister Peter Robinson. ](/news/2014/05/2/sinn-fa-c-in-claims-that-party-president-gerry-adams-is-a-victim-of-political-policing-are-dismissed-by-the-taoiseach-prime-minister-of-ire.md)

@@ -5,27 +5,27 @@ Formats: [HTML](2009/01/9/index.html)  [JSON](2009/01/9/index.json)  [XML](2009/
 
 ##### Israel
 ### [ Israel and Hamas ignore the United Nations Security Council's call for a ceasefire in the conflict in the Gaza Strip. ](/news/2009/01/9/israel-and-hamas-ignore-the-united-nations-security-council-s-call-for-a-ceasefire-in-the-conflict-in-the-gaza-strip.md)
-_Context: Gaza Strip, United Nations, ceasefire, Hamas, call, fire, Israel, United Nations Security Council_
+_Context: call, United Nations Security Council, United Nations, Gaza Strip, Hamas, Israel, ceasefire, fire_
 
 ##### Microsoft
 ### [ Microsoft Corporation releases the beta version of its Windows 7 operating system. ](/news/2009/01/9/microsoft-corporation-releases-the-beta-version-of-its-windows-7-operating-system.md)
-_Context: Microsoft, operating system, Windows 7, beta version_
+_Context: Microsoft, Windows 7, operating system, beta version_
 
 ##### India
 ### [ India faces a major shortage of petroleum products as a strike by employees of the Indian Oil Corporation and 14 other PSUs enters its third day. ](/news/2009/01/9/india-faces-a-major-shortage-of-petroleum-products-as-a-strike-by-employees-of-the-indian-oil-corporation-and-14-other-psus-enters-its-thir.md)
-_Context: strike, PSUs, petroleum product, India, Indian Oil Corporation_
+_Context: Indian Oil Corporation, strike, PSUs, petroleum product, India_
 
 ##### House of Representatives
 ### [ The House of Representatives of the U.S. state of Illinois votes 114-1 to impeach embattled Governor Rod Blagojevich. ](/news/2009/01/9/the-house-of-representatives-of-the-u-s-state-of-illinois-votes-114a1-to-impeach-embattled-governor-rod-blagojevich.md)
-_Context: Rod Blagojevich, Governor of Illinois, impeach, corruption, U.S. state, Illinois, House of Representatives_
+_Context: Illinois, House of Representatives, Governor of Illinois, Rod Blagojevich, impeach, U.S. state, corruption_
 
 ##### Magnitude
 ### [ A 6.1-magnitude earthquake in northern Costa Rica kills 15 people and injures 32. ](/news/2009/01/9/a-6-1-magnitude-earthquake-in-northern-costa-rica-kills-15-people-and-injures-32.md)
-_Context: magnitude, Costa Rica, earthquake_
+_Context: earthquake, magnitude, Costa Rica_
 
 ##### MV
 ### [ The MV "Sirius Star", a supertanker seized in the world's largest hijacking, is released with 2000000 oilbbl of oil and all 25 crew members unharmed after a US$3 million ransom is paid. ](/news/2009/01/9/the-mv-sirius-star-a-supertanker-seized-in-the-world-s-largest-hijacking-is-released-with-2000000-oilbbl-of-oil-and-all-25-crew-members.md)
-_Context: ransom, oil, MV, $, oil tanker, ''Sirius Star''_
+_Context: oil, MV, $, ransom, ''Sirius Star'', oil tanker_
 
 ## [Previous Day...](/news/2009/01/8/index.md)
 

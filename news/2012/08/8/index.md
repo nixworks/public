@@ -21,7 +21,7 @@ Nineteen people are now known to have died in severe floods in the Philippines, 
 
 ##### Hurricane Ernesto
 ### [Hurricane Ernesto hits the Yucatn Peninsula in Mexico. ](/news/2012/08/8/hurricane-ernesto-hits-the-yucatan-peninsula-in-mexico.md)
-_Context: Hurricane Ernesto, Yucatn Peninsula_
+_Context: Yucatn Peninsula, Hurricane Ernesto_
 
 ##### One World Trade Center
 ### [A welding fire breaks out but is soon extinguished, with no injuries, on the 88th floor of One World Trade Center in New York City.](/news/2012/08/8/a-welding-fire-breaks-out-but-is-soon-extinguished-with-no-injuries-on-the-88th-floor-of-one-world-trade-center-in-new-york-city.md)
@@ -53,7 +53,7 @@ The man sentenced to 25 years in jail for the murder of honeymooner Anni Dewani 
 
 ##### Jared Lee Loughner
 ### [Jared Lee Loughner, the shooter in the 2011 Tucson shooting, pleads guilty to all charges and is sentenced to life in prison without the possibility of parole. ](/news/2012/08/8/jared-lee-loughner-the-shooter-in-the-2011-tucson-shooting-pleads-guilty-to-all-charges-and-is-sentenced-to-life-in-prison-without-the-pos.md)
-_Context: Jared Lee Loughner, 2011 Tucson shooting_
+_Context: 2011 Tucson shooting, Jared Lee Loughner_
 
 ##### German
 ### [30 leading German managers write a letter to the leaders of the parliamentary groups where they ask for the ratification of the United Nations Convention against Corruption. ](/news/2012/08/8/30-leading-german-managers-write-a-letter-to-the-leaders-of-the-parliamentary-groups-where-they-ask-for-the-ratification-of-the-united-natio.md)
@@ -65,7 +65,7 @@ Japan is set to pass legislation tomorrow to raise the sales tax after the main 
 
 ##### Ukrainian President
 ### [President of Ukraine Viktor Yanukovych signs a controversial law about official status of 18 languages (including Russian, Hungarian, Crimean Tatar language, etc.) as regional and minority languages, allowing officials in Russian-speaking regions of the country to use Russian at public events and in documents. ](/news/2012/08/8/president-of-ukraine-viktor-yanukovych-signs-a-controversial-law-about-official-status-of-18-languages-including-russian-hungarian-crimea.md)
-_Context: minority language, Crimean Tatar language, Hungarian, Russian language, Ukrainian President, Viktor Yanukovych, regional, Russian-speaking regions_
+_Context: Viktor Yanukovych, regional, Crimean Tatar language, Russian-speaking regions, minority language, Russian language, Ukrainian President, Hungarian_
 
 ## [Previous Day...](/news/2012/08/7/index.md)
 

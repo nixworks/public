@@ -5,9 +5,9 @@ Formats: [HTML](2009/02/6/index.html)  [JSON](2009/02/6/index.json)  [XML](2009/
 
 ##### Sweden
 ### [ Sweden ends its moratorium on the construction of nuclear power plants. ](/news/2009/02/6/sweden-ends-its-moratorium-on-the-construction-of-nuclear-power-plants.md)
-_Context: moratorium, nuclear power, Sweden_
+_Context: nuclear power, Sweden, moratorium_
 
-##### American
+##### U.S.
 ### [ The United States Food and Drug Administration approves ATryn, the first drug made using genetically engineered animals. ](/news/2009/02/6/the-united-states-food-and-drug-administration-approves-atryn-the-first-drug-made-using-genetically-engineered-animals.md)
 U.S. health officials on Friday approved the first drug made using genetically engineered animals despite lingering concerns over health and environmental implications.
 
@@ -21,23 +21,23 @@ About 84 children have died over the past three months after taking a teething d
 
 ##### Pakistan
 ### [ Pakistani nuclear scientist Abdul Qadeer Khan is released from house arrest in Islamabad. ](/news/2009/02/6/pakistani-nuclear-scientist-abdul-qadeer-khan-is-released-from-house-arrest-in-islamabad.md)
-_Context: Pakistan, Islamabad, Abdul Qadeer Khan, nuclear scientist, house arrest_
+_Context: Pakistan, Islamabad, Abdul Qadeer Khan, house arrest, nuclear scientist_
 
 ##### United Nations
 ### [ United Nations Secretary-General Ban Ki-moon visits Iraq to meet with Prime Minister Nouri al-Maliki. ](/news/2009/02/6/united-nations-secretary-general-ban-ki-moon-visits-iraq-to-meet-with-prime-minister-nouri-al-maliki.md)
-_Context: Iraq Prime Minister, Iraq, United Nations, United Nations Secretary-General, Nouri al-Maliki, Ban Ki-moon_
+_Context: United Nations, Nouri al-Maliki, Ban Ki-moon, Iraq, Iraq Prime Minister, United Nations Secretary-General_
 
 ##### Sri Lanka
 ### [ Sri Lanka's government refuses to negotiate with the Tamil Tigers at what it calls a "crucial and final stage" of the ongoing civil war. ](/news/2009/02/6/sri-lanka-s-government-refuses-to-negotiate-with-the-tamil-tigers-at-what-it-calls-a-crucial-and-final-stage-of-the-ongoing-civil-war.md)
-_Context: LTTE, Sri Lankan Civil War, Sri Lanka, government_
+_Context: Sri Lankan Civil War, Sri Lanka, government, LTTE_
 
 ##### Russia
 ### [ Russia's government will allow the U.S. Armed Forces to ship nonlethal equipment to Afghanistan through Russian territory. ](/news/2009/02/6/russia-s-government-will-allow-the-u-s-armed-forces-to-ship-nonlethal-equipment-to-afghanistan-through-russian-territory.md)
-_Context: Russia, Afghanistan, United States military personnel, Russian government, American, nonlethal equipment_
+_Context: U.S., Afghanistan, Russian government, United States military personnel, Russia, nonlethal equipment_
 
 ##### Somalia
 ### [ Somali pirates will release the MV "Blue Star" and her crew of 28 Egyptians upon receiving a ransom. ](/news/2009/02/6/somali-pirates-will-release-the-mv-blue-star-and-her-crew-of-28-egyptians-upon-receiving-a-ransom.md)
-_Context: Somalia, ransom, MV, Egypt, Somali pirates_
+_Context: Somalia, Egypt, Somali pirates, MV, ransom_
 
 ##### USS
 ### [ The USS "Port Royal" runs aground off Hawaii. ](/news/2009/02/6/the-uss-port-royal-runs-aground-off-hawaii.md)
@@ -45,11 +45,11 @@ Ticonderoga-class guided missile cruiser the USS Port Royal has run aground off 
 
 ##### Chief Minister
 ### [ Chief Minister of Perak, Malaysia, Mohammad Nizar Jamaluddin is forcibly removed from office and threatens legal action. ](/news/2009/02/6/chief-minister-of-perak-malaysia-mohammad-nizar-jamaluddin-is-forcibly-removed-from-office-and-threatens-legal-action.md)
-_Context: Mohammad Nizar Jamaluddin, Malaysia, Perak, Chief Minister_
+_Context: Perak, Chief Minister, Malaysia, Mohammad Nizar Jamaluddin_
 
 ##### Desmond Tutu
 ### [ Archbishop Desmond Tutu will help establish a Truth and Reconciliation Commission in the Solomon Islands. ](/news/2009/02/6/archbishop-desmond-tutu-will-help-establish-a-truth-and-reconciliation-commission-in-the-solomon-islands.md)
-_Context: Truth and Reconciliation Commission, Desmond Tutu, Solomon Islands_
+_Context: Solomon Islands, Desmond Tutu, Truth and Reconciliation Commission_
 
 ## [Previous Day...](/news/2009/02/5/index.md)
 

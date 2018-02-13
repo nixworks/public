@@ -5,11 +5,11 @@ Formats: [HTML](2013/07/4/index.html)  [JSON](2013/07/4/index.json)  [XML](2013/
 
 ##### Statue of Liberty
 ### [The Statue of Liberty opens for the first time since Hurricane Sandy caused extensive damage to Liberty Island in New York harbor in late October 2012. ](/news/2013/07/4/the-statue-of-liberty-opens-for-the-first-time-since-hurricane-sandy-caused-extensive-damage-to-liberty-island-in-new-york-harbor-in-late-oc.md)
-_Context: New York harbor, Hurricane Sandy, Liberty Island, Statue of Liberty_
+_Context: Statue of Liberty, Hurricane Sandy, New York harbor, Liberty Island_
 
 ##### Lancaster
 ### [A house fire kills 6 people in Lancaster, Pennsylvania. ](/news/2013/07/4/a-house-fire-kills-6-people-in-lancaster-pennsylvania.md)
-_Context: Lancaster, Pennsylvania_
+_Context: Pennsylvania, Lancaster_
 
 ##### South Korea
 ### [South Korea offers to hold talks with North Korea over reopening a joint factory complex in the North Korean town of Kaesong which shut down in April. ](/news/2013/07/4/south-korea-offers-to-hold-talks-with-north-korea-over-reopening-a-joint-factory-complex-in-the-north-korean-town-of-kaesong-which-shut-down.md)
@@ -41,7 +41,7 @@ Doctors treating Nelson Mandela have reportedly said that he is in a &quot;perma
 
 ##### Species
 ### [A new species of lizard is found in Sergipe, Brazil. ](/news/2013/07/4/a-new-species-of-lizard-is-found-in-sergipe-brazil.md)
-_Context: species, Sergipe, lizard, Brazil_
+_Context: Brazil, Sergipe, species, lizard_
 
 ## [Previous Day...](/news/2013/07/3/index.md)
 

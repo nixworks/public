@@ -13,7 +13,7 @@ The Kurdish security chief for embattled Iraqi politician Ahmad Chalabi is being
 
 ##### UN Security Council
 ### [ The United States pushes for the UN Security Council to renew Resolution 1487 that would exempt U.S. troops and officials from prosecution by the International Criminal Court. ](/news/2004/05/20/the-united-states-pushes-for-the-un-security-council-to-renew-resolution-1487-that-would-exempt-u-s-troops-and-officials-from-prosecution.md)
-_Context: ICC, UN Security Council_
+_Context: UN Security Council, ICC_
 
 ## [Previous Day...](/news/2004/05/19/index.md)
 

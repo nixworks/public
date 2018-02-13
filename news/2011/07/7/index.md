@@ -29,11 +29,11 @@ _Context: Japan, Toyota, 2011 Tohoku earthquake and tsunami_
 
 ##### Australia
 ### [Australia's Civil Aviation Safety Authority applies to extend grounding of Tiger Airways services in Australia to August 1. ](/news/2011/07/7/australia-s-civil-aviation-safety-authority-applies-to-extend-grounding-of-tiger-airways-services-in-australia-to-august-1.md)
-_Context: Tiger Airways, Australia, Civil Aviation Safety Authority_
+_Context: Australia, Tiger Airways, Civil Aviation Safety Authority_
 
 ##### NYSE Euronext
 ### [NYSE Euronext shareholders approve of the acquisition of that company, parent corporation of the New York Stock Exchange, by Deutsche Boerse AG. The deal still needs to receive the approval of the acquiring firm's shareholders. ](/news/2011/07/7/nyse-euronext-shareholders-approve-of-the-acquisition-of-that-company-parent-corporation-of-the-new-york-stock-exchange-by-deutsche-boerse.md)
-_Context: Deutsche Boerse AG, New York Stock Exchange, NYSE Euronext_
+_Context: NYSE Euronext, New York Stock Exchange, Deutsche Boerse AG_
 
 ##### News International
 ### [News International shuts down the British newspaper the "News of the World", as a result of a phone hacking affair, with the final edition coming out Sunday. ](/news/2011/07/7/news-international-shuts-down-the-british-newspaper-the-news-of-the-world-as-a-result-of-a-phone-hacking-affair-with-the-final-edition-c.md)
@@ -41,11 +41,11 @@ Police investigating allegations of phone hacking by the News of the World plead
 
 ##### Earthquake
 ### [A 7.6 magnitude earthquake occurs off the coast of New Zealand's Kermadec Islands resulting in a tidal surge. ](/news/2011/07/7/a-7-6-magnitude-earthquake-occurs-off-the-coast-of-new-zealand-s-kermadec-islands-resulting-in-a-tidal-surge.md)
-_Context: earthquake, New Zealand, tidal surge, Kermadec Islands_
+_Context: New Zealand, tidal surge, Kermadec Islands, earthquake_
 
 ##### Coal mine
 ### [At least 36 people are trapped underground in a coal mine in China's Shandong Province after a fire breaks out. ](/news/2011/07/7/at-least-36-people-are-trapped-underground-in-a-coal-mine-in-china-s-shandong-province-after-a-fire-breaks-out.md)
-_Context: Shandong Province, coal mine, China_
+_Context: coal mine, Shandong Province, China_
 
 ##### Uttar Pradesh
 ### [At least thirty people are feared dead after a collision between a passenger train and a bus in Uttar Pradesh, India. ](/news/2011/07/7/at-least-thirty-people-are-feared-dead-after-a-collision-between-a-passenger-train-and-a-bus-in-uttar-pradesh-india.md)
@@ -53,15 +53,15 @@ The bus passengers were returning from a marriage celebration. The accident happ
 
 ##### Enschede
 ### [In Enschede the Netherlands part of the roof of the stadium of football club FC Twente "De Grolsch Veste" collapses leaving persons dead and a dozen injured. ](/news/2011/07/7/in-enschede-the-netherlands-part-of-the-roof-of-the-stadium-of-football-club-fc-twente-de-grolsch-veste-collapses-leaving-persons-dead-and.md)
-_Context: FC Twente, Enschede, De Grolsch Veste, Netherlands_
+_Context: Enschede, De Grolsch Veste, FC Twente, Netherlands_
 
 ##### Denver, Colorado
 ### [A heavy storm in the US city of Denver, Colorado, causes localized flooding and causing 10,000 houses to lose power. ](/news/2011/07/7/a-heavy-storm-in-the-us-city-of-denver-colorado-causes-localized-flooding-and-causing-10-000-houses-to-lose-power.md)
-_Context: Colorado, flood, Denver, Colorado_
+_Context: Colorado, Denver, Colorado, flood_
 
 ##### South Korea
 ### [South Korea starts work on a new facility to rehouse refugees from North Korea to avoid both food shortages and political oppression. ](/news/2011/07/7/south-korea-starts-work-on-a-new-facility-to-rehouse-refugees-from-north-korea-to-avoid-both-food-shortages-and-political-oppression.md)
-_Context: South Korea, North Korea, refugee_
+_Context: North Korea, refugee, South Korea_
 
 ##### Janet Napolitano
 ### [Janet Napolitano, the United States Secretary of Homeland Security, rolls out the Obama administration's strategy to curb drug smuggling on the Mexican border. ](/news/2011/07/7/janet-napolitano-the-united-states-secretary-of-homeland-security-rolls-out-the-obama-administration-s-strategy-to-curb-drug-smuggling-on.md)
@@ -85,7 +85,7 @@ _Context: Texas, Mexican, international law_
 
 ##### Casey Anthony
 ### [Casey Anthony is sentenced to four years for lying to law enforcement regarding the death of her child Caylee in the U.S. state of Florida but after credit for time served will be released on July 17. ](/news/2011/07/7/casey-anthony-is-sentenced-to-four-years-for-lying-to-law-enforcement-regarding-the-death-of-her-child-caylee-in-the-u-s-state-of-florida-b.md)
-_Context: Casey Anthony, the state_
+_Context: the state, Casey Anthony_
 
 ##### General strike
 ### [A general strike continues in Bangladesh over a proposed change to the electoral system. ](/news/2011/07/7/a-general-strike-continues-in-bangladesh-over-a-proposed-change-to-the-electoral-system.md)
@@ -97,7 +97,7 @@ _Context: Chinese President, China, Jiang Zemin_
 
 ##### Freedom Flotilla II
 ### [Freedom Flotilla II: The Greek Coast Guard prevents the ship "Dignity Al Karama" from sailing to the Gaza Strip after it stops to refuel in Crete. ](/news/2011/07/7/freedom-flotilla-ii-the-greek-coast-guard-prevents-the-ship-dignity-al-karama-from-sailing-to-the-gaza-strip-after-it-stops-to-refuel-in.md)
-_Context: Freedom Flotilla II, Crete, Hellenic Coast Guard, Gaza Strip_
+_Context: Crete, Hellenic Coast Guard, Gaza Strip, Freedom Flotilla II_
 
 ##### National Congress Party
 ### [The southern branch of Sudan's ruling National Congress Party announces its split from the northern party ahead of South Sudan's independence ](/news/2011/07/7/the-southern-branch-of-sudan-s-ruling-national-congress-party-announces-its-split-from-the-northern-party-ahead-of-south-sudan-s-independenc.md)

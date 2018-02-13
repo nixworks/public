@@ -9,11 +9,11 @@ Formats: [HTML](2010/03/7/index.html)  [JSON](2010/03/7/index.json)  [XML](2010/
 
 ##### Abortion
 ### [Tens of thousands demonstrate against an abortion bill in several Spanish cities. ](/news/2010/03/7/tens-of-thousands-demonstrate-against-an-abortion-bill-in-several-spanish-cities.md)
-_Context: abortion, Spain_
+_Context: Spain, abortion_
 
 ##### Melbourne
 ### [Melbourne, Australia experiences flooding after a once-in-a-century thunderstorm of marble-sized hailstones which tears the roof from a railway station and leads to the postponement of sports fixtures. A state of emergency is declared in Queensland.](/news/2010/03/7/melbourne-australia-experiences-flooding-after-a-once-in-a-century-thunderstorm-of-marble-sized-hailstones-which-tears-the-roof-from-a-rail.md)
-_Context: Australia, a once-in-a-century thunderstorm of marble-sized hailstones, Queensland, Melbourne_
+_Context: Australia, Melbourne, Queensland, a once-in-a-century thunderstorm of marble-sized hailstones_
 
 ##### Iraq
 ### [Voters in Iraq take part in parliamentary elections and a referendum on the Status of Forces Agreement. ](/news/2010/03/7/voters-in-iraq-take-part-in-parliamentary-elections-and-a-referendum-on-the-status-of-forces-agreement.md)

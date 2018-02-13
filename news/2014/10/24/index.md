@@ -9,7 +9,7 @@ _Context: Sinai Peninsula, recent attacks_
 
 ##### Marysville Pilchuck High School shooting
 ### [A student and a student gunman of Marysville Pilchuck High School in Marysville, Washington, are fatally shot along with six others injured. ](/news/2014/10/24/a-student-and-a-student-gunman-of-marysville-pilchuck-high-school-in-marysville-washington-are-fatally-shot-along-with-six-others-injured.md)
-_Context: Marysville Pilchuck High School shooting, Marysville Pilchuck High School, Marysville, Washington_
+_Context: Marysville, Washington, Marysville Pilchuck High School, Marysville Pilchuck High School shooting_
 
 ##### 2014 shooting of Sacramento police officers
 ### [A gunman kills two sheriff's deputies and wounds an officer and a bystander in Sacramento County, California, then is arrested. ](/news/2014/10/24/a-gunman-kills-two-sheriff-s-deputies-and-wounds-an-officer-and-a-bystander-in-sacramento-county-california-then-is-arrested.md)
@@ -21,7 +21,7 @@ EU leaders reach a landmark climate deal, including a target to cut carbon emiss
 
 ##### Botswana election
 ### [Voters in Botswana go to the polls for a general election with the ruling Botswana Democratic Party of President Ian Khama winning 33 of 57 seats. ](/news/2014/10/24/voters-in-botswana-go-to-the-polls-for-a-general-election-with-the-ruling-botswana-democratic-party-of-president-ian-khama-winning-33-of-57.md)
-_Context: Botswana Democratic Party, President, Botswana election, Ian Khama, Botswana_
+_Context: Botswana election, Ian Khama, Botswana Democratic Party, President, Botswana_
 
 ##### Spaceflight mission
 ### [The China National Space Administration launches the unmanned Chang'e 5-T1 spacecraft to fly around the moon and back to earth. ](/news/2014/10/24/the-china-national-space-administration-launches-the-unmanned-chang-e-5-t1-spacecraft-to-fly-around-the-moon-and-back-to-earth.md)

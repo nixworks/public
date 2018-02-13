@@ -33,7 +33,7 @@ The US charges five Chinese army officers with hacking into private-sector compa
 
 ##### Saudi Arabia
 ### [Saudi Arabia closes its embassy in Tripoli over security concerns in Libya. ](/news/2014/05/19/saudi-arabia-closes-its-embassy-in-tripoli-over-security-concerns-in-libya.md)
-_Context: Saudi Arabia, Tripoli, Libya_
+_Context: Libya, Saudi Arabia, Tripoli_
 
 ##### Same-sex couples
 ### [Same-sex marriage in Oregon becomes legal as a U.S. federal district court judge rules that the state's ban on such marriages violates equal protection rights under the Fourteenth Amendment to the United States Constitution.](/news/2014/05/19/same-sex-marriage-in-oregon-becomes-legal-as-a-u-s-federal-district-court-judge-rules-that-the-state-s-ban-on-such-marriages-violates-equal.md)

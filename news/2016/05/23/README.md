@@ -17,7 +17,7 @@ Reports of heavy shelling in city that was first to fall to ISIL in 2014 as bele
 
 ##### Insurgency in Jammu and Kashmir
 ### [ Three policemen are killed in Srinagar, India. Hizbul Mujahideen claims responsibility. ](/news/2016/05/23/three-policemen-are-killed-in-srinagar-india-hizbul-mujahideen-claims-responsibility.md)
-_Context: India, Srinagar, Insurgency in Jammu and Kashmir, police, Hizbul Mujahideen_
+_Context: police, Insurgency in Jammu and Kashmir, Hizbul Mujahideen, Srinagar, India_
 
 ##### War in Afghanistan
 ### [The Taliban leadership council reportedly meets to determine a successor to Mullah Akhtar Mansour, killed this weekend during an American drone strike in Pakistan. ](/news/2016/05/23/the-taliban-leadership-council-reportedly-meets-to-determine-a-successor-to-mullah-akhtar-mansour-killed-this-weekend-during-an-american-dr.md)
@@ -45,7 +45,7 @@ MIREBALAIS, Haiti (AP) — Berny Saint-Sauveur was moaning and incoherent when h
 
 ##### United States-Vietnam relations
 ### [ United States President Barack Obama ends the American arms embargo with Vietnam during his visit in the country. ](/news/2016/05/23/united-states-president-barack-obama-ends-the-american-arms-embargo-with-vietnam-during-his-visit-in-the-country.md)
-_Context: Barack Obama, United States-Vietnam relations, Vietnam, American, U.S. President_
+_Context: United States-Vietnam relations, Barack Obama, U.S. President, Vietnam, U.S._
 
 ##### World Humanitarian Summit
 ### [The first-ever United Nations humanitarian summit opens in Istanbul, Turkey, to address the 125-million people crisis, the worst since World War II. ](/news/2016/05/23/the-first-ever-united-nations-humanitarian-summit-opens-in-istanbul-turkey-to-address-the-125-million-people-crisis-the-worst-since-world.md)
@@ -77,7 +77,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ##### Austrian presidential election, 2016
 ### [ Independent candidate Alexander Van der Bellen, a member of The Greens, is elected President of Austria in a tight contest that was decided by mail-in votes. ](/news/2016/05/23/independent-candidate-alexander-van-der-bellen-a-member-of-the-greens-is-elected-president-of-austria-in-a-tight-contest-that-was-decided.md)
-_Context: Austrian presidential election, 2016, President, Alexander Van der Bellen, Green_
+_Context: Alexander Van der Bellen, Austrian presidential election, 2016, President, Green_
 
 ##### Rodrigo Duterte
 ### [Rodrigo Duterte, the Philippines presumptive president-elect, says he will allow the immediate burial of former kleptocratic dictator Ferdinand Marcos at the Heroes' Cemetery in metropolitan Manila. ](/news/2016/05/23/rodrigo-duterte-the-philippines-presumptive-president-elect-says-he-will-allow-the-immediate-burial-of-former-kleptocratic-dictator-ferdin.md)
@@ -89,7 +89,7 @@ The leading opposition party, the Progressive Party of Working People, will have
 
 ##### Indian Space Research Organisation
 ### [ ISRO successfully launched India's Reusable Launch Vehicle demonstrator mission (RLV-TD).](/news/2016/05/23/isro-successfully-launched-india-s-reusable-launch-vehicle-demonstrator-mission-rlv-td.md)
-_Context: RLV-TD, Indian Space Research Organisation, India_
+_Context: Indian Space Research Organisation, India, RLV-TD_
 
 ## [Previous Day...](/news/2016/05/22/index.md)
 

@@ -5,11 +5,11 @@ Formats: [HTML](2012/09/3/index.html)  [JSON](2012/09/3/index.json)  [XML](2012/
 
 ##### International Committee of the Red Cross
 ### [The head of the international Red Cross, Peter Maurer, arrives in Damascus for a three-day review with the Syrian government of the humanitarian situation. ](/news/2012/09/3/the-head-of-the-international-red-cross-peter-maurer-arrives-in-damascus-for-a-three-day-review-with-the-syrian-government-of-the-humanita.md)
-_Context: Government of Syria, International Committee of the Red Cross, humanitarian situation, Damascus, Syria_
+_Context: International Committee of the Red Cross, Government of Syria, Syria, humanitarian situation, Damascus_
 
 ##### New Zealand
 ### [New Zealand announces that it plans to withdraw its forces from Afghanistan's Bamiyan province by the end of April 2013. ](/news/2012/09/3/new-zealand-announces-that-it-plans-to-withdraw-its-forces-from-afghanistan-s-bamiyan-province-by-the-end-of-april-2013.md)
-_Context: New Zealand, New Zealand Defence Force, Bamiyan, Afghanistan_
+_Context: Bamiyan, New Zealand, Afghanistan, New Zealand Defence Force_
 
 ##### Car bomb
 ### [A car bomb explodes near the U.S. consulate in the Pakistani city of Peshawar, killing at least three people and wounding up to 19 others. ](/news/2012/09/3/a-car-bomb-explodes-near-the-u-s-consulate-in-the-pakistani-city-of-peshawar-killing-at-least-three-people-and-wounding-up-to-19-others.md)
@@ -33,7 +33,7 @@ Moody’s said the European Union’s rating would be particularly vulnerable to
 
 ##### North Korea
 ### [The North Korean state news agency says "Typhoon-15" (Bolaven) left 48 people dead and caused major damage. ](/news/2012/09/3/the-north-korean-state-news-agency-says-typhoon-15-bolaven-left-48-people-dead-and-caused-major-damage.md)
-_Context: Bolaven, North Korea_
+_Context: North Korea, Bolaven_
 
 ##### Lebanese
 ### [Lebanon bans smoking in closed public places like restaurants and cafs. ](/news/2012/09/3/lebanon-bans-smoking-in-closed-public-places-like-restaurants-and-cafes.md)

@@ -5,11 +5,11 @@ Formats: [HTML](2015/02/14/index.html)  [JSON](2015/02/14/index.json)  [XML](201
 
 ##### War in Donbass
 ### [Ukrainian President Petro Poroshenko warns of a threat to a planned ceasefire tonight from heavy fighting today and accuses Russia of "significantly increasing" its offensive. In a live interview he ordered all Ukrainian forces to cease fire after midnight. ](/news/2015/02/14/ukrainian-president-petro-poroshenko-warns-of-a-threat-to-a-planned-ceasefire-tonight-from-heavy-fighting-today-and-accuses-russia-of-signi.md)
-_Context: Russia, War in Donbass, Petro Poroshenko_
+_Context: Russia, Petro Poroshenko, War in Donbass_
 
 ##### Internal conflict in Burma
 ### [Myanmar launches air strikes against rebels in the Kokang area as dozens of soldiers have been killed and dozens more wounded in fightings in recent weeks. ](/news/2015/02/14/myanmar-launches-air-strikes-against-rebels-in-the-kokang-area-as-dozens-of-soldiers-have-been-killed-and-dozens-more-wounded-in-fightings-i.md)
-_Context: Kokang offensive, Internal conflict in Burma, Myanmar, Kokang_
+_Context: Internal conflict in Burma, Myanmar, Kokang offensive, Kokang_
 
 ##### 2015 Copenhagen shootings
 ### [Danish Police seek a gunman who fired an automatic weapon at a free speech seminar in Copenhagen, Denmark, killing documentary maker Finn Norgaard and injuring Swedish artist Lars Vilks known for controversial drawings of the prophet Mohammed. Among the injured are also three police officers who had been guarding the seminar. ](/news/2015/02/14/danish-police-seek-a-gunman-who-fired-an-automatic-weapon-at-a-free-speech-seminar-in-copenhagen-denmark-killing-documentary-maker-finn-na.md)
@@ -25,11 +25,11 @@ Taxi, by dissident Iranian director Jafar Panahi, wins top prize at the Berlin F
 
 ##### French-born
 ### [French film and television actor Louis Jourdan ("Gigi") dies at the age of 93. ](/news/2015/02/14/french-film-and-television-actor-louis-jourdan-gigi-dies-at-the-age-of-93.md)
-_Context: French-born, Louis Jourdan, Gigi_
+_Context: Gigi, Louis Jourdan, French-born_
 
 ##### Blizzard
 ### [There is a blizzard warning in place for eastern Massachusetts in the northeastern United States. ](/news/2015/02/14/there-is-a-blizzard-warning-in-place-for-eastern-massachusetts-in-the-northeastern-united-states.md)
-_Context: blizzard, northeastern United States, Massachusetts_
+_Context: northeastern United States, Massachusetts, blizzard_
 
 ##### Swine flu
 ### [Twelve people die of swine flu in the Indian state of Gujarat taking the death toll to 136 since January with 130 new cases reported. ](/news/2015/02/14/twelve-people-die-of-swine-flu-in-the-indian-state-of-gujarat-taking-the-death-toll-to-136-since-january-with-130-new-cases-reported.md)
@@ -41,15 +41,15 @@ _Context: United Arab Emirates, Yemen, Yemeni Crisis (2011-present)_
 
 ##### Australian Prime Minister
 ### [The Prime Minister of Australia Tony Abbott issues a last-minute plea for Bali Nine drug smugglers Andrew Chan and Myuran Sukumaran facing the death penalty in Indonesia. ](/news/2015/02/14/the-prime-minister-of-australia-tony-abbott-issues-a-last-minute-plea-for-bali-nine-drug-smugglers-andrew-chan-and-myuran-sukumaran-facing-t.md)
-_Context: Australian Prime Minister, sentenced to death, Myuran Sukumaran, Indonesia, Bali Nine, Andrew Chan, Tony Abbott_
+_Context: Myuran Sukumaran, Tony Abbott, Indonesia, Bali Nine, Andrew Chan, sentenced to death, Australian Prime Minister_
 
 ##### President of Chad
 ### [Former President of Chad Hissene Habre will stand trial in Senegal for alleged war crimes, torture and crimes against humanity. ](/news/2015/02/14/former-president-of-chad-hissa-ne-habra-c-will-stand-trial-in-senegal-for-alleged-war-crimes-torture-and-crimes-against-humanity.md)
-_Context: President of Chad, Hissene Habre, Senegal_
+_Context: Senegal, Hissene Habre, President of Chad_
 
 ##### Journalist
 ### [A motorcycle gunman shoots and kills a journalist in the Philippines who had been critical of local officials' alleged involvement in the illegal drug trade. The murder of the journalist is the 34th since the regime of Benigno Aquino III began in 2010. ](/news/2015/02/14/a-motorcycle-gunman-shoots-and-kills-a-journalist-in-the-philippines-who-had-been-critical-of-local-officials-alleged-involvement-in-the-il.md)
-_Context: his predecessor, journalist, Philippines_
+_Context: Philippines, journalist, his predecessor_
 
 ##### Royal Canadian Mounted Police
 ### [Canadian Police foil a planned Valentines Day massacre in Halifax, Nova Scotia. ](/news/2015/02/14/canadian-police-foil-a-planned-valentines-day-massacre-in-halifax-nova-scotia.md)

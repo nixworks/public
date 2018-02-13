@@ -9,11 +9,11 @@ _Context: Boston, Massachusetts, Democratic Convention_
 
 ##### Suicide bomber
 ### [ A suicide bomber attacks near a U.S base in the northern city of Mosul, killing two civilians and an Iraqi security guard. Three U.S soldiers and an Iraqi security guard were wounded. The Iraqi interim Interior Ministry's Deputy Chief of Tribal Affairs, Col. Musab al-Awadi, is assassinated in Baghdad, along with two of his bodyguards. Insurgents kill two Iraqi women working as cleaners for British forces in Basra in southern Iraq. Militants threaten to kill two Jordanian truck drivers they captured within 72 hours if their Jordanian employer does not stop doing business with the U.S. military. ](/news/2004/07/26/a-suicide-bomber-attacks-near-a-u-s-base-in-the-northern-city-of-mosul-killing-two-civilians-and-an-iraqi-security-guard-three-u-s-soldie.md)
-_Context: Baghdad, Mosul, suicide bomber, Basra_
+_Context: Basra, suicide bomber, Baghdad, Mosul_
 
 ##### International Maritime Bureau
 ### [ The International Maritime Bureau says that deaths due to piracy doubled in the first month of 2004 compared with the same period in 2003, to 30 people. Half of the killings were in Nigerian waters. Despite the increased violence, the total number of piracy attacks fell. In the economically critical Straits of Malacca however, attacks rose by a third. ](/news/2004/07/26/the-international-maritime-bureau-says-that-deaths-due-to-piracy-doubled-in-the-first-month-of-2004-compared-with-the-same-period-in-2003.md)
-_Context: Straits of Malacca, piracy, Nigeria, International Maritime Bureau_
+_Context: Straits of Malacca, piracy, International Maritime Bureau, Nigeria_
 
 ## [Previous Day...](/news/2004/07/25/index.md)
 

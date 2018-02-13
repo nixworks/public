@@ -3,9 +3,9 @@ Formats: [HTML](2010/01/9/index.html)  [JSON](2010/01/9/index.json)  [XML](2010/
 
 ## [2010-01-9](/news/2010/01/9/index.md)
 
-##### American
+##### U.S.
 ### [The United States warns against an attack by "regional extremists" on an Air Uganda flight between Uganda and Sudan. ](/news/2010/01/9/the-united-states-warns-against-an-attack-by-regional-extremists-on-an-air-uganda-flight-between-uganda-and-sudan.md)
-_Context: American, Uganda, Sudan, Air Uganda_
+_Context: Uganda, Air Uganda, Sudan, U.S._
 
 ##### Hellenic Parliament
 ### [A bomb explodes outside the Greek Parliament in Athens with no casualties. ](/news/2010/01/9/a-bomb-explodes-outside-the-greek-parliament-in-athens-with-no-casualties.md)
@@ -41,7 +41,7 @@ _Context: Hong Kong_
 
 ##### Sri Lanka
 ### [The Sri Lankan army releases over 700 former Tamil Tiger fighters after a rehabilitation program. ](/news/2010/01/9/the-sri-lankan-army-releases-over-700-former-tamil-tiger-fighters-after-a-rehabilitation-program.md)
-_Context: LTTE, Sri Lanka_
+_Context: Sri Lanka, LTTE_
 
 ##### India
 ### [An Indian man is set on fire in Melbourne, Australia, in the latest in a series of attacks on Indian nationals in the country. ](/news/2010/01/9/an-indian-man-is-set-on-fire-in-melbourne-australia-in-the-latest-in-a-series-of-attacks-on-indian-nationals-in-the-country.md)
@@ -57,7 +57,7 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 
 ##### Afghanistan
 ### [Afghanistan's President Hamid Karzai resubmits his proposal for forming the cabinet after his previous selection was rejected by the National Assembly. ](/news/2010/01/9/afghanistan-s-president-hamid-karzai-resubmits-his-proposal-for-forming-the-cabinet-after-his-previous-selection-was-rejected-by-the-nationa.md)
-_Context: National Assembly, Hamid Karzai, Afghanistan_
+_Context: Hamid Karzai, Afghanistan, National Assembly_
 
 ## [Previous Day...](/news/2010/01/8/index.md)
 

@@ -11,9 +11,9 @@ _Context: Iraq_
 ### [Rite Aid, one of the largest chains of pharmacies in the United States, announces that it is purchasing EnvisionRx, a pharmacy benefits manager, from TPG Capital, for $2 billion. ](/news/2015/02/11/rite-aid-one-of-the-largest-chains-of-pharmacies-in-the-united-states-announces-that-it-is-purchasing-envisionrx-a-pharmacy-benefits-mana.md)
 Drugstore operator Rite Aid Corp (RAD.N) agreed to buy pharmacy benefit manager EnvisionRx for about $2 billion, looking to cut drug procurement costs as reimbursement rates fall.
 
-##### Cyprus
+##### Cypriot
 ### [The Greek Coast Guard rescues all 22 crewmen from a Cyprus-flagged vessel "Good Faith" that ran aground on the Greek island of Andros during a storm in the Aegean Sea. ](/news/2015/02/11/the-greek-coast-guard-rescues-all-22-crewmen-from-a-cyprus-flagged-vessel-good-faith-that-ran-aground-on-the-greek-island-of-andros-during.md)
-_Context: Aegean Sea, Cyprus, Andros, Greek_
+_Context: Andros, Greek, Cypriot, Aegean Sea_
 
 ##### Yeongjong Bridge
 ### [A 106-car pileup occurs on Yeongjong Bridge in Incheon, South Korea, leaving two men dead and more than 65 people injured. ](/news/2015/02/11/a-106-car-pileup-occurs-on-yeongjong-bridge-in-incheon-south-korea-leaving-two-men-dead-and-more-than-65-people-injured.md)
@@ -25,15 +25,15 @@ Costa Concordia captain Francesco Schettino is jailed for 16 years for the mansl
 
 ##### Yemeni Crisis (2011-present)
 ### [The United States, United Kingdom, and France close their Yemeni embassies and evacuate their staff due to terrorist activities and continued unrest. ](/news/2015/02/11/the-united-states-united-kingdom-and-france-close-their-yemeni-embassies-and-evacuate-their-staff-due-to-terrorist-activities-and-continue.md)
-_Context: United Kingdom, American, France, Yemen, Yemeni Crisis (2011-present)_
+_Context: France, Yemeni Crisis (2011-present), U.S., Yemen, United Kingdom_
 
 ##### General Secretary of the Communist Party of China
 ### [General Secretary of the Central Committee of the Communist Party of China Xi Jinping will make his first state visit to the United States next September. ](/news/2015/02/11/general-secretary-of-the-central-committee-of-the-communist-party-of-china-xi-jinping-will-make-his-first-state-visit-to-the-united-states-n.md)
-_Context: American, Xi Jinping, Communist Party of China, Central Committee, General Secretary of the Communist Party of China_
+_Context: Central Committee, Xi Jinping, General Secretary of the Communist Party of China, U.S., Communist Party of China_
 
 ##### War in Donbass
 ### [Leaders from Germany, France, Russia and Ukraine meet in the Belarusian capital Minsk for peace talks. ](/news/2015/02/11/leaders-from-germany-france-russia-and-ukraine-meet-in-the-belarusian-capital-minsk-for-peace-talks.md)
-_Context: France, Minsk, Russia, Ukraine, Belarus, War in Donbass, German_
+_Context: Belarus, German, Ukraine, France, War in Donbass, Russia, Minsk_
 
 ##### Killing a Muslim family of three
 ### [Police arrest a suspected shooter Craig Stephen Hicks for killing a Muslim family of three in Chapel Hill, North Carolina. Police state that the shooting was motivated by a long-standing neighbor dispute over parking. ](/news/2015/02/11/police-arrest-a-suspected-shooter-craig-stephen-hicks-for-killing-a-muslim-family-of-three-in-chapel-hill-north-carolina-police-state-that.md)
@@ -45,7 +45,7 @@ A man in his 60s dies after being shot outside a Catholic church in County Ferma
 
 ##### SpaceX
 ### [SpaceX launches a weather observation satellite, Deep Space Climate Observatory, at 6:03 p.m. EST from Cape Canaveral, Florida (for the US Air Force-NASA-NOAA), but postpones making of a second attempt to land a Falcon 9 v1.1 rocket on a floating platform called the autonomous spaceport drone ship, following the January 10 failure during the SpaceX CRS-5 mission. SpaceX instead, attempts a "mock" soft-landing into the Atlantic ocean ](/news/2015/02/11/spacex-launches-a-weather-observation-satellite-deep-space-climate-observatory-at-6-03-p-m-est-from-cape-canaveral-florida-for-the-us-a.md)
-_Context: Cape Canaveral Air Force Station, SpaceX, autonomous spaceport drone ship, United States Air Force, floating platform, U.S.  National Oceanic and Atmospheric Administration, Falcon 9 v1.1, Deep Space Climate Observatory, the state, Eastern Time Zone, NASA, SpaceX CRS-5, attempt to land_
+_Context: floating platform, Eastern Time Zone, NASA, Deep Space Climate Observatory, U.S.  National Oceanic and Atmospheric Administration, the state, Cape Canaveral Air Force Station, SpaceX, Falcon 9 v1.1, attempt to land, SpaceX CRS-5, autonomous spaceport drone ship, United States Air Force_
 
 ## [Previous Day...](/news/2015/02/10/index.md)
 

@@ -5,23 +5,23 @@ Formats: [HTML](2009/01/13/index.html)  [JSON](2009/01/13/index.json)  [XML](200
 
 ##### Russia-Ukraine gas disputes
 ### [ Despite an agreement to resume delivery of natural gas from Russia to Europe, the European Union says that "very limited" amounts were transmitted. ](/news/2009/01/13/despite-an-agreement-to-resume-delivery-of-natural-gas-from-russia-to-europe-the-european-union-says-that-very-limited-amounts-were-tran.md)
-_Context: Europe, natural gas, Russia, Russia-Ukraine gas disputes, European Union_
+_Context: natural gas, Russia, European Union, Europe, Russia-Ukraine gas disputes_
 
 ##### Israel
 ### [ Israeli Defense Forces advance on Gaza City and engage in urban warfare with Hamas militants. ](/news/2009/01/13/israeli-defense-forces-advance-on-gaza-city-and-engage-in-urban-warfare-with-hamas-militants.md)
-_Context: militant, Hamas, Israel, Israeli Army, urban warfare, fire, Gaza_
+_Context: Israel, fire, Israeli Army, Gaza, Hamas, militant, urban warfare_
 
-##### American
+##### U.S.
 ### [ The United States Senate Foreign Relations Committee begins confirmation hearings for Hillary Clinton's nomination as Secretary of State. ](/news/2009/01/13/the-united-states-senate-foreign-relations-committee-begins-confirmation-hearings-for-hillary-clinton-s-nomination-as-secretary-of-state.md)
-_Context: Hillary Clinton, Foreign Relations Committee, United States Senate, American, nomination, United States Secretary of State, confirmation hearings_
+_Context: U.S., Hillary Clinton, United States Secretary of State, United States Senate, Foreign Relations Committee, confirmation hearings, nomination_
 
 ##### German
 ### [ German Chancellor Angela Merkel announces a EUR50-billion economic stimulus package. ](/news/2009/01/13/german-chancellor-angela-merkel-announces-a-a-50-billion-economic-stimulus-package.md)
-_Context: Chancellor, Angela Merkel, EUR, German_
+_Context: EUR, Chancellor, Angela Merkel, German_
 
 ##### Yahoo!
 ### [ Yahoo! names Autodesk chairwoman Carol Bartz as its CEO. ](/news/2009/01/13/yahoo-names-autodesk-chairwoman-carol-bartz-as-its-ceo.md)
-_Context: Carol Bartz, Autodesk, Yahoo!, CEO, Chairman_
+_Context: Yahoo!, Autodesk, Carol Bartz, Chairman, CEO_
 
 ##### Citigroup
 ### [ Citigroup announces a merger deal with Morgan Stanley. ](/news/2009/01/13/citigroup-announces-a-merger-deal-with-morgan-stanley.md)

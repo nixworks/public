@@ -9,7 +9,7 @@ A Yemeni security chief survived an assassination attempt on Saturday in the sou
 
 ##### Arab
 ### [Fighting between rival Arab tribes in Sudan's Darfur region kills 51 people and injures 62 others. ](/news/2013/02/23/fighting-between-rival-arab-tribes-in-sudan-s-darfur-region-kills-51-people-and-injures-62-others.md)
-_Context: Darfur, Arab, Sudan_
+_Context: Sudan, Darfur, Arab_
 
 ##### Palestinians
 ### [Two Palestinians are shot by Jewish settlers when conflict erupts in the West Bank. ](/news/2013/02/23/two-palestinians-are-shot-by-jewish-settlers-when-conflict-erupts-in-the-west-bank.md)
@@ -17,19 +17,19 @@ Jewish settlers confronted Palestinian demonstrators in a West Bank village, acc
 
 ##### 33rd Golden Raspberry Awards
 ### [The 33rd Golden Raspberry Awards are held with "The Twilight Saga: Breaking Dawn - Part 2" winning Worst Picture. ](/news/2013/02/23/the-33rd-golden-raspberry-awards-are-held-with-the-twilight-saga-breaking-dawn-a-part-2-winning-worst-picture.md)
-_Context: 33rd Golden Raspberry Awards, Worst Picture, The Twilight Saga: Breaking Dawn - Part 2_
+_Context: Worst Picture, 33rd Golden Raspberry Awards, The Twilight Saga: Breaking Dawn - Part 2_
 
 ##### Iran
 ### [Iran announces that it has discovered new uranium deposits and that it is planning to build 16 new nuclear power plants. ](/news/2013/02/23/iran-announces-that-it-has-discovered-new-uranium-deposits-and-that-it-is-planning-to-build-16-new-nuclear-power-plants.md)
-_Context: Iran, nuclear power plants, uranium_
+_Context: uranium, nuclear power plants, Iran_
 
-##### American
+##### U.S.
 ### [The United States Air Force grounds its entire $400 billion fleet of 51 F-35 jets due to a major engine technical issue. During a routine inspection of the aircraft, maintenance personnel detected a cracked engine blade. ](/news/2013/02/23/the-united-states-air-force-grounds-its-entire-400-billion-fleet-of-51-f-35-jets-due-to-a-major-engine-technical-issue-during-a-routine-in.md)
-_Context: engine, F-35, grounds, aircraft, American, United States Air Force, United States dollars_
+_Context: U.S., United States Air Force, aircraft, F-35, engine, grounds, United States dollars_
 
 ##### Flooding
 ### [The death toll from flooding in the Australian state of New South Wales (NSW) rises to two as residents in northern NSW towns including Kempsey, Port Macquarie and Bellingen are evacuated. ](/news/2013/02/23/the-death-toll-from-flooding-in-the-australian-state-of-new-south-wales-nsw-rises-to-two-as-residents-in-northern-nsw-towns-including-kemp.md)
-_Context: Bellingen, flooding, NSW, Port Macquarie, Australia, Kempsey_
+_Context: NSW, Australia, Kempsey, flooding, Bellingen, Port Macquarie_
 
 ##### Hanford Nuclear Reservation
 ### [Six tanks at Hanford Nuclear Reservation in the U.S. state of Washington are leaking radioactive waste, but the leak has not posed an immediate public health risk. ](/news/2013/02/23/six-tanks-at-hanford-nuclear-reservation-in-the-u-s-state-of-washington-are-leaking-radioactive-waste-but-the-leak-has-not-posed-an-immedi.md)

@@ -13,7 +13,7 @@ An aircraft part found on Reunion Island was from missing Flight MH370, says Mal
 
 ##### Italian Coast Guard
 ### [The Italian Corps of the Port Captaincies - Coast Guard and Irish Navy rescue 367 people as a boat carrying migrants founders off the coast of Libya with 25 people dying. ](/news/2015/08/5/the-italian-corps-of-the-port-captaincies-a-coast-guard-and-irish-navy-rescue-367-people-as-a-boat-carrying-migrants-founders-off-the-coas.md)
-_Context: Italian Coast Guard, Irish Navy, Libya_
+_Context: Irish Navy, Libya, Italian Coast Guard_
 
 ##### The Gold King Mine waste water spill
 ### [The Gold King Mine waste water spill releases 3 million gallons of heavy metal toxin tailings and waste water into the Animas River in Colorado. ](/news/2015/08/5/the-gold-king-mine-waste-water-spill-releases-3-million-gallons-of-heavy-metal-toxin-tailings-and-waste-water-into-the-animas-river-in-color.md)
@@ -29,7 +29,7 @@ _Context: an outbreak of legionnaires disease in New York City_
 
 ##### Government of Cambodia
 ### [The Government of Cambodia claims that the Royal Thai Army has killed five Cambodians since January. ](/news/2015/08/5/the-government-of-cambodia-claims-that-the-royal-thai-army-has-killed-five-cambodians-since-january.md)
-_Context: Government of Cambodia, Cambodian, Royal Thai Army_
+_Context: Government of Cambodia, Royal Thai Army, Cambodian_
 
 ##### Pensacola
 ### [Police claim that a triple murder in Pensacola, Florida is linked to witchcraft and the blue moon. ](/news/2015/08/5/police-claim-that-a-triple-murder-in-pensacola-florida-is-linked-to-witchcraft-and-the-blue-moon.md)

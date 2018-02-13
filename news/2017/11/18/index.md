@@ -21,7 +21,7 @@ Pressure grows on the president to stand aside as thousands march to welcome the
 
 ##### Politics of Northern Ireland
 ### [Gerry Adams, the long-term leader of Sinn Fein, announces that he will step down as party leader next year. ](/news/2017/11/18/gerry-adams-the-long-term-leader-of-sinn-fa-c-in-announces-that-he-will-step-down-as-party-leader-next-year.md)
-_Context: Gerry Adams, Sinn Fein, Politics of Northern Ireland_
+_Context: Gerry Adams, Politics of Northern Ireland, Sinn Fein_
 
 ##### 2017 Spanish constitutional crisis
 ### [The Spanish Attorney General Jose Manuel Maza unexpectedly dies of an illness in Buenos Aires at the age of 66. ](/news/2017/11/18/the-spanish-attorney-general-josa-c-manuel-maza-unexpectedly-dies-of-an-illness-in-buenos-aires-at-the-age-of-66.md)

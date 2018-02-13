@@ -16,8 +16,8 @@ Eighteen people die when their bus plunges off a mountain road in the northern I
 
 ### Changes:
 
-1. [A passenger bus hits a mountainside near Nha Trang, Viet Nam, killing at least nine people and injuring many others. ](/news/2013/06/7/a-passenger-bus-hits-a-mountainside-near-nha-trang-viet-nam-killing-at-least-nine-people-and-injuring-many-others.md) _2018-02-11 05:08:18 (First version)_
-2. [A bus catches fire in the Chinese city of Xiamen, killing at least 42 people and injuring more than 30 others. ](/news/2013/06/7/a-bus-catches-fire-in-the-chinese-city-of-xiamen-killing-at-least-42-people-and-injuring-more-than-30-others.md) _2018-02-11 05:08:19 (Update)_
+1. [A passenger bus hits a mountainside near Nha Trang, Viet Nam, killing at least nine people and injuring many others. ](/news/2013/06/7/a-passenger-bus-hits-a-mountainside-near-nha-trang-viet-nam-killing-at-least-nine-people-and-injuring-many-others.md) _2018-02-12 05:05:07 (First version)_
+2. [A bus catches fire in the Chinese city of Xiamen, killing at least 42 people and injuring more than 30 others. ](/news/2013/06/7/a-bus-catches-fire-in-the-chinese-city-of-xiamen-killing-at-least-42-people-and-injuring-more-than-30-others.md) _2018-02-12 05:05:07 (Update)_
 2. [A bus plunges off a mountain road in the Indian state of Himachal Pradesh, killing at least 18 people and injuring 14 others. ](/news/2013/06/7/a-bus-plunges-off-a-mountain-road-in-the-indian-state-of-himachal-pradesh-killing-at-least-18-people-and-injuring-14-others.md) _(Current version)_
 
 ### Related:

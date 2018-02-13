@@ -9,11 +9,11 @@ Syrian jets bombed rebel-held areas of Damascus on Saturday, residents said, as 
 
 ##### M23
 ### [M23 rebels begin their withdrawal from the city of Goma as part of a Uganda-brokered deal struck a week earlier. ](/news/2012/12/1/m23-rebels-begin-their-withdrawal-from-the-city-of-goma-as-part-of-a-uganda-brokered-deal-struck-a-week-earlier.md)
-_Context: Goma, M23, Uganda_
+_Context: Uganda, M23, Goma_
 
 ##### Anastasiya Petryk
 ### [Anastasiya Petryk from Ukraine wins the Junior Eurovision Song Contest 2012 with her song "Nebo" ("Sky") which got 138 points. ](/news/2012/12/1/anastasiya-petryk-from-ukraine-wins-the-junior-eurovision-song-contest-2012-with-her-song-nebo-sky-which-got-138-points.md)
-_Context: Junior Eurovision Song Contest 2012, Anastasiya Petryk, Ukraine_
+_Context: Anastasiya Petryk, Ukraine, Junior Eurovision Song Contest 2012_
 
 ##### Tour bus
 ### [A tour bus hits a bridge at Miami International Airport, USA, killing at least two people and injuring many more. ](/news/2012/12/1/a-tour-bus-hits-a-bridge-at-miami-international-airport-usa-killing-at-least-two-people-and-injuring-many-more.md)
@@ -29,11 +29,11 @@ North Korea is to carry out its second rocket launch this year in December as So
 
 ##### Arab League
 ### [Foreign ministers of the Arab League meet in Istanbul, Turkey, to show their support for the Syrian opposition groups and Palestinians. ](/news/2012/12/1/foreign-ministers-of-the-arab-league-meet-in-istanbul-turkey-to-show-their-support-for-the-syrian-opposition-groups-and-palestinians.md)
-_Context: Syrian opposition, Arab League, Palestinian, Istanbul, Turkey_
+_Context: Turkey, Syrian opposition, Arab League, Istanbul, Palestinian_
 
 ##### Macau
 ### [Notorious Macau gangster Broken Tooth Koi is released from prison after serving nearly 15 years. ](/news/2012/12/1/notorious-macau-gangster-broken-tooth-koi-is-released-from-prison-after-serving-nearly-15-years.md)
-_Context: Broken Tooth Koi, Macau_
+_Context: Macau, Broken Tooth Koi_
 
 ##### Jovan Belcher
 ### [Jovan Belcher, a linebacker for the Kansas City Chiefs American football team kills himself at Arrowhead Stadium in Kansas City, Missouri, USA, after reportedly killing his girlfriend. ](/news/2012/12/1/jovan-belcher-a-linebacker-for-the-kansas-city-chiefs-american-football-team-kills-himself-at-arrowhead-stadium-in-kansas-city-missouri-u.md)
@@ -41,19 +41,19 @@ An American football player has shot himself at the Kansas City Chiefs&#039; sta
 
 ##### Enrique Pena Nieto
 ### [Enrique Pena Nieto of the Institutional Revolutionary Party is sworn in as the President of Mexico as violent clashes occur outside. ](/news/2012/12/1/enrique-pea-a-nieto-of-the-institutional-revolutionary-party-is-sworn-in-as-the-president-of-mexico-as-violent-clashes-occur-outside.md)
-_Context: President, Institutional Revolutionary Party, Enrique Pena Nieto_
+_Context: Enrique Pena Nieto, President, Institutional Revolutionary Party_
 
 ##### President
 ### [President of Egypt Mohamed Morsi announces that the country's new draft constitution will be put to a constitutional referendum on December 15. ](/news/2012/12/1/president-of-egypt-mohamed-morsi-announces-that-the-country-s-new-draft-constitution-will-be-put-to-a-constitutional-referendum-on-december.md)
-_Context: Draft constitution, Mohamed Morsi, constitutional referendum, President_
+_Context: constitutional referendum, Draft constitution, Mohamed Morsi, President_
 
 ##### Kuwait
 ### [Voters in Kuwait go to the polls for a parliamentary election with the Opposition holding a boycott. The lowest voter turnout in the Kuwaiti election history is observed. ](/news/2012/12/1/voters-in-kuwait-go-to-the-polls-for-a-parliamentary-election-with-the-opposition-holding-a-boycott-the-lowest-voter-turnout-in-the-kuwaiti.md)
-_Context: Kuwaiti election history, Opposition, boycott, parliamentary election, Kuwait, voter turnout_
+_Context: Opposition, Kuwaiti election history, parliamentary election, Kuwait, boycott, voter turnout_
 
 ##### Aircraft carrier
 ### [The Enterprise 6, the world's first nuclear-powered aircraft carrier, is officially inactivated in ceremonies held at Naval Station Norfolk, Virginia, completing a 51-year career in the United States Navy. In a pre-recorded speech, U.S. Secretary of the Navy Ray Mabus announces that the U.S. Navy's third Gerald R. Ford carrier, CVN-80, will be named "Enterprise". ](/news/2012/12/1/the-enterprise-6-the-world-s-first-nuclear-powered-aircraft-carrier-is-officially-inactivated-in-ceremonies-held-at-naval-station-norfolk.md)
-_Context: Secretary of the Navy, CVN-80, United States Navy, Ray Mabus, aircraft carrier, Naval Station Norfolk_
+_Context: United States Navy, Naval Station Norfolk, Secretary of the Navy, CVN-80, Ray Mabus, aircraft carrier_
 
 ## [Previous Day...](/news/2012/11/30/index.md)
 

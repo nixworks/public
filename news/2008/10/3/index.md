@@ -13,7 +13,7 @@ President Bush signed a $700 billion financial bailout package Friday, shortly a
 
 ##### 2008 Chinese milk scandal
 ### [ In response to the 2008 Chinese milk scandal, Australia begins withdrawing Chinese-made Kirin milk tea from shops after discovering it contained melamine in tests. ](/news/2008/10/3/in-response-to-the-2008-chinese-milk-scandal-australia-begins-withdrawing-chinese-made-kirin-milk-tea-from-shops-after-discovering-it-cont.md)
-_Context: 2008 Chinese milk scandal, Australia_
+_Context: Australia, 2008 Chinese milk scandal_
 
 ##### Greece
 ### [ Greece announces it will follow Ireland's lead and guarantee all bank deposits in the country. ](/news/2008/10/3/greece-announces-it-will-follow-ireland-s-lead-and-guarantee-all-bank-deposits-in-the-country.md)
@@ -23,11 +23,11 @@ Officials in Athens have said Greece will follow the Irish lead in guaranteeing 
 ### [ Both of Russia's main stock exchanges, the MICEX and RTS, suspend trading of stocks "for technical reasons" as the markets rally after a 1-1-2 day trading halt that ended earlier in the morning. ](/news/2008/10/3/both-of-russia-s-main-stock-exchanges-the-micex-and-rts-suspend-trading-of-stocks-for-technical-reasons-as-the-markets-rally-after-a-1.md)
 _Context: RTS, MICEX, Russia_
 
-##### American
+##### U.S.
 ### [ Investigators in the United States announce that they have found human remains in what is believed to be the wreckage of Steve Fossett's plane, which went missing over California a year ago. ](/news/2008/10/3/investigators-in-the-united-states-announce-that-they-have-found-human-remains-in-what-is-believed-to-be-the-wreckage-of-steve-fossett-s-pl.md)
-_Context: went missing, American, California, Steve Fossett_
+_Context: Steve Fossett, U.S., went missing, California_
 
-##### American
+##### U.S.
 ### [ United States government announces sale of billions of dollars of arms to Taiwan to keep a balance with China's massive arms buildup aimed at Taiwan. ](/news/2008/10/3/united-states-government-announces-sale-of-billions-of-dollars-of-arms-to-taiwan-to-keep-a-balance-with-china-s-massive-arms-buildup-aimed.md)
 The U.S. government has announced plans to sell billions of dollars worth of weapons to Taiwan, a move certain to anger China, which considers Taiwan part of its territory.
 
@@ -37,7 +37,7 @@ _Context: Russia, pirates_
 
 ##### Viking
 ### [ The remains of a Viking-era stave church, including the skeletal remains of a woman, is uncovered near the cemetery of the Lnns church in Odensbacken outside rebro in central Sweden. ](/news/2008/10/3/the-remains-of-a-viking-era-stave-church-including-the-skeletal-remains-of-a-woman-is-uncovered-near-the-cemetery-of-the-lannas-church-in.md)
-_Context: Sweden, Odensbacken, woman, rebro, Viking, stave church, cemetery_
+_Context: Sweden, rebro, stave church, Odensbacken, cemetery, Viking, woman_
 
 ##### Jury
 ### [ A jury convicts retired American football player O.J. Simpson of armed robbery and kidnapping, 13 years to the day after he was acquitted of killing his ex-wife and her friend in Los Angeles. ](/news/2008/10/3/a-jury-convicts-retired-american-football-player-o-j-simpson-of-armed-robbery-and-kidnapping-13-years-to-the-day-after-he-was-acquitted-o.md)

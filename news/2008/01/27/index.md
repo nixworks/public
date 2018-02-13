@@ -5,15 +5,15 @@ Formats: [HTML](2008/01/27/index.html)  [JSON](2008/01/27/index.json)  [XML](200
 
 ##### Post-election violence
 ### [ 2007-2008 Kenyan crisis: At least nine people are killed in western Kenya, reports say, in violence apparently linked to last month's disputed elections. ](/news/2008/01/27/2007a2008-kenyan-crisis-at-least-nine-people-are-killed-in-western-kenya-reports-say-in-violence-apparently-linked-to-last-month-s-dis.md)
-_Context: post-election violence, Kenya_
+_Context: Kenya, post-election violence_
 
 ##### Taiwan
 ### [ Taiwan's Premier Chang Chun-hsiung remains in office as President Chen Shui-bian rejects his resignation. ](/news/2008/01/27/taiwan-s-premier-chang-chun-hsiung-remains-in-office-as-president-chen-shui-bian-rejects-his-resignation.md)
-_Context: Taiwan, Chen Shui-bian, President, Premier, Chang Chun-hsiung_
+_Context: President, Chen Shui-bian, Taiwan, Chang Chun-hsiung, Premier_
 
 ##### War in Pakistan (2004-present)
 ### [ War in Pakistan (2004-present): Troops close in on Darra Adam Khel in Pakistan after fierce clashes. ](/news/2008/01/27/war-in-pakistan-2004apresent-troops-close-in-on-darra-adam-khel-in-pakistan-after-fierce-clashes.md)
-_Context: War in Pakistan (2004-present), Pakistan, Darra Adam Khel_
+_Context: Pakistan, Darra Adam Khel, War in Pakistan (2004-present)_
 
 ##### Novak Dokovic
 ### [ Novak Dokovic wins the men's title of the 2008 Australian Open. ](/news/2008/01/27/novak-aokovia-wins-the-men-s-title-of-the-2008-australian-open.md)

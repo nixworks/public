@@ -5,7 +5,7 @@ Formats: [HTML](2010/05/26/index.html)  [JSON](2010/05/26/index.json)  [XML](201
 
 ##### Kunduz
 ### [More than 80 students are sickened in a girls' school in Kunduz, Afghanistan, in a poison gas attack suspected to have been carried out by Taliban assailants whose version of Islam is opposed to girls being educated.](/news/2010/05/26/more-than-80-students-are-sickened-in-a-girls-school-in-kunduz-afghanistan-in-a-poison-gas-attack-suspected-to-have-been-carried-out-by-t.md)
-_Context: Taliban, poison gas, Kunduz, Afghanistan, Islam_
+_Context: Afghanistan, Islam, poison gas, Kunduz, Taliban_
 
 ##### ICC
 ### [International Criminal Court judges tell the UN Security Council that the Sudanese government is protecting suspects wanted for war crimes in Darfur instead of arresting them to face trial. ](/news/2010/05/26/international-criminal-court-judges-tell-the-un-security-council-that-the-sudanese-government-is-protecting-suspects-wanted-for-war-crimes-i.md)
@@ -29,11 +29,11 @@ Israeli jets launch a night time bombing raid on the Gaza strip injuring several
 
 ##### Palestinian Authority
 ### [Palestinian Authority President Mahmoud Abbas condemns Iran, saying his people were "hijacked, at the hands of the Iranians"; possibly referring to Hamas's refusal to reconcile with Fatah on Iran's command by announcing on that it would boycott the Palestinian municipal elections ](/news/2010/05/26/palestinian-authority-president-mahmoud-abbas-condemns-iran-saying-his-people-were-ahijacked-at-the-hands-of-the-iraniansa-possibly-r.md)
-_Context: Fatah, Hamas, Mahmoud Abbas, Iran, Palestinian municipal elections, Palestinian Authority_
+_Context: Iran, Fatah, Palestinian municipal elections, Mahmoud Abbas, Hamas, Palestinian Authority_
 
 ##### Palestinian Authority
 ### [Palestinian Authority security forces arrest scores of Hamas officials and supporters in the West Bank a day after Hamas announced that it would boycott the Palestinian municipal elections scheduled for July 17. ](/news/2010/05/26/palestinian-authority-security-forces-arrest-scores-of-hamas-officials-and-supporters-in-the-west-bank-a-day-after-hamas-announced-that-it-w.md)
-_Context: Palestinian Authority, Palestinian municipal elections_
+_Context: Palestinian municipal elections, Palestinian Authority_
 
 ##### Chief rabbi
 ### [The chief rabbi of a West Bank settlement declares that women should be prohibited from standing in a local community election. ](/news/2010/05/26/the-chief-rabbi-of-a-west-bank-settlement-declares-that-women-should-be-prohibited-from-standing-in-a-local-community-election.md)
@@ -65,7 +65,7 @@ Vehicles damaged in blast in southern province of Kandahar but no deaths reporte
 
 ##### Charles Djou
 ### [Charles Djou is sworn into the United States House of Representatives, representing Hawaii's 1st congressional district. ](/news/2010/05/26/charles-djou-is-sworn-into-the-united-states-house-of-representatives-representing-hawaii-s-1st-congressional-district.md)
-_Context: United States House of Representatives, 1st congressional district, Charles Djou, Hawaii_
+_Context: Hawaii, Charles Djou, 1st congressional district, United States House of Representatives_
 
 ##### Space Shuttle
 ### [Space Shuttle "Atlantis" completes its final scheduled mission after landing at Kennedy Space Center, Florida. ](/news/2010/05/26/space-shuttle-atlantis-completes-its-final-scheduled-mission-after-landing-at-kennedy-space-center-florida.md)
@@ -77,11 +77,11 @@ _Context: Morocco, Rabat, Mawazine, Elton John_
 
 ##### Gorillaz
 ### [Virtual band Gorillaz are announced to replace U2 as headliners of the Glastonbury Festival 2010. ](/news/2010/05/26/virtual-band-gorillaz-are-announced-to-replace-u2-as-headliners-of-the-glastonbury-festival-2010.md)
-_Context: U2, Glastonbury Festival 2010, Gorillaz_
+_Context: Glastonbury Festival 2010, U2, Gorillaz_
 
 ##### Alaotra grebe
 ### [The Alaotra grebe, a grebe endemic to Madagascar, is declared extinct 25 years after its last reported sighting. ](/news/2010/05/26/the-alaotra-grebe-a-grebe-endemic-to-madagascar-is-declared-extinct-25-years-after-its-last-reported-sighting.md)
-_Context: Madagascar, grebe, extinct, endemic, Alaotra grebe_
+_Context: Alaotra grebe, endemic, extinct, grebe, Madagascar_
 
 ## [Previous Day...](/news/2010/05/25/index.md)
 

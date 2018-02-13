@@ -17,7 +17,7 @@ _Context: Nepal, suspicions_
 
 ##### Philippines
 ### [Philippines President Benigno Aquino III asks Indonesian President Joko Widodo to spare the life of Mary Jane Veloso, a migrant domestic worker sentenced to death for drug trafficking. ](/news/2015/04/27/philippines-president-benigno-aquino-iii-asks-indonesian-president-joko-widodo-to-spare-the-life-of-mary-jane-veloso-a-migrant-domestic-wor.md)
-_Context: Indonesia, Philippines, Mary Jane Veloso, domestic worker, Joko Widodo, his predecessor_
+_Context: his predecessor, Mary Jane Veloso, Indonesia, domestic worker, Joko Widodo, Philippines_
 
 ##### Presidents
 ### [Opposition activists protest for a second day over President of Burundi Pierre Nkurunziza's decision to run for a third term in office. At least two people were killed yesterday in protests. ](/news/2015/04/27/opposition-activists-protest-for-a-second-day-over-president-of-burundi-pierre-nkurunziza-s-decision-to-run-for-a-third-term-in-office-at-l.md)
@@ -29,11 +29,11 @@ Rioters hurled bricks, looted businesses and set fires in Baltimore on Monday in
 
 ##### Kazakhstani presidential election, 2015
 ### [The Organization for Security and Co-operation in Europe reports that the voters in the presidential elections in Kazakhstan had a limited choice due to the lack of opposition and restrictions on free political expression. Kazakhstan's freshly re-elected president has been ruling the country since the time of the Soviet Union. ](/news/2015/04/27/the-organization-for-security-and-co-operation-in-europe-reports-that-the-voters-in-the-presidential-elections-in-kazakhstan-had-a-limited-c.md)
-_Context: Kazakhstan, OSCE, Kazakhstani presidential election, 2015_
+_Context: Kazakhstani presidential election, 2015, Kazakhstan, OSCE_
 
 ##### Sudanese general election, 2015
 ### [Sudan's Electoral Commission declares that incumbent President of Sudan Omar al-Bashir won re-election with 94.4 per cent of the vote extending his 25 year rule. He has been indicted multiple times by the International Criminal Court for being personally responsible for war crimes committed in Darfur and elsewhere in Sudan. ](/news/2015/04/27/sudan-s-electoral-commission-declares-that-incumbent-president-of-sudan-omar-al-bashir-won-re-election-with-94-4-per-cent-of-the-vote-extend.md)
-_Context: President of Sudan, Sudanese general election, 2015, ICC, Darfur, Omar al-Bashir, Sudan_
+_Context: President of Sudan, Darfur, ICC, Sudan, Sudanese general election, 2015, Omar al-Bashir_
 
 ## [Previous Day...](/news/2015/04/26/index.md)
 

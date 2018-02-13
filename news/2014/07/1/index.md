@@ -9,11 +9,11 @@ Ukrainian forces struck at pro-Russian separatist bases in eastern regions with 
 
 ##### Gaza-Israel conflict
 ### [Israel's military hits 34 targets across the Hamas-controlled Gaza Strip in response to the more than 20 rockets that were fired into Israel from Gaza since Sunday. One Palestinian man is killed after throwing a grenade at security forces in the raids. ](/news/2014/07/1/israel-s-military-hits-34-targets-across-the-hamas-controlled-gaza-strip-in-response-to-the-more-than-20-rockets-that-were-fired-into-israel.md)
-_Context: Hamas, Gaza Strip, Gaza-Israel conflict_
+_Context: Gaza Strip, Hamas, Gaza-Israel conflict_
 
 ##### Islamist insurgency in Nigeria
 ### [A car bomb explodes in a market in the northeast Nigerian town of Maiduguri, the birthplace of Boko Haram, with dozens feared dead. ](/news/2014/07/1/a-car-bomb-explodes-in-a-market-in-the-northeast-nigerian-town-of-maiduguri-the-birthplace-of-boko-haram-with-dozens-feared-dead.md)
-_Context: Islamist insurgency in Nigeria, car bomb, Maiduguri, Boko Haram_
+_Context: Boko Haram, car bomb, Maiduguri, Islamist insurgency in Nigeria_
 
 ##### BNP Paribas
 ### [The United States imposes a record $9 billion fine on BNP Paribas for helping clients bypass sanctions against Cuba, Iran, and Sudan. The bank is also barred from certain US dollar dominated transactions for one year. ](/news/2014/07/1/the-united-states-imposes-a-record-9-billion-fine-on-bnp-paribas-for-helping-clients-bypass-sanctions-against-cuba-iran-and-sudan-the-ba.md)
@@ -33,11 +33,11 @@ MP Naomi Long condemns those who put up the flag off Island Street, accusing the
 
 ##### SPD
 ### [The German Social Democrat Martin Schulz is reelected President of the European Parliament for another two and a half years. ](/news/2014/07/1/the-german-social-democrat-martin-schulz-is-reelected-president-of-the-european-parliament-for-another-two-and-a-half-years.md)
-_Context: Martin Schulz, SPD, President of the European Parliament_
+_Context: SPD, President of the European Parliament, Martin Schulz_
 
 ##### Iraqi Parliament
 ### [The Council of Representatives of Iraq is due to meet for the first time since recent elections to try and counter the surge made by the Islamic State of Iraq and the Levant. However, the meeting is delayed due to a lack of quorum. ](/news/2014/07/1/the-council-of-representatives-of-iraq-is-due-to-meet-for-the-first-time-since-recent-elections-to-try-and-counter-the-surge-made-by-the-isl.md)
-_Context: Iraqi Parliament, ISIL, elections_
+_Context: ISIL, Iraqi Parliament, elections_
 
 ##### Cabinet of Japan
 ### [The Cabinet of Japan lifts a ban on the Japan Self-Defense Forces fighting overseas. The move is aimed towards defending allied countries. ](/news/2014/07/1/the-cabinet-of-japan-lifts-a-ban-on-the-japan-self-defense-forces-fighting-overseas-the-move-is-aimed-towards-defending-allied-countries.md)

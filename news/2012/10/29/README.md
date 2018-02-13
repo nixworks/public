@@ -41,7 +41,7 @@ _Context: Simi Valley_
 
 ##### Fernando Haddad
 ### [Fernando Haddad is elected mayor of SGBPo Paulo, giving the governing Workers' Party control of Brazil's financial capital and biggest city. ](/news/2012/10/29/fernando-haddad-is-elected-mayor-of-sagbpo-paulo-giving-the-governing-workers-party-control-of-brazil-s-financial-capital-and-biggest-city.md)
-_Context: SGBPo Paulo, Brazil Workers' Party, Brazil, Fernando Haddad_
+_Context: Brazil Workers' Party, Brazil, SGBPo Paulo, Fernando Haddad_
 
 ##### Coptic Christian pope
 ### [A shortlist of successors to the Coptic Pope is drawn up; a blindfolded child is then expected to pick from a list of three. ](/news/2012/10/29/a-shortlist-of-successors-to-the-coptic-pope-is-drawn-up-a-blindfolded-child-is-then-expected-to-pick-from-a-list-of-three.md)

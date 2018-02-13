@@ -27,7 +27,7 @@ Hong Kong was shuttered today as a powerful typhoon swept past the city, bringin
 ### [Indonesian police chief General Sutarman says he knows what happened to the MH370 and an aviation expert claims MH370's pilot, Zaharie Ahmad Shah, caused the plane to crash by locking his copilot out of the cockpit, depressurised the cabin and shut down all communications before turning the plane around. ](/news/2014/09/16/indonesian-police-chief-general-sutarman-says-he-knows-what-happened-to-the-mh370-and-an-aviation-expert-claims-mh370as-pilot-zaharie-ahm.md)
 TWO people have come forward claiming they know what caused Flight MH370 to disappear without a trace.
 
-##### American
+##### U.S.
 ### [The United States will send thousands of troops to West Africa to build Ebola virus clinics and train health workers. ](/news/2014/09/16/the-united-states-will-send-thousands-of-troops-to-west-africa-to-build-ebola-virus-clinics-and-train-health-workers.md)
 The United States will send thousands of troops to respond to the Ebola outbreak in West Africa by building clinics and training hundreds of healthcare workers, US President Barack Obama announced on
 
@@ -37,7 +37,7 @@ Ukrainian MPs and the European Parliament are set to ratify a key EU association
 
 ##### Russian
 ### [Russian billionaire Vladimir Yevtushenkov is placed under house arrest for alleged money laundering. ](/news/2014/09/16/russian-billionaire-vladimir-yevtushenkov-is-placed-under-house-arrest-for-alleged-money-laundering.md)
-_Context: Russian, money laundering, Vladimir Yevtushenkov_
+_Context: Vladimir Yevtushenkov, money laundering, Russian_
 
 ## [Previous Day...](/news/2014/09/15/index.md)
 

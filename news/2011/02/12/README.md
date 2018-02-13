@@ -13,7 +13,7 @@ Anti-government protesters have taken to the streets of Yemen, calling for an en
 
 ##### Mehbooba Mufti
 ### [Mehbooba Mufti, People's Democratic Party (PDP) president, criticises the Jammu and Kashmir government for "dismissing the Kashmiri youth who led the summer unrest" as drug addicts and people from the Lashkar-e-Taiba, saying the situation is akin to Egypt and announcing protest demonstrations for 14 February. ](/news/2011/02/12/mehbooba-mufti-people-s-democratic-party-pdp-president-criticises-the-jammu-and-kashmir-government-for-dismissing-the-kashmiri-youth-wh.md)
-_Context: Lashkar-e-Taiba, Mehbooba Mufti, People's Democratic Party, Egyptian Revolution of 2011, Jammu and Kashmir_
+_Context: People's Democratic Party, Jammu and Kashmir, Mehbooba Mufti, Egyptian Revolution of 2011, Lashkar-e-Taiba_
 
 ##### Kandahar
 ### [An attack on police headquarters in Kandahar, Afghanistan, kills 16 officers and 3 civilians, and injures 53 others.](/news/2011/02/12/an-attack-on-police-headquarters-in-kandahar-afghanistan-kills-16-officers-and-3-civilians-and-injures-53-others.md)
@@ -25,11 +25,11 @@ Humanitarian crisis feared as thousands of north African migrants, mainly from T
 
 ##### Suicide bombing
 ### [At least 33 people die following a suicide bombing near the Iraqi city of Samarra. ](/news/2011/02/12/at-least-33-people-die-following-a-suicide-bombing-near-the-iraqi-city-of-samarra.md)
-_Context: Samarra, Iraq, suicide bombing_
+_Context: Iraq, suicide bombing, Samarra_
 
 ##### Turkey
 ### [Turkey releases its inquiry into the Gaza flotilla raid, finding Israel violated international law and used "excessive, indiscriminate and disproportionate force" during the attack. ](/news/2011/02/12/turkey-releases-its-inquiry-into-the-gaza-flotilla-raid-finding-israel-violated-international-law-and-used-excessive-indiscriminate-and-d.md)
-_Context: Turkey, Gaza flotilla raid_
+_Context: Gaza flotilla raid, Turkey_
 
 ##### Egyptian Museum
 ### [The extent of looting of the Egyptian Museum in Cairo during the 2011 Egyptian protests is worse than previously announced. ](/news/2011/02/12/the-extent-of-looting-of-the-egyptian-museum-in-cairo-during-the-2011-egyptian-protests-is-worse-than-previously-announced.md)
@@ -45,7 +45,7 @@ At least 11 people were trampled to death on Saturday in a stampede at an electi
 
 ##### Yakama Indian Reservation
 ### [A fire destroys 20 homes on the Yakama Indian Reservation in the US state of Washington. ](/news/2011/02/12/a-fire-destroys-20-homes-on-the-yakama-indian-reservation-in-the-us-state-of-washington.md)
-_Context: Yakama Indian Reservation, Washington, American_
+_Context: Washington, Yakama Indian Reservation, U.S._
 
 ##### Myanmar
 ### [Myanmar arrests the Australian owner and editor of the "Myanmar Times" newspaper, detained under immigration laws. ](/news/2011/02/12/myanmar-arrests-the-australian-owner-and-editor-of-the-myanmar-times-newspaper-detained-under-immigration-laws.md)
@@ -53,7 +53,7 @@ Ross Dunkley, the Australian owner of English-language newspaper Myanmar Times, 
 
 ##### Arrest warrant
 ### [A Pakistani court issues an arrest warrant for former President Pervez Musharraf, alleging his involvement in the assassination of Benazir Bhutto. ](/news/2011/02/12/a-pakistani-court-issues-an-arrest-warrant-for-former-president-pervez-musharraf-alleging-his-involvement-in-the-assassination-of-benazir-b.md)
-_Context: Pervez Musharraf, arrest warrant, assassination of Benazir Bhutto, president_
+_Context: Pervez Musharraf, president, arrest warrant, assassination of Benazir Bhutto_
 
 ##### Miscarriage of justice
 ### [Tammy Marquardt's 1995 conviction for the murder of her 2-year-old epileptic son is quashed by the Ontario Court of Appeal, remedying a miscarriage of justice in Canada. ](/news/2011/02/12/tammy-marquardt-s-1995-conviction-for-the-murder-of-her-2-year-old-epileptic-son-is-quashed-by-the-ontario-court-of-appeal-remedying-a-misc.md)
@@ -65,7 +65,7 @@ In a rare move, the Chinese government sacked its railway minister Liu Zhijun an
 
 ##### Saeb Erekat
 ### [Saeb Erekat, chief negotiator for the Palestine Liberation Organization, resigns after the Palestine Papers were found to have been leaked from his office. ](/news/2011/02/12/saeb-erekat-chief-negotiator-for-the-palestine-liberation-organization-resigns-after-the-palestine-papers-were-found-to-have-been-leaked-f.md)
-_Context: Saeb Erekat, Palestine Papers, Palestine Liberation Organization_
+_Context: Palestine Liberation Organization, Saeb Erekat, Palestine Papers_
 
 ## [Previous Day...](/news/2011/02/11/index.md)
 

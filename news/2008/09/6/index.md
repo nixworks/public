@@ -9,19 +9,19 @@ Forecasters said rainfall could total 2 to 4 inches in mountainous areas of sout
 
 ##### Komlan Mally
 ### [ Komlan Mally resigns as prime minister of Togo, after less than a year in office. ](/news/2008/09/6/komlan-mally-resigns-as-prime-minister-of-togo-after-less-than-a-year-in-office.md)
-_Context: Komlan Mally, Togo, prime minister_
+_Context: prime minister, Komlan Mally, Togo_
 
 ##### Nuclear Suppliers Group
 ### [ Nuclear Suppliers Group clears Indo-US nuclear deal. ](/news/2008/09/6/nuclear-suppliers-group-clears-indo-us-nuclear-deal.md)
-_Context: Nuclear Suppliers Group, Indo-US nuclear deal_
+_Context: Indo-US nuclear deal, Nuclear Suppliers Group_
 
 ##### 2008 Cairo landslide
 ### [ 2008 Cairo landslide: At least 18 people are killed and 22 injured when dozens of homes in northern Cairo collapse after being hit by a massive rockslide. ](/news/2008/09/6/2008-cairo-landslide-at-least-18-people-are-killed-and-22-injured-when-dozens-of-homes-in-northern-cairo-collapse-after-being-hit-by-a-mas.md)
-_Context: rockslide, Cairo, 2008 Cairo landslide_
+_Context: 2008 Cairo landslide, Cairo, rockslide_
 
 ##### 2008 Summer Paralympic Games
 ### [ The 2008 Summer Paralympic Games begin in Beijing. ](/news/2008/09/6/the-2008-summer-paralympic-games-begin-in-beijing.md)
-_Context: Beijing, 2008 Summer Paralympic Games_
+_Context: 2008 Summer Paralympic Games, Beijing_
 
 ##### Pakistan
 ### [ The Electoral College of Pakistan elects Asif Ali Zardari of the Pakistan Peoples Party as the next President of Pakistan. ](/news/2008/09/6/the-electoral-college-of-pakistan-elects-asif-ali-zardari-of-the-pakistan-peoples-party-as-the-next-president-of-pakistan.md)

@@ -17,7 +17,7 @@ Sale of nearly 200-year-old institution to Intercontinental Exchange comes amid 
 
 ##### U.S.
 ### [U.S. patent authorities reject an important Apple Inc. patent concerning pinch-to-zoom gestures on a mobile device screen. ](/news/2012/12/20/u-s-patent-authorities-reject-an-important-apple-inc-patent-concerning-pinch-to-zoom-gestures-on-a-mobile-device-screen.md)
-_Context: Apple Inc., pinch-to-zoom gestures, U.S., mobile device, patent_
+_Context: U.S., pinch-to-zoom gestures, mobile device, Apple Inc., patent_
 
 ##### Midwestern
 ### [The midwestern United States is hit by a massive storm causing major disruption to traffic. ](/news/2012/12/20/the-midwestern-united-states-is-hit-by-a-massive-storm-causing-major-disruption-to-traffic.md)
@@ -33,7 +33,7 @@ Wikileaks founder Julian Assange promises to release a million documents in 2013
 
 ##### ASEAN
 ### [ASEAN members and India conclude free trade agreements in services and investment. ](/news/2012/12/20/asean-members-and-india-conclude-free-trade-agreements-in-services-and-investment.md)
-_Context: India, free trade, ASEAN_
+_Context: free trade, ASEAN, India_
 
 ##### China
 ### [Police in China arrest almost 1,000 people belonging to the doomsday Almighty God Christian cult for spreading rumours about the end of the world. ](/news/2012/12/20/police-in-china-arrest-almost-1-000-people-belonging-to-the-doomsday-almighty-god-christian-cult-for-spreading-rumours-about-the-end-of-the.md)
@@ -49,11 +49,11 @@ A US Marine is reduced in ranks and forfeits $500 pay after admitting urinating 
 
 ##### Laos
 ### [Laos denies knowledge as to the fate of missing activist Sombath Somphone, who disappeared last week in the capital Vientiane. ](/news/2012/12/20/laos-denies-knowledge-as-to-the-fate-of-missing-activist-sombath-somphone-who-disappeared-last-week-in-the-capital-vientiane.md)
-_Context: Vientiane, Laos_
+_Context: Laos, Vientiane_
 
 ##### Rwanda
 ### [Former Rwandan minister Augustin Ngirabatware is sentenced to 35 years imprisonment for his role during the 1994 Rwandan Genocide. ](/news/2012/12/20/former-rwandan-minister-augustin-ngirabatware-is-sentenced-to-35-years-imprisonment-for-his-role-during-the-1994-rwandan-genocide.md)
-_Context: Rwandan Genocide, Augustin Ngirabatware, Rwanda_
+_Context: Rwanda, Rwandan Genocide, Augustin Ngirabatware_
 
 ## [Previous Day...](/news/2012/12/19/index.md)
 

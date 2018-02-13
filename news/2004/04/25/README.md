@@ -9,11 +9,11 @@ _Context: Cairo, Arab League_
 
 ##### Alan Kay
 ### [ Alan Kay, co-inventor of the Smalltalk programming language, receives the 2003 ACM Turing award, including US$100,000. ](/news/2004/04/25/alan-kay-co-inventor-of-the-smalltalk-programming-language-receives-the-2003-acm-turing-award-including-us-100-000.md)
-_Context: Smalltalk, Turing award, Alan Kay, Association for Computing Machinery, programming language_
+_Context: Turing award, Association for Computing Machinery, programming language, Smalltalk, Alan Kay_
 
 ##### Austrian presidential election
 ### [ Austrian presidential election: Heinz Fischer (SP) wins with 52% against Foreign Minister Benita Ferrero-Waldner (VP). ](/news/2004/04/25/austrian-presidential-election-heinz-fischer-spo-wins-with-52-against-foreign-minister-benita-ferrero-waldner-ovp.md)
-_Context: Austrian presidential election, Heinz Fischer, Benita Ferrero-Waldner_
+_Context: Benita Ferrero-Waldner, Austrian presidential election, Heinz Fischer_
 
 ##### Abortion in the United States
 ### [ Abortion in the United States: Hundreds of thousands march in Washington, D.C. to protest President Bush's anti-abortion policies. ](/news/2004/04/25/abortion-in-the-united-states-hundreds-of-thousands-march-in-washington-d-c-to-protest-president-bush-s-anti-abortion-policies.md)

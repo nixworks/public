@@ -9,7 +9,7 @@ The remains of a Western Australian Aboriginal warrior have been laid to rest ne
 
 ##### Blizzard Entertainment
 ### [After public outcry, gamemaker Blizzard Entertainment rescinds its plan to force users of its World of Warcraft online game to post under their real names. ](/news/2010/07/10/after-public-outcry-gamemaker-blizzard-entertainment-rescinds-its-plan-to-force-users-of-its-world-of-warcraft-online-game-to-post-under-th.md)
-_Context: Blizzard Entertainment, World of Warcraft_
+_Context: World of Warcraft, Blizzard Entertainment_
 
 ##### China
 ### [Chinese exports rose by 43.9% this past June, compared to the same time last year. ](/news/2010/07/10/chinese-exports-rose-by-43-9-this-past-june-compared-to-the-same-time-last-year.md)
@@ -33,11 +33,11 @@ More than a million people take part in a rally in north-eastern Spain seeking g
 
 ##### National League for Democracy
 ### [A breakaway group from the National League for Democracy in Burma registers to participate in the general election later this year. ](/news/2010/07/10/a-breakaway-group-from-the-national-league-for-democracy-in-burma-registers-to-participate-in-the-general-election-later-this-year.md)
-_Context: Burma, National League for Democracy, general elections_
+_Context: general elections, National League for Democracy, Burma_
 
 ##### Japan
 ### [Japanese Prime Minister Naoto Kan makes a final campaign push on the eve of the country's Upper House election. ](/news/2010/07/10/japanese-prime-minister-naoto-kan-makes-a-final-campaign-push-on-the-eve-of-the-country-s-upper-house-election.md)
-_Context: loses its majority, Naoto Kan, Prime Minister of Japan, Japan_
+_Context: loses its majority, Naoto Kan, Japan, Prime Minister of Japan_
 
 ##### North Korea
 ### [North Korea offers to return to the six-party talks over its nuclear weapons programme. ](/news/2010/07/10/north-korea-offers-to-return-to-the-six-party-talks-over-its-nuclear-weapons-programme.md)
@@ -53,7 +53,7 @@ Leaders meet to form strategy to deal with results of referendum on separation.
 
 ##### ''Rosetta'' space probe
 ### [The Rosetta probe makes a flyby past the 21 Lutetia asteroid to gather scientific data. ](/news/2010/07/10/the-rosetta-probe-makes-a-flyby-past-the-21-lutetia-asteroid-to-gather-scientific-data.md)
-_Context: ''Rosetta'' space probe, 21 Lutetia_
+_Context: 21 Lutetia, ''Rosetta'' space probe_
 
 ##### BP
 ### [BP is set to remove the containment cap over the destroyed Deepwater Horizon oil well in the Gulf of Mexico, and replace it with a bigger cap. Oil and gas will spew unrestricted from the well for an estimated four to seven days until the new cap is in place. ](/news/2010/07/10/bp-is-set-to-remove-the-containment-cap-over-the-destroyed-deepwater-horizon-oil-well-in-the-gulf-of-mexico-and-replace-it-with-a-bigger-ca.md)
@@ -61,7 +61,7 @@ Underwater robots successfully remove a leaking cap as BP tries again to halt th
 
 ##### 2010 FIFA World Cup
 ### [2010 FIFA World Cup: Germany defeats Uruguay 3-2 to finish third. ](/news/2010/07/10/2010-fifa-world-cup-germany-defeats-uruguay-3-2-to-finish-third.md)
-_Context: third, Uruguay, 2010 FIFA World Cup, Germany_
+_Context: 2010 FIFA World Cup, third, Germany, Uruguay_
 
 ##### UEFA
 ### [UEFA President Michel Platini is released from hospital. ](/news/2010/07/10/uefa-president-michel-platini-is-released-from-hospital.md)

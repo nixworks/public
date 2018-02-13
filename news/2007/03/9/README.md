@@ -5,7 +5,7 @@ Formats: [HTML](2007/03/9/index.html)  [JSON](2007/03/9/index.json)  [XML](2007/
 
 ##### Pakistan
 ### [ Pakistani President Pervez Musharraf suspends Chief Justice Iftikhar Muhammad Chaudhry on charges of misuse of authority. ](/news/2007/03/9/pakistani-president-pervez-musharraf-suspends-chief-justice-iftikhar-muhammad-chaudhry-on-charges-of-misuse-of-authority.md)
-_Context: Chief Justice, Pervez Musharraf, Pakistan, Iftikhar Muhammad Chaudhry_
+_Context: Pervez Musharraf, Chief Justice, Pakistan, Iftikhar Muhammad Chaudhry_
 
 ##### Referendum
 ### [ Following a recent referendum, the Portuguese Parliament votes to legalise abortion until the tenth week of pregnancy. ](/news/2007/03/9/following-a-recent-referendum-the-portuguese-parliament-votes-to-legalise-abortion-until-the-tenth-week-of-pregnancy.md)
@@ -13,7 +13,7 @@ _Context: abortion, referendum, pregnancy, Portuguese Parliament_
 
 ##### European Union
 ### [ The European Union agrees to new targets to combat climate change including having a fifth of its power from renewable sources and 10% of its vehicles from biofuels. ](/news/2007/03/9/the-european-union-agrees-to-new-targets-to-combat-climate-change-including-having-a-fifth-of-its-power-from-renewable-sources-and-10-of-i.md)
-_Context: European Union, biofuels, climate change_
+_Context: biofuels, European Union, climate change_
 
 ##### Uganda
 ### [ Ugandan judges end a week-long strike after President Yoweri Museveni expressed regret over an incident where security men seized Opposition supporters from the High Court of Uganda. ](/news/2007/03/9/ugandan-judges-end-a-week-long-strike-after-president-yoweri-museveni-expressed-regret-over-an-incident-where-security-men-seized-oppositio.md)
@@ -21,31 +21,31 @@ _Context: Yoweri Museveni, President, Uganda_
 
 ##### U.S. Court of Appeals for the District of Columbia
 ### [ The United States Court of Appeals for the District of Columbia Circuit strikes down the Firearms Control Regulations Act of 1975, a local law in the District of Columbia which banned residents from keeping handguns at home, on Second Amendment grounds. ](/news/2007/03/9/the-united-states-court-of-appeals-for-the-district-of-columbia-circuit-strikes-down-the-firearms-control-regulations-act-of-1975-a-local.md)
-_Context: Second Amendment, District of Columbia, Firearms Control Regulations Act of 1975, handgun, U.S. Court of Appeals for the District of Columbia_
+_Context: Second Amendment, District of Columbia, Firearms Control Regulations Act of 1975, U.S. Court of Appeals for the District of Columbia, handgun_
 
 ##### No sitting national Legislature
 ### [ The Interim legislature of Nepal amends the constitution to turn the country into a federal state. ](/news/2007/03/9/the-interim-legislature-of-nepal-amends-the-constitution-to-turn-the-country-into-a-federal-state.md)
-_Context: no sitting national Legislature, federal state_
+_Context: federal state, no sitting national Legislature_
 
 ##### Northern Ireland
 ### [ Results from the Northern Ireland Assembly election show the DUP and Sinn Fein making gains, and ensuring that in order for direct rule to cease both parties must agree to cooperate in a powersharing Executive. ](/news/2007/03/9/results-from-the-northern-ireland-assembly-election-show-the-dup-and-sinn-fa-c-in-making-gains-and-ensuring-that-in-order-for-direct-rule-to.md)
-_Context: Government of Northern Ireland, powersharing, direct rule, Assembly election, Sinn Fein, Northern Ireland, Democratic Unionist Party_
+_Context: Sinn Fein, Democratic Unionist Party, Assembly election, Government of Northern Ireland, powersharing, Northern Ireland, direct rule_
 
 ##### Cuba-United States relations
 ### [ Cuba-United States relations: The United States Coast Guard stages an exercise in Florida in preparation for a possible mass exodus from Cuba in the event of the death of Cuban leader Fidel Castro. During the drill 40 Cuban exiles reach the United States. ](/news/2007/03/9/cuba-united-states-relations-the-united-states-coast-guard-stages-an-exercise-in-florida-in-preparation-for-a-possible-mass-exodus-from-cu.md)
-_Context: the state, United States Coast Guard, American, Cuba, Cuba-United States relations, President, Cuban exile, Fidel Castro, mass exodus_
+_Context: Cuba-United States relations, U.S., President, United States Coast Guard, Fidel Castro, the state, mass exodus, Cuba, Cuban exile_
 
 ##### Kelvin Thomson
 ### [ Kelvin Thomson, the Shadow Attorney-General, in Australia resigns after it is discovered that he provided a reference to fugitive accused drug trafficker Tony Mokbel when Mokbel applied for a liquor licence in 2000. ](/news/2007/03/9/kelvin-thomson-the-shadow-attorney-general-in-australia-resigns-after-it-is-discovered-that-he-provided-a-reference-to-fugitive-accused-d.md)
-_Context: Kelvin Thomson, Australia, Attorney-General, Tony Mokbel_
+_Context: Australia, Tony Mokbel, Kelvin Thomson, Attorney-General_
 
 ##### Iraq War
 ### [ Iraq War: Abu Omar al-Baghdadi, leader of the insurgency group the Islamic State of Iraq, is captured in Baghdad. ](/news/2007/03/9/iraq-war-abu-omar-al-baghdadi-leader-of-the-insurgency-group-the-islamic-state-of-iraq-is-captured-in-baghdad.md)
-_Context: insurgents, Abu Omar al-Baghdadi, Iraq War, Baghdad, Islamic State of Iraq_
+_Context: Abu Omar al-Baghdadi, Islamic State of Iraq, Baghdad, insurgents, Iraq War_
 
 ##### Dogu Perincek
 ### [ Dogu Perincek is found guilty of genocide denial by a Swiss district court, making him the first person ever convicted for denial of the Armenian Genocide by a court of law.](/news/2007/03/9/doau-perinassek-is-found-guilty-of-genocide-denial-by-a-swiss-district-court-making-him-the-first-person-ever-convicted-for-denial-of-the.md)
-_Context: denial of the Armenian Genocide, denial, Dogu Perincek_
+_Context: Dogu Perincek, denial of the Armenian Genocide, denial_
 
 ## [Previous Day...](/news/2007/03/8/index.md)
 

@@ -29,7 +29,7 @@ _Context: landslide, Cameron Highlands, Malaysia_
 
 ##### China
 ### [More than 100,000 people have been evacuated from China's Shandong Province as former Typhoon Muifa travels along the eastern coast as a tropical storm. ](/news/2011/08/8/more-than-100-000-people-have-been-evacuated-from-china-s-shandong-province-as-former-typhoon-muifa-travels-along-the-eastern-coast-as-a-tro.md)
-_Context: China, tropical storm, Shandong Province, Typhoon Muifa_
+_Context: Shandong Province, China, tropical storm, Typhoon Muifa_
 
 ##### High Court of Australia
 ### [The High Court of Australia grants an injunction against the removal of asylum seekers to Malaysia until a full hearing later this month. ](/news/2011/08/8/the-high-court-of-australia-grants-an-injunction-against-the-removal-of-asylum-seekers-to-malaysia-until-a-full-hearing-later-this-month.md)
@@ -41,7 +41,7 @@ Rioting has spread across London with cars and buildings set alight on a third n
 
 ##### Mike Rann
 ### [Mike Rann, the Premier of the Australian state of South Australia, announces that he will be resigning on October 20 to be replaced by Education Minister Jay Weatherill. ](/news/2011/08/8/mike-rann-the-premier-of-the-australian-state-of-south-australia-announces-that-he-will-be-resigning-on-october-20-to-be-replaced-by-educa.md)
-_Context: Australia, Mike Rann, Jay Weatherill, South Australia, Premier of South Australia_
+_Context: Australia, Jay Weatherill, Premier of South Australia, Mike Rann, South Australia_
 
 ## [Previous Day...](/news/2011/08/7/index.md)
 

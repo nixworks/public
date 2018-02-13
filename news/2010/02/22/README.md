@@ -17,7 +17,7 @@ President Hugo Chavez delivered a bizarre attack on the Queen when the firebrand
 
 ##### Robert Mugabe
 ### [China throws a surprise 86th birthday party for President Robert Mugabe in its Zimbabwe embassy in Harare, the first time Mugabe visited a foreign embassy in the country since Zimbabwe won independence in 1980. ](/news/2010/02/22/china-throws-a-surprise-86th-birthday-party-for-president-robert-mugabe-in-its-zimbabwe-embassy-in-harare-the-first-time-mugabe-visited-a-f.md)
-_Context: Robert Mugabe, Zimbabwe, Harare_
+_Context: Zimbabwe, Harare, Robert Mugabe_
 
 ##### European Union
 ### [Foreign ministers from the European Union meet in Brussels and "strongly condemn" the use of forged passports from various European countries in the assassination of Mahmoud al-Mabhouh. ](/news/2010/02/22/foreign-ministers-from-the-european-union-meet-in-brussels-and-strongly-condemn-the-use-of-forged-passports-from-various-european-countrie.md)
@@ -45,7 +45,7 @@ _Context: Lufthansa_
 
 ##### Odeon & UCI Cinemas Group
 ### [Odeon Cinemas in Ireland, Italy and the UK confirm their intention to boycott Tim Burton's "Alice in Wonderland" in a dispute with Disney. ](/news/2010/02/22/odeon-cinemas-in-ireland-italy-and-the-uk-confirm-their-intention-to-boycott-tim-burton-s-alice-in-wonderland-in-a-dispute-with-disney.md)
-_Context: Italy, Tim Burton, Odeon & UCI Cinemas Group, Disney, Alice in Wonderland_
+_Context: Italy, Odeon & UCI Cinemas Group, Disney, Alice in Wonderland, Tim Burton_
 
 ## [Previous Day...](/news/2010/02/21/index.md)
 

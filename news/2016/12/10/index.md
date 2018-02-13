@@ -37,7 +37,7 @@ A roof collapses during a church ceremony in south-eastern Nigeria, killing at l
 
 ##### China
 ### [China opposes any new sanctions against North Korea during a meeting in the United Nations Security Council. ](/news/2016/12/10/china-opposes-any-new-sanctions-against-north-korea-during-a-meeting-in-the-united-nations-security-council.md)
-_Context: China, North Korea, United Nations Security Council_
+_Context: China, United Nations Security Council, North Korea_
 
 ##### Gambian presidential election, 2016
 ### [Gambian security forces are deployed on the streets of the capital Banjul, following President Yahya Jammeh's rejection of last week's presidential election result. ](/news/2016/12/10/gambian-security-forces-are-deployed-on-the-streets-of-the-capital-banjul-following-president-yahya-jammeh-s-rejection-of-last-week-s-presi.md)
@@ -45,11 +45,11 @@ Yahya Jammeh had conceded result to Adama Barrow but now claims ‘fresh and tra
 
 ##### Human Rights Day
 ### [In the Philippines, demonstrators call for President Rodrigo Duterte to address extrajudicial killings linked to the Philippine Drug War, ongoing military operations against communist rebels, and the controversial burial of Ferdinand Marcos in the Heroes' Cemetery. An effigy of Marcos was made as a centerpiece of the protest. ](/news/2016/12/10/in-the-philippines-demonstrators-call-for-president-rodrigo-duterte-to-address-extrajudicial-killings-linked-to-the-philippine-drug-war-on.md)
-_Context: Libingan ng mga Bayani, Philippines, drug crackdown, Human Rights Day, Burial of Ferdinand Marcos, Rodrigo Duterte_
+_Context: Philippines, Human Rights Day, Rodrigo Duterte, drug crackdown, Libingan ng mga Bayani, Burial of Ferdinand Marcos_
 
 ##### United States Senate election in Louisiana, 2016
 ### [John N. Kennedy of the Republican Party defeats Foster Campbell of the Democratic Party to become the junior Senator for Louisiana. ](/news/2016/12/10/john-n-kennedy-of-the-republican-party-defeats-foster-campbell-of-the-democratic-party-to-become-the-junior-senator-for-louisiana.md)
-_Context: United States Senate election in Louisiana, 2016, Foster Campbell, Louisiana, Democrat, Republican, John N. Kennedy_
+_Context: John N. Kennedy, United States Senate election in Louisiana, 2016, Foster Campbell, Louisiana, Democrat, Republican_
 
 ## [Previous Day...](/news/2016/12/9/index.md)
 

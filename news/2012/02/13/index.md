@@ -45,7 +45,7 @@ Rangers Football Club lodges legal papers signalling its intention to go into ad
 
 ##### European Union
 ### [The European Union and United States approve Google's $12.5 billion acquisition of smartphone maker Motorola. ](/news/2012/02/13/the-european-union-and-united-states-approve-google-s-12-5-billion-acquisition-of-smartphone-maker-motorola.md)
-_Context: European Union, smartphone, Motorola Mobility, Google, American_
+_Context: Motorola Mobility, Google, smartphone, European Union, U.S._
 
 ##### Moody's Investors Service
 ### [Moody's Investors Service downgrades the credit ratings of several European Union members including Italy, Malta, Portugal, Slovakia, Slovenia and Spain and issues a negative outlook for the ratings of Austria, France and the United Kingdom. ](/news/2012/02/13/moody-s-investors-service-downgrades-the-credit-ratings-of-several-european-union-members-including-italy-malta-portugal-slovakia-sloven.md)
@@ -53,23 +53,23 @@ continues to be well supported by a large, diversified and highly competitive ec
 
 ##### Magnitude
 ### [A 5.5-magnitude earthquake hits Northern California, near Weitchpec, according to the United States Geological Survey. ](/news/2012/02/13/a-5-5-magnitude-earthquake-hits-northern-california-near-weitchpec-according-to-the-united-states-geological-survey.md)
-_Context: United States Geological Survey, Northern California, Weitchpec, magnitude_
+_Context: Northern California, magnitude, United States Geological Survey, Weitchpec_
 
 ##### Azerbaijan
 ### [Azerbaijan rejects a claim by Iran that it has been helping Israeli spies in the killing of an Iranian nuclear scientist. ](/news/2012/02/13/azerbaijan-rejects-a-claim-by-iran-that-it-has-been-helping-israeli-spies-in-the-killing-of-an-iranian-nuclear-scientist.md)
-_Context: Israel, Azerbaijan, Iran_
+_Context: Israel, Iran, Azerbaijan_
 
 ##### Prime Minister
 ### [The Prime Minister of Pakistan Yousuf Raza Gilani appears before the Supreme Court of Pakistan to face contempt of court charges. ](/news/2012/02/13/the-prime-minister-of-pakistan-yousuf-raza-gilani-appears-before-the-supreme-court-of-pakistan-to-face-contempt-of-court-charges.md)
-_Context: contempt of court, Yousuf Raza Gilani, Prime Minister, Supreme Court_
+_Context: Yousuf Raza Gilani, Prime Minister, contempt of court, Supreme Court_
 
 ##### Abu Qatada
 ### [Abu Qatada, accused of being one of the United Kingdom's most dangerous preachers of Islamic extremism, is released from prison following a ruling from the European Court of Human Rights last week. ](/news/2012/02/13/abu-qatada-accused-of-being-one-of-the-united-kingdom-s-most-dangerous-preachers-of-islamic-extremism-is-released-from-prison-following-a.md)
-_Context: Abu Qatada, Islamic extremist group, United Kingdom, European Court of Human Rights_
+_Context: Abu Qatada, United Kingdom, European Court of Human Rights, Islamic extremist group_
 
 ##### Turkmenistan
 ### [The president of Turkmenistan, Gurbanguli Berdymukhamedov, wins a new five-year term with 97% of the vote, according to election officials. ](/news/2012/02/13/the-president-of-turkmenistan-gurbanguli-berdymukhamedov-wins-a-new-five-year-term-with-97-of-the-vote-according-to-election-officials.md)
-_Context: wins a new five-year term, Turkmenistan, Gurbanguli Berdymukhamedov_
+_Context: wins a new five-year term, Gurbanguli Berdymukhamedov, Turkmenistan_
 
 ##### Washington
 ### [Washington governor Christine Gregoire signs a bill into law that legalizes same-sex marriage in the state. ](/news/2012/02/13/washington-governor-christine-gregoire-signs-a-bill-into-law-that-legalizes-same-sex-marriage-in-the-state.md)
@@ -77,11 +77,11 @@ Governor Christine Gregoire signed legislation on Monday to make Washington stat
 
 ##### New Jersey
 ### [The New Jersey state Senate passes a bill to legalize marriage for same-sex couples by a vote of 24-16. ](/news/2012/02/13/the-new-jersey-state-senate-passes-a-bill-to-legalize-marriage-for-same-sex-couples-by-a-vote-of-24-16.md)
-_Context: New Jersey, allow_
+_Context: allow, New Jersey_
 
 ##### European Space Agency
 ### [The first launch of a new ESA carrier rocket Vega takes place from the Guiana Space Centre. ](/news/2012/02/13/the-first-launch-of-a-new-esa-carrier-rocket-vega-takes-place-from-the-guiana-space-centre.md)
-_Context: Guiana Space Centre, Vega, European Space Agency_
+_Context: European Space Agency, Guiana Space Centre, Vega_
 
 ## [Previous Day...](/news/2012/02/12/index.md)
 

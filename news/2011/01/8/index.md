@@ -39,7 +39,7 @@ New Delhi, Jan 8 (IANS) Severe cold and fog Saturday continued to haunt the peop
 ### [North Korea renews its call for unconditional talks with South Korea. ](/news/2011/01/8/north-korea-renews-its-call-for-unconditional-talks-with-south-korea.md)
 South describes proposal for unconditional negotiations as more concrete than previous one.
 
-##### American
+##### U.S.
 ### [It is revealed that the United States has subpoenaed Twitter for personal information regarding people connected to Wikileaks, including founder Julian Assange, suspected source of leaks Bradley Manning, and supporter Birgitta Jonsdottir, a member of Iceland's Althing. ](/news/2011/01/8/it-is-revealed-that-the-united-states-has-subpoenaed-twitter-for-personal-information-regarding-people-connected-to-wikileaks-including-fou.md)
 The US government has subpoenaed the social networking site Twitter for personal details of people connected to Wikileaks, court documents show.
 
@@ -49,7 +49,7 @@ Shia leader urges peaceful resistance and a rejection of violence in his first a
 
 ##### China
 ### [Chinese prosecutors say more than 600 people were killed over a period of seven years in Yunnan due to official misconduct. ](/news/2011/01/8/chinese-prosecutors-say-more-than-600-people-were-killed-over-a-period-of-seven-years-in-yunnan-due-to-official-misconduct.md)
-_Context: Yunnan, China_
+_Context: China, Yunnan_
 
 ## [Previous Day...](/news/2011/01/7/index.md)
 

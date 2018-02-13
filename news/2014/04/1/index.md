@@ -9,7 +9,7 @@ _Context: Homestar Runner_
 
 ##### 8.2 magnitude earthquake
 ### [An 8.2 magnitude earthquake occurs in the Pacific Ocean near Chile causing landslides and killing at least five people. A tsunami warning is issued. ](/news/2014/04/1/an-8-2-magnitude-earthquake-occurs-in-the-pacific-ocean-near-chile-causing-landslides-and-killing-at-least-five-people-a-tsunami-warning-is.md)
-_Context: tsunami, South Pacific Ocean, 8.2 magnitude earthquake, Chile_
+_Context: Chile, 8.2 magnitude earthquake, South Pacific Ocean, tsunami_
 
 ##### Guinea
 ### [The death toll in Guinea rises to 80 with two people dead in neighbouring Liberia. ](/news/2014/04/1/the-death-toll-in-guinea-rises-to-80-with-two-people-dead-in-neighbouring-liberia.md)

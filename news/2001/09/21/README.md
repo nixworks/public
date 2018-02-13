@@ -5,7 +5,7 @@ Formats: [HTML](2001/09/21/index.html)  [JSON](2001/09/21/index.json)  [XML](200
 
 ##### Ross Parker
 ### [ White English teenager Ross Parker stabbed to death in racially motivated attack by a gang of Muslim Asians in Peterborough, England. Racial tensions in the area had been raised following the September 11th attacks. ](/news/2001/09/21/white-english-teenager-ross-parker-stabbed-to-death-in-racially-motivated-attack-by-a-gang-of-muslim-asians-in-peterborough-england-racia.md)
-_Context: Asians, September 11th attacks, England, Ross Parker, Peterborough_
+_Context: England, Peterborough, Asians, Ross Parker, September 11th attacks_
 
 ## [Previous Day...](/news/2001/09/20/index.md)
 

@@ -13,7 +13,7 @@ Malik and Mubasher Bukhari
 
 ##### Dublin
 ### [Thousands of people in Dublin, Ireland, attend the Irish government's commemoration of the 1916 Easter Rising against British rule. ](/news/2016/03/27/thousands-of-people-in-dublin-ireland-attend-the-irish-government-s-commemoration-of-the-1916-easter-rising-against-british-rule.md)
-_Context: British rule, Dublin, Irish, Easter Rising_
+_Context: Easter Rising, British rule, Dublin, Irish_
 
 ##### Algerian Army
 ### [At least 12 Algerian Army soldiers are killed in a military helicopter crash near the town of Reggane, in Algeria's southern Adrar Province. ](/news/2016/03/27/at-least-12-algerian-army-soldiers-are-killed-in-a-military-helicopter-crash-near-the-town-of-reggane-in-algeria-s-southern-adrar-province.md)
@@ -25,15 +25,15 @@ The gas deal signed by Prime Minister Benjamin Netanyahu last December with US a
 
 ##### Myanmar general election, 2015
 ### [Senior General Min Aung Hlaing, Myanmar's military chief, pledges to work with the new civilian government that takes over the Southeast Asian country next week, after 54 years of direct or indirect rule by the military. ](/news/2016/03/27/senior-general-min-aung-hlaing-myanmar-s-military-chief-pledges-to-work-with-the-new-civilian-government-that-takes-over-the-southeast-asi.md)
-_Context: security forces, Min Aung Hlaing, Asia, Myanmar general election, 2015_
+_Context: Asia, Myanmar general election, 2015, security forces, Min Aung Hlaing_
 
 ##### 2014-16 Venezuelan protests
 ### [According to a new poll, two-thirds of Venezuelans think President Nicolas Maduro should end his presidency this year or be removed via a recall referendum amid a worsening economic crisis. In the event of a referendum, 52.1 percent of Venezuelans would vote to remove him from office, up from 44.5 percent in January, according to the poll. ](/news/2016/03/27/according-to-a-new-poll-two-thirds-of-venezuelans-think-president-nicola-s-maduro-should-end-his-presidency-this-year-or-be-removed-via-a-r.md)
-_Context: Venezuela, 2014-16 Venezuelan protests, Nicolas Maduro, President, economic crisis_
+_Context: President, Venezuela, Nicolas Maduro, 2014-16 Venezuelan protests, economic crisis_
 
 ##### 2015-16 protests in Moldova
 ### [Thousands of people rally in the streets of Chisinau, the capital of Moldova, demanding reunification with Romania. The rally is meant to mark the 98th anniversary since the former Romanian province of Bessarabia was unified with the Kingdom of Romania on March 27, 1918. The protesters say unification with Romania is the way for corruption-ridden Moldova to move forward and join the European Union. ](/news/2016/03/27/thousands-of-people-rally-in-the-streets-of-chieinau-the-capital-of-moldova-demanding-reunification-with-romania-the-rally-is-meant-to.md)
-_Context: reunification, Romania, Chisinau, Moldova, 2015-16 protests in Moldova, Kingdom of Romania, European Union, Bessarabia_
+_Context: reunification, Bessarabia, Romania, Moldova, Kingdom of Romania, European Union, Chisinau, 2015-16 protests in Moldova_
 
 ##### 2016 Brussels bombings
 ### [Police in Brussels, Belgium, forcibly break up an apparent far-right demonstration with water cannons after they joined a crowd of people paying tribute to the victims of the bombings. The demonstrators claim to have marched against terrorism but police intervened when the demonstrators confronted Muslim women and made Nazi salutes. ](/news/2016/03/27/police-in-brussels-belgium-forcibly-break-up-an-apparent-far-right-demonstration-with-water-cannons-after-they-joined-a-crowd-of-people-pa.md)

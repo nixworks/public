@@ -13,19 +13,19 @@ The U.S. Treasury moved on Wednesday to broaden the range of debt it sells to ra
 
 ##### Fitch Ratings
 ### [ Fitch Ratings downgrades Russia's long-term foreign and local currency ratings to BBB and places its outlook on negative. ](/news/2009/02/4/fitch-ratings-downgrades-russia-s-long-term-foreign-and-local-currency-ratings-to-bbb-and-places-its-outlook-on-negative.md)
-_Context: Russia, Fitch Ratings_
+_Context: Fitch Ratings, Russia_
 
 ##### Suicide bomber
 ### [ Samira Ahmed Jassim, who allegedly recruited more than 80 suicide bombers, is arrested in Iraq. ](/news/2009/02/4/samira-ahmed-jassim-who-allegedly-recruited-more-than-80-suicide-bombers-is-arrested-in-iraq.md)
-_Context: suicide bomber, Iraq_
+_Context: Iraq, suicide bomber_
 
 ##### High Court
 ### [ The High Court of Justice alleges British resident Benyam Mohammed was tortured and that the US threatened to withdraw intelligence help from the United Kingdom if details were released. ](/news/2009/02/4/the-high-court-of-justice-alleges-british-resident-benyam-mohammed-was-tortured-and-that-the-us-threatened-to-withdraw-intelligence-help-fr.md)
-_Context: Benyam Mohammed, High Court, United Kingdom_
+_Context: Benyam Mohammed, United Kingdom, High Court_
 
 ##### British Army
 ### [ A senior British Army officer is arrested in Afghanistan on suspicion of breaking the "Official Secrets Act" by leaking information on civilian casualties to a human rights campaigner. ](/news/2009/02/4/a-senior-british-army-officer-is-arrested-in-afghanistan-on-suspicion-of-breaking-the-official-secrets-act-by-leaking-information-on-civi.md)
-_Context: human rights, British Army, civilian, Official Secrets Act, casualties, Afghanistan_
+_Context: Official Secrets Act, casualties, civilian, Afghanistan, human rights, British Army_
 
 ##### Vanni District
 ### [ Sri Lankan artillery attacks in the last 24 hours in the Vanni result in the deaths of at least 52 Tamils. ](/news/2009/02/4/sri-lankan-artillery-attacks-in-the-last-24-hours-in-the-vanni-result-in-the-deaths-of-at-least-52-tamils.md)
@@ -37,7 +37,7 @@ _Context: Minister of Agriculture, Latvia_
 
 ##### Somalia
 ### [ The director of Somalia's independent HornAfrik radio station, Said Tahlil Ahmed, is killed in Mogadishu. ](/news/2009/02/4/the-director-of-somalia-s-independent-hornafrik-radio-station-said-tahlil-ahmed-is-killed-in-mogadishu.md)
-_Context: Somalia, HornAfrik, Said Tahlil Ahmed, Mogadishu_
+_Context: Mogadishu, Said Tahlil Ahmed, HornAfrik, Somalia_
 
 ##### Dublin
 ### [ An estimated 15,000 students in Dublin, Ireland, protest the threatened reintroduction of university fees. ](/news/2009/02/4/an-estimated-15-000-students-in-dublin-ireland-protest-the-threatened-reintroduction-of-university-fees.md)
@@ -45,7 +45,7 @@ With public spending being slashed some form of third level fees could be introd
 
 ##### UN Secretary General
 ### [ UN Secretary General Ban Ki-moon announces a commission to investigate the assassination of former Pakistani prime minister Benazir Bhutto. ](/news/2009/02/4/un-secretary-general-ban-ki-moon-announces-a-commission-to-investigate-the-assassination-of-former-pakistani-prime-minister-benazir-bhutto.md)
-_Context: Pakistan, UN Secretary General, Benazir Bhutto, Assassination of Benazir Bhutto, Ban Ki-moon_
+_Context: Assassination of Benazir Bhutto, Pakistan, UN Secretary General, Benazir Bhutto, Ban Ki-moon_
 
 ##### Colombia
 ### [ Fossils from Colombia reveal "Titanoboa cerrejonensis", the largest snake ever discovered. ](/news/2009/02/4/fossils-from-colombia-reveal-titanoboa-cerrejonensis-the-largest-snake-ever-discovered.md)
@@ -53,11 +53,11 @@ _Context: Titanoboa cerrejonensis, Colombia_
 
 ##### German
 ### [ German public television station ZDF reports that Nazi fugitive Aribert Heim died in 1992. ](/news/2009/02/4/german-public-television-station-zdf-reports-that-nazi-fugitive-aribert-heim-died-in-1992.md)
-_Context: Nazi, Aribert Heim, public television, fugitive, German, ZDF_
+_Context: Nazi, public television, fugitive, ZDF, Aribert Heim, German_
 
 ##### Afghanistan
 ### [ Eight trucks are attacked en route to Afghanistan by suspected Taliban militants. ](/news/2009/02/4/eight-trucks-are-attacked-en-route-to-afghanistan-by-suspected-taliban-militants.md)
-_Context: Taliban, Afghanistan_
+_Context: Afghanistan, Taliban_
 
 ## [Previous Day...](/news/2009/02/3/index.md)
 

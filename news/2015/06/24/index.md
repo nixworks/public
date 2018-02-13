@@ -13,7 +13,7 @@ At least 18 people are killed in the Chinese region of Xinjiang during a clash a
 
 ##### Pakistani heat wave
 ### [The death toll from the heat wave reaches nears 800 in Sindh province with 744 people dead in the city of Karachi alone. ](/news/2015/06/24/the-death-toll-from-the-heat-wave-reaches-nears-800-in-sindh-province-with-744-people-dead-in-the-city-of-karachi-alone.md)
-_Context: Pakistani heat wave, Karachi, Sindh_
+_Context: Karachi, Sindh, Pakistani heat wave_
 
 ##### Middle East respiratory syndrome outbreak in South Korea
 ### [The government of South Korea announces that it will provide maximum financial aid to hospitals and clinics affected by the MERS outbreak. ](/news/2015/06/24/the-government-of-south-korea-announces-that-it-will-provide-maximum-financial-aid-to-hospitals-and-clinics-affected-by-the-mers-outbreak.md)
@@ -29,7 +29,7 @@ President Obama tells his French counterpart, Francois Hollande, that the US is 
 
 ##### Israel
 ### [Israel revokes permits for 500 Palestinians from the Gaza Strip to enter Jerusalem for Friday prayers following a rocket attack on southern Israel. ](/news/2015/06/24/israel-revokes-permits-for-500-palestinians-from-the-gaza-strip-to-enter-jerusalem-for-friday-prayers-following-a-rocket-attack-on-southern.md)
-_Context: Gaza Strip, Israel, Palestinian, Jerusalem, Friday prayers_
+_Context: Gaza Strip, Palestinian, Friday prayers, Israel, Jerusalem_
 
 ##### Trans-Pacific Partnership
 ### [The United States Senate approves a motion giving President Barack Obama fast track authority to complete trade negotiations with 11 countries in the Asia-Pacific region. ](/news/2015/06/24/the-united-states-senate-approves-a-motion-giving-president-barack-obama-fast-track-authority-to-complete-trade-negotiations-with-11-countri.md)
@@ -53,7 +53,7 @@ Gov. Bobby Jindal, who became Louisiana’s first nonwhite governor since Recons
 
 ##### United States House of Representatives
 ### [The United States House of Representatives votes 247-180 to allow states to opt out of Barack Obama's carbon emissions reduction if the state governor believes compliance would increase electricity bills too much or have an adverse effect on reliability of supply. ](/news/2015/06/24/the-united-states-house-of-representatives-votes-247-180-to-allow-states-to-opt-out-of-barack-obama-s-carbon-emissions-reduction-if-the-stat.md)
-_Context: United States House of Representatives, Barack Obama, carbon emissions_
+_Context: carbon emissions, Barack Obama, United States House of Representatives_
 
 ## [Previous Day...](/news/2015/06/23/index.md)
 

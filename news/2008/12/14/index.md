@@ -9,7 +9,7 @@ _Context: Philippines, ferry_
 
 ##### Minya, Egypt
 ### [ A bus crash in Minya, Egypt, kills 57 people. ](/news/2008/12/14/a-bus-crash-in-minya-egypt-kills-57-people.md)
-_Context: Egypt, Minya, Egypt_
+_Context: Minya, Egypt, Egypt_
 
 ##### Turkmenistan
 ### [ Turkmenistan holds an early parliamentary vote with only candidates from the Democratic Party and associated organizations standing for election. ](/news/2008/12/14/turkmenistan-holds-an-early-parliamentary-vote-with-only-candidates-from-the-democratic-party-and-associated-organizations-standing-for-ele.md)
@@ -17,11 +17,11 @@ Turkmenistan votes on Sunday in a snap parliamentary election touted by the gove
 
 ##### Uganda
 ### [ Uganda, Democratic Republic of the Congo, and Southern Sudan launch an operation against the Lord's Resistance Army insurgency in the DRC's Garamba National Park. ](/news/2008/12/14/uganda-democratic-republic-of-the-congo-and-southern-sudan-launch-an-operation-against-the-lord-s-resistance-army-insurgency-in-the-drc-s.md)
-_Context: 2008 Garamba offensive, Southern Sudan, Lord's Resistance Army, Garamba National Park, Uganda, DR Congo, Lord's Resistance Army insurgency_
+_Context: Lord's Resistance Army, Southern Sudan, 2008 Garamba offensive, Uganda, Lord's Resistance Army insurgency, Garamba National Park, DR Congo_
 
 ##### Al-Baghdadia TV
 ### [ Al-Baghdadia TV journalist Muntadhar al Zaidi is subdued after throwing both his shoes at United States President George W. Bush during his farewell speech in Iraq. ](/news/2008/12/14/al-baghdadia-tv-journalist-muntadhar-al-zaidi-is-subdued-after-throwing-both-his-shoes-at-united-states-president-george-w-bush-during-his.md)
-_Context: American, Iraq, U.S. President, Muntadhar al Zaidi, Al-Baghdadia TV, George W. Bush, throws a shoe_
+_Context: U.S. President, U.S., Iraq, Al-Baghdadia TV, George W. Bush, Muntadhar al Zaidi, throws a shoe_
 
 ## [Previous Day...](/news/2008/12/13/index.md)
 

@@ -33,7 +33,7 @@ The Royal Navy fired flares to warn off a Spanish patrol boat approaching an Ame
 
 ##### Operation Car Wash
 ### [Acting on a request from Brazil's top prosecutor, Supreme Court Justice Teori Zavascki suspends President of the Deputies Chamber Eduardo Cunha for obstructing the Petrobras corruption investigation. The full court confirms this action, Cunha is eliminated from the line of succession to President Dilma Rousseff, who may be suspended from office next week. ](/news/2016/05/5/acting-on-a-request-from-brazil-s-top-prosecutor-supreme-court-justice-teori-zavascki-suspends-president-of-the-deputies-chamber-eduardo-cu.md)
-_Context: Brazil, Operation Car Wash, President of the Brazilian Chamber of Deputies, Impeachment process against Dilma Rousseff, Supreme Court, Eduardo Cunha, president, Petrobras, Dilma Rousseff_
+_Context: president, Dilma Rousseff, Operation Car Wash, President of the Brazilian Chamber of Deputies, Supreme Court, Impeachment process against Dilma Rousseff, Eduardo Cunha, Petrobras, Brazil_
 
 ##### Colorado Springs, Colorado
 ### [Colorado Springs, Colorado, agrees to pay people who were sent to jail because they couldn't afford to pay fines for minor offenses like panhandling and jaywalking. The city will pay $125 for each day the person spent behind bars, an estimated total of $103,000 for the 66 people identified. In 1971, the U.S. Supreme Court ruled that people cannot be jailed if they do not have the money to pay. ](/news/2016/05/5/colorado-springs-colorado-agrees-to-pay-people-who-were-sent-to-jail-because-they-couldnat-afford-to-pay-fines-for-minor-offenses-like-p.md)
@@ -55,11 +55,11 @@ Anti-establishment Philippine politician Rodrigo Duterte&#039;s rollicking ride 
 
 ##### United Kingdom local elections, 2016
 ### [Members of the British public head to local polling stations to cast their vote for various governmental positions, including the Mayor of London. ](/news/2016/05/5/members-of-the-british-public-head-to-local-polling-stations-to-cast-their-vote-for-various-governmental-positions-including-the-mayor-of-l.md)
-_Context: Mayor of London, United Kingdom local elections, 2016_
+_Context: United Kingdom local elections, 2016, Mayor of London_
 
 ##### 2016 U.S. presidential election
 ### [Former Governor of Texas and Republican presidential candidate Rick Perry endorses Donald Trump for president and says he is open to being Trump's vice-presidential running mate. ](/news/2016/05/5/former-governor-of-texas-and-republican-presidential-candidate-rick-perry-endorses-donald-trump-for-president-and-says-he-is-open-to-being-t.md)
-_Context: Republican, presidential candidate, 2016 U.S. presidential election, Rick Perry, Governor of Texas, Donald Trump_
+_Context: 2016 U.S. presidential election, Republican, presidential candidate, Donald Trump, Governor of Texas, Rick Perry_
 
 ## [Previous Day...](/news/2016/05/4/index.md)
 

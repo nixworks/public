@@ -13,7 +13,7 @@ _Context: Laghman province, Taliban, Afghanistan_
 
 ##### Two massive explosions
 ### [Two massive explosions occur at a Revolutionary Guard ammunition depot western of the Iranian capital, Tehran; at least 17 people, including a senior commander, are killed according to Iranian state media. Mossad assumed responsible. ](/news/2011/11/12/two-massive-explosions-occur-at-a-revolutionary-guard-ammunition-depot-western-of-the-iranian-capital-tehran-at-least-17-people-including.md)
-_Context: Iranian Revolutionary guards, Tehran, Mossad, Iranian state media, Two massive explosions, Iran_
+_Context: Mossad, Tehran, Iran, Iranian state media, Iranian Revolutionary guards, Two massive explosions_
 
 ##### Islamic terrorism
 ### [A suspected Islamist attacker kills seven people in the southern Kazakh city of Taraz before blowing himself up. ](/news/2011/11/12/a-suspected-islamist-attacker-kills-seven-people-in-the-southern-kazakh-city-of-taraz-before-blowing-himself-up.md)
@@ -21,11 +21,11 @@ Media in Kazakhstan cite authorities as saying that seven people, including five
 
 ##### APEC United States 2011
 ### [APEC United States 2011: The Asia Pacific Economic Cooperation summit gets underway in the US city of Honolulu. ](/news/2011/11/12/apec-united-states-2011-the-asia-pacific-economic-cooperation-summit-gets-underway-in-the-us-city-of-honolulu.md)
-_Context: Asia Pacific Economic Cooperation, Honolulu, APEC United States 2011_
+_Context: Honolulu, Asia Pacific Economic Cooperation, APEC United States 2011_
 
 ##### Democratic Republic of Congo
 ### [The Democratic Republic of Congo and South Africa sign an accord to develop a mega-hydroelectric plant on the Congo river to address their nations' growing energy needs. ](/news/2011/11/12/the-democratic-republic-of-congo-and-south-africa-sign-an-accord-to-develop-a-mega-hydroelectric-plant-on-the-congo-river-to-address-their-n.md)
-_Context: South Africa, Congo river, hydroelectric, Democratic Republic of Congo_
+_Context: hydroelectric, Congo river, South Africa, Democratic Republic of Congo_
 
 ##### United States Secretary of State
 ### [United States Secretary of State Hillary Clinton demands that Iran respond soon to the "serious concerns" raised by the International Atomic Energy Agency report that Iran appeared to be working on nuclear bomb technology. ](/news/2011/11/12/united-states-secretary-of-state-hillary-clinton-demands-that-iran-respond-soon-to-the-serious-concerns-raised-by-the-international-atomic.md)

@@ -9,15 +9,15 @@ Austrian Josef Fritzl, who imprisoned his daughter in a cellar for 24 years and 
 
 ##### Planet
 ### [ Three planets orbiting HR 8799 and one planet orbiting Fomalhaut are visually verified by telescopes, the first extrasolar planets whose existence have been confirmed via direct imaging. ](/news/2008/11/13/three-planets-orbiting-hr-8799-and-one-planet-orbiting-fomalhaut-are-visually-verified-by-telescopes-the-first-extrasolar-planets-whose-ex.md)
-_Context: direct imaging, planet, Fomalhaut, HR 8799, extrasolar planet_
+_Context: direct imaging, HR 8799, extrasolar planet, planet, Fomalhaut_
 
 ##### Moscow Interbank Currency Exchange
 ### [ The Moscow Interbank Currency Exchange falls 5% as trade resumes after a one-day limit-down halt, prompting confusing suspension announcements and orders to the contrary from the Federal Financial Markets Service. ](/news/2008/11/13/the-moscow-interbank-currency-exchange-falls-5-as-trade-resumes-after-a-one-day-limit-down-halt-prompting-confusing-suspension-announceme.md)
-_Context: Moscow Interbank Currency Exchange, Federal Financial Markets Service_
+_Context: Federal Financial Markets Service, Moscow Interbank Currency Exchange_
 
 ##### Russia
 ### [ Russian Prime Minister Vladimir Putin questions the commitment of the European Union to the construction of the Nord Stream pipeline to establish a natural gas delivery network from his country to Europe. A European Commission spokesman responds, "The EU continues to strongly support the Nord Stream pipeline". ](/news/2008/11/13/russian-prime-minister-vladimir-putin-questions-the-commitment-of-the-european-union-to-the-construction-of-the-nord-stream-pipeline-to-est.md)
-_Context: line, natural gas, Europe, Vladimir Putin, European Union, Russia, Nord Stream, Prime Minister of Russia, European Commission_
+_Context: Europe, European Union, Vladimir Putin, line, Nord Stream, natural gas, Prime Minister of Russia, Russia, European Commission_
 
 ## [Previous Day...](/news/2008/11/12/index.md)
 

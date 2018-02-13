@@ -9,7 +9,7 @@ A man shot in the head near a synagogue in central Copenhagen early today died s
 
 ##### Internal conflict in Burma
 ### [The Myanmar Army kills around a dozen Kokang rebels and capture another eight in Kokang offensive. ](/news/2015/02/15/the-myanmar-army-kills-around-a-dozen-kokang-rebels-and-capture-another-eight-in-kokang-offensive.md)
-_Context: Myanmar Army, Internal conflict in Burma, Kokang rebels, Kokang offensive_
+_Context: Internal conflict in Burma, Myanmar Army, Kokang rebels, Kokang offensive_
 
 ##### Boko Haram insurgency
 ### [A suicide bomber kills seven and wounds 30 in Nigerian city of Damaturu. ](/news/2015/02/15/a-suicide-bomber-kills-seven-and-wounds-30-in-nigerian-city-of-damaturu.md)
@@ -25,7 +25,7 @@ A video emerges purportedly showing the beheadings of 21 Egyptian Christians who
 
 ##### Turkey
 ### [A Turkish court remands seventeen police officers into custody for allegedly being part of an illegal wiretapping program targeting politicians, bureaucrats, and businessmen. ](/news/2015/02/15/a-turkish-court-remands-seventeen-police-officers-into-custody-for-allegedly-being-part-of-an-illegal-wiretapping-program-targeting-politici.md)
-_Context: wiretapped, Turkey_
+_Context: Turkey, wiretapped_
 
 ##### Hamburg state election, 2015
 ### [Voters in the German city state of Hamburg go to the polls with the governing Social Democratic Party of Germany led by Olaf Scholz retaining power. ](/news/2015/02/15/voters-in-the-german-city-state-of-hamburg-go-to-the-polls-with-the-governing-social-democratic-party-of-germany-led-by-olaf-scholz-retainin.md)

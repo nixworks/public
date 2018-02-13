@@ -29,7 +29,7 @@ Unemployment in France has soared in October, with a record 3.46 million people 
 
 ##### UN Relief and Works Agency for Palestine Refugees in the Near East
 ### [The UN Relief and Works Agency for Palestine Refugees in the Near East declares a state of emergency on the Gaza Strip following heavy floods. ](/news/2014/11/27/the-un-relief-and-works-agency-for-palestine-refugees-in-the-near-east-declares-a-state-of-emergency-on-the-gaza-strip-following-heavy-flood.md)
-_Context: state of emergency, Gaza Strip, UN Relief and Works Agency for Palestine Refugees in the Near East_
+_Context: Gaza Strip, UN Relief and Works Agency for Palestine Refugees in the Near East, state of emergency_
 
 ##### Hong Kong Police Force
 ### [The Hong Kong Police Force arrests eleven more people in a second night of violence after removal of a camp in Mong Kok and seven police officers are arrested for alleged assault of a protester on October 15. ](/news/2014/11/27/the-hong-kong-police-force-arrests-eleven-more-people-in-a-second-night-of-violence-after-removal-of-a-camp-in-mong-kok-and-seven-police-off.md)
@@ -49,7 +49,7 @@ The Scottish Parliament should have the power to set income tax rates and bands,
 
 ##### North Korea
 ### [North Korean leader Kim Jong-Un appoints his sister, Kim Yo Jong, to a high government position. ](/news/2014/11/27/north-korean-leader-kim-jong-un-appoints-his-sister-kim-yo-jong-to-a-high-government-position.md)
-_Context: Kim Jong-Un, North Korea_
+_Context: North Korea, Kim Jong-Un_
 
 ##### Tongans vote out
 ### [Tongans vote out half of the incumbents in the Legislative Assembly. ](/news/2014/11/27/tongans-vote-out-half-of-the-incumbents-in-the-legislative-assembly.md)

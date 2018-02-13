@@ -9,11 +9,11 @@ Police in Venezuela search for a soldier who shot dead two officers and wounded 
 
 ##### Philippines
 ### [The Philippines and the United States hold a joint exercise of their forces. ](/news/2010/08/22/the-philippines-and-the-united-states-hold-a-joint-exercise-of-their-forces.md)
-_Context: Philippines, American_
+_Context: U.S., Philippines_
 
 ##### Brazil
 ### [Brazilian police rescue 35 hostages from InterContinental in So Conrado, Rio de Janeiro. ](/news/2010/08/22/brazilian-police-rescue-35-hostages-from-intercontinental-in-sao-conrado-rio-de-janeiro.md)
-_Context: So Conrado, Brazil, InterContinental, Rio de Janeiro_
+_Context: Rio de Janeiro, So Conrado, Brazil, InterContinental_
 
 ##### Transitional Federal Government
 ### [The Government of Somalia claims that 10 members of the al-Shabab militant group have been killed when bombs they were preparing went off prematurely in Mogadishu. ](/news/2010/08/22/the-government-of-somalia-claims-that-10-members-of-the-al-shabab-militant-group-have-been-killed-when-bombs-they-were-preparing-went-off-pr.md)
@@ -45,7 +45,7 @@ Thirty-three&#x20;Chilean&#x20;miners&#x20;trapped&#x20;more&#x20;than&#x20;two&
 
 ##### Bolivia
 ### [A Bolivian-flagged all-female international aid ship bound for Gaza is delayed as Cyprus bans it from passing, with Israel's Ehud Barak calling on France and the United States to prevent it from sailing because, he says, it is "a needless provocation". ](/news/2010/08/22/a-bolivian-flagged-all-female-international-aid-ship-bound-for-gaza-is-delayed-as-cyprus-bans-it-from-passing-with-israel-s-ehud-barak-call.md)
-_Context: Gaza Strip, Bolivia, Cyprus, France, Ehud Barak, American, Israel_
+_Context: Gaza Strip, Ehud Barak, U.S., France, Israel, Bolivia, Cypriot_
 
 ##### Iran
 ### [Iran unveils a long range unmanned bomber, the Karrar drone their latest addition in a number of recently disclosed military hardware. ](/news/2010/08/22/iran-unveils-a-long-range-unmanned-bomber-the-karrar-drone-their-latest-addition-in-a-number-of-recently-disclosed-military-hardware.md)
@@ -53,7 +53,7 @@ _Context: drone aircraft, Iran_
 
 ##### Wassel Abu Yousef
 ### [Palestinian official Wassel Abu Yousef objects to Israeli Prime Minister Benjamin Netanyahu's talk of "preconditions" that the Palestinians should recognize Israel as the state of Jews and says such comments are a threat to direct talks next month. ](/news/2010/08/22/palestinian-official-wassel-abu-yousef-objects-to-israeli-prime-minister-benjamin-netanyahu-s-talk-of-preconditions-that-the-palestinians.md)
-_Context: Israeli Prime Minister, Benjamin Netanyahu, Wassel Abu Yousef_
+_Context: Wassel Abu Yousef, Israeli Prime Minister, Benjamin Netanyahu_
 
 ##### South Africa
 ### [South African trade unions state that a court injunction successfully sought by the government is intended to "intimidate" workers who are striking in the hope of receiving better pay. ](/news/2010/08/22/south-african-trade-unions-state-that-a-court-injunction-successfully-sought-by-the-government-is-intended-to-intimidate-workers-who-are-s.md)
@@ -63,7 +63,7 @@ _Context: South Africa_
 ### [Supporters of Julian Assange of Wikileaks credit American intelligence agencies with recent smears against his character and express surprise that it has not happened sooner. ](/news/2010/08/22/supporters-of-julian-assange-of-wikileaks-credit-american-intelligence-agencies-with-recent-smears-against-his-character-and-express-surpris.md)
 Wikileaks founder says Australian intelligence warned him on August 11 to expect personal attacks.
 
-##### American
+##### U.S.
 ### [After a federal investigation by the United States, 47 foreign-born gang members are arrested in New England, including members of the "True Somali Bloods", "True Sudanese Bloods" and the "Asian Boyz". Over half are arrested in the U.S. state of Maine. ](/news/2010/08/22/after-a-federal-investigation-by-the-united-states-47-foreign-born-gang-members-are-arrested-in-new-england-including-members-of-the-true.md)
 The arrests were among 47 – 28 of them known gang members -- by federal authorities in four states.
 
@@ -79,7 +79,7 @@ Opponents of a planned Islamic community center two blocks from Ground Zero in N
 ### [With results of the federal election in Australia indicating a hung parliament, Prime Minister Julia Gillard holds initial talks with independent candidates in an attempt to form a government. ](/news/2010/08/22/with-results-of-the-federal-election-in-australia-indicating-a-hung-parliament-prime-minister-julia-gillard-holds-initial-talks-with-indepe.md)
 Australian Prime Minister Julia Gillard contacts independent candidates as she begins trying to form a government after an inconclusive vote.
 
-##### American
+##### U.S.
 ### [United States authorities give the green light to human trials of an Ebola drug said to have worked during tests on monkeys. ](/news/2010/08/22/united-states-authorities-give-the-green-light-to-human-trials-of-an-ebola-drug-said-to-have-worked-during-tests-on-monkeys.md)
 A treatment for the Ebola virus could be nearer after US authorities approve human trials of a drug proven to be effective in monkeys.
 

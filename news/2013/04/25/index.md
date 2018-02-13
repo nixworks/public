@@ -13,7 +13,7 @@ F-16 shoots down vessel over Mediterranean; not clear whether drone was armed; H
 
 ##### AK-47s
 ### [A gunman kills three people with a Kalashnikov rifle in a shooting attack in Istres, France. ](/news/2013/04/25/a-gunman-kills-three-people-with-a-kalashnikov-rifle-in-a-shooting-attack-in-istres-france.md)
-_Context: Istres, France, AK-47s_
+_Context: Istres, AK-47s, France_
 
 ##### French-born
 ### [French unemployment reaches a record level of 3.22 million. ](/news/2013/04/25/french-unemployment-reaches-a-record-level-of-3-22-million.md)
@@ -25,19 +25,19 @@ THE UN Security Council has unanimously backed sending up to 12,600 internationa
 
 ##### United States Secretary of Defence
 ### [The United States Secretary of Defence Chuck Hagel claims that US intelligence has concluded "with some degree of varying confidence" that the Government of Syria has used sarin gas during the past two years in the civil war. The Israeli and British governments made similar statements. ](/news/2013/04/25/the-united-states-secretary-of-defence-chuck-hagel-claims-that-us-intelligence-has-concluded-with-some-degree-of-varying-confidence-that-t.md)
-_Context: Chuck Hagel, sarin gas, United States Secretary of Defence, Israel, Government of Syria, United Kingdom, Syrian civil war_
+_Context: United States Secretary of Defence, United Kingdom, Government of Syria, sarin gas, Syrian civil war, Israel, Chuck Hagel_
 
 ##### United Kingdom
 ### [The United Kingdom reopens its embassy in Somalia 22 years after it closed as a result of the chaos after the fall of Mohamed Siad Barre's government and subsequent Somali Civil War. ](/news/2013/04/25/the-united-kingdom-reopens-its-embassy-in-somalia-22-years-after-it-closed-as-a-result-of-the-chaos-after-the-fall-of-mohamed-siad-barre-s-g.md)
-_Context: Somalia, Somali Civil War, Mohamed Siad Barre, United Kingdom_
+_Context: Somalia, Mohamed Siad Barre, United Kingdom, Somali Civil War_
 
 ##### Mexican
 ### [Mexican photojournalist Daniel Alejandro Martinez Bazaldua is found dead in Saltillo, Coahuila, an area where Los Zetas drug cartel operates. With his death, Mexico consolidates itself as one of the most dangerous countries for journalists, where more than 80 have been killed since 2000. ](/news/2013/04/25/mexican-photojournalist-daniel-alejandro-martanez-bazaldaoa-is-found-dead-in-saltillo-coahuila-an-area-where-los-zetas-drug-cartel-operat.md)
-_Context: Mexican, Zetas, Mexican, Saltillo, Coahuila, more than 80 have been killed_
+_Context: Zetas, Saltillo, Coahuila, Mexican, more than 80 have been killed, Mexican_
 
 ##### Sunil Tripathi
 ### [After being missing for over a week, the body of Sunil Tripathi is found in the Providence River. ](/news/2013/04/25/after-being-missing-for-over-a-week-the-body-of-sunil-tripathi-is-found-in-the-providence-river.md)
-_Context: Sunil Tripathi, Providence River_
+_Context: Providence River, Sunil Tripathi_
 
 ##### George W. Bush Presidential Center
 ### [The George W. Bush Presidential Center in Dallas, Texas, is dedicated in the presence of President of the United States Barack Obama, former president George W. Bush and all living former presidents. The complex will be opened to the public on May 1. ](/news/2013/04/25/the-george-w-bush-presidential-center-in-dallas-texas-is-dedicated-in-the-presence-of-president-of-the-united-states-barack-obama-former.md)

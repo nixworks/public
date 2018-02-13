@@ -33,11 +33,11 @@ _Context: Indonesia, Mount Bromo_
 
 ##### 250,000 documents
 ### [Diplomatic cable leaks by Wikileaks reveal that China regarded North Korea as a "spoilt child" and the view of Korean reunification under South Korean leadership is "gaining ground". ](/news/2010/11/29/diplomatic-cable-leaks-by-wikileaks-reveal-that-china-regarded-north-korea-as-a-spoilt-child-and-the-view-of-korean-reunification-under-so.md)
-_Context: Wikileaks, China, 250,000 documents, North Korea, South Korea, reunified_
+_Context: 250,000 documents, reunified, South Korea, Wikileaks, North Korea, China_
 
 ##### Israel
 ### [Israel's "eased" blockade of the Gaza strip continues to cripple the Gazan economy. ](/news/2010/11/29/israel-s-eased-blockade-of-the-gaza-strip-continues-to-cripple-the-gazan-economy.md)
-_Context:  blockade, Gaza strip, Israel_
+_Context: Israel,  blockade, Gaza strip_
 
 ##### U.N. climate change talks
 ### [The 2010 United Nations Climate Change Conference begins in Cancun, involving 194 countries, amidst low expectations. ](/news/2010/11/29/the-2010-united-nations-climate-change-conference-begins-in-cancun-involving-194-countries-amidst-low-expectations.md)
@@ -47,7 +47,7 @@ Latest environmental news, features and updates. Pictures, video and more.
 ### [The Gay and Lesbian Coalition of Kenya's David Kuria criticises Kenyan Prime Minister Raila Odinga after he announces the imminent arrest of the country's homosexuals. ](/news/2010/11/29/the-gay-and-lesbian-coalition-of-kenya-s-david-kuria-criticises-kenyan-prime-minister-raila-odinga-after-he-announces-the-imminent-arrest-of.md)
 A gay rights activist criticises Kenyan Prime Minister Raila Odinga for saying homosexual people will be arrested.
 
-##### American
+##### U.S.
 ### [A United States court sentences a Somali to 30 years in jail for piracy after an unsuccessful attack on a United States Navy flotilla. ](/news/2010/11/29/a-united-states-court-sentences-a-somali-to-30-years-in-jail-for-piracy-after-an-unsuccessful-attack-on-a-united-states-navy-flotilla.md)
 A US court sentences a Somali man to 30 years in jail for attacking a US warship off the coast of Somalia in April.
 
@@ -57,19 +57,19 @@ A student armed with a handgun holds 23 other students and a teacher hostage for
 
 ##### Haiti's presidential election
 ### [12 of the 18 candidates in Haiti's presidential election call for a cancelled vote, describing it as fraudulent and favouring the ruling party, as the UN expresses "deep concern" and thousands of people march in Port-au-Prince . ](/news/2010/11/29/12-of-the-18-candidates-in-haiti-s-presidential-election-call-for-a-cancelled-vote-describing-it-as-fraudulent-and-favouring-the-ruling-par.md)
-_Context: Port-au-Prince, Haiti's presidential election_
+_Context: Haiti's presidential election, Port-au-Prince_
 
 ##### Muslim Brotherhood
 ### [The Muslim Brotherhood, Egypt's largest opposition bloc, claims fraud in the parliamentary elections and says it has won no seats. ](/news/2010/11/29/the-muslim-brotherhood-egypt-s-largest-opposition-bloc-claims-fraud-in-the-parliamentary-elections-and-says-it-has-won-no-seats.md)
-_Context: Muslim Brotherhood, Egypt, Egyptian parliamentary elections_
+_Context: Muslim Brotherhood, Egyptian parliamentary elections, Egypt_
 
 ##### Constitutional Court of Thailand
 ### [The Constitutional Court of Thailand dismisses a case brought against the ruling Democrat Party by the election commission, saying the commission did not follow legal procedures. ](/news/2010/11/29/the-constitutional-court-of-thailand-dismisses-a-case-brought-against-the-ruling-democrat-party-by-the-election-commission-saying-the-commi.md)
-_Context: Thailand, Constitutional Court of Thailand, Democrat Party_
+_Context: Constitutional Court of Thailand, Thailand, Democrat Party_
 
 ##### John Brumby
 ### [John Brumby concedes defeat in the Victorian election; Ted Baillieu becomes the new Premier of the Australian state of Victoria. ](/news/2010/11/29/john-brumby-concedes-defeat-in-the-victorian-election-ted-baillieu-becomes-the-new-premier-of-the-australian-state-of-victoria.md)
-_Context: John Brumby, Premier, Victorian election, Victoria, Ted Baillieu, Australia_
+_Context: John Brumby, Victoria, Victorian election, Australia, Ted Baillieu, Premier_
 
 ##### U.S. President
 ### [President of the United States Barack Obama calls for a wage freeze for two million United States government workers. ](/news/2010/11/29/president-of-the-united-states-barack-obama-calls-for-a-wage-freeze-for-two-million-united-states-government-workers.md)
@@ -77,7 +77,7 @@ _Context: Barack Obama, U.S. President, wage freeze, United States government_
 
 ##### Canadian federal by-elections
 ### [The Canadian federal by-elections fills two vacant House seats in ridings for Manitoba and one in Ontario, resulting in one Conservative gain, one Conservative hold and one Liberal gain. ](/news/2010/11/29/the-canadian-federal-by-elections-fills-two-vacant-house-seats-in-ridings-for-manitoba-and-one-in-ontario-resulting-in-one-conservative-gai.md)
-_Context: House of Commons, ridings, Ontario, Conservative Party's, Liberal Party's, Canadian federal by-elections, Manitoba_
+_Context: Canadian federal by-elections, Ontario, Conservative Party's, Manitoba, ridings, House of Commons, Liberal Party's_
 
 ## [Previous Day...](/news/2010/11/28/index.md)
 

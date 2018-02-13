@@ -5,11 +5,11 @@ Formats: [HTML](2014/11/11/index.html)  [JSON](2014/11/11/index.json)  [XML](201
 
 ##### War in North-West Pakistan
 ### [A gunfight and two bombings leave at least 15 militants and 5 soldiers dead. ](/news/2014/11/11/a-gunfight-and-two-bombings-leave-at-least-15-militants-and-5-soldiers-dead.md)
-_Context: Pakistani forces, War in North-West Pakistan_
+_Context: War in North-West Pakistan, Pakistani forces_
 
 ##### ISIL
 ### [A suicide bomber kills eight people in the centre of Baiji in northern Iraq. ](/news/2014/11/11/a-suicide-bomber-kills-eight-people-in-the-centre-of-baiji-in-northern-iraq.md)
-_Context: Baiji, ISIL, Iraq_
+_Context: Iraq, ISIL, Baiji_
 
 ##### Zen
 ### [Renowned Zen Buddhist master Thich Nhat Hanh suffers a massive brain hemorrhage and is rushed to a hospital in western France. ](/news/2014/11/11/renowned-zen-buddhist-master-thich-nhat-hanh-suffers-a-massive-brain-hemorrhage-and-is-rushed-to-a-hospital-in-western-france.md)
@@ -21,7 +21,7 @@ Governor says dismissal of chief currency dealer Martin Mallett was unrelated to
 
 ##### Bus crash
 ### [58 people are killed in a bus crash in the Sukkur District in southern Pakistan's Sindh province. ](/news/2014/11/11/58-people-are-killed-in-a-bus-crash-in-the-sukkur-district-in-southern-pakistan-s-sindh-province.md)
-_Context: Pakistan, Sukkur District, Sindh, bus crash_
+_Context: bus crash, Sukkur District, Sindh, Pakistan_
 
 ##### Midwestern
 ### [The first winter storm of the season hits the midwestern United States with at least four people dead in Minnesota. ](/news/2014/11/11/the-first-winter-storm-of-the-season-hits-the-midwestern-united-states-with-at-least-four-people-dead-in-minnesota.md)
@@ -37,7 +37,7 @@ Mali, which was just coming to the end of 21-day quarantines for 108 people link
 
 ##### Ebola virus cases in the United States
 ### [Dr. Craig Spencer, a Doctors Without Borders volunteer, was declared free of the Ebola virus and released from a New York City hospital. His was the last Ebola case being treated in the United States. ](/news/2014/11/11/dr-craig-spencer-a-doctors-without-borders-volunteer-was-declared-free-of-the-ebola-virus-and-released-from-a-new-york-city-hospital-his.md)
-_Context: New York City, Ebola, Ebola virus cases in the United States, Dr. Craig Spencer, hospital, Doctors Without Borders volunteer, American_
+_Context: Dr. Craig Spencer, hospital, Ebola virus cases in the United States, Doctors Without Borders volunteer, New York City, Ebola, U.S._
 
 ##### Sinking of the MV ''Sewol''
 ### [In South Korea, fifteen members of the crew of the MV "Sewol" are sentenced for criminal negligence in the ferry disaster with the captain sentenced to 36 years and the chief engineer sentenced to 30 years. ](/news/2014/11/11/in-south-korea-fifteen-members-of-the-crew-of-the-mv-sewol-are-sentenced-for-criminal-negligence-in-the-ferry-disaster-with-the-captain-s.md)

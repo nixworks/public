@@ -17,7 +17,7 @@ BEIRUT: Two suicide bombers blew themselves up on a crowded street in a southern
 
 ##### Florent Groberg
 ### [French-American Florent Groberg receives the Medal of Honor, becoming the first foreign-born Medal of Honor recipient of the War in Afghanistan. ](/news/2015/11/12/french-american-florent-groberg-receives-the-medal-of-honor-becoming-the-first-foreign-born-medal-of-honor-recipient-of-the-war-in-afghanis.md)
-_Context: foreign-born Medal of Honor recipient, Florent Groberg, Medal of Honor, War in Afghanistan_
+_Context: Medal of Honor, War in Afghanistan, foreign-born Medal of Honor recipient, Florent Groberg_
 
 ##### Mario Draghi
 ### [Mario Draghi, head of the European Central Bank, tells the European parliament in prepared testimony that the outlook for inflation is "weakening." The comment was taken to suggest the ECB will soon take a more stimulative stance on interest rates or money quantity. ](/news/2015/11/12/mario-draghi-head-of-the-european-central-bank-tells-the-european-parliament-in-prepared-testimony-that-the-outlook-for-inflation-is-weak.md)
@@ -25,7 +25,7 @@ Mario Draghi signaled that the European Central Bank is ready to boost its stimu
 
 ##### Montreal
 ### [The city of Montreal in Canada begins dumping 2 billion gallons of raw sewage into the Saint Lawrence River, an action the mayor, Denis Coderre, says is necessary to make repairs and improvements to the city's wastewater system. The move has caused outrage among residents and environmentalists, while the hashtag ""#flushgate"" is being used on social media sites to voice opposition to the dumping effort. ](/news/2015/11/12/the-city-of-montreal-in-canada-begins-dumping-2-billion-gallons-of-raw-sewage-into-the-saint-lawrence-river-an-action-the-mayor-denis-code.md)
-_Context: hashtag, Canadian, Montreal, Denis Coderre, social media, Saint Lawrence River_
+_Context: hashtag, Saint Lawrence River, Canadian, Montreal, social media, Denis Coderre_
 
 ##### Valletta Summit on Migration
 ### [The Valletta Summit on Migration concludes with European leaders setting up a fund to promote development in African countries, in return for help in the European migrant crisis. ](/news/2015/11/12/the-valletta-summit-on-migration-concludes-with-european-leaders-setting-up-a-fund-to-promote-development-in-african-countries-in-return-fo.md)

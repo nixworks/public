@@ -5,11 +5,11 @@ Formats: [HTML](2007/05/6/index.html)  [JSON](2007/05/6/index.json)  [XML](2007/
 
 ##### United Nations
 ### [ Palestinian extremists bomb a United Nations-run Gaza elementary school in the continuing Palestinian factional violence, killing at least one and wounding at least seven. ](/news/2007/05/6/palestinian-extremists-bomb-a-united-nations-run-gaza-elementary-school-in-the-continuing-palestinian-factional-violence-killing-at-least.md)
-_Context: United Nations, Gaza Strip, clashes_
+_Context: Gaza Strip, United Nations, clashes_
 
 ##### B'Tselem
 ### [ HaMoked Center for the Defense of the Individual and B'Tselem, Israeli human rights organizations, accuse the Israeli Defense Ministry of abusing Palestinian detainees in 73 cases. The Justice Ministry said the report was "fraught with mistakes, groundless claims and inaccuracies." ](/news/2007/05/6/hamoked-center-for-the-defense-of-the-individual-and-b-tselem-israeli-human-rights-organizations-accuse-the-israeli-defense-ministry-of-a.md)
-_Context: Palestinian, Israel, human rights, B'Tselem_
+_Context: Palestinian, B'Tselem, Israel, human rights_
 
 ##### Foreign Minister
 ### [ Foreign Minister Abdullah Gl withdraws his candidacy from the 2007 Turkish presidential election after failing to win the support of secular lawmakers. ](/news/2007/05/6/foreign-minister-abdullah-gul-withdraws-his-candidacy-from-the-2007-turkish-presidential-election-after-failing-to-win-the-support-of-secul.md)
@@ -17,7 +17,7 @@ Abdullah Gul withdrew his candidacy for Turkey’s presidency today, ending a po
 
 ##### Car bomb
 ### [ A car bomb kills at least 20 people and injures 80 more in the Baiyaa neighbourhood of Baghdad. ](/news/2007/05/6/a-car-bomb-kills-at-least-20-people-and-injures-80-more-in-the-baiyaa-neighbourhood-of-baghdad.md)
-_Context: Baghdad, car bomb, Baiyaa_
+_Context: car bomb, Baghdad, Baiyaa_
 
 ##### Pakistan
 ### [ Tens of thousands of Pakistanis greet suspended Chief Justice Iftikhar Chaudhry in Lahore. ](/news/2007/05/6/tens-of-thousands-of-pakistanis-greet-suspended-chief-justice-iftikhar-chaudhry-in-lahore.md)
@@ -37,7 +37,7 @@ _Context: 2007 presidential election, Sgolne Royal, France, Nicolas Sarkozy_
 
 ##### World number 1
 ### [ A former World No. 1 ranked tennis player from Belgium, Kim Clijsters, announces her retirement effective immediately. ](/news/2007/05/6/a-former-world-no-1-ranked-tennis-player-from-belgium-kim-clijsters-announces-her-retirement-effective-immediately.md)
-_Context: world number 1, Kim Clijsters, Belgium, tennis_
+_Context: Kim Clijsters, world number 1, Belgium, tennis_
 
 ## [Previous Day...](/news/2007/05/5/index.md)
 

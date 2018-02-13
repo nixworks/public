@@ -13,19 +13,19 @@ The Islamic State claimed responsibility for the recent twin explosions that roc
 
 ##### Rihanna
 ### [Rihanna has been announced to play the iconic role of Marion Crane from the 1960 classic horror film "Psycho" for the final season of the American television series "Bates Motel". ](/news/2016/07/23/rihanna-has-been-announced-to-play-the-iconic-role-of-marion-crane-from-the-1960-classic-horror-film-psycho-for-the-final-season-of-the-am.md)
-_Context: Marion Crane, Psycho, Rihanna, Bates Motel_
+_Context: Marion Crane, Rihanna, Psycho, Bates Motel_
 
 ##### Ariana Grande
 ### [Wikileaks reveals that Ariana Grande was prevented from performing in the White House because of the July 2015 donut-licking incident. ](/news/2016/07/23/wikileaks-reveals-that-ariana-grande-was-prevented-from-performing-in-the-white-house-because-of-the-july-2015-donut-licking-incident.md)
-_Context: White House, Ariana Grande, donut_
+_Context: donut, Ariana Grande, White House_
 
 ##### July 2016 North China cyclone
 ### [Floods kill at least 154 in China and 300,000 people are being evacuated in Hebei province. Villagers have accused local officials of covering up the extent of the damage. ](/news/2016/07/23/floods-kill-at-least-154-in-china-and-300-000-people-are-being-evacuated-in-hebei-province-villagers-have-accused-local-officials-of-coveri.md)
-_Context: China, July 2016 North China cyclone, Hebei_
+_Context: Hebei, July 2016 North China cyclone, China_
 
 ##### Malaysia Airlines Flight 370
 ### [An article in "New York" magazine speculates that the pilot may have deliberately crashed the plane into the Southern Ocean. ](/news/2016/07/23/an-article-in-new-york-magazine-speculates-that-the-pilot-may-have-deliberately-crashed-the-plane-into-the-southern-ocean.md)
-_Context: ''New York'' magazine, Southern Ocean, Malaysia Airlines Flight 370_
+_Context: Malaysia Airlines Flight 370, ''New York'' magazine, Southern Ocean_
 
 ##### 2016 Pacific hurricane season
 ### [Hawaii Governor David Ige declares a state of emergency as Tropical Storm Darby is on track to reach the U.S. state's Big Island today with maximum sustained winds approaching 50 mph (80 kph). The storm, which previously was a Category 3 hurricane, could produce up to 15 inches (40 cm) of rain. ](/news/2016/07/23/hawaii-governor-david-ige-declares-a-state-of-emergency-as-tropical-storm-darby-is-on-track-to-reach-the-u-s-state-s-big-island-today-with.md)
@@ -45,7 +45,7 @@ India Defense Minister Manohar Parrikar joined an armed forces operation as the 
 
 ##### Cambodia
 ### [Cambodia and Laos cause discord at the Association of Southeast Asian Nations meeting after they block a joint statement by the group regarding the South China Sea. ](/news/2016/07/23/cambodia-and-laos-cause-discord-at-the-association-of-southeast-asian-nations-meeting-after-they-block-a-joint-statement-by-the-group-regard.md)
-_Context: Association of Southeast Asian Nations, Cambodia, South China Sea, Laos_
+_Context: Association of Southeast Asian Nations, Cambodia, Laos, South China Sea_
 
 ##### Jerry Brown
 ### [California governor Jerry Brown rejects a parole for Leslie van Houten, a cult follower of Charles Manson. ](/news/2016/07/23/california-governor-jerry-brown-rejects-a-parole-for-leslie-van-houten-a-cult-follower-of-charles-manson.md)
@@ -53,7 +53,7 @@ California Gov. Jerry Brown denied parole Friday for Leslie Van Houten, the youn
 
 ##### Indian External Affairs Minister
 ### [Indian External Affairs Minister Sushma Swaraj announces Indian charity worker Judith D'Souza (Aga Khan Foundation), who was kidnapped in Kabul, Afghanistan, on June 9, 2016, is free. ](/news/2016/07/23/indian-external-affairs-minister-sushma-swaraj-announces-indian-charity-worker-judith-d-souza-aga-khan-foundation-who-was-kidnapped-in-ka.md)
-_Context: Kabul, Aga Khan Foundation, Sushma Swaraj, Afghanistan, Indian External Affairs Minister_
+_Context: Sushma Swaraj, Aga Khan Foundation, Afghanistan, Indian External Affairs Minister, Kabul_
 
 ##### The email leak
 ### [Emails released by Wikileaks show that the Democratic National Committee (DNC), led by Debbie Wasserman Schultz, supported the candidacy of Hillary Clinton over Bernie Sanders. ](/news/2016/07/23/emails-released-by-wikileaks-show-that-the-democratic-national-committee-dnc-led-by-debbie-wasserman-schultz-supported-the-candidacy-of.md)

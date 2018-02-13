@@ -5,7 +5,7 @@ Formats: [HTML](2013/05/16/index.html)  [JSON](2013/05/16/index.json)  [XML](201
 
 ##### Suicide bombing
 ### [Many people are killed in two suicide bombings in Afghanistan, at least fifteen of which are killed in the capital Kabul when a suicide bomber from Hizb-i-Islami, a Taliban affiliate, targeted a convoy carrying foreign troops, injuring another 40. ](/news/2013/05/16/many-people-are-killed-in-two-suicide-bombings-in-afghanistan-at-least-fifteen-of-which-are-killed-in-the-capital-kabul-when-a-suicide-bomb.md)
-_Context: Afghanistan, Hizb-i-Islami, suicide bombing, Kabul_
+_Context: Kabul, Hizb-i-Islami, suicide bombing, Afghanistan_
 
 ##### Baghdad
 ### [Seventeen people are killed when car bombs detonate and gunman attack people in Baghdad, Iraq. ](/news/2013/05/16/seventeen-people-are-killed-when-car-bombs-detonate-and-gunman-attack-people-in-baghdad-iraq.md)
@@ -13,7 +13,7 @@ Spike in violence comes amid tensions between the Shiite-led government and Sunn
 
 ##### Sinai Peninsula
 ### [Suspected militants abduct six security personnel in the Sinai Peninsula, Egypt. ](/news/2013/05/16/suspected-militants-abduct-six-security-personnel-in-the-sinai-peninsula-egypt.md)
-_Context: Sinai Peninsula, Egypt_
+_Context: Egypt, Sinai Peninsula_
 
 ##### Adamawa State
 ### [The Nigerian military imposes a dusk to dawn curfew in Adamawa State. ](/news/2013/05/16/the-nigerian-military-imposes-a-dusk-to-dawn-curfew-in-adamawa-state.md)
@@ -21,11 +21,11 @@ _Context: Adamawa State_
 
 ##### The Office
 ### [The American adaptation of the television series "The Office" airs its last episode on the National Broadcasting Company after nine seasons. ](/news/2013/05/16/the-american-adaptation-of-the-television-series-the-office-airs-its-last-episode-on-the-national-broadcasting-company-after-nine-seasons.md)
-_Context: The Office, NBC_
+_Context: NBC, The Office_
 
 ##### Jenny Colgan
 ### [British author Jenny Colgan wins the 2013 Romantic Novel of the Year Award for her book "Welcome to Rosie Hopkins' Sweetshop of Dreams". ](/news/2013/05/16/british-author-jenny-colgan-wins-the-2013-romantic-novel-of-the-year-award-for-her-book-welcome-to-rosie-hopkins-sweetshop-of-dreams.md)
-_Context: Jenny Colgan, Welcome to Rosie Hopkins' Sweetshop of Dreams, Romantic Novel of the Year Award_
+_Context: Jenny Colgan, Romantic Novel of the Year Award, Welcome to Rosie Hopkins' Sweetshop of Dreams_
 
 ##### Bea Arthur
 ### [A topless painting of actress Bea Arthur sells for US$2 million at auction. ](/news/2013/05/16/a-topless-painting-of-actress-bea-arthur-sells-for-us-2-million-at-auction.md)
@@ -37,7 +37,7 @@ _Context: Bill Gates_
 
 ##### Venezuela
 ### [The Venezuelan government attempts to put an end to a toilet paper shortage. ](/news/2013/05/16/the-venezuelan-government-attempts-to-put-an-end-to-a-toilet-paper-shortage.md)
-_Context: Venezuela, toilet paper_
+_Context: toilet paper, Venezuela_
 
 ##### Cambodia
 ### [A shoe factory collapses in Cambodia, killing three. ](/news/2013/05/16/a-shoe-factory-collapses-in-cambodia-killing-three.md)

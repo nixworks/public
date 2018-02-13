@@ -13,7 +13,7 @@ _Context: Karachi, Pakistan, Afghanistan_
 
 ##### Elizabeth II
 ### [Queen Elizabeth II marks her 65th anniversary as sovereign, making her the only British monarch to commemorate a Sapphire Jubilee. ](/news/2017/02/6/queen-elizabeth-ii-marks-her-65th-anniversary-as-sovereign-making-her-the-only-british-monarch-to-commemorate-a-sapphire-jubilee.md)
-_Context: Sapphire Jubilee, Elizabeth II_
+_Context: Elizabeth II, Sapphire Jubilee_
 
 ##### Agricultural Ministry
 ### [South Korea's Agricultural Ministry confirms a case of foot-and-mouth disease at a dairy farm in Boeun County. This is the first instance of this disease in the country since March 29, 2016. ](/news/2017/02/6/south-korea-s-agricultural-ministry-confirms-a-case-of-foot-and-mouth-disease-at-a-dairy-farm-in-boeun-county-this-is-the-first-instance-of.md)

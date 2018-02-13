@@ -13,11 +13,11 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Iranian President
 ### [ Iranian President Mahmoud Ahmadinejad threatens to pull Iran out of the Nuclear Nonproliferation Treaty if the United States and the EU 3 do not accept Iran's nuclear program. ](/news/2006/05/7/iranian-president-mahmoud-ahmadinejad-threatens-to-pull-iran-out-of-the-nuclear-nonproliferation-treaty-if-the-united-states-and-the-eu-3-d.md)
-_Context: Iran's nuclear program, Mahmoud Ahmadinejad, American, Iranian President, EU 3, Iran, Nuclear Nonproliferation Treaty_
+_Context: Iran, Iranian President, Mahmoud Ahmadinejad, Nuclear Nonproliferation Treaty, Iran's nuclear program, EU 3, U.S._
 
 ##### Arsenal
 ### [ Arsenal F.C. play their last game at Highbury, or Arsenal Stadium. They have played there for 93 years ](/news/2006/05/7/arsenal-f-c-play-their-last-game-at-highbury-or-arsenal-stadium-they-have-played-there-for-93-years.md)
-_Context: Highbury, Arsenal Stadium, Arsenal_
+_Context: Highbury, Arsenal, Arsenal Stadium_
 
 ## [Previous Day...](/news/2006/05/6/index.md)
 

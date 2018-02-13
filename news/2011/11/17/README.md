@@ -5,11 +5,11 @@ Formats: [HTML](2011/11/17/index.html)  [JSON](2011/11/17/index.json)  [XML](201
 
 ##### 2011 Syrian uprising
 ### [2011 Syrian uprising: Explosions and gunfire are reported in the Syrian capital Damascus. ](/news/2011/11/17/2011-syrian-uprising-explosions-and-gunfire-are-reported-in-the-syrian-capital-damascus.md)
-_Context: Damascus, 2011 Syrian uprising, Syria_
+_Context: 2011 Syrian uprising, Damascus, Syria_
 
 ##### Kenya
 ### [The presidents of Kenya, Somalia and Uganda meet in Nairobi to discuss coordinated military operations against the al-Qaeda-linked Somali terrorist group Al-Shabaab. ](/news/2011/11/17/the-presidents-of-kenya-somalia-and-uganda-meet-in-nairobi-to-discuss-coordinated-military-operations-against-the-al-qaeda-linked-somali-te.md)
-_Context: Nairobi, Uganda, al-Qaeda, Kenya, Somalia, Operation Linda Nchi, Al-Shabaab_
+_Context: Somalia, Uganda, Nairobi, al-Qaeda, Al-Shabaab, Kenya, Operation Linda Nchi_
 
 ##### Swede
 ### [Swedish divers find the wreckage of the warship "Svardet", sunk in 1676 during the Battle of Oland. ](/news/2011/11/17/swedish-divers-find-the-wreckage-of-the-warship-sva-rdet-sunk-in-1676-during-the-battle-of-aland.md)
@@ -29,7 +29,7 @@ _Context: Samoa, Polynesian Leaders Group, Apia_
 
 ##### North Korea
 ### [Reports emerge that nearly 14,000 North Korean anti-chemical-weapon suits, believed destined for Syria, were seized by Greek authorities in November 2009. ](/news/2011/11/17/reports-emerge-that-nearly-14-000-north-korean-anti-chemical-weapon-suits-believed-destined-for-syria-were-seized-by-greek-authorities-in.md)
-_Context: chemical weapon, North Korea, Greece, Syria_
+_Context: North Korea, Syria, Greece, chemical weapon_
 
 ##### United States House of Representatives
 ### [The United States House of Representatives considers censoring the Internet for the first time with the Stop Online Piracy Act. ](/news/2011/11/17/the-united-states-house-of-representatives-considers-censoring-the-internet-for-the-first-time-with-the-stop-online-piracy-act.md)
@@ -37,11 +37,11 @@ Several Web giants are voicing their opposition to the new Internet piracy bill 
 
 ##### Daniel Ortega
 ### [Daniel Ortega, the President of Nicaragua, is declared the winner of the recent Presidential election, but opponents protest the results. ](/news/2011/11/17/daniel-ortega-the-president-of-nicaragua-is-declared-the-winner-of-the-recent-presidential-election-but-opponents-protest-the-results.md)
-_Context: Nicaraguan President, recent Presidential election, Daniel Ortega_
+_Context: Daniel Ortega, recent Presidential election, Nicaraguan President_
 
 ##### China
 ### [China's unmanned Shenzhou 8 spacecraft successfully returns to Earth, landing in the Inner Mongolia autonomous region after docking twice with the Tiangong-1 orbital laboratory module. ](/news/2011/11/17/china-s-unmanned-shenzhou-8-spacecraft-successfully-returns-to-earth-landing-in-the-inner-mongolia-autonomous-region-after-docking-twice-wi.md)
-_Context: Inner Mongolia, China, Shenzhou 8, Tiangong-1_
+_Context: China, Tiangong-1, Shenzhou 8, Inner Mongolia_
 
 ## [Previous Day...](/news/2011/11/16/index.md)
 

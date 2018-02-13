@@ -9,7 +9,7 @@ Indonesian investigators spotted the wreckage of a crashed plane on a mountainsi
 
 ##### American Sterling Bank
 ### [ American Sterling Bank in Sugar Creek, Missouri, is closed. ](/news/2009/04/17/american-sterling-bank-in-sugar-creek-missouri-is-closed.md)
-_Context: Missouri, banks failed, American Sterling Bank, Sugar Creek_
+_Context: American Sterling Bank, banks failed, Sugar Creek, Missouri_
 
 ##### Bangladesh
 ### [ The Bangladesh Police arrest 31 suspected Hizb ut-Tahrir members for planning terrorism. ](/news/2009/04/17/the-bangladesh-police-arrest-31-suspected-hizb-ut-tahrir-members-for-planning-terrorism.md)
@@ -33,7 +33,7 @@ The prime minister of Thailand extended a state of emergency Friday and pledged 
 
 ##### Recount
 ### [ A recount in Moldova's parliamentary election confirms an "emphatic win" by the Communist Party. ](/news/2009/04/17/a-recount-in-moldova-s-parliamentary-election-confirms-an-emphatic-win-by-the-communist-party.md)
-_Context: PCRM, Moldovan Parliament, election, Moldova, recount_
+_Context: PCRM, Moldovan Parliament, election, recount, Moldova_
 
 ##### 2008 Mumbai attacks
 ### [ The trial of Mohammad Ajmal Amir Kasab resumes. ](/news/2009/04/17/the-trial-of-mohammad-ajmal-amir-kasab-resumes.md)
@@ -41,31 +41,31 @@ Pakistani national faces death sentence for alleged role in attack on Indian cit
 
 ##### Serbia
 ### [ Serbian President Boris Tadic visits Kosovo. ](/news/2009/04/17/serbian-president-boris-tadia-visits-kosovo.md)
-_Context: Kosovo, Serbia, Boris Tadic, President of Serbia_
+_Context: Kosovo, Serbia, President of Serbia, Boris Tadic_
 
 ##### Czech Republic
 ### [ The Czech Republic invites Belarussian President Alexander Lukashenko to a European Union summit in May. ](/news/2009/04/17/the-czech-republic-invites-belarussian-president-alexander-lukashenko-to-a-european-union-summit-in-may.md)
-_Context: Belarus, Czech Republic, Belarussian President, Alexander Lukashenko, European Union, summit_
+_Context: Belarus, summit, Belarussian President, European Union, Czech Republic, Alexander Lukashenko_
 
 ##### Botswana
 ### [ Botswana will reduce its output of diamonds by more than 50% in 2009. ](/news/2009/04/17/botswana-will-reduce-its-output-of-diamonds-by-more-than-50-in-2009.md)
-_Context: Botswana, real diamond_
+_Context: real diamond, Botswana_
 
 ##### Madagascar
 ### [ Malagasy President Andry Rajoelina issues an arrest warrant for former President Marc Ravalomanana. ](/news/2009/04/17/malagasy-president-andry-rajoelina-issues-an-arrest-warrant-for-former-president-marc-ravalomanana.md)
-_Context: Madagascar, Andry Rajoelina, President, Marc Ravalomanana, arrest warrant_
+_Context: Andry Rajoelina, arrest warrant, Marc Ravalomanana, Madagascar, President_
 
 ##### South Africa
 ### [ South Africa's Army enters KwaZulu-Natal province to prevent violence during the upcoming general election. ](/news/2009/04/17/south-africa-s-army-enters-kwazulu-natal-province-to-prevent-violence-during-the-upcoming-general-election.md)
-_Context: loses, South Africa, military, province, KwaZulu-Natal_
+_Context: military, province, loses, South Africa, KwaZulu-Natal_
 
 ##### Canadian
 ### [ Canada restores citizenship to foreigners in an amendment to the Citizenship Act of 1977. ](/news/2009/04/17/canada-restores-citizenship-to-foreigners-in-an-amendment-to-the-citizenship-act-of-1977.md)
-_Context: amendment, citizen of Canada, foreigners, Canadian, citizenship_
+_Context: citizen of Canada, Canadian, foreigners, amendment, citizenship_
 
 ##### Fifth
 ### [ The Fifth Summit of the Americas begins in Port-of-Spain, Trinidad and Tobago. ](/news/2009/04/17/the-fifth-summit-of-the-americas-begins-in-port-of-spain-trinidad-and-tobago.md)
-_Context: Port-of-Spain, Trinidad and Tobago, Summit of the Americas, Fifth_
+_Context: Trinidad and Tobago, Summit of the Americas, Port-of-Spain, Fifth_
 
 ## [Previous Day...](/news/2009/04/16/index.md)
 

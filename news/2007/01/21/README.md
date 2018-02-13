@@ -29,7 +29,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Angela Merkel
 ### [ Angela Merkel, the Chancellor of Germany, holds talks with Vladimir Putin, the President of Russia over energy security issues. ](/news/2007/01/21/angela-merkel-the-chancellor-of-germany-holds-talks-with-vladimir-putin-the-president-of-russia-over-energy-security-issues.md)
-_Context: Chancellor, Angela Merkel, Vladimir Putin, Russian President_
+_Context: Angela Merkel, Chancellor, Vladimir Putin, Russian President_
 
 ##### Magnitude
 ### [ A 7.3 M w earthquake occurs off of Indonesia, centered in the Molucca Sea. Buildings shake in northeastern Indonesia, panicking residents, but there are no reports of casualties. ](/news/2007/01/21/a-7-3-m-w-earthquake-occurs-off-of-indonesia-centered-in-the-molucca-sea-buildings-shake-in-northeastern-indonesia-panicking-residents.md)
@@ -37,11 +37,11 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Muqtada al-Sadr
 ### [ Muqtada al-Sadr's bloc lifts its boycott of the Iraqi political process and rejoins the government. ](/news/2007/01/21/muqtada-al-sadr-s-bloc-lifts-its-boycott-of-the-iraqi-political-process-and-rejoins-the-government.md)
-_Context: Muqtada al-Sadr, government, Iraq_
+_Context: government, Iraq, Muqtada al-Sadr_
 
 ##### Ogn  Samast
 ### [ Ogn Samast, who was arrested for murdering Hrant Dink, admits that he has killed Dink. ](/news/2007/01/21/ogun-samast-who-was-arrested-for-murdering-hrant-dink-admits-that-he-has-killed-dink.md)
-_Context: Ogn  Samast, Hrant Dink_
+_Context: Hrant Dink, Ogn  Samast_
 
 ##### Serbia
 ### [ Voters in Serbia participate in the first general election since it became an independent state in 2006. ](/news/2007/01/21/voters-in-serbia-participate-in-the-first-general-election-since-it-became-an-independent-state-in-2006.md)

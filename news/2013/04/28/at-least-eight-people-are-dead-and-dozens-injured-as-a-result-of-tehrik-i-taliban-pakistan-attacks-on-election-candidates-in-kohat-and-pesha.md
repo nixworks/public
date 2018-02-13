@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/28/at-least-eight-people-are-dead-and-dozens-injur
 
 ### [2013-04-28](/news/2013/04/28/index.md)
 
-##### Pakistani Taliban
+##### Tehrik-i-Taliban Pakistan
 # At least eight people are dead and dozens injured as a result of Tehrik-i-Taliban Pakistan attacks on election candidates in Kohat and Peshawar. 
 
 The attacks, mostly by the Taliban, added to a growing toll of militant violence in the run-up to elections scheduled for May 11.
@@ -22,8 +22,8 @@ The attacks, mostly by the Taliban, added to a growing toll of militant violence
 
 ### Related:
 
-1. [Two security personnel, 17 worshippers in a mosque, and 13 militants are killed following a Tehrik-i-Taliban Pakistan attack on a Pakistan Air Force base on the outskirts of Peshawar. ](/news/2015/09/18/two-security-personnel-17-worshippers-in-a-mosque-and-13-militants-are-killed-following-a-tehrik-i-taliban-pakistan-attack-on-a-pakistan-a.md) _Context: Pakistani Taliban, Peshawar_
-2. [The Pakistan Armed Forces attacks two Pakistani Taliban positions near Peshawar, killing 5 militants. ](/news/2014/12/20/the-pakistan-armed-forces-attacks-two-pakistani-taliban-positions-near-peshawar-killing-5-militants.md) _Context: Pakistani Taliban, Peshawar_
-3. [At least 7 people are killed in an attack by militants, suspected to be Tehrik-i-Taliban Pakistan, on a power station in the Pakistani city of Peshawar. Ten hostages are reportedly taken by the militants. ](/news/2013/04/2/at-least-7-people-are-killed-in-an-attack-by-militants-suspected-to-be-tehrik-i-taliban-pakistan-on-a-power-station-in-the-pakistani-city.md) _Context: Pakistani Taliban, Peshawar_
-4. [A suicide bombing, revindicated in an email to journalists by the Pakistani Taliban, kills at least 11 soldiers and injures 13 at an army unit camp's sports area in the Kabal area of the Swat Valley, in Northwestern Pakistan, according to Pakistan Army figures. ](/news/2018/02/3/a-suicide-bombing-revindicated-in-an-email-to-journalists-by-the-pakistani-taliban-kills-at-least-11-soldiers-and-injures-13-at-an-army-un.md) _Context: Pakistani Taliban_
-5. [Four attackers storm the Directorate of Agricultural Training Institute in Pakistan and exchange fire with police and army personnel. The four attackers are killed in the attack, and at least 12 people are killed and 35+ are injured. Tehrik-i-Taliban Pakistan claims responsibility. ](/news/2017/12/1/four-attackers-storm-the-directorate-of-agricultural-training-institute-in-pakistan-and-exchange-fire-with-police-and-army-personnel-the-fo.md) _Context: Pakistani Taliban_
+1. [Two security personnel, 17 worshippers in a mosque, and 13 militants are killed following a Tehrik-i-Taliban Pakistan attack on a Pakistan Air Force base on the outskirts of Peshawar. ](/news/2015/09/18/two-security-personnel-17-worshippers-in-a-mosque-and-13-militants-are-killed-following-a-tehrik-i-taliban-pakistan-attack-on-a-pakistan-a.md) _Context: Peshawar, Tehrik-i-Taliban Pakistan_
+2. [The Pakistan Armed Forces attacks two Pakistani Taliban positions near Peshawar, killing 5 militants. ](/news/2014/12/20/the-pakistan-armed-forces-attacks-two-pakistani-taliban-positions-near-peshawar-killing-5-militants.md) _Context: Peshawar, Tehrik-i-Taliban Pakistan_
+3. [At least 7 people are killed in an attack by militants, suspected to be Tehrik-i-Taliban Pakistan, on a power station in the Pakistani city of Peshawar. Ten hostages are reportedly taken by the militants. ](/news/2013/04/2/at-least-7-people-are-killed-in-an-attack-by-militants-suspected-to-be-tehrik-i-taliban-pakistan-on-a-power-station-in-the-pakistani-city.md) _Context: Peshawar, Tehrik-i-Taliban Pakistan_
+4. [A suicide bombing, revindicated in an email to journalists by the Pakistani Taliban, kills at least 11 soldiers and injures 13 at an army unit camp's sports area in the Kabal area of the Swat Valley, in Northwestern Pakistan, according to Pakistan Army figures. ](/news/2018/02/3/a-suicide-bombing-revindicated-in-an-email-to-journalists-by-the-pakistani-taliban-kills-at-least-11-soldiers-and-injures-13-at-an-army-un.md) _Context: Tehrik-i-Taliban Pakistan_
+5. [Tehrik-i-Taliban Pakistan (TTP) confirms its deputy leader Khalid Mehsud has been killed in a U.S. drone strike in North Waziristan, near the border with Afghanistan. ](/news/2018/02/12/tehrik-i-taliban-pakistan-ttp-confirms-its-deputy-leader-khalid-mehsud-has-been-killed-in-a-u-s-drone-strike-in-north-waziristan-near-th.md) _Context: Tehrik-i-Taliban Pakistan_

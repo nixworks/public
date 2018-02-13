@@ -17,7 +17,7 @@ The airline is also expected to cancel 900 more flights on Thursday to make sure
 
 ##### Nepal
 ### [ Police in Nepal shoot dead six Maoists the day before the holding of Constituent Assembly elections. ](/news/2008/04/9/police-in-nepal-shoot-dead-six-maoists-the-day-before-the-holding-of-constituent-assembly-elections.md)
-_Context: Nepalese Constituent Assembly election, 2008, Nepal, Maoist supporters_
+_Context: Nepal, Nepalese Constituent Assembly election, 2008, Maoist supporters_
 
 ##### Her Majesty's Most Honourable Privy Council
 ### [ Her Majesty's Most Honourable Privy Council approves changes to the system of government on Sark, ending about 450 years of feudalism on the Channel Island. ](/news/2008/04/9/her-majesty-s-most-honourable-privy-council-approves-changes-to-the-system-of-government-on-sark-ending-about-450-years-of-feudalism-on-th.md)

@@ -13,7 +13,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Dariali Gorge
 ### [A landslide in the Dariali Gorge in northeastern Georgia kills at least three people, blocks the Terek River, and disrupts gas supply to Armenia. ](/news/2014/05/17/a-landslide-in-the-dariali-gorge-in-northeastern-georgia-kills-at-least-three-people-blocks-the-terek-river-and-disrupts-gas-supply-to-arm.md)
-_Context: Terek River, Armenia, Dariali Gorge,  Georgian_
+_Context: Armenia, Dariali Gorge,  Georgian, Terek River_
 
 ##### Meghna River
 ### [Officials call off rescue operations as 54 dead bodies recovered with an unknown number of people missing in a ferry disaster in the Meghna River of Bangladesh.](/news/2014/05/17/officials-call-off-rescue-operations-as-54-dead-bodies-recovered-with-an-unknown-number-of-people-missing-in-a-ferry-disaster-in-the-meghna.md)

@@ -9,11 +9,11 @@ Formats: [HTML](2017/05/5/index.html)  [JSON](2017/05/5/index.json)  [XML](2017/
 
 ##### Police
 ### [Afghan border police and the Pakistani military clash at a border crossing near Chaman, killing at least 13 people and wounding over 80 others. Both sides blame each other for the flareup in fighting. ](/news/2017/05/5/afghan-border-police-and-the-pakistani-military-clash-at-a-border-crossing-near-chaman-killing-at-least-13-people-and-wounding-over-80-othe.md)
-_Context: border crossing, Pakistani military, Chaman, police_
+_Context: Pakistani military, Chaman, police, border crossing_
 
 ##### United States Senate
 ### [United States senators Ben Cardin (D-MD) and Marco Rubio (R-FL) file a bill restricting arms sales to the Philippine National Police over its drug war. ](/news/2017/05/5/united-states-senators-ben-cardin-d-md-and-marco-rubio-r-fl-file-a-bill-restricting-arms-sales-to-the-philippine-national-police-over-it.md)
-_Context: Democrat, the state, Marco Rubio, Ben Cardin, Maryland, Republican, drug crackdown, Philippine National Police, arms sales, United States Senate_
+_Context: drug crackdown, United States Senate, Philippine National Police, the state, Republican, arms sales, Ben Cardin, Marco Rubio, Maryland, Democrat_
 
 ##### 2012 Delhi gang rape
 ### [The Indian Supreme Court upholds the death sentences imposed on four men convicted in the 2012 gang rape and murder of a 23-year-old woman on board a bus in South Delhi. ](/news/2017/05/5/the-indian-supreme-court-upholds-the-death-sentences-imposed-on-four-men-convicted-in-the-2012-gang-rape-and-murder-of-a-23-year-old-woman-o.md)
@@ -25,7 +25,7 @@ Indonesian authorities search for scores of inmates who escaped from an overcrow
 
 ##### United Kingdom local elections, 2017
 ### [Results from yesterday's elections show significant swings towards the Conservative Party and away from the Labour Party. ](/news/2017/05/5/results-from-yesterday-s-elections-show-significant-swings-towards-the-conservative-party-and-away-from-the-labour-party.md)
-_Context: Labour Party, Conservative Party, United Kingdom local elections, 2017_
+_Context: Labour Party, United Kingdom local elections, 2017, Conservative Party_
 
 ##### Algerian legislative election, 2017
 ### [Results from yesterday's election give a reduced majority of seats to Abdelaziz Bouteflika's incumbent coalition. ](/news/2017/05/5/results-from-yesterday-s-election-give-a-reduced-majority-of-seats-to-abdelaziz-bouteflika-s-incumbent-coalition.md)
@@ -33,11 +33,11 @@ National Liberation Front secures majority in national assembly, but loses quart
 
 ##### Last month's presidential election
 ### [Files purportedly from the campaign of Emmanuel Macron are posted online. Macron campaign officials say the files are a mix of fake and authentic documents and drew parallels with what happened in the 2016 US Presidential elections. ](/news/2017/05/5/files-purportedly-from-the-campaign-of-emmanuel-macron-are-posted-online-macron-campaign-officials-say-the-files-are-a-mix-of-fake-and-auth.md)
-_Context: last month's presidential election, Emmanuel Macron, what happened in the 2016 US Presidential elections._
+_Context: Emmanuel Macron, what happened in the 2016 US Presidential elections., last month's presidential election_
 
 ##### Political appointments of Donald Trump
 ### [Tennessee state senator and former Army flight surgeon Mark E. Green withdraws his name from consideration as Secretary of the Army because of political opposition. Green was the Trump Administration's second nominee for this position. ](/news/2017/05/5/tennessee-state-senator-and-former-army-flight-surgeon-mark-e-green-withdraws-his-name-from-consideration-as-secretary-of-the-army-because.md)
-_Context: flight surgeon, Political appointments of Donald Trump, Tennessee, Secretary of the Army, Mark E. Green_
+_Context: Political appointments of Donald Trump, Secretary of the Army, Mark E. Green, Tennessee, flight surgeon_
 
 ##### Comac C919
 ### [The Comac C919 makes its maiden flight from Shanghai Pudong International Airport, China. ](/news/2017/05/5/the-comac-c919-makes-its-maiden-flight-from-shanghai-pudong-international-airport-china.md)

@@ -3,13 +3,13 @@ Formats: [HTML](2013/08/4/index.html)  [JSON](2013/08/4/index.json)  [XML](2013/
 
 ## [2013-08-4](/news/2013/08/4/index.md)
 
-##### American
+##### U.S.
 ### [The United States closes 22 embassies in the Middle East and North Africa due to intelligence of an Al-Qaeda attack. ](/news/2013/08/4/the-united-states-closes-22-embassies-in-the-middle-east-and-north-africa-due-to-intelligence-of-an-al-qaeda-attack.md)
 The Canadian embassy in Dhaka, the capital of Bangladesh, will be closed Sunday for security reasons, the Department of Foreign Affairs, Trade and Development said on its site.
 
 ##### Tunisia
 ### [Tunisia kills one suspected terrorist and captures another six in an early morning raid in Tunis' El Ouardia neighbourhood. ](/news/2013/08/4/tunisia-kills-one-suspected-terrorist-and-captures-another-six-in-an-early-morning-raid-in-tunis-el-ouardia-neighbourhood.md)
-_Context: Tunis, Tunisia_
+_Context: Tunisia, Tunis_
 
 ##### Scotland
 ### [Scottish actor Peter Capaldi is announced to portray the twelfth incarnation of the Doctor on the long-running British science fiction show "Doctor Who". ](/news/2013/08/4/scottish-actor-peter-capaldi-is-announced-to-portray-the-twelfth-incarnation-of-the-doctor-on-the-long-running-british-science-fiction-show.md)

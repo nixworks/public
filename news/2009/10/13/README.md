@@ -5,19 +5,19 @@ Formats: [HTML](2009/10/13/index.html)  [JSON](2009/10/13/index.json)  [XML](200
 
 ##### Stockholm
 ### [ The planned 200 million US$ rebuilding and expansion of Stockholm's central library, built by architect Gunnar Asplund, is cancelled. ](/news/2009/10/13/the-planned-200-million-us-rebuilding-and-expansion-of-stockholm-s-central-library-built-by-architect-gunnar-asplund-is-cancelled.md)
-_Context: Gunnar Asplund, central library, Stockholm_
+_Context: Stockholm, central library, Gunnar Asplund_
 
 ##### Norway
 ### [ Members of the Norwegian Nobel Peace Prize jury speak out in defense of selecting U.S. President Barack Obama for the award. ](/news/2009/10/13/members-of-the-norwegian-nobel-peace-prize-jury-speak-out-in-defense-of-selecting-u-s-president-barack-obama-for-the-award.md)
-_Context: Norway, Nobel Peace Prize, Barack Obama_
+_Context: Norway, Barack Obama, Nobel Peace Prize_
 
 ##### Czech Republic
 ### [ Czech President Vclav Klaus tells his supporters he will never sign the Treaty of Lisbon. ](/news/2009/10/13/czech-president-vaclav-klaus-tells-his-supporters-he-will-never-sign-the-treaty-of-lisbon.md)
-_Context: Treaty of Lisbon, Czech Republic, President, Vclav Klaus_
+_Context: Treaty of Lisbon, President, Vclav Klaus, Czech Republic_
 
 ##### Samus Kirk
 ### [ Samus Kirk is elected the 16th Ceann Comhairle of Ireland following the resignation of John O'Donoghue. ](/news/2009/10/13/seamus-kirk-is-elected-the-16th-ceann-comhairle-of-ireland-following-the-resignation-of-john-o-donoghue.md)
-_Context: Samus Kirk, Irish, Ceann Comhairle, John O'Donoghue_
+_Context: Ceann Comhairle, Samus Kirk, Irish, John O'Donoghue_
 
 ##### Boyzone
 ### [ An autopsy on the body of Boyzone singer Stephen Gately finds he died of natural causes. ](/news/2009/10/13/an-autopsy-on-the-body-of-boyzone-singer-stephen-gately-finds-he-died-of-natural-causes.md)
@@ -29,7 +29,7 @@ Police in New Zealand have confirmed the body of a child found in a drain in Auc
 
 ##### La Bella Principessa
 ### [ A previously unrecognized painting, "La Bella Principessa", is attributed to Leonardo da Vinci on fingerprint evidence. ](/news/2009/10/13/a-previously-unrecognized-painting-la-bella-principessa-is-attributed-to-leonardo-da-vinci-on-fingerprint-evidence.md)
-_Context: Leonardo da Vinci, La Bella Principessa, fingerprint_
+_Context: Leonardo da Vinci, fingerprint, La Bella Principessa_
 
 ##### Philippines
 ### [ The Philippines deploys soldiers and gunboats to surround the strongholds of suspected militants and pressure them to release an abducted Irish priest. ](/news/2009/10/13/the-philippines-deploys-soldiers-and-gunboats-to-surround-the-strongholds-of-suspected-militants-and-pressure-them-to-release-an-abducted-i.md)
@@ -45,7 +45,7 @@ Josef Stalin&#039;s grandson has lost a bizarre legal case he hoped would rehabi
 
 ##### Spain
 ### [ Spanish authorities arrest five members of the banned Basque political group Batasuna. ](/news/2009/10/13/spanish-authorities-arrest-five-members-of-the-banned-basque-political-group-batasuna.md)
-_Context: Batasuna, Basque, Spain_
+_Context: Basque, Spain, Batasuna_
 
 ##### North Korea
 ### [ North and South Korea agree to hold talks on flood control and family reunions, after North Korea fired several short range missiles earlier this week. ](/news/2009/10/13/north-and-south-korea-agree-to-hold-talks-on-flood-control-and-family-reunions-after-north-korea-fired-several-short-range-missiles-earlie.md)
@@ -57,7 +57,7 @@ Both countries had forced out each other’s citizens; some had fled war, while 
 
 ##### Sri Lanka
 ### [ More than 260 Sri Lankan asylum seekers threaten to blow up their boat if Indonesian authorities force them to disembark. ](/news/2009/10/13/more-than-260-sri-lankan-asylum-seekers-threaten-to-blow-up-their-boat-if-indonesian-authorities-force-them-to-disembark.md)
-_Context: Sri Lanka, Indonesia_
+_Context: Indonesia, Sri Lanka_
 
 ##### South Africa
 ### [ South African police use tear gas to disperse protesters demonstrating against poor living conditions in several towns. ](/news/2009/10/13/south-african-police-use-tear-gas-to-disperse-protesters-demonstrating-against-poor-living-conditions-in-several-towns.md)
@@ -65,11 +65,11 @@ Police clash with protesters as urban poor seek better living conditions.
 
 ##### United States Senate Finance Committee
 ### [ The United States Senate Finance Committee approves a bill for major healthcare reform. ](/news/2009/10/13/the-united-states-senate-finance-committee-approves-a-bill-for-major-healthcare-reform.md)
-_Context: healthcare reform, United States Senate Finance Committee_
+_Context: United States Senate Finance Committee, healthcare reform_
 
 ##### Army
 ### [ An investigation begins into the deaths of two Irish Army Air Corps pilots in a plane crash in County Galway on Monday. ](/news/2009/10/13/an-investigation-begins-into-the-deaths-of-two-irish-army-air-corps-pilots-in-a-plane-crash-in-county-galway-on-monday.md)
-_Context: army, Galway, Air Corps_
+_Context: Air Corps, army, Galway_
 
 ## [Previous Day...](/news/2009/10/12/index.md)
 

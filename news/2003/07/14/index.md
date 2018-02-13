@@ -13,7 +13,7 @@ _Context: Fannie Mae, Office of Federal Housing Enterprise Oversight, Freddie Ma
 
 ##### Pierce Brosnan
 ### [ Pierce Brosnan is to be made an honorary OBE ](/news/2003/07/14/pierce-brosnan-is-to-be-made-an-honorary-obe.md)
-_Context: OBE, Pierce Brosnan_
+_Context: Pierce Brosnan, OBE_
 
 ## [Previous Day...](/news/2003/07/13/index.md)
 

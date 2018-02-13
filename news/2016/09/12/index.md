@@ -17,7 +17,7 @@ Exclusive: Perfectly preserved HMS Terror vessel sank during disastrous expediti
 
 ##### Asia
 ### [Asian stock markets open lower following the fall in the Dow Jones amid speculations about the Federal Reserve's target interest rates. ](/news/2016/09/12/asian-stock-markets-open-lower-following-the-fall-in-the-dow-jones-amid-speculations-about-the-federal-reserve-s-target-interest-rates.md)
-_Context: Asia, stock market, Federal Reserve, Dow Jones_
+_Context: Dow Jones, stock market, Federal Reserve, Asia_
 
 ##### University of California, San Francisco
 ### [A researcher from the University of California, San Francisco discovers that the sugar industry may have manipulated studies about heart diseases. ](/news/2016/09/12/a-researcher-from-the-university-of-california-san-francisco-discovers-that-the-sugar-industry-may-have-manipulated-studies-about-heart-dis.md)
@@ -29,7 +29,7 @@ SEOUL (AFP) - The death toll from severe flooding in the north-east of North Kor
 
 ##### 2016 Gyeongju earthquake
 ### [A 5.8-magnitude earthquake occurs in South Korea, 9km south of Gyeongju, injuring at least two people and causing nationwide panic. It is the strongest earthquake ever recorded in South Korea. ](/news/2016/09/12/a-5-8-magnitude-earthquake-occurs-in-south-korea-9km-south-of-gyeongju-injuring-at-least-two-people-and-causing-nationwide-panic-it-is-th.md)
-_Context: 2016 Gyeongju earthquake, earthquake, South Korea, Gyeongju_
+_Context: earthquake, Gyeongju, South Korea, 2016 Gyeongju earthquake_
 
 ##### Piton de la Fournaise
 ### [The Piton de la Fournaise (Peak of the Furnace) shield volcano on France's Reunion island in the Indian Ocean erupts for the second time this year. It is one of the world's most active. ](/news/2016/09/12/the-piton-de-la-fournaise-peak-of-the-furnace-shield-volcano-on-france-s-ra-c-union-island-in-the-indian-ocean-erupts-for-the-second-time-th.md)
@@ -49,7 +49,7 @@ Social scientists who study extrajudicial killings say the real story is more co
 
 ##### Indonesia-Philippines relations
 ### [In last week's meeting between Indonesian president Joko Widodo and Philippine president Rodrigo Duterte, Widodo today says that Duterte allegedly said that he '(would) not interfere' in the execution of accused drug smuggler and Philippine national Mary Jane Veloso. However, today a "Manila Bulletin" article says that Manny Pinol, the Philippines Agriculture Secretary, states that Duterte actually asked for clemency for Veloso. ](/news/2016/09/12/in-last-week-s-meeting-between-indonesian-president-joko-widodo-and-philippine-president-rodrigo-duterte-widodo-today-says-that-duterte-all.md)
-_Context: Indonesia, Philippine, Mary Jane Veloso, Rodrigo Duterte, Joko Widodo, Manila Bulletin, Manny Pinol, Indonesia-Philippines relations_
+_Context: Rodrigo Duterte, Mary Jane Veloso, Joko Widodo, Indonesia-Philippines relations, Manny Pinol, Manila Bulletin, Indonesia, Philippine_
 
 ##### Catalan independence
 ### [In a protest in Barcelona, an estimated 800,000 people (370,000 in the government claim) demand secession from the Madrid-based Spanish government. ](/news/2016/09/12/in-a-protest-in-barcelona-an-estimated-800-000-people-370-000-in-the-government-claim-demand-secession-from-the-madrid-based-spanish-gove.md)

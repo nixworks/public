@@ -25,7 +25,7 @@ _Context: Greenpeace India's,  coal based electricity, Facebook_
 
 ##### Recent strikes and demonstrations
 ### [2010 strikes in France: French workers initiate a 24-hour strike against pension reform with transport services badly affected. ](/news/2010/10/12/2010-strikes-in-france-french-workers-initiate-a-24-hour-strike-against-pension-reform-with-transport-services-badly-affected.md)
-_Context: recent strikes and demonstrations, strike, pension_
+_Context: strike, recent strikes and demonstrations, pension_
 
 ##### Chile
 ### [Chile begins attempts to rescue 33 miners trapped underground as a result of the 2010 Copiapo mining accident. ](/news/2010/10/12/chile-begins-attempts-to-rescue-33-miners-trapped-underground-as-a-result-of-the-2010-copiapa3-mining-accident.md)
@@ -41,19 +41,19 @@ A van crammed with farm workers crashed head-on into a truck in central Poland o
 
 ##### 2010 Atlantic hurricane season
 ### [2010 Atlantic hurricane season: Tropical Storm Paula (2010) reaches hurricane strength as it moves towards Mexico's Yucatan Peninsula. ](/news/2010/10/12/2010-atlantic-hurricane-season-tropical-storm-paula-2010-reaches-hurricane-strength-as-it-moves-towards-mexico-s-yucata-n-peninsula.md)
-_Context: Yucatan Peninsula, Tropical Storm Paula (2010), 2010 Atlantic hurricane season, hurricane_
+_Context: 2010 Atlantic hurricane season, hurricane, Tropical Storm Paula (2010), Yucatan Peninsula_
 
 ##### Tanker
 ### [Tanker "Mindolo" and cargo ship "Jork Ranger" collide off Scheveningen, Netherlands. ](/news/2010/10/12/tanker-mindolo-and-cargo-ship-jork-ranger-collide-off-scheveningen-netherlands.md)
-_Context: Tanker, cargo ship, Scheveningen_
+_Context: Tanker, Scheveningen, cargo ship_
 
 ##### Lagos
 ### [Nearly 700 people from a small town within Lagos, Nigeria, are relocated following heavy flooding. ](/news/2010/10/12/nearly-700-people-from-a-small-town-within-lagos-nigeria-are-relocated-following-heavy-flooding.md)
-_Context: Lagos, flood, Nigeria_
+_Context: Nigeria, Lagos, flood_
 
 ##### Indonesian President
 ### [Indonesian President Susilo Bambang Yudhoyono tours the disaster area resulting from the 2010 floods in West Papua Province. ](/news/2010/10/12/indonesian-president-susilo-bambang-yudhoyono-tours-the-disaster-area-resulting-from-the-2010-floods-in-west-papua-province.md)
-_Context: Indonesian President, Susilo Bambang Yudhoyono, 2010 floods, West Papua Province_
+_Context: West Papua Province, Indonesian President, Susilo Bambang Yudhoyono, 2010 floods_
 
 ##### Iran
 ### [Iran says two foreigners arrested for interviewing the son of Sakineh Mohammadi Ashtiani had connections to "anti-revolutionary" groups abroad. ](/news/2010/10/12/iran-says-two-foreigners-arrested-for-interviewing-the-son-of-sakineh-mohammadi-ashtiani-had-connections-to-anti-revolutionary-groups-abro.md)
@@ -61,15 +61,15 @@ Two foreigners who interviewed the son of a woman prisoner at the centre of a in
 
 ##### Virginia A. Phillips
 ### [Judge Virginia A. Phillips of the United States District Court for the Central District of California orders an injunction against the United States military continuing its don't ask don't tell policy against lesbian and gay members. ](/news/2010/10/12/judge-virginia-a-phillips-of-the-united-states-district-court-for-the-central-district-of-california-orders-an-injunction-against-the-unite.md)
-_Context: Virginia A. Phillips, injunction, U.S. District Judge of California, don't ask don't tell_
+_Context: don't ask don't tell, U.S. District Judge of California, injunction, Virginia A. Phillips_
 
 ##### Ahmed Ghailani
 ### [The trial of Ahmed Ghailani, the first Guantanamo Bay prisoner to face a criminal trial in the United States, begins in New York City. ](/news/2010/10/12/the-trial-of-ahmed-ghailani-the-first-guantanamo-bay-prisoner-to-face-a-criminal-trial-in-the-united-states-begins-in-new-york-city.md)
-_Context: detainee, Ahmed Ghailani_
+_Context: Ahmed Ghailani, detainee_
 
 ##### Kim Jong-il
 ### [Kim Jong-il's eldest son, Kim Jong-nam, announces his opposition to the hereditary succession plan in North Korea which would see power transferred to his younger brother Kim Jong-un. ](/news/2010/10/12/kim-jong-il-s-eldest-son-kim-jong-nam-announces-his-opposition-to-the-hereditary-succession-plan-in-north-korea-which-would-see-power-tran.md)
-_Context: Kim Jong-il, Kim Jong-un, Kim Jong-nam, North Korea_
+_Context: Kim Jong-nam, Kim Jong-il, North Korea, Kim Jong-un_
 
 ##### Kyrgyzstani parliamentary election
 ### [The winners' list of the Kyrgyzstani parliamentary election is topped by the Ata-Zhurt party, led by former Emergency Situations Minister Kamchybek Tashiyev and is particularly popular in the south, gaining 8.88 percent of the vote. ](/news/2010/10/12/the-winners-list-of-the-kyrgyzstani-parliamentary-election-is-topped-by-the-ata-zhurt-party-led-by-former-emergency-situations-minister-ka.md)
@@ -81,7 +81,7 @@ The Obama administration has lifted a six month moratorium on deep water oil dri
 
 #####  Green Party
 ### [ Green Party Candidate, Laura Wells, is arrested upon trying to enter the 2010 Gubernatorial debate in California. All parties other than the Republicans and Democrats were barred from the debate. ](/news/2010/10/12/green-party-candidate-laura-wells-is-arrested-upon-trying-to-enter-the-2010-gubernatorial-debate-in-california-all-parties-other-than-th.md)
-_Context:  Republicans, Laura Wells,  Green Party, Gubernatorial,  Democrats_
+_Context:  Democrats, Gubernatorial, Laura Wells,  Green Party,  Republicans_
 
 ## [Previous Day...](/news/2010/10/11/index.md)
 

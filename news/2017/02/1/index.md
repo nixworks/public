@@ -5,7 +5,7 @@ Formats: [HTML](2017/02/1/index.html)  [JSON](2017/02/1/index.json)  [XML](2017/
 
 ##### Azerbaijan
 ### [Four alleged extremists planning terror attacks in Azerbaijan are killed in a shootout with the country's security forces; one suspect is arrested. The State Security Service says the group was connected to an unspecified religious extremist group abroad. ](/news/2017/02/1/four-alleged-extremists-planning-terror-attacks-in-azerbaijan-are-killed-in-a-shootout-with-the-country-s-security-forces-one-suspect-is-ar.md)
-_Context: Azerbaijan, country's security forces, shootout_
+_Context: country's security forces, Azerbaijan, shootout_
 
 ##### European Union roaming regulations
 ### [Negotiators reach a preliminary deal on capping mobile phone intercarrier ("wholesale") tariffs. Roaming charges on voice and data calls for consumers within the EU are expected to be terminated on June 15, 2017. ](/news/2017/02/1/negotiators-reach-a-preliminary-deal-on-capping-mobile-phone-intercarrier-wholesale-tariffs-roaming-charges-on-voice-and-data-calls-for.md)
@@ -29,7 +29,7 @@ The House of Commons vote was a crucial hurdle on the way to the country&rsquo;s
 
 ##### Israel
 ### [Israeli security forces begin evicting people from the illegal Amona, Mateh Binyamin, outpost built on private Palestinian-owned land near Ramallah in the central West Bank. The Supreme Court ordered residents to leave the area last year. ](/news/2017/02/1/israeli-security-forces-begin-evicting-people-from-the-illegal-amona-mateh-binyamin-outpost-built-on-private-palestinian-owned-land-near-r.md)
-_Context: Palestine, West Bank, unauthorized outpost, Israel, Supreme Court, Amona, Mateh Binyamin, Ramallah_
+_Context: West Bank, Israel, Ramallah, unauthorized outpost, Amona, Mateh Binyamin, Palestine, Supreme Court_
 
 ##### ZeniMax Media
 ### [A jury finds in favor of video game publisher ZeniMax Media after the trial of its copyright lawsuit against Oculus and Facebook, regarding virtual reality coding. ](/news/2017/02/1/a-jury-finds-in-favor-of-video-game-publisher-zenimax-media-after-the-trial-of-its-copyright-lawsuit-against-oculus-and-facebook-regarding.md)

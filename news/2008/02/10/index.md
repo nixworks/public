@@ -5,23 +5,23 @@ Formats: [HTML](2008/02/10/index.html)  [JSON](2008/02/10/index.json)  [XML](200
 
 ##### Namdaemun
 ### [ The wooden portion of Namdaemun Gate in Seoul, South Korea is destroyed in a suspicious fire. ](/news/2008/02/10/the-wooden-portion-of-namdaemun-gate-in-seoul-south-korea-is-destroyed-in-a-suspicious-fire.md)
-_Context: Namdaemun, Seoul, arson, South Korea_
+_Context: Namdaemun, arson, South Korea, Seoul_
 
 ##### Illinois
 ### [ Illinois Senator Barack Obama wins the Maine caucus. ](/news/2008/02/10/illinois-senator-barack-obama-wins-the-maine-caucus.md)
-_Context: Barack Obama, Illinois, Maine, United States Senate, caucus_
+_Context: caucus, Illinois, Maine, Barack Obama, United States Senate_
 
 ##### Suicide car bomb
 ### [ A suicide car bomb at a market in Balad, Iraq kills 25. U.S. Secretary of Defense Robert Gates also arrives in Iraq from a Germany security conference to meet with Iraqi leaders, General David Petraeus and U.S. Ambassador to Iraq Ryan Crocker. ](/news/2008/02/10/a-suicide-car-bomb-at-a-market-in-balad-iraq-kills-25-u-s-secretary-of-defense-robert-gates-also-arrives-in-iraq-from-a-germany-security.md)
-_Context: Secretary of Defense, German, Iraq, David Petraeus, Balad, Ryan Crocker, suicide car bomb, Robert Gates_
+_Context: Robert Gates, David Petraeus, Secretary of Defense, German, Ryan Crocker, Iraq, Balad, suicide car bomb_
 
 ##### Football
 ### [ Association football: Egypt beats Cameroon 1-0 to win the 2008 Africa Cup of Nations in Ghana. ](/news/2008/02/10/association-football-egypt-beats-cameroon-1-0-to-win-the-2008-africa-cup-of-nations-in-ghana.md)
-_Context: 2008 Africa Cup of Nations, Egypt, football, Ghana, Cameroon_
+_Context: Egypt, Cameroon, football, 2008 Africa Cup of Nations, Ghana_
 
 ##### Rock concert
 ### [ Ten people are trampled to death at a rock concert in Bandung, Indonesia. ](/news/2008/02/10/ten-people-are-trampled-to-death-at-a-rock-concert-in-bandung-indonesia.md)
-_Context: rock concert, Indonesia, Bandung_
+_Context: Indonesia, rock concert, Bandung_
 
 ##### North Sea
 ### [ Over five hundred people are evacuated from the North Sea oil rig "Safe Scandinavia", 282 km northeast of Aberdeen, Scotland after a hoax bomb scare. ](/news/2008/02/10/over-five-hundred-people-are-evacuated-from-the-north-sea-oil-rig-safe-scandinavia-282-km-northeast-of-aberdeen-scotland-after-a-hoax-b.md)

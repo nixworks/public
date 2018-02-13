@@ -5,7 +5,7 @@ Formats: [HTML](2007/05/22/index.html)  [JSON](2007/05/22/index.json)  [XML](200
 
 ##### Premier
 ### [ Premier Gary Doer of the Canadian province of Manitoba secures a third straight NDP majority government in the general election. ](/news/2007/05/22/premier-gary-doer-of-the-canadian-province-of-manitoba-secures-a-third-straight-ndp-majority-government-in-the-general-election.md)
-_Context: Premier, Manitoba, Gary Doer, majority government, Canadian province, general election. _
+_Context: general election. , Canadian province, Manitoba, Gary Doer, majority government, Premier_
 
 ##### Silas Rondeau
 ### [ Silas Rondeau, the Energy Minister of Brazil, resigns over allegations of corruption in a public works project. ](/news/2007/05/22/silas-rondeau-the-energy-minister-of-brazil-resigns-over-allegations-of-corruption-in-a-public-works-project.md)
@@ -17,19 +17,19 @@ Israeli air strikes on Hamas weapon sheds in Gaza Strip leave 7 Palestinians wou
 
 ##### Rowan Williams
 ### [ Rowan Williams, Archbishop of Canterbury and spiritual head of the Anglican community, declines to invite gay Bishop of New Hampshire Gene Robinson and unrecognized conservative Bishop Martyn Minns of the Convocation of Anglicans in North America to the 2008 Lambeth Conference. ](/news/2007/05/22/rowan-williams-archbishop-of-canterbury-and-spiritual-head-of-the-anglican-community-declines-to-invite-gay-bishop-of-new-hampshire-gene.md)
-_Context: Convocation of Anglicans in North America, New Hampshire, Martyn Minns, Archbishop of Canterbury, Bishop, Lambeth Conference, Anglican, gay, Rowan Williams, Gene Robinson_
+_Context: New Hampshire, Martyn Minns, Gene Robinson, Anglican, Bishop, gay, Convocation of Anglicans in North America, Rowan Williams, Lambeth Conference, Archbishop of Canterbury_
 
 ##### Skybus
 ### [ Skybus Airlines, a new U.S.-based ultra-low-cost carrier airline, launches inaugural flights to and from Columbus, Ohio, with $10 tickets enabled by on-plane advertising and charging people for baggage, pillows, boarding priority, and refreshments. ](/news/2007/05/22/skybus-airlines-a-new-u-s-based-ultra-low-cost-carrier-airline-launches-inaugural-flights-to-and-from-columbus-ohio-with-10-tickets-e.md)
-_Context: Skybus, American, low-cost carrier, Columbus_
+_Context: Skybus, low-cost carrier, Columbus, U.S._
 
 ##### A suicide attack
 ### [ A suicide attack occurs at a shopping centre in the Ulus district of Ankara, the capital of Turkey. Authorities say there were six fatalities, and 79 injuries. ](/news/2007/05/22/a-suicide-attack-occurs-at-a-shopping-centre-in-the-ulus-district-of-ankara-the-capital-of-turkey-authorities-say-there-were-six-fataliti.md)
-_Context: Ankara, Ulus district, Turkey, A suicide attack_
+_Context: A suicide attack, Ulus district, Ankara, Turkey_
 
-##### American
+##### U.S.
 ### [ The U.S. National Oceanic and Atmospheric Administration issues its forecast for an above-normal 2007 Atlantic hurricane season with 13 to 17 named storms, 7 to 10 hurricanes and 3 to 5 major hurricanes. ](/news/2007/05/22/the-u-s-national-oceanic-and-atmospheric-administration-issues-its-forecast-for-an-above-normal-2007-atlantic-hurricane-season-with-13-to.md)
-_Context: hurricane, American, U.S.  National Oceanic and Atmospheric Administration, 2007, tropical storm_
+_Context: U.S., 2007, U.S.  National Oceanic and Atmospheric Administration, hurricane, tropical storm_
 
 ##### United Kingdom
 ### [ The UK Crown Prosecution Service announces that Andrei Lugovoi, an ex-KGB agent, will be charged in connection with the poisoning of Alexander Litvinenko, also a former KGB agent. ](/news/2007/05/22/the-uk-crown-prosecution-service-announces-that-andrei-lugovoi-an-ex-kgb-agent-will-be-charged-in-connection-with-the-poisoning-of-alexan.md)

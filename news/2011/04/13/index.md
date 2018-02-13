@@ -3,7 +3,7 @@ Formats: [HTML](2011/04/13/index.html)  [JSON](2011/04/13/index.json)  [XML](201
 
 ## [2011-04-13](/news/2011/04/13/index.md)
 
-##### Muammar Gaddafi
+##### Civil war
 ### [Forces loyal to Muammar Gaddafi continue to attack the city of Misrata. ](/news/2011/04/13/forces-loyal-to-muammar-gaddafi-continue-to-attack-the-city-of-misrata.md)
 Forces loyal to Libyan leader Muammar Gaddafi have launched a new armoured incursion into the besieged rebel city Misrata.
 
@@ -17,7 +17,7 @@ _Context: Aleppo, protestors_
 
 ##### Toyota
 ### [Toyota closes several plants in Europe for part of April and May due to parts shortages caused by the power outages associated with the 2011 Tohoku earthquake and tsunami. ](/news/2011/04/13/toyota-closes-several-plants-in-europe-for-part-of-april-and-may-due-to-parts-shortages-caused-by-the-power-outages-associated-with-the-2011.md)
-_Context: Toyota, 2011 Tohoku earthquake and tsunami, Europe_
+_Context: 2011 Tohoku earthquake and tsunami, Europe, Toyota_
 
 ##### Royal Dutch Shell
 ### [Royal Dutch Shell announces that it will close the Clyde oil refinery in Sydney, Australia, resulting in the loss of hundreds of jobs. ](/news/2011/04/13/royal-dutch-shell-announces-that-it-will-close-the-clyde-oil-refinery-in-sydney-australia-resulting-in-the-loss-of-hundreds-of-jobs.md)
@@ -29,11 +29,11 @@ Federal government to take a fresh look at oil shale development in the West
 
 ##### Japan
 ### [Japan's Sendai Airport partially reopens for the first time since the 2011 Tohoku earthquake and tsunami. ](/news/2011/04/13/japan-s-sendai-airport-partially-reopens-for-the-first-time-since-the-2011-tahoku-earthquake-and-tsunami.md)
-_Context: Japan, 2011 Tohoku earthquake and tsunami, Sendai Airport_
+_Context: 2011 Tohoku earthquake and tsunami, Japan, Sendai Airport_
 
-##### American
+##### U.S.
 ### [The United States requests the release of one of its citizens detained in North Korea. ](/news/2011/04/13/the-united-states-requests-the-release-of-one-of-its-citizens-detained-in-north-korea.md)
-_Context: North Korea, American_
+_Context: North Korea, U.S._
 
 ##### Israeli-Palestinian conflict
 ### [The government in the West Bank is largely ready to govern a Palestinian state, a United Nations report claims. ](/news/2011/04/13/the-government-in-the-west-bank-is-largely-ready-to-govern-a-palestinian-state-a-united-nations-report-claims.md)
@@ -45,7 +45,7 @@ Former president to face charges while Ouattara pledges to ask ICC to probe alle
 
 ##### Egypt
 ### [Egyptian authorities detain former president Hosni Mubarak and his sons Alaa and Gamal for 15 days as part of an investigation related to possible charges of corruption and abuse of power. ](/news/2011/04/13/egyptian-authorities-detain-former-president-hosni-mubarak-and-his-sons-alaa-and-gamal-for-15-days-as-part-of-an-investigation-related-to-po.md)
-_Context: Egypt, Gamel, Alaa Mubarak, Hosni Mubarak, President_
+_Context: Alaa Mubarak, Gamel, Hosni Mubarak, Egypt, President_
 
 ##### English
 ### [English actor Brian Regan is charged with the murder of a bouncer in a pub in Liverpool. ](/news/2011/04/13/english-actor-brian-regan-is-charged-with-the-murder-of-a-bouncer-in-a-pub-in-liverpool.md)
@@ -57,7 +57,7 @@ Barry Bonds was found guilty of obstruction of justice but a jury failed to reac
 
 ##### Lee Bradley Brown
 ### [Lee Bradley Brown, 39, a British tourist is allegedly beaten to death in the Bur Dubai police station in Dubai after being arrested for swearing. ](/news/2011/04/13/lee-bradley-brown-39-a-british-tourist-is-allegedly-beaten-to-death-in-the-bur-dubai-police-station-in-dubai-after-being-arrested-for-swea.md)
-_Context: United Kingdom, Bur Dubai, Lee Bradley Brown, Dubai_
+_Context: United Kingdom, Dubai, Lee Bradley Brown, Bur Dubai_
 
 ##### China
 ### [Chinese authorities continue a crackdown on dissent, with some activists placed on labour camps according to rights groups. ](/news/2011/04/13/chinese-authorities-continue-a-crackdown-on-dissent-with-some-activists-placed-on-labour-camps-according-to-rights-groups.md)
@@ -69,7 +69,7 @@ Former senator Rick Santorum, who has spent the past few months visiting early p
 
 ##### Permanent Subcommittee on Investigations
 ### [The Permanent Subcommittee on Investigations of the United States Senate releases a report on the financial crisis of 2008, focusing largely on the role played by Goldman Sachs in "creating and selling structured finance products" that had their customers betting in one direction while Goldman itself bet the other way. ](/news/2011/04/13/the-permanent-subcommittee-on-investigations-of-the-united-states-senate-releases-a-report-on-the-financial-crisis-of-2008-focusing-largely.md)
-_Context: Permanent Subcommittee on Investigations, United States Senate, Goldman Sachs_
+_Context: Permanent Subcommittee on Investigations, Goldman Sachs, United States Senate_
 
 ## [Previous Day...](/news/2011/04/12/index.md)
 

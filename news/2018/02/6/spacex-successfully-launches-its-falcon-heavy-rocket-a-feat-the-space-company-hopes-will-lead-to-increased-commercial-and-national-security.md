@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/02/6/spacex-successfully-launches-its-falcon-heavy-ro
 
 ### [2018-02-6](/news/2018/02/6/index.md)
 
-##### Falcon Heavy Test Flight
+##### Falcon Heavy test flight
 # SpaceX successfully launches its Falcon Heavy rocket, a feat the space company hopes will lead to increased commercial and national security missions. Both boosters were successfully landed and recovered. The core didn't land and was softly ditched in the water near the drone ship. The rocket launched Elon Musk's Tesla Roadster, playing "Life on Mars" by David Bowie, which is expected to be in an elliptic orbit of the sun, close to Mars, for several hundred million years. 
 
 

@@ -9,7 +9,7 @@ Israeli troops operating since early evening along border fence to uncover more 
 
 ##### 2007 United Kingdom letter bombs
 ### [ 2007 United Kingdom letter bombs: A letter bomb, the third in as many days, has injured a woman working at the main DVLA centre in south Wales. Today's attack follows two others, at other road transport agencies in the UK. ](/news/2007/02/7/2007-united-kingdom-letter-bombs-a-letter-bomb-the-third-in-as-many-days-has-injured-a-woman-working-at-the-main-dvla-centre-in-south-wa.md)
-_Context: Wales, DVLA, letter bomb, 2007 United Kingdom letter bombs, United Kingdom_
+_Context: Wales, 2007 United Kingdom letter bombs, DVLA, letter bomb, United Kingdom_
 
 ##### Indonesia
 ### [ Indonesia's West Irian Jaya province, on New Guinea, changes its name to West Papua. ](/news/2007/02/7/indonesia-s-west-irian-jaya-province-on-new-guinea-changes-its-name-to-west-papua.md)

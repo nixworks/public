@@ -5,15 +5,15 @@ Formats: [HTML](2017/10/1/index.html)  [JSON](2017/10/1/index.json)  [XML](2017/
 
 ##### Yemeni Crisis (2011-present)
 ### [Houthi forces claim to have shot down a U.S. MQ-9 Reaper drone over the Yemeni capital Sana'a. Footage released by Saba News Agency appears to show crowds gathering around the wreckage of an aircraft. ](/news/2017/10/1/houthi-forces-claim-to-have-shot-down-a-u-s-mq-9-reaper-drone-over-the-yemeni-capital-sana-a-footage-released-by-saba-news-agency-appears.md)
-_Context: MQ-9 Reaper, Saba News Agency, American, Sana'a, Yemeni Crisis (2011-present), Houthi, Yemen_
+_Context: U.S., Houthi, Saba News Agency, Sana'a, Yemeni Crisis (2011-present), Yemen, MQ-9 Reaper_
 
 ##### Marseille stabbing
 ### [A knife-wielding man at Saint Charles train station in Marseille, France, kills two women. Police kill the suspect and are treating the attack as a terrorist incident. ISIL claims responsibility. ](/news/2017/10/1/a-knife-wielding-man-at-saint-charles-train-station-in-marseille-france-kills-two-women-police-kill-the-suspect-and-are-treating-the-atta.md)
-_Context: Marseille, Marseille stabbing, France, Saint Charles, ISIL_
+_Context: France, Marseille stabbing, Marseille, ISIL, Saint Charles_
 
 ##### Anglophone problem (Cameroon)
 ### [Soldiers in Buea and Bamenda, Cameroon, shoot dead a total of at least eight people during various protests by Anglophone separatists. ](/news/2017/10/1/soldiers-in-buea-and-bamenda-cameroon-shoot-dead-a-total-of-at-least-eight-people-during-various-protests-by-anglophone-separatists.md)
-_Context: Anglophone problem (Cameroon), Buea, Cameroon, Anglophone, Bamenda_
+_Context: Bamenda, Buea, Anglophone problem (Cameroon), Anglophone, Cameroon_
 
 ##### Syrian Civil War
 ### [The Islamic State group seizes the Al-Qaryatain town in the central province of Homs in a surprise attack against Syrian government forces. ](/news/2017/10/1/the-islamic-state-group-seizes-the-al-qaryatain-town-in-the-central-province-of-homs-in-a-surprise-attack-against-syrian-government-forces.md)
@@ -33,7 +33,7 @@ Vanuatu has launched a Dunkirk-style evacuation on the northern island of Ambae 
 
 ##### O. J. Simpson robbery case
 ### [Nevada prison authorities release former NFL player O. J. Simpson on parole after serving nine years for a 2007 Las Vegas armed robbery. Previously, a jury had acquitted Simpson of the 1995 murder of his ex-wife Nicole Brown Simpson and her friend Ron Goldman. ](/news/2017/10/1/nevada-prison-authorities-release-former-nfl-player-o-j-simpson-on-parole-after-serving-nine-years-for-a-2007-las-vegas-armed-robbery-pre.md)
-_Context: O. J. Simpson, a jury had acquitted Simpson, Ron Goldman, O. J. Simpson robbery case, NFL, parole, Las Vegas, Nicole Brown Simpson, Nevada, armed robbery_
+_Context: Las Vegas, Nevada, a jury had acquitted Simpson, Nicole Brown Simpson, NFL, O. J. Simpson, Ron Goldman, O. J. Simpson robbery case, armed robbery, parole_
 
 ##### Spanish constitutional crisis
 ### [The government of Catalonia holds a public referendum on whether their region should gain independence from Spain, despite the Spanish courts and government declaring the vote illegal and deploying police to deter voters. Catalan President Carles Puigdemont says Catalonia "has won the right to become an independent state." ](/news/2017/10/1/the-government-of-catalonia-holds-a-public-referendum-on-whether-their-region-should-gain-independence-from-spain-despite-the-spanish-court.md)

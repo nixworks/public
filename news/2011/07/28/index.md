@@ -5,7 +5,7 @@ Formats: [HTML](2011/07/28/index.html)  [JSON](2011/07/28/index.json)  [XML](201
 
 ##### Army
 ### [At least seven Philippine Army soldiers are killed and 21 injured in a confrontation with Abu Sayyaf militants on Jolo Island. ](/news/2011/07/28/at-least-seven-philippine-army-soldiers-are-killed-and-21-injured-in-a-confrontation-with-abu-sayyaf-militants-on-jolo-island.md)
-_Context: army, Jolo Island, Abu Sayyaf_
+_Context: army, Abu Sayyaf, Jolo Island_
 
 ##### United Nations
 ### [The United Nations accuses Eritrea of attempting to bomb an African Union summit in Ethiopia. ](/news/2011/07/28/the-united-nations-accuses-eritrea-of-attempting-to-bomb-an-african-union-summit-in-ethiopia.md)
@@ -33,7 +33,7 @@ _Context: Asiana Airlines Flight 991, South Korea, Jeju Island, South Pacific Oc
 
 ##### Seoul
 ### [At least 57 people are dead and 12 are confirmed missing in the Seoul and Siheung region of South Korea due to landslides caused by heavy rain. ](/news/2011/07/28/at-least-57-people-are-dead-and-12-are-confirmed-missing-in-the-seoul-and-siheung-region-of-south-korea-due-to-landslides-caused-by-heavy-ra.md)
-_Context: Siheung, Seoul, landslide, South Korea_
+_Context: South Korea, landslide, Seoul, Siheung_
 
 ##### Bogra District
 ### [At least 17 people are killed and 30 injured after a truck collides with a bus in the Bogra District of Bangladesh. ](/news/2011/07/28/at-least-17-people-are-killed-and-30-injured-after-a-truck-collides-with-a-bus-in-the-bogra-district-of-bangladesh.md)
@@ -41,15 +41,15 @@ _Context: Bogra District, Bangladesh_
 
 ##### Famine
 ### [2011 Horn of Africa famine: African Union peacekeepers launch a major offensive against Al-Shabaab militants in Mogadishu, Somalia, in order to reduce threats to relief efforts. ](/news/2011/07/28/2011-horn-of-africa-famine-african-union-peacekeepers-launch-a-major-offensive-against-al-shabaab-militants-in-mogadishu-somalia-in-order.md)
-_Context: African Union, Al-Shabaab, famine, Mogadishu_
+_Context: Al-Shabaab, Mogadishu, African Union, famine_
 
 ##### DR Congo
 ### [Authorities in the Democratic Republic of the Congo say more than 100 people are feared dead after two boats collided on Tshuapa River. ](/news/2011/07/28/authorities-in-the-democratic-republic-of-the-congo-say-more-than-100-people-are-feared-dead-after-two-boats-collided-on-tshuapa-river.md)
-_Context: Tshuapa River, DR Congo_
+_Context: DR Congo, Tshuapa River_
 
 ##### South Korea
 ### [South Korea resumes sending food aid to North Korea to assist with chronic food shortages. ](/news/2011/07/28/south-korea-resumes-sending-food-aid-to-north-korea-to-assist-with-chronic-food-shortages.md)
-_Context: North Korea, South Korea_
+_Context: South Korea, North Korea_
 
 ##### Sarah Payne
 ### [Police tell the mother of murder victim Sarah Payne that her mobile phone details have been found in notes made by private investigator Glenn Mulcaire. ](/news/2011/07/28/police-tell-the-mother-of-murder-victim-sarah-payne-that-her-mobile-phone-details-have-been-found-in-notes-made-by-private-investigator-glen.md)
@@ -61,11 +61,11 @@ In a UK legal first a judge has ruled that a website offering links to free movi
 
 ##### Supreme Court of England and Wales
 ### [The Supreme Court of England and Wales grants veterans involved in Britain's nuclear weapons tests during the 1950s leave to appeal in their fight for compensation. ](/news/2011/07/28/the-supreme-court-of-england-and-wales-grants-veterans-involved-in-britain-s-nuclear-weapons-tests-during-the-1950s-leave-to-appeal-in-their.md)
-_Context: Supreme Court of England and Wales, Britain's nuclear weapons tests during the 1950s_
+_Context: Britain's nuclear weapons tests during the 1950s, Supreme Court of England and Wales_
 
 ##### President of Tunisia
 ### [Former President of Tunisia Zine El Abidine Ben Ali is sentenced to 16 years in absentia for corruption and property fraud. ](/news/2011/07/28/former-president-of-tunisia-zine-el-abidine-ben-ali-is-sentenced-to-16-years-in-absentia-for-corruption-and-property-fraud.md)
-_Context: Zine El Abidine Ben Ali, President of Tunisia_
+_Context: President of Tunisia, Zine El Abidine Ben Ali_
 
 ##### John Boehner
 ### [John Boehner delays a vote on the United States House of Representatives debt ceiling legislation with the issue deferred until at least Friday. ](/news/2011/07/28/john-boehner-delays-a-vote-on-the-united-states-house-of-representatives-debt-ceiling-legislation-with-the-issue-deferred-until-at-least-fri.md)

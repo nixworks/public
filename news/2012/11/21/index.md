@@ -19,17 +19,17 @@ Thousands of soldiers and police surrender to M23 at a stadium in Goma after the
 ### [Unidentified gunmen shoot and kill Benghazi's police chief Faraj al-Deirsy in front of his home in the latest attack against security officials in Libya's second largest city. ](/news/2012/11/21/unidentified-gunmen-shoot-and-kill-benghazi-s-police-chief-faraj-al-deirsy-in-front-of-his-home-in-the-latest-attack-against-security-offici.md)
 Faraj al-Deirsy, head of Benghazi police, shot dead in the latest attack on Libyan security officials.
 
-##### American
+##### U.S.
 ### [The United States bans Tim Pat Coogan, one of Ireland's most recognisable historians and a leading authority on Eamon de Valera and Michael Collins. As a result his book tour is cancelled. The decision is described as a major shock and blot against United States Ambassador to Ireland Dan Rooney. ](/news/2012/11/21/the-united-states-bans-tim-pat-coogan-one-of-ireland-s-most-recognisable-historians-and-a-leading-authority-on-aamon-de-valera-and-michael.md)
 Best selling author and historian Tim Pat Coogan has been forced to cancel a book tour in the U.S. for his new b...
 
 ##### Will Rogers World Airport
 ### [Will Rogers World Airport in the U.S. state of Oklahoma is shut down over the discovery of a painted golden object with a hole in the bottom in the luggage of musician Wayne Coyne. The object is mistaken for a live grenade by frightened staff. ](/news/2012/11/21/will-rogers-world-airport-in-the-u-s-state-of-oklahoma-is-shut-down-over-the-discovery-of-a-painted-golden-object-with-a-hole-in-the-bottom.md)
-_Context: Oklahoma, Will Rogers World Airport, Wayne Coyne, U.S. state_
+_Context: Wayne Coyne, Will Rogers World Airport, U.S. state, Oklahoma_
 
 ##### Mount Tongariro
 ### [Mount Tongariro, a volcano on the North Island of New Zealand, erupts for the second time in four months, with efforts underway to rescue people on the Tongariro Alpine Crossing. ](/news/2012/11/21/mount-tongariro-a-volcano-on-the-north-island-of-new-zealand-erupts-for-the-second-time-in-four-months-with-efforts-underway-to-rescue-pe.md)
-_Context: Mount Tongariro, Tongariro Alpine Crossing, New Zealand, North Island_
+_Context: New Zealand, North Island, Mount Tongariro, Tongariro Alpine Crossing_
 
 ##### Antonov
 ### [An Antonov military plane crashes in the Sana'a, capital of Yemen, killing all 10 people on board included five military officers. ](/news/2012/11/21/an-antonov-military-plane-crashes-in-the-sana-a-capital-of-yemen-killing-all-10-people-on-board-included-five-military-officers.md)
@@ -41,11 +41,11 @@ India has hanged Mohammad Ajmal Kasab, the only militant to have survived the 20
 
 ##### Puerto Rican
 ### [Puerto Rican professional boxer Hector Camacho is shot multiple times in Bayamon, Puerto Rico. The driver of Camacho's car is killed in the attack. Camacho was shot in the neck and face and taken to St. Paul's Hospital in Rio Piedras, where he was pronounced to be in critical condition shortly thereafter. ](/news/2012/11/21/puerto-rican-professional-boxer-ha-c-ctor-camacho-is-shot-multiple-times-in-bayamon-puerto-rico-the-driver-of-camacho-s-car-is-killed-in-the.md)
-_Context: Bayamon, Puerto Rican, boxing, Puerto Rico, Rio Piedras, Hector Camacho_
+_Context: boxing, Bayamon, Puerto Rican, Rio Piedras, Puerto Rico, Hector Camacho_
 
 ##### President
 ### [President of Ireland Michael D. Higgins calls for an investigation into the death of Savita Halappanavar to meet the needs of a "concerned public" as Savita's husband Praveen continues his battle against Ireland's government and the Health Service Executive (HSE) to hold a sworn, public inquiry into her death, which he believes occurred due to her being denied an abortion. ](/news/2012/11/21/president-of-ireland-michael-d-higgins-calls-for-an-investigation-into-the-death-of-savita-halappanavar-to-meet-the-needs-of-a-concerned-p.md)
-_Context: Health Service Executive, Ireland, Abortion in the Republic of Ireland, abortion, Michael D. Higgins, President, death of Savita Halappanavar, Government of Ireland_
+_Context: Health Service Executive, Ireland, Michael D. Higgins, death of Savita Halappanavar, Abortion in the Republic of Ireland, Government of Ireland, abortion, President_
 
 ##### Jesse Jackson Jr.
 ### [Jesse Jackson Jr. resigns from U.S. Congress due to health problems and federal criminal investigation of his activities. ](/news/2012/11/21/jesse-jackson-jr-resigns-from-u-s-congress-due-to-health-problems-and-federal-criminal-investigation-of-his-activities.md)

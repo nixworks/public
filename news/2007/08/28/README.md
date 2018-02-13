@@ -5,11 +5,11 @@ Formats: [HTML](2007/08/28/index.html)  [JSON](2007/08/28/index.json)  [XML](200
 
 ##### Lunar eclipse
 ### [ A total lunar eclipse takes place in the early morning hours across most of North America and the eastern Pacific Ocean region. ](/news/2007/08/28/a-total-lunar-eclipse-takes-place-in-the-early-morning-hours-across-most-of-north-america-and-the-eastern-pacific-ocean-region.md)
-_Context: North America, lunar eclipse, South Pacific Ocean_
+_Context: South Pacific Ocean, lunar eclipse, North America_
 
 ##### Supreme Court
 ### [ The Supreme Court of Chile confirms a life sentence for Hugo Salas Wenzel, a Chilean general under former dictator Augusto Pinochet, for his role in the murder of 12 opponents of the regime. ](/news/2007/08/28/the-supreme-court-of-chile-confirms-a-life-sentence-for-hugo-salas-wenzel-a-chilean-general-under-former-dictator-augusto-pinochet-for-hi.md)
-_Context: Augusto Pinochet, Hugo Salas Wenzel, Supreme Court, Chile_
+_Context: Supreme Court, Augusto Pinochet, Chile, Hugo Salas Wenzel_
 
 ##### Sudan
 ### [ The Sudanese Government and the United Nations launch a flood appeal to help victims of recent flooding which has killed 89 people and destroyed 73,000 homes. ](/news/2007/08/28/the-sudanese-government-and-the-united-nations-launch-a-flood-appeal-to-help-victims-of-recent-flooding-which-has-killed-89-people-and-dest.md)
@@ -29,7 +29,7 @@ Biology, astronomy, chemistry, physics on FoxNews.com. In-depth natural science 
 
 ##### Federal District Judge
 ### [ A United States federal judge orders the extradition of former Panamanian President Manuel Noriega to France, where he has already been convicted "in absentia" on money-laundering charges. ](/news/2007/08/28/a-united-states-federal-judge-orders-the-extradition-of-former-panamanian-president-manuel-noriega-to-france-where-he-has-already-been-con.md)
-_Context: in absentia, money-laundering, Panamanian President, extradition, France, Federal District Judge, Manuel Noriega_
+_Context: money-laundering, extradition, Manuel Noriega, France, in absentia, Panamanian President, Federal District Judge_
 
 ##### Abdullah Gl
 ### [ Abdullah Gl of the Justice and Development Party is elected President of Turkey. ](/news/2007/08/28/abdullah-gul-of-the-justice-and-development-party-is-elected-president-of-turkey.md)
@@ -41,7 +41,7 @@ Black box data recorders from an Adam Air jet have been found, eight months afte
 
 ##### Ontario Court of Appeal
 ### [ The Ontario Court of Appeal acquits Steven Truscott of the 1959 murder of Lynne Harper, declaring the original trial that had sentenced the then-14-year-old to hang was a miscarriage of justice. The case has been a cause clbre for almost fifty years. ](/news/2007/08/28/the-ontario-court-of-appeal-acquits-steven-truscott-of-the-1959-murder-of-lynne-harper-declaring-the-original-trial-that-had-sentenced-the.md)
-_Context: miscarriage of justice, cause clbre, 1959, Steven Truscott, hanging, Ontario Court of Appeal_
+_Context: 1959, Ontario Court of Appeal, miscarriage of justice, hanging, cause clbre, Steven Truscott_
 
 ## [Previous Day...](/news/2007/08/27/index.md)
 

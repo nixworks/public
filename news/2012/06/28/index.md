@@ -13,11 +13,11 @@ Turkey deploys anti-aircraft guns along its border with Syria; meanwhile, explos
 
 ##### Taliban
 ### [The Taliban releases a video of 17 decapitated Pakistani soldiers. ](/news/2012/06/28/the-taliban-releases-a-video-of-17-decapitated-pakistani-soldiers.md)
-_Context: Pakistan Army, Taliban_
+_Context: Taliban, Pakistan Army_
 
 ##### Pakistan
 ### [In Pakistan, a bomb in Quetta explodes next to a bus carrying Shias, killing 10 and leaving 30 injured.](/news/2012/06/28/in-pakistan-a-bomb-in-quetta-explodes-next-to-a-bus-carrying-shias-killing-10-and-leaving-30-injured.md)
-_Context: Pakistan, Shia, Quetta_
+_Context: Pakistan, Quetta, Shia_
 
 ##### Iraq
 ### [At least 14 people are killed and more than 50 wounded in a series of car bomb attacks in Iraq. ](/news/2012/06/28/at-least-14-people-are-killed-and-more-than-50-wounded-in-a-series-of-car-bomb-attacks-in-iraq.md)
@@ -33,11 +33,11 @@ _Context: News Corporation, The Wall Street Journal_
 
 ##### Eurozone
 ### [Eurozone leaders hold an emergency meeting on assistance to Spain and Italy. ](/news/2012/06/28/eurozone-leaders-hold-an-emergency-meeting-on-assistance-to-spain-and-italy.md)
-_Context: Italy, Eurozone, Spain_
+_Context: Eurozone, Italy, Spain_
 
 ##### United Nations
 ### [The United Nations expresses concern over the historical city of Timbuktu. ](/news/2012/06/28/the-united-nations-expresses-concern-over-the-historical-city-of-timbuktu.md)
-_Context: Timbuktu, United Nations_
+_Context: United Nations, Timbuktu_
 
 ##### 2012 Olympic torch relay
 ### [A man is killed as torrential rain causes widespread flooding across England. The storms also force the Olympic torch relay to be halted briefly. ](/news/2012/06/28/a-man-is-killed-as-torrential-rain-causes-widespread-flooding-across-england-the-storms-also-force-the-olympic-torch-relay-to-be-halted-bri.md)
@@ -65,23 +65,23 @@ _Context: Radovan Karadzic_
 
 ##### New Zealand
 ### [A New Zealand court rules that search warrants used to raid the home of Kim Dotcom, founder of MegaUpload, in connection to alleged copyright infringement were invalid. ](/news/2012/06/28/a-new-zealand-court-rules-that-search-warrants-used-to-raid-the-home-of-kim-dotcom-founder-of-megaupload-in-connection-to-alleged-copyrigh.md)
-_Context: Kim Dotcom, MegaUpload, search warrants, New Zealand_
+_Context: MegaUpload, search warrants, New Zealand, Kim Dotcom_
 
 ##### BBC
 ### [The BBC uncovers files showing that Raymond Mawby, a Conservative Minister during the 1960s, passed information to Czechoslovak agents in exchange for money. ](/news/2012/06/28/the-bbc-uncovers-files-showing-that-raymond-mawby-a-conservative-minister-during-the-1960s-passed-information-to-czechoslovak-agents-in-ex.md)
-_Context: Conservative Party, BBC, Czechoslovak, Raymond Mawby_
+_Context: BBC, Raymond Mawby, Conservative Party, Czechoslovak_
 
 ##### David Cameron
 ### [British Prime Minister David Cameron says the management of Barclays faces "serious questions" about its role in distorting key interest rates to rig international markets. ](/news/2012/06/28/british-prime-minister-david-cameron-says-the-management-of-barclays-faces-serious-questions-about-its-role-in-distorting-key-interest-rat.md)
-_Context: David Cameron, Barclays_
+_Context: Barclays, David Cameron_
 
 ##### United States House of Representatives
 ### [The United States House of Representatives holds Attorney-General Eric Holder in contempt for his perceived obstruction of the Congressional investigation into Operation Fast and Furious. Most House Republicans and 17 Democrats approve the decision. ](/news/2012/06/28/the-united-states-house-of-representatives-holds-attorney-general-eric-holder-in-contempt-for-his-perceived-obstruction-of-the-congressional.md)
-_Context: contempt, Operation Fast and Furious, Republican, Democrat, United States House of Representatives, Eric Holder, Attorney-General_
+_Context: Attorney-General, contempt, Eric Holder, Operation Fast and Furious, Democrat, Republican, United States House of Representatives_
 
 ##### Google
 ### [Google vice president Sundar Pichai officially claims that Google Chrome is the most used web browser in the world. ](/news/2012/06/28/google-vice-president-sundar-pichai-officially-claims-that-google-chrome-is-the-most-used-web-browser-in-the-world.md)
-_Context: Google, Sundar Pichai, web browser, Google Chrome_
+_Context: Sundar Pichai, Google Chrome, web browser, Google_
 
 ##### Emirates Air Line
 ### [The Emirates Air Line gondola lift opens in London. ](/news/2012/06/28/the-emirates-air-line-gondola-lift-opens-in-london.md)

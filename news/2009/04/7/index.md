@@ -9,43 +9,43 @@ Minister for Finance Brian Lenihan has outlined six steps to restore the Irish e
 
 ##### Israel
 ### [ The Israel Police kill a Palestinian terrorist in East Jerusalem as he rams them with his tractor. ](/news/2009/04/7/the-israel-police-kill-a-palestinian-terrorist-in-east-jerusalem-as-he-rams-them-with-his-tractor.md)
-_Context: Palestinian, Israeli police, Israel, East Jerusalem_
+_Context: Israeli police, East Jerusalem, Israel, Palestinian_
 
-##### American
+##### U.S.
 ### [ United States District Judge Emmet G. Sullivan overturns the conviction of former Alaska Senator Ted Stevens. ](/news/2009/04/7/united-states-district-judge-emmet-g-sullivan-overturns-the-conviction-of-former-alaska-senator-ted-stevens.md)
-_Context: Ted Stevens, Alaska, conviction, U.S. District Court for the District of Columbia, United States Senate, Emmet Sullivan, American_
+_Context: United States Senate, conviction, U.S., U.S. District Court for the District of Columbia, Emmet Sullivan, Alaska, Ted Stevens_
 
 ##### Peru
 ### [ Former Peruvian President Alberto Fujimori is convicted of violating human rights and imprisoned until 2034. ](/news/2009/04/7/former-peruvian-president-alberto-fujimori-is-convicted-of-violating-human-rights-and-imprisoned-until-2034.md)
-_Context: President, Alberto Fujimori, human rights, jail, convicted, Peru_
+_Context: Alberto Fujimori, jail, human rights, Peru, convicted, President_
 
 ##### Malaysia
 ### [ Malaysia holds by-elections in Bukit Selambau, Bukit Gantang, and Batang Ai. ](/news/2009/04/7/malaysia-holds-by-elections-in-bukit-selambau-bukit-gantang-and-batang-ai.md)
-_Context: Bukit Selambau, Batang Ai, Bukit Gantang, by-election, Malaysia_
+_Context: Malaysia, by-election, Batang Ai, Bukit Gantang, Bukit Selambau_
 
 ##### Demonstration
 ### [ Demonstrators in Chisinau protest the Communist Party's absolute majority in Moldova's parliamentary election. ](/news/2009/04/7/demonstrators-in-chiainau-protest-the-communist-party-s-absolute-majority-in-moldova-s-parliamentary-election.md)
-_Context: demonstration, Parliament, Moldova, PCRM, Chisinau, absolute majority, election, protesters_
+_Context: Chisinau, Parliament, election, absolute majority, demonstration, protesters, Moldova, PCRM_
 
 ##### Shooting
 ### [ Two people are killed and two injured during a shooting in Landshut, Bavaria, Germany. ](/news/2009/04/7/two-people-are-killed-and-two-injured-during-a-shooting-in-landshut-bavaria-germany.md)
-_Context: shooting, Landshut, German, Bavaria_
+_Context: Bavaria, Landshut, shooting, German_
 
 ##### Fokker F27
 ### [ Twenty-four people are killed as a Fokker F27 airliner crashes in Bandung, West Java, Indonesia. ](/news/2009/04/7/twenty-four-people-are-killed-as-a-fokker-f27-airliner-crashes-in-bandung-west-java-indonesia.md)
-_Context: airliner, Bandung, Indonesia, West Java, crashes, Fokker F27_
+_Context: Indonesia, Bandung, West Java, airliner, Fokker F27, crashes_
 
 ##### France
 ### [ French police raid the Basque Homeland and Freedom's "bomb factory" in Grenoble, Isere. ](/news/2009/04/7/french-police-raid-the-basque-homeland-and-freedom-s-bomb-factory-in-grenoble-isa-re.md)
-_Context: French police, Isere, France, ETA, raid, bomb, Grenoble_
+_Context: raid, ETA, Grenoble, bomb, France, French police, Isere_
 
 ##### Australia
 ### [ Australia's government announces a A$43-billion investment for the National Broadband Network. ](/news/2009/04/7/australia-s-government-announces-a-a-43-billion-investment-for-the-national-broadband-network.md)
-_Context: investment, Australia, National Broadband Network, Government of Australia, A$_
+_Context: A$, National Broadband Network, Government of Australia, investment, Australia_
 
 ##### General Assembly
 ### [ The General Assembly legalizes same-sex marriage in Vermont, United States. ](/news/2009/04/7/the-general-assembly-legalizes-same-sex-marriage-in-vermont-united-states.md)
-_Context: American, Vermont, same-sex marriage, General Assembly, legalizes_
+_Context: General Assembly, same-sex marriage, Vermont, legalizes, U.S._
 
 ## [Previous Day...](/news/2009/04/6/index.md)
 

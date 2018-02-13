@@ -25,7 +25,7 @@ A powerful typhoon bearing down on the northern Japanese island of Hokkaido has 
 
 ##### Recent incident of hazes in 2015
 ### [The President of Indonesia Joko Widodo announces that he will seek help from other nations in putting out illegally lit forest fires that have caused the haze. ](/news/2015/10/8/the-president-of-indonesia-joko-widodo-announces-that-he-will-seek-help-from-other-nations-in-putting-out-illegally-lit-forest-fires-that-ha.md)
-_Context: President of Indonesia, recent incident of hazes in 2015, forest fire, Joko Widodo_
+_Context: President of Indonesia, Joko Widodo, recent incident of hazes in 2015, forest fire_
 
 ##### Ecuador
 ### [Ecuador's restive Cotopaxi volcano erupts. ](/news/2015/10/8/ecuador-s-restive-cotopaxi-volcano-erupts.md)
@@ -45,7 +45,7 @@ The German state of Bavaria plans &quot;emergency measures&quot; to slow arrival
 
 ##### United States House of Representatives
 ### [ U.S. House Majority Leader Kevin McCarthy, who had been the favorite to replace outgoing House Speaker John Boehner, withdraws from the race. ](/news/2015/10/8/u-s-house-majority-leader-kevin-mccarthy-who-had-been-the-favorite-to-replace-outgoing-house-speaker-john-boehner-withdraws-from-the-rac.md)
-_Context: Speaker of the United States House of Representatives election, October 2015, John Boehner, U.S. Speaker of the House of Representatives, Majority Leader, United States House of Representatives, Kevin McCarthy_
+_Context: U.S. Speaker of the House of Representatives, Majority Leader, Kevin McCarthy, United States House of Representatives, John Boehner, Speaker of the United States House of Representatives election, October 2015_
 
 ## [Previous Day...](/news/2015/10/7/index.md)
 

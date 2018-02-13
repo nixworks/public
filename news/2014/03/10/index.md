@@ -13,7 +13,7 @@ _Context: Israeli Border Police, Jordan_
 
 ##### Fyffes
 ### [Irish fruit firm Fyffes and U.S. rival Chiquita agree to combine, creating the world's largest banana company in an all-stock deal valued at about $1.07 billion. ](/news/2014/03/10/irish-fruit-firm-fyffes-and-u-s-rival-chiquita-agree-to-combine-creating-the-world-s-largest-banana-company-in-an-all-stock-deal-valued-at.md)
-_Context: Chiquita, banana, Fyffes_
+_Context: banana, Chiquita, Fyffes_
 
 ##### Sbarro
 ### [Pizza chain Sbarro files for chapter 11 bankruptcy for the second time in 3 years. ](/news/2014/03/10/pizza-chain-sbarro-files-for-chapter-11-bankruptcy-for-the-second-time-in-3-years.md)
@@ -29,7 +29,7 @@ New Zealand will go to the polls on September 20. - New Zealand Herald
 
 ##### Prime Minister
 ### [The Prime Minister of Papua New Guinea Peter O'Neill sacks the Treasurer Don Polye and the Minister for Industrial Relations Mark Maipakai. ](/news/2014/03/10/the-prime-minister-of-papua-new-guinea-peter-o-neill-sacks-the-treasurer-don-polye-and-the-minister-for-industrial-relations-mark-maipakai.md)
-_Context: Peter O'Neill, Don Polye, Prime Minister_
+_Context: Don Polye, Prime Minister, Peter O'Neill_
 
 ##### David J. Skorton
 ### [Dr. David J. Skorton, current President of Cornell University, is chosen to be the new head of the Smithsonian Institution. ](/news/2014/03/10/dr-david-j-skorton-current-president-of-cornell-university-is-chosen-to-be-the-new-head-of-the-smithsonian-institution.md)

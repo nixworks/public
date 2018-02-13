@@ -41,7 +41,7 @@ Backlash over online poll on Leningrad siege leads to channel being axed from ne
 
 ##### Barack Obama
 ### [U.S. President Barack Obama signs the myRA at a visit to U.S. Steel's Irvin Works in metropolitan Pittsburgh. ](/news/2014/01/29/u-s-president-barack-obama-signs-the-myra-at-a-visit-to-u-s-steel-s-irvin-works-in-metropolitan-pittsburgh.md)
-_Context: Irvin Works, Barack Obama, U.S. Steel, Pittsburgh, myRA_
+_Context: Irvin Works, U.S. Steel, myRA, Barack Obama, Pittsburgh_
 
 ## [Previous Day...](/news/2014/01/28/index.md)
 

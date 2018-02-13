@@ -21,7 +21,7 @@ A young Italian man was overpowered by police guards as he attempted to enter Si
 
 ##### Roy E. Disney
 ### [ Roy E. Disney, head of Disney Animation and responsible for guiding the studio through a golden age of animation, dies in a California hospital in the United States. ](/news/2009/12/16/roy-e-disney-head-of-disney-animation-and-responsible-for-guiding-the-studio-through-a-golden-age-of-animation-dies-in-a-california-hosp.md)
-_Context: Roy E. Disney, Disney Animation, California, American_
+_Context: California, Roy E. Disney, U.S., Disney Animation_
 
 ##### Malawi
 ### [ Malawi recognizes the independence of Kosovo ](/news/2009/12/16/malawi-recognizes-the-independence-of-kosovo.md)
@@ -29,7 +29,7 @@ _Context: Kosovo, Malawi, Kosovo_
 
 ##### Supreme Court
 ### [ The Supreme Court of Pakistan declares NRO as unconstitutional, paving way for the reopening of the corruption cases involving the President and other senior officials. ](/news/2009/12/16/the-supreme-court-of-pakistan-declares-nro-as-unconstitutional-paving-way-for-the-reopening-of-the-corruption-cases-involving-the-presiden.md)
-_Context: Supreme Court, amnesty protecting him, president_
+_Context: president, amnesty protecting him, Supreme Court_
 
 ##### Jerusalem
 ### [ Archaeologists in Jerusalem say they have discovered a burial shroud from around the time of Jesus in a tomb. ](/news/2009/12/16/archaeologists-in-jerusalem-say-they-have-discovered-a-burial-shroud-from-around-the-time-of-jesus-in-a-tomb.md)
@@ -37,11 +37,11 @@ Scientists have found an ancient burial shroud in Jerusalem which they say is ve
 
 ##### Toumba Diakite
 ### [ Toumba Diakite, an aide to Guinea's military leader Moussa Dadis Camara admits to shooting him after the junta leader wanted him to take responsibility for the massacre of opposition protesters in September. ](/news/2009/12/16/toumba-diakite-an-aide-to-guinea-s-military-leader-moussa-dadis-camara-admits-to-shooting-him-after-the-junta-leader-wanted-him-to-take-re.md)
-_Context: massacre of opposition protesters, Moussa Dadis Camara, Toumba Diakite, Guinea_
+_Context: Guinea, Moussa Dadis Camara, Toumba Diakite, massacre of opposition protesters_
 
 ##### Philippines
 ### [ The Philippine province of Albay is put under a "state of imminent disaster" as activity at the Mayon Volcano increases. ](/news/2009/12/16/the-philippine-province-of-albay-is-put-under-a-state-of-imminent-disaster-as-activity-at-the-mayon-volcano-increases.md)
-_Context: Albay Province, Mayon Volcano, Philippines_
+_Context: Mayon Volcano, Philippines, Albay Province_
 
 ##### North Korea
 ### [ North Korea reportedly bans all foreigners from entering the country until early February 2010, for unknown reasons. ](/news/2009/12/16/north-korea-reportedly-bans-all-foreigners-from-entering-the-country-until-early-february-2010-for-unknown-reasons.md)
@@ -53,7 +53,7 @@ Yegor T. Gaidar oversaw the transition from Communism to capitalism as the first
 
 ##### Nauru
 ### [ Nauru recognizes the independence of South Ossetia, one day after also establishing diplomatic relations with Abkhazia. ](/news/2009/12/16/nauru-recognizes-the-independence-of-south-ossetia-one-day-after-also-establishing-diplomatic-relations-with-abkhazia.md)
-_Context: South Ossetia, Abkhazia, diplomatic relations, recognition, Nauru_
+_Context: Nauru, diplomatic relations, South Ossetia, Abkhazia, recognition_
 
 ##### Flyglobespan
 ### [ UK airline Flyglobespan goes into administration, with the cancellation of all scheduled flights. ](/news/2009/12/16/uk-airline-flyglobespan-goes-into-administration-with-the-cancellation-of-all-scheduled-flights.md)

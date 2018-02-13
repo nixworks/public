@@ -33,15 +33,15 @@ _Context: Keith O'Brien, sexual abuse, Cardinal, Scotsman_
 
 ##### Pregnancy
 ### [While on the way to the hospital due to complications in a pregnancy, a young Ultra-Orthodox Hasidic Jewish couple from a Brooklyn enclave are killed in a hit-and-run; the baby was delivered prematurely by C-section but died the next day of its injuries. The car owner was arrested soon after; the driver was arrested days later after a search. ](/news/2013/03/3/while-on-the-way-to-the-hospital-due-to-complications-in-a-pregnancy-a-young-ultra-orthodox-hasidic-jewish-couple-from-a-brooklyn-enclave-a.md)
-_Context: C-section, pregnancy, Hasidic Jewish, Brooklyn_
+_Context: Hasidic Jewish, Brooklyn, C-section, pregnancy_
 
 ##### Swiss referendum, 2013
 ### [Swiss referendum, 2013: Voters in Switzerland pass measures limiting CEO pay and outlawing golden parachutes. ](/news/2013/03/3/swiss-referendum-2013-voters-in-switzerland-pass-measures-limiting-ceo-pay-and-outlawing-golden-parachutes.md)
-_Context: golden parachutes, Swiss referendum, 2013, Switzerland, CEO, measures_
+_Context: Swiss referendum, 2013, Switzerland, golden parachutes, CEO, measures_
 
 ##### SpaceX CRS-2
 ### [SpaceX CRS-2: The cargo ship SpaceX Dragon docks at the International Space Station after a brief delay. ](/news/2013/03/3/spacex-crs-2-the-cargo-ship-spacex-dragon-docks-at-the-international-space-station-after-a-brief-delay.md)
-_Context: SpaceX CRS-2, International Space Station, Dragon, SpaceX_
+_Context: SpaceX, International Space Station, Dragon, SpaceX CRS-2_
 
 ##### NASA
 ### [NASA's Curiosity rover is switched to a redundant onboard computer in response to an undefined memory issue on the active computer. ](/news/2013/03/3/nasa-s-curiosity-rover-is-switched-to-a-redundant-onboard-computer-in-response-to-an-undefined-memory-issue-on-the-active-computer.md)

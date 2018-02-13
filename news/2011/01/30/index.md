@@ -21,7 +21,7 @@ Thousands of people took part in what is expected to be the final march in Derry
 
 ##### Venezuela
 ### [A fire in an arms depot of the Anonymous Venezuelan Campaign of Military Industries (CAVIM) in Maracy city of Aragua state killed at least one person and forced authorities to evacuate about 10,000 people. ](/news/2011/01/30/a-fire-in-an-arms-depot-of-the-anonymous-venezuelan-campaign-of-military-industries-cavim-in-maracy-city-of-aragua-state-killed-at-least-o.md)
-_Context: CAVIM, Venezuela, Maracy, Aragua state_
+_Context: Maracy, Aragua state, CAVIM, Venezuela_
 
 ##### Screen Actors Guild Awards
 ### [The cast of "The King's Speech" wins the award for Outstanding Performance by a Cast in a Motion Picture at the 17th Screen Actors Guild Awards. ](/news/2011/01/30/the-cast-of-the-king-s-speech-wins-the-award-for-outstanding-performance-by-a-cast-in-a-motion-picture-at-the-17th-screen-actors-guild-awa.md)
@@ -33,7 +33,7 @@ Alpha Natural Resources said on Saturday it agreed to a $7.1 billion deal to buy
 
 ##### Navotas City
 ### [12 people are killed and 360 families left homeless after a fire in Navotas City, near Manila, Philippines. ](/news/2011/01/30/12-people-are-killed-and-360-families-left-homeless-after-a-fire-in-navotas-city-near-manila-philippines.md)
-_Context: Philippines, Navotas City, Manila_
+_Context: Philippines, Manila, Navotas City_
 
 ##### Maracay
 ### [1 person is killed and at least 40 others are injured due to an explosion and a fire in Maracay, Aragua. ](/news/2011/01/30/1-person-is-killed-and-at-least-40-others-are-injured-due-to-an-explosion-and-a-fire-in-maracay-aragua.md)
@@ -45,7 +45,7 @@ Rescue workers in Brazil are searching for three construction workers believed t
 
 ##### Anthony
 ### [Tropical Cyclone Anthony makes landfall at Bowen in Queensland, Australia, forcing the declaration of a disaster zone in affected areas still recovering from the 2010-2011 Queensland floods. ](/news/2011/01/30/tropical-cyclone-anthony-makes-landfall-at-bowen-in-queensland-australia-forcing-the-declaration-of-a-disaster-zone-in-affected-areas-stil.md)
-_Context: Queensland, Anthony, floods, disaster zone, Australia, Bowen_
+_Context: disaster zone, Australia, Anthony, Bowen, floods, Queensland_
 
 ##### U.S. state
 ### [A wildfire in the U.S. state of Oklahoma forces evacuations in Logan County and the closure of State Highway 105. ](/news/2011/01/30/a-wildfire-in-the-u-s-state-of-oklahoma-forces-evacuations-in-logan-county-and-the-closure-of-state-highway-105.md)
@@ -57,11 +57,11 @@ A Vietnamese journalist, set on fire after being doused with chemicals as he sle
 
 ##### York
 ### [The directors of two companies based in York and Kent are charged with conspiring to illegally export Chinese-produced weapons to the United States after having imported them into the UK via Germany. The incident breaches an embargo by the United States, which disagrees with the importation of weapons made in China. ](/news/2011/01/30/the-directors-of-two-companies-based-in-york-and-kent-are-charged-with-conspiring-to-illegally-export-chinese-produced-weapons-to-the-united.md)
-_Context: American, Kent, York_
+_Context: U.S., York, Kent_
 
 ##### Julian Assange
 ### [Ahead of his court case Julian Assange is interviewed at the Norfolk country house where he is staying, having been up all night preparing U.S. State Department cables relevant to ongoing events in Egypt for inclusion on the WikiLeaks website. ](/news/2011/01/30/ahead-of-his-court-case-julian-assange-is-interviewed-at-the-norfolk-country-house-where-he-is-staying-having-been-up-all-night-preparing-u.md)
-_Context: Julian Assange, Norfolk, Protesters, WikiLeaks, 250,000 documents_
+_Context: WikiLeaks, 250,000 documents, Julian Assange, Norfolk, Protesters_
 
 ##### Southern Sudan
 ### [Southern Sudan chooses to become independent of Sudan with over 99% voting yes in the referendum. ](/news/2011/01/30/southern-sudan-chooses-to-become-independent-of-sudan-with-over-99-voting-yes-in-the-referendum.md)
@@ -69,7 +69,7 @@ South Sudan almost unanimously voted to declare independence from the north in a
 
 ##### MPs
 ### [The Parliament of Iran gives a vote of confidence to Ali Akbar Salehi, who has led the Atomic Energy Organisation of Iran since July 2009 and Iran's nuclear program, and is President Mahmoud Ahmadinejad's candidate to become Minister of Foreign Affairs. ](/news/2011/01/30/the-parliament-of-iran-gives-a-vote-of-confidence-to-ali-akbar-salehi-who-has-led-the-atomic-energy-organisation-of-iran-since-july-2009-an.md)
-_Context: foreign minister, nuclear program, Ali Akbar Salehi, MPs, President, Atomic Energy Organisation of Iran, Mahmoud Ahmadinejad_
+_Context: Ali Akbar Salehi, Mahmoud Ahmadinejad, Atomic Energy Organisation of Iran, President, MPs, foreign minister, nuclear program_
 
 ##### 
 ### [Exotic birds are found to have been driven into Britain's back gardens by the extreme cold, as more than half a million people participate in the largest wildlife survey in the world. ](/news/2011/01/30/exotic-birds-are-found-to-have-been-driven-into-britain-s-back-gardens-by-the-extreme-cold-as-more-than-half-a-million-people-participate-i.md)

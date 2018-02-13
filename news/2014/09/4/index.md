@@ -25,7 +25,7 @@ The list of proposed new EU commissioners is now complete, with enough women for
 
 ##### Viking ring fortress
 ### [For the first time in sixty years, a new Viking ring fortress is found, the fifth in present-day Denmark; it is located near the town of Koge and believed to have been founded by Harold Bluetooth. ](/news/2014/09/4/for-the-first-time-in-sixty-years-a-new-viking-ring-fortress-is-found-the-fifth-in-present-day-denmark-it-is-located-near-the-town-of-ka.md)
-_Context: Harold Bluetooth, Viking ring fortress, Koge, Denmark_
+_Context: Denmark, Koge, Viking ring fortress, Harold Bluetooth_
 
 ## [Previous Day...](/news/2014/09/3/index.md)
 

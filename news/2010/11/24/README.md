@@ -33,7 +33,7 @@ _Context: are confirmed dead, New Zealand_
 
 ##### Government of Australia
 ### [An Australian Government report on the Montara oil spill blames it on oil rig operator PTTEP. ](/news/2010/11/24/an-australian-government-report-on-the-montara-oil-spill-blames-it-on-oil-rig-operator-pttep.md)
-_Context: PTT Public Company Limited, Montara oil spill, Government of Australia, oil rig_
+_Context: oil rig, Montara oil spill, PTT Public Company Limited, Government of Australia_
 
 ##### United Nations
 ### [The United Nations and Pan American Health Organization estimate that the number of cases in the 2010 Haiti cholera outbreak could reach more than 200,000 in the next three months. ](/news/2010/11/24/the-united-nations-and-pan-american-health-organization-estimate-that-the-number-of-cases-in-the-2010-haiti-cholera-outbreak-could-reach-mor.md)
@@ -53,7 +53,7 @@ A&#x20;young&#x20;male&#x20;demonstrator&#x20;was&#x20;shot&#x20;and&#x20;killed
 
 ##### Blaise Compaor
 ### [Blaise Compaor is re-elected as President of Burkina Faso following a presidential election with 81% of the vote. ](/news/2010/11/24/blaise-compaore-is-re-elected-as-president-of-burkina-faso-following-a-presidential-election-with-81-of-the-vote.md)
-_Context: Burkina Faso, presidential election, Blaise Compaor_
+_Context: Blaise Compaor, Burkina Faso, presidential election_
 
 ##### Kabul
 ### [Protests occur in Kabul follow the announcement of most of the results of the Afghan parliamentary election. ](/news/2010/11/24/protests-occur-in-kabul-follow-the-announcement-of-most-of-the-results-of-the-afghan-parliamentary-election.md)

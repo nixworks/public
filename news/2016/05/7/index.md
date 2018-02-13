@@ -13,7 +13,7 @@ By Bozorgmehr SharafedinDUBAI (Reuters) -...
 
 ##### Indonesia-Philippines relations
 ### [Filipina convict Mary Jane Veloso gets a reprieve from Indonesian executions. ](/news/2016/05/7/filipina-convict-mary-jane-veloso-gets-a-reprieve-from-indonesian-executions.md)
-_Context: Indonesia, Mary Jane Veloso, Indonesia-Philippines relations_
+_Context: Indonesia, Indonesia-Philippines relations, Mary Jane Veloso_
 
 ##### Law and Justice government
 ### [About 240,000 Poles have taken to the streets in Warsaw to protest against the Polish government. ](/news/2016/05/7/about-240-000-poles-have-taken-to-the-streets-in-warsaw-to-protest-against-the-polish-government.md)
@@ -29,11 +29,11 @@ The by-election is being contested by Singapore Democratic Party chief Dr Chee S
 
 ##### 2016 U.S. presidential election
 ### [Voters in Guam head to the polls to vote in the Democratic presidential caucus. ](/news/2016/05/7/voters-in-guam-head-to-the-polls-to-vote-in-the-democratic-presidential-caucus.md)
-_Context: Democratic Party presidential primaries, 2016, Guam, United States presidential election in Guam, 2016, 2016 U.S. presidential election, caucus_
+_Context: United States presidential election in Guam, 2016, 2016 U.S. presidential election, caucus, Guam, Democratic Party presidential primaries, 2016_
 
 ##### Iranian legislative election, 2016
 ### [Iran's elected Parliament member from Maragheh and Ajabshir district, Mohammad-Ali Hosseinzadeh, dies in a car crash in Zanjan. He was set to take office on 28 May. ](/news/2016/05/7/iran-s-elected-parliament-member-from-maragheh-and-ajabshir-district-mohammad-ali-hosseinzadeh-dies-in-a-car-crash-in-zanjan-he-was-set-t.md)
-_Context: Maragheh and Ajabshir, Zanjan, MPs, Mohammad-Ali Hosseinzadeh, Iranian legislative election, 2016_
+_Context: MPs, Iranian legislative election, 2016, Maragheh and Ajabshir, Zanjan, Mohammad-Ali Hosseinzadeh_
 
 ## [Previous Day...](/news/2016/05/6/index.md)
 

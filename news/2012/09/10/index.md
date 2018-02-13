@@ -17,15 +17,15 @@ _Context: Kunduz, Afghanistan_
 
 ##### National September 11 Memorial & Museum
 ### [An agreement is reached allowing the completion of the US National September 11 Memorial & Museum on the World Trade Center site in New York City. ](/news/2012/09/10/an-agreement-is-reached-allowing-the-completion-of-the-us-national-september-11-memorial-museum-on-the-world-trade-center-site-in-new-york.md)
-_Context: New York City, Ground Zero, National September 11 Memorial & Museum_
+_Context: National September 11 Memorial & Museum, New York City, Ground Zero_
 
 ##### Union
 ### [Teachers in Chicago go on strike. Around 350,000 students are affected. ](/news/2012/09/10/teachers-in-chicago-go-on-strike-around-350-000-students-are-affected.md)
-_Context: Chicago, union_
+_Context: union, Chicago_
 
 ##### South Africa
 ### [Around 10,000 South African miners demonstrate at the Lonmin mines in Marikana ("Rooikoppies"), Rustenburg, Bojanala Platinum district, North West province. Fifteen thousand miners strike at the Gold Fields KDC West Driefontein mine. ](/news/2012/09/10/around-10-000-south-african-miners-demonstrate-at-the-lonmin-mines-in-marikana-rooikoppies-rustenburg-bojanala-platinum-district-nort.md)
-_Context: Bojanala Platinum district, Gold Fields, North West province, Driefontein, Marikana, Lonmin, Rustenburg, South Africa_
+_Context: Lonmin, Rustenburg, Marikana, Gold Fields, Driefontein, Bojanala Platinum district, North West province, South Africa_
 
 ##### Vietnam
 ### [Floods and landslides caused by heavy rain kill at least 29 people in northern and central Vietnam. ](/news/2012/09/10/floods-and-landslides-caused-by-heavy-rain-kill-at-least-29-people-in-northern-and-central-vietnam.md)
@@ -39,17 +39,17 @@ _Context: Newfoundland and Labrador, Tropical Storm Leslie_
 ### [Three people are killed and several others seriously injured after a coach taking people home from the Isle of Wight-based music festival, Bestival 2012 crashes in Surrey, England. ](/news/2012/09/10/three-people-are-killed-and-several-others-seriously-injured-after-a-coach-taking-people-home-from-the-isle-of-wight-based-music-festival-b.md)
 Three people die and others are seriously hurt as a Merseyside-based coach taking people home from a festival crashes in Surrey.
 
-##### American
+##### U.S.
 ### [A new United States national strategy to prevent suicides is to be released by the Surgeon General, the Secretary of Health and Human Services and the Army Secretary. It will include, among others, the use of social medium Facebook as a tactic. ](/news/2012/09/10/a-new-united-states-national-strategy-to-prevent-suicides-is-to-be-released-by-the-surgeon-general-the-secretary-of-health-and-human-servic.md)
 WASHINGTON (Reuters) - A new nationwide strategy to prevent suicides, especially among U.S. military veterans and younger Americans, is tapping into Facebook, mobile apps and other technologies as...
 
 ##### Yukiya Amano
 ### [Yukiya Amano, the head of the International Atomic Energy Agency (IAEA), urges Iran to grant IAEA inspectors immediate access to its contentious suspected nuclear facility in Parchin. ](/news/2012/09/10/yukiya-amano-the-head-of-the-international-atomic-energy-agency-iaea-urges-iran-to-grant-iaea-inspectors-immediate-access-to-its-content.md)
-_Context: IAEA, Iran, Yukiya Amano, contentious, nuclear program, IAEA inspectors, Parchin_
+_Context: contentious, IAEA, Iran, Yukiya Amano, IAEA inspectors, Parchin, nuclear program_
 
 ##### Japanese government
 ### [The Japanese government announces it will soon buy the disputed Senkaku Islands claimed by China (as Diaoyu Islands) and Taiwan (as Tiaoyutai Islands). Chinese leaders respond angrily. ](/news/2012/09/10/the-japanese-government-announces-it-will-soon-buy-the-disputed-senkaku-islands-claimed-by-china-as-diaoyu-islands-and-taiwan-as-tiaoyuta.md)
-_Context: Senkaku Islands dispute, government, Taiwan, China, Senkaku Islands, Japanese government_
+_Context: China, Taiwan, Senkaku Islands dispute, Japanese government, Senkaku Islands, government_
 
 ##### International Steering Group for Kosovo
 ### [The International Steering Group for Kosovo formally ends its supervision of the partially recognised Republic of Kosovo. ](/news/2012/09/10/the-international-steering-group-for-kosovo-formally-ends-its-supervision-of-the-partially-recognised-republic-of-kosovo.md)
@@ -65,11 +65,11 @@ Iraqis have been reacting to yesterdayâ€™s death sentence handed to the countryâ
 
 ##### Ministry of health
 ### [According to a parliamentary answer by the ministry of health, the value of a life lost during a clinical trial is 2.2 lakh rupees ($ 4,000) in India in 2011. This number is the average compensation paid for deaths during clinical trials. No rules governing compensations for clinical trial-related injury or death have been approved by the Parliament of India yet. ](/news/2012/09/10/according-to-a-parliamentary-answer-by-the-ministry-of-health-the-value-of-a-life-lost-during-a-clinical-trial-is-2-2-lakh-rupees-4-000.md)
-_Context: ministry of health, rupee, India, clinical trial, value, Parliament of India, lakh_
+_Context: value, ministry of health, India, clinical trial, Parliament of India, lakh, rupee_
 
 ##### Federal Parliament of Somalia
 ### [Members of the new Somali Parliament elect Hassan Sheikh Mohamoud President. ](/news/2012/09/10/members-of-the-new-somali-parliament-elect-hassan-sheikh-mohamoud-president.md)
-_Context: newly elected president, Hassan Sheikh Mohamoud, President, Federal Parliament of Somalia_
+_Context: President, Federal Parliament of Somalia, newly elected president, Hassan Sheikh Mohamoud_
 
 ##### Markandey Katju
 ### [Chairman Justice Markandey Katju of the Press Council of India, defends Aseem Trivedi: "he did nothing illegal". Since September 9th, the Indian cartoonist Aseem Trivedi is detained in Mumbai on charges of sedition related to the content of his work. ](/news/2012/09/10/chairman-justice-markandey-katju-of-the-press-council-of-india-defends-aseem-trivedi-he-did-nothing-illegal-since-september-9th-the-in.md)

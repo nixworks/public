@@ -13,7 +13,7 @@ At least four people killed, including a soldier, after clashes between supporte
 
 ##### Arsala Rahmani
 ### [Arsala Rahmani, a key peace negotiator for the Afghan government, is shot dead by assassins in Kabul, Afghanistan. ](/news/2012/05/13/arsala-rahmani-a-key-peace-negotiator-for-the-afghan-government-is-shot-dead-by-assassins-in-kabul-afghanistan.md)
-_Context: Kabul, Afghanistan, Arsala Rahmani_
+_Context: Afghanistan, Arsala Rahmani, Kabul_
 
 ##### Drone
 ### [Following American drone strikes against suspected militants in southern Yemen, at least 15 other militants are killed in a Yemeni Army offensive. ](/news/2012/05/13/following-american-drone-strikes-against-suspected-militants-in-southern-yemen-at-least-15-other-militants-are-killed-in-a-yemeni-army-offe.md)
@@ -21,15 +21,15 @@ Army opens new offensive against al-Qaeda in the Arab Peninsula, while at least 
 
 ##### Ugandan soldier
 ### [The Ugandan army captures Caesar Achellam, a senior commander of the militant Lord's Resistance Army, in the Central African Republic. ](/news/2012/05/13/the-ugandan-army-captures-caesar-achellam-a-senior-commander-of-the-militant-lord-s-resistance-army-in-the-central-african-republic.md)
-_Context: Lord's Resistance Army, Ugandan soldier, Central African Republic_
+_Context: Lord's Resistance Army, Central African Republic, Ugandan soldier_
 
 ##### China
 ### [Torrential rainfall and flooding in China's Hunan Province destroys a bridge and 3,500 homes, leading to the evacuation of 28,000 people in Pingjiang County. ](/news/2012/05/13/torrential-rainfall-and-flooding-in-china-s-hunan-province-destroys-a-bridge-and-3-500-homes-leading-to-the-evacuation-of-28-000-people-in.md)
-_Context: Hunan Province, Pingjiang County, China_
+_Context: Pingjiang County, China, Hunan Province_
 
 ##### Paul Watson
 ### [Paul Watson, the founder of the Sea Shepherd Conservation Society, is arrested in Germany for allegedly violating Guatemalan territorial waters in 2002. ](/news/2012/05/13/paul-watson-the-founder-of-the-sea-shepherd-conservation-society-is-arrested-in-germany-for-allegedly-violating-guatemalan-territorial-wat.md)
-_Context: Sea Shepherd Conservation Society, Paul Watson, Guatemala, allegedly violating, German_
+_Context: German, allegedly violating, Sea Shepherd Conservation Society, Paul Watson, Guatemala_
 
 ##### German
 ### [Voters in the German state of North Rhine-Westphalia head to the polls for an election, with the Social Democratic Party of Germany winning the most votes, allowing it to continue in government with the support of the Greens. ](/news/2012/05/13/voters-in-the-german-state-of-north-rhine-westphalia-head-to-the-polls-for-an-election-with-the-social-democratic-party-of-germany-winning.md)
@@ -41,7 +41,7 @@ _Context: Politburo Standing Committee, Bo Xilai scandal, Meng Jianzhu, Zhou Yon
 
 ##### President of Greece
 ### [The President of Greece, Karolos Papoulias, fails to broker a coalition deal between Greece's major political parties. ](/news/2012/05/13/the-president-of-greece-karolos-papoulias-fails-to-broker-a-coalition-deal-between-greece-s-major-political-parties.md)
-_Context: governing coalition, Karolos Papoulias, President of Greece, Greece_
+_Context: governing coalition, President of Greece, Greece, Karolos Papoulias_
 
 ##### Biodiversity
 ### [Scientists claim that there is a visible link between the loss of biodiversity and the disappearance of endangered languages and cultures. ](/news/2012/05/13/scientists-claim-that-there-is-a-visible-link-between-the-loss-of-biodiversity-and-the-disappearance-of-endangered-languages-and-cultures.md)

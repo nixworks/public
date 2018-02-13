@@ -9,7 +9,7 @@ _Context: Homs_
 
 ##### Port of Oakland
 ### [The Port of Oakland in the US state of California reopens after a second police crackdown on Occupy Oakland. ](/news/2011/11/3/the-port-of-oakland-in-the-us-state-of-california-reopens-after-a-second-police-crackdown-on-occupy-oakland.md)
-_Context: California, Occupy Oakland, Port of Oakland_
+_Context: Port of Oakland, California, Occupy Oakland_
 
 ##### Advanced Micro Devices
 ### [Advanced Micro Devices announces that it will be cutting 1,400 jobs or 12 per cent of its work force. ](/news/2011/11/3/advanced-micro-devices-announces-that-it-will-be-cutting-1-400-jobs-or-12-per-cent-of-its-work-force.md)
@@ -21,15 +21,15 @@ More than 1,200 passengers are evacuated from a ferry that caught fire in the Re
 
 ##### 2011 G-20 summit
 ### [The 2011 G-20 summit gets underway in the French city of Cannes, with discussions expected to focus on the continuing Eurozone debt crisis. ](/news/2011/11/3/the-2011-g-20-summit-gets-underway-in-the-french-city-of-cannes-with-discussions-expected-to-focus-on-the-continuing-eurozone-debt-crisis.md)
-_Context: 2011 G-20 summit, Cannes, France, an ongoing debt crisis_
+_Context: an ongoing debt crisis, France, Cannes, 2011 G-20 summit_
 
 ##### Tear gas
 ### [Police fire tear gas at Occupy Oakland protesters after they blocked the Port of Oakland. ](/news/2011/11/3/police-fire-tear-gas-at-occupy-oakland-protesters-after-they-blocked-the-port-of-oakland.md)
-_Context: Occupy Oakland, Port of Oakland, tear gas_
+_Context: Port of Oakland, tear gas, Occupy Oakland_
 
 ##### City of London Corporation
 ### [The City of London Corporation offers Occupy London demonstrators a deal to halt legal action which would allow them to stay at St Paul's Cathedral until 2012 providing they then dismantle their camp. ](/news/2011/11/3/the-city-of-london-corporation-offers-occupy-london-demonstrators-a-deal-to-halt-legal-action-which-would-allow-them-to-stay-at-st-paul-s-ca.md)
-_Context: St Paul's Cathedral, City of London Corporation, Occupy London_
+_Context: St Paul's Cathedral, Occupy London, City of London Corporation_
 
 ##### Pakistan national cricket team
 ### [Three members of the Pakistan national cricket team (Salman Butt, Mohammad Asif and Mohammad Amir) together with agent Mazhar Majeed are given jail sentences for their roles in a spot-fixing scandal. ](/news/2011/11/3/three-members-of-the-pakistan-national-cricket-team-salman-butt-mohammad-asif-and-mohammad-amir-together-with-agent-mazhar-majeed-are-giv.md)
