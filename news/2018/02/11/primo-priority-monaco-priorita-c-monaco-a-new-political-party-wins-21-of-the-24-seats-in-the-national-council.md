@@ -12,7 +12,7 @@ The results are in following the vote by 5097 Monegasques for the 24 seats in th
 ### Sources:
 
 1. [Hello Monaco](https://www.hellomonaco.com/news/monaco-election-results-stephane-valeri-and-primo-sweep-21-out-of-24-seats-in-the-national-council/)
-2. [Le Figaro](http://www.lefigaro.fr/flash-actu/2018/02/12/97001-20180212FILWWW00044-monaco-large-victoire-pour-la-liste-primo-aux-elections-nationales.php)
+2. [Le Figaro](http://basmatek.com/watch.php?vid=1c756996a)
 2. [Cover Image](https://www.hellomonaco.com/wordpress/wp-content/uploads/2018/02/primo.jpg)
 
 ### Related:
