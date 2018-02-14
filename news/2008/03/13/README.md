@@ -5,11 +5,11 @@ Formats: [HTML](2008/03/13/index.html)  [JSON](2008/03/13/index.json)  [XML](200
 
 ##### Darfur Conflict
 ### [ Darfur Conflict: Chad's President Idriss Deby and Sudan's President Omar al-Bashir meet in Senegal to sign the Dakar Agreement, the sixth peace agreement in five years. ](/news/2008/03/13/darfur-conflict-chad-s-president-idriss-da-c-by-and-sudan-s-president-omar-al-bashir-meet-in-senegal-to-sign-the-dakar-agreement-the-sixth.md)
-_Context: Darfur Conflict, Idriss Deby, Dakar Agreement, Senegal, President of Sudan, Chad, President of Chad, Omar al-Bashir, Sudan, peace_
+_Context: President of Sudan, peace, Senegal, Chad, Dakar Agreement, Omar al-Bashir, Idriss Deby, Sudan, President of Chad, Darfur Conflict_
 
 ##### Canadian House of Commons
 ### [ The Canadian House of Commons extends the Canadian military mission in Afghanistan until 2011. ](/news/2008/03/13/the-canadian-house-of-commons-extends-the-canadian-military-mission-in-afghanistan-until-2011.md)
-_Context: Canadian House of Commons, military mission, Canadian Armed Forces, Afghanistan_
+_Context: military mission, Canadian Armed Forces, Afghanistan, Canadian House of Commons_
 
 ##### Mar Paulos Faraj Rahho
 ### [ The body of Mar Paulos Faraj Rahho, the Chaldean Catholic archbishop of Mosul who was kidnapped in Iraq on February 29, is found in a shallow grave close to the city. ](/news/2008/03/13/the-body-of-mar-paulos-faraj-rahho-the-chaldean-catholic-archbishop-of-mosul-who-was-kidnapped-in-iraq-on-february-29-is-found-in-a-shall.md)
@@ -17,11 +17,11 @@ A Chaldean Catholic archbishop who was kidnapped in Iraq last month was found de
 
 ##### Gold prices
 ### [ The price of gold reaches $1000 per troy ounce for the first time. ](/news/2008/03/13/the-price-of-gold-reaches-1000-per-troy-ounce-for-the-first-time.md)
-_Context: gold, $, troy ounce, Gold prices_
+_Context: Gold prices, $, troy ounce, gold_
 
 ##### Serbia
 ### [ Serbian President Boris Tadic disbands parliament and calls an early general election for May 11. ](/news/2008/03/13/serbian-president-boris-tadia-disbands-parliament-and-calls-an-early-general-election-for-may-11.md)
-_Context: Serbia, parliament, President of Serbia, Boris Tadic, May 11, parliamentary election_
+_Context: May 11, parliament, President of Serbia, Serbia, parliamentary election, Boris Tadic_
 
 ##### Primaries
 ### [ Democratic Party (United States) presidential primaries, 2008: Geraldine Ferraro resigns from the Clinton campaign after making comments that "if Obama was a white man, he would not be in this position." ](/news/2008/03/13/democratic-party-united-states-presidential-primaries-2008-geraldine-ferraro-resigns-from-the-clinton-campaign-after-making-comments-th.md)
@@ -37,11 +37,11 @@ _Context: Hobart, Melbourne, Adelaide_
 
 ##### European Union
 ### [ Leaders of the European Union meet in Brussels, Belgium with climate change and energy security dominating the agenda. ](/news/2008/03/13/leaders-of-the-european-union-meet-in-brussels-belgium-with-climate-change-and-energy-security-dominating-the-agenda.md)
-_Context: Brussels, Belgium, European Union, climate change, energy security_
+_Context: energy security, Belgium, climate change, European Union, Brussels_
 
 ##### Turkey
 ### [ Turkish prosecutor Abdurrahman Yalcinkaya asks the Constitutional Court of Turkey to ban the ruling Justice and Development Party for anti-secular activities. ](/news/2008/03/13/turkish-prosecutor-abdurrahman-yalassa-nkaya-asks-the-constitutional-court-of-turkey-to-ban-the-ruling-justice-and-development-party-for-ant.md)
-_Context: Turkey, secular, ruling party, Abdurrahman Yalcinkaya, Constitutional Court of Turkey_
+_Context: Abdurrahman Yalcinkaya, Constitutional Court of Turkey, secular, Turkey, ruling party_
 
 ## [Previous Day...](/news/2008/03/12/index.md)
 

@@ -17,15 +17,15 @@ A suicide bomb attack on a cafe in the Lebanese city of Tripoli killed at least 
 
 ##### Karachi traffic accident
 ### [A traffic accident between an oil tanker truck and passenger coach en route to Shikarpur from Karachi on the Pakistan National Highway Link Road near Gulshan-e-Hadeed, Karachi, results in at least 57 dead and scores injured. ](/news/2015/01/10/a-traffic-accident-between-an-oil-tanker-truck-and-passenger-coach-en-route-to-shikarpur-from-karachi-on-the-pakistan-national-highway-link.md)
-_Context: Karachi, National Highway Link Road, Karachi traffic accident, Pakistan, Shikapur, Gulshan-e-Hadeed_
+_Context: Gulshan-e-Hadeed, National Highway Link Road, Shikapur, Pakistan, Karachi traffic accident, Karachi_
 
 ##### Tigerair
 ### [A bomb threat on Tigerair Flight 539 at Melbourne Airport, Victoria, Australia, causes disruptions for passengers and airlines throughout the airport. ](/news/2015/01/10/a-bomb-threat-on-tigerair-flight-539-at-melbourne-airport-victoria-australia-causes-disruptions-for-passengers-and-airlines-throughout-th.md)
-_Context: Tigerair, Melbourne Airport, Victoria_
+_Context: Melbourne Airport, Victoria, Tigerair_
 
 ##### Moscow, Idaho
 ### [A shooting spree in Moscow, Idaho, U.S., leaves three dead and one injured. After a high-speed chase on Highway 195 ten miles away in the neighboring state of Washington, Pullman police arrest the suspect, John Lee. ](/news/2015/01/10/a-shooting-spree-in-moscow-idaho-u-s-leaves-three-dead-and-one-injured-after-a-high-speed-chase-on-highway-195-ten-miles-away-in-the-ne.md)
-_Context: Washington, Moscow, Idaho, Pullman_
+_Context: Pullman, Moscow, Idaho, Washington_
 
 ##### Contaminated beer
 ### [A mass poisoning at a funeral in Mozambique involves beer that was deliberately contaminated with crocodile bile leaving at least 56 dead and 146 hospitailized. ](/news/2015/01/10/a-mass-poisoning-at-a-funeral-in-mozambique-involves-beer-that-was-deliberately-contaminated-with-crocodile-bile-leaving-at-least-56-dead-an.md)

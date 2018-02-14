@@ -9,11 +9,11 @@ Thousands celebrate in Yemen as President Saleh leaves for treatment in Saudi Ar
 
 ##### Mutinous soldiers
 ### [At least seven people are killed in an exchange of fire between pro-government forces and mutineering soldiers in Bobo-Dioulasso, Burkina Faso. ](/news/2011/06/4/at-least-seven-people-are-killed-in-an-exchange-of-fire-between-pro-government-forces-and-mutineering-soldiers-in-bobo-dioulasso-burkina-fa.md)
-_Context: Burkina Faso, mutinous soldiers, Bobo-Dioulasso_
+_Context: mutinous soldiers, Burkina Faso, Bobo-Dioulasso_
 
 ##### Sudan
 ### [North Sudan dismisses calls by the United Nations Security Council to leave the disputed Abyei region on the border with South Sudan. ](/news/2011/06/4/north-sudan-dismisses-calls-by-the-united-nations-security-council-to-leave-the-disputed-abyei-region-on-the-border-with-south-sudan.md)
-_Context: South Sudan, United Nations Security Council, Abyei, Sudan_
+_Context: Sudan, Abyei, South Sudan, United Nations Security Council_
 
 ##### 1989 Tiananmen Square protests
 ### [Tens of thousands of people gather in Hong Kong to remember the victims of the 1989 Tiananmen Square protests. ](/news/2011/06/4/tens-of-thousands-of-people-gather-in-hong-kong-to-remember-the-victims-of-the-1989-tiananmen-square-protests.md)
@@ -21,7 +21,7 @@ Tens of thousands gathered Saturday night in Hong Kong to commemorate the 1989 T
 
 ##### Indonesia
 ### [Two terrorist suspects wanted in connection with the shooting of two Indonesian police officers are killed in a raid in Poso, Central Sulawesi. ](/news/2011/06/4/two-terrorist-suspects-wanted-in-connection-with-the-shooting-of-two-indonesian-police-officers-are-killed-in-a-raid-in-poso-central-sulawe.md)
-_Context: Indonesia, Central Sulawesi, Poso_
+_Context: Central Sulawesi, Poso, Indonesia_
 
 ##### Islamists
 ### [Senior Islamic militant Ilyas Kashmiri, the leader of Harkat-ul-Jihad al-Islami, is killed in a US drone attack in South Waziristan in Pakistan. ](/news/2011/06/4/senior-islamic-militant-ilyas-kashmiri-the-leader-of-harkat-ul-jihad-al-islami-is-killed-in-a-us-drone-attack-in-south-waziristan-in-pakis.md)
@@ -45,7 +45,7 @@ _Context: Senkaku Islands_
 
 ##### Cairo Criminal Court
 ### [The Cairo Criminal Court sentences former finance minister Youssef Boutros Ghali to 30 years imprisonment "in absentia" for abuse of power. ](/news/2011/06/4/the-cairo-criminal-court-sentences-former-finance-minister-youssef-boutros-ghali-to-30-years-imprisonment-in-absentia-for-abuse-of-power.md)
-_Context: Youssef Boutros Ghali, in absentia, Cairo Criminal Court_
+_Context: Cairo Criminal Court, in absentia, Youssef Boutros Ghali_
 
 ##### Guru
 ### [Indian guru Swami Ramdev starts a hunger strike against corruption in the Government with thousands joining in but the camp is broken up. ](/news/2011/06/4/indian-guru-swami-ramdev-starts-a-hunger-strike-against-corruption-in-the-government-with-thousands-joining-in-but-the-camp-is-broken-up.md)

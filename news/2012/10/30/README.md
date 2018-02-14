@@ -37,15 +37,15 @@ _Context: National Trust, Alan Bennett_
 
 ##### Tamasin
 ### [Tamasin and Daniel Day-Lewis donate poet laureate Cecil Day-Lewis's archive&mdash;including manuscripts and a letter from W. H. Auden&mdash;to Oxford University's Bodleian Library. ](/news/2012/10/30/tamasin-and-daniel-day-lewis-donate-poet-laureate-cecil-day-lewis-s-archive-mdash-including-manuscripts-and-a-letter-from-w-h-auden-mdash.md)
-_Context: Daniel Day-Lewis, Oxford University, W. H. Auden, Tamasin, Bodleian Library, Cecil Day-Lewis_
+_Context: Cecil Day-Lewis, W. H. Auden, Bodleian Library, Daniel Day-Lewis, Tamasin, Oxford University_
 
 ##### The Stone Roses
 ### [The Stone Roses announce a series of performances in 2013, including their first London show since their reunion. ](/news/2012/10/30/the-stone-roses-announce-a-series-of-performances-in-2013-including-their-first-london-show-since-their-reunion.md)
-_Context: London, The Stone Roses, reunion_
+_Context: The Stone Roses, reunion, London_
 
 ##### The Walt Disney Company
 ### [The Walt Disney Company purchases Lucasfilm Ltd. from George Lucas for US$4.05 billion. Included in the deal are the rights to the "Star Wars" and "Indiana Jones" franchises. ](/news/2012/10/30/the-walt-disney-company-purchases-lucasfilm-ltd-from-george-lucas-for-us-4-05-billion-included-in-the-deal-are-the-rights-to-the-star-war.md)
-_Context: Star Wars, Indiana Jones, The Walt Disney Company, George Lucas, Lucasfilm Ltd._
+_Context: The Walt Disney Company, Indiana Jones, George Lucas, Lucasfilm Ltd., Star Wars_
 
 ##### United Nations
 ### [Aid workers and the United Nations raise concerns about rising food prices and increased cholera in Haiti, where Hurricane Sandy has killed at least 52 people. ](/news/2012/10/30/aid-workers-and-the-united-nations-raise-concerns-about-rising-food-prices-and-increased-cholera-in-haiti-where-hurricane-sandy-has-killed.md)
@@ -53,7 +53,7 @@ Officials fear rising food prices and an increase in cholera cases in Caribbean 
 
 ##### Hurricane Sandy
 ### [Hurricane Sandy makes landfall near Atlantic City, New Jersey, with widespread flooding and at least 29 deaths in the Northeastern United States. ](/news/2012/10/30/hurricane-sandy-makes-landfall-near-atlantic-city-new-jersey-with-widespread-flooding-and-at-least-29-deaths-in-the-northeastern-united-st.md)
-_Context: Hurricane Sandy, Northeastern United States, Atlantic City, New Jersey_
+_Context: Northeastern United States, Atlantic City, New Jersey, Hurricane Sandy_
 
 ##### High court
 ### [Rwanda's high court sentences opposition leader, Victoire Ingabire, to eight years in prison, convicting her of "conspiring to harm the country through war and terror, and minimizing" the 1994 genocide in Rwanda. ](/news/2012/10/30/rwandaas-high-court-sentences-opposition-leader-victoire-ingabire-to-eight-years-in-prison-convicting-her-of-conspiring-to-harm-the-co.md)
@@ -61,7 +61,7 @@ Victoire Ingabire, a Hutu politician, was found guilty of two charges related to
 
 ##### Homo floresiensis
 ### [Organisers of a proposed free public event on "Homo floresiensis" are forced to change the event's title after use of the word "hobbit", the creature's nickname, is forbidden by the representatives of the Tolkien Estate. ](/news/2012/10/30/organisers-of-a-proposed-free-public-event-on-homo-floresiensis-are-forced-to-change-the-event-s-title-after-use-of-the-word-hobbit-the.md)
-_Context: Homo floresiensis, Tolkien Estate_
+_Context: Tolkien Estate, Homo floresiensis_
 
 ##### Chicago
 ### [A suburban Chicago woman, Elzbieta Plackowska, 40, of Naperville, Illinois, is held without bail after allegedly fatally stabbing her 7-year-old son, Justin, Tuesday night 100 times, and then killing a 5-year-old girl, Olivia Dworakowski, who she had been babysitting and who had witnessed the homicide. She told investigators she did it because she was angry with her husband, a truck driver who was often away, leaving her to do work as a maid and care for the child, work that supposedly was beneath her, according to DuPage County, Illinois State's Attorney Robert Berlin. ](/news/2012/10/30/a-suburban-chicago-woman-elzbieta-plackowska-40-of-naperville-illinois-is-held-without-bail-after-allegedly-fatally-stabbing-her-7-year.md)

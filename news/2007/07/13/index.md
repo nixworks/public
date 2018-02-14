@@ -29,7 +29,7 @@ _Context: Philippines, Luzon_
 
 ##### North Korea
 ### [ North Korea's military seeks talks with the United States to discuss "peace and security on the Korean peninsula." ](/news/2007/07/13/north-korea-s-military-seeks-talks-with-the-united-states-to-discuss-peace-and-security-on-the-korean-peninsula.md)
-_Context: North Korea, U.S., Korean peninsula_
+_Context: U.S., North Korea, Korean peninsula_
 
 ## [Previous Day...](/news/2007/07/12/index.md)
 

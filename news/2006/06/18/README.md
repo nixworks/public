@@ -5,7 +5,7 @@ Formats: [HTML](2006/06/18/index.html)  [JSON](2006/06/18/index.json)  [XML](200
 
 ##### Washington Post
 ### [ The "Washington Post" reveals that the current United States administration turned down an Iranian attempt to settle disagreements about recognizing the right of existence of Israel and alleged Iranian support of terrorism in 2003. ](/news/2006/06/18/the-washington-post-reveals-that-the-current-united-states-administration-turned-down-an-iranian-attempt-to-settle-disagreements-about-re.md)
-_Context: 2003, U.S., terrorism, Iran, Washington Post, Israel_
+_Context: Washington Post, terrorism, Iran, Israel, U.S., 2003_
 
 ##### Ron Suskind
 ### [ According to an investigative report by Ron Suskind, Al-Qaeda was 45 days from launching a gas attack on the New York City subway when it was called off by Osama bin Laden's second-in-command, Ayman al-Zawahri, in 2003. ](/news/2006/06/18/according-to-an-investigative-report-by-ron-suskind-al-qaeda-was-45-days-from-launching-a-gas-attack-on-the-new-york-city-subway-when-it-w.md)
@@ -17,7 +17,7 @@ Catalonia has won semi-autonomy from Madrid in a binding referendum Sunday.
 
 ##### Israel
 ### [ The Israeli town of Sderot shuts down for 24 hours in protest of continuing Qassam rocket attacks. More than six hundred Qassam rockets were launched against Israeli towns since Israel's disengagement from the Gaza Strip, a hundred of which in the past week. One rocket left parts of Sderot without electricity for several hours this morning.](/news/2006/06/18/the-israeli-town-of-sderot-shuts-down-for-24-hours-in-protest-of-continuing-qassam-rocket-attacks-more-than-six-hundred-qassam-rockets-wer.md)
-_Context: Sderot, Gaza Strip, disengagement, Qassam rocket, Israel_
+_Context: Gaza Strip, Qassam rocket, Israel, disengagement, Sderot_
 
 ## [Previous Day...](/news/2006/06/17/index.md)
 

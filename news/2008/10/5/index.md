@@ -29,7 +29,7 @@ _Context: Apirak Kosayothin, Bangkok, re-elected_
 
 ##### Asif Ali Zardari
 ### [ Pakistani president Asif Ali Zardari acknowledges his government's consent to US air strikes in Pakistan and says India has never been a threat. ](/news/2008/10/5/pakistani-president-asif-ali-zardari-acknowledges-his-government-s-consent-to-us-air-strikes-in-pakistan-and-says-india-has-never-been-a-th.md)
-_Context: Pakistan, Asif Ali Zardari, India_
+_Context: India, Pakistan, Asif Ali Zardari_
 
 ##### Afghanistan
 ### [ Senior British Commander says military victory in Afghanistan is impossible. ](/news/2008/10/5/senior-british-commander-says-military-victory-in-afghanistan-is-impossible.md)

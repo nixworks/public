@@ -13,7 +13,7 @@ _Context: Israel, Ashdod, suicide bomber_
 
 ##### March 11, 2004 Madrid attacks
 ### [ Madrid bombings: Spanish police receives a videotape where a man identifying himself as an al-Qaeda spokesman says the organisation claims responsibility for the attack, according to an announcement from the country's interior minister. The authenticity of the video has not been verified. The al-Qaeda claim overshadows voting in the general election. ](/news/2004/03/14/madrid-bombings-spanish-police-receives-a-videotape-where-a-man-identifying-himself-as-an-al-qaeda-spokesman-says-the-organisation-claims.md)
-_Context: videotape, al-Qaeda, elected, March 11, 2004 Madrid attacks_
+_Context: elected, al-Qaeda, March 11, 2004 Madrid attacks, videotape_
 
 ##### Parliament
 ### [ The National People's Congress of China changes the constitution to protect private property, in order to stop state officials from requisitioning property and private possessions. ](/news/2004/03/14/the-national-people-s-congress-of-china-changes-the-constitution-to-protect-private-property-in-order-to-stop-state-officials-from-requisi.md)
@@ -25,11 +25,11 @@ _Context: presidential election, Vladimir Putin_
 
 ##### Pope John Paul II
 ### [ Pope John Paul II becomes the third-longest reigning pope in history, the other two being Saint Peter and Pope Pius&nbsp;IX. ](/news/2004/03/14/pope-john-paul-ii-becomes-the-third-longest-reigning-pope-in-history-the-other-two-being-saint-peter-and-pope-pius-nbsp-ix.md)
-_Context: Pope John Paul II, Pope Pius&nbsp;IX, longest reigning pope, Saint Peter_
+_Context: longest reigning pope, Saint Peter, Pope Pius&nbsp;IX, Pope John Paul II_
 
 ##### Kurds
 ### [ Several Kurds storm the Syrian embassy in Brussels protesting about violence and deaths in north-east Syria over the weekend. ](/news/2004/03/14/several-kurds-storm-the-syrian-embassy-in-brussels-protesting-about-violence-and-deaths-in-north-east-syria-over-the-weekend.md)
-_Context: Kurds, Brussels, Syria_
+_Context: Brussels, Kurds, Syria_
 
 ## [Previous Day...](/news/2004/03/13/index.md)
 

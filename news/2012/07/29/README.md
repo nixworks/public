@@ -5,7 +5,7 @@ Formats: [HTML](2012/07/29/index.html)  [JSON](2012/07/29/index.json)  [XML](201
 
 ##### Syria
 ### [Fierce fighting continues in Syria's second city of Aleppo. ](/news/2012/07/29/fierce-fighting-continues-in-syria-s-second-city-of-aleppo.md)
-_Context: Syria, Aleppo_
+_Context: Aleppo, Syria_
 
 ##### Sana'a
 ### [A security agent serving for the Italian embassy in Sana'a is kidnapped by gunmen in Yemen. ](/news/2012/07/29/a-security-agent-serving-for-the-italian-embassy-in-sana-a-is-kidnapped-by-gunmen-in-yemen.md)
@@ -21,11 +21,11 @@ _Context: Rwanda, DR Congo_
 
 ##### Islamist
 ### [Ten more Islamists are arrested in the United Arab Emirates as part of a crackdown on dissidents, according to activists. ](/news/2012/07/29/ten-more-islamists-are-arrested-in-the-united-arab-emirates-as-part-of-a-crackdown-on-dissidents-according-to-activists.md)
-_Context: United Arab Emirates, dissidents, Islamist_
+_Context: Islamist, dissidents, United Arab Emirates_
 
 ##### Japan
 ### [Thousands of anti-nuclear protesters form a human chain around the Japanese parliament in Tokyo. ](/news/2012/07/29/thousands-of-anti-nuclear-protesters-form-a-human-chain-around-the-japanese-parliament-in-tokyo.md)
-_Context: parliament, Japan, Tokyo_
+_Context: Japan, parliament, Tokyo_
 
 ##### Hong Kong
 ### [Thousands of people protest against plans to introduce national patriotism lessons in Hong Kong schools, calling it Chinese propaganda. ](/news/2012/07/29/thousands-of-people-protest-against-plans-to-introduce-national-patriotism-lessons-in-hong-kong-schools-calling-it-chinese-propaganda.md)

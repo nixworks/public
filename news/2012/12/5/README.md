@@ -5,7 +5,7 @@ Formats: [HTML](2012/12/5/index.html)  [JSON](2012/12/5/index.json)  [XML](2012/
 
 ##### Hungary
 ### [Hungary closes its embassy in Damascus and pulls out all personnel. ](/news/2012/12/5/hungary-closes-its-embassy-in-damascus-and-pulls-out-all-personnel.md)
-_Context: Hungary, Damascus_
+_Context: Damascus, Hungary_
 
 ##### Tripoli, Lebanon
 ### [The death toll from two days of clashes in the city of Tripoli reaches six, with dozens reported injured. ](/news/2012/12/5/the-death-toll-from-two-days-of-clashes-in-the-city-of-tripoli-reaches-six-with-dozens-reported-injured.md)
@@ -53,7 +53,7 @@ _Context: John McAfee, Guatemala, Belize_
 
 ##### Mexican
 ### [Mexico's Supreme Court of Justice of the Nation rules that a ban on same-sex marriage in Oaxaca state is illegal. ](/news/2012/12/5/mexico-s-supreme-court-of-justice-of-the-nation-rules-that-a-ban-on-same-sex-marriage-in-oaxaca-state-is-illegal.md)
-_Context: same-sex marriage, Mexican, Oaxaca, Mexican Supreme Court_
+_Context: Mexican, Mexican Supreme Court, same-sex marriage, Oaxaca_
 
 ##### London
 ### [London's King Edward VII's Hospital says it is reviewing telephone protocol after two disc jockeys from a Sydney-based radio station, 2Day FM made a prank call to the hospital in which they posed as Queen Elizabeth and Prince Charles, and spoke with a member of nursing staff about the health of the Duchess of Cambridge. ](/news/2012/12/5/london-s-king-edward-vii-s-hospital-says-it-is-reviewing-telephone-protocol-after-two-disc-jockeys-from-a-sydney-based-radio-station-2day-f.md)

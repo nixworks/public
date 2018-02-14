@@ -29,11 +29,11 @@ SABMiller agrees to Anheuser-Busch InBev latest takeover offer, creating a super
 
 ##### Relocate MCAS Futenma to Henoko Bay in Nago
 ### [The Governor of the Japanese prefecture of Okinawa, Takeshi Onaga, revokes permission given by a predecessor for landfill work to replace a United States Marine Corps base. ](/news/2015/10/13/the-governor-of-the-japanese-prefecture-of-okinawa-takeshi-onaga-revokes-permission-given-by-a-predecessor-for-landfill-work-to-replace-a.md)
-_Context: Japan, Marine, relocate MCAS Futenma to Henoko Bay in Nago, Okinawa, Takeshi Onaga_
+_Context: Marine, Japan, relocate MCAS Futenma to Henoko Bay in Nago, Takeshi Onaga, Okinawa_
 
 ##### Iran
 ### [Iran's Islamic Consultative Assembly approves the deal on its nuclear program agreed with six world powers. ](/news/2015/10/13/iran-s-islamic-consultative-assembly-approves-the-deal-on-its-nuclear-program-agreed-with-six-world-powers.md)
-_Context: nuclear program, Islamic Consultative Assembly, Iran, Joint Comprehensive Plan of Action_
+_Context: Iran, Joint Comprehensive Plan of Action, nuclear program, Islamic Consultative Assembly_
 
 ##### Territorial disputes in the South China Sea
 ### [The United States and Australia warn China they remain committed to freedom of navigation in the waters of the South China Sea and express strong concerns at China's construction of artificial islands in the disputed waters. ](/news/2015/10/13/the-united-states-and-australia-warn-china-they-remain-committed-to-freedom-of-navigation-in-the-waters-of-the-south-china-sea-and-express-s.md)

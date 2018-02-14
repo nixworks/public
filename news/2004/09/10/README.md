@@ -13,27 +13,27 @@ _Context: Sweden, Kristianstad_
 
 ##### Zimbabwe
 ### [ Zimbabwe sentences British mercenary and former SAS officer Simon Mann to seven years in prison for his role in attempting the violent overthrow of the government of Equatorial Guinea. ](/news/2004/09/10/zimbabwe-sentences-british-mercenary-and-former-sas-officer-simon-mann-to-seven-years-in-prison-for-his-role-in-attempting-the-violent-over.md)
-_Context: prison, Equatorial Guinea, SAS, Simon Mann, Zimbabwe_
+_Context: SAS, Zimbabwe, prison, Simon Mann, Equatorial Guinea_
 
 ##### CBS
 ### [ Questions are raised about the authenticity of memos obtained by the CBS television network and broadcast on its September 7 issue of 60 Minutes. The memos were purportedly written by Lt. Col. Jerry B. Killian, one of George W. Bush's commanding officers in the Texas Air National Guard. One of the memos which was supposed to have been written in 1973, uses a proportional font, kerning, and superscripts which were unlikely to have been available in typewriters of the period. See Killian memos. ](/news/2004/09/10/questions-are-raised-about-the-authenticity-of-memos-obtained-by-the-cbs-television-network-and-broadcast-on-its-september-7-issue-of-60-mi.md)
-_Context: superscript, kerning, 60 Minutes, Killian memos, CBS, Texas Air National Guard, Jerry B. Killian, proportional font, George W. Bush_
+_Context: proportional font, superscript, George W. Bush, CBS, kerning, Killian memos, Texas Air National Guard, Jerry B. Killian, 60 Minutes_
 
 ##### Hamas
 ### [ Abdel Aziz Ashkar, 34, a Hamas chief from the Jabaliya refugee camp, is killed while attempting to fire an anti-tank rocket at invading Israeli forces in the northern Gaza Strip. ](/news/2004/09/10/abdel-aziz-ashkar-34-a-hamas-chief-from-the-jabaliya-refugee-camp-is-killed-while-attempting-to-fire-an-anti-tank-rocket-at-invading-isr.md)
-_Context: Jabaliya, Israel, Hamas, anti-tank, Gaza Strip_
+_Context: Israel, Hamas, Jabaliya, anti-tank, Gaza Strip_
 
 ##### VHP
 ### [ Hindu hardliners, the VHP, announce plans to pull down the controversial tomb of Afzalkhan on Sunday, in a grim echo of the 1992 razing of the Babri Mosque in Ayodhya that sparked some of India's worst religious riots. ](/news/2004/09/10/hindu-hardliners-the-vhp-announce-plans-to-pull-down-the-controversial-tomb-of-afzalkhan-on-sunday-in-a-grim-echo-of-the-1992-razing-of.md)
-_Context: Afzalkhan, riots, religious, Babri Mosque, VHP, Ayodhya_
+_Context: Babri Mosque, riots, VHP, Afzalkhan, Ayodhya, religious_
 
 ##### Iraq
 ### [ A United States air strike on the Iraqi city of Fallujah kills one and wounds two others. ](/news/2004/09/10/a-united-states-air-strike-on-the-iraqi-city-of-fallujah-kills-one-and-wounds-two-others.md)
-_Context: Iraq, Fallujah_
+_Context: Fallujah, Iraq_
 
 ##### Astronomer
 ### [ A team of astronomers working on the Yepun telescope in Chile believe they have made the first direct image of a planetary system beyond the solar system. The star, called 2M1207, is 230 light-years away and is much smaller and fainter than the Sun. ](/news/2004/09/10/a-team-of-astronomers-working-on-the-yepun-telescope-in-chile-believe-they-have-made-the-first-direct-image-of-a-planetary-system-beyond-th.md)
-_Context: Yepun telescope, planetary system, astronomer, Chile, Sun, light-year, solar system, 2M1207_
+_Context: Sun, Chile, Yepun telescope, astronomer, light-year, planetary system, solar system, 2M1207_
 
 ##### March 19, 2004, assassination attempt in Taiwan
 ### [ Three men possessing homemade bullets at an illegal arms workshop are arrested in connection with the March 19, 2004, assassination attempt in Taiwan. ](/news/2004/09/10/three-men-possessing-homemade-bullets-at-an-illegal-arms-workshop-are-arrested-in-connection-with-the-march-19-2004-assassination-attempt.md)

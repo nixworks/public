@@ -9,7 +9,7 @@ Fighting rages in Libya between Islamic State fighters and a militia alliance fr
 
 ##### U.S.
 ### [The United States embassy and consulates in Saudi Arabia close for Sunday and Monday due to heightened security concerns.](/news/2015/03/15/the-united-states-embassy-and-consulates-in-saudi-arabia-close-for-sunday-and-monday-due-to-heightened-security-concerns.md)
-_Context: U.S., Saudi Arabia_
+_Context: Saudi Arabia, U.S._
 
 ##### Tehreek-i-Taliban Pakistan
 ### [Two suicide bombers belonging to the Tehreek-i-Taliban Pakistan splinter group Jamaat-ul-Ahrar blow themselves up in twin bomb attacks on two churches in the Pakistani city of Lahore, killing at least fourteen people with 70 more injured. ](/news/2015/03/15/two-suicide-bombers-belonging-to-the-tehreek-i-taliban-pakistan-splinter-group-jamaat-ul-ahrar-blow-themselves-up-in-twin-bomb-attacks-on-tw.md)
@@ -37,7 +37,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### National Assembly
 ### [The National Assembly of Venezuela grants President Nicolas Maduro the power to legislate by decree for nine months. ](/news/2015/03/15/the-national-assembly-of-venezuela-grants-president-nicola-s-maduro-the-power-to-legislate-by-decree-for-nine-months.md)
-_Context: Nicolas Maduro, President, Venezuela, decree, National Assembly_
+_Context: Nicolas Maduro, decree, President, Venezuela, National Assembly_
 
 ## [Previous Day...](/news/2015/03/14/index.md)
 

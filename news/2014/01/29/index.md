@@ -21,7 +21,7 @@ _Context: ice, snow_
 
 ##### MS ''Explorer of the Seas''
 ### [The cruise ship MS "Explorer of the Seas" returns to port; at least 684 of the 4237 people aboard had symptoms of norovirus. ](/news/2014/01/29/the-cruise-ship-ms-explorer-of-the-seas-returns-to-port-at-least-684-of-the-4237-people-aboard-had-symptoms-of-norovirus.md)
-_Context: norovirus, MS ''Explorer of the Seas''_
+_Context: MS ''Explorer of the Seas'', norovirus_
 
 ##### Stem cells
 ### [Scientists find a way to convert normal cells into stem cells, which can be used for any part of the body. Previously, the standard method of obtaining stem cells was to get them from an embryo. ](/news/2014/01/29/scientists-find-a-way-to-convert-normal-cells-into-stem-cells-which-can-be-used-for-any-part-of-the-body-previously-the-standard-method-o.md)
@@ -41,7 +41,7 @@ Backlash over online poll on Leningrad siege leads to channel being axed from ne
 
 ##### Barack Obama
 ### [U.S. President Barack Obama signs the myRA at a visit to U.S. Steel's Irvin Works in metropolitan Pittsburgh. ](/news/2014/01/29/u-s-president-barack-obama-signs-the-myra-at-a-visit-to-u-s-steel-s-irvin-works-in-metropolitan-pittsburgh.md)
-_Context: Irvin Works, U.S. Steel, myRA, Barack Obama, Pittsburgh_
+_Context: Irvin Works, Pittsburgh, U.S. Steel, Barack Obama, myRA_
 
 ## [Previous Day...](/news/2014/01/28/index.md)
 

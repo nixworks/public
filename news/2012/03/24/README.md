@@ -25,7 +25,7 @@ A small piece of Cosmos 2251 satellite debris safely passed by the International
 
 ##### 2012 Mali coup d'tat
 ### [Following the 2012 Mali coup d'tat, Canada and Denmark suspends aid to Mali. ](/news/2012/03/24/following-the-2012-mali-coup-d-etat-canada-and-denmark-suspends-aid-to-mali.md)
-_Context: 2012 Mali coup d'tat, Denmark, Mali, Canadian_
+_Context: Canadian, 2012 Mali coup d'tat, Denmark, Mali_
 
 ##### Port Said
 ### [At least one person is killed and 18 injured after clashes in Port Said between Egyptian security forces after the Al-Masry Club is banned for two seasons from the Egyptian Premier League following the Port Said Stadium disaster. ](/news/2012/03/24/at-least-one-person-is-killed-and-18-injured-after-clashes-in-port-said-between-egyptian-security-forces-after-the-al-masry-club-is-banned-f.md)
@@ -53,7 +53,7 @@ _Context: Dick Cheney, United States Vice President_
 
 ##### Thomas Mulcair
 ### [Thomas Mulcair wins the election to replace Jack Layton as leader of Canada's New Democratic Party. He becomes the Leader of the Official Opposition. ](/news/2012/03/24/thomas-mulcair-wins-the-election-to-replace-jack-layton-as-leader-of-canada-s-new-democratic-party-he-becomes-the-leader-of-the-official-op.md)
-_Context: New Democratic Party, Jack Layton, Leader of the Official Opposition, Thomas Mulcair, election_
+_Context: Thomas Mulcair, Jack Layton, Leader of the Official Opposition, election, New Democratic Party_
 
 ## [Previous Day...](/news/2012/03/23/index.md)
 

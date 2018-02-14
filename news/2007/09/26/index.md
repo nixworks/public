@@ -5,7 +5,7 @@ Formats: [HTML](2007/09/26/index.html)  [JSON](2007/09/26/index.json)  [XML](200
 
 ##### Lead paint
 ### [ More than half a million Chinese-manufactured toys are recalled in the United States due to excess levels of lead paint including 269,000 of RC2 Corp's "Thomas & Friends" toy trains. ](/news/2007/09/26/more-than-half-a-million-chinese-manufactured-toys-are-recalled-in-the-united-states-due-to-excess-levels-of-lead-paint-including-269-000-o.md)
-_Context: RC2 Corp, toy train, Thomas & Friends, lead paint_
+_Context: RC2 Corp, Thomas & Friends, toy train, lead paint_
 
 ##### Bishop
 ### [ The bishops of the United States Episcopal Church agree to "exercise restraint" by not consecrating more gay bishops or authorizing rites for the blessing of same-sex unions in order to prevent a schism in the Anglican Church worldwide. ](/news/2007/09/26/the-bishops-of-the-united-states-episcopal-church-agree-to-exercise-restraint-by-not-consecrating-more-gay-bishops-or-authorizing-rites-f.md)
@@ -13,7 +13,7 @@ The US church now awaits response from traditionalists. Will schism be headed of
 
 ##### United States District Court
 ### [ United States District Court judge Ann Aiken rules that two sections of the Patriot Act are unconstitutional because they allow search warrants to be issued without a showing of probable cause. ](/news/2007/09/26/united-states-district-court-judge-ann-aiken-rules-that-two-sections-of-the-patriot-act-are-unconstitutional-because-they-allow-search-warr.md)
-_Context: warrant, Ann Aiken, Patriot Act, United States District Court_
+_Context: warrant, Patriot Act, United States District Court, Ann Aiken_
 
 ##### House of Assembly
 ### [ The House of Assembly of Zimbabwe passes legislation transferring control of all foreign-owned businesses to Zimbabweans. ](/news/2007/09/26/the-house-of-assembly-of-zimbabwe-passes-legislation-transferring-control-of-all-foreign-owned-businesses-to-zimbabweans.md)
@@ -21,15 +21,15 @@ Zimbabwe&#039;s Parliament has transferred control of all foreign-owned companie
 
 ##### Chlorine
 ### [ A lack of chlorine for water sanitation in Iraq has led to an outbreak of cholera which has now reached Baghdad. ](/news/2007/09/26/a-lack-of-chlorine-for-water-sanitation-in-iraq-has-led-to-an-outbreak-of-cholera-which-has-now-reached-baghdad.md)
-_Context: chlorine, Iraq, an outbreak of cholera_
+_Context: an outbreak of cholera, chlorine, Iraq_
 
 ##### Superior Courts of California
 ### [ Superior Courts of California judge Larry Fidler declares the trial of record producer Phil Spector as a mistrial due to the inability of the jury to reach a verdict. ](/news/2007/09/26/superior-courts-of-california-judge-larry-fidler-declares-the-trial-of-record-producer-phil-spector-as-a-mistrial-due-to-the-inability-of-t.md)
-_Context: Phil Spector, Superior Courts of California, Larry Fidler, mistrial_
+_Context: Superior Courts of California, Larry Fidler, Phil Spector, mistrial_
 
 ##### United States Secretary of Defense
 ### [ The United States Secretary of Defense Robert Gates asks for $190 billion to cover the cost of the war in Iraq and war in Afghanistan during 2008. ](/news/2007/09/26/the-united-states-secretary-of-defense-robert-gates-asks-for-190-billion-to-cover-the-cost-of-the-war-in-iraq-and-war-in-afghanistan-durin.md)
-_Context: $, United States Secretary of Defense, war in Iraq, War in Afghanistan (2001-present), Robert Gates_
+_Context: War in Afghanistan (2001-present), war in Iraq, United States Secretary of Defense, Robert Gates, $_
 
 ##### Madeleine McCann
 ### [ A photo possibly showing missing Madeleine McCann in Morocco is being examined by British experts. ](/news/2007/09/26/a-photo-possibly-showing-missing-madeleine-mccann-in-morocco-is-being-examined-by-british-experts.md)
@@ -37,7 +37,7 @@ _Context: Morocco, Madeleine McCann_
 
 ##### Prime Minister of Japan
 ### [ The new Prime Minister of Japan Yasuo Fukuda is sworn into office with his Cabinet. ](/news/2007/09/26/the-new-prime-minister-of-japan-yasuo-fukuda-is-sworn-into-office-with-his-cabinet.md)
-_Context: forming a government, Yasuo Fukuda, Prime Minister of Japan_
+_Context: Prime Minister of Japan, forming a government, Yasuo Fukuda_
 
 ##### United Auto Workers
 ### [ The United Auto Workers announces a tentative agreement with General Motors ending a two-day strike. ](/news/2007/09/26/the-united-auto-workers-announces-a-tentative-agreement-with-general-motors-ending-a-two-day-strike.md)
@@ -53,7 +53,7 @@ Police baton-charged a crowd of about 700 anti-junta protesters including studen
 
 ##### India
 ### [ The India national cricket team starts a victory parade in Mumbai after winning the inaugural 2007 ICC World Twenty20. ](/news/2007/09/26/the-india-national-cricket-team-starts-a-victory-parade-in-mumbai-after-winning-the-inaugural-2007-icc-world-twenty20.md)
-_Context: 2007 ICC World Twenty20, victory parade, Mumbai, India_
+_Context: Mumbai, 2007 ICC World Twenty20, India, victory parade_
 
 ## [Previous Day...](/news/2007/09/25/index.md)
 

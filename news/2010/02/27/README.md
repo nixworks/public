@@ -9,7 +9,7 @@ One of the biggest earthquakes in recorded history rocked Chile on Saturday, kil
 
 ##### Indian Prime Minister
 ### [Prime Minister of India Manmohan Singh arrives in Saudi Arabia on the first PM visit there since Indira Gandhi's in 1982. ](/news/2010/02/27/prime-minister-of-india-manmohan-singh-arrives-in-saudi-arabia-on-the-first-pm-visit-there-since-indira-gandhi-s-in-1982.md)
-_Context: Indira Gandhi, Manmohan Singh, Indian Prime Minister, Saudi Arabia_
+_Context: Indira Gandhi, Indian Prime Minister, Saudi Arabia, Manmohan Singh_
 
 ##### Egypt
 ### [Egyptian prosecutors begin investigating yesterday's incident where an Italian cruise liner smashed into a dock at Sharm el-Sheikh during severe weather conditions, killing sailors from Brazil, Honduras and India and injuring several passengers. ](/news/2010/02/27/egyptian-prosecutors-begin-investigating-yesterday-s-incident-where-an-italian-cruise-liner-smashed-into-a-dock-at-sharm-el-sheikh-during-se.md)
@@ -21,11 +21,11 @@ _Context: Pakistan, Dera Ghazi Khan_
 
 ##### Lantern Festival
 ### [19 are killed and dozens are injured by firecrackers during the Lantern Festival celebrations in Puning, Guangdong. ](/news/2010/02/27/19-are-killed-and-dozens-are-injured-by-firecrackers-during-the-lantern-festival-celebrations-in-puning-guangdong.md)
-_Context: Lantern Festival, Puning, Guangdong_
+_Context: Puning, Lantern Festival, Guangdong_
 
 ##### Yuan
 ### [A drought causes at least 10 billion yuan ($1.46 billion) in direct economic loss at Fanaga village of Luquan county, near Kunming, capital of Yunnan. ](/news/2010/02/27/a-drought-causes-at-least-10-billion-yuan-1-46-billion-in-direct-economic-loss-at-fanaga-village-of-luquan-county-near-kunming-capital.md)
-_Context: Yunnan, yuan, Kunming, Fanaga village, Luquan_
+_Context: Kunming, Luquan, Yunnan, yuan, Fanaga village_
 
 ##### Colombia
 ### [Constitutional judges in Colombia reject a referendum to allow President lvaro Uribe to stand for a third term in office. ](/news/2010/02/27/constitutional-judges-in-colombia-reject-a-referendum-to-allow-president-alvaro-uribe-to-stand-for-a-third-term-in-office.md)

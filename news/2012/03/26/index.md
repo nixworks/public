@@ -5,19 +5,19 @@ Formats: [HTML](2012/03/26/index.html)  [JSON](2012/03/26/index.json)  [XML](201
 
 ##### Afghanistan
 ### [An Afghan police officer shoots and kills two British military personnel before being gunned down. ](/news/2012/03/26/an-afghan-police-officer-shoots-and-kills-two-british-military-personnel-before-being-gunned-down.md)
-_Context: Afghanistan, British military_
+_Context: British military, Afghanistan_
 
 ##### Tibet
 ### [A Tibetan protester self-immolates during a protest in the Indian capital New Delhi, ahead of a visit by the Chinese president Hu Jintao. ](/news/2012/03/26/a-tibetan-protester-self-immolates-during-a-protest-in-the-indian-capital-new-delhi-ahead-of-a-visit-by-the-chinese-president-hu-jintao.md)
-_Context: India, self-immolation, Hu Jintao, Tibet, China, New Delhi_
+_Context: self-immolation, India, Hu Jintao, Tibet, China, New Delhi_
 
 ##### Colombia
 ### [Colombian forces kill 32 FARC rebels in the latest government offensive. ](/news/2012/03/26/colombian-forces-kill-32-farc-rebels-in-the-latest-government-offensive.md)
-_Context: FARC, Colombia_
+_Context: Colombia, FARC_
 
 ##### Somali pirates
 ### [Somali pirates hijack an Iranian-owned cargo ship with 23 crew in waters off the Maldives - the first hijacking in such territory. ](/news/2012/03/26/somali-pirates-hijack-an-iranian-owned-cargo-ship-with-23-crew-in-waters-off-the-maldives-the-first-hijacking-in-such-territory.md)
-_Context: Somali pirates, Maldives, Iran_
+_Context: Maldives, Iran, Somali pirates_
 
 ##### Syria
 ### [Syria responds to a peace plan proposed by envoy Kofi Annan to end the violence in the country. ](/news/2012/03/26/syria-responds-to-a-peace-plan-proposed-by-envoy-kofi-annan-to-end-the-violence-in-the-country.md)
@@ -53,15 +53,15 @@ The former head of the International Monetary Fund, Dominique Strauss-Kahn, face
 
 ##### BBC
 ### [The BBC's "Panorama" alleges that a company owned by News Corporation recruited a pay-TV "pirate" to hack a rival's secret codes then post the details online. ](/news/2012/03/26/the-bbc-s-panorama-alleges-that-a-company-owned-by-news-corporation-recruited-a-pay-tv-pirate-to-hack-a-rival-s-secret-codes-then-post-t.md)
-_Context: BBC, Panorama, News Corporation_
+_Context: News Corporation, BBC, Panorama_
 
 ##### Campbell Newman
 ### [Campbell Newman is sworn in as the new Premier of the Australian state of Queensland following a landslide victory in Saturday's election. ](/news/2012/03/26/campbell-newman-is-sworn-in-as-the-new-premier-of-the-australian-state-of-queensland-following-a-landslide-victory-in-saturday-s-election.md)
-_Context: Australia, election, Campbell Newman, Queensland, Premier_
+_Context: Queensland, Campbell Newman, Australia, Premier, election_
 
 ##### Macky Sall
 ### [Macky Sall, former Prime Minister under Abdoulaye Wade's administration, is elected President of Senegal. ](/news/2012/03/26/macky-sall-former-prime-minister-under-abdoulaye-wade-s-administration-is-elected-president-of-senegal.md)
-_Context: Macky Sall, Abdoulaye Wade, President, Senegal, Prime Minister of Senegal, elected_
+_Context: Macky Sall, Prime Minister of Senegal, President, Abdoulaye Wade, elected, Senegal_
 
 ##### Cash for Access
 ### [In the wake of the Cash for Access scandal British Prime Minister, David Cameron publishes details of Conservative Party donors who have had dinner with him at 10 Downing Street. ](/news/2012/03/26/in-the-wake-of-the-cash-for-access-scandal-british-prime-minister-david-cameron-publishes-details-of-conservative-party-donors-who-have-had.md)

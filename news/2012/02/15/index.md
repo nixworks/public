@@ -21,7 +21,7 @@ Record label Sony apologises for increasing the price of two Whitney Houston alb
 
 ##### Coal miner
 ### [Approximately 3000 coal miners working for BHP Billiton in the Australian state of Queensland commence a week-long strike. ](/news/2012/02/15/approximately-3000-coal-miners-working-for-bhp-billiton-in-the-australian-state-of-queensland-commence-a-week-long-strike.md)
-_Context: BHP Billiton, Australia, coal miner, Queensland_
+_Context: Queensland, BHP Billiton, Australia, coal miner_
 
 ##### 
 ### [The UK unemployment rate reaches a 17-year high. ](/news/2012/02/15/the-uk-unemployment-rate-reaches-a-17-year-high.md)
@@ -43,7 +43,7 @@ Four TCU football players were arrested in a drug sweep on and around campus on 
 
 ##### Anti-Counterfeiting Trade Agreement
 ### [ACTA loses further support in Europe as Bulgaria and the Netherlands join Poland and Germany in declining to ratify it due to privacy and human rights concerns. ](/news/2012/02/15/acta-loses-further-support-in-europe-as-bulgaria-and-the-netherlands-join-poland-and-germany-in-declining-to-ratify-it-due-to-privacy-and-hu.md)
-_Context: Anti-Counterfeiting Trade Agreement, Bulgaria, German, Netherlands, Europe, Polish_
+_Context: Bulgaria, Anti-Counterfeiting Trade Agreement, Polish, Netherlands, German, Europe_
 
 ##### Kim Jong-il
 ### [A giant statue of Kim Jong-il is unveiled in North Korea ahead of the 70th anniversary of his birthday. ](/news/2012/02/15/a-giant-statue-of-kim-jong-il-is-unveiled-in-north-korea-ahead-of-the-70th-anniversary-of-his-birthday.md)

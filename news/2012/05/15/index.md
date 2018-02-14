@@ -9,11 +9,11 @@ At least 20 people are killed by Syrian security forces in the north-west town o
 
 ##### Yemen
 ### [At least 44 people are killed amid a Yemeni government offensive to retake Zinjibar and Jaar from Islamist militants. Among the casualties are three soldiers and at least 11 civilians. ](/news/2012/05/15/at-least-44-people-are-killed-amid-a-yemeni-government-offensive-to-retake-zinjibar-and-jaar-from-islamist-militants-among-the-casualties-a.md)
-_Context: Ja'ar, Zinjibar, Yemen_
+_Context: Zinjibar, Yemen, Ja'ar_
 
 ##### Colombia
 ### [A targeted bombing in the Colombian capital Bogota injures former Interior Minister Fernando Londono, and kills his driver and a police officer. ](/news/2012/05/15/a-targeted-bombing-in-the-colombian-capital-bogota-injures-former-interior-minister-fernando-londoa-o-and-kills-his-driver-and-a-police-off.md)
-_Context: Bogota, Colombia, Interior Minister, Fernando Londono_
+_Context: Colombia, Bogota, Fernando Londono, Interior Minister_
 
 ##### Mexican
 ### [Mexican author Carlos Fuentes, one of the leading authors of the Latin American literary boom, dies in Mexico aged 83. ](/news/2012/05/15/mexican-author-carlos-fuentes-one-of-the-leading-authors-of-the-latin-american-literary-boom-dies-in-mexico-aged-83.md)
@@ -29,11 +29,11 @@ A Wal-Mart customer is recovering after he was bitten by a rattlesnake while sho
 
 ##### Sets herself alight
 ### [A man sets himself on fire outside the Oslo courthouse where mass murderer Anders Behring Breivik is on trial for the 2011 Norway attacks. ](/news/2012/05/15/a-man-sets-himself-on-fire-outside-the-oslo-courthouse-where-mass-murderer-anders-behring-breivik-is-on-trial-for-the-2011-norway-attacks.md)
-_Context: Oslo, 2011 Norway attacks, Anders Behring Breivik, sets herself alight_
+_Context: Oslo, 2011 Norway attacks, sets herself alight, Anders Behring Breivik_
 
 ##### India
 ### [Indian child actress Taruni Sachdev and her mother are revealed to be among the dead in yesterday's plane crash in northern Nepal, which killed 15 people. ](/news/2012/05/15/indian-child-actress-taruni-sachdev-and-her-mother-are-revealed-to-be-among-the-dead-in-yesterday-s-plane-crash-in-northern-nepal-which-kil.md)
-_Context: India, Taruni Sachdev, Nepal, plane crash_
+_Context: plane crash, Taruni Sachdev, Nepal, India_
 
 ##### Palestinian
 ### [Thousands of Palestinians demonstrate on the 64th anniversary of their "Nakba" (en, in remembrance of their exodus from the former Mandate of Palestine after Israel's declaration of independence in 1948. Demonstrators and Israeli policemen are lightly injured in several clashes. ](/news/2012/05/15/thousands-of-palestinians-demonstrate-on-the-64th-anniversary-of-their-nakba-en-in-remembrance-of-their-exodus-from-the-former-mandate-o.md)
@@ -49,7 +49,7 @@ Rebekah Brooks, the former News International chief executive, has been charged 
 
 ##### Iran
 ### [Majid Jamali Fashi, convicted of killing Iranian quantum field theorist and elementary-particle physicist Masoud Alimohammadi, is executed. ](/news/2012/05/15/majid-jamali-fashi-convicted-of-killing-iranian-quantum-field-theorist-and-elementary-particle-physicist-masoud-alimohammadi-is-executed.md)
-_Context: elementary-particle physicist, quantum field theorist, Iran, Masoud Alimohammadi_
+_Context: elementary-particle physicist, Masoud Alimohammadi, quantum field theorist, Iran_
 
 ##### Port St. John
 ### [A mother kills her four children and then herself in Port St. John, Florida. ](/news/2012/05/15/a-mother-kills-her-four-children-and-then-herself-in-port-st-john-florida.md)

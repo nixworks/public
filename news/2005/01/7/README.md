@@ -21,7 +21,7 @@ _Context: Baghdad_
 
 ##### Palestinians
 ### [ Palestinian presidential candidate Mustafa Barghouti is arrested by Israeli police on the last day of the campaign as he tried to enter the Al-Aqsa Mosque. ](/news/2005/01/7/palestinian-presidential-candidate-mustafa-barghouti-is-arrested-by-israeli-police-on-the-last-day-of-the-campaign-as-he-tried-to-enter-the.md)
-_Context: Al-Aqsa Mosque, Israel, Palestinians, Mustafa Barghouti, Palestinian presidential election_
+_Context: Palestinians, Mustafa Barghouti, Palestinian presidential election, Israel, Al-Aqsa Mosque_
 
 ##### Infant formula
 ### [ The People's Republic of China jails five people for eight years for selling fake infant formula, which has caused the deaths of at least 13 infants and illness in 189. ](/news/2005/01/7/the-people-s-republic-of-china-jails-five-people-for-eight-years-for-selling-fake-infant-formula-which-has-caused-the-deaths-of-at-least-1.md)
@@ -37,7 +37,7 @@ _Context: Chile, Augusto Pinochet_
 
 ##### Edgar Ray Killen
 ### [ 80-year-old Edgar Ray Killen is arrested for the 1964 killings of three civil rights workers that inspired the American Civil Rights Movement and the film "Mississippi Burning". ](/news/2005/01/7/80-year-old-edgar-ray-killen-is-arrested-for-the-1964-killings-of-three-civil-rights-workers-that-inspired-the-american-civil-rights-moveme.md)
-_Context: civil rights, Mississippi Burning, American Civil Rights Movement, Edgar Ray Killen, 1964_
+_Context: Edgar Ray Killen, American Civil Rights Movement, 1964, Mississippi Burning, civil rights_
 
 ## [Previous Day...](/news/2005/01/6/index.md)
 

@@ -13,11 +13,11 @@ Both sides to hold a five-hour pause in fighting to allow UN humanitarian aid to
 
 ##### Kabul International Airport
 ### [Explosions and gunfire are reported near Kabul International Airport in Afghanistan as militants temporarily capture a building under construction. ](/news/2014/07/17/explosions-and-gunfire-are-reported-near-kabul-international-airport-in-afghanistan-as-militants-temporarily-capture-a-building-under-constr.md)
-_Context: Afghanistan, Kabul International Airport_
+_Context: Kabul International Airport, Afghanistan_
 
 ##### Tunisian soldiers
 ### [At least 14 Tunisian soldiers are reportedly killed following Islamist militant attacks at two checkpoints near the Algerian border with at least 20 others wounded, a group called the Okba Ben Nafaa Brigade has claimed responsibility. ](/news/2014/07/17/at-least-14-tunisian-soldiers-are-reportedly-killed-following-islamist-militant-attacks-at-two-checkpoints-near-the-algerian-border-with-at.md)
-_Context: Algeria, attacks, Tunisian soldiers_
+_Context: Tunisian soldiers, attacks, Algeria_
 
 ##### United States Holocaust Memorial Museum
 ### [The United States Holocaust Memorial Museum obtains a full copy of the archives of the United Nations War Crimes Commission from World War II and makes it available online. ](/news/2014/07/17/the-united-states-holocaust-memorial-museum-obtains-a-full-copy-of-the-archives-of-the-united-nations-war-crimes-commission-from-world-war-i.md)
@@ -37,7 +37,7 @@ A firefighting helicopter crashed Thursday near an apartment complex and school 
 
 ##### Train
 ### [A fire on a train at Busan Metro in the South Korean port city of Busan leaves five people injured and 100 people were evacuated. ](/news/2014/07/17/a-fire-on-a-train-at-busan-metro-in-the-south-korean-port-city-of-busan-leaves-five-people-injured-and-100-people-were-evacuated.md)
-_Context: train, Busan Metro, Busan, South Korea_
+_Context: South Korea, Busan Metro, train, Busan_
 
 ##### Regional train
 ### [A French regional train on the Pau-Bayonne line crashes into a high-speed train near the town of Denguin, resulting in at least 25 injuries. ](/news/2014/07/17/a-french-regional-train-on-the-pau-bayonne-line-crashes-into-a-high-speed-train-near-the-town-of-denguin-resulting-in-at-least-25-injuries.md)
@@ -45,7 +45,7 @@ A French high-speed TGV train is involved in a collision with a regional express
 
 ##### Dr. Harsh Vardhan
 ### [Health Minister Dr. Harsh Vardhan stands for the protection of Homosexual rights in India. ](/news/2014/07/17/health-minister-dr-harsh-vardhan-stands-for-the-protection-of-homosexual-rights-in-india.md)
-_Context: Homosexual rights, Dr. Harsh Vardhan_
+_Context: Dr. Harsh Vardhan, Homosexual rights_
 
 ##### Death penalty
 ### [A federal judge rules the death penalty in California is unconstitutional. ](/news/2014/07/17/a-federal-judge-rules-the-death-penalty-in-california-is-unconstitutional.md)

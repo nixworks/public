@@ -9,11 +9,11 @@ A government spokesman says Mexican marines have arrested seven gunmen suspected
 
 ##### Charities Aid Foundation's
 ### [A Charities Aid Foundation survey finds that Australia, New Zealand and Canada are the most generous contributors to charity. ](/news/2010/09/8/a-charities-aid-foundation-survey-finds-that-australia-new-zealand-and-canada-are-the-most-generous-contributors-to-charity.md)
-_Context: charity, Charities Aid Foundation's, Canadian, New Zealand, Australia_
+_Context: New Zealand, Australia, Charities Aid Foundation's, Canadian, charity_
 
 ##### Oil rig
 ### [Two workers are missing and more than thirty workers are trapped in an oil rig in the Shengli oil field off Dongying in China's Shandong province. ](/news/2010/09/8/two-workers-are-missing-and-more-than-thirty-workers-are-trapped-in-an-oil-rig-in-the-shengli-oil-field-off-dongying-in-china-s-shandong-pro.md)
-_Context: Dongying, Shandong, oil rig, Chinese_
+_Context: Shandong, Chinese, Dongying, oil rig_
 
 ##### State of emergency
 ### [The state of emergency in Christchurch, New Zealand, is extended for another week following an aftershock to Saturday's earthquake in Lyttelton. ](/news/2010/09/8/the-state-of-emergency-in-christchurch-new-zealand-is-extended-for-another-week-following-an-aftershock-to-saturday-s-earthquake-in-lyttel.md)
@@ -21,19 +21,19 @@ The state of emergency in earthquake-stricken Christchurch has been extended for
 
 ##### Wildfire
 ### [Eight people are missing and at least fifty-four houses are destroyed in a wildfire burning west of Boulder, Colorado, in the United States. ](/news/2010/09/8/eight-people-are-missing-and-at-least-fifty-four-houses-are-destroyed-in-a-wildfire-burning-west-of-boulder-colorado-in-the-united-states.md)
-_Context: Colorado, Boulder, U.S., wildfire_
+_Context: wildfire, U.S., Boulder, Colorado_
 
 ##### Tropical Storm Hermine
 ### [The remnants of Tropical Storm Hermine causes widespread flooding in the US states of Texas and Oklahoma with at least two people dead. ](/news/2010/09/8/the-remnants-of-tropical-storm-hermine-causes-widespread-flooding-in-the-us-states-of-texas-and-oklahoma-with-at-least-two-people-dead.md)
-_Context: Texas, U.S., Oklahoma, Tropical Storm Hermine_
+_Context: U.S., Texas, Oklahoma, Tropical Storm Hermine_
 
 ##### South Korea
 ### [South Korea unveils sanctions against Iran for its nuclear program. ](/news/2010/09/8/south-korea-unveils-sanctions-against-iran-for-its-nuclear-program.md)
-_Context: nuclear program, South Korea, Iran, sanctions_
+_Context: sanctions, Iran, nuclear program, South Korea_
 
 ##### Japan
 ### [Japan detains a Chinese fishing boat found near the disputed Pinnacle Islands in the East China Sea. ](/news/2010/09/8/japan-detains-a-chinese-fishing-boat-found-near-the-disputed-pinnacle-islands-in-the-east-china-sea.md)
-_Context: East China Sea, fishing boat, Japan, Chinese, Pinnacle Islands_
+_Context: Chinese, East China Sea, Pinnacle Islands, fishing boat, Japan_
 
 ##### NSW
 ### [The New South Wales parliament votes to legalise adoption by same sex couples in Australia's most populous state. ](/news/2010/09/8/the-new-south-wales-parliament-votes-to-legalise-adoption-by-same-sex-couples-in-australia-s-most-populous-state.md)
@@ -41,7 +41,7 @@ A bill giving same-sex couples the right to adopt has been passed by both houses
 
 ##### Police
 ### [Police in Europe shut down 49 servers and detain ten people in a raid across thirteen countries in a crackdown on film piracy. ](/news/2010/09/8/police-in-europe-shut-down-49-servers-and-detain-ten-people-in-a-raid-across-thirteen-countries-in-a-crackdown-on-film-piracy.md)
-_Context: Police, servers, Europe, film piracy_
+_Context: servers, film piracy, Police, Europe_
 
 ##### United States Court of Appeals for the Ninth Circuit
 ### [The United States Court of Appeals for the Ninth Circuit dismisses a lawsuit associated with the Central Intelligence Agency's practice of "extraordinary rendition". ](/news/2010/09/8/the-united-states-court-of-appeals-for-the-ninth-circuit-dismisses-a-lawsuit-associated-with-the-central-intelligence-agency-s-practice-of.md)

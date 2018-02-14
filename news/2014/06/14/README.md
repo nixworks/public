@@ -5,7 +5,7 @@ Formats: [HTML](2014/06/14/index.html)  [JSON](2014/06/14/index.json)  [XML](201
 
 ##### 2014 pro-Russian conflict in Ukraine
 ### [A Ukraine military Ilyushin Il-76 airlifter is shot down, killing all 49 people on board. ](/news/2014/06/14/a-ukraine-military-ilyushin-il-76-airlifter-is-shot-down-killing-all-49-people-on-board.md)
-_Context: Ilyushin Il-76, is shot down, Ukrainian military, 2014 pro-Russian conflict in Ukraine_
+_Context: 2014 pro-Russian conflict in Ukraine, Ukrainian military, Ilyushin Il-76, is shot down_
 
 ##### Syrian Civil War
 ### [A bomb explodes in the town of al-Mayadin in Deir al-Zor province near the Iraqi border killing 8. ](/news/2014/06/14/a-bomb-explodes-in-the-town-of-al-mayadin-in-deir-al-zor-province-near-the-iraqi-border-killing-8.md)
@@ -17,11 +17,11 @@ More than 1,000 soldiers have paraded in front of the Queen as she celebrated he
 
 ##### Alexander Stubb
 ### [Alexander Stubb is elected new leader of the National Coalition Party and thus the new prime minister of Finland, the first Swedish-speaking Finn to hold the post since 1959. ](/news/2014/06/14/alexander-stubb-is-elected-new-leader-of-the-national-coalition-party-and-thus-the-new-prime-minister-of-finland-the-first-swedish-speaking.md)
-_Context: 1959, Alexander Stubb, Swedish-speaking Finn, National Coalition Party, prime minister of Finland_
+_Context: National Coalition Party, Alexander Stubb, Swedish-speaking Finn, 1959, prime minister of Finland_
 
 ##### Afghan presidential election, 2014
 ### [Voters in Afghanistan go to the polls for the second round of voting with the Taliban threatening polling booths. Dozens of people are killed across the country. ](/news/2014/06/14/voters-in-afghanistan-go-to-the-polls-for-the-second-round-of-voting-with-the-taliban-threatening-polling-booths-dozens-of-people-are-kille.md)
-_Context: Afghan presidential election, 2014, Afghanistan, Taliban_
+_Context: Afghan presidential election, 2014, Taliban, Afghanistan_
 
 ## [Previous Day...](/news/2014/06/13/index.md)
 

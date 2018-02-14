@@ -33,7 +33,7 @@ _Context: Orange County_
 
 ##### Templo Mayor
 ### [Anthropologists find the skeleton of a young woman inside a burial in Templo Mayor, surrounded by piles of 1,789 human bones. This finding is "unprecedented for the Aztec culture." ](/news/2012/08/8/anthropologists-find-the-skeleton-of-a-young-woman-inside-a-burial-in-templo-mayor-surrounded-by-piles-of-1-789-human-bones-this-finding-i.md)
-_Context: Templo Mayor, Aztec_
+_Context: Aztec, Templo Mayor_
 
 ##### Marvin Lee Wilson
 ### [Marvin Lee Wilson is executed by the state of Texas despite the low IQ results that could have invalidated his punishment. ](/news/2012/08/8/marvin-lee-wilson-is-executed-by-the-state-of-texas-despite-the-low-iq-results-that-could-have-invalidated-his-punishment.md)
@@ -57,7 +57,7 @@ _Context: 2011 Tucson shooting, Jared Lee Loughner_
 
 ##### German
 ### [30 leading German managers write a letter to the leaders of the parliamentary groups where they ask for the ratification of the United Nations Convention against Corruption. ](/news/2012/08/8/30-leading-german-managers-write-a-letter-to-the-leaders-of-the-parliamentary-groups-where-they-ask-for-the-ratification-of-the-united-natio.md)
-_Context: United Nations Convention against Corruption, German_
+_Context: German, United Nations Convention against Corruption_
 
 ##### Prime Minister of Japan
 ### [Japanese Prime Minister Yoshihiko Noda announces that the ruling Democratic Party of Japan has reached an agreement with the opposition Liberal Democratic and New Komeito parties to pass a bill that will raise Japan's consumption tax rate. This will "shortly" be followed by dissolution of the Diet and a snap election, although no timetable has been set. ](/news/2012/08/8/japanese-prime-minister-yoshihiko-noda-announces-that-the-ruling-democratic-party-of-japan-has-reached-an-agreement-with-the-opposition-libe.md)
@@ -65,7 +65,7 @@ Japan is set to pass legislation tomorrow to raise the sales tax after the main 
 
 ##### Ukrainian President
 ### [President of Ukraine Viktor Yanukovych signs a controversial law about official status of 18 languages (including Russian, Hungarian, Crimean Tatar language, etc.) as regional and minority languages, allowing officials in Russian-speaking regions of the country to use Russian at public events and in documents. ](/news/2012/08/8/president-of-ukraine-viktor-yanukovych-signs-a-controversial-law-about-official-status-of-18-languages-including-russian-hungarian-crimea.md)
-_Context: Viktor Yanukovych, regional, Crimean Tatar language, Russian-speaking regions, minority language, Russian language, Ukrainian President, Hungarian_
+_Context: Russian language, Hungarian, Crimean Tatar language, minority language, Ukrainian President, regional, Viktor Yanukovych, Russian-speaking regions_
 
 ## [Previous Day...](/news/2012/08/7/index.md)
 

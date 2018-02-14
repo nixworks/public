@@ -9,11 +9,11 @@ Ukrainian police are continuing to storm the main anti-government protest camp i
 
 ##### Syrian Civil War spillover in Lebanon
 ### [Two people are killed and 38 injured in a bombing of a Hezbollah stronghold in Beirut. ](/news/2014/02/19/two-people-are-killed-and-38-injured-in-a-bombing-of-a-hezbollah-stronghold-in-beirut.md)
-_Context: Hezbollah, Syrian Civil War spillover in Lebanon, Beirut_
+_Context: Hezbollah, Beirut, Syrian Civil War spillover in Lebanon_
 
 ##### Nadezhda Tolokonnikova
 ### [Nadezhda Tolokonnikova and Maria Alyokhina, former members of Pussy Riot, are arrested and subsequently released after protesting during the 2014 Winter Olympics in Sochi. ](/news/2014/02/19/nadezhda-tolokonnikova-and-maria-alyokhina-former-members-of-pussy-riot-are-arrested-and-subsequently-released-after-protesting-during-the.md)
-_Context: Pussy Riot, 2014 Winter Olympics, Maria Alyokhina, Nadezhda Tolokonnikova, Sochi_
+_Context: Maria Alyokhina, Nadezhda Tolokonnikova, Sochi, 2014 Winter Olympics, Pussy Riot_
 
 ##### Parliament of India
 ### [The Parliament of India passes a bill that would make the historic region of Telangana into a state. ](/news/2014/02/19/the-parliament-of-india-passes-a-bill-that-would-make-the-historic-region-of-telangana-into-a-state.md)
@@ -29,11 +29,11 @@ Chinese state-owned automaker Dongfeng Motor is snapping up a billion dollar sli
 
 ##### Facebook
 ### [Facebook announced it is acquiring WhatsApp for US$19 billion in cash and stock. ](/news/2014/02/19/facebook-announced-it-is-acquiring-whatsapp-for-us-19-billion-in-cash-and-stock.md)
-_Context: Facebook, WhatsApp_
+_Context: WhatsApp, Facebook_
 
 ##### Botswana
 ### [Botswana ends diplomatic relations with North Korea following a UN report on the latter's human rights record. ](/news/2014/02/19/botswana-ends-diplomatic-relations-with-north-korea-following-a-un-report-on-the-latter-s-human-rights-record.md)
-_Context: Botswana, North Korea, human rights_
+_Context: Botswana, human rights, North Korea_
 
 ##### India
 ### [The government of the Indian state of Tamil Nadu decides to free three men and a woman found guilty of assassinating former Prime Minister Rajiv Gandhi in 1991. ](/news/2014/02/19/the-government-of-the-indian-state-of-tamil-nadu-decides-to-free-three-men-and-a-woman-found-guilty-of-assassinating-former-prime-minister-r.md)

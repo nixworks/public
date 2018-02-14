@@ -9,15 +9,15 @@ _Context: Thailand, Samak Sundaravej, 2007 general elections, People's Power Par
 
 ##### Saudi Arabia
 ### [ Saudi police arrest 28 men for allegedly planning terrorist attacks against holy sites in Mecca and Medina. ](/news/2007/12/23/saudi-police-arrest-28-men-for-allegedly-planning-terrorist-attacks-against-holy-sites-in-mecca-and-medina.md)
-_Context: Medina, terrorist attacks, Mecca, Saudi Arabia_
+_Context: Saudi Arabia, Mecca, terrorist attacks, Medina_
 
 ##### India
 ### [ India's Bharatiya Janata Party win elections in the state of Gujarat. ](/news/2007/12/23/india-s-bharatiya-janata-party-win-elections-in-the-state-of-gujarat.md)
-_Context: Bharatiya Janata Party, India, Gujarat_
+_Context: Gujarat, Bharatiya Janata Party, India_
 
 ##### Nepal
 ### [ The Nepalese legislature agrees to abolish the country's 240-year-old monarchy. ](/news/2007/12/23/the-nepalese-legislature-agrees-to-abolish-the-country-s-240-year-old-monarchy.md)
-_Context: Nepal, no sitting national Legislature, monarchy_
+_Context: monarchy, no sitting national Legislature, Nepal_
 
 ## [Previous Day...](/news/2007/12/22/index.md)
 

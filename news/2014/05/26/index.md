@@ -13,7 +13,7 @@ _Context: Nigeria, 276 girls kidnapped from northern Nigeria, Abuja, Boko Haram_
 
 ##### Islam
 ### [Islamist terror group Boko Haram kills at least 33 security personnel during attacks in Nigeria's northeastern Yobe State. ](/news/2014/05/26/islamist-terror-group-boko-haram-kills-at-least-33-security-personnel-during-attacks-in-nigeria-s-northeastern-yobe-state.md)
-_Context: Yobe State, Boko Haram, Nigeria, Islam_
+_Context: Boko Haram, Islam, Nigeria, Yobe State_
 
 ##### Pfizer
 ### [Drugmaker Pfizer says it will not proceed with its attempted $119 billion bid for AstraZeneca. ](/news/2014/05/26/drugmaker-pfizer-says-it-will-not-proceed-with-its-attempted-119-billion-bid-for-astrazeneca.md)
@@ -33,7 +33,7 @@ Storms in southern and central China have left at least 26 people dead and 10 mi
 
 ##### 2014 Thai coup d'tat
 ### [Coup leader Prayuth Chan-ocha claims to have the confidence of King of Thailand Bhumibol Adulyadej. ](/news/2014/05/26/coup-leader-prayuth-chan-ocha-claims-to-have-the-confidence-of-king-of-thailand-bhumibol-adulyadej.md)
-_Context: Prayuth Chan-ocha, King, Bhumibol Adulyadej, 2014 Thai coup d'tat_
+_Context: King, 2014 Thai coup d'tat, Bhumibol Adulyadej, Prayuth Chan-ocha_
 
 ##### Narendra Modi
 ### [Shri Narendra Modi is sworn in as the 15th Prime Minister of India. ](/news/2014/05/26/shri-narendra-modi-is-sworn-in-as-the-15th-prime-minister-of-india.md)
@@ -41,7 +41,7 @@ _Context: Narendra Modi, Indian Prime Minister_
 
 ##### Egyptian presidential election, 2014
 ### [Voters in Egypt go to the polls in the first of a two day voting period with Field Marshal Abdel Fattah el-Sisi expected to be elected. ](/news/2014/05/26/voters-in-egypt-go-to-the-polls-in-the-first-of-a-two-day-voting-period-with-field-marshal-abdel-fattah-el-sisi-expected-to-be-elected.md)
-_Context: Abdel Fattah el-Sisi, Egypt, Egyptian presidential election, 2014_
+_Context: Egyptian presidential election, 2014, Abdel Fattah el-Sisi, Egypt_
 
 ## [Previous Day...](/news/2014/05/25/index.md)
 

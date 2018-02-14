@@ -9,15 +9,15 @@ _Context: STS-120, International Space Station_
 
 ##### Earthquake
 ### [ A moderate earthquake of 5.6 magnitude strikes 9 miles northeast of San Jose, California. ](/news/2007/10/30/a-moderate-earthquake-of-5-6-magnitude-strikes-9-miles-northeast-of-san-jose-california.md)
-_Context: magnitude, San Jose, California, earthquake_
+_Context: magnitude, earthquake, San Jose, California_
 
 ##### Tropical Storm Noel
 ### [ Tropical Storm Noel weakens after causing between 11 and 25 deaths in the Dominican Republic. ](/news/2007/10/30/tropical-storm-noel-weakens-after-causing-between-11-and-25-deaths-in-the-dominican-republic.md)
-_Context: Tropical Storm Noel, Dominican Republic_
+_Context: Dominican Republic, Tropical Storm Noel_
 
 ##### Patricia Etteh
 ### [ Patricia Etteh resigns as speaker of Nigeria's House of Representatives amid accusations of corruption. ](/news/2007/10/30/patricia-etteh-resigns-as-speaker-of-nigeria-s-house-of-representatives-amid-accusations-of-corruption.md)
-_Context: Patricia Etteh, Nigeria, House of Representatives, speaker_
+_Context: Nigeria, House of Representatives, speaker, Patricia Etteh_
 
 ##### United States Supreme Court
 ### [ The United States Supreme Court halts an execution in Mississippi pending its decision as to whether lethal injections are a form of cruel and unusual punishment. ](/news/2007/10/30/the-united-states-supreme-court-halts-an-execution-in-mississippi-pending-its-decision-as-to-whether-lethal-injections-are-a-form-of-cruel.md)

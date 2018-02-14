@@ -5,19 +5,19 @@ Formats: [HTML](2006/06/15/index.html)  [JSON](2006/06/15/index.json)  [XML](200
 
 ##### Supreme Court of the United States
 ### [ U.S. Supreme Court Justice Samuel Alito breaks a tie in a 5-4 decision in "Hudson v. Michigan", allowing evidence admitted in cases where police did not knock and announce themselves when executing a search warrant. ](/news/2006/06/15/u-s-supreme-court-justice-samuel-alito-breaks-a-tie-in-a-5-4-decision-in-hudson-v-michigan-allowing-evidence-admitted-in-cases-where-p.md)
-_Context: warrant, police, Hudson v. Michigan, Supreme Court of the United States, knock and announce, Samuel Alito_
+_Context: Samuel Alito, Hudson v. Michigan, Supreme Court of the United States, warrant, police, knock and announce_
 
 ##### Movement of the Democratic Forces of Casamance
 ### [ Hundreds are wounded in fighting between rival factions of the Movement of the Democratic Forces of Casamance led by Salif Sadio, who supports the continuation of the Casamance Conflict, and Magne Dieme, who supports reconciliation with the Government of Senegal. The fighting has spread to The Gambia and Guinea-Bissau may intervene. ](/news/2006/06/15/hundreds-are-wounded-in-fighting-between-rival-factions-of-the-movement-of-the-democratic-forces-of-casamance-led-by-salif-sadio-who-suppo.md)
-_Context: Magne Dieme, Government of Senegal, Casamance Conflict, Guinea-Bissau, Salif Sadio, The Gambia, Movement of the Democratic Forces of Casamance_
+_Context: Guinea-Bissau, Movement of the Democratic Forces of Casamance, Government of Senegal, Salif Sadio, Casamance Conflict, Magne Dieme, The Gambia_
 
 ##### Burundi
 ### [ Burundi rebel group Fighters of the National Liberation Forces, the last active rebel group in the country, shell the capital Bujumbura with 15 60mm mortars injuring at least eight civilians despite ongoing peace talks between the group and the Government of Burundi in Tanzania. ](/news/2006/06/15/burundi-rebel-group-fighters-of-the-national-liberation-forces-the-last-active-rebel-group-in-the-country-shell-the-capital-bujumbura-wit.md)
-_Context: Fighters of the National Liberation Forces, Bujumbura, Burundi, Government of Burundi, Tanzania_
+_Context: Burundi, Government of Burundi, Tanzania, Bujumbura, Fighters of the National Liberation Forces_
 
 ##### Taliban
 ### [ Coalition forces in Afghanistan launch and execute Operation Mountain Thrust to drive Taliban forces out of the southern provinces of Afghanistan. The operation is the largest operation since the start of the Afghanistan war. ](/news/2006/06/15/coalition-forces-in-afghanistan-launch-and-execute-operation-mountain-thrust-to-drive-taliban-forces-out-of-the-southern-provinces-of-afgha.md)
-_Context: Afghanistan, War in Afghanistan (2001-present), Taliban_
+_Context: Taliban, Afghanistan, War in Afghanistan (2001-present)_
 
 ##### United States Conference of Catholic Bishops
 ### [ The United States Conference of Catholic Bishops approves a new English translation for mass. ](/news/2006/06/15/the-united-states-conference-of-catholic-bishops-approves-a-new-english-translation-for-mass.md)
@@ -29,7 +29,7 @@ Microsoft Chairman and founder Bill Gates said Thursday he plans to step away fr
 
 ##### George W. Bush
 ### [ U.S. President George W. Bush announces the establishment of the Northwestern Hawaiian Islands National Monument, the largest Marine Protected Area in the world.](/news/2006/06/15/u-s-president-george-w-bush-announces-the-establishment-of-the-northwestern-hawaiian-islands-national-monument-the-largest-marine-protec.md)
-_Context: Marine Protected Area, Northwestern Hawaiian Islands National Monument, George W. Bush_
+_Context: Northwestern Hawaiian Islands National Monument, Marine Protected Area, George W. Bush_
 
 ##### United States armed forces
 ### [ The U.S. military suffers its 2500th fatal casualty in the Iraq war. 18,490 have been wounded. ](/news/2006/06/15/the-u-s-military-suffers-its-2500th-fatal-casualty-in-the-iraq-war-18-490-have-been-wounded.md)
@@ -37,7 +37,7 @@ _Context: United States armed forces, Iraq war_
 
 ##### United Kingdom
 ### [ The United Kingdom agrees to jail former Liberian president Charles Taylor if he is convicted, removing a key obstacle to a proposed trial to be held at The Hague under the auspices of the Special Court for Sierra Leone. ](/news/2006/06/15/the-united-kingdom-agrees-to-jail-former-liberian-president-charles-taylor-if-he-is-convicted-removing-a-key-obstacle-to-a-proposed-trial.md)
-_Context: Charles G. Taylor, Special Court for Sierra Leone, United Kingdom, The Hague, Liberia_
+_Context: United Kingdom, Charles G. Taylor, Liberia, Special Court for Sierra Leone, The Hague_
 
 ##### U.S. Marine
 ### [ A video of a U.S. Marine singing a song, entitled "Hadji Girl", about the killing of Iraqi civilians, sparks outrage after being widely distributed on the Internet. Amidst huge condemnation, Cpl Joshua Belile issues an apology. A Marine spokesman, Lt. Col. Scott Fazekas, said that they were investigating. ](/news/2006/06/15/a-video-of-a-u-s-marine-singing-a-song-entitled-hadji-girl-about-the-killing-of-iraqi-civilians-sparks-outrage-after-being-widely-dis.md)

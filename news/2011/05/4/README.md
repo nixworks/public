@@ -33,7 +33,7 @@ Award-winning Bollywood actor Shiney Ahuja, who was sentenced to seven years in 
 
 ##### Daniel Barenboim
 ### [Daniel Barenboim, a conductor and pianist and "supporter of Palestinian rights", holds a "Peace Concert" in the Gaza Strip. ](/news/2011/05/4/daniel-barenboim-a-conductor-and-pianist-and-supporter-of-palestinian-rights-holds-a-peace-concert-in-the-gaza-strip.md)
-_Context: Daniel Barenboim, Palestinian, Gaza Strip_
+_Context: Palestinian, Gaza Strip, Daniel Barenboim_
 
 ##### Richard Branson
 ### [Richard Branson announces that the operations of airlines Virgin Blue, V Australia and Pacific Blue will be merged to form Virgin Australia. ](/news/2011/05/4/richard-branson-announces-that-the-operations-of-airlines-virgin-blue-v-australia-and-pacific-blue-will-be-merged-to-form-virgin-australia.md)
@@ -49,7 +49,7 @@ At least 16 persons were killed and 21 injured after a passenger bus (NA 4 Kha 4
 
 ##### Helicopter
 ### [The wreckage of a crashed helicopter containing Dorjee Khandu, Chief Minister of the Indian state of Arunachal Pradesh, is found with three bodies nearby. ](/news/2011/05/4/the-wreckage-of-a-crashed-helicopter-containing-dorjee-khandu-chief-minister-of-the-indian-state-of-arunachal-pradesh-is-found-with-three.md)
-_Context: Arunachal Pradesh, Dorjee Khandu, helicopter, Chief Minister, India_
+_Context: Arunachal Pradesh, Chief Minister, Dorjee Khandu, India, helicopter_
 
 ##### Levee
 ### [Despite the breach of a levee on the Mississippi River to ease flood pressure in southern Illinois, massive flooding continues from Minnesota to Louisiana and hundreds of square miles of mostly farmland in Missouri are under water. ](/news/2011/05/4/despite-the-breach-of-a-levee-on-the-mississippi-river-to-ease-flood-pressure-in-southern-illinois-massive-flooding-continues-from-minnesot.md)
@@ -57,11 +57,11 @@ The Mississippi river spilled out across huge swaths of farmland in the American
 
 ##### US Highway 30
 ### [Two trains collide near US Highway 30 near the US city of Portland, Oregon, causing a fire and necessitating the evacuation of nearby residents. ](/news/2011/05/4/two-trains-collide-near-us-highway-30-near-the-us-city-of-portland-oregon-causing-a-fire-and-necessitating-the-evacuation-of-nearby-reside.md)
-_Context: US Highway 30, Portland, Oregon, Oregon_
+_Context: Portland, Oregon, US Highway 30, Oregon_
 
 ##### Warren
 ### [A building explosion occurs in the US city of Warren, Michigan. ](/news/2011/05/4/a-building-explosion-occurs-in-the-us-city-of-warren-michigan.md)
-_Context: Warren, Mich._
+_Context: Mich., Warren_
 
 ##### Chile
 ### [Experts from Chile who helped rescue 33 miners trapped for more than three months in a mine last October go to assist rescue efforts in northern Mexico, where nine workers remained trapped in a mine after an explosion. ](/news/2011/05/4/experts-from-chile-who-helped-rescue-33-miners-trapped-for-more-than-three-months-in-a-mine-last-october-go-to-assist-rescue-efforts-in-nort.md)
@@ -81,7 +81,7 @@ Two Rwandan rebel leaders went on trial in Germany on Wednesday on charges of cr
 
 ##### China
 ### [China announces the creation of a State Internet Information Office to 'direct, coordinate, and supervise' online content management, prompting fears that online censorship will grow even more stringent. ](/news/2011/05/4/china-announces-the-creation-of-a-state-internet-information-office-to-direct-coordinate-and-supervise-online-content-management-prompt.md)
-_Context: State Internet Information Office, China, blocks mentions_
+_Context: State Internet Information Office, blocks mentions, China_
 
 ##### United States House of Representatives
 ### [The United States House of Representatives passes the "No Taxpayer Funding for Abortion Act" banning the direct Federal funding of abortions. ](/news/2011/05/4/the-united-states-house-of-representatives-passes-the-no-taxpayer-funding-for-abortion-act-banning-the-direct-federal-funding-of-abortions.md)

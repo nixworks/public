@@ -5,7 +5,7 @@ Formats: [HTML](2016/10/14/index.html)  [JSON](2016/10/14/index.json)  [XML](201
 
 ##### Sinai insurgency
 ### [A suspected ISIL attack on a security checkpoint in North Sinai Governorate, Egypt, leaves at least 12 Egyptian military personnel and 15 terrorists dead. ](/news/2016/10/14/a-suspected-isil-attack-on-a-security-checkpoint-in-north-sinai-governorate-egypt-leaves-at-least-12-egyptian-military-personnel-and-15-te.md)
-_Context: ISIL, Sinai insurgency, North Sinai Governorate, Egyptian military, Egypt_
+_Context: Sinai insurgency, ISIL, Egyptian military, North Sinai Governorate, Egypt_
 
 ##### Yemeni Civil War
 ### [An explosion that targeted a funeral in Ma'rib for a top Yemeni army commander, kills five people, including the deceased's brother, and injures 15 more. ](/news/2016/10/14/an-explosion-that-targeted-a-funeral-in-ma-rib-for-a-top-yemeni-army-commander-kills-five-people-including-the-deceased-s-brother-and-inj.md)
@@ -33,7 +33,7 @@ Volkswagen AG (VOWG_p.DE), in another step to move past its costly diesel emissi
 
 ##### Death and funeral of Bhumibol Adulyadej
 ### [Thailand declares today a government holiday for mourning King Bhumibol Adulyadej's death. ](/news/2016/10/14/thailand-declares-today-a-government-holiday-for-mourning-king-bhumibol-adulyadej-s-death.md)
-_Context: King, Thailand, Death and funeral of Bhumibol Adulyadej, Bhumibol Adulyadej_
+_Context: Bhumibol Adulyadej, Thailand, Death and funeral of Bhumibol Adulyadej, King_
 
 ##### Cuba-United States relations
 ### [President Barack Obama issues an executive order on Cuba lifting monetary limits on the amount of Cuban products, including cigars and rum, which Americans can bring back for personal use, allowing Cubans and Americans to engage in joint medical research, and allowing Cubans to buy certain U.S. consumer goods online. ](/news/2016/10/14/president-barack-obama-issues-an-executive-order-on-cuba-lifting-monetary-limits-on-the-amount-of-cuban-products-including-cigars-and-rum.md)

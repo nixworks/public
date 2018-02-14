@@ -9,7 +9,7 @@ _Context: general election, Multan, Prime Minister, Yousaf Raza Gillani_
 
 ##### Indonesian police
 ### [Indonesian police shoot dead seven terror suspects in raids on the island of Java including some allegedly planning to bomb the Sri Lankan embassy. ](/news/2013/05/9/indonesian-police-shoot-dead-seven-terror-suspects-in-raids-on-the-island-of-java-including-some-allegedly-planning-to-bomb-the-sri-lankan-e.md)
-_Context: Sri Lanka, Java, Indonesian police_
+_Context: Indonesian police, Java, Sri Lanka_
 
 ##### Sudan
 ### [Suspected Sudanese ivory poachers shoot dead an unknown number of elephants at the Dzanga-Ndoki National Park world heritage site in the Central African Republic, close to the border with Cameroon and the Republic of the Congo. ](/news/2013/05/9/suspected-sudanese-ivory-poachers-shoot-dead-an-unknown-number-of-elephants-at-the-dzanga-ndoki-national-park-world-heritage-site-in-the-cen.md)
@@ -33,7 +33,7 @@ A gang of cyber-criminals operating in 26 countries stole $45 million by hacking
 
 ##### Government of Australia
 ### [The Australian government announces that it will hold a referendum on recognition of local government in the constitution simultaneously with the federal election on September 14. ](/news/2013/05/9/the-australian-government-announces-that-it-will-hold-a-referendum-on-recognition-of-local-government-in-the-constitution-simultaneously-wit.md)
-_Context: Senate election, constitution, local government, referendum, Government of Australia_
+_Context: constitution, Senate election, local government, referendum, Government of Australia_
 
 ## [Previous Day...](/news/2013/05/8/index.md)
 

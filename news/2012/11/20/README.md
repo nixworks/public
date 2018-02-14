@@ -13,7 +13,7 @@ Move comes as FARC rebels declare two-month unilateral truce after holding meeti
 
 ##### Aleppo
 ### [Islamist rebel groups in Aleppo denounce what they call a "conspiratorial project" and the new Syrian opposition, and say they seek to establish an "Islamic state". ](/news/2012/11/20/islamist-rebel-groups-in-aleppo-denounce-what-they-call-a-conspiratorial-project-and-the-new-syrian-opposition-and-say-they-seek-to-estab.md)
-_Context: Syrian opposition, Aleppo_
+_Context: Aleppo, Syrian opposition_
 
 ##### Congo
 ### [Tension between central African neighbours is reaching breaking point over an uprising in Congo's eastern hills. ](/news/2012/11/20/tension-between-central-african-neighbours-is-reaching-breaking-point-over-an-uprising-in-congo-s-eastern-hills.md)
@@ -41,7 +41,7 @@ A court in Croatia sentences former Prime Minister Ivo Sanader to 10 years in pr
 
 ##### Rogue trader
 ### [Rogue trader at Swiss bank UBS Kweku Adoboli is found guilty and is sentenced to seven years in prison for his role in the 2011 UBS rogue trader scandal. ](/news/2012/11/20/rogue-trader-at-swiss-bank-ubs-kweku-adoboli-is-found-guilty-and-is-sentenced-to-seven-years-in-prison-for-his-role-in-the-2011-ubs-rogue-tr.md)
-_Context: UBS, 2011 UBS rogue trader scandal, Swiss, Kweku Adoboli, Rogue trader_
+_Context: UBS, Swiss, Rogue trader, Kweku Adoboli, 2011 UBS rogue trader scandal_
 
 ##### China
 ### [China appoints Sun Zhengcai as new chief for the city of Chongqing, once led by disgraced politician Bo Xilai. ](/news/2012/11/20/china-appoints-sun-zhengcai-as-new-chief-for-the-city-of-chongqing-once-led-by-disgraced-politician-bo-xilai.md)
@@ -49,11 +49,11 @@ China appoints a new Communist Party chief in Chongqing, the city once led by di
 
 ##### General Synod of the Church of England
 ### [The General Synod of the Church of England narrowly rejects a motion to allow women to become bishops. ](/news/2012/11/20/the-general-synod-of-the-church-of-england-narrowly-rejects-a-motion-to-allow-women-to-become-bishops.md)
-_Context: bishops, General Synod of the Church of England_
+_Context: General Synod of the Church of England, bishops_
 
 ##### United Nations
 ### [The United Nations World Meteorological Organisation says that greenhouse gases reached record levels in 2011. ](/news/2012/11/20/the-united-nations-world-meteorological-organisation-says-that-greenhouse-gases-reached-record-levels-in-2011.md)
-_Context: United Nations, World Meteorological Organisation, greenhouse gas_
+_Context: World Meteorological Organisation, United Nations, greenhouse gas_
 
 ## [Previous Day...](/news/2012/11/19/index.md)
 

@@ -9,7 +9,7 @@ _Context: Boko Haram, Nigerian Army, 2015 West African offensive, Sambisa Forest
 
 ##### Yemeni Civil War (2015)
 ### [Yemeni Civil War (2015): Dozens of Houthi fighters are killed in clashes with Saudi Arabian forces on the border while air strikes hit the southern city of Aden. ](/news/2015/04/30/yemeni-civil-war-2015-dozens-of-houthi-fighters-are-killed-in-clashes-with-saudi-arabian-forces-on-the-border-while-air-strikes-hit-the-s.md)
-_Context: Yemeni Civil War (2015), Houthi, Aden_
+_Context: Houthi, Aden, Yemeni Civil War (2015)_
 
 ##### Mexican Drug War
 ### [Mexican Drug War: Two state police officers and six other people are dead following a gunfight in the southern state of Guerrero between police and suspected kidnappers. ](/news/2015/04/30/mexican-drug-war-two-state-police-officers-and-six-other-people-are-dead-following-a-gunfight-in-the-southern-state-of-guerrero-between-pol.md)

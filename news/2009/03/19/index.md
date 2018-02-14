@@ -9,7 +9,7 @@ Scientists sailed Thursday to inspect an undersea volcano that has been erupting
 
 ##### North Korea
 ### [ North Korea detains two American Current TV journalists near its border with China. ](/news/2009/03/19/north-korea-detains-two-american-current-tv-journalists-near-its-border-with-china.md)
-_Context: China, U.S., North Korea, Current TV, journalist_
+_Context: journalist, China, U.S., North Korea, Current TV_
 
 ##### U.S.
 ### [ The United States House of Representatives votes to levy a 90% tax on executive compensation from companies aided by the American Recovery and Reinvestment Act. ](/news/2009/03/19/the-united-states-house-of-representatives-votes-to-levy-a-90-tax-on-executive-compensation-from-companies-aided-by-the-american-recovery.md)
@@ -17,15 +17,15 @@ Spurred by anger over A.I.G., the House voted 328 to 93 to tax bonuses paid by a
 
 ##### Josef Fritzl
 ### [ Josef Fritzl of Austria is sentenced to life imprisonment on all charges. ](/news/2009/03/19/josef-fritzl-of-austria-is-sentenced-to-life-imprisonment-on-all-charges.md)
-_Context: life imprisonment, Austria, Josef Fritzl_
+_Context: Austria, life imprisonment, Josef Fritzl_
 
 ##### President
 ### [ President Andry Rajoelina dissolves Parliament. ](/news/2009/03/19/president-andry-rajoelina-dissolves-parliament.md)
-_Context: President, parliament's dissolution, Parliament, Andry Rajoelina_
+_Context: Andry Rajoelina, Parliament, President, parliament's dissolution_
 
 ##### Pope
 ### [ Pope Benedict XVI leads a Roman Catholic Mass in Yaound, Cameroon. ](/news/2009/03/19/pope-benedict-xvi-leads-a-roman-catholic-mass-in-yaounde-cameroon.md)
-_Context: Cameroon, Pope, Mass, Pope Benedict XVI, Roman Catholic Church, Yaound_
+_Context: Pope Benedict XVI, Pope, Cameroon, Mass, Roman Catholic Church, Yaound_
 
 ##### Namibia
 ### [ Namibia declares a state of emergency after floods kill 92 people and render 25,000 homeless. ](/news/2009/03/19/namibia-declares-a-state-of-emergency-after-floods-kill-92-people-and-render-25-000-homeless.md)

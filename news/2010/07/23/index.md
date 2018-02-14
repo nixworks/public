@@ -13,7 +13,7 @@ North Korea says it will use its &quot;nuclear deterrent&quot; in response to jo
 
 ##### Switzerland
 ### [One person is killed and 42 injured after a Swiss tourist train derails in the Alps. ](/news/2010/07/23/one-person-is-killed-and-42-injured-after-a-swiss-tourist-train-derails-in-the-alps.md)
-_Context: Alps, Switzerland_
+_Context: Switzerland, Alps_
 
 ##### Israeli Army
 ### [Israel Defense Forces soldiers kill a Palestinian man attempting to enter the Israeli settlement of Barkan. ](/news/2010/07/23/israel-defense-forces-soldiers-kill-a-palestinian-man-attempting-to-enter-the-israeli-settlement-of-barkan.md)
@@ -33,7 +33,7 @@ A lawsuit between two film companies over the rights to the film Oscar-winning f
 
 ##### Diocese of Rome
 ### [The Diocese of Rome criticises homosexual priests, accusing them of leading a "double life" and advising them to leave the priesthood. ](/news/2010/07/23/the-diocese-of-rome-criticises-homosexual-priests-accusing-them-of-leading-a-double-life-and-advising-them-to-leave-the-priesthood.md)
-_Context: homosexual, Diocese of Rome_
+_Context: Diocese of Rome, homosexual_
 
 ##### Billy Corgan
 ### [Singer Billy Corgan collapses during a performance of "Bullet with Butterfly Wings" in the United States. ](/news/2010/07/23/singer-billy-corgan-collapses-during-a-performance-of-bullet-with-butterfly-wings-in-the-united-states.md)
@@ -49,11 +49,11 @@ _Context: One Direction_
 
 ##### Deepwater Horizon
 ### [Alarms on the "Deepwater Horizon" oil rig are found to have been disabled before the explosion and subsequent oil spill in the Gulf of Mexico. ](/news/2010/07/23/alarms-on-the-deepwater-horizon-oil-rig-are-found-to-have-been-disabled-before-the-explosion-and-subsequent-oil-spill-in-the-gulf-of-mexic.md)
-_Context: explosion, Deepwater Horizon, Gulf of Mexico, Deepwater Horizon oil spill_
+_Context: Deepwater Horizon oil spill, Deepwater Horizon, explosion, Gulf of Mexico_
 
 ##### Serbia
 ### [Serbia states its intention to never recognize Kosovo's independence after International Court of Justice's yesterday ruling. ](/news/2010/07/23/serbia-states-its-intention-to-never-recognize-kosovo-s-independence-after-international-court-of-justice-s-yesterday-ruling.md)
-_Context: International Court of Justice, yesterday ruling, Kosovo, Kosovo, Serbia_
+_Context: Kosovo, Serbia, Kosovo, International Court of Justice, yesterday ruling_
 
 ##### Venezuela
 ### [Venezuela severs diplomatic relations with Colombia after Colombia claims Venezuela is a "haven for guerrillas". ](/news/2010/07/23/venezuela-severs-diplomatic-relations-with-colombia-after-colombia-claims-venezuela-is-a-haven-for-guerrillas.md)
@@ -77,7 +77,7 @@ A former Pennsylvania judge pleads guilty to a charge of racketeering conspiracy
 
 ##### China
 ### [China sentences an Uyghur journalist who spoke to foreign media after riots in Xinjiang last year to 15 years imprisonment. ](/news/2010/07/23/china-sentences-an-uyghur-journalist-who-spoke-to-foreign-media-after-riots-in-xinjiang-last-year-to-15-years-imprisonment.md)
-_Context: Xinjiang, Uyghur, ethnic riots, China_
+_Context: Xinjiang, ethnic riots, China, Uyghur_
 
 ##### U.S. state
 ### [A court in the U.S. state of Arizona listens to challenges to the state's policy against illegal immigrants. ](/news/2010/07/23/a-court-in-the-u-s-state-of-arizona-listens-to-challenges-to-the-state-s-policy-against-illegal-immigrants.md)
@@ -129,7 +129,7 @@ Former Millwall, Bradford and Wycombe striker Gavin Grant is convicted of murder
 
 ##### Youth Olympic Games
 ### [The torch lighting ceremony for the first Youth Olympic Games, to be held in Singapore from August 14 to 26, is held in Olympia, Greece. ](/news/2010/07/23/the-torch-lighting-ceremony-for-the-first-youth-olympic-games-to-be-held-in-singapore-from-august-14-to-26-is-held-in-olympia-greece.md)
-_Context: Olympia, Greece, Youth Olympic Games_
+_Context: Youth Olympic Games, Olympia, Greece_
 
 ## [Previous Day...](/news/2010/07/22/index.md)
 

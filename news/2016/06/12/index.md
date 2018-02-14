@@ -13,7 +13,7 @@ _Context: Yemeni civil war, drones, Yemen_
 
 ##### Buckingham Palace
 ### [Around 10,000 people attend a street party in front of Buckingham Palace to celebrate Queen Elizabeth II's 90th birthday. ](/news/2016/06/12/around-10-000-people-attend-a-street-party-in-front-of-buckingham-palace-to-celebrate-queen-elizabeth-ii-s-90th-birthday.md)
-_Context: Elizabeth II, Buckingham Palace, Queen_
+_Context: Queen, Elizabeth II, Buckingham Palace_
 
 ##### 70th Tony Awards
 ### [The 70th Tony Awards are held at the Beacon Theater in New York City with "The Humans" winning the Best Play and "Hamilton" winning the Best Musical. ](/news/2016/06/12/the-70th-tony-awards-are-held-at-the-beacon-theater-in-new-york-city-with-the-humans-winning-the-best-play-and-hamilton-winning-the-best.md)
@@ -21,7 +21,7 @@ The 2016 Tony Awards took place on Sunday, with &#8220;Hamilton&#8221; emerging 
 
 ##### European migration crisis
 ### [Italy's Coast Guard picks up 1,230 migrants in the Mediterranean Sea. More than 4,000 people have been saved at sea in the past week. ](/news/2016/06/12/italy-s-coast-guard-picks-up-1-230-migrants-in-the-mediterranean-sea-more-than-4-000-people-have-been-saved-at-sea-in-the-past-week.md)
-_Context: Coast Guard, Italy, European migration crisis, Mediterranean Sea_
+_Context: Mediterranean Sea, Coast Guard, Italy, European migration crisis_
 
 ##### 2016 Orlando mass shooting
 ### [In what is the deadliest mass shooting and the worst terror attack since 9-11 to occur in the United States, a mass shooting at a gay nightclub in the U.S. city of Orlando, Florida, kills at least 50 people, including the shooter, and injures 53. ](/news/2016/06/12/in-what-is-the-deadliest-mass-shooting-and-the-worst-terror-attack-since-9-11-to-occur-in-the-united-states-a-mass-shooting-at-a-gay-nightc.md)

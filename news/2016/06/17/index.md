@@ -9,7 +9,7 @@ _Context: Military intervention against ISIL, Iraq, Third Battle of Fallujah, Fa
 
 ##### Kurdish separatism in Iran
 ### [Kurdish rebels and Iranian Revolutionary guards clash in Oshnavieh, killing 12 rebels and three guards. There is dispute over who the rebels were. Iranian authorities claim it was the Party of Free Life of Kurdistan movement while a member of the Democratic Party of Iranian Kurdistan claimed their group was responsible for the fighting. ](/news/2016/06/17/kurdish-rebels-and-iranian-revolutionary-guards-clash-in-oshnavieh-killing-12-rebels-and-three-guards-there-is-dispute-over-who-the-rebels.md)
-_Context: 2016 West Iran clashes, Iranian Revolutionary guards, Kurdish separatism in Iran, Democratic Party of Iranian Kurdistan, Oshnavieh, Party of Free Life of Kurdistan_
+_Context: Democratic Party of Iranian Kurdistan, Iranian Revolutionary guards, Kurdish separatism in Iran, 2016 West Iran clashes, Oshnavieh, Party of Free Life of Kurdistan_
 
 ##### Boko Haram insurgency
 ### [Boko Haram militants attack a funeral in the village of Kuda in the Adamawa State of Nigeria, killing 18 women, with more reportedly still missing. ](/news/2016/06/17/boko-haram-militants-attack-a-funeral-in-the-village-of-kuda-in-the-adamawa-state-of-nigeria-killing-18-women-with-more-reportedly-still-m.md)
@@ -17,7 +17,7 @@ Gunmen on motorbikes attack village near Madagali in Adamawa state, killing mour
 
 ##### Insurgency in the North Caucasus
 ### [Four Russian security officers and six militants are killed in an anti-terrorism operation in Dagestan. ](/news/2016/06/17/four-russian-security-officers-and-six-militants-are-killed-in-an-anti-terrorism-operation-in-dagestan.md)
-_Context: Insurgency in the North Caucasus, militants, Dagestan, police_
+_Context: militants, police, Dagestan, Insurgency in the North Caucasus_
 
 ##### Department of Justice
 ### [The U.S. Justice Department has decided against an action against Angelo Mozilo, former chief executive of Countrywide Financial, arising out of the issuance of mortgage backed securities during his tenure there. ](/news/2016/06/17/the-u-s-justice-department-has-decided-against-an-action-against-angelo-mozilo-former-chief-executive-of-countrywide-financial-arising-ou.md)

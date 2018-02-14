@@ -25,7 +25,7 @@ Sixty people are injured as more than 130 vehicles are involved in a series of c
 
 ##### Hunter
 ### [A hunter is blamed for starting the Rim Fire near Yosemite National Park. ](/news/2013/09/5/a-hunter-is-blamed-for-starting-the-rim-fire-near-yosemite-national-park.md)
-_Context: Yosemite National Park, hunter, Rim Fire_
+_Context: Yosemite National Park, Rim Fire, hunter_
 
 ##### Rochus Misch
 ### [Rochus Misch, the last witness to Adolf Hitler's suicide in the "Fuhrerbunker" dies at the age of 96. ](/news/2013/09/5/rochus-misch-the-last-witness-to-adolf-hitleras-suicide-in-the-fa1-4hrerbunker-dies-at-the-age-of-96.md)

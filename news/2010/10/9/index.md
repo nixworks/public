@@ -5,15 +5,15 @@ Formats: [HTML](2010/10/9/index.html)  [JSON](2010/10/9/index.json)  [XML](2010/
 
 ##### Nato
 ### [A senior Taliban commander and two other insurgents were killed in a fire fight with Nato and Afghan forces in western Badghis province's Murghab district. ](/news/2010/10/9/a-senior-taliban-commander-and-two-other-insurgents-were-killed-in-a-fire-fight-with-nato-and-afghan-forces-in-western-badghis-province-s-mu.md)
-_Context: Badghis, Nato, Murghab, Afghan forces_
+_Context: Afghan forces, Badghis, Nato, Murghab_
 
 ##### Naxal
 ### [7 naxals are gunned down by the police in an encounter in Mahasamund district of Chhattisgarh. ](/news/2010/10/9/7-naxals-are-gunned-down-by-the-police-in-an-encounter-in-mahasamund-district-of-chhattisgarh.md)
-_Context: Mahasamund, Chhattisgarh, naxal_
+_Context: Chhattisgarh, naxal, Mahasamund_
 
 ##### Farah Province
 ### [Four Italian soldiers die following an attack in the Farah area, Afghanistan. ](/news/2010/10/9/four-italian-soldiers-die-following-an-attack-in-the-farah-area-afghanistan.md)
-_Context: Farah Province, Afghanistan_
+_Context: Afghanistan, Farah Province_
 
 ##### England
 ### [Riot police and dogs clash with protesters as demonstrations lead to violence in England. There are injuries and 5 men are arrested in the country's largest police operation for a quarter of a century (25 years). ](/news/2010/10/9/riot-police-and-dogs-clash-with-protesters-as-demonstrations-lead-to-violence-in-england-there-are-injuries-and-5-men-are-arrested-in-the-c.md)
@@ -29,7 +29,7 @@ Armed men in southwestern border area set fire to nearly 30 tankers carrying fue
 
 ##### Government of Ecuador
 ### [The Government of Ecuador extends a state of emergency initially imposed on September 30 in the 2010 Ecuador crisis. ](/news/2010/10/9/the-government-of-ecuador-extends-a-state-of-emergency-initially-imposed-on-september-30-in-the-2010-ecuador-crisis.md)
-_Context: protested against being stripped of their bonuses, state of emergency, Government of Ecuador_
+_Context: Government of Ecuador, state of emergency, protested against being stripped of their bonuses_
 
 ##### Minister of Maori Affairs
 ### [Minister of Maori Affairs Pita Sharples adds his name to calls for suspended TVNZ broadcaster Paul Henry to be sacked after he manages to upset most of India. ](/news/2010/10/9/minister-of-maori-affairs-pita-sharples-adds-his-name-to-calls-for-suspended-tvnz-broadcaster-paul-henry-to-be-sacked-after-he-manages-to-u.md)
@@ -57,11 +57,11 @@ More than 200 passengers and crew are rescued after a Baltic Sea ferry catches f
 
 ##### U.S.
 ### [The United States leads a group of non-EU developed countries in attempts to thoroughly revamp the Kyoto Protocol, blocking any possible progress in the climate negotiations currently under way in Tianjin, according to negotiator Sui Wei. ](/news/2010/10/9/the-united-states-leads-a-group-of-non-eu-developed-countries-in-attempts-to-thoroughly-revamp-the-kyoto-protocol-blocking-any-possible-pro.md)
-_Context: European Union, U.S., Tianjin, Kyoto Protocol, Sui Wei_
+_Context: Kyoto Protocol, European Union, U.S., Tianjin, Sui Wei_
 
 ##### Ecuador
 ### [An Ecuadorean court orders the imprisonment of 12 police after last week's 2010 Ecuador crisis, with a lawyer saying they are being swept up in a "witch hunt". ](/news/2010/10/9/an-ecuadorean-court-orders-the-imprisonment-of-12-police-after-last-week-s-2010-ecuador-crisis-with-a-lawyer-saying-they-are-being-swept-up.md)
-_Context: Ecuador, protested against being stripped of their bonuses_
+_Context: protested against being stripped of their bonuses, Ecuador_
 
 ##### Oceanic Bank
 ### [Former Oceanic Bank chief Cecilia Ibru is sentenced to six months in prison after being found guilty of committing 3 of 25 charges of fraud and mismanagement. ](/news/2010/10/9/former-oceanic-bank-chief-cecilia-ibru-is-sentenced-to-six-months-in-prison-after-being-found-guilty-of-committing-3-of-25-charges-of-fraud.md)
@@ -73,7 +73,7 @@ Police have arrested the former editor of Indonesian Playboy, Erwin Arnada, to f
 
 ##### Kim Jong-un
 ### [Kim Jong-un attends the Arirang Festival performance in Pyongyang with his father Kim Jong-il. It is Kim Jong-un's first appearance before the world's media. ](/news/2010/10/9/kim-jong-un-attends-the-arirang-festival-performance-in-pyongyang-with-his-father-kim-jong-il-it-is-kim-jong-un-s-first-appearance-before-t.md)
-_Context: Pyongyang, Kim Jong-il, Kim Jong-un, Arirang Festival_
+_Context: Pyongyang, Kim Jong-il, Arirang Festival, Kim Jong-un_
 
 ## [Previous Day...](/news/2010/10/8/index.md)
 

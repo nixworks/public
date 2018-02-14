@@ -13,7 +13,7 @@ _Context: Syrian Civil War, Jordan_
 
 ##### Saudi Arabia
 ### [Two suicide bombers detonate their explosives during a firefight with Saudi security forces in Jeddah. ](/news/2017/01/21/two-suicide-bombers-detonate-their-explosives-during-a-firefight-with-saudi-security-forces-in-jeddah.md)
-_Context: Jeddah, Saudi Arabia_
+_Context: Saudi Arabia, Jeddah_
 
 ##### Rafah
 ### [Eight people are killed in Rafah, Egypt, after a shell lands on the home in which they were staying. ](/news/2017/01/21/eight-people-are-killed-in-rafah-egypt-after-a-shell-lands-on-the-home-in-which-they-were-staying.md)

@@ -13,15 +13,15 @@ Attackers blow themselves up near a NATO base, killing at least 12 people and wo
 
 ##### Eduardo Arellano Felix
 ### [Eduardo Arellano Felix, a former drug lord of the Tijuana Cartel, is extradited to the United States from Mexico. He is the last brother of the cartel in a 2003 indictment to be extradited. ](/news/2012/09/1/eduardo-arellano-fa-c-lix-a-former-drug-lord-of-the-tijuana-cartel-is-extradited-to-the-united-states-from-mexico-he-is-the-last-brother-of.md)
-_Context: Eduardo Arellano Felix, Tijuana Cartel_
+_Context: Tijuana Cartel, Eduardo Arellano Felix_
 
 ##### Islamist
 ### [Islamist rebels in northern Mali seize the central town of Douentza. ](/news/2012/09/1/islamist-rebels-in-northern-mali-seize-the-central-town-of-douentza.md)
-_Context: Douentza, Mali, Islamist_
+_Context: Mali, Islamist, Douentza_
 
 ##### Davao City
 ### [An unidentified man throws a grenade to spectators of a festival in Paquibato district near Davao City, Philippines, wounding 41 people. ](/news/2012/09/1/an-unidentified-man-throws-a-grenade-to-spectators-of-a-festival-in-paquibato-district-near-davao-city-philippines-wounding-41-people.md)
-_Context: Philippines, Davao City_
+_Context: Davao City, Philippines_
 
 ##### Carlo Maria Martini
 ### [Former progressive Cardinal Carlo Maria Martini describes the Catholic Church as "200 years behind the times" in an interview published the day after his death. ](/news/2012/09/1/former-progressive-cardinal-carlo-maria-martini-describes-the-catholic-church-as-200-years-behind-the-times-in-an-interview-published-the.md)
@@ -33,11 +33,11 @@ US songwriter Hal David, who wrote dozens of hit songs with collaborator Burt Ba
 
 ##### Yosemite National Park
 ### [Tent cabins in Yosemite National Park, U.S., are closed after officials notify 3,100 recent visitors of an outbreak of Hantavirus. ](/news/2012/09/1/tent-cabins-in-yosemite-national-park-u-s-are-closed-after-officials-notify-3-100-recent-visitors-of-an-outbreak-of-hantavirus.md)
-_Context: U.S., Hantavirus, an outbreak, Yosemite National Park_
+_Context: Hantavirus, an outbreak, U.S., Yosemite National Park_
 
 ##### A nuclear reactor
 ### [A nuclear reactor in Belgium shows up to 0.3 m-depth signs of erosion weakening the 1.2 m outer reinforced concrete mantle, three times deeper than previously reported. The owner and the nuclear regulator deny any risk since the reactor was already shut down due to another issue. ](/news/2012/09/1/a-nuclear-reactor-in-belgium-shows-up-to-0-3-m-depth-signs-of-erosion-weakening-the-1-2-m-outer-reinforced-concrete-mantle-three-times-deep.md)
-_Context: another, nuclear regulator, A nuclear reactor, owner, Belgium_
+_Context: another, A nuclear reactor, Belgium, nuclear regulator, owner_
 
 ##### Thalidomide
 ### [Now middle-aged victims of Thalidomide ("Softenon", "Contergan")'s mutilating effects on embryos say the first ever apologies from the manufacturer Grunenthal GmbH are "insulting". ](/news/2012/09/1/now-middle-aged-victims-of-thalidomide-softenon-contergan-s-mutilating-effects-on-embryos-say-the-first-ever-apologies-from-the-manuf.md)
@@ -45,7 +45,7 @@ In its first apology for the scandal in 50 years, Grunenthal said on Friday it w
 
 ##### Palestine
 ### [The summit is closed with accepting a 600-page final document that mainly focuses on the Palestinian issue as well as on Iran's nuclear energy program, but makes no mention of the Syrian civil war. A Chinese state commentary qualifies the summit as an "important" diplomatic "accomplishment from Iran", having hosted "leaders and delegates of over 100 countries". ](/news/2012/09/1/the-summit-is-closed-with-accepting-a-600-page-final-document-that-mainly-focuses-on-the-palestinian-issue-as-well-as-on-iran-s-nuclear-ener.md)
-_Context: nuclear program, Iran, China, Palestine, Syrian civil war_
+_Context: Palestine, China, Syrian civil war, nuclear program, Iran_
 
 ##### People's Movement for the Liberation of Angola
 ### [The ruling People's Movement for the Liberation of Angola wins the Angolan general election with a preliminary 74.46% of the vote. ](/news/2012/09/1/the-ruling-people-s-movement-for-the-liberation-of-angola-wins-the-angolan-general-election-with-a-preliminary-74-46-of-the-vote.md)
@@ -53,15 +53,15 @@ State media declares dos Santos as president-elect after his MPLA party takes un
 
 ##### U.S.
 ### [U.S.environmentalists vow to legally fight the federal end of protecting the wolf in Wyoming, saying the species still needs protection to maintain its successful recovery. ](/news/2012/09/1/u-s-environmentalists-vow-to-legally-fight-the-federal-end-of-protecting-the-wolf-in-wyoming-saying-the-species-still-needs-protection-to-m.md)
-_Context: Wyoming, environmental activists, U.S., U.S. government, needs protection, wolf_
+_Context: U.S. government, U.S., environmental activists, Wyoming, wolf, needs protection_
 
 ##### Running mate
 ### [Ten days after public remarks, U.S. presidential running mate Paul Ryan's personal record on the marathon run goes from less than 3 to over 4 hours. ](/news/2012/09/1/ten-days-after-public-remarks-u-s-presidential-running-mate-paul-ryan-s-personal-record-on-the-marathon-run-goes-from-less-than-3-to-over.md)
-_Context: Paul Ryan, running mate, marathon_
+_Context: Paul Ryan, marathon, running mate_
 
 ##### Flanders
 ### [Scientists find that middle-class children in Flanders are 15 times more often diagnosed with a learning disorder than poor children. ](/news/2012/09/1/scientists-find-that-middle-class-children-in-flanders-are-15-times-more-often-diagnosed-with-a-learning-disorder-than-poor-children.md)
-_Context: learning disorder, Flanders_
+_Context: Flanders, learning disorder_
 
 ## [Previous Day...](/news/2012/08/31/index.md)
 

@@ -5,23 +5,23 @@ Formats: [HTML](2008/11/10/index.html)  [JSON](2008/11/10/index.json)  [XML](200
 
 ##### U.S.
 ### [ Reports surface that a United States nuclear weapon was lost somewhere in the ice after the January 21, 1968 crash of a B-52 Stratofortress outside Thule Air Base, Greenland. ](/news/2008/11/10/reports-surface-that-a-united-states-nuclear-weapon-was-lost-somewhere-in-the-ice-after-the-january-21-1968-crash-of-a-b-52-stratofortress.md)
-_Context: U.S., January 21, 1968 crash, Greenland, B-52 Stratofortress, nuclear weapon, Thule Air Base_
+_Context: Greenland, nuclear weapon, U.S., B-52 Stratofortress, January 21, 1968 crash, Thule Air Base_
 
 ##### Ryanair Flight 4102
 ### [ Ryanair Flight 4102 is forced to make an emergency landing at Rome's Ciampino Airport after several birds were sucked into its engines as it prepared to land. ](/news/2008/11/10/ryanair-flight-4102-is-forced-to-make-an-emergency-landing-at-rome-s-ciampino-airport-after-several-birds-were-sucked-into-its-engines-as-i.md)
-_Context: Rome, Italy, Ryanair Flight 4102, Ciampino Airport_
+_Context: Ryanair Flight 4102, Rome, Italy, Ciampino Airport_
 
 ##### U.S.
 ### [ The United States government announces a second bailout of American International Group; the total value of the new plan, roughly US$150 billion, represents the largest government support package extended to a private company in US history.](/news/2008/11/10/the-united-states-government-announces-a-second-bailout-of-american-international-group-the-total-value-of-the-new-plan-roughly-us-150-bi.md)
-_Context: AIG, $, U.S._
+_Context: $, U.S., AIG_
 
 ##### Italy
 ### [ Italian Prime Minister Silvio Berlusconi repeats a comment that United States President-elect Barack Obama is "young, handsome and also tanned," refusing to apologize for remarks he insisted are "flattering". ](/news/2008/11/10/italian-prime-minister-silvio-berlusconi-repeats-a-comment-that-united-states-president-elect-barack-obama-is-young-handsome-and-also-tan.md)
-_Context: Italian Prime Minister, Silvio Berlusconi, U.S., U.S. President, Barack Obama, President-elect, Italy_
+_Context: U.S., Italian Prime Minister, President-elect, Barack Obama, Silvio Berlusconi, U.S. President, Italy_
 
 ##### India
 ### [ India wins the Border-Gavaskar Trophy by defeating Australia 2-0 in the five-Test-match cricket series. ](/news/2008/11/10/india-wins-the-border-gavaskar-trophy-by-defeating-australia-2-0-in-the-five-test-match-cricket-series.md)
-_Context: India, Border-Gavaskar Trophy, Australia, Test_
+_Context: India, Australia, Test, Border-Gavaskar Trophy_
 
 ##### Richter scale
 ### [ An earthquake of magnitude 6.5 on Richter scale shakes western China's Qinghai province. ](/news/2008/11/10/an-earthquake-of-magnitude-6-5-on-richter-scale-shakes-western-china-s-qinghai-province.md)

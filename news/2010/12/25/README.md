@@ -5,7 +5,7 @@ Formats: [HTML](2010/12/25/index.html)  [JSON](2010/12/25/index.json)  [XML](201
 
 ##### Sudanese government troops
 ### [The Sudanese army says it has killed at least 40 rebels and wounded many more in a new offensive in the Darfur region, when army forces attacked joint positions of the Justice and Equality Movement and the Sudan Liberation Movement. ](/news/2010/12/25/the-sudanese-army-says-it-has-killed-at-least-40-rebels-and-wounded-many-more-in-a-new-offensive-in-the-darfur-region-when-army-forces-atta.md)
-_Context: Darfur, Justice and Equality Movement, conflict, Sudan Liberation Movement, Sudanese government troops_
+_Context: Sudanese government troops, Sudan Liberation Movement, Darfur, conflict, Justice and Equality Movement_
 
 ##### Christmas
 ### [At least 6 people are wounded as a bomb detonates in a church during Christmas Mass in the southern Philippines island of Jolo. ](/news/2010/12/25/at-least-6-people-are-wounded-as-a-bomb-detonates-in-a-church-during-christmas-mass-in-the-southern-philippines-island-of-jolo.md)
@@ -13,7 +13,7 @@ Blasts in Philippines and Nigeria kill at least 38 as church leaders call for pe
 
 ##### Cote d'Ivoire
 ### [UN: Approximately 14,000 people have fled Cote d'Ivoire and headed to Liberia due to the recent presidential election dispute. ](/news/2010/12/25/un-approximately-14-000-people-have-fled-ca-te-d-ivoire-and-headed-to-liberia-due-to-the-recent-presidential-election-dispute.md)
-_Context: Liberia, Cote d'Ivoire_
+_Context: Cote d'Ivoire, Liberia_
 
 ##### Mohammed Deif
 ### [Mohammed Deif, the commander of the Izz ad-Din al-Qassam Brigades, Hamas' military wing in the Gaza Strip, says that the Palestinians will not give up until Israel "ceases to exist". ](/news/2010/12/25/mohammed-deif-the-commander-of-the-izz-ad-din-al-qassam-brigades-hamas-military-wing-in-the-gaza-strip-says-that-the-palestinians-will-n.md)
@@ -21,13 +21,13 @@ Day after Mahmoud al-Zahar says Islamist group committed to unofficial truce, he
 
 ##### Aurela Gace
 ### [Aurela Gace wins Albania's national selection for the Eurovision Song Contest 2011 with the entry "Kenga ime". ](/news/2010/12/25/aurela-gaasse-wins-albania-s-national-selection-for-the-eurovision-song-contest-2011-with-the-entry-ka-nga-ime.md)
-_Context: Eurovision Song Contest 2011, Albania's national selection, Kenga ime, Aurela Gace_
+_Context: Kenga ime, Eurovision Song Contest 2011, Albania's national selection, Aurela Gace_
 
 ##### 
 ### [Leading writers criticise the British government for what they describe as its "repugnant, foolish and pointlessly destructive" decision to axe all funding for a free children's book scheme. ](/news/2010/12/25/leading-writers-criticise-the-british-government-for-what-they-describe-as-its-repugnant-foolish-and-pointlessly-destructive-decision-to.md)
 ##### Vietnam
 ### [Vietnam's credit rating is downgraded by credit rating agencies amid rising inflation, and a shrinking currency and widening trade deficit crisis; state owned shipbuilder Vinashin defaults on a loan to a group of international lenders. ](/news/2010/12/25/vietnamas-credit-rating-is-downgraded-by-credit-rating-agencies-amid-rising-inflation-and-a-shrinking-currency-and-widening-trade-deficit.md)
-_Context: inflation, trade deficit, Vinashin, state owned, credit rating agencies, Vietnam_
+_Context: Vinashin, Vietnam, credit rating agencies, inflation, state owned, trade deficit_
 
 ##### Vanuatu
 ### [A magnitude 7.3 earthquake strikes Vanuatu. A tsunami warning is issued for the region and later cancelled after a minor tsunami was recorded. ](/news/2010/12/25/a-magnitude-7-3-earthquake-strikes-vanuatu-a-tsunami-warning-is-issued-for-the-region-and-later-cancelled-after-a-minor-tsunami-was-recorde.md)
@@ -47,11 +47,11 @@ Foreign Minister Ahmet Davutoglu continues to demand apology for flotilla raid, 
 
 ##### China
 ### [Three fishermen from the People's Republic of China are released from South Korean custody after their vessel collided with a Coast Guard vessel last week. ](/news/2010/12/25/three-fishermen-from-the-people-s-republic-of-china-are-released-from-south-korean-custody-after-their-vessel-collided-with-a-coast-guard-ve.md)
-_Context: South Korea, China_
+_Context: China, South Korea_
 
 ##### Ecuador
 ### [Ecuador recognises Palestine as an independent state within its 1967 borders. ](/news/2010/12/25/ecuador-recognises-palestine-as-an-independent-state-within-its-1967-borders.md)
-_Context: Ecuador, Palestine, officially recognises_
+_Context: officially recognises, Ecuador, Palestine_
 
 ##### Mossad
 ### [Mossad announces an intention to apologize to Britain for using fake British passports during the assassination of Mahmoud al-Mabhouh in Dubai in January 2010. ](/news/2010/12/25/mossad-announces-an-intention-to-apologize-to-britain-for-using-fake-british-passports-during-the-assassination-of-mahmoud-al-mabhouh-in-dub.md)
@@ -63,11 +63,11 @@ _Context: Sudanese government, Darfur_
 
 ##### Dutch police
 ### [Dutch police arrest 12 Somalis on suspicion of plotting an imminent terrorist attack in the Netherlands. ](/news/2010/12/25/dutch-police-arrest-12-somalis-on-suspicion-of-plotting-an-imminent-terrorist-attack-in-the-netherlands.md)
-_Context: terrorist, Dutch police, Somalis, Netherlands_
+_Context: Somalis, Netherlands, terrorist, Dutch police_
 
 ##### Golf course
 ### [A dead female body is found near a golf course in North Somerset during a police search in Bristol for missing UK woman Joanna Yeates. ](/news/2010/12/25/a-dead-female-body-is-found-near-a-golf-course-in-north-somerset-during-a-police-search-in-bristol-for-missing-uk-woman-joanna-yeates.md)
-_Context: Bristol, North Somerset, golf course, Joanna Yeates_
+_Context: North Somerset, Joanna Yeates, Bristol, golf course_
 
 ##### Mir-Hossein Mousavi
 ### [A travel ban is announced against opposition candidates, Mir-Hossein Mousavi and Mehdi Karroubi, who featured in the disputed 2009 Iranian presidential election. ](/news/2010/12/25/a-travel-ban-is-announced-against-opposition-candidates-mir-hossein-mousavi-and-mehdi-karroubi-who-featured-in-the-disputed-2009-iranian-p.md)

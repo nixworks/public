@@ -17,7 +17,7 @@ J.C.Penney’s second quarter of 2013 is one everyone would like to forget. Sale
 
 ##### Devastating floods in summer
 ### [2013 China-Russia floods: Twenty one people are killed in a flash flood in Qinghai province. ](/news/2013/08/21/2013-chinaarussia-floods-twenty-one-people-are-killed-in-a-flash-flood-in-qinghai-province.md)
-_Context: Qinghai, devastating floods in summer, flash flood_
+_Context: flash flood, devastating floods in summer, Qinghai_
 
 ##### Malaysia
 ### [37 killed, 16 injured in a bus crash in Malaysia, near the Chin Swee Temple. ](/news/2013/08/21/37-killed-16-injured-in-a-bus-crash-in-malaysia-near-the-chin-swee-temple.md)
@@ -29,11 +29,11 @@ _Context: Pembroke Hill School, Missouri_
 
 ##### David Miranda
 ### [David Miranda, journalist Glenn Greenwald's partner in covering United States and British mass surveillance programmes, arrives in Brazil, after being released from detainment at Heathrow airport, London. ](/news/2013/08/21/david-miranda-journalist-glenn-greenwald-s-partner-in-covering-united-states-and-british-mass-surveillance-programmes-arrives-in-brazil-a.md)
-_Context: Glenn Greenwald, David Miranda, Heathrow, Brazil, London_
+_Context: David Miranda, Brazil, London, Heathrow, Glenn Greenwald_
 
 ##### Nigerian army
 ### [The Nigerian army officially claims the Boko Haram leader Abubakar Shekau, is dead from a gunfight, although others claim Shekau is alive. ](/news/2013/08/21/the-nigerian-army-officially-claims-the-boko-haram-leader-abubakar-shekau-is-dead-from-a-gunfight-although-others-claim-shekau-is-alive.md)
-_Context: Abubakar Shekau, Nigerian army, Boko Haram_
+_Context: Boko Haram, Nigerian army, Abubakar Shekau_
 
 ##### Cairo
 ### [A Cairo criminal court releases former President Hosni Mubarak, initiating further investigation of corruption. ](/news/2013/08/21/a-cairo-criminal-court-releases-former-president-hosni-mubarak-initiating-further-investigation-of-corruption.md)

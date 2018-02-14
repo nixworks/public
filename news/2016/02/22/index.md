@@ -5,7 +5,7 @@ Formats: [HTML](2016/02/22/index.html)  [JSON](2016/02/22/index.json)  [XML](201
 
 ##### Insurgency in Jammu and Kashmir
 ### [Loud explosions and gunfire are heard in a building where Kashmiri forces are fighting Jammu Kashmir Liberation Front militants in a standoff that has claimed the lives of five soldiers and one civilian. ](/news/2016/02/22/loud-explosions-and-gunfire-are-heard-in-a-building-where-kashmiri-forces-are-fighting-jammu-kashmir-liberation-front-militants-in-a-standof.md)
-_Context: 2016 Pampore stand-off, Kashmir, Insurgency in Jammu and Kashmir, Jammu Kashmir Liberation Front_
+_Context: Jammu Kashmir Liberation Front, Insurgency in Jammu and Kashmir, Kashmir, 2016 Pampore stand-off_
 
 ##### War in Afghanistan (2015-present)
 ### [A suicide bomber kills at least 13 people and injures 19 in Afghanistan's Parwan province. The Taliban claims responsibility. ](/news/2016/02/22/a-suicide-bomber-kills-at-least-13-people-and-injures-19-in-afghanistan-s-parwan-province-the-taliban-claims-responsibility.md)
@@ -17,7 +17,7 @@ Zimbabwe President Robert Mugabe ordered the expulsion of eight foreign diamond 
 
 ##### 2015-16 South Pacific cyclone season
 ### [The death toll in Fiji rises to at least 17 as authorities continue to assess the damage. All schools in the country are closed for the week. A nationwide curfew remains in effect. ](/news/2016/02/22/the-death-toll-in-fiji-rises-to-at-least-17-as-authorities-continue-to-assess-the-damage-all-schools-in-the-country-are-closed-for-the-week.md)
-_Context: Cyclone Winston, 2015-16 South Pacific cyclone season, Fiji_
+_Context: Cyclone Winston, Fiji, 2015-16 South Pacific cyclone season_
 
 ##### Russia-United States relations
 ### [Russia has announced that it will ask permission to fly unarmed surveillance planes over the United States citing the Open Skies Treaty. ](/news/2016/02/22/russia-has-announced-that-it-will-ask-permission-to-fly-unarmed-surveillance-planes-over-the-united-states-citing-the-open-skies-treaty.md)

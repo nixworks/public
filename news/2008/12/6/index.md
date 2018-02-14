@@ -5,7 +5,7 @@ Formats: [HTML](2008/12/6/index.html)  [JSON](2008/12/6/index.json)  [XML](2008/
 
 ##### Philippines
 ### [ Filipino boxer Manny Pacquiao defeats Mexican American Oscar De La Hoya during a welterweight bout at the MGM Grand Garden Arena in Las Vegas, Nevada. ](/news/2008/12/6/filipino-boxer-manny-pacquiao-defeats-mexican-american-oscar-de-la-hoya-during-a-welterweight-bout-at-the-mgm-grand-garden-arena-in-las-veg.md)
-_Context: MGM Grand Garden Arena, Mexican American, welterweight, bout, Nevada, Oscar De La Hoya, Las Vegas Strip, Manny Pacquiao, Philippines_
+_Context: welterweight, Nevada, Las Vegas Strip, Mexican American, MGM Grand Garden Arena, Oscar De La Hoya, Philippines, Manny Pacquiao, bout_
 
 ##### U.S.
 ### [ United States President-elect Barack Obama nominates General Eric Shinseki to be the next Secretary of Veterans Affairs. ](/news/2008/12/6/united-states-president-elect-barack-obama-nominates-general-eric-shinseki-to-be-the-next-secretary-of-veterans-affairs.md)
@@ -17,11 +17,11 @@ _Context: cards, November terrorist attacks, India, mobile phone_
 
 ##### Irish
 ### [ The Republic of Ireland recalls all Irish pork products after the discovery of contaminated fodder. ](/news/2008/12/6/the-republic-of-ireland-recalls-all-irish-pork-products-after-the-discovery-of-contaminated-fodder.md)
-_Context: fodder, Irish, pork, 2008 Irish pork crisis_
+_Context: fodder, pork, Irish, 2008 Irish pork crisis_
 
 ##### Joseph Cao
 ### [ Joseph Cao defeats William J. Jefferson in Louisiana's 2nd congressional election, a major upset victory for the Republican Party. He is the first Vietnamese American ever to be elected to the U.S. House of Representatives. ](/news/2008/12/6/joseph-cao-defeats-william-j-jefferson-in-louisiana-s-2nd-congressional-election-a-major-upset-victory-for-the-republican-party-he-is-th.md)
-_Context: William J. Jefferson, Republican, Joseph Cao, 2nd congressional election, United States House of Representatives, Louisiana, Vietnamese American_
+_Context: United States House of Representatives, 2nd congressional election, Louisiana, Joseph Cao, Vietnamese American, Republican, William J. Jefferson_
 
 ## [Previous Day...](/news/2008/12/5/index.md)
 

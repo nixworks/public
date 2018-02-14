@@ -5,11 +5,11 @@ Formats: [HTML](2014/11/14/index.html)  [JSON](2014/11/14/index.json)  [XML](201
 
 ##### Islamic State of Iraq and Syria
 ### [Iraqi forces expel ISIS from the refinery town of Baiji in northern Iraq. ](/news/2014/11/14/iraqi-forces-expel-isis-from-the-refinery-town-of-baiji-in-northern-iraq.md)
-_Context: Islamic State of Iraq and Syria, Iraq, Iraqi forces, Baiji, refinery_
+_Context: Iraq, Iraqi forces, refinery, Islamic State of Iraq and Syria, Baiji_
 
 ##### Russia
 ### [Russia plans an "alternative Wikipedia". ](/news/2014/11/14/russia-plans-an-alternative-wikipedia.md)
-_Context: Wikipedia, Russia_
+_Context: Russia, Wikipedia_
 
 ##### Sweden
 ### [Sweden releases a sonar image it says is proof that a foreign submarine entered its waters in October. The grainy image shows underwater tracks allegedly left by the vessel. ](/news/2014/11/14/sweden-releases-a-sonar-image-it-says-is-proof-that-a-foreign-submarine-entered-its-waters-in-october-the-grainy-image-shows-underwater-tra.md)

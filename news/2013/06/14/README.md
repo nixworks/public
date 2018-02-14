@@ -21,7 +21,7 @@ About 900 inmates at a medium-security Colorado state prison have been evacuated
 
 ##### Ethylene
 ### [A day after an ethylene- and propylene- manufacturing chemical plant explosion in Geismar, Ascension Parish, Louisiana that killed two and injured 75, another chemical plant explosion occurs in the same Louisiana Parish (County), in Donaldsonville, Louisiana. One person is killed, three are critically injured, and 2 others suffer more minor injuries. ](/news/2013/06/14/a-day-after-an-ethylene-and-propylene-manufacturing-chemical-plant-explosion-in-geismar-ascension-parish-louisiana-that-killed-two-and-i.md)
-_Context: Donaldsonville, Louisiana, propylene, ethylene_
+_Context: propylene, ethylene, Donaldsonville, Louisiana_
 
 ##### Malcolm Naden
 ### [Former fugitive Malcolm Naden is given a life sentence and some for two murders in the Australian state of New South Wales. ](/news/2013/06/14/former-fugitive-malcolm-naden-is-given-a-life-sentence-and-some-for-two-murders-in-the-australian-state-of-new-south-wales.md)
@@ -29,7 +29,7 @@ Malcolm Naden said he wanted a life sentence, and now the notorious double murde
 
 ##### Won Sei-hoon
 ### [Won Sei-hoon, former head of South Korea's National Intelligence Service is indicted on charges of interfering in last year's presidential election. ](/news/2013/06/14/won-sei-hoon-former-head-of-south-korea-s-national-intelligence-service-is-indicted-on-charges-of-interfering-in-last-year-s-presidential-e.md)
-_Context: South Korea, Won Sei-hoon, indicted, South Korea's intelligence agency, presidential election_
+_Context: South Korea, South Korea's intelligence agency, Won Sei-hoon, presidential election, indicted_
 
 ##### Nashville
 ### [Four people are shot, leaving three critically injured, when Earnest Moore, 39, a convicted murderer, who was described as the boyfriend of one of the victims, walked up to their SUV and opened fire in Nashville, Tennessee. ](/news/2013/06/14/four-people-are-shot-leaving-three-critically-injured-when-earnest-moore-39-a-convicted-murderer-who-was-described-as-the-boyfriend-of.md)
@@ -45,7 +45,7 @@ _Context: Sandy Hook massacre, Newtown, Connecticut_
 
 ##### Charla Nash
 ### [Charla Nash, 59, of Stamford, Connecticut, is told she cannot sue the state and its Dept. of Energy for $150 million, after being blinded for life and receiving a full face transplant after receiving a brutal mauling by Travis, an escaped chimpanzee. ](/news/2013/06/14/charla-nash-59-of-stamford-connecticut-is-told-she-cannot-sue-the-state-and-its-dept-of-energy-for-150-million-after-being-blinded-fo.md)
-_Context: Travis, Stamford, Connecticut, Charla Nash_
+_Context: Charla Nash, Travis, Stamford, Connecticut_
 
 ##### Iran
 ### [Voters in Iran go to the polls for a presidential and local elections. ](/news/2013/06/14/voters-in-iran-go-to-the-polls-for-a-presidential-and-local-elections.md)

@@ -5,19 +5,19 @@ Formats: [HTML](2011/07/26/index.html)  [JSON](2011/07/26/index.json)  [XML](201
 
 ##### Norway
 ### [Police in Norway begin naming the victims of the 2011 Norway attacks. ](/news/2011/07/26/police-in-norway-begin-naming-the-victims-of-the-2011-norway-attacks.md)
-_Context: 2011 Norway attacks, Norway_
+_Context: Norway, 2011 Norway attacks_
 
 ##### Reserve Bank of India
 ### [The Reserve Bank of India increases interest rates to 8% in an effort to contain inflation which is currently at 9.44%. ](/news/2011/07/26/the-reserve-bank-of-india-increases-interest-rates-to-8-in-an-effort-to-contain-inflation-which-is-currently-at-9-44.md)
-_Context: inflation, Reserve Bank of India, interest rates_
+_Context: inflation, interest rates, Reserve Bank of India_
 
 ##### Trinity Mirror
 ### [Britain's Trinity Mirror reviews its editorial guidelines in light of the "News of the World" phone hacking affair. ](/news/2011/07/26/britain-s-trinity-mirror-reviews-its-editorial-guidelines-in-light-of-the-news-of-the-world-phone-hacking-affair.md)
-_Context: Trinity Mirror, phone hacking affair, News of the World_
+_Context: phone hacking affair, News of the World, Trinity Mirror_
 
 ##### Al Franken
 ### [U.S. Senator Al Franken of Minnesota, in a letter to the Justice Department and the Federal Communications Commission, demands that they block the effort of telephone giant AT&T to buy rival T-Mobile USA. ](/news/2011/07/26/u-s-senator-al-franken-of-minnesota-in-a-letter-to-the-justice-department-and-the-federal-communications-commission-demands-that-they-blo.md)
-_Context: Department of Justice, FCC's, Al Franken, T-Mobile USA, Minnesota, AT&T_
+_Context: FCC's, Al Franken, AT&T, T-Mobile USA, Minnesota, Department of Justice_
 
 ##### Morocco
 ### [A Moroccan military transport plane crashes into a mountain in the south of the country killing 78 of 81 on board. ](/news/2011/07/26/a-moroccan-military-transport-plane-crashes-into-a-mountain-in-the-south-of-the-country-killing-78-of-81-on-board.md)
@@ -25,7 +25,7 @@ A Hercules military transport plane crashes in southern Morocco, killing 78 peop
 
 ##### North Korea
 ### [Senior North Korean diplomat Kim Kye Gwan heads to the United States for discussions on reopening the six party talks on his country's nuclear weapons program. ](/news/2011/07/26/senior-north-korean-diplomat-kim-kye-gwan-heads-to-the-united-states-for-discussions-on-reopening-the-six-party-talks-on-his-country-s-nucle.md)
-_Context: six party talks, Kim Kye Gwan, North Korea's nuclear program, U.S., North Korea_
+_Context: North Korea's nuclear program, Kim Kye Gwan, U.S., six party talks, North Korea_
 
 ##### Senegal
 ### [Senegalese rapper and government critic Omar Toure is arrested. ](/news/2011/07/26/senegalese-rapper-and-government-critic-omar-toure-is-arrested.md)
@@ -33,11 +33,11 @@ _Context: Senegal, Omar Toure_
 
 ##### Sri Lankan police
 ### [Sri Lankan police hunt for 20 local television actresses alleged to be part of a prostitution ring. ](/news/2011/07/26/sri-lankan-police-hunt-for-20-local-television-actresses-alleged-to-be-part-of-a-prostitution-ring.md)
-_Context: prostitution, Sri Lankan police_
+_Context: Sri Lankan police, prostitution_
 
 ##### Juarez
 ### [A shootout at a prison in Ciudad Jurez, Mexico, leaves 17 dead. ](/news/2011/07/26/a-shootout-at-a-prison-in-ciudad-juarez-mexico-leaves-17-dead.md)
-_Context: Juarez, Mexican_
+_Context: Mexican, Juarez_
 
 ##### Hacking
 ### [David Cecil, an unemployed truck driver, is charged with hacking into Platform Networks's network. ](/news/2011/07/26/david-cecil-an-unemployed-truck-driver-is-charged-with-hacking-into-platform-networks-s-network.md)
@@ -45,7 +45,7 @@ _Context: hacking, Platform Networks_
 
 ##### Nguyen Tan Dung
 ### [Nguyen Tan Dung is re-elected Prime Minister of Vietnam. ](/news/2011/07/26/nguyen-tan-dung-is-re-elected-prime-minister-of-vietnam.md)
-_Context: prime minister, Nguyen Tan Dung_
+_Context: Nguyen Tan Dung, prime minister_
 
 ##### David Wu
 ### [David Wu resigns as a member of the United States House of Representatives following allegations of an unwanted sexual encounter with an 18-year-old. ](/news/2011/07/26/david-wu-resigns-as-a-member-of-the-united-states-house-of-representatives-following-allegations-of-an-unwanted-sexual-encounter-with-an-18.md)

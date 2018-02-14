@@ -5,7 +5,7 @@ Formats: [HTML](2013/05/17/index.html)  [JSON](2013/05/17/index.json)  [XML](201
 
 ##### Wave of violence
 ### [A string of bombings, most of them in Sunni areas of Iraq, kill at least 90 people and injured more than 200 others. ](/news/2013/05/17/a-string-of-bombings-most-of-them-in-sunni-areas-of-iraq-kill-at-least-90-people-and-injured-more-than-200-others.md)
-_Context: wave of violence, Sunni_
+_Context: Sunni, wave of violence_
 
 ##### Malakand District
 ### [Two bombs explode near two separate mosques in the Malakand District of Pakistan, killing 15 people and wounding at least 100 others. ](/news/2013/05/17/two-bombs-explode-near-two-separate-mosques-in-the-malakand-district-of-pakistan-killing-15-people-and-wounding-at-least-100-others.md)
@@ -25,11 +25,11 @@ An elite U.S. Navy SEAL was killed and seven service members were injured in a v
 
 ##### Metro-North Railroad
 ### [Two Metro-North commuter trains collide near Bridgeport, Connecticut injuring at least 72 people and resulting in the cancellation of Amtrak services between New York City and Boston. ](/news/2013/05/17/two-metro-north-commuter-trains-collide-near-bridgeport-connecticut-injuring-at-least-72-people-and-resulting-in-the-cancellation-of-amtrak.md)
-_Context: Metro-North Railroad, Boston, Massachusetts, collide, Connecticut, New York City, Bridgeport, Amtrak, commuter train_
+_Context: Connecticut, Metro-North Railroad, commuter train, New York City, collide, Bridgeport, Boston, Massachusetts, Amtrak_
 
 ##### Jorge Rafael Videla
 ### [Jorge Rafael Videla, who served as President of Argentina after the 1976 Argentine coup d'tat, dies at the age of 87 in a jail of Marcos Paz, Buenos Aires. ](/news/2013/05/17/jorge-rafael-videla-who-served-as-president-of-argentina-after-the-1976-argentine-coup-d-etat-dies-at-the-age-of-87-in-a-jail-of-marcos-pa.md)
-_Context: President of Argentina, Jorge Rafael Videla, Marcos Paz, Buenos Aires, 1976 Argentine coup d'tat_
+_Context: President of Argentina, Marcos Paz, Buenos Aires, 1976 Argentine coup d'tat, Jorge Rafael Videla_
 
 ##### 2013 Cannes Film Festival
 ### [A million dollars worth of jewelry meant for use by celebrities at the 2013 Cannes Film Festival is stolen from a Novotel hotel room in Cannes. ](/news/2013/05/17/a-million-dollars-worth-of-jewelry-meant-for-use-by-celebrities-at-the-2013-cannes-film-festival-is-stolen-from-a-novotel-hotel-room-in-cann.md)
@@ -37,11 +37,11 @@ More than $1m (£650,000) worth of jewels have been stolen from a hotel in the F
 
 ##### Homophobia
 ### [An anti-homophobia march in the Georgian capital Tbilisi results in a riot with dozens of people injured as opponents attack the march. ](/news/2013/05/17/an-anti-homophobia-march-in-the-georgian-capital-tbilisi-results-in-a-riot-with-dozens-of-people-injured-as-opponents-attack-the-march.md)
-_Context: Tbilisi,  Georgian, homophobia_
+_Context: Tbilisi, homophobia,  Georgian_
 
 ##### NASA
 ### [NASA records the brightest lunar meteor impact yet observed. ](/news/2013/05/17/nasa-records-the-brightest-lunar-meteor-impact-yet-observed.md)
-_Context: NASA, moon, meteor impact_
+_Context: NASA, meteor impact, moon_
 
 ##### Electric shock
 ### [Mild electric shock is shown to provide lasting improvement to mathematical ability. ](/news/2013/05/17/mild-electric-shock-is-shown-to-provide-lasting-improvement-to-mathematical-ability.md)

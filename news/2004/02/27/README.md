@@ -5,23 +5,23 @@ Formats: [HTML](2004/02/27/index.html)  [JSON](2004/02/27/index.json)  [XML](200
 
 ##### Same-sex marriage in the United States
 ### [ Same-sex marriage in the United States: The California Supreme Court refuses a petition by California Attorney General Bill Lockyer asking for an immediate ruling on the constitutionality of same-sex marriage laws and a cease and desist order against San Francisco's granting of marriage licenses to same-sex couples. ](/news/2004/02/27/same-sex-marriage-in-the-united-states-the-california-supreme-court-refuses-a-petition-by-california-attorney-general-bill-lockyer-asking.md)
-_Context: Attorney General, Same-sex marriage in the United States, marriage license, San Francisco, California, cease and desist, California Supreme Court, Bill Lockyer, California, same-sex marriage_
+_Context: California, cease and desist, Same-sex marriage in the United States, California Supreme Court, Bill Lockyer, marriage license, San Francisco, California, Attorney General, same-sex marriage_
 
 ##### Yasser Arafat
 ### [ In an angry public exchange, Yasser Arafat calls Fatah official Nasser Yousef a "traitor" and hurls a microphone at him. ](/news/2004/02/27/in-an-angry-public-exchange-yasser-arafat-calls-fatah-official-nasser-yousef-a-traitor-and-hurls-a-microphone-at-him.md)
-_Context: Nasser Yousef, Fatah, Yasser Arafat_
+_Context: Fatah, Yasser Arafat, Nasser Yousef_
 
 ##### International Space Station
 ### [ International Space Station crew Michael Foale and Aleksandr Kaleri perform the first ever spacewalk involving the station's entire crew; the spacewalk is cut short by a malfunction in Kaleri's spacesuit. ](/news/2004/02/27/international-space-station-crew-michael-foale-and-aleksandr-kaleri-perform-the-first-ever-spacewalk-involving-the-station-s-entire-crew-t.md)
-_Context: Aleksandr Kaleri, International Space Station, Michael Foale, outside, spacesuit_
+_Context: International Space Station, Aleksandr Kaleri, outside, spacesuit, Michael Foale_
 
 ##### Shoko Asahara
 ### [ Shoko Asahara, the leader of a Japanese cult that gassed the Tokyo subway in 1995, is sentenced to death by hanging. ](/news/2004/02/27/shoko-asahara-the-leader-of-a-japanese-cult-that-gassed-the-tokyo-subway-in-1995-is-sentenced-to-death-by-hanging.md)
-_Context: Shoko Asahara, sentenced to death, hanging_
+_Context: hanging, sentenced to death, Shoko Asahara_
 
 ##### U.S. Department of Justice
 ### [ The U.S. Justice Department says it will move to block Oracle Corporation's hostile $9.4 billion takeover bid for larger rival PeopleSoft, saying a merger of the two largest accounting and human resources software companies in the U.S. would hurt competition. ](/news/2004/02/27/the-u-s-justice-department-says-it-will-move-to-block-oracle-corporation-s-hostile-9-4-billion-takeover-bid-for-larger-rival-peoplesoft.md)
-_Context: PeopleSoft, accounting, software, Oracle Corporation, U.S. Department of Justice, human resources_
+_Context: Oracle Corporation, human resources, PeopleSoft, accounting, U.S. Department of Justice, software_
 
 ##### Iran
 ### [ Iranian state radio reports Osama bin Laden captured. United States officials discount the reports. ](/news/2004/02/27/iranian-state-radio-reports-osama-bin-laden-captured-united-states-officials-discount-the-reports.md)

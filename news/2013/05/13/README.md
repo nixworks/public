@@ -9,15 +9,15 @@ A car bomb explosion near a hospital in the Libyan city of Benghazi kills and in
 
 #####  Georgian
 ### [Three Georgian soldiers are killed and several wounded in a large-scale insurgent attack on an ISAF base in the Helmand Province. ](/news/2013/05/13/three-georgian-soldiers-are-killed-and-several-wounded-in-a-large-scale-insurgent-attack-on-an-isaf-base-in-the-helmand-province.md)
-_Context:  Georgian, International Security Assistance Force, Georgian servicemen, Helmand Province_
+_Context: International Security Assistance Force, Helmand Province, Georgian servicemen,  Georgian_
 
 ##### Mayan
 ### [A 2,300-year-old Mayan pyramid at Nohmul in Belize is destroyed by a construction company seeking road fill gravel. ](/news/2013/05/13/a-2-300-year-old-mayan-pyramid-at-nohmul-in-belize-is-destroyed-by-a-construction-company-seeking-road-fill-gravel.md)
-_Context: Nohmul, Belize, Mayan_
+_Context: Mayan, Belize, Nohmul_
 
 ##### Americans
 ### [Veteran U.S. broadcaster Barbara Walters announces her 2014 retirement. ](/news/2013/05/13/veteran-u-s-broadcaster-barbara-walters-announces-her-2014-retirement.md)
-_Context: Americans, Barbara Walters_
+_Context: Barbara Walters, Americans_
 
 ##### Kevyn Orr
 ### [Kevyn Orr, a state-appointed emergency manager of the finances of the city of Detroit, Michigan, issues a report describing the city as "clearly insolvent on a cash flow basis." ](/news/2013/05/13/kevyn-orr-a-state-appointed-emergency-manager-of-the-finances-of-the-city-of-detroit-michigan-issues-a-report-describing-the-city-as-cle.md)
@@ -57,7 +57,7 @@ Reporters at Bloomberg News were told to use the terminals to get an edge in the
 
 ##### Senate
 ### [The Senate in the U.S. state of Minnesota passes a bill legalizing same-sex marriage. Governor Mark Dayton says he intends to sign it into law. ](/news/2013/05/13/the-senate-in-the-u-s-state-of-minnesota-passes-a-bill-legalizing-same-sex-marriage-governor-mark-dayton-says-he-intends-to-sign-it-into-l.md)
-_Context: Minnesota, Mark Dayton, same-sex marriage, Senate, U.S. state_
+_Context: Minnesota, Mark Dayton, Senate, U.S. state, same-sex marriage_
 
 ##### Philippines
 ### [Voters in the Philippines go to the polls for House of Representatives and Senate elections with police on heightened security. ](/news/2013/05/13/voters-in-the-philippines-go-to-the-polls-for-house-of-representatives-and-senate-elections-with-police-on-heightened-security.md)

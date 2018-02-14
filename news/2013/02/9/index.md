@@ -37,7 +37,7 @@ The New Orleans police said they were seeking three men in the shooting, which l
 
 ##### Afzal Guru
 ### [Afzal Guru is hanged at Tihar Jail in New Delhi, India, for his role in the 2001 Indian Parliament attack. ](/news/2013/02/9/afzal-guru-is-hanged-at-tihar-jail-in-new-delhi-india-for-his-role-in-the-2001-indian-parliament-attack.md)
-_Context: New Delhi, death, Tihar Jail, Afzal Guru, 2001 Indian Parliament attack, India_
+_Context: death, 2001 Indian Parliament attack, India, Afzal Guru, Tihar Jail, New Delhi_
 
 ##### Annette Schavan
 ### [Annette Schavan, the German Federal Minister of Education and Research, resigns after the University of Dusseldorf stripped Schavan of her doctorate for plagiarism. ](/news/2013/02/9/annette-schavan-the-german-federal-minister-of-education-and-research-resigns-after-the-university-of-da1-4sseldorf-stripped-schavan-of-her.md)

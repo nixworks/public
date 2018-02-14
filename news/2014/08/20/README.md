@@ -17,7 +17,7 @@ Commodities group Glencore (GLEN.L) became the first of the large miners to hono
 
 ##### Landslide
 ### [At least 27 people have been pronounced dead after landslides in Japan's Hiroshima prefecture with another ten missing. ](/news/2014/08/20/at-least-27-people-have-been-pronounced-dead-after-landslides-in-japan-s-hiroshima-prefecture-with-another-ten-missing.md)
-_Context: Japan, Hiroshima prefecture, landslide_
+_Context: landslide, Hiroshima prefecture, Japan_
 
 ##### IAEA
 ### [IAEA reports that Iran is continuing to meet its commitments under the interim accord that it reached with the P5+1. ](/news/2014/08/20/iaea-reports-that-iran-is-continuing-to-meet-its-commitments-under-the-interim-accord-that-it-reached-with-the-p5-1.md)
@@ -25,7 +25,7 @@ Iran has started taking action to comply with the terms of an extended agreement
 
 ##### Tarsier
 ### [A new species of tarsier is discovered in Dinagat, Philippines. ](/news/2014/08/20/a-new-species-of-tarsier-is-discovered-in-dinagat-philippines.md)
-_Context: Dinagat, tarsier, Philippines_
+_Context: tarsier, Philippines, Dinagat_
 
 ## [Previous Day...](/news/2014/08/19/index.md)
 

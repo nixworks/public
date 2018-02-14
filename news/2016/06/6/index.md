@@ -5,7 +5,7 @@ Formats: [HTML](2016/06/6/index.html)  [JSON](2016/06/6/index.json)  [XML](2016/
 
 ##### Jordanian intelligence
 ### [Five people working for Jordanian intelligence are killed in an attack in a Palestinian Baqa'a refugee camp near Amman. ](/news/2016/06/6/five-people-working-for-jordanian-intelligence-are-killed-in-an-attack-in-a-palestinian-baqa-a-refugee-camp-near-amman.md)
-_Context: Baqa'a refugee camp, Amman, Jordanian intelligence_
+_Context: Jordanian intelligence, Amman, Baqa'a refugee camp_
 
 ##### Australian east coast low
 ### [Three bodies have been discovered in flood waters: two in the state of New South Wales and one in the Australian Capital Territory. Two people are missing in Tasmania. ](/news/2016/06/6/three-bodies-have-been-discovered-in-flood-waters-two-in-the-state-of-new-south-wales-and-one-in-the-australian-capital-territory-two-peop.md)
@@ -37,7 +37,7 @@ _Context: Haitian presidential election, 2015-16, Haiti_
 
 ##### Democratic Party presidential primaries, 2016
 ### [The Associated Press reports that Hillary Clinton has the support of enough delegates to secure the Democratic Party nomination. Since delegates do not vote until the convention though, she is the presumptive nominee of the party. ](/news/2016/06/6/the-associated-press-reports-that-hillary-clinton-has-the-support-of-enough-delegates-to-secure-the-democratic-party-nomination-since-deleg.md)
-_Context: Hillary Clinton, Democrat, Associated Press, Democratic Party presidential primaries, 2016, presumptive nominee_
+_Context: presumptive nominee, Associated Press, Democratic Party presidential primaries, 2016, Democrat, Hillary Clinton_
 
 ## [Previous Day...](/news/2016/06/5/index.md)
 

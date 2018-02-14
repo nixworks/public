@@ -9,7 +9,7 @@ A series of barrel bombs dropped by Syria&#39;s regime killed at least 45 civili
 
 ##### Boko Haram
 ### [A suicide bomber kills 26 people in a Maiduguri mosque hours after militants launch an attack on the first full day of President of Nigeria Muhammadu Buhari's term of office. ](/news/2015/05/30/a-suicide-bomber-kills-26-people-in-a-maiduguri-mosque-hours-after-militants-launch-an-attack-on-the-first-full-day-of-president-of-nigeria.md)
-_Context: Boko Haram, suicide bomber, President, Maiduguri, Muhammadu Buhari_
+_Context: Muhammadu Buhari, President, Boko Haram, Maiduguri, suicide bomber_
 
 ##### Japan
 ### [A 7.8 magnitude earthquake occurs off the coast of Japan. No tsunami warning is issued. ](/news/2015/05/30/a-7-8-magnitude-earthquake-occurs-off-the-coast-of-japan-no-tsunami-warning-is-issued.md)
@@ -29,11 +29,11 @@ US defence secretary expresses deep concern about China’s push to claim resour
 
 ##### Beau Biden
 ### [Beau Biden, U.S. Vice President Joseph Biden's son, who had served in the Iraq War and for multiple terms as the Attorney General of Delaware, dies at Walter Reed Medical Center after a battle with malignant brain cancer. ](/news/2015/05/30/beau-biden-u-s-vice-president-joseph-biden-s-son-who-had-served-in-the-iraq-war-and-for-multiple-terms-as-the-attorney-general-of-delawar.md)
-_Context: brain cancer, Iraq War, Walter Reed Medical Center, Attorney General of Delaware, Beau Biden, Joseph Biden_
+_Context: Walter Reed Medical Center, Joseph Biden, Iraq War, brain cancer, Attorney General of Delaware, Beau Biden_
 
 ##### Martin O'Malley
 ### [Martin O'Malley announces that he will be seeking the Democratic Party nomination in the 2016 US presidential election. ](/news/2015/05/30/martin-o-malley-announces-that-he-will-be-seeking-the-democratic-party-nomination-in-the-2016-us-presidential-election.md)
-_Context: Martin O'Malley, 2016 U.S. presidential election, Democrat_
+_Context: Martin O'Malley, Democrat, 2016 U.S. presidential election_
 
 ##### Saiga antelope
 ### [A mystery disease has killed over 120,000 saiga antelopes - more than a third of the world's total population - in Kazakhstan in recent weeks. ](/news/2015/05/30/a-mystery-disease-has-killed-over-120-000-saiga-antelopes-a-more-than-a-third-of-the-world-s-total-population-a-in-kazakhstan-in-recent.md)

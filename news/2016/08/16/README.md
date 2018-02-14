@@ -29,7 +29,7 @@ Gov. Jerry Brown has declared a state of emergency in the fast-moving Blue Cut F
 
 ##### California wildfires
 ### [California authorities charge a Clearlake resident with 17 counts of arson in connection with the wildfires over the last two years. ](/news/2016/08/16/california-authorities-charge-a-clearlake-resident-with-17-counts-of-arson-in-connection-with-the-wildfires-over-the-last-two-years.md)
-_Context: California, California wildfires, Clearlake_
+_Context: California wildfires, Clearlake, California_
 
 ##### Medical marijuana
 ### [A United States Court of Appeals rules that the Department of Justice, per the Rohrabacher-Farr amendment, cannot spend money to prosecute federal marijuana cases if the defendants comply with state medical marijuana laws. ](/news/2016/08/16/a-united-states-court-of-appeals-rules-that-the-department-of-justice-per-the-rohrabacher-farr-amendment-cannot-spend-money-to-prosecute-f.md)

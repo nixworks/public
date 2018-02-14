@@ -17,7 +17,7 @@ _Context: Kenya_
 
 ##### Tear gas
 ### [Police again fire tear gas at demonstrators participating in nationwide protests across Brazil. ](/news/2013/06/23/police-again-fire-tear-gas-at-demonstrators-participating-in-nationwide-protests-across-brazil.md)
-_Context: Brazil, tear gas_
+_Context: tear gas, Brazil_
 
 ##### Al-Qaeda
 ### [Al-Qaeda-linked gunmen kidnap two sisters working on a film in the Philippines ](/news/2013/06/23/al-qaeda-linked-gunmen-kidnap-two-sisters-working-on-a-film-in-the-philippines.md)
@@ -33,7 +33,7 @@ Army suspends rescue helicopter flights in Uttarakhand state due to dense fog as
 
 ##### Romanians
 ### [At least 18 Romanians were killed and 32 were injured after a bus crash, in Montenegro. ](/news/2013/06/23/at-least-18-romanians-were-killed-and-32-were-injured-after-a-bus-crash-in-montenegro.md)
-_Context: bus crash, Romanians, Montenegro_
+_Context: Montenegro, bus crash, Romanians_
 
 ##### Hong Kong
 ### [After a failed U.S. extradition request Hong Kong says does not fully comply with the law, U.S. whistleblower Edward Snowden leaves Hong Kong for Moscow. ](/news/2013/06/23/after-a-failed-u-s-extradition-request-hong-kong-says-does-not-fully-comply-with-the-law-u-s-whistleblower-edward-snowden-leaves-hong-kon.md)

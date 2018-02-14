@@ -17,7 +17,7 @@ At least 50 people are reported to have died after overnight floods and landslid
 
 ##### North Korea
 ### [North Korea withdraws an invitation to a United States envoy to discuss the release of Kenneth Bae. ](/news/2014/02/10/north-korea-withdraws-an-invitation-to-a-united-states-envoy-to-discuss-the-release-of-kenneth-bae.md)
-_Context: U.S., North Korea, Kenneth Bae_
+_Context: North Korea, U.S., Kenneth Bae_
 
 ##### U.S.
 ### [The United States files a complaint with the World Trade Organization, accusing Indian laws of discriminating against US solar panel manufacturers. ](/news/2014/02/10/the-united-states-files-a-complaint-with-the-world-trade-organization-accusing-indian-laws-of-discriminating-against-us-solar-panel-manufac.md)

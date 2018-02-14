@@ -37,7 +37,7 @@ Two soldiers died when a military jet crashed in a south-eastern Iranian city wh
 
 ##### Kuwait
 ### [Kuwait sentences two people to death for spying for Iran and Hezbollah. ](/news/2016/01/12/kuwait-sentences-two-people-to-death-for-spying-for-iran-and-hezbollah.md)
-_Context: Kuwait, Hezbollah, Iran_
+_Context: Hezbollah, Iran, Kuwait_
 
 ##### Joint Comprehensive Plan of Action
 ### [In accordance with a major point of a nuclear agreement reached with several world powers, Iran removed a plutonium core and filled with concrete the Arak nuclear reactor, setting the stage for the removal of sanctions against Iran. ](/news/2016/01/12/in-accordance-with-a-major-point-of-a-nuclear-agreement-reached-with-several-world-powers-iran-removed-a-plutonium-core-and-filled-with-con.md)
@@ -45,7 +45,7 @@ The implementation of a nuclear agreement reached last July is now just days awa
 
 ##### Iran-United States relations
 ### [Iran seizes the crew of two small United States Navy boats near Farsi Island, in the Persian Gulf, after they had allegedly entered Iranian waters. Pentagon spokesman, Peter Cook, told Associated Press that Iran has assured the United States that the crew and vessels will be returned promptly. ](/news/2016/01/12/iran-seizes-the-crew-of-two-small-united-states-navy-boats-near-farsi-island-in-the-persian-gulf-after-they-had-allegedly-entered-iranian.md)
-_Context: Peter Cook, Iran, Associated Press, Iran-United States relations, U.S., United States Navy, Farsi Island, Persian Gulf_
+_Context: Persian Gulf, Iran-United States relations, Associated Press, United States Navy, Iran, Peter Cook, Farsi Island, U.S._
 
 ##### North Korea-United States relations
 ### [The United States House of Representatives votes overwhelmingly in favor of legislation to tighten sanctions on North Korea in response to the North's latest nuclear test. ](/news/2016/01/12/the-united-states-house-of-representatives-votes-overwhelmingly-in-favor-of-legislation-to-tighten-sanctions-on-north-korea-in-response-to-t.md)

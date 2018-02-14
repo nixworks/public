@@ -5,19 +5,19 @@ Formats: [HTML](2005/02/19/index.html)  [JSON](2005/02/19/index.json)  [XML](200
 
 ##### Prison
 ### [ 350 inmates escape from a prison in Port-au-Prince, Haiti. ](/news/2005/02/19/350-inmates-escape-from-a-prison-in-port-au-prince-haiti.md)
-_Context: Haiti, prison, Port-au-Prince_
+_Context: Port-au-Prince, Haiti, prison_
 
 ##### Rome, Italy
 ### [ A massive demonstration in Rome asks for the release of an Italian journalist abducted in Iraq. ](/news/2005/02/19/a-massive-demonstration-in-rome-asks-for-the-release-of-an-italian-journalist-abducted-in-iraq.md)
-_Context: Rome, Italy, Italy, Iraq_
+_Context: Italy, Rome, Italy, Iraq_
 
 ##### Earthquake
 ### [ An earthquake, registering 6.9 on the Richter scale, strikes South East Sulawesi, Indonesia at 00:04 UTC. ](/news/2005/02/19/an-earthquake-registering-6-9-on-the-richter-scale-strikes-south-east-sulawesi-indonesia-at-00-04-utc.md)
-_Context: UTC, South East Sulawesi, magnitude, Indonesia, earthquake_
+_Context: earthquake, magnitude, South East Sulawesi, UTC, Indonesia_
 
 ##### Jimmy Carter
 ### [ Former US President Jimmy Carter is on hand to christen the USS Jimmy Carter, the last of the Seawolf class submarines ordered during the Cold War. The submarine cost 3.2 billion USD. It has a 100-foot (30.5 m) extension for special operations and can reportedly tap undersea cables. ](/news/2005/02/19/former-us-president-jimmy-carter-is-on-hand-to-christen-the-uss-jimmy-carter-the-last-of-the-seawolf-class-submarines-ordered-during-the-c.md)
-_Context: Jimmy Carter, USS Jimmy Carter, USD, Cold War, Seawolf class submarine_
+_Context: Seawolf class submarine, Jimmy Carter, Cold War, USS Jimmy Carter, USD_
 
 ##### Egypt
 ### [ In a 13-hour operation, doctors in Egypt successfully remove the second head of a baby suffering from the rare disease craniopagus parasiticus. This is the second such operation to take place in a year. The previous operation, in the Dominican Republic, was not successful and resulted in death. ](/news/2005/02/19/in-a-13-hour-operation-doctors-in-egypt-successfully-remove-the-second-head-of-a-baby-suffering-from-the-rare-disease-craniopagus-parasiti.md)

@@ -13,11 +13,11 @@ News and opinion from The Times &amp; The Sunday Times
 
 ##### Palestinian Authority President
 ### [ The President of the Palestinian National Authority, Mahmoud Abbas, orders security forces to deploy across the Gaza Strip in response to the murder of a Fatah security chief's three sons. ](/news/2006/12/12/the-president-of-the-palestinian-national-authority-mahmoud-abbas-orders-security-forces-to-deploy-across-the-gaza-strip-in-response-to-t.md)
-_Context: Gaza Strip, Palestinian Authority President, Mahmoud Abbas_
+_Context: Gaza Strip, Mahmoud Abbas, Palestinian Authority President_
 
 ##### Ipswich
 ### [ Police in Ipswich, UK are hunting a possible serial killer after five prostitutes are found dead within the last ten days. ](/news/2006/12/12/police-in-ipswich-uk-are-hunting-a-possible-serial-killer-after-five-prostitutes-are-found-dead-within-the-last-ten-days.md)
-_Context: Ipswich murder case, prostitute, United Kingdom, Ipswich_
+_Context: prostitute, Ipswich murder case, United Kingdom, Ipswich_
 
 ##### Vietnam
 ### [ Vietnam will become the 150th member of the World Trade Organization on January 11, 2007. The move finalises Hanoi's near-12-year wait to join the WTO. ](/news/2006/12/12/vietnam-will-become-the-150th-member-of-the-world-trade-organization-on-january-11-2007-the-move-finalises-hanoi-s-near-12-year-wait-to-j.md)

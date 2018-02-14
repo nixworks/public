@@ -13,7 +13,7 @@ Ukrainian troops abandon Luhansk airport after clashes with pro-Russian rebels, 
 
 ##### Manila
 ### [Four people are arrested after an attempted bombing in Manila's Ninoy Aquino International Airport. ](/news/2014/09/1/four-people-are-arrested-after-an-attempted-bombing-in-manila-s-ninoy-aquino-international-airport.md)
-_Context: Ninoy Aquino International Airport, Manila_
+_Context: Manila, Ninoy Aquino International Airport_
 
 ##### Work and Income
 ### [A gunman shoots dead two people and injures a third at the Work and Income office in Ashburton, New Zealand, before fleeing on a bicycle. The town is locked down for seven hours while police search for and apprehend the suspected gunman. ](/news/2014/09/1/a-gunman-shoots-dead-two-people-and-injures-a-third-at-the-work-and-income-office-in-ashburton-new-zealand-before-fleeing-on-a-bicycle-th.md)

@@ -9,7 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Zambia
 ### [ Zambia's President, Levy Mwanawasa, is re-elected, according to the Zambian Electoral Commission. ](/news/2006/10/2/zambia-s-president-levy-mwanawasa-is-re-elected-according-to-the-zambian-electoral-commission.md)
-_Context: President, Levy Mwanawasa, Zambia, re-elected_
+_Context: President, re-elected, Zambia, Levy Mwanawasa_
 
 ##### Amish school shooting
 ### [ At least five pupils, a teacher's aide, and a gunman are dead after an Amish school shooting in Nickel Mines, Pennsylvania, United States. Some reports have the number of dead at six. ](/news/2006/10/2/at-least-five-pupils-a-teacher-s-aide-and-a-gunman-are-dead-after-an-amish-school-shooting-in-nickel-mines-pennsylvania-united-states.md)
@@ -25,7 +25,7 @@ Russia took its first significant retaliatory steps after Georgia’s arrests of
 
 ##### Las Vegas
 ### [ Two schools in the Las Vegas Valley, Nevada, United States, are locked down, after a former student reportedly brought an AK-47 or other automatic weapons to school. (Wikinews) ](/news/2006/10/2/two-schools-in-the-las-vegas-valley-nevada-united-states-are-locked-down-after-a-former-student-reportedly-brought-an-ak-47-or-other-au.md)
-_Context: Nevada, AK-47s, U.S., (Wikinews), Las Vegas_
+_Context: Las Vegas, Nevada, AK-47s, U.S., (Wikinews)_
 
 ##### Andrew Fire
 ### [ Andrew Fire and Craig Mello win the Nobel Prize in Physiology or Medicine for their work in controlling the activity of genes. ](/news/2006/10/2/andrew-fire-and-craig-mello-win-the-nobel-prize-in-physiology-or-medicine-for-their-work-in-controlling-the-activity-of-genes.md)
@@ -33,7 +33,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Canadian
 ### [ Canada's Meteorological Service issues a tropical storm warning for the Avalon Peninsula in southeastern Newfoundland, including the cities of Cape Race and St John's, due to Hurricane Isaac. ](/news/2006/10/2/canada-s-meteorological-service-issues-a-tropical-storm-warning-for-the-avalon-peninsula-in-southeastern-newfoundland-including-the-cities.md)
-_Context: Meteorological Service, Newfoundland, tropical storm warning, Canadian, Cape Race, St. John's, Avalon Peninsula_
+_Context: Meteorological Service, Cape Race, St. John's, Newfoundland, Canadian, Avalon Peninsula, tropical storm warning_
 
 ## [Previous Day...](/news/2006/10/1/index.md)
 

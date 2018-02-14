@@ -29,7 +29,7 @@ The first private clinic to offer abortions to women in Northern Ireland is due 
 
 ##### Amasya
 ### [Seven prisoners from Amasya Prison in Turkey say that they began "indefinite and irreversible" hunger strikes on October 5, and their health is at serious risk. ](/news/2012/10/11/seven-prisoners-from-amasya-prison-in-turkey-say-that-they-began-indefinite-and-irreversible-hunger-strikes-on-october-5-and-their-health.md)
-_Context: Turkey, hunger strike, Amasya_
+_Context: Turkey, Amasya, hunger strike_
 
 ##### Turkey
 ### [Turkey says investigators found Russian-made ammunition and military communications equipment in a Syrian passenger plane heading to Damascus from Moscow. Syria accuses Turkey of aircraft piracy, says the plane did not carry the alleged equipment and challenges Turkey to show evidence. ](/news/2012/10/11/turkey-says-investigators-found-russian-made-ammunition-and-military-communications-equipment-in-a-syrian-passenger-plane-heading-to-damascu.md)
@@ -37,7 +37,7 @@ Syria has accused Turkey of “air piracy” after Turkish fighter jets on Wedne
 
 ##### Samsung
 ### [A U.S. appeals court has overturned a district court order that had banned the sale of Samsung's Galaxy Nexus in the US, delivering a winning round for Google's Android against Apple Inc.. ](/news/2012/10/11/a-u-s-appeals-court-has-overturned-a-district-court-order-that-had-banned-the-sale-of-samsung-s-galaxy-nexus-in-the-us-delivering-a-winnin.md)
-_Context: Samsung, Android, Galaxy Nexus, Google, Apple Inc._
+_Context: Android, Galaxy Nexus, Samsung, Apple Inc., Google_
 
 ##### England
 ### [Englishman Barry Thew is sentenced to four months in jail after a t-shirt he wore is deemed to offend public morality. ](/news/2012/10/11/englishman-barry-thew-is-sentenced-to-four-months-in-jail-after-a-t-shirt-he-wore-is-deemed-to-offend-public-morality.md)

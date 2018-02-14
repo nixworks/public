@@ -9,7 +9,7 @@ At least four gunmen launched an attack, according to Afghan officials
 
 ##### Turkish military intervention in Afrin
 ### [Turkish President Erdogan announces that Turkish Army ground troops have entered the district of Afrin in Syria. Turkish Prime Minister Binali Yildirim says the goal is to establish a 30-km safe zone. ](/news/2018/01/21/turkish-president-erdoaan-announces-that-turkish-army-ground-troops-have-entered-the-district-of-afrin-in-syria-turkish-prime-minister-bin.md)
-_Context: Afrin District, Turkish military intervention in Afrin, Turkish Prime Minister, Turkish Army ground troops, Recep Tayyip Erdogan, Binali Yildirim, Syria, President of Turkey_
+_Context: Syria, President of Turkey, Recep Tayyip Erdogan, Turkish military intervention in Afrin, Turkish Army ground troops, Turkish Prime Minister, Afrin District, Binali Yildirim_
 
 ##### Turkish military intervention in Afrin
 ### [France's Foreign Minister Jean-Yves Le Drian calls for an emergency meeting of the United Nations Security Council to address the Turkish incursion into Northern Syria's Afrin Region. The UNSC will convene on Monday. ](/news/2018/01/21/france-s-foreign-minister-jean-yves-le-drian-calls-for-an-emergency-meeting-of-the-united-nations-security-council-to-address-the-turkish-in.md)
@@ -17,11 +17,11 @@ The United Nations Security Council will hold talks about the situation in Syria
 
 ##### Jordan-United States relations
 ### [Abdullah II of Jordan tells U.S. Vice President Mike Pence the U.S. has to rebuild "trust and confidence" to achieve a two-state solution in Israel after the U.S. recognized Jerusalem as Israel's capital. ](/news/2018/01/21/abdullah-ii-of-jordan-tells-u-s-vice-president-mike-pence-the-u-s-has-to-rebuild-trust-and-confidence-to-achieve-a-two-state-solution-in.md)
-_Context: two-state solution, Israel, recognize Jerusalem as Israel's capital, Abdullah II of Jordan, Jordan-United States relations, Mike Pence_
+_Context: Mike Pence, Israel, Abdullah II of Jordan, two-state solution, Jordan-United States relations, recognize Jerusalem as Israel's capital_
 
 ##### 2018 Women's March
 ### [Hundreds of thousands protest for a second day throughout the United States in support of women's rights. ](/news/2018/01/21/hundreds-of-thousands-protest-for-a-second-day-throughout-the-united-states-in-support-of-women-s-rights.md)
-_Context: women's rights, 2018 Women's March, U.S._
+_Context: women's rights, U.S., 2018 Women's March_
 
 ##### Politics of Somalia
 ### [President Mohamed Abdullahi Mohamed fires Taabit Abdi Mohamed as mayor of Mogadishu and replaces him with his information minister, Abdirahman Omar Osman. ](/news/2018/01/21/president-mohamed-abdullahi-mohamed-fires-taabit-abdi-mohamed-as-mayor-of-mogadishu-and-replaces-him-with-his-information-minister-abdirahm.md)

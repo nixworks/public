@@ -17,15 +17,15 @@ _Context: Iraq, Kirkuk Governorate_
 
 ##### Villahermosa
 ### [A bus en route from Villahermosa to Mexico City crashes into a tractor-trailer and catches fire, killing at least 36 people. ](/news/2014/04/13/a-bus-en-route-from-villahermosa-to-mexico-city-crashes-into-a-tractor-trailer-and-catches-fire-killing-at-least-36-people.md)
-_Context: crashes, Villahermosa, Mexico City_
+_Context: Mexico City, Villahermosa, crashes_
 
 ##### Overland Park Jewish Community Center shooting
 ### [Overland Park Jewish Community Center shooting. Two shootings occur at Jewish facilities on the Kansas side of the Kansas City area. The first occurs at a Jewish Community Center in Overland Park, and the second takes place at a retirement center in Leawood. Three people are killed. A gunman is arrested. ](/news/2014/04/13/overland-park-jewish-community-center-shooting-two-shootings-occur-at-jewish-facilities-on-the-kansas-side-of-the-kansas-city-area-the-fir.md)
-_Context: Kansas City area, Jewish, Leawood, Jewish Community Center, Overland Park, Kansas, Overland Park Jewish Community Center shooting_
+_Context: Kansas City area, Overland Park, Kansas, Jewish, Overland Park Jewish Community Center shooting, Leawood, Jewish Community Center_
 
 ##### Forest fire
 ### [A massive forest fire in Valparaso, Chile destroys thousands of homes and leaves 11 people dead. ](/news/2014/04/13/a-massive-forest-fire-in-valparaiso-chile-destroys-thousands-of-homes-and-leaves-11-people-dead.md)
-_Context: Chile, Valparaso, forest fire_
+_Context: Valparaso, Chile, forest fire_
 
 ##### Honiara
 ### [A 7.7 magnitude earthquake strikes 204 miles southeast of Honiara, Solomon Islands with no reported casualties or damage. ](/news/2014/04/13/a-7-7-magnitude-earthquake-strikes-204-miles-southeast-of-honiara-solomon-islands-with-no-reported-casualties-or-damage.md)
@@ -33,7 +33,7 @@ Another powerful earthquake has struck the Solomon Islands, the second strong te
 
 ##### Libyan Prime Minister
 ### [Prime Minister of Libya Abdullah al-Thani resigns, citing that he and his family were attacked. ](/news/2014/04/13/prime-minister-of-libya-abdullah-al-thani-resigns-citing-that-he-and-his-family-were-attacked.md)
-_Context: Libyan Prime Minister, Abdullah al-Thani_
+_Context: Abdullah al-Thani, Libyan Prime Minister_
 
 ##### Runoff presidential election
 ### [Voters in Macedonia go to the polls for the first round of voting in a presidential election. ](/news/2014/04/13/voters-in-macedonia-go-to-the-polls-for-the-first-round-of-voting-in-a-presidential-election.md)

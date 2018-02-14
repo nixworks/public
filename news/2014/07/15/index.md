@@ -37,7 +37,7 @@ A rush-hour train derails on the Moscow metro, killing 21 people, the Russian au
 
 ##### 2009 Black Saturday bushfires
 ### [Ten thousand survivors of the Black Saturday bushfires in the Australian state of Victoria in February 2009 win a settlement of A$497.4 million against utility company SP AusNet, its maintenance contractor and the Victorian Department of Sustainability and Environment for poor inadequate maintenance and protection measures. ](/news/2014/07/15/ten-thousand-survivors-of-the-black-saturday-bushfires-in-the-australian-state-of-victoria-in-february-2009-win-a-settlement-of-a-497-4-mill.md)
-_Context: SP AusNet, Australia, 2009 Black Saturday bushfires, Victoria, Victorian Department of Sustainability and Environment_
+_Context: Victorian Department of Sustainability and Environment, Australia, 2009 Black Saturday bushfires, Victoria, SP AusNet_
 
 ##### Mexican police
 ### [Mexican police rescue 458 children and 138 adults from a Great Family Group Home in Michoacan state where they were allegedly badly mistreated including sexual abuse. ](/news/2014/07/15/mexican-police-rescue-458-children-and-138-adults-from-a-great-family-group-home-in-michoacan-state-where-they-were-allegedly-badly-mistreat.md)
@@ -53,7 +53,7 @@ Jean-Claude Juncker has been elected as president of the European Commission. He
 
 ##### Croatian
 ### [The Croatian parliament passes a law that recognizes life partnerships for same-sex couples, making them equal married couples in everything except adoption. ](/news/2014/07/15/the-croatian-parliament-passes-a-law-that-recognizes-life-partnerships-for-same-sex-couples-making-them-equal-married-couples-in-everything.md)
-_Context: Croatian, civil union_
+_Context: civil union, Croatian_
 
 ## [Previous Day...](/news/2014/07/14/index.md)
 

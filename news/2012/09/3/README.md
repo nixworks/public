@@ -5,7 +5,7 @@ Formats: [HTML](2012/09/3/index.html)  [JSON](2012/09/3/index.json)  [XML](2012/
 
 ##### International Committee of the Red Cross
 ### [The head of the international Red Cross, Peter Maurer, arrives in Damascus for a three-day review with the Syrian government of the humanitarian situation. ](/news/2012/09/3/the-head-of-the-international-red-cross-peter-maurer-arrives-in-damascus-for-a-three-day-review-with-the-syrian-government-of-the-humanita.md)
-_Context: International Committee of the Red Cross, Government of Syria, Syria, humanitarian situation, Damascus_
+_Context: Damascus, Syria, Government of Syria, International Committee of the Red Cross, humanitarian situation_
 
 ##### New Zealand
 ### [New Zealand announces that it plans to withdraw its forces from Afghanistan's Bamiyan province by the end of April 2013. ](/news/2012/09/3/new-zealand-announces-that-it-plans-to-withdraw-its-forces-from-afghanistan-s-bamiyan-province-by-the-end-of-april-2013.md)
@@ -21,7 +21,7 @@ Shares of world No. 3 platinum producer Lonmin (LONJ.J) rose 3.5 percent on Mond
 
 ##### Michael Clarke Duncan
 ### [American actor Michael Clarke Duncan dies in Los Angeles at the age of 54. ](/news/2012/09/3/american-actor-michael-clarke-duncan-dies-in-los-angeles-at-the-age-of-54.md)
-_Context: Los Angeles, Michael Clarke Duncan_
+_Context: Michael Clarke Duncan, Los Angeles_
 
 ##### Jefferson Starship
 ### [Jefferson Starship guitarist Mark Abrahamian, aged 46, dies of a heart attack after a concert. ](/news/2012/09/3/jefferson-starship-guitarist-mark-abrahamian-aged-46-dies-of-a-heart-attack-after-a-concert.md)
@@ -33,7 +33,7 @@ Moody’s said the European Union’s rating would be particularly vulnerable to
 
 ##### North Korea
 ### [The North Korean state news agency says "Typhoon-15" (Bolaven) left 48 people dead and caused major damage. ](/news/2012/09/3/the-north-korean-state-news-agency-says-typhoon-15-bolaven-left-48-people-dead-and-caused-major-damage.md)
-_Context: North Korea, Bolaven_
+_Context: Bolaven, North Korea_
 
 ##### Lebanese
 ### [Lebanon bans smoking in closed public places like restaurants and cafs. ](/news/2012/09/3/lebanon-bans-smoking-in-closed-public-places-like-restaurants-and-cafes.md)
@@ -41,7 +41,7 @@ Before heading to lunch or going out for drinks, find an ashtray and stub out th
 
 ##### South Korea
 ### [South Korea and Japan temporarily halt some military cooperation programs in a long-running dispute over control of the Liancourt Rocks. South Korea's first fleet plans a "biannual" drill around the area from September 7 to 11. ](/news/2012/09/3/south-korea-and-japan-temporarily-halt-some-military-cooperation-programs-in-a-long-running-dispute-over-control-of-the-liancourt-rocks-sou.md)
-_Context: South Korea, Japan, first fleet, dispute, Liancourt Rocks_
+_Context: dispute, South Korea, first fleet, Liancourt Rocks, Japan_
 
 ##### DR Congo
 ### [The Democratic Republic of the Congo wants United Nations sanctions on Rwandese top military officials named in a June U.N. report as supporting the M23 rebels in the current east Congo conflict. ](/news/2012/09/3/the-democratic-republic-of-the-congo-wants-united-nations-sanctions-on-rwandese-top-military-officials-named-in-a-june-u-n-report-as-suppor.md)

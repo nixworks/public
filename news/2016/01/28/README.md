@@ -5,7 +5,7 @@ Formats: [HTML](2016/01/28/index.html)  [JSON](2016/01/28/index.json)  [XML](201
 
 ##### Yemeni Civil War (2015-present)
 ### [At least seven people are killed in a suicide bomb attack near the presidential palace in Aden, Yemen. The Islamic State of Iraq and the Levant claims it was behind the attack. ](/news/2016/01/28/at-least-seven-people-are-killed-in-a-suicide-bomb-attack-near-the-presidential-palace-in-aden-yemen-the-islamic-state-of-iraq-and-the-lev.md)
-_Context: Yemen, ISIL, Aden, Yemeni Civil War (2015-present)_
+_Context: Aden, Yemen, Yemeni Civil War (2015-present), ISIL_
 
 ##### European migrant crisis
 ### [A boat carrying Iraqi Kurd migrants sinks off the Greek island of Samos in the Aegean Sea off Turkey's Anatolian coast, killing at least 24 people, including several children, with 11 others missing. ](/news/2016/01/28/a-boat-carrying-iraqi-kurd-migrants-sinks-off-the-greek-island-of-samos-in-the-aegean-sea-off-turkey-s-anatolian-coast-killing-at-least-24.md)
@@ -17,15 +17,15 @@ The World Health Organization announced Thursday that it has convened an emergen
 
 ##### Territorial disputes in the South China Sea
 ### [The President of Taiwan Ma Ying-jeou visits Taiping Island, Taiwan's largest island in the South China Sea, despite the United States warning it could provoke diplomatic tensions with the People's Republic of China and other nations in the area. ](/news/2016/01/28/the-president-of-taiwan-ma-ying-jeou-visits-taiping-island-taiwan-s-largest-island-in-the-south-china-sea-despite-the-united-states-warnin.md)
-_Context: China, U.S., President of Taiwan, Taiping Island, South China Sea, Territorial disputes in the South China Sea, Ma Ying-jeou, Taiwan_
+_Context: Ma Ying-jeou, South China Sea, President of Taiwan, Taiwan, U.S., Territorial disputes in the South China Sea, China, Taiping Island_
 
 ##### European migrant crisis
 ### [Swedish Interior Minister Anders Ygeman tells financial newspaper "Dagens Industri" that Sweden is disallowing about 45 percent of asylum applications which means around 60,000-80,000 asylum-seekers could be deported in coming years. ](/news/2016/01/28/swedish-interior-minister-anders-ygeman-tells-financial-newspaper-dagens-industri-that-sweden-is-disallowing-about-45-percent-of-asylum-ap.md)
-_Context: asylum applications, Anders Ygeman, European migrant crisis, Dagens Industri, refugees, Sweden, Interior Minister_
+_Context: European migrant crisis, Anders Ygeman, asylum applications, Dagens Industri, Interior Minister, refugees, Sweden_
 
 ##### Russo-Georgian War
 ### [Georgia welcomes the ICC's investigation into alleged war crimes committed during the 2008 South Ossetia war, which will be the first inquiry by the ICC into possible abuses by Moscow and-or Georgia. ](/news/2016/01/28/georgia-welcomes-the-icc-s-investigation-into-alleged-war-crimes-committed-during-the-2008-south-ossetia-war-which-will-be-the-first-inquir.md)
-_Context:  Georgian, 2008 South Ossetia war, Russo-Georgian War, ICC_
+_Context: 2008 South Ossetia war, ICC, Russo-Georgian War,  Georgian_
 
 ##### President of the Ivory Coast
 ### [The trial of former President of the Ivory Coast Laurent Gbagbo for crimes against humanity begins at the International Criminal Court in The Hague. ](/news/2016/01/28/the-trial-of-former-president-of-the-ivory-coast-laurent-gbagbo-for-crimes-against-humanity-begins-at-the-international-criminal-court-in-th.md)

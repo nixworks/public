@@ -21,7 +21,7 @@ _Context: European Union, Illegal immigration from Africa to Europe_
 
 ##### Nigeria
 ### [Nigeria's anti-graft authority arrests six senior officials from the Central Bank of Nigeria and 16 people from commercial banks for fraud. ](/news/2015/06/1/nigeria-s-anti-graft-authority-arrests-six-senior-officials-from-the-central-bank-of-nigeria-and-16-people-from-commercial-banks-for-fraud.md)
-_Context: Nigeria, Central Bank of Nigeria_
+_Context: Central Bank of Nigeria, Nigeria_
 
 ##### Patriot Act
 ### [Parts of the Patriot Act expire at 12:01 a.m. due to Congressional failure to reform the USA Freedom Act, temporarily making new surveillance of telephone records by the NSA illegal. ](/news/2015/06/1/parts-of-the-patriot-act-expire-at-12-01-a-m-due-to-congressional-failure-to-reform-the-usa-freedom-act-temporarily-making-new-surveillanc.md)

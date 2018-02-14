@@ -25,15 +25,15 @@ The Taoiseach has promoted two TDs to senior positions and moved four ministers 
 
 ##### President
 ### [Nigerian cabinet reshuffle: Acting President Goodluck Jonathan picks new ministers after firing all members of his cabinet last week. ](/news/2010/03/23/nigerian-cabinet-reshuffle-acting-president-goodluck-jonathan-picks-new-ministers-after-firing-all-members-of-his-cabinet-last-week.md)
-_Context: President, Goodluck Jonathan_
+_Context: Goodluck Jonathan, President_
 
 ##### Sudan
 ### [Sudan's President Omar al-Bashir threatens to expel international observers for the first general elections in the country in 21 years, after they called for a delay to deal with "logistical" problems. ](/news/2010/03/23/sudan-s-president-omar-al-bashir-threatens-to-expel-international-observers-for-the-first-general-elections-in-the-country-in-21-years-afte.md)
-_Context: President of Sudan, Sudan, Omar al-Bashir, post-election protests_
+_Context: Sudan, post-election protests, Omar al-Bashir, President of Sudan_
 
 ##### Libya
 ### [Libya releases 214 Islamist inmates in what is described as "a historic event". ](/news/2010/03/23/libya-releases-214-islamist-inmates-in-what-is-described-as-a-historic-event.md)
-_Context: Libya, Islam_
+_Context: Islam, Libya_
 
 ##### Heinrich Boere
 ### [88-year-old Heinrich Boere, a former member of the Nazi SS, is sentenced to life imprisonment for the 1944 murder of three Dutch civilians after six decades of legal wrangling. ](/news/2010/03/23/88-year-old-heinrich-boere-a-former-member-of-the-nazi-ss-is-sentenced-to-life-imprisonment-for-the-1944-murder-of-three-dutch-civilians-a.md)
@@ -57,11 +57,11 @@ Beijing accuses search giant of breaking promises to abide by Chinese laws.
 
 ##### Turkey
 ### [A Turkish ship is hijacked by Somali pirates more than 1,000 miles away from the coast of Somalia and closer to India. ](/news/2010/03/23/a-turkish-ship-is-hijacked-by-somali-pirates-more-than-1-000-miles-away-from-the-coast-of-somalia-and-closer-to-india.md)
-_Context: India, Turkey, Somali pirates, Somalia_
+_Context: Somali pirates, Turkey, Somalia, India_
 
 ##### Virgin Galactic's
 ### [Virgin Galactic's SpaceShipTwo is shown on its maiden flight from the Mojave Air and Spaceport in Mojave, California, United States. ](/news/2010/03/23/virgin-galactic-s-spaceshiptwo-is-shown-on-its-maiden-flight-from-the-mojave-air-and-spaceport-in-mojave-california-united-states.md)
-_Context: Mojave, California, Virgin Galactic's, Mojave Air and Spaceport, SpaceShipTwo_
+_Context: Virgin Galactic's, Mojave Air and Spaceport, Mojave, California, SpaceShipTwo_
 
 ##### Burma
 ### [Burma's High Court refuses to accept a lawsuit by the National League for Democracy against the ruling State Peace and Development Council for what they allege are unfair and discriminatory election laws. ](/news/2010/03/23/burma-s-high-court-refuses-to-accept-a-lawsuit-by-the-national-league-for-democracy-against-the-ruling-state-peace-and-development-council-f.md)

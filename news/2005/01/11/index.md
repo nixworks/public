@@ -9,15 +9,15 @@ _Context: Zhao Ziyang, Communist Party of China_
 
 ##### Motorcyclist
 ### [ Italian motorcyclist Fabrizio Meoni is the second competitor to die in as many days in the 2005 Paris Dakar Rally. ](/news/2005/01/11/italian-motorcyclist-fabrizio-meoni-is-the-second-competitor-to-die-in-as-many-days-in-the-2005-paris-dakar-rally.md)
-_Context: 2005, Paris Dakar Rally, motorcyclist, Fabrizio Meoni_
+_Context: 2005, motorcyclist, Paris Dakar Rally, Fabrizio Meoni_
 
 ##### Nigeria
 ### [ In Nigeria, Audu Ogbeh, chairman of the ruling People's Democratic Party, resigns over disagreements with President Olusegun Obasanjo. ](/news/2005/01/11/in-nigeria-audu-ogbeh-chairman-of-the-ruling-people-s-democratic-party-resigns-over-disagreements-with-president-olusegun-obasanjo.md)
-_Context: Olusegun Obasanjo, Nigeria, Audu Ogbeh, People's Democratic Party_
+_Context: Audu Ogbeh, Nigeria, People's Democratic Party, Olusegun Obasanjo_
 
 ##### Venezuela
 ### [ Venezuelan President Hugo Chvez signs a land reform decree aimed at reducing unused and absentee-owned agricultural properties. ](/news/2005/01/11/venezuelan-president-hugo-chavez-signs-a-land-reform-decree-aimed-at-reducing-unused-and-absentee-owned-agricultural-properties.md)
-_Context: absentee-owned, Hugo Chvez, land reform, Venezuela_
+_Context: Venezuela, land reform, Hugo Chvez, absentee-owned_
 
 ##### Bushfire
 ### [ In Australia, 9 people are dead and 15 others are unaccounted for, in a bushfire in Eyre Peninsula, South Australia. ](/news/2005/01/11/in-australia-9-people-are-dead-and-15-others-are-unaccounted-for-in-a-bushfire-in-eyre-peninsula-south-australia.md)
@@ -33,7 +33,7 @@ _Context: Abel Pacheco, Caribbean, Costa Rica_
 
 ##### Albert Hofmann
 ### [ Dr. Albert Hofmann celebrated his 99th birthday. Dr. Hofmann first synthesized LSD in 1938 while working at Sandoz Laboratories in Basle, Switzerland. He became the first person to discover its psychedelic effects on April 16, 1943. ](/news/2005/01/11/dr-albert-hofmann-celebrated-his-99th-birthday-dr-hofmann-first-synthesized-lsd-in-1938-while-working-at-sandoz-laboratories-in-basle-s.md)
-_Context: psychedelic, Albert Hofmann, Basle, LSD, Sandoz Laboratories_
+_Context: LSD, Albert Hofmann, Basle, Sandoz Laboratories, psychedelic_
 
 ## [Previous Day...](/news/2005/01/10/index.md)
 

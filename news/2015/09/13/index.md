@@ -5,7 +5,7 @@ Formats: [HTML](2015/09/13/index.html)  [JSON](2015/09/13/index.json)  [XML](201
 
 ##### Turkey-PKK conflict
 ### [A PKK car bombing on a checkpoint kills two Turkish police officers and injures five others in south-eastern Turkey. Also, Turkish security forces impose a curfew in the region's largest city, Diyarbakir. ](/news/2015/09/13/a-pkk-car-bombing-on-a-checkpoint-kills-two-turkish-police-officers-and-injures-five-others-in-south-eastern-turkey-also-turkish-security.md)
-_Context: Turkey-PKK conflict, Diyarbakir, Turkish troops, Kurdistan Workers' Party, Turkish police_
+_Context: Kurdistan Workers' Party, Turkish police, Turkey-PKK conflict, Turkish troops, Diyarbakir_
 
 ##### Egypt
 ### [Egyptian security forces open fire on a Mexican tourist convoy in the Western Desert while pursuing militants with at least twelve people killed and 10 injured. ](/news/2015/09/13/egyptian-security-forces-open-fire-on-a-mexican-tourist-convoy-in-the-western-desert-while-pursuing-militants-with-at-least-twelve-people-ki.md)
@@ -51,7 +51,7 @@ Gennady Padalka, who spent several months aboard the International Space Station
 
 ##### Salamanca, Spain
 ### [Doctors at Salamanca University Hospital in Salamanca, Spain implant a 3-D printing-produced artificial titanium sternum (breastbone), and a portion of the ribs (as opposed to the current standard, a non-customized, flat piece of titanium, which can loosen over time) in a patient who had numerous cancerous tumors in that area, the first use of 3D printing technology to take the place of these specific body parts. ](/news/2015/09/13/doctors-at-salamanca-university-hospital-in-salamanca-spain-implant-a-3-d-printing-produced-artificial-titanium-sternum-breastbone-and-a.md)
-_Context: Salamanca, Spain, 3-D printing, titanium, sternum_
+_Context: 3-D printing, sternum, Salamanca, Spain, titanium_
 
 ## [Previous Day...](/news/2015/09/12/index.md)
 

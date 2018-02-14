@@ -17,7 +17,7 @@ PM: Nobody is above the law, not even a former president; Livni: I have great ho
 
 ### Related:
 
-1. [ Former Israeli President Moshe Katsav will be charged with rape and indecent assault. ](/news/2009/03/8/former-israeli-president-moshe-katsav-will-be-charged-with-rape-and-indecent-assault.md) _Context: Moshe Katsav, President, indecently assaulting, rape_
+1. [ Former Israeli President Moshe Katsav will be charged with rape and indecent assault. ](/news/2009/03/8/former-israeli-president-moshe-katsav-will-be-charged-with-rape-and-indecent-assault.md) _Context: Moshe Katsav, President, indecent assault, rape_
 2. [The former President of Israel Moshe Katsav arrives at a prison outside Tel Aviv to start a seven year term for rape. ](/news/2011/12/7/the-former-president-of-israel-moshe-katsav-arrives-at-a-prison-outside-tel-aviv-to-start-a-seven-year-term-for-rape.md) _Context: Moshe Katsav, President, rape_
 3. [Israel's Supreme Court upholds a seven-year rape sentence against former President Moshe Katsav. ](/news/2011/11/10/israel-s-supreme-court-upholds-a-seven-year-rape-sentence-against-former-president-moshe-katsav.md) _Context: Moshe Katsav, President, rape_
 4. [Former Israeli President Moshe Katsav is convicted of two counts of rape and other sexual offences by a court in Tel Aviv. ](/news/2010/12/30/former-israeli-president-moshe-katsav-is-convicted-of-two-counts-of-rape-and-other-sexual-offences-by-a-court-in-tel-aviv.md) _Context: Moshe Katsav, President, rape_

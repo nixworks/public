@@ -5,43 +5,43 @@ Formats: [HTML](2007/05/2/index.html)  [JSON](2007/05/2/index.json)  [XML](2007/
 
 ##### Afghanistan
 ### [ Gunmen in Afghanistan kill Abdul Sabur Farid, a member of the House of Elders and former Prime Minister. ](/news/2007/05/2/gunmen-in-afghanistan-kill-abdul-sabur-farid-a-member-of-the-house-of-elders-and-former-prime-minister.md)
-_Context: Afghanistan, Abdul Sabur Farid, Prime Minister, House of Elders_
+_Context: Abdul Sabur Farid, Afghanistan, Prime Minister, House of Elders_
 
 ##### Bahamas
 ### [ Voters in The Bahamas go to the polls in elections for the House of Assembly ](/news/2007/05/2/voters-in-the-bahamas-go-to-the-polls-in-elections-for-the-house-of-assembly.md)
-_Context: Bahamas, House of Assembly, go to the polls_
+_Context: House of Assembly, Bahamas, go to the polls_
 
 ##### Antonio Villaraigosa
 ### [ Antonio Villaraigosa, the Mayor of Los Angeles, California, orders an inquiry into a clash that occurred at a May Day Rally between the Los Angeles Police Department and pro-immigration demonstrators. ](/news/2007/05/2/antonio-villaraigosa-the-mayor-of-los-angeles-california-orders-an-inquiry-into-a-clash-that-occurred-at-a-may-day-rally-between-the-los.md)
-_Context: California, May Day Rally, pro-immigration, Los Angeles Police Department, demonstrators, Mayor of Los Angeles, Antonio Villaraigosa_
+_Context: Antonio Villaraigosa, May Day Rally, pro-immigration, Mayor of Los Angeles, California, demonstrators, Los Angeles Police Department_
 
 ##### ICC
 ### [ The International Criminal Court issues arrest warrants for Sudanese humanitarian affairs minister Ahmed Haroun and Janjaweed leader Ali Kushayb on charges of war crimes committed during the Darfur conflict. ](/news/2007/05/2/the-international-criminal-court-issues-arrest-warrants-for-sudanese-humanitarian-affairs-minister-ahmed-haroun-and-janjaweed-leader-ali-ku.md)
-_Context: Ahmed Haroun, arrest warrant, Ali Kushayb, war crime, Janjaweed, Sudan, Darfur conflict, ICC_
+_Context: ICC, Darfur conflict, war crime, arrest warrant, Ali Kushayb, Sudan, Ahmed Haroun, Janjaweed_
 
 ##### Iraq War
 ### [ Iraq War: U.S. President George W. Bush meets with Democratic Party officials in Congress to try find ways to fund the Iraq War. ](/news/2007/05/2/iraq-war-u-s-president-george-w-bush-meets-with-democratic-party-officials-in-congress-to-try-find-ways-to-fund-the-iraq-war.md)
-_Context: Democrat, U.S. President, U.S. Congress, George W. Bush, Iraq War_
+_Context: U.S. Congress, Democrat, U.S. President, Iraq War, George W. Bush_
 
 ##### 2007 presidential election
 ### [ French presidential election, 2007: Candidates Nicolas Sarkozy and Sgolne Royal participate in a televised debate. ](/news/2007/05/2/french-presidential-election-2007-candidates-nicolas-sarkozy-and-segolene-royal-participate-in-a-televised-debate.md)
-_Context: Nicolas Sarkozy, 2007 presidential election, Sgolne Royal, televised debate_
+_Context: Nicolas Sarkozy, televised debate, 2007 presidential election, Sgolne Royal_
 
 ##### Bali Nine
 ### [ All six members of the Bali Nine on death row have the appeal against their sentence heard in Bali and Jakarta. ](/news/2007/05/2/all-six-members-of-the-bali-nine-on-death-row-have-the-appeal-against-their-sentence-heard-in-bali-and-jakarta.md)
-_Context: death row, Bali, Jakarta, Bali Nine_
+_Context: Bali Nine, death row, Jakarta, Bali_
 
 ##### Avigdor Yitzhaki
 ### [ Avigdor Yitzhaki, the chairman and co-founder of Ehud Olmert's Kadima party, calls on Olmert to resign as the Prime Minister of Israel over his handling of the 2006 Lebanon War. Foreign Minister Tzipi Livni later joined calls for Olmert's resignation. ](/news/2007/05/2/avigdor-yitzhaki-the-chairman-and-co-founder-of-ehud-olmert-s-kadima-party-calls-on-olmert-to-resign-as-the-prime-minister-of-israel-over.md)
-_Context: Tzipi Livni, Kadima, Israeli Prime Minister, Foreign Minister of Israel, Israeli-Lebanese war of 2006, Avigdor Yitzhaki, Ehud Olmert_
+_Context: Ehud Olmert, Israeli Prime Minister, Kadima, Avigdor Yitzhaki, Israeli-Lebanese war of 2006, Foreign Minister of Israel, Tzipi Livni_
 
 ##### Helicopter
 ### [ Four people are killed in a helicopter crash in Cambridgeshire, United Kingdom. ](/news/2007/05/2/four-people-are-killed-in-a-helicopter-crash-in-cambridgeshire-united-kingdom.md)
-_Context: crash, helicopter, Cambridgeshire, United Kingdom_
+_Context: Cambridgeshire, crash, helicopter, United Kingdom_
 
 ##### Space shuttle
 ### [ A train carrying solid-fuel booster segments for the space shuttle programme is involved in a bridge collapse in Alabama, injuring six people, two seriously. ](/news/2007/05/2/a-train-carrying-solid-fuel-booster-segments-for-the-space-shuttle-programme-is-involved-in-a-bridge-collapse-in-alabama-injuring-six-peop.md)
-_Context: space shuttle, Alabama_
+_Context: Alabama, space shuttle_
 
 ## [Previous Day...](/news/2007/05/1/index.md)
 

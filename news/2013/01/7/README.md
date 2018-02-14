@@ -21,7 +21,7 @@ President Obama names Chuck Hagel to head the Pentagon and terrorism adviser Joh
 
 ##### Harvard-Smithsonian Center for Astrophysics
 ### [Scientists from the Harvard-Smithsonian Center for Astrophysics estimate that there are at least 17 billion planets approximately the size of Earth in the Milky Way. ](/news/2013/01/7/scientists-from-the-harvardasmithsonian-center-for-astrophysics-estimate-that-there-are-at-least-17-billion-planets-approximately-the-size.md)
-_Context: planets, Milky Way, Harvard-Smithsonian Center for Astrophysics, Earth_
+_Context: Milky Way, planets, Harvard-Smithsonian Center for Astrophysics, Earth_
 
 ## [Previous Day...](/news/2013/01/6/index.md)
 

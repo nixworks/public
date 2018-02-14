@@ -9,11 +9,11 @@ Explosives in a Ford Ranger pickup parked in front of the municipal building ble
 
 ##### Bashar al-Assad
 ### [Syrian President Bashar al-Assad states that Syria will not accept a foreign solution to their problem. ](/news/2012/06/29/syrian-president-bashar-al-assad-states-that-syria-will-not-accept-a-foreign-solution-to-their-problem.md)
-_Context: Syria, Bashar al-Assad, Syrian uprising (2011-present)_
+_Context: Bashar al-Assad, Syria, Syrian uprising (2011-present)_
 
 ##### Sets herself alight
 ### [A man self-immolates in Birmingham city centre in a case reminiscent of Mohamed Bouazizi. ](/news/2012/06/29/a-man-self-immolates-in-birmingham-city-centre-in-a-case-reminiscent-of-mohamed-bouazizi.md)
-_Context: Mohamed Bouazizi, sets herself alight, Birmingham_
+_Context: Mohamed Bouazizi, Birmingham, sets herself alight_
 
 ##### Texas
 ### [The GPS system of a flying drone is "hacked" in Texas, USA. ](/news/2012/06/29/the-gps-system-of-a-flying-drone-is-hacked-in-texas-usa.md)
@@ -21,13 +21,13 @@ US researchers take control of a flying drone by sending a &quot;spoof&quot; sig
 
 ##### Naxalite-Maoist insurgency
 ### [Sixteen Naxalite Maoist insurgents are killed by Central Reserve Police Force in the Indian state of Chhattisgarh. ](/news/2012/06/29/sixteen-naxalite-maoist-insurgents-are-killed-by-central-reserve-police-force-in-the-indian-state-of-chhattisgarh.md)
-_Context: Indian Reserve policemen, Naxalite-Maoist insurgency, India, Chhattisgarh_
+_Context: Indian Reserve policemen, India, Naxalite-Maoist insurgency, Chhattisgarh_
 
 ##### 
 ### [Rampant sexual abuse is uncovered in the British police, with victims of crime among those targeted by sexual predators. ](/news/2012/06/29/rampant-sexual-abuse-is-uncovered-in-the-british-police-with-victims-of-crime-among-those-targeted-by-sexual-predators.md)
 ##### Iraq
 ### [Three bombs in the Iraqi city of Balad kill at least six people and injure 45. ](/news/2012/06/29/three-bombs-in-the-iraqi-city-of-balad-kill-at-least-six-people-and-injure-45.md)
-_Context: Balad, Iraq_
+_Context: Iraq, Balad_
 
 ##### Holocaust
 ### [A controversial beauty pageant for survivors of The Holocaust is held for the first time in the Israeli city of Haifa. Critics describe it as "offensive" and "macabre." ](/news/2012/06/29/a-controversial-beauty-pageant-for-survivors-of-the-holocaust-is-held-for-the-first-time-in-the-israeli-city-of-haifa-critics-describe-it-a.md)
@@ -35,7 +35,7 @@ A beauty pageant for Holocaust survivors has been held in Israel for the first t
 
 ##### Italy
 ### [The sunken Italian World War II flagship "Roma" is discovered off the coast of Sardinia. ](/news/2012/06/29/the-sunken-italian-world-war-ii-flagship-roma-is-discovered-off-the-coast-of-sardinia.md)
-_Context: Italy, Roma, World War II, Sardinia_
+_Context: Italy, Sardinia, World War II, Roma_
 
 ##### Alternative rock
 ### [Alternative rock band The Flaming Lips set a new Guinness World Record for performing the most live shows in different cities over 24 hours. ](/news/2012/06/29/alternative-rock-band-the-flaming-lips-set-a-new-guinness-world-record-for-performing-the-most-live-shows-in-different-cities-over-24-hours.md)
@@ -67,7 +67,7 @@ A fast-moving line of dangerous storms knocked out power to more than 1.5 millio
 
 ##### South America
 ### [The South American trade bloc Mercosur suspends Paraguay's membership following the impeachment of Fernando Lugo but will not impose sanctions. ](/news/2012/06/29/the-south-american-trade-bloc-mercosur-suspends-paraguay-s-membership-following-the-impeachment-of-fernando-lugo-but-will-not-impose-sanctio.md)
-_Context: Paraguay, trade bloc, Fernando Lugo, South America, Mercosur_
+_Context: Fernando Lugo, Paraguay, South America, trade bloc, Mercosur_
 
 ##### Richard O'Dwyer
 ### [A petition objecting to the extradition of Richard O'Dwyer to the United States garners 160,000 signatures in less than five days. ](/news/2012/06/29/a-petition-objecting-to-the-extradition-of-richard-o-dwyer-to-the-united-states-garners-160-000-signatures-in-less-than-five-days.md)
@@ -87,7 +87,7 @@ President-elect Mohammed Morsi promises crowd of mostly Islamist supporters to w
 
 ##### Uzbekistan
 ### [Uzbekistan quits the Russian-led Collective Security Treaty Organization. ](/news/2012/06/29/uzbekistan-quits-the-russian-led-collective-security-treaty-organization.md)
-_Context: Uzbekistan, Collective Security Treaty Organization, Russia_
+_Context: Uzbekistan, Russia, Collective Security Treaty Organization_
 
 ##### Japan
 ### [Over 15000 Japanese protest against nuclear power. ](/news/2012/06/29/over-15000-japanese-protest-against-nuclear-power.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2007/02/14/index.html)  [JSON](2007/02/14/index.json)  [XML](200
 
 ##### U.S.
 ### [ The United States redeploys the 173rd Airborne Brigade to Afghanistan to prepare for an anticipated spring offensive by the Taliban. ](/news/2007/02/14/the-united-states-redeploys-the-173rd-airborne-brigade-to-afghanistan-to-prepare-for-an-anticipated-spring-offensive-by-the-taliban.md)
-_Context: Afghanistan, U.S., redeploys, 173rd Airborne Brigade, Taliban_
+_Context: redeploys, U.S., 173rd Airborne Brigade, Afghanistan, Taliban_
 
 ##### Bombay Stock Exchange
 ### [ Bombay Stock Exchange sells 5 percent stake to Germany's Deutsche Brse. ](/news/2007/02/14/bombay-stock-exchange-sells-5-percent-stake-to-germany-s-deutsche-borse.md)
@@ -13,19 +13,19 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Parliament of Serbia
 ### [ The Parliament of Serbia rejects a United Nations plan for the independence of Kosovo. ](/news/2007/02/14/the-parliament-of-serbia-rejects-a-united-nations-plan-for-the-independence-of-kosovo.md)
-_Context: Kosovo, United Nations, Parliament of Serbia_
+_Context: Parliament of Serbia, Kosovo, United Nations_
 
 ##### United States Senate election, 2008
 ### [ United States Senate election, 2008: Author and comedian Al Franken announces his candidacy for Senator of Minnesota. ](/news/2007/02/14/united-states-senate-election-2008-author-and-comedian-al-franken-announces-his-candidacy-for-senator-of-minnesota.md)
-_Context: comedian, United States Senate, Minnesota, United States Senate election, 2008, Al Franken_
+_Context: United States Senate election, 2008, Minnesota, comedian, United States Senate, Al Franken_
 
 ##### Vodafone Group Plc
 ### [ Vodafone's Chief Executive, Arun Sarin, says the company will spend US$2 billion to enhance its investments in India. ](/news/2007/02/14/vodafone-s-chief-executive-arun-sarin-says-the-company-will-spend-us-2-billion-to-enhance-its-investments-in-india.md)
-_Context: CEO, $, India, Arun Sarin, Vodafone Group Plc_
+_Context: $, Vodafone Group Plc, Arun Sarin, CEO, India_
 
 ##### Mid-February winter storm
 ### [ Mid-February winter storm: A major weather system reaches the Northeastern United States and eastern Canada and hammers the region with snow and ice. The same system is responsible for severe weather in the Midwest and a tornado in New Orleans, Louisiana. ](/news/2007/02/14/mid-february-winter-storm-a-major-weather-system-reaches-the-northeastern-united-states-and-eastern-canada-and-hammers-the-region-with-sno.md)
-_Context: New Orleans, Louisiana, Midwest, weather system, tornado, Mid-February winter storm, Northeastern United States, snow and ice, Canadian_
+_Context: weather system, tornado, snow and ice, Northeastern United States, New Orleans, Louisiana, Canadian, Mid-February winter storm, Midwest_
 
 ##### Operation Imposing Law
 ### [ Operation Imposing Law: U.S. military spokesman Maj. Gen. William Caldwell announces that Muqtada Al Sadr fled Iraq several weeks ago and is in Iran. ](/news/2007/02/14/operation-imposing-law-u-s-military-spokesman-maj-gen-william-caldwell-announces-that-muqtada-al-sadr-fled-iraq-several-weeks-ago-and-i.md)
@@ -33,15 +33,15 @@ French police arrested 11 people suspected of having links to Al Qaeda in a pre-
 
 ##### European parliament
 ### [ The European parliament has approved a report on secret CIA flights which condemns member states that allowed the operations. ](/news/2007/02/14/the-european-parliament-has-approved-a-report-on-secret-cia-flights-which-condemns-member-states-that-allowed-the-operations.md)
-_Context: CIA, European parliament, European Union member states_
+_Context: European parliament, European Union member states, CIA_
 
 ##### Beirut, Lebanon
 ### [ Tens of thousands rally in Beirut, Lebanon to mark the second anniversary of the killing of former Prime Minister Rafik Hariri. ](/news/2007/02/14/tens-of-thousands-rally-in-beirut-lebanon-to-mark-the-second-anniversary-of-the-killing-of-former-prime-minister-rafik-hariri.md)
-_Context: Beirut, Lebanon, Rafik Hariri, Prime Minister_
+_Context: Prime Minister, Rafik Hariri, Beirut, Lebanon_
 
 ##### Anglican Church
 ### [ Leaders of the Anglican Church meet in Tanzania with a possibility of a schism over the issue of homosexual clergy. ](/news/2007/02/14/leaders-of-the-anglican-church-meet-in-tanzania-with-a-possibility-of-a-schism-over-the-issue-of-homosexual-clergy.md)
-_Context: Anglican Church, gay, clergy, Tanzania, schism_
+_Context: Tanzania, Anglican Church, schism, clergy, gay_
 
 ##### Gurbanguly Berdimuhamedow
 ### [ Gurbanguly Berdimuhamedow is sworn in as President of Turkmenistan. ](/news/2007/02/14/gurbanguly-berdimuhamedow-is-sworn-in-as-president-of-turkmenistan.md)
@@ -49,15 +49,15 @@ _Context: president, Gurbanguly Berdimuhamedow_
 
 ##### China
 ### [ The foreign ministers of China, India and Russia meet in New Delhi, India to discuss greater cooperation between the three Asian countries on issues including terrorism, drug trafficking and Afghanistan. ](/news/2007/02/14/the-foreign-ministers-of-china-india-and-russia-meet-in-new-delhi-india-to-discuss-greater-cooperation-between-the-three-asian-countries.md)
-_Context: Afghanistan, drug trafficking, China, New Delhi, India, India, Asia, Russia, terrorism_
+_Context: Asia, Russia, India, terrorism, New Delhi, India, China, Afghanistan, drug trafficking_
 
 ##### Iran
 ### [ A bus belonging to Iran's Islamic Revolutionary Guards Corps has been hit by a car bomb in Zahedan killing 18 people. ](/news/2007/02/14/a-bus-belonging-to-iran-s-islamic-revolutionary-guards-corps-has-been-hit-by-a-car-bomb-in-zahedan-killing-18-people.md)
-_Context: car bomb, Islamic Revolutionary Guards Corps, Iran, Zahedan_
+_Context: Iran, Zahedan, Islamic Revolutionary Guards Corps, car bomb_
 
 ##### World Food Program
 ### [ The World Food Program predicts that 285,000 people in Mozambique will require food aid after severe flooding. ](/news/2007/02/14/the-world-food-program-predicts-that-285-000-people-in-mozambique-will-require-food-aid-after-severe-flooding.md)
-_Context: World Food Program, flooding, Mozambique_
+_Context: World Food Program, Mozambique, flooding_
 
 ##### Georgina Beyer
 ### [ Georgina Beyer, the world's first transgendered member of parliament, resigns from the Parliament of New Zealand. ](/news/2007/02/14/georgina-beyer-the-world-s-first-transgendered-member-of-parliament-resigns-from-the-parliament-of-new-zealand.md)

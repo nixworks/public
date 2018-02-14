@@ -5,15 +5,15 @@ Formats: [HTML](2012/05/11/index.html)  [JSON](2012/05/11/index.json)  [XML](201
 
 ##### Syrian uprising (2011-present)
 ### [Syrian uprising: the death toll of the May 10 Damascus double bombing reaches 55, with as many as 370 reportedly injured. Syrian authorities claim that over 1000 kg of explosives were used in the attacks. ](/news/2012/05/11/syrian-uprising-the-death-toll-of-the-may-10-damascus-double-bombing-reaches-55-with-as-many-as-370-reportedly-injured-syrian-authorities.md)
-_Context: double bombing, Syrian uprising (2011-present), Damascus_
+_Context: Damascus, Syrian uprising (2011-present), double bombing_
 
 ##### Mexican Drug War
 ### [Mexican Drug War: Gunmen open fire on an "El Maana" newspaper office in the border city of Nuevo Laredo, shortly after drug-related massacres in the city. ](/news/2012/05/11/mexican-drug-war-gunmen-open-fire-on-an-el-manana-newspaper-office-in-the-border-city-of-nuevo-laredo-shortly-after-drug-related-massacr.md)
-_Context: Nuevo Laredo, El Maana, Mexican Drug War, much of the violence_
+_Context: Mexican Drug War, Nuevo Laredo, El Maana, much of the violence_
 
 ##### United States military personnel
 ### [The United States Armed Forces are embroiled in controversy over a defunct officer training course called "Perspectives on Islam and Islamic Radicalism", which taught that Islam is America's irreconcilable enemy. ](/news/2012/05/11/the-united-states-armed-forces-are-embroiled-in-controversy-over-a-defunct-officer-training-course-called-perspectives-on-islam-and-islamic.md)
-_Context: United States military personnel, Islam_
+_Context: Islam, United States military personnel_
 
 ##### North Korea
 ### [An American study reveals that North Koreans have an increasing level of informal access to foreign media, despite the intense censorship efforts of the North Korean government. ](/news/2012/05/11/an-american-study-reveals-that-north-koreans-have-an-increasing-level-of-informal-access-to-foreign-media-despite-the-intense-censorship-ef.md)
@@ -29,15 +29,15 @@ A man and a woman are being questioned on suspicion of murdering five children w
 
 ##### U.S.
 ### [William Balfour is found guilty of murdering the mother, brother and nephew of American entertainer Jennifer Hudson. ](/news/2012/05/11/william-balfour-is-found-guilty-of-murdering-the-mother-brother-and-nephew-of-american-entertainer-jennifer-hudson.md)
-_Context: U.S., Jennifer Hudson_
+_Context: Jennifer Hudson, U.S._
 
 ##### Leveson Inquiry
 ### [At the Leveson Inquiry into British media practices, former News International chief executive Rebekah Brooks discloses an email that appears to show that Britain's Culture Secretary, Jeremy Hunt, sought advice from News International over how Downing Street should respond to the News of the World phone hacking scandal. ](/news/2012/05/11/at-the-leveson-inquiry-into-british-media-practices-former-news-international-chief-executive-rebekah-brooks-discloses-an-email-that-appear.md)
-_Context: Leveson Inquiry, Rebekah Brooks, Jeremy Hunt, News International, phone hacking, Secretary of State for Culture, Media and Sport_
+_Context: Secretary of State for Culture, Media and Sport, Jeremy Hunt, phone hacking, Rebekah Brooks, News International, Leveson Inquiry_
 
 ##### China
 ### [Chinese scientists use quantum teleportation to transmit photons over a distance of 97 km &ndash; a world record for quantum teleportation. ](/news/2012/05/11/chinese-scientists-use-quantum-teleportation-to-transmit-photons-over-a-distance-of-97-km-ndash-a-world-record-for-quantum-teleportation.md)
-_Context: quantum teleportation, China, photon_
+_Context: photon, quantum teleportation, China_
 
 ##### Truvada
 ### [A panel of American health experts recommends formal approval of the Truvada anti-HIV drug for prescription to non-infected men who have sex with multiple male partners, a decision opposed by some health workers and groups active among those with HIV. ](/news/2012/05/11/a-panel-of-american-health-experts-recommends-formal-approval-of-the-truvada-anti-hiv-drug-for-prescription-to-non-infected-men-who-have-sex.md)

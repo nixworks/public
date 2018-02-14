@@ -29,7 +29,7 @@ A lone man armed with a machete attacked and wounded a guard at the home of Keny
 
 ##### Charles Kuonen Bridge
 ### [The Charles Kuonen Bridge in the Swiss Alps in Randa, Switzerland, opens. At 1,621 feet (494 meters), it is the longest pedestrian suspension bridge in the world. ](/news/2017/07/29/the-charles-kuonen-bridge-in-the-swiss-alps-in-randa-switzerland-opens-at-1-621-feet-494-meters-it-is-the-longest-pedestrian-suspensio.md)
-_Context: Randa, Switzerland, Charles Kuonen Bridge, Swiss Alps_
+_Context: Charles Kuonen Bridge, Randa, Switzerland, Swiss Alps_
 
 ## [Previous Day...](/news/2017/07/28/index.md)
 

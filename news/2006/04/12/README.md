@@ -9,7 +9,7 @@ _Context: capital, Chadian rebels, Chad, N'Djamena_
 
 ##### Magdi Yacoub
 ### [ Coronary specialist Sir Magdi Yacoub operates on Welsh schoolgirl cardiomyopathy patient Hannah Clark, whose original heart is reconnected, after a donor heart was rejected by her body. This is a UK-first organ-replacement reversal. ](/news/2006/04/12/coronary-specialist-sir-magdi-yacoub-operates-on-welsh-schoolgirl-cardiomyopathy-patient-hannah-clark-whose-original-heart-is-reconnected.md)
-_Context: heart, organ-replacement reversal, cardiomyopathy, Magdi Yacoub_
+_Context: heart, Magdi Yacoub, organ-replacement reversal, cardiomyopathy_
 
 ##### Terrorism Act
 ### [ The UK's Terrorism Act 2006 comes into force, making illegal the act of glorifying terrorism. ](/news/2006/04/12/the-uk-s-terrorism-act-2006-comes-into-force-making-illegal-the-act-of-glorifying-terrorism.md)
@@ -21,7 +21,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Fossil
 ### [ Fossils of "Australopithecus anamensis" help bridge a long gap during a crucial phase of human evolution. ](/news/2006/04/12/fossils-of-australopithecus-anamensis-help-bridge-a-long-gap-during-a-crucial-phase-of-human-evolution.md)
-_Context: Australopithecus anamensis, Fossil, human evolution_
+_Context: Fossil, Australopithecus anamensis, human evolution_
 
 ## [Previous Day...](/news/2006/04/11/index.md)
 

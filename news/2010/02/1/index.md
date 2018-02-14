@@ -5,15 +5,15 @@ Formats: [HTML](2010/02/1/index.html)  [JSON](2010/02/1/index.json)  [XML](2010/
 
 ##### Barack Obama
 ### [US President Barack Obama will propose a $3.8 trillion budget for fiscal 2011 that foresees the deficit hitting a record $1.6 trillion in the current fiscal year but falling to about $700 billion by 2013. ](/news/2010/02/1/us-president-barack-obama-will-propose-a-3-8-trillion-budget-for-fiscal-2011-that-foresees-the-deficit-hitting-a-record-1-6-trillion-in-th.md)
-_Context: deficit, Barack Obama, $_
+_Context: $, deficit, Barack Obama_
 
 ##### Secretary of State
 ### [US Secretary of State Hillary Clinton presses China to back Iran sanctions for its nuclear program. ](/news/2010/02/1/us-secretary-of-state-hillary-clinton-presses-china-to-back-iran-sanctions-for-its-nuclear-program.md)
-_Context: Iran, China, Hillary Clinton, nuclear program, Secretary of State_
+_Context: China, Hillary Clinton, Secretary of State, nuclear program, Iran_
 
 ##### United Nations
 ### [United Nations Secretary-General Ban Ki-moon arrives in Cyprus to begin talks aimed at reuniting the country. ](/news/2010/02/1/united-nations-secretary-general-ban-ki-moon-arrives-in-cyprus-to-begin-talks-aimed-at-reuniting-the-country.md)
-_Context: Cypriot, United Nations Secretary-General, Ban Ki-moon, United Nations, Cyprus dispute_
+_Context: Cypriot, United Nations Secretary-General, United Nations, Cyprus dispute, Ban Ki-moon_
 
 ##### Nigerian
 ### [Nigerian militant group the Movement for the Emancipation of the Niger Delta denies it attacked oil pipelines in the south of the country, after Shell closes three oil flow stations. ](/news/2010/02/1/nigerian-militant-group-the-movement-for-the-emancipation-of-the-niger-delta-denies-it-attacked-oil-pipelines-in-the-south-of-the-country-a.md)

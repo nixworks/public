@@ -9,7 +9,7 @@ Formats: [HTML](2017/05/15/index.html)  [JSON](2017/05/15/index.json)  [XML](201
 
 ##### Philadelphia
 ### [A Philadelphia-originating Learjet crashes in Carlstadt as it approached Teterboro Airport in New Jersey, killing at least two people. ](/news/2017/05/15/a-philadelphia-originating-learjet-crashes-in-carlstadt-as-it-approached-teterboro-airport-in-new-jersey-killing-at-least-two-people.md)
-_Context: Carlstadt, Teterboro Airport, New Jersey, Philadelphia_
+_Context: Philadelphia, Teterboro Airport, Carlstadt, New Jersey_
 
 ##### Akron, Ohio
 ### [An Akron, Ohio fire kills seven people, including five children and two adults. ](/news/2017/05/15/an-akron-ohio-fire-kills-seven-people-including-five-children-and-two-adults.md)
@@ -17,7 +17,7 @@ AKRON, Ohio -- Police confirm that five children and two adults were killed in a
 
 ##### Carcinogen
 ### [A small study shows that two known carcinogens, o-toluidine and 2-naphthylamine, were found in greater amounts in the urine of e-cigarette users than in nonusers. Previous studies of traditional cigarette smokers have identified o-toluidine and 2-naphthylamine as the two most carcinogenic molecules for the bladder. ](/news/2017/05/15/a-small-study-shows-that-two-known-carcinogens-o-toluidine-and-2-naphthylamine-were-found-in-greater-amounts-in-the-urine-of-e-cigarette-u.md)
-_Context: 2-naphthylamine, carcinogen, urine, molecule, o-toluidine, bladder_
+_Context: urine, 2-naphthylamine, o-toluidine, carcinogen, bladder, molecule_
 
 ##### U.S. President
 ### [According to a current and a former unnamed U.S. government official, President Donald Trump revealed classified information that jeopardized a critical source of intelligence on the Islamic State during his Oval Office meeting with the Russian Foreign Minister and Ambassador on May 10. ](/news/2017/05/15/according-to-a-current-and-a-former-unnamed-u-s-government-official-president-donald-trump-revealed-classified-information-that-jeopardize.md)
@@ -41,11 +41,11 @@ The Moors Murderer Ian Brady has died at a high security psychiatric hospital in
 
 ##### Mexican Drug War
 ### [An unknown gunman shoots and kills veteran journalist Javier Valdez Crdenas, who is noted for his investigative reporting on Mexico's war on drugs, in Culiacn, Sinaloa. ](/news/2017/05/15/an-unknown-gunman-shoots-and-kills-veteran-journalist-javier-valdez-cardenas-who-is-noted-for-his-investigative-reporting-on-mexico-s-war-o.md)
-_Context: Culiacn, Javier Valdez Crdenas, Mexican Drug War, Sinaloa, Mexican_
+_Context: Sinaloa, Culiacn, Mexican, Mexican Drug War, Javier Valdez Crdenas_
 
 ##### Re-elected
 ### [Tehran Mayor Mohammad Bagher Ghalibaf withdraws his candidacy. ](/news/2017/05/15/tehran-mayor-mohammad-bagher-ghalibaf-withdraws-his-candidacy.md)
-_Context: Mohammad Bagher Ghalibaf, re-elected, candidacy_
+_Context: re-elected, candidacy, Mohammad Bagher Ghalibaf_
 
 ## [Previous Day...](/news/2017/05/14/index.md)
 

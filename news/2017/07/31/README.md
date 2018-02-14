@@ -17,7 +17,7 @@ Sanctions freeze Venezuelan president’s assets under US jurisdiction and preve
 
 ##### 2017 Qatar crisis
 ### [Qatar files a legal complaint at the World Trade Organization (WTO) concerning the embargo imposed by Saudi Arabia, Egypt, Bahrain and United Arab Emirates in June. The parties have 60 days to settle the complaint to avoid WTO litigation. ](/news/2017/07/31/qatar-files-a-legal-complaint-at-the-world-trade-organization-wto-concerning-the-embargo-imposed-by-saudi-arabia-egypt-bahrain-and-unite.md)
-_Context: Egypt, United Arab Emirates, World Trade Organization, Bahrain, 2017 Qatar crisis, Saudi Arabia, Qatar_
+_Context: World Trade Organization, 2017 Qatar crisis, Bahrain, United Arab Emirates, Qatar, Saudi Arabia, Egypt_
 
 ##### Kenyan general election, 2017
 ### [The body of Chris Msando, the Kenyan election board's head of information, communication and technology, is discovered. Msando, who went missing three days ago, is believed to have been tortured and murdered. ](/news/2017/07/31/the-body-of-chris-msando-the-kenyan-election-board-s-head-of-information-communication-and-technology-is-discovered-msando-who-went-mis.md)

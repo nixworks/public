@@ -5,23 +5,23 @@ Formats: [HTML](2004/06/26/index.html)  [JSON](2004/06/26/index.json)  [XML](200
 
 ##### Pakistan
 ### [ Pakistan's Prime Minister Zafarullah Khan Jamali resigns. ](/news/2004/06/26/pakistan-s-prime-minister-zafarullah-khan-jamali-resigns.md)
-_Context: Prime Minister, Pakistan, Zafarullah Khan Jamali_
+_Context: Zafarullah Khan Jamali, Pakistan, Prime Minister_
 
 ##### Download.ject
 ### [ The Download.ject attack on Internet Explorer users is neutralised for the moment, with the Russian server containing the backdoor program having been shut down. Security experts warn that the IE vulnerabilities still exist and a copycat attack is still possible. ](/news/2004/06/26/the-download-ject-attack-on-internet-explorer-users-is-neutralised-for-the-moment-with-the-russian-server-containing-the-backdoor-program.md)
-_Context: backdoor, Internet Explorer, Download.ject_
+_Context: backdoor, Download.ject, Internet Explorer_
 
 ##### Czech Republic
 ### [ Czech Prime Minister Vladimir Spidla resigns after narrowly surviving a vote of no confidence. ](/news/2004/06/26/czech-prime-minister-vladimar-a-pidla-resigns-after-narrowly-surviving-a-vote-of-no-confidence.md)
-_Context: Prime Minister, Czech Republic, Vladimir Spidla_
+_Context: Vladimir Spidla, Prime Minister, Czech Republic_
 
 ##### Yasser Arafat
 ### [ Yasser Arafat, President of the Palestinian Authority, commits to refrains from attacks on the Olympics scheduled for this August in Athens, Greece. ](/news/2004/06/26/yasser-arafat-president-of-the-palestinian-authority-commits-to-refrains-from-attacks-on-the-olympics-scheduled-for-this-august-in-athens.md)
-_Context: Athens, Greece, 2004 Summer Olympics, Yasser Arafat, Palestinian Authority_
+_Context: Yasser Arafat, Athens, Palestinian Authority, Greece, 2004 Summer Olympics_
 
 ##### Palestinians
 ### [ Six Palestinians, including Nayef Abu Sharkh, head of the Nablus old city part of the Al Aqsa Brigades, and Jaafar Masri, the leader of Hamas' military wing in Nablus, are killed during an Israeli operation, according to Palestinian sources. ](/news/2004/06/26/six-palestinians-including-nayef-abu-sharkh-head-of-the-nablus-old-city-part-of-the-al-aqsa-brigades-and-jaafar-masri-the-leader-of-ham.md)
-_Context: Israeli Army, Palestinians, Hamas, Al Aqsa Brigades, Nayef Abu Sharkh, Jaafar Masri, Nablus_
+_Context: Nablus, Nayef Abu Sharkh, Al Aqsa Brigades, Jaafar Masri, Israeli Army, Hamas, Palestinians_
 
 ## [Previous Day...](/news/2004/06/25/index.md)
 

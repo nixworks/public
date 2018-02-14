@@ -13,11 +13,11 @@ _Context: Myanmar, National League for Democracy, Rangoon_
 
 ##### Abdel Aziz al-Rantissi
 ### [ Abdel Aziz al-Rantissi, leader of Hamas, is killed by an Israeli missile attack. ](/news/2004/04/17/abdel-aziz-al-rantissi-leader-of-hamas-is-killed-by-an-israeli-missile-attack.md)
-_Context: Hamas, Abdel Aziz al-Rantissi, Israel_
+_Context: Abdel Aziz al-Rantissi, Israel, Hamas_
 
 ##### Socialist Workers' Party
 ### [ Socialist Party leader Jos Luis Rodrguez Zapatero is sworn in as Spain's prime minister. ](/news/2004/04/17/socialist-party-leader-jose-luis-rodriguez-zapatero-is-sworn-in-as-spain-s-prime-minister.md)
-_Context: Prime Minister, Socialist Workers' Party, Jos Luis Rodrguez Zapatero_
+_Context: Socialist Workers' Party, Jos Luis Rodrguez Zapatero, Prime Minister_
 
 ## [Previous Day...](/news/2004/04/16/index.md)
 

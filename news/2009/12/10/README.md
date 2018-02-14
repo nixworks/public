@@ -9,11 +9,11 @@ _Context: Greece, credit rating_
 
 ##### Pakistan
 ### [ Pakistani officials arrest five US citizens wanted by the FBI on suspicion of terrorism. ](/news/2009/12/10/pakistani-officials-arrest-five-us-citizens-wanted-by-the-fbi-on-suspicion-of-terrorism.md)
-_Context: FBI, Pakistan_
+_Context: Pakistan, FBI_
 
 ##### Red shirt
 ### [ Thousands of "red shirt" anti-government protesters demonstrate in Bangkok, Thailand, calling for new elections. ](/news/2009/12/10/thousands-of-red-shirt-anti-government-protesters-demonstrate-in-bangkok-thailand-calling-for-new-elections.md)
-_Context: Bangkok, Thailand, red shirt_
+_Context: red shirt, Thailand, Bangkok_
 
 ##### Supreme Court
 ### [ In what has been described as a landmark case, the Supreme Court of Ireland rules that a gay man, identified as "A", who donated his sperm to a lesbian couple shall have access to the resulting boy child, overturning the original High Court decision. GLEN expresses concern at the Supreme Court's rejection of the lesbian couple as a "de facto family". ](/news/2009/12/10/in-what-has-been-described-as-a-landmark-case-the-supreme-court-of-ireland-rules-that-a-gay-man-identified-as-a-who-donated-his-sperm.md)
@@ -33,11 +33,11 @@ India will carve a newstate out of southern Andhra Pradesh, home to several majo
 
 ##### Agusan del Sur
 ### [ 18 hostages are released after at least 65 people are kidnapped by gunmen in Agusan del Sur, Mindanao, the Philippines. ](/news/2009/12/10/18-hostages-are-released-after-at-least-65-people-are-kidnapped-by-gunmen-in-agusan-del-sur-mindanao-the-philippines.md)
-_Context: Philippines, Mindanao, Agusan del Sur_
+_Context: Philippines, Agusan del Sur, Mindanao_
 
 ##### RSM-56 Bulava
 ### [ A failed launch of an intercontinental missile RSM-56 Bulava by Russia is reported to be the cause of the mysterious spiral light seen over Northern Norway yesterday. ](/news/2009/12/10/a-failed-launch-of-an-intercontinental-missile-rsm-56-bulava-by-russia-is-reported-to-be-the-cause-of-the-mysterious-spiral-light-seen-over.md)
-_Context: Northern Norway, Russia, mysterious spiral light, RSM-56 Bulava_
+_Context: Russia, RSM-56 Bulava, Northern Norway, mysterious spiral light_
 
 ##### Barack Obama
 ### [ U.S. President Barack Obama accepts the 2009 Nobel Peace Prize in Oslo, Norway. ](/news/2009/12/10/u-s-president-barack-obama-accepts-the-2009-nobel-peace-prize-in-oslo-norway.md)

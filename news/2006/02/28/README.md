@@ -17,7 +17,7 @@ Get the latest health&nbsp;news, diet &amp; fitness information, medical researc
 
 ##### DR Congo
 ### [ Congolese government forces and United Nations peacekeepers (part of the MONUC mission) engage militia fighters in the wartorn Ituri district in a battle to retake the town of Tchei. The operation is in conjunction with a more aggressive disarmament policy by the U.N. peacekeepers in the region. ](/news/2006/02/28/congolese-government-forces-and-united-nations-peacekeepers-part-of-the-monuc-mission-engage-militia-fighters-in-the-wartorn-ituri-distri.md)
-_Context: MONUC, United Nations, DR Congo, Ituri_
+_Context: Ituri, DR Congo, MONUC, United Nations_
 
 ## [Previous Day...](/news/2006/02/27/index.md)
 

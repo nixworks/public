@@ -37,7 +37,7 @@ An elderly man from Puerto Rico succumbed after complications from an earlier in
 
 ##### Lithuania-United States relations
 ### [The United States Air Force lands two of its most advanced fighter jets in Lithuania for the first time in a show of support for the Baltic states which have become worried about Russia's actions in Ukraine. ](/news/2016/04/29/the-united-states-air-force-lands-two-of-its-most-advanced-fighter-jets-in-lithuania-for-the-first-time-in-a-show-of-support-for-the-baltic.md)
-_Context: United States Air Force, Russia, Lithuania, most advanced fighter jets, Lithuania-United States relations, Ukraine, Baltics_
+_Context: Lithuania-United States relations, Russia, most advanced fighter jets, Lithuania, Baltics, United States Air Force, Ukraine_
 
 ##### Australia
 ### [Australia commemorates the one-year anniversary of the execution of the ringleaders the Bali Nine. ](/news/2016/04/29/australia-commemorates-the-one-year-anniversary-of-the-execution-of-the-ringleaders-the-bali-nine.md)

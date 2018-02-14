@@ -9,7 +9,7 @@ _Context: Venezuelan Army, Oscar Perez, Caracas helicopter incident, Venezuelan 
 
 ##### Animal welfare and rights in Europe
 ### [The European Parliament approves a call to ban electric pulse fishing, seen by some as cruel. ](/news/2018/01/16/the-european-parliament-approves-a-call-to-ban-electric-pulse-fishing-seen-by-some-as-cruel.md)
-_Context: European Parliament, Animal welfare and rights in Europe, electric pulse fishing_
+_Context: electric pulse fishing, Animal welfare and rights in Europe, European Parliament_
 
 ##### The Church of Jesus Christ of Latter-day Saints
 ### [The Church of Jesus Christ of Latter-day Saints (Mormon Church) names Russell M. Nelson as the 17th President of the Church. ](/news/2018/01/16/the-church-of-jesus-christ-of-latter-day-saints-mormon-church-names-russell-m-nelson-as-the-17th-president-of-the-church.md)
@@ -21,7 +21,7 @@ The Dow Jones industrial average opened at 26,000, hitting another benchmark jus
 
 ##### Nestle
 ### [In a strategy claimed as "towards healthier products", Nestle sells its United States confectionery business, number 4 on the market, to Ferrero SpA for $2.8 billion. ](/news/2018/01/16/in-a-strategy-claimed-as-towards-healthier-products-nestla-c-sells-its-united-states-confectionery-business-number-4-on-the-market-to-fe.md)
-_Context: Ferrero SpA, confectionery, U.S., Nestle_
+_Context: confectionery, Ferrero SpA, Nestle, U.S._
 
 ##### Colombian Army
 ### [A Colombian Army Mi-17 helicopter crashes near Segovia, Antioquia, in northern Colombia, killing at least ten people. ](/news/2018/01/16/a-colombian-army-mi-17-helicopter-crashes-near-segovia-antioquia-in-northern-colombia-killing-at-least-ten-people.md)

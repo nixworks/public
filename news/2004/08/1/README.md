@@ -5,11 +5,11 @@ Formats: [HTML](2004/08/1/index.html)  [JSON](2004/08/1/index.json)  [XML](2004/
 
 ##### Lawyers
 ### [ Lawyers reveal that African American workers are to sue Eastman Kodak Co., charging that the firm paid them less and promoted them less often than white colleagues. ](/news/2004/08/1/lawyers-reveal-that-african-american-workers-are-to-sue-eastman-kodak-co-charging-that-the-firm-paid-them-less-and-promoted-them-less-oft.md)
-_Context: Lawyers, black, Eastman Kodak Co._
+_Context: black, Lawyers, Eastman Kodak Co._
 
 ##### Security alert
 ### [ The U.S. raises the security alert level to high for the World Bank and the International Monetary Fund in Washington, D.C., the New York Stock Exchange and companies in the New York City area on Sunday after intelligence signals a possible al Qaeda attack. ](/news/2004/08/1/the-u-s-raises-the-security-alert-level-to-high-for-the-world-bank-and-the-international-monetary-fund-in-washington-d-c-the-new-york-s.md)
-_Context: International Monetary Fund, World Bank, Washington, D.C., New York Stock Exchange, security alert, al Qaeda_
+_Context: International Monetary Fund, security alert, Washington, D.C., al Qaeda, World Bank, New York Stock Exchange_
 
 ##### Kuwait
 ### [ Kuwait bans Michael Moore's "Fahrenheit 9-11" because it deems the movie insulting to the Saudi Arabian royal family and critical of America's invasion of Iraq. ](/news/2004/08/1/kuwait-bans-michael-moore-s-fahrenheit-9-11-because-it-deems-the-movie-insulting-to-the-saudi-arabian-royal-family-and-critical-of-americ.md)
@@ -17,15 +17,15 @@ _Context: Saudi Arabia, Kuwait, Fahrenheit 9/11, 2003 invasion of Iraq, Michael 
 
 ##### Car bomb
 ### [ Four car bombs explode just minutes apart outside four nearby churches in central Baghdad and one car bomb explodes at a church in Mosul during Sunday evening services, killing 5 and injuring at least 46 people, witnesses say. The attacks appeared to be the first targeting churches during the 15-months of violent insurgency. ](/news/2004/08/1/four-car-bombs-explode-just-minutes-apart-outside-four-nearby-churches-in-central-baghdad-and-one-car-bomb-explodes-at-a-church-in-mosul-du.md)
-_Context: church, car bomb, Baghdad, insurgency_
+_Context: church, Baghdad, insurgency, car bomb_
 
 ##### Internet users
 ### [ Chinese authorities say they have shut down nearly 700 websites and arrested 224 people in a new campaign against internet pornography. ](/news/2004/08/1/chinese-authorities-say-they-have-shut-down-nearly-700-websites-and-arrested-224-people-in-a-new-campaign-against-internet-pornography.md)
-_Context: internet, websites, internet users, pornography_
+_Context: internet users, pornography, internet, websites_
 
 ##### Ambassador
 ### [ The French Ambassador to Chad, Jean Pierre Bercot, says that France will deploy 200 soldiers to help secure Chad's eastern border with Sudan's conflict-torn Darfur region. The troops will also bring humanitarian aid to tens of thousands of Darfur refugees in Chad. ](/news/2004/08/1/the-french-ambassador-to-chad-jean-pierre-bercot-says-that-france-will-deploy-200-soldiers-to-help-secure-chad-s-eastern-border-with-suda.md)
-_Context: Chad, Jean Pierre Bercot, Darfur, Ambassador, Sudan_
+_Context: Chad, Sudan, Jean Pierre Bercot, Ambassador, Darfur_
 
 ##### World Trade Organization
 ### [ World Trade Organization members agree on a revised draft deal that aims to revive stalled talks on freeing up trade between rich and poor nations. Key WTO members accept proposals to cut the subsidies wealthy countries give their farmers for exports. International non-governmental organizations (NGOs) denounced the results as a sell-out of poor countries and the environment. ](/news/2004/08/1/world-trade-organization-members-agree-on-a-revised-draft-deal-that-aims-to-revive-stalled-talks-on-freeing-up-trade-between-rich-and-poor.md)
@@ -33,7 +33,7 @@ _Context: environment, World Trade Organization, NGO, trade_
 
 ##### Asuncin
 ### [ Over 311 people are killed and 276 injured in a fire which swept a market in Asuncin, Paraguay. ](/news/2004/08/1/over-311-people-are-killed-and-276-injured-in-a-fire-which-swept-a-market-in-asuncion-paraguay.md)
-_Context: Asuncin, Paraguay_
+_Context: Paraguay, Asuncin_
 
 ## [Previous Day...](/news/2004/07/31/index.md)
 

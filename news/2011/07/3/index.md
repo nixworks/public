@@ -25,7 +25,7 @@ At least 10 people die in attacks blamed on Islamist militants in the north-east
 
 ##### A. E. Hotchner
 ### [A. E. Hotchner, a friend and collaborator of the Nobel Prize-winning writer Ernest Hemingway, writing in "The New York Times" on the 50th anniversary of Hemingway's death, expresses his belief that the J. Edgar Hoover-led Federal Bureau of Investigation's surveillance "substantially contributed to his anguish and his suicide", with Hotchner saying he "regretfully misjudged" Hemingway's fear of the FBI. ](/news/2011/07/3/a-e-hotchner-a-friend-and-collaborator-of-the-nobel-prize-winning-writer-ernest-hemingway-writing-in-the-new-york-times-on-the-50th-an.md)
-_Context: Ernest Hemingway, Nobel Prize, The New York Times, A. E. Hotchner, J. Edgar Hoover, FBI_
+_Context: The New York Times, FBI, J. Edgar Hoover, Ernest Hemingway, A. E. Hotchner, Nobel Prize_
 
 ##### Televangelist
 ### [American televangelist Robert H. Schuller is ousted from the board of the Crystal Cathedral. ](/news/2011/07/3/american-televangelist-robert-h-schuller-is-ousted-from-the-board-of-the-crystal-cathedral.md)
@@ -33,7 +33,7 @@ _Context: Crystal Cathedral, Robert H. Schuller, televangelist_
 
 ##### Mount Soputan
 ### [Mount Soputan, a volcano in Indonesia's North Sulawesi province, erupts. ](/news/2011/07/3/mount-soputan-a-volcano-in-indonesia-s-north-sulawesi-province-erupts.md)
-_Context: Mount Soputan, volcano, North Sulawesi, Indonesia_
+_Context: North Sulawesi, Mount Soputan, Indonesia, volcano_
 
 ##### Nigeria
 ### [At least 10 people have been killed in a series of bombings and shootings in northeastern Nigeria. ](/news/2011/07/3/at-least-10-people-have-been-killed-in-a-series-of-bombings-and-shootings-in-northeastern-nigeria.md)
@@ -45,15 +45,15 @@ Powerful electrical storms swept across the area Sunday evening, felling trees a
 
 ##### Sinks
 ### [A tourist boat sinks in the Sea of Cortez off the coast of Baja California in Mexico with 23 people missing. ](/news/2011/07/3/a-tourist-boat-sinks-in-the-sea-of-cortez-off-the-coast-of-baja-california-in-mexico-with-23-people-missing.md)
-_Context: Mexican, Baja California, sinks, Sea of Cortez_
+_Context: Mexican, Sea of Cortez, sinks, Baja California_
 
 ##### South Korea
 ### [South Korea announces plans to submit a claim to the United Nations to a larger portion of the East China Sea in a move which is likely to be disputed by the People's Republic of China and Japan. ](/news/2011/07/3/south-korea-announces-plans-to-submit-a-claim-to-the-united-nations-to-a-larger-portion-of-the-east-china-sea-in-a-move-which-is-likely-to-b.md)
-_Context: Japan, South Korea, China, waters, East China Sea, United Nations_
+_Context: China, South Korea, East China Sea, United Nations, waters, Japan_
 
 ##### Swiss Government
 ### [The Swiss Government blocks 27 million Swiss francs worth of assets linked to senior Syrian officials. ](/news/2011/07/3/the-swiss-government-blocks-27-million-swiss-francs-worth-of-assets-linked-to-senior-syrian-officials.md)
-_Context: francs, Syria, Swiss Government_
+_Context: Swiss Government, francs, Syria_
 
 ##### Thailand
 ### [Thailand votes in its 26th general election with results showing the Pheu Thai Party loyal to former Prime Minister Thaksin Shinawatra winning a majority. Yingluck Shinawatra, the opposition party leader, is expected to be the first female Prime Minister of Thailand. ](/news/2011/07/3/thailand-votes-in-its-26th-general-election-with-results-showing-the-pheu-thai-party-loyal-to-former-prime-minister-thaksin-shinawatra-winni.md)

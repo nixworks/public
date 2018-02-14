@@ -9,7 +9,7 @@ Security in Cairo tightened amid Friday prayers and protest marches called by th
 
 ##### Yemen
 ### [Yemen changes its weekend from Thursday and Friday to Friday and Saturday. ](/news/2013/08/16/yemen-changes-its-weekend-from-thursday-and-friday-to-friday-and-saturday.md)
-_Context: Friday, Saturday, Thursday, Yemen_
+_Context: Yemen, Saturday, Thursday, Friday_
 
 ##### India
 ### [The Indian rupee hits new record low against the US dollar. The rupee fell to 62.03 rupees against the dollar. ](/news/2013/08/16/the-indian-rupee-hits-new-record-low-against-the-us-dollar-the-rupee-fell-to-62-03-rupees-against-the-dollar.md)
@@ -29,7 +29,7 @@ U.S. may lose $4 billion fighter jet deal
 
 ##### Ali Akbar Salehi
 ### [Ali Akbar Salehi, former Iranian foreign minister, is appointed as head of Atomic Energy Organization of Iran. ](/news/2013/08/16/ali-akbar-salehi-former-iranian-foreign-minister-is-appointed-as-head-of-atomic-energy-organization-of-iran.md)
-_Context: foreign minister, Iran nuclear chief, Ali Akbar Salehi_
+_Context: Iran nuclear chief, foreign minister, Ali Akbar Salehi_
 
 ##### Area 51
 ### [The infamous Area 51 is officially acknowledged by the United States. ](/news/2013/08/16/the-infamous-area-51-is-officially-acknowledged-by-the-united-states.md)

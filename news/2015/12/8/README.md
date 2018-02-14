@@ -21,7 +21,7 @@ At least 22 officers killed and hostages held as regional leaders meet in Pakist
 
 ##### Yemeni Civil War (2015)
 ### [Saudi-led coalition airstrikes, targeting Houthi rebels battling pro-government fighters, killed and wounded dozens in the port city of Mocha, according to Yemeni security officials. Around 35 fighters on both sides were killed in the battle over a key military base near the city of Taiz. ](/news/2015/12/8/saudi-led-coalition-airstrikes-targeting-houthi-rebels-battling-pro-government-fighters-killed-and-wounded-dozens-in-the-port-city-of-moch.md)
-_Context: Yemeni, Mocha, Taiz, Saudi-led intervention in Yemen, Houthi, Yemen, Yemeni Civil War (2015)_
+_Context: Yemeni Civil War (2015), Yemen, Taiz, Saudi-led intervention in Yemen, Houthi, Mocha, Yemeni_
 
 ##### Russian military intervention
 ### [For the first time, Russia strikes Islamic State targets in northern Syria with 3M-54 Klub (Kalibr) cruise missiles launched from a Kilo-class submarine in the Mediterranean, according to the Russian Minister of Defence, Sergey Shoygu. ](/news/2015/12/8/for-the-first-time-russia-strikes-islamic-state-targets-in-northern-syria-with-3m-54-klub-kalibr-cruise-missiles-launched-from-a-kilo-cla.md)

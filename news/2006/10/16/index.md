@@ -5,7 +5,7 @@ Formats: [HTML](2006/10/16/index.html)  [JSON](2006/10/16/index.json)  [XML](200
 
 ##### After 48 rounds of voting
 ### [ UN Security Council election: The United Nations General Assembly elects Belgium, Indonesia, Italy and South Africa to two-year terms on the Security Council, commencing 1 January 2007. The fifth seat remains deadlocked after ten rounds of voting between Guatemala and Venezuela and may be thrown open to other candidates from Latin America and the Caribbean. ](/news/2006/10/16/un-security-council-election-the-united-nations-general-assembly-elects-belgium-indonesia-italy-and-south-africa-to-two-year-terms-on-th.md)
-_Context: Venezuela, General Assembly, Belgium, Italy, Indonesia, Guatemala, Latin America and the Caribbean, After 48 rounds of voting, South Africa, Security Council, United Nations_
+_Context: Security Council, Venezuela, Indonesia, After 48 rounds of voting, Guatemala, Italy, United Nations, Latin America and the Caribbean, General Assembly, South Africa, Belgium_
 
 ##### United Nations Secretary-General
 ### [ United Nations Secretary-General Kofi Annan condemns movement by Eritrea of 1,500 troops and 14 tanks into the UNMEE-monitored Temporary Security Zone with Ethiopia as a "major breach" of the ceasefire agreement that ended the Eritrean-Ethiopian War. ](/news/2006/10/16/united-nations-secretary-general-kofi-annan-condemns-movement-by-eritrea-of-1-500-troops-and-14-tanks-into-the-unmee-monitored-temporary-se.md)
@@ -17,19 +17,19 @@ The United States confirmed Monday that North Korea did conduct a nuclear test o
 
 ##### Sudan
 ### [ The government of Sudan and the Eastern Front rebels sign a peace treaty in Asmara, Eritrea. ](/news/2006/10/16/the-government-of-sudan-and-the-eastern-front-rebels-sign-a-peace-treaty-in-asmara-eritrea.md)
-_Context: Asmara, Eritrea, peace treaty, Eastern Front, Sudan_
+_Context: Eastern Front, Asmara, peace treaty, Eritrea, Sudan_
 
 ##### Industrial and Commercial Bank of China
 ### [ The Industrial and Commercial Bank of China starts its dual initial public offering (IPO) in Hong Kong Stock Exchange and Shanghai Stock Exchange, in what would be the world's largest ever IPO. ](/news/2006/10/16/the-industrial-and-commercial-bank-of-china-starts-its-dual-initial-public-offering-ipo-in-hong-kong-stock-exchange-and-shanghai-stock-ex.md)
-_Context: Shanghai Stock Exchange, Industrial and Commercial Bank of China, Hong Kong Stock Exchange, initial public offering_
+_Context: Hong Kong Stock Exchange, Shanghai Stock Exchange, Industrial and Commercial Bank of China, initial public offering_
 
 ##### LTTE
 ### [ Suspected Tamil Tiger rebels detonate a truck packed with explosives amongst a convoy of buses carrying Sri Lankan Navy personnel in the country's northeast. Approximately 102 people are killed, and 150 people are wounded. ](/news/2006/10/16/suspected-tamil-tiger-rebels-detonate-a-truck-packed-with-explosives-amongst-a-convoy-of-buses-carrying-sri-lankan-navy-personnel-in-the-co.md)
-_Context: Sri Lankan Navy, LTTE_
+_Context: LTTE, Sri Lankan Navy_
 
 ##### Sweden
 ### [ Swedish Minister for Culture Cecilia Steg Chil resigns after 11 days in office, the second resignation within the Cabinet of Fredrik Reinfeldt. ](/news/2006/10/16/swedish-minister-for-culture-cecilia-stego-chilo-resigns-after-11-days-in-office-the-second-resignation-within-the-cabinet-of-fredrik-rein.md)
-_Context: Cecilia Steg Chil, Sweden, Cabinet of Fredrik Reinfeldt_
+_Context: Sweden, Cabinet of Fredrik Reinfeldt, Cecilia Steg Chil_
 
 ##### Hong Kong
 ### [ The government of Hong Kong will not appeal a court ruling striking down the territory's sodomy law. ](/news/2006/10/16/the-government-of-hong-kong-will-not-appeal-a-court-ruling-striking-down-the-territory-s-sodomy-law.md)
@@ -41,7 +41,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ##### Uzbek President
 ### [ Uzbek President Islam Karimov fires Saidullo Begaliev, Governor of Andijan, for "short-sighted policies" and "lack of attention to the people's needs" that led to the Andijan massacre in 2005. Karimov appoints Ahmad Usmonov as Begaliev's replacement. ](/news/2006/10/16/uzbek-president-islam-karimov-fires-saidullo-begaliev-governor-of-andijan-for-short-sighted-policies-and-lack-of-attention-to-the-peop.md)
-_Context: Andijan, Uzbek President, Andijan massacre, Islam Karimov_
+_Context: Andijan, Islam Karimov, Andijan massacre, Uzbek President_
 
 ## [Previous Day...](/news/2006/10/15/index.md)
 

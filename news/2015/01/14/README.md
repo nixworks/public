@@ -25,7 +25,7 @@ A major highway in Mozambique splits as floods kill 73 people and displace tens 
 
 ##### Prime Minister of Japan
 ### [The cabinet of Prime Minister of Japan Shinzo Abe approves a record defence budget with a plan to buy surveillance aircraft and Lockheed Martin F-35 Lightning II fighter jets to improve security of uninhabited islands in the East China Sea claimed by both Japan and China. ](/news/2015/01/14/the-cabinet-of-prime-minister-of-japan-shinzo-abe-approves-a-record-defence-budget-with-a-plan-to-buy-surveillance-aircraft-and-lockheed-mar.md)
-_Context: China, Lockheed Martin F-35 Lightning II, Prime Minister of Japan, Shinzo Abe, Japan, East China Sea_
+_Context: Japan, China, Shinzo Abe, Lockheed Martin F-35 Lightning II, Prime Minister of Japan, East China Sea_
 
 ##### Taiwan
 ### [Taiwan protests China's new air routes near the median line of the Taiwan Strait and vows to step up surveillance of aviation activity. ](/news/2015/01/14/taiwan-protests-chinaas-new-air-routes-near-the-median-line-of-the-taiwan-strait-and-vows-to-step-up-surveillance-of-aviation-activity.md)
@@ -41,7 +41,7 @@ _Context: Kyle Dinkheller, Laurens County, executes, Georgia_
 
 ##### Indianapolis Colts
 ### [Police charge Indianapolis Colts linebacker Josh McNary with a December 1, 2014 rape. ](/news/2015/01/14/police-charge-indianapolis-colts-linebacker-josh-mcnary-with-a-december-1-2014-rape.md)
-_Context: Indianapolis Colts, Josh McNary_
+_Context: Josh McNary, Indianapolis Colts_
 
 ##### President of Italy
 ### [President of Italy Giorgio Napolitano will announce his resignation today. ](/news/2015/01/14/president-of-italy-giorgio-napolitano-will-announce-his-resignation-today.md)
@@ -53,7 +53,7 @@ Get the latest news video clips from NBC Bay Area. Check out breaking video news
 
 ##### U.S. Secret Service
 ### [The U.S. Secret Service removes four of its highest-ranking leaders while a fifth one retires. The continuing restructuring and fallout stem from a string of public security lapses beginning with the misconduct at the 6th Summit of the Americas. The most recent stage of the restructuring began in October 2014 with the resignation of then-Director Julia Pierson. ](/news/2015/01/14/the-u-s-secret-service-removes-four-of-its-highest-ranking-leaders-while-a-fifth-one-retires-the-continuing-restructuring-and-fallout-stem.md)
-_Context: U.S. Secret Service, 6th Summit of the Americas, misconduct, Julia Pierson_
+_Context: misconduct, 6th Summit of the Americas, U.S. Secret Service, Julia Pierson_
 
 ## [Previous Day...](/news/2015/01/13/index.md)
 

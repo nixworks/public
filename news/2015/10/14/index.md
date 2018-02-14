@@ -13,7 +13,7 @@ Troops have joined the Syrian regime&#039;s military forces and Hizbollah allies
 
 ##### ISIL
 ### [ISIL confirms that U.S. forces killed its number two leader, Abu Mutaz al-Qurashi, in an airstrike near Mosul back in August. ](/news/2015/10/14/isil-confirms-that-u-s-forces-killed-its-number-two-leader-abu-mutaz-al-qurashi-in-an-airstrike-near-mosul-back-in-august.md)
-_Context: Mosul, U.S., Abu Mutaz al-Qurashi, ISIL, U.S. airstrikes, ISIL_
+_Context: U.S. airstrikes, Mosul, Abu Mutaz al-Qurashi, ISIL, ISIL, U.S._
 
 ##### Israeli-Palestinian conflict
 ### [Israel's military deploys new checkpoints in its Arab neighborhoods, as well as thousands of border police soldiers to cities and on roads to assist police forces in response to recent Palestinian stabbing attacks. ](/news/2015/10/14/israel-s-military-deploys-new-checkpoints-in-its-arab-neighborhoods-as-well-as-thousands-of-border-police-soldiers-to-cities-and-on-roads-t.md)

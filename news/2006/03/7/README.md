@@ -13,7 +13,7 @@ _Context: Varanasi, three blasts_
 
 ##### Kizza Besigye
 ### [ Kizza Besigye, formerly opposition presidential candidate in the recent Ugandan elections, is cleared of rape charges.](/news/2006/03/7/kizza-besigye-formerly-opposition-presidential-candidate-in-the-recent-ugandan-elections-is-cleared-of-rape-charges.md)
-_Context: rape, Kizza Besigye, recent Ugandan elections_
+_Context: rape, recent Ugandan elections, Kizza Besigye_
 
 ##### Israel
 ### [ Israel's defense minister Shaul Mofaz says that the Hamas PNA prime minister-designate, Ismail Haniyeh, may be subject to an Israeli targeted killing if Hamas resumes attacks against Israel. ](/news/2006/03/7/israel-s-defense-minister-shaul-mofaz-says-that-the-hamas-pna-prime-minister-designate-ismail-haniyeh-may-be-subject-to-an-israeli-target.md)

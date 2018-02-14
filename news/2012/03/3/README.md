@@ -13,7 +13,7 @@ Three-storey Republican Guard building destroyed by suicide blast in Bayda, whic
 
 ##### Australian
 ### [Australians living in the north-western Sydney suburbs of Richmond, Pitt Town and Grono Point are evacuated as the Nepean-Hawkesbury River system floods after Warragamba Dam overflows. ](/news/2012/03/3/australians-living-in-the-north-western-sydney-suburbs-of-richmond-pitt-town-and-grono-point-are-evacuated-as-the-nepean-hawkesbury-river-s.md)
-_Context: Warragamba Dam, Grono Point, Sydney, Richmond, Nepean, Hawkesbury River, Pitt Town, Australian_
+_Context: Grono Point, Hawkesbury River, Pitt Town, Richmond, Australian, Nepean, Warragamba Dam, Sydney_
 
 ##### Tornadoes
 ### [The death toll from a tornado outbreak in the US reaches at least 36, with casualties reported in Kentucky, Indiana, Alabama, Georgia and Ohio. ](/news/2012/03/3/the-death-toll-from-a-tornado-outbreak-in-the-us-reaches-at-least-36-with-casualties-reported-in-kentucky-indiana-alabama-georgia-and-oh.md)
@@ -29,7 +29,7 @@ _Context: Guinea_
 
 ##### Egypt
 ### [Egypt appoints new judges for the trial of 43 non-government organisation workers including six Americans who left earlier in the week. ](/news/2012/03/3/egypt-appoints-new-judges-for-the-trial-of-43-non-government-organisation-workers-including-six-americans-who-left-earlier-in-the-week.md)
-_Context: Egypt, American, non-government organisation_
+_Context: American, non-government organisation, Egypt_
 
 ##### Costa Concordia
 ### [The criminal case associated with the wreck of the "Costa Concordia" starts in Italy. ](/news/2012/03/3/the-criminal-case-associated-with-the-wreck-of-the-costa-concordia-starts-in-italy.md)
@@ -45,11 +45,11 @@ _Context: Iranian legislative election, President, Mahmoud Ahmadinejad_
 
 ##### Tajikistan
 ### [Authorities in Tajikistan close access to Facebook and sites with material critical of President Emomali Rakhmon. ](/news/2012/03/3/authorities-in-tajikistan-close-access-to-facebook-and-sites-with-material-critical-of-president-emomali-rakhmon.md)
-_Context: President, Tajikistan, Emomali Rakhmon, Facebook_
+_Context: President, Facebook, Emomali Rakhmon, Tajikistan_
 
 ##### Republican
 ### [Republican voters in the US state of Washington go to the polls for caucuses, with Mitt Romney winning. ](/news/2012/03/3/republican-voters-in-the-us-state-of-washington-go-to-the-polls-for-caucuses-with-mitt-romney-winning.md)
-_Context: Mitt Romney, Republican, caucuses, Washington_
+_Context: Mitt Romney, caucuses, Republican, Washington_
 
 ## [Previous Day...](/news/2012/03/2/index.md)
 

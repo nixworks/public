@@ -13,7 +13,7 @@ Troops shoot at Palestinian trying to approach IDF pillbox
 
 ##### Director of the CIA
 ### [ Director Michael Hayden of the United States Central Intelligence Agency announces plans to declassify documents detailing illegal activities performed by the agency between 1950 and 1980, including assassination plots, domestic spying and wiretapping, kidnapping, and human experiments. ](/news/2007/06/22/director-michael-hayden-of-the-united-states-central-intelligence-agency-announces-plans-to-declassify-documents-detailing-illegal-activiti.md)
-_Context: U.S., Director of the CIA, family jewels, domestic spying, Michael Hayden, assassination, 1980, human experiment, wiretapped, 1950, CIA_
+_Context: wiretapped, 1980, 1950, human experiment, domestic spying, assassination, CIA, Michael Hayden, Director of the CIA, family jewels, U.S._
 
 ##### Space Shuttle Atlantis
 ### [ Space Shuttle "Atlantis" lands safely at Edwards Air Force Base in California after inclement weather had prevented its programmed landing at the Kennedy Space Center in Florida, ending STS-117. ](/news/2007/06/22/space-shuttle-atlantis-lands-safely-at-edwards-air-force-base-in-california-after-inclement-weather-had-prevented-its-programmed-landing.md)

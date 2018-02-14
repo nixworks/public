@@ -9,11 +9,11 @@ After meeting with Israel&#39;s UN Ambassador Danny Gillerman, Secretary General
 
 ##### Defending champion
 ### [ The 2006 FIFA World Cup begins at the FIFA World Cup Stadium Munich. ](/news/2006/06/9/the-2006-fifa-world-cup-begins-at-the-fifa-world-cup-stadium-munich.md)
-_Context: defending champion, FIFA World Cup Stadium Munich_
+_Context: FIFA World Cup Stadium Munich, defending champion_
 
 ##### World War II
 ### [ The suspected WWII 'bomb' under Broadmead in Bristol, United Kingdom turns out to be a piece of reinforced concrete. ](/news/2006/06/9/the-suspected-wwii-bomb-under-broadmead-in-bristol-united-kingdom-turns-out-to-be-a-piece-of-reinforced-concrete.md)
-_Context: Bristol, World War II, United Kingdom, Broadmead_
+_Context: Bristol, Broadmead, World War II, United Kingdom_
 
 ## [Previous Day...](/news/2006/06/8/index.md)
 

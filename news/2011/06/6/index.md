@@ -5,11 +5,11 @@ Formats: [HTML](2011/06/6/index.html)  [JSON](2011/06/6/index.json)  [XML](2011/
 
 ##### Civil war
 ### [2011 Libyan civil war: Rebels retake the town of Yafran in the west of the country. ](/news/2011/06/6/2011-libyan-civil-war-rebels-retake-the-town-of-yafran-in-the-west-of-the-country.md)
-_Context: Yafran, civil war_
+_Context: civil war, Yafran_
 
 ##### Syria
 ### [At least 120 members of the Syrian security forces are killed in clashes in the northern town of Jisr al-Shughour, according to state media. ](/news/2011/06/6/at-least-120-members-of-the-syrian-security-forces-are-killed-in-clashes-in-the-northern-town-of-jisr-al-shughour-according-to-state-media.md)
-_Context: Syria, Jisr al-Shughour_
+_Context: Jisr al-Shughour, Syria_
 
 ##### 2011 Bahraini protests
 ### [2011 Bahraini protests: Medical staff who treated anti-government demonstrators are charged with attempting to overthrow the monarchy. ](/news/2011/06/6/2011-bahraini-protests-medical-staff-who-treated-anti-government-demonstrators-are-charged-with-attempting-to-overthrow-the-monarchy.md)
@@ -17,7 +17,7 @@ Tear gas and rubber bullets reportedly used to break up religious gatherings in 
 
 ##### U.S.
 ### [Two United States drone missiles kill 14 people in Pakistani Taliban compounds near Wana in South Waziristan. ](/news/2011/06/6/two-united-states-drone-missiles-kill-14-people-in-pakistani-taliban-compounds-near-wana-in-south-waziristan.md)
-_Context: U.S., South Waziristan, Pakistani Taliban, Wana, drone_
+_Context: South Waziristan, drone, U.S., Wana, Pakistani Taliban_
 
 ##### 2011 Yemeni uprising
 ### [2011 Yemeni uprising: Armed men affiliated with al-Qaeda kill seven soldiers and injure 12 others near the city of Zinjibar. ](/news/2011/06/6/2011-yemeni-uprising-armed-men-affiliated-with-al-qaeda-kill-seven-soldiers-and-injure-12-others-near-the-city-of-zinjibar.md)
@@ -25,11 +25,11 @@ Armed men killed sevensoldiers and wounded 12 others in clashes in the southern 
 
 ##### Kaduqli
 ### [Shooting takes place in Kaduqli in Sudan's South Kordofan state, where armed groups allied to South Sudan are based. ](/news/2011/06/6/shooting-takes-place-in-kaduqli-in-sudan-s-south-kordofan-state-where-armed-groups-allied-to-south-sudan-are-based.md)
-_Context: Sudan, South Kordofan, South Sudan, Kaduqli_
+_Context: Kaduqli, South Sudan, South Kordofan, Sudan_
 
 ##### 2011 Xilinhot incident
 ### [Around 100 people are detained after ethnic unrest in the Inner Mongolia region of China. ](/news/2011/06/6/around-100-people-are-detained-after-ethnic-unrest-in-the-inner-mongolia-region-of-china.md)
-_Context: China, 2011 Xilinhot incident, Inner Mongolia_
+_Context: Inner Mongolia, China, 2011 Xilinhot incident_
 
 ##### North Korea
 ### [North Korea is to establish a special economic zone on two islands close to the Chinese border. ](/news/2011/06/6/north-korea-is-to-establish-a-special-economic-zone-on-two-islands-close-to-the-chinese-border.md)
@@ -57,7 +57,7 @@ _Context: coal mine, China_
 
 ##### German
 ### [Test results will confirm whether the German "E. Coli" outbreak came from vegetable sprouts grown in the Uelzen area. ](/news/2011/06/6/test-results-will-confirm-whether-the-german-e-coli-outbreak-came-from-vegetable-sprouts-grown-in-the-uelzen-area.md)
-_Context: German, E. coli blamed for 46 deaths, Uelzen_
+_Context: E. coli blamed for 46 deaths, German, Uelzen_
 
 ##### Western U.S.
 ### [Residents of three Western United States towns - Springerville, Arizona, Eagar, Arizona and Luna, New Mexico - are warned to prepare for evacuation ahead of the Wallow Fire. one of the biggest in Arizona history. ](/news/2011/06/6/residents-of-three-western-united-states-towns-springerville-arizona-eagar-arizona-and-luna-new-mexico-are-warned-to-prepare-for-eva.md)
@@ -73,7 +73,7 @@ _Context: European Union, North Korea_
 
 ##### People's Daily
 ### [The "People's Daily", a Chinese stated-owned newspaper, accuses Internet search engine giant Google of becoming a "political tool" after it claimed that computer hacking aimed at it came from China. ](/news/2011/06/6/the-people-s-daily-a-chinese-stated-owned-newspaper-accuses-internet-search-engine-giant-google-of-becoming-a-political-tool-after-it.md)
-_Context: Google, People's Daily, search engine, hacker, Internet_
+_Context: People's Daily, hacker, Internet, Google, search engine_
 
 ##### United Nations Committee Against Torture
 ### [The United Nations Committee Against Torture calls for the Government of Ireland to set up a statutory inquiry into allegations of poor treatment of women committed to the Magdalene Laundries. ](/news/2011/06/6/the-united-nations-committee-against-torture-calls-for-the-government-of-ireland-to-set-up-a-statutory-inquiry-into-allegations-of-poor-trea.md)
@@ -81,7 +81,7 @@ The Government should set up a statutory investigation into allegations of tortu
 
 ##### Supreme Court of India
 ### [The Supreme Court of India calls on the Indian government to explain why police were sent in to disperse a peaceful anti-corruption demonstration. ](/news/2011/06/6/the-supreme-court-of-india-calls-on-the-indian-government-to-explain-why-police-were-sent-in-to-disperse-a-peaceful-anti-corruption-demonstr.md)
-_Context: Government of India, Supreme Court of India_
+_Context: Supreme Court of India, Government of India_
 
 ##### Abu Bakar Bashir
 ### [Abu Bakar Bashir, a prominent Indonesian cleric, rejects his terrorism trial as "outside Islamic law." ](/news/2011/06/6/abu-bakar-bashir-a-prominent-indonesian-cleric-rejects-his-terrorism-trial-as-outside-islamic-law.md)
@@ -89,35 +89,35 @@ Co-founder of Jemaah Islamiyah proclaims innocence over terror charges and rejec
 
 ##### International Monetary Fund
 ### [Former International Monetary Fund chief Dominique Strauss-Kahn will be arraigned on sexual assault charges in the US state of New York. ](/news/2011/06/6/former-international-monetary-fund-chief-dominique-strauss-kahn-will-be-arraigned-on-sexual-assault-charges-in-the-us-state-of-new-york.md)
-_Context: sexual assault, arraigned, International Monetary Fund, New York, Dominique Strauss-Kahn_
+_Context: International Monetary Fund, arraigned, Dominique Strauss-Kahn, New York, sexual assault_
 
 ##### Malaysia
 ### [The sodomy trial of Malaysian opposition leader Anwar Ibrahim is delayed after the presiding judge Mohamad Zabidin Diah dismisses the defence's efforts to have him replaced. ](/news/2011/06/6/the-sodomy-trial-of-malaysian-opposition-leader-anwar-ibrahim-is-delayed-after-the-presiding-judge-mohamad-zabidin-diah-dismisses-the-defenc.md)
-_Context: Anwar Ibrahim, Malaysia, Mohamad Zabidin Diah_
+_Context: Anwar Ibrahim, Mohamad Zabidin Diah, Malaysia_
 
 ##### U.S.
 ### [The United States Federal Bureau of Investigation announces that it has arrested 13 members of the Mafia in the city of Philadelphia in relation to an illegal gambling operation. ](/news/2011/06/6/the-united-states-federal-bureau-of-investigation-announces-that-it-has-arrested-13-members-of-the-mafia-in-the-city-of-philadelphia-in-rela.md)
-_Context: FBI, Sicilian Mafia, U.S., Philadelphia, Pennsylvania_
+_Context: Sicilian Mafia, U.S., FBI, Philadelphia, Pennsylvania_
 
 ##### House of Representatives
 ### [The outgoing speaker of the House of Representatives in Nigeria, Dimeji Bankole, is arrested on fraud charges. ](/news/2011/06/6/the-outgoing-speaker-of-the-house-of-representatives-in-nigeria-dimeji-bankole-is-arrested-on-fraud-charges.md)
-_Context: Nigeria, House of Representatives, Dimeji Bankole_
+_Context: House of Representatives, Nigeria, Dimeji Bankole_
 
 ##### France
 ### [France announces that it will stop teaching indigenous languages in schools in all of its Overseas departments and territories of France. ](/news/2011/06/6/france-announces-that-it-will-stop-teaching-indigenous-languages-in-schools-in-all-of-its-overseas-departments-and-territories-of-france.md)
-_Context: France, indigenous language, Overseas departments and territories of France_
+_Context: Overseas departments and territories of France, indigenous language, France_
 
 ##### Ollanta Humala
 ### [Ollanta Humala is elected President of Peru in the Peruvian general election, defeating opposition leader Keiko Fujimori. ](/news/2011/06/6/ollanta-humala-is-elected-president-of-peru-in-the-peruvian-general-election-defeating-opposition-leader-keiko-fujimori.md)
-_Context: Keiko Fujimori, Peruvian general election, President, Ollanta Humala_
+_Context: President, Keiko Fujimori, Peruvian general election, Ollanta Humala_
 
 ##### United States House of Representatives
 ### [U.S. House Representative Anthony Weiner of New York admits sending a risqu picture of himself to a college student on Twitter. ](/news/2011/06/6/u-s-house-representative-anthony-weiner-of-new-york-admits-sending-a-risque-picture-of-himself-to-a-college-student-on-twitter.md)
-_Context: Twitter, United States House of Representatives, Anthony Weiner, New York_
+_Context: New York, United States House of Representatives, Twitter, Anthony Weiner_
 
 ##### Austan Goolsbee
 ### [Austan Goolsbee announces plans to leave the position of Chairman of President of the United States Council of Economic Advisers by September. ](/news/2011/06/6/austan-goolsbee-announces-plans-to-leave-the-position-of-chairman-of-president-of-the-united-states-council-of-economic-advisers-by-septembe.md)
-_Context: Council of Economic Advisers, U.S. President, Austan Goolsbee_
+_Context: Council of Economic Advisers, Austan Goolsbee, U.S. President_
 
 ## [Previous Day...](/news/2011/06/5/index.md)
 

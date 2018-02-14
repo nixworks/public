@@ -5,7 +5,7 @@ Formats: [HTML](2013/06/8/index.html)  [JSON](2013/06/8/index.json)  [XML](2013/
 
 ##### Afghanistan
 ### [In Afghanistan, a man wearing an Afghan military uniform attacks and kills three American soldiers, in what appears to be an insider attack on U.S. International Security Assistance Force soldiers, based in east Afghanistan's Paktika Province. ](/news/2013/06/8/in-afghanistan-a-man-wearing-an-afghan-military-uniform-attacks-and-kills-three-american-soldiers-in-what-appears-to-be-an-insider-attack.md)
-_Context: Afghanistan, American soldiers, Afghan military, International Security Assistance Force, Paktika Province_
+_Context: Paktika Province, Afghan military, Afghanistan, American soldiers, International Security Assistance Force_
 
 ##### Syrian Armed Forces
 ### [The Syrian military captures the town of Al-Buwaydah al-Sharqiyah. ](/news/2013/06/8/the-syrian-military-captures-the-town-of-al-buwaydah-al-sharqiyah.md)
@@ -21,11 +21,11 @@ _Context: Boko Haram, Maiduguri_
 
 ##### Mali
 ### [The government of Mali opens talks with Tuareg separatists in the hopes of reaching a ceasefire agreement. ](/news/2013/06/8/the-government-of-mali-opens-talks-with-tuareg-separatists-in-the-hopes-of-reaching-a-ceasefire-agreement.md)
-_Context: Mali, Tuareg, ceasefire_
+_Context: ceasefire, Tuareg, Mali_
 
 ##### Ras Kamboni Movement
 ### [Clashes between the Ras Kamboni Movement and pro-government militia leave at least 18 dead in the Somali port of Kismayu. ](/news/2013/06/8/clashes-between-the-ras-kamboni-movement-and-pro-government-militia-leave-at-least-18-dead-in-the-somali-port-of-kismayu.md)
-_Context: Kismayu, Somalia, Ras Kamboni Movement_
+_Context: Somalia, Ras Kamboni Movement, Kismayu_
 
 ##### Princess Madeleine of Sweden
 ### [Princess Madeleine of Sweden marries British-born American businessman Christopher O'Neill in a lavish ceremony. ](/news/2013/06/8/princess-madeleine-of-sweden-marries-british-born-american-businessman-christopher-o-neill-in-a-lavish-ceremony.md)
@@ -57,7 +57,7 @@ Long-serving Tasmanian Speaker Michael Polley has announced he is retiring from 
 
 ##### Sudan
 ### [Sudanese president Omar al-Bashir orders the closure of oil pipelines coming from South Sudan. ](/news/2013/06/8/sudanese-president-omar-al-bashir-orders-the-closure-of-oil-pipelines-coming-from-south-sudan.md)
-_Context: South Sudan, Sudan, Omar al-Bashir_
+_Context: Sudan, Omar al-Bashir, South Sudan_
 
 ##### Massachusetts
 ### [Former governor of Massachusetts and US ambassador Paul Cellucci dies at age 65. ](/news/2013/06/8/former-governor-of-massachusetts-and-us-ambassador-paul-cellucci-dies-at-age-65.md)

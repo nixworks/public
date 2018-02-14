@@ -21,7 +21,7 @@ _Context: Queensland, Australia_
 
 ##### Salmaan Taseer
 ### [Salmaan Taseer, the Governor of the Pakistani province of Punjab, is assassinated by Malik Mumtaz Hussain Qadri, one of his security guards at Koshar Market, Islamabad. ](/news/2011/01/4/salmaan-taseer-the-governor-of-the-pakistani-province-of-punjab-is-assassinated-by-malik-mumtaz-hussain-qadri-one-of-his-security-guards.md)
-_Context: Pakistan, Punjab Province, Islamabad, Pakistani Punjab governor, Malik Mumtaz Hussain Qadri, assassination, Salmaan Taseer_
+_Context: Malik Mumtaz Hussain Qadri, Pakistani Punjab governor, assassination, Pakistan, Salmaan Taseer, Punjab Province, Islamabad_
 
 ##### Texas
 ### [51-year-old Texan Cornelius Dupree, freed on parole in July 2010 after serving 30 of a 75 year sentence for aggravated robbery, has his conviction quashed after he was found to be innocent of the crime through DNA evidence. ](/news/2011/01/4/51-year-old-texan-cornelius-dupree-freed-on-parole-in-july-2010-after-serving-30-of-a-75-year-sentence-for-aggravated-robbery-has-his-conv.md)

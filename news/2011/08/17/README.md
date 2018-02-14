@@ -9,7 +9,7 @@ _Context: Afghanistan President, Kabul_
 
 ##### Polish
 ### [Workers at the Polish Przewozy Regionalne passenger rail network commence a 24-hour strike. ](/news/2011/08/17/workers-at-the-polish-przewozy-regionalne-passenger-rail-network-commence-a-24-hour-strike.md)
-_Context: Przewozy Regionalne, Polish_
+_Context: Polish, Przewozy Regionalne_
 
 ##### Verizon Communications
 ### [Verizon Communications says that striking workers who do not return to work by the end of August will lose medical, prescription drug, and related benefits. ](/news/2011/08/17/verizon-communications-says-that-striking-workers-who-do-not-return-to-work-by-the-end-of-august-will-lose-medical-prescription-drug-and-r.md)
@@ -21,7 +21,7 @@ _Context: Hugo Chvez, Venezuelan President, Venezuela, gold_
 
 ##### Financial Times
 ### [The "Financial Times" reports that sources "familiar with the situation" say Liberty Media is losing interest in a purchase of Barnes & Noble, due to financing constraints. ](/news/2011/08/17/the-financial-times-reports-that-sources-familiar-with-the-situation-say-liberty-media-is-losing-interest-in-a-purchase-of-barnes-nobl.md)
-_Context: Barnes & Noble, Financial Times, Liberty Media_
+_Context: Financial Times, Barnes & Noble, Liberty Media_
 
 ##### Special Tribunal for Lebanon
 ### [The Special Tribunal for Lebanon publishes an indictment against Hezbollah members accused in the 2005 assassination of Lebanese Prime Minister Rafic Hariri. ](/news/2011/08/17/the-special-tribunal-for-lebanon-publishes-an-indictment-against-hezbollah-members-accused-in-the-2005-assassination-of-lebanese-prime-minis.md)
@@ -45,11 +45,11 @@ A fourth person is charged with murder after the deaths of three men who were st
 
 ##### Vasyl Dzharty
 ### [Vasyl Dzharty, the Prime Minister of Crimea, an autonomous region of Ukraine, dies in office. ](/news/2011/08/17/vasyl-dzharty-the-prime-minister-of-crimea-an-autonomous-region-of-ukraine-dies-in-office.md)
-_Context: Prime Minister of Crimea, Vasyl Dzharty, autonomous region, Ukraine_
+_Context: Vasyl Dzharty, Ukraine, autonomous region, Prime Minister of Crimea_
 
 ##### Singapore
 ### [Singapore's Presidential Elections Committee approves four presidential candidates for the presidential election on August 27: Tony Tan Keng Yam, Tan Cheng Bock, Tan Kin Lian and Tan Jee Say. ](/news/2011/08/17/singapore-s-presidential-elections-committee-approves-four-presidential-candidates-for-the-presidential-election-on-august-27-tony-tan-keng.md)
-_Context: Singapore, Tony Tan Keng Yam, presidential election, Tan Cheng Bock, Tan Jee Say, Presidential Elections Committee, Tan Kin Lian_
+_Context: Tan Cheng Bock, Tan Jee Say, presidential election, Tony Tan Keng Yam, Singapore, Tan Kin Lian, Presidential Elections Committee_
 
 ## [Previous Day...](/news/2011/08/16/index.md)
 

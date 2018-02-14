@@ -21,11 +21,11 @@ Former&#x20;interior&#x20;minister&#x20;Charles&#x20;Pasqua&#x20;has&#x20;been&#
 
 ##### Tonga
 ### [Tonga's Attorney-General suddenly resigns amidst allegations the government is trying to take over his judiciary. ](/news/2010/04/30/tonga-s-attorney-general-suddenly-resigns-amidst-allegations-the-government-is-trying-to-take-over-his-judiciary.md)
-_Context: Tonga, government, Attorney-General_
+_Context: government, Tonga, Attorney-General_
 
 ##### Oil spill
 ### [The oil spill resulting from the explosion of the "Deepwater Horizon" drilling rig in the Gulf of Mexico reaches the Louisiana coast. ](/news/2010/04/30/the-oil-spill-resulting-from-the-explosion-of-the-deepwater-horizon-drilling-rig-in-the-gulf-of-mexico-reaches-the-louisiana-coast.md)
-_Context: Louisiana, oil spill, Deepwater Horizon drilling rig explosion, Deepwater Horizon, Gulf of Mexico_
+_Context: Gulf of Mexico, Louisiana, Deepwater Horizon drilling rig explosion, oil spill, Deepwater Horizon_
 
 ##### Pakistan
 ### [Former Pakistani spy Khalid Khawaja is murdered; a previously unknown militant group - Asian Tigers - claims responsibility. ](/news/2010/04/30/former-pakistani-spy-khalid-khawaja-is-murdered-a-previously-unknown-militant-group-asian-tigers-claims-responsibility.md)
@@ -41,7 +41,7 @@ _Context: Goldman Sachs, United States Justice Department_
 
 ##### Nigeria
 ### [The Nigerian House of Representatives announces the creation of ten new states, five in the north and five in the south, by 2011. ](/news/2010/04/30/the-nigerian-house-of-representatives-announces-the-creation-of-ten-new-states-five-in-the-north-and-five-in-the-south-by-2011.md)
-_Context: ten new states, Nigeria, House of Representatives_
+_Context: House of Representatives, Nigeria, ten new states_
 
 ##### China
 ### [China and South Korea discuss the potential security threat presented by North Korean aggression. ](/news/2010/04/30/china-and-south-korea-discuss-the-potential-security-threat-presented-by-north-korean-aggression.md)
@@ -61,11 +61,11 @@ All of 110 pounds, security guard Chen Xiu might not pack much heft, but he says
 
 ##### Gerry Ryan
 ### [One of Ireland's most recognisable broadcasters, Gerry Ryan, who co-presented Eurovision Song Contest 1994 sixteen years ago today, is discovered dead at his Dublin home after failing to present this morning's edition of "The Gerry Ryan Show" on national radio station RT 2fm. ](/news/2010/04/30/one-of-ireland-s-most-recognisable-broadcasters-gerry-ryan-who-co-presented-eurovision-song-contest-1994-sixteen-years-ago-today-is-disco.md)
-_Context: funeral, Gerry Ryan, RT 2fm, Eurovision Song Contest 1994, The Gerry Ryan Show, Dublin_
+_Context: funeral, Dublin, RT 2fm, Eurovision Song Contest 1994, Gerry Ryan, The Gerry Ryan Show_
 
 ##### Russia
 ### [Russian businessman Vasily Bukhtienko, who established a Joseph Stalin museum in Volgograd, is beat to death by electric shocks. ](/news/2010/04/30/russian-businessman-vasily-bukhtienko-who-established-a-joseph-stalin-museum-in-volgograd-is-beat-to-death-by-electric-shocks.md)
-_Context: Joseph Stalin, Volgograd, Vasily Bukhtienko, Russia_
+_Context: Vasily Bukhtienko, Russia, Joseph Stalin, Volgograd_
 
 ## [Previous Day...](/news/2010/04/29/index.md)
 

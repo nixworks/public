@@ -5,7 +5,7 @@ Formats: [HTML](2013/01/11/index.html)  [JSON](2013/01/11/index.json)  [XML](201
 
 ##### Taftanaz
 ### [Rebel forces take over the strategic Taftanaz airbase in northern Syria. ](/news/2013/01/11/rebel-forces-take-over-the-strategic-taftanaz-airbase-in-northern-syria.md)
-_Context: Taftanaz, Syria_
+_Context: Syria, Taftanaz_
 
 ##### France
 ### [France commits troops to aid government forces in the Northern Mali conflict. ](/news/2013/01/11/france-commits-troops-to-aid-government-forces-in-the-northern-mali-conflict.md)
@@ -25,7 +25,7 @@ _Context: landslide, Yunnan, China_
 
 ##### Bus
 ### [29 people die and 12 people are injured after a bus veers off a mountain road in Doti, Nepal. ](/news/2013/01/11/29-people-die-and-12-people-are-injured-after-a-bus-veers-off-a-mountain-road-in-doti-nepal.md)
-_Context: Nepal, Doti, bus_
+_Context: Doti, Nepal, bus_
 
 ##### Fire
 ### [A fire sweeps through a complex containing housing for foreign workers in Manama, Bahrain, leaving 13 foreign nationals dead. ](/news/2013/01/11/a-fire-sweeps-through-a-complex-containing-housing-for-foreign-workers-in-manama-bahrain-leaving-13-foreign-nationals-dead.md)
@@ -33,7 +33,7 @@ A fire at a building housing workers in the Bahraini capital Manama kills 13 peo
 
 ##### Metropolitan Police
 ### [The Metropolitan Police and NSPCC have confirmed 214 separate sexual offences committed by Jimmy Savile over a period of fifty years. ](/news/2013/01/11/the-metropolitan-police-and-nspcc-have-confirmed-214-separate-sexual-offences-committed-by-jimmy-savile-over-a-period-of-fifty-years.md)
-_Context: Jimmy Savile sexual abuse scandal, Jimmy Savile, Metropolitan Police, NSPCC_
+_Context: NSPCC, Metropolitan Police, Jimmy Savile sexual abuse scandal, Jimmy Savile_
 
 ##### Hostage situation
 ### [Three people are injured after a hostage situation takes place in a Nordstrom Rack chain in the neighborhood of Westchester in Los Angeles, California. ](/news/2013/01/11/three-people-are-injured-after-a-hostage-situation-takes-place-in-a-nordstrom-rack-chain-in-the-neighborhood-of-westchester-in-los-angeles.md)

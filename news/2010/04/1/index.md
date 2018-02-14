@@ -17,7 +17,7 @@ Archbishop of Dublin Diarmuid Martin has criticised Catholics who say their chur
 
 ##### Archbishop of Westminster
 ### [ Archbishop of Westminster Vincent Nichols says he "understands arguments for condoms", in apparent conflict with Roman Catholic Church teaching on contraception. ](/news/2010/04/1/archbishop-of-westminster-vincent-nichols-says-he-understands-arguments-for-condoms-in-apparent-conflict-with-roman-catholic-church-teac.md)
-_Context: Roman Catholic Church, Vincent Nichols, condom, Archbishop of Westminster_
+_Context: condom, Vincent Nichols, Archbishop of Westminster, Roman Catholic Church_
 
 ##### Southern Sudan
 ### [ Southern Sudan's Sudan People's Liberation Movement (SPLM) announces its decision to withdraw its presidential candidate, Yasir Arman, from elections. Most other opposition parties join them. ](/news/2010/04/1/southern-sudan-s-sudan-people-s-liberation-movement-splm-announces-its-decision-to-withdraw-its-presidential-candidate-yasir-arman-from.md)
@@ -49,7 +49,7 @@ Over 30 inmates have escaped from a prison in Yemen after a bomb was thrown at t
 
 ##### Court of Appeal
 ### [ A landmark ruling at the Court of Appeal allows science writer Simon Singh to rely on the defence of fair comment in a libel action taken by the British Chiropractic Association over a 2008 article in "The Guardian" newspaper. ](/news/2010/04/1/a-landmark-ruling-at-the-court-of-appeal-allows-science-writer-simon-singh-to-rely-on-the-defence-of-fair-comment-in-a-libel-action-taken-b.md)
-_Context: Simon Singh, libel, British Chiropractic Association, The Guardian, Court of Appeal, fair comment_
+_Context: fair comment, Court of Appeal, The Guardian, Simon Singh, British Chiropractic Association, libel_
 
 ##### Victoria Sharp
 ### [ Justice Victoria Sharp blocks a rail work stoppage by signallers over pay cuts and working conditions, which would have been Britain's first national rail strike in 16 years. ](/news/2010/04/1/justice-victoria-sharp-blocks-a-rail-work-stoppage-by-signallers-over-pay-cuts-and-working-conditions-which-would-have-been-britain-s-firs.md)
@@ -61,15 +61,15 @@ _Context: Nuhu Ribadu, Nigeria_
 
 ##### M6 motorway
 ### [ 12 people are wounded in a seven-vehicle pile-up on the M6 motorway near Rugby in Warwickshire, England. ](/news/2010/04/1/12-people-are-wounded-in-a-seven-vehicle-pile-up-on-the-m6-motorway-near-rugby-in-warwickshire-england.md)
-_Context: England, Warwickshire, M6 motorway, Rugby_
+_Context: Rugby, Warwickshire, M6 motorway, England_
 
 ##### Stratford-upon-Avon
 ### [ South Warwickshire Tourism Ltd (Shakespeare Country), which promoted Stratford-upon-Avon, Royal Leamington Spa, Warwick and Kenilworth, ceases to trade. ](/news/2010/04/1/south-warwickshire-tourism-ltd-shakespeare-country-which-promoted-stratford-upon-avon-royal-leamington-spa-warwick-and-kenilworth-cea.md)
-_Context: Royal Leamington Spa, Kenilworth, Warwick, Stratford-upon-Avon_
+_Context: Warwick, Stratford-upon-Avon, Royal Leamington Spa, Kenilworth_
 
 ##### Machu Picchu
 ### [ Machu Picchu reopens with the help of actress Susan Sarandon. ](/news/2010/04/1/machu-picchu-reopens-with-the-help-of-actress-susan-sarandon.md)
-_Context: Machu Picchu, Susan Sarandon_
+_Context: Susan Sarandon, Machu Picchu_
 
 ##### Academy Award
 ### [ Academy Award winning actor Anna Paquin's unexpected public acknowledgement of her bisexuality in a video causes the anti-discrimination Give a Damn campaign website she is promoting to crash. ](/news/2010/04/1/academy-award-winning-actor-anna-paquin-s-unexpected-public-acknowledgement-of-her-bisexuality-in-a-video-causes-the-anti-discrimination-gi.md)
@@ -77,11 +77,11 @@ LOS ANGELES (Reuters Life!) - Oscar winner Anna Paquin came out as bisexual on T
 
 ##### Aretha Franklin
 ### [ Aretha Franklin and Michael Jackson are inducted into the hall of fame at New York's Apollo Theater. ](/news/2010/04/1/aretha-franklin-and-michael-jackson-are-inducted-into-the-hall-of-fame-at-new-york-s-apollo-theater.md)
-_Context: Michael Jackson, New York City, Aretha Franklin, Apollo Theater_
+_Context: Aretha Franklin, New York City, Apollo Theater, Michael Jackson_
 
 ##### Sarah Palin
 ### [ Sarah Palin spoke to thousands of tea party activists gathered in the Nevada desert about Harry Reid. ](/news/2010/04/1/sarah-palin-spoke-to-thousands-of-tea-party-activists-gathered-in-the-nevada-desert-about-harry-reid.md)
-_Context: Tea Party, Sarah Palin, Nevada desert, Harry Reid_
+_Context: Sarah Palin, Harry Reid, Tea Party, Nevada desert_
 
 ## [Previous Day...](/news/2010/03/31/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2010/06/11/index.html)  [JSON](2010/06/11/index.json)  [XML](201
 
 ##### Academy Award
 ### [From Oscar-winning blockbusters to low-budget art-house and documentary films, the 13th Shanghai International Film Festival screens films for everyone. It will feature a retrospective of films by Woody Allen and John Woo, classic movies from Japan, Canada, Germany, Italy and Ireland, as well as new Chinese cinema. ](/news/2010/06/11/from-oscar-winning-blockbusters-to-low-budget-art-house-and-documentary-films-the-13th-shanghai-international-film-festival-screens-films-f.md)
-_Context: Japan, Chinese cinema, Shanghai International Film Festival, 13th, German, Italy, Academy Award, Woody Allen, Canadian, John Woo, Ireland_
+_Context: Chinese cinema, German, 13th, Academy Award, Woody Allen, Canadian, Ireland, Shanghai International Film Festival, Italy, John Woo, Japan_
 
 ##### Osh
 ### [Riots erupt in the southern city of Osh killing at least 45, and injuring over a hundred others. The violence comes just over two months after violent riots in Bishkek toppled Kurmanbek Bakiyev's government, and only days ahead of a critical constitutional referendum. ](/news/2010/06/11/riots-erupt-in-the-southern-city-of-osh-killing-at-least-45-and-injuring-over-a-hundred-others-the-violence-comes-just-over-two-months-aft.md)
@@ -13,11 +13,11 @@ Thousands flee homes in southern region as ethnic unrest leaves more than 600 wo
 
 ##### Univision's
 ### [Univision airs video footage of the U.S. agent who fatally shot a Mexican boy on Monday. ](/news/2010/06/11/univision-airs-video-footage-of-the-u-s-agent-who-fatally-shot-a-mexican-boy-on-monday.md)
-_Context: Univision's, U.S., Mexican_
+_Context: Mexican, Univision's, U.S._
 
 ##### Japan
 ### [Japanese Prime Minister Naoto Kan warns that the nation's economy is on "brink of collapse". ](/news/2010/06/11/japanese-prime-minister-naoto-kan-warns-that-the-nation-s-economy-is-on-brink-of-collapse.md)
-_Context: Naoto Kan, Prime Minister of Japan, Japan_
+_Context: Prime Minister of Japan, Naoto Kan, Japan_
 
 ##### Francois Bazaramba
 ### [Francois Bazaramba is sentenced to life imprisonment for his part in the 1994 Rwandan Genocide in Porvoo, Finland's first genocide trial. ](/news/2010/06/11/franassois-bazaramba-is-sentenced-to-life-imprisonment-for-his-part-in-the-1994-rwandan-genocide-in-porvoo-finland-s-first-genocide-trial.md)
@@ -45,7 +45,7 @@ Pope Benedict made his humblest plea for forgiveness yet for the paedophile prie
 
 ##### Round Valley High School
 ### [A small plane crashes into Round Valley High School in Eagar, Arizona with at least two casualties. ](/news/2010/06/11/a-small-plane-crashes-into-round-valley-high-school-in-eagar-arizona-with-at-least-two-casualties.md)
-_Context: Eagar, Round Valley High School, Arizona_
+_Context: Eagar, Arizona, Round Valley High School_
 
 ##### X-ray
 ### [Researchers use X-ray techniques to discover that Rose of Viterbo died from thrombus in her heart, not tuberculosis as originally thought. ](/news/2010/06/11/researchers-use-x-ray-techniques-to-discover-that-rose-of-viterbo-died-from-thrombus-in-her-heart-not-tuberculosis-as-originally-thought.md)

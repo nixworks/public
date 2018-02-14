@@ -29,7 +29,7 @@ _Context: War in Afghanistan_
 
 ##### India
 ### [India will spend $2.3 trillion by 2030 to attempt to improve energy efficiency and use of clean technology.](/news/2010/10/13/india-will-spend-2-3-trillion-by-2030-to-attempt-to-improve-energy-efficiency-and-use-of-clean-technology.md)
-_Context: energy efficiency, clean technology, India_
+_Context: clean technology, energy efficiency, India_
 
 ##### France
 ### [French unions continue mass strikes for a second day with over one million people protesting on Tuesday against pension reform. ](/news/2010/10/13/french-unions-continue-mass-strikes-for-a-second-day-with-over-one-million-people-protesting-on-tuesday-against-pension-reform.md)

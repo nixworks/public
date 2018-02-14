@@ -9,7 +9,7 @@ _Context: disfranchisement, New Zealand, 2010 general election_
 
 ##### United States Senate
 ### [U.S. Senator Bob Bennett, Republican from Utah, is ousted from his party's primary ballot at the state's Republican convention, meaning he will not have a chance for a fourth term. ](/news/2010/05/8/u-s-senator-bob-bennett-republican-from-utah-is-ousted-from-his-party-s-primary-ballot-at-the-state-s-republican-convention-meaning-he-w.md)
-_Context: primary election, Utah, Bob Bennett, United States Senate, Republican_
+_Context: Bob Bennett, United States Senate, Republican, primary election, Utah_
 
 ##### Khatlon
 ### [Mudslides and floods have killed 16, and more than 40 are missing in some districts of the southern Khatlon region in Tajikistan. ](/news/2010/05/8/mudslides-and-floods-have-killed-16-and-more-than-40-are-missing-in-some-districts-of-the-southern-khatlon-region-in-tajikistan.md)
@@ -21,15 +21,15 @@ Irish airports remained open today, but there is disruption in some parts of sou
 
 ##### Vilnius
 ### [Hundreds of people take part in a two-hour march, "For Equality", in Vilnius at Lithuania's first gay pride, with police shooting tear gas and arresting at least 12 people who threw stones and fireworks at marchers. ](/news/2010/05/8/hundreds-of-people-take-part-in-a-two-hour-march-for-equality-in-vilnius-at-lithuania-s-first-gay-pride-with-police-shooting-tear-gas-a.md)
-_Context: Vilnius, Lithuania, gay pride, tear gas_
+_Context: Vilnius, gay pride, tear gas, Lithuania_
 
 ##### Naxalite
 ### [Naxalite rebels blow up a bullet-proof vehicle of the Central Reserve Police Force in the Bijapur district of Chhattisgarh, India, killing seven officers. ](/news/2010/05/8/naxalite-rebels-blow-up-a-bullet-proof-vehicle-of-the-central-reserve-police-force-in-the-bijapur-district-of-chhattisgarh-india-killing-s.md)
-_Context: Chhattisgarh, India, Bijapur, Indian Reserve policemen, Naxalite_
+_Context: Chhattisgarh, Naxalite, Bijapur, Indian Reserve policemen, India_
 
 ##### United Nations
 ### [United Nations Secretary-General Ban Ki-moon discusses climate change with Bolivian president Evo Morales Ayma. ](/news/2010/05/8/united-nations-secretary-general-ban-ki-moon-discusses-climate-change-with-bolivian-president-evo-morales-ayma.md)
-_Context: Bolivia, President of Bolivia, United Nations Secretary-General, Ban Ki-moon, climate change, United Nations, Evo Morales Ayma_
+_Context: Bolivia, United Nations Secretary-General, climate change, Evo Morales Ayma, President of Bolivia, Ban Ki-moon, United Nations_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI accepts the resignation of Walter Mixa of Augsburg, a bishop who admitted physically abusing children after initially denying accusations. ](/news/2010/05/8/pope-benedict-xvi-accepts-the-resignation-of-walter-mixa-of-augsburg-a-bishop-who-admitted-physically-abusing-children-after-initially-deny.md)
@@ -45,7 +45,7 @@ Italians trapped in unhappy marriages will be heading to the country&#039;s firs
 
 ##### London
 ### [London's Harrod's department store is sold to the Qatari royal family by Mohamed Al-Fayed who retires after 25 years as its chairman. ](/news/2010/05/8/london-s-harrod-s-department-store-is-sold-to-the-qatari-royal-family-by-mohamed-al-fayed-who-retires-after-25-years-as-its-chairman.md)
-_Context: Mohamed Al-Fayed, Harrod's, Qatari royal family, London, Qatar_
+_Context: Mohamed Al-Fayed, London, Qatar, Harrod's, Qatari royal family_
 
 ##### Mixed martial arts
 ### [In mixed martial arts, Mauricio "Shogun" Rua wins the UFC Light Heavyweight Championship from fellow Brazilian Lyoto Machida at UFC 113 in Montreal, Quebec, Canada. ](/news/2010/05/8/in-mixed-martial-arts-mauricio-shogun-rua-wins-the-ufc-light-heavyweight-championship-from-fellow-brazilian-lyoto-machida-at-ufc-113-in-m.md)

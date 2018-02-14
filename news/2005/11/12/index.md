@@ -5,7 +5,7 @@ Formats: [HTML](2005/11/12/index.html)  [JSON](2005/11/12/index.json)  [XML](200
 
 ##### United Nations Secretary-General
 ### [ The UN Secretary-General Kofi Annan, makes a surprise visit to Iraq and expresses support for an Arab League conference discussing cooperation with Iraq's many factions. ](/news/2005/11/12/the-un-secretary-general-kofi-annan-makes-a-surprise-visit-to-iraq-and-expresses-support-for-an-arab-league-conference-discussing-cooperat.md)
-_Context: Kofi Annan, Iraq, Arab League, United Nations Secretary-General_
+_Context: United Nations Secretary-General, Iraq, Kofi Annan, Arab League_
 
 ##### Rabin Square
 ### [ Tens of thousands of people gather at Rabin Square in Tel Aviv in a rally to mark a decade since the assassination of Prime Minister Yitzhak Rabin. ](/news/2005/11/12/tens-of-thousands-of-people-gather-at-rabin-square-in-tel-aviv-in-a-rally-to-mark-a-decade-since-the-assassination-of-prime-minister-yitzha.md)

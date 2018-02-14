@@ -5,7 +5,7 @@ Formats: [HTML](2013/01/12/index.html)  [JSON](2013/01/12/index.json)  [XML](201
 
 ##### France
 ### [A French pilot is killed in a helicopter raid in northern Mali, according to French Minister of Defence Jean-Yves Le Drian. ](/news/2013/01/12/a-french-pilot-is-killed-in-a-helicopter-raid-in-northern-mali-according-to-french-minister-of-defence-jean-yves-le-drian.md)
-_Context: Jean-Yves Le Drian, France, Mali, Minister of Defence_
+_Context: Jean-Yves Le Drian, Mali, France, Minister of Defence_
 
 ##### Rescue attempt
 ### [One French soldier and 17 militants are killed in a failed attempt to free a French hostage in Bulo Marer, Somalia. ](/news/2013/01/12/one-french-soldier-and-17-militants-are-killed-in-a-failed-attempt-to-free-a-french-hostage-in-bulo-marer-somalia.md)
@@ -25,7 +25,7 @@ At least 46 people, including children, are now known to have died in a landslid
 
 ##### Czech Republic
 ### [Voters in Czech Republic go to the polls for a presidential election. Two candidates, Milos Zeman and Karel Schwarzenberg, will face in second round on 25-26 January. ](/news/2013/01/12/voters-in-czech-republic-go-to-the-polls-for-a-presidential-election-two-candidates-miloa-zeman-and-karel-schwarzenberg-will-face-in-sec.md)
-_Context: Czech Republic, Milos Zeman, Karel Schwarzenberg, Czech presidential election_
+_Context: Karel Schwarzenberg, Milos Zeman, Czech Republic, Czech presidential election_
 
 ##### Kuala Lumpur
 ### [Thousands of people gather in Kuala Lumpur, Malaysia, for the People's Uprising Rally, a protest over many government policies and decisions. ](/news/2013/01/12/thousands-of-people-gather-in-kuala-lumpur-malaysia-for-the-people-s-uprising-rally-a-protest-over-many-government-policies-and-decisions.md)

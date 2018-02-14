@@ -13,11 +13,11 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Mexican
 ### [ In Mexico, supreme court rules that former president Luis Echeverria can be charged with human rights violations connected to 1971 deaths of student activists ](/news/2005/06/15/in-mexico-supreme-court-rules-that-former-president-luis-echeverraa-can-be-charged-with-human-rights-violations-connected-to-1971-deaths.md)
-_Context: Mexican, human rights, Luis Echeverria_
+_Context: Luis Echeverria, human rights, Mexican_
 
 ##### Microsoft
 ### [ Microsoft is criticized for censoring Chinese blogs. They are accused of censoring words such as "freedom", "democracy", and "human rights". ](/news/2005/06/15/microsoft-is-criticized-for-censoring-chinese-blogs-they-are-accused-of-censoring-words-such-as-freedom-democracy-and-human-rights.md)
-_Context: China, Microsoft_
+_Context: Microsoft, China_
 
 ##### World
 ### [ World leaders of the Group of 77 and China today launched in Doha the two-day second South Summit amid calls to wealthy countries to honour pledges of additional aid to close the gap between the rich and poor. ](/news/2005/06/15/world-leaders-of-the-group-of-77-and-china-today-launched-in-doha-the-two-day-second-south-summit-amid-calls-to-wealthy-countries-to-honour.md)
@@ -25,7 +25,7 @@ Reuters India offers top Business and market news updates covering Indian Stock 
 
 ##### Prime Minister
 ### [ Qatari Prime Minister Abdallah ibn Khalifah Al Thani and German Chancellor Gerhard Schroder agree to begin a study to look into the feasibility of building a maglev line approximately 160&nbsp;km long linking Qatar and Bahrain, powered by Transrapid technology developed by Siemens AG and ThyssenKrupp. Also being considered is a possible extension to the United Arab Emirates that would make the combined length of the line roughly 800&nbsp;km. ](/news/2005/06/15/qatari-prime-minister-abdallah-ibn-khalifah-al-thani-and-german-chancellor-gerhard-schrapder-agree-to-begin-a-study-to-look-into-the-feasib.md)
-_Context: Chancellor, Abdallah ibn Khalifah Al Thani, United Arab Emirates, Gerhard Schroder, maglev, Transrapid, Bahrain, ThyssenKrupp, Prime Minister, Siemens AG_
+_Context: ThyssenKrupp, Transrapid, Chancellor, maglev, Gerhard Schroder, Prime Minister, Siemens AG, Abdallah ibn Khalifah Al Thani, United Arab Emirates, Bahrain_
 
 ##### Abu Musab al-Zarqawi
 ### [ Spanish police arrest 17 suspected Islamic extremists in a series of raids around the country. Eleven are alleged to be associated with Abu Musab al-Zarqawi, and 5 are alleged to be connected to the Madrid train bombings of 11 March 2004. ](/news/2005/06/15/spanish-police-arrest-17-suspected-islamic-extremists-in-a-series-of-raids-around-the-country-eleven-are-alleged-to-be-associated-with-abu.md)
@@ -33,11 +33,11 @@ News and opinion from The Times &amp; The Sunday Times
 
 ##### Israel
 ### [ The Israeli Shin Bet (SHABAK) states that one month ago it arrested an alleged eight-member Palestinian militant cell in Nablus that included four teenage would-be suicide bombers. It claimed that the cell was part of Fatah (the ruling party of the Palestinian Authority), and that the Lebanese group Hezbollah was behind it. ](/news/2005/06/15/the-israeli-shin-bet-shabak-states-that-one-month-ago-it-arrested-an-alleged-eight-member-palestinian-militant-cell-in-nablus-that-includ.md)
-_Context: Fatah, Nablus, Palestinian Authority, Palestinian, Israel, Shin Bet's, suicide bomber, Hezbollah_
+_Context: Israel, Palestinian Authority, Nablus, Hezbollah, Shin Bet's, suicide bomber, Fatah, Palestinian_
 
 ##### Russia
 ### [ In Russia, explosion and fire in an oil depot near Moscow kills two ](/news/2005/06/15/in-russia-explosion-and-fire-in-an-oil-depot-near-moscow-kills-two.md)
-_Context: Russia, oil depot, Moscow_
+_Context: oil depot, Russia, Moscow_
 
 ##### Archbishop Chaput
 ### [ Catholic Archbishop Chaput warns Europe about growing anti-Semitism and intolerance. ](/news/2005/06/15/catholic-archbishop-chaput-warns-europe-about-growing-anti-semitism-and-intolerance.md)
@@ -45,7 +45,7 @@ _Context: Archbishop Chaput, anti-Semitism_
 
 ##### Douglas Wood
 ### [ Douglas Wood, an Australian hostage residing in California is released in Iraq after 47 days in captivity, and is now being moved to a secret location. ](/news/2005/06/15/douglas-wood-an-australian-hostage-residing-in-california-is-released-in-iraq-after-47-days-in-captivity-and-is-now-being-moved-to-a-secr.md)
-_Context: Iraq, Douglas Wood, California, Australia_
+_Context: Douglas Wood, Australia, California, Iraq_
 
 ## [Previous Day...](/news/2005/06/14/index.md)
 

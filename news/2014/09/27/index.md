@@ -17,7 +17,7 @@ The confirmed death toll from the Ebola outbreak has passed 3,000 as the World H
 
 ##### United Nations
 ### [The United Nations Human Rights Council votes in favor of LGBT rights. ](/news/2014/09/27/the-united-nations-human-rights-council-votes-in-favor-of-lgbt-rights.md)
-_Context: Human Rights Council, United Nations, LGBT rights, favor_
+_Context: United Nations, favor, Human Rights Council, LGBT rights_
 
 ##### Vaughan Foods beheading incident
 ### [Vaughan Foods beheading incident. A recent convert to Islam goes on a rampage in a grocery warehouse in Oklahoma, beheading a woman with a knife and stabbing another female colleague. ](/news/2014/09/27/vaughan-foods-beheading-incident-a-recent-convert-to-islam-goes-on-a-rampage-in-a-grocery-warehouse-in-oklahoma-beheading-a-woman-with-a-k.md)
@@ -25,11 +25,11 @@ _Context: Human Rights Council, United Nations, LGBT rights, favor_
 
 ##### David Cunliffe
 ### [David Cunliffe resigns as leader of the New Zealand Labour Party following a crushing defeat in last week's election, but will nominate himself as leader in the subsequent leadership contest. ](/news/2014/09/27/david-cunliffe-resigns-as-leader-of-the-new-zealand-labour-party-following-a-crushing-defeat-in-last-week-s-election-but-will-nominate-hims.md)
-_Context: David Cunliffe, New Zealand general election, Labour Party_
+_Context: Labour Party, David Cunliffe, New Zealand general election_
 
 ##### Artur Mas i Gavarr
 ### [Artur Mas i Gavarr, the President of the Spanish region of Catalonia, authorises a referendum on independence on November 9 despite the opposition of the Government of Spain. ](/news/2014/09/27/artur-mas-i-gavarro-the-president-of-the-spanish-region-of-catalonia-authorises-a-referendum-on-independence-on-november-9-despite-the-opp.md)
-_Context: Spanish government, President of the Generalitat of Catalonia, Spain, Artur Mas i Gavarr, Catalonia_
+_Context: Spain, Artur Mas i Gavarr, Spanish government, Catalonia, President of the Generalitat of Catalonia_
 
 ##### Hong Kong
 ### [Dozens of people are arrested as Hong Kong pro-democracy rallies continue. ](/news/2014/09/27/dozens-of-people-are-arrested-as-hong-kong-pro-democracy-rallies-continue.md)

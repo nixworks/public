@@ -17,7 +17,7 @@ Get up to the minute breaking political news and in-depth analysis on ABCNews.co
 
 ##### Rolling Stones
 ### [The Rolling Stones postpone their tours of Australia and New Zealand following the death of Mick Jagger's girlfriend L'Wren Scott. ](/news/2014/03/18/the-rolling-stones-postpone-their-tours-of-australia-and-new-zealand-following-the-death-of-mick-jagger-s-girlfriend-l-wren-scott.md)
-_Context: Australia, New Zealand, L'Wren Scott, Rolling Stones, Mick Jagger_
+_Context: Rolling Stones, New Zealand, Australia, L'Wren Scott, Mick Jagger_
 
 ##### KOMO-TV
 ### [At least two people are dead and one is in critical condition after a KOMO-TV news helicopter crashes near the Seattle Space Needle in Seattle, Washington. ](/news/2014/03/18/at-least-two-people-are-dead-and-one-is-in-critical-condition-after-a-komo-tv-news-helicopter-crashes-near-the-seattle-space-needle-in-seatt.md)
@@ -33,7 +33,7 @@ _Context: embassy, U.S., Washington D.C., Syrian_
 
 ##### Continue to occupy
 ### [Protesters storm and occupy the Legislative Yuan in Taiwan due to a unilateral move by the Kuomintang that forces the Cross-Strait Service Trade Agreement to the legislative floor without giving it an item-by-item review. ](/news/2014/03/18/protesters-storm-and-occupy-the-legislative-yuan-in-taiwan-due-to-a-unilateral-move-by-the-kuomintang-that-forces-the-cross-strait-service-t.md)
-_Context: legislative chamber, continue to occupy, Taiwan, trade deal, Kuomintang (Chinese Nationalist Party)_
+_Context: continue to occupy, Kuomintang (Chinese Nationalist Party), legislative chamber, trade deal, Taiwan_
 
 ## [Previous Day...](/news/2014/03/17/index.md)
 

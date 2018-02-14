@@ -17,11 +17,11 @@ At least 160 people are reported to have been killed in floods and landslides fo
 
 ##### Governor
 ### [The Governor of the US state of Missouri, Jay Nixon, dispatches the Missouri National Guard to the St. Louis suburb of Ferguson following a week of often violent protest after the shooting of Michael Brown. ](/news/2014/08/18/the-governor-of-the-us-state-of-missouri-jay-nixon-dispatches-the-missouri-national-guard-to-the-st-louis-suburb-of-ferguson-following-a.md)
-_Context: St. Louis, Ferguson, Missouri, Missouri, Jay Nixon, Governor, Missouri National Guard_
+_Context: Jay Nixon, Missouri, Missouri National Guard, St. Louis, Governor, Ferguson, Missouri_
 
 ##### Wikileaks
 ### [Wikileaks founder Julian Assange, who is wanted for questioning in Sweden, says that he will leave his refuge in the Ecuadorean embassy in London "soon". ](/news/2014/08/18/wikileaks-founder-julian-assange-who-is-wanted-for-questioning-in-sweden-says-that-he-will-leave-his-refuge-in-the-ecuadorean-embassy-in-l.md)
-_Context: Sweden, London, Wikileaks, Ecuador, Julian Assange_
+_Context: Wikileaks, Julian Assange, Ecuador, Sweden, London_
 
 ##### Jackie Chan
 ### [Jackie Chan's son Jaycee and Taiwan star Kai Ko are arrested and detained in Beijing over drug-related charges. ](/news/2014/08/18/jackie-chan-s-son-jaycee-and-taiwan-star-kai-ko-are-arrested-and-detained-in-beijing-over-drug-related-charges.md)

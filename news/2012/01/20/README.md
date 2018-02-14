@@ -9,7 +9,7 @@ _Context: 2011-2012 Syrian uprising_
 
 ##### AMISOM
 ### [AMISOM troops raid Islamist hideouts in the Somali capital Mogadishu. ](/news/2012/01/20/amisom-troops-raid-islamist-hideouts-in-the-somali-capital-mogadishu.md)
-_Context: Somalia, AMISOM, Islamist, Mogadishu_
+_Context: Islamist, AMISOM, Mogadishu, Somalia_
 
 ##### Kano
 ### [Several people are killed in a series of bomb explosions in the city of Kano, Nigeria. ](/news/2012/01/20/several-people-are-killed-in-a-series-of-bomb-explosions-in-the-city-of-kano-nigeria.md)
@@ -29,11 +29,11 @@ An Indonesian man who said that God did not exist in a posting on a Facebook pag
 
 ##### Salman Rushdie
 ### [Writer Salman Rushdie withdraws from the Jaipur Literature Festival in India due to new concerns about his possible assassination. ](/news/2012/01/20/writer-salman-rushdie-withdraws-from-the-jaipur-literature-festival-in-india-due-to-new-concerns-about-his-possible-assassination.md)
-_Context: Jaipur Literature Festival, ''The Satanic Verses'' controversy, Salman Rushdie, India_
+_Context: ''The Satanic Verses'' controversy, India, Salman Rushdie, Jaipur Literature Festival_
 
 ##### Chile
 ### [Chile's Supreme Court convicts two retired generals of illegal weapons sales to Croatia in 1991 in violation of a United Nations arms embargo. ](/news/2012/01/20/chile-s-supreme-court-convicts-two-retired-generals-of-illegal-weapons-sales-to-croatia-in-1991-in-violation-of-a-united-nations-arms-embarg.md)
-_Context: Croatia, Supreme Court, United Nations, Chile_
+_Context: United Nations, Supreme Court, Chile, Croatia_
 
 ##### China
 ### [China warns Iran against developing nuclear weapons. ](/news/2012/01/20/china-warns-iran-against-developing-nuclear-weapons.md)
@@ -45,15 +45,15 @@ _Context: Turkey, assassination of Hrant Dink_
 
 ##### 2011-2012 Yemeni uprising
 ### [2011-2012 Yemeni uprising: The Yemeni government modifies a new bill that would have granted legal immunity to aides of outgoing President Ali Abdullah Saleh. ](/news/2012/01/20/2011a2012-yemeni-uprising-the-yemeni-government-modifies-a-new-bill-that-would-have-granted-legal-immunity-to-aides-of-outgoing-president.md)
-_Context: 2011-2012 Yemeni uprising, President, Ali Abdullah Saleh, Yemen_
+_Context: Ali Abdullah Saleh, Yemen, President, 2011-2012 Yemeni uprising_
 
 ##### Cuba
 ### [Cuban dissident Wilmar Villar dies after going on hunger strike. ](/news/2012/01/20/cuban-dissident-wilmar-villar-dies-after-going-on-hunger-strike.md)
-_Context: Wilmar Villar, Cuba, hunger strike_
+_Context: Wilmar Villar, hunger strike, Cuba_
 
 ##### Madagascar
 ### [Madagascar's former President Marc Ravalomanana says he will return to the country after three years in exile. ](/news/2012/01/20/madagascar-s-former-president-marc-ravalomanana-says-he-will-return-to-the-country-after-three-years-in-exile.md)
-_Context: President, Madagascar, Marc Ravalomanana_
+_Context: President, Marc Ravalomanana, Madagascar_
 
 ##### Major social and political unrest
 ### [Romanian protests: Thousands of people demonstrate demanding the resignation of president Traian Basescu and the Boc II Cabinet. ](/news/2012/01/20/romanian-protests-thousands-of-people-demonstrate-demanding-the-resignation-of-president-traian-basescu-and-the-boc-ii-cabinet.md)

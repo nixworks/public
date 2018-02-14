@@ -13,11 +13,11 @@ With new violence&#160; just days before transfer of sovereignty to a new Iraqi 
 
 ##### Bombs
 ### [ Bombs explode in Ankara and Istanbul, Turkey, killing three and wounding at least 18. ](/news/2004/06/24/bombs-explode-in-ankara-and-istanbul-turkey-killing-three-and-wounding-at-least-18.md)
-_Context: Turkey, Istanbul, Ankara, Bombs_
+_Context: Ankara, Istanbul, Turkey, Bombs_
 
 ##### Browning
 ### [ "The gun that killed nine million people", the Browning with serial no. 19047 which Gavrilo Princip used to assassinate Archduke Franz Ferdinand of Austria, is found in a Jesuit house in Austria and will be put on display in the Vienna museum of military history. ](/news/2004/06/24/the-gun-that-killed-nine-million-people-the-browning-with-serial-no-19047-which-gavrilo-princip-used-to-assassinate-archduke-franz-ferd.md)
-_Context: Jesuit, Gavrilo Princip, Vienna, Austria, Archduke Franz Ferdinand of Austria, Browning_
+_Context: Austria, Browning, Archduke Franz Ferdinand of Austria, Gavrilo Princip, Jesuit, Vienna_
 
 ## [Previous Day...](/news/2004/06/23/index.md)
 

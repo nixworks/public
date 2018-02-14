@@ -5,11 +5,11 @@ Formats: [HTML](2012/03/14/index.html)  [JSON](2012/03/14/index.json)  [XML](201
 
 ##### Syrian Army
 ### [The Syrian Army captures the former rebel held city of Idlib. ](/news/2012/03/14/the-syrian-army-captures-the-former-rebel-held-city-of-idlib.md)
-_Context: Syrian Army, Idlib_
+_Context: Idlib, Syrian Army_
 
 ##### Leon Panetta
 ### [Leon Panetta, the United States Secretary of Defense, arrives in Afghanistan to attempt to placate anger over the Kandahar massacre. ](/news/2012/03/14/leon-panetta-the-united-states-secretary-of-defense-arrives-in-afghanistan-to-attempt-to-placate-anger-over-the-kandahar-massacre.md)
-_Context: Leon Panetta, United States Secretary of Defense, Kandahar massacre_
+_Context: Leon Panetta, Kandahar massacre, United States Secretary of Defense_
 
 ##### Peruvian
 ### [More than 10,000 Peruvian illegal gold miners clash with police in an attempt to gain control over the regional capital Puerto Maldonado. ](/news/2012/03/14/more-than-10-000-peruvian-illegal-gold-miners-clash-with-police-in-an-attempt-to-gain-control-over-the-regional-capital-puerto-maldonado.md)
@@ -17,7 +17,7 @@ _Context: Puerto Maldonado, gold miner, Peruvian_
 
 ##### United Kingdom
 ### [The United Kingdom towns of Chelmsford, Perth and St Asaph are awarded city status to mark the Diamond Jubilee of Elizabeth II. ](/news/2012/03/14/the-united-kingdom-towns-of-chelmsford-perth-and-st-asaph-are-awarded-city-status-to-mark-the-diamond-jubilee-of-elizabeth-ii.md)
-_Context: Chelmsford, United Kingdom, city status, St Asaph, Perth, diamond jubilee_
+_Context: Perth, St Asaph, Chelmsford, diamond jubilee, United Kingdom, city status_
 
 ##### United Kingdom
 ### [Unemployment in the United Kingdom reaches 2.67 million, the most people since 1995. ](/news/2012/03/14/unemployment-in-the-united-kingdom-reaches-2-67-million-the-most-people-since-1995.md)
@@ -33,7 +33,7 @@ _Context: Bangladesh, a ferry_
 
 ##### Earthquake
 ### [A magnitude 6.8 earthquake occurs off the coast of Japan causing a small tsunami that hits the coast of Aomori prefecture on the island of Hokkaido. ](/news/2012/03/14/a-magnitude-6-8-earthquake-occurs-off-the-coast-of-japan-causing-a-small-tsunami-that-hits-the-coast-of-aomori-prefecture-on-the-island-of-h.md)
-_Context: Japan, Aomori prefecture, earthquake, Hokkaido, tsunami_
+_Context: Aomori prefecture, Hokkaido, earthquake, tsunami, Japan_
 
 ##### Belgian
 ### [The Belgian parents of children killed in a bus crash yesterday travel to Switzerland to identify the bodies. ](/news/2012/03/14/the-belgian-parents-of-children-killed-in-a-bus-crash-yesterday-travel-to-switzerland-to-identify-the-bodies.md)
@@ -45,7 +45,7 @@ The authorities in Azerbaijan arrest 22 people on suspicion of spying for Iran, 
 
 ##### U.S. President
 ### [The President of the United States Barack Obama and the Prime Minister of the United Kingdom David Cameron meet at the White House in Washington D.C. to discuss Afghanistan, Syria, the global economy and Iran. ](/news/2012/03/14/the-president-of-the-united-states-barack-obama-and-the-prime-minister-of-the-united-kingdom-david-cameron-meet-at-the-white-house-in-washin.md)
-_Context: White House, Iran, David Cameron, Afghanistan, U.S. President, Washington D.C., Barack Obama, Syria, Prime Minister_
+_Context: U.S. President, White House, Syria, Prime Minister, Afghanistan, David Cameron, Washington D.C., Iran, Barack Obama_
 
 #####  International Criminal Court
 ### [The International Criminal Court in the Hague delivers a verdict of guilty in the case of Thomas Lubanga Dyilo of the Democratic Republic of the Congo on war crimes charges. ](/news/2012/03/14/the-international-criminal-court-in-the-hague-delivers-a-verdict-of-guilty-in-the-case-of-thomas-lubanga-dyilo-of-the-democratic-republic-of.md)
@@ -57,11 +57,11 @@ The BBC says its Persian Service has been targeted by a &quot;sophisticated cybe
 
 ##### Virginia Tech
 ### [An American jury finds Virginia Tech guilty of negligence for delaying a campus warning about the massacre of 33 students in 2007. ](/news/2012/03/14/an-american-jury-finds-virginia-tech-guilty-of-negligence-for-delaying-a-campus-warning-about-the-massacre-of-33-students-in-2007.md)
-_Context: Virginia Tech, massacre_
+_Context: massacre, Virginia Tech_
 
 ##### Iran
 ### [Iran's Islamic Consultative Assembly starts questioning the President Mahmoud Ahmadinejad on his handling of the economy. ](/news/2012/03/14/iran-s-islamic-consultative-assembly-starts-questioning-the-president-mahmoud-ahmadinejad-on-his-handling-of-the-economy.md)
-_Context: Mahmoud Ahmadinejad, President, Islamic Consultative Assembly, Iran_
+_Context: Islamic Consultative Assembly, Mahmoud Ahmadinejad, President, Iran_
 
 ## [Previous Day...](/news/2012/03/13/index.md)
 

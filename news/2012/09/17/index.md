@@ -5,7 +5,7 @@ Formats: [HTML](2012/09/17/index.html)  [JSON](2012/09/17/index.json)  [XML](201
 
 ##### Syrian Civil War
 ### [Syrian Civil War: Human rights investigators from the United Nations expand a secret list of people in Syria suspected of committing war crimes. Diplomat Paulo Srgio Pinheiro urges the U.N. Security Council to bring the situation to the International Criminal Court. ](/news/2012/09/17/syrian-civil-war-human-rights-investigators-from-the-united-nations-expand-a-secret-list-of-people-in-syria-suspected-of-committing-war-cri.md)
-_Context: Paulo Srgio Pinheiro, committing war crimes, United Nations Security Council, Syrian Civil War, United Nations, Syria, suspected, ICC_
+_Context: committing war crimes, Syria, United Nations Security Council, suspected, ICC, Paulo Srgio Pinheiro, Syrian Civil War, United Nations_
 
 ##### U.S.
 ### [The United States ambassador to the United Nations says there was no plot in the U.S. Consulate attack in Benghazi. ](/news/2012/09/17/the-united-states-ambassador-to-the-united-nations-says-there-was-no-plot-in-the-u-s-consulate-attack-in-benghazi.md)
@@ -13,7 +13,7 @@ The protest in Libya that killed U.S. Ambassador Chris Stevens and three other A
 
 ##### Uganda
 ### [Ugandan police release theatre producer David Cecil on bail after charging him in connection with the staging of "The River and the Mountain", a play which references homosexuality. His court date is 18 October, with a two year jail sentence possible. ](/news/2012/09/17/ugandan-police-release-theatre-producer-david-cecil-on-bail-after-charging-him-in-connection-with-the-staging-of-the-river-and-the-mountain.md)
-_Context: homosexuality, Uganda, David Cecil_
+_Context: homosexuality, David Cecil, Uganda_
 
 ##### Salman Rushdie
 ### [Writer Sir Salman Rushdie expresses doubt that his 1988 novel "The Satanic Verses" would be published today because of a climate of "fear and nervousness". ](/news/2012/09/17/writer-sir-salman-rushdie-expresses-doubt-that-his-1988-novel-the-satanic-verses-would-be-published-today-because-of-a-climate-of-fear-an.md)
@@ -25,11 +25,11 @@ More than 100 arrests were reported today, the first anniversary of the Occupy W
 
 ##### Rip Curl
 ### [Rip Curl, the last major Australian surf wear producer with its "own" capital, considers an offer for sale to private buyers. ](/news/2012/09/17/rip-curl-the-last-major-australian-surf-wear-producer-with-its-own-capital-considers-an-offer-for-sale-to-private-buyers.md)
-_Context: surf wear, Rip Curl, Australia_
+_Context: Rip Curl, surf wear, Australia_
 
 ##### Japanese
 ### [Japanese electronics company Panasonic suspends operations at its three factories in the People's Republic of China until Tuesday as a result of the Senkaku Islands dispute. ](/news/2012/09/17/japanese-electronics-company-panasonic-suspends-operations-at-its-three-factories-in-the-people-s-republic-of-china-until-tuesday-as-a-resul.md)
-_Context: Panasonic, Senkaku Islands dispute, China, Japanese_
+_Context: China, Japanese, Senkaku Islands dispute, Panasonic_
 
 ##### U.S.
 ### [The United States and the People's Republic of China exchange WTO trade complaints: the US complaining of China's support for automotive exports, and China complaining of new U.S. duties on several of their products. ](/news/2012/09/17/the-united-states-and-the-people-s-republic-of-china-exchange-wto-trade-complaints-the-us-complaining-of-china-s-support-for-automotive-exp.md)
@@ -37,7 +37,7 @@ President Barack Obama on Monday said the United States was challenging Chinese 
 
 ##### ArcelorMittal
 ### [ArcelorMittal announces the likely loss of two thousand cold process jobs in Lige, Belgium, after the failure of talks with unions. Unions say the steel maker wants to force an agreement before even starting talks. Wallonia wants to see the long-term plan. ](/news/2012/09/17/arcelormittal-announces-the-likely-loss-of-two-thousand-cold-process-jobs-in-liege-belgium-after-the-failure-of-talks-with-unions-unions.md)
-_Context: cold process, Lige, unionize, ArcelorMittal, steel maker, Wallonia, force an agreement before even starting talks, Belgium_
+_Context: ArcelorMittal, force an agreement before even starting talks, steel maker, cold process, unionize, Belgium, Wallonia, Lige_
 
 ##### Typhoon Sanba
 ### [Typhoon Sanba makes landfall in South Korea near the port of Yeosu causing the cancellation of flights and other transport services; one person is reported dead. ](/news/2012/09/17/typhoon-sanba-makes-landfall-in-south-korea-near-the-port-of-yeosu-causing-the-cancellation-of-flights-and-other-transport-services-one-per.md)
@@ -53,11 +53,11 @@ A ripped condom given to Swedish police by one of Julian Assange’s accusers do
 
 ##### U.S.
 ### [United States and Japanese government officials agree to put a second missile defence system in Japan. ](/news/2012/09/17/united-states-and-japanese-government-officials-agree-to-put-a-second-missile-defence-system-in-japan.md)
-_Context: U.S., Japan_
+_Context: Japan, U.S._
 
 ##### Nobel Laureate
 ### [Nobel Laureate Aung San Suu Kyi begins a 17-day tour of the United States in a bid to help ease economic sanctions on Myanmar. ](/news/2012/09/17/nobel-laureate-aung-san-suu-kyi-begins-a-17-day-tour-of-the-united-states-in-a-bid-to-help-ease-economic-sanctions-on-myanmar.md)
-_Context: Aung San Suu Kyi, Nobel Laureate, U.S., Myanmar_
+_Context: Nobel Laureate, Aung San Suu Kyi, Myanmar, U.S._
 
 ##### Police
 ### [French police announce that they are exploring the possibility that Sylvain Mollier, and not the al-Hilli family, may have been the intended target in the Annecy murders. ](/news/2012/09/17/french-police-announce-that-they-are-exploring-the-possibility-that-sylvain-mollier-and-not-the-al-hilli-family-may-have-been-the-intended.md)
@@ -65,11 +65,11 @@ A French cyclist who was shot dead alongside a British family in a massacre in t
 
 ##### Death of Ian Tomlinson
 ### [PC Simon Harwood, cleared over the death of Ian Tomlinson during the 2009 G-20 summit protests in London, is dismissed from the Metropolitan Police after a hearing finds him guilty of gross misconduct. ](/news/2012/09/17/pc-simon-harwood-cleared-over-the-death-of-ian-tomlinson-during-the-2009-g-20-summit-protests-in-london-is-dismissed-from-the-metropolitan.md)
-_Context: death of Ian Tomlinson, Metropolitan Police Service, 2009 G-20 summit protests in London_
+_Context: 2009 G-20 summit protests in London, death of Ian Tomlinson, Metropolitan Police Service_
 
 ##### Louisiana State University
 ### [The Louisiana State University (LSU) main campus at Baton Rouge, Louisiana, is evacuated after a bomb threat. It is not clear at this time whether it is related to the two previous similar incidents the previous Friday at the University of Texas at Austin (UT) in Austin, Texas, and North Dakota State University (NDSU) in Fargo, North Dakota. ](/news/2012/09/17/the-louisiana-state-university-lsu-main-campus-at-baton-rouge-louisiana-is-evacuated-after-a-bomb-threat-it-is-not-clear-at-this-time-w.md)
-_Context: Louisiana State University, Fargo, North Dakota, Baton Rouge, Louisiana, University of Texas at Austin, North Dakota State University, bomb threat, Austin, Texas_
+_Context: bomb threat, Louisiana State University, Fargo, North Dakota, Austin, Texas, University of Texas at Austin, North Dakota State University, Baton Rouge, Louisiana_
 
 ##### Antonin Scalia
 ### [Justice Antonin Scalia charges that Judge Richard Posner's characterization of the guns rights decision, DC v. Heller, is "bluntly, a lie." ](/news/2012/09/17/justice-antonin-scalia-charges-that-judge-richard-posner-s-characterization-of-the-guns-rights-decision-dc-v-heller-is-bluntly-a-lie.md)
@@ -81,7 +81,7 @@ Lawyers for the Duke and Duchess of Cambridge begin civil proceedings in a Frenc
 
 ##### Michael O'Kane
 ### [Michael O'Kane, editor of the "Irish Daily Star", is suspended following his decision to publish topless photographs of Kate Middleton as attempts to shut down the newspaper continue. ](/news/2012/09/17/michael-o-kane-editor-of-the-irish-daily-star-is-suspended-following-his-decision-to-publish-topless-photographs-of-kate-middleton-as-at.md)
-_Context: Irish Daily Star, Kate Middleton, Michael O'Kane_
+_Context: Michael O'Kane, Irish Daily Star, Kate Middleton_
 
 ##### Alan Shatter
 ### [Ireland's justice minister Alan Shatter is involved in an eviction row with a tenant of one of his Florida properties, part of his vast U.S. property portfolio. ](/news/2012/09/17/ireland-s-justice-minister-alan-shatter-is-involved-in-an-eviction-row-with-a-tenant-of-one-of-his-florida-properties-part-of-his-vast-u-s.md)
@@ -89,7 +89,7 @@ _Context: Alan Shatter, the state_
 
 ##### China
 ### [Protests continue at a Chinese co-owned copper mine in the Sagaing Region of Burma over alleged land grabbing and environmental concerns. ](/news/2012/09/17/protests-continue-at-a-chinese-co-owned-copper-mine-in-the-sagaing-region-of-burma-over-alleged-land-grabbing-and-environmental-concerns.md)
-_Context: China, copper, Burma, Sagaing Region_
+_Context: copper, China, Burma, Sagaing Region_
 
 ##### 10 Downing Street
 ### [The UK Government announces a shake-up of secondary education qualifications, which will see GCSEs in core subjects in England replaced by a qualification called the English Baccalaureate. ](/news/2012/09/17/the-uk-government-announces-a-shake-up-of-secondary-education-qualifications-which-will-see-gcses-in-core-subjects-in-england-replaced-by-a.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2008/08/28/index.html)  [JSON](2008/08/28/index.json)  [XML](200
 
 ##### Democratic National Convention
 ### [ Illinois Senator Barack Obama accepts the nomination of the Democratic Party at the INVESCO Field at Mile High in Denver, Colorado, becoming the first African American to be nominated by a major party for election as President of the United States. ](/news/2008/08/28/illinois-senator-barack-obama-accepts-the-nomination-of-the-democratic-party-at-the-invesco-field-at-mile-high-in-denver-colorado-becomin.md)
-_Context: Denver, Colorado, Democrat, INVESCO Field at Mile High, U.S. President, Barack Obama, Democratic National Convention, Senator, black, Illinois_
+_Context: Democratic National Convention, Senator, Barack Obama, Democrat, black, Denver, Colorado, U.S. President, Illinois, INVESCO Field at Mile High_
 
 ##### Mexican
 ### [ Mexico's Supreme Court resolves by an 8-3 vote to uphold the constitutionality of the Federal District's 2007 Abortion Law. ](/news/2008/08/28/mexico-s-supreme-court-resolves-by-an-8a3-vote-to-uphold-the-constitutionality-of-the-federal-district-s-2007-abortion-law.md)
@@ -21,7 +21,7 @@ The Russian Prime Minister Vladimir Putin has said he suspects unnamed persons i
 
 ##### 2008 Atlantic hurricane season
 ### [ Tropical Storm Gustav makes landfall on the island of Jamaica. The storm is responsible for at least 51 deaths in Haiti and 8 more in the Dominican Republic. ](/news/2008/08/28/tropical-storm-gustav-makes-landfall-on-the-island-of-jamaica-the-storm-is-responsible-for-at-least-51-deaths-in-haiti-and-8-more-in-the-d.md)
-_Context: Hurricane Gustav, 2008 Atlantic hurricane season, Jamaica, Dominican Republic, Haiti_
+_Context: Dominican Republic, 2008 Atlantic hurricane season, Haiti, Jamaica, Hurricane Gustav_
 
 ## [Previous Day...](/news/2008/08/27/index.md)
 

@@ -9,11 +9,11 @@ _Context: Gloria Arroyo, Philippines, torture, President_
 
 ##### Turkey
 ### [ The Turkish government unveils a plan to improve rights of the Kurdish minority to end the decades long ethnic conflict in the southeast of the country. ](/news/2009/11/13/the-turkish-government-unveils-a-plan-to-improve-rights-of-the-kurdish-minority-to-end-the-decades-long-ethnic-conflict-in-the-southeast-of.md)
-_Context: disarm, Turkey, Kurd_
+_Context: Kurd, Turkey, disarm_
 
 ##### Cambodia
 ### [ Cambodia detains a Thai man on charges of spying for Thailand. ](/news/2009/11/13/cambodia-detains-a-thai-man-on-charges-of-spying-for-thailand.md)
-_Context: Cambodia, Thailand_
+_Context: Thailand, Cambodia_
 
 ##### Microsoft
 ### [ Microsoft admits that the Windows 7 USB-DVD download tool contains code that is covered by the GNU General Public License and offers to make it available under the terms of that license. ](/news/2009/11/13/microsoft-admits-that-the-windows-7-usb-dvd-download-tool-contains-code-that-is-covered-by-the-gnu-general-public-license-and-offers-to-mak.md)
@@ -21,7 +21,7 @@ Microsoft has acknowledged that it incorporated open-source code into a Windows 
 
 ##### U.S.
 ### [ American politician William J. Jefferson, former Democratic Party Congressman from the U.S. state of Louisiana, is sentenced to 13 years in prison for corruption. ](/news/2009/11/13/american-politician-william-j-jefferson-former-democratic-party-congressman-from-the-u-s-state-of-louisiana-is-sentenced-to-13-years-in.md)
-_Context: William J. Jefferson, U.S. state, Democrat, U.S., lawmakers, Louisiana_
+_Context: lawmakers, Louisiana, U.S. state, U.S., Democrat, William J. Jefferson_
 
 ##### NASA
 ### [ NASA claims to have discovered water after the LCROSS satellite crashes near the South Pole of the Moon. ](/news/2009/11/13/nasa-claims-to-have-discovered-water-after-the-lcross-satellite-crashes-near-the-south-pole-of-the-moon.md)
@@ -41,7 +41,7 @@ Thirty-five people missing after series of blasts at depot outside city of Ulyan
 
 ##### China
 ### [ Chinese nationals in Angola say they are increasingly being targeted in "mafia-style" attacks by Angolan gangs. ](/news/2009/11/13/chinese-nationals-in-angola-say-they-are-increasingly-being-targeted-in-mafia-style-attacks-by-angolan-gangs.md)
-_Context: China, Angola_
+_Context: Angola, China_
 
 ##### Algeria
 ### [ Four members of Algeria's national football team are injured when their bus comes under attack by stone throwers in Cairo, Egypt. ](/news/2009/11/13/four-members-of-algeria-s-national-football-team-are-injured-when-their-bus-comes-under-attack-by-stone-throwers-in-cairo-egypt.md)
@@ -53,7 +53,7 @@ _Context: China, snow_
 
 ##### Czech Republic
 ### [ Czech Prime minister Jan Fischer deposits the Treaty of Lisbon ratification instrument at the Italian foreign ministry in Rome. ](/news/2009/11/13/czech-prime-minister-jan-fischer-deposits-the-treaty-of-lisbon-ratification-instrument-at-the-italian-foreign-ministry-in-rome.md)
-_Context: Treaty of Lisbon, Italy, deposits, Rome, Italy, Jan Fischer, Czech Republic_
+_Context: Rome, Italy, Treaty of Lisbon, Italy, deposits, Czech Republic, Jan Fischer_
 
 ##### Maoist supporters
 ### [ Tens of thousands of Maoist supporters in Nepal block the headquarters for the Nepali government for a second day. ](/news/2009/11/13/tens-of-thousands-of-maoist-supporters-in-nepal-block-the-headquarters-for-the-nepali-government-for-a-second-day.md)
@@ -61,7 +61,7 @@ Maoist demonstrators blockade government offices in Kathmandu for second day.
 
 ##### Gareth Jones
 ### [ The diaries of Gareth Jones, a British reporter who exposed the 1933 famine in Ukraine, are put on public display for the first time. ](/news/2009/11/13/the-diaries-of-gareth-jones-a-british-reporter-who-exposed-the-1933-famine-in-ukraine-are-put-on-public-display-for-the-first-time.md)
-_Context: Gareth Jones, famine in Ukraine in 1932-1933_
+_Context: famine in Ukraine in 1932-1933, Gareth Jones_
 
 ##### Peshawar
 ### [ A bomb hits the Peshawar office of Pakistan's Inter-Services Intelligence agency with at least seven people dead and 35 injured. ](/news/2009/11/13/a-bomb-hits-the-peshawar-office-of-pakistan-s-inter-services-intelligence-agency-with-at-least-seven-people-dead-and-35-injured.md)
@@ -73,7 +73,7 @@ Taoiseach Brian Cowen is to attend the 13th British-Irish Council Summit today i
 
 ##### Japan Coast Guard
 ### [ The Japan Coast Guard evacuates 28 passengers and crew from the "Ariake" commercial ferry after it rolls over onto its side in rough seas off Mie Prefecture in the Pacific Ocean. ](/news/2009/11/13/the-japan-coast-guard-evacuates-28-passengers-and-crew-from-the-ariake-commercial-ferry-after-it-rolls-over-onto-its-side-in-rough-seas-o.md)
-_Context: Ariake, Mie Prefecture, Japan Coast Guard, South Pacific Ocean_
+_Context: Mie Prefecture, South Pacific Ocean, Ariake, Japan Coast Guard_
 
 ##### Kosovo
 ### [ Kosovo prepares for historic elections after a flare-up earlier this week targeted Prime Minister Hashim Thaci in the western town of Decan. ](/news/2009/11/13/kosovo-prepares-for-historic-elections-after-a-flare-up-earlier-this-week-targeted-prime-minister-hashim-thaci-in-the-western-town-of-deassa.md)

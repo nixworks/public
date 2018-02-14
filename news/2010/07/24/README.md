@@ -29,7 +29,7 @@ Protesters around the world rally in support of jailed woman facing execution fo
 
 ##### Academy Award
 ### [Thousands of people across the globe film their daily lives for Oscar-winning director Kevin Macdonald and producer Ridley Scott's YouTube-based documentary "Life in a Day". ](/news/2010/07/24/thousands-of-people-across-the-globe-film-their-daily-lives-for-oscar-winning-director-kevin-macdonald-and-producer-ridley-scott-s-youtube-b.md)
-_Context: Kevin Macdonald, Life in a Day, Academy Award, Ridley Scott_
+_Context: Kevin Macdonald, Academy Award, Ridley Scott, Life in a Day_
 
 ##### Peru
 ### [More than half of Peru enters a state of emergency due to unusually cold weather. ](/news/2010/07/24/more-than-half-of-peru-enters-a-state-of-emergency-due-to-unusually-cold-weather.md)
@@ -57,7 +57,7 @@ _Context: U.S. military, child pornography_
 
 ##### United States House of Representatives
 ### [In the United States House of Representatives, Republicans introduce Resolution 1553, which expresses United States support for Israeli use of any necessary military force to eliminate any threat it believes Iran poses. ](/news/2010/07/24/in-the-united-states-house-of-representatives-republicans-introduce-resolution-1553-which-expresses-united-states-support-for-israeli-use.md)
-_Context: U.S., United States House of Representatives, Iran, Israel_
+_Context: Israel, Iran, United States House of Representatives, U.S._
 
 ##### Prime Minister of Russia
 ### [Prime Minister of Russia Vladimir Putin meets the Russian intelligence agents who were swapped with the United States. ](/news/2010/07/24/prime-minister-of-russia-vladimir-putin-meets-the-russian-intelligence-agents-who-were-swapped-with-the-united-states.md)

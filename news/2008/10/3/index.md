@@ -13,7 +13,7 @@ President Bush signed a $700 billion financial bailout package Friday, shortly a
 
 ##### 2008 Chinese milk scandal
 ### [ In response to the 2008 Chinese milk scandal, Australia begins withdrawing Chinese-made Kirin milk tea from shops after discovering it contained melamine in tests. ](/news/2008/10/3/in-response-to-the-2008-chinese-milk-scandal-australia-begins-withdrawing-chinese-made-kirin-milk-tea-from-shops-after-discovering-it-cont.md)
-_Context: Australia, 2008 Chinese milk scandal_
+_Context: 2008 Chinese milk scandal, Australia_
 
 ##### Greece
 ### [ Greece announces it will follow Ireland's lead and guarantee all bank deposits in the country. ](/news/2008/10/3/greece-announces-it-will-follow-ireland-s-lead-and-guarantee-all-bank-deposits-in-the-country.md)
@@ -25,7 +25,7 @@ _Context: RTS, MICEX, Russia_
 
 ##### U.S.
 ### [ Investigators in the United States announce that they have found human remains in what is believed to be the wreckage of Steve Fossett's plane, which went missing over California a year ago. ](/news/2008/10/3/investigators-in-the-united-states-announce-that-they-have-found-human-remains-in-what-is-believed-to-be-the-wreckage-of-steve-fossett-s-pl.md)
-_Context: Steve Fossett, U.S., went missing, California_
+_Context: U.S., California, Steve Fossett, went missing_
 
 ##### U.S.
 ### [ United States government announces sale of billions of dollars of arms to Taiwan to keep a balance with China's massive arms buildup aimed at Taiwan. ](/news/2008/10/3/united-states-government-announces-sale-of-billions-of-dollars-of-arms-to-taiwan-to-keep-a-balance-with-china-s-massive-arms-buildup-aimed.md)
@@ -33,11 +33,11 @@ The U.S. government has announced plans to sell billions of dollars worth of wea
 
 ##### Russia
 ### [ Russia's foreign minister calls for international action to halt piracy in Somalia. ](/news/2008/10/3/russia-s-foreign-minister-calls-for-international-action-to-halt-piracy-in-somalia.md)
-_Context: Russia, pirates_
+_Context: pirates, Russia_
 
 ##### Viking
 ### [ The remains of a Viking-era stave church, including the skeletal remains of a woman, is uncovered near the cemetery of the Lnns church in Odensbacken outside rebro in central Sweden. ](/news/2008/10/3/the-remains-of-a-viking-era-stave-church-including-the-skeletal-remains-of-a-woman-is-uncovered-near-the-cemetery-of-the-lannas-church-in.md)
-_Context: Sweden, rebro, stave church, Odensbacken, cemetery, Viking, woman_
+_Context: cemetery, Viking, rebro, Odensbacken, Sweden, stave church, woman_
 
 ##### Jury
 ### [ A jury convicts retired American football player O.J. Simpson of armed robbery and kidnapping, 13 years to the day after he was acquitted of killing his ex-wife and her friend in Los Angeles. ](/news/2008/10/3/a-jury-convicts-retired-american-football-player-o-j-simpson-of-armed-robbery-and-kidnapping-13-years-to-the-day-after-he-was-acquitted-o.md)

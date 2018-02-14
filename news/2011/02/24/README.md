@@ -13,7 +13,7 @@ Libyan leader Moammar Gadhafi,speaking on Libyan state TV, says the protesters h
 
 ##### President
 ### [The President of Yemen Ali Abdullah Saleh orders security forces to protect protestors. ](/news/2011/02/24/the-president-of-yemen-ali-abdullah-saleh-orders-security-forces-to-protect-protestors.md)
-_Context: President, Ali Abdullah Saleh, 2011 Yemeni protests_
+_Context: 2011 Yemeni protests, Ali Abdullah Saleh, President_
 
 ##### 
 ### [Opposition groups outline their demands as protests continue in the country. ](/news/2011/02/24/opposition-groups-outline-their-demands-as-protests-continue-in-the-country.md)
@@ -25,11 +25,11 @@ Katyushas cause extensive damage, are first Grad launch since Cast Lead; IAF str
 
 ##### Rolling Stone
 ### ["Rolling Stone" magazine alleges that United States Army Lieutenant General William B. Caldwell ordered a campaign of "psychological operations" to persuade influential people to continue support for the War in Afghanistan. ](/news/2011/02/24/rolling-stone-magazine-alleges-that-united-states-army-lieutenant-general-william-b-caldwell-ordered-a-campaign-of-psychological-operati.md)
-_Context: psychological operations, Rolling Stone, War in Afghanistan (2001-present), Lieutenant General, William B. Caldwell_
+_Context: Rolling Stone, psychological operations, War in Afghanistan (2001-present), Lieutenant General, William B. Caldwell_
 
 ##### Superior Court
 ### [The Superior Court in Riverside County, California, orders an urgent medical evaluation of US blues singer Etta James after concerns are raised about her health. ](/news/2011/02/24/the-superior-court-in-riverside-county-california-orders-an-urgent-medical-evaluation-of-us-blues-singer-etta-james-after-concerns-are-rai.md)
-_Context: Superior Court, Etta James, blues, Riverside County, California_
+_Context: Superior Court, blues, Riverside County, California, Etta James_
 
 ##### CBS
 ### [CBS and Warner Bros. Television shut down "Two and a Half Men" for the remainder of the current season due to concerns about Charlie Sheen's health and behaviour. ](/news/2011/02/24/cbs-and-warner-bros-television-shut-down-two-and-a-half-men-for-the-remainder-of-the-current-season-due-to-concerns-about-charlie-sheen-s.md)
@@ -37,7 +37,7 @@ CBS has pulled the plug on “Two and a Half Men”… for now.
 
 ##### Toyota
 ### [Toyota recalls more than two million vehicles in the United States to address problems with accelerator pedals being trapped in floormats. ](/news/2011/02/24/toyota-recalls-more-than-two-million-vehicles-in-the-united-states-to-address-problems-with-accelerator-pedals-being-trapped-in-floormats.md)
-_Context: accelerator, Toyota_
+_Context: Toyota, accelerator_
 
 ##### Allison Transmission
 ### [Allison Transmission, a maker of transmissions for trucks and buses, is planning an initial public offering expected to raise between US$500 million and $1 billion, according to Reuters, which cites "four sources familiar with the situation." ](/news/2011/02/24/allison-transmission-a-maker-of-transmissions-for-trucks-and-buses-is-planning-an-initial-public-offering-expected-to-raise-between-us-500.md)
@@ -53,11 +53,11 @@ The death toll from the Christchurch earthquake is now 98 with police holding gr
 
 ##### Republic of Korea Coast Guard
 ### [The wreckage of a Republic of Korea Coast Guard AgustaWestland AW139 helicopter is located near the resort island of Jeju-do off the South Korean coast with one officer confirmed dead and several others missing. ](/news/2011/02/24/the-wreckage-of-a-republic-of-korea-coast-guard-agustawestland-aw139-helicopter-is-located-near-the-resort-island-of-jeju-do-off-the-south-k.md)
-_Context: Republic of Korea Coast Guard, Jeju-do, AgustaWestland AW139_
+_Context: Jeju-do, AgustaWestland AW139, Republic of Korea Coast Guard_
 
 ##### Aboul Gheit
 ### [Egyptian Foreign Minister Aboul Gheit announces that former Vice President Omar Suleiman was the target of an assassination attempt during the recent uprising. ](/news/2011/02/24/egyptian-foreign-minister-aboul-gheit-announces-that-former-vice-president-omar-suleiman-was-the-target-of-an-assassination-attempt-during-t.md)
-_Context: Aboul Gheit, 2011 Egyptian revolution, Omar Suleiman_
+_Context: Omar Suleiman, Aboul Gheit, 2011 Egyptian revolution_
 
 ##### Myanmar Times
 ### [The editor of the "Myanmar Times" newspaper in Burma is charged with assault. ](/news/2011/02/24/the-editor-of-the-myanmar-times-newspaper-in-burma-is-charged-with-assault.md)
@@ -69,7 +69,7 @@ The authorities in Shanghai, China, announce they will introduce a one-dog polic
 
 ##### Saudi Arabia
 ### [A Saudi Arabian student is arrested in Texas for allegedly planning a terrorist attack against the Dallas home of former President of the United States George W. Bush as a target as well as New York City and dams in California and Colorado. ](/news/2011/02/24/a-saudi-arabian-student-is-arrested-in-texas-for-allegedly-planning-a-terrorist-attack-against-the-dallas-home-of-former-president-of-the-un.md)
-_Context: California, Dallas, George W. Bush, Saudi Arabia, Texas, U.S. President, Colorado_
+_Context: California, Dallas, U.S. President, Colorado, Saudi Arabia, George W. Bush, Texas_
 
 ##### Julian Assange
 ### [A British judge orders Julian Assange to be extradited to Sweden but the WikiLeaks founder says that he will appeal. ](/news/2011/02/24/a-british-judge-orders-julian-assange-to-be-extradited-to-sweden-but-the-wikileaks-founder-says-that-he-will-appeal.md)
@@ -85,7 +85,7 @@ Law enforcement officials across the country are conducting a nationwide sweep o
 
 ##### Uganda
 ### [Uganda's opposition leader Kizza Besigye calls for protests against the disputed presidential election which saw incumbent President Yoweri Museveni win a fourth term in office. ](/news/2011/02/24/uganda-s-opposition-leader-kizza-besigye-calls-for-protests-against-the-disputed-presidential-election-which-saw-incumbent-president-yoweri.md)
-_Context: Kizza Besigye, Yoweri Museveni, elections, Uganda_
+_Context: Uganda, elections, Kizza Besigye, Yoweri Museveni_
 
 ##### Shimon Peres
 ### [Shimon Peres, the President of Israel, is on a four day state visit to Spain as King Juan Carlos expressed his support for the Middle East peace process. ](/news/2011/02/24/shimon-peres-the-president-of-israel-is-on-a-four-day-state-visit-to-spain-as-king-juan-carlos-expressed-his-support-for-the-middle-east-p.md)
@@ -97,11 +97,11 @@ A carbon price scheme will be rolled out from July 2012 with a fixed price for t
 
 ##### School Board
 ### [The School Board in the US city of Providence, Rhode Island, votes to send dismissal notices to all of the 1,926 teachers in the Providence Public School District. ](/news/2011/02/24/the-school-board-in-the-us-city-of-providence-rhode-island-votes-to-send-dismissal-notices-to-all-of-the-1-926-teachers-in-the-providence.md)
-_Context: School Board, Providence Public School District, Providence, Rhode Island_
+_Context: Providence, Rhode Island, Providence Public School District, School Board_
 
 ##### Discovery
 ### [The United States Space Shuttle Discovery takes off for its final mission. ](/news/2011/02/24/the-united-states-space-shuttle-discovery-takes-off-for-its-final-mission.md)
-_Context: Discovery, final mission_
+_Context: final mission, Discovery_
 
 ## [Previous Day...](/news/2011/02/23/index.md)
 

@@ -9,11 +9,11 @@ Suspected Islamist militants killed two civilians and a customs officer and burn
 
 ##### Terrorism in Saudi Arabia
 ### [A man shoots six people dead at an education centre in Jizan Province, Saudi Arabia. ](/news/2016/02/11/a-man-shoots-six-people-dead-at-an-education-centre-in-jizan-province-saudi-arabia.md)
-_Context: Saudi Arabia, Jizan Province, Terrorism in Saudi Arabia, shoots six people dead_
+_Context: shoots six people dead, Saudi Arabia, Jizan Province, Terrorism in Saudi Arabia_
 
 ##### War in Afghanistan (2015-present)
 ### [Four policemen are killed and another seven wounded when one of their colleagues opened fire on them in Kandahar, Afghanistan. ](/news/2016/02/11/four-policemen-are-killed-and-another-seven-wounded-when-one-of-their-colleagues-opened-fire-on-them-in-kandahar-afghanistan.md)
-_Context: War in Afghanistan (2015-present), Afghanistan, Afghan police, Kandahar_
+_Context: Kandahar, Afghanistan, Afghan police, War in Afghanistan (2015-present)_
 
 ##### Uber
 ### [Uber, in San Francisco, California (U.S.), federal court, says it will pay $28.5 million to settle two lawsuits over misleading background check information. Prosecutors settled a similar lawsuit with competitor Lyft in 2014. ](/news/2016/02/11/uber-in-san-francisco-california-u-s-federal-court-says-it-will-pay-28-5-million-to-settle-two-lawsuits-over-misleading-background-c.md)
@@ -29,7 +29,7 @@ The natural gas leak that flowed for three months and sickened hundreds near Los
 
 ##### Hellenic Navy
 ### [A Hellenic Navy helicopter crashes while taking part in a military exercise in the Aegean Sea, near the Greek island of Kinaros, three Greek naval airmen are feared dead. ](/news/2016/02/11/a-hellenic-navy-helicopter-crashes-while-taking-part-in-a-military-exercise-in-the-aegean-sea-near-the-greek-island-of-kinaros-three-greek.md)
-_Context: Greece, Kinaros, Aegean Sea, Hellenic Navy_
+_Context: Hellenic Navy, Kinaros, Aegean Sea, Greece_
 
 ##### Yellow fever
 ### [A yellow fever outbreak has killed 37 people in Angola since December 2015. ](/news/2016/02/11/a-yellow-fever-outbreak-has-killed-37-people-in-angola-since-december-2015.md)
@@ -37,7 +37,7 @@ _Context: yellow fever, Angola_
 
 ##### North Korea-South Korea relations
 ### [South Korea starts withdrawing its nationals from the Kaesong Industrial Region in protest to recent actions by North Korea. ](/news/2016/02/11/south-korea-starts-withdrawing-its-nationals-from-the-kaesong-industrial-region-in-protest-to-recent-actions-by-north-korea.md)
-_Context: North Korea, South Korea, Kaesong area, North Korea-South Korea relations_
+_Context: North Korea, South Korea, North Korea-South Korea relations, Kaesong area_
 
 ##### Occupation of the Malheur National Wildlife Refuge
 ### [All four remaining occupiers leave the refuge and surrender. ](/news/2016/02/11/all-four-remaining-occupiers-leave-the-refuge-and-surrender.md)

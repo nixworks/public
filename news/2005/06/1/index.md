@@ -9,11 +9,11 @@ _Context: Cte d'Ivoire_
 
 ##### Italy
 ### [ In Italy, court in Bologna gives life sentences to five members of Red Brigades for the murder of government advisor Marco Biagi in 2002. They are suspected members of the Communist Combatant faction of the Brigades ](/news/2005/06/1/in-italy-court-in-bologna-gives-life-sentences-to-five-members-of-red-brigades-for-the-murder-of-government-advisor-marco-biagi-in-2002-t.md)
-_Context: life sentence, Bologna, Red Brigades, 2002, Marco Biagi, Italy_
+_Context: Bologna, 2002, Italy, life sentence, Red Brigades, Marco Biagi_
 
 ##### Haim Yavin
 ### [ Haim Yavin, one of Israel's most respected television news presenters has condemned the Israeli occupation of the Palestinian territories, calling it "brutal", the first time he has spoken publicly on the subject. ](/news/2005/06/1/haim-yavin-one-of-israel-s-most-respected-television-news-presenters-has-condemned-the-israeli-occupation-of-the-palestinian-territories.md)
-_Context: television news, Palestine, Haim Yavin, Israel_
+_Context: Haim Yavin, Israel, Palestine, television news_
 
 ##### Vietnam
 ### [ An Australian man of Vietnamese origin has been jailed for 20 years in Vietnam after being convicted of trying to smuggle 200g of heroin from Vietnam to Australia. ](/news/2005/06/1/an-australian-man-of-vietnamese-origin-has-been-jailed-for-20-years-in-vietnam-after-being-convicted-of-trying-to-smuggle-200g-of-heroin-fr.md)
@@ -29,7 +29,7 @@ The American Family Association has fired another missile in its long war agains
 
 ##### Kandahar
 ### [ At least 20 people are killed and 40 are injured in a bomb blast in the city of Kandahar, Afghanistan. ](/news/2005/06/1/at-least-20-people-are-killed-and-40-are-injured-in-a-bomb-blast-in-the-city-of-kandahar-afghanistan.md)
-_Context: Kandahar, Afghanistan_
+_Context: Afghanistan, Kandahar_
 
 ##### Sweden
 ### [ Sweden shuts down the Barsebck 2 nuclear reactor. ](/news/2005/06/1/sweden-shuts-down-the-barseback-2-nuclear-reactor.md)
@@ -45,15 +45,15 @@ _Context: national referendum on ratification, Netherlands, EU Constitution_
 
 ##### Bolivia
 ### [ In Bolivia, continuing protests against privatisation of basic utilities force congress to abandon a key session in the capital La Paz ](/news/2005/06/1/in-bolivia-continuing-protests-against-privatisation-of-basic-utilities-force-congress-to-abandon-a-key-session-in-the-capital-la-paz.md)
-_Context: privatisation, La Paz, Bolivia_
+_Context: La Paz, privatisation, Bolivia_
 
 ##### June 6
 ### [ In the June 6 issue of "TIME Magazine", Wikipedia and its founder Jimmy Wales have been featured in a story on the rise of wiki technology. ](/news/2005/06/1/in-the-june-6-issue-of-time-magazine-wikipedia-and-its-founder-jimmy-wales-have-been-featured-in-a-story-on-the-rise-of-wiki-technology.md)
-_Context: Jimmy Wales, TIME Magazine, June 6, Wikipedia_
+_Context: June 6, Jimmy Wales, Wikipedia, TIME Magazine_
 
 ##### Securities and Exchange Commission
 ### [ The chairman of the U.S. Securities and Exchange Commission, William Donaldson, announces that he will leave that post at the end of June. ](/news/2005/06/1/the-chairman-of-the-u-s-securities-and-exchange-commission-william-donaldson-announces-that-he-will-leave-that-post-at-the-end-of-june.md)
-_Context: William Donaldson, Securities and Exchange Commission_
+_Context: Securities and Exchange Commission, William Donaldson_
 
 ## [Previous Day...](/news/2005/05/31/index.md)
 

@@ -5,11 +5,11 @@ Formats: [HTML](2007/07/15/index.html)  [JSON](2007/07/15/index.json)  [XML](200
 
 ##### Sudan
 ### [ Sudan and a breakaway faction of the Justice and Equality Movement of Darfur sign a peace treaty. ](/news/2007/07/15/sudan-and-a-breakaway-faction-of-the-justice-and-equality-movement-of-darfur-sign-a-peace-treaty.md)
-_Context: Justice and Equality Movement, Sudan, Darfur_
+_Context: Darfur, Justice and Equality Movement, Sudan_
 
 ##### Abortion
 ### [ A law legalising abortion in the first ten weeks of pregnancy comes into effect in Portugal. ](/news/2007/07/15/a-law-legalising-abortion-in-the-first-ten-weeks-of-pregnancy-comes-into-effect-in-portugal.md)
-_Context: abortion, pregnancy, Portugal_
+_Context: Portugal, abortion, pregnancy_
 
 ##### Somalia
 ### [ A Somali peace conference in Mogadishu gets off to a bad start as it is disrupted by mortar shells. ](/news/2007/07/15/a-somali-peace-conference-in-mogadishu-gets-off-to-a-bad-start-as-it-is-disrupted-by-mortar-shells.md)
@@ -17,7 +17,7 @@ Somalia&#039;s much-delayed peace conference has gotten off to a rocky start wit
 
 ##### Shimon Peres
 ### [ Shimon Peres is sworn in as the President of Israel. ](/news/2007/07/15/shimon-peres-is-sworn-in-as-the-president-of-israel.md)
-_Context: Shimon Peres, President_
+_Context: President, Shimon Peres_
 
 ##### Gert van der Heijden
 ### [ Two scientists Gert van der Heijden and Eugene Starostin claim that they have solved a 75-year-old problem related to developable surfaces and the Mbius strip. ](/news/2007/07/15/two-scientists-gert-van-der-heijden-and-eugene-starostin-claim-that-they-have-solved-a-75-year-old-problem-related-to-developable-surfaces.md)
@@ -33,7 +33,7 @@ _Context: Taliban_
 
 ##### Brazil national football team
 ### [ Brazil defeats Argentina 3-0 in the 2007 Copa Amrica final. ](/news/2007/07/15/brazil-defeats-argentina-3-0-in-the-2007-copa-america-final.md)
-_Context: Brazil national football team, Argentina national football team, 2007 Copa Amrica_
+_Context: 2007 Copa Amrica, Argentina national football team, Brazil national football team_
 
 ## [Previous Day...](/news/2007/07/14/index.md)
 

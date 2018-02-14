@@ -29,7 +29,7 @@ Samsung Electronics Co Ltd missed already modest expectations for its quarterly 
 
 ##### European Central Bank
 ### [The European Central Bank and the European Commission release a joint report on the banking system in Spain, indicating that system is solvent and will not require "further program disbursements." ](/news/2013/07/5/the-european-central-bank-and-the-european-commission-release-a-joint-report-on-the-banking-system-in-spain-indicating-that-system-is-solve.md)
-_Context: European Commission, European Central Bank, Spain_
+_Context: Spain, European Commission, European Central Bank_
 
 ##### Fireworks
 ### [39 people are injured due to malfunctioning fireworks at a 4th of July event in Simi Valley, California. ](/news/2013/07/5/39-people-are-injured-due-to-malfunctioning-fireworks-at-a-4th-of-july-event-in-simi-valley-california.md)
@@ -41,11 +41,11 @@ Whole Foods Market Inc. is recalling Crave Brothers Les Freres cheese in respons
 
 ##### China
 ### [The People's Republic of China and Russia begin joint naval exercises in the Sea of Japan. ](/news/2013/07/5/the-people-s-republic-of-china-and-russia-begin-joint-naval-exercises-in-the-sea-of-japan.md)
-_Context: China, Russia, Sea of Japan_
+_Context: China, Sea of Japan, Russia_
 
 ##### Bolivia
 ### [Bolivian president Evo Morales calls the Eurozone for a violation of international law and threatens to close down the U.S. embassy in Bolivia after the episode of having his official airplane being refused to land "en route" to Vienna, amid suspicions of having former NSA employee Edward Snowden on board. Ambassadors of France, Italy, Spain and Portugal are summoned to give full explanations.](/news/2013/07/5/bolivian-president-evo-morales-calls-the-eurozone-for-a-violation-of-international-law-and-threatens-to-close-down-the-u-s-embassy-in-boliv.md)
-_Context: Evo Morales, U.S. embassy in Bolivia, France, Vienna, Italy, Portugal, Bolivia, Edward Snowden, Eurozone, Spain_
+_Context: France, Bolivia, Edward Snowden, Eurozone, Spain, Portugal, Vienna, Italy, Evo Morales, U.S. embassy in Bolivia_
 
 ##### New Zealand
 ### [A New Zealand court orders Pike River Coal to pay $3 million in compensation for the 29 victims of the Pike River Mine disaster. ](/news/2013/07/5/a-new-zealand-court-orders-pike-river-coal-to-pay-3-million-in-compensation-for-the-29-victims-of-the-pike-river-mine-disaster.md)

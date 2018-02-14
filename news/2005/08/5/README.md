@@ -17,7 +17,7 @@ RTÉ News has learned that the three Irishmen who were found guilty of training 
 
 ##### War in Afghanistan (2001-present)
 ### [ Conflict in Afghanistan: Al-Arabiya television broadcasts video footage shot by al-Qaeda which appears to show the downing of a US Chinook helicopter in Afghanistan. ](/news/2005/08/5/conflict-in-afghanistan-al-arabiya-television-broadcasts-video-footage-shot-by-al-qaeda-which-appears-to-show-the-downing-of-a-us-chinook.md)
-_Context: Al-Arabiya, Afghanistan, Chinook helicopter, al-Qaeda, War in Afghanistan (2001-present)_
+_Context: War in Afghanistan (2001-present), Chinook helicopter, Afghanistan, al-Qaeda, Al-Arabiya_
 
 ##### Yahoo!
 ### [ Yahoo! has introduced a test version of a new search service Yahoo! Audio Search that it claims can comb through 50 million music, voice and other audio files. ](/news/2005/08/5/yahoo-has-introduced-a-test-version-of-a-new-search-service-yahoo-audio-search-that-it-claims-can-comb-through-50-million-music-voice-an.md)
@@ -25,19 +25,19 @@ _Context: Yahoo! Audio Search, Yahoo!_
 
 ##### Earthquake
 ### [ An earthquake in Papua, Indonesia, reached 6.0 on the Richter scale. There are no reports of casualties.](/news/2005/08/5/an-earthquake-in-papua-indonesia-reached-6-0-on-the-richter-scale-there-are-no-reports-of-casualties.md)
-_Context: Richter scale, earthquake, Papua, Indonesia_
+_Context: Indonesia, Richter scale, Papua, earthquake_
 
 ##### Newmont Minahasa Raya
 ### [ Newmont Minahasa Raya, a local subsidiary of U.S. mining giant Newmont Mining, and its executive Richard Ness, go on trial in North Sulawesi accused of polluting a Buyat Bay near its mine in Indonesia. ](/news/2005/08/5/newmont-minahasa-raya-a-local-subsidiary-of-u-s-mining-giant-newmont-mining-and-its-executive-richard-ness-go-on-trial-in-north-sulawes.md)
-_Context: Sulawesi island, Buyat Bay, subsidiary, mine, Indonesia, Newmont Mining, Newmont Minahasa Raya_
+_Context: Indonesia, Sulawesi island, subsidiary, Newmont Mining, Buyat Bay, Newmont Minahasa Raya, mine_
 
 ##### China
 ### [ The People's Republic of China formally charges Hong Kong reporter Ching Cheong, journalist for "The Straits Times", of spying. ](/news/2005/08/5/the-people-s-republic-of-china-formally-charges-hong-kong-reporter-ching-cheong-journalist-for-the-straits-times-of-spying.md)
-_Context: spying, Hong Kong, The Straits Times, China, Ching Cheong_
+_Context: The Straits Times, Ching Cheong, China, Hong Kong, spying_
 
 ##### Typhoon Matsa
 ### [ Typhoon Matsa hits Taiwan ](/news/2005/08/5/typhoon-matsa-hits-taiwan.md)
-_Context: Taiwan, Typhoon Matsa_
+_Context: Typhoon Matsa, Taiwan_
 
 ##### Russia
 ### [ Russian Priz class mini-submarine AS-28 and its 7 crewmembers are stuck underwater off the Pacific coast ](/news/2005/08/5/russian-priz-class-mini-submarine-as-28-and-its-7-crewmembers-are-stuck-underwater-off-the-pacific-coast.md)

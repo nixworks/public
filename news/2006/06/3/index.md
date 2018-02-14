@@ -5,11 +5,11 @@ Formats: [HTML](2006/06/3/index.html)  [JSON](2006/06/3/index.json)  [XML](2006/
 
 ##### Pakistan
 ### [ Pakistan bans "The Da Vinci Code" film because it is said to contain blasphemous material about Jesus. ](/news/2006/06/3/pakistan-bans-the-da-vinci-code-film-because-it-is-said-to-contain-blasphemous-material-about-jesus.md)
-_Context: Pakistan, The Da Vinci Code, Jesus_
+_Context: Jesus, The Da Vinci Code, Pakistan_
 
 ##### Richter scale
 ### [ A strong quake measuring 5.2 on the Richter scale hits Southern Iran killing a young girl in the village of Ramkan. ](/news/2006/06/3/a-strong-quake-measuring-5-2-on-the-richter-scale-hits-southern-iran-killing-a-young-girl-in-the-village-of-ramkan.md)
-_Context: Iran, Ramkan, Richter scale_
+_Context: Richter scale, Ramkan, Iran_
 
 ##### Ishaqi incident
 ### [ The United States military finds its soldiers not guilty of any wrongdoing in the Ishaqi incident involving the deaths of 11 Iraqi civilians. ](/news/2006/06/3/the-united-states-military-finds-its-soldiers-not-guilty-of-any-wrongdoing-in-the-ishaqi-incident-involving-the-deaths-of-11-iraqi-civilian.md)
@@ -21,7 +21,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Human Rights Watch
 ### [ Human Rights Watch releases a video showing South Sudanese Vice President Dr. Riek Machar Teny Dhurgon bribing cult and rebel leader Joseph Kony and his second-in-command Vincent Otti of the Lord's Resistance Army to not attack southern Sudanese citizens. ](/news/2006/06/3/human-rights-watch-releases-a-video-showing-south-sudanese-vice-president-dr-riek-machar-teny-dhurgon-bribing-cult-and-rebel-leader-joseph.md)
-_Context: Human Rights Watch, Riek Machar, Vincent Otti, Sudan, Lord's Resistance Army, Joseph Kony_
+_Context: Lord's Resistance Army, Vincent Otti, Riek Machar, Joseph Kony, Human Rights Watch, Sudan_
 
 ##### Russia
 ### [ A Russian diplomat is killed and four kidnapped in an attack near the Russian embassy in Baghdad, according to Russian and Iraqi officials. ](/news/2006/06/3/a-russian-diplomat-is-killed-and-four-kidnapped-in-an-attack-near-the-russian-embassy-in-baghdad-according-to-russian-and-iraqi-officials.md)
@@ -37,7 +37,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Million dollar bill
 ### [ In response to his million dollar bill gospel tracts being seized from The Great News Network by the United States Secret Service, Ray Comfort, founder of Living Waters Publications, states that he will refuse to turn over his supply of tracts without a warrant. ](/news/2006/06/3/in-response-to-his-million-dollar-bill-gospel-tracts-being-seized-from-the-great-news-network-by-the-united-states-secret-service-ray-comf.md)
-_Context: million dollar bill, gospel tracts, Ray Comfort, United States Secret Service, Living Waters Publications, The Great News Network_
+_Context: The Great News Network, United States Secret Service, million dollar bill, Living Waters Publications, gospel tracts, Ray Comfort_
 
 ## [Previous Day...](/news/2006/06/2/index.md)
 

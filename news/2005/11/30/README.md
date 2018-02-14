@@ -29,15 +29,15 @@ _Context: face transplant, France_
 
 ##### Death toll
 ### [ Death toll in northeast China coal mine blast reaches 150. ](/news/2005/11/30/death-toll-in-northeast-china-coal-mine-blast-reaches-150.md)
-_Context: China, coal mine, Death toll_
+_Context: Death toll, coal mine, China_
 
 ##### Giovanni Prezioso
 ### [ Giovanni Prezioso, the General Counsel of the U.S. Securities and Exchange Commission, announces that he's leaving that post, although he'll remain until early 2006 to aid with the transition. ](/news/2005/11/30/giovanni-prezioso-the-general-counsel-of-the-u-s-securities-and-exchange-commission-announces-that-he-s-leaving-that-post-although-he-l.md)
-_Context: Securities and Exchange Commission, General Counsel, Giovanni Prezioso_
+_Context: General Counsel, Securities and Exchange Commission, Giovanni Prezioso_
 
 ##### Walt Disney Co.
 ### [ There are reports that Walt Disney Co., which is trying to sell its ABC Radio unit, has narrowed the field of potential buyers to three: Entercom Communications Corp., Cumulus Media Inc. and a private equity firm Kohlberg Kravis Roberts. ](/news/2005/11/30/there-are-reports-that-walt-disney-co-which-is-trying-to-sell-its-abc-radio-unit-has-narrowed-the-field-of-potential-buyers-to-three-en.md)
-_Context: Entercom Communications Corp., ABC Radio, Cumulus Media, Walt Disney Co., Kohlberg Kravis Roberts_
+_Context: Entercom Communications Corp., Kohlberg Kravis Roberts, Cumulus Media, ABC Radio, Walt Disney Co._
 
 ## [Previous Day...](/news/2005/11/29/index.md)
 

@@ -17,7 +17,7 @@ Typhoon Haitang, which brought tremendous rainfall and caused dozens of casualti
 
 ##### Thailand
 ### [ Government of Thailand changes the new emergency laws, weakening two articles that would have, among other things, enforced curfews and censorship of personal communication. ](/news/2005/07/20/government-of-thailand-changes-the-new-emergency-laws-weakening-two-articles-that-would-have-among-other-things-enforced-curfews-and-cen.md)
-_Context: censorship, curfew, Thailand_
+_Context: Thailand, censorship, curfew_
 
 ##### Saudi Arabia
 ### [ Saudi Arabian long-time ambassador to the US, prince Bandar bin Sultan, resigns for "personal reasons" ](/news/2005/07/20/saudi-arabian-long-time-ambassador-to-the-us-prince-bandar-bin-sultan-resigns-for-personal-reasons.md)
@@ -37,7 +37,7 @@ _Context: coal, Shaanxi_
 
 ##### Brazil
 ### [ In Brazil, Delubio Soares, former treasurer for the ruling Worker's Party, admits in a parliamentary hearing that the party did not declare contributions worth $17 million ](/news/2005/07/20/in-brazil-delubio-soares-former-treasurer-for-the-ruling-worker-s-party-admits-in-a-parliamentary-hearing-that-the-party-did-not-declare.md)
-_Context: Brazil, Delubio Soares, Brazil Workers' Party_
+_Context: Delubio Soares, Brazil, Brazil Workers' Party_
 
 ##### Scam
 ### [ Indian Army announces that it has unveiled a scam where contractors responsible for transportation of fuel to depots of its Northern Command had sold off the fuel and filled the tanks with water ](/news/2005/07/20/indian-army-announces-that-it-has-unveiled-a-scam-where-contractors-responsible-for-transportation-of-fuel-to-depots-of-its-northern-comman.md)

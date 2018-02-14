@@ -17,7 +17,7 @@ A massive wildfire around the oil sands hub of Fort McMurray, Canada forces the 
 
 ##### North Korea's nuclear program
 ### [Amid growing concern about North Korea's ballistic missile capability, South Korea, Japan and the U.S. are to hold their first ever joint anti-missile exercise next month, according to South Korea's Ministry of National Defense. The three countries will practice "detecting and tracing a hypothetical North Korean missile," said a ministry official. ](/news/2016/05/17/amid-growing-concern-about-north-korea-s-ballistic-missile-capability-south-korea-japan-and-the-u-s-are-to-hold-their-first-ever-joint-an.md)
-_Context: South Korea, North Korea's nuclear program, North Korea, Japan, U.S., anti-missile, South Korean Defense Minister_
+_Context: South Korean Defense Minister, North Korea, U.S., South Korea, North Korea's nuclear program, anti-missile, Japan_
 
 ##### Nepal-United Kingdom relations
 ### [British national Martin Travers is detained in Nepal for allegedly taking part in protests against the Nepalese government. ](/news/2016/05/17/british-national-martin-travers-is-detained-in-nepal-for-allegedly-taking-part-in-protests-against-the-nepalese-government.md)

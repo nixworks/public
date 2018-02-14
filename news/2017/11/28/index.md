@@ -13,7 +13,7 @@ Uzbekistan-born Saipov, 29, accused of killing eight people by speeding a rental
 
 ##### Seminole Heights serial killer
 ### [Tampa, Florida police arrest Howell Emanuel Donaldson III and charge him with four counts of murder. ](/news/2017/11/28/tampa-florida-police-arrest-howell-emanuel-donaldson-iii-and-charge-him-with-four-counts-of-murder.md)
-_Context: Seminole Heights serial killer, Tampa, Florida_
+_Context: Tampa, Florida, Seminole Heights serial killer_
 
 ##### Reno, Nevada
 ### [Police in Reno, Nevada, kill a man after he held a hostage and opened fire from the eighth floor of a luxury high-rise condominium, in a scenario similar to the 2017 Las Vegas shooting two months earlier. No one was injured. ](/news/2017/11/28/police-in-reno-nevada-kill-a-man-after-he-held-a-hostage-and-opened-fire-from-the-eighth-floor-of-a-luxury-high-rise-condominium-in-a-sce.md)
@@ -25,7 +25,7 @@ _Context: Tax Cuts and Jobs Act of 2017, U.S. Senate Budget Committee, Trump adm
 
 ##### 2017 in spaceflight
 ### [A Soyuz-2.1b's Fregat upper stage malfunctions during Meteor-M No.2-1's launch from the Vostochny Cosmodrome. The status of the satellite and 18 other payloads is unknown, as they are either stranded in a wrong orbit or they reentered the atmosphere and crashed in the ocean. ](/news/2017/11/28/a-soyuz-2-1b-s-fregat-upper-stage-malfunctions-during-meteor-m-no-2-1-s-launch-from-the-vostochny-cosmodrome-the-status-of-the-satellite-an.md)
-_Context: 2017 in spaceflight, Meteor-M No.2-1, Soyuz-2.1b, Vostochny Cosmodrome, Fregat_
+_Context: 2017 in spaceflight, Vostochny Cosmodrome, Meteor-M No.2-1, Soyuz-2.1b, Fregat_
 
 ##### Elsagate
 ### [YouTube removes thousands of child abuse videos related to Elsagate. ](/news/2017/11/28/youtube-removes-thousands-of-child-abuse-videos-related-to-elsagate.md)

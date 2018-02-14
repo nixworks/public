@@ -5,7 +5,7 @@ Formats: [HTML](2006/07/7/index.html)  [JSON](2006/07/7/index.json)  [XML](2006/
 
 ##### Craigslist
 ### [ Craigslist is sued because of illegal posts to that website. Amazon, eBay, AOL, Yahoo, and Google all file briefs as friends of the court in support of Craigslist. ](/news/2006/07/7/craigslist-is-sued-because-of-illegal-posts-to-that-website-amazon-ebay-aol-yahoo-and-google-all-file-briefs-as-friends-of-the-court-i.md)
-_Context: Amazon.com, Yahoo, Craigslist, eBay, lawsuit, Google, AOL, friends of the court_
+_Context: Craigslist, friends of the court, AOL, Amazon.com, Yahoo, Google, lawsuit, eBay_
 
 ##### Ayman al Zawahri
 ### [ Ayman al Zawahri, deputy of al-Qaeda claims that two of the London bombers trained with al-Qaeda on a video posted on a website. The two men he identified as training with them are Shehzad Tanweer and Mohammad Sidique Khan. ](/news/2006/07/7/ayman-al-zawahri-deputy-of-al-qaeda-claims-that-two-of-the-london-bombers-trained-with-al-qaeda-on-a-video-posted-on-a-website-the-two-me.md)
@@ -13,15 +13,15 @@ The Sydney Morning Herald 404 Page
 
 ##### Polish
 ### [ Polish Prime Minister Kazimierz Marcinkiewicz has resigned. His party Law and Justice has recommended the post be taken over by its chairman Jaroslaw Kaczynski, who is the identical twin brother of President Lech Kaczynski. ](/news/2006/07/7/polish-prime-minister-kazimierz-marcinkiewicz-has-resigned-his-party-law-and-justice-has-recommended-the-post-be-taken-over-by-its-chairma.md)
-_Context: Prime Minister, Polish, PiS, Lech Kaczynski, Jaroslaw Kaczynski, Kazimierz Marcinkiewicz_
+_Context: PiS, Prime Minister, Lech Kaczynski, Polish, Jaroslaw Kaczynski, Kazimierz Marcinkiewicz_
 
 ##### General Motors
 ### [ The board of General Motors authorises Chief Executive Officer Rick Wagoner to explore an alliance with Nissan and Renault. ](/news/2006/07/7/the-board-of-general-motors-authorises-chief-executive-officer-rick-wagoner-to-explore-an-alliance-with-nissan-and-renault.md)
-_Context: Rick Wagoner, Nissan, General Motors, Renault_
+_Context: Nissan, Rick Wagoner, General Motors, Renault_
 
 ##### Japan
 ### [ Japan circulates a new United Nations Security Council draft resolution including the threat of sanctions against North Korea. ](/news/2006/07/7/japan-circulates-a-new-united-nations-security-council-draft-resolution-including-the-threat-of-sanctions-against-north-korea.md)
-_Context: North Korea, Japan, sanctions, United Nations Security Council_
+_Context: Japan, sanctions, United Nations Security Council, North Korea_
 
 ##### Typhoon Ewiniar
 ### [ Typhoon Ewiniar nears landfall on the southern island chain of Okinawa, Japan. The typhoon packs winds 160 km, 99 mi, per hour. Japan's Meteorological Agency warns of flooding on the island and the storm to move across South Korea over the weekend. ](/news/2006/07/7/typhoon-ewiniar-nears-landfall-on-the-southern-island-chain-of-okinawa-japan-the-typhoon-packs-winds-160-km-99-mi-per-hour-japan-s-met.md)
@@ -33,11 +33,11 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Mahmoud Ahmadinejad
 ### [ Iran's president, Mahmoud Ahmadinejad, warns of an "explosion" in the Islamic world and it would target Israel and its supporters in the Western world, if Israel doesn't cease its activity in the Gaza Strip. Ahmadinejad said during a rally in Tehran that, "This (Israel) is a fake regime ... it won't be able to survive. I think the only way (forward) is that those who created it (the West) take it away themselves." ](/news/2006/07/7/iran-s-president-mahmoud-ahmadinejad-warns-of-an-explosion-in-the-islamic-world-and-it-would-target-israel-and-its-supporters-in-the-we.md)
-_Context: Tehran, Islam, Israel, Operation Summer Rains, Westerners, Mahmoud Ahmadinejad_
+_Context: Operation Summer Rains, Mahmoud Ahmadinejad, Westerners, Israel, Tehran, Islam_
 
 ##### FBI
 ### [ The FBI announces that a plot to bomb the Holland Tunnel and flood Lower Manhattan with water has been foiled. ](/news/2006/07/7/the-fbi-announces-that-a-plot-to-bomb-the-holland-tunnel-and-flood-lower-manhattan-with-water-has-been-foiled.md)
-_Context: FBI, Lower Manhattan, plot to bomb, Holland Tunnel_
+_Context: Lower Manhattan, FBI, Holland Tunnel, plot to bomb_
 
 ##### South Korea
 ### [ South Korea is developing cruise missile technology, Yoon Kwang-ung, South Korea's defense minister says. This is legal under the South Korea-U.S. missile guideline signed in 2001. ](/news/2006/07/7/south-korea-is-developing-cruise-missile-technology-yoon-kwang-ung-south-korea-s-defense-minister-says-this-is-legal-under-the-south-kor.md)

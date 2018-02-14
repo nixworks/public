@@ -5,7 +5,7 @@ Formats: [HTML](2012/12/18/index.html)  [JSON](2012/12/18/index.json)  [XML](201
 
 ##### NBC News
 ### [NBC News Chief Foreign Correspondent Richard Engel and his production team are freed after 5 days of captivity in northern Syria. They were captured by what Engel claims were members of the shabiha, a plainclothes militia loyal to President Bashar al-Assad. Rebel forces at a checkpoint freed the men after a firefight that killed 2 of the captors. ](/news/2012/12/18/nbc-news-chief-foreign-correspondent-richard-engel-and-his-production-team-are-freed-after-5-days-of-captivity-in-northern-syria-they-were.md)
-_Context: shabiha, Bashar al-Assad, Syria, NBC News, Richard Engel_
+_Context: shabiha, Syria, Richard Engel, Bashar al-Assad, NBC News_
 
 ##### Seleka
 ### [A coalition of rebel groups called "Seleka" take over the Central African Republic mining town of Bria, killing at least 15 government soldiers. The group is spearheaded by UFDR forces and has already taken five towns in its two-week offensive, which it claims is because of a lack of progress after a peace deal ended the 2004-2007 Bush War. Following an appeal for help from President Francois Bozize, the President of Chad Idriss Deby sends 20 vehicles of heavily armed troops to help quell the rebellion. ](/news/2012/12/18/a-coalition-of-rebel-groups-called-seleka-take-over-the-central-african-republic-mining-town-of-bria-killing-at-least-15-government-soldi.md)
@@ -17,11 +17,11 @@ Gunmen in Pakistan have killed six health workers at the start of a nationwide p
 
 ##### Quentin Tarantino
 ### [The premiere of Quentin Tarantino's new movie "Django Unchained" is cancelled as a response to the Sandy Hook Elementary School shooting. ](/news/2012/12/18/the-premiere-of-quentin-tarantino-s-new-movie-django-unchained-is-cancelled-as-a-response-to-the-sandy-hook-elementary-school-shooting.md)
-_Context: Quentin Tarantino, Sandy Hook Elementary School shooting, Django Unchained_
+_Context: Quentin Tarantino, Django Unchained, Sandy Hook Elementary School shooting_
 
 ##### Palermo
 ### [Four people are killed and seven injured after an apartment block collapses in the center of Palermo in Italy. ](/news/2012/12/18/four-people-are-killed-and-seven-injured-after-an-apartment-block-collapses-in-the-center-of-palermo-in-italy.md)
-_Context: Italy, Palermo_
+_Context: Palermo, Italy_
 
 ##### Tons
 ### [A large, 33.5-ton aquarium bursts in a busy shopping center on the Nanjing Road pedestrian mall in Shanghai, China, injuring 15 people, including customers and shop staff. ](/news/2012/12/18/a-large-33-5-ton-aquarium-bursts-in-a-busy-shopping-center-on-the-nanjing-road-pedestrian-mall-in-shanghai-china-injuring-15-people-incl.md)
@@ -29,7 +29,7 @@ Shanghai, China &#8211; Several people were reportedly injured when a shark tank
 
 ##### Death of Savita Halappanavar
 ### [Following the recent death of Savita Halappanavar the Irish government is to introduce legislation to clarify the Republic of Ireland's abortion laws, giving doctors clear guidelines on procedures where the mother's life is at risk. ](/news/2012/12/18/following-the-recent-death-of-savita-halappanavar-the-irish-government-is-to-introduce-legislation-to-clarify-the-republic-of-ireland-s-abor.md)
-_Context: death of Savita Halappanavar, Irish, Government of Ireland, Abortion in the Republic of Ireland_
+_Context: Abortion in the Republic of Ireland, Irish, death of Savita Halappanavar, Government of Ireland_
 
 ##### High Court of England and Wales
 ### [The High Court of England and Wales rules that a seven-year-old boy with a brain tumour should undergo surgery against his mother's wishes. ](/news/2012/12/18/the-high-court-of-england-and-wales-rules-that-a-seven-year-old-boy-with-a-brain-tumour-should-undergo-surgery-against-his-mother-s-wishes.md)
@@ -37,7 +37,7 @@ _Context: High Court of England and Wales, brain tumour_
 
 ##### Richard Hickock
 ### [The bodies of Richard Hickock and Perry Smith, the murderers who were the subject of Truman Capote's non-fiction novel "In Cold Blood", are exhumed in the US state of Kansas to help solve a cold case in Florida from December 1959. ](/news/2012/12/18/the-bodies-of-richard-hickock-and-perry-smith-the-murderers-who-were-the-subject-of-truman-capote-s-non-fiction-novel-in-cold-blood-are.md)
-_Context: Perry Smith, Truman Capote, non-fiction novel, Kansas, cold case, In Cold Blood, Richard Hickock, the state_
+_Context: Richard Hickock, cold case, Perry Smith, Kansas, Truman Capote, the state, non-fiction novel, In Cold Blood_
 
 ##### Downing Street
 ### [A police officer's claim that he witnessed a conflict outside Downing Street involving former British Conservative Party chief whip Andrew Mitchell is being probed by the Independent Police Complaints Commission. CCTV footage of the incident also emerges, casting doubt on whether any witnesses were present at the time. ](/news/2012/12/18/a-police-officer-s-claim-that-he-witnessed-a-conflict-outside-downing-street-involving-former-british-conservative-party-chief-whip-andrew-m.md)
@@ -45,7 +45,7 @@ The police watchdog says it is to investigate whether an officer did witness a r
 
 ##### High Court of England and Wales
 ### [At the High Court of England and Wales, the BBC and ITV apologise to Lord McAlpine for "disastrously" and falsely linking him to allegations of child sex abuse. ](/news/2012/12/18/at-the-high-court-of-england-and-wales-the-bbc-and-itv-apologise-to-lord-mcalpine-for-disastrously-and-falsely-linking-him-to-allegations.md)
-_Context: ITV, BBC, High Court of England and Wales, Lord McAlpine_
+_Context: Lord McAlpine, High Court of England and Wales, ITV, BBC_
 
 ##### DR Congo
 ### [Former Congolese militia leader Mathieu Ngudjolo Chui is acquitted by the International Criminal Court of war crimes and crimes against humanity. ](/news/2012/12/18/former-congolese-militia-leader-mathieu-ngudjolo-chui-is-acquitted-by-the-international-criminal-court-of-war-crimes-and-crimes-against-huma.md)

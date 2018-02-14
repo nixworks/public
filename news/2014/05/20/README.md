@@ -13,7 +13,7 @@ The bodies of at least 118 people have now been recovered from the sites of twin
 
 ##### Shia insurgency in Yemen
 ### [At least 16 people are killed in clashes between Shi'ite Muslim tribesmen and Yemeni government forces and allied Sunni tribesmen. ](/news/2014/05/20/at-least-16-people-are-killed-in-clashes-between-shi-ite-muslim-tribesmen-and-yemeni-government-forces-and-allied-sunni-tribesmen.md)
-_Context: Shia insurgency in Yemen, Yemeni government, Shi'ite, Sunni_
+_Context: Shia insurgency in Yemen, Yemeni government, Sunni, Shi'ite_
 
 ##### General Motors
 ### [American car maker General Motors recalls another 2.4 million vehicles. ](/news/2014/05/20/american-car-maker-general-motors-recalls-another-2-4-million-vehicles.md)
@@ -41,11 +41,11 @@ The search has resumed for four British sailors missing since their yacht appare
 
 ##### Singer-songwriter
 ### [Singer-songwriter Josh Kaufman becomes the Season 6 winner on NBC's "The Voice" as a member of Usher's team. ](/news/2014/05/20/singer-songwriter-josh-kaufman-becomes-the-season-6-winner-on-nbc-s-the-voice-as-a-member-of-usher-s-team.md)
-_Context: Season 6, The Voice, Usher, Josh Kaufman, NBC, Singer-songwriter_
+_Context: Singer-songwriter, Josh Kaufman, The Voice, Usher, NBC, Season 6_
 
 ##### Russian President
 ### [The President of Russia Vladimir Putin arrives in the People's Republic of China for a state visit. ](/news/2014/05/20/the-president-of-russia-vladimir-putin-arrives-in-the-people-s-republic-of-china-for-a-state-visit.md)
-_Context: Vladimir Putin, Russian President, China_
+_Context: Vladimir Putin, China, Russian President_
 
 ##### Michael Jace
 ### [American actor Michael Jace is arrested in relation to the shooting death of his wife in Los Angeles. ](/news/2014/05/20/american-actor-michael-jace-is-arrested-in-relation-to-the-shooting-death-of-his-wife-in-los-angeles.md)

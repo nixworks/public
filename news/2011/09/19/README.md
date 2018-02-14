@@ -13,7 +13,7 @@ Syrian forces shot dead at least six villagers and two rebel soldiers on Monday,
 
 ##### Montreal
 ### [The Montreal band Arcade Fire wins the 2011 Polaris Music Prize for best Canadian album for "The Suburbs". ](/news/2011/09/19/the-montreal-band-arcade-fire-wins-the-2011-polaris-music-prize-for-best-canadian-album-for-the-suburbs.md)
-_Context: Montreal, Arcade Fire, Polaris Music Prize, The Suburbs, Canadian_
+_Context: The Suburbs, Polaris Music Prize, Arcade Fire, Montreal, Canadian_
 
 ##### Standard & Poor's
 ### [Standard & Poor's lowers Italy's credit rating from A+ to A, due to concerns about its high level of debt and the stability of its government. ](/news/2011/09/19/standard-pooras-lowers-italy-s-credit-rating-from-a-to-a-due-to-concerns-about-its-high-level-of-debt-and-the-stability-of-its-governm.md)
@@ -21,11 +21,11 @@ Italy’s credit rating was cut by Standard &amp; Poor’s, the country’s firs
 
 ##### Securities and Exchange Commission
 ### [The U.S. Securities and Exchange Commission files a lawsuit alleging that unnamed persons engaged in illegal insider trading in the two days before French company Technip announced its plan to buy U.S. company Global Industries. ](/news/2011/09/19/the-u-s-securities-and-exchange-commission-files-a-lawsuit-alleging-that-unnamed-persons-engaged-in-illegal-insider-trading-in-the-two-days.md)
-_Context: Securities and Exchange Commission, Technip, insider trading, Global Industries_
+_Context: Global Industries, insider trading, Securities and Exchange Commission, Technip_
 
 ##### United Nations
 ### [The United Nations launches an appeal for US$357 million (EUR307 million) of international aid for victims of the 2011 Sindh floods in Pakistan. ](/news/2011/09/19/the-united-nations-launches-an-appeal-for-us-357-million-a-307-million-of-international-aid-for-victims-of-the-2011-sindh-floods-in-pakis.md)
-_Context: United Nations, 2011 Sindh floods, Pakistan_
+_Context: Pakistan, United Nations, 2011 Sindh floods_
 
 ##### China
 ### [At least 27 people are dead and dozens missing after heavy rains in the People's Republic of China. ](/news/2011/09/19/at-least-27-people-are-dead-and-dozens-missing-after-heavy-rains-in-the-people-s-republic-of-china.md)
@@ -33,7 +33,7 @@ _Context: China_
 
 ##### 2011 Sikkim earthquake
 ### [Rescue efforts continue for the victims of the 2011 Sikkim earthquake, which has claimed at least 67 lives in India, Nepal and Tibet. ](/news/2011/09/19/rescue-efforts-continue-for-the-victims-of-the-2011-sikkim-earthquake-which-has-claimed-at-least-67-lives-in-india-nepal-and-tibet.md)
-_Context: Nepal, 2011 Sikkim earthquake, Tibet, India_
+_Context: 2011 Sikkim earthquake, Tibet, Nepal, India_
 
 ##### Guatemala City, Guatemala
 ### [An earthquake of approximately 5.8 magnitude, two lesser related quakes, and an accompanying series of landslides kill at least three people in a municipality 32 miles south of Guatemala City, Guatemala. ](/news/2011/09/19/an-earthquake-of-approximately-5-8-magnitude-two-lesser-related-quakes-and-an-accompanying-series-of-landslides-kill-at-least-three-people.md)
@@ -49,7 +49,7 @@ _Context: bank fraud, Iran_
 
 ##### International Monetary Fund
 ### [The former Managing Director of the International Monetary Fund, Dominique Strauss-Kahn, gives his first public interview about allegations of sexual assault made against him in May 2011, to French TV channel TF1. ](/news/2011/09/19/the-former-managing-director-of-the-international-monetary-fund-dominique-strauss-kahn-gives-his-first-public-interview-about-allegations.md)
-_Context: allegations of sexual assault, TF1, Dominique Strauss-Kahn, International Monetary Fund_
+_Context: International Monetary Fund, Dominique Strauss-Kahn, TF1, allegations of sexual assault_
 
 ##### United Kingdom
 ### [Seven people are arrested in the United Kingdom city of Birmingham in relation to alleged involvement in an Islamic terrorist group. ](/news/2011/09/19/seven-people-are-arrested-in-the-united-kingdom-city-of-birmingham-in-relation-to-alleged-involvement-in-an-islamic-terrorist-group.md)
@@ -57,11 +57,11 @@ Anti-terror police have arrested seven people after a long-running intelligence 
 
 ##### George Cadle Price
 ### [George Cadle Price, the first Prime Minister of Belize, dies at 92 following emergency surgery. ](/news/2011/09/19/george-cadle-price-the-first-prime-minister-of-belize-dies-at-92-following-emergency-surgery.md)
-_Context: George Cadle Price, Prime Minister of Belize_
+_Context: Prime Minister of Belize, George Cadle Price_
 
 ##### Sinn Fein
 ### [Sinn Fein nominate John O'Dowd to replace Martin McGuinness on a temporary basis as deputy First Minister of Northern Ireland. ](/news/2011/09/19/sinn-fa-c-in-nominate-john-o-dowd-to-replace-martin-mcguinness-on-a-temporary-basis-as-deputy-first-minister-of-northern-ireland.md)
-_Context: John O'Dowd, Sinn Fein, Martin McGuinness, deputy First Minister of Northern Ireland_
+_Context: Martin McGuinness, Sinn Fein, deputy First Minister of Northern Ireland, John O'Dowd_
 
 ##### U.S. President
 ### [The President of the United States, Barack Obama, outlines a plan to cut US deficits by $3 trillion over 10 years, with half of the reductions coming from tax increases. ](/news/2011/09/19/the-president-of-the-united-states-barack-obama-outlines-a-plan-to-cut-us-deficits-by-3-trillion-over-10-years-with-half-of-the-reductio.md)

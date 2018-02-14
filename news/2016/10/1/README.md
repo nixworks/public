@@ -29,7 +29,7 @@ _Context: Socialist Workers' Party, Pedro Sanchez_
 
 ##### Obama administration
 ### [The Obama administration through the United States Department of Commerce transfers oversight of the technical management of the Internet by the Internet Corporation for Assigned Names and Numbers to an international consortium of stakeholders. ](/news/2016/10/1/the-obama-administration-through-the-united-states-department-of-commerce-transfers-oversight-of-the-technical-management-of-the-internet-by.md)
-_Context: Internet Corporation for Assigned Names and Numbers, U.S. Commerce Department, Obama administration, Internet_
+_Context: Obama administration, Internet, U.S. Commerce Department, Internet Corporation for Assigned Names and Numbers_
 
 ## [Previous Day...](/news/2016/09/30/index.md)
 

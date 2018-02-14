@@ -5,15 +5,15 @@ Formats: [HTML](2009/10/5/index.html)  [JSON](2009/10/5/index.json)  [XML](2009/
 
 ##### U.S.
 ### [ The United States Federal Trade Commission issues regulations for writers of blogs. ](/news/2009/10/5/the-united-states-federal-trade-commission-issues-regulations-for-writers-of-blogs.md)
-_Context: blogs, U.S., U.S. Federal Trade Commission_
+_Context: U.S., blogs, U.S. Federal Trade Commission_
 
 ##### Nobel Prize in Medicine
 ### [ The 2009 Nobel Prize in Medicine goes to Elizabeth H. Blackburn, Carol W. Greider, and Jack W. Szostak, "for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase". ](/news/2009/10/5/the-2009-nobel-prize-in-medicine-goes-to-elizabeth-h-blackburn-carol-w-greider-and-jack-w-szostak-for-the-discovery-of-how-chromosom.md)
-_Context: chromosome, telomere, Nobel Prize in Medicine, Elizabeth H. Blackburn, enzyme, telomerase, Jack W. Szostak, Carol W. Greider_
+_Context: Jack W. Szostak, telomere, Carol W. Greider, telomerase, chromosome, Elizabeth H. Blackburn, Nobel Prize in Medicine, enzyme_
 
 ##### Bangkok
 ### [ An early morning passenger train bound for Bangkok derails in Hua Hin, killing at least seven people and injuring dozens more. ](/news/2009/10/5/an-early-morning-passenger-train-bound-for-bangkok-derails-in-hua-hin-killing-at-least-seven-people-and-injuring-dozens-more.md)
-_Context: Bangkok, Hua Hin_
+_Context: Hua Hin, Bangkok_
 
 ##### Samoa
 ### [ Samoans cram into churches and community halls to remember friends and relatives killed in a recent tsunami. ](/news/2009/10/5/samoans-cram-into-churches-and-community-halls-to-remember-friends-and-relatives-killed-in-a-recent-tsunami.md)
@@ -21,7 +21,7 @@ _Context: the deadly tsunami, Samoa_
 
 ##### Canadian
 ### [ The Canadian province of Quebec is planning a lawsuit against tobacco companies to seek damages for healthcare costs. ](/news/2009/10/5/the-canadian-province-of-quebec-is-planning-a-lawsuit-against-tobacco-companies-to-seek-damages-for-healthcare-costs.md)
-_Context: Quebec, Canadian_
+_Context: Canadian, Quebec_
 
 ##### Killed
 ### [ Five people are killed in a suicide bomb attack at a United Nations World Food Programme office in Islamabad, Pakistan. ](/news/2009/10/5/five-people-are-killed-in-a-suicide-bomb-attack-at-a-united-nations-world-food-programme-office-in-islamabad-pakistan.md)
@@ -33,11 +33,11 @@ Roberto Micheletti cancels decree limiting freedom of speech, assembly and movem
 
 ##### U.S.
 ### [ United States President Barack Obama delays a meeting with the Dalai Lama until after a visit to China. ](/news/2009/10/5/united-states-president-barack-obama-delays-a-meeting-with-the-dalai-lama-until-after-a-visit-to-china.md)
-_Context: China, 14th Dalai Lama, Barack Obama, U.S. President, U.S._
+_Context: U.S. President, Barack Obama, 14th Dalai Lama, U.S., China_
 
 ##### France Tlcom
 ### [ The Deputy Chief Executive of France Tlcom, Louis-Pierre Wene, resigns over a series of suicides at the company. ](/news/2009/10/5/the-deputy-chief-executive-of-france-telecom-louis-pierre-wene-resigns-over-a-series-of-suicides-at-the-company.md)
-_Context: suicide, France Tlcom_
+_Context: France Tlcom, suicide_
 
 ##### Europe
 ### [ Airline pilots in Europe stage demonstrations in several cities against working hours. ](/news/2009/10/5/airline-pilots-in-europe-stage-demonstrations-in-several-cities-against-working-hours.md)

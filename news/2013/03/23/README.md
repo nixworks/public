@@ -5,7 +5,7 @@ Formats: [HTML](2013/03/23/index.html)  [JSON](2013/03/23/index.json)  [XML](201
 
 ##### Pakistan
 ### [Pakistani Taliban threaten to assassinate former President Pervez Musharraf if he returns to the country. ](/news/2013/03/23/pakistani-taliban-threaten-to-assassinate-former-president-pervez-musharraf-if-he-returns-to-the-country.md)
-_Context: president, Pakistan, Taliban, Pervez Musharraf_
+_Context: Pakistan, Taliban, Pervez Musharraf, president_
 
 ##### France
 ### [France formally confirms death of Islamist commander Abdelhamid Abou Zeid, a senior al-Qaeda in the Islamic Maghreb in February, after DNA tests. ](/news/2013/03/23/france-formally-confirms-death-of-islamist-commander-abdelhamid-abou-zeid-a-senior-al-qaeda-in-the-islamic-maghreb-in-february-after-dna-t.md)
@@ -17,23 +17,23 @@ All non-essential UN staff said to be removed from Central African Republic, as 
 
 ##### Collapse
 ### [2012-2013 Cypriot financial crisis: The Cyprus Parliament approves three bills that aim to raise enough money to qualify the country for a broader bailout package and stave off financial collapse. ](/news/2013/03/23/2012a2013-cypriot-financial-crisis-the-cyprus-parliament-approves-three-bills-that-aim-to-raise-enough-money-to-qualify-the-country-for-a.md)
-_Context: bailout package, Cyprus Parliament, Cypriot, collapse_
+_Context: Cypriot, bailout package, collapse, Cyprus Parliament_
 
 ##### Exile
 ### [Exiled Russian business oligarch Boris Berezovsky is found dead at his home in Surrey, England. ](/news/2013/03/23/exiled-russian-business-oligarch-boris-berezovsky-is-found-dead-at-his-home-in-surrey-england.md)
-_Context: England, Exile, Russia, business oligarch, Surrey, Boris Berezovsky_
+_Context: Surrey, business oligarch, England, Boris Berezovsky, Russia, Exile_
 
 ##### 2013 Brahmanbaria, Bangladesh tornado
 ### [2013 Brahmanbaria, Bangladesh tornado: At least 20 people are killed and more than 200 injured when a powerful tornado rips through the southeastern district of Brahmanbaria in Bangladesh. ](/news/2013/03/23/2013-brahmanbaria-bangladesh-tornado-at-least-20-people-are-killed-and-more-than-200-injured-when-a-powerful-tornado-rips-through-the-sout.md)
-_Context: tornado, Brahmanbaria, Bangladesh, 2013 Brahmanbaria, Bangladesh tornado_
+_Context: 2013 Brahmanbaria, Bangladesh tornado, tornado, Brahmanbaria, Bangladesh_
 
 ##### 2013 Thailand refugee camp fire
 ### [2013 Thailand refugee camp fire: The death toll from a fire in a Thai refugee camp for Karen refugees from Myanmar rises to 37 with more than a hundred injured. ](/news/2013/03/23/2013-thailand-refugee-camp-fire-the-death-toll-from-a-fire-in-a-thai-refugee-camp-for-karen-refugees-from-myanmar-rises-to-37-with-more-tha.md)
-_Context: refugee, Myanmar, 2013 Thailand refugee camp fire, Thai Society, Karen, refugee camp_
+_Context: Thai Society, Karen, refugee, 2013 Thailand refugee camp fire, refugee camp, Myanmar_
 
 ##### Pakistan
 ### [23 people are killed and 30 injured in a road accident in Pakistan's Punjab province. ](/news/2013/03/23/23-people-are-killed-and-30-injured-in-a-road-accident-in-pakistan-s-punjab-province.md)
-_Context: Pakistan, Punjab Province_
+_Context: Punjab Province, Pakistan_
 
 ##### US President
 ### [US President Barack Obama concludes his visit to the Middle East with a trip to the famous ruins of the ancient city of Petra in Jordan. ](/news/2013/03/23/us-president-barack-obama-concludes-his-visit-to-the-middle-east-with-a-trip-to-the-famous-ruins-of-the-ancient-city-of-petra-in-jordan.md)
@@ -49,7 +49,7 @@ Eleven inmates are missing and two guards injured after gunmen attack a Greek pr
 
 ##### Dominican Republic
 ### [Dominican Republic authorities arrest 35 people including military, police, and custom officials in a drugs bust. ](/news/2013/03/23/dominican-republic-authorities-arrest-35-people-including-military-police-and-custom-officials-in-a-drugs-bust.md)
-_Context: military, drugs, police, Dominican Republic_
+_Context: military, police, drugs, Dominican Republic_
 
 ##### Sudan
 ### [Sudanese President Omar al-Bashir announces he will step down in 2015 after nearly 25 years in power. ](/news/2013/03/23/sudanese-president-omar-al-bashir-announces-he-will-step-down-in-2015-after-nearly-25-years-in-power.md)

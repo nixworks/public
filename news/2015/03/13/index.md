@@ -5,7 +5,7 @@ Formats: [HTML](2015/03/13/index.html)  [JSON](2015/03/13/index.json)  [XML](201
 
 ##### Myanmar
 ### [A Myanmar air raid aimed at rebels on its border with China drops bombs on the Chinese city of Lincang killing four people. ](/news/2015/03/13/a-myanmar-air-raid-aimed-at-rebels-on-its-border-with-china-drops-bombs-on-the-chinese-city-of-lincang-killing-four-people.md)
-_Context: Lincang, China, Myanmar_
+_Context: China, Myanmar, Lincang_
 
 ##### Egypt Economic Development Conference
 ### [Among the over 2,000 delegates from 112 different countries, U.S. Secretary of State, John Kerry, delivers a speech during the investment summit held in the Egyptian resort town of Sharm el-Sheikh. ](/news/2015/03/13/among-the-over-2-000-delegates-from-112-different-countries-u-s-secretary-of-state-john-kerry-delivers-a-speech-during-the-investment-su.md)
@@ -21,7 +21,7 @@ At least eight people are dead in Vanuatu, a senior aid official says, after one
 
 ##### South Korea
 ### [One South Korean Ministry of Public Safety and Security official dies and three are missing after a helicopter crash off the island of Gageodo. ](/news/2015/03/13/one-south-korean-ministry-of-public-safety-and-security-official-dies-and-three-are-missing-after-a-helicopter-crash-off-the-island-of-gageo.md)
-_Context: South Korea, Gageodo, Ministry of Public Safety and Security_
+_Context: Gageodo, Ministry of Public Safety and Security, South Korea_
 
 ##### Chile
 ### [Chile declares a state of emergency and preliminary evacuation of 16,000 as a forest fire threatens the city of Valparaiso. ](/news/2015/03/13/chile-declares-a-state-of-emergency-and-preliminary-evacuation-of-16-000-as-a-forest-fire-threatens-the-city-of-valparaiso.md)
@@ -37,7 +37,7 @@ _Context: Belgrade, Serbia_
 
 ##### Stellenbosch University
 ### [In regard to an operation that took place on December 11, 2014, today, a Stellenbosch University and Tygerberg Hospital surgical team from Cape Town, South Africa, reports the world's first successful penis transplant, an operation requiring reconnection of tiny blood vessels and nerves. ](/news/2015/03/13/in-regard-to-an-operation-that-took-place-on-december-11-2014-today-a-stellenbosch-university-and-tygerberg-hospital-surgical-team-from-c.md)
-_Context: Stellenbosch University, Tygerberg Hospital, penis transplant, Cape Town, South Africa_
+_Context: Tygerberg Hospital, Cape Town, South Africa, Stellenbosch University, penis transplant_
 
 ##### Swedish
 ### [Swedish prosecutor Marianne Ny lodges a request to interrogate Julian Assange in his London refuge at the Ecuadorian consulate, saying that the reason for her change of mind is that the statute of limitations on several of the crimes of which Assange is suspected runs out in August 2015. ](/news/2015/03/13/swedish-prosecutor-marianne-ny-lodges-a-request-to-interrogate-julian-assange-in-his-london-refuge-at-the-ecuadorian-consulate-saying-that.md)
@@ -49,7 +49,7 @@ Gamers are being targeted with a computer virus that stops them playing their fa
 
 ##### NASA
 ### [NASA reports that scientists using the Hubble Space Telescope have found a salty ocean lurking beneath the surface of Jupiter's largest moon, Ganymede. ](/news/2015/03/13/nasa-reports-that-scientists-using-the-hubble-space-telescope-have-found-a-salty-ocean-lurking-beneath-the-surface-of-jupiter-s-largest-moon.md)
-_Context: salty, Hubble Space Telescope, Jupiter, NASA, Ganymede_
+_Context: Ganymede, NASA, salty, Hubble Space Telescope, Jupiter_
 
 ## [Previous Day...](/news/2015/03/12/index.md)
 

@@ -33,7 +33,7 @@ A Las Vegas police officer reportedly received non-life-threatening injuries aft
 
 ##### Dallas
 ### [Crystal Cortes of Dallas, Texas is charged with capital murder of dentist Kendra Hatcher on September 2. Her borrowed Jeep Cherokee was seen entering a parking garage on video. She told police she conspired with an unidentified man who paid her to drive him to the garage with the intention of robbery. ](/news/2015/09/6/crystal-cortes-of-dallas-texas-is-charged-with-capital-murder-of-dentist-kendra-hatcher-on-september-2-her-borrowed-jeep-cherokee-was-seen.md)
-_Context: Jeep Cherokee, Dallas_
+_Context: Dallas, Jeep Cherokee_
 
 ##### Guatemalan general election, 2015
 ### [Voters in Guatemala go to the polls for a general election. The presidential election appears headed for a runoff. ](/news/2015/09/6/voters-in-guatemala-go-to-the-polls-for-a-general-election-the-presidential-election-appears-headed-for-a-runoff.md)

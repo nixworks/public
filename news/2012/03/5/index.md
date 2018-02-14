@@ -17,11 +17,11 @@ _Context: Iraq, Haditha, Iraqi police_
 
 ##### Battle
 ### [The death toll in a battle between the Yemeni Army and Al-Qaeda on the outskirts of Zinjibar yesterday rises to over 130. ](/news/2012/03/5/the-death-toll-in-a-battle-between-the-yemeni-army-and-al-qaeda-on-the-outskirts-of-zinjibar-yesterday-rises-to-over-130.md)
-_Context: al-Qaeda, Yemeni Army, battle, Zinjibar_
+_Context: battle, al-Qaeda, Zinjibar, Yemeni Army_
 
 ##### Burundi
 ### [A soldier from Burundi is killed in an explosion in northern Mogadishu, Somalia. ](/news/2012/03/5/a-soldier-from-burundi-is-killed-in-an-explosion-in-northern-mogadishu-somalia.md)
-_Context: Somalia, Burundi, Mogadishu_
+_Context: Mogadishu, Burundi, Somalia_
 
 ##### The Lorax
 ### ["The Lorax" brings in US$70.7M during its opening weekend, the highest opener of 2012, and fifth highest total for an animated film ever. ](/news/2012/03/5/the-lorax-brings-in-us-70-7m-during-its-opening-weekend-the-highest-opener-of-2012-and-fifth-highest-total-for-an-animated-film-ever.md)
@@ -33,7 +33,7 @@ _Context: South East Queensland_
 
 ##### Tropical Storm Irina
 ### [The death toll from Tropical Storm Irina in Madagascar is estimated at 65. ](/news/2012/03/5/the-death-toll-from-tropical-storm-irina-in-madagascar-is-estimated-at-65.md)
-_Context: Tropical Storm Irina, Madagascar_
+_Context: Madagascar, Tropical Storm Irina_
 
 ##### Benjamin Netanyahu
 ### [Israeli Prime Minister Benjamin Netanyahu and US President Barack Obama meet at the White House. ](/news/2012/03/5/israeli-prime-minister-benjamin-netanyahu-and-us-president-barack-obama-meet-at-the-white-house.md)
@@ -41,7 +41,7 @@ Israeli PM Benjamin Netanyahu tells US President Barack Obama that Israel must a
 
 ##### Felipe Calderon
 ### [Felipe Calderon, the President of Mexico, asks Joe Biden, the vice-President of the United States for assistance in stopping the flow of money and weapons into Mexico. ](/news/2012/03/5/felipe-caldera3n-the-president-of-mexico-asks-joe-biden-the-vice-president-of-the-united-states-for-assistance-in-stopping-the-flow-of-mo.md)
-_Context: vice-President of the United States, Felipe Calderon, President, Joe Biden_
+_Context: vice-President of the United States, Joe Biden, President, Felipe Calderon_
 
 ##### Sea Shepherd
 ### [The Sea Shepherd anti-whaling organisation claims to have closed down Japan's main whaling ship, the "Nisshin Maru", deep inside the Southern Ocean off the Antarctic coast. ](/news/2012/03/5/the-sea-shepherd-anti-whaling-organisation-claims-to-have-closed-down-japan-s-main-whaling-ship-the-nisshin-maru-deep-inside-the-souther.md)
@@ -57,7 +57,7 @@ The trial of former Icelandic Prime Minister Geir Haarde, on charges of negligen
 
 ##### OSCE
 ### [International observers from the Organization for Security and Co-operation in Europe find that the Russian presidential election was skewed in favour of Vladimir Putin. ](/news/2012/03/5/international-observers-from-the-organization-for-security-and-co-operation-in-europe-find-that-the-russian-presidential-election-was-skewed.md)
-_Context: Vladimir Putin, OSCE, last week's election_
+_Context: Vladimir Putin, last week's election, OSCE_
 
 ##### Correlation
 ### [A study finds a correlation between snoring as a toddler and behavior problems later in childhood. ](/news/2012/03/5/a-study-finds-a-correlation-between-snoring-as-a-toddler-and-behavior-problems-later-in-childhood.md)
@@ -65,7 +65,7 @@ Children who snore, or who have other night-time breathing conditions are at ris
 
 ##### Merck & Co.
 ### [Merck announces that a new drug, ragweed AIT, significantly reduced ragweed allergy symptoms in a Phase III clinical trial. ](/news/2012/03/5/merck-announces-that-a-new-drug-ragweed-ait-significantly-reduced-ragweed-allergy-symptoms-in-a-phase-iii-clinical-trial.md)
-_Context: Merck & Co., Phase III clinical trial, ragweed_
+_Context: ragweed, Phase III clinical trial, Merck & Co._
 
 ##### Apple App Store
 ### [The Apple App Store passes 25 billion downloads. ](/news/2012/03/5/the-apple-app-store-passes-25-billion-downloads.md)

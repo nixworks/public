@@ -5,7 +5,7 @@ Formats: [HTML](2016/09/7/index.html)  [JSON](2016/09/7/index.json)  [XML](2016/
 
 ##### Syrian civil war
 ### [A chlorine attack in Aleppo on Tuesday injures more than 100 people. The blast from barrel bombs dropped kills one person. ](/news/2016/09/7/a-chlorine-attack-in-aleppo-on-tuesday-injures-more-than-100-people-the-blast-from-barrel-bombs-dropped-kills-one-person.md)
-_Context: Syrian civil war, chlorine, Aleppo_
+_Context: Syrian civil war, Aleppo, chlorine_
 
 ##### Mexican Drug War
 ### [A gang shoots down a police helicopter near Apatzingan, Michoacan, killing four people. The police had been conducting an operation against criminal groups and drug cartels. ](/news/2016/09/7/a-gang-shoots-down-a-police-helicopter-near-apatzinga-n-michoaca-n-killing-four-people-the-police-had-been-conducting-an-operation-agains.md)
@@ -13,7 +13,7 @@ A gang brought down a helicopter during a police operation in Mexico&#39;s troub
 
 ##### Americans
 ### [The American pop star Madonna agrees on a settlement with her former husband Guy Ritchie over their son. ](/news/2016/09/7/the-american-pop-star-madonna-agrees-on-a-settlement-with-her-former-husband-guy-ritchie-over-their-son.md)
-_Context: Madonna, Guy Ritchie, pop, Americans_
+_Context: Guy Ritchie, Americans, pop, Madonna_
 
 ##### Burial of Ferdinand Marcos
 ### [The Duterte administration defends its decision to bury the former dictator Ferdinand Marcos in the Philippine heroes' cemetery. ](/news/2016/09/7/the-duterte-administration-defends-its-decision-to-bury-the-former-dictator-ferdinand-marcos-in-the-philippine-heroes-cemetery.md)
@@ -57,15 +57,15 @@ The US State Department urges Bahrain to immediately release prominent human rig
 
 ##### Iran-Saudi Arabia relations
 ### [The top cleric of Saudi Arabia says Iranians "are not Muslims." ](/news/2016/09/7/the-top-cleric-of-saudi-arabia-says-iranians-are-not-muslims.md)
-_Context: Saudi Arabia, Iran, Muslim, Iran-Saudi Arabia relations_
+_Context: Iran-Saudi Arabia relations, Muslim, Iran, Saudi Arabia_
 
 ##### Russia-United States relations
 ### [A Russian Sukhoi Su-27 fighter jet makes an "unsafe close-range intercept" of a United States Navy P-8A Poseidon over the Black Sea in international airspace, coming within 10 feet (3.3 m) of the U.S. aircraft. ](/news/2016/09/7/a-russian-sukhoi-su-27-fighter-jet-makes-an-unsafe-close-range-intercept-of-a-united-states-navy-p-8a-poseidon-over-the-black-sea-in-inter.md)
-_Context: Russian SU-27 fighter jet, Russia-United States relations, Black Sea, Russia, United States Navy, P-8A Poseidon_
+_Context: P-8A Poseidon, Russia-United States relations, Black Sea, Russia, Russian SU-27 fighter jet, United States Navy_
 
 ##### Morton County, North Dakota
 ### [The sheriff's department of Morton County, North Dakota, issues arrest warrants for United States Green Party presidential candidate, Jill Stein, and her running-mate, Ajamu Baraka on charges of criminal trespass and criminal mischief. The county sheriff's department says that Stein and Baraka vandalized equipment at a controversial pipeline construction site. ](/news/2016/09/7/the-sheriff-s-department-of-morton-county-north-dakota-issues-arrest-warrants-for-united-states-green-party-presidential-candidate-jill-s.md)
-_Context: Green Party of the United States, Morton County, North Dakota, Ajamu Baraka, Jill Stein, controversial pipeline construction site, presidential candidate_
+_Context: controversial pipeline construction site, Jill Stein, Morton County, North Dakota, Ajamu Baraka, Green Party of the United States, presidential candidate_
 
 ##### Denmark
 ### [Denmark's government plans to buy the leaked Panama Papers containing Danish citizens. ](/news/2016/09/7/denmark-s-government-plans-to-buy-the-leaked-panama-papers-containing-danish-citizens.md)

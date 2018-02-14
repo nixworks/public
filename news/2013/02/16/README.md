@@ -21,7 +21,7 @@ Japan&#039;s aggressive attempts to spur on its struggling economy were set to e
 
 ##### Magnitude
 ### [A magnitude 6.2 earthquake occurs near the southern Philippine island of Mindanao. ](/news/2013/02/16/a-magnitude-6-2-earthquake-occurs-near-the-southern-philippine-island-of-mindanao.md)
-_Context: Philippines, Mindanao, earthquake, hits, magnitude_
+_Context: magnitude, earthquake, hits, Mindanao, Philippines_
 
 ##### Knights of Columbus
 ### [Two firefighters are killed and two others are injured extinguishing an inferno at a Knights of Columbus fraternal lodge in Bryan, Texas, United States. ](/news/2013/02/16/two-firefighters-are-killed-and-two-others-are-injured-extinguishing-an-inferno-at-a-knights-of-columbus-fraternal-lodge-in-bryan-texas-un.md)
@@ -33,7 +33,7 @@ Malaysian officials detain Australian senator, Nick Xenophon, under national sec
 
 ##### Presidential election
 ### [During presidential election Anthony Carmona is elected to be the next President of Trinidad and Tobago from 18 March 2013. ](/news/2013/02/16/during-presidential-election-anthony-carmona-is-elected-to-be-the-next-president-of-trinidad-and-tobago-from-18-march-2013.md)
-_Context: presidential election, President, Trinidad and Tobago, Anthony Carmona_
+_Context: Trinidad and Tobago, Anthony Carmona, presidential election, President_
 
 ## [Previous Day...](/news/2013/02/15/index.md)
 

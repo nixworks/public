@@ -5,11 +5,11 @@ Formats: [HTML](2009/03/20/index.html)  [JSON](2009/03/20/index.json)  [XML](200
 
 ##### U.S.
 ### [ The United States Navy's USS "Hartford" and USS "New Orleans" collide in the Strait of Hormuz. ](/news/2009/03/20/the-united-states-navy-s-uss-hartford-and-uss-new-orleans-collide-in-the-strait-of-hormuz.md)
-_Context: U.S., USS ''Hartford'', United States Navy, USS ''New Orleans'', Strait of Hormuz, collide_
+_Context: USS ''Hartford'', USS ''New Orleans'', collide, United States Navy, U.S., Strait of Hormuz_
 
 ##### Somalia
 ### [ Somali pirates hijack the Greek cargo ship MV "Titan". ](/news/2009/03/20/somali-pirates-hijack-the-greek-cargo-ship-mv-titan.md)
-_Context: Somali pirates, MV, Greece, Somalia, cargo ship_
+_Context: Somali pirates, Somalia, MV, cargo ship, Greece_
 
 ##### Bomb
 ### [ A bomb severely damages a government building in Athens, Greece. ](/news/2009/03/20/a-bomb-severely-damages-a-government-building-in-athens-greece.md)

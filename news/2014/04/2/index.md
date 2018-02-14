@@ -9,7 +9,7 @@ Several bombs near Cairo university kill a police brigadier-general and wound fi
 
 ##### Kabul
 ### [A suicide bomber wearing a military uniform strikes a voter registration office in Kabul, Afghanistan killing 6 police officers. ](/news/2014/04/2/a-suicide-bomber-wearing-a-military-uniform-strikes-a-voter-registration-office-in-kabul-afghanistan-killing-6-police-officers.md)
-_Context: Afghanistan, Kabul_
+_Context: Kabul, Afghanistan_
 
 ##### Fort Hood
 ### [A shooting is reported at the Fort Hood Army Base near the US town of Killeen, Texas with reports of at least four deaths, including the gunman, and 14 injuries. ](/news/2014/04/2/a-shooting-is-reported-at-the-fort-hood-army-base-near-the-us-town-of-killeen-texas-with-reports-of-at-least-four-deaths-including-the-gun.md)
@@ -21,11 +21,11 @@ Chrysler said Wednesday that it would recall 870,000 SUVs to fix a defect in the
 
 ##### President
 ### [The President of Chile Michelle Bachelet declares the northern part of Chile to be a disaster zone including the regions of Arica y Parinacota, and Tarapaca. ](/news/2014/04/2/the-president-of-chile-michelle-bachelet-declares-the-northern-part-of-chile-to-be-a-disaster-zone-including-the-regions-of-arica-y-parinaco.md)
-_Context: President, Arica y Parinacota, Chile, Tarapaca, Michelle Bachelet_
+_Context: Michelle Bachelet, Arica y Parinacota, Tarapaca, President, Chile_
 
 ##### High Court of Australia
 ### [The High Court of Australia recognises a neutral third gender that is neither male nor female. ](/news/2014/04/2/the-high-court-of-australia-recognises-a-neutral-third-gender-that-is-neither-male-nor-female.md)
-_Context: High Court of Australia, third gender_
+_Context: third gender, High Court of Australia_
 
 ##### Supreme Court of the United States
 ### [The Supreme Court of the United States, in "McCutcheon v. Federal Election Commission", votes 5-4 to overturn limits on the amount of money that an individual can donate to politicians' campaigns over a two-year cycle. ](/news/2014/04/2/the-supreme-court-of-the-united-states-in-mccutcheon-v-federal-election-commission-votes-5a4-to-overturn-limits-on-the-amount-of-mone.md)

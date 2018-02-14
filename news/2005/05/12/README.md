@@ -9,11 +9,11 @@ Find the latest sports news and articles on the NFL, MLB, NBA, NHL, NCAA college
 
 ##### United Kingdom
 ### [ The British Air Accidents Investigation Branch states that it has reached "no definite conclusion" about the reason of air crash that claimed the life of billionaire Paul-Louis Halley, his wife and their pilot in 2003. ](/news/2005/05/12/the-british-air-accidents-investigation-branch-states-that-it-has-reached-no-definite-conclusion-about-the-reason-of-air-crash-that-claim.md)
-_Context: Paul-Louis Halley, Air Accidents Investigation Branch, 2003, United Kingdom_
+_Context: Air Accidents Investigation Branch, United Kingdom, 2003, Paul-Louis Halley_
 
 ##### Zimbabwe
 ### [ Zimbabwe releases 60 South African mercenaries that were linked to an alleged coup attempt in the Equatorial Guinea last year. ](/news/2005/05/12/zimbabwe-releases-60-south-african-mercenaries-that-were-linked-to-an-alleged-coup-attempt-in-the-equatorial-guinea-last-year.md)
-_Context: coup, Equatorial Guinea, Zimbabwe, South Africa_
+_Context: South Africa, Equatorial Guinea, Zimbabwe, coup_
 
 ##### United States Senate
 ### [ A United States Senate probe releases evidence showing two prominent British and French politicians received vouchers for millions of barrels of Iraqi oil in exchange for their support of Saddam Hussein's regime. George Galloway is accused of using the Mariam Appeal, the children's leukemia charity he founded, to conceal the transfer of 3 million barrels of oil, although he denies any wrongdoing. ](/news/2005/05/12/a-united-states-senate-probe-releases-evidence-showing-two-prominent-british-and-french-politicians-received-vouchers-for-millions-of-barre.md)
@@ -25,11 +25,11 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Nigeria
 ### [ Nigerian president Olusegun Obasanjo opens the country's first blood transfusion centre. The centre is meant to screen blood to hinder the spread of the AIDS. ](/news/2005/05/12/nigerian-president-olusegun-obasanjo-opens-the-country-s-first-blood-transfusion-centre-the-centre-is-meant-to-screen-blood-to-hinder-the.md)
-_Context: Nigeria, AIDS, Olusegun Obasanjo, blood transfusion_
+_Context: Olusegun Obasanjo, blood transfusion, Nigeria, AIDS_
 
 ##### Ukraine
 ### [ Western countries pledge funds to Ukraine so the country can cover the Chernobyl nuclear reactor. ](/news/2005/05/12/western-countries-pledge-funds-to-ukraine-so-the-country-can-cover-the-chernobyl-nuclear-reactor.md)
-_Context: nuclear reactor, Chernobyl, Ukraine_
+_Context: Chernobyl, nuclear reactor, Ukraine_
 
 ##### Colombia
 ### [ In Colombia, former justice minister Alberto Santofimio Botero is arrested suspected of complicity in the murder of presidential candidate Luis Carlos Galn in 1989. ](/news/2005/05/12/in-colombia-former-justice-minister-alberto-santofimio-botero-is-arrested-suspected-of-complicity-in-the-murder-of-presidential-candidate.md)

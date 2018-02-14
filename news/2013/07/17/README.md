@@ -21,11 +21,11 @@ A bomb blast in a teahouse in the northern Iraqi city of Mosul killed at least s
 
 ##### Floods
 ### [At least 58 people are dead and 175 missing in floods in China's Sichuan province. ](/news/2013/07/17/at-least-58-people-are-dead-and-175-missing-in-floods-in-china-s-sichuan-province.md)
-_Context: floods, China, Sichuan_
+_Context: floods, Sichuan, China_
 
 ##### Heat wave
 ### [A heat wave settles over the United States with at least one death reported. ](/news/2013/07/17/a-heat-wave-settles-over-the-united-states-with-at-least-one-death-reported.md)
-_Context: U.S., heat wave_
+_Context: heat wave, U.S._
 
 ##### Bangladesh
 ### [A Bangladesh war crimes tribunal sentences Ali Ahsan Mohammad Mojaheed, Secretary General of the Bangladesh Jamaat-e-Islami political party, to death for atrocities committed during the Bangladesh Liberation War. ](/news/2013/07/17/a-bangladesh-war-crimes-tribunal-sentences-ali-ahsan-mohammad-mojaheed-secretary-general-of-the-bangladesh-jamaat-e-islami-political-party.md)
@@ -33,7 +33,7 @@ A Bangladesh war crimes tribunal sentenced a top Islamist politician to death on
 
 ##### German
 ### [German authorities indict Formula One boss Bernie Ecclestone for alleged bribery. ](/news/2013/07/17/german-authorities-indict-formula-one-boss-bernie-ecclestone-for-alleged-bribery.md)
-_Context: Bernie Ecclestone, German, indicted, Formula One_
+_Context: Formula One, German, indicted, Bernie Ecclestone_
 
 ##### Same-sex marriage becomes legal in England and Wales
 ### [Same-sex marriage becomes legal in England and Wales after the Marriage (Same Sex Couples) Bill receives Royal Assent. ](/news/2013/07/17/same-sex-marriage-becomes-legal-in-england-and-wales-after-the-marriage-same-sex-couples-bill-receives-royal-assent.md)

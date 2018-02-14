@@ -5,7 +5,7 @@ Formats: [HTML](2017/10/21/index.html)  [JSON](2017/10/21/index.json)  [XML](201
 
 ##### War in Somalia
 ### [The death toll in Somalia's deadliest terror attack rises up to 358, making it the fifth-deadliest terror attack worldwide. ](/news/2017/10/21/the-death-toll-in-somalia-s-deadliest-terror-attack-rises-up-to-358-making-it-the-fifth-deadliest-terror-attack-worldwide.md)
-_Context: War in Somalia, Somalia, 14 October 2017 Mogadishu bombings, third-deadliest terrorist attack_
+_Context: Somalia, 14 October 2017 Mogadishu bombings, War in Somalia, third-deadliest terrorist attack_
 
 ##### Insurgency in the Sahel
 ### [Gunmen coming from Mali kill 13 gendarmes and injure five on a base in western Niger. ](/news/2017/10/21/gunmen-coming-from-mali-kill-13-gendarmes-and-injure-five-on-a-base-in-western-niger.md)
@@ -13,7 +13,7 @@ Gunmen on pick-up trucks and motorcycles coming from Mali killed 13 gendarmes an
 
 ##### War in Afghanistan (2001-present)
 ### [A suicide bomber kills at least 15 people in Kabul. ](/news/2017/10/21/a-suicide-bomber-kills-at-least-15-people-in-kabul.md)
-_Context: suicide bomber, War in Afghanistan (2001-present)_
+_Context: War in Afghanistan (2001-present), suicide bomber_
 
 ##### 2017-18 UK and Ireland windstorm season
 ### [Storm Brian, the third windstorm of the season, causes severe flash flooding in Ireland and coastal flooding in parts of England and Wales, although disruption is not as severe as initially expected. ](/news/2017/10/21/storm-brian-the-third-windstorm-of-the-season-causes-severe-flash-flooding-in-ireland-and-coastal-flooding-in-parts-of-england-and-wales.md)

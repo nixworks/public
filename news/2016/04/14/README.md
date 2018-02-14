@@ -5,7 +5,7 @@ Formats: [HTML](2016/04/14/index.html)  [JSON](2016/04/14/index.json)  [XML](201
 
 ##### War in Afghanistan (2015-present)
 ### [Taliban militants kill eight people, including a police commander, in an ambush in northern Afghanistan. ](/news/2016/04/14/taliban-militants-kill-eight-people-including-a-police-commander-in-an-ambush-in-northern-afghanistan.md)
-_Context: War in Afghanistan (2015-present), Afghanistan, Taliban, police_
+_Context: police, War in Afghanistan (2015-present), Afghanistan, Taliban_
 
 ##### Israeli-Palestinian conflict
 ### [A Palestinian wielding an ax attacks an Israeli soldier near Hebron and is shot dead while two 12-year-old Palestinians in Jerusalem are arrested by Israeli Police with three knives concealed in their coats on suspicion of planning to carry out a stabbing attack. ](/news/2016/04/14/a-palestinian-wielding-an-ax-attacks-an-israeli-soldier-near-hebron-and-is-shot-dead-while-two-12-year-old-palestinians-in-jerusalem-are-arr.md)
@@ -21,7 +21,7 @@ KIEV, Ukraine (AP) — Ukrainian officials have announced the recovery of four p
 
 ##### Thunderstorm
 ### [At least 18 people are killed after a 80-tonne crane collapses on a temporary structure during a thunderstorm in the city of Dongguan, China. ](/news/2016/04/14/at-least-18-people-are-killed-after-a-80-tonne-crane-collapses-on-a-temporary-structure-during-a-thunderstorm-in-the-city-of-dongguan-china.md)
-_Context: Dongguan, China, thunderstorm_
+_Context: thunderstorm, Dongguan, China_
 
 ##### North Korea's nuclear program
 ### [North Korea deploys one or two intermediate-range ballistic missiles on its east coast, possibly preparing for launch on or around Friday, the anniversary of the birth of the country's founder Kim Il-sung, according to South Korea's Yonhap news agency. ](/news/2016/04/14/north-korea-deploys-one-or-two-intermediate-range-ballistic-missiles-on-its-east-coast-possibly-preparing-for-launch-on-or-around-friday-t.md)
@@ -37,7 +37,7 @@ The company is challenging the use of secrecy orders that prevent it from tellin
 
 ##### Parliament
 ### [The Verkhovna Rada appoints Volodmyr Groysman as the Prime Minister of Ukraine, replacing Arseny Yatseniuk. ](/news/2016/04/14/the-verkhovna-rada-appoints-volodmyr-groysman-as-the-prime-minister-of-ukraine-replacing-arseny-yatseniuk.md)
-_Context: parliament, Volodmyr Groysman, Prime Minister of Ukraine, Arseny Yatseniuk_
+_Context: Arseny Yatseniuk, parliament, Volodmyr Groysman, Prime Minister of Ukraine_
 
 ##### Jammu and Kashmir
 ### [Authorities in Jammu and Kashmir impose a curfew around the capital of Srinagar, Handwara, and neighbouring villages as protests turn violent. People began to protest last Tuesday when allegations were circulated by residents in Handwara that an Indian Army soldier tried to sexually assault a teenage schoolgirl. ](/news/2016/04/14/authorities-in-jammu-and-kashmir-impose-a-curfew-around-the-capital-of-srinagar-handwara-and-neighbouring-villages-as-protests-turn-violen.md)

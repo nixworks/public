@@ -9,15 +9,15 @@ _Context: Ukraine, Donetsk_
 
 ##### Cognizant
 ### [Information technology company Cognizant agrees to buy health care information company TriZetto Corporation for US$2.7 billion. ](/news/2014/09/15/information-technology-company-cognizant-agrees-to-buy-health-care-information-company-trizetto-corporation-for-us-2-7-billion.md)
-_Context: Cognizant, $_
+_Context: $, Cognizant_
 
 ##### Microsoft
 ### [Microsoft agrees to buy Swedish company Mojang, the makers of Minecraft, for US$2.5 billion. ](/news/2014/09/15/microsoft-agrees-to-buy-swedish-company-mojang-the-makers-of-minecraft-for-us-2-5-billion.md)
-_Context: Minecraft, Microsoft, Mojang, Swede_
+_Context: Mojang, Swede, Microsoft, Minecraft_
 
 ##### Giant white rabbit
 ### [An accidental fire severely burns a giant white rabbit erected by Dutch artist Florentijn Hofman in Taoyuan, Taiwan. ](/news/2014/09/15/an-accidental-fire-severely-burns-a-giant-white-rabbit-erected-by-dutch-artist-florentijn-hofman-in-taoyuan-taiwan.md)
-_Context: Florentijn Hofman, giant white rabbit, Taoyuan City, Taiwan_
+_Context: Taoyuan City, Taiwan, giant white rabbit, Florentijn Hofman_
 
 ##### Malta
 ### [Five hundred people drowned off the coast of Malta last week after people traffickers deliberately sank their ship. ](/news/2014/09/15/five-hundred-people-drowned-off-the-coast-of-malta-last-week-after-people-traffickers-deliberately-sank-their-ship.md)
@@ -33,7 +33,7 @@ _Context: prime minister, Polish, Ewa Kopacz_
 
 ##### Swedish Minister of Finance
 ### [Swedish Minister of Finance Anders Borg quits politics after he was considered to be the next leader of the Moderate Party, which he did not want. ](/news/2014/09/15/swedish-minister-of-finance-anders-borg-quits-politics-after-he-was-considered-to-be-the-next-leader-of-the-moderate-party-which-he-did-not.md)
-_Context: Swedish Minister of Finance, Moderate Party, Anders Borg_
+_Context: Moderate Party, Anders Borg, Swedish Minister of Finance_
 
 ## [Previous Day...](/news/2014/09/14/index.md)
 

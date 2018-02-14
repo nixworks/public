@@ -41,7 +41,7 @@ Former high-ranking Chinese army figure Guo Boxiong is expelled from the Communi
 
 ##### Chen Min'er
 ### [Chen Min'er replaces Zhao Kezhi as the Communist Party Secretary of Guizhou province, China. Zhao awaits assignment. ](/news/2015/07/30/chen-min-er-replaces-zhao-kezhi-as-the-communist-party-secretary-of-guizhou-province-china-zhao-awaits-assignment.md)
-_Context: Guizhou, Communist Party Secretary, Chen Min'er, China, Zhao Kezhi_
+_Context: Zhao Kezhi, China, Chen Min'er, Guizhou, Communist Party Secretary_
 
 ## [Previous Day...](/news/2015/07/29/index.md)
 

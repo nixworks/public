@@ -5,7 +5,7 @@ Formats: [HTML](2013/09/27/index.html)  [JSON](2013/09/27/index.json)  [XML](201
 
 ##### United Nations
 ### [United Nations inspectors are investigating three alleged instances of use of chemical weapons in the Syrian civil war since the Ghouta chemical attack on 21 August. ](/news/2013/09/27/united-nations-inspectors-are-investigating-three-alleged-instances-of-use-of-chemical-weapons-in-the-syrian-civil-war-since-the-ghouta-chem.md)
-_Context: United Nations, Ghouta chemical attack, Syrian civil war, chemical weapons_
+_Context: Ghouta chemical attack, United Nations, Syrian civil war, chemical weapons_
 
 ##### Bahrain
 ### [Tens of thousands march in Bahrain in the largest anti-government protest in months. ](/news/2013/09/27/tens-of-thousands-march-in-bahrain-in-the-largest-anti-government-protest-in-months.md)
@@ -17,7 +17,7 @@ Police fired teargas on Friday to disperse thousands of Sudanese demanding that 
 
 ##### Sunni
 ### [Bombs targeting two Sunni mosques in Baghdad, Iraq, kill seven people. ](/news/2013/09/27/bombs-targeting-two-sunni-mosques-in-baghdad-iraq-kill-seven-people.md)
-_Context: Baghdad, Sunni, Iraq_
+_Context: Iraq, Baghdad, Sunni_
 
 ##### Peshawar
 ### [A bomb detonates on a crowded bus north of Peshawar, Pakistan, killing 19 government employees and injuring 45. ](/news/2013/09/27/a-bomb-detonates-on-a-crowded-bus-north-of-peshawar-pakistan-killing-19-government-employees-and-injuring-45.md)
@@ -29,7 +29,7 @@ Authorities fear the death toll could rise after a boat loaded with asylum seeke
 
 ##### Japan Coast Guard
 ### [The Japan Coast Guard is searching for six missing sailors after the Japanese cargo ship "Eifukumaru No.18" capsizes after a collision with a Sierra Leone-registered ship off the coast of Izu Oshima island. ](/news/2013/09/27/the-japan-coast-guard-is-searching-for-six-missing-sailors-after-the-japanese-cargo-ship-eifukumaru-no-18-capsizes-after-a-collision-with.md)
-_Context: Izu Oshima, Sierra Leone, Japan Coast Guard_
+_Context: Izu Oshima, Japan Coast Guard, Sierra Leone_
 
 ##### India
 ### [A building collapses in the Indian city of Mumbai, with at least three people killed and dozens trapped. ](/news/2013/09/27/a-building-collapses-in-the-indian-city-of-mumbai-with-at-least-three-people-killed-and-dozens-trapped.md)
@@ -49,7 +49,7 @@ UNITED NATIONS (AP) — U.S. and European diplomats welcomed a &quot;significant
 
 ##### French police
 ### [French police arrest six people in Paris over their suspected involvement in an attempt to steal 1.6 million euros worth of gold bars from an Air France plane on September 19. ](/news/2013/09/27/french-police-arrest-six-people-in-paris-over-their-suspected-involvement-in-an-attempt-to-steal-1-6-million-euros-worth-of-gold-bars-from-a.md)
-_Context: Paris, French police, gold bar, Air France_
+_Context: French police, Air France, gold bar, Paris_
 
 ## [Previous Day...](/news/2013/09/26/index.md)
 

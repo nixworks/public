@@ -9,11 +9,11 @@ The Palestinian government warns that it will pull out of peace talks if Israel 
 
 ##### NATO
 ### [Two members of NATO's International Security Assistance Force are killed by improvised explosive devices in Afghanistan. ](/news/2010/08/23/two-members-of-nato-s-international-security-assistance-force-are-killed-by-improvised-explosive-devices-in-afghanistan.md)
-_Context: Afghanistan, NATO, improvised explosive device, International Security Assistance Force_
+_Context: NATO, International Security Assistance Force, Afghanistan, improvised explosive device_
 
 ##### National Assembly
 ### [At least 17 people, including a member of the National Assembly of Pakistan, Maulana Noor Mohammed Wazir, are killed in the bombing of a mosque in Pakistan's South Waziristan region. ](/news/2010/08/23/at-least-17-people-including-a-member-of-the-national-assembly-of-pakistan-maulana-noor-mohammed-wazir-are-killed-in-the-bombing-of-a-mos.md)
-_Context: Pakistan, Maulana Noor Mohammed Wazir, bomb, mosque, National Assembly, South Waziristan_
+_Context: mosque, Maulana Noor Mohammed Wazir, Pakistan, bomb, South Waziristan, National Assembly_
 
 ##### Anne Frank tree
 ### [The Anne Frank tree in Amsterdam is knocked down by a gust of heavy wind, breaking off about a meter above ground. ](/news/2010/08/23/the-anne-frank-tree-in-amsterdam-is-knocked-down-by-a-gust-of-heavy-wind-breaking-off-about-a-meter-above-ground.md)
@@ -21,7 +21,7 @@ _Context: Amsterdam, Anne Frank tree_
 
 ##### Jimena Navarrete
 ### [Jimena Navarrete, representing Mexico, wins Miss Universe 2010. ](/news/2010/08/23/jimena-navarrete-representing-mexico-wins-miss-universe-2010.md)
-_Context: Jimena Navarrete, Miss Universe 2010, Mexican_
+_Context: Mexican, Miss Universe 2010, Jimena Navarrete_
 
 ##### Australia
 ### [Australia's stock market and currency lose value because of the country's hung parliament. ](/news/2010/08/23/australia-s-stock-market-and-currency-lose-value-because-of-the-country-s-hung-parliament.md)
@@ -33,7 +33,7 @@ Hundreds of thousands of people displaced after border river bursts its banks.
 
 ##### 2010 Copiap mining accident
 ### [It is expected to take 120 days (4 months) to free the 33 miners trapped underground near Copiap in the Atacama Desert after it is confirmed that they are all currently alive. ](/news/2010/08/23/it-is-expected-to-take-120-days-4-months-to-free-the-33-miners-trapped-underground-near-copiapo-in-the-atacama-desert-after-it-is-confirme.md)
-_Context: 2010 Copiap mining accident, Atacama Desert, Copiap_
+_Context: Copiap, Atacama Desert, 2010 Copiap mining accident_
 
 ##### United Nations
 ### [The United Nations describes the humanitarian situation caused by the 2010 Pakistan floods as critical. ](/news/2010/08/23/the-united-nations-describes-the-humanitarian-situation-caused-by-the-2010-pakistan-floods-as-critical.md)
@@ -45,11 +45,11 @@ Thailand says it will resume diplomatic ties with Cambodia, after Phnom Penh ann
 
 ##### Elephant
 ### [2 tonnes of elephant ivory and five rhino horns disguised as avocados destined for Malaysia are seized in Nairobi, Kenya. ](/news/2010/08/23/2-tonnes-of-elephant-ivory-and-five-rhino-horns-disguised-as-avocados-destined-for-malaysia-are-seized-in-nairobi-kenya.md)
-_Context: ivory, Malaysia, Nairobi, rhino, elephant, Kenya_
+_Context: elephant, Malaysia, Kenya, rhino, ivory, Nairobi_
 
 ##### China
 ### [China considers removing the death penalty for several economic crimes. ](/news/2010/08/23/china-considers-removing-the-death-penalty-for-several-economic-crimes.md)
-_Context: China, death penalty_
+_Context: death penalty, China_
 
 ##### Islam
 ### [25 prisoners, including Islamic militants, escape from a prison in Dushanbe, Tajikistan. ](/news/2010/08/23/25-prisoners-including-islamic-militants-escape-from-a-prison-in-dushanbe-tajikistan.md)

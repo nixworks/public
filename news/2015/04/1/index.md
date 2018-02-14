@@ -9,11 +9,11 @@ The emergency landing of two U.S. Marine Corps F-18 fighter jets on the island o
 
 ##### Mexican
 ### [Flames engulf a Mexican state-run Pemex oil platform in the Gulf of Mexico, killing four workers. ](/news/2015/04/1/flames-engulf-a-mexican-state-run-pemex-oil-platform-in-the-gulf-of-mexico-killing-four-workers.md)
-_Context: Mexican, Petroleos Mexicanos, Gulf of Mexico_
+_Context: Gulf of Mexico, Petroleos Mexicanos, Mexican_
 
 ##### Russia
 ### [The Russian trawler "Dalniy Vostok" with 132 crew sinks off of the Kamchatka peninsula leaving at least 54 dead and 15 missing. ](/news/2015/04/1/the-russian-trawler-dalniy-vostok-with-132-crew-sinks-off-of-the-kamchatka-peninsula-leaving-at-least-54-dead-and-15-missing.md)
-_Context: sinks, ''Dalniy Vostok'', Russia, Kamchatka peninsula_
+_Context: ''Dalniy Vostok'', sinks, Russia, Kamchatka peninsula_
 
 ##### California
 ### [California governor Jerry Brown announces mandatory water restrictions in response to the worst drought in California history. ](/news/2015/04/1/california-governor-jerry-brown-announces-mandatory-water-restrictions-in-response-to-the-worst-drought-in-california-history.md)
@@ -25,11 +25,11 @@ Attack comes day after Turkish prosecutor taken hostage dies in police shootout 
 
 ##### Tulsa
 ### [An apparent murder and suicide leaves four dead in Tulsa, Oklahoma. ](/news/2015/04/1/an-apparent-murder-and-suicide-leaves-four-dead-in-tulsa-oklahoma.md)
-_Context: Oklahoma, Tulsa_
+_Context: Tulsa, Oklahoma_
 
 ##### New Jersey
 ### [A federal grand jury indicts New Jersey Senator Bob Menendez on corruption charges. ](/news/2015/04/1/a-federal-grand-jury-indicts-new-jersey-senator-bob-menendez-on-corruption-charges.md)
-_Context: Bob Menendez, New Jersey_
+_Context: New Jersey, Bob Menendez_
 
 ##### Atlanta
 ### [A court convicts eleven Atlanta, Georgia teachers as part of a mass cheating scandal. ](/news/2015/04/1/a-court-convicts-eleven-atlanta-georgia-teachers-as-part-of-a-mass-cheating-scandal.md)

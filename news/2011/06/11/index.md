@@ -13,11 +13,11 @@ Opposition calls for further reform at first protest in months after martial law
 
 ##### Fazul Abdullah Mohammed
 ### [Fazul Abdullah Mohammed, mastermind of the 1998 United States embassy bombings in Kenya and Tanzania, is killed in Somalia. ](/news/2011/06/11/fazul-abdullah-mohammed-mastermind-of-the-1998-united-states-embassy-bombings-in-kenya-and-tanzania-is-killed-in-somalia.md)
-_Context: Kenya, Fazul Abdullah Mohammed, 1998 United States embassy bombings, Somalia, Tanzania_
+_Context: Fazul Abdullah Mohammed, 1998 United States embassy bombings, Kenya, Somalia, Tanzania_
 
 ##### 2011 Yemeni uprising
 ### [2011 Yemeni uprising: Yemeni President Ali Abdullah Saleh's health is in poor condition a week after a bomb blast injured him and killed several others. ](/news/2011/06/11/2011-yemeni-uprising-yemeni-president-ali-abdullah-saleh-s-health-is-in-poor-condition-a-week-after-a-bomb-blast-injured-him-and-killed-sev.md)
-_Context: President, Ali Abdullah Saleh, Yemen, 2011 Yemeni uprising_
+_Context: 2011 Yemeni uprising, Yemen, Ali Abdullah Saleh, President_
 
 ##### Civil war
 ### [2011 Libyan civil war: Rebels make further gains west of Tripoli, battling in Zawiya just 30 miles from the capital. ](/news/2011/06/11/2011-libyan-civil-war-rebels-make-further-gains-west-of-tripoli-battling-in-zawiya-just-30-miles-from-the-capital.md)
@@ -33,11 +33,11 @@ Entertainment legend Bruce Forsyth is knighted in a list which also recognises O
 
 ##### Go on sale
 ### [Media censorship laws in Burma relating to sport, entertainment, lottery and fairytales are eased slightly, though restrictions on news titles remain. ](/news/2011/06/11/media-censorship-laws-in-burma-relating-to-sport-entertainment-lottery-and-fairytales-are-eased-slightly-though-restrictions-on-news-titl.md)
-_Context: go on sale, Burma_
+_Context: Burma, go on sale_
 
 ##### Rome, Italy
 ### [Over half a million people demonstrate in Rome, Italy, demanding same sex rights. ](/news/2011/06/11/over-half-a-million-people-demonstrate-in-rome-italy-demanding-same-sex-rights.md)
-_Context: same sex rights, Rome, Italy, Italy_
+_Context: Italy, Rome, Italy, same sex rights_
 
 ##### China
 ### [Two officials are detained in China after 1,500 people clashed with riot police over the death of a local legislator in police custody. ](/news/2011/06/11/two-officials-are-detained-in-china-after-1-500-people-clashed-with-riot-police-over-the-death-of-a-local-legislator-in-police-custody.md)

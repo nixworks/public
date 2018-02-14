@@ -9,7 +9,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Bangladesh
 ### [ In Bangladesh, 15 suspected radical leaders of Islamic groups are charged with sedition ](/news/2005/03/1/in-bangladesh-15-suspected-radical-leaders-of-islamic-groups-are-charged-with-sedition.md)
-_Context: Bangladesh, sedition_
+_Context: sedition, Bangladesh_
 
 ##### Burundi
 ### [ In Burundi, a referendum approves the new constitution, which is intended to end 12 years of civil war ](/news/2005/03/1/in-burundi-a-referendum-approves-the-new-constitution-which-is-intended-to-end-12-years-of-civil-war.md)
@@ -17,11 +17,11 @@ _Context: referendum, constitution, civil war, Burundi_
 
 ##### Canadian
 ### [ Canada deports Holocaust denier Ernst Zndel to Germany, where he is arrested ](/news/2005/03/1/canada-deports-holocaust-denier-ernst-zundel-to-germany-where-he-is-arrested.md)
-_Context: Holocaust denier, Canadian, Ernst Zndel_
+_Context: Canadian, Ernst Zndel, Holocaust denier_
 
 ##### Democratic Republic of Congo
 ### [ In the Democratic Republic of Congo, militia leader Floribert Ndjabu of Nationalist and Integrationist Front is reportedly arrested for the killing of nine Bangladeshi UN peacekeepers last week ](/news/2005/03/1/in-the-democratic-republic-of-congo-militia-leader-floribert-ndjabu-of-nationalist-and-integrationist-front-is-reportedly-arrested-for-the.md)
-_Context: United Nations, Floribert Ndjabu, Democratic Republic of Congo, Bangladesh, Nationalist and Integrationist Front_
+_Context: Floribert Ndjabu, Democratic Republic of Congo, United Nations, Bangladesh, Nationalist and Integrationist Front_
 
 ##### Angers
 ### [ A French court in Angers prepares for a major child sex trial ](/news/2005/03/1/a-french-court-in-angers-prepares-for-a-major-child-sex-trial.md)
@@ -33,7 +33,7 @@ Read the latest national and world news on Newsday. All the top stores, latest v
 
 ##### Indonesia
 ### [ Protests break out in Indonesia over fuel price increases ](/news/2005/03/1/protests-break-out-in-indonesia-over-fuel-price-increases.md)
-_Context: fuel, Indonesia_
+_Context: Indonesia, fuel_
 
 ##### Lebanese
 ### [ In Lebanon, opposition leaders call for the protest to continue even when the government has resigned. New protests demand that all Syrian troops leave the country ](/news/2005/03/1/in-lebanon-opposition-leaders-call-for-the-protest-to-continue-even-when-the-government-has-resigned-new-protests-demand-that-all-syrian.md)
@@ -49,7 +49,7 @@ _Context: war crime, Sierra Leone, David Crane_
 
 ##### Greenpeace India's
 ### [ Greenpeace in Switzerland accuses three chemical firms based in Basel of failing to clean up toxic waste ](/news/2005/03/1/greenpeace-in-switzerland-accuses-three-chemical-firms-based-in-basel-of-failing-to-clean-up-toxic-waste.md)
-_Context: Switzerland, Basel, Greenpeace India's, toxic waste_
+_Context: Greenpeace India's, Switzerland, toxic waste, Basel_
 
 ##### Syria
 ### [ Syrian president Bashar al-Assad states that Syria could withdraw all its troops from Lebanon in a couple of months ](/news/2005/03/1/syrian-president-bashar-al-assad-states-that-syria-could-withdraw-all-its-troops-from-lebanon-in-a-couple-of-months.md)
@@ -65,15 +65,15 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Uruguay
 ### [ In Uruguay, Dr. Tabar Vzquez, the first leftist president in the country's 180-year history, takes office, announces his cabinet and restores diplomatic relations with Cuba. ](/news/2005/03/1/in-uruguay-dr-tabare-vazquez-the-first-leftist-president-in-the-country-s-180-year-history-takes-office-announces-his-cabinet-and-rest.md)
-_Context: leftist, President, forming a government, Tabar Vzquez, Cuba, diplomatic relations, Uruguay_
+_Context: forming a government, President, Cuba, leftist, diplomatic relations, Tabar Vzquez, Uruguay_
 
 ##### Executed in the United States
 ### [ In a major change to capital punishment in the United States, by a closely-divided vote, the US Supreme Court rules, in Roper v. Simmons, that imposition of the death penalty on persons convicted of capital crimes committed before they were 18 is unconstitutional. ](/news/2005/03/1/in-a-major-change-to-capital-punishment-in-the-united-states-by-a-closely-divided-vote-the-us-supreme-court-rules-in-roper-v-simmons-t.md)
-_Context: executed in the United States, capital crime, US Supreme Court, sentenced to death, Roper v. Simmons_
+_Context: Roper v. Simmons, sentenced to death, US Supreme Court, executed in the United States, capital crime_
 
 ##### New York City
 ### [ In the US, New York Federal court hears a case of Vietnamese plaintiffs who demand compensation for effects of the Agent Orange during the Vietnam War. United States Justice Department and companies that manufactured Agent Orange demand that the federal judge dismiss the case.](/news/2005/03/1/in-the-us-new-york-federal-court-hears-a-case-of-vietnamese-plaintiffs-who-demand-compensation-for-effects-of-the-agent-orange-during-the.md)
-_Context: Vietnam, Vietnam War, Agent Orange, New York City, U.S. federal court, United States Justice Department_
+_Context: Agent Orange, U.S. federal court, Vietnam War, United States Justice Department, Vietnam, New York City_
 
 ## [Previous Day...](/news/2005/02/28/index.md)
 

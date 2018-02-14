@@ -9,7 +9,7 @@ _Context: Israeli Air Force, Gaza Strip, Israel_
 
 ##### Afghanistan
 ### [A cross border attack by the Afghan Taliban kills three Pakistan Army soldiers in Bajaur Agency of the Federally Administered Tribal Areas. ](/news/2014/07/12/a-cross-border-attack-by-the-afghan-taliban-kills-three-pakistan-army-soldiers-in-bajaur-agency-of-the-federally-administered-tribal-areas.md)
-_Context: Afghanistan, Bajaur, Pakistan Army, Taliban, Federally Administered Tribal Areas_
+_Context: Bajaur, Federally Administered Tribal Areas, Pakistan Army, Taliban, Afghanistan_
 
 ##### Baghdad
 ### [Gunmen kill 29 people in an apartment building in East Baghdad, including twenty women. ](/news/2014/07/12/gunmen-kill-29-people-in-an-apartment-building-in-east-baghdad-including-twenty-women.md)

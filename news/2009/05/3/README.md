@@ -13,15 +13,15 @@ A multimillionaire supermarket chain owner defeated a candidate of the governing
 
 ##### Avalanche
 ### [ An avalanche kills at least six people in the Central Eastern Alps in Austria. ](/news/2009/05/3/an-avalanche-kills-at-least-six-people-in-the-central-eastern-alps-in-austria.md)
-_Context: avalanche, Central Eastern, Austria, Alps, kills_
+_Context: kills, Central Eastern, avalanche, Austria, Alps_
 
 ##### France
 ### [ The French Navy frigate "Nivse" captures 11 Somali pirates. ](/news/2009/05/3/the-french-navy-frigate-nivose-captures-11-somali-pirates.md)
-_Context: Somali pirates, frigate, French naval, Nivse, captures, Somalia, France_
+_Context: Nivse, captures, French naval, frigate, France, Somalia, Somali pirates_
 
 ##### Army
 ### [ An Army helicopter crashes in Tchira, Venezuela, killing at least 18 people. ](/news/2009/05/3/an-army-helicopter-crashes-in-tachira-venezuela-killing-at-least-18-people.md)
-_Context: Army, crashes, helicopter, Tchira, Venezuela_
+_Context: crashes, Army, helicopter, Venezuela, Tchira_
 
 ##### Iraq
 ### [ Iraq will not extend the deadline for the United States Armed Forces to withdraw from the Iraq War. ](/news/2009/05/3/iraq-will-not-extend-the-deadline-for-the-united-states-armed-forces-to-withdraw-from-the-iraq-war.md)

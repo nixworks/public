@@ -13,7 +13,7 @@ Syed Rizwan Farook and his wife Tashfeen Malik did not make open posts on social
 
 ##### U.S.
 ### [In a widely expected move, the United States Federal Reserve Board raised the federal funds interest rate, the rate banks charge each other for overnight loans, from the 0-.25% range to the .25-.50% range. U.S. stock markets rallied on the news. ](/news/2015/12/16/in-a-widely-expected-move-the-united-states-federal-reserve-board-raised-the-federal-funds-interest-rate-the-rate-banks-charge-each-other.md)
-_Context: Federal Reserve Board, U.S., benchmark interest rate_
+_Context: benchmark interest rate, U.S., Federal Reserve Board_
 
 ##### Air India
 ### [An Air India aircraft maintenance technician is killed at Mumbai's Chhatrapati Shivaji International Airport in India after being sucked by an Air India Airbus A319's aircraft engine during pushback. ](/news/2015/12/16/an-air-india-aircraft-maintenance-technician-is-killed-at-mumbai-s-chhatrapati-shivaji-international-airport-in-india-after-being-sucked-by.md)
@@ -25,7 +25,7 @@ By Andrew M. Seaman(Reuters Health) - Offering the families of children with app
 
 ##### Cuba-United States relations
 ### [The United States and Cuba reach an understanding on restoring regularly scheduled commercial flights. Currently, the only option available is charter flights. ](/news/2015/12/16/the-united-states-and-cuba-reach-an-understanding-on-restoring-regularly-scheduled-commercial-flights-currently-the-only-option-available.md)
-_Context: charter flights, Cuba-United States relations, U.S., commercial flights, Cuba_
+_Context: commercial flights, U.S., Cuba, Cuba-United States relations, charter flights_
 
 ##### NATO
 ### [NATO leadership signs an agreement with the Ukrainian government to assist the country's modernization of its defense industry and capabilities. ](/news/2015/12/16/nato-leadership-signs-an-agreement-with-the-ukrainian-government-to-assist-the-country-s-modernization-of-its-defense-industry-and-capabilit.md)
@@ -57,7 +57,7 @@ Clergyman arrested in February was previously shown in video released by regime 
 
 ##### Minnesota
 ### [A bank in Minnesota (U.S.) is robbed by the same person a second time while an Iowa television station was doing a live update on the first robbery. The robber was arrested shortly afterwards. ](/news/2015/12/16/a-bank-in-minnesota-u-s-is-robbed-by-the-same-person-a-second-time-while-an-iowa-television-station-was-doing-a-live-update-on-the-first.md)
-_Context: Minnesota, Iowa, television station_
+_Context: television station, Iowa, Minnesota_
 
 ##### Baltimore
 ### [After the jury fails to reach a unanimous decision, a Baltimore, Maryland, judge declares a mistrial in the trial of police officer William Porter, the first officer to be charged in the death of Freddie Gray. ](/news/2015/12/16/after-the-jury-fails-to-reach-a-unanimous-decision-a-baltimore-maryland-judge-declares-a-mistrial-in-the-trial-of-police-officer-william.md)

@@ -9,7 +9,7 @@ Two people are shot dead in northern Senegal during protests after a court ruled
 
 ##### Local coordination committees
 ### [Local coordination committees in Syria call for a day of remembrance for lives lost in the ongoing uprising. ](/news/2012/01/30/local-coordination-committees-in-syria-call-for-a-day-of-remembrance-for-lives-lost-in-the-ongoing-uprising.md)
-_Context: 2011-2012 Syrian uprising, Syria, Local coordination committees_
+_Context: 2011-2012 Syrian uprising, Local coordination committees, Syria_
 
 ##### Tibetan
 ### [Tibetan advocacy groups claim that as many as seven ethnic Tibetans have been killed and 60 wounded in the past week in protests in China's Sichuan province bordering Tibet. ](/news/2012/01/30/tibetan-advocacy-groups-claim-that-as-many-as-seven-ethnic-tibetans-have-been-killed-and-60-wounded-in-the-past-week-in-protests-in-china-s.md)
@@ -17,7 +17,7 @@ The Tibetan government-in-exile has colluded with Western governments to distort
 
 ##### A mutiny
 ### [Soldiers who attempted a mutiny last week in Papua New Guinea hand their weapons over to the Deputy Prime Minister Belden Namah in return for a general amnesty. ](/news/2012/01/30/soldiers-who-attempted-a-mutiny-last-week-in-papua-new-guinea-hand-their-weapons-over-to-the-deputy-prime-minister-belden-namah-in-return-fo.md)
-_Context: a mutiny, amnesty, Belden Namah, Papua New Guinea_
+_Context: Papua New Guinea, a mutiny, Belden Namah, amnesty_
 
 ##### Sudan
 ### [Sudanese officials claim that the army has freed 14 of 29 Chinese workers held by rebels in the South Kordofan region since last Saturday. ](/news/2012/01/30/sudanese-officials-claim-that-the-army-has-freed-14-of-29-chinese-workers-held-by-rebels-in-the-south-kordofan-region-since-last-saturday.md)
@@ -25,15 +25,15 @@ The fate of 29 Chinese workers kidnapped in Sudan is unclear after Chinese offic
 
 ##### UAV
 ### [A US drone airstrike kills 15 members of al Qaida in the Arabian Peninsula in the Yemeni town of Lawdar in the Abyan Governorate. ](/news/2012/01/30/a-us-drone-airstrike-kills-15-members-of-al-qaida-in-the-arabian-peninsula-in-the-yemeni-town-of-lawdar-in-the-abyan-governorate.md)
-_Context: Yemen, Lawdar, al Qaida in the Arabian Peninsula, UAV, Abyan Governorate_
+_Context: UAV, al Qaida in the Arabian Peninsula, Yemen, Lawdar, Abyan Governorate_
 
 ##### Fake medicine crisis
 ### [The death toll from a fake medicine crisis at a cardiology hospital in Lahore, Pakistan, reaches 112. ](/news/2012/01/30/the-death-toll-from-a-fake-medicine-crisis-at-a-cardiology-hospital-in-lahore-pakistan-reaches-112.md)
-_Context: Pakistan, Lahore, fake medicine crisis_
+_Context: fake medicine crisis, Pakistan, Lahore_
 
 ##### Indonesia
 ### [An Indonesian court in Jayapura indicts five Papuan activists for declaring independence in October. ](/news/2012/01/30/an-indonesian-court-in-jayapura-indicts-five-papuan-activists-for-declaring-independence-in-october.md)
-_Context: indicted, Indonesia, Jayapura, Papuan_
+_Context: Indonesia, Papuan, indicted, Jayapura_
 
 ##### U.S. President
 ### [U.S. President Barack Obama answers questions about the State of the Union posed by citizens in the first-ever completely virtual interview from the White House but fails to answer the most popular questions which were related to the controversial topic of marijuana legalization. ](/news/2012/01/30/u-s-president-barack-obama-answers-questions-about-the-state-of-the-union-posed-by-citizens-in-the-first-ever-completely-virtual-interview.md)

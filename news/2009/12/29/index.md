@@ -5,11 +5,11 @@ Formats: [HTML](2009/12/29/index.html)  [JSON](2009/12/29/index.json)  [XML](200
 
 ##### Akmal Shaikh
 ### [ Akmal Shaikh becomes the first EU native to be executed in China in 50 years. Gordon Brown releases a statement indicating that he is appalled. ](/news/2009/12/29/akmal-shaikh-becomes-the-first-eu-native-to-be-executed-in-china-in-50-years-gordon-brown-releases-a-statement-indicating-that-he-is-appal.md)
-_Context: European Union, China, Akmal Shaikh, Gordon Brown_
+_Context: European Union, Gordon Brown, China, Akmal Shaikh_
 
 ##### Sudanese parliament
 ### [ The Sudanese parliament approves legislation for a referendum on the independence of South Sudan. ](/news/2009/12/29/the-sudanese-parliament-approves-legislation-for-a-referendum-on-the-independence-of-south-sudan.md)
-_Context: South Sudan, Sudanese parliament, independence, referendum_
+_Context: referendum, independence, Sudanese parliament, South Sudan_
 
 ##### Turkey
 ### [ A Turkish court sentences a Kurdish man to life in prison for a minibus bombing in 2005 that killed five people. ](/news/2009/12/29/a-turkish-court-sentences-a-kurdish-man-to-life-in-prison-for-a-minibus-bombing-in-2005-that-killed-five-people.md)
@@ -25,7 +25,7 @@ The sister of Nobel laureate Shirin Ebadi has been detained by Iranian intellige
 
 ##### Tiwonge Chimbalanga and Steven Monjeza
 ### [ Tiwonge Chimbalanga and Steven Monjeza, believed to have held Malawi's first gay engagement ceremony, are arrested and expected to be charged with gross public indecency. ](/news/2009/12/29/tiwonge-chimbalanga-and-steven-monjeza-believed-to-have-held-malawi-s-first-gay-engagement-ceremony-are-arrested-and-expected-to-be-charg.md)
-_Context: Tiwonge Chimbalanga and Steven Monjeza, Malawi, homosexual_
+_Context: Malawi, homosexual, Tiwonge Chimbalanga and Steven Monjeza_
 
 ##### Serbia
 ### [ Serbia's Minister of Labour, Employment, and Social Affairs Rasim Ljajic resigns a job due to his inability to keep his promise to locate Ratko Mladic by the end of 2009. ](/news/2009/12/29/serbia-s-minister-of-labour-employment-and-social-affairs-rasim-ljajia-resigns-a-job-due-to-his-inability-to-keep-his-promise-to-locate.md)
@@ -41,15 +41,15 @@ A Greek-owned cargo ship and a British-flagged chemical tanker have been seized,
 
 ##### China
 ### [ China displaces the U.S. as the largest overall buyer of Japanese goods in 2009. ](/news/2009/12/29/china-displaces-the-u-s-as-the-largest-overall-buyer-of-japanese-goods-in-2009.md)
-_Context: U.S., China, Japan_
+_Context: U.S., Japan, China_
 
 ##### U.S.
 ### [ An American Christian activist is reportedly arrested after crossing into North Korea from China, according to North Korean media. ](/news/2009/12/29/an-american-christian-activist-is-reportedly-arrested-after-crossing-into-north-korea-from-china-according-to-north-korean-media.md)
-_Context: Media of North Korea, China, Christian, North Korea, U.S._
+_Context: Christian, China, U.S., North Korea, Media of North Korea_
 
 ##### Italy
 ### [ Two Italians are injured and one American is killed in a shooting incident in Badghis Province, Afghanistan. ](/news/2009/12/29/two-italians-are-injured-and-one-american-is-killed-in-a-shooting-incident-in-badghis-province-afghanistan.md)
-_Context: Afghanistan, Badghis Province, U.S., Italy_
+_Context: U.S., Badghis Province, Afghanistan, Italy_
 
 ## [Previous Day...](/news/2009/12/28/index.md)
 

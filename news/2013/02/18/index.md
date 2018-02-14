@@ -9,7 +9,7 @@ Ruth Stage, who uses the ancient painting technique egg tempera, wins the £15,0
 
 ##### English
 ### [English singer-songwriter Kevin Ayers dies at the age of 68. ](/news/2013/02/18/english-singer-songwriter-kevin-ayers-dies-at-the-age-of-68.md)
-_Context: singer-songwriter, English, Kevin Ayers_
+_Context: Kevin Ayers, singer-songwriter, English_
 
 ##### Fishing vessel
 ### [A fishing vessel capsizes off of Liverpool, Nova Scotia, Canada, leaving 5 fishermen missing in the frigid waters. ](/news/2013/02/18/a-fishing-vessel-capsizes-off-of-liverpool-nova-scotia-canada-leaving-5-fishermen-missing-in-the-frigid-waters.md)
@@ -21,7 +21,7 @@ Flooding and landslides in the Indonesian province of North Sulawesi leave at le
 
 ##### Nestl
 ### [Food giant Nestl removes its beef pasta meals from supermarkets in France, Spain, and Italy, after tests confirmed that the product contained horse meat. ](/news/2013/02/18/food-giant-nestle-removes-its-beef-pasta-meals-from-supermarkets-in-france-spain-and-italy-after-tests-confirmed-that-the-product-contain.md)
-_Context: beef, horses for meat, 2013 meat adulteration scandal, supermarket, Italy, France, Spain, Nestl_
+_Context: beef, Spain, 2013 meat adulteration scandal, Nestl, Italy, horses for meat, supermarket, France_
 
 ##### Robber
 ### [2013 Belgium diamond heist: Armed robbers steal a haul of diamonds worth $50 million during a raid at Brussels Airport in Belgium. ](/news/2013/02/18/2013-belgium-diamond-heist-armed-robbers-steal-a-haul-of-diamonds-worth-50-million-during-a-raid-at-brussels-airport-in-belgium.md)
@@ -41,7 +41,7 @@ The predawn homecoming of President Hugo Chávez more than two months after havi
 
 ##### Prime Minister of Tunisia
 ### [Prime Minister of Tunisia Hamadi Jebali announces that plans for a new government of technocrats has failed. ](/news/2013/02/18/prime-minister-of-tunisia-hamadi-jebali-announces-that-plans-for-a-new-government-of-technocrats-has-failed.md)
-_Context: Tunisia, Prime Minister of Tunisia, government, Hamadi Jebali_
+_Context: Tunisia, Hamadi Jebali, Prime Minister of Tunisia, government_
 
 ## [Previous Day...](/news/2013/02/17/index.md)
 

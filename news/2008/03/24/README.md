@@ -13,35 +13,35 @@ _Context: $, Virginia, largest mass shooting in US history_
 
 ##### Bhutan Peace and Prosperity Party
 ### [ The Bhutan Peace and Prosperity Party wins Bhutan's first democratic general election, making Lyonpo Jigme Thinley the new Prime Minister elect. ](/news/2008/03/24/the-bhutan-peace-and-prosperity-party-wins-bhutan-s-first-democratic-general-election-making-lyonpo-jigme-thinley-the-new-prime-minister-e.md)
-_Context: Bhutan, Bhutan Peace and Prosperity Party, general election, Lyonpo Jigme Thinley, Prime Minister_
+_Context: Bhutan Peace and Prosperity Party, Lyonpo Jigme Thinley, Prime Minister, general election, Bhutan_
 
 ##### Department of Justice
 ### [ The United States Department of Justice approves the merger of Sirius Satellite Radio and XM Satellite Radio. ](/news/2008/03/24/the-united-states-department-of-justice-approves-the-merger-of-sirius-satellite-radio-and-xm-satellite-radio.md)
-_Context: merger, XM Satellite Radio, Department of Justice, Sirius Satellite Radio_
+_Context: XM Satellite Radio, Sirius Satellite Radio, Department of Justice, merger_
 
 ##### FBI
 ### [ The Federal Bureau of Investigation identifies the bodies of two United States citizens working as contractors in Iraq kidnapped more than a year ago. ](/news/2008/03/24/the-federal-bureau-of-investigation-identifies-the-bodies-of-two-united-states-citizens-working-as-contractors-in-iraq-kidnapped-more-than.md)
-_Context: FBI, Iraq, U.S., kidnap_
+_Context: U.S., kidnap, Iraq, FBI_
 
 ##### Marleen Veldhuis
 ### [ Marleen Veldhuis of the Netherlands and Federica Pellegrini of Italy break world records at the final day of the European Swimming Championships in Eindhoven, Netherlands. ](/news/2008/03/24/marleen-veldhuis-of-the-netherlands-and-federica-pellegrini-of-italy-break-world-records-at-the-final-day-of-the-european-swimming-champion.md)
-_Context: Eindhoven, Italy, the Netherlands, Netherlands, Federica Pellegrini, world record, Marleen Veldhuis, European Swimming Championships_
+_Context: the Netherlands, Marleen Veldhuis, Netherlands, Eindhoven, European Swimming Championships, Italy, world record, Federica Pellegrini_
 
 ##### Comoros
 ### [ Comoran army helicopters drop leaflets on the island of Anjouan warning the population of the imminent landing of its troops backed by African Union contingents. ](/news/2008/03/24/comoran-army-helicopters-drop-leaflets-on-the-island-of-anjouan-warning-the-population-of-the-imminent-landing-of-its-troops-backed-by-afri.md)
-_Context: helicopter, 2008 invasion of Anjouan, drop leaflets, African Union, Comoros, Anjouan_
+_Context: Comoros, drop leaflets, 2008 invasion of Anjouan, Anjouan, helicopter, African Union_
 
 ##### Yusuf Raza Gillani
 ### [ Yusuf Raza Gillani of the Pakistan Peoples Party is elected Prime Minister of Pakistan by the National Assembly and vows to free Chief Justice Iftikhar Chaudhry and other judges from house arrest. ](/news/2008/03/24/yusuf-raza-gillani-of-the-pakistan-peoples-party-is-elected-prime-minister-of-pakistan-by-the-national-assembly-and-vows-to-free-chief-just.md)
-_Context: house arrest, Yusuf Raza Gillani, National Assembly, Prime Minister, Iftikhar Chaudhry, Pakistan Peoples Party_
+_Context: Yusuf Raza Gillani, National Assembly, Prime Minister, Pakistan Peoples Party, Iftikhar Chaudhry, house arrest_
 
 ##### President
 ### [ Former President of the Philippines Corazon Aquino, the leader of the 1986 People Power Revolution, is diagnosed with colon cancer. ](/news/2008/03/24/former-president-of-the-philippines-corazon-aquino-the-leader-of-the-1986-people-power-revolution-is-diagnosed-with-colon-cancer.md)
-_Context: 1986 People Power Revolution, colon cancer, President, Corazon Aquino, Philippines_
+_Context: Corazon Aquino, colon cancer, Philippines, 1986 People Power Revolution, President_
 
 ##### Olympic Torch
 ### [ The Olympic Flame of the 2008 Summer Olympics is lit in Olympia, despite disruption by three protesters from Reporters Without Borders, among whom was Robert Mnard. ](/news/2008/03/24/the-olympic-flame-of-the-2008-summer-olympics-is-lit-in-olympia-despite-disruption-by-three-protesters-from-reporters-without-borders-amo.md)
-_Context: Reporters Without Borders, 2008 Summer Olympics, Robert Mnard, Olympic Torch, Olympia, Greece_
+_Context: 2008 Summer Olympics, Olympia, Greece, Reporters Without Borders, Olympic Torch, Robert Mnard_
 
 ## [Previous Day...](/news/2008/03/23/index.md)
 

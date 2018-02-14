@@ -5,11 +5,11 @@ Formats: [HTML](2012/10/3/index.html)  [JSON](2012/10/3/index.json)  [XML](2012/
 
 ##### Syrian refugees
 ### [Syrian refugees in rented houses say the Turkish police in Hatay Province faces them with the choice to either join a refugee camp or go back to Syria. ](/news/2012/10/3/syrian-refugees-in-rented-houses-say-the-turkish-police-in-hatay-province-faces-them-with-the-choice-to-either-join-a-refugee-camp-or-go-bac.md)
-_Context: Hatay Province, Syria, Turkish police, Syrian refugees, choice, refugee camp_
+_Context: choice, Turkish police, Syria, refugee camp, Hatay Province, Syrian refugees_
 
 ##### Hezbollah
 ### [Several blasts strike an arms stockpile in the Hezbollah-controlled Bekaa Valley in Lebanon. ](/news/2012/10/3/several-blasts-strike-an-arms-stockpile-in-the-hezbollah-controlled-bekaa-valley-in-lebanon.md)
-_Context: Hezbollah, Bekaa Valley, Lebanese_
+_Context: Hezbollah, Lebanese, Bekaa Valley_
 
 ##### Iran
 ### [Riot police in Iran clash with protestors demonstrating against the collapse of the country's currency, the rial. ](/news/2012/10/3/riot-police-in-iran-clash-with-protestors-demonstrating-against-the-collapse-of-the-country-s-currency-the-rial.md)
@@ -33,7 +33,7 @@ News and updates on Europe&#039;s Service Module for NASA&#039;s Orion spacecraf
 
 ##### West Coast Main Line
 ### [The decision to award the rail franchise for the United Kingdom's West Coast Main Line to FirstGroup is scrapped by the government after what are described as "significant technical flaws" in the bidding process.](/news/2012/10/3/the-decision-to-award-the-rail-franchise-for-the-united-kingdom-s-west-coast-main-line-to-firstgroup-is-scrapped-by-the-government-after-wha.md)
-_Context: FirstGroup, West Coast Main Line_
+_Context: West Coast Main Line, FirstGroup_
 
 ## [Previous Day...](/news/2012/10/2/index.md)
 

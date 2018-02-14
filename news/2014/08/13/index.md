@@ -21,7 +21,7 @@ An investigation begins after the bodies of five French climbers and their guide
 
 ##### A landslide hits a mountain train
 ### [Three train cars derail and 11 people are injured after a landslide hits a mountain train in the Swiss Alps. ](/news/2014/08/13/three-train-cars-derail-and-11-people-are-injured-after-a-landslide-hits-a-mountain-train-in-the-swiss-alps.md)
-_Context: a landslide hits a mountain train, Swiss Alps_
+_Context: Swiss Alps, a landslide hits a mountain train_
 
 ##### Solomon Islands
 ### [Solomon Islands recognize Kosovo. ](/news/2014/08/13/solomon-islands-recognize-kosovo.md)
@@ -29,11 +29,11 @@ Hoxhaj (@Enver_Hoxhaj) climbed for 16 positions in ranking, compared to 31st pla
 
 ##### Shooting of Michael Brown
 ### [Protests against the shooting of Michael Brown by the Ferguson Police Department in the US state of Missouri turn violent. ](/news/2014/08/13/protests-against-the-shooting-of-michael-brown-by-the-ferguson-police-department-in-the-us-state-of-missouri-turn-violent.md)
-_Context: Missouri, police force, Shooting of Michael Brown_
+_Context: Shooting of Michael Brown, Missouri, police force_
 
 ##### Slovenian parliamentary election, 2014
 ### [Miro Cerar secures an absolute majority of votes in parliament to become new prime minister of Slovenia after receiving an endorsement by the Pensioner's Party DeSUS, as well as by the outgoing PM Alenka Bratusek and her Alliance. ](/news/2014/08/13/miro-cerar-secures-an-absolute-majority-of-votes-in-parliament-to-become-new-prime-minister-of-slovenia-after-receiving-an-endorsement-by-th.md)
-_Context: Pensioner's Party DeSUS, Alenka Bratusek, Slovenian parliamentary election, 2014, alliance, Miro Cerar, Slovenia_
+_Context: Slovenian parliamentary election, 2014, Slovenia, alliance, Miro Cerar, Pensioner's Party DeSUS, Alenka Bratusek_
 
 ## [Previous Day...](/news/2014/08/12/index.md)
 

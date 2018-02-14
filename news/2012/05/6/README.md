@@ -21,7 +21,7 @@ Greeks are voting today in national elections that may determine whether the cou
 
 ##### Armenia
 ### [Voters in Armenia go to the polls for a parliamentary election with exit polls showing the ruling Republican Party doing well. ](/news/2012/05/6/voters-in-armenia-go-to-the-polls-for-a-parliamentary-election-with-exit-polls-showing-the-ruling-republican-party-doing-well.md)
-_Context: Republican Party, Armenia, parliamentary election, exit poll_
+_Context: exit poll, Armenia, parliamentary election, Republican Party_
 
 ##### Serbia
 ### [Voters in Serbia go to the polls for a presidential and parliamentary election. ](/news/2012/05/6/voters-in-serbia-go-to-the-polls-for-a-presidential-and-parliamentary-election.md)
@@ -29,7 +29,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Schleswig-Holstein
 ### [Voters in Schleswig-Holstein go to the polls for a state election with the governing coalition of CDU and FDP losing their majority, paving the way for a coalition between SPD, The Greens and the Danish minority's SSW. ](/news/2012/05/6/voters-in-schleswig-holstein-go-to-the-polls-for-a-state-election-with-the-governing-coalition-of-cdu-and-fdp-losing-their-majority-paving.md)
-_Context: Christian Democratic Union, SSW, state election, FDP, Danish minority's, Schleswig-Holstein, Greens, SPD_
+_Context: Social Democratic Party of Germany, Danish minority's, Christian Democratic Union, SSW, state election, Schleswig-Holstein, FDP, Greens_
 
 ## [Previous Day...](/news/2012/05/5/index.md)
 

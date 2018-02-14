@@ -13,7 +13,7 @@ Drugstore operator Rite Aid Corp (RAD.N) agreed to buy pharmacy benefit manager 
 
 ##### Cypriot
 ### [The Greek Coast Guard rescues all 22 crewmen from a Cyprus-flagged vessel "Good Faith" that ran aground on the Greek island of Andros during a storm in the Aegean Sea. ](/news/2015/02/11/the-greek-coast-guard-rescues-all-22-crewmen-from-a-cyprus-flagged-vessel-good-faith-that-ran-aground-on-the-greek-island-of-andros-during.md)
-_Context: Andros, Greek, Cypriot, Aegean Sea_
+_Context: Aegean Sea, Greek, Andros, Cypriot_
 
 ##### Yeongjong Bridge
 ### [A 106-car pileup occurs on Yeongjong Bridge in Incheon, South Korea, leaving two men dead and more than 65 people injured. ](/news/2015/02/11/a-106-car-pileup-occurs-on-yeongjong-bridge-in-incheon-south-korea-leaving-two-men-dead-and-more-than-65-people-injured.md)
@@ -25,15 +25,15 @@ Costa Concordia captain Francesco Schettino is jailed for 16 years for the mansl
 
 ##### Yemeni Crisis (2011-present)
 ### [The United States, United Kingdom, and France close their Yemeni embassies and evacuate their staff due to terrorist activities and continued unrest. ](/news/2015/02/11/the-united-states-united-kingdom-and-france-close-their-yemeni-embassies-and-evacuate-their-staff-due-to-terrorist-activities-and-continue.md)
-_Context: France, Yemeni Crisis (2011-present), U.S., Yemen, United Kingdom_
+_Context: Yemen, U.S., United Kingdom, France, Yemeni Crisis (2011-present)_
 
 ##### General Secretary of the Communist Party of China
 ### [General Secretary of the Central Committee of the Communist Party of China Xi Jinping will make his first state visit to the United States next September. ](/news/2015/02/11/general-secretary-of-the-central-committee-of-the-communist-party-of-china-xi-jinping-will-make-his-first-state-visit-to-the-united-states-n.md)
-_Context: Central Committee, Xi Jinping, General Secretary of the Communist Party of China, U.S., Communist Party of China_
+_Context: General Secretary of the Communist Party of China, U.S., Central Committee, Communist Party of China, Xi Jinping_
 
 ##### War in Donbass
 ### [Leaders from Germany, France, Russia and Ukraine meet in the Belarusian capital Minsk for peace talks. ](/news/2015/02/11/leaders-from-germany-france-russia-and-ukraine-meet-in-the-belarusian-capital-minsk-for-peace-talks.md)
-_Context: Belarus, German, Ukraine, France, War in Donbass, Russia, Minsk_
+_Context: German, Belarus, Russia, Ukraine, War in Donbass, Minsk, France_
 
 ##### Killing a Muslim family of three
 ### [Police arrest a suspected shooter Craig Stephen Hicks for killing a Muslim family of three in Chapel Hill, North Carolina. Police state that the shooting was motivated by a long-standing neighbor dispute over parking. ](/news/2015/02/11/police-arrest-a-suspected-shooter-craig-stephen-hicks-for-killing-a-muslim-family-of-three-in-chapel-hill-north-carolina-police-state-that.md)
@@ -45,7 +45,7 @@ A man in his 60s dies after being shot outside a Catholic church in County Ferma
 
 ##### SpaceX
 ### [SpaceX launches a weather observation satellite, Deep Space Climate Observatory, at 6:03 p.m. EST from Cape Canaveral, Florida (for the US Air Force-NASA-NOAA), but postpones making of a second attempt to land a Falcon 9 v1.1 rocket on a floating platform called the autonomous spaceport drone ship, following the January 10 failure during the SpaceX CRS-5 mission. SpaceX instead, attempts a "mock" soft-landing into the Atlantic ocean ](/news/2015/02/11/spacex-launches-a-weather-observation-satellite-deep-space-climate-observatory-at-6-03-p-m-est-from-cape-canaveral-florida-for-the-us-a.md)
-_Context: floating platform, Eastern Time Zone, NASA, Deep Space Climate Observatory, U.S.  National Oceanic and Atmospheric Administration, the state, Cape Canaveral Air Force Station, SpaceX, Falcon 9 v1.1, attempt to land, SpaceX CRS-5, autonomous spaceport drone ship, United States Air Force_
+_Context: SpaceX CRS-5, attempt to land, autonomous spaceport drone ship, Eastern Time Zone, Deep Space Climate Observatory, SpaceX, United States Air Force, Falcon 9 v1.1, Cape Canaveral Air Force Station, U.S.  National Oceanic and Atmospheric Administration, floating platform, NASA, the state_
 
 ## [Previous Day...](/news/2015/02/10/index.md)
 

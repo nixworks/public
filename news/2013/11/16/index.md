@@ -29,7 +29,7 @@ The British government will give an extra £30m in emergency aid - a total of £
 
 ##### San Diego
 ### [A San Diego, California family of four, who disappeared in 2010, is found buried in the desert; local authorities are now treating the case as multiple homicides. ](/news/2013/11/16/a-san-diego-california-family-of-four-who-disappeared-in-2010-is-found-buried-in-the-desert-local-authorities-are-now-treating-the-case.md)
-_Context: California, San Diego_
+_Context: San Diego, California_
 
 ##### Brazilian Federal Police
 ### [The Brazilian Federal Police officially asks the Interpol to search and arrest in Italy the former Banco do Brasil marketing director chief, the italian Henrique Pizzolato, who has allegedly fled following a Supreme Federal Court order to arrest him for bribery, amongst others involved. ](/news/2013/11/16/the-brazilian-federal-police-officially-asks-the-interpol-to-search-and-arrest-in-italy-the-former-banco-do-brasil-marketing-director-chief.md)

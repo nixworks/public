@@ -13,11 +13,11 @@ Fifteen people are killed as five attackers, including at least three suicide bo
 
 ##### Antitrust
 ### [The antitrust chief of the European Union, Joaquin Almunia, discusses coming charges against Gazprom, the Russian natural gas monopolist. ](/news/2013/10/3/the-antitrust-chief-of-the-european-union-joaquin-almunia-discusses-coming-charges-against-gazprom-the-russian-natural-gas-monopolist.md)
-_Context: antitrust, Russia, European Union, Joaquin Almunia, Gazprom_
+_Context: European Union, Russia, antitrust, Gazprom, Joaquin Almunia_
 
 ##### Twitter Inc.
 ### [Twitter Inc. publicly files IPO related disclosure documents. ](/news/2013/10/3/twitter-inc-publicly-files-ipo-related-disclosure-documents.md)
-_Context: IPO, Twitter Inc._
+_Context: Twitter Inc., IPO_
 
 ##### The Gambia
 ### [The Gambia is to withdraw from the Commonwealth, 48 years after joining the 54-member grouping, which includes the United Kingdom and most of its former colonies. ](/news/2013/10/3/the-gambia-is-to-withdraw-from-the-commonwealth-48-years-after-joining-the-54-member-grouping-which-includes-the-united-kingdom-and-most-o.md)
@@ -33,11 +33,11 @@ The deaths of at least 111 people again underscored the dangerous, desperate eff
 
 ##### Murtala Muhammed International Airport
 ### [A passenger plane carrying 27 people crashes at the Murtala Muhammed International Airport in Lagos, Nigeria, with 13 deaths reported. ](/news/2013/10/3/a-passenger-plane-carrying-27-people-crashes-at-the-murtala-muhammed-international-airport-in-lagos-nigeria-with-13-deaths-reported.md)
-_Context: Lagos, Murtala Muhammed International Airport, Nigeria_
+_Context: Lagos, Nigeria, Murtala Muhammed International Airport_
 
 ##### Lalu Prasad Yadav
 ### [Indian politician Lalu Prasad Yadav is sentenced to 5 years imprisonment for illegally taking money out of the Chaibasa treasury. ](/news/2013/10/3/indian-politician-lalu-prasad-yadav-is-sentenced-to-5-years-imprisonment-for-illegally-taking-money-out-of-the-chaibasa-treasury.md)
-_Context: Lalu Prasad Yadav, Chaibasa_
+_Context: Chaibasa, Lalu Prasad Yadav_
 
 ##### Fatally shot
 ### [A woman is fatally shot by police after striking a barrier at a White House security checkpoint followed by a car chase. ](/news/2013/10/3/a-woman-is-fatally-shot-by-police-after-striking-a-barrier-at-a-white-house-security-checkpoint-followed-by-a-car-chase.md)

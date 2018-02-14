@@ -5,7 +5,7 @@ Formats: [HTML](2013/09/21/index.html)  [JSON](2013/09/21/index.json)  [XML](201
 
 ##### Zamboanga City crisis
 ### [Zamboanga City crisis: Six people die in the Philippines city of Zamboanga as fighting continues between the Army and Moro National Liberation Front insurgents. ](/news/2013/09/21/zamboanga-city-crisis-six-people-die-in-the-philippines-city-of-zamboanga-as-fighting-continues-between-the-army-and-moro-national-liberati.md)
-_Context: Zamboanga City crisis, Philippines, Moro National Liberation Front, army, Zamboanga City_
+_Context: Philippines, army, Moro National Liberation Front, Zamboanga City crisis, Zamboanga City_
 
 ##### Series of attacks
 ### [Over 100 people are killed in a series of attacks across Iraq, most of them in a twin suicide bombing at a Shiite funeral in Baghdad's Sadr City neighborhood. ](/news/2013/09/21/over-100-people-are-killed-in-a-series-of-attacks-across-iraq-most-of-them-in-a-twin-suicide-bombing-at-a-shiite-funeral-in-baghdad-s-sadr.md)
@@ -17,11 +17,11 @@ At least 39 people have been killed after gunmen burst into a shopping centre in
 
 ##### Exxon Mobil
 ### [Exxon Mobil, BP and BG decline to take part in the upcoming international bidding for rights to explore Brazil's deep-water Libra oil field, one of the largest pre-salt fields yet to be explored in that country. ](/news/2013/09/21/exxon-mobil-bp-and-bg-decline-to-take-part-in-the-upcoming-international-bidding-for-rights-to-explore-brazil-s-deep-water-libra-oil-field.md)
-_Context: Libra oil field, BG Group, BP, Exxon Mobil, Brazil, pre-salt_
+_Context: Brazil, BP, pre-salt, Libra oil field, Exxon Mobil, BG Group_
 
 ##### Typhoon Usagi
 ### [Typhoon Usagi hits the northern Philippines causing flooding and landslides and disrupting transport, communications and power supplies. ](/news/2013/09/21/typhoon-usagi-hits-the-northern-philippines-causing-flooding-and-landslides-and-disrupting-transport-communications-and-power-supplies.md)
-_Context: Typhoon Usagi, Philippines_
+_Context: Philippines, Typhoon Usagi_
 
 ##### Pakistan
 ### [Pakistan frees Mullah Abdul Ghani Baradar, a cofounder of the Taliban in Afghanistan. ](/news/2013/09/21/pakistan-frees-mullah-abdul-ghani-baradar-a-cofounder-of-the-taliban-in-afghanistan.md)
@@ -33,7 +33,7 @@ The international chemical weapons watchdog says it has received &quot;the expec
 
 ##### India
 ### [Police in the Indian city of Mumbai charge several people in connection with a cricket match fixing scandal, including umpire Asad Rauf, former Chennai Super Kings principal Gurunath Meiyappan, Bollywood actor Vindoo Dara Singh and 15 bookies. ](/news/2013/09/21/police-in-the-indian-city-of-mumbai-charge-several-people-in-connection-with-a-cricket-match-fixing-scandal-including-umpire-asad-rauf-for.md)
-_Context: Chennai Super Kings, Asad Rauf, Mumbai, India, Bollywood_
+_Context: Bollywood, India, Asad Rauf, Mumbai, Chennai Super Kings_
 
 ##### Sri Lanka
 ### [Voters in Sri Lanka go to the polls for provincial elections with the Tamil National Alliance doing well in the north. ](/news/2013/09/21/voters-in-sri-lanka-go-to-the-polls-for-provincial-elections-with-the-tamil-national-alliance-doing-well-in-the-north.md)

@@ -9,7 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Pope Benedict XVI
 ### [ Pope Benedict XVI prepares to enact new rules restricting homosexual men from entering the seminary, claiming that the action will help to curb the Roman Catholic Church sex abuse scandal. In response, Gene Robinson, the first openly gay U.S. ordained Episcopalian bishop, calls it "an act of violence that needs to be confronted." ](/news/2005/11/5/pope-benedict-xvi-prepares-to-enact-new-rules-restricting-homosexual-men-from-entering-the-seminary-claiming-that-the-action-will-help-to.md)
-_Context: Gene Robinson, U.S., Anglican, Pope Benedict XVI, Roman Catholic Church sex abuse scandal, homosexuality_
+_Context: Gene Robinson, Anglican, Pope Benedict XVI, homosexuality, Roman Catholic Church sex abuse scandal, U.S._
 
 ## [Previous Day...](/news/2005/11/4/index.md)
 

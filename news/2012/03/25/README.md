@@ -5,7 +5,7 @@ Formats: [HTML](2012/03/25/index.html)  [JSON](2012/03/25/index.json)  [XML](201
 
 ##### Syria
 ### [At least 48 people are reported killed across Syria as US President Barack Obama and Turkish Prime Minister Erdogan hold talks about a process for transitioning to a "legitimate government". ](/news/2012/03/25/at-least-48-people-are-reported-killed-across-syria-as-us-president-barack-obama-and-turkish-prime-minister-erdoaan-hold-talks-about-a-proc.md)
-_Context: Syria, Barack Obama, US President, Recep Tayyip Erdogan, Turkish Prime Minister_
+_Context: Recep Tayyip Erdogan, Barack Obama, Syria, Turkish Prime Minister, US President_
 
 ##### Tuareg Rebellion
 ### [2012 insurgency in northern Mali: Tuareg insurgents close in on multiple northern towns where they say they will apply Islamic sharia law. ](/news/2012/03/25/2012-insurgency-in-northern-mali-tuareg-insurgents-close-in-on-multiple-northern-towns-where-they-say-they-will-apply-islamic-sharia-law.md)
@@ -17,11 +17,11 @@ _Context: Afghanistan, NATO, Kandahar Province_
 
 ##### Kandahar massacre
 ### [Kandahar massacre: The United States pays the Afghanistan government $50,000 for every person murdered during the Kandahar massacre. ](/news/2012/03/25/kandahar-massacre-the-united-states-pays-the-afghanistan-government-50-000-for-every-person-murdered-during-the-kandahar-massacre.md)
-_Context: Afghanistan, U.S., Kandahar massacre, Kandahar_
+_Context: Afghanistan, Kandahar massacre, U.S., Kandahar_
 
 ##### Kofi Annan
 ### [Kofi Annan and a special UN peace envoy meet with President of Russia Dmitry Medvedev to discuss adopting a harder stance on Syria and Bashar al-Assad. ](/news/2012/03/25/kofi-annan-and-a-special-un-peace-envoy-meet-with-president-of-russia-dmitry-medvedev-to-discuss-adopting-a-harder-stance-on-syria-and-basha.md)
-_Context: Bashar al-Assad, Dmitry Medvedev, Kofi Annan, UN, Syria, Russian President_
+_Context: UN, Russian President, Kofi Annan, Bashar al-Assad, Dmitry Medvedev, Syria_
 
 ##### Barack Obama
 ### [Barack Obama, the President of the United States, begins a three day visit to South Korea amidst rising tension in North Asia about proposed missile tests by North Korea. ](/news/2012/03/25/barack-obama-the-president-of-the-united-states-begins-a-three-day-visit-to-south-korea-amidst-rising-tension-in-north-asia-about-proposed.md)
@@ -49,7 +49,7 @@ Leung Chun-ying, a former property surveyor, pledged to address Hong Kong’s we
 
 ##### Senegal
 ### [Voters in Senegal go to the polls for a runoff in the presidential election with reports indicating that challenger Macky Sall has defeated incumbent Abdoulaye Wade. ](/news/2012/03/25/voters-in-senegal-go-to-the-polls-for-a-runoff-in-the-presidential-election-with-reports-indicating-that-challenger-macky-sall-has-defeated.md)
-_Context: Abdoulaye Wade, Macky Sall, Senegal, elected_
+_Context: elected, Senegal, Macky Sall, Abdoulaye Wade_
 
 ## [Previous Day...](/news/2012/03/24/index.md)
 

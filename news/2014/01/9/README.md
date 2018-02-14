@@ -13,7 +13,7 @@ _Context: Iraq, Baghdad_
 
 ##### Aitizaz Hassan
 ### [14-year-old boy Aitizaz Hassan in northern Pakistan is killed stopping a suicide bomber at the main gate of his school but saves the lives of all of his schoolmates gathered for their morning assembly. The Sunni group Lashkar-e-Jhangvi claims responsibility for the attack. ](/news/2014/01/9/14-year-old-boy-aitizaz-hassan-in-northern-pakistan-is-killed-stopping-a-suicide-bomber-at-the-main-gate-of-his-school-but-saves-the-lives-o.md)
-_Context: suicide bomber, War in North-West Pakistan, Lashkar-e-Jhangvi, Aitizaz Hassan_
+_Context: Aitizaz Hassan, War in North-West Pakistan, Lashkar-e-Jhangvi, suicide bomber_
 
 ##### Afghan government
 ### [The government of Afghanistan announces the release of 72 Taliban fighters from jails, despite American objections that they pose a security threat. ](/news/2014/01/9/the-government-of-afghanistan-announces-the-release-of-72-taliban-fighters-from-jails-despite-american-objections-that-they-pose-a-security.md)
@@ -29,7 +29,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### West Virginia
 ### [West Virginia Governor Earl Ray Tomblin declares a state of emergency for 100,000 West Virginia American Water customers in five counties (Boone, Lincoln, Kanawha, Jackson, and Putnam) because of a spill of 4-methylcyclohexanemethanol into the Elk River. ](/news/2014/01/9/west-virginia-governor-earl-ray-tomblin-declares-a-state-of-emergency-for-100-000-west-virginia-american-water-customers-in-five-counties-b.md)
-_Context: Elk River, West Virginia, West Virginia American Water, a spill of 4-methylcyclohexanemethanol, Earl Ray Tomblin_
+_Context: West Virginia, West Virginia American Water, a spill of 4-methylcyclohexanemethanol, Earl Ray Tomblin, Elk River_
 
 ##### New Jersey Governor
 ### [New Jersey Governor Chris Christie is sued for his role on "Bridgegate". ](/news/2014/01/9/new-jersey-governor-chris-christie-is-sued-for-his-role-on-bridgegate.md)
@@ -45,7 +45,7 @@ Venezuela says farewell to slain beauty queen
 
 ##### Insane Clown Posse
 ### [Insane Clown Posse sues the Federal Bureau of Investigation for accusing its fangroup, the Juggalos, of being a gang. ](/news/2014/01/9/insane-clown-posse-sues-the-federal-bureau-of-investigation-for-accusing-its-fangroup-the-juggalos-of-being-a-gang.md)
-_Context: FBI, Insane Clown Posse, Juggalo, gang_
+_Context: Juggalo, gang, Insane Clown Posse, FBI_
 
 ##### Prime Minister of Tunisia
 ### [Prime Minister of Tunisia Ali Larayedh steps down following renewed protests, paving the way for new elections, in accordance with an agreement between his Islamist Ennahda party, and secular opposition parties. ](/news/2014/01/9/prime-minister-of-tunisia-ali-larayedh-steps-down-following-renewed-protests-paving-the-way-for-new-elections-in-accordance-with-an-agreem.md)
@@ -65,7 +65,7 @@ _Context: Sinabung, Indonesia_
 
 ##### Magnitude earthquake
 ### [A 5.1 magnitude earthquake occurs in the Straits of Florida about 112 miles east of Havana, Cuba, swaying medium rise buildings in city. ](/news/2014/01/9/a-5-1-magnitude-earthquake-occurs-in-the-straits-of-florida-about-112-miles-east-of-havana-cuba-swaying-medium-rise-buildings-in-city.md)
-_Context: Havana, magnitude earthquake, Straits of Florida, Cuba_
+_Context: Cuba, magnitude earthquake, Straits of Florida, Havana_
 
 ##### Conjoined twin
 ### [The first conjoined twin gray whales are found in Mexico. ](/news/2014/01/9/the-first-conjoined-twin-gray-whales-are-found-in-mexico.md)

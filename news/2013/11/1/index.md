@@ -13,11 +13,11 @@ The leader of the Pakistani Taliban, Hakimullah Mehsud, has been killed in a dro
 
 ##### China
 ### [China's top security official blames the East Turkestan Islamic Movement for a suicide attack that killed five people at the Tiananmen Gate in Beijing on Monday. ](/news/2013/11/1/china-s-top-security-official-blames-the-east-turkestan-islamic-movement-for-a-suicide-attack-that-killed-five-people-at-the-tiananmen-gate.md)
-_Context: China, East Turkestan Islamic Movement, Tiananmen Gate, Beijing_
+_Context: Beijing, Tiananmen Gate, China, East Turkestan Islamic Movement_
 
 ##### Fannie Mae
 ### [Fannie Mae files a lawsuit for $800 million against nine different banks, including Citigroup and Bank of America, for manipulating the Libor benchmark interest rate. ](/news/2013/11/1/fannie-mae-files-a-lawsuit-for-800-million-against-nine-different-banks-including-citigroup-and-bank-of-america-for-manipulating-the-libo.md)
-_Context: Citigroup, Fannie Mae, Bank of America, Libor, United States dollars, Libor scandal_
+_Context: Libor scandal, United States dollars, Libor, Citigroup, Fannie Mae, Bank of America_
 
 ##### Flash flood
 ### [Flash floods and heavy rains sweep across central Texas, United States, killing 2 people. ](/news/2013/11/1/flash-floods-and-heavy-rains-sweep-across-central-texas-united-states-killing-2-people.md)
@@ -29,11 +29,11 @@ A gunman with an assault rifle opened fire in a crowded terminal at Los Angeles 
 
 ##### Golden Dawn
 ### [Two people, members of the far-right Greek political party Golden Dawn, are killed in a drive-by shooting, outside the offices of Golden Dawn in Neo Iraklio, Athens. ](/news/2013/11/1/two-people-members-of-the-far-right-greek-political-party-golden-dawn-are-killed-in-a-drive-by-shooting-outside-the-offices-of-golden-daw.md)
-_Context: Athens, Neo Iraklio, drive-by shooting, Golden Dawn_
+_Context: drive-by shooting, Golden Dawn, Neo Iraklio, Athens_
 
 ##### Antechinus
 ### [Scientists discover three new species of marsupial Antechinus in Queensland, Australia. ](/news/2013/11/1/scientists-discover-three-new-species-of-marsupial-antechinus-in-queensland-australia.md)
-_Context: Antechinus, Queensland, Australia_
+_Context: Australia, Antechinus, Queensland_
 
 ##### Hacker group Anonymous
 ### [A person claiming to be a member of Anonymous takes down the website for Singaporean newspaper "The Straits Times". ](/news/2013/11/1/a-person-claiming-to-be-a-member-of-anonymous-takes-down-the-website-for-singaporean-newspaper-the-straits-times.md)

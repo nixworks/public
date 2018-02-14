@@ -29,7 +29,7 @@ Agency will bar men who have had sex with another man in the previous year from 
 
 ##### Armenia-Russia relations
 ### [Russia reinforces the joint Armenian-Russian run Erebuni Airport, home to the Russian 3624th Air Base, with six attack and transport helicopters. The Russian Defence Ministry said the Mi-24 and Mi-8 helicopters had been transferred from a military base in the southern Russian region of Krasnodar Krai to the air base in Erebuni, Armenia. ](/news/2015/12/21/russia-reinforces-the-joint-armenian-russian-run-erebuni-airport-home-to-the-russian-3624th-air-base-with-six-attack-and-transport-helicop.md)
-_Context: Russian Air Force, Armenia-Russia relations, Mi-8, Armenia, Ministry of Defence, Armenian, Erebuni Airport, Russia, Mi-24, Krasnodar region_
+_Context: Erebuni Airport, Armenia-Russia relations, Armenian, Krasnodar region, Ministry of Defence, Mi-8, Mi-24, Russian Air Force, Armenia, Russia_
 
 ##### War in Donbass
 ### [The European Union extends Russian sanctions for interference in Ukraine another six months, until 31 July 2016. The EU says it's extending the sanctions because the Minsk peace accords would not be fully implemented by the end of this year. ](/news/2015/12/21/the-european-union-extends-russian-sanctions-for-interference-in-ukraine-another-six-months-until-31-july-2016-the-eu-says-it-s-extending.md)
@@ -37,7 +37,7 @@ The European Union renewed economic sanctions on Russia for another six months a
 
 ##### Slovenian same-sex marriage referendum, 2015
 ### [Slovenian voters reject a bill legalizing same-sex marriage in the country with only 36% of registered voters supporting it, while over 63% of voters voted against the bill. ](/news/2015/12/21/slovenian-voters-reject-a-bill-legalizing-same-sex-marriage-in-the-country-with-only-36-of-registered-voters-supporting-it-while-over-63.md)
-_Context: Slovenia, Slovenian same-sex marriage referendum, 2015, bill legalizing same-sex marriage in the country_
+_Context: Slovenia, bill legalizing same-sex marriage in the country, Slovenian same-sex marriage referendum, 2015_
 
 ##### Election
 ### [In Sunday's elections, Spain's center-right ruling People's Party (PP) wins 123 seats (35.1%), and the center-left Socialist Workers' Party (PSOE) takes 90 (25.7%) of the 350 seats in parliament, thereby ending Spain's two-party system since neither major party won an absolute majority. Turnout was 73 percent. Spain's new political forces, Podemos and Ciudadanos (C's), get 69 and 40 seats, respectively. Smaller parties split the remaining 28 seats, 17 to Catalonia parties which favor secession. It appears that a coalition government will be necessary. PSOE has declined to join the PP, which actually doesn't want that either. King Felipe, who ascended the throne in June 2014, is constitutionally empowered to mediate. ](/news/2015/12/21/in-sunday-s-elections-spain-s-center-right-ruling-people-s-party-pp-wins-123-seats-35-1-and-the-center-left-socialist-workers-party.md)
@@ -45,7 +45,7 @@ Political fragmentation will lead to either a fragile government or an early ret
 
 ##### 2016 U.S. presidential election
 ### [South Carolina Senator Lindsey Graham ends his campaign for the Republican Party nomination for President. During his campaign he has failed to poll above single digits nationally or in the early voting states. ](/news/2015/12/21/south-carolina-senator-lindsey-graham-ends-his-campaign-for-the-republican-party-nomination-for-president-during-his-campaign-he-has-failed.md)
-_Context: Republican Party presidential candidates, 2016, South Carolina, Republican, 2016 U.S. presidential election, United States Senate, U.S. President, Lindsey Graham_
+_Context: South Carolina, Republican, United States Senate, Republican Party presidential candidates, 2016, U.S. President, 2016 U.S. presidential election, Lindsey Graham_
 
 ##### Israel
 ### [Israeli Vice Prime Minister Silvan Shalom (Likud party) resigns because of allegations he sexually harassed several women during his career. Israel's attorney general has started an investigation of Shalom, who also resigned his Interior Minister position and Knesset seat. ](/news/2015/12/21/israeli-vice-prime-minister-silvan-shalom-likud-party-resigns-because-of-allegations-he-sexually-harassed-several-women-during-his-career.md)
@@ -53,7 +53,7 @@ Israeli Interior Minister Silvan Shalom, the subject of sexual harassment allega
 
 ##### Future Iraqi Kurdistan independence referendum
 ### [President Massoud Barzani of Iraqi Kurdistan instructs senior party officials to work on preparations for holding a referendum to decide whether to secede from Iraq, a long-standing Kurdish aspiration. ](/news/2015/12/21/president-massoud-barzani-of-iraqi-kurdistan-instructs-senior-party-officials-to-work-on-preparations-for-holding-a-referendum-to-decide-whe.md)
-_Context: Future Iraqi Kurdistan independence referendum, Massoud Barzani, Kurdish_
+_Context: Massoud Barzani, Kurdish, Future Iraqi Kurdistan independence referendum_
 
 ## [Previous Day...](/news/2015/12/20/index.md)
 

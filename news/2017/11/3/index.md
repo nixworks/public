@@ -5,7 +5,7 @@ Formats: [HTML](2017/11/3/index.html)  [JSON](2017/11/3/index.json)  [XML](2017/
 
 ##### Syrian Civil War
 ### [The Syrian Army (SAA) and allies announce the complete liberation of Deir ez-Zor from ISIL. ](/news/2017/11/3/the-syrian-army-saa-and-allies-announce-the-complete-liberation-of-deir-ez-zor-from-isil.md)
-_Context: Syrian Army, ISIL, Siege of Deir ez-Zor (2014-17), Syrian Civil War, complete liberation, Deir ez-Zor_
+_Context: Syrian Civil War, Siege of Deir ez-Zor (2014-17), Syrian Army, complete liberation, ISIL, Deir ez-Zor_
 
 ##### Iraqi Civil War (2014-present)
 ### [The Iraqi Armed Forces enter the town of Al-Qa'im, close to the border with Syria. Al-Qa'im is one of the last towns in Iraq still held by ISIL. ](/news/2017/11/3/the-iraqi-armed-forces-enter-the-town-of-al-qa-im-close-to-the-border-with-syria-al-qa-im-is-one-of-the-last-towns-in-iraq-still-held-by-i.md)
@@ -33,11 +33,11 @@ The sentence ends an eight-year drama that began in 2009 in Afghanistan. He is d
 
 ##### Human rights in Zimbabwe
 ### [Zimbabwe accuses American citizen Martha O'Donovan of trying to overthrow the regime of Robert Mugabe. ](/news/2017/11/3/zimbabwe-accuses-american-citizen-martha-o-donovan-of-trying-to-overthrow-the-regime-of-robert-mugabe.md)
-_Context: Zimbabwe, U.S., Human rights in Zimbabwe, Robert Mugabe_
+_Context: Zimbabwe, Human rights in Zimbabwe, U.S., Robert Mugabe_
 
 ##### Climate change
 ### [A significant U.S. federal government study finds "no convincing alternative explanation" for the changing climate other than "human activities, especially emissions of greenhouse gases." ](/news/2017/11/3/a-significant-u-s-federal-government-study-finds-no-convincing-alternative-explanation-for-the-changing-climate-other-than-human-activit.md)
-_Context: U.S. federal government, Climate change, human activities, greenhouse gases_
+_Context: human activities, U.S. federal government, greenhouse gases, Climate change_
 
 ## [Previous Day...](/news/2017/11/2/index.md)
 

@@ -25,7 +25,7 @@ Christian pilgrims crowd the cobblestone alleyways of Jerusalem&#039;s Old City 
 
 ##### San Fernando
 ### [24 Filipinos are nailed to crosses in to San Fernando, near Manila, though celebrations are cancelled in Syria due to ongoing incidents there. ](/news/2011/04/22/24-filipinos-are-nailed-to-crosses-in-to-san-fernando-near-manila-though-celebrations-are-cancelled-in-syria-due-to-ongoing-incidents-ther.md)
-_Context: protestors, San Fernando, Manila_
+_Context: protestors, Manila, San Fernando_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI becomes the first pontiff to take part in a televised question-and-answer session, a pre-recorded programme for Italian television. ](/news/2011/04/22/pope-benedict-xvi-becomes-the-first-pontiff-to-take-part-in-a-televised-question-and-answer-session-a-pre-recorded-programme-for-italian-te.md)
@@ -45,11 +45,11 @@ Children in Somalia are suffering some of the highest malnutrition rates in the 
 
 ##### Japan
 ### [Japan's government announces a 4 trillion yen emergency budget to deal with the earthquake and tsunami that devastated the country last month. ](/news/2011/04/22/japan-s-government-announces-a-4-trillion-yen-emergency-budget-to-deal-with-the-earthquake-and-tsunami-that-devastated-the-country-last-mont.md)
-_Context: 2011 Tohoku earthquake and tsunami, Japan, yen_
+_Context: Japan, yen, 2011 Tohoku earthquake and tsunami_
 
 ##### Schengen Agreement
 ### [France calls for changes to the Schengen Agreement after Italy allows people from Tunisia and Libya into the passport-free Schengen Area. ](/news/2011/04/22/france-calls-for-changes-to-the-schengen-agreement-after-italy-allows-people-from-tunisia-and-libya-into-the-passport-free-schengen-area.md)
-_Context: free travel, Tunisia, Libya, Schengen Agreement_
+_Context: Libya, Tunisia, free travel, Schengen Agreement_
 
 ##### Google
 ### [New research reveals Apple and Google are running their iPhone and Android software to build gigantic databases from owners' movements as governments move to investigate. ](/news/2011/04/22/new-research-reveals-apple-and-google-are-running-their-iphone-and-android-software-to-build-gigantic-databases-from-owners-movements-as-go.md)

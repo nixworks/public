@@ -13,11 +13,11 @@ Saudi-owned al-Arabiya television said Saudi Arabia had deployed 30,000 soldiers
 
 ##### Global surveillance disclosures
 ### [A 31-year-old male employee of Germany's intelligence service BND is arrested on suspicions of spying for the United States. The employee is suspected of spying on a German parliamentary committee investigating U.S. espionage. ](/news/2014/07/3/a-31-year-old-male-employee-of-germany-s-intelligence-service-bnd-is-arrested-on-suspicions-of-spying-for-the-united-states-the-employee-is.md)
-_Context: Germany-United States relations, German, Global surveillance disclosures, German intelligence, espionage_
+_Context: Global surveillance disclosures, German intelligence, Germany-United States relations, German, espionage_
 
 ##### Tonga
 ### [The government of Tonga reveals a proposal to trade the disputed Minerva Reefs to Fiji in exchange for the Lau Islands, in an effort to settle a decades old territorial dispute between the two Pacific countries. ](/news/2014/07/3/the-government-of-tonga-reveals-a-proposal-to-trade-the-disputed-minerva-reefs-to-fiji-in-exchange-for-the-lau-islands-in-an-effort-to-sett.md)
-_Context: Lau Islands, Tonga, Fiji, disputed, Minerva Reefs_
+_Context: Fiji, Minerva Reefs, Lau Islands, disputed, Tonga_
 
 ##### Japan
 ### [The government of Japan lifts some sanctions on North Korea following an agreement to re-investigate the fate of Japanese nationals abducted by North Korean agents in the 1970s and 1980s. ](/news/2014/07/3/the-government-of-japan-lifts-some-sanctions-on-north-korea-following-an-agreement-to-re-investigate-the-fate-of-japanese-nationals-abducted.md)
@@ -29,7 +29,7 @@ Japanese Prime Minister Shinzo Abe announced the decision Thursday but provided 
 
 ##### Russia
 ### [Russia starts limiting its import of meat from Moldova as a reaction to the European Union Association Agreement signed on 27 June. ](/news/2014/07/3/russia-starts-limiting-its-import-of-meat-from-moldova-as-a-reaction-to-the-european-union-association-agreement-signed-on-27-june.md)
-_Context: Moldova, Association Agreement, Russia_
+_Context: Russia, Moldova, Association Agreement_
 
 ##### Valeriy Heletey
 ### [Valeriy Heletey takes office as the third Defense Minister of Ukraine after the 2014 Ukrainian revolution, replacing Mykhailo Koval ](/news/2014/07/3/valeriy-heletey-takes-office-as-the-third-defense-minister-of-ukraine-after-the-2014-ukrainian-revolution-replacing-mykhailo-koval.md)
@@ -37,7 +37,7 @@ The Ukrainian Verkhovna Rada has appointed Valeriy Heletei defense minister of U
 
 ##### German parliament
 ### [The German parliament approves the country's first minimum wage which will be set at 8,50 euros per hour from 2015. ](/news/2014/07/3/the-german-parliament-approves-the-country-s-first-minimum-wage-which-will-be-set-at-8-50-euros-per-hour-from-2015.md)
-_Context: German parliament, 2015, minimum wage_
+_Context: minimum wage, 2015, German parliament_
 
 ## [Previous Day...](/news/2014/07/2/index.md)
 

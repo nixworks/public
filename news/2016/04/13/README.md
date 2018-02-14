@@ -5,7 +5,7 @@ Formats: [HTML](2016/04/13/index.html)  [JSON](2016/04/13/index.json)  [XML](201
 
 ##### War in Donbass
 ### [The Ukrainian Army says eight of its soldiers were wounded in fighting against Russian-backed separatists in the east of the country during the previous 24 hours. A military spokesman said there had been 29 shelling incidents around Mariupol. ](/news/2016/04/13/the-ukrainian-army-says-eight-of-its-soldiers-were-wounded-in-fighting-against-russian-backed-separatists-in-the-east-of-the-country-during.md)
-_Context: Ukraine, War in Donbass, Ukrainian Army, Russia, Donetsk People's Republic, Mariupol_
+_Context: War in Donbass, Donetsk People's Republic, Mariupol, Ukrainian Army, Russia, Ukraine_
 
 ##### Moro Conflict
 ### [ISIL claims responsibility for clashes between militants linked to the group and the Philippine Army that claimed 23 lives. ](/news/2016/04/13/isil-claims-responsibility-for-clashes-between-militants-linked-to-the-group-and-the-philippine-army-that-claimed-23-lives.md)
@@ -29,7 +29,7 @@ About 2.8 million Malawians face food insecurity, making country one of the wors
 
 ##### 2014-16 El Nino event
 ### [Indian officials report, with 24 deaths today, the heatwave in the eastern state of Odisha has killed 135 people. Temperatures of 105.5degF (40.8degC) were recorded yesterday at 19 locations across the state. Meteorologists say the heat, an after-effect of El Nino, has delayed the traditional April rains. ](/news/2016/04/13/indian-officials-report-with-24-deaths-today-the-heatwave-in-the-eastern-state-of-odisha-has-killed-135-people-temperatures-of-105-5adegf.md)
-_Context: El Nino, Odisha, 2014-16 El Nino event, India_
+_Context: India, Odisha, El Nino, 2014-16 El Nino event_
 
 ##### Britten-Norman Islander
 ### [A Britten-Norman Islander light aircraft crashes in the Papua New Guinea town of Kiunga resulting in the deaths of all twelve people on board. ](/news/2016/04/13/a-britten-norman-islander-light-aircraft-crashes-in-the-papua-new-guinea-town-of-kiunga-resulting-in-the-deaths-of-all-twelve-people-on-boar.md)
@@ -53,7 +53,7 @@ Three people arrested in Brussels in connection with the November Paris attacks 
 
 ##### LGBT rights in the United States
 ### [Louisiana Governor John Bel Edwards signs an anti-discrimination order protecting the rights of gay and transgender people that rescinds one his immediate predecessor, Bobby Jindal, signed that sought to limit same-sex marriage rights and the ability of transgender people to choose which public restrooms they may use. ](/news/2016/04/13/louisiana-governor-john-bel-edwards-signs-an-anti-discrimination-order-protecting-the-rights-of-gay-and-transgender-people-that-rescinds-one.md)
-_Context: Bobby Jindal, John Bel Edwards, anti-discrimination, LGBT rights in the United States, Louisiana Governor, gay and transgender people_
+_Context: anti-discrimination, gay and transgender people, Louisiana Governor, John Bel Edwards, Bobby Jindal, LGBT rights in the United States_
 
 ##### South Korean legislative election, 2016
 ### [Voters in South Korea go to the polls for a legislative election with the ruling Saenuri Party losing seats in a surprise setback. ](/news/2016/04/13/voters-in-south-korea-go-to-the-polls-for-a-legislative-election-with-the-ruling-saenuri-party-losing-seats-in-a-surprise-setback.md)

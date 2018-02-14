@@ -5,7 +5,7 @@ Formats: [HTML](2015/12/4/index.html)  [JSON](2015/12/4/index.json)  [XML](2015/
 
 ##### War in Afghanistan (2015-present)
 ### [A mortar attack in Afghanistan's central Wardak province kills at least 12 people. ](/news/2015/12/4/a-mortar-attack-in-afghanistan-s-central-wardak-province-kills-at-least-12-people.md)
-_Context: Wardak province, Afghanistan, Mortar, War in Afghanistan (2015-present)_
+_Context: Mortar, War in Afghanistan (2015-present), Afghanistan, Wardak province_
 
 ##### Military intervention against ISIL
 ### [In an act of solidarity with France following the Paris massacre, Germany's parliament (the Bundestag) approves measures to move past the military's primary defensive role, to send six of its 29 operational, yet aged, Tornado reconnaissance aircraft, and as many as 1,200 soldiers to support the coalition missions against Islamic State militants in Syria. The airplanes will be limited to support activities; they will not fly combat missions. ](/news/2015/12/4/in-an-act-of-solidarity-with-france-following-the-paris-massacre-germany-s-parliament-the-bundestag-approves-measures-to-move-past-the-mi.md)
@@ -21,7 +21,7 @@ A Molotov cocktail hurled at a Cairo restaurant killed 16 people and wounded two
 
 ##### U.S. Court of Appeals for the District of Columbia
 ### [A three-judge panel of the U.S. Court of Appeals for the D.C. Circuit hears arguments about whether the net neutrality rules of the Federal Communications Commission are within the FCC's statutory mandate. ](/news/2015/12/4/a-three-judge-panel-of-the-u-s-court-of-appeals-for-the-d-c-circuit-hears-arguments-about-whether-the-net-neutrality-rules-of-the-federal.md)
-_Context: net neutrality, FCC's, U.S. Court of Appeals for the District of Columbia_
+_Context: FCC's, U.S. Court of Appeals for the District of Columbia, net neutrality_
 
 ##### 2015 South Indian floods
 ### [Many parts of Chennai still remain flooded, including almost all of South Chennai. Food and other basics are in short supply throughout the city. ](/news/2015/12/4/many-parts-of-chennai-still-remain-flooded-including-almost-all-of-south-chennai-food-and-other-basics-are-in-short-supply-throughout-the.md)
@@ -29,7 +29,7 @@ As thousands of residents of Chennai and suburbs were rescued from inundated are
 
 ##### Obama administration
 ### [The Obama Administration and the International Rescue Committee ask a federal judge to reject attempts by Texas to block Syrian refugees from resettling in the state. Later, the Texas Attorney General withdraws the state's December 2, 2015 request for a temporary restraining order. ](/news/2015/12/4/the-obama-administration-and-the-international-rescue-committee-ask-a-federal-judge-to-reject-attempts-by-texas-to-block-syrian-refugees-fro.md)
-_Context: federal judge, Texas Attorney General, Obama administration, refugees from Syria, International Rescue Committee, Texas, temporary restraining order_
+_Context: Texas, Obama administration, International Rescue Committee, Texas Attorney General, federal judge, refugees from Syria, temporary restraining order_
 
 ##### Supreme Court of the United States
 ### [The U.S. Supreme Court agrees to hear an appeal case concerning Puerto Rico's restructuring of debt. ](/news/2015/12/4/the-u-s-supreme-court-agrees-to-hear-an-appeal-case-concerning-puerto-rico-s-restructuring-of-debt.md)
@@ -37,7 +37,7 @@ _Context: Puerto Rico, Supreme Court of the United States_
 
 ##### Shi Taifeng
 ### [Authorities name Shi Taifeng Acting Governor of Jiangsu province in China, replacing Li Xueyong, who retired due to age. ](/news/2015/12/4/authorities-name-shi-taifeng-acting-governor-of-jiangsu-province-in-china-replacing-li-xueyong-who-retired-due-to-age.md)
-_Context: Shi Taifeng, Li Xueyong, Jiangsu_
+_Context: Shi Taifeng, Jiangsu, Li Xueyong_
 
 ## [Previous Day...](/news/2015/12/3/index.md)
 

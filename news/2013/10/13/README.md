@@ -17,7 +17,7 @@ The death toll after a stampede at a Hindu festival in the central Indian state 
 
 ##### Hmong New Year
 ### [Five people are injured during a shooting at a Hmong New Year's celebration in Tulsa, Oklahoma, U.S. Two men, 19 and 21 years old, are arrested. ](/news/2013/10/13/five-people-are-injured-during-a-shooting-at-a-hmong-new-year-s-celebration-in-tulsa-oklahoma-u-s-two-men-19-and-21-years-old-are-arres.md)
-_Context: Tulsa, Oklahoma, Hmong New Year_
+_Context: Hmong New Year, Tulsa, Oklahoma_
 
 ##### 
 ### [Over 380 people are detained after an anti-migrant Russian nationalist riot in southern Moscow. ](/news/2013/10/13/over-380-people-are-detained-after-an-anti-migrant-russian-nationalist-riot-in-southern-moscow.md)

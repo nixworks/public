@@ -17,7 +17,7 @@ A bomb attached to a motorbike exploded near a police station in southwest Istan
 
 ##### Niger
 ### [Unknown assailants attack a refugee camp near the village of Tassalit, in Niger's Tahoua Region, killing at least 22 soldiers. ](/news/2016/10/6/unknown-assailants-attack-a-refugee-camp-near-the-village-of-tassalit-in-niger-s-tahoua-region-killing-at-least-22-soldiers.md)
-_Context: Niger, Nigerien soldiers, Tahoua Region_
+_Context: Niger, Tahoua Region, Nigerien soldiers_
 
 ##### 2016 Atlantic hurricane season
 ### [Hurricane Matthew moves towards the United States with hundreds of thousands of people being evacuated from the states of Florida and South Carolina. ](/news/2016/10/6/hurricane-matthew-moves-towards-the-united-states-with-hundreds-of-thousands-of-people-being-evacuated-from-the-states-of-florida-and-south.md)
@@ -25,7 +25,7 @@ President Barack Obama&rsquo;s declaration, requested by Florida Gov. Rick Scott
 
 ##### Pakistan
 ### [Pakistan's government removes a loophole allowing those behind so-called honor killings to go free with the new legislation instead requiring a mandatory life sentence. ](/news/2016/10/6/pakistan-s-government-removes-a-loophole-allowing-those-behind-so-called-honor-killings-to-go-free-with-the-new-legislation-instead-requirin.md)
-_Context: Pakistan, honor killing_
+_Context: honor killing, Pakistan_
 
 ##### European Parliament
 ### [An altercation with a fellow UKIP MEP inside the European Parliament leaves UK Independence Party, Member of the European Parliament, and current UKIP party leadership favorite Steven Woolfe hospitalized. ](/news/2016/10/6/an-altercation-with-a-fellow-ukip-mep-inside-the-european-parliament-leaves-uk-independence-party-member-of-the-european-parliament-and-cu.md)

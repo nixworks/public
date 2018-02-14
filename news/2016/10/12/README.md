@@ -9,11 +9,11 @@ Turkey-Iraq relations became strained after Ankara sent troops late last year to
 
 ##### War in Afghanistan
 ### [A bomb explosion among crowds of Shiite Muslims gathered to mark Ashura, one of their holiest commemorations, kills at least 12 people and wounds 28 others. Also, authorities revise the death toll to 17 from yesterday's attack on a Kabul Shiite shrine. ](/news/2016/10/12/a-bomb-explosion-among-crowds-of-shiite-muslims-gathered-to-mark-ashura-one-of-their-holiest-commemorations-kills-at-least-12-people-and-w.md)
-_Context: Ashura, Violence against Shia Muslims, Kabul, War in Afghanistan, Shia_
+_Context: War in Afghanistan, Ashura, Kabul, Violence against Shia Muslims, Shia_
 
 ##### Rohingya insurgency in Western Myanmar
 ### [The four-day death toll from fighting in Rakhine State stands at 39, including 13 army and police personnel. ](/news/2016/10/12/the-four-day-death-toll-from-fighting-in-rakhine-state-stands-at-39-including-13-army-and-police-personnel.md)
-_Context: Myanmar Army, police, Rakhine State, Rohingya insurgency in Western Myanmar_
+_Context: Myanmar Army, Rohingya insurgency in Western Myanmar, Rakhine State, police_
 
 ##### U.S.
 ### [American popstar Janet Jackson announces that she is pregnant with her first child at the age of 50. ](/news/2016/10/12/american-popstar-janet-jackson-announces-that-she-is-pregnant-with-her-first-child-at-the-age-of-50.md)
@@ -21,7 +21,7 @@ _Context: U.S., Janet Jackson_
 
 ##### John Stumpf
 ### [John Stumpf resigns as CEO and chairman of Wells Fargo amid a scandal over its sales practices. ](/news/2016/10/12/john-stumpf-resigns-as-ceo-and-chairman-of-wells-fargo-amid-a-scandal-over-its-sales-practices.md)
-_Context: Wells Fargo, John Stumpf_
+_Context: John Stumpf, Wells Fargo_
 
 ##### Concentrix
 ### [The U.S. firm Concentrix, which is used by the British government to cut tax credit payments, suffers a data protection breach where some claimants have had their personal information such as bank statements, self assessment details, and National Insurance numbers sent to other claimants. ](/news/2016/10/12/the-u-s-firm-concentrix-which-is-used-by-the-british-government-to-cut-tax-credit-payments-suffers-a-data-protection-breach-where-some-cl.md)
@@ -29,7 +29,7 @@ Facebook campaign group Concentrix Mums believe around 100 claimants have been s
 
 ##### Foreign relations of Burundi
 ### [The Parliament of Burundi votes overwhelmingly to withdraw Burundi from the Dutch-based International Criminal Court. ](/news/2016/10/12/the-parliament-of-burundi-votes-overwhelmingly-to-withdraw-burundi-from-the-dutch-based-international-criminal-court.md)
-_Context: Burundi, Parliament of Burundi, Foreign relations of Burundi, ICC, Netherlands_
+_Context: Burundi, ICC, Parliament of Burundi, Foreign relations of Burundi, Netherlands_
 
 ## [Previous Day...](/news/2016/10/11/index.md)
 

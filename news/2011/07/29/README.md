@@ -13,7 +13,7 @@ Elected lower house to have more power but opposition unimpressed as appointed u
 
 ##### 2011 Tunisian revolution
 ### [2011 Tunisian revolution: Former President Zine El Abidine Ben Ali is sentenced "in absentia" to 16 years imprisonment for corruption. ](/news/2011/07/29/2011-tunisian-revolution-former-president-zine-el-abidine-ben-ali-is-sentenced-in-absentia-to-16-years-imprisonment-for-corruption.md)
-_Context: 2011 Tunisian revolution, Zine El Abidine Ben Ali, President of Tunisia, in absentia_
+_Context: President of Tunisia, Zine El Abidine Ben Ali, 2011 Tunisian revolution, in absentia_
 
 ##### Johnson & Johnson
 ### [Johnson & Johnson announced that it will lower the maximum daily dosage of one of its signature products, Extra Strength Tylenol, in order to reduce the risk of liver damage. ](/news/2011/07/29/johnson-johnson-announced-that-it-will-lower-the-maximum-daily-dosage-of-one-of-its-signature-products-extra-strength-tylenol-in-order-t.md)
@@ -33,7 +33,7 @@ _Context: South Korea, Kim Hwang-sik, Prime Minister_
 
 ##### Coal mine
 ### [At least twenty coal miners are killed and seventeen are missing following two accidents in the Ukraine. ](/news/2011/07/29/at-least-twenty-coal-miners-are-killed-and-seventeen-are-missing-following-two-accidents-in-the-ukraine.md)
-_Context: two accidents, Ukraine, coal mine_
+_Context: two accidents, coal mine, Ukraine_
 
 ##### South Sudan
 ### [South Sudan joins the African Union as its 54 th member. ](/news/2011/07/29/south-sudan-joins-the-african-union-as-its-54-th-member.md)
@@ -41,7 +41,7 @@ The African Union (AU) has admitted South Sudan as its 54th member, marking anot
 
 ##### North Korea
 ### [North Korea threatens to dispose of South Korean assets at the jointly-run Mount Kumgang resort. ](/news/2011/07/29/north-korea-threatens-to-dispose-of-south-korean-assets-at-the-jointly-run-mount-kumgang-resort.md)
-_Context: North Korea, South Korea, Mount Kumgang resort_
+_Context: South Korea, North Korea, Mount Kumgang resort_
 
 ##### Turkey
 ### [The Chief of the armed forces along with the heads of the army, navy and air force all resign in Turkey. ](/news/2011/07/29/the-chief-of-the-armed-forces-along-with-the-heads-of-the-army-navy-and-air-force-all-resign-in-turkey.md)
@@ -49,7 +49,7 @@ The chief of the Turkish armed forces, Isik Kosaner, resigns along with the head
 
 ##### Ajmal Kasab
 ### [Ajmal Kasab, the last surviving gunman from the 2008 Mumbai terrorist attacks, launches an appeal against his death sentence in India. ](/news/2011/07/29/ajmal-kasab-the-last-surviving-gunman-from-the-2008-mumbai-terrorist-attacks-launches-an-appeal-against-his-death-sentence-in-india.md)
-_Context: India, 2008 Mumbai terrorist attacks, Ajmal Kasab_
+_Context: India, Ajmal Kasab, 2008 Mumbai terrorist attacks_
 
 ##### Conspiracy to hack mobile phones
 ### [The legal team representing Glenn Mulcaire, the private investigator at the centre of claims of phone hacking, says that he "acted on the instructions of others". ](/news/2011/07/29/the-legal-team-representing-glenn-mulcaire-the-private-investigator-at-the-centre-of-claims-of-phone-hacking-says-that-he-acted-on-the-in.md)
@@ -57,7 +57,7 @@ Glenn Mulcaire, the private investigator at the centre of phone-hacking claims, 
 
 ##### Investigation into the murder of Joanna Yeates
 ### [Christopher Jefferies, an early suspect in the investigation into the murder of Joanna Yeates, accepts "substantial" libel damages from eight British newspapers after they published details of his private life. "The Sun" and "Daily Mirror" are also fined for contempt of court in their reporting of the investigation. ](/news/2011/07/29/christopher-jefferies-an-early-suspect-in-the-investigation-into-the-murder-of-joanna-yeates-accepts-substantial-libel-damages-from-eigh.md)
-_Context: Daily Mirror, contempt of court, The Sun, investigation into the murder of Joanna Yeates_
+_Context: contempt of court, The Sun, investigation into the murder of Joanna Yeates, Daily Mirror_
 
 ##### Iraq War
 ### [UK based Internet blogger Bilal Zaheer Ahmad is sentenced to 12 years imprisonment after admitting using his blog to solicit the murder of MPs who voted for the Iraq War. ](/news/2011/07/29/uk-based-internet-blogger-bilal-zaheer-ahmad-is-sentenced-to-12-years-imprisonment-after-admitting-using-his-blog-to-solicit-the-murder-of-m.md)
@@ -69,11 +69,11 @@ A federal appeals court ruled on Friday that genes can be patented, overturning 
 
 ##### United States House of Representatives
 ### [The United States House of Representatives votes to increase the debt ceiling but the Senate rejects it. ](/news/2011/07/29/the-united-states-house-of-representatives-votes-to-increase-the-debt-ceiling-but-the-senate-rejects-it.md)
-_Context:  debt, United States House of Representatives, United States Senate_
+_Context: United States Senate,  debt, United States House of Representatives_
 
 ##### Prime Minister
 ### [The Prime Minister of Spain Jose Luis Rodriguez Zapatero calls an early election for November 20 rather than 2012. ](/news/2011/07/29/the-prime-minister-of-spain-josa-c-luis-rodraguez-zapatero-calls-an-early-election-for-november-20-rather-than-2012.md)
-_Context: Jose Luis Rodriguez Zapatero, Prime Minister_
+_Context: Prime Minister, Jose Luis Rodriguez Zapatero_
 
 ## [Previous Day...](/news/2011/07/28/index.md)
 

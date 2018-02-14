@@ -17,7 +17,7 @@ A suicide bomb and gun attack at Istanbul airport kills 41 people, at least 13 o
 
 ##### Syrian Civil War
 ### [Rebels of the New Syrian Army begin an offensive to capture the eastern town of al-Bukamal, currently held by ISIL militants. ](/news/2016/06/28/rebels-of-the-new-syrian-army-begin-an-offensive-to-capture-the-eastern-town-of-al-bukamal-currently-held-by-isil-militants.md)
-_Context: al-Bukamal, Syrian Civil War, ISIL, New Syrian Army, an offensive_
+_Context: ISIL, al-Bukamal, an offensive, New Syrian Army, Syrian Civil War_
 
 ##### Balochistan conflict
 ### [Gunmen kill four police officers and four paramilitary soldiers in separate attacks in the city of Quetta. ](/news/2016/06/28/gunmen-kill-four-police-officers-and-four-paramilitary-soldiers-in-separate-attacks-in-the-city-of-quetta.md)
@@ -45,7 +45,7 @@ One of the flight recorders of crashed EgyptAir flight MS804 has been successful
 
 ##### BNSF Railway
 ### [Three crew members are missing and one worker is injured following the head-on collision of two BNSF Railway freight trains near the American town of Panhandle, Texas. Officials, concerned that flames from box car fires could cause a fast-moving grass fire, order an evacuation of some nearby areas. ](/news/2016/06/28/three-crew-members-are-missing-and-one-worker-is-injured-following-the-head-on-collision-of-two-bnsf-railway-freight-trains-near-the-america.md)
-_Context: Panhandle, Texas, BNSF Railway_
+_Context: BNSF Railway, Panhandle, Texas_
 
 ##### Mississauga
 ### [A huge explosion completely destroys a house and damages 24 others in Mississauga, Canada. At least one person is dead and 13 others are injured, according to Mississauga Fire and Emergency Services. Thousands of residents are forced to evacuate and many spend the night at a local community shelter. ](/news/2016/06/28/a-huge-explosion-completely-destroys-a-house-and-damages-24-others-in-mississauga-canada-at-least-one-person-is-dead-and-13-others-are-inj.md)

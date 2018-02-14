@@ -13,7 +13,7 @@ _Context: Mendoza Province, Argentina, Chile_
 
 ##### China-North Korea relations
 ### [China's Ministry of Commerce suspends all coal imports from North Korea until the end of 2017, as part of international sanctions against North Korea over its ballistic missile program. ](/news/2017/02/18/china-s-ministry-of-commerce-suspends-all-coal-imports-from-north-korea-until-the-end-of-2017-as-part-of-international-sanctions-against-no.md)
-_Context: North Korea, North Korea's nuclear program, China-North Korea relations, Sanctions against North Korea, China, Ministry of Commerce_
+_Context: Sanctions against North Korea, North Korea, North Korea's nuclear program, China, Ministry of Commerce, China-North Korea relations_
 
 ##### War in Donbass
 ### [At the Munich Security Conference, a truce between Russian-backed separatists and the Ukrainian army, per the Minsk Protocol, takes effect Monday. Pending a permanent political agreement, Russian President Vladimir Putin orders that civil registration documents issued in separatist-held areas of Donetsk and Luhansk in eastern Ukraine be temporarily recognized. Ukrainian authorities say this violates provisions in the Minsk agreement. This is the third such agreement because the previous two in 2014 and 2015 were violated. Low-level fighting and artillery fire never fully stopped. ](/news/2017/02/18/at-the-munich-security-conference-a-truce-between-russian-backed-separatists-and-the-ukrainian-army-per-the-minsk-protocol-takes-effect-m.md)
@@ -29,7 +29,7 @@ _Context: Omar Abdel-Rahman, Butner, North Carolina, 1993 World Trade Center bom
 
 ##### Gather
 ### [As many as fifty thousand people gather in Manila for a march organized by the Philippine Catholic Church to protest the Philippine Drug War. ](/news/2017/02/18/as-many-as-fifty-thousand-people-gather-in-manila-for-a-march-organized-by-the-philippine-catholic-church-to-protest-the-philippine-drug-war.md)
-_Context: drug crackdown, gather, Manila, Philippine Catholic Church_
+_Context: gather, drug crackdown, Manila, Philippine Catholic Church_
 
 ##### Adama Barrow
 ### [Adama Barrow is officially sworn in as the Gambia's new President. ](/news/2017/02/18/adama-barrow-is-officially-sworn-in-as-the-gambia-s-new-president.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2011/10/23/index.html)  [JSON](2011/10/23/index.json)  [XML](201
 
 ##### Autopsy
 ### [Autopsy results reveal that former Libyan dictator Muammar Gaddafi was killed by a gunshot to the head. ](/news/2011/10/23/autopsy-results-reveal-that-former-libyan-dictator-muammar-gaddafi-was-killed-by-a-gunshot-to-the-head.md)
-_Context: Libya, Muammar Gaddafi, Autopsy, demise_
+_Context: Muammar Gaddafi, demise, Libya, Autopsy_
 
 ##### 7.1 magnitude earthquake
 ### [A 7.2-magnitude earthquake rocks the city of Van in eastern Turkey, killing at least 582 people. ](/news/2011/10/23/a-7-2-magnitude-earthquake-rocks-the-city-of-van-in-eastern-turkey-killing-at-least-582-people.md)
@@ -17,15 +17,15 @@ _Context: Jasmine Revolution of 2011, Tunisian Constituent Assembly, Tunisia_
 
 ##### Bulgaria
 ### [Voters in Bulgaria go to the polls for a presidential election. ](/news/2011/10/23/voters-in-bulgaria-go-to-the-polls-for-a-presidential-election.md)
-_Context: Bulgaria, presidential election_
+_Context: presidential election, Bulgaria_
 
 ##### Argentina
 ### [Voters in Argentina go to the polls for a general election, with exit polls showing the President Cristina Fernndez de Kirchner being reelected in a landslide. ](/news/2011/10/23/voters-in-argentina-go-to-the-polls-for-a-general-election-with-exit-polls-showing-the-president-cristina-fernandez-de-kirchner-being-reele.md)
-_Context: exit poll, Cristina Kirchner, President of Argentina, Argentina, general election_
+_Context: President of Argentina, Cristina Kirchner, exit poll, Argentina, general election_
 
 ##### Switzerland
 ### [Voters in Switzerland go to the polls for a federal election, with the Green Liberal Party of Switzerland gaining the most seats compared to the 2007 election, and the Swiss People's Party losing eight seats but remaining the biggest party in the Federal Assembly. ](/news/2011/10/23/voters-in-switzerland-go-to-the-polls-for-a-federal-election-with-the-green-liberal-party-of-switzerland-gaining-the-most-seats-compared-to.md)
-_Context: Federal Assembly, Swiss People's Party, Switzerland, 2007 election, Green Liberal Party of Switzerland, federal election_
+_Context: Green Liberal Party of Switzerland, 2007 election, Swiss People's Party, federal election, Federal Assembly, Switzerland_
 
 ## [Previous Day...](/news/2011/10/22/index.md)
 

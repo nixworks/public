@@ -9,11 +9,11 @@ _Context: civil war, National Transitional Council, Muammar Gaddafi, Sirte_
 
 ##### President of Indonesia
 ### [The President of Indonesia, Susilo Bambang Yudhoyono, orders the National Police's Detachment 88 counter-terrorism squad to investigate a recent suicide bombing in Solo, Java. ](/news/2011/09/26/the-president-of-indonesia-susilo-bambang-yudhoyono-orders-the-national-police-s-detachment-88-counter-terrorism-squad-to-investigate-a-re.md)
-_Context: Detachment 88, Solo, Java, President of Indonesia, Indonesian National Police, Susilo Bambang Yudhoyono, suicide bombing, counter-terrorism_
+_Context: Detachment 88, counter-terrorism, suicide bombing, Solo, Java, President of Indonesia, Susilo Bambang Yudhoyono, Indonesian National Police_
 
 ##### Dead Sea Scrolls
 ### [Some of the Dead Sea Scrolls are published online in a joint project between Israel's national museum and Google. ](/news/2011/09/26/some-of-the-dead-sea-scrolls-are-published-online-in-a-joint-project-between-israel-s-national-museum-and-google.md)
-_Context: Dead Sea Scrolls, Israel's national museum, Google_
+_Context: Israel's national museum, Dead Sea Scrolls, Google_
 
 ##### Asia
 ### [Asian and European stock markets open lower in response to the ongoing sovereign debt crisis in Europe. ](/news/2011/09/26/asian-and-european-stock-markets-open-lower-in-response-to-the-ongoing-sovereign-debt-crisis-in-europe.md)
@@ -21,11 +21,11 @@ Asian stocks fell, sending the MSCI Asia Pacific Index to the lowest level since
 
 ##### Philippines
 ### [More than 100,000 people in the Philippines are evacuated ahead of Typhoon Nesat, with Albay province lying directly in the storm's pathway. ](/news/2011/09/26/more-than-100-000-people-in-the-philippines-are-evacuated-ahead-of-typhoon-nesat-with-albay-province-lying-directly-in-the-storm-s-pathway.md)
-_Context: Albay Province, 2011 Pacific typhoon season, Philippines_
+_Context: Philippines, 2011 Pacific typhoon season, Albay Province_
 
 ##### Tuvalu
 ### [Tuvaluan Prime Minister Willy Telavi signs an agreement to establish diplomatic relations with Abkhazia during an official visit to Sukhumi. ](/news/2011/09/26/tuvaluan-prime-minister-willy-telavi-signs-an-agreement-to-establish-diplomatic-relations-with-abkhazia-during-an-official-visit-to-sukhumi.md)
-_Context: Prime Minister of Tuvalu, Abkhazia, Tuvalu, Willy Telavi, diplomatic relations, Sukhumi_
+_Context: diplomatic relations, Prime Minister of Tuvalu, Tuvalu, Willy Telavi, Abkhazia, Sukhumi_
 
 ##### Terrorism
 ### [Six people appear in court on terrorism charges, a week after being arrested in the English city of Birmingham. ](/news/2011/09/26/six-people-appear-in-court-on-terrorism-charges-a-week-after-being-arrested-in-the-english-city-of-birmingham.md)
@@ -41,11 +41,11 @@ Student protesters in Auckland have returned to the university for pizza and a f
 
 ##### Kenya
 ### [Kenyan Nobel Peace Prize laureate Wangari Maathai dies while undergoing cancer treatment at the age of 71. ](/news/2011/09/26/kenyan-nobel-peace-prize-laureate-wangari-maathai-dies-while-undergoing-cancer-treatment-at-the-age-of-71.md)
-_Context: Nobel Peace Prize, Kenya, Wangari Maathai, cancer_
+_Context: Wangari Maathai, Nobel Peace Prize, Kenya, cancer_
 
 ##### Labour Party
 ### [The British Labour Party votes to scrap the tradition of Shadow Cabinet elections at their annual conference in Liverpool. ](/news/2011/09/26/the-british-labour-party-votes-to-scrap-the-tradition-of-shadow-cabinet-elections-at-their-annual-conference-in-liverpool.md)
-_Context: Liverpool, annual conference, Labour Party, Shadow Cabinet, elections_
+_Context: Shadow Cabinet, Liverpool, annual conference, elections, Labour Party_
 
 ##### United States Senate
 ### [The United States Senate reaches a temporary deal to avoid a government shutdown. ](/news/2011/09/26/the-united-states-senate-reaches-a-temporary-deal-to-avoid-a-government-shutdown.md)
@@ -53,7 +53,7 @@ FEMA now says money could last through the week
 
 ##### Prime Minister
 ### [The Prime Minister of Spain Jos Luis Rodrguez Zapatero dissolves the Cortes Generales and calls a general election for November 20. ](/news/2011/09/26/the-prime-minister-of-spain-jose-luis-rodriguez-zapatero-dissolves-the-cortes-generales-and-calls-a-general-election-for-november-20.md)
-_Context: Prime Minister, general election, Spanish Parliament, Jos Luis Rodrguez Zapatero_
+_Context: Prime Minister, general election, Jos Luis Rodrguez Zapatero, Spanish Parliament_
 
 ## [Previous Day...](/news/2011/09/25/index.md)
 

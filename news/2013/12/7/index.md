@@ -25,11 +25,11 @@ CASUALTIES in the wake of Yolanda (international name: Haiyan) rose to 5,786 on 
 
 ##### New York University School of Medicine
 ### [Researchers at the New York University School of Medicine are published in the "Journal of the National Cancer Institute", describing a link between decreased levels of gut microbe diversity and increased colorectal cancer rates. A possible cause of the link may be that such people's digestive tracts have lower levels of bacteria that ferment dietary fiber into the anti-inflammatory fatty acid butyrate. However, the causative link remains uncertain since there could be other influencing factors, such as genetics, obesity, or the presence of inflammatory types of microbes. ](/news/2013/12/7/researchers-at-the-new-york-university-school-of-medicine-are-published-in-the-journal-of-the-national-cancer-institute-describing-a-link.md)
-_Context: anti-inflammatory, colorectal cancer, butyrate, gut microbe, fatty acid, New York University School of Medicine, dietary fiber, Journal of the National Cancer Institute_
+_Context: New York University School of Medicine, dietary fiber, Journal of the National Cancer Institute, fatty acid, butyrate, colorectal cancer, gut microbe, anti-inflammatory_
 
 ##### North Korea
 ### [North Korea releases 85-year-old American retiree Merrill Newman after 42 days in captivity. The United States once again asks the DPRK to pardon and release Kenneth Bae. ](/news/2013/12/7/north-korea-releases-85-year-old-american-retiree-merrill-newman-after-42-days-in-captivity-the-united-states-once-again-asks-the-dprk-to-p.md)
-_Context: American, Kenneth Bae, Merrill Newman, North Korea, U.S._
+_Context: American, North Korea, U.S., Kenneth Bae, Merrill Newman_
 
 ##### World Trade Organization
 ### [The World Trade Organization meeting in Bali, Indonesia, concludes with agreement to simplify trade deals and make it easier for poorer states to sell their goods as part of the Bali Package. ](/news/2013/12/7/the-world-trade-organization-meeting-in-bali-indonesia-concludes-with-agreement-to-simplify-trade-deals-and-make-it-easier-for-poorer-stat.md)

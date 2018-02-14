@@ -17,7 +17,7 @@ Belgian police sealed off streets in the centre of Brussels during raids late on
 
 ##### Iraqi Civil War (2014-present)
 ### [Islamic State militants counter-attack in Iraq's Saladin province and seize locations west, north and south of Baiji, home to Iraq's largest oil refinery. In addition, the militants attack oilfields west of Tikrit, capture parts of the town of Seiniyah, portions of Mak'houl Mountain, and an abandoned fertilizer plant. ](/news/2015/11/22/islamic-state-militants-counter-attack-in-iraq-s-saladin-province-and-seize-locations-west-north-and-south-of-baiji-home-to-iraq-s-largest.md)
-_Context: Tikrit, Saladin province, Iraqi Civil War (2014-present), ISIL, Baiji, Iraq, Salahuddin campaign_
+_Context: ISIL, Iraq, Saladin province, Tikrit, Iraqi Civil War (2014-present), Baiji, Salahuddin campaign_
 
 ##### Israeli-Palestinian conflict (2015)
 ### [A Palestinian terrorist fatally stabs a 21-year-old Israeli woman at the Gush Etzion junction in the West Bank; the attacker is shot and killed by Israeli soldiers. ](/news/2015/11/22/a-palestinian-terrorist-fatally-stabs-a-21-year-old-israeli-woman-at-the-gush-etzion-junction-in-the-west-bank-the-attacker-is-shot-and-kil.md)
@@ -25,7 +25,7 @@ Earlier, Palestinian taxi driver tries to stab Israeli after failing to run over
 
 ##### United Kingdom withdrawal from the European Union
 ### [The UK may not face a credit rating downgrade if it votes to leave the EU in a referendum due by the end of 2017, according to the lead UK analyst at Moody's. ](/news/2015/11/22/the-uk-may-not-face-a-credit-rating-downgrade-if-it-votes-to-leave-the-eu-in-a-referendum-due-by-the-end-of-2017-according-to-the-lead-uk-a.md)
-_Context: United Kingdom, United Kingdom European Union membership referendum, European Union, Moody's Investors Service, United Kingdom withdrawal from the European Union_
+_Context: United Kingdom withdrawal from the European Union, United Kingdom European Union membership referendum, Moody's Investors Service, United Kingdom, European Union_
 
 ##### Hpakant jade mine disaster
 ### [The death toll in a landslide near a jade mine in northern Myanmar rises to about 100 people, with up to 200 others missing. Most of the victims were villagers digging for jade in a mountain of displaced earth. ](/news/2015/11/22/the-death-toll-in-a-landslide-near-a-jade-mine-in-northern-myanmar-rises-to-about-100-people-with-up-to-200-others-missing-most-of-the-vic.md)
@@ -57,19 +57,19 @@ An Iranian court has sentenced Washington Post reporter Jason Rezaian to a priso
 
 ##### Argentine general election, 2015
 ### [Voters in Argentina go to the polls for a presidential runoff between Daniel Scioli of the ruling Justicialist Party and Mauricio Macri of the opposition PRO. Mauricio Macri, the mayor of Buenos Aires, was elected with 53% of the vote. ](/news/2015/11/22/voters-in-argentina-go-to-the-polls-for-a-presidential-runoff-between-daniel-scioli-of-the-ruling-justicialist-party-and-mauricio-macri-of-t.md)
-_Context: PRO, Argentine general election, 2015, Buenos Aires, Mauricio Macri, Justicialist Party, Daniel Scioli, Argentina_
+_Context: Argentine general election, 2015, Argentina, Daniel Scioli, Justicialist Party, Mauricio Macri, PRO, Buenos Aires_
 
 ##### South Korean President
 ### [Former President Kim Young-sam, who formally ended decades of military rule in South Korea, dies in a Seoul hospital from a severe blood infection. He was 87. ](/news/2015/11/22/former-president-kim-young-sam-who-formally-ended-decades-of-military-rule-in-south-korea-dies-in-a-seoul-hospital-from-a-severe-blood-inf.md)
-_Context: South Korean President, South Korea, Seoul, Kim Young-sam_
+_Context: Kim Young-sam, Seoul, South Korea, South Korean President_
 
 ##### Egyptian parliamentary election, 2015
 ### [Voters in many parts of Egypt including Cairo go to the polls for a parliamentary election. ](/news/2015/11/22/voters-in-many-parts-of-egypt-including-cairo-go-to-the-polls-for-a-parliamentary-election.md)
-_Context: Egypt, Cairo, Egyptian parliamentary election, 2015_
+_Context: Cairo, Egypt, Egyptian parliamentary election, 2015_
 
 ##### U.S. President
 ### [United States President Barack Obama orders an assessment of whether intelligence reports from U.S. Central Command were changed by supervisory military personnel before formal submission to present a more optimistic picture of the American military campaign against Daesh (Islamic State). The Pentagon's Office of the Inspector General investigators seized emails from military servers over the last few weeks. ](/news/2015/11/22/united-states-president-barack-obama-orders-an-assessment-of-whether-intelligence-reports-from-u-s-central-command-were-changed-by-supervis.md)
-_Context: Pentagon's Office of the Inspector General, United States military personnel, U.S. President, Barack Obama, United States Central Command, ISIL_
+_Context: ISIL, Pentagon's Office of the Inspector General, United States military personnel, U.S. President, United States Central Command, Barack Obama_
 
 ##### Nola
 ### [Nola, a 41-year-old female northern white rhino, dies at the San Diego Zoo Safari Park. She was euthanized after her health took a turn for the worse. Nola was rescued from violent poaching in the southern savanna woodlands of Sudan and came to the park in 1989. Only three animals of this endangered species are known left in the world. ](/news/2015/11/22/nola-a-41-year-old-female-northern-white-rhino-dies-at-the-san-diego-zoo-safari-park-she-was-euthanized-after-her-health-took-a-turn-for.md)

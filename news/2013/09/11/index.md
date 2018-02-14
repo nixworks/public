@@ -33,7 +33,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Catalan people
 ### [Hundreds of thousands of Catalans link up in a human chain for the independence of Catalonia. ](/news/2013/09/11/hundreds-of-thousands-of-catalans-link-up-in-a-human-chain-for-the-independence-of-catalonia.md)
-_Context: Catalan people, independence of Catalonia, human chain_
+_Context: independence of Catalonia, human chain, Catalan people_
 
 ## [Previous Day...](/news/2013/09/10/index.md)
 

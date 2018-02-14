@@ -9,7 +9,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Twitter
 ### [Twitter sets a modest-seeming goal of US$1.6 billion for its forthcoming initial public offering. ](/news/2013/10/24/twitter-sets-a-modest-seeming-goal-of-us-1-6-billion-for-its-forthcoming-initial-public-offering.md)
-_Context: Twitter, initial public offering_
+_Context: initial public offering, Twitter_
 
 ##### China
 ### [China's Ministry of the Environment and Water Resources will send inspection teams to Chinese regional cities to inspect air quality following the 2013 Harbin smog incident. ](/news/2013/10/24/china-s-ministry-of-the-environment-and-water-resources-will-send-inspection-teams-to-chinese-regional-cities-to-inspect-air-quality-followi.md)
@@ -17,7 +17,7 @@ CHINA-POLLUTION/:China to send air pollution inspection teams to provinces
 
 ##### NSW Rural Fire Service
 ### [An NSW Rural Fire Service pilot dies when his plane crashes while fighting fires near the town of Ulladulla, New South Wales, Australia. ](/news/2013/10/24/an-nsw-rural-fire-service-pilot-dies-when-his-plane-crashes-while-fighting-fires-near-the-town-of-ulladulla-new-south-wales-australia.md)
-_Context: NSW, Ulladulla, NSW Rural Fire Service_
+_Context: NSW, NSW Rural Fire Service, Ulladulla_
 
 ##### World Health Organization
 ### [The World Health Organization reports that a polio outbreak has begun in the war-torn city of Deir Ezzor, Syria. ](/news/2013/10/24/the-world-health-organization-reports-that-a-polio-outbreak-has-begun-in-the-war-torn-city-of-deir-ezzor-syria.md)
@@ -25,7 +25,7 @@ At least 22 people are suspected of having polio in Syria, the first outbreak of
 
 ##### U.S.
 ### [Germany summons the United States Ambassador over claims that the US monitored Chancellor of Germany Angela Merkel's mobile phone. ](/news/2013/10/24/germany-summons-the-united-states-ambassador-over-claims-that-the-us-monitored-chancellor-of-germany-angela-merkel-s-mobile-phone.md)
-_Context: U.S., Chancellor, German, Angela Merkel_
+_Context: Angela Merkel, German, U.S., Chancellor_
 
 ##### Portuguese Police
 ### [Portuguese Police reopen the investigation into the disappearance of Madeleine McCann. ](/news/2013/10/24/portuguese-police-reopen-the-investigation-into-the-disappearance-of-madeleine-mccann.md)

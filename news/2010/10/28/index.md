@@ -13,7 +13,7 @@ _Context: Al-Shabaab, Somalia_
 
 ##### Chinese industrial
 ### [Chinese industrial profits rose 53.5 percent year on year in the first nine months of 2010, the National Bureau of Statistics (NBS) said. ](/news/2010/10/28/chinese-industrial-profits-rose-53-5-percent-year-on-year-in-the-first-nine-months-of-2010-the-national-bureau-of-statistics-nbs-said.md)
-_Context: NBS, Chinese industrial_
+_Context: Chinese industrial, NBS_
 
 ##### Nissan
 ### [Nissan recalls 2.1 million vehicles worldwide due to an ignition problem. ](/news/2010/10/28/nissan-recalls-2-1-million-vehicles-worldwide-due-to-an-ignition-problem.md)
@@ -21,7 +21,7 @@ Nissan recalls 2.1 million vehicles worldwide because of an ignition problem, in
 
 ##### AIG
 ### [American International Group says that if chief executive Robert Benmosche needs to step aside for treatment of his cancer, the chairman of the board, Steve Miller, will serve as interim CEO "for as long as it takes to identify" a permanent replacement. ](/news/2010/10/28/american-international-group-says-that-if-chief-executive-robert-benmosche-needs-to-step-aside-for-treatment-of-his-cancer-the-chairman-of.md)
-_Context: Robert Benmosche, AIG, chairman of the board, cancer_
+_Context: chairman of the board, cancer, AIG, Robert Benmosche_
 
 ##### Mount Merapi volcanic eruption
 ### [The death toll from the recent eruption of Mount Merapi in Indonesia rises to 32 as it erupts again. ](/news/2010/10/28/the-death-toll-from-the-recent-eruption-of-mount-merapi-in-indonesia-rises-to-32-as-it-erupts-again.md)
@@ -29,11 +29,11 @@ Rescue crews and relief workers are losing hope of finding survivors after a tsu
 
 ##### Volcano
 ### [Two volcanoes erupt on Russia's Kamchatka Peninsula, Klyuchevskaya Sopka and Shiveluch, forcing flights to divert and spewing volcanic ash over the nearby town of Ust-Kamchatsk. ](/news/2010/10/28/two-volcanoes-erupt-on-russia-s-kamchatka-peninsula-klyuchevskaya-sopka-and-shiveluch-forcing-flights-to-divert-and-spewing-volcanic-ash-o.md)
-_Context: Klyuchevskaya Sopka, volcano, Kamchatka Peninsula, ash, Shiveluch, Ust-Kamchatsk_
+_Context: Klyuchevskaya Sopka, Ust-Kamchatsk, Kamchatka Peninsula, ash, volcano, Shiveluch_
 
 ##### ASEAN
 ### [The 17 th ASEAN Summit opens in Hanoi, Vietnam. ](/news/2010/10/28/the-17-th-asean-summit-opens-in-hanoi-vietnam.md)
-_Context: Vietnam, ASEAN Summit, Hanoi, ASEAN_
+_Context: Vietnam, ASEAN, Hanoi, ASEAN Summit_
 
 ##### Rare earth metals
 ### [China cancels a meeting with Japan and South Korea amid a dispute over the use of rare earth metals. ](/news/2010/10/28/china-cancels-a-meeting-with-japan-and-south-korea-amid-a-dispute-over-the-use-of-rare-earth-metals.md)
@@ -49,7 +49,7 @@ _Context: Xi Jinping, Central Military Commission_
 
 ##### Kenya
 ### [Kenya's internal security minister George Saitoti is named as acting foreign minister following the resignation of Moses Wetangula amid an embassy property scandal. ](/news/2010/10/28/kenya-s-internal-security-minister-george-saitoti-is-named-as-acting-foreign-minister-following-the-resignation-of-moses-wetangula-amid-an-e.md)
-_Context: George Saitoti, Moses Wetangula, Kenya_
+_Context: Moses Wetangula, Kenya, George Saitoti_
 
 ##### Croatia
 ### [The Croatian government survives a motion of no confidence over economic problems and corruption. ](/news/2010/10/28/the-croatian-government-survives-a-motion-of-no-confidence-over-economic-problems-and-corruption.md)
@@ -57,11 +57,11 @@ The government of Croatian Prime Minister Jadranka Kosor survived a no-confidenc
 
 ##### Burma
 ### [Burmese authorities announce that its leader General Than Shwe will not be standing in the upcoming general election. ](/news/2010/10/28/burmese-authorities-announce-that-its-leader-general-than-shwe-will-not-be-standing-in-the-upcoming-general-election.md)
-_Context: Burma, general elections, Than Shwe_
+_Context: general elections, Burma, Than Shwe_
 
 ##### Guinea
 ### [Guinea sets November 7 as the new date for the presidential run-off. ](/news/2010/10/28/guinea-sets-november-7-as-the-new-date-for-the-presidential-run-off.md)
-_Context: November's presidential poll, Guinea_
+_Context: Guinea, November's presidential poll_
 
 ##### Argentinian
 ### [Tens of thousands of Argentinians pay tribute to the former President of Argentina Nstor Kirchner at a wake at the Presidential Palace. ](/news/2010/10/28/tens-of-thousands-of-argentinians-pay-tribute-to-the-former-president-of-argentina-nestor-kirchner-at-a-wake-at-the-presidential-palace.md)

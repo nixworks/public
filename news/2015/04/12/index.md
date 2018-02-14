@@ -5,7 +5,7 @@ Formats: [HTML](2015/04/12/index.html)  [JSON](2015/04/12/index.json)  [XML](201
 
 ##### Libyan Civil War (2014-present)
 ### [Islamic militants attack the South Korean embassy in Tripoli killing two guards and leaving another injured. ](/news/2015/04/12/islamic-militants-attack-the-south-korean-embassy-in-tripoli-killing-two-guards-and-leaving-another-injured.md)
-_Context: Libyan Civil War (2014-present), Tripoli_
+_Context: Tripoli, Libyan Civil War (2014-present)_
 
 ##### War in North-West Pakistan
 ### [U.S. drone strikes in North Waziristan kill at least four suspected Taliban militants. ](/news/2015/04/12/u-s-drone-strikes-in-north-waziristan-kill-at-least-four-suspected-taliban-militants.md)
@@ -25,7 +25,7 @@ Prime Minister Shinzo Abe’s Liberal Democratic Party cruised to victory in Jap
 
 ##### 2015 protests in Brazil
 ### [Large protests in Brazil call for the impeachment of President of Brazil Dilma Rousseff due to a scandal involving members of her Workers Party receiving kickbacks from the state run oil company Petrobras. ](/news/2015/04/12/large-protests-in-brazil-call-for-the-impeachment-of-president-of-brazil-dilma-rousseff-due-to-a-scandal-involving-members-of-her-workers-pa.md)
-_Context: president, Dilma Rousseff, Petrobras, 2015 protests in Brazil, Brazil Workers' Party_
+_Context: Brazil Workers' Party, 2015 protests in Brazil, Petrobras, president, Dilma Rousseff_
 
 ## [Previous Day...](/news/2015/04/11/index.md)
 

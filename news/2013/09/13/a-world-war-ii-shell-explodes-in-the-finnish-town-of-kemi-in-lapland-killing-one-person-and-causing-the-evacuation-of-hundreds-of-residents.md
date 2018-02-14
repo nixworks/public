@@ -15,7 +15,7 @@ HELSINKI (Reuters) - One of several wartime artillery shells kept in a Finnish s
 
 ### Related:
 
-1. [All flights to and from London's City Airport have been cancelled after an unexploded World War II bomb was discovered in the River Thames at George V Dock, the airport says. ](/news/2018/02/12/all-flights-to-and-from-london-s-city-airport-have-been-cancelled-after-an-unexploded-world-war-ii-bomb-was-discovered-in-the-river-thames-a.md) _Context: World War II_
+1. [All flights to and from London City Airport are cancelled after an unexploded World War II bomb is discovered in the River Thames at King George V Dock. ](/news/2018/02/12/all-flights-to-and-from-london-city-airport-are-cancelled-after-an-unexploded-world-war-ii-bomb-is-discovered-in-the-river-thames-at-king-ge.md) _Context: World War II_
 2. [Finland celebrates its 100 years of independence. ](/news/2017/12/6/finland-celebrates-its-100-years-of-independence.md) _Context: Finland_
 3. [Four people (three military conscripts and a train passenger) are killed and four conscripts are injured after a passenger train collides with an off-road military truck in Raseborg, Finland. ](/news/2017/10/26/four-people-three-military-conscripts-and-a-train-passenger-are-killed-and-four-conscripts-are-injured-after-a-passenger-train-collides-wi.md) _Context: Finland_
 4. [The Congressional Gold Medal is awarded to Filipino American veterans of World War II more than 70 years after the end of that war. ](/news/2017/10/25/the-congressional-gold-medal-is-awarded-to-filipino-american-veterans-of-world-war-ii-more-than-70-years-after-the-end-of-that-war.md) _Context: World War II_

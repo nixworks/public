@@ -5,15 +5,15 @@ Formats: [HTML](2017/01/30/index.html)  [JSON](2017/01/30/index.json)  [XML](201
 
 ##### War in Donbass
 ### [The Ukrainian military says seven soldiers have been killed by pro-Russian separatists since Sunday. The separatists report over 5 days of artillery attacks on them by the Ukrainian side. ](/news/2017/01/30/the-ukrainian-military-says-seven-soldiers-have-been-killed-by-pro-russian-separatists-since-sunday-the-separatists-report-over-5-days-of-a.md)
-_Context: since Sunday, War in Donbass, Pro-Russian militants, Ukrainian military_
+_Context: War in Donbass, Pro-Russian militants, since Sunday, Ukrainian military_
 
 ##### Russian military intervention
 ### [ The Russian Defence Ministry says six Russian bombers hit ISIL positions in Syria's Deir ez-Zor Governorate. ](/news/2017/01/30/the-russian-defence-ministry-says-six-russian-bombers-hit-isil-positions-in-syria-s-deir-ez-zor-governorate.md)
-_Context: ISIL, Syria, Ministry of Defence, Russian military intervention, Deir ez-Zor Governorate_
+_Context: ISIL, Deir ez-Zor Governorate, Syria, Russian military intervention, Ministry of Defence_
 
 ##### Insurgency in the North Caucasus
 ### [At least two police officers and three suspected militants are killed during a gunfight in Shali, Chechnya. ](/news/2017/01/30/at-least-two-police-officers-and-three-suspected-militants-are-killed-during-a-gunfight-in-shali-chechnya.md)
-_Context: Chechnya, Shali, police, Insurgency in the North Caucasus_
+_Context: Chechnya, police, Shali, Insurgency in the North Caucasus_
 
 ##### Yemeni Civil War
 ### [A suspected U.S. drone strike kills two al-Qaida militants in central Shabwa province, according to Yemeni security and tribal officials. ](/news/2017/01/30/a-suspected-u-s-drone-strike-kills-two-al-qaida-militants-in-central-shabwa-province-according-to-yemeni-security-and-tribal-officials.md)
@@ -29,7 +29,7 @@ A 27-year-old student allegedly known for his right-wing, nationalist views appe
 
 ##### Miss Universe 2016
 ### [Iris Mittenaere, winner of Miss France 2016, is crowned as the winner of Miss Universe 2016 at a ceremony in the Philippines. ](/news/2017/01/30/iris-mittenaere-winner-of-miss-france-2016-is-crowned-as-the-winner-of-miss-universe-2016-at-a-ceremony-in-the-philippines.md)
-_Context: Miss Universe 2016, Iris Mittenaere, Miss France 2016, Philippines_
+_Context: Iris Mittenaere, Miss France 2016, Philippines, Miss Universe 2016_
 
 ##### Walgreens Boots Alliance
 ### [Walgreens Boots Alliance reduces its offer price for Rite Aid and defers the expected closing date by six months due to concerns about regulatory approval. ](/news/2017/01/30/walgreens-boots-alliance-reduces-its-offer-price-for-rite-aid-and-defers-the-expected-closing-date-by-six-months-due-to-concerns-about-regul.md)
@@ -45,7 +45,7 @@ The petition suggested it should be canceled &quot;because it would cause embarr
 
 ##### Iraq-United States relations
 ### [The Iraqi Parliament votes in favour of a reciprocal travel ban on U.S. citizens if U.S. President Donald Trump's executive order barring citizens of Iraq and six other Muslim-majority countries is not reversed. The Iraqi travel ban will not be implemented while tens of thousands of U.S. soldiers and contractors are involved in the fight against ISIL. ](/news/2017/01/30/the-iraqi-parliament-votes-in-favour-of-a-reciprocal-travel-ban-on-u-s-citizens-if-u-s-president-donald-trump-s-executive-order-barring-ci.md)
-_Context: Iraq-United States relations, Executive Order 13769, U.S., Iraq, ISIL, Iraqi Parliament_
+_Context: Iraq, Iraq-United States relations, ISIL, Iraqi Parliament, U.S., Executive Order 13769_
 
 ##### Drug crackdown
 ### [Philippine President Rodrigo Duterte suspends the war on drugs so resources can focus on ridding "corrupt" officers from the Philippine National Police. The "cause celebre" is the kidnapping and strangulation of South Korean businessman Jee Ick-joo last October. ](/news/2017/01/30/philippine-president-rodrigo-duterte-suspends-the-war-on-drugs-so-resources-can-focus-on-ridding-acorrupta-officers-from-the-philippine.md)

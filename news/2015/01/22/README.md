@@ -9,7 +9,7 @@ Ukrainian troops leave the main terminal of the bitterly contested airport in Do
 
 ##### Abdu Rabu Mansour Hadi
 ### [Yemeni President Abdu Rabu Mansour Hadi, Prime Minister Khaled Bahah, and the Yemeni cabinet resign. ](/news/2015/01/22/yemeni-president-abdu-rabu-mansour-hadi-prime-minister-khaled-bahah-and-the-yemeni-cabinet-resign.md)
-_Context: Abdu Rabu Mansour Hadi, Khaled Bahah_
+_Context: Khaled Bahah, Abdu Rabu Mansour Hadi_
 
 ##### European Central Bank
 ### [The European Central Bank announces an aggressive money-creation program, printing more than one trillion new euros. ](/news/2015/01/22/the-european-central-bank-announces-an-aggressive-money-creation-program-printing-more-than-one-trillion-new-euros.md)

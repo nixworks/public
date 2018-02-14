@@ -5,11 +5,11 @@ Formats: [HTML](2008/12/9/index.html)  [JSON](2008/12/9/index.json)  [XML](2008/
 
 ##### Democrat
 ### [ Democratic Illinois Governor Rod Blagojevich is arrested by Federal Bureau of Investigation agents at his Chicago home, amidst allegations of corruption and pay-to-play regarding the replacement for United States President-elect Barack Obama in the Senate. ](/news/2008/12/9/democratic-illinois-governor-rod-blagojevich-is-arrested-by-federal-bureau-of-investigation-agents-at-his-chicago-home-amidst-allegations.md)
-_Context: seat, pay-to-play, United States Senate, Governor of Illinois, Chicago, Illinois, U.S. President, Barack Obama, Rod Blagojevich, Democrat, U.S., anti-corruption, President-elect, FBI_
+_Context: Chicago, President-elect, United States Senate, seat, pay-to-play, Governor of Illinois, Barack Obama, U.S. President, FBI, anti-corruption, Democrat, Rod Blagojevich, Illinois, U.S._
 
 ##### Irish
 ### [ Almost 1,400 workers are laid off in the Republic of Ireland as a result of the 2008 Irish pork crisis. ](/news/2008/12/9/almost-1-400-workers-are-laid-off-in-the-republic-of-ireland-as-a-result-of-the-2008-irish-pork-crisis.md)
-_Context: 2008 Irish pork crisis, Irish_
+_Context: Irish, 2008 Irish pork crisis_
 
 ##### Sony
 ### [ Sony Corporation announces plans to cut 8,000 jobs and close 10% of its manufacturing plants. ](/news/2008/12/9/sony-corporation-announces-plans-to-cut-8-000-jobs-and-close-10-of-its-manufacturing-plants.md)
@@ -17,15 +17,15 @@ _Context: Sony_
 
 ##### United Nations
 ### [ United Nations-mediated peace talks commence in Nairobi, Kenya, between the government of the Democratic Republic of the Congo and the National Congress for the Defence of the People. ](/news/2008/12/9/united-nations-mediated-peace-talks-commence-in-nairobi-kenya-between-the-government-of-the-democratic-republic-of-the-congo-and-the-nati.md)
-_Context: government, DR Congo, peace talks, United Nations, CNDP, Nairobi, Kenya_
+_Context: Nairobi, United Nations, peace talks, Kenya, DR Congo, CNDP, government_
 
 ##### Canadian
 ### [ Canadian Member of Parliament Bob Rae announces his withdrawal from the leadership campaign of the Liberal Party, leaving the position (and that of the Leader of the Opposition and the leadership of the proposed opposition coalition) open to fellow MP Michael Ignatieff. ](/news/2008/12/9/canadian-member-of-parliament-bob-rae-announces-his-withdrawal-from-the-leadership-campaign-of-the-liberal-party-leaving-the-position-and.md)
-_Context: Leader of the Official Opposition, Canadian, MP, Bob Rae, proposed opposition coalition, Parliament of Canada, Liberal Party's, Michael Ignatieff_
+_Context: Liberal Party's, Parliament of Canada, Canadian, Michael Ignatieff, proposed opposition coalition, Bob Rae, Leader of the Official Opposition, MP_
 
 ##### Prime Minister
 ### [ Former Prime Minister of the Republic of Macedonia Vlado Buckovski is sentenced to three and a half years in jail for abuse of power. ](/news/2008/12/9/former-prime-minister-of-the-republic-of-macedonia-vlado-buakovski-is-sentenced-to-three-and-a-half-years-in-jail-for-abuse-of-power.md)
-_Context: misconduct in office, Vlado Buckovski, Prime Minister, Republic of Macedonia_
+_Context: Prime Minister, Vlado Buckovski, Republic of Macedonia, misconduct in office_
 
 ## [Previous Day...](/news/2008/12/8/index.md)
 

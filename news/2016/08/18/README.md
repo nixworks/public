@@ -5,7 +5,7 @@ Formats: [HTML](2016/08/18/index.html)  [JSON](2016/08/18/index.json)  [XML](201
 
 ##### Kurdish-Turkish conflict (2015-present)
 ### [Three bombings targeting police and military kill at least 12 people and wound 219 in southeast Turkey. ](/news/2016/08/18/three-bombings-targeting-police-and-military-kill-at-least-12-people-and-wound-219-in-southeast-turkey.md)
-_Context: Turkey, Kurdish-Turkish conflict (2015-present)_
+_Context: Kurdish-Turkish conflict (2015-present), Turkey_
 
 ##### Syrian civil war
 ### [Syrian government warplanes bomb Kurdish-held areas of Al-Hasakah for the first time in the country's five-year civil war, killing at least 13 people. ](/news/2016/08/18/syrian-government-warplanes-bomb-kurdish-held-areas-of-al-hasakah-for-the-first-time-in-the-country-s-five-year-civil-war-killing-at-least.md)
@@ -13,7 +13,7 @@ Syrian government jets reportedly bomb Kurdish-held areas of the north-eastern c
 
 ##### Eddie Bauer
 ### [Eddie Bauer reports that malware was used to access payment data for cards used at their stores; payments made via their website were reportedly unaffected. ](/news/2016/08/18/eddie-bauer-reports-that-malware-was-used-to-access-payment-data-for-cards-used-at-their-stores-payments-made-via-their-website-were-report.md)
-_Context: malware, Eddie Bauer_
+_Context: Eddie Bauer, malware_
 
 ##### Jane Triche Milazzo
 ### [U.S. District Judge Jane Triche Milazzo sentences former NFL player Darren Sharper to 18 years in prison in rape and drugging case involving as many as 16 women in several U.S. states. ](/news/2016/08/18/u-s-district-judge-jane-triche-milazzo-sentences-former-nfl-player-darren-sharper-to-18-years-in-prison-in-rape-and-drugging-case-involving.md)

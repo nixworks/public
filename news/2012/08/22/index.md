@@ -5,11 +5,11 @@ Formats: [HTML](2012/08/22/index.html)  [JSON](2012/08/22/index.json)  [XML](201
 
 ##### China
 ### [A Chinese state news commentary on recent U.S. "red line" remarks states that, once again, Western powers are digging deep for excuses to intervene militarily in another conflict-torn Middle East country. It sharply denounces the U.S.' "calculus". ](/news/2012/08/22/a-chinese-state-news-commentary-on-recent-u-s-red-line-remarks-states-that-once-again-western-powers-are-digging-deep-for-excuses-to-in.md)
-_Context: intervene militarily, recent, conflict-torn Middle East, Xinhua, China_
+_Context: intervene militarily, Xinhua, conflict-torn Middle East, China, recent_
 
 ##### Clashes
 ### [At least 48 people are killed during clashes, over grazing rights for cattle, between the Pokomo and Orma tribes in Kenya. ](/news/2012/08/22/at-least-48-people-are-killed-during-clashes-over-grazing-rights-for-cattle-between-the-pokomo-and-orma-tribes-in-kenya.md)
-_Context: Kenya, Orma, Pokomo, clashes_
+_Context: Kenya, Orma, clashes, Pokomo_
 
 ##### Nina Bawden
 ### [Nina Bawden, the writer of seminal work "Carrie's War" and shortlisted for the Booker Prize in 1987 and the Lost Man Booker Prize in 2010, dies at her London home. ](/news/2012/08/22/nina-bawden-the-writer-of-seminal-work-carrie-s-war-and-shortlisted-for-the-booker-prize-in-1987-and-the-lost-man-booker-prize-in-2010-d.md)
@@ -41,7 +41,7 @@ Men who become fathers later in life pass on more brand-new genetic mutations to
 
 ##### Pennsylvania State University
 ### [Penn State's ex-president Graham Spanier rejects the report by former FBI head Louis Freeh accusing the university of a cover-up, saying he never heard even a hint of child sex abuse by Jerry Sandusky, despite indications of "horseplay", having never met a higher level of awareness. ](/news/2012/08/22/penn-state-s-ex-president-graham-spanier-rejects-the-report-by-former-fbi-head-louis-freeh-accusing-the-university-of-a-cover-up-saying-he.md)
-_Context: Graham Spanier, Penn State child sex abuse scandal, awareness, Louis Freeh, Pennsylvania State University, FBI, Jerry Sandusky_
+_Context: Jerry Sandusky, awareness, Graham Spanier, Penn State child sex abuse scandal, FBI, Pennsylvania State University, Louis Freeh_
 
 ##### Russia
 ### [Russia becomes the 156th member of the World Trade Organization. Vanuatu becomes the 157th member. ](/news/2012/08/22/russia-becomes-the-156th-member-of-the-world-trade-organization-vanuatu-becomes-the-157th-member.md)

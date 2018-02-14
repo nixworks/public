@@ -17,11 +17,11 @@ _Context: 2017 G20 Hamburg summit, climate change, U.S._
 
 ##### Crime in Cincinnati
 ### [A shooting at a gender reveal party in Cincinnati kills 1 and injures 8. The unborn child, revealed to be a boy, also dies. ](/news/2017/07/8/a-shooting-at-a-gender-reveal-party-in-cincinnati-kills-1-and-injures-8-the-unborn-child-revealed-to-be-a-boy-also-dies.md)
-_Context: Cincinnati, Ohio, Crime in Cincinnati, gender reveal_
+_Context: gender reveal, Crime in Cincinnati, Cincinnati, Ohio_
 
 ##### Ongoing protests
 ### [Venezuelan opposition leader Leopoldo Lopez, leader of the Popular Will party, is granted house arrest after over three years of imprisonment. ](/news/2017/07/8/venezuelan-opposition-leader-leopoldo-la3pez-leader-of-the-popular-will-party-is-granted-house-arrest-after-over-three-years-of-imprisonme.md)
-_Context: Popular Will, ongoing protests, Leopoldo Lopez, Venezuelan_
+_Context: ongoing protests, Popular Will, Venezuelan, Leopoldo Lopez_
 
 ## [Previous Day...](/news/2017/07/7/index.md)
 

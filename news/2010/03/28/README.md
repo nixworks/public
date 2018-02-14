@@ -5,7 +5,7 @@ Formats: [HTML](2010/03/28/index.html)  [JSON](2010/03/28/index.json)  [XML](201
 
 ##### BBC
 ### [The BBC reports it has found evidence of a massacre which occurred in Democratic Republic of Congo last December in which at least 321 people, including children, were killed. Human Rights Watch calls it "one of the worst massacres carried out by the LRA". ](/news/2010/03/28/the-bbc-reports-it-has-found-evidence-of-a-massacre-which-occurred-in-democratic-republic-of-congo-last-december-in-which-at-least-321-peopl.md)
-_Context: Human Rights Watch, massacre, LRA, BBC, Democratic Republic of Congo_
+_Context: Human Rights Watch, LRA, BBC, massacre, Democratic Republic of Congo_
 
 ##### Palm Sunday
 ### [At a Palm Sunday mass in Saint Peter's Square, Rome, Pope Benedict XVI tells tens of thousands of people about the recent "petty gossip" he has been subjected to, thought to mean the child sexual abuse within the Roman Catholic Church, though he fails to directly mention the scandal. ](/news/2010/03/28/at-a-palm-sunday-mass-in-saint-peter-s-square-rome-pope-benedict-xvi-tells-tens-of-thousands-of-people-about-the-recent-petty-gossip-he.md)
@@ -17,7 +17,7 @@ Posters leaving out Al Aksa mosque plastered on buses with e. Jerusalem routes.
 
 ##### U.S. President
 ### [U.S. President Barack Obama, in his first visit to Afghanistan as commander in chief, meets with Afghan President Hamid Karzai and speaks to American troops deployed there. ](/news/2010/03/28/u-s-president-barack-obama-in-his-first-visit-to-afghanistan-as-commander-in-chief-meets-with-afghan-president-hamid-karzai-and-speaks-to.md)
-_Context: U.S. President, Barack Obama, Hamid Karzai, Afghanistan President, Afghanistan_
+_Context: U.S. President, Afghanistan, Hamid Karzai, Barack Obama, Afghanistan President_
 
 ##### Patissia
 ### [One male is killed and two other people are injured in the Patissia area of the Greek capital Athens after a bomb explodes outside a public building. It is the first fatal bombing in Greece for many years. ](/news/2010/03/28/one-male-is-killed-and-two-other-people-are-injured-in-the-patissia-area-of-the-greek-capital-athens-after-a-bomb-explodes-outside-a-public.md)
@@ -33,7 +33,7 @@ Six people were killed and 15 others wounded in a roadside bomb attack in the Ir
 
 ##### Olancho
 ### [2 journalists are shot dead, in the northeastern region of Olancho in Honduras. ](/news/2010/03/28/2-journalists-are-shot-dead-in-the-northeastern-region-of-olancho-in-honduras.md)
-_Context: Olancho, Honduras_
+_Context: Honduras, Olancho_
 
 ##### Thailand
 ### [Thai Prime Minister Abhisit Vejjajiva meets with leaders of the National United Front of Democracy Against Dictatorship on live television to help bring about an end to the political crisis in the country. ](/news/2010/03/28/thai-prime-minister-abhisit-vejjajiva-meets-with-leaders-of-the-national-united-front-of-democracy-against-dictatorship-on-live-television-t.md)
@@ -49,7 +49,7 @@ _Context: Silvio Berlusconi, Italy_
 
 ##### Time zones
 ### [First step in Russian time zone reform comes into force. The number of time zones drops from 11 to 9, eliminating Samara Time and Kamchatka Time. ](/news/2010/03/28/first-step-in-russian-time-zone-reform-comes-into-force-the-number-of-time-zones-drops-from-11-to-9-eliminating-samara-time-and-kamchatka.md)
-_Context: time zones, Kamchatka Time, Samara Time_
+_Context: Samara Time, Kamchatka Time, time zones_
 
 ##### FBI
 ### [America's Federal Bureau of Investigation (FBI) conducts raids in southeastern Michigan in an investigation involving members of Hutaree, a Christian-oriented militia group. ](/news/2010/03/28/america-s-federal-bureau-of-investigation-fbi-conducts-raids-in-southeastern-michigan-in-an-investigation-involving-members-of-hutaree-a.md)

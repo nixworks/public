@@ -5,7 +5,7 @@ Formats: [HTML](2014/04/15/index.html)  [JSON](2014/04/15/index.json)  [XML](201
 
 ##### Cairo
 ### [A bomb detonates at a traffic police post in Cairo, Egypt, injuring 3 people. ](/news/2014/04/15/a-bomb-detonates-at-a-traffic-police-post-in-cairo-egypt-injuring-3-people.md)
-_Context: Egypt, Cairo_
+_Context: Cairo, Egypt_
 
 ##### 2014 pro-Russian unrest in Ukraine
 ### [Shots are fired at Kramatorsk air base as Ukrainian Ground Forces are dispatched to take on separatists. Unconfirmed reports state that 4 pro-Russian militants have been killed and 2 people have been injured. Some reports claim up to 10 deaths. ](/news/2014/04/15/shots-are-fired-at-kramatorsk-air-base-as-ukrainian-ground-forces-are-dispatched-to-take-on-separatists-unconfirmed-reports-state-that-4-pr.md)
@@ -17,7 +17,7 @@ _Context: 276 girls kidnapped from northern Nigeria, Boko Haram_
 
 ##### Lom
 ### [At least 48 people die and 15 are severely injured after a bus crashes into a truck 150 kilometres north of Lom, capital of the West African nation of Togo. ](/news/2014/04/15/at-least-48-people-die-and-15-are-severely-injured-after-a-bus-crashes-into-a-truck-150-kilometres-north-of-lome-capital-of-the-west-africa.md)
-_Context: Lom, Togo_
+_Context: Togo, Lom_
 
 ##### 2014 West Africa Ebola outbreak
 ### [The death toll from the West Africa ebola outbreak reaches 121. ](/news/2014/04/15/the-death-toll-from-the-west-africa-ebola-outbreak-reaches-121.md)

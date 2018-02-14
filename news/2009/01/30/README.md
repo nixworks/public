@@ -13,15 +13,15 @@ A small plane apparently low on fuel hit a power line and crashed into a wooded 
 
 ##### U.S.
 ### [ The U.S. State Department will not renew security contractor Blackwater Worldwide's license when it expires in May 2009. ](/news/2009/01/30/the-u-s-state-department-will-not-renew-security-contractor-blackwater-worldwide-s-license-when-it-expires-in-may-2009.md)
-_Context: U.S., State Department, Blackwater Worldwide, civilian contractor_
+_Context: Blackwater Worldwide, civilian contractor, U.S., State Department_
 
 ##### Michael S. Steele
 ### [ Michael S. Steele becomes the U.S. Republican National Committee's first African-American chairman. ](/news/2009/01/30/michael-s-steele-becomes-the-u-s-republican-national-committee-s-first-african-american-chairman.md)
-_Context: African-American, first, Republican National Committee, chairman, Michael S. Steele, U.S._
+_Context: Michael S. Steele, African-American, Republican National Committee, first, chairman, U.S._
 
 ##### Somalia
 ### [ Somalia's Transitional Federal Government collapses after Al-Shabaab captures Baidoa. ](/news/2009/01/30/somalia-s-transitional-federal-government-collapses-after-al-shabaab-captures-baidoa.md)
-_Context: Somalia, Al-Shabaab, Baidoa, Transitional Federal Government_
+_Context: Al-Shabaab, Somalia, Transitional Federal Government, Baidoa_
 
 ##### United Nations
 ### [ United Nations Secretary-General Ban Ki-moon announces an investigation into Israel's attack on the U.N.'s Gaza Strip headquarters. ](/news/2009/01/30/united-nations-secretary-general-ban-ki-moon-announces-an-investigation-into-israel-s-attack-on-the-u-n-s-gaza-strip-headquarters.md)
@@ -29,19 +29,19 @@ Pressure mounts on Israel to answer accusations of war crimes in Gaza Strip.
 
 ##### Heat wave
 ### [ A heat wave affects southeastern Australia, with both Adelaide and Melbourne experiencing temperatures above 45 C. ](/news/2009/01/30/a-heat-wave-affects-southeastern-australia-with-both-adelaide-and-melbourne-experiencing-temperatures-above-45-c.md)
-_Context: Melbourne, heat wave, Australia, Adelaide_
+_Context: Melbourne, Adelaide, Australia, heat wave_
 
 ##### Strike
 ### [ More than one thousand workers strike at four different United Kingdom oil refineries. ](/news/2009/01/30/more-than-one-thousand-workers-strike-at-four-different-united-kingdom-oil-refineries.md)
-_Context: United Kingdom, refinery, strike_
+_Context: strike, United Kingdom, refinery_
 
 ##### Nakumatt
 ### [ Thirteen people are killed and 47 people are missing after a Nakumatt supermarket burns in Nairobi, Kenya. ](/news/2009/01/30/thirteen-people-are-killed-and-47-people-are-missing-after-a-nakumatt-supermarket-burns-in-nairobi-kenya.md)
-_Context: burns, Nakumatt, Kenya, Nairobi_
+_Context: Kenya, burns, Nakumatt, Nairobi_
 
 ##### Norway
 ### [ Norway announces it will raise the German submarine "U-864" from the North Sea. ](/news/2009/01/30/norway-announces-it-will-raise-the-german-submarine-u-864-from-the-north-sea.md)
-_Context: Norway, Nazi, U-864, submarine, North Sea_
+_Context: U-864, North Sea, submarine, Nazi, Norway_
 
 ## [Previous Day...](/news/2009/01/29/index.md)
 

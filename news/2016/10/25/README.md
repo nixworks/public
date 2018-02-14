@@ -9,7 +9,7 @@ Militant group Islamic State said on Tuesday that fighters loyal to its movement
 
 ##### War in Somalia (2009-present)
 ### [A militant from Al-Shabaab shoots dead an intelligence officer in Mogadishu. ](/news/2016/10/25/a-militant-from-al-shabaab-shoots-dead-an-intelligence-officer-in-mogadishu.md)
-_Context: War in Somalia (2009-present), Mogadishu, Al-Shabaab_
+_Context: Mogadishu, War in Somalia (2009-present), Al-Shabaab_
 
 ##### Dammam, Saudi Arabia
 ### [A shooting in Dammam, Saudi Arabia, leaves two security officers dead. ](/news/2016/10/25/a-shooting-in-dammam-saudi-arabia-leaves-two-security-officers-dead.md)
@@ -53,7 +53,7 @@ A former nurse from Woodstock, Ont., has been charged with eight counts of first
 
 ##### Charles R. Breyer
 ### [U.S. District Judge Charles R. Breyer in San Francisco approves German automaker Volkswagen $14.7 billion settlement with federal and California regulators and the owners of the 475,000 polluting diesel vehicles over diesel emissions cheating scandal. Volkswagen still faces billions of dollars more in fines and litigation. ](/news/2016/10/25/u-s-district-judge-charles-r-breyer-in-san-francisco-approves-german-automaker-volkswagen-14-7-billion-settlement-with-federal-and-califo.md)
-_Context: Charles R. Breyer, $, Volkswagen, California, German, San Francisco_
+_Context: San Francisco, Volkswagen, California, German, Charles R. Breyer, $_
 
 ## [Previous Day...](/news/2016/10/24/index.md)
 

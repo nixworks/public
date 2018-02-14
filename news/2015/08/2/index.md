@@ -5,7 +5,7 @@ Formats: [HTML](2015/08/2/index.html)  [JSON](2015/08/2/index.json)  [XML](2015/
 
 ##### Saudi-led intervention in Yemen
 ### [A projectile fired from Yemen into the city of Najran kills a Saudi Arabian citizen. ](/news/2015/08/2/a-projectile-fired-from-yemen-into-the-city-of-najran-kills-a-saudi-arabian-citizen.md)
-_Context: Saudi-led intervention in Yemen, Najran, Yemen, Saudi Arabia_
+_Context: Saudi-led intervention in Yemen, Yemen, Saudi Arabia, Najran_
 
 ##### Turkey-PKK conflict
 ### [A suicide attack by the PKK kills two Turkish Army soldiers and injures 24 others in the Turkish town of Dogubeyazit in Agri Province near the Iran border. ](/news/2015/08/2/a-suicide-attack-by-the-pkk-kills-two-turkish-army-soldiers-and-injures-24-others-in-the-turkish-town-of-doaubeyaza-t-in-aara-province-ne.md)
@@ -17,7 +17,7 @@ _Context: Bujumbura, Burundian Army_
 
 ##### Boko Haram
 ### [Nigerian Army soldiers rescue 178 people from Boko Haram camps including 101 children. ](/news/2015/08/2/nigerian-army-soldiers-rescue-178-people-from-boko-haram-camps-including-101-children.md)
-_Context: Nigerian Army, Boko Haram_
+_Context: Boko Haram, Nigerian Army_
 
 ##### Egypt
 ### [A court in Egypt postpones a verdict in the prominent trial of two journalists with Al-Jazeera, who have been charged with aiding the Muslim Brotherhood. ](/news/2015/08/2/a-court-in-egypt-postpones-a-verdict-in-the-prominent-trial-of-two-journalists-with-al-jazeera-who-have-been-charged-with-aiding-the-muslim.md)

@@ -17,15 +17,15 @@ Ruling party candidate Laura Chinchilla has been elected Costa Rica&#39;s first 
 
 ##### President of Argentina
 ### [First Gentleman and former President Nstor Kirchner of Argentina undergoes emergency surgery to remove a blockage in his carotid artery. ](/news/2010/02/7/first-gentleman-and-former-president-nestor-kirchner-of-argentina-undergoes-emergency-surgery-to-remove-a-blockage-in-his-carotid-artery.md)
-_Context: President of Argentina, carotid artery, Argentina, Nstor Kirchner_
+_Context: Argentina, President of Argentina, carotid artery, Nstor Kirchner_
 
 ##### Nigeria
 ### [In Nigeria, the Governor of Anambra state, Peter Obi, is controversially re-elected. ](/news/2010/02/7/in-nigeria-the-governor-of-anambra-state-peter-obi-is-controversially-re-elected.md)
-_Context: Nigeria, Peter Obi, Governor of Anambra state_
+_Context: Governor of Anambra state, Nigeria, Peter Obi_
 
 ##### Middletown, Connecticut
 ### [The Kleen Energy Systems plant in Middletown, Connecticut, explodes, killing at least five people and injuring at least 14 others. ](/news/2010/02/7/the-kleen-energy-systems-plant-in-middletown-connecticut-explodes-killing-at-least-five-people-and-injuring-at-least-14-others.md)
-_Context: explodes, Middletown, Connecticut_
+_Context: Middletown, Connecticut, explodes_
 
 ##### Pakistan
 ### [A Pakistani lawyers' group in Lahore threatens to "burn alive" anyone who prosecutes lawyer accused of murdering a 12-year-old servant girl. ](/news/2010/02/7/a-pakistani-lawyers-group-in-lahore-threatens-to-burn-alive-anyone-who-prosecutes-lawyer-accused-of-murdering-a-12-year-old-servant-girl.md)
@@ -45,7 +45,7 @@ Defence Minister John Faulkner has joined his New Zealand counterpart Dr Wayne M
 
 ##### Huang Yizhong
 ### [Huang Yizhong is jailed for 13 years in Jiangmen, Guangdong, for copying and spreading pornographic material through his website. ](/news/2010/02/7/huang-yizhong-is-jailed-for-13-years-in-jiangmen-guangdong-for-copying-and-spreading-pornographic-material-through-his-website.md)
-_Context: Huang Yizhong, pornography, Jiangmen, Guangdong_
+_Context: pornography, Huang Yizhong, Guangdong, Jiangmen_
 
 ##### United Kingdom
 ### [Britain is to tighten the rules on immigrants entering the country on a student visa in a clampdown on a system which some security experts say has been exploited by Islamist militants. ](/news/2010/02/7/britain-is-to-tighten-the-rules-on-immigrants-entering-the-country-on-a-student-visa-in-a-clampdown-on-a-system-which-some-security-experts.md)
@@ -53,7 +53,7 @@ Britain is to tighten the rules on immigrants entering Britain on a student visa
 
 ##### Iran
 ### [Iranian President Mahmoud Ahmadinejad orders his country's atomic agency to begin enriching uranium to a higher level. ](/news/2010/02/7/iranian-president-mahmoud-ahmadinejad-orders-his-country-s-atomic-agency-to-begin-enriching-uranium-to-a-higher-level.md)
-_Context: Iran, Mahmoud Ahmadinejad, uranium_
+_Context: uranium, Mahmoud Ahmadinejad, Iran_
 
 ##### Libya
 ### [Libya bans YouTube, independent news sites and opposition web sites in crackdown on controversial subjects, including human rights abuses by the Libyan government. ](/news/2010/02/7/libya-bans-youtube-independent-news-sites-and-opposition-web-sites-in-crackdown-on-controversial-subjects-including-human-rights-abuses-by.md)

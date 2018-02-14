@@ -33,7 +33,7 @@ At least 30 people are killed in a blast at a weapons depot in southern Libya am
 
 ##### Vietnam
 ### [Vietnam passes a new Constitution that reaffirms the dominant position of the Communist Party. ](/news/2013/11/28/vietnam-passes-a-new-constitution-that-reaffirms-the-dominant-position-of-the-communist-party.md)
-_Context: Communist Party, Constitution, Vietnam_
+_Context: Constitution, Vietnam, Communist Party_
 
 ##### Itzcoatl Ocampo
 ### [Former United States Marine Itzcoatl Ocampo commits suicide by eating Ajax while awaiting trial for six murders from 2011 and 2012. ](/news/2013/11/28/former-united-states-marine-itzcoatl-ocampo-commits-suicide-by-eating-ajax-while-awaiting-trial-for-six-murders-from-2011-and-2012.md)

@@ -21,7 +21,7 @@ _Context: Mary Barra, General Motors_
 
 ##### NSA
 ### [The United States National Security Agency played "World of Warcraft", "Second Life", and games on the Xbox 360 to spy on gamers. ](/news/2013/12/10/the-united-states-national-security-agency-played-world-of-warcraft-second-life-and-games-on-the-xbox-360-to-spy-on-gamers.md)
-_Context: NSA, Second Life, World of Warcraft, Xbox 360_
+_Context: World of Warcraft, Xbox 360, NSA, Second Life_
 
 ##### Philippines
 ### [The Philippines bans its workers from Yemen after the deaths of seven Filipinos there. ](/news/2013/12/10/the-philippines-bans-its-workers-from-yemen-after-the-deaths-of-seven-filipinos-there.md)
@@ -41,7 +41,7 @@ Uruguay became the first country to legalize the growing, sale and smoking of ma
 
 ##### Thailand
 ### [In Thailand, there are thousands of protesters in Bangkok. The opposition Democrat Party resigns en masse. ](/news/2013/12/10/in-thailand-there-are-thousands-of-protesters-in-bangkok-the-opposition-democrat-party-resigns-en-masse.md)
-_Context: Bangkok, Thailand, Democrat Party_
+_Context: Bangkok, Democrat Party, Thailand_
 
 ## [Previous Day...](/news/2013/12/9/index.md)
 

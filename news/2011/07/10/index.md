@@ -17,7 +17,7 @@ Rupert Murdoch&#039;s takeover of BSkyB appeared to be dead in the water last ni
 
 ##### Earthquake
 ### [A strong earthquake of 7.1 magnitude occurs off the coast of Honshu in Japan sparking a tsunami warning. ](/news/2011/07/10/a-strong-earthquake-of-7-1-magnitude-occurs-off-the-coast-of-honshu-in-japan-sparking-a-tsunami-warning.md)
-_Context: tsunami warning, tsunami, earthquake, Honshu Island_
+_Context: tsunami, earthquake, tsunami warning, Honshu Island_
 
 ##### Beloye
 ### [A fire in a retirement home in the village of Beloye in the western Ukraine kills 16 people. ](/news/2011/07/10/a-fire-in-a-retirement-home-in-the-village-of-beloye-in-the-western-ukraine-kills-16-people.md)
@@ -25,11 +25,11 @@ _Context: Ukraine, Beloye_
 
 ##### Kalka Mail
 ### [A hundred people are injured as the Kalka Mail is derailed near the town of Fathepur Malwa in the Indian state of Uttar Pradesh. ](/news/2011/07/10/a-hundred-people-are-injured-as-the-kalka-mail-is-derailed-near-the-town-of-fathepur-malwa-in-the-indian-state-of-uttar-pradesh.md)
-_Context: derailed, Kalka Mail, India, Uttar Pradesh_
+_Context: Kalka Mail, Uttar Pradesh, derailed, India_
 
 ##### Bulgaria
 ### [The cruise ship "Bulgaria" sinks in the Volga River near Bolgar, Russia. At least 110 of the 196 on board go down with the ship and drown, while 80 were rescued alive. ](/news/2011/07/10/the-cruise-ship-bulgaria-sinks-in-the-volga-river-near-bolgar-russia-at-least-110-of-the-196-on-board-go-down-with-the-ship-and-drown-w.md)
-_Context: Bolgar, Volga River, Russia, Bulgaria_
+_Context: Volga River, Bolgar, Russia, Bulgaria_
 
 ##### Tumaco
 ### [Twenty prisoners escape from a jail in the town of Tumaco in Colombia's Narino Department with three people recaptured. ](/news/2011/07/10/twenty-prisoners-escape-from-a-jail-in-the-town-of-tumaco-in-colombia-s-naria-o-department-with-three-people-recaptured.md)

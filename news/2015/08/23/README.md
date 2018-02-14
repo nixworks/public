@@ -17,7 +17,7 @@ Seven people have died and over 650,000 people have been affected by floods in A
 
 ##### 2015 Pacific typhoon season
 ### [Typhoon Goni leaves the Philippines with 15 dead and 12 people missing. ](/news/2015/08/23/typhoon-goni-leaves-the-philippines-with-15-dead-and-12-people-missing.md)
-_Context: 2015 Pacific typhoon season, Typhoon Goni, Philippines_
+_Context: Typhoon Goni, Philippines, 2015 Pacific typhoon season_
 
 ##### 2015 Shoreham Airshow crash
 ### [The number of fatalities in the 2015 Shoreham Airshow crash is "highly likely" to have risen to 11. ](/news/2015/08/23/the-number-of-fatalities-in-the-2015-shoreham-airshow-crash-is-highly-likely-to-have-risen-to-11.md)

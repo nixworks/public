@@ -21,7 +21,7 @@ At least eight people are killed by attackers with machetes near Jos in Nigeria,
 
 ##### South Korea
 ### [South Korea develops a long-range cruise missile capable of striking North Korea, Japan, Russia and China. ](/news/2010/07/17/south-korea-develops-a-long-range-cruise-missile-capable-of-striking-north-korea-japan-russia-and-china.md)
-_Context: Russia, North Korea, Japan, South Korea_
+_Context: Japan, Russia, North Korea, South Korea_
 
 ##### Assault rifles
 ### [Suspected militants armed with assault rifles attack a bus in northwest Pakistan near the Afghanistan border, resulting in at least 16 casualties. ](/news/2010/07/17/suspected-militants-armed-with-assault-rifles-attack-a-bus-in-northwest-pakistan-near-the-afghanistan-border-resulting-in-at-least-16-casua.md)
@@ -57,11 +57,11 @@ British tour operator Goldtrail collapses, leaving thousands of holidaymakers ab
 
 ##### Israel
 ### [Israeli settlements dump untreated chemical waste directly into a sewage canal that runs through agricultural land in the West Bank, giving Palestinians skin and respiratory illnesses. ](/news/2010/07/17/israeli-settlements-dump-untreated-chemical-waste-directly-into-a-sewage-canal-that-runs-through-agricultural-land-in-the-west-bank-giving.md)
-_Context: Israel, West Bank_
+_Context: West Bank, Israel_
 
 ##### Typhoon Conson
 ### [Typhoon Conson makes landfall near Hai Phong, Vietnam, after devastating Southern China and the Philippines with at least 65 dead. ](/news/2010/07/17/typhoon-conson-makes-landfall-near-hai-phong-vietnam-after-devastating-southern-china-and-the-philippines-with-at-least-65-dead.md)
-_Context: Hai Phong, Philippines, Vietnam, Typhoon Conson_
+_Context: Philippines, Vietnam, Typhoon Conson, Hai Phong_
 
 ##### Israel
 ### [One month after Israel's announcement it was easing its Gazan blockade the humanitarian situation remains dire. ](/news/2010/07/17/one-month-after-israel-s-announcement-it-was-easing-its-gazan-blockade-the-humanitarian-situation-remains-dire.md)
@@ -77,7 +77,7 @@ _Context: Greece_
 
 ##### Coal mine
 ### [Twenty-eight coal miners die after a fire in their mine near Hancheng City in China's Shaanxi Province. ](/news/2010/07/17/twenty-eight-coal-miners-die-after-a-fire-in-their-mine-near-hancheng-city-in-china-s-shaanxi-province.md)
-_Context: coal mine, Hancheng City, China, Shaanxi Province_
+_Context: China, coal mine, Shaanxi Province, Hancheng City_
 
 ##### Guido Westerwelle
 ### [German Foreign Minister Guido Westerwelle criticises a reported Israeli plan that would lead to Gaza's separation from the rest of the Palestinian territories becoming final. ](/news/2010/07/17/german-foreign-minister-guido-westerwelle-criticises-a-reported-israeli-plan-that-would-lead-to-gaza-s-separation-from-the-rest-of-the-pales.md)
@@ -105,7 +105,7 @@ _Context: Simon Bolivar, Hugo Chavez_
 
 ##### Australian Prime Minister
 ### [The Prime Minister of Australia Julia Gillard calls a federal election for 21 August 2010. ](/news/2010/07/17/the-prime-minister-of-australia-julia-gillard-calls-a-federal-election-for-21-august-2010.md)
-_Context: Australian Prime Minister, recent election, Julia Gillard_
+_Context: recent election, Australian Prime Minister, Julia Gillard_
 
 ##### Berkshire
 ### [Dozens of residents protest against plans to build four wind turbines in a field in Berkshire, England. ](/news/2010/07/17/dozens-of-residents-protest-against-plans-to-build-four-wind-turbines-in-a-field-in-berkshire-england.md)
@@ -133,7 +133,7 @@ _Context: Salman Butt, Shahid Afridi_
 
 ##### 2010 FIFA World Cup Final
 ### [One of the balls used in the 2010 FIFA World Cup Final sells for GBP48,200 on eBay. ](/news/2010/07/17/one-of-the-balls-used-in-the-2010-fifa-world-cup-final-sells-for-agbp48-200-on-ebay.md)
-_Context: eBay, 2010 FIFA World Cup Final_
+_Context: 2010 FIFA World Cup Final, eBay_
 
 ## [Previous Day...](/news/2010/07/16/index.md)
 

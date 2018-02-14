@@ -5,7 +5,7 @@ Formats: [HTML](2008/09/13/index.html)  [JSON](2008/09/13/index.json)  [XML](200
 
 ##### Chatsworth train collision
 ### [ The death toll from the 2008 Chatsworth train collision in Los Angeles rises to 24 with more fatalities expected. ](/news/2008/09/13/the-death-toll-from-the-2008-chatsworth-train-collision-in-los-angeles-rises-to-24-with-more-fatalities-expected.md)
-_Context: Los Angeles, Chatsworth train collision_
+_Context: Chatsworth train collision, Los Angeles_
 
 ##### Five explosions
 ### [ Five explosions rock various places in Delhi, killing at least 30 people. ](/news/2008/09/13/five-explosions-rock-various-places-in-delhi-killing-at-least-30-people.md)
@@ -21,7 +21,7 @@ _Context: Afghanistan, Lowgar Province_
 
 ##### Deadly landslide
 ### [ A mudslide caused by an illegal mine in Shanxi province in China kills 254 people. ](/news/2008/09/13/a-mudslide-caused-by-an-illegal-mine-in-shanxi-province-in-china-kills-254-people.md)
-_Context: China, deadly landslide, Shanxi province_
+_Context: deadly landslide, Shanxi province, China_
 
 ##### Sichuan
 ### [ A bus crashes into a 100 m gorge in Sichuan, China, killing 51. ](/news/2008/09/13/a-bus-crashes-into-a-100-m-gorge-in-sichuan-china-killing-51.md)
@@ -29,7 +29,7 @@ _Context: Sichuan, China_
 
 ##### All Blacks
 ### [ The All Blacks defeat Australia (28-24) to win the 2008 Tri Nations Series at the Suncorp Stadium in Brisbane, Australia. ](/news/2008/09/13/the-all-blacks-defeat-australia-28a24-to-win-the-2008-tri-nations-series-at-the-suncorp-stadium-in-brisbane-australia.md)
-_Context: 2008 Tri Nations Series, Suncorp Stadium, Australia, Australia, Brisbane, All Blacks_
+_Context: Suncorp Stadium, 2008 Tri Nations Series, Brisbane, Australia, Australia, All Blacks_
 
 ##### 
 ### [ Russians troops leave west, but remain in Georgia. ](/news/2008/09/13/russians-troops-leave-west-but-remain-in-georgia.md)

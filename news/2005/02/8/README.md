@@ -5,19 +5,19 @@ Formats: [HTML](2005/02/8/index.html)  [JSON](2005/02/8/index.json)  [XML](2005/
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: Guerrillas in Baquba detonate a car bomb outside an Iraqi police headquarters, killing 15 and wounding 17. A suicide bomber in Mosul kills 12 policemen and injures 4 others. In another area of the city, guerrillas fire a dozen mortar rounds at a police station, killing 3 civilians. ](/news/2005/02/8/conflict-in-iraq-guerrillas-in-baquba-detonate-a-car-bomb-outside-an-iraqi-police-headquarters-killing-15-and-wounding-17-a-suicide-bomb.md)
-_Context: Iraq, Mortar, Conflict in Iraq, Baquba, guerillas, Mosul_
+_Context: guerillas, Baquba, Conflict in Iraq, Iraq, Mortar, Mosul_
 
 ##### Israeli-Palestinian Conflict
 ### [ Israeli-Palestinian Conflict: A truce is declared between Israel and the Palestinian Authority. Mahmoud Abbas, the President of the Palestinian Authority, and Ariel Sharon, the Prime Minister of Israel, shook hands at a four-way summit at Sharm el-Sheikh that was also attended by Egyptian President Hosni Mubarak and Jordan's King Abdullah. Palestinian organization Hamas says it is not bound by the ceasefire. ](/news/2005/02/8/israeli-palestinian-conflict-a-truce-is-declared-between-israel-and-the-palestinian-authority-mahmoud-abbas-the-president-of-the-palesti.md)
-_Context: Sharm el-Sheikh, Mahmoud Abbas, Jordanian King, Palestinian, truce, Israel, Hosni Mubarak, Israeli-Palestinian Conflict, Israeli Prime Minister, Palestinian Authority, Hamas, Egypt, Ariel Sharon, Abdullah II of Jordan, President, President of the Palestinian Authority, Jordan_
+_Context: Ariel Sharon, President, Jordan, truce, Jordanian King, Palestinian Authority, Israeli Prime Minister, Egypt, Israeli-Palestinian Conflict, Israel, Sharm el-Sheikh, Hosni Mubarak, Abdullah II of Jordan, Mahmoud Abbas, President of the Palestinian Authority, Hamas, Palestinian_
 
 ##### Denmark
 ### [ In Denmark, parliamentary elections result in a continuation of the center-right coalition of Prime Minister Anders Fogh Rasmussen. ](/news/2005/02/8/in-denmark-parliamentary-elections-result-in-a-continuation-of-the-center-right-coalition-of-prime-minister-anders-fogh-rasmussen.md)
-_Context: Prime Minister of Denmark, Denmark, last elections in early 2005, Anders Fogh Rasmussen_
+_Context: last elections in early 2005, Prime Minister of Denmark, Anders Fogh Rasmussen, Denmark_
 
 ##### Nepal
 ### [ In Nepal, phone lines and internet connections are restored. ](/news/2005/02/8/in-nepal-phone-lines-and-internet-connections-are-restored.md)
-_Context: phone, internet, Nepal_
+_Context: Nepal, internet, phone_
 
 ##### Switzerland
 ### [ Swiss police are searching for three apparent burglars who yesterday briefly held hostages in the Spanish embassy in Bern. When the police stormed the building, they discovered that the criminals had already left the scene. An embassy security guard is in the hospital. ](/news/2005/02/8/swiss-police-are-searching-for-three-apparent-burglars-who-yesterday-briefly-held-hostages-in-the-spanish-embassy-in-bern-when-the-police.md)
@@ -29,15 +29,15 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Tobacco
 ### [ A ban on tobacco smoking in public places begins in Cuba. ](/news/2005/02/8/a-ban-on-tobacco-smoking-in-public-places-begins-in-cuba.md)
-_Context: tobacco, smokers, Cuba_
+_Context: smokers, Cuba, tobacco_
 
 ##### China
 ### [ In China, the Ministry of Agriculture announces that it has developed a vaccine against bird flu spreading to humans ](/news/2005/02/8/in-china-the-ministry-of-agriculture-announces-that-it-has-developed-a-vaccine-against-bird-flu-spreading-to-humans.md)
-_Context: China, vaccine, Avian flu virus_
+_Context: Avian flu virus, China, vaccine_
 
 ##### Government
 ### [ The parliament in Greece elects Karolos Papoulias as their new president for the next five-year term. ](/news/2005/02/8/the-parliament-in-greece-elects-karolos-papoulias-as-their-new-president-for-the-next-five-year-term.md)
-_Context: government, president, Greece, Karolos Papoulias_
+_Context: Greece, government, president, Karolos Papoulias_
 
 ##### Guyana
 ### [ In response to the floods in Guyana, the United Nations Office for the Coordination of Humanitarian Affairs (OCHA) launches a ](/news/2005/02/8/in-response-to-the-floods-in-guyana-the-united-nations-office-for-the-coordination-of-humanitarian-affairs-ocha-launches-a.md)

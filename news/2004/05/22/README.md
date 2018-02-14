@@ -13,11 +13,11 @@ _Context: Commonwealth of Nations, democratic_
 
 ##### Manmohan Singh
 ### [ Manmohan Singh is sworn in as Prime Minister of India. ](/news/2004/05/22/manmohan-singh-is-sworn-in-as-prime-minister-of-india.md)
-_Context: Indian Prime Minister, Manmohan Singh_
+_Context: Manmohan Singh, Indian Prime Minister_
 
 ##### Premier League
 ### [ English Premier League football side Manchester United defeat Millwall of the First Division 3-0 to win the FA Cup. ](/news/2004/05/22/english-premier-league-football-side-manchester-united-defeat-millwall-of-the-first-division-3a0-to-win-the-fa-cup.md)
-_Context: football, First Division, FA Cup, Millwall, Premier League, Manchester United_
+_Context: First Division, Manchester United, Millwall, football, Premier League, FA Cup_
 
 ## [Previous Day...](/news/2004/05/21/index.md)
 

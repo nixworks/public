@@ -37,7 +37,7 @@ Her father brought her diary to the world. Now, with the copyright expiring in E
 
 ##### South Korea
 ### [South Korean news agency Yonhap reports China's mobile phone users are discarding 80 million devices annually, but almost none are being recycled. China's recycling rate stands at 9-10 percent of the global recycling average. ](/news/2015/11/13/south-korean-news-agency-yonhap-reports-china-s-mobile-phone-users-are-discarding-80-million-devices-annually-but-almost-none-are-being-rec.md)
-_Context: mobile phone, Yonhap, South Korea, recycled, China_
+_Context: Yonhap, China, South Korea, recycled, mobile phone_
 
 ##### Nasdaq
 ### [Nasdaq is engaged in negotiations to buy the Canada unit of Chi-X Global Holdings. Chi-X is an important provider of alternative equity trading venues. ](/news/2015/11/13/nasdaq-is-engaged-in-negotiations-to-buy-the-canada-unit-of-chi-x-global-holdings-chi-x-is-an-important-provider-of-alternative-equity-trad.md)
@@ -57,15 +57,15 @@ A prominent Burundi opposition politician urged the United Nations on Friday to 
 
 ##### European migrant crisis
 ### [German Chancellor Angela Merkel asserts she still isn't prepared to name an upper limit to the number of refugees who can come to Germany, despite mounting domestic political pressure. ](/news/2015/11/13/german-chancellor-angela-merkel-asserts-she-still-isn-t-prepared-to-name-an-upper-limit-to-the-number-of-refugees-who-can-come-to-germany-d.md)
-_Context: Chancellor, European migrant crisis, German, Angela Merkel_
+_Context: Chancellor, European migrant crisis, Angela Merkel, German_
 
 ##### Syrian Civil War peace process
 ### [U.S. Secretary of State John Kerry meets in Vienna, Austria, with the foreign ministers of Turkey and Saudi Arabia, as well as the U.N. special envoy for Syria, ahead of Saturday's next round of international summits on the Syrian Civil War. The talks, aimed toward a cease-fire in Syria's devastating war and a political transition to a post-war government, will include senior officials from 19 nations-groups and, as in October, Iran will participate. ](/news/2015/11/13/u-s-secretary-of-state-john-kerry-meets-in-vienna-austria-with-the-foreign-ministers-of-turkey-and-saudi-arabia-as-well-as-the-u-n-spec.md)
-_Context: Saudi Arabia, United Nations, Turkey, Syria, Syrian Civil War peace process, Vienna, United States Secretary of State, Iran, John Kerry, Austria_
+_Context: Iran, Saudi Arabia, United Nations, Syrian Civil War peace process, John Kerry, Turkey, United States Secretary of State, Austria, Syria, Vienna_
 
 ##### Flight 9268
 ### [As a temporary security measure, effective Saturday, Russia bans incoming flights by Egypt's state-owned airline, EgyptAir, two weeks after an apparent terrorist bomb downed a Russian jet in the Sinai. ](/news/2015/11/13/as-a-temporary-security-measure-effective-saturday-russia-bans-incoming-flights-by-egypt-s-state-owned-airline-egyptair-two-weeks-after.md)
-_Context: Egypt, Flight 9268, Sinai Peninsula, EgyptAir, Russia_
+_Context: Flight 9268, Russia, EgyptAir, Egypt, Sinai Peninsula_
 
 ##### Dominican Republic
 ### [Police in the Dominican Republic raid a mansion owned by 30-year-old Francisco Flores de Freites, one of the two nephews of Venezuelan President Nicolas Maduro facing charges for allegedly trying to traffic 800 kg of cocaine into the U.S., and found more than 280 pounds of cocaine and 22 pounds of heroin hidden inside the nephew's posh Casa de Campo property and a 135-foot yacht named "The Kingdom" docked behind it. ](/news/2015/11/13/police-in-the-dominican-republic-raid-a-mansion-owned-by-30-year-old-francisco-flores-de-freites-one-of-the-two-nephews-of-venezuelan-presi.md)

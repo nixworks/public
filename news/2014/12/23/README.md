@@ -45,7 +45,7 @@ Islamabad: For the first time, Pakistan and Russia have signed an energy deal wo
 
 ##### Hellenic Parliament
 ### [The Greek parliament fails to elect a new president in the second round of voting. ](/news/2014/12/23/the-greek-parliament-fails-to-elect-a-new-president-in-the-second-round-of-voting.md)
-_Context: elect a new Greek president, Hellenic Parliament_
+_Context: Hellenic Parliament, elect a new Greek president_
 
 ## [Previous Day...](/news/2014/12/22/index.md)
 

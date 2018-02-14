@@ -17,7 +17,7 @@ _Context: Lac-Mgantic train disaster_
 
 ##### China
 ### [Heavy rain in southwest China causes floods and landslides with at least 9 people dead and 62 missing. ](/news/2013/07/11/heavy-rain-in-southwest-china-causes-floods-and-landslides-with-at-least-9-people-dead-and-62-missing.md)
-_Context: floods and landslides, China_
+_Context: China, floods and landslides_
 
 ##### Taiwan
 ### [Taiwan evacuates 2,000 tourists as it prepares for Typhoon Soulik expected later this week. ](/news/2013/07/11/taiwan-evacuates-2-000-tourists-as-it-prepares-for-typhoon-soulik-expected-later-this-week.md)
@@ -25,11 +25,11 @@ _Context: Typhoon Nari, Taiwan_
 
 ##### Lower Manhattan
 ### [Eight people are injured (three seriously) in Lower Manhattan as a result of an explosion and partial collapse, of as-yet unknown cause, in a five-storey building, in Chinatown, Manhattan, New York City, on Pike Street, near Henry Street. ](/news/2013/07/11/eight-people-are-injured-three-seriously-in-lower-manhattan-as-a-result-of-an-explosion-and-partial-collapse-of-as-yet-unknown-cause-in.md)
-_Context: Manhattan, Lower Manhattan, Pike Street, New York City, Henry Street, Chinatown_
+_Context: Chinatown, Manhattan, Pike Street, Henry Street, Lower Manhattan, New York City_
 
 ##### Iranian
 ### [An Iranian exile group claims that it has evidence of secret nuclear facilities located in tunnels beneath a mountain near the town of Damavand. ](/news/2013/07/11/an-iranian-exile-group-claims-that-it-has-evidence-of-secret-nuclear-facilities-located-in-tunnels-beneath-a-mountain-near-the-town-of-damav.md)
-_Context: Damavand, Iranian, nuclear program_
+_Context: Iranian, Damavand, nuclear program_
 
 ##### Moscow
 ### [A district court in Moscow convicts the late investment fund auditor Sergei Magnitsky of tax evasion in Russia's first posthumous trial. ](/news/2013/07/11/a-district-court-in-moscow-convicts-the-late-investment-fund-auditor-sergei-magnitsky-of-tax-evasion-in-russia-s-first-posthumous-trial.md)

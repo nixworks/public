@@ -29,7 +29,7 @@ A major global commercial fair - Milan Expo 2015 - opens in northern Italy, but 
 
 ##### Salk Institute
 ### [Scientists at the Salk Institute and the Chinese Academy of Sciences studying Werner's syndrome, which is characterized by the appearance of premature aging, report that aging causes an overall decline in the synthesis of proteins that are themselves involved in protein synthesis. ](/news/2015/05/1/scientists-at-the-salk-institute-and-the-chinese-academy-of-sciences-studying-werner-s-syndrome-which-is-characterized-by-the-appearance-of.md)
-_Context: Werner's syndrome, protein synthesis, synthesis of proteins, Salk Institute, aging, Chinese Academy of Sciences_
+_Context: Salk Institute, protein synthesis, Chinese Academy of Sciences, aging, synthesis of proteins, Werner's syndrome_
 
 ##### France
 ### [French President Francois Hollande promises to investigate claims that French Army soldiers were involved in sexual child abuse in the Central African Republic. ](/news/2015/05/1/french-president-franassois-hollande-promises-to-investigate-claims-that-french-army-soldiers-were-involved-in-sexual-child-abuse-in-the-cent.md)
@@ -41,7 +41,7 @@ Prosecutors in Baltimore described repeated mistreatment of a 25-year-old man wh
 
 ##### Fort Lee lane closure scandal
 ### [Former Port Authority of New York and New Jersey official David Wildstein pleads guilty for his role in creating traffic jams near the George Washington Bridge for political retribution in 2013. ](/news/2015/05/1/former-port-authority-of-new-york-and-new-jersey-official-david-wildstein-pleads-guilty-for-his-role-in-creating-traffic-jams-near-the-georg.md)
-_Context: David Wildstein, traffic jam, George Washington Bridge, Fort Lee lane closure scandal, Port Authority_
+_Context: traffic jam, George Washington Bridge, Fort Lee lane closure scandal, David Wildstein, Port Authority_
 
 ## [Previous Day...](/news/2015/04/30/index.md)
 

@@ -9,7 +9,7 @@ _Context: Australia, Afghanistan_
 
 ##### Kashgar
 ### [Sixteen people die in a clash near the city of Kashgar in China's restive Xinjiang province. ](/news/2013/12/15/sixteen-people-die-in-a-clash-near-the-city-of-kashgar-in-china-s-restive-xinjiang-province.md)
-_Context: China, Xinjiang, Kashgar_
+_Context: Kashgar, Xinjiang, China_
 
 ##### British
 ### [British and American actress Joan Fontaine, best known for her two roles under Alfred Hitchcock ("Rebecca", "Suspicion"), and the sister of Olivia de Havilland, dies at the age of 96. ](/news/2013/12/15/british-and-american-actress-joan-fontaine-best-known-for-her-two-roles-under-alfred-hitchcock-rebecca-suspicion-and-the-sister-of.md)
@@ -29,7 +29,7 @@ Left-wing candidate Michelle Bachelet is elected Chilean president for a second 
 
 ##### John McCain
 ### [U.S. Senator John McCain joins protesters in Kiev and accuses Moscow of intervening in the internal politics of the country. ](/news/2013/12/15/u-s-senator-john-mccain-joins-protesters-in-kiev-and-accuses-moscow-of-intervening-in-the-internal-politics-of-the-country.md)
-_Context: Kiev, Moscow, John McCain_
+_Context: John McCain, Kiev, Moscow_
 
 ## [Previous Day...](/news/2013/12/14/index.md)
 

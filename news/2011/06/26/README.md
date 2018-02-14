@@ -5,7 +5,7 @@ Formats: [HTML](2011/06/26/index.html)  [JSON](2011/06/26/index.json)  [XML](201
 
 ##### Syrian Army
 ### [2011 Syrian uprising:A Syrian military spokesman says more than 400 members of security forces have been killed in the months-long unrest as videos surface allegedly showing children killed in the violence. ](/news/2011/06/26/2011-syrian-uprising-a-syrian-military-spokesman-says-more-than-400-members-of-security-forces-have-been-killed-in-the-months-long-unrest-as.md)
-_Context: Syrian Army, 2011 Syrian uprising_
+_Context: 2011 Syrian uprising, Syrian Army_
 
 ##### Israel
 ### [Following accusations by the Foreign Press Association that Israel is intimidating journalists on the 10-ship flotilla due to sail to the Gaza Strip, Prime Minister Benjamin Netanyahu says that the journalists will not to be sanctioned. ](/news/2011/06/26/following-accusations-by-the-foreign-press-association-that-israel-is-intimidating-journalists-on-the-10-ship-flotilla-due-to-sail-to-the-ga.md)
@@ -13,7 +13,7 @@ Israeli troops begin to dismantle part of the West Bank barrier near Bilin, for 
 
 ##### Vietnamese
 ### [Vietnamese protesters march in the capital Hanoi for the fourth successive week calling on the People's Republic of China to stop entering Vietnamese territorial waters on the South China Sea. ](/news/2011/06/26/vietnamese-protesters-march-in-the-capital-hanoi-for-the-fourth-successive-week-calling-on-the-people-s-republic-of-china-to-stop-entering-v.md)
-_Context: Hanoi, Vietnamese, South China Sea, territorial waters, China_
+_Context: Vietnamese, South China Sea, Hanoi, territorial waters, China_
 
 ##### Maiduguri
 ### [At least 25 people are killed and many others are wounded after a bomb explodes in Maiduguri. ](/news/2011/06/26/at-least-25-people-are-killed-and-many-others-are-wounded-after-a-bomb-explodes-in-maiduguri.md)
@@ -25,7 +25,7 @@ _Context: SGBPo Paulo_
 
 ##### Daniel Craig
 ### [It is confirmed that Daniel Craig, the current James Bond, has married the Academy Award-winning actress Rachel Weisz at a private ceremony in the U.S. state of New York. ](/news/2011/06/26/it-is-confirmed-that-daniel-craig-the-current-james-bond-has-married-the-academy-award-winning-actress-rachel-weisz-at-a-private-ceremony.md)
-_Context: Academy Award, U.S. state, New York, Daniel Craig, Rachel Weisz, James Bond_
+_Context: James Bond, U.S. state, Rachel Weisz, Daniel Craig, New York, Academy Award_
 
 ##### Beyonce
 ### [Beyonce makes her debut at the Glastonbury Festival, becoming one of only a small number of women to have headlined. ](/news/2011/06/26/beyonca-c-makes-her-debut-at-the-glastonbury-festival-becoming-one-of-only-a-small-number-of-women-to-have-headlined.md)
@@ -33,7 +33,7 @@ US star Beyonce makes her debut at Glastonbury, bringing the three-day festival 
 
 ##### 2011 Puyehue-Cordon Caulle eruption
 ### [Ash cloud from the 2011 Puyehue-Cordon Caulle eruption continues to disrupt flights between Australia and New Zealand. ](/news/2011/06/26/ash-cloud-from-the-2011-puyehue-corda3n-caulle-eruption-continues-to-disrupt-flights-between-australia-and-new-zealand.md)
-_Context: 2011 Puyehue-Cordon Caulle eruption, New Zealand, Australia_
+_Context: New Zealand, Australia, 2011 Puyehue-Cordon Caulle eruption_
 
 ##### Mountaineering
 ### [The bodies of six mountaineers are found on Neige Cordier in the French Alps after apparently having been killed by an avalanche. ](/news/2011/06/26/the-bodies-of-six-mountaineers-are-found-on-neige-cordier-in-the-french-alps-after-apparently-having-been-killed-by-an-avalanche.md)

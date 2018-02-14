@@ -13,7 +13,7 @@ Arab coalition forces have captured a Yemeni Red Sea archipelago used by Iran-al
 
 ##### Switzerland
 ### [Swiss officials say police, based on a CIA tip, are hunting for at least four Islamic State-associated suspects believed to be plotting an attack in Geneva. ](/news/2015/12/10/swiss-officials-say-police-based-on-a-cia-tip-are-hunting-for-at-least-four-islamic-state-associated-suspects-believed-to-be-plotting-an-a.md)
-_Context: Swiss authorities, ISIL, Switzerland, CIA_
+_Context: Swiss authorities, Switzerland, CIA, ISIL_
 
 ##### U.S.
 ### [A United States Treasury official says ISIL has made over $500 million selling oil to Syrian President Bashar Assad's government, and has also sold oil to Turkey. ](/news/2015/12/10/a-united-states-treasury-official-says-isil-has-made-over-500-million-selling-oil-to-syrian-president-bashar-assadas-government-and-has.md)

@@ -15,7 +15,7 @@ Formats: [HTML](/news/2007/07/25/more-houses-are-evacuated-in-oxford-as-the-rive
 
 ### Related:
 
-1. [All flights to and from London's City Airport have been cancelled after an unexploded World War II bomb was discovered in the River Thames at George V Dock, the airport says. ](/news/2018/02/12/all-flights-to-and-from-london-s-city-airport-have-been-cancelled-after-an-unexploded-world-war-ii-bomb-was-discovered-in-the-river-thames-a.md) _Context: River Thames_
+1. [All flights to and from London City Airport are cancelled after an unexploded World War II bomb is discovered in the River Thames at King George V Dock. ](/news/2018/02/12/all-flights-to-and-from-london-city-airport-are-cancelled-after-an-unexploded-world-war-ii-bomb-is-discovered-in-the-river-thames-at-king-ge.md) _Context: River Thames_
 2. [The death toll rises to five after a woman who fell into the River Thames dies in hospital. ](/news/2017/04/7/the-death-toll-rises-to-five-after-a-woman-who-fell-into-the-river-thames-dies-in-hospital.md) _Context: River Thames_
 3. [High tides cause the River Thames to flood in parts of southwest London. ](/news/2015/02/20/high-tides-cause-the-river-thames-to-flood-in-parts-of-southwest-london.md) _Context: River Thames_
 4. [The Diamond Jubilee of Elizabeth II of the United Kingdom reaches its peak with a pageant on the River Thames. ](/news/2012/06/3/the-diamond-jubilee-of-elizabeth-ii-of-the-united-kingdom-reaches-its-peak-with-a-pageant-on-the-river-thames.md) _Context: River Thames_

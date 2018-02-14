@@ -13,7 +13,7 @@ At least 12 people are killed by twin blasts in the southern Indian city of Hyde
 
 ##### Michael Edwards
 ### [Michael Edwards becomes the first British writer elected at the Academie francaise. ](/news/2013/02/21/michael-edwards-becomes-the-first-british-writer-elected-at-the-acada-c-mie-franassaise.md)
-_Context: Academie francaise, Michael Edwards, writer, United Kingdom_
+_Context: writer, United Kingdom, Academie francaise, Michael Edwards_
 
 ##### PayPal
 ### [PayPal, the online payments business, a division of eBay, launches a European version of the PayPal Here mobile payments system. ](/news/2013/02/21/paypal-the-online-payments-business-a-division-of-ebay-launches-a-european-version-of-the-paypal-here-mobile-payments-system.md)
@@ -21,7 +21,7 @@ PayPal launched a European version of its PayPal Here mobile payments service fo
 
 ##### Bank of America
 ### [A watchdog group releases a report that details write-downs of $19 billion on more than 168,000 properties by five United States banks. Under terms of a federal and state settlement of foreclosure-processing violations reached one year ago in March, Bank of America lost the most and had $13.5 billion in homeowner debts written off. The other banks are Citigroup Inc, JPMorgan Chase & Co, Wells Fargo & Co, and Ally Financial Inc. ](/news/2013/02/21/a-watchdog-group-releases-a-report-that-details-write-downs-of-19-billion-on-more-than-168-000-properties-by-five-united-states-banks-unde.md)
-_Context: United States dollars, JPMorgan Chase, Citigroup, Bank of America, Wells Fargo, Ally Financial_
+_Context: United States dollars, Ally Financial, Wells Fargo, Bank of America, JPMorgan Chase, Citigroup_
 
 ##### Snowstorm
 ### [A major snowstorm occurs in the Midwestern United States leading to two deaths so far. ](/news/2013/02/21/a-major-snowstorm-occurs-in-the-midwestern-united-states-leading-to-two-deaths-so-far.md)
@@ -29,23 +29,23 @@ A major winter storm in the US Midwest that is already blamed for two deaths bla
 
 ##### Shooting
 ### [A car crash and shooting occurs at the Las Vegas Strip in Paradise, Nevada, United States. Three people are dead, and six others are wounded. ](/news/2013/02/21/a-car-crash-and-shooting-occurs-at-the-las-vegas-strip-in-paradise-nevada-united-states-three-people-are-dead-and-six-others-are-wounded.md)
-_Context: Nevada, Paradise, Nevada, shooting, U.S., Las Vegas Strip_
+_Context: U.S., shooting, Las Vegas Strip, Nevada, Paradise, Nevada_
 
 ##### Bhandara district
 ### [Three young girls are kidnapped, raped, and killed in the Bhandara district of India. ](/news/2013/02/21/three-young-girls-are-kidnapped-raped-and-killed-in-the-bhandara-district-of-india.md)
-_Context: Bhandara district, India_
+_Context: India, Bhandara district_
 
 ##### Police sergeant
 ### [Retired police sergeant Drew Peterson, whose fourth wife, Stacy Peterson, disappeared in 2007, is sentenced by the US state of Illinois to 38 years incarceration for the 2004 murder of his third wife, Kathleen Savio. ](/news/2013/02/21/retired-police-sergeant-drew-peterson-whose-fourth-wife-stacy-peterson-disappeared-in-2007-is-sentenced-by-the-us-state-of-illinois-to-3.md)
-_Context: Illinois, Drew Peterson, incarceration, police sergeant, US_
+_Context: US, incarceration, police sergeant, Drew Peterson, Illinois_
 
 ##### Japan
 ### [Japan executes by hanging three convicted murderers, Kaoru Kobayashi, Masahiro Kanagawa and Keiki Muto. The number of death-row inmates in Japan now stands at 134. ](/news/2013/02/21/japan-executes-by-hanging-three-convicted-murderers-kaoru-kobayashi-masahiro-kanagawa-and-keiki-muto-the-number-of-death-row-inmates-in-j.md)
-_Context: Japan, sentenced to death, hanging, Kaoru Kobayashi, Masahiro Kanagawa_
+_Context: hanging, sentenced to death, Masahiro Kanagawa, Kaoru Kobayashi, Japan_
 
 ##### President
 ### [An adviser to the President of Egypt Mohamed Morsi claims that parliamentary elections will commence in late April 2013. ](/news/2013/02/21/an-adviser-to-the-president-of-egypt-mohamed-morsi-claims-that-parliamentary-elections-will-commence-in-late-april-2013.md)
-_Context: Egypt, President, Mohamed Morsi, Parliament of Egypt, the upcoming parliamentary election_
+_Context: Parliament of Egypt, the upcoming parliamentary election, Mohamed Morsi, Egypt, President_
 
 ##### Pyramid
 ### [The remains of a pyramid for an adviser to Pharaoh Ramses II is found in an archaeological excavation in Luxor, Egypt. ](/news/2013/02/21/the-remains-of-a-pyramid-for-an-adviser-to-pharaoh-ramses-ii-is-found-in-an-archaeological-excavation-in-luxor-egypt.md)

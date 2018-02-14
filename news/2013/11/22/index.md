@@ -21,7 +21,7 @@ The death toll from Typhoon Haiyan has risen above 5,000, officials in the Phili
 
 ##### Cyclone Helen
 ### [Cyclone Helen hits India's Andhra Pradesh state killing at least six people and knocking out power to thousands of villages. ](/news/2013/11/22/cyclone-helen-hits-india-s-andhra-pradesh-state-killing-at-least-six-people-and-knocking-out-power-to-thousands-of-villages.md)
-_Context: Cyclone Helen, Andhra Pradesh, India_
+_Context: Cyclone Helen, India, Andhra Pradesh_
 
 ##### Qingdao
 ### [At least 35 people are killed in an explosion after a leaking oil pipeline caught fire in the city of Qingdao, China. ](/news/2013/11/22/at-least-35-people-are-killed-in-an-explosion-after-a-leaking-oil-pipeline-caught-fire-in-the-city-of-qingdao-china.md)
@@ -33,7 +33,7 @@ A man was killed in Oakland when a falling tree struck him on Austin Street near
 
 ##### U.S.
 ### [The United States has snooped on the Netherlands since 1946, according to files published in NRC Handelsblad. ](/news/2013/11/22/the-united-states-has-snooped-on-the-netherlands-since-1946-according-to-files-published-in-nrc-handelsblad.md)
-_Context: snooped, NRC Handelsblad, U.S., Netherlands_
+_Context: Netherlands, U.S., snooped, NRC Handelsblad_
 
 ##### Crystal Mangum
 ### [Crystal Mangum, the accuser in the 2006 Duke lacrosse case, is convicted of second-degree murder by a North Carolina jury in the 2011 stabbing death of her boyfriend, and is sentenced to serve between 14 and 18 years in prison. ](/news/2013/11/22/crystal-mangum-the-accuser-in-the-2006-duke-lacrosse-case-is-convicted-of-second-degree-murder-by-a-north-carolina-jury-in-the-2011-stabbi.md)

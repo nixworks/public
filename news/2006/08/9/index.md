@@ -5,23 +5,23 @@ Formats: [HTML](2006/08/9/index.html)  [JSON](2006/08/9/index.json)  [XML](2006/
 
 ##### Venezuela
 ### [ The Venezuelan opposition selects Manuel Rosales, governor of Zulia State, as its unity candidate for the December presidential election. ](/news/2006/08/9/the-venezuelan-opposition-selects-manuel-rosales-governor-of-zulia-state-as-its-unity-candidate-for-the-december-presidential-election.md)
-_Context: holds elections, Venezuela, Zulia, Manuel Rosales_
+_Context: holds elections, Zulia, Venezuela, Manuel Rosales_
 
 ##### Mexican
 ### [ In Mexico, the partial recount of votes in the disputed 2006 presidential election held on July 2 begins amid escalating protests against alleged electoral irregularities in the close election. ](/news/2006/08/9/in-mexico-the-partial-recount-of-votes-in-the-disputed-2006-presidential-election-held-on-july-2-begins-amid-escalating-protests-against-a.md)
-_Context: Mexican, Mexican general election, July 2, Disputed Mexican election, close election, Voters, serious rights violations or irregularities_
+_Context: Disputed Mexican election, Voters, Mexican, close election, Mexican general election, July 2, serious rights violations or irregularities_
 
 ##### Chad
 ### [ Chad and Sudan resume diplomatic relations as part of the Dakar accord. The heads of state of Chad, Sudan, and Libya embrace in front of a cheering crowd in N'Djamena. ](/news/2006/08/9/chad-and-sudan-resume-diplomatic-relations-as-part-of-the-dakar-accord-the-heads-of-state-of-chad-sudan-and-libya-embrace-in-front-of-a.md)
-_Context: Chad, Dakar accord, N'Djamena, Libya, heads of state, Sudan_
+_Context: Chad, Sudan, heads of state, N'Djamena, Dakar accord, Libya_
 
 ##### India
 ### [ The Indian state of Kerala bans the sale and manufacture of soft drinks belonging to PepsiCo and The Coca-Cola Company due to the high levels of pesticide residue in the water used in these products. ](/news/2006/08/9/the-indian-state-of-kerala-bans-the-sale-and-manufacture-of-soft-drinks-belonging-to-pepsico-and-the-coca-cola-company-due-to-the-high-leve.md)
-_Context: India, The Coca-Cola Company, Indian state, PepsiCo, Kerala_
+_Context: India, Indian state, PepsiCo, Kerala, The Coca-Cola Company_
 
 ##### Philippines
 ### [ After killing two in the Philippines, Severe Tropical Storm Bopha makes landfall in Taiwan. Typhoon Saomai and Tropical Storm Maria also threaten to make landfall, on the Chinese mainland and Japan respectively. ](/news/2006/08/9/after-killing-two-in-the-philippines-severe-tropical-storm-bopha-makes-landfall-in-taiwan-typhoon-saomai-and-tropical-storm-maria-also-th.md)
-_Context: Taiwan, Typhoon Saomai, Severe Tropical Storm Bopha, Japan, Philippines, Tropical Storm Maria_
+_Context: Japan, Taiwan, Tropical Storm Maria, Severe Tropical Storm Bopha, Philippines, Typhoon Saomai_
 
 ##### Arab citizen
 ### [ Israeli Arab officials reject Hassan Nasrallah's call to leave Haifa metropolis, arguing against the attacks on civilian populations. ](/news/2006/08/9/israeli-arab-officials-reject-hassan-nasrallah-s-call-to-leave-haifa-metropolis-arguing-against-the-attacks-on-civilian-populations.md)

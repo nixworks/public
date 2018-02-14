@@ -9,7 +9,7 @@ _Context: Syrian Air Force, Lebanese_
 
 ##### Car bombing
 ### [A car bombing in the center of the Somali capital, Mogadishu, kills at least 10 people and injures 20 others. ](/news/2013/03/18/a-car-bombing-in-the-center-of-the-somali-capital-mogadishu-kills-at-least-10-people-and-injures-20-others.md)
-_Context: Mogadishu, Somalia, car bombing_
+_Context: Somalia, car bombing, Mogadishu_
 
 ##### Suicide bombing
 ### [A suspected militant suicide bombing at a court and prison complex in the Pakistani city of Peshawar kills at least 4 people and injures 47 others. ](/news/2013/03/18/a-suspected-militant-suicide-bombing-at-a-court-and-prison-complex-in-the-pakistani-city-of-peshawar-kills-at-least-4-people-and-injures-47.md)
@@ -25,15 +25,15 @@ A deadly explosion at a military ammunition storage facility in Nevada during a 
 
 ##### Japan
 ### [Japan protests to France about the sale of DCNS helicopter landing equipment to the People's Republic of China. ](/news/2013/03/18/japan-protests-to-france-about-the-sale-of-dcns-helicopter-landing-equipment-to-the-people-s-republic-of-china.md)
-_Context: China, DCNS, Japan, France_
+_Context: DCNS, China, Japan, France_
 
 ##### President of Argentina
 ### [Argentine President Cristina Fernandez de Kirchner appeals to Pope Francis for assistance in settling Argentina's dispute over the Falkland Islands with the United Kingdom. ](/news/2013/03/18/argentine-president-cristina-ferna-ndez-de-kirchner-appeals-to-pope-francis-for-assistance-in-settling-argentina-s-dispute-over-the-falkland.md)
-_Context: United Kingdom, President of Argentina, Falkland Islands sovereignty dispute, Argentina, Pope Francis, Cristina Fernandez de Kirchner_
+_Context: Argentina, Pope Francis, United Kingdom, President of Argentina, Cristina Fernandez de Kirchner, Falkland Islands sovereignty dispute_
 
 ##### China
 ### [China says that United States plans to bolster missile defences in response to provocations by North Korea would only intensify antagonism, and urges Washington to act prudently. ](/news/2013/03/18/china-says-that-united-states-plans-to-bolster-missile-defences-in-response-to-provocations-by-north-korea-would-only-intensify-antagonism.md)
-_Context: Washington, D.C., missile defence, China, North Korea, U.S._
+_Context: missile defence, China, North Korea, U.S., Washington, D.C._
 
 ##### North Korea
 ### [North Korea threatens Japan with a preemptive nuclear strike. ](/news/2013/03/18/north-korea-threatens-japan-with-a-preemptive-nuclear-strike.md)
@@ -57,7 +57,7 @@ HOUSTON -- An undergraduate student at the University of Central Florida apparen
 
 ##### FBI
 ### [The United States FBI states that they know who carried out greatest art heist in American history at Boston's Isabella Stewart Gardner Museum in 1990. ](/news/2013/03/18/the-united-states-fbi-states-that-they-know-who-carried-out-greatest-art-heist-in-american-history-at-boston-s-isabella-stewart-gardner-muse.md)
-_Context: U.S., FBI, Boston, Isabella Stewart Gardner Museum, art heist_
+_Context: Boston, U.S., FBI, art heist, Isabella Stewart Gardner Museum_
 
 ##### Ghassan Hitto
 ### [Ghassan Hitto is elected as the Syrian National Coalition's provisional Prime Minister. He will be tasked with forming a government amid the Syrian civil war. ](/news/2013/03/18/ghassan-hitto-is-elected-as-the-syrian-national-coalition-s-provisional-prime-minister-he-will-be-tasked-with-forming-a-government-amid-the.md)
@@ -69,7 +69,7 @@ Plans for a new press watchdog able to impose million-pound fines and demand apo
 
 ##### U.S.
 ### [Former United States Secretary of State Hillary Clinton officially announces her support for same-sex marriage. ](/news/2013/03/18/former-united-states-secretary-of-state-hillary-clinton-officially-announces-her-support-for-same-sex-marriage.md)
-_Context: same-sex marriage, Hillary Clinton, U.S., United States Secretary of State_
+_Context: U.S., same-sex marriage, United States Secretary of State, Hillary Clinton_
 
 ##### US
 ### [US President Barack Obama nominates Assistant Attorney General Thomas Perez to be the next United States Secretary of Labor. ](/news/2013/03/18/us-president-barack-obama-nominates-assistant-attorney-general-thomas-perez-to-be-the-next-united-states-secretary-of-labor.md)

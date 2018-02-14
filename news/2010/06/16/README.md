@@ -5,7 +5,7 @@ Formats: [HTML](2010/06/16/index.html)  [JSON](2010/06/16/index.json)  [XML](201
 
 ##### Jamaica
 ### [The Jamaican Government orders civilians to keep off the streets for two days in several slums in Kingston because authorities are still hunting for Christopher Coke, alleged by the United States to be a drug lord. ](/news/2010/06/16/the-jamaican-government-orders-civilians-to-keep-off-the-streets-for-two-days-in-several-slums-in-kingston-because-authorities-are-still-hun.md)
-_Context: U.S., Christopher "Dudus" Coke, Jamaica, drug lord, Kingston_
+_Context: Jamaica, U.S., drug lord, Christopher "Dudus" Coke, Kingston_
 
 ##### U.S.
 ### [American police in Seattle say they will "review training procedured" following the surfacing of a video which attrated international attention. The video shows a white officer from the Seattle department punching a black teenaged girl in the face when she tried intervene while the officer was confronting another girl about crossing the road at a legally forbidden area. Seattle police deny any wrongdoing. ](/news/2010/06/16/american-police-in-seattle-say-they-will-review-training-procedured-following-the-surfacing-of-a-video-which-attrated-international-attent.md)
@@ -17,7 +17,7 @@ Refugee agencies express concern over reported plans by the UK to deport about 5
 
 ##### Iran
 ### [Iran's atomic energy chief says Iran will begin building a new nuclear reactor, and Iran will keep enriching uranium, despite UN nuclear sanctions. ](/news/2010/06/16/iran-s-atomic-energy-chief-says-iran-will-begin-building-a-new-nuclear-reactor-and-iran-will-keep-enriching-uranium-despite-un-nuclear-san.md)
-_Context: nuclear reactor, Iran, ban on ballistic missile tests_
+_Context: nuclear reactor, ban on ballistic missile tests, Iran_
 
 ##### U.S. President
 ### [U.S. President Barack Obama announces that BP will finance a $20 billion fund to compensate people whose livelihoods have been damaged by the devastating oil spill in the Gulf of Mexico, and the company's chairman apologized for the worst spill in U.S. history. ](/news/2010/06/16/u-s-president-barack-obama-announces-that-bp-will-finance-a-20-billion-fund-to-compensate-people-whose-livelihoods-have-been-damaged-by-th.md)
@@ -77,11 +77,11 @@ A court bails two Dutch women over an alleged marketing stunt at the World Cup, 
 
 ##### Dragon Boat Festival
 ### [The annual Dragon Boat Festival starts in Lhasa. ](/news/2010/06/16/the-annual-dragon-boat-festival-starts-in-lhasa.md)
-_Context: Dragon Boat Festival, Lhasa_
+_Context: Lhasa, Dragon Boat Festival_
 
 ##### Jesus Christ
 ### [A six-storey statue of Jesus Christ is struck by lightning and razed to the ground in a city in the US state of Ohio. ](/news/2010/06/16/a-six-storey-statue-of-jesus-christ-is-struck-by-lightning-and-razed-to-the-ground-in-a-city-in-the-us-state-of-ohio.md)
-_Context: U.S., Ohio, Jesus Christ_
+_Context: Jesus Christ, U.S., Ohio_
 
 ##### Italy
 ### [Researchers from four Italian universities identify human remains discovered in a church in Tuscany as "almost certainly" being those of Renaissance artist Caravaggio. ](/news/2010/06/16/researchers-from-four-italian-universities-identify-human-remains-discovered-in-a-church-in-tuscany-as-almost-certainly-being-those-of-ren.md)

@@ -5,15 +5,15 @@ Formats: [HTML](2005/12/15/index.html)  [JSON](2005/12/15/index.json)  [XML](200
 
 ##### U.S. President
 ### [ Former United States presidential candidate Al Sharpton agrees to pay $100,000 to the Federal Election Commission in a settlement over alleged corrupt practices during his 2004 electoral bid. ](/news/2005/12/15/former-united-states-presidential-candidate-al-sharpton-agrees-to-pay-100-000-to-the-federal-election-commission-in-a-settlement-over-alle.md)
-_Context: U.S. President, Federal Election Commission, Al Sharpton_
+_Context: U.S. President, Al Sharpton, Federal Election Commission_
 
 ##### South Korea
 ### [ A colleague of South Korean biomedical researcher Hwang Woo-Suk says that Hwang admitted that he faked nine of eleven stem cell colonies used in what had been hailed as a medical breakthrough in the journal "Science". ](/news/2005/12/15/a-colleague-of-south-korean-biomedical-researcher-hwang-woo-suk-says-that-hwang-admitted-that-he-faked-nine-of-eleven-stem-cell-colonies-us.md)
-_Context: South Korea, Hwang Woo-Suk, stem cell, Science_
+_Context: South Korea, Hwang Woo-Suk, Science, stem cell_
 
 ##### Iraq
 ### [ Thousands of Iraqi Shia protest against Al Jazeera after a guest on a talk show on the network suggested that the Ayatollah Ali Sistani, Shia Islam's most senior cleric, should stay out of politics. ](/news/2005/12/15/thousands-of-iraqi-shia-protest-against-al-jazeera-after-a-guest-on-a-talk-show-on-the-network-suggested-that-the-ayatollah-ali-sistani-sh.md)
-_Context: Iraq, Shia, Al Jazeera, Ayatollah Ali Sistani_
+_Context: Al Jazeera, Shia, Ayatollah Ali Sistani, Iraq_
 
 ##### Israeli-Palestinian Conflict
 ### [ Israeli-Palestinian Conflict: Israel continues to strike Palestinian areas in the Gaza Strip. ](/news/2005/12/15/israeli-palestinian-conflict-israel-continues-to-strike-palestinian-areas-in-the-gaza-strip.md)
@@ -21,7 +21,7 @@ Palestinians in the West Bank have been voting in the final round of local elect
 
 ##### European Council
 ### [ The European Council meets to discuss the next 7-year budget for the European Union. ](/news/2005/12/15/the-european-council-meets-to-discuss-the-next-7-year-budget-for-the-european-union.md)
-_Context: European Union, 7-year budget, European Council_
+_Context: European Council, European Union, 7-year budget_
 
 ##### December 2005
 ### [ Voting starts in Iraq to elect the first permanent 275-member Iraqi National Assembly under the new Constitution of Iraq. ](/news/2005/12/15/voting-starts-in-iraq-to-elect-the-first-permanent-275-member-iraqi-national-assembly-under-the-new-constitution-of-iraq.md)
@@ -37,11 +37,11 @@ _Context: Kathmandu, Nagarkot, Nepal_
 
 ##### Marwan Barghouti
 ### [ Marwan Barghouti launches a new party called al-Mustaqbal ("The Future"), splitting from the Fatah movement in the Palestinian National Authority. ](/news/2005/12/15/marwan-barghouti-launches-a-new-party-called-al-mustaqbal-the-future-splitting-from-the-fatah-movement-in-the-palestinian-national-aut.md)
-_Context: Marwan Barghouti, al-Mustaqbal, Palestinian Authority, Fatah_
+_Context: Marwan Barghouti, Fatah, Palestinian Authority, al-Mustaqbal_
 
 ##### Bradley John Murdoch
 ### [ Bradley John Murdoch, convicted murderer of British backpacker Peter Falconio, is sentenced to a non-parole period of 28 years in prison in Australia. ](/news/2005/12/15/bradley-john-murdoch-convicted-murderer-of-british-backpacker-peter-falconio-is-sentenced-to-a-non-parole-period-of-28-years-in-prison-in.md)
-_Context: Peter Falconio, Bradley John Murdoch, murderer, convicted, United Kingdom, backpacker, prison, Australia_
+_Context: convicted, Peter Falconio, prison, backpacker, murderer, Australia, Bradley John Murdoch, United Kingdom_
 
 ## [Previous Day...](/news/2005/12/14/index.md)
 

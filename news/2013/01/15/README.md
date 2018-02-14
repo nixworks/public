@@ -29,7 +29,7 @@ A cleaning woman stole an empty commuter train in a suburb of Stockholm and cras
 
 ##### 2013 horse meat contamination in burgers scandal
 ### [2013 horse meat contamination in burgers scandal: The Republic of Ireland's Food Safety Authority says that horse DNA has been found in some beefburgers on sale in UK and Irish supermarkets. ](/news/2013/01/15/2013-horse-meat-contamination-in-burgers-scandal-the-republic-of-ireland-s-food-safety-authority-says-that-horse-dna-has-been-found-in-some.md)
-_Context: Irish, horse, DNA, beefburger, 2013 horse meat contamination in burgers scandal, UK, supermarket_
+_Context: 2013 horse meat contamination in burgers scandal, UK, horse, Irish, DNA, supermarket, beefburger_
 
 ##### Egypt
 ### [Egyptian human rights lawyer Ahmed al-Gizawi is sentenced to five years imprisonment and 300 lashes in Saudi Arabia. ](/news/2013/01/15/egyptian-human-rights-lawyer-ahmed-al-gizawi-is-sentenced-to-five-years-imprisonment-and-300-lashes-in-saudi-arabia.md)
@@ -45,7 +45,7 @@ An enigmatic preacher with thousands of followers is demanding the government’
 
 ##### Russia
 ### [Russia launches three Kosmos series military-purpose satellites using Rokot launch vehicle. ](/news/2013/01/15/russia-launches-three-kosmos-series-military-purpose-satellites-using-rokot-launch-vehicle.md)
-_Context: satellite, launches, launch vehicle, Rokot, Kosmos series, Russia_
+_Context: Russia, Rokot, satellite, Kosmos series, launch vehicle, launches_
 
 ## [Previous Day...](/news/2013/01/14/index.md)
 

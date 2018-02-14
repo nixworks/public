@@ -21,7 +21,7 @@ _Context: Minsk Mazowiecki, MiG-29_
 
 ##### Recognize Jerusalem as Israel's capital
 ### [The Unites States vetoes an United Nations Security Council resolution calling for it to withdraw its declaration of a capital in Jerusalem, which was approved by the other 14 members. ](/news/2017/12/18/the-unites-states-vetoes-an-united-nations-security-council-resolution-calling-for-it-to-withdraw-its-declaration-of-a-capital-in-jerusalem.md)
-_Context: United Nations Security Council resolution, recognize Jerusalem as Israel's capital, Jerusalem_
+_Context: recognize Jerusalem as Israel's capital, United Nations Security Council resolution, Jerusalem_
 
 ##### United States-North Korea relations
 ### [The United States and the United Kingdom claim North Korea is directly responsible for the WannaCry ransomware attack which occurred earlier this year. ](/news/2017/12/18/the-united-states-and-the-united-kingdom-claim-north-korea-is-directly-responsible-for-the-wannacry-ransomware-attack-which-occurred-earlier.md)

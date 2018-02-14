@@ -13,11 +13,11 @@ The rumors of the murder of 17-year-old Muhammad Abu Khdeir passed among many re
 
 ##### Roche Holding AG
 ### [Roche Holding AG says that its US-based Genentech subsidiary will purchase American biotechnology company Seragon Pharmaceuticals, Inc for up to $1.725 billion in cash and contingency payments. ](/news/2014/07/2/roche-holding-ag-says-that-its-us-based-genentech-subsidiary-will-purchase-american-biotechnology-company-seragon-pharmaceuticals-inc-for-u.md)
-_Context: biotechnology, Genentech Inc., Roche Holding AG_
+_Context: biotechnology, Roche Holding AG, Genentech Inc._
 
 ##### 2014 Atlantic hurricane season
 ### [Tropical Storm Arthur heads towards the US coast with a hurricane warning in place for the state of North Carolina. A mandatory evacuation is ordered for Hatteras Island in the Outer Banks. ](/news/2014/07/2/tropical-storm-arthur-heads-towards-the-us-coast-with-a-hurricane-warning-in-place-for-the-state-of-north-carolina-a-mandatory-evacuation-i.md)
-_Context: 2014 Atlantic hurricane season, Arthur, North Carolina, Outer Banks, Hatteras Island_
+_Context: North Carolina, Outer Banks, Hatteras Island, 2014 Atlantic hurricane season, Arthur_
 
 ##### Manitoba
 ### [Widespread flooding in the Canadian provinces of Manitoba and Saskatchewan leads to the declaration of states of emergencies in 87 municipalities. ](/news/2014/07/2/widespread-flooding-in-the-canadian-provinces-of-manitoba-and-saskatchewan-leads-to-the-declaration-of-states-of-emergencies-in-87-municipal.md)
@@ -49,7 +49,7 @@ _Context: Wonsan_
 
 ##### Chemical weapons
 ### [A Danish ship carrying hundreds of tons of Syrian chemical weapons arrives in the Italian port of Gioia Tauro prior to a rendezvous with an American ship that will destroy the weapons at sea. ](/news/2014/07/2/a-danish-ship-carrying-hundreds-of-tons-of-syrian-chemical-weapons-arrives-in-the-italian-port-of-gioia-tauro-prior-to-a-rendezvous-with-an.md)
-_Context: Gioia Tauro, chemical weapons_
+_Context: chemical weapons, Gioia Tauro_
 
 ##### French President
 ### [Former President of France Nicolas Sarkozy is charged with corruption and influence peddling. ](/news/2014/07/2/former-president-of-france-nicolas-sarkozy-is-charged-with-corruption-and-influence-peddling.md)

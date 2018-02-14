@@ -25,7 +25,7 @@ Flooding in Argentina which burst riverbanks and deluged city streets killed thr
 
 ##### Japan
 ### [Japan's Sendai Nuclear Power Plant in Satsumasendai in Kagoshima Prefecture on Kyushu restarts reactor no. 1. This is the first of 50-plus shut-down nuclear reactors to go back online since the 2011 Fukushima Daiichi nuclear disaster. The problems discovered in the reactor model after the disaster have not been fixed. ](/news/2015/08/11/japan-s-sendai-nuclear-power-plant-in-satsumasendai-in-kagoshima-prefecture-on-kyushu-restarts-reactor-no-1-this-is-the-first-of-50-plus-s.md)
-_Context: Kagoshima Prefecture, Fukushima Daiichi nuclear disaster, Sendai Nuclear Power Plant, Japan, 50-plus shut-down nuclear reactors to go back online since the 2011, Kyushu, Satsumasendai_
+_Context: Sendai Nuclear Power Plant, Japan, Satsumasendai, Kyushu, 50-plus shut-down nuclear reactors to go back online since the 2011, Fukushima Daiichi nuclear disaster, Kagoshima Prefecture_
 
 ##### Syrian Civil War
 ### [In talks held regarding the course of the Syrian Civil War, Russia and Saudi Arabia fail to reach agreement over cooperation in the fight against ISIL, with the Saudi representative refusing any common struggle with Assad's regime. ](/news/2015/08/11/in-talks-held-regarding-the-course-of-the-syrian-civil-war-russia-and-saudi-arabia-fail-to-reach-agreement-over-cooperation-in-the-fight-ag.md)

@@ -25,7 +25,7 @@ A federal judge said on Wednesday the U.S. government can proceed with a lawsuit
 
 ##### FBI
 ### [The FBI and the CIA admit that Russian intelligence had warned the U.S. intelligence agencies several times regarding the extremist connections of Tamerlan Tsarnaev prior to the Boston marathon bombings. ](/news/2013/04/24/the-fbi-and-the-cia-admit-that-russian-intelligence-had-warned-the-u-s-intelligence-agencies-several-times-regarding-the-extremist-connecti.md)
-_Context: U.S., Boston marathon bombings, Tamerlan Tsarnaev, CIA, Russian intelligence, FBI_
+_Context: U.S., Russian intelligence, Tamerlan Tsarnaev, Boston marathon bombings, CIA, FBI_
 
 ##### Malaysian police
 ### [Malaysian police claim that there have been hundreds of cases of election-related violence since campaigning for the Malaysian general election went underway last weekend. ](/news/2013/04/24/malaysian-police-claim-that-there-have-been-hundreds-of-cases-of-election-related-violence-since-campaigning-for-the-malaysian-general-elect.md)

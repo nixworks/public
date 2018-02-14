@@ -5,23 +5,23 @@ Formats: [HTML](2005/05/30/index.html)  [JSON](2005/05/30/index.json)  [XML](200
 
 ##### Prague
 ### [ In Prague, Prince Hamid Bin Abdul Sani al-Thani of Qatar has been found guilty of sexually abusing girls younger than 15 from 2001 and 2004 and sentenced to 30 months in prison. ](/news/2005/05/30/in-prague-prince-hamid-bin-abdul-sani-al-thani-of-qatar-has-been-found-guilty-of-sexually-abusing-girls-younger-than-15-from-2001-and-2004.md)
-_Context: Prince, Qatar, prison, Prague, Hamid Bin Abdul Sani al-Thani, 2001, 2004_
+_Context: Hamid Bin Abdul Sani al-Thani, 2001, 2004, Prince, prison, Qatar, Prague_
 
 ##### Jerusalem
 ### [ Amidst scandals regarding the sale of land in Jerusalem, Patriarch Irenaios I of Jerusalem has been replaced by Metropolitan Cornelius of Petra, who serves as "locum tenens" of the Orthodox Church of Jerusalem.](/news/2005/05/30/amidst-scandals-regarding-the-sale-of-land-in-jerusalem-patriarch-irenaios-i-of-jerusalem-has-been-replaced-by-metropolitan-cornelius-of-p.md)
-_Context: Orthodox Church of Jerusalem, locum tenens, Metropolitan Cornelius of Petra, Irenaios I, Jerusalem_
+_Context: Jerusalem, Metropolitan Cornelius of Petra, Orthodox Church of Jerusalem, Irenaios I, locum tenens_
 
 ##### Somalia
 ### [ Fighting in the proposed Somali capital of Baidoa threatens the stability of the Transitional Federal Government of Somalia. ](/news/2005/05/30/fighting-in-the-proposed-somali-capital-of-baidoa-threatens-the-stability-of-the-transitional-federal-government-of-somalia.md)
-_Context: Somalia, Transitional Federal Government of Somalia, Baidoa_
+_Context: Baidoa, Transitional Federal Government of Somalia, Somalia_
 
 ##### Angela Merkel
 ### [ Angela Merkel is elected by the CDU-CSU as candidate to become Chancellor of Germany in the upcoming German federal election, 2005. ](/news/2005/05/30/angela-merkel-is-elected-by-the-cdu-csu-as-candidate-to-become-chancellor-of-germany-in-the-upcoming-german-federal-election-2005.md)
-_Context: Angela Merkel, German federal election, 2005, Christian Democratic Union, CSU, Chancellor_
+_Context: Christian Democratic Union, Angela Merkel, German federal election, 2005, Chancellor, CSU_
 
 ##### Pope Benedict XVI
 ### [ Pope Benedict XVI says he wants to heal the rift with the Orthodox Church during his papacy. He spoke to hundreds-of-thousands of people attending a mass in the southern Italian city of Bari during his first pilgrimage away from the Vatican since he was elected less than two months ago. ](/news/2005/05/30/pope-benedict-xvi-says-he-wants-to-heal-the-rift-with-the-orthodox-church-during-his-papacy-he-spoke-to-hundreds-of-thousands-of-people-at.md)
-_Context: Orthodox Church, Vatican City, Pope Benedict XVI, Bari_
+_Context: Bari, Vatican City, Pope Benedict XVI, Orthodox Church_
 
 ##### Saad Hariri
 ### [ Preliminary results indicate that political alliance of Saad Hariri, son of killed Rafiq Hariri, wins in Beirut parliamentary elections, despite of the low turnout ](/news/2005/05/30/preliminary-results-indicate-that-political-alliance-of-saad-hariri-son-of-killed-rafiq-hariri-wins-in-beirut-parliamentary-elections-de.md)
@@ -29,7 +29,7 @@ Lebanon&#39;s Saad Hariri, the son of the country&#39;s assassinated former Prem
 
 ##### Israeli-Palestinian Conflict
 ### [ Israeli-Palestinian Conflict: Israel fires rockets at the Jabaliya, a Palestinian refugee camp, injuring two civilians. The IDF says it was targeting militants who were planning a rocket attack on Israel. ](/news/2005/05/30/israeli-palestinian-conflict-israel-fires-rockets-at-the-jabaliya-a-palestinian-refugee-camp-injuring-two-civilians-the-idf-says-it-was.md)
-_Context: Jabaliya, Israel, Israeli-Palestinian Conflict, Israeli Army, Palestinian refugee camp_
+_Context: Israel, Palestinian refugee camp, Jabaliya, Israeli-Palestinian Conflict, Israeli Army_
 
 ##### Caltech
 ### [ Astronomers of California Institute of Technology and Astronomical Observatory of Strasbourg state that the Andromeda galaxy is three times bigger than previously estimated ](/news/2005/05/30/astronomers-of-california-institute-of-technology-and-astronomical-observatory-of-strasbourg-state-that-the-andromeda-galaxy-is-three-times.md)
@@ -37,7 +37,7 @@ A map of the outer suburbs of the Andromeda galaxy finds that its rotating disk 
 
 ##### Red Cross
 ### [ Red Cross of Canada admits that it has used blood infected with HIV or hepatitis virus ](/news/2005/05/30/red-cross-of-canada-admits-that-it-has-used-blood-infected-with-hiv-or-hepatitis-virus.md)
-_Context: hepatitis, HIV, Red Cross, Canadian_
+_Context: HIV, Canadian, hepatitis, Red Cross_
 
 ## [Previous Day...](/news/2005/05/29/index.md)
 

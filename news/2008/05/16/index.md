@@ -5,23 +5,23 @@ Formats: [HTML](2008/05/16/index.html)  [JSON](2008/05/16/index.json)  [XML](200
 
 ##### 10 people were shot
 ### [ 10 people were shot at a branch of the Rizal Commercial Banking Corporation (RCBC) in Cabuyao, Laguna, Philippines, with 9 dead and 1 in critical condition in what could be one of the bloodiest bank robberies in the nation's history. ](/news/2008/05/16/10-people-were-shot-at-a-branch-of-the-rizal-commercial-banking-corporation-rcbc-in-cabuyao-laguna-philippines-with-9-dead-and-1-in-cr.md)
-_Context: Rizal Commercial Banking Corporation, Laguna, Cabuyao, Philippines, 10 people were shot_
+_Context: Laguna, Philippines, Cabuyao, Rizal Commercial Banking Corporation, 10 people were shot_
 
 ##### Leonel Fernandez
 ### [ Leonel Fernandez is re-elected as the President of the Dominican Republic in the 2008 presidential election. ](/news/2008/05/16/leonel-ferna-ndez-is-re-elected-as-the-president-of-the-dominican-republic-in-the-2008-presidential-election.md)
-_Context: President of the Dominican Republic, Leonel Fernandez, 2008 presidential election_
+_Context: Leonel Fernandez, President of the Dominican Republic, 2008 presidential election_
 
 ##### Pipeline explosion
 ### [ A pipeline explosion near Lagos, Nigeria, kills up to 100 people. ](/news/2008/05/16/a-pipeline-explosion-near-lagos-nigeria-kills-up-to-100-people.md)
-_Context: Nigeria, pipeline explosion, Lagos_
+_Context: Lagos, Nigeria, pipeline explosion_
 
 ##### Aftershock
 ### [ A strong aftershock to the 2008 Sichuan earthquake knocks out roads and communications to some of the worst affected areas disrupting rescue efforts. ](/news/2008/05/16/a-strong-aftershock-to-the-2008-sichuan-earthquake-knocks-out-roads-and-communications-to-some-of-the-worst-affected-areas-disrupting-rescu.md)
-_Context: deadly earthquake, aftershock_
+_Context: aftershock, deadly earthquake_
 
 ##### U.S.
 ### [ Former United States Olympic sprinter Tim Montgomery is sentenced to 46 months imprisonment for his involvement in a check fraud and money laundering scheme. ](/news/2008/05/16/former-united-states-olympic-sprinter-tim-montgomery-is-sentenced-to-46-months-imprisonment-for-his-involvement-in-a-check-fraud-and-money.md)
-_Context: Olympic Games, U.S., sprint runner, Tim Montgomery, money laundering, check fraud_
+_Context: sprint runner, check fraud, money laundering, U.S., Tim Montgomery, Olympic Games_
 
 ##### U.S.
 ### [ The United States reaches a deal with North Korea to resume food aid with 500,000 tonnes of food to be sent to North Korea during the next year. ](/news/2008/05/16/the-united-states-reaches-a-deal-with-north-korea-to-resume-food-aid-with-500-000-tonnes-of-food-to-be-sent-to-north-korea-during-the-next.md)
@@ -33,7 +33,7 @@ The government’s revised death toll almost doubled, and it also raised the num
 
 ##### Court of Arbitration for Sport
 ### [ The Court of Arbitration for Sport overturns the IAAF's decision to ban South African double-amputee runner Oscar Pistorius from its competitions, thus clearing the way for him to attempt to become the first leg amputee to participate in the Olympic Games. ](/news/2008/05/16/the-court-of-arbitration-for-sport-overturns-the-iaaf-s-decision-to-ban-south-african-double-amputee-runner-oscar-pistorius-from-its-compet.md)
-_Context: IAAF, Court of Arbitration for Sport, 2008 Summer Olympics, double-amputee, Oscar Pistorius, South Africa_
+_Context: Oscar Pistorius, IAAF, South Africa, double-amputee, 2008 Summer Olympics, Court of Arbitration for Sport_
 
 ##### Sri Lanka
 ### [ A suicide bomber kills at least nine people, including 7 police, and wounds 90 in Sri Lanka's capital Colombo. ](/news/2008/05/16/a-suicide-bomber-kills-at-least-nine-people-including-7-police-and-wounds-90-in-sri-lanka-s-capital-colombo.md)
@@ -41,11 +41,11 @@ _Context: Colombo, Sri Lanka_
 
 ##### U.S. President
 ### [ The President of the United States George W. Bush arrives in Saudi Arabia to discuss rising fuel prices with King Abdullah of Saudi Arabia. Saudi Arabia later announces plans to raise its output by 300,000 barrels a day. ](/news/2008/05/16/the-president-of-the-united-states-george-w-bush-arrives-in-saudi-arabia-to-discuss-rising-fuel-prices-with-king-abdullah-of-saudi-arabia.md)
-_Context: Abdullah, Saudi Arabia, U.S. President, King, George W. Bush_
+_Context: U.S. President, King, Abdullah, Saudi Arabia, George W. Bush_
 
 ##### Runoff election
 ### [ The runoff election for the 2008 presidential election between the President of Zimbabwe Robert Mugabe and Morgan Tsvangirai of the Movement for Democratic Change is set for June 27. ](/news/2008/05/16/the-runoff-election-for-the-2008-presidential-election-between-the-president-of-zimbabwe-robert-mugabe-and-morgan-tsvangirai-of-the-movemen.md)
-_Context: runoff election, presidential election, June 27, Morgan Tsvangirai, President of Zimbabwe, Robert Mugabe, Movement for Democratic Change_
+_Context: June 27, presidential election, Morgan Tsvangirai, President of Zimbabwe, Robert Mugabe, Movement for Democratic Change, runoff election_
 
 ##### Al-Qaeda
 ### [ Al-Qaeda leader Osama bin laden leaves an audio message on the Internet vowing to continue the fight against Israel. ](/news/2008/05/16/al-qaeda-leader-osama-bin-laden-leaves-an-audio-message-on-the-internet-vowing-to-continue-the-fight-against-israel.md)

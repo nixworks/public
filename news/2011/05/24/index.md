@@ -5,23 +5,23 @@ Formats: [HTML](2011/05/24/index.html)  [JSON](2011/05/24/index.json)  [XML](201
 
 ##### Tunisia
 ### [Clashes break out in southern Tunisia between local residents and Libyan refugees fleeing that country's civil war. ](/news/2011/05/24/clashes-break-out-in-southern-tunisia-between-local-residents-and-libyan-refugees-fleeing-that-country-s-civil-war.md)
-_Context: civil war, Tunisia, Libya_
+_Context: Libya, Tunisia, civil war_
 
 ##### 2011 Yemeni protests
 ### [Fresh clashes take place in Yemen between police and opposition tribesmen who have taken control of several government buildings in the capital Sana'a. ](/news/2011/05/24/fresh-clashes-take-place-in-yemen-between-police-and-opposition-tribesmen-who-have-taken-control-of-several-government-buildings-in-the-capi.md)
-_Context: 2011 Yemeni protests, Sana'a, Yemen_
+_Context: Sana'a, Yemen, 2011 Yemeni protests_
 
 ##### Muammar Gaddafi
 ### [Smoke is seen rising from Muammar Gaddafi's compound in Tripoli, Libya, following a NATO airstrike which reportedly kills three people. ](/news/2011/05/24/smoke-is-seen-rising-from-muammar-gaddafi-s-compound-in-tripoli-libya-following-a-nato-airstrike-which-reportedly-kills-three-people.md)
-_Context: Muammar Gaddafi, Tripoli, Libya, compound, NATO_
+_Context: NATO, Tripoli, Muammar Gaddafi, compound, Libya_
 
 ##### Suicide bomber
 ### [A suicide bomber attacks the headquarters of Kazakhstan's security service, causing casualties. ](/news/2011/05/24/a-suicide-bomber-attacks-the-headquarters-of-kazakhstan-s-security-service-causing-casualties.md)
-_Context: suicide bomber, Kazakhstan_
+_Context: Kazakhstan, suicide bomber_
 
 ##### Afghanistan
 ### [A roadside bomb in Afghanistan's Kandahar Province kills ten people and injures 28. ](/news/2011/05/24/a-roadside-bomb-in-afghanistan-s-kandahar-province-kills-ten-people-and-injures-28.md)
-_Context: Kandahar Province, Afghanistan_
+_Context: Afghanistan, Kandahar Province_
 
 ##### Protestors
 ### [Human rights organisations estimate that the Government of Syria has killed 1,000 civilians so far during the protests.](/news/2011/05/24/human-rights-organisations-estimate-that-the-government-of-syria-has-killed-1-000-civilians-so-far-during-the-protests.md)
@@ -29,11 +29,11 @@ Rights groups say they have documented names of civilians allegedly killed by se
 
 ##### United Nations
 ### [The United Nations claims that about 20,000 people have fled the Abyei region for Agok in Southern Sudan after Sudanese forces took control. ](/news/2011/05/24/the-united-nations-claims-that-about-20-000-people-have-fled-the-abyei-region-for-agok-in-southern-sudan-after-sudanese-forces-took-control.md)
-_Context: Abyei, Sudan, Southern Sudan, Agok, United Nations_
+_Context: Abyei, Sudan, Southern Sudan, United Nations, Agok_
 
 ##### Oprah Winfrey
 ### [US television personality Oprah Winfrey records the final episode of "The Oprah Winfrey Show". ](/news/2011/05/24/us-television-personality-oprah-winfrey-records-the-final-episode-of-the-oprah-winfrey-show.md)
-_Context: Oprah Winfrey Show, Oprah Winfrey_
+_Context: Oprah Winfrey, Oprah Winfrey Show_
 
 ##### Gearbox Software
 ### [Gearbox Software announces that the video game "Duke Nukem Forever", infamous for its 14-year development cycle, has gone gold and will (presumably) meet its current release date of June. ](/news/2011/05/24/gearbox-software-announces-that-the-video-game-duke-nukem-forever-infamous-for-its-14-year-development-cycle-has-gone-gold-and-will-pre.md)
@@ -69,7 +69,7 @@ Barack Obama has met the Queen and senior royals at the start of a three-day sta
 
 ##### Malaysia
 ### [Malaysian authorities break up a mass gathering of Shiite Muslims, detaining four. ](/news/2011/05/24/malaysian-authorities-break-up-a-mass-gathering-of-shiite-muslims-detaining-four.md)
-_Context: Muslim, Shia, Malaysia_
+_Context: Shia, Malaysia, Muslim_
 
 ##### Somalia
 ### [Security forces in Somalia seize two planes carrying ransom money for pirates, and detain six foreigners. ](/news/2011/05/24/security-forces-in-somalia-seize-two-planes-carrying-ransom-money-for-pirates-and-detain-six-foreigners.md)
@@ -81,7 +81,7 @@ _Context: Egypt, Hosni Mubarak_
 
 ##### Human Rights Watch
 ### [Human Rights Watch calls for the release of a Saudi woman detained for driving. ](/news/2011/05/24/human-rights-watch-calls-for-the-release-of-a-saudi-woman-detained-for-driving.md)
-_Context: Human Rights Watch, Saudi Arabia_
+_Context: Saudi Arabia, Human Rights Watch_
 
 ##### Manslaughter by gross negligence
 ### [A British police officer is to be charged with manslaughter over the death of newspaper seller Ian Tomlinson during the 2009 G-20 protests. ](/news/2011/05/24/a-british-police-officer-is-to-be-charged-with-manslaughter-over-the-death-of-newspaper-seller-ian-tomlinson-during-the-2009-g-20-protests.md)
@@ -109,7 +109,7 @@ The morning after Democrat Kathy Hochul used the Medicare issue to win what had 
 
 ##### Soyuz TMA-20
 ### [The Soyuz TMA-20 spacecraft, carrying half of the members of Expedition 27 back from their crew rotation aboard the International Space Station, lands safely in Kazakhstan. ](/news/2011/05/24/the-soyuz-tma-20-spacecraft-carrying-half-of-the-members-of-expedition-27-back-from-their-crew-rotation-aboard-the-international-space-stat.md)
-_Context: Expedition 27, Soyuz TMA-20, International Space Station, Kazakhstan_
+_Context: Kazakhstan, International Space Station, Expedition 27, Soyuz TMA-20_
 
 ## [Previous Day...](/news/2011/05/23/index.md)
 

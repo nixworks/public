@@ -19,19 +19,19 @@ _Context: Dhaka, police officers, Islamist_
 
 ##### Jamiat Ulema-e-Islam
 ### [15 people are killed and another 50 are injured when a bomb detonates at a political rally of the Jamiat Ulema-e-Islam in Kurram Valley, Federally Administered Tribal Areas, Pakistan. ](/news/2013/05/6/15-people-are-killed-and-another-50-are-injured-when-a-bomb-detonates-at-a-political-rally-of-the-jamiat-ulema-e-islam-in-kurram-valley-fed.md)
-_Context: Kurram, Jamiat Ulema-e-Islam, Federally Administered Tribal Areas, Pakistan_
+_Context: Pakistan, Jamiat Ulema-e-Islam, Federally Administered Tribal Areas, Kurram_
 
 ##### Walmart
 ### [Wal-Mart passes ExxonMobil as the largest company by revenue on the annual Fortune 500 list. ](/news/2013/05/6/wal-mart-passes-exxonmobil-as-the-largest-company-by-revenue-on-the-annual-fortune-500-list.md)
-_Context: Fortune 500, ExxonMobil Corporation, Walmart_
+_Context: ExxonMobil Corporation, Walmart, Fortune 500_
 
 ##### Bank of America
 ### [Bank of America agrees to pay US$1.6 billion to insurer MBIA to settle a long-running dispute between MBIA and two companies Bank of America had since acquired. ](/news/2013/05/6/bank-of-america-agrees-to-pay-us-1-6-billion-to-insurer-mbia-to-settle-a-long-running-dispute-between-mbia-and-two-companies-bank-of-america.md)
-_Context: Bank of America, US$, MBIA_
+_Context: MBIA, Bank of America, US$_
 
 ##### Sweden
 ### [A new Swedish study published in the journal "Pediatrics" finds that children whose parents suck on their pacifiers have fewer allergies later in life. ](/news/2013/05/6/a-new-swedish-study-published-in-the-journal-pediatrics-finds-that-children-whose-parents-suck-on-their-pacifiers-have-fewer-allergies-lat.md)
-_Context: allergies, pacifier, Sweden, Pediatrics_
+_Context: Pediatrics, pacifier, Sweden, allergies_
 
 ##### German
 ### [Germany arrests a 93-year-old, alleged former Auschwitz guard, Hans Lipschis, on charges of murder. ](/news/2013/05/6/germany-arrests-a-93-year-old-alleged-former-auschwitz-guard-hans-lipschis-on-charges-of-murder.md)

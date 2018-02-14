@@ -5,7 +5,7 @@ Formats: [HTML](2017/06/8/index.html)  [JSON](2017/06/8/index.json)  [XML](2017/
 
 ##### 2017 North Korean missile tests
 ### [North Korea test fires several missiles, believed to be anti-ship weapons. The test comes immediately after South Korea suspends further deployment of the THAAD anti-missile system. ](/news/2017/06/8/north-korea-test-fires-several-missiles-believed-to-be-anti-ship-weapons-the-test-comes-immediately-after-south-korea-suspends-further-dep.md)
-_Context: anti-missile, anti-ship, South Korea, North Korea, THAAD, 2017 North Korean missile tests_
+_Context: anti-missile, South Korea, THAAD, 2017 North Korean missile tests, North Korea, anti-ship_
 
 ##### War in Somalia
 ### [Al-Shabaab militants storm a military base in Puntland. The subsequent battle with the Somali military leaves at least 70 people dead. Somali officials called the attack the deadliest in the country in years. ](/news/2017/06/8/al-shabaab-militants-storm-a-military-base-in-puntland-the-subsequent-battle-with-the-somali-military-leaves-at-least-70-people-dead-somal.md)
@@ -21,7 +21,7 @@ The United States shot down a pro-Syrian government drone that fired toward U.S.
 
 ##### Freedom of the press in the United States
 ### [Montana congressman Greg Gianforte apologizes to journalist Ben Jacobs for the alleged body slam incident that occurred on May 24, and donates US$50,000 to the Committee to Protect Journalists. ](/news/2017/06/8/montana-congressman-greg-gianforte-apologizes-to-journalist-ben-jacobs-for-the-alleged-body-slam-incident-that-occurred-on-may-24-and-donat.md)
-_Context: Greg Gianforte, body slam, Freedom of the press in the United States, Ben Jacobs, Committee to Protect Journalists, Montana, $_
+_Context: Montana, Freedom of the press in the United States, Greg Gianforte, $, body slam, Committee to Protect Journalists, Ben Jacobs_
 
 ##### United Nations Ocean Conference
 ### [At a United Nations-Oceans summit, delegates from China, Indonesia, the Philippines and Thailand, four of the top polluters of plastic into the oceans, pledge to reduce their levels of oceanic plastic pollution. ](/news/2017/06/8/at-a-united-nations-oceans-summit-delegates-from-china-indonesia-the-philippines-and-thailand-four-of-the-top-polluters-of-plastic-into.md)
@@ -29,7 +29,7 @@ China, Thailand, Indonesia and the Philippines say they will act to stop plastic
 
 ##### Yahoo!
 ### [Yahoo! shareholders officially approve its $4.48 billion sale to Verizon Wireless. Yahoo! stock was up 8.5 percent shortly thereafter. ](/news/2017/06/8/yahoo-shareholders-officially-approve-its-4-48-billion-sale-to-verizon-wireless-yahoo-stock-was-up-8-5-percent-shortly-thereafter.md)
-_Context: Verizon Wireless, Yahoo!_
+_Context: Yahoo!, Verizon Wireless_
 
 ##### 115th United States Congress
 ### [The United States House of Representatives pass a bill ending Dodd-Frank regulations. The bill now goes to the Senate where it is expected to not go through. ](/news/2017/06/8/the-united-states-house-of-representatives-pass-a-bill-ending-doddafrank-regulations-the-bill-now-goes-to-the-senate-where-it-is-expected.md)
@@ -37,7 +37,7 @@ Rep. Jeb Hensarling called the Dodd-Frank law &quot;a grab bag of leftist ideas.
 
 ##### Opioid epidemic
 ### [The U.S. Food and Drug Administration asks pharmaceutical manufacturer Endo International plc to withdraw its long-lasting (12 hours) opioid painkiller, Opana ER, from the market after an FDA panel concluded the drug's benefits no longer outweighed the risks of abuse. Endo is evaluating its options. ](/news/2017/06/8/the-u-s-food-and-drug-administration-asks-pharmaceutical-manufacturer-endo-international-plc-to-withdraw-its-long-lasting-12-hours-opioid.md)
-_Context: opioid epidemic, Food and Drug Administration, Endo International plc, Opana ER_
+_Context: Endo International plc, Opana ER, Food and Drug Administration, opioid epidemic_
 
 ##### 2017 Qatar diplomatic crisis
 ### [The Saudi Arabia-led bloc against Qatar issues a "terror list" against the peninsula. ](/news/2017/06/8/the-saudi-arabia-led-bloc-against-qatar-issues-a-terror-list-against-the-peninsula.md)
@@ -49,7 +49,7 @@ Targets included an embassy in Central America and Israeli military personnel fa
 
 ##### Ukraine-United States relations
 ### [An explosive device is hurled at the United States embassy in Kiev. ](/news/2017/06/8/an-explosive-device-is-hurled-at-the-united-states-embassy-in-kiev.md)
-_Context: Kiev, U.S., Ukraine-United States relations, embassy_
+_Context: U.S., Ukraine-United States relations, embassy, Kiev_
 
 ##### Eaton Township Weis Markets shooting
 ### [A supermarket employee shoots and kills three fellow employees, then kills himself, in a closed Weis Markets store in Eaton Township in Northeastern Pennsylvania. One person escapes unharmed. ](/news/2017/06/8/a-supermarket-employee-shoots-and-kills-three-fellow-employees-then-kills-himself-in-a-closed-weis-markets-store-in-eaton-township-in-nort.md)

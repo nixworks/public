@@ -17,7 +17,7 @@ Barclays says that it is the subject of two new regulatory probes after a series
 
 ##### Hurricane Sandy
 ### [In the aftermath of Hurricane Sandy, the death toll rises to over 60 in the Mid-Atlantic states of the United States, while electric power for millions is still out, and mass transportation is crippled. ](/news/2012/10/31/in-the-aftermath-of-hurricane-sandy-the-death-toll-rises-to-over-60-in-the-mid-atlantic-states-of-the-united-states-while-electric-power-f.md)
-_Context: U.S., Hurricane Sandy, Mid-Atlantic_
+_Context: U.S., Mid-Atlantic, Hurricane Sandy_
 
 ##### Tamil Nadu
 ### [Five thousand people are evacuated from low-lying areas off the coast of Tamil Nadu state in India and two sailors die in heavy seas before Cyclone Nilam hits the coast. ](/news/2012/10/31/five-thousand-people-are-evacuated-from-low-lying-areas-off-the-coast-of-tamil-nadu-state-in-india-and-two-sailors-die-in-heavy-seas-before.md)
@@ -29,7 +29,7 @@ Twenty-five people have been killed by an electrical fire at a wedding in the Ab
 
 ##### Penn State
 ### [Former Penn State assistant coach Jerry Sandusky is transferred to State Correctional Institution - Greene in Franklin Township, Pennsylvania, to serve his 30-to-60-year sentence on child sexual abuse charges. ](/news/2012/10/31/former-penn-state-assistant-coach-jerry-sandusky-is-transferred-to-state-correctional-institution-a-greene-in-franklin-township-pennsylva.md)
-_Context: Franklin Township, sexual abuse, Jerry Sandusky, Penn State, State Correctional Institution - Greene, Pennsylvania, Penn State child sex abuse scandal_
+_Context: Penn State, State Correctional Institution - Greene, Penn State child sex abuse scandal, Pennsylvania, Jerry Sandusky, Franklin Township, sexual abuse_
 
 ##### Iranian Naval
 ### [Two Iranian warships leave Port Sudan on the Red Sea, after a four-day stay. ](/news/2012/10/31/two-iranian-warships-leave-port-sudan-on-the-red-sea-after-a-four-day-stay.md)
@@ -41,7 +41,7 @@ The government is defeated in Parliament over the EU budget after 53 Conservativ
 
 ##### Government of Bahrain
 ### [The government of Bahrain defends its decision to impose a ban on all public protests and demonstrations, following calls from Amnesty International to lift the ban immediately as it breaches the rights to free speech and assembly. ](/news/2012/10/31/the-government-of-bahrain-defends-its-decision-to-impose-a-ban-on-all-public-protests-and-demonstrations-following-calls-from-amnesty-inter.md)
-_Context: Amnesty International, government of Bahrain, Human rights in Bahrain, Bahraini uprising (2011-present)_
+_Context: government of Bahrain, Amnesty International, Human rights in Bahrain, Bahraini uprising (2011-present)_
 
 ## [Previous Day...](/news/2012/10/30/index.md)
 

@@ -9,11 +9,11 @@ Chinese authorities raced against time, distance, altitude and wind in a remote 
 
 ##### India
 ### [At least 100 people are killed in India after a powerful storm demolished thousands of homes in West Bengal. ](/news/2010/04/14/at-least-100-people-are-killed-in-india-after-a-powerful-storm-demolished-thousands-of-homes-in-west-bengal.md)
-_Context: West Bengal, India, a powerful storm_
+_Context: India, a powerful storm, West Bengal_
 
 ##### Kyrgyzstan
 ### [Kyrgyzstan's interim leader Roza Otunbayeva says that President Kurmanbek Bakiyev must stand trial over riots last week. ](/news/2010/04/14/kyrgyzstan-s-interim-leader-roza-otunbayeva-says-that-president-kurmanbek-bakiyev-must-stand-trial-over-riots-last-week.md)
-_Context: the recent unrest, Roza Otunbayeva, Kurmanbek Bakiyev, Kyrgyzstan, president_
+_Context: Kurmanbek Bakiyev, Kyrgyzstan, the recent unrest, president, Roza Otunbayeva_
 
 ##### Eyjafjallajokull
 ### [Eruption in glacier volcano Eyjafjallajokull, Iceland, enters a new phase, causing local evacuations. ](/news/2010/04/14/eruption-in-glacier-volcano-eyjafjallajapkull-iceland-enters-a-new-phase-causing-local-evacuations.md)
@@ -25,7 +25,7 @@ _Context: Barack Obama, Mars_
 
 ##### Lech Kaczynski
 ### [Controversy arises over the decision to bury Polish President Lech Kaczynski in Wawel Cathedral in Krakow--a place reserved for Poland's kings and heroes. Hundreds of people have taken to the streets in protest, and thousands have joined an internet campaign objecting to the plan. ](/news/2010/04/14/controversy-arises-over-the-decision-to-bury-polish-president-lech-kaczyaski-in-wawel-cathedral-in-kraka3waa-place-reserved-for-poland-s.md)
-_Context: Polish, Wawel Cathedral, Lech Kaczynski_
+_Context: Polish, Lech Kaczynski, Wawel Cathedral_
 
 ##### Tokelau
 ### [Tokelau outlaws whaling within its territorial waters. ](/news/2010/04/14/tokelau-outlaws-whaling-within-its-territorial-waters.md)

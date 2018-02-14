@@ -37,7 +37,7 @@ The first January Atlantic hurricane in 61 years, hit the Azores as a tropical s
 
 ##### Brazil
 ### [A Brazilian court suspends the licence for the Belo Monte Dam weeks before it was due to start operating until operator Norte Energia SA and the government of Brazil reorganizes FundacGBPo Nacional do Indio, a protection agency for indigenous Brazilians. ](/news/2016/01/14/a-brazilian-court-suspends-the-licence-for-the-belo-monte-dam-weeks-before-it-was-due-to-start-operating-until-operator-norte-energia-sa-and.md)
-_Context: government of Brazil, Belo Monte Dam, Brazil, FundacGBPo Nacional do Indio, indigenous Brazilians_
+_Context: Brazil, FundacGBPo Nacional do Indio, government of Brazil, Belo Monte Dam, indigenous Brazilians_
 
 ##### Ebola virus epidemic in West Africa
 ### [The World Health Organisation declares an end to the Ebola virus outbreak in West Africa with Liberia the last country to be declared free of the virus. ](/news/2016/01/14/the-world-health-organisation-declares-an-end-to-the-ebola-virus-outbreak-in-west-africa-with-liberia-the-last-country-to-be-declared-free-o.md)
@@ -45,7 +45,7 @@ The world breathed a sigh of relief Thursday as a two-year Ebola epidemic that k
 
 ##### Nuclear test
 ### [South Korea and the People's Republic of China will hold talks to develop a joint response to last week's North Korean nuclear test. ](/news/2016/01/14/south-korea-and-the-people-s-republic-of-china-will-hold-talks-to-develop-a-joint-response-to-last-week-s-north-korean-nuclear-test.md)
-_Context: North Korea, South Korea, nuclear test, China_
+_Context: nuclear test, North Korea, South Korea, China_
 
 ##### Moldova
 ### [Thousands of people in Moldova march against proposed candidate for Prime Minister Vlad Plahotniuc. ](/news/2016/01/14/thousands-of-people-in-moldova-march-against-proposed-candidate-for-prime-minister-vlad-plahotniuc.md)

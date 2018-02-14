@@ -5,15 +5,15 @@ Formats: [HTML](2009/05/27/index.html)  [JSON](2009/05/27/index.json)  [XML](200
 
 ##### U.S.
 ### [ United States President Barack Obama nominates Hispanic Roman Catholic theologian Miguel H. Diaz as Ambassador to the Holy See. ](/news/2009/05/27/united-states-president-barack-obama-nominates-hispanic-roman-catholic-theologian-miguel-h-diaz-as-ambassador-to-the-holy-see.md)
-_Context: Ambassador, Hispanic, Holy See, Barack Obama, U.S. President, Roman Catholic Church, U.S., Miguel H. Diaz, theologian_
+_Context: Hispanic, Roman Catholic Church, Barack Obama, Miguel H. Diaz, U.S., Ambassador, theologian, Holy See, U.S. President_
 
 ##### FC Barcelona
 ### [ FC Barcelona defeats Manchester United F.C. to win the 2008-09 UEFA Champions League Final. ](/news/2009/05/27/fc-barcelona-defeats-manchester-united-f-c-to-win-the-2008-09-uefa-champions-league-final.md)
-_Context: 2009 UEFA Champions League Final, FC Barcelona, UEFA Champions League, Manchester United, UEFA, 2008-09_
+_Context: 2009 UEFA Champions League Final, FC Barcelona, UEFA, 2008-09, UEFA Champions League, Manchester United_
 
 ##### North Korea
 ### [ North Korea launches its fifth missile since testing a nuclear weapon on May 25. ](/news/2009/05/27/north-korea-launches-its-fifth-missile-since-testing-a-nuclear-weapon-on-may-25.md)
-_Context: missile, North Korea's nuclear program, North Korea, 2009, May 25, nuclear weapon_
+_Context: 2009, North Korea's nuclear program, May 25, North Korea, nuclear weapon, missile_
 
 ##### Russia
 ### [ Russian investment firm Digital Sky Technologies purchases 1.96% of the social network service Facebook. ](/news/2009/05/27/russian-investment-firm-digital-sky-technologies-purchases-1-96-of-the-social-network-service-facebook.md)
@@ -29,15 +29,15 @@ A Russian Soyuz spacecraft with three astronauts on board blasted off from Kazak
 
 ##### White tiger
 ### [ A rare white tiger is euthanized after killing a zookeeper at the Zion Wildlife Gardens in Whangarei, New Zealand. ](/news/2009/05/27/a-rare-white-tiger-is-euthanized-after-killing-a-zookeeper-at-the-zion-wildlife-gardens-in-whangarei-new-zealand.md)
-_Context: white tiger, Zion Wildlife Gardens, New Zealand, Whangarei, euthanized, zookeeper_
+_Context: white tiger, Whangarei, Zion Wildlife Gardens, New Zealand, euthanized, zookeeper_
 
 ##### Russia
 ### [ Russia will supply US$1 billion of uranium to civilian nuclear reactors in the United States. ](/news/2009/05/27/russia-will-supply-us-1-billion-of-uranium-to-civilian-nuclear-reactors-in-the-united-states.md)
-_Context: nuclear reactors, civilian, U.S., $, uranium, Russia_
+_Context: U.S., nuclear reactors, $, Russia, civilian, uranium_
 
 ##### Planet
 ### [ The planets Jupiter and Neptune experience a triple conjunction as seen from Earth.](/news/2009/05/27/the-planets-jupiter-and-neptune-experience-a-triple-conjunction-as-seen-from-earth.md)
-_Context: planet, Neptune, Jupiter, triple conjunction_
+_Context: Jupiter, planet, triple conjunction, Neptune_
 
 ## [Previous Day...](/news/2009/05/26/index.md)
 

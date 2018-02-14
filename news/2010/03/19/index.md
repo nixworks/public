@@ -9,7 +9,7 @@ _Context: Iran, Hossein Marashi_
 
 ##### NASA
 ### [NASA announces that "It is nearly certain that a new record 12-month global temperature will be set in 2010", in a new draft paper based on GISS temperature analysis. ](/news/2010/03/19/nasa-announces-that-it-is-nearly-certain-that-a-new-record-12-month-global-temperature-will-be-set-in-2010-in-a-new-draft-paper-based-on.md)
-_Context: NASA, GISS_
+_Context: GISS, NASA_
 
 ##### Netherlands
 ### [Dutch officials object to "ridiculous" and "out of the realm of fiction" claims by retired American general John J. Sheehan, a former NATO commander, that the use of gay soldiers in 1995 meant Dutch forces were "under-strength" and "poorly led" when attempting to protect Bosnian civilians in Srebrenica. ](/news/2010/03/19/dutch-officials-object-to-ridiculous-and-out-of-the-realm-of-fiction-claims-by-retired-american-general-john-j-sheehan-a-former-nato-c.md)
@@ -17,7 +17,7 @@ Former US general says 1995 massacre due in part to Dutch army allowing gay troo
 
 ##### Hoax
 ### [A hoax stating that at least 200 people have died in a mining accident in Bo, Sierra Leone, makes headlines around the world. ](/news/2010/03/19/a-hoax-stating-that-at-least-200-people-have-died-in-a-mining-accident-in-bo-sierra-leone-makes-headlines-around-the-world.md)
-_Context: hoax, Sierra Leone, Bo_
+_Context: Bo, Sierra Leone, hoax_
 
 ##### Sudan
 ### [At least 13 people die during clashes in Sudan. ](/news/2010/03/19/at-least-13-people-die-during-clashes-in-sudan.md)
@@ -25,7 +25,7 @@ Army official says fighting was triggered by nomads breaking a border agreement.
 
 ##### President
 ### [President of Yemen Ali Abdullah Saleh declares an end to his country's six-year war against the Houthis. ](/news/2010/03/19/president-of-yemen-ali-abdullah-saleh-declares-an-end-to-his-country-s-six-year-war-against-the-houthis.md)
-_Context: Ali Abdullah Saleh, President, Houthi_
+_Context: Houthi, President, Ali Abdullah Saleh_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI signs his letter to Irish Catholics, sent as his first official documented response to the issue of child sex abuse and due to be published by the Vatican on Saturday and read at Sunday Mass. ](/news/2010/03/19/pope-benedict-xvi-signs-his-letter-to-irish-catholics-sent-as-his-first-official-documented-response-to-the-issue-of-child-sex-abuse-and-du.md)
@@ -41,11 +41,11 @@ Jeddah Summary Court sends copy of lawsuit filed against writer to justice minis
 
 ##### Ethiopia
 ### [Ethiopian Prime Minister Meles Zenawi says radio station the Voice of America (VOA) is promoting "destabilising propaganda" that is inciting genocide in his country. ](/news/2010/03/19/ethiopian-prime-minister-meles-zenawi-says-radio-station-the-voice-of-america-voa-is-promoting-destabilising-propaganda-that-is-inciting.md)
-_Context: genocide, Ethiopia, Meles Zenawi, Prime Minister, Voice of America_
+_Context: Ethiopia, genocide, Meles Zenawi, Prime Minister, Voice of America_
 
 ##### Egypt
 ### [Egyptian mosques pray for President Hosni Mubarak&mdash;who is ill and whose health is taboo&mdash;as images of his recovery in Germany are broadcast on television screens, boosting stock markets. ](/news/2010/03/19/egyptian-mosques-pray-for-president-hosni-mubarak-mdash-who-is-ill-and-whose-health-is-taboo-mdash-as-images-of-his-recovery-in-germany-are.md)
-_Context: Egypt, President, German, Hosni Mubarak, mosque_
+_Context: German, Hosni Mubarak, President, Egypt, mosque_
 
 ##### Switzerland
 ### [Switzerland ceases to deport asylum seekers in response to the death of a Nigerian man at Zrich Airport as he was being forcefully deported. Nigeria condemns the occurrence. ](/news/2010/03/19/switzerland-ceases-to-deport-asylum-seekers-in-response-to-the-death-of-a-nigerian-man-at-zurich-airport-as-he-was-being-forcefully-deported.md)
@@ -53,7 +53,7 @@ BERLIN - Switzerland has halted all repatriation flights for rejected asylum see
 
 ##### South Africa
 ### [South African police fire water cannon at 2,000 students protesting at the release of hip-hop performer Molemo "Jub Jub" Maarohanye, accused of killing four school pupils. ](/news/2010/03/19/south-african-police-fire-water-cannon-at-2-000-students-protesting-at-the-release-of-hip-hop-performer-molemo-jub-jub-maarohanye-accused.md)
-_Context: Molemo "Jub Jub" Maarohanye, South Africa_
+_Context: South Africa, Molemo "Jub Jub" Maarohanye_
 
 ##### President
 ### [President of Egypt Hosni Mubarak names Sheikh Ahmed Mohammed Ahmed al-Tayeb as head of Al-Azhar University. ](/news/2010/03/19/president-of-egypt-hosni-mubarak-names-sheikh-ahmed-mohammed-ahmed-al-tayeb-as-head-of-al-azhar-university.md)
@@ -73,15 +73,15 @@ _Context: Large Hadron Collider_
 
 ##### Amnesty International
 ### [Amnesty International asks Saudi Arabia's King Abdullah to intervene in the case of a Lebanese man sentenced to death for "sorcery". ](/news/2010/03/19/amnesty-international-asks-saudi-arabia-s-king-abdullah-to-intervene-in-the-case-of-a-lebanese-man-sentenced-to-death-for-sorcery.md)
-_Context: Saudi Arabia, Abdullah, Lebanese, Amnesty International_
+_Context: Lebanese, Amnesty International, Saudi Arabia, Abdullah_
 
 ##### Colombia
 ### [An investigation is urged into the assassination of Colombian human rights activist Johnny Hurtado. ](/news/2010/03/19/an-investigation-is-urged-into-the-assassination-of-colombian-human-rights-activist-johnny-hurtado.md)
-_Context: Colombia, Johnny Hurtado_
+_Context: Johnny Hurtado, Colombia_
 
 ##### Colombia
 ### [Colombian journalist, radio reporter and "El Pulso" magazine editor Clodomiro Castilla is shot to death while reading a book at his Montera home. ](/news/2010/03/19/colombian-journalist-radio-reporter-and-el-pulso-magazine-editor-clodomiro-castilla-is-shot-to-death-while-reading-a-book-at-his-monteria.md)
-_Context: Montera, El Pulso, Clodomiro Castilla, Colombia_
+_Context: Clodomiro Castilla, El Pulso, Montera, Colombia_
 
 ## [Previous Day...](/news/2010/03/18/index.md)
 

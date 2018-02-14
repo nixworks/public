@@ -9,15 +9,15 @@ A huge car bomb has killed at least eight people and injured dozens in the centr
 
 ##### 2011-present Libyan factional fighting
 ### [2011-present Libyan factional fighting: The Libyan Army launches a new full-scale assault against the town of Bani Walid, accusing it of being controlled by supporters of the late Muammar Gaddafi. ](/news/2012/10/19/2011apresent-libyan-factional-fighting-the-libyan-army-launches-a-new-full-scale-assault-against-the-town-of-bani-walid-accusing-it-of-b.md)
-_Context: Libyan National Army, Bani Walid, full-scale assault, 2011-present Libyan factional fighting, Muammar Gaddafi_
+_Context: full-scale assault, 2011-present Libyan factional fighting, Muammar Gaddafi, Libyan National Army, Bani Walid_
 
 ##### Lebanese Tourism Minister
 ### [Lebanese Tourism Minister Faddy Abboud says an episode of the popular U.S. TV series "Homeland" misrepresented Beirut and is set to pursue legal action against its makers due to concerns over damage to image and tourism. ](/news/2012/10/19/lebanese-tourism-minister-faddy-abboud-says-an-episode-of-the-popular-u-s-tv-series-homeland-misrepresented-beirut-and-is-set-to-pursue-l.md)
-_Context: Lebanese Tourism Minister, Faddy Abboud, Homeland, Beirut_
+_Context: Faddy Abboud, Lebanese Tourism Minister, Beirut, Homeland_
 
 ##### Big Tex
 ### [Big Tex, a 52-foot statue and cultural icon in Dallas, Texas, is destroyed by fire during the final weekend of the 2012 State Fair of Texas. ](/news/2012/10/19/big-tex-a-52-foot-statue-and-cultural-icon-in-dallas-texas-is-destroyed-by-fire-during-the-final-weekend-of-the-2012-state-fair-of-texas.md)
-_Context: Dallas, State Fair of Texas, Big Tex_
+_Context: Big Tex, Dallas, State Fair of Texas_
 
 ##### Tour bus
 ### [A tour bus went off the highway and crashed in northwest Arizona late Friday at around 8:00 PM PDT, killing the bus driver (who was believed to have suffered a medical incident), and leaving at least four of the passengers with serious injuries. About 45 other passengers were hurt less seriously, and some were not hospitalized. The bus was northbound on Highway 93 near Willow Beach, Arizona and the Nevada state line, southeast of Las Vegas. ](/news/2012/10/19/a-tour-bus-went-off-the-highway-and-crashed-in-northwest-arizona-late-friday-at-around-8-00-pm-pdt-killing-the-bus-driver-who-was-believed.md)
@@ -29,11 +29,11 @@ Scotland Yard launches a formal criminal investigation into the Sir Jimmy Savile
 
 ##### Taxi
 ### [Taxicab driver Christopher Halliwell is sentenced to life imprisonment for murdering Sian O'Callaghan who went missing after visiting a nightclub in Swindon in March last year. ](/news/2012/10/19/taxicab-driver-christopher-halliwell-is-sentenced-to-life-imprisonment-for-murdering-sian-o-callaghan-who-went-missing-after-visiting-a-nigh.md)
-_Context: Swindon, Sian O'Callaghan, taxi_
+_Context: Swindon, taxi, Sian O'Callaghan_
 
 ##### Whitney Heichel
 ### [The remains of a missing young Oregon woman, Whitney Heichel, 21, a Starbucks barista from the Portland, Oregon suburb of Gresham, Oregon, are found on Larch Mountain, Multnomah County, Oregon; after DNA testing and fingerprint analysis, Gresham Police arrested a neighbor who lived nearby in her Gresham apartment complex, Jonathan Holt, 24, on suspicion of aggravated first-degree murder. ](/news/2012/10/19/the-remains-of-a-missing-young-oregon-woman-whitney-heichel-21-a-starbucks-barista-from-the-portland-oregon-suburb-of-gresham-oregon-a.md)
-_Context: fingerprint, Starbucks, first-degree murder, Larch Mountain, Multnomah County, Oregon, Whitney Heichel, Gresham, Oregon, Jonathan Holt, DNA testing, barista, Portland, Oregon_
+_Context: first-degree murder, Larch Mountain, Multnomah County, Oregon, Gresham, Oregon, Whitney Heichel, DNA testing, Portland, Oregon, barista, Jonathan Holt, Starbucks, fingerprint_
 
 ##### Hit and run
 ### [A woman is killed and 12 other people injured in a series of hit and run incidents in Cardiff, south Wales. A 31-year-old van driver is arrested by police. ](/news/2012/10/19/a-woman-is-killed-and-12-other-people-injured-in-a-series-of-hit-and-run-incidents-in-cardiff-south-wales-a-31-year-old-van-driver-is-arre.md)
@@ -41,7 +41,7 @@ Community leaders and politicians speak of their shock and sadness after a woman
 
 ##### Respect
 ### [Respect MP George Galloway writes to British home secretary Theresa May and makes a complaint to the police about his secretary Aisha Ali-Khan, claiming that she was working as an "agent" for a Metropolitan police counterterrorism officer who was running a "dirty tricks" campaign against him. ](/news/2012/10/19/respect-mp-george-galloway-writes-to-british-home-secretary-theresa-may-and-makes-a-complaint-to-the-police-about-his-secretary-aisha-ali-kh.md)
-_Context: George Galloway, Respect, Theresa May_
+_Context: Respect, George Galloway, Theresa May_
 
 ##### Chief Whip
 ### [Chief Whip of the British Conservative Party Andrew Mitchell resigns over remarks he made to police officers in Downing Street, and following a lengthy political row over the issue. ](/news/2012/10/19/chief-whip-of-the-british-conservative-party-andrew-mitchell-resigns-over-remarks-he-made-to-police-officers-in-downing-street-and-followin.md)

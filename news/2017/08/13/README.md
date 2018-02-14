@@ -21,7 +21,7 @@ SINGAPORE: An earthquake of magnitude 6.5 struck west of Indonesia&#039;s island
 
 ##### August 2017 Nepal and India floods
 ### [At least 44 are killed in a landslide on a highway in the northern India province of Himachal Pradesh. ](/news/2017/08/13/at-least-44-are-killed-in-a-landslide-on-a-highway-in-the-northern-india-province-of-himachal-pradesh.md)
-_Context: Himachal Pradesh, highway, August 2017 Nepal and India floods_
+_Context: August 2017 Nepal and India floods, highway, Himachal Pradesh_
 
 ## [Previous Day...](/news/2017/08/12/index.md)
 

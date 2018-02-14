@@ -19,11 +19,11 @@ Hooded gunmen believed engaged in a drugs feud burst into a bar in northern Mexi
 ### [ 27 people were killed by a suicide car bomb in Pakistan near the Afghanistan border during a tribal meeting planning the eviction of the Taliban from the area. ](/news/2008/10/10/27-people-were-killed-by-a-suicide-car-bomb-in-pakistan-near-the-afghanistan-border-during-a-tribal-meeting-planning-the-eviction-of-the-ta.md)
 ##### Yemen
 ### [ Dozens of bodies that washed ashore in Yemen are believed to be from the 130 migrants from Somalia thrown overboard by smugglers; prompting calls for action against human trafficking in the Gulf of Aden. ](/news/2008/10/10/dozens-of-bodies-that-washed-ashore-in-yemen-are-believed-to-be-from-the-130-migrants-from-somalia-thrown-overboard-by-smugglers-prompting.md)
-_Context: Somalia, Gulf of Aden, Yemen_
+_Context: Yemen, Gulf of Aden, Somalia_
 
 ##### Alaska
 ### [ An Alaskan legislative committee finds that the Governor of Alaska Sarah Palin unlawfully abused her authority in terminating the Public Safety Commissioner Walter Monegan. ](/news/2008/10/10/an-alaskan-legislative-committee-finds-that-the-governor-of-alaska-sarah-palin-unlawfully-abused-her-authority-in-terminating-the-public-sa.md)
-_Context: Governor, Walter Monegan, Alaska, Sarah Palin, legislative_
+_Context: Alaska, Walter Monegan, legislative, Sarah Palin, Governor_
 
 ##### Connecticut Supreme Court
 ### [ The Connecticut Supreme Court rules that gay and lesbian couples have the right to marry in Connecticut. ](/news/2008/10/10/the-connecticut-supreme-court-rules-that-gay-and-lesbian-couples-have-the-right-to-marry-in-connecticut.md)
@@ -31,23 +31,23 @@ _Context: Connecticut Supreme Court, Connecticut, same-sex marriage_
 
 ##### Oxfam
 ### [ Oxfam says those needing food aid in Ethiopia has risen to 6.4 million, nearly two million more than in June . ](/news/2008/10/10/oxfam-says-those-needing-food-aid-in-ethiopia-has-risen-to-6-4-million-nearly-two-million-more-than-in-june.md)
-_Context: Ethiopia, Oxfam_
+_Context: Oxfam, Ethiopia_
 
 ##### NATO
 ### [ NATO ministers reach a deal after overcoming resistance from France, Italy and Germany by agreeing that only willing countries temporarily "act in concert with the Afghans, against [drug] facilities". ](/news/2008/10/10/nato-ministers-reach-a-deal-after-overcoming-resistance-from-france-italy-and-germany-by-agreeing-that-only-willing-countries-temporarily.md)
-_Context: France, Italy, German, NATO_
+_Context: NATO, German, Italy, France_
 
 ##### Nobel peace prize
 ### [ The Nobel peace prize is awarded to former Finnish president Martti Ahtisaari for mediation for the resolution of international conflicts who, as a UN special envoy, guided Namibia to independence in 1990, oversaw the 2005 reconciliation between the government of Indonesia and rebels in Aceh, and mediated a peace deal in Kosovo.](/news/2008/10/10/the-nobel-peace-prize-is-awarded-to-former-finnish-president-martti-ahtisaari-for-mediation-for-the-resolution-of-international-conflicts-w.md)
-_Context: Indonesia, Martti Ahtisaari, Aceh, Namibia, Nobel peace prize, Kosovo, UN_
+_Context: Namibia, Martti Ahtisaari, UN, Nobel peace prize, Aceh, Indonesia, Kosovo_
 
 ##### Russia
 ### [ Former Russian cross country ski champion Alexey Prokurorov dies after he is hit by a car while crossing a road in Vladimir.](/news/2008/10/10/former-russian-cross-country-ski-champion-alexey-prokurorov-dies-after-he-is-hit-by-a-car-while-crossing-a-road-in-vladimir.md)
-_Context: Vladimir, Alexey Prokurorov, Russia_
+_Context: Alexey Prokurorov, Vladimir, Russia_
 
 ##### Sweden
 ### [ A Swedish appellate court sentences Chilean opera tenor Ernesto "Tito" Beltran to two years and six months in prison for raping an 18-year-old nanny and molesting a 7-year-old girl.](/news/2008/10/10/a-swedish-appellate-court-sentences-chilean-opera-tenor-ernesto-tito-beltra-n-to-two-years-and-six-months-in-prison-for-raping-an-18-year.md)
-_Context: opera, appellate court, Ernesto "Tito" Beltran, Chile, nanny, tenor, Sweden_
+_Context: opera, appellate court, Sweden, Chile, Ernesto "Tito" Beltran, tenor, nanny_
 
 ##### North Korea
 ### [ North Korea draws nearer to a compromise in a nuclear deal that would prompt Washington to remove it from a list of State Sponsors of Terrorism. ](/news/2008/10/10/north-korea-draws-nearer-to-a-compromise-in-a-nuclear-deal-that-would-prompt-washington-to-remove-it-from-a-list-of-state-sponsors-of-terro.md)

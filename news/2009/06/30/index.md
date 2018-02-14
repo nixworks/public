@@ -9,15 +9,15 @@ _Context: Abdullah Al-Attiyah, Gas Exporting Countries Forum_
 
 ##### President of Cameroon
 ### [ The President of Cameroon Paul Biya sacks Prime Minister Ephraim Inoni and appoints Philemon Yang to the role. ](/news/2009/06/30/the-president-of-cameroon-paul-biya-sacks-prime-minister-ephraim-inoni-and-appoints-philemon-yang-to-the-role.md)
-_Context: Ephraim Inoni, Prime Minister, President of Cameroon, Paul Biya, Philemon Yang_
+_Context: Philemon Yang, President of Cameroon, Paul Biya, Prime Minister, Ephraim Inoni_
 
 ##### Dresden
 ### [ Dresden loses its status as a UNESCO World Heritage Site. ](/news/2009/06/30/dresden-loses-its-status-as-a-unesco-world-heritage-site.md)
-_Context: world heritage site, UNESCO, Dresden_
+_Context: Dresden, world heritage site, UNESCO_
 
 ##### German
 ### [ Germany's Constitutional Court approves the Treaty of Lisbon, but suspends ratification of it. ](/news/2009/06/30/germany-s-constitutional-court-approves-the-treaty-of-lisbon-but-suspends-ratification-of-it.md)
-_Context: Federal Constitutional Court of Germany, approves, German, Treaty of Lisbon_
+_Context: German, Federal Constitutional Court of Germany, Treaty of Lisbon, approves_
 
 ##### Central Statistics Office
 ### [ Official figures from the Central Statistics Office show a dramatic contraction in the Irish economy in the first three months of 2009. ](/news/2009/06/30/official-figures-from-the-central-statistics-office-show-a-dramatic-contraction-in-the-irish-economy-in-the-first-three-months-of-2009.md)
@@ -25,7 +25,7 @@ Official figures show that there was a dramatic contraction in the economy in th
 
 ##### Italy
 ### [ At least 15 people are killed and 40 are injured by the derailment of an Italian freight train and subsequent explosion of two wagons carrying liquified petroleum gas in Viareggio. ](/news/2009/06/30/at-least-15-people-are-killed-and-40-are-injured-by-the-derailment-of-an-italian-freight-train-and-subsequent-explosion-of-two-wagons-carry.md)
-_Context: liquified petroleum gas, Italy, Viareggio, subsequent explosion_
+_Context: Italy, liquified petroleum gas, subsequent explosion, Viareggio_
 
 ##### U.S.
 ### [ U.S. forces pull out of Baghdad and leave major cities across Iraq. ](/news/2009/06/30/u-s-forces-pull-out-of-baghdad-and-leave-major-cities-across-iraq.md)
@@ -33,7 +33,7 @@ In one neighborhood, results of the American “surge” are evident but sectari
 
 ##### The Pirate Bay
 ### [ The Pirate Bay, one of the world's largest BitTorrent trackers, confirms today that it would be acquired by Global Gaming Factory X (GGF) for 7.8 million USD. ](/news/2009/06/30/the-pirate-bay-one-of-the-world-s-largest-bittorrent-trackers-confirms-today-that-it-would-be-acquired-by-global-gaming-factory-x-ggf-f.md)
-_Context: BitTorrent, The Pirate Bay_
+_Context: The Pirate Bay, BitTorrent_
 
 ##### Taliban
 ### [ The Taliban scraps the truce offered in February by the Pakistani government, killing approximately 30 Pakistani soldiers shortly after making the announcement. ](/news/2009/06/30/the-taliban-scraps-the-truce-offered-in-february-by-the-pakistani-government-killing-approximately-30-pakistani-soldiers-shortly-after-mak.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2015/04/3/index.html)  [JSON](2015/04/3/index.json)  [XML](2015/
 
 ##### SGBPo Paulo
 ### [ Five people die in a helicopter crash in a SGBPo Paulo residential area, including the son of Governor Geraldo Alckmin. ](/news/2015/04/3/five-people-die-in-a-helicopter-crash-in-a-sagbpo-paulo-residential-area-including-the-son-of-governor-geraldo-alckmin.md)
-_Context: Governor, Geraldo Alckmin, SGBPo Paulo_
+_Context: SGBPo Paulo, Governor, Geraldo Alckmin_
 
 ##### Flight data recorder
 ### [Data from the flight data recorder reveals that the plane was deliberately accelerated before crashing into the French Alps. ](/news/2015/04/3/data-from-the-flight-data-recorder-reveals-that-the-plane-was-deliberately-accelerated-before-crashing-into-the-french-alps.md)
@@ -25,7 +25,7 @@ Security cabinet united in opposition to Iran deal as Netanyahu tells Obama nucl
 
 ##### Google
 ### [ Plaintiffs withdraw a lawsuit against Google that had asserted that it was illegally tying its licensing of the Android operating system to the favorable treatment of Google apps. ](/news/2015/04/3/plaintiffs-withdraw-a-lawsuit-against-google-that-had-asserted-that-it-was-illegally-tying-its-licensing-of-the-android-operating-system-to.md)
-_Context: mobile applications, Google, Android_
+_Context: Google, mobile applications, Android_
 
 ##### Atlantic Ocean
 ### [ An American sailor who was lost for 66 days in the Atlantic Ocean is found by a German tanker. He survived on a diet of solely raw fish and rainwater. ](/news/2015/04/3/an-american-sailor-who-was-lost-for-66-days-in-the-atlantic-ocean-is-found-by-a-german-tanker-he-survived-on-a-diet-of-solely-raw-fish-and.md)
@@ -37,11 +37,11 @@ Burkina Faso’s government confirmed on Wednesday that an outbreak of H5N1 avia
 
 ##### Prime Minister
 ### [ Former Prime Minister of the Netherlands Piet de Jong celebrates his 100th birthday. ](/news/2015/04/3/former-prime-minister-of-the-netherlands-piet-de-jong-celebrates-his-100th-birthday.md)
-_Context: Piet de Jong, 100th birthday, Prime Minister_
+_Context: Piet de Jong, Prime Minister, 100th birthday_
 
 ##### Vice President
 ### [ Former Vice President of Zimbabwe Joice Mujuru is expelled from the ruling party for allegedly planning a coup against President Robert Mugabe. ](/news/2015/04/3/former-vice-president-of-zimbabwe-joice-mujuru-is-expelled-from-the-ruling-party-for-allegedly-planning-a-coup-against-president-robert-mug.md)
-_Context: ZANU-PF, President of Zimbabwe, Robert Mugabe, Joice Mujuru, Vice President, coup_
+_Context: President of Zimbabwe, coup, ZANU-PF, Robert Mugabe, Vice President, Joice Mujuru_
 
 ## [Previous Day...](/news/2015/04/2/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2015/03/24/index.html)  [JSON](2015/03/24/index.json)  [XML](201
 
 ##### War in Afghanistan
 ### [Gunmen kill at least thirteen people in an attack on three passing vehicles including a bus in Wardak province's Sayad Abad district. ](/news/2015/03/24/gunmen-kill-at-least-thirteen-people-in-an-attack-on-three-passing-vehicles-including-a-bus-in-wardak-province-s-sayad-abad-district.md)
-_Context: Wardak province, War in Afghanistan_
+_Context: War in Afghanistan, Wardak province_
 
 ##### BBC
 ### [A BBC investigation finds that "Top Gear" presenter Jeremy Clarkson assaulted a producer with reports that he will be sacked from the television program. ](/news/2015/03/24/a-bbc-investigation-finds-that-top-gear-presenter-jeremy-clarkson-assaulted-a-producer-with-reports-that-he-will-be-sacked-from-the-televi.md)

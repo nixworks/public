@@ -5,11 +5,11 @@ Formats: [HTML](2010/08/12/index.html)  [JSON](2010/08/12/index.json)  [XML](201
 
 ##### International Assistance Mission
 ### [The International Assistance Mission says it now believes that the Taliban was responsible for the 2010 Badakhshan massacre of its medical team in Afghanistan. ](/news/2010/08/12/the-international-assistance-mission-says-it-now-believes-that-the-taliban-was-responsible-for-the-2010-badakhshan-massacre-of-its-medical-t.md)
-_Context: Afghanistan, International Assistance Mission, Taliban, 2010 Badakhshan massacre_
+_Context: Afghanistan, Taliban, International Assistance Mission, 2010 Badakhshan massacre_
 
 ##### Human Rights Watch
 ### [Human Rights Watch accuses the northern Ugandan Lord's Resistance Army of abducting and forcing the recruitment of at least 697 people during the last year and a half across central Africa. ](/news/2010/08/12/human-rights-watch-accuses-the-northern-ugandan-lord-s-resistance-army-of-abducting-and-forcing-the-recruitment-of-at-least-697-people-durin.md)
-_Context: Lord's Resistance Army, central Africa, Uganda, Human Rights Watch_
+_Context: Uganda, Human Rights Watch, central Africa, Lord's Resistance Army_
 
 ##### Dhaka
 ### [At least 50 people are injured in Dhaka as police use batons and tear gas to beat back civilians protesting against frequent power outage. ](/news/2010/08/12/at-least-50-people-are-injured-in-dhaka-as-police-use-batons-and-tear-gas-to-beat-back-civilians-protesting-against-frequent-power-outage.md)
@@ -17,7 +17,7 @@ Dozens hurt in police clash after demonstrating against frequent power outages.
 
 ##### United Nations
 ### [The United Nations condemns France's crackdown on 40 gypsy camps. ](/news/2010/08/12/the-united-nations-condemns-france-s-crackdown-on-40-gypsy-camps.md)
-_Context: France, Roma, United Nations_
+_Context: Roma, United Nations, France_
 
 ##### Self-immolation
 ### [At least two people are killed, including one case of self-immolation from a balcony, while more than 80 sustain wounds after troops interrupt a protest against poor conditions with batons and flashbangs at a prison in Astana, Kazakhstan. ](/news/2010/08/12/at-least-two-people-are-killed-including-one-case-of-self-immolation-from-a-balcony-while-more-than-80-sustain-wounds-after-troops-interru.md)
@@ -57,7 +57,7 @@ A woman accused of attacking Leonardo DiCaprio with a broken bottle at a 2005 pa
 
 ##### Edward Whitacre, Jr.
 ### [Edward Whitacre, Jr. announces that he will resign as chief executive officer of General Motors effective from September and that he will be replaced by Daniel Akerson. ](/news/2010/08/12/edward-whitacre-jr-announces-that-he-will-resign-as-chief-executive-officer-of-general-motors-effective-from-september-and-that-he-will-be.md)
-_Context: Daniel Akerson, Edward Whitacre, Jr., General Motors, chief executive officer_
+_Context: Edward Whitacre, Jr., chief executive officer, Daniel Akerson, General Motors_
 
 ##### Greece
 ### [Greece's economy shrinks further. ](/news/2010/08/12/greece-s-economy-shrinks-further.md)
@@ -109,7 +109,7 @@ Officials say 500 people could be onboard boat from Sri Lanka.
 
 ##### Mohammad-Reza Rahimi
 ### [Mohammad-Reza Rahimi, the Vice-President of Iran describes inhabitants of the United Kingdom as "not human" and "a bunch of idiots run by a mafia". He also describes Australians as "a bunch of cattlemen" and says that Koreans "need to be slapped". ](/news/2010/08/12/mohammad-reza-rahimi-the-vice-president-of-iran-describes-inhabitants-of-the-united-kingdom-as-not-human-and-a-bunch-of-idiots-run-by-a.md)
-_Context: Mohammad-Reza Rahimi, South Korea, Australia, Iran, mafia, United Kingdom, First Vice President, cattlemen_
+_Context: South Korea, mafia, First Vice President, cattlemen, United Kingdom, Mohammad-Reza Rahimi, Iran, Australia_
 
 ##### Babar Ahmad
 ### [Four British police officers are charged with beating, dragging, punching, stamping and mocking "terror suspect" Babar Ahmad after arresting him in Tooting, South London in 2003; the suspect, a 36-year-old IT worker, was later deemed innocent. ](/news/2010/08/12/four-british-police-officers-are-charged-with-beating-dragging-punching-stamping-and-mocking-terror-suspect-babar-ahmad-after-arresting.md)
@@ -121,7 +121,7 @@ The health ministry in China is investigating reports that a brand of powdered m
 
 ##### Sakineh Mohammadi Ashtiani
 ### [Sakineh Mohammadi Ashtiani, sentenced to death in Iran, "confesses" to adultery and murder in a televised broadcast. ](/news/2010/08/12/sakineh-mohammadi-ashtiani-sentenced-to-death-in-iran-confesses-to-adultery-and-murder-in-a-televised-broadcast.md)
-_Context: Iran, murder, Sakineh Mohammadi Ashtiani, adultery_
+_Context: Iran, adultery, murder, Sakineh Mohammadi Ashtiani_
 
 ##### United States District Court for the Northern District of California
 ### [Federal Judge Vaughn R. Walker, after deciding for the plaintiffs in Perry v. Schwarzenegger, mandates that same-sex marriage in the U.S. state of California should resume on August 18. ](/news/2010/08/12/federal-judge-vaughn-r-walker-after-deciding-for-the-plaintiffs-in-perry-v-schwarzenegger-mandates-that-same-sex-marriage-in-the-u-s-st.md)
@@ -141,7 +141,7 @@ The defence lawyer of the former Liberian President Charles Taylor was temporari
 
 ##### India
 ### [India issues the producer of the controversial Blackberry devices a 31 August deadline to give the Indian government access to its services or be shut down over concerns the devices could be used to commit a repeat of the 2008 Mumbai attacks. ](/news/2010/08/12/india-issues-the-producer-of-the-controversial-blackberry-devices-a-31-august-deadline-to-give-the-indian-government-access-to-its-services.md)
-_Context: Government of India, Blackberry, India, 2008 Mumbai attacks_
+_Context: Blackberry, Government of India, 2008 Mumbai attacks, India_
 
 ##### Israel
 ### [Israeli citizen Elias Abuelazam, a suspected serial killer from Flint, Michigan, is arrested while attempting to leave the United States. ](/news/2010/08/12/israeli-citizen-elias-abuelazam-a-suspected-serial-killer-from-flint-michigan-is-arrested-while-attempting-to-leave-the-united-states.md)
@@ -173,7 +173,7 @@ Skywatchers across Europe enjoy another dazzling display as the annual Perseid m
 
 ##### Scientists
 ### [Scientists announce the discovery of a chemical compound which destroys the reproduction capabilities of bacteria that are antibiotic-resistant. ](/news/2010/08/12/scientists-announce-the-discovery-of-a-chemical-compound-which-destroys-the-reproduction-capabilities-of-bacteria-that-are-antibiotic-resist.md)
-_Context: Scientists, chemical_
+_Context: chemical, Scientists_
 
 ##### Einstein@Home
 ### [Three participants in the Einstein@Home program from the United States and Germany help to discover pulsar PSR J2007+2722. ](/news/2010/08/12/three-participants-in-the-einstein-home-program-from-the-united-states-and-germany-help-to-discover-pulsar-psr-j2007-2722.md)

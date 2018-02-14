@@ -21,11 +21,11 @@ Less than 10 minutes after it took off from Agra, one of the Indian Air Force&#0
 
 ##### South Korea
 ### [South Korea captures a North Korean fishing boat that had crossed into their waters amid rising tensions between the two neighboring countries. ](/news/2014/03/28/south-korea-captures-a-north-korean-fishing-boat-that-had-crossed-into-their-waters-amid-rising-tensions-between-the-two-neighboring-countri.md)
-_Context: South Korea, North Korea, rising tensions between the two neighboring countries_
+_Context: rising tensions between the two neighboring countries, North Korea, South Korea_
 
 ##### Prime Minister of Norway
 ### [Former Prime Minister of Norway Jens Stoltenberg is appointed to succeed Denmark's Anders Fogh Rasmussen as the next Secretary General of NATO. ](/news/2014/03/28/former-prime-minister-of-norway-jens-stoltenberg-is-appointed-to-succeed-denmark-s-anders-fogh-rasmussen-as-the-next-secretary-general-of-na.md)
-_Context: Anders Fogh Rasmussen, Jens Stoltenberg, Secretary General of NATO, Prime Minister of Norway_
+_Context: Prime Minister of Norway, Secretary General of NATO, Anders Fogh Rasmussen, Jens Stoltenberg_
 
 ##### Buddhist
 ### [Buddhist mobs in western Myanmar reportedly target foreign aid groups and workers in reaction to supposedly disrespectful treatment of a Buddhist flag. ](/news/2014/03/28/buddhist-mobs-in-western-myanmar-reportedly-target-foreign-aid-groups-and-workers-in-reaction-to-supposedly-disrespectful-treatment-of-a-bud.md)
@@ -33,7 +33,7 @@ _Context: Burma, Buddhist_
 
 ##### Brampton
 ### [A shooting occurs at a courthouse in Brampton, Ontario, Canada, with one shooter dead and a police officer injured. ](/news/2014/03/28/a-shooting-occurs-at-a-courthouse-in-brampton-ontario-canada-with-one-shooter-dead-and-a-police-officer-injured.md)
-_Context: Canadian, Brampton, Ontario_
+_Context: Brampton, Ontario, Canadian_
 
 ##### US Geological Survey
 ### [The US Geological Survey records a 5.1 magnitude earthquake in the Los Angeles area of California. ](/news/2014/03/28/the-us-geological-survey-records-a-5-1-magnitude-earthquake-in-the-los-angeles-area-of-california.md)

@@ -15,21 +15,25 @@ Former football coach Barry Bennell is found guilty dozens of sex offences again
 ### [Israeli police recommend indicting Israeli Prime Minister Benjamin Netanyahu with charges of corruption and bribery. Netanyahu calls the accusations "baseless". ](/news/2018/02/13/israeli-police-recommend-indicting-israeli-prime-minister-benjamin-netanyahu-with-charges-of-corruption-and-bribery-netanyahu-calls-the-acc.md)
 The legal action comes two months after Israeli media first reported that Netanyahu had been grilled by police investigators for more than three hours.
 
+##### Corruption in Guatemala
+### [Former President Alvaro Colom and his entire government cabinet were arrested for their alleged participation in a new corruption case investigated by CICIG and the MP. They were sent to preventive detention at the Mariscal Zavala Military Center. ](/news/2018/02/13/former-president-alvaro-colom-and-his-entire-government-cabinet-were-arrested-for-their-alleged-participation-in-a-new-corruption-case-inves.md)
+Alvaro Colom and most of his former cabinet have been arrested over major deals to overhaul the capital&#39;s public transport. Colom is one of three Guatemalan leaders currently facing graft allegations.
+
 ##### Politics of South Africa
 ### [South Africa's ruling ANC party formally requests that President Jacob Zuma step down after he refused to resign. ](/news/2018/02/13/south-africa-s-ruling-anc-party-formally-requests-that-president-jacob-zuma-step-down-after-he-refused-to-resign.md)
 Jacob Zuma is refusing to resign so his party has decided to issue a formal demand, reports say.
 
 ##### Politics of the Netherlands
 ### [Halbe Zijlstra offers his resignation as Minister of Foreign Affairs of the Netherlands. Minister Sigrid Kaag takes over the portfolio ad interim. ](/news/2018/02/13/halbe-zijlstra-offers-his-resignation-as-minister-of-foreign-affairs-of-the-netherlands-minister-sigrid-kaag-takes-over-the-portfolio-ad-in.md)
-_Context: Politics of the Netherlands, Sigrid Kaag, Minister of Foreign Affairs of the Netherlands, ad interim, Halbe Zijlstra, Minister_
+_Context: ad interim, Minister, Halbe Zijlstra, Minister of Foreign Affairs of the Netherlands, Sigrid Kaag, Politics of the Netherlands_
 
 ##### Politics of Germany
 ### [Martin Schulz resigns as leader of the Social Democratic Party of Germany (SPD) with immediate effect. The mayor of Hamburg Olaf Scholz will serve as interim leader until a new leader is elected. ](/news/2018/02/13/martin-schulz-resigns-as-leader-of-the-social-democratic-party-of-germany-spd-with-immediate-effect-the-mayor-of-hamburg-olaf-scholz-will.md)
-_Context: Hamburg, Olaf Scholz, mayor, Politics of Germany, Social Democratic Party of Germany, Martin Schulz_
+_Context: Politics of Germany, Martin Schulz, Social Democratic Party of Germany, Olaf Scholz, mayor, Hamburg_
 
 ##### Supersonic transport
 ### [A new plane that would fly from London to New York in three hours has just received crucial funding. The aircraft, officially named Quiet Supersonic Transport (QueSST) and dubbed the "Son of Concorde", was proposed by NASA and has just been given the go-ahead by US officials. QueSST could make its maiden voyage in 2021 if all goes according to plan. If so, it will halve the current travel time between London and New York. ](/news/2018/02/13/a-new-plane-that-would-fly-from-london-to-new-york-in-three-hours-has-just-received-crucial-funding-the-aircraft-officially-named-quiet-su.md)
-_Context: Supersonic transport, NASA, New York, London, plane, travel, Concorde, Quiet Supersonic Transport_
+_Context: Supersonic transport, New York, plane, London, NASA, Quiet Supersonic Transport, travel, Concorde_
 
 ## [Previous Day...](/news/2018/02/12/index.md)
 

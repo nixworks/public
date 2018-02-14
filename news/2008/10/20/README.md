@@ -9,7 +9,7 @@ _Context: Sri Lankan military, Sri Lanka, Sri Lankan Civil War, Tamil Tiger_
 
 ##### President
 ### [ Former President of Botswana, Festus Mogae is awarded the $5m Mo Ibrahim Foundation Prize for Achievement in African Leadership for 2008. ](/news/2008/10/20/former-president-of-botswana-festus-mogae-is-awarded-the-5m-mo-ibrahim-foundation-prize-for-achievement-in-african-leadership-for-2008.md)
-_Context: Mo Ibrahim Foundation, USD, President, Festus Mogae_
+_Context: President, USD, Festus Mogae, Mo Ibrahim Foundation_
 
 ## [Previous Day...](/news/2008/10/19/index.md)
 

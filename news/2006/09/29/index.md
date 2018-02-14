@@ -9,7 +9,7 @@ New images from a low-altitude Mars satellite are giving scientists some of thei
 
 ##### Eric Hainstock
 ### [ A high school principal is shot to death by 15-year-old Eric Hainstock. Principal John Klang of Weston High School in Cazenovia, Wisconsin is shot three times by Hainstock with a gun which he stole from his family home. A custodian and others confront the student who is now in police custody. ](/news/2006/09/29/a-high-school-principal-is-shot-to-death-by-15-year-old-eric-hainstock-principal-john-klang-of-weston-high-school-in-cazenovia-wisconsin.md)
-_Context: Weston High School, Eric Hainstock, Cazenovia, Wisconsin_
+_Context: Weston High School, Wisconsin, Eric Hainstock, Cazenovia_
 
 ##### Gol Transportes Areos
 ### [ Gol Transportes Areos Flight 1907 with 155 passengers onboard collides with a smaller jet in midair, 470 miles south of Manaus, Brazil. The Boeing 737-800 wreckage has been found by FAB near Peixoto de Azevedo ](/news/2006/09/29/gol-transportes-aereos-flight-1907-with-155-passengers-onboard-collides-with-a-smaller-jet-in-midair-470-miles-south-of-manaus-brazil-th.md)
@@ -17,15 +17,15 @@ Prosecutors could charge two American pilots of an executive jet with manslaught
 
 ##### Al Qaeda
 ### [ A tape of senior Al Qaeda figure Ayman al-Zawahiri is released in which he brands US President George W. Bush a "lying failure" over the war on terror. He goes on to condemn Pope Benedict XVI as an "impostor" for his recent controversial speech and labels Roman Catholicism a religion "made of myths". ](/news/2006/09/29/a-tape-of-senior-al-qaeda-figure-ayman-al-zawahiri-is-released-in-which-he-brands-us-president-george-w-bush-a-lying-failure-over-the-wa.md)
-_Context: war on terror, controversial speech, George W. Bush, Al Qaeda, Pope Benedict XVI, Ayman al-Zawahiri, Roman Catholic Church, U.S. President_
+_Context: Pope Benedict XVI, controversial speech, Ayman al-Zawahiri, U.S. President, war on terror, Al Qaeda, George W. Bush, Roman Catholic Church_
 
 ##### Mark Foley
 ### [ Rep. Mark Foley, R-Fla., resigns from the United States House of Representatives in the wake of questions about e-mails and instant messages he wrote to a former Capitol page. ](/news/2006/09/29/rep-mark-foley-r-fla-resigns-from-the-united-states-house-of-representatives-in-the-wake-of-questions-about-e-mails-and-instant-message.md)
-_Context: the state, page, United States House of Representatives, Republican, Mark Foley, e-mail_
+_Context: United States House of Representatives, the state, Republican, page, e-mail, Mark Foley_
 
 ##### Soyuz TMA-8
 ### [ Soyuz TMA-8, with the Expedition 13 crew and Iranian-American space tourist Anousheh Ansari on board, lands safely on the Kazakh steppe. ](/news/2006/09/29/soyuz-tma-8-with-the-expedition-13-crew-and-iranian-american-space-tourist-anousheh-ansari-on-board-lands-safely-on-the-kazakh-steppe.md)
-_Context: Iranian-American, space tourist, Kazakhstan, Expedition 13, Anousheh Ansari, Soyuz TMA-8, steppe_
+_Context: steppe, Iranian-American, space tourist, Soyuz TMA-8, Kazakhstan, Anousheh Ansari, Expedition 13_
 
 ##### Typhoon Xangsane
 ### [ Typhoon Xangsane lashes the northern Philippines, killing at least 48 people and causing extensive damage. ](/news/2006/09/29/typhoon-xangsane-lashes-the-northern-philippines-killing-at-least-48-people-and-causing-extensive-damage.md)
@@ -33,11 +33,11 @@ _Context: Typhoon Xangsane, Philippines_
 
 ##### Lenovo
 ### [ Lenovo recalls 526,000 Sony laptop batteries due to fire risk. ](/news/2006/09/29/lenovo-recalls-526-000-sony-laptop-batteries-due-to-fire-risk.md)
-_Context: Sony, Lenovo_
+_Context: Lenovo, Sony_
 
 ##### General strike
 ### [ A general strike is being observed in Indian-administered Kashmir to protest the planned execution of Jaish-e-Mohammed militant, Mohd Afzal, set for October 20. ](/news/2006/09/29/a-general-strike-is-being-observed-in-indian-administered-kashmir-to-protest-the-planned-execution-of-jaish-e-mohammed-militant-mohd-afzal.md)
-_Context: general strike, Jammu and Kashmir, Jaish-e-Mohammed_
+_Context: Jaish-e-Mohammed, Jammu and Kashmir, general strike_
 
 ##### Sri Lanka Monitoring Mission
 ### [ The Sri Lanka Monitoring Mission submits its report to the government and the LTTE rebels. The report accuses both sides of human-rights violations and breaking the terms of the cease-fire, citing over 200 civilians killed and over 200,000 displaced in the last two months. ](/news/2006/09/29/the-sri-lanka-monitoring-mission-submits-its-report-to-the-government-and-the-ltte-rebels-the-report-accuses-both-sides-of-human-rights-vi.md)

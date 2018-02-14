@@ -37,11 +37,11 @@ _Context: rocket, Proton-M, communications satellite_
 
 ##### Serbia
 ### [Tens of thousands of people are being evacuated in Serbia and Bosnia as heavy rains cause floods. ](/news/2014/05/16/tens-of-thousands-of-people-are-being-evacuated-in-serbia-and-bosnia-as-heavy-rains-cause-floods.md)
-_Context: Bosnian, Serbia, heavy rains cause floods_
+_Context: Serbia, heavy rains cause floods, Bosnian_
 
 ##### Narendra Modi
 ### [Led by Narendra Modi, the Bharatiya Janata Party wins a majority in the Indian general election. The incumbent Indian National Congress records its worst ever result. ](/news/2014/05/16/led-by-narendra-modi-the-bharatiya-janata-party-wins-a-majority-in-the-indian-general-election-the-incumbent-indian-national-congress-reco.md)
-_Context: Congress Party, Narendra Modi, Bharatiya Janata Party, Indian general election_
+_Context: Bharatiya Janata Party, Congress Party, Indian general election, Narendra Modi_
 
 ##### Under Secretary of Veterans Affairs for Health
 ### [Dr. Robert Petzel resigns as the US Under Secretary of Veterans Affairs for Health following a scandal over long waits for care, treatment delays, and falsification of records at VA hospitals. ](/news/2014/05/16/dr-robert-petzel-resigns-as-the-us-under-secretary-of-veterans-affairs-for-health-following-a-scandal-over-long-waits-for-care-treatment-d.md)

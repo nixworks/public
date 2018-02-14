@@ -17,11 +17,11 @@ Harrison and Haji Mujtaba
 
 ##### Father's killing
 ### [The U.S. killing of Osama Bin Laden may act as a precedent for "targeted killings," according to a report prepared by the library of the House of Commons of the United Kingdom. ](/news/2011/05/17/the-u-s-killing-of-osama-bin-laden-may-act-as-a-precedent-for-targeted-killings-according-to-a-report-prepared-by-the-library-of-the-hou.md)
-_Context: the House of Commons, targeted killing, Osama Bin Laden, father's killing_
+_Context: Osama Bin Laden, targeted killing, the House of Commons, father's killing_
 
 ##### Guatemala
 ### [A "state of siege" is declared in northern Guatemala after a massacre is committed by The "Zetas" Drug Cartel. ](/news/2011/05/17/a-state-of-siege-is-declared-in-northern-guatemala-after-a-massacre-is-committed-by-the-zetas-drug-cartel.md)
-_Context: Guatemala, "Zetas" Drug Cartel_
+_Context: "Zetas" Drug Cartel, Guatemala_
 
 ##### Suicide bombing
 ### [A suicide bombing occurs in Aktobe, western Kazakhstan, injuring three people. ](/news/2011/05/17/a-suicide-bombing-occurs-in-aktobe-western-kazakhstan-injuring-three-people.md)
@@ -37,11 +37,11 @@ Condé Nast is to lease one million square feet in the lead tower at ground zero
 
 ##### Tokyo Electric Power Co.
 ### [Tokyo Electric Power Co. (TEPCO) announces new plans to tackle the ongoing Fukushima I nuclear crisis, after it is discovered that the problems with the number 1 reactor at the Fukushima I plant are worse than thought. ](/news/2011/05/17/tokyo-electric-power-co-tepco-announces-new-plans-to-tackle-the-ongoing-fukushima-i-nuclear-crisis-after-it-is-discovered-that-the-probl.md)
-_Context: Fukushima Daiichi Nuclear Power Plant, Tokyo Electric Power Co., ongoing Fukushima I nuclear crisis_
+_Context: Tokyo Electric Power Co., ongoing Fukushima I nuclear crisis, Fukushima Daiichi Nuclear Power Plant_
 
 ##### Prime Minister
 ### [The Prime Minister of Pakistan Yusuf Raza Gilani commences a state visit to the People's Republic of China. ](/news/2011/05/17/the-prime-minister-of-pakistan-yusuf-raza-gilani-commences-a-state-visit-to-the-people-s-republic-of-china.md)
-_Context: Prime Minister, China, Yusuf Raza Gilani_
+_Context: Yusuf Raza Gilani, China, Prime Minister_
 
 ##### Queen Elizabeth II
 ### [Queen Elizabeth II starts her first state visit to the Republic of Ireland, the first visit of a British monarch since Ireland's independence from the United Kingdom in 1921. Elizabeth is also the first British monarch to visit Ireland since George V's state visit in 1911. ](/news/2011/05/17/queen-elizabeth-ii-starts-her-first-state-visit-to-the-republic-of-ireland-the-first-visit-of-a-british-monarch-since-ireland-s-independenc.md)
@@ -49,11 +49,11 @@ The Queen is due to begin the first visit to the Republic of Ireland by a Britis
 
 ##### Israel
 ### [Israel reopens its embassy in Cairo a day after it was closed following the 2011 Nakba Day protests. ](/news/2011/05/17/israel-reopens-its-embassy-in-cairo-a-day-after-it-was-closed-following-the-2011-nakba-day-protests.md)
-_Context: Nakba, Cairo, Israel_
+_Context: Israel, Cairo, Nakba_
 
 ##### Canadian government
 ### [The Government of Canada expels five diplomats from the Libyan embassy in Ottawa. ](/news/2011/05/17/the-government-of-canada-expels-five-diplomats-from-the-libyan-embassy-in-ottawa.md)
-_Context: Canadian government, Libya, Ottawa_
+_Context: Libya, Canadian government, Ottawa_
 
 ##### Burma
 ### [Burma begins to release thousands of prisoners in a general amnesty, though few political prisoners are released. ](/news/2011/05/17/burma-begins-to-release-thousands-of-prisoners-in-a-general-amnesty-though-few-political-prisoners-are-released.md)
@@ -73,7 +73,7 @@ Former Rwandan army chief Augustin Bizimungu is sentenced to 30 years in prison 
 
 ##### US state
 ### [The US state of Arizona proposes that a $50 fine should be in place for overweight Medicaid recipients who do not follow a strict health regime discussed with the recipient and their doctor.](/news/2011/05/17/the-us-state-of-arizona-proposes-that-a-50-fine-should-be-in-place-for-overweight-medicaid-recipients-who-do-not-follow-a-strict-health-reg.md)
-_Context: US state, Medicaid, Arizona_
+_Context: Medicaid, US state, Arizona_
 
 ##### Environmental Protection Agency
 ### [The Environmental Protection Agency delays its proposed rules for the United States for cutting pollution from industrial boilers used at oil refineries, chemical plants, paper mills and other factories. ](/news/2011/05/17/the-environmental-protection-agency-delays-its-proposed-rules-for-the-united-states-for-cutting-pollution-from-industrial-boilers-used-at-oi.md)

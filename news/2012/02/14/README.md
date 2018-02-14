@@ -25,7 +25,7 @@ Three minor blasts rattled the Thai capital Bangkok on Tuesday, leaving a foreig
 
 ##### Tibet
 ### [A Tibetan monk sets himself on fire in western China, in the latest self-immolation protest. ](/news/2012/02/14/a-tibetan-monk-sets-himself-on-fire-in-western-china-in-the-latest-self-immolation-protest.md)
-_Context: Tibet, western China_
+_Context: western China, Tibet_
 
 ##### North Korea
 ### [A new statue of late North Korean leader Kim Jong-il is unveiled in the capital Pyongyang. ](/news/2012/02/14/a-new-statue-of-late-north-korean-leader-kim-jong-il-is-unveiled-in-the-capital-pyongyang.md)
@@ -33,7 +33,7 @@ The first bronze statue of the late North Korean leader Kim Jong Il was unveiled
 
 ##### Wellesley College
 ### [Wellesley College and Baylor University publish love letters between English poets Robert Browning and Elizabeth Barrett online. ](/news/2012/02/14/wellesley-college-and-baylor-university-publish-love-letters-between-english-poets-robert-browning-and-elizabeth-barrett-online.md)
-_Context: Robert Browning, Wellesley College, English, Elizabeth Barrett, Baylor University, love letter_
+_Context: Wellesley College, English, love letter, Baylor University, Robert Browning, Elizabeth Barrett_
 
 ##### China
 ### [China issues new regulations on foreign television programmes being aired in the country - banning all imported programmes during prime time. ](/news/2012/02/14/china-issues-new-regulations-on-foreign-television-programmes-being-aired-in-the-country-banning-all-imported-programmes-during-prime-time.md)
@@ -41,7 +41,7 @@ A new set of regulations seek to restrict comedies, dramas and movies from abroa
 
 ##### U.S.
 ### [Authorities in the U.S. say that the recent mortgage settlement with the country's largest banks will provide $1 billion to the Federal Housing Administration, replenishing the FHA's badly depleted capital reserves. ](/news/2012/02/14/authorities-in-the-u-s-say-that-the-recent-mortgage-settlement-with-the-country-s-largest-banks-will-provide-1-billion-to-the-federal-hous.md)
-_Context: U.S., Federal Housing Administration, mortgage settlement_
+_Context: mortgage settlement, Federal Housing Administration, U.S._
 
 ##### Jean-Claude Juncker
 ### [Jean-Claude Juncker, the head of the Euro Group, cancels a meeting on Wednesday to discuss the Greek bailout stating that they are still seeking information from the Greek government. ](/news/2012/02/14/jean-claude-juncker-the-head-of-the-euro-group-cancels-a-meeting-on-wednesday-to-discuss-the-greek-bailout-stating-that-they-are-still-see.md)
@@ -57,23 +57,23 @@ _Context: Gaza Strip_
 
 ##### Sean Penn
 ### [Actor Sean Penn meets Argentina's president Cristina Fernandez de Kirchner to voice his support for "the Malvinas Islands of Argentina" and urges Britain to cease its "archaic commitment to colonialist ideology". ](/news/2012/02/14/actor-sean-penn-meets-argentina-s-president-cristina-ferna-ndez-de-kirchner-to-voice-his-support-for-the-malvinas-islands-of-argentina-and.md)
-_Context: Cristina Fernandez de Kirchner, Sean Penn, Malvinas Islands_
+_Context: Malvinas Islands, Sean Penn, Cristina Fernandez de Kirchner_
 
 ##### Vice-President of the People's Republic of China
 ### [The Vice-President of the People's Republic of China Xi Jinping meets with the President of the United States Barack Obama during a visit to the United States. ](/news/2012/02/14/the-vice-president-of-the-people-s-republic-of-china-xi-jinping-meets-with-the-president-of-the-united-states-barack-obama-during-a-visit-to.md)
-_Context: U.S. President, Barack Obama, Vice-President of the People's Republic of China, U.S., Xi Jinping_
+_Context: Barack Obama, U.S., Vice-President of the People's Republic of China, U.S. President, Xi Jinping_
 
 ##### U.S.
 ### [An employee in the United States embassy in Islamabad is detained in the Pakistani city of Peshawar after bullets are found in his luggage. ](/news/2012/02/14/an-employee-in-the-united-states-embassy-in-islamabad-is-detained-in-the-pakistani-city-of-peshawar-after-bullets-are-found-in-his-luggage.md)
-_Context: Islamabad, Peshawar, Pakistan, U.S._
+_Context: Pakistan, Peshawar, Islamabad, U.S._
 
 ##### Venezuela
 ### [The Venezuelan Supreme Tribunal orders the opposition not to destroy the voter list following its primary. ](/news/2012/02/14/the-venezuelan-supreme-tribunal-orders-the-opposition-not-to-destroy-the-voter-list-following-its-primary.md)
-_Context: opposition, Supreme Court, Venezuela_
+_Context: Venezuela, opposition, Supreme Court_
 
 ##### World Bank
 ### [The World Bank announces that its President, Robert Zoellick, is stepping down when his term ends in June. ](/news/2012/02/14/the-world-bank-announces-that-its-president-robert-zoellick-is-stepping-down-when-his-term-ends-in-june.md)
-_Context: World Bank, Robert Zoellick_
+_Context: Robert Zoellick, World Bank_
 
 ##### Uganda
 ### [The Ugandan minister Minister for Ethics and Integrity Simon Lokodo raids a workshop for gay activists and attempts to arrest the organiser. ](/news/2012/02/14/the-ugandan-minister-minister-for-ethics-and-integrity-simon-lokodo-raids-a-workshop-for-gay-activists-and-attempts-to-arrest-the-organiser.md)

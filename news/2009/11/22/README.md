@@ -5,7 +5,7 @@ Formats: [HTML](2009/11/22/index.html)  [JSON](2009/11/22/index.json)  [XML](200
 
 ##### Algeria
 ### [ An Algerian court acquits Abdulli Feghoul, who had been detained at Guantanamo Bay detention camp without trial for almost seven years. ](/news/2009/11/22/an-algerian-court-acquits-abdulli-feghoul-who-had-been-detained-at-guantanamo-bay-detention-camp-without-trial-for-almost-seven-years.md)
-_Context: detainee, Algeria, Abdulli Feghoul_
+_Context: Algeria, Abdulli Feghoul, detainee_
 
 ##### Efren Peaflorida
 ### [ Efren Peaflorida, who started a "pushcart classroom" in the Philippines to provide education to poor children, is named the 2009 CNN Hero of the Year. ](/news/2009/11/22/efren-penaflorida-who-started-a-pushcart-classroom-in-the-philippines-to-provide-education-to-poor-children-is-named-the-2009-cnn-hero.md)
@@ -25,7 +25,7 @@ A 400lb bomb partially exploded outside the Policing Board headquarters in Belfa
 
 ##### Romania
 ### [ Romanians go to the polls for the first round of the presidential election and to vote on proposed parliamentary reform. ](/news/2009/11/22/romanians-go-to-the-polls-for-the-first-round-of-the-presidential-election-and-to-vote-on-proposed-parliamentary-reform.md)
-_Context: proposed parliamentary reform, Romania, presidential election run-off_
+_Context: proposed parliamentary reform, presidential election run-off, Romania_
 
 ##### Jeong Nam-gyu
 ### [ Jeong Nam-gyu, one of South Korea's most prolific serial killers, commits suicide in his cell on death row. ](/news/2009/11/22/jeong-nam-gyu-one-of-south-korea-s-most-prolific-serial-killers-commits-suicide-in-his-cell-on-death-row.md)
@@ -33,19 +33,19 @@ _Context: South Korea, Jeong Nam-gyu_
 
 ##### Iran
 ### [ Former Iranian Vice President Mohammad-Ali Abtahi who was sentenced to six years imprisonment in connection with the June election protests is released on bail. ](/news/2009/11/22/former-iranian-vice-president-mohammad-ali-abtahi-who-was-sentenced-to-six-years-imprisonment-in-connection-with-the-june-election-protests.md)
-_Context: Iran, protests against the regime, Mohammad-Ali Abtahi, First Vice President_
+_Context: Iran, First Vice President, Mohammad-Ali Abtahi, protests against the regime_
 
 ##### 2009 Azerbaijan-Armenia negotiations in Munich
 ### [ 2009 Azerbaijan-Armenia negotiations in Munich: Azerbaijan and Armenia hold talks on the Nagorno-Karabakh conflict. Azerbaijan has warned that the meeting of presidents in Munich will be "decisive" and that its troops are ready to take the territory by force unless there is a breakthrough in negotiations. ](/news/2009/11/22/2009-azerbaijan-armenia-negotiations-in-munich-azerbaijan-and-armenia-hold-talks-on-the-nagorno-karabakh-conflict-azerbaijan-has-warned-t.md)
-_Context: Munich, Azerbaijani forces, Armenia, Nagorno-Karabakh region, Azerbaijan, 2009 Azerbaijan-Armenia negotiations in Munich_
+_Context: Munich, Armenia, Nagorno-Karabakh region, 2009 Azerbaijan-Armenia negotiations in Munich, Azerbaijani forces, Azerbaijan_
 
 ##### Climate change
 ### [ Debate is stoked over whether scientists have overstated the case for man-made climate change after computer hackers break into a server at University of East Anglia, the well-respected climate change research center. ](/news/2009/11/22/debate-is-stoked-over-whether-scientists-have-overstated-the-case-for-man-made-climate-change-after-computer-hackers-break-into-a-server-at.md)
-_Context: University of East Anglia, criticised, hackers, climate change_
+_Context: criticised, hackers, University of East Anglia, climate change_
 
 ##### Indonesia
 ### [ An Indonesian ferry carrying over 200 passengers sinks off the cost of Sumatra. ](/news/2009/11/22/an-indonesian-ferry-carrying-over-200-passengers-sinks-off-the-cost-of-sumatra.md)
-_Context: Sumatra, ferry, Indonesia_
+_Context: Indonesia, ferry, Sumatra_
 
 ##### United States Senate
 ### [ The United States Senate votes to allow a debate on the healthcare reform bill. The debate is to begin on November 30, 2009. ](/news/2009/11/22/the-united-states-senate-votes-to-allow-a-debate-on-the-healthcare-reform-bill-the-debate-is-to-begin-on-november-30-2009.md)

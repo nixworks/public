@@ -5,7 +5,7 @@ Formats: [HTML](2015/07/9/index.html)  [JSON](2015/07/9/index.json)  [XML](2015/
 
 ##### Chinese stock market crash
 ### [The China Securities Regulatory Commission (CSRC) imposes a six-month ban on stockholders owning more than 5 percent of a company's stock from selling those stocks, resulting in a 6 percent rise in stock markets. ](/news/2015/07/9/the-china-securities-regulatory-commission-csrc-imposes-a-six-month-ban-on-stockholders-owning-more-than-5-percent-of-a-company-s-stock-fr.md)
-_Context: Chinese stock market crash, China's Securities Regulatory Commission_
+_Context: China's Securities Regulatory Commission, Chinese stock market crash_
 
 ##### Puerto Rican debt crisis
 ### [The United States Congress refuses to offer a bailout to Puerto Rico. ](/news/2015/07/9/the-united-states-congress-refuses-to-offer-a-bailout-to-puerto-rico.md)
@@ -13,11 +13,11 @@ _Context: Chinese stock market crash, China's Securities Regulatory Commission_
 
 ##### 2015 Pacific typhoon season
 ### [Hong Kong starts closing schools as Typhoon Linfa approaches. ](/news/2015/07/9/hong-kong-starts-closing-schools-as-typhoon-linfa-approaches.md)
-_Context: Typhoon Linfa, Hong Kong, 2015 Pacific typhoon season_
+_Context: Hong Kong, 2015 Pacific typhoon season, Typhoon Linfa_
 
 ##### Philippines
 ### [The Philippines asks the International Court of Arbitration at The Hague to invalidate China's claims to virtually all of the South China Sea. The hearing was attended by observers from Indonesia, Japan, Malaysia, Thailand, and Vietnam. ](/news/2015/07/9/the-philippines-asks-the-international-court-of-arbitration-at-the-hague-to-invalidate-china-s-claims-to-virtually-all-of-the-south-china-se.md)
-_Context: Malaysia, Philippines, The Hague, Vietnam, Thailand, Japan, South China Sea, Indonesia, China, International Court of Arbitration_
+_Context: China, International Court of Arbitration, Philippines, Vietnam, South China Sea, Japan, Malaysia, The Hague, Indonesia, Thailand_
 
 ##### Zeid bin Ra'ad
 ### [Prince Zeid bin Ra'ad, the United Nations High Commissioner for Human Rights, warns that violence can explode into armed conflict in Burundi following events of the current presidential election. ](/news/2015/07/9/prince-zeid-bin-ra-ad-the-united-nations-high-commissioner-for-human-rights-warns-that-violence-can-explode-into-armed-conflict-in-burundi.md)

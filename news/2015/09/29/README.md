@@ -17,7 +17,7 @@ The attack comes the same day a pro-Kurdish news agency was raided by Turkish po
 
 ##### Gaza-Israel conflict
 ### [At least one rocket is intercepted over Ashdod by Israel's Iron Dome missile defense system, and is believed to have come from the Gaza Strip. ](/news/2015/09/29/at-least-one-rocket-is-intercepted-over-ashdod-by-israel-s-iron-dome-missile-defense-system-and-is-believed-to-have-come-from-the-gaza-stri.md)
-_Context: Israel, Iron Dome, Ashdod, Gaza-Israel conflict, Gaza Strip_
+_Context: Iron Dome, Ashdod, Israel, Gaza Strip, Gaza-Israel conflict_
 
 ##### 2015 Burkinabe coup d'etat
 ### [After a tense standoff, Burkina Faso's military crushed the elite presidential guard and seized the coup's abandoned headquarters. The former head of the guard, Gen. Gilbert Diendere, had called on his men to lay down their weapons to avoid a bloodbath. Diendere told Agence France-Presse (AFP) he feared "many deaths and injuries" in the operation. It is unclear whether there are casualties. ](/news/2015/09/29/after-a-tense-standoff-burkina-faso-s-military-crushed-the-elite-presidential-guard-and-seized-the-coup-s-abandoned-headquarters-the-forme.md)
@@ -29,7 +29,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Amnesty International
 ### [Amnesty International designates Cuban graffiti artist Danilo Maldonado Machado as a prisoner of conscience. ](/news/2015/09/29/amnesty-international-designates-cuban-graffiti-artist-danilo-maldonado-machado-as-a-prisoner-of-conscience.md)
-_Context: Danilo Maldonado Machado, prisoner of conscience, graffiti artist, Cuba, Amnesty International_
+_Context: Danilo Maldonado Machado, Amnesty International, prisoner of conscience, Cuba, graffiti artist_
 
 ##### Bangui
 ### [All 500 of the prisoners escape from the Ngaraba jail in Bangui, the capital of the Central African Republic. ](/news/2015/09/29/all-500-of-the-prisoners-escape-from-the-ngaraba-jail-in-bangui-the-capital-of-the-central-african-republic.md)

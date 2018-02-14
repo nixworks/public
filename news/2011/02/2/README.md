@@ -21,7 +21,7 @@ The FBI has launched a manhunt for a previously unknown team of men suspected to
 
 ##### Car bomb
 ### [At least two people are dead and ten injured following the explosion of a car bomb in a commercial area of the Pakistani town of Peshawar. ](/news/2011/02/2/at-least-two-people-are-dead-and-ten-injured-following-the-explosion-of-a-car-bomb-in-a-commercial-area-of-the-pakistani-town-of-peshawar.md)
-_Context: car bomb, Peshawar, Pakistan_
+_Context: Peshawar, Pakistan, car bomb_
 
 ##### U.S.
 ### [American rock duo The White Stripes announce that they are breaking up. ](/news/2011/02/2/american-rock-duo-the-white-stripes-announce-that-they-are-breaking-up.md)
@@ -33,7 +33,7 @@ Looking for local news? Find your Fairfax newspaper on the list below.
 
 ##### China
 ### [Over 60,000 people are evacuated in China's Yunnan Province following an earthquake. ](/news/2011/02/2/over-60-000-people-are-evacuated-in-china-s-yunnan-province-following-an-earthquake.md)
-_Context: China, Yunnan Province_
+_Context: Yunnan Province, China_
 
 ##### Indian Railways
 ### [Fourteen job seekers traveling home on the rooftop of an overcrowded train, are killed when they hit a low overhead bridge in northern India. ](/news/2011/02/2/fourteen-job-seekers-traveling-home-on-the-rooftop-of-an-overcrowded-train-are-killed-when-they-hit-a-low-overhead-bridge-in-northern-india.md)
@@ -41,11 +41,11 @@ Fifteen youths were killed and several others injured on Tuesday when they fell 
 
 ##### U.S.
 ### [Six thousand flights are cancelled in the United States following the January 31-February 2, 2011 North American winter storm. ](/news/2011/02/2/six-thousand-flights-are-cancelled-in-the-united-states-following-the-january-31afebruary-2-2011-north-american-winter-storm.md)
-_Context: January 31-February 2, 2011 North American winter storm, U.S._
+_Context: U.S., January 31-February 2, 2011 North American winter storm_
 
 ##### Five-star
 ### [A fire destroys a five-star Sheraton hotel in the Heping District of Shenyang, Liaoning, China, then the tallest building in Northeastern China, after midnight fireworks celebrating the Chinese New Year set ablaze flammable thermal insulation outside the hotel walls. Firefighters were unable to put out the blaze as ladders could not reach the higher storeys of the building, but no casualties or injuries were reported. ](/news/2011/02/2/a-fire-destroys-a-five-star-sheraton-hotel-in-the-heping-district-of-shenyang-liaoning-china-then-the-tallest-building-in-northeastern-ch.md)
-_Context: Heping District, five-star, Northeastern China, Liaoning, Chinese New Year, thermal insulation, Sheraton, firework, Shenyang_
+_Context: Sheraton, Chinese New Year, Liaoning, firework, Northeastern China, Heping District, Shenyang, thermal insulation, five-star_
 
 ##### Sudanese cabinet
 ### [The Sudanese government, in its first official reaction after preliminary results were announced indicating a landslide vote in favor of Southern Sudan's independence, agrees to accept the results; Vice-President Ali Osman Taha says the government intends "to pursue a policy of good neighbourly relations with the south". ](/news/2011/02/2/the-sudanese-government-in-its-first-official-reaction-after-preliminary-results-were-announced-indicating-a-landslide-vote-in-favor-of-sou.md)
@@ -57,19 +57,19 @@ IN the estimation of the Sydney Peace Foundation, Australian Wikileaks founder J
 
 ##### Colleen LaRose
 ### [Colleen LaRose, known as "Jihad Jane", pleads guilty to participating in a terrorist plot to kill a Swedish cartoonist whose work offended many Muslims. ](/news/2011/02/2/colleen-larose-known-as-jihad-jane-pleads-guilty-to-participating-in-a-terrorist-plot-to-kill-a-swedish-cartoonist-whose-work-offended-m.md)
-_Context: Colleen LaRose, Lars Vilks, work offended many Muslims_
+_Context: Lars Vilks, Colleen LaRose, work offended many Muslims_
 
 ##### India
 ### [The Indian Central Bureau of Investigation arrests former minister for communications A. Raja and other officials associated with the 2G spectrum scam. ](/news/2011/02/2/the-indian-central-bureau-of-investigation-arrests-former-minister-for-communications-a-raja-and-other-officials-associated-with-the-2g-spe.md)
-_Context: India, CBI, 2G spectrum scam, A. Raja_
+_Context: CBI, India, A. Raja, 2G spectrum scam_
 
 ##### Federal District Judge
 ### [United States federal judge Carl J. Barbier rules that Deepwater Horizon oil spill compensation fund administrator Ken Feinberg should advise people that he is working for BP. ](/news/2011/02/2/united-states-federal-judge-carl-j-barbier-rules-that-deepwater-horizon-oil-spill-compensation-fund-administrator-ken-feinberg-should-advis.md)
-_Context: Federal District Judge, Carl J. Barbier, Ken Feinberg, BP, Deepwater Horizon oil spill_
+_Context: BP, Carl J. Barbier, Federal District Judge, Ken Feinberg, Deepwater Horizon oil spill_
 
 ##### Parliament
 ### [The parliament of Kazakhstan approves a bill giving the President the power to declare a snap presidential election. ](/news/2011/02/2/the-parliament-of-kazakhstan-approves-a-bill-giving-the-president-the-power-to-declare-a-snap-presidential-election.md)
-_Context: parliament, Kazakhstan_
+_Context: Kazakhstan, parliament_
 
 ##### Palestinian Authority
 ### [The Palestinian Authority announces that it will hold local elections originally due to be held in June 2010. ](/news/2011/02/2/the-palestinian-authority-announces-that-it-will-hold-local-elections-originally-due-to-be-held-in-june-2010.md)
@@ -77,19 +77,19 @@ Delayed from June, vote would be in West Bank only; decision comes after PA expr
 
 ##### Wen Jiabao
 ### [Chinese Premier Wen Jiabao visits rural Jinzhai County in Jiangxi province to celebrate Chinese New Year with local farmers. ](/news/2011/02/2/chinese-premier-wen-jiabao-visits-rural-jinzhai-county-in-jiangxi-province-to-celebrate-chinese-new-year-with-local-farmers.md)
-_Context: Wen Jiabao, Jinzhai County, Jiangxi_
+_Context: Wen Jiabao, Jiangxi, Jinzhai County_
 
-##### Prime minister
+##### Prime Minister
 ### [Prime Minister of New Zealand, John Key, announces a general election for November 26, giving an unusually long notice for poll. ](/news/2011/02/2/prime-minister-of-new-zealand-john-key-announces-a-general-election-for-november-26-giving-an-unusually-long-notice-for-poll.md)
-_Context: prime minister, general election, John Key_
+_Context: Prime Minister, John Key, general election_
 
 ##### Russian President
 ### [The President of Russia, Dmitry Medvedev, expands the Kremlin's human rights council and authorises it to investigate the cases of Sergei Magnitsky and Mikhail Khodorkovsky. ](/news/2011/02/2/the-president-of-russia-dmitry-medvedev-expands-the-kremlin-s-human-rights-council-and-authorises-it-to-investigate-the-cases-of-sergei-ma.md)
-_Context: Sergei Magnitsky, Mikhail Khodorkovsky, human rights, Dmitry Medvedev, Russian President, Kremlin_
+_Context: human rights, Dmitry Medvedev, Sergei Magnitsky, Mikhail Khodorkovsky, Kremlin, Russian President_
 
 ##### BBC
 ### [BBC executive Craig Oliver is chosen to replace Andy Coulson as British Prime Minister David Cameron's Director of Communications. ](/news/2011/02/2/bbc-executive-craig-oliver-is-chosen-to-replace-andy-coulson-as-british-prime-minister-david-cameron-s-director-of-communications.md)
-_Context: David Cameron, Andy Coulson, BBC, Craig Oliver_
+_Context: BBC, Craig Oliver, Andy Coulson, David Cameron_
 
 ##### United States Senate
 ### [The United States Senate votes down a repeal of healthcare reforms 47-51. ](/news/2011/02/2/the-united-states-senate-votes-down-a-repeal-of-healthcare-reforms-47-51.md)

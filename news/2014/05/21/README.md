@@ -21,7 +21,7 @@ Suspected Boko Haram fighters are accused of killing at least 27 people in two n
 
 ##### South Korean Navy
 ### [The Republic of Korea Navy fires warning shots at 3 Korean People's Navy patrol boats after they violated South Korean waters. ](/news/2014/05/21/the-republic-of-korea-navy-fires-warning-shots-at-3-korean-people-s-navy-patrol-boats-after-they-violated-south-korean-waters.md)
-_Context: South Korea, South Korean Navy, navy_
+_Context: South Korean Navy, navy, South Korea_
 
 ##### Defence for Children International
 ### [Defence for Children International publishes a video showing two Palestinians allegedly killed by Israeli soldiers during a demonstration that became violent.](/news/2014/05/21/defence-for-children-international-publishes-a-video-showing-two-palestinians-allegedly-killed-by-israeli-soldiers-during-a-demonstration-th.md)
@@ -41,7 +41,7 @@ Members of eBay are being made to change their passwords after a cyber-attack co
 
 ##### Xi Jinping
 ### [Xi Jinping and Vladimir Putin sign a massive 30-year natural gas export contract worth $400 billion. ](/news/2014/05/21/xi-jinping-and-vladimir-putin-sign-a-massive-30-year-natural-gas-export-contract-worth-400-billion.md)
-_Context: Xi Jinping, Vladimir Putin, US dollar, natural gas_
+_Context: Xi Jinping, natural gas, Vladimir Putin, US dollar_
 
 ##### Anti-China
 ### [The death toll has risen to 6 as anti-China riots continue in Vietnam over oil rich islands in the South China Sea. China has sent ships to evacuate 3000 citizens from Vietnam. ](/news/2014/05/21/the-death-toll-has-risen-to-6-as-anti-china-riots-continue-in-vietnam-over-oil-rich-islands-in-the-south-china-sea-china-has-sent-ships-to.md)

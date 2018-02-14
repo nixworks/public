@@ -5,15 +5,15 @@ Formats: [HTML](2006/03/30/index.html)  [JSON](2006/03/30/index.json)  [XML](200
 
 ##### Feleti Sevele
 ### [ Feleti Sevele is confirmed as the first non-noble Prime Minister of Tonga. ](/news/2006/03/30/feleti-sevele-is-confirmed-as-the-first-non-noble-prime-minister-of-tonga.md)
-_Context: Feleti Sevele, Prime Minister of Tonga, noble_
+_Context: Feleti Sevele, noble, Prime Minister of Tonga_
 
 ##### Janjaweed
 ### [ Janjaweed militias cross over the Chad-Sudan border and attack Chadian villagers in the city of Moudeina, but are beaten back by the Chadian military. ](/news/2006/03/30/janjaweed-militias-cross-over-the-chadasudan-border-and-attack-chadian-villagers-in-the-city-of-moudeina-but-are-beaten-back-by-the-chad.md)
-_Context: Chad, Chadian military, militia, Janjaweed, Sudan, Moudeina_
+_Context: Sudan, Chadian military, Chad, Janjaweed, Moudeina, militia_
 
 ##### Secretary of State
 ### [ U.S. Secretary of State Condoleezza Rice canceled her visit to a mosque after a protest group threatened to "invade the mosque" during scheduled prayers (see Condoleezza Rice visit to Blackburn and Liverpool). ](/news/2006/03/30/u-s-secretary-of-state-condoleezza-rice-canceled-her-visit-to-a-mosque-after-a-protest-group-threatened-to-invade-the-mosque-during-sche.md)
-_Context: Condoleezza Rice visit to Blackburn and Liverpool, mosque, Secretary of State, Condoleezza Rice_
+_Context: Condoleezza Rice, Condoleezza Rice visit to Blackburn and Liverpool, mosque, Secretary of State_
 
 ##### Jill Carroll
 ### [ Jill Carroll, a "Christian Science Monitor" journalist abducted in Iraq on January 7, is released. ](/news/2006/03/30/jill-carroll-a-christian-science-monitor-journalist-abducted-in-iraq-on-january-7-is-released.md)
@@ -25,7 +25,7 @@ A Russian-American crew and Brazil&#8217;s first astronaut flew into orbit Thurs
 
 ##### Optus B1
 ### [ An outage of "Optus B1" after realignment knocks out Sky TV's pay TV to an estimated 650,000 New Zealanders ](/news/2006/03/30/an-outage-of-optus-b1-after-realignment-knocks-out-sky-tv-s-pay-tv-to-an-estimated-650-000-new-zealanders.md)
-_Context: pay TV, New Zealand, Optus B1, Sky TV_
+_Context: Optus B1, New Zealand, pay TV, Sky TV_
 
 ## [Previous Day...](/news/2006/03/29/index.md)
 

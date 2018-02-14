@@ -9,15 +9,15 @@ Afghanistan is marking 10 years since the start of the US-led war against the Ta
 
 ##### Expressway
 ### [At least 35 people are killed in an expressway accident in the north Chinese port city of Tianjin, while another 10 are killed in a 24-car pileup in the Lianyungang-Khorgas Expressway's Anhui section. ](/news/2011/10/7/at-least-35-people-are-killed-in-an-expressway-accident-in-the-north-chinese-port-city-of-tianjin-while-another-10-are-killed-in-a-24-car-p.md)
-_Context: expressway, Lianyungang-Khorgas Expressway, Tianjin, Anhui, China_
+_Context: Lianyungang-Khorgas Expressway, expressway, China, Anhui, Tianjin_
 
 ##### Norwegian Nobel Committee
 ### [The Norwegian Nobel Committee announce the winners of the Nobel Peace Prize in Oslo, with the prize being shared between the President of Liberia Ellen Johnson-Sirleaf, Liberian activist Leymah Gbowee and Yemeni women's rights activist Tawakkul Karman. ](/news/2011/10/7/the-norwegian-nobel-committee-announce-the-winners-of-the-nobel-peace-prize-in-oslo-with-the-prize-being-shared-between-the-president-of-li.md)
-_Context: Yemen, Leymah Gbowee, Ellen Johnson-Sirleaf, Liberia, Norwegian Nobel Committee, Nobel Peace Prize, Oslo, Tawakkul Karman, President of Liberia_
+_Context: Norwegian Nobel Committee, Oslo, Liberia, Yemen, Tawakkul Karman, President of Liberia, Nobel Peace Prize, Ellen Johnson-Sirleaf, Leymah Gbowee_
 
 ##### South Korea
 ### [A South Korean presidential aide warns that North Korea could conduct a third nuclear weapons test if disarmament negotiations do not resume. ](/news/2011/10/7/a-south-korean-presidential-aide-warns-that-north-korea-could-conduct-a-third-nuclear-weapons-test-if-disarmament-negotiations-do-not-resume.md)
-_Context: North Korea, North Korea's nuclear program, South Korea, six-party talks_
+_Context: six-party talks, North Korea's nuclear program, North Korea, South Korea_
 
 ##### New York Police Department
 ### [The NYPD busts a Queens-based identity theft and retail crime ring, arresting over 110 people. It was the largest identity theft ring in the history of the United States, making an annual profit of over $13 million. ](/news/2011/10/7/the-nypd-busts-a-queens-based-identity-theft-and-retail-crime-ring-arresting-over-110-people-it-was-the-largest-identity-theft-ring-in-the.md)

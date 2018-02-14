@@ -13,7 +13,7 @@ Another 100 people thought to have been injured and thousands displaced in capit
 
 ##### War in Afghanistan (2015-present)
 ### [Militants reportedly allied to the Islamic State of Iraq and the Levant launch coordinated attacks on government positions in the eastern Nangarhar Province close to the border with Pakistan. Two police officers are reportedly killed. ](/news/2015/09/27/militants-reportedly-allied-to-the-islamic-state-of-iraq-and-the-levant-launch-coordinated-attacks-on-government-positions-in-the-eastern-na.md)
-_Context: Afghan police, Pakistan, ISIL, War in Afghanistan (2015-present), Nangarhar Province_
+_Context: Nangarhar Province, War in Afghanistan (2015-present), Pakistan, Afghan police, ISIL_
 
 ##### Syrian Civil War
 ### [France says it has carried out its first air-strikes against the Islamic State of Iraq and the Levant within Syria, destroying a training camp in the east of the country. Previously, France had only carried out air-strikes in Iraq with consent of the Iraqi government. ](/news/2015/09/27/france-says-it-has-carried-out-its-first-air-strikes-against-the-islamic-state-of-iraq-and-the-levant-within-syria-destroying-a-training-ca.md)
@@ -25,7 +25,7 @@ _Context: Benghazi, Libyan Civil War (2014-present), Islamic State in Iraq and t
 
 ##### European migration crisis
 ### [A boat carrying Syrian migrants sinks in the Aegean Sea between Turkey and Greece with seventeen people on board. ](/news/2015/09/27/a-boat-carrying-syrian-migrants-sinks-in-the-aegean-sea-between-turkey-and-greece-with-seventeen-people-on-board.md)
-_Context: European migration crisis, Syrian, Greece, Turkey, Aegean Sea_
+_Context: Greece, Turkey, European migration crisis, Syrian, Aegean Sea_
 
 ##### Australia
 ### [The government of Australia refuses entry to American singer Chris Brown because of his 2009 conviction for domestic violence against his then girlfriend Rihanna. ](/news/2015/09/27/the-government-of-australia-refuses-entry-to-american-singer-chris-brown-because-of-his-2009-conviction-for-domestic-violence-against-his-th.md)
@@ -33,7 +33,7 @@ The Federal Government follows through on its threat to block US R &#039;n&#039;
 
 ##### Guyana-Venezuela relations
 ### [Guyana's President David Granger accuses Venezuela of massing troops, armored vehicles, and rockets along its disputed border. ](/news/2015/09/27/guyana-s-president-david-granger-accuses-venezuela-of-massing-troops-armored-vehicles-and-rockets-along-its-disputed-border.md)
-_Context: disputed, Venezuelan Army, Guyana, Guyana-Venezuela relations, David Granger, Venezuela_
+_Context: disputed, Guyana, Venezuela, Guyana-Venezuela relations, Venezuelan Army, David Granger_
 
 ##### Catalonian parliamentary election, 2015
 ### [Voters in the Spanish province of Catalonia go to the polls for regional elections with nationalist parties to gain a majority which they claim will allow them to declare independence. ](/news/2015/09/27/voters-in-the-spanish-province-of-catalonia-go-to-the-polls-for-regional-elections-with-nationalist-parties-to-gain-a-majority-which-they-cl.md)

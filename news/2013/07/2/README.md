@@ -29,7 +29,7 @@ Awaiting final approval from Pope Francis; possible canonization date is Dec. 8,
 
 ##### Indonesia
 ### [At least eleven have been killed and dozens of people are injured in Indonesia's Aceh Province after a 6.2 magnitude earthquake. ](/news/2013/07/2/at-least-eleven-have-been-killed-and-dozens-of-people-are-injured-in-indonesia-s-aceh-province-after-a-6-2-magnitude-earthquake.md)
-_Context: 6.2 magnitude earthquake, Indonesia, Aceh Province_
+_Context: Aceh Province, 6.2 magnitude earthquake, Indonesia_
 
 ##### United Arab Emirates
 ### [68 Islamists accused of conspiring against the United Arab Emirates federal government, sentenced to 15 years. ](/news/2013/07/2/68-islamists-accused-of-conspiring-against-the-united-arab-emirates-federal-government-sentenced-to-15-years.md)
@@ -57,7 +57,7 @@ Portuguese Foreign Affairs Minister Paulo Portas, leader of junior coalition par
 
 ##### Communist Party of Cuba
 ### [The Communist Party of Cuba announces a shakeup of its leadership with former President of the National Assembly of People's Power Ricardo Alarcon and several others losing roles on the Central Committee. ](/news/2013/07/2/the-communist-party-of-cuba-announces-a-shakeup-of-its-leadership-with-former-president-of-the-national-assembly-of-people-s-power-ricardo-a.md)
-_Context: Ricardo Alarcon, Communist Party of Cuba, Parliament_
+_Context: Parliament, Communist Party of Cuba, Ricardo Alarcon_
 
 ##### Proton-M
 ### [A Russian Proton-M rocket carrying three GLONASS navigation satellites loses control and crashes shortly after launch from Baikonur Cosmodrome in Kazakhstan.](/news/2013/07/2/a-russian-proton-m-rocket-carrying-three-glonass-navigation-satellites-loses-control-and-crashes-shortly-after-launch-from-baikonur-cosmodro.md)

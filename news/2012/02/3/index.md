@@ -5,7 +5,7 @@ Formats: [HTML](2012/02/3/index.html)  [JSON](2012/02/3/index.json)  [XML](2012/
 
 ##### Insurgency in the North Caucasus
 ### [Insurgency in the North Caucasus: The Chechen rebel leader Doku Umarov orders his subordinates to halt attacks on the civilian population of Russia, while leaving military and security personnel as legitimate targets.](/news/2012/02/3/insurgency-in-the-north-caucasus-the-chechen-rebel-leader-doku-umarov-orders-his-subordinates-to-halt-attacks-on-the-civilian-population-of.md)
-_Context: Insurgency in the North Caucasus, Russia, Chechnya, Doku Umarov_
+_Context: Russia, Doku Umarov, Chechnya, Insurgency in the North Caucasus_
 
 ##### Police officers
 ### [Egyptian police shoot and kill two protesters in Suez, the first deaths to occur as protests spring up over the Port Said Stadium clashes. ](/news/2012/02/3/egyptian-police-shoot-and-kill-two-protesters-in-suez-the-first-deaths-to-occur-as-protests-spring-up-over-the-port-said-stadium-clashes.md)
@@ -13,11 +13,11 @@ Two people are shot dead and more than 400 injured in protests across Egypt spar
 
 ##### Pakistan Army
 ### [Seven Pakistan Army soldiers are killed and three others wounded following a Taliban attack in the Kurram Agency. ](/news/2012/02/3/seven-pakistan-army-soldiers-are-killed-and-three-others-wounded-following-a-taliban-attack-in-the-kurram-agency.md)
-_Context: Kurram Valley, Pakistan Army, Taliban_
+_Context: Taliban, Kurram Valley, Pakistan Army_
 
 ##### Syrian Observatory For Human Rights
 ### [The Syrian Observatory For Human Rights claims that more than 100 people have been killed in shelling in the city of Homs. ](/news/2012/02/3/the-syrian-observatory-for-human-rights-claims-that-more-than-100-people-have-been-killed-in-shelling-in-the-city-of-homs.md)
-_Context: Syrian Observatory For Human Rights, Homs_
+_Context: Homs, Syrian Observatory For Human Rights_
 
 ##### Hungarian
 ### [Hungarian airline Malv ceases operation as its aircraft are grounded due to unpaid debts. ](/news/2012/02/3/hungarian-airline-malev-ceases-operation-as-its-aircraft-are-grounded-due-to-unpaid-debts.md)
@@ -25,7 +25,7 @@ _Context: Syrian Observatory For Human Rights, Homs_
 
 ##### U.S.
 ### [Stocks rise sharply in the United States following positive jobs information with the Nasdaq Composite reaching its highest level since 2000 and the Dow Jones Industrial Average nearing levels last reached in 2008. ](/news/2012/02/3/stocks-rise-sharply-in-the-united-states-following-positive-jobs-information-with-the-nasdaq-composite-reaching-its-highest-level-since-2000.md)
-_Context: U.S., Dow Jones Industrial Average, NASDAQ_
+_Context: Dow Jones Industrial Average, NASDAQ, U.S._
 
 ##### U.S.
 ### [In the United States, employers added over 240,000 jobs in the month of January and the unemployment rate dropped to 8.3%, the lowest percent in three years. ](/news/2012/02/3/in-the-united-states-employers-added-over-240-000-jobs-in-the-month-of-january-and-the-unemployment-rate-dropped-to-8-3-the-lowest-percen.md)
@@ -49,7 +49,7 @@ _Context: Colorado, Interstate 70_
 
 ##### Extraordinary Chambers in the Courts of Cambodia
 ### [The Extraordinary Chambers in the Courts of Cambodia increases the sentence of Kang Kek Iew, or Duch, to life for running the Tuol Sleng prison camp under the Khmer Rouge. ](/news/2012/02/3/the-extraordinary-chambers-in-the-courts-of-cambodia-increases-the-sentence-of-kang-kek-iew-or-duch-to-life-for-running-the-tuol-sleng-pri.md)
-_Context: prison camp, Extraordinary Chambers in the Courts of Cambodia, Kang Kek Iew, Tuol Sleng, Khmer Rouge_
+_Context: Khmer Rouge, Extraordinary Chambers in the Courts of Cambodia, prison camp, Tuol Sleng, Kang Kek Iew_
 
 ##### Major General
 ### [Major General Michael Linnington orders a court martial for US Private Bradley Manning responsible for leaking hundreds of thousands of documents to Wikileaks. ](/news/2012/02/3/major-general-michael-linnington-orders-a-court-martial-for-us-private-bradley-manning-responsible-for-leaking-hundreds-of-thousands-of-docu.md)

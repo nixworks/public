@@ -13,7 +13,7 @@ _Context: Strathroy, Ontario, Royal Canadian Mounted Police, ISIL_
 
 ##### Petroglyphs
 ### [400-year old petroglyphs are discovered off the Waianae coast of Hawaii. ](/news/2016/08/10/400-year-old-petroglyphs-are-discovered-off-the-waianae-coast-of-hawaii.md)
-_Context: petroglyphs, Waianae_
+_Context: Waianae, petroglyphs_
 
 ##### Boeing Company
 ### [Boeing's CFO Greg Smith announces that Boeing won't raise production of its 787 Dreamliner to fourteen per month as previously expected, but will keep it at 12 while continuing to monitor demand. ](/news/2016/08/10/boeing-s-cfo-greg-smith-announces-that-boeing-won-t-raise-production-of-its-787-dreamliner-to-fourteen-per-month-as-previously-expected-but.md)
@@ -29,7 +29,7 @@ A law in Belize criminalizing same-sex intimacy was ruled unconstitutional on We
 
 ##### Impeachment process against Dilma Rousseff
 ### [Brazil's Federal Senate votes 59 to 21 to indict suspended President Dilma Rousseff on charges of breaking budget laws and put her on trial. ](/news/2016/08/10/brazil-s-federal-senate-votes-59-to-21-to-indict-suspended-president-dilma-rousseff-on-charges-of-breaking-budget-laws-and-put-her-on-trial.md)
-_Context: Dilma Rousseff, Impeachment process against Dilma Rousseff, president, Brazil, Senate_
+_Context: Senate, Impeachment process against Dilma Rousseff, Brazil, Dilma Rousseff, president_
 
 ## [Previous Day...](/news/2016/08/9/index.md)
 

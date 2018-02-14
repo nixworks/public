@@ -17,31 +17,31 @@ _Context: cafe, Russia, Dagestan_
 
 ##### Rafael Nadal
 ### [ Rafael Nadal of Spain defeats Roger Federer of Switzerland to win the 2009 Australian Open men's singles. ](/news/2009/02/1/rafael-nadal-of-spain-defeats-roger-federer-of-switzerland-to-win-the-2009-australian-open-men-s-singles.md)
-_Context: Spain, Rafael Nadal, Switzerland, men's singles, Roger Federer, 2009 Australian Open_
+_Context: 2009 Australian Open, Roger Federer, Rafael Nadal, Switzerland, men's singles, Spain_
 
 ##### Japan Airlines
 ### [ Japan Airlines conducts the first successful test flight of a Boeing 747-300 partly powered by biofuel. ](/news/2009/02/1/japan-airlines-conducts-the-first-successful-test-flight-of-a-boeing-747-300-partly-powered-by-biofuel.md)
-_Context: Japan Airlines, biofuel, test flight, Boeing 747-300_
+_Context: test flight, biofuel, Boeing 747-300, Japan Airlines_
 
 ##### Palestinian
 ### [ Palestinian militants in the Gaza Strip fire four rockets and sixteen mortar shells into Israel's Negev region. ](/news/2009/02/1/palestinian-militants-in-the-gaza-strip-fire-four-rockets-and-sixteen-mortar-shells-into-israel-s-negev-region.md)
-_Context: Palestinian, Mortar, Gaza Strip, fire, Israel, Negev, militant, rocket_
+_Context: Israel, Mortar, Palestinian, fire, Negev, rocket, militant, Gaza Strip_
 
 ##### Japan
 ### [ The Japan Meteorological Agency warns that Honshu Island's Mount Asama could erupt within the next two days. ](/news/2009/02/1/the-japan-meteorological-agency-warns-that-honsha-island-s-mount-asama-could-erupt-within-the-next-two-days.md)
-_Context: Japan, Honshu Island, Japan Meteorological Agency, Mount Asama_
+_Context: Honshu Island, Japan, Japan Meteorological Agency, Mount Asama_
 
 ##### Patriarch Kirill
 ### [ Kirill I is officially enthroned as Patriarch of the Russian Orthodox Church. ](/news/2009/02/1/kirill-i-is-officially-enthroned-as-patriarch-of-the-russian-orthodox-church.md)
-_Context: Russian, Russia, Patriarch, Patriarch Kirill_
+_Context: Patriarch, Russia, Patriarch Kirill, Russian_
 
 ##### Sri Lanka
 ### [ The Sri Lankan Army bombs a hospital in Puthukkudiyiruppu twice, killing at least six Tamil civilians and wounding countless more patients. ](/news/2009/02/1/the-sri-lankan-army-bombs-a-hospital-in-puthukkudiyiruppu-twice-killing-at-least-six-tamil-civilians-and-wounding-countless-more-patients.md)
-_Context: Puthukkudiyiruppu, Sri Lankan Civil War, Sri Lanka, Tamil, Sri Lankan Army_
+_Context: Sri Lanka, Sri Lankan Civil War, Puthukkudiyiruppu, Tamil, Sri Lankan Army_
 
 ##### France
 ### [ France defeats Croatia to win the Men's World Handball Championship. ](/news/2009/02/1/france-defeats-croatia-to-win-the-men-s-world-handball-championship.md)
-_Context: Croatia, France, handball_
+_Context: handball, France, Croatia_
 
 ##### Cospas-Sarsat
 ### [ The International Cospas-Sarsat Satellite System ceases monitoring for 121.5 MHz and 243 MHz (Class B) signals from ELTs, EPIRBs, and PLBs. ](/news/2009/02/1/the-international-cospas-sarsat-satellite-system-ceases-monitoring-for-121-5-mhz-and-243-mhz-class-b-signals-from-elts-epirbs-and-plbs.md)

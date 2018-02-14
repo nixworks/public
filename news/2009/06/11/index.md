@@ -9,19 +9,19 @@ Mayor Michael R. Bloomberg said the Hudson River landing of US Airways Flight 15
 
 ##### Gabon
 ### [ 10,000 Gabonese watch the body of President Omar Bongo arrive back home from Spain. ](/news/2009/06/11/10-000-gabonese-watch-the-body-of-president-omar-bongo-arrive-back-home-from-spain.md)
-_Context: President, Gabon, Omar Bongo, Spain_
+_Context: Spain, President, Omar Bongo, Gabon_
 
 ##### Bosnian
 ### [ A Bosnian television station shows what it says is recent video footage of genocide suspect and Bosnian war commander General Ratko Mladic in Serbia. ](/news/2009/06/11/a-bosnian-television-station-shows-what-it-says-is-recent-video-footage-of-genocide-suspect-and-bosnian-war-commander-general-ratko-mladia.md)
-_Context: Ratko Mladic, Bosnian War, Serbia, Bosnian, genocide_
+_Context: Ratko Mladic, Bosnian War, genocide, Bosnian, Serbia_
 
 ##### Sweden
 ### [ Swedish sports car maker Koenigsegg is to buy Saab Automobile from General Motors with support from Norwegian investors.](/news/2009/06/11/swedish-sports-car-maker-koenigsegg-is-to-buy-saab-automobile-from-general-motors-with-support-from-norwegian-investors.md)
-_Context: Norway, Koenigsegg, General Motors, Saab Automobile, Sweden_
+_Context: Koenigsegg, Saab Automobile, Norway, Sweden, General Motors_
 
 ##### Dail Eireann
 ### [ Dail Eireann debates the findings of the Commission to Inquire into Child Abuse, delayed by the motion of no confidence in the Irish Government opened by Fine Gael. ](/news/2009/06/11/da-il-aireann-debates-the-findings-of-the-commission-to-inquire-into-child-abuse-delayed-by-the-motion-of-no-confidence-in-the-irish-gove.md)
-_Context: Commission to Inquire into Child Abuse, Dail Eireann, motion of no confidence, Government of Ireland, Fine Gael_
+_Context: Commission to Inquire into Child Abuse, Dail Eireann, Fine Gael, motion of no confidence, Government of Ireland_
 
 ##### Irish
 ### [ Ireland's Garda Commissioner sends two Garda forensic specialists to Brazil to assist in the identification of bodies from Air France Flight 447. ](/news/2009/06/11/ireland-s-garda-commissioner-sends-two-garda-forensic-specialists-to-brazil-to-assist-in-the-identification-of-bodies-from-air-france-fligh.md)
@@ -29,11 +29,11 @@ Two garda forensic specialists will be assisting in the identification of bodies
 
 ##### World Health Organization
 ### [ The World Health Organization declares the current outbreak of H1N1 to be a "pandemic", the first since the 1968 Hong Kong flu. ](/news/2009/06/11/the-world-health-organization-declares-the-current-outbreak-of-h1n1-to-be-a-apandemica-the-first-since-the-1968-hong-kong-flu.md)
-_Context: current outbreak, 1968 Hong Kong flu, World Health Organization, H1N1_
+_Context: current outbreak, World Health Organization, 1968 Hong Kong flu, H1N1_
 
 ##### Italy
 ### [ Italian students protest Libyan leader Muammar al-Gaddafi's visit to the country. ](/news/2009/06/11/italian-students-protest-libyan-leader-muammar-al-gaddafi-s-visit-to-the-country.md)
-_Context: Libya, Muammar al-Gaddafi, Italy_
+_Context: Muammar al-Gaddafi, Libya, Italy_
 
 ##### RTE
 ### [ RTE, Ireland's public service broadcaster, denies it is facing bankruptcy. ](/news/2009/06/11/rta-ireland-s-public-service-broadcaster-denies-it-is-facing-bankruptcy.md)
@@ -53,23 +53,23 @@ French President Nicolas Sarkozy has said he would be prepared to travel to Irel
 
 ##### Kumari Selja
 ### [ Kumari Selja, India's tourism minister, calls off a visit to Australia following attacks on Indian students in the country. ](/news/2009/06/11/kumari-selja-india-s-tourism-minister-calls-off-a-visit-to-australia-following-attacks-on-indian-students-in-the-country.md)
-_Context: Australia, Kumari Selja, attacks on Indian students, India_
+_Context: India, attacks on Indian students, Kumari Selja, Australia_
 
 ##### Egypt
 ### [ Egyptian Culture Minister Farouk Hosni announces that the ministry will publish Arabic translations of novels by Israeli writers Amos Oz and David Grossman. ](/news/2009/06/11/egyptian-culture-minister-farouk-hosni-announces-that-the-ministry-will-publish-arabic-translations-of-novels-by-israeli-writers-amos-oz-an.md)
-_Context: Arabic, Egypt, David Grossman, Farouk Hosni, Israel, Amos Oz_
+_Context: Farouk Hosni, Israel, Amos Oz, Egypt, David Grossman, Arabic_
 
 ##### Xu Zongheng
 ### [ Xu Zongheng, the mayor of Shenzhen, southern China, is dismissed for "disciplinary offences" after being questioned on corruption allegations. ](/news/2009/06/11/xu-zongheng-the-mayor-of-shenzhen-southern-china-is-dismissed-for-disciplinary-offences-after-being-questioned-on-corruption-allegatio.md)
-_Context: Xu Zongheng, China, Shenzhen_
+_Context: China, Xu Zongheng, Shenzhen_
 
 ##### Brazil
 ### [ For the first time ever, Brazil offers US$10 billion in financing to the International Monetary Fund to help improve the availability of credit in developing countries. ](/news/2009/06/11/for-the-first-time-ever-brazil-offers-us-10-billion-in-financing-to-the-international-monetary-fund-to-help-improve-the-availability-of-cr.md)
-_Context: International Monetary Fund, $, Brazil_
+_Context: Brazil, International Monetary Fund, $_
 
 ##### Ferrero SpA
 ### [ Ferrero SpA is cleared of allegations of fraud relating to the supply of hazelnuts. ](/news/2009/06/11/ferrero-spa-is-cleared-of-allegations-of-fraud-relating-to-the-supply-of-hazelnuts.md)
-_Context: hazelnut, Ferrero SpA_
+_Context: Ferrero SpA, hazelnut_
 
 ##### Iran
 ### [ Iran goes to the polls for its presidential election. ](/news/2009/06/11/iran-goes-to-the-polls-for-its-presidential-election.md)
@@ -77,11 +77,11 @@ _Context: Iran, re-election_
 
 ##### Pittsburgh Penguins
 ### [ The Pittsburgh Penguins defeat the Detroit Red Wings in game seven to win the 2009 Stanley Cup Finals. ](/news/2009/06/11/the-pittsburgh-penguins-defeat-the-detroit-red-wings-in-game-seven-to-win-the-2009-stanley-cup-finals.md)
-_Context: 2009, Stanley Cup, Finals, Detroit Red Wings, Pittsburgh Penguins_
+_Context: Stanley Cup, Detroit Red Wings, Pittsburgh Penguins, 2009, Finals_
 
 ##### Fourth largest coalition
 ### [ The head of the fourth largest coalition in the Iraqi parliament, Harith al-Obeidi, is assassinated in west Baghdad. ](/news/2009/06/11/the-head-of-the-fourth-largest-coalition-in-the-iraqi-parliament-harith-al-obeidi-is-assassinated-in-west-baghdad.md)
-_Context: Iraq, fourth largest coalition, Iraqi Parliament, Harith al-Obeidi, Baghdad_
+_Context: Baghdad, Iraqi Parliament, Harith al-Obeidi, fourth largest coalition, Iraq_
 
 ##### U.S.
 ### [ U.S. television stations complete their switch from analog to digital television. ](/news/2009/06/11/u-s-television-stations-complete-their-switch-from-analog-to-digital-television.md)
@@ -89,27 +89,27 @@ The big DTV moment is here - like New Year&#8217;s Eve, labor pains or the mille
 
 ##### United Nations Security Council
 ### [ The United Nations Security Council unanimously votes to impose further sanctions on North Korea, following recent nuclear and missile tests. ](/news/2009/06/11/the-united-nations-security-council-unanimously-votes-to-impose-further-sanctions-on-north-korea-following-recent-nuclear-and-missile-test.md)
-_Context: North Korea, sanctions, 2009, United Nations Security Council, sanctions_
+_Context: North Korea, United Nations Security Council, sanctions, sanctions, 2009_
 
 ##### Pakistan
 ### [ Prominent Pakistani anti-Taliban cleric Sarfraz Naeemi is killed in a suspected suicide bomb attack at his Islamic religious school in Lahore. ](/news/2009/06/11/prominent-pakistani-anti-taliban-cleric-sarfraz-naeemi-is-killed-in-a-suspected-suicide-bomb-attack-at-his-islamic-religious-school-in-laho.md)
-_Context: Taliban, suicide bomb, Lahore, Pakistan, Sarfraz Naeemi, Islam_
+_Context: Islam, Pakistan, Taliban, Lahore, Sarfraz Naeemi, suicide bomb_
 
 ##### Foreign Secretary
 ### [ The United Kingdom Foreign Secretary, David Miliband, is asked to explain how four Chinese detainees from Guantanamo Bay were released to Bermuda without the knowledge of Whitehall. ](/news/2009/06/11/the-united-kingdom-foreign-secretary-david-miliband-is-asked-to-explain-how-four-chinese-detainees-from-guanta-namo-bay-were-released-to.md)
-_Context: Chinese, Whitehall, Bermuda, Foreign Secretary, David Miliband, Guantanamo Bay_
+_Context: Bermuda, Whitehall, Guantanamo Bay, Chinese, David Miliband, Foreign Secretary_
 
 ##### City of Film
 ### [ The world's first City of Film is announced by UNESCO, with Bradford beating competition from Los Angeles, Cannes and Venice. ](/news/2009/06/11/the-world-s-first-city-of-film-is-announced-by-unesco-with-bradford-beating-competition-from-los-angeles-cannes-and-venice.md)
-_Context: Cannes, UNESCO, Los Angeles, Bradford, Venice, City of Film_
+_Context: City of Film, UNESCO, Bradford, Los Angeles, Venice, Cannes_
 
 ##### Mombasa
 ### [ Mombasa's courts are overwhelmed with Somali pirate trials; some cases could be transferred to Nairobi. ](/news/2009/06/11/mombasa-s-courts-are-overwhelmed-with-somali-pirate-trials-some-cases-could-be-transferred-to-nairobi.md)
-_Context: Somalia, Mombasa, Somali pirates, Nairobi_
+_Context: Somalia, Somali pirates, Nairobi, Mombasa_
 
 ##### Trial
 ### [ The trial of National League for Democracy General Secretary Aung San Suu Kyi is adjourned until June 26. ](/news/2009/06/11/the-trial-of-national-league-for-democracy-general-secretary-aung-san-suu-kyi-is-adjourned-until-june-26.md)
-_Context: General Secretary, Aung San Suu Kyi, trial, National League for Democracy_
+_Context: Aung San Suu Kyi, General Secretary, National League for Democracy, trial_
 
 ##### India
 ### [ India is to withdraw troops from Kashmir's towns and cities for the first time in 20 years. ](/news/2009/06/11/india-is-to-withdraw-troops-from-kashmir-s-towns-and-cities-for-the-first-time-in-20-years.md)

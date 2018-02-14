@@ -39,7 +39,7 @@ The first planeload of deportees will leave on Sunday, after hundreds of illegal
 
 ##### UN Conference on Sustainable Development
 ### [The UN Conference on Sustainable Development begins in Rio de Janeiro, launching a new round of debate on the future habitability of Earth, its resources and people, 20 years after the first Earth Summit. ](/news/2012/06/13/the-un-conference-on-sustainable-development-begins-in-rio-de-janeiro-launching-a-new-round-of-debate-on-the-future-habitability-of-earth.md)
-_Context: Rio de Janeiro, UN Conference on Sustainable Development, the first Earth Summit, Earth, habitable_
+_Context: Rio de Janeiro, Earth, UN Conference on Sustainable Development, the first Earth Summit, habitable_
 
 ##### Montreal
 ### [A schoolteacher in Montreal is suspended after showing pupils a video said to depict a murder. ](/news/2012/06/13/a-schoolteacher-in-montreal-is-suspended-after-showing-pupils-a-video-said-to-depict-a-murder.md)
@@ -51,7 +51,7 @@ Toppled president is charged in absentia on various charges including incitement
 
 ##### Senator
 ### [U.S. federal prosecutors drop corruption charges against former Senator John Edwards following a mistrial. ](/news/2012/06/13/u-s-federal-prosecutors-drop-corruption-charges-against-former-senator-john-edwards-following-a-mistrial.md)
-_Context: John Edwards, Senator_
+_Context: Senator, John Edwards_
 
 ##### Leveson Inquiry
 ### [At the Leveson Inquiry into media standards Scottish First Minister Alex Salmond claims that "The Observer" accessed his bank account records in the run up to the 1999 Scottish Parliament election. ](/news/2012/06/13/at-the-leveson-inquiry-into-media-standards-scottish-first-minister-alex-salmond-claims-that-the-observer-accessed-his-bank-account-record.md)
@@ -63,11 +63,11 @@ Rebekah Brooks appeared behind a high glass screen in the dock yesterday, alongs
 
 ##### Manal al Sharif
 ### [Hundreds of people sign a letter written by Manal al Sharif to Saudi King Abdullah urging him to allow women to get behind the wheel on the first anniversary of the Women2Drive campaign, launched in June 2011. ](/news/2012/06/13/hundreds-of-people-sign-a-letter-written-by-manal-al-sharif-to-saudi-king-abdullah-urging-him-to-allow-women-to-get-behind-the-wheel-on-the.md)
-_Context: Saudi King Abdullah, Manal al Sharif_
+_Context: Manal al Sharif, Saudi King Abdullah_
 
 ##### Aung San Suu Kyi
 ### [Myanmar democracy activist Aung San Suu Kyi returns to Europe after more than two decades for a European tour, including Norway, Switzerland, France, Ireland and Britain. ](/news/2012/06/13/myanmar-democracy-activist-aung-san-suu-kyi-returns-to-europe-after-more-than-two-decades-for-a-european-tour-including-norway-switzerland.md)
-_Context: Ireland, Norway, Switzerland, France, Aung San Suu Kyi, United Kingdom_
+_Context: United Kingdom, France, Norway, Ireland, Switzerland, Aung San Suu Kyi_
 
 ##### Israel
 ### [Israel's State Comptroller criticises prime minister Benjamin Netanyahu's decision-making during the 2010 Gaza flotilla raid. ](/news/2012/06/13/israel-s-state-comptroller-criticises-prime-minister-benjamin-netanyahu-s-decision-making-during-the-2010-gaza-flotilla-raid.md)

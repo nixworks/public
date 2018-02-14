@@ -17,11 +17,11 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 ##### Pamir Airways
 ### [A Pamir Airways plane with 43 people on board crashes in Afghanistan between the cities of Kabul and Kunduz. ](/news/2010/05/17/a-pamir-airways-plane-with-43-people-on-board-crashes-in-afghanistan-between-the-cities-of-kabul-and-kunduz.md)
-_Context: Afghanistan, Pamir Airways, Kabul, Kunduz, crashes_
+_Context: crashes, Pamir Airways, Kunduz, Afghanistan, Kabul_
 
 ##### Suicide
 ### [Six people are attacked with a meat cleaver before the assailant commits suicide at a market in Foshan, China. ](/news/2010/05/17/six-people-are-attacked-with-a-meat-cleaver-before-the-assailant-commits-suicide-at-a-market-in-foshan-china.md)
-_Context: Foshan, China, suicide_
+_Context: China, suicide, Foshan_
 
 ##### Brazil
 ### [Brazil, Iran and Turkey agree on a nuclear fuel swap aimed at easing concerns from the West that Iran might building a bomb. ](/news/2010/05/17/brazil-iran-and-turkey-agree-on-a-nuclear-fuel-swap-aimed-at-easing-concerns-from-the-west-that-iran-might-building-a-bomb.md)

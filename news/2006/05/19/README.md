@@ -17,19 +17,19 @@ News and opinion from The Times &amp; The Sunday Times
 
 ##### United Nations
 ### [ The United Nations Committee Against Torture tells the United States it should close any secret prisons abroad and the Guantnamo Bay facility in Cuba, saying they violate international law. It also calls for the US not to use interrogation techniques that amount to torture and to stop the practice of "extraordinary renditions". ](/news/2006/05/19/the-united-nations-committee-against-torture-tells-the-united-states-it-should-close-any-secret-prisons-abroad-and-the-guantanamo-bay-facil.md)
-_Context: Committee Against Torture, extraordinary rendition, Guantnamo Bay, international law, Cuba, U.S., torture, United Nations_
+_Context: Guantnamo Bay, U.S., Committee Against Torture, torture, extraordinary rendition, Cuba, United Nations, international law_
 
 ##### Khaled el-Masri
 ### [ The case of Khaled el-Masri, who says he was abducted and tortured by the CIA because he was mistaken for another person, is dismissed by a district court in Alexandria, Virginia, as it would be a "grave risk" of damage to U.S. national security by exposing government secrets. The court rules that if the claims are true he "deserves a remedy" but this cannot be found in the court. ](/news/2006/05/19/the-case-of-khaled-el-masri-who-says-he-was-abducted-and-tortured-by-the-cia-because-he-was-mistaken-for-another-person-is-dismissed-by-a.md)
-_Context: Khaled el-Masri, national security, CIA, Virginia, Alexandria, Virginia, extraordinary rendition, torture_
+_Context: Alexandria, Virginia, national security, extraordinary rendition, Khaled el-Masri, torture, Virginia, CIA_
 
 ##### Fiji
 ### [ Fijian opposition (Labour) led by Mahendra Chaudhry decides to join Prime Minister Laisenia Qarase's United Fiji Party to form a multi-party multi-ethnic cabinet. ](/news/2006/05/19/fijian-opposition-labour-led-by-mahendra-chaudhry-decides-to-join-prime-minister-laisenia-qarase-s-united-fiji-party-to-form-a-multi-part.md)
-_Context: Fiji, Mahendra Chaudhry, Laisenia Qarase, Labour, Prime Minister, United Fiji Party_
+_Context: Prime Minister, Fiji, Mahendra Chaudhry, United Fiji Party, Labour, Laisenia Qarase_
 
 ##### The Da Vinci Code
 ### [ The Da Vinci Code film comes out in theaters worldwide. The movie is based on the controversial thriller by Dan Brown. ](/news/2006/05/19/the-da-vinci-code-film-comes-out-in-theaters-worldwide-the-movie-is-based-on-the-controversial-thriller-by-dan-brown.md)
-_Context: The Da Vinci Code, Dan Brown_
+_Context: Dan Brown, The Da Vinci Code_
 
 ## [Previous Day...](/news/2006/05/18/index.md)
 

@@ -9,7 +9,7 @@ A Syrian pilot is granted asylum in Jordan after flying a MiG-21 fighter jet acr
 
 ##### Mexican Drug War
 ### [Mexican Drug War: Mexican marines detain Jesus Alfredo Guzman Salazar, the son of Joaquin Guzman Loera (alias "El Chapo"), Mexico's most-wanted drug lord in the western state of Jalisco. ](/news/2012/06/21/mexican-drug-war-mexican-marines-detain-jesaos-alfredo-guzma-n-salazar-the-son-of-joaquan-guzma-n-loera-alias-el-chapo-mexico-s-most.md)
-_Context: most-wanted drug lords, Jalisco, Joaquin Guzman Loera, Mexican Drug War_
+_Context: Mexican Drug War, Jalisco, most-wanted drug lords, Joaquin Guzman Loera_
 
 ##### War in Afghanistan (2001-present)
 ### [In Afghanistan, Taliban soldiers invade a hotel in Kabul, kill guests, and hold some hostages. ](/news/2012/06/21/in-afghanistan-taliban-soldiers-invade-a-hotel-in-kabul-kill-guests-and-hold-some-hostages.md)
@@ -37,7 +37,7 @@ Moody&rsquo;s Investors Service downgraded the debt ratings of 15 major internat
 
 ##### Avianca
 ### [Avianca, Copa Airlines and TACA Airlines join Star Alliance, becoming the 26th, 27th and 28th member airlines. This will prompt TAM Airlines to transfer to Oneworld in the foreseeable future ](/news/2012/06/21/avianca-copa-airlines-and-taca-airlines-join-star-alliance-becoming-the-26th-27th-and-28th-member-airlines-this-will-prompt-tam-airlines.md)
-_Context: TACA Airlines, Avianca, Copa Airlines, Oneworld, TAM Airlines, Star Alliance_
+_Context: Oneworld, Avianca, Star Alliance, Copa Airlines, TAM Airlines, TACA Airlines_
 
 ##### Dow Jones Industrial Average
 ### [The US Dow Jones Industrial Average falls by 251 points on the back of weak economic data and poor news from the Eurozone. ](/news/2012/06/21/the-us-dow-jones-industrial-average-falls-by-251-points-on-the-back-of-weak-economic-data-and-poor-news-from-the-eurozone.md)
@@ -57,7 +57,7 @@ President Rafael Correa to make decision as WikiLeaks founder remains in Ecuador
 
 ##### Oakland
 ### [Oakland-based group Courage to Resist asks participants in the 42nd annual Pride parade this Sunday to march in celebration of the imprisoned U.S. serviceman Bradley Manning, imprisoned by the U.S. government for alleged leaking of classified information into the public domain. ](/news/2012/06/21/oakland-based-group-courage-to-resist-asks-participants-in-the-42nd-annual-pride-parade-this-sunday-to-march-in-celebration-of-the-imprisone.md)
-_Context: Oakland, Bradley Manning_
+_Context: Bradley Manning, Oakland_
 
 ##### Jakarta
 ### [A court in Jakarta sentences Umar Patek to 20 years' imprisonment for Patek's involvement in the October 2002 Bali bombings that killed 202 people. ](/news/2012/06/21/a-court-in-jakarta-sentences-umar-patek-to-20-years-imprisonment-for-patek-s-involvement-in-the-october-2002-bali-bombings-that-killed-202.md)
@@ -69,7 +69,7 @@ The father of ex-Chilean President Michelle Bachelet probably died as a result o
 
 ##### American football
 ### [The adopted son of former football coach Jerry Sandusky says that Sandusky molested him. ](/news/2012/06/21/the-adopted-son-of-former-football-coach-jerry-sandusky-says-that-sandusky-molested-him.md)
-_Context: inappropriate, American football, Jerry Sandusky_
+_Context: American football, Jerry Sandusky, inappropriate_
 
 ##### John Bryson
 ### [John Bryson resigns as United States Secretary of Commerce following a seizure that led to two car accidents. ](/news/2012/06/21/john-bryson-resigns-as-united-states-secretary-of-commerce-following-a-seizure-that-led-to-two-car-accidents.md)

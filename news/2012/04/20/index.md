@@ -5,11 +5,11 @@ Formats: [HTML](2012/04/20/index.html)  [JSON](2012/04/20/index.json)  [XML](201
 
 ##### 2011-2012 Bahraini uprising
 ### [Bahraini uprising:Security is increased at the Formula 1 Grand Prix in Bahrain amid continuing demonstrations against the regime. ](/news/2012/04/20/bahraini-uprising-security-is-increased-at-the-formula-1-grand-prix-in-bahrain-amid-continuing-demonstrations-against-the-regime.md)
-_Context: Bahrain, 2012 Bahrain Grand Prix, 2011-2012 Bahraini uprising_
+_Context: 2011-2012 Bahraini uprising, 2012 Bahrain Grand Prix, Bahrain_
 
 ##### 2012 South Sudan-Sudan border conflict
 ### [South Sudan-Sudan border conflict: South Sudan announces the withdrawal of troops from Heglig. ](/news/2012/04/20/south-sudanasudan-border-conflict-south-sudan-announces-the-withdrawal-of-troops-from-heglig.md)
-_Context: South Sudan, 2012 South Sudan-Sudan border conflict, Heglig_
+_Context: Heglig, South Sudan, 2012 South Sudan-Sudan border conflict_
 
 ##### Disney Studios
 ### [Disney Studios chairman Rich Ross resigns, less than three years after taking the position. ](/news/2012/04/20/disney-studios-chairman-rich-ross-resigns-less-than-three-years-after-taking-the-position.md)
@@ -33,7 +33,7 @@ Mali&#x27;s&#x20;ex-president&#x20;Amadou&#x20;Toumani&#x20;Toure,&#x20;ousted&#
 
 ##### ECOWAS
 ### [The Economic Community of West African States condemns the election plan of the military junta which seized power in Guinea-Bissau. ](/news/2012/04/20/the-economic-community-of-west-african-states-condemns-the-election-plan-of-the-military-junta-which-seized-power-in-guinea-bissau.md)
-_Context: ECOWAS, Guinea-Bissau, which seized power_
+_Context: which seized power, ECOWAS, Guinea-Bissau_
 
 ##### 2012 presidential election
 ### [Campaigning ahead of Sunday's French presidential election enters its final day. ](/news/2012/04/20/campaigning-ahead-of-sunday-s-french-presidential-election-enters-its-final-day.md)

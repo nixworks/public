@@ -17,15 +17,15 @@ Two Egyptian army officers and five jihadist militants have been killed in a gun
 
 ##### Toyota
 ### [Toyota is ordered to pay $1.2 billion to settle charges that it lied to United States safety investigators and the public about deadly accelerator defects. ](/news/2014/03/19/toyota-is-ordered-to-pay-1-2-billion-to-settle-charges-that-it-lied-to-united-states-safety-investigators-and-the-public-about-deadly-accel.md)
-_Context: U.S., Toyota_
+_Context: Toyota, U.S._
 
 ##### South Africa
 ### [South Africa's Public Protector finds that President Jacob Zuma has "benefitted unduly" from government funded upgrades of his rural residence. ](/news/2014/03/19/south-africa-s-public-protector-finds-that-president-jacob-zuma-has-benefitted-unduly-from-government-funded-upgrades-of-his-rural-residen.md)
-_Context: Jacob Zuma, South Africa, President, Public Protector_
+_Context: Jacob Zuma, South Africa, Public Protector, President_
 
 ##### Canadian
 ### [Canadian Minister of Finance Jim Flaherty resigns, planning a return to the private sector. Joe Oliver is named to replace him. ](/news/2014/03/19/canadian-minister-of-finance-jim-flaherty-resigns-planning-a-return-to-the-private-sector-joe-oliver-is-named-to-replace-him.md)
-_Context: Finance Minister, Jim Flaherty, Canadian, Joe Oliver_
+_Context: Jim Flaherty, Joe Oliver, Finance Minister, Canadian_
 
 ##### Vietnam
 ### [Vietnam jails prominent blogger for 'anti-state activities'.](/news/2014/03/19/vietnam-jails-prominent-blogger-for-anti-state-activities.md)

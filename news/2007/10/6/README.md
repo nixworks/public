@@ -13,7 +13,7 @@ _Context: Gordon Brown, Prime Minister_
 
 ##### Denmark
 ### [ Danish police arrest more than 400 people in protests in Copenhagen over the closure of the Ungdomshuset youth centre earlier in the year. ](/news/2007/10/6/danish-police-arrest-more-than-400-people-in-protests-in-copenhagen-over-the-closure-of-the-ungdomshuset-youth-centre-earlier-in-the-year.md)
-_Context: Denmark, Copenhagen, Ungdomshuset_
+_Context: Denmark, Ungdomshuset, Copenhagen_
 
 ##### Typhoon Krosa
 ### [ Typhoon Krosa hits Taiwan, killing at least four people and injuring 40 more. ](/news/2007/10/6/typhoon-krosa-hits-taiwan-killing-at-least-four-people-and-injuring-40-more.md)
@@ -29,11 +29,11 @@ _Context: Pervez Musharraf, Supreme Court, 2007 Pakistani presidential election_
 
 ##### Jason Lewis
 ### [ Adventurer Jason Lewis of Expedition 360 completes the first human-powered circumnavigation of the globe. ](/news/2007/10/6/adventurer-jason-lewis-of-expedition-360-completes-the-first-human-powered-circumnavigation-of-the-globe.md)
-_Context: Jason Lewis, Expedition 360_
+_Context: Expedition 360, Jason Lewis_
 
 ##### Quentin L. Cook
 ### [ Quentin L. Cook is called as an apostle of The Church of Jesus Christ of Latter-day Saints in the 177th Semi-Annual General Conference. ](/news/2007/10/6/quentin-l-cook-is-called-as-an-apostle-of-the-church-of-jesus-christ-of-latter-day-saints-in-the-177th-semi-annual-general-conference.md)
-_Context:  apostle, Quentin L. Cook,  177th Semi-Annual General Conference, The Church of Jesus Christ of Latter-day Saints_
+_Context:  apostle, Quentin L. Cook, The Church of Jesus Christ of Latter-day Saints,  177th Semi-Annual General Conference_
 
 ##### Royal Canadian Mounted Police
 ### [ Christopher John Worden, a Royal Canadian Mounted Police constable from Hay River, Northwest Territories, is shot and killed by an unknown assailant. ](/news/2007/10/6/christopher-john-worden-a-royal-canadian-mounted-police-constable-from-hay-river-northwest-territories-is-shot-and-killed-by-an-unknown.md)

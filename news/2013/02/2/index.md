@@ -9,7 +9,7 @@ Thirteen soldiers and 10 civilians have died in an attack by Taliban militants o
 
 ##### Turkey
 ### [The Turkish radical leftist group Revolutionary People's Liberation Party-Front claims responsibility for the bombing in Ankara. ](/news/2013/02/2/the-turkish-radical-leftist-group-revolutionary-people-s-liberation-partyafront-claims-responsibility-for-the-bombing-in-ankara.md)
-_Context: Revolutionary People's Liberation Army-Front (DHKP-C), bombing, Ankara, Turkey_
+_Context: Ankara, Revolutionary People's Liberation Army-Front (DHKP-C), bombing, Turkey_
 
 ##### Cairo
 ### [The protesters clashes with police outside the presidential palace in Cairo, Egypt, after a week of violence in which more than 60 people were killed. ](/news/2013/02/2/the-protesters-clashes-with-police-outside-the-presidential-palace-in-cairo-egypt-after-a-week-of-violence-in-which-more-than-60-people-we.md)
@@ -17,11 +17,11 @@ At least one protester was shot dead and dozens wounded on Friday when riot poli
 
 ##### Prime Minister of Japan
 ### [Prime Minister of Japan Shinzo Abe vows to defend the Senkaku Islands "at all costs" in a speech aimed at the Japan Self-Defense Forces. ](/news/2013/02/2/prime-minister-of-japan-shinza-abe-vows-to-defend-the-senkaku-islands-at-all-costs-in-a-speech-aimed-at-the-japan-self-defense-forces.md)
-_Context: Prime Minister of Japan, Japan, Senkaku Islands, Shinzo Abe, military_
+_Context: military, Prime Minister of Japan, Japan, Senkaku Islands, Shinzo Abe_
 
 ##### Gansu
 ### [A bus catches fire after falling into a ravine in Gansu province, China, killing 18 people and injuring 34 others. ](/news/2013/02/2/a-bus-catches-fire-after-falling-into-a-ravine-in-gansu-province-china-killing-18-people-and-injuring-34-others.md)
-_Context: Gansu, China_
+_Context: China, Gansu_
 
 ##### Road accidents
 ### [Five road accidents in two days claims the lives of at least 58 people in China before Chinese New Year. ](/news/2013/02/2/five-road-accidents-in-two-days-claims-the-lives-of-at-least-58-people-in-china-before-chinese-new-year.md)
@@ -29,11 +29,11 @@ Beijing, Feb 3 (IANS) Five road accidents in two days have claimed the lives of 
 
 ##### ATR-72
 ### [An ATR-72 aircraft belonging to Carpatair veers off a runway at Rome's Leonardo da Vinci-Fiumicino Airport, injuring at least 6 people. ](/news/2013/02/2/an-atr-72-aircraft-belonging-to-carpatair-veers-off-a-runway-at-rome-s-leonardo-da-vinciafiumicino-airport-injuring-at-least-6-people.md)
-_Context: Leonardo da Vinci-Fiumicino Airport, ATR-72, aircraft, Carpatair, Rome, Italy_
+_Context: ATR-72, aircraft, Leonardo da Vinci-Fiumicino Airport, Rome, Italy, Carpatair_
 
 ##### Iran
 ### [Iran unveils a new Qaher-313 combat jet which is said can evade radar detection. ](/news/2013/02/2/iran-unveils-a-new-qaher-313-combat-jet-which-is-said-can-evade-radar-detection.md)
-_Context: combat jet, Qaher-313, stealthy planes, Iran_
+_Context: Qaher-313, Iran, stealthy planes, combat jet_
 
 ## [Previous Day...](/news/2013/02/1/index.md)
 

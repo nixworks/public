@@ -21,11 +21,11 @@ _Context: Zimbabwe, civil servants_
 
 ##### Cyclone Oli
 ### [Cyclone Oli hits Tahiti and other islands of French Polynesia, killing at least one man. ](/news/2010/02/5/cyclone-oli-hits-tahiti-and-other-islands-of-french-polynesia-killing-at-least-one-man.md)
-_Context: Tahiti, Cyclone Oli, French Polynesia_
+_Context: Cyclone Oli, Tahiti, French Polynesia_
 
 ##### India
 ### [The last native of India's Andaman Islands fluent in the Aka-Bo language dies, rendering the language extinct. ](/news/2010/02/5/the-last-native-of-india-s-andaman-islands-fluent-in-the-aka-bo-language-dies-rendering-the-language-extinct.md)
-_Context: Andaman Islands, India, extinct, Aka-Bo language_
+_Context: Aka-Bo language, extinct, Andaman Islands, India_
 
 ##### Danish special forces
 ### [Danish special forces storm a ship captured by armed Somali pirates and free the 25 crew on board. ](/news/2010/02/5/danish-special-forces-storm-a-ship-captured-by-armed-somali-pirates-and-free-the-25-crew-on-board.md)
@@ -49,7 +49,7 @@ _Context: dwarf planet, Pluto_
 
 ##### Uganda
 ### [Uganda's deputy Foreign Minister Henry Okello Oryem says the country's anti-homosexuality Bill "will be changed". ](/news/2010/02/5/uganda-s-deputy-foreign-minister-henry-okello-oryem-says-the-country-s-anti-homosexuality-bill-will-be-changed.md)
-_Context: Uganda, Henry Okello Oryem, law_
+_Context: law, Uganda, Henry Okello Oryem_
 
 ##### North Korea
 ### [North Korea announces it will release an American man who entered the country on December 25, 2009. ](/news/2010/02/5/north-korea-announces-it-will-release-an-american-man-who-entered-the-country-on-december-25-2009.md)

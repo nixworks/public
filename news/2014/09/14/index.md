@@ -13,7 +13,7 @@ The battle in Donetsk between rebels and Kiev government forces was one of the m
 
 ##### Philippines
 ### [At least 70 people are still missing after the ferry MV "Maharlika II" sinks off the Philippines island of Leyte. ](/news/2014/09/14/at-least-70-people-are-still-missing-after-the-ferry-mv-maharlika-ii-sinks-off-the-philippines-island-of-leyte.md)
-_Context: Philippines, Leyte_
+_Context: Leyte, Philippines_
 
 ##### Jammu and Kashmir
 ### [India suspends rescue operations due to heavy rain in Jammu and Kashmir state where over 100,000 still await rescue. ](/news/2014/09/14/india-suspends-rescue-operations-due-to-heavy-rain-in-jammu-and-kashmir-state-where-over-100-000-still-await-rescue.md)
@@ -25,11 +25,11 @@ Forty people died after a building collapse at the megachurch of one of Nigeria&
 
 ##### 2014 Pacific hurricane season
 ### [Hurricane Odile reaches Category 4 strength as it nears Mexico's Baja California coast. ](/news/2014/09/14/hurricane-odile-reaches-category-4-strength-as-it-nears-mexico-s-baja-california-coast.md)
-_Context: Hurricane Odile, 2014 Pacific hurricane season, Mexican, Baja California_
+_Context: Mexican, Hurricane Odile, 2014 Pacific hurricane season, Baja California_
 
 ##### 2014 Pacific typhoon season
 ### [Typhoon Kalmaegi hits the northeast Philippines with warnings of potential floods and landslides. ](/news/2014/09/14/typhoon-kalmaegi-hits-the-northeast-philippines-with-warnings-of-potential-floods-and-landslides.md)
-_Context: Typhoon Kalmaegi, 2014 Pacific typhoon season, Philippines_
+_Context: Typhoon Kalmaegi, Philippines, 2014 Pacific typhoon season_
 
 ##### Africa
 ### [A boat carrying 250 people from Africa to Europe sinks off the coast off Tajoura in Libya with most people feared drowned. ](/news/2014/09/14/a-boat-carrying-250-people-from-africa-to-europe-sinks-off-the-coast-off-tajoura-in-libya-with-most-people-feared-drowned.md)
@@ -37,7 +37,7 @@ The boat, packed with up to 250 African migrants trying to reach Europe, sank ea
 
 ##### North Korea
 ### [North Korea holds a trial for American tourist Matthew Miller who was detained in April and sentences him to six years of hard labor. ](/news/2014/09/14/north-korea-holds-a-trial-for-american-tourist-matthew-miller-who-was-detained-in-april-and-sentences-him-to-six-years-of-hard-labor.md)
-_Context: North Korea, American_
+_Context: American, North Korea_
 
 ##### Sweden
 ### [Voters in Sweden go to the polls for a general election with a leftist coalition led by the Swedish Social Democratic Party set to form government. Incumbent Prime Minister Fredrik Reinfeldt announces that he will step aside as PM and as leader of the Moderate Party. ](/news/2014/09/14/voters-in-sweden-go-to-the-polls-for-a-general-election-with-a-leftist-coalition-led-by-the-swedish-social-democratic-party-set-to-form-gove.md)

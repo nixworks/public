@@ -41,7 +41,7 @@ Get the latest health&nbsp;news, diet &amp; fitness information, medical researc
 
 ##### Chemical leak
 ### [A chemical leak in West Virginia morphs into a crisis after the contamination of a portion of the state's water supply. ](/news/2014/01/11/a-chemical-leak-in-west-virginia-morphs-into-a-crisis-after-the-contamination-of-a-portion-of-the-state-s-water-supply.md)
-_Context: chemical leak, water supply, West Virginia_
+_Context: chemical leak, West Virginia, water supply_
 
 ##### Cyclone Ian
 ### [Cyclone Ian strikes Tonga with damage to buildings reported. ](/news/2014/01/11/cyclone-ian-strikes-tonga-with-damage-to-buildings-reported.md)
@@ -57,7 +57,7 @@ Ten U.S. Air Force officers are being investigated for alleged illegal drug poss
 
 ##### Torture
 ### [A ten-year-old servant girl is tortured to death in Punjab raising concerns about human rights in Pakistan. ](/news/2014/01/11/a-ten-year-old-servant-girl-is-tortured-to-death-in-punjab-raising-concerns-about-human-rights-in-pakistan.md)
-_Context: torture, Pakistan, human rights, Punjab Province_
+_Context: Pakistan, human rights, Punjab Province, torture_
 
 ##### Bilbao
 ### [About 110,000 people march peacefully through Bilbao, demanding Basque independence and freedom for more than 600 ETA prisoners. ](/news/2014/01/11/about-110-000-people-march-peacefully-through-bilbao-demanding-basque-independence-and-freedom-for-more-than-600-eta-prisoners.md)
@@ -65,7 +65,7 @@ At least 100,000 people march through the northern Spanish city of Bilbao after 
 
 ##### X-ray astronomers
 ### [X-ray astronomers find evidence of a black hole at the center of a dwarf galaxy gobbling up a star; this is the first such event ever filmed. ](/news/2014/01/11/x-ray-astronomers-find-evidence-of-a-black-hole-at-the-center-of-a-dwarf-galaxy-gobbling-up-a-star-this-is-the-first-such-event-ever-filmed.md)
-_Context: black hole, dwarf galaxy, X-ray astronomers, star_
+_Context: black hole, star, dwarf galaxy, X-ray astronomers_
 
 ##### Prime Minister of Israel
 ### [Former Israeli Prime Minister Ariel Sharon dies at the age of 85 after spending eight years in a coma following a stroke. ](/news/2014/01/11/former-israeli-prime-minister-ariel-sharon-dies-at-the-age-of-85-after-spending-eight-years-in-a-coma-following-a-stroke.md)
@@ -73,7 +73,7 @@ Former PM and general was polarising figure who backed Jewish settlements but pu
 
 ##### India
 ### [India says that it has "no stand-off" with the United States even after the Devyani Khobragade incident. ](/news/2014/01/11/india-says-that-it-has-no-stand-off-with-the-united-states-even-after-the-devyani-khobragade-incident.md)
-_Context: U.S., India, Devyani Khobragade incident_
+_Context: Devyani Khobragade incident, U.S., India_
 
 ##### French President
 ### [French President Francois Hollande is under pressure after photos of him and actress Julie Gayet appear in a magazine. ](/news/2014/01/11/french-president-franassois-hollande-is-under-pressure-after-photos-of-him-and-actress-julie-gayet-appear-in-a-magazine.md)

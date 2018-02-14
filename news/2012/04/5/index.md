@@ -5,19 +5,19 @@ Formats: [HTML](2012/04/5/index.html)  [JSON](2012/04/5/index.json)  [XML](2012/
 
 ##### Egypt
 ### [A rocket fired from Egypt's Sinai desert hits the Israeli city of Eilat but causes no injuries or property damage. ](/news/2012/04/5/a-rocket-fired-from-egypt-s-sinai-desert-hits-the-israeli-city-of-eilat-but-causes-no-injuries-or-property-damage.md)
-_Context: Sinai desert, Israel, Eilat, Egypt_
+_Context: Egypt, Israel, Eilat, Sinai desert_
 
 ##### Mali
 ### [Mali's Azawad National Liberation Movement declares an end to military activities, claiming that they have captured enough territory to form their own state. ](/news/2012/04/5/mali-s-azawad-national-liberation-movement-declares-an-end-to-military-activities-claiming-that-they-have-captured-enough-territory-to-form.md)
-_Context: Mali, Azawad National Liberation Movement, Azawad_
+_Context: Azawad National Liberation Movement, Mali, Azawad_
 
 ##### Syria
 ### [Syrian Army troops launch a fierce attack on the Damascus suburb of Douma. ](/news/2012/04/5/syrian-army-troops-launch-a-fierce-attack-on-the-damascus-suburb-of-douma.md)
-_Context: Syrian Army, Syria, Damascus, Douma_
+_Context: Syrian Army, Damascus, Syria, Douma_
 
 ##### Zuwara
 ### [Rival militias cease fighting in the town of Zuwara in western Libya after the National Transitional Council claims a ceasefire. ](/news/2012/04/5/rival-militias-cease-fighting-in-the-town-of-zuwara-in-western-libya-after-the-national-transitional-council-claims-a-ceasefire.md)
-_Context: Zuwara, Libya, National Transitional Council_
+_Context: Libya, National Transitional Council, Zuwara_
 
 ##### Iran
 ### [A Chinese companydate=April 2012 that insures ships announces it will stop indemnifying tankers carrying Iranian oil. This represents a continued tightening of world sanctions on Iran. ](/news/2012/04/5/a-chinese-companydate-april-2012-that-insures-ships-announces-it-will-stop-indemnifying-tankers-carrying-iranian-oil-this-represents-a-cont.md)

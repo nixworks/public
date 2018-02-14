@@ -25,7 +25,7 @@ A pilot and three passengers die when Saudi-registered private jet crashes into 
 
 ##### 2015 West Bank Arson attack
 ### [ Suspected Jewish settlers set fire to a West Bank home and burned a sleeping Palestinian toddler to death in an attack that drew Palestinian rage and widespread Israeli condemnation. ](/news/2015/07/31/suspected-jewish-settlers-set-fire-to-a-west-bank-home-and-burned-a-sleeping-palestinian-toddler-to-death-in-an-attack-that-drew-palestinia.md)
-_Context: Palestine, West Bank, Israel, Jewish settlers, 2015 West Bank Arson attack_
+_Context: Israel, 2015 West Bank Arson attack, Palestine, Jewish settlers, West Bank_
 
 ##### India
 ### [India and Bangladesh have swapped control of some 160 small pockets of land on each other's territory. Residents were asked to choose where they wanted to live and which nationality they would prefer. Most of them decided to change nationality and stay where they live. ](/news/2015/07/31/india-and-bangladesh-have-swapped-control-of-some-160-small-pockets-of-land-on-each-other-s-territory-residents-were-asked-to-choose-where.md)

@@ -21,23 +21,23 @@ The UK economy grew by 0.5% in the third quarter of 2011, official figures show,
 
 ##### State of emergency
 ### [Over 1.5 million people are still without power and four states declare a state of emergency after a nor'easter hits the Eastern United States. ](/news/2011/11/1/over-1-5-million-people-are-still-without-power-and-four-states-declare-a-state-of-emergency-after-a-nor-easter-hits-the-eastern-united-stat.md)
-_Context: nor'easter, Eastern U.S., state of emergency_
+_Context: state of emergency, nor'easter, Eastern U.S._
 
 ##### LOT Polish Airlines Flight 016
 ### [LOT Polish Airlines Flight 016 makes a successful emergency landing at Warsaw Chopin Airport. ](/news/2011/11/1/lot-polish-airlines-flight-016-makes-a-successful-emergency-landing-at-warsaw-chopin-airport.md)
-_Context: LOT Polish Airlines Flight 016, Warsaw Chopin Airport_
+_Context: Warsaw Chopin Airport, LOT Polish Airlines Flight 016_
 
 ##### Fuquan City
 ### [At least seven people are killed and 200 injured following an explosion caused by two trucks carrying explosives crashing in Fuquan City in China's Guizhou Province. ](/news/2011/11/1/at-least-seven-people-are-killed-and-200-injured-following-an-explosion-caused-by-two-trucks-carrying-explosives-crashing-in-fuquan-city-in.md)
-_Context: Fuquan City, China, Guizhou Province_
+_Context: Fuquan City, Guizhou Province, China_
 
 ##### Asylum seeker
 ### [A boat carrying 70 asylum seekers en route to Australia sinks off the coast of Java in Indonesia with eight confirmed deaths and fifteen people missing. ](/news/2011/11/1/a-boat-carrying-70-asylum-seekers-en-route-to-australia-sinks-off-the-coast-of-java-in-indonesia-with-eight-confirmed-deaths-and-fifteen-peo.md)
-_Context: Java, asylum seeker, Indonesia, Australia_
+_Context: Australia, Indonesia, Java, asylum seeker_
 
 ##### Almazbek Atambayev
 ### [Almazbek Atambayev, the newly elected President of Kyrgyzstan, states that a lease for a United States air base in Manas will not be renewed when it expires in 2014. ](/news/2011/11/1/almazbek-atambayev-the-newly-elected-president-of-kyrgyzstan-states-that-a-lease-for-a-united-states-air-base-in-manas-will-not-be-renewed.md)
-_Context: U.S., Manas, president, Almazbek Atambayev_
+_Context: U.S., president, Almazbek Atambayev, Manas_
 
 ##### London
 ### [At least twelve people are arrested in London outside the Parliament of the United Kingdom after a protest against anti-squatting legislation turns violent. ](/news/2011/11/1/at-least-twelve-people-are-arrested-in-london-outside-the-parliament-of-the-united-kingdom-after-a-protest-against-anti-squatting-legislatio.md)
@@ -49,7 +49,7 @@ _Context: St Paul's Cathedral, City of London Corporation, Occupy London_
 
 ##### China
 ### [China launches the unmanned Shenzhou 8 spacecraft, intending to robotically dock it with the orbiting Tiangong 1 space station module. If successful, the mission will mark China's first orbital docking, and will be a major milestone in its efforts to construct a full-scale space station. ](/news/2011/11/1/china-launches-the-unmanned-shenzhou-8-spacecraft-intending-to-robotically-dock-it-with-the-orbiting-tiangong-1-space-station-module-if-su.md)
-_Context: Tiangong 1, China, space station, Shenzhou 8, full-scale space station_
+_Context: Tiangong 1, full-scale space station, Shenzhou 8, China, space station_
 
 ## [Previous Day...](/news/2011/10/31/index.md)
 

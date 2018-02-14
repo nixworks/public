@@ -5,7 +5,7 @@ Formats: [HTML](2009/11/9/index.html)  [JSON](2009/11/9/index.json)  [XML](2009/
 
 ##### Berlin Wall
 ### [ World leaders mark the twentieth anniversary of the Berlin Wall's fall, with the main celebrations taking place at the Brandenburg Gate. ](/news/2009/11/9/world-leaders-mark-the-twentieth-anniversary-of-the-berlin-wall-s-fall-with-the-main-celebrations-taking-place-at-the-brandenburg-gate.md)
-_Context: Berlin Wall, Brandenburg Gate_
+_Context: Brandenburg Gate, Berlin Wall_
 
 ##### Burma
 ### [ A senior Burmese diplomat says the military government will release Aung San Suu Kyi soon. ](/news/2009/11/9/a-senior-burmese-diplomat-says-the-military-government-will-release-aung-san-suu-kyi-soon.md)
@@ -13,15 +13,15 @@ _Context: State Peace and Development Council, Aung San Suu Kyi, Burma_
 
 ##### Somali pirates
 ### [ Somali pirates attack a Hong Kong-flagged oil tanker with long range rocket-propelled grenades 1,000 miles east off the Somali coast in the Indian Ocean. ](/news/2009/11/9/somali-pirates-attack-a-hong-kong-flagged-oil-tanker-with-long-range-rocket-propelled-grenades-1-000-miles-east-off-the-somali-coast-in-the.md)
-_Context: Hong Kong, rocket-propelled grenade, Somali pirates, Indian, Somalia, oil tanker_
+_Context: Somalia, rocket-propelled grenade, oil tanker, Hong Kong, Somali pirates, Indian_
 
 ##### Lebanese
 ### [ Lebanese Prime Minister Saad Hariri announces the formation of a unity government with Hezbollah. ](/news/2009/11/9/lebanese-prime-minister-saad-hariri-announces-the-formation-of-a-unity-government-with-hezbollah.md)
-_Context: Prime Minister of Lebanon, Lebanese, unity, Saad Hariri, Hezbollah_
+_Context: Saad Hariri, Lebanese, unity, Hezbollah, Prime Minister of Lebanon_
 
 ##### 2009 gubernatorial election and runoff
 ### [ The Northern Mariana Islands election commission sets November 23 as the guberntorial runoff election between Governor Benigno Fitial and challenger Heinz Hofschneider. ](/news/2009/11/9/the-northern-mariana-islands-election-commission-sets-november-23-as-the-guberntorial-runoff-election-between-governor-benigno-fitial-and-c.md)
-_Context: Heinz Hofschneider, Governor of the Northern Mariana Islands, runoff election, 2009 gubernatorial election and runoff, Northern Mariana Islands, Benigno Fitial_
+_Context: 2009 gubernatorial election and runoff, Benigno Fitial, Heinz Hofschneider, runoff election, Northern Mariana Islands, Governor of the Northern Mariana Islands_
 
 ##### Iraq
 ### [ Iraq sets its next general election for January 21, 2010. ](/news/2009/11/9/iraq-sets-its-next-general-election-for-january-21-2010.md)
@@ -29,7 +29,7 @@ _Context: next general election, Iraq_
 
 ##### Gautrain
 ### [ A high speed rail link under construction, Gautrain, will not be ready for the 2010 FIFA World Cup in South Africa. ](/news/2009/11/9/a-high-speed-rail-link-under-construction-gautrain-will-not-be-ready-for-the-2010-fifa-world-cup-in-south-africa.md)
-_Context: South Africa, Gautrain, 2010 FIFA World Cup_
+_Context: 2010 FIFA World Cup, South Africa, Gautrain_
 
 ##### U.S.
 ### [ Three American hikers detained on the border between Iraqi Kurdistan and Iran are to be charged for espionage by Iranian authorities. ](/news/2009/11/9/three-american-hikers-detained-on-the-border-between-iraqi-kurdistan-and-iran-are-to-be-charged-for-espionage-by-iranian-authorities.md)
@@ -37,7 +37,7 @@ Iran&#039;s judiciary indicated yesterday that three young American trekkers who
 
 ##### Houthi
 ### [ Houthi fighters in Yemen say Saudi Arabia is using phosphorus bombs against them. ](/news/2009/11/9/houthi-fighters-in-yemen-say-saudi-arabia-is-using-phosphorus-bombs-against-them.md)
-_Context: phosphorus bomb, Houthi, Yemen, Saudi Arabia_
+_Context: phosphorus bomb, Yemen, Saudi Arabia, Houthi_
 
 ##### Uyghur
 ### [ In China eight ethnic Uyghurs and one Han are executed for their role in the Urumqi riots in July, in the first executions to take place. ](/news/2009/11/9/in-china-eight-ethnic-uyghurs-and-one-han-are-executed-for-their-role-in-the-urumqi-riots-in-july-in-the-first-executions-to-take-place.md)
@@ -57,7 +57,7 @@ Tawang (Arunachal Pradesh): Tibetan spiritual leader the Dalai Lama on Monday ca
 
 ##### Downing Street
 ### [ Downing Street defends Prime Minister Gordon Brown's habits after the mother of a soldier killed in Afghanistan labels a misspelled letter she received from him as a "hastily scrawled insult". ](/news/2009/11/9/downing-street-defends-prime-minister-gordon-brown-s-habits-after-the-mother-of-a-soldier-killed-in-afghanistan-labels-a-misspelled-letter.md)
-_Context: Afghanistan, Downing Street, Gordon Brown, Prime Minister_
+_Context: Downing Street, Afghanistan, Prime Minister, Gordon Brown_
 
 ##### Jason Somerville
 ### [ "House of Horrors" murderer Jason Somerville pleads guilty to strangling his wife Rebecca Somerville and neighbour Tisha Lowry before having sex with their corpses in Christchurch, New Zealand. ](/news/2009/11/9/house-of-horrors-murderer-jason-somerville-pleads-guilty-to-strangling-his-wife-rebecca-somerville-and-neighbour-tisha-lowry-before-havin.md)
@@ -69,7 +69,7 @@ The private train North Korean leader Kim Jong-il uses on his trips either withi
 
 ##### Connecticut
 ### [ Connecticut Governor Jodi Rell announces that she will not seek re-election in 2010. ](/news/2009/11/9/connecticut-governor-jodi-rell-announces-that-she-will-not-seek-re-election-in-2010.md)
-_Context: re-election in 2010, Connecticut, Jodi Rell, Governor_
+_Context: Jodi Rell, re-election in 2010, Connecticut, Governor_
 
 ## [Previous Day...](/news/2009/11/8/index.md)
 

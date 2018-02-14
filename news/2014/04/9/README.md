@@ -5,7 +5,7 @@ Formats: [HTML](2014/04/9/index.html)  [JSON](2014/04/9/index.json)  [XML](2014/
 
 ##### Pakistan
 ### [A bomb blast in a market kills 26 people in the outskirts of the Pakistani capital Islamabad. ](/news/2014/04/9/a-bomb-blast-in-a-market-kills-26-people-in-the-outskirts-of-the-pakistani-capital-islamabad.md)
-_Context: Pakistan, Islamabad_
+_Context: Islamabad, Pakistan_
 
 ##### Syria
 ### [25 people are killed in car bombings in the central Syrian city of Homs. ](/news/2014/04/9/25-people-are-killed-in-car-bombings-in-the-central-syrian-city-of-homs.md)

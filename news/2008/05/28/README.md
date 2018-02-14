@@ -5,11 +5,11 @@ Formats: [HTML](2008/05/28/index.html)  [JSON](2008/05/28/index.json)  [XML](200
 
 ##### Leaning Tower
 ### [ Engineers announce that the Leaning Tower of Pisa has been stabilized for the first time, and will remain stable for 200 more years. ](/news/2008/05/28/engineers-announce-that-the-leaning-tower-of-pisa-has-been-stabilized-for-the-first-time-and-will-remain-stable-for-200-more-years.md)
-_Context: Pisa, Leaning Tower_
+_Context: Leaning Tower, Pisa_
 
 ##### Materpiscis
 ### [ Australian paleontologists discover "Materpiscis", a 380-million-year-old placoderm fish which is the earliest known animal to bear live young. ](/news/2008/05/28/australian-paleontologists-discover-materpiscis-a-380-million-year-old-placoderm-fish-which-is-the-earliest-known-animal-to-bear-live-yo.md)
-_Context: bear live young, placoderm, Materpiscis_
+_Context: Materpiscis, bear live young, placoderm_
 
 ##### New York Governor
 ### [ The Governor of New York David Paterson directs New York state agencies to recognise gay marriages performed in other jurisdictions such as Canada, California and Massachusetts. ](/news/2008/05/28/the-governor-of-new-york-david-paterson-directs-new-york-state-agencies-to-recognise-gay-marriages-performed-in-other-jurisdictions-such-as.md)
@@ -21,15 +21,15 @@ An international conference being held in Dublin has accepted a draft convention
 
 ##### Ehud Barak
 ### [ Ehud Barak, the Defense Minister of Israel and Leader of the Labor Party, calls for the resignation of the Prime Minister of Israel Ehud Olmert to step aside to face corruption allegations. ](/news/2008/05/28/ehud-barak-the-defense-minister-of-israel-and-leader-of-the-labor-party-calls-for-the-resignation-of-the-prime-minister-of-israel-ehud-ol.md)
-_Context: corruption, Israeli Prime Minister, Labor Party, Ehud Olmert, Ehud Barak, Defense Minister_
+_Context: Ehud Barak, Defense Minister, Ehud Olmert, Israeli Prime Minister, Labor Party, corruption_
 
 ##### Majlis of Iran
 ### [ The Majlis of Iran elects Ali Larijani as its new Speaker. ](/news/2008/05/28/the-majlis-of-iran-elects-ali-larijani-as-its-new-speaker.md)
-_Context: Majlis of Iran, Ali Larijani, Speaker_
+_Context: Speaker, Ali Larijani, Majlis of Iran_
 
 ##### Nepal
 ### [ The Nepalese Constituent Assembly meets for the first time since the Nepalese Constituent Assembly election, 2008 with the Assembly expected to establish a new Constitution of Nepal. ](/news/2008/05/28/the-nepalese-constituent-assembly-meets-for-the-first-time-since-the-nepalese-constituent-assembly-election-2008-with-the-assembly-expecte.md)
-_Context: Constituent Assembly, Nepal, Nepalese Constituent Assembly election, 2008, Constitution of Nepal_
+_Context: Constitution of Nepal, Nepalese Constituent Assembly election, 2008, Nepal, Constituent Assembly_
 
 ## [Previous Day...](/news/2008/05/27/index.md)
 

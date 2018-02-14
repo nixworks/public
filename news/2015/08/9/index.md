@@ -9,7 +9,7 @@ The Japanese city of Nagasaki holds an emotional service to mark 70 years since 
 
 ##### 2015 Pacific typhoon season
 ### [The death toll in China from Typhoon Soudelor rises to at least 22 people with more missing and millions without power. ](/news/2015/08/9/the-death-toll-in-china-from-typhoon-soudelor-rises-to-at-least-22-people-with-more-missing-and-millions-without-power.md)
-_Context: 2015 Pacific typhoon season, China, Typhoon Soudelor_
+_Context: China, 2015 Pacific typhoon season, Typhoon Soudelor_
 
 ##### Syria
 ### [An arrest warrant is issued for the cousin of Syrian President Bashar al-Assad, Suleiman Hilal Al-Assad, who is accused of shooting and killing Colonel Hassan Al-Sheikh of the Syrian Armed Forces at what can be described as a traffic dispute. ](/news/2015/08/9/an-arrest-warrant-is-issued-for-the-cousin-of-syrian-president-bashar-al-assad-suleiman-hilal-al-assad-who-is-accused-of-shooting-and-kill.md)

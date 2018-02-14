@@ -5,11 +5,11 @@ Formats: [HTML](2008/05/15/index.html)  [JSON](2008/05/15/index.json)  [XML](200
 
 ##### Andean diplomatic crisis
 ### [ 2008 Andean diplomatic crisis: Interpol confirms that Colombia did not tamper with computer files in hardware seized from Raul Reyes. This alleged that Venezuela and Ecuador provided funding, assistance and drug routes to the terrorist group Revolutionary Armed Forces of Colombia. However, Interpol stated that they had not looked at the content of the files, only their authenticity. ](/news/2008/05/15/2008-andean-diplomatic-crisis-interpol-confirms-that-colombia-did-not-tamper-with-computer-files-in-hardware-seized-from-raul-reyes-this.md)
-_Context: Andean diplomatic crisis, Interpol, Colombia, Ecuador, Raul Reyes, Venezuela, computer files, Revolutionary Armed Forces of Colombia_
+_Context: Revolutionary Armed Forces of Colombia, computer files, Colombia, Interpol, Venezuela, Raul Reyes, Ecuador, Andean diplomatic crisis_
 
 ##### Mergers and Acquisitions
 ### [ CBS Corporation agreed to buy the popular computer and technology website CNET Networks for $1.75 billion. ](/news/2008/05/15/cbs-corporation-agreed-to-buy-the-popular-computer-and-technology-website-cnet-networks-for-1-75-billion.md)
-_Context: $, CBS Corporation, CNET Networks, Mergers and Acquisitions_
+_Context: $, CBS Corporation, Mergers and Acquisitions, CNET Networks_
 
 ##### California Supreme Court
 ### [ The California Supreme Court rules that a ban on same-sex marriage is unconstitutional under the California state constitution. ](/news/2008/05/15/the-california-supreme-court-rules-that-a-ban-on-same-sex-marriage-is-unconstitutional-under-the-california-state-constitution.md)
@@ -25,7 +25,7 @@ The Sichuan earthquake may eventually claim as many as 50,000 lives, the Chinese
 
 ##### Burma
 ### [ Myanmar's military junta, the State Peace and Development Council, claims that the Burmese constitutional referendum, 2008 approved their new constitution of Myanmar with a 92.4% majority. ](/news/2008/05/15/myanmar-s-military-junta-the-state-peace-and-development-council-claims-that-the-burmese-constitutional-referendum-2008-approved-their-n.md)
-_Context: Burma, Burmese constitutional referendum, 2008, military junta, constitution of Myanmar, Myanmar, State Peace and Development Council_
+_Context: military junta, Burmese constitutional referendum, 2008, State Peace and Development Council, Burma, constitution of Myanmar, Myanmar_
 
 ## [Previous Day...](/news/2008/05/14/index.md)
 

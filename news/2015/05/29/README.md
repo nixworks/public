@@ -49,7 +49,7 @@ Ross Ulbricht, founder and mastermind of the Silk Road, has been sentenced to li
 
 ##### Dustin Diamond
 ### [American television actor Dustin Diamond is convicted of two misdemeanor charges stemming from a stabbing at a Wisconsin bar last year but acquitted on felony charges. ](/news/2015/05/29/american-television-actor-dustin-diamond-is-convicted-of-two-misdemeanor-charges-stemming-from-a-stabbing-at-a-wisconsin-bar-last-year-but-a.md)
-_Context: Wisconsin, Dustin Diamond_
+_Context: Dustin Diamond, Wisconsin_
 
 ##### Muhammadu Buhari
 ### [Muhammadu Buhari is sworn in as the President of Nigeria following a recent election. ](/news/2015/05/29/muhammadu-buhari-is-sworn-in-as-the-president-of-nigeria-following-a-recent-election.md)
@@ -57,7 +57,7 @@ _Context: Muhammadu Buhari, President_
 
 ##### Democratic Party presidential primaries, 2016
 ### [Former Governor of Maryland Martin O'Malley will announce his candidacy for President of the United States at 10:00 am on May 30. ](/news/2015/05/29/former-governor-of-maryland-martin-o-malley-will-announce-his-candidacy-for-president-of-the-united-states-at-10-00-am-on-may-30.md)
-_Context: Democratic Party presidential primaries, 2016, Governor, Martin O'Malley_
+_Context: Martin O'Malley, Governor, Democratic Party presidential primaries, 2016_
 
 ## [Previous Day...](/news/2015/05/28/index.md)
 

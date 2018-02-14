@@ -9,7 +9,7 @@ _Context: Abdul Rahman, Afghanistan_
 
 ##### 2006 Commonwealth Games
 ### [ The 2006 Commonwealth Games in Melbourne, Australia, draw to a close with the Closing ceremony. Australia finishes with a record 84 gold medals, making this their best Games ever. Samaresh Jung is adjudged the "Best Athlete of the 18th Commonwealth Games." The 2010 games will be hosted by New Delhi, India. ](/news/2006/03/26/the-2006-commonwealth-games-in-melbourne-australia-draw-to-a-close-with-the-closing-ceremony-australia-finishes-with-a-record-84-gold-me.md)
-_Context: Samaresh Jung, 2010 Commonwealth Games, Closing ceremony, New Delhi, 2006 Commonwealth Games, Melbourne, Games_
+_Context: Closing ceremony, 2010 Commonwealth Games, 2006 Commonwealth Games, New Delhi, Games, Samaresh Jung, Melbourne_
 
 ##### Ukraine
 ### [ Voters in Ukraine go to the polls to elect a new Verkhovna Rada (parliament). ](/news/2006/03/26/voters-in-ukraine-go-to-the-polls-to-elect-a-new-verkhovna-rada-parliament.md)

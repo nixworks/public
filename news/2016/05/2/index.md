@@ -25,7 +25,7 @@ Australian entrepreneur Craig Wright has publicly identified himself as Bitcoin 
 
 ##### Puerto Rican government-debt crisis
 ### [Puerto Rico defaults on a $422 million debt payment. The Governor of Puerto Rico Alejandro Garcia Padilla calls the situation a "humanitarian crisis". This is the third time Puerto Rico has defaulted on bond payments. ](/news/2016/05/2/puerto-rico-defaults-on-a-422-million-debt-payment-the-governor-of-puerto-rico-alejandro-garcaa-padilla-calls-the-situation-a-humanitari.md)
-_Context: Puerto Rico, Puerto Rican government-debt crisis, Alejandro Garcia Padilla, defaults, Puerto Rico Governor_
+_Context: Alejandro Garcia Padilla, Puerto Rico Governor, Puerto Rico, defaults, Puerto Rican government-debt crisis_
 
 ##### Alex Lowe
 ### [The bodies of mountaineer Alex Lowe and photographer David Bridges are found on the Himalayan mountain Shishapangma after being buried in an avalanche in 1999. ](/news/2016/05/2/the-bodies-of-mountaineer-alex-lowe-and-photographer-david-bridges-are-found-on-the-himalayan-mountain-shishapangma-after-being-buried-in-an.md)
@@ -33,7 +33,7 @@ The American known as ‘Lungs With Legs’ was climbing the 8,013m Shishapangma
 
 ##### Moldova-United States relations
 ### [About 200 U.S. troops arrive in Moldova from Romania for planned military exercises with the Moldovan military which will last until May 20. ](/news/2016/05/2/about-200-u-s-troops-arrive-in-moldova-from-romania-for-planned-military-exercises-with-the-moldovan-military-which-will-last-until-may-20.md)
-_Context: Moldova-United States relations, Romania, United States military personnel, Moldovan military, Moldova_
+_Context: Moldovan military, Moldova-United States relations, Moldova, United States military personnel, Romania_
 
 ##### Russia-United States relations
 ### [United States Chief of Naval Operations Admiral John M. Richardson says Russian jets in the Baltics buzzing a U.S. military ship and planes are escalating tension between the two nations. Richardson added he doesn't think the Russians are trying to provoke an incident but these actions increase the chance of a "tactical miscalculation." ](/news/2016/05/2/united-states-chief-of-naval-operations-admiral-john-m-richardson-says-russian-jets-in-the-baltics-buzzing-a-u-s-military-ship-and-planes.md)

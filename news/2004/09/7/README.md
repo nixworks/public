@@ -21,7 +21,7 @@ _Context: Royal Institute of International Affairs_
 
 ##### Israeli-Palestinian conflict
 ### [ Israeli-Palestinian conflict: An Israeli attack on a Hamas training camp kills 14 members of the military wing of Hamas. ](/news/2004/09/7/israeli-palestinian-conflict-an-israeli-attack-on-a-hamas-training-camp-kills-14-members-of-the-military-wing-of-hamas.md)
-_Context: Israeli-Palestinian conflict, Israel, Hamas_
+_Context: Hamas, Israeli-Palestinian conflict, Israel_
 
 ## [Previous Day...](/news/2004/09/6/index.md)
 

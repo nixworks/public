@@ -9,11 +9,11 @@ Two suspects in the killing of Vittorio Arrigoni, the slain peace activist, die 
 
 ##### NATO
 ### [NATO and the civilian council of Misrata request ground troops to protect the city of Misrata from Gaddafi's forces, after NATO admits it is unable to stop the artillery shelling of Misrata. ](/news/2011/04/19/nato-and-the-civilian-council-of-misrata-request-ground-troops-to-protect-the-city-of-misrata-from-gaddafi-s-forces-after-nato-admits-it-is.md)
-_Context: Misrata, NATO_
+_Context: NATO, Misrata_
 
 ##### Homs
 ### [Thousands of anti-government protesters occupy and start a sit-in at Al-Saa Square in Homs, the third largest city in Syria. ](/news/2011/04/19/thousands-of-anti-government-protesters-occupy-and-start-a-sit-in-at-al-saa-square-in-homs-the-third-largest-city-in-syria.md)
-_Context: Homs, Syria_
+_Context: Syria, Homs_
 
 ##### United Nations Security Council
 ### [The United Nations Security Council meets to discuss as the Yemen government killing of the people protesting continues. ](/news/2011/04/19/the-united-nations-security-council-meets-to-discuss-as-the-yemen-government-killing-of-the-people-protesting-continues.md)
@@ -33,11 +33,11 @@ _Context: Texas, kindergarteners, U.S. state_
 
 ##### Seagate Technology
 ### [Seagate Technology, a California based manufacturer of hard disk drives (HDDs), buys the HDD division of Samsung, to create an entity with a combined HDD market share of 40 percent. ](/news/2011/04/19/seagate-technology-a-california-based-manufacturer-of-hard-disk-drives-hdds-buys-the-hdd-division-of-samsung-to-create-an-entity-with-a.md)
-_Context: Samsung, California, hard disk drive, Seagate Technology_
+_Context: Seagate Technology, California, hard disk drive, Samsung_
 
 ##### Manila
 ### [Devastating fire in Manila, Philippines leaves about 8,000 people homeless and nine injured in a Makati City squatter community. ](/news/2011/04/19/devastating-fire-in-manila-philippines-leaves-about-8-000-people-homeless-and-nine-injured-in-a-makati-city-squatter-community.md)
-_Context: Makati City, Philippines, Manila_
+_Context: Makati City, Manila, Philippines_
 
 ##### Containment shell
 ### [A donation campaign raises less money than expected towards a newer containment shell at Chernobyl. ](/news/2011/04/19/a-donation-campaign-raises-less-money-than-expected-towards-a-newer-containment-shell-at-chernobyl.md)
@@ -45,7 +45,7 @@ _Context: Chernobyl, containment shell_
 
 ##### David Cameron
 ### [British prime minister David Cameron sets out to block his predecessor Gordon Brown's attempt to take the GBP270,000 per year role of head of the International Monetary Fund (IMF). ](/news/2011/04/19/british-prime-minister-david-cameron-sets-out-to-block-his-predecessor-gordon-brown-s-attempt-to-take-the-gbp270-000-per-year-role-of-head-o.md)
-_Context: International Monetary Fund, Gordon Brown, David Cameron_
+_Context: Gordon Brown, David Cameron, International Monetary Fund_
 
 #####  Georgian
 ### [Georgia annuls a military transit treaty with Russia, which allowed the latter access to its military base in Armenia.](/news/2011/04/19/georgia-annuls-a-military-transit-treaty-with-russia-which-allowed-the-latter-access-to-its-military-base-in-armenia.md)
@@ -53,7 +53,7 @@ _Context:  Georgian, Armenia, Russia_
 
 ##### Singapore
 ### [Singapore's Parliament is dissolved for the 14th General Election which is to be held on 7 May 2011. ](/news/2011/04/19/singapore-s-parliament-is-dissolved-for-the-14th-general-election-which-is-to-be-held-on-7-may-2011.md)
-_Context: Singapore, 14th General Election_
+_Context: 14th General Election, Singapore_
 
 ##### Fidel Castro
 ### [Fidel Castro resigns from the Cuban Communist Party's central committee, formalising his gradual retreat from the spotlight that started in 2006. ](/news/2011/04/19/fidel-castro-resigns-from-the-cuban-communist-party-s-central-committee-formalising-his-gradual-retreat-from-the-spotlight-that-started-in.md)

@@ -29,7 +29,7 @@ A diamond called the Pink Star has fetched a record price for a gemstone by sell
 
 ##### One World Trade Center
 ### [One World Trade Center becomes the tallest building in the United States. ](/news/2013/11/13/one-world-trade-center-becomes-the-tallest-building-in-the-united-states.md)
-_Context: One World Trade Center, U.S._
+_Context: U.S., One World Trade Center_
 
 ##### Poppy
 ### [Poppy farmers in Afghanistan report record yields for their opium crops. ](/news/2013/11/13/poppy-farmers-in-afghanistan-report-record-yields-for-their-opium-crops.md)
@@ -53,11 +53,11 @@ The United States formally designated Nigerian militant groups Boko Haram and An
 
 ##### China
 ### [China, Russia, Cuba, Saudi Arabia, Vietnam, and Algeria are elected to the United Nations Human Rights Council. ](/news/2013/11/13/china-russia-cuba-saudi-arabia-vietnam-and-algeria-are-elected-to-the-united-nations-human-rights-council.md)
-_Context: Russia, Cuba, Saudi Arabia, Vietnam, Algeria, United Nations, China, Human Rights Council_
+_Context: China, Saudi Arabia, Algeria, Russia, Vietnam, Cuba, United Nations, Human Rights Council_
 
 ##### Kevin Rudd
 ### [Kevin Rudd announces his retirement from Australian politics. ](/news/2013/11/13/kevin-rudd-announces-his-retirement-from-australian-politics.md)
-_Context: Politics of Australia, Australia, Kevin Rudd_
+_Context: Politics of Australia, Kevin Rudd, Australia_
 
 ##### Wikileak
 ### [Wikileaks publishes a secret draft chapter of the Trans-Pacific Partnership. ](/news/2013/11/13/wikileaks-publishes-a-secret-draft-chapter-of-the-trans-pacific-partnership.md)
@@ -77,7 +77,7 @@ A sister species of the snow leopard roamed the plateau of Tibet nearly 5 millio
 
 ##### World Wildlife Fund
 ### [WWF releases a photo, taken by a camera trap in a forest in central Vietnam in September, of one of Earth's rarest mammals, the saola, which hadn't been seen in 15 years. ](/news/2013/11/13/wwf-releases-a-photo-taken-by-a-camera-trap-in-a-forest-in-central-vietnam-in-september-of-one-of-earth-s-rarest-mammals-the-saola-which.md)
-_Context: central Vietnam, World Wildlife Fund, saola_
+_Context: saola, central Vietnam, World Wildlife Fund_
 
 ## [Previous Day...](/news/2013/11/12/index.md)
 

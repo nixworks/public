@@ -13,7 +13,7 @@ Eight people were hurt in northern Cairo when homemade explosive devices blew up
 
 ##### Nigeria
 ### [Nigerian police say that 21 people have been killed in an explosion at a crowded Banex Plaza shopping center in Abuja's Wuse 2 district. ](/news/2014/06/25/nigerian-police-say-that-21-people-have-been-killed-in-an-explosion-at-a-crowded-banex-plaza-shopping-center-in-abuja-s-wuse-2-district.md)
-_Context: Nigeria, Abuja_
+_Context: Abuja, Nigeria_
 
 ##### South Africa
 ### [South African platinum miners return to work after a five month strike ends. ](/news/2014/06/25/south-african-platinum-miners-return-to-work-after-a-five-month-strike-ends.md)
@@ -29,7 +29,7 @@ China sends its first ever ministerial-level official on a charm offensive to Ta
 
 ##### U.S.
 ### [The United States has added several LeT-affiliated organizations including Jama'at-ud-Dawa to its list of foreign terror organisations.](/news/2014/06/25/the-united-states-has-added-several-let-affiliated-organizations-including-jama-at-ud-dawa-to-its-list-of-foreign-terror-organisations.md)
-_Context: LeT, U.S., Jama'at-ud-Dawa_
+_Context: U.S., Jama'at-ud-Dawa, LeT_
 
 ##### Egypt
 ### [Egypt's president Abdel Fattah el-Sisi makes his first official visit abroad to Algeria where security was top of the agenda. ](/news/2014/06/25/egypt-s-president-abdel-fattah-el-sisi-makes-his-first-official-visit-abroad-to-algeria-where-security-was-top-of-the-agenda.md)
@@ -37,7 +37,7 @@ _Context: LeT, U.S., Jama'at-ud-Dawa_
 
 ##### Parliament of Romania
 ### [Both houses of the Romanian parliament widely adopt a joint statement urging Romania's president Traian Basescu to resign, following corruption scandals involving his arrested brother's graft case and one of his sons-in-law's implication in a criminal investigation. ](/news/2014/06/25/both-houses-of-the-romanian-parliament-widely-adopt-a-joint-statement-urging-romania-s-president-traian-basescu-to-resign-following-corrup.md)
-_Context: corruption, Parliament of Romania, Romania, graft, Traian Basescu_
+_Context: corruption, Romania, Traian Basescu, graft, Parliament of Romania_
 
 ## [Previous Day...](/news/2014/06/24/index.md)
 

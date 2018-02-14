@@ -9,11 +9,11 @@ Malian youths clashed with ruling Islamists in the city of Gao in a protest agai
 
 ##### Fighting between Buddhists and Muslims
 ### [2012 Rakhine State riots: Renewed fighting between Buddhist Rakhine and Muslim Rohingya in western Burma kills three people. ](/news/2012/08/6/2012-rakhine-state-riots-renewed-fighting-between-buddhist-rakhine-and-muslim-rohingya-in-western-burma-kills-three-people.md)
-_Context: Muslim, Burma, Rakhine, Buddhists, Rohingya, fighting between Buddhists and Muslims_
+_Context: Rohingya, Burma, fighting between Buddhists and Muslims, Buddhists, Muslim, Rakhine_
 
 ##### Mexican Drug War
 ### [Mexican Drug War: Alleged members of Los Zetas, a drug cartel originally set up by former soldiers of the Mexican Army, attack several media outlets in Monterrey for publishing on a rumored split between the two principal Zetas bosses. ](/news/2012/08/6/mexican-drug-war-alleged-members-of-los-zetas-a-drug-cartel-originally-set-up-by-former-soldiers-of-the-mexican-army-attack-several-media.md)
-_Context: Monterrey, Zetas, Mexican Drug War_
+_Context: Monterrey, Mexican Drug War, Zetas_
 
 ##### Syrian civil war
 ### [A bomb explodes at the headquarters of Syrian state television in Damascus. ](/news/2012/08/6/a-bomb-explodes-at-the-headquarters-of-syrian-state-television-in-damascus.md)
@@ -29,7 +29,7 @@ _Context: Abidjan, Ivory Coast_
 
 ##### Australian
 ### [Australian art critic, historian and documentary maker Robert Hughes dies in New York City. ](/news/2012/08/6/australian-art-critic-historian-and-documentary-maker-robert-hughes-dies-in-new-york-city.md)
-_Context: New York City, Robert Hughes, Australian_
+_Context: Australian, Robert Hughes, New York City_
 
 ##### New Zealand
 ### [New Zealand's Mount Tongariro erupts for the first time in a century, spreading volcanic ash across the central North Island and affecting airports. ](/news/2012/08/6/new-zealand-s-mount-tongariro-erupts-for-the-first-time-in-a-century-spreading-volcanic-ash-across-the-central-north-island-and-affecting-a.md)
@@ -41,7 +41,7 @@ Massive fire at Chevron refinery in Richmond fully contained; shelter in place l
 
 ##### Sri Lanka
 ### [Sri Lanka arrests 37 Chinese fisherman for illegally fishing in Sri Lankan waters. ](/news/2012/08/6/sri-lanka-arrests-37-chinese-fisherman-for-illegally-fishing-in-sri-lankan-waters.md)
-_Context: Sri Lanka, China_
+_Context: China, Sri Lanka_
 
 ##### Oak Creek
 ### [Police in Oak Creek, Wisconsin investigate a shooting incident at a Sikh temple which left seven people dead, including the gunman. ](/news/2012/08/6/police-in-oak-creek-wisconsin-investigate-a-shooting-incident-at-a-sikh-temple-which-left-seven-people-dead-including-the-gunman.md)

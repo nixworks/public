@@ -17,11 +17,11 @@ Prosecutors investigating the 2014 downing of flight MH17 over eastern Ukraine s
 
 ##### Anti-Defamation League
 ### [The Anti-Defamation League declares that the "Pepe the Frog" meme is a hate symbol, particularly when used alongside other racially-charged symbolism. ](/news/2016/09/28/the-anti-defamation-league-declares-that-the-pepe-the-frog-meme-is-a-hate-symbol-particularly-when-used-alongside-other-racially-charged.md)
-_Context: Pepe the Frog, Anti-Defamation League_
+_Context: Anti-Defamation League, Pepe the Frog_
 
 ##### 2016 Pacific typhoon season
 ### [Typhoon Megi makes landfall in eastern China a day after killing four people and injuring 260 on Taiwan. ](/news/2016/09/28/typhoon-megi-makes-landfall-in-eastern-china-a-day-after-killing-four-people-and-injuring-260-on-taiwan.md)
-_Context: Typhoon Megi, Taiwan, 2016 Pacific typhoon season, China_
+_Context: China, Typhoon Megi, Taiwan, 2016 Pacific typhoon season_
 
 ##### Indonesia
 ### [Indonesia authorities evacuate over 1,000 tourists from the island of Lombok after Mount Barujari erupts. ](/news/2016/09/28/indonesia-authorities-evacuate-over-1-000-tourists-from-the-island-of-lombok-after-mount-barujari-erupts.md)
@@ -33,7 +33,7 @@ South Australians are preparing for one of the most extreme weather systems to h
 
 ##### United States Senate
 ### [The United States Senate and House of Representatives override the veto of President Barack Obama in regards to the Justice Against Sponsors of Terrorism Act. The act narrows the scope of the legal doctrine of foreign sovereign immunity, specifically, in this instance against the sovereign nation of Saudi Arabia. The action is the first such congressional veto override to Obama. ](/news/2016/09/28/the-united-states-senate-and-house-of-representatives-override-the-veto-of-president-barack-obama-in-regards-to-the-justice-against-sponsors.md)
-_Context: sovereign immunity, Saudi Arabia, United States Senate, Barack Obama, U.S. President, United States House of Representatives, Justice Against Sponsors of Terrorism Act_
+_Context: United States House of Representatives, Barack Obama, Saudi Arabia, Justice Against Sponsors of Terrorism Act, sovereign immunity, United States Senate, U.S. President_
 
 ##### 19th SAARC summit
 ### [Members of the 19th South Asian Association for Regional Cooperation (SAARC) summit, scheduled to be held in Pakistan during November 2016, postpone the meeting following a Indian-led boycott, including Afghanistan, Bangladesh and Bhutan in response to Pakistan's alleged involvement in a deadly terrorist attack on a Indian Army base in Uri, Jammu and Kashmir, on September 18. ](/news/2016/09/28/members-of-the-19th-south-asian-association-for-regional-cooperation-saarc-summit-scheduled-to-be-held-in-pakistan-during-november-2016.md)

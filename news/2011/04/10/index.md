@@ -5,7 +5,7 @@ Formats: [HTML](2011/04/10/index.html)  [JSON](2011/04/10/index.json)  [XML](201
 
 ##### United Nations
 ### [United Nations and French forces open fire on the residence of the President of Cte d'Ivoire Laurent Gbagbo in response to recent attacks. ](/news/2011/04/10/united-nations-and-french-forces-open-fire-on-the-residence-of-the-president-of-cote-d-ivoire-laurent-gbagbo-in-response-to-recent-attacks.md)
-_Context: Cte d'Ivoire, French Army, Laurent Gbagbo, United Nations, President_
+_Context: President, Cte d'Ivoire, Laurent Gbagbo, French Army, United Nations_
 
 ##### Protestors
 ### [Eyewitnesses claim that Syrian security forces killed four protesters in the coastal city of Banias. ](/news/2011/04/10/eyewitnesses-claim-that-syrian-security-forces-killed-four-protesters-in-the-coastal-city-of-banias.md)
@@ -17,11 +17,11 @@ Libya accepts an African Union peace proposal, which will now be put to rebel le
 
 ##### U2
 ### [U2's 360 Tour becomes the highest grossing music tour of all time following a show in Rio de Janeiro, Brazil. ](/news/2011/04/10/u2-s-360deg-tour-becomes-the-highest-grossing-music-tour-of-all-time-following-a-show-in-rio-de-janeiro-brazil.md)
-_Context: Rio de Janeiro, 360 Tour, Brazil, U2_
+_Context: Rio de Janeiro, U2, 360 Tour, Brazil_
 
 ##### China
 ### [The People's Republic of China records its first trade deficit in six years with rising commodity prices blamed. ](/news/2011/04/10/the-people-s-republic-of-china-records-its-first-trade-deficit-in-six-years-with-rising-commodity-prices-blamed.md)
-_Context: trade deficit, China, commodity_
+_Context: trade deficit, commodity, China_
 
 ##### Wildfire
 ### [Wildfires in the US state of Texas destroy more than 230,000 acres of land, including about 20 homes in the small town of Fort Davis. ](/news/2011/04/10/wildfires-in-the-us-state-of-texas-destroy-more-than-230-000-acres-of-land-including-about-20-homes-in-the-small-town-of-fort-davis.md)
@@ -29,11 +29,11 @@ Wildfires scorched more than 230,000 acres in Texas on Sunday, roaring through a
 
 ##### Beijing
 ### [Beijing police arrest at least a dozen members of a Christian house church for attempting to hold a church service in public after they are evicted from their usual place of worship. ](/news/2011/04/10/beijing-police-arrest-at-least-a-dozen-members-of-a-christian-house-church-for-attempting-to-hold-a-church-service-in-public-after-they-are.md)
-_Context: police, house church, Christian, Beijing_
+_Context: Christian, house church, police, Beijing_
 
 ##### United Kingdom
 ### [A British Royal Navy sailor is charged with murdering an officer and attempted murder of three crew members aboard a nuclear submarine HMS Astute on Friday night in Southampton. ](/news/2011/04/10/a-british-royal-navy-sailor-is-charged-with-murdering-an-officer-and-attempted-murder-of-three-crew-members-aboard-a-nuclear-submarine-hms-a.md)
-_Context: Royal Navy, Southampton, HMS Astute, United Kingdom, nuclear submarine_
+_Context: United Kingdom, Southampton, HMS Astute, Royal Navy, nuclear submarine_
 
 ##### Peru
 ### [Peruvians vote in presidential elections with the most likely result a runoff between Ollanta Humala and either Pedro Pablo Kuczynski or Keiko Fujimori. ](/news/2011/04/10/peruvians-vote-in-presidential-elections-with-the-most-likely-result-a-runoff-between-ollanta-humala-and-either-pedro-pablo-kuczynski-or-kei.md)

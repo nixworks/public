@@ -25,7 +25,7 @@ Breaking: Christmas tragedy: 100 burnt to death in Anambra gas explosion
 
 ##### Uruguay
 ### [Uruguay's National Emergencies System reports two people have died in flooding from heavy rains in its northern provinces, and almost 5,500 have been evacuated. The Uruguay River has risen close to three meters over safe levels in Paysandu, and almost four meters (13 feet) in Salto. ](/news/2015/12/24/uruguay-s-national-emergencies-system-reports-two-people-have-died-in-flooding-from-heavy-rains-in-its-northern-provinces-and-almost-5-500.md)
-_Context: Uruguay, Uruguay River, Paysandu, Salto_
+_Context: Uruguay River, Paysandu, Salto, Uruguay_
 
 ##### Drug Enforcement Administration
 ### [The same day the U.S. Drug Enforcement Administration announces it is easing restrictions on medical research involving cannabidiol (CBD), a key component in marijuana, NYU Langone Medical Center researchers report a clinical trial suggests a pill containing CBD may reduce seizures for children and young adults with epilepsy. ](/news/2015/12/24/the-same-day-the-u-s-drug-enforcement-administration-announces-it-is-easing-restrictions-on-medical-research-involving-cannabidiol-cbd-a.md)

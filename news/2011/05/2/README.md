@@ -25,7 +25,7 @@ A suicide bomber said to be aged 12 kills four people in east Afghanistan, one o
 
 ##### Sri Lanka
 ### [Thousands of Sri Lankans protest against a United Nations report calling for both sides involved in the civil war to be investigated for possible war crimes. ](/news/2011/05/2/thousands-of-sri-lankans-protest-against-a-united-nations-report-calling-for-both-sides-involved-in-the-civil-war-to-be-investigated-for-pos.md)
-_Context: United Nations, Sri Lankan Civil War, Sri Lanka_
+_Context: United Nations, Sri Lanka, Sri Lankan Civil War_
 
 ##### Oil prices
 ### [Oil prices fall following news that U.S. forces have killed al-Qaeda leader Osama bin Laden. ](/news/2011/05/2/oil-prices-fall-following-news-that-u-s-forces-have-killed-al-qaeda-leader-osama-bin-laden.md)
@@ -41,7 +41,7 @@ _Context: $, A$_
 
 ##### Sony
 ### [Sony advises that hackers may have stolen personal details of 24.6 million users of Sony Online Entertainment resulting in the site closing. ](/news/2011/05/2/sony-advises-that-hackers-may-have-stolen-personal-details-of-24-6-million-users-of-sony-online-entertainment-resulting-in-the-site-closing.md)
-_Context: Sony, Sony Online Entertainment, hacker_
+_Context: hacker, Sony, Sony Online Entertainment_
 
 ##### Kasai River
 ### [At least 106 people disappear after a boat capsizes on the Kasai River in Kasai-Occidental. ](/news/2011/05/2/at-least-106-people-disappear-after-a-boat-capsizes-on-the-kasai-river-in-kasai-occidental.md)
@@ -69,7 +69,7 @@ Stephen Harper has been re-elected and will head a majority Conservative governm
 
 ##### President
 ### [President of Brazil Dilma Rousseff is hospitalised with pneumonia in SGBPo Paulo. ](/news/2011/05/2/president-of-brazil-dilma-rousseff-is-hospitalised-with-pneumonia-in-sagbpo-paulo.md)
-_Context: pneumonia, president, Dilma Rousseff, SGBPo Paulo_
+_Context: pneumonia, Dilma Rousseff, president, SGBPo Paulo_
 
 ## [Previous Day...](/news/2011/05/1/index.md)
 

@@ -13,7 +13,7 @@ U.S. stock, bond and commodity markets will open as usual tomorrow after Manhatt
 
 ##### Typhoon Nanmadol
 ### [Typhoon Nanmadol hits Taiwan after killing 11 people in the Philippines. ](/news/2011/08/29/typhoon-nanmadol-hits-taiwan-after-killing-11-people-in-the-philippines.md)
-_Context: Taiwan, Typhoon Nanmadol, Philippines_
+_Context: Typhoon Nanmadol, Taiwan, Philippines_
 
 ##### Flood
 ### [Floods hit northern India with transport services disrupted in Mumbai and 15 villages isolated in Maharashtra state. ](/news/2011/08/29/floods-hit-northern-india-with-transport-services-disrupted-in-mumbai-and-15-villages-isolated-in-maharashtra-state.md)
@@ -25,7 +25,7 @@ Five aspiring prime ministers re each making 15-minute remarks before the ruling
 
 ##### Baburam Bhattarai
 ### [Baburam Bhattarai of the Unified Communist Party is elected as Prime Minister of Nepal by the Parliament. ](/news/2011/08/29/baburam-bhattarai-of-the-unified-communist-party-is-elected-as-prime-minister-of-nepal-by-the-parliament.md)
-_Context: Nepalese Maoist Party, Baburam Bhattarai, Parliament, Prime Minister_
+_Context: Nepalese Maoist Party, Parliament, Baburam Bhattarai, Prime Minister_
 
 ##### Alexander Ankvab
 ### [Alexander Ankvab is elected President of partially recognized Abkhazia during elections held on August, 26. The elections are characterised by the Western media and independent observers as "democratic", but not recognized by Georgia.](/news/2011/08/29/alexander-ankvab-is-elected-president-of-partially-recognized-abkhazia-during-elections-held-on-august-26-the-elections-are-characterised.md)

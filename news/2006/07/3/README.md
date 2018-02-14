@@ -9,11 +9,11 @@ NASA loads the shuttle Discovery&#39;s external tank with rocket fuel in prepara
 
 ##### North Korea
 ### [ North Korean leaders say that they will respond to any pre-emptive attack from the US with an "annihilating strike and a nuclear war." ](/news/2006/07/3/north-korean-leaders-say-that-they-will-respond-to-any-pre-emptive-attack-from-the-us-with-an-annihilating-strike-and-a-nuclear-war.md)
-_Context: nuclear strike, U.S., North Korea_
+_Context: North Korea, nuclear strike, U.S._
 
 ##### Greece
 ### [ Greece is suspended from international football competition by FIFA due to Greek government interference in the sport. ](/news/2006/07/3/greece-is-suspended-from-international-football-competition-by-fifa-due-to-greek-government-interference-in-the-sport.md)
-_Context: government, Greece, FIFA, football_
+_Context: Greece, FIFA, government, football_
 
 ##### Subway accident in Valencia
 ### [ At least 41 people die during a lunchtime subway accident in Valencia, Spain when two cars of a train derail and overturn. Early reports indicate the train was travelling too fast. ](/news/2006/07/3/at-least-41-people-die-during-a-lunchtime-subway-accident-in-valencia-spain-when-two-cars-of-a-train-derail-and-overturn-early-reports-in.md)
@@ -21,7 +21,7 @@ _Context: Spain, subway accident in Valencia_
 
 ##### Tajikistan
 ### [ The government of Tajikistan renamed the second and the fourth highest peaks of the Pamir Mountains into the Independence Peak and Avicenna Peak, respectively. ](/news/2006/07/3/the-government-of-tajikistan-renamed-the-second-and-the-fourth-highest-peaks-of-the-pamir-mountains-into-the-independence-peak-and-avicenna.md)
-_Context: Independence Peak, Tajikistan, Pamir Mountains, Avicenna Peak_
+_Context: Tajikistan, Independence Peak, Pamir Mountains, Avicenna Peak_
 
 ##### Israel
 ### [ Israel rejects ultimatum to release all Palestinian female prisoners, prisoners under 18, and an additional 1,000 prisoners by 6 A.M. Tuesday, in exchange for information on its kidnapped soldier Gilad Shalit. Defense Minister of Israel Amir Peretz calls Syrian President Bashar Assad to "open his eyes, because he is responsible". ](/news/2006/07/3/israel-rejects-ultimatum-to-release-all-palestinian-female-prisoners-prisoners-under-18-and-an-additional-1-000-prisoners-by-6-a-m-tuesd.md)

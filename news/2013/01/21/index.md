@@ -17,7 +17,7 @@ French and Malian troops seize the key Malian towns of Diabaly and Douentza from
 
 ##### Nigeria
 ### [Gunmen seize a Nigerian-owned, Panama-flagged tanker with crew off the coast of Abidjan in the Ivory Coast. ](/news/2013/01/21/gunmen-seize-a-nigerian-owned-panama-flagged-tanker-with-crew-off-the-coast-of-abidjan-in-the-ivory-coast.md)
-_Context: Nigeria, Abidjan, Ivory Coast, Panama_
+_Context: Panama, Abidjan, Ivory Coast, Nigeria_
 
 ##### Algeria
 ### [Algeria confirms that 37 foreign hostages were killed in the hostage crisis, and names the nationalities of the militants. ](/news/2013/01/21/algeria-confirms-that-37-foreign-hostages-were-killed-in-the-hostage-crisis-and-names-the-nationalities-of-the-militants.md)
@@ -45,7 +45,7 @@ _Context: Zimbabwe, Chitungwiza_
 
 ##### Bus
 ### [A passenger bus veers off the Yungas Road and plunges from a height of 300 meters into a ravine in the Yungas region of Bolivia, killing 18 people and injuring 24 others. ](/news/2013/01/21/a-passenger-bus-veers-off-the-yungas-road-and-plunges-from-a-height-of-300-meters-into-a-ravine-in-the-yungas-region-of-bolivia-killing-18.md)
-_Context: Bolivia, Yungas, bus, Yungas Road_
+_Context: bus, Yungas Road, Yungas, Bolivia_
 
 ##### Magnitude
 ### [A 14-year-old girl is killed and 15 people are injured in a 5.9-magnitude earthquake in Indonesia. ](/news/2013/01/21/a-14-year-old-girl-is-killed-and-15-people-are-injured-in-a-5-9-magnitude-earthquake-in-indonesia.md)
@@ -69,7 +69,7 @@ After months of discussions, eurozone finance ministers eventually found a succe
 
 ##### Orwell Day
 ### [The inaugural Orwell Day gets underway, to be followed by a month-long Orwell season on BBC Radio 4, while "Politics and the English Language" is to be given away "en masse". ](/news/2013/01/21/the-inaugural-orwell-day-gets-underway-to-be-followed-by-a-month-long-orwell-season-on-bbc-radio-4-while-politics-and-the-english-languag.md)
-_Context: en masse, BBC Radio 4, Orwell Day, Politics and the English Language_
+_Context: Politics and the English Language, BBC Radio 4, Orwell Day, en masse_
 
 ##### NASA
 ### [NASA's Kepler space telescope is placed in a precautionary 10-day safe mode after engineers noticed a problem with the instrument's orientation mechanism. ](/news/2013/01/21/nasa-s-kepler-space-telescope-is-placed-in-a-precautionary-10-day-safe-mode-after-engineers-noticed-a-problem-with-the-instrument-s-orientat.md)

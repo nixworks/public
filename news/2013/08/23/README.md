@@ -37,7 +37,7 @@ _Context: Nidal Malik Hassan, Fort Hood massacre_
 
 ##### Robert Bales
 ### [Former U.S. Army Sergeant Robert Bales is sentenced to life in prison without parole for the killing of 16 Afghan civilians in March 2012. ](/news/2013/08/23/former-u-s-army-sergeant-robert-bales-is-sentenced-to-life-in-prison-without-parole-for-the-killing-of-16-afghan-civilians-in-march-2012.md)
-_Context: life in prison without parole, Robert Bales, Afghan_
+_Context: Afghan, life in prison without parole, Robert Bales_
 
 ##### Bob Filner
 ### [Bob Filner, mayor of San Diego, California, due to resign on August 30 over sexual harassment allegations. ](/news/2013/08/23/bob-filner-mayor-of-san-diego-california-due-to-resign-on-august-30-over-sexual-harassment-allegations.md)

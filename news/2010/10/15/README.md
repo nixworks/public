@@ -9,23 +9,23 @@ The UN says government troops in the Democratic Republic of Congo might have com
 
 ##### United Kingdom
 ### [Gunmen abduct British and local Save the Children aid workers from a compound in western Somalia. ](/news/2010/10/15/gunmen-abduct-british-and-local-save-the-children-aid-workers-from-a-compound-in-western-somalia.md)
-_Context: Save the Children, Somalia, United Kingdom_
+_Context: United Kingdom, Somalia, Save the Children_
 
 ##### United States soldier
 ### [A United States Army soldier from 5th Stryker Brigade Combat Team is to face a court martial on murder and other charges related to the deaths of civilians in Afghanistan. ](/news/2010/10/15/a-united-states-army-soldier-from-5th-stryker-brigade-combat-team-is-to-face-a-court-martial-on-murder-and-other-charges-related-to-the-deat.md)
-_Context: court martial, United States soldier, 5th Stryker Brigade Combat Team, Afghanistan_
+_Context: Afghanistan, court martial, United States soldier, 5th Stryker Brigade Combat Team_
 
 ##### G4S
 ### [MPs called for a "wide-ranging and independent inquiry" after G4S agents restrain and suffocate Jimmy Mubenga during his deportation from England. ](/news/2010/10/15/mps-called-for-a-wide-ranging-and-independent-inquiry-after-g4s-agents-restrain-and-suffocate-jimmy-mubenga-during-his-deportation-from-en.md)
-_Context: Jimmy Mubenga, G4S, England_
+_Context: England, Jimmy Mubenga, G4S_
 
 ##### Berlin
 ### [A museum in Berlin opens an exhibition on Adolf Hitler and his relationship with the German people, the first museum in Germany to do so. ](/news/2010/10/15/a-museum-in-berlin-opens-an-exhibition-on-adolf-hitler-and-his-relationship-with-the-german-people-the-first-museum-in-germany-to-do-so.md)
-_Context: German, German, Berlin, Adolf Hitler_
+_Context: German, Berlin, Adolf Hitler, German_
 
 ##### U.S.
 ### [US rapper T.I. is sentenced to eleven months in prison for violating the terms of his parole. ](/news/2010/10/15/us-rapper-t-i-is-sentenced-to-eleven-months-in-prison-for-violating-the-terms-of-his-parole.md)
-_Context: rapper, parole, U.S., T.I._
+_Context: parole, rapper, T.I., U.S._
 
 ##### Canton Fair
 ### [Canton Fair opens, China's largest trade fair and a key barometer of its trade and economic development. ](/news/2010/10/15/canton-fair-opens-china-s-largest-trade-fair-and-a-key-barometer-of-its-trade-and-economic-development.md)
@@ -41,11 +41,11 @@ Reckitt Benckiser agrees to pay a £10.2m fine after admitting to abusing its ma
 
 ##### Gotthard Base Tunnel
 ### [The Gotthard Base Tunnel in the Swiss Alps becomes the world's longest railway tunnel, as final breakthrough occurs on the east bore. ](/news/2010/10/15/the-gotthard-base-tunnel-in-the-swiss-alps-becomes-the-world-s-longest-railway-tunnel-as-final-breakthrough-occurs-on-the-east-bore.md)
-_Context: railway tunnel, Switzerland, Alps, Gotthard Base Tunnel_
+_Context: Switzerland, Alps, Gotthard Base Tunnel, railway tunnel_
 
 ##### Nicaragua
 ### [The Nicaraguan Health Ministry reported nine new deaths of leptospirosis in Leon department, to make a total of 17 deaths due to this disease. ](/news/2010/10/15/the-nicaraguan-health-ministry-reported-nine-new-deaths-of-leptospirosis-in-leon-department-to-make-a-total-of-17-deaths-due-to-this-diseas.md)
-_Context: leptospirosis, Nicaragua, Health Ministry_
+_Context: Health Ministry, leptospirosis, Nicaragua_
 
 ##### Chile
 ### [Miners in Chile rescued from the 2010 Copiapo mining accident return home after receiving hospital treatment. ](/news/2010/10/15/miners-in-chile-rescued-from-the-2010-copiapa3-mining-accident-return-home-after-receiving-hospital-treatment.md)
@@ -53,7 +53,7 @@ _Context: Chile, rescue 33 miners trapped_
 
 ##### Alumina
 ### [The Ajkai Timfoldgyar alumina plant in Ajka, Veszprem County, in western Hungary is set to reopen following the accident earlier this month as the death toll reaches nine. ](/news/2010/10/15/the-ajkai-timfapldgya-r-alumina-plant-in-ajka-veszpra-c-m-county-in-western-hungary-is-set-to-reopen-following-the-accident-earlier-this-mon.md)
-_Context: alumina, Veszprem County, Hungary, Ajka, accident earlier this month_
+_Context: Ajka, alumina, accident earlier this month, Hungary, Veszprem County_
 
 ##### Ecuador
 ### [Four miners are trapped underground in southern Ecuador. ](/news/2010/10/15/four-miners-are-trapped-underground-in-southern-ecuador.md)
@@ -69,7 +69,7 @@ Israel unveils preliminary plans for 238 new homes for Jewish settlers in East J
 
 ##### Iran
 ### [Iranian President Mahmoud Ahmadinejad wraps up a controversial visit to Lebanon ](/news/2010/10/15/iranian-president-mahmoud-ahmadinejad-wraps-up-a-controversial-visit-to-lebanon.md)
-_Context: visit, Mahmoud Ahmadinejad, President, Iran, Lebanese_
+_Context: Mahmoud Ahmadinejad, Lebanese, visit, Iran, President_
 
 ##### London
 ### [A London court is told that Saud bin Abdulaziz bin Nasir al Saud, a Saudi prince accused of murdering his servant after sexually assaulting him at a London hotel, could face the death penalty in Saudi Arabia, where homosexuality is illegal, over his alleged gay sex life. ](/news/2010/10/15/a-london-court-is-told-that-saud-bin-abdulaziz-bin-nasir-al-saud-a-saudi-prince-accused-of-murdering-his-servant-after-sexually-assaulting.md)
@@ -81,7 +81,7 @@ Iran says two Germans have admitted breaking the law after they were arrested fo
 
 ##### Countrywide Financial
 ### [Former Countrywide Financial Chief Executive Officer Angelo Mozilo and two other senior executives agree to settle United States Securities and Exchange Commission claims that they misled investors and of insider trading. ](/news/2010/10/15/former-countrywide-financial-chief-executive-officer-angelo-mozilo-and-two-other-senior-executives-agree-to-settle-united-states-securities.md)
-_Context: Countrywide Financial, Chief Executive Officer, Securities and Exchange Commission, U.S., Angelo Mozilo, insider trading_
+_Context: Securities and Exchange Commission, Angelo Mozilo, Chief Executive Officer, U.S., insider trading, Countrywide Financial_
 
 ##### China
 ### [More than 100 Chinese scholars, journalists and lawyers publish an open letter demanding the release of Liu Xiaobo. ](/news/2010/10/15/more-than-100-chinese-scholars-journalists-and-lawyers-publish-an-open-letter-demanding-the-release-of-liu-xiaobo.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2014/01/18/index.html)  [JSON](2014/01/18/index.json)  [XML](201
 
 ##### Iran
 ### [An Iranian diplomat is killed in Yemen's capital Sana'a when he resisted gunmen who were trying to kidnap him near the ambassador's residence. ](/news/2014/01/18/an-iranian-diplomat-is-killed-in-yemen-s-capital-sana-a-when-he-resisted-gunmen-who-were-trying-to-kidnap-him-near-the-ambassador-s-residenc.md)
-_Context: Iran, Sana'a, Yemen_
+_Context: Sana'a, Iran, Yemen_
 
 ##### Russia
 ### [Seven suspected militants are killed by Russian security forces in a shootout near Makhachkala in Dagestan. ](/news/2014/01/18/seven-suspected-militants-are-killed-by-russian-security-forces-in-a-shootout-near-makhachkala-in-dagestan.md)
@@ -25,11 +25,11 @@ _Context: Papua New Guinea, Belden Namah_
 
 ##### Autopsy
 ### [An autopsy finds Sunanda Pushkar, the wife of Indian cabinet minister Shashi Tharoor found dead in her hotel room on Friday, had died a "sudden and unnatural death". ](/news/2014/01/18/an-autopsy-finds-sunanda-pushkar-the-wife-of-indian-cabinet-minister-shashi-tharoor-found-dead-in-her-hotel-room-on-friday-had-died-a-sud.md)
-_Context: India, autopsy, Shashi Tharoor, Sunanda Pushkar_
+_Context: Shashi Tharoor, Sunanda Pushkar, autopsy, India_
 
 ##### Egyptian constitutional referendum, 2014
 ### [Egypt's election council claims that 98.1% of voters supported the new military-backed constitution with a 38.6% turnout. ](/news/2014/01/18/egypt-s-election-council-claims-that-98-1-of-voters-supported-the-new-military-backed-constitution-with-a-38-6-turnout.md)
-_Context: Egyptian constitutional referendum, 2014, constitution, Egypt, Egyptian military_
+_Context: Egyptian constitutional referendum, 2014, Egyptian military, constitution, Egypt_
 
 ## [Previous Day...](/news/2014/01/17/index.md)
 

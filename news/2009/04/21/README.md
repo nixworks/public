@@ -5,15 +5,15 @@ Formats: [HTML](2009/04/21/index.html)  [JSON](2009/04/21/index.json)  [XML](200
 
 ##### Yahoo!
 ### [ Yahoo! will cut between 600 and 700 jobs. ](/news/2009/04/21/yahoo-will-cut-between-600-and-700-jobs.md)
-_Context: Yahoo!, cut_
+_Context: cut, Yahoo!_
 
 ##### Maritime forces
 ### [ Twelve navies from the Americas begin annual UNITAS Gold exercises near Florida, United States. ](/news/2009/04/21/twelve-navies-from-the-americas-begin-annual-unitas-gold-exercises-near-florida-united-states.md)
-_Context: Americas, UNITAS Gold, drill, maritime forces, U.S., the state_
+_Context: the state, drill, U.S., Americas, maritime forces, UNITAS Gold_
 
 ##### World Digital Library
 ### [ The World Digital Library launches at UNESCO's headquarters in Paris, France. ](/news/2009/04/21/the-world-digital-library-launches-at-unesco-s-headquarters-in-paris-france.md)
-_Context: Paris, World Digital Library, France, UNESCO_
+_Context: UNESCO, World Digital Library, Paris, France_
 
 ##### The Wall Street Journal
 ### [ "The Wall Street Journal" reports that cyber-spies have hacked the U.S. Joint Strike Fighter Program. ](/news/2009/04/21/the-wall-street-journal-reports-that-cyber-spies-have-hacked-the-u-s-joint-strike-fighter-program.md)
@@ -25,7 +25,7 @@ _Context: inflation, Retail Prices Index, United Kingdom_
 
 ##### Killed
 ### [ Twenty-four people are killed during combat between the Mungiki criminal organization and citizens of Karatina in Kenya. ](/news/2009/04/21/twenty-four-people-are-killed-during-combat-between-the-mungiki-criminal-organization-and-citizens-of-karatina-in-kenya.md)
-_Context: Kenya, Mungiki, killed, organized crime, citizen, Karatina_
+_Context: citizen, Kenya, Mungiki, organized crime, Karatina, killed_
 
 ##### Extrasolar planet
 ### [ The smallest confirmed extrasolar planet, Gliese 581 e, is discovered. ](/news/2009/04/21/the-smallest-confirmed-extrasolar-planet-gliese-581-e-is-discovered.md)

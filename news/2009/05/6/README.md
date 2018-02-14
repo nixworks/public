@@ -9,15 +9,15 @@ _Context: telecom, European Union, European Parliament, reform_
 
 ##### U.S.
 ### [ The United States Supervisory Capital Assessment Program finds that financial services companies JPMorgan Chase, and American Express do not need more capital from the Troubled Asset Relief Program. ](/news/2009/05/6/the-united-states-supervisory-capital-assessment-program-finds-that-financial-services-companies-jpmorgan-chase-and-american-express-do-no.md)
-_Context: JPMorgan Chase, companies, financial services, capital, American Express, Troubled Asset Relief Program, stress test, U.S._
+_Context: companies, financial services, capital, American Express, U.S., stress test, JPMorgan Chase, Troubled Asset Relief Program_
 
 ##### Car bomb
 ### [ A car bomb kills at least ten people and injures 30 others in Dora, Baghdad, Iraq. ](/news/2009/05/6/a-car-bomb-kills-at-least-ten-people-and-injures-30-others-in-dora-baghdad-iraq.md)
-_Context: car bomb, Baghdad, Dora, Iraq_
+_Context: Baghdad, car bomb, Iraq, Dora_
 
 ##### Taliban
 ### [ The Taliban captures Mingora, Swat, Pakistan. ](/news/2009/05/6/the-taliban-captures-mingora-swat-pakistan.md)
-_Context: Mingora, War in North-West Pakistan, Swat, Pakistan, Pakistan, Taliban_
+_Context: War in North-West Pakistan, Mingora, Taliban, Pakistan, Swat, Pakistan_
 
 ##### Czech Republic
 ### [ Czech President Vaclav Klaus postpones his signing of the Senate-approved Treaty of Lisbon. ](/news/2009/05/6/czech-president-va-clav-klaus-postpones-his-signing-of-the-senate-approved-treaty-of-lisbon.md)
@@ -25,11 +25,11 @@ Czech President Vaclav Klaus has said he will not sign the EU&#39;s Lisbon Treat
 
 ##### Guinea
 ### [ Guinea withdraws ambassadors from 30 countries worldwide. ](/news/2009/05/6/guinea-withdraws-ambassadors-from-30-countries-worldwide.md)
-_Context: Guinea, withdraws, ambassador_
+_Context: withdraws, Guinea, ambassador_
 
 ##### Somalia
 ### [ Somali pirates hijack Germany's MV "Victoria" and release the United Arab Emirates' MV "Al Meezan". ](/news/2009/05/6/somali-pirates-hijack-germany-s-mv-victoria-and-release-the-united-arab-emirates-mv-al-meezan.md)
-_Context: Somalia, German, pirate, United Arab Emirates, Somali pirates, MV_
+_Context: pirate, German, Somali pirates, Somalia, MV, United Arab Emirates_
 
 ##### U.S. state
 ### [ The U.S. state of Maine legalizes same-sex marriage. ](/news/2009/05/6/the-u-s-state-of-maine-legalizes-same-sex-marriage.md)

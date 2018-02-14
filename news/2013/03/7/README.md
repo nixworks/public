@@ -9,7 +9,7 @@ Malaysian security forces killed 31 Filipino gunmen on Borneo Island, officials 
 
 ##### Hilary Mantel
 ### [Hilary Mantel is awarded the 2013 David Cohen Prize for literature. ](/news/2013/03/7/hilary-mantel-is-awarded-the-2013-david-cohen-prize-for-literature.md)
-_Context: David Cohen Prize, Hilary Mantel, literature_
+_Context: David Cohen Prize, literature, Hilary Mantel_
 
 ##### Gas explosion
 ### [Six people are injured and four more could be hospitalized (none are believed critically injured) after a gas explosion at American Steel (part of Amsted Rail Co.), in the Greater St. Louis Metro East suburb of Granite City, Illinois. ](/news/2013/03/7/six-people-are-injured-and-four-more-could-be-hospitalized-none-are-believed-critically-injured-after-a-gas-explosion-at-american-steel-p.md)
@@ -21,7 +21,7 @@ North Korea threatened the United States on Thursday with a preemptive nuclear s
 
 ##### Italy
 ### [Former Italian Prime Minister Silvio Berlusconi is convicted of arranging an illegal wiretap and is sentenced to a year in jail. ](/news/2013/03/7/former-italian-prime-minister-silvio-berlusconi-is-convicted-of-arranging-an-illegal-wiretap-and-is-sentenced-to-a-year-in-jail.md)
-_Context: Silvio Berlusconi, Italian Prime Minister, Italy, wiretap_
+_Context: Silvio Berlusconi, Italy, wiretap, Italian Prime Minister_
 
 ##### Vicky Pryce
 ### [Vicky Pryce, ex-wife of former UK Cabinet Minister Chris Huhne is convicted of perverting the course of justice after accepting speeding penalty points on Huhne's behalf. ](/news/2013/03/7/vicky-pryce-ex-wife-of-former-uk-cabinet-minister-chris-huhne-is-convicted-of-perverting-the-course-of-justice-after-accepting-speeding-pen.md)
@@ -33,15 +33,15 @@ Hilton Botha, the former lead detective in the murder case involving Paralympian
 
 ##### Sulaiman Abu Ghaith
 ### [Sulaiman Abu Ghaith, alleged spokesman for al-Qaeda and said to be the son-in-law of Osama bin Laden, is captured in Jordan and faces criminal charges in the United States. ](/news/2013/03/7/sulaiman-abu-ghaith-alleged-spokesman-for-al-qaeda-and-said-to-be-the-son-in-law-of-osama-bin-laden-is-captured-in-jordan-and-faces-crimin.md)
-_Context: Sulaiman Abu Ghaith, Jordan, al-Qaeda, Osama bin Laden, U.S._
+_Context: Osama bin Laden, al-Qaeda, Jordan, Sulaiman Abu Ghaith, U.S._
 
 ##### Denis Napthine
 ### [Denis Napthine is sworn in as the Premier of the Australian state of Victoria replacing Ted Baillieu. ](/news/2013/03/7/denis-napthine-is-sworn-in-as-the-premier-of-the-australian-state-of-victoria-replacing-ted-baillieu.md)
-_Context: Ted Baillieu, Australia, Victoria, Denis Napthine, Premier_
+_Context: Victoria, Premier, Denis Napthine, Ted Baillieu, Australia_
 
 ##### Kenya
 ### [In Kenya, Kalonzo Musyoka, the running mate of Prime Minister Raila Odinga, claims that votes in the Kenyan presidential election have been doctored. ](/news/2013/03/7/in-kenya-kalonzo-musyoka-the-running-mate-of-prime-minister-raila-odinga-claims-that-votes-in-the-kenyan-presidential-election-have-been.md)
-_Context: Kalonzo Musyoka, Raila Odinga, Kenya, running mate, Prime Minister, Kenyan presidential election_
+_Context: Raila Odinga, running mate, Kenya, Kenyan presidential election, Kalonzo Musyoka, Prime Minister_
 
 ##### U.S.
 ### [In the United States, Senator Rand Paul ends a 13-hour filibuster to block voting on the nomination of John O. Brennan as the Director of the CIA, questioning President Barack Obama and his administration's use of drones, and the stated legal justification for hypothetical lethal use within the United States targeting against noncombatants. Attorney General Eric Holder states that combat drones would not be used to target and kill, without due process, Americans not engaged in combat on American soil. ](/news/2013/03/7/in-the-united-states-senator-rand-paul-ends-a-13-hour-filibuster-to-block-voting-on-the-nomination-of-john-o-brennan-as-the-director-of-th.md)
@@ -49,7 +49,7 @@ Sen. Rand Paul declared victory Thursday after Attorney General Eric Holder assu
 
 ##### CSeries jets
 ### [The first built Bombardier CSeries test aircraft is publicly presented during a program update event at the Montreal-Mirabel International Airport, where the manufacturer, Bombardier Aerospace, has its Final Assembly Line facility and flight test facility. ](/news/2013/03/7/the-first-built-bombardier-cseries-test-aircraft-is-publicly-presented-during-a-program-update-event-at-the-montra-c-alamirabel-internationa.md)
-_Context: Montreal-Mirabel International Airport, Bombardier Aerospace, CSeries jets_
+_Context: CSeries jets, Bombardier Aerospace, Montreal-Mirabel International Airport_
 
 ## [Previous Day...](/news/2013/03/6/index.md)
 

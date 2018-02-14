@@ -25,11 +25,11 @@ A Chinese court gives former Railways Minister Liu Zhijun a suspended death sent
 
 ##### France
 ### [A French court clears oil company Total S.A., its chief executive and over a dozen defendants of corruption charges related to the United Nations oil-for-food programme in Iraq. ](/news/2013/07/8/a-french-court-clears-oil-company-total-s-a-its-chief-executive-and-over-a-dozen-defendants-of-corruption-charges-related-to-the-united-na.md)
-_Context: Total, United Nations, Iraq, France, oil-for-food programme_
+_Context: Iraq, France, oil-for-food programme, United Nations, Total_
 
 ##### Syrian Ba'ath Party
 ### [The Syrian Ba'ath Party announces a shakeup of leadership positions with Vice President Farouk al-Sharaa losing his position. ](/news/2013/07/8/the-syrian-ba-ath-party-announces-a-shakeup-of-leadership-positions-with-vice-president-farouk-al-sharaa-losing-his-position.md)
-_Context: Vice President, Farouk al-Sharaa, Syrian Ba'ath Party_
+_Context: Syrian Ba'ath Party, Farouk al-Sharaa, Vice President_
 
 ##### Syrian
 ### [The Syrian opposition figure Ghassan Hitto task with forming an interim government to administer rebel-held areas has resigned, citing an inability to do so during a meeting in Istanbul. ](/news/2013/07/8/the-syrian-opposition-figure-ghassan-hitto-task-with-forming-an-interim-government-to-administer-rebel-held-areas-has-resigned-citing-an-in.md)
@@ -41,7 +41,7 @@ Texas Governor Rick Perry announces he will retire instead of seeking a fourth t
 
 ##### NASA
 ### [NASA Curiosity Mars rover begins its mission to its destination and drives to Mount Sharp. ](/news/2013/07/8/nasa-curiosity-mars-rover-begins-its-mission-to-its-destination-and-drives-to-mount-sharp.md)
-_Context: Aeolis Mons, Mars, Curiosity, NASA_
+_Context: NASA, Aeolis Mons, Curiosity, Mars_
 
 ##### Pope Francis
 ### [Pope Francis visits the tiny Italian island of Lampedusa, holds a mass to pay tribute to the many immigrants who have drowned trying to reach Europe and condemns the "global indifference" to their plight. ](/news/2013/07/8/pope-francis-visits-the-tiny-italian-island-of-lampedusa-holds-a-mass-to-pay-tribute-to-the-many-immigrants-who-have-drowned-trying-to-reac.md)

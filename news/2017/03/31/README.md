@@ -5,15 +5,15 @@ Formats: [HTML](2017/03/31/index.html)  [JSON](2017/03/31/index.json)  [XML](201
 
 ##### War in North-West Pakistan
 ### [A bomb targets a mosque in the city of Parachinar near the border with Afghanistan killing at least 22 people and wounding dozens more. ](/news/2017/03/31/a-bomb-targets-a-mosque-in-the-city-of-parachinar-near-the-border-with-afghanistan-killing-at-least-22-people-and-wounding-dozens-more.md)
-_Context: War in North-West Pakistan, mosque, Afghanistan, Parachinar_
+_Context: mosque, Parachinar, Afghanistan, War in North-West Pakistan_
 
 ##### Cyclone Debbie
 ### [Authorities find a woman's body near the town of Murwillumbah, New South Wales, bringing the number of confirmed storm fatalities to at least two people. There are fears that more people could be missing in the Northern Rivers region of New South Wales. ](/news/2017/03/31/authorities-find-a-woman-s-body-near-the-town-of-murwillumbah-new-south-wales-bringing-the-number-of-confirmed-storm-fatalities-to-at-leas.md)
-_Context: NSW, Murwillumbah, New South Wales, Cyclone Debbie, Northern Rivers_
+_Context: NSW, Cyclone Debbie, Northern Rivers, Murwillumbah, New South Wales_
 
 ##### Interstate 85 bridge collapse
 ### [Officials state that repairs will take months following a fire that collapsed a bridge on Interstate 85 in Atlanta, Georgia. Police arrest three individuals in connection with the disaster, charging two with criminal trespass and one with first degree criminal damage. ](/news/2017/03/31/officials-state-that-repairs-will-take-months-following-a-fire-that-collapsed-a-bridge-on-interstate-85-in-atlanta-georgia-police-arrest-t.md)
-_Context: Atlanta, Georgia, Interstate 85, Interstate 85 bridge collapse_
+_Context: Interstate 85 bridge collapse, Atlanta, Georgia, Interstate 85_
 
 ##### NATO
 ### [At a NATO meeting, German foreign minister Sigmar Gabriel rejects as "quite unrealistic" the belief that Germany would spend 2% of GDP on the military. He says other spending such as development aid should be taken into account. ](/news/2017/03/31/at-a-nato-meeting-german-foreign-minister-sigmar-gabriel-rejects-as-quite-unrealistic-the-belief-that-germany-would-spend-2-of-gdp-on-th.md)
@@ -37,7 +37,7 @@ New York Mayor Bill de Blasio says he wants to close the troubled Rikers Island 
 
 ##### President
 ### [President of South Africa Jacob Zuma fires finance minister Pravin Gordhan amid a major cabinet reshuffle. The South African rand plunges. ](/news/2017/03/31/president-of-south-africa-jacob-zuma-fires-finance-minister-pravin-gordhan-amid-a-major-cabinet-reshuffle-the-south-african-rand-plunges.md)
-_Context: Jacob Zuma, finance minister, rand, Pravin Gordhan, President_
+_Context: President, Jacob Zuma, Pravin Gordhan, finance minister, rand_
 
 ##### Protests against this change that turned violent
 ### [Some individuals set the Congress of Paraguay on fire. The attack occurs during a protest against a bill that would let the president seek re-election. ](/news/2017/03/31/some-individuals-set-the-congress-of-paraguay-on-fire-the-attack-occurs-during-a-protest-against-a-bill-that-would-let-the-president-seek-r.md)

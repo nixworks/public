@@ -21,7 +21,7 @@ Fourteen people have been killed in China in the heaviest rains in a century bro
 
 ##### Harris County, Texas
 ### [A man is in custody in Harris County, Texas, after six children and two adults are found dead near the U.S. city of Houston. ](/news/2015/08/8/a-man-is-in-custody-in-harris-county-texas-after-six-children-and-two-adults-are-found-dead-near-the-u-s-city-of-houston.md)
-_Context: Harris County, Texas, six children and two adults are found dead, Houston, Texas_
+_Context: Houston, Texas, Harris County, Texas, six children and two adults are found dead_
 
 ## [Previous Day...](/news/2015/08/7/index.md)
 

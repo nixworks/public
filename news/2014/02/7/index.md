@@ -25,11 +25,11 @@ _Context: Russia_
 
 ##### Australian
 ### [Australian Schapelle Corby is granted parole (along with 1,290 others) in Indonesia after serving nine years in a Bali prison for drug smuggling. ](/news/2014/02/7/australian-schapelle-corby-is-granted-parole-along-with-1-290-others-in-indonesia-after-serving-nine-years-in-a-bali-prison-for-drug-smugg.md)
-_Context: Indonesia, Australian, Bali, Schapelle Corby_
+_Context: Bali, Indonesia, Schapelle Corby, Australian_
 
 ##### Chief Justice
 ### [U.S. Chief Justice John Roberts announces he appointed Judge Richard C. Tallman of the Ninth Circuit to the United States Foreign Intelligence Surveillance Court of Review for a six-year term beginning January 27, 2014, filling the vacancy that had existed since August, and Judge James E. Boasberg of the United States District Court for the District of Columbia to replace Reggie Walton in the United States Foreign Intelligence Surveillance Court for a six-year term in May. ](/news/2014/02/7/u-s-chief-justice-john-roberts-announces-he-appointed-judge-richard-c-tallman-of-the-ninth-circuit-to-the-united-states-foreign-intelligen.md)
-_Context: James E. Boasberg, John Roberts, United States Foreign Intelligence Surveillance Court, Richard C. Tallman, United States Foreign Intelligence Surveillance Court of Review, Reggie Walton, United States Court of Appeals for the Ninth Circuit, U.S. District Court for the District of Columbia, Chief Justice_
+_Context: John Roberts, U.S. District Court for the District of Columbia, Richard C. Tallman, Reggie Walton, United States Foreign Intelligence Surveillance Court of Review, James E. Boasberg, United States Foreign Intelligence Surveillance Court, United States Court of Appeals for the Ninth Circuit, Chief Justice_
 
 ## [Previous Day...](/news/2014/02/6/index.md)
 

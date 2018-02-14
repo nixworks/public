@@ -13,23 +13,23 @@ Brazil has become Chile&rsquo;s third largest trading partner, displacing Japan,
 
 ##### South Africa
 ### [ South African President Jacob Zuma makes a pilgrimage to a former anti-apartheid guerrilla camp in Angola where he lays a wreath and pays tribute to fallen comrades. ](/news/2009/08/21/south-african-president-jacob-zuma-makes-a-pilgrimage-to-a-former-anti-apartheid-guerrilla-camp-in-angola-where-he-lays-a-wreath-and-pays-t.md)
-_Context: South Africa, apartheid, President, Angola, Jacob Zuma_
+_Context: President, apartheid, Angola, Jacob Zuma, South Africa_
 
 ##### Seretse Ian Khama
 ### [ The presidents or heads of state of five nations, including Seretse Ian Khama of Botswana and Robert Mugabe of Zimbabwe, along with ministers and musical troupes gather at the cricket stadium in Oranjemund, Namibia, for a welcoming ceremony at the conclusion of explorer Kingsley Holgate's latest expedition, which took him through nine countries. ](/news/2009/08/21/the-presidents-or-heads-of-state-of-five-nations-including-seretse-ian-khama-of-botswana-and-robert-mugabe-of-zimbabwe-along-with-ministe.md)
-_Context: Kingsley Holgate, Oranjemund, Namibia, cricketer, Zimbabwe, Robert Mugabe, Botswana, Seretse Ian Khama_
+_Context: cricketer, Oranjemund, Seretse Ian Khama, Namibia, Botswana, Kingsley Holgate, Robert Mugabe, Zimbabwe_
 
 ##### William Calley
 ### [ William Calley, the former US army officer found guilty of organizing mass killings in the Vietnamese community of My Lai during the Vietnam War makes a public apology.](/news/2009/08/21/william-calley-the-former-us-army-officer-found-guilty-of-organizing-mass-killings-in-the-vietnamese-community-of-my-lai-during-the-vietna.md)
-_Context: My Lai, mass killings, Vietnam War, William Calley_
+_Context: My Lai, Vietnam War, mass killings, William Calley_
 
 ##### Combat drone
 ### [ A missile fired from a U.S. unmanned plane destroyed a suspected militant hide-out in northwest Pakistan on Friday, killing at least 12 people in a stronghold of a jihadi leader blamed for attacks in Afghanistan. ](/news/2009/08/21/a-missile-fired-from-a-u-s-unmanned-plane-destroyed-a-suspected-militant-hide-out-in-northwest-pakistan-on-friday-killing-at-least-12-peo.md)
-_Context: Afghanistan, combat drone, Pakistan_
+_Context: combat drone, Pakistan, Afghanistan_
 
 ##### Suicide bombing
 ### [ Four policemen are killed after 4 suicide bombs on bicycles detonate in Grozny, Chechnya. ](/news/2009/08/21/four-policemen-are-killed-after-4-suicide-bombs-on-bicycles-detonate-in-grozny-chechnya.md)
-_Context: suicide bombing, bicycles, Grozny, Chechnya_
+_Context: bicycles, suicide bombing, Chechnya, Grozny_
 
 ##### North Korea
 ### [ A North Korean delegation arrives in South Korea to mourn the death of former South Korean President Kim Dae-jung. ](/news/2009/08/21/a-north-korean-delegation-arrives-in-south-korea-to-mourn-the-death-of-former-south-korean-president-kim-dae-jung.md)
@@ -37,7 +37,7 @@ Team visits Seoul to pay respects to former president, but will not attend funer
 
 ##### Clashes
 ### [ 20 people are killed and 40 injured after clashes between pro-government and Islamist forces in Mogadishu, Somalia. ](/news/2009/08/21/20-people-are-killed-and-40-injured-after-clashes-between-pro-government-and-islamist-forces-in-mogadishu-somalia.md)
-_Context: Somalia, clashes, Islam, Mogadishu_
+_Context: Islam, Somalia, Mogadishu, clashes_
 
 ##### Rockfall
 ### [ A rockfall on a beach in the Algarve, Portugal, kills 5 holidaymakers and injures several others. ](/news/2009/08/21/a-rockfall-on-a-beach-in-the-algarve-portugal-kills-5-holidaymakers-and-injures-several-others.md)
@@ -49,15 +49,15 @@ Small-scale possession is decriminalised as part of attempt to focus on traffick
 
 ##### U.S. President
 ### [ U.S. President Barack Obama condemns Lockerbie bomber Abdelbaset al-Megrahi's homecoming in Libya. ](/news/2009/08/21/u-s-president-barack-obama-condemns-lockerbie-bomber-abdelbaset-al-megrahi-s-homecoming-in-libya.md)
-_Context: Libya, U.S. President, Barack Obama, Abdelbaset al-Megrahi, Lockerbie bombing_
+_Context: Abdelbaset al-Megrahi, U.S. President, Libya, Barack Obama, Lockerbie bombing_
 
 ##### Tunisia
 ### [ A 34-year-old Tunisian woman from Gafsa, thought to have been pregnant with 12 babies and whose story had attracted international attention, is determined to have been the victim of a phantom pregnancy. ](/news/2009/08/21/a-34-year-old-tunisian-woman-from-gafsa-thought-to-have-been-pregnant-with-12-babies-and-whose-story-had-attracted-international-attention.md)
-_Context: Tunisia, Gafsa, phantom pregnancy, pregnant_
+_Context: Tunisia, pregnant, phantom pregnancy, Gafsa_
 
 ##### Lszl Slyom
 ### [ Lszl Slyom, President of Hungary was declared unwelcome by Slovakia and was not allowed to step on Slovak soil to attend an unveiling of a statue depicting King Saint Stephen, first King of Hungary. ](/news/2009/08/21/laszlo-solyom-president-of-hungary-was-declared-unwelcome-by-slovakia-and-was-not-allowed-to-step-on-slovak-soil-to-attend-an-unveiling-of.md)
-_Context: President of Hungary, declared unwelcome, King Saint Stephen, Lszl Slyom, King of Hungary, Slovakia_
+_Context: Lszl Slyom, King of Hungary, King Saint Stephen, declared unwelcome, Slovakia, President of Hungary_
 
 ## [Previous Day...](/news/2009/08/20/index.md)
 

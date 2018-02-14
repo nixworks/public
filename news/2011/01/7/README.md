@@ -17,7 +17,7 @@ _Context: Juticalpa, Honduras, Catacamas_
 
 ##### West Bengal
 ### [Six people are killed and 20 injured in political violence in West Bengal, India. ](/news/2011/01/7/six-people-are-killed-and-20-injured-in-political-violence-in-west-bengal-india.md)
-_Context: West Bengal, India_
+_Context: India, West Bengal_
 
 ##### South Korea
 ### [South Korea lowers its surveillance alert level against North Korea. ](/news/2011/01/7/south-korea-lowers-its-surveillance-alert-level-against-north-korea.md)
@@ -33,7 +33,7 @@ The ruling voided two foreclosures, putting the nation’s banks on notice that 
 
 ##### French President
 ### [French President Nicolas Sarkozy and First Lady Carla Bruni begin an official trip to the overseas departments of Guadeloupe and Martinique. ](/news/2011/01/7/french-president-nicolas-sarkozy-and-first-lady-carla-bruni-begin-an-official-trip-to-the-overseas-departments-of-guadeloupe-and-martinique.md)
-_Context: Martinique, Carla Bruni, French President, Nicolas Sarkozy, Guadeloupe_
+_Context: Nicolas Sarkozy, Guadeloupe, French President, Carla Bruni, Martinique_
 
 ##### Ghana
 ### [Ghana says a threat of force by the Economic Community of West African States to remove Ivorian President Laurent Gbagbo would "not bring about peace" in the country. ](/news/2011/01/7/ghana-says-a-threat-of-force-by-the-economic-community-of-west-african-states-to-remove-ivorian-president-laurent-gbagbo-would-not-bring-ab.md)
@@ -41,7 +41,7 @@ A plan by West African leaders for a military intervention in Ivory Coast’s po
 
 ##### Laurent Gbagbo
 ### [Laurent Gbagbo expels the ambassadors for Canada and the United Kingdom from Cote d'Ivoire. Both nations reject the decision, recognizing Alassane Ouattara as the rightful President. ](/news/2011/01/7/laurent-gbagbo-expels-the-ambassadors-for-canada-and-the-united-kingdom-from-ca-te-d-ivoire-both-nations-reject-the-decision-recognizing-a.md)
-_Context: United Kingdom, Alassane Ouattara, Cote d'Ivoire, Canadian, Laurent Gbagbo_
+_Context: United Kingdom, Cote d'Ivoire, Alassane Ouattara, Laurent Gbagbo, Canadian_
 
 ##### Chile
 ### [Chile recognises the State of Palestine. ](/news/2011/01/7/chile-recognises-the-state-of-palestine.md)
@@ -61,11 +61,11 @@ Former Labour MP David Chaytor is jailed for 18 months for fraudulently claiming
 
 ##### United Nations
 ### [The United Nations says thousands of people are arriving in Southern Sudan from north Sudan ahead of the independence referendum on Sunday. ](/news/2011/01/7/the-united-nations-says-thousands-of-people-are-arriving-in-southern-sudan-from-north-sudan-ahead-of-the-independence-referendum-on-sunday.md)
-_Context: Southern Sudanese Independence Referendum, Southern Sudan, United Nations, Sudan_
+_Context: Southern Sudan, United Nations, Southern Sudanese Independence Referendum, Sudan_
 
 ##### China
 ### [Parents in China demand compensation after more than 200 children are poisoned by lead. ](/news/2011/01/7/parents-in-china-demand-compensation-after-more-than-200-children-are-poisoned-by-lead.md)
-_Context: lead contamination, China_
+_Context: China, lead contamination_
 
 ##### Algeria
 ### [Youths in Algeria riot for a second night in unrest over social and political grievances. ](/news/2011/01/7/youths-in-algeria-riot-for-a-second-night-in-unrest-over-social-and-political-grievances.md)

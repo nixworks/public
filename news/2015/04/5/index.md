@@ -13,7 +13,7 @@ _Context: Chile_
 
 ##### Stefan Lofven
 ### [Swedish Prime Minister Stefan Lofven says that neither he nor any other of his cabinet-level ministers will be attending the 70th anniversary of the end of World War II in Moscow due to Russia's actions in Ukraine. Sweden joins a large group of European countries unofficially boycotting the May 9th Victory Day parade. ](/news/2015/04/5/swedish-prime-minister-stefan-lapfven-says-that-neither-he-nor-any-other-of-his-cabinet-level-ministers-will-be-attending-the-70th-anniversa.md)
-_Context: Victory Day, World War II, military intervention in Ukraine, Sweden, Stefan Lofven_
+_Context: military intervention in Ukraine, Sweden, Victory Day, World War II, Stefan Lofven_
 
 ##### Mass suicide
 ### [Dozens of Chinese taxi drivers attempt a mass suicide in Beijing to protest the way taxi companies renewed their vehicle leases. ](/news/2015/04/5/dozens-of-chinese-taxi-drivers-attempt-a-mass-suicide-in-beijing-to-protest-the-way-taxi-companies-renewed-their-vehicle-leases.md)

@@ -29,7 +29,7 @@ Environment Agency chairman Sir Philip Dilley has quit after coming under fire f
 
 ##### New Year's Eve sexual assaults in Germany
 ### [Thousands of protesters in Leipzig demonstrate against a record refugee influx they blame for mass sexual violence at New Year's Eve events in Cologne and other German cities. Many chanted 'We are the people', 'Resistance!' and 'Deport them!'. The rally was organized by a local chapter of PEGIDA (Patriotic Europeans Against the Islamisation of the Occident). Six Pakistani men and one Syrian man were also attacked by so-called vigilantes in Cologne, following calls on social media for "revenge" in the wake of the New Year's Eve assaults. ](/news/2016/01/11/thousands-of-protesters-in-leipzig-demonstrate-against-a-record-refugee-influx-they-blame-for-mass-sexual-violence-at-new-year-s-eve-events.md)
-_Context: Leipzig, European migrant crisis, Pegida, New Year's Eve sexual assaults in Germany, Cologne, Pakistan, social media, Syria_
+_Context: Pegida, European migrant crisis, Cologne, Pakistan, New Year's Eve sexual assaults in Germany, Leipzig, Syria, social media_
 
 ## [Previous Day...](/news/2016/01/10/index.md)
 

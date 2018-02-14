@@ -21,7 +21,7 @@ _Context: fowl, inoculation, Lyon_
 
 ##### Roberto Calderoli
 ### [ Italian reform minister Roberto Calderoli resigns after criticism for wearing a T-shirt depicting the cartoons. The incident triggered yesterday's rioting outside the Italian consulate in Benghazi, Libya, in which at least 10 people died. ](/news/2006/02/18/italian-reform-minister-roberto-calderoli-resigns-after-criticism-for-wearing-a-t-shirt-depicting-the-cartoons-the-incident-triggered-yest.md)
-_Context: cartoon, consulate, T-shirt, Libya, Benghazi, Roberto Calderoli_
+_Context: Libya, cartoon, T-shirt, Roberto Calderoli, Benghazi, consulate_
 
 ## [Previous Day...](/news/2006/02/17/index.md)
 

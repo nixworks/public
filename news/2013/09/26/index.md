@@ -13,7 +13,7 @@ Kenya seeks the arrest of Briton Samantha Lewthwaite - suspected al-Shabab membe
 
 ##### Al-Shabaab
 ### [Al-Shabaab militants attack two Kenyan towns near the Somali border. ](/news/2013/09/26/al-shabaab-militants-attack-two-kenyan-towns-near-the-somali-border.md)
-_Context: Al-Shabaab, Kenya, Somalia_
+_Context: Kenya, Somalia, Al-Shabaab_
 
 ##### Paul Konigsberg
 ### [Authorities in the U.S. arrest Paul Konigsberg, an accountant, charging him with complicity in the Ponzi scheme of former New York financier Bernard Madoff, a scheme that unraveled in 2008. ](/news/2013/09/26/authorities-in-the-u-s-arrest-paul-konigsberg-an-accountant-charging-him-with-complicity-in-the-ponzi-scheme-of-former-new-york-financier.md)

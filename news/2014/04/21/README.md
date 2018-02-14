@@ -13,7 +13,7 @@ Dozens of people have been killed in air strikes on the northern Syrian city of 
 
 ##### 2014 pro-Russian unrest in Ukraine
 ### [According to pro-Russian militants, the bodies of two pro-Russian militants are pulled from the Seversky Donets River in Sloviansk, Ukraine, with both having multiple stab wounds. The claim could not be independently verified. ](/news/2014/04/21/according-to-pro-russian-militants-the-bodies-of-two-pro-russian-militants-are-pulled-from-the-seversky-donets-river-in-sloviansk-ukraine.md)
-_Context: Seversky Donets River, 2014 pro-Russian unrest in Ukraine, Sloviansk_
+_Context: Sloviansk, 2014 pro-Russian unrest in Ukraine, Seversky Donets River_
 
 ##### Al-Qaeda
 ### [30 suspected al-Qaeda militants and 6 civilians are killed in a drone strike by the United States in Yemen. ](/news/2014/04/21/30-suspected-al-qaeda-militants-and-6-civilians-are-killed-in-a-drone-strike-by-the-united-states-in-yemen.md)
@@ -53,7 +53,7 @@ A Saudi court sentences five men to death for their role in three suicide bomb a
 
 ##### US Marshals
 ### [A defendant is shot to death by a U.S. marshal at a U.S. federal court in Salt Lake City, Utah after attempting to attack a witness. ](/news/2014/04/21/a-defendant-is-shot-to-death-by-a-u-s-marshal-at-a-u-s-federal-court-in-salt-lake-city-utah-after-attempting-to-attack-a-witness.md)
-_Context: US Marshals, Salt Lake City, U.S. federal court, Utah_
+_Context: Salt Lake City, Utah, U.S. federal court, US Marshals_
 
 ##### Syrian government
 ### [The Syrian government sets the presidential election for June 3, with opposition groups calling it a "parody of democracy". ](/news/2014/04/21/the-syrian-government-sets-the-presidential-election-for-june-3-with-opposition-groups-calling-it-a-parody-of-democracy.md)

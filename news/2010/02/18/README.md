@@ -33,7 +33,7 @@ Coup leaders suspend constitution after soldiers storm presidential palace in ca
 
 ##### Live Earth
 ### [Live Earth, organizer of The Dow Live Earth Run for Water, Cape Town race director announced The Parlotones concert at the Speir Wine Estate in Cape Town. ](/news/2010/02/18/live-earth-organizer-of-the-dow-live-earth-run-for-water-cape-town-race-director-announced-the-parlotones-concert-at-the-speir-wine-estate.md)
-_Context: Cape Town, The Parlotones, Live Earth, The Dow Live Earth Run for Water_
+_Context: Live Earth, The Parlotones, Cape Town, The Dow Live Earth Run for Water_
 
 ##### United Nations
 ### [The top climate change official at the United Nations and Executive Secretary of the United Nations Framework Convention on Climate Change, Yvo de Boer, announces his resignation. ](/news/2010/02/18/the-top-climate-change-official-at-the-united-nations-and-executive-secretary-of-the-united-nations-framework-convention-on-climate-change.md)

@@ -17,11 +17,11 @@ _Context: Ringling Bros. and Barnum & Bailey Circus_
 
 ##### Pope Francis
 ### [In a surprise appointment by Pope Francis, Bishop Anders Arborelius is the first ever person from Sweden to become a cardinal. ](/news/2017/05/21/in-a-surprise-appointment-by-pope-francis-bishop-anders-arborelius-is-the-first-ever-person-from-sweden-to-become-a-cardinal.md)
-_Context: Pope Francis, Anders Arborelius, cardinal, Sweden_
+_Context: Pope Francis, cardinal, Anders Arborelius, Sweden_
 
 ##### Tim Mosedale
 ### [Mountaineers led by Tim Mosedale confirm suspicions that Mount Everest's famous Hillary Step had completely collapsed. ](/news/2017/05/21/mountaineers-led-by-tim-mosedale-confirm-suspicions-that-mount-everest-s-famous-hillary-step-had-completely-collapsed.md)
-_Context: suspicions, Hillary Step, Mount Everest, Tim Mosedale_
+_Context: suspicions, Mount Everest, Hillary Step, Tim Mosedale_
 
 ##### North Korea's nuclear program
 ### [South Korea reports North Korea fired a Pukguksong-2 intermediate-range ballistic missile that flew 500 km before landing in the Sea of Japan. ](/news/2017/05/21/south-korea-reports-north-korea-fired-a-pukguksong-2-intermediate-range-ballistic-missile-that-flew-500-km-before-landing-in-the-sea-of-japa.md)
@@ -33,7 +33,7 @@ Enes Kanter landed safely back in the United States on Sunday, one day after bei
 
 ##### Swiss referendums, 2017
 ### [Swiss voters approve a referendum to phase out nuclear power in Switzerland and increase renewable energy. ](/news/2017/05/21/swiss-voters-approve-a-referendum-to-phase-out-nuclear-power-in-switzerland-and-increase-renewable-energy.md)
-_Context: Switzerland, nuclear power in Switzerland, Swiss referendums, 2017_
+_Context: Swiss referendums, 2017, nuclear power in Switzerland, Switzerland_
 
 ## [Previous Day...](/news/2017/05/20/index.md)
 

@@ -17,7 +17,7 @@ Nabeel Rajab has been arrested on the eve of his court appearance.
 
 ##### Japan
 ### [Japan shuts down its last nuclear reactor, leaving the country without nuclear power for the first time since 1970. ](/news/2012/05/5/japan-shuts-down-its-last-nuclear-reactor-leaving-the-country-without-nuclear-power-for-the-first-time-since-1970.md)
-_Context: Japan, nuclear reactor, nuclear power_
+_Context: nuclear reactor, nuclear power, Japan_
 
 ##### Lima
 ### [At least 14 people are killed at a fire at a drug rehabilitation centre in Lima. ](/news/2012/05/5/at-least-14-people-are-killed-at-a-fire-at-a-drug-rehabilitation-centre-in-lima.md)
@@ -25,11 +25,11 @@ A fire at a drug rehabilitation centre in the Peruvian capital Lima has killed 1
 
 ##### Nepal
 ### [At least 13 people are killed and dozens of others are declared missing as a result of a Nepal flash flood after a mountain river burst its banks. ](/news/2012/05/5/at-least-13-people-are-killed-and-dozens-of-others-are-declared-missing-as-a-result-of-a-nepal-flash-flood-after-a-mountain-river-burst-its.md)
-_Context: Nepal, flash flood_
+_Context: flash flood, Nepal_
 
 ##### Karaoke
 ### [At least nine people are killed in a fire at a karaoke venue in Busan, South Korea. ](/news/2012/05/5/at-least-nine-people-are-killed-in-a-fire-at-a-karaoke-venue-in-busan-south-korea.md)
-_Context: karaoke, Busan, South Korea_
+_Context: karaoke, South Korea, Busan_
 
 ##### Cambodia
 ### [The Cambodian government closes an investigation into the shooting of anti-logging activist Chhut Vuthy and a military policeman after the arrest of a security guard. ](/news/2012/05/5/the-cambodian-government-closes-an-investigation-into-the-shooting-of-anti-logging-activist-chhut-vuthy-and-a-military-policeman-after-the-a.md)

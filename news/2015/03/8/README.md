@@ -21,15 +21,15 @@ Sam Simon, an Emmy-winning writer and producer, gave away much of his money to c
 
 ##### Tennessee Titans
 ### [A unknown gunman in a vehicle kills Dreekius Oricko Johnson, 28, and wounds former Tennessee Titans and New York Jets running back Chris Johnson in Orlando, Florida. ](/news/2015/03/8/a-unknown-gunman-in-a-vehicle-kills-dreekius-oricko-johnson-28-and-wounds-former-tennessee-titans-and-new-york-jets-running-back-chris-joh.md)
-_Context: Tennessee Titans, Chris Johnson, New York Jets, the state, running back, Orlando_
+_Context: Orlando, New York Jets, the state, Tennessee Titans, running back, Chris Johnson_
 
 ##### Boris Nemtsov's assassination
 ### [A court in Moscow charges two men of Chechen origin, Zaur Dadayev and Ansor Gubashev, who were among five arrested March 7, with the murder of Russian opposition leader Boris Nemtsov. The others also arrested, Gubashev's younger brother Shahid Gubashev and two others named only as Bakhayev and Eskerkhanov, are still only suspects. ](/news/2015/03/8/a-court-in-moscow-charges-two-men-of-chechen-origin-zaur-dadayev-and-ansor-gubashev-who-were-among-five-arrested-march-7-with-the-murder.md)
-_Context: Chechen, Moscow, Zaur Dadayev, Boris Nemtsov's assassination, Boris Nemtsov_
+_Context: Boris Nemtsov's assassination, Moscow, Zaur Dadayev, Chechen, Boris Nemtsov_
 
 ##### U.S. Army
 ### [The U.S. Army, working with the U.S. Navy and NASA, through its Joint Multi-Role Technology Demonstrator transport helicopter re-design program, in the latest issue of Army Technology Magazine, takes note of some new designs Sikorsky-Boeing (the Sikorsky Defiant, which like the existing Sikorsky X2 and Sikorsky S-97 Raider, features a faster pusher propeller) and Bell Helicopter (the V-280 Valor, which resembles a slimmed-down version of the tilt-rotor V-22 Osprey, and comes in three versions: a troop- and equipment-carrying utility style, a medevac, and an attack chopper) have come up with since they were selected by the Pentagon in August 2014. ](/news/2015/03/8/the-u-s-army-working-with-the-u-s-navy-and-nasa-through-its-joint-multi-role-technology-demonstrator-transport-helicopter-re-design-prog.md)
-_Context: Joint Multi-Role Technology Demonstrator transport helicopter re-design program, NASA, Bell Helicopter, Sikorsky X2, Sikorsky Defiant, V-22 Osprey, tilt-rotor, Sikorsky S-97 Raider, pusher propeller, V-280 Valor, U.S. Navy, U.S. Army_
+_Context: Sikorsky Defiant, U.S. Navy, Sikorsky S-97 Raider, Joint Multi-Role Technology Demonstrator transport helicopter re-design program, Sikorsky X2, Bell Helicopter, V-22 Osprey, pusher propeller, U.S. Army, V-280 Valor, NASA, tilt-rotor_
 
 ## [Previous Day...](/news/2015/03/7/index.md)
 

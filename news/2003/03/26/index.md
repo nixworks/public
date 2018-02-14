@@ -19,7 +19,7 @@ _Context: axe, Rovira i Virgili University_
 
 ##### Meteor
 ### [ A meteor exploded over the midwest, showering Park Forest, Illinois, with dozens of meteorite fragments. ](/news/2003/03/26/a-meteor-exploded-over-the-midwest-showering-park-forest-illinois-with-dozens-of-meteorite-fragments.md)
-_Context: Park Forest, Illinois, meteorite, meteor_
+_Context: meteorite, Park Forest, Illinois, meteor_
 
 ## [Previous Day...](/news/2003/03/25/index.md)
 

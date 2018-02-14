@@ -17,7 +17,7 @@ Academic refuses honour in protest against ‘those who remained unresponsive’
 
 ##### Bank of Italy
 ### [The Bank of Italy says in a statement that the country's treasury will have to put up around 6.6 billion euros to rescue Monte dei Paschi given the European Central Bank's estimate of Monte dei Paschi's capital shortfall. ](/news/2016/12/29/the-bank-of-italy-says-in-a-statement-that-the-country-s-treasury-will-have-to-put-up-around-6-6-billion-euros-to-rescue-monte-dei-paschi-gi.md)
-_Context: Monte dei Paschi, Bank of Italy, European Central Bank_
+_Context: European Central Bank, Bank of Italy, Monte dei Paschi_
 
 ##### 
 ### [At least 50 people drown and thousands are left homeless due to flooding in the Democratic Republic of the Congo. ](/news/2016/12/29/at-least-50-people-drown-and-thousands-are-left-homeless-due-to-flooding-in-the-democratic-republic-of-the-congo.md)
@@ -31,7 +31,7 @@ The US expels 35 Russian diplomats in the wake of cyber attacks related to the U
 ### [The Egyptian government approves a deal granting two Red Sea islands to Saudi Arabia. ](/news/2016/12/29/the-egyptian-government-approves-a-deal-granting-two-red-sea-islands-to-saudi-arabia.md)
 ##### Kyriakos Amiridis
 ### [The Ambassador of Greece to Brazil, Kyriakos Amiridis, is reported missing while on vacation in Rio de Janeiro. A homicide team is investigating his disappearance. ](/news/2016/12/29/the-ambassador-of-greece-to-brazil-kyriakos-amiridis-is-reported-missing-while-on-vacation-in-rio-de-janeiro-a-homicide-team-is-investiga.md)
-_Context: Rio de Janeiro, Kyriakos Amiridis_
+_Context: Kyriakos Amiridis, Rio de Janeiro_
 
 ##### Ahmet Sik
 ### [Turkish journalist Ahmet Sik is arrested in Istanbul, allegedly over a social media posting. ](/news/2016/12/29/turkish-journalist-ahmet-aa-k-is-arrested-in-istanbul-allegedly-over-a-social-media-posting.md)

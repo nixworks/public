@@ -9,7 +9,7 @@ _Context: Baghdad, Shi'ite_
 
 ##### GlaxoSmithKline
 ### [Pharmaceutical giant GlaxoSmithKline agrees to sell its thrombosis drug brands to Aspen Pharmacare. ](/news/2013/09/30/pharmaceutical-giant-glaxosmithkline-agrees-to-sell-its-thrombosis-drug-brands-to-aspen-pharmacare.md)
-_Context: thrombosis, GlaxoSmithKline, Aspen Pharmacare_
+_Context: GlaxoSmithKline, Aspen Pharmacare, thrombosis_
 
 ##### Tropical Storm Wutip
 ### [Tropical Storm Wutip lashes central Vietnam, uprooting trees, cutting power lines and damaging more than 1,000 houses. ](/news/2013/09/30/tropical-storm-wutip-lashes-central-vietnam-uprooting-trees-cutting-power-lines-and-damaging-more-than-1-000-houses.md)

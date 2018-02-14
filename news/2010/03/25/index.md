@@ -5,11 +5,11 @@ Formats: [HTML](2010/03/25/index.html)  [JSON](2010/03/25/index.json)  [XML](201
 
 ##### Colombia
 ### [A car bomb killed at least 6 people and wounded more than 40 others in a Colombia's Buenaventura city notorious for cocaine trafficking. ](/news/2010/03/25/a-car-bomb-killed-at-least-6-people-and-wounded-more-than-40-others-in-a-colombia-s-buenaventura-city-notorious-for-cocaine-trafficking.md)
-_Context: Buenaventura, Colombia, cocaine_
+_Context: cocaine, Buenaventura, Colombia_
 
 ##### Rustam Minnikhanov
 ### [Rustam Minnikhanov is sworn in as the second president of Tatarstan. ](/news/2010/03/25/rustam-minnikhanov-is-sworn-in-as-the-second-president-of-tatarstan.md)
-_Context: Russian Republic of Tatarstan, Rustam Minnikhanov_
+_Context: Rustam Minnikhanov, Russian Republic of Tatarstan_
 
 ##### Pakistan
 ### [Pakistan's jet fighters pounds militants' hideouts in northwest Pakistan's Mamozai area, killing at least 48 people and injuring 32 others. ](/news/2010/03/25/pakistan-s-jet-fighters-pounds-militants-hideouts-in-northwest-pakistan-s-mamozai-area-killing-at-least-48-people-and-injuring-32-others.md)
@@ -17,11 +17,11 @@ _Context: Pakistan, Mamozai_
 
 ##### Gaza Strip
 ### [A Gazan fisherman is critically wounded when the Israeli navy targets his fishing boat in an early morning attack. ](/news/2010/03/25/a-gazan-fisherman-is-critically-wounded-when-the-israeli-navy-targets-his-fishing-boat-in-an-early-morning-attack.md)
-_Context: Israel, Gaza Strip_
+_Context: Gaza Strip, Israel_
 
 ##### U.S.
 ### [The United States weakens proposed sanctions against Iran in a bid to win broader support on the UN Security Council as Iranian President Mahmoud Ahmadinejad dismisses the impact of any new measures to stop Iran's nuclear program. ](/news/2010/03/25/the-united-states-weakens-proposed-sanctions-against-iran-in-a-bid-to-win-broader-support-on-the-un-security-council-as-iranian-president-ma.md)
-_Context: Iran, U.S., Iran and weapons of mass destruction, Security Council, Mahmoud Ahmadinejad_
+_Context: Mahmoud Ahmadinejad, Security Council, U.S., Iran and weapons of mass destruction, Iran_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI is accused of failing to act in a case of the sexual abuse of 200 deaf boys. ](/news/2010/03/25/pope-benedict-xvi-is-accused-of-failing-to-act-in-a-case-of-the-sexual-abuse-of-200-deaf-boys.md)
@@ -37,11 +37,11 @@ _Context: Mogadishu, Somalia_
 
 ##### U.S. President
 ### [President of the United States Barack Obama requests that Cuba's leaders release all political prisoners, describing human rights there as "deeply disturbing". ](/news/2010/03/25/president-of-the-united-states-barack-obama-requests-that-cuba-s-leaders-release-all-political-prisoners-describing-human-rights-there-as.md)
-_Context: Cuba, political prisoner, U.S. President, Barack Obama_
+_Context: Barack Obama, political prisoner, Cuba, U.S. President_
 
 ##### Tennessee
 ### [3 die in a medical helicopter crash in Tennessee, United States, with the helicopter that crashed being operated by Hospital Wing. ](/news/2010/03/25/3-die-in-a-medical-helicopter-crash-in-tennessee-united-states-with-the-helicopter-that-crashed-being-operated-by-hospital-wing.md)
-_Context: Tennessee, Hospital Wing, U.S._
+_Context: U.S., Tennessee, Hospital Wing_
 
 ##### United States Secretary of Defense
 ### [U.S. defense secretary Robert Gates announces new rules that make it more difficult to expel gay service members. ](/news/2010/03/25/u-s-defense-secretary-robert-gates-announces-new-rules-that-make-it-more-difficult-to-expel-gay-service-members.md)

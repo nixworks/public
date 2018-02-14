@@ -25,7 +25,7 @@ As the Doha meeting looms it appears that the chances of a meaningful outcome ar
 
 ##### Bundesbank
 ### [A member of the board of the Bundesbank in Germany says that the European Central Bank ought to crack down on the political practice, in EU's member states, by which banks that are no longer viable are nonetheless kept in business, as so-called Zombie banks. ](/news/2016/04/18/a-member-of-the-board-of-the-bundesbank-in-germany-says-that-the-european-central-bank-ought-to-crack-down-on-the-political-practice-in-eu.md)
-_Context: Bundesbank, German, European Central Bank, Zombie banks_
+_Context: European Central Bank, Bundesbank, Zombie banks, German_
 
 ##### Cuba-United States relations
 ### [Carnival Cruise Lines says it will postpone its first cruise in 50 years from the United States to Havana, if Cuba does not waive its rule and allow Cuban-Americans passengers. Current Cuban law does not allow those born on the island to return by sea. ](/news/2016/04/18/carnival-cruise-lines-says-it-will-postpone-its-first-cruise-in-50-years-from-the-united-states-to-havana-if-cuba-does-not-waive-its-rule-a.md)
@@ -37,7 +37,7 @@ Nearly 250,000 people are told to leave their homes amid fears of further tremor
 
 ##### Earthquake
 ### [Aid starts to flow in after an earthquake kills over 270 people in Ecuador. ](/news/2016/04/18/aid-starts-to-flow-in-after-an-earthquake-kills-over-270-people-in-ecuador.md)
-_Context: Ecuador, earthquake_
+_Context: earthquake, Ecuador_
 
 ##### European migrant crisis
 ### [More than 400 migrants, mostly from Somalia, drown in the Mediterranean Sea while traveling from Egypt to Italy. ](/news/2016/04/18/more-than-400-migrants-mostly-from-somalia-drown-in-the-mediterranean-sea-while-traveling-from-egypt-to-italy.md)
@@ -61,11 +61,11 @@ The US is to send 200 extra troops to Iraq to help the fight against so-called I
 
 ##### War in Donbass
 ### [A Ukrainian court sentences two Russian nationals to 14 years in prison each on charges of fighting alongside Russian-backed separatists in eastern Ukraine. Moscow contends that the two Russians were no longer employed by the state when they were captured. ](/news/2016/04/18/a-ukrainian-court-sentences-two-russian-nationals-to-14-years-in-prison-each-on-charges-of-fighting-alongside-russian-backed-separatists-in.md)
-_Context: War in Donbass, Moscow, Ukraine, Donetsk People's Republic, Russia-Ukraine relations, Russia, Eastern Ukraine_
+_Context: War in Donbass, Donetsk People's Republic, Russia-Ukraine relations, Moscow, Russia, Eastern Ukraine, Ukraine_
 
 ##### Philippine general election, 2016
 ### [Bongbong Marcos, the son of dictator Ferdinand Marcos and top vice presidential candidate, defends Duterte's remarks about rape. ](/news/2016/04/18/bongbong-marcos-the-son-of-dictator-ferdinand-marcos-and-top-vice-presidential-candidate-defends-duterte-s-remarks-about-rape.md)
-_Context: Ferdinand Marcos, rape, Bongbong Marcos, Philippine general election, 2016_
+_Context: rape, Philippine general election, 2016, Ferdinand Marcos, Bongbong Marcos_
 
 ##### Italian oil drilling referendum, 2016
 ### [The referendum fails to exceed the 50% turnout level necessary to make the results binding; turnout was recorded at 31.2%. ](/news/2016/04/18/the-referendum-fails-to-exceed-the-50-turnout-level-necessary-to-make-the-results-binding-turnout-was-recorded-at-31-2.md)
@@ -73,7 +73,7 @@ _Context: Italian oil drilling referendum, 2016_
 
 ##### 2016 Macedonian protests
 ### [Protests against President Gjorge Ivanov continue in Skopje, the capital of Macedonia, after his decision to pardon politicians involved in a scandal. ](/news/2016/04/18/protests-against-president-gjorge-ivanov-continue-in-skopje-the-capital-of-macedonia-after-his-decision-to-pardon-politicians-involved-in.md)
-_Context: Gjorge Ivanov, Republic of Macedonia, Skopje, President, 2016 Macedonian protests_
+_Context: Skopje, President, Republic of Macedonia, 2016 Macedonian protests, Gjorge Ivanov_
 
 ## [Previous Day...](/news/2016/04/17/index.md)
 

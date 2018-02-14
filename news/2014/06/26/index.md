@@ -13,7 +13,7 @@ _Context: Xinjiang, China, terrorist attacks_
 
 ##### Jung Hong-won
 ### [Jung Hong-won will stay on as the Prime Minister of South Korea despite resigning after the sinking of the MV Sewol as two nominations as replacements have fallen through. ](/news/2014/06/26/jung-hong-won-will-stay-on-as-the-prime-minister-of-south-korea-despite-resigning-after-the-sinking-of-the-mv-sewol-as-two-nominations-as-re.md)
-_Context: sinking of the MV ''Sewol'', Jung Hong-won, Prime Minister_
+_Context: Jung Hong-won, sinking of the MV ''Sewol'', Prime Minister_
 
 ##### Ukrainian Jews
 ### [Germany starts easing immigration restrictions on Ukrainian Jews as a result of the crisis in Ukraine.](/news/2014/06/26/germany-starts-easing-immigration-restrictions-on-ukrainian-jews-as-a-result-of-the-crisis-in-ukraine.md)

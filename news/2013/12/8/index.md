@@ -5,7 +5,7 @@ Formats: [HTML](2013/12/8/index.html)  [JSON](2013/12/8/index.json)  [XML](2013/
 
 ##### Car bomb
 ### [At least 30 people are killed as a result of car bombings in Iraq. ](/news/2013/12/8/at-least-30-people-are-killed-as-a-result-of-car-bombings-in-iraq.md)
-_Context: Iraq, car bomb_
+_Context: car bomb, Iraq_
 
 ##### South Korea
 ### [South Korea announces that it will expand its air defense zone in response to a recent move by the People's Republic of China. ](/news/2013/12/8/south-korea-announces-that-it-will-expand-its-air-defense-zone-in-response-to-a-recent-move-by-the-people-s-republic-of-china.md)
@@ -17,7 +17,7 @@ Police in Singapore arrest 27 South Asian suspects after hundreds of foreign wor
 
 ##### Congress Party
 ### [The Indian National Congress lose the Delhi and Rajasthan assembly elections and the Bharatiya Janata Party retain the Madhya Pradesh and Chhattisgarh legislative assemblies, while gaining a majority in the Rajasthan assembly. ](/news/2013/12/8/the-indian-national-congress-lose-the-delhi-and-rajasthan-assembly-elections-and-the-bharatiya-janata-party-retain-the-madhya-pradesh-and-ch.md)
-_Context: Chhattisgarh, Madhya Pradesh, Rajasthan, Bharatiya Janata Party, Congress Party, Delhi_
+_Context: Congress Party, Madhya Pradesh, Delhi, Rajasthan, Chhattisgarh, Bharatiya Janata Party_
 
 ##### Thailand
 ### [The Thailand Opposition vows to resign en masse after weeks of protest. ](/news/2013/12/8/the-thailand-opposition-vows-to-resign-en-masse-after-weeks-of-protest.md)

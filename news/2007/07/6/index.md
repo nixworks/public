@@ -5,11 +5,11 @@ Formats: [HTML](2007/07/6/index.html)  [JSON](2007/07/6/index.json)  [XML](2007/
 
 ##### United States Circuit Court of Appeals
 ### [ The 6th United States Circuit Court of Appeals in Ohio rejects a lawsuit against George W. Bush's domestic wiretapping program, saying that the plaintiffs did not have the right to sue. ](/news/2007/07/6/the-6th-united-states-circuit-court-of-appeals-in-ohio-rejects-a-lawsuit-against-george-w-bush-s-domestic-wiretapping-program-saying-that.md)
-_Context: George W. Bush, plaintiff, United States Circuit Court of Appeals, Ohio, wiretapping _
+_Context: Ohio, wiretapping , United States Circuit Court of Appeals, plaintiff, George W. Bush_
 
 ##### France
 ### [ Newly declassified French government documents show that as President Franois Mitterrand knowingly supported the Rwandan Genocide because he believed it would limit "Anglo-Saxon influence." ](/news/2007/07/6/newly-declassified-french-government-documents-show-that-as-president-francois-mitterrand-knowingly-supported-the-rwandan-genocide-because.md)
-_Context: France, Rwandan Genocide, Franois Mitterrand, French President, Anglo-Saxon_
+_Context: Anglo-Saxon, Franois Mitterrand, French President, Rwandan Genocide, France_
 
 ##### Iraq
 ### [ Iraqi doctor Bilal Abdullah is charged for his alleged involvement in the 2007 Glasgow International Airport attack. ](/news/2007/07/6/iraqi-doctor-bilal-abdullah-is-charged-for-his-alleged-involvement-in-the-2007-glasgow-international-airport-attack.md)

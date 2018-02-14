@@ -9,7 +9,7 @@ _Context: rebel-held, Samarra_
 
 ##### Prime Minister
 ### [ The Prime Minister of Slovenia, Anton Rop, concedes defeat in today's parliamentary elections. Early results suggest the opposition will make large gains at the expense of the current government. ](/news/2004/10/3/the-prime-minister-of-slovenia-anton-rop-concedes-defeat-in-today-s-parliamentary-elections-early-results-suggest-the-opposition-will-ma.md)
-_Context: Slovenia, Prime Minister, parliamentary election, Anton Rop_
+_Context: Slovenia, parliamentary election, Prime Minister, Anton Rop_
 
 ##### Israeli-Palestinian conflict
 ### [ In interview with the CBC, UNRWA commissioner Peter Hansen says that he is sure that members of Hamas are also members of UNRWA. The Canadian Department of Foreign Affairs, which has designated Hamas a terrorist organization said it "will immediately seek clarification from Mr. Hansen directly and from UN authorities". ](/news/2004/10/3/in-interview-with-the-cbc-unrwa-commissioner-peter-hansen-says-that-he-is-sure-that-members-of-hamas-are-also-members-of-unrwa-the-canadi.md)
@@ -17,7 +17,7 @@ Ottawa will look into the possibility that a United Nations agency Canada backs 
 
 ##### Pope
 ### [ Pope John Paul&nbsp;II beatifies five persons, including Anne Catherine Emmerich, a German nun, and Karl&nbsp;I, last emperor of the Austro-Hungarian Empire, in a ceremony in Rome. John Paul&nbsp;II has made a total of 1,340 beatifications (including today's), more than all previous popes combined. ](/news/2004/10/3/pope-john-paul-nbsp-ii-beatifies-five-persons-including-anne-catherine-emmerich-a-german-nun-and-karl-nbsp-i-last-emperor-of-the-austro.md)
-_Context: Austro-Hungarian Empire, beatified, Rome, Italy, Anne Catherine Emmerich, Pope, Pope John Paul II, Karl&nbsp;I_
+_Context: Anne Catherine Emmerich, Karl&nbsp;I, beatified, Rome, Italy, Pope, Austro-Hungarian Empire, Pope John Paul II_
 
 ## [Previous Day...](/news/2004/10/2/index.md)
 

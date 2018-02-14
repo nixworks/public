@@ -9,7 +9,7 @@ The Taliban has issued a warning to Afghans whose names might appear on the leak
 
 ##### Israeli Air Force
 ### [The Israeli Air Force launches several air strikes on the Gaza Strip following a BM-21 Grad missile strike by the Aza Din al-Kassem Gazan militant group on the Israeli town of Ashkelon. A Hamas rocket maker is killed and 13 other people are injured. ](/news/2010/07/30/the-israeli-air-force-launches-several-air-strikes-on-the-gaza-strip-following-a-bm-21-grad-missile-strike-by-the-aza-din-al-kassem-gazan-mi.md)
-_Context: Gaza Strip, Ashkelon, Israeli Air Force, Aza Din al-Kassem, Hamas, Israel, Grad rocket_
+_Context: Ashkelon, Israel, Aza Din al-Kassem, Grad rocket, Gaza Strip, Israeli Air Force, Hamas_
 
 ##### Gaza Strip
 ### [Thousands of children in Gaza appear to have broken their own world record for the number of kites flown at the same time, the UN says. ](/news/2010/07/30/thousands-of-children-in-gaza-appear-to-have-broken-their-own-world-record-for-the-number-of-kites-flown-at-the-same-time-the-un-says.md)
@@ -29,7 +29,7 @@ Forest fires sweeping across eastern Russia have killed at least 25 people and t
 
 ##### Wildfire
 ### [A wildfire forces the evacuation of thousands of homes in Palmdale California, United States. ](/news/2010/07/30/a-wildfire-forces-the-evacuation-of-thousands-of-homes-in-palmdale-california-united-states.md)
-_Context: wildfire, California, Palmdale_
+_Context: Palmdale, California, wildfire_
 
 ##### Cannabis
 ### [Multiple law-enforcement agencies seize a hoard of cannabis thought to be worth up to US$1.7&nbsp;billion in the Sierra Nevada in southern California, United States. ](/news/2010/07/30/multiple-law-enforcement-agencies-seize-a-hoard-of-cannabis-thought-to-be-worth-up-to-us-1-7-nbsp-billion-in-the-sierra-nevada-in-southern-c.md)
@@ -37,19 +37,19 @@ Police in California seize $1.7bn worth of marijuana in the Sierra Nevada mounta
 
 ##### Prime Minister
 ### [Former Prime Minister of Fiji Mahendra Chaudry appears in a Suva court to face charges of tax evasion and money laundering. ](/news/2010/07/30/former-prime-minister-of-fiji-mahendra-chaudry-appears-in-a-suva-court-to-face-charges-of-tax-evasion-and-money-laundering.md)
-_Context: Prime Minister, tax fraud, Suva, Mahendra Chaudhry, Fiji, money laundering_
+_Context: money laundering, Prime Minister, Suva, Fiji, Mahendra Chaudhry, tax fraud_
 
 ##### U.S. Vice President
 ### [Former Vice President of the United States Al Gore is cleared of claims that he assaulted a masseuse in Portland, Oregon in 2006. ](/news/2010/07/30/former-vice-president-of-the-united-states-al-gore-is-cleared-of-claims-that-he-assaulted-a-masseuse-in-portland-oregon-in-2006.md)
-_Context: Al Gore, U.S. Vice President, Portland, Oregon, masseuse_
+_Context: masseuse, U.S. Vice President, Al Gore, Portland, Oregon_
 
 ##### Armenia
 ### [Two Armenian men sue Turkey, the Central Bank of the Republic of Turkey and Ziraat Bankasi bank in the United States district court in California for damages allegedly caused by the Armenian genocide in 1915. ](/news/2010/07/30/two-armenian-men-sue-turkey-the-central-bank-of-the-republic-of-turkey-and-ziraat-bankasa-bank-in-the-united-states-district-court-in-cali.md)
-_Context: Central Bank of the Republic of Turkey, Turkey, Ziraat Bankasi, Armenia, U.S. federal court, damages, California, Armenian genocide_
+_Context: damages, California, U.S. federal court, Central Bank of the Republic of Turkey, Turkey, Ziraat Bankasi, Armenian genocide, Armenia_
 
 ##### Syria
 ### [Syrian President Bashar al-Assad, Saudi King Abdullah, and Qatari Emir Sheikh Hamad bin Khalifa al-Thani visit Lebanon amid reports that the Special Tribunal for Lebanon will indict members of Hezbollah ](/news/2010/07/30/syrian-president-bashar-al-assad-saudi-king-abdullah-and-qatari-emir-sheikh-hamad-bin-khalifa-al-thani-visit-lebanon-amid-reports-that-the.md)
-_Context: Syria, Abdullah, Saudi Arabia, Qatar Emir, Special Tribunal for Lebanon, Lebanese, King, Hezbollah, Qatar, Sheikh Hamad bin Khalifa al-Thani, President, Bashar al-Assad_
+_Context: President, Special Tribunal for Lebanon, Syria, Abdullah, Sheikh Hamad bin Khalifa al-Thani, Saudi Arabia, Qatar, Qatar Emir, King, Bashar al-Assad, Hezbollah, Lebanese_
 
 ##### Vanuatu
 ### [Vanuatu marks thirty years of independence. ](/news/2010/07/30/vanuatu-marks-thirty-years-of-independence.md)
@@ -57,7 +57,7 @@ The Australian government is about to hand over a special gift to Vanuatu on its
 
 ##### Bangladesh
 ### [Thousands of Bangladeshi garment workers block highways, attack factories and loot shops in Dhaka after rejecting a minimum wage increase offered by the Government of Bangladesh. ](/news/2010/07/30/thousands-of-bangladeshi-garment-workers-block-highways-attack-factories-and-loot-shops-in-dhaka-after-rejecting-a-minimum-wage-increase-of.md)
-_Context: Government of Bangladesh, Dhaka, Bangladesh, minimum wage_
+_Context: Government of Bangladesh, minimum wage, Bangladesh, Dhaka_
 
 ##### Italy
 ### [A split develops in Italy's governing People of Freedom Party after a dispute between Prime Minister Silvio Berlusconi and Gianfranco Fini, President of the Chamber of Deputies. ](/news/2010/07/30/a-split-develops-in-italy-s-governing-people-of-freedom-party-after-a-dispute-between-prime-minister-silvio-berlusconi-and-gianfranco-fini.md)

@@ -9,11 +9,11 @@ Senator Barack Obama beat Senator Hillary Rodham Clinton by a wide margin, conti
 
 ##### Sweden
 ### [ Swedish Minister for Foreign Affairs Carl Bildt becomes the first foreign minister to visit Kosovo since the country declared its independence. ](/news/2008/03/8/swedish-minister-for-foreign-affairs-carl-bildt-becomes-the-first-foreign-minister-to-visit-kosovo-since-the-country-declared-its-independe.md)
-_Context: Kosovo, Sweden, Carl Bildt, unilateral declaration of independence_
+_Context: Carl Bildt, Kosovo, unilateral declaration of independence, Sweden_
 
 ##### Police
 ### [ Police in Memphis, Tennessee make an arrest in connection with the killing of four adults and two children. ](/news/2008/03/8/police-in-memphis-tennessee-make-an-arrest-in-connection-with-the-killing-of-four-adults-and-two-children.md)
-_Context: Memphis, Tennessee, Police_
+_Context: Police, Memphis, Tennessee_
 
 ##### Serbia
 ### [ Serbian Prime Minister Vojislav Kostunica resigns, dissolving a coalition too divided over the loss of Kosovo to carry on governing. ](/news/2008/03/8/serbian-prime-minister-vojislav-koa-tunica-resigns-dissolving-a-coalition-too-divided-over-the-loss-of-kosovo-to-carry-on-governing.md)
@@ -25,11 +25,11 @@ _Context: hamster, Vietnam_
 
 ##### Malaysia
 ### [ Malaysians go to the polls for the Malaysian general election, 2008. The Barisan National secures another term in government, but suffers its worst performance since the country's independence in 1957. ](/news/2008/03/8/malaysians-go-to-the-polls-for-the-malaysian-general-election-2008-the-barisan-national-secures-another-term-in-government-but-suffers-i.md)
-_Context: Malaysia, Barisan National, Malaysian general election, 2008_
+_Context: Barisan National, Malaysia, Malaysian general election, 2008_
 
 ##### U.S.
 ### [ The United States and Iraq commence talks about the future of relationships between the two nations including a longer term US military presence in Iraq. ](/news/2008/03/8/the-united-states-and-iraq-commence-talks-about-the-future-of-relationships-between-the-two-nations-including-a-longer-term-us-military-pre.md)
-_Context: Iraq, U.S._
+_Context: U.S., Iraq_
 
 ## [Previous Day...](/news/2008/03/7/index.md)
 

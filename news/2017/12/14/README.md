@@ -33,7 +33,7 @@ Arson Fern Jr., one of 25 people aboard a plane that crashed following takeoff f
 
 ##### Health education in Guatemala
 ### [The Supreme Court of Justice of Guatemala rules not to allow the implementation of a usage manual from the Procuratorate of Human Rights for talks and workshops about sexuality due to the document's views on abortion, which, except risk for mother's life, is illegal in the country. ](/news/2017/12/14/the-supreme-court-of-justice-of-guatemala-rules-not-to-allow-the-implementation-of-a-usage-manual-from-the-procuratorate-of-human-rights-for.md)
-_Context: illegal, abortion, country, Guatemala, sexuality, Health education in Guatemala_
+_Context: abortion, Health education in Guatemala, sexuality, Guatemala, country, illegal_
 
 ##### Iran-United States relations
 ### [Nikki Haley, the U.S. Ambassador to the United Nations, accuses Iran of violating the 2015 nuclear deal by allegedly supplying the missile fired last month on Saudi Arabia from Yemen. Iran refutes the claim as based on "fabricated" evidence. ](/news/2017/12/14/nikki-haley-the-u-s-ambassador-to-the-united-nations-accuses-iran-of-violating-the-2015-nuclear-deal-by-allegedly-supplying-the-missile-f.md)
@@ -41,15 +41,15 @@ U.S. Ambassador to the United Nations Nikki Haley stood amid missile fragments a
 
 ##### Somalia-United States relations
 ### [The U.S. government cuts aid to some Somali military units for allegedly misusing funds. ](/news/2017/12/14/the-u-s-government-cuts-aid-to-some-somali-military-units-for-allegedly-misusing-funds.md)
-_Context: U.S. government, Somalia-United States relations, Somali military, Somali Civil War (2009-present), misusing funds_
+_Context: misusing funds, Somali Civil War (2009-present), U.S. government, Somalia-United States relations, Somali military_
 
 ##### Education in the United States
 ### [Attorneys general for California, New York, Illinois, and Massachusetts sue the Trump Administration's Department of Education for not granting loan relief to students defrauded by for-profit schools. ](/news/2017/12/14/attorneys-general-for-california-new-york-illinois-and-massachusetts-sue-the-trump-administration-s-department-of-education-for-not-grant.md)
-_Context: New York, California, Department of Education, for-profit schools, Massachusetts, Education in the United States, Illinois_
+_Context: Department of Education, Illinois, Massachusetts, for-profit schools, New York, California, Education in the United States_
 
 ##### Operation Car Wash
 ### [The main opposition party of Peru, Popular Force, which has the absolute majority in Congress, gives the president Pedro Pablo Kuczynski less than 24 hours to present his resignation. This comes after it revealed that he received large sums of money from the Odebrecht construction company, through a financial advisory firm of his property, in exchange of the concession of important infrastructures for the country. ](/news/2017/12/14/the-main-opposition-party-of-peru-popular-force-which-has-the-absolute-majority-in-congress-gives-the-president-pedro-pablo-kuczynski-les.md)
-_Context: president, Pedro Pablo Kuczynski, Operation Car Wash, Peru, Popular Force, Odebrecht, Congress_
+_Context: Popular Force, president, Congress, Odebrecht, Operation Car Wash, Peru, Pedro Pablo Kuczynski_
 
 ##### Donald Trump's political appointments
 ### [Michael Dourson, University of Cincinnati College of Medicine professor, withdraws his nomination for an assistant administrator position with the Environmental Protection Agency. ](/news/2017/12/14/michael-dourson-university-of-cincinnati-college-of-medicine-professor-withdraws-his-nomination-for-an-assistant-administrator-position-wi.md)

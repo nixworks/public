@@ -9,7 +9,7 @@ _Context: peer-to-peer, lawmakers, technology_
 
 ##### United Nations
 ### [ United Nations electoral experts and security support arrive in Baghdad. ](/news/2004/03/26/united-nations-electoral-experts-and-security-support-arrive-in-baghdad.md)
-_Context: United Nations, election, expert, security, Baghdad_
+_Context: election, security, United Nations, Baghdad, expert_
 
 ##### Tropical cyclone
 ### [ The first South Atlantic hurricane ever recorded forms 275 miles off the coast of Brazil. ](/news/2004/03/26/the-first-south-atlantic-hurricane-ever-recorded-forms-275-miles-off-the-coast-of-brazil.md)
@@ -25,7 +25,7 @@ _Context: Chen Shui-bian, 2004 presidential election, coalition allies_
 
 ##### Israeli-Palestinian conflict
 ### [ Israeli-Palestinian conflict: The United States vetoes a United Nations Security Council resolution (sponsored by Algeria and Libya) condemning the killing by Israel of Sheikh Ahmed Yassin along with six other Palestinians outside a mosque in Gaza City and calling for a complete cessation of executions. The veto is publicly motivated by the resolution making no mention of suicide bombings committed by Hamas and attributed to Yassin. 11 votes are recorded in favour, with three (United Kingdom, Germany, and Romania) abstaining and one (the United States) against. ](/news/2004/03/26/israeli-palestinian-conflict-the-united-states-vetoes-a-united-nations-security-council-resolution-sponsored-by-algeria-and-libya-condem.md)
-_Context: Hamas, suicide bombing, Libya, Algeria, Gaza, United Nations Security Council, execution, Sheikh, Ahmed Yassin, Romania, mosque, Palestinians, Israeli-Palestinian conflict, Israel_
+_Context: Sheikh, Ahmed Yassin, United Nations Security Council, suicide bombing, Hamas, Palestinians, Algeria, Israel, execution, Libya, mosque, Israeli-Palestinian conflict, Romania, Gaza_
 
 ## [Previous Day...](/news/2004/03/25/index.md)
 

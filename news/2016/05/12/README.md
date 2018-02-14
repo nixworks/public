@@ -5,11 +5,11 @@ Formats: [HTML](2016/05/12/index.html)  [JSON](2016/05/12/index.json)  [XML](201
 
 ##### Yemeni Crisis (2011-present)
 ### [Al Qaeda militants kill at least 13 Yemeni government troops near the city of Mukalla. ](/news/2016/05/12/al-qaeda-militants-kill-at-least-13-yemeni-government-troops-near-the-city-of-mukalla.md)
-_Context: Al Qaeda, Yemen, Mukalla, Yemeni Crisis (2011-present)_
+_Context: Yemen, Mukalla, Yemeni Crisis (2011-present), Al Qaeda_
 
 ##### Iraqi Civil War (2014-present)
 ### [A twin suicide bombing attack at a police station in Baghdad kills five people. Yesterday 93 people had been killed and 165 injured in the deadliest day of attacks in Iraq this year. ](/news/2016/05/12/a-twin-suicide-bombing-attack-at-a-police-station-in-baghdad-kills-five-people-yesterday-93-people-had-been-killed-and-165-injured-in-the-d.md)
-_Context: Iraq, suicide bombing, Iraqi Civil War (2014-present), Baghdad, Iraqi police_
+_Context: Iraqi Civil War (2014-present), suicide bombing, Iraq, Iraqi police, Baghdad_
 
 ##### Nissan
 ### [Nissan announces that it will buy 34% of fellow Japanese car manufacturer Mitsubishi Motors for 237.4 billion yen ($2.2 billion). ](/news/2016/05/12/nissan-announces-that-it-will-buy-34-of-fellow-japanese-car-manufacturer-mitsubishi-motors-for-237-4-billion-yen-2-2-billion.md)
@@ -17,11 +17,11 @@ Nissan Motor will purchase a 34 per cent stake in Mitsubishi Motors, as Japan’
 
 ##### Bank of England
 ### [ The Bank of England issues an unusually sharp warning about the possible economic consequences of an "Out" vote in the upcoming Brexit referendum. ](/news/2016/05/12/the-bank-of-england-issues-an-unusually-sharp-warning-about-the-possible-economic-consequences-of-an-out-vote-in-the-upcoming-brexit-refe.md)
-_Context: Bank of England, Brexit_
+_Context: Brexit, Bank of England_
 
 ##### Malaysia Airlines Flight 370
 ### [The Government of Malaysia confirms that two more pieces of debris found in South Africa and Rodrigues Island off the coast of Mauritius are "almost certainly" from Malaysia Airlines 370 that disappeared two years ago. ](/news/2016/05/12/the-government-of-malaysia-confirms-that-two-more-pieces-of-debris-found-in-south-africa-and-rodrigues-island-off-the-coast-of-mauritius-are.md)
-_Context: Malaysia Airlines Flight 370, Rodrigues Island, South Africa, Government of Malaysia, Mauritius_
+_Context: Government of Malaysia, Malaysia Airlines Flight 370, Rodrigues Island, South Africa, Mauritius_
 
 ##### Syrian Civil War
 ### [ Turkish president Recep Tayyip Erdogan threatens unilateral action against Islamic State of Iraq and Syria inside Syria. ](/news/2016/05/12/turkish-president-recep-tayyip-erdoaan-threatens-unilateral-action-against-islamic-state-of-iraq-and-syria-inside-syria.md)
@@ -33,7 +33,7 @@ _Context: attorney general, car chase_
 
 ##### Impeachment process against Dilma Rousseff
 ### [The Brazilian Senate votes (55-22) to begin the impeachment process against the President of Brazil Dilma Rousseff and suspend her from office while the trial takes place. ](/news/2016/05/12/the-brazilian-senate-votes-55-22-to-begin-the-impeachment-process-against-the-president-of-brazil-dilma-rousseff-and-suspend-her-from-offi.md)
-_Context: Brazilian Senate, president, Impeachment process against Dilma Rousseff, Dilma Rousseff_
+_Context: Brazilian Senate, Impeachment process against Dilma Rousseff, president, Dilma Rousseff_
 
 ##### Baltimore, Maryland, primary election, 2016
 ### [Maryland state elections officials decertify the results of Baltimore's April 26, 2016, primary election because, for example, the number of ballots cast was hundreds more than the number of voters who checked in at polling places. ](/news/2016/05/12/maryland-state-elections-officials-decertify-the-results-of-baltimoreas-april-26-2016-primary-election-because-for-example-the-number.md)
@@ -45,7 +45,7 @@ State elections administrator says the number of ballots cast was hundreds more 
 
 ##### Konkoly Observatory
 ### [Researchers from Konkoly Observatory in Budapest, Hungary, reveal that (225088) 2007 OR10 is the third largest dwarf planet in the solar system. ](/news/2016/05/12/researchers-from-konkoly-observatory-in-budapest-hungary-reveal-that-225088-2007-or10-is-the-third-largest-dwarf-planet-in-the-solar-sys.md)
-_Context: (225088) 2007 OR10, Hungary, Budapest, dwarf planet, Konkoly Observatory, solar system_
+_Context: Konkoly Observatory, Hungary, Budapest, dwarf planet, solar system, (225088) 2007 OR10_
 
 ## [Previous Day...](/news/2016/05/11/index.md)
 

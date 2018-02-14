@@ -5,11 +5,11 @@ Formats: [HTML](2009/03/1/index.html)  [JSON](2009/03/1/index.json)  [XML](2009/
 
 ##### Basque Nationalist Party
 ### [ The Basque Nationalist Party wins a plurality of seats in Spain's Basque Country's parliamentary elections. ](/news/2009/03/1/the-basque-nationalist-party-wins-a-plurality-of-seats-in-spain-s-basque-country-s-parliamentary-elections.md)
-_Context: plurality, parliamentary elections, Basque Nationalist Party, Spain, Basque_
+_Context: Spain, Basque, Basque Nationalist Party, plurality, parliamentary elections_
 
 ##### Canadian
 ### [ Canada's Samuel Lunenfeld Research Institute discovers a new method to create embryonic-like stem cells that could cure spinal-cord injuries and Parkinson's disease. ](/news/2009/03/1/canada-s-samuel-lunenfeld-research-institute-discovers-a-new-method-to-create-embryonic-like-stem-cells-that-could-cure-spinal-cord-injurie.md)
-_Context: Canadian, Samuel Lunenfeld Research Institute, spinal-cord injuries, Parkinson's disease, embryonic stem cell research_
+_Context: Samuel Lunenfeld Research Institute, Canadian, embryonic stem cell research, Parkinson's disease, spinal-cord injuries_
 
 ##### U.S.
 ### [ The United States Coast Guard searches Florida's west coast for a fishing vessel carrying National Football League players Marquis Cooper and Corey Smith. ](/news/2009/03/1/the-united-states-coast-guard-searches-florida-s-west-coast-for-a-fishing-vessel-carrying-national-football-league-players-marquis-cooper-a.md)

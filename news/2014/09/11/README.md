@@ -13,7 +13,7 @@ Dozens of Fijian U.N. peacekeepers, released by al Qaeda-linked group Nusra Fron
 
 ##### South Africa
 ### [South African athlete Oscar Pistorius is found not guilty of murdering his girlfriend Reeva Steenkamp but may be convicted of a lesser charge. ](/news/2014/09/11/south-african-athlete-oscar-pistorius-is-found-not-guilty-of-murdering-his-girlfriend-reeva-steenkamp-but-may-be-convicted-of-a-lesser-charg.md)
-_Context: South Africa, Reeva Steenkamp, Oscar Pistorius_
+_Context: Oscar Pistorius, Reeva Steenkamp, South Africa_
 
 ## [Previous Day...](/news/2014/09/10/index.md)
 

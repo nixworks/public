@@ -17,7 +17,7 @@ A suicide bomber kills at least eight people, including a key provincial ministe
 
 ##### Irish
 ### [Hundreds of people in the Republic of Ireland queue before dawn for Christmas food parcels. ](/news/2012/12/22/hundreds-of-people-in-the-republic-of-ireland-queue-before-dawn-for-christmas-food-parcels.md)
-_Context: Christmas, Irish_
+_Context: Irish, Christmas_
 
 ##### Police Service of Northern Ireland
 ### [The Police Service of Northern Ireland says that an incident at the home of one of its officers in Bangor, County Down, on Wednesday night was an attempt to murder him. ](/news/2012/12/22/the-police-service-of-northern-ireland-says-that-an-incident-at-the-home-of-one-of-its-officers-in-bangor-county-down-on-wednesday-night-w.md)
@@ -33,15 +33,15 @@ _Context: Police Federation, plebgate, Andrew Mitchell, UK_
 
 ##### Mahmoud Mekki
 ### [Mahmoud Mekki resigns as Vice President of Egypt as the country completes its referendum on a new constitution. ](/news/2012/12/22/mahmoud-mekki-resigns-as-vice-president-of-egypt-as-the-country-completes-its-referendum-on-a-new-constitution.md)
-_Context: constitutional referendum, Vice President of Egypt, Mahmoud Mekki_
+_Context: Vice President of Egypt, constitutional referendum, Mahmoud Mekki_
 
 ##### President of Italy
 ### [Italian President Giorgio Napolitano dissolves the Parliament after the resignation of the Prime Minister Mario Monti ](/news/2012/12/22/italian-president-giorgio-napolitano-dissolves-the-parliament-after-the-resignation-of-the-prime-minister-mario-monti.md)
-_Context: Italian Prime Minister, Giorgio Napolitano, President of Italy, Mario Monti, parliament_
+_Context: Mario Monti, Giorgio Napolitano, parliament, Italian Prime Minister, President of Italy_
 
 ##### Irish government
 ### [Further details emerge on the suicide yesterday of Irish government minister Shane McEntee; he breakfasted with his family, took his dogs for a walk and was later found dead. Friends blame the pressure he was put under by his party to vote in favour of the country's latest austerity budget. ](/news/2012/12/22/further-details-emerge-on-the-suicide-yesterday-of-irish-government-minister-shane-mcentee-he-breakfasted-with-his-family-took-his-dogs-fo.md)
-_Context: Irish government, budget, Shane McEntee, austerity_
+_Context: Shane McEntee, Irish government, austerity, budget_
 
 ##### Prime Minister
 ### [Former Prime Minister of the United Kingdom Margaret Thatcher recovers in hospital after having a growth removed from her bladder and is likely to remain in hospital over the Christmas period. ](/news/2012/12/22/former-prime-minister-of-the-united-kingdom-margaret-thatcher-recovers-in-hospital-after-having-a-growth-removed-from-her-bladder-and-is-lik.md)

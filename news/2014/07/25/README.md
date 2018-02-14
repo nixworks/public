@@ -5,7 +5,7 @@ Formats: [HTML](2014/07/25/index.html)  [JSON](2014/07/25/index.json)  [XML](201
 
 ##### Indian Air Force
 ### [Indian Air Force landing chopper-307 crashed in the Sitapur area of Uttar Pradesh, taking the lives of 7 people. ](/news/2014/07/25/indian-air-force-landing-chopper-307-crashed-in-the-sitapur-area-of-uttar-pradesh-taking-the-lives-of-7-people.md)
-_Context: Sitapur, Uttar Pradesh, Indian Air Force_
+_Context: Uttar Pradesh, Indian Air Force, Sitapur_
 
 ##### United States Secretary of State
 ### [A cease fire deal proposed by U.S. Secretary of State John Kerry is rejected by Israel and not commented on by Hamas. Israel agrees to a uni-lateral 12 hour humanitarian ceasefire as negotiations continue. ](/news/2014/07/25/a-cease-fire-deal-proposed-by-u-s-secretary-of-state-john-kerry-is-rejected-by-israel-and-not-commented-on-by-hamas-israel-agrees-to-a-uni.md)
@@ -25,11 +25,11 @@ BSkyB gets Fox&#039;s stakes in Sky Italia and Sky Deutschland, while Fox retain
 
 ##### Liberia
 ### [A Liberian official visiting Lagos dies of the Ebola virus becoming the first reported death in Nigeria. ](/news/2014/07/25/a-liberian-official-visiting-lagos-dies-of-the-ebola-virus-becoming-the-first-reported-death-in-nigeria.md)
-_Context: Liberia, Nigeria, Lagos_
+_Context: Lagos, Nigeria, Liberia_
 
 ##### McDonald's restaurants
 ### [McDonald's restaurants stop selling Chicken McNuggets and some other chicken products in Hong Kong, China and Japan from Shanghai Husi Foods that allegedly sold out-of-date items to fast food restaurants. ](/news/2014/07/25/mcdonald-s-restaurants-stop-selling-chicken-mcnuggets-and-some-other-chicken-products-in-hong-kong-china-and-japan-from-shanghai-husi-foods.md)
-_Context: McDonald's restaurants, fast food, China, Chicken McNuggets, Hong Kong, Japan_
+_Context: McDonald's restaurants, Hong Kong, Chicken McNuggets, Japan, China, fast food_
 
 ##### Vietnam
 ### [Vietnamese authorities confirm that a shipment of Vietnamese-owned air-to-air missile parts bound for Ukraine was detained by Finland on June 24 after raising concerns the consignment of military hardware violated arms-export regulations. ](/news/2014/07/25/vietnamese-authorities-confirm-that-a-shipment-of-vietnamese-owned-air-to-air-missile-parts-bound-for-ukraine-was-detained-by-finland-on-jun.md)

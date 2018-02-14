@@ -13,7 +13,7 @@ _Context: Egypt, Sinai Peninsula_
 
 ##### Native American
 ### [A shooter opens fire inside a Native American tribal office in Alturas, California, United States, killing four and wounding two. ](/news/2014/02/20/a-shooter-opens-fire-inside-a-native-american-tribal-office-in-alturas-california-united-states-killing-four-and-wounding-two.md)
-_Context: Alturas, Native American, California_
+_Context: Alturas, California, Native American_
 
 ##### Bryan Stow
 ### [Louie Sanchez and Marvin Norwood are sentenced to eight years in prison for the 2011 beating of Bryan Stow. ](/news/2014/02/20/louie-sanchez-and-marvin-norwood-are-sentenced-to-eight-years-in-prison-for-the-2011-beating-of-bryan-stow.md)
@@ -21,7 +21,7 @@ Two men charged in the beating of a San Francisco Giants fan pleaded guilty Thur
 
 ##### High Court of Australia
 ### [The High Court of Australia rules that the Senate election in the state of Western Australia was void, meaning that a half-Senate election will be held in that state. ](/news/2014/02/20/the-high-court-of-australia-rules-that-the-senate-election-in-the-state-of-western-australia-was-void-meaning-that-a-half-senate-election-w.md)
-_Context: Western Australia, Senate election, High Court of Australia, half-Senate election_
+_Context: Western Australia, half-Senate election, High Court of Australia, Senate election_
 
 ##### Utah
 ### [Utah and Colorado have announced that they plan to increase the smoking age to 21. ](/news/2014/02/20/utah-and-colorado-have-announced-that-they-plan-to-increase-the-smoking-age-to-21.md)

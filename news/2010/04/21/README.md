@@ -5,7 +5,7 @@ Formats: [HTML](2010/04/21/index.html)  [JSON](2010/04/21/index.json)  [XML](201
 
 ##### Juan Antonio Samaranch
 ### [Juan Antonio Samaranch, the 7th president of the International Olympic Committee (1980 - 2001), dies at the age of 89. ](/news/2010/04/21/juan-antonio-samaranch-the-7th-president-of-the-international-olympic-committee-1980-2001-dies-at-the-age-of-89.md)
-_Context: International Olympic Committee, Juan Antonio Samaranch_
+_Context: Juan Antonio Samaranch, International Olympic Committee_
 
 ##### South Darfur
 ### [52 civilians are killed and 55 others are wounded in renewed tribal clashes in Sudan's South Darfur state. ](/news/2010/04/21/52-civilians-are-killed-and-55-others-are-wounded-in-renewed-tribal-clashes-in-sudan-s-south-darfur-state.md)
@@ -13,7 +13,7 @@ _Context: South Darfur_
 
 ##### Rovos Rail
 ### [A Rovos Rail luxury tourist train derails near Pretoria, South Africa, killing at least two people - a pregnant woman and her baby whose birth occurred during the derailment - and injuring at least 25 others. ](/news/2010/04/21/a-rovos-rail-luxury-tourist-train-derails-near-pretoria-south-africa-killing-at-least-two-people-a-a-pregnant-woman-and-her-baby-whose-b.md)
-_Context: South Africa, Rovos Rail, Pretoria_
+_Context: Pretoria, South Africa, Rovos Rail_
 
 ##### Polish
 ### [Poland announces the date of its presidential election &mdash; June 20 &mdash; to elect plane crash victim Lech Kaczynski's successor. ](/news/2010/04/21/poland-announces-the-date-of-its-presidential-election-mdash-june-20-mdash-to-elect-plane-crash-victim-lech-kaczyaski-s-successor.md)
@@ -41,7 +41,7 @@ _Context: Mbandaka, DR Congo, Asadho_
 
 ##### Greenpeace India's
 ### [500 Greenpeace environmentalists protest against the awarding of a tender for the controversial Belo Monte hydroelectric project by dumping tonnes of manure at the National Electric Energy Agency's (Agencia Nacional de Energia Eletrica, ANEEL) offices in Brasilia. ](/news/2010/04/21/500-greenpeace-environmentalists-protest-against-the-awarding-of-a-tender-for-the-controversial-belo-monte-hydroelectric-project-by-dumping.md)
-_Context: ANEEL, manure, Agencia Nacional de Energia Eletrica, National Electric Energy Agency,  Belo Monte hydroelectric project, Greenpeace India's, Brasilia_
+_Context: Greenpeace India's, manure, Brasilia, Agencia Nacional de Energia Eletrica,  Belo Monte hydroelectric project, National Electric Energy Agency, ANEEL_
 
 ##### Philippines
 ### [More than a dozen suspects are indicted in the Philippines in connection with last year's Maguindanao massacre. ](/news/2010/04/21/more-than-a-dozen-suspects-are-indicted-in-the-philippines-in-connection-with-last-year-s-maguindanao-massacre.md)
@@ -53,7 +53,7 @@ Two North Korean spies have been arrested for plotting to assassinate a high-ran
 
 ##### Rwanda
 ### [Rwandan opposition leader Victoire Ingabire Umuhoza is arrested on charges such as collaboration with a terrorist organisation and genocide denial. ](/news/2010/04/21/rwandan-opposition-leader-victoire-ingabire-umuhoza-is-arrested-on-charges-such-as-collaboration-with-a-terrorist-organisation-and-genocide.md)
-_Context: Rwanda, terrorist, Victoire Ingabire, genocide_
+_Context: Rwanda, terrorist, genocide, Victoire Ingabire_
 
 ##### Viktor Yanukovych
 ### [Viktor Yanukovych and Dmitry Medvedev agree to extend the lease between Kiev and Moscow that allows Russia's Black Sea Fleet to be stationed in Ukraine in return for cheaper gas until 2042. ](/news/2010/04/21/viktor-yanukovych-and-dmitry-medvedev-agree-to-extend-the-lease-between-kiev-and-moscow-that-allows-russia-s-black-sea-fleet-to-be-stationed.md)
@@ -97,11 +97,11 @@ _Context: Leonardo da Vinci, oil painting, Madonna of the Yarnwinder_
 
 ##### Cirque du Soleil
 ### [Cirque du Soleil announces it will stage a live tour featuring the works of Michael Jackson. ](/news/2010/04/21/cirque-du-soleil-announces-it-will-stage-a-live-tour-featuring-the-works-of-michael-jackson.md)
-_Context: Cirque du Soleil, Michael Jackson, the works_
+_Context: the works, Cirque du Soleil, Michael Jackson_
 
 ##### Oasis
 ### [The man who attacked Oasis guitarist Noel Gallagher on stage at the 2008 Virgin Festival in Toronto is put under house arrest for 12 months. ](/news/2010/04/21/the-man-who-attacked-oasis-guitarist-noel-gallagher-on-stage-at-the-2008-virgin-festival-in-toronto-is-put-under-house-arrest-for-12-months.md)
-_Context: Noel Gallagher, Toronto, Virgin Festival, Oasis_
+_Context: Toronto, Noel Gallagher, Virgin Festival, Oasis_
 
 ## [Previous Day...](/news/2010/04/20/index.md)
 

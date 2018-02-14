@@ -13,15 +13,15 @@ Authorities in Iraq say a double bombing at a Kurdish party office has killed 13
 
 ##### 2014 Jinnah International Airport attack
 ### [Gunmen attack Karachi's Jinnah International Airport resulting in at least 13 deaths and leading to all flights to and from the airport being cancelled. ](/news/2014/06/8/gunmen-attack-karachi-s-jinnah-international-airport-resulting-in-at-least-13-deaths-and-leading-to-all-flights-to-and-from-the-airport-bein.md)
-_Context: 2014 Jinnah International Airport attack, Jinnah International Airport, Karachi_
+_Context: 2014 Jinnah International Airport attack, Karachi, Jinnah International Airport_
 
 ##### Suicide bombing
 ### [24 people killed when militants attacked a Bus carrying Shia pilgrims from Iran to Quetta in Balochistan province of Pakistan.](/news/2014/06/8/24-people-killed-when-militants-attacked-a-bus-carrying-shia-pilgrims-from-iran-to-quetta-in-balochistan-province-of-pakistan.md)
-_Context: Quetta, suicide bombing, Iran, Pakistan, Balochistan_
+_Context: Pakistan, suicide bombing, Quetta, Balochistan, Iran_
 
 ##### 68th Tony Awards
 ### [The 68th Tony Awards are held in Radio City Music Hall in New York City with "All the Way" winning the Tony Award for Best Play. ](/news/2014/06/8/the-68th-tony-awards-are-held-in-radio-city-music-hall-in-new-york-city-with-all-the-way-winning-the-tony-award-for-best-play.md)
-_Context: New York City, Best Play, All the Way, 68th Tony Awards, Radio City Music Hall_
+_Context: 68th Tony Awards, Radio City Music Hall, All the Way, Best Play, New York City_
 
 ##### Bulgaria
 ### [The Government of Bulgaria orders a halt to construction work on the Gazprom-led South Stream pipeline project planned to bypass Ukraine as a transit country into Europe. ](/news/2014/06/8/the-government-of-bulgaria-orders-a-halt-to-construction-work-on-the-gazprom-led-south-stream-pipeline-project-planned-to-bypass-ukraine-as.md)

@@ -13,7 +13,7 @@ _Context: Oruzgan Province, Afghanistan, suicide bomber_
 
 ##### Pope Benedict XVI
 ### [ Pope Benedict XVI arrives in Sydney, Australia for World Youth Day 2008 celebrations. ](/news/2008/07/13/pope-benedict-xvi-arrives-in-sydney-australia-for-world-youth-day-2008-celebrations.md)
-_Context: World Youth Day 2008, Pope Benedict XVI, Sydney_
+_Context: Sydney, Pope Benedict XVI, World Youth Day 2008_
 
 ## [Previous Day...](/news/2008/07/12/index.md)
 

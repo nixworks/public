@@ -21,7 +21,7 @@ The Myanmar activist said the prize helped her keep going in captivity.
 
 ##### Kenneth Branagh
 ### [Actors Kenneth Branagh and Kate Winslet and singer Gary Barlow are among those recognised in the Queen's Birthday Honours. ](/news/2012/06/16/actors-kenneth-branagh-and-kate-winslet-and-singer-gary-barlow-are-among-those-recognised-in-the-queen-s-birthday-honours.md)
-_Context: Queen's Birthday Honours, Kate Winslet, Gary Barlow, Kenneth Branagh_
+_Context: Queen's Birthday Honours, Kenneth Branagh, Kate Winslet, Gary Barlow_
 
 ##### Coca-Cola
 ### [Coca-Cola returns to Myanmar after 60 years, leaving North Korea and Cuba as the only two countries in the world where the company does not do business. ](/news/2012/06/16/coca-cola-returns-to-myanmar-after-60-years-leaving-north-korea-and-cuba-as-the-only-two-countries-in-the-world-where-the-company-does-not.md)
@@ -33,7 +33,7 @@ One person is killed and another seriously hurt after a stage collapses before a
 
 ##### Gorge
 ### [More than 30 people are killed and 15 injured after a bus falls into a gorge in Osmanabad district in the Indian state of Maharashtra. ](/news/2012/06/16/more-than-30-people-are-killed-and-15-injured-after-a-bus-falls-into-a-gorge-in-osmanabad-district-in-the-indian-state-of-maharashtra.md)
-_Context: gorge, Osmanabad district, Maharashtra, Indian state_
+_Context: Indian state, Osmanabad district, Maharashtra, gorge_
 
 ##### Blue Islands
 ### [A Blue Islands ATR 42 aircraft suffers an undercarriage collapse on the runway at Jersey Airport. The aircraft is later evacuated with no injuries reported. ](/news/2012/06/16/a-blue-islands-atr-42-aircraft-suffers-an-undercarriage-collapse-on-the-runway-at-jersey-airport-the-aircraft-is-later-evacuated-with-no-in.md)

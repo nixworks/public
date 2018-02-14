@@ -21,7 +21,7 @@ The first of C-17 planes carrying humanitarian supplies has arrived in Tbilisi, 
 
 ##### Fokker F27-500
 ### [ A Fokker F27-500 cargo aircraft operated by Fly540 Logistics Ltd. crashes in Somalia. Three people died. ](/news/2008/08/13/a-fokker-f27-500-cargo-aircraft-operated-by-fly540-logistics-ltd-crashes-in-somalia-three-people-died.md)
-_Context: Somalia, Fokker F27-500, Fly540 Logistics Ltd._
+_Context: Fokker F27-500, Fly540 Logistics Ltd., Somalia_
 
 ##### Pakistan
 ### [ An explosion at a police station in the Pakistani city of Lahore kills at least three people, on the eve of the 61 st anniversary of independence. ](/news/2008/08/13/an-explosion-at-a-police-station-in-the-pakistani-city-of-lahore-kills-at-least-three-people-on-the-eve-of-the-61-st-anniversary-of-indepe.md)

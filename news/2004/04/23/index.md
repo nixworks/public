@@ -21,7 +21,7 @@ _Context: Bangkok_
 
 ##### Ryongchon disaster
 ### [ Ryongchon disaster: Breaking from previous precedent, the North Korean government asks for and receives United Nations recovery assistance. ](/news/2004/04/23/ryongchon-disaster-breaking-from-previous-precedent-the-north-korean-government-asks-for-and-receives-united-nations-recovery-assistance.md)
-_Context: United Nations, North Korea, government, Ryongchon disaster_
+_Context: United Nations, North Korea, Ryongchon disaster, government_
 
 ## [Previous Day...](/news/2004/04/22/index.md)
 

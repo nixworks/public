@@ -13,7 +13,7 @@ An airstrike launched by the Saudi-led coalition in Yemen killed at least 26 peo
 
 ##### Spillover of the Syrian Civil War
 ### [A rocket fired from ISIL-controlled territory in Syria's Aleppo Governorate, kills at least one person and injures another in the Turkish city of Kilis, close to the Syria-Turkey border. The Turkish military responded with artillery fire on ISIL positions. ](/news/2016/01/18/a-rocket-fired-from-isil-controlled-territory-in-syria-s-aleppo-governorate-kills-at-least-one-person-and-injures-another-in-the-turkish-ci.md)
-_Context: Syria-Turkey border, Turkey, ISIL, Syria, Turkish troops, Aleppo Governorate, Kilis, Spillover of the Syrian Civil War_
+_Context: Syria, Kilis, Turkish troops, Aleppo Governorate, Turkey, Spillover of the Syrian Civil War, Syria-Turkey border, ISIL_
 
 ##### Glenn Frey
 ### [Glenn Frey, a founding member of the Eagles, dies of complications arising from rheumatoid arthritis, colitis and pneumonia. ](/news/2016/01/18/glenn-frey-a-founding-member-of-the-eagles-dies-of-complications-arising-from-rheumatoid-arthritis-colitis-and-pneumonia.md)
@@ -41,7 +41,7 @@ WARRI, Nigeria (AP) — Nigerian separatists said police killed eight people dur
 
 ##### Russia
 ### [The Russian Duma rejects a Communist Party bill banning homosexual expression. ](/news/2016/01/18/the-russian-duma-rejects-a-communist-party-bill-banning-homosexual-expression.md)
-_Context: Russia, Communist Party, Duma, homosexual_
+_Context: homosexual, Duma, Russia, Communist Party_
 
 ##### 2016 U.S. presidential election
 ### [The British Parliament debates a petition, signed by more than 560,000 people, calling for the Home Secretary to ban, because of 'hate speech,' United States Republican Party presidential candidate Donald Trump from entering the United Kingdom. Almost all of the 50 MPs (member of parliament), of the 650-member legislative body, present criticized Trump -- especially his comments on Muslims -- but few supported an entry ban. ](/news/2016/01/18/the-british-parliament-debates-a-petition-signed-by-more-than-560-000-people-calling-for-the-home-secretary-to-ban-because-of-hate-speec.md)

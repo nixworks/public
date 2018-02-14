@@ -9,7 +9,7 @@ About 50 people are continuing to blockade the Israeli embassy in Dublin today i
 
 ##### Ahlu Sunnah Waljama
 ### [The pro-government militia group of Ahlu Sunnah Waljama (ASW) in Somalia claims to have killed at least 91 Islamist fighters and wounded 170 others in Thursday's fierce clashes. ](/news/2010/06/4/the-pro-government-militia-group-of-ahlu-sunnah-waljama-asw-in-somalia-claims-to-have-killed-at-least-91-islamist-fighters-and-wounded-170.md)
-_Context: Ahlu Sunnah Waljama, Islamist, Somalia_
+_Context: Somalia, Ahlu Sunnah Waljama, Islamist_
 
 ##### Prime Minister
 ### [Prime Minister of the United Kingdom David Cameron visits Cumbria. ](/news/2010/06/4/prime-minister-of-the-united-kingdom-david-cameron-visits-cumbria.md)
@@ -17,7 +17,7 @@ The BBC apologises for airing a radio play about a murderer featuring gunshots, 
 
 ##### McDonalds
 ### [McDonalds recalls 12 million promotional glasses for the movie "Shrek Forever After" due to the presence of cadmium in the painted design. ](/news/2010/06/4/mcdonalds-recalls-12-million-promotional-glasses-for-the-movie-shrek-forever-after-due-to-the-presence-of-cadmium-in-the-painted-design.md)
-_Context: cadmium, glasses, Shrek Forever After, McDonalds_
+_Context: cadmium, McDonalds, Shrek Forever After, glasses_
 
 ##### Zamfara State lead poisoning epidemic
 ### [163 people die from lead poisoning in Zamfara State, Nigeria: confirmed cases being treated number 355. ](/news/2010/06/4/163-people-die-from-lead-poisoning-in-zamfara-state-nigeria-confirmed-cases-being-treated-number-355.md)
@@ -25,7 +25,7 @@ More than 100 children have recently died of lead poisoning in northern Nigeria 
 
 ##### A fire
 ### [The death toll rises to 109 following a fire in the centre of Dhaka, Bangladesh. At least 50 injured victims struggle for life at the state-run Dhaka Medical College Hospital. ](/news/2010/06/4/the-death-toll-rises-to-109-following-a-fire-in-the-centre-of-dhaka-bangladesh-at-least-50-injured-victims-struggle-for-life-at-the-state.md)
-_Context: a fire, Dhaka, Dhaka Medical College Hospital, Bangladesh_
+_Context: a fire, Bangladesh, Dhaka, Dhaka Medical College Hospital_
 
 ##### Italy
 ### [Seven Italian officials are investigated for manslaughter relating to the 2009 L'Aquila earthquake. ](/news/2010/06/4/seven-italian-officials-are-investigated-for-manslaughter-relating-to-the-2009-l-aquila-earthquake.md)
@@ -61,7 +61,7 @@ The Pope says he is saddened by the killing of a Catholic bishop in Turkey, but 
 
 ##### Ahmadinejad
 ### [Iranian President Ahmadinejad warns Iran opposition ahead of election anniversary. ](/news/2010/06/4/iranian-president-ahmadinejad-warns-iran-opposition-ahead-of-election-anniversary.md)
-_Context: Iran, Ahmadinejad_
+_Context: Ahmadinejad, Iran_
 
 ##### Myanmar
 ### [An investigation by an anti-government Myanmar broadcaster finds evidence that it says shows the country's military regime has begun a programme to develop nuclear weapons. ](/news/2010/06/4/an-investigation-by-an-anti-government-myanmar-broadcaster-finds-evidence-that-it-says-shows-the-country-s-military-regime-has-begun-a-progr.md)
@@ -69,7 +69,7 @@ Secret files show ruling military building atomic weapons programme, defectors s
 
 ##### Naoto Kan
 ### [Naoto Kan is elected as the new leader of the Democratic Party of Japan and subsequently as the new Prime Minister of Japan, where he currently awaits confirmation from Emperor Akihito. ](/news/2010/06/4/naoto-kan-is-elected-as-the-new-leader-of-the-democratic-party-of-japan-and-subsequently-as-the-new-prime-minister-of-japan-where-he-curren.md)
-_Context: Naoto Kan, Democratic Party, Prime Minister of Japan, Emperor Akihito_
+_Context: Prime Minister of Japan, Naoto Kan, Democratic Party, Emperor Akihito_
 
 ##### United Kingdom
 ### [The Government of the United Kingdom releases hitherto undisclosed public spending details from the past two years ](/news/2010/06/4/the-government-of-the-united-kingdom-releases-hitherto-undisclosed-public-spending-details-from-the-past-two-years.md)

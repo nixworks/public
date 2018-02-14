@@ -37,7 +37,7 @@ A fire fanned by strong winds sweeps through the Torch skyscraper in Dubai, one 
 
 ##### U.S.
 ### [At least 23 people die this week in the United States due to cold weather, with 18 dead in the state of Tennessee. ](/news/2015/02/20/at-least-23-people-die-this-week-in-the-united-states-due-to-cold-weather-with-18-dead-in-the-state-of-tennessee.md)
-_Context: Tennessee, U.S._
+_Context: U.S., Tennessee_
 
 ##### Ebola virus epidemic in West Africa
 ### [Liberia lifts curfews and reopens borders from Sunday as the epidemic starts to end. ](/news/2015/02/20/liberia-lifts-curfews-and-reopens-borders-from-sunday-as-the-epidemic-starts-to-end.md)
@@ -45,7 +45,7 @@ Liberia said Friday it was lifting nationwide curfews and re-opening borders shu
 
 ##### Australia
 ### [Australian rugby star Karmichael Hunt is arrested on charges of supplying cocaine following a Queensland Crime and Corruption Commission operation. ](/news/2015/02/20/australian-rugby-star-karmichael-hunt-is-arrested-on-charges-of-supplying-cocaine-following-a-queensland-crime-and-corruption-commission-ope.md)
-_Context: cocaine, Australia, Karmichael Hunt, Crime and Corruption Commission, Queensland_
+_Context: Australia, cocaine, Karmichael Hunt, Queensland, Crime and Corruption Commission_
 
 ##### Thailand
 ### [Thailand passes a law banning foreigners from hiring Thai women as commercial surrogate mothers. ](/news/2015/02/20/thailand-passes-a-law-banning-foreigners-from-hiring-thai-women-as-commercial-surrogate-mothers.md)

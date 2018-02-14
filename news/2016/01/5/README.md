@@ -13,7 +13,7 @@ Infuriated by rumour that BSF personnel opened fire, a mob torched the Kaliachak
 
 ##### Nimr al-Nimr
 ### [One Shia protester is killed and a child is injured by Saudi police in Al-Awamiyah, Eastern Province. ](/news/2016/01/5/one-shia-protester-is-killed-and-a-child-is-injured-by-saudi-police-in-al-awamiyah-eastern-province.md)
-_Context: Eastern Province, Nimr al-Nimr, Al-Awamiyah_
+_Context: Al-Awamiyah, Nimr al-Nimr, Eastern Province_
 
 ##### Libyan Civil War (2014-present)
 ### [Islamic State militants continue to besiege the Libyan oil port of Sidra, attacking checkpoints on the road to the port, leaving seven guards dead. The National Oil Corporation (NOC) said an oil storage tank in the port was set on fire by a long-range rocket, and that the oil tank fire started just as firefighters were close to bringing under control another blaze at an oil tank that was hit during fighting in the nearby Ra's Lanuf Refinery on Monday. ](/news/2016/01/5/islamic-state-militants-continue-to-besiege-the-libyan-oil-port-of-sidra-attacking-checkpoints-on-the-road-to-the-port-leaving-seven-guard.md)
@@ -21,7 +21,7 @@ Islamic State militants attacked checkpoints near the Libyan oil port of Es Side
 
 ##### ISIL
 ### [The Islamic State, following Saudi Arabia's execution of 47 people on Saturday, threatens to destroy Saudi Arabia's Tarfiya and al-Ha'ir Prisons holding Al-Qaeda and ISIL supporters. ](/news/2016/01/5/the-islamic-state-following-saudi-arabia-s-execution-of-47-people-on-saturday-threatens-to-destroy-saudi-arabia-s-tarfiya-and-al-ha-ir-pri.md)
-_Context: al-Ha'ir Prison, Saudi Arabia, ISIL, al-Qaida_
+_Context: ISIL, al-Qaida, al-Ha'ir Prison, Saudi Arabia_
 
 ##### Yinchuan
 ### [A bus catches fire in the Chinese city of Yinchuan resulting in at least 14 deaths and over 30 injured. ](/news/2016/01/5/a-bus-catches-fire-in-the-chinese-city-of-yinchuan-resulting-in-at-least-14-deaths-and-over-30-injured.md)
@@ -41,7 +41,7 @@ TAIPEI • China will allow transit stops in Taiwan for flights from three Chine
 
 ##### People's Liberation Army Rocket Force
 ### [The Second Artillery Corps is re-organized into the People's Liberation Army Rocket Force.The People's Liberation Army Strategic Support Force is founded, with Gao Jin as its inaugural commander and Liu Fulian as Political Commissar.The Ground Force is re-organized under the People's Liberation Army Ground Force Command, under commander Li Zuocheng. ](/news/2016/01/5/the-second-artillery-corps-is-re-organized-into-the-people-s-liberation-army-rocket-force-the-people-s-liberation-army-strategic-support-for.md)
-_Context: Gao Jin, Liu Fulian, People's Liberation Army Rocket Force, Li Zuocheng, People's Liberation Army Strategic Support Force, Ground Force_
+_Context: Gao Jin, People's Liberation Army Rocket Force, Ground Force, Li Zuocheng, Liu Fulian, People's Liberation Army Strategic Support Force_
 
 ##### Deputy Communist Party Secretary
 ### [Former Beijing Deputy Communist Party Secretary Lu Xiwen is expelled from the Communist Party of China for "interfering with the market economy and law enforcement" and "living a luxurious lifestyle", among other offenses. ](/news/2016/01/5/former-beijing-deputy-communist-party-secretary-lu-xiwen-is-expelled-from-the-communist-party-of-china-for-interfering-with-the-market-econ.md)
@@ -49,7 +49,7 @@ _Context: Lu Xiwen, Deputy Communist Party Secretary_
 
 ##### 2016 U.S. presidential election
 ### [On January 18, 2016, the British Parliament will debate a petition, signed by more than 560,000 people, calling for the Home Secretary to ban United States Republican Party presidential candidate Donald Trump from entering the United Kingdom because of 'hate speech' that is unacceptable behavior, non-conducive to the public good. The conclusion reached by the lawmakers will not be binding on the UK government. ](/news/2016/01/5/on-january-18-2016-the-british-parliament-will-debate-a-petition-signed-by-more-than-560-000-people-calling-for-the-home-secretary-to-ba.md)
-_Context: United Kingdom, 10 Downing Street, Donald Trump, Republican Party presidential candidate, U.S., hate speech, 2016 U.S. presidential election, Parliament, Home Secretary_
+_Context: Republican Party presidential candidate, United Kingdom, Home Secretary, 2016 U.S. presidential election, Parliament, U.S., 10 Downing Street, hate speech, Donald Trump_
 
 ##### United Kingdom withdrawal from the European Union
 ### [The United Kingdom's Prime Minister David Cameron announces he will suspend collective responsibility ahead of the referendum on the country's EU membership, allowing ministers to campaign for the UK to leave the European Union. A member of his cabinet was reportedly due to resign over the issue within 24 hours. ](/news/2016/01/5/the-united-kingdom-s-prime-minister-david-cameron-announces-he-will-suspend-collective-responsibility-ahead-of-the-referendum-on-the-country.md)

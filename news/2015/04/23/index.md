@@ -5,7 +5,7 @@ Formats: [HTML](2015/04/23/index.html)  [JSON](2015/04/23/index.json)  [XML](201
 
 ##### Prime Minister
 ### [The Prime Minister of France Manuel Valls claims that five terrorist attacks have been "foiled" in France in recent months. ](/news/2015/04/23/the-prime-minister-of-france-manuel-valls-claims-that-five-terrorist-attacks-have-been-foiled-in-france-in-recent-months.md)
-_Context: Prime Minister, Manuel Valls, France_
+_Context: Manuel Valls, France, Prime Minister_
 
 ##### War in Afghanistan (2015-present)
 ### [The United States advises that a counterterrorism operation on the border of Afghanistan and Pakistan has killed American and Italian al-Qaeda hostages Warren Weinstein and Giovanni Lo Porto. ](/news/2015/04/23/the-united-states-advises-that-a-counterterrorism-operation-on-the-border-of-afghanistan-and-pakistan-has-killed-american-and-italian-al-qae.md)
@@ -33,7 +33,7 @@ Former US army general and CIA director fined $100,000 – $60,000 more than exp
 
 ##### Djoomart Otorbaev
 ### [Djoomart Otorbaev resigns as the Prime Minister of Kyrgyzstan. ](/news/2015/04/23/djoomart-otorbaev-resigns-as-the-prime-minister-of-kyrgyzstan.md)
-_Context: Prime Minister, Djoomart Otorbaev_
+_Context: Djoomart Otorbaev, Prime Minister_
 
 ##### United States Senate
 ### [The United States Senate confirms Loretta Lynch as the Attorney General of the United States. Lynch will be the first African-American woman to hold the position. ](/news/2015/04/23/the-united-states-senate-confirms-loretta-lynch-as-the-attorney-general-of-the-united-states-lynch-will-be-the-first-african-american-woman.md)

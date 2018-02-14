@@ -9,7 +9,7 @@ _Context: Hosni Mubarak_
 
 ##### Southern Sudan
 ### [At least 16 people have been killed the Southern Sudanese state of Jonglei, breaking a ceasefire agreed last month. ](/news/2011/02/10/at-least-16-people-have-been-killed-the-southern-sudanese-state-of-jonglei-breaking-a-ceasefire-agreed-last-month.md)
-_Context: state, Southern Sudan, Jonglei_
+_Context: Jonglei, Southern Sudan, state_
 
 ##### Suicide bomber
 ### [A suicide bomber attacks a Pakistan Army recruitment centre in northwestern Pakistan causing at least 27 deaths and 40 injuries. ](/news/2011/02/10/a-suicide-bomber-attacks-a-pakistan-army-recruitment-centre-in-northwestern-pakistan-causing-at-least-27-deaths-and-40-injuries.md)
@@ -41,7 +41,7 @@ _Context: Allentown, Pennsylvania_
 
 ##### Snowstorm
 ### [A snowstorm hits the Southeastern United States and Tennessee Valley with warnings in place across ten states. ](/news/2011/02/10/a-snowstorm-hits-the-southeastern-united-states-and-tennessee-valley-with-warnings-in-place-across-ten-states.md)
-_Context: snowstorm, Tennessee Valley, Southeastern United States_
+_Context: snowstorm, Southeastern United States, Tennessee Valley_
 
 ##### Communist Party of Cuba
 ### [Cuban Information and Communications Minister Medardo Diaz welcomes the arrival of an undersea fibre-optic cable linking it to Venezuela, which offered to help the island speed up its internet connection after the United States refused. ](/news/2011/02/10/cuban-information-and-communications-minister-medardo-diaz-welcomes-the-arrival-of-an-undersea-fibre-optic-cable-linking-it-to-venezuela-wh.md)
@@ -49,7 +49,7 @@ Cuba hails the arrival of a fibre-optic communications cable linking it to Venez
 
 ##### North Korea
 ### [North Korea reports that it will not conduct further talks with South Korea, citing a perceived lack of seriousness on South Korea's part. ](/news/2011/02/10/north-korea-reports-that-it-will-not-conduct-further-talks-with-south-korea-citing-a-perceived-lack-of-seriousness-on-south-korea-s-part.md)
-_Context: South Korea, North Korea_
+_Context: North Korea, South Korea_
 
 ##### India
 ### [Reuters reports that India and Pakistan have agreed to resume peace talks that were broken off after the 2008 Mumbai attacks. ](/news/2011/02/10/reuters-reports-that-india-and-pakistan-have-agreed-to-resume-peace-talks-that-were-broken-off-after-the-2008-mumbai-attacks.md)
@@ -57,7 +57,7 @@ India and Pakistan haveagreed to formally resume peace talks that were broken of
 
 ##### Indonesia
 ### [The trial of Indonesian Muslim cleric Abu Bakar Bashir on terrorism charges begins in Jakarta. ](/news/2011/02/10/the-trial-of-indonesian-muslim-cleric-abu-bakar-bashir-on-terrorism-charges-begins-in-jakarta.md)
-_Context: Muslim, Jakarta, Indonesia, Abu Bakar Bashir, terrorism_
+_Context: Indonesia, Muslim, Jakarta, terrorism, Abu Bakar Bashir_
 
 ##### China
 ### [Blind Chinese activist Chen Guangcheng says, in a secretly shot video, that he is still under house arrest after being released from prison. ](/news/2011/02/10/blind-chinese-activist-chen-guangcheng-says-in-a-secretly-shot-video-that-he-is-still-under-house-arrest-after-being-released-from-prison.md)

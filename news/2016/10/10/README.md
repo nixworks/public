@@ -13,7 +13,7 @@ Death of nine officers in Rohingya-dominated area in Rakhine state sets off mili
 
 ##### Poles
 ### [Polish film director and recipient of an Academy Honorary Award Andrzej Wajda dies at the age of 90. ](/news/2016/10/10/polish-film-director-and-recipient-of-an-academy-honorary-award-andrzej-wajda-dies-at-the-age-of-90.md)
-_Context: Andrzej Wajda, Academy Honorary Award, Poles_
+_Context: Andrzej Wajda, Poles, Academy Honorary Award_
 
 ##### United Kingdom
 ### [British-born American Oliver Hart and Finnish Bengt Holmstrom win the Nobel Prize in Economics for their work on the science of contracts. ](/news/2016/10/10/british-born-american-oliver-hart-and-finnish-bengt-holmstrapm-win-the-nobel-prize-in-economics-for-their-work-on-the-science-of-contracts.md)

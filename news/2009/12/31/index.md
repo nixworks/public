@@ -5,7 +5,7 @@ Formats: [HTML](2009/12/31/index.html)  [JSON](2009/12/31/index.json)  [XML](200
 
 ##### High Court
 ### [ A High Court in Malaysia rules that the country's Christians have a constitutional right to use the word "Allah" in reference to God, declaring the government's ban on the use of "Allah" by non-Muslims as unconstitutional. ](/news/2009/12/31/a-high-court-in-malaysia-rules-that-the-country-s-christians-have-a-constitutional-right-to-use-the-word-allah-in-reference-to-god-decla.md)
-_Context: High Court, Muslim, Malaysia, God, unconstitutional, Christians, constitutional right, Allah_
+_Context: unconstitutional, Allah, Muslim, God, Christians, Malaysia, constitutional right, High Court_
 
 ##### Catholic Church
 ### [ Former Catholic Primate of All Ireland Cardinal Cahal Daly, "the hierarchy's foremost theologian and its most trenchant critic of politically-inspired violence", dies in Belfast aged 92. ](/news/2009/12/31/former-catholic-primate-of-all-ireland-cardinal-cahal-daly-the-hierarchy-s-foremost-theologian-and-its-most-trenchant-critic-of-political.md)
@@ -13,19 +13,19 @@ Tributes have been paid to the former Catholic Primate of All Ireland, Cardinal 
 
 ##### Senegal
 ### [ Senegalese President Abdoulaye Wade issues an apology to "humiliated" Christians for comparing an "idolatrous" statue to Jesus Christ. ](/news/2009/12/31/senegalese-president-abdoulaye-wade-issues-an-apology-to-humiliated-christians-for-comparing-an-idolatrous-statue-to-jesus-christ.md)
-_Context: Jesus, Abdoulaye Wade, Senegal, President_
+_Context: Abdoulaye Wade, President, Senegal, Jesus_
 
 ##### France
 ### [ Two French journalists and their translator are kidnapped in Kapisa Province, Afghanistan. ](/news/2009/12/31/two-french-journalists-and-their-translator-are-kidnapped-in-kapisa-province-afghanistan.md)
-_Context: Kapisa Province, France, Afghanistan_
+_Context: France, Afghanistan, Kapisa Province_
 
 ##### Althing
 ### [ The Althing (Icelandic parliament) approves the payment of EUR3.8 billion to the United Kingdom and the Netherlands as deposit insurance for the collapsed Icesave savings scheme. ](/news/2009/12/31/the-althing-icelandic-parliament-approves-the-payment-of-a-3-8-billion-to-the-united-kingdom-and-the-netherlands-as-deposit-insurance-fo.md)
-_Context: Netherlands, Icesave, Iceland, United Kingdom, deposit insurance, Althing_
+_Context: Netherlands, Iceland, United Kingdom, deposit insurance, Althing, Icesave_
 
 ##### Government of Serbia
 ### [ The Government of Serbia decides to sue Croatia for genocide before the International Court of Justice. ](/news/2009/12/31/the-government-of-serbia-decides-to-sue-croatia-for-genocide-before-the-international-court-of-justice.md)
-_Context: Croatia, Government of Serbia, genocide, International Court of Justice_
+_Context: Croatia, International Court of Justice, genocide, Government of Serbia_
 
 ##### University of Cambridge
 ### [ The University of Cambridge successfully acquires a collection of Siegfried Sassoon's personal papers for GBP1.25 million, following a six-month fundraising campaign. ](/news/2009/12/31/the-university-of-cambridge-successfully-acquires-a-collection-of-siegfried-sassoon-s-personal-papers-for-agbp1-25-million-following-a-six.md)
@@ -33,7 +33,7 @@ Cambridge University has acquired an important collection of personal papers bel
 
 ##### Killed by a gunman
 ### [ At least six people are killed by a gunman at a shopping centre in Espoo, near Helsinki. ](/news/2009/12/31/at-least-six-people-are-killed-by-a-gunman-at-a-shopping-centre-in-espoo-near-helsinki.md)
-_Context: killed by a gunman, Helsinki, Espoo_
+_Context: Helsinki, Espoo, killed by a gunman_
 
 ##### Lithuania
 ### [ Lithuania shuts the Baltic region's one and only nuclear power station in Visaginas. The Lithuanian nuclear power station provides 70% of the nation's energy and was traded for membership to the European Union. ](/news/2009/12/31/lithuania-shuts-the-baltic-region-s-one-and-only-nuclear-power-station-in-visaginas-the-lithuanian-nuclear-power-station-provides-70-of-t.md)
@@ -49,7 +49,7 @@ Van Morrison has exclusively told RTÉ Radio&#39;s News at One that his official
 
 ##### Sir Patrick Stewart
 ### [ Patrick Stewart, the actor who played Captain Jean-Luc Picard in "Star Trek: The Next Generation" and Professor X in "X-Men", is knighted by Queen Elizabeth II of the United Kingdom. ](/news/2009/12/31/patrick-stewart-the-actor-who-played-captain-jean-luc-picard-in-star-trek-the-next-generation-and-professor-x-in-x-men-is-knighted-b.md)
-_Context: X-Men, Queen Elizabeth, his role, Star Trek: The Next Generation, Sir Patrick Stewart, knights and dames, Professor X, Queen_
+_Context: Queen, knights and dames, his role, Queen Elizabeth, Star Trek: The Next Generation, X-Men, Professor X, Sir Patrick Stewart_
 
 ##### Blue moon
 ### [ Both a blue moon and a lunar eclipse occur. ](/news/2009/12/31/both-a-blue-moon-and-a-lunar-eclipse-occur.md)

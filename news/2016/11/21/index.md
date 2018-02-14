@@ -9,7 +9,7 @@ A fragile 48-hour ceasefire in Yemen ended on Monday after failing to stem viole
 
 ##### War in Afghanistan
 ### [At least 32 people are killed and another 80 injured in a suicide bombing at a Kabul Shia mosque. ISIL claims responsibility. ](/news/2016/11/21/at-least-32-people-are-killed-and-another-80-injured-in-a-suicide-bombing-at-a-kabul-shia-mosque-isil-claims-responsibility.md)
-_Context: War in Afghanistan, November 2016 Kabul suicide bombing, suicide bombing, Shia, mosque, ISIL, Kabul_
+_Context: mosque, Shia, Kabul, ISIL, suicide bombing, November 2016 Kabul suicide bombing, War in Afghanistan_
 
 ##### Boko Haram insurgency
 ### [A militant attack on a base in Lake Chad leaves six Cameroonian soldiers dead. ](/news/2016/11/21/a-militant-attack-on-a-base-in-lake-chad-leaves-six-cameroonian-soldiers-dead.md)
@@ -41,19 +41,19 @@ Tree slices through school bus carrying 35 passengers, grades K-5, after acciden
 
 ##### Russia-United States relations
 ### [President Barack Obama and Vladimir Putin meet in Peru on the sidelines of the Asia-Pacific Economic Cooperation conference to discuss involvement in the Syrian Civil War. ](/news/2016/11/21/president-barack-obama-and-vladimir-putin-meet-in-peru-on-the-sidelines-of-the-asia-pacific-economic-cooperation-conference-to-discuss-invol.md)
-_Context: Russia-United States relations, Syrian Civil War, Barack Obama, Asia-Pacific Economic Cooperation, Vladimir Putin, APEC Peru 2016, Peru_
+_Context: Vladimir Putin, Barack Obama, Syrian Civil War, APEC Peru 2016, Russia-United States relations, Asia-Pacific Economic Cooperation, Peru_
 
 ##### NATO-Russia relations
 ### [Russia deploys its S-400 missile system in Kaliningrad, an exclave between Poland and Lithuania, in response to "NATO expansion" near its borders. The United States criticizes the move as "destabilizing" to Europe. Russia announced the planned deployment over a decade ago. ](/news/2016/11/21/russia-deploys-its-s-400-missile-system-in-kaliningrad-an-exclave-between-poland-and-lithuania-in-response-to-nato-expansion-near-its-bo.md)
-_Context: U.S., NATO, NATO-Russia relations, Kaliningrad, Lithuania, Polish, Russia, S-400 missile_
+_Context: S-400 missile, NATO-Russia relations, NATO, Polish, Lithuania, Russia, Kaliningrad, U.S._
 
 ##### Philippine criminal law
 ### [Concern is raised by the United Nations and human rights groups after Rodrigo Duterte proposes a law that allows jailing children as young as nine for certain crimes. ](/news/2016/11/21/concern-is-raised-by-the-united-nations-and-human-rights-groups-after-rodrigo-duterte-proposes-a-law-that-allows-jailing-children-as-young-a.md)
-_Context: Rodrigo Duterte, Philippine criminal law_
+_Context: Philippine criminal law, Rodrigo Duterte_
 
 ##### Corruption investigation of Luiz Inacio Lula da Silva
 ### [Testimony begins in a corruption case against former President of Brazil Luiz Inacio Lula da Silva. ](/news/2016/11/21/testimony-begins-in-a-corruption-case-against-former-president-of-brazil-luiz-ina-cio-lula-da-silva.md)
-_Context: Corruption investigation of Luiz Inacio Lula da Silva, president, Luiz Inacio Lula da Silva_
+_Context: Luiz Inacio Lula da Silva, Corruption investigation of Luiz Inacio Lula da Silva, president_
 
 ##### Presidency of Donald Trump
 ### [President-elect Donald Trump announces his plans for his first day in office, including quitting the Trans-Pacific Partnership (TPP) and canceling restrictions on United States energy production. ](/news/2016/11/21/president-elect-donald-trump-announces-his-plans-for-his-first-day-in-office-including-quitting-the-trans-pacific-partnership-tpp-and-can.md)

@@ -33,7 +33,7 @@ Seattle rockers Pearl Jam, the late rapper Tupac Shakur and 1970s hitmaking band
 
 ##### Jhelum River
 ### [Six people are killed and two are missing after the Jhelum River in Kashmir overflows following heavy rain and snowfall. ](/news/2017/04/7/six-people-are-killed-and-two-are-missing-after-the-jhelum-river-in-kashmir-overflows-following-heavy-rain-and-snowfall.md)
-_Context: Kashmir, Jhelum River_
+_Context: Jhelum River, Kashmir_
 
 ##### Myanmar
 ### [Twenty people have died and more than a dozen missing after a ferry capsizes in Myanmar's Irrawaddy River delta. ](/news/2017/04/7/twenty-people-have-died-and-more-than-a-dozen-missing-after-a-ferry-capsizes-in-myanmar-s-irrawaddy-river-delta.md)
@@ -53,7 +53,7 @@ The Trump administration has retreated from its demands that Twitter name the pe
 
 ##### Neil Gorsuch
 ### [Neil Gorsuch is confirmed as the 113th justice of the Supreme Court of the United States by a 54-45 vote in the United States Senate after invocation of the "nuclear option". ](/news/2017/04/7/neil-gorsuch-is-confirmed-as-the-113th-justice-of-the-supreme-court-of-the-united-states-by-a-54a45-vote-in-the-united-states-senate-after.md)
-_Context: Neil Gorsuch, nuclear option, Supreme Court of the United States, United States Senate_
+_Context: nuclear option, Neil Gorsuch, United States Senate, Supreme Court of the United States_
 
 ##### Alabama
 ### [The governor of the State of Alabama, Robert Bentley, wins a court victory halting impeachment proceedings that were set to begin Monday to determine whether he should remain in office after it was discovered that he had a romantic relationship with a staffer. ](/news/2017/04/7/the-governor-of-the-state-of-alabama-robert-bentley-wins-a-court-victory-halting-impeachment-proceedings-that-were-set-to-begin-monday-to.md)

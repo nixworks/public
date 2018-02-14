@@ -5,11 +5,11 @@ Formats: [HTML](2014/08/5/index.html)  [JSON](2014/08/5/index.json)  [XML](2014/
 
 ##### War in Afghanistan
 ### [A U.S. major general Harold J. Greene is killed, and a German brigadier general and several American troops are among the 15 wounded, in a attack by an Afghan soldier gunman - who was killed by Afghan soldiers - at Kabul's Marshal Fahim National Defense University. ](/news/2014/08/5/a-u-s-major-general-harold-j-greene-is-killed-and-a-german-brigadier-general-and-several-american-troops-are-among-the-15-wounded-in-a-a.md)
-_Context: Kabul, U.S., major general, Harold J. Greene, brigadier general, German, War in Afghanistan_
+_Context: Kabul, Harold J. Greene, U.S., brigadier general, War in Afghanistan, major general, German_
 
 ##### Marinka
 ### [Ukrainian government forces recapture control of Marinka on the western edge of the pro-Russian rebel-held city of Donetsk. ](/news/2014/08/5/ukrainian-government-forces-recapture-control-of-marinka-on-the-western-edge-of-the-pro-russian-rebel-held-city-of-donetsk.md)
-_Context: Marinka, Donetsk_
+_Context: Donetsk, Marinka_
 
 ##### 2014 Israel-Gaza conflict
 ### [Israeli ground forces will leave the Gaza Strip ahead of an Egyptian mediated ceasefire starting at 0500 GMT today. ](/news/2014/08/5/israeli-ground-forces-will-leave-the-gaza-strip-ahead-of-an-egyptian-mediated-ceasefire-starting-at-0500-gmt-today.md)

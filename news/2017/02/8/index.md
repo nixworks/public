@@ -41,7 +41,7 @@ Motion follows biggest protests in decades against decree that would have decrim
 
 ##### Somali presidential election, 2017
 ### [Somali politicians gather inside a high-security compound at Aden Adde International Airport in Mogadishu to elect a President for the country, with current president Hassan Sheikh Mohamud running for a second term. ](/news/2017/02/8/somali-politicians-gather-inside-a-high-security-compound-at-aden-adde-international-airport-in-mogadishu-to-elect-a-president-for-the-count.md)
-_Context: Mogadishu, Hassan Sheikh Mohamud, Somali presidential election, 2017, President, Aden Adde International Airport_
+_Context: Hassan Sheikh Mohamud, President, Aden Adde International Airport, Somali presidential election, 2017, Mogadishu_
 
 ##### Cabinet of Donald Trump
 ### [The United States Senate, in a 52 to 47 vote, confirms the nomination of Jeff Sessions as United States Attorney General. ](/news/2017/02/8/the-united-states-senate-in-a-52-to-47-vote-confirms-the-nomination-of-jeff-sessions-as-united-states-attorney-general.md)
