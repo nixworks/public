@@ -9,7 +9,7 @@ Gun battle at base in southern part of Indian-administered Kashmir leaves five s
 
 ##### Boycott, Divestment and Sanctions
 ### [An American Jewish rabbi publishes an ad in "The Washington Post" calling the New Zealand pop singer Lorde a "bigot" after she cancelled her concert in Israel. ](/news/2018/01/1/an-american-jewish-rabbi-publishes-an-ad-in-the-washington-post-calling-the-new-zealand-pop-singer-lorde-a-bigot-after-she-cancelled-her.md)
-_Context: Boycott, Divestment and Sanctions, bigot, rabbi, Lorde, Israel, The Washington Post_
+_Context: Boycott, Divestment and Sanctions, rabbi, bigot, The Washington Post, Lorde, Israel_
 
 ##### Value Added Tax
 ### [Value Added Tax (VAT) has been introduced in Saudi Arabia and the United Arab Emirates for the first time. ](/news/2018/01/1/value-added-tax-vat-has-been-introduced-in-saudi-arabia-and-the-united-arab-emirates-for-the-first-time.md)
@@ -21,7 +21,7 @@ Several others are missing after the vessel, whose passengers included children,
 
 ##### Northland
 ### [Two people are killed in a plane crash in Northland, New Zealand. ](/news/2018/01/1/two-people-are-killed-in-a-plane-crash-in-northland-new-zealand.md)
-_Context: New Zealand, Northland_
+_Context: Northland, New Zealand_
 
 ##### Pakistan-United States relations
 ### [U.S. President Donald Trump tweets that Pakistan has been a "safe haven" for terrorists from Afghanistan and has given America "nothing but lies & deceit" after getting more than $33 billion in U.S. aid. ](/news/2018/01/1/u-s-president-donald-trump-tweets-that-pakistan-has-been-a-safe-haven-for-terrorists-from-afghanistan-and-has-given-america-nothing-but.md)
