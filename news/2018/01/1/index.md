@@ -9,7 +9,7 @@ Gun battle at base in southern part of Indian-administered Kashmir leaves five s
 
 ##### Boycott, Divestment and Sanctions
 ### [An American Jewish rabbi publishes an ad in "The Washington Post" calling the New Zealand pop singer Lorde a "bigot" after she cancelled her concert in Israel. ](/news/2018/01/1/an-american-jewish-rabbi-publishes-an-ad-in-the-washington-post-calling-the-new-zealand-pop-singer-lorde-a-bigot-after-she-cancelled-her.md)
-_Context: bigot, Boycott, Divestment and Sanctions, Israel, The Washington Post, Lorde, rabbi_
+_Context: bigot, Lorde, rabbi, The Washington Post, Israel, Boycott, Divestment and Sanctions_
 
 ##### Value Added Tax
 ### [Value Added Tax (VAT) has been introduced in Saudi Arabia and the United Arab Emirates for the first time. ](/news/2018/01/1/value-added-tax-vat-has-been-introduced-in-saudi-arabia-and-the-united-arab-emirates-for-the-first-time.md)

@@ -21,7 +21,7 @@ It is the biggest series of hangings since 2015 in Egypt, which is battling an i
 
 ##### Liberian general election, 2017
 ### [Voters in Liberia will elect a new president in a run-off election between vice-president Joseph Boakai and former footballer George Weah. Weah is elected with 60% of the vote. ](/news/2017/12/26/voters-in-liberia-will-elect-a-new-president-in-a-run-off-election-between-vice-president-joseph-boakai-and-former-footballer-george-weah-w.md)
-_Context: Liberia, Joseph Boakai, Liberian general election, 2017, George Weah_
+_Context: Liberian general election, 2017, George Weah, Liberia, Joseph Boakai_
 
 ##### Mining industry of Morocco
 ### [Thousands of Moroccans protest working conditions in Morocco's coal pits. ](/news/2017/12/26/thousands-of-moroccans-protest-working-conditions-in-morocco-s-coal-pits.md)
