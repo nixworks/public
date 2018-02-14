@@ -25,15 +25,19 @@ Jacob Zuma is refusing to resign so his party has decided to issue a formal dema
 
 ##### Politics of the Netherlands
 ### [Halbe Zijlstra offers his resignation as Minister of Foreign Affairs of the Netherlands. Minister Sigrid Kaag takes over the portfolio ad interim. ](/news/2018/02/13/halbe-zijlstra-offers-his-resignation-as-minister-of-foreign-affairs-of-the-netherlands-minister-sigrid-kaag-takes-over-the-portfolio-ad-in.md)
-_Context: ad interim, Politics of the Netherlands, Minister of Foreign Affairs of the Netherlands, Sigrid Kaag, Halbe Zijlstra, Minister_
+_Context: Minister of Foreign Affairs of the Netherlands, Minister, Halbe Zijlstra, ad interim, Politics of the Netherlands, Sigrid Kaag_
 
 ##### Politics of Germany
 ### [Martin Schulz resigns as leader of the Social Democratic Party of Germany (SPD) with immediate effect. The mayor of Hamburg Olaf Scholz will serve as interim leader until a new leader is elected. ](/news/2018/02/13/martin-schulz-resigns-as-leader-of-the-social-democratic-party-of-germany-spd-with-immediate-effect-the-mayor-of-hamburg-olaf-scholz-will.md)
-_Context: Olaf Scholz, Politics of Germany, Social Democratic Party of Germany, Hamburg, mayor, Martin Schulz_
+_Context: Martin Schulz, Hamburg, Politics of Germany, Social Democratic Party of Germany, mayor, Olaf Scholz_
 
 ##### Supersonic transport
 ### [A new plane that would fly from London to New York City in three hours has just received crucial funding. The aircraft, officially named Quiet Supersonic Transport (QueSST) and dubbed the "Son of Concorde", was proposed by NASA and has just been given the go-ahead by US officials. QueSST could make its maiden voyage in 2021 if all goes according to plan. If so, it will halve the current travel time between London and New York City. ](/news/2018/02/13/a-new-plane-that-would-fly-from-london-to-new-york-city-in-three-hours-has-just-received-crucial-funding-the-aircraft-officially-named-qui.md)
-_Context: Supersonic transport, Quiet Supersonic Transport, Concorde, London, New York City, NASA_
+_Context: London, Quiet Supersonic Transport, New York City, NASA, Supersonic transport, Concorde_
+
+##### United flight 1175
+### [United flight 1175's engine fell apart in midair, leaving metal pieces flapping in the wind. All onboard survived. ](/news/2018/02/13/united-flight-1175-s-engine-fell-apart-in-midair-leaving-metal-pieces-flapping-in-the-wind-all-onboard-survived.md)
+_Context: United flight 1175_
 
 ## [Previous Day...](/news/2018/02/12/index.md)
 
