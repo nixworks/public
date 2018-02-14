@@ -25,15 +25,15 @@ Jacob Zuma is refusing to resign so his party has decided to issue a formal dema
 
 ##### Politics of the Netherlands
 ### [Halbe Zijlstra offers his resignation as Minister of Foreign Affairs of the Netherlands. Minister Sigrid Kaag takes over the portfolio ad interim. ](/news/2018/02/13/halbe-zijlstra-offers-his-resignation-as-minister-of-foreign-affairs-of-the-netherlands-minister-sigrid-kaag-takes-over-the-portfolio-ad-in.md)
-_Context: Politics of the Netherlands, Halbe Zijlstra, Minister of Foreign Affairs of the Netherlands, Sigrid Kaag, ad interim, Minister_
+_Context: ad interim, Minister, Sigrid Kaag, Politics of the Netherlands, Minister of Foreign Affairs of the Netherlands, Halbe Zijlstra_
 
 ##### Politics of Germany
 ### [Martin Schulz resigns as leader of the Social Democratic Party of Germany (SPD) with immediate effect. The mayor of Hamburg Olaf Scholz will serve as interim leader until a new leader is elected. ](/news/2018/02/13/martin-schulz-resigns-as-leader-of-the-social-democratic-party-of-germany-spd-with-immediate-effect-the-mayor-of-hamburg-olaf-scholz-will.md)
-_Context: mayor, Hamburg, Martin Schulz, Olaf Scholz, Social Democratic Party of Germany, Politics of Germany_
+_Context: Martin Schulz, Hamburg, mayor, Social Democratic Party of Germany, Olaf Scholz, Politics of Germany_
 
 ##### Supersonic transport
 ### [A new plane that would fly from London to New York City in three hours has just received crucial funding. The aircraft, officially named Quiet Supersonic Transport (QueSST) and dubbed the "Son of Concorde", was proposed by NASA and has just been given the go-ahead by US officials. QueSST could make its maiden voyage in 2021 if all goes according to plan. If so, it will halve the current travel time between London and New York City. ](/news/2018/02/13/a-new-plane-that-would-fly-from-london-to-new-york-city-in-three-hours-has-just-received-crucial-funding-the-aircraft-officially-named-qui.md)
-_Context: London, Concorde, Supersonic transport, New York City, NASA, Quiet Supersonic Transport_
+_Context: Concorde, Quiet Supersonic Transport, NASA, London, New York City, Supersonic transport_
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -45,7 +45,7 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ##### Drone strikes in Pakistan
 ### [Tehrik-i-Taliban Pakistan (TTP) confirms its deputy leader Khalid Mehsud has been killed in a U.S. drone strike in North Waziristan, near the border with Afghanistan. ](/news/2018/02/12/tehrik-i-taliban-pakistan-ttp-confirms-its-deputy-leader-khalid-mehsud-has-been-killed-in-a-u-s-drone-strike-in-north-waziristan-near-th.md)
-_Context: Khalid Mehsud, Drone strikes in Pakistan, Afghanistan, Tehrik-i-Taliban Pakistan, North Waziristan, U.S._
+_Context: North Waziristan, Afghanistan, Tehrik-i-Taliban Pakistan, U.S., Drone strikes in Pakistan, Khalid Mehsud_
 
 ##### Egypt
 ### [Egypt bans "Saturday Night Live Arabia" for using "sexual expressions that are inappropriate for viewers". ](/news/2018/02/12/egypt-bans-saturday-night-live-arabia-for-using-sexual-expressions-that-are-inappropriate-for-viewers.md)
@@ -57,11 +57,11 @@ Up to 16,000 London City Airport passengers are affected after the 500kg device 
 
 ##### 2017-18 South Pacific cyclone season
 ### [Tonga is directly hit by Cyclone Gita, causing heavy damage to the country as well as destroying its parliament building. Gita is the strongest storm to hit Tonga in its history. ](/news/2018/02/12/tonga-is-directly-hit-by-cyclone-gita-causing-heavy-damage-to-the-country-as-well-as-destroying-its-parliament-building-gita-is-the-strong.md)
-_Context: 2017-18 South Pacific cyclone season, Tonga, Cyclone Gita_
+_Context: Cyclone Gita, 2017-18 South Pacific cyclone season, Tonga_
 
 ##### Saratov Airlines Flight 703
 ### [Emergency teams comb snowy fields outside Moscow Monday for debris from a crashed Russian airliner and the remains of the 71 people who died. Transport Minister Maksim Sokolov says that emergency teams have already found the plane's flight data recorder, which will help them determine the crash's cause, but notes that the search for the victims' remains will take at least a week. ](/news/2018/02/12/emergency-teams-comb-snowy-fields-outside-moscow-monday-for-debris-from-a-crashed-russian-airliner-and-the-remains-of-the-71-people-who-died.md)
-_Context: Transport, Emergency, Russia, flight data recorder, Saratov Airlines Flight 703, Moscow, airliner, Maksim Sokolov_
+_Context: Moscow, airliner, Saratov Airlines Flight 703, Transport, Russia, Emergency, flight data recorder, Maksim Sokolov_
 
 ##### Cyprus-Turkey maritime zones dispute
 ### [The European Union urges calm and restraint after Turkish Navy warships obstruct a Cypriot offshore drilling vessel in the Eastern Mediterranean, which was approaching an area to explore for natural gas. ](/news/2018/02/12/the-european-union-urges-calm-and-restraint-after-turkish-navy-warships-obstruct-a-cypriot-offshore-drilling-vessel-in-the-eastern-mediterra.md)
@@ -73,11 +73,11 @@ Last year Georgia’s former President Mikheil Saakashvili, who is well known fo
 
 ##### Politics of the Netherlands
 ### [Foreign Minister of the Netherlands Halbe Zijlstra admits to lying about having attended a meeting with Vladimir Putin in 2006. Zijlstra had said that Putin mentioned plans to expand Russia to include Belarus, Ukraine, and the Baltic states but now says that he was not present and borrowed the story from a source. ](/news/2018/02/12/foreign-minister-of-the-netherlands-halbe-zijlstra-admits-to-lying-about-having-attended-a-meeting-with-vladimir-putin-in-2006-zijlstra-had.md)
-_Context: expand, Foreign Minister of the Netherlands, Vladimir Putin, Russia, Politics of the Netherlands, Halbe Zijlstra_
+_Context: Russia, Vladimir Putin, Politics of the Netherlands, expand, Halbe Zijlstra, Foreign Minister of the Netherlands_
 
 ##### Politics of New Zealand
 ### [Former Prime Minister Bill English resigns as National Party leader. ](/news/2018/02/12/former-prime-minister-bill-english-resigns-as-national-party-leader.md)
-_Context: National Party, Prime Minister, Politics of New Zealand, Bill English_
+_Context: Bill English, National Party, Prime Minister, Politics of New Zealand_
 
 ##### Presidency of Donald Trump
 ### [U.S. President Donald Trump sends his US$4.4 trillion 2019 budget proposal to Congress. ](/news/2018/02/12/u-s-president-donald-trump-sends-his-us-4-4-trillion-2019-budget-proposal-to-congress.md)
