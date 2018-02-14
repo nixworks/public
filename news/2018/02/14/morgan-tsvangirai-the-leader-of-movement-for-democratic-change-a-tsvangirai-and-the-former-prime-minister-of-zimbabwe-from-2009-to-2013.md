@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/14/morgan-tsvangirai-the-leader-of-movement-for-de
 ### [2018-02-14](/news/2018/02/14/index.md)
 
 ##### Politics of Zimbabwe
-# Morgan Tsvangirai, the leader of Movement for Democratic Change - Tsvangirai and the former Prime Minister of Zimbabwe from 2009 to 2013. dies at the age of 65. 
+# Morgan Tsvangirai, the leader of Movement for Democratic Change - Tsvangirai and the former Prime Minister of Zimbabwe from 2009 to 2013, dies at the age of 65. 
 
 The head of the MDC was for decades a strong opponent of former President Robert Mugabe.
 

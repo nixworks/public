@@ -4,8 +4,8 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ## [News](/news/2018/02/14/index.md)
 
 ##### Marjory Stoneman Douglas High School shooting
-### [At least 1 person is killed and 20 people are wounded in a school shooting in Florida, United States. One source states that there is one death, while another states that there are "numerous" fatalities. ](/news/2018/02/14/at-least-1-person-is-killed-and-20-people-are-wounded-in-a-school-shooting-in-florida-united-states-one-source-states-that-there-is-one-de.md)
-_Context: Florida, Marjory Stoneman Douglas High School shooting_
+### [At least two people are killed and twenty wounded by a school shooting in Parkland, Florida. The suspected shooter is apprehended. ](/news/2018/02/14/at-least-two-people-are-killed-and-twenty-wounded-by-a-school-shooting-in-parkland-florida-the-suspected-shooter-is-apprehended.md)
+_Context: Parkland, Florida, Marjory Stoneman Douglas High School shooting_
 
 ##### Economy of the European Union
 ### [Eurozone GDP rose by 2.5% in 2017, a pace not seen since 2007 and industrial production is up 5.2% year-on-year. The production of durable consumer goods is up 7.4% and capital goods, indicating investments, are up 7.6%. ](/news/2018/02/14/eurozone-gdp-rose-by-2-5-in-2017-a-pace-not-seen-since-2007-and-industrial-production-is-up-5-2-year-on-year-the-production-of-durable-c.md)
@@ -37,14 +37,14 @@ French police have found the remains of an eight-year-old French girl who vanish
 
 ##### Politics of the Netherlands
 ### [Ruud Lubbers, the longest-tenured and the youngest serving former Prime Minister of the Netherlands, who later served as the United Nations High Commissioner for Refugees, dies at the age of 78. ](/news/2018/02/14/ruud-lubbers-the-longest-tenured-and-the-youngest-serving-former-prime-minister-of-the-netherlands-who-later-served-as-the-united-nations.md)
-_Context: Prime Minister of the Netherlands, United Nations High Commissioner for Refugees, Ruud Lubbers, Politics of the Netherlands_
+_Context: Politics of the Netherlands, Prime Minister of the Netherlands, United Nations High Commissioner for Refugees, Ruud Lubbers_
 
 ##### Ukrainian crisis
 ### [Mikheil Saakashvili, leader of the opposition Movement of New Forces party, who was deported from Ukraine to Poland, relocates to the Netherlands. ](/news/2018/02/14/mikheil-saakashvili-leader-of-the-opposition-movement-of-new-forces-party-who-was-deported-from-ukraine-to-poland-relocates-to-the-nether.md)
-_Context: Movement of New Forces, Ukrainian crisis, Ukraine, Netherlands, Mikheil Saakashvili, Poland_
+_Context: Ukraine, Poland, Ukrainian crisis, Netherlands, Movement of New Forces, Mikheil Saakashvili_
 
 ##### Politics of Zimbabwe
-### [Morgan Tsvangirai, the leader of Movement for Democratic Change - Tsvangirai and the former Prime Minister of Zimbabwe from 2009 to 2013. dies at the age of 65. ](/news/2018/02/14/morgan-tsvangirai-the-leader-of-movement-for-democratic-change-a-tsvangirai-and-the-former-prime-minister-of-zimbabwe-from-2009-to-2013.md)
+### [Morgan Tsvangirai, the leader of Movement for Democratic Change - Tsvangirai and the former Prime Minister of Zimbabwe from 2009 to 2013, dies at the age of 65. ](/news/2018/02/14/morgan-tsvangirai-the-leader-of-movement-for-democratic-change-a-tsvangirai-and-the-former-prime-minister-of-zimbabwe-from-2009-to-2013.md)
 The head of the MDC was for decades a strong opponent of former President Robert Mugabe.
 
 ##### Politics of South Africa
@@ -85,15 +85,15 @@ Jacob Zuma is refusing to resign so his party has decided to issue a formal dema
 
 ##### Politics of the Netherlands
 ### [Halbe Zijlstra offers his resignation as Minister of Foreign Affairs of the Netherlands. Minister Sigrid Kaag takes over the portfolio ad interim. ](/news/2018/02/13/halbe-zijlstra-offers-his-resignation-as-minister-of-foreign-affairs-of-the-netherlands-minister-sigrid-kaag-takes-over-the-portfolio-ad-in.md)
-_Context: Minister, Minister of Foreign Affairs of the Netherlands, Halbe Zijlstra, Politics of the Netherlands, ad interim, Sigrid Kaag_
+_Context: Halbe Zijlstra, Minister, Politics of the Netherlands, ad interim, Minister of Foreign Affairs of the Netherlands, Sigrid Kaag_
 
 ##### Politics of Germany
 ### [Martin Schulz resigns as leader of the Social Democratic Party of Germany (SPD) with immediate effect. The mayor of Hamburg Olaf Scholz will serve as interim leader until a new leader is elected. ](/news/2018/02/13/martin-schulz-resigns-as-leader-of-the-social-democratic-party-of-germany-spd-with-immediate-effect-the-mayor-of-hamburg-olaf-scholz-will.md)
-_Context: Olaf Scholz, Politics of Germany, mayor, Hamburg, Martin Schulz, Social Democratic Party of Germany_
+_Context: mayor, Martin Schulz, Hamburg, Olaf Scholz, Politics of Germany, Social Democratic Party of Germany_
 
 ##### Supersonic transport
 ### [A new plane that would fly from London to New York City in three hours has just received crucial funding. The aircraft, officially named Quiet Supersonic Transport (QueSST) and dubbed the "Son of Concorde", was proposed by NASA and has just been given the go-ahead by US officials. QueSST could make its maiden voyage in 2021 if all goes according to plan. If so, it will halve the current travel time between London and New York City. ](/news/2018/02/13/a-new-plane-that-would-fly-from-london-to-new-york-city-in-three-hours-has-just-received-crucial-funding-the-aircraft-officially-named-qui.md)
-_Context: Concorde, NASA, Quiet Supersonic Transport, Supersonic transport, London, New York City_
+_Context: NASA, New York City, Supersonic transport, London, Concorde, Quiet Supersonic Transport_
 
 ---
 
@@ -101,7 +101,7 @@ _Context: Concorde, NASA, Quiet Supersonic Transport, Supersonic transport, Lond
 
 ##### Drone strikes in Pakistan
 ### [Tehrik-i-Taliban Pakistan (TTP) confirms its deputy leader Khalid Mehsud has been killed in a U.S. drone strike in North Waziristan, near the border with Afghanistan. ](/news/2018/02/12/tehrik-i-taliban-pakistan-ttp-confirms-its-deputy-leader-khalid-mehsud-has-been-killed-in-a-u-s-drone-strike-in-north-waziristan-near-th.md)
-_Context: Tehrik-i-Taliban Pakistan, Drone strikes in Pakistan, Khalid Mehsud, North Waziristan, U.S., Afghanistan_
+_Context: Tehrik-i-Taliban Pakistan, U.S., Drone strikes in Pakistan, North Waziristan, Khalid Mehsud, Afghanistan_
 
 ##### Egypt
 ### [Egypt bans "Saturday Night Live Arabia" for using "sexual expressions that are inappropriate for viewers". ](/news/2018/02/12/egypt-bans-saturday-night-live-arabia-for-using-sexual-expressions-that-are-inappropriate-for-viewers.md)
@@ -113,11 +113,11 @@ Up to 16,000 London City Airport passengers are affected after the 500kg device 
 
 ##### 2017-18 South Pacific cyclone season
 ### [Tonga is directly hit by Cyclone Gita, causing heavy damage to the country as well as destroying its parliament building. Gita is the strongest storm to hit Tonga in its history. ](/news/2018/02/12/tonga-is-directly-hit-by-cyclone-gita-causing-heavy-damage-to-the-country-as-well-as-destroying-its-parliament-building-gita-is-the-strong.md)
-_Context: Cyclone Gita, 2017-18 South Pacific cyclone season, Tonga_
+_Context: 2017-18 South Pacific cyclone season, Tonga, Cyclone Gita_
 
 ##### Saratov Airlines Flight 703
 ### [Emergency teams comb snowy fields outside Moscow Monday for debris from a crashed Russian airliner and the remains of the 71 people who died. Transport Minister Maksim Sokolov says that emergency teams have already found the plane's flight data recorder, which will help them determine the crash's cause, but notes that the search for the victims' remains will take at least a week. ](/news/2018/02/12/emergency-teams-comb-snowy-fields-outside-moscow-monday-for-debris-from-a-crashed-russian-airliner-and-the-remains-of-the-71-people-who-died.md)
-_Context: Maksim Sokolov, Russia, Saratov Airlines Flight 703, Transport, flight data recorder, Moscow, Emergency, airliner_
+_Context: Emergency, Russia, Transport, Moscow, flight data recorder, Saratov Airlines Flight 703, Maksim Sokolov, airliner_
 
 ##### Cyprus-Turkey maritime zones dispute
 ### [The European Union urges calm and restraint after Turkish Navy warships obstruct a Cypriot offshore drilling vessel in the Eastern Mediterranean, which was approaching an area to explore for natural gas. ](/news/2018/02/12/the-european-union-urges-calm-and-restraint-after-turkish-navy-warships-obstruct-a-cypriot-offshore-drilling-vessel-in-the-eastern-mediterra.md)
@@ -129,11 +129,11 @@ Last year Georgia’s former President Mikheil Saakashvili, who is well known fo
 
 ##### Politics of the Netherlands
 ### [Foreign Minister of the Netherlands Halbe Zijlstra admits to lying about having attended a meeting with Vladimir Putin in 2006. Zijlstra had said that Putin mentioned plans to expand Russia to include Belarus, Ukraine, and the Baltic states but now says that he was not present and borrowed the story from a source. ](/news/2018/02/12/foreign-minister-of-the-netherlands-halbe-zijlstra-admits-to-lying-about-having-attended-a-meeting-with-vladimir-putin-in-2006-zijlstra-had.md)
-_Context: Russia, expand, Politics of the Netherlands, Vladimir Putin, Foreign Minister of the Netherlands, Halbe Zijlstra_
+_Context: expand, Halbe Zijlstra, Vladimir Putin, Politics of the Netherlands, Foreign Minister of the Netherlands, Russia_
 
 ##### Politics of New Zealand
 ### [Former Prime Minister Bill English resigns as National Party leader. ](/news/2018/02/12/former-prime-minister-bill-english-resigns-as-national-party-leader.md)
-_Context: National Party, Politics of New Zealand, Bill English, Prime Minister_
+_Context: Prime Minister, Politics of New Zealand, Bill English, National Party_
 
 ##### Presidency of Donald Trump
 ### [U.S. President Donald Trump sends his US$4.4 trillion 2019 budget proposal to Congress. ](/news/2018/02/12/u-s-president-donald-trump-sends-his-us-4-4-trillion-2019-budget-proposal-to-congress.md)

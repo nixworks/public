@@ -4,8 +4,8 @@ Formats: [HTML](2018/02/14/index.html)  [JSON](2018/02/14/index.json)  [XML](201
 ## [2018-02-14](/news/2018/02/14/index.md)
 
 ##### Marjory Stoneman Douglas High School shooting
-### [At least 1 person is killed and 20 people are wounded in a school shooting in Florida, United States. One source states that there is one death, while another states that there are "numerous" fatalities. ](/news/2018/02/14/at-least-1-person-is-killed-and-20-people-are-wounded-in-a-school-shooting-in-florida-united-states-one-source-states-that-there-is-one-de.md)
-_Context: Florida, Marjory Stoneman Douglas High School shooting_
+### [At least two people are killed and twenty wounded by a school shooting in Parkland, Florida. The suspected shooter is apprehended. ](/news/2018/02/14/at-least-two-people-are-killed-and-twenty-wounded-by-a-school-shooting-in-parkland-florida-the-suspected-shooter-is-apprehended.md)
+_Context: Parkland, Florida, Marjory Stoneman Douglas High School shooting_
 
 ##### Economy of the European Union
 ### [Eurozone GDP rose by 2.5% in 2017, a pace not seen since 2007 and industrial production is up 5.2% year-on-year. The production of durable consumer goods is up 7.4% and capital goods, indicating investments, are up 7.6%. ](/news/2018/02/14/eurozone-gdp-rose-by-2-5-in-2017-a-pace-not-seen-since-2007-and-industrial-production-is-up-5-2-year-on-year-the-production-of-durable-c.md)
@@ -37,14 +37,14 @@ French police have found the remains of an eight-year-old French girl who vanish
 
 ##### Politics of the Netherlands
 ### [Ruud Lubbers, the longest-tenured and the youngest serving former Prime Minister of the Netherlands, who later served as the United Nations High Commissioner for Refugees, dies at the age of 78. ](/news/2018/02/14/ruud-lubbers-the-longest-tenured-and-the-youngest-serving-former-prime-minister-of-the-netherlands-who-later-served-as-the-united-nations.md)
-_Context: Prime Minister of the Netherlands, United Nations High Commissioner for Refugees, Ruud Lubbers, Politics of the Netherlands_
+_Context: Politics of the Netherlands, Prime Minister of the Netherlands, United Nations High Commissioner for Refugees, Ruud Lubbers_
 
 ##### Ukrainian crisis
 ### [Mikheil Saakashvili, leader of the opposition Movement of New Forces party, who was deported from Ukraine to Poland, relocates to the Netherlands. ](/news/2018/02/14/mikheil-saakashvili-leader-of-the-opposition-movement-of-new-forces-party-who-was-deported-from-ukraine-to-poland-relocates-to-the-nether.md)
-_Context: Movement of New Forces, Ukrainian crisis, Ukraine, Netherlands, Mikheil Saakashvili, Poland_
+_Context: Ukraine, Poland, Ukrainian crisis, Netherlands, Movement of New Forces, Mikheil Saakashvili_
 
 ##### Politics of Zimbabwe
-### [Morgan Tsvangirai, the leader of Movement for Democratic Change - Tsvangirai and the former Prime Minister of Zimbabwe from 2009 to 2013. dies at the age of 65. ](/news/2018/02/14/morgan-tsvangirai-the-leader-of-movement-for-democratic-change-a-tsvangirai-and-the-former-prime-minister-of-zimbabwe-from-2009-to-2013.md)
+### [Morgan Tsvangirai, the leader of Movement for Democratic Change - Tsvangirai and the former Prime Minister of Zimbabwe from 2009 to 2013, dies at the age of 65. ](/news/2018/02/14/morgan-tsvangirai-the-leader-of-movement-for-democratic-change-a-tsvangirai-and-the-former-prime-minister-of-zimbabwe-from-2009-to-2013.md)
 The head of the MDC was for decades a strong opponent of former President Robert Mugabe.
 
 ##### Politics of South Africa
