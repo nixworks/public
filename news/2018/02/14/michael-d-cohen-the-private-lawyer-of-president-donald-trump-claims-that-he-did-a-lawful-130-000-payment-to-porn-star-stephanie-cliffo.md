@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/14/michael-d-cohen-the-private-lawyer-of-president
 ### [2018-02-14](/news/2018/02/14/index.md)
 
 ##### 2017-18 United States political sexual scandals
-# Michael D. Cohen, the private lawyer of President Donald Trump, claims that he did a "lawful" $130,000 payment to porn star Stephanie Clifford, from his own private funds. The statement to the "New York Times" comes after the Common Cause organization on 22 January 2018 filed a complaint about the payment with the Federal Election Commission. 
+# Michael D. Cohen, the private lawyer of President Donald Trump, claims that he did a "lawful" $130,000 payment to porn star Stephanie Clifford, aka Stormy Daniels, from his own private funds. The statement to the "New York Times" comes after the Common Cause organization on 22 January 2018 filed a complaint about the payment with the Federal Election Commission. 
 
 President Trump&rsquo;s longtime personal lawyer Michael Cohen has acknowledged using his private funds shortly before the 2016 election to pay $130,000 to a porn actress who had once claimed to have had an affair with Trump. &ldquo;In a private transaction in 2016, I used my own personal funds to facilitate...
 

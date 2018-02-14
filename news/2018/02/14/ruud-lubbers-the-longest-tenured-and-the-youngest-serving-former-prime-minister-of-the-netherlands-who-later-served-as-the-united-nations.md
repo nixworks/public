@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/14/ruud-lubbers-the-longest-tenured-and-the-younge
 ### [2018-02-14](/news/2018/02/14/index.md)
 
 ##### Politics of the Netherlands
-# Ruud Lubbers, the longest-tenured and the youngest serving former Prime Minister of the Netherlands, who later served as the United Nations High Commissioner for Refugees has died at the age of 78. 
+# Ruud Lubbers, the longest-tenured and the youngest serving former Prime Minister of the Netherlands, who later served as the United Nations High Commissioner for Refugees, dies at the age of 78. 
 
 
 

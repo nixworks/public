@@ -5,11 +5,11 @@ Formats: [HTML](2018/02/7/index.html)  [JSON](2018/02/7/index.json)  [XML](2018/
 
 ##### Israeli involvement in the Syrian Civil War
 ### [Syrian state media say that Israeli warplanes attacked a military position in Jamraya, Rif Dimashq Governorate, from Lebanese airspace, with the Syrian Air Defense Force intercepting most of the missiles. The target is rumored to be a weapon research facility. ](/news/2018/02/7/syrian-state-media-say-that-israeli-warplanes-attacked-a-military-position-in-jamraya-rif-dimashq-governorate-from-lebanese-airspace-with.md)
-_Context: Israel, Israeli involvement in the Syrian Civil War, Rif Dimashq Governorate, Lebanese, Jamraya, Syrian Air Defense Force, Syria_
+_Context: Jamraya, Syrian Air Defense Force, Rif Dimashq Governorate, Syria, Israeli involvement in the Syrian Civil War, Israel, Lebanese_
 
 ##### United States attacks on the Syrian government
 ### [United States Central Command says that it killed more than 100 pro-government troops in "self-defense" strikes 8 km east of the Euphrates de-confliction line that was reportedly agreed with Russia. ](/news/2018/02/7/united-states-central-command-says-that-it-killed-more-than-100-pro-government-troops-in-self-defense-strikes-8-km-east-of-the-euphrates-d.md)
-_Context: United States attacks on the Syrian government, Russia, Syria, United States Central Command, Euphrates_
+_Context: Syria, Euphrates, United States Central Command, Russia, United States attacks on the Syrian government_
 
 ##### Procter and Gamble
 ### [Procter and Gamble announces that it will close its plant in Kansas City, Kansas, and reduce operations at its plant in Iowa City, Iowa, as the company plans to shift production to factories in Tablers Station, West Virginia, and Cincinnati, Ohio, by 2020. ](/news/2018/02/7/procter-and-gamble-announces-that-it-will-close-its-plant-in-kansas-city-kansas-and-reduce-operations-at-its-plant-in-iowa-city-iowa-as.md)
