@@ -1,0 +1,23 @@
+
+Formats: [HTML](/news/2018/02/14/eurozone-gdp-rose-by-2-5-in-2017-a-pace-not-seen-since-2007-and-industrial-production-is-up-5-2-year-on-year-the-production-of-durable-c.html)  [JSON](/news/2018/02/14/eurozone-gdp-rose-by-2-5-in-2017-a-pace-not-seen-since-2007-and-industrial-production-is-up-5-2-year-on-year-the-production-of-durable-c.json)  [XML](/news/2018/02/14/eurozone-gdp-rose-by-2-5-in-2017-a-pace-not-seen-since-2007-and-industrial-production-is-up-5-2-year-on-year-the-production-of-durable-c.xml)  
+
+### [2018-02-14](/news/2018/02/14/index.md)
+
+##### Eurozone
+# Eurozone GDP rose by 2.5% in 2017, a pace not seen since 2007 and industrial production is up 5.2% year-on-year. The production of durable consumer goods is up 7.4% and capital goods, indicating investments, are up 7.6%. 
+
+BRUSSELS: Eurozone industrial production jumped more than expected in December, data from the EU statistics office Eurostat showed on Wednesday, underlining the fastest economic growth rate in a decade that economists expect to continue in 2018. Eurostat said industrial production in the 19 countries sharing the euro rose 0.4 percent month-on-month for a 5.2 percent year-on-year gain. Economists polled by Reuters had expected a 0.2 percent monthly and 4.2 percent annual rise.
+
+
+### Sources:
+
+1. [Reuters via ''Arab News](http://www.arabnews.com/node/1246321/business-economy)
+1. [Cover Image](http://www.arabnews.com/sites/default/files/2018/02/14/1101836-1012218479.jpeg)
+
+### Related:
+
+1. [At a NATO meeting, German foreign minister Sigmar Gabriel rejects as "quite unrealistic" the belief that Germany would spend 2% of GDP on the military. He says other spending such as development aid should be taken into account. ](/news/2017/03/31/at-a-nato-meeting-german-foreign-minister-sigmar-gabriel-rejects-as-quite-unrealistic-the-belief-that-germany-would-spend-2-of-gdp-on-th.md) _Context: GDP_
+2. [The Eurozone agrees to a EUR10.3 billion ($11.48 billion) bailout package for Greece. ](/news/2016/05/25/the-eurozone-agrees-to-a-a-10-3-billion-11-48-billion-bailout-package-for-greece.md) _Context: Eurozone_
+3. [According to Eurostat, the Eurozone's economy grew by 0.6% in the first three months of 2016, faster than what was originally expected, with unemployment falling to 10.2%. This growth suggest that the eurozone's economy is now bigger than it was before the start of the financial crisis of 2007-08. ](/news/2016/04/29/according-to-eurostat-the-eurozone-s-economy-grew-by-0-6-in-the-first-three-months-of-2016-faster-than-what-was-originally-expected-with.md) _Context: Eurozone_
+4. [The Parliament of Finland holds a debate on whether or not to abandon the Euro as its currency following a petition that garnered enough signatures to force the issue into parliament. This comes as Finland as dealing with a weakening economy but the petition is unlikely to lead to the country leaving the Eurozone. ](/news/2016/04/28/the-parliament-of-finland-holds-a-debate-on-whether-or-not-to-abandon-the-euro-as-its-currency-following-a-petition-that-garnered-enough-sig.md) _Context: Eurozone_
+5. [Eurozone leaders hold a crisis meeting to discuss options on Greek debt following the referendum as Greek banks are near to running out of cash. For the last week Greek banks allowed to withdraw only 60 euros a day. ](/news/2015/07/7/eurozone-leaders-hold-a-crisis-meeting-to-discuss-options-on-greek-debt-following-the-referendum-as-greek-banks-are-near-to-running-out-of-c.md) _Context: Eurozone_
