@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/02/14/the-residence-of-the-gupta-family-is-raided-by-
 
 ### [2018-02-14](/news/2018/02/14/index.md)
 
-##### Gupta family
+##### Crime in South Africa
 # The residence of the Gupta family is raided by the South African Police Service's elite Hawks unit and three people are arrested. 
 
 One of the three Gupta brothers linked to embattled President Zuma is reportedly arrested.

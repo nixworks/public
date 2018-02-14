@@ -3,8 +3,10 @@ Formats: [HTML](2018/02/13/index.html)  [JSON](2018/02/13/index.json)  [XML](201
 
 ## [2018-02-13](/news/2018/02/13/index.md)
 
-##### 
-### [United Airlines Flight 1175's engine fell apart in midair, leaving metal pieces flapping in the wind. All onboard survived. ](/news/2018/02/13/united-airlines-flight-1175-s-engine-fell-apart-in-midair-leaving-metal-pieces-flapping-in-the-wind-all-onboard-survived.md)
+##### United Airlines Flight 1175
+### [United Airlines Flight 1175 traveling to Honolulu from San Francisco lands safely at Honolulu International Airport, Hawaii, after the pilots call for an emergency landing because of a loss of the engine cowling. ](/news/2018/02/13/united-airlines-flight-1175-traveling-to-honolulu-from-san-francisco-lands-safely-at-honolulu-international-airport-hawaii-after-the-pilot.md)
+Passengers on a United Airlines flight Tuesday had quite the scare when pilots called for an emergency landing after an engine cowlingor the cover of the engineflew off mid-flight.According to airline officials, United flight 1175 was traveling to Honolulu
+
 ##### Israeli-Palestinian conflict
 ### [In closed-door proceedings at an Israeli military court in Ofer Prison, near Ramallah, 17-year-old Palestinian activist Ahed Tamimi is indicted on 12 counts of assault and incitement. She is ordered held until the end of the trial, which is adjourned until next month. ](/news/2018/02/13/in-closed-door-proceedings-at-an-israeli-military-court-in-ofer-prison-near-ramallah-17-year-old-palestinian-activist-ahed-tamimi-is-indic.md)
 A Palestinian teenage girl filmed slapping an Israeli soldier and hailed as a hero by Palestinians, has gone on trial Wednesday in an Israeli military court in the West Bank.
@@ -27,15 +29,15 @@ Jacob Zuma is refusing to resign so his party has decided to issue a formal dema
 
 ##### Politics of the Netherlands
 ### [Halbe Zijlstra offers his resignation as Minister of Foreign Affairs of the Netherlands. Minister Sigrid Kaag takes over the portfolio ad interim. ](/news/2018/02/13/halbe-zijlstra-offers-his-resignation-as-minister-of-foreign-affairs-of-the-netherlands-minister-sigrid-kaag-takes-over-the-portfolio-ad-in.md)
-_Context: Sigrid Kaag, Minister, ad interim, Halbe Zijlstra, Minister of Foreign Affairs of the Netherlands, Politics of the Netherlands_
+_Context: ad interim, Politics of the Netherlands, Halbe Zijlstra, Sigrid Kaag, Minister of Foreign Affairs of the Netherlands, Minister_
 
 ##### Politics of Germany
 ### [Martin Schulz resigns as leader of the Social Democratic Party of Germany (SPD) with immediate effect. The mayor of Hamburg Olaf Scholz will serve as interim leader until a new leader is elected. ](/news/2018/02/13/martin-schulz-resigns-as-leader-of-the-social-democratic-party-of-germany-spd-with-immediate-effect-the-mayor-of-hamburg-olaf-scholz-will.md)
-_Context: Social Democratic Party of Germany, Hamburg, mayor, Politics of Germany, Martin Schulz, Olaf Scholz_
+_Context: mayor, Politics of Germany, Hamburg, Social Democratic Party of Germany, Martin Schulz, Olaf Scholz_
 
 ##### Supersonic transport
 ### [A new plane that would fly from London to New York City in three hours has just received crucial funding. The aircraft, officially named Quiet Supersonic Transport (QueSST) and dubbed the "Son of Concorde", was proposed by NASA and has just been given the go-ahead by US officials. QueSST could make its maiden voyage in 2021 if all goes according to plan. If so, it will halve the current travel time between London and New York City. ](/news/2018/02/13/a-new-plane-that-would-fly-from-london-to-new-york-city-in-three-hours-has-just-received-crucial-funding-the-aircraft-officially-named-qui.md)
-_Context: NASA, Concorde, New York City, London, Quiet Supersonic Transport, Supersonic transport_
+_Context: New York City, Concorde, NASA, London, Supersonic transport, Quiet Supersonic Transport_
 
 ## [Previous Day...](/news/2018/02/12/index.md)
 

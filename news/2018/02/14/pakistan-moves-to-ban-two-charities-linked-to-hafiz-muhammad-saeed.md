@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/02/14/pakistan-moves-to-ban-two-charities-linked-to-h
 
 ### [2018-02-14](/news/2018/02/14/index.md)
 
-##### Pakistan
+##### Crime in Pakistan
 # Pakistan moves to ban two charities linked to Hafiz Muhammad Saeed. 
 
 Pakistan has banned two charities linked to Islamist leader Hafiz Saeed, an official said on Wednesday, in a move against the U.N.-designated &quot;terrorist&quot; who the United States says was behind an attack on Mumbai in 2008 that killed 166 people.
