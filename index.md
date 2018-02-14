@@ -1,7 +1,23 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2018/02/13/index.md)
+## [News](/news/2018/02/14/index.md)
+
+##### Gupta family
+### [The residence of the Gupta family is raided by the South African Police Service's elite Hawks unit and three people are arrested. ](/news/2018/02/14/the-residence-of-the-gupta-family-is-raided-by-the-south-african-police-service-s-elite-hawks-unit-and-three-people-are-arrested.md)
+One of the three Gupta brothers linked to embattled President Zuma is reportedly arrested.
+
+##### Michael D. Cohen
+### [Michael D. Cohen, the private lawyer of President Donald Trump, claims that he did a "lawful" $130,000 payment to porn star Stephanie Clifford, from own his private funds. The statement to the New York Times comes after the Common Cause organization on 22 January filed a complaint with the Federal Election Commission. ](/news/2018/02/14/michael-d-cohen-the-private-lawyer-of-president-donald-trump-claims-that-he-did-a-lawful-130-000-payment-to-porn-star-stephanie-cliffo.md)
+President Trump&rsquo;s longtime personal lawyer Michael Cohen has acknowledged using his private funds shortly before the 2016 election to pay $130,000 to a porn actress who had once claimed to have had an affair with Trump. &ldquo;In a private transaction in 2016, I used my own personal funds to f...
+
+##### Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2018/02/13/index.md)
 
 ##### United flight 1175
 ### [United flight 1175's engine fell apart in midair, leaving metal pieces flapping in the wind. All onboard survived. ](/news/2018/02/13/united-flight-1175-s-engine-fell-apart-in-midair-leaving-metal-pieces-flapping-in-the-wind-all-onboard-survived.md)
@@ -29,27 +45,23 @@ Jacob Zuma is refusing to resign so his party has decided to issue a formal dema
 
 ##### Politics of the Netherlands
 ### [Halbe Zijlstra offers his resignation as Minister of Foreign Affairs of the Netherlands. Minister Sigrid Kaag takes over the portfolio ad interim. ](/news/2018/02/13/halbe-zijlstra-offers-his-resignation-as-minister-of-foreign-affairs-of-the-netherlands-minister-sigrid-kaag-takes-over-the-portfolio-ad-in.md)
-_Context: Politics of the Netherlands, ad interim, Sigrid Kaag, Minister of Foreign Affairs of the Netherlands, Minister, Halbe Zijlstra_
+_Context: Minister, Minister of Foreign Affairs of the Netherlands, ad interim, Halbe Zijlstra, Politics of the Netherlands, Sigrid Kaag_
 
 ##### Politics of Germany
 ### [Martin Schulz resigns as leader of the Social Democratic Party of Germany (SPD) with immediate effect. The mayor of Hamburg Olaf Scholz will serve as interim leader until a new leader is elected. ](/news/2018/02/13/martin-schulz-resigns-as-leader-of-the-social-democratic-party-of-germany-spd-with-immediate-effect-the-mayor-of-hamburg-olaf-scholz-will.md)
-_Context: Politics of Germany, Social Democratic Party of Germany, Martin Schulz, Hamburg, mayor, Olaf Scholz_
+_Context: Politics of Germany, mayor, Olaf Scholz, Hamburg, Social Democratic Party of Germany, Martin Schulz_
 
 ##### Supersonic transport
 ### [A new plane that would fly from London to New York City in three hours has just received crucial funding. The aircraft, officially named Quiet Supersonic Transport (QueSST) and dubbed the "Son of Concorde", was proposed by NASA and has just been given the go-ahead by US officials. QueSST could make its maiden voyage in 2021 if all goes according to plan. If so, it will halve the current travel time between London and New York City. ](/news/2018/02/13/a-new-plane-that-would-fly-from-london-to-new-york-city-in-three-hours-has-just-received-crucial-funding-the-aircraft-officially-named-qui.md)
-_Context: London, Supersonic transport, Quiet Supersonic Transport, New York City, NASA, Concorde_
-
-##### Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+_Context: Quiet Supersonic Transport, New York City, London, NASA, Concorde, Supersonic transport_
 
 ---
 
-## [Yesterday](/news/2018/02/12/index.md)
+## [Day Before Yesterday](/news/2018/02/12/index.md)
 
 ##### Drone strikes in Pakistan
 ### [Tehrik-i-Taliban Pakistan (TTP) confirms its deputy leader Khalid Mehsud has been killed in a U.S. drone strike in North Waziristan, near the border with Afghanistan. ](/news/2018/02/12/tehrik-i-taliban-pakistan-ttp-confirms-its-deputy-leader-khalid-mehsud-has-been-killed-in-a-u-s-drone-strike-in-north-waziristan-near-th.md)
-_Context: Drone strikes in Pakistan, U.S., Tehrik-i-Taliban Pakistan, North Waziristan, Afghanistan, Khalid Mehsud_
+_Context: U.S., Tehrik-i-Taliban Pakistan, Khalid Mehsud, Afghanistan, North Waziristan, Drone strikes in Pakistan_
 
 ##### Egypt
 ### [Egypt bans "Saturday Night Live Arabia" for using "sexual expressions that are inappropriate for viewers". ](/news/2018/02/12/egypt-bans-saturday-night-live-arabia-for-using-sexual-expressions-that-are-inappropriate-for-viewers.md)
@@ -61,11 +73,11 @@ Up to 16,000 London City Airport passengers are affected after the 500kg device 
 
 ##### 2017-18 South Pacific cyclone season
 ### [Tonga is directly hit by Cyclone Gita, causing heavy damage to the country as well as destroying its parliament building. Gita is the strongest storm to hit Tonga in its history. ](/news/2018/02/12/tonga-is-directly-hit-by-cyclone-gita-causing-heavy-damage-to-the-country-as-well-as-destroying-its-parliament-building-gita-is-the-strong.md)
-_Context: Cyclone Gita, Tonga, 2017-18 South Pacific cyclone season_
+_Context: Tonga, 2017-18 South Pacific cyclone season, Cyclone Gita_
 
 ##### Saratov Airlines Flight 703
 ### [Emergency teams comb snowy fields outside Moscow Monday for debris from a crashed Russian airliner and the remains of the 71 people who died. Transport Minister Maksim Sokolov says that emergency teams have already found the plane's flight data recorder, which will help them determine the crash's cause, but notes that the search for the victims' remains will take at least a week. ](/news/2018/02/12/emergency-teams-comb-snowy-fields-outside-moscow-monday-for-debris-from-a-crashed-russian-airliner-and-the-remains-of-the-71-people-who-died.md)
-_Context: airliner, Maksim Sokolov, Emergency, Transport, flight data recorder, Moscow, Saratov Airlines Flight 703, Russia_
+_Context: Maksim Sokolov, Saratov Airlines Flight 703, flight data recorder, Moscow, Transport, Emergency, Russia, airliner_
 
 ##### Cyprus-Turkey maritime zones dispute
 ### [The European Union urges calm and restraint after Turkish Navy warships obstruct a Cypriot offshore drilling vessel in the Eastern Mediterranean, which was approaching an area to explore for natural gas. ](/news/2018/02/12/the-european-union-urges-calm-and-restraint-after-turkish-navy-warships-obstruct-a-cypriot-offshore-drilling-vessel-in-the-eastern-mediterra.md)
@@ -77,11 +89,11 @@ Last year Georgia’s former President Mikheil Saakashvili, who is well known fo
 
 ##### Politics of the Netherlands
 ### [Foreign Minister of the Netherlands Halbe Zijlstra admits to lying about having attended a meeting with Vladimir Putin in 2006. Zijlstra had said that Putin mentioned plans to expand Russia to include Belarus, Ukraine, and the Baltic states but now says that he was not present and borrowed the story from a source. ](/news/2018/02/12/foreign-minister-of-the-netherlands-halbe-zijlstra-admits-to-lying-about-having-attended-a-meeting-with-vladimir-putin-in-2006-zijlstra-had.md)
-_Context: expand, Halbe Zijlstra, Russia, Foreign Minister of the Netherlands, Politics of the Netherlands, Vladimir Putin_
+_Context: Vladimir Putin, Halbe Zijlstra, Foreign Minister of the Netherlands, expand, Russia, Politics of the Netherlands_
 
 ##### Politics of New Zealand
 ### [Former Prime Minister Bill English resigns as National Party leader. ](/news/2018/02/12/former-prime-minister-bill-english-resigns-as-national-party-leader.md)
-_Context: National Party, Bill English, Politics of New Zealand, Prime Minister_
+_Context: Prime Minister, Bill English, Politics of New Zealand, National Party_
 
 ##### Presidency of Donald Trump
 ### [U.S. President Donald Trump sends his US$4.4 trillion 2019 budget proposal to Congress. ](/news/2018/02/12/u-s-president-donald-trump-sends-his-us-4-4-trillion-2019-budget-proposal-to-congress.md)
@@ -93,31 +105,7 @@ Rights groups slam Philippine president for the latest in a series of derogatory
 
 ---
 
-## [Day Before Yesterday](/news/2018/02/11/index.md)
-
-##### Saratov Airlines Flight 703
-### [An Antonov An-148 of Saratov Airlines with 71 people on board crashes shortly after take-off from Domodedovo Airport, Moscow, Russia. The TASS agency cites an emergency source stating that none of the 65 passengers and 6 crew members has survived. ](/news/2018/02/11/an-antonov-an-148-of-saratov-airlines-with-71-people-on-board-crashes-shortly-after-take-off-from-domodedovo-airport-moscow-russia-the-ta.md)
-The Russian regional airliner went down within minutes, killing all 71 people on board.
-
-##### United Kingdom
-### [United Kingdom Secretary of State for International Development Penny Mordaunt tells BBC One that Oxfam's failure to pass on information regarding sexual misconduct allegations of its workers in Haiti and Chad shows an "absolute" absence and failure of moral leadership. ](/news/2018/02/11/united-kingdom-secretary-of-state-for-international-development-penny-mordaunt-tells-bbc-one-that-oxfam-s-failure-to-pass-on-information-reg.md)
-The charity is warned it must account for its actions or risk losing its government funding.
-
-##### Monegasque general election, 2018
-### [Primo! Priority Monaco ("Priorite Monaco"), a new political party, wins 21 of the 24 seats in the National Council. ](/news/2018/02/11/primo-priority-monaco-priorita-c-monaco-a-new-political-party-wins-21-of-the-24-seats-in-the-national-council.md)
-The results are in following the vote by 5097 Monegasques for the 24 seats in the National Council. That is a participation by 70.35% (74.4% in 2013) of those allowed to vote...
-
-##### Iranian Revolution
-### [Iranian president Hassan Rouhani proposes a referendum to heal country's divisions, according to the Article 59 of constitution. ](/news/2018/02/11/iranian-president-hassan-rouhani-proposes-a-referendum-to-heal-country-s-divisions-according-to-the-article-59-of-constitution.md)
-Iranian president issues call for unity in speech to mark 39th anniversary of Islamic revolution
-
-##### Sri Lankan local elections, 2018
-### [The opposition SLPP (Rajapaksa) wins 44.65% of the vote, the ruling coalition parties UNP (Wickremesinghe) and UPFA (Sirisena) gather 32.63% and 8.94% respectively. Rosy Senanayake (UNP) becomes the first female mayor of the capital Colombo. ](/news/2018/02/11/the-opposition-slpp-rajapaksa-wins-44-65-of-the-vote-the-ruling-coalition-parties-unp-wickremesinghe-and-upfa-sirisena-gather-32-63.md)
-Party backed by former President Mahinda Rajapaksa set to score landslide victory in key local elections.
-
----
-
-## [Previous Day...](/news/2018/02/10/index.md)
+## [Previous Day...](/news/2018/02/11/index.md)
 
 ---
 
