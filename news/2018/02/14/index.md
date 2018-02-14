@@ -19,13 +19,21 @@ President Trump&rsquo;s longtime personal lawyer Michael Cohen has acknowledged 
 ### [Pakistan moves to ban two charities linked to Hafiz Muhammad Saeed. ](/news/2018/02/14/pakistan-moves-to-ban-two-charities-linked-to-hafiz-muhammad-saeed.md)
 Pakistan has banned two charities linked to Islamist leader Hafiz Saeed, an official said on Wednesday, in a move against the U.N.-designated &quot;terrorist&quot; who the United States says was behind an attack on Mumbai in 2008 that killed 166 people.
 
+##### November 2015 Paris attacks
+### [After the first trial on the attacks, Jawad Bendaoud is acquitted. Bendaoud rented an appartment to two of the attackers but denied knowing what they planned. Mohamed Soumah is sentenced to 5 years for acting as an intermediary, Youssef Ait-Boulahcen to 3 years in jail for failing to inform authorities. ](/news/2018/02/14/after-the-first-trial-on-the-attacks-jawad-bendaoud-is-acquitted-bendaoud-rented-an-appartment-to-two-of-the-attackers-but-denied-knowing.md)
+_Context: November 2015 Paris attacks_
+
+##### Crime in the United States
+### [A a shooting and break-in at the headquarters of the NSA causes several injuries. Police do not believe the incident to be terror related. ](/news/2018/02/14/a-a-shooting-and-break-in-at-the-headquarters-of-the-nsa-causes-several-injuries-police-do-not-believe-the-incident-to-be-terror-related.md)
+_Context: NSA, Crime in the United States_
+
 ##### Politics of the Netherlands
 ### [Ruud Lubbers, the longest-tenured and the youngest serving former Prime Minister of the Netherlands, who later served as the United Nations High Commissioner for Refugees has died at the age of 78. ](/news/2018/02/14/ruud-lubbers-the-longest-tenured-and-the-youngest-serving-former-prime-minister-of-the-netherlands-who-later-served-as-the-united-nations.md)
-_Context: Prime Minister of the Netherlands, United Nations High Commissioner for Refugees, Ruud Lubbers, Politics of the Netherlands_
+_Context: United Nations High Commissioner for Refugees, Prime Minister of the Netherlands, Ruud Lubbers, Politics of the Netherlands_
 
 ##### Ukrainian crisis
 ### [Mikheil Saakashvili, leader of the opposition Movement of New Forces party, who was deported from Ukraine to Poland, relocates to the Netherlands. ](/news/2018/02/14/mikheil-saakashvili-leader-of-the-opposition-movement-of-new-forces-party-who-was-deported-from-ukraine-to-poland-relocates-to-the-nether.md)
-_Context: Mikheil Saakashvili, Ukrainian crisis, Ukraine, Movement of New Forces, Poland, Netherlands_
+_Context: Movement of New Forces, Ukraine, Poland, Netherlands, Mikheil Saakashvili, Ukrainian crisis_
 
 ## [Previous Day...](/news/2018/02/13/index.md)
 
