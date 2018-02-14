@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/02/13/united-airlines-flight-1175-s-engine-fell-apart
 
 ### [2018-02-13](/news/2018/02/13/index.md)
 
-##### United Airlines Flight 1175
+##### 
 # United Airlines Flight 1175's engine fell apart in midair, leaving metal pieces flapping in the wind. All onboard survived. 
 
 

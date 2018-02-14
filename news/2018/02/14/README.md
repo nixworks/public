@@ -21,7 +21,7 @@ Pakistan has banned two charities linked to Islamist leader Hafiz Saeed, an offi
 
 ##### Ukrainian crisis
 ### [Mikheil Saakashvili, leader of the opposition Movement of New Forces party who was deported from Ukraine to Poland, relocates to the Netherlands. ](/news/2018/02/14/mikheil-saakashvili-leader-of-the-opposition-movement-of-new-forces-party-who-was-deported-from-ukraine-to-poland-relocates-to-the-netherl.md)
-_Context: Ukraine, Ukrainian crisis, Movement of New Forces, Netherlands, Poland, Mikheil Saakashvili_
+_Context: Poland, Movement of New Forces, Netherlands, Mikheil Saakashvili, Ukrainian crisis, Ukraine_
 
 ## [Previous Day...](/news/2018/02/13/index.md)
 
