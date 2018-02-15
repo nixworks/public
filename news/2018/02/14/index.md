@@ -5,14 +5,14 @@ Formats: [HTML](2018/02/14/index.html)  [JSON](2018/02/14/index.json)  [XML](201
 
 ##### Douglas High School shooting
 ### [At least 17 people are killed and over 14 wounded in a school shooting in Parkland, Florida. The suspected shooter is apprehended and identified as a 19-year-old former student. ](/news/2018/02/14/at-least-17-people-are-killed-and-over-14-wounded-in-a-school-shooting-in-parkland-florida-the-suspected-shooter-is-apprehended-and-identi.md)
-_Context: Florida, Douglas High School shooting, school shooting, Parkland_
+_Context: school shooting, Florida, Parkland, Douglas High School shooting_
 
 ##### Economy of the European Union
 ### [Eurozone GDP rises by 2.5% in 2017, a pace not seen since 2007, and industrial production is up 5.2% year-on-year. The production of durable consumer goods is up 7.4% and capital goods, indicating investments, are up 7.6%. ](/news/2018/02/14/eurozone-gdp-rises-by-2-5-in-2017-a-pace-not-seen-since-2007-and-industrial-production-is-up-5-2-year-on-year-the-production-of-durable.md)
 BRUSSELS: Eurozone industrial production jumped more than expected in December, data from the EU statistics office Eurostat showed on Wednesday, underlining the fastest economic growth rate in a decade that economists expect to continue in 2018. Eurostat said industrial production in the 19 countrie...
 
 ##### United States
-### [A car accident at the headquarters of the United States National Security Agency injures three people. Police officers shoot at the driver, who they say was attempting to attack the building. ](/news/2018/02/14/a-car-accident-at-the-headquarters-of-the-united-states-national-security-agency-injures-three-people-police-officers-shoot-at-the-driver.md)
+### [A car accident at the headquarters of the United States National Security Agency at Fort Meade, Maryland, injures three people. Police officers shoot at the driver, who they say was attempting to attack the building. ](/news/2018/02/14/a-car-accident-at-the-headquarters-of-the-united-states-national-security-agency-at-fort-meade-maryland-injures-three-people-police-offic.md)
 NSA said situation is &quot;under control&quot;
 
 ##### Crime in South Africa
@@ -37,7 +37,7 @@ French police have found the remains of an eight-year-old French girl who vanish
 
 ##### Ukrainian crisis
 ### [Mikheil Saakashvili, leader of the opposition Movement of New Forces party, who was deported from Ukraine to Poland, relocates to the Netherlands. ](/news/2018/02/14/mikheil-saakashvili-leader-of-the-opposition-movement-of-new-forces-party-who-was-deported-from-ukraine-to-poland-relocates-to-the-nether.md)
-_Context: Poland, Ukrainian crisis, Netherlands, Mikheil Saakashvili, Movement of New Forces, Ukraine_
+_Context: Mikheil Saakashvili, Netherlands, Poland, Movement of New Forces, Ukrainian crisis, Ukraine_
 
 ##### Politics of South Africa
 ### [The President of South Africa, Jacob Zuma, resigns with immediate effect. Cyril Ramaphosa is now Acting President. ](/news/2018/02/14/the-president-of-south-africa-jacob-zuma-resigns-with-immediate-effect-cyril-ramaphosa-is-now-acting-president.md)

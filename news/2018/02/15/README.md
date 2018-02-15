@@ -4,8 +4,12 @@ Formats: [HTML](2018/02/15/index.html)  [JSON](2018/02/15/index.json)  [XML](201
 ## [2018-02-15](/news/2018/02/15/index.md)
 
 ##### War in Afghanistan
-### [The United Nations report that in 2017, more than 10,000 civilians were killed or wounded in the war. ](/news/2018/02/15/the-united-nations-report-that-in-2017-more-than-10-000-civilians-were-killed-or-wounded-in-the-war.md)
+### [The United Nations report that in 2017, more than 10,000 Afghan civilians were killed or wounded in the war. ](/news/2018/02/15/the-united-nations-report-that-in-2017-more-than-10-000-afghan-civilians-were-killed-or-wounded-in-the-war.md)
 The overall civilian toll fell by 9 percent compared to 2016, but the number of deaths from airstrikes saw a significant jump. A resurgent Taliban and &quot;Islamic State&quot; militants inflicted a bulk of the casualties.
+
+##### Syrian Civil War
+### [An arms depot explosion in Tabiyet Jazira, Deir ez-Zor Governorate, kills at least 23 people, including over a dozen Russian contractors, allegedly belonging to the Wagner Group, according to the Syrian Observatory for Human Rights (SOHR). ](/news/2018/02/15/an-arms-depot-explosion-in-tabiyet-jazira-deir-ez-zor-governorate-kills-at-least-23-people-including-over-a-dozen-russian-contractors-al.md)
+The incident at a weapons depot follows the reported deaths of scores of Russian mercenaries in a US-led coalition attack last week
 
 ##### Prime Minister of Bulgaria
 ### [Prime Minister of Bulgaria Boyko Borissov says that GERB, his party, will not ratify the convention due to lack of support from political parties. The treaty was designed by the Council of Europe to combat domestic violence and violence against women but critics say its language is vague, it could encourage youth to identify as transgender or third sex and it could lead to same-sex marriage in Bulgaria. ](/news/2018/02/15/prime-minister-of-bulgaria-boyko-borissov-says-that-gerb-his-party-will-not-ratify-the-convention-due-to-lack-of-support-from-political-pa.md)
