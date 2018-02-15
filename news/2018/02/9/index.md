@@ -9,7 +9,7 @@ Richard Desmond agrees to sell newspapers along with celebrity magazine OK!
 
 ##### Earthquakes in 2018
 ### [A 5.8 magnitude earthquake strikes off the coast of the Mexican state of Jalisco, prompting evacuations in the tourist resort of Puerto Vallarta and is felt in the country's second-largest metropolitan area of Guadalajara. No casualties are reported. ](/news/2018/02/9/a-5-8-magnitude-earthquake-strikes-off-the-coast-of-the-mexican-state-of-jalisco-prompting-evacuations-in-the-tourist-resort-of-puerto-vall.md)
-_Context: Earthquakes in 2018, Jalisco, Mexican, magnitude, Guadalajara, Puerto Vallarta_
+_Context: Guadalajara, Mexican, magnitude, Jalisco, Earthquakes in 2018, Puerto Vallarta_
 
 ##### IOS jailbreaking
 ### [A Vice Motherboard report traces the origin of a significant iOS source code leak to an Apple intern and five "friends" in the iOS jailbreaking community. ](/news/2018/02/9/a-vice-motherboard-report-traces-the-origin-of-a-significant-ios-source-code-leak-to-an-apple-intern-and-five-friends-in-the-ios-jailbreak.md)
@@ -25,11 +25,11 @@ Government funding expired at midnight after Senator Rand Paul of Kentucky held 
 
 ##### Presidency of Donald Trump
 ### [Rachel Brand, Associate Attorney General since May 2017, plans to step down in the next several weeks in favor of a job in the private sector. ](/news/2018/02/9/rachel-brand-associate-attorney-general-since-may-2017-plans-to-step-down-in-the-next-several-weeks-in-favor-of-a-job-in-the-private-secto.md)
-_Context: Associate Attorney General, Presidency of Donald Trump, Rachel Brand_
+_Context: Presidency of Donald Trump, Associate Attorney General, Rachel Brand_
 
 ##### Politics of Turkey
 ### [Turkey arrests 17 leaders of the left-wing Peoples' Democratic Party for opposition to the ongoing Afrin offensive. ](/news/2018/02/9/turkey-arrests-17-leaders-of-the-left-wing-peoples-democratic-party-for-opposition-to-the-ongoing-afrin-offensive.md)
-_Context: opposition, Politics of Turkey, Turkey, Turkish military operation in Afrin, Peoples' Democratic Party_
+_Context: opposition, Peoples' Democratic Party, Turkey, Turkish military operation in Afrin, Politics of Turkey_
 
 ##### Human genetics
 ### [Researchers at the University of Edinburgh claim they have successfully brought prepubescent-sourced, immature human egg cells to maturity in a laboratory for the first time. The work may be significant because it may allow the harvesting and preservation of eggs from young girls undergoing toxic cancer treatment before their lifetime reservoirs of those cells are destroyed. ](/news/2018/02/9/researchers-at-the-university-of-edinburgh-claim-they-have-successfully-brought-prepubescent-sourced-immature-human-egg-cells-to-maturity-i.md)
