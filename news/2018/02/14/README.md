@@ -37,7 +37,7 @@ French police have found the remains of an eight-year-old French girl who vanish
 
 ##### Ukrainian crisis
 ### [Mikheil Saakashvili, leader of the opposition Movement of New Forces party, who was deported from Ukraine to Poland, relocates to the Netherlands. ](/news/2018/02/14/mikheil-saakashvili-leader-of-the-opposition-movement-of-new-forces-party-who-was-deported-from-ukraine-to-poland-relocates-to-the-nether.md)
-_Context: Poland, Netherlands, Ukrainian crisis, Movement of New Forces, Mikheil Saakashvili, Ukraine_
+_Context: Poland, Mikheil Saakashvili, Ukraine, Netherlands, Ukrainian crisis, Movement of New Forces_
 
 ##### Politics of South Africa
 ### [The President of South Africa, Jacob Zuma, resigns with immediate effect. Cyril Ramaphosa is now Acting President. ](/news/2018/02/14/the-president-of-south-africa-jacob-zuma-resigns-with-immediate-effect-cyril-ramaphosa-is-now-acting-president.md)
