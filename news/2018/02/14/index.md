@@ -3,9 +3,9 @@ Formats: [HTML](2018/02/14/index.html)  [JSON](2018/02/14/index.json)  [XML](201
 
 ## [2018-02-14](/news/2018/02/14/index.md)
 
-##### Marjory Stoneman Douglas High School shooting
-### [At least 17 people are killed and around 15 wounded in a school shooting in Parkland, Florida. The suspected shooter is apprehended and identified as 19-year-old former student Nikolas de Jesus Cruz. ](/news/2018/02/14/at-least-17-people-are-killed-and-around-15-wounded-in-a-school-shooting-in-parkland-florida-the-suspected-shooter-is-apprehended-and-iden.md)
-_Context: school shooting, Marjory Stoneman Douglas High School shooting, Parkland, Florida_
+##### Douglas High School shooting
+### [At least 17 people are killed and over 14 wounded in a school shooting in Parkland, Florida. The suspected shooter is apprehended and identified as a 19-year-old former student. ](/news/2018/02/14/at-least-17-people-are-killed-and-over-14-wounded-in-a-school-shooting-in-parkland-florida-the-suspected-shooter-is-apprehended-and-identi.md)
+_Context: Douglas High School shooting, school shooting, Parkland, Florida_
 
 ##### Economy of the European Union
 ### [Eurozone GDP rises by 2.5% in 2017, a pace not seen since 2007, and industrial production is up 5.2% year-on-year. The production of durable consumer goods is up 7.4% and capital goods, indicating investments, are up 7.6%. ](/news/2018/02/14/eurozone-gdp-rises-by-2-5-in-2017-a-pace-not-seen-since-2007-and-industrial-production-is-up-5-2-year-on-year-the-production-of-durable.md)
@@ -37,11 +37,15 @@ French police have found the remains of an eight-year-old French girl who vanish
 
 ##### Ukrainian crisis
 ### [Mikheil Saakashvili, leader of the opposition Movement of New Forces party, who was deported from Ukraine to Poland, relocates to the Netherlands. ](/news/2018/02/14/mikheil-saakashvili-leader-of-the-opposition-movement-of-new-forces-party-who-was-deported-from-ukraine-to-poland-relocates-to-the-nether.md)
-_Context: Mikheil Saakashvili, Ukraine, Poland, Ukrainian crisis, Movement of New Forces, Netherlands_
+_Context: Netherlands, Poland, Movement of New Forces, Ukraine, Mikheil Saakashvili, Ukrainian crisis_
 
 ##### Politics of South Africa
 ### [The President of South Africa, Jacob Zuma, resigns with immediate effect. ](/news/2018/02/14/the-president-of-south-africa-jacob-zuma-resigns-with-immediate-effect.md)
 President Jacob Zuma has resigned as the president of South Africa.
+
+##### Zimbabwean general election, 2018
+### [Morgan Tsvangirai, opposition politician in Zimbabwe, dies of colon cancer at the age of 65, only months before a presidential election. ](/news/2018/02/14/morgan-tsvangirai-opposition-politician-in-zimbabwe-dies-of-colon-cancer-at-the-age-of-65-only-months-before-a-presidential-election.md)
+Zimbabwe opposition leader Morgan Tsvangirai dies aged 65 after protracted battle with cancer, party official says.
 
 ## [Previous Day...](/news/2018/02/13/index.md)
 
