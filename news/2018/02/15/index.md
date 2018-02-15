@@ -8,7 +8,7 @@ Formats: [HTML](2018/02/15/index.html)  [JSON](2018/02/15/index.json)  [XML](201
 The overall civilian toll fell by 9 percent compared to 2016, but the number of deaths from airstrikes saw a significant jump. A resurgent Taliban and &quot;Islamic State&quot; militants inflicted a bulk of the casualties.
 
 ##### Syrian Civil War
-### [An arms depot explosion in Tabiyet Jazira, Drir ez-Zor, kills at least 23 people, including over a dozen Russian contractors, allegedly belonging to the Wagner Group, according to the Syrian Observatory for Human Rights (SOHR). ](/news/2018/02/15/an-arms-depot-explosion-in-tabiyet-jazira-drir-ez-zor-kills-at-least-23-people-including-over-a-dozen-russian-contractors-allegedly-belo.md)
+### [An arms depot explosion in Tabiyet Jazira, Deir ez-Zor, kills at least 23 people, including over a dozen Russian contractors, allegedly belonging to the Wagner Group, according to the Syrian Observatory for Human Rights (SOHR). ](/news/2018/02/15/an-arms-depot-explosion-in-tabiyet-jazira-deir-ez-zor-kills-at-least-23-people-including-over-a-dozen-russian-contractors-allegedly-belo.md)
 The incident at a weapons depot follows the reported deaths of scores of Russian mercenaries in a US-led coalition attack last week
 
 ##### Mexican general election, 2018
