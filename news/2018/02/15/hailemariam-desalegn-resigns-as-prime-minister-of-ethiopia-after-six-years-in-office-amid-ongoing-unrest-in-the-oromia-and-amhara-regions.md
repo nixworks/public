@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/02/15/hailemariam-desalegn-resigns-as-prime-minister-
 
 ### [2018-02-15](/news/2018/02/15/index.md)
 
-##### Hailemariam Desalegn
+##### Politics of Ethiopia
 # Hailemariam Desalegn resigns as Prime Minister of Ethiopia after six years in office amid ongoing unrest in the Oromia and Amhara regions. 
 
 Hailemariam Desalegn said he was stepping down in a bid to end unrest and a political crisis.
@@ -16,7 +16,7 @@ Hailemariam Desalegn said he was stepping down in a bid to end unrest and a poli
 
 ### Related:
 
-1. [Ethiopian Prime Minister Hailemariam Desalegn announces that Ethiopia will drop charges against all political prisoners and close down the infamous prison camp of Maekelawi. ](/news/2018/01/3/ethiopian-prime-minister-hailemariam-desalegn-announces-that-ethiopia-will-drop-charges-against-all-political-prisoners-and-close-down-the-i.md) _Context: Hailemariam Desalegn, Prime Minister of Ethiopia_
+1. [Ethiopian Prime Minister Hailemariam Desalegn announces that Ethiopia will drop charges against all political prisoners and close down the infamous prison camp of Maekelawi. ](/news/2018/01/3/ethiopian-prime-minister-hailemariam-desalegn-announces-that-ethiopia-will-drop-charges-against-all-political-prisoners-and-close-down-the-i.md) _Context: Hailemariam Desalegn, Politics of Ethiopia, Prime Minister of Ethiopia_
 2. [Seven people die in clashes between security forces and worshippers taking part in an Ethiopian Orthodox religious ceremony marking Timkat (Epiphany) in Woldiya, Amhara, Ethiopia, over the weekend. ](/news/2018/01/22/seven-people-die-in-clashes-between-security-forces-and-worshippers-taking-part-in-an-ethiopian-orthodox-religious-ceremony-marking-timkat.md) _Context: Amhara_
 3. [Ethiopia's government declares a six-month state of emergency amid continuing protests, especially in the restive Oromia Region. ](/news/2016/10/9/ethiopia-s-government-declares-a-six-month-state-of-emergency-amid-continuing-protests-especially-in-the-restive-oromia-region.md) _Context: Oromia_
 4. [At least nine students are killed in protests in Ethiopia's Oromia Region. ](/news/2014/05/2/at-least-nine-students-are-killed-in-protests-in-ethiopia-s-oromia-region.md) _Context: Oromia_
