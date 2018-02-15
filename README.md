@@ -1,11 +1,23 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2018/02/14/index.md)
+## [News](/news/2018/02/15/index.md)
+
+##### Prime Minister of Bulgaria
+### [Prime Minister of Bulgaria Boyko Borissov says that GERB, his party, will not ratify the convention due to lack of support from political parties. The treaty was designed to combat domestic violence and violence against women but critics say its language is vague, it could encourage youth to identify as transgender or third sex and it could lead to same-sex marriage in Bulgaria. ](/news/2018/02/15/prime-minister-of-bulgaria-boyko-borissov-says-that-gerb-his-party-will-not-ratify-the-convention-due-to-lack-of-support-from-political-pa.md)
+Bulgarian Prime Minister Boyko Borissov said that the ruling GERB party is withdrawing a European treaty designed to combat violence against women from ratification in parliament over strong opposition expressed by religious and political groups.
+
+##### Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2018/02/14/index.md)
 
 ##### Douglas High School shooting
 ### [At least 17 people are killed and over 14 wounded in a school shooting in Parkland, Florida. The suspected shooter is apprehended and identified as a 19-year-old former student. ](/news/2018/02/14/at-least-17-people-are-killed-and-over-14-wounded-in-a-school-shooting-in-parkland-florida-the-suspected-shooter-is-apprehended-and-identi.md)
-_Context: Douglas High School shooting, school shooting, Parkland, Florida_
+_Context: school shooting, Parkland, Florida, Douglas High School shooting_
 
 ##### Economy of the European Union
 ### [Eurozone GDP rises by 2.5% in 2017, a pace not seen since 2007, and industrial production is up 5.2% year-on-year. The production of durable consumer goods is up 7.4% and capital goods, indicating investments, are up 7.6%. ](/news/2018/02/14/eurozone-gdp-rises-by-2-5-in-2017-a-pace-not-seen-since-2007-and-industrial-production-is-up-5-2-year-on-year-the-production-of-durable.md)
@@ -37,23 +49,19 @@ French police have found the remains of an eight-year-old French girl who vanish
 
 ##### Ukrainian crisis
 ### [Mikheil Saakashvili, leader of the opposition Movement of New Forces party, who was deported from Ukraine to Poland, relocates to the Netherlands. ](/news/2018/02/14/mikheil-saakashvili-leader-of-the-opposition-movement-of-new-forces-party-who-was-deported-from-ukraine-to-poland-relocates-to-the-nether.md)
-_Context: Netherlands, Poland, Movement of New Forces, Ukraine, Mikheil Saakashvili, Ukrainian crisis_
+_Context: Mikheil Saakashvili, Ukraine, Ukrainian crisis, Poland, Movement of New Forces, Netherlands_
 
 ##### Politics of South Africa
-### [The President of South Africa, Jacob Zuma, resigns with immediate effect. ](/news/2018/02/14/the-president-of-south-africa-jacob-zuma-resigns-with-immediate-effect.md)
+### [The President of South Africa, Jacob Zuma, resigns with immediate effect. Cyril Ramaphosa is now Acting President. ](/news/2018/02/14/the-president-of-south-africa-jacob-zuma-resigns-with-immediate-effect-cyril-ramaphosa-is-now-acting-president.md)
 President Jacob Zuma has resigned as the president of South Africa.
 
 ##### Zimbabwean general election, 2018
 ### [Morgan Tsvangirai, opposition politician in Zimbabwe, dies of colon cancer at the age of 65, only months before a presidential election. ](/news/2018/02/14/morgan-tsvangirai-opposition-politician-in-zimbabwe-dies-of-colon-cancer-at-the-age-of-65-only-months-before-a-presidential-election.md)
 Zimbabwe opposition leader Morgan Tsvangirai dies aged 65 after protracted battle with cancer, party official says.
 
-##### Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2018/02/13/index.md)
+## [Day Before Yesterday](/news/2018/02/13/index.md)
 
 ##### United Airlines Flight 1175
 ### [United Airlines Flight 1175 traveling to Honolulu from San Francisco lands safely at Honolulu International Airport, Hawaii, after the pilots call for an emergency landing because of a loss of the engine cowling. ](/news/2018/02/13/united-airlines-flight-1175-traveling-to-honolulu-from-san-francisco-lands-safely-at-honolulu-international-airport-hawaii-after-the-pilot.md)
@@ -81,11 +89,11 @@ Jacob Zuma is refusing to resign so his party has decided to issue a formal dema
 
 ##### Politics of the Netherlands
 ### [Halbe Zijlstra offers his resignation as Minister of Foreign Affairs of the Netherlands. Minister Sigrid Kaag takes over the portfolio ad interim. ](/news/2018/02/13/halbe-zijlstra-offers-his-resignation-as-minister-of-foreign-affairs-of-the-netherlands-minister-sigrid-kaag-takes-over-the-portfolio-ad-in.md)
-_Context: Sigrid Kaag, Minister of Foreign Affairs of the Netherlands, Politics of the Netherlands, Minister, ad interim, Halbe Zijlstra_
+_Context: ad interim, Minister, Halbe Zijlstra, Politics of the Netherlands, Minister of Foreign Affairs of the Netherlands, Sigrid Kaag_
 
 ##### Politics of Germany
 ### [Martin Schulz resigns as leader of the Social Democratic Party of Germany (SPD) with immediate effect. The mayor of Hamburg Olaf Scholz will serve as interim leader until a new leader is elected. ](/news/2018/02/13/martin-schulz-resigns-as-leader-of-the-social-democratic-party-of-germany-spd-with-immediate-effect-the-mayor-of-hamburg-olaf-scholz-will.md)
-_Context: mayor, Olaf Scholz, Hamburg, Social Democratic Party of Germany, Politics of Germany, Martin Schulz_
+_Context: Martin Schulz, Olaf Scholz, Politics of Germany, Social Democratic Party of Germany, Hamburg, mayor_
 
 ##### Russian interference in the 2016 United States elections
 ### [Russia wants YouTube and Instagram to remove videos posted by Alexey Navalny, a prominent opposition figure, describing his investigation into Oleg Deripaska, a Russian billionaire with bribing Sergey Prikhodko, Russia's deputy prime minister, and offering information about the 2016 U.S. election he had received from Paul Manafort. ](/news/2018/02/13/russia-wants-youtube-and-instagram-to-remove-videos-posted-by-alexey-navalny-a-prominent-opposition-figure-describing-his-investigation-in.md)
@@ -93,59 +101,11 @@ Russia has threatened to block access to YouTube and Instagram if the sites do n
 
 ##### Supersonic transport
 ### [A new plane that would fly from London to New York City in three hours has just received crucial funding. The aircraft, officially named Quiet Supersonic Transport (QueSST) and dubbed the "Son of Concorde", was proposed by NASA and has just been given the go-ahead by US officials. QueSST could make its maiden voyage in 2021 if all goes according to plan. If so, it will halve the current travel time between London and New York City. ](/news/2018/02/13/a-new-plane-that-would-fly-from-london-to-new-york-city-in-three-hours-has-just-received-crucial-funding-the-aircraft-officially-named-qui.md)
-_Context: New York City, Concorde, NASA, Supersonic transport, London, Quiet Supersonic Transport_
+_Context: Supersonic transport, NASA, Quiet Supersonic Transport, Concorde, New York City, London_
 
 ---
 
-## [Day Before Yesterday](/news/2018/02/12/index.md)
-
-##### Drone strikes in Pakistan
-### [Tehrik-i-Taliban Pakistan (TTP) confirms its deputy leader Khalid Mehsud has been killed in a U.S. drone strike in North Waziristan, near the border with Afghanistan. ](/news/2018/02/12/tehrik-i-taliban-pakistan-ttp-confirms-its-deputy-leader-khalid-mehsud-has-been-killed-in-a-u-s-drone-strike-in-north-waziristan-near-th.md)
-_Context: Tehrik-i-Taliban Pakistan, United States, Drone strikes in Pakistan, Khalid Mehsud, North Waziristan, Afghanistan_
-
-##### Egypt
-### [Egypt bans "Saturday Night Live Arabia" for using "sexual expressions that are inappropriate for viewers". ](/news/2018/02/12/egypt-bans-saturday-night-live-arabia-for-using-sexual-expressions-that-are-inappropriate-for-viewers.md)
-Latest season of satirical show with same format as US Saturday Night Live had just ended
-
-##### London City Airport
-### [All flights to and from London City Airport are cancelled after an unexploded World War II bomb is discovered in the River Thames at King George V Dock. ](/news/2018/02/12/all-flights-to-and-from-london-city-airport-are-cancelled-after-an-unexploded-world-war-ii-bomb-is-discovered-in-the-river-thames-at-king-ge.md)
-Up to 16,000 London City Airport passengers are affected after the 500kg device was found.
-
-##### 2017-18 South Pacific cyclone season
-### [Tonga is directly hit by Cyclone Gita, causing heavy damage to the country as well as destroying its parliament building. Gita is the strongest storm to hit Tonga in its history. ](/news/2018/02/12/tonga-is-directly-hit-by-cyclone-gita-causing-heavy-damage-to-the-country-as-well-as-destroying-its-parliament-building-gita-is-the-strong.md)
-_Context: 2017-18 South Pacific cyclone season, Cyclone Gita, Tonga_
-
-##### Saratov Airlines Flight 703
-### [Emergency teams comb snowy fields outside Moscow Monday for debris from a crashed Russian airliner and the remains of the 71 people who died. Transport Minister Maksim Sokolov says that emergency teams have already found the plane's flight data recorder, which will help them determine the crash's cause, but notes that the search for the victims' remains will take at least a week. ](/news/2018/02/12/emergency-teams-comb-snowy-fields-outside-moscow-monday-for-debris-from-a-crashed-russian-airliner-and-the-remains-of-the-71-people-who-died.md)
-_Context: Saratov Airlines Flight 703, Maksim Sokolov, Emergency, airliner, Transport, Moscow, flight data recorder, Russia_
-
-##### Cyprus-Turkey maritime zones dispute
-### [The European Union urges calm and restraint after Turkish Navy warships obstruct a Cypriot offshore drilling vessel in the Eastern Mediterranean, which was approaching an area to explore for natural gas. ](/news/2018/02/12/the-european-union-urges-calm-and-restraint-after-turkish-navy-warships-obstruct-a-cypriot-offshore-drilling-vessel-in-the-eastern-mediterra.md)
-The European Union on Monday called on Turkey to avoid threats and &quot;refrain from any actions that might damage good neighborly&quot; ties after Cyprus, a member of the bloc, accused the Turkish military of obstructing a ship exploring for gas.
-
-##### Ukrainian crisis
-### [Mikheil Saakashvili, leader of the opposition Movement of New Forces party, who has been stripped of his Ukrainian citizenship by Ukrainian president Petro Poroshenko on 26 July 2017, is detained by the Ministry of Internal Affairs in Kiev and deported from Ukraine to Poland. ](/news/2018/02/12/mikheil-saakashvili-leader-of-the-opposition-movement-of-new-forces-party-who-has-been-stripped-of-his-ukrainian-citizenship-by-ukrainian.md)
-Last year Georgia’s former President Mikheil Saakashvili, who is well known for his extravagant behavior, warned that Ukraine’s President Petro Poroshenko wanted to kidnap him. Well, it might just have happened…
-
-##### Politics of the Netherlands
-### [Foreign Minister of the Netherlands Halbe Zijlstra admits to lying about having attended a meeting with Vladimir Putin in 2006. Zijlstra had said that Putin mentioned plans to expand Russia to include Belarus, Ukraine, and the Baltic states but now says that he was not present and borrowed the story from a source. ](/news/2018/02/12/foreign-minister-of-the-netherlands-halbe-zijlstra-admits-to-lying-about-having-attended-a-meeting-with-vladimir-putin-in-2006-zijlstra-had.md)
-_Context: expand, Politics of the Netherlands, Russia, Foreign Minister of the Netherlands, Halbe Zijlstra, Vladimir Putin_
-
-##### Politics of New Zealand
-### [Former Prime Minister Bill English resigns as National Party leader. ](/news/2018/02/12/former-prime-minister-bill-english-resigns-as-national-party-leader.md)
-_Context: Bill English, Prime Minister, Politics of New Zealand, National Party_
-
-##### Presidency of Donald Trump
-### [U.S. President Donald Trump sends his US$4.4 trillion 2019 budget proposal to Congress. ](/news/2018/02/12/u-s-president-donald-trump-sends-his-us-4-4-trillion-2019-budget-proposal-to-congress.md)
-The White House released a proposed budget that is largely irrelevant, given Congress passed a spending bill last week that outlines priorities.
-
-##### Presidency of Rodrigo Duterte
-### [Philippine President Rodrigo Duterte calls for female communist rebels to be shot in the genitals. Duterte's comments are described as "a funny joke" by his spokesman, while drawing heavy criticism from others. ](/news/2018/02/12/philippine-president-rodrigo-duterte-calls-for-female-communist-rebels-to-be-shot-in-the-genitals-duterte-s-comments-are-described-as-a-fu.md)
-Rights groups slam Philippine president for the latest in a series of derogatory and demeaning comments about women.
-
----
-
-## [Previous Day...](/news/2018/02/11/index.md)
+## [Previous Day...](/news/2018/02/12/index.md)
 
 ---
 

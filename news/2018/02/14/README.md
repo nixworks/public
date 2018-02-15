@@ -5,7 +5,7 @@ Formats: [HTML](2018/02/14/index.html)  [JSON](2018/02/14/index.json)  [XML](201
 
 ##### Douglas High School shooting
 ### [At least 17 people are killed and over 14 wounded in a school shooting in Parkland, Florida. The suspected shooter is apprehended and identified as a 19-year-old former student. ](/news/2018/02/14/at-least-17-people-are-killed-and-over-14-wounded-in-a-school-shooting-in-parkland-florida-the-suspected-shooter-is-apprehended-and-identi.md)
-_Context: Douglas High School shooting, school shooting, Parkland, Florida_
+_Context: school shooting, Parkland, Florida, Douglas High School shooting_
 
 ##### Economy of the European Union
 ### [Eurozone GDP rises by 2.5% in 2017, a pace not seen since 2007, and industrial production is up 5.2% year-on-year. The production of durable consumer goods is up 7.4% and capital goods, indicating investments, are up 7.6%. ](/news/2018/02/14/eurozone-gdp-rises-by-2-5-in-2017-a-pace-not-seen-since-2007-and-industrial-production-is-up-5-2-year-on-year-the-production-of-durable.md)
@@ -37,10 +37,10 @@ French police have found the remains of an eight-year-old French girl who vanish
 
 ##### Ukrainian crisis
 ### [Mikheil Saakashvili, leader of the opposition Movement of New Forces party, who was deported from Ukraine to Poland, relocates to the Netherlands. ](/news/2018/02/14/mikheil-saakashvili-leader-of-the-opposition-movement-of-new-forces-party-who-was-deported-from-ukraine-to-poland-relocates-to-the-nether.md)
-_Context: Netherlands, Poland, Movement of New Forces, Ukraine, Mikheil Saakashvili, Ukrainian crisis_
+_Context: Mikheil Saakashvili, Ukraine, Ukrainian crisis, Poland, Movement of New Forces, Netherlands_
 
 ##### Politics of South Africa
-### [The President of South Africa, Jacob Zuma, resigns with immediate effect. ](/news/2018/02/14/the-president-of-south-africa-jacob-zuma-resigns-with-immediate-effect.md)
+### [The President of South Africa, Jacob Zuma, resigns with immediate effect. Cyril Ramaphosa is now Acting President. ](/news/2018/02/14/the-president-of-south-africa-jacob-zuma-resigns-with-immediate-effect-cyril-ramaphosa-is-now-acting-president.md)
 President Jacob Zuma has resigned as the president of South Africa.
 
 ##### Zimbabwean general election, 2018
