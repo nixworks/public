@@ -13,15 +13,15 @@ Boy among several people wounded when police opened fire as thousands joined fun
 
 ##### Sudan
 ### [Sudanese forces advance on the town of Heglig that is occupied by South Sudanese forces during days of cross-border clashes. ](/news/2012/04/14/sudanese-forces-advance-on-the-town-of-heglig-that-is-occupied-by-south-sudanese-forces-during-days-of-cross-border-clashes.md)
-_Context: Sudan, Heglig, South Sudan_
+_Context: South Sudan, Sudan, Heglig_
 
 ##### Tornadoes
 ### [Tornadoes touch down in the southern central Great Plains of the United States, with hail falling in Oklahoma. ](/news/2012/04/14/tornadoes-touch-down-in-the-southern-central-great-plains-of-the-united-states-with-hail-falling-in-oklahoma.md)
-_Context: Oklahoma, Tornadoes, Great Plains, hail_
+_Context: hail, Great Plains, Oklahoma, Tornadoes_
 
 ##### South Korea
 ### [South Korean warships search the Yellow Sea for rocket debris from the failed North Korean Kwangmyongsong-3 launch yesterday. ](/news/2012/04/14/south-korean-warships-search-the-yellow-sea-for-rocket-debris-from-the-failed-north-korean-kwangmyangsang-3-launch-yesterday.md)
-_Context: Yellow Sea, South Korea, failed North Korean rocket launch, North Korea_
+_Context: Yellow Sea, failed North Korean rocket launch, South Korea, North Korea_
 
 ##### Iran
 ### [Iran and world powers, including the United States, Russia, and China, begin talks about Iran's nuclear program. ](/news/2012/04/14/iran-and-world-powers-including-the-united-states-russia-and-china-begin-talks-about-iran-s-nuclear-program.md)

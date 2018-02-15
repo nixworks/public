@@ -13,11 +13,11 @@ _Context: United Nations Security Council, Darfur conflict, UNSC Resolution 1706
 
 ##### UNCTAD
 ### [ The annual development report released by the United Nations Conference on Trade and Development criticizes Japan and Germany for not doing enough to stabilize international trade by buying imports. ](/news/2006/08/31/the-annual-development-report-released-by-the-united-nations-conference-on-trade-and-development-criticizes-japan-and-germany-for-not-doing.md)
-_Context: German, UNCTAD, import, Japan_
+_Context: UNCTAD, import, German, Japan_
 
 ##### Bristol-Myers Squibb
 ### [ Bristol-Myers Squibb and Sanofi-Aventis win a court ruling in the US banning Apotex from selling a generic version of Plavix, the world's second best-selling medicine. Apotex had won over 50 per cent of all US prescriptions since the sale of the drug began on August 8. ](/news/2006/08/31/bristol-myers-squibb-and-sanofi-aventis-win-a-court-ruling-in-the-us-banning-apotex-from-selling-a-generic-version-of-plavix-the-world-s-s.md)
-_Context: Bristol-Myers Squibb, Apotex, generic, Sanofi-Aventis, Plavix, August 8_
+_Context: Plavix, generic, Sanofi-Aventis, Apotex, Bristol-Myers Squibb, August 8_
 
 ##### Iraqi insurgency
 ### [ Multiple rocket and bomb attacks in Baghdad kill at least 43 people and injure more than 100 others. ](/news/2006/08/31/multiple-rocket-and-bomb-attacks-in-baghdad-kill-at-least-43-people-and-injure-more-than-100-others.md)
@@ -25,31 +25,31 @@ _Context: Baghdad, Iraqi insurgency_
 
 ##### Warren Jeffs
 ### [ Warren Jeffs waives his extradition hearing, and will be extradited to Washington County, Utah, where he will first face charges as an accomplice to bigamy and rape in arranging polygamous marriages between older men and underage girls. He also faces similar charges in Arizona, and federal charges in connection with his flight from justice. ](/news/2006/08/31/warren-jeffs-waives-his-extradition-hearing-and-will-be-extradited-to-washington-county-utah-where-he-will-first-face-charges-as-an-acco.md)
-_Context: polygamy, accomplice, rape, Washington County, Warren Jeffs, bigamy, Arizona, fugitive, extradition, Utah_
+_Context: extradition, fugitive, Arizona, rape, accomplice, bigamy, Washington County, polygamy, Warren Jeffs, Utah_
 
 ##### Israel
 ### [ Israeli police, at the request of the British Embassy in Tel Aviv, captured a man who broke in to the Embassy and demanded asylum, threatening to kill himself if his demands were not met. ](/news/2006/08/31/israeli-police-at-the-request-of-the-british-embassy-in-tel-aviv-captured-a-man-who-broke-in-to-the-embassy-and-demanded-asylum-threaten.md)
-_Context: Embassy, United Kingdom, Tel Aviv, Israel_
+_Context: Israel, Tel Aviv, Embassy, United Kingdom_
 
 ##### United Kingdom
 ### [ The future of UK model manufacturer Airfix, founded in 1939, is in doubt after the financial collapse of parent company Humbrol. Company administrators declare they wish to sell the Airfix brand. ](/news/2006/08/31/the-future-of-uk-model-manufacturer-airfix-founded-in-1939-is-in-doubt-after-the-financial-collapse-of-parent-company-humbrol-company-ad.md)
-_Context: Humbrol, Airfix, United Kingdom, administrators, 1939_
+_Context: 1939, Humbrol, Airfix, United Kingdom, administrators_
 
 ##### Syria
 ### [ Syria welcomes Venezuelan President Hugo Chvez, who said yesterday that the two countries will "build a new world" free of U.S. domination and vowed to one day "dig the grave of U.S. imperialism." State Department spokesman Tom Casey retorts that Chvez should remind Damascus about its international obligations to prevent Hezbollah from receiving weapons. ](/news/2006/08/31/syria-welcomes-venezuelan-president-hugo-chavez-who-said-yesterday-that-the-two-countries-will-build-a-new-world-free-of-u-s-domination.md)
-_Context: Venezuela, Tom Casey, Syria, Hugo Chvez, Hezbollah_
+_Context: Tom Casey, Hezbollah, Hugo Chvez, Syria, Venezuela_
 
 ##### Mahmoud Ahmadinejad
 ### [ Mahmoud Ahmadinejad, the President of Iran, stated that Iran had the right to use nuclear technology on the day that a United Nations Security Council deadline expires. President Ahmadinejad said: "They should know that the Iranian nation will not yield to pressure and will not let its rights be trampled on." ](/news/2006/08/31/mahmoud-ahmadinejad-the-president-of-iran-stated-that-iran-had-the-right-to-use-nuclear-technology-on-the-day-that-a-united-nations-secur.md)
-_Context: President, Iran, Mahmoud Ahmadinejad, United Nations Security Council_
+_Context: Mahmoud Ahmadinejad, United Nations Security Council, Iran, President_
 
 ##### Norway
 ### [ Norwegian police announce they have recovered the Edvard Munch paintings "The Scream" and "Madonna", stolen in 2004. ](/news/2006/08/31/norwegian-police-announce-they-have-recovered-the-edvard-munch-paintings-the-scream-and-madonna-stolen-in-2004.md)
-_Context: ''Madonna'', The Scream, Edvard Munch, Norway_
+_Context: ''Madonna'', Norway, The Scream, Edvard Munch_
 
 ##### Japan
 ### [ A magnitude 4.8 earthquake affected Japan just south of Tokyo. Shinkansen service was suspended for 15 minutes but no damage was reported. ](/news/2006/08/31/a-magnitude-4-8-earthquake-affected-japan-just-south-of-tokyo-shinkansen-service-was-suspended-for-15-minutes-but-no-damage-was-reported.md)
-_Context: Japan, Shinkansen, Tokyo_
+_Context: Tokyo, Japan, Shinkansen_
 
 ## [Previous Day...](/news/2006/08/30/index.md)
 

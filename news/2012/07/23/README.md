@@ -9,7 +9,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Attacks
 ### [One hundred three people are killed in attacks across Iraq. ](/news/2012/07/23/one-hundred-three-people-are-killed-in-attacks-across-iraq.md)
-_Context: attacks, Iraq_
+_Context: Iraq, attacks_
 
 ##### Muslim
 ### [Fighting between indigenous tribes and Muslim settlers in Assam, northeast India kills at least 19 people, causing 50,000 people to flee. ](/news/2012/07/23/fighting-between-indigenous-tribes-and-muslim-settlers-in-assam-northeast-india-kills-at-least-19-people-causing-50-000-people-to-flee.md)
@@ -41,7 +41,7 @@ The proceeding offered the first public glimpse of James E. Holmes since he was 
 
 ##### Sally Ride
 ### [Sally Ride, the first American female astronaut, dies of pancreatic cancer at the age of 61. Her obituary acknowledges her 27-year relationship with a woman. ](/news/2012/07/23/sally-ride-the-first-american-female-astronaut-dies-of-pancreatic-cancer-at-the-age-of-61-her-obituary-acknowledges-her-27-year-relations.md)
-_Context: astronaut, pancreatic cancer, U.S., Sally Ride_
+_Context: Sally Ride, United States, pancreatic cancer, astronaut_
 
 ## [Previous Day...](/news/2012/07/22/index.md)
 

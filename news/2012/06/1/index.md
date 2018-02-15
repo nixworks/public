@@ -5,7 +5,7 @@ Formats: [HTML](2012/06/1/index.html)  [JSON](2012/06/1/index.json)  [XML](2012/
 
 ##### Syrian uprising (2011-present)
 ### [Syrian uprising: The United Nations Human Rights Council votes to condemn the massacre carried out by Syrian forces in the town of Houla on May 25, despite Russia, China and Cuba voting against the resolution. ](/news/2012/06/1/syrian-uprising-the-united-nations-human-rights-council-votes-to-condemn-the-massacre-carried-out-by-syrian-forces-in-the-town-of-houla-on.md)
-_Context: Cuba, Syrian uprising (2011-present), Russia, China, Human Rights Council, massacre, Houla_
+_Context: Houla, China, Cuba, Human Rights Council, Syrian uprising (2011-present), Russia, massacre_
 
 ##### The New York Times
 ### ["The New York Times" reports that U.S. President Barack Obama accelerated the pace of the American cyberwarfare campaign after the 2010 Stuxnet. ](/news/2012/06/1/the-new-york-times-reports-that-u-s-president-barack-obama-accelerated-the-pace-of-the-american-cyberwarfare-campaign-after-the-2010-stux.md)
@@ -31,7 +31,7 @@ A Chinese security ministry official has been arrested on suspicion of spying fo
 
 ##### Yen
 ### [The Japanese yen and the Chinese yuan begin direct trading.](/news/2012/06/1/the-japanese-yen-and-the-chinese-yuan-begin-direct-trading.md)
-_Context: yen, yuan_
+_Context: yuan, yen_
 
 ##### Venezuela
 ### [The Venezuelan government outlaws the commercial sale of guns and ammunition, the latest in a series of initiatives to improve security and cut crime. ](/news/2012/06/1/the-venezuelan-government-outlaws-the-commercial-sale-of-guns-and-ammunition-the-latest-in-a-series-of-initiatives-to-improve-security-and.md)

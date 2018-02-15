@@ -13,19 +13,19 @@ Left-wing activists claimed responsibility for a minor explosion on Thursday at 
 
 ##### Iranian state media
 ### [Iran's state-run news channel Press TV's account is frozen by National Westminster Bank in the UK; no reason was given. (](/news/2011/01/27/iran-s-state-run-news-channel-press-tv-s-account-is-frozen-by-national-westminster-bank-in-the-uk-no-reason-was-given.md)
-_Context: Iranian state media, National Westminster Bank, Press TV_
+_Context: Press TV, Iranian state media, National Westminster Bank_
 
 ##### Overstock.com
 ### [Internet retailer Overstock.com has amended its complaint in a long-standing lawsuit against Goldman Sachs and Merrill Lynch to demand treble damages under New Jersey's racketeering statute. Merrill Lynch is a subsidiary of Bank of America. ](/news/2011/01/27/internet-retailer-overstock-com-has-amended-its-complaint-in-a-long-standing-lawsuit-against-goldman-sachs-and-merrill-lynch-to-demand-trebl.md)
-_Context: Overstock.com, New Jersey, Goldman Sachs, Bank of America, Merrill Lynch_
+_Context: New Jersey, Goldman Sachs, Bank of America, Overstock.com, Merrill Lynch_
 
 ##### Media conglomerate
 ### [Giant media conglomerate News Corp. says it will launch a digital newspaper as content of Apple's iPad, on 2 February. This is a later launch date than many had expected. ](/news/2011/01/27/giant-media-conglomerate-news-corp-says-it-will-launch-a-digital-newspaper-as-content-of-apple-s-ipad-on-2-february-this-is-a-later-launc.md)
-_Context: iPad, digital newspaper, media conglomerate, News Corp._
+_Context: iPad, digital newspaper, News Corp., media conglomerate_
 
 ##### Residential apartment
 ### [Ten construction workers die after falling from the 28th floor of a skyscraper being built in Manila, the Philippine capital. ](/news/2011/01/27/ten-construction-workers-die-after-falling-from-the-28th-floor-of-a-skyscraper-being-built-in-manila-the-philippine-capital.md)
-_Context: Philippine, residential apartment, Manila_
+_Context: residential apartment, Manila, Philippine_
 
 ##### Australia
 ### [The Australian government proposes a new "flood tax" to raise funds for reconstruction work following severe flooding in the east of the country. ](/news/2011/01/27/the-australian-government-proposes-a-new-flood-tax-to-raise-funds-for-reconstruction-work-following-severe-flooding-in-the-east-of-the-cou.md)
@@ -61,7 +61,7 @@ _Context: Zine El Abidine Ben Ali, President of Tunisia, Tunisia_
 
 ##### Lebanese
 ### [Lebanese prime minister Najib Mikati begins consultations on forming a new government. ](/news/2011/01/27/lebanese-prime-minister-najib-mikati-begins-consultations-on-forming-a-new-government.md)
-_Context: Lebanese, Najib Mikati_
+_Context: Najib Mikati, Lebanese_
 
 ##### Burma
 ### [Burma faces criticism at the United Nations Human Rights Council over its human rights record. ](/news/2011/01/27/burma-faces-criticism-at-the-united-nations-human-rights-council-over-its-human-rights-record.md)
@@ -69,7 +69,7 @@ _Context: Human Rights Council, Burma, human rights record_
 
 ##### Supreme Court
 ### [The Supreme Court in the U.S. state of Illinois rules that Rahm Emanuel, former Chief of Staff to President of the United States Barack Obama, is eligible to run for Mayor of Chicago. ](/news/2011/01/27/the-supreme-court-in-the-u-s-state-of-illinois-rules-that-rahm-emanuel-former-chief-of-staff-to-president-of-the-united-states-barack-obam.md)
-_Context: U.S. President, Rahm Emanuel, Supreme Court, Barack Obama, Mayor of Chicago, U.S. state, Illinois_
+_Context: Rahm Emanuel, Barack Obama, U.S. President, Supreme Court, Mayor of Chicago, Illinois, U.S. state_
 
 ##### Tel Aviv University's
 ### [Researchers from Tel Aviv University and the University of Michigan announce a breakthrough to fight bacteria by developing a technique that neutralizes the ability of bacteria to develop resistance to antibiotics. ](/news/2011/01/27/researchers-from-tel-aviv-university-and-the-university-of-michigan-announce-a-breakthrough-to-fight-bacteria-by-developing-a-technique-that.md)

@@ -37,7 +37,7 @@ Syria has accused Turkey of “air piracy” after Turkish fighter jets on Wedne
 
 ##### Samsung
 ### [A U.S. appeals court has overturned a district court order that had banned the sale of Samsung's Galaxy Nexus in the US, delivering a winning round for Google's Android against Apple Inc.. ](/news/2012/10/11/a-u-s-appeals-court-has-overturned-a-district-court-order-that-had-banned-the-sale-of-samsung-s-galaxy-nexus-in-the-us-delivering-a-winnin.md)
-_Context: Android, Galaxy Nexus, Samsung, Apple Inc., Google_
+_Context: Android, Apple Inc., Galaxy Nexus, Google, Samsung_
 
 ##### England
 ### [Englishman Barry Thew is sentenced to four months in jail after a t-shirt he wore is deemed to offend public morality. ](/news/2012/10/11/englishman-barry-thew-is-sentenced-to-four-months-in-jail-after-a-t-shirt-he-wore-is-deemed-to-offend-public-morality.md)
@@ -45,7 +45,7 @@ A man who wore a T-shirt with offensive comments referring to the killing of two
 
 ##### Mo Yan
 ### [Chinese author Mo Yan, famous for working in the style of writing known as hallucinatory realism, wins the Nobel Prize in Literature. ](/news/2012/10/11/chinese-author-mo-yan-famous-for-working-in-the-style-of-writing-known-as-hallucinatory-realism-wins-the-nobel-prize-in-literature.md)
-_Context: Nobel Prize in Literature, hallucinatory realism, Mo Yan_
+_Context: Mo Yan, hallucinatory realism, Nobel Prize in Literature_
 
 ##### Egypt
 ### [Egypt's President Mohammed Mursi fires general prosecutor Abdel Maguid Mahmoud. ](/news/2012/10/11/egypt-s-president-mohammed-mursi-fires-general-prosecutor-abdel-maguid-mahmoud.md)

@@ -13,11 +13,11 @@ Libyan vessel changes course following warning from Israeli navy.
 
 ##### Iran
 ### [Pakistani embassy officials confirm missing Iranian nuclear scientist Shahram Amiri, who was reported to have been kidnapped by the United States Central Intelligence Agency, is taking refuge in the country's Washington, D.C. embassy. ](/news/2010/07/13/pakistani-embassy-officials-confirm-missing-iranian-nuclear-scientist-shahram-amiri-who-was-reported-to-have-been-kidnapped-by-the-united-s.md)
-_Context: Iran, Shahram Amiri, CIA_
+_Context: CIA, Shahram Amiri, Iran_
 
 ##### Chile
 ### [Chile tests a package marked "anthrax" delivered to the country's foreign ministry. ](/news/2010/07/13/chile-tests-a-package-marked-anthrax-delivered-to-the-country-s-foreign-ministry.md)
-_Context: anthrax, Chile_
+_Context: Chile, anthrax_
 
 ##### Gaza Strip
 ### [Farmers in Gaza are shot at by Israeli militants as they attempt to harvest their crops. ](/news/2010/07/13/farmers-in-gaza-are-shot-at-by-israeli-militants-as-they-attempt-to-harvest-their-crops.md)
@@ -29,7 +29,7 @@ Unexploded bomb belt found by police investigating twin attacks claimed by al-Sh
 
 ##### Afghanistan
 ### [An Afghan soldier attacks British soldiers as a base near Lashkar Gah, killing three (one a Nepalese citizen) and wounding four more, before defecting to the Taliban. ](/news/2010/07/13/an-afghan-soldier-attacks-british-soldiers-as-a-base-near-lashkar-gah-killing-three-one-a-nepalese-citizen-and-wounding-four-more-before.md)
-_Context: defecting, Lashkar Gah, Nepal, Taliban, Afghanistan_
+_Context: Nepal, Taliban, Afghanistan, defecting, Lashkar Gah_
 
 ##### 
 ### [There is a row in the United States about privacy fears connected to an exchange in ownership of a gay teenagers' database. ](/news/2010/07/13/there-is-a-row-in-the-united-states-about-privacy-fears-connected-to-an-exchange-in-ownership-of-a-gay-teenagers-database.md)
@@ -45,7 +45,7 @@ US police say they are evaluating claims that Hollywood star Mel Gibson allegedl
 
 ##### International Monetary Fund
 ### [The Washington, D.C.-based global lender International Monetary Fund halts funds to the Bank of Central African States (BEAC) used by oil-producing nations in Central Africa, impacting on the Republic of the Congo and the Central African Republic. ](/news/2010/07/13/the-washington-d-c-based-global-lender-international-monetary-fund-halts-funds-to-the-bank-of-central-african-states-beac-used-by-oil-pr.md)
-_Context: Central African Republic, Bank of Central African States, International Monetary Fund, Republic of the Congo_
+_Context: International Monetary Fund, Central African Republic, Republic of the Congo, Bank of Central African States_
 
 ##### European Union
 ### [The EU announces that Estonia is to become the seventeenth member of the euro on 1 January 2011. ](/news/2010/07/13/the-eu-announces-that-estonia-is-to-become-the-seventeenth-member-of-the-euro-on-1-january-2011.md)
@@ -53,7 +53,7 @@ European Union finance ministers gave the final approval today to Estonia joinin
 
 ##### American International Assurance
 ### [At least 4 groups of Chinese private investors are interested in acquiring American International Assurance (AIA), the Asian division of insurance giant American International Group (AIG). ](/news/2010/07/13/at-least-4-groups-of-chinese-private-investors-are-interested-in-acquiring-american-international-assurance-aia-the-asian-division-of-ins.md)
-_Context: AIG, American International Assurance_
+_Context: American International Assurance, AIG_
 
 ##### Federal Reserve System
 ### [Data collected by the United States Federal Reserve System suggests that the country's financial market, while still fragile, is showing signs of improvement. ](/news/2010/07/13/data-collected-by-the-united-states-federal-reserve-system-suggests-that-the-country-s-financial-market-while-still-fragile-is-showing-sig.md)
@@ -61,7 +61,7 @@ Hedge funds and private equity firms had an easier time raising capital in the l
 
 ##### Nigeria
 ### [The Nigerian Minister of Finance announces that the Nigerian National Petroleum Corporation is insolvent, and is asking the government for funds to help pay off debts and continue operations. ](/news/2010/07/13/the-nigerian-minister-of-finance-announces-that-the-nigerian-national-petroleum-corporation-is-insolvent-and-is-asking-the-government-for-f.md)
-_Context: Nigerian National Petroleum Corporation, Nigeria_
+_Context: Nigeria, Nigerian National Petroleum Corporation_
 
 ##### Joint United Nations Programme on HIV/AIDS
 ### [Joint United Nations Programme on HIV-AIDS figures demonstrate a fall by up to 25 per cent in the prevalence of HIV among young people aged between 15 and 24 in Africa. ](/news/2010/07/13/joint-united-nations-programme-on-hiv-aids-figures-demonstrate-a-fall-by-up-to-25-per-cent-in-the-prevalence-of-hiv-among-young-people-aged.md)
@@ -109,7 +109,7 @@ Tensions run high in divided region as India and Pakistan prepare for high-level
 
 ##### Rwanda
 ### [Senior Rwandan opposition official Andre Kagwa Rwisereka disappears after his car is found abandoned by the Mukula River near Butare. ](/news/2010/07/13/senior-rwandan-opposition-official-andra-c-kagwa-rwisereka-disappears-after-his-car-is-found-abandoned-by-the-mukula-river-near-butare.md)
-_Context: Butare, Rwanda, Mukula River, Andre Kagwa Rwisereka_
+_Context: Rwanda, Butare, Mukula River, Andre Kagwa Rwisereka_
 
 ##### Southern Sudan
 ### [Senior religious leaders in Southern Sudan call on people to vote for independence in a referendum to be held in January 2011. ](/news/2010/07/13/senior-religious-leaders-in-southern-sudan-call-on-people-to-vote-for-independence-in-a-referendum-to-be-held-in-january-2011.md)
@@ -117,7 +117,7 @@ _Context: Southern Sudan_
 
 ##### Fiji
 ### [Fiji expels Australia's acting High Commissioner as part of a long-running dispute. ](/news/2010/07/13/fiji-expels-australia-s-acting-high-commissioner-as-part-of-a-long-running-dispute.md)
-_Context: High Commissioner, Fiji_
+_Context: Fiji, High Commissioner_
 
 ##### National Assembly
 ### [France's lower house of parliament approves a bill that bans wearing burqa and niqab in public. ](/news/2010/07/13/france-s-lower-house-of-parliament-approves-a-bill-that-bans-wearing-burqa-and-niqab-in-public.md)
@@ -137,7 +137,7 @@ The French government approves a controversial draft law that would raise the re
 
 ##### Supreme Court of India
 ### [The Supreme Court of India tentatively approves the Tamil Nadu government's new quota law, providing 69% of employment in educational institutions to Scheduled Castes and Scheduled Tribes and other backward classes. ](/news/2010/07/13/the-supreme-court-of-india-tentatively-approves-the-tamil-nadu-government-s-new-quota-law-providing-69-of-employment-in-educational-instit.md)
-_Context: education, quota, Scheduled Castes and Scheduled Tribes, Supreme Court of India_
+_Context: Scheduled Castes and Scheduled Tribes, education, Supreme Court of India, quota_
 
 ##### Israel
 ### [Israeli authorities use bulldozers to demolish three Palestinian buildings in East Jerusalem. ](/news/2010/07/13/israeli-authorities-use-bulldozers-to-demolish-three-palestinian-buildings-in-east-jerusalem.md)
@@ -149,15 +149,15 @@ _Context: FCC's, Court of Appeals_
 
 ##### Barack Obama
 ### [President of the United States Barack Obama nominates Jacob Lew to replace Peter Orszag as the chief of the Office of Management and Budget. ](/news/2010/07/13/president-of-the-united-states-barack-obama-nominates-jacob-lew-to-replace-peter-orszag-as-the-chief-of-the-office-of-management-and-budget.md)
-_Context: Peter Orszag, Barack Obama, Jacob Lew, Office of Management and Budget_
+_Context: Barack Obama, Office of Management and Budget, Peter Orszag, Jacob Lew_
 
 ##### United States Senate
 ### [The United States Senate announces it will vote on financial reform legislations on 15 July. ](/news/2010/07/13/the-united-states-senate-announces-it-will-vote-on-financial-reform-legislations-on-15-july.md)
-_Context: United States Senate, financial reform_
+_Context: financial reform, United States Senate_
 
 ##### Philippines
 ### [The Philippines' first typhoon of the year moves toward the country's eastern coast, with 33 of the country's 81 provinces and the capital Manila being placed under storm alert. ](/news/2010/07/13/the-philippines-first-typhoon-of-the-year-moves-toward-the-country-s-eastern-coast-with-33-of-the-country-s-81-provinces-and-the-capital-m.md)
-_Context: Philippines, Manila_
+_Context: Manila, Philippines_
 
 ##### Green Dam Youth Escort
 ### [The company behind the Green Dam Youth Escort internet filtering software in China has closed its operation, due to lack of funding. ](/news/2010/07/13/the-company-behind-the-green-dam-youth-escort-internet-filtering-software-in-china-has-closed-its-operation-due-to-lack-of-funding.md)
@@ -173,15 +173,15 @@ _Context: 2020 Summer Olympics, 2010 FIFA World Cup_
 
 ##### 2010 FIFA World Cup Final
 ### [The 2010 FIFA World Cup runner-up Netherlands national football team embarks on an open-top boat tour of Amsterdam's canals drinking beer, lined by hundreds of thousands of people. ](/news/2010/07/13/the-2010-fifa-world-cup-runner-up-netherlands-national-football-team-embarks-on-an-open-top-boat-tour-of-amsterdam-s-canals-drinking-beer-l.md)
-_Context: Netherlands, 2010 FIFA World Cup Final, Amsterdam_
+_Context: 2010 FIFA World Cup Final, Netherlands, Amsterdam_
 
 ##### Cricket
 ### [Cricket: Australia and Pakistan contest the first neutral Test at Lord's Cricket Ground since 1912. ](/news/2010/07/13/cricket-australia-and-pakistan-contest-the-first-neutral-test-at-lord-s-cricket-ground-since-1912.md)
-_Context: Lord's Cricket Ground, Cricket_
+_Context: Cricket, Lord's Cricket Ground_
 
 ##### George Steinbrenner
 ### [George Steinbrenner, owner of the New York Yankees, dies after suffering a massive heart attack in Florida. ](/news/2010/07/13/george-steinbrenner-owner-of-the-new-york-yankees-dies-after-suffering-a-massive-heart-attack-in-florida.md)
-_Context: New York Yankees, George Steinbrenner, heart attack, the state_
+_Context: George Steinbrenner, heart attack, the state, New York Yankees_
 
 ## [Previous Day...](/news/2010/07/12/index.md)
 

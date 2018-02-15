@@ -13,7 +13,7 @@ The president rejects legislation to pull U.S. troops out of Iraq, calling it &q
 
 ##### Rupert Murdoch
 ### [ Rupert Murdoch, the CEO of News Corporation, announces a $5 billion offer to take over Dow Jones, the publisher of the "Wall Street Journal". ](/news/2007/05/1/rupert-murdoch-the-ceo-of-news-corporation-announces-a-5-billion-offer-to-take-over-dow-jones-the-publisher-of-the-wall-street-journal.md)
-_Context: Dow Jones, Rupert Murdoch, News Corporation, CEO, Wall Street Journal, $_
+_Context: CEO, $, Rupert Murdoch, News Corporation, Dow Jones, Wall Street Journal_
 
 ##### July elections
 ### [ Turkish presidential election, 2007: The Constitutional Court of Turkey annuls last Friday's presidential vote in the Grand National Assembly after a challenge by opposition parties. ](/news/2007/05/1/turkish-presidential-election-2007-the-constitutional-court-of-turkey-annuls-last-friday-s-presidential-vote-in-the-grand-national-assemb.md)
@@ -21,19 +21,19 @@ _Context: Constitutional Court of Turkey, July elections, Turkish Parliament_
 
 ##### Apartment
 ### [ At least three people die after an explosion in an apartment building in Palencia, Spain. ](/news/2007/05/1/at-least-three-people-die-after-an-explosion-in-an-apartment-building-in-palencia-spain.md)
-_Context: Spain, Palencia, apartment_
+_Context: Palencia, Spain, apartment_
 
 ##### Police
 ### [ Police arrest 30 alleged animal rights extremists in raids in the United Kingdom, Belgium and the Netherlands. ](/news/2007/05/1/police-arrest-30-alleged-animal-rights-extremists-in-raids-in-the-united-kingdom-belgium-and-the-netherlands.md)
-_Context: Police, Belgium, the Netherlands, United Kingdom, animal rights_
+_Context: animal rights, United Kingdom, the Netherlands, Belgium, Police_
 
 ##### Deutsche Brse
 ### [ Deutsche Brse AG, operator of the Frankfurt Stock Exchange, agrees to buy International Securities Exchange the second biggest United States options market for $2.8 billion creating the largest transatlantic derivatives market. ](/news/2007/05/1/deutsche-borse-ag-operator-of-the-frankfurt-stock-exchange-agrees-to-buy-international-securities-exchange-the-second-biggest-united-stat.md)
-_Context: U.S., Deutsche Brse, stock options, market, International Securities Exchange, derivatives, Frankfurt Stock Exchange_
+_Context: stock options, Frankfurt Stock Exchange, Deutsche Brse, market, United States, International Securities Exchange, derivatives_
 
 ##### Nigeria
 ### [ Nigerian opposition and civil society groups join trade unions in May Day rallies against the recent presidential election which saw Umaru Yar'Adua elected as the President of Nigeria. ](/news/2007/05/1/nigerian-opposition-and-civil-society-groups-join-trade-unions-in-may-day-rallies-against-the-recent-presidential-election-which-saw-umaru.md)
-_Context: Umaru Yar'Adua, civil society, May Day, labour unions, Nigeria, presidential election, President_
+_Context: May Day, civil society, Umaru Yar'Adua, Nigeria, President, labour unions, presidential election_
 
 ##### Eitan Cabel
 ### [ Eitan Cabel, a member of the Israeli Cabinet resigns in protest of Prime Minister Ehud Olmert's handling of the 2006 Lebanon War. ](/news/2007/05/1/eitan-cabel-a-member-of-the-israeli-cabinet-resigns-in-protest-of-prime-minister-ehud-olmert-s-handling-of-the-2006-lebanon-war.md)

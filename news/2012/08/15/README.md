@@ -5,7 +5,7 @@ Formats: [HTML](2012/08/15/index.html)  [JSON](2012/08/15/index.json)  [XML](201
 
 ##### Jalisco New Generation Cartel
 ### [Mexican authorities confirm that the Jalisco New Generation Cartel is responsible for murdering five journalists in the state of Veracruz. This information was confirmed after the arrest of some of the members in the criminal organization. ](/news/2012/08/15/mexican-authorities-confirm-that-the-jalisco-new-generation-cartel-is-responsible-for-murdering-five-journalists-in-the-state-of-veracruz-t.md)
-_Context: Jalisco New Generation Cartel, Veracruz, more than 80 have been killed_
+_Context: Jalisco New Generation Cartel, more than 80 have been killed, Veracruz_
 
 ##### Observers
 ### [In Damascus, an explosion at a military compound near a hotel where UN observers are staying is claimed by a Free Syrian Army brigade. ](/news/2012/08/15/in-damascus-an-explosion-at-a-military-compound-near-a-hotel-where-un-observers-are-staying-is-claimed-by-a-free-syrian-army-brigade.md)
@@ -19,13 +19,13 @@ The Duke of Edinburgh has been taken to hospital as a &quot;precautionary measur
 ### [Unification Church founder Sun Myung Moon is taken to hospital in grave condition due to complications of pneumonia and respiratory problems. ](/news/2012/08/15/unification-church-founder-sun-myung-moon-is-taken-to-hospital-in-grave-condition-due-to-complications-of-pneumonia-and-respiratory-problems.md)
 Rev. Moon Sun-myung, the founder of the Unification Church, is gravely ill, according to a hospital official. 
 
-##### U.S.
+##### United States
 ### [The tour bus of American heavy metal band Baroness falls off a 30-foot viaduct in Monkton Combe, near Bath. All nine passengers on board are injured, two seriously. ](/news/2012/08/15/the-tour-bus-of-american-heavy-metal-band-baroness-falls-off-a-30-foot-viaduct-in-monkton-combe-near-bath-all-nine-passengers-on-board-are.md)
 Two people on a bus used by the US band Baroness were injured when it fell 30ft from a viaduct near Bath, their agents confirm.
 
 ##### Japanese
 ### [Two Japanese cabinet ministers, Jin Matsubara and Yuichiro Hata, visit the controversial Yasukuni Shrine amid territorial disputes with both the People's Republic of China and South Korea. ](/news/2012/08/15/two-japanese-cabinet-ministers-jin-matsubara-and-yuichiro-hata-visit-the-controversial-yasukuni-shrine-amid-territorial-disputes-with-both.md)
-_Context: China, South Korea, Japanese, Jin Matsubara, Yasukuni Shrine, Yuichiro Hata_
+_Context: Yuichiro Hata, Jin Matsubara, Japanese, Yasukuni Shrine, South Korea, China_
 
 ##### High Court of Australia
 ### [The High Court of Australia upholds legislation providing for plain packaging of cigarettes. ](/news/2012/08/15/the-high-court-of-australia-upholds-legislation-providing-for-plain-packaging-of-cigarettes.md)

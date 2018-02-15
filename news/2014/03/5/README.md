@@ -9,7 +9,7 @@ US-based Wahl said she could not work for a network that &#x27;whitewashed&#x27;
 
 ##### Israeli Army
 ### [The Israel Defense Forces captures an Iranian ship carrying long-range artillery rockets to Palestinians in the Gaza Strip ](/news/2014/03/5/the-israel-defense-forces-captures-an-iranian-ship-carrying-long-range-artillery-rockets-to-palestinians-in-the-gaza-strip.md)
-_Context: Gaza Strip, Israeli Army, artillery rocket, Iran_
+_Context: Iran, Gaza Strip, Israeli Army, artillery rocket_
 
 ##### Infrared sensor
 ### [An 1,800-year-old Egyptian papyrus discovered a century ago, whose inscription is nearly illegible to the naked eye, has been made more readable using infrared sensors, revealing the message to be a soldier's letter to his family. ](/news/2014/03/5/an-1-800-year-old-egyptian-papyrus-discovered-a-century-ago-whose-inscription-is-nearly-illegible-to-the-naked-eye-has-been-made-more-read.md)

@@ -9,7 +9,7 @@ _Context: Egypt, Marsa Matrouh_
 
 ##### Yukos
 ### [ Former Yukos chief Mikhail Khodorkovsky applies for parole in a bid to challenge Russian President Dmitry Medvedev to follow through on promises to build an independent judiciary, his lawyers said. ](/news/2008/07/16/former-yukos-chief-mikhail-khodorkovsky-applies-for-parole-in-a-bid-to-challenge-russian-president-dmitry-medvedev-to-follow-through-on-pro.md)
-_Context: Dmitry Medvedev, Russia, Russian President, Yukos, Mikhail Khodorkovsky_
+_Context: Russian President, Yukos, Mikhail Khodorkovsky, Russia, Dmitry Medvedev_
 
 ##### United States Senate
 ### [ The United States Senate agrees to triple funding for the President's Emergency Plan for AIDS Relief to $48 billion. ](/news/2008/07/16/the-united-states-senate-agrees-to-triple-funding-for-the-president-s-emergency-plan-for-aids-relief-to-48-billion.md)
@@ -17,7 +17,7 @@ _Context: United States Senate, President's Emergency Plan for AIDS Relief_
 
 ##### Ben Bernanke
 ### [ Ben Bernanke, the Chairman of the Federal Reserve, assures the United States House of Representatives Financial Services Committee that giant mortgage companies Fannie Mae and Freddie Mac are in "no danger of failing." ](/news/2008/07/16/ben-bernanke-the-chairman-of-the-federal-reserve-assures-the-united-states-house-of-representatives-financial-services-committee-that-gia.md)
-_Context: Federal Reserve, Financial Services Committee, United States House of Representatives, Freddie Mac, Ben Bernanke, Fannie Mae_
+_Context: Financial Services Committee, United States House of Representatives, Freddie Mac, Federal Reserve, Fannie Mae, Ben Bernanke_
 
 ##### Malta
 ### [ A large transport strike enters into its third day on the island of Malta, bringing the island to a halt with the blockage of several roads. Bus drivers even attempted to break into the Prime Minister's office. ](/news/2008/07/16/a-large-transport-strike-enters-into-its-third-day-on-the-island-of-malta-bringing-the-island-to-a-halt-with-the-blockage-of-several-roads.md)
@@ -25,23 +25,23 @@ Scuffles broke out between policemen and striking transport workers who at about
 
 ##### Sri Lankan military
 ### [ The Sri Lankan military claims to have captured a major coastal town in the Northern district of Mannar from the Tamil Tigers. ](/news/2008/07/16/the-sri-lankan-military-claims-to-have-captured-a-major-coastal-town-in-the-northern-district-of-mannar-from-the-tamil-tigers.md)
-_Context: Northern Province, Mannar, Sri Lankan military, LTTE_
+_Context: Mannar, Northern Province, Sri Lankan military, LTTE_
 
 ##### Hezbollah
 ### [ Hezbollah transfers the bodies of captured Israeli soldiers, Ehud Goldwasser and Eldad Regev, in exchange for the Lebanese convicted murderer Samir Kuntar, four other Hezbollah militants captured by Israel during the 2006 Lebanon War (Khaled Zidan, Maher Kurani, Mohammed Sarur and Hussein Suleiman), and the bodies of 200 Lebanese and Palestinians.](/news/2008/07/16/hezbollah-transfers-the-bodies-of-captured-israeli-soldiers-ehud-goldwasser-and-eldad-regev-in-exchange-for-the-lebanese-convicted-murder.md)
-_Context: Eldad Regev, transfers, Israeli-Lebanese war of 2006, Israel, Ehud Goldwasser, Hezbollah, Samir Kuntar, Lebanese_
+_Context: Israeli-Lebanese war of 2006, Israel, Samir Kuntar, transfers, Lebanese, Hezbollah, Eldad Regev, Ehud Goldwasser_
 
 ##### Bishop
 ### [ Hundreds of bishops from the worldwide Anglican Communion gather at Canterbury as the once-a-decade Lambeth Conference begins one month after the GAFCON. ](/news/2008/07/16/hundreds-of-bishops-from-the-worldwide-anglican-communion-gather-at-canterbury-as-the-once-a-decade-lambeth-conference-begins-one-month-aft.md)
-_Context: GAFCON, Anglican Communion, bishop, Lambeth Conference, Canterbury_
+_Context: bishop, GAFCON, Lambeth Conference, Canterbury, Anglican Communion_
 
 ##### Malaysia
 ### [ Malaysian opposition leader Anwar Ibrahim is arrested over allegations he sodomised a male aide. ](/news/2008/07/16/malaysian-opposition-leader-anwar-ibrahim-is-arrested-over-allegations-he-sodomised-a-male-aide.md)
-_Context: Anwar Ibrahim, sodomy, Malaysia_
+_Context: Malaysia, sodomy, Anwar Ibrahim_
 
 ##### Afghanistan
 ### [ Afghan authorities confirm that 52 civilians were killed by an American airstrike at a wedding on Sunday. ](/news/2008/07/16/afghan-authorities-confirm-that-52-civilians-were-killed-by-an-american-airstrike-at-a-wedding-on-sunday.md)
-_Context: U.S., Afghanistan, airstrike_
+_Context: United States, airstrike, Afghanistan_
 
 ## [Previous Day...](/news/2008/07/15/index.md)
 

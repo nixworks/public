@@ -33,7 +33,7 @@ Three others injured and seven missing after avalanche caught work party as they
 
 ##### Magnitude
 ### [A 7.5-magnitude earthquake hits near Petatlan, Guerrero, Mexico. ](/news/2014/04/18/a-7-5-magnitude-earthquake-hits-near-petatla-n-guerrero-mexico.md)
-_Context: magnitude, Petatlan, Guerrero_
+_Context: magnitude, Guerrero, Petatlan_
 
 ##### Government of China
 ### [An official study released by the Chinese government reveals that about one-fifth of China's soil is contaminated. ](/news/2014/04/18/an-official-study-released-by-the-chinese-government-reveals-that-about-one-fifth-of-china-s-soil-is-contaminated.md)

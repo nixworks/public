@@ -17,7 +17,7 @@ _Context: Southeastern United States_
 
 ##### Hoang Lien National Park
 ### [All tourism activities at Hoang Lien National Park and to the Fansipan mountain in Vietnam's Lao Cai Province have been suspended until the end of March to reduce the risk of forest fires caused by cold weather and a lack of rain. ](/news/2014/01/28/all-tourism-activities-at-hoa-ng-liaan-national-park-and-to-the-fansipan-mountain-in-vietnam-s-la-o-cai-province-have-been-suspended-until-t.md)
-_Context: Vietnam, Lao Cai, Hoang Lien National Park, Fansipan_
+_Context: Hoang Lien National Park, Vietnam, Lao Cai, Fansipan_
 
 ##### Mamphela Ramphele
 ### [Former anti-apartheid activist Mamphela Ramphele and her 1-year old party Agang South Africa joins the main opposition party, Democratic Alliance, as Ramphele becomes DA's presidential candidate for the 2014 general election and thus the main challenger to incumbent President Jacob Zuma. ](/news/2014/01/28/former-anti-apartheid-activist-mamphela-ramphele-and-her-1-year-old-party-agang-south-africa-joins-the-main-opposition-party-democratic-all.md)

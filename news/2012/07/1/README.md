@@ -25,7 +25,7 @@ Hundreds of protesters gather as Japan restarts the first nuclear reactor since 
 
 ##### Colombia
 ### [Colombia evacuates towns near the Nevado del Ruiz volcano over concerns about a possible eruption. ](/news/2012/07/1/colombia-evacuates-towns-near-the-nevado-del-ruiz-volcano-over-concerns-about-a-possible-eruption.md)
-_Context: Nevado del Ruiz, Colombia, volcano_
+_Context: Nevado del Ruiz, volcano, Colombia_
 
 ##### Mexican
 ### [Voters in Mexico go to the polls for a general election with Institutional Revolutionary Party presidential candidate Enrique Pena Nieto claiming victory. ](/news/2012/07/1/voters-in-mexico-go-to-the-polls-for-a-general-election-with-institutional-revolutionary-party-presidential-candidate-enrique-pena-nieto-cla.md)
@@ -37,7 +37,7 @@ The demonstrations reflected concerns that the new chief executive, Leung Chun-y
 
 ##### The Sunday Telegraph
 ### [Writing in "The Sunday Telegraph" British Prime Minister David Cameron says he is prepared to consider a referendum on the UK's relationship with the European Union, but only when the time is right. ](/news/2012/07/1/writing-in-the-sunday-telegraph-british-prime-minister-david-cameron-says-he-is-prepared-to-consider-a-referendum-on-the-uk-s-relationship.md)
-_Context: European Union, The Sunday Telegraph, David Cameron_
+_Context: David Cameron, The Sunday Telegraph, European Union_
 
 ##### Soyuz
 ### [A Soyuz space capsule containing Oleg Kononenko (Russia), Andr Kuipers (Netherlands) and Don Pettit (United States) lands safely in Kazakhstan. ](/news/2012/07/1/a-soyuz-space-capsule-containing-oleg-kononenko-russia-andre-kuipers-netherlands-and-don-pettit-united-states-lands-safely-in-kazakhs.md)

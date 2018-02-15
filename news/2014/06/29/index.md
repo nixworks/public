@@ -25,11 +25,11 @@ _Context: Occupy Central with Love and Peace, activist, Hong Kong, authorities_
 
 ##### Bourbon Street
 ### [A shooting at Bourbon Street in New Orleans, Louisiana, U.S. injures 9 people. ](/news/2014/06/29/a-shooting-at-bourbon-street-in-new-orleans-louisiana-u-s-injures-9-people.md)
-_Context: New Orleans, Louisiana, Bourbon Street_
+_Context: Louisiana, New Orleans, Bourbon Street_
 
 ##### BET
 ### [A shooting and stabbing kills one person and wounds 5 others at a BET party held in Hollywood, Los Angeles, California, U.S. ](/news/2014/06/29/a-shooting-and-stabbing-kills-one-person-and-wounds-5-others-at-a-bet-party-held-in-hollywood-los-angeles-california-u-s.md)
-_Context: California, BET, Los Angeles, Hollywood_
+_Context: BET, Hollywood, California, Los Angeles_
 
 ##### Abdullah Gul
 ### [Turkish president Abdullah Gul states that he will not run for a second term in the upcoming presidential elections in August, paving the way for prime minister Recep Tayyip Erdogan to run as AKP's candidate instead. ](/news/2014/06/29/turkish-president-abdullah-ga1-4l-states-that-he-will-not-run-for-a-second-term-in-the-upcoming-presidential-elections-in-august-paving-the-w.md)

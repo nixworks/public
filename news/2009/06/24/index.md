@@ -9,7 +9,7 @@ _Context: Togo, sentenced to death_
 
 ##### China
 ### [ China blocks Google services. ](/news/2009/06/24/china-blocks-google-services.md)
-_Context: China, Google_
+_Context: Google, China_
 
 ##### Flute
 ### [ A flute carved over 35,000 years ago, and thought to be the oldest musical instrument in the world, is unearthed in Germany. ](/news/2009/06/24/a-flute-carved-over-35-000-years-ago-and-thought-to-be-the-oldest-musical-instrument-in-the-world-is-unearthed-in-germany.md)
@@ -17,23 +17,23 @@ Archaeologists said a bone flute and two fragments of ivory flutes discovered la
 
 ##### Mark Sanford
 ### [ Mark Sanford, Governor of the U.S. state of South Carolina, admits to adultery with an Argentine woman and resigns as Chairman of the Republican Governors Association. ](/news/2009/06/24/mark-sanford-governor-of-the-u-s-state-of-south-carolina-admits-to-adultery-with-an-argentine-woman-and-resigns-as-chairman-of-the-repub.md)
-_Context: U.S. state, adultery, South Carolina, Republican Governors Association, Argentina, admits, Mark Sanford, South Carolina governor_
+_Context: U.S. state, Mark Sanford, adultery, Republican Governors Association, Argentina, admits, South Carolina, South Carolina governor_
 
 ##### Iran
 ### [ Supreme Leader Ayatollah Ali Khamenei declares the recent election result will stand. ](/news/2009/06/24/supreme-leader-ayatollah-ali-khamenei-declares-the-recent-election-result-will-stand.md)
 Ayatollah Ali Khamenei has declared that the disputed Iran election result will stand, despite violent street protests in recent days.
 
-##### U.S.
+##### United States
 ### [ At least 43 people are killed by United States aircraft in South Waziristan, Pakistan. ](/news/2009/06/24/at-least-43-people-are-killed-by-united-states-aircraft-in-south-waziristan-pakistan.md)
 At least 30 people have been killed in US missile strikes in the South Waziristan region of Pakistan.
 
 ##### Government
 ### [ The Chinese government formally arrests dissident Liu Xiaobo on charges of state subversion. ](/news/2009/06/24/the-chinese-government-formally-arrests-dissident-liu-xiaobo-on-charges-of-state-subversion.md)
-_Context: subverting, Liu Xiaobo, dissident, government_
+_Context: subverting, government, Liu Xiaobo, dissident_
 
-##### U.S.
+##### United States
 ### [ The United States is to send an ambassador to Syria after an absence of four years. ](/news/2009/06/24/the-united-states-is-to-send-an-ambassador-to-syria-after-an-absence-of-four-years.md)
-_Context: Syria, U.S._
+_Context: Syria, United States_
 
 ##### Chechnya
 ### [ A bomb kills two people and injures six others in Chechnya, Russia. ](/news/2009/06/24/a-bomb-kills-two-people-and-injures-six-others-in-chechnya-russia.md)
@@ -41,7 +41,7 @@ _Context: Chechnya, Russia_
 
 ##### Bagram Air Base
 ### [ Former detainees allege abuses at Bagram Air Base in Afghanistan. ](/news/2009/06/24/former-detainees-allege-abuses-at-bagram-air-base-in-afghanistan.md)
-_Context: Bagram Air Base, Afghanistan_
+_Context: Afghanistan, Bagram Air Base_
 
 ##### Bombing
 ### [ More than 60 are killed and 150 are injured after a bombing in Baghdad. ](/news/2009/06/24/more-than-60-are-killed-and-150-are-injured-after-a-bombing-in-baghdad.md)

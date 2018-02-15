@@ -5,15 +5,15 @@ Formats: [HTML](2004/05/1/index.html)  [JSON](2004/05/1/index.json)  [XML](2004/
 
 ##### European Union candidacy
 ### [ EU enlargement: Ten new member states (Cyprus, the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia and Slovenia) join the European Union, increasing the EU's population by 75 million people to a total of roughly 455 million. ](/news/2004/05/1/eu-enlargement-ten-new-member-states-cyprus-the-czech-republic-estonia-hungary-latvia-lithuania-malta-poland-slovakia-and-sloveni.md)
-_Context: Estonia, European Union candidacy, Czech Republic, Slovakia, Slovenia, Cypriot, Malta, Latvia, European Union, Lithuania_
+_Context: Slovakia, Latvia, Czech Republic, Slovenia, Estonia, Lithuania, European Union, European Union candidacy, Malta, Cypriot_
 
 ##### Yanbu
 ### [ In Yanbu, Saudi Arabia, gunmen kill five Westerners and a Saudi security guard in a shooting spree and car chase. ](/news/2004/05/1/in-yanbu-saudi-arabia-gunmen-kill-five-westerners-and-a-saudi-security-guard-in-a-shooting-spree-and-car-chase.md)
-_Context: Saudi Arabia, Westerners, Yanbu_
+_Context: Yanbu, Westerners, Saudi Arabia_
 
 ##### Parco dei Principe
 ### [ A fire at the Parco dei Principe hotel in Rome kills three, and forces the evacuation of a number of professional tennis stars, including Andy Roddick, Marat Safin, Mariano Zabaleta, and Max Mirnyi. ](/news/2004/05/1/a-fire-at-the-parco-dei-principe-hotel-in-rome-kills-three-and-forces-the-evacuation-of-a-number-of-professional-tennis-stars-including-a.md)
-_Context: Marat Safin, tennis, Andy Roddick, Max Mirnyi, hotel, Mariano Zabaleta, Parco dei Principe_
+_Context: Mariano Zabaleta, Max Mirnyi, hotel, Marat Safin, Andy Roddick, Parco dei Principe, tennis_
 
 ##### Smarty Jones
 ### [ Smarty Jones wins the Kentucky Derby. ](/news/2004/05/1/smarty-jones-wins-the-kentucky-derby.md)
@@ -25,7 +25,7 @@ _Context: Choloki River, Ajaria,  Georgian_
 
 ##### Riot police
 ### [ Riot police clash with masked left-wing anarchists in Berlin and Leipzig, Germany. 100 people are arrested. ](/news/2004/05/1/riot-police-clash-with-masked-left-wing-anarchists-in-berlin-and-leipzig-germany-100-people-are-arrested.md)
-_Context: Leipzig, Riot police_
+_Context: Riot police, Leipzig_
 
 ## [Previous Day...](/news/2004/04/30/index.md)
 

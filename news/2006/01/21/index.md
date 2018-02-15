@@ -5,7 +5,7 @@ Formats: [HTML](2006/01/21/index.html)  [JSON](2006/01/21/index.json)  [XML](200
 
 ##### Choreographer
 ### [ The Russian choreographer Igor Moiseyev, who founded the genre of balletic folk dance back in the 1930s, celebrates his centenary with a flamboyant show in the Moscow Kremlin Palace of Congresses. ](/news/2006/01/21/the-russian-choreographer-igor-moiseyev-who-founded-the-genre-of-balletic-folk-dance-back-in-the-1930s-celebrates-his-centenary-with-a-fl.md)
-_Context: folk dance, Moscow Kremlin, centenary, 1930s, choreographer, Igor Moiseyev_
+_Context: 1930s, Igor Moiseyev, centenary, Moscow Kremlin, folk dance, choreographer_
 
 ##### Melville, West Virginia
 ### [ Two miners, trapped after a coal mine fire on Thursday in Melville, West Virginia, are found dead. ](/news/2006/01/21/two-miners-trapped-after-a-coal-mine-fire-on-thursday-in-melville-west-virginia-are-found-dead.md)

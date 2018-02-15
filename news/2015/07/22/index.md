@@ -37,7 +37,7 @@ Football playing robots built by researchers at Eindhoven University have lost t
 
 ##### National Institutes of Health
 ### [ Scientists at the U.S. NIH's National Institute of Allergy and Infectious Diseases report a major breakthrough toward finding a new universal flu vaccine by using non-infectious H-proteins instead of whole viruses.](/news/2015/07/22/scientists-at-the-u-s-nih-s-national-institute-of-allergy-and-infectious-diseases-report-a-major-breakthrough-toward-finding-a-new-univers.md)
-_Context: National Institutes of Health, H-proteins, National Institute of Allergy and Infectious Diseases, universal flu vaccine_
+_Context: universal flu vaccine, H-proteins, National Institutes of Health, National Institute of Allergy and Infectious Diseases_
 
 ## [Previous Day...](/news/2015/07/21/index.md)
 

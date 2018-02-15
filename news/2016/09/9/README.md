@@ -5,7 +5,7 @@ Formats: [HTML](2016/09/9/index.html)  [JSON](2016/09/9/index.json)  [XML](2016/
 
 ##### War in Afghanistan (2015-present)
 ### [United States Navy SEALs, by high altitude parachuting, fail in a rescue attempt after the team does not find the American and Australian hostages who were kidnapped in Kabul last month. ](/news/2016/09/9/united-states-navy-seals-by-high-altitude-parachuting-fail-in-a-rescue-attempt-after-the-team-does-not-find-the-american-and-australian-ho.md)
-_Context: high altitude parachuting, United States Navy SEAL, Kabul, War in Afghanistan (2015-present)_
+_Context: United States Navy SEAL, high altitude parachuting, Kabul, War in Afghanistan (2015-present)_
 
 ##### Iraqi civil war
 ### [Twin suicide bombings at the Nakheel Mall in eastern Baghdad kill 12 people and injure more than 40 others. ISIL claims responsibility. ](/news/2016/09/9/twin-suicide-bombings-at-the-nakheel-mall-in-eastern-baghdad-kill-12-people-and-injure-more-than-40-others-isil-claims-responsibility.md)
@@ -13,11 +13,11 @@ Twelve people were killed late on Friday in two suicide bombings claimed by Isla
 
 ##### Norway
 ### [The Norwegian newspaper "Aftenposten" accuses Facebook of censorship because of the website's decision to remove the iconic Vietnam War-era photo "napalm girl" as child pornography. ](/news/2016/09/9/the-norwegian-newspaper-aftenposten-accuses-facebook-of-censorship-because-of-the-website-s-decision-to-remove-the-iconic-vietnam-waraer.md)
-_Context: Norway, Vietnam War, child pornography, Facebook, napalm girl, Aftenposten_
+_Context: napalm girl, Aftenposten, Vietnam War, Facebook, child pornography, Norway_
 
 ##### General Motors
 ### [General Motors recalls 4.3 million vehicles after a defect in the software for the airbag led to one fatality. ](/news/2016/09/9/general-motors-recalls-4-3-million-vehicles-after-a-defect-in-the-software-for-the-airbag-led-to-one-fatality.md)
-_Context: General Motors, airbag_
+_Context: airbag, General Motors_
 
 ##### Volkswagen
 ### [An engineer from Volkswagen pleads guilty for his role in the emissions cheating scandal. ](/news/2016/09/9/an-engineer-from-volkswagen-pleads-guilty-for-his-role-in-the-emissions-cheating-scandal.md)
@@ -33,7 +33,7 @@ Britain has become &ldquo;completely lost&rdquo; post Brexit and can eventually 
 
 ##### Mayon Volcano
 ### [The alert level for the Mayon Volcano in the Philippines is increased after more than a hundred earthquakes were detected in its vicinity. ](/news/2016/09/9/the-alert-level-for-the-mayon-volcano-in-the-philippines-is-increased-after-more-than-a-hundred-earthquakes-were-detected-in-its-vicinity.md)
-_Context: Mayon Volcano, Philippines_
+_Context: Philippines, Mayon Volcano_
 
 ##### Nigeria
 ### [Millions of people in Nigeria are at risk of famine. ](/news/2016/09/9/millions-of-people-in-nigeria-are-at-risk-of-famine.md)
@@ -41,7 +41,7 @@ _Context: Nigeria, famine_
 
 ##### Train derails
 ### [A train derails at a station in the town of O Porrino in Galicia, Spain, killing at least four people. ](/news/2016/09/9/a-train-derails-at-a-station-in-the-town-of-o-porria-o-in-galicia-spain-killing-at-least-four-people.md)
-_Context: Spain, O Porrino, train derails, Galicia_
+_Context: Spain, O Porrino, Galicia, train derails_
 
 ##### French Alps
 ### [More than a hundred tourists in the French Alps spend an evening suspended in midair inside cable cars that ceased to move. ](/news/2016/09/9/more-than-a-hundred-tourists-in-the-french-alps-spend-an-evening-suspended-in-midair-inside-cable-cars-that-ceased-to-move.md)

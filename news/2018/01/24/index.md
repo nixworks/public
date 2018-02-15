@@ -17,11 +17,11 @@ The US says it targeted a militant headquarters in the Euphrates valley, in Deir
 
 ##### Culture of Saudi Arabia
 ### [A dozen camels are disqualified from a beauty pageant at the King Abdulaziz Camel Festival, near Riyadh, after reports in the media about injections with botox. A veterinarian is caught performing plastic surgery to make the camels more attractive. Rules prohibit to change the natural form of participating camels. ](/news/2018/01/24/a-dozen-camels-are-disqualified-from-a-beauty-pageant-at-the-king-abdulaziz-camel-festival-near-riyadh-after-reports-in-the-media-about-in.md)
-_Context: King Abdulaziz, botox, camel, plastic surgery, Riyadh, Culture of Saudi Arabia, beauty pageant_
+_Context: Riyadh, beauty pageant, botox, plastic surgery, camel, King Abdulaziz, Culture of Saudi Arabia_
 
 ##### Financial Times
 ### [Senior politicians express outrage after an investigative report by the "Financial Times" on groping practices at a Dorchester hotel charity gala held by the London-based Presidents Club old boy network. Boris Johnson and Mark Carney both deny knowing that their lunch or tea time was sold as lots in the club's charitable auction. ](/news/2018/01/24/senior-politicians-express-outrage-after-an-investigative-report-by-the-financial-times-on-groping-practices-at-a-dorchester-hotel-charity.md)
-_Context: London, groping, Mark Carney, old boy network, Dorchester, Financial Times, Presidents Club, charity, Boris Johnson_
+_Context: Boris Johnson, Dorchester, old boy network, groping, charity, London, Financial Times, Presidents Club, Mark Carney_
 
 ##### Crime in Michigan
 ### [Two Michigan State Police troopers are injured by gunfire in Union City while serving a warrant. The suspect was later found dead nearby. ](/news/2018/01/24/two-michigan-state-police-troopers-are-injured-by-gunfire-in-union-city-while-serving-a-warrant-the-suspect-was-later-found-dead-nearby.md)
@@ -37,7 +37,7 @@ Chinese scientists have cloned monkeys using the same technique that produced Do
 
 ##### 2018 in spaceflight
 ### [SpaceX conducts the first static fire test of the Falcon Heavy rocket ahead of its maiden flight with Elon Musk's Tesla Roadster as a dummy payload. ](/news/2018/01/24/spacex-conducts-the-first-static-fire-test-of-the-falcon-heavy-rocket-ahead-of-its-maiden-flight-with-elon-musk-s-tesla-roadster-as-a-dummy.md)
-_Context: Tesla Roadster, dummy payload, Falcon Heavy, 2018 in spaceflight, SpaceX, maiden flight_
+_Context: dummy payload, 2018 in spaceflight, Tesla Roadster, Falcon Heavy, maiden flight, SpaceX_
 
 ## [Previous Day...](/news/2018/01/23/index.md)
 

@@ -9,7 +9,7 @@ An Australian security contractor is killed in a shooting near the Australian em
 
 ##### Syrian Civil War
 ### [Hezbollah says Mustafa Badreddine, one of Hezbollah's highest ranking officials believed responsible for military operations in Syria, has been killed by artillery fire from the Syrian rebels. ](/news/2016/05/13/hezbollah-says-mustafa-badreddine-one-of-hezbollah-s-highest-ranking-officials-believed-responsible-for-military-operations-in-syria-has-b.md)
-_Context: Mustafa Badreddine, Syrian Civil War, Syria, Hezbollah_
+_Context: Hezbollah, Syrian Civil War, Syria, Mustafa Badreddine_
 
 ##### Kurdish-Turkish conflict (2015-present)
 ### [Eight Turkish soldiers and 21 Kurdistan Workers Party (PKK) militants are killed in clashes and in a subsequent helicopter crash near Turkey's border with Iraq. ](/news/2016/05/13/eight-turkish-soldiers-and-21-kurdistan-workers-party-pkk-militants-are-killed-in-clashes-and-in-a-subsequent-helicopter-crash-near-turkey.md)
@@ -29,9 +29,9 @@ A ballistic missile defense shield which the United States has activated in Euro
 
 ##### President of Argentina
 ### [Former President of Argentina Cristina Fernandez is indicted on fraud charges in relation to alleged irregularities in the sale of United States dollars by the Central Bank during her term in office. ](/news/2016/05/13/former-president-of-argentina-cristina-ferna-ndez-is-indicted-on-fraud-charges-in-relation-to-alleged-irregularities-in-the-sale-of-united-s.md)
-_Context: United States dollars, President of Argentina, Central Bank, Cristina Fernandez_
+_Context: President of Argentina, Central Bank, United States dollars, Cristina Fernandez_
 
-##### U.S.
+##### United States
 ### [The United States Education and Justice Departments advise U.S. public school districts across the country to allow transgender students to use the bathrooms that match their gender identity, rather than their gender at birth. The new guidance comes as Justice and North Carolina battle in federal court over the state's new so-called bathroom bill. ](/news/2016/05/13/the-united-states-education-and-justice-departments-advise-u-s-public-school-districts-across-the-country-to-allow-transgender-students-to.md)
 WASHINGTON (AP) — Public schools must permit transgender students to use bathrooms and locker rooms consistent with their chosen gender identity, according to an Obama administration directive issued amid a court fight…
 

@@ -13,7 +13,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ##### Drug crackdown
 ### [With 2,400 people dead so far, Rodrigo Duterte, the President of the Philippines, says that "plenty will be killed" in the war against drugs. ](/news/2016/09/5/with-2-400-people-dead-so-far-rodrigo-duterte-the-president-of-the-philippines-says-that-plenty-will-be-killed-in-the-war-against-drugs.md)
-_Context: President, drug crackdown, Rodrigo Duterte_
+_Context: Rodrigo Duterte, President, drug crackdown_
 
 ##### Freddie Mercury
 ### [An asteroid is named in honour of Freddie Mercury on what would have been his 70th birthday. ](/news/2016/09/5/an-asteroid-is-named-in-honour-of-freddie-mercury-on-what-would-have-been-his-70th-birthday.md)
@@ -25,11 +25,11 @@ Schlafly rose to prominence and influence among conservatives through her fight 
 
 ##### Russia-Saudi Arabia relations
 ### [Russia and Saudi Arabia agree on a plan to manipulate oil output. ](/news/2016/09/5/russia-and-saudi-arabia-agree-on-a-plan-to-manipulate-oil-output.md)
-_Context: oil, Saudi Arabia, Russia-Saudi Arabia relations, Russia_
+_Context: Saudi Arabia, Russia, oil, Russia-Saudi Arabia relations_
 
 ##### Rodrigo Duterte
 ### [The Duterte administration suspends more Philippine mines for violating environmental regulations. ](/news/2016/09/5/the-duterte-administration-suspends-more-philippine-mines-for-violating-environmental-regulations.md)
-_Context: Philippine mines, Rodrigo Duterte_
+_Context: Rodrigo Duterte, Philippine mines_
 
 ##### Tel Aviv
 ### [A Tel Aviv, Israel, four story parking lot under construction collapses and kills at least two people and injures 18 others. ](/news/2016/09/5/a-tel-aviv-israel-four-story-parking-lot-under-construction-collapses-and-kills-at-least-two-people-and-injures-18-others.md)
@@ -45,7 +45,7 @@ Singapore has added 91 new Zika cases since Friday, with a possible new cluster 
 
 ##### 2016 G20 Hangzhou summit
 ### [U.S. President Barack Obama and Russian President Vladimir Putin fail to agree on a peace deal regarding the Syrian civil war. ](/news/2016/09/5/u-s-president-barack-obama-and-russian-president-vladimir-putin-fail-to-agree-on-a-peace-deal-regarding-the-syrian-civil-war.md)
-_Context: Barack Obama, 2016 G20 Hangzhou summit, Vladimir Putin, Syrian civil war, U.S. President, Russian President_
+_Context: Russian President, 2016 G20 Hangzhou summit, Syrian civil war, Barack Obama, U.S. President, Vladimir Putin_
 
 ##### Philippines-United States relations
 ### [U.S. President Barack Obama cancels a scheduled meeting with the President of the Philippines, Rodrigo Duterte, after Duterte referred to Obama as a "son of a whore", while adding "I am no American puppet", in response to Obama's recent criticism of his war on drugs. ](/news/2016/09/5/u-s-president-barack-obama-cancels-a-scheduled-meeting-with-the-president-of-the-philippines-rodrigo-duterte-after-duterte-referred-to-ob.md)
@@ -65,11 +65,11 @@ Nathan Law Kwun-chung, a 23-year-old pro-independence candidate has just been el
 
 ##### 2016 U.S. presidential election
 ### [Libertarian nominee Gary Johnson qualifies in Connecticut giving him ballot access to 48 states. ](/news/2016/09/5/libertarian-nominee-gary-johnson-qualifies-in-connecticut-giving-him-ballot-access-to-48-states.md)
-_Context: Connecticut, Libertarian, Gary Johnson, 2016 U.S. presidential election_
+_Context: Connecticut, Libertarian, 2016 U.S. presidential election, Gary Johnson_
 
 ##### European Space Agency
 ### [The European Space Agency's robotic lander "Philae" is discovered wedged in a crack between some rocks in the shadow of a cliff on 67P-Churyumov-Gerasimenko by the Rosetta space probe after being lost since 2014. ](/news/2016/09/5/the-european-space-agency-s-robotic-lander-philae-is-discovered-wedged-in-a-crack-between-some-rocks-in-the-shadow-of-a-cliff-on-67p-chury.md)
-_Context: Philae, ''Rosetta'' space probe, 67P/Churyumov-Gerasimenko, European Space Agency, lander_
+_Context: ''Rosetta'' space probe, 67P/Churyumov-Gerasimenko, European Space Agency, lander, Philae_
 
 ## [Previous Day...](/news/2016/09/4/index.md)
 

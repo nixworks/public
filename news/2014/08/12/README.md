@@ -5,7 +5,7 @@ Formats: [HTML](2014/08/12/index.html)  [JSON](2014/08/12/index.json)  [XML](201
 
 ##### Vuhlehirsk
 ### [Ukrainian government forces recapture control of the city of Vuhlehirsk, Donetsk Oblast, from pro-Russian insurgents. ](/news/2014/08/12/ukrainian-government-forces-recapture-control-of-the-city-of-vuhlehirsk-donetsk-oblast-from-pro-russian-insurgents.md)
-_Context: Vuhlehirsk, Donetsk Oblast_
+_Context: Donetsk Oblast, Vuhlehirsk_
 
 ##### 2014 Israel-Gaza Conflict
 ### [The Foreign Press Association issues a statement condemning Hamas for intimidation and censorship and not allowing an objective reporting of events. ](/news/2014/08/12/the-foreign-press-association-issues-a-statement-condemning-hamas-for-intimidation-and-censorship-and-not-allowing-an-objective-reporting-of.md)
@@ -13,7 +13,7 @@ FPA statement &#39;protests methods by Hamas against journalists in Gaza&#39;, c
 
 ##### China
 ### [The Natural Development and Reform Commission, an economic planning agency of the People's Republic of China, announces an increase in the price of natural gas sold to non-residential buyers. ](/news/2014/08/12/the-natural-development-and-reform-commission-an-economic-planning-agency-of-the-people-s-republic-of-china-announces-an-increase-in-the-p.md)
-_Context: China, natural gas_
+_Context: natural gas, China_
 
 ##### Earthquake
 ### [A shallow 5.1 magnitude earthquake near Quito's capital region kills four with another three missing in a landslide. ](/news/2014/08/12/a-shallow-5-1-magnitude-earthquake-near-quito-s-capital-region-kills-four-with-another-three-missing-in-a-landslide.md)

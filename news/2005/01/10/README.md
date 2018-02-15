@@ -9,31 +9,31 @@ _Context: George W. Bush, CBS News, forged documents, 60 Minutes, U.S. President
 
 ##### Mahmoud Abbas
 ### [ Mahmoud Abbas is officially declared winner of the Palestinian presidential election, with 62.3% of the votes cast. ](/news/2005/01/10/mahmoud-abbas-is-officially-declared-winner-of-the-palestinian-presidential-election-with-62-3-of-the-votes-cast.md)
-_Context: Mahmoud Abbas, Palestinian presidential election, Palestinian_
+_Context: Palestinian, Mahmoud Abbas, Palestinian presidential election_
 
 ##### Darfur conflict
 ### [ Darfur conflict: United Nations secretary general Kofi Annan warns that the security situation in Darfur is deteriorating. ](/news/2005/01/10/darfur-conflict-united-nations-secretary-general-kofi-annan-warns-that-the-security-situation-in-darfur-is-deteriorating.md)
-_Context: United Nations, United Nations Secretary-General, Darfur, Kofi Annan, Darfur conflict_
+_Context: United Nations Secretary-General, Darfur, Kofi Annan, Darfur conflict, United Nations_
 
 ##### Venezuela
 ### [ Venezuelan President Hugo Chvez says he is convinced that Colombian police captured FARC leader Rodrigo Granda in Venezuela, contrary to their claims that he was arrested in the Colombian border town of Ccuta. ](/news/2005/01/10/venezuelan-president-hugo-chavez-says-he-is-convinced-that-colombian-police-captured-farc-leader-rodrigo-granda-in-venezuela-contrary-to-t.md)
-_Context: Venezuela, Revolutionary Armed Forces of Colombia, President, Hugo Chvez, Rodrigo Granda, Colombia, Ccuta_
+_Context: Venezuela, Hugo Chvez, Revolutionary Armed Forces of Colombia, Ccuta, Rodrigo Granda, President, Colombia_
 
 ##### Smoking ban
 ### [ A smoking ban comes into effect in Italy, prohibiting smoking in public places. It has been reported that some businesses and smokers intend to defy the ban. ](/news/2005/01/10/a-smoking-ban-comes-into-effect-in-italy-prohibiting-smoking-in-public-places-it-has-been-reported-that-some-businesses-and-smokers-inten.md)
-_Context: smoking ban, Italy_
+_Context: Italy, smoking ban_
 
 ##### India
 ### [ In India, more than 55 people are killed when a bus falls into the Almatti canal in Bijapur district, Karnataka. ](/news/2005/01/10/in-india-more-than-55-people-are-killed-when-a-bus-falls-into-the-almatti-canal-in-bijapur-district-karnataka.md)
-_Context: Bijapur district, Karnataka, India, Almatti canal, bus_
+_Context: Almatti canal, India, bus, Bijapur district, Karnataka_
 
 ##### Philippines
 ### [ In the Philippines, the truce between the army and Islamist rebels collapses. Government forces exchange fire with the MILF rebels in Mindanao. The peace talks are still ongoing. ](/news/2005/01/10/in-the-philippines-the-truce-between-the-army-and-islamist-rebels-collapses-government-forces-exchange-fire-with-the-milf-rebels-in-minda.md)
-_Context: Philippines, Moro Islamic Liberation Front, Mindanao, truce_
+_Context: Mindanao, truce, Philippines, Moro Islamic Liberation Front_
 
 ##### Port Blair
 ### [ Tides of over 2 meters inundate Port Blair, Andaman Islands, India, raising fears that the 2004 Indian Ocean earthquake has changed tidal patterns. ](/news/2005/01/10/tides-of-over-2-meters-inundate-port-blair-andaman-islands-india-raising-fears-that-the-2004-indian-ocean-earthquake-has-changed-tidal-p.md)
-_Context: 2004 Indian Ocean earthquake, Andaman Islands, India, Port Blair_
+_Context: 2004 Indian Ocean earthquake, Port Blair, Andaman Islands, India_
 
 ## [Previous Day...](/news/2005/01/9/index.md)
 

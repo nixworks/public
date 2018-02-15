@@ -25,11 +25,11 @@ Two bombs planted on a train killed a 22-year-old woman and wounded nine others 
 
 ##### Outbreak
 ### [The first-ever outbreak of chikungunya in the Caribbean reaches epidemic levels. ](/news/2014/05/1/the-first-ever-outbreak-of-chikungunya-in-the-caribbean-reaches-epidemic-levels.md)
-_Context: outbreak, chikungunya_
+_Context: chikungunya, outbreak_
 
 ##### China
 ### [The People's Republic of China and Russia announce plans to hold joint naval exercises in the East China Sea in late May amid regional tensions about islands and airspace. ](/news/2014/05/1/the-people-s-republic-of-china-and-russia-announce-plans-to-hold-joint-naval-exercises-in-the-east-china-sea-in-late-may-amid-regional-tensi.md)
-_Context: East China Sea, Russia, naval exercise, China_
+_Context: China, naval exercise, Russia, East China Sea_
 
 ##### Sinn Fein
 ### [Sinn Fein leader Gerry Adams remains in custody in connection with the IRA murder of Jean McConville. ](/news/2014/05/1/sinn-fa-c-in-leader-gerry-adams-remains-in-custody-in-connection-with-the-ira-murder-of-jean-mcconville.md)

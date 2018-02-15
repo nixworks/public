@@ -9,39 +9,39 @@ _Context: Stabilisation and Association Agreement, 2008, Montenegro, Prime Minis
 
 ##### Battle of Las Anod
 ### [ Battle of Las Anod: Troops from the breakaway Somali republic of Somaliland seize a town inside Puntland, a rival region loyal to the interim Somali government, killing at least 10 people. ](/news/2007/10/15/battle-of-las-anod-troops-from-the-breakaway-somali-republic-of-somaliland-seize-a-town-inside-puntland-a-rival-region-loyal-to-the-inter.md)
-_Context: Puntland, Somalia, Battle of Las Anod, Somaliland_
+_Context: Battle of Las Anod, Somalia, Puntland, Somaliland_
 
 ##### Menzies Campbell
 ### [ Sir Menzies Campbell resigns as the leader of the Liberal Democrats in the United Kingdom, starting a leadership election. ](/news/2007/10/15/sir-menzies-campbell-resigns-as-the-leader-of-the-liberal-democrats-in-the-united-kingdom-starting-a-leadership-election.md)
-_Context: leadership election, Menzies Campbell, United Kingdom, Liberal Democrats_
+_Context: leadership election, United Kingdom, Menzies Campbell, Liberal Democrats_
 
 ##### Leonid Hurwicz
 ### [ Leonid Hurwicz, Eric S. Maskin and Roger B. Myerson are announced as winners of the 2007 Nobel Prize in Economics for having laid the foundations of mechanism design theory. ](/news/2007/10/15/leonid-hurwicz-eric-s-maskin-and-roger-b-myerson-are-announced-as-winners-of-the-2007-nobel-prize-in-economics-for-having-laid-the-found.md)
-_Context: Roger B. Myerson, Leonid Hurwicz, Nobel Prize in Economics, mechanism design, Eric S. Maskin_
+_Context: Roger B. Myerson, Eric S. Maskin, mechanism design, Leonid Hurwicz, Nobel Prize in Economics_
 
 ##### Ibrahim Gambari
 ### [ Ibrahim Gambari, the United Nations special envoy to Myanmar, warns the Burmese government to stop arresting dissidents. ](/news/2007/10/15/ibrahim-gambari-the-united-nations-special-envoy-to-myanmar-warns-the-burmese-government-to-stop-arresting-dissidents.md)
-_Context: State Peace and Development Council, Ibrahim Gambari, United Nations, Myanmar_
+_Context: United Nations, Ibrahim Gambari, State Peace and Development Council, Myanmar_
 
 ##### Airbus
 ### [ Airbus delivers its first A380 aircraft to launch customer Singapore Airlines in a ceremony in Toulouse, France, almost 18 months behind schedule, but denies rumours that further delays to the programme are looming. ](/news/2007/10/15/airbus-delivers-its-first-a380-aircraft-to-launch-customer-singapore-airlines-in-a-ceremony-in-toulouse-france-almost-18-months-behind-sc.md)
-_Context: France, Airbus, Singapore Airlines, A380, Toulouse_
+_Context: France, Toulouse, Singapore Airlines, Airbus, A380_
 
 ##### William Street underground platforms
 ### [ William Street underground platforms and The Esplanade Station begin service in Perth, Western Australia. Part of the New MetroRail project, they are the first stations to open on the new Mandurah Line. ](/news/2007/10/15/william-street-underground-platforms-and-the-esplanade-station-begin-service-in-perth-western-australia-part-of-the-new-metrorail-project.md)
-_Context: Mandurah Line, The Esplanade Station, New MetroRail, William Street underground platforms, Perth, Western Australia_
+_Context: William Street underground platforms, Mandurah Line, Western Australia, Perth, New MetroRail, The Esplanade Station_
 
 ##### Police raids
 ### [ Police raids are made across New Zealand under the Terrorism Suppression Act, with individuals supporting Maori sovereignty targeted, and arrested, for their alleged involvement in paramilitary activities. Activist Tame Iti is among those arrested. ](/news/2007/10/15/police-raids-are-made-across-new-zealand-under-the-terrorism-suppression-act-with-individuals-supporting-maori-sovereignty-targeted-and.md)
-_Context: Police raids, Terrorism Suppression Act, Maori, Tame Iti, New Zealand_
+_Context: Maori, Terrorism Suppression Act, New Zealand, Tame Iti, Police raids_
 
 ##### 17th Party Congress
 ### [ The 17th National Congress of the Communist Party of China opens in Beijing, China, marking the beginning of a 7-day conclave of China's top leadership. General Secretary Hu Jintao delivers the work report for the past five years, and sets the party's direction in the coming five years. Hu also said in the keynote speech that the Communist Party has "fallen short of the people's expectations". ](/news/2007/10/15/the-17th-national-congress-of-the-communist-party-of-china-opens-in-beijing-china-marking-the-beginning-of-a-7-day-conclave-of-china-s-to.md)
-_Context: Communist Party of China, 17th Party Congress, Hu Jintao, Beijing, China, General Secretary of the Communist Party of China_
+_Context: China, General Secretary of the Communist Party of China, 17th Party Congress, Communist Party of China, Beijing, Hu Jintao_
 
 ##### Richard Brunstrom
 ### [ Richard Brunstrom, the Chief Constable of North Wales Police, calls for all classified drugs to be legalised in the United Kingdom. He argues that the current policy of prohibition is not working, and is based on dogma. ](/news/2007/10/15/richard-brunstrom-the-chief-constable-of-north-wales-police-calls-for-all-classified-drugs-to-be-legalised-in-the-united-kingdom-he-argu.md)
-_Context: dogma, United Kingdom, Richard Brunstrom, drug, Chief Constable, North Wales Police_
+_Context: Chief Constable, Richard Brunstrom, North Wales Police, United Kingdom, drug, dogma_
 
 ## [Previous Day...](/news/2007/10/14/index.md)
 

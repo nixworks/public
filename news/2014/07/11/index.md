@@ -13,7 +13,7 @@ Iraqi Kurdish forces have taken over two oilfields amid a growing dispute with t
 
 ##### Save the Children
 ### [The aid group Save the Children warns that a cholera outbreak in South Sudan, which has so far killed 60 people, threatens thousands of lives. ](/news/2014/07/11/the-aid-group-save-the-children-warns-that-a-cholera-outbreak-in-south-sudan-which-has-so-far-killed-60-people-threatens-thousands-of-live.md)
-_Context: cholera, Save the Children, South Sudan_
+_Context: South Sudan, cholera, Save the Children_
 
 ##### Vaccine
 ### [An experimental vaccine for dengue fever has been developed in Manila. ](/news/2014/07/11/an-experimental-vaccine-for-dengue-fever-has-been-developed-in-manila.md)

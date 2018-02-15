@@ -25,11 +25,11 @@ _Context: Papua New Guinea, Belden Namah_
 
 ##### Autopsy
 ### [An autopsy finds Sunanda Pushkar, the wife of Indian cabinet minister Shashi Tharoor found dead in her hotel room on Friday, had died a "sudden and unnatural death". ](/news/2014/01/18/an-autopsy-finds-sunanda-pushkar-the-wife-of-indian-cabinet-minister-shashi-tharoor-found-dead-in-her-hotel-room-on-friday-had-died-a-sud.md)
-_Context: Shashi Tharoor, Sunanda Pushkar, autopsy, India_
+_Context: India, autopsy, Shashi Tharoor, Sunanda Pushkar_
 
 ##### Egyptian constitutional referendum, 2014
 ### [Egypt's election council claims that 98.1% of voters supported the new military-backed constitution with a 38.6% turnout. ](/news/2014/01/18/egypt-s-election-council-claims-that-98-1-of-voters-supported-the-new-military-backed-constitution-with-a-38-6-turnout.md)
-_Context: Egyptian constitutional referendum, 2014, Egyptian military, constitution, Egypt_
+_Context: Egyptian military, Egypt, constitution, Egyptian constitutional referendum, 2014_
 
 ## [Previous Day...](/news/2014/01/17/index.md)
 

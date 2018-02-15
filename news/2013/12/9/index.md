@@ -29,15 +29,15 @@ Harold Rhode&apos;s elation at finding a trove of Jewish texts during the Iraq w
 
 ##### Prime Minister
 ### [Prime Minister of Thailand Yingluck Shinawatra announces that she plans to hold elections. ](/news/2013/12/9/prime-minister-of-thailand-yingluck-shinawatra-announces-that-she-plans-to-hold-elections.md)
-_Context: general election held on February 2, Yingluck Shinawatra, Prime Minister_
+_Context: Prime Minister, Yingluck Shinawatra, general election held on February 2_
 
 ##### Gustavo Petro
 ### [Gustavo Petro, mayor of Bogot, Colombia, is removed from office and banned from re-taking it for fifteen years, due to a failing city cleaning policy promoted by him. ](/news/2013/12/9/gustavo-petro-mayor-of-bogota-colombia-is-removed-from-office-and-banned-from-re-taking-it-for-fifteen-years-due-to-a-failing-city-clean.md)
-_Context: Colombia, Bogot, Gustavo Petro_
+_Context: Bogot, Gustavo Petro, Colombia_
 
 ##### Prime Minister of Ukraine
 ### [Former Prime Minister of Ukraine Yulia Tymoshenko sends a letter of support to Ukrainian protesters after they topple a statue of Lenin. ](/news/2013/12/9/former-prime-minister-of-ukraine-yulia-tymoshenko-sends-a-letter-of-support-to-ukrainian-protesters-after-they-topple-a-statue-of-lenin.md)
-_Context: Lenin, Yulia Tymoshenko, Ukraine, Prime Minister of Ukraine_
+_Context: Lenin, Prime Minister of Ukraine, Yulia Tymoshenko, Ukraine_
 
 ##### Russian President
 ### [President of Russia Vladimir Putin announces that RIA Novosti, Voice of Russia, and the State Fund of Television and Radio Programs will immediately be shut down. Newly created Rossia Segodnya (Russia Today) will take RIA Novosti's place as the government news agency. ](/news/2013/12/9/president-of-russia-vladimir-putin-announces-that-ria-novosti-voice-of-russia-and-the-state-fund-of-television-and-radio-programs-will-imm.md)

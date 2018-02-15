@@ -13,7 +13,7 @@ Singer-songwriter’s failure to respond to phone calls from the Swedish Academy
 
 ##### British American Tobacco
 ### [British American Tobacco offers to buy out U.S. cigarette maker Reynolds American Inc in a $47 billion takeover that would create the world's biggest listed tobacco company. ](/news/2016/10/21/british-american-tobacco-offers-to-buy-out-u-s-cigarette-maker-reynolds-american-inc-in-a-47-billion-takeover-that-would-create-the-world.md)
-_Context: $, Reynolds American Inc, cigarette, British American Tobacco, tobacco_
+_Context: British American Tobacco, Reynolds American Inc, cigarette, $, tobacco_
 
 ##### AT&T
 ### [AT&T reportedly agrees in principle to buy Time Warner for about $85 billion. ](/news/2016/10/21/at-t-reportedly-agrees-in-principle-to-buy-time-warner-for-about-85-billion.md)
@@ -37,7 +37,7 @@ A train derailed in Cameroon on Friday reportedly killing more than 50 people an
 
 ##### Mi-8
 ### [A Mil Mi-8 helicopter crashes and leaves at least 19 dead and three others injured on the Yamal Peninsula in Russia's Extreme North. ](/news/2016/10/21/a-mil-mi-8-helicopter-crashes-and-leaves-at-least-19-dead-and-three-others-injured-on-the-yamal-peninsula-in-russia-s-extreme-north.md)
-_Context: Extreme North, Mi-8, Yamal Peninsula, Russia_
+_Context: Extreme North, Russia, Mi-8, Yamal Peninsula_
 
 ##### South Africa
 ### [South Africa formally begins the process of withdrawing from the International Criminal Court amid a dispute over the country's refusal to arrest Sudanese President Omar al-Bashir at last year's African Union summit in Johannesburg. ](/news/2016/10/21/south-africa-formally-begins-the-process-of-withdrawing-from-the-international-criminal-court-amid-a-dispute-over-the-country-s-refusal-to-a.md)

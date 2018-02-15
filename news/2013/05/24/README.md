@@ -9,7 +9,7 @@ Afghan security forces battle Taliban insurgents for hours in central Kabul, fol
 
 ##### Suicide bombing
 ### [A suicide bombing in the Pakistani city of Peshawar kills at least three people and leaves several injured. ](/news/2013/05/24/a-suicide-bombing-in-the-pakistani-city-of-peshawar-kills-at-least-three-people-and-leaves-several-injured.md)
-_Context: suicide bombing, Peshawar, Pakistan_
+_Context: Peshawar, suicide bombing, Pakistan_
 
 ##### Yemen
 ### [Attackers blow up Yemen's main oil pipeline, halting the flow of crude oil. ](/news/2013/05/24/attackers-blow-up-yemen-s-main-oil-pipeline-halting-the-flow-of-crude-oil.md)
@@ -25,7 +25,7 @@ An 8.3-magnitude quake off the Kamchatka Peninsula sent tremors that prompted ev
 
 ##### Mountain climber
 ### [Five mountain climbers are missing and feared dead on Kanchenjunga. ](/news/2013/05/24/five-mountain-climbers-are-missing-and-feared-dead-on-kanchenjunga.md)
-_Context: Kanchenjunga, mountain climber_
+_Context: mountain climber, Kanchenjunga_
 
 ##### Cesarean section
 ### [A study of more than 10,000 people finds a correlation between cesarean section birth and childhood obesity. ](/news/2013/05/24/a-study-of-more-than-10-000-people-finds-a-correlation-between-cesarean-section-birth-and-childhood-obesity.md)
@@ -33,7 +33,7 @@ By Genevra PittmanNEW YORK (Reuters Health) - More babies born via cesarean sect
 
 ##### Main Street Family Pharmacy
 ### [Main Street Family Pharmacy of Newbern, Tennessee, US voluntarily recalls a steroid injection (preservative-free methylprednisolone acetate), used for arthritis and allergy relief in at least 11 states. No serious infections are reported. ](/news/2013/05/24/main-street-family-pharmacy-of-newbern-tennessee-us-voluntarily-recalls-a-steroid-injection-preservative-free-methylprednisolone-acetate.md)
-_Context: Main Street Family Pharmacy, injection, allergy, methylprednisolone acetate, steroid, arthritis, Newbern, Tennessee_
+_Context: arthritis, Main Street Family Pharmacy, allergy, steroid, injection, methylprednisolone acetate, Newbern, Tennessee_
 
 ##### Metropolitan Police Service
 ### [As part of "a policy of reducing the impact of rough sleepers on the community" London's Metropolitan police seize belongings including sleeping bags from homeless people. ](/news/2013/05/24/as-part-of-a-policy-of-reducing-the-impact-of-rough-sleepers-on-the-community-london-s-metropolitan-police-seize-belongings-including-slee.md)
@@ -49,7 +49,7 @@ _Context: 2013 Stockholm riots_
 
 ##### EUR
 ### [A necklace worth EUR1.9 million is stolen during the Cannes film festival. ](/news/2013/05/24/a-necklace-worth-a-1-9-million-is-stolen-during-the-cannes-film-festival.md)
-_Context: 2013 Cannes Film Festival, Cannes, EUR_
+_Context: 2013 Cannes Film Festival, EUR, Cannes_
 
 ##### Pakistan International Airlines
 ### [Police arrest two men on suspicion of endangering an aircraft, after British fighter jets escort a Pakistan International Airlines passenger plane to London Stansted Airport. ](/news/2013/05/24/police-arrest-two-men-on-suspicion-of-endangering-an-aircraft-after-british-fighter-jets-escort-a-pakistan-international-airlines-passenger.md)
@@ -61,7 +61,7 @@ _Context: President, Rafael Correa_
 
 ##### President
 ### [President of Uganda Yoweri Museveni removes Aronda Nyakairima as head of the military and names him as Minister of the Interior. ](/news/2013/05/24/president-of-uganda-yoweri-museveni-removes-aronda-nyakairima-as-head-of-the-military-and-names-him-as-minister-of-the-interior.md)
-_Context: President, Yoweri Museveni, Aronda Nyakairima_
+_Context: Yoweri Museveni, President, Aronda Nyakairima_
 
 ## [Previous Day...](/news/2013/05/23/index.md)
 

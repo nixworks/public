@@ -9,7 +9,7 @@ From traffic tie-ups to protest plans to behind-the-scenes stories, G20: Toronto
 
 ##### Maharashtra
 ### [Heavy rains claim 46 lives in Maharashtra, India. ](/news/2010/06/17/heavy-rains-claim-46-lives-in-maharashtra-india.md)
-_Context: India, Maharashtra_
+_Context: Maharashtra, India_
 
 ##### 
 ### [At least 46 people are killed, 50 others disappear and millions are affected following heavy five-day rains in China's southern regions. ](/news/2010/06/17/at-least-46-people-are-killed-50-others-disappear-and-millions-are-affected-following-heavy-five-day-rains-in-china-s-southern-regions.md)
@@ -27,7 +27,7 @@ An explosion at a coalmine in Colombia kills at least 16 workers with about 70 s
 
 ##### Anhui Province
 ### [3 people died after supports collapsed on them at a coal mine in east China's Anhui Province, a spokesman with the Anhui Huainan Mining Group in Bagongshan District of Huainan City. ](/news/2010/06/17/3-people-died-after-supports-collapsed-on-them-at-a-coal-mine-in-east-china-s-anhui-province-a-spokesman-with-the-anhui-huainan-mining-grou.md)
-_Context: Anhui Province, Bagongshan, Anhui, Huainan_
+_Context: Bagongshan, Huainan, Anhui, Anhui Province_
 
 ##### Biak Island
 ### [As many as 1,800 homes are estimated to have been destroyed on Biak Island, West Papua, Indonesia, as a result of the 7.0 magnitude 2010 Papua earthquake. ](/news/2010/06/17/as-many-as-1-800-homes-are-estimated-to-have-been-destroyed-on-biak-island-west-papua-indonesia-as-a-result-of-the-7-0-magnitude-2010-pap.md)
@@ -35,7 +35,7 @@ Seven churches, a power station and an elementary school are also razed. The reg
 
 ##### BP
 ### [BP Chief Executive Tony Hayward testifies before the U.S. Congress, apologizing for the spill but avoiding answering most questions and stating that he was unaware of the risks at the Deepwater Horizon rig that exploded in April causing the oil spill. ](/news/2010/06/17/bp-chief-executive-tony-hayward-testifies-before-the-u-s-congress-apologizing-for-the-spill-but-avoiding-answering-most-questions-and-stat.md)
-_Context: Deepwater Horizon, Deepwater Horizon oil spill, U.S. Congress, BP, Tony Hayward_
+_Context: Deepwater Horizon oil spill, U.S. Congress, Tony Hayward, BP, Deepwater Horizon_
 
 ##### Israel
 ### [Israel's decision to ease the Gaza blockade is welcomed by the United Nations and the United States; Gaza's Hamas rulers say this is propaganda by Israel. ](/news/2010/06/17/israel-s-decision-to-ease-the-gaza-blockade-is-welcomed-by-the-united-nations-and-the-united-states-gaza-s-hamas-rulers-say-this-is-propaga.md)
@@ -51,7 +51,7 @@ First Game 7 of Finals in Five Years Ends with Los Angeles Win
 
 ##### Turkey
 ### [Turkish warplanes carry out a series of airstrikes against suspected Kurdish targets in Iraq and Turkish soldiers withdraw from Iraqi territory after sending troops in pursuit of Kurdish rebels in the latest fighting between Turkey and Kurdish rebels. ](/news/2010/06/17/turkish-warplanes-carry-out-a-series-of-airstrikes-against-suspected-kurdish-targets-in-iraq-and-turkish-soldiers-withdraw-from-iraqi-territ.md)
-_Context: Kurdistan Workers' Party, disarm, Turkey, Iraq, Kurdish_
+_Context: disarm, Kurdistan Workers' Party, Turkey, Kurdish, Iraq_
 
 ##### Times Square bomber
 ### [The Times Square bombing attempt suspect is indicted on 10 terrorism and weapons charges in New York City. ](/news/2010/06/17/the-times-square-bombing-attempt-suspect-is-indicted-on-10-terrorism-and-weapons-charges-in-new-york-city.md)
@@ -83,11 +83,11 @@ _Context: Austrian politics, Hans Dichand, Austria_
 
 ##### Kenya
 ### [Kenyan Assistant Roads Minister Wilfred Machage is suspended by President Mwai Kibaki after being charged, alongside two other MPs, with inciting hatred yesterday. ](/news/2010/06/17/kenyan-assistant-roads-minister-wilfred-machage-is-suspended-by-president-mwai-kibaki-after-being-charged-alongside-two-other-mps-with-inc.md)
-_Context: Wilfred Machage, Kenya, Mwai Kibaki, president_
+_Context: Kenya, Mwai Kibaki, president, Wilfred Machage_
 
 ##### Rwanda
 ### [Rwanda releases from custody an American lawyer for health reasons. The lawyer is charged with genocide denial and threatening state security, the first outsider tried under the country's 2003 anti-genocide legislation. ](/news/2010/06/17/rwanda-releases-from-custody-an-american-lawyer-for-health-reasons-the-lawyer-is-charged-with-genocide-denial-and-threatening-state-securit.md)
-_Context: U.S., Rwanda_
+_Context: United States, Rwanda_
 
 ##### Surveillance cameras
 ### [Hundreds of surveillance cameras, alleged to be part of a counter-terrorism operation in highly Muslim areas, are put into temporary disuse in parts of Birmingham, England, after protest by the local population. ](/news/2010/06/17/hundreds-of-surveillance-cameras-alleged-to-be-part-of-a-counter-terrorism-operation-in-highly-muslim-areas-are-put-into-temporary-disuse.md)

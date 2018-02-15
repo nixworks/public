@@ -9,19 +9,19 @@ Lava and hot gas clouds have begun erupting from an Indonesian volcano, threaten
 
 ##### Flood
 ### [ Rescue workers start pumping water from a flooded coal mine in Xintai, Shandong where 172 Chinese miners are trapped. ](/news/2007/08/19/rescue-workers-start-pumping-water-from-a-flooded-coal-mine-in-xintai-shandong-where-172-chinese-miners-are-trapped.md)
-_Context: China, coal mine, flood, Shandong, Xintai_
+_Context: Shandong, flood, Xintai, coal mine, China_
 
 ##### Minnesota Governor
 ### [ The Governor of Minnesota Tim Pawlenty declares a state of emergency in six Minnesota counties as a result of flooding with six deaths reported. ](/news/2007/08/19/the-governor-of-minnesota-tim-pawlenty-declares-a-state-of-emergency-in-six-minnesota-counties-as-a-result-of-flooding-with-six-deaths-repo.md)
-_Context: Minnesota, Minnesota Governor, Ongoing flooding, Tim Pawlenty_
+_Context: Tim Pawlenty, Minnesota Governor, Ongoing flooding, Minnesota_
 
 ##### Heat wave
 ### [ A week-long heat wave in the southeast and midwest of the United States has caused the deaths of 49 with 12 deaths in Memphis, Tennessee. ](/news/2007/08/19/a-week-long-heat-wave-in-the-southeast-and-midwest-of-the-united-states-has-caused-the-deaths-of-49-with-12-deaths-in-memphis-tennessee.md)
-_Context: Memphis, Tennessee, U.S., heat wave_
+_Context: heat wave, United States, Memphis, Tennessee_
 
 ##### Philippines
 ### [ The Philippines army captures an Abu Sayyaf base on the island of Basilan following a heavy struggle with at least 35 soldiers and militants killed in the battle. ](/news/2007/08/19/the-philippines-army-captures-an-abu-sayyaf-base-on-the-island-of-basilan-following-a-heavy-struggle-with-at-least-35-soldiers-and-militant.md)
-_Context: Philippines, Basilan island, Abu Sayyaf_
+_Context: Basilan island, Abu Sayyaf, Philippines_
 
 ##### Kazakhstani legislative election, 2007
 ### [ Kazakhstani legislative election, 2007: President of Kazakhstan Nursultan Nazarbayev's Nur Otan party wins 88 per cent of the vote in yesterday's election and will be the only party represented in the Majilis or Kazakh parliament. ](/news/2007/08/19/kazakhstani-legislative-election-2007-president-of-kazakhstan-nursultan-nazarbayev-s-nur-otan-party-wins-88-per-cent-of-the-vote-in-yeste.md)
@@ -29,7 +29,7 @@ In parliamentary elections in Kazakhstan, President Nursultan Nazarbayev&#039;s 
 
 ##### Jamaica
 ### [ Jamaica prepares for Hurricane Dean with the hurricane already responsible for at least eight deaths on Caribbean islands St. Lucia, Martinique and Dominica. It is expected to hit the Cayman Islands on Monday and the Yucatn Peninsula on Tuesday with further impact on Mexico or Texas later in the week. ](/news/2007/08/19/jamaica-prepares-for-hurricane-dean-with-the-hurricane-already-responsible-for-at-least-eight-deaths-on-caribbean-islands-st-lucia-martin.md)
-_Context: Jamaica, Caribbean, Hurricane Dean, St. Lucia, Martinique, Cayman Islands, Texas, Yucatn Peninsula, hurricane, Dominica, Mexican_
+_Context: hurricane, St. Lucia, Mexican, Jamaica, Texas, Dominica, Hurricane Dean, Cayman Islands, Yucatn Peninsula, Martinique, Caribbean_
 
 ##### Thailand
 ### [ Voters in Thailand go to the polls for a referendum to decide whether to accept or reject a new constitution. A majority of voters appear to have supported it.](/news/2007/08/19/voters-in-thailand-go-to-the-polls-for-a-referendum-to-decide-whether-to-accept-or-reject-a-new-constitution-a-majority-of-voters-appear-t.md)

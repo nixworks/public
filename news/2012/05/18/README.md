@@ -25,11 +25,11 @@ Stocks closed near session lows Friday, with all three major averages posting th
 
 ##### Group of Eight
 ### [The Group of Eight meets in the United States at Camp David with the Greek debt crisis and associated Eurozone problems on the agenda. ](/news/2012/05/18/the-group-of-eight-meets-in-the-united-states-at-camp-david-with-the-greek-debt-crisis-and-associated-eurozone-problems-on-the-agenda.md)
-_Context: U.S., Greek debt crisis, Camp David, Group of Eight, Eurozone_
+_Context: Eurozone, Greek debt crisis, Camp David, Group of Eight, United States_
 
 ##### Sybrand van Haersma Buma
 ### [Sybrand van Haersma Buma is elected as the new party leader of the Christian Democratic Appeal (CDA) and becomes the "lijsttrekker" (top candidate) for the Dutch general election of 2012. ](/news/2012/05/18/sybrand-van-haersma-buma-is-elected-as-the-new-party-leader-of-the-christian-democratic-appeal-cda-and-becomes-the-lijsttrekker-top-can.md)
-_Context: lijsttrekker, party leader, general election in the Netherlands, CDA, Sybrand van Haersma Buma_
+_Context: lijsttrekker, Sybrand van Haersma Buma, party leader, CDA, general election in the Netherlands_
 
 ## [Previous Day...](/news/2012/05/17/index.md)
 

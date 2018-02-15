@@ -3,9 +3,9 @@ Formats: [HTML](2011/01/18/index.html)  [JSON](2011/01/18/index.json)  [XML](201
 
 ## [2011-01-18](/news/2011/01/18/index.md)
 
-##### U.S.
+##### United States
 ### [A US drone attack kills five militants in a compound in northwest Pakistan. ](/news/2011/01/18/a-us-drone-attack-kills-five-militants-in-a-compound-in-northwest-pakistan.md)
-_Context: War in North-West Pakistan, drone attack, U.S._
+_Context: drone attack, War in North-West Pakistan, United States_
 
 ##### Sudan People's Armed Forces
 ### [Three Sudanese army officers are killed in a clash between rebel forces and the army in western Darfur. ](/news/2011/01/18/three-sudanese-army-officers-are-killed-in-a-clash-between-rebel-forces-and-the-army-in-western-darfur.md)
@@ -25,7 +25,7 @@ _Context: Nigeria, Jos_
 
 ##### Sets herself alight
 ### [A 25-year-old unemployed male dies after setting himself on fire in Alexandria. Another man, aged 40, sets himself on fire in Cairo in protests against rising prices. ](/news/2011/01/18/a-25-year-old-unemployed-male-dies-after-setting-himself-on-fire-in-alexandria-another-man-aged-40-sets-himself-on-fire-in-cairo-in-prote.md)
-_Context: sets herself alight, Cairo, Alexandria_
+_Context: Cairo, sets herself alight, Alexandria_
 
 ##### U.S.
 ### [The U.S. Federal Communications Commission and the U.S. Justice Department approve a $28 billion merger of Comcast and NBC Universal with critics complaining of even greater media consolidation in the U.S. and how this merger removes competitive forces and hurts consumers. ](/news/2011/01/18/the-u-s-federal-communications-commission-and-the-u-s-justice-department-approve-a-28-billion-merger-of-comcast-and-nbc-universal-with-cr.md)
@@ -65,7 +65,7 @@ _Context: Sri Lanka_
 
 ##### Russian President
 ### [President of Russia Dmitry Medvedev, on his first visit to the West Bank as head of state, confirms "support [for] the inalienable right of the Palestinian people to an independent state with its capital in East Jerusalem." ](/news/2011/01/18/president-of-russia-dmitry-medvedev-on-his-first-visit-to-the-west-bank-as-head-of-state-confirms-support-for-the-inalienable-right-of.md)
-_Context: East Jerusalem, West Bank, Russian President, Dmitry Medvedev_
+_Context: Russian President, East Jerusalem, Dmitry Medvedev, West Bank_
 
 ##### Puntland
 ### [The Puntland autonomous region of Somalia says it is "breaking away" from the federation until a legitimate government is put in place. ](/news/2011/01/18/the-puntland-autonomous-region-of-somalia-says-it-is-breaking-away-from-the-federation-until-a-legitimate-government-is-put-in-place.md)
@@ -97,11 +97,11 @@ Irish PM Brian Cowen survives a secret confidence vote on his leadership in the 
 
 ##### Qatar Emir
 ### [Emir of Qatar Sheikh Hamad bin Khalifa Al Thani appoints Mohammed Saleh al-Sada as Energy Minister, succeeding Abdullah Al-Attiyah in a cabinet reshuffle. ](/news/2011/01/18/emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-appoints-mohammed-saleh-al-sada-as-energy-minister-succeeding-abdullah-al-attiyah-in-a-cabi.md)
-_Context: Abdullah Al-Attiyah, Energy Minister, Hamad bin Khalifa Al Thani, Qatar Emir, Qatar_
+_Context: Abdullah Al-Attiyah, Energy Minister, Qatar, Hamad bin Khalifa Al Thani, Qatar Emir_
 
 ##### Communist Party
 ### [Voting continues at a congress of the Communist Party of Vietnam as it selects a new leadership. ](/news/2011/01/18/voting-continues-at-a-congress-of-the-communist-party-of-vietnam-as-it-selects-a-new-leadership.md)
-_Context: Communist Party, Vietnam_
+_Context: Vietnam, Communist Party_
 
 ##### Kent Conrad
 ### [Kent Conrad, a Democrat from North Dakota, announces he will not run again in the 2012 Senate election. ](/news/2011/01/18/kent-conrad-a-democrat-from-north-dakota-announces-he-will-not-run-again-in-the-2012-senate-election.md)

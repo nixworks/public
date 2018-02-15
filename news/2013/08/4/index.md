@@ -3,7 +3,7 @@ Formats: [HTML](2013/08/4/index.html)  [JSON](2013/08/4/index.json)  [XML](2013/
 
 ## [2013-08-4](/news/2013/08/4/index.md)
 
-##### U.S.
+##### United States
 ### [The United States closes 22 embassies in the Middle East and North Africa due to intelligence of an Al-Qaeda attack. ](/news/2013/08/4/the-united-states-closes-22-embassies-in-the-middle-east-and-north-africa-due-to-intelligence-of-an-al-qaeda-attack.md)
 The Canadian embassy in Dhaka, the capital of Bangladesh, will be closed Sunday for security reasons, the Department of Foreign Affairs, Trade and Development said on its site.
 

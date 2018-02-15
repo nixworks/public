@@ -5,15 +5,15 @@ Formats: [HTML](2006/08/1/index.html)  [JSON](2006/08/1/index.json)  [XML](2006/
 
 ##### El Paso
 ### [ El Paso, Texas is hit by heavy, intense rain, causing much flooding and making the Rio Grande overflow its banks, reaching levels not seen in over 50 years. Roads are destroyed, dirt and rocks litter the streets. The West and Northeast sides are most heavily hit. Ciudad Jurez, across the United States-Mexico border is also devastated. ](/news/2006/08/1/el-paso-texas-is-hit-by-heavy-intense-rain-causing-much-flooding-and-making-the-rio-grande-overflow-its-banks-reaching-levels-not-seen.md)
-_Context: Rio Grande, El Paso, Juarez, United States-Mexico border_
+_Context: Rio Grande, United States-Mexico border, Juarez, El Paso_
 
 ##### Tropical Depression Chris
 ### [ Tropical Storm Chris forms east of the Lesser Antilles, prompting the issuance of tropical storm warnings for ten islands as well as tropical storm watches for Puerto Rico and the Virgin Islands. ](/news/2006/08/1/tropical-storm-chris-forms-east-of-the-lesser-antilles-prompting-the-issuance-of-tropical-storm-warnings-for-ten-islands-as-well-as-tropic.md)
-_Context: Lesser Antilles, hurricane warnings, Puerto Rico, Virgin Islands, Tropical Depression Chris_
+_Context: Tropical Depression Chris, Lesser Antilles, hurricane warnings, Puerto Rico, Virgin Islands_
 
 ##### Iran
 ### [ There is major outcry in Iran following the death of democracy activist Akbar Mohammadi in Evin Prison. Mohammadi was condemned to death for his role in the 1999 student protests at Tehran University. He had been on a hunger strike for more than a week, protesting the refusal by the Islamic Regime to allow him to seek proper medical treatment for life threatening injuries suffered as a result of torture. Reportedly he was beaten severely by prison guards the night of his death.](/news/2006/08/1/there-is-major-outcry-in-iran-following-the-death-of-democracy-activist-akbar-mohammadi-in-evin-prison-mohammadi-was-condemned-to-death-fo.md)
-_Context: hunger strike, torture, Iran, Human rights in Iran, 1999 student protests, Evin Prison, Akbar Mohammadi_
+_Context: torture, Akbar Mohammadi, Human rights in Iran, 1999 student protests, hunger strike, Evin Prison, Iran_
 
 ##### War
 ### [ The Battle of Ayta al-Sha`b rages, with multiple Israeli casualties. ](/news/2006/08/1/the-battle-of-ayta-al-sha-b-rages-with-multiple-israeli-casualties.md)

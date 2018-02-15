@@ -5,7 +5,7 @@ Formats: [HTML](2007/02/1/index.html)  [JSON](2007/02/1/index.json)  [XML](2007/
 
 ##### Harry Potter
 ### [ "Harry Potter" author J. K. Rowling announces the release date for her book, "Harry Potter and the Deathly Hallows", the final installment in the "Potter" series to be 21 July 2007. ](/news/2007/02/1/harry-potter-author-j-k-rowling-announces-the-release-date-for-her-book-harry-potter-and-the-deathly-hallows-the-final-installment.md)
-_Context: Harry Potter, J. K. Rowling, Harry Potter and the Deathly Hallows_
+_Context: J. K. Rowling, Harry Potter and the Deathly Hallows, Harry Potter_
 
 ##### Bundu dia Kongo
 ### [ 36 people are killed in clashes between Bundu dia Kongo, an opposition secessionist religious group and the police in a dispute over the election of provincial governors. ](/news/2007/02/1/36-people-are-killed-in-clashes-between-bundu-dia-kongo-an-opposition-secessionist-religious-group-and-the-police-in-a-dispute-over-the-el.md)
@@ -21,7 +21,7 @@ _Context: Shia insurgency in Yemen, Yemen_
 
 ##### Janelle Patton
 ### [ A trial for the murder of Janelle Patton on Norfolk Island starts with the defendant pleading not guilty. The murder was the first on the island for 150 years. ](/news/2007/02/1/a-trial-for-the-murder-of-janelle-patton-on-norfolk-island-starts-with-the-defendant-pleading-not-guilty-the-murder-was-the-first-on-the-i.md)
-_Context: Norfolk Island, Janelle Patton_
+_Context: Janelle Patton, Norfolk Island_
 
 ## [Previous Day...](/news/2007/01/31/index.md)
 

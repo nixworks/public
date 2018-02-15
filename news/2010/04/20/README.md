@@ -17,15 +17,15 @@ The oil rig that exploded and then sank 36 hours later could lead to a major oil
 
 ##### Bishop of Augsburg
 ### [Bishop of Augsburg Walter Mixa apologises and asks for forgiveness for his physical abuse of children in the 1970s and 1980s. ](/news/2010/04/20/bishop-of-augsburg-walter-mixa-apologises-and-asks-for-forgiveness-for-his-physical-abuse-of-children-in-the-1970s-and-1980s.md)
-_Context: Bishop of Augsburg, Walter Mixa_
+_Context: Walter Mixa, Bishop of Augsburg_
 
 ##### Reynaldo Bignone
 ### [82-year-old General Reynaldo Bignone, former military ruler of Argentina, is imprisoned for 25 years for abductions and tortures committed between 1978 and 1979. ](/news/2010/04/20/82-year-old-general-reynaldo-bignone-former-military-ruler-of-argentina-is-imprisoned-for-25-years-for-abductions-and-tortures-committed-b.md)
-_Context: Reynaldo Bignone, Argentina_
+_Context: Argentina, Reynaldo Bignone_
 
 ##### New York City
 ### [A New York businessman, Abdul Tawala Ibn Ali Alishtari is sentenced to 10 years in prison for funneling money to a terrorism training camp in Afghanistan. ](/news/2010/04/20/a-new-york-businessman-abdul-tawala-ibn-ali-alishtari-is-sentenced-to-10-years-in-prison-for-funneling-money-to-a-terrorism-training-camp-i.md)
-_Context: New York City, Abdul Tawala Ibn Ali Alishtari, Afghanistan, terrorism training camp_
+_Context: Afghanistan, Abdul Tawala Ibn Ali Alishtari, New York City, terrorism training camp_
 
 ##### Cairo
 ### [Dozens of people gather in central Cairo in a rare protest against the use of force on pro-democracy demonstrations which "pose a threat to the national security". ](/news/2010/04/20/dozens-of-people-gather-in-central-cairo-in-a-rare-protest-against-the-use-of-force-on-pro-democracy-demonstrations-which-pose-a-threat-to.md)
@@ -33,7 +33,7 @@ _Context: Cairo_
 
 ##### Omar al-Bashir
 ### [Omar al-Bashir's ruling party agrees to accept the results of the recent general election in Sudan. ](/news/2010/04/20/omar-al-bashir-s-ruling-party-agrees-to-accept-the-results-of-the-recent-general-election-in-sudan.md)
-_Context: Sudan, Omar al-Bashir, post-election protests_
+_Context: Omar al-Bashir, Sudan, post-election protests_
 
 ##### Palestine
 ### [Palestinian officials say they will oppose new Israeli orders on deporting Palestinians from the West Bank. ](/news/2010/04/20/palestinian-officials-say-they-will-oppose-new-israeli-orders-on-deporting-palestinians-from-the-west-bank.md)
@@ -57,19 +57,19 @@ Britain has been accused of complicity in the torture of Taliban suspects arrest
 
 ##### Kandahar
 ### [Deputy Mayor of Kandahar Azizollah Yarmal, Afghanistan is shot dead while praying at a mosque. ](/news/2010/04/20/deputy-mayor-of-kandahar-azizollah-yarmal-afghanistan-is-shot-dead-while-praying-at-a-mosque.md)
-_Context: Kandahar, Afghanistan, Azizollah Yarmal, mosque_
+_Context: mosque, Kandahar, Afghanistan, Azizollah Yarmal_
 
 ##### Sri Lanka
 ### [Repeat polls for Sri Lanka's April parliamentary election are held in Nawalapitiya and Trincomalee where ballots were annulled due to violence. ](/news/2010/04/20/repeat-polls-for-sri-lanka-s-april-parliamentary-election-are-held-in-nawalapitiya-and-trincomalee-where-ballots-were-annulled-due-to-violen.md)
-_Context: Sri Lanka, Nawalapitiya, Trincomalee, parliamentary election_
+_Context: Nawalapitiya, Trincomalee, Sri Lanka, parliamentary election_
 
 ##### U.S. President
 ### [President of the United States Barack Obama speaks of the "unbreakable bonds" and "special relationship" between his country and Israel on the 62nd anniversary of Israel's birth. ](/news/2010/04/20/president-of-the-united-states-barack-obama-speaks-of-the-unbreakable-bonds-and-special-relationship-between-his-country-and-israel-on-t.md)
-_Context: Israel, Barack Obama, U.S. President_
+_Context: Israel, U.S. President, Barack Obama_
 
 ##### United States Supreme Court
 ### [The United States Supreme Court, in ruling on "United States v. Stevens", strikes down a law outlawing videos that depict animal cruelty. ](/news/2010/04/20/the-united-states-supreme-court-in-ruling-on-united-states-v-stevens-strikes-down-a-law-outlawing-videos-that-depict-animal-cruelty.md)
-_Context: United States v. Stevens, United States Supreme Court_
+_Context: United States Supreme Court, United States v. Stevens_
 
 ##### Canadian
 ### [Two Canadian men are accused of committing an act of "flag desecration" in La Quinta, California, United States for allegedly replacing an American flag with a Canadian flag following Canada's ice hockey victory at the 2010 Winter Olympics. ](/news/2010/04/20/two-canadian-men-are-accused-of-committing-an-act-of-flag-desecration-in-la-quinta-california-united-states-for-allegedly-replacing-an-a.md)
@@ -97,7 +97,7 @@ International court rejects Argentine claims that Uruguay contaminated shared ri
 
 ##### Skyfall
 ### [Production of the 23rd James Bond film is put on indefinite hiatus due to uncertainty surrounding the future of MGM. ](/news/2010/04/20/production-of-the-23rd-james-bond-film-is-put-on-indefinite-hiatus-due-to-uncertainty-surrounding-the-future-of-mgm.md)
-_Context: Skyfall, MGM_
+_Context: MGM, Skyfall_
 
 ##### Orange Prize for Fiction
 ### [The shortlist for the Orange Prize for Fiction is announced. ](/news/2010/04/20/the-shortlist-for-the-orange-prize-for-fiction-is-announced.md)
@@ -105,7 +105,7 @@ _Context: Orange Prize for Fiction_
 
 ##### Karim Benzema
 ### [Karim Benzema and Hatem Ben Arfa are named as being involved in the France national football team's sex scandal. Franck Ribry admits sexual relations with an underage prostitute. ](/news/2010/04/20/karim-benzema-and-hatem-ben-arfa-are-named-as-being-involved-in-the-france-national-football-team-s-sex-scandal-franck-ribery-admits-sexual.md)
-_Context: Karim Benzema, Franck Ribry, French, Hatem Ben Arfa_
+_Context: Franck Ribry, Hatem Ben Arfa, Karim Benzema, French_
 
 ##### International Olympic Committee
 ### [Former International Olympic Committee (IOC) president (1980 - 2001) and honorary life president Juan Antonio Samaranch is in a "very critical" condition in Quiron Hospital, Barcelona, after suffering a heart attack. ](/news/2010/04/20/former-international-olympic-committee-ioc-president-1980-2001-and-honorary-life-president-juan-antonio-samaranch-is-in-a-very-critic.md)

@@ -5,15 +5,15 @@ Formats: [HTML](2005/02/20/index.html)  [JSON](2005/02/20/index.json)  [XML](200
 
 ##### Hunter S. Thompson
 ### [ American author and journalist Hunter S. Thompson is found dead in his Aspen, Colorado home, the result of an apparent suicide. ](/news/2005/02/20/american-author-and-journalist-hunter-s-thompson-is-found-dead-in-his-aspen-colorado-home-the-result-of-an-apparent-suicide.md)
-_Context: suicide, Aspen, Hunter S. Thompson_
+_Context: Hunter S. Thompson, Aspen, suicide_
 
 ##### Taiwan Strait
 ### [ The United States and Japan release a joint statement which says that easing tensions in the Taiwan Strait is among their "common strategic objectives". The statement is welcomed by the government of Taiwan, but is condemned by China. ](/news/2005/02/20/the-united-states-and-japan-release-a-joint-statement-which-says-that-easing-tensions-in-the-taiwan-strait-is-among-their-common-strategic.md)
-_Context: Taiwan, Taiwan Strait_
+_Context: Taiwan Strait, Taiwan_
 
 ##### United Nations High Commissioner for Refugees
 ### [ U.N. High Commissioner for Refugees Ruud Lubbers resigns over allegations of sexual harassment, while continuing to deny them. ](/news/2005/02/20/u-n-high-commissioner-for-refugees-ruud-lubbers-resigns-over-allegations-of-sexual-harassment-while-continuing-to-deny-them.md)
-_Context: United Nations High Commissioner for Refugees, sexual harassment, Ruud Lubbers_
+_Context: sexual harassment, Ruud Lubbers, United Nations High Commissioner for Refugees_
 
 ##### Referendum
 ### [ In Europe's first national referendum on the proposed European Constitution, the people of Spain vote to endorse the Treaty by a landslide 76.73% to 17.24%. However, turnout is an extremely low 42.32%, even after both the government and the main opposition party campaigned for a "yes" vote. ](/news/2005/02/20/in-europe-s-first-national-referendum-on-the-proposed-european-constitution-the-people-of-spain-vote-to-endorse-the-treaty-by-a-landslide.md)
@@ -29,7 +29,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### TRNC
 ### [ The Turkish Republic of Northern Cyprus votes in its early general election. The election was called by President Rauf Denktas after the coalition led by Mehmet Ali Talat finally lost its parliamentary majority. ](/news/2005/02/20/the-turkish-republic-of-northern-cyprus-votes-in-its-early-general-election-the-election-was-called-by-president-rauf-denktaa-after-the-c.md)
-_Context: Rauf Denktas, TRNC, Mehmet Ali Talat, general election_
+_Context: TRNC, Mehmet Ali Talat, general election, Rauf Denktas_
 
 ##### European Union
 ### [ The US and EU join the protests against Faure Gnassingbe of Togo. The Economic Community of West African States (ECOWAS) imposes sanctions and suspends Togo's membership in the organization and US does not accept his rule as legitimate and ends all military assistance ](/news/2005/02/20/the-us-and-eu-join-the-protests-against-faure-gnassingba-c-of-togo-the-economic-community-of-west-african-states-ecowas-imposes-sanctions.md)

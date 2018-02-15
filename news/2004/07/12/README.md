@@ -17,7 +17,7 @@ Read the latest national and world news on Newsday. All the top stores, latest v
 
 ##### Alberta
 ### [ Albertan Premier Ralph Klein announces that the province has completed repayment of its public debt, which once stood at CAD $23 billion. ](/news/2004/07/12/albertan-premier-ralph-klein-announces-that-the-province-has-completed-repayment-of-its-public-debt-which-once-stood-at-cad-23-billion.md)
-_Context: billion, province, Alberta, CAN$, Ralph Klein, public debt, Premier of Alberta_
+_Context: public debt, Alberta, Premier of Alberta, billion, province, CAN$, Ralph Klein_
 
 ## [Previous Day...](/news/2004/07/11/index.md)
 

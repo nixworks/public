@@ -5,19 +5,19 @@ Formats: [HTML](2005/08/25/index.html)  [JSON](2005/08/25/index.json)  [XML](200
 
 ##### Investigating magistrate
 ### [ French investigating magistrate Jean-Louis Bruguiere warns that Al-Qaeda is planning a terrorism attack in Asia, singling out Tokyo, Sydney and Singapore as potential targets. ](/news/2005/08/25/french-investigating-magistrate-jean-louis-bruguia-re-warns-that-al-qaeda-is-planning-a-terrorism-attack-in-asia-singling-out-tokyo-sydne.md)
-_Context: Asia, Tokyo, al-Qaeda, investigating magistrate, Sydney, Singapore, Jean-Louis Bruguiere_
+_Context: Tokyo, al-Qaeda, Sydney, Asia, Singapore, investigating magistrate, Jean-Louis Bruguiere_
 
 ##### Egypt
 ### [ Two Egyptian policemen die following two explosions in northern Sinai. ](/news/2005/08/25/two-egyptian-policemen-die-following-two-explosions-in-northern-sinai.md)
-_Context: Sinai Peninsula, Egypt_
+_Context: Egypt, Sinai Peninsula_
 
 ##### 2005 European floods
 ### [ At least 42 people die following a series of floods throughout Europe. ](/news/2005/08/25/at-least-42-people-die-following-a-series-of-floods-throughout-europe.md)
-_Context: 2005 European floods, Europe_
+_Context: Europe, 2005 European floods_
 
 ##### Kut
 ### [ 36 male corpses have been found in a shallow river near the town of Kut, Iraq. ](/news/2005/08/25/36-male-corpses-have-been-found-in-a-shallow-river-near-the-town-of-kut-iraq.md)
-_Context: Kut, Iraq_
+_Context: Iraq, Kut_
 
 ##### Federal Constitutional Court of Germany
 ### [ The German Constitutional Court rules that early elections on September 18 may go ahead. ](/news/2005/08/25/the-german-constitutional-court-rules-that-early-elections-on-september-18-may-go-ahead.md)

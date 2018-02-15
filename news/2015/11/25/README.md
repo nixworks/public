@@ -13,11 +13,11 @@ The Russian Air Force base in Latakia will be reinforced with S-400 SAM system, 
 
 ##### Balochistan conflict
 ### [Unidentified gunmen abduct 22 passengers from a coach in Kandasool near the city of Pasni. ](/news/2015/11/25/unidentified-gunmen-abduct-22-passengers-from-a-coach-in-kandasool-near-the-city-of-pasni.md)
-_Context: Pasni, Balochistan conflict_
+_Context: Balochistan conflict, Pasni_
 
 ##### Insurgency in the Maghreb (2002-present)
 ### [The Islamic State of Iraq and the Levant claim responsibility for yesterday's attack on Tunisia's presidential guard in Tunis that killed 14 people. ](/news/2015/11/25/the-islamic-state-of-iraq-and-the-levant-claim-responsibility-for-yesterday-s-attack-on-tunisia-s-presidential-guard-in-tunis-that-killed-14.md)
-_Context: Tunisia, Tunis, ISIL, Insurgency in the Maghreb (2002-present)_
+_Context: Tunis, Tunisia, Insurgency in the Maghreb (2002-present), ISIL_
 
 ##### German
 ### [Germany will deploy up to 650 troops to Mali as part of the U.N. peacekeeping mission in Mali (MINUSMA). ](/news/2015/11/25/germany-will-deploy-up-to-650-troops-to-mali-as-part-of-the-u-n-peacekeeping-mission-in-mali-minusma.md)
@@ -29,11 +29,11 @@ The arrival in Yemen of 450 Latin American troops adds a volatile new element in
 
 ##### November 2015 Paris attacks
 ### [The French Senate votes 325-0 to extend the fight against the Islamic State of Iraq and the Levant. ](/news/2015/11/25/the-french-senate-votes-325-0-to-extend-the-fight-against-the-islamic-state-of-iraq-and-the-levant.md)
-_Context: November 2015 Paris attacks, French Senate, ISIL_
+_Context: ISIL, French Senate, November 2015 Paris attacks_
 
 ##### War in Afghanistan (2015-present)
 ### [Several American personnel are suspended after an official report finds that human error was to blame for an airstrike on a Doctors without Borders hospital in the Afghan city of Kunduz in October that killed 30 people. No criminal charges were filed. ](/news/2015/11/25/several-american-personnel-are-suspended-after-an-official-report-finds-that-human-error-was-to-blame-for-an-airstrike-on-a-doctors-without.md)
-_Context: American, Kunduz hospital airstrike, Kunduz, Afghanistan, War in Afghanistan (2015-present), Doctors without Borders_
+_Context: American, Kunduz, Doctors without Borders, War in Afghanistan (2015-present), Afghanistan, Kunduz hospital airstrike_
 
 ##### India
 ### [An 18th-century pink Indian diamond worth at least $5 million and a Cartier diamond tiara are discovered in the jewelry recovered from Imelda Marcos. ](/news/2015/11/25/an-18th-century-pink-indian-diamond-worth-at-least-5-million-and-a-cartier-diamond-tiara-are-discovered-in-the-jewelry-recovered-from-imeld.md)
@@ -69,7 +69,7 @@ Pope Francis called on Wednesday for ethnic and religious reconciliation at the 
 
 ##### Associated Press
 ### [The Associated Press reports that Russia's crackdown on Muslims is fueling their exodus to ISIS. For example, Russia's southernmost republic of Dagestan keeps devout Muslims under surveillance, routinely raids their homes, and hauls them to police stations to give DNA samples and fingerprints. Regional police say nearly a third of the estimated 3,000 Russians who are believed to have gone to fight alongside IS militants in Syria are from Dagestan. The AP added, "Few efforts are made by Russian authorities to stop young men from leaving." ](/news/2015/11/25/the-associated-press-reports-that-russia-s-crackdown-on-muslims-is-fueling-their-exodus-to-isis-for-example-russia-s-southernmost-republic.md)
-_Context: Syria, fingerprint, surveillance, Muslim, ISIL, DNA samples, Dagestan, Russia, Associated Press_
+_Context: Syria, Russia, ISIL, Dagestan, fingerprint, DNA samples, Associated Press, Muslim, surveillance_
 
 ##### United States Treasury Department
 ### [The U.S. Treasury Department sanctions Syrian businessman George Haswani who "serves as a middleman" for oil purchases by the Syrian government from the Islamic State of Iraq and the Levant. His company, an engineering and construction firm, is also sanctioned. ](/news/2015/11/25/the-u-s-treasury-department-sanctions-syrian-businessman-george-haswani-who-serves-as-a-middleman-for-oil-purchases-by-the-syrian-governm.md)
@@ -77,7 +77,7 @@ The United States sanctioned a Syrian businessman on Wednesday who it said was a
 
 ##### Cruiserweight
 ### [Former world cruiserweight boxing champion O'Neil Bell is shot to death in a robbery in the American city of Atlanta. ](/news/2015/11/25/former-world-cruiserweight-boxing-champion-o-neil-bell-is-shot-to-death-in-a-robbery-in-the-american-city-of-atlanta.md)
-_Context: O'Neil Bell, Atlanta, boxing, cruiserweight_
+_Context: Atlanta, cruiserweight, boxing, O'Neil Bell_
 
 ##### Sergey Mironov
 ### [Sergey Mironov, leader of the Russian opposition party, A Just Russia, submits a bill to the State Duma on holding to account anyone who denies that the 1915 mass killings of Armenians by Ottoman Turkish forces was a "genocide". ](/news/2015/11/25/sergey-mironov-leader-of-the-russian-opposition-party-a-just-russia-submits-a-bill-to-the-state-duma-on-holding-to-account-anyone-who-den.md)

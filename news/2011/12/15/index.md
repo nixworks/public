@@ -5,9 +5,9 @@ Formats: [HTML](2011/12/15/index.html)  [JSON](2011/12/15/index.json)  [XML](201
 
 ##### Russia
 ### [Russia circulates a draft resolution condemning the violence in Syria. ](/news/2011/12/15/russia-circulates-a-draft-resolution-condemning-the-violence-in-syria.md)
-_Context: 2011 Syrian uprising, United Nations Security Council resolution, Russia, Syria_
+_Context: Russia, 2011 Syrian uprising, Syria, United Nations Security Council resolution_
 
-##### U.S.
+##### United States
 ### [The United States flag is lowered in Baghdad marking the end of U.S. military operations in Iraq after eight years of the Iraq War. ](/news/2011/12/15/the-united-states-flag-is-lowered-in-baghdad-marking-the-end-of-u-s-military-operations-in-iraq-after-eight-years-of-the-iraq-war.md)
 The flag of American forces in Iraq has been lowered in Baghdad bringing nearly nine years of US military operations in Iraq to a formal end.
 
@@ -17,7 +17,7 @@ _Context: 2010 Census_
 
 ##### Ningxia
 ### [A truck drives into a restaurant in Ningxia, China, killing seven people. ](/news/2011/12/15/a-truck-drives-into-a-restaurant-in-ningxia-china-killing-seven-people.md)
-_Context: Ningxia, China_
+_Context: China, Ningxia_
 
 ##### Bahrain
 ### [Police in Bahrain detain prominent blogger Zainab Alkhawaja during a protest near the capital Manama. ](/news/2011/12/15/police-in-bahrain-detain-prominent-blogger-zainab-alkhawaja-during-a-protest-near-the-capital-manama.md)
@@ -29,19 +29,19 @@ Homosexuals and transgender people in all regions face discrimination and violen
 
 ##### French President
 ### [Former President of France Jacques Chirac is found guilty of embezzlement and violating trust due to his hiring members of his party to fill non-existent jobs while Mayor of Paris. ](/news/2011/12/15/former-president-of-france-jacques-chirac-is-found-guilty-of-embezzlement-and-violating-trust-due-to-his-hiring-members-of-his-party-to-fill.md)
-_Context: Jacques Chirac, Mayor of Paris, embezzlement, French President_
+_Context: French President, embezzlement, Mayor of Paris, Jacques Chirac_
 
 ##### The Sun
 ### [Former editor of "The Sun" and the "News of the World" Piers Morgan is called to give evidence before the Leveson Inquiry, and will appear next week. ](/news/2011/12/15/former-editor-of-the-sun-and-the-news-of-the-world-piers-morgan-is-called-to-give-evidence-before-the-leveson-inquiry-and-will-appear-n.md)
-_Context: News of the World, The Sun, Piers Morgan, Leveson Inquiry_
+_Context: Piers Morgan, News of the World, The Sun, Leveson Inquiry_
 
 ##### France
 ### [A French court convicts Venezuela-born terrorist Carlos the Jackal of organising four deadly attacks in the 1980s. ](/news/2011/12/15/a-french-court-convicts-venezuela-born-terrorist-carlos-the-jackal-of-organising-four-deadly-attacks-in-the-1980s.md)
-_Context: France, Carlos the Jackal, Venezuela_
+_Context: France, Venezuela, Carlos the Jackal_
 
 ##### Feltham and Heston by-election
 ### [A by-election is held in the UK constituency of Feltham and Heston following the death of Labour's Alan Keen. ](/news/2011/12/15/a-by-election-is-held-in-the-uk-constituency-of-feltham-and-heston-following-the-death-of-labour-s-alan-keen.md)
-_Context: Alan Keen, Labour Party, Feltham and Heston by-election, Feltham and Heston_
+_Context: Feltham and Heston by-election, Alan Keen, Feltham and Heston, Labour Party_
 
 ##### United States Senate
 ### [Negotiators from the United States Senate and House of Representatives reach a budget agreement. ](/news/2011/12/15/negotiators-from-the-united-states-senate-and-house-of-representatives-reach-a-budget-agreement.md)

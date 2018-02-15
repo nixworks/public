@@ -5,7 +5,7 @@ Formats: [HTML](2016/03/9/index.html)  [JSON](2016/03/9/index.json)  [XML](2016/
 
 ##### War in Afghanistan (2015-present)
 ### [Taliban militants attack government offices in the southern Helmand Province of Afghanistan, with at least 10 killed, including seven of the attackers. ](/news/2016/03/9/taliban-militants-attack-government-offices-in-the-southern-helmand-province-of-afghanistan-with-at-least-10-killed-including-seven-of-the.md)
-_Context: Helmand Province, Afghanistan, Taliban, War in Afghanistan (2015-present)_
+_Context: Taliban, Afghanistan, War in Afghanistan (2015-present), Helmand Province_
 
 ##### War in Somalia (2009-present)
 ### [U.S. special forces, landing in two helicopters, stage an overnight raid on the al-Shabaab-controlled town of Awdhegele in Somalia's Lower Shebelle region. Al-Shabaab spokesman, Sheik Abduasiz Abu Musab, confirmed the raid saying "The helicopters landed outside town and the ground forces entered, there was heavy fighting and they were forced to flee"."They were masked and spoke foreign languages which our fighters could not understand," Abu Musab told Reuters. "We do not know who they were but we foiled them." ](/news/2016/03/9/u-s-special-forces-landing-in-two-helicopters-stage-an-overnight-raid-on-the-al-shabaab-controlled-town-of-awdhegele-in-somalia-s-lower-s.md)

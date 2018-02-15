@@ -25,7 +25,7 @@ _Context: Penghu Islands, TransAsia Airways Flight 222, Taiwan_
 
 ##### Typhoon Rammasun (Glenda)
 ### [The total death toll for Typhoon Rammasun (Glenda) reaches 151 as Typhoon Matmo (Henry) hits Taiwan. Typhoon Matmo has been described as a likely cause of the crash of Transasia Airways Flight 222. ](/news/2014/07/23/the-total-death-toll-for-typhoon-rammasun-glenda-reaches-151-as-typhoon-matmo-henry-hits-taiwan-typhoon-matmo-has-been-described-as-a-l.md)
-_Context: Typhoon Rammasun (Glenda), Taiwan_
+_Context: Taiwan, Typhoon Rammasun (Glenda)_
 
 ##### State Department
 ### [A glitch in the United States Department of State Consular Consolidated Database causes delays to issuing of US passports and visas around the world. ](/news/2014/07/23/a-glitch-in-the-united-states-department-of-state-consular-consolidated-database-causes-delays-to-issuing-of-us-passports-and-visas-around-t.md)
@@ -33,7 +33,7 @@ _Context: State Department_
 
 ##### Millau
 ### [Authorities in Millau, France have formally charged two men in last Sunday's machete attack in which three Clermont Auvergne rugby union players were injured. ](/news/2014/07/23/authorities-in-millau-france-have-formally-charged-two-men-in-last-sunday-s-machete-attack-in-which-three-clermont-auvergne-rugby-union-pla.md)
-_Context: France, rugby union, Clermont Auvergne, Millau_
+_Context: rugby union, Clermont Auvergne, Millau, France_
 
 ## [Previous Day...](/news/2014/07/22/index.md)
 

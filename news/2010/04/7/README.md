@@ -9,7 +9,7 @@ U.S. climate scientist James Hansen won a $100,000 environmental prize Wednesday
 
 ##### Gay & Lesbian Alliance Against Defamation
 ### [The Gay & Lesbian Alliance Against Defamation (GLAAD) announces that the number of LGBT characters on scripted programs in the United States has doubled since 2005. ](/news/2010/04/7/the-gay-lesbian-alliance-against-defamation-glaad-announces-that-the-number-of-lgbt-characters-on-scripted-programs-in-the-united-states.md)
-_Context: U.S., Gay & Lesbian Alliance Against Defamation, gay and bisexual men_
+_Context: Gay & Lesbian Alliance Against Defamation, United States, gay and bisexual men_
 
 ##### Kurmanbek Bakiyev
 ### [ President Kurmanbek Bakiyev reportedly flees the country, as the government steps down and protestors overrun the parliament building. The opposition announces the formation of a new provisional government headed by Roza Otunbayeva. ](/news/2010/04/7/president-kurmanbek-bakiyev-reportedly-flees-the-country-as-the-government-steps-down-and-protestors-overrun-the-parliament-building-the.md)
@@ -49,15 +49,15 @@ The chief executive of a Sydney football club says he will ignore a ruling by th
 
 ##### Prime Minister
 ### [Prime Minister of Thailand Abhisit Vejjajiva, declares a state of emergency after widespread anti-government protests and shortly after demonstrators stormed the country's parliament. ](/news/2010/04/7/prime-minister-of-thailand-abhisit-vejjajiva-declares-a-state-of-emergency-after-widespread-anti-government-protests-and-shortly-after-demo.md)
-_Context: National Assembly of Thailand, Abhisit Vejjajiva, Prime Minister_
+_Context: Abhisit Vejjajiva, National Assembly of Thailand, Prime Minister_
 
 ##### Amnesty International
 ### [Amnesty International's Secretary-General sparks a furor by saying that "jihad in self-defense" is not "antithetical" to human rights. ](/news/2010/04/7/amnesty-internationalas-secretary-general-sparks-a-furor-by-saying-that-ajihad-in-self-defensea-is-not-aantitheticala-to-human-rig.md)
-_Context: jihad, self-defense, Amnesty International, human rights_
+_Context: Amnesty International, jihad, self-defense, human rights_
 
 ##### Supreme Council of Antiquities
 ### [Sixteen countries attend a two-day conference organised by the Supreme Council of Antiquities in Cairo to discuss the retrieval of old items which were pillaged by other nations, such as the Rosetta Stone (held by the British Museum, London) and Queen Nefertitti's bust (held by the Neues Museum, Berlin). ](/news/2010/04/7/sixteen-countries-attend-a-two-day-conference-organised-by-the-supreme-council-of-antiquities-in-cairo-to-discuss-the-retrieval-of-old-items.md)
-_Context: London, Rosetta Stone, Berlin, British Museum, Cairo, Supreme Council of Antiquities, Nefertiti, Neues Museum_
+_Context: Nefertiti, Rosetta Stone, Cairo, British Museum, Neues Museum, Berlin, Supreme Council of Antiquities, London_
 
 ##### Grey Seal
 ### [A starving Grey Seal claiming to be from London Zoo is found in Skerries, Ireland. The Irish Seal Sanctuary asks the UK and Europe for help identifying it. ](/news/2010/04/7/a-starving-grey-seal-claiming-to-be-from-london-zoo-is-found-in-skerries-ireland-the-irish-seal-sanctuary-asks-the-uk-and-europe-for-help.md)
@@ -65,7 +65,7 @@ A young grey seal, with a London Zoo tag, has been found in Skerries and brought
 
 ##### Turkey
 ### [Turkey's Prime Minister, Recep Tayyip Erdogan, describes Israel as the "main threat to peace" in the Middle East. ](/news/2010/04/7/turkey-s-prime-minister-recep-tayyip-erdoaan-describes-israel-as-the-main-threat-to-peace-in-the-middle-east.md)
-_Context: Turkey, Recep Tayyip Erdogan, Prime Minister, Middle East, Israel_
+_Context: Turkey, Israel, Recep Tayyip Erdogan, Middle East, Prime Minister_
 
 ##### FC Barcelona
 ### [FC Barcelona's Lionel Messi is widely hailed as the best footballer in the world after scoring four goals for the first time in his career in one UEFA Champions League game, including his fourth hat-trick of 2010. ](/news/2010/04/7/fc-barcelona-s-lionel-messi-is-widely-hailed-as-the-best-footballer-in-the-world-after-scoring-four-goals-for-the-first-time-in-his-career-i.md)

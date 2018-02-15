@@ -5,19 +5,19 @@ Formats: [HTML](2010/03/16/index.html)  [JSON](2010/03/16/index.json)  [XML](201
 
 ##### Ancient tombs
 ### [Ancient tombs of Uganda's Bugandan kings, a World Heritage Site, are burnt down by unknown causes. ](/news/2010/03/16/ancient-tombs-of-uganda-s-bugandan-kings-a-world-heritage-site-are-burnt-down-by-unknown-causes.md)
-_Context: Uganda, kings, world heritage site, Ancient tombs, Buganda_
+_Context: Uganda, Buganda, Ancient tombs, kings, world heritage site_
 
 ##### Nauru
 ### [Nauru President Marcus Stephen dissolves Parliament, paving the way for an early general election, originally scheduled for 2011. ](/news/2010/03/16/nauru-president-marcus-stephen-dissolves-parliament-paving-the-way-for-an-early-general-election-originally-scheduled-for-2011.md)
-_Context: general election, Marcus Stephen, Parliament, President of Nauru, Nauru_
+_Context: Nauru, President of Nauru, Parliament, general election, Marcus Stephen_
 
 ##### Archbishop of Armagh
 ### [Archbishop of Armagh and Primate of All Ireland Cardinal Sen Brady is accused of using the "Nuremberg defence" and is told to resign by politicians, including Martin McGuinness, over his representation of the Church when two teenagers abused by Father Brendan Smyth were forced to sign an oath of silence. ](/news/2010/03/16/archbishop-of-armagh-and-primate-of-all-ireland-cardinal-sean-brady-is-accused-of-using-the-nuremberg-defence-and-is-told-to-resign-by-pol.md)
-_Context: Father Brendan Smyth, Archbishop of Armagh, Martin McGuinness, oath of silence, Cardinal Sen Brady, Primate of All Ireland, Nuremberg defence_
+_Context: Martin McGuinness, Archbishop of Armagh, Father Brendan Smyth, Cardinal Sen Brady, Nuremberg defence, Primate of All Ireland, oath of silence_
 
 ##### Roman Catholic
 ### [A man who used to teach at a Roman Catholic religious order's schools in Spain is arrested in Chile on suspicion of sexually abusing children. ](/news/2010/03/16/a-man-who-used-to-teach-at-a-roman-catholic-religious-order-s-schools-in-spain-is-arrested-in-chile-on-suspicion-of-sexually-abusing-childre.md)
-_Context: Chile, Roman Catholic, Spain_
+_Context: Roman Catholic, Chile, Spain_
 
 ##### Sri Lanka
 ### [The military trial of Sri Lanka's former army chief Sarath Fonseka, charged with participating in politics while in uniform, is adjourned at the end of day one. ](/news/2010/03/16/the-military-trial-of-sri-lanka-s-former-army-chief-sarath-fonseka-charged-with-participating-in-politics-while-in-uniform-is-adjourned-at.md)
@@ -41,7 +41,7 @@ The discovery of shrimp (lyssianasid amphipod) under the Antarctic ice could mea
 
 ##### Michael Jackson
 ### [Michael Jackson's estate signs history's largest recording deal with Sony Music. ](/news/2010/03/16/michael-jackson-s-estate-signs-history-s-largest-recording-deal-with-sony-music.md)
-_Context: Michael Jackson, Sony Music_
+_Context: Sony Music, Michael Jackson_
 
 ##### Sahil Saeed
 ### [Sahil Saeed is located alive and well in a field in Pakistan after being deposited at a school. ](/news/2010/03/16/sahil-saeed-is-located-alive-and-well-in-a-field-in-pakistan-after-being-deposited-at-a-school.md)
@@ -53,7 +53,7 @@ _Context: Peshawar, Pakistan Olympic Association_
 
 ##### National Gendarmerie
 ### [A French gendarme is killed by ETA terrorist members near Paris, in the first murder of a French police officer by ETA. ](/news/2010/03/16/a-french-gendarme-is-killed-by-eta-terrorist-members-near-paris-in-the-first-murder-of-a-french-police-officer-by-eta.md)
-_Context: ETA, Paris, National Gendarmerie_
+_Context: Paris, ETA, National Gendarmerie_
 
 ## [Previous Day...](/news/2010/03/15/index.md)
 

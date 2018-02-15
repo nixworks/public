@@ -19,13 +19,13 @@ Abbas blames Israel for escalation in West Bank violence after two alleged fireb
 ### [South Africa's President Jacob Zuma announces full withdrawal from the Central African Republic after criticism over death of 13 soldiers during the fall of the government there. ](/news/2013/04/4/south-africa-s-president-jacob-zuma-announces-full-withdrawal-from-the-central-african-republic-after-criticism-over-death-of-13-soldiers-du.md)
 President Jacob Zuma announces full withdrawal from Central African Republic after criticism over death of 13 soldiers.
 
-##### U.S.
+##### United States
 ### [American Pulitzer Prize-winning film reviewer Roger Ebert dies at the age of 70 following a battle with cancer which initially cost him his voice. ](/news/2013/04/4/american-pulitzer-prize-winning-film-reviewer-roger-ebert-dies-at-the-age-of-70-following-a-battle-with-cancer-which-initially-cost-him-his.md)
 Ebert had been the film critic for the Chicago Sun-Times since April 3, 1967. He battled cancer publicly, but still wrote more than 200 reviews a year for the paper.
 
 ##### Rio Tinto
 ### [Mining giant Rio Tinto, continuing a program of asset divestment, asks Macquarie Group to find a buyer for its interest in the Australian Northparkes copper and gold mine. ](/news/2013/04/4/mining-giant-rio-tinto-continuing-a-program-of-asset-divestment-asks-macquarie-group-to-find-a-buyer-for-its-interest-in-the-australian-no.md)
-_Context: Northparkes, copper, Macquarie Group, Rio Tinto, gold_
+_Context: gold, copper, Northparkes, Rio Tinto, Macquarie Group_
 
 ##### CEO
 ### [Ex-CEO of Enron Jeffrey Skilling is in talks with federal prosecutors to discuss a reduction in his sentence. ](/news/2013/04/4/ex-ceo-of-enron-jeffrey-skilling-is-in-talks-with-federal-prosecutors-to-discuss-a-reduction-in-his-sentence.md)
@@ -37,19 +37,19 @@ At least 45 people are killed, including 15 children, after a building being con
 
 ##### 2013 Argentina floods
 ### [2013 Argentina floods: The death toll of the floods in Argentina reaches 59, with more than 1500 displaced. ](/news/2013/04/4/2013-argentina-floods-the-death-toll-of-the-floods-in-argentina-reaches-59-with-more-than-1500-displaced.md)
-_Context: 2013 Argentina floods, Argentina, floods_
+_Context: floods, Argentina, 2013 Argentina floods_
 
 ##### Grozny
 ### [One of the Grozny-City Towers, the tallest building in Chechnya, Russia, is damaged in a large fire. ](/news/2013/04/4/one-of-the-grozny-city-towers-the-tallest-building-in-chechnya-russia-is-damaged-in-a-large-fire.md)
-_Context: Russia, Grozny, Chechnya_
+_Context: Russia, Chechnya, Grozny_
 
 ##### H7N9
 ### [The death toll from the recently discovered H7N9 bird flu rises to six. China begin slaughtering birds in hopes of containing the disease. ](/news/2013/04/4/the-death-toll-from-the-recently-discovered-h7n9-bird-flu-rises-to-six-china-begin-slaughtering-birds-in-hopes-of-containing-the-disease.md)
 The death toll from a new strain of bird flu rose to six in China on Thursday as scientists at the U.S. Centers for Disease Control and Prevention and around the world stepped up efforts to determine...
 
-##### U.S.
+##### United States
 ### [A group of American scientists at Washington University announce in a study published in the journal "Neuron" that they have identified a number of genetic markers that are associated with increased risk of Alzheimer's disease. ](/news/2013/04/4/a-group-of-american-scientists-at-washington-university-announce-in-a-study-published-in-the-journal-neuron-that-they-have-identified-a-nu.md)
-_Context: U.S., Washington University, Alzheimer's disease, genetic markers, ''Neuron''_
+_Context: ''Neuron'', genetic markers, United States, Washington University, Alzheimer's disease_
 
 ##### South Korea
 ### [South Korean sources say a North Korean medium range missile has been moved to the eastern coast and that it may be ready for testing or for attacking Japan or Guam. ](/news/2013/04/4/south-korean-sources-say-a-north-korean-medium-range-missile-has-been-moved-to-the-eastern-coast-and-that-it-may-be-ready-for-testing-or-for.md)
@@ -77,11 +77,11 @@ Undercover U.S. agents have arrested the former navy chief of Guinea Bissau, wan
 
 ##### Jackson
 ### [In Jackson, Mississippi, Jeremy Powell, 23, a suspect in the stabbing death of a 20-year-old male, and Eric Smith, a Jackson Police Department homicide detective, who had been conducting the police interview with Powell, are found dead in a 3rd floor room of the department, according to Jackson Police Chief Rebecca Coleman. ](/news/2013/04/4/in-jackson-mississippi-jeremy-powell-23-a-suspect-in-the-stabbing-death-of-a-20-year-old-male-and-eric-smith-a-jackson-police-departme.md)
-_Context: homicide, Jackson, Mississippi, interview, detective, stabbed_
+_Context: Mississippi, Jackson, homicide, interview, detective, stabbed_
 
 ##### Banda Aceh
 ### [Thousands of demonstrators rally in Banda Aceh, the capital of Indonesia's Aceh province, in support of local leaders' bid to adopt a separatist flag as the staunchly Islamic province's official emblem. ](/news/2013/04/4/thousands-of-demonstrators-rally-in-banda-aceh-the-capital-of-indonesia-s-aceh-province-in-support-of-local-leaders-bid-to-adopt-a-separa.md)
-_Context: separatist, Banda Aceh, Islam, Indonesia, Aceh, emblem_
+_Context: Banda Aceh, Islam, emblem, Indonesia, separatist, Aceh_
 
 ##### Hubble Space Telescope
 ### [The Hubble Space Telescope observes the most distant supernova on record. ](/news/2013/04/4/the-hubble-space-telescope-observes-the-most-distant-supernova-on-record.md)
@@ -93,7 +93,7 @@ Scientists have built a 3-D printer that creates material resembling human tissu
 
 ##### Tarantula
 ### [A new species of giant tarantula, "Poecilotheria rajaei", is discovered in Sri Lanka. ](/news/2013/04/4/a-new-species-of-giant-tarantula-poecilotheria-rajaei-is-discovered-in-sri-lanka.md)
-_Context: Poecilotheria rajaei, Sri Lanka, tarantula_
+_Context: tarantula, Sri Lanka, Poecilotheria rajaei_
 
 ## [Previous Day...](/news/2013/04/3/index.md)
 

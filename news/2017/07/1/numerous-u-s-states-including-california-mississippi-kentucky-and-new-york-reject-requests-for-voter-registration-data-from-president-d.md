@@ -21,7 +21,7 @@ Formats: [HTML](/news/2017/07/1/numerous-u-s-states-including-california-mississ
 
 ### Related:
 
-1. [U.S. President Donald Trump introduces his US$1.5 trillion federal infrastructure plan to several governors and mayors at the White House. ](/news/2018/02/12/u-s-president-donald-trump-introduces-his-us-1-5-trillion-federal-infrastructure-plan-to-several-governors-and-mayors-at-the-white-house.md) _Context: Donald Trump, Presidency of Donald Trump_
+1. [U.S. President Donald Trump sends his US$4.4 trillion 2019 budget proposal to Congress. ](/news/2018/02/12/u-s-president-donald-trump-sends-his-us-4-4-trillion-2019-budget-proposal-to-congress.md) _Context: Donald Trump, Presidency of Donald Trump_
 2. [U.S. President Donald Trump dissolves the voter fraud commission noting the cost to the public of litigating against lawsuits from states objecting to the voter information requested. ](/news/2018/01/3/u-s-president-donald-trump-dissolves-the-voter-fraud-commission-noting-the-cost-to-the-public-of-litigating-against-lawsuits-from-states-ob.md) _Context: Donald Trump, voter fraud_
 3. [Andrew McCabe resigns as Deputy Director of the Federal Bureau of Investigation amid a dispute with President Donald Trump. ](/news/2018/01/29/andrew-mccabe-resigns-as-deputy-director-of-the-federal-bureau-of-investigation-amid-a-dispute-with-president-donald-trump.md) _Context: Donald Trump, Presidency of Donald Trump_
 4. [The cost of the Oroville Dam spill rises to US$870 million. The U.S. state of California continues to hope for federal aid for the project. ](/news/2018/01/26/the-cost-of-the-oroville-dam-spill-rises-to-us-870-million-the-u-s-state-of-california-continues-to-hope-for-federal-aid-for-the-project.md) _Context: California, U.S. state_

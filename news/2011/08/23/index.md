@@ -13,7 +13,7 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 
 ##### Islam
 ### [Suspected Islamic insurgents kill two Thai Army soldiers and wound 14 other people in southern Thailand. ](/news/2011/08/23/suspected-islamic-insurgents-kill-two-thai-army-soldiers-and-wound-14-other-people-in-southern-thailand.md)
-_Context: Thailand, Islam, Thai Army_
+_Context: Thailand, Thai Army, Islam_
 
 ##### Human Rights Council
 ### [The United Nations Human Rights Council orders an investigation into alleged human rights violations by the Government of Syria in the 2011 Syrian uprising. ](/news/2011/08/23/the-united-nations-human-rights-council-orders-an-investigation-into-alleged-human-rights-violations-by-the-government-of-syria-in-the-2011.md)
@@ -21,15 +21,15 @@ The UN Human Rights Council orders an international inquiry to look into alleged
 
 ##### Palestinian
 ### [At least one Palestinian is killed and several injured following an Israeli drone aircraft attack on Gaza shortly after an informal ceasefire was reached. ](/news/2011/08/23/at-least-one-palestinian-is-killed-and-several-injured-following-an-israeli-drone-aircraft-attack-on-gaza-shortly-after-an-informal-ceasefir.md)
-_Context: Gaza Strip, Palestinian, drone aircraft_
+_Context: Gaza Strip, drone aircraft, Palestinian_
 
 ##### Swiss
 ### [Swiss bank UBS AG announces plans to cut 3,500 jobs. ](/news/2011/08/23/swiss-bank-ubs-ag-announces-plans-to-cut-3-500-jobs.md)
-_Context: Swiss, UBS AG_
+_Context: UBS AG, Swiss_
 
 ##### Hurricane Irene
 ### [Hurricane Irene reaches Category 2 strength as it hits the island of Hispaniola containing Haiti and the Dominican Republic. ](/news/2011/08/23/hurricane-irene-reaches-category-2-strength-as-it-hits-the-island-of-hispaniola-containing-haiti-and-the-dominican-republic.md)
-_Context: Haiti, Dominican Republic, Hurricane Irene, Hispaniola_
+_Context: Haiti, Dominican Republic, Hispaniola, Hurricane Irene_
 
 ##### Magnitude 5.8 earthquake
 ### [A magnitude 5.8 earthquake strikes near Mineral, Virginia; a nearby nuclear reactor is automatically shutdown due to the quake. This is the most powerful earthquake to hit Virginia since 1897. ](/news/2011/08/23/a-magnitude-5-8-earthquake-strikes-near-mineral-virginia-a-nearby-nuclear-reactor-is-automatically-shutdown-due-to-the-quake-this-is-the.md)
@@ -53,11 +53,11 @@ A petition calling for Hillsborough disaster Cabinet papers to be released reach
 
 ##### Conspiracy to hack mobile phones
 ### [The BBC reports that former "News of the World" editor Andy Coulson continued to receive a severance pay package from News International while working as Director of Communications for the Conservative Party. ](/news/2011/08/23/the-bbc-reports-that-former-news-of-the-world-editor-andy-coulson-continued-to-receive-a-severance-pay-package-from-news-international-whi.md)
-_Context: conspiracy to hack mobile phones, News International, Conservative Party, Andy Coulson, News of the World, BBC_
+_Context: BBC, conspiracy to hack mobile phones, News International, News of the World, Conservative Party, Andy Coulson_
 
 ##### Hattiesburg
 ### [Hattiesburg Mayor Johnny DuPree is declared the winner in the Democratic Party primary election in Mississippi, becoming the first black candidate to win a major party nomination in a gubernatorial race. ](/news/2011/08/23/hattiesburg-mayor-johnny-dupree-is-declared-the-winner-in-the-democratic-party-primary-election-in-mississippi-becoming-the-first-black-can.md)
-_Context: Mississippi, major party nomination, Hattiesburg, Johnny DuPree, primary election, Democrat_
+_Context: major party nomination, Johnny DuPree, Mississippi, primary election, Hattiesburg, Democrat_
 
 ## [Previous Day...](/news/2011/08/22/index.md)
 

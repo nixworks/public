@@ -7,9 +7,9 @@ Formats: [HTML](2010/03/23/index.html)  [JSON](2010/03/23/index.json)  [XML](201
 ### [A fire tears through a combined residential and office building in Calcutta, India, killing 24 people, including two who leapt to their deaths. ](/news/2010/03/23/a-fire-tears-through-a-combined-residential-and-office-building-in-calcutta-india-killing-24-people-including-two-who-leapt-to-their-deat.md)
 _Context: Calcutta, India_
 
-##### U.S.
+##### United States
 ### [United States issues new warnings of Al-Qaeda threat to attack ships off coast of Yemen ](/news/2010/03/23/united-states-issues-new-warnings-of-al-qaeda-threat-to-attack-ships-off-coast-of-yemen.md)
-_Context: al-Qaeda, U.S., Yemen_
+_Context: Yemen, al-Qaeda, United States_
 
 ##### Pakistan
 ### [5,000 people at a rally in the town of Kotli in Pakistan-administered Kashmir vow to wage a holy war to "liberate" the disputed Himalayan state of Kashmir from India on 70th anniversary of resolution to seek independence separately from India ](/news/2010/03/23/5-000-people-at-a-rally-in-the-town-of-kotli-in-pakistan-administered-kashmir-vow-to-wage-a-holy-war-to-liberate-the-disputed-himalayan-st.md)
@@ -29,7 +29,7 @@ _Context: Goodluck Jonathan, President_
 
 ##### Sudan
 ### [Sudan's President Omar al-Bashir threatens to expel international observers for the first general elections in the country in 21 years, after they called for a delay to deal with "logistical" problems. ](/news/2010/03/23/sudan-s-president-omar-al-bashir-threatens-to-expel-international-observers-for-the-first-general-elections-in-the-country-in-21-years-afte.md)
-_Context: Sudan, post-election protests, Omar al-Bashir, President of Sudan_
+_Context: President of Sudan, post-election protests, Omar al-Bashir, Sudan_
 
 ##### Libya
 ### [Libya releases 214 Islamist inmates in what is described as "a historic event". ](/news/2010/03/23/libya-releases-214-islamist-inmates-in-what-is-described-as-a-historic-event.md)
@@ -43,7 +43,7 @@ A German court has sentenced an 88-year-old former SS member to life in prison f
 ### [Four German pensioners aged 61 to 80 are found guilty of kidnapping their own financial adviser from his home and driving him 450km (280 miles) to southern Bavaria, with the ringleader and his accomplice being jailed. ](/news/2010/03/23/four-german-pensioners-aged-61-to-80-are-found-guilty-of-kidnapping-their-own-financial-adviser-from-his-home-and-driving-him-450km-280-mil.md)
 _Context: German, Bavaria_
 
-##### U.S.
+##### United States
 ### [United States President Barack Obama signs the health care reform bill into law. ](/news/2010/03/23/united-states-president-barack-obama-signs-the-health-care-reform-bill-into-law.md)
 The most sweeping social legislation enacted in decades became law after a festive, at times raucous, signing ceremony in the White House on Tuesday.
 
@@ -57,11 +57,11 @@ Beijing accuses search giant of breaking promises to abide by Chinese laws.
 
 ##### Turkey
 ### [A Turkish ship is hijacked by Somali pirates more than 1,000 miles away from the coast of Somalia and closer to India. ](/news/2010/03/23/a-turkish-ship-is-hijacked-by-somali-pirates-more-than-1-000-miles-away-from-the-coast-of-somalia-and-closer-to-india.md)
-_Context: Somali pirates, Turkey, Somalia, India_
+_Context: India, Turkey, Somali pirates, Somalia_
 
 ##### Virgin Galactic's
 ### [Virgin Galactic's SpaceShipTwo is shown on its maiden flight from the Mojave Air and Spaceport in Mojave, California, United States. ](/news/2010/03/23/virgin-galactic-s-spaceshiptwo-is-shown-on-its-maiden-flight-from-the-mojave-air-and-spaceport-in-mojave-california-united-states.md)
-_Context: Virgin Galactic's, Mojave Air and Spaceport, Mojave, California, SpaceShipTwo_
+_Context: Mojave Air and Spaceport, Virgin Galactic's, Mojave, California, SpaceShipTwo_
 
 ##### Burma
 ### [Burma's High Court refuses to accept a lawsuit by the National League for Democracy against the ruling State Peace and Development Council for what they allege are unfair and discriminatory election laws. ](/news/2010/03/23/burma-s-high-court-refuses-to-accept-a-lawsuit-by-the-national-league-for-democracy-against-the-ruling-state-peace-and-development-council-f.md)
@@ -69,7 +69,7 @@ Court refuses to hear lawsuit against new election laws that bar oppositiion lea
 
 ##### Zimbabwe
 ### [Zimbabwe's finance minister Tendai Biti is involved in a car crash. ](/news/2010/03/23/zimbabwe-s-finance-minister-tendai-biti-is-involved-in-a-car-crash.md)
-_Context: Zimbabwe, Tendai Biti_
+_Context: Tendai Biti, Zimbabwe_
 
 ## [Previous Day...](/news/2010/03/22/index.md)
 

@@ -21,7 +21,7 @@ Vietnam’s Ministry of Justice has followed on the heels of the country’s Min
 
 ##### Fiat
 ### [Fiat wins at least a partial victory in Delaware Chancery Court, but the judge declines its invitation to order a United Autoworkers affiliated trust to sell its Chrysler shares to the Italian company. ](/news/2013/07/30/fiat-wins-at-least-a-partial-victory-in-delaware-chancery-court-but-the-judge-declines-its-invitation-to-order-a-united-autoworkers-affilia.md)
-_Context: Fiat, Chrysler, Delaware Chancery Court, United Autoworkers_
+_Context: Delaware Chancery Court, Fiat, United Autoworkers, Chrysler_
 
 ##### India
 ### [At least nine children are killed and another twenty injured after their school bus collides with a truck in the Indian city of Hanumangarh in Rajasthan state. ](/news/2013/07/30/at-least-nine-children-are-killed-and-another-twenty-injured-after-their-school-bus-collides-with-a-truck-in-the-indian-city-of-hanumangarh.md)
@@ -69,7 +69,7 @@ _Context: Internet forum, Raif Badawi, religion in Saudi Arabia_
 
 ##### Mamnoon Hussain
 ### [Mamnoon Hussain is elected as the 12th President of Pakistan. ](/news/2013/07/30/mamnoon-hussain-is-elected-as-the-12th-president-of-pakistan.md)
-_Context: president, Mamnoon Hussain, elected_
+_Context: Mamnoon Hussain, president, elected_
 
 ## [Previous Day...](/news/2013/07/29/index.md)
 

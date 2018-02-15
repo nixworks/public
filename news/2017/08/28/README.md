@@ -17,7 +17,7 @@ India and China have agreed to end a months-long military stand-off at a dispute
 
 ##### Same-sex marriage in Chile
 ### [Chilean President Michelle Bachelet sends a bill to Congress for the legalization of same-sex marriage in Chile and adoption by same-sex couples, two years after recognizing civil unions for both same-gender and different-gender couples. ](/news/2017/08/28/chilean-president-michelle-bachelet-sends-a-bill-to-congress-for-the-legalization-of-same-sex-marriage-in-chile-and-adoption-by-same-sex-cou.md)
-_Context: Chile, civil union, same-sex marriage, Same-sex marriage in Chile, Michelle Bachelet_
+_Context: Chile, Michelle Bachelet, civil union, same-sex marriage, Same-sex marriage in Chile_
 
 ##### Crime in Germany
 ### [Investigations concerning Niels Hogel, a German nurse already convicted for murdering two of his patients, revealed that the number of people killed while in his care is significantly higher, reaching at least 84, with some estimates being even higher. This makes Hogel the serial killer with the highest known victim count in modern German history. ](/news/2017/08/28/investigations-concerning-niels-hapgel-a-german-nurse-already-convicted-for-murdering-two-of-his-patients-revealed-that-the-number-of-peop.md)
@@ -29,7 +29,7 @@ A teenager who killed two people and wounded four others in a shooting at a smal
 
 ##### Crime in Mexico
 ### [Mexican authorities say two suspected thieves died after a mob beat them and four others in Tlatlauquitepec, Puebla, Mexico. ](/news/2017/08/28/mexican-authorities-say-two-suspected-thieves-died-after-a-mob-beat-them-and-four-others-in-tlatlauquitepec-puebla-mexico.md)
-_Context: Mexican, Puebla, Tlatlauquitepec, Crime in Mexico_
+_Context: Tlatlauquitepec, Crime in Mexico, Mexican, Puebla_
 
 ## [Previous Day...](/news/2017/08/27/index.md)
 

@@ -9,7 +9,7 @@ Singapore has been identified as a possible target for attack by a recent Islami
 
 ##### Balochistan conflict
 ### [Gunmen in Pakistan's Balochistan Province attack two buses killing at least 19 people. ](/news/2015/05/29/gunmen-in-pakistan-s-balochistan-province-attack-two-buses-killing-at-least-19-people.md)
-_Context: Pakistan, Balochistan, Balochistan conflict_
+_Context: Balochistan, Balochistan conflict, Pakistan_
 
 ##### Volcano
 ### [A volcano erupts on the Japanese island of Kuchinoerabu-jima prompting the evacuation of all residents and the diversion of all flights. ](/news/2015/05/29/a-volcano-erupts-on-the-japanese-island-of-kuchinoerabu-jima-prompting-the-evacuation-of-all-residents-and-the-diversion-of-all-flights.md)
@@ -35,7 +35,7 @@ Thailand is to allow the US to fly surveillance planes through its airspace to h
 ### [Irish Naval Service patrol vessel LE Eithne rescues 300 migrants in the Mediterranean Sea off the coast of Libya. ](/news/2015/05/29/irish-naval-service-patrol-vessel-la-eithne-rescues-300-migrants-in-the-mediterranean-sea-off-the-coast-of-libya.md)
 An Irish Naval Service vessel helps to rescue another 300 migrants off the coast of Libya, the Irish minister for defence has said.
 
-##### U.S.
+##### United States
 ### [The United States officially removes Cuba from its list of State Sponsors of Terrorism. ](/news/2015/05/29/the-united-states-officially-removes-cuba-from-its-list-of-state-sponsors-of-terrorism.md)
 The U.S. has formally dropped Cuba from the list of state sponsors of terrorism.
 
@@ -53,11 +53,11 @@ _Context: Dustin Diamond, Wisconsin_
 
 ##### Muhammadu Buhari
 ### [Muhammadu Buhari is sworn in as the President of Nigeria following a recent election. ](/news/2015/05/29/muhammadu-buhari-is-sworn-in-as-the-president-of-nigeria-following-a-recent-election.md)
-_Context: Muhammadu Buhari, President_
+_Context: President, Muhammadu Buhari_
 
 ##### Democratic Party presidential primaries, 2016
 ### [Former Governor of Maryland Martin O'Malley will announce his candidacy for President of the United States at 10:00 am on May 30. ](/news/2015/05/29/former-governor-of-maryland-martin-o-malley-will-announce-his-candidacy-for-president-of-the-united-states-at-10-00-am-on-may-30.md)
-_Context: Martin O'Malley, Governor, Democratic Party presidential primaries, 2016_
+_Context: Democratic Party presidential primaries, 2016, Governor, Martin O'Malley_
 
 ## [Previous Day...](/news/2015/05/28/index.md)
 

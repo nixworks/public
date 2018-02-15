@@ -9,7 +9,7 @@ A man shot in the head near a synagogue in central Copenhagen early today died s
 
 ##### Internal conflict in Burma
 ### [The Myanmar Army kills around a dozen Kokang rebels and capture another eight in Kokang offensive. ](/news/2015/02/15/the-myanmar-army-kills-around-a-dozen-kokang-rebels-and-capture-another-eight-in-kokang-offensive.md)
-_Context: Kokang rebels, Myanmar Army, Internal conflict in Burma, Kokang offensive_
+_Context: Myanmar Army, Kokang rebels, Internal conflict in Burma, Kokang offensive_
 
 ##### Boko Haram insurgency
 ### [A suicide bomber kills seven and wounds 30 in Nigerian city of Damaturu. ](/news/2015/02/15/a-suicide-bomber-kills-seven-and-wounds-30-in-nigerian-city-of-damaturu.md)

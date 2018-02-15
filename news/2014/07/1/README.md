@@ -13,7 +13,7 @@ _Context: Hamas, Gaza-Israel conflict, Gaza Strip_
 
 ##### Islamist insurgency in Nigeria
 ### [A car bomb explodes in a market in the northeast Nigerian town of Maiduguri, the birthplace of Boko Haram, with dozens feared dead. ](/news/2014/07/1/a-car-bomb-explodes-in-a-market-in-the-northeast-nigerian-town-of-maiduguri-the-birthplace-of-boko-haram-with-dozens-feared-dead.md)
-_Context: Islamist insurgency in Nigeria, car bomb, Boko Haram, Maiduguri_
+_Context: Boko Haram, car bomb, Maiduguri, Islamist insurgency in Nigeria_
 
 ##### BNP Paribas
 ### [The United States imposes a record $9 billion fine on BNP Paribas for helping clients bypass sanctions against Cuba, Iran, and Sudan. The bank is also barred from certain US dollar dominated transactions for one year. ](/news/2014/07/1/the-united-states-imposes-a-record-9-billion-fine-on-bnp-paribas-for-helping-clients-bypass-sanctions-against-cuba-iran-and-sudan-the-ba.md)
@@ -33,11 +33,11 @@ MP Naomi Long condemns those who put up the flag off Island Street, accusing the
 
 ##### Social Democratic Party of Germany
 ### [The German Social Democrat Martin Schulz is reelected President of the European Parliament for another two and a half years. ](/news/2014/07/1/the-german-social-democrat-martin-schulz-is-reelected-president-of-the-european-parliament-for-another-two-and-a-half-years.md)
-_Context: Social Democratic Party of Germany, President of the European Parliament, Martin Schulz_
+_Context: President of the European Parliament, Social Democratic Party of Germany, Martin Schulz_
 
 ##### Iraqi Parliament
 ### [The Council of Representatives of Iraq is due to meet for the first time since recent elections to try and counter the surge made by the Islamic State of Iraq and the Levant. However, the meeting is delayed due to a lack of quorum. ](/news/2014/07/1/the-council-of-representatives-of-iraq-is-due-to-meet-for-the-first-time-since-recent-elections-to-try-and-counter-the-surge-made-by-the-isl.md)
-_Context: elections, Iraqi Parliament, ISIL_
+_Context: ISIL, elections, Iraqi Parliament_
 
 ##### Cabinet of Japan
 ### [The Cabinet of Japan lifts a ban on the Japan Self-Defense Forces fighting overseas. The move is aimed towards defending allied countries. ](/news/2014/07/1/the-cabinet-of-japan-lifts-a-ban-on-the-japan-self-defense-forces-fighting-overseas-the-move-is-aimed-towards-defending-allied-countries.md)

@@ -17,7 +17,7 @@ Iraqi officials say 14 killed in overnight clashes at Ministry of Interior, incl
 
 ##### Prime Minister of Egypt
 ### [The Prime Minister of Egypt Essam Sharaf to discuss fatal clashes between Muslims and Christians in the Imbaba district of Cairo. ](/news/2011/05/8/the-prime-minister-of-egypt-essam-sharaf-to-discuss-fatal-clashes-between-muslims-and-christians-in-the-imbaba-district-of-cairo.md)
-_Context: Cairo, Essam Sharaf, Christians, Prime Minister of Egypt, Imbaba, Muslim_
+_Context: Prime Minister of Egypt, Essam Sharaf, Muslim, Cairo, Imbaba, Christians_
 
 ##### Pakistan
 ### [Witnesses claim that there have been two large explosions in the Pakistan town of Abbottabad. ](/news/2011/05/8/witnesses-claim-that-there-have-been-two-large-explosions-in-the-pakistan-town-of-abbottabad.md)
@@ -29,7 +29,7 @@ Eman al-Obeidy, who garnered worldwide attention for her vocal rape allegations 
 
 ##### Beijing
 ### [There is a near riot in the Beijing Apple Store as the Apple iPad 2 goes on sale in the People's Republic of China. ](/news/2011/05/8/there-is-a-near-riot-in-the-beijing-apple-store-as-the-apple-ipad-2-goes-on-sale-in-the-people-s-republic-of-china.md)
-_Context: Beijing, Apple Store, Apple Inc., China, iPad 2_
+_Context: China, Beijing, Apple Inc., Apple Store, iPad 2_
 
 ##### MG Rover
 ### [Peter Beale, Nick Stephenson, John Edwards and John Towers - the so-called "Phoenix Four" who ran MG Rover following its collapse - have agreed to be disqualified from serving as company directors for between 3 and 6 years. The deal was made with the UK's Department of Business, Innovation and Skills, following a "lengthy and complex investigation" into the affair. ](/news/2011/05/8/peter-beale-nick-stephenson-john-edwards-and-john-towers-the-so-called-phoenix-four-who-ran-mg-rover-following-its-collapse-have-agr.md)
@@ -41,7 +41,7 @@ The Mississippi, the nation’s largest river system, is nearing a record level 
 
 ##### Radiation
 ### [Radiation levels in the number 1 reactor building fall at the Fukushima Daiichi Nuclear Power Plant following the installation of ventilation. ](/news/2011/05/8/radiation-levels-in-the-number-1-reactor-building-fall-at-the-fukushima-daiichi-nuclear-power-plant-following-the-installation-of-ventilatio.md)
-_Context: Radiation, Fukushima Daiichi Nuclear Power Plant_
+_Context: Fukushima Daiichi Nuclear Power Plant, Radiation_
 
 ##### Africa
 ### [A ship carrying 300 African migrants headed for Malta runs aground near Lampedusa in Italy with many on board having to be rescued from the sea. ](/news/2011/05/8/a-ship-carrying-300-african-migrants-headed-for-malta-runs-aground-near-lampedusa-in-italy-with-many-on-board-having-to-be-rescued-from-the.md)
@@ -49,15 +49,15 @@ Incident comes a day after a boat laden with another such group of 600 people sa
 
 ##### Search and rescue
 ### [An international search and rescue mission is launched in Kiribati after six teenagers on an outrigger canoe go missing in the Pacific Ocean. ](/news/2011/05/8/an-international-search-and-rescue-mission-is-launched-in-kiribati-after-six-teenagers-on-an-outrigger-canoe-go-missing-in-the-pacific-ocean.md)
-_Context: South Pacific Ocean, search and rescue, outrigger canoe, Kiribati_
+_Context: outrigger canoe, Kiribati, search and rescue, South Pacific Ocean_
 
 ##### Hun Sen
 ### [Hun Sen, the Prime Minister of Cambodia and Abhisit Vejjajiva, the Prime Minister of Thailand, meet during an ASEAN summit meeting in Jakarta to try to resolve an ongoing territorial dispute, but fail. ](/news/2011/05/8/hun-sen-the-prime-minister-of-cambodia-and-abhisit-vejjajiva-the-prime-minister-of-thailand-meet-during-an-asean-summit-meeting-in-jakart.md)
-_Context: Prime Minister, Jakarta, Hun Sen, Prime Minister of Cambodia, Abhisit Vejjajiva, ASEAN_
+_Context: Abhisit Vejjajiva, Hun Sen, Jakarta, Prime Minister, Prime Minister of Cambodia, ASEAN_
 
 ##### Pakistan Army
 ### [The Pakistan Army places its forces on high alert following last Sunday's raid on Osama bin Laden's compound in Abbottabad. ](/news/2011/05/8/the-pakistan-army-places-its-forces-on-high-alert-following-last-sunday-s-raid-on-osama-bin-laden-s-compound-in-abbottabad.md)
-_Context: father's killing, Osama bin Laden, Abbottabad, Pakistan Army_
+_Context: Pakistan Army, Osama bin Laden, father's killing, Abbottabad_
 
 ##### Albania
 ### [Voters in Albania go to the polls for local elections. ](/news/2011/05/8/voters-in-albania-go-to-the-polls-for-local-elections.md)
@@ -77,7 +77,7 @@ Thousands of Mexicans on Sunday marched into the capital city to protest the wav
 
 ##### U.S. President
 ### [The President of the United States Barack Obama claims that "there had to be some sort of support network for bin Laden inside of Pakistan" on 60 Minutes. ](/news/2011/05/8/the-president-of-the-united-states-barack-obama-claims-that-there-had-to-be-some-sort-of-support-network-for-bin-laden-inside-of-pakistan.md)
-_Context: Barack Obama, Osama bin Laden, Pakistan, U.S. President, 60 Minutes_
+_Context: Osama bin Laden, Pakistan, 60 Minutes, U.S. President, Barack Obama_
 
 ## [Previous Day...](/news/2011/05/7/index.md)
 

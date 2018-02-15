@@ -25,11 +25,11 @@ Special services are being held in Brazil in memory of the 237 people who died i
 
 ##### Iran
 ### [Iran indicates the possibility it will attend talks on its nuclear program in Kazakhstan if it believes intentions behind them are "authentic". ](/news/2013/02/3/iran-indicates-the-possibility-it-will-attend-talks-on-its-nuclear-program-in-kazakhstan-if-it-believes-intentions-behind-them-are-authenti.md)
-_Context: Kazakhstan, Iran_
+_Context: Iran, Kazakhstan_
 
 ##### Israel
 ### [In response to Israeli air strikes on Syria, Prime Minister of Turkey Recep Tayyip Erdogan says Israel's government is waging "state terrorism". ](/news/2013/02/3/in-response-to-israeli-air-strikes-on-syria-prime-minister-of-turkey-recep-tayyip-erdoaan-says-israel-s-government-is-waging-state-terror.md)
-_Context: Turkish Prime Minister, Turkey, Recep Tayyip Erdogan, Israel, Syria_
+_Context: Turkish Prime Minister, Syria, Israel, Recep Tayyip Erdogan, Turkey_
 
 ## [Previous Day...](/news/2013/02/2/index.md)
 

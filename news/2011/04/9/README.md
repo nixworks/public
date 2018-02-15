@@ -13,7 +13,7 @@ _Context: Laurent Gbagbo, Abidjan_
 
 ##### Tahrir Square
 ### [The Egyptian Army initiates a fatal crackdown in Tahrir Square, Cairo, on people protesting that ousted president Hosni Mubarak be prosecuted for corruption. ](/news/2011/04/9/the-egyptian-army-initiates-a-fatal-crackdown-in-tahrir-square-cairo-on-people-protesting-that-ousted-president-hosni-mubarak-be-prosecute.md)
-_Context: Hosni Mubarak, Tahrir Square, Cairo_
+_Context: Cairo, Hosni Mubarak, Tahrir Square_
 
 ##### Israel
 ### [Over 120 rockets are fired into southern Israel this weekend, wounding 5 people. The Iron Dome missile system intercepts 10 rockets. ](/news/2011/04/9/over-120-rockets-are-fired-into-southern-israel-this-weekend-wounding-5-people-the-iron-dome-missile-system-intercepts-10-rockets.md)
@@ -21,15 +21,15 @@ Iron Dome intercepts 10 rockets; Israel reviewing cease-fire proposal; Hamas fig
 
 ##### ETA
 ### [Despite a ceasefire, ETA shoot a French policeman in Valliere, Limousin. Two more shooting incidents follow the first one. ](/news/2011/04/9/despite-a-ceasefire-eta-shoot-a-french-policeman-in-valliere-limousin-two-more-shooting-incidents-follow-the-first-one.md)
-_Context: ETA, Valliere_
+_Context: Valliere, ETA_
 
 ##### U.S
 ### [U.S movie director Sidney Lumet dies in Manhattan.](/news/2011/04/9/u-s-movie-director-sidney-lumet-dies-in-manhattan.md)
-_Context: U.S, Sidney Lumet, Manhattan_
+_Context: Manhattan, Sidney Lumet, U.S_
 
 ##### Tornado
 ### [A tornado hits in Iowa's Monona County in the midwestern United States. ](/news/2011/04/9/a-tornado-hits-in-iowa-s-monona-county-in-the-midwestern-united-states.md)
-_Context: Monona County, midwestern, tornado, Iowa_
+_Context: Iowa, Monona County, tornado, midwestern_
 
 ##### Australia
 ### [Australian police are condemned for their failure to treat the 2007 death of an Aboriginal boy found weighted with rocks in a waterhole as anything other than an accident in Borroloola, Northern Territory. ](/news/2011/04/9/australian-police-are-condemned-for-their-failure-to-treat-the-2007-death-of-an-aboriginal-boy-found-weighted-with-rocks-in-a-waterhole-as-a.md)
@@ -37,7 +37,7 @@ POLICE treated as an accident the death of an eight-year-old Aboriginal boy whos
 
 ##### Shooting spree
 ### [A shooting spree in a shopping mall in Alphen aan den Rijn in the Netherlands leaves seven dead, including the perpetrator. ](/news/2011/04/9/a-shooting-spree-in-a-shopping-mall-in-alphen-aan-den-rijn-in-the-netherlands-leaves-seven-dead-including-the-perpetrator.md)
-_Context: Alphen aan den Rijn, shooting spree, Netherlands_
+_Context: Netherlands, shooting spree, Alphen aan den Rijn_
 
 ##### Parliament
 ### [Women's groups protest outside the Oireachtas after police are filmed discussing raping women after their arrest. ](/news/2011/04/9/women-s-groups-protest-outside-the-oireachtas-after-police-are-filmed-discussing-raping-women-after-their-arrest.md)
@@ -53,7 +53,7 @@ THE broadcasting of a young cadet having sex at the Australian Defence Force Aca
 
 ##### Ismael Omar Guelleh
 ### [Ismael Omar Guelleh is re-elected as President of Djibouti. ](/news/2011/04/9/ismael-omar-guelleh-is-re-elected-as-president-of-djibouti.md)
-_Context: Djibouti, re-elected, Ismael Omar Guelleh_
+_Context: Ismael Omar Guelleh, re-elected, Djibouti_
 
 ##### Iceland
 ### [Icelanders vote in a referendum on a renegotiated compensation deal with Britain and the Netherlands over the collapsed Icesave bank. ](/news/2011/04/9/icelanders-vote-in-a-referendum-on-a-renegotiated-compensation-deal-with-britain-and-the-netherlands-over-the-collapsed-icesave-bank.md)

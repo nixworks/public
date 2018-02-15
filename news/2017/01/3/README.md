@@ -21,7 +21,7 @@ Authorities in the Philippines are hunting for more than 100 prisoners who escap
 
 ##### Presidential transition of Donald Trump
 ### [U.S. President-elect Donald Trump says that Robert Lighthizer will be the country's chief trade negotiator. ](/news/2017/01/3/u-s-president-elect-donald-trump-says-that-robert-lighthizer-will-be-the-country-s-chief-trade-negotiator.md)
-_Context: Donald Trump, Robert Lighthizer, Presidential transition of Donald Trump_
+_Context: Presidential transition of Donald Trump, Donald Trump, Robert Lighthizer_
 
 ##### 115th United States Congress
 ### [The Republican-led U.S. House of Representatives cancels plans approved on Monday, following widespread criticism, including a tweet by President-elect Trump, that would have weakened the House's independent ethics watchdog, the Office of Congressional Ethics. ](/news/2017/01/3/the-republican-led-u-s-house-of-representatives-cancels-plans-approved-on-monday-following-widespread-criticism-including-a-tweet-by-pres.md)

@@ -9,7 +9,7 @@ Heavy clashes in the eastern Libyan city of Benghazi have left at least 14 peopl
 
 ##### Yemeni Civil War (2015-present)
 ### [Al-Qaeda militants take control of the southern Yemeni town of Ahwar in the Abyan Governorate. ](/news/2016/02/20/al-qaeda-militants-take-control-of-the-southern-yemeni-town-of-ahwar-in-the-abyan-governorate.md)
-_Context: Yemeni Civil War (2015-present), Abyan Governorate, Ahwar, Yemen, al-Qaida_
+_Context: al-Qaida, Yemen, Abyan Governorate, Ahwar, Yemeni Civil War (2015-present)_
 
 ##### War in Afghanistan (2015-present)
 ### [A United States Air Force operated MQ-9 Reaper drone crashes at the Kandahar Airfield in southern Afghanistan. ](/news/2016/02/20/a-united-states-air-force-operated-mq-9-reaper-drone-crashes-at-the-kandahar-airfield-in-southern-afghanistan.md)
@@ -49,7 +49,7 @@ Hillary Clinton won the Nevada Democratic caucuses on Saturday, beating Bernie S
 
 ##### China's State Council
 ### [China's State Council announces that Liu Shiyu, who had been chairman of the Agricultural Bank of China Limited, will replace Xiao Gang as head of the China's Securities Regulatory Commission. ](/news/2016/02/20/china-s-state-council-announces-that-liu-shiyu-who-had-been-chairman-of-the-agricultural-bank-of-china-limited-will-replace-xiao-gang-as-h.md)
-_Context: Agricultural Bank of China, Liu Shiyu, China's State Council, Xiao Gang, China's Securities Regulatory Commission_
+_Context: Xiao Gang, Liu Shiyu, Agricultural Bank of China, China's Securities Regulatory Commission, China's State Council_
 
 ##### Ugandan general election, 2016
 ### [The President of Uganda Yoweri Museveni is declared the winner of the Presidential election with 60% of the vote. European Union observers state that the election was held in an "intimidating atmosphere". ](/news/2016/02/20/the-president-of-uganda-yoweri-museveni-is-declared-the-winner-of-the-presidential-election-with-60-of-the-vote-european-union-observers-s.md)

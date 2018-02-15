@@ -25,11 +25,11 @@ Defense Secretary Ash Carter said Friday the U.S. is likely to step up military 
 
 ##### Colombian conflict (1964-present)
 ### [At least 11 Colombian Army soldiers and one policeman have been killed in an ELN attack in northeast Colombia. ](/news/2015/10/26/at-least-11-colombian-army-soldiers-and-one-policeman-have-been-killed-in-an-eln-attack-in-northeast-colombia.md)
-_Context: Colombian conflict (1964-present), Colombian Army, Colombia, ELN_
+_Context: Colombia, Colombian Army, Colombian conflict (1964-present), ELN_
 
 ##### MTN Group
 ### [MTN Group is fined $5.2 billion by the Nigerian Communications Commission for failing to disconnect non-registered SIM cards. ](/news/2015/10/26/mtn-group-is-fined-5-2-billion-by-the-nigerian-communications-commission-for-failing-to-disconnect-non-registered-sim-cards.md)
-_Context: SIM, MTN Group, Nigerian Communications Commission_
+_Context: MTN Group, Nigerian Communications Commission, SIM_
 
 ##### Toyota
 ### [Toyota is once again the world's largest carmaker with 7.5 million units sold thus far in 2015, compared to Volkswagen's 7.43 million and General Motors' 7.2 million. ](/news/2015/10/26/toyota-is-once-again-the-world-s-largest-carmaker-with-7-5-million-units-sold-thus-far-in-2015-compared-to-volkswagen-s-7-43-million-and-ge.md)
@@ -55,7 +55,7 @@ More than 260 people are reported killed after a major earthquake hits north-eas
 ### [Saudi Arabian ambassador to the United Kingdom Prince Mohammed bin Nawaf bin Abdulaziz, in an op-ed piece in the "The Daily Telegraph", warns of "potentially serious repercussions" for the two countries' relationship unless a more respectful discourse developed. At issue is London's withdrawal from a GBP5.9m (US$9.1m) prison deal with Saudi Arabia which has been linked to London's concerns about a death penalty case and a case involving Karl Andree, a 74-year-old Briton who faces 350 lashes. Today, the Saudi Supreme Court confirmed Sheikh Nimr al-Nimr's death sentence. ](/news/2015/10/26/saudi-arabian-ambassador-to-the-united-kingdom-prince-mohammed-bin-nawaf-bin-abdulaziz-in-an-op-ed-piece-in-the-the-daily-telegraph-warn.md)
 RIYADH: Saudi Ambassador to the UK Prince Mohammed bin Nawaf has warned of &quot;potentially serious repercussions&quot; of a breakdown in relations with Britain, which no longer reciprocates on issues with similar trust and respect. In an article published in British daily &quot;The Daily Telegraph...
 
-##### U.S.
+##### United States
 ### [The United States is reportedly blocking a $400 million plan by South Korea to sell KAI T-50 Golden Eagle trainer jets, co-developed in 2006 with Lockheed Martin, to Uzbekistan, according to "The Korea Times". The aircraft uses Lockheed Martin technologies -- including avionics -- and as such requires permission under the U.S. Arms Export Control Act for its sale to other countries. ](/news/2015/10/26/the-united-states-is-reportedly-blocking-a-400-million-plan-by-south-korea-to-sell-kai-t-50-golden-eagle-trainer-jets-co-developed-in-2006.md)
 U.S. says no to sale of U.S.-South Korean developed trainer jet to Uzbekistan.
 
@@ -69,7 +69,7 @@ Police in Indonesia say they have arrested an alleged Indian underworld don who 
 
 ##### Saudi Arabia
 ### [Saudi Arabia's Supreme Court upholds the death sentence of Shiite cleric Sheikh Nimr al-Nimr, who was found guilty of sedition and other charges following his involvement in the 2011 Arab Spring Movement. ](/news/2015/10/26/saudi-arabia-s-supreme-court-upholds-the-death-sentence-of-shiite-cleric-sheikh-nimr-al-nimr-who-was-found-guilty-of-sedition-and-other-cha.md)
-_Context: Arab Spring, Saudi Arabia, Sheikh Nimr, Supreme Court, Shiite cleric, sedition_
+_Context: Supreme Court, Sheikh Nimr, Arab Spring, Shiite cleric, sedition, Saudi Arabia_
 
 ##### Saudi Royal Family
 ### [A member of the Saudi Royal Family and four other people are detained in Lebanon for attempting to smuggle about two tons of Captagon pills and some cocaine on a private jet. This is the largest drug seizure in the history of Beirut's Rafik Hariri International Airport, according to Lebanon's state-run National News Agency. ](/news/2015/10/26/a-member-of-the-saudi-royal-family-and-four-other-people-are-detained-in-lebanon-for-attempting-to-smuggle-about-two-tons-of-captagon-pills.md)
@@ -77,7 +77,7 @@ Prince among five Saudis detained over seizure of two tonnes of amphetamines and
 
 ##### Israel
 ### [Israeli Prime Minister Benjamin Netanyahu orders a review of the status of certain Palestinian neighborhoods in East Jerusalem. Netanyahu says he is considering revoking residency status for Palestinians living there, according to Israel's Channel 2. ](/news/2015/10/26/israeli-prime-minister-benjamin-netanyahu-orders-a-review-of-the-status-of-certain-palestinian-neighborhoods-in-east-jerusalem-netanyahu-sa.md)
-_Context: Israel's Channel 2, East Jerusalem, Palestinians, Israel, Benjamin Netanyahu, Israeli Prime Minister, Arab citizen_
+_Context: Palestinians, Benjamin Netanyahu, Israel, Israel's Channel 2, Arab citizen, Israeli Prime Minister, East Jerusalem_
 
 ##### Gun politics in the United States
 ### [Leaders of nine national law enforcement groups, at the annual International Association of Chiefs of Police conference in Chicago, Illinois, call on federal lawmakers to strengthen background checks on gun purchases. ](/news/2015/10/26/leaders-of-nine-national-law-enforcement-groups-at-the-annual-international-association-of-chiefs-of-police-conference-in-chicago-illinois.md)

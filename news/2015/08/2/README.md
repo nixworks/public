@@ -5,7 +5,7 @@ Formats: [HTML](2015/08/2/index.html)  [JSON](2015/08/2/index.json)  [XML](2015/
 
 ##### Saudi-led intervention in Yemen
 ### [A projectile fired from Yemen into the city of Najran kills a Saudi Arabian citizen. ](/news/2015/08/2/a-projectile-fired-from-yemen-into-the-city-of-najran-kills-a-saudi-arabian-citizen.md)
-_Context: Saudi-led intervention in Yemen, Yemen, Saudi Arabia, Najran_
+_Context: Yemen, Saudi Arabia, Najran, Saudi-led intervention in Yemen_
 
 ##### Turkey-PKK conflict
 ### [A suicide attack by the PKK kills two Turkish Army soldiers and injures 24 others in the Turkish town of Dogubeyazit in Agri Province near the Iran border. ](/news/2015/08/2/a-suicide-attack-by-the-pkk-kills-two-turkish-army-soldiers-and-injures-24-others-in-the-turkish-town-of-doaubeyaza-t-in-aara-province-ne.md)
@@ -13,11 +13,11 @@ Two Turkish soldiers are killed and dozens are wounded in a suicide attack near 
 
 ##### Burundian Army
 ### [General Adolphe Nshimirimana, former chief of staff of the Burundi Army, is assassinated in Bujumbura. ](/news/2015/08/2/general-adolphe-nshimirimana-former-chief-of-staff-of-the-burundi-army-is-assassinated-in-bujumbura.md)
-_Context: Bujumbura, Burundian Army_
+_Context: Burundian Army, Bujumbura_
 
 ##### Boko Haram
 ### [Nigerian Army soldiers rescue 178 people from Boko Haram camps including 101 children. ](/news/2015/08/2/nigerian-army-soldiers-rescue-178-people-from-boko-haram-camps-including-101-children.md)
-_Context: Boko Haram, Nigerian Army_
+_Context: Nigerian Army, Boko Haram_
 
 ##### Egypt
 ### [A court in Egypt postpones a verdict in the prominent trial of two journalists with Al-Jazeera, who have been charged with aiding the Muslim Brotherhood. ](/news/2015/08/2/a-court-in-egypt-postpones-a-verdict-in-the-prominent-trial-of-two-journalists-with-al-jazeera-who-have-been-charged-with-aiding-the-muslim.md)
@@ -45,7 +45,7 @@ Boulder police have arrested a 30-year-old man on suspicion of attempted murder 
 
 ##### Bronwyn Bishop
 ### [Bronwyn Bishop resigns as the Speaker of the Australian House of Representatives following an expenses scandal. ](/news/2015/08/2/bronwyn-bishop-resigns-as-the-speaker-of-the-australian-house-of-representatives-following-an-expenses-scandal.md)
-_Context: Bronwyn Bishop, Speaker of the Australian House of Representatives_
+_Context: Speaker of the Australian House of Representatives, Bronwyn Bishop_
 
 ##### Canadian Prime Minister
 ### [Canadian Prime Minister Stephen Harper confirms that he has asked Governor General David Johnston to dissolve the Canadian Parliament and set a general election for October 19. This will be the longest election campaign for Canada in recent history, since voting was once staggered over months to accommodate people travelling from remote regions of the country using archaic means of transportation. ](/news/2015/08/2/canadian-prime-minister-stephen-harper-confirms-that-he-has-asked-governor-general-david-johnston-to-dissolve-the-canadian-parliament-and-se.md)

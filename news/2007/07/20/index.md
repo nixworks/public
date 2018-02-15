@@ -9,23 +9,23 @@ _Context: Luiz Incio Lula da Silva, TAM Linhas Areas Flight 3054, president_
 
 ##### UK
 ### [ The UK Crown Prosecution Service ends its inquiry into the "Cash for honours" claims with a finding that the evidence is not sufficient to warrant charges being laid. ](/news/2007/07/20/the-uk-crown-prosecution-service-ends-its-inquiry-into-the-cash-for-honours-claims-with-a-finding-that-the-evidence-is-not-sufficient-to.md)
-_Context: Cash for honours, UK, Crown Prosecution Service_
+_Context: Cash for honours, Crown Prosecution Service, UK_
 
 ##### China
 ### [ China shuts down a chemical plant associated with deaths in Panama from tainted medicine and two petfood plants associated with the deaths of pets in the United States. ](/news/2007/07/20/china-shuts-down-a-chemical-plant-associated-with-deaths-in-panama-from-tainted-medicine-and-two-petfood-plants-associated-with-the-deaths.md)
-_Context: Panama, China, U.S._
+_Context: China, Panama, United States_
 
 ##### Bolivia
 ### [ Hundreds of thousands of Bolivians protest proposals to shift the capital from La Paz to Sucre. ](/news/2007/07/20/hundreds-of-thousands-of-bolivians-protest-proposals-to-shift-the-capital-from-la-paz-to-sucre.md)
-_Context: Sucre, Bolivia, La Paz_
+_Context: La Paz, Bolivia, Sucre_
 
 ##### United States District Judge
 ### [ United States District Judge James Jones levies a fine of $634.5 million on Purdue Pharma and three executives for misleading the public about OxyContin. ](/news/2007/07/20/united-states-district-judge-james-jones-levies-a-fine-of-634-5-million-on-purdue-pharma-and-three-executives-for-misleading-the-public-ab.md)
-_Context: $, OxyContin, United States District Judge, Purdue Pharma_
+_Context: United States District Judge, $, Purdue Pharma, OxyContin_
 
 ##### Government
 ### [ The Government of Ethiopia pardons and frees opposition leaders who had been sentenced to life imprisonment for their roles in riots following 2005 elections. Prime Minister Meles Zenawi denies that the release was forced by the United States. ](/news/2007/07/20/the-government-of-ethiopia-pardons-and-frees-opposition-leaders-who-had-been-sentenced-to-life-imprisonment-for-their-roles-in-riots-follow.md)
-_Context: U.S., 2005 elections, Prime Minister, Meles Zenawi, government, life imprisonment_
+_Context: government, 2005 elections, Prime Minister, Meles Zenawi, United States, life imprisonment_
 
 ##### Taliban
 ### [ Taliban insurgents stop a bus in Afghanistan and kidnap some of the passengers including South Koreans. ](/news/2007/07/20/taliban-insurgents-stop-a-bus-in-afghanistan-and-kidnap-some-of-the-passengers-including-south-koreans.md)
@@ -33,11 +33,11 @@ Taliban insurgents have kidnapped 23 Korean Christians from a bus in Afghanistan
 
 ##### Israel
 ### [ Israel has begun releasing 250 Palestinian prisoners associated with Fatah. ](/news/2007/07/20/israel-has-begun-releasing-250-palestinian-prisoners-associated-with-fatah.md)
-_Context: Palestinian Authority, Israel, Fatah_
+_Context: Fatah, Palestinian Authority, Israel_
 
 ##### 2007 FIFA U-20 World Cup
 ### [ 2007 FIFA U-20 World Cup: After the Argentina vs Chile semi-final game ended, a scuffle between Toronto Police officers and members of the Chilean team led to the arrest of 21 players. ](/news/2007/07/20/2007-fifa-u-20-world-cup-after-the-argentina-vs-chile-semi-final-game-ended-a-scuffle-between-toronto-police-officers-and-members-of-the.md)
-_Context: Argentina, Toronto Police, Chile, 2007 FIFA U-20 World Cup_
+_Context: Toronto Police, Argentina, Chile, 2007 FIFA U-20 World Cup_
 
 ## [Previous Day...](/news/2007/07/19/index.md)
 

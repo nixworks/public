@@ -5,7 +5,7 @@ Formats: [HTML](2014/06/28/index.html)  [JSON](2014/06/28/index.json)  [XML](201
 
 ##### War in North-West Pakistan
 ### [At least 19 militants have been killed in a Pakistan Army offensive in North Waziristan. ](/news/2014/06/28/at-least-19-militants-have-been-killed-in-a-pakistan-army-offensive-in-north-waziristan.md)
-_Context: North Waziristan, War in North-West Pakistan, Pakistan Army_
+_Context: North Waziristan, Pakistan Army, War in North-West Pakistan_
 
 ##### 2014 Northern Iraq offensive
 ### [The Iraqi Army expels militants from the centre of the city of Tikrit amongst heavy fighting. ](/news/2014/06/28/the-iraqi-army-expels-militants-from-the-centre-of-the-city-of-tikrit-amongst-heavy-fighting.md)
@@ -13,7 +13,7 @@ Iraqi forces drove militants from the center of Tikrit, partly reversing the adv
 
 ##### Islamist insurgency in Nigeria
 ### [A blast in a brothel in the northeastern city of Bauchi kills at least 11 people and injures 28. ](/news/2014/06/28/a-blast-in-a-brothel-in-the-northeastern-city-of-bauchi-kills-at-least-11-people-and-injures-28.md)
-_Context: brothel, Islamist insurgency in Nigeria, Bauchi_
+_Context: Islamist insurgency in Nigeria, Bauchi, brothel_
 
 ##### Post-coup unrest in Egypt
 ### [A homemade bomb placed in a government construction site in 6th of October City exploded, killing a girl and wounding her mother. ](/news/2014/06/28/a-homemade-bomb-placed-in-a-government-construction-site-in-6th-of-october-city-exploded-killing-a-girl-and-wounding-her-mother.md)
@@ -21,7 +21,7 @@ Homemade bomb in government construction site on outskirts of Cairo cuts off mob
 
 ##### Bosnian
 ### [The Bosnian city of Sarajevo commemorates the 100th anniversary of the assassination of Archduke Franz Ferdinand of Austria that led to World War I. ](/news/2014/06/28/the-bosnian-city-of-sarajevo-commemorates-the-100th-anniversary-of-the-assassination-of-archduke-franz-ferdinand-of-austria-that-led-to-worl.md)
-_Context: Bosnian, First World War, Sarajevo, assassination, Archduke Franz Ferdinand of Austria_
+_Context: assassination, Bosnian, Archduke Franz Ferdinand of Austria, First World War, Sarajevo_
 
 ##### India
 ### [A dilapidated building collapses in the Indian capital New Delhi with eleven people killed and one injured. ](/news/2014/06/28/a-dilapidated-building-collapses-in-the-indian-capital-new-delhi-with-eleven-people-killed-and-one-injured.md)
@@ -33,11 +33,11 @@ _Context: Chennai_
 
 ##### China
 ### [China's top cross-strait negotiator for Taiwan, on a landmark visit, cancels three public appearances at the last minute after protests against his bridge-building trip turned violent; protesters earlier splashed white paint and threw ghost money at the negotiator's motorcade while shouting slogans such as "Taiwan, China, one country on each side". ](/news/2014/06/28/china-s-top-cross-strait-negotiator-for-taiwan-on-a-landmark-visit-cancels-three-public-appearances-at-the-last-minute-after-protests-agai.md)
-_Context: ghost money, China, Cross-Strait relations, Taiwan, negotiator, one country on each side_
+_Context: Taiwan, Cross-Strait relations, China, one country on each side, negotiator, ghost money_
 
 ##### Libya
 ### [Libyan Islamist militia leader Ahmed Abu Khattala pleads not guilty in a Washington D.C. court to one charge of conspiracy in relation to the 2012 Benghazi attack in which four Americans were killed. ](/news/2014/06/28/libyan-islamist-militia-leader-ahmed-abu-khattala-pleads-not-guilty-in-a-washington-d-c-court-to-one-charge-of-conspiracy-in-relation-to-th.md)
-_Context: militia, Ahmed Abu Khattala, 2012 Benghazi attack, Libya, Washington D.C., Islamist_
+_Context: Washington D.C., 2012 Benghazi attack, militia, Libya, Ahmed Abu Khattala, Islamist_
 
 ##### 
 ### [Two British thirteen-year-olds are arrested for desecrating graves in a Jewish cemetery in Manchester, England, causing over GBP100,000 in damage. Nazi slogans and swastikas were drawn on some gravestones, and about forty were toppled over. ](/news/2014/06/28/two-british-thirteen-year-olds-are-arrested-for-desecrating-graves-in-a-jewish-cemetery-in-manchester-england-causing-over-agbp100-000-in.md)

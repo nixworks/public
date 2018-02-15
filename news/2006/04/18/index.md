@@ -9,7 +9,7 @@ _Context: Seattle, Chinese President, Hu Jintao_
 
 ##### Bird flu
 ### [ The H5N1 strain of avian influenza is reported in Sudan following reports in neighbouring Egypt. ](/news/2006/04/18/the-h5n1-strain-of-avian-influenza-is-reported-in-sudan-following-reports-in-neighbouring-egypt.md)
-_Context: bird flu, Sudan, avian influenza, Egypt_
+_Context: Sudan, avian influenza, bird flu, Egypt_
 
 ##### New York Stock Exchange
 ### [ The New York Stock Exchange is in merger talks with London Stock Exchange. If the merger went ahead, it would create a stock exchange giant. ](/news/2006/04/18/the-new-york-stock-exchange-is-in-merger-talks-with-london-stock-exchange-if-the-merger-went-ahead-it-would-create-a-stock-exchange-giant.md)
@@ -21,7 +21,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### 2006 European floods
 ### [ 2006 European floods: Thousands of emergency workers in Romania, Bulgaria and Serbia try to bolster dikes to prevent flooding along the swollen Danube River, which has surged to its highest level in more than a century. ](/news/2006/04/18/2006-european-floods-thousands-of-emergency-workers-in-romania-bulgaria-and-serbia-try-to-bolster-dikes-to-prevent-flooding-along-the-swo.md)
-_Context: dikes, flooding, Bulgaria, Serbia, 2006 European floods, Danube, Romania_
+_Context: Bulgaria, Serbia, 2006 European floods, dikes, Romania, flooding, Danube_
 
 ##### El Al
 ### [ An El Al airplane in which a malfunction had been detected made a successful emergency landing at the Ben Gurion Airport. The flight, which had departed for Moscow made its way back to Tel Aviv after a malfunction was discovered in one of its wheels upon liftoff. The plane emptied its fuel tank above the sea and then landed at the Ben Gurion airport. ](/news/2006/04/18/an-el-al-airplane-in-which-a-malfunction-had-been-detected-made-a-successful-emergency-landing-at-the-ben-gurion-airport-the-flight-which.md)
@@ -33,7 +33,7 @@ _Context: 1906 San Francisco earthquake_
 
 ##### Gazprom
 ### [ The head of Gazprom, Russia's natural-gas monopoly, told officials of the European Union not to "politicize" the gas market--the speech was part of an escalating war of words between Russia as supplier and the EU as customer. ](/news/2006/04/18/the-head-of-gazprom-russia-s-natural-gas-monopoly-told-officials-of-the-european-union-not-to-politicize-the-gas-marketathe-speech-wa.md)
-_Context: Gazprom, European Union_
+_Context: European Union, Gazprom_
 
 ## [Previous Day...](/news/2006/04/17/index.md)
 

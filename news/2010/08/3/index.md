@@ -25,7 +25,7 @@ Poland delays the planned removal of a cross dedicated to the late President Kac
 
 ##### Jordan
 ### [Jordan says it has evidence that a fatal Grad-type rocket strike on Aqaba originated in Egypt's Sinai Peninsula. ](/news/2010/08/3/jordan-says-it-has-evidence-that-a-fatal-grad-type-rocket-strike-on-aqaba-originated-in-egypt-s-sinai-peninsula.md)
-_Context: Sinai Peninsula, Egypt, Jordan, Aqaba_
+_Context: Jordan, Aqaba, Sinai Peninsula, Egypt_
 
 ##### Baghdad
 ### [At least 5 police officers are shot dead at a checkpoint in Baghdad, Iraq. ](/news/2010/08/3/at-least-5-police-officers-are-shot-dead-at-a-checkpoint-in-baghdad-iraq.md)
@@ -33,7 +33,7 @@ _Context: Baghdad, Iraq_
 
 ##### Taliban
 ### [A battle erupts as the Taliban attacks the Kandahar Air Field, the main NATO base in southern Afghanistan. The battle lasts an hour, after which the Taliban flee. ](/news/2010/08/3/a-battle-erupts-as-the-taliban-attacks-the-kandahar-air-field-the-main-nato-base-in-southern-afghanistan-the-battle-lasts-an-hour-after-w.md)
-_Context: Taliban, Afghanistan, Kandahar Air Field, NATO_
+_Context: Taliban, Kandahar Air Field, Afghanistan, NATO_
 
 ##### Kills 9 people
 ### [A worker kills 9 people, including himself, in a workplace incident at Hartford Distributors Inc in Connecticut, United States. ](/news/2010/08/3/a-worker-kills-9-people-including-himself-in-a-workplace-incident-at-hartford-distributors-inc-in-connecticut-united-states.md)
@@ -85,23 +85,23 @@ Hezbollah chief Sheikh Hassan Nasrallah accuses Israel of being behind the 2005 
 
 ##### Turkey
 ### [Turkey's Foreign Ministry summons Israel's ambassador after the Israeli Defence Minister Ehud Barak accuses the new head of Turkish intelligence of being a "friend of Iran". ](/news/2010/08/3/turkey-s-foreign-ministry-summons-israel-s-ambassador-after-the-israeli-defence-minister-ehud-barak-accuses-the-new-head-of-turkish-intellig.md)
-_Context: Defense Minister, Israel, Iran, Ehud Barak, foreign ministry, ambassador, Turkey_
+_Context: Israel, Iran, Turkey, foreign ministry, ambassador, Defense Minister, Ehud Barak_
 
 ##### Pacific Islands Forum Leaders Summit
 ### [The 41st annual Pacific Islands Forum Leaders Summit opens in Port Vila, Vanuatu. ](/news/2010/08/3/the-41st-annual-pacific-islands-forum-leaders-summit-opens-in-port-vila-vanuatu.md)
-_Context: Pacific Islands Forum Leaders Summit, Vanuatu, Port Vila_
+_Context: Vanuatu, Port Vila, Pacific Islands Forum Leaders Summit_
 
 ##### President
 ### [President of Pakistan Asif Ali Zardari arrives in the United Kingdom upon a five-day visit as the two countries disagree over David Cameron's remarks on "the export of terror". ](/news/2010/08/3/president-of-pakistan-asif-ali-zardari-arrives-in-the-united-kingdom-upon-a-five-day-visit-as-the-two-countries-disagree-over-david-cameron.md)
-_Context: United Kingdom, David Cameron, president, Asif Ali Zardari_
+_Context: president, Asif Ali Zardari, David Cameron, United Kingdom_
 
 ##### Zimbabwe
 ### [Zimbabwe requests apologies from American, German and European Union envoys who walked out of the burial ceremony for President Robert Mugabe's sister; they refuse to apologise. ](/news/2010/08/3/zimbabwe-requests-apologies-from-american-german-and-european-union-envoys-who-walked-out-of-the-burial-ceremony-for-president-robert-mugab.md)
-_Context: burial ceremony, U.S., Zimbabwe, German, European Union, Robert Mugabe, President of Zimbabwe_
+_Context: Zimbabwe, burial ceremony, United States, Robert Mugabe, European Union, German, President of Zimbabwe_
 
 ##### Iran
 ### [Iran rejects Brazil's offer to grant political asylum to Sakineh Mohammadi Ashtiani, who has been sentenced to death in Iran for adultery. ](/news/2010/08/3/iran-rejects-brazil-s-offer-to-grant-political-asylum-to-sakineh-mohammadi-ashtiani-who-has-been-sentenced-to-death-in-iran-for-adultery.md)
-_Context: Sakineh Mohammadi Ashtiani, Brazil, asylum, Iran_
+_Context: asylum, Sakineh Mohammadi Ashtiani, Brazil, Iran_
 
 ##### American Civil Liberties Union
 ### [The American Civil Liberties Union (ACLU) and the Center for Constitutional Rights (CCR) both sue the United States (US) after it bans lawyers from a case taken by the father of Muslim cleric Anwar al-Awlaki against the Central Intelligence Agency (CIA), which has labelled him a "specially designated global terrorist". ](/news/2010/08/3/the-american-civil-liberties-union-aclu-and-the-center-for-constitutional-rights-ccr-both-sue-the-united-states-us-after-it-bans-lawye.md)
@@ -113,7 +113,7 @@ A trial opens in Kuwait of six men, including a Kuwaiti soldier, and one woman a
 
 ##### Canadian
 ### [Canada's Transportation Minister John Baird orders an inquiry after a video surfaces showing two figures boarding a flight without showing their faces. ](/news/2010/08/3/canada-s-transportation-minister-john-baird-orders-an-inquiry-after-a-video-surfaces-showing-two-figures-boarding-a-flight-without-showing-t.md)
-_Context: John Baird, Canadian_
+_Context: Canadian, John Baird_
 
 ##### Jackie Selebi
 ### [Jackie Selebi, former chief of Interpol and South Africa's top police officer, is sentenced to 15 years in prison on corruption charges. ](/news/2010/08/3/jackie-selebi-former-chief-of-interpol-and-south-africa-s-top-police-officer-is-sentenced-to-15-years-in-prison-on-corruption-charges.md)
@@ -137,7 +137,7 @@ _Context: the new constitution, Kenya, head to the polls_
 
 ##### Sri Lanka
 ### [A top civil service union in Sri Lanka condemns the tying to a tree of an official by a government minister in Colombo, a disagreement related to dengue fever. ](/news/2010/08/3/a-top-civil-service-union-in-sri-lanka-condemns-the-tying-to-a-tree-of-an-official-by-a-government-minister-in-colombo-a-disagreement-relat.md)
-_Context: Sri Lanka, Colombo, dengue_
+_Context: dengue, Sri Lanka, Colombo_
 
 ##### The Elders
 ### [The Elders criticise the Sri Lankan government. ](/news/2010/08/3/the-elders-criticise-the-sri-lankan-government.md)
@@ -145,7 +145,7 @@ Former Finnish President Martti Ahtisaari and other global leaders criticise &qu
 
 ##### Denmark
 ### [Denmark has a political taxes scandal involving a "big and sloppy error" by Social Democrats leader Helle Thorning-Schmidt. ](/news/2010/08/3/denmark-has-a-political-taxes-scandal-involving-a-big-and-sloppy-error-by-social-democrats-leader-helle-thorning-schmidt.md)
-_Context: Social Democrat, Helle Thorning-Schmidt, Denmark_
+_Context: Helle Thorning-Schmidt, Social Democrat, Denmark_
 
 ##### Irish
 ### [Irish senator Ivor Callely is suspended from Fianna Fail over new expense allegations. ](/news/2010/08/3/irish-senator-ivor-callely-is-suspended-from-fianna-fa-il-over-new-expense-allegations.md)
@@ -173,7 +173,7 @@ _Context: Team Saxo Bank, Bjarne Riis, Alberto Contador_
 
 ##### Derek Warwick
 ### [Steward Derek Warwick gives Michael Schumacher, who performed a dangerous maneuver against a fellow driver, a 10-place penalty in a future Grand Prix race. ](/news/2010/08/3/steward-derek-warwick-gives-michael-schumacher-who-performed-a-dangerous-maneuver-against-a-fellow-driver-a-10-place-penalty-in-a-future-g.md)
-_Context: Michael Schumacher, Derek Warwick, Grand Prix_
+_Context: Michael Schumacher, Grand Prix, Derek Warwick_
 
 ## [Previous Day...](/news/2010/08/2/index.md)
 

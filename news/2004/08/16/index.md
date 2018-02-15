@@ -5,19 +5,19 @@ Formats: [HTML](2004/08/16/index.html)  [JSON](2004/08/16/index.json)  [XML](200
 
 ##### Flash flooding
 ### [ After 60&nbsp;mm (2.4&nbsp;in) of rain in two hours, severe flash flooding at Boscastle in Cornwall, UK, results in buildings, roads, and over 50 cars swept away. Flood waters race through town at speeds up to 65&nbsp;km-h (40&nbsp;mph). Many have to leave their homes; helicopters airlift 150 people to safety. ](/news/2004/08/16/after-60-nbsp-mm-2-4-nbsp-in-of-rain-in-two-hours-severe-flash-flooding-at-boscastle-in-cornwall-uk-results-in-buildings-roads-and-o.md)
-_Context: Boscastle, flash flooding, Cornish_
+_Context: Cornish, Boscastle, flash flooding_
 
 ##### NASA
 ### [ NASA-ESA Spacecraft Cassini-Huygens discovers two new natural satellites of Saturn. They are provisionally named "S-2004 S 1" (later named "Methone") and "S-2004 S 2" (later named "Pallene"). ](/news/2004/08/16/nasa-esa-spacecraft-cassiniahuygens-discovers-two-new-natural-satellites-of-saturn-they-are-provisionally-named-s-2004-s-1-later-name.md)
-_Context: Pallene, Cassini, ESA, NASA, Methone, Saturn, moon, Spacecraft_
+_Context: Spacecraft, ESA, Saturn, Pallene, Methone, NASA, moon, Cassini_
 
 ##### Mahdi Army
 ### [ In the standoff between the Jaish-i-Mahdi militia and Iraqi and US forces, fears of a major assault on Najaf mount. The city is closed to journalists and some Iraqi government soldiers are reported to desert. Some delegates at the national conference call on Iraqi interim Prime Minister Allawi to end military operations against Muqtada al-Sadr. ](/news/2004/08/16/in-the-standoff-between-the-jaish-i-mahdi-militia-and-iraqi-and-us-forces-fears-of-a-major-assault-on-najaf-mount-the-city-is-closed-to-j.md)
-_Context: national conference, Mahdi Army, U.S. presence in Iraq, Najaf, Iyad Allawi, Iraq interim government, Muqtada al-Sadr, Iraq, journalist_
+_Context: Mahdi Army, U.S. presence in Iraq, Muqtada al-Sadr, national conference, journalist, Iraq interim government, Iraq, Iyad Allawi, Najaf_
 
 ##### Herero
 ### [ At the 100th anniversary ceremony of the Herero uprising, Germany apologises for the genocide in Namibia, but rules out reparations. ](/news/2004/08/16/at-the-100th-anniversary-ceremony-of-the-herero-uprising-germany-apologises-for-the-genocide-in-namibia-but-rules-out-reparations.md)
-_Context: reparations, Herero, Namibia, genocide_
+_Context: Herero, Namibia, genocide, reparations_
 
 ##### Same-sex marriage in Canada
 ### [ Same-sex marriage in Canada: Federal justice minister Irwin Cotler announces that the federal government will no longer resist court proceedings aiming to require provincial governments to issue same-sex marriage licences. ](/news/2004/08/16/same-sex-marriage-in-canada-federal-justice-minister-irwin-cotler-announces-that-the-federal-government-will-no-longer-resist-court-procee.md)

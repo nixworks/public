@@ -5,11 +5,11 @@ Formats: [HTML](2009/04/28/index.html)  [JSON](2009/04/28/index.json)  [XML](200
 
 ##### Genetically modified organism
 ### [ The first transgenic, fluorescent dogs are cloned in South Korea. ](/news/2009/04/28/the-first-transgenic-fluorescent-dogs-are-cloned-in-south-korea.md)
-_Context: South Korea, cloned, fluorescent, Genetically modified organism, dog_
+_Context: cloned, Genetically modified organism, dog, South Korea, fluorescent_
 
-##### U.S.
+##### United States
 ### [ United States Senator Arlen Specter of Pennsylvania switches from the Republican to the Democratic Party. ](/news/2009/04/28/united-states-senator-arlen-specter-of-pennsylvania-switches-from-the-republican-to-the-democratic-party.md)
-_Context: Arlen Specter, Pennsylvania, U.S., Democrat, United States Senate, Republican_
+_Context: Arlen Specter, Republican, United States Senate, Democrat, United States, Pennsylvania_
 
 ##### Sri Lanka
 ### [ Sri Lanka's government denies Swedish Foreign Minister Carl Bildt a visa. ](/news/2009/04/28/sri-lanka-s-government-denies-swedish-foreign-minister-carl-bildt-a-visa.md)
@@ -17,7 +17,7 @@ Sweden has recalled its ambassador to Sri Lanka after Colombo barred Swedish For
 
 ##### Magnitude
 ### [ A 3.7-magnitude earthquake strikes Ulverston, Cumbria, England. ](/news/2009/04/28/a-3-7-magnitude-earthquake-strikes-ulverston-cumbria-england.md)
-_Context: Ulverston, earthquake, magnitude, England, Cumbria_
+_Context: Ulverston, magnitude, earthquake, England, Cumbria_
 
 ##### Russia
 ### [ The Russian destroyer "Admiral Panteleyev" detains 29 suspected Somali pirates in the Gulf of Aden. ](/news/2009/04/28/the-russian-destroyer-admiral-panteleyev-detains-29-suspected-somali-pirates-in-the-gulf-of-aden.md)

@@ -13,7 +13,7 @@ The explosions occurred as representatives of Syria&#x27;s government and its di
 
 ##### Yemeni Civil War (2015-present)
 ### [Yemen's top salafist cleric, Samahan Abdel-Aziz, is found dead, with signs of torture, in Sheikh Othman, Aden Governorate, after being abducted by gunmen outside his mosque after delivering a sermon against Al-Qaeda and the Islamic State. ](/news/2016/01/31/yemen-s-top-salafist-cleric-samahan-abdel-aziz-is-found-dead-with-signs-of-torture-in-sheikh-othman-aden-governorate-after-being-abduc.md)
-_Context: Yemeni Civil War (2015-present), ISIL, al-Qaeda, Aden Governorate, Sheikh Othman, salafist, Yemen_
+_Context: al-Qaeda, ISIL, Sheikh Othman, Yemen, Aden Governorate, salafist, Yemeni Civil War (2015-present)_
 
 ##### 2015-16 Australian region cyclone season
 ### [Tropical Cyclone Stan makes landfall on the Western Australian coast east of Pardoo. ](/news/2016/01/31/tropical-cyclone-stan-makes-landfall-on-the-western-australian-coast-east-of-pardoo.md)
@@ -25,7 +25,7 @@ _Context: Cairo, Egypt_
 
 ##### Multi-car pile-up
 ### [At least 21 people are killed and 16 injured in a multi-car pile-up on a road near the city of Beni Suef, Egypt. ](/news/2016/01/31/at-least-21-people-are-killed-and-16-injured-in-a-multi-car-pile-up-on-a-road-near-the-city-of-beni-suef-egypt.md)
-_Context: multi-car pile-up, Beni Suef, Egypt_
+_Context: Beni Suef, Egypt, multi-car pile-up_
 
 ##### Moscow
 ### [A huge fire at a factory in Moscow's eastern Sokolniki District, kills at least 12 people. Police suspect arson may be involved. ](/news/2016/01/31/a-huge-fire-at-a-factory-in-moscow-s-eastern-sokolniki-district-kills-at-least-12-people-police-suspect-arson-may-be-involved.md)

@@ -9,15 +9,15 @@ Nine dangerous chemicals used in farming and industry will be added to a list of
 
 ##### Democratic Party
 ### [ The Democratic Party wins a plurality of seats in Indonesia's People's Consultative Assembly. ](/news/2009/05/9/the-democratic-party-wins-a-plurality-of-seats-in-indonesia-s-people-s-consultative-assembly.md)
-_Context: plurality, People's Consultative Assembly, 2009 legislative elections, Democratic Party, Indonesia, seats_
+_Context: Indonesia, Democratic Party, plurality, People's Consultative Assembly, seats, 2009 legislative elections_
 
 ##### Jacob Zuma
 ### [ Jacob Zuma is inaugurated as President of South Africa. ](/news/2009/05/9/jacob-zuma-is-inaugurated-as-president-of-south-africa.md)
-_Context: South Africa, Jacob Zuma, inaugurated, President_
+_Context: Jacob Zuma, inaugurated, South Africa, President of South Africa_
 
 ##### United Nations
 ### [ The United Nations Security Council condemns the Union of Forces for Democracy and Development's ongoing incursions from Sudan into Chad. ](/news/2009/05/9/the-united-nations-security-council-condemns-the-union-of-forces-for-democracy-and-development-s-ongoing-incursions-from-sudan-into-chad.md)
-_Context: United Nations Security Council, Union of Forces for Democracy and Development, performed, United Nations, Chad, Sudan_
+_Context: Chad, United Nations, United Nations Security Council, Sudan, performed, Union of Forces for Democracy and Development_
 
 ##### Military
 ### [ The Pakistani Army kills 55 Taliban militants in Swat, Pakistan. ](/news/2009/05/9/the-pakistani-army-kills-55-taliban-militants-in-swat-pakistan.md)

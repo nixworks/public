@@ -9,7 +9,7 @@ Taliban bombers attack an Afghan police convoy outside Kabul, killing at least 3
 
 ##### Boko Haram insurgency
 ### [At least 15 people are killed and 50 are wounded following two suicide bombings in Cameroon's Far North Region. ](/news/2016/06/30/at-least-15-people-are-killed-and-50-are-wounded-following-two-suicide-bombings-in-cameroon-s-far-north-region.md)
-_Context: Far North Region, Boko Haram insurgency, Cameroon_
+_Context: Cameroon, Far North Region, Boko Haram insurgency_
 
 ##### Iraqi Civil War (2014-present)
 ### [According to reports, at least 250 ISIL militants were killed during fighting in the city of Fallujah while fighting Iraqi Army forces with assistance from U.S. airstrikes. ](/news/2016/06/30/according-to-reports-at-least-250-isil-militants-were-killed-during-fighting-in-the-city-of-fallujah-while-fighting-iraqi-army-forces-with.md)
@@ -17,7 +17,7 @@ Preliminary and unofficial estimates suggest US-led coalition air strikes have k
 
 ##### 2016 Istanbul airport attack
 ### [A Turkish official reports the three suspected Islamic State suicide bombers who killed 44 people and wounded 238 others were Russian, Uzbek, and Kyrgyz nationals. ](/news/2016/06/30/a-turkish-official-reports-the-three-suspected-islamic-state-suicide-bombers-who-killed-44-people-and-wounded-238-others-were-russian-uzbek.md)
-_Context: Russia, Uzbekistan, 2016 Istanbul airport attack, Turkey, Kyrgyzstan, ISIL_
+_Context: ISIL, Russia, 2016 Istanbul airport attack, Uzbekistan, Turkey, Kyrgyzstan_
 
 ##### Israeli-Palestinian conflict
 ### [A 17-year-old Palestinian stabs and kills a sleeping 13-year-old Israeli and American citizen girl Hallel Yaffa Ariel in her bedroom. The assailant is fatally shot by security guards. Israeli Prime Minister Benjamin Netanyahu blamed "incitement-driven terrorists" while the U.S. State Department condemned the "outrageous terrorist attack." ](/news/2016/06/30/a-17-year-old-palestinian-stabs-and-kills-a-sleeping-13-year-old-israeli-and-american-citizen-girl-hallel-yaffa-ariel-in-her-bedroom-the-as.md)
@@ -25,7 +25,7 @@ A Palestinian fatally stabbed a 13-year-old Israeli girl in her bedroom in a set
 
 ##### The Hershey Company
 ### [The Hershey Company rejects a $23 billion takeover bid by rival Mondelez International, maker of Oreo cookies and Cadbury chocolates. ](/news/2016/06/30/the-hershey-company-rejects-a-23-billion-takeover-bid-by-rival-mondelez-international-maker-of-oreo-cookies-and-cadbury-chocolates.md)
-_Context: Cadbury chocolates, Oreo cookies, Mondelez International, The Hershey Company_
+_Context: The Hershey Company, Cadbury chocolates, Mondelez International, Oreo cookies_
 
 ##### European migrant crisis
 ### [At least 10 people drown off the coast of Libya when their dinghy sinks. The Italian Navy managed to rescue over 100 more people. ](/news/2016/06/30/at-least-10-people-drown-off-the-coast-of-libya-when-their-dinghy-sinks-the-italian-navy-managed-to-rescue-over-100-more-people.md)
@@ -53,11 +53,11 @@ A sharp increase in killings of criminal suspects since the election of Rodrigo 
 
 ##### Communist Party of China
 ### [Luo Huining leaves his position as party chief of Qinghai and becomes party chief of Shanxi province, replacing Wang Rulin. ](/news/2016/06/30/luo-huining-leaves-his-position-as-party-chief-of-qinghai-and-becomes-party-chief-of-shanxi-province-replacing-wang-rulin.md)
-_Context: Qinghai, Communist Party of China, Wang Rulin, Shanxi province, Luo Huining_
+_Context: Shanxi province, Communist Party of China, Wang Rulin, Qinghai, Luo Huining_
 
 ##### Bosnia and Herzegovina
 ### [Bosnia and Herzegovina officially releases its first census report since the end of the Bosnian War after multiple delays, showing that the country had lost one fifth of its population from 4.4 million to 3.5 million between then and 2013. ](/news/2016/06/30/bosnia-and-herzegovina-officially-releases-its-first-census-report-since-the-end-of-the-bosnian-war-after-multiple-delays-showing-that-the.md)
-_Context: Bosnia and Herzegovina, Bosnian War_
+_Context: Bosnian War, Bosnia and Herzegovina_
 
 ##### Russia
 ### [Russian Defense Minister Sergey Shoygu dismisses 50 high-ranking Navy officers, including Baltic Fleet Commander Viktor Kravchuk and Chief of Staff Sergei Popov, following a month-long inspection that found incompetence, deficiencies in training, and misinformation regarding the state of the fleet. ](/news/2016/06/30/russian-defense-minister-sergey-shoygu-dismisses-50-high-ranking-navy-officers-including-baltic-fleet-commander-viktor-kravchuk-and-chief-o.md)

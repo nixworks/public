@@ -9,7 +9,7 @@ Turkish police detain six people over the killing of the Russian ambassador, who
 
 ##### Aleppo offensive (November-December 2016)
 ### [The International Committee of the Red Cross claims that 25,000 residents of the rebel-held territories have been evacuated from Aleppo as Hezbollah warns remaining residents in the former rebel enclave to leave "as quickly as possible". ](/news/2016/12/20/the-international-committee-of-the-red-cross-claims-that-25-000-residents-of-the-rebel-held-territories-have-been-evacuated-from-aleppo-as-h.md)
-_Context: International Committee of the Red Cross, Aleppo, Aleppo offensive (November-December 2016), Hezbollah_
+_Context: International Committee of the Red Cross, Aleppo offensive (November-December 2016), Hezbollah, Aleppo_
 
 ##### Last week's attack on a Christmas market in Berlin
 ### [The Islamic State of Iraq and the Levant claims responsibility via Amaq News Agency for the truck attack in Berlin, Germany, which left at least 12 people dead and 49 injured. ](/news/2016/12/20/the-islamic-state-of-iraq-and-the-levant-claims-responsibility-via-amaq-news-agency-for-the-truck-attack-in-berlin-germany-which-left-at-l.md)
@@ -17,7 +17,7 @@ So-called Islamic State says one of its militants carried out the deadly Berlin 
 
 ##### Drug crackdown
 ### [A news publisher is allegedly killed in the Philippine province of Catanduanes after publishing a story about the controversial drug purge campaign. ](/news/2016/12/20/a-news-publisher-is-allegedly-killed-in-the-philippine-province-of-catanduanes-after-publishing-a-story-about-the-controversial-drug-purge-c.md)
-_Context: Catanduanes, drug crackdown, Philippines_
+_Context: Catanduanes, Philippines, drug crackdown_
 
 ##### Al-Karak
 ### [Four police officers and one suspect have been killed following a raid on an apartment near Al-Karak in Jordan. Two more suspects have been arrested under suspicions of connections with Sunday's attack in the city by the Islamic State. ](/news/2016/12/20/four-police-officers-and-one-suspect-have-been-killed-following-a-raid-on-an-apartment-near-al-karak-in-jordan-two-more-suspects-have-been.md)
@@ -25,7 +25,7 @@ One suspect among five dead after raid on apartment in Jordanian province which 
 
 ##### December 2016 Congolese protests
 ### [Clashes between security forces and anti-government protesters demanding the resignation of President Joseph Kabila reportedly leave more than 20 people dead in the Democratic Republic of the Congo. ](/news/2016/12/20/clashes-between-security-forces-and-anti-government-protesters-demanding-the-resignation-of-president-joseph-kabila-reportedly-leave-more-th.md)
-_Context: DR Congo, President, December 2016 Congolese protests, Kabila government_
+_Context: President, Kabila government, December 2016 Congolese protests, DR Congo_
 
 ##### Tupac Shakur
 ### [Tupac Shakur, Joan Baez, and most of the members of Pearl Jam are to receive honors in the Rock and Roll Hall of Fame. ](/news/2016/12/20/tupac-shakur-joan-baez-and-most-of-the-members-of-pearl-jam-are-to-receive-honors-in-the-rock-and-roll-hall-of-fame.md)
@@ -45,7 +45,7 @@ A cargo plane crashes shortly after take-off from the southern Colombian city of
 
 ##### China-United States relations
 ### [The People's Republic of China returns a United States unmanned underwater drone that it seized in the South China Sea last week. ](/news/2016/12/20/the-people-s-republic-of-china-returns-a-united-states-unmanned-underwater-drone-that-it-seized-in-the-south-china-sea-last-week.md)
-_Context: South China Sea, China-United States relations, China, U.S._
+_Context: United States, China, China-United States relations, South China Sea_
 
 ##### Indonesia
 ### [Indonesia arrests hundreds of protesters in Indonesian Papua. ](/news/2016/12/20/indonesia-arrests-hundreds-of-protesters-in-indonesian-papua.md)

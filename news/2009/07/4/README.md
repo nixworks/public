@@ -5,11 +5,11 @@ Formats: [HTML](2009/07/4/index.html)  [JSON](2009/07/4/index.json)  [XML](2009/
 
 ##### Cherokee County killer
 ### [ The Cherokee County killer claims his fifth victim in South Carolina, USA.](/news/2009/07/4/the-cherokee-county-killer-claims-his-fifth-victim-in-south-carolina-usa.md)
-_Context: USA, Cherokee County killer, South Carolina_
+_Context: South Carolina, Cherokee County killer, USA_
 
 ##### Irish
 ### [ Ireland's Minister for Foreign Affairs, Michel Martin, calls for the immediate release of two aid workers who were kidnapped in Sudan's Darfur region. ](/news/2009/07/4/ireland-s-minister-for-foreign-affairs-micheal-martin-calls-for-the-immediate-release-of-two-aid-workers-who-were-kidnapped-in-sudan-s-da.md)
-_Context: Sudan, Minister for Foreign Affairs, Michel Martin, Darfur, Irish_
+_Context: Sudan, Darfur, Minister for Foreign Affairs, Irish, Michel Martin_
 
 ##### Bishop of Rochester
 ### [ Bishop of Rochester Michael Nazir-Ali calls on homosexuals to "repent and be changed" and says the Church of England will not be "rolled over by culture". ](/news/2009/07/4/bishop-of-rochester-michael-nazir-ali-calls-on-homosexuals-to-repent-and-be-changed-and-says-the-church-of-england-will-not-be-rolled-ov.md)
@@ -25,7 +25,7 @@ _Context: China_
 
 ##### United Nations
 ### [ The United Nations Secretary General Ban Ki-moon is denied access to meet detained National League for Democracy leader Aung San Suu Kyi while on a visit to Burma. ](/news/2009/07/4/the-united-nations-secretary-general-ban-ki-moon-is-denied-access-to-meet-detained-national-league-for-democracy-leader-aung-san-suu-kyi-wh.md)
-_Context: United Nations, Ban Ki-moon, National League for Democracy, Aung San Suu Kyi, United Nations Secretary-General, Burma_
+_Context: Ban Ki-moon, United Nations Secretary-General, Burma, Aung San Suu Kyi, National League for Democracy, United Nations_
 
 ##### Pakistan
 ### [ 12 militants are killed in an air raid in northwestern Pakistan. ](/news/2009/07/4/12-militants-are-killed-in-an-air-raid-in-northwestern-pakistan.md)
@@ -33,15 +33,15 @@ _Context: Pakistan_
 
 ##### Chechnya
 ### [ Nine Chechen policeman are killed after their vehicle is attacked in neighbouring Ingushetia, southern Russia. ](/news/2009/07/4/nine-chechen-policeman-are-killed-after-their-vehicle-is-attacked-in-neighbouring-ingushetia-southern-russia.md)
-_Context: Russia, Chechnya, Ingushetia_
+_Context: Russia, Ingushetia, Chechnya_
 
 ##### Iran
 ### [ The Iranian state-owned newspaper "Kayhan" calls for Mir-Hossein Mousavi to stand trial. ](/news/2009/07/4/the-iranian-state-owned-newspaper-kayhan-calls-for-mir-hossein-mousavi-to-stand-trial.md)
-_Context: Mir-Hossein Mousavi, Kayhan, State television, Iran_
+_Context: Iran, Mir-Hossein Mousavi, Kayhan, State television_
 
 ##### Mazandran
 ### [ 35 people are arrested in Mazandran, northern Iran, during post-election protests. ](/news/2009/07/4/35-people-are-arrested-in-mazandran-northern-iran-during-post-election-protests.md)
-_Context: re-election, Mazandran, protests against the regime, Iran_
+_Context: Iran, protests against the regime, re-election, Mazandran_
 
 ##### Serena Williams
 ### [ Serena Williams wins the women's singles at the 2009 Wimbledon Championships after defeating her sister, Venus Williams. ](/news/2009/07/4/serena-williams-wins-the-women-s-singles-at-the-2009-wimbledon-championships-after-defeating-her-sister-venus-williams.md)

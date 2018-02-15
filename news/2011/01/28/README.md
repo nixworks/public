@@ -21,11 +21,11 @@ _Context: Socialist Party, Albania_
 
 ##### Tear gas
 ### [Police fire tear gas at anti-government protesters in Gabon two days after opposition leader Andre Mba Obame declares himself president. ](/news/2011/01/28/police-fire-tear-gas-at-anti-government-protesters-in-gabon-two-days-after-opposition-leader-andra-c-mba-obame-declares-himself-president.md)
-_Context: tear gas, Independent, Gabon, Andre Mba Obame_
+_Context: Gabon, Andre Mba Obame, Independent, tear gas_
 
 ##### Modu Fannami Gubio
 ### [At least four people, including Modu Fannami Gubio, a former opposition All Nigeria Peoples Party (ANPP) candidate for governor in Borno, Nigeria, are shot dead in Maiduguri. ](/news/2011/01/28/at-least-four-people-including-modu-fannami-gubio-a-former-opposition-all-nigeria-peoples-party-anpp-candidate-for-governor-in-borno-ni.md)
-_Context: Borno State, Maiduguri, All Nigeria Peoples Party, Nigeria, Modu Fannami Gubio_
+_Context: All Nigeria Peoples Party, Nigeria, Modu Fannami Gubio, Borno State, Maiduguri_
 
 ##### West Bank
 ### [During a clash between Palestinians and Israeli settlers in the West Bank, an Israeli settler shoots and kills an 18-year-old Palestinian. ](/news/2011/01/28/during-a-clash-between-palestinians-and-israeli-settlers-in-the-west-bank-an-israeli-settler-shoots-and-kills-an-18-year-old-palestinian.md)
@@ -65,7 +65,7 @@ Nasa officials gather at Kennedy Space Center in Florida to mark the 25th annive
 
 ##### Lautan Teduh
 ### [At least 11 passengers of the Lautan Teduh ferry, which caught fire in the Sunda Strait, have been confirmed dead. The remains of nine of the passengers who died in the fire were taken to Krakatau Medika in Cilegon, while the other two were taken to Kalianda Hospital in Lampung. ](/news/2011/01/28/at-least-11-passengers-of-the-lautan-teduh-ferry-which-caught-fire-in-the-sunda-strait-have-been-confirmed-dead-the-remains-of-nine-of-th.md)
-_Context: Kalianda Hospital, Krakatau Medika, Lampung, Cilegon, Lautan Teduh, Sunda Strait_
+_Context: Krakatau Medika, Sunda Strait, Kalianda Hospital, Lautan Teduh, Cilegon, Lampung_
 
 ##### Jeddah
 ### [Flooding in Jeddah since the 26th kills 11 people, leaves three missing and destroys over 10,000 buildings, leading to protests in the city over poor infrastructure. ](/news/2011/01/28/flooding-in-jeddah-since-the-26th-kills-11-people-leaves-three-missing-and-destroys-over-10-000-buildings-leading-to-protests-in-the-city.md)
@@ -89,7 +89,7 @@ Fine Gael leader Enda Kenny has told the president of the European Commission Jo
 
 ##### Chinese police
 ### [Chinese authorities offer no response to requests by jailed dissident and Nobel peace laureate Liu Xiaobo for family visits. ](/news/2011/01/28/chinese-authorities-offer-no-response-to-requests-by-jailed-dissident-and-nobel-peace-laureate-liu-xiaobo-for-family-visits.md)
-_Context: Nobel Peace Prize, Liu Xiaobo, dissident, Chinese police_
+_Context: Liu Xiaobo, dissident, Nobel Peace Prize, Chinese police_
 
 ##### Lahore
 ### [A U.S. official appears in court charged with the murder of two motorcyclists shot dead in Lahore, Pakistan. He may be executed if found guilty. ](/news/2011/01/28/a-u-s-official-appears-in-court-charged-with-the-murder-of-two-motorcyclists-shot-dead-in-lahore-pakistan-he-may-be-executed-if-found-gui.md)
@@ -107,7 +107,7 @@ Former IDF officer was sentenced in absentia to 11 years in prison for training 
 ### [Guillermo Farinas, known for his hunger strike campaigns, is detained by authorities for the second time in as many days. He is being held in the Cuban city of Santa Clara. ](/news/2011/01/28/guillermo-faria-as-known-for-his-hunger-strike-campaigns-is-detained-by-authorities-for-the-second-time-in-as-many-days-he-is-being-held.md)
 Cuban dissident Guillermo Farinas is released after being arrested three times in 48 hours, as he defied official warnings to keep a low profile.
 
-##### President
+##### President of South Africa
 ### [Former President of South Africa Nelson Mandela is discharged from hospital following two days of tests. ](/news/2011/01/28/former-president-of-south-africa-nelson-mandela-is-discharged-from-hospital-following-two-days-of-tests.md)
 South African ex-President Nelson Mandela leaves a Johannesburg hospital and is said to be in good spirits after spending two nights there for tests.
 

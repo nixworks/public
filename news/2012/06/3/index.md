@@ -9,7 +9,7 @@ Sporadic gunfire punctuates a cautious calm in the north Lebanon city of Tripoli
 
 ##### Drones launch
 ### [A U.S. drone attack in Pakistan's South Waziristan tribal region kills at least 10 suspected militants. ](/news/2012/06/3/a-u-s-drone-attack-in-pakistan-s-south-waziristan-tribal-region-kills-at-least-10-suspected-militants.md)
-_Context: South Waziristan, Pakistan, drones launch_
+_Context: drones launch, Pakistan, South Waziristan_
 
 ##### Suicide car bombing
 ### [A suicide car bombing outside a church in the Nigerian city of Bauchi kills 15 people and injures 42 others. ](/news/2012/06/3/a-suicide-car-bombing-outside-a-church-in-the-nigerian-city-of-bauchi-kills-15-people-and-injures-42-others.md)
@@ -21,15 +21,15 @@ _Context: Elizabeth II, River Thames, diamond jubilee, pageant_
 
 ##### Crashes
 ### [A plane carrying 153 people on board crashes in a residential neighborhood in Lagos, Nigeria, killing everyone on board and 10 people on the ground. ](/news/2012/06/3/a-plane-carrying-153-people-on-board-crashes-in-a-residential-neighborhood-in-lagos-nigeria-killing-everyone-on-board-and-10-people-on-the.md)
-_Context: crashes, Lagos, Nigeria_
+_Context: Lagos, Nigeria, crashes_
 
 ##### United States Secretary of Defense
 ### [United States Secretary of Defense Leon Panetta visits a former U.S. base in Cam Ranh Bay, the first visit by an American official of cabinet rank to Vietnam since the Vietnam War. ](/news/2012/06/3/united-states-secretary-of-defense-leon-panetta-visits-a-former-u-s-base-in-cam-ranh-bay-the-first-visit-by-an-american-official-of-cabine.md)
-_Context: Vietnam, United States Secretary of Defense, Leon Panetta, Vietnam War, Cam Ranh Bay_
+_Context: Vietnam, Cam Ranh Bay, Leon Panetta, United States Secretary of Defense, Vietnam War_
 
 ##### China
 ### [Police in China crack down on political activists marking the 23rd anniversary of the 1989 Tiananmen Square protests. ](/news/2012/06/3/police-in-china-crack-down-on-political-activists-marking-the-23rd-anniversary-of-the-1989-tiananmen-square-protests.md)
-_Context: 1989 Tiananmen Square protests, China_
+_Context: China, 1989 Tiananmen Square protests_
 
 ##### Japan
 ### [Police in Japan arrest Naoko Kikuchi, a member of the Aum Shinrikyo cult and one of the two fugitives still at large wanted over the deadly sarin gas attacks on the Tokyo subway in March 1995. ](/news/2012/06/3/police-in-japan-arrest-naoko-kikuchi-a-member-of-the-aum-shinrikyo-cult-and-one-of-the-two-fugitives-still-at-large-wanted-over-the-deadly.md)
@@ -41,7 +41,7 @@ _Context: Turkey, abortion_
 
 ##### BBC
 ### [Speaking on the BBC's "The Andrew Marr Show", British Prime Minister David Cameron says that Culture Secretary Jeremy Hunt "acted wisely" in his handling of the BSkyB takeover bid. ](/news/2012/06/3/speaking-on-the-bbc-s-the-andrew-marr-show-british-prime-minister-david-cameron-says-that-culture-secretary-jeremy-hunt-acted-wisely-in.md)
-_Context: The Andrew Marr Show, Prime Minister, David Cameron, Secretary of State for Culture, Media and Sport, Jeremy Hunt, BSkyB takeover bid, BBC_
+_Context: Prime Minister, Secretary of State for Culture, Media and Sport, BBC, The Andrew Marr Show, David Cameron, Jeremy Hunt, BSkyB takeover bid_
 
 ## [Previous Day...](/news/2012/06/2/index.md)
 

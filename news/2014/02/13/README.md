@@ -9,15 +9,15 @@ Afghan authorities release 65 detainees from the Bagram detention centre, a move
 
 ##### Policemen
 ### [At least eight police officers are killed in a suicide bomb attack in Karachi. ](/news/2014/02/13/at-least-eight-police-officers-are-killed-in-a-suicide-bomb-attack-in-karachi.md)
-_Context: suicide bomb, Karachi, policemen_
+_Context: Karachi, policemen, suicide bomb_
 
-##### U.S.
+##### United States
 ### [The United States says that it is ready to defend its allies in case of an armed conflict. ](/news/2014/02/13/the-united-states-says-that-it-is-ready-to-defend-its-allies-in-case-of-an-armed-conflict.md)
-_Context: U.S._
+_Context: United States_
 
 ##### Typhoon Haiyan (Yolanda)
 ### [Typhoon Haiyan victims are visited by former footballer David Beckham who seeks to raise awareness about their plight. ](/news/2014/02/13/typhoon-haiyan-victims-are-visited-by-former-footballer-david-beckham-who-seeks-to-raise-awareness-about-their-plight.md)
-_Context: David Beckham, Typhoon Haiyan (Yolanda), footballer_
+_Context: David Beckham, footballer, Typhoon Haiyan (Yolanda)_
 
 ##### Luxor
 ### [Archaeologists unearth a painted, human-shaped sarcophagus that's 3,600 years old -- with a mummy still inside in Luxor, Egypt. ](/news/2014/02/13/archaeologists-unearth-a-painted-human-shaped-sarcophagus-that-s-3-600-years-old-with-a-mummy-still-inside-in-luxor-egypt.md)
@@ -25,7 +25,7 @@ _Context: Luxor_
 
 ##### Comcast
 ### [Comcast is set to acquire Time Warner Cable in a US$44 billion buyout. ](/news/2014/02/13/comcast-is-set-to-acquire-time-warner-cable-in-a-us-44-billion-buyout.md)
-_Context: Comcast, Time Warner Cable, United States dollars_
+_Context: Time Warner Cable, Comcast, United States dollars_
 
 ##### Reuters
 ### [A Reuters poll of economic forecasters finds that they are more worried about deflation across the Eurozone than is the ECB. ](/news/2014/02/13/a-reuters-poll-of-economic-forecasters-finds-that-they-are-more-worried-about-deflation-across-the-eurozone-than-is-the-ecb.md)
@@ -33,15 +33,15 @@ The threat of deflation across the euro zone is more serious than the European C
 
 ##### Facebook
 ### [Facebook users in the United States are now allowed to customize their gender. ](/news/2014/02/13/facebook-users-in-the-united-states-are-now-allowed-to-customize-their-gender.md)
-_Context: U.S., Facebook_
+_Context: United States, Facebook_
 
 ##### Winter storms
 ### [Thousands of homes in England remain without power following Wednesday's storms as the UK's Met Office forecasts fresh heavy rain and high winds for Friday. ](/news/2014/02/13/thousands-of-homes-in-england-remain-without-power-following-wednesday-s-storms-as-the-uk-s-met-office-forecasts-fresh-heavy-rain-and-high-w.md)
-_Context: Winter storms, Met Office_
+_Context: Met Office, Winter storms_
 
 ##### Mount Kelud
 ### [Mount Kelud erupts prompting the evacuation of 200,000 people on the Indonesian island of Java. ](/news/2014/02/13/mount-kelud-erupts-prompting-the-evacuation-of-200-000-people-on-the-indonesian-island-of-java.md)
-_Context: Indonesia, Mount Kelud, Java_
+_Context: Java, Indonesia, Mount Kelud_
 
 ##### Moscow
 ### [During a two-day visit by an Egyptian delegation in Moscow, Russian Foreign Minister Sergey Lavrov said that Moscow and Cairo have agreed to speed up work on drafting agreements on military-technological cooperation. Russian Defense Minister Sergey Shoigu added that this could include joint military exercises and training of Egyptian officers in Russian military academies.](/news/2014/02/13/during-a-two-day-visit-by-an-egyptian-delegation-in-moscow-russian-foreign-minister-sergey-lavrov-said-that-moscow-and-cairo-have-agreed-to.md)
@@ -61,7 +61,7 @@ Belgian lawmakers voted overwhelmingly on Thursday to extend the country&#039;s 
 
 ##### India
 ### [Lawmakers riot in the lower house of India's parliament in protest of a plan creating the state of Telangana. ](/news/2014/02/13/lawmakers-riot-in-the-lower-house-of-india-s-parliament-in-protest-of-a-plan-creating-the-state-of-telangana.md)
-_Context: Telangana, India_
+_Context: India, Telangana_
 
 ##### Venezuela
 ### [Venezuelan President Nicolas Maduro arrests opposition activists in reaction to an "attempted coup" against his government. ](/news/2014/02/13/venezuelan-president-nicola-s-maduro-arrests-opposition-activists-in-reaction-to-an-attempted-coup-against-his-government.md)
@@ -77,7 +77,7 @@ _Context: Virginia, gay marriage_
 
 ##### Yutu
 ### [China's Yutu rover, after being pronounced dead the day previously, leaves dormancy one day late after malfunctioning prior to the Lunar night. ](/news/2014/02/13/china-s-yutu-rover-after-being-pronounced-dead-the-day-previously-leaves-dormancy-one-day-late-after-malfunctioning-prior-to-the-lunar-nig.md)
-_Context: Yutu, Moon_
+_Context: Moon, Yutu_
 
 ##### Clovis culture
 ### [The remains of an infant boy from the Clovis culture is determined to be Native American. ](/news/2014/02/13/the-remains-of-an-infant-boy-from-the-clovis-culture-is-determined-to-be-native-american.md)

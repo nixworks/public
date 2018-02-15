@@ -5,7 +5,7 @@ Formats: [HTML](2009/11/24/index.html)  [JSON](2009/11/24/index.json)  [XML](200
 
 ##### Casablanca
 ### [ An appeal court in Casablanca, Morocco, upholds a three year jail term against a human rights activist, Chahib Khayari, for "offending the authorities" after accusing top officials of being involved in drug networks. ](/news/2009/11/24/an-appeal-court-in-casablanca-morocco-upholds-a-three-year-jail-term-against-a-human-rights-activist-chahib-khayari-for-offending-the.md)
-_Context: Casablanca, Morocco, Chahib Khayari_
+_Context: Morocco, Chahib Khayari, Casablanca_
 
 ##### France
 ### [ Two French charity workers are kidnapped in the Central African Republic, in the latest in a series of kidnappings. ](/news/2009/11/24/two-french-charity-workers-are-kidnapped-in-the-central-african-republic-in-the-latest-in-a-series-of-kidnappings.md)
@@ -23,13 +23,13 @@ Trade unions have announced plans for a second national strike in public sector 
 ### [ The Government of Ireland announces a EUR10 million humanitarian fund for the worst affected by ongoing floods in the country. ](/news/2009/11/24/the-government-of-ireland-announces-a-a-10-million-humanitarian-fund-for-the-worst-affected-by-ongoing-floods-in-the-country.md)
 The Government has announced a €10m humanitarian fund to help those worst affected by the worst flooding on record.
 
-##### U.S.
+##### United States
 ### [ Over 1,500 complaints are received from American viewers after a gay kiss involving Adam Lambert is televised during an awards ceremony. ](/news/2009/11/24/over-1-500-complaints-are-received-from-american-viewers-after-a-gay-kiss-involving-adam-lambert-is-televised-during-an-awards-ceremony.md)
-_Context: homosexual, U.S., Adam Lambert_
+_Context: United States, homosexual, Adam Lambert_
 
 ##### Iran
 ### [ Iran lifts a ban on one of its best-selling newspapers, "Hamshahri", a day after it was banned from publication after publishing a picture of a temple from the banned Baha'i faith. ](/news/2009/11/24/iran-lifts-a-ban-on-one-of-its-best-selling-newspapers-hamshahri-a-day-after-it-was-banned-from-publication-after-publishing-a-picture.md)
-_Context: Hamshahri, banned, Iran, Baha'i faith_
+_Context: Iran, Hamshahri, banned, Baha'i faith_
 
 ##### DR Congo
 ### [ The trial of two Congolese militia leaders, Germain Katanga and Mathieu Ngudjolo Chui, begins at the International Criminal Court in The Hague. ](/news/2009/11/24/the-trial-of-two-congolese-militia-leaders-germain-katanga-and-mathieu-ngudjolo-chui-begins-at-the-international-criminal-court-in-the-ha.md)
@@ -45,11 +45,11 @@ _Context: European Parliament, European Union_
 
 ##### Inquiry opens
 ### [ An inquiry opens in the United Kingdom over the country's involvement in the Iraq War. ](/news/2009/11/24/an-inquiry-opens-in-the-united-kingdom-over-the-country-s-involvement-in-the-iraq-war.md)
-_Context: inquiry opens, Iraq War, United Kingdom_
+_Context: United Kingdom, Iraq War, inquiry opens_
 
 ##### Ukraine
 ### [ Pirates kill a Ukrainian sailor after an oil tanker is attacked off the coast of Benin. ](/news/2009/11/24/pirates-kill-a-ukrainian-sailor-after-an-oil-tanker-is-attacked-off-the-coast-of-benin.md)
-_Context: Ukraine, Benin_
+_Context: Benin, Ukraine_
 
 ##### China
 ### [ China executes two people for their role in the tainted milk poisoning scandal. ](/news/2009/11/24/china-executes-two-people-for-their-role-in-the-tainted-milk-poisoning-scandal.md)
@@ -57,7 +57,7 @@ State media says two executed over tainted milk that sickened thousands in 2008.
 
 ##### Hindu
 ### [ In a tribute to Hindu goddess Gadhimai, approximately 20,000 buffalo and 300,000 birds, sheep and goats are ritually slaughtered in a festival in Bariyapur, Nepal. ](/news/2009/11/24/in-a-tribute-to-hindu-goddess-gadhimai-approximately-20-000-buffalo-and-300-000-birds-sheep-and-goats-are-ritually-slaughtered-in-a-festi.md)
-_Context: Hindu, festival, Bariyapur, Gadhimai, ritually slaughtered, goddess, Nepal_
+_Context: Gadhimai, festival, ritually slaughtered, Nepal, Bariyapur, Hindu, goddess_
 
 ##### Gloria Macapagal Arroyo
 ### [ Philippine President Gloria Macapagal Arroyo declares a state of emergency in the entire Maguindanao province in southern Philippines following the bloodiest election-related massacre in Philippine history which left at least 40 people dead, including a local politician and about a dozen journalists. ](/news/2009/11/24/philippine-president-gloria-macapagal-arroyo-declares-a-state-of-emergency-in-the-entire-maguindanao-province-in-southern-philippines-follo.md)
@@ -65,7 +65,7 @@ _Context: Hindu, festival, Bariyapur, Gadhimai, ritually slaughtered, goddess, N
 
 ##### 2009 gubernatorial election and runoff
 ### [ In the Northern Mariana Islands' first ever runoff, incumbent Governor Benigno Fitial of the Covenant Party leads Republican Party Rep. Heinz Hofschneider by 501 votes. ](/news/2009/11/24/in-the-northern-mariana-islands-first-ever-runoff-incumbent-governor-benigno-fitial-of-the-covenant-party-leads-republican-party-rep-hei.md)
-_Context: Republican, Northern Mariana Islands, Benigno Fitial, Governor of the Northern Mariana Islands, second round, Northern Mariana Islands House of Representatives, Covenant Party, Heinz Hofschneider, 2009 gubernatorial election and runoff_
+_Context: second round, Northern Mariana Islands, Republican, Covenant Party, Northern Mariana Islands House of Representatives, 2009 gubernatorial election and runoff, Heinz Hofschneider, Benigno Fitial, Governor of the Northern Mariana Islands_
 
 ##### Opera
 ### [ Web browser Opera closes a loophole which allowed Chinese users to access websites banned by the government. ](/news/2009/11/24/web-browser-opera-closes-a-loophole-which-allowed-chinese-users-to-access-websites-banned-by-the-government.md)

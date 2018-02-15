@@ -9,19 +9,19 @@ _Context: Israel, United Nations Relief and Works Agency for Palestine Refugees 
 
 ##### BBC
 ### [ Gunmen attack a BBC news team in Riyadh, Saudi Arabia, killing cameraman Simon Cumbers and seriously injuring correspondent Frank Gardner. ](/news/2004/06/7/gunmen-attack-a-bbc-news-team-in-riyadh-saudi-arabia-killing-cameraman-simon-cumbers-and-seriously-injuring-correspondent-frank-gardner.md)
-_Context: Saudi Arabia, Riyadh, Simon Cumbers, BBC, Frank Gardner_
+_Context: Frank Gardner, Riyadh, BBC, Saudi Arabia, Simon Cumbers_
 
 ##### U.S. presence in Iraq
 ### [ U.S.-led occupation of Iraq: The UN Security Council reaches a compromise agreement on the draft resolution on Iraq. ](/news/2004/06/7/u-s-led-occupation-of-iraq-the-un-security-council-reaches-a-compromise-agreement-on-the-draft-resolution-on-iraq.md)
-_Context: UN Security Council, U.S. presence in Iraq, Iraq_
+_Context: U.S. presence in Iraq, UN Security Council, Iraq_
 
 ##### North American Free Trade Agreement
 ### [ North American Free Trade Agreement: The United States Supreme Court opens US roads to trucks from Mexico, enforcing a key component of the NAFTA agreement over the protests of some environmentalists and Teamsters. ](/news/2004/06/7/north-american-free-trade-agreement-the-united-states-supreme-court-opens-us-roads-to-trucks-from-mexico-enforcing-a-key-component-of-the.md)
-_Context: Teamsters, Mexican, United States Supreme Court, North American Free Trade Agreement, environmentalist_
+_Context: environmentalist, Mexican, United States Supreme Court, Teamsters, North American Free Trade Agreement_
 
 ##### San Francisco
 ### [ A civil trial begins in San Francisco, California, in the U.S. Justice Department's effort to prevent the purchase of PeopleSoft by Oracle Corporation. Antitrust authorities contend that the proposed acquisition of PeopleSoft, for USD $7.7 billion, would effectively monopolize the market for enterprise software. ](/news/2004/06/7/a-civil-trial-begins-in-san-francisco-california-in-the-u-s-justice-department-s-effort-to-prevent-the-purchase-of-peoplesoft-by-oracle.md)
-_Context: PeopleSoft, $, Antitrust, San Francisco, Oracle Corporation, California_
+_Context: California, Antitrust, San Francisco, Oracle Corporation, $, PeopleSoft_
 
 ##### Tampa Bay Lightning
 ### [ The Tampa Bay Lightning defeat the Calgary Flames in Game 7 of the Stanley Cup Finals 2-1, their first Stanley Cup victory. ](/news/2004/06/7/the-tampa-bay-lightning-defeat-the-calgary-flames-in-game-7-of-the-stanley-cup-finals-2a1-their-first-stanley-cup-victory.md)

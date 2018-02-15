@@ -5,7 +5,7 @@ Formats: [HTML](2003/03/26/index.html)  [JSON](2003/03/26/index.json)  [XML](200
 
 ##### UN Secretary General
 ### [ UN Secretary General Kofi Annan says that American and allied troops in Iraq must be used to provide humanitarian aid to Iraqis whilst the security situation is so unstable ](/news/2003/03/26/un-secretary-general-kofi-annan-says-that-american-and-allied-troops-in-iraq-must-be-used-to-provide-humanitarian-aid-to-iraqis-whilst-the.md)
-_Context: Kofi Annan, UN Secretary General_
+_Context: UN Secretary General, Kofi Annan_
 
 ##### 
 ### [ At least 14 people are killed in Baghdad after a missile hits a marketplace ](/news/2003/03/26/at-least-14-people-are-killed-in-baghdad-after-a-missile-hits-a-marketplace.md)
@@ -19,7 +19,7 @@ _Context: axe, Rovira i Virgili University_
 
 ##### Meteor
 ### [ A meteor exploded over the midwest, showering Park Forest, Illinois, with dozens of meteorite fragments. ](/news/2003/03/26/a-meteor-exploded-over-the-midwest-showering-park-forest-illinois-with-dozens-of-meteorite-fragments.md)
-_Context: meteorite, Park Forest, Illinois, meteor_
+_Context: meteor, meteorite, Park Forest, Illinois_
 
 ## [Previous Day...](/news/2003/03/25/index.md)
 

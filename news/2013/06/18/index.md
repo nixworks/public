@@ -29,7 +29,7 @@ _Context: Tuareg_
 
 ##### President
 ### [President of Nigeria Goodluck Jonathan announces a N3 billion fund to "intervene" in Nollywood. ](/news/2013/06/18/president-of-nigeria-goodluck-jonathan-announces-a-n3-billion-fund-to-intervene-in-nollywood.md)
-_Context: President, Nollywood, Goodluck Jonathan, N_
+_Context: Nollywood, President, N, Goodluck Jonathan_
 
 ##### Michael Hastings
 ### [American journalist Michael Hastings dies in a car crash at age 33. ](/news/2013/06/18/american-journalist-michael-hastings-dies-in-a-car-crash-at-age-33.md)
@@ -87,9 +87,9 @@ A Greek court suspends a government order to close state broadcaster ERT - a mov
 ### [As many as 200,000 people march through Brazil's cities, with protestors having scaled the National Congress in Brasilia. ](/news/2013/06/18/as-many-as-200-000-people-march-through-brazil-s-cities-with-protestors-having-scaled-the-national-congress-in-brasilia.md)
 _Context: Brasilia, 2013 protests in Brazil, National Congress_
 
-##### NSA
+##### National Security Agency
 ### [Several Federal officials, including National Security Agency (NSA) Director Keith Alexander, testify at a hearing held by the U.S. House Intelligence Committee over government surveillance programs whose existence was leaked earlier this month. ](/news/2013/06/18/several-federal-officials-including-national-security-agency-nsa-director-keith-alexander-testify-at-a-hearing-held-by-the-u-s-house-in.md)
-_Context: House Intelligence Committee, NSA, Keith Alexander, United States House of Representatives_
+_Context: House Intelligence Committee, National Security Agency, United States House of Representatives, Keith Alexander_
 
 ##### Montreal
 ### [Montreal mayor Michael Applebaum resigns following fraud and corruption charges; he had replaced Gerald Tremblay who resigned because of similar allegations. ](/news/2013/06/18/montreal-mayor-michael-applebaum-resigns-following-fraud-and-corruption-charges-he-had-replaced-ga-c-rald-tremblay-who-resigned-because-of-si.md)
@@ -101,11 +101,11 @@ _Context: State Duma_
 
 ##### Huawei
 ### [Huawei unveils the world's slimmest smartphone, the Ascend P6. ](/news/2013/06/18/huawei-unveils-the-world-s-slimmest-smartphone-the-ascend-p6.md)
-_Context: Ascend P6, Huawei_
+_Context: Huawei, Ascend P6_
 
 ##### Tianhe-2
 ### [Tianhe-2 is named the world's fastest supercomputer per the TOP500. ](/news/2013/06/18/tianhe-2-is-named-the-world-s-fastest-supercomputer-per-the-top500.md)
-_Context: TOP500, Tianhe-2_
+_Context: Tianhe-2, TOP500_
 
 ##### The Moon
 ### [New data suggests that as many as 280 previously unknown craters exist on The Moon. ](/news/2013/06/18/new-data-suggests-that-as-many-as-280-previously-unknown-craters-exist-on-the-moon.md)

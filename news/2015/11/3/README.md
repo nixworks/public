@@ -5,7 +5,7 @@ Formats: [HTML](2015/11/3/index.html)  [JSON](2015/11/3/index.json)  [XML](2015/
 
 ##### 2014-15 India-Pakistan border skirmishes
 ### [At least two Indian soldiers are killed after Pakistani forces opened fire along the de facto border that divides Kashmir between the two countries. ](/news/2015/11/3/at-least-two-indian-soldiers-are-killed-after-pakistani-forces-opened-fire-along-the-de-facto-border-that-divides-kashmir-between-the-two-co.md)
-_Context: Indian Army, Line of Control, Pakistan, 2014-15 India-Pakistan border skirmishes, Kashmir, Pakistan Army, India_
+_Context: Kashmir, Indian Army, 2014-15 India-Pakistan border skirmishes, Pakistan Army, Pakistan, Line of Control, India_
 
 ##### Russian military intervention in the Syrian Civil War
 ### [The Syrian Observatory for Human Rights reports Russia conducted multiple airstrikes on ISIS-held Palmyra. ](/news/2015/11/3/the-syrian-observatory-for-human-rights-reports-russia-conducted-multiple-airstrikes-on-isis-held-palmyra.md)
@@ -33,7 +33,7 @@ At least seven people were killed and 35 injured when a passenger bus on its way
 
 ##### Bus
 ### [At least 30 people are killed and 35 injured after an overcrowded bus carrying passengers inside and on its roof veered off a mountain road in northwest Nepal. ](/news/2015/11/3/at-least-30-people-are-killed-and-35-injured-after-an-overcrowded-bus-carrying-passengers-inside-and-on-its-roof-veered-off-a-mountain-road.md)
-_Context: bus, Nepal_
+_Context: Nepal, bus_
 
 ##### Recent incident of hazes in 2015
 ### [Scientists report fires raging in Indonesia have hit Borneo's orangutans particularly hard. Borneo is home to about 30 percent of the world's wild orangutans, an endangered species. Smoke has already displaced many orangutans and caused health problems related to smoke inhalation, according to the Borneo Orangutan Survival Foundation (BOSF). ](/news/2015/11/3/scientists-report-fires-raging-in-indonesia-have-hit-borneo-s-orangutans-particularly-hard-borneo-is-home-to-about-30-percent-of-the-world.md)
@@ -49,11 +49,11 @@ The U.S.’s Pacific Fleet commander vowed in a Beijing speech to continue patro
 
 ##### Libyan Crisis (2011-present)
 ### [The New General National Congress (Libya Dawn) which controls the capital Tripoli, and much of western Libya, threatens to send 'hundreds of thousands' of refugees to Europe unless the European Union recognizes the Islamist-led government. ](/news/2015/11/3/the-new-general-national-congress-libya-dawn-which-controls-the-capital-tripoli-and-much-of-western-libya-threatens-to-send-hundreds-of.md)
-_Context: Libya, Libyan Crisis (2011-present), Europe, Islamists, General National Congress, European Union, Tripoli_
+_Context: Tripoli, European Union, Libya, General National Congress, Islamists, Libyan Crisis (2011-present), Europe_
 
 ##### Territorial disputes in the South China Sea
 ### [Japan has delivered two more ships to Vietnam that will be refurbished into patrol boats. The ships, which arrived in the port city of Da Nang, are the second delivery of a 2014 deal in which Tokyo is to provide Vietnam with six used fishing vessels that will be converted into patrol boats for Vietnam's coast guard in the South China Sea. ](/news/2015/11/3/japan-has-delivered-two-more-ships-to-vietnam-that-will-be-refurbished-into-patrol-boats-the-ships-which-arrived-in-the-port-city-of-da-na.md)
-_Context: Cabinet of Japan, Vietnam, Japan-Vietnam relations, port city of Da Nang, Coast Guard, Territorial disputes in the South China Sea, Japan, South China Sea_
+_Context: port city of Da Nang, Coast Guard, Vietnam, Territorial disputes in the South China Sea, Japan, Japan-Vietnam relations, South China Sea, Cabinet of Japan_
 
 ##### European migrant crisis
 ### [ German Chancellor Angela Merkel announces a plan to register and distribute incoming refugees evenly throughout the European Union. Refugees would be stopped at EU borders, have their application processed, and then, if accepted, sent to one of the Union's 28 member states. ](/news/2015/11/3/german-chancellor-angela-merkel-announces-a-plan-to-register-and-distribute-incoming-refugees-evenly-throughout-the-european-union-refugee.md)
@@ -61,7 +61,7 @@ German Chancellor Angela Merkel announced a plan to register and distribute inco
 
 ##### Journalist
 ### [Pakistani journalist Zaman Mehsud is shot dead by two motorcycle-riding gunmen in Pakistan's Khyber Pakhtunkhwa province, near the country's northwestern tribal region. According to a 2014 report, at least 56 journalists have been killed in Pakistan since 1992. ](/news/2015/11/3/pakistani-journalist-zaman-mehsud-is-shot-dead-by-two-motorcycle-riding-gunmen-in-pakistan-s-khyber-pakhtunkhwa-province-near-the-country-s.md)
-_Context: gunmen, Pakistan, Northwestern Pakistan, journalist, Federally Administered Tribal Areas, motorcycle-riding_
+_Context: motorcycle-riding, Federally Administered Tribal Areas, journalist, gunmen, Northwestern Pakistan, Pakistan_
 
 ##### Gubernatorial
 ### [ In Kentucky, Republican Matt Bevin defeats Democrat Jack Conway and independent Drew Curtis with 52 percent of the vote to succeed term-limited Democrat Steve Beshear. ](/news/2015/11/3/in-kentucky-republican-matt-bevin-defeats-democrat-jack-conway-and-independent-drew-curtis-with-52-percent-of-the-vote-to-succeed-term-lim.md)

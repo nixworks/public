@@ -21,7 +21,7 @@ Coach Inc. has agreed to buy upscale shoe brand Stuart Weitzman in a deal valued
 
 ##### Crude oil
 ### [The price of crude oil drops to $48 per barrel, the lowest since April of 2009. ](/news/2015/01/6/the-price-of-crude-oil-drops-to-48-per-barrel-the-lowest-since-april-of-2009.md)
-_Context: crude oil, $_
+_Context: $, crude oil_
 
 ##### National guardsman
 ### [A military truck collides with a bus carrying members of the National Guard of Ukraine in Ukraine, killing 12 soldiers and injuring 20 others. ](/news/2015/01/6/a-military-truck-collides-with-a-bus-carrying-members-of-the-national-guard-of-ukraine-in-ukraine-killing-12-soldiers-and-injuring-20-other.md)
@@ -53,7 +53,7 @@ The Safeway supermarket chain has been ordered to pay nearly $10 million for ill
 
 ##### Lord's Resistance Army
 ### [A man claiming to be the Lord's Resistance Army top commander Ugandan Dominic Ongwen turns himself in to United States forces in the Central African Republic. ](/news/2015/01/6/a-man-claiming-to-be-the-lord-s-resistance-army-top-commander-ugandan-dominic-ongwen-turns-himself-in-to-united-states-forces-in-the-central.md)
-_Context: Central African Republic, Lord's Resistance Army, Dominic Ongwen, U.S., Ugandan_
+_Context: Central African Republic, Dominic Ongwen, Ugandan, Lord's Resistance Army, United States_
 
 ##### Governor of Virginia
 ### [A U.S. District Judge sentences former Virginia Governor Bob McDonnell to two years in prison for corruption. ](/news/2015/01/6/a-u-s-district-judge-sentences-former-virginia-governor-bob-mcdonnell-to-two-years-in-prison-for-corruption.md)
@@ -61,7 +61,7 @@ Former Virginia Gov. Bob McDonnell was sentenced Tuesday to two years in federal
 
 ##### Shoots
 ### [A gunman shoots a doctor at the William Beaumont Army Medical Center in El Paso, Texas, and then kills himself. ](/news/2015/01/6/a-gunman-shoots-a-doctor-at-the-william-beaumont-army-medical-center-in-el-paso-texas-and-then-kills-himself.md)
-_Context: William Beaumont Army Medical Center, Texas, El Paso, shoots_
+_Context: Texas, William Beaumont Army Medical Center, shoots, El Paso_
 
 ##### Colorado Springs, Colorado
 ### [An improvised device explodes outside of the Colorado Springs chapter of the NAACP with no injuries. ](/news/2015/01/6/an-improvised-device-explodes-outside-of-the-colorado-springs-chapter-of-the-naacp-with-no-injuries.md)
@@ -73,7 +73,7 @@ Get up to the minute breaking political news and in-depth analysis on ABCNews.co
 
 ##### United States House of Representatives
 ### [The US Congress re-elects John Boehner to his third term as Speaker. ](/news/2015/01/6/the-us-congress-re-elects-john-boehner-to-his-third-term-as-speaker.md)
-_Context: U.S. Speaker of the House of Representatives, United States House of Representatives, John Boehner_
+_Context: John Boehner, U.S. Speaker of the House of Representatives, United States House of Representatives_
 
 ##### NASA
 ### [NASA's Kepler space observatory announces the discovery of three new planets in the Goldilocks zone capable of supporting life. ](/news/2015/01/6/nasa-s-kepler-space-observatory-announces-the-discovery-of-three-new-planets-in-the-goldilocks-zone-capable-of-supporting-life.md)

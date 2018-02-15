@@ -21,11 +21,11 @@ _Context: Antisa Khvichava_
 
 ##### Venezuela
 ### [Voters in Venezuela go to the polls for a presidential election, with Hugo Chvez of the United Socialist Party of Venezuela and Henrique Capriles Radonski of the opposing Justice First party both competing for the presidency. ](/news/2012/10/7/voters-in-venezuela-go-to-the-polls-for-a-presidential-election-with-hugo-chavez-of-the-united-socialist-party-of-venezuela-and-henrique-ca.md)
-_Context: Venezuela, Henrique Capriles, Hugo Chvez, Justice First, United Social Party of Venezuela, inauguration approaches_
+_Context: Justice First, Henrique Capriles, inauguration approaches, United Social Party of Venezuela, Hugo Chvez, Venezuela_
 
 ##### Pope
 ### [Pope Benedict XVI names John of Avila and Hildegard of Bingen the 34th and 35th doctors of the Catholic church. ](/news/2012/10/7/pope-benedict-xvi-names-john-of-avila-and-hildegard-of-bingen-the-34th-and-35th-doctors-of-the-catholic-church.md)
-_Context: doctors of the Catholic church, Hildegard of Bingen, Benedict XVI, Pope, John of Avila_
+_Context: Benedict XVI, Pope, Hildegard of Bingen, John of Avila, doctors of the Catholic church_
 
 ## [Previous Day...](/news/2012/10/6/index.md)
 

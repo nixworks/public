@@ -9,7 +9,7 @@ If confirmed, capture would mean only area of Iraq that remains under Islamic St
 
 ##### Nobel Prize in Literature
 ### [The Nobel Committee awards Japanese-born British novelist Kazuo Ishiguro the Nobel Prize in Literature for his "novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world." ](/news/2017/10/5/the-nobel-committee-awards-japanese-born-british-novelist-kazuo-ishiguro-the-nobel-prize-in-literature-for-his-novels-of-great-emotional-fo.md)
-_Context: Kazuo Ishiguro, Japan, United Kingdom, Nobel Prize in Literature, Nobel Committee, Nobel Prize in Literature_
+_Context: Nobel Committee, United Kingdom, Kazuo Ishiguro, Nobel Prize in Literature, Japan, Nobel Prize in Literature_
 
 ##### TransCanada
 ### [Energy infrastructure firm TransCanada abandons two Canadian pipeline projects. ](/news/2017/10/5/energy-infrastructure-firm-transcanada-abandons-two-canadian-pipeline-projects.md)
@@ -21,7 +21,7 @@ The Latest on Tropical Storm Nate (all times local): 5:30 p.m. Louisiana Gov. Jo
 
 ##### Russia-Saudi Arabia relations
 ### [King Salman of Saudi Arabia visits Russian President Vladimir Putin in the Moscow Kremlin. They discuss oil prices and the Syrian Civil War. ](/news/2017/10/5/king-salman-of-saudi-arabia-visits-russian-president-vladimir-putin-in-the-moscow-kremlin-they-discuss-oil-prices-and-the-syrian-civil-war.md)
-_Context: Russian President, King Salman, Moscow Kremlin, Saudi Arabia, Vladimir Putin, Russia-Saudi Arabia relations, Syrian Civil War_
+_Context: Russia-Saudi Arabia relations, Syrian Civil War, King Salman, Vladimir Putin, Moscow Kremlin, Russian President, Saudi Arabia_
 
 ##### Janauba Tragedy
 ### [In the town of Janauba, Minas Gerais state, Brazil, a recently dismissed security guard set fire to a childcare center, killing at least four children and a teacher and leaving 25 others, mostly children aged four and five, injured. ](/news/2017/10/5/in-the-town-of-janaaoba-minas-gerais-state-brazil-a-recently-dismissed-security-guard-set-fire-to-a-childcare-center-killing-at-least-fo.md)
@@ -33,7 +33,7 @@ Russian government-backed hackers stole highly classified U.S. cyber secrets in 
 
 ##### LGBT employment discrimination in the United States
 ### [The Trump administration, through the Department of Justice, reverses an Obama-era policy which used Title VII of the Civil Rights Act to protect transgender employees from discrimination. ](/news/2017/10/5/the-trump-administration-through-the-department-of-justice-reverses-an-obama-era-policy-which-used-title-vii-of-the-civil-rights-act-to-pr.md)
-_Context: discrimination, transgender, Obama administration, Department of Justice, Trump administration, Title VII of the Civil Rights Act, LGBT employment discrimination in the United States, policy, executive order_
+_Context: executive order, Obama administration, LGBT employment discrimination in the United States, Trump administration, policy, transgender, Title VII of the Civil Rights Act, discrimination, Department of Justice_
 
 ##### Jerry Brown
 ### [Governor Jerry Brown signs legislation to make California a sanctuary state. Next January, this law will prevent police from inquiring about immigration status during routine interactions, and will reduce law enforcement cooperation with U.S. immigration officers. ](/news/2017/10/5/governor-jerry-brown-signs-legislation-to-make-california-a-sanctuary-state-next-january-this-law-will-prevent-police-from-inquiring-about.md)

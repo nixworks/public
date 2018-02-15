@@ -21,11 +21,11 @@ Rescue teams reached the crash site of a commercial aircraft that went down over
 
 ##### Food and Drug Administration
 ### [The US Food and Drug Administration approves the use of Flibanserin to help women with Hypoactive Sexual Desire Disorder. ](/news/2015/08/18/the-us-food-and-drug-administration-approves-the-use-of-flibanserin-to-help-women-with-hypoactive-sexual-desire-disorder.md)
-_Context: Hypoactive Sexual Desire Disorder, Flibanserin, Food and Drug Administration_
+_Context: Food and Drug Administration, Flibanserin, Hypoactive Sexual Desire Disorder_
 
 ##### Turkish Prime Minister
 ### [The Prime Minister of Turkey Ahmet Davutoglu returns his mandate to form a government to the President after failing to form a coalition government. This means that a new election is likely. ](/news/2015/08/18/the-prime-minister-of-turkey-ahmet-davutoalu-returns-his-mandate-to-form-a-government-to-the-president-after-failing-to-form-a-coalition-go.md)
-_Context: Turkish Prime Minister, President of Turkey, mandate, Ahmet Davutoglu_
+_Context: mandate, President of Turkey, Turkish Prime Minister, Ahmet Davutoglu_
 
 ## [Previous Day...](/news/2015/08/17/index.md)
 

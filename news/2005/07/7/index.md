@@ -13,19 +13,19 @@ _Context: Gloria Arroyo, Philippines_
 
 ##### Egypt
 ### [ Egypt confirms its most senior envoy to Iraq, Ihab al-Sherif, has been killed after being kidnapped last week. A group related to Abu Musab al-Zarqawi has claimed responsibility. ](/news/2005/07/7/egypt-confirms-its-most-senior-envoy-to-iraq-ihab-al-sherif-has-been-killed-after-being-kidnapped-last-week-a-group-related-to-abu-musab.md)
-_Context: Egypt, kidnapping, Iraq, Ihab al-Sherif, Abu Musab al-Zarqawi_
+_Context: Ihab al-Sherif, Egypt, Abu Musab al-Zarqawi, Iraq, kidnapping_
 
 ##### Circumcising
 ### [ Researchers halt a study in Africa after results indicate that circumcised men are 70% less likely to contract AIDS. The study will be presented at the Third International AIDS Society Conference on HIV Pathogenesis and Treatment later this month. Meanwhile, others argue that ritual circumcision "increases" the risk of infection because of poor sanitary conditions. ](/news/2005/07/7/researchers-halt-a-study-in-africa-after-results-indicate-that-circumcised-men-are-70-less-likely-to-contract-aids-the-study-will-be-pres.md)
-_Context: circumcising, AIDS_
+_Context: AIDS, circumcising_
 
 ##### Brazil
 ### [ The Brazilian congress announces a referendum on banning firearms sales. ](/news/2005/07/7/the-brazilian-congress-announces-a-referendum-on-banning-firearms-sales.md)
-_Context: gun control, Brazil, firearm, referendum_
+_Context: referendum, firearm, gun control, Brazil_
 
 ##### Turkey
 ### [ In Turkey, a land mine placed on the tracks derails a freight train. There are no reports of casualties. ](/news/2005/07/7/in-turkey-a-land-mine-placed-on-the-tracks-derails-a-freight-train-there-are-no-reports-of-casualties.md)
-_Context: freight, land mine, Turkey, train_
+_Context: train, land mine, Turkey, freight_
 
 ##### Hungary
 ### [ In Hungary, a hoaxed bomb threat forces evacuation of three shopping malls. ](/news/2005/07/7/in-hungary-a-hoaxed-bomb-threat-forces-evacuation-of-three-shopping-malls.md)

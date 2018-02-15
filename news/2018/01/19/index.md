@@ -5,7 +5,7 @@ Formats: [HTML](2018/01/19/index.html)  [JSON](2018/01/19/index.json)  [XML](201
 
 ##### Turkish military intervention in Afrin
 ### [With a cross-border artillery bombardment into the Afrin Canton, Turkey starts its announced military campaign to "destroy" the Syrian Kurdish YPG group. ](/news/2018/01/19/with-a-cross-border-artillery-bombardment-into-the-afrin-canton-turkey-starts-its-announced-military-campaign-to-destroy-the-syrian-kurdi.md)
-_Context: Afrin Canton, Turkey, Turkish military intervention in Afrin, YPG, Kurdish_
+_Context: Kurdish, Afrin Canton, YPG, Turkish military intervention in Afrin, Turkey_
 
 ##### Protests against Rodrigo Duterte
 ### [Journalists in the Philippines protest the government's decision to cancel the license of Rappler. ](/news/2018/01/19/journalists-in-the-philippines-protest-the-government-s-decision-to-cancel-the-license-of-rappler.md)
@@ -13,7 +13,7 @@ A protest for press freedom set to be staged in Quezon City on Friday evening is
 
 ##### Copacabana Beach
 ### [Fifteen people are injured and an infant is killed after a car hits a group of pedestrians near Copacabana Beach in Rio de Janeiro, Brazil. The police report that the driver had an epileptic seizure. ](/news/2018/01/19/fifteen-people-are-injured-and-an-infant-is-killed-after-a-car-hits-a-group-of-pedestrians-near-copacabana-beach-in-rio-de-janeiro-brazil.md)
-_Context: Copacabana Beach, Rio de Janeiro, epileptic seizure, Brazil_
+_Context: Brazil, Copacabana Beach, epileptic seizure, Rio de Janeiro_
 
 ##### Syria
 ### [The bodies of ten Syrian men are found after a snowstorm on the Lebanon-Syria border. The Lebanese Army says they tried to enter Lebanon illegally. Two presumed people smugglers are arrested. ](/news/2018/01/19/the-bodies-of-ten-syrian-men-are-found-after-a-snowstorm-on-the-lebanonasyria-border-the-lebanese-army-says-they-tried-to-enter-lebanon-i.md)
@@ -25,11 +25,11 @@ The arrests of seven reporters covering economic protests reflect what advocacy 
 
 ##### Fleury-Merogis prison
 ### [Outside the Fleury-Merogis prison, French police clash with prison guards who are striking over the detention conditions in French jails. ](/news/2018/01/19/outside-the-fleury-ma-c-rogis-prison-french-police-clash-with-prison-guards-who-are-striking-over-the-detention-conditions-in-french-jails.md)
-_Context: Fleury-Merogis prison, French police, prison guards_
+_Context: Fleury-Merogis prison, prison guards, French police_
 
 ##### Politics of China
 ### [Citing a national "fervor", the Communist Party of China proposes writing the Xi Jinping Thought into the state constitution, after it was already added to the party constitution. ](/news/2018/01/19/citing-a-national-fervor-the-communist-party-of-china-proposes-writing-the-xi-jinping-thought-into-the-state-constitution-after-it-was-a.md)
-_Context: Xi Jinping Thought, state constitution, party constitution, Politics of China, Communist Party of China_
+_Context: Communist Party of China, Xi Jinping Thought, party constitution, Politics of China, state constitution_
 
 ##### Politics of the United States
 ### [Presenting a new national defense strategy, the United States Secretary of Defense, Jim Mattis, says terrorism is no longer the focus of the national security of the United States. Now it is competition between great powers. ](/news/2018/01/19/presenting-a-new-national-defense-strategy-the-united-states-secretary-of-defense-jim-mattis-says-terrorism-is-no-longer-the-focus-of-the.md)

@@ -25,15 +25,15 @@ _Context: 2008 Indian floods, Indian Armed Forces_
 
 ##### Pakistan Army
 ### [ The Pakistan Army claims that 30 militants have been killed in Swat, NWFP, in heavy fighting in recent days. ](/news/2008/08/30/the-pakistan-army-claims-that-30-militants-have-been-killed-in-swat-nwfp-in-heavy-fighting-in-recent-days.md)
-_Context: Swat, Pakistan, Pakistan Army, Northwestern Pakistan_
+_Context: Swat, Pakistan, Northwestern Pakistan, Pakistan Army_
 
 ##### Italy
 ### [ Italy compensates Libya for the forced colonization in the 1910s, promising to pay US$5 billion over the next 25 years. ](/news/2008/08/30/italy-compensates-libya-for-the-forced-colonization-in-the-1910s-promising-to-pay-us-5-billion-over-the-next-25-years.md)
-_Context: Italy, Libya, forced colonization_
+_Context: forced colonization, Italy, Libya_
 
 ##### Mahdi Army
 ### [ The head of the Mahdi Army in Karbala, Iraq, is sentenced to death over the Battle of Karbala (2007) ](/news/2008/08/30/the-head-of-the-mahdi-army-in-karbala-iraq-is-sentenced-to-death-over-the-battle-of-karbala-2007.md)
-_Context: Battle of Karbala (2007), Iraq, Mahdi Army, Karbala_
+_Context: Battle of Karbala (2007), Mahdi Army, Iraq, Karbala_
 
 ## [Previous Day...](/news/2008/08/29/index.md)
 

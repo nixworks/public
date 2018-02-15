@@ -5,7 +5,7 @@ Formats: [HTML](2011/10/12/index.html)  [JSON](2011/10/12/index.json)  [XML](201
 
 ##### Burma
 ### [Burmese comedian, actor and dissident Zarganar is released as part of an amnesty by the government of Myanmar for over 6,000 dissidents. ](/news/2011/10/12/burmese-comedian-actor-and-dissident-zarganar-is-released-as-part-of-an-amnesty-by-the-government-of-myanmar-for-over-6-000-dissidents.md)
-_Context: Myanmar, Zarganar, amnesty, Burma_
+_Context: Burma, Zarganar, Myanmar, amnesty_
 
 ##### Prime Minister
 ### [The Prime Minister of New Zealand John Key warns that the container ship Rena which ran agound on Astrolabe Reef a week ago could break up as oil slicks have appeared on beaches near Tauranga. ](/news/2011/10/12/the-prime-minister-of-new-zealand-john-key-warns-that-the-container-ship-rena-which-ran-agound-on-astrolabe-reef-a-week-ago-could-break-up-a.md)

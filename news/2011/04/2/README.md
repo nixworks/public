@@ -25,15 +25,15 @@ Israel calls on the UN to cancel a report that said it possibly committed war cr
 
 ##### Afghan National Army
 ### [Afghan National Army soldiers kill two insurgents including a would-be suicide bomber who attacked Camp Phoenix in Kabul. ](/news/2011/04/2/afghan-national-army-soldiers-kill-two-insurgents-including-a-would-be-suicide-bomber-who-attacked-camp-phoenix-in-kabul.md)
-_Context: Kabul, Camp Phoenix, suicide bomber, Afghan National Army_
+_Context: Camp Phoenix, suicide bomber, Afghan National Army, Kabul_
 
 ##### Omagh
 ### [A bomb explodes in Omagh, County Tyrone, Northern Ireland, killing one, hours after around 2,000 participants in a half marathon pass by. The incident evokes memories of the 1998 Omagh bombing, while taoiseach Enda Kenny (Republic of Ireland) accuses the perpetrators of "acting in defiance of the Irish people". ](/news/2011/04/2/a-bomb-explodes-in-omagh-county-tyrone-northern-ireland-killing-one-hours-after-around-2-000-participants-in-a-half-marathon-pass-by-th.md)
-_Context: County Tyrone, Omagh bombing, Irish, taoiseach, Omagh, Northern Ireland, Enda Kenny_
+_Context: County Tyrone, taoiseach, Enda Kenny, Northern Ireland, Omagh, Irish, Omagh bombing_
 
 ##### Prime Minister of Japan
 ### [Prime Minister of Japan Naoto Kan visits the areas of the country worst affected by the 2011 Tohoku earthquake and tsunami. ](/news/2011/04/2/prime-minister-of-japan-naoto-kan-visits-the-areas-of-the-country-worst-affected-by-the-2011-tahoku-earthquake-and-tsunami.md)
-_Context: Prime Minister of Japan, 2011 Tohoku earthquake and tsunami, Naoto Kan_
+_Context: 2011 Tohoku earthquake and tsunami, Naoto Kan, Prime Minister of Japan_
 
 ##### Tokyo Electric Power Company
 ### [Tepco confirms radioactive water has been (and still is) leaking into the sea from a crack at the malfunctioning Fukushima nuclear plant. ](/news/2011/04/2/tepco-confirms-radioactive-water-has-been-and-still-is-leaking-into-the-sea-from-a-crack-at-the-malfunctioning-fukushima-nuclear-plant.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2010/01/10/index.html)  [JSON](2010/01/10/index.json)  [XML](201
 
 ##### Hamas
 ### [Three Palestinian Islamic Jihad operatives are killed while firing mortars into Israel from Gaza. ](/news/2010/01/10/three-palestinian-islamic-jihad-operatives-are-killed-while-firing-mortars-into-israel-from-gaza.md)
-_Context: Israel, Gaza Strip, Hamas, Mortar_
+_Context: Mortar, Israel, Gaza Strip, Hamas_
 
 ##### Sunday Mirror
 ### [The "Sunday Mirror"{{'}}s defence correspondent Rupert Hamer is killed in an explosion in Afghanistan, becoming the first British journalist to be killed there and the first to be killed in a war zone since 2003. ](/news/2010/01/10/the-sunday-mirror-s-defence-correspondent-rupert-hamer-is-killed-in-an-explosion-in-afghanistan-becoming-the-first-british-journalist.md)
@@ -29,7 +29,7 @@ _Context: top export market, German, China_
 
 ##### German
 ### [More than 160 people are trapped in vehicles overnight in Germany, dozens of flights are cancelled, Berlin and Leipzig are buried under 30cm of snow, parts of Schleswig-Holstein remain unreachable. The electricity of 80,000 people is cut off by snow in Poland. Eurostar services are affected in Belgium, Britain and France. ](/news/2010/01/10/more-than-160-people-are-trapped-in-vehicles-overnight-in-germany-dozens-of-flights-are-cancelled-berlin-and-leipzig-are-buried-under-30cm.md)
-_Context: German, Polish, United Kingdom, Belgium, France, Eurostar, Leipzig, Berlin, Schleswig-Holstein_
+_Context: Poland, France, Schleswig-Holstein, Berlin, Leipzig, Eurostar, Belgium, German, United Kingdom_
 
 ##### Issa bin Zayed Al Nahyan
 ### [Sheikh Issa bin Zayed Al Nahyan, brother of the leader of the United Arab Emirates, Khalifa bin Zayed Al Nahyan, is acquitted of beating a former business partner in a videotaped attack. ](/news/2010/01/10/sheikh-issa-bin-zayed-al-nahyan-brother-of-the-leader-of-the-united-arab-emirates-khalifa-bin-zayed-al-nahyan-is-acquitted-of-beating-a-f.md)
@@ -45,11 +45,11 @@ A Sinn Féin spokesperson has said party President Gerry Adams has received a de
 
 ##### Ivo Josipovic
 ### [Ivo Josipovic wins in the second round of the presidential election, and is elected third President of Croatia. ](/news/2010/01/10/ivo-josipovia-wins-in-the-second-round-of-the-presidential-election-and-is-elected-third-president-of-croatia.md)
-_Context: Croatian President, presidential election, Ivo Josipovic_
+_Context: Ivo Josipovic, presidential election, Croatian President_
 
 ##### Elections
 ### [Ahead of the Iraqi parliamentary election, 2010, the De-Ba'athification Commission recommends banning the leaders of the Iraqi National Dialogue Front, the Coalition for Iraqi National Unity and 13 other parties for links to Saddam Hussein's banned Ba'ath Party. ](/news/2010/01/10/ahead-of-the-iraqi-parliamentary-election-2010-the-de-ba-athification-commission-recommends-banning-the-leaders-of-the-iraqi-national-dial.md)
-_Context: elections, Coalition for Iraqi National Unity, Saddam Hussein, Ba'ath Party, Iraqi National Dialogue Front_
+_Context: Saddam Hussein, elections, Iraqi National Dialogue Front, Ba'ath Party, Coalition for Iraqi National Unity_
 
 ## [Previous Day...](/news/2010/01/9/index.md)
 

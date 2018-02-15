@@ -13,7 +13,7 @@ Reports from Kyrgyzstan say four Islamist militants have been killed in a raid b
 
 ##### Somali pirates
 ### [Somali pirates hijack a Malaysian cargo vessel with 23 crew members 900 miles off the coast of Somalia. ](/news/2010/11/29/somali-pirates-hijack-a-malaysian-cargo-vessel-with-23-crew-members-900-miles-off-the-coast-of-somalia.md)
-_Context: Somali pirates, Malaysia, Somalia_
+_Context: Somalia, Malaysia, Somali pirates_
 
 ##### Picasso
 ### [Pablo Picasso's electrician says he has 271 previously unknown works given to him as gifts by the artist. ](/news/2010/11/29/pablo-picasso-s-electrician-says-he-has-271-previously-unknown-works-given-to-him-as-gifts-by-the-artist.md)
@@ -29,15 +29,15 @@ _Context: peak-hour, London Underground_
 
 ##### Mount Bromo
 ### [Ash from Mount Bromo in Indonesia forces the closure of a nearby airport. ](/news/2010/11/29/ash-from-mount-bromo-in-indonesia-forces-the-closure-of-a-nearby-airport.md)
-_Context: Indonesia, Mount Bromo_
+_Context: Mount Bromo, Indonesia_
 
 ##### 250,000 documents
 ### [Diplomatic cable leaks by Wikileaks reveal that China regarded North Korea as a "spoilt child" and the view of Korean reunification under South Korean leadership is "gaining ground". ](/news/2010/11/29/diplomatic-cable-leaks-by-wikileaks-reveal-that-china-regarded-north-korea-as-a-spoilt-child-and-the-view-of-korean-reunification-under-so.md)
-_Context: 250,000 documents, South Korea, China, Wikileaks, reunified, North Korea_
+_Context: reunified, South Korea, Wikileaks, North Korea, China, 250,000 documents_
 
 ##### Israel
 ### [Israel's "eased" blockade of the Gaza strip continues to cripple the Gazan economy. ](/news/2010/11/29/israel-s-eased-blockade-of-the-gaza-strip-continues-to-cripple-the-gazan-economy.md)
-_Context:  blockade, Gaza strip, Israel_
+_Context: Israel, Gaza strip,  blockade_
 
 ##### U.N. climate change talks
 ### [The 2010 United Nations Climate Change Conference begins in Cancun, involving 194 countries, amidst low expectations. ](/news/2010/11/29/the-2010-united-nations-climate-change-conference-begins-in-cancun-involving-194-countries-amidst-low-expectations.md)
@@ -47,7 +47,7 @@ Latest environmental news, features and updates. Pictures, video and more.
 ### [The Gay and Lesbian Coalition of Kenya's David Kuria criticises Kenyan Prime Minister Raila Odinga after he announces the imminent arrest of the country's homosexuals. ](/news/2010/11/29/the-gay-and-lesbian-coalition-of-kenya-s-david-kuria-criticises-kenyan-prime-minister-raila-odinga-after-he-announces-the-imminent-arrest-of.md)
 A gay rights activist criticises Kenyan Prime Minister Raila Odinga for saying homosexual people will be arrested.
 
-##### U.S.
+##### United States
 ### [A United States court sentences a Somali to 30 years in jail for piracy after an unsuccessful attack on a United States Navy flotilla. ](/news/2010/11/29/a-united-states-court-sentences-a-somali-to-30-years-in-jail-for-piracy-after-an-unsuccessful-attack-on-a-united-states-navy-flotilla.md)
 A US court sentences a Somali man to 30 years in jail for attacking a US warship off the coast of Somalia in April.
 
@@ -57,27 +57,27 @@ A student armed with a handgun holds 23 other students and a teacher hostage for
 
 ##### Haiti's presidential election
 ### [12 of the 18 candidates in Haiti's presidential election call for a cancelled vote, describing it as fraudulent and favouring the ruling party, as the UN expresses "deep concern" and thousands of people march in Port-au-Prince . ](/news/2010/11/29/12-of-the-18-candidates-in-haiti-s-presidential-election-call-for-a-cancelled-vote-describing-it-as-fraudulent-and-favouring-the-ruling-par.md)
-_Context: Haiti's presidential election, Port-au-Prince_
+_Context: Port-au-Prince, Haiti's presidential election_
 
 ##### Muslim Brotherhood
 ### [The Muslim Brotherhood, Egypt's largest opposition bloc, claims fraud in the parliamentary elections and says it has won no seats. ](/news/2010/11/29/the-muslim-brotherhood-egypt-s-largest-opposition-bloc-claims-fraud-in-the-parliamentary-elections-and-says-it-has-won-no-seats.md)
-_Context: Muslim Brotherhood, Egyptian parliamentary elections, Egypt_
+_Context: Egypt, Muslim Brotherhood, Egyptian parliamentary elections_
 
 ##### Constitutional Court of Thailand
 ### [The Constitutional Court of Thailand dismisses a case brought against the ruling Democrat Party by the election commission, saying the commission did not follow legal procedures. ](/news/2010/11/29/the-constitutional-court-of-thailand-dismisses-a-case-brought-against-the-ruling-democrat-party-by-the-election-commission-saying-the-commi.md)
-_Context: Democrat Party, Thailand, Constitutional Court of Thailand_
+_Context: Constitutional Court of Thailand, Democrat Party, Thailand_
 
 ##### John Brumby
 ### [John Brumby concedes defeat in the Victorian election; Ted Baillieu becomes the new Premier of the Australian state of Victoria. ](/news/2010/11/29/john-brumby-concedes-defeat-in-the-victorian-election-ted-baillieu-becomes-the-new-premier-of-the-australian-state-of-victoria.md)
-_Context: John Brumby, Victorian election, Australia, Ted Baillieu, Victoria, Premier_
+_Context: Victorian election, John Brumby, Victoria, Australia, Ted Baillieu, Premier_
 
 ##### U.S. President
 ### [President of the United States Barack Obama calls for a wage freeze for two million United States government workers. ](/news/2010/11/29/president-of-the-united-states-barack-obama-calls-for-a-wage-freeze-for-two-million-united-states-government-workers.md)
-_Context: U.S. President, United States government, Barack Obama, wage freeze_
+_Context: wage freeze, U.S. President, Barack Obama, United States government_
 
 ##### Canadian federal by-elections
 ### [The Canadian federal by-elections fills two vacant House seats in ridings for Manitoba and one in Ontario, resulting in one Conservative gain, one Conservative hold and one Liberal gain. ](/news/2010/11/29/the-canadian-federal-by-elections-fills-two-vacant-house-seats-in-ridings-for-manitoba-and-one-in-ontario-resulting-in-one-conservative-gai.md)
-_Context: Canadian federal by-elections, Ontario, Liberal Party's, ridings, Conservative Party's, Manitoba, House of Commons_
+_Context: Liberal Party's, Canadian federal by-elections, Ontario, Manitoba, ridings, Conservative Party's, House of Commons_
 
 ## [Previous Day...](/news/2010/11/28/index.md)
 

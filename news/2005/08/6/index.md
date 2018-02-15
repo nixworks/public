@@ -5,7 +5,7 @@ Formats: [HTML](2005/08/6/index.html)  [JSON](2005/08/6/index.json)  [XML](2005/
 
 ##### United Kingdom
 ### [ The British politician and former Cabinet Minister Robin Cook dies suddenly at the age of 59. ](/news/2005/08/6/the-british-politician-and-former-cabinet-minister-robin-cook-dies-suddenly-at-the-age-of-59.md)
-_Context: Cabinet Minister, Robin Cook, United Kingdom_
+_Context: Robin Cook, United Kingdom, Cabinet Minister_
 
 ##### Jimmy Wales
 ### [ Jimmy Wales clarifies the recent media statements made about possible changes to Wikipedia editorial content. ](/news/2005/08/6/jimmy-wales-clarifies-the-recent-media-statements-made-about-possible-changes-to-wikipedia-editorial-content.md)
@@ -21,7 +21,7 @@ Search Continues For Three Missing Passengers, 13 Confirmed Dead
 
 ##### Cuba
 ### [ Cuban veteran singer Ibrahim Ferrer, vocalist and front man of the Buena Vista Social Club band, dies at the age of 78 ](/news/2005/08/6/cuban-veteran-singer-ibrahim-ferrer-vocalist-and-front-man-of-the-buena-vista-social-club-band-dies-at-the-age-of-78.md)
-_Context: Ibrahim Ferrer, Cuba, Buena Vista Social Club_
+_Context: Ibrahim Ferrer, Buena Vista Social Club, Cuba_
 
 ## [Previous Day...](/news/2005/08/5/index.md)
 

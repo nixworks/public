@@ -9,7 +9,7 @@ Gunmen walked into a Shiite mosque in the Afghan capital on Tuesday and opened f
 
 ##### Rohingya insurgency in Western Myanmar
 ### [In a third day of fighting, an attack in Rakhine State kills four Myanmar soldiers. ](/news/2016/10/11/in-a-third-day-of-fighting-an-attack-in-rakhine-state-kills-four-myanmar-soldiers.md)
-_Context: Rohingya insurgency in Western Myanmar, Myanmar Army, Rakhine State_
+_Context: Rakhine State, Rohingya insurgency in Western Myanmar, Myanmar Army_
 
 ##### Yemeni Crisis
 ### [The Obama administration through the U.S. Defense Department says it will take appropriate action against those responsible for October 9 unsuccessful cruise missile attack, apparently fired from Houthi-controlled territory in Yemen, upon the USS Mason. ](/news/2016/10/11/the-obama-administration-through-the-u-s-defense-department-says-it-will-take-appropriate-action-against-those-responsible-for-october-9-un.md)
@@ -33,7 +33,7 @@ Symantec&#039;s latest research on Odinaff hacker group and its attacks on SWIFT
 
 ##### China
 ### [A residential building collapses in the eastern China city of Wenzhou, leaving at least 22 people dead. ](/news/2016/10/11/a-residential-building-collapses-in-the-eastern-china-city-of-wenzhou-leaving-at-least-22-people-dead.md)
-_Context: Wenzhou, China_
+_Context: China, Wenzhou_
 
 ##### Hurricane Matthew
 ### [The United Nations launches an emergency appeal for almost U.S.$120 million in life-saving help for 750,000 survivors in Haiti at risk of starvation and-or cholera. ](/news/2016/10/11/the-united-nations-launches-an-emergency-appeal-for-almost-u-s-120-million-in-life-saving-help-for-750-000-survivors-in-haiti-at-risk-of-st.md)
@@ -61,7 +61,7 @@ An unarmed black man shot dead by a white police officer after his car broke dow
 
 ##### 2014 UZ224
 ### [Astronomers announce that 2014 UZ224 is the third most distant Solar System object known from our Sun, currently over 90 times the Earth's distance from the Sun (90.8 AU or 8.44 billion miles), after Eris (96.2 AU) and V774104 (~103 AU). ](/news/2016/10/11/astronomers-announce-that-2014-uz224-is-the-third-most-distant-solar-system-object-known-from-our-sun-currently-over-90-times-the-earth-s-d.md)
-_Context: V774104, 2014 UZ224, Eris, Astronomical unit, Sun, Solar System_
+_Context: 2014 UZ224, Sun, V774104, Astronomical unit, Solar System, Eris_
 
 ## [Previous Day...](/news/2016/10/10/index.md)
 

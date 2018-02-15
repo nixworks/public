@@ -13,7 +13,7 @@ _Context: Kashmir_
 
 ##### Balochistan
 ### [16 people are killed by gunmen in the Balochistan province of Pakistan in the towns of Aab-e-Ghum and Quetta. ](/news/2010/08/14/16-people-are-killed-by-gunmen-in-the-balochistan-province-of-pakistan-in-the-towns-of-aab-e-ghum-and-quetta.md)
-_Context: Aab-e-Ghum, Balochistan, Pakistan, Quetta_
+_Context: Pakistan, Quetta, Aab-e-Ghum, Balochistan_
 
 ##### Puntland
 ### [9 people are killed during clashes in Puntland. ](/news/2010/08/14/9-people-are-killed-during-clashes-in-puntland.md)
@@ -29,7 +29,7 @@ Attacks on checkpoints leave at least six officers dead in Baghdad.
 
 ##### Buffalo
 ### [4 people are fatally shot outside a Buffalo restaurant in the U.S. state of New York, with 3 others sustaining injuries. ](/news/2010/08/14/4-people-are-fatally-shot-outside-a-buffalo-restaurant-in-the-u-s-state-of-new-york-with-3-others-sustaining-injuries.md)
-_Context: New York, Buffalo, U.S. state_
+_Context: Buffalo, U.S. state, New York_
 
 ##### Wheelie bin
 ### [3 children are wounded after a wheelie bin explodes in Lurgan, County Armagh. ](/news/2010/08/14/3-children-are-wounded-after-a-wheelie-bin-explodes-in-lurgan-county-armagh.md)
@@ -37,7 +37,7 @@ Police investigating suspicious packages in Lurgan, County Armagh, are attacked 
 
 ##### UNAMID
 ### [Two UNAMID peacekeepers are abducted by armed men in Nyala in the Darfur region of Sudan. ](/news/2010/08/14/two-unamid-peacekeepers-are-abducted-by-armed-men-in-nyala-in-the-darfur-region-of-sudan.md)
-_Context: Darfur, Nyala, Sudan, UNAMID_
+_Context: Nyala, UNAMID, Darfur, Sudan_
 
 ##### Hungary
 ### [Hungarian actress Zsa Zsa Gabor is rehospitalised for an operation days after her release. ](/news/2010/08/14/hungarian-actress-zsa-zsa-gabor-is-rehospitalised-for-an-operation-days-after-her-release.md)
@@ -49,11 +49,11 @@ _Context: Google, California, U.S. state_
 
 ##### Gabon
 ### [Gabon signs over US$4 billion of contracts with Indian and Singaporean companies for infrastructure projects, on the eve of the country's 50th anniversary since independence. ](/news/2010/08/14/gabon-signs-over-us-4-billion-of-contracts-with-indian-and-singaporean-companies-for-infrastructure-projects-on-the-eve-of-the-country-s-50.md)
-_Context: Gabon, India, $, Singapore_
+_Context: India, $, Singapore, Gabon_
 
 ##### United Nations
 ### [The United Nations states Niger faces its worst hunger crisis in history, worse than 2005 when thousands of people were left to starve to death. ](/news/2010/08/14/the-united-nations-states-niger-faces-its-worst-hunger-crisis-in-history-worse-than-2005-when-thousands-of-people-were-left-to-starve-to-de.md)
-_Context: United Nations, Niger_
+_Context: Niger, United Nations_
 
 ##### China
 ### [China announces a national day of mourning for the victims of mudslides in the northwest of the country, as the death toll rises to 1,239 people. ](/news/2010/08/14/china-announces-a-national-day-of-mourning-for-the-victims-of-mudslides-in-the-northwest-of-the-country-as-the-death-toll-rises-to-1-239-pe.md)
@@ -65,7 +65,7 @@ China holds a national day of mourning on Sunday for victims of mudslides in the
 
 ##### Russia
 ### [Russia announces that it is slowly bringing the 2010 Russian wildfires under control. ](/news/2010/08/14/russia-announces-that-it-is-slowly-bringing-the-2010-russian-wildfires-under-control.md)
-_Context: the recent wildfires, Russia_
+_Context: Russia, the recent wildfires_
 
 ##### Gungahlin Drive Extension
 ### [9 people are wounded after a bridge collapses from the Gungahlin Drive Extension onto the Barton Highway in Canberra, Australian Capital Territory. ](/news/2010/08/14/9-people-are-wounded-after-a-bridge-collapses-from-the-gungahlin-drive-extension-onto-the-barton-highway-in-canberra-australian-capital-ter.md)
@@ -73,7 +73,7 @@ Nine people have been taken to hospital after part of a bridge collapsed in nort
 
 ##### California 200
 ### [Eight people are killed and 12 injured as a vehicle runs into a crowd during the California 200 Off-road racing event near Lucerne Valley, California. ](/news/2010/08/14/eight-people-are-killed-and-12-injured-as-a-vehicle-runs-into-a-crowd-during-the-california-200-off-road-racing-event-near-lucerne-valley-c.md)
-_Context: California 200, California, Off-road racing, Lucerne Valley_
+_Context: Lucerne Valley, Off-road racing, California 200, California_
 
 ##### United Arab Emirates
 ### [Officials in the United Arab Emirates express concern after Germany releases suspected Israeli spy Uri Brodsky, who has been linked with the murder of Mahmoud al-Mabhouh in Dubai. ](/news/2010/08/14/officials-in-the-united-arab-emirates-express-concern-after-germany-releases-suspected-israeli-spy-uri-brodsky-who-has-been-linked-with-the.md)
@@ -85,7 +85,7 @@ _Context: United Nations, United Nations Fact Finding Mission on the Gaza Confli
 
 ##### Fiji
 ### [Fiji announces that it seeks observer status in ASEAN after its suspension from the Pacific Islands Forum was extended. Timor-Leste seeks to become a member of the Melanesian Spearhead Group. ](/news/2010/08/14/fiji-announces-that-it-seeks-observer-status-in-asean-after-its-suspension-from-the-pacific-islands-forum-was-extended-timor-leste-seeks-to.md)
-_Context: Melanesian Spearhead Group, ASEAN, Pacific Islands Forum, Fiji, Timor-Leste_
+_Context: Pacific Islands Forum, Fiji, ASEAN, Timor-Leste, Melanesian Spearhead Group_
 
 ##### Jean-Marie Le Pen
 ### [European politicians, including Jean-Marie Le Pen and Adam Walker, visit Yasukuni Shrine in Chiyoda, Tokyo; visits to this shrine have traditionally been a sensitive point in international politics between Japan, Korea, and China. ](/news/2010/08/14/european-politicians-including-jean-marie-le-pen-and-adam-walker-visit-yasukuni-shrine-in-chiyoda-tokyo-visits-to-this-shrine-have-tradi.md)
@@ -93,11 +93,11 @@ British and Japanese ultranationalists will shrug off protests from war veterans
 
 ##### Spain
 ### [Spain extradites Rifat Hadziahmetovic, an alleged member of the Pink Panthers, to Japan in relation to a 2007 jewel robbery in Tokyo. ](/news/2010/08/14/spain-extradites-rifat-hadziahmetovic-an-alleged-member-of-the-pink-panthers-to-japan-in-relation-to-a-2007-jewel-robbery-in-tokyo.md)
-_Context: Japan, extradited, Spain, Pink Panthers, Rifat Hadziahmetovic, Tokyo_
+_Context: Japan, Spain, extradited, Tokyo, Rifat Hadziahmetovic, Pink Panthers_
 
-##### U.S.
+##### United States
 ### [United States prosecutors are investigating whether the Louis Berger Group overcharged the U.S. Agency for International Development for foreign aid projects. ](/news/2010/08/14/united-states-prosecutors-are-investigating-whether-the-louis-berger-group-overcharged-the-u-s-agency-for-international-development-for-for.md)
-_Context: U.S. Agency for International Development, U.S., prosecutor, foreign aid, Louis Berger Group_
+_Context: Louis Berger Group, foreign aid, U.S. Agency for International Development, prosecutor, United States_
 
 ##### Somalia
 ### [A court in Somalia imprisons for six years and fines $500 radio journalist Abdifatah Jama Mire for the broadcast of an interview with a militia leader in Puntland. ](/news/2010/08/14/a-court-in-somalia-imprisons-for-six-years-and-fines-500-radio-journalist-abdifatah-jama-mire-for-the-broadcast-of-an-interview-with-a-mili.md)
@@ -105,11 +105,11 @@ Puntland court jails journalist for interviewing Muslim leader with ties to figh
 
 ##### Venice
 ### [A court in Venice frees Nizamettin Toguc, a senior member of the Kurdistan Workers' Party (PKK) wanted by Turkey. ](/news/2010/08/14/a-court-in-venice-frees-nizamettin-toauass-a-senior-member-of-the-kurdistan-workers-party-pkk-wanted-by-turkey.md)
-_Context: Kurdistan Workers' Party, Venice, Nizamettin Toguc, Turkey_
+_Context: Turkey, Nizamettin Toguc, Kurdistan Workers' Party, Venice_
 
 ##### Azerbaijan
 ### [Several political parties in Azerbaijan release a statement criticising the ruling of Baku Yasamal Court against 15 Shia Muslims, arrested in February while practising their religion in Baku. ](/news/2010/08/14/several-political-parties-in-azerbaijan-release-a-statement-criticising-the-ruling-of-baku-yasamal-court-against-15-shia-muslims-arrested-i.md)
-_Context: Azerbaijan, Shia, Baku_
+_Context: Baku, Shia, Azerbaijan_
 
 ##### Sudan People's Liberation Army/Movement
 ### [The Sudan People's Liberation Army-Movement warns that the independence referendum in Southern Sudan could be delayed unless the country's electoral commission resolves an internal dispute. ](/news/2010/08/14/the-sudan-people-s-liberation-army-movement-warns-that-the-independence-referendum-in-southern-sudan-could-be-delayed-unless-the-country-s-e.md)

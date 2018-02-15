@@ -25,7 +25,7 @@ Political parties welcome a report calling for banks to separate their retail ba
 
 ##### A petrol pipeline explosion
 ### [At least 75 people are killed by a petrol pipeline explosion in Nairobi, Kenya. ](/news/2011/09/12/at-least-75-people-are-killed-by-a-petrol-pipeline-explosion-in-nairobi-kenya.md)
-_Context: Nairobi, a petrol pipeline explosion, Kenya_
+_Context: a petrol pipeline explosion, Kenya, Nairobi_
 
 ##### Indonesia
 ### [At least 19 people die in a bus crash on the Indonesian island of Java. ](/news/2011/09/12/at-least-19-people-die-in-a-bus-crash-on-the-indonesian-island-of-java.md)

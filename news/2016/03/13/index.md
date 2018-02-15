@@ -9,7 +9,7 @@ Officials say at least 34 people have been killed and 125 wounded after a suicid
 
 ##### Turkey-PKK conflict (2015-present)
 ### [Turkey declares a curfew in the town of Yuksekova on the border with Iran as Turkish forces prepare an offensive against the PKK. ](/news/2016/03/13/turkey-declares-a-curfew-in-the-town-of-ya1-4ksekova-on-the-border-with-iran-as-turkish-forces-prepare-an-offensive-against-the-pkk.md)
-_Context: Turkish troops, Turkey, Kurdistan Workers' Party, Yuksekova, Turkey-PKK conflict (2015-present), Iran, curfew_
+_Context: curfew, Kurdistan Workers' Party, Yuksekova, Turkey, Turkey-PKK conflict (2015-present), Iran, Turkish troops_
 
 ##### 2016 Grand-Bassam shootings
 ### [Gunmen attack two hotels in the Ivory Coast town of Grand-Bassam. At least 15 people are reportedly killed. Witnesses claim the attackers shouted "Allahu Akbar" ("God is [the] greatest") during the gunfire. Al-Qaeda in the Islamic Maghreb (AQIM) claim responsibility for the attack. ](/news/2016/03/13/gunmen-attack-two-hotels-in-the-ivory-coast-town-of-grand-bassam-at-least-15-people-are-reportedly-killed-witnesses-claim-the-attackers-sh.md)
@@ -21,7 +21,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### India
 ### [Five people are dead after a building collapses in the Indian city of Meerut caused by heavy rain. ](/news/2016/03/13/five-people-are-dead-after-a-building-collapses-in-the-indian-city-of-meerut-caused-by-heavy-rain.md)
-_Context: India, Meerut_
+_Context: Meerut, India_
 
 ##### Pakistan
 ### [Heavy rain in Pakistan has led to fifteen deaths in two days including at least eight deaths in a coal mine collapse in the Orakzai Tribal Area. ](/news/2016/03/13/heavy-rain-in-pakistan-has-led-to-fifteen-deaths-in-two-days-including-at-least-eight-deaths-in-a-coal-mine-collapse-in-the-orakzai-tribal-a.md)
@@ -47,7 +47,7 @@ Malaysia banned the recruitment of new foreign workers after widespread criticis
 ### [China's People's Liberation Army (PLA) will be deployed in Pakistan to protect the China-Pakistan Economic Corridor that connects the Chinese-operated Gwadar Port in Balochistan, Pakistan to China's Xinjiang region. Neighboring India has voiced concern about the planned move. ](/news/2016/03/13/china-s-people-s-liberation-army-pla-will-be-deployed-in-pakistan-to-protect-the-chinaapakistan-economic-corridor-that-connects-the-chin.md)
 Chinese troops will be positioned in Pakistan to protect the 3,000-km-long China-Pakistan Economic Corridor that connects the Gwadar Port in Balochistan to China&#039;s Xinjiang region.
 
-##### U.S.
+##### United States
 ### [United States officials say North Korea has apparently lost contact with one of its submarines. The U.S. was watching the sub off North Korea's eastern coast when it vanished earlier this week. Officials are unsure whether the missing vessel is adrift or has sunk. ](/news/2016/03/13/united-states-officials-say-north-korea-has-apparently-lost-contact-with-one-of-its-submarines-the-u-s-was-watching-the-sub-off-north-kore.md)
 US officials claim the secretive Communist state lost contact with the submarine.
 
@@ -57,11 +57,11 @@ Israel today refused to allow Indonesian Foreign Minister Retno Marsudi to visit
 
 ##### Israeli-Palestinian conflict
 ### [Israeli Defence Forces arrest 15 Palestinian suspects overnight. ](/news/2016/03/13/israeli-defence-forces-arrest-15-palestinian-suspects-overnight.md)
-_Context: Israeli-Palestinian conflict, Israeli Defence Forces, Palestinian_
+_Context: Palestinian, Israeli Defence Forces, Israeli-Palestinian conflict_
 
 ##### Authorities
 ### [Authorities in Belarus detain prominent businessman Yury Chyzh, once a close adviser to Alexander Lukashenko and included in the EU's sanctions list, on suspicion of large-scale tax evasion. ](/news/2016/03/13/authorities-in-belarus-detain-prominent-businessman-yury-chyzh-once-a-close-adviser-to-alexander-lukashenko-and-included-in-the-eu-s-sancti.md)
-_Context: tax fraud, Yury Chyzh, Alexander Lukashenko, Belarus, Authorities, European Union_
+_Context: tax fraud, Alexander Lukashenko, Authorities, Yury Chyzh, European Union, Belarus_
 
 ##### Elections in Germany
 ### [Regional elections take place in the German states of Baden-Wurttemberg, Rhineland-Palatinate and Saxony-Anhalt with the governing Christian Democratic Union performing poorly, the centre-left Social Democratic Party of Germany winning in Rhineland-Palatinate, and the anti-immigrant Alternative for Germany performing well in all three states. ](/news/2016/03/13/regional-elections-take-place-in-the-german-states-of-baden-wa1-4rttemberg-rhineland-palatinate-and-saxony-anhalt-with-the-governing-christia.md)

@@ -33,7 +33,7 @@ A lawsuit between two film companies over the rights to the film Oscar-winning f
 
 ##### Diocese of Rome
 ### [The Diocese of Rome criticises homosexual priests, accusing them of leading a "double life" and advising them to leave the priesthood. ](/news/2010/07/23/the-diocese-of-rome-criticises-homosexual-priests-accusing-them-of-leading-a-double-life-and-advising-them-to-leave-the-priesthood.md)
-_Context: Diocese of Rome, homosexual_
+_Context: homosexual, Diocese of Rome_
 
 ##### Billy Corgan
 ### [Singer Billy Corgan collapses during a performance of "Bullet with Butterfly Wings" in the United States. ](/news/2010/07/23/singer-billy-corgan-collapses-during-a-performance-of-bullet-with-butterfly-wings-in-the-united-states.md)
@@ -49,11 +49,11 @@ _Context: One Direction_
 
 ##### Deepwater Horizon
 ### [Alarms on the "Deepwater Horizon" oil rig are found to have been disabled before the explosion and subsequent oil spill in the Gulf of Mexico. ](/news/2010/07/23/alarms-on-the-deepwater-horizon-oil-rig-are-found-to-have-been-disabled-before-the-explosion-and-subsequent-oil-spill-in-the-gulf-of-mexic.md)
-_Context: Deepwater Horizon oil spill, Deepwater Horizon, explosion, Gulf of Mexico_
+_Context: Deepwater Horizon oil spill, Deepwater Horizon, Gulf of Mexico, explosion_
 
 ##### Serbia
 ### [Serbia states its intention to never recognize Kosovo's independence after International Court of Justice's yesterday ruling. ](/news/2010/07/23/serbia-states-its-intention-to-never-recognize-kosovo-s-independence-after-international-court-of-justice-s-yesterday-ruling.md)
-_Context: Kosovo, Serbia, Kosovo, International Court of Justice, yesterday ruling_
+_Context: Serbia, International Court of Justice, yesterday ruling, Kosovo, Kosovo_
 
 ##### Venezuela
 ### [Venezuela severs diplomatic relations with Colombia after Colombia claims Venezuela is a "haven for guerrillas". ](/news/2010/07/23/venezuela-severs-diplomatic-relations-with-colombia-after-colombia-claims-venezuela-is-a-haven-for-guerrillas.md)
@@ -77,7 +77,7 @@ A former Pennsylvania judge pleads guilty to a charge of racketeering conspiracy
 
 ##### China
 ### [China sentences an Uyghur journalist who spoke to foreign media after riots in Xinjiang last year to 15 years imprisonment. ](/news/2010/07/23/china-sentences-an-uyghur-journalist-who-spoke-to-foreign-media-after-riots-in-xinjiang-last-year-to-15-years-imprisonment.md)
-_Context: Xinjiang, ethnic riots, China, Uyghur_
+_Context: ethnic riots, Xinjiang, China, Uyghur_
 
 ##### U.S. state
 ### [A court in the U.S. state of Arizona listens to challenges to the state's policy against illegal immigrants. ](/news/2010/07/23/a-court-in-the-u-s-state-of-arizona-listens-to-challenges-to-the-state-s-policy-against-illegal-immigrants.md)
@@ -113,7 +113,7 @@ Dissident Ariel Sigler released as part of deal between church and Cuban governm
 
 ##### President
 ### [President of Iran Mahmoud Ahmadinejad announces plans to launch a manned shuttle into space by 2019. ](/news/2010/07/23/president-of-iran-mahmoud-ahmadinejad-announces-plans-to-launch-a-manned-shuttle-into-space-by-2019.md)
-_Context: Mahmoud Ahmadinejad, President, Iran_
+_Context: President, Mahmoud Ahmadinejad, Iran_
 
 ##### IPad
 ### [The Indian government unveils a solar power touch-screen laptop, cheaper than America's iPad, expected to be on sale next year. ](/news/2010/07/23/the-indian-government-unveils-a-solar-power-touch-screen-laptop-cheaper-than-america-s-ipad-expected-to-be-on-sale-next-year.md)

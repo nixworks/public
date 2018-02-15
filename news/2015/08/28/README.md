@@ -9,7 +9,7 @@ South Sudanese rebels and the army have accused each other for the second time t
 
 ##### Iraq War (2014-present)
 ### [A car bomb detonates in the parking lot of a Baghdad police station while police attempt to defuse it, killing six officers and injuring another ten. ](/news/2015/08/28/a-car-bomb-detonates-in-the-parking-lot-of-a-baghdad-police-station-while-police-attempt-to-defuse-it-killing-six-officers-and-injuring-ano.md)
-_Context: Baghdad, Iraq War (2014-present), car bomb_
+_Context: car bomb, Iraq War (2014-present), Baghdad_
 
 ##### 2015 India-Pakistan border skirmishes
 ### [Indian and Pakistani border guards exchange gunfire over the disputed Kashmir border with nine civilians killed and 63 injured. ](/news/2015/08/28/indian-and-pakistani-border-guards-exchange-gunfire-over-the-disputed-kashmir-border-with-nine-civilians-killed-and-63-injured.md)
@@ -37,7 +37,7 @@ _Context: China, paper mill_
 
 ##### Umhlanga
 ### [Thirty-eight girls and young women die in a crash and twenty others on board the truck receive injuries while travelling to the traditional Umhlanga ceremony in Swaziland. ](/news/2015/08/28/thirty-eight-girls-and-young-women-die-in-a-crash-and-twenty-others-on-board-the-truck-receive-injuries-while-travelling-to-the-traditional.md)
-_Context: Swaziland, Umhlanga_
+_Context: Umhlanga, Swaziland_
 
 ##### Colombia-Venezuela relations
 ### [Colombia and Venezuela recall their respective ambassadors amid rising tensions after a Venezuelan crackdown on Colombian migrants. ](/news/2015/08/28/colombia-and-venezuela-recall-their-respective-ambassadors-amid-rising-tensions-after-a-venezuelan-crackdown-on-colombian-migrants.md)
@@ -49,7 +49,7 @@ Turkish police detain two British journalists from Vice News covering the unrest
 
 ##### France
 ### [Authorities arrest two French journalists for allegedly attempting to blackmail King Mohammed VI of Morocco. ](/news/2015/08/28/authorities-arrest-two-french-journalists-for-allegedly-attempting-to-blackmail-king-mohammed-vi-of-morocco.md)
-_Context: France, blackmail, King Mohammed VI of Morocco_
+_Context: King Mohammed VI of Morocco, France, blackmail_
 
 ##### Truong TCNYn Sang
 ### [President Truong TCNYn Sang of Vietnam signs two directives granting amnesty to 18,539 prisoners including murderers, rapists, human traffickers, and other criminals, but no political prisoners were released. ](/news/2015/08/28/president-traedegae-ng-taocnyn-sang-of-vietnam-signs-two-directives-granting-amnesty-to-18-539-prisoners-including-murderers-rapists-human-tra.md)
@@ -57,11 +57,11 @@ _Context: Vietnam, Truong TCNYn Sang_
 
 ##### New Mexico Secretary of State
 ### [Authorities charge New Mexico Secretary of State Dianna Duran with 64 counts including fraud, embezzlement, and money laundering. ](/news/2015/08/28/authorities-charge-new-mexico-secretary-of-state-dianna-duran-with-64-counts-including-fraud-embezzlement-and-money-laundering.md)
-_Context: Dianna Duran, New Mexico Secretary of State, money laundering, embezzlement, fraud_
+_Context: New Mexico Secretary of State, Dianna Duran, fraud, money laundering, embezzlement_
 
 ##### Greek government-debt crisis
 ### [Interim Prime Minister of Greece Vassiliki Thanou-Christophilou, the country's first female prime minister, was sworn in Thursday. The PM named her caretaker government cabinet that will oversee implementation of austerity measures required by the latest debt bailout with Eurogroup. Elections, required after Alexis Tsipras resigned last week, are scheduled for September 20, 2015, the third time Greeks will be going to the polls this year. ](/news/2015/08/28/interim-prime-minister-of-greece-vassiliki-thanou-christophilou-the-country-s-first-female-prime-minister-was-sworn-in-thursday-the-pm-na.md)
-_Context: austerity measures, Greek Prime Minister, Greek government-debt crisis, Alexis Tsipras, Eurogroup, caretaker government, Vassiliki Thanou-Christophilou_
+_Context: Greek Prime Minister, caretaker government, austerity measures, Alexis Tsipras, Eurogroup, Greek government-debt crisis, Vassiliki Thanou-Christophilou_
 
 ## [Previous Day...](/news/2015/08/27/index.md)
 

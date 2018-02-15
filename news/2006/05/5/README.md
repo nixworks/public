@@ -9,19 +9,19 @@ _Context: China, Beijing, artificial rainfall_
 
 ##### China
 ### [ The Agriculture Ministry of China confirmed another outbreak of bird flu in Qinghai Province, killing more than 120 birds. ](/news/2006/05/5/the-agriculture-ministry-of-china-confirmed-another-outbreak-of-bird-flu-in-qinghai-province-killing-more-than-120-birds.md)
-_Context: China, Qinghai Province, Avian flu virus_
+_Context: Avian flu virus, China, Qinghai Province_
 
 ##### Sudan
 ### [ The government of Sudan signs an accord with the main Darfur rebel group, the Alliance of Revolutionary Forces of West Sudan, reached through mediation in Abuja, Nigeria. ](/news/2006/05/5/the-government-of-sudan-signs-an-accord-with-the-main-darfur-rebel-group-the-alliance-of-revolutionary-forces-of-west-sudan-reached-throu.md)
-_Context: Nigeria, Sudan, Darfur conflict, Abuja, Alliance of Revolutionary Forces of West Sudan_
+_Context: Sudan, Darfur conflict, Alliance of Revolutionary Forces of West Sudan, Abuja, Nigeria_
 
 ##### Porter Goss
 ### [ Porter Goss resigns as director of the U.S. Central Intelligence Agency (CIA). ](/news/2006/05/5/porter-goss-resigns-as-director-of-the-u-s-central-intelligence-agency-cia.md)
-_Context: U.S., Porter Goss, Director of the CIA, CIA_
+_Context: United States, CIA, Porter Goss, Director of the CIA_
 
 ##### Labour Party
 ### [ Following significant Labour Party losses in the English local elections, British Prime Minister Tony Blair announces the largest Cabinet reshuffle of his tenure. The changes include sacking embattled Home Secretary Charles Clarke, the demotion of long-serving Foreign Secretary Jack Straw, and the stripping from Deputy Prime Minister John Prescott of his departmental portfolio. ](/news/2006/05/5/following-significant-labour-party-losses-in-the-english-local-elections-british-prime-minister-tony-blair-announces-the-largest-cabinet-r.md)
-_Context: United Kingdom, Home Secretary, John Prescott, Charles Clarke, English local elections, Foreign Secretary, Jack Straw, Prime Minister, Labour Party, changes, Tony Blair, U.K. Cabinet, reshuffle_
+_Context: Foreign Secretary, reshuffle, Jack Straw, Charles Clarke, United Kingdom, Prime Minister, U.K. Cabinet, Labour Party, Home Secretary, changes, John Prescott, Tony Blair, English local elections_
 
 ## [Previous Day...](/news/2006/05/4/index.md)
 

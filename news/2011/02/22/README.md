@@ -21,7 +21,7 @@ Iranian security forces have arrested a son of opposition leader Mehdi Karoubi, 
 
 ##### Jamaica
 ### [Jamaican reggae singer Buju Banton is found guilty on drugs charges in the U.S. state of Florida. ](/news/2011/02/22/jamaican-reggae-singer-buju-banton-is-found-guilty-on-drugs-charges-in-the-u-s-state-of-florida.md)
-_Context: reggae, drugs, the state, Buju Banton, Jamaica_
+_Context: reggae, the state, Buju Banton, Jamaica, drugs_
 
 ##### Moody's Investors Service
 ### [Moody's Investors Service downgrades Japan's credit rating due to concerns over high levels of government debt. ](/news/2011/02/22/moody-s-investors-service-downgrades-japan-s-credit-rating-due-to-concerns-over-high-levels-of-government-debt.md)
@@ -33,7 +33,7 @@ U.S. life insurer Metlife Inc (MET.N) has drawn three bidders for its Taiwan uni
 
 ##### Libya
 ### [Uncertainty in Libya leads to falls in world stock markets and increases in crude oil prices. ](/news/2011/02/22/uncertainty-in-libya-leads-to-falls-in-world-stock-markets-and-increases-in-crude-oil-prices.md)
-_Context: stock market, Libya, crude oil_
+_Context: crude oil, Libya, stock market_
 
 ##### 2011 Canterbury earthquake
 ### [An earthquake of 6.3 magnitude strikes the region of Canterbury in the South Island of New Zealand, disrupting communications to the area and closing Christchurch Airport. ](/news/2011/02/22/an-earthquake-of-6-3-magnitude-strikes-the-region-of-canterbury-in-the-south-island-of-new-zealand-disrupting-communications-to-the-area-an.md)
@@ -55,7 +55,7 @@ _Context: border town_
 ### [Al-Jazeera reports Arab League Secretary General Amr Moussa stating that Libya is suspended from sessions. ](/news/2011/02/22/al-jazeera-reports-arab-league-secretary-general-amr-moussa-stating-that-libya-is-suspended-from-sessions.md)
 The Arab League will meet tomorrow to discuss the turmoil in Libya, Al-Jazeera reported.
 
-##### U.S.
+##### United States
 ### [United States militant nativist Shawna Forde of the Minutemen Civil Defense Corps is sentenced to death in Arizona for her role in the murders of Raul and Brisenia Flores. ](/news/2011/02/22/united-states-militant-nativist-shawna-forde-of-the-minutemen-civil-defense-corps-is-sentenced-to-death-in-arizona-for-her-role-in-the-murde.md)
 Arizona border vigilante Shawna Forde has been sentenced to death for the 2009 murders of a 9-year-old girl and her father during a robbery to fund her militia.
 
@@ -65,15 +65,15 @@ Global National with Dawna Friesen is Canada&#039;s early evening national newsc
 
 ##### King of Bahrain
 ### [The King of Bahrain Hamad ibn Isa Al Khalifa orders the release of political prisoners in response to the 2011 Bahraini protests. ](/news/2011/02/22/the-king-of-bahrain-hamad-ibn-isa-al-khalifa-orders-the-release-of-political-prisoners-in-response-to-the-2011-bahraini-protests.md)
-_Context: 2011 Bahraini protests, King of Bahrain, Hamad ibn Isa Al Khalifa_
+_Context: Hamad ibn Isa Al Khalifa, King of Bahrain, 2011 Bahraini protests_
 
 ##### Democrat
 ### [The Democrats in the Indiana House of Representatives leave for other states in the U.S. rather than vote on anti-union legislation. ](/news/2011/02/22/the-democrats-in-the-indiana-house-of-representatives-leave-for-other-states-in-the-u-s-rather-than-vote-on-anti-union-legislation.md)
-_Context: Democrat, Indiana House of Representatives_
+_Context: Indiana House of Representatives, Democrat_
 
 ##### USA
 ### [Voters in the USA city of Chicago go to the polls for the Chicago mayoral election with former White House Chief of Staff Rahm Emanuel winning. ](/news/2011/02/22/voters-in-the-usa-city-of-chicago-go-to-the-polls-for-the-chicago-mayoral-election-with-former-white-house-chief-of-staff-rahm-emanuel-winni.md)
-_Context: Rahm Emanuel, USA, Chicago mayoral election, White House Chief of Staff, Chicago, Illinois_
+_Context: Chicago mayoral election, Chicago, Illinois, White House Chief of Staff, USA, Rahm Emanuel_
 
 ## [Previous Day...](/news/2011/02/21/index.md)
 

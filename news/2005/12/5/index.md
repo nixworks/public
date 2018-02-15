@@ -5,7 +5,7 @@ Formats: [HTML](2005/12/5/index.html)  [JSON](2005/12/5/index.json)  [XML](2005/
 
 ##### 23rd Southeast Asian Games
 ### [ The 23rd Southeast Asian Games officially closes with Philippines gaining the top medal ranking for the first time. ](/news/2005/12/5/the-23rd-southeast-asian-games-officially-closes-with-philippines-gaining-the-top-medal-ranking-for-the-first-time.md)
-_Context: Philippines, 23rd Southeast Asian Games_
+_Context: 23rd Southeast Asian Games, Philippines_
 
 ##### Earthquake
 ### [ An earthquake strikes the Democratic Republic of the Congo (formerly Zaire). Many people are feared dead after an earthquake measuring 6.8 on the Richter scale struck Lake Tanganyika near the town of Kalemie. ](/news/2005/12/5/an-earthquake-strikes-the-democratic-republic-of-the-congo-formerly-zaire-many-people-are-feared-dead-after-an-earthquake-measuring-6-8.md)
@@ -25,7 +25,7 @@ Suicide bomber blows himself up at 11:30 a.m. outside Sharon Mall in Netanya; ab
 
 ##### Venezuela
 ### [ Venezuelan parliamentary elections apparently result in Hugo Chvez's party and allies winning all 167 seats, as opposition parties boycott the election claiming election fraud. ](/news/2005/12/5/venezuelan-parliamentary-elections-apparently-result-in-hugo-chavez-s-party-and-allies-winning-all-167-seats-as-opposition-parties-boycott.md)
-_Context: parliamentary elections, Venezuela, election fraud, Hugo Chvez_
+_Context: election fraud, Venezuela, Hugo Chvez, parliamentary elections_
 
 ## [Previous Day...](/news/2005/12/4/index.md)
 

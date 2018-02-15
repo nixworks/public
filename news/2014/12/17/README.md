@@ -9,15 +9,15 @@ Nawaz Sharif lifts moratorium in place since 2008 in response to Taliban atrocit
 
 ##### Sony Pictures Entertainment hack
 ### [Sony cancels the New York City sneak preview of the upcoming 2014 film "The Interview", originally scheduled for December 18, due to threatening messages by hackers. ](/news/2014/12/17/sony-cancels-the-new-york-city-sneak-preview-of-the-upcoming-2014-film-the-interview-originally-scheduled-for-december-18-due-to-threate.md)
-_Context: Sony Pictures Entertainment hack, New York City, hackers, The Interview_
+_Context: hackers, Sony Pictures Entertainment hack, The Interview, New York City_
 
 ##### Repsol
 ### [Spanish energy company Repsol acquires Canadian energy producer Talisman Energy for $13 billion including debt. ](/news/2014/12/17/spanish-energy-company-repsol-acquires-canadian-energy-producer-talisman-energy-for-13-billion-including-debt.md)
-_Context: Repsol, United States dollars, Talisman Energy_
+_Context: United States dollars, Repsol, Talisman Energy_
 
-##### U.S.
+##### United States
 ### [The United States and Cuba re-establish diplomatic relations after severing them 55 years ago. An American embassy will open in Havana and talks to lift the embargo will begin. ](/news/2014/12/17/the-united-states-and-cuba-re-establish-diplomatic-relations-after-severing-them-55-years-ago-an-american-embassy-will-open-in-havana-and-t.md)
-_Context: Cuba-United States relations, Cuba, U.S., United States embargo against Cuba, personnel, Havana_
+_Context: Havana, Cuba, United States, United States embargo against Cuba, personnel, Cuba-United States relations_
 
 ##### European Union
 ### [The European Union removes Hamas from its list of terrorist organizations. ](/news/2014/12/17/the-european-union-removes-hamas-from-its-list-of-terrorist-organizations.md)
@@ -25,11 +25,11 @@ The EU General Court has ordered that the Palestinian militant group Hamas be re
 
 ##### Communist Party of China
 ### [The Chinese Communist Party, through the Supreme People's Procuratorate, indicts former Nanjing mayor Ji Jianye on bribery and corruption. ](/news/2014/12/17/the-chinese-communist-party-through-the-supreme-people-s-procuratorate-indicts-former-nanjing-mayor-ji-jianye-on-bribery-and-corruption.md)
-_Context: Communist Party of China, Supreme People's Procuratorate, Ji Jianye, Nanjing_
+_Context: Nanjing, Communist Party of China, Supreme People's Procuratorate, Ji Jianye_
 
 ##### New England Compounding Center
 ### [The U.S. attorney's office indicts Gregory Conigliaro and Barry Cadden, co-founders of the New England Compounding Center in Framingham, Mass., along with 12 former employees, on federal racketeering for a fungal meningitis outbreak that killed 64 people in seven states in the fall of 2012. ](/news/2014/12/17/the-u-s-attorney-s-office-indicts-gregory-conigliaro-and-barry-cadden-co-founders-of-the-new-england-compounding-center-in-framingham-mas.md)
-_Context: New England Compounding Center, outbreak, Framingham, Mass., fungal meningitis_
+_Context: Framingham, Mass., outbreak, New England Compounding Center, fungal meningitis_
 
 ##### Hellenic Parliament
 ### [The Parliament of Greece fails to elect a new president in the first round of voting. ](/news/2014/12/17/the-parliament-of-greece-fails-to-elect-a-new-president-in-the-first-round-of-voting.md)

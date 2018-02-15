@@ -7,13 +7,13 @@ Formats: [HTML](2011/08/29/index.html)  [JSON](2011/08/29/index.json)  [XML](201
 ### [The National Transitional Council in Libya raises concerns about mass killing of political prisoners by the former government. ](/news/2011/08/29/the-national-transitional-council-in-libya-raises-concerns-about-mass-killing-of-political-prisoners-by-the-former-government.md)
 As many as 50,000 political prisoners may still be trapped in underground jails in Libya, if they have not already been executed by elements of the crumbling Gaddafi regime. The National Transitional Council says it has already freed around 10,000 political prisoners but tens of thousands are still ...
 
-##### U.S.
+##### United States
 ### [Stock, bond and commodities markets open as usual in the United States despite the impact of Hurricane Irene on New York City. ](/news/2011/08/29/stock-bond-and-commodities-markets-open-as-usual-in-the-united-states-despite-the-impact-of-hurricane-irene-on-new-york-city.md)
 U.S. stock, bond and commodity markets will open as usual tomorrow after Manhattan was spared the worst of Hurricane Irene, avoiding the first shutdown due to weather since 1985.
 
 ##### Typhoon Nanmadol
 ### [Typhoon Nanmadol hits Taiwan after killing 11 people in the Philippines. ](/news/2011/08/29/typhoon-nanmadol-hits-taiwan-after-killing-11-people-in-the-philippines.md)
-_Context: Typhoon Nanmadol, Taiwan, Philippines_
+_Context: Taiwan, Philippines, Typhoon Nanmadol_
 
 ##### Flood
 ### [Floods hit northern India with transport services disrupted in Mumbai and 15 villages isolated in Maharashtra state. ](/news/2011/08/29/floods-hit-northern-india-with-transport-services-disrupted-in-mumbai-and-15-villages-isolated-in-maharashtra-state.md)
@@ -25,7 +25,7 @@ Five aspiring prime ministers re each making 15-minute remarks before the ruling
 
 ##### Baburam Bhattarai
 ### [Baburam Bhattarai of the Unified Communist Party is elected as Prime Minister of Nepal by the Parliament. ](/news/2011/08/29/baburam-bhattarai-of-the-unified-communist-party-is-elected-as-prime-minister-of-nepal-by-the-parliament.md)
-_Context: Nepalese Maoist Party, Parliament, Baburam Bhattarai, Prime Minister_
+_Context: Baburam Bhattarai, Parliament, Nepalese Maoist Party, Prime Minister_
 
 ##### Alexander Ankvab
 ### [Alexander Ankvab is elected President of partially recognized Abkhazia during elections held on August, 26. The elections are characterised by the Western media and independent observers as "democratic", but not recognized by Georgia.](/news/2011/08/29/alexander-ankvab-is-elected-president-of-partially-recognized-abkhazia-during-elections-held-on-august-26-the-elections-are-characterised.md)

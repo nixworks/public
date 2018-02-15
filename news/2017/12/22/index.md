@@ -9,7 +9,7 @@ After 1,000 days of civil war in Yemen, 8 million people are at risk of starvati
 
 ##### Protests on U.S. recognition of Jerusalem as Israeli capital
 ### [Two Palestinians are shot dead and about 60 others are wounded by Israeli troops gunfire as thousands protest along the Gaza border fence, in all seven West Bank cities and in East Jerusalem, against the U.S. declaration. ](/news/2017/12/22/two-palestinians-are-shot-dead-and-about-60-others-are-wounded-by-israeli-troops-gunfire-as-thousands-protest-along-the-gaza-border-fence-i.md)
-_Context: Palestinians, Israeli Army, Protests on U.S. recognition of Jerusalem as Israeli capital, West Bank, East Jerusalem, Gaza border fence_
+_Context: West Bank, East Jerusalem, Gaza border fence, Protests on U.S. recognition of Jerusalem as Israeli capital, Palestinians, Israeli Army_
 
 ##### Economics of bitcoin
 ### [The digital cryptocurrency Bitcoin loses a third of its value within 24 hours. ](/news/2017/12/22/the-digital-cryptocurrency-bitcoin-loses-a-third-of-its-value-within-24-hours.md)
@@ -17,7 +17,7 @@ Bitcoin prices plunged sharply to below $11,000 on Friday, with the digital curr
 
 ##### CSX Corporation
 ### [CSX Corporation names chief operating officer Jim Foote its new chief executive officer, succeeding E. Hunter Harrison who died last week. Harrison had started a restructuring campaign less than a year ago. ](/news/2017/12/22/csx-corporation-names-chief-operating-officer-jim-foote-its-new-chief-executive-officer-succeeding-e-hunter-harrison-who-died-last-week-h.md)
-_Context: E. Hunter Harrison, CSX Corporation_
+_Context: CSX Corporation, E. Hunter Harrison_
 
 ##### Apple Inc. litigation
 ### [Apple Inc. faces backlash and lawsuits after admitting to slowing down the speed on some of their older phones deliberately. ](/news/2017/12/22/apple-inc-faces-backlash-and-lawsuits-after-admitting-to-slowing-down-the-speed-on-some-of-their-older-phones-deliberately.md)
@@ -33,7 +33,7 @@ _Context: Mahmoud Abbas, Jerusalem, recognize Jerusalem as Israel's capital_
 
 ##### North Korea's nuclear program
 ### [The United Nations Security Council unanimously imposes new sanctions on North Korea that caps refined petroleum product imports to 500,000 barrels a year, a 90 percent cut, and demands the repatriation of North Koreans working abroad within 24 months. ](/news/2017/12/22/the-united-nations-security-council-unanimously-imposes-new-sanctions-on-north-korea-that-caps-refined-petroleum-product-imports-to-500-000.md)
-_Context: United Nations Security Council, North Korea's nuclear program, North Korea_
+_Context: North Korea, North Korea's nuclear program, United Nations Security Council_
 
 ##### Ukraine-United States relations
 ### [The U.S. agrees to supply Ukraine with more lethal weapons, now including Javelin anti-tank missiles. ](/news/2017/12/22/the-u-s-agrees-to-supply-ukraine-with-more-lethal-weapons-now-including-javelin-anti-tank-missiles.md)
@@ -49,11 +49,11 @@ Separatist parties retain a slim majority but face tough coalition talks to form
 
 ##### Brexit
 ### [The United Kingdom's Home Office confirms the return of the blue British passport after the UK leaves the European Union. The new passports will be issued from October 2019. ](/news/2017/12/22/the-united-kingdom-s-home-office-confirms-the-return-of-the-blue-british-passport-after-the-uk-leaves-the-european-union-the-new-passports.md)
-_Context: Brexit, European Union, Home Office, British passport, United Kingdom_
+_Context: United Kingdom, British passport, Home Office, Brexit, European Union_
 
 ##### Tax reform in the United States
 ### [President Donald Trump signs the Tax Cuts and Jobs Act of 2017 into law. ](/news/2017/12/22/president-donald-trump-signs-the-tax-cuts-and-jobs-act-of-2017-into-law.md)
-_Context: Tax reform in the United States, Tax Cuts and Jobs Act of 2017, U.S. President, Donald Trump_
+_Context: Tax reform in the United States, U.S. President, Tax Cuts and Jobs Act of 2017, Donald Trump_
 
 ## [Previous Day...](/news/2017/12/21/index.md)
 

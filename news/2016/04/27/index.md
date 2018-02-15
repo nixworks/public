@@ -9,7 +9,7 @@ President Benigno Aquino III says group that beheaded Canadian man also plotted 
 
 ##### 2016 Bursa bombing
 ### [A suicide bomber blows herself up in the Turkish city of Bursa, injuring at least seven people. ](/news/2016/04/27/a-suicide-bomber-blows-herself-up-in-the-turkish-city-of-bursa-injuring-at-least-seven-people.md)
-_Context: 2016 Bursa bombing, Bursa_
+_Context: Bursa, 2016 Bursa bombing_
 
 ##### Israeli-Palestinian conflict
 ### [Israeli forces kill two Palestinian assailants at a checkpoint in the West Bank. ](/news/2016/04/27/israeli-forces-kill-two-palestinian-assailants-at-a-checkpoint-in-the-west-bank.md)
@@ -17,11 +17,11 @@ Israeli police shot dead a Palestinian woman and her teenage brother on Wednesda
 
 ##### 2016 Armenian-Azerbaijani clashes
 ### [According to officials from the breakaway region of Nagorno-Karabakh, one of their soldiers was killed overnight by Azerbaijani troops. ](/news/2016/04/27/according-to-officials-from-the-breakaway-region-of-nagorno-karabakh-one-of-their-soldiers-was-killed-overnight-by-azerbaijani-troops.md)
-_Context: Nagorno-Karabakh, Azerbaijan, 2016 Armenian-Azerbaijani clashes_
+_Context: Nagorno-Karabakh, 2016 Armenian-Azerbaijani clashes, Azerbaijan_
 
 ##### War in Donbass
 ### [Representatives of the Russian-backed Donetsk People's Republic in Eastern Ukraine say at least five civilians are killed by artillery fire at a checkpoint in the town of Olenivka, with another 10 injured. Kiev denies the accusation. A local border-guard spokesman says there was an explosion at the checkpoint but he saw no artillery fired from either side, suggesting the blast could have been a bomb. ](/news/2016/04/27/representatives-of-the-russian-backed-donetsk-people-s-republic-in-eastern-ukraine-say-at-least-five-civilians-are-killed-by-artillery-fire.md)
-_Context: Government of Ukraine, Eastern Ukraine, Russia, Donetsk People's Republic, War in Donbass_
+_Context: War in Donbass, Eastern Ukraine, Government of Ukraine, Russia, Donetsk People's Republic_
 
 ##### War in Afghanistan
 ### [The U.S. military warns that the Kabul Attack Network, comprised of fighters from various jihadist groups such as the Taliban and Haqqani networks, is planning attacks on people in the Parwan, Khost, Kabul, and Logar Provinces, Afghanistan, and asks for information from the Afghan public. ](/news/2016/04/27/the-u-s-military-warns-that-the-kabul-attack-network-comprised-of-fighters-from-various-jihadist-groups-such-as-the-taliban-and-haqqani-ne.md)
@@ -65,19 +65,19 @@ Share this on WhatsApp
 
 ##### United Nations Security Council
 ### [United Nations Security Council members are considering a draft resolution that would restore the UN mission in Western Sahara to full functionality. Last month, Morocco expelled 75 UN staffers. ](/news/2016/04/27/united-nations-security-council-members-are-considering-a-draft-resolution-that-would-restore-the-un-mission-in-western-sahara-to-full-funct.md)
-_Context: Morocco, MINURSO, United Nations Security Council_
+_Context: MINURSO, Morocco, United Nations Security Council_
 
 ##### Iraqi Civil War
 ### [Senior Kurdish and Shi'ite Muslim leaders agree to withdraw from Tuz Khurmato, Iraq, where recent violence has killed more than 10 people. ](/news/2016/04/27/senior-kurdish-and-shi-ite-muslim-leaders-agree-to-withdraw-from-tuz-khurmato-iraq-where-recent-violence-has-killed-more-than-10-people.md)
-_Context: Iraq, Iraqi Civil War, Kurdish, Shia, Tuz Khurmato_
+_Context: Tuz Khurmato, Iraq, Kurdish, Shia, Iraqi Civil War_
 
 ##### Andrew Chan
 ### [Two days before the one-year anniversary of the execution of Andrew Chan and Myuran Sukumaran, the ringleaders of the Bali Nine, member Michael Czugaj is discovered to be in possession of drugs in prison. ](/news/2016/04/27/two-days-before-the-one-year-anniversary-of-the-execution-of-andrew-chan-and-myuran-sukumaran-the-ringleaders-of-the-bali-nine-member-mich.md)
-_Context: Michael Czugaj, Bali Nine, Andrew Chan, Myuran Sukumaran_
+_Context: Myuran Sukumaran, Michael Czugaj, Andrew Chan, Bali Nine_
 
 ##### November 2015 Paris attacks
 ### [Belgian prosecutors hand over Salah Abdeslam, a key suspect in the November 2015 Paris attacks, to French authorities. ](/news/2016/04/27/belgian-prosecutors-hand-over-salah-abdeslam-a-key-suspect-in-the-november-2015-paris-attacks-to-french-authorities.md)
-_Context: November 2015 Paris attacks, Belgium, France, Salah Abdeslam_
+_Context: Salah Abdeslam, November 2015 Paris attacks, France, Belgium_
 
 ##### U.S. Speaker of the House of Representatives
 ### [Former Speaker of the United States House of Representatives Dennis Hastert is sentenced to 15 months in prison for breaking banking laws in order to make payments to cover sexual misconduct from past decades. ](/news/2016/04/27/former-speaker-of-the-united-states-house-of-representatives-dennis-hastert-is-sentenced-to-15-months-in-prison-for-breaking-banking-laws-in.md)
@@ -89,7 +89,7 @@ Iraqi authorities have revoked the operating licence of the pan-Arab satellite n
 
 ##### Censorship in Iran
 ### [Iran sentences four reformist newspaper journalists to long prison terms for so-called national security crimes. Analysts say this case indicates that President Hassan Rouhani's calls for press freedoms will likey face an unsympathetic hearing from Iran's conservative judiciary. ](/news/2016/04/27/iran-sentences-four-reformist-newspaper-journalists-to-long-prison-terms-for-so-called-national-security-crimes-analysts-say-this-case-indi.md)
-_Context: Censorship in Iran, national security, journalist, Iran's conservative judiciary, President, Hassan Rouhani, Iran_
+_Context: journalist, Hassan Rouhani, President, Iran, national security, Censorship in Iran, Iran's conservative judiciary_
 
 ##### Monte Tchota massacre
 ### [Cape Verdean police capture a suspect in the murder of eight soldiers and three civilians. ](/news/2016/04/27/cape-verdean-police-capture-a-suspect-in-the-murder-of-eight-soldiers-and-three-civilians.md)
@@ -105,7 +105,7 @@ North Korea announces it will hold a Workers Party congress next month, the firs
 
 ##### 2016 U.S. presidential election
 ### [Texas Senator Ted Cruz names former Republican presidential candidate Carly Fiorina as his vice-presidential running mate. ](/news/2016/04/27/texas-senator-ted-cruz-names-former-republican-presidential-candidate-carly-fiorina-as-his-vice-presidential-running-mate.md)
-_Context: 2016 U.S. presidential election, Texas, Ted Cruz presidential campaign, 2016, Ted Cruz, Republican, United States Senate, presidential candidate, Carly Fiorina_
+_Context: presidential candidate, Ted Cruz, Ted Cruz presidential campaign, 2016, United States Senate, Carly Fiorina, Texas, 2016 U.S. presidential election, Republican_
 
 ##### Bradford West
 ### [Bradford West MP Naz Shah is suspended from the opposition Labour Party over comments she made on Facebook about Israel. ](/news/2016/04/27/bradford-west-mp-naz-shah-is-suspended-from-the-opposition-labour-party-over-comments-she-made-on-facebook-about-israel.md)
@@ -113,7 +113,7 @@ Labour suspends MP Naz Shah over a Facebook post suggesting Israel should be mov
 
 ##### Chancellor
 ### [German Chancellor Angela Merkel's office confirms German Federal Intelligence Service President Gerhard Schindler will be replaced by Bruno Kahl. Schindler has been widely criticized following the disclosure his agency spied for the U.S. National Security Agency. ](/news/2016/04/27/german-chancellor-angela-merkel-s-office-confirms-german-federal-intelligence-service-president-gerhard-schindler-will-be-replaced-by-bruno.md)
-_Context: U.S., Chancellor, BND, Angela Merkel, Gerhard Schindler, NSA_
+_Context: United States, Chancellor, National Security Agency, Gerhard Schindler, BND, Angela Merkel_
 
 ## [Previous Day...](/news/2016/04/26/index.md)
 

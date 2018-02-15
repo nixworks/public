@@ -45,7 +45,7 @@ Landslides and floods triggered by torrential rain have killed at least 10 peopl
 
 ##### Sulawesi island
 ### [A magnitude 6.2 earthquake hits southeastern Sulawesi in Indonesia. ](/news/2011/04/24/a-magnitude-6-2-earthquake-hits-southeastern-sulawesi-in-indonesia.md)
-_Context: Sulawesi island, Indonesia_
+_Context: Indonesia, Sulawesi island_
 
 ##### Red River of the North
 ### [Flooding on the Red River of the North forces the evacuation of the Roseau River Anishinabe First Nation community in Manitoba. ](/news/2011/04/24/flooding-on-the-red-river-of-the-north-forces-the-evacuation-of-the-roseau-river-anishinabe-first-nation-community-in-manitoba.md)

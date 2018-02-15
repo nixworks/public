@@ -13,11 +13,11 @@ Police in Majorca are on heightened alert following yesterday&#39;s car bombing 
 
 ##### Venezuela
 ### [ A new media law limiting freedom of speech, under which journalists could be imprisoned for publishing "harmful" material, is placed before the National Assembly. ](/news/2009/07/31/a-new-media-law-limiting-freedom-of-speech-under-which-journalists-could-be-imprisoned-for-publishing-harmful-material-is-placed-before.md)
-_Context: Venezuela, freedom of speech, National Assembly_
+_Context: freedom of speech, National Assembly, Venezuela_
 
 ##### United States House of Representatives
 ### [ U.S. House of Representatives approves an extra $2 billion to the Car Allowance Rebate System. ](/news/2009/07/31/u-s-house-of-representatives-approves-an-extra-2-billion-to-the-car-allowance-rebate-system.md)
-_Context: United States House of Representatives, Car Allowance Rebate System_
+_Context: Car Allowance Rebate System, United States House of Representatives_
 
 ##### Norway
 ### [ A Norwegian cargo vessel with a crew of six sinks after a storm in Swedish waters near Stromstad. ](/news/2009/07/31/a-norwegian-cargo-vessel-with-a-crew-of-six-sinks-after-a-storm-in-swedish-waters-near-strapmstad.md)
@@ -25,11 +25,11 @@ A Norwegian cargo vessel with a crew of six is believed to have sunk in Swedish 
 
 ##### Netherlands
 ### [ Eight Dutch tourists are killed and 42 people are injured in a bus crash near Barcelona. ](/news/2009/07/31/eight-dutch-tourists-are-killed-and-42-people-are-injured-in-a-bus-crash-near-barcelona.md)
-_Context: bus crash, Barcelona, Netherlands_
+_Context: Netherlands, Barcelona, bus crash_
 
 ##### Italy
 ### [ Patrizia D'Addario, the escort at the centre of Italian Prime Minister Silvio Berlusconi's sex scandal, claims he and his party offered her a seat in the European Parliament until his wife complained. ](/news/2009/07/31/patrizia-d-addario-the-escort-at-the-centre-of-italian-prime-minister-silvio-berlusconi-s-sex-scandal-claims-he-and-his-party-offered-her.md)
-_Context: Italian Prime Minister, Italy, Silvio Berlusconi, European Parliament_
+_Context: Silvio Berlusconi, Italy, Italian Prime Minister, European Parliament_
 
 ##### Gazprom
 ### [ Gazprom launches construction of the Sakhalin-Khabarovsk-Vladivostok gas pipeline. ](/news/2009/07/31/gazprom-launches-construction-of-the-sakhalinakhabarovskavladivostok-gas-pipeline.md)
@@ -49,7 +49,7 @@ _Context: Baghdad, Iraq, Shia_
 
 ##### Space Shuttle ''Endeavour''
 ### [ Space Shuttle "Endeavour" lands at Kennedy Space Centre in Florida, United States, ending a 16-day mission to the International Space Station (ISS). ](/news/2009/07/31/space-shuttle-endeavour-lands-at-kennedy-space-centre-in-florida-united-states-ending-a-16-day-mission-to-the-international-space-stati.md)
-_Context: 16-day mission, International Space Station, the state, U.S., Space Shuttle ''Endeavour'', Kennedy Space Center_
+_Context: United States, Space Shuttle ''Endeavour'', the state, International Space Station, Kennedy Space Center, 16-day mission_
 
 ##### Altinum
 ### [ Aerial photographs reveal the streetplan of the lost Roman city of Altinum, regarded by some scholars as a forerunner of Venice. ](/news/2009/07/31/aerial-photographs-reveal-the-streetplan-of-the-lost-roman-city-of-altinum-regarded-by-some-scholars-as-a-forerunner-of-venice.md)
@@ -61,19 +61,19 @@ The British High Court has ruled against a last-ditch bid by Gary McKinnon to av
 
 ##### Benicio del Toro
 ### [ Filmmaker Benicio del Toro is presented with the International Tomas Gutierrez Alea Prize by the Cuban government in Havana. ](/news/2009/07/31/filmmaker-benicio-del-toro-is-presented-with-the-international-toma-s-gutia-c-rrez-alea-prize-by-the-cuban-government-in-havana.md)
-_Context: Havana, Benicio del Toro, Cuba - United States relations, Cuba, government, International Tomas Gutierrez Alea Prize_
+_Context: International Tomas Gutierrez Alea Prize, Cuba - United States relations, Benicio del Toro, Cuba, Havana, government_
 
 ##### Sperm
 ### [ Research claiming to have created human sperm in a Newcastle laboratory is withdrawn due to evidence of plagiarism. ](/news/2009/07/31/research-claiming-to-have-created-human-sperm-in-a-newcastle-laboratory-is-withdrawn-due-to-evidence-of-plagiarism.md)
-_Context: plagiarising, Newcastle upon Tyne, sperm_
+_Context: sperm, plagiarising, Newcastle upon Tyne_
 
-##### U.S.
+##### United States
 ### [ Three United States tourists are detained by Iranians in Iraq. ](/news/2009/07/31/three-united-states-tourists-are-detained-by-iranians-in-iraq.md)
-_Context: Iraq, U.S., Iran_
+_Context: United States, Iraq, Iran_
 
 ##### UBS
 ### [ The giant Swiss bank UBS and that nation's government have agreed to settle a lawsuit brought against UBS by United States tax authorities, in an agreement that seems likely to result in giving the Internal Revenue Service access to thousands of previously secret U.S. client accounts. ](/news/2009/07/31/the-giant-swiss-bank-ubs-and-that-nation-s-government-have-agreed-to-settle-a-lawsuit-brought-against-ubs-by-united-states-tax-authorities.md)
-_Context: UBS, U.S., Internal Revenue Service_
+_Context: United States, Internal Revenue Service, UBS_
 
 ##### Copenhagen
 ### [ A church in Copenhagen offers blessings to 18 same-sex couples from around the world who are typically chastised. ](/news/2009/07/31/a-church-in-copenhagen-offers-blessings-to-18-same-sex-couples-from-around-the-world-who-are-typically-chastised.md)

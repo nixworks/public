@@ -5,7 +5,7 @@ Formats: [HTML](2017/02/28/index.html)  [JSON](2017/02/28/index.json)  [XML](201
 
 ##### War in Afghanistan (2015-present)
 ### [Twelve Afghan National Police officers are killed in a Taliban "infiltration attack" in the southern Helmand Province. ](/news/2017/02/28/twelve-afghan-national-police-officers-are-killed-in-a-taliban-infiltration-attack-in-the-southern-helmand-province.md)
-_Context: War in Afghanistan (2015-present), Taliban, police, Helmand Province_
+_Context: Helmand Province, War in Afghanistan (2015-present), police, Taliban_
 
 ##### Gaza-Israel conflict
 ### [At least four Palestinians are injured following Israeli air strikes in Gaza that were reportedly in response to rockets launched into southern Israel by Hamas. ](/news/2017/02/28/at-least-four-palestinians-are-injured-following-israeli-air-strikes-in-gaza-that-were-reportedly-in-response-to-rockets-launched-into-south.md)

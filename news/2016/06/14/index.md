@@ -5,7 +5,7 @@ Formats: [HTML](2016/06/14/index.html)  [JSON](2016/06/14/index.json)  [XML](201
 
 ##### Afghanistan-Pakistan skirmishes
 ### [Afghan and Pakistani soldiers clash at the Torkham border crossing between the two countries, leaving one Afghan soldier and a Pakistani major killed. At least 22 other people were also injured. Tensions between Afghanistan and Pakistan have grown since the latter's attempts to build a gate at the crossing. ](/news/2016/06/14/afghan-and-pakistani-soldiers-clash-at-the-torkham-border-crossing-between-the-two-countries-leaving-one-afghan-soldier-and-a-pakistani-maj.md)
-_Context: Afghan National Army, Torkham, Pakistan Army, Afghanistan-Pakistan skirmishes, Pakistan, Afghanistan_
+_Context: Torkham, Afghanistan-Pakistan skirmishes, Afghan National Army, Afghanistan, Pakistan, Pakistan Army_
 
 ##### June 2016 Magnanville stabbing
 ### [The attacker is identified as Larossi Abballa, a 25-year-old man who, according to police sources, was a neighbor of the murdered couple. Abballa was one of eight men convicted in Paris in 2013 for making plans to travel to Pakistan for terrorist training, and then to commit terrorists acts. Abballa was sentenced to three years in prison. He was released after the trial as six months of the sentence was suspended, and he had already spent two years in jail awaiting trial. ](/news/2016/06/14/the-attacker-is-identified-as-larossi-abballa-a-25-year-old-man-who-according-to-police-sources-was-a-neighbor-of-the-murdered-couple-ab.md)
@@ -29,7 +29,7 @@ Employees of a fish processing plant in the tiny Aleutian village were heading f
 
 ##### European Union-Turkey relations
 ### [Hansjorg Haber, the European Union's top envoy to Turkey, resigns effective August. Omer Celik, Turkish Minister of European Union Affairs, had complained that Haber had shown disrespect for Turkey's national values, and for President Tayyip Erdogan. EU officials declined to comment on the reason for Haber's resignation. ](/news/2016/06/14/hansjaprg-haber-the-european-union-s-top-envoy-to-turkey-resigns-effective-august-amer-aelik-turkish-minister-of-european-union-affair.md)
-_Context: Turkey, Omer Celik, European Union, Minister of European Union Affairs, European Union-Turkey relations, Recep Tayyip Erdogan_
+_Context: Omer Celik, European Union-Turkey relations, Minister of European Union Affairs, Turkey, European Union, Recep Tayyip Erdogan_
 
 ##### Walmart
 ### [An armed man, holding two people hostage in a Walmart in Amarillo, Texas, is shot and killed by a police SWAT unit. No other injuries are reported. ](/news/2016/06/14/an-armed-man-holding-two-people-hostage-in-a-walmart-in-amarillo-texas-is-shot-and-killed-by-a-police-swat-unit-no-other-injuries-are-re.md)
@@ -41,7 +41,7 @@ The breach at the Democratic National Committee was one of several targeting U.S
 
 ##### U.S. Court of Appeals for the District of Columbia
 ### [A U.S. Court of Appeals for the District of Columbia Circuit three-judge panel upholds the Federal Communications Commission's net neutrality rules that prohibit broadband providers from giving or selling access to faster internet service to selected customers. ](/news/2016/06/14/a-u-s-court-of-appeals-for-the-district-of-columbia-circuit-three-judge-panel-upholds-the-federal-communications-commission-s-net-neutralit.md)
-_Context: Internet service provider, net neutrality, FCC's, U.S. Court of Appeals for the District of Columbia_
+_Context: Internet service provider, FCC's, U.S. Court of Appeals for the District of Columbia, net neutrality_
 
 ##### Egyptian Misdemeanor Court
 ### [An Egyptian Misdemeanor Court acquits 52 people charged with taking part in anti-government demonstrations in April. Thousands rallied on April 25 to protest the transfer of Red Sea islands Tiran and Sanafir to Saudi Arabia. Police arrested nearly 300 demonstrators; government reports indicate all have been released from prison. ](/news/2016/06/14/an-egyptian-misdemeanor-court-acquits-52-people-charged-with-taking-part-in-anti-government-demonstrations-in-april-thousands-rallied-on-ap.md)

@@ -5,11 +5,11 @@ Formats: [HTML](2009/07/3/index.html)  [JSON](2009/07/3/index.json)  [XML](2009/
 
 ##### African Union
 ### [ The African Union stops cooperation with the International Criminal Court because it charged Sudanese President Omar al-Bashir with war crimes. ](/news/2009/07/3/the-african-union-stops-cooperation-with-the-international-criminal-court-because-it-charged-sudanese-president-omar-al-bashir-with-war-cri.md)
-_Context: Sudan, African Union, Omar al-Bashir, ICC, President of Sudan, war crime_
+_Context: President of Sudan, African Union, Sudan, Omar al-Bashir, war crime, ICC_
 
 ##### Mosque
 ### [ Three people die and over a dozen are injured in riots after a dead pig is thrown into an under-construction mosque in Mysore, India. ](/news/2009/07/3/three-people-die-and-over-a-dozen-are-injured-in-riots-after-a-dead-pig-is-thrown-into-an-under-construction-mosque-in-mysore-india.md)
-_Context: Mysore, mosque, India_
+_Context: India, Mysore, mosque_
 
 ##### John Demjanjuk
 ### [ John Demjanjuk is declared fit to stand trial for assisting in the deaths of 29,000 Jews in Treblinka extermination camp. ](/news/2009/07/3/john-demjanjuk-is-declared-fit-to-stand-trial-for-assisting-in-the-deaths-of-29-000-jews-in-treblinka-extermination-camp.md)
@@ -25,11 +25,11 @@ Repair work is under way in Co Mayo to roads and bridges damaged by overnight fl
 
 ##### United Nations
 ### [ United Nations Secretary-General Ban Ki-moon arrives in Burma, meeting junta leader Senior General Than Shwe and calling for the release of political prisoners. ](/news/2009/07/3/united-nations-secretary-general-ban-ki-moon-arrives-in-burma-meeting-junta-leader-senior-general-than-shwe-and-calling-for-the-release-of.md)
-_Context: Ban Ki-moon, United Nations, Than Shwe, Burma, United Nations Secretary-General, State Peace and Development Council_
+_Context: State Peace and Development Council, United Nations, United Nations Secretary-General, Ban Ki-moon, Burma, Than Shwe_
 
 ##### Iran
 ### [ Two Iranian staff working for the British embassy in Tehran will face trial over allegedly inciting protests. ](/news/2009/07/3/two-iranian-staff-working-for-the-british-embassy-in-tehran-will-face-trial-over-allegedly-inciting-protests.md)
-_Context: Iran, United Kingdom, trial, Tehran, protests against the regime_
+_Context: Tehran, protests against the regime, Iran, trial, United Kingdom_
 
 ##### Dinosaur
 ### [ Three dinosaur species&mdash;"Australovenator wintonensis", "Wintonotitan wattsi" and "Diamantinasaurus matildae"&mdash;are discovered in Australia. ](/news/2009/07/3/three-dinosaur-species-mdash-australovenator-wintonensis-wintonotitan-wattsi-and-diamantinasaurus-matildae-mdash-are-discovered-in-a.md)
@@ -37,7 +37,7 @@ Meet Australia&#039;s answer to velociraptor.
 
 ##### Syria
 ### [ Syria invites United States President Barack Obama to the Damascus summit. ](/news/2009/07/3/syria-invites-united-states-president-barack-obama-to-the-damascus-summit.md)
-_Context: U.S. President, Syria, Barack Obama, Damascus, U.S._
+_Context: Barack Obama, U.S. President, Syria, United States, Damascus_
 
 ##### Algeria
 ### [ Algerian ra music star Cheb Mami is jailed for five years in France for trying to force his former partner to have an abortion. ](/news/2009/07/3/algerian-rai-music-star-cheb-mami-is-jailed-for-five-years-in-france-for-trying-to-force-his-former-partner-to-have-an-abortion.md)
@@ -45,11 +45,11 @@ Algerian singer Cheb Mami went on trial in France on Thursday over accusations t
 
 ##### Portugal
 ### [ Manuel Pinho, Portugal's Economy Minister, resigns after performing a cuckold gesture at an opposition MP. ](/news/2009/07/3/manuel-pinho-portugal-s-economy-minister-resigns-after-performing-a-cuckold-gesture-at-an-opposition-mp.md)
-_Context: Portugal, cuckold, MP_
+_Context: MP, cuckold, Portugal_
 
 ##### North Korea
 ### [ North Korea broadcasts its first ever beer commercial, for Taedonggang beer. ](/news/2009/07/3/north-korea-broadcasts-its-first-ever-beer-commercial-for-taedonggang-beer.md)
-_Context: Taedonggang, beer, North Korea_
+_Context: beer, Taedonggang, North Korea_
 
 ##### Viareggio
 ### [ Two more people die in Viareggio, Italy, following the train explosion, bringing the death toll to 21. ](/news/2009/07/3/two-more-people-die-in-viareggio-italy-following-the-train-explosion-bringing-the-death-toll-to-21.md)
@@ -57,11 +57,11 @@ The death toll in this week&#39;s rail disaster in Italy rose to 21 after a woma
 
 ##### Killed after a fire
 ### [ Six people, including three children, are killed after a fire in a high rise residential tower block in Camberwell, south London, England. ](/news/2009/07/3/six-people-including-three-children-are-killed-after-a-fire-in-a-high-rise-residential-tower-block-in-camberwell-south-london-england.md)
-_Context: killed after a fire, Camberwell, London, England_
+_Context: England, killed after a fire, Camberwell, London_
 
-##### U.S.
+##### United States
 ### [ American politician Sarah Palin, current Governor of Alaska and 2008 Vice Presidential candidate, announces her resignation as Governor, effective July 26. ](/news/2009/07/3/american-politician-sarah-palin-current-governor-of-alaska-and-2008-vice-presidential-candidate-announces-her-resignation-as-governor-ef.md)
-_Context: U.S. Vice President, Alaska, U.S., Sarah Palin, Governor, 2008_
+_Context: Governor, U.S. Vice President, United States, Alaska, Sarah Palin, 2008_
 
 ##### Irish
 ### [ Two aid workers, including one Irish woman, with the charity GOAL are kidnapped by an armed gang in Sudan's Darfur region. ](/news/2009/07/3/two-aid-workers-including-one-irish-woman-with-the-charity-goal-are-kidnapped-by-an-armed-gang-in-sudan-s-darfur-region.md)

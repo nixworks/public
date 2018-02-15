@@ -13,7 +13,7 @@ Sarath Fonseka says he plans to contest presidential polls - Sri Lanka&#039;s fo
 
 ##### China
 ### [ A Chinese court hears the first civil lawsuit by a parent whose child fell ill during last year's tainted milk scandal. ](/news/2009/11/28/a-chinese-court-hears-the-first-civil-lawsuit-by-a-parent-whose-child-fell-ill-during-last-year-s-tainted-milk-scandal.md)
-_Context: 2008 Chinese milk scandal, China_
+_Context: China, 2008 Chinese milk scandal_
 
 ##### Government of Ireland
 ### [ The Government of Ireland promises more money to the flood relief fund as ongoing flooding worsens in some counties, including Clare, Galway and Offaly. ](/news/2009/11/28/the-government-of-ireland-promises-more-money-to-the-flood-relief-fund-as-ongoing-flooding-worsens-in-some-counties-including-clare-galwa.md)
@@ -29,7 +29,7 @@ _Context: DR Congo, Lake Mai-Ndombe, ferry_
 
 ##### Pakistan
 ### [ Pakistan's National Reconciliation Ordinance, issued by former President Pervez Musharraf in October 2007 to provide several thousand politicians (including current President Asif Ali Zardari) amnesty from charges of political corruption, expires. ](/news/2009/11/28/pakistan-s-national-reconciliation-ordinance-issued-by-former-president-pervez-musharraf-in-october-2007-to-provide-several-thousand-polit.md)
-_Context: amnesty, Pervez Musharraf, Asif Ali Zardari, amnesty protecting him, corruption, Pakistan, president_
+_Context: Pervez Musharraf, corruption, Asif Ali Zardari, president, amnesty, amnesty protecting him, Pakistan_
 
 ##### Russia
 ### [ Russia's prosecutor general opens a criminal case into the 2009 Nevsky Express bombing which killed at least 26 people yesterday. ](/news/2009/11/28/russia-s-prosecutor-general-opens-a-criminal-case-into-the-2009-nevsky-express-bombing-which-killed-at-least-26-people-yesterday.md)
@@ -41,11 +41,11 @@ _Context: Zimbabwe, Shanghai Pudong International Airport_
 
 ##### Japan
 ### [ Japan launches its fifth spy satellite on the H-IIA rocket from the Tanegashima Space Center. ](/news/2009/11/28/japan-launches-its-fifth-spy-satellite-on-the-h-iia-rocket-from-the-tanegashima-space-center.md)
-_Context: Japan, Tanegashima Space Center, spy satellite, H-IIA_
+_Context: H-IIA, Tanegashima Space Center, spy satellite, Japan_
 
 ##### Elections last week
 ### [ A second day of voting in national and presidential elections in Namibia takes place. ](/news/2009/11/28/a-second-day-of-voting-in-national-and-presidential-elections-in-namibia-takes-place.md)
-_Context: Namibia, elections last week_
+_Context: elections last week, Namibia_
 
 ## [Previous Day...](/news/2009/11/27/index.md)
 

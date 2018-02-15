@@ -9,7 +9,7 @@ A Boeing 737-8HG (WL) passenger plane, registered VT-AXV, was destroyed in a lan
 
 ##### Apa
 ### [Apa, a Nepalese Sherpa mountain climber who already held the world record for summiting Mount Everest more than any other person, reaches the summit for the 20th time. ](/news/2010/05/22/apa-a-nepalese-sherpa-mountain-climber-who-already-held-the-world-record-for-summiting-mount-everest-more-than-any-other-person-reaches-th.md)
-_Context: Nepal, Sherpa, Apa, mountain climber, Mount Everest_
+_Context: Nepal, Sherpa, Mount Everest, mountain climber, Apa_
 
 ##### Cyclone Laila
 ### [The death toll of Cyclone Laila in Andhra Pradesh, the worst storm to hit the Indian state in 14 years, reaches 36. ](/news/2010/05/22/the-death-toll-of-cyclone-laila-in-andhra-pradesh-the-worst-storm-to-hit-the-indian-state-in-14-years-reaches-36.md)
@@ -45,7 +45,7 @@ Abbott Laboratories will buy Piramal Healthcare&rsquo;s branded generic-medicine
 
 ##### Naxalite-Maoist insurgency
 ### [Five people are shot dead by 100 armed Maoists who storm and burn market buildings in Sheohar, Bihar. ](/news/2010/05/22/five-people-are-shot-dead-by-100-armed-maoists-who-storm-and-burn-market-buildings-in-sheohar-bihar.md)
-_Context: Bihar, Sheohar, Naxalite-Maoist insurgency_
+_Context: Bihar, Naxalite-Maoist insurgency, Sheohar_
 
 ##### British Airways
 ### [British Airways chief executive Willie Walsh is surrounded by demonstrators who storm the headquarters of the Acas building in London. ](/news/2010/05/22/british-airways-chief-executive-willie-walsh-is-surrounded-by-demonstrators-who-storm-the-headquarters-of-the-acas-building-in-london.md)
@@ -57,13 +57,13 @@ _Context: Ariane 5_
 
 ##### 2010 UEFA Champions League Final
 ### [In the 2010 UEFA Champions League Final, Inter Milan defeats Bayern Munich 2-0, for their first major European title since 1965. ](/news/2010/05/22/in-the-2010-uefa-champions-league-final-inter-milan-defeats-bayern-munich-2a0-for-their-first-major-european-title-since-1965.md)
-_Context: Bayern Munich, 1965, 2010 UEFA Champions League Final, Inter Milan_
+_Context: 1965, Inter Milan, 2010 UEFA Champions League Final, Bayern Munich_
 
 ##### South Africa
 ### [More than 74,000 South African football fans attend the first match at Soccer City--venue for the 2010 FIFA World Cup Final--less than three weeks before the tournament begins. ](/news/2010/05/22/more-than-74-000-south-african-football-fans-attend-the-first-match-at-soccer-cityavenue-for-the-2010-fifa-world-cup-finalaless-than-thr.md)
 More than 74,000 South African football fans attend the first match at Soccer City - venue for the World Cup final.
 
-##### U.S.
+##### United States
 ### [Thirteen-year-old American Jordan Romero becomes the youngest person to reach the summit of Mount Everest. ](/news/2010/05/22/thirteen-year-old-american-jordan-romero-becomes-the-youngest-person-to-reach-the-summit-of-mount-everest.md)
 A 13-year-old American boy became the youngest climber to reach the top of Mount Everest on Saturday, breaking the former record as part of his quest to climb the highest peaks on all seven continents.
 

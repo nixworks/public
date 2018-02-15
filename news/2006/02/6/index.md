@@ -13,11 +13,11 @@ _Context: Woodside Petroleum, Maaouiya Ould Taya, Mauritania_
 
 ##### U.S. Senate Committee on the Judiciary
 ### [ U.S. Senate Committee on the Judiciary hearings begin regarding the NSA warrantless surveillance program, with testimony from Attorney General Alberto Gonzales. ](/news/2006/02/6/u-s-senate-committee-on-the-judiciary-hearings-begin-regarding-the-nsa-warrantless-surveillance-program-with-testimony-from-attorney-gene.md)
-_Context: United States Attorney General, Alberto Gonzales, U.S. Senate Committee on the Judiciary, warrantless wiretapping_
+_Context: Alberto Gonzales, U.S. Senate Committee on the Judiciary, United States Attorney General, warrantless wiretapping_
 
 ##### Stephen Harper
 ### [ As Stephen Harper is sworn in as Canada's 22nd Prime Minister, David Emerson crosses the floor from the Liberal Party to join Harper's Conservative Party, and is appointed as Minister of International Trade. Harper also appointed Michael Fortier, an unelected party supporter, to minister of public works and government services and to the senate. ](/news/2006/02/6/as-stephen-harper-is-sworn-in-as-canada-s-22nd-prime-minister-david-emerson-crosses-the-floor-from-the-liberal-party-to-join-harper-s-cons.md)
-_Context: David Emerson, Michael Fortier, Stephen Harper, Conservative Party's, Liberal Party's, crosses the floor, Prime Minister of Canada_
+_Context: Michael Fortier, Prime Minister of Canada, Liberal Party's, David Emerson, Stephen Harper, crosses the floor, Conservative Party's_
 
 ##### Australian
 ### [ United States, Indonesian, and Australian scientists working in the Foja Mountains in eastern Papua, Indonesia, discover 20 previously unknown frog species, a new species of honeyeater, four new butterflies, and at least five new plants. Also discovered were a kangaroo unknown in Papua, and a six-wired bird-of-paradise, previously known only from dead specimens whose origin was unknown. ](/news/2006/02/6/united-states-indonesian-and-australian-scientists-working-in-the-foja-mountains-in-eastern-papua-indonesia-discover-20-previously-unkn.md)
@@ -29,7 +29,7 @@ _Context: Google, BMW_
 
 ##### Egypt
 ### [ In the Egyptian port of Safaga, relatives of hundreds of passengers killed when the ferry "al-Salam Boccaccio '98" sank in the Red Sea, attack the office of El Salam Maritime Transport. ](/news/2006/02/6/in-the-egyptian-port-of-safaga-relatives-of-hundreds-of-passengers-killed-when-the-ferry-al-salam-boccaccio-98-sank-in-the-red-sea-att.md)
-_Context: El Salam Maritime Transport, Egypt, al-Salam Boccaccio '98, Safaga, Red Sea_
+_Context: al-Salam Boccaccio '98, Red Sea, Safaga, El Salam Maritime Transport, Egypt_
 
 ##### Isabelle Dinoire
 ### [ Isabelle Dinoire, the French woman who received the world's first partial face transplant appears before the media for the first time, saying she expects to resume a normal life. ](/news/2006/02/6/isabelle-dinoire-the-french-woman-who-received-the-world-s-first-partial-face-transplant-appears-before-the-media-for-the-first-time-sayi.md)

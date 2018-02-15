@@ -5,7 +5,7 @@ Formats: [HTML](2010/03/4/index.html)  [JSON](2010/03/4/index.json)  [XML](2010/
 
 ##### Egypt
 ### [Egyptian President Hosni Mubarak says he does not mind the nomination of the former Director-General of International Atomic Energy Agency Mohamed ElBaradei in the next presidential election as long as it is under the framework of existing constitution. ](/news/2010/03/4/egyptian-president-hosni-mubarak-says-he-does-not-mind-the-nomination-of-the-former-director-general-of-international-atomic-energy-agency-m.md)
-_Context: Mohamed ElBaradei , existing constitution, Egypt, IAEA, Egyptian presidential election in September, President, Hosni Mubarak_
+_Context: President, Egyptian presidential election in September, Hosni Mubarak, Egypt, IAEA, existing constitution, Mohamed ElBaradei _
 
 ##### Science
 ### [Forty-one scientists publish a paper in "Science" affirming that the Cretaceous-Paleogene extinction event, the large-scale mass extinction of dinosaurs and other lifeforms on Earth ~65.5 million years ago, was caused by an asteroid impact. ](/news/2010/03/4/forty-one-scientists-publish-a-paper-in-science-affirming-that-the-cretaceousapaleogene-extinction-event-the-large-scale-mass-extinctio.md)
@@ -17,7 +17,7 @@ _Context: Mexico City, same-sex marriages_
 
 ##### Committee on Foreign Affairs
 ### [The Committee on Foreign Affairs of the United States House of Representatives accepts a resolution describing the Armenian Genocide as "genocide", prompting Turkey to recall its ambassador and threatening Turkey-United States relations. ](/news/2010/03/4/the-committee-on-foreign-affairs-of-the-united-states-house-of-representatives-accepts-a-resolution-describing-the-armenian-genocide-as-gen.md)
-_Context: United States House of Representatives, Committee on Foreign Affairs, Turkey, genocide, Turkey-United States relations, genocide of Armenians_
+_Context: Turkey-United States relations, United States House of Representatives, Turkey, genocide, genocide of Armenians, Committee on Foreign Affairs_
 
 ##### Baltic Sea
 ### [Thousands of passengers are stuck in ice in the Baltic Sea. ](/news/2010/03/4/thousands-of-passengers-are-stuck-in-ice-in-the-baltic-sea.md)
@@ -33,7 +33,7 @@ _Context: Uganda, Bududa, Monday night's mudslide_
 
 ##### Islamists
 ### [Four German Islamists are imprisoned after being convicted of planning "a second 11 September 2001". ](/news/2010/03/4/four-german-islamists-are-imprisoned-after-being-convicted-of-planning-a-second-11-september-2001.md)
-_Context: September 11 attacks, Islamists, planning_
+_Context: Islamists, September 11 attacks, planning_
 
 ##### 6.4 earthquake
 ### [A magnitude 6.4 earthquake hits Taiwan, injuring 12 and disrupting communications and rail services. ](/news/2010/03/4/a-magnitude-6-4-earthquake-hits-taiwan-injuring-12-and-disrupting-communications-and-rail-services.md)
@@ -53,11 +53,11 @@ An Egyptian property tycoon, who was sentenced to death for murdering his former
 
 ##### Party for Freedom
 ### [The Party for Freedom (PVV) of Geert Wilders becomes the largest political party in Almere and the second largest in The Hague. ](/news/2010/03/4/the-party-for-freedom-pvv-of-geert-wilders-becomes-the-largest-political-party-in-almere-and-the-second-largest-in-the-hague.md)
-_Context: Almere, Geert Wilders, The Hague, Party for Freedom_
+_Context: Party for Freedom, Geert Wilders, The Hague, Almere_
 
 ##### Sinn Fein
 ### [The brother of Sinn Fein's Gerry Adams, detained under a European arrest warrant, is released on bail after surrendering to the Garda Siochana in Ireland. ](/news/2010/03/4/the-brother-of-sinn-fa-c-in-s-gerry-adams-detained-under-a-european-arrest-warrant-is-released-on-bail-after-surrendering-to-the-garda-saoc.md)
-_Context: Gerry Adams, police officer, Ireland, Sinn Fein_
+_Context: police officer, Ireland, Gerry Adams, Sinn Fein_
 
 ##### Sahil Saeed
 ### [The family of kidnapped boy Sahil Saeed ask that he be returned home safely. ](/news/2010/03/4/the-family-of-kidnapped-boy-sahil-saeed-ask-that-he-be-returned-home-safely.md)

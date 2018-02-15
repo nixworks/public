@@ -5,7 +5,7 @@ Formats: [HTML](2013/06/12/index.html)  [JSON](2013/06/12/index.json)  [XML](201
 
 ##### United Nations
 ### [United Nations peacekeepers from Austria start withdrawing from the Golan Heights. ](/news/2013/06/12/united-nations-peacekeepers-from-austria-start-withdrawing-from-the-golan-heights.md)
-_Context: Golan Heights, United Nations, Austria, peacekeepers_
+_Context: peacekeepers, Golan Heights, United Nations, Austria_
 
 ##### Scotland
 ### [Gunmen kidnap a Scottish man working for a British energy company in the Indonesian province of Aceh. ](/news/2013/06/12/gunmen-kidnap-a-scottish-man-working-for-a-british-energy-company-in-the-indonesian-province-of-aceh.md)
@@ -21,7 +21,7 @@ Japan&#039;s Jiroemon Kimura, recognised by Guinness World Records as the oldest
 
 ##### Facebook
 ### [Facebook announces it plans to introduce clickable hashtags. ](/news/2013/06/12/facebook-announces-it-plans-to-introduce-clickable-hashtags.md)
-_Context: Facebook, hashtag_
+_Context: hashtag, Facebook_
 
 ##### New Zealand Dollar
 ### [The New Zealand Dollar falls against all major currencies after RBNZ keeps interest rates unchanged. ](/news/2013/06/12/the-new-zealand-dollar-falls-against-all-major-currencies-after-rbnz-keeps-interest-rates-unchanged.md)
@@ -77,7 +77,7 @@ Time to rewrite the textbooks!
 
 ##### Altitude
 ### [A new study suggests that altitude plays a role in language evolution, explaining why ejective sounds are more popular in languages of high-altitude regions. ](/news/2013/06/12/a-new-study-suggests-that-altitude-plays-a-role-in-language-evolution-explaining-why-ejective-sounds-are-more-popular-in-languages-of-high.md)
-_Context: altitude, ejective, language evolution_
+_Context: language evolution, altitude, ejective_
 
 ## [Previous Day...](/news/2013/06/11/index.md)
 

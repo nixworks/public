@@ -9,7 +9,7 @@ President Obama spoke as his administration ratcheted up its rhetoric against Ru
 
 ##### Pakistan Army
 ### [At least eight members of the Pakistan Army Frontier Corps are killed in a militant attack in the Khyber Agency. ](/news/2014/07/18/at-least-eight-members-of-the-pakistan-army-frontier-corps-are-killed-in-a-militant-attack-in-the-khyber-agency.md)
-_Context: Khyber Agency, paramilitary soldiers, Pakistan Army_
+_Context: Khyber Agency, Pakistan Army, paramilitary soldiers_
 
 ##### Syrian Army
 ### [About 100 soldiers, guards and employees are killed as insurgents belonging to the Islamic State (ISIS) seize control of the Shaer gas field in Palmyra, central Syria. The United Kingdom-based Syrian Observatory for Human Rights said 115 people were killed in total. ](/news/2014/07/18/about-100-soldiers-guards-and-employees-are-killed-as-insurgents-belonging-to-the-islamic-state-isis-seize-control-of-the-shaer-gas-field.md)
@@ -37,7 +37,7 @@ Officials say at least 35 homes have been destroyed by the Carlton Complex wildf
 
 ##### Turkey
 ### [Turkish Prime Minister Recep Tayyip Erdogan slams Egyptian President Abdel Fattah el-Sisi as an "illegitimate tyrant", adding that Egypt could not be relied on when negotiating a ceasefire. ](/news/2014/07/18/turkish-prime-minister-recep-tayyip-erdoaan-slams-egyptian-president-abdel-fattah-el-sisi-as-an-illegitimate-tyrant-adding-that-egypt-co.md)
-_Context: Recep Tayyip Erdogan, Egypt, Operation Protective Edge, Turkey, Abdel Fattah el-Sisi_
+_Context: Egypt, Abdel Fattah el-Sisi, Operation Protective Edge, Recep Tayyip Erdogan, Turkey_
 
 ##### Australia
 ### [Six men are arrested in the Australian state of Victoria in relation to alleged involvement in an international tennis match-fixing syndicate. ](/news/2014/07/18/six-men-are-arrested-in-the-australian-state-of-victoria-in-relation-to-alleged-involvement-in-an-international-tennis-match-fixing-syndicat.md)

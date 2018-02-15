@@ -13,7 +13,7 @@ The father of two Cardiff jihadists thought to have been fighting alongside Reya
 
 ##### Saudi-led intervention in Yemen
 ### [The UN announces that it has grave concerns for around 96,000 children in Al Hudaydah, Yemen, who are starving due to the nearby fighting. ](/news/2015/09/8/the-un-announces-that-it-has-grave-concerns-for-around-96-000-children-in-al-hudaydah-yemen-who-are-starving-due-to-the-nearby-fighting.md)
-_Context: Saudi-led intervention in Yemen, starvation, Yemen, Al Hudaydah_
+_Context: Al Hudaydah, Saudi-led intervention in Yemen, Yemen, starvation_
 
 ##### New Zealand
 ### [New Zealand temporarily bans the sale or lending of the book "Into the River" by Ted Dawe, pending a review which could see the book restricted long-term. This is the first time in 22 years that a book has been restricted to this extent in New Zealand. ](/news/2015/09/8/new-zealand-temporarily-bans-the-sale-or-lending-of-the-book-into-the-river-by-ted-dawe-pending-a-review-which-could-see-the-book-restric.md)
@@ -45,7 +45,7 @@ North and South Korea have agreed to hold Oct. 20-26 reunions of families separa
 
 ##### European migrant crisis
 ### [Sigmar Gabriel, the Vice Chancellor of Germany, says that Germany "can take 500,000 asylum seekers a year" while calling on other nations to take their fair share. ](/news/2015/09/8/sigmar-gabriel-the-vice-chancellor-of-germany-says-that-germany-can-take-500-000-asylum-seekers-a-year-while-calling-on-other-nations-to.md)
-_Context: European migrant crisis, Sigmar Gabriel, Vice Chancellor of Germany_
+_Context: European migrant crisis, Vice Chancellor of Germany, Sigmar Gabriel_
 
 ##### South Africa
 ### [During protests over a lack of mining jobs in South Africa's Limpopo province, demonstrators destroy 21 buses, a police station, and a municipal office as well as blocking roads from Lephalale to Marapong. ](/news/2015/09/8/during-protests-over-a-lack-of-mining-jobs-in-south-africa-s-limpopo-province-demonstrators-destroy-21-buses-a-police-station-and-a-munic.md)
@@ -53,11 +53,11 @@ Protesters in Limpopo blockaded roads from Lephalale to Marapong township during
 
 ##### Death of Freddie Gray
 ### [The U.S. city of Baltimore, Maryland, agrees to a $6.4 million settlement with relatives over the death of Freddie Gray. ](/news/2015/09/8/the-u-s-city-of-baltimore-maryland-agrees-to-a-6-4-million-settlement-with-relatives-over-the-death-of-freddie-gray.md)
-_Context: Baltimore, Death of Freddie Gray_
+_Context: Death of Freddie Gray, Baltimore_
 
 ##### Kim Davis
 ### [Kim Davis, the county clerk of Rowan County in the U.S. state of Kentucky, is released from jail on contempt of court charges but she may not interfere with her deputy clerks issuing marriage certificates to same sex couples. ](/news/2015/09/8/kim-davis-the-county-clerk-of-rowan-county-in-the-u-s-state-of-kentucky-is-released-from-jail-on-contempt-of-court-charges-but-she-may-no.md)
-_Context: contempt of court, Kentucky, county clerk, Kim Davis, Rowan County, Kentucky_
+_Context: Rowan County, Kentucky, contempt of court, Kentucky, county clerk, Kim Davis_
 
 ##### Matrimonial nullity trial reforms of Pope Francis
 ### [Pope Francis announces canon law reforms making it easier for people to obtain declarations of nullity (marriage annulments) ](/news/2015/09/8/pope-francis-announces-canon-law-reforms-making-it-easier-for-people-to-obtain-declarations-of-nullity-marriage-annulments.md)

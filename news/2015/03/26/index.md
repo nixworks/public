@@ -5,7 +5,7 @@ Formats: [HTML](2015/03/26/index.html)  [JSON](2015/03/26/index.json)  [XML](201
 
 ##### Aftermath of the 2014-15 Yemeni coup d'etat
 ### [The Saudi Arabian Air Force launches airstrikes on Sana'a International Airport and Yemen's al Dulaimi military airport resulting in at least 17 deaths. ](/news/2015/03/26/the-saudi-arabian-air-force-launches-airstrikes-on-sana-a-international-airport-and-yemen-s-al-dulaimi-military-airport-resulting-in-at-leas.md)
-_Context: attacks, Aftermath of the 2014-15 Yemeni coup d'etat, Yemen, Sana'a International Airport, Saudi Arabia, Royal Saudi Air Force_
+_Context: Yemen, Aftermath of the 2014-15 Yemeni coup d'etat, Sana'a International Airport, Saudi Arabia, attacks, Royal Saudi Air Force_
 
 ##### Exhumation of Richard III of England
 ### [Leicester Cathedral reburies the remains of King Richard III of England. ](/news/2015/03/26/leicester-cathedral-reburies-the-remains-of-king-richard-iii-of-england.md)
@@ -33,7 +33,7 @@ Engineers say the chopper can still be fixed for further use
 
 ##### Antofagasta
 ### [Massive floods affect the Chilean regions of Antofagasta, Atacama and Coquimbo, killing at least 15 people and causing the total destruction of cities as Chanaral and several damages in Copiapo. ](/news/2015/03/26/massive-floods-affect-the-chilean-regions-of-antofagasta-atacama-and-coquimbo-killing-at-least-15-people-and-causing-the-total-destruction.md)
-_Context: Chanaral, Antofagasta, Coquimbo, Atacama, Copiapo_
+_Context: Chanaral, Copiapo, Atacama, Coquimbo, Antofagasta_
 
 ##### GreatFire
 ### [After the recent March 17 DOS attack on Chinese website GreatFire (See March 19), a massive distributed denial-of-service attack from China occurs against GitHub, a leading online coding platform, with the Github-hosted GreatFire contents being the main target. ](/news/2015/03/26/after-the-recent-march-17-dos-attack-on-chinese-website-greatfire-see-march-19-a-massive-distributed-denial-of-service-attack-from-china.md)

@@ -16,7 +16,7 @@ The judge said the demonstrators had not shown “that they have a First Amendme
 
 ### Changes:
 
-1. [The New York Police Department evicts Occupy Wall Street protesters from Zuccotti Park. ](/news/2011/11/15/the-new-york-police-department-evicts-occupy-wall-street-protesters-from-zuccotti-park.md) _2018-02-13 04:55:44 (First version)_
+1. [The New York Police Department evicts Occupy Wall Street protesters from Zuccotti Park. ](/news/2011/11/15/the-new-york-police-department-evicts-occupy-wall-street-protesters-from-zuccotti-park.md) _2018-02-14 04:52:23 (First version)_
 1. [The New York Police Department clears Occupy Wall Street protesters from Zuccotti Park. ](/news/2011/11/15/the-new-york-police-department-clears-occupy-wall-street-protesters-from-zuccotti-park.md) _(Current version)_
 
 ### Related:

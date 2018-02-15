@@ -9,7 +9,7 @@ _Context: NATO, James G. Stavridis, Operation Unified Protector, Libya_
 
 ##### U.S. President
 ### [The President of the United States, Barack Obama, announces a plan to withdraw all of the remaining American military forces from Iraq by the end of 2011. ](/news/2011/10/21/the-president-of-the-united-states-barack-obama-announces-a-plan-to-withdraw-all-of-the-remaining-american-military-forces-from-iraq-by-th.md)
-_Context: Iraq, U.S. President, Barack Obama_
+_Context: Barack Obama, U.S. President, Iraq_
 
 ##### Verizon Communications
 ### [Verizon Communications reports that its third-quarter earnings have doubled. ](/news/2011/10/21/verizon-communications-reports-that-its-third-quarter-earnings-have-doubled.md)
@@ -21,7 +21,7 @@ _Context: 2011 Tohoku earthquake and tsunami, Japanese government_
 
 ##### Freeport-McMoRan
 ### [Gunmen kill three people near Freeport-McMoRan's gold and copper mine in Indonesia's Papua province. ](/news/2011/10/21/gunmen-kill-three-people-near-freeport-mcmoran-s-gold-and-copper-mine-in-indonesia-s-papua-province.md)
-_Context: Indonesia, Papua province, Grasberg mine, Freeport-McMoRan_
+_Context: Papua province, Freeport-McMoRan, Indonesia, Grasberg mine_
 
 ##### Jay Weatherill
 ### [Jay Weatherill is sworn in as the new Premier of South Australia after being officially elected as the leader of the state Australian Labor Party. ](/news/2011/10/21/jay-weatherill-is-sworn-in-as-the-new-premier-of-south-australia-after-being-officially-elected-as-the-leader-of-the-state-australian-labor.md)
@@ -29,11 +29,11 @@ _Context: Jay Weatherill, Australian Labor Party, Premier of South Australia_
 
 ##### President of Cameroon
 ### [The President of Cameroon Paul Biya is declared the winner of the Cameroonian presidential election held on October 6. ](/news/2011/10/21/the-president-of-cameroon-paul-biya-is-declared-the-winner-of-the-cameroonian-presidential-election-held-on-october-6.md)
-_Context: Paul Biya, President of Cameroon, Cameroonian presidential election_
+_Context: President of Cameroon, Cameroonian presidential election, Paul Biya_
 
 ##### London
 ### [London's St Paul's Cathedral is forced to close its doors to visitors for the first time since the Second World War after protesters set up camp on its doorstep. ](/news/2011/10/21/london-s-st-paul-s-cathedral-is-forced-to-close-its-doors-to-visitors-for-the-first-time-since-the-second-world-war-after-protesters-set-up.md)
-_Context: London, St Paul's Cathedral, Second World War_
+_Context: St Paul's Cathedral, Second World War, London_
 
 ## [Previous Day...](/news/2011/10/20/index.md)
 

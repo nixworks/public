@@ -17,7 +17,7 @@ North Korea has fired several missiles into the sea, says South Korea.
 
 ##### Presidency of Donald Trump
 ### [U.S. President Donald Trump signs a revised version of Executive Order 13769 eliminating Iraq from the order and reducing the indefinite suspension of Syrian refugees to 120 days. The order will be in effect on March 16, 2017. ](/news/2017/03/6/u-s-president-donald-trump-signs-a-revised-version-of-executive-order-13769-eliminating-iraq-from-the-order-and-reducing-the-indefinite-sus.md)
-_Context: Executive Order 13769, Donald Trump, Presidency of Donald Trump, Syrian, Iraq_
+_Context: Donald Trump, Iraq, Executive Order 13769, Presidency of Donald Trump, Syrian_
 
 ## [Previous Day...](/news/2017/03/5/index.md)
 

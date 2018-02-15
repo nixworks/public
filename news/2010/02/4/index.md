@@ -17,7 +17,7 @@ The cabinet says it will admit two Guantanamo prisoners on humanitarian grounds.
 
 ##### Yahoo!
 ### [Yahoo! sells HotJobs to Monster.com for US$225million. ](/news/2010/02/4/yahoo-sells-hotjobs-to-monster-com-for-us-225million.md)
-_Context: Monster.com, HotJobs, Yahoo!_
+_Context: Yahoo!, HotJobs, Monster.com_
 
 ##### Dubai
 ### [Debt-ridden emirate of Dubai of the United Arab Emirates, confirms the discovery of a new oilfield. ](/news/2010/02/4/debt-ridden-emirate-of-dubai-of-the-united-arab-emirates-confirms-the-discovery-of-a-new-oilfield.md)
@@ -25,7 +25,7 @@ _Context: Dubai, oilfield, United Arab Emirates_
 
 ##### Sumo
 ### [Sumo grand champion Asashoryu announces his retirement, following allegations he attacked a man outside a Tokyo nightclub. ](/news/2010/02/4/sumo-grand-champion-asashoryu-announces-his-retirement-following-allegations-he-attacked-a-man-outside-a-tokyo-nightclub.md)
-_Context: Asashoryu, Sumo_
+_Context: Sumo, Asashoryu_
 
 ## [Previous Day...](/news/2010/02/3/index.md)
 

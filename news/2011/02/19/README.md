@@ -35,7 +35,7 @@ Demonstrators hold signs reading “stop US-supported occupation,&quot; “Veto 
 ### [Thousands of people rally in Spanish municipality of Bilbao calling for the legalization of the new separatist party Sortu. ](/news/2011/02/19/thousands-of-people-rally-in-spanish-municipality-of-bilbao-calling-for-the-legalization-of-the-new-separatist-party-sortu.md)
 Thousands of people rally in the Basque city of Bilbao in northern Spain to demand the legalisation of a new separatist party.
 
-##### U.S.
+##### United States
 ### [Pirates seize a yacht with four Americans off the coast of Oman. ](/news/2011/02/19/pirates-seize-a-yacht-with-four-americans-off-the-coast-of-oman.md)
 Fifty-eight foot American-owned yacht seized off the coast of Oman with four US citizens on board, officials say.
 
@@ -45,13 +45,13 @@ _Context: water cannon, Dresden, tear gas_
 
 ##### Iran
 ### [Iranian director Asghar Farhadi wins three awards, including the Golden Bear, for his film "Nader and Simin, A Separation" as the 61st Berlin International Film Festival ends. There are other winners from Argentina, Albania, Germany and Hungary. ](/news/2011/02/19/iranian-director-asghar-farhadi-wins-three-awards-including-the-golden-bear-for-his-film-nader-and-simin-a-separation-as-the-61st-berli.md)
-_Context: Hungary, Nader and Simin, A Separation, Iran, German, Golden Bear, Albania, Asghar Farhadi, 61st Berlin International Film Festival, Argentina_
+_Context: Argentina, Hungary, 61st Berlin International Film Festival, Iran, Golden Bear, Asghar Farhadi, German, Albania, Nader and Simin, A Separation_
 
 ##### International Petroleum Investment Company
 ### [International Petroleum Investment Company makes a $4billion bid for the remaining 53% of shares of Compania Espanola de Petroleos.](/news/2011/02/19/international-petroleum-investment-company-makes-a-4billion-bid-for-the-remaining-53-of-shares-of-compaa-aa-espaa-ola-de-petra3leos.md)
 _Context: Compania Espanola de Petroleos, International Petroleum Investment Company_
 
-##### U.S.
+##### United States
 ### [The United States vetoes a draft of a U.N. Security Council resolution critical of Israeli settlements in the West Bank. ](/news/2011/02/19/the-united-states-vetoes-a-draft-of-a-u-n-security-council-resolution-critical-of-israeli-settlements-in-the-west-bank.md)
 The United States on Friday vetoed a draft U.N. Security Council resolution condemning Israeli settlements on Palestinian territory after the Palestinians refused to withdraw the Arab-drafted text.
 
@@ -61,11 +61,11 @@ The Cuban government frees a jailed dissident journalist who refused to go into 
 
 ##### Madagascar
 ### [The return of former Madagascan President Marc Ravalomanana, in exile in South Africa, is blocked by the government on the island. Tear gas is fired to disperse supporters at the international airport. ](/news/2011/02/19/the-return-of-former-madagascan-president-marc-ravalomanana-in-exile-in-south-africa-is-blocked-by-the-government-on-the-island-tear-gas.md)
-_Context: Marc Ravalomanana, Madagascar, President, South Africa_
+_Context: Marc Ravalomanana, President, Madagascar, South Africa_
 
 ##### Governor of Wisconsin
 ### [Governor of Wisconsin Scott Walker rejects union concessions on the state budget as protests continue in the state capital. ](/news/2011/02/19/governor-of-wisconsin-scott-walker-rejects-union-concessions-on-the-state-budget-as-protests-continue-in-the-state-capital.md)
-_Context: Scott Walker, Governor of Wisconsin, Madison, Wisconsin_
+_Context: Scott Walker, Madison, Wisconsin, Governor of Wisconsin_
 
 ##### President of Tunisia
 ### [Thousands of political prisoners of former President of Tunisia Zine al-Abidine Ben Ali are released in Tunisia. ](/news/2011/02/19/thousands-of-political-prisoners-of-former-president-of-tunisia-zine-al-abidine-ben-ali-are-released-in-tunisia.md)

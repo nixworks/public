@@ -27,15 +27,15 @@ An Air Algerie flight crashed on Thursday en route from Ouagadougou in Burkina F
 ### [Eighteen people including 16 schoolchildren die after a train collides with a bus in the Medak district of the Indian state of Telangana. ](/news/2014/07/24/eighteen-people-including-16-schoolchildren-die-after-a-train-collides-with-a-bus-in-the-medak-district-of-the-indian-state-of-telangana.md)
 Mangled remains of a school bus with blood stains on it, strewn bags, tiffin boxes, notebooks and text books was all it remained on the accident site of the bus-train collision in which 18 persons, including 16 school children, were killed in
 
-##### U.S.
+##### United States
 ### [The United States Federal Aviation Administration lifts its ban on aircraft travelling to and from Israel imposed due to concerns about Hamas rockets. ](/news/2014/07/24/the-united-states-federal-aviation-administration-lifts-its-ban-on-aircraft-travelling-to-and-from-israel-imposed-due-to-concerns-about-hama.md)
-_Context: Hamas, U.S., Israel, Federal Aviation Administration_
+_Context: Hamas, Federal Aviation Administration, United States, Israel_
 
 ##### American
 ### [Three American citizens have been detained in Iran this week including "Washington Post" correspondent Jason Rezaian. Rezaian's Iranian wife Yeganeh Salehi has also been detained. ](/news/2014/07/24/three-american-citizens-have-been-detained-in-iran-this-week-including-washington-post-correspondent-jason-rezaian-rezaian-s-iranian-wife.md)
 Tehran bureau chief Jason Rezaian and three others believed detained;
 
-##### Polish
+##### Poland
 ### [The European Court for Human Rights censures Poland over CIA renditions. ](/news/2014/07/24/the-european-court-for-human-rights-censures-poland-over-cia-renditions.md)
 The European Court of Human Rights ruled that by allowing the transfer of two terrorism suspects to a secret C.I.A. site in Poland, the country violated the men’s rights.
 
@@ -53,7 +53,7 @@ Vote comes as violence continues to tear country apart
 
 ##### Reuven Rivlin
 ### [Reuven Rivlin is sworn in as the 10th President of Israel. ](/news/2014/07/24/reuven-rivlin-is-sworn-in-as-the-10th-president-of-israel.md)
-_Context: President, Reuven Rivlin_
+_Context: Reuven Rivlin, President_
 
 ## [Previous Day...](/news/2014/07/23/index.md)
 

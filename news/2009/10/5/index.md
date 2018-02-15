@@ -3,13 +3,13 @@ Formats: [HTML](2009/10/5/index.html)  [JSON](2009/10/5/index.json)  [XML](2009/
 
 ## [2009-10-5](/news/2009/10/5/index.md)
 
-##### U.S.
+##### United States
 ### [ The United States Federal Trade Commission issues regulations for writers of blogs. ](/news/2009/10/5/the-united-states-federal-trade-commission-issues-regulations-for-writers-of-blogs.md)
-_Context: U.S., blogs, U.S. Federal Trade Commission_
+_Context: U.S. Federal Trade Commission, United States, blogs_
 
 ##### Nobel Prize in Medicine
 ### [ The 2009 Nobel Prize in Medicine goes to Elizabeth H. Blackburn, Carol W. Greider, and Jack W. Szostak, "for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase". ](/news/2009/10/5/the-2009-nobel-prize-in-medicine-goes-to-elizabeth-h-blackburn-carol-w-greider-and-jack-w-szostak-for-the-discovery-of-how-chromosom.md)
-_Context: Jack W. Szostak, telomere, Carol W. Greider, telomerase, chromosome, Elizabeth H. Blackburn, Nobel Prize in Medicine, enzyme_
+_Context: Carol W. Greider, Nobel Prize in Medicine, Elizabeth H. Blackburn, Jack W. Szostak, telomere, telomerase, chromosome, enzyme_
 
 ##### Bangkok
 ### [ An early morning passenger train bound for Bangkok derails in Hua Hin, killing at least seven people and injuring dozens more. ](/news/2009/10/5/an-early-morning-passenger-train-bound-for-bangkok-derails-in-hua-hin-killing-at-least-seven-people-and-injuring-dozens-more.md)
@@ -31,13 +31,13 @@ An explosion apparently caused by a suicide bomber in the lobby of the World Foo
 ### [ Honduran interim President Roberto Micheletti lifts a decree restricting civil liberties. ](/news/2009/10/5/honduran-interim-president-roberto-micheletti-lifts-a-decree-restricting-civil-liberties.md)
 Roberto Micheletti cancels decree limiting freedom of speech, assembly and movement.
 
-##### U.S.
+##### United States
 ### [ United States President Barack Obama delays a meeting with the Dalai Lama until after a visit to China. ](/news/2009/10/5/united-states-president-barack-obama-delays-a-meeting-with-the-dalai-lama-until-after-a-visit-to-china.md)
-_Context: U.S. President, Barack Obama, 14th Dalai Lama, U.S., China_
+_Context: United States, Barack Obama, U.S. President, China, 14th Dalai Lama_
 
 ##### France Tlcom
 ### [ The Deputy Chief Executive of France Tlcom, Louis-Pierre Wene, resigns over a series of suicides at the company. ](/news/2009/10/5/the-deputy-chief-executive-of-france-telecom-louis-pierre-wene-resigns-over-a-series-of-suicides-at-the-company.md)
-_Context: France Tlcom, suicide_
+_Context: suicide, France Tlcom_
 
 ##### Europe
 ### [ Airline pilots in Europe stage demonstrations in several cities against working hours. ](/news/2009/10/5/airline-pilots-in-europe-stage-demonstrations-in-several-cities-against-working-hours.md)

@@ -9,23 +9,23 @@ _Context: folk, Canadian, Taylor Mitchell, coyote_
 
 ##### Mozambique
 ### [ Voters in Mozambique go to the polls for the general election. ](/news/2009/10/28/voters-in-mozambique-go-to-the-polls-for-the-general-election.md)
-_Context: general election, Mozambique_
+_Context: Mozambique, general election_
 
 ##### Blast
 ### [ A blast in Meena Bazar, Peshawar, Pakistan, kills at least 95 people while 110 are injured. ](/news/2009/10/28/a-blast-in-meena-bazar-peshawar-pakistan-kills-at-least-95-people-while-110-are-injured.md)
-_Context: Peshawar, Pakistan, blast_
+_Context: Pakistan, blast, Peshawar_
 
 ##### United Nations
 ### [ 12 people &ndash; including six United Nations staff &ndash; are killed after Taliban militants assault an international guesthouse in the Afghan capital Kabul. ](/news/2009/10/28/12-people-ndash-including-six-united-nations-staff-ndash-are-killed-after-taliban-militants-assault-an-international-guesthouse-in-the.md)
-_Context: Afghanistan, Taliban, Kabul, assault an international guesthouse, United Nations_
+_Context: Afghanistan, Kabul, United Nations, assault an international guesthouse, Taliban_
 
 ##### German
 ### [ One of Germany's last Nazi war crimes trials begins, with Heinrich Boere charged with the killings of three civilians in the Netherlands. ](/news/2009/10/28/one-of-germany-s-last-nazi-war-crimes-trials-begins-with-heinrich-boere-charged-with-the-killings-of-three-civilians-in-the-netherlands.md)
-_Context: Nazi, Netherlands, Heinrich Boere, German_
+_Context: Netherlands, Nazi, Heinrich Boere, German_
 
 ##### Ares I-X
 ### [ Ares I-X, the first test article for NASA's Ares I rocket, launches successfully from Launch Complex 39B at Kennedy Space Center in Florida on a sub-orbital test flight. ](/news/2009/10/28/ares-i-x-the-first-test-article-for-nasa-s-ares-i-rocket-launches-successfully-from-launch-complex-39b-at-kennedy-space-center-in-florida.md)
-_Context: Launch Complex 39B, Ares I, sub-orbital, NASA, the state, Kennedy Space Center, Ares I-X_
+_Context: Ares I-X, Launch Complex 39B, sub-orbital, Ares I, Kennedy Space Center, NASA, the state_
 
 ##### Lebanese
 ### [ The Lebanese army says it has found and deactivated four 107-mm rockets in the garden of a partly built house a day after a rocket fired from Houla hit the northern Israeli border town of Kiryat Shmona. This is the fifth time rocket attacks have been used to try to break the cease-fire. ](/news/2009/10/28/the-lebanese-army-says-it-has-found-and-deactivated-four-107-mm-rockets-in-the-garden-of-a-partly-built-house-a-day-after-a-rocket-fired-fr.md)
@@ -49,15 +49,15 @@ Interior ministry tells Gazans not to co-operate with elections called by presid
 
 ##### Mongolia
 ### [ Mongolia's parliament approves the resignation of Prime Minister Sanjaagiin Bayar, who stepped down due to ill health. He was replaced by the Foreign Minister Skhbaataryn Batbold. ](/news/2009/10/28/mongolia-s-parliament-approves-the-resignation-of-prime-minister-sanjaagiin-bayar-who-stepped-down-due-to-ill-health-he-was-replaced-by-t.md)
-_Context: Mongolia, Skhbaataryn Batbold, Sanjaagiin Bayar, Prime Minister_
+_Context: Skhbaataryn Batbold, Sanjaagiin Bayar, Mongolia, Prime Minister_
 
 ##### Democratic Party
 ### [ The main opposition Democratic Party wins three out of five seats in by-elections in South Korea. ](/news/2009/10/28/the-main-opposition-democratic-party-wins-three-out-of-five-seats-in-by-elections-in-south-korea.md)
-_Context: South Korea, Democratic Party_
+_Context: Democratic Party, South Korea_
 
 ##### Matthew Shepard Act
 ### [ The Matthew Shepard Act, providing legal protection against hate crimes to lesbian, gay, bisexual, and transgendered people, is signed into law in the United States by President Barack Obama. ](/news/2009/10/28/the-matthew-shepard-act-providing-legal-protection-against-hate-crimes-to-lesbian-gay-bisexual-and-transgendered-people-is-signed-into.md)
-_Context: U.S., Matthew Shepard Act, Barack Obama, gay and bisexual men, hate crimes_
+_Context: hate crimes, United States, Matthew Shepard Act, Barack Obama, gay and bisexual men_
 
 ##### FBI
 ### [ Federal agents attached to the FBI fatally shoot the leader of a Sunni Muslim group wanted on firearm charges in Detroit, USA. ](/news/2009/10/28/federal-agents-attached-to-the-fbi-fatally-shoot-the-leader-of-a-sunni-muslim-group-wanted-on-firearm-charges-in-detroit-usa.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2014/10/6/index.html)  [JSON](2014/10/6/index.json)  [XML](2014/
 
 ##### ISIL
 ### [ISIL prepares to establish itself in Libya and reports emerge that they are already in the city of Derna. ](/news/2014/10/6/isil-prepares-to-establish-itself-in-libya-and-reports-emerge-that-they-are-already-in-the-city-of-derna.md)
-_Context: ISIL, Libya, Derna_
+_Context: Derna, Libya, ISIL_
 
 ##### Kashmir conflict
 ### [India and Pakistan trade fire across the borders resulting in five civilian deaths in India and four in Pakistan. ](/news/2014/10/6/india-and-pakistan-trade-fire-across-the-borders-resulting-in-five-civilian-deaths-in-india-and-four-in-pakistan.md)
@@ -33,11 +33,11 @@ One US military official is dead and two missing after being swept away by waves
 
 ##### European Parliament
 ### [The European Parliament rejects Hungary's EU commissioner-designate Tibor Navracsics as unsuitable for the education and culture commissioner post; he may still be given a different post in the commission, causing a reshuffle. ](/news/2014/10/6/the-european-parliament-rejects-hungary-s-eu-commissioner-designate-tibor-navracsics-as-unsuitable-for-the-education-and-culture-commissione.md)
-_Context: Hungary, education and culture commissioner post, Tibor Navracsics, European Parliament_
+_Context: European Parliament, Hungary, education and culture commissioner post, Tibor Navracsics_
 
 ##### Nobel Prize in Physiology or Medicine
 ### [British neuroscientist John O'Keefe and Norwegian scientists May-Britt Moser and Edvard Moser share the 2014 Nobel Prize in Physiology or Medicine. ](/news/2014/10/6/british-neuroscientist-john-o-keefe-and-norwegian-scientists-may-britt-moser-and-edvard-moser-share-the-2014-nobel-prize-in-physiology-or-me.md)
-_Context: May-Britt Moser, John O'Keefe, Edvard Moser, Nobel Prize in Physiology or Medicine_
+_Context: John O'Keefe, Edvard Moser, May-Britt Moser, Nobel Prize in Physiology or Medicine_
 
 ## [Previous Day...](/news/2014/10/5/index.md)
 

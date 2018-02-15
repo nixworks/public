@@ -9,7 +9,7 @@ Senator Kennedy, a man who knew acclaim and tragedy in near-equal measure, will 
 
 ##### Lithuania
 ### [ Lithuania launches an inquiry into allegations that it hosted a secret CIA prison for al-Qaeda suspects. ](/news/2009/08/26/lithuania-launches-an-inquiry-into-allegations-that-it-hosted-a-secret-cia-prison-for-al-qaeda-suspects.md)
-_Context: CIA, Lithuania, al-Qaeda_
+_Context: Lithuania, CIA, al-Qaeda_
 
 ##### Moldova
 ### [ The government of Moldova announces that it will stand down before the opening of parliament on 28 August. ](/news/2009/08/26/the-government-of-moldova-announces-that-it-will-stand-down-before-the-opening-of-parliament-on-28-august.md)
@@ -21,7 +21,7 @@ _Context: France, ETA_
 
 ##### Iran
 ### [ The Iranian Supreme Leader Ali Khamenei says he has no evidence that opposition protests were backed by foreign countries. ](/news/2009/08/26/the-iranian-supreme-leader-ali-khamenei-says-he-has-no-evidence-that-opposition-protests-were-backed-by-foreign-countries.md)
-_Context: Iran, Ali Khamenei, protests against the regime, Supreme Leader_
+_Context: protests against the regime, Iran, Supreme Leader, Ali Khamenei_
 
 ##### Japan
 ### [ Japan's exports fall by 36.5% as demand falls. ](/news/2009/08/26/japan-s-exports-fall-by-36-5-as-demand-falls.md)
@@ -29,11 +29,11 @@ _Context: Japan_
 
 ##### North Korea
 ### [ North and South Korea resume talks on allowing families divided since the Korean War to begin meeting again, for the first time in two years. ](/news/2009/08/26/north-and-south-korea-resume-talks-on-allowing-families-divided-since-the-korean-war-to-begin-meeting-again-for-the-first-time-in-two-year.md)
-_Context: Korean War, South Korea, North Korea_
+_Context: South Korea, Korean War, North Korea_
 
 ##### Zimbabwe
 ### [ Zimbabwe denies reports that President Robert Mugabe suffered a health scare. ](/news/2009/08/26/zimbabwe-denies-reports-that-president-robert-mugabe-suffered-a-health-scare.md)
-_Context: Zimbabwe, President of Zimbabwe, Robert Mugabe_
+_Context: President of Zimbabwe, Robert Mugabe, Zimbabwe_
 
 ## [Previous Day...](/news/2009/08/25/index.md)
 

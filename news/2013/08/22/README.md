@@ -21,7 +21,7 @@ Trading ceased in all Nasdaq-listed securities Thursday after the electronic exc
 
 ##### Typhoon Nari
 ### [Severe tropical storm Trami arrives in southern China after killing seventeen people in the Philippines. ](/news/2013/08/22/severe-tropical-storm-trami-arrives-in-southern-china-after-killing-seventeen-people-in-the-philippines.md)
-_Context: Philippines, Typhoon Nari, China_
+_Context: Typhoon Nari, China, Philippines_
 
 ##### Monterey Park, California
 ### [At least 50 are injured in bus crash in Monterey Park, California. ](/news/2013/08/22/at-least-50-are-injured-in-bus-crash-in-monterey-park-california.md)

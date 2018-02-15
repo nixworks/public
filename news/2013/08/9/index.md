@@ -7,9 +7,9 @@ Formats: [HTML](2013/08/9/index.html)  [JSON](2013/08/9/index.json)  [XML](2013/
 ### [An American drone strike kills five suspected Al Qaeda terrorists in eastern Yemen. ](/news/2013/08/9/an-american-drone-strike-kills-five-suspected-al-qaeda-terrorists-in-eastern-yemen.md)
 _Context: Yemen, Al Qaeda_
 
-##### U.S.
+##### United States
 ### [The United States withdraws diplomats from its consulate in the Pakistani city of Lahore due to terrorist threats. ](/news/2013/08/9/the-united-states-withdraws-diplomats-from-its-consulate-in-the-pakistani-city-of-lahore-due-to-terrorist-threats.md)
-_Context: U.S., Lahore, Pakistan_
+_Context: Lahore, United States, Pakistan_
 
 ##### Gunmen open fire
 ### [Gunmen open fire at a Sunni mosque in the city of Quetta killing at least eight people and injuring 24. ](/news/2013/08/9/gunmen-open-fire-at-a-sunni-mosque-in-the-city-of-quetta-killing-at-least-eight-people-and-injuring-24.md)
@@ -25,19 +25,19 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Clashes erupted between two communities
 ### [Clashes erupted between two communities after Eid prayers, in the Kishtwar district of Jammu and Kashmir, India, leaving two dead and several other injured. ](/news/2013/08/9/clashes-erupted-between-two-communities-after-eid-prayers-in-the-kishtwar-district-of-jammu-and-kashmir-india-leaving-two-dead-and-severa.md)
-_Context: Jammu and Kashmir, India, Kishtwar, Clashes erupted between two communities, Eid al-Fitr_
+_Context: Kishtwar, India, Eid al-Fitr, Clashes erupted between two communities, Jammu and Kashmir_
 
 ##### Taiwan
 ### [Taiwan's Control Yuan investigatory agency reports that the Taiwan Power Company's Jinshan Nuclear Power Plant has been leaking radioactive water for three years. ](/news/2013/08/9/taiwan-s-control-yuan-investigatory-agency-reports-that-the-taiwan-power-company-s-jinshan-nuclear-power-plant-has-been-leaking-radioactive.md)
-_Context: Jinshan Nuclear Power Plant, Taiwan, Control Yuan, Taiwan Power Company_
+_Context: Control Yuan, Taiwan, Jinshan Nuclear Power Plant, Taiwan Power Company_
 
 ##### Rockwell Turbo Commander
 ### [Three people are missing after a Rockwell Turbo Commander turboprop plane crashes into two homes in East Haven, Connecticut, United States. ](/news/2013/08/9/three-people-are-missing-after-a-rockwell-turbo-commander-turboprop-plane-crashes-into-two-homes-in-east-haven-connecticut-united-states.md)
-_Context: turboprop, East Haven, Rockwell Turbo Commander, Connecticut_
+_Context: Connecticut, East Haven, Rockwell Turbo Commander, turboprop_
 
 ##### Ethiopian Air Force
 ### [An Ethiopian Air Force cargo plane carrying ammunition for international forces fighting Islamist militants in Somalia crashes and catches fire on landing at the Aden Adde International Airport in Mogadishu, killing four of the six crewmembers. ](/news/2013/08/9/an-ethiopian-air-force-cargo-plane-carrying-ammunition-for-international-forces-fighting-islamist-militants-in-somalia-crashes-and-catches-f.md)
-_Context: Aden Adde International Airport, Somalia, Ethiopian Air Force, Mogadishu_
+_Context: Somalia, Aden Adde International Airport, Ethiopian Air Force, Mogadishu_
 
 ##### Drug lord
 ### [Mexican drug lord Rafael Caro Quintero, who was convicted for the 1985 murder of U.S. Drug Enforcement Administration Enrique Camarena, is ordered released from prison. ](/news/2013/08/9/mexican-drug-lord-rafael-caro-quintero-who-was-convicted-for-the-1985-murder-of-u-s-drug-enforcement-administration-enrique-camarena-is-o.md)
@@ -49,7 +49,7 @@ Liu Tienan, a former top economic official in China, is expelled from the Commun
 
 ##### The state
 ### [A 31-year-old Florida man kills his wife and posts a picture of her corpse with a confession onto Facebook. The picture is removed and the man is arrested. ](/news/2013/08/9/a-31-year-old-florida-man-kills-his-wife-and-posts-a-picture-of-her-corpse-with-a-confession-onto-facebook-the-picture-is-removed-and-the-m.md)
-_Context: Facebook, the state_
+_Context: the state, Facebook_
 
 ##### President
 ### [President Boni Yayi of Benin dismisses his entire Cabinet. ](/news/2013/08/9/president-boni-yayi-of-benin-dismisses-his-entire-cabinet.md)

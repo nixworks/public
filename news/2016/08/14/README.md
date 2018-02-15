@@ -9,7 +9,7 @@ Yemeni army forces backed by Arab coalition aircraft killed about 40 suspected a
 
 ##### Syrian Civil War
 ### [Russian and Syrian government jets conduct 26 airstrikes across Idlib province, killing 122 civilians. ](/news/2016/08/14/russian-and-syrian-government-jets-conduct-26-airstrikes-across-idlib-province-killing-122-civilians.md)
-_Context: Syrian Civil War, Idlib province_
+_Context: Idlib province, Syrian Civil War_
 
 ##### Beni massacre
 ### [At least 64 to 100 people are killed in a massacre. ](/news/2016/08/14/at-least-64-to-100-people-are-killed-in-a-massacre.md)

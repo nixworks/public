@@ -9,7 +9,7 @@ _Context: West Nile virus, California_
 
 ##### Honduras
 ### [ Mexico, Honduras and Panama, among many other countries, are put on high alert about a possible Al-Qaida attack in Latin America. ](/news/2004/08/21/mexico-honduras-and-panama-among-many-other-countries-are-put-on-high-alert-about-a-possible-al-qaida-attack-in-latin-america.md)
-_Context: Al-Qaida, Honduras, Panama_
+_Context: Honduras, Al-Qaida, Panama_
 
 ## [Previous Day...](/news/2004/08/20/index.md)
 

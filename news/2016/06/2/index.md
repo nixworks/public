@@ -7,13 +7,13 @@ Formats: [HTML](2016/06/2/index.html)  [JSON](2016/06/2/index.json)  [XML](2016/
 ### [In a raid by Somali forces near Kismayo, at least 16 Al-Shabaab militants are killed, including the mastermind of the Garissa University College attack. ](/news/2016/06/2/in-a-raid-by-somali-forces-near-kismayo-at-least-16-al-shabaab-militants-are-killed-including-the-mastermind-of-the-garissa-university-col.md)
 The leader of the deadly 2015 attack on Garissa University in Kenya has been killed, officials in Somalia say.
 
-##### U.S.
+##### United States
 ### [The United States announces new rules, that will go into effect on July 6, that amount to a near-total ban on the commercial trade of African elephant ivory. ](/news/2016/06/2/the-united-states-announces-new-rules-that-will-go-into-effect-on-july-6-that-amount-to-a-near-total-ban-on-the-commercial-trade-of-africa.md)
 The move is the latest step in the Obama administration’s fight against wildlife trafficking.
 
 ##### Environmental
 ### [A collection of environmental groups including the Sierra Club file a brief opposing the Arch Coal plan to exit from bankruptcy. ](/news/2016/06/2/a-collection-of-environmental-groups-including-the-sierra-club-file-a-brief-opposing-the-arch-coal-plan-to-exit-from-bankruptcy.md)
-_Context: bankruptcy, Arch Coal, environmental, Sierra Club_
+_Context: bankruptcy, Arch Coal, Sierra Club, environmental_
 
 ##### 2016 European floods
 ### [At least eleven people are killed in heavy flooding across Europe. ](/news/2016/06/2/at-least-eleven-people-are-killed-in-heavy-flooding-across-europe.md)
@@ -21,7 +21,7 @@ At least five people are dead and dozens of towns are inundated by flooding acro
 
 ##### Romania
 ### [A Romanian medical helicopter crashes near Cahul, Moldova, killing four people. ](/news/2016/06/2/a-romanian-medical-helicopter-crashes-near-cahul-moldova-killing-four-people.md)
-_Context: Romania, Cahul, Moldova_
+_Context: Moldova, Cahul, Romania_
 
 ##### May 2016 United States storm complex
 ### [At least five United States Army soldiers are killed and four are missing after their Light Medium Tactical Vehicle overturns near Fort Hood in Texas. ](/news/2016/06/2/at-least-five-united-states-army-soldiers-are-killed-and-four-are-missing-after-their-light-medium-tactical-vehicle-overturns-near-fort-hood.md)

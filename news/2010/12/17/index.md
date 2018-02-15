@@ -5,7 +5,7 @@ Formats: [HTML](2010/12/17/index.html)  [JSON](2010/12/17/index.json)  [XML](201
 
 ##### Maoist
 ### [Maoist rebels abduct seven villagers in the Purulia district of India's West Bengal state. ](/news/2010/12/17/maoist-rebels-abduct-seven-villagers-in-the-purulia-district-of-india-s-west-bengal-state.md)
-_Context: Maoist, West Bengal, Purulia_
+_Context: Maoist, Purulia, West Bengal_
 
 ##### Pakistan
 ### [American missile attacks kill 57 suspected militants in a region in northwest Pakistan. ](/news/2010/12/17/american-missile-attacks-kill-57-suspected-militants-in-a-region-in-northwest-pakistan.md)
@@ -25,7 +25,7 @@ Blizzards and widespread ice in many parts of the UK are causing considerable di
 
 ##### Cuba
 ### [Cuba is hit by a cold wave, and some locations register 50-year record low temperatures. ](/news/2010/12/17/cuba-is-hit-by-a-cold-wave-and-some-locations-register-50-year-record-low-temperatures.md)
-_Context: Cuba, cold spell_
+_Context: cold spell, Cuba_
 
 ##### Bolivia
 ### [Bolivia recognizes the State of Palestine. ](/news/2010/12/17/bolivia-recognizes-the-state-of-palestine.md)

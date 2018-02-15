@@ -9,7 +9,7 @@ _Context: Israeli Arab, Galilee, Jew_
 
 ##### Palestinian Authority
 ### [ All Palestinian Authority assets held in the United States have been frozen. ](/news/2005/08/31/all-palestinian-authority-assets-held-in-the-united-states-have-been-frozen.md)
-_Context: asset, Palestinian Authority, U.S._
+_Context: Palestinian Authority, United States, asset_
 
 ## [Previous Day...](/news/2005/08/30/index.md)
 

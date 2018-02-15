@@ -9,7 +9,7 @@ _Context: Sabha, Libya_
 
 ##### 2012 South Sudan-Sudan border conflict
 ### [2012 South Sudan-Sudan border conflict: South Sudan's troops pull out of Sudan's oil-producing Heglig area, easing tensions after two days of clashes between the neighbours threatened to escalate a simmering conflict. ](/news/2012/03/28/2012-south-sudanasudan-border-conflict-south-sudan-s-troops-pull-out-of-sudan-s-oil-producing-heglig-area-easing-tensions-after-two-days.md)
-_Context: South Sudan, Heglig, Sudan, 2012 South Sudan-Sudan border conflict_
+_Context: Heglig, South Sudan, 2012 South Sudan-Sudan border conflict, Sudan_
 
 ##### 2011-2012 Syrian uprising
 ### [2011-2012 Syrian uprising: Syrian forces attack the central town of Qalaat al-Madiq as Arab League ministers meet in Baghdad. ](/news/2012/03/28/2011a2012-syrian-uprising-syrian-forces-attack-the-central-town-of-qalaat-al-madiq-as-arab-league-ministers-meet-in-baghdad.md)
@@ -21,15 +21,15 @@ HAVANA &#8212; Pope Benedict XVI on Wednesday concluded his first trip to the Sp
 
 ##### Government of Fiji
 ### [The Government of Fiji seizes a controlling interest in subsidiary Air Pacific from the Australian airline Qantas. Qantas remains in control of its equity in the airline. ](/news/2012/03/28/the-government-of-fiji-seizes-a-controlling-interest-in-subsidiary-air-pacific-from-the-australian-airline-qantas-qantas-remains-in-control.md)
-_Context: Qantas, Government of Fiji, Air Pacific, Australia_
+_Context: Government of Fiji, Qantas, Australia, Air Pacific_
 
 ##### Mega Millions
 ### [The Mega Millions jackpot in the United States hits a record $500 million dollars, a world record in lottery history. ](/news/2012/03/28/the-mega-millions-jackpot-in-the-united-states-hits-a-record-500-million-dollars-a-world-record-in-lottery-history.md)
 _Context: Mega Millions_
 
-##### U.S.
+##### United States
 ### [The United States suspends planned food aid to North Korea, after the latter plans to launch a rocket next month. ](/news/2012/03/28/the-united-states-suspends-planned-food-aid-to-north-korea-after-the-latter-plans-to-launch-a-rocket-next-month.md)
-_Context: North Korea, U.S._
+_Context: North Korea, United States_
 
 ##### Mali's coup
 ### [2012 Malian coup d'etat: Coup leaders in Mali unveil a new constitution. ](/news/2012/03/28/2012-malian-coup-d-a-c-tat-coup-leaders-in-mali-unveil-a-new-constitution.md)

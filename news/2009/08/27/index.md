@@ -9,7 +9,7 @@ A 17-year-old Briton became the youngest person to sail round the globe single-h
 
 ##### South Africa
 ### [ South African President Jacob Zuma is to visit Zimbabwe for talks on the power-sharing government. ](/news/2009/08/27/south-african-president-jacob-zuma-is-to-visit-zimbabwe-for-talks-on-the-power-sharing-government.md)
-_Context: Zimbabwe, President, South Africa, Jacob Zuma_
+_Context: Jacob Zuma, South Africa, President of South Africa, Zimbabwe_
 
 ##### Taiwan
 ### [ Taiwan approves a visit by the Dalai Lama to comfort the victims of Typhoon Morakot. ](/news/2009/08/27/taiwan-approves-a-visit-by-the-dalai-lama-to-comfort-the-victims-of-typhoon-morakot.md)
@@ -17,11 +17,11 @@ Visit to survivors of recent typhoon risks triggering angry reaction from Beijin
 
 ##### Mali
 ### [ Mali's parliament is to review a law giving women greater rights after thousands of Muslims protested the proposed law. ](/news/2009/08/27/mali-s-parliament-is-to-review-a-law-giving-women-greater-rights-after-thousands-of-muslims-protested-the-proposed-law.md)
-_Context: Politics of Mali, Mali, Muslim_
+_Context: Mali, Politics of Mali, Muslim_
 
 ##### United Nations
 ### [ The United Nations Special Rapporteur on indigenous rights, James Anaya, says the Australian government intervention in Aboriginal areas is "discriminatory". ](/news/2009/08/27/the-united-nations-special-rapporteur-on-indigenous-rights-james-anaya-says-the-australian-government-intervention-in-aboriginal-areas-is.md)
-_Context: Australian Aborigines, James Anaya, Australia, United Nations, Special Rapporteur_
+_Context: James Anaya, Special Rapporteur, Australian Aborigines, United Nations, Australia_
 
 ##### Colombia
 ### [ Colombia files a complaint about Venezuela with the Organization of American States, saying the country has been interfering in its domestic affairs. ](/news/2009/08/27/colombia-files-a-complaint-about-venezuela-with-the-organization-of-american-states-saying-the-country-has-been-interfering-in-its-domesti.md)
@@ -33,7 +33,7 @@ _Context: Myanmar Armed Forces, Burma_
 
 ##### Peacekeeping mission
 ### [ The head of the joint United Nations&ndash;African Union force in Darfur, Martin Agwai, says the war in the region is over and is now only suffering low-level disputes. ](/news/2009/08/27/the-head-of-the-joint-united-nations-ndash-african-union-force-in-darfur-martin-agwai-says-the-war-in-the-region-is-over-and-is-now-only.md)
-_Context: conflict, Darfur, peacekeeping mission_
+_Context: Darfur, conflict, peacekeeping mission_
 
 ##### Sri Lanka
 ### [ Sri Lanka dismisses a video purporting to show violence by its Armed Forces against Tamils. ](/news/2009/08/27/sri-lanka-dismisses-a-video-purporting-to-show-violence-by-its-armed-forces-against-tamils.md)
@@ -41,7 +41,7 @@ _Context: Sri Lanka, Tamil, armed forces_
 
 ##### South Korea
 ### [ South Korea proposes regular reunions of families separated by the Korean War to North Korea. ](/news/2009/08/27/south-korea-proposes-regular-reunions-of-families-separated-by-the-korean-war-to-north-korea.md)
-_Context: Korean War, South Korea, North Korea_
+_Context: North Korea, South Korea, Korean War_
 
 ##### Supreme Court of India
 ### [ Judges at the Supreme Court of India agree to make their financial assets public. ](/news/2009/08/27/judges-at-the-supreme-court-of-india-agree-to-make-their-financial-assets-public.md)
@@ -53,7 +53,7 @@ The law details the authority of the paramilitary force that played a key role i
 
 ##### Russia
 ### [ Russia deploys an S-400 anti-missile defence system close to its border with North Korea. ](/news/2009/08/27/russia-deploys-an-s-400-anti-missile-defence-system-close-to-its-border-with-north-korea.md)
-_Context: S-400, Russia, North Korea, missile defense shield_
+_Context: S-400, North Korea, Russia, missile defense shield_
 
 ##### Suicide bomber
 ### [ A suicide bomber hits a Pakistani security checkpoint at the main border crossing for convoys ferrying NATO supplies into Afghanistan, killing at least 18 border guards. ](/news/2009/08/27/a-suicide-bomber-hits-a-pakistani-security-checkpoint-at-the-main-border-crossing-for-convoys-ferrying-nato-supplies-into-afghanistan-kill.md)

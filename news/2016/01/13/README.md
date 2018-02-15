@@ -33,11 +33,11 @@ The cable news outlet, which began broadcasting in August 2013, said it would ex
 
 ##### 2016 Atlantic hurricane season
 ### [Subtropical Storm Alex is located 785 miles (1,260 km) south-southwest of the Azores. Alex is one of just four tropical or subtropical storms to occur in January since 1851, the first year records were kept. The hurricane season begins on June 1 of each year. Alex is expected to hit the Azores on Friday with average rain accumulations of 3 to 5 inches. ](/news/2016/01/13/subtropical-storm-alex-is-located-785-miles-1-260-km-south-southwest-of-the-azores-alex-is-one-of-just-four-tropical-or-subtropical-storm.md)
-_Context: Subtropical Storm Alex, 2016 Atlantic hurricane season, Azores_
+_Context: Azores, 2016 Atlantic hurricane season, Subtropical Storm Alex_
 
 ##### Avalanche
 ### [An avalanche kills three and injures one at the Les Deux Alpes ski resort in Isere departement of the French Alps. Officials are searching for other possible victims. ](/news/2016/01/13/an-avalanche-kills-three-and-injures-one-at-the-les-deux-alpes-ski-resort-in-isa-re-da-c-partement-of-the-french-alps-officials-are-searching.md)
-_Context: avalanche, French Alps, ski resort, Isere, Les Deux Alpes, departments_
+_Context: French Alps, ski resort, departments, Isere, Les Deux Alpes, avalanche_
 
 ##### Iran-United States relations
 ### [Iran claims that it has interrogated ten United States Navy personnel that it captured allegedly in its territorial waters. ](/news/2016/01/13/iran-claims-that-it-has-interrogated-ten-united-states-navy-personnel-that-it-captured-allegedly-in-its-territorial-waters.md)

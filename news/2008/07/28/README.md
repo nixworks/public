@@ -3,13 +3,13 @@ Formats: [HTML](2008/07/28/index.html)  [JSON](2008/07/28/index.json)  [XML](200
 
 ## [2008-07-28](/news/2008/07/28/index.md)
 
-##### U.S.
+##### United States
 ### [ A United States Predator drone launches a missile strike on a Pakistani madrassa killing six people reportedly including al-Qaeda member Abu Khabab al-Masri.](/news/2008/07/28/a-united-states-predator-drone-launches-a-missile-strike-on-a-pakistani-madrassa-killing-six-people-reportedly-including-al-qaeda-member-ab.md)
-_Context: al-Qaeda, Predator drone, Pakistan, madrassa, U.S., Abu Khabab al-Masri_
+_Context: United States, Pakistan, Abu Khabab al-Masri, al-Qaeda, Predator drone, madrassa_
 
 ##### King of Tonga
 ### [ King George Tupou V of Tonga relinquishes many of his powers, ending centuries of absolute monarchy. ](/news/2008/07/28/king-george-tupou-v-of-tonga-relinquishes-many-of-his-powers-ending-centuries-of-absolute-monarchy.md)
-_Context: King of Tonga, George Tupou V, Tonga_
+_Context: George Tupou V, Tonga, King of Tonga_
 
 ##### U.S. Department of Justice
 ### [ An internal U.S. Department of Justice report is released finding that Monica Goodling, a senior aide to former U.S. Attorney General Alberto Gonzales, illegally based hiring decisions on political affiliation. ](/news/2008/07/28/an-internal-u-s-department-of-justice-report-is-released-finding-that-monica-goodling-a-senior-aide-to-former-u-s-attorney-general-alber.md)
@@ -21,23 +21,23 @@ Suicide bombers struck Kurdish protesters in Kirkuk and Shiite pilgrims in Baghd
 
 ##### Human Rights Watch
 ### [ Human Rights Watch has called for military aid to Kenya to be halted until an inquiry is held into a crackdown in the west of the country. ](/news/2008/07/28/human-rights-watch-has-called-for-military-aid-to-kenya-to-be-halted-until-an-inquiry-is-held-into-a-crackdown-in-the-west-of-the-country.md)
-_Context: a crackdown, Human Rights Watch, Kenya_
+_Context: Human Rights Watch, Kenya, a crackdown_
 
 ##### Grand Pier
 ### [ A fire destroys the Grand Pier at Weston-super-Mare, Somerset, England. ](/news/2008/07/28/a-fire-destroys-the-grand-pier-at-weston-super-mare-somerset-england.md)
-_Context: Weston-super-Mare, Somerset, England, Grand Pier_
+_Context: England, Grand Pier, Weston-super-Mare, Somerset_
 
 ##### Qantas Flight 30
 ### [ The hole in Qantas Flight 30, a Boeing 747 that made an emergency landing on July 25, is believed to have been caused by the explosion of an oxygen tank. Terrorism is not suspected. ](/news/2008/07/28/the-hole-in-qantas-flight-30-a-boeing-747-that-made-an-emergency-landing-on-july-25-is-believed-to-have-been-caused-by-the-explosion-of-a.md)
-_Context: July 25, oxygen, Qantas Flight 30, Boeing 747_
+_Context: oxygen, Boeing 747, July 25, Qantas Flight 30_
 
 ##### Boeing 737
 ### [ Qantas Flight 692, a Boeing 737-800, is forced to turn back to Adelaide after an undercarriage door fails to close after takeoff. No one is injured. ](/news/2008/07/28/qantas-flight-692-a-boeing-737-800-is-forced-to-turn-back-to-adelaide-after-an-undercarriage-door-fails-to-close-after-takeoff-no-one-is.md)
-_Context: Adelaide, Boeing 737, undercarriage_
+_Context: undercarriage, Boeing 737, Adelaide_
 
 ##### Navanethem Pillay
 ### [ Navanethem Pillay is appointed to succeed Louise Arbour as the United Nations High Commissioner for Human Rights. ](/news/2008/07/28/navanethem-pillay-is-appointed-to-succeed-louise-arbour-as-the-united-nations-high-commissioner-for-human-rights.md)
-_Context: United Nations, High Commissioner for Human Rights, Louise Arbour, Navanethem Pillay_
+_Context: United Nations, Louise Arbour, High Commissioner for Human Rights, Navanethem Pillay_
 
 ## [Previous Day...](/news/2008/07/27/index.md)
 

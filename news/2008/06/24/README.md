@@ -13,7 +13,7 @@ An architect has unveiled plans to build the world&#039;s first rotating skyscra
 
 ##### Bomb
 ### [ A bomb at an office building in Baghdad kills eight people and injures 10. The U.S. military blames the attack on rogue members of Shia Muslim militias. The attack is believed to be a suicide bombing, but the U.S. military is investigating allegations that a bomb was planted in the building. ](/news/2008/06/24/a-bomb-at-an-office-building-in-baghdad-kills-eight-people-and-injures-10-the-u-s-military-blames-the-attack-on-rogue-members-of-shia-mus.md)
-_Context: Baghdad, bomb_
+_Context: bomb, Baghdad_
 
 ##### Suicide
 ### [ An Israeli security officer shoots himself as French President Nicolas Sarkozy is about to board his plane after a 3-day trip to Israel and the West Bank. ](/news/2008/06/24/an-israeli-security-officer-shoots-himself-as-french-president-nicolas-sarkozy-is-about-to-board-his-plane-after-a-3-day-trip-to-israel-and.md)
@@ -25,7 +25,7 @@ _Context: Mexico City_
 
 ##### National Assembly
 ### [ The National Assembly of Niger votes to try former Prime Minister Hama Amadou on graft charges. ](/news/2008/06/24/the-national-assembly-of-niger-votes-to-try-former-prime-minister-hama-amadou-on-graft-charges.md)
-_Context: National Assembly, Hama Amadou, corruption, Prime Minister_
+_Context: Prime Minister, Hama Amadou, National Assembly, corruption_
 
 ##### The state
 ### [ The U.S. state of Florida purchases 187,000 acres from the US Sugar Corporation to add to protected lands in the Everglades. ](/news/2008/06/24/the-u-s-state-of-florida-purchases-187-000-acres-from-the-us-sugar-corporation-to-add-to-protected-lands-in-the-everglades.md)

@@ -11,7 +11,7 @@ The captain of the cruise ship that capsized on Friday, Francesco Schettino, has
 ### [Severed human hands and feet are found near the Hollywood sign in Los Angeles, California, close to where a man's severed head was recently discovered. Los Angeles police continue their search for more body parts connected with the case. ](/news/2012/01/18/severed-human-hands-and-feet-are-found-near-the-hollywood-sign-in-los-angeles-california-close-to-where-a-man-s-severed-head-was-recently.md)
 _Context: Los Angeles, California, Hollywood sign_
 
-##### U.S.
+##### United States
 ### [Federal prosecutors in the United States charge seven people with insider trading in shares of computer firm Dell Inc., alleging that the ring made a criminal profit of nearly $62 million. ](/news/2012/01/18/federal-prosecutors-in-the-united-states-charge-seven-people-with-insider-trading-in-shares-of-computer-firm-dell-inc-alleging-that-the-ri.md)
 U.S. prosecutors charged seven people, described as a circle of friends who formed a criminal club, with running a $62 million insider trading scheme - the latest salvo in a years-long probe of suspicious trading at hedge funds.
 
@@ -25,7 +25,7 @@ Pakistani PM Yousuf Raza Gilani goes before the Supreme Court to defend his deci
 
 ##### Neptune
 ### [A new Neptune-sized exoplanet is discovered by an amateur astronomer in Peterborough, England. ](/news/2012/01/18/a-new-neptune-sized-exoplanet-is-discovered-by-an-amateur-astronomer-in-peterborough-england.md)
-_Context: Neptune, England, exoplanet, Peterborough_
+_Context: exoplanet, Peterborough, England, Neptune_
 
 ## [Previous Day...](/news/2012/01/17/index.md)
 

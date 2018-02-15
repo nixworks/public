@@ -13,7 +13,7 @@ Two blasts at a peace rally in the Turkish capital Ankara kill at least 95 peopl
 
 ##### Boko Haram insurgency
 ### [Five suicide bombers target a village in Chad that is home to thousands of Nigerian refugees who have fled Boko Haram, killing at least 36 people. ](/news/2015/10/10/five-suicide-bombers-target-a-village-in-chad-that-is-home-to-thousands-of-nigerian-refugees-who-have-fled-boko-haram-killing-at-least-36-p.md)
-_Context: Nigerian, Boko Haram, Boko Haram insurgency, Chad, suicide bomber_
+_Context: Chad, Boko Haram insurgency, suicide bomber, Boko Haram, Nigerian_
 
 ##### War in Afghanistan (2015-present)
 ### [The U.S. Department of Defense will make payments to families of victims of last week's U.S. airstrike that struck a Medecins Sans Frontieres (Doctors Without Borders) hospital in the Afghan city of Kunduz. At least 22 people were killed including 12 staff members and 10 patients, including three children. MSF says 33 people are still missing and presumed to have died in the fire. ](/news/2015/10/10/the-u-s-department-of-defense-will-make-payments-to-families-of-victims-of-last-week-s-u-s-airstrike-that-struck-a-ma-c-decins-sans-frontia.md)
@@ -21,7 +21,7 @@ The U.S. Department of Defense will seek to make &quot;condolence payments&quot;
 
 ##### Mali conflict
 ### [Suspected jihadists attack Dioungani, a village in central Mali, killing a local official in front of his family. ](/news/2015/10/10/suspected-jihadists-attack-dioungani-a-village-in-central-mali-killing-a-local-official-in-front-of-his-family.md)
-_Context: Dioungani, Mali, Mali conflict, jihadists_
+_Context: Mali, Dioungani, Mali conflict, jihadists_
 
 ##### Halting site
 ### [At least eight people have died in a major fire at a halting site for Irish travellers in the south of Dublin. ](/news/2015/10/10/at-least-eight-people-have-died-in-a-major-fire-at-a-halting-site-for-irish-travellers-in-the-south-of-dublin.md)

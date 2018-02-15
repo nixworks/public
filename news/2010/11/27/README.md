@@ -13,7 +13,7 @@ _Context: Saeedabad, Karachi_
 
 ##### North Korea
 ### [North Korea accuses South Korea of using "human shields" during the incident. ](/news/2010/11/27/north-korea-accuses-south-korea-of-using-human-shields-during-the-incident.md)
-_Context: human shield, North Korea, South Korea_
+_Context: South Korea, human shield, North Korea_
 
 ##### United Nations
 ### [A senior United Nations official, Vijay Nambiar, meets with Burmese opposition leader Aung San Suu Kyi in Yangon. ](/news/2010/11/27/a-senior-united-nations-official-vijay-nambiar-meets-with-burmese-opposition-leader-aung-san-suu-kyi-in-yangon.md)
@@ -33,7 +33,7 @@ PAKISTANI Muslims have threatened anarchy if the Government pardons a Christian 
 
 ##### Cte d'Ivoire
 ### [Cte d'Ivoire President Laurent Gbagbo declares a curfew, amid clashes that killed three people ahead of the second round of the presidential election on Sunday. ](/news/2010/11/27/cote-d-ivoire-president-laurent-gbagbo-declares-a-curfew-amid-clashes-that-killed-three-people-ahead-of-the-second-round-of-the-presidentia.md)
-_Context: Laurent Gbagbo, Cte d'Ivoire, 2010 presidential election_
+_Context: Laurent Gbagbo, 2010 presidential election, Cte d'Ivoire_
 
 ##### Japan
 ### [Two Japanese ministers are censured by the House of Councillors over a territorial dispute with China. ](/news/2010/11/27/two-japanese-ministers-are-censured-by-the-house-of-councillors-over-a-territorial-dispute-with-china.md)
@@ -45,11 +45,11 @@ Like a stallion known for its strong final sprint, the Coalition has trailed Lab
 
 ##### Ed Miliband
 ### [Ed Miliband launches a two-year review of British Labour Party policy, saying that the Party must move beyond New Labour and calling on activists to make it the "People's Party" again. ](/news/2010/11/27/ed-miliband-launches-a-two-year-review-of-british-labour-party-policy-saying-that-the-party-must-move-beyond-new-labour-and-calling-on-acti.md)
-_Context: Labour Party, Ed Miliband_
+_Context: Ed Miliband, Labour Party_
 
 ##### March
 ### [Tens of thousands of people march through Dublin in protest at the Irish government's austerity measures. ](/news/2010/11/27/tens-of-thousands-of-people-march-through-dublin-in-protest-at-the-irish-government-s-austerity-measures.md)
-_Context: Dublin, Government of Ireland, march_
+_Context: march, Dublin, Government of Ireland_
 
 #####  Icelanders
 ### [ Icelanders vote for the creators of a new constitution. ](/news/2010/11/27/icelanders-vote-for-the-creators-of-a-new-constitution.md)

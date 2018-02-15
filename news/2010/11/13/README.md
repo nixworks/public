@@ -5,7 +5,7 @@ Formats: [HTML](2010/11/13/index.html)  [JSON](2010/11/13/index.json)  [XML](201
 
 ##### Nigerian military
 ### [The Nigerian military asks civilians in the Niger Delta creeks to leave, warning of action against camps of criminal gangs in the area. ](/news/2010/11/13/the-nigerian-military-asks-civilians-in-the-niger-delta-creeks-to-leave-warning-of-action-against-camps-of-criminal-gangs-in-the-area.md)
-_Context: Nigerian military, Niger Delta_
+_Context: Niger Delta, Nigerian military_
 
 ##### Kenyan navy
 ### [The Kenyan navy shoots dead three suspected Somali pirates who had attacked a naval patrol. ](/news/2010/11/13/the-kenyan-navy-shoots-dead-three-suspected-somali-pirates-who-had-attacked-a-naval-patrol.md)
@@ -49,7 +49,7 @@ _Context: Khaleda Zia, Bangladesh, Dhaka_
 
 ##### France
 ### [The French Cabinet led by Prime Minister Francois Fillon resigns ahead of a reshuffle by President Nicolas Sarkozy. ](/news/2010/11/13/the-french-cabinet-led-by-prime-minister-franassois-fillon-resigns-ahead-of-a-reshuffle-by-president-nicolas-sarkozy.md)
-_Context: France, Nicolas Sarkozy, French President, Prime Minister, Francois Fillon_
+_Context: Francois Fillon, Prime Minister, Nicolas Sarkozy, France, French President_
 
 ## [Previous Day...](/news/2010/11/12/index.md)
 

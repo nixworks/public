@@ -25,7 +25,7 @@ Ireland is in talks to receive emergency funding from the European Union and is 
 
 ##### Brazil
 ### [Brazil begins auctioning parts of the Amazon Rainforest to private companies for logging. ](/news/2010/11/12/brazil-begins-auctioning-parts-of-the-amazon-rainforest-to-private-companies-for-logging.md)
-_Context: logging, Amazon Rainforest, Brazil_
+_Context: Amazon Rainforest, Brazil, logging_
 
 ##### Economic
 ### [Eurozone economic growth slows in third quarter. ](/news/2010/11/12/eurozone-economic-growth-slows-in-third-quarter.md)
@@ -33,7 +33,7 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 
 ##### United Kingdom
 ### [United Kingdom holiday company Pontin's goes into administration. ](/news/2010/11/12/united-kingdom-holiday-company-pontin-s-goes-into-administration.md)
-_Context: Pontin's, United Kingdom_
+_Context: United Kingdom, Pontin's_
 
 ##### Barack Obama
 ### [U.S. President Barack Obama's administration announces plans to nominate Joseph Smith to head the Federal Housing Finance Agency. Smith has been the banks commissioner in North Carolina since 2002. ](/news/2010/11/12/u-s-president-barack-obama-s-administration-announces-plans-to-nominate-joseph-smith-to-head-the-federal-housing-finance-agency-smith-has.md)
@@ -41,7 +41,7 @@ President Barack Obama will nominate a state bank regulator to be director of th
 
 ##### Bing Search
 ### [Bing Search for Android now available in market. ](/news/2010/11/12/bing-search-for-android-now-available-in-market.md)
-_Context: Android, Bing Search_
+_Context: Bing Search, Android_
 
 ##### United Nations
 ### [The United Nations appeals for nearly $164 million to fund the battle against Haiti's outbreak of cholera as hospitals overflow and space and time run out. ](/news/2010/11/12/the-united-nations-appeals-for-nearly-164-million-to-fund-the-battle-against-haiti-s-outbreak-of-cholera-as-hospitals-overflow-and-space-an.md)
@@ -49,11 +49,11 @@ The UN appeals for nearly $164m in aid to help fight a cholera outbreak in Haiti
 
 ##### Nursing home
 ### [Ten elderly people die and seventeen are injured following a fire in a nursing home in Pohang, South Korea. ](/news/2010/11/12/ten-elderly-people-die-and-seventeen-are-injured-following-a-fire-in-a-nursing-home-in-pohang-south-korea.md)
-_Context: Pohang, South Korea, nursing home_
+_Context: Pohang, nursing home, South Korea_
 
 ##### Mount Bulusan
 ### [Mount Bulusan, a volcano in the Philippines, erupts again. ](/news/2010/11/12/mount-bulusan-a-volcano-in-the-philippines-erupts-again.md)
-_Context: volcano, Philippines, Mount Bulusan_
+_Context: Mount Bulusan, Philippines, volcano_
 
 ##### European windstorm
 ### [An intense European windstorm in the British Isles kills an elderly woman and brings gusts exceeding 160 km-h. ](/news/2010/11/12/an-intense-european-windstorm-in-the-british-isles-kills-an-elderly-woman-and-brings-gusts-exceeding-160-km-h.md)
@@ -73,7 +73,7 @@ Medvedev and Kan to hold talks in Japanese city amid tensions over territorial d
 
 ##### European Union
 ### [The European Union agrees to meet with Iran to discuss its nuclear program. ](/news/2010/11/12/the-european-union-agrees-to-meet-with-iran-to-discuss-its-nuclear-program.md)
-_Context: nuclear program, Iran, European Union_
+_Context: European Union, Iran, nuclear program_
 
 ##### Supreme Court of the United States
 ### [The Supreme Court of the United States refuses to rescind the country's ban on openly gay soldiers. ](/news/2010/11/12/the-supreme-court-of-the-united-states-refuses-to-rescind-the-country-s-ban-on-openly-gay-soldiers.md)
@@ -97,7 +97,7 @@ A Sri Lankan journalist, a Russian lawyer and a Gabonese activist are commended 
 
 ##### Governor
 ### [A student who guessed the answers to former Governor of Alaska Sarah Palin's security questions in 2008 is convicted of hacking and sentenced to one year in state custody. ](/news/2010/11/12/a-student-who-guessed-the-answers-to-former-governor-of-alaska-sarah-palin-s-security-questions-in-2008-is-convicted-of-hacking-and-sentence.md)
-_Context: hacking, Governor, Sarah Palin_
+_Context: Governor, Sarah Palin, hacking_
 
 ##### Twitter
 ### [One day after the failure of his appeal, Twitterers combine to support Paul Chambers, a Briton convicted and fined for a threatening Twitter message. ](/news/2010/11/12/one-day-after-the-failure-of-his-appeal-twitterers-combine-to-support-paul-chambers-a-briton-convicted-and-fined-for-a-threatening-twitter.md)
@@ -113,11 +113,11 @@ Ethnic Karen armies have united as fresh fighting erupts on Thai-Myanmar border.
 
 ##### Jos Alencar
 ### [Jos Alencar, Vice-President and current Acting President of Brazil in the absence of Luiz Incio Lula da Silva, is taken to the Sirio Libanes hospital in So Paulo following a heart attack. ](/news/2010/11/12/jose-alencar-vice-president-and-current-acting-president-of-brazil-in-the-absence-of-luiz-inacio-lula-da-silva-is-taken-to-the-sirio-liban.md)
-_Context: Luiz Incio Lula da Silva, Jos Alencar, So Paulo_
+_Context: Luiz Incio Lula da Silva, So Paulo, Jos Alencar_
 
 ##### Israeli Prime Minister
 ### [Former Prime Minister of Israel Ariel Sharon is taken home from hospital still in a comatose state. ](/news/2010/11/12/former-prime-minister-of-israel-ariel-sharon-is-taken-home-from-hospital-still-in-a-comatose-state.md)
-_Context: Israeli Prime Minister, Ariel Sharon_
+_Context: Ariel Sharon, Israeli Prime Minister_
 
 ##### Mary Harney
 ### [Irish Health Minister Mary Harney is targeted with eggs and cheese by protestors shouting "Bloody Mary" in response to her healthcare funding cuts. It follows a similar incident involving red paint last week. ](/news/2010/11/12/irish-health-minister-mary-harney-is-targeted-with-eggs-and-cheese-by-protestors-shouting-bloody-mary-in-response-to-her-healthcare-fundin.md)
@@ -125,7 +125,7 @@ Protestors threw eggs and cheese at Health Minister Mary Harney&#39;s car as she
 
 ##### Prime Minister of Somalia
 ### [The Prime Minister of Somalia Mohamed Abdullahi Mohamed names a new Cabinet with doubts that the parliament will approve his choices. ](/news/2010/11/12/the-prime-minister-of-somalia-mohamed-abdullahi-mohamed-names-a-new-cabinet-with-doubts-that-the-parliament-will-approve-his-choices.md)
-_Context: Mohamed Abdullahi Mohamed, Prime Minister of Somalia, parliament_
+_Context: parliament, Prime Minister of Somalia, Mohamed Abdullahi Mohamed_
 
 ## [Previous Day...](/news/2010/11/11/index.md)
 

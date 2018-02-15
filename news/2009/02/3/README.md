@@ -13,11 +13,11 @@ _Context: Al Jazeera, Israel_
 
 ##### California
 ### [ California's government goes broke and issues IOUs on all expenditures not required by law. ](/news/2009/02/3/california-s-government-goes-broke-and-issues-ious-on-all-expenditures-not-required-by-law.md)
-_Context: state government, California, IOU_
+_Context: state government, IOU, California_
 
 ##### Afghanistan
 ### [ Afghanistan's National Directorate of Security eliminates a Pakistani terrorist cell responsible for at least six suicide bombings in Kabul. ](/news/2009/02/3/afghanistan-s-national-directorate-of-security-eliminates-a-pakistani-terrorist-cell-responsible-for-at-least-six-suicide-bombings-in-kabul.md)
-_Context: supply lines, terrorist, Kabul, National Directorate of Security, Afghanistan, Pakistan, suicide bombing_
+_Context: supply lines, Kabul, Afghanistan, Pakistan, suicide bombing, National Directorate of Security, terrorist_
 
 ##### Armed forces
 ### [ The Armed Forces claim to have captured an underground bunker used by the Tamil Tigers. ](/news/2009/02/3/the-armed-forces-claim-to-have-captured-an-underground-bunker-used-by-the-tamil-tigers.md)
@@ -33,7 +33,7 @@ _Context: ''Omid'', satellite, Iran_
 
 ##### Taliban
 ### [ Suspected Taliban militants suspend NATO supply lines by destroying a bridge on the Pakistan-Afghanistan border. ](/news/2009/02/3/suspected-taliban-militants-suspend-nato-supply-lines-by-destroying-a-bridge-on-the-pakistan-afghanistan-border.md)
-_Context: Pakistan, Afghanistan, Taliban, militant, supply lines, NATO_
+_Context: Pakistan, NATO, Afghanistan, supply lines, Taliban, militant_
 
 ##### United Kingdom
 ### [ The United Kingdom struggles to cope with its heaviest snowfalls since 1991. ](/news/2009/02/3/the-united-kingdom-struggles-to-cope-with-its-heaviest-snowfalls-since-1991.md)

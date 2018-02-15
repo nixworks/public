@@ -21,7 +21,7 @@ _Context: New Zealand, state of emergency, 2011 Canterbury earthquake_
 
 ##### Israeli-Palestinian conflict
 ### [Israeli Prime Minister Benjamin Netanyahu mulls withdrawing IDF forces from parts of the West Bank and handing over full security control to the Palestinian Authority to demonstrate an Israeli diplomatic initiative that would block a possible "diplomatic tsunami" that could follow international recognition of a Palestinian state. ](/news/2011/04/12/israeli-prime-minister-benjamin-netanyahu-mulls-withdrawing-idf-forces-from-parts-of-the-west-bank-and-handing-over-full-security-control-to.md)
-_Context: Benjamin Netanyahu, Palestinian Authority, West Bank, Israeli-Palestinian conflict, Israeli Army_
+_Context: West Bank, Israeli-Palestinian conflict, Israeli Army, Benjamin Netanyahu, Palestinian Authority_
 
 ##### 
 ### [Pakistan seeks CIA reduction in the country by 25%-40% ](/news/2011/04/12/pakistan-seeks-cia-reduction-in-the-country-by-25-40.md)
@@ -49,7 +49,7 @@ _Context: 2011 Canadian federal election, Canadian_
 
 ##### Senate
 ### [The Senate of the US state of North Carolina pardons former Governor William Woods Holden who was impeached in 1871 because of his suspension of habeas corpus in the process of battling the Ku Klux Klan terror campaign. ](/news/2011/04/12/the-senate-of-the-us-state-of-north-carolina-pardons-former-governor-william-woods-holden-who-was-impeached-in-1871-because-of-his-suspensio.md)
-_Context: Ku Klux Klan, William Woods Holden, North Carolina, Governor, Senate, habeas corpus_
+_Context: Ku Klux Klan, Senate, habeas corpus, Governor, North Carolina, William Woods Holden_
 
 ## [Previous Day...](/news/2011/04/11/index.md)
 

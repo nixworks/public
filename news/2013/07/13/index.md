@@ -5,7 +5,7 @@ Formats: [HTML](2013/07/13/index.html)  [JSON](2013/07/13/index.json)  [XML](201
 
 ##### African Union - United Nations Hybrid Operation in Darfur
 ### [The African Union - United Nations Hybrid Operation in Darfur confirms that seven peacekeepers were killed and 17 injured in a patrol while returning to their base in Manawashi near Nyala, the capital of Sudan's South Darfur state. ](/news/2013/07/13/the-african-union-a-united-nations-hybrid-operation-in-darfur-confirms-that-seven-peacekeepers-were-killed-and-17-injured-in-a-patrol-whil.md)
-_Context: Nyala, African Union - United Nations Hybrid Operation in Darfur, South Darfur, Sudan_
+_Context: African Union - United Nations Hybrid Operation in Darfur, Nyala, South Darfur, Sudan_
 
 ##### Cory Monteith
 ### [Canadian actor Cory Monteith, of the TV series "Glee", is found dead in his Vancouver hotel room. ](/news/2013/07/13/canadian-actor-cory-monteith-of-the-tv-series-glee-is-found-dead-in-his-vancouver-hotel-room.md)

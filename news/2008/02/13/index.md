@@ -9,19 +9,19 @@ _Context: waterboarding, United States Senate, CIA_
 
 ##### Major League Baseball
 ### [ Former Major League Baseball pitcher Roger Clemens testifies to the United States House Committee on Oversight and Government Reform regarding performance enhancing drugs. ](/news/2008/02/13/former-major-league-baseball-pitcher-roger-clemens-testifies-to-the-united-states-house-committee-on-oversight-and-government-reform-regard.md)
-_Context: Roger Clemens, Major League Baseball, performance-enhancing drugs, pitcher, House Oversight Committee_
+_Context: performance-enhancing drugs, Roger Clemens, pitcher, Major League Baseball, House Oversight Committee_
 
 ##### Iraqi Parliament
 ### [ The Iraqi Parliament adopts an accord on the budget, detainees and federalism, setting provincial elections for late 2008. ](/news/2008/02/13/the-iraqi-parliament-adopts-an-accord-on-the-budget-detainees-and-federalism-setting-provincial-elections-for-late-2008.md)
-_Context: provincial elections, Iraqi Parliament_
+_Context: Iraqi Parliament, provincial elections_
 
 ##### Sweden
 ### [ The Swedish government rejects the Nord Stream underwater natural gas pipeline from Russia to Germany. ](/news/2008/02/13/the-swedish-government-rejects-the-nord-stream-underwater-natural-gas-pipeline-from-russia-to-germany.md)
-_Context: Nord Stream, Sweden, line, German, Russia_
+_Context: line, Sweden, Russia, Nord Stream, German_
 
 ##### Hezbollah
 ### [ Hezbollah commander Imad Mugniyah is killed by a bomb attack in Damascus, Syria. ](/news/2008/02/13/hezbollah-commander-imad-mugniyah-is-killed-by-a-bomb-attack-in-damascus-syria.md)
-_Context: Syria, Damascus, Imad Mugniyah, Hezbollah_
+_Context: Imad Mugniyah, Syria, Hezbollah, Damascus_
 
 ##### Australian Prime Minister
 ### [ Prime Minister Kevin Rudd issues a formal apology to the Indigenous Stolen Generation on behalf of the Parliament of Australia. ](/news/2008/02/13/prime-minister-kevin-rudd-issues-a-formal-apology-to-the-indigenous-stolen-generation-on-behalf-of-the-parliament-of-australia.md)
@@ -37,7 +37,7 @@ _Context: Taco Del Mar, British Columbia, Starbucks, Vancouver_
 
 ##### Parliament of Malaysia
 ### [ Malaysian Parliament dissolved for The 13th Malaysian general election. ](/news/2008/02/13/malaysian-parliament-dissolved-for-the-13th-malaysian-general-election.md)
-_Context: Malaysian general election, 2008, Parliament of Malaysia_
+_Context: Parliament of Malaysia, Malaysian general election, 2008_
 
 ## [Previous Day...](/news/2008/02/12/index.md)
 

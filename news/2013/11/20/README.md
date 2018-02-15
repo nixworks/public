@@ -21,7 +21,7 @@ Freshman lawmaker is set to be arraigned Wednesday, admits he is an alcoholic.
 
 ##### Supreme Court of the Philippines
 ### [The Supreme Court of the Philippines abolishes the Priority Development Assistance Fund, otherwise known as the 'pork barrel', prompting Philippine President Benigno Aquino III to fly back to Manila. ](/news/2013/11/20/the-supreme-court-of-the-philippines-abolishes-the-priority-development-assistance-fund-otherwise-known-as-the-pork-barrel-prompting-phi.md)
-_Context: pork barrel, his predecessor, Supreme Court of the Philippines, President, Philippines, Manila, Priority Development Assistance Fund_
+_Context: pork barrel, his predecessor, Supreme Court of the Philippines, Philippines, President, Priority Development Assistance Fund, Manila_
 
 ##### General Synod of the Church of England
 ### [The General Synod of the Church of England votes in favour of legislation to allow the ordination of women bishops by 2014. ](/news/2013/11/20/the-general-synod-of-the-church-of-england-votes-in-favour-of-legislation-to-allow-the-ordination-of-women-bishops-by-2014.md)

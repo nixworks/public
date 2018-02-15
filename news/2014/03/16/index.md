@@ -5,7 +5,7 @@ Formats: [HTML](2014/03/16/index.html)  [JSON](2014/03/16/index.json)  [XML](201
 
 ##### Crimean referendum, 2014
 ### [Voters in Crimea vote overwhelmingly to leave Ukraine and rejoin Russia. Ukraine, the European Union, and the United States condemn the referendum, which did not give voters the option of the status quo. ](/news/2014/03/16/voters-in-crimea-vote-overwhelmingly-to-leave-ukraine-and-rejoin-russia-ukraine-the-european-union-and-the-united-states-condemn-the-refe.md)
-_Context: European Union, Crimean referendum, 2014, Crimea, U.S., Russian-controlled Crimea, leave Ukraine_
+_Context: United States, leave Ukraine, Crimean referendum, 2014, Crimea, European Union, Russian-controlled Crimea_
 
 ##### Serbian parliamentary election, 2014
 ### [Voters in Serbia go to the polls for an early parliamentary election. The centre right SNS is reported to be receiving around 50% of the popular vote. ](/news/2014/03/16/voters-in-serbia-go-to-the-polls-for-an-early-parliamentary-election-the-centre-right-sns-is-reported-to-be-receiving-around-50-of-the-pop.md)

@@ -41,19 +41,19 @@ The brother of South African athletics star Oscar Pistorius, Carl, is acquitted 
 
 ##### U.S. Army
 ### [U.S. Army Brigadier General Bryan T. Roberts, the Commanding General of the U.S. Army Training Center and Fort Jackson in Fort Jackson, South Carolina, is suspended from his duties because of an investigation into alleged adultery (which is treated as a criminal violation, not just a civil matter, in the U.S. military), and for allegedly being in a physical altercation. ](/news/2013/05/21/u-s-army-brigadier-general-bryan-t-roberts-the-commanding-general-of-the-u-s-army-training-center-and-fort-jackson-in-fort-jackson-sout.md)
-_Context: U.S. Army, Fort Jackson, Bryan T. Roberts, Brigadier General, Fort Jackson, South Carolina, Commanding General, U.S. Army Training Center, adultery_
+_Context: Brigadier General, Fort Jackson, South Carolina, U.S. Army, U.S. Army Training Center, Fort Jackson, Commanding General, adultery, Bryan T. Roberts_
 
 ##### House of Commons
 ### [MPs in the House of Commons vote 366-161 in favour of the Marriage (Same Sex Couples) Bill taking an important step towards allowing gay marriage in England and Wales. ](/news/2013/05/21/mps-in-the-house-of-commons-vote-366-161-in-favour-of-the-marriage-same-sex-couples-bill-taking-an-important-step-towards-allowing-gay-mar.md)
-_Context: Marriage (Same Sex Couples) Bill, Same-sex marriage, House of Commons_
+_Context: Same-sex marriage, Marriage (Same Sex Couples) Bill, House of Commons_
 
 ##### Guardian Council
 ### [Final list of candidates are announced by Guardian Council. This included Mohammad-Bagher Ghalibaf, Hassan Rouhani, Saeed Jalili, Mohsen Rezaei and four others. ](/news/2013/05/21/final-list-of-candidates-are-announced-by-guardian-council-this-included-mohammad-bagher-ghalibaf-hassan-rouhani-saeed-jalili-mohsen-rez.md)
-_Context: Mohammad-Bagher Ghalibaf, Saeed Jalili, Mohsen Rezaei, Hassan Rouhani, Guardian Council_
+_Context: Mohsen Rezaei, Mohammad-Bagher Ghalibaf, Saeed Jalili, Hassan Rouhani, Guardian Council_
 
 ##### United States Senate Committee on the Judiciary
 ### [The United States Senate Committee on the Judiciary approves immigration reform legislation that would give citizenship to millions living in the country illegally. ](/news/2013/05/21/the-united-states-senate-committee-on-the-judiciary-approves-immigration-reform-legislation-that-would-give-citizenship-to-millions-living-i.md)
-_Context: citizenship, United States Senate Committee on the Judiciary_
+_Context: United States Senate Committee on the Judiciary, citizenship_
 
 ##### Microsoft
 ### [Microsoft announces their eighth generation console, the Xbox One. ](/news/2013/05/21/microsoft-announces-their-eighth-generation-console-the-xbox-one.md)

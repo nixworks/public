@@ -9,7 +9,7 @@ Vladimir Putin accused Ukraine on Wednesday of using terrorist tactics to try to
 
 ##### Royal Canadian Mounted Police
 ### [Royal Canadian Mounted Police kill 24-year-old Aaron Driver in Strathroy, Ontario. Driver was accused of supporting the Islamic State of Iraq and the Levant, and was believed to have been plotting an "imminent" attack against Canadians. ](/news/2016/08/10/royal-canadian-mounted-police-kill-24-year-old-aaron-driver-in-strathroy-ontario-driver-was-accused-of-supporting-the-islamic-state-of-ira.md)
-_Context: Strathroy, Ontario, Royal Canadian Mounted Police, ISIL_
+_Context: Royal Canadian Mounted Police, Strathroy, Ontario, ISIL_
 
 ##### Petroglyphs
 ### [400-year old petroglyphs are discovered off the Waianae coast of Hawaii. ](/news/2016/08/10/400-year-old-petroglyphs-are-discovered-off-the-waianae-coast-of-hawaii.md)
@@ -29,7 +29,7 @@ A law in Belize criminalizing same-sex intimacy was ruled unconstitutional on We
 
 ##### Impeachment process against Dilma Rousseff
 ### [Brazil's Federal Senate votes 59 to 21 to indict suspended President Dilma Rousseff on charges of breaking budget laws and put her on trial. ](/news/2016/08/10/brazil-s-federal-senate-votes-59-to-21-to-indict-suspended-president-dilma-rousseff-on-charges-of-breaking-budget-laws-and-put-her-on-trial.md)
-_Context: Senate, Impeachment process against Dilma Rousseff, Brazil, Dilma Rousseff, president_
+_Context: Impeachment process against Dilma Rousseff, Senate, president, Dilma Rousseff, Brazil_
 
 ## [Previous Day...](/news/2016/08/9/index.md)
 

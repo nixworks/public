@@ -24,4 +24,4 @@ Pakistani police investigating the kidnapping of British boy, Sahil Saeed, are l
 2. [Sahil Saeed's father returns to the United Kingdom from Pakistan to work with police there on his son's case. ](/news/2010/03/12/sahil-saeed-s-father-returns-to-the-united-kingdom-from-pakistan-to-work-with-police-there-on-his-son-s-case.md) _Context: Pakistan, Sahil Saeed_
 3. [Sahil Saeed is "found" in Pakistan. ](/news/2010/03/11/sahil-saeed-is-found-in-pakistan.md) _Context: Pakistan, Sahil Saeed_
 4. [ More than 200 people die in accidents related to storms in Karachi, Pakistan. ](/news/2018/06/24/more-than-200-people-die-in-accidents-related-to-storms-in-karachi-pakistan.md) _Context: Pakistan_
-5. [The U.S. State Department suspends its security assistance to Pakistan. ](/news/2018/01/4/the-u-s-state-department-suspends-its-security-assistance-to-pakistan.md) _Context: Pakistan_
+5. [Pakistan moves to ban two charities linked to terrorist Hafiz Muhammad Saeed. ](/news/2018/02/14/pakistan-moves-to-ban-two-charities-linked-to-terrorist-hafiz-muhammad-saeed.md) _Context: Pakistan_

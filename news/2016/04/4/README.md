@@ -5,11 +5,11 @@ Formats: [HTML](2016/04/4/index.html)  [JSON](2016/04/4/index.json)  [XML](2016/
 
 ##### Boko Haram insurgency
 ### [Nigeria's army says it has arrested Khalid al-Barnawi, a leader of the Boko Haram splinter group Ansaru. ](/news/2016/04/4/nigeria-s-army-says-it-has-arrested-khalid-al-barnawi-a-leader-of-the-boko-haram-splinter-group-ansaru.md)
-_Context: Nigeria, Boko Haram insurgency, Ansaru, Boko Haram_
+_Context: Nigeria, Boko Haram insurgency, Boko Haram, Ansaru_
 
 ##### Iraqi Civil War (2014-present)
 ### [More than 20 people have been killed in attacks targeting Shiite militias and government forces. ](/news/2016/04/4/more-than-20-people-have-been-killed-in-attacks-targeting-shiite-militias-and-government-forces.md)
-_Context: Shiite, Iraqi Civil War (2014-present)_
+_Context: Iraqi Civil War (2014-present), Shiite_
 
 ##### United States Treasury Department
 ### [The U.S. Treasury Department announces new regulations to curb tax-avoiding corporate inversions, i.e., where U.S. companies slash their tax bills by claiming a new tax home overseas, though their core operations and management remain in the United States. The pending $160 billion merger of Pfizer Inc. and Allergan, Plc could be cancelled because of these new rules. ](/news/2016/04/4/the-u-s-treasury-department-announces-new-regulations-to-curb-tax-avoiding-corporate-inversions-i-e-where-u-s-companies-slash-their-tax.md)
@@ -53,11 +53,11 @@ The constitutional maxim does not require states to use eligible voters when dra
 
 ##### Panama Papers
 ### [Icelandic Prime Minister Sigmundur David Gunnlaugsson refuses to resign after leaked "Panama Papers" tax documents showed he and his wife used an offshore firm to allegedly hide million-dollar investments. "I have not considered quitting because of this matter nor am I going to quit because of this matter," Gunnlaugsson told Icelandic television Channel 2. ](/news/2016/04/4/icelandic-prime-minister-sigmundur-davaadeg-gunnlaugsson-refuses-to-resign-after-leaked-panama-papers-tax-documents-showed-he-and-his-wife.md)
-_Context: Panama Papers, Prime Minister, Sigmundur David Gunnlaugsson_
+_Context: Prime Minister, Sigmundur David Gunnlaugsson, Panama Papers_
 
 ##### President
 ### [The President of Kyrgyzstan Almazbek Atambayev signs a presidential decree officially recognizing March 17, March 24, and April 7 as public holidays for Kyrgyzstan. The dates are meant to commemorate the days of Kyrgyzstan's massive anti-government revolts. On March 17, 2002, during anti-government protests in the Aksy District, police killed four protesters, while March 24 and April 7 commemorate the Tulip Revolution of 2006 and the Second Kyrgyz Revolution of 2010, respectively. ](/news/2016/04/4/the-president-of-kyrgyzstan-almazbek-atambayev-signs-a-presidential-decree-officially-recognizing-march-17-march-24-and-april-7-as-public.md)
-_Context: Tulip Revolution, Kyrgyzstan, Almazbek Atambayev, Aksy District, president, Second Kyrgyz Revolution_
+_Context: Kyrgyzstan, Tulip Revolution, Aksy District, Almazbek Atambayev, Second Kyrgyz Revolution, president_
 
 ##### Republic of the Congo presidential election, 2016
 ### [Fighting erupts between unknown assailants and police in the southern part of Brazzaville, capital of the Republic of the Congo, after a disputed Presidential election that brought Denis Sassou Nguesso back to power for a third term. The reason for the clashes is not immediately clear but they have taken place in districts where support for the opposition is strong. The government blames the violence on the Ninjas, a militant group active during the Second Republic of the Congo Civil War. ](/news/2016/04/4/fighting-erupts-between-unknown-assailants-and-police-in-the-southern-part-of-brazzaville-capital-of-the-republic-of-the-congo-after-a-dis.md)

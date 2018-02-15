@@ -21,7 +21,7 @@ _Context: Augusto Pinochet, heart attack, coronary artery bypass surgery, Presid
 
 ##### Madagascar
 ### [ Madagascar holds an election with incumbent Marc Ravalomanana expected to be elected as the President of Madagascar. ](/news/2006/12/3/madagascar-holds-an-election-with-incumbent-marc-ravalomanana-expected-to-be-elected-as-the-president-of-madagascar.md)
-_Context: holds an election, Marc Ravalomanana, Madagascar, President of Madagascar_
+_Context: Marc Ravalomanana, holds an election, Madagascar, President of Madagascar_
 
 ##### Junior Eurovision Song Contest 2006
 ### [ The Junior Eurovision Song Contest 2006 was won by The Tolmachevy Twins from Russia with the song "Vesenniy Dzhaz". ](/news/2006/12/3/the-junior-eurovision-song-contest-2006-was-won-by-the-tolmachevy-twins-from-russia-with-the-song-vesenniy-dzhaz.md)

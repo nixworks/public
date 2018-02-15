@@ -13,9 +13,9 @@ _Context: Khyber Agency_
 
 ##### South Africa
 ### [South Africa warned Ugandan intelligence services last October that it might be attacked like it was on Sunday evening. ](/news/2010/07/16/south-africa-warned-ugandan-intelligence-services-last-october-that-it-might-be-attacked-like-it-was-on-sunday-evening.md)
-_Context: attacks, South Africa, Uganda_
+_Context: attacks, Uganda, South Africa_
 
-##### U.S.
+##### United States
 ### [The United States places U.S.-born Muslim cleric Anwar al-Awlaki on its "terror blacklist". ](/news/2010/07/16/the-united-states-places-u-s-born-muslim-cleric-anwar-al-awlaki-on-its-terror-blacklist.md)
 Washington puts US-born Muslim cleric Anwar al-Awlaki on a terror blacklist for allegedly planning attacks on the US.
 
@@ -33,7 +33,7 @@ Historian Orlando Figes, who admitted writing fake reviews on Amazon, is to pay 
 
 ##### President
 ### [President of Tajikistan Emomalii Rahmon's daughter Zarina Rahmonova presents the news on Channel One. ](/news/2010/07/16/president-of-tajikistan-emomalii-rahmon-s-daughter-zarina-rahmonova-presents-the-news-on-channel-one.md)
-_Context: Zarina Rahmonova, Emomalii Rahmon, President_
+_Context: Zarina Rahmonova, President, Emomalii Rahmon_
 
 ##### P!nk
 ### [Singer P!nk is hospitalised without serious injury after falling out of a harness and colliding with a barricade during a concert in Nuremberg. ](/news/2010/07/16/singer-p-nk-is-hospitalised-without-serious-injury-after-falling-out-of-a-harness-and-colliding-with-a-barricade-during-a-concert-in-nurembe.md)
@@ -97,7 +97,7 @@ Photos taken by a mountaineer on Everest from the same spot where similar pictur
 
 ##### President
 ### [President of Venezuela Hugo Chvez announces the exhumation of 19th-century revolutionary Simn Bolvar to investigate suspected foul play in Bolvar's death. ](/news/2010/07/16/president-of-venezuela-hugo-chavez-announces-the-exhumation-of-19th-century-revolutionary-simon-bolivar-to-investigate-suspected-foul-play-i.md)
-_Context: President, Hugo Chvez, exhumed, Simn Bolvar_
+_Context: Hugo Chvez, exhumed, President, Simn Bolvar_
 
 ##### Nigeria
 ### [Police in Nigeria seize the passports of four top football officials who were sacked after the national football team's poor performance at the 2010 FIFA World Cup leads to fraud allegations. ](/news/2010/07/16/police-in-nigeria-seize-the-passports-of-four-top-football-officials-who-were-sacked-after-the-national-football-team-s-poor-performance-at.md)

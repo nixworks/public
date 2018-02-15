@@ -9,7 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Abu Musab al-Zarqawi
 ### [ Abu Musab al-Zarqawi appears unmasked in a newly released video taunting the "crusade" by the American-led coalition and Iraqi authorities. At one point, he addresses U.S. President George W. Bush. ](/news/2006/04/25/abu-musab-al-zarqawi-appears-unmasked-in-a-newly-released-video-taunting-the-crusade-by-the-american-led-coalition-and-iraqi-authorities.md)
-_Context: George W. Bush, coalition, Abu Musab al-Zarqawi_
+_Context: Abu Musab al-Zarqawi, coalition, George W. Bush_
 
 ##### UN Security Council
 ### [ The UN Security Council votes to impose sanctions on four Sudanese citizens involved in the Darfur conflict: Maj.-Gen. Gaffar Mohamed Elhassan of the Sudanese Air Force; Sheikh Musa Hilal, paramount chief of the Jalul Janjaweed tribe in North Darfur; Commander Adam Yacub Shant of the Sudanese Liberation Army; and Commander Gabril Abdul Kareem Badri of the National Movement for Reform and Development. The vote marks the first time UN sanctions have been adopted against individuals involved in this conflict. ](/news/2006/04/25/the-un-security-council-votes-to-impose-sanctions-on-four-sudanese-citizens-involved-in-the-darfur-conflict-maj-gen-gaffar-mohamed-elhas.md)
@@ -21,7 +21,7 @@ The Philippines government has charged 49 people with rebellion over an alleged 
 
 ##### Communist Party
 ### [ The Communist Party of Vietnam announces at the closing of the Tenth National Congress that Nong Duc Manh will be re-appointed as its general secretary for another five-year term. Other key positions, such as those of prime minister and president, are yet to be appointed. New faces are expected. ](/news/2006/04/25/the-communist-party-of-vietnam-announces-at-the-closing-of-the-tenth-national-congress-that-na-ng-aa-c-c-mao-nh-will-be-re-appointed-as-its.md)
-_Context: Nong Duc Manh, general secretary, Tenth National Congress, Communist Party_
+_Context: Communist Party, Tenth National Congress, general secretary, Nong Duc Manh_
 
 ##### Darwin
 ### [ Darwin, Australia, is spared a projected direct hit by Cyclone Monica. ](/news/2006/04/25/darwin-australia-is-spared-a-projected-direct-hit-by-cyclone-monica.md)

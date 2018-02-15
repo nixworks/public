@@ -13,7 +13,7 @@ A top rebel commander in eastern Ukraine has been killed in a car bombing that r
 
 ##### Ukraine-United States relations
 ### [U.S. President Donald Trump and Ukrainian President Petro Poroshenko, in a telephone call, discuss strengthening the two countries' strategic partnership with particular attention to the conflict in the Donbass, a Ukrainian region that borders Russia. ](/news/2017/02/4/u-s-president-donald-trump-and-ukrainian-president-petro-poroshenko-in-a-telephone-call-discuss-strengthening-the-two-countries-strategi.md)
-_Context: War in Donbass, Ukrainian President, Russia, Donbass, U.S. President, Donald Trump, Ukraine-United States relations, Petro Poroshenko_
+_Context: Russia, Ukrainian President, U.S. President, Petro Poroshenko, War in Donbass, Donald Trump, Donbass, Ukraine-United States relations_
 
 ##### 2017 Romanian protests
 ### [Romanian Prime Minister Sorin Grindeanu announces that his government will scrap its proposed decree of decriminalizing some graft offenses on Sunday. ](/news/2017/02/4/romanian-prime-minister-sorin-grindeanu-announces-that-his-government-will-scrap-its-proposed-decree-of-decriminalizing-some-graft-offenses.md)

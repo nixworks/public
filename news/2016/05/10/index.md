@@ -37,7 +37,7 @@ A Baltimore police officer will be tried by a judge instead of a jury on charges
 
 ##### Philippine presidential election, 2016
 ### [Rodrigo Duterte continues to lead in the presidential race, while Leni Robredo leads Bongbong Marcos by a small margin in the vice presidential race. ](/news/2016/05/10/rodrigo-duterte-continues-to-lead-in-the-presidential-race-while-leni-robredo-leads-bongbong-marcos-by-a-small-margin-in-the-vice-president.md)
-_Context: Leni Robredo, Bongbong Marcos, Rodrigo Duterte, Philippine presidential election, 2016_
+_Context: Philippine presidential election, 2016, Leni Robredo, Bongbong Marcos, Rodrigo Duterte_
 
 ##### United States presidential election in West Virginia, 2016
 ### [Voters in the state of West Virginia head to the polls to vote in the Democratic and Republican presidential primaries. Voters in the state of Nebraska vote in the Republican presidential primary with Donald Trump just 169 delegates short of securing the nomination. ](/news/2016/05/10/voters-in-the-state-of-west-virginia-head-to-the-polls-to-vote-in-the-democratic-and-republican-presidential-primaries-voters-in-the-state.md)

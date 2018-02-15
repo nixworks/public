@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/08/6/president-jacob-zuma-names-sandile-ngcobo-as-chi
 
 ### [2009-08-6](/news/2009/08/6/index.md)
 
-##### President
+##### President of South Africa
 #  President Jacob Zuma names Sandile Ngcobo as Chief Justice of South Africa. 
 
 Will Judge Sandile Ngcobo be chief justice for just two years before giving way, perhaps to controversial Western Cape Judge President John Hlophe?
@@ -17,8 +17,8 @@ Will Judge Sandile Ngcobo be chief justice for just two years before giving way,
 
 ### Related:
 
-1. [ South African opposition parties call on President Jacob Zuma to withdraw Sandile Ngcobo as Chief Justice because he failed to consult the opposition and Judicial Service Committee. ](/news/2009/08/9/south-african-opposition-parties-call-on-president-jacob-zuma-to-withdraw-sandile-ngcobo-as-chief-justice-because-he-failed-to-consult-the.md) _Context: Chief Justice, Jacob Zuma, President, Sandile Ngcobo_
-2. [ The leaders of three South African opposition parties urge President Jacob Zuma to withdraw his statement on the nomination of Sandile Ngcobo to replace outgoing Chief Justice Pius Langa, calling it "unconstitutional". ](/news/2009/08/7/the-leaders-of-three-south-african-opposition-parties-urge-president-jacob-zuma-to-withdraw-his-statement-on-the-nomination-of-sandile-ngco.md) _Context: Chief Justice, Jacob Zuma, President, Sandile Ngcobo_
-3. [ In an open letter four South African opposition leaders accuse President Jacob Zuma of abuse of power after his naming of Sandile Ngcobo as Chief Justice. The office of President Jacob Zuma responds by saying there was "nothing unconstitutional" in Zuma's action. ](/news/2009/08/10/in-an-open-letter-four-south-african-opposition-leaders-accuse-president-jacob-zuma-of-abuse-of-power-after-his-naming-of-sandile-ngcobo-as.md) _Context: Chief Justice, Jacob Zuma, President, Sandile Ngcobo_
-4. [South Africa's ruling ANC party formally requests that President Jacob Zuma step down after he refused to resign. ](/news/2018/02/13/south-africa-s-ruling-anc-party-formally-requests-that-president-jacob-zuma-step-down-after-he-refused-to-resign.md) _Context: Jacob Zuma, President_
-5. [Thousands of delegates of the African National Congress gather in Johannesburg to elect a party leader, who may replace President Jacob Zuma before his term expires in 2019. ](/news/2017/12/16/thousands-of-delegates-of-the-african-national-congress-gather-in-johannesburg-to-elect-a-party-leader-who-may-replace-president-jacob-zuma.md) _Context: Jacob Zuma, President_
+1. [ South African opposition parties call on President Jacob Zuma to withdraw Sandile Ngcobo as Chief Justice because he failed to consult the opposition and Judicial Service Committee. ](/news/2009/08/9/south-african-opposition-parties-call-on-president-jacob-zuma-to-withdraw-sandile-ngcobo-as-chief-justice-because-he-failed-to-consult-the.md) _Context: Chief Justice, Jacob Zuma, President of South Africa, Sandile Ngcobo_
+2. [ The leaders of three South African opposition parties urge President Jacob Zuma to withdraw his statement on the nomination of Sandile Ngcobo to replace outgoing Chief Justice Pius Langa, calling it "unconstitutional". ](/news/2009/08/7/the-leaders-of-three-south-african-opposition-parties-urge-president-jacob-zuma-to-withdraw-his-statement-on-the-nomination-of-sandile-ngco.md) _Context: Chief Justice, Jacob Zuma, President of South Africa, Sandile Ngcobo_
+3. [ In an open letter four South African opposition leaders accuse President Jacob Zuma of abuse of power after his naming of Sandile Ngcobo as Chief Justice. The office of President Jacob Zuma responds by saying there was "nothing unconstitutional" in Zuma's action. ](/news/2009/08/10/in-an-open-letter-four-south-african-opposition-leaders-accuse-president-jacob-zuma-of-abuse-of-power-after-his-naming-of-sandile-ngcobo-as.md) _Context: Chief Justice, Jacob Zuma, President of South Africa, Sandile Ngcobo_
+4. [The President of South Africa, Jacob Zuma, resigns with immediate effect. ](/news/2018/02/14/the-president-of-south-africa-jacob-zuma-resigns-with-immediate-effect.md) _Context: Jacob Zuma, President of South Africa_
+5. [South Africa's ruling ANC party formally requests that President Jacob Zuma step down after he refused to resign. ](/news/2018/02/13/south-africa-s-ruling-anc-party-formally-requests-that-president-jacob-zuma-step-down-after-he-refused-to-resign.md) _Context: Jacob Zuma, President of South Africa_

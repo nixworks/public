@@ -5,7 +5,7 @@ Formats: [HTML](2010/12/11/index.html)  [JSON](2010/12/11/index.json)  [XML](201
 
 ##### New People's Army
 ### [Leftist New People's Army rebels capture a village official and tribal chieftain during an attack on a militia outpost in Davao City, southern Philippines. ](/news/2010/12/11/leftist-new-people-s-army-rebels-capture-a-village-official-and-tribal-chieftain-during-an-attack-on-a-militia-outpost-in-davao-city-southe.md)
-_Context: Philippines, Davao City, New People's Army_
+_Context: Davao City, New People's Army, Philippines_
 
 ##### Nazario Moreno Gonzalez
 ### [Nazario Moreno Gonzalez, the leader of the La Familia Michoacana drug cartel, is killed in a shootout with police in Michoacan, Mexico. ](/news/2010/12/11/nazario-moreno-gonza-lez-the-leader-of-the-la-familia-michoacana-drug-cartel-is-killed-in-a-shootout-with-police-in-michoaca-n-mexico.md)
@@ -13,7 +13,7 @@ Suspected drug lord Nazario Moreno was gunned down late on Thursday by security 
 
 ##### Car bombs explode
 ### [At least two car bombs explode in Stockholm, Sweden, killing at least one person and injuring two more. ](/news/2010/12/11/at-least-two-car-bombs-explode-in-stockholm-sweden-killing-at-least-one-person-and-injuring-two-more.md)
-_Context: Stockholm, car bombs explode, Sweden_
+_Context: Sweden, car bombs explode, Stockholm_
 
 ##### China
 ### [Inflation in China reaches a 28-month high, at 5.1%. ](/news/2010/12/11/inflation-in-china-reaches-a-28-month-high-at-5-1.md)
@@ -41,7 +41,7 @@ Delegates from 190 nations reach a deal to curb climate change, including a fund
 
 ##### Eric Holder
 ### [U.S. attorney-general Eric Holder tells a Muslim community group near San Francisco that FBI sting operations are "an essential law enforcement tool". ](/news/2010/12/11/u-s-attorney-general-eric-holder-tells-a-muslim-community-group-near-san-francisco-that-fbi-sting-operations-are-an-essential-law-enforcem.md)
-_Context: sting operation, Eric Holder, San Francisco, FBI_
+_Context: sting operation, San Francisco, Eric Holder, FBI_
 
 ##### Richard Holbrooke
 ### [U.S. envoy to Afghanistan and Pakistan Richard Holbrooke is hospitalised in a critically ill state in Washington, D.C., after gasping at a meeting with Hillary Clinton. ](/news/2010/12/11/u-s-envoy-to-afghanistan-and-pakistan-richard-holbrooke-is-hospitalised-in-a-critically-ill-state-in-washington-d-c-after-gasping-at-a-m.md)
@@ -73,7 +73,7 @@ President dismisses fears of civil war resumption following a poll he is widely 
 
 ##### Sudan People's Liberation Army/Movement
 ### [The ruling Sudan People's Liberation Army-Movement in Southern Sudan formally confirms that it will support secession from Sudan in a January 2011 independence referendum. ](/news/2010/12/11/the-ruling-sudan-people-s-liberation-army-movement-in-southern-sudan-formally-confirms-that-it-will-support-secession-from-sudan-in-a-januar.md)
-_Context: Sudan, Southern Sudanese Independence Referendum, Sudan People's Liberation Army/Movement, Southern Sudan, secession_
+_Context: secession, Southern Sudan, Southern Sudanese Independence Referendum, Sudan People's Liberation Army/Movement, Sudan_
 
 ##### Kosovo
 ### [Political parties in Kosovo cease campaigning ahead of the first parliamentary elections since independence from Serbia was declared in 2008. ](/news/2010/12/11/political-parties-in-kosovo-cease-campaigning-ahead-of-the-first-parliamentary-elections-since-independence-from-serbia-was-declared-in-2008.md)
@@ -81,7 +81,7 @@ _Context: Kosovan parliamentary election, Kosovo, Serbia_
 
 ##### Scottish Transport Minister
 ### [Scottish Transport Minister Stewart Stevenson resigns following severe criticism of his handling of the travel chaos caused in Scotland by recent extreme winter weather conditions. ](/news/2010/12/11/scottish-transport-minister-stewart-stevenson-resigns-following-severe-criticism-of-his-handling-of-the-travel-chaos-caused-in-scotland-by-r.md)
-_Context: extreme winter weather, Stewart Stevenson, Scottish Transport Minister_
+_Context: extreme winter weather, Scottish Transport Minister, Stewart Stevenson_
 
 ## [Previous Day...](/news/2010/12/10/index.md)
 

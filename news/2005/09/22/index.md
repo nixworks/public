@@ -5,7 +5,7 @@ Formats: [HTML](2005/09/22/index.html)  [JSON](2005/09/22/index.json)  [XML](200
 
 ##### Australia
 ### [ Australia agrees to fund Indonesia's response to avian influenza by providing anti-viral drugs to protect health workers in the event of a pandemic and contributing to a World Health Organisation team being sent to Jakarta. The Federal Opposition foreign affairs spokesman, Kevin Rudd, urged the Australian Government to further co-operate with regional states by calling for a regional summit on the issue. ](/news/2005/09/22/australia-agrees-to-fund-indonesia-s-response-to-avian-influenza-by-providing-anti-viral-drugs-to-protect-health-workers-in-the-event-of-a.md)
-_Context: Indonesia, Government of Australia, World Health Organisation, Jakarta, Opposition, avian influenza, Kevin Rudd, Australia_
+_Context: World Health Organisation, Government of Australia, Jakarta, Australia, avian influenza, Kevin Rudd, Opposition, Indonesia_
 
 ##### U.S. Senate Committee on the Judiciary
 ### [ The U.S. Senate Committee on the Judiciary votes 13 to 5 for the nomination of John Roberts as Chief Justice of the United States. The appointment needs approval of the entire Senate, and that vote is expected during the week of September 26.](/news/2005/09/22/the-u-s-senate-committee-on-the-judiciary-votes-13-to-5-for-the-nomination-of-john-roberts-as-chief-justice-of-the-united-states-the-appo.md)

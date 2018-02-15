@@ -5,15 +5,15 @@ Formats: [HTML](2009/11/10/index.html)  [JSON](2009/11/10/index.json)  [XML](200
 
 ##### Itaipu Dam
 ### [ A power failure at Itaipu causes a massive blackout, affecting 15 states of Brazil and, briefly, the entire country of Paraguay; chaos is reported in major cities such as So Paulo. ](/news/2009/11/10/a-power-failure-at-itaipu-causes-a-massive-blackout-affecting-15-states-of-brazil-and-briefly-the-entire-country-of-paraguay-chaos-is-r.md)
-_Context: Itaipu Dam, states, massive blackout, Paraguay, So Paulo, Brazil_
+_Context: states, massive blackout, So Paulo, Paraguay, Brazil, Itaipu Dam_
 
 ##### South Korea
 ### [ South and North Korean naval ships fire on one another after a North Korean ship crossed the disputed Northern Limit Line in the Yellow Sea. The vessel later returned "wrapped in flames" after the incident. ](/news/2009/11/10/south-and-north-korean-naval-ships-fire-on-one-another-after-a-north-korean-ship-crossed-the-disputed-northern-limit-line-in-the-yellow-sea.md)
-_Context: North Korea, Northern Limit Line, South Korea, Yellow Sea, fire on one another_
+_Context: fire on one another, North Korea, Northern Limit Line, South Korea, Yellow Sea_
 
 ##### Liberia
 ### [ Prosecutors begin cross examining former Liberian President Charles Taylor at his war crimes trial. ](/news/2009/11/10/prosecutors-begin-cross-examining-former-liberian-president-charles-taylor-at-his-war-crimes-trial.md)
-_Context: Charles Taylor, Liberia, President of Liberia_
+_Context: Charles Taylor, President of Liberia, Liberia_
 
 ##### Thailand
 ### [ Thailand's ousted Prime Minister Thaksin Shinawatra arrives in Cambodia to take up his new appointment as economic adviser to the Cambodian government. ](/news/2009/11/10/thailand-s-ousted-prime-minister-thaksin-shinawatra-arrives-in-cambodia-to-take-up-his-new-appointment-as-economic-adviser-to-the-cambodian.md)
@@ -25,7 +25,7 @@ KOALAS are rapidly vanishing from the Australian bush,and there may be as few as
 
 ##### President
 ### [ Former President of French Polynesia Gaston Flosse is arrested as part of a corruption investigation. ](/news/2009/11/10/former-president-of-french-polynesia-gaston-flosse-is-arrested-as-part-of-a-corruption-investigation.md)
-_Context: corruption, Gaston Flosse, President, French Polynesia_
+_Context: French Polynesia, corruption, Gaston Flosse, President_
 
 ## [Previous Day...](/news/2009/11/9/index.md)
 

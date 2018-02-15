@@ -13,11 +13,11 @@ _Context: Egypt, Cairo, Sinai Peninsula_
 
 ##### Ethiopia
 ### [At least nine students are killed in protests in Ethiopia's Oromia Region. ](/news/2014/05/2/at-least-nine-students-are-killed-in-protests-in-ethiopia-s-oromia-region.md)
-_Context: Oromia Region, Ethiopia_
+_Context: Ethiopia, Oromia Region_
 
 ##### China
 ### [Security tightens in the People's Republic of China after Wednesday's bombing at a train station left three dead and 79 injured. ](/news/2014/05/2/security-tightens-in-the-people-s-republic-of-china-after-wednesday-s-bombing-at-a-train-station-left-three-dead-and-79-injured.md)
-_Context: the attack, China_
+_Context: China, the attack_
 
 ##### Siege of Sloviansk
 ### [The Armed Forces of Ukraine launch a military operation against separatists in the city of Sloviansk with claims of many deaths and two Ukrainian Army helicopters downed. In the port city of Odessa, violent clashes kill at least 42 people, as pro-Ukrainians set the pro-Russian headquarters on fire. ](/news/2014/05/2/the-armed-forces-of-ukraine-launch-a-military-operation-against-separatists-in-the-city-of-sloviansk-with-claims-of-many-deaths-and-two-ukra.md)

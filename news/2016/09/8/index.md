@@ -13,7 +13,7 @@ An American flag that turned up in Washington state two years ago is believed to
 
 ##### Solly Msimanga
 ### [Solly Msimanga, newly elected Democratic Alliance mayor of Tshwane, South Africa, rejects a fleet of luxury cars for himself and instead donates it to the city's police. ](/news/2016/09/8/solly-msimanga-newly-elected-democratic-alliance-mayor-of-tshwane-south-africa-rejects-a-fleet-of-luxury-cars-for-himself-and-instead-don.md)
-_Context: Democratic Alliance, South Africa, luxury cars, Tshwane, Solly Msimanga_
+_Context: luxury cars, South Africa, Democratic Alliance, Tshwane, Solly Msimanga_
 
 ##### International banking company
 ### [International banking company Wells Fargo agrees to pay $190 million, including $100 million to the U.S. Consumer Financial Protection Bureau (largest ever for the agency), to settle a case involving deceptive sales that pushed customers into fee-generating accounts they never requested. The bank fired 5,300 employees over "inappropriate sales conduct." The firings took place over a five-year period. ](/news/2016/09/8/international-banking-company-wells-fargo-agrees-to-pay-190-million-including-100-million-to-the-u-s-consumer-financial-protection-burea.md)
@@ -81,7 +81,7 @@ _Context: Earth, wilderness_
 
 ##### Genus
 ### [Genetic tests show that the genus giraffa, previously thought to contain one extant species, actually consists of four. ](/news/2016/09/8/genetic-tests-show-that-the-genus-giraffa-previously-thought-to-contain-one-extant-species-actually-consists-of-four.md)
-_Context: giraffa, genus_
+_Context: genus, giraffa_
 
 ## [Previous Day...](/news/2016/09/7/index.md)
 

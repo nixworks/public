@@ -9,7 +9,7 @@ Channel NewsAsia - Breaking News, Asia-Pacific news coverage from Channel NewsAs
 
 ##### Israeli-Palestinian conflict
 ### [ Israeli-Palestinian conflict: Palestinian witnesses say that a missile fired from an Israeli helicopter destroyed a home in the Gaza Strip town of Jabaliya, killing a schoolteacher and wounding six others. ](/news/2004/10/10/israeli-palestinian-conflict-palestinian-witnesses-say-that-a-missile-fired-from-an-israeli-helicopter-destroyed-a-home-in-the-gaza-strip.md)
-_Context: schoolteacher, helicopter, Israel, witness, Palestinian, Gaza Strip, Israeli-Palestinian conflict, Jabaliya_
+_Context: Israel, Jabaliya, Israeli-Palestinian conflict, Gaza Strip, schoolteacher, witness, helicopter, Palestinian_
 
 ##### Somalia
 ### [ Somalia's transitional parliament elects Abdullahi Yusuf, a former army officer, interim president. He will be Somalia's first head of state since 1991, when tribal warlords overthrew the ruling military dictatorship. The election was held in Nairobi, Kenya, since the situation in Somalia remains dangerous. ](/news/2004/10/10/somalia-s-transitional-parliament-elects-abdullahi-yusuf-a-former-army-officer-interim-president-he-will-be-somalia-s-first-head-of-stat.md)
@@ -21,7 +21,7 @@ Read the latest national and world news on Newsday. All the top stores, latest v
 
 ##### 2004 Atlantic hurricane season
 ### [ 2004 Atlantic hurricane season: Tropical Storm Matthew floods southeastern Louisiana, dropping as much as 7&nbsp;inches (180 mm) of rain. ](/news/2004/10/10/2004-atlantic-hurricane-season-tropical-storm-matthew-floods-southeastern-louisiana-dropping-as-much-as-7-nbsp-inches-180-mm-of-rain.md)
-_Context: Louisiana, Tropical storm, Matthew, 2004 Atlantic hurricane season_
+_Context: Matthew, 2004 Atlantic hurricane season, Louisiana, Tropical storm_
 
 ## [Previous Day...](/news/2004/10/9/index.md)
 

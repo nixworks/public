@@ -3,17 +3,17 @@ Formats: [HTML](2009/03/10/index.html)  [JSON](2009/03/10/index.json)  [XML](200
 
 ## [2009-03-10](/news/2009/03/10/index.md)
 
-##### U.S.
+##### United States
 ### [ The United States Senate passes a US$410-billion omnibus spending bill. ](/news/2009/03/10/the-united-states-senate-passes-a-us-410-billion-omnibus-spending-bill.md)
-_Context: United States Senate, omnibus spending bill, $, U.S._
+_Context: omnibus spending bill, $, United States Senate, United States_
 
 ##### Shooting spree
 ### [ At least ten people are killed during a shooting spree in Geneva County, Alabama, United States. ](/news/2009/03/10/at-least-ten-people-are-killed-during-a-shooting-spree-in-geneva-county-alabama-united-states.md)
-_Context: shooting spree, Alabama, Geneva County, U.S._
+_Context: shooting spree, United States, Alabama, Geneva County_
 
 ##### Eurovision Song Contest
 ### [ The Eurovision Song Contest disallows Georgian pop group Stephane & 3G's "We Don't Wanna Put In." ](/news/2009/03/10/the-eurovision-song-contest-disallows-georgian-pop-group-stephane-3g-s-we-don-t-wanna-put-in.md)
-_Context: Stephane & 3G,  Georgian, pop, We Don't Wanna Put In, Eurovision Song Contest_
+_Context: Eurovision Song Contest,  Georgian, pop, We Don't Wanna Put In, Stephane & 3G_
 
 ##### Suicide attack
 ### [ A suicide attack kills 33 people in Baghdad, Iraq. ](/news/2009/03/10/a-suicide-attack-kills-33-people-in-baghdad-iraq.md)
@@ -25,11 +25,11 @@ Two man have been arrested amid widespread condemnation of the murder of a polic
 
 ##### Tibet Autonomous Region
 ### [ Tibet's Central Administration claims that China's accusations of the Dalai Lama's "genocide" are "fabricated." ](/news/2009/03/10/tibet-s-central-administration-claims-that-china-s-accusations-of-the-dalai-lama-s-genocide-are-fabricated.md)
-_Context: China, Tibet Autonomous Region, Central Tibetan Administration, genocide, Dalai Lama_
+_Context: Dalai Lama, Central Tibetan Administration, Tibet Autonomous Region, China, genocide_
 
 ##### China
 ### [ China disputes that its ships illegally harassed USNS "Impeccable" in the South China Sea. ](/news/2009/03/10/china-disputes-that-its-ships-illegally-harassed-usns-impeccable-in-the-south-china-sea.md)
-_Context: China, ''Impeccable'', ship, USNS, South China Sea_
+_Context: USNS, ''Impeccable'', China, South China Sea, ship_
 
 ##### North Korea
 ### [ North Korea readmits South Koreans into the Kaesong Industrial Region. ](/news/2009/03/10/north-korea-readmits-south-koreans-into-the-kaesong-industrial-region.md)

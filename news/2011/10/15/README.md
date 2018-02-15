@@ -5,23 +5,23 @@ Formats: [HTML](2011/10/15/index.html)  [JSON](2011/10/15/index.json)  [XML](201
 
 ##### 2011 Yemeni protests
 ### [2011 Yemeni protests: At least nine people are killed and dozens injured in the Yemeni capital Sana'a after security forces use tear gas and live ammunition to disperse anti-government protesters. ](/news/2011/10/15/2011-yemeni-protests-at-least-nine-people-are-killed-and-dozens-injured-in-the-yemeni-capital-sana-a-after-security-forces-use-tear-gas-and.md)
-_Context: Sana'a, tear gas, Yemen, 2011 Yemeni protests_
+_Context: Yemen, tear gas, 2011 Yemeni protests, Sana'a_
 
 ##### Yemen
 ### [Yemeni officials report that Ibrahim al-Banna, the media chief of Al-Qaeda in the Arabian Peninsula, has been killed along with six other militants in a Friday air strike in Yemen's Shabwa Governorate. ](/news/2011/10/15/yemeni-officials-report-that-ibrahim-al-banna-the-media-chief-of-al-qaeda-in-the-arabian-peninsula-has-been-killed-along-with-six-other-mi.md)
-_Context: al-Qaida, Yemen, Shabwa Governorate_
+_Context: Shabwa Governorate, al-Qaida, Yemen_
 
 ##### Afghan Army
 ### [Afghan and U.S. forces repel a Taliban raid on a NATO base in Afghanistan's Panjshir Province, reportedly killing four militants. ](/news/2011/10/15/afghan-and-u-s-forces-repel-a-taliban-raid-on-a-nato-base-in-afghanistan-s-panjshir-province-reportedly-killing-four-militants.md)
 Four militants are killed as their attack on a US base in the eastern Afghan region of Panjshir is repulsed.
 
-##### U.S.
+##### United States
 ### [The United States Department of Commerce reports that U.S. retail sales rose at their fastest rate for seven months in September, having risen by 1.1% over the previous month. ](/news/2011/10/15/the-united-states-department-of-commerce-reports-that-u-s-retail-sales-rose-at-their-fastest-rate-for-seven-months-in-september-having-ris.md)
 US retail sales rose by 1.1% in September, with vehicle sales showing the biggest gain, but grocery store sales fall.
 
 ##### Kinder Morgan
 ### [U.S. energy company Kinder Morgan agrees to buy natural gas exploration and pipeline company El Paso for $21.1 billion in cash and stock. ](/news/2011/10/15/u-s-energy-company-kinder-morgan-agrees-to-buy-natural-gas-exploration-and-pipeline-company-el-paso-for-21-1-billion-in-cash-and-stock.md)
-_Context: El Paso, natural gas, Kinder Morgan_
+_Context: natural gas, El Paso, Kinder Morgan_
 
 ##### Economic inequality
 ### [Activists affiliated with the Occupy Wall Street movement, which opposes economic inequality and corporate greed, take to the streets in numerous cities worldwide, including Sydney, Rome, Bucharest, Taipei, Tokyo, Toronto, Berlin, and Madrid, in a day of coordinated mass protests. ](/news/2011/10/15/activists-affiliated-with-the-occupy-wall-street-movement-which-opposes-economic-inequality-and-corporate-greed-take-to-the-streets-in-num.md)

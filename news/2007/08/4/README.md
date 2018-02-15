@@ -5,11 +5,11 @@ Formats: [HTML](2007/08/4/index.html)  [JSON](2007/08/4/index.json)  [XML](2007/
 
 ##### Natural gas
 ### [ A natural gas pipeline between Turkey and Greece is completed allowing gas to be sent from the Middle East to Europe. ](/news/2007/08/4/a-natural-gas-pipeline-between-turkey-and-greece-is-completed-allowing-gas-to-be-sent-from-the-middle-east-to-europe.md)
-_Context: Greece, Turkey, Europe, natural gas, Middle East_
+_Context: Turkey, natural gas, Middle East, Greece, Europe_
 
 ##### Outbreak of 2007
 ### [ An outbreak of foot-and-mouth disease in Surrey, England prompts the banning of exports of British livestock and other animal products. ](/news/2007/08/4/an-outbreak-of-foot-and-mouth-disease-in-surrey-england-prompts-the-banning-of-exports-of-british-livestock-and-other-animal-products.md)
-_Context: Surrey, foot-and-mouth disease, outbreak of 2007, England, livestock_
+_Context: outbreak of 2007, England, foot-and-mouth disease, livestock, Surrey_
 
 ##### United States soldier
 ### [Jesse Spielman - a United States Army soldier was given sentences of 110 years in prison in plea deals that spared him the death penalty for his role in the gang-rape and murder of an Iraqi girl and the mass murder of her family. ](/news/2007/08/4/jesse-spielman-a-a-united-states-army-soldier-was-given-sentences-of-110-years-in-prison-in-plea-deals-that-spared-him-the-death-penalty-f.md)
@@ -25,11 +25,11 @@ _Context: renewable energy, United States House of Representatives, energy_
 
 ##### The state
 ### [ A vehicle with Florida license plates driven by men of Middle Eastern origin is stopped by police in Goose Creek, South Carolina, and found to be carrying explosive devices. ](/news/2007/08/4/a-vehicle-with-florida-license-plates-driven-by-men-of-middle-eastern-origin-is-stopped-by-police-in-goose-creek-south-carolina-and-found.md)
-_Context: explosive devices, the state, Middle East, Goose Creek, South Carolina_
+_Context: Middle East, explosive devices, Goose Creek, South Carolina, the state_
 
 ##### United States House of Representatives
 ### [ The United States House of Representatives approves legislation expanding the United States Government's ability to conduct surveillance without a court order on foreign terrorism suspects. ](/news/2007/08/4/the-united-states-house-of-representatives-approves-legislation-expanding-the-united-states-government-s-ability-to-conduct-surveillance-wi.md)
-_Context: terrorism, United States House of Representatives, United States Government_
+_Context: United States Government, United States House of Representatives, terrorism_
 
 ##### Brazil
 ### [ Brazilian Defense Minister Nelson Jobim fires the head of the Brazilian airports authority, Jose Carlos Pereira for recent problems including the crash of TAM Linhas Aereas Flight 3054 and hires Sergio Gaudenzi, the President of the Brazilian Space Agency. ](/news/2007/08/4/brazilian-defense-minister-nelson-jobim-fires-the-head-of-the-brazilian-airports-authority-josa-c-carlos-pereira-for-recent-problems-includ.md)
@@ -37,19 +37,19 @@ The political fallout from the worst plane crash in Brazilian history continued 
 
 ##### San Francisco Giants
 ### [ San Francisco Giants outfielder Barry Bonds ties Hank Aaron for most career home runs with 755, while Alex Rodriguez becomes the youngest player to hit 500 home runs in Major League Baseball. ](/news/2007/08/4/san-francisco-giants-outfielder-barry-bonds-ties-hank-aaron-for-most-career-home-runs-with-755-while-alex-rodriguez-becomes-the-youngest-p.md)
-_Context: San Francisco Giants, home run, Major League Baseball, Alex Rodriguez, Hank Aaron, Barry Bonds_
+_Context: Barry Bonds, home run, Hank Aaron, Major League Baseball, San Francisco Giants, Alex Rodriguez_
 
 ##### Oakland, California
 ### [ Oakland police claim that a 19-year-old man has confessed to the murder of Chauncey Bailey, the editor of "The Oakland Post". ](/news/2007/08/4/oakland-police-claim-that-a-19-year-old-man-has-confessed-to-the-murder-of-chauncey-bailey-the-editor-of-the-oakland-post.md)
-_Context: Oakland, California, The Oakland Post, Chauncey Bailey, police_
+_Context: The Oakland Post, police, Oakland, California, Chauncey Bailey_
 
-##### U.S.
+##### United States
 ### [ United States forces claim that they have killed Haitham al-Badri, the leader of al-Qaeda in Salahuddin province in Iraq and believed to be the man responsible for the bombing of the Al-Askari Mosque in Samarra in June. ](/news/2007/08/4/united-states-forces-claim-that-they-have-killed-haitham-al-badri-the-leader-of-al-qaeda-in-salahuddin-province-in-iraq-and-believed-to-be.md)
-_Context: Salahuddin province, U.S., Haitham al-Badri, Al-Askari Mosque, Samarra, al-Qaeda, Iraq_
+_Context: al-Qaeda, Samarra, Iraq, Al-Askari Mosque, Salahuddin province, United States, Haitham al-Badri_
 
 ##### NASA
 ### [ NASA launches the Phoenix Mars Lander which is due to land in Planum Boreum on the Martian northern ice cap next year. ](/news/2007/08/4/nasa-launches-the-phoenix-mars-lander-which-is-due-to-land-in-planum-boreum-on-the-martian-northern-ice-cap-next-year.md)
-_Context: Martian, Phoenix Mars Lander, NASA, Planum Boreum_
+_Context: Martian, NASA, Planum Boreum, Phoenix Mars Lander_
 
 ##### Prime Minister
 ### [ The Prime Minister of the United Kingdom Gordon Brown holds an emergency COBRA cabinet meeting to discuss an outbreak of foot and mouth disease on a farm in Surrey, England. The foot and mouth strain has been identified as a rare strain used at the nearby Institute for Animal Health at Pirbright. ](/news/2007/08/4/the-prime-minister-of-the-united-kingdom-gordon-brown-holds-an-emergency-cobra-cabinet-meeting-to-discuss-an-outbreak-of-foot-and-mouth-dis.md)
@@ -57,11 +57,11 @@ Britain tried to contain an outbreak of highly infectious foot and mouth on Satu
 
 ##### 2007 South Asian floods
 ### [ 2007 South Asian floods: The Ganges River system will come under further strain from monsoon floods as 20 million are homeless in Nepal, India and Bangladesh. Almost 200 people have died. ](/news/2007/08/4/2007-south-asian-floods-the-ganges-river-system-will-come-under-further-strain-from-monsoon-floods-as-20-million-are-homeless-in-nepal-in.md)
-_Context: flood, monsoon, Bangladesh, India, Nepal, Ganges River, 2007 South Asian floods_
+_Context: India, Nepal, 2007 South Asian floods, monsoon, Ganges River, Bangladesh, flood_
 
 ##### Taliban
 ### [ Ten pro-Taliban militants and four Pakistan Army soldiers are killed in a clash in North Waziristan near the Afghanistan border. In another incident, a suicide car bomber kills six in Parachinar, North West Frontier Province in Pakistan. ](/news/2007/08/4/ten-pro-taliban-militants-and-four-pakistan-army-soldiers-are-killed-in-a-clash-in-north-waziristan-near-the-afghanistan-border-in-another.md)
-_Context: Northwestern Pakistan, Pakistan Army, Parachinar, Taliban, Afghanistan, soldier, Waziristan_
+_Context: soldier, Taliban, Afghanistan, Parachinar, Waziristan, Pakistan Army, Northwestern Pakistan_
 
 ## [Previous Day...](/news/2007/08/3/index.md)
 

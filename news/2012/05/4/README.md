@@ -13,11 +13,11 @@ At least 144 people are injured at a political event in the Armenia capital afte
 
 ##### Suicide bomb
 ### [At least eleven people are killed in a suicide bombing attack in a crowded market in Pakistan's Bajaur Agency. ](/news/2012/05/4/at-least-eleven-people-are-killed-in-a-suicide-bombing-attack-in-a-crowded-market-in-pakistan-s-bajaur-agency.md)
-_Context: Pakistan, suicide bomb, Bajaur_
+_Context: Bajaur, suicide bomb, Pakistan_
 
 ##### Mexican Drug War
 ### [23 bodies--14 of them decapitated and 9 of them hanged from a bridge--are found in the Mexican city of Nuevo Laredo; those killed were reportedly members of the Gulf Cartel who were killed by Los Zetas, a rival cartel. ](/news/2012/05/4/23-bodiesa14-of-them-decapitated-and-9-of-them-hanged-from-a-bridgeaare-found-in-the-mexican-city-of-nuevo-laredo-those-killed-were-rep.md)
-_Context: Zetas, Mexican Drug War, Nuevo Laredo, Gulf Cartel_
+_Context: Gulf Cartel, Mexican Drug War, Nuevo Laredo, Zetas_
 
 ##### Adam Yauch
 ### [Adam Yauch, founding member of the influential hip hop group the Beastie Boys, dies aged 47. ](/news/2012/05/4/adam-yauch-founding-member-of-the-influential-hip-hop-group-the-beastie-boys-dies-aged-47.md)
@@ -45,11 +45,11 @@ The government will consult on new measures to protect children from internet po
 
 ##### Khalid Sheikh Mohammed
 ### [The trial of Khalid Sheikh Mohammed, the accused mastermind of the September 11, 2001 terrorist attacks, starts at the Guantanamo Bay detention camp. ](/news/2012/05/4/the-trial-of-khalid-sheikh-mohammed-the-accused-mastermind-of-the-september-11-2001-terrorist-attacks-starts-at-the-guantanamo-bay-detent.md)
-_Context: detainee, September 11 attacks, Khalid Sheikh Mohammed_
+_Context: detainee, Khalid Sheikh Mohammed, September 11 attacks_
 
 ##### Tanzania
 ### [Tanzania's President Jakaya Kikwete sacks six ministers amid allegations of government corruption. ](/news/2012/05/4/tanzania-s-president-jakaya-kikwete-sacks-six-ministers-amid-allegations-of-government-corruption.md)
-_Context: Tanzania, Jakaya Kikwete_
+_Context: Jakaya Kikwete, Tanzania_
 
 ##### Iran
 ### [Voters in Iran go to the polls for the second round of legislative elections. ](/news/2012/05/4/voters-in-iran-go-to-the-polls-for-the-second-round-of-legislative-elections.md)

@@ -15,9 +15,9 @@ Chart-topping act Westlife are to split &#039;&#039;amicably&#039;&#039; after 1
 ### [Google unveils the latest version of its Android mobile operating system, 4.0 (code named Ice Cream Sandwich), along with the Galaxy Nexus, its newest flagship smartphone. ](/news/2011/10/19/google-unveils-the-latest-version-of-its-android-mobile-operating-system-4-0-code-named-ice-cream-sandwich-along-with-the-galaxy-nexus.md)
 Google has unveiled its latest flagship phone, the Galaxy Nexus, and its latest Android software, Ice Cream Sandwich
 
-##### U.S.
+##### United States
 ### [The United States' largest bank, Bank of America, is surpassed by JPMorgan Chase in total assets, according to Bank of America's quarterly financial earnings report. ](/news/2011/10/19/the-united-states-largest-bank-bank-of-america-is-surpassed-by-jpmorgan-chase-in-total-assets-according-to-bank-of-america-s-quarterly-f.md)
-_Context: JPMorgan Chase, Bank of America, U.S._
+_Context: United States, JPMorgan Chase, Bank of America_
 
 ##### American Airlines
 ### [The parent of American Airlines, AMR, reports a larger third-quarter loss than expected, due to the cost of aviation fuel and the volatility of foreign exchange. ](/news/2011/10/19/the-parent-of-american-airlines-amr-reports-a-larger-third-quarter-loss-than-expected-due-to-the-cost-of-aviation-fuel-and-the-volatility.md)
@@ -25,7 +25,7 @@ American Airlines, struggling to regain financial footing relative to stronger r
 
 ##### Bangkok
 ### [Floodwaters threaten the Thai capital of Bangkok as the 2011 Thai floods - which have killed 317 people and affected nearly nine million in Thailand since August - continue unabated. ](/news/2011/10/19/floodwaters-threaten-the-thai-capital-of-bangkok-as-the-2011-thai-floods-which-have-killed-317-people-and-affected-nearly-nine-million-in.md)
-_Context: Bangkok, Thailand, 2011 Thai floods_
+_Context: 2011 Thai floods, Thailand, Bangkok_
 
 ##### Elizabeth II
 ### [Queen Elizabeth II commences her 16th visit to Australia in the capital Canberra. ](/news/2011/10/19/queen-elizabeth-ii-commences-her-16th-visit-to-australia-in-the-capital-canberra.md)
@@ -33,7 +33,7 @@ The Queen will arrive in Canberra today for what may be her last official tour o
 
 ##### South Korean President
 ### [The President of South Korea, Lee Myung-bak, meets with the Prime Minister of Japan, Yoshihiko Noda, in Seoul. ](/news/2011/10/19/the-president-of-south-korea-lee-myung-bak-meets-with-the-prime-minister-of-japan-yoshihiko-noda-in-seoul.md)
-_Context: Lee Myung-bak, Yoshihiko Noda, Seoul, South Korean President, Prime Minister of Japan_
+_Context: South Korean President, Lee Myung-bak, Prime Minister of Japan, Yoshihiko Noda, Seoul_
 
 ##### Exotic animal
 ### [56 animals are intentionally released by their owner from an exotic animal farm in Muskingum County, Ohio. The owner subsequently commits suicide. ](/news/2011/10/19/56-animals-are-intentionally-released-by-their-owner-from-an-exotic-animal-farm-in-muskingum-county-ohio-the-owner-subsequently-commits-su.md)

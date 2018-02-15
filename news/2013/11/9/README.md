@@ -13,7 +13,7 @@ Five members of theNigerian Islamist sect Boko Haram and two soldiers were kille
 
 ##### Venezuelan
 ### [Venezuelan television presenter Mara Gabriela Isler is crowned Miss Universe 2013 in Moscow, Russia. ](/news/2013/11/9/venezuelan-television-presenter-maria-gabriela-isler-is-crowned-miss-universe-2013-in-moscow-russia.md)
-_Context: Mara Gabriela Isler, Venezuelan, Miss Universe 2013, Russia, Moscow_
+_Context: Moscow, Miss Universe 2013, Mara Gabriela Isler, Russia, Venezuelan_
 
 ##### Philippines
 ### [Philippines: The Red Cross says that 10,000 people are confirmed dead. It reported that at least 1,000 had been killed in Tacloban and 200 in Samar province. ](/news/2013/11/9/philippines-the-red-cross-says-that-10-000-people-are-confirmed-dead-it-reported-that-at-least-1-000-had-been-killed-in-tacloban-and-200-i.md)

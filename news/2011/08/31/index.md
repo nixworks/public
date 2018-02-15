@@ -9,7 +9,7 @@ Evidence mounts that Libyan despot lied when he told the world a 1986 U.S. air s
 
 ##### Syrian Army
 ### [Syrian Army troops reportedly raid neighbourhoods in the town of Hama looking for anti-government activists. ](/news/2011/08/31/syrian-army-troops-reportedly-raid-neighbourhoods-in-the-town-of-hama-looking-for-anti-government-activists.md)
-_Context: Hama, Syrian Army_
+_Context: Syrian Army, Hama_
 
 ##### 68th Venice International Film Festival
 ### [The 68th Venice International Film Festival gets underway in Venice, Italy. ](/news/2011/08/31/the-68th-venice-international-film-festival-gets-underway-in-venice-italy.md)
@@ -21,19 +21,19 @@ Exxon Mobil Corp. and OAO Rosneft, Russia’s biggest oil producer, will announc
 
 ##### United States Justice Department
 ### [The United States Justice Department files an antitrust lawsuit to prevent AT&T from taking over T-Mobile USA. ](/news/2011/08/31/the-united-states-justice-department-files-an-antitrust-lawsuit-to-prevent-at-t-from-taking-over-t-mobile-usa.md)
-_Context: reduced competition and higher prices, AT&T, United States Justice Department, T-Mobile USA_
+_Context: T-Mobile USA, reduced competition and higher prices, AT&T, United States Justice Department_
 
 ##### Wildfire
 ### [Wildfires severely damage homes and infrastructure in the US states of Texas and Oklahoma. ](/news/2011/08/31/wildfires-severely-damage-homes-and-infrastructure-in-the-us-states-of-texas-and-oklahoma.md)
-_Context: Oklahoma, Texas, Wildfire_
+_Context: Wildfire, Oklahoma, Texas_
 
 ##### Hurricane Katia
 ### [Hurricane Katia becomes the second hurricane of the 2011 Atlantic hurricane season. ](/news/2011/08/31/hurricane-katia-becomes-the-second-hurricane-of-the-2011-atlantic-hurricane-season.md)
-_Context: Hurricane Katia, Hurricane Rina, hurricane_
+_Context: hurricane, Hurricane Rina, Hurricane Katia_
 
 ##### High Court of Australia
 ### [The High Court of Australia rules against plans by the government of Australia to send 800 asylum seekers to Malaysia. ](/news/2011/08/31/the-high-court-of-australia-rules-against-plans-by-the-government-of-australia-to-send-800-asylum-seekers-to-malaysia.md)
-_Context: government of Australia, Malaysia, asylum seeker, High Court of Australia_
+_Context: Malaysia, High Court of Australia, government of Australia, asylum seeker_
 
 ## [Previous Day...](/news/2011/08/30/index.md)
 

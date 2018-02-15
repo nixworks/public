@@ -5,7 +5,7 @@ Formats: [HTML](2006/03/13/index.html)  [JSON](2006/03/13/index.json)  [XML](200
 
 ##### Tony Blair
 ### [ A cash-for-honours scandal has erupted around UK Prime Minister Tony Blair. A millionaire donor has revealed that Labour fundraisers had arranged secret loans from businessmen who were then nominated for peerages. ](/news/2006/03/13/a-cash-for-honours-scandal-has-erupted-around-uk-prime-minister-tony-blair-a-millionaire-donor-has-revealed-that-labour-fundraisers-had-ar.md)
-_Context: Tony Blair, Labour Party_
+_Context: Labour Party, Tony Blair_
 
 ##### U.S.  National Oceanic and Atmospheric Administration
 ### [ U.S. climate scientists working for the National Oceanic and Atmospheric Administration have recorded a significant rise in the concentration of carbon dioxide in the atmosphere, pushing it to a new record level. ](/news/2006/03/13/u-s-climate-scientists-working-for-the-national-oceanic-and-atmospheric-administration-have-recorded-a-significant-rise-in-the-concentrati.md)
@@ -17,15 +17,15 @@ _Context: Baltic Sea, Estonia_
 
 ##### Zacarias Moussaoui
 ### [ The judge in the trial of Zacarias Moussaoui is considering throwing out the death penalty as an option after lawyers from the Federal Aviation Administration coached four government witnesses. ](/news/2006/03/13/the-judge-in-the-trial-of-zacarias-moussaoui-is-considering-throwing-out-the-death-penalty-as-an-option-after-lawyers-from-the-federal-avia.md)
-_Context: Zacarias Moussaoui, Federal Aviation Administration, sentenced to death_
+_Context: Zacarias Moussaoui, sentenced to death, Federal Aviation Administration_
 
 ##### Merck KGaA
 ### [ German drug and chemical manufacturer Merck KGaA announces plans to buy Schering in a merger of EUR14.6 billion. Merck and Schering would become Germany's largest pharmaceutical company.&nbsp;- ](/news/2006/03/13/german-drug-and-chemical-manufacturer-merck-kgaa-announces-plans-to-buy-schering-in-a-merger-of-a-14-6-billion-merck-and-schering-would-b.md)
-_Context: Schering, Merck KGaA, pharmaceutical companies_
+_Context: Merck KGaA, pharmaceutical companies, Schering_
 
 ##### Metropolitan Police Service
 ### [ London Metropolitan Police chief Sir Ian Blair admits secretly recording conversations with the Attorney General Lord Goldsmith, an act that could lead to a civil legal proceedings if the other party has not granted permission for conversations to be taped. ](/news/2006/03/13/london-metropolitan-police-chief-sir-ian-blair-admits-secretly-recording-conversations-with-the-attorney-general-lord-goldsmith-an-act-tha.md)
-_Context: Lord Goldsmith, Attorney General for England and Wales, Metropolitan Police Service, Sir Ian Blair_
+_Context: Attorney General for England and Wales, Lord Goldsmith, Sir Ian Blair, Metropolitan Police Service_
 
 ## [Previous Day...](/news/2006/03/12/index.md)
 

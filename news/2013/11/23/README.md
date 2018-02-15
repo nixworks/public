@@ -33,7 +33,7 @@ _Context: several world powers, nuclear program_
 
 ##### Egypt
 ### [Egypt expels the Turkish ambassador, citing "interference". ](/news/2013/11/23/egypt-expels-the-turkish-ambassador-citing-interference.md)
-_Context: expels, Turkey, Egypt_
+_Context: expels, Egypt, Turkey_
 
 ## [Previous Day...](/news/2013/11/22/index.md)
 

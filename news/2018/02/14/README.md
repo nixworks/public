@@ -4,15 +4,15 @@ Formats: [HTML](2018/02/14/index.html)  [JSON](2018/02/14/index.json)  [XML](201
 ## [2018-02-14](/news/2018/02/14/index.md)
 
 ##### Marjory Stoneman Douglas High School shooting
-### [At least 17 people are killed and 20 wounded in a school shooting in Parkland, Florida. The suspected shooter is apprehended and identified as 19-year-old former student Nikolas Cruz. ](/news/2018/02/14/at-least-17-people-are-killed-and-20-wounded-in-a-school-shooting-in-parkland-florida-the-suspected-shooter-is-apprehended-and-identified.md)
-_Context: Parkland, Florida, Marjory Stoneman Douglas High School shooting_
+### [At least 17 people are killed and around 15 wounded in a school shooting in Parkland, Florida. The suspected shooter is apprehended and identified as 19-year-old former student Nikolas de Jesus Cruz. ](/news/2018/02/14/at-least-17-people-are-killed-and-around-15-wounded-in-a-school-shooting-in-parkland-florida-the-suspected-shooter-is-apprehended-and-iden.md)
+_Context: school shooting, Marjory Stoneman Douglas High School shooting, Parkland, Florida_
 
 ##### Economy of the European Union
-### [Eurozone GDP rises by 2.5% in 2017, a pace not seen since 2007 and industrial production is up 5.2% year-on-year. The production of durable consumer goods is up 7.4% and capital goods, indicating investments, are up 7.6%. ](/news/2018/02/14/eurozone-gdp-rises-by-2-5-in-2017-a-pace-not-seen-since-2007-and-industrial-production-is-up-5-2-year-on-year-the-production-of-durable.md)
+### [Eurozone GDP rises by 2.5% in 2017, a pace not seen since 2007, and industrial production is up 5.2% year-on-year. The production of durable consumer goods is up 7.4% and capital goods, indicating investments, are up 7.6%. ](/news/2018/02/14/eurozone-gdp-rises-by-2-5-in-2017-a-pace-not-seen-since-2007-and-industrial-production-is-up-5-2-year-on-year-the-production-of-durable.md)
 BRUSSELS: Eurozone industrial production jumped more than expected in December, data from the EU statistics office Eurostat showed on Wednesday, underlining the fastest economic growth rate in a decade that economists expect to continue in 2018. Eurostat said industrial production in the 19 countrie...
 
-##### National Security Agency
-### [A car accident at the headquarters of the United States National Security Agency injures three people. Police officers shoot at the driver, who they think is attacking the building. ](/news/2018/02/14/a-car-accident-at-the-headquarters-of-the-united-states-national-security-agency-injures-three-people-police-officers-shoot-at-the-driver.md)
+##### United States
+### [A car accident at the headquarters of the United States National Security Agency injures three people. Police officers shoot at the driver, who they say was attempting to attack the building. ](/news/2018/02/14/a-car-accident-at-the-headquarters-of-the-united-states-national-security-agency-injures-three-people-police-officers-shoot-at-the-driver.md)
 NSA said situation is &quot;under control&quot;
 
 ##### Crime in South Africa
@@ -20,7 +20,7 @@ NSA said situation is &quot;under control&quot;
 One of the three Gupta brothers linked to embattled President Zuma is reportedly arrested.
 
 ##### 2017-18 United States political sexual scandals
-### [Michael D. Cohen, the private lawyer of U.S. President Donald Trump, says he made a "lawful" $130,000 payment to porn star Stephanie Clifford, aka Stormy Daniels, from his own private funds. The statement to the "New York Times" comes after the Common Cause organization on 22 January 2018 filed a complaint about the payment with the Federal Election Commission. ](/news/2018/02/14/michael-d-cohen-the-private-lawyer-of-u-s-president-donald-trump-says-he-made-a-lawful-130-000-payment-to-porn-star-stephanie-cliffor.md)
+### [Michael D. Cohen, the private lawyer of U.S. President Donald Trump, says he made a "lawful" US$130,000 payment to porn star Stephanie Clifford, aka Stormy Daniels, from his own private funds. The statement to "the New York Times" comes after the Common Cause organization on January 22, 2018, filed a complaint about the payment with the Federal Election Commission. ](/news/2018/02/14/michael-d-cohen-the-private-lawyer-of-u-s-president-donald-trump-says-he-made-a-lawful-us-130-000-payment-to-porn-star-stephanie-cliff.md)
 President Trump&rsquo;s longtime personal lawyer Michael Cohen has acknowledged using his private funds shortly before the 2016 election to pay $130,000 to a porn actress who had once claimed to have had an affair with Trump. &ldquo;In a private transaction in 2016, I used my own personal funds to f...
 
 ##### Crime in Pakistan
@@ -37,7 +37,7 @@ French police have found the remains of an eight-year-old French girl who vanish
 
 ##### Ukrainian crisis
 ### [Mikheil Saakashvili, leader of the opposition Movement of New Forces party, who was deported from Ukraine to Poland, relocates to the Netherlands. ](/news/2018/02/14/mikheil-saakashvili-leader-of-the-opposition-movement-of-new-forces-party-who-was-deported-from-ukraine-to-poland-relocates-to-the-nether.md)
-_Context: Poland, Movement of New Forces, Mikheil Saakashvili, Ukrainian crisis, Ukraine, Netherlands_
+_Context: Mikheil Saakashvili, Ukraine, Poland, Ukrainian crisis, Movement of New Forces, Netherlands_
 
 ##### Politics of South Africa
 ### [The President of South Africa, Jacob Zuma, resigns with immediate effect. ](/news/2018/02/14/the-president-of-south-africa-jacob-zuma-resigns-with-immediate-effect.md)

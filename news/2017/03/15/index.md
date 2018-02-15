@@ -21,11 +21,11 @@ Rescuers find a fourth person missing in the Austrian Alps after a large avalanc
 
 ##### Dutch general election, 2017
 ### [Voters in the Netherlands go to the polls for a general election. Exit polls suggest that incumbent Prime Minister Mark Rutte's People's Party for Freedom and Democracy will win the most seats in the election. ](/news/2017/03/15/voters-in-the-netherlands-go-to-the-polls-for-a-general-election-exit-polls-suggest-that-incumbent-prime-minister-mark-rutte-s-people-s-par.md)
-_Context: Mark Rutte, VVD, Dutch general election, 2017, Prime Minister, Exit poll, Netherlands_
+_Context: Exit poll, Prime Minister, VVD, Netherlands, Mark Rutte, Dutch general election, 2017_
 
 ##### United States immigration ban
 ### [A U.S. federal judge in Hawaii, finding the revised federal immigration-refugee executive order violates the U.S. Constitution's religious establishment clause, grants the state of Hawaii's motion for a nationwide temporary restraining order on these rules that were set to become effective at midnight. President Donald Trump vows to appeal this ruling. Two other federal courts held hearings on similar requests filed by the states of Maryland and Washington; neither of these judges issued a ruling. ](/news/2017/03/15/a-u-s-federal-judge-in-hawaii-finding-the-revised-federal-immigration-refugee-executive-order-violates-the-u-s-constitution-s-religious-e.md)
-_Context: Washington, United States immigration ban, Donald Trump, Maryland, Hawaii, religious establishment clause_
+_Context: Maryland, Hawaii, Washington, United States immigration ban, Donald Trump, religious establishment clause_
 
 ## [Previous Day...](/news/2017/03/14/index.md)
 

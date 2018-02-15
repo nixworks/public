@@ -5,11 +5,11 @@ Formats: [HTML](2005/07/4/index.html)  [JSON](2005/07/4/index.json)  [XML](2005/
 
 ##### Institutional Revolutionary Party
 ### [ The Mexican Institutional Revolutionary Party (PRI), the country's current opposition party that ruled for over 70 years, has claimed victory in elections for the governor of the country's most populated state, Mexico. ](/news/2005/07/4/the-mexican-institutional-revolutionary-party-pri-the-country-s-current-opposition-party-that-ruled-for-over-70-years-has-claimed-victo.md)
-_Context: Institutional Revolutionary Party, Mexico_
+_Context: Mexico, Institutional Revolutionary Party_
 
 ##### Elections in Burundi
 ### [ Elections in Burundi for the National Assembly begin under tight security. The voters will elect the first democratic government after the civil war. The vote is expected to favor the Hutu group Forces for the Defence of Democracy. The Hutu Forces for National Liberation are the only group that have not laid down their arms. ](/news/2005/07/4/elections-in-burundi-for-the-national-assembly-begin-under-tight-security-the-voters-will-elect-the-first-democratic-government-after-the.md)
-_Context: National Assembly, Forces for the Defence of Democracy, Elections in Burundi, Hutu, Hutu Forces for National Liberation_
+_Context: Elections in Burundi, Forces for the Defence of Democracy, Hutu Forces for National Liberation, National Assembly, Hutu_
 
 ##### NASA
 ### [ The impactor of NASA probe Deep Impact successfully strikes comet Tempel 1. ](/news/2005/07/4/the-impactor-of-nasa-probe-deep-impact-successfully-strikes-comet-tempel-1.md)
@@ -25,11 +25,11 @@ _Context: Jurez drug cartel, Vicente Carrillo Fuentes_
 
 ##### Philippines
 ### [ In the Philippines, president Gloria Arroyo states that she would welcome impeachment proceedings as an opportunity to refute allegations about vote-rigging. The military has expressed its support of the president amid rumors of a coup. ](/news/2005/07/4/in-the-philippines-president-gloria-arroyo-states-that-she-would-welcome-impeachment-proceedings-as-an-opportunity-to-refute-allegations-a.md)
-_Context: Gloria Arroyo, impeachment, Philippines, coup_
+_Context: coup, Gloria Arroyo, impeachment, Philippines_
 
 ##### Israel
 ### [ In Israel, president Moshe Katsav states that he is worried about a possible assassination plot against Prime Minister of Israel Ariel Sharon. ](/news/2005/07/4/in-israel-president-moshe-katsav-states-that-he-is-worried-about-a-possible-assassination-plot-against-prime-minister-of-israel-ariel-shar.md)
-_Context: assassination, Ariel Sharon, Israel, Israeli Prime Minister, Moshe Katsav_
+_Context: Moshe Katsav, Israel, Ariel Sharon, assassination, Israeli Prime Minister_
 
 ##### Legitimate
 ### [ France abolishes the legal differences between legitimate and illegitimate children. The decree will take effect July 2006. ](/news/2005/07/4/france-abolishes-the-legal-differences-between-legitimate-and-illegitimate-children-the-decree-will-take-effect-july-2006.md)
@@ -41,7 +41,7 @@ _Context: Malaysia, Sky Kingdom_
 
 ##### Sri Lanka
 ### [ In Sri Lanka, five men receive the death sentence for the assassination of judge Sarath Ambepitiya last November. ](/news/2005/07/4/in-sri-lanka-five-men-receive-the-death-sentence-for-the-assassination-of-judge-sarath-ambepitiya-last-november.md)
-_Context: assassination, Sarath Ambepitiya, Sri Lanka, death sentence_
+_Context: death sentence, assassination, Sarath Ambepitiya, Sri Lanka_
 
 ## [Previous Day...](/news/2005/07/3/index.md)
 

@@ -13,7 +13,7 @@ Five soldiers were killed and two others were wounded yesterday during pursuit o
 
 ##### Qatar
 ### [Eight people are dead after a suicide bomber rams an explosive-laden car into a convoy carrying Qatari officials through the center of Somalia's capital Mogadishu. Al-Shabaab claims responsibility for the attack. ](/news/2013/05/5/eight-people-are-dead-after-a-suicide-bomber-rams-an-explosive-laden-car-into-a-convoy-carrying-qatari-officials-through-the-center-of-somal.md)
-_Context: Qatar, Mogadishu, Somalia, Al-Shabaab_
+_Context: Mogadishu, Qatar, Somalia, Al-Shabaab_
 
 ##### Hefajat-e-Islam
 ### [Three people are dead and over 200 are injured when Hefajat-e-Islam and Jamaat-e-Islami clash with police in Dhaka, Bangladesh. ](/news/2013/05/5/three-people-are-dead-and-over-200-are-injured-when-hefajat-e-islam-and-jamaat-e-islami-clash-with-police-in-dhaka-bangladesh.md)
@@ -29,11 +29,11 @@ _Context: Adamawa State, Nigeria_
 
 ##### Limousine
 ### [A limousine catches fire on the San Mateo Bridge in Hayward, California, United States killing five women and injuring four trapped inside. ](/news/2013/05/5/a-limousine-catches-fire-on-the-san-mateo-bridge-in-hayward-california-united-states-killing-five-women-and-injuring-four-trapped-inside.md)
-_Context: limousine, U.S., San Mateo Bridge, Hayward, California_
+_Context: Hayward, limousine, United States, San Mateo Bridge, California_
 
 ##### Air show
 ### [A military aircraft crashes during an air show killing the pilot and injuring another 19 on the ground in Madrid, Spain. ](/news/2013/05/5/a-military-aircraft-crashes-during-an-air-show-killing-the-pilot-and-injuring-another-19-on-the-ground-in-madrid-spain.md)
-_Context: air show, Spain, Madrid_
+_Context: Spain, Madrid, air show_
 
 ##### Bangladesh
 ### [The death toll in Bangladesh rises to 622. ](/news/2013/05/5/the-death-toll-in-bangladesh-rises-to-622.md)
@@ -41,11 +41,11 @@ _Context: Bangladesh_
 
 ##### Drive-by shooting
 ### [Six people are wounded during a drive-by shooting outside a McDonald's restaurant in East Palo Alto, California, United States. ](/news/2013/05/5/six-people-are-wounded-during-a-drive-by-shooting-outside-a-mcdonald-s-restaurant-in-east-palo-alto-california-united-states.md)
-_Context: U.S., McDonald's restaurants, drive-by shooting, California, East Palo Alto_
+_Context: East Palo Alto, California, United States, drive-by shooting, McDonald's restaurants_
 
 ##### Malaysia
 ### [Malaysia's ruling coalition Barisan Nasional retains a majority of parliamentary seats in the general election. ](/news/2013/05/5/malaysia-s-ruling-coalition-barisan-nasional-retains-a-majority-of-parliamentary-seats-in-the-general-election.md)
-_Context: Malaysia, general election, Barisan Nasional_
+_Context: general election, Barisan Nasional, Malaysia_
 
 ##### Helmin Wiels
 ### [Helmin Wiels, leader of the largest political party in Curacao, is assassinated. ](/news/2013/05/5/helmin-wiels-leader-of-the-largest-political-party-in-curaassao-is-assassinated.md)

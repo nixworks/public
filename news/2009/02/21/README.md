@@ -5,11 +5,11 @@ Formats: [HTML](2009/02/21/index.html)  [JSON](2009/02/21/index.json)  [XML](200
 
 ##### Taliban
 ### [ The Taliban and Pakistan agree to a permanent ceasefire in the war in North-West Frontier Province. ](/news/2009/02/21/the-taliban-and-pakistan-agree-to-a-permanent-ceasefire-in-the-war-in-north-west-frontier-province.md)
-_Context: Northwestern Pakistan, Taliban, Pakistan, ceasefire, War in North-West Pakistan_
+_Context: War in North-West Pakistan, Taliban, ceasefire, Pakistan, Northwestern Pakistan_
 
 ##### International Security Assistance Force
 ### [ The International Security Assistance Force kills 13 people in Guzara, Herat, Afghanistan. ](/news/2009/02/21/the-international-security-assistance-force-kills-13-people-in-guzara-herat-afghanistan.md)
-_Context: Afghanistan, Herat Province, Guzara, International Security Assistance Force, War in Afghanistan (2001-present)_
+_Context: Herat Province, War in Afghanistan (2001-present), Guzara, International Security Assistance Force, Afghanistan_
 
 ##### Italy
 ### [ Italy's Democratic Party elects Deputy Secretary Dario Franceschini as its new Secretary. ](/news/2009/02/21/italy-s-democratic-party-elects-deputy-secretary-dario-franceschini-as-its-new-secretary.md)

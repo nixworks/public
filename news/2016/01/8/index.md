@@ -5,7 +5,7 @@ Formats: [HTML](2016/01/8/index.html)  [JSON](2016/01/8/index.json)  [XML](2016/
 
 ##### 2016 Hurghada attack
 ### [Two suspected ISIS militants are killed and three tourists injured in an unsuccessful attack on a hotel in the city of Hurghada. ](/news/2016/01/8/two-suspected-isis-militants-are-killed-and-three-tourists-injured-in-an-unsuccessful-attack-on-a-hotel-in-the-city-of-hurghada.md)
-_Context: ISIL, Hurghada, 2016 Hurghada attack_
+_Context: ISIL, 2016 Hurghada attack, Hurghada_
 
 ##### 2016 shooting of Philadelphia police officer
 ### [A gunman stating to have sworn allegiance to the Islamic State of Iraq and the Levant (ISIS) shoots and seriously wounds a Philadelphia police officer before being arrested. ](/news/2016/01/8/a-gunman-stating-to-have-sworn-allegiance-to-the-islamic-state-of-iraq-and-the-levant-isis-shoots-and-seriously-wounds-a-philadelphia-poli.md)
@@ -25,7 +25,7 @@ The notorious Mexican drug lord Joaquin “El Chapo” Guzman has been arrested 
 
 ##### Dragan Vasiljkovic
 ### [Dragan Vasiljkovic, a former Serbian paramilitary commander, is charged with war crimes in Croatia. ](/news/2016/01/8/dragan-vasiljkovia-a-former-serbian-paramilitary-commander-is-charged-with-war-crimes-in-croatia.md)
-_Context: Croatia, Dragan Vasiljkovic, Serbian_
+_Context: Serbian, Croatia, Dragan Vasiljkovic_
 
 ## [Previous Day...](/news/2016/01/7/index.md)
 

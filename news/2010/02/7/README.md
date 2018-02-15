@@ -17,11 +17,11 @@ Ruling party candidate Laura Chinchilla has been elected Costa Rica&#39;s first 
 
 ##### President of Argentina
 ### [First Gentleman and former President Nstor Kirchner of Argentina undergoes emergency surgery to remove a blockage in his carotid artery. ](/news/2010/02/7/first-gentleman-and-former-president-nestor-kirchner-of-argentina-undergoes-emergency-surgery-to-remove-a-blockage-in-his-carotid-artery.md)
-_Context: Argentina, President of Argentina, carotid artery, Nstor Kirchner_
+_Context: Argentina, carotid artery, Nstor Kirchner, President of Argentina_
 
 ##### Nigeria
 ### [In Nigeria, the Governor of Anambra state, Peter Obi, is controversially re-elected. ](/news/2010/02/7/in-nigeria-the-governor-of-anambra-state-peter-obi-is-controversially-re-elected.md)
-_Context: Governor of Anambra state, Nigeria, Peter Obi_
+_Context: Peter Obi, Nigeria, Governor of Anambra state_
 
 ##### Middletown, Connecticut
 ### [The Kleen Energy Systems plant in Middletown, Connecticut, explodes, killing at least five people and injuring at least 14 others. ](/news/2010/02/7/the-kleen-energy-systems-plant-in-middletown-connecticut-explodes-killing-at-least-five-people-and-injuring-at-least-14-others.md)
@@ -45,7 +45,7 @@ Defence Minister John Faulkner has joined his New Zealand counterpart Dr Wayne M
 
 ##### Huang Yizhong
 ### [Huang Yizhong is jailed for 13 years in Jiangmen, Guangdong, for copying and spreading pornographic material through his website. ](/news/2010/02/7/huang-yizhong-is-jailed-for-13-years-in-jiangmen-guangdong-for-copying-and-spreading-pornographic-material-through-his-website.md)
-_Context: pornography, Huang Yizhong, Guangdong, Jiangmen_
+_Context: Guangdong, Jiangmen, Huang Yizhong, pornography_
 
 ##### United Kingdom
 ### [Britain is to tighten the rules on immigrants entering the country on a student visa in a clampdown on a system which some security experts say has been exploited by Islamist militants. ](/news/2010/02/7/britain-is-to-tighten-the-rules-on-immigrants-entering-the-country-on-a-student-visa-in-a-clampdown-on-a-system-which-some-security-experts.md)

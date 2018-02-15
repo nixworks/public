@@ -5,7 +5,7 @@ Formats: [HTML](2010/07/9/index.html)  [JSON](2010/07/9/index.json)  [XML](2010/
 
 ##### Suicide bomb
 ### [A suicide bomb in Pakistan's tribal areas near the Afghanistan border kills at least 50. ](/news/2010/07/9/a-suicide-bomb-in-pakistan-s-tribal-areas-near-the-afghanistan-border-kills-at-least-50.md)
-_Context: suicide bomb, Federally Administered Tribal Areas, Pakistan, Afghanistan_
+_Context: suicide bomb, Afghanistan, Federally Administered Tribal Areas, Pakistan_
 
 ##### Floribert Chebeya
 ### [Floribert Chebeya's autopsy returns an "inconclusive" result. ](/news/2010/07/9/floribert-chebeya-s-autopsy-returns-an-inconclusive-result.md)
@@ -17,7 +17,7 @@ The UN peacekeeping chief in southern Lebanon appeals for calm, after recent inc
 
 ##### Israel
 ### [Israel criticises Britain's ambassador to Lebanon for eulogising Mohammad Hussein Fadlallah, who recently died. ](/news/2010/07/9/israel-criticises-britain-s-ambassador-to-lebanon-for-eulogising-mohammad-hussein-fadlallah-who-recently-died.md)
-_Context: United Kingdom, Israel, Mohammad Hussein Fadlallah, Lebanese_
+_Context: Mohammad Hussein Fadlallah, United Kingdom, Israel, Lebanese_
 
 ##### General
 ### [Two weeks after the sacking of General Stanley A. McChrystal over comments that appeared in "Rolling Stone", a top French general is attacked for publicly criticising the United States-led war attempt on Afghanistan and questioning if the United States is controlling its allies. ](/news/2010/07/9/two-weeks-after-the-sacking-of-general-stanley-a-mcchrystal-over-comments-that-appeared-in-rolling-stone-a-top-french-general-is-attacke.md)
@@ -25,7 +25,7 @@ Two&#x20;weeks&#x20;after&#x20;the&#x20;sacking&#x20;of&#x20;Stanley&#x20;McChry
 
 ##### Guinea
 ### [Guinea's presidential run-off is postponed due to allegations of fraud. ](/news/2010/07/9/guinea-s-presidential-run-off-is-postponed-due-to-allegations-of-fraud.md)
-_Context: November's presidential poll, Guinea_
+_Context: Guinea, November's presidential poll_
 
 ##### United Nations Security Council
 ### [The United Nations Security Council issues a Presidential Statement condemning the sinking of the South Korean warship ROKS "Cheonan". ](/news/2010/07/9/the-united-nations-security-council-issues-a-presidential-statement-condemning-the-sinking-of-the-south-korean-warship-roks-cheonan.md)
@@ -33,7 +33,7 @@ The UN Security Council has condemned a deadly attack on a South Korean warship 
 
 ##### Papua
 ### [At least 50,000 West Papuans march on the Papua provincial parliament in Jayapura calling for the rejection of special autonomy status offered by Indonesia in favor of independence; 20,000 camp outside the parliament overnight. ](/news/2010/07/9/at-least-50-000-west-papuans-march-on-the-papua-provincial-parliament-in-jayapura-calling-for-the-rejection-of-special-autonomy-status-offer.md)
-_Context: Papua, autonomy, Jayapura, Papua, Indonesia_
+_Context: Papua, Indonesia, Papua, Jayapura, autonomy_
 
 ##### Government of Australia
 ### [The Australian Government is conducting a review on the proposed national internet filter. ](/news/2010/07/9/the-australian-government-is-conducting-a-review-on-the-proposed-national-internet-filter.md)
@@ -53,11 +53,11 @@ _Context: Google_
 
 ##### United States Government
 ### [The United States Government gives BP a 24-hour deadline to answer questions about the Deepwater Horizon oil spill, as well as providing detailed information and plans on stopping the leak. ](/news/2010/07/9/the-united-states-government-gives-bp-a-24-hour-deadline-to-answer-questions-about-the-deepwater-horizon-oil-spill-as-well-as-providing-det.md)
-_Context: Deepwater Horizon oil spill, United States Government, BP_
+_Context: United States Government, Deepwater Horizon oil spill, BP_
 
 ##### Bank of Korea
 ### [The South Korean Central Bank unexpectedly raise interest rates from 2% to 2.25%. ](/news/2010/07/9/the-south-korean-central-bank-unexpectedly-raise-interest-rates-from-2-to-2-25.md)
-_Context: Bank of Korea, interest rates_
+_Context: interest rates, Bank of Korea_
 
 ##### Wall Street
 ### [Wall Street ends the week with the strongest gains in a year, with the Dow Jones Industrial Average rising 5.3%, and NASDAQ rising 5%. ](/news/2010/07/9/wall-street-ends-the-week-with-the-strongest-gains-in-a-year-with-the-dow-jones-industrial-average-rising-5-3-and-nasdaq-rising-5.md)
@@ -69,7 +69,7 @@ Washington announces the successful completion of its biggest spy swap with Russ
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI appoints Archbishop Velasio de Paolis to lead the Legion of Christ following the previous head who had engaged in child sex abuse and a number of other crimes throughout his career. ](/news/2010/07/9/pope-benedict-xvi-appoints-archbishop-velasio-de-paolis-to-lead-the-legion-of-christ-following-the-previous-head-who-had-engaged-in-child-se.md)
-_Context: Legion of Christ, Pope Benedict XVI, Velasio de Paolis, Archbishop, previous head_
+_Context: previous head, Velasio de Paolis, Archbishop, Pope Benedict XVI, Legion of Christ_
 
 ##### China
 ### [Chinese officials seize 64 tonnes of raw dairy materials contaminated with melamine. ](/news/2010/07/9/chinese-officials-seize-64-tonnes-of-raw-dairy-materials-contaminated-with-melamine.md)
@@ -81,11 +81,11 @@ The Iranian authorities say a woman convicted of adultery, Sakineh Mohammadi Ash
 
 ##### Bangladesh
 ### [Salman Hossain, a Bangladeshi immigrant to Canada, is charged with online advocation of genocide against Canadian Jews. ](/news/2010/07/9/salman-hossain-a-bangladeshi-immigrant-to-canada-is-charged-with-online-advocation-of-genocide-against-canadian-jews.md)
-_Context: immigrant, Bangladesh, Canadian Jews, Canadian, genocide_
+_Context: Bangladesh, immigrant, Canadian Jews, Canadian, genocide_
 
 ##### Johannesburg
 ### [A painting in a Johannesburg shopping centre depicting an autopsy on the corpse of Nelson Mandela surrounded by nosy world leaders attracts controversy as the topic of Mandela's eventual death is taboo in South Africa. ](/news/2010/07/9/a-painting-in-a-johannesburg-shopping-centre-depicting-an-autopsy-on-the-corpse-of-nelson-mandela-surrounded-by-nosy-world-leaders-attracts.md)
-_Context: Nelson Mandela, South Africa, Johannesburg_
+_Context: Nelson Mandela, Johannesburg, South Africa_
 
 ##### Australia
 ### [Australia celebrates indigenous culture in NAIDOC Week with the 2010 theme "Unsung Heroes - Closing the Gap by Leading Their Way". ](/news/2010/07/9/australia-celebrates-indigenous-culture-in-naidoc-week-with-the-2010-theme-unsung-heroes-closing-the-gap-by-leading-their-way.md)
@@ -95,7 +95,7 @@ The Tasmanian Aboriginal community are using National Aboriginal Islander Day Ob
 ### [The American-born Australian actor is being called a "potential suspect" in a domestic violence investigation. ](/news/2010/07/9/the-american-born-australian-actor-is-being-called-a-potential-suspect-in-a-domestic-violence-investigation.md)
 The Sheriff&#39;s Department says it is investigating Mel Gibson over a possible domestic violence incident involving his ex-girlfriend earlier this year. 
 
-##### U.S.
+##### United States
 ### [American researchers discover that some fruits and vegetables grown today have less nutritional value than those grown in the 1950s. ](/news/2010/07/9/american-researchers-discover-that-some-fruits-and-vegetables-grown-today-have-less-nutritional-value-than-those-grown-in-the-1950s.md)
 While we&#39;ve been dutifully eating our fruits and vegetables all these years, a strange thing has been happening to our produce. It&#39;s losing its nutrients. 
 

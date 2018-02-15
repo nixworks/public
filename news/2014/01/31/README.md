@@ -5,11 +5,11 @@ Formats: [HTML](2014/01/31/index.html)  [JSON](2014/01/31/index.json)  [XML](201
 
 ##### Israeli-Palestinian Conflict
 ### [The Israeli Air Force strikes targets in the Gaza Strip in response to ongoing rocket fire from the Palestinian territory. ](/news/2014/01/31/the-israeli-air-force-strikes-targets-in-the-gaza-strip-in-response-to-ongoing-rocket-fire-from-the-palestinian-territory.md)
-_Context: Gaza Strip, Israeli-Palestinian Conflict, Israeli Air Force_
+_Context: Israeli Air Force, Israeli-Palestinian Conflict, Gaza Strip_
 
 ##### Balochistan conflict
 ### [A bomb kills three Pakistan Army soldiers and injures four others in the restive province of Balochistan. ](/news/2014/01/31/a-bomb-kills-three-pakistan-army-soldiers-and-injures-four-others-in-the-restive-province-of-balochistan.md)
-_Context: Balochistan, Balochistan conflict, Pakistan Army_
+_Context: Balochistan conflict, Pakistan Army, Balochistan_
 
 ##### Moro insurgency in the Philippines
 ### [Fifty-three people die in fighting between the Philippine Army and the Bangsamoro Islamic Freedom Fighters on the island of Mindanao with the dead including 52 rebels and one soldier over the past week. ](/news/2014/01/31/fifty-three-people-die-in-fighting-between-the-philippine-army-and-the-bangsamoro-islamic-freedom-fighters-on-the-island-of-mindanao-with-th.md)

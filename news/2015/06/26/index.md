@@ -5,7 +5,7 @@ Formats: [HTML](2015/06/26/index.html)  [JSON](2015/06/26/index.json)  [XML](201
 
 ##### Somali Civil War
 ### [Al Shabaab militants attack an African Union base in the Leego district of Somalia and kills more than 70 African Union soldiers and seizes control of their military base. ](/news/2015/06/26/al-shabaab-militants-attack-an-african-union-base-in-the-leego-district-of-somalia-and-kills-more-than-70-african-union-soldiers-and-seizes.md)
-_Context: Somali Civil War, Somalia, Leego, Al-Shabaab, attack, African Union_
+_Context: African Union, attack, Somali Civil War, Somalia, Al-Shabaab, Leego_
 
 ##### Saint-Quentin-Fallavier attack
 ### [ A man is decapitated and at least two others are injured during an attack in Saint-Quentin-Fallavier as a man carrying an Islamic State in Iraq and the Levant flag attacks a factory near the French city of Lyon. ](/news/2015/06/26/a-man-is-decapitated-and-at-least-two-others-are-injured-during-an-attack-in-saint-quentin-fallavier-as-a-man-carrying-an-islamic-state-in.md)
@@ -45,7 +45,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### United States Supreme Court
 ### [In a 5-4 decision, the United States Supreme Court declares state bans on same-sex marriage unconstitutional and effectively legalizes it across the United States. ](/news/2015/06/26/in-a-5-4-decision-the-united-states-supreme-court-declares-state-bans-on-same-sex-marriage-unconstitutional-and-effectively-legalizes-it-ac.md)
-_Context: United States Supreme Court, same-sex marriage_
+_Context: same-sex marriage, United States Supreme Court_
 
 ##### 2015 Clinton Correctional Facility escape
 ### [Richard Matt, one of the two escapees, died from gunshot wounds south of the town of Malone, New York. ](/news/2015/06/26/richard-matt-one-of-the-two-escapees-died-from-gunshot-wounds-south-of-the-town-of-malone-new-york.md)

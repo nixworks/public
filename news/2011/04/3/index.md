@@ -21,7 +21,7 @@ _Context: 2011 Yemeni protests_
 
 ##### Taliban
 ### [At least 40 people are dead and 100 injured following a Taliban suicide bomb on a Sufi Muslim shrine in Pakistan. ](/news/2011/04/3/at-least-40-people-are-dead-and-100-injured-following-a-taliban-suicide-bomb-on-a-sufi-muslim-shrine-in-pakistan.md)
-_Context: Pakistan, Sufi, Taliban, suicide bomb_
+_Context: suicide bomb, Taliban, Sufi, Pakistan_
 
 ##### China
 ### [The People's Republic of China detains Ai Weiwei, a leading artist and dissident, as part of a crackdown on dissenting views. ](/news/2011/04/3/the-people-s-republic-of-china-detains-ai-weiwei-a-leading-artist-and-dissident-as-part-of-a-crackdown-on-dissenting-views.md)
@@ -29,7 +29,7 @@ _Context: China, Ai Weiwei_
 
 ##### Taylor Swift
 ### [Taylor Swift wins the Entertainer of the Year award at the Academy of Country Music Awards 2010 with Miranda Lambert winning four awards including Female Vocalist of the year. ](/news/2011/04/3/taylor-swift-wins-the-entertainer-of-the-year-award-at-the-academy-of-country-music-awards-2010-with-miranda-lambert-winning-four-awards-inc.md)
-_Context: Taylor Swift, Miranda Lambert, Academy of Country Music_
+_Context: Academy of Country Music, Taylor Swift, Miranda Lambert_
 
 ##### Fukushima I Nuclear Power Plant
 ### [The bodies of two dead workers are found at the afflicted Fukushima I Nuclear Power Plant in Japan. ](/news/2011/04/3/the-bodies-of-two-dead-workers-are-found-at-the-afflicted-fukushima-i-nuclear-power-plant-in-japan.md)

@@ -13,7 +13,7 @@ A female suicide bomber has injured at least 11 police officers and civilians, i
 
 ##### Al-Qusayr
 ### [Dozens of people are killed in Al-Qusayr, Homs, Syria, as the Syrian Army and Hezbollah bombard the rebel-held town with heavy artillery. ](/news/2013/05/25/dozens-of-people-are-killed-in-al-qusayr-homs-syria-as-the-syrian-army-and-hezbollah-bombard-the-rebel-held-town-with-heavy-artillery.md)
-_Context: Syrian Army, Hezbollah, Al-Qusayr, Homs_
+_Context: Al-Qusayr, Hezbollah, Homs, Syrian Army_
 
 ##### Baghdad
 ### [A bomb explodes near a bus north of Baghdad, Iraq, killing six Iranians, one Iraqi, and wounding fourteen people. ](/news/2013/05/25/a-bomb-explodes-near-a-bus-north-of-baghdad-iraq-killing-six-iranians-one-iraqi-and-wounding-fourteen-people.md)
@@ -49,7 +49,7 @@ African leaders have opened extravagant celebrations for the 50th jubilee of the
 
 ##### Michael Adebolajo
 ### [British counter-terrorism police arrest a man who was a childhood friend of the terrorist Michael Adebolajo after he gives an interview to the BBC in which he claims that the MI5 had contacted him in the past. ](/news/2013/05/25/british-counter-terrorism-police-arrest-a-man-who-was-a-childhood-friend-of-the-terrorist-michael-adebolajo-after-he-gives-an-interview-to-t.md)
-_Context: MI5, Michael Adebolajo, BBC_
+_Context: BBC, MI5, Michael Adebolajo_
 
 ##### French Army
 ### [A French anti-terror soldier is stabbed in the neck in a suspected copycat of the 2013 Woolwich attack. ](/news/2013/05/25/a-french-anti-terror-soldier-is-stabbed-in-the-neck-in-a-suspected-copycat-of-the-2013-woolwich-attack.md)

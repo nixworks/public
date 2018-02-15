@@ -13,15 +13,15 @@ _Context: United Arab Emirates, Dubai, RMS ''Queen Elizabeth 2''_
 
 ##### German
 ### [ Germany announces new charges against John Demjanjuk in the deaths of 29,000 people at the Sobibor extermination camp in Poland during the Holocaust. ](/news/2008/11/11/germany-announces-new-charges-against-john-demjanjuk-in-the-deaths-of-29-000-people-at-the-sobibor-extermination-camp-in-poland-during-the.md)
-_Context: Polish, German, Sobibor extermination camp, the Holocaust, John Demjanjuk_
+_Context: the Holocaust, Sobibor extermination camp, John Demjanjuk, German, Poland_
 
 ##### A Holocaust survivor group
 ### [ A Holocaust survivor group announces the abandonment of negotiations with the LDS Church over the latter's continued posthumous baptism of Jews killed in the Holocaust. ](/news/2008/11/11/a-holocaust-survivor-group-announces-the-abandonment-of-negotiations-with-the-lds-church-over-the-latter-s-continued-posthumous-baptism-of.md)
-_Context: posthumous baptism, A Holocaust survivor group, the Holocaust, The Church of Jesus Christ of Latter-day Saints_
+_Context: A Holocaust survivor group, posthumous baptism, the Holocaust, The Church of Jesus Christ of Latter-day Saints_
 
 ##### Egypt
 ### [ Egypt's antiquities chief, Zahi Hawass, announces the discovery of a 4,300-year-old pyramid belonging to Queen Sesheshet, mother of King Teti. ](/news/2008/11/11/egypt-s-antiquities-chief-zahi-hawass-announces-the-discovery-of-a-4-300-year-old-pyramid-belonging-to-queen-sesheshet-mother-of-king-te.md)
-_Context: Sesheshet, Teti, Zahi Hawass, Egypt_
+_Context: Sesheshet, Teti, Egypt, Zahi Hawass_
 
 ##### President
 ### [ Former President Chen Shui-bian of the Republic of China is arrested while the anti-corruption prosecutors have asked a three-judge panel to formally detain the former President. ](/news/2008/11/11/former-president-chen-shui-bian-of-the-republic-of-china-is-arrested-while-the-anti-corruption-prosecutors-have-asked-a-three-judge-panel-t.md)
@@ -33,7 +33,7 @@ _Context: India, Indian Navy, Gulf of Aden, Somali pirates_
 
 ##### Mohamed Nasheed
 ### [ Mohamed Nasheed is sworn in as the new President of the Maldives. ](/news/2008/11/11/mohamed-nasheed-is-sworn-in-as-the-new-president-of-the-maldives.md)
-_Context: Mohamed Nasheed, Maldives, President_
+_Context: Maldives, President, Mohamed Nasheed_
 
 ##### Russia
 ### [ Russian regulators halt trading on one of the country's two main stock indexes, the MICEX, after it fell 6.5%, dragged down by commodity and banking shares. ](/news/2008/11/11/russian-regulators-halt-trading-on-one-of-the-country-s-two-main-stock-indexes-the-micex-after-it-fell-6-5-dragged-down-by-commodity-an.md)

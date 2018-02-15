@@ -9,7 +9,7 @@ Armed men launched two attacks in Iran on Wednesday morning local time, killing 
 
 ##### Economy of South Africa
 ### [The giant South Africa based cement company, PPC Ltd., presents its first quarter results, dominated by the "impact of a liquidity crisis precipitated by an unexpected S&P debt downgrade." ](/news/2017/06/7/the-giant-south-africa-based-cement-company-ppc-ltd-presents-its-first-quarter-results-dominated-by-the-impact-of-a-liquidity-crisis-pr.md)
-_Context: Economy of South Africa, PPC Ltd., South Africa, cement_
+_Context: South Africa, PPC Ltd., cement, Economy of South Africa_
 
 ##### 2017 Qatar diplomatic crisis
 ### [The Philippines partially lifts a temporary suspension of deployment of overseas workers to Qatar. ](/news/2017/06/7/the-philippines-partially-lifts-a-temporary-suspension-of-deployment-of-overseas-workers-to-qatar.md)

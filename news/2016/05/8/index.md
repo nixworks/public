@@ -21,7 +21,7 @@ _Context: Taining County, Fujian, China_
 
 ##### North Korea
 ### [ North Korean leader Kim Jong-un rules out a nuclear first strike unless North Korea's sovereignty is violated. ](/news/2016/05/8/north-korean-leader-kim-jong-un-rules-out-a-nuclear-first-strike-unless-north-korea-s-sovereignty-is-violated.md)
-_Context: North Korea, Kim Jong-un, first strike_
+_Context: Kim Jong-un, North Korea, first strike_
 
 ##### War in Afghanistan (2015-present)
 ### [ Afghan officials hang six Taliban prisoners. ](/news/2016/05/8/afghan-officials-hang-six-taliban-prisoners.md)
@@ -29,7 +29,7 @@ After a deadly Kabul bombing, the president said he was no longer interested in 
 
 ##### Khurram Zaki
 ### [ Unidentified gunmen shoot dead Khurram Zaki, a Pakistani rights activist known for speaking out against the Taliban. ](/news/2016/05/8/unidentified-gunmen-shoot-dead-khurram-zaki-a-pakistani-rights-activist-known-for-speaking-out-against-the-taliban.md)
-_Context: Taliban, Pakistan, Khurram Zaki_
+_Context: Pakistan, Khurram Zaki, Taliban_
 
 ##### 2016 federal election
 ### [ Prime Minister of Australia Malcolm Turnbull has called a historic double dissolution election with both houses of Parliament being dissolved and an election to be held on July 2. ](/news/2016/05/8/prime-minister-of-australia-malcolm-turnbull-has-called-a-historic-double-dissolution-election-with-both-houses-of-parliament-being-dissolv.md)
@@ -37,7 +37,7 @@ Prime Minister Malcolm Turnbull says Australians will go to the polls on July 2 
 
 ##### Gou Zhongwen
 ### [ Gou Zhongwen replaces the disgraced Lu Xiwen as the Deputy Party Secretary of Beijing. ](/news/2016/05/8/gou-zhongwen-replaces-the-disgraced-lu-xiwen-as-the-deputy-party-secretary-of-beijing.md)
-_Context: Lu Xiwen, Beijing, Gou Zhongwen, Deputy Party Secretary_
+_Context: Gou Zhongwen, Deputy Party Secretary, Lu Xiwen, Beijing_
 
 ## [Previous Day...](/news/2016/05/7/index.md)
 

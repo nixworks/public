@@ -9,7 +9,7 @@ Syrian state TV reports the army has begun operations in Jisr al-Shughour, where
 
 ##### Sudan
 ### [Sudan's military bombs a village in Unity State, amid increasing tensions with South Sudan. ](/news/2011/06/10/sudan-s-military-bombs-a-village-in-unity-state-amid-increasing-tensions-with-south-sudan.md)
-_Context: Unity State, Sudan, South Sudan_
+_Context: Sudan, South Sudan, Unity State_
 
 ##### Somalia
 ### [The Somali interior minister, Abdi Shakur Sheikh Hassan, is killed by a female suicide bomber at his house in the capital Mogadishu. ](/news/2011/06/10/the-somali-interior-minister-abdi-shakur-sheikh-hassan-is-killed-by-a-female-suicide-bomber-at-his-house-in-the-capital-mogadishu.md)
@@ -17,15 +17,15 @@ Somali Interior Minister Abdi Shakur Sheikh Hassan is killed in a suicide attack
 
 ##### NATO
 ### [Fresh NATO airstrikes take place over the capital Tripoli. ](/news/2011/06/10/fresh-nato-airstrikes-take-place-over-the-capital-tripoli.md)
-_Context: Tripoli, NATO_
+_Context: NATO, Tripoli_
 
 ##### China
 ### [The People's Republic of China's only ratings house that grades sovereign entities, the Dagong Global Credit Rating Company, states that the United States is already defaulting on its debt by allowing the U.S. dollar to devalue against other currencies, diminishing the wealth of China as a U.S. creditor. ](/news/2011/06/10/the-people-s-republic-of-china-s-only-ratings-house-that-grades-sovereign-entities-the-dagong-global-credit-rating-company-states-that-the.md)
-_Context: Dagong Global Credit Rating, U.S.,  debt, China, $, creditor, defaults_
+_Context: Dagong Global Credit Rating, $, China, creditor,  debt, United States, defaults_
 
 ##### South Korea
 ### [The South Korean Central Bank raises its benchmark interest rate by 25 basis points to 3.25 percent. ](/news/2011/06/10/the-south-korean-central-bank-raises-its-benchmark-interest-rate-by-25-basis-points-to-3-25-percent.md)
-_Context: Bank of Korea, South Korea_
+_Context: South Korea, Bank of Korea_
 
 ##### Azad Kashmir
 ### [At least 14 people are killed as a van falls into a canal in Azad Kashmir in Pakistan. ](/news/2011/06/10/at-least-14-people-are-killed-as-a-van-falls-into-a-canal-in-azad-kashmir-in-pakistan.md)
@@ -33,11 +33,11 @@ _Context: Pakistan, Azad Kashmir_
 
 ##### Cesium
 ### [Radioactive cesium above Japanese legal limits is found in tea from the Shizuoka Prefecture, located 300 kilometres from the earthquake-damaged Fukushima Daiichi Nuclear Power Plant. ](/news/2011/06/10/radioactive-cesium-above-japanese-legal-limits-is-found-in-tea-from-the-shizuoka-prefecture-located-300-kilometres-from-the-earthquake-dama.md)
-_Context: Shizuoka Prefecture, Fukushima Daiichi Nuclear Power Plant, earthquake-damaged, tea, cesium, Japan_
+_Context: Shizuoka Prefecture, earthquake-damaged, Japan, cesium, tea, Fukushima Daiichi Nuclear Power Plant_
 
 ##### Environment Agency
 ### [The British Environment Agency declares drought in five English counties &ndash; Lincolnshire, Cambridgeshire, parts of Bedfordshire, Northamptonshire and Norfolk &ndash; following a dry spring. ](/news/2011/06/10/the-british-environment-agency-declares-drought-in-five-english-counties-ndash-lincolnshire-cambridgeshire-parts-of-bedfordshire-northa.md)
-_Context: Cambridgeshire, counties, England, Bedfordshire, Environment Agency, Lincolnshire, Northamptonshire, drought, Norfolk_
+_Context: Northamptonshire, England, Norfolk, drought, Cambridgeshire, Bedfordshire, Lincolnshire, Environment Agency, counties_
 
 ##### Iran
 ### [Iran has reportedly been caught on 10 separate occasions trying to send arms to terrorist groups, including Hamas and the Taliban. ](/news/2011/06/10/iran-has-reportedly-been-caught-on-10-separate-occasions-trying-to-send-arms-to-terrorist-groups-including-hamas-and-the-taliban.md)
@@ -49,11 +49,11 @@ China accuses Vietnam of &quot;gravely violating&quot; its sovereignty in an esc
 
 ##### Yuri Budanov
 ### [Yuri Budanov, a Russian colonel convicted of strangling an 18-year-old Chechen girl during the Chechen War, is shot dead in Moscow. ](/news/2011/06/10/yuri-budanov-a-russian-colonel-convicted-of-strangling-an-18-year-old-chechen-girl-during-the-chechen-war-is-shot-dead-in-moscow.md)
-_Context: Yuri Budanov, Chechen War, Russia, Moscow, Chechen_
+_Context: Chechen War, Moscow, Yuri Budanov, Russia, Chechen_
 
 ##### China
 ### [Hundreds of Mainland Chinese and Taiwanese people are arrested in several countries across Asia during a crackdown on a telephone scam network. ](/news/2011/06/10/hundreds-of-mainland-chinese-and-taiwanese-people-are-arrested-in-several-countries-across-asia-during-a-crackdown-on-a-telephone-scam-netwo.md)
-_Context: Taiwan, China, Asia_
+_Context: China, Asia, Taiwan_
 
 ##### Sinn Fein
 ### [Sinn Fein's Paul Maskey wins the West Belfast by-election. ](/news/2011/06/10/sinn-fein-s-paul-maskey-wins-the-west-belfast-by-election.md)

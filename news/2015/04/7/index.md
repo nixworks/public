@@ -13,11 +13,11 @@ _Context: Dragon Aromatics, Zhangzhou_
 
 ##### Washington D.C.
 ### [Widespread power outages are reported in Washington D.C. after an explosion at a Maryland power substation. ](/news/2015/04/7/widespread-power-outages-are-reported-in-washington-d-c-after-an-explosion-at-a-maryland-power-substation.md)
-_Context: Washington D.C., Maryland_
+_Context: Maryland, Washington D.C._
 
 ##### Parliament of Malaysia
 ### [The Parliament of Malaysia passes the Prevention of Terrorism Act which allows the Government to detain terrorism suspects without charge. ](/news/2015/04/7/the-parliament-of-malaysia-passes-the-prevention-of-terrorism-act-which-allows-the-government-to-detain-terrorism-suspects-without-charge.md)
-_Context: terrorism, Parliament of Malaysia_
+_Context: Parliament of Malaysia, terrorism_
 
 ##### Indian police
 ### [At least 20 people die in a shootout between Indian police and timber smugglers in the southern state of Andhra Pradesh. ](/news/2015/04/7/at-least-20-people-die-in-a-shootout-between-indian-police-and-timber-smugglers-in-the-southern-state-of-andhra-pradesh.md)
@@ -29,15 +29,15 @@ Claims that a woman was forced to have sex with Prince Andrew when she was 17 ar
 
 ##### Hatton Garden
 ### [Raiders using specialist cutting equipment break into an underground vault in the Hatton Garden Safe Deposit company in the London diamond district and empty 300 safety deposit boxes. ](/news/2015/04/7/raiders-using-specialist-cutting-equipment-break-into-an-underground-vault-in-the-hatton-garden-safe-deposit-company-in-the-london-diamond-d.md)
-_Context: London, Hatton Garden_
+_Context: Hatton Garden, London_
 
 ##### Shooting of Walter Scott
 ### [A North Charleston, South Carolina policeman is charged with murder after video footage emerges of him shooting an unarmed suspect attempting to flee on foot following a daytime traffic stop. ](/news/2015/04/7/a-north-charleston-south-carolina-policeman-is-charged-with-murder-after-video-footage-emerges-of-him-shooting-an-unarmed-suspect-attemptin.md)
-_Context: North Charleston, South Carolina, Shooting of Walter Scott, policeman_
+_Context: Shooting of Walter Scott, policeman, North Charleston, South Carolina_
 
 ##### Kentucky U.S. Senator
 ### [Kentucky U.S. Senator Rand Paul announces that he will seek the Republican nomination for the U.S. presidency in 2016. ](/news/2015/04/7/kentucky-u-s-senator-rand-paul-announces-that-he-will-seek-the-republican-nomination-for-the-u-s-presidency-in-2016.md)
-_Context: Kentucky U.S. Senator, Rand Paul, presidential primaries_
+_Context: Rand Paul, presidential primaries, Kentucky U.S. Senator_
 
 ##### Chicago mayoral election
 ### [Rahm Emanuel is re-elected to a second term as Mayor of Chicago, defeating opponent Jesus "Chuy" Garcia in the city's first mayoral runoff election since switching to nonpartisan elections 20 years ago. ](/news/2015/04/7/rahm-emanuel-is-re-elected-to-a-second-term-as-mayor-of-chicago-defeating-opponent-jesaos-chuy-garcaa-in-the-city-s-first-mayoral-runoff.md)

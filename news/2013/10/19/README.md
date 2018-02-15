@@ -5,7 +5,7 @@ Formats: [HTML](2013/10/19/index.html)  [JSON](2013/10/19/index.json)  [XML](201
 
 ##### Suicide bomber
 ### [A suicide bomber kills 16 Syrian Army soldiers at a checkpoint near Damascus. ](/news/2013/10/19/a-suicide-bomber-kills-16-syrian-army-soldiers-at-a-checkpoint-near-damascus.md)
-_Context: Damascus, Syrian Army, suicide bomber_
+_Context: Syrian Army, Damascus, suicide bomber_
 
 ##### Somalia
 ### [16 people are killed and 30 wounded by a suicide bomber in an attack in a crowded restaurant in the central Somali town of Beledweyne. ](/news/2013/10/19/16-people-are-killed-and-30-wounded-by-a-suicide-bomber-in-an-attack-in-a-crowded-restaurant-in-the-central-somali-town-of-beledweyne.md)
@@ -17,7 +17,7 @@ Tunisian security forces have killed 10 Islamist militants near the border with 
 
 ##### Train crash
 ### [At least 79 people have been injured, some seriously, in a train crash at the Once railway station in Buenos Aires. ](/news/2013/10/19/at-least-79-people-have-been-injured-some-seriously-in-a-train-crash-at-the-once-railway-station-in-buenos-aires.md)
-_Context: train crash, Buenos Aires, Once railway station_
+_Context: Buenos Aires, train crash, Once railway station_
 
 ##### Namur, Belgium
 ### [At least 11 people have been killed after a small plane carrying skydivers crashes near Namur, Belgium. ](/news/2013/10/19/at-least-11-people-have-been-killed-after-a-small-plane-carrying-skydivers-crashes-near-namur-belgium.md)

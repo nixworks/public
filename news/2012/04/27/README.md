@@ -9,7 +9,7 @@ Four explosions rock the city of Dnipropetrovsk in eastern Ukraine, injuring at 
 
 ##### Suicide bomber
 ### [A suicide bomber kills at least five people in the Syrian capital Damascus. ](/news/2012/04/27/a-suicide-bomber-kills-at-least-five-people-in-the-syrian-capital-damascus.md)
-_Context: Damascus, Syria, suicide bomber_
+_Context: Syria, Damascus, suicide bomber_
 
 ##### Revolutionary Armed Forces of Colombia
 ### [The Revolutionary Armed Forces of Colombia (FARC) kills eight people in two separate attacks. ](/news/2012/04/27/the-revolutionary-armed-forces-of-colombia-farc-kills-eight-people-in-two-separate-attacks.md)

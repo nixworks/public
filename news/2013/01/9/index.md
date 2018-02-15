@@ -9,7 +9,7 @@ Forty-eight Iranians held hostage by Syrian rebels since August are freed, repor
 
 ##### James M. Buchanan
 ### [James M. Buchanan, who won the Nobel Memorial Prize in Economic Sciences in 1986 for his role in developing public choice theory, dies aged 93 in the American town of Blacksburg, Virginia. ](/news/2013/01/9/james-m-buchanan-who-won-the-nobel-memorial-prize-in-economic-sciences-in-1986-for-his-role-in-developing-public-choice-theory-dies-aged.md)
-_Context: Blacksburg, Virginia, Nobel Memorial Prize in Economic Sciences, public choice theory, James M. Buchanan_
+_Context: Blacksburg, Virginia, James M. Buchanan, public choice theory, Nobel Memorial Prize in Economic Sciences_
 
 ##### AIG
 ### [AIG announces that it will not join a lawsuit against the U.S. government over the 2008 bailout. ](/news/2013/01/9/aig-announces-that-it-will-not-join-a-lawsuit-against-the-u-s-government-over-the-2008-bailout.md)
@@ -17,7 +17,7 @@ In face of outcry, AIG board decides against joining lawsuit from shareholder gr
 
 ##### SeaStreak
 ### [A SeaStreak ferry travelling to Lower Manhattan, New York City, crashes into the dock, injuring 85 people. ](/news/2013/01/9/a-seastreak-ferry-travelling-to-lower-manhattan-new-york-city-crashes-into-the-dock-injuring-85-people.md)
-_Context: SeaStreak, Lower Manhattan, New York City, ferry_
+_Context: Lower Manhattan, ferry, New York City, SeaStreak_
 
 ##### United Kingdom
 ### [Retired British businessman Christopher Tappin is sentenced to 33 months in prison by a U.S. court after pleading guilty to selling weapon parts to Iran. ](/news/2013/01/9/retired-british-businessman-christopher-tappin-is-sentenced-to-33-months-in-prison-by-a-u-s-court-after-pleading-guilty-to-selling-weapon-p.md)

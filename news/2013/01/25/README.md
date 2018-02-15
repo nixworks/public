@@ -23,9 +23,9 @@ More than 50 people have been killed and dozens more injured in a prison riot in
 ### [Ongoing protests by Sunni Muslims in Iraq against the government of Prime Minister Nouri al-Maliki turn deadly, as clashes leave 7 protesters and 2 soldiers dead in Fallujah. More than 60 others are injured, and at least 3 soldiers are kidnapped by unidentified gunmen. ](/news/2013/01/25/ongoing-protests-by-sunni-muslims-in-iraq-against-the-government-of-prime-minister-nouri-al-maliki-turn-deadly-as-clashes-leave-7-protester.md)
 Iraq9 are killed as protesters, army clash
 
-##### U.S.
+##### United States
 ### [The U.S. writer Stephen King issues a 25-page essay calling for gun control after numerous mass shootings. ](/news/2013/01/25/the-u-s-writer-stephen-king-issues-a-25-page-essay-calling-for-gun-control-after-numerous-mass-shootings.md)
-_Context: gun control, mass shooting, Stephen King, essay, U.S._
+_Context: mass shooting, United States, Stephen King, essay, gun control_
 
 ##### Typhoon
 ### [Tropical Cyclone Oswald makes landfall in Queensland, Australia, and causes widespread flooding. ](/news/2013/01/25/tropical-cyclone-oswald-makes-landfall-in-queensland-australia-and-causes-widespread-flooding.md)
@@ -49,7 +49,7 @@ North Korea issues another warning - this time to Seoul - a day after announcing
 
 ##### John Kiriakou
 ### [John Kiriakou, the former CIA agent, who publicly discussed the U.S. government agency's use of waterboarding interrogation techniques, is sentenced to 30 months in prison. An argument that he was a whistleblower was dismissed and he was instead convicted of violating an intelligence law, the first person to be successfully targeted under the statute in 27 years. ](/news/2013/01/25/john-kiriakou-the-former-cia-agent-who-publicly-discussed-the-u-s-government-agency-s-use-of-waterboarding-interrogation-techniques-is-s.md)
-_Context: waterboarding, John Kiriakou, U.S. government, whistleblower, CIA_
+_Context: John Kiriakou, CIA, U.S. government, waterboarding, whistleblower_
 
 ##### Police officer
 ### [A detective in the Irish police force is shot dead in an attempted robbery near Dundalk, County Louth. ](/news/2013/01/25/a-detective-in-the-irish-police-force-is-shot-dead-in-an-attempted-robbery-near-dundalk-county-louth.md)

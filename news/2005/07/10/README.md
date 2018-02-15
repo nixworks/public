@@ -9,7 +9,7 @@ _Context: Afghanistan_
 
 ##### Dennis
 ### [ Hurricane Dennis makes landfall in the United States, slamming into the Florida Panhandle with 120 mph winds. ](/news/2005/07/10/hurricane-dennis-makes-landfall-in-the-united-states-slamming-into-the-florida-panhandle-with-120-mph-winds.md)
-_Context: Dennis, Panhandle_
+_Context: Panhandle, Dennis_
 
 ##### Iraq
 ### [ taly announces that it will begin its withdrawal of troops from Iraq in September by pulling 300 of Italy's 3,000 soldiers out of the country. ](/news/2005/07/10/taly-announces-that-it-will-begin-its-withdrawal-of-troops-from-iraq-in-september-by-pulling-300-of-italy-s-3-000-soldiers-out-of-the-count.md)
@@ -17,7 +17,7 @@ _Context: Iraq_
 
 ##### John Garang
 ### [ Former rebel leader John Garang is sworn in as vice president of Sudan as part of the agreement ending the Second Sudanese Civil War. ](/news/2005/07/10/former-rebel-leader-john-garang-is-sworn-in-as-vice-president-of-sudan-as-part-of-the-agreement-ending-the-second-sudanese-civil-war.md)
-_Context: Sudan, civil war, John Garang_
+_Context: civil war, John Garang, Sudan_
 
 ##### Azerbaijan
 ### [ In Azerbaijan, about 30,000 (other sources varying from 10,000 up to 50,000) opposition members demonstrated in the country's capital, calling for fair parliamentary elections. ](/news/2005/07/10/in-azerbaijan-about-30-000-other-sources-varying-from-10-000-up-to-50-000-opposition-members-demonstrated-in-the-country-s-capital-call.md)

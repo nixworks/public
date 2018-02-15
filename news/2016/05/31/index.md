@@ -29,7 +29,7 @@ _Context: Fourth Circuit Appeals Court_
 
 ##### Frankfurter Allgemeine
 ### [In an interview with the German broadsheet "Frankfurter Allgemeine", the Tibetan spiritual leader Dalai Lama says that Germany has taken too many refugees and "from a moral standpoint" refugees should "only be accommodated temporarily" -- with the goal of them returning home to rebuild their countries. ](/news/2016/05/31/in-an-interview-with-the-german-broadsheet-frankfurter-allgemeine-the-tibetan-spiritual-leader-dalai-lama-says-that-germany-has-taken-too.md)
-_Context: Frankfurter Allgemeine, Dalai Lama, German_
+_Context: German, Frankfurter Allgemeine, Dalai Lama_
 
 ##### North Korea's nuclear program
 ### [North Korea attempts again to launch a BM25 Musudan intermediate-range ballistic missile capable of striking South Korea or Japan but is unsuccessful. ](/news/2016/05/31/north-korea-attempts-again-to-launch-a-bm25-musudan-intermediate-range-ballistic-missile-capable-of-striking-south-korea-or-japan-but-is-uns.md)

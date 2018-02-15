@@ -13,7 +13,7 @@ Congress on Thursday took a major step toward allowing oil and gas drilling in c
 
 ##### Governor of Alabama
 ### [ Former Governor of the U.S. state of Alabama Don Siegelman is convicted of bribery and conspiracy. ](/news/2006/06/29/former-governor-of-the-u-s-state-of-alabama-don-siegelman-is-convicted-of-bribery-and-conspiracy.md)
-_Context: Alabama, Governor of Alabama, U.S. state, Don Siegelman_
+_Context: U.S. state, Governor of Alabama, Alabama, Don Siegelman_
 
 ##### Dow Jones Industrial Average
 ### [ The Dow Jones Industrial Average closes up over 215 points as a result of the United States Federal Reserve saying that it would consider the overall economy, and direction of inflation, in setting the interest rate. The Federal Reserve raised interest rates for the 17th consecutive time to 5.25% due to ongoing concerns about inflation. ](/news/2006/06/29/the-dow-jones-industrial-average-closes-up-over-215-points-as-a-result-of-the-united-states-federal-reserve-saying-that-it-would-consider-t.md)
@@ -21,19 +21,19 @@ View the basic ^DJI stock chart on Yahoo Finance. Change the date range, chart t
 
 ##### Suicide bombing
 ### [ A suicide bomber attacks the funeral of a Shiite soldier in Kirkuk, Iraq, killing four and wounding 27. ](/news/2006/06/29/a-suicide-bomber-attacks-the-funeral-of-a-shiite-soldier-in-kirkuk-iraq-killing-four-and-wounding-27.md)
-_Context: Shiite, suicide bombing, Kirkuk, Iraq_
+_Context: Kirkuk, Shiite, Iraq, suicide bombing_
 
 ##### Supreme Court of the United States
 ### [ The Supreme Court of the United States rules in "Hamdan v. Rumsfeld" that the Bush Administration has no authority to try detained prisoners held in Guantanamo Bay by military tribunal, and that the proceedings violate the Geneva Convention as well as the US constitution. ](/news/2006/06/29/the-supreme-court-of-the-united-states-rules-in-hamdan-v-rumsfeld-that-the-bush-administration-has-no-authority-to-try-detained-prisoner.md)
-_Context: Hamdan v. Rumsfeld, US constitution, Geneva Convention, Guantnamo Bay, Supreme Court of the United States, George W. Bush administration_
+_Context: George W. Bush administration, Supreme Court of the United States, Geneva Convention, US constitution, Guantnamo Bay, Hamdan v. Rumsfeld_
 
 ##### British House of Commons
 ### [ British House of Commons by-elections for the constituencies of Blaenau Gwent and Bromley and Chislehurst are held to fill vacant parliamentary seats. ](/news/2006/06/29/british-house-of-commons-by-elections-for-the-constituencies-of-blaenau-gwent-and-bromley-and-chislehurst-are-held-to-fill-vacant-parliamen.md)
-_Context: Bromley and Chislehurst, by-election, British House of Commons, by-election_
+_Context: Bromley and Chislehurst, by-election, by-election, British House of Commons_
 
 ##### Israel
 ### [ Israeli government puts off an offensive to the northern Gaza Strip, and freezes military operations in the southern Gaza strip, to allow further time for diplomatic negotiations. There have been no Palestinian fatalities in two days of Israeli operations in the Gaza Strip and West Bank. ](/news/2006/06/29/israeli-government-puts-off-an-offensive-to-the-northern-gaza-strip-and-freezes-military-operations-in-the-southern-gaza-strip-to-allow-f.md)
-_Context: Palestinian, West Bank, Gaza Strip, Israel, Operation Summer Rains_
+_Context: West Bank, Palestinian, Israel, Operation Summer Rains, Gaza Strip_
 
 ##### Qassam rockets
 ### [ Six Qassam rockets are launched from the northern Gaza Strip against Israeli towns. The Israel Defense Forces fire over 400 artillery shells at unpopulated areas in the Gaza Strip, to suppress further rocket attacks. ](/news/2006/06/29/six-qassam-rockets-are-launched-from-the-northern-gaza-strip-against-israeli-towns-the-israel-defense-forces-fire-over-400-artillery-shell.md)
@@ -41,11 +41,11 @@ _Context: Palestinian, West Bank, Gaza Strip, Israel, Operation Summer Rains_
 
 ##### Russia
 ### [ Russia asks Israel to avoid harming Palestinian civilians in any offensive in the Gaza Strip and urges militants to free the abducted Israeli soldier. ](/news/2006/06/29/russia-asks-israel-to-avoid-harming-palestinian-civilians-in-any-offensive-in-the-gaza-strip-and-urges-militants-to-free-the-abducted-israe.md)
-_Context: Russia, Israel, Gaza Strip, Palestinian_
+_Context: Russia, Palestinian, Israel, Gaza Strip_
 
 ##### Eliyahu Asheri
 ### [ The body of Israeli student Eliyahu Asheri is found buried in a field near Ramallah with a head shot. Asheri, 18, was kidnapped and killed on Sunday night by a Palestinian militant group. ](/news/2006/06/29/the-body-of-israeli-student-eliyahu-asheri-is-found-buried-in-a-field-near-ramallah-with-a-head-shot-asheri-18-was-kidnapped-and-killed.md)
-_Context: Ramallah, Eliyahu Asheri_
+_Context: Eliyahu Asheri, Ramallah_
 
 ##### Israel
 ### [ Failed Israeli air strike against two Islamic Jihad militants in Gaza leaves one civilian lightly wounded. ](/news/2006/06/29/failed-israeli-air-strike-against-two-islamic-jihad-militants-in-gaza-leaves-one-civilian-lightly-wounded.md)
@@ -53,11 +53,11 @@ _Context: Ramallah, Eliyahu Asheri_
 
 ##### Alzheimer's disease
 ### [ The body of Noam Moskovich, an Alzheimer's patient who was claimed to be abducted by Palestinian militants, is found in Rishon LeZion. Police ruled out both criminal and terrorist motives. ](/news/2006/06/29/the-body-of-noam-moskovich-an-alzheimer-s-patient-who-was-claimed-to-be-abducted-by-palestinian-militants-is-found-in-rishon-lezion-poli.md)
-_Context: Alzheimer's disease, Rishon LeZion_
+_Context: Rishon LeZion, Alzheimer's disease_
 
 ##### Hamas
 ### [ Israeli soldiers arrest 62 Hamas members in the West Bank, including 8 ministers and 20 lawmakers in the Palestinian Authority, raising concern at concurrent G8 summit. Israeli officials announce that further arrests are expected, and that the suspects will face standard criminal proceedings. ](/news/2006/06/29/israeli-soldiers-arrest-62-hamas-members-in-the-west-bank-including-8-ministers-and-20-lawmakers-in-the-palestinian-authority-raising-con.md)
-_Context: West Bank, Hamas, Palestinian Authority, G8 group of nations_
+_Context: Palestinian Authority, Hamas, West Bank, G8 group of nations_
 
 ##### Kuwait
 ### [ Kuwait holds a Parliamentary election, the country's first with universal suffrage. Opposition parties win a parliamentary majority but no women are elected.](/news/2006/06/29/kuwait-holds-a-parliamentary-election-the-country-s-first-with-universal-suffrage-opposition-parties-win-a-parliamentary-majority-but-no.md)
@@ -65,7 +65,7 @@ Women went to the polls Thursday for the first time in Kuwait, voting for parlia
 
 ##### Forming a government
 ### [ The cabinet Balkenende II of the Netherlands resigns after a row between the coalition partners about the citizenship of former MP Ayaan Hirsi Ali. ](/news/2006/06/29/the-cabinet-balkenende-ii-of-the-netherlands-resigns-after-a-row-between-the-coalition-partners-about-the-citizenship-of-former-mp-ayaan-hi.md)
-_Context: Netherlands, Ayaan Hirsi Ali, Balkenende II, forming a government_
+_Context: Balkenende II, Ayaan Hirsi Ali, forming a government, Netherlands_
 
 ## [Previous Day...](/news/2006/06/28/index.md)
 

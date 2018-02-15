@@ -9,15 +9,15 @@ _Context: Santa Barbara Airlines, Venezuela, Flight 518_
 
 ##### European Broadcasting Union
 ### [ The European Broadcasting Union considers relocating the 2008 Eurovision Song Contest, scheduled to be held in Belgrade, due to security concerns. In the meantime, the Serbian National Final for the Eurovision Song Contest is postponed. ](/news/2008/02/21/the-european-broadcasting-union-considers-relocating-the-2008-eurovision-song-contest-scheduled-to-be-held-in-belgrade-due-to-security-co.md)
-_Context: Eurovision Song Contest 2008, Belgrade, Serbian National Final, European Broadcasting Union_
+_Context: Serbian National Final, European Broadcasting Union, Belgrade, Eurovision Song Contest 2008_
 
 ##### Serbian
 ### [ At least 500,000 Serbs rally in Belgrade to protest against Kosovo's declaration of independence over the weekend. ](/news/2008/02/21/at-least-500-000-serbs-rally-in-belgrade-to-protest-against-kosovo-s-declaration-of-independence-over-the-weekend.md)
-_Context: Serbian, rally, Belgrade, Kosovo_
+_Context: Belgrade, Kosovo, Serbian, rally_
 
 ##### United States Navy
 ### [ The United States Navy shoots down USA 193, a spy satellite in a decaying orbit, over the Pacific Ocean. ](/news/2008/02/21/the-united-states-navy-shoots-down-usa-193-a-spy-satellite-in-a-decaying-orbit-over-the-pacific-ocean.md)
-_Context: USA 193, South Pacific Ocean, United States Navy_
+_Context: USA 193, United States Navy, South Pacific Ocean_
 
 ##### Special prosecutor
 ### [ A special prosecutor clears South Korean president-elect Lee Myung-bak of fraud allegations. ](/news/2008/02/21/a-special-prosecutor-clears-south-korean-president-elect-lee-myung-bak-of-fraud-allegations.md)
@@ -25,11 +25,11 @@ Read the latest national and world news on Newsday. All the top stores, latest v
 
 ##### Earthquake
 ### [ A magnitude 7.5 earthquake strikes the Indonesian province of Aceh. ](/news/2008/02/21/a-magnitude-7-5-earthquake-strikes-the-indonesian-province-of-aceh.md)
-_Context: Aceh, Indonesia, earthquake_
+_Context: earthquake, Aceh, Indonesia_
 
 ##### Singapore
 ### [ Singapore is elected by the International Olympic Committee as the first city to host the Youth Olympic Games in 2010. ](/news/2008/02/21/singapore-is-elected-by-the-international-olympic-committee-as-the-first-city-to-host-the-youth-olympic-games-in-2010.md)
-_Context: Singapore, Youth Olympic Games, International Olympic Committee_
+_Context: Youth Olympic Games, Singapore, International Olympic Committee_
 
 ##### Wells, Nevada
 ### [ An earthquake of 6.3 Magnitude hits 11.1 miles east-southeast of Wells, Nevada. It is 2.2 miles deep, and is felt as far away as Twin Falls, Idaho, about 125 miles away, and Salt Lake City, Utah, about 180 miles away. ](/news/2008/02/21/an-earthquake-of-6-3-magnitude-hits-11-1-miles-east-southeast-of-wells-nevada-it-is-2-2-miles-deep-and-is-felt-as-far-away-as-twin-falls.md)
@@ -37,7 +37,7 @@ _Context: Wells, Nevada, Salt Lake City, Twin Falls, Idaho_
 
 ##### Gazprom
 ### [ Gazprom, Total and StatoilHydro incorporate the Shtokman Development Company, a joint operating company to develop the giant Shtokman gas field. ](/news/2008/02/21/gazprom-total-and-statoilhydro-incorporate-the-shtokman-development-company-a-joint-operating-company-to-develop-the-giant-shtokman-gas-f.md)
-_Context: StatoilHydro, Gazprom, Total, Shtokman gas field_
+_Context: Shtokman gas field, StatoilHydro, Total, Gazprom_
 
 ## [Previous Day...](/news/2008/02/20/index.md)
 

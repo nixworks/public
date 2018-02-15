@@ -5,7 +5,7 @@ Formats: [HTML](2010/11/20/index.html)  [JSON](2010/11/20/index.json)  [XML](201
 
 ##### Nigerian Armed Forces
 ### [The Nigerian army arrests the leader of a militant gang and 51 others believed responsible for hostage-taking in the Niger Delta. ](/news/2010/11/20/the-nigerian-army-arrests-the-leader-of-a-militant-gang-and-51-others-believed-responsible-for-hostage-taking-in-the-niger-delta.md)
-_Context: Niger Delta, Nigerian Armed Forces_
+_Context: Nigerian Armed Forces, Niger Delta_
 
 ##### Mutinous soldiers
 ### [A three day mutiny in Madagascar ends after an army barracks occupied by rebel troops is stormed by the army. ](/news/2010/11/20/a-three-day-mutiny-in-madagascar-ends-after-an-army-barracks-occupied-by-rebel-troops-is-stormed-by-the-army.md)
@@ -21,7 +21,7 @@ The Vatican says it is preparing guidelines on how to prevent clerical sex abuse
 
 ##### Russian
 ### [Nine people, including Russians and Ukrainians, die in a bus accident in Egypt. ](/news/2010/11/20/nine-people-including-russians-and-ukrainians-die-in-a-bus-accident-in-egypt.md)
-_Context: Russian, Egypt, Ukrainian_
+_Context: Ukrainian, Egypt, Russian_
 
 #####  Doctors without Borders
 ### [ Doctors without Borders criticizes the response to the 2010 Haiti cholera outbreak as inadequate. ](/news/2010/11/20/doctors-without-borders-criticizes-the-response-to-the-2010-haiti-cholera-outbreak-as-inadequate.md)
@@ -33,19 +33,19 @@ Twelve military personnel, including three officers, were killed when their Mi-1
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI urges Pakistani authorities to release Aasia Bibi, a Christian woman facing a death sentence on a charge of blasphemy against Islam. ](/news/2010/11/20/pope-benedict-xvi-urges-pakistani-authorities-to-release-aasia-bibi-a-christian-woman-facing-a-death-sentence-on-a-charge-of-blasphemy-agai.md)
-_Context: Christian, blasphemy, Aasia Bibi, Islam, Pope Benedict XVI, Pakistan_
+_Context: Pakistan, Islam, Aasia Bibi, blasphemy, Christian, Pope Benedict XVI_
 
 ##### China
 ### [China's state-backed church appoints a bishop without the approval of Pope Benedict XVI. ](/news/2010/11/20/china-s-state-backed-church-appoints-a-bishop-without-the-approval-of-pope-benedict-xvi.md)
-_Context: state-backed church, Pope Benedict XVI, China_
+_Context: state-backed church, China, Pope Benedict XVI_
 
 ##### Secretary General of the United Nations
 ### [United Nations Secretary-General Ban Ki-moon is welcoming Iran's invitation for a visit next year by the United Nations' human rights chief, Navi Pillay ](/news/2010/11/20/united-nations-secretary-general-ban-ki-moon-is-welcoming-iran-s-invitation-for-a-visit-next-year-by-the-united-nations-human-rights-chief.md)
-_Context: Iran, OCHR, Ban Ki-moon, Navi Pillay, Secretary General of the United Nations_
+_Context: OCHR, Secretary General of the United Nations, Navi Pillay, Iran, Ban Ki-moon_
 
 ##### NATO
 ### [NATO nations agree to start handing over Afghanistan's security to the Afghanistan military and give local forces total control by 2014. ](/news/2010/11/20/nato-nations-agree-to-start-handing-over-afghanistan-s-security-to-the-afghanistan-military-and-give-local-forces-total-control-by-2014.md)
-_Context: Afghan military, Afghanistan, NATO_
+_Context: NATO, Afghanistan, Afghan military_
 
 ##### United States Senate
 ### [The United States Senate settles with a payment of $4.6 billion to black farmers and at least 300,000 Native Americans who objected to government discrimination and cheating in "Cobell v. Salazar". ](/news/2010/11/20/the-united-states-senate-settles-with-a-payment-of-4-6-billion-to-black-farmers-and-at-least-300-000-native-americans-who-objected-to-gover.md)
@@ -57,7 +57,7 @@ The Vatican says it is preparing guidelines on how to prevent clerical sex abuse
 
 ##### Mahmoud Bahmani
 ### [Mahmoud Bahmani resigns as Governor of the Central Bank of Iran. ](/news/2010/11/20/mahmoud-bahmani-resigns-as-governor-of-the-central-bank-of-iran.md)
-_Context: Governor of the Central Bank of Iran, Mahmoud Bahmani_
+_Context: Mahmoud Bahmani, Governor of the Central Bank of Iran_
 
 ## [Previous Day...](/news/2010/11/19/index.md)
 

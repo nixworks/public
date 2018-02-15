@@ -9,7 +9,7 @@ Tens of thousands of followers of anti-American Shiite cleric Moqtada al-Sadr ha
 
 ##### Algeria
 ### [ Algeria's presidential election takes place. ](/news/2009/04/9/algeria-s-presidential-election-takes-place.md)
-_Context: Algeria, reelected, President_
+_Context: reelected, Algeria, President_
 
 ##### Indonesia
 ### [ Indonesia's legislative election takes place. ](/news/2009/04/9/indonesia-s-legislative-election-takes-place.md)
@@ -17,7 +17,7 @@ Thursday’s vote is seen as an important gauge of the country’s democratic re
 
 ##### Riot
 ### [ Riots occur after Baloch National Movement President Ghulam Mohammed Baloch is discovered dead near Turbat, Pakistan. ](/news/2009/04/9/riots-occur-after-baloch-national-movement-president-ghulam-mohammed-baloch-is-discovered-dead-near-turbat-pakistan.md)
-_Context: Riot, Baloch National Movement, President, Ghulam Mohammed Baloch, Pakistan, Turbat_
+_Context: Ghulam Mohammed Baloch, Pakistan, President, Baloch National Movement, Turbat, Riot_
 
 ##### Kim Jong-il
 ### [ Kim Jong-il appears publicly for the first time since August 2008 for reelection as North Korea's Great Leader. ](/news/2009/04/9/kim-jong-il-appears-publicly-for-the-first-time-since-august-2008-for-reelection-as-north-korea-s-great-leader.md)
@@ -25,23 +25,23 @@ North Korean leader Kim Jong-il appeared at his first major event since he was s
 
 ##### Harry Potter
 ### [ "Harry Potter" author J. K. Rowling resigns as patron of Scotland's Multiple Sclerosis Society. ](/news/2009/04/9/harry-potter-author-j-k-rowling-resigns-as-patron-of-scotland-s-multiple-sclerosis-society.md)
-_Context: author, J. K. Rowling, Harry Potter, Scotland, patron, Multiple Sclerosis Society_
+_Context: Multiple Sclerosis Society, Scotland, author, Harry Potter, J. K. Rowling, patron_
 
 ##### Foreign national
 ### [ Forty-six foreign nationals depart Belfast, Northern Ireland, after riots during 2010 FIFA World Cup qualifying matches. ](/news/2009/04/9/forty-six-foreign-nationals-depart-belfast-northern-ireland-after-riots-during-2010-fifa-world-cup-qualifying-matches.md)
-_Context: 2010 FIFA World Cup, riot, Northern Ireland, qualifying matches, Belfast, foreign national_
+_Context: 2010 FIFA World Cup, Belfast, riot, Northern Ireland, qualifying matches, foreign national_
 
 ##### Demonstration
 ### [ Demonstrators assemble in Tbilisi, Georgia, to demand the resignation of President Mikheil Saakashvili. ](/news/2009/04/9/demonstrators-assemble-in-tbilisi-georgia-to-demand-the-resignation-of-president-mikheil-saakashvili.md)
-_Context: Mikheil Saakashvili,  Georgian, Tbilisi, demonstration, President of Georgia_
+_Context: Mikheil Saakashvili, demonstration, Tbilisi,  Georgian, President of Georgia_
 
-##### U.S.
+##### United States
 ### [ The U.S. Central Intelligence Agency allegedly decommissions its black sites worldwide. ](/news/2009/04/9/the-u-s-central-intelligence-agency-allegedly-decommissions-its-black-sites-worldwide.md)
-_Context: CIA, black site, U.S._
+_Context: black site, CIA, United States_
 
 ##### Bishop
 ### [ Bishop Harold Miller of the Church of Ireland advises a boycott of television on Good Friday. ](/news/2009/04/9/bishop-harold-miller-of-the-church-of-ireland-advises-a-boycott-of-television-on-good-friday.md)
-_Context: Bishop, boycott, Church of Ireland, Good Friday, Harold Miller, television_
+_Context: Church of Ireland, Good Friday, television, Bishop, Harold Miller, boycott_
 
 ## [Previous Day...](/news/2009/04/8/index.md)
 

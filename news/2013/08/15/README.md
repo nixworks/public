@@ -17,7 +17,7 @@ Hundreds of Palestinians stranded by latest closure of Rafah terminal
 
 ##### Carl XVI Gustaf
 ### [King Carl XVI Gustaf of Sweden and his wife, Queen Silvia of Sweden, are criticised after they received and wore, on their trip to Harnosand, Palestinian keffiyehs with a message in Arabic language purportedly meaning "Our Aqsa and not their temple". ](/news/2013/08/15/king-carl-xvi-gustaf-of-sweden-and-his-wife-queen-silvia-of-sweden-are-criticised-after-they-received-and-wore-on-their-trip-to-ha-rnapsa.md)
-_Context: Queen Silvia of Sweden, Al-Aqsa Mosque, Harnosand, Carl XVI Gustaf, keffiyeh, temple_
+_Context: Al-Aqsa Mosque, temple, Harnosand, Carl XVI Gustaf, keffiyeh, Queen Silvia of Sweden_
 
 ##### Srebrenica massacre
 ### [Aleksandar Cvetkovic is extradited to Bosnia-Herzegovina for trial regarding the 1995 Srebrenica massacre. ](/news/2013/08/15/aleksandar-cvetkovia-is-extradited-to-bosnia-herzegovina-for-trial-regarding-the-1995-srebrenica-massacre.md)
@@ -25,7 +25,7 @@ Defendant &quot;stunned by charges&quot;; fellow soldiers testify Serb-Israeli p
 
 ##### MPs
 ### [The Parliament of Iran confirms Hassan Rouhani's cabinet. However, three designated ministers did not receive a vote of confidence, including Mohammad-Ali Najafi who was the Minister of Education-nominate. ](/news/2013/08/15/the-parliament-of-iran-confirms-hassan-rouhani-s-cabinet-however-three-designated-ministers-did-not-receive-a-vote-of-confidence-includin.md)
-_Context: vote of confidence, Minister of Education, Hassan Rouhani, Mohammad-Ali Najafi, impeach, MPs, cabinet_
+_Context: Minister of Education, cabinet, vote of confidence, impeach, MPs, Mohammad-Ali Najafi, Hassan Rouhani_
 
 ##### Brazil's Chamber of Deputies
 ### [The Brazilian Chamber of Deputies passes a controversial bill regulating the allocation of royalties derived from that country's oil exploration, when 75% of the money will only go to education and the other 25% only for health. ](/news/2013/08/15/the-brazilian-chamber-of-deputies-passes-a-controversial-bill-regulating-the-allocation-of-royalties-derived-from-that-countrya-s-oil-explor.md)

@@ -9,7 +9,7 @@ _Context: Tunisia, Lotfi Ben Jeddou_
 
 ##### Ramzan Kadyrov
 ### [Ramzan Kadyrov, Head of the Chechen Republic, insists he has not sent troops to Ukraine to fight alongside pro-Russia separatists. ](/news/2014/05/28/ramzan-kadyrov-head-of-the-chechen-republic-insists-he-has-not-sent-troops-to-ukraine-to-fight-alongside-pro-russia-separatists.md)
-_Context: Ramzan Kadyrov, Ukraine, Chechen Republic leader_
+_Context: Chechen Republic leader, Ukraine, Ramzan Kadyrov_
 
 ##### Tehrik-i-Taliban Pakistan
 ### [A split emerges in the Pakistani Taliban after the Mehsud faction walked out, saying the group leaders' tactics were "un-Islamic". ](/news/2014/05/28/a-split-emerges-in-the-pakistani-taliban-after-the-mehsud-faction-walked-out-saying-the-group-leaders-tactics-were-un-islamic.md)
@@ -21,11 +21,11 @@ At least 11 people have been killed and dozens injured in an attack on a church 
 
 ##### Apple Inc.
 ### [Apple Inc. confirms that it will buy Beats Electronics for $3 billion. ](/news/2014/05/28/apple-inc-confirms-that-it-will-buy-beats-electronics-for-3-billion.md)
-_Context: Apple Inc., Beats Electronics_
+_Context: Beats Electronics, Apple Inc._
 
 ##### South Korea
 ### [A fire at the Hyosarang hospital, a hospital for the elderly in South Korea's Jangseong County, kills at least 21 people and injures 7. ](/news/2014/05/28/a-fire-at-the-hyosarang-hospital-a-hospital-for-the-elderly-in-south-korea-s-jangseong-county-kills-at-least-21-people-and-injures-7.md)
-_Context: South Korea, Jangseong County_
+_Context: Jangseong County, South Korea_
 
 ##### French police
 ### [French police raid a camp site in the port city of Calais containing 800 migrants from Asia, Africa and the Middle East. ](/news/2014/05/28/french-police-raid-a-camp-site-in-the-port-city-of-calais-containing-800-migrants-from-asia-africa-and-the-middle-east.md)

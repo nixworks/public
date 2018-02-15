@@ -13,7 +13,7 @@ _Context: Russian passenger jet that crashed, West Java, black box, Indonesia_
 
 ##### Bosnian Serb
 ### [The trial of former Bosnian Serb Army Colonel General Ratko Mladic starts in the International Criminal Tribunal for the former Yugoslavia in The Hague, Netherlands. ](/news/2012/05/16/the-trial-of-former-bosnian-serb-army-colonel-general-ratko-mladia-starts-in-the-international-criminal-tribunal-for-the-former-yugoslavia.md)
-_Context: Army, Ratko Mladic, Bosnian Serb, The Hague, International Criminal Tribunal for the former Yugoslavia, Colonel General_
+_Context: Bosnian Serb, The Hague, Colonel General, International Criminal Tribunal for the former Yugoslavia, Army, Ratko Mladic_
 
 ##### Police
 ### [Police in the Australian state of Queensland remove an Aboriginal Tent Embassy in Musgrave Park in the state capital Brisbane. ](/news/2012/05/16/police-in-the-australian-state-of-queensland-remove-an-aboriginal-tent-embassy-in-musgrave-park-in-the-state-capital-brisbane.md)
@@ -25,11 +25,11 @@ Greece will hold fresh elections on 17 June and a judge is appointed to head an 
 
 ##### Jean-Marc Ayrault
 ### [Jean-Marc Ayrault is sworn in as the Prime Minister of France. ](/news/2012/05/16/jean-marc-ayrault-is-sworn-in-as-the-prime-minister-of-france.md)
-_Context: Prime Minister, Jean-Marc Ayrault_
+_Context: Jean-Marc Ayrault, Prime Minister_
 
 ##### Parachuting Rat
 ### [Parachuting Rat, an artwork by Banksy, in Melbourne, estimated to be worth AU$50,000, has been accidentally destroyed by building work. ](/news/2012/05/16/parachuting-rat-an-artwork-by-banksy-in-melbourne-estimated-to-be-worth-au-50-000-has-been-accidentally-destroyed-by-building-work.md)
-_Context: Banksy, Melbourne, Parachuting Rat_
+_Context: Melbourne, Parachuting Rat, Banksy_
 
 ##### China Central Television Headquarters
 ### [China Central Television Headquarters in Beijing is completed, a decade after its design by OMA. ](/news/2012/05/16/china-central-television-headquarters-in-beijing-is-completed-a-decade-after-its-design-by-oma.md)

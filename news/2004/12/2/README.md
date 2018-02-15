@@ -17,7 +17,7 @@ _Context: United Nations, nuclear program_
 
 ##### European Union
 ### [ The European Union takes over from NATO in peacekeeping operations in Bosnia and Herzegovina, largely replacing the NATO-led SFOR with a new Eufor. ](/news/2004/12/2/the-european-union-takes-over-from-nato-in-peacekeeping-operations-in-bosnia-and-herzegovina-largely-replacing-the-nato-led-sfor-with-a-ne.md)
-_Context: Eufor, NATO, peacekeeping, Bosnia and Herzegovina, European Union, SFOR_
+_Context: peacekeeping, European Union, Eufor, Bosnia and Herzegovina, NATO, SFOR_
 
 ##### Inter-American Court of Human Rights
 ### [The Inter-American Court of Human Rights upholds Peru's conviction and continued imprisonment of U.S. citizen Lori Berenson on terrorism charges. ](/news/2004/12/2/the-inter-american-court-of-human-rights-upholds-peru-s-conviction-and-continued-imprisonment-of-u-s-citizen-lori-berenson-on-terrorism-cha.md)
@@ -25,19 +25,19 @@ _Context: Inter-American Court of Human Rights, Lori Berenson, terrorism_
 
 ##### George W. Bush
 ### [ A spokesman for George W. Bush requests that Myanmar release dissident opposition leader Aung San Suu Kyi, whose house arrest was recently extended. ](/news/2004/12/2/a-spokesman-for-george-w-bush-requests-that-myanmar-release-dissident-opposition-leader-aung-san-suu-kyi-whose-house-arrest-was-recently.md)
-_Context: Aung San Suu Kyi, house arrest, George W. Bush, opposition party, Myanmar_
+_Context: opposition party, George W. Bush, house arrest, Aung San Suu Kyi, Myanmar_
 
 ##### Mijailo Mijailovic
 ### [ The life sentence of Mijailo Mijailovic, killer of Swedish minister Anna Lindh, is confirmed by the Swedish Supreme Court. ](/news/2004/12/2/the-life-sentence-of-mijailo-mijailovia-killer-of-swedish-minister-anna-lindh-is-confirmed-by-the-swedish-supreme-court.md)
-_Context: Anna Lindh, Swedish Supreme Court, Mijailo Mijailovic_
+_Context: Swedish Supreme Court, Anna Lindh, Mijailo Mijailovic_
 
 ##### George Galloway
 ### [British Member of Parliament and anti-war activist George Galloway wins his libel case against the "Daily Telegraph", which during the invasion of Iraq had published a story suggesting that Galloway had been in the pay of Saddam Hussein. ](/news/2004/12/2/british-member-of-parliament-and-anti-war-activist-george-galloway-wins-his-libel-case-against-the-daily-telegraph-which-during-the-invas.md)
-_Context: Daily Telegraph, libel, Saddam Hussein, George Galloway_
+_Context: George Galloway, libel, Saddam Hussein, Daily Telegraph_
 
 ##### U.S. President
 ### [U.S. President George W. Bush nominates Nebraska Governor Mike Johanns to become the next Secretary of Agriculture. If confirmed by the Senate, Johanns would fill the Cabinet position currently held by resigning Secretary Ann Veneman. ](/news/2004/12/2/u-s-president-george-w-bush-nominates-nebraska-governor-mike-johanns-to-become-the-next-secretary-of-agriculture-if-confirmed-by-the-sena.md)
-_Context: U.S. President, Cabinet, Nebraska Governor, United States Secretary of Agriculture, United States Senate, Ann Veneman, George W. Bush, Mike Johanns_
+_Context: U.S. President, Ann Veneman, United States Secretary of Agriculture, Cabinet, United States Senate, Mike Johanns, Nebraska Governor, George W. Bush_
 
 ## [Previous Day...](/news/2004/12/1/index.md)
 

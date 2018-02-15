@@ -9,7 +9,7 @@ Ukraine&#39;s Armed Forces have taken control of Savur-Mohyla in Donetsk region,
 
 ##### Philippines
 ### [At least 16 people are killed and 13 injured in the Philippines in a terrorist attack by Islamic group Abu Sayyaf. ](/news/2014/07/28/at-least-16-people-are-killed-and-13-injured-in-the-philippines-in-a-terrorist-attack-by-islamic-group-abu-sayyaf.md)
-_Context: Philippines, Abu Sayyaf_
+_Context: Abu Sayyaf, Philippines_
 
 ##### National Oil Corp.
 ### [A huge fire at the National Oil Corp. depot started by a stray rocket threatens the Libyan capital Tripoli. ](/news/2014/07/28/a-huge-fire-at-the-national-oil-corp-depot-started-by-a-stray-rocket-threatens-the-libyan-capital-tripoli.md)
@@ -21,7 +21,7 @@ Reporters are bullied, have equipment confiscated, barred from sensitive sites&#
 
 ##### Discount store
 ### [American discount store chain Dollar Tree reaches an $8.5 billion deal to buy out rival Family Dollar. ](/news/2014/07/28/american-discount-store-chain-dollar-tree-reaches-an-8-5-billion-deal-to-buy-out-rival-family-dollar.md)
-_Context: discount store, Dollar Tree, Family Dollar_
+_Context: discount store, Family Dollar, Dollar Tree_
 
 ##### Permanent Court of Arbitration's
 ### [The Hague's Permanent Court of Arbitration says Russian officials have manipulated the legal system to bankrupt Russia's largest Yukos oil company, and jail its boss (Mikhail Khodorkovsky and others). Yukos was the object of a series of politically motivated attacks by the Russian authorities that eventually led to its destruction. The company's assets were illegally expropriated for the benefit of State companies Rosneft and Gazprom. The Yuganskneftegaz auction was illegal. The $50 billion awarded by the Hague's arbitration court against Russia is the largest arbitration award ever. ](/news/2014/07/28/the-hague-s-permanent-court-of-arbitration-says-russian-officials-have-manipulated-the-legal-system-to-bankrupt-russia-s-largest-yukos-oil-c.md)
@@ -29,7 +29,7 @@ An international arbitration court ruled on Monday that Russia must pay $50 bill
 
 ##### Real estate
 ### [Real estate firms Zillow and Trulia agree to merge, becoming the world's third-largest real estate firm. ](/news/2014/07/28/real-estate-firms-zillow-and-trulia-agree-to-merge-becoming-the-world-s-third-largest-real-estate-firm.md)
-_Context: Trulia, Real estate, Zillow_
+_Context: Real estate, Zillow, Trulia_
 
 ##### EF-2
 ### [A rare EF2 tornado strikes Chelsea and Revere, Massachusetts marking the first such incident since at least 1950 that a tornado had hit the two communities north of Boston according to the NWS. ](/news/2014/07/28/a-rare-ef2-tornado-strikes-chelsea-and-revere-massachusetts-marking-the-first-such-incident-since-at-least-1950-that-a-tornado-had-hit-the.md)

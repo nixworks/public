@@ -9,31 +9,31 @@ Georgian President Mikhail Saakashvili said the former Soviet republic will rais
 
 ##### 2006-07 Southern Hemisphere tropical cyclone season
 ### [ 2006-07 Southern Hemisphere tropical cyclone season: Tropical Cyclone George crosses the coast of northwest Western Australia near Port Hedland, resulting in at least three deaths and serious property damage in the area. ](/news/2007/03/8/2006-07-southern-hemisphere-tropical-cyclone-season-tropical-cyclone-george-crosses-the-coast-of-northwest-western-australia-near-port-hed.md)
-_Context: 2006-07 Southern Hemisphere tropical cyclone season, Port Hedland, typhoon, George, Western Australia_
+_Context: Western Australia, typhoon, Port Hedland, 2006-07 Southern Hemisphere tropical cyclone season, George_
 
 ##### Democrat
 ### [ Democratic members of the U.S. House of Representatives propose legislation that would withdraw all U.S. combat troops from Iraq by August 2008 or sooner if certain requirements are not met. ](/news/2007/03/8/democratic-members-of-the-u-s-house-of-representatives-propose-legislation-that-would-withdraw-all-u-s-combat-troops-from-iraq-by-august.md)
-_Context: 2008, United States military personnel, Democrat, Iraq, United States House of Representatives_
+_Context: United States House of Representatives, Iraq, Democrat, 2008, United States military personnel_
 
 ##### 2007 National People's Congress
 ### [ 2007 National People's Congress: The People's Republic of China launches a property law designed to better protect individual property rights. ](/news/2007/03/8/2007-national-people-s-congress-the-people-s-republic-of-china-launches-a-property-law-designed-to-better-protect-individual-property-righ.md)
-_Context: property rights, 2007 National People's Congress, China_
+_Context: 2007 National People's Congress, property rights, China_
 
 ##### Sri Lankan Civil War
 ### [ Sri Lankan Civil War: Thousands of civilians flee their homes in Sri Lanka because of fighting between government troops and the Tamil Tigers. ](/news/2007/03/8/sri-lankan-civil-war-thousands-of-civilians-flee-their-homes-in-sri-lanka-because-of-fighting-between-government-troops-and-the-tamil-tige.md)
-_Context: Sri Lankan Civil War, Tamil Tigers, Sri Lanka, Army_
+_Context: Sri Lanka, Army, Sri Lankan Civil War, Tamil Tigers_
 
 ##### War in Somalia
 ### [ War in Somalia: African Union peacekeepers are ambushed by insurgents in Mogadishu for a second successive day. ](/news/2007/03/8/war-in-somalia-african-union-peacekeepers-are-ambushed-by-insurgents-in-mogadishu-for-a-second-successive-day.md)
-_Context: AMISOM, Mogadishu, Insurgency in Somalia, War in Somalia, African Union, ambush_
+_Context: Mogadishu, AMISOM, War in Somalia, African Union, Insurgency in Somalia, ambush_
 
 ##### U.S. President
 ### [ U.S. President George W. Bush departs on a tour of Latin America that will take him to Brazil, Uruguay, Colombia, Guatemala and Mexico. Upon arrival in SGBPo Paulo he is greeted with protest demonstrations. ](/news/2007/03/8/u-s-president-george-w-bush-departs-on-a-tour-of-latin-america-that-will-take-him-to-brazil-uruguay-colombia-guatemala-and-mexico-upo.md)
-_Context: Mexican, Colombia, George W. Bush, SGBPo Paulo, Brazil, U.S. President, protest, Uruguay, Guatemala, demonstration, Latin America_
+_Context: George W. Bush, Colombia, Uruguay, Guatemala, demonstration, Brazil, protest, Mexican, Latin America, SGBPo Paulo, U.S. President_
 
 ##### Greek Cypriots
 ### [ Greek Cypriots dismantle the portion of the separation fence between the Republic of Cyprus and the Turkish Republic of Northern Cyprus in Nicosia. ](/news/2007/03/8/greek-cypriots-dismantle-the-portion-of-the-separation-fence-between-the-republic-of-cyprus-and-the-turkish-republic-of-northern-cyprus-in.md)
-_Context: Cypriot, TRNC, Nicosia, Greek Cypriots, separation fence_
+_Context: Cypriot, Greek Cypriots, TRNC, Nicosia, separation fence_
 
 ## [Previous Day...](/news/2007/03/7/index.md)
 

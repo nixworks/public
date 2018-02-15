@@ -15,9 +15,9 @@ Find the latest sports news and articles on the NFL, MLB, NBA, NHL, NCAA college
 ### [ Ariel Sharon's condition worsens. ](/news/2006/07/23/ariel-sharon-s-condition-worsens.md)
 _Context: Ariel Sharon_
 
-##### U.S.
+##### United States
 ### [ American Floyd Landis wins the 2006 Tour de France. ](/news/2006/07/23/american-floyd-landis-wins-the-2006-tour-de-france.md)
-_Context: Floyd Landis, 2006, U.S._
+_Context: Floyd Landis, 2006, United States_
 
 ##### UN
 ### [ The UN's Jan Egeland has condemned the devastation caused by Israeli air strikes in Beirut, saying it is a violation of humanitarian law.](/news/2006/07/23/the-un-s-jan-egeland-has-condemned-the-devastation-caused-by-israeli-air-strikes-in-beirut-saying-it-is-a-violation-of-humanitarian-law.md)
@@ -25,11 +25,11 @@ _Context: Floyd Landis, 2006, U.S._
 
 ##### Earthquake
 ### [ An "'earthquake"' of 6.1 magnitude off the coast of Gorontalo province on the Indonesian island of Sulawesi prompts warnings of a possible tsunami. ](/news/2006/07/23/an-earthquake-of-6-1-magnitude-off-the-coast-of-gorontalo-province-on-the-indonesian-island-of-sulawesi-prompts-warnings-of-a-possible.md)
-_Context: tsunami, Gorontalo, Indonesia, Sulawesi island, earthquake_
+_Context: earthquake, Sulawesi island, Indonesia, Gorontalo, tsunami_
 
 ##### Suicide bomb
 ### [ A suicide bomb explosion kills at least 26 people in a busy market in Sadr City, a predominantly Shi'a district of Baghdad. ](/news/2006/07/23/a-suicide-bomb-explosion-kills-at-least-26-people-in-a-busy-market-in-sadr-city-a-predominantly-shi-a-district-of-baghdad.md)
-_Context: Sadr City, suicide bomb, Shi'a, Baghdad_
+_Context: Shi'a, suicide bomb, Baghdad, Sadr City_
 
 ## [Previous Day...](/news/2006/07/22/index.md)
 

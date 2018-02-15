@@ -25,7 +25,7 @@ Main markets open sharply down as nearly 700 companies request their shares be s
 
 ##### Microsoft
 ### [Microsoft announces another 7,800 job cuts primarily in its struggling phone division acquired from Nokia. ](/news/2015/07/8/microsoft-announces-another-7-800-job-cuts-primarily-in-its-struggling-phone-division-acquired-from-nokia.md)
-_Context: Nokia, Microsoft_
+_Context: Microsoft, Nokia_
 
 ##### New York Stock Exchange
 ### [The New York Stock Exchange stops trading for nearly four hours due to a technical error. ](/news/2015/07/8/the-new-york-stock-exchange-stops-trading-for-nearly-four-hours-due-to-a-technical-error.md)
@@ -49,11 +49,11 @@ Russia vetoed a United Nations Security Council resolution on Wednesday that wou
 
 ##### Canadian
 ### [Tens of thousands of people are being evacuated from western Canada as firefighters continue to battle wildfires in Saskatchewan, Alberta and British Columbia. ](/news/2015/07/8/tens-of-thousands-of-people-are-being-evacuated-from-western-canada-as-firefighters-continue-to-battle-wildfires-in-saskatchewan-alberta-an.md)
-_Context: British Columbia, Alberta, Canadian, Saskatchewan, wildfire_
+_Context: British Columbia, Saskatchewan, wildfire, Canadian, Alberta_
 
 ##### 1Malaysia Development Berhad scandal
 ### [Malaysian police raid the offices of government owned by 1Malaysia Development Berhad in relation to a corruption scandal. ](/news/2015/07/8/malaysian-police-raid-the-offices-of-government-owned-by-1malaysia-development-berhad-in-relation-to-a-corruption-scandal.md)
-_Context: 1Malaysia Development Berhad scandal, Malaysian police_
+_Context: Malaysian police, 1Malaysia Development Berhad scandal_
 
 ##### University of Maryland, Baltimore
 ### [Gunmen kill three, wound one, Tuesday evening near the University of Maryland, Baltimore campus in what police report was an apparently targeted shooting unrelated to the college. ](/news/2015/07/8/gunmen-kill-three-wound-one-tuesday-evening-near-the-university-of-maryland-baltimore-campus-in-what-police-report-was-an-apparently-targ.md)

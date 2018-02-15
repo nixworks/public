@@ -9,11 +9,11 @@ _Context: Ukraine, Kiev_
 
 ##### Hezbollah
 ### [A bomb detonates at a Hezbollah building in Beirut, Lebanon killing 4 people and wounding 35. ](/news/2014/01/21/a-bomb-detonates-at-a-hezbollah-building-in-beirut-lebanon-killing-4-people-and-wounding-35.md)
-_Context: Lebanese, Beirut, Hezbollah_
+_Context: Beirut, Hezbollah, Lebanese_
 
 ##### Pakistan
 ### [Pakistani military aircraft bomb suspected Taliban hideouts killing 25 militants in North Waziristan. ](/news/2014/01/21/pakistani-military-aircraft-bomb-suspected-taliban-hideouts-killing-25-militants-in-north-waziristan.md)
-_Context: North Waziristan, Pakistan, Taliban_
+_Context: Taliban, North Waziristan, Pakistan_
 
 ##### Digital currency
 ### [First time in the history of digital currency, two Las Vegas casinos begin to accept Bitcoin. ](/news/2014/01/21/first-time-in-the-history-of-digital-currency-two-las-vegas-casinos-begin-to-accept-bitcoin.md)
@@ -29,11 +29,11 @@ _Context: Iraq_
 
 ##### Purdue University
 ### [A man is killed in a shooting at Purdue University in West Lafayette, Indiana, U.S. A suspect is in custody. ](/news/2014/01/21/a-man-is-killed-in-a-shooting-at-purdue-university-in-west-lafayette-indiana-u-s-a-suspect-is-in-custody.md)
-_Context: Purdue University, West Lafayette, Indiana_
+_Context: West Lafayette, Indiana, Purdue University_
 
 ##### Zetas
 ### [One of the founders of Los Zetas drug cartel, Rogelio Gonzalez Pizana, is sentenced to 16 years in prison. ](/news/2014/01/21/one-of-the-founders-of-los-zetas-drug-cartel-rogelio-gonza-lez-pizaa-a-is-sentenced-to-16-years-in-prison.md)
-_Context: Zetas, Rogelio Gonzalez Pizana_
+_Context: Rogelio Gonzalez Pizana, Zetas_
 
 ##### Virginia
 ### [Former Virginia governor Bob McDonnell and his wife are indicted on federal corruption charges for allegedly receiving various financial benefits from a businessman seeking favors from the state government. ](/news/2014/01/21/former-virginia-governor-bob-mcdonnell-and-his-wife-are-indicted-on-federal-corruption-charges-for-allegedly-receiving-various-financial-ben.md)

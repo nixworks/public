@@ -5,11 +5,11 @@ Formats: [HTML](2006/04/1/index.html)  [JSON](2006/04/1/index.json)  [XML](2006/
 
 ##### Marcos Pontes
 ### [ Marcos Pontes, Brazil's first astronaut, reaches the International Space Station. ](/news/2006/04/1/marcos-pontes-brazil-s-first-astronaut-reaches-the-international-space-station.md)
-_Context: astronaut, International Space Station, Brazil, Marcos Pontes_
+_Context: astronaut, Marcos Pontes, Brazil, International Space Station_
 
 ##### Rio de Janeiro
 ### [ A small aircraft goes missing whilst in flight towards Rio de Janeiro, Brazil, with 19 people on board. It is found to have crashed near Saquarema, about 100&nbsp;km from Rio. There are no survivors. ](/news/2006/04/1/a-small-aircraft-goes-missing-whilst-in-flight-towards-rio-de-janeiro-brazil-with-19-people-on-board-it-is-found-to-have-crashed-near-sa.md)
-_Context: Brazil, Rio de Janeiro, Saquarema_
+_Context: Saquarema, Brazil, Rio de Janeiro_
 
 ##### Serious Organised Crime Agency
 ### [ The Serious Organised Crime Agency, dubbed the 'British FBI', is launched in the United Kingdom. ](/news/2006/04/1/the-serious-organised-crime-agency-dubbed-the-british-fbi-is-launched-in-the-united-kingdom.md)

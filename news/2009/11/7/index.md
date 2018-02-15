@@ -9,7 +9,7 @@ _Context: United Kingdom, Texas_
 
 ##### Saudi Arabia
 ### [ Saudi forces bomb a Houthi rebel stronghold in northern Yemen for a third day. ](/news/2009/11/7/saudi-forces-bomb-a-houthi-rebel-stronghold-in-northern-yemen-for-a-third-day.md)
-_Context: due to fighting, Saudi Arabia, Houthi, Yemen_
+_Context: Saudi Arabia, Yemen, due to fighting, Houthi_
 
 ##### Bermeo
 ### [ Thousands of people in Bermeo, Spain, demonstrate for the release of 36 Spanish fishermen being held by Somali pirates. ](/news/2009/11/7/thousands-of-people-in-bermeo-spain-demonstrate-for-the-release-of-36-spanish-fishermen-being-held-by-somali-pirates.md)
@@ -21,11 +21,11 @@ _Context: Andorra_
 
 ##### NATO
 ### [ A NATO airstrike kills 7 members of the Afghan security force in the western province of Badghis. ](/news/2009/11/7/a-nato-airstrike-kills-7-members-of-the-afghan-security-force-in-the-western-province-of-badghis.md)
-_Context: Badghis Province, Afghanistan, NATO_
+_Context: Afghanistan, NATO, Badghis Province_
 
 ##### Madagascar
 ### [ Rival factions in Madagascar agree to form a unity government to end the political crisis in the country. ](/news/2009/11/7/rival-factions-in-madagascar-agree-to-form-a-unity-government-to-end-the-political-crisis-in-the-country.md)
-_Context: political crisis, Madagascar, unity_
+_Context: unity, political crisis, Madagascar_
 
 ##### South Island
 ### [ Scientists in the South Island, New Zealand, discover the first dinosaur footprints in the country, thought to be 70 million years old. ](/news/2009/11/7/scientists-in-the-south-island-new-zealand-discover-the-first-dinosaur-footprints-in-the-country-thought-to-be-70-million-years-old.md)
@@ -37,7 +37,7 @@ _Context: Tatar Strait, Russia_
 
 ##### Northern Mariana Islands
 ### [ Voters in the Northern Mariana Islands go to the polls to elect the governor, legislature and local municipal offices. ](/news/2009/11/7/voters-in-the-northern-mariana-islands-go-to-the-polls-to-elect-the-governor-legislature-and-local-municipal-offices.md)
-_Context: Northern Mariana Islands, municipal, 2009 gubernatorial election and runoff, go to the polls, legislature_
+_Context: Northern Mariana Islands, go to the polls, 2009 gubernatorial election and runoff, municipal, legislature_
 
 ##### Venezuela
 ### [ Venezuela deploys 15,000 soldiers to its border with Colombia. ](/news/2009/11/7/venezuela-deploys-15-000-soldiers-to-its-border-with-colombia.md)
@@ -69,7 +69,7 @@ _Context: Caracas_
 
 ##### Ashmolean Museum
 ### [ Ashmolean Museum in Oxfordshire, the UK's oldest museum, reopens after renovations. ](/news/2009/11/7/ashmolean-museum-in-oxfordshire-the-uk-s-oldest-museum-reopens-after-renovations.md)
-_Context: Ashmolean Museum, Oxfordshire_
+_Context: Oxfordshire, Ashmolean Museum_
 
 ## [Previous Day...](/news/2009/11/6/index.md)
 

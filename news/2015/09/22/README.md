@@ -13,7 +13,7 @@ _Context: Abu Sayyaf, Filipino troops, Moro conflict_
 
 ##### Syrian Civil War
 ### [IHS Jane's reports satellite photos, taken in mid-September, show Russian forces developing two additional military facilities near Syria's Mediterranean coast. ](/news/2015/09/22/ihs-jane-s-reports-satellite-photos-taken-in-mid-september-show-russian-forces-developing-two-additional-military-facilities-near-syria-s.md)
-_Context: IHS Jane's, Russia's role in the Syrian Civil War, Syria's Mediterranean coast, Syrian Civil War, Russian Armed Forces, military_
+_Context: Syria's Mediterranean coast, Syrian Civil War, military, IHS Jane's, Russian Armed Forces, Russia's role in the Syrian Civil War_
 
 ##### Pope Francis%27 visit to the United States
 ### [Pope Francis arrives in the U.S. from his last stop in Cuba, Santiago de Cuba, at Joint Base Andrews (formerly, Andrews Air Force Base), near Washington D.C., to start his first tour of the United States. He is received by U.S. President Barack Obama, his wife, U.S. First Lady Michelle Obama, Malia and Sasha Obama, Marian Lois Robinson, U.S. Vice President Joseph R. Biden, his wife, U.S. Second Lady Dr. Jill Biden, two Biden granddaughters, the Apostolic Nuncio to the U.S. Archbishop Carlo Maria Vigano, military and base leaders, and Washington's Cardinal Donald Wuerl. He will be received tomorrow morning in a second arrival ceremony, at the White House, and will meet with the President there. ](/news/2015/09/22/pope-francis-arrives-in-the-u-s-from-his-last-stop-in-cuba-santiago-de-cuba-at-joint-base-andrews-formerly-andrews-air-force-base-nea.md)
@@ -29,7 +29,7 @@ It&#x27;s a figure that could be eclipsed by potential penalties and lawsuits fa
 
 ##### Xi Jinping
 ### [Xi Jinping begins his first visit to the United States as President of the People's Republic of China, meeting with technology company leaders and representatives in Seattle, Washington. ](/news/2015/09/22/xi-jinping-begins-his-first-visit-to-the-united-states-as-president-of-the-people-s-republic-of-china-meeting-with-technology-company-leade.md)
-_Context: technology company, U.S., Xi Jinping, Washington, Chinese President, Seattle_
+_Context: Washington, Seattle, Xi Jinping, Chinese President, technology company, United States_
 
 ##### Recent incident of hazes in 2015
 ### [The haze from Indonesian forest fires worsens leaving Singapore and parts of Indonesia and Malaysia covered in smog. ](/news/2015/09/22/the-haze-from-indonesian-forest-fires-worsens-leaving-singapore-and-parts-of-indonesia-and-malaysia-covered-in-smog.md)
@@ -37,7 +37,7 @@ _Context: technology company, U.S., Xi Jinping, Washington, Chinese President, S
 
 ##### 2015 California wildfires
 ### [The President of the United States Barack Obama signs a disaster declaration for the Valley Fire which has claimed three lives in Lake County, California. ](/news/2015/09/22/the-president-of-the-united-states-barack-obama-signs-a-disaster-declaration-for-the-valley-fire-which-has-claimed-three-lives-in-lake-count.md)
-_Context: U.S. President, 2015 California wildfires, Barack Obama, Lake County, California_
+_Context: U.S. President, Barack Obama, Lake County, California, 2015 California wildfires_
 
 ##### President
 ### [The President of Venezuela Nicolas Maduro and the President of Colombia Juan Manuel Santos agree to gradually reopen their common border which had been closed following a Venezuelan crackdown on smuggling. ](/news/2015/09/22/the-president-of-venezuela-nicola-s-maduro-and-the-president-of-colombia-juan-manuel-santos-agree-to-gradually-reopen-their-common-border-wh.md)

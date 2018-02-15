@@ -15,7 +15,7 @@ At least nine people have been killed and many injured by a car bomb at a petrol
 ### [Police clash with demonstrators in Belfast over when the Union Flag is to be flown over their city hall. ](/news/2013/01/4/police-clash-with-demonstrators-in-belfast-over-when-the-union-flag-is-to-be-flown-over-their-city-hall.md)
 Ten police officers are injured as trouble breaks out in east Belfast following a loyalist protest against restrictions to the flying of the union flag.
 
-##### U.S.
+##### United States
 ### [Joblessness in the United States remains constant, with latest official figures showing a modest job creation total of 155,000. ](/news/2013/01/4/joblessness-in-the-united-states-remains-constant-with-latest-official-figures-showing-a-modest-job-creation-total-of-155-000.md)
 Unemployment figures remain constant as government struggles with fiscal cliff negotiations.
 
@@ -29,7 +29,7 @@ A fire at a private shelter for orphans and abandoned children in central China 
 
 ##### Beechcraft BE35
 ### [Three people are killed when a Beechcraft BE35 plane crashes into a home near Daytona Beach, Florida, United States. ](/news/2013/01/4/three-people-are-killed-when-a-beechcraft-be35-plane-crashes-into-a-home-near-daytona-beach-florida-united-states.md)
-_Context: U.S., Beechcraft BE35, Daytona Beach, the state_
+_Context: United States, Daytona Beach, the state, Beechcraft BE35_
 
 ##### Russia
 ### [Six Russian tourists are killed and two tourists are seriously injured after a snowmobile towing a sled veers off a ski slope, crashes into a barrier, and flies into a ditch on Italy's Mount Cermis. ](/news/2013/01/4/six-russian-tourists-are-killed-and-two-tourists-are-seriously-injured-after-a-snowmobile-towing-a-sled-veers-off-a-ski-slope-crashes-into.md)
@@ -37,7 +37,7 @@ Six Russian tourists die as their snowmobile flips over during a night-time run 
 
 ##### Kills eight people
 ### [A gunman kills eight people in a house-to-house rampage in Kawit, the Philippines. ](/news/2013/01/4/a-gunman-kills-eight-people-in-a-house-to-house-rampage-in-kawit-the-philippines.md)
-_Context: Philippines, Kawit, kills eight people_
+_Context: kills eight people, Philippines, Kawit_
 
 ##### Nigerian police
 ### [The Nigerian police announces that Hyundai has paid a ransom of GBP118,000 ($190,000) to free 6 kidnapped workers in the Niger Delta region. ](/news/2013/01/4/the-nigerian-police-announces-that-hyundai-has-paid-a-ransom-of-agbp118-000-190-000-to-free-6-kidnapped-workers-in-the-niger-delta-region.md)
@@ -45,7 +45,7 @@ South Korean firm Hyundai paid a ransom of $190,000 (£118,000) to free six work
 
 ##### Nepal
 ### [Former Nepalese Colonel Kumar Lama is charged with torture in the UK stemming from allegations of human rights abuses during the Nepalese Civil War. ](/news/2013/01/4/former-nepalese-colonel-kumar-lama-is-charged-with-torture-in-the-uk-stemming-from-allegations-of-human-rights-abuses-during-the-nepalese-ci.md)
-_Context: UK, human rights, Nepal, Colonel Kumar Lama, Nepalese Civil War_
+_Context: Nepal, Colonel Kumar Lama, Nepalese Civil War, human rights, UK_
 
 ##### U.S. media
 ### [U.S. media report that celebrity Naomi Campbell has been assaulted in Paris. Reports say two men on a motorcycle tried to make off with her handbag during the attack. ](/news/2013/01/4/u-s-media-report-that-celebrity-naomi-campbell-has-been-assaulted-in-paris-reports-say-two-men-on-a-motorcycle-tried-to-make-off-with-her.md)
@@ -57,19 +57,19 @@ The Pakistani schoolgirl activist shot in the head by the Taliban is discharged 
 
 ##### Sexual violence
 ### [Demonstrations against sexual violence after Delhi gang rape spread across Asia and are now happening in Nepal, Sri Lanka, Pakistan and Bangladesh. ](/news/2013/01/4/demonstrations-against-sexual-violence-after-delhi-gang-rape-spread-across-asia-and-are-now-happening-in-nepal-sri-lanka-pakistan-and-bang.md)
-_Context: sexual violence, Nepal, Bangladesh, 2012 Delhi gang rape case, Pakistan, Sri Lanka_
+_Context: sexual violence, Nepal, 2012 Delhi gang rape case, Pakistan, Bangladesh, Sri Lanka_
 
 ##### China
 ### [Journalists in China call for the resignation of the propaganda chief in Guangdong province over "excessive censorship" amid the closure of a liberal website. ](/news/2013/01/4/journalists-in-china-call-for-the-resignation-of-the-propaganda-chief-in-guangdong-province-over-excessive-censorship-amid-the-closure-of.md)
-_Context: China, Guangdong province, censorship, liberal_
+_Context: liberal, Guangdong province, censorship, China_
 
 ##### Venezuela
 ### [The Venezuelan government announces that president Hugo Chavez is being treated for a "respiratory deficiency" after complications from a severe lung infection. ](/news/2013/01/4/the-venezuelan-government-announces-that-president-hugo-cha-vez-is-being-treated-for-a-respiratory-deficiency-after-complications-from-a-s.md)
-_Context: Venezuela, Hugo Chavez, lung infection_
+_Context: lung infection, Hugo Chavez, Venezuela_
 
-##### Lawmakers
+##### Congress
 ### [The United States Congress officially declares President Barack Obama the winner of the 2012 presidential election. ](/news/2013/01/4/the-united-states-congress-officially-declares-president-barack-obama-the-winner-of-the-2012-presidential-election.md)
-_Context: United States presidential election, 2012, U.S. President, lawmakers, Barack Obama_
+_Context: United States presidential election, 2012, U.S. President, Barack Obama, Congress_
 
 ##### Sudan
 ### [The leaders of Sudan and South Sudan, Omar al-Bashir and Salva Kiir Mayardit, respectively, will meet in Addis Ababa to convene for talks regarding escalating tensions is response to Sudan's recent seizure of Abyei. ](/news/2013/01/4/the-leaders-of-sudan-and-south-sudan-omar-al-bashir-and-salva-kiir-mayardit-respectively-will-meet-in-addis-ababa-to-convene-for-talks-re.md)

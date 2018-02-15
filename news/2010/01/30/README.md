@@ -5,13 +5,13 @@ Formats: [HTML](2010/01/30/index.html)  [JSON](2010/01/30/index.json)  [XML](201
 
 ##### Bavaria
 ### [Extreme weather, including snow and wind, leads to "chaos" and as many as three deaths in Bavaria and North Rhine-Westphalia. ](/news/2010/01/30/extreme-weather-including-snow-and-wind-leads-to-chaos-and-as-many-as-three-deaths-in-bavaria-and-north-rhine-westphalia.md)
-_Context: North Rhine-Westphalia, Bavaria_
+_Context: Bavaria, North Rhine-Westphalia_
 
 ##### Togo national football team
 ### [The Togo national football team is banned for two tournaments and fined $50,000 for withdrawing from the 2010 Africa Cup of Nations after the fatal attack on their team bus in Angola. The Government of Angola and Confederation of African Football are both to be sued by the families of the dead. ](/news/2010/01/30/the-togo-national-football-team-is-banned-for-two-tournaments-and-fined-50-000-for-withdrawing-from-the-2010-africa-cup-of-nations-after-th.md)
-_Context: Togo national football team attack, Angola, Togo national football team, 2010 Africa Cup of Nations, Government of Angola, Confederation of African Football_
+_Context: Togo national football team attack, 2010 Africa Cup of Nations, Angola, Confederation of African Football, Togo national football team, Government of Angola_
 
-##### U.S.
+##### United States
 ### [The United States suspends medical evacuations in the aftermath of the 2010 Haiti earthquake due to a dispute as to who should pay for treatment. ](/news/2010/01/30/the-united-states-suspends-medical-evacuations-in-the-aftermath-of-the-2010-haiti-earthquake-due-to-a-dispute-as-to-who-should-pay-for-treat.md)
 The United States has suspended its evacuations of critically injured Haitians until a dispute over who will pay for their care in Florida and other states is settled.
 
@@ -41,7 +41,7 @@ Government rejects resignation
 
 ##### China
 ### [China suspends military exchanges and reviews cooperation on issues with the United States after the latter agreed to a proposed weapons sale to Taiwan. ](/news/2010/01/30/china-suspends-military-exchanges-and-reviews-cooperation-on-issues-with-the-united-states-after-the-latter-agreed-to-a-proposed-weapons-sal.md)
-_Context: U.S., China, Taiwan_
+_Context: United States, China, Taiwan_
 
 ##### Google
 ### [Google begins to phase out its support for Internet Explorer 6 after it was identified as a weak link in cyber attacks on the search engine. ](/news/2010/01/30/google-begins-to-phase-out-its-support-for-internet-explorer-6-after-it-was-identified-as-a-weak-link-in-cyber-attacks-on-the-search-engine.md)
@@ -53,7 +53,7 @@ _Context: Honda Motor Co., Fit_
 
 ##### MacMillan
 ### [Publishing company MacMillan said that on-line retailer Amazon.com, Inc. has removed all MacMillan print and e-books from its site due to a dispute over the pricing of books sold through Amazon's Kindle reader. ](/news/2010/01/30/publishing-company-macmillan-said-that-on-line-retailer-amazon-com-inc-has-removed-all-macmillan-print-and-e-books-from-its-site-due-to-a.md)
-_Context: MacMillan, Amazon.com, Inc., Kindle, e-books_
+_Context: e-books, Kindle, Amazon.com, Inc., MacMillan_
 
 ## [Previous Day...](/news/2010/01/29/index.md)
 

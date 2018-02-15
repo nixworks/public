@@ -21,7 +21,7 @@ See how events unfolded as fires in Western Australia threatened townships on Sa
 
 ##### Brussels Agreement (2013)
 ### [Anti-Serbian protesters set fire to the government's headquarters in Kosovo's capital, Pristina, over an EU-brokered deal that will give Kosovo's ethnic Serb minority greater local powers. ](/news/2016/01/9/anti-serbian-protesters-set-fire-to-the-government-s-headquarters-in-kosovo-s-capital-pristina-over-an-eu-brokered-deal-that-will-give-kos.md)
-_Context: Kosovo-Serbia relations, Pristina, Kosovo Serb, Brussels Agreement (2013), Serbia, Kosovo_
+_Context: Serbia, Brussels Agreement (2013), Kosovo, Pristina, Kosovo Serb, Kosovo-Serbia relations_
 
 ##### Sian Blake
 ### [Sian Blake's partner Arthur Simpson-Kent is arrested in Ghana in connection with the murder of Blake and her two children. ](/news/2016/01/9/sian-blake-s-partner-arthur-simpson-kent-is-arrested-in-ghana-in-connection-with-the-murder-of-blake-and-her-two-children.md)

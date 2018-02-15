@@ -13,23 +13,23 @@ Authorities in Rome have said they are expecting up to 500,000 people to attend 
 
 ##### Zacarias Moussaoui
 ### [ Zacarias Moussaoui plans to plead guilty to charges in connection with the September 11, 2001, attacks, which could bring him the death penalty. ](/news/2005/04/20/zacarias-moussaoui-plans-to-plead-guilty-to-charges-in-connection-with-the-september-11-2001-attacks-which-could-bring-him-the-death-pen.md)
-_Context: sentenced to death, September 11, 2001, attacks, Zacarias Moussaoui_
+_Context: sentenced to death, Zacarias Moussaoui, September 11, 2001, attacks_
 
 ##### River Tigris
 ### [ Over 50 human corpses have been removed from the River Tigris in past weeks. Some appeared to have their throats cut, some others decapitated. ](/news/2005/04/20/over-50-human-corpses-have-been-removed-from-the-river-tigris-in-past-weeks-some-appeared-to-have-their-throats-cut-some-others-decapitat.md)
-_Context: decapitated, throat, River Tigris_
+_Context: throat, River Tigris, decapitated_
 
 ##### Italian Prime Minister
 ### [ The Prime Minister of Italy, Silvio Berlusconi, resigns so as to form a new government. He is expected to maintain the post of Prime Minister in this new government. ](/news/2005/04/20/the-prime-minister-of-italy-silvio-berlusconi-resigns-so-as-to-form-a-new-government-he-is-expected-to-maintain-the-post-of-prime-minist.md)
-_Context: Italian Prime Minister, Silvio Berlusconi, Government of Italy_
+_Context: Italian Prime Minister, Government of Italy, Silvio Berlusconi_
 
 ##### Government of Singapore
 ### [ The Government of Singapore's approval for the building of two casinos as part of integrated resorts in Singapore's new downtown, and on Sentosa island ignites intense speculation on the likely winners from 19 submitted proposals, and caps off more than a year of moral debates in the traditionally conservative city. ](/news/2005/04/20/the-government-of-singapore-s-approval-for-the-building-of-two-casinos-as-part-of-integrated-resorts-in-singapore-s-new-downtown-and-on-se.md)
-_Context: Sentosa, downtown, casino, Singapore, conservative, Government of Singapore_
+_Context: Sentosa, conservative, downtown, Singapore, Government of Singapore, casino_
 
 ##### Israel
 ### [ In Israel, Uriel Yitzhaki is arrested on allegations of selling passports for bribes. ](/news/2005/04/20/in-israel-uriel-yitzhaki-is-arrested-on-allegations-of-selling-passports-for-bribes.md)
-_Context: Uriel Yitzhaki, Israel_
+_Context: Israel, Uriel Yitzhaki_
 
 ##### Richter scale
 ### [ A 5.8 Richter scale earthquake hits northern Kyushu, Japan. ](/news/2005/04/20/a-5-8-richter-scale-earthquake-hits-northern-kya-sha-japan.md)
@@ -41,7 +41,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### United Nations Commission on Human Rights
 ### [ The United Nations Commission on Human Rights demands that government of Nepal restore civil liberties and democracy. ](/news/2005/04/20/the-united-nations-commission-on-human-rights-demands-that-government-of-nepal-restore-civil-liberties-and-democracy.md)
-_Context: civil rights, Nepal, democratic, United Nations Commission on Human Rights_
+_Context: United Nations Commission on Human Rights, democratic, Nepal, civil rights_
 
 ##### Mexican
 ### [ Two members of the ruling Mexican National Action Party post bail for Andres Manuel Lopez Obrador so he would not run a presidential campaign from jail. He cannot return to his post as mayor of Mexico City. ](/news/2005/04/20/two-members-of-the-ruling-mexican-national-action-party-post-bail-for-andra-c-s-manuel-la3pez-obrador-so-he-would-not-run-a-presidential-camp.md)
@@ -49,11 +49,11 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Maurice Strong
 ### [ Maurice Strong, Canadian United Nations representative, steps down due to allegations of involvement with Tongsun Park and oil for food scandal. ](/news/2005/04/20/maurice-strong-canadian-united-nations-representative-steps-down-due-to-allegations-of-involvement-with-tongsun-park-and-oil-for-food-sca.md)
-_Context: Maurice Strong, Canadian, Tongsun, United Nations, oil for food_
+_Context: United Nations, Maurice Strong, Tongsun, oil for food, Canadian_
 
 ##### European Union
 ### [ European Union representatives cancel meeting with a Pakistan delegation because of the inclusion of hardliner Maulana Sami ul-Haq, who allegedly has links to the Taliban. ](/news/2005/04/20/european-union-representatives-cancel-meeting-with-a-pakistan-delegation-because-of-the-inclusion-of-hardliner-maulana-sami-ul-haq-who-all.md)
-_Context: European Union, Maulana Sami ul-Haq, Pakistan, Taliban_
+_Context: Pakistan, Maulana Sami ul-Haq, Taliban, European Union_
 
 ##### Spain
 ### [ Spanish officials state that they are "concerned" about an apparent disappearance of Severo Moto, leader of an opposition political movement in Equatorial Guinea, who has lived in Spain in exile. His wife reported him missing. ](/news/2005/04/20/spanish-officials-state-that-they-are-concerned-about-an-apparent-disappearance-of-severo-moto-leader-of-an-opposition-political-movemen.md)

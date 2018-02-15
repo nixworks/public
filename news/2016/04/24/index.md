@@ -5,11 +5,11 @@ Formats: [HTML](2016/04/24/index.html)  [JSON](2016/04/24/index.json)  [XML](201
 
 ##### Iraqi Civil War
 ### [At least 14 people have been killed in suicide bombing attacks in Baghdad. ](/news/2016/04/24/at-least-14-people-have-been-killed-in-suicide-bombing-attacks-in-baghdad.md)
-_Context: Baghdad, suicide bombing, Iraqi Civil War_
+_Context: Baghdad, Iraqi Civil War, suicide bombing_
 
 ##### Yemeni Civil War
 ### [Saudi-led air strikes kill at least ten al Qaeda in the Arabian Peninsula fighters in southern Yemen. ](/news/2016/04/24/saudi-led-air-strikes-kill-at-least-ten-al-qaeda-in-the-arabian-peninsula-fighters-in-southern-yemen.md)
-_Context: al Qaeda in the Arabian Peninsula, Yemen, Yemeni Civil War_
+_Context: Yemeni Civil War, al Qaeda in the Arabian Peninsula, Yemen_
 
 ##### Syrian Civil War
 ### [Rockets fired by ISIL from northern Syria hit a poor neighborhood and a mosque in the Turkish city of Kilis, killing one person and injuring 26 others. Turkish security forces responded by returning fire into Syria. ](/news/2016/04/24/rockets-fired-by-isil-from-northern-syria-hit-a-poor-neighborhood-and-a-mosque-in-the-turkish-city-of-kilis-killing-one-person-and-injuring.md)
@@ -45,7 +45,7 @@ _Context: Equatorial Guinean presidential election, 2016, Teodoro Obiang Nguema 
 
 ##### Final leg
 ### [The final leg of the Philippine presidential debate series is held in Dagupan. ](/news/2016/04/24/the-final-leg-of-the-philippine-presidential-debate-series-is-held-in-dagupan.md)
-_Context: debate series, final leg, Dagupan_
+_Context: Dagupan, final leg, debate series_
 
 ##### Serbian parliamentary election, 2016
 ### [Serbians elect a new parliament under the backdrop of its accession to the European Union. Preliminary results indicate the incumbent, pro-EU populists sweeping the election. ](/news/2016/04/24/serbians-elect-a-new-parliament-under-the-backdrop-of-its-accession-to-the-european-union-preliminary-results-indicate-the-incumbent-pro-e.md)
@@ -53,11 +53,11 @@ Serbian Prime Minister Aleksandar Vucic’s Progressive Party won a majority in 
 
 ##### 2015-16 protests in Moldova
 ### [Protests continue in Moldova as thousands of anti-government protesters demonstrate in the capital Chisinau despite concessions given to the protesters last month by the government. ](/news/2016/04/24/protests-continue-in-moldova-as-thousands-of-anti-government-protesters-demonstrate-in-the-capital-chieinau-despite-concessions-given-to-t.md)
-_Context: 2015-16 protests in Moldova, Chisinau, Moldova_
+_Context: Moldova, 2015-16 protests in Moldova, Chisinau_
 
 ##### Kazakhstan
 ### [Around 1,000 people stage a rare public protest in the Kazakh city of Atyrau, rallying against the government's decision to sell land in auctions amid a heavy police presence, though they did not forcibly disperse the rally. ](/news/2016/04/24/around-1-000-people-stage-a-rare-public-protest-in-the-kazakh-city-of-atyrau-rallying-against-the-government-s-decision-to-sell-land-in-auc.md)
-_Context: Kazakhstan, Atyrau, policemen_
+_Context: Kazakhstan, policemen, Atyrau_
 
 ## [Previous Day...](/news/2016/04/23/index.md)
 

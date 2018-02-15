@@ -25,11 +25,11 @@ VATICAN CITY (AP) — In a sweeping document on family life that opened a door t
 
 ##### North Carolina bathroom bill
 ### [Bruce Springsteen and the E Street Band cancels their Sunday night concert in Greensboro, North Carolina, to protest the state's controversial "bathroom bill." ](/news/2016/04/8/bruce-springsteen-and-the-e-street-band-cancels-their-sunday-night-concert-in-greensboro-north-carolina-to-protest-the-state-s-controversi.md)
-_Context: North Carolina bathroom bill, bathroom bill, Bruce Springsteen and the E Street Band, Greensboro, North Carolina_
+_Context: bathroom bill, Bruce Springsteen and the E Street Band, Greensboro, North Carolina, North Carolina bathroom bill_
 
 ##### Starwood Hotels and Resorts Worldwide
 ### [Both Starwood Hotels and Resorts Worldwide and Marriott International shareholders approve Marriott's acquisition of Starwood, which will create the world's largest hotelier. The deal has cleared the pre-merger antitrust reviews in the United States and Canada; approvals from the European Union and China is pending. Last week, Anbang Insurance Group topped Marriott's bid, then withdrew their offer three days later. ](/news/2016/04/8/both-starwood-hotels-and-resorts-worldwide-and-marriott-international-shareholders-approve-marriott-s-acquisition-of-starwood-which-will-cr.md)
-_Context: reduced competition and higher prices, China, European Union, Marriott International, Canadian, pre-merger, Anbang Insurance Group, Starwood Hotels and Resorts Worldwide, shareholders, U.S._
+_Context: European Union, China, Starwood Hotels and Resorts Worldwide, pre-merger, shareholders, Anbang Insurance Group, reduced competition and higher prices, Canadian, United States, Marriott International_
 
 ##### San Jose
 ### [At least 245 people are reportedly injured following a head-on collision between two commuter trains in San Jose, Costa Rica. ](/news/2016/04/8/at-least-245-people-are-reportedly-injured-following-a-head-on-collision-between-two-commuter-trains-in-san-josa-c-costa-rica.md)
@@ -37,15 +37,15 @@ _Context: San Jose_
 
 ##### Angoon
 ### [Three people are killed, and there was one survivor, following the crash of a small plane headed to Angoon in Southeast Alaska, United States. ](/news/2016/04/8/three-people-are-killed-and-there-was-one-survivor-following-the-crash-of-a-small-plane-headed-to-angoon-in-southeast-alaska-united-state.md)
-_Context: Angoon, Southeast Alaska, U.S._
+_Context: Southeast Alaska, United States, Angoon_
 
 ##### North Korea-South Korea relations
 ### [A group of 13 North Koreans working at a restaurant in an unidentified country defect en masse to South Korea, according to Seoul's Ministry of Unification. ](/news/2016/04/8/a-group-of-13-north-koreans-working-at-a-restaurant-in-an-unidentified-country-defect-en-masse-to-south-korea-according-to-seoul-s-ministry.md)
-_Context: North Korea-South Korea relations, Seoul, Ministry of Unification, North Korea, defects, South Korea_
+_Context: North Korea, Seoul, defects, North Korea-South Korea relations, South Korea, Ministry of Unification_
 
 ##### Egypt-Saudi Arabia relations
 ### [King of Saudi Arabia Salman bin Abdulaziz Al Saud announces, during his trip to Cairo, that a bridge crossing the Red Sea will be built, linking Egypt and Saudi Arabia. Egyptian President Abdel Fattah el-Sisi says the bridge will be named after the Saudi monarch. A Saudi-Egypt Causeway project has been in the works for years. ](/news/2016/04/8/king-of-saudi-arabia-salman-bin-abdulaziz-al-saud-announces-during-his-trip-to-cairo-that-a-bridge-crossing-the-red-sea-will-be-built-lin.md)
-_Context: President, Saudi-Egypt Causeway, Saudi Arabia, Abdel Fattah el-Sisi, Egypt-Saudi Arabia relations, Cairo, King, king, Egypt, Red Sea_
+_Context: Red Sea, Egypt-Saudi Arabia relations, king, Saudi Arabia, King, Egypt, Cairo, President, Abdel Fattah el-Sisi, Saudi-Egypt Causeway_
 
 ##### Syria-United States relations
 ### [Syria releases American freelance photographer Kevin Patrick Dawes who was kidnapped in 2012. ](/news/2016/04/8/syria-releases-american-freelance-photographer-kevin-patrick-dawes-who-was-kidnapped-in-2012.md)
@@ -53,7 +53,7 @@ The 33-year-old from San Diego disappeared after crossing into Syria from Turkey
 
 ##### NATO-Russia relations
 ### [NATO announces it will hold a meeting of the NATO-Russia Council at the ambassadorial level at NATO headquarters in Brussels in the next two weeks after a two-year break since NATO cut all practical cooperation with Russia in 2014. ](/news/2016/04/8/nato-announces-it-will-hold-a-meeting-of-the-natoarussia-council-at-the-ambassadorial-level-at-nato-headquarters-in-brussels-in-the-next-t.md)
-_Context: NATO, Russia, NATO headquarters, NATO-Russia Council, Brussels, NATO-Russia relations_
+_Context: NATO-Russia Council, NATO-Russia relations, NATO, NATO headquarters, Brussels, Russia_
 
 ##### Egypt-Italy relations
 ### [Italy recalls its ambassador to Egypt for consultations in protest over the lack of progress in a probe into the fate of murdered Cambridge University student Giulio Regeni. "We want only one thing, the truth about what happened to Giulio," Foreign Minister Paolo Gentiloni said on Friday. ](/news/2016/04/8/italy-recalls-its-ambassador-to-egypt-for-consultations-in-protest-over-the-lack-of-progress-in-a-probe-into-the-fate-of-murdered-cambridge.md)
@@ -77,7 +77,7 @@ Belgian prosecutors say a suspect has admitted being the &quot;man in the hat&qu
 
 ##### Panama Papers
 ### [El Salvador officials seize documents and equipment during a raid of the local offices of Panamanian law firm Mossack Fonseca. Attorney General Douglas Melendez says authorities interviewed seven employees, and confiscated 20 computers and some documents. ](/news/2016/04/8/el-salvador-officials-seize-documents-and-equipment-during-a-raid-of-the-local-offices-of-panamanian-law-firm-mossack-fonseca-attorney-gene.md)
-_Context: Panama, Mossack Fonseca, El Salvador, Panama Papers_
+_Context: Panama, Mossack Fonseca, Panama Papers, El Salvador_
 
 ##### Occupy movement
 ### [The French occupy movement known as Nuit debout enters its ninth day, "March 40," spreading across dozens of French cities and to Belgium, Germany, and Spain. ](/news/2016/04/8/the-french-occupy-movement-known-as-nuit-debout-enters-its-ninth-day-march-40-spreading-across-dozens-of-french-cities-and-to-belgium-g.md)
@@ -85,7 +85,7 @@ For more than a week, vast nocturnal gatherings have spread across France in a c
 
 ##### Djiboutian presidential election, 2016
 ### [Voters in Djibouti go to the polls for the first round of voting in a presidential election with current President Ismail Omar Guelleh winning a fourth term in office. ](/news/2016/04/8/voters-in-djibouti-go-to-the-polls-for-the-first-round-of-voting-in-a-presidential-election-with-current-president-ismaa-l-omar-guelleh-winn.md)
-_Context: President, Djibouti, Djiboutian presidential election, 2016, Ismail Omar Guelleh_
+_Context: Djiboutian presidential election, 2016, Djibouti, Ismail Omar Guelleh, President_
 
 ##### Myanmar
 ### [A Myanmar court releases 69 jailed student activists in the first wave of amnesty for the country's political prisoners, with more releases expected. This comes after State Counsellor Aung San Suu Kyi vowed to push for the release of all the political prisoners in Myanmar. ](/news/2016/04/8/a-myanmar-court-releases-69-jailed-student-activists-in-the-first-wave-of-amnesty-for-the-country-s-political-prisoners-with-more-releases.md)
@@ -97,7 +97,7 @@ Madagascar’s president has accepted the resignation of Jean Ravelonarivo and h
 
 ##### Republic of Macedonia
 ### [Macedonian opposition leader Zoran Zaev pledges to boycott the early Macedonian parliamentary elections, saying it is due to a lack of government reforms. ](/news/2016/04/8/macedonian-opposition-leader-zoran-zaev-pledges-to-boycott-the-early-macedonian-parliamentary-elections-saying-it-is-due-to-a-lack-of-gover.md)
-_Context: Zoran Zaev, Republic of Macedonia, opposition_
+_Context: Republic of Macedonia, Zoran Zaev, opposition_
 
 ##### LGBT rights in the United States
 ### [A group of United States mayors forms ""Mayors Against Discrimination"" in the wake of recent discriminatory laws enacted in North Carolina and Mississippi against LBGT individuals. The founding members are city leaders from Honolulu, New York City, Philadelphia, Portland, Oakland, San Francisco, Sante Fe, Seattle, Tampa, and Washington, D.C. ](/news/2016/04/8/a-group-of-united-states-mayors-forms-mayors-against-discrimination-in-the-wake-of-recent-discriminatory-laws-enacted-in-north-carolina.md)

@@ -13,15 +13,15 @@ Torrential monsoon rain in the Pakistani city of Karachi has killed 26 people an
 
 ##### Netherlands
 ### [ A preserved barracks in the Netherlands that was used by Nazi Germany to process Jews and others on their way to concentration camps, known to have been occupied at one point by Anne Frank, is destroyed by fire. ](/news/2009/07/19/a-preserved-barracks-in-the-netherlands-that-was-used-by-nazi-germany-to-process-jews-and-others-on-their-way-to-concentration-camps-known.md)
-_Context: Jew, Nazi concentration camp, Nazi, fire, Netherlands, Anne Frank_
+_Context: Nazi concentration camp, Netherlands, fire, Nazi, Anne Frank, Jew_
 
 ##### British Embassy
 ### [ The last British Embassy worker being held in Iran after the disputed re-election of president Mahmoud Ahmadinejad and the ensuing street protests is released. ](/news/2009/07/19/the-last-british-embassy-worker-being-held-in-iran-after-the-disputed-re-election-of-president-mahmoud-ahmadinejad-and-the-ensuing-street-p.md)
-_Context: Iran, Mahmoud Ahmadinejad, protests against the regime, British Embassy_
+_Context: British Embassy, Iran, Mahmoud Ahmadinejad, protests against the regime_
 
 ##### Giant jellyfish
 ### [ Giant jellyfish wreak havoc around the Sea of Japan. ](/news/2009/07/19/giant-jellyfish-wreak-havoc-around-the-sea-of-japan.md)
-_Context: Sea of Japan, Giant jellyfish_
+_Context: Giant jellyfish, Sea of Japan_
 
 ## [Previous Day...](/news/2009/07/18/index.md)
 

@@ -5,11 +5,11 @@ Formats: [HTML](2013/05/9/index.html)  [JSON](2013/05/9/index.json)  [XML](2013/
 
 ##### Prime Minister
 ### [Ali Haider Gillani, the son of former Pakistani Prime Minister Yousaf Raza Gillani, is abducted by unidentified gunmen at an election rally in the city of Multan two days before the May 11 general election. ](/news/2013/05/9/ali-haider-gillani-the-son-of-former-pakistani-prime-minister-yousaf-raza-gillani-is-abducted-by-unidentified-gunmen-at-an-election-rally.md)
-_Context: general election, Multan, Prime Minister, Yousaf Raza Gillani_
+_Context: Prime Minister, Multan, Yousaf Raza Gillani, general election_
 
 ##### Indonesian police
 ### [Indonesian police shoot dead seven terror suspects in raids on the island of Java including some allegedly planning to bomb the Sri Lankan embassy. ](/news/2013/05/9/indonesian-police-shoot-dead-seven-terror-suspects-in-raids-on-the-island-of-java-including-some-allegedly-planning-to-bomb-the-sri-lankan-e.md)
-_Context: Indonesian police, Java, Sri Lanka_
+_Context: Indonesian police, Sri Lanka, Java_
 
 ##### Sudan
 ### [Suspected Sudanese ivory poachers shoot dead an unknown number of elephants at the Dzanga-Ndoki National Park world heritage site in the Central African Republic, close to the border with Cameroon and the Republic of the Congo. ](/news/2013/05/9/suspected-sudanese-ivory-poachers-shoot-dead-an-unknown-number-of-elephants-at-the-dzanga-ndoki-national-park-world-heritage-site-in-the-cen.md)
@@ -21,7 +21,7 @@ At least 44 people have been injured after a cargo train derailed in Russia’s 
 
 ##### Bangladesh
 ### [The death toll rises to 1,006 - Bangladesh's worst industrial accident and the deadliest structural collapse in modern human history. ](/news/2013/05/9/the-death-toll-rises-to-1-006-bangladesh-s-worst-industrial-accident-and-the-deadliest-structural-collapse-in-modern-human-history.md)
-_Context: structural collapse, Bangladesh_
+_Context: Bangladesh, structural collapse_
 
 ##### Pakistan
 ### [Pakistani militant Sanaullah Haq dies after being assaulted in an Indian jail as a revenge attack following the death of Sarabjit Singh in Pakistan last week. ](/news/2013/05/9/pakistani-militant-sanaullah-haq-dies-after-being-assaulted-in-an-indian-jail-as-a-revenge-attack-following-the-death-of-sarabjit-singh-in-p.md)
@@ -33,7 +33,7 @@ A gang of cyber-criminals operating in 26 countries stole $45 million by hacking
 
 ##### Government of Australia
 ### [The Australian government announces that it will hold a referendum on recognition of local government in the constitution simultaneously with the federal election on September 14. ](/news/2013/05/9/the-australian-government-announces-that-it-will-hold-a-referendum-on-recognition-of-local-government-in-the-constitution-simultaneously-wit.md)
-_Context: constitution, Senate election, local government, referendum, Government of Australia_
+_Context: constitution, referendum, Government of Australia, Senate election, local government_
 
 ## [Previous Day...](/news/2013/05/8/index.md)
 

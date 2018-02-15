@@ -25,7 +25,7 @@ _Context: floods, Sichuan, China_
 
 ##### Heat wave
 ### [A heat wave settles over the United States with at least one death reported. ](/news/2013/07/17/a-heat-wave-settles-over-the-united-states-with-at-least-one-death-reported.md)
-_Context: heat wave, U.S._
+_Context: heat wave, United States_
 
 ##### Bangladesh
 ### [A Bangladesh war crimes tribunal sentences Ali Ahsan Mohammad Mojaheed, Secretary General of the Bangladesh Jamaat-e-Islami political party, to death for atrocities committed during the Bangladesh Liberation War. ](/news/2013/07/17/a-bangladesh-war-crimes-tribunal-sentences-ali-ahsan-mohammad-mojaheed-secretary-general-of-the-bangladesh-jamaat-e-islami-political-party.md)
@@ -33,7 +33,7 @@ A Bangladesh war crimes tribunal sentenced a top Islamist politician to death on
 
 ##### German
 ### [German authorities indict Formula One boss Bernie Ecclestone for alleged bribery. ](/news/2013/07/17/german-authorities-indict-formula-one-boss-bernie-ecclestone-for-alleged-bribery.md)
-_Context: Formula One, German, indicted, Bernie Ecclestone_
+_Context: German, Formula One, indicted, Bernie Ecclestone_
 
 ##### Same-sex marriage becomes legal in England and Wales
 ### [Same-sex marriage becomes legal in England and Wales after the Marriage (Same Sex Couples) Bill receives Royal Assent. ](/news/2013/07/17/same-sex-marriage-becomes-legal-in-england-and-wales-after-the-marriage-same-sex-couples-bill-receives-royal-assent.md)

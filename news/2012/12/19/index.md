@@ -57,11 +57,11 @@ The BBC was forced to replace a tranche of senior news executives following a da
 
 ##### South Korea
 ### [Voters in South Korea go to the polls with exit polls showing a very close race expected between Park Geun-hye of the conservative Saenuri Party and Moon Jae-in of the left-of-centre Democratic United Party. ](/news/2012/12/19/voters-in-south-korea-go-to-the-polls-with-exit-polls-showing-a-very-close-race-expected-between-park-geun-hye-of-the-conservative-saenuri-p.md)
-_Context: Park Geun-hye, Saenuri Party, exit poll, South Korea, Moon Jae-in, Democratic United Party_
+_Context: exit poll, South Korea, Democratic United Party, Park Geun-hye, Moon Jae-in, Saenuri Party_
 
 ##### Russia
 ### [The Russian Soyuz TMA-07M spacecraft launches from the Baikonur Cosmodrome in Kazakhstan, carrying Roman Romanenko, Chris Hadfield and Thomas Marshburn for the ISS Expedition 34 and 35 crews. ](/news/2012/12/19/the-russian-soyuz-tma-07m-spacecraft-launches-from-the-baikonur-cosmodrome-in-kazakhstan-carrying-roman-romanenko-chris-hadfield-and-thoma.md)
-_Context: Soyuz TMA-07M, Chris Hadfield, ISS, Russia, Roman Romanenko, Expedition 34, Kazakhstan, Thomas Marshburn, Expedition 35, Baikonur Cosmodrome_
+_Context: Kazakhstan, Russia, Roman Romanenko, Soyuz TMA-07M, Expedition 34, Baikonur Cosmodrome, Thomas Marshburn, ISS, Chris Hadfield, Expedition 35_
 
 ## [Previous Day...](/news/2012/12/18/index.md)
 

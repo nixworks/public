@@ -25,7 +25,7 @@ Kislyak emerged as a central figure in investigations into possible collusion be
 
 ##### Law of Poland
 ### [Poles march against a bill that critics say might decrease judicial independence in Poland. Hungary has supported the bill while the European Union has opposed it. The protesters hope that the President Andrzej Duda would intervene against the proposed law. ](/news/2017/07/22/poles-march-against-a-bill-that-critics-say-might-decrease-judicial-independence-in-poland-hungary-has-supported-the-bill-while-the-europea.md)
-_Context: Hungary, Law of Poland, European Union, Polish, Poles, Andrzej Duda, Polish President_
+_Context: Polish President, Poles, Hungary, Andrzej Duda, European Union, Poland, Law of Poland_
 
 ##### East Timorese parliamentary election, 2017
 ### [Voters in East Timor go to the polls to elect members of their National Parliament. ](/news/2017/07/22/voters-in-east-timor-go-to-the-polls-to-elect-members-of-their-national-parliament.md)

@@ -9,15 +9,15 @@ _Context: Haiti, Hurricane Jeanne, 2004 Atlantic hurricane season, Hispaniola_
 
 ##### Rebel-held
 ### [ Conflict in Iraq: Tawhid and Jihad, a militant group led by Abu Musab al-Zarqawi, beheads American hostage Eugene Armstrong. The group threatens to behead two additional hostages, American Jack Hensley and Briton Kenneth Bigley, within 24 hours unless the United States meets its demands. ](/news/2004/09/20/conflict-in-iraq-tawhid-and-jihad-a-militant-group-led-by-abu-musab-al-zarqawi-beheads-american-hostage-eugene-armstrong-the-group-thre.md)
-_Context: hostage, Eugene Armstrong, behead, rebel-held, Tawhid and Jihad, Abu Musab al-Zarqawi_
+_Context: Abu Musab al-Zarqawi, behead, Eugene Armstrong, rebel-held, hostage, Tawhid and Jihad_
 
 ##### Republican
 ### [ The political campaigns of Republican incumbent George W. Bush and Democratic challenger John Kerry agree to a tentative schedule of three televised debates, the first of which will take place on September 30 in Florida. ](/news/2004/09/20/the-political-campaigns-of-republican-incumbent-george-w-bush-and-democratic-challenger-john-kerry-agree-to-a-tentative-schedule-of-three.md)
-_Context: Democratic, debate, George W. Bush, the state, Republican, John Kerry_
+_Context: the state, Republican, John Kerry, George W. Bush, debate, Democratic_
 
 ##### Indonesia
 ### [ Indonesian presidential election: Early returns in today's election favor former general Susilo Bambang Yudhoyono over incumbent President Megawati Sukarnoputri 61 to 39 percent. ](/news/2004/09/20/indonesian-presidential-election-early-returns-in-today-s-election-favor-former-general-susilo-bambang-yudhoyono-over-incumbent-president.md)
-_Context: election, Megawati Sukarnoputri, President, incumbent, Susilo Bambang Yudhoyono, Indonesia, presidential election_
+_Context: Indonesia, incumbent, President, Megawati Sukarnoputri, Susilo Bambang Yudhoyono, election, presidential election_
 
 ## [Previous Day...](/news/2004/09/19/index.md)
 

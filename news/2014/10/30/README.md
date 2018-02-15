@@ -13,7 +13,7 @@ _Context: Somali pirates, India_
 
 ##### Mikhail Porechenkov
 ### [Russian action film star Mikhail Porechenkov is caught on film wearing press gear while firing a machine gun toward Ukrainian lines with pro-Russian rebels at Donetsk International Airport. ](/news/2014/10/30/russian-action-film-star-mikhail-porechenkov-is-caught-on-film-wearing-press-gear-while-firing-a-machine-gun-toward-ukrainian-lines-with-pro.md)
-_Context: Donetsk International Airport, Mikhail Porechenkov_
+_Context: Mikhail Porechenkov, Donetsk International Airport_
 
 ##### Super King Air
 ### [A Beechcraft King Air B200 crashes into a FlightSafety International building in Wichita, Kansas - there are four dead. ](/news/2014/10/30/a-beechcraft-king-air-b200-crashes-into-a-flightsafety-international-building-in-wichita-kansas-there-are-four-dead.md)
@@ -21,11 +21,11 @@ NTSB officials arrive to begin investigating crash at Wichita airport that kille
 
 ##### Sweden
 ### [Sweden officially recognises Palestine as a sovereign state. Israel recalls its ambassador to Sweden. ](/news/2014/10/30/sweden-officially-recognises-palestine-as-a-sovereign-state-israel-recalls-its-ambassador-to-sweden.md)
-_Context: Israel, officially recognises, Palestine, sovereign state, Sweden_
+_Context: officially recognises, Sweden, sovereign state, Israel, Palestine_
 
 ##### Eric Frein
 ### [Eric Frein, wanted in the American state of Pennsylvania for the 2014 Pennsylvania State Police barracks attack that killed one officer and injured another, is taken into custody. ](/news/2014/10/30/eric-frein-wanted-in-the-american-state-of-pennsylvania-for-the-2014-pennsylvania-state-police-barracks-attack-that-killed-one-officer-and.md)
-_Context: Eric Frein, 2014 Pennsylvania State Police barracks attack, Pennsylvania_
+_Context: Pennsylvania, 2014 Pennsylvania State Police barracks attack, Eric Frein_
 
 ##### Thomas Menino
 ### [Thomas Menino, former mayor of Boston, Massachusetts, and the longest-serving mayor in the city's history, dies of cancer at the age of 71. ](/news/2014/10/30/thomas-menino-former-mayor-of-boston-massachusetts-and-the-longest-serving-mayor-in-the-city-s-history-dies-of-cancer-at-the-age-of-71.md)
@@ -33,7 +33,7 @@ Thomas Michael Menino, who served an unprecedented five consecutive terms in Cit
 
 ##### Temple Mount
 ### [The Temple Mount in Jerusalem was closed to all visitors for the first time since 2000, following the attempted assassination of Israeli activist Yehuda Glick. ](/news/2014/10/30/the-temple-mount-in-jerusalem-was-closed-to-all-visitors-for-the-first-time-since-2000-following-the-attempted-assassination-of-israeli-act.md)
-_Context: Temple Mount, Yehuda Glick, Jerusalem_
+_Context: Yehuda Glick, Temple Mount, Jerusalem_
 
 ## [Previous Day...](/news/2014/10/29/index.md)
 

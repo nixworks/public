@@ -29,11 +29,11 @@ Four&#x20;Ugandan&#x20;peacekeepers&#x20;were&#x20;killed&#x20;in&#x20;Mogadishu
 
 ##### Rocket launcher
 ### [4 people are killed and 3 others are injured due to a rocket launcher explosion in Pursat Province, northwestern Cambodia. ](/news/2010/08/30/4-people-are-killed-and-3-others-are-injured-due-to-a-rocket-launcher-explosion-in-pursat-province-northwestern-cambodia.md)
-_Context: rocket launcher, Pursat Province, Cambodia_
+_Context: rocket launcher, Cambodia, Pursat Province_
 
 ##### Russia
 ### [Two Russian pilots are abducted in Sudan's western Darfur region. ](/news/2010/08/30/two-russian-pilots-are-abducted-in-sudan-s-western-darfur-region.md)
-_Context: Darfur, Sudan, Russia_
+_Context: Russia, Sudan, Darfur_
 
 ##### Nigeria
 ### [Gunmen kidnap a politician in southern Nigeria, days after a supporter of President Goodluck Jonathan was also kidnapped. ](/news/2010/08/30/gunmen-kidnap-a-politician-in-southern-nigeria-days-after-a-supporter-of-president-goodluck-jonathan-was-also-kidnapped.md)
@@ -83,11 +83,11 @@ _Context: Quito, Ecuador_
 ### [Ovadia Yosef, a senior rabbi from Shas, a party within Israel's coalition government, calls for Palestinian President Mahmoud Abbas to "vanish from our world". The United States condemns the remarks as "deeply offensive". ](/news/2010/08/30/ovadia-yosef-a-senior-rabbi-from-shas-a-party-within-israel-s-coalition-government-calls-for-palestinian-president-mahmoud-abbas-to-vani.md)
 An Israeli rabbi says the world would be better without Palestinian leader Mahmoud Abbas, prompting strong criticism from US officials.
 
-##### U.S.
+##### United States
 ### [The United States begins patrolling with troops its border with Mexico. ](/news/2010/08/30/the-united-states-begins-patrolling-with-troops-its-border-with-mexico.md)
 The first of more than 1,200 US troops sent to patrol the border with Mexico have begun operating in Arizona.
 
-##### U.S.
+##### United States
 ### [United States Vice President Joe Biden pays a surprise visit to Iraq. ](/news/2010/08/30/united-states-vice-president-joe-biden-pays-a-surprise-visit-to-iraq.md)
 American vice president lands in Baghdad on the eve of the formal end of US combat operations.
 
@@ -113,7 +113,7 @@ _Context: India, Blackberry_
 
 ##### Indonesia
 ### [Indonesian detainees continue to riot at the Northern Immigration Detention Facility. ](/news/2010/08/30/indonesian-detainees-continue-to-riot-at-the-northern-immigration-detention-facility.md)
-_Context: Indonesia, centres, Northern Territory_
+_Context: Northern Territory, Indonesia, centres_
 
 ##### South Africa
 ### [South African rugby union player Bees Roux of the Bulls is charged with murdering a police officer in Pretoria. ](/news/2010/08/30/south-african-rugby-union-player-bees-roux-of-the-bulls-is-charged-with-murdering-a-police-officer-in-pretoria.md)

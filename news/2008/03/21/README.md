@@ -5,7 +5,7 @@ Formats: [HTML](2008/03/21/index.html)  [JSON](2008/03/21/index.json)  [XML](200
 
 ##### Magnitude
 ### [ A 7.2-magnitude earthquake hits western China. ](/news/2008/03/21/a-7-2-magnitude-earthquake-hits-western-china.md)
-_Context: earthquake, magnitude_
+_Context: magnitude, earthquake_
 
 ##### French President
 ### [ President Nicolas Sarkozy announces that France will reduce its airborne nuclear weapons arsenal by a third. ](/news/2008/03/21/president-nicolas-sarkozy-announces-that-france-will-reduce-its-airborne-nuclear-weapons-arsenal-by-a-third.md)
@@ -13,7 +13,7 @@ _Context: Nicolas Sarkozy, French President, France, nuclear weapons arsenal_
 
 ##### Alain Bernard
 ### [ Alain Bernard sets a world record for the men's 100 meters freestyle with a time of 47" 60. ](/news/2008/03/21/alain-bernard-sets-a-world-record-for-the-men-s-100-meters-freestyle-with-a-time-of-47-60.md)
-_Context: world record, Alain Bernard_
+_Context: Alain Bernard, world record_
 
 ## [Previous Day...](/news/2008/03/20/index.md)
 

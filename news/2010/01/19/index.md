@@ -9,31 +9,31 @@ _Context: United Nations Security Council, increases the size, United Nations St
 
 ##### Great Britain
 ### [British confectionery maker Cadbury is to be purchased by American company Kraft Foods for GBP11.5 billion (850 pence per share). ](/news/2010/01/19/british-confectionery-maker-cadbury-is-to-be-purchased-by-american-company-kraft-foods-for-gbp11-5-billion-850-pence-per-share.md)
-_Context: confectionery, Cadbury, U.S., Great Britain, Kraft Foods_
+_Context: Cadbury, Great Britain, Kraft Foods, United States, confectionery_
 
 ##### Iran
 ### [Iran rejects a deal offered by the International Atomic Energy Agency to exchange low-enriched uranium for nuclear fuel. ](/news/2010/01/19/iran-rejects-a-deal-offered-by-the-international-atomic-energy-agency-to-exchange-low-enriched-uranium-for-nuclear-fuel.md)
-_Context: Iran, nuclear program, low-enriched uranium, IAEA, nuclear fuel_
+_Context: low-enriched uranium, IAEA, Iran, nuclear program, nuclear fuel_
 
 ##### Massachusetts
 ### [Massachusetts voters elect Republican Scott Brown to fill the vacant United States Senate seat previously held by Ted Kennedy. ](/news/2010/01/19/massachusetts-voters-elect-republican-scott-brown-to-fill-the-vacant-united-states-senate-seat-previously-held-by-ted-kennedy.md)
-_Context: Massachusetts, Ted Kennedy, elect, Scott Brown, Republican, United States Senate_
+_Context: Scott Brown, Massachusetts, elect, United States Senate, Ted Kennedy, Republican_
 
-##### U.S.
+##### United States
 ### [The United States Supreme Court reverses a decision by the Philadelphia Court of Appeals that had blocked the execution of former Black Panther Party member Mumia Abu-Jamal. ](/news/2010/01/19/the-united-states-supreme-court-reverses-a-decision-by-the-philadelphia-court-of-appeals-that-had-blocked-the-execution-of-former-black-pant.md)
-_Context: Capital punishment in the United States, United States court, Black Panther Party, United States Supreme Court, Mumia Abu-Jamal, Philadelphia, U.S._
+_Context: United States, Mumia Abu-Jamal, United States Supreme Court, United States court, Capital punishment in the United States, Black Panther Party, Philadelphia_
 
-##### U.S.
+##### United States
 ### [The United States Supreme Court refuses to hear an appeal from the QSI Holdings decision on the 6th Circuit Court of Appeals, limiting bankruptcy trustee avoidance actions against certain owners of ](/news/2010/01/19/the-united-states-supreme-court-refuses-to-hear-an-appeal-from-the-qsi-holdings-decision-on-the-6th-circuit-court-of-appeals-limiting-bankr.md)
-_Context: QSI Holdings, United States Supreme Court, U.S._
+_Context: United States, United States Supreme Court, QSI Holdings_
 
 ##### United Nations
 ### [A United Nations survey reveals Afghans have paid about US$2.5 (or GBP1.5) billion in bribes in the last year. ](/news/2010/01/19/a-united-nations-survey-reveals-afghans-have-paid-about-us-2-5-or-gbp1-5-billion-in-bribes-in-the-last-year.md)
-_Context: bribes, United Nations, GBP, US$, Afghanistan_
+_Context: bribes, GBP, United Nations, Afghanistan, US$_
 
 ##### Events earlier this year
 ### [At least 149 people are killed in two days of violence between Christians and Muslims in the Nigerian city of Jos. ](/news/2010/01/19/at-least-149-people-are-killed-in-two-days-of-violence-between-christians-and-muslims-in-the-nigerian-city-of-jos.md)
-_Context: Jos, Nigeria, events earlier this year, Muslim, Christian_
+_Context: Muslim, Jos, Christian, events earlier this year, Nigeria_
 
 ##### Exxon Valdez oil spill
 ### [Large quantities of oil still remain under beaches over 20 years after an Exxon Valdez oil spill in the Prince William Sound, Alaska. ](/news/2010/01/19/large-quantities-of-oil-still-remain-under-beaches-over-20-years-after-an-exxon-valdez-oil-spill-in-the-prince-william-sound-alaska.md)
@@ -45,11 +45,11 @@ The Asahi Shimbun is widely regarded for its journalism as the most respected da
 
 ##### Google
 ### [Foreign journalists in China say their emails have been hacked, as Google pulls out of launching its Android mobile phones. ](/news/2010/01/19/foreign-journalists-in-china-say-their-emails-have-been-hacked-as-google-pulls-out-of-launching-its-android-mobile-phones.md)
-_Context: Android, Google_
+_Context: Google, Android_
 
 ##### Bulgaria
 ### [Bulgarian European Commission nominee Rumiana Jeleva steps down as candidate and minister. ](/news/2010/01/19/bulgarian-european-commission-nominee-rumiana-jeleva-steps-down-as-candidate-and-minister.md)
-_Context: candidate, European Commission, minister, Bulgaria, Rumiana Jeleva_
+_Context: European Commission, minister, candidate, Rumiana Jeleva, Bulgaria_
 
 ##### China
 ### [Chinese senior judge Huang Songyou is sentenced to life in prison over corruption charges. ](/news/2010/01/19/chinese-senior-judge-huang-songyou-is-sentenced-to-life-in-prison-over-corruption-charges.md)
@@ -57,15 +57,15 @@ Chinese court hands down life sentence to senior judge accused of taking bribes.
 
 ##### Guinea
 ### [The Guinean junta appoints opposition leader Jean-Marie Dor as the new prime minister. ](/news/2010/01/19/the-guinean-junta-appoints-opposition-leader-jean-marie-dore-as-the-new-prime-minister.md)
-_Context: prime minister, junta, opposition leader, Guinea, Jean-Marie Dor_
+_Context: Jean-Marie Dor, junta, Guinea, opposition leader, prime minister_
 
 ##### Storm
 ### [A powerful storm in California, United States, causes the evacuation of at least 200 homes in threat of mudslides, and knocks out power for 65,000 customers. One fatality is reported in Kern County. ](/news/2010/01/19/a-powerful-storm-in-california-united-states-causes-the-evacuation-of-at-least-200-homes-in-threat-of-mudslides-and-knocks-out-power-for.md)
-_Context: mudslides, U.S., storm, Kern County, California_
+_Context: United States, California, Kern County, mudslides, storm_
 
 ##### Russian President
 ### [Russian President Dmitry Medvedev approves the establishment of the North Caucasian Federal District (from Southern Federal District) and appoints Alexander Khloponin as the Vice-Premier and Presidential Representative to the new federal district. ](/news/2010/01/19/russian-president-dmitry-medvedev-approves-the-establishment-of-the-north-caucasian-federal-district-from-southern-federal-district-and-ap.md)
-_Context: Russian President, Presidential Representative to the new federal district, North Caucasian Federal District, Vice-Premier, Alexander Khloponin, Dmitry Medvedev, Southern Federal District_
+_Context: Southern Federal District, North Caucasian Federal District, Dmitry Medvedev, Presidential Representative to the new federal district, Vice-Premier, Russian President, Alexander Khloponin_
 
 ##### Number Resource Organisation
 ### [The Number Resource Organisation warns the Internet is running out of IP addresses, with less than 10% of current-generation IPv4 addresses still available. ](/news/2010/01/19/the-number-resource-organisation-warns-the-internet-is-running-out-of-ip-addresses-with-less-than-10-of-current-generation-ipv4-addresses.md)

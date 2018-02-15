@@ -5,7 +5,7 @@ Formats: [HTML](2009/04/12/index.html)  [JSON](2009/04/12/index.json)  [XML](200
 
 ##### Prime Minister
 ### [ Prime Minister Abhisit Vejjajiva declares a state of emergency in Bangkok and its surrounding areas. ](/news/2009/04/12/prime-minister-abhisit-vejjajiva-declares-a-state-of-emergency-in-bangkok-and-its-surrounding-areas.md)
-_Context: Prime Minister, Bangkok, state of emergency, Abhisit Vejjajiva_
+_Context: Abhisit Vejjajiva, Prime Minister, Bangkok, state of emergency_
 
 ##### Sri Lanka
 ### [ Sri Lanka's Armed Forces temporarily suspend their offensive against the Tamil Tigers to allow civilians to find refuge. ](/news/2009/04/12/sri-lanka-s-armed-forces-temporarily-suspend-their-offensive-against-the-tamil-tigers-to-allow-civilians-to-find-refuge.md)
@@ -21,7 +21,7 @@ All the latest Sports News, Scores, Fantasy Games.
 
 ##### Captain
 ### [ Captain Richard Phillips of the MV "Maersk Alabama", who was abducted by Somali pirates, is rescued. ](/news/2009/04/12/captain-richard-phillips-of-the-mv-maersk-alabama-who-was-abducted-by-somali-pirates-is-rescued.md)
-_Context: MV, Somalia, Somali pirates, Richard Phillips, Captain, ''Maersk Alabama''_
+_Context: ''Maersk Alabama'', Captain, Richard Phillips, MV, Somali pirates, Somalia_
 
 ## [Previous Day...](/news/2009/04/11/index.md)
 

@@ -21,7 +21,7 @@ Plans for a £33bn high-speed rail network - HS2 - receive a mixed reaction as t
 
 ##### Mitt Romney
 ### [Early reports show that Mitt Romney wins the New Hampshire Republican primary with Ron Paul in second and Jon Huntsman in third. ](/news/2012/01/10/early-reports-show-that-mitt-romney-wins-the-new-hampshire-republican-primary-with-ron-paul-in-second-and-jon-huntsman-in-third.md)
-_Context: Mitt Romney, Ron Paul, Jon Huntsman, New Hampshire Republican primary_
+_Context: Ron Paul, Jon Huntsman, New Hampshire Republican primary, Mitt Romney_
 
 ## [Previous Day...](/news/2012/01/9/index.md)
 

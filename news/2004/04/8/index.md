@@ -5,15 +5,15 @@ Formats: [HTML](2004/04/8/index.html)  [JSON](2004/04/8/index.json)  [XML](2004/
 
 ##### Bangladesh
 ### [ Bangladesh is paralysed by a general strike called in protest at alleged government corruption. ](/news/2004/04/8/bangladesh-is-paralysed-by-a-general-strike-called-in-protest-at-alleged-government-corruption.md)
-_Context: Bangladesh, general strike_
+_Context: general strike, Bangladesh_
 
 ##### National Security Advisor
 ### [ US National Security Advisor Condoleezza Rice testifies before the September 11 Commission. Rice states President George W. Bush understood threat from al-Qaeda before September 11. She asserts "the terrorists were at war with us, but we were not yet at war with them." She also says that President George W. Bush came into office in 2001 determined to develop a "more robust" policy to combat Al-Qaida. The commission asks the White House to declassify a key August 2001 document entitled ""Bin Ladin Determined to Strike in US"". ](/news/2004/04/8/us-national-security-advisor-condoleezza-rice-testifies-before-the-september-11-commission-rice-states-president-george-w-bush-understood.md)
-_Context: Al-Qaida, Condoleezza Rice, George W. Bush, key August 2001 document, National Security Advisor, al-Qaeda, Osama bin Laden, 9/11 Commission, White House_
+_Context: Condoleezza Rice, Osama bin Laden, Al-Qaida, National Security Advisor, al-Qaeda, White House, key August 2001 document, 9/11 Commission, George W. Bush_
 
 ##### Ally
 ### [ Iraq Alliancedate=January 2016 troops are locked in heavy fighting. Ukrainian troops cede Kut to Moqtada al-Sadr supporters. Sunni Muslim insurgents engage in two fronts west of Baghdad; a Shiite uprising spreads in southern and central Iraq. ](/news/2004/04/8/iraq-alliancedate-january-2016-troops-are-locked-in-heavy-fighting-ukrainian-troops-cede-kut-to-moqtada-al-sadr-supporters-sunni-muslim-i.md)
-_Context: Kut, Ukraine, ally, Shiite, war zone, Muqtada al-Sadr, Baghdad, Sunni, Iraqi insurgency_
+_Context: ally, Baghdad, Muqtada al-Sadr, Shiite, Sunni, Ukraine, Kut, war zone, Iraqi insurgency_
 
 ##### Abdurrashid Dostum
 ### [ Militia forces loyal to Abdurrashid Dostum take Meymaneh, the capital of Faryab province, Afghanistan, from the interim government and force the governor to flee. ](/news/2004/04/8/militia-forces-loyal-to-abdurrashid-dostum-take-meymaneh-the-capital-of-faryab-province-afghanistan-from-the-interim-government-and-forc.md)
@@ -25,7 +25,7 @@ The Middle East Forum, which is headed by a controversial Jewish scholar, is see
 
 ##### NASA
 ### [ NASA announces that the mission of Spirit and Opportunity will be extended by five months. ](/news/2004/04/8/nasa-announces-that-the-mission-of-spirit-and-opportunity-will-be-extended-by-five-months.md)
-_Context: Opportunity, NASA, Spirit, Mars Exploration Rover Mission_
+_Context: NASA, Mars Exploration Rover Mission, Spirit, Opportunity_
 
 ## [Previous Day...](/news/2004/04/7/index.md)
 

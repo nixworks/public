@@ -5,19 +5,19 @@ Formats: [HTML](2011/01/5/index.html)  [JSON](2011/01/5/index.json)  [XML](2011/
 
 ##### Clarence House
 ### [Clarence House confirms that Prince William and Catherine Middleton will be married by the Archbishop of Canterbury, Dr Rowan Williams. ](/news/2011/01/5/clarence-house-confirms-that-prince-william-and-catherine-middleton-will-be-married-by-the-archbishop-of-canterbury-dr-rowan-williams.md)
-_Context: Archbishop of Canterbury, 2011 Royal Wedding, Duke of Cambridge, Clarence House, Rowan Williams, Catherine, Duchess of Cambridge_
+_Context: Catherine, Duchess of Cambridge, Clarence House, Rowan Williams, Archbishop of Canterbury, 2011 Royal Wedding, Duke of Cambridge_
 
 ##### Sweden
 ### [Swedish actor Per Oscarsson and his wife Kia Ostling are confirmed dead by dental records after a fire destroyed the couple's house in Skara and the couple perished on December 30, 2010. ](/news/2011/01/5/swedish-actor-per-oscarsson-and-his-wife-kia-astling-are-confirmed-dead-by-dental-records-after-a-fire-destroyed-the-couple-s-house-in-skar.md)
-_Context: Sweden, Per Oscarsson, Kia Ostling, Skara_
+_Context: Kia Ostling, Per Oscarsson, Skara, Sweden_
 
 ##### Iran
 ### [Iran and India develop a stop-gap plan to continue the flow of oil from the former to the latter, and payments in the opposite direction, days after India withdrew from the Asian Clearing Union. The new plan involves payments through the EIH Bank, in Hamburg, Germany. ](/news/2011/01/5/iran-and-india-develop-a-stop-gap-plan-to-continue-the-flow-of-oil-from-the-former-to-the-latter-and-payments-in-the-opposite-direction-da.md)
-_Context: EIH Bank, Asian Clearing Union, Iran, India_
+_Context: EIH Bank, India, Iran, Asian Clearing Union_
 
 ##### Millard South High School
 ### [A 17-year-old student at Millard South High School, in Omaha, Nebraska, shoots an assistant principal to death and wounds the school principal before turning the gun onto himself. ](/news/2011/01/5/a-17-year-old-student-at-millard-south-high-school-in-omaha-nebraska-shoots-an-assistant-principal-to-death-and-wounds-the-school-princip.md)
-_Context: Millard South High School, Nebraska, Omaha_
+_Context: Nebraska, Omaha, Millard South High School_
 
 ##### Malaysia
 ### [A Malaysian coroner records an open verdict in the death of opposition aide Teoh Beng Hock, who fell from the roof of the anti-corruption commission building in July 2009. ](/news/2011/01/5/a-malaysian-coroner-records-an-open-verdict-in-the-death-of-opposition-aide-teoh-beng-hock-who-fell-from-the-roof-of-the-anti-corruption-co.md)

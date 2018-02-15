@@ -29,7 +29,7 @@ _Context: Philippines_
 
 ##### Hurricane Ernesto
 ### [Hurricane Ernesto makes landfall in the Mexican state of Veracruz causing at least three deaths. ](/news/2012/08/9/hurricane-ernesto-makes-landfall-in-the-mexican-state-of-veracruz-causing-at-least-three-deaths.md)
-_Context: Mexican, Hurricane Ernesto, Veracruz_
+_Context: Hurricane Ernesto, Mexican, Veracruz_
 
 ##### Gu Kailai
 ### [The trial of Gu Kailai, wife of former Communist powerbroker Bo Xilai, for the alleged murder of British businessman Neil Haywood begins in the Chinese city of Hefei. ](/news/2012/08/9/the-trial-of-gu-kailai-wife-of-former-communist-powerbroker-bo-xilai-for-the-alleged-murder-of-british-businessman-neil-haywood-begins-in.md)

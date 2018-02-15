@@ -13,11 +13,11 @@ At least seven people are killed in twin bombings in the north-western Pakistani
 
 ##### Stock market
 ### [Stock markets in Asia and Australia fall on the back of a sharp decline in Wednesday's trading on the New York Stock Exchange. ](/news/2011/08/11/stock-markets-in-asia-and-australia-fall-on-the-back-of-a-sharp-decline-in-wednesday-s-trading-on-the-new-york-stock-exchange.md)
-_Context: Australia, New York Stock Exchange, Stock market, Asia_
+_Context: New York Stock Exchange, Australia, Stock market, Asia_
 
 ##### City Council
 ### [The City Council in the New Zealand city of Christchurch announces plans to rebuild its central business district after the recent earthquake. ](/news/2011/08/11/the-city-council-in-the-new-zealand-city-of-christchurch-announces-plans-to-rebuild-its-central-business-district-after-the-recent-earthquak.md)
-_Context: New Zealand, Christchurch, central business district, 2011 Christchurch earthquake, City Council_
+_Context: New Zealand, Christchurch, central business district, City Council, 2011 Christchurch earthquake_
 
 ##### Israel
 ### [Final approval is given for the building of 1,600 Israeli settler homes in "disputed" East Jerusalem by Israeli Interior Minister Eli Yishai despite a diplomatic rebuke Tuesday from the United States over earlier construction plans. ](/news/2011/08/11/final-approval-is-given-for-the-building-of-1-600-israeli-settler-homes-in-disputed-east-jerusalem-by-israeli-interior-minister-eli-yishai.md)

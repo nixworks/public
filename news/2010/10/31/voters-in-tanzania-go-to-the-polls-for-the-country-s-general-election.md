@@ -16,7 +16,7 @@ Formats: [HTML](/news/2010/10/31/voters-in-tanzania-go-to-the-polls-for-the-coun
 
 ### Changes:
 
-1. [Voters in the Ivory Coast go to the polls for the long delayed presidential election. ](/news/2010/10/31/voters-in-the-ivory-coast-go-to-the-polls-for-the-long-delayed-presidential-election.md) _2018-02-13 04:38:23 (First version)_
+1. [Voters in the Ivory Coast go to the polls for the long delayed presidential election. ](/news/2010/10/31/voters-in-the-ivory-coast-go-to-the-polls-for-the-long-delayed-presidential-election.md) _2018-02-14 04:35:39 (First version)_
 1. [Voters in Tanzania go to the polls for the country's general election. ](/news/2010/10/31/voters-in-tanzania-go-to-the-polls-for-the-country-s-general-election.md) _(Current version)_
 
 ### Related:

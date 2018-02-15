@@ -9,11 +9,11 @@ David Cameron says Britain&#039;s air war will require &quot;patience and persis
 
 ##### Russia
 ### [Russian president Vladimir Putin addresses the shootdown of one of their jets in Syria by the Turkish Air Force. He goes on to say that "if anyone thinks Russia's reaction will be limited to trade sanctions, they are deeply mistaken". ](/news/2015/12/3/russian-president-vladimir-putin-addresses-the-shootdown-of-one-of-their-jets-in-syria-by-the-turkish-air-force-he-goes-on-to-say-that-if.md)
-_Context: Vladimir Putin, Syria, Turkish Air Force, Russia, 2015 downing_
+_Context: Turkish Air Force, 2015 downing, Russia, Vladimir Putin, Syria_
 
 ##### Iraqi Civil War (2014-present)
 ### [Following the Obama Administration's pledge of additional Special Operations troops to Iraq, several members of Iraq's ruling alliance state that only the Iraqi Parliament can authorize the action, and political associates of Iraqi Prime Minister Haider al-Abadi report such a troop expansion would be unacceptable. Several members of Iraqi militias have also decried a deployment of more U.S. troops. During the pull out from Iraq, president Obama promised there would be no more "boots on the ground" in Iraq again. ](/news/2015/12/3/following-the-obama-administration-s-pledge-of-additional-special-operations-troops-to-iraq-several-members-of-iraqas-ruling-alliance-sta.md)
-_Context: Iraqi Parliament, Prime Minister, Haider al-Abadi, Iraq, Obama Administration, American-led intervention in Iraq, Iraqi militias, Iraqi Civil War (2014-present)_
+_Context: Prime Minister, American-led intervention in Iraq, Iraq, Iraqi Parliament, Iraqi Civil War (2014-present), Obama Administration, Haider al-Abadi, Iraqi militias_
 
 ##### Israel
 ### [Israel's Holocaust and Remembrance Center posthumously adds U.S. Army Master Sergeant Roddie Edmonds to the list of the Righteous Among the Nations for his actions in 1945 at a Nazi prisoner of war camp. ](/news/2015/12/3/israelas-holocaust-and-remembrance-center-posthumously-adds-u-s-army-master-sergeant-roddie-edmonds-to-the-list-of-the-righteous-among-th.md)
@@ -29,7 +29,7 @@ Samsung fought until the bitter end to avoid paying Apple, but the company now s
 
 ##### Free travel
 ### [EU ministers discuss suspending the Schengen passport-free travel zone for two years, on the basis that the migrant crisis has exposed "serious deficiencies" at the Greek border that endanger the overall area. ](/news/2015/12/3/eu-ministers-discuss-suspending-the-schengen-passport-free-travel-zone-for-two-years-on-the-basis-that-the-migrant-crisis-has-exposed-ase.md)
-_Context: European migrant crisis, free travel, Greece_
+_Context: free travel, European migrant crisis, Greece_
 
 ##### German
 ### [Germany's Federal Intelligence Service (BND) says Saudi Arabia is at risk of becoming a major destabilizing influence in the Arab world due to the diplomatic stance of some senior members of the House of Saud. ](/news/2015/12/3/germany-s-federal-intelligence-service-bnd-says-saudi-arabia-is-at-risk-of-becoming-a-major-destabilizing-influence-in-the-arab-world-due.md)
@@ -45,7 +45,7 @@ Justice Eric Leach said the sprinter &quot;never offered an acceptable explanati
 
 ##### 2015 FIFA corruption case
 ### [U.S. Attorney General Loretta Lynch announces criminal corruption charges against 16 FIFA officials in an indictment that expands Justice's May filing that indicted 14 officials associated with FIFA (Federation Internationale de Football Association) and related sports marketing companies. At U.S. authorities request, Swiss police arrest two South American FIFA (Federation Internationale de Football Association) officials at the five-star Baur au Lac hotel in Zurich, on suspicion of accepting "millions of dollars" in bribes. In addition, eight of the defendants indicted in May have pleaded guilty. ](/news/2015/12/3/u-s-attorney-general-loretta-lynch-announces-criminal-corruption-charges-against-16-fifa-officials-in-an-indictment-that-expands-justice-s.md)
-_Context: South America, United States Attorney General, 2015 FIFA corruption case, FIFA, bribes, Swiss authorities, Loretta Lynch, pleaded guilty, five-star, Zurich, FIFA, Baur au Lac, Department of Justice_
+_Context: FIFA, Swiss authorities, South America, Department of Justice, Zurich, FIFA, 2015 FIFA corruption case, pleaded guilty, five-star, bribes, Baur au Lac, United States Attorney General, Loretta Lynch_
 
 ##### Donald Blankenship
 ### [A court convicts Donald Blankenship, former CEO of Massey Energy Company, of violating safety standards that led to the deaths of 29 Upper Big Branch mine workers in Montcoal, West Virginia in 2010. He is acquitted of making false statements and deceiving regulators. Blankenship, who faces up to one year in prison and a fine of $250,000, is the most prominent American coal executive ever to be convicted of a charge connected to the deaths of miners. ](/news/2015/12/3/a-court-convicts-donald-blankenship-former-ceo-of-massey-energy-company-of-violating-safety-standards-that-led-to-the-deaths-of-29-upper-b.md)

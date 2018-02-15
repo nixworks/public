@@ -9,31 +9,31 @@ _Context: Piper Cherokee_
 
 ##### Andrzej Lepper
 ### [ Andrzej Lepper is sacked as the Deputy Prime Minister of Poland over allegations of corruption involving his Samoobrona party with the prospect of an early election. ](/news/2007/07/9/andrzej-lepper-is-sacked-as-the-deputy-prime-minister-of-poland-over-allegations-of-corruption-involving-his-samoobrona-party-with-the-pros.md)
-_Context: Polish, Deputy Prime Minister of Poland, anti-corruption, Samoobrona, Andrzej Lepper_
+_Context: Samoobrona, anti-corruption, Deputy Prime Minister of Poland, Poland, Andrzej Lepper_
 
 ##### United States Senate
 ### [ United States Senator David Vitter of Louisiana apologises after his name is found on a list associated with an escort agency operated by the so-called D.C. Madam. ](/news/2007/07/9/united-states-senator-david-vitter-of-louisiana-apologises-after-his-name-is-found-on-a-list-associated-with-an-escort-agency-operated-by-t.md)
-_Context: Louisiana, escort agency, United States Senate, D.C. Madam, David Vitter_
+_Context: D.C. Madam, David Vitter, escort agency, United States Senate, Louisiana_
 
 ##### Lal Masjid siege
 ### [ Lal Masjid siege: An attempt to negotiate a peaceful end to the seven-day standoff at Islamabad's Red Mosque ends without any progress. ](/news/2007/07/9/lal-masjid-siege-an-attempt-to-negotiate-a-peaceful-end-to-the-seven-day-standoff-at-islamabad-s-red-mosque-ends-without-any-progress.md)
-_Context: Lal Masjid siege, Islamabad, Red Mosque_
+_Context: Islamabad, Red Mosque, Lal Masjid siege_
 
 ##### Conspiracy
 ### [ Four men are found guilty of conspiracy to murder over the failed terror attacks on the London Underground on July 21, 2005. ](/news/2007/07/9/four-men-are-found-guilty-of-conspiracy-to-murder-over-the-failed-terror-attacks-on-the-london-underground-on-july-21-2005.md)
-_Context: conspiracy, 21 July 2005 London bombings_
+_Context: 21 July 2005 London bombings, conspiracy_
 
 ##### Independence Day
 ### [ On the country's Independence Day, snow falls in Buenos Aires, Argentina, for the first time in 89 years and the second time in recorded history. Two people die of exposure in Argentina while one person dies in Chile. ](/news/2007/07/9/on-the-country-s-independence-day-snow-falls-in-buenos-aires-argentina-for-the-first-time-in-89-years-and-the-second-time-in-recorded-hi.md)
-_Context: Independence Day, Buenos Aires, Argentina, Chile_
+_Context: Argentina, Independence Day, Chile, Buenos Aires_
 
 ##### Arab League
 ### [ The Arab League agrees to send a delegation to Israel for the first time. ](/news/2007/07/9/the-arab-league-agrees-to-send-a-delegation-to-israel-for-the-first-time.md)
-_Context: Israel, Arab League_
+_Context: Arab League, Israel_
 
 ##### Governor of Pennsylvania
 ### [ The Governor of Pennsylvania Ed Rendell orders a partial shutdown of state government functions following the failure of state legislators to agree on a budget. ](/news/2007/07/9/the-governor-of-pennsylvania-ed-rendell-orders-a-partial-shutdown-of-state-government-functions-following-the-failure-of-state-legislators.md)
-_Context: shutdown, budget, state government functions, Ed Rendell, state legislators, Governor of Pennsylvania_
+_Context: shutdown, state legislators, Ed Rendell, state government functions, budget, Governor of Pennsylvania_
 
 ## [Previous Day...](/news/2007/07/8/index.md)
 

@@ -5,11 +5,11 @@ Formats: [HTML](2006/03/3/index.html)  [JSON](2006/03/3/index.json)  [XML](2006/
 
 ##### Research In Motion
 ### [ Research In Motion, a Waterloo, Ontario, Canadian based company, agrees to pay NTP Inc. $612.5 million to settle NTP's patent-infringement suit against RIM. NTP had argued RIM's BlackBerry wireless-communication devices use technology patented by NTP. ](/news/2006/03/3/research-in-motion-a-waterloo-ontario-canadian-based-company-agrees-to-pay-ntp-inc-612-5-million-to-settle-ntp-s-patent-infringement.md)
-_Context: NTP Inc., patent, Canadian, BlackBerry, Waterloo, Ontario, Research In Motion, $_
+_Context: BlackBerry, patent, NTP Inc., Waterloo, Ontario, $, Research In Motion, Canadian_
 
 ##### ANC party
 ### [ The ruling African National Congress takes 66% of the votes in the 2006 South African municipal election. Voter turnout was 46%. No party in the City of Cape Town claims an outright majority. ](/news/2006/03/3/the-ruling-african-national-congress-takes-66-of-the-votes-in-the-2006-south-african-municipal-election-voter-turnout-was-46-no-party-i.md)
-_Context: 2006 South African municipal election, City of Cape Town, ANC party, party_
+_Context: City of Cape Town, party, ANC party, 2006 South African municipal election_
 
 ##### Russian-Hamas talks, 2006
 ### [ Russian-Hamas talks, 2006: Russian Foreign Minister Sergey Lavrov, in his talks with the Hamas leader Khaled Mashal, calls on Hamas to transform itself into a political organisation, recognise Israel's right to exist, and to keep previous peace accords. ](/news/2006/03/3/russianahamas-talks-2006-russian-foreign-minister-sergey-lavrov-in-his-talks-with-the-hamas-leader-khaled-mashal-calls-on-hamas-to-tr.md)
@@ -29,11 +29,11 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### United States House of Representatives
 ### [ Former U.S. Representative Randy "Duke" Cunningham of California, a Republican, is sentenced to eight years and four months in federal prison after pleading guilty to accepting at least $2.4 million in bribes. It is the longest prison term that any former member of Congress has ever been sentenced to. ](/news/2006/03/3/former-u-s-representative-randy-duke-cunningham-of-california-a-republican-is-sentenced-to-eight-years-and-four-months-in-federal-pris.md)
-_Context: Republican, California, Randy "Duke" Cunningham, United States House of Representatives_
+_Context: United States House of Representatives, California, Republican, Randy "Duke" Cunningham_
 
 ##### Labour Party
 ### [ British Labour Party MPs close to Gordon Brown call for Culture Secretary Tessa Jowell to resign over her husband, David Mills' alleged acceptance of money from Silvio Berlusconi. ](/news/2006/03/3/british-labour-party-mps-close-to-gordon-brown-call-for-culture-secretary-tessa-jowell-to-resign-over-her-husband-david-mills-alleged-acc.md)
-_Context: Gordon Brown, Labour Party, MP, Tessa Jowell, David Mills, Silvio Berlusconi_
+_Context: Labour Party, MP, Tessa Jowell, Gordon Brown, David Mills, Silvio Berlusconi_
 
 ##### 2006 Chinese People's Political Consultative Conference
 ### [ The 2006 Chinese People's Political Consultative Conference opens in Beijing. ](/news/2006/03/3/the-2006-chinese-people-s-political-consultative-conference-opens-in-beijing.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2005/06/7/index.html)  [JSON](2005/06/7/index.json)  [XML](2005/
 
 ##### United States Senate
 ### [ United States Senator Jon Corzine wins the New Jersey Democratic Party gubernatorial primary. Doug Forrester, a former mayor, wins the New Jersey Republican Party gubernatorial primary after a heated contest with another former mayor, Bret Schundler. The November 2005 election will be the first since Governor James McGreevey resigned over a scandal in which he was revealed to be homosexual. ](/news/2005/06/7/united-states-senator-jon-corzine-wins-the-new-jersey-democratic-party-gubernatorial-primary-doug-forrester-a-former-mayor-wins-the-new.md)
-_Context: gubernatorial elections, New Jersey, Democrat, Bret Schundler, Doug Forrester, Jon Corzine, Republican, United States Senate, election, James McGreevey, gay, mayor_
+_Context: Bret Schundler, Republican, Jon Corzine, James McGreevey, gubernatorial elections, mayor, United States Senate, gay, New Jersey, election, Democrat, Doug Forrester_
 
 ##### UCLA
 ### [ Scientists at UCLA use a pyroelectric crystal heated from -34.4 to 7.2 degrees Celsius to produce an electric field of about 100,000 volts, accelerating hydrogen nuclei and producing helium nuclei in the subsequent collisions. This cold fusion experiment has been repeated successfully, and other scientists have confirmed the results. ](/news/2005/06/7/scientists-at-ucla-use-a-pyroelectric-crystal-heated-from-34-4-to-7-2-degrees-celsius-to-produce-an-electric-field-of-about-100-000-volts.md)
@@ -29,11 +29,11 @@ _Context: Israeli-Palestinian conflict_
 
 ##### Robert Mugabe
 ### [ A spokesman for Robert Mugabe, President of Zimbabwe, dismisses rumors that Mugabe has died of a heart attack, after privately owned media report that Mugabe went to a local hospital to have his heart tested. ](/news/2005/06/7/a-spokesman-for-robert-mugabe-president-of-zimbabwe-dismisses-rumors-that-mugabe-has-died-of-a-heart-attack-after-privately-owned-media.md)
-_Context: Robert Mugabe, heart attack, Zimbabwe_
+_Context: Zimbabwe, Robert Mugabe, heart attack_
 
 ##### India
 ### [ The leader of the opposition in the Indian Lok Sabha, Lal Krishna Advani, resigns from his post amid controversial comments he made about the founder of Pakistan, Mohammed Ali Jinnah. Advani had referred to Jinnah as a "secular" leader and drew intense criticism back at home in India. ](/news/2005/06/7/the-leader-of-the-opposition-in-the-indian-lok-sabha-lal-krishna-advani-resigns-from-his-post-amid-controversial-comments-he-made-about-t.md)
-_Context: Lal Krishna Advani, Lok Sabha, India, Mohammed Ali Jinnah, Pakistan_
+_Context: Pakistan, Mohammed Ali Jinnah, Lal Krishna Advani, India, Lok Sabha_
 
 ##### Sauropod
 ### [ A new type of sauropod has been discovered with a short, stubby neck. Unlike all other known sauropods, whose long necks could get up to four times the length of their backs, "Brachytrachelopan"'s neck was shorter than its backbone. This species was also unable to lift its neck and head above horizontal. ](/news/2005/06/7/a-new-type-of-sauropod-has-been-discovered-with-a-short-stubby-neck-unlike-all-other-known-sauropods-whose-long-necks-could-get-up-to-fo.md)
@@ -41,7 +41,7 @@ _Context: sauropod, horizontal_
 
 ##### New York State
 ### [ New York State Assembly Speaker Sheldon Silver's veto of the plan to build the West Side Stadium, the key component to the New York bid, all but ends New York City's chances of receiving the 2012 Olympics, leaving the field to a face-off between Paris and London. ](/news/2005/06/7/new-york-state-assembly-speaker-sheldon-silver-s-veto-of-the-plan-to-build-the-west-side-stadium-the-key-component-to-the-new-york-bid-al.md)
-_Context: Paris, New York bid, Assembly, West Side Stadium, London, New York City, New York State, veto, 2012 Olympics, Sheldon Silver's_
+_Context: Paris, New York bid, Assembly, New York City, Sheldon Silver's, 2012 Olympics, New York State, London, West Side Stadium, veto_
 
 ##### National Assembly of the Republic of China
 ### [ The National Assembly of the Republic of China approves a package of amendments to the Constitution of the Republic of China to halve the number of seats in the Legislative Yuan and abolish itself.](/news/2005/06/7/the-national-assembly-of-the-republic-of-china-approves-a-package-of-amendments-to-the-constitution-of-the-republic-of-china-to-halve-the-n.md)
@@ -49,15 +49,15 @@ Democratic Progressive Party (DPP) Chairman Su Tseng-chang (蘇貞昌) said yest
 
 ##### Philippines
 ### [ In the Philippines, the government orders the National Bureau of Investigation to investigate a case where opposition tapped the telephone conversation of president Gloria Arroyo. They allegedly used it to create a tape where she is supposedly talking about electoral fraud ](/news/2005/06/7/in-the-philippines-the-government-orders-the-national-bureau-of-investigation-to-investigate-a-case-where-opposition-tapped-the-telephone.md)
-_Context: electoral fraud, Philippines, Gloria Arroyo, phone tapping_
+_Context: Gloria Arroyo, electoral fraud, Philippines, phone tapping_
 
 ##### Chile
 ### [ In Chile, the Santiago Court of Appeals cancels Augusto Pinochet's immunity from prosecution. Among other things, he faces charges of tax fraud. However, the court also ruled that he is too ill to face charges of human rights violations ](/news/2005/06/7/in-chile-the-santiago-court-of-appeals-cancels-augusto-pinochet-s-immunity-from-prosecution-among-other-things-he-faces-charges-of-tax-f.md)
-_Context: Chile, human rights, Augusto Pinochet, tax fraud, Santiago Court of Appeals_
+_Context: tax fraud, Augusto Pinochet, Chile, human rights, Santiago Court of Appeals_
 
 ##### Human Rights Watch
 ### [ Human Rights Watch demands investigation about the unrest in Uzbekistan, accusing the leaders of the country trying to cover up a "massacre" ](/news/2005/06/7/human-rights-watch-demands-investigation-about-the-unrest-in-uzbekistan-accusing-the-leaders-of-the-country-trying-to-cover-up-a-massacre.md)
-_Context: Human Rights Watch, Uzbekistan, massacre_
+_Context: Human Rights Watch, massacre, Uzbekistan_
 
 ##### Australia
 ### [ In Australia, Hao Fengjun, second Chinese defector, backs claims of Chen Yonglin about a large Chinese espionage network in the country ](/news/2005/06/7/in-australia-hao-fengjun-second-chinese-defector-backs-claims-of-chen-yonglin-about-a-large-chinese-espionage-network-in-the-country.md)

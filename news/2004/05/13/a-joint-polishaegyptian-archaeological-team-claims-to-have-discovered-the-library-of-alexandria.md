@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/05/13/a-joint-polishaegyptian-archaeological-team-cla
 
 ### [2004-05-13](/news/2004/05/13/index.md)
 
-##### Polish
+##### Poland
 #  A joint Polish-Egyptian archaeological team claims to have discovered the Library of Alexandria. 
 
 
@@ -16,7 +16,7 @@ Formats: [HTML](/news/2004/05/13/a-joint-polishaegyptian-archaeological-team-cla
 ### Related:
 
 1. [ Archaeologists discover what they term the 'world's oldest university' in Alexandria, Egypt. It dates from the 5th century AD. ](/news/2004/05/26/archaeologists-discover-what-they-term-the-world-s-oldest-university-in-alexandria-egypt-it-dates-from-the-5th-century-ad.md) _Context: Archaeologists, Egypt_
-2. [The European Parliament votes 447-196 to dismiss Ryszard Czarnecki (PiS) as one of its 14 vice-presidents, for calling fellow Polish parliamentarian Roza Thun (Civic Platform) a "szmalcownik" (meaning Nazi collaborator). It is the first time that the parliament invokes the powers of Article 21 of the Treaty on European Union to dismiss a senior office holder. Czarnecki remains a Member of the European Parliament. ](/news/2018/02/7/the-european-parliament-votes-447a196-to-dismiss-ryszard-czarnecki-pis-as-one-of-its-14-vice-presidents-for-calling-fellow-polish-parli.md) _Context: Polish_
-3. [Egypt bans "Saturday Night Live Arabia" for using "sexual expressions that are inappropriate for viewers". ](/news/2018/02/12/egypt-bans-saturday-night-live-arabia-for-using-sexual-expressions-that-are-inappropriate-for-viewers.md) _Context: Egypt_
-4. [A hot air balloon crashes due to strong winds in Egypt's Luxor Governorate. A tourist from Australia is killed and 12 other tourists are injured. The Egypt Aviation Authority says there were 20 passengers on the balloon. ](/news/2018/01/5/a-hot-air-balloon-crashes-due-to-strong-winds-in-egypt-s-luxor-governorate-a-tourist-from-australia-is-killed-and-12-other-tourists-are-inj.md) _Context: Egypt_
-5. [United States Secretary of State Rex Tillerson says that the U.S. and Poland "oppose" the Nord Stream 2 pipeline. They see it as undermining Europe's overall energy security and stability. ](/news/2018/01/27/united-states-secretary-of-state-rex-tillerson-says-that-the-u-s-and-poland-oppose-the-nord-stream-2-pipeline-they-see-it-as-undermining.md) _Context: Polish_
+2. [The European Parliament votes 447-196 to dismiss Ryszard Czarnecki (PiS) as one of its 14 vice-presidents, for calling fellow Polish parliamentarian Roza Thun (Civic Platform) a "szmalcownik" (meaning Nazi collaborator). It is the first time that the parliament invokes the powers of Article 21 of the Treaty on European Union to dismiss a senior office holder. Czarnecki remains a Member of the European Parliament. ](/news/2018/02/7/the-european-parliament-votes-447a196-to-dismiss-ryszard-czarnecki-pis-as-one-of-its-14-vice-presidents-for-calling-fellow-polish-parli.md) _Context: Poland_
+3. [Mikheil Saakashvili, leader of the opposition Movement of New Forces party, who was deported from Ukraine to Poland, relocates to the Netherlands. ](/news/2018/02/14/mikheil-saakashvili-leader-of-the-opposition-movement-of-new-forces-party-who-was-deported-from-ukraine-to-poland-relocates-to-the-nether.md) _Context: Poland_
+4. [Mikheil Saakashvili, leader of the opposition Movement of New Forces party, who has been stripped of his Ukrainian citizenship by Ukrainian president Petro Poroshenko on 26 July 2017, is detained by the Ministry of Internal Affairs in Kiev and deported from Ukraine to Poland. ](/news/2018/02/12/mikheil-saakashvili-leader-of-the-opposition-movement-of-new-forces-party-who-has-been-stripped-of-his-ukrainian-citizenship-by-ukrainian.md) _Context: Poland_
+5. [Egypt bans "Saturday Night Live Arabia" for using "sexual expressions that are inappropriate for viewers". ](/news/2018/02/12/egypt-bans-saturday-night-live-arabia-for-using-sexual-expressions-that-are-inappropriate-for-viewers.md) _Context: Egypt_

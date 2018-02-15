@@ -17,7 +17,7 @@ _Context: Akira Amari, Trans-Pacific Partnership_
 
 ##### North Korea
 ### [North Korea releases American detainees Kenneth Bae and Matthew Todd Miller. ](/news/2014/11/8/north-korea-releases-american-detainees-kenneth-bae-and-matthew-todd-miller.md)
-_Context: Matthew Todd Miller, Kenneth Bae, North Korea_
+_Context: North Korea, Kenneth Bae, Matthew Todd Miller_
 
 ## [Previous Day...](/news/2014/11/7/index.md)
 

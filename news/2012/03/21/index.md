@@ -49,7 +49,7 @@ British finance minister George Osborne on Wednesday used his annual budget to c
 
 ##### Nick Smith
 ### [Nick Smith resigns as New Zealand's Minister for the Environment, Minister for Climate Change Issues and Minister for Local Government due to improper conduct. ](/news/2012/03/21/nick-smith-resigns-as-new-zealand-s-minister-for-the-environment-minister-for-climate-change-issues-and-minister-for-local-government-due-t.md)
-_Context: Nick Smith, New Zealand_
+_Context: New Zealand, Nick Smith_
 
 ## [Previous Day...](/news/2012/03/20/index.md)
 

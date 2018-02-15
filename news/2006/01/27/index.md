@@ -13,15 +13,15 @@ _Context: Auschwitz, Holocaust_
 
 ##### Earthquake
 ### [ A 7.7 magnitude earthquake strikes the Banda Sea of eastern Indonesia. ](/news/2006/01/27/a-7-7-magnitude-earthquake-strikes-the-banda-sea-of-eastern-indonesia.md)
-_Context: Banda Sea, Indonesia, earthquake_
+_Context: earthquake, Banda Sea, Indonesia_
 
 ##### World
 ### [ The world honours Mozart on his 250th birthday anniversary. ](/news/2006/01/27/the-world-honours-mozart-on-his-250th-birthday-anniversary.md)
-_Context: Mozart, world, anniversary, birthday_
+_Context: world, Mozart, birthday, anniversary_
 
 ##### President of Georgia
 ### [ President Mikhail Saakashvili of Georgia pledges to end his country's energy crisis by importing Iranian natural gas. Starting Monday, Georgia will import 2 million m 3 of gas a day at $120-m 3 , $10 more than for Russian gas. Georgia's supply of Russian gas has been interrupted since Sunday due to pipeline explosions. Saakashvili has accused Moscow of sabotage for political gain. ](/news/2006/01/27/president-mikhail-saakashvili-of-georgia-pledges-to-end-his-country-s-energy-crisis-by-importing-iranian-natural-gas-starting-monday-geor.md)
-_Context:  Georgian, Moscow, Iran, Mikhail Saakashvili, natural gas, pipeline explosions, President of Georgia_
+_Context: pipeline explosions,  Georgian, President of Georgia, Moscow, Mikhail Saakashvili, natural gas, Iran_
 
 ## [Previous Day...](/news/2006/01/26/index.md)
 

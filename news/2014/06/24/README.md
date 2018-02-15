@@ -21,7 +21,7 @@ _Context: United States Navy SEAL_
 
 ##### Pakistan International Airlines
 ### [At least 1 killed and 2 injured as unidentified gunmen open fire on a Pakistan International Airlines aircraft at Bacha Khan International Airport in Peshawar, Pakistan. ](/news/2014/06/24/at-least-1-killed-and-2-injured-as-unidentified-gunmen-open-fire-on-a-pakistan-international-airlines-aircraft-at-bacha-khan-international-a.md)
-_Context: Peshawar, Bacha Khan International Airport, Pakistan International Airlines_
+_Context: Pakistan International Airlines, Bacha Khan International Airport, Peshawar_
 
 ##### Emir of Qatar
 ### [The Emir of Qatar, Sheikh Tamim bin Hamad Al Thani, agrees to spend 2.2 billion Euros to convert Barcelona's "La Monumental" bullring into a 40,000-capacity mosque, the biggest in Europe. ](/news/2014/06/24/the-emir-of-qatar-sheikh-tamim-bin-hamad-al-thani-agrees-to-spend-2-2-billion-euros-to-convert-barcelona-s-la-monumental-bullring-into-a.md)
@@ -33,7 +33,7 @@ Mr. Wallach was one of his generation’s most prominent and prolific character 
 
 ##### Like a Rolling Stone
 ### [Lyrics of "Like a Rolling Stone" handwritten by Bob Dylan sell at auction for a record US$2 million. ](/news/2014/06/24/lyrics-of-like-a-rolling-stone-handwritten-by-bob-dylan-sell-at-auction-for-a-record-us-2-million.md)
-_Context: Bob Dylan, Like a Rolling Stone_
+_Context: Like a Rolling Stone, Bob Dylan_
 
 ##### Air traffic controller
 ### [Strikes by French air traffic controllers lead to the cancellation of dozens of flights in Europe. ](/news/2014/06/24/strikes-by-french-air-traffic-controllers-lead-to-the-cancellation-of-dozens-of-flights-in-europe.md)
@@ -61,7 +61,7 @@ _Context: Prime Minister_
 
 ##### Coalition government
 ### [A new coalition government takes office in Finland, the first led by a Swedish-speaking Finn since 1959. ](/news/2014/06/24/a-new-coalition-government-takes-office-in-finland-the-first-led-by-a-swedish-speaking-finn-since-1959.md)
-_Context: Swedish-speaking Finn, coalition government_
+_Context: coalition government, Swedish-speaking Finn_
 
 ## [Previous Day...](/news/2014/06/23/index.md)
 

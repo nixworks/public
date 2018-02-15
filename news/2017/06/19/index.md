@@ -5,11 +5,11 @@ Formats: [HTML](2017/06/19/index.html)  [JSON](2017/06/19/index.json)  [XML](201
 
 ##### 2017 Finsbury Park attack
 ### [At least one person has been killed and ten injured after a van runs over pedestrians outside the Finsbury Park Mosque in the north London suburb of Finsbury Park. Police are investigating the act as a terrorist incident. ](/news/2017/06/19/at-least-one-person-has-been-killed-and-ten-injured-after-a-van-runs-over-pedestrians-outside-the-finsbury-park-mosque-in-the-north-london-s.md)
-_Context: north London, Finsbury Park Mosque, 2017 Finsbury Park attack, Finsbury Park_
+_Context: north London, 2017 Finsbury Park attack, Finsbury Park, Finsbury Park Mosque_
 
 ##### June 2017 Champs-Elysees car ramming attack
 ### [A car carrying firearms and gas bottles deliberately rammed a police vehicle on the Champs-Elysees in Paris, France, subsequently bursting into flames. The driver, who was on a security watchlist, was shot dead. ](/news/2017/06/19/a-car-carrying-firearms-and-gas-bottles-deliberately-rammed-a-police-vehicle-on-the-champs-alysa-c-es-in-paris-france-subsequently-bursting.md)
-_Context: France, June 2017 Champs-Elysees car ramming attack, Paris, Champs-Elysees_
+_Context: June 2017 Champs-Elysees car ramming attack, Champs-Elysees, Paris, France_
 
 ##### Syrian Civil War
 ### [After yesterday's downing of a Syrian Su-22 jet, Russia shuts down a deconfliction channel and says it will follow any aircraft west of the Euphrates as a target. ](/news/2017/06/19/after-yesterday-s-downing-of-a-syrian-su-22-jet-russia-shuts-down-a-deconfliction-channel-and-says-it-will-follow-any-aircraft-west-of-the.md)
@@ -29,7 +29,7 @@ UK and EU representatives say opening day of discussions will mainly deal with t
 
 ##### Kidnappings
 ### [Indonesia, Malaysia and the Philippines begin joint patrols in the pirate havens within the Celebes and Sulu Seas. ](/news/2017/06/19/indonesia-malaysia-and-the-philippines-begin-joint-patrols-in-the-pirate-havens-within-the-celebes-and-sulu-seas.md)
-_Context: Sulu Sea, Malaysia, kidnappings, Philippines, pirate, Celebes, Indonesia_
+_Context: kidnappings, Celebes, Philippines, Indonesia, pirate, Malaysia, Sulu Sea_
 
 ##### North Korea-United States relations
 ### [American student Otto Warmbier, who returned to the United States after serving 17 months in the North Korean prison system dies after returning from North Korea last week in a comatose state. His family has accused the Government of North Korea of torturing him. ](/news/2017/06/19/american-student-otto-warmbier-who-returned-to-the-united-states-after-serving-17-months-in-the-north-korean-prison-system-dies-after-retur.md)

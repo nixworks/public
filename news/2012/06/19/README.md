@@ -17,7 +17,7 @@ Spanish miners on strike fire homemade rockets at police as austerity protests e
 
 ##### Mahmoud Sarsak
 ### [Palestinian footballer Mahmoud Sarsak, on hunger strike over his detention without charge for three years in an Israeli jail, agrees to resume eating if released from captivity. ](/news/2012/06/19/palestinian-footballer-mahmoud-sarsak-on-hunger-strike-over-his-detention-without-charge-for-three-years-in-an-israeli-jail-agrees-to-resu.md)
-_Context: Mahmoud Sarsak, Israel_
+_Context: Israel, Mahmoud Sarsak_
 
 ##### Turkish Army
 ### [At least seven people and 15 members of the Turkish Army are killed in a Kurdistan Workers' Party ambush in the Yuksekova district near the border with Iraq and Iran. ](/news/2012/06/19/at-least-seven-people-and-15-members-of-the-turkish-army-are-killed-in-a-kurdistan-workers-party-ambush-in-the-ya1-4ksekova-district-near-the.md)
@@ -37,7 +37,7 @@ Julian Assange takes refuge in embassy in London to avoid extradition to Sweden 
 
 ##### 2012 G-20 Mexico summit
 ### [2012 G-20 Mexico summit: UK prime minister David Cameron confronts Argentine president Cristina Fernandez de Kirchner over a letter she sent to him regarding the Falkland Islands. ](/news/2012/06/19/2012-g-20-mexico-summit-uk-prime-minister-david-cameron-confronts-argentine-president-cristina-ferna-ndez-de-kirchner-over-a-letter-she-sen.md)
-_Context: 2012 G-20 Mexico summit, Falkland Islands, David Cameron, Cristina Fernandez de Kirchner_
+_Context: 2012 G-20 Mexico summit, David Cameron, Falkland Islands, Cristina Fernandez de Kirchner_
 
 ##### Supreme Court
 ### [The Supreme Court of Pakistan disqualifies prime minister Yousaf Raza Gillani from holding office after Gillani was found guilty in a contempt-of-court case on April 26. ](/news/2012/06/19/the-supreme-court-of-pakistan-disqualifies-prime-minister-yousaf-raza-gillani-from-holding-office-after-gillani-was-found-guilty-in-a-contem.md)
@@ -45,7 +45,7 @@ Supreme court rules that current prime minister cannot hold office two months af
 
 ##### Najran Province
 ### [A Saudi man is beheaded on charges of sorcery and witchcraft in Najran Province of Saudi Arabia. ](/news/2012/06/19/a-saudi-man-is-beheaded-on-charges-of-sorcery-and-witchcraft-in-najran-province-of-saudi-arabia.md)
-_Context: Najran Province, Saudi Arabia_
+_Context: Saudi Arabia, Najran Province_
 
 ##### Antonis Samaras
 ### [Antonis Samaras, leader of the New Democracy party in Greece, continues to negotiate with political rivals to form a coalition government, as Greece struggles to overcome its economic crisis. ](/news/2012/06/19/antonis-samaras-leader-of-the-new-democracy-party-in-greece-continues-to-negotiate-with-political-rivals-to-form-a-coalition-government-a.md)

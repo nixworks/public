@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/14/eurozone-gdp-rises-by-2-5-in-2017-a-pace-not-se
 ### [2018-02-14](/news/2018/02/14/index.md)
 
 ##### Economy of the European Union
-# Eurozone GDP rises by 2.5% in 2017, a pace not seen since 2007 and industrial production is up 5.2% year-on-year. The production of durable consumer goods is up 7.4% and capital goods, indicating investments, are up 7.6%. 
+# Eurozone GDP rises by 2.5% in 2017, a pace not seen since 2007, and industrial production is up 5.2% year-on-year. The production of durable consumer goods is up 7.4% and capital goods, indicating investments, are up 7.6%. 
 
 BRUSSELS: Eurozone industrial production jumped more than expected in December, data from the EU statistics office Eurostat showed on Wednesday, underlining the fastest economic growth rate in a decade that economists expect to continue in 2018. Eurostat said industrial production in the 19 countries sharing the euro rose 0.4 percent month-on-month for a 5.2 percent year-on-year gain. Economists polled by Reuters had expected a 0.2 percent monthly and 4.2 percent annual rise.
 
@@ -17,7 +17,7 @@ BRUSSELS: Eurozone industrial production jumped more than expected in December, 
 ### Changes:
 
 1. [Eurozone GDP rose by 2.5% in 2017, a pace not seen since 2007 and industrial production is up 5.2% year-on-year. The production of durable consumer goods is up 7.4% and capital goods, indicating investments, are up 7.6%. ](/news/2018/02/14/eurozone-gdp-rose-by-2-5-in-2017-a-pace-not-seen-since-2007-and-industrial-production-is-up-5-2-year-on-year-the-production-of-durable-c.md) _2018-02-14 23:30:16 (First version)_
-1. [Eurozone GDP rises by 2.5% in 2017, a pace not seen since 2007 and industrial production is up 5.2% year-on-year. The production of durable consumer goods is up 7.4% and capital goods, indicating investments, are up 7.6%. ](/news/2018/02/14/eurozone-gdp-rises-by-2-5-in-2017-a-pace-not-seen-since-2007-and-industrial-production-is-up-5-2-year-on-year-the-production-of-durable.md) _(Current version)_
+1. [Eurozone GDP rises by 2.5% in 2017, a pace not seen since 2007, and industrial production is up 5.2% year-on-year. The production of durable consumer goods is up 7.4% and capital goods, indicating investments, are up 7.6%. ](/news/2018/02/14/eurozone-gdp-rises-by-2-5-in-2017-a-pace-not-seen-since-2007-and-industrial-production-is-up-5-2-year-on-year-the-production-of-durable.md) _(Current version)_
 
 ### Related:
 

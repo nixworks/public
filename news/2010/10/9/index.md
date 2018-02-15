@@ -9,7 +9,7 @@ _Context: Afghan forces, Badghis, Nato, Murghab_
 
 ##### Naxal
 ### [7 naxals are gunned down by the police in an encounter in Mahasamund district of Chhattisgarh. ](/news/2010/10/9/7-naxals-are-gunned-down-by-the-police-in-an-encounter-in-mahasamund-district-of-chhattisgarh.md)
-_Context: Chhattisgarh, naxal, Mahasamund_
+_Context: Chhattisgarh, Mahasamund, naxal_
 
 ##### Farah Province
 ### [Four Italian soldiers die following an attack in the Farah area, Afghanistan. ](/news/2010/10/9/four-italian-soldiers-die-following-an-attack-in-the-farah-area-afghanistan.md)
@@ -29,7 +29,7 @@ Armed men in southwestern border area set fire to nearly 30 tankers carrying fue
 
 ##### Government of Ecuador
 ### [The Government of Ecuador extends a state of emergency initially imposed on September 30 in the 2010 Ecuador crisis. ](/news/2010/10/9/the-government-of-ecuador-extends-a-state-of-emergency-initially-imposed-on-september-30-in-the-2010-ecuador-crisis.md)
-_Context: Government of Ecuador, state of emergency, protested against being stripped of their bonuses_
+_Context: protested against being stripped of their bonuses, Government of Ecuador, state of emergency_
 
 ##### Minister of Maori Affairs
 ### [Minister of Maori Affairs Pita Sharples adds his name to calls for suspended TVNZ broadcaster Paul Henry to be sacked after he manages to upset most of India. ](/news/2010/10/9/minister-of-maori-affairs-pita-sharples-adds-his-name-to-calls-for-suspended-tvnz-broadcaster-paul-henry-to-be-sacked-after-he-manages-to-u.md)
@@ -41,7 +41,7 @@ Warner Bros Studios says it is cancelling the 3D conversion of the next Harry Po
 
 ##### Silicon Valley Bank
 ### [Silicon Valley Bank (SVB) has signed a series of cooperative framework agreements with the Shanghai Financial Office. ](/news/2010/10/9/silicon-valley-bank-svb-has-signed-a-series-of-cooperative-framework-agreements-with-the-shanghai-financial-office.md)
-_Context: Silicon Valley Bank, Shanghai, Financial Office_
+_Context: Shanghai, Financial Office, Silicon Valley Bank_
 
 ##### Hungary
 ### [The Hungarian town of Kolontar is evacuated as the emergency worsens. ](/news/2010/10/9/the-hungarian-town-of-kolonta-r-is-evacuated-as-the-emergency-worsens.md)
@@ -55,13 +55,13 @@ Rescuers drill right through to the underground chamber where 33 miners are trap
 ### [More than 200 passengers are rescued, 20 of whom sustain injuries, from Baltic Sea ferry "Lisco Gloria", en route from Kiel to Klaipeda, after it ignites near Fehmarn off the eastern coast of Schleswig-Holstein. There are reports of an explosion on board. ](/news/2010/10/9/more-than-200-passengers-are-rescued-20-of-whom-sustain-injuries-from-baltic-sea-ferry-lisco-gloria-en-route-from-kiel-to-klaipada-af.md)
 More than 200 passengers and crew are rescued after a Baltic Sea ferry catches fire near the German island of Fehmarn.
 
-##### U.S.
+##### United States
 ### [The United States leads a group of non-EU developed countries in attempts to thoroughly revamp the Kyoto Protocol, blocking any possible progress in the climate negotiations currently under way in Tianjin, according to negotiator Sui Wei. ](/news/2010/10/9/the-united-states-leads-a-group-of-non-eu-developed-countries-in-attempts-to-thoroughly-revamp-the-kyoto-protocol-blocking-any-possible-pro.md)
-_Context: Kyoto Protocol, European Union, U.S., Tianjin, Sui Wei_
+_Context: Sui Wei, European Union, Tianjin, Kyoto Protocol, United States_
 
 ##### Ecuador
 ### [An Ecuadorean court orders the imprisonment of 12 police after last week's 2010 Ecuador crisis, with a lawyer saying they are being swept up in a "witch hunt". ](/news/2010/10/9/an-ecuadorean-court-orders-the-imprisonment-of-12-police-after-last-week-s-2010-ecuador-crisis-with-a-lawyer-saying-they-are-being-swept-up.md)
-_Context: protested against being stripped of their bonuses, Ecuador_
+_Context: Ecuador, protested against being stripped of their bonuses_
 
 ##### Oceanic Bank
 ### [Former Oceanic Bank chief Cecilia Ibru is sentenced to six months in prison after being found guilty of committing 3 of 25 charges of fraud and mismanagement. ](/news/2010/10/9/former-oceanic-bank-chief-cecilia-ibru-is-sentenced-to-six-months-in-prison-after-being-found-guilty-of-committing-3-of-25-charges-of-fraud.md)

@@ -17,9 +17,9 @@ _Context: Musa Qala, Taliban_
 
 ##### MNLA
 ### [The MNLA and al Qaeda-linked Islamists clash in a gunbattle in Gao, Mali, that kills at least 20, witnesses say. ](/news/2012/06/27/the-mnla-and-al-qaeda-linked-islamists-clash-in-a-gunbattle-in-gao-mali-that-kills-at-least-20-witnesses-say.md)
-_Context: Gao, MNLA, al Qaeda_
+_Context: al Qaeda, MNLA, Gao_
 
-##### U.S.
+##### United States
 ### [A United States drone attack kills five in Pakistan. ](/news/2012/06/27/a-united-states-drone-attack-kills-five-in-pakistan.md)
 Missiles target compound in South Waziristan allegedly being used by warlord Hafiz Gul Bahadur.
 
@@ -33,7 +33,7 @@ Barclays Bank pays £290m in penalties and boss Bob Diamond gives up his bonus a
 
 ##### Bank of China
 ### [Bank of China becomes the first Chinese bank to open a branch in Taiwan. ](/news/2012/06/27/bank-of-china-becomes-the-first-chinese-bank-to-open-a-branch-in-taiwan.md)
-_Context: China, Bank of China, Taiwan_
+_Context: China, Taiwan, Bank of China_
 
 ##### Landslide
 ### [At least 50 people are killed in rain-triggered landslides in the Bangladesh districts of Cox's Bazaar and Chittagong. ](/news/2012/06/27/at-least-50-people-are-killed-in-rain-triggered-landslides-in-the-bangladesh-districts-of-cox-s-bazaar-and-chittagong.md)
@@ -49,7 +49,7 @@ _Context: Orange Lake Resort, Orange County, Florida_
 
 ##### Somalia
 ### [The Somali president urges everyone to donate funds to Somalia to help combat pirates. ](/news/2012/06/27/the-somali-president-urges-everyone-to-donate-funds-to-somalia-to-help-combat-pirates.md)
-_Context: Somalia, Somali pirates_
+_Context: Somali pirates, Somalia_
 
 ##### Pennsylvania
 ### [Former Pennsylvania State Representative Stephen Stetler is convicted of all six counts in his corruption case. ](/news/2012/06/27/former-pennsylvania-state-representative-stephen-stetler-is-convicted-of-all-six-counts-in-his-corruption-case.md)

@@ -33,7 +33,7 @@ _Context: Mohammed Fahim, Vice President of Afghanistan_
 
 ##### Colombian parliamentary election, 2014
 ### [President Juan Manuel Santos' coalition wins a reduced majority, while former President Alvaro Uribe is elected to the Senate. ](/news/2014/03/9/president-juan-manuel-santos-coalition-wins-a-reduced-majority-while-former-president-alvaro-uribe-is-elected-to-the-senate.md)
-_Context: Juan Manuel Santos, Alvaro Uribe, Colombian parliamentary election, 2014_
+_Context: Juan Manuel Santos, Colombian parliamentary election, 2014, Alvaro Uribe_
 
 ## [Previous Day...](/news/2014/03/8/index.md)
 

@@ -5,15 +5,15 @@ Formats: [HTML](2005/08/28/index.html)  [JSON](2005/08/28/index.json)  [XML](200
 
 ##### Iraq
 ### [ Iraq's National Assembly signs the text of the proposed Iraqi constitution. A referendum will be held on 15 October, with leaders of the Sunni community already calling for a "no" vote. ](/news/2005/08/28/iraq-s-national-assembly-signs-the-text-of-the-proposed-iraqi-constitution-a-referendum-will-be-held-on-15-october-with-leaders-of-the-su.md)
-_Context: proposed Iraqi constitution, Iraq, National Assembly of Iraq, 15 October, Sunni Muslim_
+_Context: National Assembly of Iraq, 15 October, proposed Iraqi constitution, Iraq, Sunni Muslim_
 
 ##### Hawaii
 ### [ Hawaii, represented by Ewa Beach, Hawaii, defeats Willemstad, Curaao 7-6 in the Little League World Series ](/news/2005/08/28/hawaii-represented-by-ewa-beach-hawaii-defeats-willemstad-curacao-7-6-in-the-little-league-world-series.md)
-_Context: Little League World Series, Hawaii, Curaao, Willemstad, Ewa Beach, Hawaii_
+_Context: Ewa Beach, Hawaii, Hawaii, Little League World Series, Willemstad, Curaao_
 
 ##### Omri Sharon
 ### [ Omri Sharon, son of the Prime Minister of Israel, Ariel Sharon, has been formally indicted on charges of corruption following allegations concerning Ariel Sharon's bid to become leader of the Likud party in 1999. ](/news/2005/08/28/omri-sharon-son-of-the-prime-minister-of-israel-ariel-sharon-has-been-formally-indicted-on-charges-of-corruption-following-allegations-c.md)
-_Context: indicted, Ariel Sharon, Likud, Israeli Prime Minister, 1999, corruption, Omri Sharon_
+_Context: 1999, corruption, Israeli Prime Minister, Omri Sharon, Likud, indicted, Ariel Sharon_
 
 ##### 2005 European floods
 ### [ People begin to return to their homes as road and rail routes reopen after the 2005 European floods. ](/news/2005/08/28/people-begin-to-return-to-their-homes-as-road-and-rail-routes-reopen-after-the-2005-european-floods.md)
@@ -21,7 +21,7 @@ _Context: 2005 European floods_
 
 ##### Saffir-Simpson Hurricane Scale
 ### [ Hurricane Katrina continues to rapidly strengthen reaching Category Five status. It has the second lowest pressure for an American hurricane in recorded history, with only the Labor Day Hurricane of 1935 having a lower measurement. Katrina is at 908 mb. and dropping; the Labor Day event of 1935 had 892 mb. ](/news/2005/08/28/hurricane-katrina-continues-to-rapidly-strengthen-reaching-category-five-status-it-has-the-second-lowest-pressure-for-an-american-hurrican.md)
-_Context: Labor Day Hurricane of 1935, Saffir-Simpson Hurricane Scale, mb_
+_Context: Saffir-Simpson Hurricane Scale, Labor Day Hurricane of 1935, mb_
 
 ##### Israeli-Palestinian Conflict
 ### [ Israeli-Palestinian Conflict: A Palestinian Islamic Jihad suicide bomber kills himself and injures close to 50 people in the southern Israeli city of Beersheba near the main bus terminal. According to sources, the bomber was trying to make his way to Beersheba's Soroka Hospital. ](/news/2005/08/28/israeli-palestinian-conflict-a-palestinian-islamic-jihad-suicide-bomber-kills-himself-and-injures-close-to-50-people-in-the-southern-israe.md)

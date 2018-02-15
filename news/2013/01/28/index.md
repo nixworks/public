@@ -23,7 +23,7 @@ Warren Buffett made a bid to acquire New York Stock Exchange operator NYSE Euron
 ### [A freight train collides with a bus at a level crossing in Heihe City, Heilongjiang province, China, killing at least 10 people and injuring 11 others. ](/news/2013/01/28/a-freight-train-collides-with-a-bus-at-a-level-crossing-in-heihe-city-heilongjiang-province-china-killing-at-least-10-people-and-injuring.md)
 At least ten people were killed and eleven others injured today after a passenger bus and a cargo train collided in northeast China Province.
 
-##### U.S.
+##### United States
 ### [American fighter aircraft F-16 flying out of Aviano Air Base loses radio contact and crashes in the Adriatic Sea. ](/news/2013/01/28/american-fighter-aircraft-f-16-flying-out-of-aviano-air-base-loses-radio-contact-and-crashes-in-the-adriatic-sea.md)
 A U.S. F-16 fighter jet was feared to have crashed on Monday during a training exercise over the Adriatic Sea, and the U.S. Air Force said the status of its Italy-based pilot was unknown.
 

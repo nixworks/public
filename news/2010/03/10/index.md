@@ -9,7 +9,7 @@ _Context: events earlier this year, Nigeria, Jos_
 
 ##### U.S.
 ### [Britain, France and the EU support U.S. Vice President Joe Biden's condemnation of Israeli expansion of settlements in occupied territory. ](/news/2010/03/10/britain-france-and-the-eu-support-u-s-vice-president-joe-biden-s-condemnation-of-israeli-expansion-of-settlements-in-occupied-territory.md)
-_Context: Joe Biden, U.S. Vice President, U.S._
+_Context: U.S., Joe Biden, U.S. Vice President_
 
 ##### Burma
 ### [Burma's newly announced second law relating to the 2010 general election bars anyone with a criminal conviction from participating in a political party, effectively barring Aung San Suu Kyi. ](/news/2010/03/10/burma-s-newly-announced-second-law-relating-to-the-2010-general-election-bars-anyone-with-a-criminal-conviction-from-participating-in-a-poli.md)
@@ -25,11 +25,11 @@ _Context: Australia, Indonesia, people smuggling_
 
 ##### Dulmatin
 ### [Dulmatin, the alleged mastermind of the 2002 Bali bombings, is confirmed dead in a police raid in Pamulang, Jakarta, by Indonesian President Susilo Bambang Yudhoyono during a state visit in Australia. ](/news/2010/03/10/dulmatin-the-alleged-mastermind-of-the-2002-bali-bombings-is-confirmed-dead-in-a-police-raid-in-pamulang-jakarta-by-indonesian-president.md)
-_Context: Australia, Jakarta, Susilo Bambang Yudhoyono, Pamulang, Dulmatin, 2002 Bali bombings_
+_Context: 2002 Bali bombings, Pamulang, Susilo Bambang Yudhoyono, Australia, Dulmatin, Jakarta_
 
 ##### Mauritanian
 ### [Aid worker Alicia Gamez, captured in Mauritania in 2009 by a group affiliated with Al Qaeda and taken to Mali, is released. ](/news/2010/03/10/aid-worker-alicia-gamez-captured-in-mauritania-in-2009-by-a-group-affiliated-with-al-qaeda-and-taken-to-mali-is-released.md)
-_Context: Mauritanian, Al Qaeda, Mali_
+_Context: Mali, Mauritanian, Al Qaeda_
 
 ##### Boris Berezovsky
 ### [Boris Berezovsky is awarded GBP150,000 in England's High Court and wins his libel case in relation to the 2006 poisoning to death of Alexander Litvinenko. ](/news/2010/03/10/boris-berezovsky-is-awarded-gbp150-000-in-england-s-high-court-and-wins-his-libel-case-in-relation-to-the-2006-poisoning-to-death-of-alexand.md)

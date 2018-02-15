@@ -9,7 +9,7 @@ One of the biggest earthquakes in recorded history rocked Chile on Saturday, kil
 
 ##### Indian Prime Minister
 ### [Prime Minister of India Manmohan Singh arrives in Saudi Arabia on the first PM visit there since Indira Gandhi's in 1982. ](/news/2010/02/27/prime-minister-of-india-manmohan-singh-arrives-in-saudi-arabia-on-the-first-pm-visit-there-since-indira-gandhi-s-in-1982.md)
-_Context: Indira Gandhi, Indian Prime Minister, Saudi Arabia, Manmohan Singh_
+_Context: Indian Prime Minister, Manmohan Singh, Indira Gandhi, Saudi Arabia_
 
 ##### Egypt
 ### [Egyptian prosecutors begin investigating yesterday's incident where an Italian cruise liner smashed into a dock at Sharm el-Sheikh during severe weather conditions, killing sailors from Brazil, Honduras and India and injuring several passengers. ](/news/2010/02/27/egyptian-prosecutors-begin-investigating-yesterday-s-incident-where-an-italian-cruise-liner-smashed-into-a-dock-at-sharm-el-sheikh-during-se.md)
@@ -17,15 +17,15 @@ An Italian luxury cruise ship crashed into a pier at the Red Sea port of Sharm E
 
 ##### Dera Ghazi Khan
 ### [At least 2 die and 7 injuries are caused in a skirmish between two religious groups in Dera Ghazi Khan in Pakistan. ](/news/2010/02/27/at-least-2-die-and-7-injuries-are-caused-in-a-skirmish-between-two-religious-groups-in-dera-ghazi-khan-in-pakistan.md)
-_Context: Pakistan, Dera Ghazi Khan_
+_Context: Dera Ghazi Khan, Pakistan_
 
 ##### Lantern Festival
 ### [19 are killed and dozens are injured by firecrackers during the Lantern Festival celebrations in Puning, Guangdong. ](/news/2010/02/27/19-are-killed-and-dozens-are-injured-by-firecrackers-during-the-lantern-festival-celebrations-in-puning-guangdong.md)
-_Context: Puning, Lantern Festival, Guangdong_
+_Context: Guangdong, Puning, Lantern Festival_
 
 ##### Yuan
 ### [A drought causes at least 10 billion yuan ($1.46 billion) in direct economic loss at Fanaga village of Luquan county, near Kunming, capital of Yunnan. ](/news/2010/02/27/a-drought-causes-at-least-10-billion-yuan-1-46-billion-in-direct-economic-loss-at-fanaga-village-of-luquan-county-near-kunming-capital.md)
-_Context: Kunming, Luquan, Yunnan, yuan, Fanaga village_
+_Context: Yunnan, Fanaga village, yuan, Luquan, Kunming_
 
 ##### Colombia
 ### [Constitutional judges in Colombia reject a referendum to allow President lvaro Uribe to stand for a third term in office. ](/news/2010/02/27/constitutional-judges-in-colombia-reject-a-referendum-to-allow-president-alvaro-uribe-to-stand-for-a-third-term-in-office.md)

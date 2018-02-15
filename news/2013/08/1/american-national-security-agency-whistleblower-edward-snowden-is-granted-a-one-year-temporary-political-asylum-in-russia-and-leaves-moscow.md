@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/08/1/american-national-security-agency-whistleblower-
 
 ### [2013-08-1](/news/2013/08/1/index.md)
 
-##### NSA
+##### National Security Agency
 # American National Security Agency whistleblower Edward Snowden is granted a one-year temporary political asylum in Russia and leaves Moscow's Sheremetyevo Airport. 
 
 NSA whistleblower Edward Snowden has been granted temporary asylum in Russia and is allowed to enter the country’s territory.

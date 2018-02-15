@@ -9,7 +9,7 @@ MIDEAST-CRISIS/BAGHDAD (UPDATE 1):UPDATE 1-Wave of bombings in Baghdad kills 37 
 
 ##### ISIL
 ### [The Syrian Observatory for Human Rights estimates that ISIL kidnapped at least 150 people from Assyrian Christian villages in Syria in a series of February 23 raids. ](/news/2015/02/24/the-syrian-observatory-for-human-rights-estimates-that-isil-kidnapped-at-least-150-people-from-assyrian-christian-villages-in-syria-in-a-ser.md)
-_Context: Syria, Assyrian, Christian, ISIL, Syrian Observatory for Human Rights_
+_Context: Syrian Observatory for Human Rights, Assyrian, Christian, Syria, ISIL_
 
 ##### Congolese Army
 ### [The Congolese Army launches an offensive against FDLR rebels in South Kivu. ](/news/2015/02/24/the-congolese-army-launches-an-offensive-against-fdlr-rebels-in-south-kivu.md)
@@ -21,7 +21,7 @@ Up to 75 British military personnel will deploy to Ukraine next month to provide
 
 ##### Boko Haram
 ### [Chadian soldiers kill over 200 Boko Haram fighters in a clash near the town of Garambu, close to Nigeria's border with Cameroon. One Chad Army soldier is killed and nine wounded. ](/news/2015/02/24/chadian-soldiers-kill-over-200-boko-haram-fighters-in-a-clash-near-the-town-of-garambu-close-to-nigeria-s-border-with-cameroon-one-chad-ar.md)
-_Context: Nigeria, Chad, Cameroon, Chad Army, Boko Haram_
+_Context: Cameroon, Chad, Nigeria, Boko Haram, Chad Army_
 
 ##### Greece
 ### [Greece submits a list of eleven reforms it will proceed with to secure a loan extension. ](/news/2015/02/24/greece-submits-a-list-of-eleven-reforms-it-will-proceed-with-to-secure-a-loan-extension.md)
@@ -37,23 +37,23 @@ California Metrolink train derails, injuring 28, including the engineer, officia
 
 ##### Rajendra Pachauri
 ### [Dr Rajendra Pachauri resigns as head of the Intergovernmental Panel on Climate Change due to involvement in a sexting scandal. ](/news/2015/02/24/dr-rajendra-pachauri-resigns-as-head-of-the-intergovernmental-panel-on-climate-change-due-to-involvement-in-a-sexting-scandal.md)
-_Context: sexting, Rajendra Pachauri, Intergovernmental Panel on Climate Change_
+_Context: Rajendra Pachauri, Intergovernmental Panel on Climate Change, sexting_
 
 ##### President of Indonesia
 ### [The President of Indonesia Joko Widodo says the execution of 11 convicts from overseas, most on drug charges, will not be delayed. A court has rejected the appeals of Myuran Sukumaran and Andrew Chan, two Australians on death row. ](/news/2015/02/24/the-president-of-indonesia-joko-widodo-says-the-execution-of-11-convicts-from-overseas-most-on-drug-charges-will-not-be-delayed-a-court-h.md)
-_Context: President of Indonesia, Andrew Chan, Myuran Sukumaran, Joko Widodo_
+_Context: Myuran Sukumaran, Andrew Chan, Joko Widodo, President of Indonesia_
 
 ##### Prime Minister of Egypt
 ### [Former Prime Minister of Egypt Ahmed Nazif and former Interior Minister Habib el-Adly are cleared of graft charges in a retrial. ](/news/2015/02/24/former-prime-minister-of-egypt-ahmed-nazif-and-former-interior-minister-habib-el-adly-are-cleared-of-graft-charges-in-a-retrial.md)
-_Context: Ahmed Nazif, Prime Minister of Egypt, Habib el-Adly_
+_Context: Prime Minister of Egypt, Ahmed Nazif, Habib el-Adly_
 
 ##### Czech
 ### [A Czech gunman opens fire at a restaurant in Uhersky Brod, killing at least eight people. ](/news/2015/02/24/a-czech-gunman-opens-fire-at-a-restaurant-in-uherska1-2-brod-killing-at-least-eight-people.md)
-_Context: opens fire, Czech, Uhersky Brod_
+_Context: opens fire, Uhersky Brod, Czech_
 
 ##### British Parliament
 ### [The British Parliament's House of Lords gives final approval to a bill that earlier in February had been approved in the House of Commons, refusing to block the plan by a majority of 232, that would allow, through a modified form of in vitro fertilization (IVF), the creation of three-person babies, to treat certain mitochondrial disorders (mitochondria are parts of cells that convert nutrients into useful cellular energy to fuel vital processes), by using a very small segment of mitochondrial DNA from another woman to replace the mother's defective DNA; the U.K. is the first to authorize the still ethically controversial procedure. ](/news/2015/02/24/the-british-parliament-s-house-of-lords-gives-final-approval-to-a-bill-that-earlier-in-february-had-been-approved-in-the-house-of-commons-r.md)
-_Context: mitochondria, the House of Commons, British Parliament, House of Lords, mitochondrial disorders, in vitro fertilization_
+_Context: the House of Commons, British Parliament, mitochondria, mitochondrial disorders, House of Lords, in vitro fertilization_
 
 ##### United States Navy SEAL
 ### [Eddie Ray Routh is found guilty of the 2013 murder of United States Navy SEALs' sniper Chris Kyle and Kyle's friend Chad Littlefield in Texas. Routh is automatically sentenced to life imprisonment without parole. ](/news/2015/02/24/eddie-ray-routh-is-found-guilty-of-the-2013-murder-of-united-states-navy-seals-sniper-chris-kyle-and-kyle-s-friend-chad-littlefield-in-texa.md)
@@ -65,7 +65,7 @@ Chicago voters on Tuesday will decide whether Mayor Rahm Emanuel collects a majo
 
 ##### Yemeni Crisis (2011-present)
 ### [Abd Rabbuh Mansur Hadi withdraws his resignation as President of Yemen after escaping from the custody of the Houthis. ](/news/2015/02/24/abd-rabbuh-mansur-hadi-withdraws-his-resignation-as-president-of-yemen-after-escaping-from-the-custody-of-the-houthis.md)
-_Context: President, Yemeni Crisis (2011-present), Houthi, Abd Rabbuh Mansur Hadi_
+_Context: Abd Rabbuh Mansur Hadi, Houthi, President, Yemeni Crisis (2011-present)_
 
 ##### Malcolm Rifkind
 ### [Former U.K. Foreign Secretary Malcolm Rifkind steps down as chair of a parliamentary intelligence committee and said he won't run for re-election as a Conservative member of parliament after becoming embroiled in an embarrassing cash-for-access sting. ](/news/2015/02/24/former-u-k-foreign-secretary-malcolm-rifkind-steps-down-as-chair-of-a-parliamentary-intelligence-committee-and-said-he-wonat-run-for-re-e.md)
@@ -73,7 +73,7 @@ Tory MP will resign from Commons at May election after quitting as head of parli
 
 ##### U.S. Secretary of Veterans Affairs
 ### [U.S. Secretary of Veterans Affairs Robert A. McDonald admits that he lied when he claimed that he served in the U.S. Army Special Forces. ](/news/2015/02/24/u-s-secretary-of-veterans-affairs-robert-a-mcdonald-admits-that-he-lied-when-he-claimed-that-he-served-in-the-u-s-army-special-forces.md)
-_Context: Robert A. McDonald, Special Forces, U.S. Secretary of Veterans Affairs_
+_Context: Special Forces, U.S. Secretary of Veterans Affairs, Robert A. McDonald_
 
 ## [Previous Day...](/news/2015/02/23/index.md)
 

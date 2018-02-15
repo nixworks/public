@@ -21,7 +21,7 @@ Tunnel, dug inside building located about 1.5 kilometers from border fence, aime
 
 ##### Mingora
 ### [ A suspected suicide bomber kills 14 police cadets in an attack on a training centre in Mingora, Pakistan. ](/news/2009/08/30/a-suspected-suicide-bomber-kills-14-police-cadets-in-an-attack-on-a-training-centre-in-mingora-pakistan.md)
-_Context: Pakistan, Mingora_
+_Context: Mingora, Pakistan_
 
 ##### Yaounde
 ### [ At least five people are killed and 275 injured in a train crash near Yaounde, Cameroon. ](/news/2009/08/30/at-least-five-people-are-killed-and-275-injured-in-a-train-crash-near-yaounde-cameroon.md)
@@ -29,7 +29,7 @@ _Context: Cameroon, Yaounde_
 
 ##### Internal conflict in Peru
 ### [ The remains of 92 victims of a military massacre in Putis, Peru, are laid to rest 25 years later.](/news/2009/08/30/the-remains-of-92-victims-of-a-military-massacre-in-putis-peru-are-laid-to-rest-25-years-later.md)
-_Context: Peru, Putis, Internal conflict in Peru_
+_Context: Putis, Internal conflict in Peru, Peru_
 
 ##### Ehud Olmert
 ### [ Ehud Olmert is indicted on three counts of corruption, becoming the first ex-Prime Minister of Israel to face criminal charges. ](/news/2009/08/30/ehud-olmert-is-indicted-on-three-counts-of-corruption-becoming-the-first-ex-prime-minister-of-israel-to-face-criminal-charges.md)
@@ -41,11 +41,11 @@ Group says Abdullah al-Asiri crossed over from Yemen to carry out attack on inte
 
 ##### Iran
 ### [ The Iranian Parliament begins debating President Mahmoud Ahmadinejads choice of Cabinet. ](/news/2009/08/30/the-iranian-parliament-begins-debating-president-mahmoud-ahmadinejads-choice-of-cabinet.md)
-_Context: Islamic Consultative Assembly of Iran, Mahmoud Ahmadinejad, President, Iran_
+_Context: President, Iran, Islamic Consultative Assembly of Iran, Mahmoud Ahmadinejad_
 
 ##### Burma
 ### [ Burma says 26 government troops and 8 rebels were killed during violence in the Kokang region of Shan State. ](/news/2009/08/30/burma-says-26-government-troops-and-8-rebels-were-killed-during-violence-in-the-kokang-region-of-shan-state.md)
-_Context: rebels, Burma, Myanmar Armed Forces, Shan State, violence, Kokang_
+_Context: violence, Burma, rebels, Kokang, Myanmar Armed Forces, Shan State_
 
 ##### 14th Dalai Lama
 ### [ The Dalai Lama begins a visit to Taiwan, amid criticism from China. ](/news/2009/08/30/the-dalai-lama-begins-a-visit-to-taiwan-amid-criticism-from-china.md)

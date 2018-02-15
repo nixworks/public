@@ -39,13 +39,13 @@ Three people arrested during protests over disputed presidential poll are senten
 ### [ Unions in Guinea call for a two day strike in protest at the deaths of opposition supporters at a rally last month. ](/news/2009/10/10/unions-in-guinea-call-for-a-two-day-strike-in-protest-at-the-deaths-of-opposition-supporters-at-a-rally-last-month.md)
 _Context: massacre of opposition protesters, Guinea_
 
-##### U.S.
+##### United States
 ### [ United States President Barack Obama announces he will end the "Don't ask, don't tell" policy against homosexuals serving in the U.S. military. ](/news/2009/10/10/united-states-president-barack-obama-announces-he-will-end-the-don-t-ask-don-t-tell-policy-against-homosexuals-serving-in-the-u-s-milit.md)
-_Context: U.S., Barack Obama, gay, Don't ask, don't tell, United States armed forces, U.S. President_
+_Context: U.S. President, United States armed forces, Barack Obama, United States, gay, Don't ask, don't tell_
 
 ##### Islam
 ### [ More than 40 people are arrested after clashes between anti-Islamic and anti-racist demonstrations in Manchester, England. ](/news/2009/10/10/more-than-40-people-are-arrested-after-clashes-between-anti-islamic-and-anti-racist-demonstrations-in-manchester-england.md)
-_Context: Islam, racial bias, England, Manchester_
+_Context: Manchester, Islam, England, racial bias_
 
 ##### Argentina
 ### [ The Argentine Senate passes a controversial media bill regarding the ownership of media outlets in the country. ](/news/2009/10/10/the-argentine-senate-passes-a-controversial-media-bill-regarding-the-ownership-of-media-outlets-in-the-country.md)
@@ -53,7 +53,7 @@ More than 200 modifications
 
 ##### St Petersburg
 ### [ Thousands of protesters gather in St Petersburg, Russia, against a plan to build a 77 storey building for Gazprom. ](/news/2009/10/10/thousands-of-protesters-gather-in-st-petersburg-russia-against-a-plan-to-build-a-77-storey-building-for-gazprom.md)
-_Context: Russia, St Petersburg, Gazprom_
+_Context: Gazprom, Russia, St Petersburg_
 
 ## [Previous Day...](/news/2009/10/9/index.md)
 

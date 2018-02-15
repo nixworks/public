@@ -9,31 +9,31 @@ _Context: Israeli Labor Party, Amir Peretz, Shimon Peres_
 
 ##### Indonesia
 ### [ A gun battle between the Indonesian police and militants in East Java kills seven militants, including suspected Bali bombings mastermind Azahari Husin who is believed to have blown himself up. ](/news/2005/11/9/a-gun-battle-between-the-indonesian-police-and-militants-in-east-java-kills-seven-militants-including-suspected-bali-bombings-mastermind-a.md)
-_Context: Azahari Husin, Bali bombings, East Java, Indonesia_
+_Context: Indonesia, Bali bombings, East Java, Azahari Husin_
 
 ##### Archaeologists
 ### [ Archaeologists report that two lines of a Phoenician or Hebrew alphabet on a stone dating to the 10th century BCE were discovered in July in Tel Zayit tell in Israel. The discovery suggests that literacy existed in ancient Israel earlier than had been thought.](/news/2005/11/9/archaeologists-report-that-two-lines-of-a-phoenician-or-hebrew-alphabet-on-a-stone-dating-to-the-10th-century-bce-were-discovered-in-july-i.md)
-_Context: tell, ancient Israel, Phoenician, Archaeologists, Tel Zayit, Israel, Hebrew, literacy_
+_Context: Phoenician, Tel Zayit, Israel, literacy, Hebrew, ancient Israel, Archaeologists, tell_
 
-##### U.S.
+##### United States
 ### [ In the United States, the visit of Iraqi Deputy Premier Ahmed Chalabi to the Department of State and Department of the Treasury arouses controversy. ](/news/2005/11/9/in-the-united-states-the-visit-of-iraqi-deputy-premier-ahmed-chalabi-to-the-department-of-state-and-department-of-the-treasury-arouses-con.md)
-_Context: U.S., Ahmed Chalabi_
+_Context: Ahmed Chalabi, United States_
 
 ##### British government
 ### [ The British government loses a key House of Commons vote on detaining terrorism suspects for 90-days without charge, in the report stage of the Terrorism Act 2006. This is Tony Blair's first ever commons defeat and has been described a serious blow to his authority. Opposition Leader Michael Howard calls on Blair to resign. ](/news/2005/11/9/the-british-government-loses-a-key-house-of-commons-vote-on-detaining-terrorism-suspects-for-90-days-without-charge-in-the-report-stage-of.md)
-_Context: British government, the House of Commons, terrorism, Tony Blair, Leader, Michael Howard, Terrorism Act_
+_Context: British government, Terrorism Act, Tony Blair, Leader, terrorism, Michael Howard, the House of Commons_
 
 ##### Venus Express
 ### [ Venus Express, the first mission to Venus in over a decade, lifts off from the Baikonur Cosmodrome in Kazakhstan. ](/news/2005/11/9/venus-express-the-first-mission-to-venus-in-over-a-decade-lifts-off-from-the-baikonur-cosmodrome-in-kazakhstan.md)
-_Context: Baikonur Cosmodrome, Venus Express, Kazakhstan, Venus_
+_Context: Venus Express, Venus, Kazakhstan, Baikonur Cosmodrome_
 
 ##### 2005 United States elections
 ### [ California special election: voters reject all eight statewide ballot propositions, including four backed by Governor Arnold Schwarzenegger. De Baca County, New Mexico sheriff Gary Graves is recalled from office following accusations of misappropriation of funds, mistreating prisoners, and sexual harassment. ](/news/2005/11/9/california-special-election-voters-reject-all-eight-statewide-ballot-propositions-including-four-backed-by-governor-arnold-schwarzenegger.md)
-_Context: De Baca County, New Mexico, California special election, recall referendum, Governor of California, sexual harassment, misappropriation, ballot propositions, sheriff, Arnold Schwarzenegger, 2005 United States elections_
+_Context: Arnold Schwarzenegger, sheriff, sexual harassment, 2005 United States elections, misappropriation, California special election, ballot propositions, recall referendum, Governor of California, De Baca County, New Mexico_
 
 ##### Judith Miller
 ### [ Judith Miller, controversial reporter for The New York Times, announces her retirement. ](/news/2005/11/9/judith-miller-controversial-reporter-for-the-new-york-times-announces-her-retirement.md)
-_Context: The New York Times, Judith Miller_
+_Context: Judith Miller, The New York Times_
 
 ## [Previous Day...](/news/2005/11/8/index.md)
 

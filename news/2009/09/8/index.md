@@ -9,19 +9,19 @@ Schoolchildren and their parents on their way to start the new school year were 
 
 ##### Milwaukee
 ### [ Police in Milwaukee, USA, arrest a man in suspicion of being the notorious North Side Strangler, believed to have killed at least seven women between 1986 and 2007. ](/news/2009/09/8/police-in-milwaukee-usa-arrest-a-man-in-suspicion-of-being-the-notorious-north-side-strangler-believed-to-have-killed-at-least-seven-wom.md)
-_Context: North Side Strangler, USA, Milwaukee_
+_Context: USA, North Side Strangler, Milwaukee_
 
 ##### Statue
 ### [ A colossal statue of Apollo is discovered at a UNESCO World Heritage Site at Hierapolis, Turkey. ](/news/2009/09/8/a-colossal-statue-of-apollo-is-discovered-at-a-unesco-world-heritage-site-at-hierapolis-turkey.md)
-_Context: UNESCO, statue, Apollo, Turkey, Hierapolis, world heritage site_
+_Context: Hierapolis, Apollo, UNESCO, world heritage site, Turkey, statue_
 
 ##### Norway
 ### [ Two Norwegians, Joshua French and Tjostolv Moland, on trial for alleged murder and espionage, are found guilty on both counts and sentenced to death by a Congolese military tribunal. ](/news/2009/09/8/two-norwegians-joshua-french-and-tjostolv-moland-on-trial-for-alleged-murder-and-espionage-are-found-guilty-on-both-counts-and-sentenced.md)
-_Context: Democratic Republic of Congo, Joshua French and Tjostolv Moland, murder, Norway, espionage_
+_Context: Joshua French and Tjostolv Moland, Democratic Republic of Congo, murder, Norway, espionage_
 
 ##### Wireless mobile carriers
 ### [ Mobile network operators T-Mobile and Orange agree to merge their British businesses. ](/news/2009/09/8/mobile-network-operators-t-mobile-and-orange-agree-to-merge-their-british-businesses.md)
-_Context: Orange, United Kingdom, wireless mobile carriers, T-Mobile_
+_Context: United Kingdom, wireless mobile carriers, T-Mobile, Orange_
 
 ##### Magnitude
 ### [ A magnitude 6.2 earthquake strikes northern Georgia. ](/news/2009/09/8/a-magnitude-6-2-earthquake-strikes-northern-georgia.md)
@@ -41,7 +41,7 @@ Journalist union pays $200 fine to release woman jailed for indecency.
 
 ##### Argentina
 ### [ A storm, with rain, hail and winds of over 60 mph kills at least 14 people in northern Argentina and southern Brazil. ](/news/2009/09/8/a-storm-with-rain-hail-and-winds-of-over-60-mph-kills-at-least-14-people-in-northern-argentina-and-southern-brazil.md)
-_Context: Brazil, Argentina_
+_Context: Argentina, Brazil_
 
 ## [Previous Day...](/news/2009/09/7/index.md)
 

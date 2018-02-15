@@ -21,11 +21,11 @@ _Context: 2011 Bahraini uprising_
 
 ##### Somalia
 ### [Fighting erupts in the Somali capital Mogadishu a day after al Shabaab rebels had reportedly left the city. ](/news/2011/08/7/fighting-erupts-in-the-somali-capital-mogadishu-a-day-after-al-shabaab-rebels-had-reportedly-left-the-city.md)
-_Context: Mogadishu, Somalia, Al-Shabaab_
+_Context: Mogadishu, Al-Shabaab, Somalia_
 
 ##### Australian
 ### [Australian French Resistance leader Nancy Wake dies in London at the age of 98. ](/news/2011/08/7/australian-french-resistance-leader-nancy-wake-dies-in-london-at-the-age-of-98.md)
-_Context: Nancy Wake, Australian, French Resistance, London_
+_Context: London, French Resistance, Australian, Nancy Wake_
 
 ##### Malaysia
 ### [One person is killed and six are missing after a landslide in eastern Malaysia. ](/news/2011/08/7/one-person-is-killed-and-six-are-missing-after-a-landslide-in-eastern-malaysia.md)

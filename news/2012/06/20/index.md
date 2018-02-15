@@ -17,7 +17,7 @@ The Turkish military said it has carried out strikes on Kurdish rebel targets in
 
 ##### Syrian Observatory for Human Rights
 ### [The Syrian Observatory for Human Rights claims that at least 20 Syrian Army soldiers and five rebels are killed in heavy fighting near Latakia district. ](/news/2012/06/20/the-syrian-observatory-for-human-rights-claims-that-at-least-20-syrian-army-soldiers-and-five-rebels-are-killed-in-heavy-fighting-near-latak.md)
-_Context: Syrian Observatory for Human Rights, Latakia district, Syrian Army_
+_Context: Latakia district, Syrian Observatory for Human Rights, Syrian Army_
 
 ##### Libya
 ### [Tribal clashes in western Libya lead to 105 people dead and some 500 injured. ](/news/2012/06/20/tribal-clashes-in-western-libya-lead-to-105-people-dead-and-some-500-injured.md)
@@ -31,13 +31,13 @@ News unveils a $2b takeover bid for James Packer-controlled Consolidated Media e
 ### [Larry Ellison, the American CEO of Oracle Corp, agrees to buy 98 per cent of the Hawaiian island of Lanai. ](/news/2012/06/20/larry-ellison-the-american-ceo-of-oracle-corp-agrees-to-buy-98-per-cent-of-the-hawaiian-island-of-lanai.md)
 _Context: Larry Ellison, Hawaii, Lanai, Oracle Corp_
 
-##### U.S.
+##### United States
 ### [The United States Congress suggests to extend its military presence in Kuwait. ](/news/2012/06/20/the-united-states-congress-suggests-to-extend-its-military-presence-in-kuwait.md)
 Congressional report says more troops should be based in Gulf state to respond to sudden conflicts in oil-rich region.
 
 ##### Fund for Peace
 ### [Fund for Peace releases its 2012 Failed States Index, with Libya, Japan, and Syria scoring the largest increases since the previous study. ](/news/2012/06/20/fund-for-peace-releases-its-2012-failed-states-index-with-libya-japan-and-syria-scoring-the-largest-increases-since-the-previous-study.md)
-_Context: Japan, Failed States Index, Syria, Fund for Peace_
+_Context: Fund for Peace, Japan, Failed States Index, Syria_
 
 ##### Prime Minister
 ### [The former Prime Minister of Romania, Adrian Nastase, narrowly survives a suicide attempt by gunshot to the throat following a controversial court decision sentencing him to two years in jail. ](/news/2012/06/20/the-former-prime-minister-of-romania-adrian-nastase-narrowly-survives-a-suicide-attempt-by-gunshot-to-the-throat-following-a-controversia.md)
@@ -45,7 +45,7 @@ Former Romanian Prime Minister Adrian Nastase shoots himself in the neck hours a
 
 ##### Egypt
 ### [In Egypt, Hosni Mubarak, ousted from power in last year's revolution, is reported to in a coma and has been taken off life support. ](/news/2012/06/20/in-egypt-hosni-mubarak-ousted-from-power-in-last-year-s-revolution-is-reported-to-in-a-coma-and-has-been-taken-off-life-support.md)
-_Context: Hosni Mubarak, 2011 Egyptian revolution, Egypt_
+_Context: Hosni Mubarak, Egypt, 2011 Egyptian revolution_
 
 ##### Presidential election
 ### [The Supreme Elections Commission in Egypt announces that the results of the presidential election are not going to be released on Thursday due to complaints by rival candidates. ](/news/2012/06/20/the-supreme-elections-commission-in-egypt-announces-that-the-results-of-the-presidential-election-are-not-going-to-be-released-on-thursday-d.md)

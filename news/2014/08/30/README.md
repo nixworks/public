@@ -5,11 +5,11 @@ Formats: [HTML](2014/08/30/index.html)  [JSON](2014/08/30/index.json)  [XML](201
 
 ##### Prime Minister of Lesotho
 ### [Prime Minister Tom Thabane of Lesotho flees to South Africa as the army allegedly stages a coup. ](/news/2014/08/30/prime-minister-tom-thabane-of-lesotho-flees-to-south-africa-as-the-army-allegedly-stages-a-coup.md)
-_Context: Tom Thabane, army, Prime Minister of Lesotho, Lesotho, allegedly stages a coup_
+_Context: army, Prime Minister of Lesotho, Lesotho, allegedly stages a coup, Tom Thabane_
 
 ##### Taliban insurgency
 ### [Taliban insurgents attack the National Directorate of Security building in Jalalabad resulting in at least six deaths. ](/news/2014/08/30/taliban-insurgents-attack-the-national-directorate-of-security-building-in-jalalabad-resulting-in-at-least-six-deaths.md)
-_Context: National Directorate of Security, Taliban, Taliban insurgency, Jalalabad_
+_Context: Taliban, National Directorate of Security, Jalalabad, Taliban insurgency_
 
 ##### Prime Minister
 ### [At least 230 people have been injured in clashes between opponents of Prime Minister of Pakistan Nawaz Sharif and police in Islamabad. ](/news/2014/08/30/at-least-230-people-have-been-injured-in-clashes-between-opponents-of-prime-minister-of-pakistan-nawaz-sharif-and-police-in-islamabad.md)
@@ -45,11 +45,11 @@ Judith Collins has confirmed she is resigning as a Minister from Cabinet, with t
 
 ##### United States Senate election in Kentucky, 2014
 ### [United States Senate Minority Leader Mitch McConnell's campaign manager Jesse Benton resigns after being involved in an alleged bribery scandal involving Iowa state Senator Kent Sorenson switching his support from Michele Bachmann to Ron Paul in the United States presidential election, 2012. ](/news/2014/08/30/united-states-senate-minority-leader-mitch-mcconnell-s-campaign-manager-jesse-benton-resigns-after-being-involved-in-an-alleged-bribery-scan.md)
-_Context: Kent Sorenson, Mitch McConnell, Jesse Benton, United States Senate Minority Leader, United States presidential election, 2012, bribes, United States Senate election in Kentucky, 2014, Iowa, Ron Paul, Michele Bachmann_
+_Context: Kent Sorenson, Michele Bachmann, Ron Paul, Iowa, United States presidential election, 2012, Jesse Benton, Mitch McConnell, United States Senate election in Kentucky, 2014, bribes, United States Senate Minority Leader_
 
 ##### 2014
 ### [Environmentalist Marina Silva widens a sudden lead in opinion polls over current president Dilma Rousseff to 10 percentage points. ](/news/2014/08/30/environmentalist-marina-silva-widens-a-sudden-lead-in-opinion-polls-over-current-president-dilma-rousseff-to-10-percentage-points.md)
-_Context: 2014, Marina Silva, Dilma Rousseff_
+_Context: 2014, Dilma Rousseff, Marina Silva_
 
 ## [Previous Day...](/news/2014/08/29/index.md)
 

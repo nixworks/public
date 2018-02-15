@@ -9,7 +9,7 @@ comentarii, Romanian-born German writer Herta Muller won this year&#039;s Nobel 
 
 ##### Taliban
 ### [ A Taliban attack on the Indian embassy in Kabul kills at least 17 and injures 83. ](/news/2009/10/8/a-taliban-attack-on-the-indian-embassy-in-kabul-kills-at-least-17-and-injures-83.md)
-_Context: Taliban, Kabul, attack_
+_Context: Kabul, Taliban, attack_
 
 ##### Al-Qaeda
 ### [ A prominent Al-Qaeda leader, Abu Yahya al-Libi, urges Muslims in Xinjiang to "prepare for holy war" after the riots in July. ](/news/2009/10/8/a-prominent-al-qaeda-leader-abu-yahya-al-libi-urges-muslims-in-xinjiang-to-prepare-for-holy-war-after-the-riots-in-july.md)
@@ -29,13 +29,13 @@ Hearings began today in a libel case brought by the grandson of Joseph Stalin ag
 
 ##### Guinea
 ### [ Guinea's military government announces it is setting up a commission to investigate the shooting of protesters last week. ](/news/2009/10/8/guinea-s-military-government-announces-it-is-setting-up-a-commission-to-investigate-the-shooting-of-protesters-last-week.md)
-_Context: Guinea, massacre of opposition protesters_
+_Context: massacre of opposition protesters, Guinea_
 
 ##### Typhoon Melor
 ### [ At least two people are killed and dozens injured as Typhoon Melor makes landfall in Japan. ](/news/2009/10/8/at-least-two-people-are-killed-and-dozens-injured-as-typhoon-melor-makes-landfall-in-japan.md)
 At least two killed and dozens injured as storm sweeps up Japanese island of Honshu.
 
-##### Polish
+##### Poland
 ### [ Polish President Lech Kaczynski announces his intention to sign the Treaty of Lisbon on Saturday October 10, completing the country's ratification process. The Polish ratification ceremony is due to be attended by President of the European Commission Jose Manuel Barroso. ](/news/2009/10/8/polish-president-lech-kaczyaski-announces-his-intention-to-sign-the-treaty-of-lisbon-on-saturday-october-10-completing-the-country-s-rati.md)
 Lech Kaczynski signs Lisbon EU reform treaty leaving only Czechs to ratify document.
 

@@ -25,7 +25,7 @@ _Context: Tripoli, ISIL, Libyan Civil War (2014-present)_
 
 ##### Managua
 ### [An American man working at Managua's U.S. embassy provokes a security scare in Nicaragua; the country's health ministry quarantines the Ebola suspect and asks that he be removed from the country immediately. ](/news/2015/04/13/an-american-man-working-at-managua-s-u-s-embassy-provokes-a-security-scare-in-nicaragua-the-country-s-health-ministry-quarantines-the-ebol.md)
-_Context: Managua, Ebola_
+_Context: Ebola, Managua_
 
 ##### Wayne Community College
 ### [A former work-study student is sought in a shooting of his print shop supervisor at Wayne Community College in Goldsboro, North Carolina and is still on the run. ](/news/2015/04/13/a-former-work-study-student-is-sought-in-a-shooting-of-his-print-shop-supervisor-at-wayne-community-college-in-goldsboro-north-carolina-and.md)
@@ -49,7 +49,7 @@ _Context: manslaughter by gross negligence, Tulsa, Oklahoma_
 
 ##### 2016 U.S. presidential election
 ### [Florida Senator Marco Rubio announces his candidacy for the Republican nomination in the 2016 presidential election. ](/news/2015/04/13/florida-senator-marco-rubio-announces-his-candidacy-for-the-republican-nomination-in-the-2016-presidential-election.md)
-_Context: Senator, Republican, Marco Rubio, candidacy, 2016 U.S. presidential election, the state_
+_Context: Marco Rubio, candidacy, Senator, the state, 2016 U.S. presidential election, Republican_
 
 ## [Previous Day...](/news/2015/04/12/index.md)
 

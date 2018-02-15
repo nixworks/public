@@ -9,7 +9,7 @@ Foreign ministers of the Arab League postpone a meeting on the Syrian crisis, of
 
 ##### Edgar Morales Perez
 ### [Edgar Morales Perez, the mayor-elect of Matehuala, San Luis Potosi, is shot to death by gunmen while riding his vehicle. ](/news/2012/08/12/edgar-morales-pa-c-rez-the-mayor-elect-of-matehuala-san-luis-potosa-is-shot-to-death-by-gunmen-while-riding-his-vehicle.md)
-_Context: San Luis Potosi, Matehuala, Edgar Morales Perez, List of politicians killed in the Mexican Drug War_
+_Context: List of politicians killed in the Mexican Drug War, Edgar Morales Perez, Matehuala, San Luis Potosi_
 
 ##### Egyptian forces
 ### [Egyptian forces kill six suspected militants in a village near the city of el-Arish in northern Sinai. ](/news/2012/08/12/egyptian-forces-kill-six-suspected-militants-in-a-village-near-the-city-of-el-ara-sh-in-northern-sinai.md)
@@ -17,7 +17,7 @@ At least six gunmen are killed by the Egyptian army in the Sinai peninsula durin
 
 ##### Billy Graham
 ### [Billy Graham, who had recently suffered from pneumonia in November 2011, is hospitalized again, likely for several days, at Mission Hospital in Asheville, North Carolina, due to bronchitis, and is being treated with antibiotics. ](/news/2012/08/12/billy-graham-who-had-recently-suffered-from-pneumonia-in-november-2011-is-hospitalized-again-likely-for-several-days-at-mission-hospital.md)
-_Context: Asheville, North Carolina, Mission Hospital, antibiotics, bronchitis, Billy Graham, pneumonia_
+_Context: pneumonia, Mission Hospital, Billy Graham, Asheville, North Carolina, bronchitis, antibiotics_
 
 ##### Qatar
 ### [Qatar is to deposit US$2bn at the Egyptian Central Bank in an effort to help support an economy battered by a year and a half of political turmoil, an Egyptian presidency statement reports. ](/news/2012/08/12/qatar-is-to-deposit-us-2bn-at-the-egyptian-central-bank-in-an-effort-to-help-support-an-economy-battered-by-a-year-and-a-half-of-political-t.md)

@@ -5,11 +5,11 @@ Formats: [HTML](2008/04/10/index.html)  [JSON](2008/04/10/index.json)  [XML](200
 
 ##### Anders Lago
 ### [ Mayor Anders Lago of Sdertlje, Sweden, says that his small city of about 80,000 is currently home to nearly 6,000 Iraqis. "More refugees than the United States and Canada together". ](/news/2008/04/10/mayor-anders-lago-of-sodertalje-sweden-says-that-his-small-city-of-about-80-000-is-currently-home-to-nearly-6-000-iraqis-more-refugees.md)
-_Context: Sdertlje, U.S., Anders Lago, Iraq, refugee, Sweden, Canadian_
+_Context: Canadian, Iraq, Anders Lago, refugee, United States, Sdertlje, Sweden_
 
 ##### Frontier Airlines
 ### [ Frontier Airlines files for bankruptcy protection. ](/news/2008/04/10/frontier-airlines-files-for-bankruptcy-protection.md)
-_Context: bankruptcy, Frontier Airlines_
+_Context: Frontier Airlines, bankruptcy_
 
 ##### European Parliament
 ### [ The European Parliament passes a resolution in favor of a boycott of the opening ceremonies of the Beijing Olympiad. ](/news/2008/04/10/the-european-parliament-passes-a-resolution-in-favor-of-a-boycott-of-the-opening-ceremonies-of-the-beijing-olympiad.md)
@@ -17,7 +17,7 @@ The Olympic torch arrives in Argentina with organisers desperate to avoid repeat
 
 ##### Suicide bomber
 ### [ A suicide car bomber attacks a NATO convoy in Kandahar, resulting in the death of eight citizens. ](/news/2008/04/10/a-suicide-car-bomber-attacks-a-nato-convoy-in-kandahar-resulting-in-the-death-of-eight-citizens.md)
-_Context: suicide bomber, Kandahar, NATO_
+_Context: Kandahar, NATO, suicide bomber_
 
 ##### Nepal
 ### [ Nepal prepares for an election that will decide the new Constituent Assembly, tasked with rewriting the constitution. The fate of the monarchy is also at stake. ](/news/2008/04/10/nepal-prepares-for-an-election-that-will-decide-the-new-constituent-assembly-tasked-with-rewriting-the-constitution-the-fate-of-the-monar.md)

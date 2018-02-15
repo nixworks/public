@@ -29,11 +29,11 @@ The Philippines marks the fifth anniversary of its worst political massacre, as 
 
 ##### Tunisia's presidential election
 ### [Voters in Tunisia go to the polls Sunday in the first free presidential election since the Arab Spring's Jasmine Revolution. ](/news/2014/11/23/voters-in-tunisia-go-to-the-polls-sunday-in-the-first-free-presidential-election-since-the-arab-spring-s-jasmine-revolution.md)
-_Context: Tunisia, Tunisia's presidential election, Jasmine Revolution of 2011, Arab Spring_
+_Context: Arab Spring, Tunisia, Jasmine Revolution of 2011, Tunisia's presidential election_
 
 ##### Israel
 ### [The Cabinet of Israel approves legislation defining it as the nation state of the Jewish people. ](/news/2014/11/23/the-cabinet-of-israel-approves-legislation-defining-it-as-the-nation-state-of-the-jewish-people.md)
-_Context: Israel, Jews_
+_Context: Jews, Israel_
 
 ## [Previous Day...](/news/2014/11/22/index.md)
 

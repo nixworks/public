@@ -5,7 +5,7 @@ Formats: [HTML](2010/12/30/index.html)  [JSON](2010/12/30/index.json)  [XML](201
 
 ##### Cote d'Ivoire
 ### [Cote d'Ivoire's ambassador to the United Nations, Youssoufou Bamba, says the country is on the "brink of genocide". ](/news/2010/12/30/ca-te-d-ivoire-s-ambassador-to-the-united-nations-youssoufou-bamba-says-the-country-is-on-the-brink-of-genocide.md)
-_Context: Cote d'Ivoire, United Nations, genocide, Youssoufou Bamba_
+_Context: Cote d'Ivoire, genocide, Youssoufou Bamba, United Nations_
 
 ##### Sudan
 ### [Sudanese President Omar al-Bashir says the government will withdraw from peace talks with rebels from Darfur unless a deal is reached this week. ](/news/2010/12/30/sudanese-president-omar-al-bashir-says-the-government-will-withdraw-from-peace-talks-with-rebels-from-darfur-unless-a-deal-is-reached-this-w.md)
@@ -29,11 +29,11 @@ North Korea broadcasts British film Bend It Like Beckham, in what the UK ambassa
 
 ##### Gwynfor Evans
 ### [Newly released papers show Gwynfor Evans, former Plaid Cymru MP for Carmarthen, said he would fast to death if the British government did not provide a Welsh language television service. S4C resulted. ](/news/2010/12/30/newly-released-papers-show-gwynfor-evans-former-plaid-cymru-mp-for-carmarthen-said-he-would-fast-to-death-if-the-british-government-did-no.md)
-_Context: Plaid Cymru Party, Gwynfor Evans, Welsh-language, S4C, MP_
+_Context: MP, Plaid Cymru Party, Gwynfor Evans, S4C, Welsh-language_
 
 ##### Buckingham Palace
 ### [Buckingham Palace announces the birth of Queen Elizabeth II's first great-grandchild, born to Peter Phillips and his wife Autumn. ](/news/2010/12/30/buckingham-palace-announces-the-birth-of-queen-elizabeth-ii-s-first-great-grandchild-born-to-peter-phillips-and-his-wife-autumn.md)
-_Context: Peter Phillips, Buckingham Palace, Autumn, Queen Elizabeth II_
+_Context: Queen Elizabeth II, Buckingham Palace, Peter Phillips, Autumn_
 
 ##### British National Archives
 ### [A diplomatic cable newly released from the British National Archives, dated 1980, claims that Israel would be "ready to use their atomic weapon" in any further war against its adversaries.](/news/2010/12/30/a-diplomatic-cable-newly-released-from-the-british-national-archives-dated-1980-claims-that-israel-would-be-ready-to-use-their-atomic-wea.md)
@@ -41,11 +41,11 @@ Former Ambassador Robinson told Foreign Office &#39;if Israelis are to be destro
 
 ##### Asia
 ### [An international aid convoy from Asia enters Gaza, though Iranian and Jordanian members of the flotilla are denied entry and generators donated by Iran are banned too. ](/news/2010/12/30/an-international-aid-convoy-from-asia-enters-gaza-though-iranian-and-jordanian-members-of-the-flotilla-are-denied-entry-and-generators-dona.md)
-_Context: Asia, Jordan, Iran, Gaza Strip_
+_Context: Asia, Iran, Gaza Strip, Jordan_
 
 ##### Israel
 ### [Israeli forces arrest Hamas MP Khalil Ar-Rabai after surrounding his home in the early morning in the southern West Bank town of Yatta. The destruction of family property is also reported. ](/news/2010/12/30/israeli-forces-arrest-hamas-mp-khalil-ar-rabai-after-surrounding-his-home-in-the-early-morning-in-the-southern-west-bank-town-of-yatta-the.md)
-_Context: Hamas, West Bank, Yatta, Israel_
+_Context: West Bank, Hamas, Yatta, Israel_
 
 ##### Yemen
 ### [The Yemeni government releases at least 428 Houthi northern rebels as part of a ceasefire mediated by Qatar in return for 10 military vehicles. ](/news/2010/12/30/the-yemeni-government-releases-at-least-428-houthi-northern-rebels-as-part-of-a-ceasefire-mediated-by-qatar-in-return-for-10-military-vehicl.md)
@@ -53,11 +53,11 @@ Government frees some 400 members of Houthi northern rebels as part of Qatar-med
 
 ##### Thailand
 ### [Thailand urges Cambodia to release seven of its citizens&ndash;including an MP&ndash;arrested after crossing their mutual border. ](/news/2010/12/30/thailand-urges-cambodia-to-release-seven-of-its-citizens-ndash-including-an-mp-ndash-arrested-after-crossing-their-mutual-border.md)
-_Context: MP, Thailand, Cambodia_
+_Context: Thailand, Cambodia, MP_
 
 ##### Uyghur
 ### [A 19-year-old Uyghur woman, Pezilet Ekber, is sentenced to death following a secret trial, the second Uyghur woman to receive the death penalty on charges of participating in ethnic riots last year. ](/news/2010/12/30/a-19-year-old-uyghur-woman-pezilet-ekber-is-sentenced-to-death-following-a-secret-trial-the-second-uyghur-woman-to-receive-the-death-pena.md)
-_Context: ethnic riots, Uyghur_
+_Context: Uyghur, ethnic riots_
 
 ##### Russia
 ### [Former Russian oligarch Mikhail Khodorkovsky has his prison sentence extended to a total of 14 years after a second conviction. ](/news/2010/12/30/former-russian-oligarch-mikhail-khodorkovsky-has-his-prison-sentence-extended-to-a-total-of-14-years-after-a-second-conviction.md)
@@ -65,15 +65,15 @@ Former Russian oil tycoon receives six more years in prison after money launderi
 
 ##### Israel
 ### [Former Israeli President Moshe Katsav is convicted of two counts of rape and other sexual offences by a court in Tel Aviv. ](/news/2010/12/30/former-israeli-president-moshe-katsav-is-convicted-of-two-counts-of-rape-and-other-sexual-offences-by-a-court-in-tel-aviv.md)
-_Context: sexual offences, President, Israel, rape, Moshe Katsav, Tel Aviv_
+_Context: Tel Aviv, Israel, Moshe Katsav, President, rape, sexual offences_
 
 ##### India
 ### [A major Indian separatist leader, Arabinda Rajkhowa of the United Liberation Front of Asom, is released on bail. ](/news/2010/12/30/a-major-indian-separatist-leader-arabinda-rajkhowa-of-the-united-liberation-front-of-asom-is-released-on-bail.md)
-_Context: India, United Liberation Front of Asom, Arabinda Rajkhowa_
+_Context: Arabinda Rajkhowa, India, United Liberation Front of Asom_
 
 ##### Thailand
 ### [A court in Thailand jails 79 pro-government "yellow shirt" protesters for storming a state television station two years ago. ](/news/2010/12/30/a-court-in-thailand-jails-79-pro-government-yellow-shirt-protesters-for-storming-a-state-television-station-two-years-ago.md)
-_Context: Thailand, yellow shirt_
+_Context: yellow shirt, Thailand_
 
 ##### Belarus
 ### [Four opposition figures in Belarus are charged with organising riots after demonstrations against the re-election of Alexander Lukashenko. ](/news/2010/12/30/four-opposition-figures-in-belarus-are-charged-with-organising-riots-after-demonstrations-against-the-re-election-of-alexander-lukashenko.md)
@@ -85,15 +85,15 @@ _Context: Auschwitz, Arbeit macht frei, Sweden_
 
 ##### Minnesota
 ### [Minnesota sues 3M claiming they pumped PFCs, a very toxic chemical according to the United States Environmental Protection Agency, into local waterways.](/news/2010/12/30/minnesota-sues-3m-claiming-they-pumped-pfcs-a-very-toxic-chemical-according-to-the-united-states-environmental-protection-agency-into-loca.md)
-_Context: PFC, Minnesota, toxic, 3M, Environmental Protection Agency_
+_Context: PFC, 3M, Environmental Protection Agency, toxic, Minnesota_
 
 ##### Mississippi
 ### [Mississippi Governor Haley Barbour frees two sisters 16 years into double life terms received for armed robbery of two men for $11, citing one of the sister's "medical condition creates a substantial cost to the state of Mississippi." ](/news/2010/12/30/mississippi-governor-haley-barbour-frees-two-sisters-16-years-into-double-life-terms-received-for-armed-robbery-of-two-men-for-11-citing-o.md)
-_Context: Haley Barbour, Mississippi, double life terms_
+_Context: double life terms, Haley Barbour, Mississippi_
 
 ##### Bertie Ahern
 ### [Bertie Ahern, the former taoiseach who led the stricken Fianna Fail political party from 1994 until 2008, announces he is to resign from Dail Eireann at the forthcoming general election. ](/news/2010/12/30/bertie-ahern-the-former-taoiseach-who-led-the-stricken-fianna-fa-il-political-party-from-1994-until-2008-announces-he-is-to-resign-from-da.md)
-_Context: taoiseach, Bertie Ahern, recently claimed back, Dail Eireann, Fianna Fail_
+_Context: Bertie Ahern, recently claimed back, Fianna Fail, Dail Eireann, taoiseach_
 
 ##### Burma
 ### [Burmese opposition leader Aung San Suu Kyi meets with opposition leaders who broke away from the National League for Democracy party. ](/news/2010/12/30/burmese-opposition-leader-aung-san-suu-kyi-meets-with-opposition-leaders-who-broke-away-from-the-national-league-for-democracy-party.md)
@@ -101,7 +101,7 @@ Burma&#039;s opposition leader Aung San Suu Kyi has met with former colleagues w
 
 ##### Taoiseach
 ### [Newly released papers show more than EUR130,000 of public money was used to wine and dine visiting dignitaries to Ireland while then Irish Prime Minister Charles Haughey warned on television that the country was "living away beyond our means". ](/news/2010/12/30/newly-released-papers-show-more-than-a-130-000-of-public-money-was-used-to-wine-and-dine-visiting-dignitaries-to-ireland-while-then-irish-p.md)
-_Context: Taoiseach, Charles Haughey_
+_Context: Charles Haughey, Taoiseach_
 
 ## [Previous Day...](/news/2010/12/29/index.md)
 

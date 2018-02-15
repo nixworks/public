@@ -21,7 +21,7 @@ Somali forces supported by U.S. troops shot dead 10 Somalis, including three chi
 
 ##### 2017 Buckingham Palace incident
 ### [Two British police officers were assaulted with a sword while trying to arrest a man outside Buckingham Palace. ](/news/2017/08/25/two-british-police-officers-were-assaulted-with-a-sword-while-trying-to-arrest-a-man-outside-buckingham-palace.md)
-_Context: Buckingham Palace, 2017 Buckingham Palace incident, police_
+_Context: police, Buckingham Palace, 2017 Buckingham Palace incident_
 
 ##### August 2017 Brussels attack
 ### [A Somali man has been shot dead after attacking soldiers with a machete in Brussels, in what prosecutors are treating as a terror attack. ](/news/2017/08/25/a-somali-man-has-been-shot-dead-after-attacking-soldiers-with-a-machete-in-brussels-in-what-prosecutors-are-treating-as-a-terror-attack.md)
@@ -73,11 +73,11 @@ The suit was filed in U.S. District Court in Washington on behalf of five transg
 
 ##### Environmental policy of the Donald Trump administration
 ### [The U.S. Environmental Protection Agency announces, effective in 2019, it will no longer sponsor the Climate Leadership Awards program that honors voluntary corporate actions to combat global warming. ](/news/2017/08/25/the-u-s-environmental-protection-agency-announces-effective-in-2019-it-will-no-longer-sponsor-the-climate-leadership-awards-program-that.md)
-_Context: Environmental Protection Agency, global warming, Environmental policy of the Donald Trump administration_
+_Context: Environmental Protection Agency, Environmental policy of the Donald Trump administration, global warming_
 
 ##### 2017 in spaceflight
 ### [FORMOSAT-5, the first satellite fully designed by Taiwan's National Space Organization, is launched into low-earth orbit by SpaceX's Falcon 9 rocket. ](/news/2017/08/25/formosat-5-the-first-satellite-fully-designed-by-taiwan-s-national-space-organization-is-launched-into-low-earth-orbit-by-spacex-s-falcon.md)
-_Context: National Space Organization, SpaceX, Taiwan, Falcon 9, FORMOSAT-5, 2017 in spaceflight_
+_Context: National Space Organization, SpaceX, 2017 in spaceflight, Taiwan, Falcon 9, FORMOSAT-5_
 
 ## [Previous Day...](/news/2017/08/24/index.md)
 

@@ -25,15 +25,15 @@ The Russian government continues to partially remove sanctions on Turkey. A new 
 
 ##### 2017 Resorts World Manila attack
 ### [At least 37 people are killed in a deliberately lit fire at Resorts World Manila in the Philippines. The perpetrator stole gaming chips and fired gun shots before committing suicide. ](/news/2017/06/2/at-least-37-people-are-killed-in-a-deliberately-lit-fire-at-resorts-world-manila-in-the-philippines-the-perpetrator-stole-gaming-chips-and.md)
-_Context: 2017 Resorts World Manila attack, Resorts World Manila, Philippines_
+_Context: Philippines, Resorts World Manila, 2017 Resorts World Manila attack_
 
 ##### War in Afghanistan (2015-present)
 ### [Five anti-government-anti-Taliban protestors are shot dead by police in Kabul, Afghanistan, after demanding that the government step down in the wake of the May 2017 Kabul attack. ](/news/2017/06/2/five-anti-government-anti-taliban-protestors-are-shot-dead-by-police-in-kabul-afghanistan-after-demanding-that-the-government-step-down-in.md)
-_Context: War in Afghanistan (2015-present), Kabul, May 2017 Kabul attack_
+_Context: War in Afghanistan (2015-present), May 2017 Kabul attack, Kabul_
 
 ##### Penn State child sex abuse scandal
 ### [Former Pennsylvania State University president Graham Spanier, former vice president Gary Schultz, and former athletic director Timothy Curley are sentenced to prison for covering up ex-coach Jerry Sandusky's criminal sexual acts, thereby letting him victimize more boys. ](/news/2017/06/2/former-pennsylvania-state-university-president-graham-spanier-former-vice-president-gary-schultz-and-former-athletic-director-timothy-curl.md)
-_Context: Timothy Curley, Penn State child sex abuse scandal, Graham Spanier, Pennsylvania State University_
+_Context: Timothy Curley, Penn State child sex abuse scandal, Pennsylvania State University, Graham Spanier_
 
 ##### Plan to leave
 ### [Disney CEO Bob Iger joins Elon Musk in resigning from President Trump's advisory councils in response to Trump's decision to withdraw the U.S. from the Paris Agreement. ](/news/2017/06/2/disney-ceo-bob-iger-joins-elon-musk-in-resigning-from-president-trump-s-advisory-councils-in-response-to-trump-s-decision-to-withdraw-the-u.md)
@@ -45,7 +45,7 @@ LEO Varadkar has been confirmed as the new leader of Fine Gael &#8211; and looks
 
 ##### Satellite of Jupiter
 ### [Two of Jupiter's moons, S-2003 J 18 and S-2011 J 2 are recovered, and a small 1.5-kilometer outer moon (S-2016 J 1) is discovered, the first moon discovered around a major planet in 6 years. ](/news/2017/06/2/two-of-jupiter-s-moons-s-2003-j-18-and-s-2011-j-2-are-recovered-and-a-small-1-5-kilometer-outer-moon-s-2016-j-1-is-discovered-the-first.md)
-_Context: S/2011 J 2, satellite of Jupiter, S/2003 J 18, S/2016 J 1, the first moon_
+_Context: S/2011 J 2, S/2016 J 1, S/2003 J 18, the first moon, satellite of Jupiter_
 
 ## [Previous Day...](/news/2017/06/1/index.md)
 

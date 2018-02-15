@@ -5,7 +5,7 @@ Formats: [HTML](2010/10/8/index.html)  [JSON](2010/10/8/index.json)  [XML](2010/
 
 ##### Xinjiang
 ### [Four miners were killed and another was seriously injured after a colliery collapsed in Xinjiang. A pit owned by Xinjiang Shenhua Tiandian Mining in Hutubi county in Changji Hui Autonomous Prefecture caved in. ](/news/2010/10/8/four-miners-were-killed-and-another-was-seriously-injured-after-a-colliery-collapsed-in-xinjiang-a-pit-owned-by-xinjiang-shenhua-tiandian-m.md)
-_Context: Xinjiang Shenhua Tiandian Mining, Changji Hui Autonomous Prefecture, Hutubi, Xinjiang_
+_Context: Changji Hui Autonomous Prefecture, Xinjiang Shenhua Tiandian Mining, Xinjiang, Hutubi_
 
 ##### Khyber Agency
 ### [Several militants are killed in Khyber Agency when security forces targeted militant hideouts with gunship helicopters. ](/news/2010/10/8/several-militants-are-killed-in-khyber-agency-when-security-forces-targeted-militant-hideouts-with-gunship-helicopters.md)
@@ -13,11 +13,11 @@ _Context: Khyber Agency_
 
 ##### Kunduz
 ### [At least 16 people, including the governor of Kunduz province, Mohammad Omar, are killed in a bombing. ](/news/2010/10/8/at-least-16-people-including-the-governor-of-kunduz-province-mohammad-omar-are-killed-in-a-bombing.md)
-_Context: Kunduz, Mohammad Omar_
+_Context: Mohammad Omar, Kunduz_
 
 ##### German
 ### [German officials say that Islamic militants whose disclosures have triggered a Europe-wide terror alert, have links to the perpetrators of the September 11 attacks on the United States in 2001. ](/news/2010/10/8/german-officials-say-that-islamic-militants-whose-disclosures-have-triggered-a-europe-wide-terror-alert-have-links-to-the-perpetrators-of-t.md)
-_Context: German, Europe-wide terror alert, U.S., Islamic terrorism, September 11 attacks_
+_Context: September 11 attacks, German, Islamic terrorism, Europe-wide terror alert, United States_
 
 ##### Taiwan
 ### [A Taiwanese ship initially believed to have been hijacked off the coast of Madagascar is later found safe. ](/news/2010/10/8/a-taiwanese-ship-initially-believed-to-have-been-hijacked-off-the-coast-of-madagascar-is-later-found-safe.md)
@@ -33,23 +33,23 @@ John Lennon, the late Beatles singer, has been celebrated with a special interac
 
 ##### German
 ### [German film "The White Ribbon" wins the BBC Four World Cinema Award. ](/news/2010/10/8/german-film-the-white-ribbon-wins-the-bbc-four-world-cinema-award.md)
-_Context: World Cinema Award, German, The White Ribbon, BBC Four_
+_Context: BBC Four, German, The White Ribbon, World Cinema Award_
 
-##### U.S.
+##### United States
 ### [United States gospel music singer Albertina Walker, known as the "Queen of Gospel" dies in Chicago. ](/news/2010/10/8/united-states-gospel-music-singer-albertina-walker-known-as-the-queen-of-gospel-dies-in-chicago.md)
-_Context: U.S., gospel music, Albertina Walker_
+_Context: Albertina Walker, United States, gospel music_
 
 ##### International Civil Aviation Organization
 ### [The International Civil Aviation Organization (ICAO) concluded its 37th session of its assembly on Friday at its headquarters in Montreal, making progresses on aviation emissions. ](/news/2010/10/8/the-international-civil-aviation-organization-icao-concluded-its-37th-session-of-its-assembly-on-friday-at-its-headquarters-in-montreal-m.md)
-_Context: International Civil Aviation Organization, Montreal_
+_Context: Montreal, International Civil Aviation Organization_
 
-##### U.S.
+##### United States
 ### [The United States economy shed 95,000 more jobs than expected in September. ](/news/2010/10/8/the-united-states-economy-shed-95-000-more-jobs-than-expected-in-september.md)
 Economy loses 95,000 jobs in September in the last monthly labour snapshot ahead of mid-term elections.
 
 ##### Japanese government
 ### [The Government of Japan approves a $60 billion economic stimulus package. ](/news/2010/10/8/the-government-of-japan-approves-a-60-billion-economic-stimulus-package.md)
-_Context: economic stimulus, Japanese government_
+_Context: Japanese government, economic stimulus_
 
 ##### United Arab Emirates
 ### [The United Arab Emirates announces that it will not implement a proposed ban on all BlackBerry services due to go into effect from next year. ](/news/2010/10/8/the-united-arab-emirates-announces-that-it-will-not-implement-a-proposed-ban-on-all-blackberry-services-due-to-go-into-effect-from-next-year.md)
@@ -57,7 +57,7 @@ _Context: United Arab Emirates, BlackBerry_
 
 ##### Wen Jiabao
 ### [Premier Wen Jiabao of the People's Republic of China denies reports that China is using its control over minerals crucial to high technology (called "rare earth") as a bargaining chip, especially in a dispute with Japan over Japan's arrest of a Chinese fishing-boat captain ](/news/2010/10/8/premier-wen-jiabao-of-the-people-s-republic-of-china-denies-reports-that-china-is-using-its-control-over-minerals-crucial-to-high-technology.md)
-_Context: Japan, Wen Jiabao, rare earth, China_
+_Context: rare earth, Japan, China, Wen Jiabao_
 
 ##### Prime Minister
 ### [2 more corpses are discovered, bringing the death toll to 7, as Prime Minister of Hungary Viktor Orban plays down the disaster on the Danube. ](/news/2010/10/8/2-more-corpses-are-discovered-bringing-the-death-toll-to-7-as-prime-minister-of-hungary-viktor-orba-n-plays-down-the-disaster-on-the-danub.md)
@@ -65,7 +65,7 @@ Residents blame aluminium company for toxic spill that killed four people and de
 
 ##### Malta
 ### [Maltese chemical tanker YM Uranus is reported to be sinking following a collision with the Panamanian cargo ship "Hanjin Rizhao" off the coast of Brittany, France. ](/news/2010/10/8/maltese-chemical-tanker-ym-uranus-is-reported-to-be-sinking-following-a-collision-with-the-panamanian-cargo-ship-hanjin-rizhao-off-the-coa.md)
-_Context: cargo ship, France, Tanker, Panama, Brittany, Malta_
+_Context: Panama, France, cargo ship, Brittany, Malta, Tanker_
 
 ##### Tibetan Autonomous Prefecture of Garze
 ### [One person died and 42 others remain hospitalized in the Tibetan Autonomous Prefecture of Garze. Over 100 people, mostly tourists and hotel staff, were affected. ](/news/2010/10/8/one-person-died-and-42-others-remain-hospitalized-in-the-tibetan-autonomous-prefecture-of-garze-over-100-people-mostly-tourists-and-hotel.md)
@@ -73,11 +73,11 @@ _Context: Tibetan Autonomous Prefecture of Garze_
 
 ##### Chinese Premier
 ### [Chinese Premier Wen Jiabao holds talks with Turkish Prime Minister Recep Tayyip Erdogan in Ankara. ](/news/2010/10/8/chinese-premier-wen-jiabao-holds-talks-with-turkish-prime-minister-recep-tayyip-erdogan-in-ankara.md)
-_Context: Wen Jiabao, Turkish Prime Minister, Chinese Premier, Ankara, Recep Tayyip Erdogan_
+_Context: Wen Jiabao, Chinese Premier, Ankara, Turkish Prime Minister, Recep Tayyip Erdogan_
 
 ##### Chinese
 ### [Imprisoned Chinese dissident Liu Xiaobo is announced as the winner of the Nobel Peace Prize. China blocks internet coverage of the award. ](/news/2010/10/8/imprisoned-chinese-dissident-liu-xiaobo-is-announced-as-the-winner-of-the-nobel-peace-prize-china-blocks-internet-coverage-of-the-award.md)
-_Context: blocks mentions, Liu Xiaobo, Nobel Peace Prize, Chinese_
+_Context: Liu Xiaobo, Chinese, Nobel Peace Prize, blocks mentions_
 
 ##### Breakfast
 ### [TVNZ "Breakfast" race row: New Zealand issues an apology to India's External Affairs ministry over the "gratuitous and insulting" behaviour of its now suspended broadcaster Paul Henry, who works for the government-owned corporation television network TVNZ. ](/news/2010/10/8/tvnz-breakfast-race-row-new-zealand-issues-an-apology-to-india-s-external-affairs-ministry-over-the-gratuitous-and-insulting-behaviour.md)
@@ -85,31 +85,31 @@ New Zealand has apologized to India’s External Affairs ministry over comments 
 
 ##### Arab League
 ### [Arab League leaders meeting in Libya announce their support for Palestinian Authority President Mahmoud Abbas's decision to stop peace talks with Israel over Israel's recently expired moratorium on construction in the West Bank. ](/news/2010/10/8/arab-league-leaders-meeting-in-libya-announce-their-support-for-palestinian-authority-president-mahmoud-abbas-s-decision-to-stop-peace-talks.md)
-_Context: Israel, Arab League, Palestinian Authority, Mahmoud Abbas, Libya, peace talks_
+_Context: Arab League, peace talks, Palestinian Authority, Israel, Libya, Mahmoud Abbas_
 
 ##### ICC
 ### [The International Criminal Court orders the resumption of the war crimes trial of Congolese militia leader Thomas Lubanga, who is on trial for using children under the age of 15 to fight for his militia during the civil war in the Democratic Republic of Congo. ](/news/2010/10/8/the-international-criminal-court-orders-the-resumption-of-the-war-crimes-trial-of-congolese-militia-leader-thomas-lubanga-who-is-on-trial-f.md)
-_Context: children under the age of 15 to fight, Thomas Lubanga, ICC, civil war in the Democratic Republic of Congo_
+_Context: Thomas Lubanga, ICC, children under the age of 15 to fight, civil war in the Democratic Republic of Congo_
 
 ##### Pakistan army
 ### [Pakistani army Chief of Staff General Ashfaq Parvez Kayani orders an investigation into a video showing the firing squad execution of 6 blindfolded Pakistanis by men dressed in what appear to be Pakistani army uniforms. ](/news/2010/10/8/pakistani-army-chief-of-staff-general-ashfaq-parvez-kayani-orders-an-investigation-into-a-video-showing-the-firing-squad-execution-of-6-blin.md)
-_Context: Pakistani, firing squad, Pakistan army, Ashfaq Parvez Kayani, Chief of Army Staff_
+_Context: Ashfaq Parvez Kayani, Pakistan army, firing squad, Chief of Army Staff, Pakistani_
 
 ##### Burma
 ### [The Supreme Court in Burma agrees to hear an appeal by Aung San Suu Kyi against her house arrest. ](/news/2010/10/8/the-supreme-court-in-burma-agrees-to-hear-an-appeal-by-aung-san-suu-kyi-against-her-house-arrest.md)
-_Context: house arrest, Burma, Aung San Suu Kyi_
+_Context: Aung San Suu Kyi, house arrest, Burma_
 
 ##### France
 ### [France's highest legal authority rules in favour of a ban on facial veils. ](/news/2010/10/8/france-s-highest-legal-authority-rules-in-favour-of-a-ban-on-facial-veils.md)
 _Context: France_
 
-##### U.S.
+##### United States
 ### [United States National Security Advisor General James L. Jones announces his resignation effective in two weeks; his deputy Thomas E. Donilon is expected to replace him. ](/news/2010/10/8/united-states-national-security-advisor-general-james-l-jones-announces-his-resignation-effective-in-two-weeks-his-deputy-thomas-e-donilo.md)
 In an afternoon statement in the White House Rose Garden, President Barack Obama announced Friday that he will name Tom Donilon to be his next National Security Adviser, replacing retiring Gen. James Jones. 
 
 ##### North Korea
 ### [A senior North Korean official, Yang Hyong Sop, confirms that Kim Jong-un will succeed his father Kim Jong-il in an interview with the Associated Press. ](/news/2010/10/8/a-senior-north-korean-official-yang-hyong-sop-confirms-that-kim-jong-un-will-succeed-his-father-kim-jong-il-in-an-interview-with-the-assoc.md)
-_Context: Yang Hyong Sop, Kim Jong-il, Associated Press, Kim Jong-un, North Korea_
+_Context: Kim Jong-il, Associated Press, Yang Hyong Sop, Kim Jong-un, North Korea_
 
 ##### Australia
 ### [The Australian Murray-Darling Basin Authority issues a report calling for water consumption in the 19 catchments of the Murray-Darling basin to be cut by up to half. ](/news/2010/10/8/the-australian-murray-darling-basin-authority-issues-a-report-calling-for-water-consumption-in-the-19-catchments-of-the-murray-darling-basin.md)
@@ -121,7 +121,7 @@ _Context: Chang'e-2_
 
 ##### Russia
 ### [Two Russian cosmonauts, Aleksandr Kaleri and Oleg Skripochka, and American astronaut Scott Kelly leave on mission Soyuz TMA-01M for the International Space Station from Kazakhstan's Baikonur Cosmodrome. ](/news/2010/10/8/two-russian-cosmonauts-aleksandr-kaleri-and-oleg-skripochka-and-american-astronaut-scott-kelly-leave-on-mission-soyuz-tma-01m-for-the-inte.md)
-_Context: U.S., Kazakhstan, Oleg Skripochka, astronaut, International Space Station, Baikonur Cosmodrome, cosmonaut, Russia, Scott Kelly, Aleksandr Kaleri, Soyuz TMA-01M_
+_Context: Russia, Aleksandr Kaleri, United States, Kazakhstan, Oleg Skripochka, International Space Station, Scott Kelly, Baikonur Cosmodrome, cosmonaut, Soyuz TMA-01M, astronaut_
 
 ##### Anthropologists
 ### [Anthropologists claim to have proven that Yersinia pestis was responsible for the Black Death in Medieval Europe. ](/news/2010/10/8/anthropologists-claim-to-have-proven-that-yersinia-pestis-was-responsible-for-the-black-death-in-medieval-europe.md)

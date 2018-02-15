@@ -3,13 +3,13 @@ Formats: [HTML](2009/03/20/index.html)  [JSON](2009/03/20/index.json)  [XML](200
 
 ## [2009-03-20](/news/2009/03/20/index.md)
 
-##### U.S.
+##### United States
 ### [ The United States Navy's USS "Hartford" and USS "New Orleans" collide in the Strait of Hormuz. ](/news/2009/03/20/the-united-states-navy-s-uss-hartford-and-uss-new-orleans-collide-in-the-strait-of-hormuz.md)
-_Context: USS ''Hartford'', USS ''New Orleans'', collide, United States Navy, U.S., Strait of Hormuz_
+_Context: USS ''New Orleans'', Strait of Hormuz, USS ''Hartford'', United States, United States Navy, collide_
 
 ##### Somalia
 ### [ Somali pirates hijack the Greek cargo ship MV "Titan". ](/news/2009/03/20/somali-pirates-hijack-the-greek-cargo-ship-mv-titan.md)
-_Context: Somali pirates, Somalia, MV, cargo ship, Greece_
+_Context: cargo ship, MV, Somali pirates, Greece, Somalia_
 
 ##### Bomb
 ### [ A bomb severely damages a government building in Athens, Greece. ](/news/2009/03/20/a-bomb-severely-damages-a-government-building-in-athens-greece.md)
@@ -17,7 +17,7 @@ A homemade bomb exploded in a central Athens avenue late on Thursday, causing se
 
 ##### Fermi National Accelerator Laboratory
 ### [ The Fermi National Accelerator Laboratory discovers Y(4140), a new subatomic particle. ](/news/2009/03/20/the-fermi-national-accelerator-laboratory-discovers-y-4140-a-new-subatomic-particle.md)
-_Context: Y(4140), subatomic particle, Fermi National Accelerator Laboratory_
+_Context: Fermi National Accelerator Laboratory, subatomic particle, Y(4140)_
 
 ## [Previous Day...](/news/2009/03/19/index.md)
 

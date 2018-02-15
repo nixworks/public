@@ -5,11 +5,11 @@ Formats: [HTML](2016/08/21/index.html)  [JSON](2016/08/21/index.json)  [XML](201
 
 ##### War in Somalia (2009-present)
 ### [An al-Shabaab suicide car bomb kills at least 20 people in the town of Galkayo in Somalia's semi-autonomous Puntland region. ](/news/2016/08/21/an-al-shabaab-suicide-car-bomb-kills-at-least-20-people-in-the-town-of-galkayo-in-somalia-s-semi-autonomous-puntland-region.md)
-_Context: Galkayo, Puntland, Somalia, Al-Shabaab, War in Somalia (2009-present)_
+_Context: Somalia, Al-Shabaab, Puntland, Galkayo, War in Somalia (2009-present)_
 
 ##### Gaziantep bombing
 ### [The death toll from the Turkish wedding bombing rises to 50 with up to 94 people injured. Islamic State in Iraq and the Levant is suspected of conducting the attack. ](/news/2016/08/21/the-death-toll-from-the-turkish-wedding-bombing-rises-to-50-with-up-to-94-people-injured-islamic-state-in-iraq-and-the-levant-is-suspected.md)
-_Context: Gaziantep bombing, Islamic State in Iraq and the Levant_
+_Context: Islamic State in Iraq and the Levant, Gaziantep bombing_
 
 ##### Drug crackdown
 ### [Rodrigo Duterte threatens to withdraw the Philippines from its founding membership of the United Nations after the international body criticized him over alleged human rights violations. ](/news/2016/08/21/rodrigo-duterte-threatens-to-withdraw-the-philippines-from-its-founding-membership-of-the-united-nations-after-the-international-body-critic.md)

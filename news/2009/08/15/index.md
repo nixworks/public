@@ -5,7 +5,7 @@ Formats: [HTML](2009/08/15/index.html)  [JSON](2009/08/15/index.json)  [XML](200
 
 ##### Hamas
 ### [ Hamas police claim to have killed Abdel-Latif Moussa, head of the Islamic group Jund Ansar Allah in a shootout. ](/news/2009/08/15/hamas-police-claim-to-have-killed-abdel-latif-moussa-head-of-the-islamic-group-jund-ansar-allah-in-a-shootout.md)
-_Context: Jund Ansar Allah, shootout, Islam, Abdel-Latif Moussa, Hamas_
+_Context: Hamas, Abdel-Latif Moussa, Islam, Jund Ansar Allah, shootout_
 
 ##### Hong Kong
 ### [ Hong Kong posts 3.3% growth over its previous quarter, far exceeding predictions, signaling an end to its recession. ](/news/2009/08/15/hong-kong-posts-3-3-growth-over-its-previous-quarter-far-exceeding-predictions-signaling-an-end-to-its-recession.md)
@@ -13,11 +13,11 @@ _Context: Hong Kong_
 
 ##### Colombia
 ### [ Colombia claims to have completed talks with the United States to allow US troops to use seven of Colombia's military bases. ](/news/2009/08/15/colombia-claims-to-have-completed-talks-with-the-united-states-to-allow-us-troops-to-use-seven-of-colombia-s-military-bases.md)
-_Context: U.S., Colombia_
+_Context: United States, Colombia_
 
 ##### Japan
 ### [ Japan expresses remorse for its actions in World War II on the anniversary of its 1945 defeat, but former Prime Ministers Junichiro Koizumi and Shinzo Abe visit the Yasukuni Shrine, a controversial war shrine seen as a symbol of its past militarism. ](/news/2009/08/15/japan-expresses-remorse-for-its-actions-in-world-war-ii-on-the-anniversary-of-its-1945-defeat-but-former-prime-ministers-junichiro-koizumi.md)
-_Context: Yasukuni Shrine, controversial, surrender, Prime Minister of Japan, World War II, Japan, Junichiro Koizumi, Shinzo Abe_
+_Context: World War II, Junichiro Koizumi, Prime Minister of Japan, Shinzo Abe, controversial, Yasukuni Shrine, Japan, surrender_
 
 ##### President
 ### [ Former President of Zambia, Frederick Chiluba, awaits the verdict in his trial into his criminal case for being accused of plundering the national economy during his decade-long rule. ](/news/2009/08/15/former-president-of-zambia-frederick-chiluba-awaits-the-verdict-in-his-trial-into-his-criminal-case-for-being-accused-of-plundering-the-n.md)
@@ -29,7 +29,7 @@ The whereabouts of the Finnish-owned vessel and its Russian crew remain unknown.
 
 ##### Suicide bomb
 ### [ A suicide bomb attack occurs outside the NATO headquarters in Kabul, Afghanistan, killing at least seven and injuring 100. ](/news/2009/08/15/a-suicide-bomb-attack-occurs-outside-the-nato-headquarters-in-kabul-afghanistan-killing-at-least-seven-and-injuring-100.md)
-_Context: Afghanistan, Kabul, NATO, suicide bomb_
+_Context: suicide bomb, Kabul, Afghanistan, NATO_
 
 ##### Prison riot
 ### [ A prison riot in the Mexican state of Durango leaves at least 19 people dead and 20 injured. ](/news/2009/08/15/a-prison-riot-in-the-mexican-state-of-durango-leaves-at-least-19-people-dead-and-20-injured.md)

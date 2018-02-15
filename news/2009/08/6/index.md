@@ -9,7 +9,7 @@ Japan has marked 64 years since Hiroshima was hit in the world&#39;s first atomi
 
 ##### Iran
 ### [ Supporters of Iran's opposition leader, Mir-Hossein Mousavi, battle riot police as they hoot horns and take to the streets of Tehran shouting "Death to the dictator". ](/news/2009/08/6/supporters-of-iran-s-opposition-leader-mir-hossein-mousavi-battle-riot-police-as-they-hoot-horns-and-take-to-the-streets-of-tehran-shouti.md)
-_Context: Mir-Hossein Mousavi, Tehran, Mahmoud Ahmadinejad, Iran_
+_Context: Iran, Mahmoud Ahmadinejad, Tehran, Mir-Hossein Mousavi_
 
 ##### India
 ### [ An Indian court sentences to death three people for carrying out bombings that killed more than 50 people in Mumbai in 2003. ](/news/2009/08/6/an-indian-court-sentences-to-death-three-people-for-carrying-out-bombings-that-killed-more-than-50-people-in-mumbai-in-2003.md)
@@ -17,15 +17,15 @@ Court sentences three people to death for their role in bombings that killed at 
 
 ##### Madagascar
 ### [ Malagasy crisis talks resume between interim leader Andry Rajoelina, ousted president Marc Ravalomanana and former presidents Didier Ratsiraka and Albert Zafy in Maputo, Mozambique. ](/news/2009/08/6/malagasy-crisis-talks-resume-between-interim-leader-andry-rajoelina-ousted-president-marc-ravalomanana-and-former-presidents-didier-ratsir.md)
-_Context: Albert Zafy, Maputo, Mozambique, Madagascar, Marc Ravalomanana, Andry Rajoelina, Didier Ratsiraka_
+_Context: Marc Ravalomanana, Didier Ratsiraka, Albert Zafy, Andry Rajoelina, Maputo, Madagascar, Mozambique_
 
 ##### New Zealand
 ### [ New Zealand's Prime Minister John Key says he believes Fiji's self-appointed Prime Minister Commodore Frank Bainimarama has given up on the Pacific Islands Forum. ](/news/2009/08/6/new-zealandas-prime-minister-john-key-says-he-believes-fijias-self-appointed-prime-minister-commodore-frank-bainimarama-has-given-up-on.md)
-_Context: New Zealand, John Key, Prime Minister, Commodore, Voreqe Bainimarama, Prime Minister, Fiji, Pacific Islands Forum_
+_Context: Voreqe Bainimarama, Pacific Islands Forum, New Zealand, John Key, Prime Minister, Prime Minister, Fiji, Commodore_
 
 ##### Argentina
 ### [ Argentina, Brazil and Bolivia express concerns whilst Peru supports a planned accord by Colombian President Alvaro Uribe to allow United States troops to use several bases. Venezuela announces trade measures against Colombia. ](/news/2009/08/6/argentina-brazil-and-bolivia-express-concerns-whilst-peru-supports-a-planned-accord-by-colombian-president-alvaro-uribe-to-allow-united-s.md)
-_Context: Argentina, Venezuela, U.S., Bolivia, Alvaro Uribe, Peru, Colombia, Colombian President, Brazil_
+_Context: Bolivia, Colombian President, United States, Venezuela, Brazil, Peru, Alvaro Uribe, Argentina, Colombia_
 
 ##### Brazil
 ### [ Brazil returns 1.500 tonnes of syringes, condoms and dirty nappies which were sent from the United Kingdom. ](/news/2009/08/6/brazil-returns-1-500-tonnes-of-syringes-condoms-and-dirty-nappies-which-were-sent-from-the-united-kingdom.md)
@@ -37,7 +37,7 @@ Twitter and Facebook suffered service problems today, raising speculation that t
 
 ##### South Africa
 ### [ South African photographer Neil Hartmann, accused of documenting Namibia's annual seal cull, is detained without charge for nearly seven hours less than a month after the arrest of two journalists. ](/news/2009/08/6/south-african-photographer-neil-hartmann-accused-of-documenting-namibia-s-annual-seal-cull-is-detained-without-charge-for-nearly-seven-ho.md)
-_Context: South Africa, Namibia, Neil Hartmann_
+_Context: South Africa, Neil Hartmann, Namibia_
 
 ##### South Korea
 ### [ A company manager claims that an 77-day occupation of a car plant by hundreds of laid-off workers in South Korea has come to an end. ](/news/2009/08/6/a-company-manager-claims-that-an-77-day-occupation-of-a-car-plant-by-hundreds-of-laid-off-workers-in-south-korea-has-come-to-an-end.md)
@@ -49,17 +49,17 @@ Japan’s first jury trial in more than a half century concluded as a panel of t
 
 ##### Iran
 ### [ Iran bans all pilgrimages to Saudi Arabia during the Islamic holy month of Ramadan in an attempt to contain the spread of swine flu. ](/news/2009/08/6/iran-bans-all-pilgrimages-to-saudi-arabia-during-the-islamic-holy-month-of-ramadan-in-an-attempt-to-contain-the-spread-of-swine-flu.md)
-_Context: swine flu, Ramadan, Saudi Arabia, Iran, attempt to contain the spread, Islam_
+_Context: Islam, swine flu, Ramadan, Saudi Arabia, Iran, attempt to contain the spread_
 
 ##### Pune
 ### [ Hundreds of panic-stricken people queue at hospitals in Pune, India, to be tested for swine flu following the first death from the disease in that country. ](/news/2009/08/6/hundreds-of-panic-stricken-people-queue-at-hospitals-in-pune-india-to-be-tested-for-swine-flu-following-the-first-death-from-the-disease.md)
-_Context: first death from the disease, India, Pune_
+_Context: Pune, first death from the disease, India_
 
 ##### Iraq
 ### [ The Iraqi cabinet agrees a draft law to restrict smoking in public places and ban tobacco advertising. ](/news/2009/08/6/the-iraqi-cabinet-agrees-a-draft-law-to-restrict-smoking-in-public-places-and-ban-tobacco-advertising.md)
-_Context: smoking, tobacco, Iraq_
+_Context: smoking, Iraq, tobacco_
 
-##### President
+##### President of South Africa
 ### [ President Jacob Zuma names Sandile Ngcobo as Chief Justice of South Africa. ](/news/2009/08/6/president-jacob-zuma-names-sandile-ngcobo-as-chief-justice-of-south-africa.md)
 Will Judge Sandile Ngcobo be chief justice for just two years before giving way, perhaps to controversial Western Cape Judge President John Hlophe?
 
@@ -69,11 +69,11 @@ Judge Sonia Sotomayor won approval on Thursday to become the first Hispanic on t
 
 ##### Melle
 ### [ At least nine people are killed and several inhale fumes after a fire at a retirement home in Melle, Belgium. ](/news/2009/08/6/at-least-nine-people-are-killed-and-several-inhale-fumes-after-a-fire-at-a-retirement-home-in-melle-belgium.md)
-_Context: Belgium, Melle_
+_Context: Melle, Belgium_
 
 ##### Democratic Republic of Congo
 ### [ The Presidents of Democratic Republic of Congo and Rwanda, Joseph Kabila and Paul Kagame, pledge to boost economic and security ties after a rare meeting. ](/news/2009/08/6/the-presidents-of-democratic-republic-of-congo-and-rwanda-joseph-kabila-and-paul-kagame-pledge-to-boost-economic-and-security-ties-after.md)
-_Context: Paul Kagame, Rwanda, Democratic Republic of Congo, Kabila government_
+_Context: Rwanda, Kabila government, Paul Kagame, Democratic Republic of Congo_
 
 ##### AIDS
 ### [ Scientists say they have decoded the entire genetic structure of HIV-1&mdash;the main cause of AIDS in humans. ](/news/2009/08/6/scientists-say-they-have-decoded-the-entire-genetic-structure-of-hiv-1-mdash-the-main-cause-of-aids-in-humans.md)
@@ -81,15 +81,15 @@ _Context: AIDS_
 
 ##### News Corporation
 ### [ News Corp. announces its intent to start charging online customers for news content across all its websites, including "The Times", "The Sun", "The Wall Street Journal", "New York Post" and "Herald Sun". ](/news/2009/08/6/news-corp-announces-its-intent-to-start-charging-online-customers-for-news-content-across-all-its-websites-including-the-times-the-su.md)
-_Context: The Wall Street Journal, Times, New York Post, Herald Sun, The Sun, News Corporation_
+_Context: News Corporation, New York Post, The Sun, The Wall Street Journal, Herald Sun, Times_
 
 ##### Indus River
 ### [ At least 34 people are feared dead after their bus plunges into the Indus River in Pakistan. ](/news/2009/08/6/at-least-34-people-are-feared-dead-after-their-bus-plunges-into-the-indus-river-in-pakistan.md)
-_Context: Pakistan, Indus River_
+_Context: Indus River, Pakistan_
 
 ##### Slender-billed Vulture
 ### [ The Slender-billed Vulture, one of the world's most endangered birds and said to be rarer than the Tiger, is twice successfully bred in Haryana and West Bengal. ](/news/2009/08/6/the-slender-billed-vulture-one-of-the-world-s-most-endangered-birds-and-said-to-be-rarer-than-the-tiger-is-twice-successfully-bred-in-har.md)
-_Context: Haryana, West Bengal, Tiger, Slender-billed Vulture_
+_Context: Tiger, Haryana, Slender-billed Vulture, West Bengal_
 
 ## [Previous Day...](/news/2009/08/5/index.md)
 

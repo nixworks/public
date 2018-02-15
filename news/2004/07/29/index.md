@@ -13,7 +13,7 @@ _Context: 1998 U.S. embassy bombings, FBI Most Wanted Terrorists, Pakistan, Ahme
 
 ##### Bank of England
 ### [ The Bank of England says that consumer debt in the United Kingdom has passed one trillion pounds for the first time. Coupled with increasing interest rates, this increased amount of debt has caused a sharp rise in the number of people seeking help with money problems &ndash; up 44% on five years ago. ](/news/2004/07/29/the-bank-of-england-says-that-consumer-debt-in-the-united-kingdom-has-passed-one-trillion-pounds-for-the-first-time-coupled-with-increasin.md)
-_Context: trillion, Bank of England, interest rate, GBP, consumer, debt_
+_Context: trillion, GBP, debt, Bank of England, consumer, interest rate_
 
 ##### Sydney Opera House
 ### [ Two Australian anti-war protestors who daubed "No War" in red paint on the top sail of the Sydney Opera House on March 18, 2003, take their case to the New South Wales Court of Appeal. David Burgess, 33, and Will Saunders, 42, claim their defence of self-defence was not heard by their original trial judge. ](/news/2004/07/29/two-australian-anti-war-protestors-who-daubed-no-war-in-red-paint-on-the-top-sail-of-the-sydney-opera-house-on-march-18-2003-take-their.md)
@@ -21,7 +21,7 @@ _Context: Sydney Opera House_
 
 ##### ICC
 ### [ The International Criminal Court says it will launch an investigation into ongoing atrocities at the Barlonyo refugee camp in northern Uganda. Reports say that more than 200 people have killed by rebels from the Lord's Resistance Army since the beginning of the year. ](/news/2004/07/29/the-international-criminal-court-says-it-will-launch-an-investigation-into-ongoing-atrocities-at-the-barlonyo-refugee-camp-in-northern-ugan.md)
-_Context: Barlonyo, ICC, Lord's Resistance Army, Uganda_
+_Context: Lord's Resistance Army, Barlonyo, ICC, Uganda_
 
 ##### Vietnam
 ### [ In Vietnam, dissident pro-democracy activist Dr Nguyen Dan Que is sentenced by the Ho Chi Minh People's Court for "abusing democratic rights to jeopardise the interests of the state, and the legitimate rights and interests of social organisations and citizens". Que is the third dissident this month to be jailed after using the Internet to criticise the ruling Communist government. ](/news/2004/07/29/in-vietnam-dissident-pro-democracy-activist-dr-nguyen-dan-que-is-sentenced-by-the-ho-chi-minh-people-s-court-for-abusing-democratic-right.md)
@@ -33,7 +33,7 @@ Find a local lawyer and free legal information at FindLaw, the award-winning web
 
 ##### Monterey Bay Aquarium
 ### [ Scientists at the Monterey Bay Aquarium Research Institute announce the discovery of a new genus of deep sea worms, "Osedax" (meaning "bone devourer"). The worms feed on lipids found in the bones of whale carcasses. ](/news/2004/07/29/scientists-at-the-monterey-bay-aquarium-research-institute-announce-the-discovery-of-a-new-genus-of-deep-sea-worms-osedax-meaning-bone.md)
-_Context: whale, Osedax, Monterey Bay Aquarium, lipid_
+_Context: lipid, Osedax, whale, Monterey Bay Aquarium_
 
 ## [Previous Day...](/news/2004/07/28/index.md)
 

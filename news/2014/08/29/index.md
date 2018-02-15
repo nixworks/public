@@ -9,7 +9,7 @@ Three million Syrian refugees will have registered in neighboring countries as o
 
 ##### Brazil
 ### [Brazil's economy falls into recession. ](/news/2014/08/29/brazil-s-economy-falls-into-recession.md)
-_Context: recession, Brazil_
+_Context: Brazil, recession_
 
 ##### Malaysian Airlines
 ### [Malaysian Airlines announces plans to lay off 6000 staff as a result of a restructuring following the loss of two aircraft in disasters this year. ](/news/2014/08/29/malaysian-airlines-announces-plans-to-lay-off-6000-staff-as-a-result-of-a-restructuring-following-the-loss-of-two-aircraft-in-disasters-this.md)
@@ -25,7 +25,7 @@ A major volcanic eruption in Rabaul on PNG&#039;s East New Britain Island has le
 
 ##### Fuquan
 ### [The death toll from a landslide in a village near Fuquan in Guizhou province on Wednesday rises to 15. ](/news/2014/08/29/the-death-toll-from-a-landslide-in-a-village-near-fuquan-in-guizhou-province-on-wednesday-rises-to-15.md)
-_Context: Fuquan, Guizhou_
+_Context: Guizhou, Fuquan_
 
 ##### 2014 West Africa Ebola virus outbreak
 ### [The first case of Ebola virus is reported in Senegal. ](/news/2014/08/29/the-first-case-of-ebola-virus-is-reported-in-senegal.md)
@@ -33,7 +33,7 @@ _Context: Senegal, 2014 West Africa Ebola virus outbreak, Ebola virus_
 
 ##### United Kingdom
 ### [The United Kingdom raises its terror threat level from "substantial" to "severe" in response to conflicts in Iraq and Syria. ](/news/2014/08/29/the-united-kingdom-raises-its-terror-threat-level-from-substantial-to-severe-in-response-to-conflicts-in-iraq-and-syria.md)
-_Context: Iraq, Syria, United Kingdom, terror threat level_
+_Context: Syria, United Kingdom, terror threat level, Iraq_
 
 ## [Previous Day...](/news/2014/08/28/index.md)
 

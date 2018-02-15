@@ -16,7 +16,7 @@ Thursday’s vote is seen as an important gauge of the country’s democratic re
 
 ### Changes:
 
-1. [ Algeria's presidential election takes place. ](/news/2009/04/9/algeria-s-presidential-election-takes-place.md) _2018-02-13 04:08:32 (First version)_
+1. [ Algeria's presidential election takes place. ](/news/2009/04/9/algeria-s-presidential-election-takes-place.md) _2018-02-14 04:06:49 (First version)_
 1. [ Indonesia's legislative election takes place. ](/news/2009/04/9/indonesia-s-legislative-election-takes-place.md) _(Current version)_
 
 ### Related:

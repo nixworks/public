@@ -33,7 +33,7 @@ Five people on board an Iranian helicopter were killed when it crashed into the 
 
 ##### Mass shooting
 ### [One person is killed, and nine others wounded in a mass shooting in the French Quarter section of New Orleans, following the Bayou Classic football game. Police arrest two men, one of whom was injured during the shooting. ](/news/2016/11/27/one-person-is-killed-and-nine-others-wounded-in-a-mass-shooting-in-the-french-quarter-section-of-new-orleans-following-the-bayou-classic-f.md)
-_Context: New Orleans, Bayou Classic, French Quarter, mass shooting_
+_Context: mass shooting, New Orleans, French Quarter, Bayou Classic_
 
 ##### The Republicans (France) presidential primary, 2016
 ### [A second-round runoff takes place in France between Francois Fillon and Alain Juppe to decide who will be the Republican presidential candidate in next year's presidential election. ](/news/2016/11/27/a-second-round-runoff-takes-place-in-france-between-franassois-fillon-and-alain-juppa-c-to-decide-who-will-be-the-republican-presidential-cand.md)
@@ -41,7 +41,7 @@ Francois Fillon looks set to win the French Republican primaries.
 
 ##### Swiss referendums, 2016
 ### [In a referendum, Switzerland rejects a proposal to abolish commercial nuclear power by 2029. ](/news/2016/11/27/in-a-referendum-switzerland-rejects-a-proposal-to-abolish-commercial-nuclear-power-by-2029.md)
-_Context: Switzerland, Swiss referendums, 2016, nuclear power_
+_Context: Swiss referendums, 2016, Switzerland, nuclear power_
 
 ##### 2016 United States presidential election recount and audit
 ### [The campaign of Republican president-elect Donald Trump has called the planned recounts by Green nominee Jill Stein's campaign in Wisconsin, Pennsylvania and Michigan a "scam" and has criticized the participation of the campaign of Democratic candidate Hillary Clinton. ](/news/2016/11/27/the-campaign-of-republican-presidentaelect-donald-trump-has-called-the-planned-recounts-by-green-nominee-jill-stein-s-campaign-in-wisconsi.md)

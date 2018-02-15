@@ -13,7 +13,7 @@ The explosion created a small crater near the building complex.
 
 ##### Explosion
 ### [One person is killed and six others injured in an explosion at JCG Farms, an American feed mill near Atlanta, Georgia. ](/news/2016/02/7/one-person-is-killed-and-six-others-injured-in-an-explosion-at-jcg-farms-an-american-feed-mill-near-atlanta-georgia.md)
-_Context: explosion, Atlanta, Georgia, feed mill_
+_Context: feed mill, explosion, Atlanta, Georgia_
 
 ##### North Korea's nuclear program
 ### [North Korea launches a long range rocket that critics claim is a test of banned technology for a long range missile that could hit the United States. South Korea's military says the rocket released an object into orbit. ](/news/2016/02/7/north-korea-launches-a-long-range-rocket-that-critics-claim-is-a-test-of-banned-technology-for-a-long-range-missile-that-could-hit-the-unite.md)
@@ -33,7 +33,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ##### Hamas
 ### [Hamas reports it has executed one of its commanders, Mahmoud Eshtewi, for "moral and behavioral violations." Human Rights Watch, contacted by Eshtewi's family, had been monitoring the case. ](/news/2016/02/7/hamas-reports-it-has-executed-one-of-its-commanders-mahmoud-eshtewi-for-amoral-and-behavioral-violations-a-human-rights-watch-contact.md)
-_Context: Hamas, Human Rights Watch_
+_Context: Human Rights Watch, Hamas_
 
 ##### Haiti
 ### [Politicians in Haiti agree to a process to select an interim President to replace Michel Martelly. Presidential elections will be held on April 14 with the winner to be sworn in on 14 May. ](/news/2016/02/7/politicians-in-haiti-agree-to-a-process-to-select-an-interim-president-to-replace-michel-martelly-presidential-elections-will-be-held-on-ap.md)
@@ -41,7 +41,7 @@ Politicians in Haiti reach an agreement to install a transitional government hou
 
 ##### Parliament of Algeria
 ### [The Parliament of Algeria considers a new constitution imposing term limits for the President and recognising Amazigh as an official language. ](/news/2016/02/7/the-parliament-of-algeria-considers-a-new-constitution-imposing-term-limits-for-the-president-and-recognising-amazigh-as-an-official-languag.md)
-_Context: term limits, Parliament of Algeria, Amazigh_
+_Context: Amazigh, Parliament of Algeria, term limits_
 
 ## [Previous Day...](/news/2016/02/6/index.md)
 

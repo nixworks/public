@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/04/16/the-united-states-congress-negotiates-a-deal-to
 
 ### [2015-04-16](/news/2015/04/16/index.md)
 
-##### Lawmakers
+##### Congress
 # The United States Congress negotiates a deal to fast track the Trans-Pacific Partnership between the US and Australia, Brunei, Canada, Chile, Japan, Malaysia, Mexico, New Zealand, Peru, Singapore and Vietnam. 
 
 

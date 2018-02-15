@@ -13,7 +13,7 @@ Top OPEC oil exporter Saudi Arabia has told the producer group it will not atten
 
 ##### 2016 Pacific typhoon season
 ### [Ninoy Aquino International Airport in Manila announces the cancellation of 20 flights due to bad weather in the Philippines caused by Tropical Storm Marce. ](/news/2016/11/25/ninoy-aquino-international-airport-in-manila-announces-the-cancellation-of-20-flights-due-to-bad-weather-in-the-philippines-caused-by-tropic.md)
-_Context: Ninoy Aquino International Airport, 2016 Pacific typhoon season, Manila, Philippines_
+_Context: Manila, Ninoy Aquino International Airport, Philippines, 2016 Pacific typhoon season_
 
 ##### Semnan-Damghan train collision
 ### [Two passenger trains collide in Iran's Semnan Province resulting in at least 44 deaths and 100 people injured. ](/news/2016/11/25/two-passenger-trains-collide-in-iran-s-semnan-province-resulting-in-at-least-44-deaths-and-100-people-injured.md)
@@ -37,11 +37,11 @@ Calls to halt negotiations with Ankara angers the country&#039;s leader, who war
 
 ##### United States-Yemen relations
 ### [WikiLeaks releases 500 internal documents and emails allegedly from the American Embassy in Sana'a, Yemen. ](/news/2016/11/25/wikileaks-releases-500-internal-documents-and-emails-allegedly-from-the-american-embassy-in-sana-a-yemen.md)
-_Context: WikiLeaks, 500 internal documents and emails, United States-Yemen relations, Sana'a_
+_Context: 500 internal documents and emails, United States-Yemen relations, WikiLeaks, Sana'a_
 
 ##### Supreme Court of Norway
 ### [The Supreme Court of Norway rejects NSA whistleblower Edward Snowden's extradition lawsuit against the Norwegian government. ](/news/2016/11/25/the-supreme-court-of-norway-rejects-nsa-whistleblower-edward-snowden-s-extradition-lawsuit-against-the-norwegian-government.md)
-_Context: Edward Snowden, NSA, Norway, Supreme Court of Norway_
+_Context: Edward Snowden, National Security Agency, Supreme Court of Norway, Norway_
 
 ##### Sindh
 ### [The Sindh province of Pakistan passes a law against forced religious conversions, carrying a minimum five-year sentence and a maximum sentence of life imprisonment, following criticism over protection of minorities in the country. ](/news/2016/11/25/the-sindh-province-of-pakistan-passes-a-law-against-forced-religious-conversions-carrying-a-minimum-five-year-sentence-and-a-maximum-senten.md)
@@ -69,7 +69,7 @@ _Context: Brazil, president, Michel Temer, Geddel Vieira Lima, cabinet_
 
 ##### Fidel Castro
 ### [Fidel Castro, founder of the Communist Party of Cuba, former Prime Minister and former President of Cuba, dies at the age of 90. ](/news/2016/11/25/fidel-castro-founder-of-the-communist-party-of-cuba-former-prime-minister-and-former-president-of-cuba-dies-at-the-age-of-90.md)
-_Context: Cuba, Fidel Castro, Prime Minister, President, Communist Party of Cuba_
+_Context: President, Fidel Castro, Prime Minister, Cuba, Communist Party of Cuba_
 
 ## [Previous Day...](/news/2016/11/24/index.md)
 

@@ -9,7 +9,7 @@ Aid agencies warn of dire humanitarian conditions as bombings knock out civilian
 
 ##### Territorial disputes in the South China Sea
 ### [United States Pacific Fleet commander Scott H. Swift warns of a possible South China Sea arms race. ](/news/2015/12/15/united-states-pacific-fleet-commander-scott-h-swift-warns-of-a-possible-south-china-sea-arms-race.md)
-_Context: Territorial disputes in the South China Sea, South China Sea, Scott H. Swift, United States Pacific Fleet_
+_Context: South China Sea, United States Pacific Fleet, Scott H. Swift, Territorial disputes in the South China Sea_
 
 ##### Islamist insurgency in Nigeria
 ### [At least 30 people are killed after Boko Haram militants attack three villages in Nigeria's northeast Borno state. ](/news/2015/12/15/at-least-30-people-are-killed-after-boko-haram-militants-attack-three-villages-in-nigeria-s-northeast-borno-state.md)
@@ -23,9 +23,9 @@ The French air force used its first cruise missiles against Islamic State group 
 ### [Typhoon Melor (Nona) causes widespread flooding and blackouts in the Philippines. More than 700,000 people had been evacuated ahead of the storm which hit late on Monday night. ](/news/2015/12/15/typhoon-melor-nona-causes-widespread-flooding-and-blackouts-in-the-philippines-more-than-700-000-people-had-been-evacuated-ahead-of-the-s.md)
 Typhoon Melor roared through the storm-scarred central islands of the country on Tuesday, leaving floods, debris and widespread blackouts in its wake.
 
-##### U.S.
+##### United States
 ### [The United States Food and Drug Administration approves the Merck & Co. drug, Bridion, that reverses the effects of muscle relaxants used during surgery. ](/news/2015/12/15/the-united-states-food-and-drug-administration-approves-the-merck-co-drug-bridion-that-reverses-the-effects-of-muscle-relaxants-used-du.md)
-_Context: Bridion, Food and Drug Administration, U.S., Merck & Co., muscle relaxant_
+_Context: United States, Bridion, Merck & Co., muscle relaxant, Food and Drug Administration_
 
 ##### Saudi Arabia
 ### [Saudi Arabia announces the formation of a 34-member Islamic Military Alliance against terrorism including Egypt, Qatar, the United Arab Emirates, Turkey, Malaysia and Pakistan with a joint operations centre based in Riyadh. ](/news/2015/12/15/saudi-arabia-announces-the-formation-of-a-34-member-islamic-military-alliance-against-terrorism-including-egypt-qatar-the-united-arab-emir.md)
@@ -53,7 +53,7 @@ A 21-year-old man is arrested in Berkshire, UK, as part of an investigation into
 
 ##### Flag referendum
 ### [New Zealand announces the flag design chosen by the public that will challenge the current flag in a March 2016 vote. Voters will choose between the current flag, which features the British Union Jack with a dark blue background, and the challenger, a silver fern and four red stars on a black and blue background. ](/news/2015/12/15/new-zealand-announces-the-flag-design-chosen-by-the-public-that-will-challenge-the-current-flag-in-a-march-2016-vote-voters-will-choose-bet.md)
-_Context: current flag, flag referendum, New Zealand, silver fern and four red stars_
+_Context: flag referendum, silver fern and four red stars, New Zealand, current flag_
 
 ##### Soyuz TMA-19M
 ### [The Soyuz TMA-19M, consisting of Expedition 46 crew members Yuri Malenchenko (RSA), Timothy Kopra (NASA) and Tim Peake (ESA), launches from the Baikonur Cosmodrome in Kazakhstan for the International Space Station (ISS) with Peake becoming the first Briton to represent the European Space Agency at the ISS. ](/news/2015/12/15/the-soyuz-tma-19m-consisting-of-expedition-46-crew-members-yuri-malenchenko-rsa-timothy-kopra-nasa-and-tim-peake-esa-launches-from.md)

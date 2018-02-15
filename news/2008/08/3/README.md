@@ -5,7 +5,7 @@ Formats: [HTML](2008/08/3/index.html)  [JSON](2008/08/3/index.json)  [XML](2008/
 
 ##### Die in a stampede
 ### [ 162 people die in a stampede at a Hindu temple in Naina Devi in the northern Indian state of Himachal Pradesh. ](/news/2008/08/3/162-people-die-in-a-stampede-at-a-hindu-temple-in-naina-devi-in-the-northern-indian-state-of-himachal-pradesh.md)
-_Context: Hindu, Naina Devi, die in a stampede, Himachal Pradesh, India, temple_
+_Context: India, die in a stampede, Hindu, Himachal Pradesh, temple, Naina Devi_
 
 ##### North Korea
 ### [ North Korea says that it will expel "unnecessary" South Korean staff from the Kumgangsan resort and threatens military action in an escalation of tension over the shooting of a South Korean tourist. ](/news/2008/08/3/north-korea-says-that-it-will-expel-unnecessary-south-korean-staff-from-the-kumgangsan-resort-and-threatens-military-action-in-an-escalat.md)
@@ -21,11 +21,11 @@ _Context: safety, Qantas Flight 30, Civil Aviation Safety Authority, Qantas_
 
 ##### Roadside bombing
 ### [ At least 21 street cleaners are killed by a roadside bombing in Mogadishu, Somalia. ](/news/2008/08/3/at-least-21-street-cleaners-are-killed-by-a-roadside-bombing-in-mogadishu-somalia.md)
-_Context: Somalia, Mogadishu, roadside bombing_
+_Context: roadside bombing, Mogadishu, Somalia_
 
 ##### Baghdad
 ### [ 12 people are killed when a minibus explodes in Baghdad, Iraq. ](/news/2008/08/3/12-people-are-killed-when-a-minibus-explodes-in-baghdad-iraq.md)
-_Context: Baghdad, Iraq_
+_Context: Iraq, Baghdad_
 
 ##### K2 mountain
 ### [ 11 climbers are feared to have died in an avalanche at K2 mountain in Pakistan. ](/news/2008/08/3/11-climbers-are-feared-to-have-died-in-an-avalanche-at-k2-mountain-in-pakistan.md)

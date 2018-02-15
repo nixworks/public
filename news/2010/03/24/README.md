@@ -5,7 +5,7 @@ Formats: [HTML](2010/03/24/index.html)  [JSON](2010/03/24/index.json)  [XML](201
 
 ##### Chancellor of the Exchequer
 ### [United Kingdom Chancellor Alistair Darling presents his 2010 United Kingdom Budget to the House of Commons.](/news/2010/03/24/united-kingdom-chancellor-alistair-darling-presents-his-2010-united-kingdom-budget-to-the-house-of-commons.md)
-_Context: the House of Commons, Alistair Darling, Chancellor of the Exchequer, 2010 United Kingdom Budget_
+_Context: Alistair Darling, Chancellor of the Exchequer, the House of Commons, 2010 United Kingdom Budget_
 
 ##### South Talpatti Island
 ### [Tiny South Talpatti Island off the coast of Bengal disappears, washed away thirty years after the mud flat island was created by delta currents, ending the Indian and Bangladeshi dispute over the territory. The Calcutta Institute raised fears over more islands, such as the Maldives, going under in the future. ](/news/2010/03/24/tiny-south-talpatti-island-off-the-coast-of-bengal-disappears-washed-away-thirty-years-after-the-mud-flat-island-was-created-by-delta-curre.md)
@@ -13,11 +13,11 @@ The New Moore island near the Bay of Bengal is being swallowed by the rising sea
 
 ##### European Union
 ### [The European Union calls for Iran to halt internet censorship and jamming of radio broadcasts. ](/news/2010/03/24/the-european-union-calls-for-iran-to-halt-internet-censorship-and-jamming-of-radio-broadcasts.md)
-_Context: jamming, censorship, Iran, European Union_
+_Context: Iran, jamming, European Union, censorship_
 
 ##### Luis Moreno-Ocampo
 ### [Luis Moreno-Ocampo, Prosecutor of the International Criminal Court (ICC), says that monitoring Sudan's election next month would be like monitoring a vote in Hitler's Germany. ](/news/2010/03/24/luis-moreno-ocampo-prosecutor-of-the-international-criminal-court-icc-says-that-monitoring-sudan-s-election-next-month-would-be-like-mon.md)
-_Context: ICC, Nazi, Sudan, Luis Moreno-Ocampo, Hitler_
+_Context: Luis Moreno-Ocampo, Hitler, Sudan, ICC, Nazi_
 
 ##### Al-Qaeda
 ### [More than 100 people with possible links to Al-Qaeda are arrested in Saudi Arabia for allegedly planning attacks on oil and security installations in the country. ](/news/2010/03/24/more-than-100-people-with-possible-links-to-al-qaeda-are-arrested-in-saudi-arabia-for-allegedly-planning-attacks-on-oil-and-security-install.md)
@@ -33,7 +33,7 @@ The euro has tumbled to its lowest level in 10 months against the dollar after F
 
 ##### Sharia law
 ### [A Sharia court in Kaduna bans the Civil Rights Congress of Nigeria from debating punishment amputations via Twitter. ](/news/2010/03/24/a-sharia-court-in-kaduna-bans-the-civil-rights-congress-of-nigeria-from-debating-punishment-amputations-via-twitter.md)
-_Context: Civil Rights Congress of Nigeria, sharia law, Twitter, Kaduna_
+_Context: Twitter, Civil Rights Congress of Nigeria, Kaduna, sharia law_
 
 ##### Norway
 ### [An out-of-control train derailment in Norway kills three people and seriously injures several others. ](/news/2010/03/24/an-out-of-control-train-derailment-in-norway-kills-three-people-and-seriously-injures-several-others.md)
@@ -41,15 +41,15 @@ _Context: Norway_
 
 ##### Denisova hominin
 ### [Scientists identify the Denisova hominin - a previously unknown type of ancient human through DNA analysis from a finger found in a cave in Siberia, Russia. ](/news/2010/03/24/scientists-identify-the-denisova-hominin-a-previously-unknown-type-of-ancient-human-through-dna-analysis-from-a-finger-found-in-a-cave-in.md)
-_Context: Russia, Siberia, Denisova hominin, DNA, human_
+_Context: human, DNA, Russia, Denisova hominin, Siberia_
 
 ##### Go Daddy
 ### [Go Daddy, the largest domain name registration company in the world, announces it will cease registering websites in China after the Chinese government required customers to provide photographs and other identifying information before registering. ](/news/2010/03/24/go-daddy-the-largest-domain-name-registration-company-in-the-world-announces-it-will-cease-registering-websites-in-china-after-the-chinese.md)
-_Context: China, government, Go Daddy_
+_Context: government, Go Daddy, China_
 
 ##### Indonesia
 ### [Indonesia bans a conference of Asian gay activists, saying it could prompt violent protests by conservative Muslim groups. ](/news/2010/03/24/indonesia-bans-a-conference-of-asian-gay-activists-saying-it-could-prompt-violent-protests-by-conservative-muslim-groups.md)
-_Context: Indonesia, Muslim, homosexual_
+_Context: Indonesia, homosexual, Muslim_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI accepts the resignation of Bishop of Cloyne John Magee. ](/news/2010/03/24/pope-benedict-xvi-accepts-the-resignation-of-bishop-of-cloyne-john-magee.md)
@@ -57,11 +57,11 @@ Pope Benedict XVI has accepted the resignation of Bishop of Cloyne John Magee.
 
 ##### Mathematician
 ### [American mathematician John Tate wins the Abel Prize for advancing "one of the most elaborate and sophisticated branches of modern mathematics" ](/news/2010/03/24/american-mathematician-john-tate-wins-the-abel-prize-for-advancing-one-of-the-most-elaborate-and-sophisticated-branches-of-modern-mathemati.md)
-_Context: John Tate, mathematics, Abel Prize, mathematician_
+_Context: mathematics, Abel Prize, John Tate, mathematician_
 
 ##### Indonesia
 ### [A landslide kills at least three, injures 11 in Indonesia's West Sumatra in Saok Laweh village. ](/news/2010/03/24/a-landslide-kills-at-least-three-injures-11-in-indonesia-s-west-sumatra-in-saok-laweh-village.md)
-_Context: Indonesia, West Sumatra, Saok Laweh_
+_Context: Saok Laweh, Indonesia, West Sumatra_
 
 ##### Wikipedia
 ### [The online encyclopedia Wikipedia goes offline, with users encountering navigation error messages. ](/news/2010/03/24/the-online-encyclopedia-wikipedia-goes-offline-with-users-encountering-navigation-error-messages.md)
@@ -73,7 +73,7 @@ _Context: Ann Coulter, University of Ottawa_
 
 ##### Craig David
 ### [Craig David is named as a United Nations Goodwill Ambassador. ](/news/2010/03/24/craig-david-is-named-as-a-united-nations-goodwill-ambassador.md)
-_Context: Goodwill Ambassador, Craig David, United Nations_
+_Context: Goodwill Ambassador, United Nations, Craig David_
 
 ## [Previous Day...](/news/2010/03/23/index.md)
 

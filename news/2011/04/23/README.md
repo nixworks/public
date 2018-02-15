@@ -13,7 +13,7 @@ NATO carried out another series of air strikes on Tripoli early Saturday, Libyan
 
 ##### Guest list
 ### [The guest list for the wedding of Prince William and Catherine Middleton is announced. ](/news/2011/04/23/the-guest-list-for-the-wedding-of-prince-william-and-catherine-middleton-is-announced.md)
-_Context: guest list, wedding of Prince William and Catherine Middleton_
+_Context: wedding of Prince William and Catherine Middleton, guest list_
 
 ##### China
 ### [Police in China raid a Tibetan monastery in Sichuan, killing two people according to a rights group. ](/news/2011/04/23/police-in-china-raid-a-tibetan-monastery-in-sichuan-killing-two-people-according-to-a-rights-group.md)

@@ -21,7 +21,7 @@ Kim Jong-un sent a top official to China as ties between the two countries remai
 
 ##### Netherlands
 ### [Documents are secured as Dutch authorities execute a tax raid on Spyker Cars' headquarters on behalf of the Swedish tax authorities. ](/news/2013/05/22/documents-are-secured-as-dutch-authorities-execute-a-tax-raid-on-spyker-cars-headquarters-on-behalf-of-the-swedish-tax-authorities.md)
-_Context: Netherlands, Spyker Cars, Sweden_
+_Context: Sweden, Netherlands, Spyker Cars_
 
 ##### Australian
 ### [Australian politician Craig Thomson is charged with an additional 19 charges including 15 of fraud and 4 of theft. ](/news/2013/05/22/australian-politician-craig-thomson-is-charged-with-an-additional-19-charges-including-15-of-fraud-and-4-of-theft.md)

@@ -5,11 +5,11 @@ Formats: [HTML](2014/11/7/index.html)  [JSON](2014/11/7/index.json)  [XML](2014/
 
 ##### 2014 military intervention against ISIS
 ### [United States President Barack Obama orders 1500 more troops into Iraq. ](/news/2014/11/7/united-states-president-barack-obama-orders-1500-more-troops-into-iraq.md)
-_Context: Iraq, Barack Obama, 2014 military intervention against ISIS, U.S._
+_Context: 2014 military intervention against ISIS, Iraq, United States, Barack Obama_
 
 ##### Philippines
 ### [The Philippines commemorates the anniversary of Typhoon Haiyan (Yolanda) which destroyed much of the city of Tacloban. ](/news/2014/11/7/the-philippines-commemorates-the-anniversary-of-typhoon-haiyan-yolanda-which-destroyed-much-of-the-city-of-tacloban.md)
-_Context: Typhoon Haiyan (Yolanda), Tacloban, Philippines_
+_Context: Philippines, Tacloban, Typhoon Haiyan (Yolanda)_
 
 ##### Obamacare
 ### [The U.S. Supreme Court agrees to hear federal subsidies cases concerning the law. ](/news/2014/11/7/the-u-s-supreme-court-agrees-to-hear-federal-subsidies-cases-concerning-the-law.md)

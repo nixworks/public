@@ -5,7 +5,7 @@ Formats: [HTML](2012/10/8/index.html)  [JSON](2012/10/8/index.json)  [XML](2012/
 
 ##### Mexican Drug War
 ### [Mexican Drug War: Initial reports from the Mexican Navy indicate that Heriberto Lazcano Lazcano, the top leader of the most dangerous Mexican criminal organization known as Los Zetas, may have been killed in a shootout. The forensic tests are currently on their way to confirm his identity. ](/news/2012/10/8/mexican-drug-war-initial-reports-from-the-mexican-navy-indicate-that-heriberto-lazcano-lazcano-the-top-leader-of-the-most-dangerous-mexica.md)
-_Context: Zetas, Mexican Drug War, Heriberto Lazcano Lazcano_
+_Context: Heriberto Lazcano Lazcano, Zetas, Mexican Drug War_
 
 ##### Tampa Tribune
 ### [The "Tampa Tribune" and sister site TBO.com are sold to Revolution Capital Group by Media General for $9.5 million. ](/news/2012/10/8/the-tampa-tribune-and-sister-site-tbo-com-are-sold-to-revolution-capital-group-by-media-general-for-9-5-million.md)
@@ -13,7 +13,7 @@ On the market for several months, the Tampa Tribune and its website partner have
 
 ##### Liquid nitrogen
 ### [Scientists warn of the dangers of using liquid nitrogen in drinks after a teenage girl from the United Kingdom required emergency surgery upon consuming a cocktail containing the substance. ](/news/2012/10/8/scientists-warn-of-the-dangers-of-using-liquid-nitrogen-in-drinks-after-a-teenage-girl-from-the-united-kingdom-required-emergency-surgery-up.md)
-_Context: liquid nitrogen, cocktail_
+_Context: cocktail, liquid nitrogen_
 
 ##### Members
 ### [Partial replacement of members of the European Court of Justice takes place in Luxembourg. ](/news/2012/10/8/partial-replacement-of-members-of-the-european-court-of-justice-takes-place-in-luxembourg.md)
@@ -37,11 +37,11 @@ Libya&#x27;s&#x20;newly&#x20;elected&#x20;Prime&#x20;Minister&#x20;Mustafa&#x20;
 
 ##### President Benigno Aquino
 ### [President Benigno Aquino of the Philippines announces that the Philippine government has reached an outline peace agreement with the Moro Islamic Liberation Front over the disputed Mindanao region. ](/news/2012/10/8/president-benigno-aquino-of-the-philippines-announces-that-the-philippine-government-has-reached-an-outline-peace-agreement-with-the-moro-is.md)
-_Context: Moro Islamic Liberation Front, Philippines, President Benigno Aquino, Mindanao_
+_Context: Moro Islamic Liberation Front, Philippines, Mindanao, President Benigno Aquino_
 
 ##### Haiti
 ### [Haitian Prime Minister Laurent Lamothe announces a new "sin tax" on gambling, alcohol, and cigarettes to pay for a new education fund. ](/news/2012/10/8/haitian-prime-minister-laurent-lamothe-announces-a-new-sin-tax-on-gambling-alcohol-and-cigarettes-to-pay-for-a-new-education-fund.md)
-_Context: cigarettes, Haiti, gambling, alcohol, Laurent Lamothe_
+_Context: cigarettes, gambling, Laurent Lamothe, alcohol, Haiti_
 
 ##### John B. Gurdon
 ### [British scientist John B. Gurdon and Japanese scientist Shinya Yamanaka win the 2012 Nobel Prize for Medicine for the discovery that end stage cells can be reprogrammed to become pluripotent. ](/news/2012/10/8/british-scientist-john-b-gurdon-and-japanese-scientist-shinya-yamanaka-win-the-2012-nobel-prize-for-medicine-for-the-discovery-that-end-sta.md)
@@ -49,7 +49,7 @@ Scientists from Britain and Japan shared a Nobel Prize on Monday for the discove
 
 ##### Strathclyde Police
 ### [Strathclyde Police warns against use of the legal intoxicant "Annihilation" (or "Mary Joy"), which has previously been noted in the Shetland Isles, Lancashire and Tyneside. ](/news/2012/10/8/strathclyde-police-warns-against-use-of-the-legal-intoxicant-annihilation-or-mary-joy-which-has-previously-been-noted-in-the-shetland.md)
-_Context: Shetland Isles, Lancashire, Mary Joy, Tyneside, legal intoxicant, Strathclyde Police_
+_Context: Tyneside, legal intoxicant, Mary Joy, Shetland Isles, Lancashire, Strathclyde Police_
 
 ## [Previous Day...](/news/2012/10/7/index.md)
 

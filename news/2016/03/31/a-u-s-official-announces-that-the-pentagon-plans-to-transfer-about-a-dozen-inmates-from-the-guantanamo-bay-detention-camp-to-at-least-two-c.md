@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/03/31/a-u-s-official-announces-that-the-pentagon-plan
 
 ### [2016-03-31](/news/2016/03/31/index.md)
 
-##### U.S.
+##### United States
 # A U.S. official announces that The Pentagon plans to transfer about a dozen inmates from the Guantanamo Bay detention camp to at least two countries that have agreed to take them, in the latest move in Barack Obama's final push to close the facility. The official declined to name the countries ready to take them in. 
 
 Transfers from the US military prison in Cuba are expected to begin in the next few days, in latest move in Obama’s final push to close the facility
@@ -16,8 +16,8 @@ Transfers from the US military prison in Cuba are expected to begin in the next 
 
 ### Related:
 
-1. [ U.S. President Barack Obama will resume military tribunals for detainees at Guantanamo Bay. ](/news/2009/05/15/u-s-president-barack-obama-will-resume-military-tribunals-for-detainees-at-guanta-namo-bay.md) _Context: Barack Obama, U.S., detainee_
-2. [ United States President Barack Obama will close Guantanamo Bay Naval Base's detention camp within one year and bans torture. ](/news/2009/01/22/united-states-president-barack-obama-will-close-guanta-namo-bay-naval-base-s-detention-camp-within-one-year-and-bans-torture.md) _Context: Barack Obama, U.S., detainee_
-3. [ United States President Barack Obama halts the trials of detainees at Guantanamo Bay Naval Base's detention camp. ](/news/2009/01/21/united-states-president-barack-obama-halts-the-trials-of-detainees-at-guanta-namo-bay-naval-base-s-detention-camp.md) _Context: Barack Obama, U.S., detainee_
-4. [ The U.S. Pentagon says that the CIA has arrested a senior al-Qaeda operative, Abdul Hadi al Iraqi, and transferred him to the Guantanamo Bay detention center. ](/news/2007/04/27/the-u-s-pentagon-says-that-the-cia-has-arrested-a-senior-al-qaeda-operative-abdul-hadi-al-iraqi-and-transferred-him-to-the-guantanamo-ba.md) _Context: U.S., United States military, detainee_
-5. [Plans for a Chicago-based presidential library in honour of the former U.S. President Obama are revealed. ](/news/2017/05/3/plans-for-a-chicago-based-presidential-library-in-honour-of-the-former-u-s-president-obama-are-revealed.md) _Context: Barack Obama, U.S._
+1. [ U.S. President Barack Obama will resume military tribunals for detainees at Guantanamo Bay. ](/news/2009/05/15/u-s-president-barack-obama-will-resume-military-tribunals-for-detainees-at-guanta-namo-bay.md) _Context: Barack Obama, United States, detainee_
+2. [ United States President Barack Obama will close Guantanamo Bay Naval Base's detention camp within one year and bans torture. ](/news/2009/01/22/united-states-president-barack-obama-will-close-guanta-namo-bay-naval-base-s-detention-camp-within-one-year-and-bans-torture.md) _Context: Barack Obama, United States, detainee_
+3. [ United States President Barack Obama halts the trials of detainees at Guantanamo Bay Naval Base's detention camp. ](/news/2009/01/21/united-states-president-barack-obama-halts-the-trials-of-detainees-at-guanta-namo-bay-naval-base-s-detention-camp.md) _Context: Barack Obama, United States, detainee_
+4. [ The U.S. Pentagon says that the CIA has arrested a senior al-Qaeda operative, Abdul Hadi al Iraqi, and transferred him to the Guantanamo Bay detention center. ](/news/2007/04/27/the-u-s-pentagon-says-that-the-cia-has-arrested-a-senior-al-qaeda-operative-abdul-hadi-al-iraqi-and-transferred-him-to-the-guantanamo-ba.md) _Context: United States, United States military, detainee_
+5. [Plans for a Chicago-based presidential library in honour of the former U.S. President Obama are revealed. ](/news/2017/05/3/plans-for-a-chicago-based-presidential-library-in-honour-of-the-former-u-s-president-obama-are-revealed.md) _Context: Barack Obama, United States_

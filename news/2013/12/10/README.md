@@ -19,17 +19,17 @@ Latest updates as the official memorial service for former South African preside
 ### [Mary Barra of General Motors becomes the first female CEO of an automotive company. ](/news/2013/12/10/mary-barra-of-general-motors-becomes-the-first-female-ceo-of-an-automotive-company.md)
 _Context: Mary Barra, General Motors_
 
-##### NSA
+##### National Security Agency
 ### [The United States National Security Agency played "World of Warcraft", "Second Life", and games on the Xbox 360 to spy on gamers. ](/news/2013/12/10/the-united-states-national-security-agency-played-world-of-warcraft-second-life-and-games-on-the-xbox-360-to-spy-on-gamers.md)
-_Context: World of Warcraft, Xbox 360, NSA, Second Life_
+_Context: World of Warcraft, Second Life, National Security Agency, Xbox 360_
 
 ##### Philippines
 ### [The Philippines bans its workers from Yemen after the deaths of seven Filipinos there. ](/news/2013/12/10/the-philippines-bans-its-workers-from-yemen-after-the-deaths-of-seven-filipinos-there.md)
-_Context: Filipino, Yemen, Philippines_
+_Context: Yemen, Philippines, Filipino_
 
 ##### Poly Implant Prothse
 ### [Jean-Claude Mas, the founder of Poly Implant Prothse is sentenced in a French court to four years in prison for fraud for selling faulty breast implants. ](/news/2013/12/10/jean-claude-mas-the-founder-of-poly-implant-prothese-is-sentenced-in-a-french-court-to-four-years-in-prison-for-fraud-for-selling-faulty-br.md)
-_Context: Poly Implant Prothse, breast implant_
+_Context: breast implant, Poly Implant Prothse_
 
 ##### Looters in Argentina
 ### [Looters in Argentina kill at least five people as mobs take advantage of strikes by police demanding pay raises. ](/news/2013/12/10/looters-in-argentina-kill-at-least-five-people-as-mobs-take-advantage-of-strikes-by-police-demanding-pay-raises.md)
@@ -41,7 +41,7 @@ Uruguay became the first country to legalize the growing, sale and smoking of ma
 
 ##### Thailand
 ### [In Thailand, there are thousands of protesters in Bangkok. The opposition Democrat Party resigns en masse. ](/news/2013/12/10/in-thailand-there-are-thousands-of-protesters-in-bangkok-the-opposition-democrat-party-resigns-en-masse.md)
-_Context: Bangkok, Democrat Party, Thailand_
+_Context: Bangkok, Thailand, Democrat Party_
 
 ## [Previous Day...](/news/2013/12/9/index.md)
 

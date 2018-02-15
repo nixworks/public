@@ -5,7 +5,7 @@ Formats: [HTML](2010/01/3/index.html)  [JSON](2010/01/3/index.json)  [XML](2010/
 
 ##### Eritrean military
 ### [The Eritrean military claims at least 10 Ethiopian soldiers were killed and 2 captured when Ethiopia launched an armed incursion into Eritrea. The Ethiopian military claims 25 Eritrean soldiers were killed while attacking Ethiopian positions. ](/news/2010/01/3/the-eritrean-military-claims-at-least-10-ethiopian-soldiers-were-killed-and-2-captured-when-ethiopia-launched-an-armed-incursion-into-eritre.md)
-_Context: Ethiopia, Ethiopian Army, armed incursion into Eritrea, Eritrean military_
+_Context: Ethiopian Army, Eritrean military, armed incursion into Eritrea, Ethiopia_
 
 ##### Somali
 ### [At least 47 people are killed during heavy fighting in the Somali town of Dhuusa Mareeb. ](/news/2010/01/3/at-least-47-people-are-killed-during-heavy-fighting-in-the-somali-town-of-dhuusa-mareeb.md)
@@ -17,7 +17,7 @@ Muslim writers have hit back at the crime doyenne Lynda La Plante after she clai
 
 ##### Japan
 ### [Japan doubles a state-sponsored credit line to troubled airline Japan Airlines to Y200bn (US$2.2bn). ](/news/2010/01/3/japan-doubles-a-state-sponsored-credit-line-to-troubled-airline-japan-airlines-to-y200bn-us-2-2bn.md)
-_Context: Japan Airlines, Japan_
+_Context: Japan, Japan Airlines_
 
 ##### Tajikistan
 ### [A 5.1 magnitude earthquake leaves 20,000 homeless and causes US$1.5 million in damage in eastern Tajikistan. ](/news/2010/01/3/a-5-1-magnitude-earthquake-leaves-20-000-homeless-and-causes-us-1-5-million-in-damage-in-eastern-tajikistan.md)
@@ -41,11 +41,11 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 
 ##### Colombia
 ### [The Colombian volcano Galeras erupts, forcing the evacuation of 8,000 people. ](/news/2010/01/3/the-colombian-volcano-galeras-erupts-forcing-the-evacuation-of-8-000-people.md)
-_Context: Galeras, Colombia_
+_Context: Colombia, Galeras_
 
 ##### Mount Nyamuragira
 ### [Mount Nyamuragira in the Democratic Republic of the Congo erupts, threatening rare wildlife in the Virunga National Park. ](/news/2010/01/3/mount-nyamuragira-in-the-democratic-republic-of-the-congo-erupts-threatening-rare-wildlife-in-the-virunga-national-park.md)
-_Context: DR Congo, Virunga National Park, Mount Nyamuragira_
+_Context: Mount Nyamuragira, DR Congo, Virunga National Park_
 
 ##### Antarctica
 ### [Remains of the first plane taken to Antarctica in 1912 are discovered by Australian researchers. ](/news/2010/01/3/remains-of-the-first-plane-taken-to-antarctica-in-1912-are-discovered-by-australian-researchers.md)
@@ -55,25 +55,25 @@ Remains of the first plane taken to Antarctica, in 1912, have been found by Aust
 ### [Hundreds of people attempt to control a large diesel leak into a major tributary of the Yellow River, the Wei River, in Shaanxi, China. ](/news/2010/01/3/hundreds-of-people-attempt-to-control-a-large-diesel-leak-into-a-major-tributary-of-the-yellow-river-the-wei-river-in-shaanxi-china.md)
 Burst oil pipeline dumps thousands of litres of diesel into major tributary.
 
-##### U.S.
+##### United States
 ### [The United States and United Kingdom close their embassies in Yemen, citing threats from Al-Qaeda. ](/news/2010/01/3/the-united-states-and-united-kingdom-close-their-embassies-in-yemen-citing-threats-from-al-qaeda.md)
-_Context: al-Qaeda, United Kingdom, Yemen, U.S._
+_Context: United States, al-Qaeda, United Kingdom, Yemen_
 
 ##### Supreme Court of Peru
 ### [The Supreme Court of Peru upholds a 25 year prison sentence for former President Alberto Fujimori, convicted of mass human rights violations. ](/news/2010/01/3/the-supreme-court-of-peru-upholds-a-25-year-prison-sentence-for-former-president-alberto-fujimori-convicted-of-mass-human-rights-violations.md)
-_Context: President, Alberto Fujimori, Supreme Court of Peru, human rights_
+_Context: Alberto Fujimori, Supreme Court of Peru, human rights, President_
 
 ##### Mexican
 ### [Mexican police arrest alleged drug lord Carlos Beltran Leyva in Culiacan, Sinaloa. ](/news/2010/01/3/mexican-police-arrest-alleged-drug-lord-carlos-beltra-n-leyva-in-culiaca-n-sinaloa.md)
-_Context: Carlos Beltran Leyva, Culiacan, Sinaloa, Mexican_
+_Context: Mexican, Carlos Beltran Leyva, Culiacan, Sinaloa_
 
 ##### Iranian police
 ### [At least seven Iranian police and two drug traffickers die in a shootout between Iranian police and drug traffickers in South Khorasan Province. ](/news/2010/01/3/at-least-seven-iranian-police-and-two-drug-traffickers-die-in-a-shootout-between-iranian-police-and-drug-traffickers-in-south-khorasan-provi.md)
-_Context: South Khorasan Province, a shootout, drug traffickers, Iranian police_
+_Context: a shootout, drug traffickers, South Khorasan Province, Iranian police_
 
 ##### Gordon Brown
 ### [British Prime Minister Gordon Brown announces that full body scanners will be introduced at UK airports following the failed attack on Northwest Airlines Flight 253 on Christmas Day. ](/news/2010/01/3/british-prime-minister-gordon-brown-announces-that-full-body-scanners-will-be-introduced-at-uk-airports-following-the-failed-attack-on-north.md)
-_Context: body scanners, Northwest Airlines Flight 253, Christmas Day, Gordon Brown_
+_Context: Gordon Brown, Christmas Day, Northwest Airlines Flight 253, body scanners_
 
 ## [Previous Day...](/news/2010/01/2/index.md)
 

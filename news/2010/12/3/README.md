@@ -13,7 +13,7 @@ Whistle-blowing website Wikileaks is forced to change its web address after the 
 
 ##### U.S. President
 ### [President Barack Obama makes a surprise visit to United States armed forces based in Afghanistan. ](/news/2010/12/3/president-barack-obama-makes-a-surprise-visit-to-united-states-armed-forces-based-in-afghanistan.md)
-_Context: Barack Obama, United States armed forces, U.S. President, Afghanistan_
+_Context: U.S. President, Barack Obama, Afghanistan, United States armed forces_
 
 ##### Ai Weiwei
 ### [Ai Weiwei is prevented from travelling to South Korea by Chinese authorities and is warned his trip could "threaten national security", with imprisoned Liu Xiaobo due to receive the 2010 Nobel Peace Prize next week. ](/news/2010/12/3/ai-weiwei-is-prevented-from-travelling-to-south-korea-by-chinese-authorities-and-is-warned-his-trip-could-threaten-national-security-with.md)
@@ -33,11 +33,11 @@ Emergency cabinet meeting backs plans to raise the the pension age to 67 after c
 
 ##### Nissan
 ### [Nissan starts selling the Leaf, one of the first mass market electric cars. ](/news/2010/12/3/nissan-starts-selling-the-leaf-one-of-the-first-mass-market-electric-cars.md)
-_Context: electric, mass market, Nissan Leaf, Nissan_
+_Context: mass market, Nissan, electric, Nissan Leaf_
 
 ##### 1984 Bhopal disaster
 ### [1984 Bhopal disaster: The Indian government launches a court case to more than double the compensation paid by U.S. chemical corporation Union Carbide on the anniversary of the leak from a Madhya Pradesh plant that killed thousands of people. ](/news/2010/12/3/1984-bhopal-disaster-the-indian-government-launches-a-court-case-to-more-than-double-the-compensation-paid-by-u-s-chemical-corporation-uni.md)
-_Context: Madhya Pradesh, Union Carbide, 1984 Bhopal disaster_
+_Context: Union Carbide, 1984 Bhopal disaster, Madhya Pradesh_
 
 ##### United Nations
 ### [The United Nations warns that the Haitian cholera epidemic could get worse. ](/news/2010/12/3/the-united-nations-warns-that-the-haitian-cholera-epidemic-could-get-worse.md)
@@ -49,7 +49,7 @@ Heavy snow and freezing temperatures continue across northern Europe, with dozen
 
 ##### Iran
 ### [At least 17 mainly Iranian people are killed in a collision of two buses on a highway near the holy site of Najaf, Iraq. ](/news/2010/12/3/at-least-17-mainly-iranian-people-are-killed-in-a-collision-of-two-buses-on-a-highway-near-the-holy-site-of-najaf-iraq.md)
-_Context: Iraq, Najaf, Iran_
+_Context: Najaf, Iraq, Iran_
 
 ##### Flood
 ### [Heavy floods in the Balkans forces more than a thousand people to evacuate from their homes. ](/news/2010/12/3/heavy-floods-in-the-balkans-forces-more-than-a-thousand-people-to-evacuate-from-their-homes.md)
@@ -59,13 +59,13 @@ Heavy snow and freezing temperatures continue across northern Europe, with dozen
 ### [A Queensland man is missing presumed dead in floodwaters in Bajool while parts of central New South Wales are declared disaster zones after a week of heavy rains in eastern Australia. ](/news/2010/12/3/a-queensland-man-is-missing-presumed-dead-in-floodwaters-in-bajool-while-parts-of-central-new-south-wales-are-declared-disaster-zones-after.md)
 There are concerns flood waters have claimed the life of a man in Queensland, as parts of NSW are declared a disaster zone.
 
-##### U.S.
+##### United States
 ### [Newly released cables reveal United States worries about Afghan President Hamid Karzai's character and corruption in Afghanistan, with one U.S. diplomat describing Karzai as "insecure" and a "paranoid and weak individual". ](/news/2010/12/3/newly-released-cables-reveal-united-states-worries-about-afghan-president-hamid-karzai-s-character-and-corruption-in-afghanistan-with-one-u.md)
 U.S. spy planes flew reconnaissance flights over Lebanon from a British air base in Cyprus, leaked U.S. documents show, in a counter-terrorist surveillance operation requested by Lebanese officials.
 
 ##### South Korea
 ### [South Korea's defence minister-designate Kim Kwan-jin threatens North Korea with air strikes if the shelling of Yeonpyeong is repeated. The shelling was in response to South Korean naval exercises. ](/news/2010/12/3/south-korea-s-defence-minister-designate-kim-kwan-jin-threatens-north-korea-with-air-strikes-if-the-shelling-of-yeonpyeong-is-repeated-the.md)
-_Context: North Korea, shelling of Yeonpyeong, Kim Kwan-jin, South Korea_
+_Context: shelling of Yeonpyeong, South Korea, North Korea, Kim Kwan-jin_
 
 ##### Guinea
 ### [The Supreme Court of Guinea confirms Alpha Cond as winner of November's presidential poll following a state of emergency and fraud allegations made by ex-president Cellou Dalein Diallo. ](/news/2010/12/3/the-supreme-court-of-guinea-confirms-alpha-conde-as-winner-of-november-s-presidential-poll-following-a-state-of-emergency-and-fraud-allegati.md)

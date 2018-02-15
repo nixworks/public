@@ -9,11 +9,11 @@ _Context: Papeete, Tahiti_
 
 ##### Anti-war
 ### [ Anti-war campaigners criticised British Prime Minister Tony Blair after he suggested his decision to go to war in Iraq would ultimately be judged by God. ](/news/2006/03/4/anti-war-campaigners-criticised-british-prime-minister-tony-blair-after-he-suggested-his-decision-to-go-to-war-in-iraq-would-ultimately-be.md)
-_Context: God, Anti-war, Prime Minister, Tony Blair, war, Iraq_
+_Context: Anti-war, Prime Minister, Tony Blair, Iraq, God, war_
 
 ##### Tessa Jowell
 ### [ British Culture Secretary Tessa Jowell splits from her husband, David Mills' following allegations of an alleged acceptance of money from Silvio Berlusconi. ](/news/2006/03/4/british-culture-secretary-tessa-jowell-splits-from-her-husband-david-mills-following-allegations-of-an-alleged-acceptance-of-money-from-s.md)
-_Context: Silvio Berlusconi, Tessa Jowell, David Mills_
+_Context: Silvio Berlusconi, David Mills, Tessa Jowell_
 
 ##### Deep Space Network
 ### [ The Deep Space Network tries one final contact attempt to Pioneer 10. ](/news/2006/03/4/the-deep-space-network-tries-one-final-contact-attempt-to-pioneer-10.md)

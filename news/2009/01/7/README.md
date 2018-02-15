@@ -3,17 +3,17 @@ Formats: [HTML](2009/01/7/index.html)  [JSON](2009/01/7/index.json)  [XML](2009/
 
 ## [2009-01-7](/news/2009/01/7/index.md)
 
-##### U.S.
+##### United States
 ### [ The United States Congressional Budget Office estimates that the federal government will run a record $1.2 trillion budget deficit in fiscal year 2009, that the current recession will last well into this year, and that the enactment of an economic-stimulus plan would increase that deficit. ](/news/2009/01/7/the-united-states-congressional-budget-office-estimates-that-the-federal-government-will-run-a-record-1-2-trillion-budget-deficit-in-fisca.md)
-_Context: deficit, fiscal year, Congressional Budget Office, current recession, U.S. government, United States federal budget, U.S., $, 2009_
+_Context: United States, Congressional Budget Office, $, 2009, current recession, United States federal budget, U.S. government, fiscal year, deficit_
 
 ##### Satyam Computer Services
 ### [ Satyam Computer Services chairman Ramalinga Raju admits to accounting fraud and resigns. ](/news/2009/01/7/satyam-computer-services-chairman-ramalinga-raju-admits-to-accounting-fraud-and-resigns.md)
-_Context: Satyam Computer Services, accounting fraud, Ramalinga Raju_
+_Context: accounting fraud, Ramalinga Raju, Satyam Computer Services_
 
 ##### Israel
 ### [ Israel and Hamas resume hostilities after a three-hour respite to allow humanitarian aid to reach Gaza. ](/news/2009/01/7/israel-and-hamas-resume-hostilities-after-a-three-hour-respite-to-allow-humanitarian-aid-to-reach-gaza.md)
-_Context: Israel, Gaza Strip, fire, humanitarian aid, Hamas_
+_Context: humanitarian aid, Hamas, fire, Gaza Strip, Israel_
 
 ## [Previous Day...](/news/2009/01/6/index.md)
 

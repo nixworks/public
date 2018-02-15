@@ -5,7 +5,7 @@ Formats: [HTML](2017/05/14/index.html)  [JSON](2017/05/14/index.json)  [XML](201
 
 ##### Yemeni Civil War
 ### [According to the International Committee of the Red Cross, a cholera outbreak has since April 27 killed at least 115 people and left another 8,500 ill across Yemen. ](/news/2017/05/14/according-to-the-international-committee-of-the-red-cross-a-cholera-outbreak-has-since-april-27-killed-at-least-115-people-and-left-another.md)
-_Context: Yemen, Yemeni Civil War, International Committee of the Red Cross, cholera_
+_Context: cholera, International Committee of the Red Cross, Yemen, Yemeni Civil War_
 
 ##### WannaCry ransomware attack
 ### [Shortly after the attack began a researcher found an effective kill switch, which prevented many new infections, and allowed time to patch systems. This greatly slowed the spread. Cyber security authorities discover new versions that lack the kill switch. ](/news/2017/05/14/shortly-after-the-attack-began-a-researcher-found-an-effective-kill-switch-which-prevented-many-new-infections-and-allowed-time-to-patch-s.md)

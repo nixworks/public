@@ -9,7 +9,7 @@ The U.N. Security Council cleared the way on Wednesday for a European Union poli
 
 ##### Czech Republic
 ### [ The Czech constitutional court unanimously ruled that the disputed parts of the Lisbon Treaty are in line with the Czech Constitution.](/news/2008/11/26/the-czech-constitutional-court-unanimously-ruled-that-the-disputed-parts-of-the-lisbon-treaty-are-in-line-with-the-czech-constitution.md)
-_Context: Czech Constitution, Lisbon Treaty, Czech Republic_
+_Context: Lisbon Treaty, Czech Republic, Czech Constitution_
 
 ##### Woolworths Group PLC
 ### [ Woolworths Group PLC agrees to put its chain of 815 stores in the United Kingdom and DVD distribution businesses into administration with 30,000 jobs at risk. ](/news/2008/11/26/woolworths-group-plc-agrees-to-put-its-chain-of-815-stores-in-the-united-kingdom-and-dvd-distribution-businesses-into-administration-with-3.md)
@@ -29,7 +29,7 @@ At least six foreigners have been killed and the death toll has gone up to 101 i
 
 ##### Vitaly Karayev
 ### [ Vitaly Karayev, the mayor of Vladikavkaz, the capital of North Ossetia-Alania in Russia is assassinated. ](/news/2008/11/26/vitaly-karayev-the-mayor-of-vladikavkaz-the-capital-of-north-ossetia-alania-in-russia-is-assassinated.md)
-_Context: Russia, Vladikavkaz, North Ossetia, Vitaly Karayev, assassination_
+_Context: Russia, assassination, Vitaly Karayev, North Ossetia, Vladikavkaz_
 
 ##### 2008 referendum
 ### [ The Greenlandic self-government referendum passes with 75% approval. ](/news/2008/11/26/the-greenlandic-self-government-referendum-passes-with-75-approval.md)
@@ -37,7 +37,7 @@ _Context: 2008 referendum_
 
 ##### Edna Parker
 ### [ Edna Parker, the oldest living person in the world, died at age 115 in her hometown of Shelbyville, Indiana. ](/news/2008/11/26/edna-parker-the-oldest-living-person-in-the-world-died-at-age-115-in-her-hometown-of-shelbyville-indiana.md)
-_Context: Edna Parker, Shelbyville, Indiana, the oldest living person in the world_
+_Context: Shelbyville, Indiana, Edna Parker, the oldest living person in the world_
 
 ## [Previous Day...](/news/2008/11/25/index.md)
 

@@ -5,27 +5,27 @@ Formats: [HTML](2007/04/9/index.html)  [JSON](2007/04/9/index.json)  [XML](2007/
 
 ##### New York Governor
 ### [ The Governor of New York Eliot Spitzer signs legislation changing the date of the New York primary election to February 5, 2008. ](/news/2007/04/9/the-governor-of-new-york-eliot-spitzer-signs-legislation-changing-the-date-of-the-new-york-primary-election-to-february-5-2008.md)
-_Context: Eliot Spitzer, New York City, New York Governor, primary election_
+_Context: primary election, New York Governor, Eliot Spitzer, New York City_
 
 ##### Detainee
 ### [ Thirteen detainees at Guantanamo Bay are conducting a hunger strike to protest against harsher conditions in a new prison unit and are being force fed. ](/news/2007/04/9/thirteen-detainees-at-guantanamo-bay-are-conducting-a-hunger-strike-to-protest-against-harsher-conditions-in-a-new-prison-unit-and-are-bein.md)
-_Context: hunger strike, prison, protest, force fed, detainee_
+_Context: protest, hunger strike, detainee, prison, force fed_
 
 ##### United Kingdom
 ### [ The United Kingdom Ministry of Defence bans any more of the 15 Royal Navy sailors and Royal Marines held captive by Iran from selling their stories to the media reversing a previous decision following widespread criticism. ](/news/2007/04/9/the-united-kingdom-ministry-of-defence-bans-any-more-of-the-15-royal-navy-sailors-and-royal-marines-held-captive-by-iran-from-selling-their.md)
-_Context: United Kingdom, Royal Navy, held captive by Iran, Royal Marine, sailor, Ministry of Defence_
+_Context: United Kingdom, held captive by Iran, Royal Marine, Royal Navy, Ministry of Defence, sailor_
 
 ##### Tim Montgomery
 ### [ Tim Montgomery, a former 100-metre world record holder, pleads guilty to charges of bank fraud and money laundering. ](/news/2007/04/9/tim-montgomery-a-former-100-metre-world-record-holder-pleads-guilty-to-charges-of-bank-fraud-and-money-laundering.md)
-_Context: 100 metres, world record, bank, money laundering, Tim Montgomery, fraud_
+_Context: Tim Montgomery, world record, 100 metres, bank, money laundering, fraud_
 
 ##### President
 ### [ President Mahmoud Ahmadinejad of Iran announces that his country can now produce nuclear fuel on an industrial scale. ](/news/2007/04/9/president-mahmoud-ahmadinejad-of-iran-announces-that-his-country-can-now-produce-nuclear-fuel-on-an-industrial-scale.md)
-_Context: President, Mahmoud Ahmadinejad, Iran, produce nuclear fuel on an industrial scale_
+_Context: President, produce nuclear fuel on an industrial scale, Mahmoud Ahmadinejad, Iran_
 
 ##### Natural gas
 ### [ Ministers from natural gas exporting countries such as Russia, Kazakhstan and Iran meet in Doha, Qatar, prompting speculation that they might be looking at transforming the Gas Exporting Countries Forum into a cartel similar to OPEC. ](/news/2007/04/9/ministers-from-natural-gas-exporting-countries-such-as-russia-kazakhstan-and-iran-meet-in-doha-qatar-prompting-speculation-that-they-mig.md)
-_Context: Iran, Qatar, Russia, cartel, Doha, Kazakhstan, natural gas, OPEC, Gas Exporting Countries Forum_
+_Context: Russia, Kazakhstan, Gas Exporting Countries Forum, Qatar, Doha, cartel, natural gas, Iran, OPEC_
 
 ##### Iraq War
 ### [ Iraq War: Shia cleric Moqtada al-Sadr calls for an anti-American protest on the fourth anniversary of the overthrow of Saddam Hussein. Hundreds of thousands of Shias gather in Najaf for a demonstration calling for U.S.-led troops to leave Iraq. ](/news/2007/04/9/iraq-war-shia-cleric-moqtada-al-sadr-calls-for-an-anti-american-protest-on-the-fourth-anniversary-of-the-overthrow-of-saddam-hussein-hund.md)
@@ -37,7 +37,7 @@ The presidential election has exposed bitter personal rivalries as well as divis
 
 ##### Buenos Aires
 ### [ Tens of thousands of demonstrators in Buenos Aires and other cities in Argentina protest against the death of Carlos Fuentealba, a school teacher having been severely injured by a tear gas canister fired by police during a protest the previous week over pay and working conditions. ](/news/2007/04/9/tens-of-thousands-of-demonstrators-in-buenos-aires-and-other-cities-in-argentina-protest-against-the-death-of-carlos-fuentealba-a-school-t.md)
-_Context: Buenos Aires, Argentina, Carlos Fuentealba, tear gas_
+_Context: Carlos Fuentealba, tear gas, Argentina, Buenos Aires_
 
 ## [Previous Day...](/news/2007/04/8/index.md)
 

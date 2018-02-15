@@ -9,7 +9,7 @@ Tom’s Hardware helps you buy the best hardware and build the best PC to play, 
 
 ##### Darfur conflict
 ### [ Darfur conflict: The Sudanese government and rebel leaders sign two accords that include a no-fly zone over Darfur, disarming Janjaweed militia and informing the location of forces to cease-fire monitors. United Nations officials arrive to investigate claims of genocide. ](/news/2004/11/8/darfur-conflict-the-sudanese-government-and-rebel-leaders-sign-two-accords-that-include-a-no-fly-zone-over-darfur-disarming-janjaweed-mil.md)
-_Context: Janjaweed, Sudan, rebel, genocide, United Nations, no-fly zone, Darfur conflict, Darfur_
+_Context: Darfur, Darfur conflict, rebel, United Nations, no-fly zone, Sudan, genocide, Janjaweed_
 
 ##### Attorney General
 ### [ United States Attorney General John Ashcroft and Secretary of Commerce Donald Evans resign. ](/news/2004/11/8/united-states-attorney-general-john-ashcroft-and-secretary-of-commerce-donald-evans-resign.md)
@@ -17,19 +17,19 @@ _Context: Secretary of Commerce, John Ashcroft, Donald Evans, Attorney General_
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: U.S. troops reach the center of Falluja with heavy fighting reported throughout the city. The Pentagon announces 10 U.S. and two Iraqi soldiers killed in the assault. One third of prisoners captured in Falluja by Iraqi forces have been foreigners from Egypt and Syria. Residents say a U.S. airstrike hit a clinic killing medical staff and patients. A nine-year-old boy dies because of lack of medical assistance after he was hit by shrapnel in what parents say was a separate airstrike. The mainly Sunni Iraqi Islamic Party withdraws from the Iraq Interim Governing Council. Iraqi and U.S. forces capture a mosque in northwest Falluja that was being used as an arms depot and insurgent meeting place and the Muslim Clerics Association called for a boycott of the election in protest of the assault. In Mosul, two U.S. soldiers are killed when mortars land in a military base. Three police stations are attacked in Baquba with casualty reports ranging from 25 to 45 people killed. A car bomb outside an Iraqi National Guard base near Kirkuk kills three people and wounds two. In Samarra, a senior local government official is assassinated. ](/news/2004/11/8/conflict-in-iraq-u-s-troops-reach-the-center-of-falluja-with-heavy-fighting-reported-throughout-the-city-the-pentagon-announces-10-u-s.md)
-_Context: United States military, Muslim Clerics Association, Kirkuk, Sunni, Falluja, Conflict in Iraq, Baquba, Iraq Interim Governing Council, boycott, Iraqi National Guard, Mortar, Samarra, airstrike, car bomb, Mosul, Iraqi Islamic Party_
+_Context: airstrike, Kirkuk, Iraqi National Guard, United States military, Muslim Clerics Association, Mortar, Conflict in Iraq, boycott, Sunni, Iraqi Islamic Party, Samarra, car bomb, Iraq Interim Governing Council, Falluja, Mosul, Baquba_
 
 ##### Supreme Court
 ### [ The Supreme Court of Belgium upholds a decision of the Court of Appeal of Ghent condemning the Vlaams Blok political party for permanent incitation to racism and discrimination. The decision amounts to banning the party, one of the most popular in Flanders. ](/news/2004/11/8/the-supreme-court-of-belgium-upholds-a-decision-of-the-court-of-appeal-of-ghent-condemning-the-vlaams-blok-political-party-for-permanent-in.md)
-_Context: racist, Supreme Court, Vlaams Blok, Ghent, political party, Flanders, Court of Appeal, discrimination_
+_Context: racist, discrimination, Ghent, Court of Appeal, political party, Supreme Court, Vlaams Blok, Flanders_
 
 ##### Michael Scheuer
 ### [ Michael Scheuer, a senior intelligence official in the U.S. CIA, claims that the number of "experienced" officers assigned to the agency's Osama bin Laden unit is fewer than before the 9-11 Attacks. Scheuer claims that the most experienced have been reassigned elsewhere in the homeland security apparatus or are in Iraq. ](/news/2004/11/8/michael-scheuer-a-senior-intelligence-official-in-the-u-s-cia-claims-that-the-number-of-experienced-officers-assigned-to-the-agency-s.md)
-_Context: September 11, 2001 attacks, Osama bin Laden, Iraq, CIA, homeland security, Michael Scheuer_
+_Context: Osama bin Laden, CIA, September 11, 2001 attacks, Michael Scheuer, homeland security, Iraq_
 
 ##### Nabil Shaath
 ### [ Three unnamed senior Palestinian sources state he has died. Nabil Shaath and Saeb Erekat state that he is still alive. Tayeb Abdel Rahim explains that Arafat has suffered a brain hemorrhage. ](/news/2004/11/8/three-unnamed-senior-palestinian-sources-state-he-has-died-nabil-shaath-and-saeb-erekat-state-that-he-is-still-alive-tayeb-abdel-rahim-ex.md)
-_Context: Nabil Shaath, Saeb Erekat, brain hemorrhage, Tayeb Abdel Rahim_
+_Context: Nabil Shaath, brain hemorrhage, Tayeb Abdel Rahim, Saeb Erekat_
 
 ##### 
 ### [ ](/news/2004/11/8/.md)
@@ -39,11 +39,11 @@ Lesbian couple, married in Canada, can ask to have their marriage legally recogn
 
 ##### Mozilla Foundation
 ### [ The Mozilla Foundation releases the first official version of its open source web browser, Firefox. ](/news/2004/11/8/the-mozilla-foundation-releases-the-first-official-version-of-its-open-source-web-browser-firefox.md)
-_Context: web browser, Mozilla Foundation, Firefox, open source_
+_Context: Firefox, Mozilla Foundation, open source, web browser_
 
 ##### Cte d'Ivoire
 ### [ Violence in Cte d'Ivoire has left 20 dead and 600 injured and stopped cocoa exports. South African President Thabo Mbeki has flown to the country to help find a settlement. ](/news/2004/11/8/violence-in-cote-d-ivoire-has-left-20-dead-and-600-injured-and-stopped-cocoa-exports-south-african-president-thabo-mbeki-has-flown-to-the.md)
-_Context: Cte d'Ivoire, Thabo Mbeki, cocoa_
+_Context: cocoa, Cte d'Ivoire, Thabo Mbeki_
 
 ## [Previous Day...](/news/2004/11/7/index.md)
 

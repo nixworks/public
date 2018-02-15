@@ -9,7 +9,7 @@ One vehicle parked near bakery and went off as people were queuing to buy bread
 
 ##### War in Somalia
 ### [al-Shabab gunmen enter the Higher Education Ministry building in Mogadishu after a large explosion is reported. ](/news/2015/04/14/al-shabab-gunmen-enter-the-higher-education-ministry-building-in-mogadishu-after-a-large-explosion-is-reported.md)
-_Context: Al-Shabaab, Mogadishu, War in Somalia_
+_Context: Al-Shabaab, War in Somalia, Mogadishu_
 
 ##### Wall Street Journal
 ### [The "Wall Street Journal" reports that European Union regulators have announced plans to file charges against American Internet company Google following a European Union investigation. ](/news/2015/04/14/the-wall-street-journal-reports-that-european-union-regulators-have-announced-plans-to-file-charges-against-american-internet-company-goog.md)
@@ -37,7 +37,7 @@ The United Nations Security Council voted Tuesday to impose an arms embargo on Y
 
 ##### Japan
 ### [A court in Japan's Fukui Prefecture issues a landmark injunction against restarting reactors 3 and 4 of the Takahama Nuclear Power Plant. ](/news/2015/04/14/a-court-in-japan-s-fukui-prefecture-issues-a-landmark-injunction-against-restarting-reactors-3-and-4-of-the-takahama-nuclear-power-plant.md)
-_Context: Takahama Nuclear Power Plant, Japan, Fukui Prefecture_
+_Context: Takahama Nuclear Power Plant, Fukui Prefecture, Japan_
 
 ##### SpaceX
 ### [SpaceX's latest attempt at recycling its Falcon 9 rocket by landing it on an ocean platform fails. ](/news/2015/04/14/spacex-s-latest-attempt-at-recycling-its-falcon-9-rocket-by-landing-it-on-an-ocean-platform-fails.md)

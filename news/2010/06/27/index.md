@@ -5,7 +5,7 @@ Formats: [HTML](2010/06/27/index.html)  [JSON](2010/06/27/index.json)  [XML](201
 
 ##### President
 ### [The first President of an independent Lithuania, Algirdas Brazauskas, dies in Vilnius. ](/news/2010/06/27/the-first-president-of-an-independent-lithuania-algirdas-brazauskas-dies-in-vilnius.md)
-_Context: Algirdas Brazauskas, Lithuania, Vilnius, President_
+_Context: Lithuania, President, Algirdas Brazauskas, Vilnius_
 
 ##### Guinea
 ### [Guinea holds the first democratic election in the nation's history. ](/news/2010/06/27/guinea-holds-the-first-democratic-election-in-the-nation-s-history.md)
@@ -13,7 +13,7 @@ West African nation to elect president on Sunday after decades of military rule.
 
 ##### Constitutional referendum
 ### [A constitutional referendum in Kyrgyzstan is criticized for fears the country would destabilize. ](/news/2010/06/27/a-constitutional-referendum-in-kyrgyzstan-is-criticized-for-fears-the-country-would-destabilize.md)
-_Context: constitutional referendum, Kyrgyzstan_
+_Context: Kyrgyzstan, constitutional referendum_
 
 ##### Bolivia
 ### [A road accident in Bolivia kills at least 25, injures 44, between Cochabama and Potos. ](/news/2010/06/27/a-road-accident-in-bolivia-kills-at-least-25-injures-44-between-cochabama-and-potosi.md)
@@ -33,15 +33,15 @@ _Context: China, Ningxia Hui Autonomous Region_
 
 ##### Canadian
 ### [Two Canadian medics are killed in Afghanistan, 20 kilometres west of Kandahar City in Panjwaii District. ](/news/2010/06/27/two-canadian-medics-are-killed-in-afghanistan-20-kilometres-west-of-kandahar-city-in-panjwaii-district.md)
-_Context: Kandahar, Panjwaii District, Canadian, Afghanistan_
+_Context: Afghanistan, Canadian, Kandahar, Panjwaii District_
 
 ##### Fighter jet
 ### [Fighter jets pounded Taliban hideouts in the upper Orakzai Agency of Pakistan on Saturday, killing 14 Taliban, and injuring eight others. ](/news/2010/06/27/fighter-jets-pounded-taliban-hideouts-in-the-upper-orakzai-agency-of-pakistan-on-saturday-killing-14-taliban-and-injuring-eight-others.md)
-_Context: Orakzai Tribal Area, Pakistan, Taliban, Fighter jet_
+_Context: Taliban, Pakistan, Orakzai Tribal Area, Fighter jet_
 
 ##### NATO
 ### [Six NATO-led service members are killed Saturday in bombing attacks in Afghanistan, NATO's International Security Assistance Force said. ](/news/2010/06/27/six-nato-led-service-members-are-killed-saturday-in-bombing-attacks-in-afghanistan-nato-s-international-security-assistance-force-said.md)
-_Context: International Security Assistance Force, NATO_
+_Context: NATO, International Security Assistance Force_
 
 ##### Netherlands
 ### [In the Netherlands a helicopter carrying 5 people crashes and 4 people are dead.](/news/2010/06/27/in-the-netherlands-a-helicopter-carrying-5-people-crashes-and-4-people-are-dead.md)

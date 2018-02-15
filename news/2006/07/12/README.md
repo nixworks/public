@@ -17,7 +17,7 @@ Mikhail Gorbachev is generally regarded as the man who broke down the &quot;iron
 
 ##### Iran
 ### [ 10 or more of Iran's Islamic Revolutionary Guard Corps members attend North Korea's launch of its Taepodong-2 missile. ](/news/2006/07/12/10-or-more-of-iran-s-islamic-revolutionary-guard-corps-members-attend-north-korea-s-launch-of-its-taepodong-2-missile.md)
-_Context: Taepodong-2, launch, North Korea, Iran, Islamic Revolutionary Guard Corps_
+_Context: Taepodong-2, Iran, Islamic Revolutionary Guard Corps, North Korea, launch_
 
 ##### France
 ### [ France, United States, United Kingdom, Russia, People's Republic of China and Germany decide to refer Iran to the U.N. Security Council over its nuclear program, after Iran not deciding whether to respond to a package of incentives quickly enough. ](/news/2006/07/12/france-united-states-united-kingdom-russia-people-s-republic-of-china-and-germany-decide-to-refer-iran-to-the-u-n-security-council-ove.md)
@@ -29,7 +29,7 @@ _Context: Mumbai train bombings_
 
 ##### Robert Novak
 ### [ U.S. broadcaster Robert Novak says Deputy Chief of Staff Karl Rove was not the primary source for the Plame leak. ](/news/2006/07/12/u-s-broadcaster-robert-novak-says-deputy-chief-of-staff-karl-rove-was-not-the-primary-source-for-the-plame-leak.md)
-_Context: CIA leak scandal, Karl Rove, Robert Novak_
+_Context: CIA leak scandal, Robert Novak, Karl Rove_
 
 ##### Japan
 ### [ The Japanese national government announces it will introduce a satellite system that will warn residents of incoming missiles, earthquakes, and other disasters in a 200 million yen program named "J-ALERT". ](/news/2006/07/12/the-japanese-national-government-announces-it-will-introduce-a-satellite-system-that-will-warn-residents-of-incoming-missiles-earthquakes.md)
@@ -41,7 +41,7 @@ _Context: Iraq_
 
 ##### Condoleezza Rice
 ### [ Condoleezza Rice says Iran's rejection of the international incentives program will force the major powers to take decisions in the United Nations Security Council. ](/news/2006/07/12/condoleezza-rice-says-iran-s-rejection-of-the-international-incentives-program-will-force-the-major-powers-to-take-decisions-in-the-united.md)
-_Context: Condoleezza Rice, Iran, United Nations Security Council_
+_Context: Iran, United Nations Security Council, Condoleezza Rice_
 
 ## [Previous Day...](/news/2006/07/11/index.md)
 

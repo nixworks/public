@@ -5,9 +5,9 @@ Formats: [HTML](2006/05/31/index.html)  [JSON](2006/05/31/index.json)  [XML](200
 
 ##### Ohio
 ### [ Ohio Republican Thomas Noe pleads guilty to illegally directing $50,000 into the 2004 re-election campaign of President George W. Bush.](/news/2006/05/31/ohio-republican-thomas-noe-pleads-guilty-to-illegally-directing-50-000-into-the-2004-re-election-campaign-of-president-george-w-bush.md)
-_Context: Ohio, Republican, George W. Bush, Thomas Noe_
+_Context: Ohio, George W. Bush, Republican, Thomas Noe_
 
-##### U.S.
+##### United States
 ### [ The United States is expected to change its policies regarding Iran and its nuclear program. Condoleezza Rice, Secretary of State of the USA said that the USA may join Iran nuclear talks. ](/news/2006/05/31/the-united-states-is-expected-to-change-its-policies-regarding-iran-and-its-nuclear-program-condoleezza-rice-secretary-of-state-of-the-us.md)
 Iran&#39;s top leader, Ayatollah Ali Khamenei, warned Sunday that energy supplies from the Gulf region would be disrupted if Iran came under attack from the United States and insisted his country would not give up the right to produce nuclear fuel. 
 

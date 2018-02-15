@@ -17,19 +17,19 @@ _Context: exoplanet, Milky Way, OGLE-2005-BLG-390Lb, astronomers, light year_
 
 ##### Microsoft
 ### [ Microsoft, in an effort to resolve a controversy with the antitrust authorities of the European Community, announced that it will license some of its source code to rivals. ](/news/2006/01/25/microsoft-in-an-effort-to-resolve-a-controversy-with-the-antitrust-authorities-of-the-european-community-announced-that-it-will-license-s.md)
-_Context: Microsoft, European Community, antitrust_
+_Context: antitrust, Microsoft, European Community_
 
 ##### Google
 ### [ Google's launch of a new, self-censored search engine in China is a "black day" for freedom of expression, says leading international media watchdog Reporters without Borders. ](/news/2006/01/25/google-s-launch-of-a-new-self-censored-search-engine-in-china-is-a-black-day-for-freedom-of-expression-says-leading-international-media.md)
-_Context: Reporters without Borders's, Google_
+_Context: Google, Reporters without Borders's_
 
 ##### Ryanair
 ### [ Ryanair, Europe's largest low-cost carrier, and the world's most profitable airline, announces that it intends to charge up to EUR7 per bag checked in by customers. In return, the airline fares will drop by 9%. ](/news/2006/01/25/ryanair-europe-s-largest-low-cost-carrier-and-the-world-s-most-profitable-airline-announces-that-it-intends-to-charge-up-to-a-7-per-bag.md)
-_Context: airline, low-cost carrier, Ryanair_
+_Context: Ryanair, airline, low-cost carrier_
 
 ##### Uzbekistan
 ### [ Uzbekistan joins the Eurasian Economic Community. ](/news/2006/01/25/uzbekistan-joins-the-eurasian-economic-community.md)
-_Context: Uzbekistan, Eurasian Economic Community_
+_Context: Eurasian Economic Community, Uzbekistan_
 
 ##### Deus caritas est
 ### [ "Deus caritas est" (God is love), the first encyclical of Pope Benedict&nbsp;XVI, is published ](/news/2006/01/25/deus-caritas-est-god-is-love-the-first-encyclical-of-pope-benedict-nbsp-xvi-is-published.md)
@@ -37,7 +37,7 @@ _Context: encyclical, Deus caritas est, Pope Benedict&nbsp;XVI_
 
 ##### January 2006 legislative elections
 ### [ 2006 Palestinian elections: Palestinians prepare for the first elections to the PLC in ten years. ](/news/2006/01/25/2006-palestinian-elections-palestinians-prepare-for-the-first-elections-to-the-plc-in-ten-years.md)
-_Context: January 2006 legislative elections, Palestinian Legislative Council_
+_Context: Palestinian Legislative Council, January 2006 legislative elections_
 
 ## [Previous Day...](/news/2006/01/24/index.md)
 

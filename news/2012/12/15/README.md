@@ -13,7 +13,7 @@ The immigrants were coming from Turkey, and rescuers were seeking nine other peo
 
 ##### Patrick Ibrahim Yakowa
 ### [Patrick Ibrahim Yakowa, the Governor of Nigeria's Kaduna state dies in a helicopter crash in Bayelsa state, together with former national security adviser General Owoye Andrew Azazi and other senior officials. ](/news/2012/12/15/patrick-ibrahim-yakowa-the-governor-of-nigeria-s-kaduna-state-dies-in-a-helicopter-crash-in-bayelsa-state-together-with-former-national-se.md)
-_Context: Patrick Ibrahim Yakowa, Nigeria, Kaduna, Bayelsa, Owoye Andrew Azazi_
+_Context: Patrick Ibrahim Yakowa, Kaduna, Owoye Andrew Azazi, Bayelsa, Nigeria_
 
 ##### Alabama
 ### [Two incidents of shootings happened in the U.S. state of Alabama. A 38-year-old man opens fire at a hospital in Birmingham, wounding a police officer and two employees before he is fatally shot by police. In another unrelated incident, a man suspected of the fatal shooting of three people in a mobile home in Cleburne County, is shot to death near Birmingham by police after brandishing an AK-47. ](/news/2012/12/15/two-incidents-of-shootings-happened-in-the-u-s-state-of-alabama-a-38-year-old-man-opens-fire-at-a-hospital-in-birmingham-wounding-a-polic.md)
@@ -21,7 +21,7 @@ Authorities in Alabama say a man opened fire in a hospital, wounding an officer 
 
 ##### Fashion Island
 ### [A man stood in the parking lot of the Fashion Island mall in Newport Beach, California, and fired 50 gunshots in the air, inducing a mass of panic from the shoppers and employees. No one was hit by the bullets, but one person was injured while trying to flee. A 42-year-old man was arrested for the shooting, and additional ammunition was found in his car. ](/news/2012/12/15/a-man-stood-in-the-parking-lot-of-the-fashion-island-mall-in-newport-beach-california-and-fired-50-gunshots-in-the-air-inducing-a-mass-of.md)
-_Context: Newport Beach, California, Fashion Island_
+_Context: California, Fashion Island, Newport Beach_
 
 ##### Egypt
 ### [Voters in Egypt go to the polls for a highly charged referendum on a new constitution with violent clashes reported in Alexandria the evening before. ](/news/2012/12/15/voters-in-egypt-go-to-the-polls-for-a-highly-charged-referendum-on-a-new-constitution-with-violent-clashes-reported-in-alexandria-the-evenin.md)
@@ -41,11 +41,11 @@ Secretary of State Hillary Rodham Clinton sustained a concussion after fainting 
 
 ##### Russia
 ### [Russian police arrest prominent opposition leaders at a rally against President Vladimir Putin in Moscow. ](/news/2012/12/15/russian-police-arrest-prominent-opposition-leaders-at-a-rally-against-president-vladimir-putin-in-moscow.md)
-_Context: Vladimir Putin, Moscow, Russia, police, rally, Russian President_
+_Context: Russia, Vladimir Putin, police, Russian President, rally, Moscow_
 
 ##### Yamal-402
 ### [Yamal-402, the Russian communications satellite, is taken to its planned geostationary orbit following a series of four adjustment operations. ](/news/2012/12/15/yamal-402-the-russian-communications-satellite-is-taken-to-its-planned-geostationary-orbit-following-a-series-of-four-adjustment-operation.md)
-_Context: Yamal-402, geostationary orbit, communications satellite, Russia_
+_Context: Russia, communications satellite, geostationary orbit, Yamal-402_
 
 ## [Previous Day...](/news/2012/12/14/index.md)
 

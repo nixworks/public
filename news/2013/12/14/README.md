@@ -9,7 +9,7 @@ Two UN peacekeepers are killed and others are injured in a car bomb blast in the
 
 ##### Philippines
 ### [Philippine President Benigno Aquino III downplays the significance of the recent surge of violence against journalists in the country after three deaths. ](/news/2013/12/14/philippine-president-benigno-aquino-iii-downplays-the-significance-of-the-recent-surge-of-violence-against-journalists-in-the-country-after.md)
-_Context: Philippines, President, his predecessor_
+_Context: his predecessor, Philippines, President_
 
 #####  is thrown onto a bus
 ### [A grenade is thrown onto a bus in Nairobi, Kenya, killing at least four people and injuring 15 others. ](/news/2013/12/14/a-grenade-is-thrown-onto-a-bus-in-nairobi-kenya-killing-at-least-four-people-and-injuring-15-others.md)
@@ -21,11 +21,11 @@ LONDON (AP) — Known on the one hand for his starring role in &quot;Lawrence of
 
 ##### Nelson Mandela
 ### [The remains of Nelson Mandela are flown to the province of Eastern Cape, a day before his state funeral is held in Qunu. ](/news/2013/12/14/the-remains-of-nelson-mandela-are-flown-to-the-province-of-eastern-cape-a-day-before-his-state-funeral-is-held-in-qunu.md)
-_Context: province, Eastern Cape, Nelson Mandela, state funeral, Qunu_
+_Context: Qunu, state funeral, Eastern Cape, Nelson Mandela, province_
 
 ##### Tunisia
 ### [Tunisian politicians select Mehdi Jomaa as the acting Prime Minister of Tunisia until new elections are called. ](/news/2013/12/14/tunisian-politicians-select-mehdi-jomaa-as-the-acting-prime-minister-of-tunisia-until-new-elections-are-called.md)
-_Context: Tunisia, Mehdi Jomaa, Prime Minister of Tunisia_
+_Context: Prime Minister of Tunisia, Tunisia, Mehdi Jomaa_
 
 ##### Bogot
 ### [A mass protest is held in Bogot, Colombia, in protest against the unseating of Mayor Gustavo Petro. ](/news/2013/12/14/a-mass-protest-is-held-in-bogota-colombia-in-protest-against-the-unseating-of-mayor-gustavo-petro.md)

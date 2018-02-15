@@ -45,15 +45,15 @@ A mini-tornado damaged 10 homes in Canning Vale and Perth drivers faced lengthy 
 
 ##### Fiji
 ### [A disaster alert is issued for Fiji, after giant waves triggered by a deep pressure system in the Southern Ocean hit the Coral Coast. ](/news/2011/05/20/a-disaster-alert-is-issued-for-fiji-after-giant-waves-triggered-by-a-deep-pressure-system-in-the-southern-ocean-hit-the-coral-coast.md)
-_Context: Fiji, Southern Ocean, Coral Coast_
+_Context: Southern Ocean, Coral Coast, Fiji_
 
 ##### Mississippi River
 ### [Travel on the Mississippi River is closed for five miles near the US city of Baton Rouge, Louisiana due to flooding. ](/news/2011/05/20/travel-on-the-mississippi-river-is-closed-for-five-miles-near-the-us-city-of-baton-rouge-louisiana-due-to-flooding.md)
-_Context: flooding, Louisiana, Mississippi River, Baton Rouge, Louisiana_
+_Context: flooding, Mississippi River, Baton Rouge, Louisiana, Louisiana_
 
 #####  Georgian
 ### [Georgia becomes the first country to recognize the 19th-century Russian military campaign against the Circassians in the northwest Caucasus as a "genocide". ](/news/2011/05/20/georgia-becomes-the-first-country-to-recognize-the-19th-century-russian-military-campaign-against-the-circassians-in-the-northwest-caucasus.md)
-_Context: Circassians,  Georgian, genocide, Russian, Caucasus_
+_Context: Circassians, genocide, Caucasus, Russian,  Georgian_
 
 ##### Japan
 ### [Japan agrees to join an international child custody agreement under the 1980 Hague Convention on the Civil Aspects of International Child Abduction. ](/news/2011/05/20/japan-agrees-to-join-an-international-child-custody-agreement-under-the-1980-hague-convention-on-the-civil-aspects-of-international-child-ab.md)
@@ -65,7 +65,7 @@ North Korean leader Kim Jong Il was visiting China on Friday, a South Korean off
 
 ##### U.S. President
 ### [President Barack Obama meets with the Prime Minister of Israel Benjamin Netanyahu at the White House, during which Netanyahu emphasizes that Israel would not make a full withdraw to the pre-1967 borders as Obama requested yesterday, because these borders are "not defensible".](/news/2011/05/20/president-barack-obama-meets-with-the-prime-minister-of-israel-benjamin-netanyahu-at-the-white-house-during-which-netanyahu-emphasizes-that.md)
-_Context: U.S. President, Barack Obama, Benjamin Netanyahu, Six Day War, Israeli Prime Minister, White House_
+_Context: U.S. President, Barack Obama, White House, Israeli Prime Minister, Six Day War, Benjamin Netanyahu_
 
 ##### Taiwan
 ### [Military prosecutors in Taiwan indict a senior general on charges of spying for China. ](/news/2011/05/20/military-prosecutors-in-taiwan-indict-a-senior-general-on-charges-of-spying-for-china.md)
@@ -85,7 +85,7 @@ A footballer obtains a disclosure order against Twitter to learn the identities 
 
 ##### Parole
 ### [A parole decision on the former Mayor of the US city of Detroit, Kwame Kilpatrick, is delayed because of the prospect that he could face federal government corruption charges. ](/news/2011/05/20/a-parole-decision-on-the-former-mayor-of-the-us-city-of-detroit-kwame-kilpatrick-is-delayed-because-of-the-prospect-that-he-could-face-fed.md)
-_Context: Mayor of Detroit, Kwame Kilpatrick, Detroit, parole_
+_Context: Mayor of Detroit, parole, Detroit, Kwame Kilpatrick_
 
 ##### California State Prison, Sacramento
 ### [Two prisoners are injured in a riot at California State Prison, Sacramento. ](/news/2011/05/20/two-prisoners-are-injured-in-a-riot-at-california-state-prison-sacramento.md)
@@ -101,11 +101,11 @@ Young Spaniards plan to defy a ban on their protest camp in Madrid as their chal
 
 ##### Santiago
 ### [Tens of thousands of people protest in Santiago, Chile about plans to build two dams on wild rivers in southern Patagonia with an minority of people turning violent. ](/news/2011/05/20/tens-of-thousands-of-people-protest-in-santiago-chile-about-plans-to-build-two-dams-on-wild-rivers-in-southern-patagonia-with-an-minority-o.md)
-_Context: Santiago, Chile, Patagonia_
+_Context: Chile, Santiago, Patagonia_
 
 ##### Government
 ### [The Government of the People's Republic of China acknowledges that there are "urgent problems" associated with the country's Three Gorges Dam project, as it is linked to soil erosion, earthquakes, drought and social upheaval. ](/news/2011/05/20/the-government-of-the-people-s-republic-of-china-acknowledges-that-there-are-urgent-problems-associated-with-the-country-s-three-gorges-da.md)
-_Context: Three Gorges Dam, drought, government, soil erosion_
+_Context: drought, soil erosion, Three Gorges Dam, government_
 
 ## [Previous Day...](/news/2011/05/19/index.md)
 

@@ -3,9 +3,9 @@ Formats: [HTML](2014/09/7/index.html)  [JSON](2014/09/7/index.json)  [XML](2014/
 
 ## [2014-09-7](/news/2014/09/7/index.md)
 
-##### U.S.
+##### United States
 ### [The United States launches new airstrikes on ISIS in western Iraq, in an effort to protect the Haditha Dam. ](/news/2014/09/7/the-united-states-launches-new-airstrikes-on-isis-in-western-iraq-in-an-effort-to-protect-the-haditha-dam.md)
-_Context: U.S., ISIL, Haditha Dam_
+_Context: United States, ISIL, Haditha Dam_
 
 ##### Araraquara Airport
 ### [A small plane carrying ten people from Araraquara Airport crashes in the Amazon jungle, with "little chance of finding survivors". ](/news/2014/09/7/a-small-plane-carrying-ten-people-from-araraquara-airport-crashes-in-the-amazon-jungle-with-little-chance-of-finding-survivors.md)

@@ -9,15 +9,15 @@ Colorado Gunman Sexually Assaulted 6 Students Before Killing One And Committing 
 
 ##### Russia
 ### [ Russia recalls its ambassador from Georgia over the detention there of several Russian army officers on spying charges and ordered a partial evacuation of Russian diplomatic staff from that country. ](/news/2006/09/28/russia-recalls-its-ambassador-from-georgia-over-the-detention-there-of-several-russian-army-officers-on-spying-charges-and-ordered-a-partia.md)
-_Context:  Georgian, ambassador, Russia, spy_
+_Context:  Georgian, spy, Russia, ambassador_
 
 ##### Abu Hamza al-Muhajir
 ### [ Abu Hamza al-Muhajir, the new leader of al-Qaida in Iraq, urges Muslims to make the month of Ramadan a "month of holy war" in an audiotape posted on an Islamic web site. ](/news/2006/09/28/abu-hamza-al-muhajir-the-new-leader-of-al-qaida-in-iraq-urges-muslims-to-make-the-month-of-ramadan-a-month-of-holy-war-in-an-audiotape.md)
-_Context: Ramadan, jihad, Muslim, al-Qaida in Iraq, Abu Hamza al-Muhajir, Islam_
+_Context: Muslim, Islam, Ramadan, jihad, Abu Hamza al-Muhajir, al-Qaida in Iraq_
 
 ##### Maria Fyodorovna
 ### [ Empress Maria Fyodorovna of Russia is interred in the Peter and Paul Cathedral of Saint Petersburg, next to her husband, Alexander III of Russia. ](/news/2006/09/28/empress-maria-fyodorovna-of-russia-is-interred-in-the-peter-and-paul-cathedral-of-saint-petersburg-next-to-her-husband-alexander-iii-of-r.md)
-_Context: Maria Fyodorovna, Peter and Paul Cathedral, Russia, Saint Petersburg, Alexander III of Russia_
+_Context: Maria Fyodorovna, Russia, Alexander III of Russia, Saint Petersburg, Peter and Paul Cathedral_
 
 ##### Israel
 ### [ Israeli radio reports that Prime Minister of Israel Ehud Olmert said he plans to meet Palestinian President Mahmoud Abbas in coming days. ](/news/2006/09/28/israeli-radio-reports-that-prime-minister-of-israel-ehud-olmert-said-he-plans-to-meet-palestinian-president-mahmoud-abbas-in-coming-days.md)
@@ -25,7 +25,7 @@ The Sydney Morning Herald 404 Page
 
 ##### Top Gear
 ### [ "Top Gear" presenter Richard Hammond leaves Leeds General Infirmary for an undisclosed hospital near his home to recuperate after major car crash whilst filming the week before. ](/news/2006/09/28/top-gear-presenter-richard-hammond-leaves-leeds-general-infirmary-for-an-undisclosed-hospital-near-his-home-to-recuperate-after-major-car.md)
-_Context: Top Gear, Richard Hammond, Leeds General Infirmary, accident_
+_Context: Richard Hammond, Top Gear, Leeds General Infirmary, accident_
 
 ## [Previous Day...](/news/2006/09/27/index.md)
 

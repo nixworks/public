@@ -13,11 +13,11 @@ Mutinous soldiers said they seized power in Mali on Thursday and ordered its bor
 
 ##### Syrian armed forces
 ### [Syrian armed forces continue to shell the city of Hama and at least 59 civilians are reported killed across Syria, in Idlib, Homs, Hama, Daraa, Lattakia, Aleppo and Damascus. ](/news/2012/03/22/syrian-armed-forces-continue-to-shell-the-city-of-hama-and-at-least-59-civilians-are-reported-killed-across-syria-in-idlib-homs-hama-dar.md)
-_Context: Syrian armed forces, Lattakia, Damascus, Hama, Daraa, Idlib, Homs, Aleppo_
+_Context: Lattakia, Daraa, Damascus, Aleppo, Hama, Idlib, Syrian armed forces, Homs_
 
 ##### Kurdistan Workers' Party
 ### [12 people are killed in an operation against PKK rebels in southeastern Turkey. ](/news/2012/03/22/12-people-are-killed-in-an-operation-against-pkk-rebels-in-southeastern-turkey.md)
-_Context: Kurdistan Workers' Party, Turkey_
+_Context: Turkey, Kurdistan Workers' Party_
 
 ##### Montreal, Canada
 ### [Several thousands of students in Montreal, Canada protest against proposed post-secondary education tuition hikes. ](/news/2012/03/22/several-thousands-of-students-in-montreal-canada-protest-against-proposed-post-secondary-education-tuition-hikes.md)
@@ -25,7 +25,7 @@ _Context: Montreal, Canada_
 
 ##### Los Angeles County Coroner's Office
 ### [The Los Angeles County Coroner's Office says that Whitney Houston's official cause of death was drowning as a result of cocaine use. ](/news/2012/03/22/the-los-angeles-county-coroner-s-office-says-that-whitney-houston-s-official-cause-of-death-was-drowning-as-a-result-of-cocaine-use.md)
-_Context: Whitney Houston, cocaine, Los Angeles County Coroner's Office_
+_Context: cocaine, Whitney Houston, Los Angeles County Coroner's Office_
 
 ##### Irish
 ### [Ireland officially falls back into recession. ](/news/2012/03/22/ireland-officially-falls-back-into-recession.md)
@@ -33,9 +33,9 @@ The Republic of Ireland fell back into recession in the last three months of 201
 
 ##### Portuguese nationals
 ### [Portuguese trade unions hold a 24-hour strike in protest of austerity measures. ](/news/2012/03/22/portuguese-trade-unions-hold-a-24-hour-strike-in-protest-of-austerity-measures.md)
-_Context: labour unions, Portuguese nationals_
+_Context: Portuguese nationals, labour unions_
 
-##### U.S.
+##### United States
 ### [In the United States, about 350,000 people filed for unemployment benefits, hitting a four-year low, according to the United States Labor Department. ](/news/2012/03/22/in-the-united-states-about-350-000-people-filed-for-unemployment-benefits-hitting-a-four-year-low-according-to-the-united-states-labor-de.md)
 The number of first-time filers for unemployment insurance fell to a four-year low last week, hinting that strong job growth likely continued in March.
 
@@ -85,7 +85,7 @@ The CAG-estimated loss figure of Rs 10.67 lakh crore is 6 times that of its high
 
 ##### Montreal
 ### [In Montreal the biggest protest in Quebec's history sets out against the government's tuition hikes and for free access to post-secondary education, with more than 200 000 people marching in the streets ](/news/2012/03/22/in-montreal-the-biggest-protest-in-quebec-s-history-sets-out-against-the-government-s-tuition-hikes-and-for-free-access-to-post-secondary-ed.md)
-_Context: Montreal, Quebec_
+_Context: Quebec, Montreal_
 
 ## [Previous Day...](/news/2012/03/21/index.md)
 

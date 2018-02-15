@@ -9,7 +9,7 @@ Iranians mourn 17 killed in two attacks on the capital this week
 
 ##### War in North-West Pakistan
 ### [Chinese authorities report "grave concern" over reports that two kidnapped Chinese teachers in Quetta, Pakistan, were killed by members of the Islamic State of Iraq and the Levant. ](/news/2017/06/9/chinese-authorities-report-grave-concern-over-reports-that-two-kidnapped-chinese-teachers-in-quetta-pakistan-were-killed-by-members-of-t.md)
-_Context: Pakistan, ISIL, Quetta, War in North-West Pakistan, China_
+_Context: War in North-West Pakistan, China, Quetta, ISIL, Pakistan_
 
 ##### Saudi-led intervention in Yemen
 ### [Human rights activists accuse forces led by Saudi Arabia and the UAE of kidnapping and torturing people during the Yemeni conflict. ](/news/2017/06/9/human-rights-activists-accuse-forces-led-by-saudi-arabia-and-the-uae-of-kidnapping-and-torturing-people-during-the-yemeni-conflict.md)
@@ -25,7 +25,7 @@ The US actor struggled to find work after starring as the Caped Crusader in the 
 
 ##### Space launch market competition
 ### [United Launch Alliance says it was not given an opportunity to bid against rival SpaceX for the upcoming launch of the U.S. Air Force miniature X-37B space plane. The Air Force declined to comment. ](/news/2017/06/9/united-launch-alliance-says-it-was-not-given-an-opportunity-to-bid-against-rival-spacex-for-the-upcoming-launch-of-the-u-s-air-force-miniat.md)
-_Context: Space launch market competition, miniature X-37B space plane, United States Air Force, United Launch Alliance, SpaceX_
+_Context: United States Air Force, Space launch market competition, miniature X-37B space plane, United Launch Alliance, SpaceX_
 
 ##### Last general election
 ### [Results of yesterday's snap election are counted, revealing a hung parliament as the Conservative Party fails to retain its parliamentary majority, despite remaining the party with the most seats. Prime Minister Theresa May announced that she will form a minority government with the support of the Northern Irish Democratic Unionist Party. ](/news/2017/06/9/results-of-yesterday-s-snap-election-are-counted-revealing-a-hung-parliament-as-the-conservative-party-fails-to-retain-its-parliamentary-ma.md)
@@ -37,7 +37,7 @@ Japan&#039;s parliament has passed a law allowing Emperor Akihito to become the 
 
 ##### James Comey Senate Intelligence Committee testimony
 ### [President Donald Trump claims that James Comey committed perjury during his testimony yesterday, and offers to give his own testimony, "under oath," refuting that he requested Comey to drop the Flynn investigation and that he had asked for Comey's allegence. ](/news/2017/06/9/president-donald-trump-claims-that-james-comey-committed-perjury-during-his-testimony-yesterday-and-offers-to-give-his-own-testimony-unde.md)
-_Context: committed perjury, "under oath,", James Comey Senate Intelligence Committee testimony, James Comey, Donald Trump_
+_Context: James Comey Senate Intelligence Committee testimony, committed perjury, "under oath,", James Comey, Donald Trump_
 
 ## [Previous Day...](/news/2017/06/8/index.md)
 

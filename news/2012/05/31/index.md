@@ -5,7 +5,7 @@ Formats: [HTML](2012/05/31/index.html)  [JSON](2012/05/31/index.json)  [XML](201
 
 ##### Bombings
 ### [A series of bombings in the Iraqi capital Baghdad kills 14 people. ](/news/2012/05/31/a-series-of-bombings-in-the-iraqi-capital-baghdad-kills-14-people.md)
-_Context: bombings, Baghdad, Iraq_
+_Context: Iraq, Baghdad, bombings_
 
 ##### Suicide bomber
 ### [A suicide bomber kills five policeman at a police headquarters in the southern Afghan province of Kandahar. ](/news/2012/05/31/a-suicide-bomber-kills-five-policeman-at-a-police-headquarters-in-the-southern-afghan-province-of-kandahar.md)
@@ -17,11 +17,11 @@ A German engineer abducted in January by gunmen in Kano in northern Nigeria has 
 
 ##### Conservative Christian
 ### [American conservative Christian lobby group One Million Moms launches a campaign against the decision of DC and Marvel Comics to include openly gay characters in their comics. ](/news/2012/05/31/american-conservative-christian-lobby-group-one-million-moms-launches-a-campaign-against-the-decision-of-dc-and-marvel-comics-to-include-ope.md)
-_Context: Marvel Comics, conservative Christian, One Million Moms, gay, DC_
+_Context: One Million Moms, DC, gay, conservative Christian, Marvel Comics_
 
 ##### BBC Radio 4
 ### [BBC Radio 4 announces a five-and-a-half-hour celebration of James Joyce's "Ulysses" on this coming Bloomsday, claiming it as the novel's first full-length dramatisation in Britain. ](/news/2012/05/31/bbc-radio-4-announces-a-five-and-a-half-hour-celebration-of-james-joyce-s-ulysses-on-this-coming-bloomsday-claiming-it-as-the-novel-s-fir.md)
-_Context: Bloomsday, BBC Radio 4, James Joyce, Ulysses_
+_Context: James Joyce, Ulysses, Bloomsday, BBC Radio 4_
 
 ##### Petrol
 ### [A nationwide strike against rising petrol prices closes shops and disrupts public transport in India, with the government facing widespread criticism over its economic management. ](/news/2012/05/31/a-nationwide-strike-against-rising-petrol-prices-closes-shops-and-disrupts-public-transport-in-india-with-the-government-facing-widespread.md)
@@ -33,7 +33,7 @@ _Context: Bilderberg Group, Chantilly, Virginia_
 
 ##### Secretary of State for Culture, Media and Sport
 ### [British Culture Secretary Jeremy Hunt appears at the Leveson Inquiry into media practices in the UK. The inquiry hears that he congratulated James Murdoch on the progress of News Corporation's takeover bid for BSkyB just hours before he was charged with overseeing it, but acted impartially once he took on the role. Prime Minister David Cameron says he will not order an inquiry into Hunt's ministerial conduct. ](/news/2012/05/31/british-culture-secretary-jeremy-hunt-appears-at-the-leveson-inquiry-into-media-practices-in-the-uk-the-inquiry-hears-that-he-congratulated.md)
-_Context: Secretary of State for Culture, Media and Sport, BSkyB takeover bid, David Cameron, James, Leveson Inquiry, Jeremy Hunt, BSkyB, News Corporation, Prime Minister_
+_Context: Jeremy Hunt, BSkyB takeover bid, David Cameron, Secretary of State for Culture, Media and Sport, BSkyB, Prime Minister, Leveson Inquiry, James, News Corporation_
 
 ##### Democrat
 ### [A jury clears former Democratic Party candidate for Vice-President of the United States John Edwards on one count of corruption, with the judge ordering a mistrial on the other five counts. ](/news/2012/05/31/a-jury-clears-former-democratic-party-candidate-for-vice-president-of-the-united-states-john-edwards-on-one-count-of-corruption-with-the-ju.md)
@@ -41,7 +41,7 @@ _Context: John Edwards, Vice-President of the United States, Democrat_
 
 ##### California
 ### [California's prison system is facing a lawsuit from the Center for Constitutional Rights for its use of long terms of solitary confinement, some of which last decades. ](/news/2012/05/31/california-s-prison-system-is-facing-a-lawsuit-from-the-center-for-constitutional-rights-for-its-use-of-long-terms-of-solitary-confinement.md)
-_Context: Center for Constitutional Rights, California, solitary confinement_
+_Context: California, solitary confinement, Center for Constitutional Rights_
 
 ##### Egypt
 ### [Egypt formally ends its 31-year state of emergency, which gave security forces broad powers to suppress civil unrest and detain dissenters. ](/news/2012/05/31/egypt-formally-ends-its-31-year-state-of-emergency-which-gave-security-forces-broad-powers-to-suppress-civil-unrest-and-detain-dissenters.md)

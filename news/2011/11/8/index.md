@@ -9,15 +9,15 @@ The UN says at least 3,500 people have been killed in anti-government protests i
 
 ##### Russia
 ### [Russia starts commercial natural gas deliveries to Central Europe via the Nord Stream, the world's longest submerged pipeline. ](/news/2011/11/8/russia-starts-commercial-natural-gas-deliveries-to-central-europe-via-the-nord-stream-the-world-s-longest-submerged-pipeline.md)
-_Context: Nord Stream, Central Europe, line, Russia, natural gas_
+_Context: natural gas, Nord Stream, Central Europe, Russia, line_
 
 ##### Americans
 ### [A record number of Americans -- 49.1 million -- are living below the poverty line, based on a new census measure. ](/news/2011/11/8/a-record-number-of-americans-a-49-1-million-a-are-living-below-the-poverty-line-based-on-a-new-census-measure.md)
-_Context: poverty line, Americans_
+_Context: Americans, poverty line_
 
 ##### Floods
 ### [Flooding in Thailand reaches the residence of the Prime Minister Yingluck Shinawatra in Bangkok, forcing her to withdraw from the Hawaii APEC summit to deal with the crisis. ](/news/2011/11/8/flooding-in-thailand-reaches-the-residence-of-the-prime-minister-yingluck-shinawatra-in-bangkok-forcing-her-to-withdraw-from-the-hawaii-ape.md)
-_Context: Bangkok, floods, Thailand, Yingluck Shinawatra, Prime Minister, Hawaii, APEC_
+_Context: Prime Minister, Bangkok, Thailand, floods, Yingluck Shinawatra, APEC, Hawaii_
 
 ##### Stampede
 ### [At least 16 people are killed in a stampede during a religious festival in the Indian city of Haridwar, Uttarakhand. ](/news/2011/11/8/at-least-16-people-are-killed-in-a-stampede-during-a-religious-festival-in-the-indian-city-of-haridwar-uttarakhand.md)
@@ -33,15 +33,15 @@ International weapons inspectors say a trove of new evidence makes a “credible
 
 ##### Chinese President
 ### [Human rights groups send an open letter to the President of the People's Republic of China, Hu Jintao, pressing the Chinese government to address the underlying causes of protests that have led 11 Tibetans to set themselves on fire since March. ](/news/2011/11/8/human-rights-groups-send-an-open-letter-to-the-president-of-the-people-s-republic-of-china-hu-jintao-pressing-the-chinese-government-to-ad.md)
-_Context: Chinese President, sets herself alight, Hu Jintao, repressive policies in Tibet, China, Tibetan_
+_Context: sets herself alight, Hu Jintao, China, Tibetan, Chinese President, repressive policies in Tibet_
 
 ##### French President
 ### [Journalists report comments by French President Nicolas Sarkozy to US President Barack Obama at the G20 summit in Cannes, in which Sarkozy called Israeli Prime Minister Benjamin Netanyahu a "liar". ](/news/2011/11/8/journalists-report-comments-by-french-president-nicolas-sarkozy-to-us-president-barack-obama-at-the-g20-summit-in-cannes-in-which-sarkozy-c.md)
-_Context: US President, Barack Obama, G20 summit in Cannes, Israel, French President, Benjamin Netanyahu, Nicolas Sarkozy_
+_Context: Nicolas Sarkozy, US President, Barack Obama, G20 summit in Cannes, Benjamin Netanyahu, French President, Israel_
 
 ##### Senate of Australia
 ### [The Australian Senate votes to introduce a controversial carbon tax, a form of carbon pricing. ](/news/2011/11/8/the-australian-senate-votes-to-introduce-a-controversial-carbon-tax-a-form-of-carbon-pricing.md)
-_Context: carbon pricing, carbon tax, Senate of Australia_
+_Context: carbon tax, Senate of Australia, carbon pricing_
 
 ##### Italian Prime Minister
 ### [Prime Minister of Italy Silvio Berlusconi narrowly wins a key budget vote in the Italian Parliament, but loses his parliamentary absolute majority as both allied and opposition politicians call on him to resign. ](/news/2011/11/8/prime-minister-of-italy-silvio-berlusconi-narrowly-wins-a-key-budget-vote-in-the-italian-parliament-but-loses-his-parliamentary-absolute-ma.md)
@@ -49,7 +49,7 @@ Italian Prime Minister Silvio Berlusconi said on Tuesday he would resign after s
 
 ##### Liberia
 ### [Voters in Liberia go to the polls for the second round of a presidential election, with the incumbent President, Ellen Johnson Sirleaf, likely to be re-elected. ](/news/2011/11/8/voters-in-liberia-go-to-the-polls-for-the-second-round-of-a-presidential-election-with-the-incumbent-president-ellen-johnson-sirleaf-like.md)
-_Context: Liberian presidential election, President of Liberia, Liberia, Ellen Johnson Sirleaf_
+_Context: President of Liberia, Liberia, Liberian presidential election, Ellen Johnson Sirleaf_
 
 ##### Steve Beshear
 ### [Democratic Governor Steve Beshear is re-elected Governor of Kentucky. ](/news/2011/11/8/democratic-governor-steve-beshear-is-re-elected-governor-of-kentucky.md)

@@ -25,7 +25,7 @@ South Sudan accused Sudan of launching a ground attack in an oil region of the n
 
 ##### Massacre at Zelezarsko lake
 ### [Up to 20 people are arrested amid the investigation about last month's massacre at Zelezarsko lake in the Republic of Macedonia. ](/news/2012/05/1/up-to-20-people-are-arrested-amid-the-investigation-about-last-month-s-massacre-at-a1-2elezarsko-lake-in-the-republic-of-macedonia.md)
-_Context: massacre at Zelezarsko lake, Republic of Macedonia_
+_Context: Republic of Macedonia, massacre at Zelezarsko lake_
 
 ##### Dow Jones Industrial Average
 ### [The Dow Jones Industrial Average reaches a four-year high due to strong manufacturing figures and company earnings. ](/news/2012/05/1/the-dow-jones-industrial-average-reaches-a-four-year-high-due-to-strong-manufacturing-figures-and-company-earnings.md)
@@ -37,11 +37,11 @@ Tens of thousands of people take to the streets across the globe, protesting aga
 
 ##### Japan
 ### [April car sales in Japan rise by 92% year-over-year, a gain partially realized due to low sales in the wake of last year's earthquake and tsunami. ](/news/2012/05/1/april-car-sales-in-japan-rise-by-92-year-over-year-a-gain-partially-realized-due-to-low-sales-in-the-wake-of-last-year-s-earthquake-and-ts.md)
-_Context: Japan, 2011 Tohoku earthquake and tsunami_
+_Context: 2011 Tohoku earthquake and tsunami, Japan_
 
 ##### Obama administration
 ### [U.S. President Barack Obama visits Afghanistan on an unannounced visit coinciding with the first anniversary of Osama Bin Laden's assassination by the U.S. Special Forces in Pakistan, signing an agreement with Afghan President Hamid Karzai outlining a continuing U.S. role in Afghanistan after 2014. ](/news/2012/05/1/u-s-president-barack-obama-visits-afghanistan-on-an-unannounced-visit-coinciding-with-the-first-anniversary-of-osama-bin-laden-s-assassinat.md)
-_Context: Pakistan, Afghanistan, Hamid Karzai, father's killing, Osama Bin Laden, Obama administration_
+_Context: Osama Bin Laden, Obama administration, Hamid Karzai, Afghanistan, Pakistan, father's killing_
 
 ##### President of the European Commission
 ### [Five European presidents and the President of the European Commission cancel visits to Ukraine over the treatment of the former prime minister Yulia Tymoshenko. ](/news/2012/05/1/five-european-presidents-and-the-president-of-the-european-commission-cancel-visits-to-ukraine-over-the-treatment-of-the-former-prime-minist.md)
@@ -49,7 +49,7 @@ Ukraine is facing growing isolation as five presidents and the EU Commission can
 
 ##### Egypt
 ### [Egypt security services foil an alleged Iranian plot to kill the Saudi ambassador in Cairo. ](/news/2012/05/1/egypt-security-services-foil-an-alleged-iranian-plot-to-kill-the-saudi-ambassador-in-cairo.md)
-_Context: Cairo, Egypt, Saudi Arabia, Iran_
+_Context: Egypt, Cairo, Saudi Arabia, Iran_
 
 ##### Li Keqiang
 ### [Chinese Vice-Premier Li Keqiang visits Moscow. China and Russia sign trade deals worth $15 billion. ](/news/2012/05/1/chinese-vice-premier-li-keqiang-visits-moscow-china-and-russia-sign-trade-deals-worth-15-billion.md)
@@ -73,7 +73,7 @@ _Context: Turkey, constitution_
 
 ##### Tzipi Livni
 ### [Former opposition leader and foreign minister Tzipi Livni quits the Israeli parliament. ](/news/2012/05/1/former-opposition-leader-and-foreign-minister-tzipi-livni-quits-the-israeli-parliament.md)
-_Context: Israel, Tzipi Livni_
+_Context: Tzipi Livni, Israel_
 
 ## [Previous Day...](/news/2012/04/30/index.md)
 

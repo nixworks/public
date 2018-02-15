@@ -17,7 +17,7 @@ A civil lawsuit was previously filed against the Oscar-winning filmmaker, prompt
 
 ##### 2018 Luxor hot air balloon crash
 ### [A hot air balloon crashes due to strong winds in Egypt's Luxor Governorate. A tourist from Australia is killed and 12 other tourists are injured. The Egypt Aviation Authority says there were 20 passengers on the balloon. ](/news/2018/01/5/a-hot-air-balloon-crashes-due-to-strong-winds-in-egypt-s-luxor-governorate-a-tourist-from-australia-is-killed-and-12-other-tourists-are-inj.md)
-_Context: Australia, hot air balloon, 2018 Luxor hot air balloon crash, Egypt, Luxor Governorate_
+_Context: hot air balloon, 2018 Luxor hot air balloon crash, Luxor Governorate, Egypt, Australia_
 
 ##### Accession of Turkey to the European Union
 ### [Turkish President Recep Tayyip Erdogan says he is "tired" of waiting for the European Union to approve Turkey's membership in the political union. ](/news/2018/01/5/turkish-president-recep-tayyip-erdoaan-says-he-is-tired-of-waiting-for-the-european-union-to-approve-turkey-s-membership-in-the-political.md)
@@ -37,7 +37,7 @@ The United Nations Security Council discussed the recent protests in Iran over e
 
 ##### Russian interference in the 2016 United States elections
 ### [Senators Chuck Grassley and Lindsey Graham of the United States Senate Committee on the Judiciary refer the British spy Christopher Steele to the U.S. Department of Justice for a potential criminal investigation. ](/news/2018/01/5/senators-chuck-grassley-and-lindsey-graham-of-the-united-states-senate-committee-on-the-judiciary-refer-the-british-spy-christopher-steele-t.md)
-_Context: Christopher Steele, Chuck Grassley, Russian interference in the 2016 United States elections, Lindsey Graham, United States Senate Committee on the Judiciary, U.S. Department of Justice_
+_Context: Christopher Steele, Russian interference in the 2016 United States elections, United States Senate Committee on the Judiciary, U.S. Department of Justice, Lindsey Graham, Chuck Grassley_
 
 ##### Politics of the United States
 ### [National Security Agency director Admiral Mike Rogers plans to retire this spring. President Donald Trump is expected to nominate a successor later this month. ](/news/2018/01/5/national-security-agency-director-admiral-mike-rogers-plans-to-retire-this-spring-president-donald-trump-is-expected-to-nominate-a-successo.md)
@@ -45,7 +45,7 @@ It&#39;s expected that Donald Trump will nominate Rogers&#39; successor this mon
 
 ##### Ozone depletion
 ### [NASA research, published in "Geophysical Research Letters", implies that the ozone layer is starting to recover due to man's actions. The decline in ozone-depleting chemicals, specifically chlorine from chlorofluorocarbon (an effect from the 1980's CFC ban, say the scientists), has resulted in 20 percent less depletion since 2005. ](/news/2018/01/5/nasa-research-published-in-geophysical-research-letters-implies-that-the-ozone-layer-is-starting-to-recover-due-to-man-s-actions-the-de.md)
-_Context: CFC ban, NASA, chlorofluorocarbon, Geophysical Research Letters, ozone layer, chlorine, Ozone depletion_
+_Context: Ozone depletion, CFC ban, chlorine, Geophysical Research Letters, NASA, ozone layer, chlorofluorocarbon_
 
 ## [Previous Day...](/news/2018/01/4/index.md)
 

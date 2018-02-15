@@ -9,31 +9,31 @@ A suicide bomber tried to assassinate the head of Saudi Arabia’s antiterrorism
 
 ##### Reading Rainbow
 ### [ "Reading Rainbow", the third longest-running children's show on United States public-service television network PBS, ends its 26-year run. ](/news/2009/08/28/reading-rainbow-the-third-longest-running-children-s-show-on-united-states-public-service-television-network-pbs-ends-its-26-year-run.md)
-_Context: PBS, Reading Rainbow, U.S._
+_Context: PBS, United States, Reading Rainbow_
 
 ##### Chemical structure
 ### [ The detailed chemical structure of a single molecule has been imaged for the first time. The physical shape of single carbon nanotubes has been outlined before, using similar techniques, but the new method even shows up chemical bonds. ](/news/2009/08/28/the-detailed-chemical-structure-of-a-single-molecule-has-been-imaged-for-the-first-time-the-physical-shape-of-single-carbon-nanotubes-has.md)
-_Context: molecule, chemical bonds, similar techniques, chemical structure, carbon nanotubes_
+_Context: chemical bonds, molecule, carbon nanotubes, chemical structure, similar techniques_
 
 ##### United Nations
 ### [ The United Nations warns that poultry farms could become infected with the H1N1 virus, following the discovery of the virus in turkeys in Chile last week. ](/news/2009/08/28/the-united-nations-warns-that-poultry-farms-could-become-infected-with-the-h1n1-virus-following-the-discovery-of-the-virus-in-turkeys-in-c.md)
-_Context: Chile, virus, H1N1 virus, United Nations, poultry, turkey_
+_Context: H1N1 virus, poultry, United Nations, turkey, virus, Chile_
 
 ##### Survival manual
 ### [ According to declassified documents released this week, a survival manual produced by Transport Canada was used by U.S. interrogators to set limits on dousing detainees with cold water as a form of water torture. ](/news/2009/08/28/according-to-declassified-documents-released-this-week-a-survival-manual-produced-by-transport-canada-was-used-by-u-s-interrogators-to-se.md)
-_Context: water torture, detainees, survival manual, dousing, Transport Canada, detainee_
+_Context: survival manual, detainee, detainees, dousing, Transport Canada, water torture_
 
 ##### Japan
 ### [ Japan's unemployment rate reaches a record high of 5.7%. ](/news/2009/08/28/japan-s-unemployment-rate-reaches-a-record-high-of-5-7.md)
-_Context: unemployment rate, Japan_
+_Context: Japan, unemployment rate_
 
 ##### Iceland
 ### [ Iceland's Althing votes in favour of repaying more than US$5 billion owed to the governments of the Netherlands and the United Kingdom as a result of the collapse of the Icesave bank. ](/news/2009/08/28/iceland-s-althing-votes-in-favour-of-repaying-more-than-us-5-billion-owed-to-the-governments-of-the-netherlands-and-the-united-kingdom-as-a.md)
-_Context: Althing, Icesave, United Kingdom, $, Netherlands, Iceland_
+_Context: United Kingdom, Iceland, Icesave, Netherlands, $, Althing_
 
 ##### Los Angeles County, California
 ### [ The Los Angeles County coroner rules that American entertainer and musician Michael Jackson's death was a homicide caused by acute intoxication from the drug propofol. ](/news/2009/08/28/the-los-angeles-county-coroner-rules-that-american-entertainer-and-musician-michael-jackson-s-death-was-a-homicide-caused-by-acute-intoxica.md)
-_Context: Los Angeles County, California, U.S., propofol, coroner, homicide, intoxication, drug, death, Michael Jackson_
+_Context: intoxication, drug, United States, coroner, propofol, homicide, Los Angeles County, California, death, Michael Jackson_
 
 ##### Italian Prime Minister
 ### [ Prime Minister of Italy Silvio Berlusconi launches legal action against French weekly "Nouvel Observateur", Spanish newspaper "El Pas", and Italian newspaper "La Repubblica", and has authorized his attorneys to prepare cases against British newspapers, charging the newspapers with libel. ](/news/2009/08/28/prime-minister-of-italy-silvio-berlusconi-launches-legal-action-against-french-weekly-nouvel-observateur-spanish-newspaper-el-pais-an.md)
@@ -49,11 +49,11 @@ Fresh fighting has erupted between Myanmar forces and an armed ethnic group in t
 
 ##### United Nations
 ### [ United Nations diplomats confirm the United Arab Emirates seized a North Korean ship carrying weapons to Iran, in violation of Security Council Resolution 1874. ](/news/2009/08/28/united-nations-diplomats-confirm-the-united-arab-emirates-seized-a-north-korean-ship-carrying-weapons-to-iran-in-violation-of-security-cou.md)
-_Context: United Nations Security Council, United Arab Emirates, sanctions, Iran, North Korea, United Nations_
+_Context: United Nations Security Council, Iran, United Arab Emirates, sanctions, United Nations, North Korea_
 
 ##### Iran
 ### [ Iranian President Mahmoud Ahmadinejad calls for opposition leaders to be punished over election protests which occurred earlier this year. ](/news/2009/08/28/iranian-president-mahmoud-ahmadinejad-calls-for-opposition-leaders-to-be-punished-over-election-protests-which-occurred-earlier-this-year.md)
-_Context: protests against the regime, Iran, President, Mahmoud Ahmadinejad_
+_Context: President, Mahmoud Ahmadinejad, protests against the regime, Iran_
 
 ##### NASA
 ### [ NASA launches the 103 (STS-128) for a resupply and crew rotation mission to the International Space Station. The mission will also deliver the Multi-Purpose Logistics Module Leonardo. This is Discovery's 37th flight and will celebrate the 25th anniversary of its first flight during the mission. ](/news/2009/08/28/nasa-launches-the-103-sts-128-for-a-resupply-and-crew-rotation-mission-to-the-international-space-station-the-mission-will-also-deliver.md)

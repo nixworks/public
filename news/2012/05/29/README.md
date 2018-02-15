@@ -13,7 +13,7 @@ _Context: Somalia, Sheikh Sharif Ahmed_
 
 ##### 2012 South Sudan-Sudan border conflict
 ### [2012 South Sudan-Sudan border conflict: Sudan and South Sudan restart talks to avoid war amid accusations of bombing raids. ](/news/2012/05/29/2012-south-sudanasudan-border-conflict-sudan-and-south-sudan-restart-talks-to-avoid-war-amid-accusations-of-bombing-raids.md)
-_Context: South Sudan, 2012 South Sudan-Sudan border conflict, Sudan_
+_Context: 2012 South Sudan-Sudan border conflict, South Sudan, Sudan_
 
 ##### Brett Murray
 ### [The gallery which exhibited Brett Murray's controversial painting "The Spear" agrees to take down an image of the artwork from its website as thousands of people march in protest through the streets of Johannesburg. ](/news/2012/05/29/the-gallery-which-exhibited-brett-murray-s-controversial-painting-the-spear-agrees-to-take-down-an-image-of-the-artwork-from-its-website-a.md)
@@ -25,7 +25,7 @@ _Context: microblog, Sina Weibo, China_
 
 ##### Wall Street
 ### [Four of Wall Street's market makers involved in Facebook's botched IPO are expecting losses from technical glitches to be around US$115&nbsp;million. ](/news/2012/05/29/four-of-wall-street-s-market-makers-involved-in-facebook-s-botched-ipo-are-expecting-losses-from-technical-glitches-to-be-around-us-115-nbsp.md)
-_Context: Wall Street, IPO, Facebook_
+_Context: IPO, Wall Street, Facebook_
 
 ##### Ibercaja
 ### [Three Spanish savings banks - Ibercaja, Liberbank and Caja3 - approve a merger. ](/news/2012/05/29/three-spanish-savings-banks-ibercaja-liberbank-and-caja3-approve-a-merger.md)
@@ -33,7 +33,7 @@ Three Spanish savings banks - Ibercaja, Liberbank and Caja3 - approve a merger t
 
 ##### VK
 ### [Russian social network VK announces that it will postpone its planned initial public offering indefinitely, following the recent botched float of Facebook. ](/news/2012/05/29/russian-social-network-vk-announces-that-it-will-postpone-its-planned-initial-public-offering-indefinitely-following-the-recent-botched-flo.md)
-_Context: Facebook, initial public offering, VK_
+_Context: initial public offering, Facebook, VK_
 
 ##### Earthquake
 ### [A 5.8-magnitude earthquake rocks northern Italy near Bologna, killing at least 24 people. ](/news/2012/05/29/a-5-8-magnitude-earthquake-rocks-northern-italy-near-bologna-killing-at-least-24-people.md)
@@ -49,7 +49,7 @@ Myanmar opposition leader arrives in Thailand, leaving country where she was lon
 
 ##### WikiLeaks
 ### [WikiLeaks editor Julian Assange learns he will find out tomorrow if he is to be deported to Sweden from the UK. ](/news/2012/05/29/wikileaks-editor-julian-assange-learns-he-will-find-out-tomorrow-if-he-is-to-be-deported-to-sweden-from-the-uk.md)
-_Context: Julian Assange, WikiLeaks_
+_Context: WikiLeaks, Julian Assange_
 
 ##### Senators
 ### [The Senate of the Philippines finds the Chief Justice of the Supreme Court Renato Corona guilty of failure to disclose to the public his assets following a four-month-long impeachment trial. ](/news/2012/05/29/the-senate-of-the-philippines-finds-the-chief-justice-of-the-supreme-court-renato-corona-guilty-of-failure-to-disclose-to-the-public-his-ass.md)
@@ -57,7 +57,7 @@ Chief justice Renato Corona effectively removed from office after five-month tri
 
 ##### Indonesia
 ### [Police in Indonesia seize over 1 million ecstasy pills totalling US$45 million, in the biggest drug bust in 10 years. ](/news/2012/05/29/police-in-indonesia-seize-over-1-million-ecstasy-pills-totalling-us-45-million-in-the-biggest-drug-bust-in-10-years.md)
-_Context: ecstasy pill, Indonesia_
+_Context: Indonesia, ecstasy pill_
 
 ##### Texas
 ### [Voters in the US state of Texas go to the polls for primary elections, with Mitt Romney securing the Republican nomination in the Republican primary. ](/news/2012/05/29/voters-in-the-us-state-of-texas-go-to-the-polls-for-primary-elections-with-mitt-romney-securing-the-republican-nomination-in-the-republican.md)
@@ -73,11 +73,11 @@ PNG politicians will hold a special sitting of parliament tomorrow to elect a ne
 
 ##### Chen Xitong
 ### [Chen Xitong former mayor of Beijing apologises for deaths during the 1989 Tiananmen Square protests, adding that they could have been avoided, in a book released in Hong Kong this week. ](/news/2012/05/29/chen-xitong-former-mayor-of-beijing-apologises-for-deaths-during-the-1989-tiananmen-square-protests-adding-that-they-could-have-been-avoide.md)
-_Context: Hong Kong, 1989 Tiananmen Square protests, Chen Xitong, Beijing_
+_Context: Chen Xitong, Hong Kong, Beijing, 1989 Tiananmen Square protests_
 
 ##### Barack Obama
 ### [U.S. president Barack Obama gives out the Presidential Medal of Freedom to 13 recipients, including Israeli president Shimon Peres, astronaut John Glenn and musician Bob Dylan, at the White House. ](/news/2012/05/29/u-s-president-barack-obama-gives-out-the-presidential-medal-of-freedom-to-13-recipients-including-israeli-president-shimon-peres-astronau.md)
-_Context: John Glenn, Bob Dylan, Shimon Peres, Israel, Presidential Medal of Freedom with Distinction, Barack Obama, White House_
+_Context: Bob Dylan, Israel, Presidential Medal of Freedom with Distinction, White House, Barack Obama, Shimon Peres, John Glenn_
 
 ## [Previous Day...](/news/2012/05/28/index.md)
 

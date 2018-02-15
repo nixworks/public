@@ -15,13 +15,13 @@ Israeli warships force Libyan-sponsored Amalthea to change course to El Arish po
 ### [More than 60 people are hospitalised after a suspected chlorine gas leak in Mumbai. ](/news/2010/07/14/more-than-60-people-are-hospitalised-after-a-suspected-chlorine-gas-leak-in-mumbai.md)
 More than 60 people are taken to hospital after a suspected chlorine gas leak in Mumbai.
 
-##### U.S.
+##### United States
 ### [The United States discusses the arrest of Bradley Manning, accused of providing secret information about US military corruption to Wikileaks. ](/news/2010/07/14/the-united-states-discusses-the-arrest-of-bradley-manning-accused-of-providing-secret-information-about-us-military-corruption-to-wikileaks.md)
-_Context: Wikileaks, U.S., arrest of Bradley Manning_
+_Context: arrest of Bradley Manning, Wikileaks, United States_
 
 ##### India
 ### [India's Home Secretary G. K. Pillai states Pakistan's intelligence agency Inter-Services Intelligence (ISI) co-ordinated the 2008 Mumbai attacks. ](/news/2010/07/14/india-s-home-secretary-g-k-pillai-states-pakistan-s-intelligence-agency-inter-services-intelligence-isi-co-ordinated-the-2008-mumbai-att.md)
-_Context: Inter-Services Intelligence, India, G. K. Pillai, 2008 Mumbai attacks, Pakistan_
+_Context: Pakistan, Inter-Services Intelligence, 2008 Mumbai attacks, G. K. Pillai, India_
 
 ##### Balochistan
 ### [Former Balochistan senator Habib Jalib is shot dead outside his home in Quetta, leading to riots and widespread mourning. ](/news/2010/07/14/former-balochistan-senator-habib-jalib-is-shot-dead-outside-his-home-in-quetta-leading-to-riots-and-widespread-mourning.md)
@@ -37,11 +37,11 @@ Prosecutors say Romanian singer Madalina Manole, who was found dead Wednesday mo
 
 ##### The Zutons
 ### [The Zutons frontman Dave McCabe denies breaking a man's nose by headbutting him outside a nightclub in Liverpool. ](/news/2010/07/14/the-zutons-frontman-dave-mccabe-denies-breaking-a-man-s-nose-by-headbutting-him-outside-a-nightclub-in-liverpool.md)
-_Context: Liverpool, headbutt, Dave McCabe, The Zutons_
+_Context: The Zutons, Dave McCabe, Liverpool, headbutt_
 
 ##### Kodachrome
 ### [ It is announced that the last roll of Kodachrome manufactured has been developed for photographer Steve McCurry. ](/news/2010/07/14/it-is-announced-that-the-last-roll-of-kodachrome-manufactured-has-been-developed-for-photographer-steve-mccurry.md)
-_Context: Steve McCurry, Kodachrome_
+_Context: Kodachrome, Steve McCurry_
 
 ##### Ryanair
 ### [Airline Ryanair is reprimanded by the UK's Advertising Standards Authority for misleading customers with their advertisements for low fares. ](/news/2010/07/14/airline-ryanair-is-reprimanded-by-the-uk-s-advertising-standards-authority-for-misleading-customers-with-their-advertisements-for-low-fares.md)
@@ -105,7 +105,7 @@ Israeli bulldozing of Palestinian property comes week after US pushes peace talk
 
 ##### Sri Lanka
 ### [The Sri Lankan cabinet meets in Kilinochchi, the former capital of the Tamil Tigers in the far north of the island. ](/news/2010/07/14/the-sri-lankan-cabinet-meets-in-kilinochchi-the-former-capital-of-the-tamil-tigers-in-the-far-north-of-the-island.md)
-_Context: Sri Lanka, Kilinochchi, Tamil Tigers_
+_Context: Kilinochchi, Tamil Tigers, Sri Lanka_
 
 ##### Fianna Fail
 ### [Irish Fianna Fail Senator Ivor Callely is suspended for 20 days without pay due to a travel expenses scandal. ](/news/2010/07/14/irish-fianna-fa-il-senator-ivor-callely-is-suspended-for-20-days-without-pay-due-to-a-travel-expenses-scandal.md)
@@ -113,7 +113,7 @@ The Seanad has agreed without a vote to suspend Senator Callely for 20 days with
 
 ##### India
 ### [Indian Foreign Minister S. M. Krishna goes to Islamabad for talks with his counterpart of Pakistan, Shah Mehmood Qureshi, for the first time since the 2008 Mumbai attacks. ](/news/2010/07/14/indian-foreign-minister-s-m-krishna-goes-to-islamabad-for-talks-with-his-counterpart-of-pakistan-shah-mehmood-qureshi-for-the-first-time.md)
-_Context: SM Krishna, Shah Mehmood Qureshi, Islamabad, India, 2008 Mumbai attacks, Pakistan_
+_Context: Shah Mehmood Qureshi, Pakistan, SM Krishna, India, 2008 Mumbai attacks, Islamabad_
 
 ##### Chancellor
 ### [Chancellor of Germany Angela Merkel and nearly half her cabinet begin a five-day visit to Russia, China and Kazakhstan as part of an attempt to boost trade, energy and security links. ](/news/2010/07/14/chancellor-of-germany-angela-merkel-and-nearly-half-her-cabinet-begin-a-five-day-visit-to-russia-china-and-kazakhstan-as-part-of-an-attempt.md)
@@ -121,7 +121,7 @@ Angela Merkel starts a five-day visit to Russia, China and Kazakhstan, in a bid 
 
 ##### Beijing
 ### [Beijing authorities begin to gate and lock some lower-income villages, imposing curfews in order to control the flow of migrant workers. ](/news/2010/07/14/beijing-authorities-begin-to-gate-and-lock-some-lower-income-villages-imposing-curfews-in-order-to-control-the-flow-of-migrant-workers.md)
-_Context: migrant worker, curfew, Beijing_
+_Context: curfew, Beijing, migrant worker_
 
 ##### Bastille Day
 ### [A controversial Bastille Day parade gets underway in Paris. ](/news/2010/07/14/a-controversial-bastille-day-parade-gets-underway-in-paris.md)
@@ -149,7 +149,7 @@ Red Bull New York signed French forward Thierry Henry to a multi-year contract a
 
 ##### UK Athletics
 ### [UK Athletics (UKA) requests changes to Britain's tax laws after sprinter Usain Bolt declines to appear at a meeting in London for financial reasons. ](/news/2010/07/14/uk-athletics-uka-requests-changes-to-britain-s-tax-laws-after-sprinter-usain-bolt-declines-to-appear-at-a-meeting-in-london-for-financial.md)
-_Context: UK Athletics, Usain Bolt, London_
+_Context: Usain Bolt, London, UK Athletics_
 
 ## [Previous Day...](/news/2010/07/13/index.md)
 

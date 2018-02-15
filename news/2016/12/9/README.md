@@ -57,11 +57,11 @@ Hong Kong leader CY Leung says he will not seek re-election, citing &quot;stress
 
 ##### Presidential transition of Donald Trump
 ### [ Donald Trump requests Gary Cohn, chief operating officer of investment bank Goldman Sachs, to join his administration as chair of the White House National Economic Council. ](/news/2016/12/9/donald-trump-requests-gary-cohn-chief-operating-officer-of-investment-bank-goldman-sachs-to-join-his-administration-as-chair-of-the-white.md)
-_Context: White House National Economic Council, Gary Cohn, Presidential transition of Donald Trump, Donald Trump, Goldman Sachs_
+_Context: Goldman Sachs, Gary Cohn, Presidential transition of Donald Trump, White House National Economic Council, Donald Trump_
 
 ##### Gambian presidential election, 2016
 ### [The President of Gambia Yahya Jammeh states he will not accept the result of the recent defeat a week after conceding defeat to Adama Barrow. ](/news/2016/12/9/the-president-of-gambia-yahya-jammeh-states-he-will-not-accept-the-result-of-the-recent-defeat-a-week-after-conceding-defeat-to-adama-barrow.md)
-_Context: Yahya Jammeh, President of Gambia, Gambian presidential election, 2016, Adama Barrow_
+_Context: Yahya Jammeh, President of Gambia, Adama Barrow, Gambian presidential election, 2016_
 
 ##### 2016 U.S. presidential election
 ### [The CIA has concluded that Russia actively tried to help Donald Trump win the 2016 U.S. presidential election. ](/news/2016/12/9/the-cia-has-concluded-that-russia-actively-tried-to-help-donald-trump-win-the-2016-u-s-presidential-election.md)

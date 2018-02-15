@@ -5,7 +5,7 @@ Formats: [HTML](2009/08/7/index.html)  [JSON](2009/08/7/index.json)  [XML](2009/
 
 ##### South Africa
 ### [ The leaders of three South African opposition parties urge President Jacob Zuma to withdraw his statement on the nomination of Sandile Ngcobo to replace outgoing Chief Justice Pius Langa, calling it "unconstitutional". ](/news/2009/08/7/the-leaders-of-three-south-african-opposition-parties-urge-president-jacob-zuma-to-withdraw-his-statement-on-the-nomination-of-sandile-ngco.md)
-_Context: Sandile Ngcobo, Chief Justice, Jacob Zuma, South Africa, Pius Langa, President_
+_Context: Pius Langa, President of South Africa, Jacob Zuma, South Africa, Sandile Ngcobo, Chief Justice_
 
 ##### Miguel Carrioza
 ### [ Senator Miguel Carrioza says the Congress of Paraguay is not interested in considering the protocol for Venezuela's incorporation to Mercosur. ](/news/2009/08/7/senator-miguel-carrioza-says-the-congress-of-paraguay-is-not-interested-in-considering-the-protocol-for-venezuelaas-incorporation-to-merc.md)
@@ -17,7 +17,7 @@ Republican Sen. Mel Martinez&#39;s decision Friday to step down 16 months early 
 
 ##### Selvarasa Pathmanathan
 ### [ Selvarasa Pathmanathan, the new leader of the Liberation Tigers of Tamil Eelam, is detained in Thailand. ](/news/2009/08/7/selvarasa-pathmanathan-the-new-leader-of-the-liberation-tigers-of-tamil-eelam-is-detained-in-thailand.md)
-_Context: Thailand, LTTE, Selvarasa Pathmanathan_
+_Context: Selvarasa Pathmanathan, Thailand, LTTE_
 
 ##### Pakistan
 ### [ According to both Pakistani officials and Taliban insurgents, Baitullah Mehsud, leader of the Pakistani Taliban, was killed in a drone strike. ](/news/2009/08/7/according-to-both-pakistani-officials-and-taliban-insurgents-baitullah-mehsud-leader-of-the-pakistani-taliban-was-killed-in-a-drone-stri.md)
@@ -25,15 +25,15 @@ Baitullah Mehsud was blamed for the assassination of Benazir Bhutto and scores o
 
 ##### Shootouts
 ### [ Shootouts leave at least 11 dead in the escalating violence since Mexico's continuing national crackdown on the illegal drug trade. ](/news/2009/08/7/shootouts-leave-at-least-11-dead-in-the-escalating-violence-since-mexico-s-continuing-national-crackdown-on-the-illegal-drug-trade.md)
-_Context: Mexican Drug War, Mexican, Shootouts, drug traffickers_
+_Context: Mexican Drug War, drug traffickers, Mexican, Shootouts_
 
 ##### Ronnie Biggs
 ### [ Ronnie Biggs, one of the participants of the Great Train Robbery, is freed on medical grounds. ](/news/2009/08/7/ronnie-biggs-one-of-the-participants-of-the-great-train-robbery-is-freed-on-medical-grounds.md)
-_Context: Great Train Robbery, Ronnie Biggs_
+_Context: Ronnie Biggs, Great Train Robbery_
 
 ##### Shia
 ### [ Bomb attacks on a Shia mosque and pilgrims at Shreikhan village near Mosul kill at least 36 people as Iraq's largest Muslim community marks one of its biggest feasts, gathering in Karbala to mark the birth of Muhammad al-Mahdi. ](/news/2009/08/7/bomb-attacks-on-a-shia-mosque-and-pilgrims-at-shreikhan-village-near-mosul-kill-at-least-36-people-as-iraq-s-largest-muslim-community-marks.md)
-_Context: Karbala, Muhammad al-Mahdi, Iraq, Islam, Shia, Shreikhan, Mosul_
+_Context: Islam, Shia, Mosul, Shreikhan, Muhammad al-Mahdi, Iraq, Karbala_
 
 ## [Previous Day...](/news/2009/08/6/index.md)
 

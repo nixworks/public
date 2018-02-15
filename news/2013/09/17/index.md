@@ -13,11 +13,11 @@ Dozens of civilians held by Muslim rebels in a stand-off in the Philippine south
 
 ##### Costa Concordia
 ### [The "Costa Concordia" is pulled completely upright from the place where it sunk in early 2012 off the coast of Tuscany in Italy. ](/news/2013/09/17/the-costa-concordia-is-pulled-completely-upright-from-the-place-where-it-sunk-in-early-2012-off-the-coast-of-tuscany-in-italy.md)
-_Context: Italy, Costa Concordia, Tuscany, sunk_
+_Context: sunk, Tuscany, Italy, Costa Concordia_
 
 ##### Iran
 ### [Iranian President Hassan Rouhani confirmed he had contacted U.S. President Barack Obama via letters. Both countries cut all diplomatic relations after the Iranian Hostage Crisis in 1980. ](/news/2013/09/17/iranian-president-hassan-rouhani-confirmed-he-had-contacted-u-s-president-barack-obama-via-letters-both-countries-cut-all-diplomatic-relat.md)
-_Context: President, Iran, Barack Obama, Hassan Rouhani, Iranian Hostage Crisis, U.S., U.S. President_
+_Context: U.S. President, Hassan Rouhani, Barack Obama, United States, President, Iran, Iranian Hostage Crisis_
 
 ##### Bangladesh Jamaat-e-Islami
 ### [Abdul Kader Mullah, a leader of the Bangladesh Jamaat-e-Islami party, is sentenced to death for war crimes in the Bangladesh Liberation War in 1971. ](/news/2013/09/17/abdul-kader-mullah-a-leader-of-the-bangladesh-jamaat-e-islami-party-is-sentenced-to-death-for-war-crimes-in-the-bangladesh-liberation-war.md)

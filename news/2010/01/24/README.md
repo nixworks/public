@@ -13,23 +13,23 @@ All the latest Sports News, Scores, Fantasy Games.
 
 ##### Gryfino
 ### [One person is killed and three more are injured when an explosion occurs at a thermo-electric plant near Gryfino, Poland. ](/news/2010/01/24/one-person-is-killed-and-three-more-are-injured-when-an-explosion-occurs-at-a-thermo-electric-plant-near-gryfino-poland.md)
-_Context: Gryfino, Polish_
+_Context: Gryfino, Poland_
 
 ##### China
 ### [The Chinese government denies state involvement in the cyber attacks on Google, while the state-run "China Daily" newspaper accuses the United States of hypocrisy. ](/news/2010/01/24/the-chinese-government-denies-state-involvement-in-the-cyber-attacks-on-google-while-the-state-run-china-daily-newspaper-accuses-the-unit.md)
-_Context: government, U.S., China, cyber attacks, Google, hypocrisy, China Daily_
+_Context: hypocrisy, government, cyber attacks, China, Google, China Daily, United States_
 
 ##### Kolavia
 ### [A flight operated by Kolavia on behalf of Taban Air crashes on landing at Mashhad International Airport, Iran, injuring at least 46 people. ](/news/2010/01/24/a-flight-operated-by-kolavia-on-behalf-of-taban-air-crashes-on-landing-at-mashhad-international-airport-iran-injuring-at-least-46-people.md)
-_Context: crashes on landing, Taban Air, International Airport, Kolavia, Iran, Mashhad_
+_Context: International Airport, Iran, Mashhad, crashes on landing, Taban Air, Kolavia_
 
 ##### Venezuela
 ### [The Venezuelan government takes six cable television channels off the air, including RCTV, after they refused to transmit government messages. ](/news/2010/01/24/the-venezuelan-government-takes-six-cable-television-channels-off-the-air-including-rctv-after-they-refused-to-transmit-government-message.md)
-_Context: RCTV, Venezuelan government, cable television, Venezuela_
+_Context: cable television, RCTV, Venezuelan government, Venezuela_
 
 ##### Osama Bin Laden
 ### [Osama Bin Laden claims responsibility for the failed Christmas day bombing attempt in Detroit, USA, last year. ](/news/2010/01/24/osama-bin-laden-claims-responsibility-for-the-failed-christmas-day-bombing-attempt-in-detroit-usa-last-year.md)
-_Context: USA, Detroit, Northwest Airlines Flight 253, Osama Bin Laden_
+_Context: Northwest Airlines Flight 253, Osama Bin Laden, Detroit, USA_
 
 ##### Afghanistan
 ### [Afghanistan postpones its upcoming parliamentary elections to 18 September due to lack of funds and security concerns. ](/news/2010/01/24/afghanistan-postpones-its-upcoming-parliamentary-elections-to-18-september-due-to-lack-of-funds-and-security-concerns.md)
@@ -37,23 +37,23 @@ _Context: Afghanistan, parliamentary election_
 
 ##### North Korea
 ### [North Korea says any attempt by South Korea to launch pre-emptive strikes against its nuclear facilities will be considered a declaration of war. ](/news/2010/01/24/north-korea-says-any-attempt-by-south-korea-to-launch-pre-emptive-strikes-against-its-nuclear-facilities-will-be-considered-a-declaration-of.md)
-_Context: North Korea, South Korea, pre-emptive strike, North Korea's nuclear program, declaration of war_
+_Context: pre-emptive strike, South Korea, North Korea, North Korea's nuclear program, declaration of war_
 
 ##### NRJ Music Awards
 ### [At the NRJ Music Awards in Cannes, France, hip hop band Black Eyed Peas are mistakenly presented with an award for best international group which was intended for Tokio Hotel, while Rihanna falls off the stage during a live performance of "Russian Roulette". ](/news/2010/01/24/at-the-nrj-music-awards-in-cannes-france-hip-hop-band-black-eyed-peas-are-mistakenly-presented-with-an-award-for-best-international-group.md)
-_Context: Black Eyed Peas, NRJ Music Awards, Cannes, France, Russian Roulette, Rihanna, Tokio Hotel_
+_Context: Tokio Hotel, Cannes, France, NRJ Music Awards, Russian Roulette, Rihanna, Black Eyed Peas_
 
 ##### Quentin Tarantino
 ### [Quentin Tarantino's "Inglourious Basterds" wins the top prize at the 16th Screen Actors Guild Awards, with Jeff Bridges and Sandra Bullock winning best actors. ](/news/2010/01/24/quentin-tarantino-s-inglourious-basterds-wins-the-top-prize-at-the-16th-screen-actors-guild-awards-with-jeff-bridges-and-sandra-bullock-w.md)
-_Context: Jeff Bridges, Sandra Bullock, 16th Screen Actors Guild Awards, Quentin Tarantino, Inglourious Basterds_
+_Context: Sandra Bullock, Inglourious Basterds, 16th Screen Actors Guild Awards, Jeff Bridges, Quentin Tarantino_
 
-##### U.S.
+##### United States
 ### [A spokesman for U.S. President Barack Obama expresses the administration's support for a second term for the incumbent Chairman of the Federal Reserve, Ben Bernanke, and says lawmakers would send a bad message by "playing politics in any way" with Bernanke's confirmation. ](/news/2010/01/24/a-spokesman-for-u-s-president-barack-obama-expresses-the-administration-s-support-for-a-second-term-for-the-incumbent-chairman-of-the-feder.md)
 Find the latest business news on Wall Street, jobs and the economy, the housing market, personal finance and money investments and much more on ABC News
 
 ##### Sri Lanka
 ### [Sri Lankan opposition candidate General Sarath Fonseka receives the support of former President Chandrika Kumaratunga in the 2010 presidential election. ](/news/2010/01/24/sri-lankan-opposition-candidate-general-sarath-fonseka-receives-the-support-of-former-president-chandrika-kumaratunga-in-the-2010-presidenti.md)
-_Context: President of Sri Lanka, opposition, Sarath Fonseka, presidential election, Chandrika Kumaratunga, General, Sri Lanka_
+_Context: President of Sri Lanka, Chandrika Kumaratunga, Sri Lanka, presidential election, opposition, Sarath Fonseka, General_
 
 ##### Nago, Okinawa
 ### [The citizens of Nago, Okinawa, elect mayor Susumu Inamine, an opponent of the U.S. Marine Corps Air Station Futenma, which is crucial for Japan - United States relations. ](/news/2010/01/24/the-citizens-of-nago-okinawa-elect-mayor-susumu-inamine-an-opponent-of-the-u-s-marine-corps-air-station-futenma-which-is-crucial-for-ja.md)
@@ -65,7 +65,7 @@ Two people have been arrested in Wales in connection with the discovery of an ei
 
 ##### Ghana national football team
 ### [Ghana eliminate the hosts of the 2010 Africa Cup of Nations Angola following accusations of "intimidatory" tactics carried out by the country's security forces. ](/news/2010/01/24/ghana-eliminate-the-hosts-of-the-2010-africa-cup-of-nations-angola-following-accusations-of-intimidatory-tactics-carried-out-by-the-countr.md)
-_Context: Ghana national football team, Angola, 2010 Africa Cup of Nations_
+_Context: Ghana national football team, 2010 Africa Cup of Nations, Angola_
 
 ##### James Cameron
 ### [James Cameron's "Avatar" becomes (not accounting for inflation) the second highest grossing movie in the United States and Canada and the best selling movie overseas. ](/news/2010/01/24/james-cameron-s-avatar-becomes-not-accounting-for-inflation-the-second-highest-grossing-movie-in-the-united-states-and-canada-and-the-be.md)

@@ -17,7 +17,7 @@ _Context: Pakistan, Karachi, grenade, Saudi Arabia_
 
 ##### Zambia
 ### [Four Zambian peacekeepers are shot and injured after their convoy comes under attack by suspected armed tribal groups in the disputed border area between Sudan and Southern Sudan. ](/news/2011/05/11/four-zambian-peacekeepers-are-shot-and-injured-after-their-convoy-comes-under-attack-by-suspected-armed-tribal-groups-in-the-disputed-border.md)
-_Context: Sudan, Southern Sudan, Zambia_
+_Context: Southern Sudan, Sudan, Zambia_
 
 ##### Venezuela
 ### [Venezuela starts rationing electricity in the wake of nationwide blackouts earlier in the week. ](/news/2011/05/11/venezuela-starts-rationing-electricity-in-the-wake-of-nationwide-blackouts-earlier-in-the-week.md)
@@ -25,7 +25,7 @@ Venezuela begins rationing electricity after blackouts on Monday affected nearly
 
 ##### Beijing-Shanghai High-Speed Railway
 ### [Trial runs begin for the Beijing-Shanghai High-Speed Railway in the People's Republic of China, ahead of the railway's official opening on 20 June 2011. ](/news/2011/05/11/trial-runs-begin-for-the-beijingashanghai-high-speed-railway-in-the-people-s-republic-of-china-ahead-of-the-railway-s-official-opening-on.md)
-_Context: China, Beijing-Shanghai High-Speed Railway_
+_Context: Beijing-Shanghai High-Speed Railway, China_
 
 ##### Bank of England
 ### [The Bank of England says it expects inflation to reach 5% this year, due to higher fuel bills that could rise by up to 15%, and revises down its growth projection for the UK economy. ](/news/2011/05/11/the-bank-of-england-says-it-expects-inflation-to-reach-5-this-year-due-to-higher-fuel-bills-that-could-rise-by-up-to-15-and-revises-down.md)
@@ -37,7 +37,7 @@ Two strong earthquakes in quick succession rattle southern Spain, toppling build
 
 ##### Tokyo Electric Power Company
 ### [Tokyo Electric Power Company will accept involvement from the Government of Japan and will not cap compensation payments resulting from the Fukushima I nuclear accidents. ](/news/2011/05/11/tokyo-electric-power-company-will-accept-involvement-from-the-government-of-japan-and-will-not-cap-compensation-payments-resulting-from-the.md)
-_Context: Japanese government, Tokyo Electric Power Company, Fukushima I nuclear accidents_
+_Context: Tokyo Electric Power Company, Japanese government, Fukushima I nuclear accidents_
 
 ##### Julian Assange
 ### [Julian Assange, founder of Wikileaks, receives an award for "exceptional courage in pursuit of human rights" from the Sydney Peace Foundation. ](/news/2011/05/11/julian-assange-founder-of-wikileaks-receives-an-award-for-exceptional-courage-in-pursuit-of-human-rights-from-the-sydney-peace-foundatio.md)
@@ -47,21 +47,21 @@ WikiLeaks founder Julian Assange is given an award by the Sydney Peace Foundatio
 ### [An international study reports that, on average, 48 women and girls are raped in the Democratic Republic of the Congo every hour. ](/news/2011/05/11/an-international-study-reports-that-on-average-48-women-and-girls-are-raped-in-the-democratic-republic-of-the-congo-every-hour.md)
 A US report says 48 women and girls are raped every hour in DR Congo, a rate significantly higher than a previous UN estimate.
 
-##### U.S.
+##### United States
 ### [The trial of United States citizens Josh Fattal and Shane Bauer in Tehran, Iran, on espionage charges is again delayed. ](/news/2011/05/11/the-trial-of-united-states-citizens-josh-fattal-and-shane-bauer-in-tehran-iran-on-espionage-charges-is-again-delayed.md)
-_Context: Tehran, Josh Fattal and Shane Bauer, U.S., espionage, Iran_
+_Context: United States, espionage, Tehran, Iran, Josh Fattal and Shane Bauer_
 
 ##### Supreme Court of India
 ### [The Supreme Court of India dismisses a government petition for seven people convicted for their role in the Bhopal disaster in 1984 to receive tougher sentences. ](/news/2011/05/11/the-supreme-court-of-india-dismisses-a-government-petition-for-seven-people-convicted-for-their-role-in-the-bhopal-disaster-in-1984-to-recei.md)
-_Context: Bhopal disaster, Supreme Court of India, Government of India_
+_Context: Government of India, Bhopal disaster, Supreme Court of India_
 
 ##### Virginia House of Delegates
 ### [Former member of the Virginia House of Delegates Phillip A. Hamilton is convicted of bribery and extortion. ](/news/2011/05/11/former-member-of-the-virginia-house-of-delegates-phillip-a-hamilton-is-convicted-of-bribery-and-extortion.md)
-_Context: Virginia House of Delegates, Phillip A. Hamilton_
+_Context: Phillip A. Hamilton, Virginia House of Delegates_
 
 ##### John Hinckley, Jr.
 ### [A judge grants John Hinckley, Jr., the man who tried to assassinate then-President of the United States Ronald Reagan in 1981, additional visits to his family from the Washington, DC psychiatric hospital where he is confined. ](/news/2011/05/11/a-judge-grants-john-hinckley-jr-the-man-who-tried-to-assassinate-then-president-of-the-united-states-ronald-reagan-in-1981-additional-vi.md)
-_Context: shot by John W. Hinckley, John Hinckley, Jr., Ronald Reagan, Washington, DC, U.S. President_
+_Context: U.S. President, Washington, DC, shot by John W. Hinckley, Ronald Reagan, John Hinckley, Jr._
 
 ##### New York City
 ### [Two people are arrested in New York City for allegedly planning a terrorist attack. ](/news/2011/05/11/two-people-are-arrested-in-new-york-city-for-allegedly-planning-a-terrorist-attack.md)
@@ -69,15 +69,15 @@ The suspects, whom a law enforcement official characterized as “homegrown,” 
 
 ##### Edinburgh
 ### [John Clark Wilson is arrested in Edinburgh, Scotland, during a high-profile Hearts v Celtic tie in the SPL; the 26-year-old Hearts fan invaded the pitch and attempted to attack Celtic manager Neil Lennon. He is charged with breach of the peace and assault. ](/news/2011/05/11/john-clark-wilson-is-arrested-in-edinburgh-scotland-during-a-high-profile-hearts-v-celtic-tie-in-the-spl-the-26-year-old-hearts-fan-invad.md)
-_Context: Scotland, Celtic, Hearts, Neil Lennon, Edinburgh, SPL_
+_Context: Neil Lennon, Hearts, Celtic, Edinburgh, Scotland, SPL_
 
 ##### President
 ### [President Manny Mori and Vice President Alik Alik are re-elected to a second term in the Federated States of Micronesia. ](/news/2011/05/11/president-manny-mori-and-vice-president-alik-alik-are-re-elected-to-a-second-term-in-the-federated-states-of-micronesia.md)
-_Context: Vice President, Alik Alik, Federated States of Micronesia, re-elected to a second term, Manny Mori, President_
+_Context: Manny Mori, re-elected to a second term, Federated States of Micronesia, Alik Alik, Vice President, President_
 
 ##### Premier
 ### [Former Premier of the Australian state of Tasmania David Bartlett resigns as a government minister and will resign from the House of Assembly. ](/news/2011/05/11/former-premier-of-the-australian-state-of-tasmania-david-bartlett-resigns-as-a-government-minister-and-will-resign-from-the-house-of-assembl.md)
-_Context: David Bartlett, Tasmania, Premier, House of Assembly, Australia_
+_Context: Premier, Tasmania, David Bartlett, Australia, House of Assembly_
 
 ##### Scottish Parliament
 ### [The Scottish Parliament meets for the first time since the victory of the Scottish National Party in the recent general election. ](/news/2011/05/11/the-scottish-parliament-meets-for-the-first-time-since-the-victory-of-the-scottish-national-party-in-the-recent-general-election.md)
@@ -85,7 +85,7 @@ _Context: Scottish National Party, Scottish Parliament, recently victorious_
 
 ##### Uganda
 ### [The Ugandan political opposition, the Forum for Democratic Change, claims that its leader Kizza Besigye has been barred from boarding a flight to Kampala from the Kenyan capital Nairobi. ](/news/2011/05/11/the-ugandan-political-opposition-the-forum-for-democratic-change-claims-that-its-leader-kizza-besigye-has-been-barred-from-boarding-a-flig.md)
-_Context: Kenya, Forum for Democratic Change, Kizza Besigye, Uganda, Nairobi, Kampala_
+_Context: Kenya, Kizza Besigye, Nairobi, Uganda, Kampala, Forum for Democratic Change_
 
 ##### Greek police
 ### [Greek police fire teargas at leftist demonstrators, as thousands of striking Greeks protest against austerity measures. ](/news/2011/05/11/greek-police-fire-teargas-at-leftist-demonstrators-as-thousands-of-striking-greeks-protest-against-austerity-measures.md)
@@ -93,7 +93,7 @@ Greek police fired teargas atdozens of leftist demonstrators in the centre of At
 
 ##### Deputy Prime Minister
 ### [British Deputy Prime Minister Nick Clegg says his party will be more "muscular" and mark out their identity more clearly, following their poor results in recent council elections and the Scottish Parliament general election. ](/news/2011/05/11/british-deputy-prime-minister-nick-clegg-says-his-party-will-be-more-muscular-and-mark-out-their-identity-more-clearly-following-their-po.md)
-_Context: council elections, Nick Clegg, recently victorious, Deputy Prime Minister_
+_Context: recently victorious, council elections, Deputy Prime Minister, Nick Clegg_
 
 ##### Police commissioner
 ### [British government plans for the introduction of directly-elected police commissioners in England and Wales are defeated with the help of Liberal Democrat peers in the House of Lords. ](/news/2011/05/11/british-government-plans-for-the-introduction-of-directly-elected-police-commissioners-in-england-and-wales-are-defeated-with-the-help-of-li.md)

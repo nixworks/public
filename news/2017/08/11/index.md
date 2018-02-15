@@ -9,7 +9,7 @@ BEIRUT, LEBANON (1:40 P.M.) - The ISIS terrorist group has released a 7-minute v
 
 ##### Oldest men
 ### [The world's oldest man, Polish-Israeli Yisrael Kristal, who was also recognized as the oldest living Holocaust survivor, dies at age 113 years, 330 days, in Haifa, Israel. ](/news/2017/08/11/the-world-s-oldest-man-polishaisraeli-yisrael-kristal-who-was-also-recognized-as-the-oldest-living-holocaust-survivor-dies-at-age-113-y.md)
-_Context: Yisrael Kristal, Oldest men, Polish, Haifa, Israel, Holocaust survivor_
+_Context: Yisrael Kristal, Holocaust survivor, Oldest men, Israel, Haifa, Poland_
 
 ##### Hugo Award
 ### [The winners of the annual Hugo Awards are announced at the 75th World Science Fiction Convention in Helsinki. ](/news/2017/08/11/the-winners-of-the-annual-hugo-awards-are-announced-at-the-75th-world-science-fiction-convention-in-helsinki.md)
@@ -17,7 +17,7 @@ The Obelisk is headline winner in a year marked by diminished presence of conser
 
 ##### Collide
 ### [Two trains collide in Alexandria, Egypt, killing at least 41 people and injuring at least 179. ](/news/2017/08/11/two-trains-collide-in-alexandria-egypt-killing-at-least-41-people-and-injuring-at-least-179.md)
-_Context: collide, Egypt, Alexandria_
+_Context: Alexandria, collide, Egypt_
 
 ##### Migrant crisis
 ### [At least 56 African migrants drown in the Red Sea while traveling from the Horn of Africa to Yemen. Human traffickers had forced 300 people aboard two boats into the sea. ](/news/2017/08/11/at-least-56-african-migrants-drown-in-the-red-sea-while-traveling-from-the-horn-of-africa-to-yemen-human-traffickers-had-forced-300-people.md)
@@ -33,11 +33,11 @@ Hun Sen accuses Laotian troops of trespassing into border area and threatens mil
 
 ##### Pedro Pablo Kuczynski
 ### [Shortly after Peruvian President Pedro Pablo Kuczynski called Venezuelan President Nicolas Maduro a "dictator" in response to the Venezuelan constitutional crisis, Peru expels Venezuela's ambassador to Peru to protest Venezuela's recent formation of an all-powerful constituent assembly that has been widely condemned as a power grab by Maduro. ](/news/2017/08/11/shortly-after-peruvian-president-pedro-pablo-kuczynski-called-venezuelan-president-nicola-s-maduro-a-dictator-in-response-to-the-venezuela.md)
-_Context: National Constituent Assembly, democratic opposition, Nicolas Maduro, Pedro Pablo Kuczynski_
+_Context: Nicolas Maduro, democratic opposition, National Constituent Assembly, Pedro Pablo Kuczynski_
 
 ##### Kenyan general election, 2017
 ### [The Kenyan electoral commission announces that President Uhuru Kenyatta has won re-election. Kenyatta leads ODM candidate Raila Odinga by more than 1.4 million votes. The opposition National Super Alliance rejects this finding as fraudulent. ](/news/2017/08/11/the-kenyan-electoral-commission-announces-that-president-uhuru-kenyatta-has-won-re-election-kenyatta-leads-odm-candidate-raila-odinga-by-mo.md)
-_Context: re-election, Raila Odinga, Uhuru Kenyatta, Kenya, ODM, National Super Alliance, electoral commission, Kenyan general election, 2017, President of Kenya_
+_Context: Raila Odinga, re-election, Kenyan general election, 2017, Uhuru Kenyatta, ODM, Kenya, electoral commission, National Super Alliance, President of Kenya_
 
 ##### Military of the United States
 ### [Because of a recent pair of deadly crashes, the U.S. Marine Corps will ground its flight operations for 24 hours for an operational reset. The suspensions will be spread out over the next two weeks. ](/news/2017/08/11/because-of-a-recent-pair-of-deadly-crashes-the-u-s-marine-corps-will-ground-its-flight-operations-for-24-hours-for-an-operational-reset-t.md)

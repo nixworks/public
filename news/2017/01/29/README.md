@@ -13,7 +13,7 @@ The advance of government forces comes a week after fruitless negotiations betwe
 
 ##### Insurgency in the North Caucasus
 ### [At least three suspected militants are killed by Russian security forces during a firefight in Khasavyurt, Dagestan. ](/news/2017/01/29/at-least-three-suspected-militants-are-killed-by-russian-security-forces-during-a-firefight-in-khasavyurt-dagestan.md)
-_Context: Insurgency in the North Caucasus, Dagestan, Russia, Khasavyurt_
+_Context: Dagestan, Russia, Insurgency in the North Caucasus, Khasavyurt_
 
 ##### Quebec City mosque shooting
 ### [A gunman opens fire at a mosque in Quebec City, Canada, during evening prayers. At least five people were killed. Two suspects were apprehended; one was later released. ](/news/2017/01/29/a-gunman-opens-fire-at-a-mosque-in-quebec-city-canada-during-evening-prayers-at-least-five-people-were-killed-two-suspects-were-apprehen.md)

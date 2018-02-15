@@ -5,7 +5,7 @@ Formats: [HTML](2008/02/2/index.html)  [JSON](2008/02/2/index.json)  [XML](2008/
 
 ##### 2008
 ### [ United States presidential election, 2008: Former Governor of Massachusetts Mitt Romney wins the Maine Republican caucus. ](/news/2008/02/2/united-states-presidential-election-2008-former-governor-of-massachusetts-mitt-romney-wins-the-maine-republican-caucus.md)
-_Context: Mitt Romney, 2008, Massachusetts governor, Maine Republican caucus_
+_Context: 2008, Maine Republican caucus, Mitt Romney, Massachusetts governor_
 
 ##### Five people are shot dead
 ### [ Five people are shot dead in a women's clothing store in Tinley Park, Illinois with the person responsible fleeing the scene. ](/news/2008/02/2/five-people-are-shot-dead-in-a-women-s-clothing-store-in-tinley-park-illinois-with-the-person-responsible-fleeing-the-scene.md)
@@ -21,7 +21,7 @@ _Context: Chad, Battle of N'Djamena, N'Djamena_
 
 ##### France
 ### [ French President Nicolas Sarkozy marries singer and former supermodel Carla Bruni at the Elysee Palace. ](/news/2008/02/2/french-president-nicolas-sarkozy-marries-singer-and-former-supermodel-carla-bruni-at-the-alysa-c-e-palace.md)
-_Context: Elysee Palace, France, Carla Bruni, French President, Nicolas Sarkozy, supermodel_
+_Context: supermodel, French President, France, Nicolas Sarkozy, Elysee Palace, Carla Bruni_
 
 ## [Previous Day...](/news/2008/02/1/index.md)
 

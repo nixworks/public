@@ -43,7 +43,7 @@ Britain leads a bloc pressing for strong measures over the downing of a Malaysia
 ### [South Korean police advise that they have positively identified a body found on June 12 as Yoo Byung-eun wanted for his alleged role in the sinking of the MV "Sewol". ](/news/2014/07/22/south-korean-police-advise-that-they-have-positively-identified-a-body-found-on-june-12-as-yoo-byung-eun-wanted-for-his-alleged-role-in-the.md)
 Yoo Byung-eun was a church leader and businessman whom prosecutors had hoped to arrest in connection with the ferry disaster that killed more than 300 people.
 
-##### U.S.
+##### United States
 ### [Panels of the United States Fourth and D.C. ("Halbig v. Burwell") Circuit Courts make contradictory rulings as to whether people who enroll in federal exchanges under the Affordable Care Act (Obamacare) can receive subsidies. ](/news/2014/07/22/panels-of-the-united-states-fourth-and-d-c-halbig-v-burwell-circuit-courts-make-contradictory-rulings-as-to-whether-people-who-enroll.md)
 Millions of Americans are ineligible for law&rsquo;s tax subsidies, Appeals Court panel rules.
 

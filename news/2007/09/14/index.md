@@ -5,15 +5,15 @@ Formats: [HTML](2007/09/14/index.html)  [JSON](2007/09/14/index.json)  [XML](200
 
 ##### Chrysler
 ### [ Chrysler recalls 300,000 sport utility vehicles to investigate braking problems while Honda recalls 180,000 Honda Civics from the 2006-07 season due to problems with a wheel-bearing seal. ](/news/2007/09/14/chrysler-recalls-300-000-sport-utility-vehicles-to-investigate-braking-problems-while-honda-recalls-180-000-honda-civics-from-the-2006a07.md)
-_Context: Chrysler, Honda Civic, Honda Motor Co., braking, sport utility vehicle_
+_Context: braking, Honda Civic, sport utility vehicle, Chrysler, Honda Motor Co._
 
 ##### Run
 ### [ There is a run on the Northern Rock bank in the United Kingdom following revelations that it sought a rescue injection of funds from the Bank of England. ](/news/2007/09/14/there-is-a-run-on-the-northern-rock-bank-in-the-united-kingdom-following-revelations-that-it-sought-a-rescue-injection-of-funds-from-the-ba.md)
-_Context: United Kingdom, run, Bank of England, bank, Northern Rock_
+_Context: Northern Rock, bank, United Kingdom, Bank of England, run_
 
 ##### General
 ### [ U.S. General Peter Pace, outgoing chair of the Joint Chiefs of Staff, acknowledges that mistakes were made during the war. ](/news/2007/09/14/u-s-general-peter-pace-outgoing-chair-of-the-joint-chiefs-of-staff-acknowledges-that-mistakes-were-made-during-the-war.md)
-_Context: Peter Pace, Joint Chiefs of Staff, General_
+_Context: Joint Chiefs of Staff, General, Peter Pace_
 
 ##### Foot and mouth disease
 ### [ A new case of foot and mouth disease is confirmed at a farm in Egham, Surrey, England. ](/news/2007/09/14/a-new-case-of-foot-and-mouth-disease-is-confirmed-at-a-farm-in-egham-surrey-england.md)
@@ -41,7 +41,7 @@ At least 13 people have been confirmed dead and hundreds of homes damaged as rel
 
 ##### Japan Aerospace Exploration Agency
 ### [ The Japan Aerospace Exploration Agency successfully launches SELENE, the largest lunar mission since the Apollo program, on a mission to explore the moon. ](/news/2007/09/14/the-japan-aerospace-exploration-agency-successfully-launches-selene-the-largest-lunar-mission-since-the-apollo-program-on-a-mission-to-ex.md)
-_Context: SELENE, Japan Aerospace Exploration Agency, Apollo program, moon_
+_Context: Apollo program, Japan Aerospace Exploration Agency, SELENE, moon_
 
 ## [Previous Day...](/news/2007/09/13/index.md)
 

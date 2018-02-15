@@ -21,7 +21,7 @@ Mitsubishi Motors Corp (7211.T) said its vehicles sold in the United States from
 
 ##### Comcast
 ### [Comcast's NBCUniversal acquires Dreamworks Animation for $3.8 billion. ](/news/2016/04/28/comcast-s-nbcuniversal-acquires-dreamworks-animation-for-3-8-billion.md)
-_Context: NBCUniversal, Dreamworks Animation, Comcast_
+_Context: Dreamworks Animation, NBCUniversal, Comcast_
 
 ##### Carl Icahn
 ### [American billionaire Carl Icahn, in an interview on the cable network CNBC says he has closed his position in Apple. ](/news/2016/04/28/american-billionaire-carl-icahn-in-an-interview-on-the-cable-network-cnbc-says-he-has-closed-his-position-in-apple.md)
@@ -45,11 +45,11 @@ GENEVA (AP) — The U.N. envoy for Syria appealed to the U.S. and Russia to inte
 
 ##### France-Russia relations
 ### [France's National Assembly votes to adopt a non-binding resolution to lift European Union sanctions against Russia, applied after Russia's annexation of Crimea in 2014. Former President Nicolas Sarkozy's Republicans, as well as center-right and far-left groups voted in favor of lifting the sanctions, while the ruling Socialist Party and The Greens voted against the resolution. ](/news/2016/04/28/france-s-national-assembly-votes-to-adopt-a-non-binding-resolution-to-lift-european-union-sanctions-against-russia-applied-after-russia-s-a.md)
-_Context: European Union, Russia, Republican, Annexation of Crimea by the Russian Federation, Nicolas Sarkozy, France-Russia relations, against, France, PS, National Assembly, The Greens, French President_
+_Context: Annexation of Crimea by the Russian Federation, French President, against, National Assembly, European Union, Nicolas Sarkozy, The Greens, PS, France, Russia, France-Russia relations, Republican_
 
 ##### War in Donbass
 ### [The Organization for Security and Co-operation in Europe warns that the situation in Eastern Ukraine is worsening. Chief monitor for Ukraine Ertugrul Apakan says that "during the past weeks, the OSCE has registered the highest number of cease-fire violations in months" and warned that artillery and mortars banned under Minsk II "are being used again in increased numbers." ](/news/2016/04/28/the-organization-for-security-and-co-operation-in-europe-warns-that-the-situation-in-eastern-ukraine-is-worsening-chief-monitor-for-ukraine.md)
-_Context: OSCE, Eastern Ukraine, Ertugrul Apakan, War in Donbass, Minsk II_
+_Context: OSCE, Eastern Ukraine, Minsk II, War in Donbass, Ertugrul Apakan_
 
 ##### South Sudan-United States relations
 ### [U.S. Special Envoy to South Sudan Donald E. Booth said that the United States would consider imposing sanctions or an arms embargo on South Sudan's leaders if they fail to form and cooperate in a proposed unity government to end the country's civil war. ](/news/2016/04/28/u-s-special-envoy-to-south-sudan-donald-e-booth-said-that-the-united-states-would-consider-imposing-sanctions-or-an-arms-embargo-on-south.md)
@@ -77,7 +77,7 @@ _Context: Kyrgyzstan, Prime Minister, Sooronbay Jeenbekov_
 
 ##### Mayor of London
 ### [Former Mayor of London Ken Livingstone is suspended by the Labour Party for claiming that Adolf Hitler was a Zionist. ](/news/2016/04/28/former-mayor-of-london-ken-livingstone-is-suspended-by-the-labour-party-for-claiming-that-adolf-hitler-was-a-zionist.md)
-_Context: Labour Party, Ken Livingstone, Zionist, Adolf Hitler, Mayor of London_
+_Context: Labour Party, Ken Livingstone, Zionist, Mayor of London, Adolf Hitler_
 
 ##### Parliament of Finland
 ### [The Parliament of Finland holds a debate on whether or not to abandon the Euro as its currency following a petition that garnered enough signatures to force the issue into parliament. This comes as Finland as dealing with a weakening economy but the petition is unlikely to lead to the country leaving the Eurozone. ](/news/2016/04/28/the-parliament-of-finland-holds-a-debate-on-whether-or-not-to-abandon-the-euro-as-its-currency-following-a-petition-that-garnered-enough-sig.md)
@@ -85,7 +85,7 @@ Finnish lawmakers on Thursday held a rare debate on whether the Nordic country s
 
 ##### Elections in Equatorial Guinea
 ### [Africa's longest serving leader Teodoro Obiang, the President of Equatorial Guinea is declared the winner of the recent election with 93.7 per cent of the vote. His government has been heavily criticised by human rights group. ](/news/2016/04/28/africa-s-longest-serving-leader-teodoro-obiang-the-president-of-equatorial-guinea-is-declared-the-winner-of-the-recent-election-with-93-7-p.md)
-_Context: Teodoro Obiang, Africa, President of Equatorial Guinea, Elections in Equatorial Guinea_
+_Context: Elections in Equatorial Guinea, President of Equatorial Guinea, Teodoro Obiang, Africa_
 
 ##### India
 ### [India launches IRNSS-1G, the seventh and final series of satellite for the Indian Regional Navigation Satellite System (NAVIC) ](/news/2016/04/28/india-launches-irnss-1g-the-seventh-and-final-series-of-satellite-for-the-indian-regional-navigation-satellite-system-navic.md)

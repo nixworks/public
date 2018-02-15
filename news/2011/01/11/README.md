@@ -9,7 +9,7 @@ Police fire into the air to disperse protesters throwing stones and smashing up 
 
 ##### Iran
 ### [The Iranian government says an Israeli spying network - since dismantled - assassinated the University of Tehran's distinguished professor of elementary particle physics Masoud Alimohammadi; an Iranian foreign ministry spokesperson vows to sue. ](/news/2011/01/11/the-iranian-government-says-an-israeli-spying-network-since-dismantled-assassinated-the-university-of-tehran-s-distinguished-professor-o.md)
-_Context: Israel, Iran, University of Tehran, Masoud Alimohammadi_
+_Context: University of Tehran, Iran, Masoud Alimohammadi, Israel_
 
 ##### Julian Assange
 ### [Lawyers for Julian Assange warn that he could be killed if he is extradited to the U.S. from Britain; Assange draws parallels between the rhetoric of the 2011 Tucson shooting and the language used against him by commentators such as Joe Biden, U.S. Vice President. ](/news/2011/01/11/lawyers-for-julian-assange-warn-that-he-could-be-killed-if-he-is-extradited-to-the-u-s-from-britain-assange-draws-parallels-between-the-rh.md)
@@ -21,11 +21,11 @@ An Egyptian policeman shoots dead a Christian man and wounds others on a train, 
 
 ##### Georgian Army
 ### [Three Georgian Army soldiers are killed and 13 wounded when a mortar bomb explodes during exercises at a military base near Tbilisi, Georgia. ](/news/2011/01/11/three-georgian-army-soldiers-are-killed-and-13-wounded-when-a-mortar-bomb-explodes-during-exercises-at-a-military-base-near-tbilisi-georgia.md)
-_Context:  Georgian, Georgian Army, Tbilisi_
+_Context: Georgian Army, Tbilisi,  Georgian_
 
 ##### Abidjan
 ### [At least five people are killed in Abidjan, Ivory Coast, as clashes continue between police and supporters of presidential aspirant Alassane Ouattara. ](/news/2011/01/11/at-least-five-people-are-killed-in-abidjan-ivory-coast-as-clashes-continue-between-police-and-supporters-of-presidential-aspirant-alassane.md)
-_Context: Abidjan, Ivory Coast, Alassane Ouattara_
+_Context: Abidjan, Alassane Ouattara, Ivory Coast_
 
 ##### Israeli missile attack
 ### [An Israeli missile attack kills a Palestinian militant while he was riding a motorcycle in the Gaza Strip.](/news/2011/01/11/an-israeli-missile-attack-kills-a-palestinian-militant-while-he-was-riding-a-motorcycle-in-the-gaza-strip.md)
@@ -45,7 +45,7 @@ The Brisbane River has broken its banks amid dire predictions of the biggest flo
 
 ##### Airline
 ### [Thousands of airline flights are cancelled in the south, Great Lakes and northeast regions of the United States due to storms. ](/news/2011/01/11/thousands-of-airline-flights-are-cancelled-in-the-south-great-lakes-and-northeast-regions-of-the-united-states-due-to-storms.md)
-_Context: southern United States, northeastern United States, Great Lakes, U.S., airline_
+_Context: northeastern United States, southern United States, Great Lakes, United States, airline_
 
 ##### Kyrgzstan
 ### [An official investigation in Kyrgzstan into deadly ethnic riots last year reports that local Uzbek leaders were to blame. ](/news/2011/01/11/an-official-investigation-in-kyrgzstan-into-deadly-ethnic-riots-last-year-reports-that-local-uzbek-leaders-were-to-blame.md)
@@ -65,11 +65,11 @@ Dr. Conrad Murray was just ordered to stand trial in the death of Michael Jackso
 
 ##### Alassane Ouattara
 ### [Alassane Ouattara rejects an offer by incumbent Ivorian President Laurent Gbagbo to be Vice President. ](/news/2011/01/11/alassane-ouattara-rejects-an-offer-by-incumbent-ivorian-president-laurent-gbagbo-to-be-vice-president.md)
-_Context: Alassane Ouattara, Laurent Gbagbo_
+_Context: Laurent Gbagbo, Alassane Ouattara_
 
 ##### Palestinian Authority
 ### [The Palestinian National Authority states it will seek United Nations recognition through both the Security Council and the General Assembly in September. It is currently lobbying nations for recognition during the stalled peace talks with Israel. ](/news/2011/01/11/the-palestinian-national-authority-states-it-will-seek-united-nations-recognition-through-both-the-security-council-and-the-general-assembly.md)
-_Context: United Nations General Assembly, officially recognises, Israel, Security Council, Palestinian Authority, United Nations_
+_Context: United Nations, Security Council, officially recognises, Palestinian Authority, Israel, United Nations General Assembly_
 
 ##### China
 ### [China successfully tests the Chengdu J-20 Black Eagle, one of its fifth generation stealth, twin-engine fighter aircraft programs. ](/news/2011/01/11/china-successfully-tests-the-chengdu-j-20-black-eagle-one-of-its-fifth-generation-stealth-twin-engine-fighter-aircraft-programs.md)

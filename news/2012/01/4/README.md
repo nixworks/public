@@ -29,19 +29,19 @@ Two men convicted of the murder of Stephen Lawrence have been given life sentenc
 
 ##### Mexican
 ### [Mexican drug cartel kingpin Benjamn Arellano Flix pleads guilty to racketeering and conspiracy to launder money in the United States. ](/news/2012/01/4/mexican-drug-cartel-kingpin-benjamin-arellano-felix-pleads-guilty-to-racketeering-and-conspiracy-to-launder-money-in-the-united-states.md)
-_Context: money laundering, racketeering, U.S., Benjamn Arellano Flix, Mexican_
+_Context: racketeering, money laundering, Benjamn Arellano Flix, United States, Mexican_
 
 ##### President of Argentina
 ### [The President of Argentina Cristina Fernndez de Kirchner temporarily hands over power to her Vice-President Amado Boudou ahead of surgery for thyroid cancer. ](/news/2012/01/4/the-president-of-argentina-cristina-fernandez-de-kirchner-temporarily-hands-over-power-to-her-vice-president-amado-boudou-ahead-of-surgery-f.md)
-_Context: Amado Boudou, thyroid cancer, President of Argentina, Cristina Kirchner_
+_Context: Amado Boudou, thyroid cancer, Cristina Kirchner, President of Argentina_
 
 ##### Mitt Romney
 ### [Republican primary candidate and former Massachusetts governor Mitt Romney wins the 2012 Iowa Caucus, with candidate and former U.S. Senator Rick Santorum behind by eight votes; Congressman Ron Paul had a strong showing in third place. ](/news/2012/01/4/republican-primary-candidate-and-former-massachusetts-governor-mitt-romney-wins-the-2012-iowa-caucus-with-candidate-and-former-u-s-senator.md)
-_Context: Rick Santorum, 2012 Iowa Caucus, Ron Paul, Mitt Romney_
+_Context: Mitt Romney, 2012 Iowa Caucus, Rick Santorum, Ron Paul_
 
 ##### Greek Prime Minister
 ### [Former Prime Minister of Greece George Papandreou announces that he will resign as head of the Panhellenic Socialist Movement. ](/news/2012/01/4/former-prime-minister-of-greece-george-papandreou-announces-that-he-will-resign-as-head-of-the-panhellenic-socialist-movement.md)
-_Context: Greek Prime Minister, PASOK, George Papandreou_
+_Context: PASOK, George Papandreou, Greek Prime Minister_
 
 ##### Protect
 ### [Armed commandos will be ordered to protect endangered tigers in India's Bandipur and Nagarhole national parks. ](/news/2012/01/4/armed-commandos-will-be-ordered-to-protect-endangered-tigers-in-india-s-bandipur-and-nagarhole-national-parks.md)

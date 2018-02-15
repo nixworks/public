@@ -9,7 +9,7 @@ The Japanese government says its economy has grown for the first time in over a 
 
 ##### Charsadda
 ### [ A bomb explodes on a truck at a fuel station in Charsadda, North-West Frontier Province, Pakistan (20 km from Peshawar), killing seven people. ](/news/2009/08/17/a-bomb-explodes-on-a-truck-at-a-fuel-station-in-charsadda-north-west-frontier-province-pakistan-20-km-from-peshawar-killing-seven-peop.md)
-_Context: Charsadda, Pakistan, Peshawar, Northwestern Pakistan_
+_Context: Charsadda, Peshawar, Pakistan, Northwestern Pakistan_
 
 ##### Explodes a truck
 ### [ A suicide bomber explodes a truck at a police station in Nazran in Russia's North Caucasus, killing at least 20 people and wounding about 60 others. ](/news/2009/08/17/a-suicide-bomber-explodes-a-truck-at-a-police-station-in-nazran-in-russia-s-north-caucasus-killing-at-least-20-people-and-wounding-about-6.md)
@@ -21,11 +21,11 @@ Eight people are dead and 54 still unaccounted for after an accident at a hydroe
 
 ##### Canadian Forces
 ### [ The Canadian Forces begin exercises to protect Canada's sovereignty in the far north. ](/news/2009/08/17/the-canadian-forces-begin-exercises-to-protect-canada-s-sovereignty-in-the-far-north.md)
-_Context: Canadian, Canadian Forces, officially submit a claim_
+_Context: officially submit a claim, Canadian Forces, Canadian_
 
 ##### MV ''Arctic Sea''
 ### [ The MV "Arctic Sea", a cargo ship missing after an apparent hijacking in July off the Swedish coast, is discovered by the Russian Navy off Cape Verde. ](/news/2009/08/17/the-mv-arctic-sea-a-cargo-ship-missing-after-an-apparent-hijacking-in-july-off-the-swedish-coast-is-discovered-by-the-russian-navy-off.md)
-_Context: Cape Verde, MV ''Arctic Sea'', Sweden, Russian Navy_
+_Context: Sweden, Cape Verde, MV ''Arctic Sea'', Russian Navy_
 
 ## [Previous Day...](/news/2009/08/16/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2014/08/26/index.html)  [JSON](2014/08/26/index.json)  [XML](201
 
 ##### Russia
 ### [Russia says that the 10 armed Russian paratroopers captured during the night in the village of Dzerkalne, Donetsk Oblast, roughly 20 kilometers from the Russian border, only entered Ukraine by "mistake". ](/news/2014/08/26/russia-says-that-the-10-armed-russian-paratroopers-captured-during-the-night-in-the-village-of-dzerkalne-donetsk-oblast-roughly-20-kilomet.md)
-_Context: Ukraine, Dzerkalne, Russia, Donetsk Oblast_
+_Context: Donetsk Oblast, Ukraine, Dzerkalne, Russia_
 
 ##### Gaza Strip
 ### [On the 50th day of the conflict, an internationally supported long-term truce is reached where the borders of Gaza, Egypt, and Israel are opened for humanitarian and reconstruction supplies and the Gaza fishing zone is extended to 6 km. Other issues such as an airport-seaport and the Israeli demand for demilitarization will be negotiated within a month. ](/news/2014/08/26/on-the-50th-day-of-the-conflict-an-internationally-supported-long-term-truce-is-reached-where-the-borders-of-gaza-egypt-and-israel-are-op.md)
@@ -13,7 +13,7 @@ Four others injured; sides agree to open Gaza crossings for aid and building sup
 
 ##### Car bomb
 ### [A car bomb explodes in a mainly Shi'ite section of Baghdad, killing at least eight people and wounding 20. ](/news/2014/08/26/a-car-bomb-explodes-in-a-mainly-shi-ite-section-of-baghdad-killing-at-least-eight-people-and-wounding-20.md)
-_Context: Baghdad, Shi'ite, car bomb_
+_Context: car bomb, Baghdad, Shi'ite_
 
 ##### Taiwan
 ### [Taiwan scrambles fighter jets to intercept two Chinese military aircraft that breached Taiwanese airspace. ](/news/2014/08/26/taiwan-scrambles-fighter-jets-to-intercept-two-chinese-military-aircraft-that-breached-taiwanese-airspace.md)
@@ -21,15 +21,15 @@ Taiwan said on Tuesday it had scrambled jets to intercept two Chinese military a
 
 ##### Kate Bush
 ### [British singer Kate Bush stages a comeback concert at London's Hammersmith Apollo, her first live performance since 1979. ](/news/2014/08/26/british-singer-kate-bush-stages-a-comeback-concert-at-london-s-hammersmith-apollo-her-first-live-performance-since-1979.md)
-_Context: Kate Bush, London, Hammersmith Apollo_
+_Context: London, Hammersmith Apollo, Kate Bush_
 
 ##### Fast food
 ### [Fast food giant Burger King agrees to acquire Canadian coffee giant Tim Hortons for $11.4 billion and move its headquarters to Canada. ](/news/2014/08/26/fast-food-giant-burger-king-agrees-to-acquire-canadian-coffee-giant-tim-hortons-for-11-4-billion-and-move-its-headquarters-to-canada.md)
-_Context: corporate tax inversions, Canadian, Tim Hortons, Burger King, Fast food, Canadian_
+_Context: Fast food, Tim Hortons, Burger King, Canadian, Canadian, corporate tax inversions_
 
 ##### Russian President
 ### [The President of Russia Vladimir Putin meets with the President of Ukraine Petro Poroshenko in Minsk, Belarus, as disputes in eastern Ukraine continue. ](/news/2014/08/26/the-president-of-russia-vladimir-putin-meets-with-the-president-of-ukraine-petro-poroshenko-in-minsk-belarus-as-disputes-in-eastern-ukrain.md)
-_Context: Ukraine, Petro Poroshenko, Vladimir Putin, Belarus, Russian President, Minsk, Ukrainian President_
+_Context: Minsk, Russian President, Ukraine, Petro Poroshenko, Belarus, Vladimir Putin, Ukrainian President_
 
 ##### Brazil
 ### [At least 5 people die in a prison riot in the Brazilian city of Cascavel. ](/news/2014/08/26/at-least-5-people-die-in-a-prison-riot-in-the-brazilian-city-of-cascavel.md)
@@ -53,7 +53,7 @@ _Context: Klaus Wowereit, mayor of Berlin, German_
 
 ##### Michael Spindelegger
 ### [Michael Spindelegger resigns as vice-chancellor and finance minister of Austria; as leader of the Austrian People's Party, he is replaced by Reinhold Mitterlehner. ](/news/2014/08/26/michael-spindelegger-resigns-as-vice-chancellor-and-finance-minister-of-austria-as-leader-of-the-austrian-people-s-party-he-is-replaced-by.md)
-_Context: Michael Spindelegger, Austrian People's Party, vice-chancellor, Austria, finance minister, Reinhold Mitterlehner_
+_Context: vice-chancellor, Austria, Michael Spindelegger, finance minister, Reinhold Mitterlehner, Austrian People's Party_
 
 ## [Previous Day...](/news/2014/08/25/index.md)
 

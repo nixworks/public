@@ -5,19 +5,19 @@ Formats: [HTML](2008/04/12/index.html)  [JSON](2008/04/12/index.json)  [XML](200
 
 ##### National Assembly of Haiti
 ### [ The National Assembly of Haiti removes the Prime Minister of Haiti Jacques-Edouard Alexis following a week of food riots in which six deaths had occurred. ](/news/2008/04/12/the-national-assembly-of-haiti-removes-the-prime-minister-of-haiti-jacques-edouard-alexis-following-a-week-of-food-riots-in-which-six-death.md)
-_Context: Jacques-Edouard Alexis, National Assembly of Haiti, Prime Minister of Haiti_
+_Context: Prime Minister of Haiti, National Assembly of Haiti, Jacques-Edouard Alexis_
 
 ##### Chinese President
 ### [ The President of the People's Republic of China Hu Jintao meets with the Vice-President-elect of Republic of China (Taiwan) Vincent Siew in the highest level talks between the two sides since 1949. ](/news/2008/04/12/the-president-of-the-people-s-republic-of-china-hu-jintao-meets-with-the-vice-president-elect-of-republic-of-china-taiwan-vincent-siew-in.md)
-_Context: Vincent Siew, Taiwan, Hu Jintao, Chinese President_
+_Context: Hu Jintao, Chinese President, Vincent Siew, Taiwan_
 
 ##### The Herald
 ### [ "The Herald", a government-run newspaper, reports that Robert Mugabe, the President of Zimbabwe, will not attend the regional crisis meeting in Lusaka, Zambia, to discuss the crisis over the 2008 presidential election. ](/news/2008/04/12/the-herald-a-government-run-newspaper-reports-that-robert-mugabe-the-president-of-zimbabwe-will-not-attend-the-regional-crisis-meetin.md)
-_Context: run-off presidential election, Zambia, newspaper, The Herald, Lusaka, President of Zimbabwe, Robert Mugabe_
+_Context: Robert Mugabe, run-off presidential election, President of Zimbabwe, newspaper, Zambia, The Herald, Lusaka_
 
 ##### Russia
 ### [ Russia threatens to block Ban Ki Moon from serving a second term as United Nations Secretary-General because of his stance on Kosovo's recent independence. The Kremlin is pressing Ban to ignore, or at least prolong, a proposed 120-day transition period to Kosovo independence from Serbia that expires on 16 June. Renewal of Serbia-Kosovo talks is possible. ](/news/2008/04/12/russia-threatens-to-block-ban-ki-moon-from-serving-a-second-term-as-united-nations-secretary-general-because-of-his-stance-on-kosovo-s-rece.md)
-_Context: 16 June, United Nations Secretary-General, Ban Ki Moon, Russia_
+_Context: Ban Ki Moon, 16 June, United Nations Secretary-General, Russia_
 
 ##### Sudan
 ### [ A Sudanese cargo plane crashes in Moldova, killing eight people. ](/news/2008/04/12/a-sudanese-cargo-plane-crashes-in-moldova-killing-eight-people.md)

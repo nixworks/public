@@ -17,7 +17,7 @@ _Context: Comair Flight 5191, Lexington, Kentucky_
 
 ##### Iran
 ### [ Iran test-fires a Sagheb missile during exercises in the Persian Gulf. ](/news/2006/08/27/iran-test-fires-a-sagheb-missile-during-exercises-in-the-persian-gulf.md)
-_Context: Sagheb, Iran, Persian Gulf_
+_Context: Persian Gulf, Iran, Sagheb_
 
 ##### Tropical Storm Ernesto
 ### [ Hurricane Ernesto becomes the first hurricane of the 2006 Atlantic hurricane season. Jeb Bush later declares a state of emergency due to its possible impact on Florida later in the week. ](/news/2006/08/27/hurricane-ernesto-becomes-the-first-hurricane-of-the-2006-atlantic-hurricane-season-jeb-bush-later-declares-a-state-of-emergency-due-to-it.md)
@@ -29,11 +29,11 @@ _Context: Iraq, Baghdad_
 
 ##### Pakistan
 ### [ Pakistan increases security in Balochistan as rioting follows the killing of rebel leader Nawab Akbar Bugti.](/news/2006/08/27/pakistan-increases-security-in-balochistan-as-rioting-follows-the-killing-of-rebel-leader-nawab-akbar-bugti.md)
-_Context: Balochistan, Nawab Akbar Bugti, Pakistan_
+_Context: Pakistan, Nawab Akbar Bugti, Balochistan_
 
 ##### Fox News
 ### [ Two Fox News Channel journalists are released after being held hostage for two weeks in the Gaza Strip. Steve Centanni and Olaf Wiig were earlier claimed to have been forced by their captors to convert to Islam. ](/news/2006/08/27/two-fox-news-channel-journalists-are-released-after-being-held-hostage-for-two-weeks-in-the-gaza-strip-steve-centanni-and-olaf-wiig-were-e.md)
-_Context: Steve Centanni, Olaf Wiig, Islam, Fox News, Gaza Strip_
+_Context: Steve Centanni, Gaza Strip, Fox News, Olaf Wiig, Islam_
 
 ## [Previous Day...](/news/2006/08/26/index.md)
 

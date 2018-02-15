@@ -5,7 +5,7 @@ Formats: [HTML](2016/09/22/index.html)  [JSON](2016/09/22/index.json)  [XML](201
 
 ##### Saudi-led intervention in Yemen
 ### [The death toll from a Saudi-led Arab coalition airstrike which hit a house in a residential area in western Yemen has risen to 26 people. ](/news/2016/09/22/the-death-toll-from-a-saudi-led-arab-coalition-airstrike-which-hit-a-house-in-a-residential-area-in-western-yemen-has-risen-to-26-people.md)
-_Context: Saudi-led intervention in Yemen, Yemen, Saudi Arabia_
+_Context: Yemen, Saudi Arabia, Saudi-led intervention in Yemen_
 
 ##### Iraqi Civil War
 ### [Iraqi Armed Forces recapture al-Shirqat, southwest of al Hujayl, from ISIL. ](/news/2016/09/22/iraqi-armed-forces-recapture-al-shirqat-southwest-of-al-hujayl-from-isil.md)
@@ -21,7 +21,7 @@ Federal and state prosecutors on Thursday announced charges against 10 men, incl
 
 ##### 2014 Yahoo! data breach
 ### [Yahoo! discloses a data breach that compromised the details of 500 million users. ](/news/2016/09/22/yahoo-discloses-a-data-breach-that-compromised-the-details-of-500-million-users.md)
-_Context: data breach, 2014 Yahoo! data breach, Yahoo!_
+_Context: data breach, Yahoo!, 2014 Yahoo! data breach_
 
 ##### Operation Car Wash
 ### [Brazilian police arrest former Finance Minister Guido Mantega as part of an ongoing probe into corruption. ](/news/2016/09/22/brazilian-police-arrest-former-finance-minister-guido-mantega-as-part-of-an-ongoing-probe-into-corruption.md)

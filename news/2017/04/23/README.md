@@ -5,7 +5,7 @@ Formats: [HTML](2017/04/23/index.html)  [JSON](2017/04/23/index.json)  [XML](201
 
 ##### War in Donbass
 ### [ A U.S. member of the OSCE monitoring mission is killed and two others injured after their vehicle drives over a land mine near Luhansk. ](/news/2017/04/23/a-u-s-member-of-the-osce-monitoring-mission-is-killed-and-two-others-injured-after-their-vehicle-drives-over-a-land-mine-near-luhansk.md)
-_Context: OSCE, U.S., Luhansk, land mine, War in Donbass_
+_Context: OSCE, Luhansk, War in Donbass, land mine, United States_
 
 ##### North Korea-United States relations
 ### [Yonhap reports that North Korea has detained a U.S. citizen as he sought to leave the country. ](/news/2017/04/23/yonhap-reports-that-north-korea-has-detained-a-u-s-citizen-as-he-sought-to-leave-the-country.md)

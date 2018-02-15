@@ -25,7 +25,7 @@ Feb. 28 - At least six people dead and four others missing after gas explosion c
 
 ##### Serbia
 ### [European Union Foreign Ministers support Serbia's candidacy to join the European Union despite opposition from Romania. ](/news/2012/02/28/european-union-foreign-ministers-support-serbia-s-candidacy-to-join-the-european-union-despite-opposition-from-romania.md)
-_Context: Romania, European Union, Serbia_
+_Context: Serbia, European Union, Romania_
 
 ##### Belarus
 ### [Belarus expels the ambassadors from the European Union and Poland and recalls its ambassadors in Brussels and Warsaw due to the imposition of sanctions. ](/news/2012/02/28/belarus-expels-the-ambassadors-from-the-european-union-and-poland-and-recalls-its-ambassadors-in-brussels-and-warsaw-due-to-the-imposition-o.md)
@@ -33,11 +33,11 @@ Belarus on Tuesday told the ambassador of the European Union and that of Poland 
 
 ##### Thai Society
 ### [A Thai court sentences leftist political activist Surachai Danwattananusorn to seven and a half years in jail for lese majeste or insulting the Thai monarchy. ](/news/2012/02/28/a-thai-court-sentences-leftist-political-activist-surachai-danwattananusorn-to-seven-and-a-half-years-in-jail-for-lese-majeste-or-insulting.md)
-_Context: Thai Society, Thai monarchy, lese majeste, Surachai Danwattananusorn_
+_Context: Surachai Danwattananusorn, Thai Society, lese majeste, Thai monarchy_
 
 ##### Mich.
 ### [Voters in the US states of Michigan and Arizona go to the polls for Republican Party primaries. Mitt Romney wins both states. ](/news/2012/02/28/voters-in-the-us-states-of-michigan-and-arizona-go-to-the-polls-for-republican-party-primaries-mitt-romney-wins-both-states.md)
-_Context: Mich., Mitt Romney, Republican primaries, Arizona_
+_Context: Arizona, Mich., Mitt Romney, Republican primaries_
 
 ##### Occupy London
 ### [Occupy London protesters are evicted from outside St. Paul's Cathedral. ](/news/2012/02/28/occupy-london-protesters-are-evicted-from-outside-st-paul-s-cathedral.md)

@@ -9,11 +9,11 @@ _Context: Grenada, Taiwan, China_
 
 ##### Belize
 ### [ In Belize, unrest over the government's new taxes boils over as people burn the government offices and union workers strike, closing ports and shutting down water services. There are reports that the United Kingdom says it will send in 1500 soldiers to maintain peace. ](/news/2005/01/20/in-belize-unrest-over-the-government-s-new-taxes-boils-over-as-people-burn-the-government-offices-and-union-workers-strike-closing-ports.md)
-_Context: unrest, United Kingdom, Belize_
+_Context: Belize, unrest, United Kingdom_
 
 ##### Israeli-Palestinian Conflict
 ### [ Israeli-Palestinian Conflict: Israeli soldiers shoot dead a 13- or 14-year-old Palestinian boy, after he points a toy rifle at them, and kill another 13-year-old boy walking with his parents near Rafah. ](/news/2005/01/20/israeli-palestinian-conflict-israeli-soldiers-shoot-dead-a-13-or-14-year-old-palestinian-boy-after-he-points-a-toy-rifle-at-them-and-ki.md)
-_Context: toy, Israel, rifle, Israeli-Palestinian Conflict, Palestinian_
+_Context: toy, Israel, Palestinian, rifle, Israeli-Palestinian Conflict_
 
 ##### George W. Bush
 ### [ U.S. President George W. Bush is sworn in for his second term, with a pledge to seek ](/news/2005/01/20/u-s-president-george-w-bush-is-sworn-in-for-his-second-term-with-a-pledge-to-seek.md)
@@ -21,15 +21,15 @@ Reuters.com is your online source for the latest U.S. news stories from coast to
 
 ##### Hajj
 ### [ Pilgrims on Hajj celebrate Eid ul-Adha in Saudi Arabia, and prepare to stone the pillars that represent satan, and eat meat of a newly killed animal, while giving meat to those less fortunate as "qurbani". Hajj Celebrations will also be held around the world, but some will wait until Friday. ](/news/2005/01/20/pilgrims-on-hajj-celebrate-eid-ul-adha-in-saudi-arabia-and-prepare-to-stone-the-pillars-that-represent-satan-and-eat-meat-of-a-newly-kill.md)
-_Context: Saudi Arabia, pillars, satan, Eid ul-Adha, Hajj_
+_Context: pillars, Saudi Arabia, Eid ul-Adha, satan, Hajj_
 
 ##### Irish
 ### [ The Republic of Ireland, one of the last countries to use non-metric speed limits, officially changes all road signage and regulations to use kilometres per hour (km-h). Speed limits in Northern Ireland remain in miles per hour (mph). ](/news/2005/01/20/the-republic-of-ireland-one-of-the-last-countries-to-use-non-metric-speed-limits-officially-changes-all-road-signage-and-regulations-to-u.md)
-_Context: road sign, metric, speed limit, Irish, changes, Northern Ireland_
+_Context: Irish, metric, Northern Ireland, road sign, speed limit, changes_
 
 ##### Ukraine
 ### [ In Ukraine, the Supreme Court dismisses prime minister Viktor Yanukovych's appeal and confirms that Viktor Yushchenko has won the presidential election. ](/news/2005/01/20/in-ukraine-the-supreme-court-dismisses-prime-minister-viktor-yanukovych-s-appeal-and-confirms-that-viktor-yushchenko-has-won-the-president.md)
-_Context: Ukraine, Viktor Yanukovych, Viktor Yushchenko_
+_Context: Ukraine, Viktor Yushchenko, Viktor Yanukovych_
 
 ##### President
 ### [ President of Guinea Lansana Cont survives an apparent assassination attempt. ](/news/2005/01/20/president-of-guinea-lansana-conte-survives-an-apparent-assassination-attempt.md)
@@ -41,7 +41,7 @@ _Context: Rodrigo Granda, Colombia, Brazil, Venezuela_
 
 ##### Peru
 ### [ In Peru, after vice president David Waisman faints during a TV interview, President Alejandro Toledo demands that criticism of his government be toned down. ](/news/2005/01/20/in-peru-after-vice-president-david-waisman-faints-during-a-tv-interview-president-alejandro-toledo-demands-that-criticism-of-his-governme.md)
-_Context: Peru, Alejandro Toledo, David Waisman, President_
+_Context: President, Alejandro Toledo, Peru, David Waisman_
 
 ##### Cuba
 ### [ Cuba announces a ban of smoking in public places that is due to begin next month. Cigars are one of Cuba's main exports. ](/news/2005/01/20/cuba-announces-a-ban-of-smoking-in-public-places-that-is-due-to-begin-next-month-cigars-are-one-of-cuba-s-main-exports.md)

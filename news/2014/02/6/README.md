@@ -13,7 +13,7 @@ Projectile strikes open area in Eshkol region, after two others hit near Ashkelo
 
 ##### Syrian rebels
 ### [Fighting between Syrian rebels and government forces rages around the Aleppo Central Prison in the war-torn city of Aleppo, but it is unclear whether rebels control all or part of the facility. ](/news/2014/02/6/fighting-between-syrian-rebels-and-government-forces-rages-around-the-aleppo-central-prison-in-the-war-torn-city-of-aleppo-but-it-is-unclea.md)
-_Context: Syrian rebels, government forces, Aleppo_
+_Context: Syrian rebels, Aleppo, government forces_
 
 ##### Jay Leno
 ### [Jay Leno finally says farewell for the second time to "The Tonight Show" with guests such as Oprah Winfrey, Kim Kardashian and Jim Parsons. ](/news/2014/02/6/jay-leno-finally-says-farewell-for-the-second-time-to-the-tonight-show-with-guests-such-as-oprah-winfrey-kim-kardashian-and-jim-parsons.md)

@@ -23,7 +23,7 @@ _Context: China_
 ### [The controversial spiritual guru Asaram Bapu is arrested on a rape charge filed by a teenage girl in northwest India. ](/news/2013/09/1/the-controversial-spiritual-guru-asaram-bapu-is-arrested-on-a-rape-charge-filed-by-a-teenage-girl-in-northwest-india.md)
 Police say they have arrested a controversial spiritual guru on a rape charge filed by a teen-age girl in northwest India.
 
-##### President
+##### President of South Africa
 ### [Former President of South Africa Nelson Mandela is discharged from hospital in the capital Pretoria. ](/news/2013/09/1/former-president-of-south-africa-nelson-mandela-is-discharged-from-hospital-in-the-capital-pretoria.md)
 Former South African President Nelson Mandela leaves hospital and returns to his Johannesburg home, where he continues to receive intensive care.
 

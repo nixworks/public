@@ -21,7 +21,7 @@ _Context: South Pacific Ocean_
 
 ##### Yokohama
 ### [ Three people are hurt and a gunman takes his own life in a rare shooting incident in Yokohama, Japan. ](/news/2009/11/6/three-people-are-hurt-and-a-gunman-takes-his-own-life-in-a-rare-shooting-incident-in-yokohama-japan.md)
-_Context: Japan, Yokohama_
+_Context: Yokohama, Japan_
 
 ##### A shooting
 ### [ One person is killed and five are injured during a shooting in an office building in Orlando, Florida, USA. ](/news/2009/11/6/one-person-is-killed-and-five-are-injured-during-a-shooting-in-an-office-building-in-orlando-florida-usa.md)
@@ -41,19 +41,19 @@ At each stage, the camps of the ousted president and of the acting president hav
 
 ##### Luanxian
 ### [ 19 people are killed after a truck runs into a crowd in Luanxian, Hebei, China. ](/news/2009/11/6/19-people-are-killed-after-a-truck-runs-into-a-crowd-in-luanxian-hebei-china.md)
-_Context: Luanxian, Hebei, China_
+_Context: China, Luanxian, Hebei_
 
 ##### India
 ### [ Indian and Burmese armed forces target a Nagaland separatist rebel base in the northeast of Burma. ](/news/2009/11/6/indian-and-burmese-armed-forces-target-a-nagaland-separatist-rebel-base-in-the-northeast-of-burma.md)
-_Context: Burma, Nagaland, India, separatist rebel_
+_Context: separatist rebel, Nagaland, India, Burma_
 
 ##### Cte d'Ivoire
 ### [ A court in Cte d'Ivoire orders that compensation due to thousands of people affected by the dumped waste of Trafigura should not be distributed to one man. ](/news/2009/11/6/a-court-in-cote-d-ivoire-orders-that-compensation-due-to-thousands-of-people-affected-by-the-dumped-waste-of-trafigura-should-not-be-distri.md)
-_Context: the dumped waste, Cte d'Ivoire, Trafigura_
+_Context: Trafigura, Cte d'Ivoire, the dumped waste_
 
 ##### Niger
 ### [ Niger's foreign affairs ministry confirms customs officials in Nigeria are blocking Niger from goods importation. ](/news/2009/11/6/niger-s-foreign-affairs-ministry-confirms-customs-officials-in-nigeria-are-blocking-niger-from-goods-importation.md)
-_Context: Niger, Nigeria_
+_Context: Nigeria, Niger_
 
 ##### Pianist
 ### [ The composer and pianist Elton John is released from his hospital bed in London after a period of illness which saw him cancel several concerts on The Red Piano Tour. ](/news/2009/11/6/the-composer-and-pianist-elton-john-is-released-from-his-hospital-bed-in-london-after-a-period-of-illness-which-saw-him-cancel-several-conc.md)

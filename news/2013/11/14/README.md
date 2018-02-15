@@ -21,7 +21,7 @@ Both sides hail talks between a high-level Russian delegation and Egyptian minis
 
 ##### Albania
 ### [Protests are held in Albania against the proposal to bring Syria's chemical weapons stockpile to be destroyed in the country. ](/news/2013/11/14/protests-are-held-in-albania-against-the-proposal-to-bring-syria-s-chemical-weapons-stockpile-to-be-destroyed-in-the-country.md)
-_Context: Albania, Syria, chemical weapons_
+_Context: Syria, chemical weapons, Albania_
 
 ##### Canadian police
 ### [Canadian police reveal that 348 people have been arrested internationally and 386 children rescued as a result of a three-year child pornography investigation called "Project Spade". ](/news/2013/11/14/canadian-police-reveal-that-348-people-have-been-arrested-internationally-and-386-children-rescued-as-a-result-of-a-three-year-child-pornogr.md)

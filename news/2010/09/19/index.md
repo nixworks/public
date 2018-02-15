@@ -9,7 +9,7 @@ Viva Palestina vehicles leave London en route to besieged Strip for what organis
 
 ##### United States soldier
 ### [The United States Army charges 5 US soldiers with murdering 3 Afghan civilians earlier this year. ](/news/2010/09/19/the-united-states-army-charges-5-us-soldiers-with-murdering-3-afghan-civilians-earlier-this-year.md)
-_Context: U.S., United States soldier, Afghanistan_
+_Context: Afghanistan, United States soldier, United States_
 
 ##### 2 car bomb
 ### [2 car bombs explode in Baghdad, Iraq, killing at least 31 people and injuring 111. ](/news/2010/09/19/2-car-bombs-explode-in-baghdad-iraq-killing-at-least-31-people-and-injuring-111.md)
@@ -21,7 +21,7 @@ _Context: Jammu and Kashmir, Government of India_
 
 ##### Tajik
 ### [At least 40 Tajik soldiers are killed in an attack in the Rasht Valley in eastern Tajikistan. ](/news/2010/09/19/at-least-40-tajik-soldiers-are-killed-in-an-attack-in-the-rasht-valley-in-eastern-tajikistan.md)
-_Context: Rasht Valley, Tajikistan, Tajik_
+_Context: Tajik, Rasht Valley, Tajikistan_
 
 ##### Al-Shabaab
 ### [Islamist al-Shabaab insurgents in Somalia seize control of 2 independent radio stations in the capital Mogadishu. ](/news/2010/09/19/islamist-al-shabaab-insurgents-in-somalia-seize-control-of-2-independent-radio-stations-in-the-capital-mogadishu.md)
@@ -37,7 +37,7 @@ _Context: Otlubayir, Agri_
 
 ##### The King's Speech
 ### ["The King's Speech" is premiered at the 35th Toronto International Film Festival. ](/news/2010/09/19/the-king-s-speech-is-premiered-at-the-35th-toronto-international-film-festival.md)
-_Context: 35th, Toronto International Film Festival, The King's Speech_
+_Context: Toronto International Film Festival, The King's Speech, 35th_
 
 ##### Harry Potter
 ### [Original handwritten Harry Potter manuscripts are to be displayed at Scotland's Wigtown festival. ](/news/2010/09/19/original-handwritten-harry-potter-manuscripts-are-to-be-displayed-at-scotland-s-wigtown-festival.md)
@@ -45,7 +45,7 @@ Original handwritten manuscripts by Harry Potter author JK Rowling are going on 
 
 ##### Northwest China
 ### [Rain-triggered floods killed four people and left two others missing Sunday in northwest China's Xinjiang Uyghur Autonomous Region's in Atush city. ](/news/2010/09/19/rain-triggered-floods-killed-four-people-and-left-two-others-missing-sunday-in-northwest-china-s-xinjiang-uyghur-autonomous-region-s-in-atus.md)
-_Context: Xinjiang Uyghur Autonomous Region, Atush, northwest China_
+_Context: northwest China, Xinjiang Uyghur Autonomous Region, Atush_
 
 ##### Northern India
 ### [Heavy monsoon rains and landslides swept the hilly areas of northern India over the weekend, killing at least 47 people. 24 people died in Almorah district in Uttrakhand state, 23 people were either swept away in Pitthoragarh, Champawat and Uttarkashi regions. ](/news/2010/09/19/heavy-monsoon-rains-and-landslides-swept-the-hilly-areas-of-northern-india-over-the-weekend-killing-at-least-47-people-24-people-died-in-a.md)
@@ -61,7 +61,7 @@ Hurricane Igor barreled north on Monday on a path expected to take it near Newfo
 
 ##### China
 ### [China suspends high level diplomatic exchanges with Japan after the latter extended the detention of a Chinese fishing captain. ](/news/2010/09/19/china-suspends-high-level-diplomatic-exchanges-with-japan-after-the-latter-extended-the-detention-of-a-chinese-fishing-captain.md)
-_Context: Japan, China_
+_Context: China, Japan_
 
 ##### Humanitarian aid
 ### [A humanitarian aid convoy for the Viva Palestina charity starts in London, England, headed for the Gaza Strip. ](/news/2010/09/19/a-humanitarian-aid-convoy-for-the-viva-palestina-charity-starts-in-london-england-headed-for-the-gaza-strip.md)
@@ -69,7 +69,7 @@ Viva Palestina vehicles leave London en route to besieged Strip for what organis
 
 ##### United Kingdom
 ### [A British man of Somali origin, destined for Uganda, is arrested in Schiphol airport in Amsterdam on suspicion of being a terrorist. ](/news/2010/09/19/a-british-man-of-somali-origin-destined-for-uganda-is-arrested-in-schiphol-airport-in-amsterdam-on-suspicion-of-being-a-terrorist.md)
-_Context: Uganda, United Kingdom, Amsterdam Airport Schiphol, terrorism, Amsterdam, Somalia_
+_Context: Amsterdam Airport Schiphol, terrorism, United Kingdom, Amsterdam, Uganda, Somalia_
 
 ##### Air India Flight 182
 ### [Inderjit Singh Reyat, the only man convicted of the bombings of Air India Flight 182 and Narita International Airport in 1985, is found guilty of perjury. ](/news/2010/09/19/inderjit-singh-reyat-the-only-man-convicted-of-the-bombings-of-air-india-flight-182-and-narita-international-airport-in-1985-is-found-guil.md)
@@ -81,11 +81,11 @@ Four people are killed and one seriously injured in a shooting at a German hospi
 
 ##### Metropolitan Police
 ### [The Metropolitan Police release six men arrested on suspicion of being terrorists during Pope Benedict XVI's visit to the United Kingdom without charge. ](/news/2010/09/19/the-metropolitan-police-release-six-men-arrested-on-suspicion-of-being-terrorists-during-pope-benedict-xvi-s-visit-to-the-united-kingdom-wit.md)
-_Context: terrorism, Pope Benedict XVI, visit of Pope Benedict XVI, Metropolitan Police_
+_Context: Metropolitan Police, visit of Pope Benedict XVI, terrorism, Pope Benedict XVI_
 
 ##### Mexican
 ### [Eight Mexican police officers from the state of Guerrero are found dead. ](/news/2010/09/19/eight-mexican-police-officers-from-the-state-of-guerrero-are-found-dead.md)
-_Context: Guerrero, Mexican_
+_Context: Mexican, Guerrero_
 
 ##### Zimbabwe
 ### [Supporters of Zimbabwean President Robert Mugabe stone delegates meeting in the capital Harare to create a new constitution, injuring five people. ](/news/2010/09/19/supporters-of-zimbabwean-president-robert-mugabe-stone-delegates-meeting-in-the-capital-harare-to-create-a-new-constitution-injuring-five-p.md)
@@ -93,7 +93,7 @@ Copac outreach meetings in Harare were Sunday abandoned after violence and chaos
 
 ##### Sweden
 ### [Voters in Sweden go to the polls for a general election with the centre-right Alliance government led by Prime Minister of Sweden Fredrik Reinfeldt winning the most seats but falling short of a majority ](/news/2010/09/19/voters-in-sweden-go-to-the-polls-for-a-general-election-with-the-centre-right-alliance-government-led-by-prime-minister-of-sweden-fredrik-re.md)
-_Context: Fredrik Reinfeldt, Swedish general election, The Alliance, Sweden, prime minister_
+_Context: Sweden, prime minister, Fredrik Reinfeldt, Swedish general election, The Alliance_
 
 ##### United Front for Democracy Against Dictatorship
 ### [The United Front for Democracy Against Dictatorship, or Red Shirts, hold protests on the fourth anniversary of the downfall of Prime Minister of Thailand Thaksin Shinawatra. ](/news/2010/09/19/the-united-front-for-democracy-against-dictatorship-or-red-shirts-hold-protests-on-the-fourth-anniversary-of-the-downfall-of-prime-ministe.md)
@@ -105,11 +105,11 @@ _Context: Minister for Basic Industry, Raul Castro, President, Yadira Garcia Ver
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI beatifies Cardinal John Henry Newman in an outdoor mass in Birmingham, England, on the final day of his visit to the UK. ](/news/2010/09/19/pope-benedict-xvi-beatifies-cardinal-john-henry-newman-in-an-outdoor-mass-in-birmingham-england-on-the-final-day-of-his-visit-to-the-uk.md)
-_Context: visit of Pope Benedict XVI, John Henry Newman, beatified, Cardinal, Birmingham, Pope Benedict XVI, England_
+_Context: visit of Pope Benedict XVI, England, Cardinal, Pope Benedict XVI, John Henry Newman, Birmingham, beatified_
 
 ##### Cult
 ### [Concerns are held about a cult-like group of Salvadoran migrants to the United States in Palmdale, California, who have gone missing after leaving a note that they were going to meet Jesus. They are later found alive in a park. ](/news/2010/09/19/concerns-are-held-about-a-cult-like-group-of-salvadoran-migrants-to-the-united-states-in-palmdale-california-who-have-gone-missing-after-l.md)
-_Context: Jesus, Palmdale, U.S., El Salvador, California, cult_
+_Context: El Salvador, cult, United States, Jesus, California, Palmdale_
 
 ##### Armenia
 ### [Approximately 2,000 Armenians worship at the 10th century Church of the Holy Cross on Akdamar Island in Turkey for the first time since 1915. ](/news/2010/09/19/approximately-2-000-armenians-worship-at-the-10th-century-church-of-the-holy-cross-on-akdamar-island-in-turkey-for-the-first-time-since-1915.md)

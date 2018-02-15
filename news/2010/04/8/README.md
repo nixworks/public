@@ -9,23 +9,23 @@ OPPONENTS of President Kurmanbek Bakiyev took control overnight of Kyrgyzstan af
 
 ##### Sri Lanka
 ### [Sri Lankans vote in the country's 2010 parliamentary election. ](/news/2010/04/8/sri-lankans-vote-in-the-country-s-2010-parliamentary-election.md)
-_Context: parliamentary election, Sri Lanka_
+_Context: Sri Lanka, parliamentary election_
 
 ##### Pakistan
 ### [Pakistan adopts the 18th amendment to the Constitution, stripping President Asif Ali Zardari of key powers. ](/news/2010/04/8/pakistan-adopts-the-18th-amendment-to-the-constitution-stripping-president-asif-ali-zardari-of-key-powers.md)
-_Context: president, Constitution, Asif Ali Zardari, Pakistan_
+_Context: Constitution, president, Asif Ali Zardari, Pakistan_
 
 ##### Diyala Governorate
 ### [5 people are killed and 11 others are injured in separate attacks in Diyala and Nineveh. ](/news/2010/04/8/5-people-are-killed-and-11-others-are-injured-in-separate-attacks-in-diyala-and-nineveh.md)
 _Context: Diyala Governorate, Nineveh_
 
-##### U.S.
+##### United States
 ### [United States President Barack Obama and Russian President Dmitry Medvedev sign a new arms reduction treaty that will cut both countries' arsenals by a third. ](/news/2010/04/8/united-states-president-barack-obama-and-russian-president-dmitry-medvedev-sign-a-new-arms-reduction-treaty-that-will-cut-both-countries-ar.md)
-_Context: Barack Obama, Russia, U.S., Dmitry Medvedev, U.S. President, new arms reduction treaty, Russian President_
+_Context: U.S. President, Dmitry Medvedev, Russia, Barack Obama, United States, new arms reduction treaty, Russian President_
 
 ##### Israel
 ### [Israeli Prime Minister Benjamin Netanyahu will send deputy prime-minister to a summit on nuclear weapons in the United States over concerns that Egypt and Turkey might shift the focus away from preventing militants from obtaining nuclear weapons by insisting that Israel sign the Nuclear Non-Proliferation Treaty (NPT). ](/news/2010/04/8/israeli-prime-minister-benjamin-netanyahu-will-send-deputy-prime-minister-to-a-summit-on-nuclear-weapons-in-the-united-states-over-concerns.md)
-_Context: Nuclear Non-Proliferation Treaty, Benjamin Netanyahu, Israel, U.S., Egypt, Israeli Prime Minister, Turkey_
+_Context: Egypt, Nuclear Non-Proliferation Treaty, Israeli Prime Minister, United States, Israel, Turkey, Benjamin Netanyahu_
 
 ##### Palestinian
 ### [A Palestinian teen reported to have been killed returns home safely. ](/news/2010/04/8/a-palestinian-teen-reported-to-have-been-killed-returns-home-safely.md)
@@ -33,7 +33,7 @@ _Context: Palestinian_
 
 ##### Lee R. Berger
 ### [Professor Lee R. Berger announces the discovery of a new hominid species, "Australopithecus sediba", believed to be an ancestor of either "Homo habilis" or "Homo erectus". ](/news/2010/04/8/professor-lee-r-berger-announces-the-discovery-of-a-new-hominid-species-australopithecus-sediba-believed-to-be-an-ancestor-of-either-h.md)
-_Context: Australopithecus sediba, Lee R. Berger, Homo erectus, Homo habilis_
+_Context: Australopithecus sediba, Homo habilis, Lee R. Berger, Homo erectus_
 
 ##### Bangladesh
 ### [The Bangladeshi army distributes drinking water among more than 12 million people in Dhaka as fears grow over the city's water crisis. ](/news/2010/04/8/the-bangladeshi-army-distributes-drinking-water-among-more-than-12-million-people-in-dhaka-as-fears-grow-over-the-city-s-water-crisis.md)
@@ -41,7 +41,7 @@ _Context: Bangladesh, Dhaka_
 
 ##### Edo State
 ### [More than 50 doctors in Edo State, Nigeria go on strike after a colleague is kidnapped by unidentified gunmen. ](/news/2010/04/8/more-than-50-doctors-in-edo-state-nigeria-go-on-strike-after-a-colleague-is-kidnapped-by-unidentified-gunmen.md)
-_Context: Nigeria, Edo State_
+_Context: Edo State, Nigeria_
 
 ##### Mutinous soldiers
 ### [29 paramilitary troops are convicted of mutiny and imprisoned for up to seven years at a Bangladeshi tribunal. ](/news/2010/04/8/29-paramilitary-troops-are-convicted-of-mutiny-and-imprisoned-for-up-to-seven-years-at-a-bangladeshi-tribunal.md)
@@ -49,7 +49,7 @@ _Context: Bangladesh, mutinous soldiers_
 
 ##### Buried in their homes by a large landslide
 ### [The death toll in the storm which caused severe damage to Brazil's Rio de Janeiro metro area reaches 200. ](/news/2010/04/8/the-death-toll-in-the-storm-which-caused-severe-damage-to-brazil-s-rio-de-janeiro-metro-area-reaches-200.md)
-_Context: buried in their homes by a large landslide, Rio de Janeiro, Brazil_
+_Context: Rio de Janeiro, Brazil, buried in their homes by a large landslide_
 
 ##### London
 ### [Separation surgery is declared successful in London on the conjoined twins from Cork, Ireland, born on 2 December. ](/news/2010/04/8/separation-surgery-is-declared-successful-in-london-on-the-conjoined-twins-from-cork-ireland-born-on-2-december.md)
@@ -65,11 +65,11 @@ Malcolm McLaren, the former manager of the Sex Pistols and impresario, has died 
 
 ##### Dominican Republic
 ### [14 people die of dengue fever in Dominican Republic. 2,000 cases of dengue fever have been registered. A total of 52 died of the disease last year. ](/news/2010/04/8/14-people-die-of-dengue-fever-in-dominican-republic-2-000-cases-of-dengue-fever-have-been-registered-a-total-of-52-died-of-the-disease-las.md)
-_Context: Dominican Republic, dengue_
+_Context: dengue, Dominican Republic_
 
 ##### Dublin
 ### [Dublin's Glasnevin Cemetery, which holds 1.5 million corpses, is reopened with a new museum after an EUR11 million redevelopment. ](/news/2010/04/8/dublin-s-glasnevin-cemetery-which-holds-1-5-million-corpses-is-reopened-with-a-new-museum-after-an-a-11-million-redevelopment.md)
-_Context: Glasnevin Cemetery, Dublin_
+_Context: Dublin, Glasnevin Cemetery_
 
 ## [Previous Day...](/news/2010/04/7/index.md)
 

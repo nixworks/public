@@ -9,11 +9,11 @@ The Syrian army and its allies reached an air base besieged for years by Islamic
 
 ##### 2016-17 Northern Rakhine State clashes
 ### [The Arakan Rohingya Salvation Army declares a unilateral ceasefire to allow humanitarian groups to facilitate aid for Rohingya refugees. ](/news/2017/09/9/the-arakan-rohingya-salvation-army-declares-a-unilateral-ceasefire-to-allow-humanitarian-groups-to-facilitate-aid-for-rohingya-refugees.md)
-_Context: Rohingya, 2016-17 Northern Rakhine State clashes, ARSA_
+_Context: 2016-17 Northern Rakhine State clashes, ARSA, Rohingya_
 
 ##### Egyptology
 ### [Egypt announces the discovery of a tomb in Luxor belonging to a royal goldsmith who lived more than 3,500 years ago in the 18th Dynasty. ](/news/2017/09/9/egypt-announces-the-discovery-of-a-tomb-in-luxor-belonging-to-a-royal-goldsmith-who-lived-more-than-3-500-years-ago-in-the-18th-dynasty.md)
-_Context: goldsmith, Luxor, 18th Dynasty, Egypt, Egyptology_
+_Context: Egypt, goldsmith, Luxor, 18th Dynasty, Egyptology_
 
 ##### Roman Britain
 ### [Archaeologists discover a cache of Roman Britain-era artefacts, including weapons, at an ancient Roman cavalry barracks near Hadrian's Wall in northern England. Archaeologists liken the discovery to winning the lottery. ](/news/2017/09/9/archaeologists-discover-a-cache-of-roman-britain-era-artefacts-including-weapons-at-an-ancient-roman-cavalry-barracks-near-hadrian-s-wall.md)
@@ -21,7 +21,7 @@ Dig team stumble across thousands of pristine artefacts at ancient garrison site
 
 ##### 2017 Venice Film Festival
 ### [Film director Guillermo del Toro wins for "The Shape of Water". ](/news/2017/09/9/film-director-guillermo-del-toro-wins-for-the-shape-of-water.md)
-_Context: The Shape of Water, Guillermo del Toro, 2017 Venice Film Festival_
+_Context: 2017 Venice Film Festival, Guillermo del Toro, The Shape of Water_
 
 ##### Atlantic hurricanes
 ### [Hurricane Irma makes landfall in Cuba. The death toll across the Caribbean is at least 25 people, ](/news/2017/09/9/hurricane-irma-makes-landfall-in-cuba-the-death-toll-across-the-caribbean-is-at-least-25-people.md)
@@ -29,7 +29,7 @@ Aid workers responding to devastation from Hurricane Irma have been stalled by t
 
 ##### 2017 Chiapas earthquake
 ### [The death toll in the earthquake that struck the Chiapas region of Mexico rises to 90. ](/news/2017/09/9/the-death-toll-in-the-earthquake-that-struck-the-chiapas-region-of-mexico-rises-to-90.md)
-_Context: Chiapas, Mexican, 2017 Chiapas earthquake_
+_Context: 2017 Chiapas earthquake, Mexican, Chiapas_
 
 ##### 2017 Qatar diplomatic crisis
 ### [Saudi Arabia suspends any dialogue with Qatar, accusing it of "distorting facts" in its reporting of yesterday's phone call between the leaders of both countries which suggested a breakthrough in the Gulf dispute was possible. ](/news/2017/09/9/saudi-arabia-suspends-any-dialogue-with-qatar-accusing-it-of-adistorting-factsa-in-its-reporting-of-yesterday-s-phone-call-between-the.md)

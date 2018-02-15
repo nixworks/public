@@ -5,7 +5,7 @@ Formats: [HTML](2014/12/10/index.html)  [JSON](2014/12/10/index.json)  [XML](201
 
 ##### Palestinian Authority
 ### [The settlement minister of the Palestinian Authority, Ziad Abu Ein, dies after a confrontation with Israeli soldiers during a West Bank protest. ](/news/2014/12/10/the-settlement-minister-of-the-palestinian-authority-ziad-abu-ein-dies-after-a-confrontation-with-israeli-soldiers-during-a-west-bank-prot.md)
-_Context: Ziad Abu Ein, West Bank, Palestinian Authority, Israel_
+_Context: West Bank, Ziad Abu Ein, Israel, Palestinian Authority_
 
 ##### ISIL
 ### [The Kurdish region's military forces, the Peshmerga Ministry, states that over 700 Iraqi Kurds have died fighting ISIL forces since June. ](/news/2014/12/10/the-kurdish-regionas-military-forces-the-peshmerga-ministry-states-that-over-700-iraqi-kurds-have-died-fighting-isil-forces-since-june.md)
@@ -17,7 +17,7 @@ _Context: Alisher Usmanov, James Watson, DNA_
 
 ##### Charlene, Princess of Monaco
 ### [Charlene, Princess of Monaco, wife of Albert II, Prince of Monaco, gives birth to twins Jacques and Gabriella. Jacques will be heir apparent in line with male priority of Monaco's succession laws. ](/news/2014/12/10/charlene-princess-of-monaco-wife-of-albert-ii-prince-of-monaco-gives-birth-to-twins-jacques-and-gabriella-jacques-will-be-heir-apparent.md)
-_Context: Jacques, Charlene, Princess of Monaco, Albert II, Prince of Monaco, heir apparent, Monaco, Gabriella_
+_Context: Albert II, Prince of Monaco, Jacques, Gabriella, heir apparent, Monaco, Charlene, Princess of Monaco_
 
 ##### Northern England
 ### [A wild storm hits Scotland, northern England and Northern Ireland leaving up to 14,000 people without power in western Scotland. ](/news/2014/12/10/a-wild-storm-hits-scotland-northern-england-and-northern-ireland-leaving-up-to-14-000-people-without-power-in-western-scotland.md)
@@ -25,7 +25,7 @@ Power is restored to most homes in Scotland after being struck by a storm dubbed
 
 ##### Ebola virus epidemic in West Africa
 ### [Medical personnel combating the spread of the Ebola virus are named Time Person of the Year. ](/news/2014/12/10/medical-personnel-combating-the-spread-of-the-ebola-virus-are-named-time-person-of-the-year.md)
-_Context: Time Person of the Year, Ebola virus epidemic in West Africa, Ebola virus_
+_Context: Ebola virus epidemic in West Africa, Time Person of the Year, Ebola virus_
 
 ##### ''Nature''
 ### ["Nature" publishes research by the University of Toronto announcing the discovery of a new class of stem cells called F-class stem cells that have the potential to be better and safer to use in medical research. ](/news/2014/12/10/nature-publishes-research-by-the-university-of-toronto-announcing-the-discovery-of-a-new-class-of-stem-cells-called-f-class-stem-cells-tha.md)

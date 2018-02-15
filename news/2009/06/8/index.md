@@ -9,11 +9,11 @@ _Context: Egypt, Nile Delta_
 
 ##### Lloyds Banking Group
 ### [ Lloyds Banking Group repay GBP2.56 billion to Her Majesty's Government to compensate for partial nationalisation on 19 January 2009. ](/news/2009/06/8/lloyds-banking-group-repay-agbp2-56-billion-to-her-majesty-s-government-to-compensate-for-partial-nationalisation-on-19-january-2009.md)
-_Context: His Majesty's Government, Lloyds Banking Group, GBP, 19 January 2009, nationalisation_
+_Context: Lloyds Banking Group, 19 January 2009, nationalisation, GBP, His Majesty's Government_
 
 ##### Supreme Court of the United States
 ### [ The Supreme Court of the United States stays the sale of Chrysler to Fiat in "Indiana State Police Pension Trust v. Chrysler". ](/news/2009/06/8/the-supreme-court-of-the-united-states-stays-the-sale-of-chrysler-to-fiat-in-indiana-state-police-pension-trust-v-chrysler.md)
-_Context: Indiana State Police Pension Trust v. Chrysler, stays, Fiat, Supreme Court of the United States, Chrysler_
+_Context: Fiat, Supreme Court of the United States, Chrysler, stays, Indiana State Police Pension Trust v. Chrysler_
 
 ##### Real Irish Republican Army
 ### [ Four men, including Real Irish Republican Army members Michael McKevitt and Colm Murphy, are declared responsible for the bombing of Omagh, County Tyrone, Northern Ireland, in 1998. ](/news/2009/06/8/four-men-including-real-irish-republican-army-members-michael-mckevitt-and-colm-murphy-are-declared-responsible-for-the-bombing-of-omagh.md)
@@ -21,7 +21,7 @@ Four of the five men being sued by the families of the Omagh bomb victims have b
 
 ##### Department for Environment
 ### [ The Minister of State for Farming and the Environment, Jane Kennedy, announces her resignation from the Government of the United Kingdom. ](/news/2009/06/8/the-minister-of-state-for-farming-and-the-environment-jane-kennedy-announces-her-resignation-from-the-government-of-the-united-kingdom.md)
-_Context: 10 Downing Street, Jane Kennedy, Department for Environment_
+_Context: 10 Downing Street, Department for Environment, Jane Kennedy_
 
 ##### Pope
 ### [ Pope Benedict XVI is reportedly "visibly upset" after hearing the findings of Ireland's Commission to Inquire into Child Abuse. ](/news/2009/06/8/pope-benedict-xvi-is-reportedly-visibly-upset-after-hearing-the-findings-of-ireland-s-commission-to-inquire-into-child-abuse.md)
@@ -29,19 +29,19 @@ Pope Benedict was visibly upset by accounts of the Child Abuse Commission&#39;s 
 
 ##### Gabon
 ### [ Gabonese President Omar Bongo dies of a heart attack at age 73. ](/news/2009/06/8/gabonese-president-omar-bongo-dies-of-a-heart-attack-at-age-73.md)
-_Context: President, heart attack, Omar Bongo, Gabon_
+_Context: heart attack, Gabon, Omar Bongo, President_
 
-##### U.S.
+##### United States
 ### [ Two American journalists are found guilty of illegally entering North Korea and sentenced to 12 years of penal labour. ](/news/2009/06/8/two-american-journalists-are-found-guilty-of-illegally-entering-north-korea-and-sentenced-to-12-years-of-penal-labour.md)
-_Context: found guilty, U.S., North Korea, penal labour_
+_Context: North Korea, found guilty, United States, penal labour_
 
 ##### North Korea
 ### [ North Korea restricts access to the Sea of Japan, near Wonsan, from June 10-30, possibly indicating future missile testing. ](/news/2009/06/8/north-korea-restricts-access-to-the-sea-of-japan-near-wonsan-from-june-10a30-possibly-indicating-future-missile-testing.md)
-_Context: North Korea's nuclear program, Wonsan, Sea of Japan, North Korea_
+_Context: Wonsan, Sea of Japan, North Korea, North Korea's nuclear program_
 
 ##### Mayor
 ### [ Mayor Ray Nagin of New Orleans, Louisiana, is quarantined in Shanghai, China, after a passenger on his flight from the United States was diagnosed with A(H1N1) influenza. ](/news/2009/06/8/mayor-ray-nagin-of-new-orleans-louisiana-is-quarantined-in-shanghai-china-after-a-passenger-on-his-flight-from-the-united-states-was-di.md)
-_Context: Mayor, China, U.S., Ray Nagin, swine flu, Louisiana, Shanghai, quarantine, H1N1, New Orleans_
+_Context: H1N1, United States, swine flu, Mayor, Shanghai, quarantine, Louisiana, China, Ray Nagin, New Orleans_
 
 ##### Centre-right
 ### [ The centre-right European People's Party increases its plurality. ](/news/2009/06/8/the-centre-right-european-people-s-party-increases-its-plurality.md)
@@ -49,15 +49,15 @@ _Context: centre-right, European People's Party, plurality_
 
 ##### Referendum
 ### [ In a referendum held alongside European Parliament elections, voters in Denmark agreed to change their Acts of Succession to eliminate male preference in their line of succession. ](/news/2009/06/8/in-a-referendum-held-alongside-european-parliament-elections-voters-in-denmark-agreed-to-change-their-acts-of-succession-to-eliminate-male.md)
-_Context: Acts of Succession, referendum, male preference, Denmark, line of succession_
+_Context: male preference, Denmark, line of succession, referendum, Acts of Succession_
 
 ##### Legislative election
 ### [ In a legislative election held alongside European Parliament elections, the Christian Social People's Party increase their plurality in Luxembourg's Chamber of Deputies. ](/news/2009/06/8/in-a-legislative-election-held-alongside-european-parliament-elections-the-christian-social-people-s-party-increase-their-plurality-in-lux.md)
-_Context: legislative election, Luxembourg, plurality, Chamber of Deputies, Christian Social People's Party_
+_Context: legislative election, Chamber of Deputies, Luxembourg, Christian Social People's Party, plurality_
 
 ##### Acid attack
 ### [ The third acid attack since December 2008 occurs in Mong Kok, Hong Kong. ](/news/2009/06/8/the-third-acid-attack-since-december-2008-occurs-in-mong-kok-hong-kong.md)
-_Context: Hong Kong, acid attack, Mong Kok, December 2008_
+_Context: Hong Kong, acid attack, December 2008, Mong Kok_
 
 ##### Apple Inc.
 ### [ Apple Inc. debuts the third generation of its iPhone line, iPhone 3GS at Worldwide Developers Conference 2009. ](/news/2009/06/8/apple-inc-debuts-the-third-generation-of-its-iphone-line-iphone-3gs-at-worldwide-developers-conference-2009.md)

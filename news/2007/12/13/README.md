@@ -5,39 +5,39 @@ Formats: [HTML](2007/12/13/index.html)  [JSON](2007/12/13/index.json)  [XML](200
 
 ##### Archaeological
 ### [ An archaeological expedition from Indiana University finds the remains of William Kidd's ship, the "Quedagh Merchant", believed to have sunk in 1699, near Catalina Island, Dominican Republic. ](/news/2007/12/13/an-archaeological-expedition-from-indiana-university-finds-the-remains-of-william-kidd-s-ship-the-quedagh-merchant-believed-to-have-sun.md)
-_Context: Indiana University, Dominican Republic, archaeological, Captain Kidd, Quedagh Merchant, Catalina Island, 1699_
+_Context: Dominican Republic, Indiana University, archaeological, 1699, Quedagh Merchant, Catalina Island, Captain Kidd_
 
-##### U.S.
+##### United States
 ### [ The United States Senate passes an energy bill which would increase automobile fuel economy standards for the first time in three decades. ](/news/2007/12/13/the-united-states-senate-passes-an-energy-bill-which-would-increase-automobile-fuel-economy-standards-for-the-first-time-in-three-decades.md)
-_Context: U.S., United States Senate, fuel economy, energy bill_
+_Context: energy bill, United States Senate, United States, fuel economy_
 
-##### U.S.
+##### United States
 ### [ Former United States Senator George Mitchell releases a report detailing the use of banned substances by current and former Major League Baseball players. ](/news/2007/12/13/former-united-states-senator-george-mitchell-releases-a-report-detailing-the-use-of-banned-substances-by-current-and-former-major-league-ba.md)
-_Context: U.S., performance-enhancing drugs, Major League Baseball, George J. Mitchell, Mitchell Report, current and former, United States Senate_
+_Context: George J. Mitchell, United States, current and former, United States Senate, Major League Baseball, Mitchell Report, performance-enhancing drugs_
 
-##### U.S.
+##### United States
 ### [ A United States Marine Corps reservist is found guilty of killing an Iraqi soldier while they stood guard together in Fallujah. ](/news/2007/12/13/a-united-states-marine-corps-reservist-is-found-guilty-of-killing-an-iraqi-soldier-while-they-stood-guard-together-in-fallujah.md)
-_Context: Marine, Iraq, Fallujah, U.S., reservist_
+_Context: Iraq, reservist, United States, Marine, Fallujah_
 
 ##### European Union
 ### [ European Union leaders sign the Reform Treaty in Lisbon, Portugal. ](/news/2007/12/13/european-union-leaders-sign-the-reform-treaty-in-lisbon-portugal.md)
-_Context: European Union, Lisbon, Treaty of Lisbon, Portugal_
+_Context: Treaty of Lisbon, Lisbon, European Union, Portugal_
 
 ##### Kivu conflict
 ### [ Kivu conflict: Rebels in the Democratic Republic of the Congo loyal to General Laurent Nkunda call for peace talks with the government to resolve the crisis. ](/news/2007/12/13/kivu-conflict-rebels-in-the-democratic-republic-of-the-congo-loyal-to-general-laurent-nkunda-call-for-peace-talks-with-the-government-to-r.md)
-_Context: Kivu conflict, Laurent Nkunda, DR Congo_
+_Context: DR Congo, Laurent Nkunda, Kivu conflict_
 
 ##### Rajdhani Express
 ### [ A bomb explodes on the Rajdhani Express in Assam, India near Chungajan killing five passengers. ](/news/2007/12/13/a-bomb-explodes-on-the-rajdhani-express-in-assam-india-near-chungajan-killing-five-passengers.md)
-_Context: Assam, Rajdhani Express, India, Chungajan_
+_Context: India, Rajdhani Express, Chungajan, Assam_
 
 ##### ZANU-PF
 ### [ ZANU-PF, the ruling party in Zimbabwe, endorses incumbent Robert Mugabe for the 2008 presidential election set for March. ](/news/2007/12/13/zanuapf-the-ruling-party-in-zimbabwe-endorses-incumbent-robert-mugabe-for-the-2008-presidential-election-set-for-march.md)
-_Context: Robert Mugabe, Zimbabwe, ZANU-PF, run-off presidential election, incumbent_
+_Context: ZANU-PF, incumbent, run-off presidential election, Zimbabwe, Robert Mugabe_
 
 ##### Lucy Kibaki
 ### [ Lucy Kibaki, the wife of Kenyan President Mwai Kibaki, slaps a government official during independence day celebrations after he accidentally referred to her as "Mama Lucy Wambui," widely rumored to be the President's mistress. ](/news/2007/12/13/lucy-kibaki-the-wife-of-kenyan-president-mwai-kibaki-slaps-a-government-official-during-independence-day-celebrations-after-he-accidental.md)
-_Context: Mwai Kibaki, Kenya, President of Kenya, Lucy Kibaki, Mama Lucy Wambui_
+_Context: Mwai Kibaki, Kenya, Lucy Kibaki, Mama Lucy Wambui, President of Kenya_
 
 ## [Previous Day...](/news/2007/12/12/index.md)
 

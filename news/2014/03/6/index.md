@@ -5,15 +5,15 @@ Formats: [HTML](2014/03/6/index.html)  [JSON](2014/03/6/index.json)  [XML](2014/
 
 ##### Pope Francis
 ### [Pope Francis acknowledges that civil unions for LGBT people is a governmental move for economic and health management. ](/news/2014/03/6/pope-francis-acknowledges-that-civil-unions-for-lgbt-people-is-a-governmental-move-for-economic-and-health-management.md)
-_Context: civil union, gay and bisexual men, Pope Francis_
+_Context: gay and bisexual men, civil union, Pope Francis_
 
 ##### Getty Images
 ### [Getty Images allows the free use of 35 million photos. ](/news/2014/03/6/getty-images-allows-the-free-use-of-35-million-photos.md)
-_Context: free use, Getty Images_
+_Context: Getty Images, free use_
 
 ##### Pussy Riot
 ### [Two members of the protest band Pussy Riot are left with chemical burns and head injuries after being attacked by a group of people in a McDonald's. ](/news/2014/03/6/two-members-of-the-protest-band-pussy-riot-are-left-with-chemical-burns-and-head-injuries-after-being-attacked-by-a-group-of-people-in-a-mcd.md)
-_Context: McDonald's restaurants, Pussy Riot_
+_Context: Pussy Riot, McDonald's restaurants_
 
 ##### NATO
 ### [A NATO airstrike mistakenly hits an Afghan military outpost in Logar Province killing 5 Afghan soldiers. ](/news/2014/03/6/a-nato-airstrike-mistakenly-hits-an-afghan-military-outpost-in-logar-province-killing-5-afghan-soldiers.md)
@@ -25,23 +25,23 @@ LONDON -- The European Union has frozen the assets of former Ukrainian President
 
 ##### Venezuela
 ### [The Government of Venezuela cuts diplomatic ties with Panama calling it a "lackey of the United States". ](/news/2014/03/6/the-government-of-venezuela-cuts-diplomatic-ties-with-panama-calling-it-a-lackey-of-the-united-states.md)
-_Context: Panama, Venezuela, U.S._
+_Context: United States, Venezuela, Panama_
 
 ##### Niger
 ### [Niger deports Saadi al-Gaddafi, son of Muammar al-Gaddafi, to Libya. ](/news/2014/03/6/niger-deports-saadi-al-gaddafi-son-of-muammar-al-gaddafi-to-libya.md)
-_Context: Niger, Libya, Saadi al-Gaddafi, Muammar al-Gaddafi_
+_Context: Saadi al-Gaddafi, Muammar al-Gaddafi, Libya, Niger_
 
 ##### Afghanistan President
 ### [The brother of the current President of Afghanistan Hamid Karzai, Qayum Karzai, drops out of the Afghan presidential election and endorses Zalmai Rassoul. ](/news/2014/03/6/the-brother-of-the-current-president-of-afghanistan-hamid-karzai-qayum-karzai-drops-out-of-the-afghan-presidential-election-and-endorses-z.md)
-_Context: Qayum Karzai, Afghanistan President, Hamid Karzai, Zalmai Rassoul, Afghan presidential election, 2014_
+_Context: Hamid Karzai, Zalmai Rassoul, Afghan presidential election, 2014, Qayum Karzai, Afghanistan President_
 
 ##### President of Tunisia
 ### [President of Tunisia Moncef Marzouki lifts a state of emergency that was put in place after the 2011 Tunisian Revolution. ](/news/2014/03/6/president-of-tunisia-moncef-marzouki-lifts-a-state-of-emergency-that-was-put-in-place-after-the-2011-tunisian-revolution.md)
-_Context: Moncef Marzouki, President of Tunisia, Jasmine Revolution of 2011_
+_Context: Jasmine Revolution of 2011, Moncef Marzouki, President of Tunisia_
 
 ##### 14th Dalai Lama
 ### [The 14th Dalai Lama delivers the Opening Prayer at the US Senate on Capitol Hill in Washington, D.C. ](/news/2014/03/6/the-14th-dalai-lama-delivers-the-opening-prayer-at-the-us-senate-on-capitol-hill-in-washington-d-c.md)
-_Context: US Senate, Washington, D.C., 14th Dalai Lama_
+_Context: US Senate, 14th Dalai Lama, Washington, D.C._
 
 ## [Previous Day...](/news/2014/03/5/index.md)
 

@@ -21,7 +21,7 @@ _Context: government, Tunisia_
 
 #####  Georgian
 ### [Georgian Prime Minister Bidzina Ivanishvili, due to leave office this month, names Interior Minister Irakli Garibashvili as his successor. ](/news/2013/11/2/georgian-prime-minister-bidzina-ivanishvili-due-to-leave-office-this-month-names-interior-minister-irakli-garibashvili-as-his-successor.md)
-_Context:  Georgian, Bidzina Ivanishvili, Irakli Garibashvili_
+_Context: Irakli Garibashvili,  Georgian, Bidzina Ivanishvili_
 
 ## [Previous Day...](/news/2013/11/1/index.md)
 
