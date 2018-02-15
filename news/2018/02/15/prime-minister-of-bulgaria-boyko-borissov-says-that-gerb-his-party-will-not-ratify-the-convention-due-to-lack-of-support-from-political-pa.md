@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/15/prime-minister-of-bulgaria-boyko-borissov-says-
 ### [2018-02-15](/news/2018/02/15/index.md)
 
 ##### Prime Minister of Bulgaria
-# Prime Minister of Bulgaria Boyko Borissov says that GERB, his party, will not ratify the convention due to lack of support from political parties. The treaty was designed to combat domestic violence and violence against women but critics say its language is vague, it could encourage youth to identify as transgender or third sex and it could lead to same-sex marriage in Bulgaria. 
+# Prime Minister of Bulgaria Boyko Borissov says that GERB, his party, will not ratify the convention due to lack of support from political parties. The treaty was designed by the Council of Europe to combat domestic violence and violence against women but critics say its language is vague, it could encourage youth to identify as transgender or third sex and it could lead to same-sex marriage in Bulgaria. 
 
 Bulgarian Prime Minister Boyko Borissov said that the ruling GERB party is withdrawing a European treaty designed to combat violence against women from ratification in parliament over strong opposition expressed by religious and political groups.
 

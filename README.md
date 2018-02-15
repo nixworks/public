@@ -3,8 +3,12 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/02/15/index.md)
 
+##### War in Afghanistan
+### [The United Nations report that in 2017, more than 10,000 civilians were killed or wounded in the war. ](/news/2018/02/15/the-united-nations-report-that-in-2017-more-than-10-000-civilians-were-killed-or-wounded-in-the-war.md)
+The overall civilian toll fell by 9 percent compared to 2016, but the number of deaths from airstrikes saw a significant jump. A resurgent Taliban and &quot;Islamic State&quot; militants inflicted a bulk of the casualties.
+
 ##### Prime Minister of Bulgaria
-### [Prime Minister of Bulgaria Boyko Borissov says that GERB, his party, will not ratify the convention due to lack of support from political parties. The treaty was designed to combat domestic violence and violence against women but critics say its language is vague, it could encourage youth to identify as transgender or third sex and it could lead to same-sex marriage in Bulgaria. ](/news/2018/02/15/prime-minister-of-bulgaria-boyko-borissov-says-that-gerb-his-party-will-not-ratify-the-convention-due-to-lack-of-support-from-political-pa.md)
+### [Prime Minister of Bulgaria Boyko Borissov says that GERB, his party, will not ratify the convention due to lack of support from political parties. The treaty was designed by the Council of Europe to combat domestic violence and violence against women but critics say its language is vague, it could encourage youth to identify as transgender or third sex and it could lead to same-sex marriage in Bulgaria. ](/news/2018/02/15/prime-minister-of-bulgaria-boyko-borissov-says-that-gerb-his-party-will-not-ratify-the-convention-due-to-lack-of-support-from-political-pa.md)
 Bulgarian Prime Minister Boyko Borissov said that the ruling GERB party is withdrawing a European treaty designed to combat violence against women from ratification in parliament over strong opposition expressed by religious and political groups.
 
 ##### Opinion
@@ -17,7 +21,7 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ##### Douglas High School shooting
 ### [At least 17 people are killed and over 14 wounded in a school shooting in Parkland, Florida. The suspected shooter is apprehended and identified as a 19-year-old former student. ](/news/2018/02/14/at-least-17-people-are-killed-and-over-14-wounded-in-a-school-shooting-in-parkland-florida-the-suspected-shooter-is-apprehended-and-identi.md)
-_Context: school shooting, Parkland, Florida, Douglas High School shooting_
+_Context: school shooting, Douglas High School shooting, Florida, Parkland_
 
 ##### Economy of the European Union
 ### [Eurozone GDP rises by 2.5% in 2017, a pace not seen since 2007, and industrial production is up 5.2% year-on-year. The production of durable consumer goods is up 7.4% and capital goods, indicating investments, are up 7.6%. ](/news/2018/02/14/eurozone-gdp-rises-by-2-5-in-2017-a-pace-not-seen-since-2007-and-industrial-production-is-up-5-2-year-on-year-the-production-of-durable.md)
@@ -49,7 +53,7 @@ French police have found the remains of an eight-year-old French girl who vanish
 
 ##### Ukrainian crisis
 ### [Mikheil Saakashvili, leader of the opposition Movement of New Forces party, who was deported from Ukraine to Poland, relocates to the Netherlands. ](/news/2018/02/14/mikheil-saakashvili-leader-of-the-opposition-movement-of-new-forces-party-who-was-deported-from-ukraine-to-poland-relocates-to-the-nether.md)
-_Context: Mikheil Saakashvili, Ukraine, Ukrainian crisis, Poland, Movement of New Forces, Netherlands_
+_Context: Ukrainian crisis, Movement of New Forces, Mikheil Saakashvili, Ukraine, Netherlands, Poland_
 
 ##### Politics of South Africa
 ### [The President of South Africa, Jacob Zuma, resigns with immediate effect. Cyril Ramaphosa is now Acting President. ](/news/2018/02/14/the-president-of-south-africa-jacob-zuma-resigns-with-immediate-effect-cyril-ramaphosa-is-now-acting-president.md)
@@ -89,11 +93,11 @@ Jacob Zuma is refusing to resign so his party has decided to issue a formal dema
 
 ##### Politics of the Netherlands
 ### [Halbe Zijlstra offers his resignation as Minister of Foreign Affairs of the Netherlands. Minister Sigrid Kaag takes over the portfolio ad interim. ](/news/2018/02/13/halbe-zijlstra-offers-his-resignation-as-minister-of-foreign-affairs-of-the-netherlands-minister-sigrid-kaag-takes-over-the-portfolio-ad-in.md)
-_Context: ad interim, Minister, Halbe Zijlstra, Politics of the Netherlands, Minister of Foreign Affairs of the Netherlands, Sigrid Kaag_
+_Context: Halbe Zijlstra, Minister, Minister of Foreign Affairs of the Netherlands, ad interim, Politics of the Netherlands, Sigrid Kaag_
 
 ##### Politics of Germany
 ### [Martin Schulz resigns as leader of the Social Democratic Party of Germany (SPD) with immediate effect. The mayor of Hamburg Olaf Scholz will serve as interim leader until a new leader is elected. ](/news/2018/02/13/martin-schulz-resigns-as-leader-of-the-social-democratic-party-of-germany-spd-with-immediate-effect-the-mayor-of-hamburg-olaf-scholz-will.md)
-_Context: Martin Schulz, Olaf Scholz, Politics of Germany, Social Democratic Party of Germany, Hamburg, mayor_
+_Context: Social Democratic Party of Germany, Martin Schulz, mayor, Politics of Germany, Hamburg, Olaf Scholz_
 
 ##### Russian interference in the 2016 United States elections
 ### [Russia wants YouTube and Instagram to remove videos posted by Alexey Navalny, a prominent opposition figure, describing his investigation into Oleg Deripaska, a Russian billionaire with bribing Sergey Prikhodko, Russia's deputy prime minister, and offering information about the 2016 U.S. election he had received from Paul Manafort. ](/news/2018/02/13/russia-wants-youtube-and-instagram-to-remove-videos-posted-by-alexey-navalny-a-prominent-opposition-figure-describing-his-investigation-in.md)
@@ -101,7 +105,7 @@ Russia has threatened to block access to YouTube and Instagram if the sites do n
 
 ##### Supersonic transport
 ### [A new plane that would fly from London to New York City in three hours has just received crucial funding. The aircraft, officially named Quiet Supersonic Transport (QueSST) and dubbed the "Son of Concorde", was proposed by NASA and has just been given the go-ahead by US officials. QueSST could make its maiden voyage in 2021 if all goes according to plan. If so, it will halve the current travel time between London and New York City. ](/news/2018/02/13/a-new-plane-that-would-fly-from-london-to-new-york-city-in-three-hours-has-just-received-crucial-funding-the-aircraft-officially-named-qui.md)
-_Context: Supersonic transport, NASA, Quiet Supersonic Transport, Concorde, New York City, London_
+_Context: Supersonic transport, London, Concorde, New York City, Quiet Supersonic Transport, NASA_
 
 ---
 
