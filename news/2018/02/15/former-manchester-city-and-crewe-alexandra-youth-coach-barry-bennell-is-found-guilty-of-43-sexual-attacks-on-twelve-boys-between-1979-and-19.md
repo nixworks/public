@@ -11,7 +11,7 @@ Ex-footballers speak after the former youth coach and scout is convicted of 43 s
 
 ### Sources:
 
-1. [BBC News](http://www.bbc.co.uk/news/uk-43069415)
+1. [BBC](http://www.bbc.co.uk/news/uk-43069415)
 1. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p05y964s.jpg)
 
 ### Related:

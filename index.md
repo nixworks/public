@@ -1,27 +1,51 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2018/02/15/index.md)
+## [News](/news/2018/02/16/index.md)
+
+##### Russian interference in the 2016 United States elections
+### [U.S.President Donald Trump's former chief strategist, Steve Bannon, is interviewed as part of the investigation into alleged Russian meddling in the 2016 election. ](/news/2018/02/16/u-s-president-donald-trump-s-former-chief-strategist-steve-bannon-is-interviewed-as-part-of-the-investigation-into-alleged-russian-meddlin.md)
+Steve Bannon, a former top adviser to Donald Trump, reportedly spent 20 hours with investigators.
+
+##### Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2018/02/15/index.md)
 
 ##### War in Afghanistan
 ### [The United Nations report that in 2017, more than 10,000 Afghan civilians were killed or wounded in the war. ](/news/2018/02/15/the-united-nations-report-that-in-2017-more-than-10-000-afghan-civilians-were-killed-or-wounded-in-the-war.md)
 The overall civilian toll fell by 9 percent compared to 2016, but the number of deaths from airstrikes saw a significant jump. A resurgent Taliban and &quot;Islamic State&quot; militants inflicted a bulk of the casualties.
 
 ##### Syrian Civil War
-### [An arms depot explosion in Tabiyet Jazira, Deir ez-Zor, kills at least 23 people, including over a dozen Russian contractors, allegedly belonging to the Wagner Group, according to the Syrian Observatory for Human Rights (SOHR). ](/news/2018/02/15/an-arms-depot-explosion-in-tabiyet-jazira-deir-ez-zor-kills-at-least-23-people-including-over-a-dozen-russian-contractors-allegedly-belo.md)
+### [An arms depot explosion in Tabiyet Jazira, Deir ez-Zor, kills at least 23 people, including over a dozen Russian contractors allegedly belonging to the Wagner Group, according to the Syrian Observatory for Human Rights. ](/news/2018/02/15/an-arms-depot-explosion-in-tabiyet-jazira-deir-ez-zor-kills-at-least-23-people-including-over-a-dozen-russian-contractors-allegedly-belon.md)
 The incident at a weapons depot follows the reported deaths of scores of Russian mercenaries in a US-led coalition attack last week
+
+##### U.S. Securities and Exchange Commission
+### [The U.S. Securities and Exchange Commission blocks a Chinese-led group of investors from buying the Chicago Stock Exchange. ](/news/2018/02/15/the-u-s-securities-and-exchange-commission-blocks-a-chinese-led-group-of-investors-from-buying-the-chicago-stock-exchange.md)
+The top U.S. market regulator said it was concerned about whether the deal would allow it to supervise the exchange properly.
 
 ##### 2017 cyberattacks on Ukraine
 ### [The United Kingdom government and the United States White House accuse the Russian military of being responsible for the launch of the "NotPetya" malware in June 2017. The White House calls it the most destructive and costly cyberattack in history and says Russia will be met with unspecified "international consequences". Russia denies responsibility and dismisses the accusation as "groundless", lacking evidence, and "Russophobic". ](/news/2018/02/15/the-united-kingdom-government-and-the-united-states-white-house-accuse-the-russian-military-of-being-responsible-for-the-launch-of-the-notp.md)
-_Context: White House, Russian military, United States, NotPetya, government, 2017 cyberattacks on Ukraine, United Kingdom_
+_Context: 2017 cyberattacks on Ukraine, government, NotPetya, Russian military, United Kingdom, White House, United States_
+
+##### United Kingdom football sexual abuse scandal
+### [Former Manchester City and Crewe Alexandra youth coach Barry Bennell is found guilty of 43 sexual attacks on twelve boys between 1979 and 1990. ](/news/2018/02/15/former-manchester-city-and-crewe-alexandra-youth-coach-barry-bennell-is-found-guilty-of-43-sexual-attacks-on-twelve-boys-between-1979-and-19.md)
+Ex-footballers speak after the former youth coach and scout is convicted of 43 sex assaults on 11 boys.
 
 ##### Mexican general election, 2018
-### [Maria de Jesus Patricio Martinez "Marichuy", the National Indigenous Congress's independent pre-candidate for President of Mexico, is involved in a road accident while campaigning in Baja California Sur. Marichuy is reported as injured while a passenger of the vehicle is dead. ](/news/2018/02/15/maraa-de-jesaos-patricio-martanez-marichuy-the-national-indigenous-congress-s-independent-pre-candidate-for-president-of-mexico-is-inv.md)
+### [Maria de Jesus "Marichuy" Patricio Martinez, the National Indigenous Congress's independent pre-candidate for President of Mexico, is involved in a road accident while campaigning in Baja California Sur. Marichuy is reported as injured while a passenger of the vehicle is dead. ](/news/2018/02/15/maraa-de-jesaos-marichuy-patricio-martanez-the-national-indigenous-congress-s-independent-pre-candidate-for-president-of-mexico-is-inv.md)
 The first indigenous woman to run for the Mexican presidency was injured and at least one other person killed when a van in which she was traveling was involved in an accident in western Baja California state on Wednesday, campaign social media said.
 
 ##### Convention on preventing and combating violence against women and domestic violence
 ### [Prime Minister of Bulgaria Boyko Borissov says that GERB, his party, will not ratify the convention due to lack of support from political parties. The treaty was designed by the Council of Europe to combat domestic violence and violence against women but critics say its language is vague, it could encourage youth to identify as transgender or third gender and it could lead to same-sex marriage in Bulgaria. ](/news/2018/02/15/prime-minister-of-bulgaria-boyko-borissov-says-that-gerb-his-party-will-not-ratify-the-convention-due-to-lack-of-support-from-political-pa.md)
 Bulgarian Prime Minister Boyko Borissov said that the ruling GERB party is withdrawing a European treaty designed to combat violence against women from ratification in parliament over strong opposition expressed by religious and political groups.
+
+##### Criminal justice reform in the United States
+### [The U.S. Senate Judiciary Committee backed the Sentencing Reform and Corrections Act, a package to reduce some of the strictest federal sentencing rules along with reforms for the federal prison system, by a vote of 16&ndash;5. ](/news/2018/02/15/the-u-s-senate-judiciary-committee-backed-the-sentencing-reform-and-corrections-act-a-package-to-reduce-some-of-the-strictest-federal-sent.md)
+_Context: Sentencing Reform and Corrections Act, U.S. Senate Judiciary Committee, Criminal justice reform in the United States_
 
 ##### Politics of Ethiopia
 ### [Hailemariam Desalegn resigns as Prime Minister of Ethiopia after six years in office amid ongoing unrest in the Oromia and Amhara regions. ](/news/2018/02/15/hailemariam-desalegn-resigns-as-prime-minister-of-ethiopia-after-six-years-in-office-amid-ongoing-unrest-in-the-oromia-and-amhara-regions.md)
@@ -32,28 +56,24 @@ Hailemariam Desalegn said he was stepping down in a bid to end unrest and a poli
 Cyril Ramaphosa was elected as South Africa&#039;s new president after the resignation of Jacob Zuma, whose scandals brought the storied African National Congress to its weakest point since taking power at the end of apartheid.
 
 ##### Discoveries of exoplanets
-### [ 100 exoplanets have been discovered outside the solar system. ](/news/2018/02/15/100-exoplanets-have-been-discovered-outside-the-solar-system.md)
-_Context: Discoveries of exoplanets_
-
-##### Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+### [NASA's Kepler space telescope discovers 95 new exoplanets. ](/news/2018/02/15/nasa-s-kepler-space-telescope-discovers-95-new-exoplanets.md)
+_Context: NASA, exoplanet, Kepler, Discoveries of exoplanets, space telescope_
 
 ---
 
-## [Yesterday](/news/2018/02/14/index.md)
-
-##### Douglas High School shooting
-### [At least 17 people are killed and over 14 wounded in a school shooting in Parkland, Florida--the deadliest high school shooting in U.S. history. The suspected shooter is apprehended and identified as 19-year-old former student Nikolas Cruz. ](/news/2018/02/14/at-least-17-people-are-killed-and-over-14-wounded-in-a-school-shooting-in-parkland-floridaathe-deadliest-high-school-shooting-in-u-s-his.md)
-_Context: Parkland, school shooting, deadliest high school shooting in U.S. history, Douglas High School shooting, Florida_
+## [Day Before Yesterday](/news/2018/02/14/index.md)
 
 ##### Economy of the European Union
 ### [Eurozone GDP rises by 2.5% in 2017, a pace not seen since 2007, and industrial production is up 5.2% year-on-year. The production of durable consumer goods is up 7.4% and capital goods, indicating investments, are up 7.6%. ](/news/2018/02/14/eurozone-gdp-rises-by-2-5-in-2017-a-pace-not-seen-since-2007-and-industrial-production-is-up-5-2-year-on-year-the-production-of-durable.md)
 BRUSSELS: Eurozone industrial production jumped more than expected in December, data from the EU statistics office Eurostat showed on Wednesday, underlining the fastest economic growth rate in a decade that economists expect to continue in 2018. Eurostat said industrial production in the 19 countrie...
 
 ##### United States
-### [A car accident at the headquarters of the United States National Security Agency at Fort Meade, Maryland, injures three people. Police officers shoot at the driver, who they say was attempting to attack the building. ](/news/2018/02/14/a-car-accident-at-the-headquarters-of-the-united-states-national-security-agency-at-fort-meade-maryland-injures-three-people-police-offic.md)
+### [A car crash at the headquarters of the United States National Security Agency at Fort Meade, Maryland, injures three people. Police officers shoot at the driver, who they say was attempting to attack the building. ](/news/2018/02/14/a-car-crash-at-the-headquarters-of-the-united-states-national-security-agency-at-fort-meade-maryland-injures-three-people-police-officers.md)
 NSA said situation is &quot;under control&quot;
+
+##### Stoneman Douglas High School shooting
+### [At least 17 people are killed and 15 are wounded in a shooting at a high school in Parkland, Florida. This is the deadliest high school shooting in U.S. history. The suspected shooter is apprehended and identified as 19-year-old former student Nikolas Cruz. ](/news/2018/02/14/at-least-17-people-are-killed-and-15-are-wounded-in-a-shooting-at-a-high-school-in-parkland-florida-this-is-the-deadliest-high-school-shoo.md)
+_Context: Parkland, high school, Stoneman Douglas High School shooting, School shootings in the United States, deadliest high school shooting in U.S. history, Florida, shooting_
 
 ##### Crime in South Africa
 ### [The residence of the Gupta family is raided by the South African Police Service's elite Hawks unit and three people are arrested. ](/news/2018/02/14/the-residence-of-the-gupta-family-is-raided-by-the-south-african-police-service-s-elite-hawks-unit-and-three-people-are-arrested.md)
@@ -77,7 +97,7 @@ French police have found the remains of an eight-year-old French girl who vanish
 
 ##### Ukrainian crisis
 ### [Mikheil Saakashvili, leader of the opposition Movement of New Forces party, who was deported from Ukraine to Poland, relocates to the Netherlands. ](/news/2018/02/14/mikheil-saakashvili-leader-of-the-opposition-movement-of-new-forces-party-who-was-deported-from-ukraine-to-poland-relocates-to-the-nether.md)
-_Context: Movement of New Forces, Ukraine, Ukrainian crisis, Poland, Netherlands, Mikheil Saakashvili_
+_Context: Ukraine, Poland, Netherlands, Ukrainian crisis, Mikheil Saakashvili, Movement of New Forces_
 
 ##### Politics of South Africa
 ### [Jacob Zuma resigns as President of South Africa effective immediately, following an ultimatum issued the day prior by African National Congress that ordered Zuma to step down as head of state or face a vote of no confidence by the South African Parliament to remove him from power within 48 hours of the declaration. Cyril Ramaphosa takes over as Acting President. ](/news/2018/02/14/jacob-zuma-resigns-as-president-of-south-africa-effective-immediately-following-an-ultimatum-issued-the-day-prior-by-african-national-congr.md)
@@ -89,51 +109,7 @@ Zimbabwe opposition leader Morgan Tsvangirai dies aged 65 after protracted battl
 
 ---
 
-## [Day Before Yesterday](/news/2018/02/13/index.md)
-
-##### United Airlines Flight 1175
-### [United Airlines Flight 1175 traveling to Honolulu from San Francisco lands safely at Honolulu International Airport, Hawaii, after the pilots call for an emergency landing because of a loss of the engine cowling. ](/news/2018/02/13/united-airlines-flight-1175-traveling-to-honolulu-from-san-francisco-lands-safely-at-honolulu-international-airport-hawaii-after-the-pilot.md)
-Passengers on a United Airlines flight Tuesday had quite the scare when pilots called for an emergency landing after an engine cowlingor the cover of the engineflew off mid-flight.According to airline officials, United flight 1175 was traveling to Honolulu
-
-##### Israeli-Palestinian conflict
-### [In closed-door proceedings at an Israeli military court in Ofer Prison, near Ramallah, 17-year-old Palestinian activist Ahed Tamimi is indicted on 12 counts of assault and incitement. She is ordered held until the end of the trial, which is adjourned until next month. ](/news/2018/02/13/in-closed-door-proceedings-at-an-israeli-military-court-in-ofer-prison-near-ramallah-17-year-old-palestinian-activist-ahed-tamimi-is-indic.md)
-A Palestinian teenage girl filmed slapping an Israeli soldier and hailed as a hero by Palestinians, has gone on trial Wednesday in an Israeli military court in the West Bank.
-
-##### United Kingdom football sexual abuse scandal
-### [Former association football coach Barry Bennell is convicted of 36 counts of indecent assault against youth footballers in the 1980s and 1990s, following a trial at Liverpool Crown Court. ](/news/2018/02/13/former-association-football-coach-barry-bennell-is-convicted-of-36-counts-of-indecent-assault-against-youth-footballers-in-the-1980s-and-199.md)
-Former football coach Barry Bennell is found guilty dozens of sex offences against boys in the 1980s.
-
-##### Corruption in Israel
-### [Israeli police recommend indicting Israeli Prime Minister Benjamin Netanyahu with charges of corruption and bribery. Netanyahu calls the accusations "baseless". ](/news/2018/02/13/israeli-police-recommend-indicting-israeli-prime-minister-benjamin-netanyahu-with-charges-of-corruption-and-bribery-netanyahu-calls-the-acc.md)
-The legal action comes two months after Israeli media first reported that Netanyahu had been grilled by police investigators for more than three hours.
-
-##### Corruption in Guatemala
-### [Former President Alvaro Colom and his entire government cabinet were arrested for their alleged participation in a new corruption case investigated by CICIG and the MP. They were sent to preventive detention at the Mariscal Zavala Military Center. ](/news/2018/02/13/former-president-alvaro-colom-and-his-entire-government-cabinet-were-arrested-for-their-alleged-participation-in-a-new-corruption-case-inves.md)
-Alvaro Colom and most of his former cabinet have been arrested over major deals to overhaul the capital&#39;s public transport. Colom is one of three Guatemalan leaders currently facing graft allegations.
-
-##### Politics of South Africa
-### [South Africa's ruling ANC party formally requests that President Jacob Zuma step down after he refused to resign. ](/news/2018/02/13/south-africa-s-ruling-anc-party-formally-requests-that-president-jacob-zuma-step-down-after-he-refused-to-resign.md)
-Jacob Zuma is refusing to resign so his party has decided to issue a formal demand, reports say.
-
-##### Politics of the Netherlands
-### [Halbe Zijlstra offers his resignation as Minister of Foreign Affairs of the Netherlands. Minister Sigrid Kaag takes over the portfolio ad interim. ](/news/2018/02/13/halbe-zijlstra-offers-his-resignation-as-minister-of-foreign-affairs-of-the-netherlands-minister-sigrid-kaag-takes-over-the-portfolio-ad-in.md)
-_Context: ad interim, Halbe Zijlstra, Minister of Foreign Affairs of the Netherlands, Minister, Politics of the Netherlands, Sigrid Kaag_
-
-##### Politics of Germany
-### [Martin Schulz resigns as leader of the Social Democratic Party of Germany (SPD) with immediate effect. The mayor of Hamburg Olaf Scholz will serve as interim leader until a new leader is elected. ](/news/2018/02/13/martin-schulz-resigns-as-leader-of-the-social-democratic-party-of-germany-spd-with-immediate-effect-the-mayor-of-hamburg-olaf-scholz-will.md)
-_Context: Olaf Scholz, Martin Schulz, mayor, Hamburg, Social Democratic Party of Germany, Politics of Germany_
-
-##### Russian interference in the 2016 United States elections
-### [Russia wants YouTube and Instagram to remove videos posted by Alexey Navalny, a prominent opposition figure, describing his investigation into Oleg Deripaska, a Russian billionaire with bribing Sergey Prikhodko, Russia's deputy prime minister, and offering information about the 2016 U.S. election he had received from Paul Manafort. ](/news/2018/02/13/russia-wants-youtube-and-instagram-to-remove-videos-posted-by-alexey-navalny-a-prominent-opposition-figure-describing-his-investigation-in.md)
-Russia has threatened to block access to YouTube and Instagram if the sites do not remove video and photographs of a senior government official.
-
-##### Supersonic transport
-### [A new plane that would fly from London to New York City in three hours has just received crucial funding. The aircraft, officially named Quiet Supersonic Transport (QueSST) and dubbed the "Son of Concorde", was proposed by NASA and has just been given the go-ahead by US officials. QueSST could make its maiden voyage in 2021 if all goes according to plan. If so, it will halve the current travel time between London and New York City. ](/news/2018/02/13/a-new-plane-that-would-fly-from-london-to-new-york-city-in-three-hours-has-just-received-crucial-funding-the-aircraft-officially-named-qui.md)
-_Context: Concorde, Quiet Supersonic Transport, London, NASA, New York City, Supersonic transport_
-
----
-
-## [Previous Day...](/news/2018/02/12/index.md)
+## [Previous Day...](/news/2018/02/13/index.md)
 
 ---
 
