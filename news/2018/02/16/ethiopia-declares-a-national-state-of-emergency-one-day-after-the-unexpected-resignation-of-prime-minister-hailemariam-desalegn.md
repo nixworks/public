@@ -1,0 +1,23 @@
+
+Formats: [HTML](/news/2018/02/16/ethiopia-declares-a-national-state-of-emergency-one-day-after-the-unexpected-resignation-of-prime-minister-hailemariam-desalegn.html)  [JSON](/news/2018/02/16/ethiopia-declares-a-national-state-of-emergency-one-day-after-the-unexpected-resignation-of-prime-minister-hailemariam-desalegn.json)  [XML](/news/2018/02/16/ethiopia-declares-a-national-state-of-emergency-one-day-after-the-unexpected-resignation-of-prime-minister-hailemariam-desalegn.xml)  
+
+### [2018-02-16](/news/2018/02/16/index.md)
+
+##### Ethiopia
+# Ethiopia declares a national state of emergency one day after the unexpected resignation of Prime Minister Hailemariam Desalegn. 
+
+The move is aimed at stemming a wave of anti-government protests, state media reports.
+
+
+### Sources:
+
+1. [BBC](http://www.bbc.com/news/world-africa-43091248)
+1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/branded_news/241E/production/_100064290_hi044787352.jpg)
+
+### Related:
+
+1. [Ethiopian Prime Minister Hailemariam Desalegn announces that Ethiopia will drop charges against all political prisoners and close down the infamous prison camp of Maekelawi. ](/news/2018/01/3/ethiopian-prime-minister-hailemariam-desalegn-announces-that-ethiopia-will-drop-charges-against-all-political-prisoners-and-close-down-the-i.md) _Context: Ethiopia, Hailemariam Desalegn, Prime Minister_
+2. [Hailemariam Desalegn resigns as Prime Minister of Ethiopia after six years in office amid ongoing unrest in the Oromia and Amhara regions. ](/news/2018/02/15/hailemariam-desalegn-resigns-as-prime-minister-of-ethiopia-after-six-years-in-office-amid-ongoing-unrest-in-the-oromia-and-amhara-regions.md) _Context: Hailemariam Desalegn, Prime Minister_
+3. [Meles Zenawi, the long-term Prime Minister of Ethiopia, dies of a mystery illness after not having been seen in public for weeks. ](/news/2012/08/20/meles-zenawi-the-long-term-prime-minister-of-ethiopia-dies-of-a-mystery-illness-after-not-having-been-seen-in-public-for-weeks.md) _Context: Ethiopia, Prime Minister_
+4. [Seven people die in clashes between security forces and worshippers taking part in an Ethiopian Orthodox religious ceremony marking Timkat (Epiphany) in Woldiya, Amhara, Ethiopia, over the weekend. ](/news/2018/01/22/seven-people-die-in-clashes-between-security-forces-and-worshippers-taking-part-in-an-ethiopian-orthodox-religious-ceremony-marking-timkat.md) _Context: Ethiopia_
+5. [USAID announces the Trump administration dedicated $169 million to feed people facing starvation in Ethiopia and Kenya, adding to earlier assistance for those suffering from drought and conflict in the region. ](/news/2017/08/3/usaid-announces-the-trump-administration-dedicated-169-million-to-feed-people-facing-starvation-in-ethiopia-and-kenya-adding-to-earlier-as.md) _Context: Ethiopia_
