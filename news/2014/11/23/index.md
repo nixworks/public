@@ -13,7 +13,7 @@ _Context: Boko Haram, Chad_
 
 ##### War in Somalia (2009-present)
 ### [Kenyan security forces cross into Somalia and kill 100 members of Al-Shabaab in response to the terrorist group hijacking a bus and killing 28 people. ](/news/2014/11/23/kenyan-security-forces-cross-into-somalia-and-kill-100-members-of-al-shabaab-in-response-to-the-terrorist-group-hijacking-a-bus-and-killing.md)
-_Context: Somalia, War in Somalia (2009-present), Kenyan army forces, al-Shabab_
+_Context: War in Somalia (2009-present), al-Shabab, Kenyan army forces, Somalia_
 
 ##### China
 ### [The death toll from yesterday's earthquake in China's Sichuan province rises to four with 54 injured. ](/news/2014/11/23/the-death-toll-from-yesterday-s-earthquake-in-china-s-sichuan-province-rises-to-four-with-54-injured.md)
@@ -21,7 +21,7 @@ A strong earthquake that hit a sparsely populated, mountainous area of western C
 
 ##### Volcano eruption
 ### [Volcano eruption on Fogo island, Cape Verde is among the strongest ever recorded on the island and is forcing the evacuation of the ChGBP das Caldeiras village. ](/news/2014/11/23/volcano-eruption-on-fogo-island-cape-verde-is-among-the-strongest-ever-recorded-on-the-island-and-is-forcing-the-evacuation-of-the-chagbp-d.md)
-_Context: ChGBP das Caldeiras, Volcano eruption, Cape Verde, Fogo island_
+_Context: Cape Verde, Fogo island, ChGBP das Caldeiras, Volcano eruption_
 
 ##### Crime in the Philippines
 ### [The Philippines marks the 5th anniversary of the Maguindanao massacre. ](/news/2014/11/23/the-philippines-marks-the-5th-anniversary-of-the-maguindanao-massacre.md)
@@ -29,11 +29,11 @@ The Philippines marks the fifth anniversary of its worst political massacre, as 
 
 ##### Tunisia's presidential election
 ### [Voters in Tunisia go to the polls Sunday in the first free presidential election since the Arab Spring's Jasmine Revolution. ](/news/2014/11/23/voters-in-tunisia-go-to-the-polls-sunday-in-the-first-free-presidential-election-since-the-arab-spring-s-jasmine-revolution.md)
-_Context: Arab Spring, Tunisia, Jasmine Revolution of 2011, Tunisia's presidential election_
+_Context: Tunisia's presidential election, Jasmine Revolution of 2011, Arab Spring, Tunisia_
 
 ##### Israel
 ### [The Cabinet of Israel approves legislation defining it as the nation state of the Jewish people. ](/news/2014/11/23/the-cabinet-of-israel-approves-legislation-defining-it-as-the-nation-state-of-the-jewish-people.md)
-_Context: Jews, Israel_
+_Context: Israel, Jews_
 
 ## [Previous Day...](/news/2014/11/22/index.md)
 

@@ -13,7 +13,7 @@ Death of nine officers in Rohingya-dominated area in Rakhine state sets off mili
 
 ##### Poles
 ### [Polish film director and recipient of an Academy Honorary Award Andrzej Wajda dies at the age of 90. ](/news/2016/10/10/polish-film-director-and-recipient-of-an-academy-honorary-award-andrzej-wajda-dies-at-the-age-of-90.md)
-_Context: Academy Honorary Award, Poles, Andrzej Wajda_
+_Context: Andrzej Wajda, Poles, Academy Honorary Award_
 
 ##### United Kingdom
 ### [British-born American Oliver Hart and Finnish Bengt Holmstrom win the Nobel Prize in Economics for their work on the science of contracts. ](/news/2016/10/10/british-born-american-oliver-hart-and-finnish-bengt-holmstrapm-win-the-nobel-prize-in-economics-for-their-work-on-the-science-of-contracts.md)
@@ -21,7 +21,7 @@ UK-born Oliver Hart and Bengt Holmstrom of Finland have won the Nobel Economics 
 
 ##### Samsung
 ### [Samsung recalls and suspends production of its reformulated-version of Galaxy Note 7 smartphone due to the same persistent problem with battery fires and explosions. ](/news/2016/10/10/samsung-recalls-and-suspends-production-of-its-reformulated-version-of-galaxy-note-7-smartphone-due-to-the-same-persistent-problem-with-batt.md)
-_Context: Galaxy Note 7, Samsung_
+_Context: Samsung, Galaxy Note 7_
 
 ##### 2016 Atlantic hurricane season
 ### [The death toll in the United States from Hurricane Matthew rises to 27 with at least five people still missing in North Carolina. Governor Pat McCrory warns that the state's swollen rivers are still rising with flooding continuing to pose threats to life and property this week. The storm, downgraded to a post-tropical cyclone yesterday, moves away from the U.S. coastline on an east-northeast track. ](/news/2016/10/10/the-death-toll-in-the-united-states-from-hurricane-matthew-rises-to-27-with-at-least-five-people-still-missing-in-north-carolina-governor-p.md)

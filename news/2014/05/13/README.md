@@ -5,7 +5,7 @@ Formats: [HTML](2014/05/13/index.html)  [JSON](2014/05/13/index.json)  [XML](201
 
 ##### Valery Bolotov
 ### [Valery Bolotov, a leader of the separatist movement in the eastern city of Luhansk, is wounded in an assassination attempt by an unknown assailant. ](/news/2014/05/13/valery-bolotov-a-leader-of-the-separatist-movement-in-the-eastern-city-of-luhansk-is-wounded-in-an-assassination-attempt-by-an-unknown-ass.md)
-_Context: Valery Bolotov, Eastern Ukraine, Luhansk_
+_Context: Valery Bolotov, Luhansk, Eastern Ukraine_
 
 ##### France
 ### [The body of 26-year-old French photojournalist Camille Lepage was found in the Bouar region. The French presidency released a statement saying she was "murdered" and announced that a team of investigators will be dispatched to the scene. ](/news/2014/05/13/the-body-of-26-year-old-french-photojournalist-camille-lepage-was-found-in-the-bouar-region-the-french-presidency-released-a-statement-sayi.md)
@@ -17,7 +17,7 @@ Villagers in northern Nigeria say they have repelled an attack by suspected mili
 
 ##### Christopher Columbus
 ### [Investigators claim to have found the wreck of Christopher Columbus's flagship, the "Santa Maria", off the north coast of Haiti. ](/news/2014/05/13/investigators-claim-to-have-found-the-wreck-of-christopher-columbus-s-flagship-the-santa-maria-off-the-north-coast-of-haiti.md)
-_Context: Haiti, Christopher Columbus, Santa Maria, flagship_
+_Context: Christopher Columbus, Santa Maria, Haiti, flagship_
 
 ##### Soma mine disaster
 ### [At least 238 miners are killed and 120 others trapped in a coal mine in the town of Soma in Turkey's Manisa Province. ](/news/2014/05/13/at-least-238-miners-are-killed-and-120-others-trapped-in-a-coal-mine-in-the-town-of-soma-in-turkey-s-manisa-province.md)

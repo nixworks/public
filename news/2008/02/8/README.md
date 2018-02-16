@@ -9,11 +9,11 @@ _Context: Serbia, February 17, Albanians, Kosovo_
 
 ##### Magnitude
 ### [ A 5.4 M w earthquake southeast of Mexicali, Mexico causes 400,000 people to lose power. ](/news/2008/02/8/a-5-4-m-w-earthquake-southeast-of-mexicali-mexico-causes-400-000-people-to-lose-power.md)
-_Context: earthquake, Mexican, Mexicali, magnitude_
+_Context: Mexican, Mexicali, magnitude, earthquake_
 
 ##### Nebraska
 ### [ The Nebraska Supreme Court rules the electric chair unconstitutional. ](/news/2008/02/8/the-nebraska-supreme-court-rules-the-electric-chair-unconstitutional.md)
-_Context: Supreme Court, electric chair, Nebraska, United States Constitution_
+_Context: United States Constitution, Nebraska, Supreme Court, electric chair_
 
 ##### Hamas
 ### [ Hamas militants launch nearly 20 rockets at nearby Israeli towns. ](/news/2008/02/8/hamas-militants-launch-nearly-20-rockets-at-nearby-israeli-towns.md)
@@ -29,15 +29,15 @@ _Context: Louisiana Technical College, Baton Rouge, Louisiana_
 
 ##### Scotland Yard
 ### [ Scotland Yard detectives investigating the death of former Prime Minister of Pakistan Benazir Bhutto say that she died from the effect of a bomb blast not gunfire. ](/news/2008/02/8/scotland-yard-detectives-investigating-the-death-of-former-prime-minister-of-pakistan-benazir-bhutto-say-that-she-died-from-the-effect-of-a.md)
-_Context: Prime Minister, Benazir Bhutto, detective, Scotland Yard, suicide attack_
+_Context: Scotland Yard, Prime Minister, suicide attack, Benazir Bhutto, detective_
 
 ##### Eagle Airways Flight 2279
 ### [ A woman attacks two pilots on Eagle Airways Flight 2279 from Blenheim to Christchurch, New Zealand. The aircraft lands safely at Christchurch and the suspect is arrested and charged with hijacking and three counts of assault. ](/news/2008/02/8/a-woman-attacks-two-pilots-on-eagle-airways-flight-2279-from-blenheim-to-christchurch-new-zealand-the-aircraft-lands-safely-at-christchur.md)
-_Context: Blenheim, New Zealand, Eagle Airways Flight 2279, Christchurch_
+_Context: New Zealand, Blenheim, Eagle Airways Flight 2279, Christchurch_
 
 ##### Gurgaon kidney scandal
 ### [ The man accused of the Gurgaon kidney scandal is arrested in Nepal. ](/news/2008/02/8/the-man-accused-of-the-gurgaon-kidney-scandal-is-arrested-in-nepal.md)
-_Context: Nepal, Gurgaon kidney scandal_
+_Context: Gurgaon kidney scandal, Nepal_
 
 ## [Previous Day...](/news/2008/02/7/index.md)
 

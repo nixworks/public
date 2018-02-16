@@ -5,7 +5,7 @@ Formats: [HTML](2015/07/27/index.html)  [JSON](2015/07/27/index.json)  [XML](201
 
 ##### Gunmen attack
 ### [At least 7 people are killed and many injured after gunmen attack an Indian police station in Punjab. ](/news/2015/07/27/at-least-7-people-are-killed-and-many-injured-after-gunmen-attack-an-indian-police-station-in-punjab.md)
-_Context: Indian police, gunmen attack, Punjab_
+_Context: Punjab, gunmen attack, Indian police_
 
 ##### Syrian Civil War
 ### [ YPG led forces capture the strategic town Sarrin from ISIL after a month-long offensive. ](/news/2015/07/27/ypg-led-forces-capture-the-strategic-town-sarrin-from-isil-after-a-month-long-offensive.md)
@@ -21,11 +21,11 @@ The Istanbul Police Department has issued of bomb attack warnings on crowded pla
 
 ##### Philippines
 ### [Philippines President Benigno Aquino III holds his final State of the Nation Address before stepping down in 2016. He advocates the passage of the Bangsamoro Basic Law and an anti-dynasty bill. ](/news/2015/07/27/philippines-president-benigno-aquino-iii-holds-his-final-state-of-the-nation-address-before-stepping-down-in-2016-he-advocates-the-passage.md)
-_Context: Bangsamoro Basic Law, State of the Nation Address, Philippine presidential election, 2016, anti-dynasty bill, Philippines, his predecessor_
+_Context: anti-dynasty bill, his predecessor, Bangsamoro Basic Law, Philippine presidential election, 2016, Philippines, State of the Nation Address_
 
 ##### France
 ### [French farmers protesting low prices within the country turn back hundreds of trucks suspected of carrying foreign agricultural products at the country's border with Germany. ](/news/2015/07/27/french-farmers-protesting-low-prices-within-the-country-turn-back-hundreds-of-trucks-suspected-of-carrying-foreign-agricultural-products-at.md)
-_Context: German, France, farmers_
+_Context: farmers, France, German_
 
 ## [Previous Day...](/news/2015/07/26/index.md)
 

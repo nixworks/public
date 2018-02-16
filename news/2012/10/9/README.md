@@ -9,7 +9,7 @@ Syrian rebels carry out a bomb attack on an intelligence agency complex in Damas
 
 ##### Islamist
 ### [Suspected Islamist insurgents kill 11 people in southern Thailand. ](/news/2012/10/9/suspected-islamist-insurgents-kill-11-people-in-southern-thailand.md)
-_Context: Thailand, Islamist_
+_Context: Islamist, Thailand_
 
 ##### Mexican Drug War
 ### [Mexican Drug War: The Mexican Navy confirms that Heriberto Lazcano Lazcano, the top leader of the criminal organization Los Zetas, was killed in a shootout yesterday. The body is stolen by armed gunmen. ](/news/2012/10/9/mexican-drug-war-the-mexican-navy-confirms-that-heriberto-lazcano-lazcano-the-top-leader-of-the-criminal-organization-los-zetas-was-kille.md)
@@ -17,7 +17,7 @@ The death of Heriberto Lazcano, known as El Lazca and the main leader of the Zet
 
 ##### Malala Yousafzai
 ### [Malala Yousafzai, a 15-year-old activist for women's education rights, is shot by Taliban gunmen in the Swat Valley. ](/news/2012/10/9/malala-yousafzai-a-15-year-old-activist-for-women-s-education-rights-is-shot-by-taliban-gunmen-in-the-swat-valley.md)
-_Context: education, Women's rights, Taliban, Swat Valley, Malala Yousafzai, women_
+_Context: women, Women's rights, Swat Valley, education, Malala Yousafzai, Taliban_
 
 ##### Athens
 ### [An estimated 25,000 protest in Athens as German Chancellor Angela Merkel visits Greece. ](/news/2012/10/9/an-estimated-25-000-protest-in-athens-as-german-chancellor-angela-merkel-visits-greece.md)

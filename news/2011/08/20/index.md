@@ -5,7 +5,7 @@ Formats: [HTML](2011/08/20/index.html)  [JSON](2011/08/20/index.json)  [XML](201
 
 ##### Pakistani police
 ### [At least six Pakistani police officers are killed and 50 injured in an attack in Karachi. ](/news/2011/08/20/at-least-six-pakistani-police-officers-are-killed-and-50-injured-in-an-attack-in-karachi.md)
-_Context: Karachi, Pakistani police_
+_Context: Pakistani police, Karachi_
 
 ##### Civil war
 ### [Libyan rebels claim to have captured the strategic oil port of Brega. ](/news/2011/08/20/libyan-rebels-claim-to-have-captured-the-strategic-oil-port-of-brega.md)
@@ -23,7 +23,7 @@ _Context: Vanuatu_
 ### [Tropical Storm Harvey is expected to cross the coast of Belize with a tropical storm watch in place for Guatemala and parts of Honduras. ](/news/2011/08/20/tropical-storm-harvey-is-expected-to-cross-the-coast-of-belize-with-a-tropical-storm-watch-in-place-for-guatemala-and-parts-of-honduras.md)
 A tropical storm formed in the Caribbean Friday and is expected to move across the coast of Belize Saturday afternoon or night.
 
-##### Afghanistan
+##### Afghan
 ### [At least 25 people die in a bus crash in Afghanistan's Kandahar Province. ](/news/2011/08/20/at-least-25-people-die-in-a-bus-crash-in-afghanistan-s-kandahar-province.md)
 A bus careers off the road near the southern Afghanistan city of Kandahar, killing 35 people and injuring 27 more.
 

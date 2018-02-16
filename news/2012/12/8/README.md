@@ -13,7 +13,7 @@ The Egyptian opposition maintains protests outside the presidential palace in Ca
 
 ##### President
 ### [The President of the Philippines Benigno Aquino declares a state of national calamity in the country following Typhoon Bopha, which has claimed over 450 lives. ](/news/2012/12/8/the-president-of-the-philippines-benigno-aquino-declares-a-state-of-national-calamity-in-the-country-following-typhoon-bopha-which-has-clai.md)
-_Context: President, his predecessor, Typhoon Bopha_
+_Context: Typhoon Bopha, his predecessor, President_
 
 ##### Cambodia
 ### [Eight people, including four children, are killed after fire rages through a popular night market in the Cambodian town of Siem Reap. ](/news/2012/12/8/eight-people-including-four-children-are-killed-after-fire-rages-through-a-popular-night-market-in-the-cambodian-town-of-siem-reap.md)
@@ -29,11 +29,11 @@ Seeking to control global warming, nearly 200 countries agreed Saturday to exten
 
 ##### American football
 ### [American football player Josh Brent of the Dallas Cowboys is arrested for driving while intoxicated and vehicular manslaughter in relation to the death of teammate Jerry Brown. ](/news/2012/12/8/american-football-player-josh-brent-of-the-dallas-cowboys-is-arrested-for-driving-while-intoxicated-and-vehicular-manslaughter-in-relation-t.md)
-_Context: vehicular manslaughter, Dallas Cowboys, Jerry Brown, Josh Brent, American football_
+_Context: Jerry Brown, Dallas Cowboys, vehicular manslaughter, American football, Josh Brent_
 
 ##### Australia
 ### [Bosses at Australian radio station 2Day FM suspend all advertising until Monday after several major advertisers withdrew their business in the wake of the death of Jacintha Saldanha. ](/news/2012/12/8/bosses-at-australian-radio-station-2day-fm-suspend-all-advertising-until-monday-after-several-major-advertisers-withdrew-their-business-in-t.md)
-_Context: Australia, Jacintha Saldanha, 2Day FM_
+_Context: Jacintha Saldanha, 2Day FM, Australia_
 
 ##### General election
 ### [The Ghanaian election is extended by one day as glitches in the electoral system cause extended delays in voting in some areas. ](/news/2012/12/8/the-ghanaian-election-is-extended-by-one-day-as-glitches-in-the-electoral-system-cause-extended-delays-in-voting-in-some-areas.md)
@@ -45,7 +45,7 @@ The Burmese government apologises to Buddhist monks for the injuries caused duri
 
 ##### Italy
 ### [Italian Prime Minister Mario Monti says he will resign after passing the 2013 budget. ](/news/2012/12/8/italian-prime-minister-mario-monti-says-he-will-resign-after-passing-the-2013-budget.md)
-_Context: Italian Prime Minister, Mario Monti, Italy_
+_Context: Mario Monti, Italian Prime Minister, Italy_
 
 ##### Hugo Chvez
 ### [Hugo Chvez, the President of Venezuela, announces that he has cancer again. Preparing to travel to Havana, Cuba, for further cancer surgery, he named Vice President Nicols Maduro to carry out his legacy if he is unable to remain in office. ](/news/2012/12/8/hugo-chavez-the-president-of-venezuela-announces-that-he-has-cancer-again-preparing-to-travel-to-havana-cuba-for-further-cancer-surgery.md)

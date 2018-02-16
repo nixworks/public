@@ -5,15 +5,15 @@ Formats: [HTML](2010/11/4/index.html)  [JSON](2010/11/4/index.json)  [XML](2010/
 
 ##### Ethnic groups
 ### [Six armed ethnic groups in Burma join forces, fearing they will be attacked by the military government after the general election on Sunday. ](/news/2010/11/4/six-armed-ethnic-groups-in-burma-join-forces-fearing-they-will-be-attacked-by-the-military-government-after-the-general-election-on-sunday.md)
-_Context: general elections, Burma, ethnic groups_
+_Context: ethnic groups, Burma, general elections_
 
 ##### United Nations
 ### [The United Nations says child soldiers continue to be recruited to fight and engage in piracy in Somalia. ](/news/2010/11/4/the-united-nations-says-child-soldiers-continue-to-be-recruited-to-fight-and-engage-in-piracy-in-somalia.md)
-_Context: United Nations, Somali pirates, child soldiers, Somalia_
+_Context: Somali pirates, United Nations, Somalia, child soldiers_
 
 ##### Comoros Islands
 ### [Somali pirates hijack a vessel under the flag of the Comoros Islands with 29 people on board off the coast of Tanzania. ](/news/2010/11/4/somali-pirates-hijack-a-vessel-under-the-flag-of-the-comoros-islands-with-29-people-on-board-off-the-coast-of-tanzania.md)
-_Context: Tanzania, Comoros Islands_
+_Context: Comoros Islands, Tanzania_
 
 ##### Terrorism
 ### [Two men are charged with terrorism following parcel bomb attacks in Greece, as a 14 th bomb addressed to the French embassy in Athens is detonated by police. ](/news/2010/11/4/two-men-are-charged-with-terrorism-following-parcel-bomb-attacks-in-greece-as-a-14-th-bomb-addressed-to-the-french-embassy-in-athens-is-det.md)
@@ -25,7 +25,7 @@ Rebels have killed several Sudanese policemen in a clash in the troubled western
 
 ##### Drone aircraft
 ### [Thirteen militants are killed in a drone attack in North Waziristan, Pakistan. ](/news/2010/11/4/thirteen-militants-are-killed-in-a-drone-attack-in-north-waziristan-pakistan.md)
-_Context: drone aircraft, drone attack, Pakistan, North Waziristan_
+_Context: drone attack, Pakistan, North Waziristan, drone aircraft_
 
 ##### Stone axe
 ### [A piece of stone axe found at the Gabarnmung rock art gallery on the lands of the Jawoyn people in Australia's Northern Territory is dated at 35,500 years old making the oldest of its type in the world. ](/news/2010/11/4/a-piece-of-stone-axe-found-at-the-gabarnmung-rock-art-gallery-on-the-lands-of-the-jawoyn-people-in-australia-s-northern-territory-is-dated-a.md)
@@ -33,7 +33,7 @@ A piece of stone axe found in the Northern Territory has been dated at 35,500 ye
 
 ##### Toyota
 ### [Toyota recalls around 135,000 vehicles in Japan and Europe over a steering fault. ](/news/2010/11/4/toyota-recalls-around-135-000-vehicles-in-japan-and-europe-over-a-steering-fault.md)
-_Context: Japan, Toyota, Europe_
+_Context: Toyota, Europe, Japan_
 
 ##### United States
 ### [A United States jury rules that Citigroup did not mislead Terra Firma Capital Partners in its bid for music group EMI. ](/news/2010/11/4/a-united-states-jury-rules-that-citigroup-did-not-mislead-terra-firma-capital-partners-in-its-bid-for-music-group-emi.md)
@@ -41,11 +41,11 @@ A US jury rules that investment bank Citigroup did not trick private equity firm
 
 ##### Vince Cable
 ### [United Kingdom - Business Secretary Vince Cable orders Ofcom to investigate News Corporation's plan to take full control of BSkyB. ](/news/2010/11/4/united-kingdom-business-secretary-vince-cable-orders-ofcom-to-investigate-news-corporation-s-plan-to-take-full-control-of-bskyb.md)
-_Context: Ofcom, BSkyB, Vince Cable, News Corporation_
+_Context: News Corporation, BSkyB, Ofcom, Vince Cable_
 
 ##### Haiti
 ### [Residents in Haiti and Jamaica are evacuated ahead of Tropical Storm Tomas. ](/news/2010/11/4/residents-in-haiti-and-jamaica-are-evacuated-ahead-of-tropical-storm-tomas.md)
-_Context: Jamaica, Haiti, Tropical Storm Tomas_
+_Context: Tropical Storm Tomas, Jamaica, Haiti_
 
 ##### Indonesia
 ### [Indonesia evacuates thousands more people from their villages as Mount Merapi in central Java explodes again. ](/news/2010/11/4/indonesia-evacuates-thousands-more-people-from-their-villages-as-mount-merapi-in-central-java-explodes-again.md)
@@ -77,11 +77,11 @@ The Asahi Shimbun is widely regarded for its journalism as the most respected da
 
 ##### Denial-of-service
 ### [An ongoing denial-of-service cyber attack knocks Burma off the internet, days ahead of the general election. ](/news/2010/11/4/an-ongoing-denial-of-service-cyber-attack-knocks-burma-off-the-internet-days-ahead-of-the-general-election.md)
-_Context: denial-of-service, Burma, cyber attack, general elections_
+_Context: general elections, Burma, cyber attack, denial-of-service_
 
 ##### Moorlands
 ### [More than fifty inmates at the Moorlands Young Offenders Institution in South Yorkshire, England, riot for the second successive night. ](/news/2010/11/4/more-than-fifty-inmates-at-the-moorlands-young-offenders-institution-in-south-yorkshire-england-riot-for-the-second-successive-night.md)
-_Context: England, South Yorkshire, Young Offenders Institution, Moorlands_
+_Context: Young Offenders Institution, South Yorkshire, Moorlands, England_
 
 ##### Government of Cambodia
 ### [The Cambodian government opens a "protest park" in the capital Phnom Penh, amid criticism from rights groups. ](/news/2010/11/4/the-cambodian-government-opens-a-protest-park-in-the-capital-phnom-penh-amid-criticism-from-rights-groups.md)
@@ -89,7 +89,7 @@ _Context: Phnom Penh, Government of Cambodia_
 
 ##### Pat Quinn
 ### [Pat Quinn is reelected as Governor of Illinois after a close election. ](/news/2010/11/4/pat-quinn-is-reelected-as-governor-of-illinois-after-a-close-election.md)
-_Context: Pat Quinn, Governor of Illinois_
+_Context: Governor of Illinois, Pat Quinn_
 
 ## [Previous Day...](/news/2010/11/3/index.md)
 

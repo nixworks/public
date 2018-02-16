@@ -9,11 +9,11 @@ _Context: United Kingdom, swine flu_
 
 ##### President
 ### [ President Manuel Zelaya is removed from office by the army ahead of a disputed constitutional referendum and sent to Costa Rica. ](/news/2009/06/28/president-manuel-zelaya-is-removed-from-office-by-the-army-ahead-of-a-disputed-constitutional-referendum-and-sent-to-costa-rica.md)
-_Context: Costa Rica, constitutional referendum, President, removed from office, Manuel Zelaya_
+_Context: Costa Rica, Manuel Zelaya, President, constitutional referendum, removed from office_
 
 ##### Presidential election
 ### [ A presidential election takes place in Guinea-Bissau following the death of former President Joo Bernardo Vieira. ](/news/2009/06/28/a-presidential-election-takes-place-in-guinea-bissau-following-the-death-of-former-president-joao-bernardo-vieira.md)
-_Context: Guinea-Bissau, acting president, presidential election, Joo Bernardo Vieira_
+_Context: presidential election, Guinea-Bissau, Joo Bernardo Vieira, acting president_
 
 ##### Albania
 ### [ Voters in Albania go to the polls in a parliamentary election. ](/news/2009/06/28/voters-in-albania-go-to-the-polls-in-a-parliamentary-election.md)
@@ -21,7 +21,7 @@ Albanians were voting in legislative elections seen as crucial for the European 
 
 ##### Iran
 ### [ Iranian authorities arrest eight employees at the British embassy in Tehran. ](/news/2009/06/28/iranian-authorities-arrest-eight-employees-at-the-british-embassy-in-tehran.md)
-_Context: Iran, Tehran, United Kingdom_
+_Context: United Kingdom, Tehran, Iran_
 
 ##### Argentina
 ### [ Voters in Argentina go to the polls for the legislative elections. ](/news/2009/06/28/voters-in-argentina-go-to-the-polls-for-the-legislative-elections.md)
@@ -33,7 +33,7 @@ Russia is closing every legal casino this week, throwing hundreds of thousands o
 
 ##### Child pornography
 ### [ An internet child pornography ring, involving at least 2,000 IP addresses in 78 countries, is uncovered in Switzerland. ](/news/2009/06/28/an-internet-child-pornography-ring-involving-at-least-2-000-ip-addresses-in-78-countries-is-uncovered-in-switzerland.md)
-_Context: child pornography, addresses, Switzerland_
+_Context: Switzerland, addresses, child pornography_
 
 ##### Stephen Hawking
 ### [ Stephen Hawking holds a party for future time travelers at the University of Cambridge. ](/news/2009/06/28/stephen-hawking-holds-a-party-for-future-time-travelers-at-the-university-of-cambridge.md)

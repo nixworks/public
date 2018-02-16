@@ -9,7 +9,7 @@ Departing for his state visit to India, PM Netanyahu confirms Israeli jets pound
 
 ##### American-led intervention in the Syrian Civil War
 ### [The U.S.-led coalition confirms reports that it will form a new 30,000-strong Syrian Border Security Force (BSF). Half of the forces will be Syrian Democratic Forces veterans. Another 15,000 will be recruited and trained in the near future. ](/news/2018/01/14/the-u-s-led-coalition-confirms-reports-that-it-will-form-a-new-30-000-strong-syrian-border-security-force-bsf-half-of-the-forces-will-be.md)
-_Context: U.S.-led coalition, American-led intervention in the Syrian Civil War, Syrian Border Security Force, Syrian Democratic Forces_
+_Context: U.S.-led coalition, Syrian Border Security Force, American-led intervention in the Syrian Civil War, Syrian Democratic Forces_
 
 ##### Sanchi oil tanker collision
 ### [The National Iranian Tanker Company-operated Sanchi sinks, following its January 6 collision with a Hong Kong-flagged cargo ship off Shanghai, China, leaving no survivors. ](/news/2018/01/14/the-national-iranian-tanker-company-operated-sanchi-sinks-following-its-january-6-collision-with-a-hong-kong-flagged-cargo-ship-off-shangha.md)
@@ -25,7 +25,7 @@ An explosion started the blaze while the centre at Vila Nova da Rainha hosted a 
 
 ##### Palestine-United States relations
 ### [President of the State of Palestine Mahmoud Abbas describes President of the United States Donald Trump's Middle East peace efforts as the "slap of the century." ](/news/2018/01/14/president-of-the-state-of-palestine-mahmoud-abbas-describes-president-of-the-united-states-donald-trump-s-middle-east-peace-efforts-as-the.md)
-_Context: Donald Trump, President of the State of Palestine, peace, Mahmoud Abbas, Palestine-United States relations, U.S. President_
+_Context: Donald Trump, U.S. President, Mahmoud Abbas, Palestine-United States relations, President of the State of Palestine, peace_
 
 ##### Turpin case
 ### [A couple in Perris, California is arrested for allegedly holding captive and abusing their 13 children. ](/news/2018/01/14/a-couple-in-perris-california-is-arrested-for-allegedly-holding-captive-and-abusing-their-13-children.md)

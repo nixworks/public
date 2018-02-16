@@ -13,7 +13,7 @@ Hundreds of thousands cheered the pope in downtown Seoul, but not everyone has w
 
 ##### Governor
 ### [Governor Jay Nixon declares a state of emergency and curfew in the town of Ferguson, Missouri following nights of rioting. ](/news/2014/08/16/governor-jay-nixon-declares-a-state-of-emergency-and-curfew-in-the-town-of-ferguson-missouri-following-nights-of-rioting.md)
-_Context: Jay Nixon, Governor, Missouri, state of emergency, curfew, Ferguson, Missouri_
+_Context: curfew, Missouri, Ferguson, Missouri, Jay Nixon, Governor, state of emergency_
 
 ## [Previous Day...](/news/2014/08/15/index.md)
 

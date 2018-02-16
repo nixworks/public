@@ -17,15 +17,15 @@ _Context: Human Rights Council, North Korea, United Nations Security Council_
 
 ##### NSW
 ### [The New South Wales Independent Commission against Corruption charges former ministers Eddie Obeid and Ian Macdonald for offenses of misconduct in public office in relation to mining licences. ](/news/2014/11/20/the-new-south-wales-independent-commission-against-corruption-charges-former-ministers-eddie-obeid-and-ian-macdonald-for-offenses-of-miscond.md)
-_Context: Ian Macdonald, Independent Commission against Corruption, Eddie Obeid, NSW_
+_Context: Independent Commission against Corruption, Eddie Obeid, Ian Macdonald, NSW_
 
 ##### Sanatorium
 ### [A knife attack in a sanatorium dormitory in the Northern China resort of Beidahe kills seven people, including six nurses. ](/news/2014/11/20/a-knife-attack-in-a-sanatorium-dormitory-in-the-northern-china-resort-of-beidahe-kills-seven-people-including-six-nurses.md)
-_Context: Northern China, sanatorium, Beidahe_
+_Context: Beidahe, Northern China, sanatorium_
 
 ##### Sinking of the MV ''Sewol''
 ### [A South Korean court sentences Kim Han-sik, the chief executive of Chonghaejin Marine, operator of the MV Sewol, to ten years in jail for negligence and embezzlement. ](/news/2014/11/20/a-south-korean-court-sentences-kim-han-sik-the-chief-executive-of-chonghaejin-marine-operator-of-the-mv-sewol-to-ten-years-in-jail-for-ne.md)
-_Context: South Korea, Chonghaejin Marine, MV ''Sewol'', Sinking of the MV ''Sewol''_
+_Context: Chonghaejin Marine, MV ''Sewol'', Sinking of the MV ''Sewol'', South Korea_
 
 ##### U.S. President
 ### [The President of the United States Barack Obama announces executive orders to defer the deportations of a certain group of illegal immigrants: parents whose children are already U.S. citizens and legal permanent residents who have lived in the United States for five years or more. ](/news/2014/11/20/the-president-of-the-united-states-barack-obama-announces-executive-orders-to-defer-the-deportations-of-a-certain-group-of-illegal-immigrant.md)
@@ -33,7 +33,7 @@ The president sought to convince Americans that his plans to change immigration 
 
 ##### President of Sri Lanka
 ### [The President of Sri Lanka Mahinda Rajapaksa calls an early election. ](/news/2014/11/20/the-president-of-sri-lanka-mahinda-rajapaksa-calls-an-early-election.md)
-_Context: Rajapaksa, President of Sri Lanka_
+_Context: President of Sri Lanka, Rajapaksa_
 
 ##### Mexico City
 ### [Thousands of protestors gather in Mexico City for a national rally in memory of the 43 missing students. Demonstrators have also called for a nationwide strike. ](/news/2014/11/20/thousands-of-protestors-gather-in-mexico-city-for-a-national-rally-in-memory-of-the-43-missing-students-demonstrators-have-also-called-for.md)

@@ -5,11 +5,11 @@ Formats: [HTML](2009/03/18/index.html)  [JSON](2009/03/18/index.json)  [XML](200
 
 ##### China
 ### [ China's Ministry of Commerce rejects Coca-Cola's bid to acquire the Huiyuan Juice Group. ](/news/2009/03/18/china-s-ministry-of-commerce-rejects-coca-cola-s-bid-to-acquire-the-huiyuan-juice-group.md)
-_Context: Huiyuan Juice Group, Coca-Cola, China, Ministry of Commerce_
+_Context: China, Ministry of Commerce, Coca-Cola, Huiyuan Juice Group_
 
 ##### Josef Fritzl
 ### [ Josef Fritzl of Austria changes his plea to guilty on all charges. ](/news/2009/03/18/josef-fritzl-of-austria-changes-his-plea-to-guilty-on-all-charges.md)
-_Context: Josef Fritzl, Austria_
+_Context: Austria, Josef Fritzl_
 
 ##### Office for National Statistics
 ### [ The Office for National Statistics reports that 2.04 million people in the United Kingdom are unemployed. ](/news/2009/03/18/the-office-for-national-statistics-reports-that-2-04-million-people-in-the-united-kingdom-are-unemployed.md)
@@ -21,23 +21,23 @@ Pope Benedict XVI&#39;s denunciation of condom use to prevent the spread of HIV 
 
 ##### Police
 ### [ Twelve people are discovered dead in police custody in Nampula Province, Mozambique. ](/news/2009/03/18/twelve-people-are-discovered-dead-in-police-custody-in-nampula-province-mozambique.md)
-_Context: custody, Nampula Province, Mozambique, police_
+_Context: Nampula Province, custody, Mozambique, police_
 
 ##### Madagascar
 ### [ Madagascar's constitutional court supports the installation of Andry Rajoelina as President. ](/news/2009/03/18/madagascar-s-constitutional-court-supports-the-installation-of-andry-rajoelina-as-president.md)
-_Context: political crisis, President, constitutional court, Madagascar, Andry Rajoelina_
+_Context: political crisis, Andry Rajoelina, constitutional court, President, Madagascar_
 
 ##### Governor
 ### [ Governor Bill Richardson signs House Bill 285, repealing capital punishment in New Mexico. ](/news/2009/03/18/governor-bill-richardson-signs-house-bill-285-repealing-capital-punishment-in-new-mexico.md)
-_Context: Bill Richardson, House, bill into law, capital punishment, Governor, New Mexico_
+_Context: bill into law, capital punishment, Bill Richardson, House, New Mexico, Governor_
 
 ##### Federal Reserve System
 ### [ Federal Reserve System Chairman Ben Bernanke caps United States Treasury Department yields. ](/news/2009/03/18/federal-reserve-system-chairman-ben-bernanke-caps-united-states-treasury-department-yields.md)
-_Context: United States, Chairman of the Federal Reserve, United States Treasury Department, yields, Ben Bernanke, Federal Reserve System, caps_
+_Context: caps, Federal Reserve System, United States, yields, United States Treasury Department, Chairman of the Federal Reserve, Ben Bernanke_
 
 ##### Somalia
 ### [ Somali pirates hijack an Iranian fishing vessel in the Gulf of Aden. ](/news/2009/03/18/somali-pirates-hijack-an-iranian-fishing-vessel-in-the-gulf-of-aden.md)
-_Context: Somalia, Somali pirates, fishing vessel, Gulf of Aden, Iran_
+_Context: fishing vessel, Somalia, Gulf of Aden, Iran, Somali pirates_
 
 ## [Previous Day...](/news/2009/03/17/index.md)
 

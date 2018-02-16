@@ -29,7 +29,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Detroit
 ### [A shooting at a barbershop in Detroit, Michigan, U.S. kills 2 people and injures 7 others. ](/news/2013/11/6/a-shooting-at-a-barbershop-in-detroit-michigan-u-s-kills-2-people-and-injures-7-others.md)
-_Context: Detroit, Mich., U.S._
+_Context: Mich., Detroit, U.S._
 
 ##### Pervez Musharraf
 ### [Pakistan's ex-president Pervez Musharraf is released on bail. ](/news/2013/11/6/pakistan-s-ex-president-pervez-musharraf-is-released-on-bail.md)

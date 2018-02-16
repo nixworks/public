@@ -5,11 +5,11 @@ Formats: [HTML](2012/04/2/index.html)  [JSON](2012/04/2/index.json)  [XML](2012/
 
 ##### Colombia
 ### [The Colombian leftist group FARC releases its last remaining police and military captives. ](/news/2012/04/2/the-colombian-leftist-group-farc-releases-its-last-remaining-police-and-military-captives.md)
-_Context: Colombia, FARC_
+_Context: FARC, Colombia_
 
 ##### U.S. Federal Trade Commission
 ### [The U.S. Federal Trade Commission allows the proposed merger of two large firms within the market for pharmacy benefit management, Express Scripts and Medco Health Solutions, despite the arguments of many that the degree of concentration that will create in the PBM market will prove unhealthy. ](/news/2012/04/2/the-u-s-federal-trade-commission-allows-the-proposed-merger-of-two-large-firms-within-the-market-for-pharmacy-benefit-management-express-s.md)
-_Context: Medco Health Solutions, pharmacy benefit management, Express Scripts, U.S. Federal Trade Commission_
+_Context: Express Scripts, Medco Health Solutions, U.S. Federal Trade Commission, pharmacy benefit management_
 
 ##### UTair Aviation
 ### [A twin engine UTair Aviation ATR-72 crashes in western Siberia near the city of Tyumen with at least 31 people dead of the 43 on board. ](/news/2012/04/2/a-twin-engine-utair-aviation-atr-72-crashes-in-western-siberia-near-the-city-of-tyumen-with-at-least-31-people-dead-of-the-43-on-board.md)
@@ -21,7 +21,7 @@ British PM fires salvo on 30th anniversary of Falklands War amid reports that Ar
 
 ##### Osama bin Laden
 ### [The three widows and two daughters of Osama bin Laden are convicted of illegally living in Pakistan and sentenced to 45 days in jail and fined $114 each. ](/news/2012/04/2/the-three-widows-and-two-daughters-of-osama-bin-laden-are-convicted-of-illegally-living-in-pakistan-and-sentenced-to-45-days-in-jail-and-fin.md)
-_Context: $, Pakistan, Osama bin Laden_
+_Context: Osama bin Laden, Pakistan, $_
 
 ##### Oikos University shooting
 ### [A mass shooting at Oikos University at Oakland, California leaves 7 people dead and three injured, according to a police spokesperson. ](/news/2012/04/2/a-mass-shooting-at-oikos-university-at-oakland-california-leaves-7-people-dead-and-three-injured-according-to-a-police-spokesperson.md)
@@ -29,7 +29,7 @@ A 43-year-old former student is arrested after seven people are shot dead at a p
 
 ##### Burma
 ### [Burma's National League for Democracy claims to have won 43 of 45 seats contested yesterday in by-elections. ](/news/2012/04/2/burma-s-national-league-for-democracy-claims-to-have-won-43-of-45-seats-contested-yesterday-in-by-elections.md)
-_Context: by-elections earlier this month, Burma, National League for Democracy_
+_Context: National League for Democracy, by-elections earlier this month, Burma_
 
 ##### Pl Schmitt
 ### [Pl Schmitt resigns as President of Hungary after his doctorate is revoked in a plagiarism scandal. ](/news/2012/04/2/pal-schmitt-resigns-as-president-of-hungary-after-his-doctorate-is-revoked-in-a-plagiarism-scandal.md)

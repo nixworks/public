@@ -5,7 +5,7 @@ Formats: [HTML](2014/09/13/index.html)  [JSON](2014/09/13/index.json)  [XML](201
 
 ##### Giridih district
 ### [Three Maoists are killed and two are seriously injured in a fight with security forces in the Giridih district of India's Jharkhand state. ](/news/2014/09/13/three-maoists-are-killed-and-two-are-seriously-injured-in-a-fight-with-security-forces-in-the-giridih-district-of-india-s-jharkhand-state.md)
-_Context: India, Giridih district, Jharkhand_
+_Context: Jharkhand, India, Giridih district_
 
 ##### Iraq Prime Minister
 ### [The Prime Minister of Iraq Haider al-Abadi says he has ordered the army to stop shelling areas held by the Islamic State where there are civilians present. ](/news/2014/09/13/the-prime-minister-of-iraq-haider-al-abadi-says-he-has-ordered-the-army-to-stop-shelling-areas-held-by-the-islamic-state-where-there-are-civ.md)

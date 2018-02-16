@@ -13,7 +13,7 @@ Topps Meat Co LLC announced on Friday it was going out of business, crushed by t
 
 ##### Canadian
 ### [ Canada stops the sale of Novartis anti-inflammatory drug Prexige and cancels its authorisation due to the risk of liver-related effects such as hepatitis. ](/news/2007/10/5/canada-stops-the-sale-of-novartis-anti-inflammatory-drug-prexige-and-cancels-its-authorisation-due-to-the-risk-of-liver-related-effects-suc.md)
-_Context: Canadian, liver, Novartis, Prexige, hepatitis, drug_
+_Context: drug, liver, Canadian, Prexige, hepatitis, Novartis_
 
 ##### Burma
 ### [ Burmese security forces claim that they are looking for four of the monks that led the protests. ](/news/2007/10/5/burmese-security-forces-claim-that-they-are-looking-for-four-of-the-monks-that-led-the-protests.md)
@@ -21,7 +21,7 @@ _Context: Burma_
 
 ##### War in Iraq
 ### [ War in Iraq: United States forces kill at least 25 members of a Shiite militia in a firefight. ](/news/2007/10/5/war-in-iraq-united-states-forces-kill-at-least-25-members-of-a-shiite-militia-in-a-firefight.md)
-_Context: United States, militia, War in Iraq, Shiite_
+_Context: United States, Shiite, War in Iraq, militia_
 
 ##### Marion Jones
 ### [ Marion Jones admits using banned substances during her athletic career and risks being stripped of her five Olympic medals. ](/news/2007/10/5/marion-jones-admits-using-banned-substances-during-her-athletic-career-and-risks-being-stripped-of-her-five-olympic-medals.md)
@@ -33,11 +33,11 @@ _Context: Saudi Arabia_
 
 ##### Elections
 ### [ Elections for a Nepalese Constituent Assembly are delayed as the Seven Party Alliance of ruling parties and the former Communist Party of Nepal (Maoist) rebels fail to break a deadlock over the republic issue and the voting system to be used. ](/news/2007/10/5/elections-for-a-nepalese-constituent-assembly-are-delayed-as-the-seven-party-alliance-of-ruling-parties-and-the-former-communist-party-of-n.md)
-_Context: Elections, Maoist supporters, Seven Party Alliance_
+_Context: Seven Party Alliance, Elections, Maoist supporters_
 
 ##### SELENE
 ### [ SELENE, Japan's lunar probe, successfully achieves an orbit around the moon. ](/news/2007/10/5/selene-japan-s-lunar-probe-successfully-achieves-an-orbit-around-the-moon.md)
-_Context: orbit, SELENE, moon, Japan_
+_Context: orbit, moon, Japan, SELENE_
 
 ## [Previous Day...](/news/2007/10/4/index.md)
 

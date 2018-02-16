@@ -21,7 +21,7 @@ Girlfriend of Almog Shiloni, who was stabbed to death in Tel Aviv attack, says t
 
 ##### Isabel dos Santos
 ### [Isabel dos Santos, a billionaire and the eldest daughter of the President of Angola, has entered an auction for Portugal Telecom, bidding against a France based company, Altice. ](/news/2014/11/10/isabel-dos-santos-a-billionaire-and-the-eldest-daughter-of-the-president-of-angola-has-entered-an-auction-for-portugal-telecom-bidding-ag.md)
-_Context: Angola, Portugal Telecom, Isabel dos Santos, France_
+_Context: Angola, France, Isabel dos Santos, Portugal Telecom_
 
 ##### APEC China 2014
 ### [Members of the Asia Pacific Economic Cooperation forum gather in Beijing. ](/news/2014/11/10/members-of-the-asia-pacific-economic-cooperation-forum-gather-in-beijing.md)

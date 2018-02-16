@@ -5,7 +5,7 @@ Formats: [HTML](2010/03/30/index.html)  [JSON](2010/03/30/index.json)  [XML](201
 
 ##### Colombia
 ### [Colombian soldier Pablo Emilio Moncayo is released after 12 years in FARC captivity. ](/news/2010/03/30/colombian-soldier-pablo-emilio-moncayo-is-released-after-12-years-in-farc-captivity.md)
-_Context: Colombia, Pablo Emilio Moncayo, FARC_
+_Context: Colombia, FARC, Pablo Emilio Moncayo_
 
 ##### Russia
 ### [Russia has a day of mourning following the train bombs in Moscow. ](/news/2010/03/30/russia-has-a-day-of-mourning-following-the-train-bombs-in-moscow.md)
@@ -13,7 +13,7 @@ Russians observed an official day of mourning Tuesday after suicide bombers atta
 
 ##### Andaman Islands
 ### [The Andaman Islands are rattled by a 6.6 magnitude earthquake. ](/news/2010/03/30/the-andaman-islands-are-rattled-by-a-6-6-magnitude-earthquake.md)
-_Context: 6.6 magnitude earthquake, Andaman Islands_
+_Context: Andaman Islands, 6.6 magnitude earthquake_
 
 ##### Shandong
 ### [Two mortuary staff in Shandong are arrested after 21 baby corpses are found in a river. ](/news/2010/03/30/two-mortuary-staff-in-shandong-are-arrested-after-21-baby-corpses-are-found-in-a-river.md)
@@ -29,11 +29,11 @@ In their biggest hijacking ever, Somali pirates captured 8 boats taking nearly 1
 
 ##### Mexican
 ### [10 children, youths and young adults between the ages of 8 and 21 are gunned down, presumably by drug traffickers, in the northern Mexican state of Durango. ](/news/2010/03/30/10-children-youths-and-young-adults-between-the-ages-of-8-and-21-are-gunned-down-presumably-by-drug-traffickers-in-the-northern-mexican-s.md)
-_Context: Mexican states, Durango, Mexican_
+_Context: Mexican, Durango, Mexican states_
 
 ##### China
 ### [Chinese police are hunting a man suspected of killing five members of a migrant family, including an 8-year-old girl, in the Inner Mongolia Autonomous Region. ](/news/2010/03/30/chinese-police-are-hunting-a-man-suspected-of-killing-five-members-of-a-migrant-family-including-an-8-year-old-girl-in-the-inner-mongolia.md)
-_Context: China, Inner Mongolia_
+_Context: Inner Mongolia, China_
 
 ##### Sen Quinn
 ### [Sen Quinn's Quinn Insurance goes into administration. ](/news/2010/03/30/sean-quinn-s-quinn-insurance-goes-into-administration.md)
@@ -45,7 +45,7 @@ _Context: southeast Washington D.C._
 
 ##### Pakistan Security Forces
 ### [At least 31 militants were killed Tuesday during Pakistan Security Forces operation in the Orakzai tribal agency. Over 150 militants have been killed in the last six days. ](/news/2010/03/30/at-least-31-militants-were-killed-tuesday-during-pakistan-security-forces-operation-in-the-orakzai-tribal-agency-over-150-militants-have-be.md)
-_Context: Pakistan Security Forces, Orakzai Tribal Area_
+_Context: Orakzai Tribal Area, Pakistan Security Forces_
 
 ## [Previous Day...](/news/2010/03/29/index.md)
 

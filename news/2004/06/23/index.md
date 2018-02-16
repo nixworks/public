@@ -5,15 +5,15 @@ Formats: [HTML](2004/06/23/index.html)  [JSON](2004/06/23/index.json)  [XML](200
 
 ##### Class action
 ### [ A class action lawsuit of an unprecedented 1.6 million women is allowed by a federal judge in a case about sexual discrimination at U.S. retailer Wal Mart. ](/news/2004/06/23/a-class-action-lawsuit-of-an-unprecedented-1-6-million-women-is-allowed-by-a-federal-judge-in-a-case-about-sexual-discrimination-at-u-s-re.md)
-_Context: lawsuit, U.S. government, Wal Mart, class action, retail, sexual discrimination_
+_Context: lawsuit, retail, class action, U.S. government, sexual discrimination, Wal Mart_
 
 ##### Iyad Allawi
 ### [ Iraq's interim Prime Minister Iyad Allawi vows to hunt down militants threatening to assassinate him, dismissing their bloody campaign before a U.S. handover to Iraqi rule in a week's time. ](/news/2004/06/23/iraq-s-interim-prime-minister-iyad-allawi-vows-to-hunt-down-militants-threatening-to-assassinate-him-dismissing-their-bloody-campaign-befo.md)
-_Context: insurgents, Iraq, Iyad Allawi, assassinate, sovereignty, militant_
+_Context: insurgents, militant, Iraq, Iyad Allawi, sovereignty, assassinate_
 
 ##### Saudi Arabia
 ### [ Saudi Arabia offers an amnesty from execution to any al Qaida-affiliated militants within the kingdom who turn themselves in within the next month. ](/news/2004/06/23/saudi-arabia-offers-an-amnesty-from-execution-to-any-al-qaida-affiliated-militants-within-the-kingdom-who-turn-themselves-in-within-the-nex.md)
-_Context: Saudi Arabia, al Qaida_
+_Context: al Qaida, Saudi Arabia_
 
 ##### War crimes
 ### [ The United States abandons an attempt to shield its soldiers from war crimes prosecution by the International Criminal Court. ](/news/2004/06/23/the-united-states-abandons-an-attempt-to-shield-its-soldiers-from-war-crimes-prosecution-by-the-international-criminal-court.md)

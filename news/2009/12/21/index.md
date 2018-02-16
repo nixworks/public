@@ -9,11 +9,11 @@ _Context: Washington, D.C_
 
 ##### Mexico City
 ### [ Mexico City's Legislative Assembly legalizes same-sex marriage and LGBT adoption. ](/news/2009/12/21/mexico-city-s-legislative-assembly-legalizes-same-sex-marriage-and-lgbt-adoption.md)
-_Context: Legislative Assembly, Mexico City, adoption of children by same-sex couples, same-sex marriage_
+_Context: Legislative Assembly, same-sex marriage, Mexico City, adoption of children by same-sex couples_
 
 ##### Nazareth
 ### [ Remains of the first dwelling in Nazareth that can be dated back to the time of Jesus have been found by Israeli archaeologists. ](/news/2009/12/21/remains-of-the-first-dwelling-in-nazareth-that-can-be-dated-back-to-the-time-of-jesus-have-been-found-by-israeli-archaeologists.md)
-_Context: Jesus, Nazareth, Archaeology of Israel_
+_Context: Archaeology of Israel, Jesus, Nazareth_
 
 ##### Poland
 ### [ At least 29 people freeze to death in Poland. ](/news/2009/12/21/at-least-29-people-freeze-to-death-in-poland.md)
@@ -25,15 +25,15 @@ _Context: Nigeria, Nasarawa_
 
 ##### North Korea
 ### [ North Korea establishes a "peacetime firing zone" on the Northern Limit Line maritime border with South Korea, threatening to fire shells in South Korean territorial waters. ](/news/2009/12/21/north-korea-establishes-a-peacetime-firing-zone-on-the-northern-limit-line-maritime-border-with-south-korea-threatening-to-fire-shells-i.md)
-_Context: North Korea, Northern Limit Line, South Korea_
+_Context: Northern Limit Line, North Korea, South Korea_
 
 ##### United Nations
 ### [ The United Nations Security Council lifts an arms embargo on Liberia imposed during the reign of Charles Taylor in 2003. ](/news/2009/12/21/the-united-nations-security-council-lifts-an-arms-embargo-on-liberia-imposed-during-the-reign-of-charles-taylor-in-2003.md)
-_Context: Charles Taylor, arms embargo, United Nations, United Nations Security Council, Liberia_
+_Context: United Nations, Liberia, United Nations Security Council, arms embargo, Charles Taylor_
 
 ##### Bolivia
 ### [ Mister Bolivia wins Mister International 2009 at the end of the two-week event in Taiwan. ](/news/2009/12/21/mister-bolivia-wins-mister-international-2009-at-the-end-of-the-two-week-event-in-taiwan.md)
-_Context: Taiwan, Mister International 2009, Bolivia_
+_Context: Taiwan, Bolivia, Mister International 2009_
 
 ##### St. James's Gate Brewery
 ### [ Two firefighters are hurt fighting a fire as St. James's Gate Brewery is engulfed by flames which send clouds of smoke across Dublin. ](/news/2009/12/21/two-firefighters-are-hurt-fighting-a-fire-as-st-james-s-gate-brewery-is-engulfed-by-flames-which-send-clouds-of-smoke-across-dublin.md)
@@ -45,7 +45,7 @@ _Context: Mogadishu_
 
 ##### Sudan People's Liberation Army/Movement
 ### [ The Sudan People's Liberation Movement, the ruling party in Southern Sudan, criticises a new security law passed by the central government, saying it could undermine the 2010 elections. ](/news/2009/12/21/the-sudan-people-s-liberation-movement-the-ruling-party-in-southern-sudan-criticises-a-new-security-law-passed-by-the-central-government.md)
-_Context: post-election protests, Sudan People's Liberation Army/Movement, Southern Sudan_
+_Context: Southern Sudan, post-election protests, Sudan People's Liberation Army/Movement_
 
 ##### Lebanese
 ### [ Unknown gunmen in Lebanon open fire on a bus carrying Syrian workers, killing one person. ](/news/2009/12/21/unknown-gunmen-in-lebanon-open-fire-on-a-bus-carrying-syrian-workers-killing-one-person.md)
@@ -61,15 +61,15 @@ _Context: National League for Democracy, Aung San Suu Kyi, Burma_
 
 ##### Hosein-Ali Montazeri
 ### [ The funeral of Grand Ayatollah Hosein-Ali Montazeri takes place in the Iranian city of Qom, as anti-government protests and clashes take place. ](/news/2009/12/21/the-funeral-of-grand-ayatollah-hosein-ali-montazeri-takes-place-in-the-iranian-city-of-qom-as-anti-government-protests-and-clashes-take-pl.md)
-_Context: Qom, Iran, Hosein-Ali Montazeri_
+_Context: Hosein-Ali Montazeri, Iran, Qom_
 
 ##### Eurostar
 ### [ Eurostar is suspended indefinitely due to the heavy snowfall affecting continental Europe. ](/news/2009/12/21/eurostar-is-suspended-indefinitely-due-to-the-heavy-snowfall-affecting-continental-europe.md)
-_Context: weather-related, Europe, Eurostar_
+_Context: weather-related, Eurostar, Europe_
 
 ##### Poland
 ### [ Polish police arrest five men and recover the stolen "Arbeit macht frei" sign that hung over the Nazi death camp at Auschwitz where millions were murdered by the Nazis during the Holocaust ](/news/2009/12/21/polish-police-arrest-five-men-and-recover-the-stolen-arbeit-macht-frei-sign-that-hung-over-the-nazi-death-camp-at-auschwitz-where-million.md)
-_Context: Holocaust, Poland, Auschwitz, Nazi, Arbeit macht frei_
+_Context: Arbeit macht frei, Nazi, Holocaust, Poland, Auschwitz_
 
 ##### Cyclone Laurence
 ### [ Severe Tropical Cyclone Laurence becomes a category 5 and strikes the Australian coast with winds of 285 km-h. ](/news/2009/12/21/severe-tropical-cyclone-laurence-becomes-a-category-5-and-strikes-the-australian-coast-with-winds-of-285-km-h.md)

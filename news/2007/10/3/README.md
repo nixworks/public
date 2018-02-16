@@ -5,11 +5,11 @@ Formats: [HTML](2007/10/3/index.html)  [JSON](2007/10/3/index.json)  [XML](2007/
 
 ##### Gold mine
 ### [ More than 3,000 gold miners are trapped underground in the Elandskraal mine at Elandsrand, northwest of Johannesburg, South Africa, owned by Harmony Gold Mining. ](/news/2007/10/3/more-than-3-000-gold-miners-are-trapped-underground-in-the-elandskraal-mine-at-elandsrand-northwest-of-johannesburg-south-africa-owned-b.md)
-_Context: Harmony Gold, Johannesburg, South Africa, gold mine, Elandskraal mine, Elandsrand_
+_Context: Johannesburg, Elandskraal mine, South Africa, gold mine, Harmony Gold, Elandsrand_
 
 ##### United States
 ### [ The United States and Russia sign a pact to use Russian technology on NASA missions to hunt for water on the moon and Mars. ](/news/2007/10/3/the-united-states-and-russia-sign-a-pact-to-use-russian-technology-on-nasa-missions-to-hunt-for-water-on-the-moon-and-mars.md)
-_Context: water, Mars, United States, Russia, moon, NASA_
+_Context: United States, NASA, moon, water, Russia, Mars_
 
 ##### United States
 ### [ United States President George W. Bush vetoes an expansion of the State Children's Health Insurance Program. ](/news/2007/10/3/united-states-president-george-w-bush-vetoes-an-expansion-of-the-state-children-s-health-insurance-program.md)
@@ -17,7 +17,7 @@ _Context: U.S. President, State Children's Health Insurance Program, United Stat
 
 ##### Edward Pietrzyk
 ### [ Edward Pietrzyk, the Polish ambassador to Iraq, is hurt and his bodyguard is killed by a bomb attack in Baghdad. ](/news/2007/10/3/edward-pietrzyk-the-polish-ambassador-to-iraq-is-hurt-and-his-bodyguard-is-killed-by-a-bomb-attack-in-baghdad.md)
-_Context: ambassador, Iraq, Edward Pietrzyk, Baghdad, IED, Poland, bodyguard_
+_Context: Iraq, Baghdad, Poland, IED, ambassador, Edward Pietrzyk, bodyguard_
 
 ##### Pakistan
 ### [ Former Pakistani Prime Minister Benazir Bhutto says that the corruption charges against her have not been dropped, and that Minister Shaikh Rasheed Ahmad's announcement is part of a disinformation campaign. ](/news/2007/10/3/former-pakistani-prime-minister-benazir-bhutto-says-that-the-corruption-charges-against-her-have-not-been-dropped-and-that-minister-shaikh.md)
@@ -29,7 +29,7 @@ A local staff member of the United Nations in Myanmar and three of her family me
 
 ##### 2007 Pacific typhoon season
 ### [ 2007 Pacific typhoon season: Vietnam evacuates 400,000 people from the provinces of Nghe An and Ha Tinh ahead of Severe Tropical Storm Lekima (Hanna). Two people die and hundreds of houses collapse when the storm strikes.](/news/2007/10/3/2007-pacific-typhoon-season-vietnam-evacuates-400-000-people-from-the-provinces-of-ngha-an-and-ha-ta-c-nh-ahead-of-severe-tropical-storm.md)
-_Context: Vietnam, 2007 Pacific typhoon season, Ha Tinh Province, Nghe An Province_
+_Context: Ha Tinh Province, Vietnam, 2007 Pacific typhoon season, Nghe An Province_
 
 ##### South Korean President
 ### [ The President of South Korea Roh Moo-hyun and the leader of North Korea Kim Jong-il commence talks in Pyongyang. ](/news/2007/10/3/the-president-of-south-korea-roh-moo-hyun-and-the-leader-of-north-korea-kim-jong-il-commence-talks-in-pyongyang.md)

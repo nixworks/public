@@ -25,7 +25,7 @@ The ruling is a major victory for LGBTQ community fighting discrimination
 
 ##### Bertha
 ### [Bertha, once the world's largest tunnel boring machine, completes its 9,270 ft tunnel under Seattle, Washington, after four years of digging and a lengthy delay near the beginning of the project. ](/news/2017/04/4/bertha-once-the-world-s-largest-tunnel-boring-machine-completes-its-9-270-ft-tunnel-under-seattle-washington-after-four-years-of-digging.md)
-_Context: Bertha, tunnel, tunnel boring machine, Seattle_
+_Context: tunnel, tunnel boring machine, Bertha, Seattle_
 
 ##### National Assembly
 ### [The National Assembly of Hungary passes a bill that undermines the functioning of the Central European University (CEU). Academics and academic institutions worldwide have expressed support for CEU. ](/news/2017/04/4/the-national-assembly-of-hungary-passes-a-bill-that-undermines-the-functioning-of-the-central-european-university-ceu-academics-and-acade.md)
@@ -33,7 +33,7 @@ The new legislation could force the respected Central European University from t
 
 ##### Sir Timothy John Berners-Lee
 ### [ English computer scientist Sir Timothy John Berners-Lee is awarded the 2016 A.M. Turing Award for inventing the World Wide Web, the first web browser, and the protocols and algorithms that allow the Web to scale. ](/news/2017/04/4/english-computer-scientist-sir-timothy-john-berners-lee-is-awarded-the-2016-a-m-turing-award-for-inventing-the-world-wide-web-the-first-w.md)
-_Context: 2016 A.M. Turing Award, web browser, World Wide Web, scale, Sir Timothy John Berners-Lee_
+_Context: Sir Timothy John Berners-Lee, 2016 A.M. Turing Award, web browser, World Wide Web, scale_
 
 ## [Previous Day...](/news/2017/04/3/index.md)
 

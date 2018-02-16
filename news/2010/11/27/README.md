@@ -5,7 +5,7 @@ Formats: [HTML](2010/11/27/index.html)  [JSON](2010/11/27/index.json)  [XML](201
 
 ##### Nanjing
 ### [Seven people are killed after steel box girders used for building an overpass overturn in Nanjing, China. ](/news/2010/11/27/seven-people-are-killed-after-steel-box-girders-used-for-building-an-overpass-overturn-in-nanjing-china.md)
-_Context: China, Nanjing_
+_Context: Nanjing, China_
 
 ##### Saeedabad, Karachi
 ### [Christians flee from their homes in Saeedabad, Karachi, following violence sparked by a Muslim-Christian marriage. ](/news/2010/11/27/christians-flee-from-their-homes-in-saeedabad-karachi-following-violence-sparked-by-a-muslim-christian-marriage.md)
@@ -13,7 +13,7 @@ _Context: Saeedabad, Karachi_
 
 ##### North Korea
 ### [North Korea accuses South Korea of using "human shields" during the incident. ](/news/2010/11/27/north-korea-accuses-south-korea-of-using-human-shields-during-the-incident.md)
-_Context: South Korea, human shield, North Korea_
+_Context: human shield, North Korea, South Korea_
 
 ##### United Nations
 ### [A senior United Nations official, Vijay Nambiar, meets with Burmese opposition leader Aung San Suu Kyi in Yangon. ](/news/2010/11/27/a-senior-united-nations-official-vijay-nambiar-meets-with-burmese-opposition-leader-aung-san-suu-kyi-in-yangon.md)
@@ -37,7 +37,7 @@ _Context: Laurent Gbagbo, 2010 presidential election, Cte d'Ivoire_
 
 ##### Japan
 ### [Two Japanese ministers are censured by the House of Councillors over a territorial dispute with China. ](/news/2010/11/27/two-japanese-ministers-are-censured-by-the-house-of-councillors-over-a-territorial-dispute-with-china.md)
-_Context: censured, China, House of Councillors, Japan_
+_Context: House of Councillors, China, censured, Japan_
 
 ##### Australia
 ### [Voters in the Australian state of Victoria go to the polls for the state election. ](/news/2010/11/27/voters-in-the-australian-state-of-victoria-go-to-the-polls-for-the-state-election.md)
@@ -49,11 +49,11 @@ _Context: Ed Miliband, Labour Party_
 
 ##### March
 ### [Tens of thousands of people march through Dublin in protest at the Irish government's austerity measures. ](/news/2010/11/27/tens-of-thousands-of-people-march-through-dublin-in-protest-at-the-irish-government-s-austerity-measures.md)
-_Context: march, Dublin, Government of Ireland_
+_Context: Dublin, Government of Ireland, march_
 
 #####  Icelanders
 ### [ Icelanders vote for the creators of a new constitution. ](/news/2010/11/27/icelanders-vote-for-the-creators-of-a-new-constitution.md)
-_Context:  creators of a new constitution,  Icelanders_
+_Context:  Icelanders,  creators of a new constitution_
 
 ## [Previous Day...](/news/2010/11/26/index.md)
 

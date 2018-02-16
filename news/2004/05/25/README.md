@@ -13,7 +13,7 @@ _Context: Bayer CropScience, bee, Imidacloprid, maize_
 
 ##### Viacom
 ### [ Viacom's MTV Networks unit announces plans for the LOGO channel, the first LGBT-themed major cable television service in the United States, set for a February 17, 2005, debut. ](/news/2004/05/25/viacom-s-mtv-networks-unit-announces-plans-for-the-logo-channel-the-first-lgbt-themed-major-cable-television-service-in-the-united-states.md)
-_Context: Viacom, gay and bisexual men, MTV Networks, cable television, LOGO channel_
+_Context: gay and bisexual men, LOGO channel, Viacom, MTV Networks, cable television_
 
 ##### Abel Prize
 ### [ The Abel Prize is awarded in a ceremony in Oslo for the Atiyah-Singer index theorem. ](/news/2004/05/25/the-abel-prize-is-awarded-in-a-ceremony-in-oslo-for-the-atiyah-singer-index-theorem.md)

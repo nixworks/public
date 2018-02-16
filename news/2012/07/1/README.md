@@ -11,7 +11,7 @@ Turkey scrambles six fighters after Syrian helicopters fly near the border, the 
 ### [At least 17 people are killed and 45 injured in an attack on two churches in the eastern Kenyan town of Garissa. ](/news/2012/07/1/at-least-17-people-are-killed-and-45-injured-in-an-attack-on-two-churches-in-the-eastern-kenyan-town-of-garissa.md)
 Fifteen people are killed in attacks on two churches in Garissa, a Kenyan town close to the Somali border, say the Red Cross and an official.
 
-##### Afghanistan
+##### Afghan
 ### [At least five people are killed and 11 injured after a bomb strikes a bus near the Afghan city of Ghazni. ](/news/2012/07/1/at-least-five-people-are-killed-and-11-injured-after-a-bomb-strikes-a-bus-near-the-afghan-city-of-ghazni.md)
 A man in an Afghan police uniform has killed three NATO personnel in the war-torn country&#39;s troubled south, the coalition said.
 
@@ -37,7 +37,7 @@ The demonstrations reflected concerns that the new chief executive, Leung Chun-y
 
 ##### The Sunday Telegraph
 ### [Writing in "The Sunday Telegraph" British Prime Minister David Cameron says he is prepared to consider a referendum on the UK's relationship with the European Union, but only when the time is right. ](/news/2012/07/1/writing-in-the-sunday-telegraph-british-prime-minister-david-cameron-says-he-is-prepared-to-consider-a-referendum-on-the-uk-s-relationship.md)
-_Context: David Cameron, The Sunday Telegraph, European Union_
+_Context: European Union, The Sunday Telegraph, David Cameron_
 
 ##### Soyuz
 ### [A Soyuz space capsule containing Oleg Kononenko (Russia), Andr Kuipers (Netherlands) and Don Pettit (United States) lands safely in Kazakhstan. ](/news/2012/07/1/a-soyuz-space-capsule-containing-oleg-kononenko-russia-andre-kuipers-netherlands-and-don-pettit-united-states-lands-safely-in-kazakhs.md)

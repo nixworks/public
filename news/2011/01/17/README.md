@@ -17,7 +17,7 @@ Strike over export curbs rekindles a dispute that helped drive global grains pri
 
 ##### Walmart
 ### [Walmart's bid for South African retail store Massmart is approved by shareholders, with organized labour groups such as the Congress of South African Trade Unions threatening boycotts against the store.](/news/2011/01/17/walmart-s-bid-for-south-african-retail-store-massmart-is-approved-by-shareholders-with-organized-labour-groups-such-as-the-congress-of-sout.md)
-_Context: Massmart, boycotts, South Africa, Walmart, organized labour, Congress of South African Trade Unions_
+_Context: South Africa, boycotts, organized labour, Congress of South African Trade Unions, Walmart, Massmart_
 
 ##### GlaxoSmithKline
 ### [GlaxoSmithKline pays out $3.4 billion last quarter in legal settlings over their drug Avandia. ](/news/2011/01/17/glaxosmithkline-pays-out-3-4-billion-last-quarter-in-legal-settlings-over-their-drug-avandia.md)
@@ -33,7 +33,7 @@ _Context: Vietnam_
 
 ##### Armenian President
 ### [The President of Armenia accuses Turkey of "destroying" a bid to normalize relations between the two countries, who are locked in a dispute over the mass killings of Armenians by Ottoman Turks during World War I. ](/news/2011/01/17/the-president-of-armenia-accuses-turkey-of-destroying-a-bid-to-normalize-relations-between-the-two-countries-who-are-locked-in-a-dispute.md)
-_Context: genocide of Armenians, reconciliation, First World War, Turkey, Armenian President_
+_Context: reconciliation, genocide of Armenians, Turkey, Armenian President, First World War_
 
 ##### China
 ### [Two judges are fired and a court official suspended in China over a life sentence imposed on a man who evaded thousands in motorway toll fees. The ruling is also overturned. ](/news/2011/01/17/two-judges-are-fired-and-a-court-official-suspended-in-china-over-a-life-sentence-imposed-on-a-man-who-evaded-thousands-in-motorway-toll-fee.md)

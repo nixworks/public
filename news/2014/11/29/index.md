@@ -13,11 +13,11 @@ Seventeen people were killed in Iraq on Saturday in air strikes targeting areas 
 
 ##### Boko Haram
 ### [Suspected Boko Haram militants storm the Christian-majority town of Shani, Nigeria, leaving dozens dead. ](/news/2014/11/29/suspected-boko-haram-militants-storm-the-christian-majority-town-of-shani-nigeria-leaving-dozens-dead.md)
-_Context: Shani, Nigeria, Christian, Boko Haram_
+_Context: Boko Haram, Shani, Nigeria, Christian_
 
 ##### President
 ### [A Cairo court clears former President of Egypt Hosni Mubarak on murder charges related to the death of hundreds of protesters in the 2011 Egyptian revolution. ](/news/2014/11/29/a-cairo-court-clears-former-president-of-egypt-hosni-mubarak-on-murder-charges-related-to-the-death-of-hundreds-of-protesters-in-the-2011-eg.md)
-_Context: 2011 Egyptian revolution, President, Hosni Mubarak_
+_Context: 2011 Egyptian revolution, Hosni Mubarak, President_
 
 ##### Shooting of Michael Brown
 ### [Ferguson PD officer Darren Wilson resigns following a grand jury decision not to indict him in the Michael Brown case. ](/news/2014/11/29/ferguson-pd-officer-darren-wilson-resigns-following-a-grand-jury-decision-not-to-indict-him-in-the-michael-brown-case.md)
@@ -41,7 +41,7 @@ Coalition leader Denis Napthine has conceded defeat and announced that he will b
 
 ##### UMP
 ### [The Union for a Popular Movement reelects former French President Nicolas Sarkozy, as the party leader. ](/news/2014/11/29/the-union-for-a-popular-movement-reelects-former-french-president-nicolas-sarkozy-as-the-party-leader.md)
-_Context: French President, UMP, Nicolas Sarkozy_
+_Context: Nicolas Sarkozy, UMP, French President_
 
 ## [Previous Day...](/news/2014/11/28/index.md)
 

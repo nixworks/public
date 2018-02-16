@@ -13,7 +13,7 @@ The surprise hit musical won a total of six Tonys, including best musical actor 
 
 ##### Ukraine-European Union relations
 ### [The European Union's visa-free regime for Ukraine officially enters into force. ](/news/2017/06/11/the-european-union-s-visa-free-regime-for-ukraine-officially-enters-into-force.md)
-_Context: visa, Ukraine-European Union relations, European Union, Ukraine_
+_Context: Ukraine-European Union relations, European Union, visa, Ukraine_
 
 ##### 2017 Qatar diplomatic crisis
 ### [Iran sends five 90-tonne air cargo payloads of perishable food to Qatar. More shipments by air and sea are underway. ](/news/2017/06/11/iran-sends-five-90-tonne-air-cargo-payloads-of-perishable-food-to-qatar-more-shipments-by-air-and-sea-are-underway.md)
@@ -33,7 +33,7 @@ Case centers on &lsquo;emoluments&rsquo; clause of Constitution, barring gifts f
 
 ##### Kosovan parliamentary election, 2017
 ### [Voters in Kosovo go to the polls for a snap election to replace the government of Prime Minister Isa Mustafa, who was removed from office in a no-confidence motion last month. ](/news/2017/06/11/voters-in-kosovo-go-to-the-polls-for-a-snap-election-to-replace-the-government-of-prime-minister-isa-mustafa-who-was-removed-from-office-in.md)
-_Context: Kosovo, Kosovan parliamentary election, 2017, Prime Minister, Isa Mustafa_
+_Context: Isa Mustafa, Kosovan parliamentary election, 2017, Prime Minister, Kosovo_
 
 ##### French legislative election, 2017
 ### [Voters in France return to the polls after last month's presidential election for the first round of a legislative election, to begin choosing the 577 members of France's lower house. Opinion polls and exit polls predict that En Marche!, formed by newly elected President Emmanuel Macron, will pick up a majority of seats. ](/news/2017/06/11/voters-in-france-return-to-the-polls-after-last-month-s-presidential-election-for-the-first-round-of-a-legislative-election-to-begin-choosi.md)

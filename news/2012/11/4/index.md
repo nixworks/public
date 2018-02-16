@@ -25,7 +25,7 @@ The Oscar-winning film-maker joins leading arts figures to write a letter protes
 
 ##### Abdi Farah Shirdon
 ### [Somalia's Prime Minister Abdi Farah Shirdon, who lives in Kenya, appoints a new 10-member cabinet, including Somalia's first female Foreign Minister, Fowsiyo Yussuf Haji Aadan. ](/news/2012/11/4/somalia-s-prime-minister-abdi-farah-shirdon-who-lives-in-kenya-appoints-a-new-10-member-cabinet-including-somalia-s-first-female-foreign.md)
-_Context: Fowsiyo Yussuf Haji Aadan, Abdi Farah Shirdon_
+_Context: Abdi Farah Shirdon, Fowsiyo Yussuf Haji Aadan_
 
 ##### Tawadros
 ### [Bishop Tawadros is selected as the new 118th pope of the Coptic Orthodox Church. ](/news/2012/11/4/bishop-tawadros-is-selected-as-the-new-118th-pope-of-the-coptic-orthodox-church.md)

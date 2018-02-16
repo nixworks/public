@@ -5,7 +5,7 @@ Formats: [HTML](2016/06/8/index.html)  [JSON](2016/06/8/index.json)  [XML](2016/
 
 ##### War in Afghanistan (2015-present)
 ### [The Taliban kills 12 members of Afghanistan's security forces who were captured in recent ambushes in the Ghazni Province on June 3 and 5. ](/news/2016/06/8/the-taliban-kills-12-members-of-afghanistan-s-security-forces-who-were-captured-in-recent-ambushes-in-the-ghazni-province-on-june-3-and-5.md)
-_Context: Taliban, Ghazni Province, Afghanistan, War in Afghanistan (2015-present)_
+_Context: Taliban, Ghazni Province, War in Afghanistan (2015-present), Afghan_
 
 ##### Israeli-Palestinian conflict (2015-present)
 ### [Two Palestinian gunmen open fire in the Israeli city of Tel Aviv killing at least four people and injuring at least 18 others. The two gunmen are arrested. ](/news/2016/06/8/two-palestinian-gunmen-open-fire-in-the-israeli-city-of-tel-aviv-killing-at-least-four-people-and-injuring-at-least-18-others-the-two-gunme.md)
@@ -33,11 +33,11 @@ An Eritrean man thought to be at the heart of the operation to smuggle migrants 
 
 ##### Governor
 ### [Governor John Kasich signs a bill legalizing medical marijuana, making Ohio the 25th state in America to approve its use. ](/news/2016/06/8/governor-john-kasich-signs-a-bill-legalizing-medical-marijuana-making-ohio-the-25th-state-in-america-to-approve-its-use.md)
-_Context: Governor, John Kasich, Ohio, United States, medical marijuana_
+_Context: Ohio, United States, John Kasich, medical marijuana, Governor_
 
 ##### International Union of Pure and Applied Chemistry
 ### [The International Union of Pure and Applied Chemistry proposes final names for four new chemical elements: nihonium (atomic number 113), moscovium (#115), tennessine (#117), and oganesson (#118). ](/news/2016/06/8/the-international-union-of-pure-and-applied-chemistry-proposes-final-names-for-four-new-chemical-elements-nihonium-atomic-number-113-mos.md)
-_Context: final names, moscovium, nihonium, tennessine, new chemical elements, International Union of Pure and Applied Chemistry, atomic number, oganesson_
+_Context: final names, nihonium, moscovium, International Union of Pure and Applied Chemistry, new chemical elements, tennessine, atomic number, oganesson_
 
 ## [Previous Day...](/news/2016/06/7/index.md)
 

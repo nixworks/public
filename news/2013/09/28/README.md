@@ -19,11 +19,11 @@ Officials say a major earthquake of 6.8 magnitude or larger has hit southwest Pa
 
 ##### Nikolaos Michaloliakos
 ### [Nikolaos Michaloliakos, the leader of the Greek far-right party Golden Dawn, is arrested on charges of forming a criminal organization. ](/news/2013/09/28/nikolaos-michaloliakos-the-leader-of-the-greek-far-right-party-golden-dawn-is-arrested-on-charges-of-forming-a-criminal-organization.md)
-_Context: Golden Dawn, Greece, Nikolaos Michaloliakos_
+_Context: Greece, Nikolaos Michaloliakos, Golden Dawn_
 
 ##### U.S. Navy
 ### [U.S. Navy Vice Admiral Tim Giardina is suspended from his duties as #2 of the U.S. Strategic Command due to an investigation into gambling-related issues. ](/news/2013/09/28/u-s-navy-vice-admiral-tim-giardina-is-suspended-from-his-duties-as-2-of-the-u-s-strategic-command-due-to-an-investigation-into-gambling-r.md)
-_Context: Vice Admiral, Tim Giardina, U.S. Strategic Command, U.S. Navy_
+_Context: U.S. Navy, Tim Giardina, Vice Admiral, U.S. Strategic Command_
 
 ##### Guinea
 ### [Voters in Guinea go to the polls for a legislative election. ](/news/2013/09/28/voters-in-guinea-go-to-the-polls-for-a-legislative-election.md)
@@ -31,7 +31,7 @@ The people of Guinea have voted in their first parliamentary election since a mi
 
 ##### Silvio Berlusconi
 ### [All the ministers from Silvio Berlusconi's People of Freedom party resign from the Government of Italy. ](/news/2013/09/28/all-the-ministers-from-silvio-berlusconi-s-people-of-freedom-party-resign-from-the-government-of-italy.md)
-_Context: People of Freedom, Government of Italy, Silvio Berlusconi_
+_Context: People of Freedom, Silvio Berlusconi, Government of Italy_
 
 ## [Previous Day...](/news/2013/09/27/index.md)
 

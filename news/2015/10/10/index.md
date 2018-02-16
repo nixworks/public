@@ -21,7 +21,7 @@ The U.S. Department of Defense will seek to make &quot;condolence payments&quot;
 
 ##### Mali conflict
 ### [Suspected jihadists attack Dioungani, a village in central Mali, killing a local official in front of his family. ](/news/2015/10/10/suspected-jihadists-attack-dioungani-a-village-in-central-mali-killing-a-local-official-in-front-of-his-family.md)
-_Context: Mali, Dioungani, Mali conflict, jihadists_
+_Context: jihadists, Dioungani, Mali conflict, Mali_
 
 ##### Halting site
 ### [At least eight people have died in a major fire at a halting site for Irish travellers in the south of Dublin. ](/news/2015/10/10/at-least-eight-people-have-died-in-a-major-fire-at-a-halting-site-for-irish-travellers-in-the-south-of-dublin.md)
@@ -37,7 +37,7 @@ The United States and the Philippines opposed the construction, as tensions in t
 
 ##### North Korea
 ### [North Korea holds a massive military parade in its capital, Pyongyang, to celebrate the 70th anniversary of Workers' Party of Korea rule in the country. Liu Yunshan, the highest-ranking Chinese official to visit North Korea in three years, attends the parade. ](/news/2015/10/10/north-korea-holds-a-massive-military-parade-in-its-capital-pyongyang-to-celebrate-the-70th-anniversary-of-workers-party-of-korea-rule-in.md)
-_Context: Pyongyang, Workers' Party of Korea, Liu Yunshan, North Korea_
+_Context: Liu Yunshan, Pyongyang, Workers' Party of Korea, North Korea_
 
 ##### Egypt-France relations
 ### [During a state visit to Cairo by French prime minister Manuel Valls, Egypt officially signs a deal with France to purchase the two "Mistral"-class helicopter carriers that were originally destined for Russia but France refused to deliver due to the Ukrainian crisis. Russia will sell Egypt the helicopters originally intended for the ships. ](/news/2015/10/10/during-a-state-visit-to-cairo-by-french-prime-minister-manuel-valls-egypt-officially-signs-a-deal-with-france-to-purchase-the-two-mistral.md)

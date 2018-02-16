@@ -13,11 +13,11 @@ _Context: Nicaragua, Crdoba banknotes_
 
 ##### Dow Jones & Company
 ### [ Dow Jones & Company will replace Citigroup and General Motors with Travelers Companies and Cisco Systems on its Industrial Average on June 8. ](/news/2009/06/1/dow-jones-company-will-replace-citigroup-and-general-motors-with-travelers-companies-and-cisco-systems-on-its-industrial-average-on-june.md)
-_Context: June 8, Citigroup, Cisco, Travelers Companies, Dow Jones Industrial Average, General Motors, Dow Jones & Company_
+_Context: Dow Jones & Company, Citigroup, Cisco, Dow Jones Industrial Average, General Motors, Travelers Companies, June 8_
 
 ##### Air France
 ### [ Air France Flight 447 disappears over the Atlantic Ocean, near Brazil. ](/news/2009/06/1/air-france-flight-447-disappears-over-the-atlantic-ocean-near-brazil.md)
-_Context: crash of Air France Flight 447, Brazil, Atlantic Ocean, Air France_
+_Context: crash of Air France Flight 447, Air France, Atlantic Ocean, Brazil_
 
 ##### United States
 ### [ The United States Congressional Research Service reports that China is aiding the development of Pakistan's program of nuclear weaponry. ](/news/2009/06/1/the-united-states-congressional-research-service-reports-that-china-is-aiding-the-development-of-pakistan-s-program-of-nuclear-weaponry.md)
@@ -25,7 +25,7 @@ China is providing assistance to Pakistan in developing its plutonium-based nucl
 
 ##### General Motors
 ### [ General Motors files for bankruptcy under Chapter 11 of the U.S. Bankruptcy Code. ](/news/2009/06/1/general-motors-files-for-bankruptcy-under-chapter-11-of-the-u-s-bankruptcy-code.md)
-_Context: Chapter 11, sells, General Motors, bankruptcy, Bankruptcy in the United States_
+_Context: bankruptcy, sells, Bankruptcy in the United States, General Motors, Chapter 11_
 
 ##### Taliban
 ### [ The Taliban kidnaps approximately 400 people in North-West Frontier Province, Pakistan. ](/news/2009/06/1/the-taliban-kidnaps-approximately-400-people-in-north-west-frontier-province-pakistan.md)

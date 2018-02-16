@@ -9,7 +9,7 @@ Madhya Pradesh police shot dead eight Islamist prisoners who had escaped from ja
 
 ##### General Electric
 ### [General Electric says it plans to merge its oil and gas business with the large oilfield services provider Baker Hughes. This follows the demise of a merger plan between Baker Hughes and Halliburton. ](/news/2016/10/31/general-electric-says-it-plans-to-merge-its-oil-and-gas-business-with-the-large-oilfield-services-provider-baker-hughes-this-follows-the-de.md)
-_Context: Baker Hughes, Halliburton, oil and gas, General Electric_
+_Context: oil and gas, General Electric, Baker Hughes, Halliburton_
 
 ##### China
 ### [At least 13 people are killed and 20 others are missing following a gas explosion in a coal mine in western China's Chongqing region. ](/news/2016/10/31/at-least-13-people-are-killed-and-20-others-are-missing-following-a-gas-explosion-in-a-coal-mine-in-western-china-s-chongqing-region.md)

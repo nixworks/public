@@ -5,31 +5,31 @@ Formats: [HTML](2007/05/16/index.html)  [JSON](2007/05/16/index.json)  [XML](200
 
 ##### Tony Blair
 ### [ Tony Blair, the Prime Minister of the United Kingdom, meets with the President of the United States George W. Bush for the final time before his departure from politics. ](/news/2007/05/16/tony-blair-the-prime-minister-of-the-united-kingdom-meets-with-the-president-of-the-united-states-george-w-bush-for-the-final-time-befor.md)
-_Context: Prime Minister, U.S. President, Tony Blair, George W. Bush_
+_Context: Tony Blair, Prime Minister, George W. Bush, U.S. President_
 
 ##### Alex Salmond
 ### [ Alex Salmond, the leader of the Scottish National Party, is elected as the first non-Labour First Minister of Scotland. ](/news/2007/05/16/alex-salmond-the-leader-of-the-scottish-national-party-is-elected-as-the-first-non-labour-first-minister-of-scotland.md)
-_Context: Scottish National Party, Alex Salmond, Scottish Labour Party, First Minister_
+_Context: Alex Salmond, First Minister, Scottish Labour Party, Scottish National Party_
 
 ##### Nicolas Sarkozy
 ### [ Nicolas Sarkozy succeeds Jacques Chirac as President of the French Republic after prevailing over Sgolne Royal in the 2007 French presidential election. ](/news/2007/05/16/nicolas-sarkozy-succeeds-jacques-chirac-as-president-of-the-french-republic-after-prevailing-over-segolene-royal-in-the-2007-french-preside.md)
-_Context: Sgolne Royal, Nicolas Sarkozy, Jacques Chirac, 2007 presidential election, President_
+_Context: Jacques Chirac, President, Sgolne Royal, Nicolas Sarkozy, 2007 presidential election_
 
 ##### Hamas
 ### [ Fifteen people die in fighting between Hamas and Fatah forces on the Gaza Strip with Hamas killing five people at the house of a Fatah security chief Rashid Abu Shbak in Gaza City. ](/news/2007/05/16/fifteen-people-die-in-fighting-between-hamas-and-fatah-forces-on-the-gaza-strip-with-hamas-killing-five-people-at-the-house-of-a-fatah-secu.md)
-_Context: Fatah, Gaza, Hamas, Gaza Strip, Rashid Abu Shbak_
+_Context: Hamas, Fatah, Gaza, Gaza Strip, Rashid Abu Shbak_
 
 ##### Qassam rocket
 ### [ Over 18 people have been wounded by approximately thirty Qassam rockets being fired from the Gaza Strip into Israel. Hamas has claimed responsibility and sources believe the rocket attacks are an attempt to lure Israel into the ongoing internal conflict between Hamas and Fatah. ](/news/2007/05/16/over-18-people-have-been-wounded-by-approximately-thirty-qassam-rockets-being-fired-from-the-gaza-strip-into-israel-hamas-has-claimed-resp.md)
-_Context: Fatah, Hamas, Qassam rocket, Gaza Strip_
+_Context: Qassam rocket, Gaza Strip, Hamas, Fatah_
 
 ##### Flare
 ### [ A flare dropped from a New Jersey National Guard F-16 Fighting Falcon is believed to be the cause of a wildfire that has burned 20 sqmi at the edge of Pinelands National Reserve, New Jersey, burning three homes and causing the evacuation of 2,500 other homes. ](/news/2007/05/16/a-flare-dropped-from-a-new-jersey-national-guard-f-16-fighting-falcon-is-believed-to-be-the-cause-of-a-wildfire-that-has-burned-20-sqmi-at.md)
-_Context: New Jersey, F-16, Pinelands National Reserve, flare, New Jersey National Guard, wildfire_
+_Context: New Jersey National Guard, F-16, flare, wildfire, Pinelands National Reserve, New Jersey_
 
 ##### United Kingdom
 ### [ The United Kingdom's Ministry of Defence announces that HRH Prince Harry of the British Royal Family will not be deployed to Iraq as originally planned, due to the security risks to both himself and his regiment the Blues and Royals. ](/news/2007/05/16/the-united-kingdom-s-ministry-of-defence-announces-that-hrh-prince-harry-of-the-british-royal-family-will-not-be-deployed-to-iraq-as-origin.md)
-_Context: British Royal Family, Iraq, HRH, Blues and Royals, Prince Harry, United Kingdom, Ministry of Defence_
+_Context: Ministry of Defence, HRH, Iraq, British Royal Family, Blues and Royals, Prince Harry, United Kingdom_
 
 ## [Previous Day...](/news/2007/05/15/index.md)
 

@@ -9,7 +9,7 @@ The city of Paris is on high alert, with floodwaters on the River Seine due to p
 
 ##### European migrant crisis
 ### [Bodies of 117 people, including 75 women, 36 men and six children, are recovered from a beach near Zuwarah, Libya, possibly from yesterday's capsize in the Mediterranean Sea. ](/news/2016/06/3/bodies-of-117-people-including-75-women-36-men-and-six-children-are-recovered-from-a-beach-near-zuwarah-libya-possibly-from-yesterday-s.md)
-_Context: European migrant crisis, Zuwarah, Libya, Mediterranean Sea_
+_Context: Mediterranean Sea, European migrant crisis, Zuwarah, Libya_
 
 ##### May 2016 United States storm complex
 ### [The four missing Fort Hood soldiers from the overturned Light Medium Tactical Vehicle are found dead, bringing the death toll from the accident to nine. ](/news/2016/06/3/the-four-missing-fort-hood-soldiers-from-the-overturned-light-medium-tactical-vehicle-are-found-dead-bringing-the-death-toll-from-the-accid.md)
@@ -25,11 +25,11 @@ MENDIG, Germany (AP) — At least eight people were hospitalized after lightning
 
 ##### Nabire
 ### [A helicopter crashes in Nabire, Papua, Indonesia, killing a pilot and three passengers. ](/news/2016/06/3/a-helicopter-crashes-in-nabire-papua-indonesia-killing-a-pilot-and-three-passengers.md)
-_Context: Indonesia, Nabire, Papua_
+_Context: Papua, Indonesia, Nabire_
 
 ##### University of North Carolina at Chapel Hill
 ### [A study by researchers at the University of North Carolina at Chapel Hill, presented at the American Society of Clinical Oncology meeting in Chicago, reports 26 percent of cancer patients can't afford to pay for their treatment, and 18 percent can't afford their prescriptions. ](/news/2016/06/3/a-study-by-researchers-at-the-university-of-north-carolina-at-chapel-hill-presented-at-the-american-society-of-clinical-oncology-meeting-in.md)
-_Context: Chicago, University of North Carolina at Chapel Hill, American Society of Clinical Oncology_
+_Context: Chicago, American Society of Clinical Oncology, University of North Carolina at Chapel Hill_
 
 ##### 2015 FIFA corruption case
 ### [FIFA shares results of their investigation with legal authorities showing former president Sepp Blatter and two others gave themselves nearly $80 million over the past five years via annual raises and World Cup bonuses. ](/news/2016/06/3/fifa-shares-results-of-their-investigation-with-legal-authorities-showing-former-president-sepp-blatter-and-two-others-gave-themselves-nearl.md)

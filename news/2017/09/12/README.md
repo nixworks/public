@@ -5,11 +5,11 @@ Formats: [HTML](2017/09/12/index.html)  [JSON](2017/09/12/index.json)  [XML](201
 
 ##### 2016 U.S. presidential election
 ### [Hillary Clinton releases the book "What Happened", a memoir about her most recent presidential campaign. Clinton has implied that she may not run again in 2020. ](/news/2017/09/12/hillary-clinton-releases-the-book-what-happened-a-memoir-about-her-most-recent-presidential-campaign-clinton-has-implied-that-she-may-no.md)
-_Context: United States presidential election, 2020, presidential campaign, Hillary Clinton, What Happened, 2016 U.S. presidential election, memoir_
+_Context: United States presidential election, 2020, 2016 U.S. presidential election, memoir, Hillary Clinton, presidential campaign, What Happened_
 
 ##### Russian interference in the 2016 United States elections
 ### [The United States Department of Justice has requested Moscow-based Russian media channel RT America to register as a foreign lobbying firm in the United States. ](/news/2017/09/12/the-united-states-department-of-justice-has-requested-moscow-based-russian-media-channel-rt-america-to-register-as-a-foreign-lobbying-firm-i.md)
-_Context: Moscow, Department of Justice, Russian interference in the 2016 United States elections, foreign lobbying firm, United States, Russia, RT America_
+_Context: United States, RT America, Department of Justice, Russia, foreign lobbying firm, Russian interference in the 2016 United States elections, Moscow_
 
 ##### Russia-Turkey relations
 ### [President of Turkey Recep Tayyip Erdogan affirms Turkey has paid a deposit on the purchase of Russian S-400 missile systems. ](/news/2017/09/12/president-of-turkey-recep-tayyip-erdoaan-affirms-turkey-has-paid-a-deposit-on-the-purchase-of-russian-s-400-missile-systems.md)
@@ -37,7 +37,7 @@ The public is questioning the legitimacy of a qualification process so narrow th
 
 ##### Politics of the Philippines
 ### [Philippine senators call for Justice secretary Vitaliano Aguirre to resign. ](/news/2017/09/12/philippine-senators-call-for-justice-secretary-vitaliano-aguirre-to-resign.md)
-_Context: Justice, Vitaliano Aguirre, Politics of the Philippines, senators_
+_Context: senators, Vitaliano Aguirre, Justice, Politics of the Philippines_
 
 ##### Politics of Washington (state)
 ### [Seattle mayor Ed Murray announces his resignation after allegations surface that he sexually abused five teenagers in the 1970s and 80s. ](/news/2017/09/12/seattle-mayor-ed-murray-announces-his-resignation-after-allegations-surface-that-he-sexually-abused-five-teenagers-in-the-1970s-and-80s.md)

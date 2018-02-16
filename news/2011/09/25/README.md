@@ -5,7 +5,7 @@ Formats: [HTML](2011/09/25/index.html)  [JSON](2011/09/25/index.json)  [XML](201
 
 ##### Suicide bombing
 ### [A suicide bombing near a church in Central Java, Indonesia, kills at least two people and injures several others. ](/news/2011/09/25/a-suicide-bombing-near-a-church-in-central-java-indonesia-kills-at-least-two-people-and-injures-several-others.md)
-_Context: Indonesia, suicide bombing, Central Java_
+_Context: Indonesia, Central Java, suicide bombing_
 
 ##### Iraq
 ### [Four consecutive bombings kill at least 10 people and injure 70 others in the Iraqi city of Karbala. ](/news/2011/09/25/four-consecutive-bombings-kill-at-least-10-people-and-injure-70-others-in-the-iraqi-city-of-karbala.md)
@@ -13,7 +13,7 @@ _Context: Karbala, Iraq_
 
 ##### United Nations Security Council
 ### [The United Nations Security Council urges all sides in the 2011 Yemeni uprising to "show maximum restraint". ](/news/2011/09/25/the-united-nations-security-council-urges-all-sides-in-the-2011-yemeni-uprising-to-show-maximum-restraint.md)
-_Context: 2011 Yemeni uprising, United Nations Security Council_
+_Context: United Nations Security Council, 2011 Yemeni uprising_
 
 ##### CIA
 ### [Gunfire is reported at a Central Intelligence Agency (CIA) compound in the Afghan capital Kabul. ](/news/2011/09/25/gunfire-is-reported-at-a-central-intelligence-agency-cia-compound-in-the-afghan-capital-kabul.md)
@@ -25,7 +25,7 @@ _Context: Buddha Air, crashes, Nepal, Mount Everest_
 
 ##### Forest fire
 ### [An out-of-control forest fire near the Canadian town of Fort McMurray in Alberta causes the closure of Highway 63. ](/news/2011/09/25/an-out-of-control-forest-fire-near-the-canadian-town-of-fort-mcmurray-in-alberta-causes-the-closure-of-highway-63.md)
-_Context: Canadian, forest fire, Alberta, Alberta Highway 63, Fort McMurray_
+_Context: Canadian, Alberta Highway 63, Alberta, Fort McMurray, forest fire_
 
 ##### Indiana
 ### [At least five people are shot dead in two locations in the US state of Indiana. ](/news/2011/09/25/at-least-five-people-are-shot-dead-in-two-locations-in-the-us-state-of-indiana.md)
@@ -33,15 +33,15 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ##### Senate elections
 ### [Senate elections in France result in a left-wing majority, headed by the Socialist Party, for the first time in the history of the Fifth Republic. ](/news/2011/09/25/senate-elections-in-france-result-in-a-left-wing-majority-headed-by-the-socialist-party-for-the-first-time-in-the-history-of-the-fifth-rep.md)
-_Context: France, Senate elections, left-wing, PS, Fifth Republic_
+_Context: Senate elections, PS, France, Fifth Republic, left-wing_
 
 ##### Abdullah
 ### [King Abdullah of Saudi Arabia announces reforms giving women the right to vote and run in municipal elections. ](/news/2011/09/25/king-abdullah-of-saudi-arabia-announces-reforms-giving-women-the-right-to-vote-and-run-in-municipal-elections.md)
-_Context: Abdullah, the right to vote, Saudi Arabia_
+_Context: Saudi Arabia, Abdullah, the right to vote_
 
 ##### Prime Minister of Jamaica
 ### [The Prime Minister of Jamaica Bruce Golding announces plans to step down as soon as the Jamaica Labour Party announces its new leader in December. ](/news/2011/09/25/the-prime-minister-of-jamaica-bruce-golding-announces-plans-to-step-down-as-soon-as-the-jamaica-labour-party-announces-its-new-leader-in-dec.md)
-_Context: Bruce Golding, Prime Minister of Jamaica, Jamaica Labour Party_
+_Context: Jamaica Labour Party, Prime Minister of Jamaica, Bruce Golding_
 
 ## [Previous Day...](/news/2011/09/24/index.md)
 

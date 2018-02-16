@@ -5,23 +5,23 @@ Formats: [HTML](2007/10/23/index.html)  [JSON](2007/10/23/index.json)  [XML](200
 
 ##### Venezuela
 ### [ Thousands of Venezuelan students clash with riot police and supporters of President Hugo Chavez over proposals to remove term limits from the presidency. ](/news/2007/10/23/thousands-of-venezuelan-students-clash-with-riot-police-and-supporters-of-president-hugo-cha-vez-over-proposals-to-remove-term-limits-from.md)
-_Context: Hugo Chavez, Venezuela, term limits, President_
+_Context: Hugo Chavez, President, Venezuela, term limits_
 
 ##### Argentina
 ### [ An Argentine court initiates legal proceedings against former president Fernando de la Rua for failing to prevent the deaths of five protesters during the December 2001 riots at the peak of the 1999-2002 economic crisis. ](/news/2007/10/23/an-argentine-court-initiates-legal-proceedings-against-former-president-fernando-de-la-raoa-for-failing-to-prevent-the-deaths-of-five-prote.md)
-_Context: 1999-2002 economic crisis, Argentina, December 2001 riots, Fernando de la Rua, President of Argentina_
+_Context: December 2001 riots, Fernando de la Rua, 1999-2002 economic crisis, Argentina, President of Argentina_
 
 ##### Space Shuttle
 ### [ Space Shuttle "Discovery" successfully lifts off from Kennedy Space Center in Florida in the United States. The Shuttle was carrying the STS-120 crew on an assembly mission to the International Space Station, as well as the Harmony module. ](/news/2007/10/23/space-shuttle-discovery-successfully-lifts-off-from-kennedy-space-center-in-florida-in-the-united-states-the-shuttle-was-carrying-the-st.md)
-_Context: STS-120, United States, Harmony module, Space Shuttle, the state, International Space Station, Discovery, Kennedy Space Center_
+_Context: Florida, Discovery, Kennedy Space Center, United States, International Space Station, STS-120, Harmony module, Space Shuttle_
 
 ##### Kyrgyzstan
 ### [ Kyrgyz President Kurmanbek Bakiyev signs a decree dissolving the parliament, moving to strengthen his control after voters overwhelmingly approved constitutional changes in a referendum called by the president. ](/news/2007/10/23/kyrgyz-president-kurmanbek-bakiyev-signs-a-decree-dissolving-the-parliament-moving-to-strengthen-his-control-after-voters-overwhelmingly-a.md)
-_Context: Kyrgyzstan, President, president, constitutional changes in a referendum_
+_Context: President, constitutional changes in a referendum, president, Kyrgyzstan_
 
 ##### European Court of Justice
 ### [ The European Court of Justice rules against Germany's "Volkswagen Law", paving the way for Porsche to take over Volkswagen. ](/news/2007/10/23/the-european-court-of-justice-rules-against-germany-s-volkswagen-law-paving-the-way-for-porsche-to-take-over-volkswagen.md)
-_Context: Volkswagen Law, Porsche, European Court of Justice, German, Volkswagen_
+_Context: German, Volkswagen, Porsche, Volkswagen Law, European Court of Justice_
 
 ##### U.S. President
 ### [ President George W. Bush declares that an "emergency exists" in areas of California and authorises the Federal Emergency Management Agency (FEMA) to coordinate relief. ](/news/2007/10/23/president-george-w-bush-declares-that-an-emergency-exists-in-areas-of-california-and-authorises-the-federal-emergency-management-agency.md)
@@ -29,15 +29,15 @@ Towering wildfires burned out of control across Southern California for a third 
 
 ##### Somalia
 ### [ The government of Somalia frees Idris Osman, the head of the World Food Programme in Somalia, after six days in detention. ](/news/2007/10/23/the-government-of-somalia-frees-idris-osman-the-head-of-the-world-food-programme-in-somalia-after-six-days-in-detention.md)
-_Context: World Food Programme, Idris Osman, Somalia_
+_Context: Idris Osman, World Food Programme, Somalia_
 
 ##### Nike, Inc.
 ### [ Nike agrees to buy United Kingdom sportswear firm Umbro for GBP285 million. ](/news/2007/10/23/nike-agrees-to-buy-united-kingdom-sportswear-firm-umbro-for-agbp285-million.md)
-_Context: United Kingdom, Umbro, Nike, Inc., sportswear, GBP_
+_Context: Umbro, Nike, Inc., GBP, United Kingdom, sportswear_
 
 ##### United States Government
 ### [ A United States Government report states that the Department of State is unable to account for much of the $1.2 billion in funding that it gave to DynCorp International to train Iraqi police. ](/news/2007/10/23/a-united-states-government-report-states-that-the-department-of-state-is-unable-to-account-for-much-of-the-1-2-billion-in-funding-that-it.md)
-_Context: Iraq, $, DynCorp International, United States Government, State Department_
+_Context: United States Government, $, Iraq, DynCorp International, State Department_
 
 ## [Previous Day...](/news/2007/10/22/index.md)
 

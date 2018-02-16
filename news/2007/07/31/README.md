@@ -5,11 +5,11 @@ Formats: [HTML](2007/07/31/index.html)  [JSON](2007/07/31/index.json)  [XML](200
 
 ##### Nuradin Abdi
 ### [ Nuradin Abdi, a Somali citizen living in the United States, pleads guilty to providing material support to terrorists in connection with a plot to blow up a shopping mall in Columbus, Ohio. ](/news/2007/07/31/nuradin-abdi-a-somali-citizen-living-in-the-united-states-pleads-guilty-to-providing-material-support-to-terrorists-in-connection-with-a.md)
-_Context: Somalia, United States, shopping mall, Columbus, Nuradin Abdi, terrorist_
+_Context: Columbus, shopping mall, Somalia, Nuradin Abdi, United States, terrorist_
 
 ##### Nicaraguan President
 ### [ The President of Nicaragua Daniel Ortega offers to give up SAM-7 surface-to-air missiles in exchange for helicopters, surgical supplies and medicine from the United States. ](/news/2007/07/31/the-president-of-nicaragua-daniel-ortega-offers-to-give-up-sam-7-surface-to-air-missiles-in-exchange-for-helicopters-surgical-supplies-and.md)
-_Context: Nicaraguan President, surface-to-air missiles, SAM-7, Daniel Ortega, United States, helicopters_
+_Context: SAM-7, Daniel Ortega, Nicaraguan President, helicopters, surface-to-air missiles, United States_
 
 ##### News Corporation
 ### [ The board of News Corporation formally approves a $5 billion bid for Dow Jones with Dow Jones agreeing to the terms. ](/news/2007/07/31/the-board-of-news-corporation-formally-approves-a-5-billion-bid-for-dow-jones-with-dow-jones-agreeing-to-the-terms.md)
@@ -21,11 +21,11 @@ _Context: Rhakotis, Alexandria, Archaeologist_
 
 ##### United States soldier
 ### [ Retired United States Army Lieutenant-General Philip Kensinger is censured by the Army over his role in the series of errors following the death of Ranger Pat Tillman in 2004. ](/news/2007/07/31/retired-united-states-army-lieutenant-general-philip-kensinger-is-censured-by-the-army-over-his-role-in-the-series-of-errors-following-the.md)
-_Context: Lieutenant-General, Pat Tillman, United States soldier, Philip Kensinger, Ranger_
+_Context: Ranger, Philip Kensinger, Pat Tillman, Lieutenant-General, United States soldier_
 
 ##### United Nations Security Council
 ### [ The United Nations Security Council authorises up to 26,000 troops and soldiers being sent to the Darfur region of Sudan (United Nations African Union Mission in Darfur or UNAMID). ](/news/2007/07/31/the-united-nations-security-council-authorises-up-to-26-000-troops-and-soldiers-being-sent-to-the-darfur-region-of-sudan-united-nations-af.md)
-_Context: United Nations African Union Mission in Darfur, United Nations Security Council, Darfur, Sudan, UNAMID_
+_Context: United Nations African Union Mission in Darfur, United Nations Security Council, UNAMID, Sudan, Darfur_
 
 ##### United States House of Representatives
 ### [ The United States House of Representatives passes a the Honest Leadership and Open Government Act, a comprehensive ethics and lobbying reform bill 411-8. It bans lobbyists and their clients from giving members of the United States Congress gifts and provides for mandatory disclosure of earmarks in expenditure bills. ](/news/2007/07/31/the-united-states-house-of-representatives-passes-a-the-honest-leadership-and-open-government-act-a-comprehensive-ethics-and-lobbying-refo.md)
@@ -37,11 +37,11 @@ The row between Australia and New Zealand over apple imports is heading to the W
 
 ##### Bollywood
 ### [ Bollywood actor Sanjay Dutt is jailed for six years, fined Rs. 25,000 and his probation plea rejected on charges of obtaining weapons from gangsters in a case associated with the 1993 Mumbai bombings. ](/news/2007/07/31/bollywood-actor-sanjay-dutt-is-jailed-for-six-years-fined-rs-25-000-and-his-probation-plea-rejected-on-charges-of-obtaining-weapons-from.md)
-_Context: probation, 1993 Mumbai bombings, actor, gangster, Rs., Sanjay Dutt, Bollywood_
+_Context: Sanjay Dutt, probation, actor, 1993 Mumbai bombings, Bollywood, Rs., gangster_
 
 ##### Flood
 ### [ Flood alerts are issued for Hubei province in China as the swollen Yangtze River puts the Three Gorges Dam to the test. Another 27 people have died and Beijing's airport was closed on Monday night due to heavy rain. ](/news/2007/07/31/flood-alerts-are-issued-for-hubei-province-in-china-as-the-swollen-yangtze-river-puts-the-three-gorges-dam-to-the-test-another-27-people-h.md)
-_Context: Yangtze River, Three Gorges Dam, Flood, Beijing, China, Hubei_
+_Context: Three Gorges Dam, China, Yangtze River, Flood, Hubei, Beijing_
 
 ##### Khang Khek Ieu
 ### [ Khang Khek Ieu aka Comrade Duch, a former Khmer Rouge prison chief, has been handed over to a United Nations backed genocide tribunal. ](/news/2007/07/31/khang-khek-ieu-aka-comrade-duch-a-former-khmer-rouge-prison-chief-has-been-handed-over-to-a-united-nations-backed-genocide-tribunal.md)

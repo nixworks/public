@@ -9,7 +9,7 @@ Bomb blasts in the Syrian cities of Homs and Damascus have killed at least 140 p
 
 ##### Libyan Civil War (2014-present)
 ### [The Libyan National Army says it has taken control of the town of Ajdabiya and several areas of Benghazi following heavy clashes with Islamist militant groups. ](/news/2016/02/21/the-libyan-national-army-says-it-has-taken-control-of-the-town-of-ajdabiya-and-several-areas-of-benghazi-following-heavy-clashes-with-islami.md)
-_Context: Libyan National Army, Ajdabiya, Libyan Civil War (2014-present), Benghazi, Islamists_
+_Context: Libyan National Army, Libyan Civil War (2014-present), Islamists, Ajdabiya, Benghazi_
 
 ##### 2016 Pampore stand-off
 ### [A group of Islamic terrorists exchange fire with Indian Armed Forces troops for the second consecutive day in Pampore, Jammu and Kashmir, India. At least five soldiers and one civilian have been killed. ](/news/2016/02/21/a-group-of-islamic-terrorists-exchange-fire-with-indian-armed-forces-troops-for-the-second-consecutive-day-in-pampore-jammu-and-kashmir-in.md)
@@ -25,11 +25,11 @@ The so-called Islamic State group says it is responsible for decapitating a seni
 
 ##### European migrant crisis
 ### [Greece claims that Macedonia has closed its borders to migrants from Afghanistan. ](/news/2016/02/21/greece-claims-that-macedonia-has-closed-its-borders-to-migrants-from-afghanistan.md)
-_Context: European migrant crisis, Republic of Macedonia, Greece, Afghanistan_
+_Context: European migrant crisis, Afghan, Greece, Republic of Macedonia_
 
 ##### Insurgency in the Maghreb (2002-present)
 ### [Germany is considering sending troops to Tunisia to help train the Tunisian Army in the fight against Islamist militants, particularly ISIL who control territory in neighboring Libya. ](/news/2016/02/21/germany-is-considering-sending-troops-to-tunisia-to-help-train-the-tunisian-army-in-the-fight-against-islamist-militants-particularly-isil.md)
-_Context: Islamists, Tunisia, Libya, German, ISIL, army, Insurgency in the Maghreb (2002-present)_
+_Context: army, Tunisia, Libya, ISIL, German, Islamists, Insurgency in the Maghreb (2002-present)_
 
 ##### Syrian Civil War peace process
 ### [U.S. Secretary of State John Kerry says a tentative ceasefire agreement reached with Russian Foreign Minister Sergey Lavrov is now being presented to the opposing forces. ](/news/2016/02/21/u-s-secretary-of-state-john-kerry-says-a-tentative-ceasefire-agreement-reached-with-russian-foreign-minister-sergey-lavrov-is-now-being-pre.md)
@@ -37,19 +37,19 @@ Explosions rip through Homs and Damascus suburb as world leaders attempt to get 
 
 ##### Japan-United States relations
 ### [Thousands protest outside the Japanese parliament in Tokyo against the relocation of a U.S. military base on Okinawa Island. Residents cite noise, pollution, and crime as reasons for not wanting a new base built. ](/news/2016/02/21/thousands-protest-outside-the-japanese-parliament-in-tokyo-against-the-relocation-of-a-u-s-military-base-on-okinawa-island-residents-cite.md)
-_Context: Diet, Japan-United States relations, U.S. military base, Okinawa Island, Tokyo, Japan_
+_Context: U.S. military base, Diet, Japan-United States relations, Japan, Tokyo, Okinawa Island_
 
 ##### 2016 Kalamazoo shootings
 ### [Kalamazoo County, Michigan authorities say last evening's shooting spree resulted in six deaths with two others seriously wounded. Each victim was shot multiple times. Police acknowledge that an earlier report that a 14-year-old girl died is incorrect; she is alive, but "severely, gravely" injured. The suspect, a 45-year-old man who is a Uber driver without a prior criminal record, was taken into custody without a struggle. ](/news/2016/02/21/kalamazoo-county-michigan-authorities-say-last-evening-s-shooting-spree-resulted-in-six-deaths-with-two-others-seriously-wounded-each-vict.md)
-_Context: Uber, 2016 Kalamazoo shootings, Kalamazoo County, Michigan, shooting spree_
+_Context: 2016 Kalamazoo shootings, Kalamazoo County, Michigan, Uber, shooting spree_
 
 ##### Terrorism in Malaysia
 ### [Australia issues a security alert, warning that terrorists may be planning attacks in and around the Malaysian capital Kuala Lumpur. It also recommended that Australians avoid travel to the coastal region of eastern Sabah, where the beaches and islands are popular with foreign tourists. ](/news/2016/02/21/australia-issues-a-security-alert-warning-that-terrorists-may-be-planning-attacks-in-and-around-the-malaysian-capital-kuala-lumpur-it-also.md)
-_Context: Malaysia, Australia, Terrorism in Malaysia, Kuala Lumpur, Sabah_
+_Context: Terrorism in Malaysia, Kuala Lumpur, Sabah, Australia, Malaysia_
 
 ##### Pope Francis
 ### [Pope Francis calls for a worldwide ban on the death penalty and urges Christian leaders to work to stop executions as part of the church's Holy Year of Mercy. ](/news/2016/02/21/pope-francis-calls-for-a-worldwide-ban-on-the-death-penalty-and-urges-christian-leaders-to-work-to-stop-executions-as-part-of-the-church-s-h.md)
-_Context: Catholic Church, executions, death penalty, Pope Francis_
+_Context: death penalty, executions, Pope Francis, Catholic Church_
 
 ##### Comorian presidential election, 2016
 ### [Voters in Comoros go to the polls for a presidential election with 25 candidates standing. ](/news/2016/02/21/voters-in-comoros-go-to-the-polls-for-a-presidential-election-with-25-candidates-standing.md)
@@ -69,11 +69,11 @@ The London Mayor says he did not want to go against David Cameron but after &quo
 
 ##### Ashraf Rifi
 ### [Ashraf Rifi resigns as the Minister for Justice for Lebanon in protest at Hezbollah domination of the government which he claims is harming relations with Arab nations. ](/news/2016/02/21/ashraf-rifi-resigns-as-the-minister-for-justice-for-lebanon-in-protest-at-hezbollah-domination-of-the-government-which-he-claims-is-harming.md)
-_Context: Ashraf Rifi, Hezbollah, Lebanese_
+_Context: Ashraf Rifi, Lebanese, Hezbollah_
 
 ##### Macedonian parliamentary election, 2016
 ### [The European Union and the United States advise interim Macedonian Prime Minister Emil Dimitriev to postpone elections scheduled for April 24, 2016. ](/news/2016/02/21/the-european-union-and-the-united-states-advise-interim-macedonian-prime-minister-emil-dimitriev-to-postpone-elections-scheduled-for-april-2.md)
-_Context: European Union, Macedonian parliamentary election, 2016, Prime Minister of Macedonia, United States, Republic of Macedonia, Emil Dimitriev_
+_Context: Emil Dimitriev, Prime Minister of Macedonia, European Union, Republic of Macedonia, United States, Macedonian parliamentary election, 2016_
 
 ##### Bolivian constitutional referendum, 2016
 ### [According to exit polls, Bolivian voters reject a constitutional amendment that would have permitted President Evo Morales to stand for a fourth term in office. His current term expires in 2020. ](/news/2016/02/21/according-to-exit-polls-bolivian-voters-reject-a-constitutional-amendment-that-would-have-permitted-president-evo-morales-to-stand-for-a-fo.md)

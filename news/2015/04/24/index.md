@@ -9,7 +9,7 @@ Italian police carried out a vast counterterrorism operation against an al-Qaeda
 
 ##### United Nations
 ### [Three members of a United Nations peacekeeping mission to the Democratic Republic of the Congo have been abducted. ](/news/2015/04/24/three-members-of-a-united-nations-peacekeeping-mission-to-the-democratic-republic-of-the-congo-have-been-abducted.md)
-_Context: United Nations, DR Congo_
+_Context: DR Congo, United Nations_
 
 ##### Yemeni Civil War (2015)
 ### [UNICEF reports that hundreds of children have been killed and injured in the Civil War while combatants have recruited hundreds more. ](/news/2015/04/24/unicef-reports-that-hundreds-of-children-have-been-killed-and-injured-in-the-civil-war-while-combatants-have-recruited-hundreds-more.md)
@@ -21,7 +21,7 @@ _Context: Anbar province, ISIL, Iraqi Army_
 
 ##### Boko Haram insurgency
 ### [Boko Haram recapture the border town of Marte from the Nigerian Army. ](/news/2015/04/24/boko-haram-recapture-the-border-town-of-marte-from-the-nigerian-army.md)
-_Context: Marte, Boko Haram insurgency, Nigerian Army, Boko Haram_
+_Context: Nigerian Army, Boko Haram, Boko Haram insurgency, Marte_
 
 ##### Balochistan conflict
 ### [Pakistani human rights campaigner Sabeen Mahmud is killed by gunmen after attending a seminar on Balochistan's "disappeared people" in Karachi. ](/news/2015/04/24/pakistani-human-rights-campaigner-sabeen-mahmud-is-killed-by-gunmen-after-attending-a-seminar-on-balochistanas-disappeared-people-in-kar.md)
@@ -53,7 +53,7 @@ Statue of Liberty evacuated, US police respond to report of suspicious package
 
 ##### University of Utah
 ### [A study by the University of Utah show that the magma reserves of the Yellowstone supervolcano are much greater than previously thought. ](/news/2015/04/24/a-study-by-the-university-of-utah-show-that-the-magma-reserves-of-the-yellowstone-supervolcano-are-much-greater-than-previously-thought.md)
-_Context: University of Utah, magma, Yellowstone supervolcano_
+_Context: University of Utah, Yellowstone supervolcano, magma_
 
 ## [Previous Day...](/news/2015/04/23/index.md)
 

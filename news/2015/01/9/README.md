@@ -21,7 +21,7 @@ Several vehicles were burning in the pileup west of exit 92, including a truck t
 
 ##### Prime Minister
 ### [Former Prime Minister of Thailand Yingluck Shinawatra appears to face impeachment charges over a failed rice subsidy scheme. ](/news/2015/01/9/former-prime-minister-of-thailand-yingluck-shinawatra-appears-to-face-impeachment-charges-over-a-failed-rice-subsidy-scheme.md)
-_Context: impeachment, Prime Minister, Yingluck Shinawatra_
+_Context: impeachment, Yingluck Shinawatra, Prime Minister_
 
 ##### Russia
 ### [Russia lists transsexual and transgender individuals among those with "personality and behavioural disorders" who will be banned from obtaining driving licenses. ](/news/2015/01/9/russia-lists-transsexual-and-transgender-individuals-among-those-with-personality-and-behavioural-disorders-who-will-be-banned-from-obtain.md)
@@ -49,7 +49,7 @@ The president’s initiative, which would expand educational opportunities for m
 
 ##### Stockholm University
 ### [Stockholm University cuts its ties with the Confucius Institute citing concerns about foreign interference in academic freedom. ](/news/2015/01/9/stockholm-university-cuts-its-ties-with-the-confucius-institute-citing-concerns-about-foreign-interference-in-academic-freedom.md)
-_Context: Confucius Institute, Stockholm University_
+_Context: Stockholm University, Confucius Institute_
 
 ##### Lovejoy Comet
 ### [The Lovejoy Comet enters its brightest phase to roughly magnitude 4 or 5. ](/news/2015/01/9/the-lovejoy-comet-enters-its-brightest-phase-to-roughly-magnitude-4-or-5.md)

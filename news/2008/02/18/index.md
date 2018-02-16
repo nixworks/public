@@ -13,15 +13,15 @@ _Context: by-elections, Pakistan_
 
 ##### Cluster bombs
 ### [ An international conference aiming to ban the use of cluster bombs opens in Wellington, New Zealand. ](/news/2008/02/18/an-international-conference-aiming-to-ban-the-use-of-cluster-bombs-opens-in-wellington-new-zealand.md)
-_Context: cluster bombs, New Zealand, Wellington_
+_Context: Wellington, cluster bombs, New Zealand_
 
 ##### Suicide bombing
 ### [ A suicide bombing targeting a Canadian military convoy kills at least 37 Afghan civilians and injures three Canadian soldiers in Spin Boldak, Afghanistan. ](/news/2008/02/18/a-suicide-bombing-targeting-a-canadian-military-convoy-kills-at-least-37-afghan-civilians-and-injures-three-canadian-soldiers-in-spin-bolda.md)
-_Context: Afghanistan, suicide bombing, Spin Boldak, Canadian, Canadian Armed Forces_
+_Context: Canadian, Spin Boldak, suicide bombing, Afghan, Canadian Armed Forces_
 
 ##### China
 ### [ In China, the trial of human rights activist Yang Chunlin commenced in the city of Jiamusi. Yang helped organise a petition entitled, "We want human rights, not the Olympics", and is accused of "inciting subversion of state power". ](/news/2008/02/18/in-china-the-trial-of-human-rights-activist-yang-chunlin-commenced-in-the-city-of-jiamusi-yang-helped-organise-a-petition-entitled-we-w.md)
-_Context: Yang Chunlin, China, Jiamusi_
+_Context: Yang Chunlin, Jiamusi, China_
 
 ## [Previous Day...](/news/2008/02/17/index.md)
 

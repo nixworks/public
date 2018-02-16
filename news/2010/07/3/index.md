@@ -25,11 +25,11 @@ Abhisit Vejjajiva orders investigation after eight soldiers killed in two days.
 
 ##### Police
 ### [Police apologize to American hotel heiress Paris Hilton after she was cleared of drug charges made against her while she was watching a 2010 FIFA World Cup match in Port Elizabeth, South Africa. ](/news/2010/07/3/police-apologize-to-american-hotel-heiress-paris-hilton-after-she-was-cleared-of-drug-charges-made-against-her-while-she-was-watching-a-2010.md)
-_Context: 2010 FIFA World Cup, Police, South Africa, Port Elizabeth, Paris Hilton_
+_Context: South Africa, Paris Hilton, 2010 FIFA World Cup, Port Elizabeth, Police_
 
 ##### United States military
 ### [The U.S. Pentagon alleges that Iran has violated United Nations sanctions against itself by providing an advanced radar system to Syria, a system the Pentagon claims would hurt Israel's ability to launch surprise attacks against Iran. ](/news/2010/07/3/the-u-s-pentagon-alleges-that-iran-has-violated-united-nations-sanctions-against-itself-by-providing-an-advanced-radar-system-to-syria-a-s.md)
-_Context: Israel, Iran, United States military, radar, United Nations, Syria, pre-sanction_
+_Context: United States military, Syria, radar, Israel, Iran, United Nations, pre-sanction_
 
 ##### Poland
 ### [Poland and the United States sign a deal in Krakow allowing the United States to position an American anti-missile shield in Poland to defend Europe from the perceived threat of Iran and other countries: Russia objects. ](/news/2010/07/3/poland-and-the-united-states-sign-a-deal-in-kraka3w-allowing-the-united-states-to-position-an-american-anti-missile-shield-in-poland-to-defe.md)
@@ -53,7 +53,7 @@ Former Argentine military ruler Jorge Videla goes on trial for the murder of mor
 
 ##### United States
 ### [United States Republican Party chairman Michael Steele is heavily criticised by members of his own party and by members of the Democratic Party for saying America's war in Afghanistan is "a war of Obama's choosing". ](/news/2010/07/3/united-states-republican-party-chairman-michael-steele-is-heavily-criticised-by-members-of-his-own-party-and-by-members-of-the-democratic-pa.md)
-_Context: Republican, Barack Obama, Democrat, United States, Michael Steele_
+_Context: Republican, United States, Michael Steele, Democrat, Barack Obama_
 
 ##### Serena Williams
 ### [Serena Williams beats Vera Zvonareva 6-3, 6-2 to win her fourth Wimbledon women's singles title. ](/news/2010/07/3/serena-williams-beats-vera-zvonareva-6a3-6a2-to-win-her-fourth-wimbledon-women-s-singles-title.md)

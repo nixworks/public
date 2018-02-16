@@ -9,11 +9,11 @@ The shuttle landed at 8:39 p.m., roughly an hour after Capt. Dominic L. Gorie fi
 
 ##### Ford Motor Company
 ### [ Ford Motor Company announces it will sell its British luxury-car brands Jaguar and Land Rover to India's Tata Motors for $2.3 billion. ](/news/2008/03/26/ford-motor-company-announces-it-will-sell-its-british-luxury-car-brands-jaguar-and-land-rover-to-india-s-tata-motors-for-2-3-billion.md)
-_Context: luxury sedan, Ford Motor Company, Land Rover, United Kingdom, Tata Motors, Jaguar, India, USD_
+_Context: Jaguar, luxury sedan, Ford Motor Company, India, USD, United Kingdom, Tata Motors, Land Rover_
 
 ##### United States
 ### [ The United States embassy in Cairo confirms that the crew of a United States Navy-contracted ship killed an Egyptian when it opened fire on a small boat near the Suez Canal. ](/news/2008/03/26/the-united-states-embassy-in-cairo-confirms-that-the-crew-of-a-united-states-navy-contracted-ship-killed-an-egyptian-when-it-opened-fire-on.md)
-_Context: Egypt, Cairo, Suez Canal, United States, United States Navy_
+_Context: Egypt, Suez Canal, United States Navy, United States, Cairo_
 
 ##### Tibet
 ### [ The first foreign journalists allowed in Tibet since the outbreak of the unrest arrive in Lhasa. ](/news/2008/03/26/the-first-foreign-journalists-allowed-in-tibet-since-the-outbreak-of-the-unrest-arrive-in-lhasa.md)
@@ -21,15 +21,15 @@ President Bush has told Chinese President Hu Jintao that a mistake was made in t
 
 ##### Battle of Basra (2008)
 ### [ The death toll from the Battle of Basra (2008) rises to 40 dead and 200 injured in two days of fighting between Shiite militias and the Iraqi military. ](/news/2008/03/26/the-death-toll-from-the-battle-of-basra-2008-rises-to-40-dead-and-200-injured-in-two-days-of-fighting-between-shiite-militias-and-the-ira.md)
-_Context: Iraqi security forces, Battle of Basra (2008), Shiite_
+_Context: Battle of Basra (2008), Iraqi security forces, Shiite_
 
 ##### South Korea
 ### [ The South Korean government decides to vote for a resolution on North Korean human rights violations in the United Nations Human Rights Council. ](/news/2008/03/26/the-south-korean-government-decides-to-vote-for-a-resolution-on-north-korean-human-rights-violations-in-the-united-nations-human-rights-cou.md)
-_Context: North Korea, Human Rights Council, human rights, South Korea_
+_Context: human rights, North Korea, Human Rights Council, South Korea_
 
 ##### Iceberg
 ### [ A 41 km &times; 2.5 km chunk of ice (102.5 km, see size comparisons) breaks away from the Antarctic Wilkins ice shelf, heralding the disintegration of the remaining 14,000 km 2 . ](/news/2008/03/26/a-41-km-times-2-5-km-chunk-of-ice-102-5-km2-see-size-comparisons-breaks-away-from-the-antarctic-wilkins-ice-shelf-heralding-the-disin.md)
-_Context: see size comparisons, Wilkins ice shelf, iceberg, Antarctic_
+_Context: iceberg, Wilkins ice shelf, Antarctic, see size comparisons_
 
 ##### Federal court
 ### [ A Californian federal judge has ruled that the heirs of Jerry Siegel have a valid claim to a share in the United States copyright which Time Warner holds in the Superman character. ](/news/2008/03/26/a-californian-federal-judge-has-ruled-that-the-heirs-of-jerry-siegel-have-a-valid-claim-to-a-share-in-the-united-states-copyright-which-tim.md)

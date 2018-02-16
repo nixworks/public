@@ -9,7 +9,7 @@ Best-selling author James Herbert who wrote the horror classic The Rats, dies ag
 
 ##### 1953 British Mount Everest Expedition
 ### [The last surviving member of the 1953 British Mount Everest Expedition George Lowe dies at the age of 89 after a long illness. ](/news/2013/03/20/the-last-surviving-member-of-the-1953-british-mount-everest-expedition-george-lowe-dies-at-the-age-of-89-after-a-long-illness.md)
-_Context: George Lowe, 1953 British Mount Everest Expedition_
+_Context: 1953 British Mount Everest Expedition, George Lowe_
 
 ##### Collapse
 ### [2012-2013 Cypriot financial crisis: President of Cyprus Nicos Anastasiades presents a new bailout package for Cypriot banks as Cyprus is hit with a liquidity crisis. ](/news/2013/03/20/2012a2013-cypriot-financial-crisis-president-of-cyprus-nicos-anastasiades-presents-a-new-bailout-package-for-cypriot-banks-as-cyprus-is-h.md)
@@ -17,7 +17,7 @@ Cypriot leaders are set to decide on a new bailout plan as the US central bank p
 
 ##### Miners
 ### [19 miners, who were trapped underground, are rescued from the Rudna mine after a small earthquake hits the heavily industrialized region of Silesia, Poland. ](/news/2013/03/20/19-miners-who-were-trapped-underground-are-rescued-from-the-rudna-mine-after-a-small-earthquake-hits-the-heavily-industrialized-region-of.md)
-_Context: Poland, Rudna mine, miners, earthquake, Silesia_
+_Context: Poland, Rudna mine, earthquake, miners, Silesia_
 
 ##### U.S. President
 ### [President of the United States Barack Obama begins a four-day visit to the Middle East, visiting Palestine and Israel. ](/news/2013/03/20/president-of-the-united-states-barack-obama-begins-a-four-day-visit-to-the-middle-east-visiting-palestine-and-israel.md)
@@ -25,7 +25,7 @@ Barack Obama says Israel has &quot;no greater friend&quot; than the US, as he ma
 
 ##### Venezuela
 ### [Venezuela cuts off an informal channel of communication with the United States because of comments by a US State Department official about next month's presidential election. ](/news/2013/03/20/venezuela-cuts-off-an-informal-channel-of-communication-with-the-united-states-because-of-comments-by-a-us-state-department-official-about-n.md)
-_Context: communication, last month's presidential election, informal channel, US State Department, United States, United States-Venezuela relations, Venezuela_
+_Context: informal channel, communication, US State Department, Venezuela, last month's presidential election, United States, United States-Venezuela relations_
 
 ##### South Korea
 ### [South Korea is suspected to be the target of recent cyberattacks as major TV stations and bank's computer systems infrastructures experience disruptions followed by shutdown. Recent reports indicate that the systems were brought down by a computer virus. ](/news/2013/03/20/south-korea-is-suspected-to-be-the-target-of-recent-cyberattacks-as-major-tv-stations-and-bank-s-computer-systems-infrastructures-experience.md)
@@ -41,7 +41,7 @@ The Voyager-1 probe may be beyond our Sun’s influence, but Nasa will not yet o
 
 ##### Belgium
 ### [Belgium's Pierre Deligne wins the 2013 Abel Prize in mathematics for seminal contributions to algebraic geometry. ](/news/2013/03/20/belgium-s-pierre-deligne-wins-the-2013-abel-prize-in-mathematics-for-seminal-contributions-to-algebraic-geometry.md)
-_Context: Pierre Deligne, Belgium, mathematics, Abel Prize, algebraic geometry_
+_Context: Abel Prize, Belgium, Pierre Deligne, algebraic geometry, mathematics_
 
 ## [Previous Day...](/news/2013/03/19/index.md)
 

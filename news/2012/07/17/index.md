@@ -9,7 +9,7 @@ _Context: Marissa Mayer, Google, Yahoo! Inc._
 
 ##### Syria
 ### [The Syrian consulate in Almaty, Kazakhstan, is seriously damaged by a fire which its staff blame on an arson attack. ](/news/2012/07/17/the-syrian-consulate-in-almaty-kazakhstan-is-seriously-damaged-by-a-fire-which-its-staff-blame-on-an-arson-attack.md)
-_Context: Almaty, Kazakhstan, Syria_
+_Context: Syria, Kazakhstan, Almaty_
 
 ##### Kapisa province
 ### [An Afghan soldier, Abdul Saboor, who killed five French soldiers in a remote part of Kapisa province in January 2012, is sentenced to death by an Afghan military court. ](/news/2012/07/17/an-afghan-soldier-abdul-saboor-who-killed-five-french-soldiers-in-a-remote-part-of-kapisa-province-in-january-2012-is-sentenced-to-death.md)
@@ -17,11 +17,11 @@ A military court sentences an Afghan soldier to death over the killing of five F
 
 ##### Delta Air Lines
 ### [Several 1-inch needles are found in sandwiches on multiple Delta Air Lines flights from Amsterdam Airport Schiphol to the United States. The FBI and Dutch authorities launch a criminal investigation. ](/news/2012/07/17/several-1-inch-needles-are-found-in-sandwiches-on-multiple-delta-air-lines-flights-from-amsterdam-airport-schiphol-to-the-united-states-the.md)
-_Context: Amsterdam Airport Schiphol, Delta Air Lines, FBI, Netherlands, United States_
+_Context: FBI, Delta Air Lines, Amsterdam Airport Schiphol, United States, Netherlands_
 
 ##### SkyWest Airlines
 ### [A pilot for SkyWest Airlines on administrative leave attempts to steal a Bombardier CRJ200 at St. George Municipal Airport in the U.S. state of Utah, killing himself after. ](/news/2012/07/17/a-pilot-for-skywest-airlines-on-administrative-leave-attempts-to-steal-a-bombardier-crj200-at-st-george-municipal-airport-in-the-u-s-state.md)
-_Context: St. George Municipal Airport, Bombardier CRJ200, Utah, administrative leave, SkyWest Airlines_
+_Context: St. George Municipal Airport, Utah, Bombardier CRJ200, administrative leave, SkyWest Airlines_
 
 ##### Alabama
 ### [Seventeen people are wounded after being shot in a bar in Alabama, United States. ](/news/2012/07/17/seventeen-people-are-wounded-after-being-shot-in-a-bar-in-alabama-united-states.md)

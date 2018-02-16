@@ -25,7 +25,7 @@ Thomas Mair gives his name as &quot;Death to traitors, freedom for Britain&quot;
 
 ##### Police officer
 ### [A 73-year-old gunman shoots dead a police officer, and seriously wounds another before shooting himself dead in Vihti, Finland. Finnish broadcaster Yle reports it is the first time a police officer in Finland has been killed in the line of duty since 2007. ](/news/2016/06/18/a-73-year-old-gunman-shoots-dead-a-police-officer-and-seriously-wounds-another-before-shooting-himself-dead-in-vihti-finland-finnish-broa.md)
-_Context: Vihti, Finland, police officer, Yle_
+_Context: police officer, Vihti, Yle, Finland_
 
 ##### Mohamed Morsi
 ### [Mohamed Morsi, former President of Egypt, is sentenced to life imprisonment and another 15 years for his role in allegedly leaking government secrets to Qatar. Six people, including two Al-Jazeera employees, are sentenced to death. ](/news/2016/06/18/mohamed-morsi-former-president-of-egypt-is-sentenced-to-life-imprisonment-and-another-15-years-for-his-role-in-allegedly-leaking-governmen.md)

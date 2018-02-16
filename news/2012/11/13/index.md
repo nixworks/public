@@ -13,7 +13,7 @@ Israel and Hamas agree to hold their fire unless attacked; Defense Minister Bara
 
 ##### San Marino Common Good
 ### [The San Marino Common Good alliance wins a majority of the Grand and General Council of San Marino in the Sammarinese general election. ](/news/2012/11/13/the-san-marino-common-good-alliance-wins-a-majority-of-the-grand-and-general-council-of-san-marino-in-the-sammarinese-general-election.md)
-_Context: Sammarinese general election, San Marino, Grand and General Council, San Marino Common Good_
+_Context: Grand and General Council, San Marino, Sammarinese general election, San Marino Common Good_
 
 ##### Solar eclipse
 ### [A total solar eclipse occurred in parts of Australia and the South Pacific. The most populous city to experience totality was Cairns. ](/news/2012/11/13/a-total-solar-eclipse-occurred-in-parts-of-australia-and-the-south-pacific-the-most-populous-city-to-experience-totality-was-cairns.md)

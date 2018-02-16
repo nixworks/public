@@ -9,19 +9,19 @@ Ukrainian President Viktor Yushchenko on Wednesday abandoned the search for a co
 
 ##### Mosiuoa Lekota
 ### [ Former South African Defence Minister Mosiuoa Lekota says that it is "inevitable" that South Africa's ruling African National Congress (ANC) will split. ](/news/2008/10/8/former-south-african-defence-minister-mosiuoa-lekota-says-that-it-is-inevitable-that-south-africa-s-ruling-african-national-congress-anc.md)
-_Context: Mosiuoa Lekota, ANC party, South Africa_
+_Context: South Africa, Mosiuoa Lekota, African National Congress_
 
 ##### United States
 ### [ The United States embassy in Beirut seeks assistance in finding two US journalists missing in Lebanon. ](/news/2008/10/8/the-united-states-embassy-in-beirut-seeks-assistance-in-finding-two-us-journalists-missing-in-lebanon.md)
-_Context: embassies, Lebanese, journalist, Beirut, United States_
+_Context: Lebanese, Beirut, United States, journalist, embassies_
 
 ##### 2008
 ### [ The 2008 Nobel Prize in Chemistry is awarded Osamu Shimomura, Martin Chalfie, and Roger Y. Tsien for the discovery and development of the green fluorescent protein (GFP).](/news/2008/10/8/the-2008-nobel-prize-in-chemistry-is-awarded-osamu-shimomura-martin-chalfie-and-roger-y-tsien-for-the-discovery-and-development-of-the-g.md)
-_Context: Nobel Prize in Chemistry, Roger Y. Tsien, 2008, Martin Chalfie, Osamu Shimomura, green fluorescent protein (GFP)_
+_Context: Roger Y. Tsien, 2008, Osamu Shimomura, green fluorescent protein (GFP), Nobel Prize in Chemistry, Martin Chalfie_
 
 ##### Yeti Airlines Flight 103
 ### [ Yeti Airlines Flight 103 crashes in the Everest region of Nepal killing 18 passengers. ](/news/2008/10/8/yeti-airlines-flight-103-crashes-in-the-everest-region-of-nepal-killing-18-passengers.md)
-_Context: Mount Everest, Yeti Airlines Flight 103, Nepal_
+_Context: Mount Everest, Nepal, Yeti Airlines Flight 103_
 
 ##### United Kingdom
 ### [ Britain's Chancellor of the Exchequer Alistair Darling releases details of a rescue package aimed at restoring confidence in British Banks. As part of the deal the British Government will provide GBP50bn of investment, provide a further GBP200bn in short term loans and guarantee up to GBP250bn of intra-bank loans ](/news/2008/10/8/britain-s-chancellor-of-the-exchequer-alistair-darling-releases-details-of-a-rescue-package-aimed-at-restoring-confidence-in-british-banks.md)
@@ -33,7 +33,7 @@ _Context: MICEX, RTS_
 
 ##### First democratic election
 ### [ Voters go to the polls in the Maldivian presidential election, the first democratic elections held in the Maldives, with six candidates including incumbent Maumoon Abdul Gayoom. ](/news/2008/10/8/voters-go-to-the-polls-in-the-maldivian-presidential-election-the-first-democratic-elections-held-in-the-maldives-with-six-candidates-inc.md)
-_Context: Maldives, first democratic election, democratic, Maumoon Abdul Gayoom_
+_Context: Maldives, Maumoon Abdul Gayoom, first democratic election, democratic_
 
 ## [Previous Day...](/news/2008/10/7/index.md)
 

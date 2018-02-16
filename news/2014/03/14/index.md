@@ -9,7 +9,7 @@ Formats: [HTML](2014/03/14/index.html)  [JSON](2014/03/14/index.json)  [XML](201
 
 ##### Islamic
 ### [Islamic militants attack a Nigerian Army barracks in Maiduguri, Borno State. ](/news/2014/03/14/islamic-militants-attack-a-nigerian-army-barracks-in-maiduguri-borno-state.md)
-_Context: Islamic, Nigerian Army, Borno State, Maiduguri_
+_Context: Maiduguri, Islamic, Borno State, Nigerian Army_
 
 ##### Quiznos
 ### [American sandwich shop chain Quiznos files for bankruptcy. ](/news/2014/03/14/american-sandwich-shop-chain-quiznos-files-for-bankruptcy.md)
@@ -17,7 +17,7 @@ _Context: Quiznos_
 
 ##### Mumbai
 ### [A 7-story building in Mumbai, India, collapses, killing 7 people and injuring 4. ](/news/2014/03/14/a-7-story-building-in-mumbai-india-collapses-killing-7-people-and-injuring-4.md)
-_Context: India, Mumbai_
+_Context: Mumbai, India_
 
 ##### Explosion
 ### [Rescue crew continue to search for victims in the explosion in the New York City neighborhood of East Harlem, which killed 8 and injured more than 70. ](/news/2014/03/14/rescue-crew-continue-to-search-for-victims-in-the-explosion-in-the-new-york-city-neighborhood-of-east-harlem-which-killed-8-and-injured-mor.md)

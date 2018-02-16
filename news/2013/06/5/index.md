@@ -31,7 +31,7 @@ Stephen Fry has revealed that a producer saved his life after he tried to commit
 ### [Novelist Turki al-Hamad, who was jailed in December for six months without trial over his calls for reform in Saudi Arabia, is released. ](/news/2013/06/5/novelist-turki-al-hamad-who-was-jailed-in-december-for-six-months-without-trial-over-his-calls-for-reform-in-saudi-arabia-is-released.md)
 Turki al-Hamad, who was arrested in December for tweets criticising Islamism, returns home, according to an activist.
 
-##### The state
+##### Florida
 ### [An 84-year-old woman from the U.S. state of Florida comes forward as the sole winner of the record-breaking $590 million Powerball lottery drawing in May. ](/news/2013/06/5/an-84-year-old-woman-from-the-u-s-state-of-florida-comes-forward-as-the-sole-winner-of-the-record-breaking-590-million-powerball-lottery-d.md)
 year-old winner opts for $370 million lump sum
 
@@ -57,7 +57,7 @@ Samsung Electronics scored a victory over rival Apple Inc intheir long-running d
 
 ##### International Monetary Fund
 ### [The International Monetary Fund (IMF) says it underestimated the damage austerity would do to Greece. ](/news/2013/06/5/the-international-monetary-fund-imf-says-it-underestimated-the-damage-austerity-would-do-to-greece.md)
-_Context: International Monetary Fund, austerity, Greece_
+_Context: International Monetary Fund, Greece, austerity_
 
 ##### Amazon.com
 ### [Online retailer Amazon.com begins operations in India. ](/news/2013/06/5/online-retailer-amazon-com-begins-operations-in-india.md)
@@ -93,7 +93,7 @@ A convicted Scotland Yard constable awarded a coveted &quot;baton of honour&quot
 
 ##### Nawaz Sharif
 ### [Nawaz Sharif is sworn in as the Prime Minister of Pakistan and calls for an end to U.S. drone attacks. ](/news/2013/06/5/nawaz-sharif-is-sworn-in-as-the-prime-minister-of-pakistan-and-calls-for-an-end-to-u-s-drone-attacks.md)
-_Context: Nawaz Sharif, Prime Minister, drones launch_
+_Context: Prime Minister, Nawaz Sharif, drones launch_
 
 ##### Guantanamo Bay hunger strikes
 ### [As the ongoing Guantanamo Bay hunger strikes enters its 120th day, the United States House of Representatives votes to keep the prison camp open. ](/news/2013/06/5/as-the-ongoing-guanta-namo-bay-hunger-strikes-enters-its-120th-day-the-united-states-house-of-representatives-votes-to-keep-the-prison-camp.md)
@@ -109,7 +109,7 @@ Mr. Chen’s stance on the Tiananmen Square protests of 1989 earned him promotio
 
 ##### Tom Donilon
 ### [Tom Donilon resigns his post as U.S. National Security Advisor and is replaced by Susan Rice. ](/news/2013/06/5/tom-donilon-resigns-his-post-as-u-s-national-security-advisor-and-is-replaced-by-susan-rice.md)
-_Context: Tom Donilon, National Security Advisor, Susan Rice_
+_Context: Tom Donilon, Susan Rice, National Security Advisor_
 
 ##### 
 ### [An Egyptian court sentences 43 non-profit workers who advocated for democracy, many of them foreigners, to prison. ](/news/2013/06/5/an-egyptian-court-sentences-43-non-profit-workers-who-advocated-for-democracy-many-of-them-foreigners-to-prison.md)

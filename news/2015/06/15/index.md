@@ -13,7 +13,7 @@ Over a hundred Baluch militants fighting against Pakistani forces in the separat
 
 ##### Syrian Civil War
 ### [Kurdish YPG forces and Free Syrian Army rebels seize control of the ISIL stronghold of Tell Abyad in northern Al-Raqqah Governorate. ](/news/2015/06/15/kurdish-ypg-forces-and-free-syrian-army-rebels-seize-control-of-the-isil-stronghold-of-tell-abyad-in-northern-al-raqqah-governorate.md)
-_Context: Tell Abyad, Free Syrian Army, Al-Raqqah Governorate, YPG, ISIL, Syrian Civil War_
+_Context: Tell Abyad, ISIL, YPG, Free Syrian Army, Al-Raqqah Governorate, Syrian Civil War_
 
 ##### Magna Carta
 ### [The 800th anniversary of the sealing of the Magna Carta by King John of England is commemorated around the world. ](/news/2015/06/15/the-800th-anniversary-of-the-sealing-of-the-magna-carta-by-king-john-of-england-is-commemorated-around-the-world.md)
@@ -25,7 +25,7 @@ CVS Health and Target on Monday announced a deal for CVS to acquire Target&#039;
 
 ##### Greek government-debt crisis
 ### [Greece and its creditors harden their stances after the collapse of talks aimed at preventing a default. ](/news/2015/06/15/greece-and-its-creditors-harden-their-stances-after-the-collapse-of-talks-aimed-at-preventing-a-default.md)
-_Context: default, Greece, Greek government-debt crisis_
+_Context: Greece, default, Greek government-debt crisis_
 
 ##### Russian financial crisis (2014-present)
 ### [The Central Bank of Russia lowers the interest rate to 11.5%. ](/news/2015/06/15/the-central-bank-of-russia-lowers-the-interest-rate-to-11-5.md)
@@ -41,11 +41,11 @@ Beijing’s municipally-owned cable TV monopoly has announced a partnership with
 
 ##### Nepal
 ### [Nepal announces plans to reopen heritage sites in the Kathmandu Valley two months after the April 2015 Nepal earthquake. ](/news/2015/06/15/nepal-announces-plans-to-reopen-heritage-sites-in-the-kathmandu-valley-two-months-after-the-april-2015-nepal-earthquake.md)
-_Context: suspicions, Kathmandu Valley, Nepal_
+_Context: Kathmandu Valley, Nepal, suspicions_
 
 ##### 2015 Pacific hurricane season
 ### [Hurricane Carlos hits southwestern Mexico with heavy rain ahead of making landfall as a tropical storm later in the week. ](/news/2015/06/15/hurricane-carlos-hits-southwestern-mexico-with-heavy-rain-ahead-of-making-landfall-as-a-tropical-storm-later-in-the-week.md)
-_Context: Hurricane Carlos, 2015 Pacific hurricane season, tropical storm, Mexican_
+_Context: Hurricane Carlos, 2015 Pacific hurricane season, Mexican, tropical storm_
 
 ##### 2015 Alaska Sockeye wildfire
 ### [ The wildfire grows to 8,500 acres. ](/news/2015/06/15/the-wildfire-grows-to-8-500-acres.md)
@@ -65,7 +65,7 @@ The Vatican orders the trial of a former archbishop over paedophilia charges.
 
 ##### Bush family
 ### [Jeb Bush, former Governor of Florida, announces his candidacy for the Republican Party nomination. ](/news/2015/06/15/jeb-bush-former-governor-of-florida-announces-his-candidacy-for-the-republican-party-nomination.md)
-_Context: Jeb Bush, Governor of Florida, Republican, Bush family_
+_Context: Bush family, Republican, Jeb Bush, Governor of Florida_
 
 ## [Previous Day...](/news/2015/06/14/index.md)
 

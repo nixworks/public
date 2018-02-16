@@ -17,7 +17,7 @@ Once Hollywood&#x27;s most bankable star, Lewis fronted more than 50 movies, fro
 
 ##### South Korea
 ### [An explosion at a South Korean shipyard owned by STX Offshore & Shipbuilding kills four workers. ](/news/2017/08/20/an-explosion-at-a-south-korean-shipyard-owned-by-stx-offshore-shipbuilding-kills-four-workers.md)
-_Context: South Korea, STX Offshore & Shipbuilding_
+_Context: STX Offshore & Shipbuilding, South Korea_
 
 ##### Drug crackdown
 ### [The Philippine Catholic Church condemns the killings in the Philippines after anger erupts due to the death of 17-year old Kian Loyd delos Santos.](/news/2017/08/20/the-philippine-catholic-church-condemns-the-killings-in-the-philippines-after-anger-erupts-due-to-the-death-of-17-year-old-kian-loyd-delos-s.md)

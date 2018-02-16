@@ -5,7 +5,7 @@ Formats: [HTML](2017/08/7/index.html)  [JSON](2017/08/7/index.json)  [XML](2017/
 
 ##### Godzilla in popular culture
 ### [Haruo Nakajima, who portrayed the monster Godzilla from 1954 to 1972, dies at the age of 88. ](/news/2017/08/7/haruo-nakajima-who-portrayed-the-monster-godzilla-from-1954-to-1972-dies-at-the-age-of-88.md)
-_Context: Godzilla, Haruo Nakajima, Godzilla in popular culture_
+_Context: Haruo Nakajima, Godzilla in popular culture, Godzilla_
 
 ##### Airline bankruptcies in the United States
 ### [Air carrier PenAir declares Chapter 11 bankruptcy in the United States, and ends service to Denver, Colorado, and Portland, Oregon. ](/news/2017/08/7/air-carrier-penair-declares-chapter-11-bankruptcy-in-the-united-states-and-ends-service-to-denver-colorado-and-portland-oregon.md)
@@ -21,7 +21,7 @@ The referendum result is seen as a victory for the president, accused of trying 
 
 ##### Corruption in South Africa
 ### [The Speaker of the National Assembly of South Africa, Baleka Mbete, announces that a vote of no confidence in President Jacob Zuma will be held by secret ballot. The vote, to be held on 8 August 2017, will be the eighth vote of no confidence against the president and the first by secret ballot. ](/news/2017/08/7/the-speaker-of-the-national-assembly-of-south-africa-baleka-mbete-announces-that-a-vote-of-no-confidence-in-president-jacob-zuma-will-be-h.md)
-_Context: President of South Africa, secret ballot, no confidence, National Assembly of South Africa, Corruption in South Africa, Speaker, Baleka Mbete, Jacob Zuma_
+_Context: Speaker, National Assembly, Corruption in South Africa, secret ballot, Jacob Zuma, vote of no confidence, Baleka Mbete, President of South Africa_
 
 ## [Previous Day...](/news/2017/08/6/index.md)
 

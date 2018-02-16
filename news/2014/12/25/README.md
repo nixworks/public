@@ -17,23 +17,23 @@ Pakistan says it has killed the alleged mastermind of a school attack in Peshawa
 
 ##### Pope Francis
 ### [Pope Francis condemns the Islamic State of Iraq and Syria for violence against women, children, and ethnic minorities. ](/news/2014/12/25/pope-francis-condemns-the-islamic-state-of-iraq-and-syria-for-violence-against-women-children-and-ethnic-minorities.md)
-_Context: children, women, Islamic State of Iraq and Syria, ethnic minorities, Pope Francis_
+_Context: Pope Francis, Islamic State of Iraq and Syria, children, ethnic minorities, women_
 
 ##### Iraq
 ### [Iraqi Christians defy persecution and celebrate Christmas in Baghdad. ](/news/2014/12/25/iraqi-christians-defy-persecution-and-celebrate-christmas-in-baghdad.md)
-_Context: Christian, Christmas , Iraq, Baghdad_
+_Context: Christmas , Iraq, Christian, Baghdad_
 
 ##### 2014 Ebola epidemic
 ### [In her Royal Christmas Message, Queen Elizabeth II praises aid workers for fighting ebola in West Africa. ](/news/2014/12/25/in-her-royal-christmas-message-queen-elizabeth-ii-praises-aid-workers-for-fighting-ebola-in-west-africa.md)
-_Context: Queen Elizabeth II, West Africa, Royal Christmas Message, ebola, 2014 Ebola epidemic_
+_Context: Royal Christmas Message, 2014 Ebola epidemic, West Africa, Queen Elizabeth II, ebola_
 
 ##### United States
 ### [United States President Barack Obama praises U.S. troops and reflects on the U.S. withdrawal from Afghanistan during his annual Christmas message from Hawaii. ](/news/2014/12/25/united-states-president-barack-obama-praises-u-s-troops-and-reflects-on-the-u-s-withdrawal-from-afghanistan-during-his-annual-christmas-me.md)
-_Context: Hawaii, U.S. President, United States military personnel, Barack Obama, Afghanistan, U.S. withdrawal, United States_
+_Context: U.S. President, U.S. withdrawal, United States military personnel, Barack Obama, Afghan, Hawaii, United States_
 
 ##### 2014 Russian financial crisis
 ### [Vladimir Putin announces price controls on vodka to reduce bootlegging and moonshining. ](/news/2014/12/25/vladimir-putin-announces-price-controls-on-vodka-to-reduce-bootlegging-and-moonshining.md)
-_Context: Vladimir Putin, moonshine, vodka, 2014 Russian financial crisis, bootleg_
+_Context: moonshine, 2014 Russian financial crisis, bootleg, Vladimir Putin, vodka_
 
 ## [Previous Day...](/news/2014/12/24/index.md)
 

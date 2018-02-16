@@ -9,7 +9,7 @@ Islamic State militants have allegedly executed at least 284 men and boys in the
 
 ##### 2016 Eseka train derailment
 ### [The death toll from the October 21 crash of a Camrail train rises to at least 73 people with another 600 wounded. ](/news/2016/10/22/the-death-toll-from-the-october-21-crash-of-a-camrail-train-rises-to-at-least-73-people-with-another-600-wounded.md)
-_Context: 2016 Eseka train derailment, Camrail_
+_Context: Camrail, 2016 Eseka train derailment_
 
 ##### Philippines-United States relations
 ### [Philippine Foreign Affairs Secretary Perfecto Yasay states that the United States remains our "closest friend," but that the Philippines wants to break away and forge closer ties with other nations. ](/news/2016/10/22/philippine-foreign-affairs-secretary-perfecto-yasay-states-that-the-united-states-remains-our-closest-friend-but-that-the-philippines-wan.md)

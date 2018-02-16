@@ -9,7 +9,7 @@ _Context: Chicago Midway International Airport, Southwest Airlines Flight 1248_
 
 ##### Hamas
 ### [ Hamas leader Khaled Mashal declares at a rally in Damascus, Syria that its informal ceasefire with Israel, which expires at the end of the year, will not be renewed. ](/news/2005/12/8/hamas-leader-khaled-mashal-declares-at-a-rally-in-damascus-syria-that-its-informal-ceasefire-with-israel-which-expires-at-the-end-of-the.md)
-_Context: Khaled Mashal, Damascus, Israel, Syria, Hamas_
+_Context: Khaled Mashal, Syria, Damascus, Hamas, Israel_
 
 ##### President
 ### [ President of Iran Mahmoud Ahmadinejad remarks that Israel should be moved to Europe and the "issue will be resolved." His remarks were widely condemned as Holocaust denial by Israeli, European and American politicians, The Secretary General of the United Nations, Kofi Annan, issued a statement indicating that he "was shocked", while Saudi, Turkish and Iranian officials criticized his speech because it undermined a Mecca summit dedicated to showing Islam's moderate face.](/news/2005/12/8/president-of-iran-mahmoud-ahmadinejad-remarks-that-israel-should-be-moved-to-europe-and-the-issue-will-be-resolved-his-remarks-were-wide.md)
@@ -21,23 +21,23 @@ A bomber jumped on a bus after security checks had been completed detonated an e
 
 ##### Croatia
 ### [ Croatian general Ante Gotovina, rated the third-most-wanted war criminal from the Yugoslav wars by the International Criminal Tribunal for the Former Yugoslavia, is arrested by Spanish police in Tenerife and extradited to face the tribunal in The Hague. ](/news/2005/12/8/croatian-general-ante-gotovina-rated-the-third-most-wanted-war-criminal-from-the-yugoslav-wars-by-the-international-criminal-tribunal-for.md)
-_Context: Ante Gotovina, International Criminal Tribunal for the Former Yugoslavia, war crime, Yugoslav wars, The Hague, Tenerife, Spain, Croatia_
+_Context: The Hague, Croatia, Yugoslav wars, Ante Gotovina, International Criminal Tribunal for the Former Yugoslavia, Tenerife, war crime, Spain_
 
 ##### Prime Minister
 ### [ Former Prime Minister of the United Kingdom Margaret Thatcher has left hospital after being given a clean bill of health by doctors after feeling faint yesterday. ](/news/2005/12/8/former-prime-minister-of-the-united-kingdom-margaret-thatcher-has-left-hospital-after-being-given-a-clean-bill-of-health-by-doctors-after-f.md)
-_Context: Margaret Thatcher, Prime Minister_
+_Context: Prime Minister, Margaret Thatcher_
 
 ##### International Federation of Red Cross and Red Crescent Societies
 ### [ The International Red Cross and Red Crescent Movement adopt a Red Crystal design, allowing Israel to join as a fully participating member. ](/news/2005/12/8/the-international-red-cross-and-red-crescent-movement-adopt-a-red-crystal-design-allowing-israel-to-join-as-a-fully-participating-member.md)
-_Context: Israel, Red Crystal, International Federation of Red Cross and Red Crescent Societies_
+_Context: Israel, International Federation of Red Cross and Red Crescent Societies, Red Crystal_
 
 ##### United Kingdom
 ### [ UK Law Lords rule in "A v. Secretary of State for the Home Department" that evidence which may have been obtained by torture cannot be used against suspects in terrorism cases. ](/news/2005/12/8/uk-law-lords-rule-in-a-v-secretary-of-state-for-the-home-department-that-evidence-which-may-have-been-obtained-by-torture-cannot-be-used.md)
-_Context: terrorism, A v. Secretary of State for the Home Department, Appellate Committee of the House of Lords, United Kingdom, torture_
+_Context: terrorism, United Kingdom, torture, Appellate Committee of the House of Lords, A v. Secretary of State for the Home Department_
 
 ##### Crips
 ### [ Lawyers for convicted murderer and Crips co-founder Stanley "Tookie" Williams meet with Governor of California Arnold Schwarzenegger in a final plea for clemency. ](/news/2005/12/8/lawyers-for-convicted-murderer-and-crips-co-founder-stanley-tookie-williams-meet-with-governor-of-california-arnold-schwarzenegger-in-a-f.md)
-_Context: Stanley Williams, Arnold Schwarzenegger, Crips, clemency, Governor of California_
+_Context: Crips, Governor of California, clemency, Stanley Williams, Arnold Schwarzenegger_
 
 ##### 
 ### [ In Australia, the voluntary student unionism (VSU) legislation has passed the Senate. ](/news/2005/12/8/in-australia-the-voluntary-student-unionism-vsu-legislation-has-passed-the-senate.md)

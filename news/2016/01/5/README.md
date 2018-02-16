@@ -41,7 +41,7 @@ TAIPEI • China will allow transit stops in Taiwan for flights from three Chine
 
 ##### People's Liberation Army Rocket Force
 ### [The Second Artillery Corps is re-organized into the People's Liberation Army Rocket Force.The People's Liberation Army Strategic Support Force is founded, with Gao Jin as its inaugural commander and Liu Fulian as Political Commissar.The Ground Force is re-organized under the People's Liberation Army Ground Force Command, under commander Li Zuocheng. ](/news/2016/01/5/the-second-artillery-corps-is-re-organized-into-the-people-s-liberation-army-rocket-force-the-people-s-liberation-army-strategic-support-for.md)
-_Context: Ground Force, Liu Fulian, People's Liberation Army Strategic Support Force, Gao Jin, People's Liberation Army Rocket Force, Li Zuocheng_
+_Context: Gao Jin, Li Zuocheng, People's Liberation Army Strategic Support Force, Liu Fulian, Ground Force, People's Liberation Army Rocket Force_
 
 ##### Deputy Communist Party Secretary
 ### [Former Beijing Deputy Communist Party Secretary Lu Xiwen is expelled from the Communist Party of China for "interfering with the market economy and law enforcement" and "living a luxurious lifestyle", among other offenses. ](/news/2016/01/5/former-beijing-deputy-communist-party-secretary-lu-xiwen-is-expelled-from-the-communist-party-of-china-for-interfering-with-the-market-econ.md)
@@ -49,7 +49,7 @@ _Context: Lu Xiwen, Deputy Communist Party Secretary_
 
 ##### 2016 U.S. presidential election
 ### [On January 18, 2016, the British Parliament will debate a petition, signed by more than 560,000 people, calling for the Home Secretary to ban United States Republican Party presidential candidate Donald Trump from entering the United Kingdom because of 'hate speech' that is unacceptable behavior, non-conducive to the public good. The conclusion reached by the lawmakers will not be binding on the UK government. ](/news/2016/01/5/on-january-18-2016-the-british-parliament-will-debate-a-petition-signed-by-more-than-560-000-people-calling-for-the-home-secretary-to-ba.md)
-_Context: United States, 10 Downing Street, 2016 U.S. presidential election, Home Secretary, Donald Trump, Parliament, United Kingdom, Republican Party presidential candidate, hate speech_
+_Context: 2016 U.S. presidential election, hate speech, Parliament, United Kingdom, Republican Party presidential candidate, 10 Downing Street, Donald Trump, United States, Home Secretary_
 
 ##### United Kingdom withdrawal from the European Union
 ### [The United Kingdom's Prime Minister David Cameron announces he will suspend collective responsibility ahead of the referendum on the country's EU membership, allowing ministers to campaign for the UK to leave the European Union. A member of his cabinet was reportedly due to resign over the issue within 24 hours. ](/news/2016/01/5/the-united-kingdom-s-prime-minister-david-cameron-announces-he-will-suspend-collective-responsibility-ahead-of-the-referendum-on-the-country.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2012/12/26/index.html)  [JSON](2012/12/26/index.json)  [XML](201
 
 ##### Afghans
 ### [A suicide bomber kills himself and three Afghans (a guard and two civilians) outside the perimeter of Forward Operating Base Chapman in Khost, Afghanistan, the scene of an earlier attack in December 2009. ](/news/2012/12/26/a-suicide-bomber-kills-himself-and-three-afghans-a-guard-and-two-civilians-outside-the-perimeter-of-forward-operating-base-chapman-in-khos.md)
-_Context: Afghans, Forward Operating Base Chapman, Afghanistan, Khost_
+_Context: Afghans, Afghan, Khost, Forward Operating Base Chapman_
 
 ##### Irish
 ### [The death is announced of Irish poet, essayist, critic and editor Dennis O'Driscoll at the age of 58. ](/news/2012/12/26/the-death-is-announced-of-irish-poet-essayist-critic-and-editor-dennis-o-driscoll-at-the-age-of-58.md)
@@ -29,7 +29,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Sinaloa
 ### [A total of nine unidentified individuals are shot to death in Sinaloa state, Mexico. ](/news/2012/12/26/a-total-of-nine-unidentified-individuals-are-shot-to-death-in-sinaloa-state-mexico.md)
-_Context: Mexican, Sinaloa_
+_Context: Sinaloa, Mexican_
 
 ##### Japan
 ### [Japan's new Prime Minister Shinzo Abe unveils his cabinet line-up as he begins the task of economic revitalisation. ](/news/2012/12/26/japan-s-new-prime-minister-shinza-abe-unveils-his-cabinet-line-up-as-he-begins-the-task-of-economic-revitalisation.md)
@@ -37,19 +37,19 @@ _Context: Shinzo Abe, Japan, Prime Minister of Japan_
 
 ##### President of South Africa
 ### [Former South African President and anti-apartheid leader Nelson Mandela, 94, in still-fragile health, is released from the hospital in Pretoria, South Africa to receive continuing at-home care. He had had his longest period of hospitalization (more than 2 weeks) there since his 1990 release from prison, as the result of a gallstone removal operation and a lung infection. ](/news/2012/12/26/former-south-african-president-and-anti-apartheid-leader-nelson-mandela-94-in-still-fragile-health-is-released-from-the-hospital-in-preto.md)
-_Context: Pretoria, Nelson Mandela, South Africa, gallstone, lung infection, President of South Africa_
+_Context: President of South Africa, South Africa, gallstone, lung infection, Nelson Mandela, Pretoria_
 
 ##### U.S. President
 ### [Former U.S. President, 88-year-old George H. W. Bush, still receiving visitors, remains hospitalized (since 23 November) at The Methodist Hospital in Houston, Texas, where he resides during the winter, with a receding bronchitis-like cough but with a now-rising and long-lasting fever, and has been put in intensive care on a liquids-only diet for unspecified reasons. ](/news/2012/12/26/former-u-s-president-88-year-old-george-h-w-bush-still-receiving-visitors-remains-hospitalized-since-23-november-at-the-methodist-ho.md)
-_Context: The Methodist Hospital, George H. W. Bush, Texas, Houston, bronchitis, U.S. President_
+_Context: The Methodist Hospital, U.S. President, George H. W. Bush, bronchitis, Houston, Texas_
 
 ##### Hawaii
 ### [Hawaii's Democratic Governor Neil Abercrombie appoints Lieutenant Governor Brian Schatz (a former state legislator and nonprofit group executive) to fill the term of the recently-deceased longtime Democratic U.S. Senator Daniel Inouye until 2014, when a special election will be called to fill the slot until 2016. His was one of three names known to have been submitted by the state party's central committee, along with an unnamed person and U.S. Democrat Colleen Hanabusa, whom Inouye had stated as his preferred successor hours before his death. ](/news/2012/12/26/hawaii-s-democratic-governor-neil-abercrombie-appoints-lieutenant-governor-brian-schatz-a-former-state-legislator-and-nonprofit-group-execu.md)
-_Context: United States Senate, Lieutenant Governor, Daniel Inouye, Democrat, U.S., Neil Abercrombie, Colleen Hanabusa, Governor, Hawaii, Brian Schatz_
+_Context: Hawaii, U.S., Brian Schatz, Democrat, Neil Abercrombie, United States Senate, Lieutenant Governor, Daniel Inouye, Colleen Hanabusa, Governor_
 
 ##### China
 ### [China officially opens the world's longest high-speed rail route, which links Beijing and Guangzhou. ](/news/2012/12/26/china-officially-opens-the-world-s-longest-high-speed-rail-route-which-links-beijing-and-guangzhou.md)
-_Context: world's longest, bullet train system, Guangzhou, China, route, Beijing, high-speed rail_
+_Context: world's longest, Beijing, China, route, bullet train system, Guangzhou, high-speed rail_
 
 ## [Previous Day...](/news/2012/12/25/index.md)
 

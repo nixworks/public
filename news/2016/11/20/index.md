@@ -5,7 +5,7 @@ Formats: [HTML](2016/11/20/index.html)  [JSON](2016/11/20/index.json)  [XML](201
 
 ##### Internal conflict in Myanmar
 ### [At least 8 people are killed and more than a dozen others are injured following an attack on Tatmadaw checkpoints, police outposts and the 105th Mile Trade Center by several insurgent groups in Muse, Shan State. The State Counselor's office issues a statement claiming that the Kachin Independence Army, Ta'ang National Liberation Army and Myanmar National Democratic Alliance Army were involved in the attack. ](/news/2016/11/20/at-least-8-people-are-killed-and-more-than-a-dozen-others-are-injured-following-an-attack-on-tatmadaw-checkpoints-police-outposts-and-the-1.md)
-_Context: Shan State, insurgent groups, Myanmar National Democratic Alliance Army, Internal conflict in Myanmar, police, Ta'ang National Liberation Army, security forces, Muse, Kachin Independence Army, State Counsellor_
+_Context: insurgent groups, Ta'ang National Liberation Army, Shan State, State Counsellor, police, Kachin Independence Army, security forces, Myanmar National Democratic Alliance Army, Internal conflict in Myanmar, Muse_
 
 ##### Syrian Civil War
 ### [Six people are killed in a suspected chlorine gas attack in Aleppo, Syria. ](/news/2016/11/20/six-people-are-killed-in-a-suspected-chlorine-gas-attack-in-aleppo-syria.md)
@@ -13,7 +13,7 @@ Rebel shelling killed eight children at a school in the government-held part of 
 
 ##### Turkish military intervention in Syria
 ### [A Turkish Army soldier is killed and two others injured in an ISIL bombing near the Syrian city of al-Bab. ](/news/2016/11/20/a-turkish-army-soldier-is-killed-and-two-others-injured-in-an-isil-bombing-near-the-syrian-city-of-al-bab.md)
-_Context: Turkish military intervention in Syria, Turkish Army, Syria, al-Bab_
+_Context: al-Bab, Turkish military intervention in Syria, Syria, Turkish Army_
 
 ##### Libyan Civil War (2014-present)
 ### [At least 16 people are killed and 50 others are wounded in clashes between rival tribes in Sabha, Libya after a monkey attacks a girl and pulls off her headscarf. ](/news/2016/11/20/at-least-16-people-are-killed-and-50-others-are-wounded-in-clashes-between-rival-tribes-in-sabha-libya-after-a-monkey-attacks-a-girl-and-pu.md)
@@ -29,7 +29,7 @@ The first named storm of winter - Storm Angus - is battering the south coast of 
 
 ##### 2016 South Korean political scandal
 ### [An interim report by South Korean prosecutors implicates President Park Geun-hye in a political scandal involving her close friend Choi Soon-sil. Three people have been indicted in relation to the scandal. President Park cannot be indicted due to a constitutional provision preventing a sitting President being indicted except for treason or insurrection. ](/news/2016/11/20/an-interim-report-by-south-korean-prosecutors-implicates-president-park-geun-hye-in-a-political-scandal-involving-her-close-friend-choi-soon.md)
-_Context: Park Geun-hye, Choi Soon-sil, 2016 South Korean political scandal, indicted, South Korea, treason, South Korean President_
+_Context: Park Geun-hye, 2016 South Korean political scandal, South Korean President, indicted, South Korea, treason, Choi Soon-sil_
 
 ##### Brazil
 ### [Four policemen are killed in Brazil after their helicopter is shot down by a "gang". ](/news/2016/11/20/four-policemen-are-killed-in-brazil-after-their-helicopter-is-shot-down-by-a-gang.md)

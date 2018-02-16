@@ -9,11 +9,11 @@ A double car bombing in the east Libyan city of Benghazi on Tuesday left at leas
 
 ##### 90th Academy Awards
 ### [The nominations for the upcoming Academy Awards are announced. Among the films nominated as the best of 2017 in film, "The Shape of Water" leads with thirteen nominations, with "Dunkirk" following behind with eight nominations. ](/news/2018/01/23/the-nominations-for-the-upcoming-academy-awards-are-announced-among-the-films-nominated-as-the-best-of-2017-in-film-the-shape-of-water-l.md)
-_Context: 2017 in film, 90th Academy Awards, Dunkirk, Academy Awards, The Shape of Water_
+_Context: 2017 in film, The Shape of Water, Dunkirk, Academy Awards, 90th Academy Awards_
 
 ##### Russia
 ### [Russia's Ministry of Culture bars the release of the British-French political satire film "The Death of Stalin" in the country after accusing the film of containing "ideological warfare" and "extremist" content. ](/news/2018/01/23/russia-s-ministry-of-culture-bars-the-release-of-the-britishafrench-political-satire-film-the-death-of-stalin-in-the-country-after-accus.md)
-_Context: The Death of Stalin, Russia, Ministry of Culture, political satire_
+_Context: Ministry of Culture, Russia, political satire, The Death of Stalin_
 
 ##### World Economic Forum
 ### [Various billionaires, world leaders, and investors gather in Davos, Switzerland to discuss economic issues. ](/news/2018/01/23/various-billionaires-world-leaders-and-investors-gather-in-davos-switzerland-to-discuss-economic-issues.md)
@@ -33,7 +33,7 @@ A mid-air collision between a small airplane and a helicopter in southern German
 
 ##### Haiti-United States relations
 ### [The United States closes its embassy in Port-au-Prince, Haiti, due to large-scale protests against the policy of U.S. President Donald Trump. ](/news/2018/01/23/the-united-states-closes-its-embassy-in-port-au-prince-haiti-due-to-large-scale-protests-against-the-policy-of-u-s-president-donald-trump.md)
-_Context: Haiti, Protests against Donald Trump, Haiti-United States relations, embassy, Port-au-Prince, Donald Trump, policy, United States, U.S. President_
+_Context: U.S. President, Haiti, Donald Trump, United States, policy, Protests against Donald Trump, Port-au-Prince, embassy, Haiti-United States relations_
 
 ##### School shooting
 ### [A school shooting at Marshall County High School in Draffenville, Kentucky kills two people and injures 19. The suspect is arrested. ](/news/2018/01/23/a-school-shooting-at-marshall-county-high-school-in-draffenville-kentucky-kills-two-people-and-injures-19-the-suspect-is-arrested.md)
@@ -41,7 +41,7 @@ At least two people were killed and 17 others were injured when a student opened
 
 ##### Politics of the United Kingdom
 ### [Theresa May criticizes Boris Johnson for airing National Health Service funding concerns outside private U.K. Cabinet meetings. ](/news/2018/01/23/theresa-may-criticizes-boris-johnson-for-airing-national-health-service-funding-concerns-outside-private-u-k-cabinet-meetings.md)
-_Context: Theresa May, U.K. Cabinet, Politics of the United Kingdom, National Health Service, Boris Johnson_
+_Context: government, Boris Johnson, Theresa May, National Health Service, Politics of the United Kingdom_
 
 ##### Venezuelan presidential election, 2018
 ### [The National Constituent Assembly approved a decree that calls for presidential elections before April 30. Incumbent Nicolas Maduro says he will compete for re-election. ](/news/2018/01/23/the-national-constituent-assembly-approved-a-decree-that-calls-for-presidential-elections-before-april-30-incumbent-nicola-s-maduro-says-he.md)
@@ -49,7 +49,7 @@ Should the presidential vote be perceived as fraudulent, further foreign sanctio
 
 ##### United States Senate
 ### [The United States Senate confirms Jerome Powell as chairman of the Federal Reserve Bank with 84 votes for and 13 against. ](/news/2018/01/23/the-united-states-senate-confirms-jerome-powell-as-chairman-of-the-federal-reserve-bank-with-84-votes-for-and-13-against.md)
-_Context: Federal Reserve Bank, United States Senate, Jerome Powell_
+_Context: Federal Reserve Bank, Jerome Powell, United States Senate_
 
 ##### Politics of Guatemala
 ### [President Jimmy Morales is questioned about the high costs he spends to buy food and other luxury items. ](/news/2018/01/23/president-jimmy-morales-is-questioned-about-the-high-costs-he-spends-to-buy-food-and-other-luxury-items.md)

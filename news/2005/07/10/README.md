@@ -3,9 +3,9 @@ Formats: [HTML](2005/07/10/index.html)  [JSON](2005/07/10/index.json)  [XML](200
 
 ## [2005-07-10](/news/2005/07/10/index.md)
 
-##### Afghanistan
+##### Afghan
 ### [ Ten Afghan soldiers are decapitated by Taliban insurgents in Afghanistan. ](/news/2005/07/10/ten-afghan-soldiers-are-decapitated-by-taliban-insurgents-in-afghanistan.md)
-_Context: Afghanistan_
+_Context: Afghan_
 
 ##### Dennis
 ### [ Hurricane Dennis makes landfall in the United States, slamming into the Florida Panhandle with 120 mph winds. ](/news/2005/07/10/hurricane-dennis-makes-landfall-in-the-united-states-slamming-into-the-florida-panhandle-with-120-mph-winds.md)
@@ -25,7 +25,7 @@ _Context: Azerbaijan_
 
 ##### Karl Rove
 ### [ Karl Rove's lawyer, Robert Luskin, acknowledges that Rove was connected to the leak that led to the revelation of Valerie Plame's position as a CIA agent. Luskin confirmed that Rove had been interviewed by Cooper for the article. It is unclear, however, what passed between Cooper and Rove. "Rove did not mention her name to Cooper," Luskin said. "This was not an effort to encourage "Time" [magazine] to disclose her identity. What he was doing was discouraging "Time" from perpetuating some statements that had been made publicly and weren't true." Luskin had previously said that Rove "absolutely did not identify Valerie Plame." ](/news/2005/07/10/karl-rove-s-lawyer-robert-luskin-acknowledges-that-rove-was-connected-to-the-leak-that-led-to-the-revelation-of-valerie-plame-s-position.md)
-_Context: Robert Luskin, Karl Rove, Valerie Plame_
+_Context: Valerie Plame, Karl Rove, Robert Luskin_
 
 ##### Turkey
 ### [ In Turkey, bomb in Cesme injures 22. Group called the Kurdish Liberation Hawks takes responsibility ](/news/2005/07/10/in-turkey-bomb-in-cesme-injures-22-group-called-the-kurdish-liberation-hawks-takes-responsibility.md)

@@ -29,7 +29,7 @@ The tragedy was a reminder that despite President Putin’s star turn on the wor
 
 ##### 2016 Indonesian Air Force Lockheed C-130 Hercules crash
 ### [An Indonesian military Lockheed C-130 Hercules transport plane crashes in Papua province killing all 13 people on board. ](/news/2016/12/18/an-indonesian-military-lockheed-c-130-hercules-transport-plane-crashes-in-papua-province-killing-all-13-people-on-board.md)
-_Context: Indonesia, Papua, 2016 Indonesian Air Force Lockheed C-130 Hercules crash, Lockheed C-130 Hercules_
+_Context: Lockheed C-130 Hercules, 2016 Indonesian Air Force Lockheed C-130 Hercules crash, Papua, Indonesia_
 
 ##### Gambian presidential election, 2016
 ### [Leaders from the West African bloc ECOWAS and from the Organization of Islamic Cooperation plead with Gambian long-time President Yahya Jammeh who lost in the recently held elections to step aside or face consequences. ](/news/2016/12/18/leaders-from-the-west-african-bloc-ecowas-and-from-the-organization-of-islamic-cooperation-plead-with-gambian-long-time-president-yahya-jamm.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2017/11/12/index.html)  [JSON](2017/11/12/index.json)  [XML](201
 
 ##### 2017 in the Central African Republic
 ### [A grenade attack at a peace concert in Bangui, Central African Republic, kills seven and injures 20. ](/news/2017/11/12/a-grenade-attack-at-a-peace-concert-in-bangui-central-african-republic-kills-seven-and-injures-20.md)
-_Context: Central African Republic, 2017 in the Central African Republic, Bangui_
+_Context: 2017 in the Central African Republic, Central African Republic, Bangui_
 
 ##### #MeToo
 ### [Hundreds of sexual abuse victims and their supporters march in Hollywood, California. ](/news/2017/11/12/hundreds-of-sexual-abuse-victims-and-their-supporters-march-in-hollywood-california.md)
@@ -25,7 +25,7 @@ At least 16 people died on Sunday when a tourist boat capsized in the southern I
 
 ##### 2017 Costa Rica earthquake
 ### [Costa Rica is hit by a 6.5 magnitude earthquake at Jaco near the capital San Jose. No immediate reports of casualties or damage. ](/news/2017/11/12/costa-rica-is-hit-by-a-6-5-magnitude-earthquake-at-jaca3-near-the-capital-san-josa-c-no-immediate-reports-of-casualties-or-damage.md)
-_Context: Costa Rica, Jaco, San Jose, 2017 Costa Rica earthquake, magnitude_
+_Context: 2017 Costa Rica earthquake, San Jose, magnitude, Costa Rica, Jaco_
 
 ##### Equatorial Guinean legislative election, 2017
 ### [As the people of Equatorial Guinea vote in the legislative election, the government blocks access to the internet and bans private vehicles. Observers predict the Democratic Party of Equatorial Guinea will win the election. ](/news/2017/11/12/as-the-people-of-equatorial-guinea-vote-in-the-legislative-election-the-government-blocks-access-to-the-internet-and-bans-private-vehicles.md)

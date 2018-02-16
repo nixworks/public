@@ -7,13 +7,13 @@ Formats: [HTML](2010/07/12/index.html)  [JSON](2010/07/12/index.json)  [XML](201
 ### [A new cap on the destroyed oil well is put in place, and will undergo more than 2 days of testing. ](/news/2010/07/12/a-new-cap-on-the-destroyed-oil-well-is-put-in-place-and-will-undergo-more-than-2-days-of-testing.md)
 After a government review concluded that pressure tests of a new containment cap would not make the Gulf oil spill worse, BP on Wednesday began the testing.
 
-##### Afghanistan
+##### Afghan
 ### [Afghan rights group Afghanistan Rights Monitor (ARM) releases its report stating that 2010 has been the most violent in the landlocked country since the United States led an invasion in 2001, though notes a reduction in airstrikes - a policy favoured by former General Stanley A. McChrystal - has led to less civilian deaths via this method in 2010. ](/news/2010/07/12/afghan-rights-group-afghanistan-rights-monitor-arm-releases-its-report-stating-that-2010-has-been-the-most-violent-in-the-landlocked-count.md)
 Afghan rights group says current year has been the most violent since US-led invasion.
 
 ##### Opens fire
 ### [A gunman opens fire at a fiber optics plant in Albuquerque, New Mexico, killing two and wounding four before committing suicide. ](/news/2010/07/12/a-gunman-opens-fire-at-a-fiber-optics-plant-in-albuquerque-new-mexico-killing-two-and-wounding-four-before-committing-suicide.md)
-_Context: opens fire, fiber optics, suicide, New Mexico, Albuquerque, New Mexico_
+_Context: fiber optics, opens fire, New Mexico, suicide, Albuquerque, New Mexico_
 
 ##### German
 ### [At least eight people are injured after a tornado strikes the German island of Duene in the North Sea. ](/news/2010/07/12/at-least-eight-people-are-injured-after-a-tornado-strikes-the-german-island-of-duene-in-the-north-sea.md)
@@ -61,7 +61,7 @@ The International Criminal Court (ICC) yesterday charged Sudanese President Omar
 
 ##### Cuba
 ### [Cuba releases 7 political prisoners and sends them into exile in Spain, the first in a wave of 52. ](/news/2010/07/12/cuba-releases-7-political-prisoners-and-sends-them-into-exile-in-spain-the-first-in-a-wave-of-52.md)
-_Context: political prisoner, Cuba, exile_
+_Context: exile, Cuba, political prisoner_
 
 ##### Italy
 ### [Italian military police general Giampaolo Ganzer is sentenced to 14 years imprisonment and fined EUR65,000 for drug smuggling between 1991 and 1997. ](/news/2010/07/12/italian-military-police-general-giampaolo-ganzer-is-sentenced-to-14-years-imprisonment-and-fined-a-65-000-for-drug-smuggling-between-1991-a.md)
@@ -77,11 +77,11 @@ Two men who organised a controversial art exhibition in Moscow are found guilty 
 
 ##### Jon Bon Jovi
 ### [Singer Jon Bon Jovi opts to continue with Bon Jovi's world concert tour despite tearing his calf muscle at the end of a concert in New Jersey. ](/news/2010/07/12/singer-jon-bon-jovi-opts-to-continue-with-bon-jovi-s-world-concert-tour-despite-tearing-his-calf-muscle-at-the-end-of-a-concert-in-new-jerse.md)
-_Context: New Jersey, Jon Bon Jovi, Bon Jovi_
+_Context: New Jersey, Bon Jovi, Jon Bon Jovi_
 
 ##### Spain
 ### [Spain's victorious 2010 FIFA World Cup "campeones" return to Madrid where they are met by millions of people in the streets, the royal family and politicians. ](/news/2010/07/12/spain-s-victorious-2010-fifa-world-cup-campeones-return-to-madrid-where-they-are-met-by-millions-of-people-in-the-streets-the-royal-famil.md)
-_Context: 2010 FIFA World Cup, Spain, 2010 FIFA World Cup Final, Madrid_
+_Context: 2010 FIFA World Cup Final, Madrid, Spain, 2010 FIFA World Cup_
 
 ##### Paul the Octopus
 ### [Paul the Octopus retires. ](/news/2010/07/12/paul-the-octopus-retires.md)

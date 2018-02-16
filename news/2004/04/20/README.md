@@ -9,19 +9,19 @@ _Context: Circle MRT Line, Singapore_
 
 ##### Saudi Arabia
 ### [ A spokesman for Saudi Arabia strongly denies John Kerry's assertion that it had made an agreement with United States President George W. Bush to manipulate the price of oil for political purposes as the U.S. election approaches. The assertion stems from material in Bob Woodward's new book, "Plan of Attack", detailing the Bush Administration's preparation for the invasion of Iraq. ](/news/2004/04/20/a-spokesman-for-saudi-arabia-strongly-denies-john-kerry-s-assertion-that-it-had-made-an-agreement-with-united-states-president-george-w-bu.md)
-_Context: Plan of Attack, 2004 U.S. presidential candidate, Saudi Arabia, George W. Bush, OPEC, 2003 invasion of Iraq, Bob Woodward, John Kerry_
+_Context: 2004 U.S. presidential candidate, Bob Woodward, OPEC, John Kerry, 2003 invasion of Iraq, Plan of Attack, Saudi Arabia, George W. Bush_
 
 ##### United Kingdom referendum on the European Constitution
 ### [ United Kingdom referendum on the European Constitution: P.M. Tony Blair confirms that a referendum will be held on the UK's ratification of the future EU constitution. ](/news/2004/04/20/united-kingdom-referendum-on-the-european-constitution-p-m-tony-blair-confirms-that-a-referendum-will-be-held-on-the-uk-s-ratification-of.md)
-_Context: Tony Blair, referendum, EU constitution, United Kingdom referendum on the European Constitution, British Prime Minister_
+_Context: British Prime Minister, referendum, EU constitution, Tony Blair, United Kingdom referendum on the European Constitution_
 
 ##### NASA
 ### [ NASA launches Gravity Probe B in an effort to test Einstein's general theory of relativity. ](/news/2004/04/20/nasa-launches-gravity-probe-b-in-an-effort-to-test-einstein-s-general-theory-of-relativity.md)
-_Context: NASA, Gravity Probe B, general theory of relativity, Albert Einstein_
+_Context: NASA, general theory of relativity, Albert Einstein, Gravity Probe B_
 
 ##### Mortar fire
 ### [ 12 mortars were fired on Abu Ghraib Prison by insurgents. 22 detainees were killed and 92 wounded. Iraqi security forces who fled the fighting in Fallujah begin to return to the city. ](/news/2004/04/20/12-mortars-were-fired-on-abu-ghraib-prison-by-insurgents-22-detainees-were-killed-and-92-wounded-iraqi-security-forces-who-fled-the-fight.md)
-_Context: Mortar fire, Iraq, Abu Ghraib Prison, Fallujah_
+_Context: Fallujah, Iraq, Mortar fire, Abu Ghraib Prison_
 
 ## [Previous Day...](/news/2004/04/19/index.md)
 

@@ -17,15 +17,15 @@ The World Health Organization announced Thursday that it has convened an emergen
 
 ##### Territorial disputes in the South China Sea
 ### [The President of Taiwan Ma Ying-jeou visits Taiping Island, Taiwan's largest island in the South China Sea, despite the United States warning it could provoke diplomatic tensions with the People's Republic of China and other nations in the area. ](/news/2016/01/28/the-president-of-taiwan-ma-ying-jeou-visits-taiping-island-taiwan-s-largest-island-in-the-south-china-sea-despite-the-united-states-warnin.md)
-_Context: Territorial disputes in the South China Sea, Taiping Island, United States, South China Sea, Taiwan, Ma Ying-jeou, President of Taiwan, China_
+_Context: President of Taiwan, South China Sea, Ma Ying-jeou, Taiwan, Taiping Island, China, United States, Territorial disputes in the South China Sea_
 
 ##### European migrant crisis
 ### [Swedish Interior Minister Anders Ygeman tells financial newspaper "Dagens Industri" that Sweden is disallowing about 45 percent of asylum applications which means around 60,000-80,000 asylum-seekers could be deported in coming years. ](/news/2016/01/28/swedish-interior-minister-anders-ygeman-tells-financial-newspaper-dagens-industri-that-sweden-is-disallowing-about-45-percent-of-asylum-ap.md)
-_Context: Dagens Industri, refugees, Interior Minister, asylum applications, European migrant crisis, Anders Ygeman, Sweden_
+_Context: Sweden, Interior Minister, asylum applications, European migrant crisis, Anders Ygeman, Dagens Industri, refugees_
 
 ##### Russo-Georgian War
 ### [Georgia welcomes the ICC's investigation into alleged war crimes committed during the 2008 South Ossetia war, which will be the first inquiry by the ICC into possible abuses by Moscow and-or Georgia. ](/news/2016/01/28/georgia-welcomes-the-icc-s-investigation-into-alleged-war-crimes-committed-during-the-2008-south-ossetia-war-which-will-be-the-first-inquir.md)
-_Context:  Georgian, ICC, Russo-Georgian War, 2008 South Ossetia war_
+_Context: 2008 South Ossetia war, ICC, Russo-Georgian War,  Georgian_
 
 ##### President of the Ivory Coast
 ### [The trial of former President of the Ivory Coast Laurent Gbagbo for crimes against humanity begins at the International Criminal Court in The Hague. ](/news/2016/01/28/the-trial-of-former-president-of-the-ivory-coast-laurent-gbagbo-for-crimes-against-humanity-begins-at-the-international-criminal-court-in-th.md)

@@ -13,11 +13,11 @@ _Context: Johnson Beharry, Victoria Cross_
 
 ##### Palestinians
 ### [ Two Palestinians, both aged 15, are arrested in a checkpoint near Jenin after 11 explosive charges were found on them. One teenager told interrogators that he was recruited to act as a couriers by the Palestinian Islamic Jihad and the second by the al-Aqsa Martyrs' Brigades. ](/news/2005/04/27/two-palestinians-both-aged-15-are-arrested-in-a-checkpoint-near-jenin-after-11-explosive-charges-were-found-on-them-one-teenager-told-in.md)
-_Context: al-Aqsa Martyrs' Brigades, Palestinian Islamic Jihad, Jenin, Palestinians_
+_Context: Jenin, al-Aqsa Martyrs' Brigades, Palestinians, Palestinian Islamic Jihad_
 
 ##### Airbus
 ### [ The new Airbus A380 performs its maiden flight, in Toulouse, France. The A380 replaces the Boeing 747 ("jumbo jet") as the world's largest passenger plane. ](/news/2005/04/27/the-new-airbus-a380-performs-its-maiden-flight-in-toulouse-france-the-a380-replaces-the-boeing-747-jumbo-jet-as-the-world-s-largest.md)
-_Context: Boeing Company, France, Boeing 747, A380, Toulouse, Airbus, airliner, maiden flight_
+_Context: Airbus, airliner, Boeing Company, Boeing 747, France, maiden flight, A380, Toulouse_
 
 ##### Death toll
 ### [ The death toll in the Amagasaki rail crash in Japan exceeds 91, and may increase to over 100. ](/news/2005/04/27/the-death-toll-in-the-amagasaki-rail-crash-in-japan-exceeds-91-and-may-increase-to-over-100.md)
@@ -41,7 +41,7 @@ _Context: elections in Lebanon, May 29_
 
 ##### Colombia
 ### [ Colombian president lvaro Uribe sacks four top army generals for disagreeing with his army reforms. ](/news/2005/04/27/colombian-president-alvaro-uribe-sacks-four-top-army-generals-for-disagreeing-with-his-army-reforms.md)
-_Context: lvaro Uribe, general, Colombia_
+_Context: general, Colombia, lvaro Uribe_
 
 ##### Togo
 ### [ In Togo, opposition resistance against election victory of Faure Gnassingb escalates into violence. At least 33 have died in the clashes. Opposition leader Bob Akitani declares himself president. ](/news/2005/04/27/in-togo-opposition-resistance-against-election-victory-of-faure-gnassingbe-escalates-into-violence-at-least-33-have-died-in-the-clashes.md)
@@ -53,11 +53,11 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Amnesty International
 ### [ Amnesty International appeals to the government of Yemen to stop execution of Amina Ali Abduladif. She is sentenced to death for murder and the execution is to take place May 2. ](/news/2005/04/27/amnesty-international-appeals-to-the-government-of-yemen-to-stop-execution-of-amina-ali-abduladif-she-is-sentenced-to-death-for-murder-and.md)
-_Context: Amina Ali Abduladif, Amnesty International, May 2, execution, Yemen, murder_
+_Context: Yemen, execution, May 2, murder, Amina Ali Abduladif, Amnesty International_
 
 ##### Zimbabwe
 ### [ Zimbabwe opposition party Movement for Democratic Change says that the country has run out of maize grain and asks Robert Mugabe to apply for foreign food aid. ](/news/2005/04/27/zimbabwe-opposition-party-movement-for-democratic-change-says-that-the-country-has-run-out-of-maize-grain-and-asks-robert-mugabe-to-apply-f.md)
-_Context: Zimbabwe, Robert Mugabe, food aid, maize, Movement for Democratic Change_
+_Context: food aid, Robert Mugabe, Zimbabwe, Movement for Democratic Change, maize_
 
 ##### India
 ### [ In India, Gautam Goswami, director of flood relief in Bihar, is accused of misdirecting funds. He denies any wrongdoing. ](/news/2005/04/27/in-india-gautam-goswami-director-of-flood-relief-in-bihar-is-accused-of-misdirecting-funds-he-denies-any-wrongdoing.md)
@@ -65,19 +65,19 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 ##### Cherif Bassiouni
 ### [ Cherif Bassiouni, former United Nations human rights envoy to Afghanistan, says he lost his job due to US pressure. ](/news/2005/04/27/cherif-bassiouni-former-united-nations-human-rights-envoy-to-afghanistan-says-he-lost-his-job-due-to-us-pressure.md)
-_Context: United Nations, Afghanistan, human rights, Cherif Bassiouni, United States of America_
+_Context: United States of America, human rights, Cherif Bassiouni, Afghan, United Nations_
 
 ##### John Gudenus
 ### [ John Gudenus of the Austrian Freedom Party causes controversy when he questions the existence of Nazi gas chambers and later leaves the party. ](/news/2005/04/27/john-gudenus-of-the-austrian-freedom-party-causes-controversy-when-he-questions-the-existence-of-nazi-gas-chambers-and-later-leaves-the-par.md)
-_Context: John Gudenus, Austria, Freedom Party of Austria, Nazism_
+_Context: Austria, Freedom Party of Austria, John Gudenus, Nazism_
 
 ##### Vietnam
 ### [ In Vietnam, six people are arrested for trying to sell human remains as remains of MIA US soldiers. ](/news/2005/04/27/in-vietnam-six-people-are-arrested-for-trying-to-sell-human-remains-as-remains-of-mia-us-soldiers.md)
-_Context: Vietnam, United States, MIA_
+_Context: MIA, Vietnam, United States_
 
 ##### Cte d'Ivoire
 ### [ In Cte d'Ivoire, opposition leader Alassane Ouattara welcomes President Laurent Gbagbo's decision to let him contest elections. South African president Thabo Mbeki welcomes it as well. ](/news/2005/04/27/in-cote-d-ivoire-opposition-leader-alassane-ouattara-welcomes-president-laurent-gbagbo-s-decision-to-let-him-contest-elections-south-afri.md)
-_Context: Alassane Ouattara, Thabo Mbeki, Laurent Gbagbo, Cte d'Ivoire, South Africa_
+_Context: Laurent Gbagbo, South Africa, Alassane Ouattara, Thabo Mbeki, Cte d'Ivoire_
 
 ## [Previous Day...](/news/2005/04/26/index.md)
 

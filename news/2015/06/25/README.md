@@ -25,15 +25,15 @@ A recovery team will attempt to reach the wreckage of a sightseeing plane Friday
 
 ##### India
 ### [India offers Nepal an additional billion dollars to help it recover from the April 2015 Nepal earthquake. ](/news/2015/06/25/india-offers-nepal-an-additional-billion-dollars-to-help-it-recover-from-the-april-2015-nepal-earthquake.md)
-_Context: Nepal, India, suspicions_
+_Context: India, Nepal, suspicions_
 
 ##### South Africa
 ### [South Africa reviews its participation in the International Criminal Court following a failed attempt to arrest the President of Sudan, Omar al-Bashir, on South African soil. ](/news/2015/06/25/south-africa-reviews-its-participation-in-the-international-criminal-court-following-a-failed-attempt-to-arrest-the-president-of-sudan-omar.md)
-_Context: ICC, President of Sudan, Omar al-Bashir, South Africa_
+_Context: ICC, Omar al-Bashir, South Africa, President of Sudan_
 
 ##### Prime Minister of Haiti
 ### [The Prime Minister of Haiti Evans Paul accuses the Dominican Republic of causing a humanitarian crisis by mass deportation of people mainly from Haiti. ](/news/2015/06/25/the-prime-minister-of-haiti-evans-paul-accuses-the-dominican-republic-of-causing-a-humanitarian-crisis-by-mass-deportation-of-people-mainly.md)
-_Context: Haiti, Prime Minister of Haiti, Dominican Republic, Evans Paul_
+_Context: Evans Paul, Dominican Republic, Prime Minister of Haiti, Haiti_
 
 ##### Committee to Protect Journalists
 ### [The Committee to Protect Journalists claims that the Government of Egypt has incarcerated 18 journalists, mostly from Al-Jazeera. ](/news/2015/06/25/the-committee-to-protect-journalists-claims-that-the-government-of-egypt-has-incarcerated-18-journalists-mostly-from-al-jazeera.md)
@@ -53,7 +53,7 @@ The Supreme Court upheld the use of federal financial aid for more than 6 millio
 
 ##### United States House of Representatives
 ### [The United States House of Representatives votes to grant President Barack Obama fast track authority for the Trans-Pacific Partnership. ](/news/2015/06/25/the-united-states-house-of-representatives-votes-to-grant-president-barack-obama-fast-track-authority-for-the-trans-pacific-partnership.md)
-_Context: United States House of Representatives, Trans-Pacific Partnership, Barack Obama, U.S. President_
+_Context: U.S. President, Trans-Pacific Partnership, Barack Obama, United States House of Representatives_
 
 ## [Previous Day...](/news/2015/06/24/index.md)
 

@@ -21,7 +21,7 @@ The first official painting of the Duchess of Cambridge goes on display at the N
 
 ##### Landslide
 ### [18 people die after a landslide buries a village in the Yunnan province of China, while 40 people are feared to be buried. ](/news/2013/01/11/18-people-die-after-a-landslide-buries-a-village-in-the-yunnan-province-of-china-while-40-people-are-feared-to-be-buried.md)
-_Context: landslide, China, Yunnan_
+_Context: China, Yunnan, landslide_
 
 ##### Bus
 ### [29 people die and 12 people are injured after a bus veers off a mountain road in Doti, Nepal. ](/news/2013/01/11/29-people-die-and-12-people-are-injured-after-a-bus-veers-off-a-mountain-road-in-doti-nepal.md)
@@ -33,7 +33,7 @@ A fire at a building housing workers in the Bahraini capital Manama kills 13 peo
 
 ##### Metropolitan Police
 ### [The Metropolitan Police and NSPCC have confirmed 214 separate sexual offences committed by Jimmy Savile over a period of fifty years. ](/news/2013/01/11/the-metropolitan-police-and-nspcc-have-confirmed-214-separate-sexual-offences-committed-by-jimmy-savile-over-a-period-of-fifty-years.md)
-_Context: Jimmy Savile sexual abuse scandal, NSPCC, Jimmy Savile, Metropolitan Police_
+_Context: Jimmy Savile sexual abuse scandal, Metropolitan Police, Jimmy Savile, NSPCC_
 
 ##### Hostage situation
 ### [Three people are injured after a hostage situation takes place in a Nordstrom Rack chain in the neighborhood of Westchester in Los Angeles, California. ](/news/2013/01/11/three-people-are-injured-after-a-hostage-situation-takes-place-in-a-nordstrom-rack-chain-in-the-neighborhood-of-westchester-in-los-angeles.md)

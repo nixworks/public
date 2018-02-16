@@ -33,11 +33,11 @@ Gunman Raoul Moat told social workers he wanted to see a psychiatrist months bef
 
 ##### Francois-Marie Banier
 ### [Four people, including celebrity photographer Francois-Marie Banier, are arrested in a tax-evasion investigation into L'Oreal heiress Liliane Bettencourt. ](/news/2010/07/15/four-people-including-celebrity-photographer-franassois-marie-banier-are-arrested-in-a-tax-evasion-investigation-into-l-ora-c-al-heiress-lili.md)
-_Context: L'Oreal, Francois-Marie Banier, Liliane Bettencourt_
+_Context: Francois-Marie Banier, L'Oreal, Liliane Bettencourt_
 
 ##### Robbie Williams
 ### [Robbie Williams and Take That reunite. ](/news/2010/07/15/robbie-williams-and-take-that-reunite.md)
-_Context: Take That, Robbie Williams_
+_Context: Robbie Williams, Take That_
 
 ##### Iran
 ### [Shahram Amiri, the Iranian nuclear scientist who says he was abducted by the United States Central Intelligence Agency, returns to Tehran. ](/news/2010/07/15/shahram-amiri-the-iranian-nuclear-scientist-who-says-he-was-abducted-by-the-united-states-central-intelligence-agency-returns-to-tehran.md)
@@ -49,15 +49,15 @@ The 10 Russian spies deported from the US will undergo three weeks of rigorous t
 
 ##### North Korea
 ### [North Korean officials attend a rare meeting with members of the American-led United Nations Command. ](/news/2010/07/15/north-korean-officials-attend-a-rare-meeting-with-members-of-the-american-led-united-nations-command.md)
-_Context: United Nations Command, North Korea_
+_Context: North Korea, United Nations Command_
 
 ##### Venezuelan President
 ### [President of Venezuela Hugo Chavez orders a review of Venezuela's ties with the Vatican following tensions between the government and Roman Catholic bishops. ](/news/2010/07/15/president-of-venezuela-hugo-cha-vez-orders-a-review-of-venezuela-s-ties-with-the-vatican-following-tensions-between-the-government-and-roman.md)
-_Context: Hugo Chavez, Venezuelan government, Roman Catholic, Venezuela, bishop, Holy See, Venezuelan President_
+_Context: bishop, Holy See, Venezuelan government, Hugo Chavez, Roman Catholic, Venezuela, Venezuelan President_
 
 ##### Decree
 ### [The Vatican issues a decree making the "attempted ordination of women" a grave crime in ecclesiastical law equivalent to child sexual abuse. ](/news/2010/07/15/the-vatican-issues-a-decree-making-the-attempted-ordination-of-women-a-grave-crime-in-ecclesiastical-law-equivalent-to-child-sexual-abuse.md)
-_Context: sexually assaulted, ecclesiastical law, decree, ordination of women_
+_Context: sexually assaulted, decree, ecclesiastical law, ordination of women_
 
 ##### Gambia
 ### [A Gambian judge sentences eight men to death for their role in an alleged coup plot. ](/news/2010/07/15/a-gambian-judge-sentences-eight-men-to-death-for-their-role-in-an-alleged-coup-plot.md)
@@ -83,9 +83,9 @@ Right group paints bleak picture of health system lacking even basic necessities
 ### [Argentina becomes the first Latin American country to legalise same-sex marriage. ](/news/2010/07/15/argentina-becomes-the-first-latin-american-country-to-legalise-same-sex-marriage.md)
 Argentina becomes the first Latin American country to legalise gay marriage after the Senate votes in favour.
 
-##### President
+##### President of Mexico
 ### [President of Mexico Felipe Calderon replaces his Secretary of the Interior, Fernando Gomez Mont, after weeks of speculation. ](/news/2010/07/15/president-of-mexico-felipe-caldera3n-replaces-his-secretary-of-the-interior-fernando-gomez-mont-after-weeks-of-speculation.md)
-_Context: President, Fernando Gomez Mont, Felipe Calderon, Secretary of the Interior_
+_Context: Secretary of the Interior, Felipe Calderon, President of Mexico, Fernando Gomez Mont_
 
 ##### CBS
 ### [Two major US TV networks, CBS and NBC, censor the "Kill the Ground Zero Mosque" advertisement by conservative group National Republican Trust which calls plans to erect a mosque near New York City's Ground Zero a "monstrosity". ](/news/2010/07/15/two-major-us-tv-networks-cbs-and-nbc-censor-the-kill-the-ground-zero-mosque-advertisement-by-conservative-group-national-republican-trus.md)
@@ -97,7 +97,7 @@ Dick Cheney, the former US Vice President, has undergone heart surgery, he has a
 
 ##### President
 ### [President of Brazil Luiz Inacio Lula da Silva sends to Congress a bill proposing that corporal punishment, including spanking, be outlawed. ](/news/2010/07/15/president-of-brazil-luiz-ina-cio-lula-da-silva-sends-to-congress-a-bill-proposing-that-corporal-punishment-including-spanking-be-outlawed.md)
-_Context: Luiz Inacio Lula da Silva, president, corporal punishment, spanking_
+_Context: spanking, Luiz Inacio Lula da Silva, president, corporal punishment_
 
 ##### United States
 ### [The United States Senate passes the financial reform package, aimed at curbing misconduct on Wall Street, with a 60-39 vote. ](/news/2010/07/15/the-united-states-senate-passes-the-financial-reform-package-aimed-at-curbing-misconduct-on-wall-street-with-a-60-39-vote.md)
@@ -117,7 +117,7 @@ Workers at the World Trade Center site excavate a ship believed to have been bur
 
 ##### Primate
 ### [Researchers discover a new species of fossil primate, "Saadanius hijazensis" which could be a common ancestor of Old World Monkeys and apes, including humans. ](/news/2010/07/15/researchers-discover-a-new-species-of-fossil-primate-saadanius-hijazensis-which-could-be-a-common-ancestor-of-old-world-monkeys-and-apes.md)
-_Context: primate, Old World Monkey, Saadanius hijazensis, ape_
+_Context: primate, Saadanius hijazensis, ape, Old World Monkey_
 
 ##### Golf
 ### [Golfer Rory McIlroy ties the record for lowest score (9-under par) at a major championship. ](/news/2010/07/15/golfer-rory-mcilroy-ties-the-record-for-lowest-score-9-under-par-at-a-major-championship.md)
@@ -129,7 +129,7 @@ _Context: Caster Semenya, 800 metres_
 
 ##### Controversial
 ### [Controversial French footballer Thierry Henry retires from international football. ](/news/2010/07/15/controversial-french-footballer-thierry-henry-retires-from-international-football.md)
-_Context: Controversial, Thierry Henry_
+_Context: Thierry Henry, Controversial_
 
 ##### Zoo Aquarium de Madrid
 ### [Zoo Aquarium de Madrid bids for Paul the Octopus. ](/news/2010/07/15/zoo-aquarium-de-madrid-bids-for-paul-the-octopus.md)

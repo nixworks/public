@@ -5,11 +5,11 @@ Formats: [HTML](2010/03/12/index.html)  [JSON](2010/03/12/index.json)  [XML](201
 
 ##### 2010 Indian Premier League
 ### [The 2010 Indian Premier League starts under "heavy security" in DY Patil Stadium Navi Mumbai. ](/news/2010/03/12/the-2010-indian-premier-league-starts-under-heavy-security-in-dy-patil-stadium-navi-mumbai.md)
-_Context: 2010 Indian Premier League, Navi Mumbai, DY Patil Stadium_
+_Context: Navi Mumbai, 2010 Indian Premier League, DY Patil Stadium_
 
 ##### Madagascar
 ### [Madagascar's disaster officials say at least 14 people have died and 32,000 have been affected by Tropical Storm Hubert. ](/news/2010/03/12/madagascar-s-disaster-officials-say-at-least-14-people-have-died-and-32-000-have-been-affected-by-tropical-storm-hubert.md)
-_Context: Tropical Storm Hubert, Madagascar_
+_Context: Madagascar, Tropical Storm Hubert_
 
 ##### Suicide bombing
 ### [Nine suicide bombing attacks on the Pakistani military kill more than 350 people in Lahore. ](/news/2010/03/12/nine-suicide-bombing-attacks-on-the-pakistani-military-kill-more-than-350-people-in-lahore.md)
@@ -21,7 +21,7 @@ In response to rocket fired at Eshkol Regional Council, Israeli jets strikes smu
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI is "distraught" by news alleged of child sexual abuse in Catholic dioceses in Germany, according to Archbishop Robert Zollitsch, as the church also faces paedophilia scandals in Ireland, Austria, and the Netherlands, while Pope Benedict defends clerical celibacy, calling it a symbol of "full devotion" and of "giving oneself to God and to others." ](/news/2010/03/12/pope-benedict-xvi-is-distraught-by-news-alleged-of-child-sexual-abuse-in-catholic-dioceses-in-germany-according-to-archbishop-robert-zoll.md)
-_Context: sexual abuse, Irish, Netherlands, German, Austria, celibacy, paedophilia, Robert Zollitsch, Pope Benedict XVI_
+_Context: Robert Zollitsch, Netherlands, Pope Benedict XVI, German, paedophilia, sexual abuse, Austria, celibacy, Irish_
 
 ##### Karl Rove
 ### [Karl Rove appears on British television to promote waterboarding and speaks of his pride that "we used techniques that broke the will of these terrorists", saying these techniques were "appropriate". ](/news/2010/03/12/karl-rove-appears-on-british-television-to-promote-waterboarding-and-speaks-of-his-pride-that-we-used-techniques-that-broke-the-will-of-the.md)
@@ -29,7 +29,7 @@ A top aide to former US president George W Bush has defended the use of harsh in
 
 ##### Arabic Network for Human Rights Information
 ### [The Arabic Network for Human Rights Information and the Committee to Protect Journalists (CPJ) alleges the Egyptian interior ministry manipulated the legal system to target blogger Wael Abbas who posted videos of police corruption and abuse online and has been jailed for six months for "providing a telecommunications service to the public without permission". ](/news/2010/03/12/the-arabic-network-for-human-rights-information-and-the-committee-to-protect-journalists-cpj-alleges-the-egyptian-interior-ministry-manipu.md)
-_Context: Committee to Protect Journalists, Arabic Network for Human Rights Information, Wael Abbas, Egypt_
+_Context: Egypt, Committee to Protect Journalists, Wael Abbas, Arabic Network for Human Rights Information_
 
 ##### Irish
 ### [Irish authorities release three of the seven Muslims they detained over an alleged plot to murder Swedish cartoonist Lars Vilks. Vilks says he has not been put off the idea of visiting Ireland by the threat. ](/news/2010/03/12/irish-authorities-release-three-of-the-seven-muslims-they-detained-over-an-alleged-plot-to-murder-swedish-cartoonist-lars-vilks-vilks-says.md)
@@ -45,11 +45,11 @@ Thai capital braces for violence as anti-government red shirts prepare for major
 
 ##### United Nations
 ### [The United Nations Special Rapporteur to Burma Tomas Quintana calls for investigations into war crimes and crimes against humanity perpetrated against Burmese civilians. ](/news/2010/03/12/the-united-nations-special-rapporteur-to-burma-tomas-quintana-calls-for-investigations-into-war-crimes-and-crimes-against-humanity-perpetrat.md)
-_Context: United Nations, crimes against humanity, Burma, United Nations special human rights envoy, war crime_
+_Context: Burma, United Nations special human rights envoy, United Nations, war crime, crimes against humanity_
 
 ##### Conflict
 ### [Darfur peace talks are threatened by new violence as Sudanese army steps up military operations against a major Darfur rebel faction. ](/news/2010/03/12/darfur-peace-talks-are-threatened-by-new-violence-as-sudanese-army-steps-up-military-operations-against-a-major-darfur-rebel-faction.md)
-_Context: Sudan, conflict_
+_Context: conflict, Sudan_
 
 ##### Russia
 ### [Russia signs a nuclear reactor deal with India which will see it build 16 nuclear reactors in India. ](/news/2010/03/12/russia-signs-a-nuclear-reactor-deal-with-india-which-will-see-it-build-16-nuclear-reactors-in-india.md)
@@ -73,7 +73,7 @@ LONDON: The former British prime minister Margaret Thatcher yesterday threw her 
 
 ##### Sahil Saeed
 ### [Sahil Saeed's father returns to the United Kingdom from Pakistan to work with police there on his son's case. ](/news/2010/03/12/sahil-saeed-s-father-returns-to-the-united-kingdom-from-pakistan-to-work-with-police-there-on-his-son-s-case.md)
-_Context: United Kingdom, Pakistan, Sahil Saeed_
+_Context: Sahil Saeed, Pakistan, United Kingdom_
 
 ##### Hardcore porn
 ### [The award-winning hardcore porn director Anna Arrowsmith is selected as a Liberal Democrat candidate for Gravesham in Kent to fight the 2010 general election. ](/news/2010/03/12/the-award-winning-hardcore-porn-director-anna-arrowsmith-is-selected-as-a-liberal-democrat-candidate-for-gravesham-in-kent-to-fight-the-2010.md)

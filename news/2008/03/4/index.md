@@ -13,11 +13,11 @@ Ian Paisley has announced that he is to resign as Northern Ireland First Ministe
 
 ##### Pakistan
 ### [ At least four people are killed and 14 injured in a suicide bombing at a naval college in the Pakistani city of Lahore. ](/news/2008/03/4/at-least-four-people-are-killed-and-14-injured-in-a-suicide-bombing-at-a-naval-college-in-the-pakistani-city-of-lahore.md)
-_Context: Pakistan, Lahore_
+_Context: Lahore, Pakistan_
 
 ##### United States of America
 ### [ United States Assistant Secretary of State for European and Eurasian Affairs Dan Fried estimates that Kosovo will need about $2 billion in foreign aid to become economically viable, and says that the United States will participate in a major donors' conference on Kosovo in June. ](/news/2008/03/4/united-states-assistant-secretary-of-state-for-european-and-eurasian-affairs-dan-fried-estimates-that-kosovo-will-need-about-2-billion-in.md)
-_Context: United States of America, $, Kosovo, Dan Fried, Assistant Secretary of State for European and Eurasian Affairs_
+_Context: United States of America, Dan Fried, Kosovo, Assistant Secretary of State for European and Eurasian Affairs, $_
 
 ##### Cricketer
 ### [ India wins cricket's Commonwealth Bank Series in Australia. ](/news/2008/03/4/india-wins-cricket-s-commonwealth-bank-series-in-australia.md)

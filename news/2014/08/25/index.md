@@ -33,11 +33,11 @@ _Context: Prime Minister, Francois Hollande, French President, Manuel Valls_
 
 ##### Ukrainian President
 ### [The President of Ukraine Petro Poroshenko dissolves the Parliament and calls new elections for October 26. ](/news/2014/08/25/the-president-of-ukraine-petro-poroshenko-dissolves-the-parliament-and-calls-new-elections-for-october-26.md)
-_Context: parliament, Ukrainian President, Petro Poroshenko_
+_Context: Petro Poroshenko, parliament, Ukrainian President_
 
 ##### Miro Cerar
 ### [Miro Cerar is appointed Prime minister-designate by the Slovenian National Assembly. ](/news/2014/08/25/miro-cerar-is-appointed-prime-minister-designate-by-the-slovenian-national-assembly.md)
-_Context: Miro Cerar, Prime minister-designate, Slovenian National Assembly_
+_Context: Prime minister-designate, Slovenian National Assembly, Miro Cerar_
 
 ## [Previous Day...](/news/2014/08/24/index.md)
 

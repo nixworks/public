@@ -5,7 +5,7 @@ Formats: [HTML](2011/11/14/index.html)  [JSON](2011/11/14/index.json)  [XML](201
 
 ##### United Kingdom
 ### [British television soap "Coronation Street" becomes the first prime time television show in the UK to use product placement after signing a deal with the Nationwide Building Society. A Nationwide cash machine is seen on screen in an episode. ](/news/2011/11/14/british-television-soap-coronation-street-becomes-the-first-prime-time-television-show-in-the-uk-to-use-product-placement-after-signing-a.md)
-_Context: Nationwide Building Society, product placement, ATM, United Kingdom, Coronation Street_
+_Context: United Kingdom, Coronation Street, ATM, product placement, Nationwide Building Society_
 
 ##### Floods
 ### [The death toll from the 2011 Thailand floods rises to 562. ](/news/2011/11/14/the-death-toll-from-the-2011-thailand-floods-rises-to-562.md)
@@ -13,11 +13,11 @@ _Context: floods_
 
 ##### Libya
 ### [Libya's National Transitional Council criticizes Niger's offer of asylum to ousted Libyan dictator Muammar Gaddafi's son, Saadi Gaddafi, for whom Interpol has issued an arrest warrant, saying Niger's position is "hostile" and a "challenge" to Libya. ](/news/2011/11/14/libya-s-national-transitional-council-criticizes-niger-s-offer-of-asylum-to-ousted-libyan-dictator-muammar-gaddafi-s-son-saadi-gaddafi-for.md)
-_Context: Saadi Gaddafi, National Transitional Council, Muammar Gaddafi, Interpol, Libya, Niger_
+_Context: Muammar Gaddafi, Interpol, Saadi Gaddafi, Niger, Libya, National Transitional Council_
 
 ##### French-born
 ### [Three French aid workers with Triangle Generation Humanitaire kidnapped in Yemen in May are freed. ](/news/2011/11/14/three-french-aid-workers-with-triangle-generation-humanitaire-kidnapped-in-yemen-in-may-are-freed.md)
-_Context: French-born, Triangle Generation Humanitaire, Yemen_
+_Context: Yemen, Triangle Generation Humanitaire, French-born_
 
 ##### Anders Behring Breivik
 ### [Anders Breivik goes on trial for terrorism in Norway. ](/news/2011/11/14/anders-breivik-goes-on-trial-for-terrorism-in-norway.md)
@@ -41,7 +41,7 @@ Labour MP Alan Keen has died at the age of 73 after a battle with cancer, it was
 
 ##### Bogot
 ### [200,000 people protest in Bogot, Colombia, against government cuts in public education. ](/news/2011/11/14/200-000-people-protest-in-bogota-colombia-against-government-cuts-in-public-education.md)
-_Context: Colombia, Bogot_
+_Context: Bogot, Colombia_
 
 ## [Previous Day...](/news/2011/11/13/index.md)
 

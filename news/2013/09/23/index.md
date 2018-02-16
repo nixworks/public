@@ -13,7 +13,7 @@ _Context: Bashar al-Assad, President, chemical weapons facilities_
 
 ##### Hong Kong
 ### [At least 25 people are dead in Hong Kong and southern China after Typhoon Usagi passes through with the storm having killed eight people in the Philippines. ](/news/2013/09/23/at-least-25-people-are-dead-in-hong-kong-and-southern-china-after-typhoon-usagi-passes-through-with-the-storm-having-killed-eight-people-in.md)
-_Context: Philippines, Typhoon Usagi, China, Hong Kong_
+_Context: Typhoon Usagi, Philippines, China, Hong Kong_
 
 ##### Resignation
 ### [In his first public statement since his resignation, former Pope Benedict XVI denies that he covered up child sexual abuse cases involving priests during his tenure. ](/news/2013/09/23/in-his-first-public-statement-since-his-resignation-former-pope-benedict-xvi-denies-that-he-covered-up-child-sexual-abuse-cases-involving-p.md)

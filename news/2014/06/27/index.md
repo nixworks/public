@@ -13,7 +13,7 @@ Human Rights Watch says Iraqi insurgents executed at least 160 captives earlier 
 
 ##### Prince Carl Philip
 ### [Prince Carl Philip, third-in-line to the Swedish throne, announces that he and former men's magazine model Sofia Hellqvist will marry in the summer of 2015. ](/news/2014/06/27/prince-carl-philip-third-in-line-to-the-swedish-throne-announces-that-he-and-former-men-s-magazine-model-sofia-hellqvist-will-marry-in-the.md)
-_Context: Sofia Hellqvist, Prince Carl Philip_
+_Context: Prince Carl Philip, Sofia Hellqvist_
 
 ##### Fourteen people are killed
 ### [At least fourteen people are killed when a Gas Authority of India Limited pipeline explodes in the East Godavari district of Andhra Pradesh, India. ](/news/2014/06/27/at-least-fourteen-people-are-killed-when-a-gas-authority-of-india-limited-pipeline-explodes-in-the-east-godavari-district-of-andhra-pradesh.md)

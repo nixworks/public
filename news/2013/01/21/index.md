@@ -17,7 +17,7 @@ French and Malian troops seize the key Malian towns of Diabaly and Douentza from
 
 ##### Nigeria
 ### [Gunmen seize a Nigerian-owned, Panama-flagged tanker with crew off the coast of Abidjan in the Ivory Coast. ](/news/2013/01/21/gunmen-seize-a-nigerian-owned-panama-flagged-tanker-with-crew-off-the-coast-of-abidjan-in-the-ivory-coast.md)
-_Context: Abidjan, Nigeria, Panama, Ivory Coast_
+_Context: Nigeria, Panama, Ivory Coast, Abidjan_
 
 ##### Algeria
 ### [Algeria confirms that 37 foreign hostages were killed in the hostage crisis, and names the nationalities of the militants. ](/news/2013/01/21/algeria-confirms-that-37-foreign-hostages-were-killed-in-the-hostage-crisis-and-names-the-nationalities-of-the-militants.md)
@@ -41,11 +41,11 @@ _Context: Brazil, So Paulo_
 
 ##### Chitungwiza
 ### [Five people are killed in an explosion at a healer's home in Chitungwiza, Zimbabwe, causing hundreds to flee and nearby building damage. ](/news/2013/01/21/five-people-are-killed-in-an-explosion-at-a-healer-s-home-in-chitungwiza-zimbabwe-causing-hundreds-to-flee-and-nearby-building-damage.md)
-_Context: Chitungwiza, Zimbabwe_
+_Context: Zimbabwe, Chitungwiza_
 
 ##### Bus
 ### [A passenger bus veers off the Yungas Road and plunges from a height of 300 meters into a ravine in the Yungas region of Bolivia, killing 18 people and injuring 24 others. ](/news/2013/01/21/a-passenger-bus-veers-off-the-yungas-road-and-plunges-from-a-height-of-300-meters-into-a-ravine-in-the-yungas-region-of-bolivia-killing-18.md)
-_Context: bus, Yungas Road, Yungas, Bolivia_
+_Context: Yungas, bus, Yungas Road, Bolivia_
 
 ##### Magnitude
 ### [A 14-year-old girl is killed and 15 people are injured in a 5.9-magnitude earthquake in Indonesia. ](/news/2013/01/21/a-14-year-old-girl-is-killed-and-15-people-are-injured-in-a-5-9-magnitude-earthquake-in-indonesia.md)

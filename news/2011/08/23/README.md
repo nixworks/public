@@ -37,7 +37,7 @@ A 5.8 earthquake sent tremors from the nation’s capital to New York City and N
 
 ##### Thailand
 ### [Thailand says it will recognize the State of Palestine during its September bid at the United Nations General Assembly. ](/news/2011/08/23/thailand-says-it-will-recognize-the-state-of-palestine-during-its-september-bid-at-the-united-nations-general-assembly.md)
-_Context: Palestine, United Nations General Assembly, Thailand_
+_Context: United Nations General Assembly, Thailand, Palestine_
 
 ##### New York City
 ### [A judge in New York City rules in favour dropping sexual assault charges against former International Monetary Fund head Dominique Strauss-Kahn. ](/news/2011/08/23/a-judge-in-new-york-city-rules-in-favour-dropping-sexual-assault-charges-against-former-international-monetary-fund-head-dominique-strauss-k.md)
@@ -53,11 +53,11 @@ A petition calling for Hillsborough disaster Cabinet papers to be released reach
 
 ##### Conspiracy to hack mobile phones
 ### [The BBC reports that former "News of the World" editor Andy Coulson continued to receive a severance pay package from News International while working as Director of Communications for the Conservative Party. ](/news/2011/08/23/the-bbc-reports-that-former-news-of-the-world-editor-andy-coulson-continued-to-receive-a-severance-pay-package-from-news-international-whi.md)
-_Context: BBC, conspiracy to hack mobile phones, News International, News of the World, Conservative Party, Andy Coulson_
+_Context: News of the World, Conservative Party, conspiracy to hack mobile phones, BBC, Andy Coulson, News International_
 
 ##### Hattiesburg
 ### [Hattiesburg Mayor Johnny DuPree is declared the winner in the Democratic Party primary election in Mississippi, becoming the first black candidate to win a major party nomination in a gubernatorial race. ](/news/2011/08/23/hattiesburg-mayor-johnny-dupree-is-declared-the-winner-in-the-democratic-party-primary-election-in-mississippi-becoming-the-first-black-can.md)
-_Context: major party nomination, Johnny DuPree, Mississippi, primary election, Hattiesburg, Democrat_
+_Context: Democrat, primary election, Johnny DuPree, Hattiesburg, Mississippi, major party nomination_
 
 ## [Previous Day...](/news/2011/08/22/index.md)
 

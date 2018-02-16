@@ -9,7 +9,7 @@ Syrian President Bashar al-Assad delivers a rare televised speech, denouncing th
 
 ##### Indian Army
 ### [A cross-border raid conducted by Indian troops in the disputed Kashmir region results in the death of one Pakistani soldier and another critically wounded, according to Pakistani reports. ](/news/2013/01/6/a-cross-border-raid-conducted-by-indian-troops-in-the-disputed-kashmir-region-results-in-the-death-of-one-pakistani-soldier-and-another-crit.md)
-_Context: Kashmir conflict, Indian Army, Kashmir, Pakistan Army_
+_Context: Indian Army, Kashmir conflict, Pakistan Army, Kashmir_
 
 ##### Drones launch
 ### [A drone attack conducted by the United States kills at least ten people (suspected militants) in South Waziristan, Pakistan. ](/news/2013/01/6/a-drone-attack-conducted-by-the-united-states-kills-at-least-ten-people-suspected-militants-in-south-waziristan-pakistan.md)
@@ -17,11 +17,11 @@ A US drone attack kills at least eight suspected militants in a Pakistan north-w
 
 ##### Kachin
 ### [Kachin rebels claim the government has fired shells at the rebel de facto headquarters of Laiza. ](/news/2013/01/6/kachin-rebels-claim-the-government-has-fired-shells-at-the-rebel-de-facto-headquarters-of-laiza.md)
-_Context: Laiza, Kachin_
+_Context: Kachin, Laiza_
 
 ##### Spin Boldak
 ### [Suicide bombers kill four in an attack in Spin Boldak, Afghanistan. ](/news/2013/01/6/suicide-bombers-kill-four-in-an-attack-in-spin-boldak-afghanistan.md)
-_Context: Spin Boldak, Afghanistan_
+_Context: Afghan, Spin Boldak_
 
 ##### South Africa
 ### [South Africa announces it will send 400 more soldiers to the Central African Republic in an effort to assist the current regime, which faces a potential attack by the Seleka rebel coalition on the capital. ](/news/2013/01/6/south-africa-announces-it-will-send-400-more-soldiers-to-the-central-african-republic-in-an-effort-to-assist-the-current-regime-which-faces.md)

@@ -5,11 +5,11 @@ Formats: [HTML](2016/04/20/index.html)  [JSON](2016/04/20/index.json)  [XML](201
 
 ##### War in Afghanistan (2015-present)
 ### [The death toll from yesterday's Taliban attack on the National Directorate of Security in Kabul rises to 64, with 347 others wounded, according to the Afghan Interior Ministry. ](/news/2016/04/20/the-death-toll-from-yesterday-s-taliban-attack-on-the-national-directorate-of-security-in-kabul-rises-to-64-with-347-others-wounded-accord.md)
-_Context: Taliban, National Directorate of Security, War in Afghanistan (2015-present), Kabul, Afghan Interior Ministry, April 2016 Kabul attack_
+_Context: Afghan Interior Ministry, Kabul, Taliban, April 2016 Kabul attack, War in Afghanistan (2015-present), National Directorate of Security_
 
 ##### War in Donbass
 ### [A Ukrainian military spokesman says three of its soldiers were killed by a mortar attack in the country's east, the heaviest toll reported in the region in nearly two months. ](/news/2016/04/20/a-ukrainian-military-spokesman-says-three-of-its-soldiers-were-killed-by-a-mortar-attack-in-the-country-s-east-the-heaviest-toll-reported-i.md)
-_Context: Ukrainian military, War in Donbass, Ukraine, Eastern Ukraine_
+_Context: War in Donbass, Eastern Ukraine, Ukrainian military, Ukraine_
 
 ##### War in North-West Pakistan
 ### [Pakistani Taliban militants, in two attacks, kill seven police officers who were guarding medical workers administering polio vaccinations in Karachi. ](/news/2016/04/20/pakistani-taliban-militants-in-two-attacks-kill-seven-police-officers-who-were-guarding-medical-workers-administering-polio-vaccinations-i.md)
@@ -45,7 +45,7 @@ Up to 500 people may have drowned after overloaded boat sank in Mediterranean
 
 ##### Chugiak, Anchorage
 ### [A small-plane crashes near Chugiak, Anchorage in Alaska, killing at least four people, according to the Anchorage Fire Department. ](/news/2016/04/20/a-small-plane-crashes-near-chugiak-anchorage-in-alaska-killing-at-least-four-people-according-to-the-anchorage-fire-department.md)
-_Context: Alaska, Chugiak, Anchorage, Anchorage Fire Department_
+_Context: Anchorage Fire Department, Chugiak, Anchorage, Alaska_
 
 ##### Coatzacoalcos
 ### [Hundreds of people are evacuated following a large explosion at an oil facility in Coatzacoalcos in southern Mexico. ](/news/2016/04/20/hundreds-of-people-are-evacuated-following-a-large-explosion-at-an-oil-facility-in-coatzacoalcos-in-southern-mexico.md)
@@ -57,7 +57,7 @@ A large explosion rocks an oil facility in the south-east Mexican state of Verac
 
 ##### Ukraine-European Union relations
 ### [The European Union proposes offering Ukraine visa-free travel to its members. However, it is still unclear how fast the liberalization process will be dealt with in the European Parliament and European Council, where some EU member states might want to slow down the process. ](/news/2016/04/20/the-european-union-proposes-offering-ukraine-visa-free-travel-to-its-members-however-it-is-still-unclear-how-fast-the-liberalization-proce.md)
-_Context: European Union, Ukraine, Ukraine-European Union relations, European Council, member states, European Parliament_
+_Context: European Parliament, European Union, Ukraine-European Union relations, member states, Ukraine, European Council_
 
 ##### NATO-Russia relations
 ### [NATO reopens informal talks with Russia for the first time in nearly two years. According to the Secretary General of NATO Jens Stoltenberg "NATO and Russia have profound and persistent disagreements, today's meeting did not change that." ](/news/2016/04/20/nato-reopens-informal-talks-with-russia-for-the-first-time-in-nearly-two-years-according-to-the-secretary-general-of-nato-jens-stoltenberg.md)
@@ -69,7 +69,7 @@ The UK Government is warning gay people about travelling to parts of the US afte
 
 ##### Commission on Human Rights
 ### [A women's rights group files a lawsuit in the Philippine Commission on Human Rights against Rodrigo Duterte for his rape remarks. ](/news/2016/04/20/a-women-s-rights-group-files-a-lawsuit-in-the-philippine-commission-on-human-rights-against-rodrigo-duterte-for-his-rape-remarks.md)
-_Context: rape, Commission on Human Rights, Rodrigo Duterte_
+_Context: Rodrigo Duterte, rape, Commission on Human Rights_
 
 ##### Australia
 ### [Australian media reports that a deal has been reached on an alleged kidnapping case against Tara Brown and the Australian "60 Minutes" crew. ](/news/2016/04/20/australian-media-reports-that-a-deal-has-been-reached-on-an-alleged-kidnapping-case-against-tara-brown-and-the-australian-60-minutes-crew.md)
@@ -101,7 +101,7 @@ Two Zambians were burned to death on Monday during an outbreak of xenophobic vio
 
 ##### Drug policy of Canada
 ### [Canada's Minister of Health Jane Philpott says federal legislation to legalize marijuana will be introduced in spring of 2017. ](/news/2016/04/20/canada-s-minister-of-health-jane-philpott-says-federal-legislation-to-legalize-marijuana-will-be-introduced-in-spring-of-2017.md)
-_Context: marijuana, Drug policy of Canada, Minister of Health, Canadian, Jane Philpott_
+_Context: Minister of Health, Drug policy of Canada, marijuana, Jane Philpott, Canadian_
 
 ##### Supreme Court of the United States
 ### [The United States Supreme Court rules that almost $2 billion in frozen Iranian assets must be turned over to American families of people killed in attacks blamed on Iran, including the 1983 bombing of a U.S. Marine Corps barracks in Beirut, Lebanon. ](/news/2016/04/20/the-united-states-supreme-court-rules-that-almost-2-billion-in-frozen-iranian-assets-must-be-turned-over-to-american-families-of-people-kil.md)
@@ -113,7 +113,7 @@ A Swedish Green Party politician, who ignited a storm of controversy after refus
 
 ##### Philippine presidential election, 2016
 ### [Philippine presidential candidate Rodrigo Duterte reneges on his apology and denies a statement by his party, PDP-Laban, which said he was sorry for his rape comments. ](/news/2016/04/20/philippine-presidential-candidate-rodrigo-duterte-reneges-on-his-apology-and-denies-a-statement-by-his-party-pdp-laban-which-said-he-was-s.md)
-_Context: PDP-Laban, renege, Rodrigo Duterte, rape, Philippine presidential election, 2016_
+_Context: PDP-Laban, Rodrigo Duterte, Philippine presidential election, 2016, rape, renege_
 
 ##### 2016 Macedonian protests
 ### [Protests continue against President Gjorge Ivanov in Skopje, Macedonia. Opposition leader Zoran Zaev said he will only take part in EU-brokered negotiations with the government if certain conditions are met. ](/news/2016/04/20/protests-continue-against-president-gjorge-ivanov-in-skopje-macedonia-opposition-leader-zoran-zaev-said-he-will-only-take-part-in-eu-broke.md)

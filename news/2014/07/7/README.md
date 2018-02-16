@@ -13,7 +13,7 @@ More than 85 rockets fired on Monday; Hamas claims responsibility for some of la
 
 ##### Iraqi insurgency (post-U.S. withdrawal)
 ### [Sittings of the Council of Representatives of Iraq are postponed for five weeks as Islamic State of Iraq and the Levant forces kill an Iraqi Army general on the outskirts of Baghdad. ](/news/2014/07/7/sittings-of-the-council-of-representatives-of-iraq-are-postponed-for-five-weeks-as-islamic-state-of-iraq-and-the-levant-forces-kill-an-iraqi.md)
-_Context: ISIL, Baghdad, Iraqi Parliament, Iraqi Army, Iraqi insurgency (post-U.S. withdrawal)_
+_Context: Iraqi Parliament, Iraqi Army, Baghdad, Iraqi insurgency (post-U.S. withdrawal), ISIL_
 
 ##### Russia
 ### [A Russian-made Mil Mi-17 crashes in the Thach ThCNYt District of the Vietnamese capital Hanoi with 16 people dead. ](/news/2014/07/7/a-russian-made-mil-mi-17-crashes-in-the-thao-ch-thaocnyt-district-of-the-vietnamese-capital-hanoi-with-16-people-dead.md)
@@ -21,7 +21,7 @@ A military helicopter has crashed close to the Vietnamese capital of Hanoi, kill
 
 ##### 2014 Pacific typhoon season
 ### [Japan braces for the impact of Typhoon Neoguri which is expected to hit Okinawa and then Kyushu on Tuesday. ](/news/2014/07/7/japan-braces-for-the-impact-of-typhoon-neoguri-which-is-expected-to-hit-okinawa-and-then-kyushu-on-tuesday.md)
-_Context: Typhoon Neoguri, Kyushu, 2014 Pacific typhoon season, Okinawa, Japan_
+_Context: Kyushu, Japan, Typhoon Neoguri, Okinawa, 2014 Pacific typhoon season_
 
 ##### 6.9 magnitude earthquake
 ### [A 6.9 magnitude earthquake hits southern Mexico and Guatemala, causing at least three deaths. ](/news/2014/07/7/a-6-9-magnitude-earthquake-hits-southern-mexico-and-guatemala-causing-at-least-three-deaths.md)
@@ -53,7 +53,7 @@ FM says &#8216;essential&#8217; differences with Netanyahu behind decision; move
 
 ##### Nairobi
 ### [Thousands rally in Nairobi against the President of Kenya Uhuru Kenyatta's rule.](/news/2014/07/7/thousands-rally-in-nairobi-against-the-president-of-kenya-uhuru-kenyatta-s-rule.md)
-_Context: Uhuru Kenyatta, President of Kenya, Nairobi_
+_Context: Uhuru Kenyatta, Nairobi, President of Kenya_
 
 ##### Udo Voigt
 ### [Europeans elect German neo-Nazi leader Udo Voigt to the European Parliament's Civil Liberties, Justice, and Home Affairs Committee. ](/news/2014/07/7/europeans-elect-german-neo-nazi-leader-udo-voigt-to-the-european-parliament-s-civil-liberties-justice-and-home-affairs-committee.md)

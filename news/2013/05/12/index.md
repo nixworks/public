@@ -13,7 +13,7 @@ _Context: industrial disaster_
 
 ##### Mining accident
 ### [At least 28 people are killed in a mining accident in China's Sichuan Province. ](/news/2013/05/12/at-least-28-people-are-killed-in-a-mining-accident-in-china-s-sichuan-province.md)
-_Context: mining accident, Sichuan Province_
+_Context: Sichuan Province, mining accident_
 
 ##### 17-year cicada
 ### [The first group of what is an expected to be more than a trillion 17-year cicadas to emerge in the eastern United States is spotted in North Carolina. ](/news/2013/05/12/the-first-group-of-what-is-an-expected-to-be-more-than-a-trillion-17-year-cicadas-to-emerge-in-the-eastern-united-states-is-spotted-in-north.md)
@@ -25,7 +25,7 @@ The World Health Organization warns that it appears &quot;increasingly&quot; lik
 
 ##### Shooting
 ### [Nineteen people are injured during a shooting at a Mother's Day parade in New Orleans, Louisiana, United States. ](/news/2013/05/12/nineteen-people-are-injured-during-a-shooting-at-a-mother-s-day-parade-in-new-orleans-louisiana-united-states.md)
-_Context: Mother's Day, New Orleans, Louisiana, shooting, United States_
+_Context: shooting, New Orleans, Mother's Day, Louisiana, United States_
 
 ##### Waynesville
 ### [Four people are found fatally shot in Waynesville, Indiana, United States. ](/news/2013/05/12/four-people-are-found-fatally-shot-in-waynesville-indiana-united-states.md)
@@ -37,7 +37,7 @@ Authorities on Saturday arrested the 12-year-old brother of an 8-year-old girl w
 
 ##### United Kingdom
 ### [Andrew Moran, one of Britain's most wanted criminals, is arrested in Costa Blanca, Spain. ](/news/2013/05/12/andrew-moran-one-of-britain-s-most-wanted-criminals-is-arrested-in-costa-blanca-spain.md)
-_Context: United Kingdom, Costa Blanca, Spain_
+_Context: Costa Blanca, Spain, United Kingdom_
 
 ##### Nawaz Sharif
 ### [Partial results reveal former Prime Minister Nawaz Sharif to be the winner, though no party manages to obtain an absolute majority in the 342-seat National Assembly. ](/news/2013/05/12/partial-results-reveal-former-prime-minister-nawaz-sharif-to-be-the-winner-though-no-party-manages-to-obtain-an-absolute-majority-in-the-34.md)
@@ -45,7 +45,7 @@ _Context: Nawaz Sharif_
 
 ##### Bulgaria
 ### [Voters in Bulgaria go to the polls for a parliamentary election. Boyko Borisov's GERB party wins between 30% and 32% of the votes, closely followed by Sergei Stanishev's resurgent BSP with 26 to 28 percent. No party manages to obtain a majority, while analysts predict a political deadlock amid low voter turnout and economic woes. ](/news/2013/05/12/voters-in-bulgaria-go-to-the-polls-for-a-parliamentary-election-boyko-borisov-s-gerb-party-wins-between-30-and-32-of-the-votes-closely-f.md)
-_Context: GERB, Boyko Borisov, parliamentary election, Socialist Party, Sergei Stanishev, Bulgaria_
+_Context: Socialist Party, parliamentary election, Bulgaria, Sergei Stanishev, Boyko Borisov, GERB_
 
 ##### Murrawarri Republic
 ### [The Murrawarri Republic begins a sovereignty campaign with the UN. ](/news/2013/05/12/the-murrawarri-republic-begins-a-sovereignty-campaign-with-the-un.md)
@@ -53,7 +53,7 @@ Activists in northern New South Wales, who&#039;ve declared an Aboriginal republ
 
 ##### Pope Francis
 ### [Pope Francis canonizes a record-breaking 800+ new Catholic Church saints - Emeritus Pope Benedict XVI had submitted the 813 "Martyrs of Otranto" who had been beheaded by Ottoman soldiers for refusing to convert to Islam. ](/news/2013/05/12/pope-francis-canonizes-a-record-breaking-800-new-catholic-church-saints-emeritus-pope-benedict-xvi-had-submitted-the-813-martyrs-of-otra.md)
-_Context: Catholic Church, Martyrs of Otranto, Pope Francis, Pope Benedict XVI_
+_Context: Catholic Church, Pope Francis, Pope Benedict XVI, Martyrs of Otranto_
 
 ##### SUNY Buffalo
 ### [In a study by SUNY Buffalo, it is discovered that "Utricularia gibba", a carnivorous bladderwort plant, has the shortest known DNA sequence of any multicellular plant and that it lacks "junk DNA", sequences of code that do not encode proteins. ](/news/2013/05/12/in-a-study-by-suny-buffalo-it-is-discovered-that-utricularia-gibba-a-carnivorous-bladderwort-plant-has-the-shortest-known-dna-sequence.md)

@@ -21,7 +21,7 @@ _Context: Kavrepalanchowk bus crashes_
 
 ##### Attorney General
 ### [Pennsylvania Attorney General Kathleen Kane is convicted of perjury and obstruction of justice. ](/news/2016/08/15/pennsylvania-attorney-general-kathleen-kane-is-convicted-of-perjury-and-obstruction-of-justice.md)
-_Context: Kathleen Kane, Attorney General, perjury_
+_Context: Attorney General, Kathleen Kane, perjury_
 
 ##### English Premier League
 ### [Former English Premier League player Dalian Atkinson dies after being tasered by police in Telford, Shropshire. ](/news/2016/08/15/former-english-premier-league-player-dalian-atkinson-dies-after-being-tasered-by-police-in-telford-shropshire.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2010/10/25/index.html)  [JSON](2010/10/25/index.json)  [XML](201
 
 ##### Bomb
 ### [A bomb at the Fariduddin Ganjshakar Sufi shrine in Pakpattan, a city in Pakistan's Punjab province, kills at least eight people and injures twenty. ](/news/2010/10/25/a-bomb-at-the-fariduddin-ganjshakar-sufi-shrine-in-pakpattan-a-city-in-pakistan-s-punjab-province-kills-at-least-eight-people-and-injures.md)
-_Context: shrine, Fariduddin Ganjshakar, bomb, Pakpattan, Punjab Province, Pakistan, Sufi_
+_Context: Punjab Province, Sufi, Pakpattan, shrine, Pakistan, Fariduddin Ganjshakar, bomb_
 
 ##### Orakzai
 ### [A roadside bomb struck a passenger van in the Orakzai tribal region killing three people and wounding two others near Tanda. ](/news/2010/10/25/a-roadside-bomb-struck-a-passenger-van-in-the-orakzai-tribal-region-killing-three-people-and-wounding-two-others-near-tanda.md)
@@ -13,23 +13,23 @@ _Context: Orakzai, Tanda_
 
 ##### Afghan government
 ### [An Afghan official claims that a NATO air strike killed about 25 people in Helmand Province, Afghanistan. ](/news/2010/10/25/an-afghan-official-claims-that-a-nato-air-strike-killed-about-25-people-in-helmand-province-afghanistan.md)
-_Context: Afghanistan, Afghan government, NATO, Helmand Province_
+_Context: Afghan government, Afghan, NATO, Helmand Province_
 
 ##### Sahrawi
 ### [A Sahrawi boy was killed and five other injured by the Moroccan Army near a protest camp in Western Sahara. ](/news/2010/10/25/a-sahrawi-boy-was-killed-and-five-other-injured-by-the-moroccan-army-near-a-protest-camp-in-western-sahara.md)
-_Context: Western Sahara, Sahrawi_
+_Context: Sahrawi, Western Sahara_
 
 ##### China
 ### [China and Africa celebrated the tenth anniversary of the Forum on China-Africa Cooperation (FOCAC) in Beijing. Jia Qinglin, chairman of the National Committee of the Chinese People's Political Consultative Conference, addressed the reception commemorating. ](/news/2010/10/25/china-and-africa-celebrated-the-tenth-anniversary-of-the-forum-on-china-africa-cooperation-focac-in-beijing-jia-qinglin-chairman-of-the.md)
-_Context: Beijing, China, National Committee of the Chinese People's Political Consultative Conference, Africa, Forum on China-Africa Cooperation, Jia Qinglin_
+_Context: Africa, National Committee of the Chinese People's Political Consultative Conference, Jia Qinglin, Beijing, China, Forum on China-Africa Cooperation_
 
 ##### Lhasa
 ### [Lhasa invests 90 million yuan in 23 tourist facilities. The tourist facilities include Lhasa Tourist Service Center, Namtso Scenic Spot, Potala Palace- Jokhang Temple- Norbu Linka Cultural Heritage tourist attractions, etc. ](/news/2010/10/25/lhasa-invests-90-million-yuan-in-23-tourist-facilities-the-tourist-facilities-include-lhasa-tourist-service-center-namtso-scenic-spot-pot.md)
-_Context: Jokhang, Potala Palace, Lhasa, Namtso Scenic Spot, Lhasa Tourist Service Center_
+_Context: Lhasa Tourist Service Center, Jokhang, Lhasa, Namtso Scenic Spot, Potala Palace_
 
 ##### United Arab Emirates
 ### [United Arab Emirates pavilion in Shanghai wins National Council of Structural Engineers Associations (NCSEA) Excellence Award in Structural Engineering at Shanghai Expo 2010. ](/news/2010/10/25/united-arab-emirates-pavilion-in-shanghai-wins-national-council-of-structural-engineers-associations-ncsea-excellence-award-in-structural.md)
-_Context: Shanghai, National Council of Structural Engineers Associations, Shanghai Expo, Structural Engineering, United Arab Emirates_
+_Context: Shanghai Expo, Shanghai, United Arab Emirates, Structural Engineering, National Council of Structural Engineers Associations_
 
 ##### Singapore Exchange
 ### [Singapore Exchange proposes a $A8.4 billion takeover of the Australian Securities Exchange. ](/news/2010/10/25/singapore-exchange-proposes-a-a8-4-billion-takeover-of-the-australian-securities-exchange.md)
@@ -49,7 +49,7 @@ _Context: Deepwater Horizon oil spill, Bob Dudley, BP_
 
 ##### AIG
 ### [American International Group CEO Robert Benmosche has cancer, the company said, and he is receiving "aggressive chemotherapy," but his prognosis is not clear. ](/news/2010/10/25/american-international-group-ceo-robert-benmosche-has-cancer-the-company-said-and-he-is-receiving-aggressive-chemotherapy-but-his-progn.md)
-_Context: AIG, chemotherapy, cancer, Robert Benmosche_
+_Context: chemotherapy, cancer, AIG, Robert Benmosche_
 
 ##### BP Canada
 ### [One person is killed and nine others injured after a plane carrying employees of BP Canada crashes in northeastern Alberta. The twin-engine King Air 100 was on its way from Edmonton City Centre Airport to Kirby Lake, southeast of Conklin. ](/news/2010/10/25/one-person-is-killed-and-nine-others-injured-after-a-plane-carrying-employees-of-bp-canada-crashes-in-northeastern-alberta-the-twin-engine.md)
@@ -75,7 +75,7 @@ THE VATICAN&rsquo;s two-week long synod on the Middle East ended on a polemical 
 ### [Japan lodges a formal protest with China after two Chinese fishing boats were seen near the Senkaku Islands. ](/news/2010/10/25/japan-lodges-a-formal-protest-with-china-after-two-chinese-fishing-boats-were-seen-near-the-senkaku-islands.md)
 _Context: Japan, Senkaku Islands, China_
 
-##### Afghanistan
+##### Afghan
 ### [President Hamid Karzai acknowledges that his office has regularly received cash from Iran and the United States but claims that the process was transparent. ](/news/2010/10/25/president-hamid-karzai-acknowledges-that-his-office-has-regularly-received-cash-from-iran-and-the-united-states-but-claims-that-the-process.md)
 A Dutch aid worker and his Afghan driver have been abducted by gunmen in north eastern Afghanistan, officials say.
 
@@ -97,7 +97,7 @@ The EU is for the first time sending border guards to help Greece stem an influx
 
 ##### Chandra Levy
 ### [The trial of the alleged killer of Chandra Levy, Ingmar Guandique of El Salvador, begins in Washington D.C. ](/news/2010/10/25/the-trial-of-the-alleged-killer-of-chandra-levy-ingmar-guandique-of-el-salvador-begins-in-washington-d-c.md)
-_Context: El Salvador, Chandra Levy, Washington D.C_
+_Context: El Salvador, Washington D.C, Chandra Levy_
 
 ##### Liberal Democrats
 ### [Liberal Democrat Deputy Leader Simon Hughes is threatening a backbench rebellion over proposed housing benefits cut, which might threaten the stability of the United Kingdom coalition government, of which the Liberal Democrats are a part of. ](/news/2010/10/25/liberal-democrat-deputy-leader-simon-hughes-is-threatening-a-backbench-rebellion-over-proposed-housing-benefits-cut-which-might-threaten-th.md)
@@ -109,15 +109,15 @@ A Ghana-born doctor is elected mayor of a town in Slovenia - apparently breaking
 
 ##### Philippines
 ### [Voters in Philippines go to the polls for the Philippine barangay and Sangguniang Kabataan elections. ](/news/2010/10/25/voters-in-philippines-go-to-the-polls-for-the-philippine-barangay-and-sangguniang-kabataan-elections.md)
-_Context: Philippines, Philippine barangay and Sangguniang Kabataan elections_
+_Context: Philippine barangay and Sangguniang Kabataan elections, Philippines_
 
 ##### Ontario
 ### [Voters across all municipalities in Ontario go to the polls for the Ontario municipal elections, 2010. ](/news/2010/10/25/voters-across-all-municipalities-in-ontario-go-to-the-polls-for-the-ontario-municipal-elections-2010.md)
-_Context: Ontario municipal elections, 2010, Ontario_
+_Context: Ontario, Ontario municipal elections, 2010_
 
 ##### Australian Prime Minister
 ### [An audience member throws shoes at former Prime Minister of Australia John Howard during an appearance on Q&A on ABC1. ](/news/2010/10/25/an-audience-member-throws-shoes-at-former-prime-minister-of-australia-john-howard-during-an-appearance-on-q-a-on-abc1.md)
-_Context: Australian Prime Minister, Q&A, John Howard, ABC1_
+_Context: Q&A, John Howard, Australian Prime Minister, ABC1_
 
 ##### Insect
 ### [More than 700 species of ancient insects are discovered preserved in amber in an ancient rainforest in India. ](/news/2010/10/25/more-than-700-species-of-ancient-insects-are-discovered-preserved-in-amber-in-an-ancient-rainforest-in-india.md)

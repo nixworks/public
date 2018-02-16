@@ -5,11 +5,11 @@ Formats: [HTML](2011/11/6/index.html)  [JSON](2011/11/6/index.json)  [XML](2011/
 
 ##### 5.6 magnitude earthquake
 ### [A 5.6 magnitude earthquake, the largest in the state's history, strikes 21 miles NNE of Shawnee, Oklahoma, USA, causing significant damage. ](/news/2011/11/6/a-5-6-magnitude-earthquake-the-largest-in-the-state-s-history-strikes-21-miles-nne-of-shawnee-oklahoma-usa-causing-significant-damage.md)
-_Context: 5.6 magnitude earthquake, Shawnee, Oklahoma_
+_Context: 5.6 magnitude earthquake, Oklahoma, Shawnee_
 
 ##### Landslide
 ### [A landslide kills 18 and injures dozens in Manizales, Caldas, Colombia ](/news/2011/11/6/a-landslide-kills-18-and-injures-dozens-in-manizales-caldas-colombia.md)
-_Context: Caldas Department, landslide, Colombia, Manizales_
+_Context: Caldas Department, Manizales, Colombia, landslide_
 
 ##### Hungarian
 ### [Eleven Hungarian tourists die after a bus overturns near the Egyptian resort of Hurghada. ](/news/2011/11/6/eleven-hungarian-tourists-die-after-a-bus-overturns-near-the-egyptian-resort-of-hurghada.md)

@@ -5,19 +5,19 @@ Formats: [HTML](2011/10/28/index.html)  [JSON](2011/10/28/index.json)  [XML](201
 
 ##### Wahhabi
 ### [A Wahhabi Islamist armed with hand grenades and an automatic weapon opens fire outside the United States embassy in the Bosnian capital Sarajevo, resulting in two people being injured, including the gunman. ](/news/2011/10/28/a-wahhabi-islamist-armed-with-hand-grenades-and-an-automatic-weapon-opens-fire-outside-the-united-states-embassy-in-the-bosnian-capital-sara.md)
-_Context: United States embassy, Sarajevo, Wahhabi, grenade, Bosnian_
+_Context: Bosnian, Wahhabi, United States embassy, grenade, Sarajevo_
 
 ##### Bolshoi Theater
 ### [The Bolshoi Theater in Moscow reopens following a six-year renovation which has restored it to its pre-revolution state. ](/news/2011/10/28/the-bolshoi-theater-in-moscow-reopens-following-a-six-year-renovation-which-has-restored-it-to-its-pre-revolution-state.md)
-_Context: revolution, Moscow, Bolshoi Theater_
+_Context: Moscow, Bolshoi Theater, revolution_
 
 ##### Iran
 ### [Iranian actress Marzieh Vafamehr is released from jail after her sentence for acting in the banned film "My Tehran for Sale" is reduced. ](/news/2011/10/28/iranian-actress-marzieh-vafamehr-is-released-from-jail-after-her-sentence-for-acting-in-the-banned-film-my-tehran-for-sale-is-reduced.md)
-_Context: Iran, My Tehran for Sale, Marzieh Vafamehr_
+_Context: Iran, Marzieh Vafamehr, My Tehran for Sale_
 
 ##### Electronic Arts
 ### [Electronic Arts has reportedly shipped 10 million copies of "Battlefield 3" since October 25, according to Electronic Arts CEO John Riccitiello. ](/news/2011/10/28/electronic-arts-has-reportedly-shipped-10-million-copies-of-battlefield-3-since-october-25-according-to-electronic-arts-ceo-john-riccitie.md)
-_Context: Electronic Arts, John Riccitiello, CEO, Battlefield 3_
+_Context: CEO, Electronic Arts, Battlefield 3, John Riccitiello_
 
 ##### United States
 ### [The United States commemorates the 125th anniversary of the dedication of the Statue of Liberty in New York City. ](/news/2011/10/28/the-united-states-commemorates-the-125th-anniversary-of-the-dedication-of-the-statue-of-liberty-in-new-york-city.md)
@@ -25,11 +25,11 @@ The Christian Science Monitor is an international news organization that deliver
 
 ##### South Korea
 ### [South Korea manufacturer Samsung supersedes Apple to become the largest maker of smartphones in the world. ](/news/2011/10/28/south-korea-manufacturer-samsung-supersedes-apple-to-become-the-largest-maker-of-smartphones-in-the-world.md)
-_Context: smartphones, South Korea, Apple Inc., Samsung_
+_Context: South Korea, Apple Inc., Samsung, smartphones_
 
 ##### Earthquake
 ### [A 6.9 magnitude earthquake strikes 51 kilometres south-west of the city of Ica in Peru at a depth of 35 km. No reports of casualties are issued. ](/news/2011/10/28/a-6-9-magnitude-earthquake-strikes-51-kilometres-south-west-of-the-city-of-ica-in-peru-at-a-depth-of-35-km-no-reports-of-casualties-are-iss.md)
-_Context: Ica, Peru, earthquake_
+_Context: earthquake, Peru, Ica_
 
 ##### Heads of government
 ### [The heads of government of the Commonwealth of Nations meet in the Western Australian city of Perth. ](/news/2011/10/28/the-heads-of-government-of-the-commonwealth-of-nations-meet-in-the-western-australian-city-of-perth.md)
@@ -49,7 +49,7 @@ _Context: St Paul's Cathedral_
 
 ##### Royal Thai Army
 ### [Nine servicemen from the Thai army are arrested on suspicion of killing 13 Chinese sailors on October 5 in a section of the Mekong River bordering Thailand, Laos and Myanmar. ](/news/2011/10/28/nine-servicemen-from-the-thai-army-are-arrested-on-suspicion-of-killing-13-chinese-sailors-on-october-5-in-a-section-of-the-mekong-river-bor.md)
-_Context: Thailand, Mekong River, Myanmar, Laos, Chinese, Royal Thai Army_
+_Context: Chinese, Thailand, Royal Thai Army, Laos, Mekong River, Myanmar_
 
 ##### Michael D. Higgins
 ### [Michael D. Higgins wins the Irish presidential election. ](/news/2011/10/28/michael-d-higgins-wins-the-irish-presidential-election.md)
@@ -57,11 +57,11 @@ Michael D. Higgins will become Ireland&#039;s next president after his main riva
 
 ##### Obama administration
 ### [The Obama administration orders an independent review of Department of Energy "clean-energy" loans following the bankruptcy of solar energy company Solyndra. ](/news/2011/10/28/the-obama-administration-orders-an-independent-review-of-department-of-energy-clean-energy-loans-following-the-bankruptcy-of-solar-energy.md)
-_Context: Department of Energy, solar energy, Solyndra, Obama administration_
+_Context: solar energy, Department of Energy, Obama administration, Solyndra_
 
 ##### NASA
 ### [NASA launches its NPOESS Preparatory Project (NPP) satellite to send back data on weather and climate conditions. ](/news/2011/10/28/nasa-launches-its-npoess-preparatory-project-npp-satellite-to-send-back-data-on-weather-and-climate-conditions.md)
-_Context: NASA, NPOESS Preparatory Project (NPP)_
+_Context: NPOESS Preparatory Project (NPP), NASA_
 
 ## [Previous Day...](/news/2011/10/27/index.md)
 

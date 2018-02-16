@@ -5,7 +5,7 @@ Formats: [HTML](2005/10/29/index.html)  [JSON](2005/10/29/index.json)  [XML](200
 
 ##### Car bomb
 ### [ More than 20 people die when a car bomb detonates in Howaider, a Shia village near Baquba, 60 miles north of Baghdad. ](/news/2005/10/29/more-than-20-people-die-when-a-car-bomb-detonates-in-howaider-a-shia-village-near-baquba-60-miles-north-of-baghdad.md)
-_Context: Howaider, Shia, car bomb, Baquba, Baghdad_
+_Context: car bomb, Shia, Baquba, Howaider, Baghdad_
 
 ##### Train
 ### [ A train derails in Andhra Pradesh, India, killing 100. ](/news/2005/10/29/a-train-derails-in-andhra-pradesh-india-killing-100.md)
@@ -17,7 +17,7 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 ##### Indonesia
 ### [ Three Christian Indonesian girls are beheaded as they walk through a cocoa plantation near a private Christian school in Central Sulawesi. ](/news/2005/10/29/three-christian-indonesian-girls-are-beheaded-as-they-walk-through-a-cocoa-plantation-near-a-private-christian-school-in-central-sulawesi.md)
-_Context: decapitated, Central Sulawesi, Indonesia, cocoa, Christian school, plantation_
+_Context: plantation, decapitated, Indonesia, cocoa, Christian school, Central Sulawesi_
 
 ## [Previous Day...](/news/2005/10/28/index.md)
 

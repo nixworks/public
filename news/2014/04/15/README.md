@@ -21,7 +21,7 @@ _Context: Lom, Togo_
 
 ##### 2014 West Africa Ebola outbreak
 ### [The death toll from the West Africa ebola outbreak reaches 121. ](/news/2014/04/15/the-death-toll-from-the-west-africa-ebola-outbreak-reaches-121.md)
-_Context: West Africa, 2014 West Africa Ebola outbreak_
+_Context: 2014 West Africa Ebola outbreak, West Africa_
 
 ##### Supreme Court of India
 ### [In a landmark ruling, the Supreme Court of India recognizes transgender as a "third gender". ](/news/2014/04/15/in-a-landmark-ruling-the-supreme-court-of-india-recognizes-transgender-as-a-third-gender.md)

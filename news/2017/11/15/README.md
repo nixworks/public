@@ -29,7 +29,7 @@ _Context: Bonn, 2017 United Nations Climate Change Conference_
 
 ##### GW170608
 ### [LIGO announces it has detected gravitational waves from the merger of two black holes. ](/news/2017/11/15/ligo-announces-it-has-detected-gravitational-waves-from-the-merger-of-two-black-holes.md)
-_Context: black holes, gravitational waves, GW170608, LIGO_
+_Context: black holes, LIGO, gravitational waves, GW170608_
 
 ## [Previous Day...](/news/2017/11/14/index.md)
 

@@ -9,7 +9,7 @@ A car bomb explosion near a hospital in the Libyan city of Benghazi kills and in
 
 #####  Georgian
 ### [Three Georgian soldiers are killed and several wounded in a large-scale insurgent attack on an ISAF base in the Helmand Province. ](/news/2013/05/13/three-georgian-soldiers-are-killed-and-several-wounded-in-a-large-scale-insurgent-attack-on-an-isaf-base-in-the-helmand-province.md)
-_Context: Helmand Province,  Georgian, International Security Assistance Force, Georgian servicemen_
+_Context:  Georgian, Helmand Province, International Security Assistance Force, Georgian servicemen_
 
 ##### Mayan
 ### [A 2,300-year-old Mayan pyramid at Nohmul in Belize is destroyed by a construction company seeking road fill gravel. ](/news/2013/05/13/a-2-300-year-old-mayan-pyramid-at-nohmul-in-belize-is-destroyed-by-a-construction-company-seeking-road-fill-gravel.md)
@@ -25,7 +25,7 @@ _Context: Kevyn Orr, Detroit, Mich._
 
 ##### Yemen
 ### [A military aircraft crashes in residential area in Yemen's capital of Sana'a. ](/news/2013/05/13/a-military-aircraft-crashes-in-residential-area-in-yemen-s-capital-of-sana-a.md)
-_Context: Sana'a, Yemen_
+_Context: Yemen, Sana'a_
 
 ##### 2013 Savar building collapse
 ### [The search of the wreckage of the 2013 Savar building collapse in Bangladesh ends with 1,127 people found dead. ](/news/2013/05/13/the-search-of-the-wreckage-of-the-2013-savar-building-collapse-in-bangladesh-ends-with-1-127-people-found-dead.md)
@@ -57,7 +57,7 @@ Reporters at Bloomberg News were told to use the terminals to get an edge in the
 
 ##### Senate
 ### [The Senate in the U.S. state of Minnesota passes a bill legalizing same-sex marriage. Governor Mark Dayton says he intends to sign it into law. ](/news/2013/05/13/the-senate-in-the-u-s-state-of-minnesota-passes-a-bill-legalizing-same-sex-marriage-governor-mark-dayton-says-he-intends-to-sign-it-into-l.md)
-_Context: U.S. state, Mark Dayton, Minnesota, Senate, same-sex marriage_
+_Context: same-sex marriage, U.S. state, Mark Dayton, Minnesota, Senate_
 
 ##### Philippines
 ### [Voters in the Philippines go to the polls for House of Representatives and Senate elections with police on heightened security. ](/news/2013/05/13/voters-in-the-philippines-go-to-the-polls-for-house-of-representatives-and-senate-elections-with-police-on-heightened-security.md)

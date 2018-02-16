@@ -13,7 +13,7 @@ Gunmen have kidnapped a British man working for an energy company in the restive
 
 ##### Greece
 ### [The government of Greece shuts down the public radio and television broadcaster ERT, calling it a "haven of waste". ](/news/2013/06/12/the-government-of-greece-shuts-down-the-public-radio-and-television-broadcaster-ert-calling-it-a-haven-of-waste.md)
-_Context: ERT, Greece_
+_Context: Greece, ERT_
 
 ##### Jiroemon Kimura
 ### [Jiroemon Kimura, who had been the world's oldest living person and the verified longest lived man ever, dies in the Japanese city of Kyotango. ](/news/2013/06/12/jiroemon-kimura-who-had-been-the-world-s-oldest-living-person-and-the-verified-longest-lived-man-ever-dies-in-the-japanese-city-of-kyatan.md)
@@ -21,7 +21,7 @@ Japan&#039;s Jiroemon Kimura, recognised by Guinness World Records as the oldest
 
 ##### Facebook
 ### [Facebook announces it plans to introduce clickable hashtags. ](/news/2013/06/12/facebook-announces-it-plans-to-introduce-clickable-hashtags.md)
-_Context: hashtag, Facebook_
+_Context: Facebook, hashtag_
 
 ##### New Zealand Dollar
 ### [The New Zealand Dollar falls against all major currencies after RBNZ keeps interest rates unchanged. ](/news/2013/06/12/the-new-zealand-dollar-falls-against-all-major-currencies-after-rbnz-keeps-interest-rates-unchanged.md)

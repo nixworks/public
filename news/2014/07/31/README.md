@@ -9,11 +9,11 @@ The military is suspending an offensive against rebels as a test in response to 
 
 ##### Imam
 ### [The government-appointed Imam of China is killed in an attack in Kashgar, Xinjiang province. ](/news/2014/07/31/the-government-appointed-imam-of-china-is-killed-in-an-attack-in-kashgar-xinjiang-province.md)
-_Context: Kashgar, Xinjiang, Imam, China_
+_Context: Xinjiang, China, Kashgar, Imam_
 
 ##### Russian Presidential Academy of National Economy and Public Administration
 ### [Alexander Deryugin, director of the Center for Regional Reform Studies at the Russian Presidential Academy of National Economy and Public Administration, says that sanctions against entities investing in Crimea have generated a great level of risk even for Russian companies because they too would face problems when working abroad after being exposed in Crimea. ](/news/2014/07/31/alexander-deryugin-director-of-the-center-for-regional-reform-studies-at-the-russian-presidential-academy-of-national-economy-and-public-ad.md)
-_Context: Russian Presidential Academy of National Economy and Public Administration, Crimea_
+_Context: Crimea, Russian Presidential Academy of National Economy and Public Administration_
 
 ##### Argentine debt restructuring
 ### [Following a court order that payments to most bondholders be stopped until holdouts were paid, Argentina has defaulted on some of its bonds after negotiations fell short of reaching a deal with hedge fund investors demanding a full payout of US$1.3 billion on bonds. ](/news/2014/07/31/following-a-court-order-that-payments-to-most-bondholders-be-stopped-until-holdouts-were-paid-argentina-has-defaulted-on-some-of-its-bonds.md)

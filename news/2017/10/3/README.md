@@ -21,11 +21,11 @@ The death toll in Puerto Rico from Hurricane Maria has more than doubled to 34, 
 
 ##### Iran-United States relations
 ### [U.S. District Court for the District of Columbia Judge Ellen S. Huvelle awards Amir Mirza Hekmati, a U.S. Marine who was imprisoned in Iran as a falsely accused CIA spy, a default judgment of $63 million for his ordeal. ](/news/2017/10/3/u-s-district-court-for-the-district-of-columbia-judge-ellen-s-huvelle-awards-amir-mirza-hekmati-a-u-s-marine-who-was-imprisoned-in-iran.md)
-_Context: default judgment, Marine, spy, $, Ellen S. Huvelle, CIA, falsely accused, Amir Mirza Hekmati, U.S. District Court for the District of Columbia, Iran-United States relations, Iran_
+_Context: $, Ellen S. Huvelle, default judgment, CIA, U.S. District Court for the District of Columbia, Iran-United States relations, Marine, spy, falsely accused, Iran, Amir Mirza Hekmati_
 
 ##### Cuba-United States relations
 ### [The Trump administration, through the Department of State and Secretary of State Rex Tillerson, expels 15 Cuban diplomats, after pulling half of its own embassy staff from Havana on Sept. 29, due to the alleged failure of Cuba to take appropriate steps to protect American personnel against the mysterious health attacks. ](/news/2017/10/3/the-trump-administration-through-the-department-of-state-and-secretary-of-state-rex-tillerson-expels-15-cuban-diplomats-after-pulling-hal.md)
-_Context: Presidency of Donald Trump, Havana, United States Secretary of State, Rex Tillerson, mysterious health attacks, Cuba-United States relations, United States, Cuba, State Department_
+_Context: Cuba, State Department, mysterious health attacks, Presidency of Donald Trump, United States, Cuba-United States relations, United States Secretary of State, Rex Tillerson, Havana_
 
 ##### 2017 Spanish constitutional crisis
 ### [Pro-independent trade unions, businesses, and schools in Catalonia hold a general strike to protest Spanish police brutality during the October 1 independence referendum. ](/news/2017/10/3/pro-independent-trade-unions-businesses-and-schools-in-catalonia-hold-a-general-strike-to-protest-spanish-police-brutality-during-the-octo.md)
@@ -33,7 +33,7 @@ A general strike in Catalonia on Tuesday will likely bring much of the wealthy S
 
 ##### Politics of Portugal
 ### [Former Prime Minister of Portugal Pedro Passos Coelho steps down as the leader of the opposition Social Democratic Party in local elections. ](/news/2017/10/3/former-prime-minister-of-portugal-pedro-passos-coelho-steps-down-as-the-leader-of-the-opposition-social-democratic-party-in-local-elections.md)
-_Context: Social Democratic Party, Prime Minister of Portugal, Pedro Passos Coelho, Politics of Portugal_
+_Context: Social Democratic Party, Prime Minister of Portugal, Politics of Portugal, Pedro Passos Coelho_
 
 ##### Abortion in the United States
 ### [The U.S. House of Representatives passes legislation (Pain-Capable Unborn Child Protection Act) which would criminalize abortions made 20 weeks into a pregnancy, except for cases endangering the mother's life, rape, or incest. ](/news/2017/10/3/the-u-s-house-of-representatives-passes-legislation-pain-capable-unborn-child-protection-act-which-would-criminalize-abortions-made-20-we.md)

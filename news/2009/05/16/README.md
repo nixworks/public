@@ -13,15 +13,15 @@ Ruth Padel has become the new Oxford Professor of Poetry today, following a cont
 
 ##### Manchester United
 ### [ Manchester United Football Club win the 2008-09 season of the Premier League. ](/news/2009/05/16/manchester-united-football-club-win-the-2008-09-season-of-the-premier-league.md)
-_Context: English Premier League, 2008-09 season, Manchester United_
+_Context: Manchester United, 2008-09 season, English Premier League_
 
 ##### Gulf Cartel
 ### [ The Gulf drug cartel liberates 59 inmates from a prison in Zacatecas, Mexico. ](/news/2009/05/16/the-gulf-drug-cartel-liberates-59-inmates-from-a-prison-in-zacatecas-mexico.md)
-_Context: prison, escape, drug cartel, Zacatecas, Mexican, Gulf Cartel_
+_Context: escape, drug cartel, prison, Gulf Cartel, Mexican, Zacatecas_
 
 ##### House of Representatives
 ### [ Representative Yukio Hatoyama becomes the President of Japan's Democratic Party. ](/news/2009/05/16/representative-yukio-hatoyama-becomes-the-president-of-japan-s-democratic-party.md)
-_Context: Yukio Hatoyama, Japan, Democratic Party, House of Representatives, President_
+_Context: Yukio Hatoyama, President, House of Representatives, Japan, Democratic Party_
 
 ##### Bharatiya Janata Party
 ### [ The People's Party concedes to the United Progressive Alliance in India's general election. ](/news/2009/05/16/the-people-s-party-concedes-to-the-united-progressive-alliance-in-india-s-general-election.md)
@@ -29,11 +29,11 @@ India&#039;s main opposition has admitted defeat as counting shows the ruling Co
 
 ##### Niger Delta
 ### [ The Niger Delta Emancipation Movement claims that Nigeria's military killed one of its hostages during an operation. ](/news/2009/05/16/the-niger-delta-emancipation-movement-claims-that-nigeria-s-military-killed-one-of-its-hostages-during-an-operation.md)
-_Context: Nigeria, Conflict in the Niger Delta, Military, hostage, Niger Delta, Movement for the Emancipation of the Niger Delta_
+_Context: Movement for the Emancipation of the Niger Delta, hostage, Military, Nigeria, Conflict in the Niger Delta, Niger Delta_
 
 ##### Car bomb
 ### [ A car bomb kills at least 11 people and injures 25 others in Peshawar, Pakistan. ](/news/2009/05/16/a-car-bomb-kills-at-least-11-people-and-injures-25-others-in-peshawar-pakistan.md)
-_Context: Pakistan, War in North-West Pakistan, car bomb, Peshawar_
+_Context: Peshawar, War in North-West Pakistan, Pakistan, car bomb_
 
 ##### President of Sri Lanka
 ### [ President Mahinda Rajapaksa says that Sri Lanka has "militarily defeated the Tamil Tigers". ](/news/2009/05/16/president-mahinda-rajapaksa-says-that-sri-lanka-has-militarily-defeated-the-tamil-tigers.md)
@@ -41,11 +41,11 @@ Sri Lanka declared Monday it had crushed the Tamil Tiger rebels, killing their c
 
 ##### United Kingdom
 ### [ The United Kingdom's Royal Air Force ends its involvement in Iraq. ](/news/2009/05/16/the-united-kingdom-s-royal-air-force-ends-its-involvement-in-iraq.md)
-_Context: Iraq, United Kingdom, Royal Air Force_
+_Context: Royal Air Force, United Kingdom, Iraq_
 
 ##### Acid
 ### [ An acid attack injures 30 people in Hong Kong, People's Republic of China. ](/news/2009/05/16/an-acid-attack-injures-30-people-in-hong-kong-people-s-republic-of-china.md)
-_Context: acid attack, Hong Kong, China, acid, acid attack_
+_Context: acid attack, acid attack, acid, Hong Kong, China_
 
 ##### Demonstration
 ### [ Thousands of demonstrators protest unemployment in Berlin, Germany. ](/news/2009/05/16/thousands-of-demonstrators-protest-unemployment-in-berlin-germany.md)
@@ -53,7 +53,7 @@ Thousands of German workers marched through Berlin today to demand the governmen
 
 ##### India
 ### [ India and Turkey confirm their first cases of (A)H1N1 influenza. ](/news/2009/05/16/india-and-turkey-confirm-their-first-cases-of-a-h1n1-influenza.md)
-_Context: H1N1, Turkey, current outbreak, swine flu, India_
+_Context: India, current outbreak, swine flu, H1N1, Turkey_
 
 ## [Previous Day...](/news/2009/05/15/index.md)
 

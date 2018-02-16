@@ -5,7 +5,7 @@ Formats: [HTML](2007/05/22/index.html)  [JSON](2007/05/22/index.json)  [XML](200
 
 ##### Premier
 ### [ Premier Gary Doer of the Canadian province of Manitoba secures a third straight NDP majority government in the general election. ](/news/2007/05/22/premier-gary-doer-of-the-canadian-province-of-manitoba-secures-a-third-straight-ndp-majority-government-in-the-general-election.md)
-_Context: Premier, majority government, Manitoba, Canadian province, general election. , Gary Doer_
+_Context: majority government, Canadian province, Manitoba, Gary Doer, general election. , Premier_
 
 ##### Silas Rondeau
 ### [ Silas Rondeau, the Energy Minister of Brazil, resigns over allegations of corruption in a public works project. ](/news/2007/05/22/silas-rondeau-the-energy-minister-of-brazil-resigns-over-allegations-of-corruption-in-a-public-works-project.md)
@@ -17,7 +17,7 @@ Israeli air strikes on Hamas weapon sheds in Gaza Strip leave 7 Palestinians wou
 
 ##### Rowan Williams
 ### [ Rowan Williams, Archbishop of Canterbury and spiritual head of the Anglican community, declines to invite gay Bishop of New Hampshire Gene Robinson and unrecognized conservative Bishop Martyn Minns of the Convocation of Anglicans in North America to the 2008 Lambeth Conference. ](/news/2007/05/22/rowan-williams-archbishop-of-canterbury-and-spiritual-head-of-the-anglican-community-declines-to-invite-gay-bishop-of-new-hampshire-gene.md)
-_Context: Bishop, Archbishop of Canterbury, gay, Martyn Minns, Convocation of Anglicans in North America, Gene Robinson, New Hampshire, Anglican, Lambeth Conference, Rowan Williams_
+_Context: gay, Archbishop of Canterbury, Lambeth Conference, Anglican, Bishop, Rowan Williams, New Hampshire, Martyn Minns, Convocation of Anglicans in North America, Gene Robinson_
 
 ##### Skybus
 ### [ Skybus Airlines, a new U.S.-based ultra-low-cost carrier airline, launches inaugural flights to and from Columbus, Ohio, with $10 tickets enabled by on-plane advertising and charging people for baggage, pillows, boarding priority, and refreshments. ](/news/2007/05/22/skybus-airlines-a-new-u-s-based-ultra-low-cost-carrier-airline-launches-inaugural-flights-to-and-from-columbus-ohio-with-10-tickets-e.md)
@@ -25,19 +25,19 @@ _Context: low-cost carrier, Columbus, Skybus, United States_
 
 ##### A suicide attack
 ### [ A suicide attack occurs at a shopping centre in the Ulus district of Ankara, the capital of Turkey. Authorities say there were six fatalities, and 79 injuries. ](/news/2007/05/22/a-suicide-attack-occurs-at-a-shopping-centre-in-the-ulus-district-of-ankara-the-capital-of-turkey-authorities-say-there-were-six-fataliti.md)
-_Context: Turkey, Ulus district, A suicide attack, Ankara_
+_Context: A suicide attack, Ankara, Turkey, Ulus district_
 
 ##### United States
 ### [ The U.S. National Oceanic and Atmospheric Administration issues its forecast for an above-normal 2007 Atlantic hurricane season with 13 to 17 named storms, 7 to 10 hurricanes and 3 to 5 major hurricanes. ](/news/2007/05/22/the-u-s-national-oceanic-and-atmospheric-administration-issues-its-forecast-for-an-above-normal-2007-atlantic-hurricane-season-with-13-to.md)
-_Context: 2007, hurricane, U.S.  National Oceanic and Atmospheric Administration, United States, tropical storm_
+_Context: U.S.  National Oceanic and Atmospheric Administration, United States, hurricane, 2007, tropical storm_
 
 ##### United Kingdom
 ### [ The UK Crown Prosecution Service announces that Andrei Lugovoi, an ex-KGB agent, will be charged in connection with the poisoning of Alexander Litvinenko, also a former KGB agent. ](/news/2007/05/22/the-uk-crown-prosecution-service-announces-that-andrei-lugovoi-an-ex-kgb-agent-will-be-charged-in-connection-with-the-poisoning-of-alexan.md)
-_Context: Alexander Litvinenko, Andrei Lugovoi, Crown Prosecution Service, United Kingdom, KGB_
+_Context: United Kingdom, Andrei Lugovoi, Crown Prosecution Service, Alexander Litvinenko, KGB_
 
 ##### Iraq War
 ### [ Iraq War: A car bomb kills 25 people and injures at least 60 in a commercial area in southwestern Baghdad. ](/news/2007/05/22/iraq-war-a-car-bomb-kills-25-people-and-injures-at-least-60-in-a-commercial-area-in-southwestern-baghdad.md)
-_Context: Iraq War, Baghdad, car bomb_
+_Context: car bomb, Baghdad, Iraq War_
 
 ## [Previous Day...](/news/2007/05/21/index.md)
 

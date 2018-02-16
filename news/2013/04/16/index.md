@@ -9,11 +9,11 @@ An envelope addressed to Senator Roger Wicker of Mississippi showed positive res
 
 ##### Metropolitan Police Service
 ### [Organisers and security officials reassess security plans for Sunday's 2013 London Marathon. This follows yesterday's incident at the 2013 Boston Marathon which killed three people. ](/news/2013/04/16/organisers-and-security-officials-reassess-security-plans-for-sunday-s-2013-london-marathon-this-follows-yesterday-s-incident-at-the-2013-b.md)
-_Context: Boston Marathon bombings, Metropolitan Police Service, 2013 Boston Marathon, 2013 London Marathon, security_
+_Context: 2013 London Marathon, Metropolitan Police Service, Boston Marathon bombings, security, 2013 Boston Marathon_
 
 ##### Movement for the Emancipation of the Niger Delta
 ### [The Movement for the Emancipation of the Niger Delta threatens to launch a terror campaign to "defend Christianity" in Nigeria in response to attacks by Islamist group Boko Haram. ](/news/2013/04/16/the-movement-for-the-emancipation-of-the-niger-delta-threatens-to-launch-a-terror-campaign-to-defend-christianity-in-nigeria-in-response-t.md)
-_Context: Christian, Nigeria, Islamist, Boko Haram, Movement for the Emancipation of the Niger Delta_
+_Context: Boko Haram, Christian, Movement for the Emancipation of the Niger Delta, Islamist, Nigeria_
 
 ##### Naxalite
 ### [Ten members of the Naxalite insurgent movement are killed in a clash with Indian police in Chhattisgarh state. ](/news/2013/04/16/ten-members-of-the-naxalite-insurgent-movement-are-killed-in-a-clash-with-indian-police-in-chhattisgarh-state.md)
@@ -29,7 +29,7 @@ Authorities in India reject a plan by the adult entertainment company Playboy to
 
 ##### American Airlines
 ### [American Airlines grounds flights across the United States due to a glitch in its computer system until 5pm EDT leaving thousands of passengers stranded. ](/news/2013/04/16/american-airlines-grounds-flights-across-the-united-states-due-to-a-glitch-in-its-computer-system-until-5pm-edt-leaving-thousands-of-passeng.md)
-_Context: American Airlines, computer system, passenger, United States, glitch, Eastern Time Zone, grounds_
+_Context: grounds, Eastern Time Zone, United States, passenger, American Airlines, computer system, glitch_
 
 ##### Magnitude
 ### [At least 37 people are dead after a 7.8 magnitude earthquake strikes with its epicenter below Khash County, Sistan and Baluchestan Province, Iran, near the border with Pakistan. Tremors are felt throughout the Middle East, Pakistan and North India, and hundreds of deaths are expected by the Iran government. ](/news/2013/04/16/at-least-37-people-are-dead-after-a-7-8-magnitude-earthquake-strikes-with-its-epicenter-below-khash-county-sistan-and-baluchestan-province.md)
@@ -37,11 +37,11 @@ Iran is hit by a 7.8-magnitude earthquake, the most powerful for more than 50 ye
 
 ##### United States
 ### [A United States military Sikorsky CH-53 Sea Stallion helicopter crashes near South Korea's border with North Korea, with no reported casualties. ](/news/2013/04/16/a-united-states-military-sikorsky-ch-53-sea-stallion-helicopter-crashes-near-south-korea-s-border-with-north-korea-with-no-reported-casualt.md)
-_Context: South Korea, Sikorsky CH-53 Sea Stallion, DMZ, United States military personnel, North Korea, United States_
+_Context: North Korea, South Korea, United States, Sikorsky CH-53 Sea Stallion, United States military personnel, DMZ_
 
 ##### Gold mine
 ### [A gold mine collapses in Kyekyewere, Ghana, killing 16 people. ](/news/2013/04/16/a-gold-mine-collapses-in-kyekyewere-ghana-killing-16-people.md)
-_Context: gold mine, Kyekyewere, Ghana_
+_Context: Kyekyewere, Ghana, gold mine_
 
 ##### North Korea
 ### [North Korea issues an "ultimatum" to South Korea, demanding blanket apologies and an immediate cessation of anti-DPRK activities. Some protesters in Seoul were noted burning portraits of North Korean leaders on Monday, while North Korea celebrated the birthday of the late Kim Il-sung. The new threat comes amid what is otherwise perceived as an easing of tensions on the Korean Peninsula. North Korean authorities say that an attack may occur without warning at any moment. ](/news/2013/04/16/north-korea-issues-an-ultimatum-to-south-korea-demanding-blanket-apologies-and-an-immediate-cessation-of-anti-dprk-activities-some-prote.md)
@@ -49,15 +49,15 @@ North Korea issued new threats against South Korea on Tuesday, vowing &quot;sled
 
 ##### China
 ### [China's defense ministry criticizes the United States for allegedly increasing tensions in the Asia-Pacific region by increasing its military presence and supporting Japan, the Philippines and Vietnam in longstanding territorial disputes. ](/news/2013/04/16/china-s-defense-ministry-criticizes-the-united-states-for-allegedly-increasing-tensions-in-the-asia-pacific-region-by-increasing-its-militar.md)
-_Context: Pacific, Vietnam, Territorial disputes in the South China Sea, United States, Philippines, Chinese Defense Ministry, China, military presence, Japan_
+_Context: Vietnam, Territorial disputes in the South China Sea, United States, Pacific, military presence, Philippines, Japan, China, Chinese Defense Ministry_
 
 ##### Liverpool
 ### [Three teenagers in Liverpool, England, are convicted for beating a homeless man to death as part of a dare. ](/news/2013/04/16/three-teenagers-in-liverpool-england-are-convicted-for-beating-a-homeless-man-to-death-as-part-of-a-dare.md)
-_Context: convicted, England, homeless people, Liverpool_
+_Context: homeless people, England, convicted, Liverpool_
 
 ##### Mexican
 ### [Former Mexican anchorman Alonso de la Colina Sordo is assassinated by an unidentified gunman in the state of Puebla. His death adds to the long list of more than 80 journalists killed in Mexico since 2005. ](/news/2013/04/16/former-mexican-anchorman-alonso-de-la-colina-sordo-is-assassinated-by-an-unidentified-gunman-in-the-state-of-puebla-his-death-adds-to-the-l.md)
-_Context: more than 80 have been killed, anchorman, Puebla, Mexican_
+_Context: Mexican, anchorman, more than 80 have been killed, Puebla_
 
 ##### Bipartisan
 ### [A bipartisan group of eight United States Senators releases its plan to overhaul the immigration system potentially allowing millions of illegal aliens the chance to become citizens. ](/news/2013/04/16/a-bipartisan-group-of-eight-united-states-senators-releases-its-plan-to-overhaul-the-immigration-system-potentially-allowing-millions-of-ill.md)

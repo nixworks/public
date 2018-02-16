@@ -9,7 +9,7 @@ A rebel soldier who took part in the 2007 occupation of a luxury hotel in Manila
 
 ##### Assam
 ### [A bomb rips through the engine and coach of a passenger train in Assam, India, killing one person. ](/news/2010/07/8/a-bomb-rips-through-the-engine-and-coach-of-a-passenger-train-in-assam-india-killing-one-person.md)
-_Context: India, Assam_
+_Context: Assam, India_
 
 ##### Palestinian Authority
 ### [The Palestinian Authority calls on U.S. President Barack Obama to end tax breaks on American donations to Jewish settlements in the West Bank. ](/news/2010/07/8/the-palestinian-authority-calls-on-u-s-president-barack-obama-to-end-tax-breaks-on-american-donations-to-jewish-settlements-in-the-west-ban.md)
@@ -21,7 +21,7 @@ UNDP regional centre in Colombo shut following days of angry protests over war-c
 
 ##### Cuba
 ### [Cuban dissident Guillermo Farinas ends a 134 day hunger strike after the Cuban government is to release 52 political prisoners. ](/news/2010/07/8/cuban-dissident-guillermo-faria-as-ends-a-134-day-hunger-strike-after-the-cuban-government-is-to-release-52-political-prisoners.md)
-_Context: political prisoner, hunger strike, Guillermo Farinas, Cuba_
+_Context: Guillermo Farinas, political prisoner, Cuba, hunger strike_
 
 ##### CNN
 ### [CNN's veteran Middle East editor Octavia Nasr writes on Twitter that she "respected" the recently deceased Lebanese Grand Ayatollah Mohammad Hussein Fadlallah. The comment is deleted from Twitter and Nasr is promptly sacked by CNN. ](/news/2010/07/8/cnn-s-veteran-middle-east-editor-octavia-nasr-writes-on-twitter-that-she-respected-the-recently-deceased-lebanese-grand-ayatollah-mohammad.md)
@@ -29,15 +29,15 @@ CNN sacks an editor who wrote on Twitter that she &quot;respected&quot; a late L
 
 ##### Amnesty International
 ### [Amnesty International calls on Israel to completely lift its blockade of the Gaza Strip after Israel removes the restrictions on all consumer goods. ](/news/2010/07/8/amnesty-international-calls-on-israel-to-completely-lift-its-blockade-of-the-gaza-strip-after-israel-removes-the-restrictions-on-all-consume.md)
-_Context: Israeli blockade, Amnesty International, consumer goods, Israel, Gaza Strip_
+_Context: Amnesty International, Israeli blockade, Israel, consumer goods, Gaza Strip_
 
 ##### David Lloyd Johnston
 ### [David Lloyd Johnston, president of the University of Waterloo, is announced as Canada's next Governor General. He will succeed Michaelle Jean in September. ](/news/2010/07/8/david-lloyd-johnston-president-of-the-university-of-waterloo-is-announced-as-canada-s-next-governor-general-he-will-succeed-michaa-lle-je.md)
-_Context: Michaelle Jean, Canadian, University of Waterloo, David Lloyd Johnston, Governor General of Canada_
+_Context: University of Waterloo, Canadian, Governor General of Canada, David Lloyd Johnston, Michaelle Jean_
 
 ##### United States
 ### [United States Republican Party Chairman Michael Steele again resist calls for him to step down after he asserted that the War in Afghanistan was a "war of Obama's choosing". ](/news/2010/07/8/united-states-republican-party-chairman-michael-steele-again-resist-calls-for-him-to-step-down-after-he-asserted-that-the-war-in-afghanistan.md)
-_Context: War in Afghanistan (2001-present), Republican, Michael Steele, United States_
+_Context: Republican, War in Afghanistan (2001-present), United States, Michael Steele_
 
 ##### Federal District Judge
 ### [US federal judge Joseph Louis Tauro, in two separate cases, rules that a federal ban against gay marriage is unconstitutional, as it interferes with a state's right to define marriage. ](/news/2010/07/8/us-federal-judge-joseph-louis-tauro-in-two-separate-cases-rules-that-a-federal-ban-against-gay-marriage-is-unconstitutional-as-it-interfe.md)
@@ -45,11 +45,11 @@ A U.S. judge in Boston has ruled that a federal gay marriage ban is unconstituti
 
 ##### Brazil
 ### [Brazilian footballer Bruno Fernandes de Souza surrenders to police in connection with the disappearance of his former mistress. ](/news/2010/07/8/brazilian-footballer-bruno-fernandes-de-souza-surrenders-to-police-in-connection-with-the-disappearance-of-his-former-mistress.md)
-_Context: Bruno Fernandes de Souza, association football, Brazil_
+_Context: association football, Bruno Fernandes de Souza, Brazil_
 
 ##### Los Angeles Police
 ### [Los Angeles Police announce that they have arrested Lonnie David Franklin, Jr., suspected to be the serial killer known as the Grim Sleeper, yesterday. He is arraigned on various murder charges. ](/news/2010/07/8/los-angeles-police-announce-that-they-have-arrested-lonnie-david-franklin-jr-suspected-to-be-the-serial-killer-known-as-the-grim-sleeper.md)
-_Context: Los Angeles Police, Grim Sleeper_
+_Context: Grim Sleeper, Los Angeles Police_
 
 ##### BT
 ### [BT Group and TalkTalk Group announce they are seeking a judicial review of the Digital Economy Act 2010. ](/news/2010/07/8/bt-group-and-talktalk-group-announce-they-are-seeking-a-judicial-review-of-the-digital-economy-act-2010.md)
@@ -73,11 +73,11 @@ The International Monetary Fund raises its world economic growth forecast for 20
 
 ##### Mozambique
 ### [Mozambique announces it will build a new bridge across the Zambezi to allow for a giant coal project in Tete Province. ](/news/2010/07/8/mozambique-announces-it-will-build-a-new-bridge-across-the-zambezi-to-allow-for-a-giant-coal-project-in-tete-province.md)
-_Context: Zambezi, Mozambique, Tete Province_
+_Context: Mozambique, Zambezi, Tete Province_
 
 ##### Atlantic Tropical Depression Two
 ### [Atlantic Tropical Depression Two makes landfall near South Padre Island in Texas. ](/news/2010/07/8/atlantic-tropical-depression-two-makes-landfall-near-south-padre-island-in-texas.md)
-_Context: Texas, South Padre Island, Atlantic Tropical Depression Two_
+_Context: Atlantic Tropical Depression Two, South Padre Island, Texas_
 
 ##### Dolphin
 ### [Dolphin Moko's corpse is believed to have washed up on a beach in New Zealand's North Island. ](/news/2010/07/8/dolphin-moko-s-corpse-is-believed-to-have-washed-up-on-a-beach-in-new-zealand-s-north-island.md)
@@ -85,7 +85,7 @@ The body of a bottlenose dolphin, believed to be the famous Kiwi dolphin, Moko, 
 
 ##### Switzerland
 ### [The Swiss Solar Impulse project's solar powered plane remains aloft for 24 hours, a record for a solar powered craft. ](/news/2010/07/8/the-swiss-solar-impulse-project-s-solar-powered-plane-remains-aloft-for-24-hours-a-record-for-a-solar-powered-craft.md)
-_Context: Switzerland, only by focused light, aircraft, Solar Impulse project_
+_Context: Solar Impulse project, Switzerland, only by focused light, aircraft_
 
 ##### United Kingdom
 ### [British researchers publish the results of an 11-year study, challenging the traditional notion that childhood obesity is a result of inadequate exercise, arguing instead that obesity leads to inadequate exercise. ](/news/2010/07/8/british-researchers-publish-the-results-of-an-11-year-study-challenging-the-traditional-notion-that-childhood-obesity-is-a-result-of-inadeq.md)
@@ -109,7 +109,7 @@ NBA superstar LeBron James has announced he will play for Miami Heat next season
 
 ##### Running of the Bulls
 ### [Two people are gored and five injured during the Running of the Bulls at the San Fermin festival in Spain. ](/news/2010/07/8/two-people-are-gored-and-five-injured-during-the-running-of-the-bulls-at-the-san-ferman-festival-in-spain.md)
-_Context: San Fermin, Running of the Bulls, Spain_
+_Context: Spain, Running of the Bulls, San Fermin_
 
 ## [Previous Day...](/news/2010/07/7/index.md)
 

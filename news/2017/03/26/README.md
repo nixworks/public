@@ -5,7 +5,7 @@ Formats: [HTML](2017/03/26/index.html)  [JSON](2017/03/26/index.json)  [XML](201
 
 ##### Ukrainian military
 ### [A Ukrainian military Mi-2 transport helicopter crashes after hitting a power line near Kramatorsk, Donetsk Oblast, killing all five people aboard. ](/news/2017/03/26/a-ukrainian-military-mi-2-transport-helicopter-crashes-after-hitting-a-power-line-near-kramatorsk-donetsk-oblast-killing-all-five-people-a.md)
-_Context: Mi-2, Donetsk Oblast, Kramatorsk, Ukrainian military_
+_Context: Ukrainian military, Donetsk Oblast, Mi-2, Kramatorsk_
 
 ##### Cincinnati, Ohio
 ### [A shooting in Cincinnati, Ohio, kills one person and injures fourteen others. ](/news/2017/03/26/a-shooting-in-cincinnati-ohio-kills-one-person-and-injures-fourteen-others.md)
@@ -17,7 +17,7 @@ _Context: Cincinnati, Ohio_
 
 ##### Bulgarian parliamentary election, 2017
 ### [Bulgarians vote to elect a new Prime Minister after the resignation of Boyko Borissov. Opinion polls predict a close contest between Borissov's centre-right GERB and the Socialist Party. ](/news/2017/03/26/bulgarians-vote-to-elect-a-new-prime-minister-after-the-resignation-of-boyko-borissov-opinion-polls-predict-a-close-contest-between-borisso.md)
-_Context: Boyko Borissov, GERB, Prime Minister, Bulgaria, Bulgarian parliamentary election, 2017, Socialist Party_
+_Context: Boyko Borissov, Bulgarian parliamentary election, 2017, Prime Minister of Bulgaria, Bulgaria, Socialist Party, GERB_
 
 ##### Hong Kong Chief Executive election, 2017
 ### [The Hong Kong Election Committee meets to select a new Chief Executive. Carrie Lam becomes the first female Chief Executive. ](/news/2017/03/26/the-hong-kong-election-committee-meets-to-select-a-new-chief-executive-carrie-lam-becomes-the-first-female-chief-executive.md)

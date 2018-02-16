@@ -25,7 +25,7 @@ _Context: Tibet, protest, Chinese rule_
 
 ##### Jimmy Savile
 ### [The family of disgraced disc jockey and television presenter Jimmy Savile makes its first public statement since his reputation was destroyed by a sexual abuse scandal. ](/news/2012/10/27/the-family-of-disgraced-disc-jockey-and-television-presenter-jimmy-savile-makes-its-first-public-statement-since-his-reputation-was-destroye.md)
-_Context: Jimmy Savile sexual abuse scandal, Jimmy Savile_
+_Context: Jimmy Savile, Jimmy Savile sexual abuse scandal_
 
 ## [Previous Day...](/news/2012/10/26/index.md)
 

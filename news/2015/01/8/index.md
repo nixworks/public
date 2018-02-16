@@ -13,7 +13,7 @@ Bodies lay strewn on the streets of a key north-eastern Nigerian town following 
 
 ##### Iraqi insurgency (2011-present)
 ### [A suicide bomber targets a police checkpoint in the town of Youssifiyah, killing seven people. ](/news/2015/01/8/a-suicide-bomber-targets-a-police-checkpoint-in-the-town-of-youssifiyah-killing-seven-people.md)
-_Context: Youssifiyah, Iraqi insurgency (2011-present), suicide bomber_
+_Context: Iraqi insurgency (2011-present), suicide bomber, Youssifiyah_
 
 ##### Dunkin' Donuts
 ### [Dunkin' Donuts signs a franchise agreement for 1,400 new cafes in China by the year 2035. ](/news/2015/01/8/dunkin-donuts-signs-a-franchise-agreement-for-1-400-new-cafes-in-china-by-the-year-2035.md)
@@ -49,7 +49,7 @@ The oil-rich nation has prohibited future public celebrations of Christmas as pa
 
 ##### Sri Lankan presidential election, 2015
 ### [Voters in Sri Lanka go to the polls for a presidential election with a tight contest predicted between President Mahinda Rajapaksa and challenger Maithripala Sirisena. ](/news/2015/01/8/voters-in-sri-lanka-go-to-the-polls-for-a-presidential-election-with-a-tight-contest-predicted-between-president-mahinda-rajapaksa-and-chall.md)
-_Context: Sri Lanka, Rajapaksa, President of Sri Lanka, Sirisena, Sri Lankan presidential election, 2015_
+_Context: Sirisena, Rajapaksa, Sri Lanka, Sri Lankan presidential election, 2015, President of Sri Lanka_
 
 ## [Previous Day...](/news/2015/01/7/index.md)
 

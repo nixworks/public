@@ -9,7 +9,7 @@ PESHAWAR, Pakistan: Taliban militants armed with automatic weapons and hand gren
 
 ##### Economics of bitcoin
 ### [The U.S. Commodity Futures Trading Commission gives a go-ahead for Bitcoin futures to trade on the Chicago Mercantile Exchange and Chicago Board Options Exchange. ](/news/2017/12/1/the-u-s-commodity-futures-trading-commission-gives-a-go-ahead-for-bitcoin-futures-to-trade-on-the-chicago-mercantile-exchange-and-chicago-b.md)
-_Context: Bitcoin, Chicago Board Options Exchange, Economics of bitcoin, U.S. Commodity Futures Trading Commission, Chicago Mercantile Exchange_
+_Context: Bitcoin, Economics of bitcoin, Chicago Board Options Exchange, U.S. Commodity Futures Trading Commission, Chicago Mercantile Exchange_
 
 ##### 2017 Philippine dengue vaccination crisis
 ### [The Philippine Department of Health temporarily suspends a school-based dengue vaccination program after Dengvaxia vaccine maker Sanofi Pasteur made a statement that its product poses higher risks to people without prior dengue infection. ](/news/2017/12/1/the-philippine-department-of-health-temporarily-suspends-a-school-based-dengue-vaccination-program-after-dengvaxia-vaccine-maker-sanofi-past.md)
@@ -21,11 +21,11 @@ The guilty plea by President Trump’s former national security adviser brings t
 
 ##### Aftermath of the Honduran general election, 2017
 ### [The government of Honduran President Juan Orlando Hernndez, who is seeking re-election, imposes a ten-day curfew after allegations of electoral fraud and calls for an election recount resulted in violent protests across the country. ](/news/2017/12/1/the-government-of-honduran-president-juan-orlando-hernandez-who-is-seeking-re-election-imposes-a-ten-day-curfew-after-allegations-of-elect.md)
-_Context: Aftermath of the Honduran general election, 2017, Juan Orlando Hernndez, Honduras_
+_Context: Aftermath of the Honduran general election, 2017, Honduras, Juan Orlando Hernndez_
 
 ##### Abdication of Emperor Akihito
 ### [Emperor Akihito announces his intentions to abdicate the throne on April 30, 2019. ](/news/2017/12/1/emperor-akihito-announces-his-intentions-to-abdicate-the-throne-on-april-30-2019.md)
-_Context: Akihito, Abdication of Emperor Akihito_
+_Context: Abdication of Emperor Akihito, Akihito_
 
 ##### Tesla Powerpack
 ### [A 100-megawatt Tesla Powerpack system, which is the world's largest lithium-ion battery, is launched in Jamestown, South Australia. ](/news/2017/12/1/a-100-megawatt-tesla-powerpack-system-which-is-the-world-s-largest-lithium-ion-battery-is-launched-in-jamestown-south-australia.md)

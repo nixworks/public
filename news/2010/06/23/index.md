@@ -9,15 +9,15 @@ Railway staff continue search for survivors of accident that killed at least 76 
 
 ##### Anthrax
 ### [Anthrax kills 30 hippopotamuses in Uganda. ](/news/2010/06/23/anthrax-kills-30-hippopotamuses-in-uganda.md)
-_Context: Uganda, hippopotamus, Anthrax_
+_Context: hippopotamus, Anthrax, Uganda_
 
 ##### Iraq
 ### [9 Iraqis are killed in bombings, including two leaders of U.S. government-backed Sunni militants. ](/news/2010/06/23/9-iraqis-are-killed-in-bombings-including-two-leaders-of-u-s-government-backed-sunni-militants.md)
-_Context: Iraq, Sunni Muslim_
+_Context: Sunni Muslim, Iraq_
 
 ##### India
 ### [An Indian colonel dies in Kashmir for the first time in three years. ](/news/2010/06/23/an-indian-colonel-dies-in-kashmir-for-the-first-time-in-three-years.md)
-_Context: India, Kashmir_
+_Context: Kashmir, India_
 
 ##### Air India Flight 182
 ### [Relatives of those killed in Air India Flight 182 gather with diplomats and politicians from Canada, India and Ireland in Cork to mark the 25th anniversary with a memorial service. ](/news/2010/06/23/relatives-of-those-killed-in-air-india-flight-182-gather-with-diplomats-and-politicians-from-canada-india-and-ireland-in-cork-to-mark-the-2.md)
@@ -53,17 +53,17 @@ One person was killed and another seriously injured when a crane suddenly crashe
 
 ##### International Whaling Commission
 ### [The International Whaling Commission does not reach agreement on curbing whaling by Japan, Norway and Iceland in a meeting in Agadir, Morocco. ](/news/2010/06/23/the-international-whaling-commission-does-not-reach-agreement-on-curbing-whaling-by-japan-norway-and-iceland-in-a-meeting-in-agadir-morocc.md)
-_Context: Japan, International Whaling Commission, Norway, Agadir, Iceland, Morocco, whaling_
+_Context: Norway, Agadir, International Whaling Commission, Japan, whaling, Morocco, Iceland_
 
 ##### Palace of Monaco
 ### [The Palace of Monaco announces the engagement of Albert II, Prince of Monaco to South African native and Olympian swimmer Charlene Wittstock. ](/news/2010/06/23/the-palace-of-monaco-announces-the-engagement-of-albert-ii-prince-of-monaco-to-south-african-native-and-olympian-swimmer-charlene-wittstock.md)
-_Context: South Africa, Albert II, Prince of Monaco, Charlene, Princess of Monaco, Palace of Monaco_
+_Context: Albert II, Prince of Monaco, South Africa, Charlene, Princess of Monaco, Palace of Monaco_
 
 ##### BP
 ### [BP chief executive Tony Hayward hands over responsibility for cleaning up the Gulf of Mexico oil spill to senior executive Bob Dudley "effective immediately". ](/news/2010/06/23/bp-chief-executive-tony-hayward-hands-over-responsibility-for-cleaning-up-the-gulf-of-mexico-oil-spill-to-senior-executive-bob-dudley-effec.md)
-_Context: Deepwater Horizon oil spill, Gulf of Mexico, chief executive, Tony Hayward, BP_
+_Context: chief executive, Tony Hayward, BP, Gulf of Mexico, Deepwater Horizon oil spill_
 
-##### Afghanistan
+##### Afghan
 ### [2 American service members die following bomb attacks in southern Afghanistan. ](/news/2010/06/23/2-american-service-members-die-following-bomb-attacks-in-southern-afghanistan.md)
 June On Track to Become 1 of Deadliest Months of War as Uncertainty Over U.S. Command Builds
 
@@ -73,7 +73,7 @@ _Context: Australia_
 
 ##### Toronto
 ### [A Toronto man is charged with possessing explosives alleged to be part of a plot to bomb the 2010 G-20 Toronto summit in Canada. ](/news/2010/06/23/a-toronto-man-is-charged-with-possessing-explosives-alleged-to-be-part-of-a-plot-to-bomb-the-2010-g-20-toronto-summit-in-canada.md)
-_Context: explosives, G20 summit, Toronto, Canadian_
+_Context: G20 summit, Toronto, explosives, Canadian_
 
 ##### Earthquake
 ### [An earthquake occurs 56 kilometres north-northeast of Ottawa, registering a 5.0 on the Richter scale. Slight damage was reported near the epicenter, and the tremor was felt in Sudbury, Windsor, Ann Arbor, Detroit, Toronto, Milwaukee, Northern Pennsylvania, Ohio and New York State. ](/news/2010/06/23/an-earthquake-occurs-56-kilometres-north-northeast-of-ottawa-registering-a-5-0-on-the-richter-scale-slight-damage-was-reported-near-the-ep.md)
@@ -89,7 +89,7 @@ _Context: Toronto, Midland, Ontario_
 
 ##### Isner-Mahut match at the 2010 Wimbledon Championships
 ### [Isner-Mahut match at the 2010 Wimbledon Championships becomes the longest match in Association of Tennis Professionals history, and is adjourned after 9 hours. ](/news/2010/06/23/isneramahut-match-at-the-2010-wimbledon-championships-becomes-the-longest-match-in-association-of-tennis-professionals-history-and-is-adj.md)
-_Context: Isner-Mahut match at the 2010 Wimbledon Championships, Association of Tennis Professionals_
+_Context: Association of Tennis Professionals, Isner-Mahut match at the 2010 Wimbledon Championships_
 
 ## [Previous Day...](/news/2010/06/22/index.md)
 

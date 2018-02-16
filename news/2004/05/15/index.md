@@ -13,7 +13,7 @@ _Context: 49th, Eurovision Song Contest, Ukraine_
 
 ##### FIFA
 ### [ FIFA announces that the 2010 Football World Cup will be held in South Africa. ](/news/2004/05/15/fifa-announces-that-the-2010-football-world-cup-will-be-held-in-south-africa.md)
-_Context: 2010 FIFA World Cup, FIFA_
+_Context: FIFA, 2010 FIFA World Cup_
 
 ##### Smarty Jones
 ### [ Smarty Jones wins the Preakness Stakes by 12 lengths. ](/news/2004/05/15/smarty-jones-wins-the-preakness-stakes-by-12-lengths.md)
@@ -21,7 +21,7 @@ _Context: Preakness, Smarty Jones_
 
 ##### Arsenal
 ### [ Arsenal defeat Leicester City 2-1 in the Premier League to become the first team to go unbeaten in the top tier English league since Preston North End in the 1888-1889 season, going 26W-12D-0L. ](/news/2004/05/15/arsenal-defeat-leicester-city-2-1-in-the-premier-league-to-become-the-first-team-to-go-unbeaten-in-the-top-tier-english-league-since-presto.md)
-_Context: Leicester City, 26W-12D-0L, English Premier League, Arsenal_
+_Context: English Premier League, Arsenal, 26W-12D-0L, Leicester City_
 
 ## [Previous Day...](/news/2004/05/14/index.md)
 

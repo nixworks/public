@@ -5,7 +5,7 @@ Formats: [HTML](2009/07/6/index.html)  [JSON](2009/07/6/index.json)  [XML](2009/
 
 ##### A ''coup d'tat''
 ### [ Honduran President Manuel Zelaya diverts his jet to Nicaragua after being barred from landing in Tegucigalpa as ground troops kill two in a battle against supporters with the country in turmoil. ](/news/2009/07/6/honduran-president-manuel-zelaya-diverts-his-jet-to-nicaragua-after-being-barred-from-landing-in-tegucigalpa-as-ground-troops-kill-two-in-a.md)
-_Context: Honduras, Tegucigalpa, Nicaragua, Manuel Zelaya, a ''coup d'tat'', President_
+_Context: Manuel Zelaya, President, a ''coup d'tat'', Tegucigalpa, Nicaragua, Honduras_
 
 ##### Riots
 ### [ Riots in China's Xinjiang region leave 156 dead and more than 800 injured. ](/news/2009/07/6/riots-in-china-s-xinjiang-region-leave-156-dead-and-more-than-800-injured.md)
@@ -17,11 +17,11 @@ _Context: South Africa_
 
 ##### Egyptians
 ### [ Egyptians mourn the death of Marwa El-Sherbini, called the "hijab martyr" after she was killed in a German courtroom by a man convicted of insulting her religion. ](/news/2009/07/6/egyptians-mourn-the-death-of-marwa-el-sherbini-called-the-hijab-martyr-after-she-was-killed-in-a-german-courtroom-by-a-man-convicted-of.md)
-_Context: hijab, Marwa El-Sherbini, German, Egyptians_
+_Context: Marwa El-Sherbini, Egyptians, hijab, German_
 
 ##### Burundi
 ### [ Burundi and Rwanda join the East African Community Customs Union. ](/news/2009/07/6/burundi-and-rwanda-join-the-east-african-community-customs-union.md)
-_Context: Burundi, East African Community, Rwanda_
+_Context: Rwanda, East African Community, Burundi_
 
 ##### Iran
 ### [ Iran frees another British embassy worker, leaving one local worker in jail. ](/news/2009/07/6/iran-frees-another-british-embassy-worker-leaving-one-local-worker-in-jail.md)
@@ -29,7 +29,7 @@ Iran has released one of the last two British embassy employees detained in Tehr
 
 ##### Earliest surviving
 ### [ About 800 pages of the earliest surviving Christian Bible are displayed on the internet. ](/news/2009/07/6/about-800-pages-of-the-earliest-surviving-christian-bible-are-displayed-on-the-internet.md)
-_Context: internet, Bible, Christian, earliest surviving_
+_Context: earliest surviving, Christian, Bible, internet_
 
 ##### Movement for the Emancipation of the Niger Delta
 ### [ The Movement for the Emancipation of the Niger Delta says it has seized a chemical tanker with six crew and attacked a second oil facility. ](/news/2009/07/6/the-movement-for-the-emancipation-of-the-niger-delta-says-it-has-seized-a-chemical-tanker-with-six-crew-and-attacked-a-second-oil-facility.md)
@@ -37,7 +37,7 @@ _Context: Movement for the Emancipation of the Niger Delta, chemical tanker_
 
 ##### Liberia
 ### [ Liberian President Ellen Johnson-Sirleaf's spokesman calls "surprising" a call by the country's truth commission that she be barred from office. ](/news/2009/07/6/liberian-president-ellen-johnson-sirleaf-s-spokesman-calls-surprising-a-call-by-the-country-s-truth-commission-that-she-be-barred-from-of.md)
-_Context: Ellen Johnson-Sirleaf, President of Liberia, Liberia_
+_Context: President of Liberia, Liberia, Ellen Johnson-Sirleaf_
 
 ##### Nigeria
 ### [ Nigerian militants hold six crew members of an oil tanker, including its Russian captain. ](/news/2009/07/6/nigerian-militants-hold-six-crew-members-of-an-oil-tanker-including-its-russian-captain.md)
@@ -57,15 +57,15 @@ _Context: Bolivia, cocaine_
 
 ##### European Union
 ### [ European Union foreign policy chief Javier Solana says he will not seek another term in office. ](/news/2009/07/6/european-union-foreign-policy-chief-javier-solana-says-he-will-not-seek-another-term-in-office.md)
-_Context: Javier Solana, European Union_
+_Context: European Union, Javier Solana_
 
 ##### GERB
 ### [ The center-right Citizens for European Development of Bulgaria party wins big in the Bulgarian parliamentary elections ](/news/2009/07/6/the-center-right-citizens-for-european-development-of-bulgaria-party-wins-big-in-the-bulgarian-parliamentary-elections.md)
-_Context: GERB, Bulgarian parliamentary elections_
+_Context: Bulgarian parliamentary elections, GERB_
 
 ##### Shooting
 ### [ Three gunmen open fire at a house in Miami, Florida, United States, killing one person and wounding eleven others. ](/news/2009/07/6/three-gunmen-open-fire-at-a-house-in-miami-florida-united-states-killing-one-person-and-wounding-eleven-others.md)
-_Context: the state, Miami, United States, shooting_
+_Context: Miami, Florida, United States, shooting_
 
 ##### Iran
 ### [ Iran says it will hold the US responsible for any Israeli attack against their country, in response to US Vice President Joe Biden's claim that the US will not interfere in an Israeli attack on Iranian nuclear facilities. ](/news/2009/07/6/iran-says-it-will-hold-the-us-responsible-for-any-israeli-attack-against-their-country-in-response-to-us-vice-president-joe-biden-s-claim.md)

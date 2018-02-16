@@ -17,7 +17,7 @@ _Context: Ariel Sharon_
 
 ##### United States
 ### [ American Floyd Landis wins the 2006 Tour de France. ](/news/2006/07/23/american-floyd-landis-wins-the-2006-tour-de-france.md)
-_Context: Floyd Landis, 2006, United States_
+_Context: Floyd Landis, United States, 2006_
 
 ##### UN
 ### [ The UN's Jan Egeland has condemned the devastation caused by Israeli air strikes in Beirut, saying it is a violation of humanitarian law.](/news/2006/07/23/the-un-s-jan-egeland-has-condemned-the-devastation-caused-by-israeli-air-strikes-in-beirut-saying-it-is-a-violation-of-humanitarian-law.md)
@@ -25,11 +25,11 @@ _Context: Floyd Landis, 2006, United States_
 
 ##### Earthquake
 ### [ An "'earthquake"' of 6.1 magnitude off the coast of Gorontalo province on the Indonesian island of Sulawesi prompts warnings of a possible tsunami. ](/news/2006/07/23/an-earthquake-of-6-1-magnitude-off-the-coast-of-gorontalo-province-on-the-indonesian-island-of-sulawesi-prompts-warnings-of-a-possible.md)
-_Context: earthquake, Sulawesi island, Indonesia, Gorontalo, tsunami_
+_Context: earthquake, Gorontalo, Sulawesi island, tsunami, Indonesia_
 
 ##### Suicide bomb
 ### [ A suicide bomb explosion kills at least 26 people in a busy market in Sadr City, a predominantly Shi'a district of Baghdad. ](/news/2006/07/23/a-suicide-bomb-explosion-kills-at-least-26-people-in-a-busy-market-in-sadr-city-a-predominantly-shi-a-district-of-baghdad.md)
-_Context: Shi'a, suicide bomb, Baghdad, Sadr City_
+_Context: Baghdad, suicide bomb, Shi'a, Sadr City_
 
 ## [Previous Day...](/news/2006/07/22/index.md)
 

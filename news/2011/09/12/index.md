@@ -29,7 +29,7 @@ _Context: a petrol pipeline explosion, Kenya, Nairobi_
 
 ##### Indonesia
 ### [At least 19 people die in a bus crash on the Indonesian island of Java. ](/news/2011/09/12/at-least-19-people-die-in-a-bus-crash-on-the-indonesian-island-of-java.md)
-_Context: Java, Indonesia_
+_Context: Indonesia, Java_
 
 ##### Zanzibar
 ### [At least 240 bodies have been recovered off the coast of Zanzibar following Saturday's ferry sinking. ](/news/2011/09/12/at-least-240-bodies-have-been-recovered-off-the-coast-of-zanzibar-following-saturday-s-ferry-sinking.md)

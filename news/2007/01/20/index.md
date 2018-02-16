@@ -9,7 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Ogn Samast
 ### [ A man named Ogn Samast is arrested in Samsun by Turkish authorities for killing Armenian-Turkish writer Hrant Dink. ](/news/2007/01/20/a-man-named-ogun-samast-is-arrested-in-samsun-by-turkish-authorities-for-killing-armenian-turkish-writer-hrant-dink.md)
-_Context: Ogn Samast, Samsun, Hrant Dink, Turkey, Armenian_
+_Context: Samsun, Turkey, Armenian, Hrant Dink, Ogn Samast_
 
 ##### War in Somalia
 ### [ War in Somalia: Somali gunmen attacks government and Ethiopian troops in a crowded market, killing 4 people. ](/news/2007/01/20/war-in-somalia-somali-gunmen-attacks-government-and-ethiopian-troops-in-a-crowded-market-killing-4-people.md)
@@ -33,7 +33,7 @@ _Context: Pole of Inaccessibility_
 
 ##### World Social Forum
 ### [ The World Social Forum opens in Nairobi, Kenya. ](/news/2007/01/20/the-world-social-forum-opens-in-nairobi-kenya.md)
-_Context: Nairobi, World Social Forum, Kenya_
+_Context: World Social Forum, Nairobi, Kenya_
 
 ## [Previous Day...](/news/2007/01/19/index.md)
 

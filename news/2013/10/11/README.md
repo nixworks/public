@@ -21,7 +21,7 @@ As many as 500,000 people in India have been evacuated as a massive cyclone swee
 
 ##### Migrant boat sinks
 ### [A migrant boat sinks in the Channel of Sicily with at least 27 people dead but over 200 rescued. ](/news/2013/10/11/a-migrant-boat-sinks-in-the-channel-of-sicily-with-at-least-27-people-dead-but-over-200-rescued.md)
-_Context: Channel of Sicily, migrant boat sinks_
+_Context: migrant boat sinks, Channel of Sicily_
 
 ##### Organisation for the Prohibition of Chemical Weapons
 ### [The Organisation for the Prohibition of Chemical Weapons wins the Nobel Peace Prize. ](/news/2013/10/11/the-organisation-for-the-prohibition-of-chemical-weapons-wins-the-nobel-peace-prize.md)

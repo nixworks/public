@@ -13,11 +13,11 @@ No date was set for new round of negotiations after six days of fractious talks
 
 ##### Academy Award
 ### [Academy Award-nominated actress Ellen Page comes out as lesbian at a Human Rights Campaign conference. ](/news/2014/02/15/academy-award-nominated-actress-ellen-page-comes-out-as-lesbian-at-a-human-rights-campaign-conference.md)
-_Context: lesbian, Human Rights Campaign, Ellen Page, Academy Award_
+_Context: Academy Award, Human Rights Campaign, Ellen Page, lesbian_
 
 ##### Prime minister
 ### [Prime Minister of Vietnam Nguyen TCNYn Dung initiates the construction of Tan Vu-Lach Huyen Bridge in Haiphong which will become the longest sea bridge in Vietnam as well as Southeast Asia. ](/news/2014/02/15/prime-minister-of-vietnam-nguya-n-taocnyn-da-c-ng-initiates-the-construction-of-tac-n-va-c-lao-ch-huya-n-bridge-in-haiphong-which-will-become.md)
-_Context: prime minister, Haiphong, Tan Vu-Lach Huyen Bridge, Nguyen TCNYn Dung_
+_Context: prime minister, Nguyen TCNYn Dung, Haiphong, Tan Vu-Lach Huyen Bridge_
 
 ##### North Korea
 ### [A North Korean cargo ship is allowed to leave the Panama Canal. ](/news/2014/02/15/a-north-korean-cargo-ship-is-allowed-to-leave-the-panama-canal.md)
@@ -33,7 +33,7 @@ A passenger on a cruise ship has been killed in the English Channel and another 
 
 ##### Japan
 ### [Rescuers are searching for seven missing Japanese divers in Bali. ](/news/2014/02/15/rescuers-are-searching-for-seven-missing-japanese-divers-in-bali.md)
-_Context: Japan, Bali_
+_Context: Bali, Japan_
 
 ##### Same-sex marriage in Virginia
 ### [A U.S. federal judge overturns a ban on same-sex marriage in Virginia. ](/news/2014/02/15/a-u-s-federal-judge-overturns-a-ban-on-same-sex-marriage-in-virginia.md)

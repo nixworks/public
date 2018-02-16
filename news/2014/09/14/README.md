@@ -5,7 +5,7 @@ Formats: [HTML](2014/09/14/index.html)  [JSON](2014/09/14/index.json)  [XML](201
 
 ##### Australia
 ### [Australia sends combat aircraft and special forces to the Middle East to help in the fight against Islamic State. ](/news/2014/09/14/australia-sends-combat-aircraft-and-special-forces-to-the-middle-east-to-help-in-the-fight-against-islamic-state.md)
-_Context: Middle East, ISIL, Australia_
+_Context: Australia, Middle East, ISIL_
 
 ##### War in Donbass
 ### [Heavy fighting resumes between Ukraine forces and rebels near Donetsk International Airport with at least six people dead. The terminal is burning. ](/news/2014/09/14/heavy-fighting-resumes-between-ukraine-forces-and-rebels-near-donetsk-international-airport-with-at-least-six-people-dead-the-terminal-is-b.md)
@@ -25,7 +25,7 @@ Forty people died after a building collapse at the megachurch of one of Nigeria&
 
 ##### 2014 Pacific hurricane season
 ### [Hurricane Odile reaches Category 4 strength as it nears Mexico's Baja California coast. ](/news/2014/09/14/hurricane-odile-reaches-category-4-strength-as-it-nears-mexico-s-baja-california-coast.md)
-_Context: Baja California, Mexican, Hurricane Odile, 2014 Pacific hurricane season_
+_Context: 2014 Pacific hurricane season, Hurricane Odile, Mexican, Baja California_
 
 ##### 2014 Pacific typhoon season
 ### [Typhoon Kalmaegi hits the northeast Philippines with warnings of potential floods and landslides. ](/news/2014/09/14/typhoon-kalmaegi-hits-the-northeast-philippines-with-warnings-of-potential-floods-and-landslides.md)

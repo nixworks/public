@@ -25,11 +25,11 @@ _Context: Taiwan, Taipei_
 
 ##### Pope Benedict XVI
 ### [ Pope Benedict XVI opens a three-week synod of African bishops with a Mass in St. Peter's Basilica in Rome. ](/news/2009/10/4/pope-benedict-xvi-opens-a-three-week-synod-of-african-bishops-with-a-mass-in-st-peter-s-basilica-in-rome.md)
-_Context: Rome, Italy, Africa, Mass, bishop, Vatican, Pope Benedict XVI, synod_
+_Context: bishop, synod, Vatican, Mass, Africa, Pope Benedict XVI, Rome, Italy_
 
 ##### China
 ### [ Chinese Premier Wen Jiabao commences his three-day visit to North Korea, and is greeted at the airport by ailing leader Kim Jong-il. ](/news/2009/10/4/chinese-premier-wen-jiabao-commences-his-three-day-visit-to-north-korea-and-is-greeted-at-the-airport-by-ailing-leader-kim-jong-il.md)
-_Context: Wen Jiabao, China, North Korea, Kim Jong-il, Premier_
+_Context: China, Wen Jiabao, Kim Jong-il, North Korea, Premier_
 
 ##### United Kingdom
 ### [ The British and French governments announce a "historic" GBP2.5 billion allocation to the International Monetary Fund to help less wealthy countries. ](/news/2009/10/4/the-british-and-french-governments-announce-a-historic-agbp2-5-billion-allocation-to-the-international-monetary-fund-to-help-less-wealthy.md)

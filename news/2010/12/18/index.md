@@ -53,7 +53,7 @@ _Context: incident near Eocheong island_
 
 ##### Nigeria
 ### [Nigeria agrees to drop corruption charges against Dick Cheney and Halliburton in exchange for a $250 million settlement. ](/news/2010/12/18/nigeria-agrees-to-drop-corruption-charges-against-dick-cheney-and-halliburton-in-exchange-for-a-250-million-settlement.md)
-_Context: Dick Cheney, Halliburton, settlement, Nigeria_
+_Context: Dick Cheney, Halliburton, Nigeria, settlement_
 
 ##### Russia
 ### [Hundreds of people, including nationalists, are arrested in the Russian capital Moscow in an attempt to prevent an outbreak of ethnic violence. ](/news/2010/12/18/hundreds-of-people-including-nationalists-are-arrested-in-the-russian-capital-moscow-in-an-attempt-to-prevent-an-outbreak-of-ethnic-violen.md)
@@ -65,7 +65,7 @@ At least 140 prisoners were on the loose Friday in northern Mexico after breakin
 
 ##### United States Senate
 ### [The United States Senate repeals "Don't Ask Don't Tell" by a vote of 65-35. The bill will now be sent to President Barack Obama to be signed. ](/news/2010/12/18/the-united-states-senate-repeals-don-t-ask-don-t-tell-by-a-vote-of-65-35-the-bill-will-now-be-sent-to-president-barack-obama-to-be-signed.md)
-_Context: Don't Ask Don't Tell, Barack Obama, United States Senate_
+_Context: United States Senate, Don't Ask Don't Tell, Barack Obama_
 
 ##### Italy
 ### [An Italian court grants Amanda Knox a review of the forensic evidence used to convict her of the 2007 murder of British student Meredith Kercher. ](/news/2010/12/18/an-italian-court-grants-amanda-knox-a-review-of-the-forensic-evidence-used-to-convict-her-of-the-2007-murder-of-british-student-meredith-ker.md)
@@ -73,7 +73,7 @@ Amanda Knox has been granted a review of the forensic evidence used to convict h
 
 ##### Venezuela
 ### [The Venezuelan parliament temporarily grants more powers to President Hugo Chavez in the wake of recent flooding, allowing him to pass laws by decree without the support of the National Assembly.](/news/2010/12/18/the-venezuelan-parliament-temporarily-grants-more-powers-to-president-hugo-cha-vez-in-the-wake-of-recent-flooding-allowing-him-to-pass-laws.md)
-_Context: decree, Venezuelan President, Hugo Chavez, National Assembly, Venezuela_
+_Context: Venezuela, Venezuelan President, National Assembly, Hugo Chavez, decree_
 
 ## [Previous Day...](/news/2010/12/17/index.md)
 

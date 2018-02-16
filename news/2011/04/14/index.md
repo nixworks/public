@@ -17,11 +17,11 @@ NATO and its allies are committed to ousting Qaddafi. But it is the Libyan peopl
 
 ##### President
 ### [Shots are fired in the compound of the President of Burkina Faso Blaise Compaore. ](/news/2011/04/14/shots-are-fired-in-the-compound-of-the-president-of-burkina-faso-blaise-compaora-c.md)
-_Context: Blaise Compaore, President_
+_Context: President, Blaise Compaore_
 
 ##### Encyclopedia Dramatica
 ### [Encyclopedia Dramatica shuts down and is replaced by "oh internet", provoking protests by 4chan members and former readers of the site. ](/news/2011/04/14/encyclopedia-dramatica-shuts-down-and-is-replaced-by-oh-internet-provoking-protests-by-4chan-members-and-former-readers-of-the-site.md)
-_Context: 4chan, Encyclopedia Dramatica_
+_Context: Encyclopedia Dramatica, 4chan_
 
 ##### Ford Australia
 ### [Ford Australia announces plans to cut 240 jobs and cut production in its plants at Geelong and Broadmeadows due to falling demand for larger vehicles. ](/news/2011/04/14/ford-australia-announces-plans-to-cut-240-jobs-and-cut-production-in-its-plants-at-geelong-and-broadmeadows-due-to-falling-demand-for-larger.md)
@@ -41,11 +41,11 @@ North Korea confirms that it arrested a US citizen last November, and is prepari
 
 ##### Brazil
 ### [Leaders of Brazil, Russia, India, China and South Africa attend a BRICS summit in Sanya in China's Hainan Province. ](/news/2011/04/14/leaders-of-brazil-russia-india-china-and-south-africa-attend-a-brics-summit-in-sanya-in-china-s-hainan-province.md)
-_Context: Brazil, Russia, India, China, and South Africa, China, India, Russia, Sanya, Brazil, South Africa, Hainan Province_
+_Context: Brazil, Russia, India, China, and South Africa, India, Hainan Province, Brazil, Russia, Sanya, South Africa, China_
 
 ##### NATO
 ### [NATO foreign ministers meet in Berlin, Germany, to discuss issues including Libya. ](/news/2011/04/14/nato-foreign-ministers-meet-in-berlin-germany-to-discuss-issues-including-libya.md)
-_Context: Berlin, German, civil war, NATO_
+_Context: Berlin, civil war, NATO, German_
 
 ##### Rejean Hinse
 ### [Rejean Hinse, a Quebec man wrongly convicted of a crime in the 1960s before being acquitted by the Supreme Court of Canada 30 years later receives a record $13.1 million in compensation. ](/news/2011/04/14/ra-c-jean-hinse-a-quebec-man-wrongly-convicted-of-a-crime-in-the-1960s-before-being-acquitted-by-the-supreme-court-of-canada-30-years-later-r.md)

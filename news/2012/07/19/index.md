@@ -9,7 +9,7 @@ _Context: Damascus_
 
 ##### Valiulla Yakupov
 ### [Russian Muslim leader Valiulla Yakupov is shot dead and the Mufti of Tatarstan, Ildus Fayzov, is wounded in two separate attacks in Kazan in the Russian Republic of Tatarstan. ](/news/2012/07/19/russian-muslim-leader-valiulla-yakupov-is-shot-dead-and-the-mufti-of-tatarstan-ildus-fayzov-is-wounded-in-two-separate-attacks-in-kazan-in.md)
-_Context: Valiulla Yakupov, Kazan, Ildus Fayzov, Russian Republic of Tatarstan_
+_Context: Valiulla Yakupov, Russian Republic of Tatarstan, Kazan, Ildus Fayzov_
 
 ##### Daily Telegraph
 ### [In an interview published by "The Daily Telegraph", British Prime Minister David Cameron suggests that government spending cuts will need to continue until the end of the decade. ](/news/2012/07/19/in-an-interview-published-by-the-daily-telegraph-british-prime-minister-david-cameron-suggests-that-government-spending-cuts-will-need-to.md)
@@ -17,7 +17,7 @@ The government should slow the pace of budget cuts next year if growth in the UK
 
 ##### Bangladesh
 ### [Bangladeshi writer and film director Humayun Ahmed dies at 63 in New York while undergoing a treatment for colorectal cancer. ](/news/2012/07/19/bangladeshi-writer-and-film-director-humayun-ahmed-dies-at-63-in-new-york-while-undergoing-a-treatment-for-colorectal-cancer.md)
-_Context: Humayun Ahmed, Bangladesh, colorectal cancer, New York City_
+_Context: Humayun Ahmed, colorectal cancer, Bangladesh, New York City_
 
 ##### China
 ### [China summons a Russian diplomat after the latter country opened fire on a fishing boat and detained the Chinese crew. ](/news/2012/07/19/china-summons-a-russian-diplomat-after-the-latter-country-opened-fire-on-a-fishing-boat-and-detained-the-chinese-crew.md)
@@ -25,7 +25,7 @@ _Context: Russia, China_
 
 ##### Omar Suleiman
 ### [Omar Suleiman, the former police and intelligence chief under ousted Egyptian dictator Hosni Mubarak, dies suddenly during medical tests in the United States. ](/news/2012/07/19/omar-suleiman-the-former-police-and-intelligence-chief-under-ousted-egyptian-dictator-hosni-mubarak-dies-suddenly-during-medical-tests-in.md)
-_Context: Omar Suleiman, Hosni Mubarak_
+_Context: Hosni Mubarak, Omar Suleiman_
 
 ##### Ban Ki-moon
 ### [Ban Ki-moon, the Secretary-General of the United Nations, condemns yesterday's bombing that killed the Syrian defence minister and other senior officials. ](/news/2012/07/19/ban-ki-moon-the-secretary-general-of-the-united-nations-condemns-yesterday-s-bombing-that-killed-the-syrian-defence-minister-and-other-sen.md)
@@ -37,7 +37,7 @@ Assets worth £100m belonging to Syrian regime leaders have been located and fro
 
 ##### Antwerp, New York
 ### [Six people are killed and one is injured in Antwerp, New York when a tractor trailer carrying yogurt rear-ends a vehicle that had slowed for construction work. ](/news/2012/07/19/six-people-are-killed-and-one-is-injured-in-antwerp-new-york-when-a-tractor-trailer-carrying-yogurt-rear-ends-a-vehicle-that-had-slowed-for.md)
-_Context: yogurt, Antwerp, New York, tractor trailer_
+_Context: Antwerp, New York, tractor trailer, yogurt_
 
 ##### Birmingham
 ### [Eight men are found not guilty of the murder of three friends in Birmingham during last year's riots in England. ](/news/2012/07/19/eight-men-are-found-not-guilty-of-the-murder-of-three-friends-in-birmingham-during-last-year-s-riots-in-england.md)
@@ -53,7 +53,7 @@ _Context: New Delhi, India_
 
 ##### O le Ao o le Malo
 ### [O le Ao o le Malo Tufuga Efi is re-elected unopposed by the Parliament of Samoa. ](/news/2012/07/19/o-le-ao-o-le-malo-tufuga-efi-is-re-elected-unopposed-by-the-parliament-of-samoa.md)
-_Context: re-elected unopposed, O le Ao o le Malo, Parliament of Samoa, Tufuga Efi_
+_Context: Tufuga Efi, re-elected unopposed, Parliament of Samoa, O le Ao o le Malo_
 
 ##### Burma
 ### [Burma's state television airs the first memorial ceremony in over 20 years for Aung San &ndash; the father of Aung San Suu Kyi &ndash; who led the country to its independence. ](/news/2012/07/19/burma-s-state-television-airs-the-first-memorial-ceremony-in-over-20-years-for-aung-san-ndash-the-father-of-aung-san-suu-kyi-ndash-who-l.md)

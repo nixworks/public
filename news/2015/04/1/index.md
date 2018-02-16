@@ -9,11 +9,11 @@ The emergency landing of two U.S. Marine Corps F-18 fighter jets on the island o
 
 ##### Mexican
 ### [Flames engulf a Mexican state-run Pemex oil platform in the Gulf of Mexico, killing four workers. ](/news/2015/04/1/flames-engulf-a-mexican-state-run-pemex-oil-platform-in-the-gulf-of-mexico-killing-four-workers.md)
-_Context: Mexican, Gulf of Mexico, Petroleos Mexicanos_
+_Context: Petroleos Mexicanos, Gulf of Mexico, Mexican_
 
 ##### Russia
 ### [The Russian trawler "Dalniy Vostok" with 132 crew sinks off of the Kamchatka peninsula leaving at least 54 dead and 15 missing. ](/news/2015/04/1/the-russian-trawler-dalniy-vostok-with-132-crew-sinks-off-of-the-kamchatka-peninsula-leaving-at-least-54-dead-and-15-missing.md)
-_Context: ''Dalniy Vostok'', sinks, Kamchatka peninsula, Russia_
+_Context: ''Dalniy Vostok'', Kamchatka peninsula, sinks, Russia_
 
 ##### California
 ### [California governor Jerry Brown announces mandatory water restrictions in response to the worst drought in California history. ](/news/2015/04/1/california-governor-jerry-brown-announces-mandatory-water-restrictions-in-response-to-the-worst-drought-in-california-history.md)
@@ -25,15 +25,15 @@ Attack comes day after Turkish prosecutor taken hostage dies in police shootout 
 
 ##### Tulsa
 ### [An apparent murder and suicide leaves four dead in Tulsa, Oklahoma. ](/news/2015/04/1/an-apparent-murder-and-suicide-leaves-four-dead-in-tulsa-oklahoma.md)
-_Context: Oklahoma, Tulsa_
+_Context: Tulsa, Oklahoma_
 
 ##### New Jersey
 ### [A federal grand jury indicts New Jersey Senator Bob Menendez on corruption charges. ](/news/2015/04/1/a-federal-grand-jury-indicts-new-jersey-senator-bob-menendez-on-corruption-charges.md)
-_Context: Bob Menendez, New Jersey_
+_Context: New Jersey, Bob Menendez_
 
 ##### Atlanta
 ### [A court convicts eleven Atlanta, Georgia teachers as part of a mass cheating scandal. ](/news/2015/04/1/a-court-convicts-eleven-atlanta-georgia-teachers-as-part-of-a-mass-cheating-scandal.md)
-_Context: Atlanta, mass cheating scandal, Georgia_
+_Context: mass cheating scandal, Georgia, Atlanta_
 
 ##### Obama Administration
 ### [The Obama Administration targets overseas cyber attackers with a sanctions program. ](/news/2015/04/1/the-obama-administration-targets-overseas-cyber-attackers-with-a-sanctions-program.md)
@@ -41,7 +41,7 @@ President Barack Obama launched a sanctions program on Wednesday to target indiv
 
 ##### Thailand
 ### [Thailand's military junta repeals martial law in favor of an imposed constitutional provision that allows the leader of the government to make extra-constitutional orders. ](/news/2015/04/1/thailand-s-military-junta-repeals-martial-law-in-favor-of-an-imposed-constitutional-provision-that-allows-the-leader-of-the-government-to-ma.md)
-_Context: Thailand, military junta_
+_Context: military junta, Thailand_
 
 ## [Previous Day...](/news/2015/03/31/index.md)
 

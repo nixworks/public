@@ -13,15 +13,15 @@ UN agency calls on Houthis to release fuel supplies, saying it needs 200,000 lit
 
 ##### Libyan Civil War (2014-present)
 ### [A rocket attack on a centre for despatching ambulances in the eastern city of Benghazi kills at least three people and injures seven other. ](/news/2015/05/1/a-rocket-attack-on-a-centre-for-despatching-ambulances-in-the-eastern-city-of-benghazi-kills-at-least-three-people-and-injures-seven-other.md)
-_Context: Libyan Civil War (2014-present), Benghazi_
+_Context: Benghazi, Libyan Civil War (2014-present)_
 
 ##### Papua New Guinea
 ### [A 7.1 magnitude earthquake occurs in Papua New Guinea's East New Britain province with the potential to generate a local tsunami. ](/news/2015/05/1/a-7-1-magnitude-earthquake-occurs-in-papua-new-guinea-s-east-new-britain-province-with-the-potential-to-generate-a-local-tsunami.md)
-_Context: Papua New Guinea, tsunami, East New Britain_
+_Context: tsunami, Papua New Guinea, East New Britain_
 
 ##### Australian east coast low
 ### [Four people have died in South East Queensland in flood waters triggered by heavy rain. ](/news/2015/05/1/four-people-have-died-in-south-east-queensland-in-flood-waters-triggered-by-heavy-rain.md)
-_Context: South East Queensland, Australian east coast low_
+_Context: Australian east coast low, South East Queensland_
 
 ##### Expo 2015
 ### [Expo 2015 opens in Milan, Italy, with the theme "Feeding the planet, energy for life" and with 145 countries participating.](/news/2015/05/1/expo-2015-opens-in-milan-italy-with-the-theme-feeding-the-planet-energy-for-life-and-with-145-countries-participating.md)
@@ -29,7 +29,7 @@ A major global commercial fair - Milan Expo 2015 - opens in northern Italy, but 
 
 ##### Salk Institute
 ### [Scientists at the Salk Institute and the Chinese Academy of Sciences studying Werner's syndrome, which is characterized by the appearance of premature aging, report that aging causes an overall decline in the synthesis of proteins that are themselves involved in protein synthesis. ](/news/2015/05/1/scientists-at-the-salk-institute-and-the-chinese-academy-of-sciences-studying-werner-s-syndrome-which-is-characterized-by-the-appearance-of.md)
-_Context: Werner's syndrome, Salk Institute, synthesis of proteins, Chinese Academy of Sciences, aging, protein synthesis_
+_Context: Chinese Academy of Sciences, Salk Institute, aging, synthesis of proteins, Werner's syndrome, protein synthesis_
 
 ##### France
 ### [French President Francois Hollande promises to investigate claims that French Army soldiers were involved in sexual child abuse in the Central African Republic. ](/news/2015/05/1/french-president-franassois-hollande-promises-to-investigate-claims-that-french-army-soldiers-were-involved-in-sexual-child-abuse-in-the-cent.md)
@@ -41,7 +41,7 @@ Prosecutors in Baltimore described repeated mistreatment of a 25-year-old man wh
 
 ##### Fort Lee lane closure scandal
 ### [Former Port Authority of New York and New Jersey official David Wildstein pleads guilty for his role in creating traffic jams near the George Washington Bridge for political retribution in 2013. ](/news/2015/05/1/former-port-authority-of-new-york-and-new-jersey-official-david-wildstein-pleads-guilty-for-his-role-in-creating-traffic-jams-near-the-georg.md)
-_Context: traffic jam, George Washington Bridge, Port Authority, Fort Lee lane closure scandal, David Wildstein_
+_Context: traffic jam, George Washington Bridge, David Wildstein, Fort Lee lane closure scandal, Port Authority_
 
 ## [Previous Day...](/news/2015/04/30/index.md)
 

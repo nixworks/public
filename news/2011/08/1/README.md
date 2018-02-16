@@ -5,7 +5,7 @@ Formats: [HTML](2011/08/1/index.html)  [JSON](2011/08/1/index.json)  [XML](2011/
 
 ##### Recent unrest
 ### [At least 11 people, including 5 suspects, are killed and 15 others are injured on Sunday's violence in China's Xinjiang region, raising the death toll to 20 over the weekend attacks in Kashgar. ](/news/2011/08/1/at-least-11-people-including-5-suspects-are-killed-and-15-others-are-injured-on-sunday-s-violence-in-china-s-xinjiang-region-raising-the.md)
-_Context: China, Xinjiang, Kashgar, recent unrest_
+_Context: Kashgar, Xinjiang, China, recent unrest_
 
 ##### 
 ### [More than 142 people are killed across the country in a continuing crackdown on protests. ](/news/2011/08/1/more-than-142-people-are-killed-across-the-country-in-a-continuing-crackdown-on-protests.md)
@@ -21,7 +21,7 @@ _Context: HSBC_
 
 ##### Foxconn
 ### [Foxconn Technology, a computer assembler headquartered in Taiwan, plans to add one million robots to its plants over the next three years, according to a Reuters report. ](/news/2011/08/1/foxconn-technology-a-computer-assembler-headquartered-in-taiwan-plans-to-add-one-million-robots-to-its-plants-over-the-next-three-years-a.md)
-_Context: Foxconn, Taiwan_
+_Context: Taiwan, Foxconn_
 
 ##### BBC
 ### [BBC journalists stage another 24-hour strike in protest at planned redundancies. ](/news/2011/08/1/bbc-journalists-stage-another-24-hour-strike-in-protest-at-planned-redundancies.md)
@@ -37,19 +37,19 @@ Italian authorities found 25 dead bodies in a boat that was carrying refugees an
 
 ##### Hurricane Rina
 ### [Tropical Storm Emily forms in the Atlantic Ocean with tropical storm warnings issued for Puerto Rico, Guadeloupe, Desirade, Les Saintes, Marie Galante and the Dominican Republic. ](/news/2011/08/1/tropical-storm-emily-forms-in-the-atlantic-ocean-with-tropical-storm-warnings-issued-for-puerto-rico-guadeloupe-desirade-les-saintes-mar.md)
-_Context: Puerto Rico, Atlantic Ocean, Guadeloupe, tropical storm, Dominican Republic, Les Saintes, Hurricane Rina, Marie Galante, Desirade_
+_Context: Dominican Republic, Puerto Rico, tropical storm, Atlantic Ocean, Guadeloupe, Les Saintes, Marie Galante, Desirade, Hurricane Rina_
 
 ##### North Korea
 ### [North Korea agrees to further talks with the United States as part of efforts to restore Six Party talks on its nuclear weapons program. ](/news/2011/08/1/north-korea-agrees-to-further-talks-with-the-united-states-as-part-of-efforts-to-restore-six-party-talks-on-its-nuclear-weapons-program.md)
-_Context: Six Party talks, United States, North Korea's nuclear program, North Korea_
+_Context: North Korea's nuclear program, United States, North Korea, Six Party talks_
 
 ##### South Korea
 ### [South Korea bans three Japanese lawmakers all from the Liberal Democratic Party due to an assertion of Japanese sovereignty over the Liancourt Rocks. ](/news/2011/08/1/south-korea-bans-three-japanese-lawmakers-all-from-the-liberal-democratic-party-due-to-an-assertion-of-japanese-sovereignty-over-the-liancou.md)
-_Context: South Korea, Liancourt Rocks, Japanese, sovereignty, Liberal Democratic Party_
+_Context: Japanese, Liancourt Rocks, South Korea, Liberal Democratic Party, sovereignty_
 
 ##### Kevin Rudd
 ### [Kevin Rudd, the Minister for Foreign Affairs and former Prime Minister of Australia, goes into hospital to have the aortic valve in his heart replaced. ](/news/2011/08/1/kevin-rudd-the-minister-for-foreign-affairs-and-former-prime-minister-of-australia-goes-into-hospital-to-have-the-aortic-valve-in-his-hear.md)
-_Context: aortic valve, Australian Prime Minister, Kevin Rudd, Australian Foreign Minister_
+_Context: Australian Prime Minister, aortic valve, Australian Foreign Minister, Kevin Rudd_
 
 ##### United States House of Representatives
 ### [The United States House of Representatives passes legislation to raise the debt ceiling and avert the 2011 U.S. debt ceiling crisis. ](/news/2011/08/1/the-united-states-house-of-representatives-passes-legislation-to-raise-the-debt-ceiling-and-avert-the-2011-u-s-debt-ceiling-crisis.md)

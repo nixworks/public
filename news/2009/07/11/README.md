@@ -5,7 +5,7 @@ Formats: [HTML](2009/07/11/index.html)  [JSON](2009/07/11/index.json)  [XML](200
 
 ##### President
 ### [ The President of Peru Alan Garca names Javier Velsquez as the Prime Minister of Peru. ](/news/2009/07/11/the-president-of-peru-alan-garcia-names-javier-velasquez-as-the-prime-minister-of-peru.md)
-_Context: Prime Minister, President, Alan Garca, Javier Velsquez_
+_Context: Alan Garca, President, Javier Velsquez, Prime Minister_
 
 ##### Riots
 ### [ The death toll from the recent riots in rmqi rises to 184. ](/news/2009/07/11/the-death-toll-from-the-recent-riots-in-urumqi-rises-to-184.md)

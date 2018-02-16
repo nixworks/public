@@ -3,9 +3,9 @@ Formats: [HTML](2013/06/8/index.html)  [JSON](2013/06/8/index.json)  [XML](2013/
 
 ## [2013-06-8](/news/2013/06/8/index.md)
 
-##### Afghanistan
+##### Afghan
 ### [In Afghanistan, a man wearing an Afghan military uniform attacks and kills three American soldiers, in what appears to be an insider attack on U.S. International Security Assistance Force soldiers, based in east Afghanistan's Paktika Province. ](/news/2013/06/8/in-afghanistan-a-man-wearing-an-afghan-military-uniform-attacks-and-kills-three-american-soldiers-in-what-appears-to-be-an-insider-attack.md)
-_Context: International Security Assistance Force, Afghanistan, American soldiers, Paktika Province, Afghan military_
+_Context: Afghan military, Paktika Province, Afghan, American soldiers, International Security Assistance Force_
 
 ##### Syrian Armed Forces
 ### [The Syrian military captures the town of Al-Buwaydah al-Sharqiyah. ](/news/2013/06/8/the-syrian-military-captures-the-town-of-al-buwaydah-al-sharqiyah.md)
@@ -21,11 +21,11 @@ _Context: Boko Haram, Maiduguri_
 
 ##### Mali
 ### [The government of Mali opens talks with Tuareg separatists in the hopes of reaching a ceasefire agreement. ](/news/2013/06/8/the-government-of-mali-opens-talks-with-tuareg-separatists-in-the-hopes-of-reaching-a-ceasefire-agreement.md)
-_Context: ceasefire, Mali, Tuareg_
+_Context: ceasefire, Tuareg, Mali_
 
 ##### Ras Kamboni Movement
 ### [Clashes between the Ras Kamboni Movement and pro-government militia leave at least 18 dead in the Somali port of Kismayu. ](/news/2013/06/8/clashes-between-the-ras-kamboni-movement-and-pro-government-militia-leave-at-least-18-dead-in-the-somali-port-of-kismayu.md)
-_Context: Ras Kamboni Movement, Kismayu, Somalia_
+_Context: Ras Kamboni Movement, Somalia, Kismayu_
 
 ##### Princess Madeleine of Sweden
 ### [Princess Madeleine of Sweden marries British-born American businessman Christopher O'Neill in a lavish ceremony. ](/news/2013/06/8/princess-madeleine-of-sweden-marries-british-born-american-businessman-christopher-o-neill-in-a-lavish-ceremony.md)

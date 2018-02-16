@@ -9,15 +9,15 @@ _Context: Kandahar_
 
 ##### United Nations
 ### [Senior United Nations envoy Roger Meece calls the scale of sexual attacks in the Democratic Republic of the Congo "enormous". More than 15,000 rapes occurred in the east of the country last year. ](/news/2010/10/16/senior-united-nations-envoy-roger-meece-calls-the-scale-of-sexual-attacks-in-the-democratic-republic-of-the-congo-enormous-more-than-15-0.md)
-_Context: Roger Meece, United Nations, DR Congo_
+_Context: United Nations, Roger Meece, DR Congo_
 
 ##### Oscar Wilde
 ### [Oscar Wilde receives a Google doodle on the 156th anniversary of his birthday, a portrait from his novel "The Picture of Dorian Gray". ](/news/2010/10/16/oscar-wilde-receives-a-google-doodle-on-the-156th-anniversary-of-his-birthday-a-portrait-from-his-novel-the-picture-of-dorian-gray.md)
-_Context: Google doodle, The Picture of Dorian Gray, Oscar Wilde_
+_Context: Google doodle, Oscar Wilde, The Picture of Dorian Gray_
 
 ##### Shanghai Expo
 ### [The number of visitors to Expo 2010 Shanghai exceeds 64 million, breaking the record the history of the World's Fairs. ](/news/2010/10/16/the-number-of-visitors-to-expo-2010-shanghai-exceeds-64-million-breaking-the-record-the-history-of-the-world-s-fairs.md)
-_Context: World's Fair, Shanghai Expo_
+_Context: Shanghai Expo, World's Fair_
 
 ##### Dubai World Trade Centre
 ### [Dubai World Trade Centre opens GITEX technology week 30th Anniversary. ](/news/2010/10/16/dubai-world-trade-centre-opens-gitex-technology-week-30th-anniversary.md)
@@ -41,7 +41,7 @@ Twenty-eight rescued miners are secretly released from hospital in Chile, two da
 
 ##### China
 ### [China mounts a diplomatic campaign to block the publication of a U.N. report that claims that Chinese ammunition has been shipped into Darfur in the past year in violation of U.N. sanctions. ](/news/2010/10/16/china-mounts-a-diplomatic-campaign-to-block-the-publication-of-a-u-n-report-that-claims-that-chinese-ammunition-has-been-shipped-into-darfu.md)
-_Context: Darfur, China, U.N._
+_Context: China, Darfur, U.N._
 
 ##### World Food Day
 ### [On World Food Day, United Nations calls for united front against food shortages, because one billion people are still hungry. ](/news/2010/10/16/on-world-food-day-united-nations-calls-for-united-front-against-food-shortages-because-one-billion-people-are-still-hungry.md)
@@ -49,7 +49,7 @@ _Context: United Nations, World Food Day_
 
 ##### Israeli Air Force
 ### [The Israeli Air Force and the Hellenic Air Force combine for manoeuvres involving helicopters and jets as Israel seeks new air links following its disagreement with Turkey. ](/news/2010/10/16/the-israeli-air-force-and-the-hellenic-air-force-combine-for-manoeuvres-involving-helicopters-and-jets-as-israel-seeks-new-air-links-followi.md)
-_Context: Israeli Air Force, Gaza flotilla raid, Turkey, Hellenic Air Force, Israel_
+_Context: Hellenic Air Force, Israeli Air Force, Gaza flotilla raid, Israel, Turkey_
 
 ##### Zambia
 ### [Zambia investigates an incident in which managers at a Chinese-run mine allegedly shot and wounded at least 11 miners who had objected to their working conditions. ](/news/2010/10/16/zambia-investigates-an-incident-in-which-managers-at-a-chinese-run-mine-allegedly-shot-and-wounded-at-least-11-miners-who-had-objected-to-th.md)
@@ -61,11 +61,11 @@ Zambian police investigate claims that managers at a Chinese-run coal mine in th
 
 ##### Rashid Ahmed bin Fahd
 ### [Environment and Water Minister of Dubai, Dr Rashid Ahmed bin Fahd greets Sheikha Fatima on her appointment as FAO Goodwill Ambassador. ](/news/2010/10/16/environment-and-water-minister-of-dubai-dr-rashid-ahmed-bin-fahd-greets-sheikha-fatima-on-her-appointment-as-fao-goodwill-ambassador.md)
-_Context: Rashid Ahmed bin Fahd, FAO Goodwill Ambassador, Sheikha Fatima_
+_Context: Sheikha Fatima, Rashid Ahmed bin Fahd, FAO Goodwill Ambassador_
 
 #####  Georgian
 ### [The Georgian parliament votes 112 to 4 to introduce 44 changes to its constitution. ](/news/2010/10/16/the-georgian-parliament-votes-112-to-4-to-introduce-44-changes-to-its-constitution.md)
-_Context: its constitution,  Georgian_
+_Context:  Georgian, its constitution_
 
 ##### Government of India
 ### [The Government of India sets up an inquiry into allegations of corruption and mismanagement at the 2010 Commonwealth Games in Delhi. ](/news/2010/10/16/the-government-of-india-sets-up-an-inquiry-into-allegations-of-corruption-and-mismanagement-at-the-2010-commonwealth-games-in-delhi.md)
@@ -73,15 +73,15 @@ _Context: Government of India, 2010 Commonwealth Games, Delhi_
 
 ##### President of Zimbabwe
 ### [Zimbabwe President Robert Mugabe states that a power sharing deal with Morgan Tsvangirai should not be extended past its expiration in four months time. ](/news/2010/10/16/zimbabwe-president-robert-mugabe-states-that-a-power-sharing-deal-with-morgan-tsvangirai-should-not-be-extended-past-its-expiration-in-four.md)
-_Context: President of Zimbabwe, Robert Mugabe, Morgan Tsvangirai_
+_Context: Robert Mugabe, President of Zimbabwe, Morgan Tsvangirai_
 
 ##### The Elders
 ### [A delegation of The Elders visits the Gaza Strip to survey conditions, expressing disagreement with the Israeli restrictions in evidence there. Former U.S. President Jimmy Carter is to join them tomorrow. ](/news/2010/10/16/a-delegation-of-the-elders-visits-the-gaza-strip-to-survey-conditions-expressing-disagreement-with-the-israeli-restrictions-in-evidence-the.md)
-_Context: Gaza Strip, Israel, Jimmy Carter, The Elders_
+_Context: Jimmy Carter, Gaza Strip, The Elders, Israel_
 
 ##### Snailfish
 ### [Scientists discover a new type of snailfish, in the Peru-Chile trench in the south-east Pacific Ocean. ](/news/2010/10/16/scientists-discover-a-new-type-of-snailfish-in-the-peru-chile-trench-in-the-south-east-pacific-ocean.md)
-_Context: Peru-Chile trench, snailfish, South Pacific Ocean_
+_Context: snailfish, Peru-Chile trench, South Pacific Ocean_
 
 ## [Previous Day...](/news/2010/10/15/index.md)
 

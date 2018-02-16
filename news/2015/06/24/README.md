@@ -5,7 +5,7 @@ Formats: [HTML](2015/06/24/index.html)  [JSON](2015/06/24/index.json)  [XML](201
 
 ##### Boko Haram
 ### [Over 42 people are shot dead by suspected Boko Haram gunmen in two attacks on villages in Nigeria's Borno state. ](/news/2015/06/24/over-42-people-are-shot-dead-by-suspected-boko-haram-gunmen-in-two-attacks-on-villages-in-nigeria-s-borno-state.md)
-_Context: Nigeria, Boko Haram, Borno State_
+_Context: Borno State, Nigeria, Boko Haram_
 
 ##### Xinjiang Conflict
 ### [A police checkpoint on the outskirts of Kashgar in Xinjiang is attacked by ethnic Uighurs, with at least 18 killed according to US-based Radio Free Asia. ](/news/2015/06/24/a-police-checkpoint-on-the-outskirts-of-kashgar-in-xinjiang-is-attacked-by-ethnic-uighurs-with-at-least-18-killed-according-to-us-based-rad.md)
@@ -29,7 +29,7 @@ President Obama tells his French counterpart, Francois Hollande, that the US is 
 
 ##### Israel
 ### [Israel revokes permits for 500 Palestinians from the Gaza Strip to enter Jerusalem for Friday prayers following a rocket attack on southern Israel. ](/news/2015/06/24/israel-revokes-permits-for-500-palestinians-from-the-gaza-strip-to-enter-jerusalem-for-friday-prayers-following-a-rocket-attack-on-southern.md)
-_Context: Jerusalem, Israel, Gaza Strip, Friday prayers, Palestinian_
+_Context: Friday prayers, Gaza Strip, Israel, Jerusalem, Palestinian_
 
 ##### Trans-Pacific Partnership
 ### [The United States Senate approves a motion giving President Barack Obama fast track authority to complete trade negotiations with 11 countries in the Asia-Pacific region. ](/news/2015/06/24/the-united-states-senate-approves-a-motion-giving-president-barack-obama-fast-track-authority-to-complete-trade-negotiations-with-11-countri.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2015/06/11/index.html)  [JSON](2015/06/11/index.json)  [XML](201
 
 ##### Military intervention against ISIL
 ### [A US citizen fighting alongside Kurdish People's Protection Units (YPG) against ISIL is killed in action near Kobani. ](/news/2015/06/11/a-us-citizen-fighting-alongside-kurdish-people-s-protection-units-ypg-against-isil-is-killed-in-action-near-kobani.md)
-_Context: ISIL, Kobani, Military intervention against ISIL, YPG_
+_Context: YPG, Kobani, Military intervention against ISIL, ISIL_
 
 ##### Syrian Civil War
 ### [Al-Qaeda's affiliate in Syria, the Al-Nusra Front, shoots dead at least 20 Druze villagers in Idlib in what is being described as a "massacre". ](/news/2015/06/11/al-qaeda-s-affiliate-in-syria-the-al-nusra-front-shoots-dead-at-least-20-druze-villagers-in-idlib-in-what-is-being-described-as-a-massacr.md)
@@ -37,7 +37,7 @@ At least 41 people were killed and eight injured on Thursday in a landslide trig
 
 ##### United States
 ### [Health officials in the United States are advising doctors to be on the lookout for MERS following an outbreak in South Korea. ](/news/2015/06/11/health-officials-in-the-united-states-are-advising-doctors-to-be-on-the-lookout-for-mers-following-an-outbreak-in-south-korea.md)
-_Context: Middle East respiratory syndrome, South Korea, United States_
+_Context: Middle East respiratory syndrome, United States, South Korea_
 
 ##### Pakistan
 ### [Federal Interior Ministry of Pakistan has sealed the offices of the NGO Save the Children in Pakistan and issued order for its foreign staff to leave the country within 15 days on account of the NGO's anti-Pakistan activities. ](/news/2015/06/11/federal-interior-ministry-of-pakistan-has-sealed-the-offices-of-the-ngo-save-the-children-in-pakistan-and-issued-order-for-its-foreign-staff.md)
@@ -61,7 +61,7 @@ Spain&#x27;s King Felipe VI has issued a decree stripping his sister Princess Cr
 
 ##### Lake Champlain
 ### [Authorities from the Marshal's Service, the FBI, Customs, state and local police, and the Forest Police searching for 6 days in northeastern New York (about 25 miles south of the Canadian border, near Lake Champlain and Vermont, in the Adirondack Forest area, in Dannemora, New York and Plattsburgh, New York) for two high-risk murderers who staged an elaborate escape from the high-security Clinton Correctional Facility- the first there- the night of Friday, June 5, 2015 (it was discovered the next morning), using bloodhounds, find a scent and leftover evidence that could be from the two, Richard Matt and David Sweat. ](/news/2015/06/11/authorities-from-the-marshal-s-service-the-fbi-customs-state-and-local-police-and-the-forest-police-searching-for-6-days-in-northeastern.md)
-_Context: Adirondack Forest, Vermont, David Sweat, Lake Champlain, Clinton Correctional Facility, Richard Matt, Plattsburgh, New York, Dannemora, New York_
+_Context: Plattsburgh, New York, Richard Matt, Vermont, Dannemora, New York, Adirondack Forest, David Sweat, Lake Champlain, Clinton Correctional Facility_
 
 ## [Previous Day...](/news/2015/06/10/index.md)
 

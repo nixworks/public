@@ -5,11 +5,11 @@ Formats: [HTML](2015/08/24/index.html)  [JSON](2015/08/24/index.json)  [XML](201
 
 ##### Turkey-PKK conflict
 ### [A roadside IED near the town of Semdinli in Hakkari Province kills two Turkish Army soldiers and injures three others. ](/news/2015/08/24/a-roadside-ied-near-the-town-of-aemdinli-in-hakkari-province-kills-two-turkish-army-soldiers-and-injures-three-others.md)
-_Context: Semdinli, IED, Turkish Army, Hakkari Province, Turkey-PKK conflict_
+_Context: Turkish Army, IED, Turkey-PKK conflict, Semdinli, Hakkari Province_
 
 ##### 2015 Thalys attack
 ### [The President of France, Francois Hollande, presents the Legion d'honneur to four people, three of them Americans, Spencer Stone, Alek Skarlatos, Anthony Sadler; and Briton Chris Norman, for foiling a suspected terrorist act last Friday. ](/news/2015/08/24/the-president-of-france-franassois-hollande-presents-the-la-c-gion-d-honneur-to-four-people-three-of-them-americans-spencer-stone-alek-ska.md)
-_Context: 2015 Thalys attack, Legion d'honneur, French President, terrorism, Francois Hollande_
+_Context: terrorism, French President, Francois Hollande, 2015 Thalys attack, Legion d'honneur_
 
 ##### Police officers
 ### [A bomb explodes on a bus carrying Egyptian police killing one of them and injuring 29 others in the Nile delta. ](/news/2015/08/24/a-bomb-explodes-on-a-bus-carrying-egyptian-police-killing-one-of-them-and-injuring-29-others-in-the-nile-delta.md)
@@ -45,15 +45,15 @@ Turkish officials say that at least eight people have been killed by heavy flood
 
 ##### Sightseeing
 ### [A sightseeing seaplane crashes on Quebec's North Shore killing all six people aboard. ](/news/2015/08/24/a-sightseeing-seaplane-crashes-on-quebec-s-north-shore-killing-all-six-people-aboard.md)
-_Context: sightseeing, Quebec, seaplane_
+_Context: sightseeing, seaplane, Quebec_
 
 ##### North Korea
 ### [North and South Korea agree to reduce tensions on the Korean peninsula after marathon talks. ](/news/2015/08/24/north-and-south-korea-agree-to-reduce-tensions-on-the-korean-peninsula-after-marathon-talks.md)
-_Context: South Korea, Korean peninsula, North Korea_
+_Context: Korean peninsula, North Korea, South Korea_
 
 ##### South Africa
 ### [South Africa convicts Czech fugitive Radovan Krejcir of kidnapping, attempted murder, and drug dealing charges. ](/news/2015/08/24/south-africa-convicts-czech-fugitive-radovan-krejaaa-of-kidnapping-attempted-murder-and-drug-dealing-charges.md)
-_Context: Radovan Krejcir, South Africa, Czech Republic_
+_Context: Czech Republic, South Africa, Radovan Krejcir_
 
 ##### La Linea corruption case
 ### [Former Vice President of Guatemala Roxana Baldetti appears in court to face corruption charges as finance minister Dorval Carias resigns. ](/news/2015/08/24/former-vice-president-of-guatemala-roxana-baldetti-appears-in-court-to-face-corruption-charges-as-finance-minister-dorval-caraas-resigns.md)
@@ -65,7 +65,7 @@ Guinea-Bissau&#x27;s new Prime Minister Baciro Dja on Monday sacked the chiefs o
 
 ##### President of Turkey
 ### [The President of Turkey Recep Tayyip Erdogan calls for new elections after a deadline to form a new government following an inconclusive election in June. ](/news/2015/08/24/the-president-of-turkey-recep-tayyip-erdoaan-calls-for-new-elections-after-a-deadline-to-form-a-new-government-following-an-inconclusive-el.md)
-_Context: election in June, Turkish general election, November 2015, Recep Tayyip Erdogan, President of Turkey_
+_Context: Recep Tayyip Erdogan, Turkish general election, November 2015, President of Turkey, election in June_
 
 ##### Jakobshavn Glacier
 ### [Jakobshavn Glacier sheds and creates an iceberg 12.4 square km in size. ](/news/2015/08/24/jakobshavn-glacier-sheds-and-creates-an-iceberg-12-4-square-km-in-size.md)

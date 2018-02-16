@@ -13,7 +13,7 @@ Accused of killings in his native Italy, militant 1970s leftist Cesare Battisti 
 
 ##### War in Iraq
 ### [ War in Iraq: Explosions in Baghdad kill eleven people. ](/news/2007/03/18/war-in-iraq-explosions-in-baghdad-kill-eleven-people.md)
-_Context: War in Iraq, Baghdad_
+_Context: Baghdad, War in Iraq_
 
 ##### Cargo
 ### [ Two cargo ships collide in the East China Sea. 23 crew members are missing. ](/news/2007/03/18/two-cargo-ships-collide-in-the-east-china-sea-23-crew-members-are-missing.md)
@@ -21,11 +21,11 @@ _Context: cargo, East China Sea_
 
 ##### Bob Woolmer
 ### [ Bob Woolmer, the Pakistan cricket coach, dies in a Kingston, Jamaica hospital following his team's shock loss to Ireland and consequent early elimination from the 2007 Cricket World Cup. ](/news/2007/03/18/bob-woolmer-the-pakistan-cricket-coach-dies-in-a-kingston-jamaica-hospital-following-his-team-s-shock-loss-to-ireland-and-consequent-ear.md)
-_Context: Kingston, Ireland, Bob Woolmer, 2007 Cricket World Cup, Pakistani cricket team_
+_Context: 2007 Cricket World Cup, Ireland, Pakistani cricket team, Bob Woolmer, Kingston_
 
 ##### Finnish parliamentary election
 ### [ Finnish parliamentary election: Voters go to the polls, with the centre-left governing coalition between the Centre Party and the Social Democratic Party continuing for another term under the leadership of Matti Vanhanen. The National Coalition Party had a strong result finishing with one seat less than the Centre Party. ](/news/2007/03/18/finnish-parliamentary-election-voters-go-to-the-polls-with-the-centre-left-governing-coalition-between-the-centre-party-and-the-social-de.md)
-_Context: Finnish parliamentary election, Centre Party, Matti Vanhanen, National Coalition Party, coalition, Social Democratic Party_
+_Context: coalition, Social Democratic Party, National Coalition Party, Centre Party, Finnish parliamentary election, Matti Vanhanen_
 
 ##### Sydney
 ### [ More than 200,000 Sydneysiders walk across the Sydney Harbour Bridge to mark the 75th anniversary of the icon's opening. The bridge had been closed to vehicular traffic for one day to mark the occasion. ](/news/2007/03/18/more-than-200-000-sydneysiders-walk-across-the-sydney-harbour-bridge-to-mark-the-75th-anniversary-of-the-icon-s-opening-the-bridge-had-bee.md)

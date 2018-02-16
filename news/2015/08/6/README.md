@@ -13,7 +13,7 @@ A suicide bomber killed at least 15 people in an attack on a mosque used by memb
 
 ##### Syrian Civil War
 ### [Islamic State of Iraq and the Levant conquers the key transport hub Al-Qaryatain, allowing its forces in the Qalamun region to be supplied through this city. ](/news/2015/08/6/islamic-state-of-iraq-and-the-levant-conquers-the-key-transport-hub-al-qaryatain-allowing-its-forces-in-the-qalamun-region-to-be-supplied-t.md)
-_Context: Syrian Civil War, ISIL, Al-Qaryatain_
+_Context: Al-Qaryatain, ISIL, Syrian Civil War_
 
 ##### Hackers
 ### [Russian hackers are suspected of infiltrating the U.S. Pentagon e-mail system last week. ](/news/2015/08/6/russian-hackers-are-suspected-of-infiltrating-the-u-s-pentagon-e-mail-system-last-week.md)
@@ -37,7 +37,7 @@ _Context: Northwestern Pakistan, Pakistan_
 
 ##### Saudi Arabia
 ### [Saudi Arabia sends new military equipment including tanks from Sharura into northern Yemen to support government forces fighting Iran-backed Houthi militants. ](/news/2015/08/6/saudi-arabia-sends-new-military-equipment-including-tanks-from-sharura-into-northern-yemen-to-support-government-forces-fighting-iran-backed.md)
-_Context: Houthi, Abd Rabbuh Mansur Hadi, Saudi Arabia, Sharura_
+_Context: Houthi, Saudi Arabia, Abd Rabbuh Mansur Hadi, Sharura_
 
 ##### Republican
 ### [The Republican Party candidates for President of the United States debate, in two events (top tier candidates and lower-tier candidates separated) in an informal kick-off event for the 2016 campaign. ](/news/2015/08/6/the-republican-party-candidates-for-president-of-the-united-states-debate-in-two-events-top-tier-candidates-and-lower-tier-candidates-sepa.md)

@@ -9,15 +9,15 @@ _Context: Idlib, Syrian Army_
 
 ##### Leon Panetta
 ### [Leon Panetta, the United States Secretary of Defense, arrives in Afghanistan to attempt to placate anger over the Kandahar massacre. ](/news/2012/03/14/leon-panetta-the-united-states-secretary-of-defense-arrives-in-afghanistan-to-attempt-to-placate-anger-over-the-kandahar-massacre.md)
-_Context: Kandahar massacre, United States Secretary of Defense, Leon Panetta_
+_Context: United States Secretary of Defense, Kandahar massacre, Leon Panetta_
 
 ##### Peruvian
 ### [More than 10,000 Peruvian illegal gold miners clash with police in an attempt to gain control over the regional capital Puerto Maldonado. ](/news/2012/03/14/more-than-10-000-peruvian-illegal-gold-miners-clash-with-police-in-an-attempt-to-gain-control-over-the-regional-capital-puerto-maldonado.md)
-_Context: Peruvian, gold miner, Puerto Maldonado_
+_Context: Peruvian, Puerto Maldonado, gold miner_
 
 ##### United Kingdom
 ### [The United Kingdom towns of Chelmsford, Perth and St Asaph are awarded city status to mark the Diamond Jubilee of Elizabeth II. ](/news/2012/03/14/the-united-kingdom-towns-of-chelmsford-perth-and-st-asaph-are-awarded-city-status-to-mark-the-diamond-jubilee-of-elizabeth-ii.md)
-_Context: Perth, United Kingdom, diamond jubilee, city status, Chelmsford, St Asaph_
+_Context: United Kingdom, city status, Chelmsford, St Asaph, Perth, diamond jubilee_
 
 ##### United Kingdom
 ### [Unemployment in the United Kingdom reaches 2.67 million, the most people since 1995. ](/news/2012/03/14/unemployment-in-the-united-kingdom-reaches-2-67-million-the-most-people-since-1995.md)
@@ -25,7 +25,7 @@ _Context: United Kingdom_
 
 ##### Severe Tropical Cyclone Lua
 ### [Tropical Cyclone Lua heads towards Western Australia's Pilbara region. ](/news/2012/03/14/tropical-cyclone-lua-heads-towards-western-australia-s-pilbara-region.md)
-_Context: Western Australia, Pilbara, Severe Tropical Cyclone Lua_
+_Context: Pilbara, Western Australia, Severe Tropical Cyclone Lua_
 
 ##### A ferry
 ### [The death toll from the sinking of a ferry in Bangladesh rises to 110 with at least 61 others missing. ](/news/2012/03/14/the-death-toll-from-the-sinking-of-a-ferry-in-bangladesh-rises-to-110-with-at-least-61-others-missing.md)
@@ -33,7 +33,7 @@ _Context: Bangladesh, a ferry_
 
 ##### Earthquake
 ### [A magnitude 6.8 earthquake occurs off the coast of Japan causing a small tsunami that hits the coast of Aomori prefecture on the island of Hokkaido. ](/news/2012/03/14/a-magnitude-6-8-earthquake-occurs-off-the-coast-of-japan-causing-a-small-tsunami-that-hits-the-coast-of-aomori-prefecture-on-the-island-of-h.md)
-_Context: Japan, earthquake, Hokkaido, Aomori prefecture, tsunami_
+_Context: Aomori prefecture, earthquake, Japan, Hokkaido, tsunami_
 
 ##### Belgian
 ### [The Belgian parents of children killed in a bus crash yesterday travel to Switzerland to identify the bodies. ](/news/2012/03/14/the-belgian-parents-of-children-killed-in-a-bus-crash-yesterday-travel-to-switzerland-to-identify-the-bodies.md)
@@ -45,7 +45,7 @@ The authorities in Azerbaijan arrest 22 people on suspicion of spying for Iran, 
 
 ##### U.S. President
 ### [The President of the United States Barack Obama and the Prime Minister of the United Kingdom David Cameron meet at the White House in Washington D.C. to discuss Afghanistan, Syria, the global economy and Iran. ](/news/2012/03/14/the-president-of-the-united-states-barack-obama-and-the-prime-minister-of-the-united-kingdom-david-cameron-meet-at-the-white-house-in-washin.md)
-_Context: David Cameron, Iran, White House, Barack Obama, Afghanistan, Prime Minister, Washington D.C., Syria, U.S. President_
+_Context: Barack Obama, David Cameron, Washington D.C., Syria, Prime Minister, Iran, Afghan, U.S. President, White House_
 
 #####  International Criminal Court
 ### [The International Criminal Court in the Hague delivers a verdict of guilty in the case of Thomas Lubanga Dyilo of the Democratic Republic of the Congo on war crimes charges. ](/news/2012/03/14/the-international-criminal-court-in-the-hague-delivers-a-verdict-of-guilty-in-the-case-of-thomas-lubanga-dyilo-of-the-democratic-republic-of.md)
@@ -61,7 +61,7 @@ _Context: Virginia Tech, massacre_
 
 ##### Iran
 ### [Iran's Islamic Consultative Assembly starts questioning the President Mahmoud Ahmadinejad on his handling of the economy. ](/news/2012/03/14/iran-s-islamic-consultative-assembly-starts-questioning-the-president-mahmoud-ahmadinejad-on-his-handling-of-the-economy.md)
-_Context: Mahmoud Ahmadinejad, Islamic Consultative Assembly, Iran, President_
+_Context: President, Iran, Mahmoud Ahmadinejad, Islamic Consultative Assembly_
 
 ## [Previous Day...](/news/2012/03/13/index.md)
 

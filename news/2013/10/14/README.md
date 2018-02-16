@@ -5,7 +5,7 @@ Formats: [HTML](2013/10/14/index.html)  [JSON](2013/10/14/index.json)  [XML](201
 
 ##### Ethiopia
 ### [Ethiopian officials report that a plot by a group of Somali nationals to attack Sunday's 2014 FIFA World Cup qualification match in Addis Ababa failed when their explosives detonated inside their home, killing two of the would-be suicide bombers. ](/news/2013/10/14/ethiopian-officials-report-that-a-plot-by-a-group-of-somali-nationals-to-attack-sunday-s-2014-fifa-world-cup-qualification-match-in-addis-ab.md)
-_Context: suicide bomber, 2014 FIFA World Cup qualification, Ethiopia, Addis Ababa, Somali_
+_Context: Ethiopia, Somali, suicide bomber, 2014 FIFA World Cup qualification, Addis Ababa_
 
 ##### Nobel Memorial Prize in Economic Sciences
 ### [The Nobel Memorial Prize in Economic Sciences goes to three Americans, in connection with their work in asset prices: Eugene Fama, Lars Peter Hansen, and Robert Shiller. ](/news/2013/10/14/the-nobel-memorial-prize-in-economic-sciences-goes-to-three-americans-in-connection-with-their-work-in-asset-prices-eugene-fama-lars-pete.md)

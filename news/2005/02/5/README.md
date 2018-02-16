@@ -13,15 +13,15 @@ _Context: Bareilly, uranium, India_
 
 ##### President
 ### [ President Gnassingb Eyadma of Togo dies of a heart attack at the age of 68 and is succeeded by his son Faure Gnassingb. ](/news/2005/02/5/president-gnassingbe-eyadema-of-togo-dies-of-a-heart-attack-at-the-age-of-68-and-is-succeeded-by-his-son-faure-gnassingbe.md)
-_Context: Faure Gnassingb, heart attack, Togo, Gnassingb Eyadma, President_
+_Context: Faure Gnassingb, heart attack, President, Togo, Gnassingb Eyadma_
 
 ##### China
 ### [ In the People's Republic of China, The Tenth Shaanxi Provincial People's Congress votes in favour of Acting Governor Chen Deming to become the next Governor of Shaanxi. ](/news/2005/02/5/in-the-people-s-republic-of-china-the-tenth-shaanxi-provincial-people-s-congress-votes-in-favour-of-acting-governor-chen-deming-to-become.md)
-_Context: gubernatorial elections, Chen Deming, People's Congress, China, Shaanxi_
+_Context: China, Chen Deming, People's Congress, gubernatorial elections, Shaanxi_
 
 ##### Malawi
 ### [ In Malawi, President Bingu wa Mutharika quits the governing party, the United Democratic Front, stating he is fed up of criticism of his anti-corruption campaign. The party had debated whether to expel him for alleged misconduct. ](/news/2005/02/5/in-malawi-president-bingu-wa-mutharika-quits-the-governing-party-the-united-democratic-front-stating-he-is-fed-up-of-criticism-of-his-an.md)
-_Context: United Democratic Front, President, Bingu wa Mutharika, Malawi, anti-corruption_
+_Context: Bingu wa Mutharika, Malawi, United Democratic Front, anti-corruption, President_
 
 ## [Previous Day...](/news/2005/02/4/index.md)
 

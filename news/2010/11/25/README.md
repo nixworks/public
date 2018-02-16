@@ -9,11 +9,11 @@ At least one person has been killed and more than 40 have been left wounded afte
 
 ##### Del Monte Foods
 ### [Del Monte Foods is purchased in a US$5 billion leveraged buyout led by Kohlberg Kravis Roberts. ](/news/2010/11/25/del-monte-foods-is-purchased-in-a-us-5-billion-leveraged-buyout-led-by-kohlberg-kravis-roberts.md)
-_Context: Del Monte Foods, leveraged buyout, Kohlberg Kravis Roberts_
+_Context: leveraged buyout, Del Monte Foods, Kohlberg Kravis Roberts_
 
 ##### Mi-8
 ### [Seven are killed and three injured in the rough landing of a Mi-8 helicopter in the Omsk region of Siberia, Russia. ](/news/2010/11/25/seven-are-killed-and-three-injured-in-the-rough-landing-of-a-mi-8-helicopter-in-the-omsk-region-of-siberia-russia.md)
-_Context: Omsk, Mi-8, Russia, Siberia_
+_Context: Russia, Mi-8, Omsk, Siberia_
 
 ##### North Korea
 ### [North Korea warns that it will launch further attacks on South Korea if it continues "reckless military provocation". ](/news/2010/11/25/north-korea-warns-that-it-will-launch-further-attacks-on-south-korea-if-it-continues-reckless-military-provocation.md)
@@ -49,7 +49,7 @@ _Context: Tonga, first general election_
 
 ##### United States Government
 ### [The United States Government sets aside an area in Alaska twice the size of the United Kingdom as a "critical habitat" for polar bears. ](/news/2010/11/25/the-united-states-government-sets-aside-an-area-in-alaska-twice-the-size-of-the-united-kingdom-as-a-critical-habitat-for-polar-bears.md)
-_Context: United Kingdom, United States Government, Alaska, polar bear_
+_Context: United Kingdom, Alaska, polar bear, United States Government_
 
 ##### United Kingdom
 ### [The United Kingdom experiences its earliest widespread snowfall for 17 years, with large parts of Scotland and north east England particularly affected. ](/news/2010/11/25/the-united-kingdom-experiences-its-earliest-widespread-snowfall-for-17-years-with-large-parts-of-scotland-and-north-east-england-particular.md)

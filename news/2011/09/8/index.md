@@ -33,7 +33,7 @@ _Context: Atlantic Ocean, Tropical Storm Nate, Mexican_
 
 ##### Tuiloma Neroni Slade
 ### [Secretary General Tuiloma Neroni Slade is reappointed to a second, three-year term as head of the Pacific Islands Forum. ](/news/2011/09/8/secretary-general-tuiloma-neroni-slade-is-reappointed-to-a-second-three-year-term-as-head-of-the-pacific-islands-forum.md)
-_Context: Pacific Islands Forum, Tuiloma Neroni Slade_
+_Context: Tuiloma Neroni Slade, Pacific Islands Forum_
 
 ##### Public sector
 ### [Up to 40,000 public sector workers gather in the Australian city of Sydney to protest a wages cap and job cuts in the 2011-12 budget proposed by the Government of the State of New South Wales. ](/news/2011/09/8/up-to-40-000-public-sector-workers-gather-in-the-australian-city-of-sydney-to-protest-a-wages-cap-and-job-cuts-in-the-2011-12-budget-propose.md)
@@ -45,7 +45,7 @@ President Barack Obama plans to propose sparking job growth by injecting more th
 
 ##### President of Vietnam
 ### [Former President of Vietnam Vo Chi Cong dies in Ho Chi Minh City at the age of 99. ](/news/2011/09/8/former-president-of-vietnam-vo-chi-cong-dies-in-ho-chi-minh-city-at-the-age-of-99.md)
-_Context: Vo Chi Cong, Ho Chi Minh City, President of Vietnam_
+_Context: Ho Chi Minh City, Vo Chi Cong, President of Vietnam_
 
 ## [Previous Day...](/news/2011/09/7/index.md)
 

@@ -5,11 +5,11 @@ Formats: [HTML](2010/01/21/index.html)  [JSON](2010/01/21/index.json)  [XML](201
 
 ##### China
 ### [Chinese Vice-Foreign Minister He Yafei downplays the government's row with Google, saying it does not affect relations with the United States. ](/news/2010/01/21/chinese-vice-foreign-minister-he-yafei-downplays-the-government-s-row-with-google-saying-it-does-not-affect-relations-with-the-united-state.md)
-_Context: United States, Chinese government, Google, China, He Yafei, Foreign Minister_
+_Context: He Yafei, Google, United States, China, Chinese government, Foreign Minister_
 
 ##### United States
 ### [U.S. Secretary of Defense Robert Gates makes his first visit to Pakistan. ](/news/2010/01/21/u-s-secretary-of-defense-robert-gates-makes-his-first-visit-to-pakistan.md)
-_Context: Robert Gates, United States, United States Secretary of Defense, Pakistan_
+_Context: Pakistan, Robert Gates, United States Secretary of Defense, United States_
 
 ##### United States
 ### [U.S. investment bank Goldman Sachs reports a sharp increase in profits for 2009, beating analysts' expectations. ](/news/2010/01/21/u-s-investment-bank-goldman-sachs-reports-a-sharp-increase-in-profits-for-2009-beating-analysts-expectations.md)
@@ -17,15 +17,15 @@ Goldman Sachs reported strong earnings on Thursday, but the bank reduced the sha
 
 ##### United States
 ### [The United States sends an additional 2,000 troops to Haiti to help with earthquake relief efforts. ](/news/2010/01/21/the-united-states-sends-an-additional-2-000-troops-to-haiti-to-help-with-earthquake-relief-efforts.md)
-_Context: 2010 Haiti earthquake, Haiti, relief, United States_
+_Context: relief, Haiti, United States, 2010 Haiti earthquake_
 
 ##### China
 ### [Chinese economy grows 8.7% in 2009. ](/news/2010/01/21/chinese-economy-grows-8-7-in-2009.md)
-_Context: Economy of the People's Republic of China, China_
+_Context: China, Economy of the People's Republic of China_
 
 ##### Virginia
 ### [Virginia, United States shootings suspect Christopher Speight is charged with first degree murder. ](/news/2010/01/21/virginia-united-states-shootings-suspect-christopher-speight-is-charged-with-first-degree-murder.md)
-_Context: first degree murder, United States, Virginia, Christopher Speight_
+_Context: Christopher Speight, first degree murder, Virginia, United States_
 
 ##### United States
 ### [United States Supreme Court overturns campaign spending limits by corporations and unions. ](/news/2010/01/21/united-states-supreme-court-overturns-campaign-spending-limits-by-corporations-and-unions.md)
@@ -33,19 +33,19 @@ _Context: overturns campaign spending limits, United States_
 
 ##### Parliament
 ### [The Parliament of Angola approves a new constitution that abolishes direct presidential elections. ](/news/2010/01/21/the-parliament-of-angola-approves-a-new-constitution-that-abolishes-direct-presidential-elections.md)
-_Context: elections, Parliament, president, constitution, Angola_
+_Context: Parliament, elections, president, Angola, constitution_
 
 ##### Nigeria
 ### [Nigerian authorities relax a 24 hour curfew put in place in Jos due to recent religious violence. ](/news/2010/01/21/nigerian-authorities-relax-a-24-hour-curfew-put-in-place-in-jos-due-to-recent-religious-violence.md)
-_Context: Nigeria, events earlier this year, curfew, Jos_
+_Context: curfew, Nigeria, events earlier this year, Jos_
 
 ##### General Motors
 ### [General Motors confirms it will close an Opel factory in Antwerp, Belgium, cutting 2,300 jobs. ](/news/2010/01/21/general-motors-confirms-it-will-close-an-opel-factory-in-antwerp-belgium-cutting-2-300-jobs.md)
-_Context: Antwerp, Belgium, General Motors, Opel_
+_Context: General Motors, Belgium, Opel, Antwerp_
 
 ##### Yemen
 ### [Yemen stops issuing visas at international airports to "halt terrorist infiltration" following the Christmas Day bomb plot. ](/news/2010/01/21/yemen-stops-issuing-visas-at-international-airports-to-halt-terrorist-infiltration-following-the-christmas-day-bomb-plot.md)
-_Context: terrorism, Yemen, Northwest Airlines Flight 253, visa_
+_Context: Yemen, visa, Northwest Airlines Flight 253, terrorism_
 
 ##### Boards.ie
 ### [The internet forum boards.ie is attacked by hackers, forcing it to go offline and change the passwords of thousands of its users. ](/news/2010/01/21/the-internet-forum-boards-ie-is-attacked-by-hackers-forcing-it-to-go-offline-and-change-the-passwords-of-thousands-of-its-users.md)

@@ -29,7 +29,7 @@ Palestinian officials announce plans to sue Britain over the 1917 Balfour Declar
 
 ##### Sagamihara stabbings
 ### [At least 19 people are killed and 26 others are injured in a knife attack at a care centre for disabled people in the city of Sagamihara, Kanagawa Prefecture, Japan. A man has handed himself in to the police, according to local media. ](/news/2016/07/26/at-least-19-people-are-killed-and-26-others-are-injured-in-a-knife-attack-at-a-care-centre-for-disabled-people-in-the-city-of-sagamihara-ka.md)
-_Context: Sagamihara, Sagamihara stabbings, Kanagawa Prefecture, Japan_
+_Context: Kanagawa Prefecture, Sagamihara, Sagamihara stabbings, Japan_
 
 ##### Donald Trump
 ### [The children's music group USA Freedom Kids plans to sue the campaign of Donald Trump. ](/news/2016/07/26/the-children-s-music-group-usa-freedom-kids-plans-to-sue-the-campaign-of-donald-trump.md)
@@ -45,7 +45,7 @@ John Elferink is sacked as NT Corrections Minister in the wake of the damning Fo
 
 ##### President of South Sudan
 ### [The President of South Sudan, Salva Kiir, removes Riek Machar from his post as deputy leader and as vice president, and installs Taban Deng Gai in his place. ](/news/2016/07/26/the-president-of-south-sudan-salva-kiir-removes-riek-machar-from-his-post-as-deputy-leader-and-as-vice-president-and-installs-taban-deng.md)
-_Context: Taban Deng Gai, Riek Machar, President of South Sudan, Salva Kiir, vice president_
+_Context: President of South Sudan, Riek Machar, vice president, Taban Deng Gai, Salva Kiir_
 
 ##### 2016 Democratic National Convention
 ### [Hillary Clinton is nominated as the Democratic Party candidate for this year's presidential election. She becomes the first woman ever to be nominated for president by a major party in the United States.](/news/2016/07/26/hillary-clinton-is-nominated-as-the-democratic-party-candidate-for-this-year-s-presidential-election-she-becomes-the-first-woman-ever-to-be.md)

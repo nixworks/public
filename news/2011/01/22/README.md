@@ -21,7 +21,7 @@ _Context: Tamaulipas, Valle Hermoso, Mexican_
 
 ##### Russia
 ### [At least two people are killed in a blaze at a shopping centre in the southwest Russian city of Ufa. ](/news/2011/01/22/at-least-two-people-are-killed-in-a-blaze-at-a-shopping-centre-in-the-southwest-russian-city-of-ufa.md)
-_Context: Russia, Ufa_
+_Context: Ufa, Russia_
 
 ##### Death toll from flooding
 ### [The death toll from flooding in South Africa rises to 70 and more than 8,000 families are homeless. Five other nearby countries - Botswana, Mozambique, Namibia, Zambia and Zimbabwe - are threatened by killer heavy rains. ](/news/2011/01/22/the-death-toll-from-flooding-in-south-africa-rises-to-70-and-more-than-8-000-families-are-homeless-five-other-nearby-countries-botswana.md)
@@ -57,7 +57,7 @@ Irish Prime Minister Brian Cowenwill address the media at 1400 GMT on Saturday, 
 
 ##### H-II Transfer Vehicle
 ### [An unmanned Japanese H-II Transfer Vehicle HTV-2 Resupply Craft was launched atop the H-IIB rocket Saturday on a mission to deliver cargo to the International Space Station. ](/news/2011/01/22/an-unmanned-japanese-h-ii-transfer-vehicle-htv-2-resupply-craft-was-launched-atop-the-h-iib-rocket-saturday-on-a-mission-to-deliver-cargo-to.md)
-_Context: H-IIB, H-II Transfer Vehicle, International Space Station_
+_Context: H-II Transfer Vehicle, International Space Station, H-IIB_
 
 ## [Previous Day...](/news/2011/01/21/index.md)
 

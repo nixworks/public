@@ -9,11 +9,11 @@ Afghan security forces battle Taliban insurgents for hours in central Kabul, fol
 
 ##### Suicide bombing
 ### [A suicide bombing in the Pakistani city of Peshawar kills at least three people and leaves several injured. ](/news/2013/05/24/a-suicide-bombing-in-the-pakistani-city-of-peshawar-kills-at-least-three-people-and-leaves-several-injured.md)
-_Context: Peshawar, suicide bombing, Pakistan_
+_Context: suicide bombing, Peshawar, Pakistan_
 
 ##### Yemen
 ### [Attackers blow up Yemen's main oil pipeline, halting the flow of crude oil. ](/news/2013/05/24/attackers-blow-up-yemen-s-main-oil-pipeline-halting-the-flow-of-crude-oil.md)
-_Context: Yemen, crude oil, line_
+_Context: crude oil, line, Yemen_
 
 ##### Atlanta airport
 ### [A collision between a hotel shuttle bus and a tractor-trailer occurs near the Atlanta airport, injuring eighteen people. ](/news/2013/05/24/a-collision-between-a-hotel-shuttle-bus-and-a-tractor-trailer-occurs-near-the-atlanta-airport-injuring-eighteen-people.md)
@@ -33,7 +33,7 @@ By Genevra PittmanNEW YORK (Reuters Health) - More babies born via cesarean sect
 
 ##### Main Street Family Pharmacy
 ### [Main Street Family Pharmacy of Newbern, Tennessee, US voluntarily recalls a steroid injection (preservative-free methylprednisolone acetate), used for arthritis and allergy relief in at least 11 states. No serious infections are reported. ](/news/2013/05/24/main-street-family-pharmacy-of-newbern-tennessee-us-voluntarily-recalls-a-steroid-injection-preservative-free-methylprednisolone-acetate.md)
-_Context: arthritis, Main Street Family Pharmacy, allergy, steroid, injection, methylprednisolone acetate, Newbern, Tennessee_
+_Context: steroid, Main Street Family Pharmacy, methylprednisolone acetate, Newbern, Tennessee, allergy, injection, arthritis_
 
 ##### Metropolitan Police Service
 ### [As part of "a policy of reducing the impact of rough sleepers on the community" London's Metropolitan police seize belongings including sleeping bags from homeless people. ](/news/2013/05/24/as-part-of-a-policy-of-reducing-the-impact-of-rough-sleepers-on-the-community-london-s-metropolitan-police-seize-belongings-including-slee.md)
@@ -61,7 +61,7 @@ _Context: President, Rafael Correa_
 
 ##### President
 ### [President of Uganda Yoweri Museveni removes Aronda Nyakairima as head of the military and names him as Minister of the Interior. ](/news/2013/05/24/president-of-uganda-yoweri-museveni-removes-aronda-nyakairima-as-head-of-the-military-and-names-him-as-minister-of-the-interior.md)
-_Context: Yoweri Museveni, President, Aronda Nyakairima_
+_Context: Aronda Nyakairima, President, Yoweri Museveni_
 
 ## [Previous Day...](/news/2013/05/23/index.md)
 

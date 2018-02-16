@@ -21,7 +21,7 @@ _Context: Meghna River, Bangladesh_
 
 ##### Sudanese
 ### [A pregnant Sudanese woman Mariam Yahia Ibrahim Ishag is set to receive 100 lashes for being married to a Christian man and is sentenced to death for refusing to renounce her Christianity causing international outrage. ](/news/2014/05/17/a-pregnant-sudanese-woman-mariam-yahia-ibrahim-ishag-is-set-to-receive-100-lashes-for-being-married-to-a-christian-man-and-is-sentenced-to-d.md)
-_Context: Mariam Yahia Ibrahim Ishag, Sudanese_
+_Context: Sudanese, Mariam Yahia Ibrahim Ishag_
 
 ##### Palaeontologist
 ### [Palaeontologists report that the remains of the largest dinosaur ever discovered have been unearthed in Patagonia, Argentina. ](/news/2014/05/17/palaeontologists-report-that-the-remains-of-the-largest-dinosaur-ever-discovered-have-been-unearthed-in-patagonia-argentina.md)

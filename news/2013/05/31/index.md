@@ -21,7 +21,7 @@ _Context: Phoenix, Arizona_
 
 ##### Oklahoma City
 ### [Oklahoma City's Will Rogers World Airport is evacuated due to a tornado threat with three tornadoes touching down with five people dead and others reported missing. ](/news/2013/05/31/oklahoma-city-s-will-rogers-world-airport-is-evacuated-due-to-a-tornado-threat-with-three-tornadoes-touching-down-with-five-people-dead-and.md)
-_Context: Oklahoma City, Will Rogers World Airport, May 31 tornado_
+_Context: May 31 tornado, Will Rogers World Airport, Oklahoma City_
 
 ##### Middle East respiratory syndrome coronavirus
 ### [Italy announces its first case of novel coronavirus. ](/news/2013/05/31/italy-announces-its-first-case-of-novel-coronavirus.md)
@@ -41,7 +41,7 @@ MP Patrick Mercer resigns the Tory whip to &quot;save my party embarrassment&quo
 
 ##### Presidential
 ### [Iranian presidential election: The first televised debate is held with candidates discussing their economic plans. ](/news/2013/05/31/iranian-presidential-election-the-first-televised-debate-is-held-with-candidates-discussing-their-economic-plans.md)
-_Context: economic, presidential, televised debate_
+_Context: televised debate, presidential, economic_
 
 ##### 
 ### [Zimbabwe's Constitutional Court orders elections must be held no later than July 31. ](/news/2013/05/31/zimbabwe-s-constitutional-court-orders-elections-must-be-held-no-later-than-july-31.md)

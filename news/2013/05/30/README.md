@@ -29,7 +29,7 @@ _Context: Tamiflu_
 
 ##### Genetically modified wheat
 ### [Following the controversial discovery of genetically modified wheat on a U.S. farm on May 29, Japan suspends imports of wheat from the U.S. ](/news/2013/05/30/following-the-controversial-discovery-of-genetically-modified-wheat-on-a-u-s-farm-on-may-29-japan-suspends-imports-of-wheat-from-the-u-s.md)
-_Context: wheat, genetically modified wheat, Japan_
+_Context: Japan, wheat, genetically modified wheat_
 
 ##### Hezbollah
 ### [Nigeria soldiers uncover a large stock of weapons that they believe belonged to Hezbollah. ](/news/2013/05/30/nigeria-soldiers-uncover-a-large-stock-of-weapons-that-they-believe-belonged-to-hezbollah.md)
@@ -69,7 +69,7 @@ _Context: woolly mammoth_
 
 ##### Stanford University
 ### [Stanford University researchers unveil a zinc-air battery that is more energy-dense and cheaper than lithium-ion counterparts. ](/news/2013/05/30/stanford-university-researchers-unveil-a-zincaair-battery-that-is-more-energy-dense-and-cheaper-than-lithium-ion-counterparts.md)
-_Context: Stanford University, zinc-air battery, lithium-ion_
+_Context: zinc-air battery, lithium-ion, Stanford University_
 
 ##### (285263) 1998 QE2
 ### [The asteroid (285263) 1998 QE2, expected to approach within 3.6 million miles of Earth on May 31, is discovered to have its own moon.](/news/2013/05/30/the-asteroid-285263-1998-qe2-expected-to-approach-within-3-6-million-miles-of-earth-on-may-31-is-discovered-to-have-its-own-moon.md)

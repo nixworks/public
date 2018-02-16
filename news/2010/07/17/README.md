@@ -21,7 +21,7 @@ At least eight people are killed by attackers with machetes near Jos in Nigeria,
 
 ##### South Korea
 ### [South Korea develops a long-range cruise missile capable of striking North Korea, Japan, Russia and China. ](/news/2010/07/17/south-korea-develops-a-long-range-cruise-missile-capable-of-striking-north-korea-japan-russia-and-china.md)
-_Context: Japan, South Korea, North Korea, Russia_
+_Context: Japan, Russia, South Korea, North Korea_
 
 ##### Assault rifles
 ### [Suspected militants armed with assault rifles attack a bus in northwest Pakistan near the Afghanistan border, resulting in at least 16 casualties. ](/news/2010/07/17/suspected-militants-armed-with-assault-rifles-attack-a-bus-in-northwest-pakistan-near-the-afghanistan-border-resulting-in-at-least-16-casua.md)
@@ -61,7 +61,7 @@ _Context: Israel, West Bank_
 
 ##### Typhoon Conson
 ### [Typhoon Conson makes landfall near Hai Phong, Vietnam, after devastating Southern China and the Philippines with at least 65 dead. ](/news/2010/07/17/typhoon-conson-makes-landfall-near-hai-phong-vietnam-after-devastating-southern-china-and-the-philippines-with-at-least-65-dead.md)
-_Context: Hai Phong, Typhoon Conson, Philippines, Vietnam_
+_Context: Philippines, Vietnam, Typhoon Conson, Hai Phong_
 
 ##### Israel
 ### [One month after Israel's announcement it was easing its Gazan blockade the humanitarian situation remains dire. ](/news/2010/07/17/one-month-after-israel-s-announcement-it-was-easing-its-gazan-blockade-the-humanitarian-situation-remains-dire.md)
@@ -85,7 +85,7 @@ German Foreign Minister Guido Westerwelle criticized on Saturday a reported Isra
 
 ##### High Representative of the Union for Foreign Affairs and Security Policy
 ### [High Representative of the Union for Foreign Affairs and Security Policy Catherine Ashton attends a joint press conference with Palestinian Prime Minister Salam Fayyad after their meeting in Ramallah. ](/news/2010/07/17/high-representative-of-the-union-for-foreign-affairs-and-security-policy-catherine-ashton-attends-a-joint-press-conference-with-palestinian.md)
-_Context: Ramallah, Catherine Ashton, High Representative of the Union for Foreign Affairs and Security Policy, Salam Fayyad_
+_Context: Salam Fayyad, Ramallah, Catherine Ashton, High Representative of the Union for Foreign Affairs and Security Policy_
 
 ##### Venezuela
 ### [Venezuela recalls its ambassador to Colombia following Colombian accusations that Venezuela is hosting rebels on its territory. ](/news/2010/07/17/venezuela-recalls-its-ambassador-to-colombia-following-colombian-accusations-that-venezuela-is-hosting-rebels-on-its-territory.md)
@@ -93,7 +93,7 @@ Move comes as Caracas rejects Colombian charges that it hosts rebels on its terr
 
 ##### German
 ### [German minister Ilse Aigner expresses annoyance at Facebook's privacy policy, saying the website is breaking the law by collecting information such as phone numbers. ](/news/2010/07/17/german-minister-ilse-aigner-expresses-annoyance-at-facebook-s-privacy-policy-saying-the-website-is-breaking-the-law-by-collecting-informati.md)
-_Context: Facebook, Ilse Aigner, German_
+_Context: German, Ilse Aigner, Facebook_
 
 ##### Bangladesh
 ### [Bangladeshi police arrest an army major who allegedly possessed hundreds of bottles of Phensedyl, an illegal cough syrup. ](/news/2010/07/17/bangladeshi-police-arrest-an-army-major-who-allegedly-possessed-hundreds-of-bottles-of-phensedyl-an-illegal-cough-syrup.md)
@@ -101,11 +101,11 @@ Police in northern Bangladesh arrest an army major for allegedly carrying hundre
 
 ##### Hugo Chavez
 ### [Hugo Chavez exhumes the corpse of Simon Bolivar to investigate suspicions of foul play being involved in his death. ](/news/2010/07/17/hugo-cha-vez-exhumes-the-corpse-of-sima3n-bolavar-to-investigate-suspicions-of-foul-play-being-involved-in-his-death.md)
-_Context: Simon Bolivar, Hugo Chavez_
+_Context: Hugo Chavez, Simon Bolivar_
 
 ##### Australian Prime Minister
 ### [The Prime Minister of Australia Julia Gillard calls a federal election for 21 August 2010. ](/news/2010/07/17/the-prime-minister-of-australia-julia-gillard-calls-a-federal-election-for-21-august-2010.md)
-_Context: Australian Prime Minister, recent election, Julia Gillard_
+_Context: Julia Gillard, recent election, Australian Prime Minister_
 
 ##### Berkshire
 ### [Dozens of residents protest against plans to build four wind turbines in a field in Berkshire, England. ](/news/2010/07/17/dozens-of-residents-protest-against-plans-to-build-four-wind-turbines-in-a-field-in-berkshire-england.md)
@@ -129,7 +129,7 @@ A tornado hits the venue for the Central American and Caribbean games in Puerto 
 
 ##### Salman Butt
 ### [Salman Butt captains Pakistan for the rest of their tour after Shahid Afridi's retirement from Tests. ](/news/2010/07/17/salman-butt-captains-pakistan-for-the-rest-of-their-tour-after-shahid-afridi-s-retirement-from-tests.md)
-_Context: Shahid Afridi, Salman Butt_
+_Context: Salman Butt, Shahid Afridi_
 
 ##### 2010 FIFA World Cup Final
 ### [One of the balls used in the 2010 FIFA World Cup Final sells for GBP48,200 on eBay. ](/news/2010/07/17/one-of-the-balls-used-in-the-2010-fifa-world-cup-final-sells-for-agbp48-200-on-ebay.md)

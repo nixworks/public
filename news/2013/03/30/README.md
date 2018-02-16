@@ -25,7 +25,7 @@ JOHANNESBURG, South Africa -- The second-place finisher in Kenya&rsquo;s recent 
 
 ##### Nuon Chea
 ### [Nuon Chea, the most senior surviving Khmer Rouge leader, is declared fit for trial by a United Nations-backed court in Cambodia. ](/news/2013/03/30/nuon-chea-the-most-senior-surviving-khmer-rouge-leader-is-declared-fit-for-trial-by-a-united-nations-backed-court-in-cambodia.md)
-_Context: Khmer Rouge, Nuon Chea, United Nations, Cambodia_
+_Context: Nuon Chea, United Nations, Khmer Rouge, Cambodia_
 
 ##### Eiffel Tower
 ### [The Eiffel Tower is evacuated for a time after an anonymous caller made a bomb threat. No explosives were found, police are still searching for the caller. ](/news/2013/03/30/the-eiffel-tower-is-evacuated-for-a-time-after-an-anonymous-caller-made-a-bomb-threat-no-explosives-were-found-police-are-still-searching.md)
@@ -37,7 +37,7 @@ _Context: United States, Pennsylvania, Pittsburgh_
 
 ##### Panda
 ### [Famous panda Mei Xiang is artificially inseminated in the U.S. National Zoo after natural breeding failed to occur. ](/news/2013/03/30/famous-panda-mei-xiang-is-artificially-inseminated-in-the-u-s-national-zoo-after-natural-breeding-failed-to-occur.md)
-_Context: U.S. National Zoo, breeding, Mei Xiang's, panda, artificially inseminated_
+_Context: U.S. National Zoo, Mei Xiang's, panda, breeding, artificially inseminated_
 
 ##### Meteorite
 ### [Scientists announce that a green meteorite Northwest Africa 7325, found in Morocco in 2012, may have originated on Mercury, which, if proven, would be the first known meteorite from that planet. ](/news/2013/03/30/scientists-announce-that-a-green-meteorite-northwest-africa-7325-found-in-morocco-in-2012-may-have-originated-on-mercury-which-if-proven.md)

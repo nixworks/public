@@ -13,7 +13,7 @@ _Context: Iran, Capital punishment in Iran, Mina Ahadi, adultery_
 
 ##### Lebanese
 ### [Lebanese Ayatollah Mohammad Hussein Fadlallah dies suddenly in Beirut. ](/news/2010/07/4/lebanese-ayatollah-mohammad-hussein-fadlallah-dies-suddenly-in-beirut.md)
-_Context: Lebanese, Mohammad Hussein Fadlallah, Beirut, Ayatollah_
+_Context: Ayatollah, Mohammad Hussein Fadlallah, Beirut, Lebanese_
 
 ##### Philippines
 ### [At least 15 people are killed and 48 are injured after the driver of a runaway bus smashes into a concrete wall in the Philippines. ](/news/2010/07/4/at-least-15-people-are-killed-and-48-are-injured-after-the-driver-of-a-runaway-bus-smashes-into-a-concrete-wall-in-the-philippines.md)
@@ -29,7 +29,7 @@ _Context: Hamas, Mahmoud al-Zahar, Gaza Strip_
 
 ##### President
 ### [President of Brazil Luiz Inacio Lula da Silva takes his last tour of Africa as president. ](/news/2010/07/4/president-of-brazil-luiz-ina-cio-lula-da-silva-takes-his-last-tour-of-africa-as-president.md)
-_Context: president, Luiz Inacio Lula da Silva, Africa_
+_Context: Africa, president, Luiz Inacio Lula da Silva_
 
 ##### David Petraeus
 ### [David Petraeus formally takes command of the International Security Assistance Force in Afghanistan. ](/news/2010/07/4/david-petraeus-formally-takes-command-of-the-international-security-assistance-force-in-afghanistan.md)
@@ -37,11 +37,11 @@ American Gen. David Petraeus formally assumes command of the 130,000-strong inte
 
 ##### Iran
 ### [Iran passes on to Tehran's Swiss embassy what it describes as evidence proving that the United States Central Intelligence Agency abducted Iranian nuclear scientist Shahram Amiri. ](/news/2010/07/4/iran-passes-on-to-tehran-s-swiss-embassy-what-it-describes-as-evidence-proving-that-the-united-states-central-intelligence-agency-abducted-i.md)
-_Context: Shahram Amiri, CIA, United States, Iran, Tehran, Switzerland_
+_Context: United States, CIA, Tehran, Switzerland, Iran, Shahram Amiri_
 
 ##### Japan
 ### [Japan's competitive eating champion Takeru "Tsunami" Kobayashi is arrested after disrupting the Nathan's Hot Dog Eating Contest in New York City, United States. ](/news/2010/07/4/japan-s-competitive-eating-champion-takeru-tsunami-kobayashi-is-arrested-after-disrupting-the-nathan-s-hot-dog-eating-contest-in-new-york.md)
-_Context: New York City, Japan, United States, Nathan's Hot Dog Eating Contest, competitive eating, Takeru "Tsunami" Kobayashi_
+_Context: United States, New York City, competitive eating, Takeru "Tsunami" Kobayashi, Japan, Nathan's Hot Dog Eating Contest_
 
 ##### Polish presidential election, 2010
 ### [Polish voters head to the polls for the second round of presidential voting.Jaroslaw Kaczynski initially concedes defeat after exit polls show Bronislaw Komorowski winning, but later withdraws his concession as exit polls show the result narrowing. ](/news/2010/07/4/polish-voters-head-to-the-polls-for-the-second-round-of-presidential-voting-jaroslaw-kaczynski-initially-concedes-defeat-after-exit-polls-sh.md)
@@ -57,7 +57,7 @@ The Oktoberfest beer festival in Munich is to become smoke-free after a referend
 
 ##### Rafael Nadal
 ### [Rafael Nadal of Spain wins the men's singles titles at the 2010 Wimbledon Championships. ](/news/2010/07/4/rafael-nadal-of-spain-wins-the-men-s-singles-titles-at-the-2010-wimbledon-championships.md)
-_Context: Spain, men's singles titles, 2010 Wimbledon Championships, Rafael Nadal_
+_Context: men's singles titles, 2010 Wimbledon Championships, Rafael Nadal, Spain_
 
 ## [Previous Day...](/news/2010/07/3/index.md)
 

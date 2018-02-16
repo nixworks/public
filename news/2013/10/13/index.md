@@ -23,7 +23,7 @@ _Context: Hmong New Year, Tulsa, Oklahoma_
 ### [Over 380 people are detained after an anti-migrant Russian nationalist riot in southern Moscow. ](/news/2013/10/13/over-380-people-are-detained-after-an-anti-migrant-russian-nationalist-riot-in-southern-moscow.md)
 ##### Bill Shorten
 ### [Bill Shorten is elected as the head of the federal Australian Labor Party, defeating Anthony Albanese in a leadership ballot. ](/news/2013/10/13/bill-shorten-is-elected-as-the-head-of-the-federal-australian-labor-party-defeating-anthony-albanese-in-a-leadership-ballot.md)
-_Context: Australian Labor Party, Anthony Albanese, Bill Shorten_
+_Context: Anthony Albanese, Bill Shorten, Australian Labor Party_
 
 ##### V Nguyn Gip
 ### [Vietnamese independence hero General V Nguyn Gip is buried after an elaborate two-day state funeral. ](/news/2013/10/13/vietnamese-independence-hero-general-vo-nguyen-giap-is-buried-after-an-elaborate-two-day-state-funeral.md)

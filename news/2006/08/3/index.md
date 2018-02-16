@@ -13,7 +13,7 @@ Breaking News from Perth and Western Australia | Perth Now
 
 ##### Union of French Jewish Employers and Professionals
 ### [ The Union of French Jewish Employers and Professionals (UPJF), Conseil Representatif des Institutions juives de France (CRIF), and the Vigilance Bureau against anti-Semitism (BVCA), have denounced a declaration made by French foreign minister Philippe Douste-Blazy who said while visiting Beirut on Monday that Tehran was "a stabilising element in the Middle East."](/news/2006/08/3/the-union-of-french-jewish-employers-and-professionals-upjf-conseil-repra-c-sentatif-des-institutions-juives-de-france-crif-and-the-vig.md)
-_Context: French foreign minister, Tehran, Vigilance Bureau against anti-Semitism, Middle East, Union of French Jewish Employers and Professionals, Philippe Douste-Blazy, Conseil Representatif des Institutions juives de France, Beirut_
+_Context: Union of French Jewish Employers and Professionals, Beirut, Philippe Douste-Blazy, Tehran, Vigilance Bureau against anti-Semitism, Middle East, Conseil Representatif des Institutions juives de France, French foreign minister_
 
 ##### Tropical Depression Chris
 ### [ Tropical Storm Chris weakens and is now expected not to become a hurricane. ](/news/2006/08/3/tropical-storm-chris-weakens-and-is-now-expected-not-to-become-a-hurricane.md)
@@ -21,11 +21,11 @@ _Context: hurricane, Tropical Depression Chris_
 
 ##### Ukraine
 ### [ Ukrainian President Viktor Yushchenko nominates his political rival Viktor Yanukovich to become prime minister.](/news/2006/08/3/ukrainian-president-viktor-yushchenko-nominates-his-political-rival-viktor-yanukovich-to-become-prime-minister.md)
-_Context: Viktor Yushchenko, Viktor Yanukovich, Ukraine_
+_Context: Viktor Yanukovich, Viktor Yushchenko, Ukraine_
 
 ##### Sri Lankan military
 ### [ Clashes between Sri Lanka's army and the Liberation Tigers of Tamil Eelam escalates into the worst violence since they agreed a cease-fire in 2002. ](/news/2006/08/3/clashes-between-sri-lanka-s-army-and-the-liberation-tigers-of-tamil-eelam-escalates-into-the-worst-violence-since-they-agreed-a-cease-fire.md)
-_Context: LTTE, Sri Lankan military_
+_Context: Sri Lankan military, LTTE_
 
 ##### Mahmoud  Ahmadinejad
 ### [ Mahmoud Ahmadinejad has said the "main solution" to end the conflict in Lebanon was the "elimination of the Zionist regime." ](/news/2006/08/3/mahmoud-ahmadinejad-has-said-the-main-solution-to-end-the-conflict-in-lebanon-was-the-elimination-of-the-zionist-regime.md)
@@ -33,7 +33,7 @@ _Context: LTTE, Sri Lankan military_
 
 ##### Islamic Movement of Uzbekistan
 ### [ An alleged member of the Islamic Movement of Uzbekistan killed himself and a police officer with a hand grenade in Tajikistan's northern Sughd Region ](/news/2006/08/3/an-alleged-member-of-the-islamic-movement-of-uzbekistan-killed-himself-and-a-police-officer-with-a-hand-grenade-in-tajikistan-s-northern-su.md)
-_Context: Islamic Movement of Uzbekistan, Tajikistan_
+_Context: Tajikistan, Islamic Movement of Uzbekistan_
 
 ## [Previous Day...](/news/2006/08/2/index.md)
 

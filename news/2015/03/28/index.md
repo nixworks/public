@@ -9,7 +9,7 @@ Raids target Houthi strongholds across country while ground fighting reported in
 
 ##### War in Somalia (2009-present)
 ### [The death toll from the March 27 hotel siege in Mogadishu rises to 20. ](/news/2015/03/28/the-death-toll-from-the-march-27-hotel-siege-in-mogadishu-rises-to-20.md)
-_Context: the March 27 hotel siege, War in Somalia (2009-present), Mogadishu_
+_Context: Mogadishu, the March 27 hotel siege, War in Somalia (2009-present)_
 
 ##### Germanwings Flight 9525
 ### [According to an interview with Germany's "Bild" newspaper, the former girlfriend of co-pilot Andreas Lubitz was told by him that "One day I'm going to do something that will change the whole system, and everyone will know my name and remember." ](/news/2015/03/28/according-to-an-interview-with-germany-s-bild-newspaper-the-former-girlfriend-of-co-pilot-andreas-lubitz-was-told-by-him-that-one-day-i.md)
@@ -21,7 +21,7 @@ Bar owner falsely implicated in Meredith Kercher murder says decision to quash c
 
 ##### Nigerian general election, 2015
 ### [Voters in Nigeria go to the polls for a general election. Gunmen kill at least 15 voters including an opposition house of assembly candidate for Dukku in Gombe. ](/news/2015/03/28/voters-in-nigeria-go-to-the-polls-for-a-general-election-gunmen-kill-at-least-15-voters-including-an-opposition-house-of-assembly-candidate.md)
-_Context: Dukku, Nigerian general election, 2015, Gombe, Nigeria_
+_Context: Gombe, Dukku, Nigerian general election, 2015, Nigeria_
 
 ##### New South Wales state election, 2015
 ### [Voters in the Australian state of New South Wales go to the polls for a state election with the Liberal-National Coalition led by Mike Baird retaining government. ](/news/2015/03/28/voters-in-the-australian-state-of-new-south-wales-go-to-the-polls-for-a-state-election-with-the-liberal-national-coalition-led-by-mike-baird.md)

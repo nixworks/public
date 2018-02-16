@@ -29,7 +29,7 @@ Prosecutors say Juan Thompson made eight bomb threats and tried to pin it on an 
 
 ##### Northern Ireland Assembly election, 2017
 ### [Mike Nesbitt announces he is standing down as leader of the Ulster Unionist Party (UUP) following the party's poor performance in yesterday's Northern Ireland Assembly election. ](/news/2017/03/3/mike-nesbitt-announces-he-is-standing-down-as-leader-of-the-ulster-unionist-party-uup-following-the-party-s-poor-performance-in-yesterday.md)
-_Context: Ulster Unionist Party, Mike Nesbitt, Northern Ireland Assembly, Northern Ireland Assembly election, 2017_
+_Context: Ulster Unionist Party, Mike Nesbitt, Northern Ireland Assembly election, 2017, Northern Ireland Assembly_
 
 ## [Previous Day...](/news/2017/03/2/index.md)
 

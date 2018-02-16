@@ -9,7 +9,7 @@ A man apparently brandishing a fake gun releases the last hostage he was holding
 
 ##### U.S. branch of the Communion
 ### [The Episcopal Church is poised to become the first major religious denomination in the United States to approve a rite for blessing gay marriages this December, just after its bishops approved such a liturgy. ](/news/2012/07/10/the-episcopal-church-is-poised-to-become-the-first-major-religious-denomination-in-the-united-states-to-approve-a-rite-for-blessing-gay-marr.md)
-_Context: U.S. branch of the Communion, gay marriage_
+_Context: gay marriage, U.S. branch of the Communion_
 
 ##### Iran's military
 ### [Iran's military continues to improve its long- and short-range ballistic missiles and other aspects of its armed forces, according to a Pentagon report to the US Congress. ](/news/2012/07/10/iran-s-military-continues-to-improve-its-long-and-short-range-ballistic-missiles-and-other-aspects-of-its-armed-forces-according-to-a-pent.md)
@@ -45,7 +45,7 @@ The government abandons plans for a crucial vote on its plans to reform the Hous
 
 ##### San Bernardino, California
 ### [The US city of San Bernardino becomes the third city in the state of California to file for bankruptcy protection. ](/news/2012/07/10/the-us-city-of-san-bernardino-becomes-the-third-city-in-the-state-of-california-to-file-for-bankruptcy-protection.md)
-_Context: San Bernardino, California, California_
+_Context: California, San Bernardino, California_
 
 ## [Previous Day...](/news/2012/07/9/index.md)
 

@@ -21,7 +21,7 @@ Coach Inc. has agreed to buy upscale shoe brand Stuart Weitzman in a deal valued
 
 ##### Crude oil
 ### [The price of crude oil drops to $48 per barrel, the lowest since April of 2009. ](/news/2015/01/6/the-price-of-crude-oil-drops-to-48-per-barrel-the-lowest-since-april-of-2009.md)
-_Context: $, crude oil_
+_Context: crude oil, $_
 
 ##### National guardsman
 ### [A military truck collides with a bus carrying members of the National Guard of Ukraine in Ukraine, killing 12 soldiers and injuring 20 others. ](/news/2015/01/6/a-military-truck-collides-with-a-bus-carrying-members-of-the-national-guard-of-ukraine-in-ukraine-killing-12-soldiers-and-injuring-20-other.md)
@@ -53,7 +53,7 @@ The Safeway supermarket chain has been ordered to pay nearly $10 million for ill
 
 ##### Lord's Resistance Army
 ### [A man claiming to be the Lord's Resistance Army top commander Ugandan Dominic Ongwen turns himself in to United States forces in the Central African Republic. ](/news/2015/01/6/a-man-claiming-to-be-the-lord-s-resistance-army-top-commander-ugandan-dominic-ongwen-turns-himself-in-to-united-states-forces-in-the-central.md)
-_Context: Central African Republic, Dominic Ongwen, Ugandan, Lord's Resistance Army, United States_
+_Context: Central African Republic, Dominic Ongwen, United States, Ugandan, Lord's Resistance Army_
 
 ##### Governor of Virginia
 ### [A U.S. District Judge sentences former Virginia Governor Bob McDonnell to two years in prison for corruption. ](/news/2015/01/6/a-u-s-district-judge-sentences-former-virginia-governor-bob-mcdonnell-to-two-years-in-prison-for-corruption.md)
@@ -61,7 +61,7 @@ Former Virginia Gov. Bob McDonnell was sentenced Tuesday to two years in federal
 
 ##### Shoots
 ### [A gunman shoots a doctor at the William Beaumont Army Medical Center in El Paso, Texas, and then kills himself. ](/news/2015/01/6/a-gunman-shoots-a-doctor-at-the-william-beaumont-army-medical-center-in-el-paso-texas-and-then-kills-himself.md)
-_Context: Texas, William Beaumont Army Medical Center, shoots, El Paso_
+_Context: shoots, William Beaumont Army Medical Center, Texas, El Paso_
 
 ##### Colorado Springs, Colorado
 ### [An improvised device explodes outside of the Colorado Springs chapter of the NAACP with no injuries. ](/news/2015/01/6/an-improvised-device-explodes-outside-of-the-colorado-springs-chapter-of-the-naacp-with-no-injuries.md)

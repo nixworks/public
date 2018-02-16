@@ -9,7 +9,7 @@ A fragile 48-hour ceasefire in Yemen ended on Monday after failing to stem viole
 
 ##### War in Afghanistan
 ### [At least 32 people are killed and another 80 injured in a suicide bombing at a Kabul Shia mosque. ISIL claims responsibility. ](/news/2016/11/21/at-least-32-people-are-killed-and-another-80-injured-in-a-suicide-bombing-at-a-kabul-shia-mosque-isil-claims-responsibility.md)
-_Context: Kabul, mosque, War in Afghanistan, ISIL, November 2016 Kabul suicide bombing, Shia, suicide bombing_
+_Context: Shia, ISIL, War in Afghanistan, Kabul, mosque, suicide bombing, November 2016 Kabul suicide bombing_
 
 ##### Boko Haram insurgency
 ### [A militant attack on a base in Lake Chad leaves six Cameroonian soldiers dead. ](/news/2016/11/21/a-militant-attack-on-a-base-in-lake-chad-leaves-six-cameroonian-soldiers-dead.md)
@@ -21,7 +21,7 @@ At least three children were killed and 20 people wounded by a blast in the Liby
 
 ##### South Sudan Conflict
 ### [A detachment of Japanese troops land in South Sudan to aid in U.N. peacekeeping operations, Japan's first such action since World War II. ](/news/2016/11/21/a-detachment-of-japanese-troops-land-in-south-sudan-to-aid-in-u-n-peacekeeping-operations-japan-s-first-such-action-since-world-war-ii.md)
-_Context: South Sudan Conflict, United Nations, World War II_
+_Context: United Nations, World War II, South Sudan Conflict_
 
 ##### William Trevor
 ### [Novelist, playwright and short story writer William Trevor dies in Devon, England. ](/news/2016/11/21/novelist-playwright-and-short-story-writer-william-trevor-dies-in-devon-england.md)
@@ -41,11 +41,11 @@ Tree slices through school bus carrying 35 passengers, grades K-5, after acciden
 
 ##### Russia-United States relations
 ### [President Barack Obama and Vladimir Putin meet in Peru on the sidelines of the Asia-Pacific Economic Cooperation conference to discuss involvement in the Syrian Civil War. ](/news/2016/11/21/president-barack-obama-and-vladimir-putin-meet-in-peru-on-the-sidelines-of-the-asia-pacific-economic-cooperation-conference-to-discuss-invol.md)
-_Context: Syrian Civil War, Barack Obama, Vladimir Putin, Peru, Russia-United States relations, APEC Peru 2016, Asia-Pacific Economic Cooperation_
+_Context: Russia-United States relations, Vladimir Putin, Peru, Syrian Civil War, APEC Peru 2016, Asia-Pacific Economic Cooperation, Barack Obama_
 
 ##### NATO-Russia relations
 ### [Russia deploys its S-400 missile system in Kaliningrad, an exclave between Poland and Lithuania, in response to "NATO expansion" near its borders. The United States criticizes the move as "destabilizing" to Europe. Russia announced the planned deployment over a decade ago. ](/news/2016/11/21/russia-deploys-its-s-400-missile-system-in-kaliningrad-an-exclave-between-poland-and-lithuania-in-response-to-nato-expansion-near-its-bo.md)
-_Context: Lithuania, S-400 missile, Kaliningrad, Poland, Russia, NATO-Russia relations, United States, NATO_
+_Context: Poland, Kaliningrad, Lithuania, NATO, United States, S-400 missile, NATO-Russia relations, Russia_
 
 ##### Philippine criminal law
 ### [Concern is raised by the United Nations and human rights groups after Rodrigo Duterte proposes a law that allows jailing children as young as nine for certain crimes. ](/news/2016/11/21/concern-is-raised-by-the-united-nations-and-human-rights-groups-after-rodrigo-duterte-proposes-a-law-that-allows-jailing-children-as-young-a.md)
@@ -53,7 +53,7 @@ _Context: Rodrigo Duterte, Philippine criminal law_
 
 ##### Corruption investigation of Luiz Inacio Lula da Silva
 ### [Testimony begins in a corruption case against former President of Brazil Luiz Inacio Lula da Silva. ](/news/2016/11/21/testimony-begins-in-a-corruption-case-against-former-president-of-brazil-luiz-ina-cio-lula-da-silva.md)
-_Context: Corruption investigation of Luiz Inacio Lula da Silva, Luiz Inacio Lula da Silva, president_
+_Context: Luiz Inacio Lula da Silva, Corruption investigation of Luiz Inacio Lula da Silva, president_
 
 ##### Presidency of Donald Trump
 ### [President-elect Donald Trump announces his plans for his first day in office, including quitting the Trans-Pacific Partnership (TPP) and canceling restrictions on United States energy production. ](/news/2016/11/21/president-elect-donald-trump-announces-his-plans-for-his-first-day-in-office-including-quitting-the-trans-pacific-partnership-tpp-and-can.md)

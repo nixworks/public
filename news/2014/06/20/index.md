@@ -25,7 +25,7 @@ _Context: Bong Revilla, Sandiganbayan, senators, PDAF scam_
 
 ##### Five Star Movement
 ### [Italy's Five Star Movement joins the eurosceptic political group Europe of Freedom and Democracy in the European Parliament, a group otherwise dominated by the United Kingdom Independence Party. ](/news/2014/06/20/italy-s-five-star-movement-joins-the-eurosceptic-political-group-europe-of-freedom-and-democracy-in-the-european-parliament-a-group-otherwi.md)
-_Context: Five Star Movement, European Parliament, United Kingdom Independence Party, Europe of Freedom and Democracy_
+_Context: United Kingdom Independence Party, European Parliament, Five Star Movement, Europe of Freedom and Democracy_
 
 ## [Previous Day...](/news/2014/06/19/index.md)
 

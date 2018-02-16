@@ -9,7 +9,7 @@ Two of the most wanted Islamist rebels in Chechnya were among 13 killed in a sho
 
 ##### Japan Coast Guard
 ### [A Japan Coast Guard ship engages a Taiwanese ship carrying activists bound for the Senkaku Islands. ](/news/2013/01/24/a-japan-coast-guard-ship-engages-a-taiwanese-ship-carrying-activists-bound-for-the-senkaku-islands.md)
-_Context: Taiwan, Senkaku Islands, engages, Japan Coast Guard_
+_Context: Taiwan, Japan Coast Guard, engages, Senkaku Islands_
 
 ##### Malian army
 ### [The Malian army says it is investigating allegations that soldiers have carried out summary executions in the Islamist-controlled north of Mali. ](/news/2013/01/24/the-malian-army-says-it-is-investigating-allegations-that-soldiers-have-carried-out-summary-executions-in-the-islamist-controlled-north-of-m.md)
@@ -21,7 +21,7 @@ British and other foreign nationals are advised to leave the Libyan city of Beng
 
 ##### Government of Ukraine
 ### [The government of Ukraine signs a major $10 billion shale gas deal with Royal Dutch Shell to reduce its dependency on Russian gas imports. ](/news/2013/01/24/the-government-of-ukraine-signs-a-major-10-billion-shale-gas-deal-with-royal-dutch-shell-to-reduce-its-dependency-on-russian-gas-imports.md)
-_Context: shale gas, Government of Ukraine, gas imports, Ukraine, Royal Dutch Shell, Russia_
+_Context: Government of Ukraine, shale gas, gas imports, Ukraine, Royal Dutch Shell, Russia_
 
 ##### Bolivia
 ### [Seventeen people are killed and 34 others are injured in a bus crash near the town of Taperas, Bolivia, along a newly built highway to Brazil. ](/news/2013/01/24/seventeen-people-are-killed-and-34-others-are-injured-in-a-bus-crash-near-the-town-of-taperas-bolivia-along-a-newly-built-highway-to-brazi.md)
@@ -37,11 +37,11 @@ North Korea says it is proceeding with plans for a third nuclear test, two days 
 
 ##### Polish Prime Minister
 ### [Prime Minister of Poland Donald Tusk is hospitalized with an acute infection of the respiratory tract. ](/news/2013/01/24/prime-minister-of-poland-donald-tusk-is-hospitalized-with-an-acute-infection-of-the-respiratory-tract.md)
-_Context: respiratory tract, Poland, Polish Prime Minister, Donald Tusk, infection_
+_Context: respiratory tract, infection, Donald Tusk, Polish Prime Minister, Poland_
 
 ##### European Bioinformatics Institute
 ### [Scientists from the European Bioinformatics Institute in Hinxton, England, successfully use DNA as a means of data storage. ](/news/2013/01/24/scientists-from-the-european-bioinformatics-institute-in-hinxton-england-successfully-use-dna-as-a-means-of-data-storage.md)
-_Context: Hinxton, England, DNA, data storage, European Bioinformatics Institute_
+_Context: data storage, Hinxton, England, DNA, European Bioinformatics Institute_
 
 ## [Previous Day...](/news/2013/01/23/index.md)
 

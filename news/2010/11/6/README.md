@@ -17,7 +17,7 @@ Relative calm in south disturbed as Palestinian terrorists launch rocket from no
 
 ##### Car bomb
 ### [Car bombs injure at least 37 people in the Iraqi cities of Baghdad and Kirkuk. ](/news/2010/11/6/car-bombs-injure-at-least-37-people-in-the-iraqi-cities-of-baghdad-and-kirkuk.md)
-_Context: Kirkuk, car bomb, Baghdad, Iraq_
+_Context: Baghdad, Kirkuk, Iraq, car bomb_
 
 ##### Somali pirates
 ### [Somali pirates receive a record GBP7.6m in ransoms for seized South Korean and Singaporean ships. ](/news/2010/11/6/somali-pirates-receive-a-record-agbp7-6m-in-ransoms-for-seized-south-korean-and-singaporean-ships.md)
@@ -25,11 +25,11 @@ Somali pirates are reported to have received a total of about $12.3m (£7.6m) in
 
 ##### Armenia
 ### [Armenia and Azerbaijan exchange the bodies of deceased soldiers and a civilian under the auspices of the International Committee of the Red Cross. ](/news/2010/11/6/armenia-and-azerbaijan-exchange-the-bodies-of-deceased-soldiers-and-a-civilian-under-the-auspices-of-the-international-committee-of-the-red.md)
-_Context: Azerbaijan, International Committee of the Red Cross, Armenia_
+_Context: Azerbaijan, Armenia, International Committee of the Red Cross_
 
 ##### Ancient Roman
 ### [The House of the Gladiators in the ancient Roman city of Pompeii collapses, prompting criticism of the Italian government's "neglect" of the site. ](/news/2010/11/6/the-house-of-the-gladiators-in-the-ancient-roman-city-of-pompeii-collapses-prompting-criticism-of-the-italian-government-s-neglect-of-the.md)
-_Context: Pompeii, ancient Roman, Italy_
+_Context: Italy, Pompeii, ancient Roman_
 
 ##### China
 ### [Chinese artist Ai Weiwei claims that he has been placed under house arrest to stop him organising a demolition party to observe the destruction of his studio. ](/news/2010/11/6/chinese-artist-ai-weiwei-claims-that-he-has-been-placed-under-house-arrest-to-stop-him-organising-a-demolition-party-to-observe-the-destruct.md)
@@ -37,7 +37,7 @@ Chinese artist Ai Weiwei says he has been placed under house arrest to prevent h
 
 ##### Christ the King
 ### [Christ the King, the world's biggest statue of Jesus, is completed in Swiebodzin, Poland ](/news/2010/11/6/christ-the-king-the-world-s-biggest-statue-of-jesus-is-completed-in-awiebodzin-poland.md)
-_Context: biggest statue of Jesus, Swiebodzin, Poland, Christ the King_
+_Context: biggest statue of Jesus, Poland, Swiebodzin, Christ the King_
 
 ##### Haiti cholera outbreak
 ### [The death toll from the Haiti cholera outbreak rises to 500. ](/news/2010/11/6/the-death-toll-from-the-haiti-cholera-outbreak-rises-to-500.md)
@@ -49,7 +49,7 @@ A fire in a shopping centre in northern China kills at least 19 people and leave
 
 ##### Mount Merapi volcanic eruption
 ### [Lava and ash spew from Mount Merapi in Central Java province in Indonesia before dawn as the death toll rises to 120. ](/news/2010/11/6/lava-and-ash-spew-from-mount-merapi-in-central-java-province-in-indonesia-before-dawn-as-the-death-toll-rises-to-120.md)
-_Context: Indonesia, Mount Merapi volcanic eruption, Mounts Merapi, Java_
+_Context: Java, Mount Merapi volcanic eruption, Mounts Merapi, Indonesia_
 
 ##### Tropical Storm Tomas
 ### [Tropical Storm Tomas heads for the Turks and Caicos Islands after killing seven people in Haiti. ](/news/2010/11/6/tropical-storm-tomas-heads-for-the-turks-and-caicos-islands-after-killing-seven-people-in-haiti.md)
@@ -61,7 +61,7 @@ Obama and his wife walked down the ladder to a red carpet welcome and were recei
 
 ##### Finance Minister
 ### [Finance Ministers from the Asia-Pacific Economic Cooperation meet in Tokyo, Japan. ](/news/2010/11/6/finance-ministers-from-the-asia-pacific-economic-cooperation-meet-in-tokyo-japan.md)
-_Context: Tokyo, Finance Minister, Japan, Asia-Pacific Economic Cooperation_
+_Context: Japan, Asia-Pacific Economic Cooperation, Tokyo, Finance Minister_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI begins a visit to Spain at Santiago de Compostela. ](/news/2010/11/6/pope-benedict-xvi-begins-a-visit-to-spain-at-santiago-de-compostela.md)
@@ -97,7 +97,7 @@ Tens of thousands of protesters took part in one of the largest anti-nuclear ral
 
 ##### Tanzania
 ### [Tanzanian President Jakaya Kikwete is sworn in for a second and final term. ](/news/2010/11/6/tanzanian-president-jakaya-kikwete-is-sworn-in-for-a-second-and-final-term.md)
-_Context: Tanzania, Jakaya Kikwete_
+_Context: Jakaya Kikwete, Tanzania_
 
 ##### Recount
 ### [Following a recount, Republican Eddie Calvo is certified as the winner of the 2010 gubernatorial election in Guam by 487 votes over Democrat Carl Gutierrez. ](/news/2010/11/6/following-a-recount-republican-eddie-calvo-is-certified-as-the-winner-of-the-2010-gubernatorial-election-in-guam-by-487-votes-over-democrat.md)
@@ -105,11 +105,11 @@ Guam - The Guam Election Commission voted unanimous to certify the Gubernatorial
 
 ##### Burma
 ### [Opposition parties in Burma accuse the military junta of "cheating" and "threatening" voters ahead of the general election on Sunday. ](/news/2010/11/6/opposition-parties-in-burma-accuse-the-military-junta-of-cheating-and-threatening-voters-ahead-of-the-general-election-on-sunday.md)
-_Context: Burma, general elections_
+_Context: general elections, Burma_
 
 ##### Ivory Coast
 ### [The Ivory Coast presidential election will go to a second round with President Laurent Gbagbo facing opposition leader Alassane Ouattara. ](/news/2010/11/6/the-ivory-coast-presidential-election-will-go-to-a-second-round-with-president-laurent-gbagbo-facing-opposition-leader-alassane-ouattara.md)
-_Context: President, Ivory Coast, Laurent Gbagbo, Alassane Ouattara, 2010 presidential election_
+_Context: 2010 presidential election, President, Alassane Ouattara, Laurent Gbagbo, Ivory Coast_
 
 ## [Previous Day...](/news/2010/11/5/index.md)
 

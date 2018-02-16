@@ -11,11 +11,11 @@ Islam Ahmadiyya Khilafat Centenary celebration&#39;s clip on CNN. Islam Ahmadiyy
 ### [ Rights groups say afghan women committing suicide at alarming rate; Women rights groups say that last year, almost 500 women chose death or disfigurement to life of despair by setting themselves on fire to escape forced marriages, slavery or sexual and other types of abuse.](/news/2008/05/27/rights-groups-say-afghan-women-committing-suicide-at-alarming-rate-women-rights-groups-say-that-last-year-almost-500-women-chose-death-or.md)
 ##### Argentina
 ### [ Argentine farmers announce that they will stop selling grain for export from 28 May to 2 June in a deepening row with the federal government over export taxes. ](/news/2008/05/27/argentine-farmers-announce-that-they-will-stop-selling-grain-for-export-from-28-may-to-2-june-in-a-deepening-row-with-the-federal-governmen.md)
-_Context: farmer, federal government, grain, Argentina, 28 May, 2 June, export_
+_Context: grain, Argentina, 28 May, farmer, federal government, 2 June, export_
 
 ##### Russia
 ### [ The Russian Constitutional Court meets in its first session since it relocated from Moscow to the historical building of the Governing Senate at the Decembrists Square in Saint Petersburg. ](/news/2008/05/27/the-russian-constitutional-court-meets-in-its-first-session-since-it-relocated-from-moscow-to-the-historical-building-of-the-governing-sena.md)
-_Context: Decembrists Square, Governing Senate, Russia, Saint Petersburg, Constitutional Court, Moscow_
+_Context: Constitutional Court, Governing Senate, Saint Petersburg, Russia, Moscow, Decembrists Square_
 
 ##### Standard & Poor's
 ### [ The S&P-Case-Shiller index shows a record annual decline in United States house prices of 14.1%. ](/news/2008/05/27/the-s-p-case-shiller-index-shows-a-record-annual-decline-in-united-states-house-prices-of-14-1.md)
@@ -27,11 +27,11 @@ _Context: house arrest, State Peace and Development Council, Aung San Suu Kyi_
 
 ##### Deadly earthquake
 ### [ In the aftermath of the Sichuan earthquake, the People's Republic of China evacuates 100,000 people from Mianyang as engineers prepare to drain the landslide dam-created Tangjiashan Lake.](/news/2008/05/27/in-the-aftermath-of-the-sichuan-earthquake-the-people-s-republic-of-china-evacuates-100-000-people-from-mianyang-as-engineers-prepare-to-d.md)
-_Context: China, deadly earthquake, Tangjiashan Lake, Mianyang, landslide dam_
+_Context: deadly earthquake, Tangjiashan Lake, Mianyang, China, landslide dam_
 
 ##### Thabo Mbeki
 ### [ Thabo Mbeki, the President of South Africa, leaves for Japan to attend a conference on African development despite concerns about the 2008 South African riots. ](/news/2008/05/27/thabo-mbeki-the-president-of-south-africa-leaves-for-japan-to-attend-a-conference-on-african-development-despite-concerns-about-the-2008.md)
-_Context: Japan, Africa, Thabo Mbeki, President of South Africa, 2008 South African riots_
+_Context: Japan, President of South Africa, 2008 South African riots, Africa, Thabo Mbeki_
 
 ##### Military of Guinea
 ### [ Protesting soldiers seize the deputy head of the Army of Guinea a week after Lansana Kouyate is dismissed as Prime Minister. ](/news/2008/05/27/protesting-soldiers-seize-the-deputy-head-of-the-army-of-guinea-a-week-after-lansana-kouyate-is-dismissed-as-prime-minister.md)

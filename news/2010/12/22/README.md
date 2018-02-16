@@ -25,7 +25,7 @@ World Bank stops loans to West African nation as disputed president insists on a
 
 ##### Aceh
 ### [A UN Development Programme report concludes that Aceh's recovery from the 2004 Indian Ocean earthquake and tsunami is "beyond anything imaginable six years ago" but that more needs to be done concerning poverty and natural disaster impact. ](/news/2010/12/22/a-un-development-programme-report-concludes-that-aceh-s-recovery-from-the-2004-indian-ocean-earthquake-and-tsunami-is-beyond-anything-imagi.md)
-_Context: Aceh, 2004 Indian Ocean earthquake and tsunami_
+_Context: 2004 Indian Ocean earthquake and tsunami, Aceh_
 
 ##### United States
 ### [The United States approves more than $4 billion assistance for rescuers and residents whose health was affected after the September 11 attacks in New York City in 2001. ](/news/2010/12/22/the-united-states-approves-more-than-4-billion-assistance-for-rescuers-and-residents-whose-health-was-affected-after-the-september-11-attac.md)
@@ -37,17 +37,17 @@ Flood waters on Tuesday ripped through a retirement community in northwestern Ar
 
 ##### United States House of Representatives
 ### [The United States House of Representatives decides not to take up a resolution declaring the mass killings of Armenians early last century a genocide, helping the administration to avoid a diplomatic clash with Turkey. ](/news/2010/12/22/the-united-states-house-of-representatives-decides-not-to-take-up-a-resolution-declaring-the-mass-killings-of-armenians-early-last-century-a.md)
-_Context: genocide of Armenians, Armenian, United States House of Representatives, Turkey_
+_Context: Turkey, genocide of Armenians, Armenian, United States House of Representatives_
 
 ##### United States Senate
 ### [The United States Senate votes to ratify the New START Treaty with the Russia, which halves the number of deployed strategic nuclear missile launchers maintained by each nation. ](/news/2010/12/22/the-united-states-senate-votes-to-ratify-the-new-start-treaty-with-the-russia-which-halves-the-number-of-deployed-strategic-nuclear-missile.md)
-_Context: United States Senate, New START Treaty, Russia, nuclear missile_
+_Context: Russia, nuclear missile, New START Treaty, United States Senate_
 
 ##### United Nations
 ### [The United Nations votes in favour of restoring a reference to sexual orientation in a resolution banning the unjustified killing of minority groups. ](/news/2010/12/22/the-united-nations-votes-in-favour-of-restoring-a-reference-to-sexual-orientation-in-a-resolution-banning-the-unjustified-killing-of-minorit.md)
 The UN votes to restore a reference to sexual orientation in a resolution against the unjustified killing of minority groups, after heavy US pressure.
 
-##### 250,000 documents
+##### United States diplomatic cables leak
 ### [United States diplomatic cables leak: ](/news/2010/12/22/united-states-diplomatic-cables-leak.md)
 The British government has trained a paramilitary force accused of hundreds of killings in Bangladesh, according to leaked U.S. embassy cables. 
 
@@ -55,7 +55,7 @@ The British government has trained a paramilitary force accused of hundreds of k
 ### [The Russian government is "forced to take an adequate corresponding measure" following Britain's expulsion of one of its diplomats. ](/news/2010/12/22/the-russian-government-is-forced-to-take-an-adequate-corresponding-measure-following-britain-s-expulsion-of-one-of-its-diplomats.md)
 ##### Tibet
 ### [Three Tibetan Buddhist monks are unaccounted for after being sentenced to long prison terms by Chinese authorities earlier this year for participating in a peaceful protest march by Drepung monastery monks in 2008. ](/news/2010/12/22/three-tibetan-buddhist-monks-are-unaccounted-for-after-being-sentenced-to-long-prison-terms-by-chinese-authorities-earlier-this-year-for-par.md)
-_Context: China, Tibet, Drepung monastery, Buddhist, Bhikkhu_
+_Context: Drepung monastery, Bhikkhu, Tibet, China, Buddhist_
 
 ##### United Nations
 ### [The United Nations office for torture issues in Geneva investigates an abuse complaint concerning United States Army private Bradley Manning, suspected by the United States government of passing classified documents to the WikiLeaks website. ](/news/2010/12/22/the-united-nations-office-for-torture-issues-in-geneva-investigates-an-abuse-complaint-concerning-united-states-army-private-bradley-manning.md)
@@ -79,7 +79,7 @@ Former Argentine military ruler Jorge Videla is sentenced to life in prison for 
 
 ##### U.S. President
 ### [President of the United States Barack Obama signs into law the Don't Ask, Don't Tell Repeal Act of 2010, which will bring an end the "don't ask, don't tell" policy of discriminating against the presence of openly gay people in the country's military. More than 13,000 people were sacked by the United States under this policy. ](/news/2010/12/22/president-of-the-united-states-barack-obama-signs-into-law-the-don-t-ask-don-t-tell-repeal-act-of-2010-which-will-bring-an-end-the-don-t.md)
-_Context: U.S. President, Don't Ask, Don't Tell Repeal Act of 2010, Barack Obama, don't ask, don't tell, openly gay_
+_Context: openly gay, Barack Obama, U.S. President, don't ask, don't tell, Don't Ask, Don't Tell Repeal Act of 2010_
 
 ##### Liberal Democrats
 ### [The fears of British Liberal Democrat government ministers over policies relating to welfare and tuition fees are secretly recorded by "The Daily Telegraph" newspaper. ](/news/2010/12/22/the-fears-of-british-liberal-democrat-government-ministers-over-policies-relating-to-welfare-and-tuition-fees-are-secretly-recorded-by-the.md)
@@ -95,7 +95,7 @@ _Context: Montenegro, Prime Minister, Milo Dukanovic_
 
 ##### Peer-reviewed
 ### [Two eight-year-olds publish a significant peer-reviewed study in the Biology Letters journal of the Royal Society, examining the spatial memory of bumblebees. ](/news/2010/12/22/two-eight-year-olds-publish-a-significant-peer-reviewed-study-in-the-biology-letters-journal-of-the-royal-society-examining-the-spatial-mem.md)
-_Context: bumblebee, Biology Letters, peer-reviewed, Royal Society, spatial memory_
+_Context: spatial memory, Royal Society, Biology Letters, bumblebee, peer-reviewed_
 
 ## [Previous Day...](/news/2010/12/21/index.md)
 

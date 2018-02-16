@@ -5,7 +5,7 @@ Formats: [HTML](2005/09/24/index.html)  [JSON](2005/09/24/index.json)  [XML](200
 
 ##### Hong Kong
 ### [ Unofficial reports from Hong Kong say the second Chinese human spaceflight, "Shenzhou 6", is expected to launch October 13 carrying two astronauts on a five day mission. ](/news/2005/09/24/unofficial-reports-from-hong-kong-say-the-second-chinese-human-spaceflight-shenzhou-6-is-expected-to-launch-october-13-carrying-two-ast.md)
-_Context: astronaut, manned launch, October 13, Shenzhou 6, Hong Kong, China_
+_Context: Hong Kong, China, October 13, manned launch, astronaut, Shenzhou 6_
 
 ##### Human Rights Watch
 ### [ Human Rights Watch reports whistleblowers accuse U.S. troops of routinely torturing Iraqi prisoners and declining to investigate complaints. ](/news/2005/09/24/human-rights-watch-reports-whistleblowers-accuse-u-s-troops-of-routinely-torturing-iraqi-prisoners-and-declining-to-investigate-complaints.md)

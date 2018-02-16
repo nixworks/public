@@ -9,11 +9,11 @@ Suicide bombers target game in northern town of Tal Afar, leaving at least 25 de
 
 ##### Thailand
 ### [Death toll rises to at least 8 and up to 121 injured as anti-government protests escalate in Thailand during a day of violence sparked by yesterday's shooting of a key figure, Khattiya Sawasdipol, of the Red Shirt protesters. ](/news/2010/05/14/death-toll-rises-to-at-least-8-and-up-to-121-injured-as-anti-government-protests-escalate-in-thailand-during-a-day-of-violence-sparked-by-ye.md)
-_Context: Khattiya Sawasdipol, Thailand, red shirt_
+_Context: Thailand, Khattiya Sawasdipol, red shirt_
 
 ##### Kurmanbek Bakiyev
 ### [At least one person is killed and 42 injured as live ammunition is fired during clashes between interim government supporters and backers of ousted president Kurmanbek Bakiyev in southern Kyrgyzstan. ](/news/2010/05/14/at-least-one-person-is-killed-and-42-injured-as-live-ammunition-is-fired-during-clashes-between-interim-government-supporters-and-backers-of.md)
-_Context: Kyrgyzstan, Kurmanbek Bakiyev_
+_Context: Kurmanbek Bakiyev, Kyrgyzstan_
 
 ##### Iran
 ### [Iran announces that it hanged 5 prisoners convicted of the so-called crime of "enmity against God", at least 4 of whom were members of Iran's Kurdish minority. ](/news/2010/05/14/iran-announces-that-it-hanged-5-prisoners-convicted-of-the-so-called-crime-of-enmity-against-god-at-least-4-of-whom-were-members-of-iran.md)
@@ -29,7 +29,7 @@ The body of a Palestinian teenager was found in the occupied West Bank on Friday
 
 ##### Pakistan
 ### [Pakistan arrests a suspect with connections to a Pakistani group who said he acted as an accomplice to the man accused of trying to bomb Times Square in New York. ](/news/2010/05/14/pakistan-arrests-a-suspect-with-connections-to-a-pakistani-group-who-said-he-acted-as-an-accomplice-to-the-man-accused-of-trying-to-bomb-tim.md)
-_Context: Pakistan, Faisal Shahzad, New York City, Times Square bomber_
+_Context: Times Square bomber, New York City, Pakistan, Faisal Shahzad_
 
 ##### Nigeria
 ### [The chairman of the Nigerian People's Democratic Party (PDP), Vincent Eze Ogbulafor, resigns days after facing fraud charges in court. ](/news/2010/05/14/the-chairman-of-the-nigerian-people-s-democratic-party-pdp-vincent-eze-ogbulafor-resigns-days-after-facing-fraud-charges-in-court.md)
@@ -69,7 +69,7 @@ A Labour MP was recovering well from an operation on stab wounds this morning af
 
 ##### New Zealand
 ### [New Zealand and South Africa's rugby unions make "landmark apologies" for excluding Maori and black players from their teams during the apartheid era. ](/news/2010/05/14/new-zealand-and-south-africa-s-rugby-unions-make-landmark-apologies-for-excluding-maori-and-black-players-from-their-teams-during-the-apar.md)
-_Context: black, apartheid, South Africa, New Zealand, Maori_
+_Context: South Africa, New Zealand, apartheid, Maori, black_
 
 ##### Space Shuttle Atlantis
 ### [Space Shuttle Atlantis lifts off for its final planned flight in the space shuttle program after a quarter century of service. ](/news/2010/05/14/space-shuttle-atlantis-lifts-off-for-its-final-planned-flight-in-the-space-shuttle-program-after-a-quarter-century-of-service.md)

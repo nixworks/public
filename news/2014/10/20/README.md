@@ -37,7 +37,7 @@ _Context: sworn in, Joko Widodo, President of Indonesia_
 
 ##### Prime Minister of Japan
 ### [Two members of Prime Minister of Japan Shinzo Abe's cabinet, Trade Minister Yuko Obuchi and Justice Minister Midori Matsushima, resign over a scandal involving alleged misuse of political funds. ](/news/2014/10/20/two-members-of-prime-minister-of-japan-shinzo-abe-s-cabinet-trade-minister-ya-ko-obuchi-and-justice-minister-midori-matsushima-resign-over.md)
-_Context: Shinzo Abe, Prime Minister of Japan, Midori Matsushima, Yuko Obuchi_
+_Context: Yuko Obuchi, Prime Minister of Japan, Midori Matsushima, Shinzo Abe_
 
 ## [Previous Day...](/news/2014/10/19/index.md)
 

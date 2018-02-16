@@ -9,7 +9,7 @@ _Context: Department of Commerce, trade surplus, US dollar_
 
 ##### September 11, 2001 attacks
 ### [ September 11, 2001 attacks: A previously unreleased portion of the 9-11 Commission's report details that the Federal Aviation Administration received 52 intelligence reports on potential terrorist attacks by al-Qaeda before September 11, 2001. ](/news/2005/02/10/september-11-2001-attacks-a-previously-unreleased-portion-of-the-9-11-commission-s-report-details-that-the-federal-aviation-administratio.md)
-_Context: September 11, 2001 attacks, Federal Aviation Administration, 9/11 Commission, terrorism, al-Qaeda_
+_Context: al-Qaeda, September 11, 2001 attacks, 9/11 Commission, terrorism, Federal Aviation Administration_
 
 ##### Iraq
 ### [ Iraqi officials announce they must recount around 300 ballot boxes due to various discrepancies, delaying the final results. In Salman Pak south of Baghdad, guerrillas attack a police station killing at least eight Iraqi policemen and wounding more than 60. Three people are killed when a car bomb is detonated in Baghdad. Also in the capital, the bodies of 20 truck drivers are found and guerrillas ambush a convoy of Kurdish party officials, killing one and wounding four. In Basra, guerrillas kill an Iraqi journalist working for the U.S.-funded al-Hurra TV station and his 3-year-old son as they leave their home. A roadside bomb in Samarra leaves four policemen dead. ](/news/2005/02/10/iraqi-officials-announce-they-must-recount-around-300-ballot-boxes-due-to-various-discrepancies-delaying-the-final-results-in-salman-pak.md)
@@ -17,11 +17,11 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Israeli-Palestinian Conflict
 ### [ Israeli-Palestinian Conflict: Israel has postponed security talks with Palestinians following a mortar attack by Hamas on the Gush Katif Jewish settlements in the Gaza Strip. Hamas claim the attack was in retaliation for an attack by Jewish settlers which left one man dead. Palestinian leader Mahmoud Abbas responds by firing the top security commanders in the Gaza Strip. ](/news/2005/02/10/israeli-palestinian-conflict-israel-has-postponed-security-talks-with-palestinians-following-a-mortar-attack-by-hamas-on-the-gush-katif-je.md)
-_Context: President of the Palestinian Authority, Hamas, Gush Katif, Mortar fire, Jew, Palestinians, Mahmoud Abbas, Gaza Strip, Jewish, Israeli-Palestinian Conflict_
+_Context: Mortar fire, Gaza Strip, Jew, Jewish, President of the Palestinian Authority, Palestinians, Gush Katif, Israeli-Palestinian Conflict, Hamas, Mahmoud Abbas_
 
 ##### Clarence House
 ### [ Clarence House announces that Charles, Prince of Wales is to marry Camilla Parker Bowles in a civil ceremony on 8 April. When Charles becomes a king, it is intended that she be styled as a princess consort, rather than a queen consort. ](/news/2005/02/10/clarence-house-announces-that-charles-prince-of-wales-is-to-marry-camilla-parker-bowles-in-a-civil-ceremony-on-8-april-when-charles-becom.md)
-_Context: Prince Charles, queen consort, Camilla Parker Bowles, Clarence House, king, princess consort_
+_Context: princess consort, Prince Charles, king, Camilla Parker Bowles, queen consort, Clarence House_
 
 ##### North Korea's nuclear program
 ### [ North Korea and weapons of mass destruction: North Korea announces that it has developed nuclear weapons for its self-defense, and suspends participation in multi-nation talks to discuss its arms program. ](/news/2005/02/10/north-korea-and-weapons-of-mass-destruction-north-korea-announces-that-it-has-developed-nuclear-weapons-for-its-self-defense-and-suspends.md)
@@ -41,11 +41,11 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Peru
 ### [ In Peru, 5 die and 19 are injured when two gangs clash in the maximum security Lurigancho prison outside Lima. ](/news/2005/02/10/in-peru-5-die-and-19-are-injured-when-two-gangs-clash-in-the-maximum-security-lurigancho-prison-outside-lima.md)
-_Context: Lurigancho prison, Lima, Peru_
+_Context: Lima, Peru, Lurigancho prison_
 
 ##### Zimbabwe
 ### [ According to Zimbabwean police, female athlete Samukeliso Sithole is actually male. ](/news/2005/02/10/according-to-zimbabwean-police-female-athlete-samukeliso-sithole-is-actually-male.md)
-_Context: Zimbabwe, Samukeliso Sithole_
+_Context: Samukeliso Sithole, Zimbabwe_
 
 ## [Previous Day...](/news/2005/02/9/index.md)
 

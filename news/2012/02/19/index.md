@@ -17,15 +17,15 @@ _Context: Dakar_
 
 ##### Suleja
 ### [Five people are injured in a bomb explosion near a church in Suleja, Nigeria. ](/news/2012/02/19/five-people-are-injured-in-a-bomb-explosion-near-a-church-in-suleja-nigeria.md)
-_Context: Suleja, Nigeria_
+_Context: Nigeria, Suleja_
 
 ##### Suicide bomber
 ### [A suicide bomber kills at least 19 officers and cadets and injures 26 outside an Iraqi police academy in northeastern Baghdad. ](/news/2012/02/19/a-suicide-bomber-kills-at-least-19-officers-and-cadets-and-injures-26-outside-an-iraqi-police-academy-in-northeastern-baghdad.md)
-_Context: Baghdad, suicide bomber, Iraqi police_
+_Context: Iraqi police, Baghdad, suicide bomber_
 
 ##### Chad
 ### [Rebels from Chad rob 40 people &ndash; including a local government official &ndash; in attacks in the Central African Republic. ](/news/2012/02/19/rebels-from-chad-rob-40-people-ndash-including-a-local-government-official-ndash-in-attacks-in-the-central-african-republic.md)
-_Context: Chad, Central African Republic_
+_Context: Central African Republic, Chad_
 
 ##### Paolo and Vittorio Taviani
 ### [Paolo and Vittorio Taviani's "Caesar Must Die" wins the Golden Bear at the 62nd Berlin International Film Festival. ](/news/2012/02/19/paolo-and-vittorio-taviani-s-caesar-must-die-wins-the-golden-bear-at-the-62nd-berlin-international-film-festival.md)
@@ -41,7 +41,7 @@ Prime Minister Julia Gillard has described the bombing of Darwin during World Wa
 
 ##### ESPN
 ### [ESPN admits two other instances in which it referred to the American basketball player Jeremy Lin by the racial slur "chink". It comes after yesterday's controversial "Chink in the Armor" headline which ESPN defended as only having appeared to mobile browsers for 35 minutes. ](/news/2012/02/19/espn-admits-two-other-instances-in-which-it-referred-to-the-american-basketball-player-jeremy-lin-by-the-racial-slur-chink-it-comes-after.md)
-_Context: Jeremy Lin, ESPN, chink_
+_Context: chink, ESPN, Jeremy Lin_
 
 ##### Whitney Houston
 ### [Whitney Houston is buried at Fairview Cemetery in Westfield, New Jersey, USA. ](/news/2012/02/19/whitney-houston-is-buried-at-fairview-cemetery-in-westfield-new-jersey-usa.md)
@@ -93,7 +93,7 @@ _Context: monastery, U Gambira, Burma_
 
 ##### Mexican
 ### [A fight amongst inmates leads to a prison riot in the Mexican city of Apodaca, Nuevo Leon, with 44 people dead. ](/news/2012/02/19/a-fight-amongst-inmates-leads-to-a-prison-riot-in-the-mexican-city-of-apodaca-nuevo-lea3n-with-44-people-dead.md)
-_Context: Nuevo Leon, Mexican, Apodaca_
+_Context: Mexican, Nuevo Leon, Apodaca_
 
 ##### Hosni Mubarak
 ### [Egyptian election officials fail to confirm the date of the first presidential election since Hosni Mubarak was ousted from power in last year's revolution. ](/news/2012/02/19/egyptian-election-officials-fail-to-confirm-the-date-of-the-first-presidential-election-since-hosni-mubarak-was-ousted-from-power-in-last-ye.md)

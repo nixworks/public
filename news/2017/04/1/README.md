@@ -13,7 +13,7 @@ POLICE hold serious concerns for four people missing in southeast Queensland, as
 
 ##### Indonesia
 ### [A landslide hits the Indonesian island of Java and leaves more than two dozen people missing. ](/news/2017/04/1/a-landslide-hits-the-indonesian-island-of-java-and-leaves-more-than-two-dozen-people-missing.md)
-_Context: Java, Indonesia_
+_Context: Indonesia, Java_
 
 ##### 2017 Putumayo landslide
 ### [A landslide in Colombia's southwestern border department of Putumayo sends mud and debris crashing onto houses killing over 250 people and injuring at least 400 others. In addition, 200 people are missing. ](/news/2017/04/1/a-landslide-in-colombia-s-southwestern-border-department-of-putumayo-sends-mud-and-debris-crashing-onto-houses-killing-over-250-people-and-i.md)

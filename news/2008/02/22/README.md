@@ -5,15 +5,15 @@ Formats: [HTML](2008/02/22/index.html)  [JSON](2008/02/22/index.json)  [XML](200
 
 ##### Russia
 ### [ Russian President Vladimir Putin describes the recognition of Kosovo's unilaterally declared independence by several major world powers as "a terrible precedent," ... that "breaks up the entire system of international relations," ... which has taken "centuries to evolve." "And undoubtedly, it may entail a whole chain of unpredictable consequences to other regions in the world" and that will come back to hit the West "in the face." ](/news/2008/02/22/russian-president-vladimir-putin-describes-the-recognition-of-kosovo-s-unilaterally-declared-independence-by-several-major-world-powers-as.md)
-_Context: Vladimir Putin, Russia, Russian President, Kosovo_
+_Context: Vladimir Putin, Russian President, Russia, Kosovo_
 
 ##### White House
 ### [ The White House announces that U.S. Army National Guard Master Sergeant Woodrow W. Keeble will posthumously receive the Medal of Honor for his service in the Korean War, becoming the first Sioux to receive the award. ](/news/2008/02/22/the-white-house-announces-that-u-s-army-national-guard-master-sergeant-woodrow-w-keeble-will-posthumously-receive-the-medal-of-honor-for.md)
-_Context: Korean War, Woodrow W. Keeble, U.S. Army National Guard, Sioux, Medal of Honor, White House_
+_Context: U.S. Army National Guard, Sioux, Korean War, Medal of Honor, Woodrow W. Keeble, White House_
 
 ##### Swedish Academy
 ### [ The Swedish Academy, the body that awards the Nobel Prize in Literature, names the professor of literature Anders Olsson as one of its members to succeed poet and writer Lars Forssell, who died in July 2007. ](/news/2008/02/22/the-swedish-academy-the-body-that-awards-the-nobel-prize-in-literature-names-the-professor-of-literature-anders-olsson-as-one-of-its-memb.md)
-_Context: Swedish Academy, Nobel Prize in Literature, Anders Olsson, Lars Forssell_
+_Context: Nobel Prize in Literature, Anders Olsson, Swedish Academy, Lars Forssell_
 
 ##### Turkey
 ### [ Turkey sends between three thousand and ten thousand troops into northern Iraq. ](/news/2008/02/22/turkey-sends-between-three-thousand-and-ten-thousand-troops-into-northern-iraq.md)
@@ -25,11 +25,11 @@ _Context: nationalization, His Majesty's Government, Northern Rock_
 
 ##### United States
 ### [ The United States warns the Serbian government that it has a responsibility to protect its assets after about 1,000 protesters set fire to the U.S. embassy in anger at Kosovo's declaration of independence. ](/news/2008/02/22/the-united-states-warns-the-serbian-government-that-it-has-a-responsibility-to-protect-its-assets-after-about-1-000-protesters-set-fire-to.md)
-_Context: United States, Serbia, Kosovo_
+_Context: Kosovo, Serbia, United States_
 
 ##### United States
 ### [ A United States Air Force B-2 Spirit stealth bomber crashes at Anderson Air Force Base on Guam. The two pilots ejected, with one hospitalized. It is the first B-2 to crash. ](/news/2008/02/22/a-united-states-air-force-b-2-spirit-stealth-bomber-crashes-at-anderson-air-force-base-on-guam-the-two-pilots-ejected-with-one-hospitaliz.md)
-_Context: B-2 Spirit, ejected, Guam, stealth, United States, bomber, United States Air Force, Anderson Air Force Base_
+_Context: bomber, ejected, stealth, B-2 Spirit, Anderson Air Force Base, United States, United States Air Force, Guam_
 
 ## [Previous Day...](/news/2008/02/21/index.md)
 

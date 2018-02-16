@@ -13,7 +13,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ##### Ethiopia
 ### [ In Ethiopia, opposition says that the leaders of Coalition for Unity and Democracy, Hailu Shawel and senior official Lidetu Ayalew, are under house arrest and demand their release. ](/news/2005/06/11/in-ethiopia-opposition-says-that-the-leaders-of-coalition-for-unity-and-democracy-hailu-shawel-and-senior-official-lidetu-ayalew-are-und.md)
-_Context: house arrest, Ethiopia, Coalition for Unity and Democracy, Lidetu Ayalew, Hailu Shawel_
+_Context: house arrest, Ethiopia, Hailu Shawel, Coalition for Unity and Democracy, Lidetu Ayalew_
 
 ##### Portugal
 ### [ In Portugal, former prime minister Vasco Gonalves, one of the figures of the Carnation Revolution, dies ](/news/2005/06/11/in-portugal-former-prime-minister-vasco-goncalves-one-of-the-figures-of-the-carnation-revolution-dies.md)
@@ -21,7 +21,7 @@ _Context: Vasco Gonalves, Carnation Revolution, Portugal_
 
 ##### Poland
 ### [ In Poland, gay rights activists defy ban and march in the streets of Warsaw ](/news/2005/06/11/in-poland-gay-rights-activists-defy-ban-and-march-in-the-streets-of-warsaw.md)
-_Context: Poland, gay rights, Warsaw_
+_Context: Warsaw, gay rights, Poland_
 
 ## [Previous Day...](/news/2005/06/10/index.md)
 

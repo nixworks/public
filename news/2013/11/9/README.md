@@ -13,7 +13,7 @@ Five members of theNigerian Islamist sect Boko Haram and two soldiers were kille
 
 ##### Venezuelan
 ### [Venezuelan television presenter Mara Gabriela Isler is crowned Miss Universe 2013 in Moscow, Russia. ](/news/2013/11/9/venezuelan-television-presenter-maria-gabriela-isler-is-crowned-miss-universe-2013-in-moscow-russia.md)
-_Context: Moscow, Miss Universe 2013, Mara Gabriela Isler, Russia, Venezuelan_
+_Context: Mara Gabriela Isler, Miss Universe 2013, Moscow, Venezuelan, Russia_
 
 ##### Philippines
 ### [Philippines: The Red Cross says that 10,000 people are confirmed dead. It reported that at least 1,000 had been killed in Tacloban and 200 in Samar province. ](/news/2013/11/9/philippines-the-red-cross-says-that-10-000-people-are-confirmed-dead-it-reported-that-at-least-1-000-had-been-killed-in-tacloban-and-200-i.md)
@@ -25,7 +25,7 @@ _Context: Iran, William Hague_
 
 ##### Bangladesh
 ### [Authorities in Bangladesh arrest five leaders of the Opposition Bangladesh Nationalist Party the day before the start of a nationwide strike. ](/news/2013/11/9/authorities-in-bangladesh-arrest-five-leaders-of-the-opposition-bangladesh-nationalist-party-the-day-before-the-start-of-a-nationwide-strike.md)
-_Context: Bangladesh Nationalist Party, Bangladesh_
+_Context: Bangladesh, Bangladesh Nationalist Party_
 
 ##### Maldives
 ### [Voters in the Maldives go to the polls for the second round of a presidential election. ](/news/2013/11/9/voters-in-the-maldives-go-to-the-polls-for-the-second-round-of-a-presidential-election.md)

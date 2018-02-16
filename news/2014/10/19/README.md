@@ -13,7 +13,7 @@ Police engaged in what appeared to be an effort to either clear streets or at le
 
 ##### Pope Francis
 ### [Pope Francis closes the Third Extraordinary General Assembly of the Synod of Bishops, a preparatory meeting which had as its theme the pastoral challenges to the family, with a Mass at the Vatican--with Pope Emeritus Benedict XVI and about 70,000 in attendance--featuring the beatification of Pope Paul VI, who concluded and implemented Vatican Council II and gained fame for writing the still-controversial "Humanae Vitae" sexual ethics encyclical. ](/news/2014/10/19/pope-francis-closes-the-third-extraordinary-general-assembly-of-the-synod-of-bishops-a-preparatory-meeting-which-had-as-its-theme-the-pasto.md)
-_Context: Third Extraordinary General Assembly of the Synod of Bishops, Pope Paul VI, Pope Emeritus Benedict XVI, Pope Francis, Humanae Vitae, Vatican Council II_
+_Context: Vatican Council II, Pope Francis, Pope Paul VI, Pope Emeritus Benedict XVI, Humanae Vitae, Third Extraordinary General Assembly of the Synod of Bishops_
 
 ##### Intestine
 ### [A working human intestine is generated in a laboratory from induced pluripotent stem cells in the United States. ](/news/2014/10/19/a-working-human-intestine-is-generated-in-a-laboratory-from-induced-pluripotent-stem-cells-in-the-united-states.md)

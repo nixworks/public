@@ -9,7 +9,7 @@ Car bomb and two explosions at main gate of Interior Ministry, after earlier bla
 
 ##### Rolling Stones
 ### [Musicians and entertainers including the Rolling Stones, Eric Clapton and Bruce Springsteen perform a benefit concert for victims of Hurricane Sandy at Madison Square Garden in New York City. ](/news/2012/12/12/musicians-and-entertainers-including-the-rolling-stones-eric-clapton-and-bruce-springsteen-perform-a-benefit-concert-for-victims-of-hurrica.md)
-_Context: Rolling Stones, Eric Clapton, Hurricane Sandy, New York City, Madison Square Garden, Bruce Springsteen and the E Street Band_
+_Context: Eric Clapton, New York City, Madison Square Garden, Hurricane Sandy, Bruce Springsteen and the E Street Band, Rolling Stones_
 
 ##### Pope
 ### [Pope Benedict XVI sends his first Twitter message with an assist using his personal account (pontifex Benedict XVI). ](/news/2012/12/12/pope-benedict-xvi-sends-his-first-twitter-message-with-an-assist-using-his-personal-account-pontifex-benedict-xvi.md)
@@ -33,11 +33,11 @@ John McAfee, the fugitive computer software millionaire wanted for questioning i
 
 ##### Ecuador
 ### [Ecuador's National Court of Justice issues an international arrest warrant for former President Jamil Mahuad on embezzlement charges and orders that all of his assets in Ecuador be seized. ](/news/2012/12/12/ecuador-s-national-court-of-justice-issues-an-international-arrest-warrant-for-former-president-jamil-mahuad-on-embezzlement-charges-and-ord.md)
-_Context: President, Jamil Mahuad, Ecuador_
+_Context: Ecuador, Jamil Mahuad, President_
 
 ##### Irish
 ### [Irish politician Joan Collins names crime journalist Paul Williams and sports star Ronan O'Gara under Dail privilege as being among those to benefit from having their penalty points for traffic offences cancelled by the Garda Siochana. Justice Minister Alan Shatter calls Collins's action a "total disgrace" and she is reported to a Leinster House watchdog called the Dail Committee on Procedure and Privileges. ](/news/2012/12/12/irish-politician-joan-collins-names-crime-journalist-paul-williams-and-sports-star-ronan-o-gara-under-da-il-privilege-as-being-among-those-t.md)
-_Context: police officer, Irish, Alan Shatter, Joan Collins, Ronan O'Gara, Leinster House, Dail Eireann, Paul Williams_
+_Context: Joan Collins, Alan Shatter, Leinster House, Irish, Dail Eireann, Paul Williams, Ronan O'Gara, police officer_
 
 ##### Mali
 ### [Malian interim President Dioncounda Traore appoints Django Sissoko to be a new Acting Prime Minister, after his predecessor Cheick Modibo Diarra was forced to resign by leaders of the 2012 coup d'etat. ](/news/2012/12/12/malian-interim-president-dioncounda-traora-c-appoints-django-sissoko-to-be-a-new-acting-prime-minister-after-his-predecessor-cheick-modibo-d.md)
@@ -45,11 +45,11 @@ Malian President Diouncounda Traore appoints a new prime minister, less than 24 
 
 ##### Sexual harassment
 ### [A sexual harassment case against former Speaker of the Australian House of Representatives Peter Slipper is dismissed. ](/news/2012/12/12/a-sexual-harassment-case-against-former-speaker-of-the-australian-house-of-representatives-peter-slipper-is-dismissed.md)
-_Context: Peter Slipper, Speaker of the Australian House of Representatives, sexual harassment, Australian House of Representatives_
+_Context: Speaker of the Australian House of Representatives, Australian House of Representatives, Peter Slipper, sexual harassment_
 
 ##### 10 Downing Street
 ### [10 Downing Street denies that British Prime Minister David Cameron's spokesman Craig Oliver warned "The Daily Telegraph" against running a critical story on MPs expenses claimed by Culture Secretary Maria Miller because of her role in enacting proposals in the Leveson report. ](/news/2012/12/12/10-downing-street-denies-that-british-prime-minister-david-cameron-s-spokesman-craig-oliver-warned-the-daily-telegraph-against-running-a-c.md)
-_Context: 10 Downing Street, Leveson report, Craig Oliver, David Cameron, MPs expenses, Daily Telegraph, Prime Minister, Maria Miller, Secretary of State for Culture, Media and Sport_
+_Context: Daily Telegraph, Maria Miller, 10 Downing Street, MPs expenses, David Cameron, Secretary of State for Culture, Media and Sport, Prime Minister, Craig Oliver, Leveson report_
 
 ##### Nicolas Maduro
 ### [Nicolas Maduro, the Vice President of Venezuela, warns that President Hugo Chavez faces a "difficult" recovery from cancer surgery in Cuba. ](/news/2012/12/12/nicola-s-maduro-the-vice-president-of-venezuela-warns-that-president-hugo-cha-vez-faces-a-difficult-recovery-from-cancer-surgery-in-cuba.md)
@@ -57,7 +57,7 @@ Venezuelan President Hugo Chavez is in stable but delicate condition after his l
 
 ##### Michael Palmer
 ### [Michael Palmer resigns as the Speaker of the House in the Parliament of Singapore due to an extra-marital affair. ](/news/2012/12/12/michael-palmer-resigns-as-the-speaker-of-the-house-in-the-parliament-of-singapore-due-to-an-extra-marital-affair.md)
-_Context: Parliament of Singapore, Michael Palmer, Speaker of the House_
+_Context: Speaker of the House, Michael Palmer, Parliament of Singapore_
 
 ##### 4179 Toutatis
 ### [4179 Toutatis, an asteroid about 3 miles wide, passes within 4.3 million miles or 18 lunar distances of the Earth. ](/news/2012/12/12/4179-toutatis-an-asteroid-about-3-miles-wide-passes-within-4-3-million-miles-or-18-lunar-distances-of-the-earth.md)

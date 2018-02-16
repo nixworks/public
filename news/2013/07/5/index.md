@@ -9,7 +9,7 @@ Five Egyptian police officers were gunned down in separate incidents on Friday i
 
 ##### Homs
 ### [The Syrian opposition calls for immediate humanitarian aid to Homs after the Syrian army and Hezbollah step up their siege of the city with increased artillery shelling and incendiary bombs. ](/news/2013/07/5/the-syrian-opposition-calls-for-immediate-humanitarian-aid-to-homs-after-the-syrian-army-and-hezbollah-step-up-their-siege-of-the-city-with.md)
-_Context: Homs, Hezbollah, Syrian army's_
+_Context: Hezbollah, Syrian army's, Homs_
 
 ##### Iraq
 ### [15 people die in a suicide bomb attack targeting a Shia mosque in the Iraqi capital of Baghdad. ](/news/2013/07/5/15-people-die-in-a-suicide-bomb-attack-targeting-a-shia-mosque-in-the-iraqi-capital-of-baghdad.md)
@@ -41,11 +41,11 @@ Whole Foods Market Inc. is recalling Crave Brothers Les Freres cheese in respons
 
 ##### China
 ### [The People's Republic of China and Russia begin joint naval exercises in the Sea of Japan. ](/news/2013/07/5/the-people-s-republic-of-china-and-russia-begin-joint-naval-exercises-in-the-sea-of-japan.md)
-_Context: Russia, Sea of Japan, China_
+_Context: Sea of Japan, Russia, China_
 
 ##### Bolivia
 ### [Bolivian president Evo Morales calls the Eurozone for a violation of international law and threatens to close down the U.S. embassy in Bolivia after the episode of having his official airplane being refused to land "en route" to Vienna, amid suspicions of having former NSA employee Edward Snowden on board. Ambassadors of France, Italy, Spain and Portugal are summoned to give full explanations.](/news/2013/07/5/bolivian-president-evo-morales-calls-the-eurozone-for-a-violation-of-international-law-and-threatens-to-close-down-the-u-s-embassy-in-boliv.md)
-_Context: U.S. embassy in Bolivia, Italy, Evo Morales, Spain, Edward Snowden, Bolivia, Vienna, Portugal, Eurozone, France_
+_Context: Italy, Spain, Edward Snowden, Evo Morales, Eurozone, Bolivia, U.S. embassy in Bolivia, Vienna, Portugal, France_
 
 ##### New Zealand
 ### [A New Zealand court orders Pike River Coal to pay $3 million in compensation for the 29 victims of the Pike River Mine disaster. ](/news/2013/07/5/a-new-zealand-court-orders-pike-river-coal-to-pay-3-million-in-compensation-for-the-29-victims-of-the-pike-river-mine-disaster.md)

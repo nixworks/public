@@ -13,7 +13,7 @@ Deaths as rain, snow and high winds lash Eastern Mediterranean, bringing months 
 
 ##### Blizzard
 ### [A heavy blizzard in the midwestern US states of Minnesota, Wisconsin, Iowa, Illinois and Michigan dropping about three feet of snow results in two deaths, road closures, flight cancellations and the inflatable roof of the Hubert H. Humphrey Metrodome in Minneapolis, Minnesota, collapsing. ](/news/2010/12/12/a-heavy-blizzard-in-the-midwestern-us-states-of-minnesota-wisconsin-iowa-illinois-and-michigan-dropping-about-three-feet-of-snow-results.md)
-_Context: Minneapolis, blizzard, United States, Minnesota, Wisconsin, Iowa, Illinois, Mich., Hubert H. Humphrey Metrodome_
+_Context: Iowa, Wisconsin, Mich., United States, Illinois, blizzard, Minneapolis, Minnesota, Hubert H. Humphrey Metrodome_
 
 ##### 250,000 documents
 ### [Newly released cables from Australian intelligence show the intelligence assessment that charges of sodomy laid against Malaysian opposition leader Anwar Ibrahim are due to a "set up job" that he "walked into". Others refer to Malaysia as a "confused and dangerous" state, Thai politicians as corrupt and Crown Prince Maha Vajiralongkorn as "very erratic and easily subject to influence", and Japan as a "big fat loser". ](/news/2010/12/12/newly-released-cables-from-australian-intelligence-show-the-intelligence-assessment-that-charges-of-sodomy-laid-against-malaysian-opposition.md)
@@ -29,11 +29,11 @@ _Context: Ivory Coast, Laurent Gbagbo, military_
 
 ##### Moscow
 ### [Hundreds of people participate in two separate rallies in Moscow, Russia, calling for the resignation of Prime Minister Vladimir Putin and protesting constitutional abuses, and the second demanding greater rights for ethnic Russians. ](/news/2010/12/12/hundreds-of-people-participate-in-two-separate-rallies-in-moscow-russia-calling-for-the-resignation-of-prime-minister-vladimir-putin-and-p.md)
-_Context: Vladimir Putin, Russian, Russia, Moscow_
+_Context: Moscow, Russia, Vladimir Putin, Russian_
 
 ##### Kosovan parliamentary election
 ### [A parliamentary election takes place in Kosovo, with exit polls indicating that Prime Minister Hashim Thai has won the vote. ](/news/2010/12/12/a-parliamentary-election-takes-place-in-kosovo-with-exit-polls-indicating-that-prime-minister-hashim-thaci-has-won-the-vote.md)
-_Context: Kosovan parliamentary election, Hashim Thai, Kosovo_
+_Context: Hashim Thai, Kosovo, Kosovan parliamentary election_
 
 ##### Bangladesh
 ### [One person is killed in clashes between demonstrating garment workers demanding higher pay, and police in Bangladesh. ](/news/2010/12/12/one-person-is-killed-in-clashes-between-demonstrating-garment-workers-demanding-higher-pay-and-police-in-bangladesh.md)

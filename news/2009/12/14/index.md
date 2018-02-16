@@ -5,23 +5,23 @@ Formats: [HTML](2009/12/14/index.html)  [JSON](2009/12/14/index.json)  [XML](200
 
 ##### Group of 77
 ### [ The Group of 77 (including China, India, UAE, Qatar, and Saudi Arabia) suspends participation in treaty negotiations at the Copenhagen Climate Change Conference, citing the unwillingness of developed nations to live up to the Kyoto Protocol and what they view as a lack of open negotiations. ](/news/2009/12/14/the-group-of-77-including-china-india-uae-qatar-and-saudi-arabia-suspends-participation-in-treaty-negotiations-at-the-copenhagen-clim.md)
-_Context: UAE, Conference on Climate Change, Group of 77, Copenhagen, Saudi Arabia, India, China, Kyoto Protocol, Qatar_
+_Context: China, Copenhagen, India, Kyoto Protocol, Conference on Climate Change, UAE, Saudi Arabia, Qatar, Group of 77_
 
 ##### Antonio Maria Costa
 ### [ Antonio Maria Costa, head of the UN Office on Drugs and Crime, claims that some banks were rescued during the recent global financial crisis by billions of dollars that originated from the illegal drug trade. ](/news/2009/12/14/antonio-maria-costa-head-of-the-un-office-on-drugs-and-crime-claims-that-some-banks-were-rescued-during-the-recent-global-financial-crisi.md)
-_Context: UN Office on Drugs and Crime, Antonio Maria Costa, drug traffickers_
+_Context: drug traffickers, UN Office on Drugs and Crime, Antonio Maria Costa_
 
 ##### Veined Octopus
 ### [ Researchers report that the Veined Octopus retrieves coconut shell halves to use as shelter, becoming the first invertebrates recorded to use tools. ](/news/2009/12/14/researchers-report-that-the-veined-octopus-retrieves-coconut-shell-halves-to-use-as-shelter-becoming-the-first-invertebrates-recorded-to-u.md)
-_Context: Veined Octopus, invertebrate, coconut, use tools_
+_Context: Veined Octopus, coconut, use tools, invertebrate_
 
 ##### Eritrea
 ### [ The Eritrean national football team goes missing in Kenya, with the intention of seeking asylum. ](/news/2009/12/14/the-eritrean-national-football-team-goes-missing-in-kenya-with-the-intention-of-seeking-asylum.md)
-_Context: Eritrea, national football team, Kenya_
+_Context: national football team, Eritrea, Kenya_
 
 ##### Cabin crew
 ### [ Cabin crew at British Airways vote overwhelmingly in favour of a planned 12 days of strike action over Christmas and the New Year in a dispute over job cuts and changes to staff contracts. ](/news/2009/12/14/cabin-crew-at-british-airways-vote-overwhelmingly-in-favour-of-a-planned-12-days-of-strike-action-over-christmas-and-the-new-year-in-a-disp.md)
-_Context: Cabin crew, proposed twelve day strike, New Year, British Airways, Christmas_
+_Context: Cabin crew, New Year, British Airways, Christmas, proposed twelve day strike_
 
 ##### Sebastian Piera
 ### [ Centre-right candidate Sebastian Piera wins the first round of the presidential election in Chile, and will face a run off with centre-left candidate Eduardo Frei on January 17. ](/news/2009/12/14/centre-right-candidate-sebastian-pinera-wins-the-first-round-of-the-presidential-election-in-chile-and-will-face-a-run-off-with-centre-lef.md)
@@ -33,7 +33,7 @@ Abu Dhabi and UAE Central Bank give 10b in support Dubai World welcomes decision
 
 ##### Guinea
 ### [ Guinea's military junta reject a proposal by the Economic Community of West African States (ECOWAS) of sending an "intervention force" to the country. ](/news/2009/12/14/guinea-s-military-junta-reject-a-proposal-by-the-economic-community-of-west-african-states-ecowas-of-sending-an-intervention-force-to-t.md)
-_Context: ECOWAS, junta, Guinea_
+_Context: junta, Guinea, ECOWAS_
 
 ##### Sudan
 ### [ Sudanese police fire tear gas and detain some 38 protesters in clashes at a planned pro-democracy rally in Omdurman. ](/news/2009/12/14/sudanese-police-fire-tear-gas-and-detain-some-38-protesters-in-clashes-at-a-planned-pro-democracy-rally-in-omdurman.md)
@@ -53,7 +53,7 @@ _Context: Hypo Alpe-Adria-Bank International, Austria_
 
 ##### TeliaSonera
 ### [ TeliaSonera opens the world's first 4G LTE cellular network for public in Oslo, Norway, and Stockholm, Sweden. ](/news/2009/12/14/teliasonera-opens-the-world-s-first-4g-lte-cellular-network-for-public-in-oslo-norway-and-stockholm-sweden.md)
-_Context: TeliaSonera, LTE, Norway, 4G, Stockholm, Oslo, cellular network, Sweden_
+_Context: Stockholm, Norway, 4G, Sweden, TeliaSonera, LTE, Oslo, cellular network_
 
 ## [Previous Day...](/news/2009/12/13/index.md)
 

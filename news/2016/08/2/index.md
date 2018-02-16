@@ -33,7 +33,7 @@ HUTCHINSON, Kan. (AP) — Rep. Tim Huelskamp has been a thorn in the side of the
 
 ##### South Sudan President
 ### [South Sudan President Salva Kiir fires six ministers allied to his long-time rival Riek Machar, replacing them with people linked to a breakaway faction of Machar's SPLM-IO party. ](/news/2016/08/2/south-sudan-president-salva-kiir-fires-six-ministers-allied-to-his-long-time-rival-riek-machar-replacing-them-with-people-linked-to-a-break.md)
-_Context: South Sudan President, SPLM-IO, Riek Machar, Salva Kiir Mayardit_
+_Context: SPLM-IO, Salva Kiir Mayardit, Riek Machar, South Sudan President_
 
 ## [Previous Day...](/news/2016/08/1/index.md)
 

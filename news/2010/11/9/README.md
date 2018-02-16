@@ -5,19 +5,19 @@ Formats: [HTML](2010/11/9/index.html)  [JSON](2010/11/9/index.json)  [XML](2010/
 
 ##### Explosion
 ### [A bomb explosion kills Ali Abadi, governor of Shwak district in Afghanistan's eastern province of Paktia. ](/news/2010/11/9/a-bomb-explosion-kills-ali-abadi-governor-of-shwak-district-in-afghanistan-s-eastern-province-of-paktia.md)
-_Context: Afghanistan, Ali Abadi, Paktia, explosion, Shwak district_
+_Context: Afghan, explosion, Ali Abadi, Paktia, Shwak district_
 
 ##### Western Sahara
 ### [The death toll from clashes at a camp in Western Sahara between Sahrawi protesters and Moroccan police rises to eleven. ](/news/2010/11/9/the-death-toll-from-clashes-at-a-camp-in-western-sahara-between-sahrawi-protesters-and-moroccan-police-rises-to-eleven.md)
-_Context: Sahrawi, Morocco, Western Sahara_
+_Context: Western Sahara, Morocco, Sahrawi_
 
 ##### Anwar al-Awlaki
 ### [Anwar al-Awlaki, a Yemeni cleric affiliated with al-Queda, tells Muslims in a new video posting that they are free to kill American at will, in retaliation for the killing of civilians in Iraq, Afghanistan and elsewhere. ](/news/2010/11/9/anwar-al-awlaki-a-yemeni-cleric-affiliated-with-al-queda-tells-muslims-in-a-new-video-posting-that-they-are-free-to-kill-american-at-will.md)
-_Context: Yemen, al-Queda, Anwar al-Awlaki, Iraq, Afghanistan_
+_Context: Yemen, Iraq, Afghan, al-Queda, Anwar al-Awlaki_
 
 ##### Burma
 ### [About 20,000 people flee Burma to escape fighting between the Burmese military and the Democratic Karen Buddhist Army in Karen State after the recent general election. ](/news/2010/11/9/about-20-000-people-flee-burma-to-escape-fighting-between-the-burmese-military-and-the-democratic-karen-buddhist-army-in-karen-state-after-t.md)
-_Context: Democratic Karen Buddhist Army, Burma, fighting, general elections, Karen State, Burmese military_
+_Context: Karen State, Burma, general elections, Democratic Karen Buddhist Army, fighting, Burmese military_
 
 ##### British military personnel
 ### [Three members of the British Armed Forces are being investigated by military lawyers over alleged abuse of Iraqi detainees. ](/news/2010/11/9/three-members-of-the-british-armed-forces-are-being-investigated-by-military-lawyers-over-alleged-abuse-of-iraqi-detainees.md)
@@ -41,7 +41,7 @@ David Cameron raises the issue of human rights in talks with China, during what 
 
 ##### Churches
 ### [Secret documents are released showing churches and civilians upon the enemies list of Indonesian special forces Kopassus. The U.S. government had just removed a twelve-year funding ban on the group this summer.](/news/2010/11/9/secret-documents-are-released-showing-churches-and-civilians-upon-the-enemies-list-of-indonesian-special-forces-kopassus-the-u-s-governmen.md)
-_Context: churches, Indonesia, Kopassus_
+_Context: Kopassus, churches, Indonesia_
 
 ##### Sakineh Mohammadi Ashtiani
 ### [In the first public sign that the sentence of death by stoning passed on Sakineh Mohammadi Ashtiani is causing divisions within the regime, Alef, a conservative newspaper in Iran, challenges the handling of the case. ](/news/2010/11/9/in-the-first-public-sign-that-the-sentence-of-death-by-stoning-passed-on-sakineh-mohammadi-ashtiani-is-causing-divisions-within-the-regime.md)
@@ -53,7 +53,7 @@ _Context: Hainan, South China_
 
 ##### Russia
 ### [A second Russian journalist is attacked in Moscow. Motivation is unclear but both had written about trees being felled to make way for motorways. ](/news/2010/11/9/a-second-russian-journalist-is-attacked-in-moscow-motivation-is-unclear-but-both-had-written-about-trees-being-felled-to-make-way-for-motor.md)
-_Context: Russia, Moscow_
+_Context: Moscow, Russia_
 
 ##### Riot
 ### [A riot in the Pedrinhas prison in north-eastern Brazil results in eighteen prisoner deaths and a guard being wounded. ](/news/2010/11/9/a-riot-in-the-pedrinhas-prison-in-north-eastern-brazil-results-in-eighteen-prisoner-deaths-and-a-guard-being-wounded.md)
@@ -61,7 +61,7 @@ Eighteen inmates were killed and a prison guard shot and wounded during a prison
 
 ##### Taiwan
 ### [A new law in Taiwan allows women to breastfeed in public and imposes fines on those trying to stop them. ](/news/2010/11/9/a-new-law-in-taiwan-allows-women-to-breastfeed-in-public-and-imposes-fines-on-those-trying-to-stop-them.md)
-_Context: Taiwan, breastfeed_
+_Context: breastfeed, Taiwan_
 
 ##### Claims Conference
 ### [Seventeen people including six employees of the Claims Conference in the United States have been charged with theft of $42 million from Holocaust compensation funds provided by the Government of Germany. ](/news/2010/11/9/seventeen-people-including-six-employees-of-the-claims-conference-in-the-united-states-have-been-charged-with-theft-of-42-million-from-holo.md)
@@ -77,7 +77,7 @@ The decision comes as representatives of the Fatah and Hamas prepare to meet in 
 
 ##### Union Solidarity and Development Party
 ### [The Union Solidarity and Development Party is predicting a sweeping victory in the Burmese general election which overseas observers have called a sham. ](/news/2010/11/9/the-union-solidarity-and-development-party-is-predicting-a-sweeping-victory-in-the-burmese-general-election-which-overseas-observers-have-ca.md)
-_Context: general elections, Union Solidarity and Development Party_
+_Context: Union Solidarity and Development Party, general elections_
 
 ##### Government
 ### [The Chinese government prevents the lawyer for Nobel Peace Prize winner Liu Xiaobo from going to London to speak at a conference organised by the International Bar Association. ](/news/2010/11/9/the-chinese-government-prevents-the-lawyer-for-nobel-peace-prize-winner-liu-xiaobo-from-going-to-london-to-speak-at-a-conference-organised-b.md)

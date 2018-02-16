@@ -29,11 +29,11 @@ _Context: Jos Cludio Ribeiro da Silva, Brazil, Par State_
 
 ##### German
 ### [Voters in the German capital of Berlin go to the polls for a state election, with current mayor Klaus Wowereit and his Social Democrats doing well. ](/news/2011/09/18/voters-in-the-german-capital-of-berlin-go-to-the-polls-for-a-state-election-with-current-mayor-klaus-wowereit-and-his-social-democrats-doin.md)
-_Context: Social Democrats, German, Berlin, Klaus Wowereit_
+_Context: Berlin, Social Democrats, Klaus Wowereit, German_
 
 ##### Sinn Fein
 ### [Sinn Fein announces that Martin McGuinness, current Deputy First Minister of Northern Ireland and former Irish Republican Army commander, will be a candidate for the Irish presidential election with John O'Dowd serving as acting Deputy First Minister. ](/news/2011/09/18/sinn-fein-announces-that-martin-mcguinness-current-deputy-first-minister-of-northern-ireland-and-former-irish-republican-army-commander-wi.md)
-_Context: Martin McGuinness, deputy First Minister of Northern Ireland, John O'Dowd, Sinn Fein, Irish Republican Army, Northern Ireland, Irish presidential election_
+_Context: Northern Ireland, Irish Republican Army, deputy First Minister of Northern Ireland, John O'Dowd, Irish presidential election, Sinn Fein, Martin McGuinness_
 
 ## [Previous Day...](/news/2011/09/17/index.md)
 

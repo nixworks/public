@@ -9,7 +9,7 @@ Several people reported dead in latest clashes even as number of UN monitors cha
 
 ##### Drone
 ### [The United States conducts two drone strikes in southeastern Yemen, killing 11 suspected Al-Qaeda militants. ](/news/2012/05/12/the-united-states-conducts-two-drone-strikes-in-southeastern-yemen-killing-11-suspected-al-qaeda-militants.md)
-_Context: drone, Yemen, al-Qaeda_
+_Context: Yemen, drone, al-Qaeda_
 
 ##### Nigeria
 ### [Nigerian police claim to have captured a senior commander of the radical Islamist militant group Boko Haram. ](/news/2012/05/12/nigerian-police-claim-to-have-captured-a-senior-commander-of-the-radical-islamist-militant-group-boko-haram.md)
@@ -17,7 +17,7 @@ Nigerian police say they have arrested a senior commander of the Islamist milita
 
 ##### NATO
 ### [Four NATO soldiers die in separate incidents in southern Afghanistan &ndash; two in a gun attack by insurgents, one in a roadside bombing, and one of non-combat injuries. ](/news/2012/05/12/four-nato-soldiers-die-in-separate-incidents-in-southern-afghanistan-ndash-two-in-a-gun-attack-by-insurgents-one-in-a-roadside-bombing-a.md)
-_Context: NATO, Afghanistan_
+_Context: Afghan, NATO_
 
 ##### European Commission
 ### [The European Commission states that the combined eurozone economy is likely to contract by 0.3% in 2012, as an ongoing debt crisis and high unemployment continue to wrack the 17 euro-using nations. ](/news/2012/05/12/the-european-commission-states-that-the-combined-eurozone-economy-is-likely-to-contract-by-0-3-in-2012-as-an-ongoing-debt-crisis-and-high.md)
@@ -25,7 +25,7 @@ Police clear protesters from central Madrid, after nationwide protests by the &q
 
 ##### Boston University
 ### [Three Boston University students are killed and another five are injured in a minivan crash during a trip to New Zealand. ](/news/2012/05/12/three-boston-university-students-are-killed-and-another-five-are-injured-in-a-minivan-crash-during-a-trip-to-new-zealand.md)
-_Context: minivan, New Zealand, Boston University_
+_Context: Boston University, New Zealand, minivan_
 
 ##### China
 ### [China denies that its military has been placed on a war footing amid an ongoing dispute with the Philippines over territorial claims in the South China Sea. ](/news/2012/05/12/china-denies-that-its-military-has-been-placed-on-a-war-footing-amid-an-ongoing-dispute-with-the-philippines-over-territorial-claims-in-the.md)
@@ -37,7 +37,7 @@ A pair of Palestinian prisoners being held without charge enter day 74 without f
 
 ##### President
 ### [President of Iran Mahmoud Ahmadinejad calls Israel "nothing more than a mosquito" and downplays the idea of war between the two countries, ahead of talks regarding Iran's nuclear program. ](/news/2012/05/12/president-of-iran-mahmoud-ahmadinejad-calls-israel-nothing-more-than-a-mosquito-and-downplays-the-idea-of-war-between-the-two-countries-a.md)
-_Context: nuclear program, mosquito, President, Mahmoud Ahmadinejad, Israel_
+_Context: Mahmoud Ahmadinejad, Israel, nuclear program, mosquito, President_
 
 ##### President
 ### [President of Venezuela Hugo Chavez returns home after successfully completing of a course of radiotherapy for cancer in Cuba. ](/news/2012/05/12/president-of-venezuela-hugo-cha-vez-returns-home-after-successfully-completing-of-a-course-of-radiotherapy-for-cancer-in-cuba.md)

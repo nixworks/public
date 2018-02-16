@@ -13,7 +13,7 @@ A suicide attack on a Houthi rebel procession in northern Yemen kills at least t
 
 ##### United States
 ### [United States country music singer Willie Nelson is charged with marijuana possession. ](/news/2010/11/26/united-states-country-music-singer-willie-nelson-is-charged-with-marijuana-possession.md)
-_Context: country music, Willie Nelson, United States, marijuana_
+_Context: United States, Willie Nelson, country music, marijuana_
 
 ##### Falls back into recession
 ### [Irish financial crisis. Widespread speculation that senior bondholders of Irish banks will have to take a "haircut" -- i.e. share in the costs of an EU bailout -- leads to downgrades in the credit worthiness of the institutions that hads the most at stake in the ballooning property values of recent years. ](/news/2010/11/26/irish-financial-crisis-widespread-speculation-that-senior-bondholders-of-irish-banks-will-have-to-take-a-haircut-i-e-share-in-the-cos.md)
@@ -29,11 +29,11 @@ North Korea warns that US-South Korean plans for military maneuvers put peninsul
 
 ##### China
 ### [China warns the U.S. against performing any military acts within their exclusive economic zone, ahead of joint South Korean-U.S. military exercises aimed at threatening North Korea. ](/news/2010/11/26/china-warns-the-u-s-against-performing-any-military-acts-within-their-exclusive-economic-zone-ahead-of-joint-south-korean-u-s-military-ex.md)
-_Context:  threatening, South Korea, China, U.S., North Korea, exclusive economic zone_
+_Context: exclusive economic zone, China, North Korea, South Korea, U.S.,  threatening_
 
 ##### Lebanon's Prime Minister
 ### [Lebanon's Prime Minister Saad Hariri visits Iran, seeking help to prevent violence if a U.N.-backed tribunal indicts Hezbollah members for killing former prime minister, Rafiq Hariri, and 21 others in a car bombing ](/news/2010/11/26/lebanon-s-prime-minister-saad-hariri-visits-iran-seeking-help-to-prevent-violence-if-a-u-n-backed-tribunal-indicts-hezbollah-members-for-k.md)
-_Context: Rafiq Hariri, Saad Hariri, Hezbollah, killing former prime minister, Lebanon's Prime Minister, U.N._
+_Context: Lebanon's Prime Minister, Hezbollah, Saad Hariri, killing former prime minister, U.N., Rafiq Hariri_
 
 ##### Rwanda
 ### [A Rwandan court reschedules the trial date of the United Democratic Forces opposition party leader, Victoire Ingabire, for another 30 days for prosecutors to complete building their case against her. ](/news/2010/11/26/a-rwandan-court-reschedules-the-trial-date-of-the-united-democratic-forces-opposition-party-leader-victoire-ingabire-for-another-30-days-f.md)
@@ -49,7 +49,7 @@ Authorities have arrested 124 Saudis and 25 foreigners, who were planning attack
 
 ##### Explosives
 ### [Authorities find the largest cache of homemade explosives ever discovered in the United States, in two houses near Escondido, California. ](/news/2010/11/26/authorities-find-the-largest-cache-of-homemade-explosives-ever-discovered-in-the-united-states-in-two-houses-near-escondido-california.md)
-_Context: Escondido, California, explosives, United States_
+_Context: United States, Escondido, California, explosives_
 
 ##### Human Rights Watch
 ### [Human Rights Watch criticizes the punishment of Israeli soldiers who forced a Palestinian child to open bags thought to be booby-trapped as inadequate and a sign that the "Israeli military justice system will not seriously sanction soldiers convicted for offenses that are war crimes". ](/news/2010/11/26/human-rights-watch-criticizes-the-punishment-of-israeli-soldiers-who-forced-a-palestinian-child-to-open-bags-thought-to-be-booby-trapped-as.md)
@@ -61,7 +61,7 @@ A gunman opened fire on a campaign rally near Taipei yesterday, killing one man 
 
 ##### Kim Kwan-jin
 ### [Kim Kwan-jin becomes the new Minister for Defense in South Korea, replacing Kim Tae-Young who resigned following the shelling of Yeonpyeong. ](/news/2010/11/26/kim-kwan-jin-becomes-the-new-minister-for-defense-in-south-korea-replacing-kim-tae-young-who-resigned-following-the-shelling-of-yeonpyeong.md)
-_Context: Kim Tae-Young, Kim Kwan-jin, shelling of Yeonpyeong, South Korea, defense ministry_
+_Context: shelling of Yeonpyeong, South Korea, Kim Tae-Young, defense ministry, Kim Kwan-jin_
 
 ##### Pearse Doherty
 ### [Pearse Doherty of Sinn Fein wins a by-election for the Donegal South-West constituency in the Irish parliament reducing the majority of Fianna Fail and the Green Party to two. ](/news/2010/11/26/pearse-doherty-of-sinn-fa-c-in-wins-a-by-election-for-the-donegal-southawest-constituency-in-the-irish-parliament-reducing-the-majority-of-f.md)
@@ -69,7 +69,7 @@ Sinn Fein candidate Pearse Doherty is elected to the Irish parliament in the wak
 
 ##### Police in the UK
 ### [Police in the UK are seeking the power to take down websites they deem "criminal", with critics worried over the lack of judicial oversight. ](/news/2010/11/26/police-in-the-uk-are-seeking-the-power-to-take-down-websites-they-deem-criminal-with-critics-worried-over-the-lack-of-judicial-oversight.md)
-_Context: judicial, censoring the Internet, Police in the UK_
+_Context: Police in the UK, censoring the Internet, judicial_
 
 ## [Previous Day...](/news/2010/11/25/index.md)
 

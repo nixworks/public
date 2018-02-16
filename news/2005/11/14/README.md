@@ -5,7 +5,7 @@ Formats: [HTML](2005/11/14/index.html)  [JSON](2005/11/14/index.json)  [XML](200
 
 ##### German
 ### [ Germany: Conferences of the CDU, CSU and SPD approve a coalition deal that will see Angela Merkel become Chancellor on November 22. ](/news/2005/11/14/germany-conferences-of-the-cdu-csu-and-spd-approve-a-coalition-deal-that-will-see-angela-merkel-become-chancellor-on-november-22.md)
-_Context: CSU, November 22, Christian Democratic Union, Chancellor, Social Democratic Party of Germany, German, Angela Merkel_
+_Context: Angela Merkel, German, November 22, CSU, Chancellor, Social Democratic Party of Germany, Christian Democratic Union_
 
 ##### Mexican
 ### [ Mexico and Venezuela have withdrawn their ambassadors amid rising tension between the two countries. ](/news/2005/11/14/mexico-and-venezuela-have-withdrawn-their-ambassadors-amid-rising-tension-between-the-two-countries.md)
@@ -13,7 +13,7 @@ _Context: Mexican, Venezuela_
 
 ##### Petrol
 ### [ Petrol shortages in Uzbekistan continue to worsen. Critics attribute the shortages to the Uzbek government's monopoly of the petrol industry. ](/news/2005/11/14/petrol-shortages-in-uzbekistan-continue-to-worsen-critics-attribute-the-shortages-to-the-uzbek-government-s-monopoly-of-the-petrol-industr.md)
-_Context: industry, Petrol, Uzbekistan, monopoly_
+_Context: Petrol, industry, Uzbekistan, monopoly_
 
 ##### Somalia
 ### [ Somalia: 8 men were sentenced to death today for the murder of British Aid workers Richard and Enid Eyeington in Somaliland in October 2003. ](/news/2005/11/14/somalia-8-men-were-sentenced-to-death-today-for-the-murder-of-british-aid-workers-richard-and-enid-eyeington-in-somaliland-in-october-2003.md)
@@ -21,7 +21,7 @@ _Context: Somalia, Somaliland_
 
 ##### Uganda
 ### [ Ugandan opposition leader Kizza Besigye, the main challenger to President Yoweri Museveni in the first multi-party elections since 1986, is arrested by the police. This has sparked off riots. He is accused of having links to the rebel groups People's Redemption Army and Lord's Resistance Army. ](/news/2005/11/14/ugandan-opposition-leader-kizza-besigye-the-main-challenger-to-president-yoweri-museveni-in-the-first-multi-party-elections-since-1986-is.md)
-_Context: Uganda, Kizza Besigye, Yoweri Museveni, Lord's Resistance Army, 1986, People's Redemption Army, President_
+_Context: President, Yoweri Museveni, Uganda, Lord's Resistance Army, Kizza Besigye, 1986, People's Redemption Army_
 
 ##### United States
 ### [ The United States government issues warning after receiving credible information that a terrorist threat may exist against official U.S. government facilities in Guangzhou, China. ](/news/2005/11/14/the-united-states-government-issues-warning-after-receiving-credible-information-that-a-terrorist-threat-may-exist-against-official-u-s-go.md)

@@ -17,7 +17,7 @@ Bee Gees singer Robin Gibb has died aged 62 following a lengthy battle with canc
 
 ##### A 6.0-magnitude earthquake
 ### [At least 6 people are killed and dozens injured when a 6.0-magnitude earthquake strikes northern Italy. ](/news/2012/05/20/at-least-6-people-are-killed-and-dozens-injured-when-a-6-0-magnitude-earthquake-strikes-northern-italy.md)
-_Context: Italy, a 6.0-magnitude earthquake_
+_Context: a 6.0-magnitude earthquake, Italy_
 
 ##### Benjamin Netanyahu
 ### [Prime minister Benjamin Netanyahu tells his cabinet that hundreds of thousands of iIllegal immigrants from Africa would threaten Israel's identity. ](/news/2012/05/20/prime-minister-benjamin-netanyahu-tells-his-cabinet-that-hundreds-of-thousands-of-iillegal-immigrants-from-africa-would-threaten-israel-s-id.md)
@@ -37,7 +37,7 @@ The Surrey town of Staines officially changes its name to Staines-upon-Thames in
 
 ##### Jieyang
 ### [Two women in Jieyang, Guangdong, PRC, are executed for counterfeiting nearly 300 million yuan RMB. ](/news/2012/05/20/two-women-in-jieyang-guangdong-prc-are-executed-for-counterfeiting-nearly-300-million-yuan-rmb.md)
-_Context: Guangdong, Jieyang, China_
+_Context: China, Guangdong, Jieyang_
 
 ##### Pan-Green
 ### [Pan-Green protesters pelt eggs at a poster of Ma Ying-jeou as Ma is sworn in for a second term as the President of the Republic of China (Taiwan), after winning the presidential election in January. ](/news/2012/05/20/pan-green-protesters-pelt-eggs-at-a-poster-of-ma-ying-jeou-as-ma-is-sworn-in-for-a-second-term-as-the-president-of-the-republic-of-china-ta.md)

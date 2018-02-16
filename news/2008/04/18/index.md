@@ -13,11 +13,11 @@ _Context: YFZ Ranch, Texas_
 
 ##### South Korea
 ### [ South Korea agrees to open its market to beef from the United States ahead of trade talks. ](/news/2008/04/18/south-korea-agrees-to-open-its-market-to-beef-from-the-united-states-ahead-of-trade-talks.md)
-_Context: United States, beef, South Korea_
+_Context: beef, South Korea, United States_
 
 ##### Magnitude 5.2 earthquake
 ### [ A magnitude 5.2 earthquake occurs at 04:37 Central Standard Time with its epicenter six miles (10 km) from West Salem, Illinois. Effects are felt as far off as Evansville, St. Louis, Indianapolis, Detroit and Cleveland. While shaking was reported in Chicago, St. Louis and Cincinnati, there are few reports of damage. ](/news/2008/04/18/a-magnitude-5-2-earthquake-occurs-at-04-37-central-standard-time-with-its-epicenter-six-miles-10-km-from-west-salem-illinois-effects-ar.md)
-_Context: Evansville, Detroit, Indianapolis, Indiana, magnitude 5.2 earthquake, West Salem, Illinois, Cincinnati, Ohio, Chicago, Cleveland, St. Louis_
+_Context: West Salem, Illinois, Detroit, Indianapolis, Indiana, Cleveland, Chicago, Cincinnati, Ohio, magnitude 5.2 earthquake, St. Louis, Evansville_
 
 ## [Previous Day...](/news/2008/04/17/index.md)
 

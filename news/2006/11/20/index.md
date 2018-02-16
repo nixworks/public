@@ -9,11 +9,11 @@ _Context: Guatemala City_
 
 ##### Kremlin
 ### [ Kremlin dismisses claims of Russian involvement in the poisoning of former KGB spy Alexander Litvinenko as "sheer nonsense". ](/news/2006/11/20/kremlin-dismisses-claims-of-russian-involvement-in-the-poisoning-of-former-kgb-spy-alexander-litvinenko-as-sheer-nonsense.md)
-_Context: Kremlin, KGB, Russia, Alexander Litvinenko_
+_Context: KGB, Kremlin, Alexander Litvinenko, Russia_
 
 ##### Explosion on a train
 ### [ An explosion on a train in East India at 1240 GMT kills 5 and injures 25 to 50 others. It occurs near a station in West Bengal, 550 kilometers (345 miles) north of the capital Kolkata. The cause of the explosion is unknown. ](/news/2006/11/20/an-explosion-on-a-train-in-east-india-at-1240-gmt-kills-5-and-injures-25-to-50-others-it-occurs-near-a-station-in-west-bengal-550-kilomet.md)
-_Context: Kolkata, East India, West Bengal, explosion on a train_
+_Context: explosion on a train, Kolkata, East India, West Bengal_
 
 ##### Syria
 ### [ Syria and Iraq will restore diplomatic ties during a visit by Walid Moallem, the Syrian Foreign Minister, to Iraq. ](/news/2006/11/20/syria-and-iraq-will-restore-diplomatic-ties-during-a-visit-by-walid-moallem-the-syrian-foreign-minister-to-iraq.md)
@@ -25,7 +25,7 @@ _Context: Kazakh Government_
 
 ##### Ken Livingstone
 ### [ Ken Livingstone, the Mayor of London, accuses Home Secretary Jack Straw of participating in "demonization of Muslims only comparable to the demonization of Jews from the end of the 19th century" for his comments regarding veils. ](/news/2006/11/20/ken-livingstone-the-mayor-of-london-accuses-home-secretary-jack-straw-of-participating-in-demonization-of-muslims-only-comparable-to-the.md)
-_Context: veil, Jack Straw, anti-Muslim, Home Secretary, Mayor of London, Ken Livingstone, 19th century_
+_Context: veil, anti-Muslim, Jack Straw, Home Secretary, 19th century, Ken Livingstone, Mayor of London_
 
 ##### Berlin underground
 ### [ A Berlin underground train rear-ends a stationary maintenance vehicle at the busy Sdkreuz station injuring 33 people, two of them seriously, officials said. ](/news/2006/11/20/a-berlin-underground-train-rear-ends-a-stationary-maintenance-vehicle-at-the-busy-sudkreuz-station-injuring-33-people-two-of-them-seriousl.md)
@@ -33,11 +33,11 @@ _Context: Berlin underground_
 
 ##### Nasdaq
 ### [ American stock exchange Nasdaq launches a formal bid of GBP2.7 billion to take over the London Stock Exchange. ](/news/2006/11/20/american-stock-exchange-nasdaq-launches-a-formal-bid-of-gbp2-7-billion-to-take-over-the-london-stock-exchange.md)
-_Context: Nasdaq, London Stock Exchange_
+_Context: London Stock Exchange, Nasdaq_
 
 ##### U.S. President
 ### [ The President of the United States George W. Bush visits Indonesia to meet with the President of Indonesia Susilo Bambang Yudhoyono with large crowds protesting US foreign policy. ](/news/2006/11/20/the-president-of-the-united-states-george-w-bush-visits-indonesia-to-meet-with-the-president-of-indonesia-susilo-bambang-yudhoyono-with-la.md)
-_Context: Indonesia, George W. Bush, President of Indonesia, Susilo Bambang Yudhoyono, U.S. President_
+_Context: George W. Bush, U.S. President, Indonesia, Susilo Bambang Yudhoyono, President of Indonesia_
 
 ##### German
 ### [ An 18-year-old armed man takes hostage several children and teachers of his former school in the German town of Emsdetten. He dies from bullet wounds. According to a police spokesman, these wounds were self-inflicted. Several hostages are injured. ](/news/2006/11/20/an-18-year-old-armed-man-takes-hostage-several-children-and-teachers-of-his-former-school-in-the-german-town-of-emsdetten-he-dies-from-bul.md)

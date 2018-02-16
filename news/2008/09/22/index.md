@@ -5,7 +5,7 @@ Formats: [HTML](2008/09/22/index.html)  [JSON](2008/09/22/index.json)  [XML](200
 
 ##### Herman Simm
 ### [ Herman Simm, a former head of security at the Estonian Defense Ministry, and his wife Heete Simm, who works as a lawyer at Estonia's National Police Board, are arrested on suspicion of spying for Russia. ](/news/2008/09/22/herman-simm-a-former-head-of-security-at-the-estonian-defense-ministry-and-his-wife-heete-simm-who-works-as-a-lawyer-at-estonia-s-nation.md)
-_Context: Heete Simm, Herman Simm, Estonia, Russia_
+_Context: Estonia, Russia, Heete Simm, Herman Simm_
 
 ##### Puerto Rico
 ### [ Four people die in Puerto Rico as a result of heavy rains. ](/news/2008/09/22/four-people-die-in-puerto-rico-as-a-result-of-heavy-rains.md)
@@ -13,19 +13,19 @@ Heavy rains drenched Puerto Rico on Monday as a slow-moving tropical disturbance
 
 ##### South Africa
 ### [ South Africa's ruling African National Congress party names deputy president Kgalema Motlanthe as the successor to President Thabo Mbeki. ](/news/2008/09/22/south-africa-s-ruling-african-national-congress-party-names-deputy-president-kgalema-motlanthe-as-the-successor-to-president-thabo-mbeki.md)
-_Context: Kgalema Motlanthe, Thabo Mbeki, ANC party, South Africa_
+_Context: South Africa, African National Congress, Kgalema Motlanthe, Thabo Mbeki_
 
 ##### Computer server
 ### [ More than 18,000 archived radio programs are indefinitely lost after the main computer server at Sweden's National Radio crashed last month. ](/news/2008/09/22/more-than-18-000-archived-radio-programs-are-indefinitely-lost-after-the-main-computer-server-at-sweden-s-national-radio-crashed-last-month.md)
-_Context: computer server, Sweden, National Radio_
+_Context: National Radio, Sweden, computer server_
 
 ##### Liberal Democratic Party (Japan) leadership election, 2008
 ### [ Liberal Democratic Party (Japan) leadership election, 2008: Japan's ruling Liberal Democratic Party chooses former Foreign Minister of Japan Taro Aso as the next Prime Minister of Japan replacing Yasuo Fukuda. ](/news/2008/09/22/liberal-democratic-party-japan-leadership-election-2008-japan-s-ruling-liberal-democratic-party-chooses-former-foreign-minister-of-japa.md)
-_Context: Liberal Democratic Party, Taro Aso, Liberal Democratic Party (Japan) leadership election, 2008, Prime Minister of Japan, Foreign Minister of Japan, Japan, Yasuo Fukuda_
+_Context: Japan, Prime Minister of Japan, Foreign Minister of Japan, Liberal Democratic Party (Japan) leadership election, 2008, Yasuo Fukuda, Taro Aso, Liberal Democratic Party_
 
 ##### Edward Natapei
 ### [ Edward Natapei is elected the new Prime Minister of Vanuatu following the 2008 general elections replacing Ham Lini. ](/news/2008/09/22/edward-natapei-is-elected-the-new-prime-minister-of-vanuatu-following-the-2008-general-elections-replacing-ham-lini.md)
-_Context: Vanuatu, Ham Lini, 2008 general elections, Prime Minister of Vanuatu, Edward Natapei_
+_Context: Edward Natapei, Prime Minister of Vanuatu, Vanuatu, Ham Lini, 2008 general elections_
 
 ##### Aswan
 ### [ 15 people, including 11 foreign nationals, are kidnapped near Aswan in southern Egypt. ](/news/2008/09/22/15-people-including-11-foreign-nationals-are-kidnapped-near-aswan-in-southern-egypt.md)
@@ -33,7 +33,7 @@ _Context: Egypt, Aswan_
 
 ##### Radiocarbon dating
 ### [ Radiocarbon dating estimates that Stonehenge was constructed around 2300 BC. ](/news/2008/09/22/radiocarbon-dating-estimates-that-stonehenge-was-constructed-around-2300-bc.md)
-_Context: radiocarbon dating, Stonehenge_
+_Context: Stonehenge, radiocarbon dating_
 
 ##### Emergency Economic Stabilization Act
 ### [ The Emergency Economic Stabilization Act of 2008 is debated on by the 110th United States Congress. ](/news/2008/09/22/the-emergency-economic-stabilization-act-of-2008-is-debated-on-by-the-110th-united-states-congress.md)

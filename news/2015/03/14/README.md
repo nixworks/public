@@ -25,7 +25,7 @@ _Context: Guyana, Caribbean, ExxonMobil Corporation, Venezuela_
 
 ##### Los Angeles Police Department
 ### [The Los Angeles Police Department issues a warrant for the arrest of American Robert Durst regarding the murder of writer and confidant Susan Berman following the airing of a six-part documentary by HBO called "The Jinx". He is later taken into custody in the city of New Orleans. ](/news/2015/03/14/the-los-angeles-police-department-issues-a-warrant-for-the-arrest-of-american-robert-durst-regarding-the-murder-of-writer-and-confidant-susa.md)
-_Context: New Orleans, HBO, Susan Berman, The Jinx, Robert Durst, Los Angeles Police Department_
+_Context: New Orleans, Robert Durst, The Jinx, Los Angeles Police Department, Susan Berman, HBO_
 
 ##### Russian President
 ### [The cancellation of several of Russian President Vladimir Putin's scheduled meetings leads to widespread social media speculations regarding the reason for his public absence. ](/news/2015/03/14/the-cancellation-of-several-of-russian-president-vladimir-putin-s-scheduled-meetings-leads-to-widespread-social-media-speculations-regarding.md)

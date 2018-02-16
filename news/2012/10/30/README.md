@@ -37,15 +37,15 @@ _Context: Alan Bennett, National Trust_
 
 ##### Tamasin
 ### [Tamasin and Daniel Day-Lewis donate poet laureate Cecil Day-Lewis's archive&mdash;including manuscripts and a letter from W. H. Auden&mdash;to Oxford University's Bodleian Library. ](/news/2012/10/30/tamasin-and-daniel-day-lewis-donate-poet-laureate-cecil-day-lewis-s-archive-mdash-including-manuscripts-and-a-letter-from-w-h-auden-mdash.md)
-_Context: Oxford University, Cecil Day-Lewis, Daniel Day-Lewis, W. H. Auden, Bodleian Library, Tamasin_
+_Context: W. H. Auden, Oxford University, Tamasin, Bodleian Library, Cecil Day-Lewis, Daniel Day-Lewis_
 
 ##### The Stone Roses
 ### [The Stone Roses announce a series of performances in 2013, including their first London show since their reunion. ](/news/2012/10/30/the-stone-roses-announce-a-series-of-performances-in-2013-including-their-first-london-show-since-their-reunion.md)
-_Context: The Stone Roses, reunion, London_
+_Context: reunion, The Stone Roses, London_
 
 ##### The Walt Disney Company
 ### [The Walt Disney Company purchases Lucasfilm Ltd. from George Lucas for US$4.05 billion. Included in the deal are the rights to the "Star Wars" and "Indiana Jones" franchises. ](/news/2012/10/30/the-walt-disney-company-purchases-lucasfilm-ltd-from-george-lucas-for-us-4-05-billion-included-in-the-deal-are-the-rights-to-the-star-war.md)
-_Context: Indiana Jones, Lucasfilm Ltd., George Lucas, Star Wars, The Walt Disney Company_
+_Context: Indiana Jones, The Walt Disney Company, Lucasfilm Ltd., George Lucas, Star Wars_
 
 ##### United Nations
 ### [Aid workers and the United Nations raise concerns about rising food prices and increased cholera in Haiti, where Hurricane Sandy has killed at least 52 people. ](/news/2012/10/30/aid-workers-and-the-united-nations-raise-concerns-about-rising-food-prices-and-increased-cholera-in-haiti-where-hurricane-sandy-has-killed.md)
@@ -53,7 +53,7 @@ Officials fear rising food prices and an increase in cholera cases in Caribbean 
 
 ##### Hurricane Sandy
 ### [Hurricane Sandy makes landfall near Atlantic City, New Jersey, with widespread flooding and at least 29 deaths in the Northeastern United States. ](/news/2012/10/30/hurricane-sandy-makes-landfall-near-atlantic-city-new-jersey-with-widespread-flooding-and-at-least-29-deaths-in-the-northeastern-united-st.md)
-_Context: Atlantic City, New Jersey, Northeastern United States, Hurricane Sandy_
+_Context: Northeastern United States, Atlantic City, New Jersey, Hurricane Sandy_
 
 ##### High court
 ### [Rwanda's high court sentences opposition leader, Victoire Ingabire, to eight years in prison, convicting her of "conspiring to harm the country through war and terror, and minimizing" the 1994 genocide in Rwanda. ](/news/2012/10/30/rwandaas-high-court-sentences-opposition-leader-victoire-ingabire-to-eight-years-in-prison-convicting-her-of-conspiring-to-harm-the-co.md)

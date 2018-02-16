@@ -13,7 +13,7 @@ MEXICO CITY (Reuters) - Assailants kidnapped and murdered 14 men and left their 
 
 ##### Botlikhsky District
 ### [At least 5 police officers and 3 militants are killed in clash in the Botlikhsky District in Russia's North Caucasus Republic of Dagestan. ](/news/2012/08/9/at-least-5-police-officers-and-3-militants-are-killed-in-clash-in-the-botlikhsky-district-in-russia-s-north-caucasus-republic-of-dagestan.md)
-_Context: Botlikhsky District, Republic of Dagestan_
+_Context: Republic of Dagestan, Botlikhsky District_
 
 ##### Afghan military
 ### [A gunman in Afghan military uniform kills three U.S. soldiers in the southwestern Afghan province of Helmand. ](/news/2012/08/9/a-gunman-in-afghan-military-uniform-kills-three-u-s-soldiers-in-the-southwestern-afghan-province-of-helmand.md)

@@ -21,11 +21,11 @@ _Context: United States, yen, top export market, China, Japan, trade surplus_
 
 ##### Trade Minister
 ### [Australian Trade Minister Craig Emerson says free trade talks between Australia and China are deadlocked over differences of opinion on the removal of investment limits for state-owned enterprises. ](/news/2013/04/18/australian-trade-minister-craig-emerson-says-free-trade-talks-between-australia-and-china-are-deadlocked-over-differences-of-opinion-on-the.md)
-_Context: China, Craig Emerson, Australia, state-owned enterprises, Trade Minister, free trade talks_
+_Context: Craig Emerson, Australia, China, free trade talks, Trade Minister, state-owned enterprises_
 
 ##### YouTube
 ### [YouTube successfully defends itself in a billion dollar copyright infringement suit by Viacom. ](/news/2013/04/18/youtube-successfully-defends-itself-in-a-billion-dollar-copyright-infringement-suit-by-viacom.md)
-_Context: copyright infringement, Viacom, YouTube_
+_Context: YouTube, Viacom, copyright infringement_
 
 ##### Texas fertilizer plant explosion
 ### [15 people are confirmed dead after the Texas fertilizer plant explosion in West, Texas, United States. ](/news/2013/04/18/15-people-are-confirmed-dead-after-the-texas-fertilizer-plant-explosion-in-west-texas-united-states.md)
@@ -49,7 +49,7 @@ About 30 migrant workers are injured in a shooting on a strawberry farm in Greec
 
 ##### Earth-like
 ### [Two Earth-like planets, Kepler-62e and Kepler-62f, are discovered cirulating around the star Kepler-62 in the habitable zone. ](/news/2013/04/18/two-earth-like-planets-kepler-62e-and-kepler-62f-are-discovered-cirulating-around-the-star-kepler-62-in-the-habitable-zone.md)
-_Context: Earth-like, Kepler-62f, star, Kepler-62, Kepler-62e, habitable zone_
+_Context: habitable zone, Kepler-62f, Kepler-62, Earth-like, star, Kepler-62e_
 
 ## [Previous Day...](/news/2013/04/17/index.md)
 

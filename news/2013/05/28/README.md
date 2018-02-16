@@ -5,7 +5,7 @@ Formats: [HTML](2013/05/28/index.html)  [JSON](2013/05/28/index.json)  [XML](201
 
 ##### Senator
 ### [United States Senator John McCain travels to Syria to meet with rebel fighters and discuss with them America's possible involvement in the nation's civil war.](/news/2013/05/28/united-states-senator-john-mccain-travels-to-syria-to-meet-with-rebel-fighters-and-discuss-with-them-america-s-possible-involvement-in-the-n.md)
-_Context: Senator, John McCain, Syrian civil war, Syria, United States of America_
+_Context: Senator, Syrian civil war, John McCain, Syria, United States of America_
 
 ##### 
 ### [Gunmen kill one anti-polio worker and wound three others ](/news/2013/05/28/gunmen-kill-one-anti-polio-worker-and-wound-three-others.md)
@@ -13,11 +13,11 @@ Pakistani authorities suspended a four-day polio vaccination program Tuesday aft
 
 ##### Sweden
 ### [Sweden's largest music festival, the Peace & Love in Borlnge, files for bankruptcy. ](/news/2013/05/28/sweden-s-largest-music-festival-the-peace-love-in-borlange-files-for-bankruptcy.md)
-_Context: Peace & Love, Sweden, Borlnge_
+_Context: Peace & Love, Borlnge, Sweden_
 
 ##### Chief federal prosecutors
 ### [The U.S. Attorney's office in Los Angeles, California announces that Scott London, former senior partner with KPMG, has agreed to plead guilty on charges involving insider trading. ](/news/2013/05/28/the-u-s-attorney-s-office-in-los-angeles-california-announces-that-scott-london-former-senior-partner-with-kpmg-has-agreed-to-plead-guil.md)
-_Context: California, KPMG, Los Angeles, chief federal prosecutors, insider trading, office_
+_Context: insider trading, California, KPMG, office, chief federal prosecutors, Los Angeles_
 
 ##### Rajang River
 ### [A boat carrying 100 passengers capsizes in the Rajang River in Malaysia's Sarawak state with over 20 passengers missing. ](/news/2013/05/28/a-boat-carrying-100-passengers-capsizes-in-the-rajang-river-in-malaysia-s-sarawak-state-with-over-20-passengers-missing.md)

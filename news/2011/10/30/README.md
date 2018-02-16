@@ -5,11 +5,11 @@ Formats: [HTML](2011/10/30/index.html)  [JSON](2011/10/30/index.json)  [XML](201
 
 ##### United States
 ### [A United States drone attack kills six militants in Pakistan's North Waziristan region. ](/news/2011/10/30/a-united-states-drone-attack-kills-six-militants-in-pakistan-s-north-waziristan-region.md)
-_Context: United States, Pakistan, North Waziristan, drones launch_
+_Context: Pakistan, United States, North Waziristan, drones launch_
 
 ##### Libyan Prime Minister
 ### [The interim Prime Minister of Libya Mahmoud Jibril confirms the presence of chemical weapons in Libya under the Gaddafi regime and announces that weapons inspectors would be visiting the country to help get rid of them. ](/news/2011/10/30/the-interim-prime-minister-of-libya-mahmoud-jibril-confirms-the-presence-of-chemical-weapons-in-libya-under-the-gaddafi-regime-and-announces.md)
-_Context: Muammar Gaddafi, Libyan Prime Minister, Libya, Mahmoud Jibril, chemical weapons_
+_Context: Libya, Mahmoud Jibril, chemical weapons, Libyan Prime Minister, Muammar Gaddafi_
 
 ##### Fair Work Australia
 ### [Fair Work Australia orders the Australian airline Qantas and its unions to reach an agreement within 21 days meaning that services will resume on Monday. ](/news/2011/10/30/fair-work-australia-orders-the-australian-airline-qantas-and-its-unions-to-reach-an-agreement-within-21-days-meaning-that-services-will-resu.md)
@@ -17,7 +17,7 @@ QANTAS CEO Alan Joyce says the Federal Government was warned the airline was in 
 
 ##### Commonwealth Heads of Government Meeting 2011
 ### [The Commonwealth Heads of Government Meeting 2011 finishes in the Australian city of Perth. ](/news/2011/10/30/the-commonwealth-heads-of-government-meeting-2011-finishes-in-the-australian-city-of-perth.md)
-_Context: Australia, Commonwealth Heads of Government Meeting 2011, Perth_
+_Context: Commonwealth Heads of Government Meeting 2011, Australia, Perth_
 
 ##### Colombia
 ### [Voters in Colombia go to the polls for local gubernatorial and mayoral elections, including the mayors of Bogot, Medelln, and Cali. ](/news/2011/10/30/voters-in-colombia-go-to-the-polls-for-local-gubernatorial-and-mayoral-elections-including-the-mayors-of-bogota-medellin-and-cali.md)
@@ -29,7 +29,7 @@ Kyrgyzstan is electing its President on Sunday in a hotly-contested race that co
 
 ##### Bulgaria
 ### [Voters in Bulgaria went to the polls for the second round of a presidential election with Rosen Plevneliev of Citizens for European Development of Bulgaria being elected. ](/news/2011/10/30/voters-in-bulgaria-went-to-the-polls-for-the-second-round-of-a-presidential-election-with-rosen-plevneliev-of-citizens-for-european-developm.md)
-_Context: GERB, presidential election, Rosen Plevneliev, Bulgaria_
+_Context: Rosen Plevneliev, presidential election, Bulgaria, GERB_
 
 ## [Previous Day...](/news/2011/10/29/index.md)
 

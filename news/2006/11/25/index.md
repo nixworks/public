@@ -9,7 +9,7 @@ _Context: Augusto Pinochet, Chile during his rule_
 
 ##### Belarusian President
 ### [ Belarusian President Alexander Lukashenko calls for a "union" of foreign and energy policies between Belarus and Ukraine. At the same time, he says his government falsified the results of the last presidential election by reducing the size of his own majority. ](/news/2006/11/25/belarusian-president-alexander-lukashenko-calls-for-a-union-of-foreign-and-energy-policies-between-belarus-and-ukraine-at-the-same-time.md)
-_Context: Alexander Lukashenko, Belarus, Ukraine, Belarusian President_
+_Context: Belarus, Belarusian President, Ukraine, Alexander Lukashenko_
 
 ##### Bahrain
 ### [ Polling has been reportedly brisk in today's Bahraini parliamentary elections. The first results are expected later today. ](/news/2006/11/25/polling-has-been-reportedly-brisk-in-today-s-bahraini-parliamentary-elections-the-first-results-are-expected-later-today.md)

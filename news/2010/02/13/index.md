@@ -17,7 +17,7 @@ _Context: Manu'a, Cyclone Rene_
 
 ##### Burma
 ### [Burma releases vice-chairman of the National League for Democracy (NLD), Tin Oo at the age of 82, after he has spent more than a decade in prison or under house arrest. ](/news/2010/02/13/burma-releases-vice-chairman-of-the-national-league-for-democracy-nld-tin-oo-at-the-age-of-82-after-he-has-spent-more-than-a-decade-in-p.md)
-_Context: Burma, Tin Oo, National League for Democracy_
+_Context: National League for Democracy, Tin Oo, Burma_
 
 ##### Cote d'Ivoire
 ### [The Cote d'Ivoire government is dissolved with President Laurent Gbagbo saying on state television that the peace process has broken down. ](/news/2010/02/13/the-ca-te-d-ivoire-government-is-dissolved-with-president-laurent-gbagbo-saying-on-state-television-that-the-peace-process-has-broken-down.md)
@@ -37,7 +37,7 @@ Neo-Nazis and leftists hold competing rallies marking 65th anniversary of Dresde
 
 ##### Kenya
 ### [Kenyan President Mwai Kibaki demands eight senior officials to resign due to corruption scandals in the education ministry and a maize scandal. ](/news/2010/02/13/kenyan-president-mwai-kibaki-demands-eight-senior-officials-to-resign-due-to-corruption-scandals-in-the-education-ministry-and-a-maize-scand.md)
-_Context: president, Kenya, Mwai Kibaki, maize_
+_Context: Kenya, president, Mwai Kibaki, maize_
 
 ##### NATO
 ### [NATO forces in Afghanistan launch Operation Moshtarak against the Taliban-controlled village of Marja in Helmand Province. ](/news/2010/02/13/nato-forces-in-afghanistan-launch-operation-moshtarak-against-the-taliban-controlled-village-of-marja-in-helmand-province.md)

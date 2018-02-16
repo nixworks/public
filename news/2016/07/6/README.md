@@ -5,11 +5,11 @@ Formats: [HTML](2016/07/6/index.html)  [JSON](2016/07/6/index.json)  [XML](2016/
 
 ##### Communist rebels
 ### [Twenty Philippine Army soldiers are under investigation after they are suspected of mutilating the body of a New People's Army member. The communist militant's eyes were gouged, his tongue was cut off and his throat was slit. ](/news/2016/07/6/twenty-philippine-army-soldiers-are-under-investigation-after-they-are-suspected-of-mutilating-the-body-of-a-new-people-s-army-member-the-c.md)
-_Context: communist rebels, army, gouged, New People's Army_
+_Context: communist rebels, gouged, army, New People's Army_
 
 ##### Yemeni Civil War
 ### [A suicide car bomb, that targeted the Central Security headquarters in the port city of Aden, Yemen, kills at least 26 people. Following the blast, militants stormed the compound and clashed with soldiers. No group immediately claimed responsibility but it is similar to an Islamic State in Iraq and the Levant attack on the port of Al Mukalla. ](/news/2016/07/6/a-suicide-car-bomb-that-targeted-the-central-security-headquarters-in-the-port-city-of-aden-yemen-kills-at-least-26-people-following-the.md)
-_Context: Islamic State in Iraq and the Levant, Aden, Yemen, Yemeni Civil War, Al Mukalla, Central Security_
+_Context: Islamic State in Iraq and the Levant, Yemeni Civil War, Central Security, Al Mukalla, Aden, Yemen_
 
 ##### Nickel
 ### [The price of nickel swings wildly after Philippines environment secretary Gina Lopez announces plans to close existing mines in the country. ](/news/2016/07/6/the-price-of-nickel-swings-wildly-after-philippines-environment-secretary-gina-lopez-announces-plans-to-close-existing-mines-in-the-country.md)
@@ -29,7 +29,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ##### Oscar Pistorius trial
 ### [South African athlete Oscar Pistorius is sentenced to six years imprisonment for the murder of Reeva Steenkamp. ](/news/2016/07/6/south-african-athlete-oscar-pistorius-is-sentenced-to-six-years-imprisonment-for-the-murder-of-reeva-steenkamp.md)
-_Context: Oscar Pistorius trial, South Africa, Oscar Pistorius, Reeva Steenkamp_
+_Context: Reeva Steenkamp, South Africa, Oscar Pistorius trial, Oscar Pistorius_
 
 ##### Iraq Inquiry
 ### [A report about the United Kingdom's involvement in the Iraq War is released. The chairman of the inquiry, Sir John Chilcot, said that the invasion was not a "last resort" and was based on "flawed intelligence and assessments". The inquiry was announced on 15 June 2009 by then-Prime Minister Gordon Brown. The final hearing was held on 2 February 2011. ](/news/2016/07/6/a-report-about-the-united-kingdom-s-involvement-in-the-iraq-war-is-released-the-chairman-of-the-inquiry-sir-john-chilcot-said-that-the-in.md)
@@ -37,11 +37,11 @@ Live coverage as Sir John Chilcot unveils his report into the Iraq war. Plus all
 
 ##### Email server
 ### [Loretta Lynch, the Attorney General of the United States, closes the investigation into Hillary Clinton's use of a personal email system to conduct official business without charges being laid. ](/news/2016/07/6/loretta-lynch-the-attorney-general-of-the-united-states-closes-the-investigation-into-hillary-clinton-s-use-of-a-personal-email-system-to.md)
-_Context: Attorney General, Loretta Lynch, Hillary Clinton, email server_
+_Context: email server, Hillary Clinton, Attorney General, Loretta Lynch_
 
 ##### 2016 Zimbabwe protests
 ### [National "Stay Away" protests, organized over the Internet via the WhatsApp social messaging platform, take place in Zimbabwe, following fears of an economic collapse amid calls for President Robert Mugabe's resignation.](/news/2016/07/6/national-stay-away-protests-organized-over-the-internet-via-the-whatsapp-social-messaging-platform-take-place-in-zimbabwe-following-fea.md)
-_Context: 2016 Zimbabwe protests, Zimbabwe, WhatsApp, Internet, President, social messaging, Robert Mugabe_
+_Context: WhatsApp, Zimbabwe, 2016 Zimbabwe protests, President, Robert Mugabe, Internet, social messaging_
 
 ## [Previous Day...](/news/2016/07/5/index.md)
 

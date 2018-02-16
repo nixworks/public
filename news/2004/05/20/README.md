@@ -5,7 +5,7 @@ Formats: [HTML](2004/05/20/index.html)  [JSON](2004/05/20/index.json)  [XML](200
 
 ##### Chen Shui-bian
 ### [ Chen Shui-bian is sworn into a second term as President of the Republic of China in Taipei, while the High Court has yet to rule on a recount of the presidential election that concluded two days before. About 400 dignitaries, including 15 foreign heads of state, attend. ](/news/2004/05/20/chen-shui-bian-is-sworn-into-a-second-term-as-president-of-the-republic-of-china-in-taipei-while-the-high-court-has-yet-to-rule-on-a-recou.md)
-_Context: President, Chen Shui-bian, Taipei, 2004 presidential election_
+_Context: 2004 presidential election, Taipei, Chen Shui-bian, President_
 
 ##### Iraq
 ### [ United States forces and Iraqi police raid the home of controversial Iraqi Governing Council member Ahmed Chalabi, arresting several members of the Iraqi National Congress and seizing documents. The US severs its financial ties with the group, and accuses it of currency exchange racketeering, theft, and obstructing the Oil for food investigation. ](/news/2004/05/20/united-states-forces-and-iraqi-police-raid-the-home-of-controversial-iraqi-governing-council-member-ahmed-chalabi-arresting-several-member.md)

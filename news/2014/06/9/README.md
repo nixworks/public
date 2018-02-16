@@ -19,7 +19,7 @@ _Context: amnesty_
 ### [Brazilian riot police use tear gas to disperse protesters in So Paulo amid rising tensions between protestors and the government over the cost of the World Cup. ](/news/2014/06/9/brazilian-riot-police-use-tear-gas-to-disperse-protesters-in-sao-paulo-amid-rising-tensions-between-protestors-and-the-government-over-the-c.md)
 Metro workers in Sao Paulo suspend a strike that has caused traffic chaos, two days before the city is to host the opening match of the World Cup.
 
-##### Afghanistan
+##### Afghan
 ### [Five NATO International Security Assistance Force troops are killed in fighting. ](/news/2014/06/9/five-nato-international-security-assistance-force-troops-are-killed-in-fighting.md)
 Five American soldiers have been killed accidentally by their own side in southern Afghanistan, US military sources confirm.
 
@@ -41,7 +41,7 @@ Tyson Foods Inc., the largest U.S. meat company, raised its offer for Hillshire 
 
 ##### Nguyen Duc Kien
 ### [Vietnamese banking tycoon Nguyen Duc Kien is sentenced to 30 years in prison in Vietnam on charges of tax evasion, violating state economic regulations, fraud, and running an illegal business. ](/news/2014/06/9/vietnamese-banking-tycoon-nguyen-duc-kien-is-sentenced-to-30-years-in-prison-in-vietnam-on-charges-of-tax-evasion-violating-state-economic.md)
-_Context: Vietnam, Nguyen Duc Kien_
+_Context: Nguyen Duc Kien, Vietnam_
 
 ##### Russia
 ### [A Russian court in Moscow sentences five men to prison for the 2006 assassination of journalist Anna Politkovskaya. ](/news/2014/06/9/a-russian-court-in-moscow-sentences-five-men-to-prison-for-the-2006-assassination-of-journalist-anna-politkovskaya.md)

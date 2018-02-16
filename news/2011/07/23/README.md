@@ -13,7 +13,7 @@ DAMASCUS, Syria, July 23 - UN officials have said Syrian security forces may hav
 
 ##### Civil war
 ### [2011 Libyan civil war: Rebels claim to have fired rockets at a meeting of senior Gaddafi-regime officials in the capital Tripoli. ](/news/2011/07/23/2011-libyan-civil-war-rebels-claim-to-have-fired-rockets-at-a-meeting-of-senior-gaddafi-regime-officials-in-the-capital-tripoli.md)
-_Context: Tripoli, Muammar Gaddafi, civil war_
+_Context: Muammar Gaddafi, Tripoli, civil war_
 
 ##### 2011 Mumbai bombings
 ### [2011 Mumbai bombings: The death toll from the attacks rises to 22. ](/news/2011/07/23/2011-mumbai-bombings-the-death-toll-from-the-attacks-rises-to-22.md)
@@ -29,7 +29,7 @@ Tributes are being paid to singer Amy Winehouse, who was found dead at her Londo
 
 ##### Escondida
 ### [Workers at the Escondida copper mine in northern Chile vote to continue a strike for a second day. ](/news/2011/07/23/workers-at-the-escondida-copper-mine-in-northern-chile-vote-to-continue-a-strike-for-a-second-day.md)
-_Context: Escondida, Chile_
+_Context: Chile, Escondida_
 
 ##### CRH
 ### [Two CRH bullet trains collide in near Wenzhou, Zhejiang province, China, killing at least 35. ](/news/2011/07/23/two-crh-bullet-trains-collide-in-near-wenzhou-zhejiang-province-china-killing-at-least-35.md)
@@ -37,11 +37,11 @@ Near Wenzhou, China, a train halted by lightning was struck by another train, de
 
 ##### Famine
 ### [Unicef states that a child dies from malnutrition every six minutes (250 a day) in Somalia. ](/news/2011/07/23/unicef-states-that-a-child-dies-from-malnutrition-every-six-minutes-250-a-day-in-somalia.md)
-_Context: famine, Somalia, Unicef_
+_Context: Unicef, Somalia, famine_
 
 ##### Kim Sung-hwan
 ### [Kim Sung-hwan, the South Korean Minister for Foreign Affairs, meets with Pak Ui-chun, his North Korean counterpart, on the sidelines of an ASEAN meeting in Bali, Indonesia. ](/news/2011/07/23/kim-sung-hwan-the-south-korean-minister-for-foreign-affairs-meets-with-pak-ui-chun-his-north-korean-counterpart-on-the-sidelines-of-an-a.md)
-_Context: ASEAN, South Korea, Indonesia, Bali, North Korea, Pak Ui-chun, Kim Sung-hwan_
+_Context: Pak Ui-chun, North Korea, South Korea, Kim Sung-hwan, Bali, ASEAN, Indonesia_
 
 ##### Asylum seekers
 ### [Asylum seekers at the Scherger Immigration Detention Centre near Weipa in the Australian state of Queensland start harming themselves in protest. ](/news/2011/07/23/asylum-seekers-at-the-scherger-immigration-detention-centre-near-weipa-in-the-australian-state-of-queensland-start-harming-themselves-in-pro.md)
@@ -61,7 +61,7 @@ _Context: Daryoush Rezaei, Tehran_
 
 ##### Federal Aviation Administration
 ### [Nearly 4,000 employees of the US Federal Aviation Administration are furloughed due to Congressional authorisation for its programs lapsing. ](/news/2011/07/23/nearly-4-000-employees-of-the-us-federal-aviation-administration-are-furloughed-due-to-congressional-authorisation-for-its-programs-lapsing.md)
-_Context: Federal Aviation Administration, furlough, Congress_
+_Context: furlough, Federal Aviation Administration, Congress_
 
 ##### Sri Lanka
 ### [Voters in Sri Lanka go to the polls for local elections, with one person dying in clashes between supporters of rival parties in the Anuradhapura district. ](/news/2011/07/23/voters-in-sri-lanka-go-to-the-polls-for-local-elections-with-one-person-dying-in-clashes-between-supporters-of-rival-parties-in-the-anuradh.md)

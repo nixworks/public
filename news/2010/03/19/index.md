@@ -5,7 +5,7 @@ Formats: [HTML](2010/03/19/index.html)  [JSON](2010/03/19/index.json)  [XML](201
 
 ##### Iran
 ### [Former Iranian Vice-President Hossein Marashi is jailed after being accused of spreading propaganda. ](/news/2010/03/19/former-iranian-vice-president-hossein-marashi-is-jailed-after-being-accused-of-spreading-propaganda.md)
-_Context: Iran, Hossein Marashi_
+_Context: Hossein Marashi, Iran_
 
 ##### NASA
 ### [NASA announces that "It is nearly certain that a new record 12-month global temperature will be set in 2010", in a new draft paper based on GISS temperature analysis. ](/news/2010/03/19/nasa-announces-that-it-is-nearly-certain-that-a-new-record-12-month-global-temperature-will-be-set-in-2010-in-a-new-draft-paper-based-on.md)
@@ -17,7 +17,7 @@ Former US general says 1995 massacre due in part to Dutch army allowing gay troo
 
 ##### Hoax
 ### [A hoax stating that at least 200 people have died in a mining accident in Bo, Sierra Leone, makes headlines around the world. ](/news/2010/03/19/a-hoax-stating-that-at-least-200-people-have-died-in-a-mining-accident-in-bo-sierra-leone-makes-headlines-around-the-world.md)
-_Context: Bo, Sierra Leone, hoax_
+_Context: Bo, hoax, Sierra Leone_
 
 ##### Sudan
 ### [At least 13 people die during clashes in Sudan. ](/news/2010/03/19/at-least-13-people-die-during-clashes-in-sudan.md)
@@ -25,7 +25,7 @@ Army official says fighting was triggered by nomads breaking a border agreement.
 
 ##### President
 ### [President of Yemen Ali Abdullah Saleh declares an end to his country's six-year war against the Houthis. ](/news/2010/03/19/president-of-yemen-ali-abdullah-saleh-declares-an-end-to-his-country-s-six-year-war-against-the-houthis.md)
-_Context: Houthi, President, Ali Abdullah Saleh_
+_Context: President, Houthi, Ali Abdullah Saleh_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI signs his letter to Irish Catholics, sent as his first official documented response to the issue of child sex abuse and due to be published by the Vatican on Saturday and read at Sunday Mass. ](/news/2010/03/19/pope-benedict-xvi-signs-his-letter-to-irish-catholics-sent-as-his-first-official-documented-response-to-the-issue-of-child-sex-abuse-and-du.md)
@@ -41,11 +41,11 @@ Jeddah Summary Court sends copy of lawsuit filed against writer to justice minis
 
 ##### Ethiopia
 ### [Ethiopian Prime Minister Meles Zenawi says radio station the Voice of America (VOA) is promoting "destabilising propaganda" that is inciting genocide in his country. ](/news/2010/03/19/ethiopian-prime-minister-meles-zenawi-says-radio-station-the-voice-of-america-voa-is-promoting-destabilising-propaganda-that-is-inciting.md)
-_Context: Prime Minister, Meles Zenawi, Voice of America, Ethiopia, genocide_
+_Context: Ethiopia, genocide, Meles Zenawi, Prime Minister, Voice of America_
 
 ##### Egypt
 ### [Egyptian mosques pray for President Hosni Mubarak&mdash;who is ill and whose health is taboo&mdash;as images of his recovery in Germany are broadcast on television screens, boosting stock markets. ](/news/2010/03/19/egyptian-mosques-pray-for-president-hosni-mubarak-mdash-who-is-ill-and-whose-health-is-taboo-mdash-as-images-of-his-recovery-in-germany-are.md)
-_Context: mosque, President, Hosni Mubarak, Egypt, German_
+_Context: Hosni Mubarak, mosque, Egypt, President, German_
 
 ##### Switzerland
 ### [Switzerland ceases to deport asylum seekers in response to the death of a Nigerian man at Zrich Airport as he was being forcefully deported. Nigeria condemns the occurrence. ](/news/2010/03/19/switzerland-ceases-to-deport-asylum-seekers-in-response-to-the-death-of-a-nigerian-man-at-zurich-airport-as-he-was-being-forcefully-deported.md)
@@ -73,15 +73,15 @@ _Context: Large Hadron Collider_
 
 ##### Amnesty International
 ### [Amnesty International asks Saudi Arabia's King Abdullah to intervene in the case of a Lebanese man sentenced to death for "sorcery". ](/news/2010/03/19/amnesty-international-asks-saudi-arabia-s-king-abdullah-to-intervene-in-the-case-of-a-lebanese-man-sentenced-to-death-for-sorcery.md)
-_Context: Abdullah, Amnesty International, Lebanese, Saudi Arabia_
+_Context: Amnesty International, Saudi Arabia, Abdullah, Lebanese_
 
 ##### Colombia
 ### [An investigation is urged into the assassination of Colombian human rights activist Johnny Hurtado. ](/news/2010/03/19/an-investigation-is-urged-into-the-assassination-of-colombian-human-rights-activist-johnny-hurtado.md)
-_Context: Johnny Hurtado, Colombia_
+_Context: Colombia, Johnny Hurtado_
 
 ##### Colombia
 ### [Colombian journalist, radio reporter and "El Pulso" magazine editor Clodomiro Castilla is shot to death while reading a book at his Montera home. ](/news/2010/03/19/colombian-journalist-radio-reporter-and-el-pulso-magazine-editor-clodomiro-castilla-is-shot-to-death-while-reading-a-book-at-his-monteria.md)
-_Context: Colombia, Montera, El Pulso, Clodomiro Castilla_
+_Context: Colombia, Clodomiro Castilla, El Pulso, Montera_
 
 ## [Previous Day...](/news/2010/03/18/index.md)
 

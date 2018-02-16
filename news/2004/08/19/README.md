@@ -5,19 +5,19 @@ Formats: [HTML](2004/08/19/index.html)  [JSON](2004/08/19/index.json)  [XML](200
 
 ##### Mahdi Army
 ### [ An ongoing battle, apparently between a combination of U.S. and Iraqi forces, and the al-Mahdi Army of Muqtada al-Sadr, damages two of minarets of the Imam Ali Mosque in Najaf, Iraq, which al-Sadr's forces occupied. ](/news/2004/08/19/an-ongoing-battle-apparently-between-a-combination-of-u-s-and-iraqi-forces-and-the-al-mahdi-army-of-muqtada-al-sadr-damages-two-of-mina.md)
-_Context: Najaf, Muqtada al-Sadr, Imam Ali Mosque, minaret, Iraq, Mahdi Army_
+_Context: minaret, Imam Ali Mosque, Muqtada al-Sadr, Najaf, Mahdi Army, Iraq_
 
 ##### Ordnance
 ### [ Artillery and mortar fire again rock Georgia's breakaway republic of South Ossetia, scuppering efforts to enforce a ceasefire. ](/news/2004/08/19/artillery-and-mortar-fire-again-rock-georgia-s-breakaway-republic-of-south-ossetia-scuppering-efforts-to-enforce-a-ceasefire.md)
-_Context: Mortar fire, ordnance, South Ossetia,  Georgian, republic, ceasefire_
+_Context: South Ossetia, ceasefire, Mortar fire,  Georgian, republic, ordnance_
 
 ##### Non-Aligned Movement
 ### [ At the Non-Aligned Movement summit in Durban, South African President Thabo Mbeki calls for reform of the UN and other international institutions, saying that developing countries should not allow powerful nations to dictate the world on their own terms. ](/news/2004/08/19/at-the-non-aligned-movement-summit-in-durban-south-african-president-thabo-mbeki-calls-for-reform-of-the-un-and-other-international-instit.md)
-_Context: UN, Non-Aligned Movement, Thabo Mbeki, Durban_
+_Context: UN, Non-Aligned Movement, Durban, Thabo Mbeki_
 
 ##### Jury
 ### [ A jury including U.S. talk show host Oprah Winfrey convicts Dion Coleman of murder after two hours of deliberation. ](/news/2004/08/19/a-jury-including-u-s-talk-show-host-oprah-winfrey-convicts-dion-coleman-of-murder-after-two-hours-of-deliberation.md)
-_Context: deliberation, host, talk show, Dion Coleman, Oprah Winfrey, jury_
+_Context: Dion Coleman, host, jury, talk show, Oprah Winfrey, deliberation_
 
 ##### Israel
 ### [ Israel's prime minister, Ariel Sharon, vows to press on with his disengagement plan, despite it receiving another rejection from his Likud party. ](/news/2004/08/19/israel-s-prime-minister-ariel-sharon-vows-to-press-on-with-his-disengagement-plan-despite-it-receiving-another-rejection-from-his-likud.md)
@@ -25,15 +25,15 @@ _Context: Ariel Sharon, Likud, Israel_
 
 ##### ''Nature''
 ### [ "Nature" magazine reveals that five new satellites and a further candidate moon have been discovered orbiting Neptune, bringing its tally to 13. ](/news/2004/08/19/nature-magazine-reveals-that-five-new-satellites-and-a-further-candidate-moon-have-been-discovered-orbiting-neptune-bringing-its-tally-t.md)
-_Context: Neptune, ''Nature'', moon_
+_Context: ''Nature'', moon, Neptune_
 
 ##### Stock
 ### [ Shares of stock in Google, Inc. begin trading on the NASDAQ stock exchange at around $100 per share in one of the most highly anticipated initial public offerings of the year. It is estimated that the IPO raised a total of $1.66 billion, the third highest ever for an IPO. ](/news/2004/08/19/shares-of-stock-in-google-inc-begin-trading-on-the-nasdaq-stock-exchange-at-around-100-per-share-in-one-of-the-most-highly-anticipated-i.md)
-_Context: Google, stock, stock exchange, NASDAQ, initial public offering_
+_Context: stock, NASDAQ, stock exchange, initial public offering, Google_
 
 ##### Hungary
 ### [ Hungarian prime minister Pter Medgyessy resigns following a row with his Socialist party's liberal coalition partner, the Free Democrats. ](/news/2004/08/19/hungarian-prime-minister-peter-medgyessy-resigns-following-a-row-with-his-socialist-party-s-liberal-coalition-partner-the-free-democrats.md)
-_Context: Hungary, Hungarian Socialist Party, Pter Medgyessy, Alliance of Free Democrats_
+_Context: Pter Medgyessy, Hungary, Alliance of Free Democrats, Hungarian Socialist Party_
 
 ## [Previous Day...](/news/2004/08/18/index.md)
 

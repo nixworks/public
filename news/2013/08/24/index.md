@@ -9,11 +9,11 @@ Medecins Sans Frontieres says hospitals it supports in Syria treated about 3,600
 
 ##### United States
 ### [The United States commemorates the fiftieth anniversary of Martin Luther King, Jr.'s I Have a Dream speech. ](/news/2013/08/24/the-united-states-commemorates-the-fiftieth-anniversary-of-martin-luther-king-jr-s-i-have-a-dream-speech.md)
-_Context: United States, Martin Luther King, Jr., I Have a Dream_
+_Context: I Have a Dream, United States, Martin Luther King, Jr._
 
 ##### Super Puma L2
 ### [4 people are confirmed killed in Friday's Super Puma L2 crash near Sumburgh Airport in the Shetland Islands. Operation of the helicopter model is globally suspended. ](/news/2013/08/24/4-people-are-confirmed-killed-in-friday-s-super-puma-l2-crash-near-sumburgh-airport-in-the-shetland-islands-operation-of-the-helicopter-mod.md)
-_Context: Super Puma L2, Shetland Islands, Sumburgh Airport_
+_Context: Super Puma L2, Sumburgh Airport, Shetland Islands_
 
 ##### Cronut
 ### [150 cases of food poisoning are confirmed to be cronuts contaminated with S. aureus at the CNE in Toronto, Ontario. ](/news/2013/08/24/150-cases-of-food-poisoning-are-confirmed-to-be-cronuts-contaminated-with-s-aureus-at-the-cne-in-toronto-ontario.md)

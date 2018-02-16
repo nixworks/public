@@ -9,7 +9,7 @@ _Context: Bahraini uprising (2011-present)_
 
 ##### Ambulance
 ### [Five people are killed after an ambulance hits a roadside bomb in Sar-e-Pul Province. ](/news/2012/06/11/five-people-are-killed-after-an-ambulance-hits-a-roadside-bomb-in-sar-e-pul-province.md)
-_Context: ambulance, Sar-e-Pul Province_
+_Context: Sar-e-Pul Province, ambulance_
 
 ##### Party of the Democratic Revolution
 ### [Margarito Genchi Casiano, a politician of the Party of the Democratic Revolution, is gunned down in the southern state of Guerrero. ](/news/2012/06/11/margarito-genchi-casiano-a-politician-of-the-party-of-the-democratic-revolution-is-gunned-down-in-the-southern-state-of-guerrero.md)
@@ -17,7 +17,7 @@ _Context: Guerrero, Party of the Democratic Revolution_
 
 ##### Flame
 ### [Researchers uncover direct links between the Flame and Stuxnet cyber-attacks on Iran, saying the attackers worked together on both at early stages of each threat's development. ](/news/2012/06/11/researchers-uncover-direct-links-between-the-flame-and-stuxnet-cyber-attacks-on-iran-saying-the-attackers-worked-together-on-both-at-early.md)
-_Context: Iran, Stuxnet, Flame_
+_Context: Stuxnet, Flame, Iran_
 
 ##### 
 ### [Twenty three people are killed in an attack on two villages in northern Nigeria. ](/news/2012/06/11/twenty-three-people-are-killed-in-an-attack-on-two-villages-in-northern-nigeria.md)
@@ -41,7 +41,7 @@ During another New Zealand show, the Mother Monster responds to a shot Madonna f
 
 ##### Pan-Arab
 ### [A pan-Arab satellite television channel, Al Mayadeen ("The Squares" in Arabic), is launched in Lebanon that is speculated to be a mouthpiece for Iran and Hezbollah. ](/news/2012/06/11/a-pan-arab-satellite-television-channel-al-mayadeen-the-squares-in-arabic-is-launched-in-lebanon-that-is-speculated-to-be-a-mouthpiece.md)
-_Context: Lebanese, Hezbollah, Iran, pan-Arab, Al Mayadeen_
+_Context: Al Mayadeen, Hezbollah, Lebanese, pan-Arab, Iran_
 
 ##### Dangote Cement
 ### [Dangote Cement opens a new line of production at its Obajana facility in the Kogi State, making the plant the largest in Sub-Sahara Africa and one of the largest in the world. ](/news/2012/06/11/dangote-cement-opens-a-new-line-of-production-at-its-obajana-facility-in-the-kogi-state-making-the-plant-the-largest-in-sub-sahara-africa-a.md)
@@ -49,7 +49,7 @@ _Context: Dangote Cement, Kogi state_
 
 ##### Burma
 ### [Burma declares a state of emergency after several people are killed in sectarian violence between Buddhists and Muslims ](/news/2012/06/11/burma-declares-a-state-of-emergency-after-several-people-are-killed-in-sectarian-violence-between-buddhists-and-muslims.md)
-_Context: Burma, sectarian violence, state of emergency_
+_Context: state of emergency, Burma, sectarian violence_
 
 ##### Two earthquakes
 ### [More than 80 people die in a landslide triggered by two earthquakes in Afghanistan; an entire village is buried. ](/news/2012/06/11/more-than-80-people-die-in-a-landslide-triggered-by-two-earthquakes-in-afghanistan-an-entire-village-is-buried.md)
@@ -61,7 +61,7 @@ More than 100,000 households remain without power this morning and may remain wi
 
 ##### England
 ### [Flooding hits large parts of England and Wales. ](/news/2012/06/11/flooding-hits-large-parts-of-england-and-wales.md)
-_Context: Wales, England_
+_Context: England, Wales_
 
 ##### Al-Shabaab
 ### [Al-Shabaab offers a reward of 10 camels for information about the whereabouts of Barack Obama and chickens for information on Hillary Clinton in response to the U.S. announcement of rewards of $3-7 million for various militant commanders. ](/news/2012/06/11/al-shabaab-offers-a-reward-of-10-camels-for-information-about-the-whereabouts-of-barack-obama-and-chickens-for-information-on-hillary-clinto.md)
@@ -77,7 +77,7 @@ The US exempts seven countries, including India and South Korea, from economic s
 
 ##### San Gabriel Valley
 ### [Police in the San Gabriel Valley in southern California cite United States Secretary of Commerce John Bryson for felony hit and run for alleged involvement in a series of accidents on the weekend. ](/news/2012/06/11/police-in-the-san-gabriel-valley-in-southern-california-cite-united-states-secretary-of-commerce-john-bryson-for-felony-hit-and-run-for-alle.md)
-_Context: San Gabriel Valley, United States Secretary of Commerce, southern California_
+_Context: United States Secretary of Commerce, southern California, San Gabriel Valley_
 
 ##### Leveson Inquiry
 ### [Former British Prime Minister Gordon Brown tells the Leveson Inquiry into press standards that he did not declare war on Rupert Murdoch after the Labour Party lost the support of "The Sun" newspaper in 2009. ](/news/2012/06/11/former-british-prime-minister-gordon-brown-tells-the-leveson-inquiry-into-press-standards-that-he-did-not-declare-war-on-rupert-murdoch-afte.md)
@@ -85,7 +85,7 @@ Gordon Brown has categorically denied making an &#034;unbalanced&#034; declarati
 
 ##### Martin McGuinness
 ### [Martin McGuinness resigns from the House of Commons. ](/news/2012/06/11/martin-mcguinness-resigns-from-the-house-of-commons.md)
-_Context: the House of Commons, Martin McGuinness_
+_Context: Martin McGuinness, the House of Commons_
 
 ##### Parliament
 ### [The Parliament of Albania elects Bujar Nishani President of the Republic of Albania. ](/news/2012/06/11/the-parliament-of-albania-elects-bujar-nishani-president-of-the-republic-of-albania.md)

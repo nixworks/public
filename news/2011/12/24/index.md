@@ -17,7 +17,7 @@ Gun battles between Nigerian security forces and an Islamist sect killed at leas
 
 ##### Fo Guang Shan
 ### [The Buddha Memorial Center of Fo Guang Shan in Kaohsiung, Taiwan, housing a tooth relic of Gautama Buddha, is consecrated. ](/news/2011/12/24/the-buddha-memorial-center-of-fo-guang-shan-in-kaohsiung-taiwan-housing-a-tooth-relic-of-gautama-buddha-is-consecrated.md)
-_Context: Taiwan, Fo Guang Shan, tooth relic, Gautama Buddha, Kaohsiung_
+_Context: Kaohsiung, Fo Guang Shan, Taiwan, tooth relic, Gautama Buddha_
 
 ##### Netherlands
 ### [Dutch actor and singer Johannes Heesters, the world's oldest performer, dies at the age of 108. ](/news/2011/12/24/dutch-actor-and-singer-johannes-heesters-the-world-s-oldest-performer-dies-at-the-age-of-108.md)
@@ -29,11 +29,11 @@ _Context: People's Bank of China, China, reserve requirements_
 
 ##### North Korea
 ### [North Korean media name Kim Jong-un &ndash; the son and successor of late leader Kim Jong-il &ndash; as the Supreme Commander of the Korean People's Army. ](/news/2011/12/24/north-korean-media-name-kim-jong-un-ndash-the-son-and-successor-of-late-leader-kim-jong-il-ndash-as-the-supreme-commander-of-the-korean.md)
-_Context: Media of North Korea, Kim Jong-il, North Korea, Korean People's Army, Supreme Commander, Kim Jong-un_
+_Context: Supreme Commander, Korean People's Army, Media of North Korea, North Korea, Kim Jong-un, Kim Jong-il_
 
 ##### Protest
 ### [Tens of thousands of people protest across Russia against parliamentary elections that they allege were rigged in favour of the ruling United Russia party. ](/news/2011/12/24/tens-of-thousands-of-people-protest-across-russia-against-parliamentary-elections-that-they-allege-were-rigged-in-favour-of-the-ruling-unite.md)
-_Context: Russia, United Russia, protest, parliamentary elections_
+_Context: protest, Russia, parliamentary elections, United Russia_
 
 ##### Cuba
 ### [Cuba announces that it will release 2,900 prisoners &ndash; including some political prisoners &ndash; in the next few days. ](/news/2011/12/24/cuba-announces-that-it-will-release-2-900-prisoners-ndash-including-some-political-prisoners-ndash-in-the-next-few-days.md)

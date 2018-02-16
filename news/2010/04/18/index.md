@@ -5,7 +5,7 @@ Formats: [HTML](2010/04/18/index.html)  [JSON](2010/04/18/index.json)  [XML](201
 
 ##### Live Earth
 ### [The Dow Live Earth Run for Water started on April 18th. The host cities are: Buenos Aires, Cape Town, Chicago, Hong Kong, Jimbaran, London, Los Angeles, Manchester, Melbourne, Mexico City, Milan, Minneapolis, New York, Lisboa, Rio de Janeiro, SGBPo Paulo, Singapore City, Stockholm, Toronto and Washington, D.C.. ](/news/2010/04/18/the-dow-live-earth-run-for-water-started-on-april-18th-the-host-cities-are-buenos-aires-cape-town-chicago-hong-kong-jimbaran-london.md)
-_Context: Los Angeles, Melbourne, Hong Kong, Minneapolis, Jimbaran, Rio de Janeiro, Live Earth, SGBPo Paulo, New York City, Mexico City, Buenos Aires, Cape Town, Lisboa, Stockholm, Chicago, Washington, D.C., Milan, Manchester, Toronto, Singapore, London_
+_Context: Los Angeles, Singapore, Hong Kong, Mexico City, Jimbaran, Washington, D.C., Live Earth, Stockholm, Cape Town, Manchester, Chicago, Milan, SGBPo Paulo, New York City, Toronto, Lisboa, Rio de Janeiro, Minneapolis, Melbourne, London, Buenos Aires_
 
 ##### President
 ### [President of Iran Mahmoud Ahmadinejad says Iran wants "peace, progress and security for all", asks "supporters and creators" of the Israeli-Palestinian conflict to "allow the regional nations and the Palestinians to settle things" themselves and calls on "alien troops" to leave the region. ](/news/2010/04/18/president-of-iran-mahmoud-ahmadinejad-says-iran-wants-peace-progress-and-security-for-all-asks-supporters-and-creators-of-the-israelia.md)
@@ -45,11 +45,11 @@ Investigation clears three doctors of plot to kill the governor of Helmand provi
 
 ##### Saudi Arabia
 ### [Increasing numbers of women from Saudi Arabia are running away from home, studies by the International Muslim Organization for Women and Family (IMOWF) in Jeddah say. ](/news/2010/04/18/increasing-numbers-of-women-from-saudi-arabia-are-running-away-from-home-studies-by-the-international-muslim-organization-for-women-and-fam.md)
-_Context: Saudi Arabia, Jeddah, International Muslim Organization for Women and Family_
+_Context: International Muslim Organization for Women and Family, Saudi Arabia, Jeddah_
 
 ##### Bahrain
 ### [Bahrain gives Abdullah of Saudi Arabia the Ajrab sword of Imam Turki bin Abdullah kept by Bahrain for 140 years and confers on him the Sheikh Isa bin Salman Al Khalifah Medal during a ceremony at Al-Sakhir Palace. ](/news/2010/04/18/bahrain-gives-abdullah-of-saudi-arabia-the-ajrab-sword-of-imam-turki-bin-abdullah-kept-by-bahrain-for-140-years-and-confers-on-him-the-sheik.md)
-_Context: Imam Turki bin Abdullah, Sheikh Isa bin Salman Al Khalifah, Bahrain, Al-Sakhir Palace, Abdullah_
+_Context: Imam Turki bin Abdullah, Al-Sakhir Palace, Abdullah, Sheikh Isa bin Salman Al Khalifah, Bahrain_
 
 ##### King Oyo, Rukidi IV of Toro
 ### [King Oyo, Rukidi IV of Toro, one of Uganda's last remaining kings and the world's youngest monarch, reaches the age of 18 at the end of a four-day ceremony and takes full control of his kingdom. ](/news/2010/04/18/king-oyo-rukidi-iv-of-toro-one-of-uganda-s-last-remaining-kings-and-the-world-s-youngest-monarch-reaches-the-age-of-18-at-the-end-of-a-fo.md)
@@ -61,11 +61,11 @@ _Context: George Washington, U.S. President, New York Society Library_
 
 ##### Spain
 ### [69-year-old Spanish tenor opera star Placido Domingo returns to the stage at Milan's Teatro alla Scala weeks after colorectal cancer surgery. ](/news/2010/04/18/69-year-old-spanish-tenor-opera-star-pla-cido-domingo-returns-to-the-stage-at-milan-s-teatro-alla-scala-weeks-after-colorectal-cancer-surger.md)
-_Context: Milan, Teatro alla Scala, colorectal cancer, Placido Domingo, Spain_
+_Context: Milan, Placido Domingo, colorectal cancer, Spain, Teatro alla Scala_
 
 ##### The Rolling Stones
 ### [A recently unearthed track by The Rolling Stones is released as a limited edition 7" single for Record Store Day. The first song recorded by Blur's original line-up since guitarist Graham Coxon quit in 2002 is also released for the same purpose. ](/news/2010/04/18/a-recently-unearthed-track-by-the-rolling-stones-is-released-as-a-limited-edition-7-single-for-record-store-day-the-first-song-recorded-by.md)
-_Context: The Rolling Stones, Graham Coxon, Blur, Record Store Day, first song recorded_
+_Context: Blur, Record Store Day, first song recorded, The Rolling Stones, Graham Coxon_
 
 ## [Previous Day...](/news/2010/04/17/index.md)
 

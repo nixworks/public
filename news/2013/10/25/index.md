@@ -17,7 +17,7 @@ EU leaders meeting in Brussels say distrust of the US over spying could harm int
 
 ##### Nuclear genome
 ### [The complete nuclear genome of a Siberian boy who died 24,000 years ago suggests that about a third of the ancestry of today's Native Americans can be traced to Western Eurasia, with only two-thirds coming from Eastern Asia. ](/news/2013/10/25/the-complete-nuclear-genome-of-a-siberian-boy-who-died-24-000-years-ago-suggests-that-about-a-third-of-the-ancestry-of-today-s-native-americ.md)
-_Context: nuclear genome, Western Eurasia, Native Americans_
+_Context: Native Americans, nuclear genome, Western Eurasia_
 
 ## [Previous Day...](/news/2013/10/24/index.md)
 

@@ -9,7 +9,7 @@ _Context: Sri Lankan Civil War, Tamil Tigers, Sri Lanka_
 
 ##### U.S. President
 ### [ Former President of the United States Jimmy Carter reiterates that no person from the United States Department of State ever asked him not to meet with representatives from Hamas or Syria. ](/news/2008/04/23/former-president-of-the-united-states-jimmy-carter-reiterates-that-no-person-from-the-united-states-department-of-state-ever-asked-him-not.md)
-_Context: Syria, Jimmy Carter, State Department, Hamas, U.S. President_
+_Context: Jimmy Carter, Syria, U.S. President, State Department, Hamas_
 
 ## [Previous Day...](/news/2008/04/22/index.md)
 

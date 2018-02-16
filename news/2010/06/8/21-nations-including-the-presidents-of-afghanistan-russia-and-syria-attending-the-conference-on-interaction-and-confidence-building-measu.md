@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/8/21-nations-including-the-presidents-of-afghanist
 
 ### [2010-06-8](/news/2010/06/8/index.md)
 
-##### Afghanistan
+##### Afghan
 # 21 nations, including the Presidents of Afghanistan, Russia and Syria, attending the Conference on Interaction and Confidence-Building Measures in Asia summit in Istanbul condemn Israel's deadly raid on the Gaza-bound aid flotilla, while Israel, the 22nd participant with a lower-level diplomat, disagrees. 
 
 

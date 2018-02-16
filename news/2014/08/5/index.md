@@ -5,7 +5,7 @@ Formats: [HTML](2014/08/5/index.html)  [JSON](2014/08/5/index.json)  [XML](2014/
 
 ##### War in Afghanistan
 ### [A U.S. major general Harold J. Greene is killed, and a German brigadier general and several American troops are among the 15 wounded, in a attack by an Afghan soldier gunman - who was killed by Afghan soldiers - at Kabul's Marshal Fahim National Defense University. ](/news/2014/08/5/a-u-s-major-general-harold-j-greene-is-killed-and-a-german-brigadier-general-and-several-american-troops-are-among-the-15-wounded-in-a-a.md)
-_Context: major general, War in Afghanistan, United States, Harold J. Greene, Kabul, German, brigadier general_
+_Context: Kabul, major general, United States, War in Afghanistan, German, Harold J. Greene, brigadier general_
 
 ##### Marinka
 ### [Ukrainian government forces recapture control of Marinka on the western edge of the pro-Russian rebel-held city of Donetsk. ](/news/2014/08/5/ukrainian-government-forces-recapture-control-of-marinka-on-the-western-edge-of-the-pro-russian-rebel-held-city-of-donetsk.md)
@@ -25,7 +25,7 @@ Rupert Murdoch&#039;s 21st Century Fox withdraws its bid to acquire multinationa
 
 ##### Padma River
 ### [Rescuers struggle to locate a sunken ferry in the Padma River in Bangladesh leaving at least two people dead and many more missing. ](/news/2014/08/5/rescuers-struggle-to-locate-a-sunken-ferry-in-the-padma-river-in-bangladesh-leaving-at-least-two-people-dead-and-many-more-missing.md)
-_Context: Padma River, Bangladesh_
+_Context: Bangladesh, Padma River_
 
 ##### Earthquake
 ### [A 5.5 magnitude earthquake strikes near Johannesburg, in the town of Orkney, South Africa, killing one person and injuring 17. ](/news/2014/08/5/a-5-5-magnitude-earthquake-strikes-near-johannesburg-in-the-town-of-orkney-south-africa-killing-one-person-and-injuring-17.md)

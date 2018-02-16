@@ -17,7 +17,7 @@ Taiwan has halted imports of edible lard oil from Hong Kong indefinitely, and ot
 
 ##### Cuba
 ### [Cuba announces plans to send 165 medical staff to West Africa to help combat the Ebola virus outbreak that has claimed more than 2,400 lives. ](/news/2014/09/12/cuba-announces-plans-to-send-165-medical-staff-to-west-africa-to-help-combat-the-ebola-virus-outbreak-that-has-claimed-more-than-2-400-lives.md)
-_Context: West Africa, Cuba, Ebola virus_
+_Context: West Africa, Ebola virus, Cuba_
 
 ##### Australia
 ### [Australia raises its terror threat level to high following concerns about militants returning from conflicts in Iraq and Syria. ](/news/2014/09/12/australia-raises-its-terror-threat-level-to-high-following-concerns-about-militants-returning-from-conflicts-in-iraq-and-syria.md)

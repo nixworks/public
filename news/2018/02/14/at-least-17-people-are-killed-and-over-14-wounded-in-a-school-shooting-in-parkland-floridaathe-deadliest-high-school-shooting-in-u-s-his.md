@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/14/at-least-17-people-are-killed-and-over-14-wound
 ### [2018-02-14](/news/2018/02/14/index.md)
 
 ##### Douglas High School shooting
-# At least 17 people are killed and over 14 wounded in a school shooting in Parkland, Florida--the deadliest high school shooting in U.S. history. The suspected shooter is apprehended and identified as 19-year-old former student Nikolas Cruz. 
+# At least 17 people are killed and over 14 wounded in a school shooting in Parkland, Florida--the deadliest high school shooting in U.S. history. The suspected shooter is apprehended and identified as a 19-year-old former student. 
 
 
 
@@ -21,7 +21,7 @@ Formats: [HTML](/news/2018/02/14/at-least-17-people-are-killed-and-over-14-wound
 4. [At least 17 people are killed and over 14 wounded in a school shooting in Parkland, Florida. The suspected shooter is apprehended and identified as a 19-year-old former student. ](/news/2018/02/14/at-least-17-people-are-killed-and-over-14-wounded-in-a-school-shooting-in-parkland-florida-the-suspected-shooter-is-apprehended-and-identi.md) _2018-02-15 11:30:18 (Update)_
 5. [At least 17 people are killed and over 14 wounded in a school shooting in Parkland, Florida - the most deadly high school shooting in U.S. history. The suspected shooter is apprehended and identified as a 19-year-old former student. ](/news/2018/02/14/at-least-17-people-are-killed-and-over-14-wounded-in-a-school-shooting-in-parkland-florida-the-most-deadly-high-school-shooting-in-u-s-h.md) _2018-02-15 18:30:19 (Update)_
 6. [At least 17 people are killed and over 14 wounded in a school shooting in Parkland, Florida--the most deadly high school shooting in U.S. history. The suspected shooter is apprehended and identified as a 19-year-old former student. ](/news/2018/02/14/at-least-17-people-are-killed-and-over-14-wounded-in-a-school-shooting-in-parkland-floridaathe-most-deadly-high-school-shooting-in-u-s-h.md) _2018-02-15 20:30:27 (Update)_
-6. [At least 17 people are killed and over 14 wounded in a school shooting in Parkland, Florida--the deadliest high school shooting in U.S. history. The suspected shooter is apprehended and identified as 19-year-old former student Nikolas Cruz. ](/news/2018/02/14/at-least-17-people-are-killed-and-over-14-wounded-in-a-school-shooting-in-parkland-floridaathe-deadliest-high-school-shooting-in-u-s-his.md) _(Current version)_
+6. [At least 17 people are killed and over 14 wounded in a school shooting in Parkland, Florida--the deadliest high school shooting in U.S. history. The suspected shooter is apprehended and identified as a 19-year-old former student. ](/news/2018/02/14/at-least-17-people-are-killed-and-over-14-wounded-in-a-school-shooting-in-parkland-floridaathe-deadliest-high-school-shooting-in-u-s-his.md) _(Current version)_
 
 ### Related:
 

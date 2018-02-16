@@ -13,15 +13,15 @@ _Context: Flood, Haiti_
 
 ##### Magnitude
 ### [ A 5.7-magnitude earthquake strikes Chiautla de Tapia, Puebla, Mexico. ](/news/2009/05/22/a-5-7-magnitude-earthquake-strikes-chiautla-de-tapia-puebla-mexico.md)
-_Context: Chiautla de Tapia, earthquake, Puebla, Mexican, magnitude_
+_Context: Puebla, earthquake, Chiautla de Tapia, magnitude, Mexican_
 
 ##### Transitional Federal Government
 ### [ At least 36 people are killed as the Transitional Federal Government and Islamist militants battle in Mogadishu, Somalia. ](/news/2009/05/22/at-least-36-people-are-killed-as-the-transitional-federal-government-and-islamist-militants-battle-in-mogadishu-somalia.md)
-_Context: violence, Somalia, Islamists, militant, Transitional Federal Government, Mogadishu_
+_Context: militant, Islamists, Somalia, Mogadishu, Transitional Federal Government, violence_
 
 ##### Bingu wa Mutharika
 ### [ Bingu wa Mutharika is reelected as President of Malawi. ](/news/2009/05/22/bingu-wa-mutharika-is-reelected-as-president-of-malawi.md)
-_Context: reelected, Bingu wa Mutharika, President, Malawi_
+_Context: Malawi, Bingu wa Mutharika, reelected, President_
 
 ##### Space Shuttle
 ### [ The Space Shuttle "Atlantis" prepares to land at the Kennedy Space Center in Florida, United States. ](/news/2009/05/22/the-space-shuttle-atlantis-prepares-to-land-at-the-kennedy-space-center-in-florida-united-states.md)
@@ -29,11 +29,11 @@ NASA&#039;s space shuttle fleet began setting records with its first launch on A
 
 ##### United Nations
 ### [ The United Nations requests aid for 1,500,000 people who have been displaced by war in northwest Pakistan. ](/news/2009/05/22/the-united-nations-requests-aid-for-1-500-000-people-who-have-been-displaced-by-war-in-northwest-pakistan.md)
-_Context: assistance, United Nations, Northwestern Pakistan, Pakistan, War in North-West Pakistan, people, displaced_
+_Context: assistance, United Nations, Northwestern Pakistan, War in North-West Pakistan, Pakistan, people, displaced_
 
 ##### Spain
 ### [ Spain's National Police Corps arrests 23 people for trafficking Nigerian prostitutes through voodoo. ](/news/2009/05/22/spain-s-national-police-corps-arrests-23-people-for-trafficking-nigerian-prostitutes-through-voodoo.md)
-_Context: voodoo, prostitutes, Spain, arrest, National Police Corps, Nigeria, Trafficking in Persons_
+_Context: Spain, National Police Corps, voodoo, arrest, Trafficking in Persons, prostitutes, Nigeria_
 
 ##### Northern Ireland
 ### [ Northern Ireland's first sextuplets are born in Belfast. ](/news/2009/05/22/northern-ireland-s-first-sextuplets-are-born-in-belfast.md)

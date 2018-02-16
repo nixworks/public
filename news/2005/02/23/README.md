@@ -13,15 +13,15 @@ _Context: smokers, Bhutan_
 
 ##### Sri Lanka
 ### [ In Sri Lanka, Tamil Tigers warn that the truce with the government is under threat after the killing of one of their leaders, E Kaushalyan. The ceasefire has lasted for four years. ](/news/2005/02/23/in-sri-lanka-tamil-tigers-warn-that-the-truce-with-the-government-is-under-threat-after-the-killing-of-one-of-their-leaders-e-kaushalyan.md)
-_Context: Sri Lanka, ceasefire, E Kaushalyan, Tamil Tigers_
+_Context: Tamil Tigers, ceasefire, Sri Lanka, E Kaushalyan_
 
 ##### Pakistan
 ### [ Pakistan's supreme court refuses a government request to withdraw a corruption case against minister Faisal Saleh Hayat. ](/news/2005/02/23/pakistan-s-supreme-court-refuses-a-government-request-to-withdraw-a-corruption-case-against-minister-faisal-saleh-hayat.md)
-_Context: anti-corruption, Faisal Saleh Hayat, supreme court, Pakistan_
+_Context: anti-corruption, supreme court, Faisal Saleh Hayat, Pakistan_
 
 ##### Rasim Delic
 ### [ Rasim Delic, former commander of the Bosnian army in Bosnia during the Yugoslav Wars, announces he will hand himself over to the UN Tribunal. He stands accused of war crimes against ethnic Serbs ](/news/2005/02/23/rasim-delia-former-commander-of-the-bosnian-army-in-bosnia-during-the-yugoslav-wars-announces-he-will-hand-himself-over-to-the-un-tribun.md)
-_Context: war crime, International Criminal Tribunal for the Former Yugoslavia, Rasim Delic, Serb, Bosnia and Herzegovina, Yugoslav Wars_
+_Context: International Criminal Tribunal for the Former Yugoslavia, Serb, Rasim Delic, Yugoslav Wars, war crime, Bosnia and Herzegovina_
 
 ##### Italy
 ### [ In Italy, Andrea Volpe, leader of the Beasts of Satan rock group, is sentenced to 30 years in prison for three murders. Another member Pietro Guerrieri receives 16 years, while a third member is acquitted ](/news/2005/02/23/in-italy-andrea-volpe-leader-of-the-beasts-of-satan-rock-group-is-sentenced-to-30-years-in-prison-for-three-murders-another-member-piet.md)
@@ -41,7 +41,7 @@ _Context: Interpol_
 
 ##### World Health Organization
 ### [ WHO warns that there is a potential threat of a bird flu pandemic ](/news/2005/02/23/who-warns-that-there-is-a-potential-threat-of-a-bird-flu-pandemic.md)
-_Context: pandemic, World Health Organization, Avian flu virus_
+_Context: Avian flu virus, pandemic, World Health Organization_
 
 ## [Previous Day...](/news/2005/02/22/index.md)
 

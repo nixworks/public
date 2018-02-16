@@ -17,11 +17,11 @@ At least 11 protesters killed on fourth day of widespread protests against burni
 
 ##### Boko Haram
 ### [Suspected Boko Haram Islamist militants launch simultaneous gun and bomb attacks in the northern Nigerian city of Gombe. ](/news/2012/02/24/suspected-boko-haram-islamist-militants-launch-simultaneous-gun-and-bomb-attacks-in-the-northern-nigerian-city-of-gombe.md)
-_Context: Islamist, Boko Haram, Nigeria, Gombe_
+_Context: Islamist, Nigeria, Gombe, Boko Haram_
 
 ##### Taliban
 ### [The Taliban attacks a Pakistani police station in Peshawar killing four officers. ](/news/2012/02/24/the-taliban-attacks-a-pakistani-police-station-in-peshawar-killing-four-officers.md)
-_Context: Pakistani police, Taliban, Peshawar_
+_Context: Taliban, Pakistani police, Peshawar_
 
 ##### Air Zimbabwe
 ### [Air Zimbabwe suspends all of its flights indefinitely. ](/news/2012/02/24/air-zimbabwe-suspends-all-of-its-flights-indefinitely.md)
@@ -29,11 +29,11 @@ _Context: Air Zimbabwe_
 
 ##### Securities and Exchange Commission
 ### [A member of the U.S. Securities and Exchange Commission cautions against that agency's current draft of the Volcker rule, suggesting that it will have to scrap the rule as it stands and start over. ](/news/2012/02/24/a-member-of-the-u-s-securities-and-exchange-commission-cautions-against-that-agency-s-current-draft-of-the-volcker-rule-suggesting-that-it.md)
-_Context: Securities and Exchange Commission, Volcker rule_
+_Context: Volcker rule, Securities and Exchange Commission_
 
 ##### Prince Friso of Orange-Nassau
 ### [Prince Friso of Orange-Nassau, who was buried under an avalanche in Lech, Austria, while skiing off piste, is reported to have suffered massive brain damage due to oxygen shortage; it remains unclear whether he will ever regain consciousness. ](/news/2012/02/24/prince-friso-of-orange-nassau-who-was-buried-under-an-avalanche-in-lech-austria-while-skiing-off-piste-is-reported-to-have-suffered-mass.md)
-_Context: Prince Friso of Orange-Nassau, off piste, Austria, Lech_
+_Context: Austria, Prince Friso of Orange-Nassau, off piste, Lech_
 
 ##### IAEA
 ### [The International Atomic Energy Agency reports that Iran is expanding its nuclear activities. ](/news/2012/02/24/the-international-atomic-energy-agency-reports-that-iran-is-expanding-its-nuclear-activities.md)
@@ -41,7 +41,7 @@ A report indicated Iran had begun producing fuel inside a new facility near the 
 
 ##### Disappearance of Azaria Chamberlain
 ### [A fourth inquest begins into the disappearance of Azaria Chamberlain at Uluru in outback Australia in the Northern Territory. ](/news/2012/02/24/a-fourth-inquest-begins-into-the-disappearance-of-azaria-chamberlain-at-uluru-in-outback-australia-in-the-northern-territory.md)
-_Context: disappearance of Azaria Chamberlain, Australia, Uluru, Northern Territory_
+_Context: Australia, Northern Territory, Uluru, disappearance of Azaria Chamberlain_
 
 ##### Dharun Ravi
 ### [The trial begins of former US student Dharun Ravi, accused of spying on a homosexual encounter involving his room-mate, which resulted in his death. The case has triggered debate about the difficulties faced by young gay men in America. ](/news/2012/02/24/the-trial-begins-of-former-us-student-dharun-ravi-accused-of-spying-on-a-homosexual-encounter-involving-his-room-mate-which-resulted-in-hi.md)
@@ -53,11 +53,11 @@ _Context: Garry Conille, Haiti_
 
 ##### Australian Prime Minister
 ### [Former Prime Minister Kevin Rudd announces that he will contest the leadership of the Australian Labor Party with current PM Julia Gillard on Monday. ](/news/2012/02/24/former-prime-minister-kevin-rudd-announces-that-he-will-contest-the-leadership-of-the-australian-labor-party-with-current-pm-julia-gillard-o.md)
-_Context: Australian Labor Party, Australian Prime Minister, Kevin Rudd, Julia Gillard_
+_Context: Kevin Rudd, Julia Gillard, Australian Labor Party, Australian Prime Minister_
 
 ##### Governor
 ### [The Governor of the Mexican state of Nuevo Leon fires the states' public safety secretary General Jaime Castaneda following the Apodaca prison riot where 44 inmates were killed. ](/news/2012/02/24/the-governor-of-the-mexican-state-of-nuevo-lea3n-fires-the-states-public-safety-secretary-general-jaime-castaneda-following-the-apodaca-pri.md)
-_Context: Nuevo Leon, Apodaca prison riot, Jaime Castaneda, Mexican, Governor_
+_Context: Nuevo Leon, Mexican, Jaime Castaneda, Governor, Apodaca prison riot_
 
 ## [Previous Day...](/news/2012/02/23/index.md)
 

@@ -5,11 +5,11 @@ Formats: [HTML](2009/10/25/index.html)  [JSON](2009/10/25/index.json)  [XML](200
 
 ##### New York Yankees
 ### [ The New York Yankees beat the Los Angeles Angels 5-2 in Game 6 of the 2009 American League Championship Series to advance to the World Series. ](/news/2009/10/25/the-new-york-yankees-beat-the-los-angeles-angels-5-2-in-game-6-of-the-2009-american-league-championship-series-to-advance-to-the-world-seri.md)
-_Context: Los Angeles Angels, 2009 American League Championship Series, baseball world series, New York Yankees_
+_Context: Los Angeles Angels, New York Yankees, 2009 American League Championship Series, baseball world series_
 
 ##### Israel
 ### [ Israeli police and Palestinians clash at Temple Mount, Jerusalem's holiest site, resulting in 12 arrests. ](/news/2009/10/25/israeli-police-and-palestinians-clash-at-temple-mount-jerusalem-s-holiest-site-resulting-in-12-arrests.md)
-_Context: Palestine, Israel, Jerusalem, Temple Mount_
+_Context: Temple Mount, Jerusalem, Israel, Palestine_
 
 ##### Bomb blasts
 ### [ Bomb blasts kill 155 people and injure at least 500 in central Baghdad, the country's deadliest attack for two years. ](/news/2009/10/25/bomb-blasts-kill-155-people-and-injure-at-least-500-in-central-baghdad-the-country-s-deadliest-attack-for-two-years.md)
@@ -25,7 +25,7 @@ _Context: Movement for the Emancipation of the Niger Delta, Nigeria_
 
 ##### Maksharip Aushev
 ### [ Maksharip Aushev, human rights activist and opposition leader of Ingushetia, is shot dead while driving his car near Nartan in Kabardino-Balkaria. A female passenger is also attacked. ](/news/2009/10/25/maksharip-aushev-human-rights-activist-and-opposition-leader-of-ingushetia-is-shot-dead-while-driving-his-car-near-nartan-in-kabardino-ba.md)
-_Context: Kabardino-Balkaria, Nartan, Ingushetia, human rights, Maksharip Aushev_
+_Context: Kabardino-Balkaria, Nartan, human rights, Ingushetia, Maksharip Aushev_
 
 ##### Tunisia
 ### [ Tunisians vote in a general election. ](/news/2009/10/25/tunisians-vote-in-a-general-election.md)
@@ -37,7 +37,7 @@ _Context: elect, Uruguay_
 
 ##### Easter Island
 ### [ Easter Islanders vote to restrict the number of immigrants in a referendum. ](/news/2009/10/25/easter-islanders-vote-to-restrict-the-number-of-immigrants-in-a-referendum.md)
-_Context: Easter Island, referendum_
+_Context: referendum, Easter Island_
 
 ##### Oil refinery fire
 ### [ The oil refinery fire continues to burn out of control in Catao, Puerto Rico, two days after the initial explosion. ](/news/2009/10/25/the-oil-refinery-fire-continues-to-burn-out-of-control-in-catano-puerto-rico-two-days-after-the-initial-explosion.md)
@@ -45,15 +45,15 @@ _Context: Catao, Puerto Rico, oil refinery fire_
 
 ##### Netherlands
 ### [ Buildings across the Netherlands&mdash;St. Martin's Cathedral, Utrecht, Rotterdam's Euromast and Groningen's Martinitoren&mdash;dim their lights as clocks go back in Europe. ](/news/2009/10/25/buildings-across-the-netherlands-mdash-st-martin-s-cathedral-utrecht-rotterdam-s-euromast-and-groningen-s-martinitoren-mdash-dim-their-l.md)
-_Context: Rotterdam, Martinitoren, Groningen, St. Martin's Cathedral, Utrecht, Euromast, Netherlands, Europe_
+_Context: Europe, Netherlands, Martinitoren, Groningen, Rotterdam, Euromast, St. Martin's Cathedral, Utrecht_
 
 ##### United Nations
 ### [ Inspectors from the United Nations' nuclear watchdog, the International Atomic Energy Agency (IAEA), arrive in Iran to inspect a newly disclosed nuclear facility near the city of Qom. ](/news/2009/10/25/inspectors-from-the-united-nations-nuclear-watchdog-the-international-atomic-energy-agency-iaea-arrive-in-iran-to-inspect-a-newly-disc.md)
-_Context: IAEA, Iran, United Nations, Qom_
+_Context: IAEA, United Nations, Iran, Qom_
 
 ##### Andrew Lloyd Webber
 ### [ It is revealed that composer Andrew Lloyd Webber has been diagnosed with prostate cancer. ](/news/2009/10/25/it-is-revealed-that-composer-andrew-lloyd-webber-has-been-diagnosed-with-prostate-cancer.md)
-_Context: Andrew Lloyd Webber, prostate cancer_
+_Context: prostate cancer, Andrew Lloyd Webber_
 
 ## [Previous Day...](/news/2009/10/24/index.md)
 

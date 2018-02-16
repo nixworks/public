@@ -9,7 +9,7 @@ Rival ethnic Uighur and Han Chinese groups take to streets defying security crac
 
 ##### Public memorial
 ### [ A public memorial for Michael Jackson takes place at the Staples Center in Los Angeles, California, with over 17,000 viewing in Los Angeles, and millions more viewing around the world. ](/news/2009/07/7/a-public-memorial-for-michael-jackson-takes-place-at-the-staples-center-in-los-angeles-california-with-over-17-000-viewing-in-los-angeles.md)
-_Context: Los Angeles, viewing around the world, public memorial, Michael Jackson, Staples Center, California_
+_Context: Michael Jackson, Los Angeles, California, public memorial, Staples Center, viewing around the world_
 
 ##### United Nations
 ### [ UN Secretary-General Ban Ki-moon begins his two-day visit to Ireland.](/news/2009/07/7/un-secretary-general-ban-ki-moon-begins-his-two-day-visit-to-ireland.md)
@@ -29,23 +29,23 @@ Relatives of the 52 victims of the 7 July 2005 bombings in London have marked th
 
 ##### Child abuse
 ### [ An institutional child abuse museum is suggested in Ireland by the Labour Party's Ruairi Quinn, with Education Minister Batt O'Keeffe criticising the Opposition on the issue. ](/news/2009/07/7/an-institutional-child-abuse-museum-is-suggested-in-ireland-by-the-labour-party-s-ruairi-quinn-with-education-minister-batt-o-keeffe-criti.md)
-_Context: Batt O'Keeffe, Opposition, Ruairi Quinn, Labour Party, Irish, museum, child abuse, Education Minister_
+_Context: Batt O'Keeffe, Irish, museum, Labour Party, child abuse, Ruairi Quinn, Education Minister, Opposition_
 
 ##### United Nations
 ### [ The United Nations Security Council condemns the recent missile launches by North Korea. ](/news/2009/07/7/the-united-nations-security-council-condemns-the-recent-missile-launches-by-north-korea.md)
-_Context: North Korea, United Nations, missile launches, United Nations Security Council_
+_Context: missile launches, North Korea, United Nations, United Nations Security Council_
 
 ##### United Nations
 ### [ The United Nations says around 204,000 people have fled violence in Mogadishu, Somalia as a result of a militant offensive against government forces. ](/news/2009/07/7/the-united-nations-says-around-204-000-people-have-fled-violence-in-mogadishu-somalia-as-a-result-of-a-militant-offensive-against-governme.md)
-_Context: violence, United Nations, Somalia, Mogadishu_
+_Context: United Nations, Mogadishu, violence, Somalia_
 
 ##### Explode
 ### [ Two bombs explode in the southern Philippines, killing two and injuring 53. ](/news/2009/07/7/two-bombs-explode-in-the-southern-philippines-killing-two-and-injuring-53.md)
-_Context: explode, Philippines_
+_Context: Philippines, explode_
 
 ##### Pope
 ### [ Pope Benedict XVI calls for a new financial world order guided by ethics, dignity and the search for a common good. ](/news/2009/07/7/pope-benedict-xvi-calls-for-a-new-financial-world-order-guided-by-ethics-dignity-and-the-search-for-a-common-good.md)
-_Context: Pope, Benedict XVI_
+_Context: Benedict XVI, Pope_
 
 ##### United States
 ### [ 12 people die in a U.S. missile strike on a training camp run by Baitullah Mehsud in South Waziristan, Pakistan. ](/news/2009/07/7/12-people-die-in-a-u-s-missile-strike-on-a-training-camp-run-by-baitullah-mehsud-in-south-waziristan-pakistan.md)
@@ -57,7 +57,7 @@ Ousted Honduran President Manuel Zelaya on Tuesday accepted a U.S.-backed effort
 
 ##### Iraq
 ### [ Iraq bans planned group visits to Saddam Hussein's grave. ](/news/2009/07/7/iraq-bans-planned-group-visits-to-saddam-hussein-s-grave.md)
-_Context: Iraq, Saddam Hussein_
+_Context: Saddam Hussein, Iraq_
 
 ##### U.S. President
 ### [ United States President Barack Obama addresses graduates in Moscow, Russia. ](/news/2009/07/7/united-states-president-barack-obama-addresses-graduates-in-moscow-russia.md)
@@ -65,7 +65,7 @@ The U.S. and Russia declared a rapprochement in part by agreeing to disagree on 
 
 ##### MiG-29
 ### [ A Mikoyan MiG-29 of the Serbian military crashes at Batajnica Air Base near Belgrad, killing the pilot and one soldier on the ground. ](/news/2009/07/7/a-mikoyan-mig-29-of-the-serbian-military-crashes-at-batajnica-air-base-near-belgrad-killing-the-pilot-and-one-soldier-on-the-ground.md)
-_Context: crashes, MiG-29, Serbian military, Batajnica Air Base, Belgrad_
+_Context: Batajnica Air Base, MiG-29, Serbian military, crashes, Belgrad_
 
 ##### Iran
 ### [ Iranian opposition leaders call for the release of people who demonstrated in the aftermath of the disputed presidential election. ](/news/2009/07/7/iranian-opposition-leaders-call-for-the-release-of-people-who-demonstrated-in-the-aftermath-of-the-disputed-presidential-election.md)
@@ -73,11 +73,11 @@ Frontpage | New Straits Times : Authoritative source for Malaysia latest news on
 
 ##### ICC
 ### [ Prosecutors at the International Criminal Court challenge a tribunal's decision not to indict Sudanese President Omar al-Bashir on charges of genocide in Darfur. ](/news/2009/07/7/prosecutors-at-the-international-criminal-court-challenge-a-tribunal-s-decision-not-to-indict-sudanese-president-omar-al-bashir-on-charges.md)
-_Context: President of Sudan, conflict, Sudan, Darfur, Omar al-Bashir, ICC_
+_Context: ICC, Darfur, Sudan, Omar al-Bashir, conflict, President of Sudan_
 
 ##### Al Franken
 ### [ Al Franken is sworn in as a U.S. Senator, the 60th caucusing with the Democratic Party which is a filibuster-proof majority. ](/news/2009/07/7/al-franken-is-sworn-in-as-a-u-s-senator-the-60th-caucusing-with-the-democratic-party-which-is-a-filibuster-proof-majority.md)
-_Context: U.S. Senator, filibuster, Democrat, Al Franken_
+_Context: U.S. Senator, Democrat, filibuster, Al Franken_
 
 ## [Previous Day...](/news/2009/07/6/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2015/05/3/index.html)  [JSON](2015/05/3/index.json)  [XML](2015/
 
 ##### Yemeni Civil War (2015)
 ### [Yemen officials say that at least 20 members of the Arab coalition have landed in Aden on a 'reconnaissance' mission. ](/news/2015/05/3/yemen-officials-say-that-at-least-20-members-of-the-arab-coalition-have-landed-in-aden-on-a-reconnaissance-mission.md)
-_Context: Yemen, Aden, Yemeni Civil War (2015)_
+_Context: Yemeni Civil War (2015), Yemen, Aden_
 
 ##### Moro insurgency in the Philippines
 ### [Fugitive Abdul Basit Usman dies in a clash in Mindanao. ](/news/2015/05/3/fugitive-abdul-basit-usman-dies-in-a-clash-in-mindanao.md)
@@ -15,13 +15,13 @@ Usman is the other target in the botched police Special Action Force (SAF) opera
 ### [Kathmandu International Airport closes to large aircraft flying in relief because its runway can no longer stand the strain.](/news/2015/05/3/kathmandu-international-airport-closes-to-large-aircraft-flying-in-relief-because-its-runway-can-no-longer-stand-the-strain.md)
 The death toll from Nepal&#039;s devastating earthquake has risen to 7,040 with a further 14,123 people injured.
 
-##### Afghanistan
+##### Afghan
 ### [At least eighteen people are killed in a traffic accident in Afghanistan's Badghis Province. ](/news/2015/05/3/at-least-eighteen-people-are-killed-in-a-traffic-accident-in-afghanistan-s-badghis-province.md)
-_Context: Badghis Province, Afghanistan_
+_Context: Badghis Province, Afghan_
 
 ##### Italy
 ### [Italy reports nearly 4,100 migrants were rescued off the Libyan coast with more rescues expected as people smugglers take advantage of the safe conditions. ](/news/2015/05/3/italy-reports-nearly-4-100-migrants-were-rescued-off-the-libyan-coast-with-more-rescues-expected-as-people-smugglers-take-advantage-of-the-s.md)
-_Context: Italy, Libya, people smuggler_
+_Context: Italy, people smuggler, Libya_
 
 ##### Preventive medicine
 ### [Preventive medicine researchers from Harvard University and Northwestern University conduct a study on long-term (13 years; 793 people) pre-cancer changes (mostly leukemia, prostate cancer, lung cancers, and skin cancers) in telomeres, the protective ends of DNA. Some said, in previous short-look studies, that focused mostly on their known role in the pace of regular aging, that they either got shorter or longer. There was a 3-4 year period of accelerated aging, and then it halted a few years before cancer was diagnosed. ](/news/2015/05/3/preventive-medicine-researchers-from-harvard-university-and-northwestern-university-conduct-a-study-on-long-term-13-years-793-people-pre.md)
@@ -37,7 +37,7 @@ _Context: discrimination against atheists, Madison, Wisconsin_
 
 ##### 2016 U.S. presidential election
 ### [Retired neurosurgeon Ben Carson tells a Florida television station that he would run for the Republican Party nomination with a formal announcement to be made in the city of Detroit, Michigan, where he grew up. ](/news/2015/05/3/retired-neurosurgeon-ben-carson-tells-a-florida-television-station-that-he-would-run-for-the-republican-party-nomination-with-a-formal-annou.md)
-_Context: 2016 U.S. presidential election, Republican, the state, Ben Carson, neurosurgeon, Detroit_
+_Context: 2016 U.S. presidential election, neurosurgeon, Ben Carson, Florida, Republican, Detroit_
 
 ##### Nagorno-Karabakh parliamentary election, 2015
 ### [Nagorno-Karabakh parliamentary election, 2015.](/news/2015/05/3/nagorno-karabakh-parliamentary-election-2015.md)

@@ -5,11 +5,11 @@ Formats: [HTML](2013/06/17/index.html)  [JSON](2013/06/17/index.json)  [XML](201
 
 ##### G8 summit
 ### [The 39th G8 summit gets underway in Northern Ireland with the Syrian civil war high on the agenda. ](/news/2013/06/17/the-39th-g8-summit-gets-underway-in-northern-ireland-with-the-syrian-civil-war-high-on-the-agenda.md)
-_Context: G8 summit, Northern Ireland, Syrian civil war_
+_Context: Northern Ireland, Syrian civil war, G8 summit_
 
 ##### Turkey
 ### [Turkey, South Africa and Russia react angrily to the British government and demand an explanation for the revelations that their politicians and senior officials were spied on and bugged during the 2009 G20 summit in London ](/news/2013/06/17/turkey-south-africa-and-russia-react-angrily-to-the-british-government-and-demand-an-explanation-for-the-revelations-that-their-politicians.md)
-_Context: Turkey, British government, South Africa, London, Russia, G20_
+_Context: British government, G20, London, Russia, Turkey, South Africa_
 
 ##### United Kingdom
 ### [Talks between the foreign ministers of Britain and Ecuador end with no breakthrough over WikiLeaks founder Julian Assange, who remains in the country's London embassy. ](/news/2013/06/17/talks-between-the-foreign-ministers-of-britain-and-ecuador-end-with-no-breakthrough-over-wikileaks-founder-julian-assange-who-remains-in-th.md)
@@ -29,7 +29,7 @@ BBC broadcaster Stuart Hall, 83, is jailed for 15 months for sexually abusing gi
 
 ##### Michael Applebaum
 ### [Michael Applebaum, mayor of Montreal, Quebec is arrested on charges of fraud and abuse of public office. ](/news/2013/06/17/michael-applebaum-mayor-of-montreal-quebec-is-arrested-on-charges-of-fraud-and-abuse-of-public-office.md)
-_Context: Montreal, Michael Applebaum, Quebec_
+_Context: Montreal, Quebec, Michael Applebaum_
 
 ##### Prime Minister of the Czech Republic
 ### [The Prime Minister of the Czech Republic, Petr Necas, submits his resignation following a corruption scandal. ](/news/2013/06/17/the-prime-minister-of-the-czech-republic-petr-neaas-submits-his-resignation-following-a-corruption-scandal.md)
@@ -37,7 +37,7 @@ Prime Minister Petr Necas of the Czech Republic said Sunday that he would resign
 
 ##### SGBPo Paulo
 ### [Brazilians go to the streets in SGBPo Paulo, Rio de Janeiro and other cities to claim against the rise of the public transport fee, being part of the 2013 protests in Brazil.](/news/2013/06/17/brazilians-go-to-the-streets-in-sagbpo-paulo-rio-de-janeiro-and-other-cities-to-claim-against-the-rise-of-the-public-transport-fee-being-p.md)
-_Context: Rio de Janeiro, 2013 protests in Brazil, SGBPo Paulo_
+_Context: 2013 protests in Brazil, SGBPo Paulo, Rio de Janeiro_
 
 ##### U.S. President
 ### [Confidence in President Barack Obama drops below 50%, its lowest level in 19 months as Americans worry over broad government surveillance and other controversies. ](/news/2013/06/17/confidence-in-president-barack-obama-drops-below-50-its-lowest-level-in-19-months-as-americans-worry-over-broad-government-surveillance-an.md)

@@ -25,7 +25,7 @@ The president of a U.N. climate conference has announced agreement on a program 
 
 ##### Panama
 ### [Former leader of Panama Manuel Noriega is extradited home from France and the United States where he has been serving jail sentences for the past 22 years to serve more time for his role in the murder of political opponents. ](/news/2011/12/11/former-leader-of-panama-manuel-noriega-is-extradited-home-from-france-and-the-united-states-where-he-has-been-serving-jail-sentences-for-the.md)
-_Context: United States, Manuel Noriega, Panama, France_
+_Context: France, United States, Panama, Manuel Noriega_
 
 ##### Ohio
 ### [A 16-year-old teenager in the U.S. state of Ohio is charged with murder in a deadly Craigslist robbery scheme.](/news/2011/12/11/a-16-year-old-teenager-in-the-u-s-state-of-ohio-is-charged-with-murder-in-a-deadly-craigslist-robbery-scheme.md)
@@ -33,7 +33,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ##### Presidential election
 ### [International monitors say that elections in the Democratic Republic of the Congo lacked credibility. ](/news/2011/12/11/international-monitors-say-that-elections-in-the-democratic-republic-of-the-congo-lacked-credibility.md)
-_Context: DR Congo, presidential election_
+_Context: presidential election, DR Congo_
 
 ##### Parliamentary elections
 ### [Parliamentary elections take place in Cte d'Ivoire. ](/news/2011/12/11/parliamentary-elections-take-place-in-cote-d-ivoire.md)
@@ -45,7 +45,7 @@ _Context: parliamentary elections, Dmitry Medvedev, Russia_
 
 ##### Taipei
 ### [Around 1,000 people protest in Taipei, demanding that the government make a weekly day off a legal right for Taiwan's 200,000 foreign live-in caregivers. ](/news/2011/12/11/around-1-000-people-protest-in-taipei-demanding-that-the-government-make-a-weekly-day-off-a-legal-right-for-taiwan-s-200-000-foreign-live-i.md)
-_Context: Taiwan, Taipei_
+_Context: Taipei, Taiwan_
 
 ##### Dominique de Villepin
 ### [Dominique de Villepin announces his candidacy for President of France. ](/news/2011/12/11/dominique-de-villepin-announces-his-candidacy-for-president-of-france.md)

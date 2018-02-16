@@ -13,7 +13,7 @@ Army chief says ‘peace has triumphed’, though TV footage is inconclusive, af
 
 ##### Al Jazeera controversies and criticism
 ### [Israel plans to shut down all of Al Jazeera's operations in the country, alleging support of terrorism. ](/news/2017/08/6/israel-plans-to-shut-down-all-of-al-jazeera-s-operations-in-the-country-alleging-support-of-terrorism.md)
-_Context: Al Jazeera controversies and criticism, Al Jazeera, Israel_
+_Context: Al Jazeera, Israel, Al Jazeera controversies and criticism_
 
 ##### 2017 V-22 Osprey crash
 ### [The search for three members of the United States Marines Corps lost in a MV-22 Osprey crash in Shoalwater Bay in the Australian state of Queensland is called off. ](/news/2017/08/6/the-search-for-three-members-of-the-united-states-marines-corps-lost-in-a-mv-22-osprey-crash-in-shoalwater-bay-in-the-australian-state-of-qu.md)

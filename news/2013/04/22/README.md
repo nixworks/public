@@ -11,13 +11,13 @@ A gunman has killed six people - including a 14-year-old girl - in the western R
 ### [The Royal Canadian Mounted Police arrest and charge two men with plotting to disrupt a Toronto area train service in a plot claimed to be backed by al-Qaeda elements. ](/news/2013/04/22/the-royal-canadian-mounted-police-arrest-and-charge-two-men-with-plotting-to-disrupt-a-toronto-area-train-service-in-a-plot-claimed-to-be-ba.md)
 Canadian police have arrested two men and charged them with plotting to derail a Toronto-area passenger train in an operation that they say was backed by al Qaeda elements in Iran.
 
-##### Afghanistan
+##### Afghan
 ### [11 people are kidnapped in Afghanistan after the helicopter they were in was forced to land. The Taliban takes responsibility for the abductions. ](/news/2013/04/22/11-people-are-kidnapped-in-afghanistan-after-the-helicopter-they-were-in-was-forced-to-land-the-taliban-takes-responsibility-for-the-abduct.md)
 KABUL, Afghanistan--Eleven people, including eight Turkish nationals, were captured after their helicopter was forced to make an emergency landing in eastern Afghanistan in an area largely...
 
 ##### Nigeria
 ### [The Nigerian Red Cross claims that 185 people have been killed in Borno State in the north of country over the past few days as a result of fighting between militants and government state forces. The local military claim the numbers are inflated. ](/news/2013/04/22/the-nigerian-red-cross-claims-that-185-people-have-been-killed-in-borno-state-in-the-north-of-country-over-the-past-few-days-as-a-result-of.md)
-_Context: Red Cross, Borno State, Nigeria_
+_Context: Borno State, Red Cross, Nigeria_
 
 ##### Comedy Central
 ### [Comedy Central decides to not renew "Futurama", meaning that the show may end on September 4, 2013. ](/news/2013/04/22/comedy-central-decides-to-not-renew-futurama-meaning-that-the-show-may-end-on-september-4-2013.md)
@@ -29,11 +29,11 @@ The company’s board was sued over the phone-hacking scandal and the purchase o
 
 ##### European Union
 ### [The European Union lifts an oil trade embargo it imposed on Syria during the early stages of the civil war to help the finances of the opposition. ](/news/2013/04/22/the-european-union-lifts-an-oil-trade-embargo-it-imposed-on-syria-during-the-early-stages-of-the-civil-war-to-help-the-finances-of-the-oppos.md)
-_Context: Syrian civil war, Syria, embargo, European Union_
+_Context: Syria, European Union, embargo, Syrian civil war_
 
 ##### European Union
 ### [The European Union lifts all sanctions and trade embargoes on Myanmar excluding arms trade and other trade of equipment that could be used for internal repression, citing the improvement of political freedoms. ](/news/2013/04/22/the-european-union-lifts-all-sanctions-and-trade-embargoes-on-myanmar-excluding-arms-trade-and-other-trade-of-equipment-that-could-be-used-f.md)
-_Context: Myanmar, European Union, embargo_
+_Context: embargo, European Union, Myanmar_
 
 ##### Ralph Lauren
 ### [Clothing retailer Ralph Lauren agrees to pay $1.6 million for claims of bribery to public officials in Argentina from 2005 to 2009. ](/news/2013/04/22/clothing-retailer-ralph-lauren-agrees-to-pay-1-6-million-for-claims-of-bribery-to-public-officials-in-argentina-from-2005-to-2009.md)

@@ -25,7 +25,7 @@ _Context: insider trading in 2011, Rajat Gupta, Goldman Sachs_
 
 ##### Moody's Investor Service
 ### [Moody's Investor Service downgrades the credit rating of five Dutch banks including ING Bank. ](/news/2012/06/15/moody-s-investor-service-downgrades-the-credit-rating-of-five-dutch-banks-including-ing-bank.md)
-_Context: Dutch, credit rating, ING Bank, Moody's Investor Service_
+_Context: ING Bank, Moody's Investor Service, credit rating, Dutch_
 
 ##### Herman Van Rompuy
 ### [Herman Van Rompuy, President of the European Council, convenes a conference call to discuss possible fall-out from the weekend's elections in Greece. ](/news/2012/06/15/herman-van-rompuy-president-of-the-european-council-convenes-a-conference-call-to-discuss-possible-fall-out-from-the-weekend-s-elections-i.md)
@@ -45,7 +45,7 @@ _Context: Mexican, Hurricane Carlotta_
 
 ##### Mich.
 ### [Canada and the U.S. state of Michigan announce a deal to construct a bridge between the U.S. city of Detroit and the Canadian city of Windsor, Ontario. ](/news/2012/06/15/canada-and-the-u-s-state-of-michigan-announce-a-deal-to-construct-a-bridge-between-the-u-s-city-of-detroit-and-the-canadian-city-of-windso.md)
-_Context: a bridge between, Mich., Detroit, Windsor, Ontario_
+_Context: Mich., a bridge between, Windsor, Ontario, Detroit_
 
 ##### Japan
 ### [Police in Japan arrest Katsuya Takahashi of the Aum Shinrikyo cult, the last fugitive wanted over the March 1995 sarin gas attack on the Tokyo subway that killed 13 people. ](/news/2012/06/15/police-in-japan-arrest-katsuya-takahashi-of-the-aum-shinrikyo-cult-the-last-fugitive-wanted-over-the-march-1995-sarin-gas-attack-on-the-tok.md)
@@ -53,11 +53,11 @@ Japanese police arrest the last fugitive of the Aum Shinrikyo cult wanted for th
 
 ##### China
 ### [China suspends three officials and the government of Ankang city apologizes to a woman, Feng Jianmei, 23, who is forced to undergo an illegal abortion seven months into her pregnancy after graphic photos of the mother and her dead baby are circulated online. ](/news/2012/06/15/china-suspends-three-officials-and-the-government-of-ankang-city-apologizes-to-a-woman-feng-jianmei-23-who-is-forced-to-undergo-an-illega.md)
-_Context: Feng Jianmei, China, Ankang city_
+_Context: China, Feng Jianmei, Ankang city_
 
 ##### Al Arabiya
 ### [Baker Atyani, "Al Arabiya{{'}}s" TV bureau chief for southeast Asia, disappears with four other people on the restive southern Philippine island of Jolo where Muslim militants are active. ](/news/2012/06/15/baker-atyani-al-arabiya-s-tv-bureau-chief-for-southeast-asia-disappears-with-four-other-people-on-the-restive-southern-philippine-is.md)
-_Context: Jolo, Al Arabiya, southeast Asia_
+_Context: Al Arabiya, Jolo, southeast Asia_
 
 ##### University of Alberta
 ### [Three employees of an armoured car company are reported dead and one injured in a shooting at the University of Alberta in Edmonton, Canada. ](/news/2012/06/15/three-employees-of-an-armoured-car-company-are-reported-dead-and-one-injured-in-a-shooting-at-the-university-of-alberta-in-edmonton-canada.md)
@@ -77,7 +77,7 @@ _Context: Congress of Colombia_
 
 ##### Holy See
 ### [The Holy See establishes the Personal Ordinariate of Our Lady of the Southern Cross, for former Anglicans in Australia. ](/news/2012/06/15/the-holy-see-establishes-the-personal-ordinariate-of-our-lady-of-the-southern-cross-for-former-anglicans-in-australia.md)
-_Context: Anglicans, Holy See, Our Lady of the Southern Cross, Personal Ordinariate, Australia_
+_Context: Holy See, Personal Ordinariate, Our Lady of the Southern Cross, Anglicans, Australia_
 
 ##### Bulgarian remains
 ### [Bulgarian remains believed by some to be John The Baptist are scientifically dated to the first century AD. ](/news/2012/06/15/bulgarian-remains-believed-by-some-to-be-john-the-baptist-are-scientifically-dated-to-the-first-century-ad.md)

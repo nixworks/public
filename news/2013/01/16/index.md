@@ -37,7 +37,7 @@ At least 25 people were killed on Wednesday when a 12-storey building collapsed 
 
 ##### Organized crime from Russia
 ### [Russian mafia boss Aslan Usoyan is killed in Moscow. ](/news/2013/01/16/russian-mafia-boss-aslan-usoyan-is-killed-in-moscow.md)
-_Context: Aslan Usoyan, organized crime from Russia, Moscow_
+_Context: Aslan Usoyan, Moscow, organized crime from Russia_
 
 ##### Jutiapa
 ### [Carlos Castillo Medrano, the mayor of Jutiapa, Guatemala, is shot and killed by unidentified assailants. ](/news/2013/01/16/carlos-castillo-medrano-the-mayor-of-jutiapa-guatemala-is-shot-and-killed-by-unidentified-assailants.md)
@@ -45,7 +45,7 @@ Gunmen in Guatemala kill the mayor of the town of Jutiapa as President Otto Pere
 
 ##### Secretary of the Interior
 ### [US Interior Secretary Ken Salazar announces that he is to leave the office in March. ](/news/2013/01/16/us-interior-secretary-ken-salazar-announces-that-he-is-to-leave-the-office-in-march.md)
-_Context: Secretary of the Interior, Ken Salazar_
+_Context: Ken Salazar, Secretary of the Interior_
 
 ## [Previous Day...](/news/2013/01/15/index.md)
 

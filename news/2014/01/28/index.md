@@ -5,7 +5,7 @@ Formats: [HTML](2014/01/28/index.html)  [JSON](2014/01/28/index.json)  [XML](201
 
 ##### Carl Icahn
 ### [Carl Icahn announces he has purchased another bloc of the stock of Apple Inc., part of a ramping up that now has him owning Apple equity in the amount of more than $4 billion. ](/news/2014/01/28/carl-icahn-announces-he-has-purchased-another-bloc-of-the-stock-of-apple-inc-part-of-a-ramping-up-that-now-has-him-owning-apple-equity-in.md)
-_Context: Carl Icahn, Apple Inc._
+_Context: Apple Inc., Carl Icahn_
 
 ##### Poultry
 ### [Sales of live poultry are banned in eastern China after 19 people die from the strain this year. ](/news/2014/01/28/sales-of-live-poultry-are-banned-in-eastern-china-after-19-people-die-from-the-strain-this-year.md)
@@ -25,7 +25,7 @@ Prominent South African anti-apartheid activist Mamphela Ramphele is to be the p
 
 ##### Soldiers
 ### [Former Australian Army General Peter Cosgrove is named as the next Governor-General of Australia. ](/news/2014/01/28/former-australian-army-general-peter-cosgrove-is-named-as-the-next-governor-general-of-australia.md)
-_Context: Peter Cosgrove, soldiers, Governor-General of Australia_
+_Context: Peter Cosgrove, Governor-General of Australia, soldiers_
 
 ##### Bangkok
 ### [Thai protesters surround the venue of a cabinet meeting in Bangkok. ](/news/2014/01/28/thai-protesters-surround-the-venue-of-a-cabinet-meeting-in-bangkok.md)

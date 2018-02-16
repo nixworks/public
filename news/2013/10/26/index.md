@@ -3,7 +3,7 @@ Formats: [HTML](2013/10/26/index.html)  [JSON](2013/10/26/index.json)  [XML](201
 
 ## [2013-10-26](/news/2013/10/26/index.md)
 
-##### Afghanistan
+##### Afghan
 ### [A gunfight between Afghan and foreign soldiers on the outskirts of the capital Kabul, kills at least one Afghan serviceman and injures a number of other soldiers. ](/news/2013/10/26/a-gunfight-between-afghan-and-foreign-soldiers-on-the-outskirts-of-the-capital-kabul-kills-at-least-one-afghan-serviceman-and-injures-a-num.md)
 A gunfight broke out between Afghan and foreign soldiers on the outskirts of the capital Kabul on Saturday, killing at least one Afghan serviceman and injuring a number of other soldiers, according to Afghan and NATO officials.
 

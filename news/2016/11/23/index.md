@@ -9,7 +9,7 @@ Indian shelling across the frontier into Pakistani-controlled Kashmir hit a bus,
 
 ##### Economy of Brazil
 ### [The Brazilian Development Bank announces plans to repay up to $29 billion in loans to the Government of Brazil in order to stem a burgeoning deficit. ](/news/2016/11/23/the-brazilian-development-bank-announces-plans-to-repay-up-to-29-billion-in-loans-to-the-government-of-brazil-in-order-to-stem-a-burgeoning.md)
-_Context: Economy of Brazil, Government of Brazil, Brazilian Development Bank_
+_Context: Government of Brazil, Economy of Brazil, Brazilian Development Bank_
 
 ##### Peabody Energy
 ### [Peabody Energy says it plans to file a reorganization plan in the middle of December because recent increases in the price of coal have eased conflicts among its creditors. ](/news/2016/11/23/peabody-energy-says-it-plans-to-file-a-reorganization-plan-in-the-middle-of-december-because-recent-increases-in-the-price-of-coal-have-ease.md)
@@ -17,7 +17,7 @@ U.S. coal producer Peabody Energy Corp BTUUQ.PK said on Wednesday it is closer t
 
 ##### Iran-United States relations
 ### [Ayatollah Khamenei warns that Iran will retaliate if sanctions that breach the Nuclear Deal are approved. ](/news/2016/11/23/ayatollah-khamenei-warns-that-iran-will-retaliate-if-sanctions-that-breach-the-nuclear-deal-are-approved.md)
-_Context: Iran, Ayatollah Khamenei, Iran-United States relations, Joint Comprehensive Plan of Action_
+_Context: Ayatollah Khamenei, Iran-United States relations, Joint Comprehensive Plan of Action, Iran_
 
 ##### White supremacist
 ### [White supremacist Thomas Mair is found guilty of the murder of British Member of Parliament Jo Cox and is sentenced to life imprisonment with a whole life order. ](/news/2016/11/23/white-supremacist-thomas-mair-is-found-guilty-of-the-murder-of-british-member-of-parliament-jo-cox-and-is-sentenced-to-life-imprisonment-wit.md)
@@ -45,7 +45,7 @@ _Context: Politics of Spain, Supreme Court, Rita Barbera, Valencia_
 
 ##### USS Zumwalt
 ### [ The $4B USS Zumwalt, thought to be the U.S. Navy's most technologically advanced vessel to date, suffers a large engineering malfunction while crossing the Panama Canal. This is the craft's second major malfunction since its launch less than a month prior. ](/news/2016/11/23/the-4b-uss-zumwalt-thought-to-be-the-u-s-navy-s-most-technologically-advanced-vessel-to-date-suffers-a-large-engineering-malfunction-wh.md)
-_Context: Panama Canal, USS Zumwalt_
+_Context: USS Zumwalt, Panama Canal_
 
 ##### 
 ### [ Astronomers announce the discovery of a near 3000 cubic mile subterranean deposit of ice on Mars. Researchers claim it can easily be used as a sustainable resource for a manned mission to the red planet. ](/news/2016/11/23/astronomers-announce-the-discovery-of-a-near-3000-cubic-mile-subterranean-deposit-of-ice-on-mars-researchers-claim-it-can-easily-be-used-a.md)

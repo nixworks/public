@@ -17,15 +17,15 @@ Key ministers from the heavily criticised former government replaced while inter
 
 ##### Albania
 ### [Around 100,000 supporters of Albania's opposition Socialist Party pay silent tribute to three men shot dead at an anti-government protest a week ago. The Socialist supporters disperse calmly after a two-hour procession. ](/news/2011/01/28/around-100-000-supporters-of-albania-s-opposition-socialist-party-pay-silent-tribute-to-three-men-shot-dead-at-an-anti-government-protest-a.md)
-_Context: Socialist Party, Albania_
+_Context: Albania, Socialist Party_
 
 ##### Tear gas
 ### [Police fire tear gas at anti-government protesters in Gabon two days after opposition leader Andre Mba Obame declares himself president. ](/news/2011/01/28/police-fire-tear-gas-at-anti-government-protesters-in-gabon-two-days-after-opposition-leader-andra-c-mba-obame-declares-himself-president.md)
-_Context: Gabon, Andre Mba Obame, Independent, tear gas_
+_Context: tear gas, Independent, Gabon, Andre Mba Obame_
 
 ##### Modu Fannami Gubio
 ### [At least four people, including Modu Fannami Gubio, a former opposition All Nigeria Peoples Party (ANPP) candidate for governor in Borno, Nigeria, are shot dead in Maiduguri. ](/news/2011/01/28/at-least-four-people-including-modu-fannami-gubio-a-former-opposition-all-nigeria-peoples-party-anpp-candidate-for-governor-in-borno-ni.md)
-_Context: All Nigeria Peoples Party, Nigeria, Modu Fannami Gubio, Borno State, Maiduguri_
+_Context: Borno State, Nigeria, Modu Fannami Gubio, Maiduguri, All Nigeria Peoples Party_
 
 ##### West Bank
 ### [During a clash between Palestinians and Israeli settlers in the West Bank, an Israeli settler shoots and kills an 18-year-old Palestinian. ](/news/2011/01/28/during-a-clash-between-palestinians-and-israeli-settlers-in-the-west-bank-an-israeli-settler-shoots-and-kills-an-18-year-old-palestinian.md)
@@ -65,7 +65,7 @@ Nasa officials gather at Kennedy Space Center in Florida to mark the 25th annive
 
 ##### Lautan Teduh
 ### [At least 11 passengers of the Lautan Teduh ferry, which caught fire in the Sunda Strait, have been confirmed dead. The remains of nine of the passengers who died in the fire were taken to Krakatau Medika in Cilegon, while the other two were taken to Kalianda Hospital in Lampung. ](/news/2011/01/28/at-least-11-passengers-of-the-lautan-teduh-ferry-which-caught-fire-in-the-sunda-strait-have-been-confirmed-dead-the-remains-of-nine-of-th.md)
-_Context: Krakatau Medika, Sunda Strait, Kalianda Hospital, Lautan Teduh, Cilegon, Lampung_
+_Context: Cilegon, Lampung, Krakatau Medika, Kalianda Hospital, Lautan Teduh, Sunda Strait_
 
 ##### Jeddah
 ### [Flooding in Jeddah since the 26th kills 11 people, leaves three missing and destroys over 10,000 buildings, leading to protests in the city over poor infrastructure. ](/news/2011/01/28/flooding-in-jeddah-since-the-26th-kills-11-people-leaves-three-missing-and-destroys-over-10-000-buildings-leading-to-protests-in-the-city.md)
@@ -89,7 +89,7 @@ Fine Gael leader Enda Kenny has told the president of the European Commission Jo
 
 ##### Chinese police
 ### [Chinese authorities offer no response to requests by jailed dissident and Nobel peace laureate Liu Xiaobo for family visits. ](/news/2011/01/28/chinese-authorities-offer-no-response-to-requests-by-jailed-dissident-and-nobel-peace-laureate-liu-xiaobo-for-family-visits.md)
-_Context: Liu Xiaobo, dissident, Nobel Peace Prize, Chinese police_
+_Context: Nobel Peace Prize, Liu Xiaobo, Chinese police, dissident_
 
 ##### Lahore
 ### [A U.S. official appears in court charged with the murder of two motorcyclists shot dead in Lahore, Pakistan. He may be executed if found guilty. ](/news/2011/01/28/a-u-s-official-appears-in-court-charged-with-the-murder-of-two-motorcyclists-shot-dead-in-lahore-pakistan-he-may-be-executed-if-found-gui.md)
@@ -117,11 +117,11 @@ Taoiseach Brian Cowen has said he will seek to dissolve the Dáil next Tuesday a
 
 ##### North Korea
 ### [North Korean leader Kim Jong-il's eldest son Kim Jong-nam says his father opposed the hereditary transfer of power, but did so to ensure stability. ](/news/2011/01/28/north-korean-leader-kim-jong-il-s-eldest-son-kim-jong-nam-says-his-father-opposed-the-hereditary-transfer-of-power-but-did-so-to-ensure-sta.md)
-_Context: Kim Jong-nam, Kim Jong-il, North Korea_
+_Context: Kim Jong-il, Kim Jong-nam, North Korea_
 
 ##### Burma
 ### [Burma's highest court upholds the dissolution of Aung San Suu Kyi's National League for Democracy party. ](/news/2011/01/28/burma-s-highest-court-upholds-the-dissolution-of-aung-san-suu-kyi-s-national-league-for-democracy-party.md)
-_Context: Burma, Aung San Suu Kyi, National League for Democracy_
+_Context: Burma, National League for Democracy, Aung San Suu Kyi_
 
 ## [Previous Day...](/news/2011/01/27/index.md)
 

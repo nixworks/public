@@ -21,11 +21,11 @@ UnitedHealth Group, the health insurance company, will replace Kraft Foods in th
 
 ##### Indonesia
 ### [At least 21 passengers on board an Indonesian ferry that sank last night on the Mahakam River in East Kalimantan are missing and presumed dead. ](/news/2012/09/14/at-least-21-passengers-on-board-an-indonesian-ferry-that-sank-last-night-on-the-mahakam-river-in-east-kalimantan-are-missing-and-presumed-de.md)
-_Context: Indonesia, East Kalimantan, Mahakam River_
+_Context: Mahakam River, East Kalimantan, Indonesia_
 
 ##### Chinese Marine Surveillance
 ### [Six Chinese Marine Surveillance ships are reported near the disputed Senkaku Islands by the Japanese Coast Guard. China says "two surveillance ship fleets" are in the waters "around" the islands for "patrols and law enforcement". ](/news/2012/09/14/six-chinese-marine-surveillance-ships-are-reported-near-the-disputed-senkaku-islands-by-the-japanese-coast-guard-china-says-two-surveillan.md)
-_Context: Senkaku Islands, China, Japanese Coast Guard, Chinese Marine Surveillance_
+_Context: Japanese Coast Guard, Senkaku Islands, China, Chinese Marine Surveillance_
 
 ##### Pope
 ### [The Pope visits Lebanon. ](/news/2012/09/14/the-pope-visits-lebanon.md)
@@ -37,7 +37,7 @@ The United States accused Syria on Friday of using the &quot;brutal repression&q
 
 ##### HTV-3
 ### [HTV-3 detaches from the ISS for a burial in the Pacific Ocean. ATV 3 thrusts the ISS' orbit two kilometers up. TMA-04M will land on 17 September. ATV-003, named "Edoardo Amaldi", is planned to disconnect on September 25th and burn up itself and a load of trash in the atmosphere over the same ocean. ](/news/2012/09/14/htv-3-detaches-from-the-iss-for-a-burial-in-the-pacific-ocean-atv-3-thrusts-the-iss-orbit-two-kilometers-up-tma-04m-will-land-on-17-septe.md)
-_Context: ATV-3, South Pacific Ocean, Edoardo Amaldi, TMA, ISS, HTV-3_
+_Context: South Pacific Ocean, ISS, ATV-3, HTV-3, Edoardo Amaldi, TMA_
 
 ## [Previous Day...](/news/2012/09/13/index.md)
 

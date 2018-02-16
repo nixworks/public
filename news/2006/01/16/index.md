@@ -5,35 +5,35 @@ Formats: [HTML](2006/01/16/index.html)  [JSON](2006/01/16/index.json)  [XML](200
 
 ##### U.S. President
 ### [ Former United States President Gerald Ford is hospitalized with pneumonia. ](/news/2006/01/16/former-united-states-president-gerald-ford-is-hospitalized-with-pneumonia.md)
-_Context: pneumonia, Gerald Ford, U.S. President_
+_Context: Gerald Ford, U.S. President, pneumonia_
 
 ##### Rizgar Mohammed Amin
 ### [ Rizgar Mohammed Amin, the chief judge in the Saddam Hussein trial, tenders his resignation, following criticism of his handling of the trial. ](/news/2006/01/16/rizgar-mohammed-amin-the-chief-judge-in-the-saddam-hussein-trial-tenders-his-resignation-following-criticism-of-his-handling-of-the-tria.md)
-_Context: Trials of Saddam Hussein, Rizgar Mohammed Amin, Saddam Hussein_
+_Context: Saddam Hussein, Rizgar Mohammed Amin, Trials of Saddam Hussein_
 
 ##### United Nations
 ### [ The United Nations appeals for US$240 million of food aid for West Africa to feed at least 10 million people affected by the food crisis, with Niger being the worst-affected country. ](/news/2006/01/16/the-united-nations-appeals-for-us-240-million-of-food-aid-for-west-africa-to-feed-at-least-10-million-people-affected-by-the-food-crisis-w.md)
-_Context: West Africa, United Nations, Niger_
+_Context: West Africa, Niger, United Nations_
 
 ##### Dockworker
 ### [ A dockworkers' strike in Europe has thousands of workers off the job in protest over proposed liberalization of European Union rules on port services. A demonstration outside the European Parliament in Strasbourg leaves twelve French police officers injured. ](/news/2006/01/16/a-dockworkers-strike-in-europe-has-thousands-of-workers-off-the-job-in-protest-over-proposed-liberalization-of-european-union-rules-on-por.md)
-_Context: Strasbourg, European Parliament, strike, European Union, dockworker_
+_Context: Strasbourg, European Union, European Parliament, dockworker, strike_
 
 ##### U.S. Vice President
 ### [ Former US Vice President Al Gore blasts President George W. Bush's policy of spying on American citizen conversations with suspected overseas terrorists, saying President Bush "repeatedly and persistently" broke the law in connection with the NSA warrantless surveillance controversy, says the United States Constitution is in danger. ](/news/2006/01/16/former-us-vice-president-al-gore-blasts-president-george-w-bush-s-policy-of-spying-on-american-citizen-conversations-with-suspected-overse.md)
-_Context: Al Gore, warrantless wiretapping, U.S. President, George W. Bush, United States Constitution, U.S. Vice President_
+_Context: Al Gore, United States Constitution, U.S. President, U.S. Vice President, warrantless wiretapping, George W. Bush_
 
 ##### Premier
 ### [ The Premier of Western Australia, Geoff Gallop, resigns his office after announcing he is suffering from depression. ](/news/2006/01/16/the-premier-of-western-australia-geoff-gallop-resigns-his-office-after-announcing-he-is-suffering-from-depression.md)
-_Context: depression, Geoff Gallop, Premier_
+_Context: Premier, Geoff Gallop, depression_
 
-##### Afghanistan
+##### Afghan
 ### [ At least 27 people are killed in two suicide bombings in Afghanistan. ](/news/2006/01/16/at-least-27-people-are-killed-in-two-suicide-bombings-in-afghanistan.md)
-_Context: Afghanistan_
+_Context: Afghan_
 
 ##### Ellen Johnson Sirleaf
 ### [ Ellen Johnson Sirleaf is sworn in as Liberia's new president. She becomes Africa's first female elected head of state. ](/news/2006/01/16/ellen-johnson-sirleaf-is-sworn-in-as-liberia-s-new-president-she-becomes-africa-s-first-female-elected-head-of-state.md)
-_Context: Ellen Johnson Sirleaf, Liberia, president_
+_Context: Liberia, president, Ellen Johnson Sirleaf_
 
 ##### Vladivostok
 ### [ Nine people die after jumping from a burning eight-story office building in the Russian city of Vladivostok amid allegations of blocked emergency exits and fire code violations. ](/news/2006/01/16/nine-people-die-after-jumping-from-a-burning-eight-story-office-building-in-the-russian-city-of-vladivostok-amid-allegations-of-blocked-eme.md)

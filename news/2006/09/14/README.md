@@ -9,7 +9,7 @@ _Context: CIA_
 
 ##### United States House of Representatives
 ### [ U.S. Representative Bob Ney (R-Ohio) has agreed to plead guilty to federal criminal charges related to his dealings with the lobbyist Jack Abramoff according to lawyers and others with knowledge of the investigation. ](/news/2006/09/14/u-s-representative-bob-ney-r-ohio-has-agreed-to-plead-guilty-to-federal-criminal-charges-related-to-his-dealings-with-the-lobbyist-jack.md)
-_Context: United States House of Representatives, Ohio, Jack Abramoff, Bob Ney, Republican_
+_Context: Republican, Bob Ney, Ohio, United States House of Representatives, Jack Abramoff_
 
 ##### IAEA
 ### [ The International Atomic Energy Agency call a United States House of Representatives committee report on Iran's nuclear capabilities "outrageous and dishonest." ](/news/2006/09/14/the-international-atomic-energy-agency-call-a-united-states-house-of-representatives-committee-report-on-iran-s-nuclear-capabilities-outra.md)
@@ -25,15 +25,15 @@ The U.A.W. agreed on a program to offer buyouts of up to $140,000 to all of Ford
 
 ##### Amnesty International
 ### [ Amnesty International accuses Hezbollah of war crimes, in its deliberate targeting of civilians in Israel during the recent Israel-Lebanon conflict. ](/news/2006/09/14/amnesty-international-accuses-hezbollah-of-war-crimes-in-its-deliberate-targeting-of-civilians-in-israel-during-the-recent-israel-lebanon.md)
-_Context: Hezbollah, targeting of civilians, Israel, war crime, Amnesty International, war_
+_Context: Israel, war, Hezbollah, targeting of civilians, war crime, Amnesty International_
 
 ##### Mahon Airport
 ### [ A partial roof collapse occurred in part of the Mahon Airport terminal building in Menorca, Spain while undergoing renovations-construction work. The collapse may have been caused by a build-up of heavy rain water. The debris temporarily trapped 20 and injured three workers ](/news/2006/09/14/a-partial-roof-collapse-occurred-in-part-of-the-mahon-airport-terminal-building-in-menorca-spain-while-undergoing-renovations-construction.md)
-_Context: Spain, Menorca, Mahon Airport_
+_Context: Menorca, Mahon Airport, Spain_
 
 ##### African Union
 ### [ The African Union has endorsed an IGAD peacekeeping operation in Somalia, to be known as IGASOM. ](/news/2006/09/14/the-african-union-has-endorsed-an-igad-peacekeeping-operation-in-somalia-to-be-known-as-igasom.md)
-_Context: peacekeeping, African Union, IGASOM, IGAD, Somalia_
+_Context: peacekeeping, African Union, Somalia, IGAD, IGASOM_
 
 ## [Previous Day...](/news/2006/09/13/index.md)
 

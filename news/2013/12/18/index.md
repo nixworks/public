@@ -13,7 +13,7 @@ Chinese film star Zhang Ziyi wins damages from a US-based website that published
 
 ##### Gay and bisexual men
 ### [LGBT sportspeople, such as tennis player Billie Jean King and ice hockey player Caitlin Cahow, are to represent the United States in Sochi as a protest against the treatment of LGBT people in Russia. ](/news/2013/12/18/lgbt-sportspeople-such-as-tennis-player-billie-jean-king-and-ice-hockey-player-caitlin-cahow-are-to-represent-the-united-states-in-sochi-a.md)
-_Context: Caitlin Cahow, Russia, Billie Jean King, gay and bisexual men, United States, LGBT rights in Russia, Sochi_
+_Context: Russia, LGBT rights in Russia, Billie Jean King, Sochi, Caitlin Cahow, gay and bisexual men, United States_
 
 ##### China
 ### [China launches a crackdown against the internet currency BitCoin, plunging its value by 35%. ](/news/2013/12/18/china-launches-a-crackdown-against-the-internet-currency-bitcoin-plunging-its-value-by-35.md)
@@ -29,11 +29,11 @@ _Context: United Nations_
 
 ##### Bolotnaya square case
 ### [Bolotnaya square case prisoners, Pussy Riot and Greenpeace activists are likely to be freed after the Duma votes in favor of a law giving them amnesty. ](/news/2013/12/18/bolotnaya-square-case-prisoners-pussy-riot-and-greenpeace-activists-are-likely-to-be-freed-after-the-duma-votes-in-favor-of-a-law-giving-th.md)
-_Context: Greenpeace India's, Duma, Bolotnaya square case, Pussy Riot_
+_Context: Duma, Bolotnaya square case, Greenpeace India's, Pussy Riot_
 
 ##### Singapore
 ### [Singapore announces that it will deport 53 foreign workers for their December 8 involvement in the country's worst riot in more than 40 years. ](/news/2013/12/18/singapore-announces-that-it-will-deport-53-foreign-workers-for-their-december-8-involvement-in-the-country-s-worst-riot-in-more-than-40-year.md)
-_Context: Singapore, foreign workers_
+_Context: foreign workers, Singapore_
 
 ##### British
 ### [British criminal Ronnie Biggs, best known for his role in the Great Train Robbery and escape from Wandsworth Prison, dies in the North London suburb of East Barnet. ](/news/2013/12/18/british-criminal-ronnie-biggs-best-known-for-his-role-in-the-great-train-robbery-and-escape-from-wandsworth-prison-dies-in-the-north-londo.md)

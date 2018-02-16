@@ -19,13 +19,13 @@ _Context: Boko Haram_
 ### [Israeli-Palestinian clashes subside as a truce between Israel and Palestinians militants in the Gaza Strip comes into effect. ](/news/2012/03/13/israeli-palestinian-clashes-subside-as-a-truce-between-israel-and-palestinians-militants-in-the-gaza-strip-comes-into-effect.md)
 A truce mediated by Egypt has been agreed between Israel and Palestinian militants in Gaza after four days of deadly clashes.
 
-##### Afghanistan
+##### Afghan
 ### [Students in Afghanistan hold protests in response to the Kandahar massacre by a member of the United States Army. ](/news/2012/03/13/students-in-afghanistan-hold-protests-in-response-to-the-kandahar-massacre-by-a-member-of-the-united-states-army.md)
 Gunmen in Afghanistan have launched an attack on a government delegation at a memorial service for 16 villagers who were killed by a US soldier.
 
 ##### Encyclopaedia Britannica
 ### ["Encyclopaedia Britannica", the oldest encyclopedia still in print in the English language, announces that it will no longer be producing printed versions but continuing online editions. ](/news/2012/03/13/encyclopaedia-britannica-the-oldest-encyclopedia-still-in-print-in-the-english-language-announces-that-it-will-no-longer-be-producing-pr.md)
-_Context: English, Encyclopaedia Britannica, encyclopedia_
+_Context: Encyclopaedia Britannica, English, encyclopedia_
 
 ##### Interviews Before Execution
 ### ["Interviews Before Execution", a Chinese television talk show that interviews death row inmates shortly before they are executed, is reportedly cancelled as a result of a BBC documentary on the programme which has attracted international attention. ](/news/2012/03/13/interviews-before-execution-a-chinese-television-talk-show-that-interviews-death-row-inmates-shortly-before-they-are-executed-is-reporte.md)
@@ -65,7 +65,7 @@ Rebekah Brooks and her husband are among six people who have been arrested this 
 
 ##### Australian Foreign Minister
 ### [Minister for Foreign Affairs Bob Carr is sworn in as a member of the Senate of Australia, replacing Mark Arbib, representing New South Wales.](/news/2012/03/13/minister-for-foreign-affairs-bob-carr-is-sworn-in-as-a-member-of-the-senate-of-australia-replacing-mark-arbib-representing-new-south-wales.md)
-_Context: Senate of Australia, NSW, Australian Foreign Minister, Mark Arbib, Bob Carr_
+_Context: NSW, Australian Foreign Minister, Senate of Australia, Bob Carr, Mark Arbib_
 
 ##### Alabama
 ### [Voters in the US states of Alabama and Mississippi head to the polls for primaries with Rick Santorum winning in both states. ](/news/2012/03/13/voters-in-the-us-states-of-alabama-and-mississippi-head-to-the-polls-for-primaries-with-rick-santorum-winning-in-both-states.md)

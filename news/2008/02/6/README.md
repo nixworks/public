@@ -13,11 +13,11 @@ Senate Republicans on Wednesday blocked a Democratic-backed $157 billion economi
 
 ##### Turkey
 ### [ The Turkish freighter ship "UND Adriyatik" catches fire off Croatia. ](/news/2008/02/6/the-turkish-freighter-ship-und-adriyatik-catches-fire-off-croatia.md)
-_Context: Croatia, Turkey, UND Adriyatik_
+_Context: Turkey, UND Adriyatik, Croatia_
 
 ##### President of Italy
 ### [ President of Italy Giorgio Napolitano dismisses the parliament; the cabinet sets early elections for 13 and 14 April. ](/news/2008/02/6/president-of-italy-giorgio-napolitano-dismisses-the-parliament-the-cabinet-sets-early-elections-for-13-and-14-april.md)
-_Context: re-elected, President of Italy, 14 April, 13, Giorgio Napolitano, parliament_
+_Context: parliament, President of Italy, re-elected, Giorgio Napolitano, 13, 14 April_
 
 ##### Centers for Disease Control
 ### [ The United States Centers for Disease Control says that an infected mother can transmit HIV to her baby via pre-chewed food. ](/news/2008/02/6/the-united-states-centers-for-disease-control-says-that-an-infected-mother-can-transmit-hiv-to-her-baby-via-pre-chewed-food.md)

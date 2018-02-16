@@ -25,15 +25,15 @@ High tides and strong winds lead to flooding in Wales and south-west England as 
 
 ##### Department of Health
 ### [The Philippine Department of Health declares a measles outbreak in Metro Manila. ](/news/2014/01/3/the-philippine-department-of-health-declares-a-measles-outbreak-in-metro-manila.md)
-_Context: Department of Health, measles, Metro Manila_
+_Context: measles, Department of Health, Metro Manila_
 
 ##### Its recognition
 ### [Paraguay announces withdrawal of its recognition of the Sahrawi Republic. ](/news/2014/01/3/paraguay-announces-withdrawal-of-its-recognition-of-the-sahrawi-republic.md)
-_Context: Sahrawi Republic, its recognition_
+_Context: its recognition, Sahrawi Republic_
 
 ##### El Chino Antrax
 ### [Authorities confirm the arrest of El Chino Antrax, a high-ranking Sinaloa Cartel leader, in the Netherlands. ](/news/2014/01/3/authorities-confirm-the-arrest-of-el-chino-antrax-a-high-ranking-sinaloa-cartel-leader-in-the-netherlands.md)
-_Context: El Chino Antrax, Sinaloa Cartel_
+_Context: Sinaloa Cartel, El Chino Antrax_
 
 ## [Previous Day...](/news/2014/01/2/index.md)
 

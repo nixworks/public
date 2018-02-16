@@ -5,19 +5,19 @@ Formats: [HTML](2013/05/18/index.html)  [JSON](2013/05/18/index.json)  [XML](201
 
 ##### Iraqi Police
 ### [Gunmen break into the home of an anti-terrorism police officer in the Baghdad suburbs, killing him and his family. ](/news/2013/05/18/gunmen-break-into-the-home-of-an-anti-terrorism-police-officer-in-the-baghdad-suburbs-killing-him-and-his-family.md)
-_Context: Iraqi Police, Baghdad_
+_Context: Baghdad, Iraqi Police_
 
 ##### Zahra Shahid Hussain
 ### [Zahra Shahid Hussain, a senior vice-president of Imran Khan's Pakistan Tehreek-e-Insaf Party is shot dead by a gunman outside her home in Karachi. ](/news/2013/05/18/zahra-shahid-hussain-a-senior-vice-president-of-imran-khan-s-pakistan-tehreek-e-insaf-party-is-shot-dead-by-a-gunman-outside-her-home-in-ka.md)
-_Context: Karachi, Imran Khan, Zahra Shahid Hussain, Pakistan Tehreek-e-Insaf_
+_Context: Imran Khan, Karachi, Pakistan Tehreek-e-Insaf, Zahra Shahid Hussain_
 
 ##### Emmelie de Forest
 ### [Emmelie de Forest of Denmark wins the 2013 Eurovision Song Contest with the song "Only Teardrops". ](/news/2013/05/18/emmelie-de-forest-of-denmark-wins-the-2013-eurovision-song-contest-with-the-song-only-teardrops.md)
-_Context: 2013, Eurovision Song Contest, Denmark, Only Teardrops, Emmelie de Forest_
+_Context: Eurovision Song Contest, Only Teardrops, Denmark, Emmelie de Forest, 2013_
 
 ##### Powerball
 ### [A winner is found for a record $590 million Powerball jackpot with the winning ticket sold at an agent in Zephyrhills, Florida. ](/news/2013/05/18/a-winner-is-found-for-a-record-590-million-powerball-jackpot-with-the-winning-ticket-sold-at-an-agent-in-zephyrhills-florida.md)
-_Context: Powerball, the state, jackpot, Zephyrhills_
+_Context: jackpot, Powerball, Florida, Zephyrhills_
 
 ##### Rome, Italy
 ### [One hundred thousand people march in Rome, the capital of Italy, to protest the austerity measures of the new government, demanding a new policy focus on the creation of jobs. ](/news/2013/05/18/one-hundred-thousand-people-march-in-rome-the-capital-of-italy-to-protest-the-austerity-measures-of-the-new-government-demanding-a-new-po.md)

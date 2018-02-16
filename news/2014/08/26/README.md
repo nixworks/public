@@ -13,7 +13,7 @@ Four others injured; sides agree to open Gaza crossings for aid and building sup
 
 ##### Car bomb
 ### [A car bomb explodes in a mainly Shi'ite section of Baghdad, killing at least eight people and wounding 20. ](/news/2014/08/26/a-car-bomb-explodes-in-a-mainly-shi-ite-section-of-baghdad-killing-at-least-eight-people-and-wounding-20.md)
-_Context: car bomb, Baghdad, Shi'ite_
+_Context: Shi'ite, car bomb, Baghdad_
 
 ##### Taiwan
 ### [Taiwan scrambles fighter jets to intercept two Chinese military aircraft that breached Taiwanese airspace. ](/news/2014/08/26/taiwan-scrambles-fighter-jets-to-intercept-two-chinese-military-aircraft-that-breached-taiwanese-airspace.md)
@@ -25,11 +25,11 @@ _Context: London, Hammersmith Apollo, Kate Bush_
 
 ##### Fast food
 ### [Fast food giant Burger King agrees to acquire Canadian coffee giant Tim Hortons for $11.4 billion and move its headquarters to Canada. ](/news/2014/08/26/fast-food-giant-burger-king-agrees-to-acquire-canadian-coffee-giant-tim-hortons-for-11-4-billion-and-move-its-headquarters-to-canada.md)
-_Context: Fast food, Tim Hortons, Burger King, Canadian, Canadian, corporate tax inversions_
+_Context: Tim Hortons, corporate tax inversions, Canadian, Fast food, Burger King, Canadian_
 
 ##### Russian President
 ### [The President of Russia Vladimir Putin meets with the President of Ukraine Petro Poroshenko in Minsk, Belarus, as disputes in eastern Ukraine continue. ](/news/2014/08/26/the-president-of-russia-vladimir-putin-meets-with-the-president-of-ukraine-petro-poroshenko-in-minsk-belarus-as-disputes-in-eastern-ukrain.md)
-_Context: Minsk, Russian President, Ukraine, Petro Poroshenko, Belarus, Vladimir Putin, Ukrainian President_
+_Context: Petro Poroshenko, Minsk, Russian President, Ukraine, Ukrainian President, Belarus, Vladimir Putin_
 
 ##### Brazil
 ### [At least 5 people die in a prison riot in the Brazilian city of Cascavel. ](/news/2014/08/26/at-least-5-people-die-in-a-prison-riot-in-the-brazilian-city-of-cascavel.md)
@@ -49,11 +49,11 @@ China’s anti-graft watchdog said it’s investigating two top officials in the
 
 ##### Klaus Wowereit
 ### [Klaus Wowereit makes it official that he will resign as the mayor of Berlin on 11 December, after having held the post for nearly 14 years, making him Germany's current longest-serving head of a state government. ](/news/2014/08/26/klaus-wowereit-makes-it-official-that-he-will-resign-as-the-mayor-of-berlin-on-11-december-after-having-held-the-post-for-nearly-14-years.md)
-_Context: Klaus Wowereit, mayor of Berlin, German_
+_Context: Klaus Wowereit, German, mayor of Berlin_
 
 ##### Michael Spindelegger
 ### [Michael Spindelegger resigns as vice-chancellor and finance minister of Austria; as leader of the Austrian People's Party, he is replaced by Reinhold Mitterlehner. ](/news/2014/08/26/michael-spindelegger-resigns-as-vice-chancellor-and-finance-minister-of-austria-as-leader-of-the-austrian-people-s-party-he-is-replaced-by.md)
-_Context: vice-chancellor, Austria, Michael Spindelegger, finance minister, Reinhold Mitterlehner, Austrian People's Party_
+_Context: Austria, finance minister, Austrian People's Party, Michael Spindelegger, vice-chancellor, Reinhold Mitterlehner_
 
 ## [Previous Day...](/news/2014/08/25/index.md)
 

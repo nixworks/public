@@ -5,19 +5,19 @@ Formats: [HTML](2008/12/31/index.html)  [JSON](2008/12/31/index.json)  [XML](200
 
 ##### Bomb
 ### [ Several bombs and further threats by a disgruntled resident lead police to evacuate downtown Aspen, Colorado, United States. ](/news/2008/12/31/several-bombs-and-further-threats-by-a-disgruntled-resident-lead-police-to-evacuate-downtown-aspen-colorado-united-states.md)
-_Context: Colorado, United States, bomb, Aspen_
+_Context: Aspen, United States, Colorado, bomb_
 
 ##### Israel
 ### [ Israel rejects a proposed stoppage of Operation Cast Lead that would also have ceased rocket attacks from Hamas so humanitarian aid could be delivered to affected areas in the Gaza Strip. ](/news/2008/12/31/israel-rejects-a-proposed-stoppage-of-operation-cast-lead-that-would-also-have-ceased-rocket-attacks-from-hamas-so-humanitarian-aid-could-b.md)
-_Context: humanitarian aid, Hamas, fire, Gaza Strip, truce, Israel_
+_Context: Hamas, fire, Israel, Gaza Strip, truce, humanitarian aid_
 
 ##### Car bomb
 ### [ A car bomb explodes in Bilbao, Spain, and is blamed on Euskadi Ta Askatasuna, a Basque nationalist and separatist organisation. ](/news/2008/12/31/a-car-bomb-explodes-in-bilbao-spain-and-is-blamed-on-euskadi-ta-askatasuna-a-basque-nationalist-and-separatist-organisation.md)
-_Context: Bilbao, car bomb, ETA, Spain, Basque separatist, separatist_
+_Context: car bomb, Basque separatist, ETA, Spain, separatist, Bilbao_
 
 ##### Dinosaur
 ### [ One of the world's biggest accumulations of dinosaur fossils is found near Zhucheng, China. ](/news/2008/12/31/one-of-the-world-s-biggest-accumulations-of-dinosaur-fossils-is-found-near-zhucheng-china.md)
-_Context: Zhucheng, China, fossil, found, dinosaur_
+_Context: fossil, Zhucheng, China, dinosaur, found_
 
 ## [Previous Day...](/news/2008/12/30/index.md)
 

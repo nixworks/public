@@ -35,7 +35,7 @@ Portugal becomes the third eurozone country to request financial aid from the Eu
 
 ##### Fukushima I Nuclear Power Plant
 ### [Workers at the Fukushima I Nuclear Power Plant manage to plug radiation leaks. ](/news/2011/04/6/workers-at-the-fukushima-i-nuclear-power-plant-manage-to-plug-radiation-leaks.md)
-_Context: Fukushima I Nuclear Power Plant, Fukushima I nuclear accidents_
+_Context: Fukushima I nuclear accidents, Fukushima I Nuclear Power Plant_
 
 ##### Yesterday's fatal boat disaster
 ### [At least 200 African migrants are missing after a boat capsizes off Italy. 20 bodies recovered. ](/news/2011/04/6/at-least-200-african-migrants-are-missing-after-a-boat-capsizes-off-italy-20-bodies-recovered.md)
@@ -59,11 +59,11 @@ Minister for Justice Alan Shatter has sought to reassure victims of sexual abuse
 
 ##### Jeff Skilling
 ### [Jeff Skilling, former CEO of Enron, loses his appeal against his conviction for fraud in the United States Court of Appeals for the Fifth Circuit. ](/news/2011/04/6/jeff-skilling-former-ceo-of-enron-loses-his-appeal-against-his-conviction-for-fraud-in-the-united-states-court-of-appeals-for-the-fifth-ci.md)
-_Context: Enron, 5th Circuit Court of Appeals, Jeff Skilling_
+_Context: Jeff Skilling, Enron, 5th Circuit Court of Appeals_
 
 ##### Mexican
 ### [More than forty bodies are found in a mass grave in Mexico's Tamaulipas state. ](/news/2011/04/6/more-than-forty-bodies-are-found-in-a-mass-grave-in-mexico-s-tamaulipas-state.md)
-_Context: Mexican, Tamaulipas_
+_Context: Tamaulipas, Mexican_
 
 ##### United States Senate
 ### [The United States Senate defeated a measure that would have banned the Environmental Protection Agency from regulating greenhouse gas emissions under the Clean Air Act (United States). The new regulations which began being applied early this year affect air polluters such as power plants and oil refineries, attempts to address climate change mitigation. ](/news/2011/04/6/the-united-states-senate-defeated-a-measure-that-would-have-banned-the-environmental-protection-agency-from-regulating-greenhouse-gas-emissi.md)
@@ -71,7 +71,7 @@ Efforts to curtail the environmental agency’s programs are not likely to end: 
 
 ##### China
 ### [The Chinese state-run "Global Times" newspaper dismisses international criticism over the arrest of artist Ai Weiwei. ](/news/2011/04/6/the-chinese-state-run-global-times-newspaper-dismisses-international-criticism-over-the-arrest-of-artist-ai-weiwei.md)
-_Context: Ai Weiwei, state media, Global Times, China_
+_Context: Global Times, China, state media, Ai Weiwei_
 
 ## [Previous Day...](/news/2011/04/5/index.md)
 

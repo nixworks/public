@@ -13,7 +13,7 @@ Surprise move follows data showing economic dip amid new fears of deepening glob
 
 ##### Buk missile system
 ### [Debris from a Buk surface-to-air missile is found at an unspecified location in eastern Ukraine. According to the Dutch Safety Board and the Dutch prosecutor overseeing the criminal investigation, it may have come from a Buk (possibly of Russian origin) fired by rebel fighters, accidentally or purposefully, in the downing of Malaysia Airlines Flight 17. The investigation remains classified. ](/news/2015/08/11/debris-from-a-buk-surface-to-air-missile-is-found-at-an-unspecified-location-in-eastern-ukraine-according-to-the-dutch-safety-board-and-the.md)
-_Context: Malaysia Airlines Flight 17, Buk missile system, Ukraine_
+_Context: Ukraine, Buk missile system, Malaysia Airlines Flight 17_
 
 ##### Heatwave
 ### [A heatwave in Egypt has killed at least 42 people. ](/news/2015/08/11/a-heatwave-in-egypt-has-killed-at-least-42-people.md)
@@ -25,11 +25,11 @@ Flooding in Argentina which burst riverbanks and deluged city streets killed thr
 
 ##### Japan
 ### [Japan's Sendai Nuclear Power Plant in Satsumasendai in Kagoshima Prefecture on Kyushu restarts reactor no. 1. This is the first of 50-plus shut-down nuclear reactors to go back online since the 2011 Fukushima Daiichi nuclear disaster. The problems discovered in the reactor model after the disaster have not been fixed. ](/news/2015/08/11/japan-s-sendai-nuclear-power-plant-in-satsumasendai-in-kagoshima-prefecture-on-kyushu-restarts-reactor-no-1-this-is-the-first-of-50-plus-s.md)
-_Context: Kagoshima Prefecture, 50-plus shut-down nuclear reactors to go back online since the 2011, Kyushu, Sendai Nuclear Power Plant, Fukushima Daiichi nuclear disaster, Satsumasendai, Japan_
+_Context: Sendai Nuclear Power Plant, Japan, Kagoshima Prefecture, 50-plus shut-down nuclear reactors to go back online since the 2011, Kyushu, Satsumasendai, Fukushima Daiichi nuclear disaster_
 
 ##### Syrian Civil War
 ### [In talks held regarding the course of the Syrian Civil War, Russia and Saudi Arabia fail to reach agreement over cooperation in the fight against ISIL, with the Saudi representative refusing any common struggle with Assad's regime. ](/news/2015/08/11/in-talks-held-regarding-the-course-of-the-syrian-civil-war-russia-and-saudi-arabia-fail-to-reach-agreement-over-cooperation-in-the-fight-ag.md)
-_Context: Syrian Civil War, Russia, Bashar al-Assad, ISIL, Saudi Arabia_
+_Context: Russia, Bashar al-Assad, Syrian Civil War, ISIL, Saudi Arabia_
 
 #####  Georgian
 ### [Georgia accuses Russia of cutting off its citizens from their farmland by installing border signposts demarcating the breakaway South Ossetia region, calling on Moscow to refrain from "escalation". ](/news/2015/08/11/georgia-accuses-russia-of-cutting-off-its-citizens-from-their-farmland-by-installing-border-signposts-demarcating-the-breakaway-south-osseti.md)
@@ -41,7 +41,7 @@ _Context: Puyallup, Washington_
 
 ##### Iraq's parliament
 ### [The Parliament of Iraq approves a package of measures proposed by Prime Minister Haider al-Abadi to tackle corruption and to abolish senior posts. ](/news/2015/08/11/the-parliament-of-iraq-approves-a-package-of-measures-proposed-by-prime-minister-haider-al-abadi-to-tackle-corruption-and-to-abolish-senior.md)
-_Context: Iraq Prime Minister, Iraq's parliament, Haider al-Abadi_
+_Context: Iraq Prime Minister, Haider al-Abadi, Iraq's parliament_
 
 ## [Previous Day...](/news/2015/08/10/index.md)
 

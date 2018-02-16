@@ -29,7 +29,7 @@ _Context: Salgar, 2015 Colombian landslide, Colombia_
 
 ##### Germanwings Flight 9525
 ### [French prosecutors say the passengers onboard the Germanwings flight that crashed in southern France have all been identified, and their bodies can be returned home to their families. ](/news/2015/05/19/french-prosecutors-say-the-passengers-onboard-the-germanwings-flight-that-crashed-in-southern-france-have-all-been-identified-and-their-bod.md)
-_Context: France, Germanwings Flight 9525, French-born_
+_Context: Germanwings Flight 9525, France, French-born_
 
 ##### Baku
 ### [ At least 16 people are killed and scores are injured in a residential building fire in Baku, Azerbaijan. ](/news/2015/05/19/at-least-16-people-are-killed-and-scores-are-injured-in-a-residential-building-fire-in-baku-azerbaijan.md)
@@ -57,7 +57,7 @@ Mohawk Industries Inc and fiveother companies have agreed to pay a combined $275
 
 ##### Presidents
 ### [The President of Burundi Pierre Nkurunziza says that the government will proceed with a presidential election despite protests and a recent failed coup. ](/news/2015/05/19/the-president-of-burundi-pierre-nkurunziza-says-that-the-government-will-proceed-with-a-presidential-election-despite-protests-and-a-recent.md)
-_Context: Pierre Nkurunziza, Burundian presidential election, 2015, failed coup, 2015 Burundian unrest, Presidents_
+_Context: failed coup, 2015 Burundian unrest, Burundian presidential election, 2015, Presidents, Pierre Nkurunziza_
 
 ##### Congress
 ### [The United States Congress sends a human trafficking bill to President Barack Obama for signature. ](/news/2015/05/19/the-united-states-congress-sends-a-human-trafficking-bill-to-president-barack-obama-for-signature.md)

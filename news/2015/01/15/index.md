@@ -25,11 +25,11 @@ The World Bank said yesterday the Philippines can eliminate poverty within a gen
 
 ##### Francs
 ### [The Swiss franc to euro exchange rate jumps by 30% immediately following a Swiss National Bank announcement. The bank will abandon its three-year-old cap on the swiss franc's value against the euro as well as lower the interest rate on sight deposits (instant access accounts) to -0.75% (the negative number meaning that the depositor has to pay the bank 0.75% per year to hold the depositor's money). ](/news/2015/01/15/the-swiss-franc-to-euro-exchange-rate-jumps-by-30-immediately-following-a-swiss-national-bank-announcement-the-bank-will-abandon-its-three.md)
-_Context: Swiss National Bank, euro, francs_
+_Context: francs, Swiss National Bank, euro_
 
 ##### Target Corporation
 ### [Target will close all of its 133 stores in Canada and put Target Canada into bankruptcy. ](/news/2015/01/15/target-will-close-all-of-its-133-stores-in-canada-and-put-target-canada-into-bankruptcy.md)
-_Context: Target Canada, Target Corporation, Canadian_
+_Context: Canadian, Target Canada, Target Corporation_
 
 ##### RadioShack Corp
 ### [Electronics retailer RadioShack Corp will file for bankruptcy protection by next month. ](/news/2015/01/15/electronics-retailer-radioshack-corp-will-file-for-bankruptcy-protection-by-next-month.md)

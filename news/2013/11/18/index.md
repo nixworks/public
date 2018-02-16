@@ -13,7 +13,7 @@ _Context: Tacloban, his predecessor, President_
 
 ##### Egypt
 ### [At least twenty people are dead after an Egyptian train collides with a minibus and other vehicles south of Cairo. ](/news/2013/11/18/at-least-twenty-people-are-dead-after-an-egyptian-train-collides-with-a-minibus-and-other-vehicles-south-of-cairo.md)
-_Context: Cairo, Egypt, minibus_
+_Context: minibus, Egypt, Cairo_
 
 ##### Mounts Merapi
 ### [Mounts Merapi and Sinabung erupt in Indonesia forcing residents of Central Java and North Sumatra to flee. ](/news/2013/11/18/mounts-merapi-and-sinabung-erupt-in-indonesia-forcing-residents-of-central-java-and-north-sumatra-to-flee.md)

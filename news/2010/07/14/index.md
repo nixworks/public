@@ -17,11 +17,11 @@ More than 60 people are taken to hospital after a suspected chlorine gas leak in
 
 ##### United States
 ### [The United States discusses the arrest of Bradley Manning, accused of providing secret information about US military corruption to Wikileaks. ](/news/2010/07/14/the-united-states-discusses-the-arrest-of-bradley-manning-accused-of-providing-secret-information-about-us-military-corruption-to-wikileaks.md)
-_Context: arrest of Bradley Manning, Wikileaks, United States_
+_Context: Wikileaks, arrest of Bradley Manning, United States_
 
 ##### India
 ### [India's Home Secretary G. K. Pillai states Pakistan's intelligence agency Inter-Services Intelligence (ISI) co-ordinated the 2008 Mumbai attacks. ](/news/2010/07/14/india-s-home-secretary-g-k-pillai-states-pakistan-s-intelligence-agency-inter-services-intelligence-isi-co-ordinated-the-2008-mumbai-att.md)
-_Context: Pakistan, Inter-Services Intelligence, 2008 Mumbai attacks, G. K. Pillai, India_
+_Context: Pakistan, G. K. Pillai, India, Inter-Services Intelligence, 2008 Mumbai attacks_
 
 ##### Balochistan
 ### [Former Balochistan senator Habib Jalib is shot dead outside his home in Quetta, leading to riots and widespread mourning. ](/news/2010/07/14/former-balochistan-senator-habib-jalib-is-shot-dead-outside-his-home-in-quetta-leading-to-riots-and-widespread-mourning.md)
@@ -37,11 +37,11 @@ Prosecutors say Romanian singer Madalina Manole, who was found dead Wednesday mo
 
 ##### The Zutons
 ### [The Zutons frontman Dave McCabe denies breaking a man's nose by headbutting him outside a nightclub in Liverpool. ](/news/2010/07/14/the-zutons-frontman-dave-mccabe-denies-breaking-a-man-s-nose-by-headbutting-him-outside-a-nightclub-in-liverpool.md)
-_Context: The Zutons, Dave McCabe, Liverpool, headbutt_
+_Context: Dave McCabe, Liverpool, headbutt, The Zutons_
 
 ##### Kodachrome
 ### [ It is announced that the last roll of Kodachrome manufactured has been developed for photographer Steve McCurry. ](/news/2010/07/14/it-is-announced-that-the-last-roll-of-kodachrome-manufactured-has-been-developed-for-photographer-steve-mccurry.md)
-_Context: Kodachrome, Steve McCurry_
+_Context: Steve McCurry, Kodachrome_
 
 ##### Ryanair
 ### [Airline Ryanair is reprimanded by the UK's Advertising Standards Authority for misleading customers with their advertisements for low fares. ](/news/2010/07/14/airline-ryanair-is-reprimanded-by-the-uk-s-advertising-standards-authority-for-misleading-customers-with-their-advertisements-for-low-fares.md)
@@ -53,7 +53,7 @@ Group of more than 30 reporters to demand compensation from Israeli government.
 
 ##### Guantanamo Bay
 ### [Previously secret papers released as a result of civil proceedings brought by six former Guantanamo Bay inmates against MI5 and MI6, the Home Office, the Foreign Office, and the Attorney General's Office reveal the British government was involved in the abduction and torture of its own citizens following the September 11 attacks. ](/news/2010/07/14/previously-secret-papers-released-as-a-result-of-civil-proceedings-brought-by-six-former-guanta-namo-bay-inmates-against-mi5-and-mi6-the-ho.md)
-_Context: MI5, MI6, Guantanamo Bay, September 11 attacks_
+_Context: September 11 attacks, MI5, Guantanamo Bay, MI6_
 
 ##### Same-sex marriage
 ### [Tens of thousands take part in a church-sponsored demonstration against same-sex marriage outside Congress in Buenos Aires, as senators prepare to vote on a bill which would make Argentina the first South American country to legalize same-sex marriage. ](/news/2010/07/14/tens-of-thousands-take-part-in-a-church-sponsored-demonstration-against-same-sex-marriage-outside-congress-in-buenos-aires-as-senators-prep.md)
@@ -73,7 +73,7 @@ A former MI6 worker says he was &quot;directed by voices&quot; after admitting c
 
 ##### Bulgarian Prime Minister
 ### [Former Prime Minister of Bulgaria Sergei Stanishev is charged with mishandling classified documents: he calls the charges "politically motivated". ](/news/2010/07/14/former-prime-minister-of-bulgaria-sergei-stanishev-is-charged-with-mishandling-classified-documents-he-calls-the-charges-politically-motiv.md)
-_Context: Sergei Stanishev, Bulgarian Prime Minister_
+_Context: Bulgarian Prime Minister, Sergei Stanishev_
 
 ##### Colombia
 ### [Former Colombian politician and hostage Ingrid Betancourt drops her lawsuit against the state. ](/news/2010/07/14/former-colombian-politician-and-hostage-angrid-betancourt-drops-her-lawsuit-against-the-state.md)
@@ -97,7 +97,7 @@ Police have found 48kg of cannabis in Launceston and charged two men in one of t
 
 ##### Cuba
 ### [Two more Cuban dissidents arrive in Spain out of the 52 political prisoners due to be released on humanitarian grounds. ](/news/2010/07/14/two-more-cuban-dissidents-arrive-in-spain-out-of-the-52-political-prisoners-due-to-be-released-on-humanitarian-grounds.md)
-_Context: Spain, Cuba_
+_Context: Cuba, Spain_
 
 ##### United Nations
 ### [The United Nations, European Union and United States express their opposition to the demolition of six more Palestinian homes by Israel. ](/news/2010/07/14/the-united-nations-european-union-and-united-states-express-their-opposition-to-the-demolition-of-six-more-palestinian-homes-by-israel.md)
@@ -105,7 +105,7 @@ Israeli bulldozing of Palestinian property comes week after US pushes peace talk
 
 ##### Sri Lanka
 ### [The Sri Lankan cabinet meets in Kilinochchi, the former capital of the Tamil Tigers in the far north of the island. ](/news/2010/07/14/the-sri-lankan-cabinet-meets-in-kilinochchi-the-former-capital-of-the-tamil-tigers-in-the-far-north-of-the-island.md)
-_Context: Kilinochchi, Tamil Tigers, Sri Lanka_
+_Context: Tamil Tigers, Kilinochchi, Sri Lanka_
 
 ##### Fianna Fail
 ### [Irish Fianna Fail Senator Ivor Callely is suspended for 20 days without pay due to a travel expenses scandal. ](/news/2010/07/14/irish-fianna-fa-il-senator-ivor-callely-is-suspended-for-20-days-without-pay-due-to-a-travel-expenses-scandal.md)
@@ -113,7 +113,7 @@ The Seanad has agreed without a vote to suspend Senator Callely for 20 days with
 
 ##### India
 ### [Indian Foreign Minister S. M. Krishna goes to Islamabad for talks with his counterpart of Pakistan, Shah Mehmood Qureshi, for the first time since the 2008 Mumbai attacks. ](/news/2010/07/14/indian-foreign-minister-s-m-krishna-goes-to-islamabad-for-talks-with-his-counterpart-of-pakistan-shah-mehmood-qureshi-for-the-first-time.md)
-_Context: Shah Mehmood Qureshi, Pakistan, SM Krishna, India, 2008 Mumbai attacks, Islamabad_
+_Context: 2008 Mumbai attacks, India, SM Krishna, Shah Mehmood Qureshi, Pakistan, Islamabad_
 
 ##### Chancellor
 ### [Chancellor of Germany Angela Merkel and nearly half her cabinet begin a five-day visit to Russia, China and Kazakhstan as part of an attempt to boost trade, energy and security links. ](/news/2010/07/14/chancellor-of-germany-angela-merkel-and-nearly-half-her-cabinet-begin-a-five-day-visit-to-russia-china-and-kazakhstan-as-part-of-an-attempt.md)
@@ -121,7 +121,7 @@ Angela Merkel starts a five-day visit to Russia, China and Kazakhstan, in a bid 
 
 ##### Beijing
 ### [Beijing authorities begin to gate and lock some lower-income villages, imposing curfews in order to control the flow of migrant workers. ](/news/2010/07/14/beijing-authorities-begin-to-gate-and-lock-some-lower-income-villages-imposing-curfews-in-order-to-control-the-flow-of-migrant-workers.md)
-_Context: curfew, Beijing, migrant worker_
+_Context: migrant worker, Beijing, curfew_
 
 ##### Bastille Day
 ### [A controversial Bastille Day parade gets underway in Paris. ](/news/2010/07/14/a-controversial-bastille-day-parade-gets-underway-in-paris.md)
@@ -149,7 +149,7 @@ Red Bull New York signed French forward Thierry Henry to a multi-year contract a
 
 ##### UK Athletics
 ### [UK Athletics (UKA) requests changes to Britain's tax laws after sprinter Usain Bolt declines to appear at a meeting in London for financial reasons. ](/news/2010/07/14/uk-athletics-uka-requests-changes-to-britain-s-tax-laws-after-sprinter-usain-bolt-declines-to-appear-at-a-meeting-in-london-for-financial.md)
-_Context: Usain Bolt, London, UK Athletics_
+_Context: London, Usain Bolt, UK Athletics_
 
 ## [Previous Day...](/news/2010/07/13/index.md)
 

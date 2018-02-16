@@ -13,7 +13,7 @@ Malian troops backed by U.N. helicopters stormed a U.N. police base in the city 
 
 ##### War in Somalia
 ### [al Shabaab militants claim to have captured the port of Merca (Marka) after African Union and Somali Armed Forces withdraw. ](/news/2016/02/5/al-shabaab-militants-claim-to-have-captured-the-port-of-merca-marka-after-african-union-and-somali-armed-forces-withdraw.md)
-_Context: Al-Shabaab, Merca, War in Somalia, Somali military, African Union_
+_Context: Merca, African Union, Al-Shabaab, War in Somalia, Somali military_
 
 ##### Libyan Civil War (2014-present)
 ### [Clashes between local tribal forces and Sudanese fighters in Libya's southeastern Cyrenaica region around the town of Kufra leaves around 30 dead. ](/news/2016/02/5/clashes-between-local-tribal-forces-and-sudanese-fighters-in-libya-s-southeastern-cyrenaica-region-around-the-town-of-kufra-leaves-around-30.md)
@@ -57,11 +57,11 @@ A man is shot dead at a Dublin boxing weigh-in, in a suspected gangland attack b
 
 ##### Wei Hong
 ### [Wei Hong is removed as the Governor of China's Sichuan province due to perceived disloyalty to the Communist Party. ](/news/2016/02/5/wei-hong-is-removed-as-the-governor-of-china-s-sichuan-province-due-to-perceived-disloyalty-to-the-communist-party.md)
-_Context: Sichuan, Wei Hong, Communist Party of China, China_
+_Context: China, Communist Party of China, Sichuan, Wei Hong_
 
 ##### New Hampshire
 ### [White supremacists in the U.S. state of New Hampshire create a super PAC to support U.S. presidential candidate Donald Trump's presidential campaign. ](/news/2016/02/5/white-supremacists-in-the-u-s-state-of-new-hampshire-create-a-super-pac-to-support-u-s-presidential-candidate-donald-trump-s-presidential.md)
-_Context: Donald Trump, super PAC, New Hampshire_
+_Context: super PAC, New Hampshire, Donald Trump_
 
 ## [Previous Day...](/news/2016/02/4/index.md)
 

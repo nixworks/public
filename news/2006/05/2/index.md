@@ -13,15 +13,15 @@ _Context: German, Iraq_
 
 ##### Italian Prime Minister
 ### [ Italian Prime Minister Silvio Berlusconi officially hands in his resignation to President Carlo Azeglio Ciampi. Berlusconi was defeated by Romano Prodi in the April 9-10 elections, but Ciampi has asked him to remain in office, "for the handling of current affairs". ](/news/2006/05/2/italian-prime-minister-silvio-berlusconi-officially-hands-in-his-resignation-to-president-carlo-azeglio-ciampi-berlusconi-was-defeated-by.md)
-_Context: President, Silvio Berlusconi, Carlo Azeglio Ciampi, April 9-10 elections, Italian Prime Minister, Romano Prodi_
+_Context: Italian Prime Minister, President, Silvio Berlusconi, Romano Prodi, April 9-10 elections, Carlo Azeglio Ciampi_
 
 ##### President of Bolivia
 ### [ Newly elected President Evo Morales orders the nationalization of Bolivia's gas industry. This process is a result of his plan to nationalize major industries, he said in his election campaign. Further nationalizations are planned in forestry and mining. ](/news/2006/05/2/newly-elected-president-evo-morales-orders-the-nationalization-of-bolivia-s-gas-industry-this-process-is-a-result-of-his-plan-to-nationali.md)
-_Context: mine, gas, Evo Morales, President of Bolivia, nationalization, forestry, Bolivian Gas War, Bolivia_
+_Context: Bolivian Gas War, mine, forestry, nationalization, President of Bolivia, Bolivia, gas, Evo Morales_
 
 ##### Edvard Munch
 ### [ The thieves of the famous Edvard Munch paintings "The Scream "and "Madonna" are sentenced to four and eight years in prison. ](/news/2006/05/2/the-thieves-of-the-famous-edvard-munch-paintings-the-scream-and-madonna-are-sentenced-to-four-and-eight-years-in-prison.md)
-_Context: Edvard Munch, The Scream, ''Madonna''_
+_Context: ''Madonna'', The Scream, Edvard Munch_
 
 ## [Previous Day...](/news/2006/05/1/index.md)
 

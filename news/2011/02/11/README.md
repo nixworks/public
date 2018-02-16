@@ -25,7 +25,7 @@ The Agriculture Department said on Friday it has deregulated a variety of corn g
 
 ##### Copenhagen
 ### [A road in Copenhagen, Denmark has been proposed a new name after former US president Ronald Reagan. ](/news/2011/02/11/a-road-in-copenhagen-denmark-has-been-proposed-a-new-name-after-former-us-president-ronald-reagan.md)
-_Context: Denmark, Copenhagen, Ronald Reagan_
+_Context: Copenhagen, Ronald Reagan, Denmark_
 
 ##### Yesterday's plane crash
 ### [The first investigation into yesterday's plane crash at Cork Airport is expected within a month; the airport remains closed today. ](/news/2011/02/11/the-first-investigation-into-yesterday-s-plane-crash-at-cork-airport-is-expected-within-a-month-the-airport-remains-closed-today.md)
@@ -45,7 +45,7 @@ In a dramatic and poignant sign of a state nearing collapse, North Korea has ask
 
 ##### McAfee
 ### [Computer security company McAfee says hackers based in the People's Republic of China have targeted computer networks of global oil companies and individuals in Kazakhstan, Taiwan, Greece, and the United States, to steal information starting in 2009. ](/news/2011/02/11/computer-security-company-mcafee-says-hackers-based-in-the-people-s-republic-of-china-have-targeted-computer-networks-of-global-oil-companie.md)
-_Context: McAfee, China, attack, Kazakhstan, United States, Greece, hackers, oil companies, Taiwan_
+_Context: China, attack, Taiwan, United States, Greece, oil companies, Kazakhstan, McAfee, hackers_
 
 ##### President of Liberia
 ### [Former President of Liberia Charles Taylor's trial in The Hague is extended. ](/news/2011/02/11/former-president-of-liberia-charles-taylor-s-trial-in-the-hague-is-extended.md)

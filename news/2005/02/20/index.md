@@ -5,7 +5,7 @@ Formats: [HTML](2005/02/20/index.html)  [JSON](2005/02/20/index.json)  [XML](200
 
 ##### Hunter S. Thompson
 ### [ American author and journalist Hunter S. Thompson is found dead in his Aspen, Colorado home, the result of an apparent suicide. ](/news/2005/02/20/american-author-and-journalist-hunter-s-thompson-is-found-dead-in-his-aspen-colorado-home-the-result-of-an-apparent-suicide.md)
-_Context: Hunter S. Thompson, Aspen, suicide_
+_Context: Aspen, suicide, Hunter S. Thompson_
 
 ##### Taiwan Strait
 ### [ The United States and Japan release a joint statement which says that easing tensions in the Taiwan Strait is among their "common strategic objectives". The statement is welcomed by the government of Taiwan, but is condemned by China. ](/news/2005/02/20/the-united-states-and-japan-release-a-joint-statement-which-says-that-easing-tensions-in-the-taiwan-strait-is-among-their-common-strategic.md)
@@ -13,11 +13,11 @@ _Context: Taiwan Strait, Taiwan_
 
 ##### United Nations High Commissioner for Refugees
 ### [ U.N. High Commissioner for Refugees Ruud Lubbers resigns over allegations of sexual harassment, while continuing to deny them. ](/news/2005/02/20/u-n-high-commissioner-for-refugees-ruud-lubbers-resigns-over-allegations-of-sexual-harassment-while-continuing-to-deny-them.md)
-_Context: sexual harassment, Ruud Lubbers, United Nations High Commissioner for Refugees_
+_Context: Ruud Lubbers, sexual harassment, United Nations High Commissioner for Refugees_
 
 ##### Referendum
 ### [ In Europe's first national referendum on the proposed European Constitution, the people of Spain vote to endorse the Treaty by a landslide 76.73% to 17.24%. However, turnout is an extremely low 42.32%, even after both the government and the main opposition party campaigned for a "yes" vote. ](/news/2005/02/20/in-europe-s-first-national-referendum-on-the-proposed-european-constitution-the-people-of-spain-vote-to-endorse-the-treaty-by-a-landslide.md)
-_Context: referendum, European constitution_
+_Context: European constitution, referendum_
 
 ##### Minister for Justice and Equality
 ### [ Irish Minister for Justice, Equality and Law Reform Michael McDowell directly accuses Sinn Fein leader Gerry Adams as well as Martin McGuinness (both elected MPs) and Martin Ferris TD of being on the IRA Army Council, the first such direct accusation from the Irish Government. Irish Prime Minister Bertie Ahern meanwhile has said he does not know the make-up of the Council. ](/news/2005/02/20/irish-minister-for-justice-equality-and-law-reform-michael-mcdowell-directly-accuses-sinn-fa-c-in-leader-gerry-adams-as-well-as-martin-mcgui.md)
@@ -29,11 +29,11 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### TRNC
 ### [ The Turkish Republic of Northern Cyprus votes in its early general election. The election was called by President Rauf Denktas after the coalition led by Mehmet Ali Talat finally lost its parliamentary majority. ](/news/2005/02/20/the-turkish-republic-of-northern-cyprus-votes-in-its-early-general-election-the-election-was-called-by-president-rauf-denktaa-after-the-c.md)
-_Context: TRNC, Mehmet Ali Talat, general election, Rauf Denktas_
+_Context: TRNC, general election, Rauf Denktas, Mehmet Ali Talat_
 
 ##### European Union
 ### [ The US and EU join the protests against Faure Gnassingbe of Togo. The Economic Community of West African States (ECOWAS) imposes sanctions and suspends Togo's membership in the organization and US does not accept his rule as legitimate and ends all military assistance ](/news/2005/02/20/the-us-and-eu-join-the-protests-against-faure-gnassingba-c-of-togo-the-economic-community-of-west-african-states-ecowas-imposes-sanctions.md)
-_Context: Togo, European Union, ECOWAS, protests against Faure Gnassingbe_
+_Context: protests against Faure Gnassingbe, ECOWAS, European Union, Togo_
 
 ## [Previous Day...](/news/2005/02/19/index.md)
 

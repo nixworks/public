@@ -9,11 +9,11 @@ _Context: Somalia_
 
 ##### North Korea
 ### [North Korea launches apparent artillery drills as South Korean and American military officials hold talks. ](/news/2010/12/8/north-korea-launches-apparent-artillery-drills-as-south-korean-and-american-military-officials-hold-talks.md)
-_Context: South Korea, United States, North Korea_
+_Context: North Korea, South Korea, United States_
 
 ##### Kohat
 ### [At least 18 people are killed during a bomb at a bus terminal in Kohat's main bazaar kills in Pakistan. ](/news/2010/12/8/at-least-18-people-are-killed-during-a-bomb-at-a-bus-terminal-in-kohat-s-main-bazaar-kills-in-pakistan.md)
-_Context: Kohat, bazaar, Pakistan_
+_Context: Kohat, Pakistan, bazaar_
 
 ##### John Lennon
 ### [John Lennon is celebrated on the 30th anniversary of his murder. ](/news/2010/12/8/john-lennon-is-celebrated-on-the-30th-anniversary-of-his-murder.md)
@@ -37,7 +37,7 @@ Rescue officials say at least a third of the 30 retrieved bodies are children.
 
 ##### Fire breaks out
 ### [83 prisoners die as a fire breaks out in a prison in Santiago, Chile. ](/news/2010/12/8/83-prisoners-die-as-a-fire-breaks-out-in-a-prison-in-santiago-chile.md)
-_Context: Santiago, fire breaks out, Chile_
+_Context: fire breaks out, Chile, Santiago_
 
 ##### Coal mine
 ### [26 people are confirmed dead after a gas explosion at a coal mine in Henan Province in central China. ](/news/2010/12/8/26-people-are-confirmed-dead-after-a-gas-explosion-at-a-coal-mine-in-henan-province-in-central-china.md)
@@ -61,11 +61,11 @@ Websites of Mastercard, a Swiss bank and Swedish prosecutor shut down in respons
 
 ##### Palestinian Authority
 ### [Palestinian leader Mahmoud Abbas says Middle East peace talks are in crisis following Israel's refusal to stop building in settlements. ](/news/2010/12/8/palestinian-leader-mahmoud-abbas-says-middle-east-peace-talks-are-in-crisis-following-israel-s-refusal-to-stop-building-in-settlements.md)
-_Context: Mahmoud Abbas, Palestinian Authority, Israel, Israeli settlement, resume negotiations_
+_Context: resume negotiations, Israeli settlement, Palestinian Authority, Mahmoud Abbas, Israel_
 
 ##### Liberia
 ### [Liberian President Ellen Johnson Sirleaf warns former rebel fighters not to get involved in the crisis in Cote d'Ivoire. ](/news/2010/12/8/liberian-president-ellen-johnson-sirleaf-warns-former-rebel-fighters-not-to-get-involved-in-the-crisis-in-ca-te-d-ivoire.md)
-_Context: Cote d'Ivoire, Liberia, Ellen Johnson Sirleaf_
+_Context: Liberia, Cote d'Ivoire, Ellen Johnson Sirleaf_
 
 ##### Dick Cheney
 ### [Former U.S. vice-president Dick Cheney is charged over a bribery scheme involving oil services company Halliburton by Nigeria's anti-corruption agency. The charges relate to when he was the company's top executive. ](/news/2010/12/8/former-u-s-vice-president-dick-cheney-is-charged-over-a-bribery-scheme-involving-oil-services-company-halliburton-by-nigeria-s-anti-corrupt.md)
@@ -77,7 +77,7 @@ Moscow football fans block a key city artery in protest at a killing which has p
 
 ##### Tony Blair
 ### [Tony Blair is recalled to give further evidence before the Iraq Inquiry after "gaps" concerning the legality of the Iraq War are identified in his evidence. Jack Straw and Lord Goldsmith are to return too. ](/news/2010/12/8/tony-blair-is-recalled-to-give-further-evidence-before-the-iraq-inquiry-after-gaps-concerning-the-legality-of-the-iraq-war-are-identified.md)
-_Context: Jack Straw, Lord Goldsmith, Tony Blair, Iraq Inquiry, Iraq War_
+_Context: Tony Blair, Jack Straw, Iraq Inquiry, Iraq War, Lord Goldsmith_
 
 ##### ICC
 ### [The International Criminal Court is to begin a preliminary investigation into war crimes by North Korea. ](/news/2010/12/8/the-international-criminal-court-is-to-begin-a-preliminary-investigation-into-war-crimes-by-north-korea.md)

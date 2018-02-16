@@ -9,7 +9,7 @@ Anchor and network reach tentative agreement for undisclosed new role
 
 ##### United States Secretary of the Treasury
 ### [U.S. Treasury Secretary Jack Lew announces that the Treasury will supplement Alexander Hamilton's depiction on the U.S. ten-dollar bill with that of a woman, the identity of which is to be chosen after public debate. ](/news/2015/06/17/u-s-treasury-secretary-jack-lew-announces-that-the-treasury-will-supplement-alexander-hamilton-s-depiction-on-the-u-s-ten-dollar-bill-with.md)
-_Context: United States Secretary of the Treasury, United States Treasury Department, Jack Lew, Alexander Hamilton, U.S. ten-dollar bill_
+_Context: Alexander Hamilton, United States Secretary of the Treasury, United States Treasury Department, Jack Lew, U.S. ten-dollar bill_
 
 ##### United States
 ### [In the United States, the California Labor Commission ruled that a San Francisco Uber driver is a company employee, not a contractor. Uber is appealing this ruling, that would increase the company's costs and liabilities, to the state's court system. A hearing for a class certification of a similar lawsuit against Uber is scheduled for August 2015. ](/news/2015/06/17/in-the-united-states-the-california-labor-commission-ruled-that-a-san-francisco-uber-driver-is-a-company-employee-not-a-contractor-uber-i.md)
@@ -33,7 +33,7 @@ The 21-year-old white man suspected of shooting dead nine people at a black chur
 
 ##### Kimberly-Clark Corporation
 ### [ A California model, Lauren Wasser, files a lawsuit against Kimberly-Clark Corporation for toxic shock syndrome, which resulted in losing her right leg, allegedly caused by the product, Kotex Natural Balance. ](/news/2015/06/17/a-california-model-lauren-wasser-files-a-lawsuit-against-kimberly-clark-corporation-for-toxic-shock-syndrome-which-resulted-in-losing-he.md)
-_Context: Kimberly-Clark Corporation, toxic shock syndrome, Kotex_
+_Context: Kotex, toxic shock syndrome, Kimberly-Clark Corporation_
 
 ##### Hong Kong Legislative Council
 ### [Protesters gather outside the Hong Kong Legislative Council ahead of a contentious vote on election of the Chief Executive of Hong Kong. ](/news/2015/06/17/protesters-gather-outside-the-hong-kong-legislative-council-ahead-of-a-contentious-vote-on-election-of-the-chief-executive-of-hong-kong.md)

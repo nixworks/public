@@ -5,7 +5,7 @@ Formats: [HTML](2010/06/11/index.html)  [JSON](2010/06/11/index.json)  [XML](201
 
 ##### Academy Award
 ### [From Oscar-winning blockbusters to low-budget art-house and documentary films, the 13th Shanghai International Film Festival screens films for everyone. It will feature a retrospective of films by Woody Allen and John Woo, classic movies from Japan, Canada, Germany, Italy and Ireland, as well as new Chinese cinema. ](/news/2010/06/11/from-oscar-winning-blockbusters-to-low-budget-art-house-and-documentary-films-the-13th-shanghai-international-film-festival-screens-films-f.md)
-_Context: Canadian, Academy Award, Ireland, Chinese cinema, Italy, Japan, John Woo, 13th, German, Woody Allen, Shanghai International Film Festival_
+_Context: Canadian, Chinese cinema, Italy, 13th, Woody Allen, Ireland, Academy Award, John Woo, German, Shanghai International Film Festival, Japan_
 
 ##### Osh
 ### [Riots erupt in the southern city of Osh killing at least 45, and injuring over a hundred others. The violence comes just over two months after violent riots in Bishkek toppled Kurmanbek Bakiyev's government, and only days ahead of a critical constitutional referendum. ](/news/2010/06/11/riots-erupt-in-the-southern-city-of-osh-killing-at-least-45-and-injuring-over-a-hundred-others-the-violence-comes-just-over-two-months-aft.md)
@@ -13,11 +13,11 @@ Thousands flee homes in southern region as ethnic unrest leaves more than 600 wo
 
 ##### Univision's
 ### [Univision airs video footage of the U.S. agent who fatally shot a Mexican boy on Monday. ](/news/2010/06/11/univision-airs-video-footage-of-the-u-s-agent-who-fatally-shot-a-mexican-boy-on-monday.md)
-_Context: Univision's, Mexican, United States_
+_Context: Mexican, Univision's, United States_
 
 ##### Japan
 ### [Japanese Prime Minister Naoto Kan warns that the nation's economy is on "brink of collapse". ](/news/2010/06/11/japanese-prime-minister-naoto-kan-warns-that-the-nation-s-economy-is-on-brink-of-collapse.md)
-_Context: Japan, Naoto Kan, Prime Minister of Japan_
+_Context: Naoto Kan, Prime Minister of Japan, Japan_
 
 ##### Francois Bazaramba
 ### [Francois Bazaramba is sentenced to life imprisonment for his part in the 1994 Rwandan Genocide in Porvoo, Finland's first genocide trial. ](/news/2010/06/11/franassois-bazaramba-is-sentenced-to-life-imprisonment-for-his-part-in-the-1994-rwandan-genocide-in-porvoo-finland-s-first-genocide-trial.md)
@@ -35,7 +35,7 @@ Gun attacks in two Mexican cities leave at least 39 people dead, police say.
 ### [At least 20 people die during flash floods of the Little Missouri River through a campground in the Ouachita Mountains near Caddo Gap, Arkansas, west of Little Rock, Arkansas in the United States. ](/news/2010/06/11/at-least-20-people-die-during-flash-floods-of-the-little-missouri-river-through-a-campground-in-the-ouachita-mountains-near-caddo-gap-arkan.md)
 Search crews recovered 18 bodies and were hunting for others on Saturday along a 10-mile stretch of river after a flash flood swept through a popular Arkansas campground on Friday, rescue officials said.
 
-##### Afghanistan
+##### Afghan
 ### [At least 11 civilians and two US soldiers are killed in southern Afghanistan: 9 of the civilian deaths are in a roadside bomb on a minibus in Kandahar. ](/news/2010/06/11/at-least-11-civilians-and-two-us-soldiers-are-killed-in-southern-afghanistan-9-of-the-civilian-deaths-are-in-a-roadside-bomb-on-a-minibus-i.md)
 Thirteen people die in explosions as fighters step up attacks in southern Afghanistan.
 

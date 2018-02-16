@@ -9,7 +9,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### France
 ### [France announces it will increase the number of its soldiers deployed in the Central African Republic as sectarian violence worsens. ](/news/2014/02/14/france-announces-it-will-increase-the-number-of-its-soldiers-deployed-in-the-central-african-republic-as-sectarian-violence-worsens.md)
-_Context: sectarian violence, Central African Republic, France_
+_Context: Central African Republic, sectarian violence, France_
 
 ##### India
 ### [India and Penguin books ban the book "The Hindus: An Alternative History" by Wendy Doniger for "blasphemy". ](/news/2014/02/14/india-and-penguin-books-ban-the-book-the-hindus-an-alternative-history-by-wendy-doniger-for-blasphemy.md)
@@ -17,7 +17,7 @@ Major writers including Arundhati Roy and Neil Gaiman condemn &#x27;egregious&#x
 
 ##### Oscar Pistorius
 ### [Oscar Pistorius posts a message apologizing for his role in the killing of Reeva Steenkamp. ](/news/2014/02/14/oscar-pistorius-posts-a-message-apologizing-for-his-role-in-the-killing-of-reeva-steenkamp.md)
-_Context: Reeva Steenkamp, Oscar Pistorius_
+_Context: Oscar Pistorius, Reeva Steenkamp_
 
 ##### Winter storms
 ### [Winter storms will return to the United Kingdom with flood warnings in place for parts of Gloucestershire, Berkshire, Surrey and Somerset. ](/news/2014/02/14/winter-storms-will-return-to-the-united-kingdom-with-flood-warnings-in-place-for-parts-of-gloucestershire-berkshire-surrey-and-somerset.md)
@@ -29,19 +29,19 @@ A storm unleashes a second wave of snowfall on the US north-east, after it cut p
 
 ##### Mount Kelud
 ### [The eruption of Mount Kelud on the island of Java causes the closure of airports in three cities Surabaya, Yogyakarta and Solo as well as the reported death of two people. ](/news/2014/02/14/the-eruption-of-mount-kelud-on-the-island-of-java-causes-the-closure-of-airports-in-three-cities-surabaya-yogyakarta-and-solo-as-well-as-th.md)
-_Context: Java, Yogyakarta, Mount Kelud, Surabaya, Solo_
+_Context: Mount Kelud, Yogyakarta, Java, Solo, Surabaya_
 
 ##### Zetas
 ### [The United States Department of the Treasury sanctions the wife of Los Zetas former leader Miguel Trevino Morales under the Kingpin Act. ](/news/2014/02/14/the-united-states-department-of-the-treasury-sanctions-the-wife-of-los-zetas-former-leader-miguel-trevia-o-morales-under-the-kingpin-act.md)
-_Context: Zetas, Kingpin Act, Miguel Trevino Morales_
+_Context: Zetas, Miguel Trevino Morales, Kingpin Act_
 
 ##### Government of Thailand
 ### [The government of Thailand deploys thousands of riot police to reclaim areas of Bangkok currently occupied by protesters. ](/news/2014/02/14/the-government-of-thailand-deploys-thousands-of-riot-police-to-reclaim-areas-of-bangkok-currently-occupied-by-protesters.md)
-_Context: Bangkok, government of Thailand_
+_Context: government of Thailand, Bangkok_
 
 ##### Italian Prime Minister
 ### [Italian Prime Minister Enrico Letta resigns after less than a year in office, following pressure from his own Democratic Party to step down. ](/news/2014/02/14/italian-prime-minister-enrico-letta-resigns-after-less-than-a-year-in-office-following-pressure-from-his-own-democratic-party-to-step-down.md)
-_Context: Italian Prime Minister, Democratic Party, Enrico Letta_
+_Context: Enrico Letta, Democratic Party, Italian Prime Minister_
 
 ## [Previous Day...](/news/2014/02/13/index.md)
 

@@ -33,7 +33,7 @@ The collapsed section raised new doubts about the quality of work and training o
 
 ##### Avalanche
 ### [Over 45 people are trapped by avalanches in the remote Afghan villages of Poshan and Ghadoor in Nuristan province. ](/news/2012/03/12/over-45-people-are-trapped-by-avalanches-in-the-remote-afghan-villages-of-poshan-and-ghadoor-in-nuristan-province.md)
-_Context: avalanche, Poshan, Nuristan province, Afghanistan, Ghadoor_
+_Context: Nuristan province, Poshan, Ghadoor, Afghan, avalanche_
 
 ##### US Census Bureau headquarters
 ### [United States Census Bureau has estimated the world population up to 7 billion people. ](/news/2012/03/12/united-states-census-bureau-has-estimated-the-world-population-up-to-7-billion-people.md)
@@ -45,7 +45,7 @@ Afghanistan&#039;s Taliban insurgents today vowed revenge against &quot;sick min
 
 ##### Belgium
 ### [Belgium asks the International Court of Justice to order Senegal to put former Chadian President Hissne Habr on trial or to extradite him on charges of torture and crimes against humanity. ](/news/2012/03/12/belgium-asks-the-international-court-of-justice-to-order-senegal-to-put-former-chadian-president-hissene-habre-on-trial-or-to-extradite-him.md)
-_Context: International Court of Justice, Hissne Habr, Chad, Belgium, crimes against humanity, Chadian President, Senegal_
+_Context: Chad, International Court of Justice, Senegal, Chadian President, Hissne Habr, Belgium, crimes against humanity_
 
 ##### Human Rights Council
 ### [A scuffle breaks out at the United Nations Human Rights Council after a North Korean diplomat said a U.N. report on the human rights situation in the country had been "fabricated". ](/news/2012/03/12/a-scuffle-breaks-out-at-the-united-nations-human-rights-council-after-a-north-korean-diplomat-said-a-u-n-report-on-the-human-rights-situati.md)

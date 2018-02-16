@@ -17,7 +17,7 @@ _Context: Greece_
 
 ##### Nigeria
 ### [ Nigerian MPs ask the government to investigate the status of Chinese citizens living in the country, after allegations that Nigerians in China have been mistreated. ](/news/2009/09/25/nigerian-mps-ask-the-government-to-investigate-the-status-of-chinese-citizens-living-in-the-country-after-allegations-that-nigerians-in-ch.md)
-_Context: Nigeria, China_
+_Context: China, Nigeria_
 
 ##### Israel
 ### [ The trial of former Israeli Prime Minister Ehud Olmert on corruption charges begins in Jerusalem. He is the first ever Israeli Prime Minister to be brought to trial. ](/news/2009/09/25/the-trial-of-former-israeli-prime-minister-ehud-olmert-on-corruption-charges-begins-in-jerusalem-he-is-the-first-ever-israeli-prime-minist.md)
@@ -29,7 +29,7 @@ The US President said he preferred diplomacy in dealing with Iran over its nucle
 
 ##### Prime Minister
 ### [ Lawyers for the former Prime Minister of France, Dominique de Villepin, say they will sue President Nicolas Sarkozy for having called him "guilty" of the "Clearstream" affair and violating the principle of presumption of innocence. ](/news/2009/09/25/lawyers-for-the-former-prime-minister-of-france-dominique-de-villepin-say-they-will-sue-president-nicolas-sarkozy-for-having-called-him.md)
-_Context: Prime Minister, Nicolas Sarkozy, presumption of innocence, French President, Clearstream, Dominique de Villepin_
+_Context: French President, Dominique de Villepin, Nicolas Sarkozy, Clearstream, Prime Minister, presumption of innocence_
 
 ##### Santo Andr
 ### [ At least two people are killed and fifteen injured in a blast at a fireworks shop in Santo Andr, Greater So Paulo, Brazil. ](/news/2009/09/25/at-least-two-people-are-killed-and-fifteen-injured-in-a-blast-at-a-fireworks-shop-in-santo-andre-greater-sao-paulo-brazil.md)
@@ -37,7 +37,7 @@ _Context: Santo Andr, Greater So Paulo, Brazil_
 
 ##### Birmingham
 ### [ Hundreds of people queue in Birmingham, United Kingdom, to see part of the Staffordshire hoard. ](/news/2009/09/25/hundreds-of-people-queue-in-birmingham-united-kingdom-to-see-part-of-the-staffordshire-hoard.md)
-_Context: United Kingdom, Birmingham, Staffordshire hoard_
+_Context: Birmingham, Staffordshire hoard, United Kingdom_
 
 ##### Palau
 ### [ Palau is to create the world's first "shark sanctuary", banning all commercial shark fishing in its waters. ](/news/2009/09/25/palau-is-to-create-the-world-s-first-shark-sanctuary-banning-all-commercial-shark-fishing-in-its-waters.md)

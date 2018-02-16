@@ -5,7 +5,7 @@ Formats: [HTML](2014/09/26/index.html)  [JSON](2014/09/26/index.json)  [XML](201
 
 ##### China
 ### [The People's Republic of China says that 50 people died in recent violence in the western province of Xinjiang. ](/news/2014/09/26/the-people-s-republic-of-china-says-that-50-people-died-in-recent-violence-in-the-western-province-of-xinjiang.md)
-_Context: China, Xinjiang_
+_Context: Xinjiang, China_
 
 ##### ISIL
 ### [The Parliament of the United Kingdom is recalled to discuss British participation in 2014 military intervention against ISIS. ](/news/2014/09/26/the-parliament-of-the-united-kingdom-is-recalled-to-discuss-british-participation-in-2014-military-intervention-against-isis.md)
@@ -29,7 +29,7 @@ BlackBerry Ltd (BB.TO) BBRY.O reported a smaller quarterly loss on Friday and fl
 
 ##### Ebola virus epidemic in West Africa
 ### [The World Health Organisation says that the death toll from the Ebola virus is over 2,900. ](/news/2014/09/26/the-world-health-organisation-says-that-the-death-toll-from-the-ebola-virus-is-over-2-900.md)
-_Context: Ebola virus, Ebola virus epidemic in West Africa, World Health Organisation_
+_Context: Ebola virus, World Health Organisation, Ebola virus epidemic in West Africa_
 
 ##### Hong Kong
 ### [At least 100 pro-democracy protestors enter the main government compound in Hong Kong. ](/news/2014/09/26/at-least-100-pro-democracy-protestors-enter-the-main-government-compound-in-hong-kong.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2009/03/29/index.html)  [JSON](2009/03/29/index.json)  [XML](200
 
 ##### General Motors
 ### [ General Motors Chairman-CEO Rick Wagoner resigns. ](/news/2009/03/29/general-motors-chairman-ceo-rick-wagoner-resigns.md)
-_Context: CEO, Rick Wagoner, General Motors, Chairman_
+_Context: General Motors, Chairman, Rick Wagoner, CEO_
 
 ##### PSA Peugeot Citron
 ### [ PSA Peugeot Citron's Board of Directors dismisses CEO Christian Streiff. ](/news/2009/03/29/psa-peugeot-citroen-s-board-of-directors-dismisses-ceo-christian-streiff.md)
@@ -13,31 +13,31 @@ Philippe Varin, chief executive of the Anglo-Dutch steel company Corus, will suc
 
 ##### Coalition for a European Montenegro
 ### [ The Coalition for a European Montenegro wins 48 of 81 seats in Montenegro's Parliament. ](/news/2009/03/29/the-coalition-for-a-european-montenegro-wins-48-of-81-seats-in-montenegro-s-parliament.md)
-_Context: Parliament of Montenegro, Montenegro, wins, Coalition for a European Montenegro_
+_Context: Montenegro, wins, Parliament of Montenegro, Coalition for a European Montenegro_
 
 ##### Mayotte
 ### [ Mayotte's referendum on becoming an overseas department of France is approved. ](/news/2009/03/29/mayotte-s-referendum-on-becoming-an-overseas-department-of-france-is-approved.md)
-_Context: Mayotte, France, referendum, overseas department_
+_Context: Mayotte, overseas department, France, referendum_
 
 ##### Jenson Button
 ### [ Jenson Button of Brawn GP wins Formula One's 2009 Australian Grand Prix. ](/news/2009/03/29/jenson-button-of-brawn-gp-wins-formula-one-s-2009-australian-grand-prix.md)
-_Context: Jenson Button, Australian Grand Prix, Formula One, Brawn GP, 2009_
+_Context: 2009, Jenson Button, Australian Grand Prix, Formula One, Brawn GP_
 
 ##### Kills
 ### [ A gunman kills at least eight people and injures three others at a nursing home in Carthage, North Carolina, United States. ](/news/2009/03/29/a-gunman-kills-at-least-eight-people-and-injures-three-others-at-a-nursing-home-in-carthage-north-carolina-united-states.md)
-_Context: United States, nursing home, Carthage, North Carolina, kills_
+_Context: North Carolina, Carthage, United States, kills, nursing home_
 
 ##### Oxford Boat Club
 ### [ Oxford Boat Club defeats Cambridge Boat Club to win the 155th University Boat Race in London, England. ](/news/2009/03/29/oxford-boat-club-defeats-cambridge-boat-club-to-win-the-155th-university-boat-race-in-london-england.md)
-_Context: London, Oxford Boat Club, Cambridge Boat Club, 156th University Boat Race, England_
+_Context: England, London, 156th University Boat Race, Cambridge Boat Club, Oxford Boat Club_
 
 ##### Home Secretary
 ### [ Home Secretary Jacqui Smith will recompense the United Kingdom's government for her husband's purchase of pornographic films through her expense account. ](/news/2009/03/29/home-secretary-jacqui-smith-will-recompense-the-united-kingdom-s-government-for-her-husband-s-purchase-of-pornographic-films-through-her-ex.md)
-_Context: United Kingdom, Jacqui Smith, expense account, Home Secretary, pornographic film, His Majesty's Government_
+_Context: His Majesty's Government, United Kingdom, pornographic film, Jacqui Smith, Home Secretary, expense account_
 
 ##### Stampede
 ### [ A stampede kills 22 people and injures at least 130 during a 2010 FIFA World Cup qualifying match in Abidjan, Ivory Coast. ](/news/2009/03/29/a-stampede-kills-22-people-and-injures-at-least-130-during-a-2010-fifa-world-cup-qualifying-match-in-abidjan-ivory-coast.md)
-_Context: Cte d'Ivoire, stampede, 2010 FIFA World Cup, qualifying match, Abidjan_
+_Context: Abidjan, qualifying match, stampede, Cte d'Ivoire, 2010 FIFA World Cup_
 
 ## [Previous Day...](/news/2009/03/28/index.md)
 

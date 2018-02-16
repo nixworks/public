@@ -13,7 +13,7 @@ _Context: 2011 Yemeni uprising, Sana'a, Yemen_
 
 ##### South Africa
 ### [South African President Jacob Zuma will visit Libya for talks with Libyan leader Muammar Gaddafi, in renewed efforts by the African Union to broker a cease-fire in the 2011 Libyan civil war. ](/news/2011/05/25/south-african-president-jacob-zuma-will-visit-libya-for-talks-with-libyan-leader-muammar-gaddafi-in-renewed-efforts-by-the-african-union-to.md)
-_Context: South Africa, African Union, Libya, Jacob Zuma, President of South Africa, Muammar Gaddafi, civil war_
+_Context: Libya, Jacob Zuma, African Union, civil war, Muammar Gaddafi, South Africa, President of South Africa_
 
 ##### Europe
 ### [Police in the eastern European state of Georgia use teargas to disperse a protest in central Tbilisi. ](/news/2011/05/25/police-in-the-eastern-european-state-of-georgia-use-teargas-to-disperse-a-protest-in-central-tbilisi.md)
@@ -21,19 +21,19 @@ Injuries reported as authorities move in with tear gas and truncheons to break u
 
 ##### Oprah Winfrey
 ### [Veteran talk show host Oprah Winfrey presents her final "Oprah Winfrey Show", after 25 years on air. ](/news/2011/05/25/veteran-talk-show-host-oprah-winfrey-presents-her-final-oprah-winfrey-show-after-25-years-on-air.md)
-_Context: Oprah Winfrey, Oprah Winfrey Show_
+_Context: Oprah Winfrey Show, Oprah Winfrey_
 
 ##### United States of America
 ### [U.S. author Jeffery Deaver unveils his James Bond novel, "Carte Blanche". ](/news/2011/05/25/u-s-author-jeffery-deaver-unveils-his-james-bond-novel-carte-blanche.md)
-_Context: Carte Blanche, Jeffery Deaver, United States of America, James Bond_
+_Context: United States of America, James Bond, Jeffery Deaver, Carte Blanche_
 
 ##### David Einhorn
 ### [An influential investor and stock trader, David Einhorn, demands the resignation of Steve Ballmer, the CEO of software giant Microsoft, speaking at the Ira W. Sohn Investment Research Conference. ](/news/2011/05/25/an-influential-investor-and-stock-trader-david-einhorn-demands-the-resignation-of-steve-ballmer-the-ceo-of-software-giant-microsoft-spea.md)
-_Context: David Einhorn, Ira W. Sohn Investment Research Conference, Steve Ballmer, Microsoft_
+_Context: Microsoft, Steve Ballmer, David Einhorn, Ira W. Sohn Investment Research Conference_
 
 ##### German
 ### [Germany shuts down part of its airspace as volcanic ash from the eruption of Iceland's Grimsvotn reaches northern Europe. ](/news/2011/05/25/germany-shuts-down-part-of-its-airspace-as-volcanic-ash-from-the-eruption-of-iceland-s-gramsvaptn-reaches-northern-europe.md)
-_Context: northern Europe, Grimsvotn, Iceland, German, eruption_
+_Context: northern Europe, Iceland, Grimsvotn, eruption, German_
 
 ##### Storms and tornadoes
 ### [Powerful storms and tornadoes continue across the Central United States, claiming at least 10 more lives across Arkansas, Kansas and Oklahoma. ](/news/2011/05/25/powerful-storms-and-tornadoes-continue-across-the-central-united-states-claiming-at-least-10-more-lives-across-arkansas-kansas-and-oklahom.md)
@@ -41,7 +41,7 @@ Arkansas, Oklahoma and Kansas picked up the pieces after damaging storms and tor
 
 ##### Fukushima Daiichi nuclear disaster
 ### [Two of the reactors damaged in the March earthquake and tsunami at the Fukushima Daiichi nuclear power plant in Japan may be riddled with holes, according to the facility's owner, Tokyo Electric Power Co. ](/news/2011/05/25/two-of-the-reactors-damaged-in-the-march-earthquake-and-tsunami-at-the-fukushima-daiichi-nuclear-power-plant-in-japan-may-be-riddled-with-ho.md)
-_Context: Fukushima Daiichi Nuclear Power Plant, Tokyo Electric Power Co., 2011 Tohoku earthquake and tsunami, Japan, Fukushima Daiichi nuclear disaster_
+_Context: Fukushima Daiichi nuclear disaster, 2011 Tohoku earthquake and tsunami, Fukushima Daiichi Nuclear Power Plant, Tokyo Electric Power Co., Japan_
 
 ##### Air ambulance
 ### [At least 12 people die after an air ambulance crashes in Faridabad, India. ](/news/2011/05/25/at-least-12-people-die-after-an-air-ambulance-crashes-in-faridabad-india.md)
@@ -57,15 +57,15 @@ Since Dominique Strauss-Kahn resigned to fight sexual assault charges, Finance M
 
 ##### Palestine
 ### [Palestinian officials dismiss Israeli PM Benjamin Netanyahu's speech to the US Congress, saying it will not lead to peace. ](/news/2011/05/25/palestinian-officials-dismiss-israeli-pm-benjamin-netanyahu-s-speech-to-the-us-congress-saying-it-will-not-lead-to-peace.md)
-_Context: peace, US Congress, Israeli PM, Palestine, Benjamin Netanyahu_
+_Context: Benjamin Netanyahu, US Congress, Israeli PM, peace, Palestine_
 
 ##### North Korea
 ### [North Korean leader Kim Jong-il arrives in Beijing for a meeting with the President of the People's Republic of China, Hu Jintao. ](/news/2011/05/25/north-korean-leader-kim-jong-il-arrives-in-beijing-for-a-meeting-with-the-president-of-the-people-s-republic-of-china-hu-jintao.md)
-_Context: North Korea, Chinese President, Hu Jintao, Beijing, Kim Jong-il_
+_Context: Chinese President, Hu Jintao, North Korea, Kim Jong-il, Beijing_
 
 ##### Jared Lee Loughner
 ### [Jared Lee Loughner, accused of murder in the 2011 Tucson shootings, is found to be incompetent to face a trial because of mental health issues. ](/news/2011/05/25/jared-lee-loughner-accused-of-murder-in-the-2011-tucson-shootings-is-found-to-be-incompetent-to-face-a-trial-because-of-mental-health-issu.md)
-_Context: 2011 Tucson shootings, Jared Lee Loughner_
+_Context: Jared Lee Loughner, 2011 Tucson shootings_
 
 ## [Previous Day...](/news/2011/05/24/index.md)
 

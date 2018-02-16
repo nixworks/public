@@ -9,23 +9,23 @@ The clash started after the Pakistanis fired shots or flares at two American hel
 
 ##### Congress
 ### [ Senior members of the United States Congress agree on a legislative deal to bail out the U.S. financial system from lingering effects of the subprime mortgage crisis. ](/news/2008/09/25/senior-members-of-the-united-states-congress-agree-on-a-legislative-deal-to-bail-out-the-u-s-financial-system-from-lingering-effects-of-th.md)
-_Context: Emergency Economic Stabilization Act, subprime mortgage crisis, Congress_
+_Context: subprime mortgage crisis, Congress, Emergency Economic Stabilization Act_
 
 ##### Texas Supreme Court
 ### [ The Texas Supreme Court denies a petition by the Bob Barr US Presidential campaign seeking removal of Senators Barack Obama and John McCain from that state's ballot due to both candidates missing the filing deadline. ](/news/2008/09/25/the-texas-supreme-court-denies-a-petition-by-the-bob-barr-us-presidential-campaign-seeking-removal-of-senators-barack-obama-and-john-mccain.md)
-_Context: Bob Barr, Barack Obama, Texas Supreme Court, John McCain_
+_Context: Barack Obama, Bob Barr, Texas Supreme Court, John McCain_
 
 ##### Barack Obama
 ### [ An effigy of Barack Obama is found hanging from a tree at George Fox University in Newberg, Oregon. ](/news/2008/09/25/an-effigy-of-barack-obama-is-found-hanging-from-a-tree-at-george-fox-university-in-newberg-oregon.md)
-_Context: George Fox University, Oregon, Newberg, Barack Obama_
+_Context: Oregon, Barack Obama, Newberg, George Fox University_
 
 ##### Canadian
 ### [ A young Canadian man is found guilty in the 2006 Toronto terrorism case of participating in a plot to storm the Parliament of Canada and behead the Prime Minister of Canada, Stephen Harper. ](/news/2008/09/25/a-young-canadian-man-is-found-guilty-in-the-2006-toronto-terrorism-case-of-participating-in-a-plot-to-storm-the-parliament-of-canada-and-be.md)
-_Context: Prime Minister of Canada, behead, 2006 Toronto terrorism case, Canadian, Stephen Harper, Parliament of Canada_
+_Context: 2006 Toronto terrorism case, Stephen Harper, Parliament of Canada, Canadian, behead, Prime Minister of Canada_
 
 ##### Jobless
 ### [ Jobless claims in the United States rise to a seven-year high while orders for durable goods fall to their lowest level in 18 months, underscoring the weakness of the United States economy. ](/news/2008/09/25/jobless-claims-in-the-united-states-rise-to-a-seven-year-high-while-orders-for-durable-goods-fall-to-their-lowest-level-in-18-months-under.md)
-_Context: durable goods, Jobless, United States economy, United States_
+_Context: United States, durable goods, Jobless, United States economy_
 
 ##### British Energy
 ### [ Following the purchase of British Energy by Electricit de France, plans for a new Hinkley Point C nuclear power station have been announced. ](/news/2008/09/25/following-the-purchase-of-british-energy-by-electricite-de-france-plans-for-a-new-hinkley-point-c-nuclear-power-station-have-been-announce.md)
@@ -33,7 +33,7 @@ _Context: British Energy, Hinkley Point C nuclear power station, Electricit de F
 
 ##### Typhoon Hagupit
 ### [ The death toll from Typhoon Hagupit rises to 18 with 10 people dead in the People's Republic of China as well as 8 people killed earlier in the Philippines. ](/news/2008/09/25/the-death-toll-from-typhoon-hagupit-rises-to-18-with-10-people-dead-in-the-people-s-republic-of-china-as-well-as-8-people-killed-earlier-in.md)
-_Context: China, Typhoon Hagupit, Philippines_
+_Context: Typhoon Hagupit, China, Philippines_
 
 ##### Kgalema Motlanthe
 ### [ Kgalema Motlanthe is sworn in as the third post-apartheid President of South Africa. ](/news/2008/09/25/kgalema-motlanthe-is-sworn-in-as-the-third-post-apartheid-president-of-south-africa.md)

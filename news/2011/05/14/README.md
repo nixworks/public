@@ -41,15 +41,15 @@ _Context: Gaza flotilla raid, Turkey, Israel_
 
 ##### United Nations
 ### [Gunmen kill a United Nations driver in Ethiopia's Ogaden region. ](/news/2011/05/14/gunmen-kill-a-united-nations-driver-in-ethiopia-s-ogaden-region.md)
-_Context: Ethiopia, Ogaden, United Nations_
+_Context: Ethiopia, United Nations, Ogaden_
 
 ##### Indian Army
 ### [An Indian Army soldier is killed in an exchange of fire with the Pakistan Army over the Kashmir border. ](/news/2011/05/14/an-indian-army-soldier-is-killed-in-an-exchange-of-fire-with-the-pakistan-army-over-the-kashmir-border.md)
-_Context: Kashmir, Indian Army, Pakistan Army_
+_Context: Indian Army, Pakistan Army, Kashmir_
 
 ##### Azeri
 ### [Azeri duo Eldar & Nigar win the 2011 Eurovision Song Contest in Dusseldorf, North Rhine-Westphalia, with the song "Running Scared". ](/news/2011/05/14/azeri-duo-eldar-nigar-win-the-2011-eurovision-song-contest-in-da1-4sseldorf-north-rhine-westphalia-with-the-song-running-scared.md)
-_Context: Running Scared, Azeri, North Rhine-Westphalia, Dusseldorf, 2011 Eurovision Song Contest, Eldar & Nigar_
+_Context: Eldar & Nigar, North Rhine-Westphalia, Azeri, 2011 Eurovision Song Contest, Dusseldorf, Running Scared_
 
 ##### Bob Dylan
 ### [Musician Bob Dylan responds on his website to allegations he gave in to censorship during a recent series of concerts in China, including criticism from "The New York Times" over his failure to mention the plight of imprisoned artist and dissident Ai Weiwei. ](/news/2011/05/14/musician-bob-dylan-responds-on-his-website-to-allegations-he-gave-in-to-censorship-during-a-recent-series-of-concerts-in-china-including-cr.md)
@@ -77,7 +77,7 @@ They busted the dike, and the water poured through -- slowly.
 
 ##### Parliament's
 ### [Pakistan's parliament adopts a resolution that demands an immediate stop to drone strikes and an end to raids by U.S. troops within Pakistan's borders and threatens to cut off access to a facility used by NATO forces to ferry troops into Afghanistan, as the rift between the US and Pakistan grows, following the killing of Osama bin Laden. ](/news/2011/05/14/pakistan-s-parliament-adopts-a-resolution-that-demands-an-immediate-stop-to-drone-strikes-and-an-end-to-raids-by-u-s-troops-within-pakistan.md)
-_Context: father's killing, Parliament's, Pakistan-United States relations_
+_Context: Pakistan-United States relations, Parliament's, father's killing_
 
 ##### Dominique Strauss-Kahn
 ### [Dominique Strauss-Kahn, the head of the International Monetary Fund (IMF), is arrested at John F. Kennedy International Airport in the U.S. city of New York for alleged sexual assault. ](/news/2011/05/14/dominique-strauss-kahn-the-head-of-the-international-monetary-fund-imf-is-arrested-at-john-f-kennedy-international-airport-in-the-u-s.md)
@@ -101,7 +101,7 @@ The British woman stabbed and beheaded in a shop on the Spanish island of Teneri
 
 ##### Belarus
 ### [Belarusian opposition leader Andrei Sannikov is sentenced to five years' imprisonment for "organizing mass disturbances" following his role in protests disputing the results of the 2010 presidential election. ](/news/2011/05/14/belarusian-opposition-leader-andrei-sannikov-is-sentenced-to-five-years-imprisonment-for-organizing-mass-disturbances-following-his-role.md)
-_Context: Andrei Sannikov, 2010 presidential election, Belarus_
+_Context: 2010 presidential election, Andrei Sannikov, Belarus_
 
 ##### Singapore
 ### [Singapore's founding father Lee Kuan Yew resigns from the cabinet after 52 years. ](/news/2011/05/14/singapore-s-founding-father-lee-kuan-yew-resigns-from-the-cabinet-after-52-years.md)
@@ -109,7 +109,7 @@ _Context: Singapore, Lee Kuan Yew_
 
 ##### Governor of Arkansas
 ### [Former Governor of Arkansas Mike Huckabee announces he will not seek the Republican nomination for the 2012 United States presidential election. ](/news/2011/05/14/former-governor-of-arkansas-mike-huckabee-announces-he-will-not-seek-the-republican-nomination-for-the-2012-united-states-presidential-elect.md)
-_Context: United States presidential election, 2012, nomination, Governor of Arkansas, Mike Huckabee_
+_Context: Governor of Arkansas, nomination, Mike Huckabee, United States presidential election, 2012_
 
 ## [Previous Day...](/news/2011/05/13/index.md)
 

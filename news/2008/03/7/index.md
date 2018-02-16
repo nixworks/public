@@ -17,7 +17,7 @@ A former East German Stasi informant who betrayed local church officials has won
 
 ##### Olympic Games
 ### [ Former Olympic gold medalist Marion Jones reports to a Texas jail to begin a six-month sentence for perjury regarding past steroid use. ](/news/2008/03/7/former-olympic-gold-medalist-marion-jones-reports-to-a-texas-jail-to-begin-a-six-month-sentence-for-perjury-regarding-past-steroid-use.md)
-_Context: Marion Jones, gold medal, Texas, steroid, perjury, Olympic Games_
+_Context: Olympic Games, perjury, gold medal, Texas, steroid, Marion Jones_
 
 ##### Colombia
 ### [ Colombia confirms the killing of FARC leader Ivn Ros by his chief of security. ](/news/2008/03/7/colombia-confirms-the-killing-of-farc-leader-ivan-rios-by-his-chief-of-security.md)
@@ -29,7 +29,7 @@ _Context: United States Department of Labor, United States economy_
 
 ##### President
 ### [ The President of Venezuela Hugo Chvez calls for a cooling of tensions with Colombia at a summit of the Rio Group presidents in the Dominican Republic. The Rio Group later approves a declaration aimed at reducing tensions between, Ecuador, Venezuela and Colombia. ](/news/2008/03/7/the-president-of-venezuela-hugo-chavez-calls-for-a-cooling-of-tensions-with-colombia-at-a-summit-of-the-rio-group-presidents-in-the-dominic.md)
-_Context: Venezuela, Dominican Republic, Hugo Chvez, Andean diplomatic crisis, President, Colombia, Rio Group, Ecuador_
+_Context: Colombia, President, Ecuador, Andean diplomatic crisis, Dominican Republic, Venezuela, Rio Group, Hugo Chvez_
 
 ##### Pakistan
 ### [ Pakistan's Election Commission announces the completed results of parliamentary election. ](/news/2008/03/7/pakistan-s-election-commission-announces-the-completed-results-of-parliamentary-election.md)

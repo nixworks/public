@@ -25,7 +25,7 @@ China will return an underwater U.S. drone seized by a naval vessel this week in
 
 ##### Israel-United States relations
 ### [President-elect Donald Trump nominates his middle-eastern affairs advisor and former bankruptcy lawyer David Friedman as the next United States Ambassador to Israel. ](/news/2016/12/16/president-elect-donald-trump-nominates-his-middle-eastern-affairs-advisor-and-former-bankruptcy-lawyer-david-friedman-as-the-next-united-sta.md)
-_Context: United States Ambassador to Israel, Donald Trump, David Friedman, Israel-United States relations_
+_Context: United States Ambassador to Israel, Israel-United States relations, David Friedman, Donald Trump_
 
 ##### G4S
 ### [A riot breaks out inside the G4S-run HM Prison Birmingham in Winson Green, Birmingham, United Kingdom. At least one inmate has been badly injured. The Ministry of Justice says riot police have regained control of the prison. ](/news/2016/12/16/a-riot-breaks-out-inside-the-g4s-run-hm-prison-birmingham-in-winson-green-birmingham-united-kingdom-at-least-one-inmate-has-been-badly-in.md)

@@ -3,13 +3,13 @@ Formats: [HTML](2014/02/13/index.html)  [JSON](2014/02/13/index.json)  [XML](201
 
 ## [2014-02-13](/news/2014/02/13/index.md)
 
-##### Afghanistan
+##### Afghan
 ### [Afghanistan releases 65 prisoners from the Parwan Detention Facility despite concerns by the United States that the men were responsible for attacks on NATO and Afghan forces. ](/news/2014/02/13/afghanistan-releases-65-prisoners-from-the-parwan-detention-facility-despite-concerns-by-the-united-states-that-the-men-were-responsible-for.md)
 Afghan authorities release 65 detainees from the Bagram detention centre, a move the US condemns as &quot;deeply regrettable&quot;.
 
 ##### Policemen
 ### [At least eight police officers are killed in a suicide bomb attack in Karachi. ](/news/2014/02/13/at-least-eight-police-officers-are-killed-in-a-suicide-bomb-attack-in-karachi.md)
-_Context: Karachi, policemen, suicide bomb_
+_Context: policemen, Karachi, suicide bomb_
 
 ##### United States
 ### [The United States says that it is ready to defend its allies in case of an armed conflict. ](/news/2014/02/13/the-united-states-says-that-it-is-ready-to-defend-its-allies-in-case-of-an-armed-conflict.md)
@@ -17,7 +17,7 @@ _Context: United States_
 
 ##### Typhoon Haiyan (Yolanda)
 ### [Typhoon Haiyan victims are visited by former footballer David Beckham who seeks to raise awareness about their plight. ](/news/2014/02/13/typhoon-haiyan-victims-are-visited-by-former-footballer-david-beckham-who-seeks-to-raise-awareness-about-their-plight.md)
-_Context: David Beckham, footballer, Typhoon Haiyan (Yolanda)_
+_Context: Typhoon Haiyan (Yolanda), footballer, David Beckham_
 
 ##### Luxor
 ### [Archaeologists unearth a painted, human-shaped sarcophagus that's 3,600 years old -- with a mummy still inside in Luxor, Egypt. ](/news/2014/02/13/archaeologists-unearth-a-painted-human-shaped-sarcophagus-that-s-3-600-years-old-with-a-mummy-still-inside-in-luxor-egypt.md)
@@ -25,7 +25,7 @@ _Context: Luxor_
 
 ##### Comcast
 ### [Comcast is set to acquire Time Warner Cable in a US$44 billion buyout. ](/news/2014/02/13/comcast-is-set-to-acquire-time-warner-cable-in-a-us-44-billion-buyout.md)
-_Context: Time Warner Cable, Comcast, United States dollars_
+_Context: Time Warner Cable, United States dollars, Comcast_
 
 ##### Reuters
 ### [A Reuters poll of economic forecasters finds that they are more worried about deflation across the Eurozone than is the ECB. ](/news/2014/02/13/a-reuters-poll-of-economic-forecasters-finds-that-they-are-more-worried-about-deflation-across-the-eurozone-than-is-the-ecb.md)
@@ -41,7 +41,7 @@ _Context: Met Office, Winter storms_
 
 ##### Mount Kelud
 ### [Mount Kelud erupts prompting the evacuation of 200,000 people on the Indonesian island of Java. ](/news/2014/02/13/mount-kelud-erupts-prompting-the-evacuation-of-200-000-people-on-the-indonesian-island-of-java.md)
-_Context: Java, Indonesia, Mount Kelud_
+_Context: Mount Kelud, Indonesia, Java_
 
 ##### Moscow
 ### [During a two-day visit by an Egyptian delegation in Moscow, Russian Foreign Minister Sergey Lavrov said that Moscow and Cairo have agreed to speed up work on drafting agreements on military-technological cooperation. Russian Defense Minister Sergey Shoigu added that this could include joint military exercises and training of Egyptian officers in Russian military academies.](/news/2014/02/13/during-a-two-day-visit-by-an-egyptian-delegation-in-moscow-russian-foreign-minister-sergey-lavrov-said-that-moscow-and-cairo-have-agreed-to.md)

@@ -9,11 +9,11 @@ Bloc to discuss preliminary assessment from monitors following reports that Syri
 
 ##### South Sudan
 ### [Up to 50,000 people flee their homes in a border area of South Sudan amid ethnic violence. ](/news/2012/01/2/up-to-50-000-people-flee-their-homes-in-a-border-area-of-south-sudan-amid-ethnic-violence.md)
-_Context: South Sudan, ethnic violence_
+_Context: ethnic violence, South Sudan_
 
 ##### Nigerian
 ### [The Nigerian Islamist militant group Boko Haram issues a warning to Christians in northern Nigeria to leave the region within three days. ](/news/2012/01/2/the-nigerian-islamist-militant-group-boko-haram-issues-a-warning-to-christians-in-northern-nigeria-to-leave-the-region-within-three-days.md)
-_Context: Christian, Islamist, Nigerian, Boko Haram_
+_Context: Christian, Boko Haram, Nigerian, Islamist_
 
 ##### Muslim
 ### [Hundreds of Muslim villagers clash with riot police in the Ningxia region of northern China after a mosque is demolished by local authorities. ](/news/2012/01/2/hundreds-of-muslim-villagers-clash-with-riot-police-in-the-ningxia-region-of-northern-china-after-a-mosque-is-demolished-by-local-authoritie.md)
@@ -21,19 +21,19 @@ Reports from the Ningxia region of northern China say several hundred Muslim vil
 
 ##### Chile
 ### [Firefighters in Chile battle three large wildfires, which have reportedly killed at least one person. ](/news/2012/01/2/firefighters-in-chile-battle-three-large-wildfires-which-have-reportedly-killed-at-least-one-person.md)
-_Context: wildfire, Chile_
+_Context: Chile, wildfire_
 
 ##### India
 ### [India lodges a high-level protest with the government of China over the treatment of an Indian diplomat in a courtroom. ](/news/2012/01/2/india-lodges-a-high-level-protest-with-the-government-of-china-over-the-treatment-of-an-indian-diplomat-in-a-courtroom.md)
-_Context: China, India_
+_Context: India, China_
 
 ##### South Korean President
 ### [The President of South Korea, Lee Myung-bak, states that he is open to negotiations with North Korea on its nuclear program, but calls on the North to avoid "provocations". ](/news/2012/01/2/the-president-of-south-korea-lee-myung-bak-states-that-he-is-open-to-negotiations-with-north-korea-on-its-nuclear-program-but-calls-on-th.md)
-_Context: North Korea, its nuclear program, South Korean President, Lee Myung-bak_
+_Context: Lee Myung-bak, its nuclear program, North Korea, South Korean President_
 
 ##### President of Tunisia
 ### [The President of Tunisia, Moncef Marzouki, states that Tunisia is prepared to extradite former Prime Minister of Libya Baghdadi Mahmudi to Tripoli to face charges of abuse of office, if the Libyan government can guarantee a fair trial. ](/news/2012/01/2/the-president-of-tunisia-moncef-marzouki-states-that-tunisia-is-prepared-to-extradite-former-prime-minister-of-libya-baghdadi-mahmudi-to-t.md)
-_Context: extradite, Baghdadi Mahmudi, President of Tunisia, Tripoli, Libyan Prime Minister, Tunisia, Moncef Marzouki_
+_Context: Tunisia, Moncef Marzouki, Tripoli, President of Tunisia, Baghdadi Mahmudi, extradite, Libyan Prime Minister_
 
 ##### Iran
 ### [Iran states that it has successfully test-fired two long-range missiles, a Qader and a Noor, during military exercises in the Persian Gulf. ](/news/2012/01/2/iran-states-that-it-has-successfully-test-fired-two-long-range-missiles-a-qader-and-a-noor-during-military-exercises-in-the-persian-gulf.md)
@@ -53,11 +53,11 @@ The demonstration — a day after the country’s new “majoritarian” Constit
 
 ##### Military government
 ### [The military government of Fiji announces that it is to lift martial law and other emergency regulations. ](/news/2012/01/2/the-military-government-of-fiji-announces-that-it-is-to-lift-martial-law-and-other-emergency-regulations.md)
-_Context: martial law, military government, Fiji_
+_Context: military government, Fiji, martial law_
 
 ##### Chinese President
 ### [President of China Hu Jintao warns of attempts to "westernise" the country by "hostile powers". ](/news/2012/01/2/president-of-china-hu-jintao-warns-of-attempts-to-westernise-the-country-by-hostile-powers.md)
-_Context: Hu Jintao, westernise, Chinese President_
+_Context: Chinese President, Hu Jintao, westernise_
 
 ##### Russian Federal Space Agency
 ### [The Russian Federal Space Agency expects that parts of its failed Fobos-Grunt Mars probe will re-enter the Earth's atmosphere during the next week. ](/news/2012/01/2/the-russian-federal-space-agency-expects-that-parts-of-its-failed-fobos-grunt-mars-probe-will-re-enter-the-earth-s-atmosphere-during-the-nex.md)

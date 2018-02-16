@@ -5,11 +5,11 @@ Formats: [HTML](2004/11/14/index.html)  [JSON](2004/11/14/index.json)  [XML](200
 
 ##### Iran
 ### [ Iran has agreed to curb most of its uranium enrichment with three EU countries, France, Germany and the UK. ](/news/2004/11/14/iran-has-agreed-to-curb-most-of-its-uranium-enrichment-with-three-eu-countries-france-germany-and-the-uk.md)
-_Context: Iran, uranium enrichment, European Union_
+_Context: Iran, European Union, uranium enrichment_
 
 ##### Political party
 ### [ The Belgian political party Vlaams Blok changes its name to Vlaams Belang ("Flemish Interest") after being banned for being racist. ](/news/2004/11/14/the-belgian-political-party-vlaams-blok-changes-its-name-to-vlaams-belang-flemish-interest-after-being-banned-for-being-racist.md)
-_Context: Vlaams Belang, political party, Vlaams Blok_
+_Context: political party, Vlaams Blok, Vlaams Belang_
 
 ##### Basque
 ### [ The Basque separatist party Batasuna calls for talks with a view to ending armed conflict in Spain. ](/news/2004/11/14/the-basque-separatist-party-batasuna-calls-for-talks-with-a-view-to-ending-armed-conflict-in-spain.md)
@@ -25,7 +25,7 @@ _Context: Lord's Resistance Army, Uganda, Yoweri Museveni_
 
 ##### BBC
 ### [ The BBC based on a water test of one well claims thousands in India still face a risk of poisoning after the Union Carbide Bhopal disaster 20 years ago that killed at least 4000 people. ](/news/2004/11/14/the-bbc-based-on-a-water-test-of-one-well-claims-thousands-in-india-still-face-a-risk-of-poisoning-after-the-union-carbide-bhopal-disaster.md)
-_Context: Bhopal disaster, BBC, poison, Union Carbide_
+_Context: Bhopal disaster, poison, Union Carbide, BBC_
 
 ##### Iyad Allawi
 ### [ Kidnappers release two female relatives of Iraqi interim Prime Minister Iyad Allawi. ](/news/2004/11/14/kidnappers-release-two-female-relatives-of-iraqi-interim-prime-minister-iyad-allawi.md)
@@ -33,7 +33,7 @@ _Context: Iyad Allawi_
 
 ##### Boris Johnson
 ### [ UK shadow arts minister Boris Johnson is sacked by Michael Howard following allegations about his private life. ](/news/2004/11/14/uk-shadow-arts-minister-boris-johnson-is-sacked-by-michael-howard-following-allegations-about-his-private-life.md)
-_Context: Michael Howard, Boris Johnson_
+_Context: Boris Johnson, Michael Howard_
 
 ##### Palestinian
 ### [ Two bodyguards of former Palestinian prime minister Mahmoud Abbas (Abu Mazen) are killed as they exchange fire with masked Gunmen as Abbas pays a visit to a mourning tent for Yasser Arafat in Gaza City. ](/news/2004/11/14/two-bodyguards-of-former-palestinian-prime-minister-mahmoud-abbas-abu-mazen-are-killed-as-they-exchange-fire-with-masked-gunmen-as-abbas.md)

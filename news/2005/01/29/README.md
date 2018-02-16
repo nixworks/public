@@ -9,7 +9,7 @@ _Context: Zhao Ziyang, China_
 
 ##### Procter & Gamble
 ### [ Procter & Gamble plan to purchase competitor Gillette in a deal worth $52.4 billion. Industry experts, including Gillette CEO Jim Kilts, expect further industry consolidation this year, spurred in part by a 40% rise in oil prices last year and the need to gain clout against economic giant Wal-Mart. ](/news/2005/01/29/procter-gamble-plan-to-purchase-competitor-gillette-in-a-deal-worth-52-4-billion-industry-experts-including-gillette-ceo-jim-kilts-ex.md)
-_Context: Procter & Gamble, Wal-Mart, CEO, Jim Kilts, Gillette_
+_Context: Gillette, CEO, Jim Kilts, Wal-Mart, Procter & Gamble_
 
 ##### Three Links
 ### [ The first direct flights between mainland China and Taiwan since 1949 will take place in time for the Chinese New Year.](/news/2005/01/29/the-first-direct-flights-between-mainland-china-and-taiwan-since-1949-will-take-place-in-time-for-the-chinese-new-year.md)

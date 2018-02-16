@@ -13,7 +13,7 @@ The rebel Free Syrian Army announces it has moved its command centre from Turkey
 
 ##### Zaydi
 ### [Eight people die in clashes between Zaydi rebels and Salafis. The Zaidis oppose the nomination by Al-Islah of new provincial leaders in northern Yemen. ](/news/2012/09/22/eight-people-die-in-clashes-between-zaydi-rebels-and-salafis-the-zaidis-oppose-the-nomination-by-al-islah-of-new-provincial-leaders-in-nort.md)
-_Context: Islah, Salafi, Yemen, Zaydi_
+_Context: Yemen, Salafi, Islah, Zaydi_
 
 ##### Muse du Louvre
 ### [The Muse du Louvre in Paris opens a new wing dedicated to Islamic art. It holds 3,000 artifacts from the seventh to the 19th century. An Egyptian Mamluk portal, disassembled in France since 1889, is shown for the first time. ](/news/2012/09/22/the-musee-du-louvre-in-paris-opens-a-new-wing-dedicated-to-islamic-art-it-holds-3-000-artifacts-from-the-seventh-to-the-19th-century-an-eg.md)
@@ -29,11 +29,11 @@ The Roman Catholic Church in the Australian state of Victoria confirms that more
 
 ##### Member of the European Parliament
 ### [Belgian MEP and former PM Guy Verhofstadt warns that the Flemish N-VA party and the far right are "the same". N-VA dismisses the criticism as "gratuitous". ](/news/2012/09/22/belgian-mep-and-former-pm-guy-verhofstadt-warns-that-the-flemish-n-va-party-and-the-far-right-are-the-same-n-va-dismisses-the-criticism-a.md)
-_Context: New Flemish Alliance, far right, Member of the European Parliament, Belgian Prime Minister, Guy Verhofstadt_
+_Context: far right, Guy Verhofstadt, New Flemish Alliance, Member of the European Parliament, Belgian Prime Minister_
 
 ##### Minister of railways
 ### [The minister of railways in Pakistan, Ghulam Ahmad Bilour, offers a bounty of USD 100,000 to the person who kills the maker of "Innocence of Muslims". The government of Pakistan condemns his act. ](/news/2012/09/22/the-minister-of-railways-in-pakistan-ghulam-ahmad-bilour-offers-a-bounty-of-usd-100-000-to-the-person-who-kills-the-maker-of-innocence-of.md)
-_Context: Pakistan, Ghulam Ahmad Bilour, Innocence of Muslims, government of Pakistan, minister of railways_
+_Context: minister of railways, government of Pakistan, Innocence of Muslims, Ghulam Ahmad Bilour, Pakistan_
 
 ## [Previous Day...](/news/2012/09/21/index.md)
 

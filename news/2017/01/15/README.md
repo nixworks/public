@@ -5,7 +5,7 @@ Formats: [HTML](2017/01/15/index.html)  [JSON](2017/01/15/index.json)  [XML](201
 
 ##### War in Afghanistan
 ### [At least seven people are killed when their vehicle hits a roadside bomb in Nangarhar Province. ](/news/2017/01/15/at-least-seven-people-are-killed-when-their-vehicle-hits-a-roadside-bomb-in-nangarhar-province.md)
-_Context: War in Afghanistan, Nangarhar Province_
+_Context: Nangarhar Province, War in Afghanistan_
 
 ##### Floods in Thailand
 ### [Flooding in southern Thailand has caused 40 deaths in recent days with more heavy rain forecast for Monday. ](/news/2017/01/15/flooding-in-southern-thailand-has-caused-40-deaths-in-recent-days-with-more-heavy-rain-forecast-for-monday.md)

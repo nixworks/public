@@ -13,15 +13,15 @@ _Context: Lake Mungo, Australia, Mungo Man, NSW, 2017 in archaeology_
 
 ##### Disappearance of ARA San Juan
 ### [The Navy of Argentina begins a search for one of its submarines, the "San Juan", which has been out of contact for two days. ](/news/2017/11/17/the-navy-of-argentina-begins-a-search-for-one-of-its-submarines-the-san-juan-which-has-been-out-of-contact-for-two-days.md)
-_Context: Disappearance of ARA San Juan, Argentine Navy, San Juan_
+_Context: Argentine Navy, Disappearance of ARA San Juan, San Juan_
 
 ##### Evelyn Wever-Croes
 ### [Evelyn Wever-Croes becomes the first female Prime Minister of Aruba following the 2017 general election in September. ](/news/2017/11/17/evelyn-wever-croes-becomes-the-first-female-prime-minister-of-aruba-following-the-2017-general-election-in-september.md)
-_Context: Aruba, 2017 general election, Prime Minister, Evelyn Wever-Croes_
+_Context: Evelyn Wever-Croes, Prime Minister, 2017 general election, Aruba_
 
 ##### Politics of Kenya
 ### [At least five people are killed at a demonstration in Nairobi after supporters of Raila Odinga and members of the National Super Alliance clash with the Kenya Police. ](/news/2017/11/17/at-least-five-people-are-killed-at-a-demonstration-in-nairobi-after-supporters-of-raila-odinga-and-members-of-the-national-super-alliance-cl.md)
-_Context: Nairobi, National Super Alliance, Kenya Police, Politics of Kenya, Raila Odinga_
+_Context: Politics of Kenya, Kenya Police, Raila Odinga, Nairobi, National Super Alliance_
 
 ## [Previous Day...](/news/2017/11/16/index.md)
 

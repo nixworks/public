@@ -57,23 +57,23 @@ A tornado destroyed 50 to 80 houses and killed at least one person in an Arkansa
 
 ##### Governor of Kentucky
 ### [The Governor of Kentucky Steve Beshear declares a state of emergency due to rising flood waters from the Ohio and Mississippi Rivers. ](/news/2011/04/25/the-governor-of-kentucky-steve-beshear-declares-a-state-of-emergency-due-to-rising-flood-waters-from-the-ohio-and-mississippi-rivers.md)
-_Context: Mississippi River, Ohio, state of emergency, Steve Beshear, Governor of Kentucky_
+_Context: Ohio, Mississippi River, Governor of Kentucky, Steve Beshear, state of emergency_
 
 ##### Kazakhstan
 ### [A Kazakh UNESCO official attempts to hijack a plane and divert it to Tripoli, Libya. ](/news/2011/04/25/a-kazakh-unesco-official-attempts-to-hijack-a-plane-and-divert-it-to-tripoli-libya.md)
-_Context: UNESCO, Kazakhstan, Libya, Tripoli_
+_Context: Libya, UNESCO, Tripoli, Kazakhstan_
 
 ##### Bangladesh
 ### [A court in Bangladesh clears Nobel laureate Muhammad Yunus of misappropriating Norwegian aid money at a micro-finance bank he founded. ](/news/2011/04/25/a-court-in-bangladesh-clears-nobel-laureate-muhammad-yunus-of-misappropriating-norwegian-aid-money-at-a-micro-finance-bank-he-founded.md)
-_Context: Norway, Bangladesh, Nobel Prize, Muhammad Yunus_
+_Context: Nobel Prize, Bangladesh, Norway, Muhammad Yunus_
 
 ##### King & Spalding
 ### [King & Spalding, a prominent Atlanta-based law firm, withdraws from litigation on behalf of the Defense of Marriage Act, and partner Paul Clement resigns in protest. ](/news/2011/04/25/king-spalding-a-prominent-atlanta-based-law-firm-withdraws-from-litigation-on-behalf-of-the-defense-of-marriage-act-and-partner-paul-cl.md)
-_Context: Atlanta, King & Spalding, Defense of Marriage Act, Paul Clement_
+_Context: Defense of Marriage Act, Paul Clement, King & Spalding, Atlanta_
 
 ##### Afghan-based
 ### [Nearly 500 prisoners, many of them Afghan-based Islamic militants, escape from Kandahar's Sarposa prison. ](/news/2011/04/25/nearly-500-prisoners-many-of-them-afghan-based-islamic-militants-escape-from-kandahar-s-sarposa-prison.md)
-_Context: Kandahar, Islamic terrorism, Sarposa prison, Afghan-based_
+_Context: Islamic terrorism, Afghan-based, Kandahar, Sarposa prison_
 
 ##### United Nations
 ### [The United Nations publishes the full "Reprt of the Secretary-General's Panel of Experts on Accountability In Sri Lanka" which finds "credible allegations" which, if proven, indicate that war crimes and crimes against humanity were committed both by the Government of Sri Lanka and the LTTE in the final stages of the Sri Lankan Civil War. ](/news/2011/04/25/the-united-nations-publishes-the-full-reprt-of-the-secretary-general-s-panel-of-experts-on-accountability-in-sri-lanka-which-finds-credib.md)

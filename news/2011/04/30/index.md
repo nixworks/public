@@ -17,7 +17,7 @@ _Context: Oddar Meanchey Province, Thailand, Cambodia_
 
 ##### Morocco
 ### [Moroccan interior minister Taieb Cherkaoui says the bomb detonated in Marrakech was set off remotely. ](/news/2011/04/30/moroccan-interior-minister-taieb-cherkaoui-says-the-bomb-detonated-in-marrakech-was-set-off-remotely.md)
-_Context: Morocco, bomb detonated, Marrakech, Taieb Cherkaoui_
+_Context: bomb detonated, Marrakech, Taieb Cherkaoui, Morocco_
 
 ##### Danes
 ### [A study carried out by the Danish Booksellers Association reveals almost one third of Danes over the age of 14 read at least one book annually written in the English language. ](/news/2011/04/30/a-study-carried-out-by-the-danish-booksellers-association-reveals-almost-one-third-of-danes-over-the-age-of-14-read-at-least-one-book-annual.md)
@@ -25,7 +25,7 @@ _Context: Danes_
 
 ##### Wedding of Prince William, Duke of Cambridge, and Catherine Middleton
 ### [The official wedding photos for the Wedding of Prince William, Duke of Cambridge, and Catherine Middleton by Hugo Bernand are published online. ](/news/2011/04/30/the-official-wedding-photos-for-the-wedding-of-prince-william-duke-of-cambridge-and-catherine-middleton-by-hugo-bernand-are-published-onli.md)
-_Context: Hugo Bernand, Wedding of Prince William, Duke of Cambridge, and Catherine Middleton_
+_Context: Wedding of Prince William, Duke of Cambridge, and Catherine Middleton, Hugo Bernand_
 
 ##### Three day tornado outbreak
 ### [The recent US tornado outbreak becomes the second deadliest single day tornado event in US history with at least 340 people dead. ](/news/2011/04/30/the-recent-us-tornado-outbreak-becomes-the-second-deadliest-single-day-tornado-event-in-us-history-with-at-least-340-people-dead.md)
@@ -45,7 +45,7 @@ Six major US tobacco companies defeat a lawsuit filed by hospitals seeking finan
 
 ##### Uganda
 ### [Ministers in Uganda disagree over the arrest of opposition leader Kizza Besigye. ](/news/2011/04/30/ministers-in-uganda-disagree-over-the-arrest-of-opposition-leader-kizza-besigye.md)
-_Context: Kizza Besigye, Uganda_
+_Context: Uganda, Kizza Besigye_
 
 ##### Jimmy Carter
 ### [Current U.S. officials and former president Jimmy Carter disagree over allegations that the U.S. is deliberately keeping food aid from North Korea despite severe food shortages among people there. ](/news/2011/04/30/current-u-s-officials-and-former-president-jimmy-carter-disagree-over-allegations-that-the-u-s-is-deliberately-keeping-food-aid-from-north.md)

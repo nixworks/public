@@ -5,7 +5,7 @@ Formats: [HTML](2011/06/17/index.html)  [JSON](2011/06/17/index.json)  [XML](201
 
 ##### Yonhap
 ### [The Yonhap news agency reports that South Korea has deployed precision-guided missiles capable of hitting the North Korean capital, Pyongyang. ](/news/2011/06/17/the-yonhap-news-agency-reports-that-south-korea-has-deployed-precision-guided-missiles-capable-of-hitting-the-north-korean-capital-pyongyan.md)
-_Context: Pyongyang, South Korea, Yonhap, North Korea_
+_Context: Yonhap, South Korea, North Korea, Pyongyang_
 
 ##### Reuters
 ### [Reuters quotes commodities traders who have observed in recent months that "violent, often inexplicable price moves" are becoming a good deal more common, especially in energy commodities such as natural gas. ](/news/2011/06/17/reuters-quotes-commodities-traders-who-have-observed-in-recent-months-that-violent-often-inexplicable-price-moves-are-becoming-a-good-dea.md)
@@ -29,7 +29,7 @@ A media storm over corrupt officials is embarrassing China’s Communist Party a
 
 ##### Danny Alexander
 ### [Danny Alexander, the Chief Secretary to the Treasury of the United Kingdom, announces that the retirement age for British civil servants will be increased to 66, with the exception of the police, armed forces and fire service. ](/news/2011/06/17/danny-alexander-the-chief-secretary-to-the-treasury-of-the-united-kingdom-announces-that-the-retirement-age-for-british-civil-servants-wil.md)
-_Context: United Kingdom, Danny Alexander, civil servant, retirement, Chief Secretary to the Treasury_
+_Context: retirement, Chief Secretary to the Treasury, Danny Alexander, United Kingdom, civil servant_
 
 ##### King
 ### [King of Morocco Mohammed VI announces constitutional reforms with a referendum to be held on July 1. ](/news/2011/06/17/king-of-morocco-mohammed-vi-announces-constitutional-reforms-with-a-referendum-to-be-held-on-july-1.md)

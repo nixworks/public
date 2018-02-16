@@ -25,7 +25,7 @@ Basque separatists Eta call a permanent ceasefire in its fight for independence 
 
 ##### Karachi
 ### [Tens of thousands of people rally in Karachi, Pakistan to demand the release of Mumtaz Qadri, charged with killing Salman Taseer, the provincial governor of Punjab who had campaigned to amend the country's blasphemy laws. ](/news/2011/01/10/tens-of-thousands-of-people-rally-in-karachi-pakistan-to-demand-the-release-of-mumtaz-qadri-charged-with-killing-salman-taseer-the-provin.md)
-_Context: Punjab Province, Karachi, Pakistan, Mumtaz Qadri, blasphemy law, Salman Taseer_
+_Context: Punjab Province, Mumtaz Qadri, Pakistan, Karachi, blasphemy law, Salman Taseer_
 
 ##### Turkey
 ### [Turkey is considering demolishing a giant sculpture, meant to symbolize friendship between Turkey and Armenia, near the city of Kars. ](/news/2011/01/10/turkey-is-considering-demolishing-a-giant-sculpture-meant-to-symbolize-friendship-between-turkey-and-armenia-near-the-city-of-kars.md)
@@ -41,7 +41,7 @@ Brazilian Finance Minister Guido Mantega says the world is on course for a trade
 
 ##### U.S.
 ### [U.S. chemical company DuPont buys out Danish food ingredient and enzyme company Danisco for $5.8billion. ](/news/2011/01/10/u-s-chemical-company-dupont-buys-out-danish-food-ingredient-and-enzyme-company-danisco-for-5-8billion.md)
-_Context: U.S., Danisco, DuPont, Denmark_
+_Context: U.S., Denmark, Danisco, DuPont_
 
 ##### Floods
 ### [At least eight people die and scores are missing as heavy floods continue in Queensland, Australia. ](/news/2011/01/10/at-least-eight-people-die-and-scores-are-missing-as-heavy-floods-continue-in-queensland-australia.md)
@@ -81,7 +81,7 @@ Warning to those involved in violent protests in north African nation tempered w
 
 ##### Republican
 ### [Former Republican United States House of Representatives Majority Leader Tom DeLay is sentenced to three years in prison for money laundering. ](/news/2011/01/10/former-republican-united-states-house-of-representatives-majority-leader-tom-delay-is-sentenced-to-three-years-in-prison-for-money-launderin.md)
-_Context: Majority Leader, money laundering, United States House of Representatives, Tom DeLay, Republican_
+_Context: United States House of Representatives, Republican, Majority Leader, money laundering, Tom DeLay_
 
 ##### Israel
 ### [More than 150 Israeli university lecturers support a boycott of the University Centre of Samaria in Ariel over concerns of "unbearably harsh conditions" faced by Palestinians living nearby, as well as Ariel being an "illegal settlement" and a roadblock to the establishment of an independent Palestinian state. ](/news/2011/01/10/more-than-150-israeli-university-lecturers-support-a-boycott-of-the-university-centre-of-samaria-in-ariel-over-concerns-of-unbearably-harsh.md)

@@ -9,11 +9,11 @@ THE forthcoming May 9 national and local elections have prompted the Foreign and
 
 ##### Syrian Civil War
 ### [The Syrian Observatory for Human Rights reports that airstrikes have killed at least seven people in Aleppo. ](/news/2016/04/22/the-syrian-observatory-for-human-rights-reports-that-airstrikes-have-killed-at-least-seven-people-in-aleppo.md)
-_Context: Aleppo, Syrian Observatory for Human Rights, Syrian Civil War_
+_Context: Syrian Civil War, Aleppo, Syrian Observatory for Human Rights_
 
 ##### Iraqi Civil War (2014-present)
 ### [A suicide bomber kills at least nine people at a Shi'ite mosque in southwestern Baghdad. A second attacker was shot dead by security forces before he could detonate his explosives. ](/news/2016/04/22/a-suicide-bomber-kills-at-least-nine-people-at-a-shi-ite-mosque-in-southwestern-baghdad-a-second-attacker-was-shot-dead-by-security-forces.md)
-_Context: Baghdad, Shia, Iraqi Civil War (2014-present)_
+_Context: Shia, Baghdad, Iraqi Civil War (2014-present)_
 
 ##### U.S. military
 ### [The United States admits it has killed 20 civilians and wounded 11 others in airstrikes in Syria and Iraq between September 10, 2015, and February 2, 2016. ](/news/2016/04/22/the-united-states-admits-it-has-killed-20-civilians-and-wounded-11-others-in-airstrikes-in-syria-and-iraq-between-september-10-2015-and-fe.md)
@@ -41,7 +41,7 @@ Canadian drugmaker Valeant Pharmaceuticals International Inc said it received ad
 
 ##### South Korea
 ### [A passenger train derails near the South Korean city of Yeosu resulting in the death of a railroad engineer and eight people being injured. ](/news/2016/04/22/a-passenger-train-derails-near-the-south-korean-city-of-yeosu-resulting-in-the-death-of-a-railroad-engineer-and-eight-people-being-injured.md)
-_Context: South Korea, Yeosu, railroad engineer_
+_Context: South Korea, railroad engineer, Yeosu_
 
 ##### China
 ### [A warehouse storing chemicals and fuel catches fire in the Chinese city of Jingjiang resulting in an unknown number of casualties. ](/news/2016/04/22/a-warehouse-storing-chemicals-and-fuel-catches-fire-in-the-chinese-city-of-jingjiang-resulting-in-an-unknown-number-of-casualties.md)
@@ -49,7 +49,7 @@ A warehouse storing chemicals and fuel exploded and caught fire in the eastern C
 
 ##### Tawang District
 ### [At least 15 people have been killed in a landslide in the Tawang District in India's Arunachal Pradesh state. ](/news/2016/04/22/at-least-15-people-have-been-killed-in-a-landslide-in-the-tawang-district-in-india-s-arunachal-pradesh-state.md)
-_Context: Arunachal Pradesh, Tawang District, India_
+_Context: India, Tawang District, Arunachal Pradesh_
 
 ##### 2015-16 South Pacific cyclone season
 ### [The Samoan Islands and Wallis and Futuna brace for the impact of Cyclone Amos as the Fiji Meteorological Service upgrades the cyclone to a category three storm, with sustained winds as high as 140 km-h at its centre. ](/news/2016/04/22/the-samoan-islands-and-wallis-and-futuna-brace-for-the-impact-of-cyclone-amos-as-the-fiji-meteorological-service-upgrades-the-cyclone-to-a-c.md)
@@ -61,7 +61,7 @@ MEXICO CITY (AP) — Searchers recovered four more bodies from a petrochemical p
 
 ##### United Kingdom withdrawal from the European Union
 ### [Mayor of London and cabinet member Boris Johnson says that U.S. President Barack Obama is "inconsistent and hypocritical" in persuading the British people to remain in the European Union. ](/news/2016/04/22/mayor-of-london-and-cabinet-member-boris-johnson-says-that-u-s-president-barack-obama-is-inconsistent-and-hypocritical-in-persuading-the.md)
-_Context: Mayor of London, United Kingdom withdrawal from the European Union, European Union, Barack Obama, United States, Boris Johnson_
+_Context: Mayor of London, Barack Obama, United Kingdom withdrawal from the European Union, Boris Johnson, European Union, United States_
 
 ##### Taiwan-United States relations
 ### [The U.S. House Committee on Foreign Affairs unanimously passes a resolution reaffirming the Taiwan Relations Act and the Six Assurances. ](/news/2016/04/22/the-u-s-house-committee-on-foreign-affairs-unanimously-passes-a-resolution-reaffirming-the-taiwan-relations-act-and-the-six-assurances.md)
@@ -73,7 +73,7 @@ Records are set to be broken as 168 countries line up to sign the historic UN Pa
 
 ##### NATO-Russia relations
 ### [U.S. General Curtis Scaparrotti, the incoming head of the United States military forces in Europe, says he supports a permanent brigade-sized presence of U.S. combat troops in Eastern Europe to deter Russia's expanded and assertive actions. ](/news/2016/04/22/u-s-general-curtis-scaparrotti-the-incoming-head-of-the-united-states-military-forces-in-europe-says-he-supports-a-permanent-brigade-size.md)
-_Context: Cold War II, United States military personnel, Eastern Europe, Curtis Scaparrotti, Russia, Europe, United States, NATO-Russia relations_
+_Context: Europe, Eastern Europe, United States, Cold War II, Russia, NATO-Russia relations, United States military personnel, Curtis Scaparrotti_
 
 ##### Belizean-Guatemalan territorial dispute
 ### [Belize accuses Guatemala of "amassing" troops on the disputed Belize-Guatemala border following the death of a teenage Guatemalan boy in a shooting incident apparently involving Belize Defence Force soldiers. Guatemalan President Jimmy Morales called the shooting a "cowardly and excessive attack" that merits the "total condemnation of the Guatemalan state". ](/news/2016/04/22/belize-accuses-guatemala-of-amassing-troops-on-the-disputed-belizeaguatemala-border-following-the-death-of-a-teenage-guatemalan-boy-in-a.md)

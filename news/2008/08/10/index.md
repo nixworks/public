@@ -5,23 +5,23 @@ Formats: [HTML](2008/08/10/index.html)  [JSON](2008/08/10/index.json)  [XML](200
 
 ##### Propane
 ### [ Massive explosions at a propane facility just before 4 a.m. erupt in the Toronto, Canada community of Downsview, resulting in the evacuation of thousands of people. The explosions also caused the closure of Highway 401, Canada's busiest highway, through that area of Toronto. At least 18 people are reported injured, one missing, and one firefighter has died in connection with the incident. ](/news/2008/08/10/massive-explosions-at-a-propane-facility-just-before-4-a-m-erupt-in-the-toronto-canada-community-of-downsview-resulting-in-the-evacuatio.md)
-_Context: Highway 401, Toronto, propane, Canadian, Downsview_
+_Context: Canadian, Downsview, Toronto, propane, Highway 401_
 
 ##### Monsoon
 ### [ Monsoon rains in India kill at least 40 people with flooding heaviest in Andhra Pradesh with flooding in the capital Hyderabad killing 14 people. ](/news/2008/08/10/monsoon-rains-in-india-kill-at-least-40-people-with-flooding-heaviest-in-andhra-pradesh-with-flooding-in-the-capital-hyderabad-killing-14-p.md)
-_Context: India, Monsoon, Hyderabad, flood, Andhra Pradesh_
+_Context: flood, Monsoon, Hyderabad, India, Andhra Pradesh_
 
 #####  Georgian
 ### [ Georgian troops are forced to withdraw from Tskhinvali, the capital of South Ossetia by Russian army. ](/news/2008/08/10/georgian-troops-are-forced-to-withdraw-from-tskhinvali-the-capital-of-south-ossetia-by-russian-army.md)
-_Context: Russia,  Georgian, South Ossetia, Tskhinvali_
+_Context: Russia, South Ossetia, Tskhinvali,  Georgian_
 
 ##### Swimmer
 ### [ Swimmer Michael Phelps of the United States wins a gold medal in the 400 metre individual medley setting a new world record. ](/news/2008/08/10/swimmer-michael-phelps-of-the-united-states-wins-a-gold-medal-in-the-400-metre-individual-medley-setting-a-new-world-record.md)
-_Context: world record, United States, Swimmer, Michael Phelps_
+_Context: Swimmer, world record, United States, Michael Phelps_
 
 ##### A number of blasts
 ### [ A number of blasts in China's western Xinjiang province kill at least two people. ](/news/2008/08/10/a-number-of-blasts-in-china-s-western-xinjiang-province-kill-at-least-two-people.md)
-_Context: A number of blasts, Xinjiang, China_
+_Context: China, Xinjiang, A number of blasts_
 
 ##### Bolivia
 ### [ Bolivia holds a Vote of confidence referendum over whether the president, vice president and most prefects should face re-election. Unofficial results indicate that President Evo Morales has won a decisive mandate.](/news/2008/08/10/bolivia-holds-a-vote-of-confidence-referendum-over-whether-the-president-vice-president-and-most-prefects-should-face-re-election-unoffic.md)

@@ -25,11 +25,11 @@ The Awards Ceremony took place tonight, Wednesday 1 July, at the Tchaikovsky Con
 
 ##### Health insurance
 ### [American health insurer Aetna agrees to buy competitor Humana in a $37 billion deal. ](/news/2015/07/3/american-health-insurer-aetna-agrees-to-buy-competitor-humana-in-a-37-billion-deal.md)
-_Context: Humana, health insurance, Aetna_
+_Context: Aetna, health insurance, Humana_
 
 ##### UBS
 ### [A UBS whistle blower is assisting the government of Brazil in its investigation of currency manipulation by global banks, according to a Brazilian paper. ](/news/2015/07/3/a-ubs-whistle-blower-is-assisting-the-government-of-brazil-in-its-investigation-of-currency-manipulation-by-global-banks-according-to-a-bra.md)
-_Context: UBS, Brazil, currency manipulation_
+_Context: currency manipulation, UBS, Brazil_
 
 ##### Ulsan
 ### [Six people are dead following an explosion at a chemical plant in Ulsan in South Korea. ](/news/2015/07/3/six-people-are-dead-following-an-explosion-at-a-chemical-plant-in-ulsan-in-south-korea.md)
@@ -41,7 +41,7 @@ After slamming the eastern coast of China, Chan-hom bring heavy rain to Korean P
 
 ##### Earthquake
 ### [At least four people are dead and 48 injured following a 6.5 magnitude earthquake in Pishan County in China's Xinjiang region. ](/news/2015/07/3/at-least-four-people-are-dead-and-48-injured-following-a-6-5-magnitude-earthquake-in-pishan-county-in-china-s-xinjiang-region.md)
-_Context: Xinjiang, earthquake, China, Pishan County_
+_Context: earthquake, Xinjiang, Pishan County, China_
 
 ##### Sinking of the Kim Nirvana
 ### [The death toll from yesterday's capsizing of the M-B Nivana off the coast of the Philippines rises to 56 as murder charges are filed against the owner and crew. ](/news/2015/07/3/the-death-toll-from-yesterday-s-capsizing-of-the-m-b-nivana-off-the-coast-of-the-philippines-rises-to-56-as-murder-charges-are-filed-against.md)
@@ -65,11 +65,11 @@ Police in The Hague said Friday they had detained more than 200 people overnight
 
 ##### Jeffrey Webb
 ### [Jeffrey Webb, a former Vice President of FIFA and President of CONCACAF, is reportedly charged with healthcare fraud in his native Cayman Islands. ](/news/2015/07/3/jeffrey-webb-a-former-vice-president-of-fifa-and-president-of-concacaf-is-reportedly-charged-with-healthcare-fraud-in-his-native-cayman-is.md)
-_Context: Cayman Islands, CONCACAF, FIFA, Jeffrey Webb_
+_Context: Jeffrey Webb, CONCACAF, Cayman Islands, FIFA_
 
 ##### Danish general election, 2015
 ### [Pia Kjaersgaard becomes the first woman to be elected speaker of the Danish parliament, the Folketing. ](/news/2015/07/3/pia-kja-rsgaard-becomes-the-first-woman-to-be-elected-speaker-of-the-danish-parliament-the-folketing.md)
-_Context: Danish general election, 2015, Pia Kjaersgaard, speaker of the Danish parliament, Folketing_
+_Context: Danish general election, 2015, Folketing, speaker of the Danish parliament, Pia Kjaersgaard_
 
 ##### United States Air Force
 ### [The U.S. Air Force's outgoing chief scientist, Mica Endsley, announces plans for an unmanned hypersonic flying weapon by 2023, which could travel at least up to Mach 5. ](/news/2015/07/3/the-u-s-air-force-s-outgoing-chief-scientist-mica-endsley-announces-plans-for-an-unmanned-hypersonic-flying-weapon-by-2023-which-could-t.md)

@@ -5,11 +5,11 @@ Formats: [HTML](2010/12/19/index.html)  [JSON](2010/12/19/index.json)  [XML](201
 
 ##### Sri Lanka
 ### [Sri Lanka lifts a ban on a United Nations war crimes panel visiting the country. ](/news/2010/12/19/sri-lanka-lifts-a-ban-on-a-united-nations-war-crimes-panel-visiting-the-country.md)
-_Context: Sri Lanka, United Nations_
+_Context: United Nations, Sri Lanka_
 
 ##### Somalia
 ### [Two rebel groups in Somalia&ndash;al-Shabaab and the Islamic Party&ndash;announce plans to merge to try to topple the UN-backed Transitional Federal Government. ](/news/2010/12/19/two-rebel-groups-in-somalia-ndash-al-shabaab-and-the-islamic-party-ndash-announce-plans-to-merge-to-try-to-topple-the-un-backed-transitional.md)
-_Context: Somalia, Al-Shabaab, United Nations, Transitional Federal Government_
+_Context: Al-Shabaab, United Nations, Transitional Federal Government, Somalia_
 
 ##### Dubai International Film Festival
 ### [Stars appeared at the red carpet closing ceremony of the 7th Dubai International Film Festival. ](/news/2010/12/19/stars-appeared-at-the-red-carpet-closing-ceremony-of-the-7th-dubai-international-film-festival.md)
@@ -45,7 +45,7 @@ Severe disruption caused by freezing weather continues, as Heathrow cancels hund
 
 ##### Guatemala
 ### [The Guatemalan military declares a state of siege in the department of Alta Verapaz to reclaim control of cities controlled by the Los Zetas Mexican drug gang. ](/news/2010/12/19/the-guatemalan-military-declares-a-state-of-siege-in-the-department-of-alta-verapaz-to-reclaim-control-of-cities-controlled-by-the-los-zetas.md)
-_Context: Zetas, state of siege, Guatemala, Guatemalan Military, Alta Verapaz, Mexican_
+_Context: Alta Verapaz, Zetas, Guatemala, state of siege, Guatemalan Military, Mexican_
 
 ##### Child pornography
 ### [Approximately 107 people are charged with possessing offensive child pornography in Austria. ](/news/2010/12/19/approximately-107-people-are-charged-with-possessing-offensive-child-pornography-in-austria.md)

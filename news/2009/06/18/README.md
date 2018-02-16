@@ -9,11 +9,11 @@ _Context: North Korea, Hawaii_
 
 ##### Atlas V
 ### [ An Atlas V rocket launches the LRO and LCROSS spacecraft to explore the Moon.](/news/2009/06/18/an-atlas-v-rocket-launches-the-lro-and-lcross-spacecraft-to-explore-the-moon.md)
-_Context: Atlas V, LCROSS, explore, Moon, LRO_
+_Context: explore, Atlas V, Moon, LCROSS, LRO_
 
 ##### Continental Airlines
 ### [ Continental Flight 61, a Boeing 777 containing 247 passengers flying from Brussels, Belgium, to Newark, New Jersey, United States, lands safely at Newark Liberty International Airport, after the 61-year-old pilot died mid-flight. ](/news/2009/06/18/continental-flight-61-a-boeing-777-containing-247-passengers-flying-from-brussels-belgium-to-newark-new-jersey-united-states-lands-sa.md)
-_Context: pilot, Newark, New Jersey's, Belgium, Newark Liberty International Airport, Boeing 777, Continental Airlines, Brussels, United States_
+_Context: Belgium, pilot, Brussels, Boeing 777, Newark, New Jersey's, Newark Liberty International Airport, United States, Continental Airlines_
 
 ##### Altering
 ### [ Iran is accused of altering ](/news/2009/06/18/iran-is-accused-of-altering.md)
@@ -21,7 +21,7 @@ _Context: altering_
 
 ##### The Gambia
 ### [ Seven Gambian journalists are charged with seditious publication for reprinting a press union statement criticising President Yahya Jammeh. ](/news/2009/06/18/seven-gambian-journalists-are-charged-with-seditious-publication-for-reprinting-a-press-union-statement-criticising-president-yahya-jammeh.md)
-_Context: The Gambia, Yahya Jammeh, President_
+_Context: Yahya Jammeh, President, The Gambia_
 
 ##### Canadian
 ### [ Canada's annual seal hunt ends with lower than expected totals. ](/news/2009/06/18/canada-s-annual-seal-hunt-ends-with-lower-than-expected-totals.md)
@@ -65,7 +65,7 @@ In 1660, New France had six male settlers for every female settler. The Filles d
 
 ##### South Africa
 ### [ South Africa receives its first case of swine flu via the United States. ](/news/2009/06/18/south-africa-receives-its-first-case-of-swine-flu-via-the-united-states.md)
-_Context: first case, swine flu, United States, South Africa_
+_Context: first case, United States, swine flu, South Africa_
 
 ## [Previous Day...](/news/2009/06/17/index.md)
 

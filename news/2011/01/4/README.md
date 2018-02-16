@@ -13,7 +13,7 @@ The top rate of VAT rises from 17.5% to 20% as the government looks to boost tax
 
 ##### Russia
 ### [Russia begins an operation to free 500 people stranded in ships by ice in the Sea of Okhotsk. ](/news/2011/01/4/russia-begins-an-operation-to-free-500-people-stranded-in-ships-by-ice-in-the-sea-of-okhotsk.md)
-_Context: Sea of Okhotsk, Russia_
+_Context: Russia, Sea of Okhotsk_
 
 ##### Queensland
 ### [More evacuations take place in Queensland, Australia, as flood waters continued to rise and the Australian prime minister says damages could amount to hundreds of millions of dollars. ](/news/2011/01/4/more-evacuations-take-place-in-queensland-australia-as-flood-waters-continued-to-rise-and-the-australian-prime-minister-says-damages-could.md)
@@ -21,7 +21,7 @@ _Context: Australia, Queensland_
 
 ##### Salmaan Taseer
 ### [Salmaan Taseer, the Governor of the Pakistani province of Punjab, is assassinated by Malik Mumtaz Hussain Qadri, one of his security guards at Koshar Market, Islamabad. ](/news/2011/01/4/salmaan-taseer-the-governor-of-the-pakistani-province-of-punjab-is-assassinated-by-malik-mumtaz-hussain-qadri-one-of-his-security-guards.md)
-_Context: Pakistani Punjab governor, assassination, Punjab Province, Pakistan, Salmaan Taseer, Malik Mumtaz Hussain Qadri, Islamabad_
+_Context: Punjab Province, Salmaan Taseer, Pakistan, Malik Mumtaz Hussain Qadri, assassination, Pakistani Punjab governor, Islamabad_
 
 ##### Texas
 ### [51-year-old Texan Cornelius Dupree, freed on parole in July 2010 after serving 30 of a 75 year sentence for aggravated robbery, has his conviction quashed after he was found to be innocent of the crime through DNA evidence. ](/news/2011/01/4/51-year-old-texan-cornelius-dupree-freed-on-parole-in-july-2010-after-serving-30-of-a-75-year-sentence-for-aggravated-robbery-has-his-conv.md)
@@ -29,7 +29,7 @@ A man in the US state of Texas has his robbery conviction overturned on DNA evid
 
 ##### ECOWAS
 ### [The Economic Community of West African States says the situation in Cote d'Ivoire is still in a "stalemate", amid the threat of force to remove Laurent Gbagbo. ](/news/2011/01/4/the-economic-community-of-west-african-states-says-the-situation-in-ca-te-d-ivoire-is-still-in-a-stalemate-amid-the-threat-of-force-to-re.md)
-_Context: Laurent Gbagbo, Cote d'Ivoire, ECOWAS_
+_Context: Cote d'Ivoire, Laurent Gbagbo, ECOWAS_
 
 ##### Sudan
 ### [Sudanese President Omar al-Bashir goes to Juba to meet with Southern Sudanese President of the Government Salva Kiir Mayardit ahead of Southern Sudan's independence referendum. ](/news/2011/01/4/sudanese-president-omar-al-bashir-goes-to-juba-to-meet-with-southern-sudanese-president-of-the-government-salva-kiir-mayardit-ahead-of-south.md)

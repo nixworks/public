@@ -9,7 +9,7 @@ News and opinion from The Times &amp; The Sunday Times
 
 ##### Chinese River Dolphin
 ### [ A research expedition concludes that the Chinese River Dolphin is now likely extinct, directly due to human action. ](/news/2006/12/14/a-research-expedition-concludes-that-the-chinese-river-dolphin-is-now-likely-extinct-directly-due-to-human-action.md)
-_Context: Chinese River Dolphin, extinct_
+_Context: extinct, Chinese River Dolphin_
 
 ##### Ban Ki-moon
 ### [ Ban Ki-moon is officially sworn in as the next United Nations Secretary-General. ](/news/2006/12/14/ban-ki-moon-is-officially-sworn-in-as-the-next-united-nations-secretary-general.md)
@@ -21,15 +21,15 @@ The Israeli military began carrying out targeted killings of Palestinian militan
 
 ##### United States Senate
 ### [ U.S. Senator Tim Johnson (D-SD) undergoes surgery after suffering a brain hemorrhage due to an arteriovenous malformation. If he is incapacitated, the Republican Party Governor of South Dakota, Mike Rounds, will be able to appoint his replacement, potentially changing the balance of the Senate. ](/news/2006/12/14/u-s-senator-tim-johnson-d-sd-undergoes-surgery-after-suffering-a-brain-hemorrhage-due-to-an-arteriovenous-malformation-if-he-is-incapac.md)
-_Context: Tim Johnson, South Dakota, Democrat, United States Senate, Mike Rounds, South Dakota Governor, arteriovenous malformation, brain hemorrhage, Republican_
+_Context: Mike Rounds, Republican, brain hemorrhage, United States Senate, Democrat, South Dakota Governor, arteriovenous malformation, South Dakota, Tim Johnson_
 
 ##### Kidnapped
 ### [ Gunmen dressed in military uniforms kidnap between 20 and 30 people in the Sanak area of central Baghdad. ](/news/2006/12/14/gunmen-dressed-in-military-uniforms-kidnap-between-20-and-30-people-in-the-sanak-area-of-central-baghdad.md)
-_Context: kidnapped, Baghdad_
+_Context: Baghdad, kidnapped_
 
 ##### Operation Paget
 ### [ Operation Paget, the inquiry into the death in 1997 of Diana, Princess of Wales headed by Lord Stevens, a former chief of London's Metropolitan Police, concludes that there were no suspicious circumstances and that the fatal car crash in which she died was a 'tragic accident'. ](/news/2006/12/14/operation-paget-the-inquiry-into-the-death-in-1997-of-diana-princess-of-wales-headed-by-lord-stevens-a-former-chief-of-london-s-metropol.md)
-_Context: Metropolitan Police Service, grandmother, 1997, Operation Paget, Death of Diana, Princess of Wales, London, Lord Stevens_
+_Context: London, Metropolitan Police Service, 1997, Operation Paget, Death of Diana, Princess of Wales, Lord Stevens, grandmother_
 
 ##### Prime Minister
 ### [ UK Prime Minister Tony Blair is interviewed by police investigating cash for honours allegations. ](/news/2006/12/14/uk-prime-minister-tony-blair-is-interviewed-by-police-investigating-cash-for-honours-allegations.md)
@@ -41,7 +41,7 @@ _Context: 2013, European Union_
 
 ##### Nintendo
 ### [ The Nintendo Wii breaks record sales in Australia and is the fastest selling gaming console in Australian history. ](/news/2006/12/14/the-nintendo-wii-breaks-record-sales-in-australia-and-is-the-fastest-selling-gaming-console-in-australian-history.md)
-_Context: Australia, Nintendo, Wii, Australian_
+_Context: Australia, Wii, Australian, Nintendo_
 
 ## [Previous Day...](/news/2006/12/13/index.md)
 

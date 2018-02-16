@@ -17,11 +17,11 @@ Peru gives a grandiose welcome to hundreds of Inca artefacts returned by Yale Un
 
 ##### Man Booker International Prize
 ### [The finalists for the Man Booker International Prize are announced, including Wang Anyi, Juan Goytisolo, James Kelman, John le Carre, Amin Maalouf, David Malouf, Dacia Maraini, Rohinton Mistry, Philip Pullman, Marilynne Robinson, Philip Roth, Su Tong and Anne Tyler. ](/news/2011/03/30/the-finalists-for-the-man-booker-international-prize-are-announced-including-wang-anyi-juan-goytisolo-james-kelman-john-le-carra-c-amin.md)
-_Context: Philip Pullman, Marilynne Robinson, Man Booker International Prize, Amin Maalouf, Wang Anyi, Juan Goytisolo, Su Tong, Anne Tyler, Rohinton Mistry, James Kelman, David Malouf, Philip Roth, Dacia Maraini, John le Carre_
+_Context: John le Carre, Amin Maalouf, David Malouf, James Kelman, Man Booker International Prize, Su Tong, Anne Tyler, Wang Anyi, Juan Goytisolo, Rohinton Mistry, Philip Pullman, Philip Roth, Dacia Maraini, Marilynne Robinson_
 
 ##### Orca
 ### [The orca Tilikum resumes performing shows at Seaworld Orlando 13 months after being involved in the death of trainer Dawn Blancheau. ](/news/2011/03/30/the-orca-tilikum-resumes-performing-shows-at-seaworld-orlando-13-months-after-being-involved-in-the-death-of-trainer-dawn-blancheau.md)
-_Context: Tilikum, orca, Seaworld Orlando_
+_Context: orca, Seaworld Orlando, Tilikum_
 
 ##### Governor of California
 ### [The former Governor of California Arnold Schwarzenegger returns to acting in an animated television series. ](/news/2011/03/30/the-former-governor-of-california-arnold-schwarzenegger-returns-to-acting-in-an-animated-television-series.md)
@@ -37,7 +37,7 @@ The Australian dollar has risen to a 29-year high against the US dollar as deman
 
 ##### Google
 ### [Google announces plans to make the U.S. city of Kansas City, Kansas the first site in its ultra-high speed broadband network. ](/news/2011/03/30/google-announces-plans-to-make-the-u-s-city-of-kansas-city-kansas-the-first-site-in-its-ultra-high-speed-broadband-network.md)
-_Context: broadband, Kansas City, Kansas, Google_
+_Context: Kansas City, Kansas, broadband, Google_
 
 ##### Obama Administration
 ### [Obama Administration endorses Pickens plan for natural gas vehicles. ](/news/2011/03/30/obama-administration-endorses-pickens-plan-for-natural-gas-vehicles.md)
@@ -49,11 +49,11 @@ Japan called on the world not to impose &quot;unjustifiable&quot; import curbs o
 
 ##### Flood
 ### [Flooding across southern Thailand results in eleven deaths with thousands of people stranded. ](/news/2011/03/30/flooding-across-southern-thailand-results-in-eleven-deaths-with-thousands-of-people-stranded.md)
-_Context: Flood, southern Thailand_
+_Context: southern Thailand, Flood_
 
 ##### U.S. state
 ### [The U.S. state of Washington issues flood warnings. ](/news/2011/03/30/the-u-s-state-of-washington-issues-flood-warnings.md)
-_Context: U.S. state, Washington_
+_Context: Washington, U.S. state_
 
 ##### China
 ### [19 people are trapped after a tunnel under construction collapses in southwest China. ](/news/2011/03/30/19-people-are-trapped-after-a-tunnel-under-construction-collapses-in-southwest-china.md)
@@ -65,15 +65,15 @@ Former US President Jimmy Carter strongly criticises US policy towards Cuba at t
 
 ##### Kuwait
 ### [Kuwait recalls its ambassador to Iran after it convicted three people on charges of spying for Iran. ](/news/2011/03/30/kuwait-recalls-its-ambassador-to-iran-after-it-convicted-three-people-on-charges-of-spying-for-iran.md)
-_Context: Iran, Kuwait_
+_Context: Kuwait, Iran_
 
 ##### South Korea
 ### [The South Korean military holds a live-fire drill on Yeonpyeong Island which was shelled by North Korea last year. ](/news/2011/03/30/the-south-korean-military-holds-a-live-fire-drill-on-yeonpyeong-island-which-was-shelled-by-north-korea-last-year.md)
-_Context: South Korea, Yeonpyeong Island, North Korea_
+_Context: North Korea, South Korea, Yeonpyeong Island_
 
 ##### Yonhap
 ### [The Yonhap news agency in South Korea reports that the People's Republic of China has reinforced fences and increased patrols along its border with North Korea in order to stop a flow of refugees. ](/news/2011/03/30/the-yonhap-news-agency-in-south-korea-reports-that-the-people-s-republic-of-china-has-reinforced-fences-and-increased-patrols-along-its-bord.md)
-_Context: South Korea, North Korea, Yonhap, refugee, China_
+_Context: refugee, North Korea, South Korea, China, Yonhap_
 
 ##### Filipino
 ### [Three Filipinos are executed on drug charges in the People's Republic of China. ](/news/2011/03/30/three-filipinos-are-executed-on-drug-charges-in-the-people-s-republic-of-china.md)
@@ -81,7 +81,7 @@ Vice President Jejomar Binay confirms that the three convicted Filipino drug mul
 
 ##### Umar Patek
 ### [A man suspected of being Umar Patek wanted for his alleged role in the 2002 Bali bombings is arrested in Pakistan. ](/news/2011/03/30/a-man-suspected-of-being-umar-patek-wanted-for-his-alleged-role-in-the-2002-bali-bombings-is-arrested-in-pakistan.md)
-_Context: Umar Patek, Pakistan, 2002 Bali bombings_
+_Context: 2002 Bali bombings, Umar Patek, Pakistan_
 
 ##### Diamond
 ### [Diamonds worth millions are stolen from the BaselWorld Watch and Jewellery Fair in Basel, Switzerland. ](/news/2011/03/30/diamonds-worth-millions-are-stolen-from-the-baselworld-watch-and-jewellery-fair-in-basel-switzerland.md)
@@ -93,11 +93,11 @@ _Context: Burma, State Peace and Development Council_
 
 ##### Egypt
 ### [Egypt's transitional government promises to hold the Egyptian presidential election by November. ](/news/2011/03/30/egypt-s-transitional-government-promises-to-hold-the-egyptian-presidential-election-by-november.md)
-_Context: Egypt, November, Egyptian presidential election in September_
+_Context: Egyptian presidential election in September, November, Egypt_
 
 ##### Virophage
 ### [The first virophage virus found in a natural environment is discovered in Organic Lake in East Antarctica. ](/news/2011/03/30/the-first-virophage-virus-found-in-a-natural-environment-is-discovered-in-organic-lake-in-east-antarctica.md)
-_Context: East Antarctica, Organic Lake, virus, virophage_
+_Context: Organic Lake, East Antarctica, virophage, virus_
 
 ## [Previous Day...](/news/2011/03/29/index.md)
 

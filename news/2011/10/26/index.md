@@ -7,29 +7,29 @@ Formats: [HTML](2011/10/26/index.html)  [JSON](2011/10/26/index.json)  [XML](201
 ### [2011 Syrian uprising: At least 17 people are reported dead in Syria, as fighting continues between the government and opposition groups. ](/news/2011/10/26/2011-syrian-uprising-at-least-17-people-are-reported-dead-in-syria-as-fighting-continues-between-the-government-and-opposition-groups.md)
 _Context: 2011 Syrian uprising, Syria_
 
-##### Afghanistan
+##### Afghan
 ### [A bomb hidden in a fuel truck kills at least 5 people and injures 45 in Afghanistan's Parwan province. ](/news/2011/10/26/a-bomb-hidden-in-a-fuel-truck-kills-at-least-5-people-and-injures-45-in-afghanistan-s-parwan-province.md)
-_Context: Parwan province, Afghanistan_
+_Context: Parwan province, Afghan_
 
 ##### India
 ### [Indian superhero film "Ra.One", the most expensive Bollywood film to date, is released to coincide with the Hindu festival of Diwali. ](/news/2011/10/26/indian-superhero-film-ra-one-the-most-expensive-bollywood-film-to-date-is-released-to-coincide-with-the-hindu-festival-of-diwali.md)
-_Context: India, Hindu, Diwali, Ra.One, Bollywood_
+_Context: Hindu, India, Bollywood, Ra.One, Diwali_
 
 ##### Coroner
 ### [A coroner finds that the death of British soul singer Amy Winehouse in July was caused by alcohol poisoning. ](/news/2011/10/26/a-coroner-finds-that-the-death-of-british-soul-singer-amy-winehouse-in-july-was-caused-by-alcohol-poisoning.md)
-_Context: soul music, coroner, Amy Winehouse, British, alcohol poisoning_
+_Context: Amy Winehouse, British, alcohol poisoning, coroner, soul music_
 
 ##### Composite
 ### [The composite-bodied Boeing 787 Dreamliner makes its first commercial flight with All Nippon Airways, flying between Tokyo and Hong Kong. ](/news/2011/10/26/the-composite-bodied-boeing-787-dreamliner-makes-its-first-commercial-flight-with-all-nippon-airways-flying-between-tokyo-and-hong-kong.md)
-_Context: Tokyo, Hong Kong, composite, 787 Dreamliner, All Nippon Airways_
+_Context: Tokyo, 787 Dreamliner, All Nippon Airways, Hong Kong, composite_
 
 ##### Tsuyoshi Kikukawa
 ### [Tsuyoshi Kikukawa resigns as the President and Chairman of Olympus Corporation, as financial and law enforcement bodies in Japan, the United States and the United Kingdom investigate the optical equipment company's acquisitions in recent years. ](/news/2011/10/26/tsuyoshi-kikukawa-resigns-as-the-president-and-chairman-of-olympus-corporation-as-financial-and-law-enforcement-bodies-in-japan-the-united.md)
-_Context: United States, Olympus Corp, Tsuyoshi Kikukawa, United Kingdom, Japan_
+_Context: United Kingdom, Olympus Corp, Japan, Tsuyoshi Kikukawa, United States_
 
 ##### Mexican
 ### [Residents in the Mexican city of Cancun brace for Hurricane Rina, which is expected to make landfall on Thursday. ](/news/2011/10/26/residents-in-the-mexican-city-of-cancaon-brace-for-hurricane-rina-which-is-expected-to-make-landfall-on-thursday.md)
-_Context: Mexican, Hurricane Rina, Cancun_
+_Context: Hurricane Rina, Mexican, Cancun_
 
 ##### Turkey
 ### [The search for survivors of the Van earthquake in eastern Turkey enters its third day, with 459 confirmed deaths and over 1,300 injured. ](/news/2011/10/26/the-search-for-survivors-of-the-van-earthquake-in-eastern-turkey-enters-its-third-day-with-459-confirmed-deaths-and-over-1-300-injured.md)
@@ -41,7 +41,7 @@ Eurozone leaders holding a summit on the debt crisis find agreement on recapital
 
 ##### Goldman Sachs
 ### [Former Goldman Sachs and Procter and Gamble director Rajat Gupta pleads not guilty to the charge of leaking confidential information to convicted fraudster Raj Rajaratnam. ](/news/2011/10/26/former-goldman-sachs-and-procter-and-gamble-director-rajat-gupta-pleads-not-guilty-to-the-charge-of-leaking-confidential-information-to-conv.md)
-_Context: Rajat Gupta, Procter and Gamble, Goldman Sachs, Raj Rajaratnam_
+_Context: Procter and Gamble, Goldman Sachs, Rajat Gupta, Raj Rajaratnam_
 
 ##### Saif al-Islam Gaddafi
 ### [Saif al-Islam Gaddafi, son of the late Libyan dictator Muammar Gaddafi, is reported to be attempting to negotiate a surrender to the International Criminal Court. ](/news/2011/10/26/saif-al-islam-gaddafi-son-of-the-late-libyan-dictator-muammar-gaddafi-is-reported-to-be-attempting-to-negotiate-a-surrender-to-the-interna.md)
@@ -57,7 +57,7 @@ Update: 7:45 EST/3:45 PST What we know now: Scott Olsen, a US Marine who served 
 
 ##### Brazil
 ### [Brazilian Sports Minister Orlando Silva resigns following corruption allegations, but insists he is innocent. ](/news/2011/10/26/brazilian-sports-minister-orlando-silva-resigns-following-corruption-allegations-but-insists-he-is-innocent.md)
-_Context: Brazil, cabinet, Orlando Silva_
+_Context: cabinet, Orlando Silva, Brazil_
 
 ##### Fungus
 ### [American scientists confirm that a transmissible fungus, "Geomyces destructans", is responsible for the white-nose syndrome that has decimated bat populations across North America since 2006. ](/news/2011/10/26/american-scientists-confirm-that-a-transmissible-fungus-geomyces-destructans-is-responsible-for-the-white-nose-syndrome-that-has-decimat.md)

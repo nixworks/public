@@ -25,7 +25,7 @@ The killing of President Hamid Karzai&rsquo;s cousin Hashmat by a Taliban suicid
 
 ##### Ukrainian Culture Ministry
 ### [The Ukrainian Culture Ministry decides not to issue distribution licenses for two Russian films: "The White Guard", and a film about Ukrainan-born Soviet wrestler Ivan Poddubny, as they "show contempt for the Ukrainian language, people and the state," and "some facts are distorted to benefit Russia." ](/news/2014/07/29/the-ukrainian-culture-ministry-decides-not-to-issue-distribution-licenses-for-two-russian-films-the-white-guard-and-a-film-about-ukraina.md)
-_Context: Ukrainian Culture Ministry, Ivan Poddubny, The White Guard_
+_Context: The White Guard, Ukrainian Culture Ministry, Ivan Poddubny_
 
 ##### Heatwave
 ### [A heatwave in Japan has caused at least 15 deaths with more than 8000 hospitalised in the past week. ](/news/2014/07/29/a-heatwave-in-japan-has-caused-at-least-15-deaths-with-more-than-8000-hospitalised-in-the-past-week.md)

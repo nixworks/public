@@ -17,11 +17,11 @@ RESTRICTIONS on flights to and from airports in Spain, Portugal and Morocco were
 
 ##### International Committee of the Red Cross
 ### [The International Committee of the Red Cross confirms reports of a second, secret US prison at Bagram Air Base in Afghanistan after new allegations of torture. ](/news/2010/05/12/the-international-committee-of-the-red-cross-confirms-reports-of-a-second-secret-us-prison-at-bagram-air-base-in-afghanistan-after-new-alle.md)
-_Context: Bagram Air Base, International Committee of the Red Cross, Afghanistan_
+_Context: Bagram Air Base, International Committee of the Red Cross, Afghan_
 
 ##### Russia
 ### [Russia and Turkey sign a $20 billion deal permitting Moscow to build and own a controlling stake in Ankara's first nuclear power plant. ](/news/2010/05/12/russia-and-turkey-sign-a-20-billion-deal-permitting-moscow-to-build-and-own-a-controlling-stake-in-ankara-s-first-nuclear-power-plant.md)
-_Context: Turkey, Moscow, Russia, Ankara_
+_Context: Moscow, Ankara, Turkey, Russia_
 
 ##### South Sudan
 ### [In South Sudan there is violence for the third time in a week between the army and forces led by the former general George Athor. ](/news/2010/05/12/in-south-sudan-there-is-violence-for-the-third-time-in-a-week-between-the-army-and-forces-led-by-the-former-general-george-athor.md)
@@ -29,7 +29,7 @@ _Context: South Sudan, George Athor_
 
 ##### Hanzhong
 ### [9 people, including 7 children, are killed at a school near Hanzhong city, Shaanxi, China. ](/news/2010/05/12/9-people-including-7-children-are-killed-at-a-school-near-hanzhong-city-shaanxi-china.md)
-_Context: China, Shaanxi, Hanzhong_
+_Context: Hanzhong, China, Shaanxi_
 
 ##### Shi'ite
 ### [A bomb planted inside a grocery store in a mainly Shi'ite area of Baghdad kills three people and wounds 23. ](/news/2010/05/12/a-bomb-planted-inside-a-grocery-store-in-a-mainly-shi-ite-area-of-baghdad-kills-three-people-and-wounds-23.md)

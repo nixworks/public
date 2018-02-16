@@ -13,7 +13,7 @@ More than 200 people were confirmed killed and hundreds more feared dead after a
 
 ##### Tunisia
 ### [Voters in Tunisia go to the polls for the country's first election since the Tunisian Revolution. ](/news/2011/10/23/voters-in-tunisia-go-to-the-polls-for-the-country-s-first-election-since-the-tunisian-revolution.md)
-_Context: Tunisian Constituent Assembly, Jasmine Revolution of 2011, Tunisia_
+_Context: Jasmine Revolution of 2011, Tunisia, Tunisian Constituent Assembly_
 
 ##### Bulgaria
 ### [Voters in Bulgaria go to the polls for a presidential election. ](/news/2011/10/23/voters-in-bulgaria-go-to-the-polls-for-a-presidential-election.md)
@@ -21,11 +21,11 @@ _Context: Bulgaria, presidential election_
 
 ##### Argentina
 ### [Voters in Argentina go to the polls for a general election, with exit polls showing the President Cristina Fernndez de Kirchner being reelected in a landslide. ](/news/2011/10/23/voters-in-argentina-go-to-the-polls-for-a-general-election-with-exit-polls-showing-the-president-cristina-fernandez-de-kirchner-being-reele.md)
-_Context: Cristina Kirchner, President of Argentina, exit poll, Argentina, general election_
+_Context: exit poll, President of Argentina, general election, Argentina, Cristina Kirchner_
 
 ##### Switzerland
 ### [Voters in Switzerland go to the polls for a federal election, with the Green Liberal Party of Switzerland gaining the most seats compared to the 2007 election, and the Swiss People's Party losing eight seats but remaining the biggest party in the Federal Assembly. ](/news/2011/10/23/voters-in-switzerland-go-to-the-polls-for-a-federal-election-with-the-green-liberal-party-of-switzerland-gaining-the-most-seats-compared-to.md)
-_Context: Swiss People's Party, federal election, Switzerland, 2007 election, Federal Assembly, Green Liberal Party of Switzerland_
+_Context: Green Liberal Party of Switzerland, 2007 election, federal election, Swiss People's Party, Federal Assembly, Switzerland_
 
 ## [Previous Day...](/news/2011/10/22/index.md)
 

@@ -17,11 +17,11 @@ Verizon Communications Inc. told 45,000 striking workers that it will suspend ce
 
 ##### Gold
 ### [The price of gold reaches a new record after the President of Venezuela Hugo Chvez announces plans to nationalize the Venezuelan gold industry. ](/news/2011/08/17/the-price-of-gold-reaches-a-new-record-after-the-president-of-venezuela-hugo-chavez-announces-plans-to-nationalize-the-venezuelan-gold-indus.md)
-_Context: Venezuelan President, gold, Venezuela, Hugo Chvez_
+_Context: Venezuelan President, Venezuela, Hugo Chvez, gold_
 
 ##### Financial Times
 ### [The "Financial Times" reports that sources "familiar with the situation" say Liberty Media is losing interest in a purchase of Barnes & Noble, due to financing constraints. ](/news/2011/08/17/the-financial-times-reports-that-sources-familiar-with-the-situation-say-liberty-media-is-losing-interest-in-a-purchase-of-barnes-nobl.md)
-_Context: Barnes & Noble, Financial Times, Liberty Media_
+_Context: Financial Times, Liberty Media, Barnes & Noble_
 
 ##### Special Tribunal for Lebanon
 ### [The Special Tribunal for Lebanon publishes an indictment against Hezbollah members accused in the 2005 assassination of Lebanese Prime Minister Rafic Hariri. ](/news/2011/08/17/the-special-tribunal-for-lebanon-publishes-an-indictment-against-hezbollah-members-accused-in-the-2005-assassination-of-lebanese-prime-minis.md)
@@ -29,11 +29,11 @@ International jurists Wednesday released details of how an analysis of cellphone
 
 ##### South Korea
 ### [A lawyer claims that 25,000 South Koreans will be suing Apple Inc. in relation to alleged privacy breaches in relation to collection of iPhone location addresses. ](/news/2011/08/17/a-lawyer-claims-that-25-000-south-koreans-will-be-suing-apple-inc-in-relation-to-alleged-privacy-breaches-in-relation-to-collection-of-ipho.md)
-_Context: iPhone, Apple Inc., South Korea_
+_Context: iPhone, South Korea, Apple Inc._
 
 ##### Sexual assault
 ### [Three sexual assault cases are lodged against the Roman Catholic Archdiocese of Miami. ](/news/2011/08/17/three-sexual-assault-cases-are-lodged-against-the-roman-catholic-archdiocese-of-miami.md)
-_Context: sexual assault, Roman Catholic Archdiocese of Miami_
+_Context: Roman Catholic Archdiocese of Miami, sexual assault_
 
 ##### Toronto
 ### [A Toronto Imam is charged in relation to alleged sexual assaults and death threats committed against five victims over the course of three years. ](/news/2011/08/17/a-toronto-imam-is-charged-in-relation-to-alleged-sexual-assaults-and-death-threats-committed-against-five-victims-over-the-course-of-three-y.md)
@@ -45,11 +45,11 @@ A fourth person is charged with murder after the deaths of three men who were st
 
 ##### Vasyl Dzharty
 ### [Vasyl Dzharty, the Prime Minister of Crimea, an autonomous region of Ukraine, dies in office. ](/news/2011/08/17/vasyl-dzharty-the-prime-minister-of-crimea-an-autonomous-region-of-ukraine-dies-in-office.md)
-_Context: autonomous region, Vasyl Dzharty, Ukraine, Prime Minister of Crimea_
+_Context: Ukraine, Vasyl Dzharty, Prime Minister of Crimea, autonomous region_
 
 ##### Singapore
 ### [Singapore's Presidential Elections Committee approves four presidential candidates for the presidential election on August 27: Tony Tan Keng Yam, Tan Cheng Bock, Tan Kin Lian and Tan Jee Say. ](/news/2011/08/17/singapore-s-presidential-elections-committee-approves-four-presidential-candidates-for-the-presidential-election-on-august-27-tony-tan-keng.md)
-_Context: Singapore, Tan Cheng Bock, presidential election, Tan Kin Lian, Tony Tan Keng Yam, Presidential Elections Committee, Tan Jee Say_
+_Context: Presidential Elections Committee, Tony Tan Keng Yam, presidential election, Tan Jee Say, Singapore, Tan Cheng Bock, Tan Kin Lian_
 
 ## [Previous Day...](/news/2011/08/16/index.md)
 

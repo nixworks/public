@@ -21,7 +21,7 @@ Jeffrey Feltman will meet foreign minister and other diplomats in highest-level 
 
 ##### Tax Cuts and Jobs Act of 2017
 ### [France puts the concern on the E.U. Ecofin agenda that the current version of the United States fiscal act would unduly penalize E.U. companies by taxing their U.S. operations beyond locally produced value added. ](/news/2017/12/4/france-puts-the-concern-on-the-e-u-ecofin-agenda-that-the-current-version-of-the-united-states-fiscal-act-would-unduly-penalize-e-u-compan.md)
-_Context: value added, Tax Cuts and Jobs Act of 2017, United States, France, E.U. Ecofin_
+_Context: France, United States, value added, E.U. Ecofin, Tax Cuts and Jobs Act of 2017_
 
 ##### Executive Order 13769
 ### [The Supreme Court of the United States rules that the act banning most people from eight countries, six of them Muslim-majority, to travel to the United States can take full effect pending legal challenges. ](/news/2017/12/4/the-supreme-court-of-the-united-states-rules-that-the-act-banning-most-people-from-eight-countries-six-of-them-muslim-majority-to-travel-t.md)

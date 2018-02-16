@@ -17,7 +17,7 @@ Less than a week after powerful thunderstorm winds toppled a stage at the Indian
 
 ##### Hewlett-Packard
 ### [Hewlett-Packard shares drop 20% on news that the company plans to split off its personal computer division as a separate company.](/news/2011/08/19/hewlett-packard-shares-drop-20-on-news-that-the-company-plans-to-split-off-its-personal-computer-division-as-a-separate-company.md)
-_Context: Hewlett-Packard, PC_
+_Context: PC, Hewlett-Packard_
 
 ##### Tokyo Stock Exchange
 ### [The Tokyo Stock Exchange's Nikkei Stock Average falls by 1.9% in early trading as the trend of stock market falls continues. ](/news/2011/08/19/the-tokyo-stock-exchange-s-nikkei-stock-average-falls-by-1-9-in-early-trading-as-the-trend-of-stock-market-falls-continues.md)
@@ -33,15 +33,15 @@ A strong earthquake with a preliminary magnitude of 6.8 jolted northeastern Japa
 
 ##### Chinese Academy of Sciences
 ### [A Chinese scientist is reported missing on Xinjiang Uyghur Autonomous Region's Muztagh Ata glacier after conducting research on the Tibetan Plateau. ](/news/2011/08/19/a-chinese-scientist-is-reported-missing-on-xinjiang-uyghur-autonomous-region-s-muztagh-ata-glacier-after-conducting-research-on-the-tibetan.md)
-_Context: Tibetan Plateau, Chinese Academy of Sciences, Xinjiang Uyghur Autonomous Region, glacier, Muztagh Ata_
+_Context: Tibetan Plateau, Chinese Academy of Sciences, glacier, Xinjiang Uyghur Autonomous Region, Muztagh Ata_
 
 ##### Pittsburgh
 ### [Three people die in the city of Pittsburgh in the US state of Pennsylvania as a result of flash flooding. ](/news/2011/08/19/three-people-die-in-the-city-of-pittsburgh-in-the-us-state-of-pennsylvania-as-a-result-of-flash-flooding.md)
-_Context: flash flooding, Pittsburgh, Pennsylvania_
+_Context: flash flooding, Pennsylvania, Pittsburgh_
 
 ##### Sweden
 ### [The announcement of possible wreck relocation of Swedish 16th century warship Mars in the Baltic Sea. ](/news/2011/08/19/the-announcement-of-possible-wreck-relocation-of-swedish-16th-century-warship-mars-in-the-baltic-sea.md)
-_Context: Sweden, Mars, Baltic Sea_
+_Context: Baltic Sea, Sweden, Mars_
 
 ## [Previous Day...](/news/2011/08/18/index.md)
 

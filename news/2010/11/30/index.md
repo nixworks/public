@@ -9,7 +9,7 @@ At least 15 people died and 25 were injured in fighting in Somalia’s capital, 
 
 ##### Bishkek
 ### [An explosion occurs outside a stadium in Bishkek, Kyrgyzstan, injuring four people. ](/news/2010/11/30/an-explosion-occurs-outside-a-stadium-in-bishkek-kyrgyzstan-injuring-four-people.md)
-_Context: Kyrgyzstan, Bishkek_
+_Context: Bishkek, Kyrgyzstan_
 
 #####  tear gassed
 ### [An inquiry is ordered over the death of an immigrant in France, who was tear gassed, batoned, and twice tasered during an incident which left four police injured. ](/news/2010/11/30/an-inquiry-is-ordered-over-the-death-of-an-immigrant-in-france-who-was-tear-gassed-batoned-and-twice-tasered-during-an-incident-which-lef.md)
@@ -21,7 +21,7 @@ Mexican soldiers uncover 18 bodies buried close to the US border in Chihuahua, t
 
 ##### Suicide bombing
 ### [Six people are killed in a suicide bombing in the Bannu district in northwestern Pakistan. ](/news/2010/11/30/six-people-are-killed-in-a-suicide-bombing-in-the-bannu-district-in-northwestern-pakistan.md)
-_Context: suicide bombing, Bannu district, Pakistan_
+_Context: Bannu district, Pakistan, suicide bombing_
 
 ##### Seamus Heaney
 ### [A poem written by Nobel laureate Seamus Heaney sells for EUR4,800 at auction. ](/news/2010/11/30/a-poem-written-by-nobel-laureate-seamus-heaney-sells-for-a-4-800-at-auction.md)
@@ -33,7 +33,7 @@ _Context: prostate cancer, Movember_
 
 ##### United Nations
 ### [The United Nations Climate Change Conference (COP-16) opens in the Mexican resort city of Cancun. ](/news/2010/11/30/the-united-nations-climate-change-conference-cop-16-opens-in-the-mexican-resort-city-of-cancaon.md)
-_Context: U.N. climate change talks, Cancun, Mexican, United Nations, Climate Change_
+_Context: Cancun, United Nations, Climate Change, Mexican, U.N. climate change talks_
 
 ##### Rome, Italy
 ### [Students protest in Rome and other Italian cities as politicians threaten to cut funding for education and research. ](/news/2010/11/30/students-protest-in-rome-and-other-italian-cities-as-politicians-threaten-to-cut-funding-for-education-and-research.md)
@@ -61,7 +61,7 @@ _Context: Ireland_
 
 ##### Mudslide
 ### [Heavy flooding and mudslides claim at least 21 lives in Venezuela, with the President of Venezuela declaring a state of emergency in the state of Falcon. ](/news/2010/11/30/heavy-flooding-and-mudslides-claim-at-least-21-lives-in-venezuela-with-the-president-of-venezuela-declaring-a-state-of-emergency-in-the-sta.md)
-_Context: Venezuela, Falcon, state of emergency, President, mudslide_
+_Context: President, state of emergency, Venezuela, Falcon, mudslide_
 
 ##### United States
 ### [Officials from the United States, South Korea and Japan are to meet in Washington, D.C., to discuss North Korea. ](/news/2010/11/30/officials-from-the-united-states-south-korea-and-japan-are-to-meet-in-washington-d-c-to-discuss-north-korea.md)
@@ -69,7 +69,7 @@ North Korea says it has thousands of centrifuges operating at a previously undet
 
 ##### Russia
 ### [Russian President Dmitry Medvedev warns of an "arms race" if Russia and the West can not agree on a missile defence system for Europe. ](/news/2010/11/30/russian-president-dmitry-medvedev-warns-of-an-arms-race-if-russia-and-the-west-can-not-agree-on-a-missile-defence-system-for-europe.md)
-_Context: arms race, Europe, Dmitry Medvedev, Russia, Russian President_
+_Context: Europe, Dmitry Medvedev, Russian President, arms race, Russia_
 
 ##### Ecuador
 ### [Ecuador invites Julian Assange of WikiLeaks to speak publicly and offers him residency where he can make more revelations. Venezuelan President Hugo Chavez praises the website and calls for the resignation of U.S. secretary of state Hillary Clinton. ](/news/2010/11/30/ecuador-invites-julian-assange-of-wikileaks-to-speak-publicly-and-offers-him-residency-where-he-can-make-more-revelations-venezuelan-presid.md)
@@ -89,7 +89,7 @@ Indian police raid 11 locations in connection with alleged financial irregularit
 
 ##### Pakistan
 ### [Pakistani government starts securing 36 hacked websites after the 'Indian Cyber Army' gained root access to a main server hosting important Pakistani government websites. ](/news/2010/11/30/pakistani-government-starts-securing-36-hacked-websites-after-the-aindian-cyber-armya-gained-root-access-to-a-main-server-hosting-import.md)
-_Context: Pakistan, Indian Cyber Army, Pakistani government_
+_Context: Indian Cyber Army, Pakistani government, Pakistan_
 
 ##### Spain
 ### [An orderly at a Spanish retirement home admits to killing 11 residents. ](/news/2010/11/30/an-orderly-at-a-spanish-retirement-home-admits-to-killing-11-residents.md)
@@ -97,11 +97,11 @@ An orderly at a retirement home in north-eastern Spain has admitted killing 11 e
 
 ##### Interpol
 ### [Interpol issues an arrest warrant for Julian Assange, the founder of WikiLeaks, to face sexual assault charges in Sweden. ](/news/2010/11/30/interpol-issues-an-arrest-warrant-for-julian-assange-the-founder-of-wikileaks-to-face-sexual-assault-charges-in-sweden.md)
-_Context: arrest warrant, Sweden, WikiLeaks, sexual assault, Julian Assange, Interpol_
+_Context: WikiLeaks, arrest warrant, sexual assault, Interpol, Julian Assange, Sweden_
 
 ##### Kyrgyzstan
 ### [Kyrgyzstan's parliament agrees to form a three-way coalition government, creating the first parliamentary democracy in Central Asia. ](/news/2010/11/30/kyrgyzstan-s-parliament-agrees-to-form-a-three-way-coalition-government-creating-the-first-parliamentary-democracy-in-central-asia.md)
-_Context: Central Asia, Kyrgyzstan, parliamentary democracy_
+_Context: Kyrgyzstan, parliamentary democracy, Central Asia_
 
 ##### Minister for Justice and Equality
 ### [Irish Minister for Justice and Law Reform Dermot Ahern announces he is not to contest his seat in Dail Eireann at the next general election (due in 2011) as he has "a painful medical condition necessitating heavy medication". ](/news/2010/11/30/irish-minister-for-justice-and-law-reform-dermot-ahern-announces-he-is-not-to-contest-his-seat-in-da-il-aireann-at-the-next-general-electio.md)
@@ -109,7 +109,7 @@ Minister for Justice Dermot Ahern has said that he will not contest his Dáil se
 
 ##### United States Secretary of Defense
 ### [United States Secretary of Defense Robert Gates urges the United States Senate to abolish "don't ask don't tell" for gays and lesbians serving in the US military and releases a report showing that ending the policy would have little impact. ](/news/2010/11/30/united-states-secretary-of-defense-robert-gates-urges-the-united-states-senate-to-abolish-don-t-ask-don-t-tell-for-gays-and-lesbians-servi.md)
-_Context: Robert Gates, US military, don't ask don't tell, United States Secretary of Defense, United States Senate_
+_Context: United States Senate, US military, United States Secretary of Defense, Robert Gates, don't ask don't tell_
 
 ##### Slurpee Summit
 ### [The Slurpee Summit occurs in Washington, DC. ](/news/2010/11/30/the-slurpee-summit-occurs-in-washington-dc.md)

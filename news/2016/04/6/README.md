@@ -21,11 +21,11 @@ Months of a severe drought broken by heavy rain as torrential downpours develop 
 
 ##### International Criminal Tribunal for the former Yugoslavia
 ### [The International Criminal Tribunal for the former Yugoslavia, in a majority vote, ordered an "indefinite" halt in the war crimes trial of Croatian Serb rebel leader Goran Hadzic, who is terminally ill with brain cancer and declared "unfit to stand trial." Hadzic was charged with 14 war crimes and crimes against humanity for his role in the 1991-95 war in Croatia. ](/news/2016/04/6/the-international-criminal-tribunal-for-the-former-yugoslavia-in-a-majority-vote-ordered-an-indefinite-halt-in-the-war-crimes-trial-of-c.md)
-_Context: Croatia, Goran Hadzic, International Criminal Tribunal for the former Yugoslavia, Croatian Serb, 1991-95 war_
+_Context: International Criminal Tribunal for the former Yugoslavia, Goran Hadzic, Croatian Serb, 1991-95 war, Croatia_
 
 ##### Russian President
 ### [The President of Russia Vladimir Putin announces the creation of a new National Guard, which he said would fight terrorism and organized crime. However, some critics claim the creation of the National Guard is linked to the upcoming legislative election this September with them saying that Putin fears unrest, something Putin's spokesman Dmitry Peskov denies. ](/news/2016/04/6/the-president-of-russia-vladimir-putin-announces-the-creation-of-a-new-national-guard-which-he-said-would-fight-terrorism-and-organized-cri.md)
-_Context: National Guard, Vladimir Putin, Russian legislative election, 2016, Russian President, Dmitry Peskov_
+_Context: Russian legislative election, 2016, Vladimir Putin, Dmitry Peskov, National Guard, Russian President_
 
 ##### Dutch Ukraine-European Union Association Agreement referendum, 2016
 ### [Voters in the Netherlands go to the polls for a non-binding referendum on approval of the Ukraine-European Union Association Agreement. ](/news/2016/04/6/voters-in-the-netherlands-go-to-the-polls-for-a-non-binding-referendum-on-approval-of-the-ukraineaeuropean-union-association-agreement.md)

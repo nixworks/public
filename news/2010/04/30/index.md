@@ -25,11 +25,11 @@ _Context: Attorney-General, government, Tonga_
 
 ##### Oil spill
 ### [The oil spill resulting from the explosion of the "Deepwater Horizon" drilling rig in the Gulf of Mexico reaches the Louisiana coast. ](/news/2010/04/30/the-oil-spill-resulting-from-the-explosion-of-the-deepwater-horizon-drilling-rig-in-the-gulf-of-mexico-reaches-the-louisiana-coast.md)
-_Context: Louisiana, Deepwater Horizon drilling rig explosion, oil spill, Gulf of Mexico, Deepwater Horizon_
+_Context: oil spill, Deepwater Horizon drilling rig explosion, Deepwater Horizon, Louisiana, Gulf of Mexico_
 
 ##### Pakistan
 ### [Former Pakistani spy Khalid Khawaja is murdered; a previously unknown militant group - Asian Tigers - claims responsibility. ](/news/2010/04/30/former-pakistani-spy-khalid-khawaja-is-murdered-a-previously-unknown-militant-group-asian-tigers-claims-responsibility.md)
-_Context: Pakistan, Khalid Khawaja_
+_Context: Khalid Khawaja, Pakistan_
 
 ##### Thailand
 ### [Protesters in Thailand storm a hospital amid rising tension between pro- and anti-government factions. ](/news/2010/04/30/protesters-in-thailand-storm-a-hospital-amid-rising-tension-between-pro-and-anti-government-factions.md)
@@ -41,11 +41,11 @@ _Context: Goldman Sachs, United States Justice Department_
 
 ##### Nigeria
 ### [The Nigerian House of Representatives announces the creation of ten new states, five in the north and five in the south, by 2011. ](/news/2010/04/30/the-nigerian-house-of-representatives-announces-the-creation-of-ten-new-states-five-in-the-north-and-five-in-the-south-by-2011.md)
-_Context: House of Representatives, ten new states, Nigeria_
+_Context: ten new states, House of Representatives, Nigeria_
 
 ##### China
 ### [China and South Korea discuss the potential security threat presented by North Korean aggression. ](/news/2010/04/30/china-and-south-korea-discuss-the-potential-security-threat-presented-by-north-korean-aggression.md)
-_Context: North Korea, South Korea, China_
+_Context: China, South Korea, North Korea_
 
 ##### United States
 ### [The United States announces it will begin mediating indirect peace talks between Israel and Palestine. ](/news/2010/04/30/the-united-states-announces-it-will-begin-mediating-indirect-peace-talks-between-israel-and-palestine.md)
@@ -65,7 +65,7 @@ _Context: Eurovision Song Contest 1994, Dublin, funeral, Gerry Ryan, The Gerry R
 
 ##### Russia
 ### [Russian businessman Vasily Bukhtienko, who established a Joseph Stalin museum in Volgograd, is beat to death by electric shocks. ](/news/2010/04/30/russian-businessman-vasily-bukhtienko-who-established-a-joseph-stalin-museum-in-volgograd-is-beat-to-death-by-electric-shocks.md)
-_Context: Russia, Joseph Stalin, Volgograd, Vasily Bukhtienko_
+_Context: Joseph Stalin, Volgograd, Russia, Vasily Bukhtienko_
 
 ## [Previous Day...](/news/2010/04/29/index.md)
 

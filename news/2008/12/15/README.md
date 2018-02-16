@@ -5,7 +5,7 @@ Formats: [HTML](2008/12/15/index.html)  [JSON](2008/12/15/index.json)  [XML](200
 
 ##### Montenegro
 ### [ Montenegro presents its official application for European Union membership to current EU Council President Nicolas Sarkozy, hoping to win candidate status in 2009. ](/news/2008/12/15/montenegro-presents-its-official-application-for-european-union-membership-to-current-eu-council-president-nicolas-sarkozy-hoping-to-win-c.md)
-_Context: Montenegro, Council of the European Union, European Union, Nicolas Sarkozy, presents its official application, the Council of_
+_Context: Montenegro, the Council of, European Union, Council of the European Union, presents its official application, Nicolas Sarkozy_
 
 ##### House of Representatives
 ### [ The House of Representatives of Thailand selects Abhisit Vejjajiva of the Democrat Party as the new Prime Minister. ](/news/2008/12/15/the-house-of-representatives-of-thailand-selects-abhisit-vejjajiva-of-the-democrat-party-as-the-new-prime-minister.md)
@@ -13,7 +13,7 @@ The vote followed the end of months of protests against pro-Thaksin parties that
 
 ##### President
 ### [ President of Romania Traian Basescu nominates Emil Boc, President of the Democratic Liberal Party, as Prime Minister. ](/news/2008/12/15/president-of-romania-traian-basescu-nominates-emil-boc-president-of-the-democratic-liberal-party-as-prime-minister.md)
-_Context: Prime Minister, Traian Basescu, Democrat Liberals, Romania, President, Emil Boc_
+_Context: Democrat Liberals, Traian Basescu, Emil Boc, Prime Minister, Romania, President_
 
 ##### Maine
 ### [ Hundreds of thousands of houses in Maine, Massachusetts, New York, and New Hampshire are left without electricity after an ice storm. ](/news/2008/12/15/hundreds-of-thousands-of-houses-in-maine-massachusetts-new-york-and-new-hampshire-are-left-without-electricity-after-an-ice-storm.md)

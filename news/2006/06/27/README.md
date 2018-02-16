@@ -9,31 +9,31 @@ _Context: Chad, Central African Republic_
 
 ##### Armenia
 ### [ Armenian President Robert Kocharyan and Azerbaijani President Ilham Aliyev agree to allow the residents of Nagorno-Karabakh to decide the region's future status through a popular vote. ](/news/2006/06/27/armenian-president-robert-kocharyan-and-azerbaijani-president-ilham-aliyev-agree-to-allow-the-residents-of-nagorno-karabakh-to-decide-the-r.md)
-_Context: Ilham Aliyev's, Nagorno-Karabakh region, Armenia, President, Armenian President, Azerbaijan, Robert Kocharyan_
+_Context: Nagorno-Karabakh region, Armenian President, Robert Kocharyan, President, Ilham Aliyev's, Azerbaijan, Armenia_
 
 ##### United States
 ### [ The most recent attempt in the United States to adopt a flag desecration amendment fails in the Senate by one vote. ](/news/2006/06/27/the-most-recent-attempt-in-the-united-states-to-adopt-a-flag-desecration-amendment-fails-in-the-senate-by-one-vote.md)
-_Context: United States, United States Senate, flag desecration amendment_
+_Context: flag desecration amendment, United States, United States Senate_
 
 ##### Popular music
 ### [ Popular musician Axl Rose from the band Guns N' Roses is arrested in Stockholm, Sweden, for alleged violent conduct including biting a security guard on the leg. ](/news/2006/06/27/popular-musician-axl-rose-from-the-band-guns-n-roses-is-arrested-in-stockholm-sweden-for-alleged-violent-conduct-including-biting-a-secu.md)
-_Context: Popular music, Stockholm, Axl Rose, Sweden, Guns N' Roses_
+_Context: Popular music, Guns N' Roses, Stockholm, Sweden, Axl Rose_
 
 ##### Iran
 ### [ Iranian Supreme Leader Ayatollah Ali Khamenei says Iran does "not need" to talk with the United States over its nuclear program. ](/news/2006/06/27/iranian-supreme-leader-ayatollah-ali-khamenei-says-iran-does-not-need-to-talk-with-the-united-states-over-its-nuclear-program.md)
-_Context: Ali Khamenei, Ayatollah, Iran_
+_Context: Iran, Ali Khamenei, Ayatollah_
 
 ##### Hamas
 ### [ The Hamas-led Palestinian government has reportedly agreed to implicitly recognise Israel, paving the way to reopening peace talks with it. Other Hamas officials later deny these reports. ](/news/2006/06/27/the-hamas-led-palestinian-government-has-reportedly-agreed-to-implicitly-recognise-israel-paving-the-way-to-reopening-peace-talks-with-it.md)
-_Context: Israel, form of government, Hamas, Palestinian_
+_Context: form of government, Palestinian, Hamas, Israel_
 
 ##### Palestinian
 ### [ A Palestinian militant group kidnaps and an hour later kills a 19-year-old Israeli tertiary student, Eliyahu Asheri. The same group later threatens it will kill the student if the Israeli offensive continues. ](/news/2006/06/27/a-palestinian-militant-group-kidnaps-and-an-hour-later-kills-a-19-year-old-israeli-tertiary-student-eliyahu-asheri-the-same-group-later-t.md)
-_Context: Israel, Eliyahu Asheri, kidnapped, Palestinian, tertiary_
+_Context: tertiary, Eliyahu Asheri, Palestinian, kidnapped, Israel_
 
 ##### Iraqi Special Tribunal
 ### [ The Iraqi Special Tribunal announces that Saddam Hussein and six co-defendants will face trial on August 21 in relation to the 1980s Anfal campaign in which 100,000 Kurds are estimated to have died. ](/news/2006/06/27/the-iraqi-special-tribunal-announces-that-saddam-hussein-and-six-co-defendants-will-face-trial-on-august-21-in-relation-to-the-1980s-anfal.md)
-_Context: Anfal campaign, Saddam Hussein, Iraqi Special Tribunal, Kurd, August 21_
+_Context: Iraqi Special Tribunal, August 21, Saddam Hussein, Kurd, Anfal campaign_
 
 ##### Legislative chamber
 ### [ A vote in the Legislative Yuan to recall Taiwanese President Chen Shui-bian, who is implicated in numerous corruption scandals, fails to gain the necessary two-thirds majority. ](/news/2006/06/27/a-vote-in-the-legislative-yuan-to-recall-taiwanese-president-chen-shui-bian-who-is-implicated-in-numerous-corruption-scandals-fails-to-ga.md)
@@ -41,7 +41,7 @@ _Context: President, legislative chamber, Chen Shui-bian_
 
 ##### Nguyen Minh Triet
 ### [ Nguyen Minh Triet becomes President of Vietnam with Nguyen TCNYn Dung expected to become the new Prime Minister of Vietnam. ](/news/2006/06/27/nguyen-minh-triet-becomes-president-of-vietnam-with-nguya-n-taocnyn-da-c-ng-expected-to-become-the-new-prime-minister-of-vietnam.md)
-_Context: prime minister, Nguyen TCNYn Dung, Nguyen Minh Triet, President of Vietnam_
+_Context: Nguyen TCNYn Dung, President of Vietnam, Nguyen Minh Triet, prime minister_
 
 ## [Previous Day...](/news/2006/06/26/index.md)
 

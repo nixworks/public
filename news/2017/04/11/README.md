@@ -5,7 +5,7 @@ Formats: [HTML](2017/04/11/index.html)  [JSON](2017/04/11/index.json)  [XML](201
 
 ##### Syrian Civil War
 ### [According to the Russian Defence Ministry, two of its soldiers have been killed by a mortar attack in Syria while another was wounded. The ministry did not specify when or where the attack occurred. ](/news/2017/04/11/according-to-the-russian-defence-ministry-two-of-its-soldiers-have-been-killed-by-a-mortar-attack-in-syria-while-another-was-wounded-the-m.md)
-_Context: Russian military intervention in Syria, Ministry of Defence, Syrian Civil War, Syria_
+_Context: Ministry of Defence, Syrian Civil War, Syria, Russian military intervention in Syria_
 
 ##### Borussia Dortmund team bus bombing
 ### [Three explosions occur near the Borussia Dortmund football team bus as it slowed down to turn a corner. Spanish player Marc Bartra was injured and has been taken to hospital. Dortmund's UEFA Champions League fixture against AS Monaco FC is subsequently postponed. ](/news/2017/04/11/three-explosions-occur-near-the-borussia-dortmund-football-team-bus-as-it-slowed-down-to-turn-a-corner-spanish-player-marc-bartra-was-injur.md)

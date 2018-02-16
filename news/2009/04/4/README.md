@@ -5,15 +5,15 @@ Formats: [HTML](2009/04/4/index.html)  [JSON](2009/04/4/index.json)  [XML](2009/
 
 ##### Llaima
 ### [ The Llaima volcano in Chile begins emitting lava and ash, prompting evacuations and landslide warnings. ](/news/2009/04/4/the-llaima-volcano-in-chile-begins-emitting-lava-and-ash-prompting-evacuations-and-landslide-warnings.md)
-_Context: lava, Llaima, volcano, ash, warnings, erupts, landslide, evacuation centers, Chile_
+_Context: evacuation centers, warnings, landslide, Chile, erupts, lava, Llaima, volcano, ash_
 
 ##### Police officers
 ### [ Three police officers are killed in Pittsburgh, Pennsylvania, United States. ](/news/2009/04/4/three-police-officers-are-killed-in-pittsburgh-pennsylvania-united-states.md)
-_Context: killed, Pittsburgh, United States, Pennsylvania, police officers_
+_Context: United States, killed, Pennsylvania, Pittsburgh, police officers_
 
 ##### Organisation for Economic Co-operation and Development
 ### [ The Organisation for Economic Co-operation and Development blacklists Costa Rica, Malaysia and the Philippines as non-cooperative tax havens. ](/news/2009/04/4/the-organisation-for-economic-co-operation-and-development-blacklists-costa-rica-malaysia-and-the-philippines-as-non-cooperative-tax-haven.md)
-_Context: Organisation for Economic Co-operation and Development, Costa Rica, Philippines, Malaysia, blacklists, tax haven_
+_Context: blacklists, Philippines, Organisation for Economic Co-operation and Development, tax haven, Malaysia, Costa Rica_
 
 ##### United States
 ### [ A U.S. drone aircraft's missile kills 13 people in North Waziristan, Pakistan. ](/news/2009/04/4/a-u-s-drone-aircraft-s-missile-kills-13-people-in-north-waziristan-pakistan.md)
@@ -25,15 +25,15 @@ NATO leaders agreed unanimously on Saturday to appoint Danish Prime Minister And
 
 ##### Paramilitary soldiers
 ### [ Six Frontier Corpsmen are killed during a suicide attack in Islamabad, Pakistan. ](/news/2009/04/4/six-frontier-corpsmen-are-killed-during-a-suicide-attack-in-islamabad-pakistan.md)
-_Context: Islamabad, suicide attack, Pakistan, paramilitary soldiers, killed_
+_Context: killed, Pakistan, suicide attack, Islamabad, paramilitary soldiers_
 
 ##### Mon Mome
 ### [ Mon Mome wins the 2009 Grand National in Aintree, England. ](/news/2009/04/4/mon-mome-wins-the-2009-grand-national-in-aintree-england.md)
-_Context: Grand National, Aintree, Mon Mome, England, 2009_
+_Context: England, Grand National, 2009, Mon Mome, Aintree_
 
 ##### Balochistan Liberation United Front
 ### [ The Balochistan Liberation United Front releases United Nations official John Solecki from captivity in Quetta, Pakistan. ](/news/2009/04/4/the-balochistan-liberation-united-front-releases-united-nations-official-john-solecki-from-captivity-in-quetta-pakistan.md)
-_Context: United Nations, Balochistan Liberation United Front, Quetta, John Solecki, official, captivity, Pakistan_
+_Context: Pakistan, official, Balochistan Liberation United Front, captivity, John Solecki, Quetta, United Nations_
 
 ## [Previous Day...](/news/2009/04/3/index.md)
 

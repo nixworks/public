@@ -17,7 +17,7 @@ _Context: Wildfire, Texas_
 
 ##### German
 ### [Voters in the German state of Mecklenburg-Vorpommern go to the polls for a state election with the Social Democrats and Greens performing well and the Christian Democrats and Free Democrats performing poorly. ](/news/2011/09/4/voters-in-the-german-state-of-mecklenburg-vorpommern-go-to-the-polls-for-a-state-election-with-the-social-democrats-and-greens-performing-we.md)
-_Context: state election, German, Free Democratic Party (FDP), CDU, Landtag of Mecklenburg-Vorpommern, Greens, Social Democratic Party of Germany_
+_Context: Social Democratic Party of Germany, state election, German, CDU, Free Democratic Party (FDP), Landtag of Mecklenburg-Vorpommern, Greens_
 
 ## [Previous Day...](/news/2011/09/3/index.md)
 

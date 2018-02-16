@@ -17,7 +17,7 @@ The Dow posted its worst week in more than three years as oil prices continued t
 
 ##### Capsized ferry MV Mutambala
 ### [The ferry MV Mutambala capsizes on Lake Tanganyika, Democratic Republic of the Congo leaving at least 26 dead. ](/news/2014/12/12/the-ferry-mv-mutambala-capsizes-on-lake-tanganyika-democratic-republic-of-the-congo-leaving-at-least-26-dead.md)
-_Context: DR Congo, Lake Tanganyika, capsized ferry MV Mutambala_
+_Context: DR Congo, capsized ferry MV Mutambala, Lake Tanganyika_
 
 ##### Portland, Oregon
 ### [An unknown person shoots four people outside of Rosemary Anderson High School, an alternative high school in Portland, Oregon. Police later question a 22-year-old man. ](/news/2014/12/12/an-unknown-person-shoots-four-people-outside-of-rosemary-anderson-high-school-an-alternative-high-school-in-portland-oregon-police-later.md)
@@ -25,7 +25,7 @@ _Context: Portland, Oregon_
 
 ##### Astana
 ### [Prosecutors at Sary-Arqa District Court in Astana charge 30-year-old Yevgeny Vdovenko, a Kazakh citizen, of intentional and illegal participation in a military conflict abroad because he had fought alongside pro-Russian separatists in eastern Ukraine. ](/news/2014/12/12/prosecutors-at-sary-arqa-district-court-in-astana-charge-30-year-old-yevgeny-vdovenko-a-kazakh-citizen-of-intentional-and-illegal-particip.md)
-_Context: Ukraine, Astana_
+_Context: Astana, Ukraine_
 
 ##### Palestinian
 ### [A Palestinian man throws a chemical substance believed to be acid at an Israeli family that stopped to pick up a hitchhiker. No terrorist groups claim credit for the attack. ](/news/2014/12/12/a-palestinian-man-throws-a-chemical-substance-believed-to-be-acid-at-an-israeli-family-that-stopped-to-pick-up-a-hitchhiker-no-terrorist-gr.md)
@@ -37,7 +37,7 @@ This is the best alternative so far.
 
 ##### Microsoft
 ### [Microsoft announces its upcoming Windows 10 consumer version preview for January 21. ](/news/2014/12/12/microsoft-announces-its-upcoming-windows-10-consumer-version-preview-for-january-21.md)
-_Context: Windows 10, Microsoft_
+_Context: Microsoft, Windows 10_
 
 ## [Previous Day...](/news/2014/12/11/index.md)
 

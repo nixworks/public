@@ -15,9 +15,9 @@ Thomas Kinkade, one of nation&#8217;s most popular painters, dies suddenly in Mo
 ### [A ban on the display of tobacco products by retailers comes into force in England. Lawmakers hope it will lead to a reduction in the number of young people taking up smoking. ](/news/2012/04/6/a-ban-on-the-display-of-tobacco-products-by-retailers-comes-into-force-in-england-lawmakers-hope-it-will-lead-to-a-reduction-in-the-number.md)
 A ban on tobacco displays is coming into force in England - with ministers promising it will help curb the number of young people taking up smoking.
 
-##### Afghanistan
+##### Afghan
 ### [Seven civilians die in Afghanistan's Panjwai district after a fuel tanker overturns. ](/news/2012/04/6/seven-civilians-die-in-afghanistan-s-panjwai-district-after-a-fuel-tanker-overturns.md)
-_Context: Afghanistan, Panjwai district, fuel_
+_Context: Panjwai district, fuel, Afghan_
 
 ##### United States Navy
 ### [A United States Navy FA-18 Hornet crashes into an apartment complex in the US city of Virginia Beach, Virginia with minimal injuries and no fatalities. ](/news/2012/04/6/a-united-states-navy-fa-18-hornet-crashes-into-an-apartment-complex-in-the-us-city-of-virginia-beach-virginia-with-minimal-injuries-and-no.md)
@@ -29,11 +29,11 @@ _Context: Liancourt Rocks, Japan, South Korea_
 
 ##### Amadou Sanogo
 ### [Capt Amadou Sanogo, the leader of the Mali coup, states that power will be transferred to the President of the National Assembly after separatist Tuaregs declare independence. ](/news/2012/04/6/capt-amadou-sanogo-the-leader-of-the-mali-coup-states-that-power-will-be-transferred-to-the-president-of-the-national-assembly-after-separ.md)
-_Context: Amadou Sanogo, National Assembly, Tuaregs, Mali_
+_Context: Tuaregs, Amadou Sanogo, Mali, National Assembly_
 
 ##### President
 ### [The new President of Yemen Abed Rabbo Mansour Hadi fires four governors and over a dozen military commanders including the half brother of former President Ali Abdullah Saleh who was head of the Yemeni Air Force. ](/news/2012/04/6/the-new-president-of-yemen-abed-rabbo-mansour-hadi-fires-four-governors-and-over-a-dozen-military-commanders-including-the-half-brother-of-f.md)
-_Context: Yemeni Air Force, Ali Abdullah Saleh, Abed Rabbo Mansour Hadi, President_
+_Context: Ali Abdullah Saleh, Abed Rabbo Mansour Hadi, President, Yemeni Air Force_
 
 ## [Previous Day...](/news/2012/04/5/index.md)
 

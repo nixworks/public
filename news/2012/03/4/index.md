@@ -5,7 +5,7 @@ Formats: [HTML](2012/03/4/index.html)  [JSON](2012/03/4/index.json)  [XML](2012/
 
 ##### China
 ### [The People's Republic of China announces plans to increase defense spending by 11.2 per cent in 2012. ](/news/2012/03/4/the-people-s-republic-of-china-announces-plans-to-increase-defense-spending-by-11-2-per-cent-in-2012.md)
-_Context: defense spending, China_
+_Context: China, defense spending_
 
 ##### Tornadoes
 ### [The cleanup continues in the US after tornadoes that claimed at least 39 lives. ](/news/2012/03/4/the-cleanup-continues-in-the-us-after-tornadoes-that-claimed-at-least-39-lives.md)
@@ -17,7 +17,7 @@ _Context: Numurkah, Victoria, Australia, Araluen, New South Wales_
 
 ##### Chinese
 ### [A report finds that 160 children from the Chinese town of Dongtang in Guangdong Province's Renhua County are suffering from lead poisoning. ](/news/2012/03/4/a-report-finds-that-160-children-from-the-chinese-town-of-dongtang-in-guangdong-province-s-renhua-county-are-suffering-from-lead-poisoning.md)
-_Context: Chinese, Renhua County, Dongtang, Guangdong Province, lead contamination_
+_Context: lead contamination, Chinese, Guangdong Province, Dongtang, Renhua County_
 
 ##### Train crash
 ### [The death toll from the train crash in Poland rises to 16. ](/news/2012/03/4/the-death-toll-from-the-train-crash-in-poland-rises-to-16.md)
@@ -33,7 +33,7 @@ Reports from Guinea say up to 50 people have died after a lorry taking people to
 
 ##### Thief
 ### [A hunt is underway for a thief who stole the heart of Saint Laurence O'Toole at Christ Church Cathedral in Dublin. ](/news/2012/03/4/a-hunt-is-underway-for-a-thief-who-stole-the-heart-of-saint-laurence-o-toole-at-christ-church-cathedral-in-dublin.md)
-_Context: saints, heart, Laurence O'Toole, thief,  Christ Church Cathedral, Dublin_
+_Context: heart, saints,  Christ Church Cathedral, Laurence O'Toole, thief, Dublin_
 
 ##### Paul McBride
 ### [Paul McBride QC, Scotland's most senior lawyer, is found dead in a hotel room while on a visit to Pakistan. ](/news/2012/03/4/paul-mcbride-qc-scotland-s-most-senior-lawyer-is-found-dead-in-a-hotel-room-while-on-a-visit-to-pakistan.md)
@@ -41,7 +41,7 @@ A lawyer, who two men are accused of trying to murder, as well as Celtic manager
 
 ##### Russia
 ### [Voters in Russia go to the polls for a presidential election with Prime Minister Vladimir Putin claiming victory despite allegations of voter fraud. ](/news/2012/03/4/voters-in-russia-go-to-the-polls-for-a-presidential-election-with-prime-minister-vladimir-putin-claiming-victory-despite-allegations-of-vote.md)
-_Context: last week's election, Prime Minister of Russia, Vladimir Putin, Russia_
+_Context: Russia, Vladimir Putin, last week's election, Prime Minister of Russia_
 
 ##### Keith O'Brien
 ### [Cardinal Keith O'Brien, the leader of the Catholic Church in Scotland and Britain's most senior Roman Catholic cleric, criticises government plans to allow Same-sex marriage in the United Kingdom. ](/news/2012/03/4/cardinal-keith-o-brien-the-leader-of-the-catholic-church-in-scotland-and-britain-s-most-senior-roman-catholic-cleric-criticises-government.md)

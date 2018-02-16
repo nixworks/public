@@ -5,7 +5,7 @@ Formats: [HTML](2011/04/21/index.html)  [JSON](2011/04/21/index.json)  [XML](201
 
 ##### Misrata
 ### [Muammar Gaddafi's forces continue to use artillery shelling against civilians and rebels in Misrata. Rebels from the Nafusa Mountains region capture Libya's west border, where over 100 loyalist soldiers surrender to Tunisian authorities after being chased out by rebels. ](/news/2011/04/21/muammar-gaddafi-s-forces-continue-to-use-artillery-shelling-against-civilians-and-rebels-in-misrata-rebels-from-the-nafusa-mountains-region.md)
-_Context: Misrata, Nafusa Mountains_
+_Context: Nafusa Mountains, Misrata_
 
 ##### Sri Lanka
 ### [Sri Lanka asks the United Nations not to publish a report on alleged war crimes. ](/news/2011/04/21/sri-lanka-asks-the-united-nations-not-to-publish-a-report-on-alleged-war-crimes.md)

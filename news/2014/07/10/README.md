@@ -25,7 +25,7 @@ _Context: Myanmar, Yangon_
 
 ##### 2014 Pacific typhoon season
 ### [Typhoon Neoguri hits the main Japanese island of Honshu causing flooding, landslides and three deaths. ](/news/2014/07/10/typhoon-neoguri-hits-the-main-japanese-island-of-honshu-causing-flooding-landslides-and-three-deaths.md)
-_Context: 2014 Pacific typhoon season, Typhoon Neoguri, Honshu Island, Japan_
+_Context: Honshu Island, Japan, Typhoon Neoguri, 2014 Pacific typhoon season_
 
 ## [Previous Day...](/news/2014/07/9/index.md)
 

@@ -9,11 +9,11 @@ _Context: Bethlehem, Israel_
 
 ##### Aung San Suu Kyi
 ### [Aung San Suu Kyi's party, the National League for Democracy, announces it will boycott the upcoming general elections in Burma. ](/news/2010/03/29/aung-san-suu-kyi-s-party-the-national-league-for-democracy-announces-it-will-boycott-the-upcoming-general-elections-in-burma.md)
-_Context: Aung San Suu Kyi, National League for Democracy, general elections, Burma_
+_Context: National League for Democracy, Aung San Suu Kyi, Burma, general elections_
 
 ##### Suicide bombing
 ### [Suicide bombers detonate two bombs at Moscow Metro stations Lubyanka and Park Kultury, killing at least 36 with the death toll expected to rise. ](/news/2010/03/29/suicide-bombers-detonate-two-bombs-at-moscow-metro-stations-lubyanka-and-park-kultury-killing-at-least-36-with-the-death-toll-expected-to-r.md)
-_Context: 2010 Moscow Metro bombings, Park Kultury, Moscow Metro, Lubyanka, suicide bombing_
+_Context: suicide bombing, 2010 Moscow Metro bombings, Park Kultury, Moscow Metro, Lubyanka_
 
 ##### Stern
 ### [The stern of the South Korean warship which exploded on Friday with 46 crewmen still missing is located and the military is expected to attempt a dive. ](/news/2010/03/29/the-stern-of-the-south-korean-warship-which-exploded-on-friday-with-46-crewmen-still-missing-is-located-and-the-military-is-expected-to-atte.md)
@@ -41,11 +41,11 @@ MORE than 300 southern right whales, most of them young calves, have been found 
 
 ##### Architecture
 ### [In architecture, Kazuyo Sejima and Ryue Nishizawa, cofounders of the firm SANAA, win the 2010 Pritzker Prize. ](/news/2010/03/29/in-architecture-kazuyo-sejima-and-ryue-nishizawa-cofounders-of-the-firm-sanaa-win-the-2010-pritzker-prize.md)
-_Context: Pritzker Prize, SANAA, Ryue Nishizawa, Kazuyo Sejima, architecture_
+_Context: Ryue Nishizawa, Kazuyo Sejima, SANAA, architecture, Pritzker Prize_
 
 ##### Hutaree
 ### [Nine members of the Hutaree militia are arrested in the United States on allegations of a plot to kill policemen then to attack the funerals, in preparation for a war against all levels of American government. ](/news/2010/03/29/nine-members-of-the-hutaree-militia-are-arrested-in-the-united-states-on-allegations-of-a-plot-to-kill-policemen-then-to-attack-the-funerals.md)
-_Context: United States, militia, Hutaree_
+_Context: United States, Hutaree, militia_
 
 ##### Patent
 ### [A patent on two human genes is struck down by a judge in U.S. District Court in Manhattan. ](/news/2010/03/29/a-patent-on-two-human-genes-is-struck-down-by-a-judge-in-u-s-district-court-in-manhattan.md)

@@ -9,7 +9,7 @@ Both sides appear to be trying to maximise gains before a cessation of hostiliti
 
 ##### Libyan Civil War (2014-present)
 ### [Forces loyal to Libyan general and former US citizen Khalifa Haftar, commander of the elected Council of Deputies military, seize control of the ports of Sidra, Ra's Lanuf, Brega and Zuwetina. ](/news/2016/09/11/forces-loyal-to-libyan-general-and-former-us-citizen-khalifa-haftar-commander-of-the-elected-council-of-deputies-military-seize-control-of.md)
-_Context: Brega, Khalifa Haftar, Zuwetina, Council of Deputies, Libya, Sidra, Libyan Civil War (2014-present), Ra's Lanuf_
+_Context: Khalifa Haftar, Zuwetina, Council of Deputies, Sidra, Brega, Ra's Lanuf, Libya, Libyan Civil War (2014-present)_
 
 ##### Burial of Ferdinand Marcos
 ### [The communication channel of the Philippine government is under scrutiny after an apparent whitewash and historical revisionism of the abuses of the Marcos dictatorship. ](/news/2016/09/11/the-communication-channel-of-the-philippine-government-is-under-scrutiny-after-an-apparent-whitewash-and-historical-revisionism-of-the-abuse.md)
@@ -21,11 +21,11 @@ Miss Arkansas Savvy Shields won the Miss America pageant Sunday night in Atlanti
 
 ##### 2009-10 Iranian election protests
 ### [Iran's former prosecutor of the Islamic Revolutionary Court, Saeed Mortazavi apologizes for his role in 2009 accidents at Kahrizak detention center which resulted in the deaths of three political prisoners including Mohsen Rouholamini. ](/news/2016/09/11/iran-s-former-prosecutor-of-the-islamic-revolutionary-court-saeed-mortazavi-apologizes-for-his-role-in-2009-accidents-at-kahrizak-detention.md)
-_Context: Iran, 2009-10 Iranian election protests, Kahrizak detention center, Islamic Revolutionary Court, 2009 accidents, Mohsen Rouholamini, Saeed Mortazavi_
+_Context: Kahrizak detention center, Islamic Revolutionary Court, Iran, 2009-10 Iranian election protests, Saeed Mortazavi, 2009 accidents, Mohsen Rouholamini_
 
 ##### 2016 Taoyuan bus crash
 ### [Authorities find that the July 19 bus crash in Taiwan that killed 26 people was an intentional suicide by the bus driver. ](/news/2016/09/11/authorities-find-that-the-july-19-bus-crash-in-taiwan-that-killed-26-people-was-an-intentional-suicide-by-the-bus-driver.md)
-_Context: Taiwan, 2016 Taoyuan bus crash_
+_Context: 2016 Taoyuan bus crash, Taiwan_
 
 ##### China
 ### [In China, the Central Commission for Discipline Inspection places under investigation Tianjin mayor Huang Xingguo, who is also serving as acting Communist Party Secretary. ](/news/2016/09/11/in-china-the-central-commission-for-discipline-inspection-places-under-investigation-tianjin-mayor-huang-xingguo-who-is-also-serving-as-ac.md)

@@ -9,7 +9,7 @@ _Context: Palestinian Legislative Council, Yasser Arafat, Palestinian Authority_
 
 ##### Paul Johnson
 ### [ Saudi security officials find the head of American hostage Paul Johnson in a refrigerator in a villa in Riyadh, Saudi Arabia. ](/news/2004/07/21/saudi-security-officials-find-the-head-of-american-hostage-paul-johnson-in-a-refrigerator-in-a-villa-in-riyadh-saudi-arabia.md)
-_Context: Paul Johnson, Saudi Arabia, Riyadh_
+_Context: Saudi Arabia, Paul Johnson, Riyadh_
 
 ##### Iraq
 ### [ Despite threats, Japan rebuffs demands that Japanese troops be withdrawn from Iraq. Deputy Cabinet Secretary Masaaki Yamazaki states: "For the rebuilding of Iraq, we must continue our support and not give in to terrorism". ](/news/2004/07/21/despite-threats-japan-rebuffs-demands-that-japanese-troops-be-withdrawn-from-iraq-deputy-cabinet-secretary-masaaki-yamazaki-states-for.md)

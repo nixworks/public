@@ -5,7 +5,7 @@ Formats: [HTML](2013/06/29/index.html)  [JSON](2013/06/29/index.json)  [XML](201
 
 ##### Royal Thai Army
 ### [Eight Royal Thai Army soldiers are killed during an ambush in Krong Pinang District in Yala Province located in Southern Thailand. ](/news/2013/06/29/eight-royal-thai-army-soldiers-are-killed-during-an-ambush-in-krong-pinang-district-in-yala-province-located-in-southern-thailand.md)
-_Context: Yala Province, soldiers are killed, Royal Thai Army, Krong Pinang District, Southern Thailand_
+_Context: Yala Province, Southern Thailand, Royal Thai Army, soldiers are killed, Krong Pinang District_
 
 ##### Insurgency in the North Caucasus
 ### [One policeman is killed and 14 are wounded in a clash with the North Caucasian rebels in Chechnya, Russia. ](/news/2013/06/29/one-policeman-is-killed-and-14-are-wounded-in-a-clash-with-the-north-caucasian-rebels-in-chechnya-russia.md)
@@ -25,11 +25,11 @@ Four men including the 62-year-old pilot have died in a helicopter crash in sout
 
 ##### 2013 North India floods
 ### [2013 North India floods: A Uttarakhand lawmaker claims the actual death toll from the floods is 10,000, ten times the official estimate. ](/news/2013/06/29/2013-north-india-floods-a-uttarakhand-lawmaker-claims-the-actual-death-toll-from-the-floods-is-10-000-ten-times-the-official-estimate.md)
-_Context: 2013 North India floods, Uttarakhand_
+_Context: Uttarakhand, 2013 North India floods_
 
 ##### Las Vegas
 ### [Extreme heat in Las Vegas, Nevada, US, leads to dozens of hospitalizations. ](/news/2013/06/29/extreme-heat-in-las-vegas-nevada-us-leads-to-dozens-of-hospitalizations.md)
-_Context: Nevada, Las Vegas_
+_Context: Las Vegas, Nevada_
 
 ##### U.S. Vice President
 ### [Vice President of the United States Joe Biden asks Ecuador to reject an asylum request by Edward Snowden. ](/news/2013/06/29/vice-president-of-the-united-states-joe-biden-asks-ecuador-to-reject-an-asylum-request-by-edward-snowden.md)
@@ -45,15 +45,15 @@ Riot police have clashed with protesters in Soweto shortly before a visit by US 
 
 ##### F. W. de Klerk
 ### [Former South African president F. W. de Klerk cuts short his European trip because of former president Nelson Mandela's ill-health. ](/news/2013/06/29/former-south-african-president-f-w-de-klerk-cuts-short-his-european-trip-because-of-former-president-nelson-mandela-s-ill-health.md)
-_Context: Nelson Mandela, F. W. de Klerk_
+_Context: F. W. de Klerk, Nelson Mandela_
 
 ##### Gay pride
 ### [Dozens of people are arrested at a gay pride parade in the Russian city of St. Petersburg. ](/news/2013/06/29/dozens-of-people-are-arrested-at-a-gay-pride-parade-in-the-russian-city-of-st-petersburg.md)
-_Context: gay pride, Russia, St. Petersburg_
+_Context: St. Petersburg, Russia, gay pride_
 
 ##### 2013 protests in Brazil
 ### [2013 protests in Brazil: Brazilian president, Dilma Rousseff, experiences a sharp drop in popularity. Only 30 percent of people asked by the Datafolha's opinion poll considered Rousseff's administration "great" or "good". ](/news/2013/06/29/2013-protests-in-brazil-brazilian-president-dilma-rousseff-experiences-a-sharp-drop-in-popularity-only-30-percent-of-people-asked-by-the.md)
-_Context: popularity, 2013 protests in Brazil, Datafolha, opinion poll, Dilma Rousseff_
+_Context: popularity, 2013 protests in Brazil, opinion poll, Dilma Rousseff, Datafolha_
 
 ## [Previous Day...](/news/2013/06/28/index.md)
 

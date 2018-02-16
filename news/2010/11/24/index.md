@@ -13,7 +13,7 @@ _Context: general strike, Portugal_
 
 ##### Wen Jiabao
 ### [Chinese Premier Wen Jiabao visits Moscow and meets with Russian President Dmitry Medvedev. Chinese companies sign deals worth over $8.6 billion with Russian counterparts. ](/news/2010/11/24/chinese-premier-wen-jiabao-visits-moscow-and-meets-with-russian-president-dmitry-medvedev-chinese-companies-sign-deals-worth-over-8-6-bill.md)
-_Context: Dmitry Medvedev, Wen Jiabao_
+_Context: Wen Jiabao, Dmitry Medvedev_
 
 ##### Hedge fund
 ### [Don Chu, an executive of a hedge fund networking fund Primary Global Research, is arrested on insider trading charges in the United States. ](/news/2010/11/24/don-chu-an-executive-of-a-hedge-fund-networking-fund-primary-global-research-is-arrested-on-insider-trading-charges-in-the-united-states.md)
@@ -33,7 +33,7 @@ _Context: New Zealand, are confirmed dead_
 
 ##### Government of Australia
 ### [An Australian Government report on the Montara oil spill blames it on oil rig operator PTTEP. ](/news/2010/11/24/an-australian-government-report-on-the-montara-oil-spill-blames-it-on-oil-rig-operator-pttep.md)
-_Context: Montara oil spill, PTT Public Company Limited, Government of Australia, oil rig_
+_Context: PTT Public Company Limited, Montara oil spill, Government of Australia, oil rig_
 
 ##### United Nations
 ### [The United Nations and Pan American Health Organization estimate that the number of cases in the 2010 Haiti cholera outbreak could reach more than 200,000 in the next three months. ](/news/2010/11/24/the-united-nations-and-pan-american-health-organization-estimate-that-the-number-of-cases-in-the-2010-haiti-cholera-outbreak-could-reach-mor.md)
@@ -53,7 +53,7 @@ A&#x20;young&#x20;male&#x20;demonstrator&#x20;was&#x20;shot&#x20;and&#x20;killed
 
 ##### Blaise Compaor
 ### [Blaise Compaor is re-elected as President of Burkina Faso following a presidential election with 81% of the vote. ](/news/2010/11/24/blaise-compaore-is-re-elected-as-president-of-burkina-faso-following-a-presidential-election-with-81-of-the-vote.md)
-_Context: Blaise Compaor, Burkina Faso, presidential election_
+_Context: Burkina Faso, presidential election, Blaise Compaor_
 
 ##### Kabul
 ### [Protests occur in Kabul follow the announcement of most of the results of the Afghan parliamentary election. ](/news/2010/11/24/protests-occur-in-kabul-follow-the-announcement-of-most-of-the-results-of-the-afghan-parliamentary-election.md)

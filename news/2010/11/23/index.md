@@ -53,7 +53,7 @@ Taoiseach Brian Cowen has rejected Fine Gael&#39;s accusations that he is engage
 
 ##### Burma
 ### [Burmese pro-democracy leader Aung San Suu Kyi is reunited with her son for the first time in a decade. ](/news/2010/11/23/burmese-pro-democracy-leader-aung-san-suu-kyi-is-reunited-with-her-son-for-the-first-time-in-a-decade.md)
-_Context: Burma, democratic, Aung San Suu Kyi_
+_Context: Aung San Suu Kyi, democratic, Burma_
 
 ##### Abdullah II of Jordan
 ### [King Abdullah II of Jordan commissions the Prime Minister Samir Rifai to form a new government following recent elections. ](/news/2010/11/23/king-abdullah-ii-of-jordan-commissions-the-prime-minister-samir-rifai-to-form-a-new-government-following-recent-elections.md)

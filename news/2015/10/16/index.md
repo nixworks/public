@@ -13,7 +13,7 @@ Turkey shot down a drone on Friday in an incident highlighting the dangers of mu
 
 ##### Spillover of the Syrian Civil War
 ### [Turkey says it has shot down a drone near the Syrian border after it failed to leave Turkish airspace. ](/news/2015/10/16/turkey-says-it-has-shot-down-a-drone-near-the-syrian-border-after-it-failed-to-leave-turkish-airspace.md)
-_Context: Turkey, Syrian border, Spillover of the Syrian Civil War, drone_
+_Context: Syrian border, drone, Turkey, Spillover of the Syrian Civil War_
 
 ##### Court of Appeals
 ### [A United States appeals court rules the Google Books Library Project, the scanning of millions of books with snippets searchable online, is legal under copyright law, affirming a 2013 district court decision. ](/news/2015/10/16/a-united-states-appeals-court-rules-the-google-books-library-project-the-scanning-of-millions-of-books-with-snippets-searchable-online-is.md)
@@ -37,7 +37,7 @@ The European Union has agreed an &quot;action plan&quot; with Turkey to help ste
 
 ##### Russia
 ### [Russia and other ex-Soviet states meeting in Kazakhstan agree to set up a joint task force to tackle instability on their borders, most notably from Afghanistan. ](/news/2015/10/16/russia-and-other-ex-soviet-states-meeting-in-kazakhstan-agree-to-set-up-a-joint-task-force-to-tackle-instability-on-their-borders-most-nota.md)
-_Context: Kazakhstan, Russia, Afghanistan_
+_Context: Russia, Afghan, Kazakhstan_
 
 ##### Park Geun-hye
 ### [President Park Geun-hye of South Korea is in Washington, D.C. and met with President Barack Obama at The White House. ](/news/2015/10/16/president-park-geun-hye-of-south-korea-is-in-washington-d-c-and-met-with-president-barack-obama-at-the-white-house.md)
@@ -53,7 +53,7 @@ The United States has confirmed that Iran tested a medium-range missile capable 
 
 ##### Rafe Esquith
 ### [Rafe Esquith, a notable teacher in the Los Angeles, California, public school system files a $1 billion class action lawsuit against the LA Unified School District. Esquith, recently removed from teaching and subsequently fired, alleges on behalf of almost 2,000 individuals, certain age-discrimination tactics by the school system against older teachers. ](/news/2015/10/16/rafe-esquith-a-notable-teacher-in-the-los-angeles-california-public-school-system-files-a-1-billion-class-action-lawsuit-against-the-la.md)
-_Context: California, Rafe Esquith, LA Unified School District, Los Angeles_
+_Context: Los Angeles, Rafe Esquith, California, LA Unified School District_
 
 ##### U.S. federal judge
 ### [A U.S. federal judge declines plaintiffs request for an emergency order requiring Texas issue birth certificates to U.S.-born children of immigrant families who entered the country illegally. The judge said Matricula Consular cards issued by Mexican consulates to their citizens in the U.S. aren't secure. The U.S. Constitution's 14th Amendment guarantees the right of citizenship to children born in the United States. ](/news/2015/10/16/a-u-s-federal-judge-declines-plaintiffs-request-for-an-emergency-order-requiring-texas-issue-birth-certificates-to-u-s-born-children-of-im.md)

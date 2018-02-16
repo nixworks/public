@@ -9,7 +9,7 @@ Minister for Foreign Affairs Micheál Martin has briefed EU Foreign Ministers ab
 
 ##### Washington, D.C.
 ### [Washington, D.C. is to become the first American city to hand out free female condoms in the battle against HIV-AIDS. ](/news/2010/03/6/washington-d-c-is-to-become-the-first-american-city-to-hand-out-free-female-condoms-in-the-battle-against-hiv-aids.md)
-_Context: HIV, United States, Washington, D.C., female condom, AIDS_
+_Context: female condom, United States, Washington, D.C., HIV, AIDS_
 
 ##### Brussels
 ### [There are riots in Brussels. ](/news/2010/03/6/there-are-riots-in-brussels.md)
@@ -17,15 +17,15 @@ _Context: Brussels_
 
 ##### Nigeria
 ### [Nigeria's and Al-Merreikh's Endurance Idahor dies during a football match in Sudan with the referee ending the match as a result. ](/news/2010/03/6/nigeria-s-and-al-merreikh-s-endurance-idahor-dies-during-a-football-match-in-sudan-with-the-referee-ending-the-match-as-a-result.md)
-_Context: Sudan, Endurance Idahor, Nigeria, Al-Merreikh_
+_Context: Al-Merreikh, Nigeria, Sudan, Endurance Idahor_
 
 ##### Ingushetia
 ### [Ingushetian President Yunus-bek Yevkurov confirms the death of Alexander Tikhomirov-Said Buryatsky. ](/news/2010/03/6/ingushetian-president-yunus-bek-yevkurov-confirms-the-death-of-alexander-tikhomirov-said-buryatsky.md)
-_Context: Yunus-bek Yevkurov, Alexander Tikhomirov, Said Buryatsky, Ingushetia_
+_Context: Said Buryatsky, Alexander Tikhomirov, Ingushetia, Yunus-bek Yevkurov_
 
 ##### Taliban
 ### [Taliban commander Faqir Mohammed is reportedly killed in a drone strike in Pakistan. ](/news/2010/03/6/taliban-commander-faqir-mohammed-is-reportedly-killed-in-a-drone-strike-in-pakistan.md)
-_Context: Taliban, Pakistan, Faqir Mohammed_
+_Context: Taliban, Faqir Mohammed, Pakistan_
 
 ##### Iraqis
 ### [Iraqis living in Iran vote. ](/news/2010/03/6/iraqis-living-in-iran-vote.md)
@@ -41,7 +41,7 @@ Hosni Mubarak had temporarily handed over power to PM before his gallbladder ope
 
 ##### Philippines
 ### [At least 11 Philippine soldiers are killed in an ambush by communist rebels in Mansalay, Mindoro. ](/news/2010/03/6/at-least-11-philippine-soldiers-are-killed-in-an-ambush-by-communist-rebels-in-mansalay-mindoro.md)
-_Context: Philippines, communism, Mansalay, Mindoro_
+_Context: Mansalay, communism, Mindoro, Philippines_
 
 ##### Iceland
 ### [Iceland holds a referendum about compensating the United Kingdom and the Netherlands after the collapse of the Icesave bank, with a 95% "no" vote recorded. ](/news/2010/03/6/iceland-holds-a-referendum-about-compensating-the-united-kingdom-and-the-netherlands-after-the-collapse-of-the-icesave-bank-with-a-95-no.md)
@@ -49,7 +49,7 @@ With 83,478 votes counted following Saturday&#039;s referendum in Iceland, 78,09
 
 ##### United States
 ### [US Defense Secretary Robert Gates reviews allegations of misconduct in Afghanistan by the private military company formerly known as Blackwater, Xe Services LLC. ](/news/2010/03/6/us-defense-secretary-robert-gates-reviews-allegations-of-misconduct-in-afghanistan-by-the-private-military-company-formerly-known-as-blackwa.md)
-_Context: Afghanistan, United States, United States Secretary of Defense, private military company, Blackwater Worldwide, Robert Gates_
+_Context: United States Secretary of Defense, United States, Blackwater Worldwide, Robert Gates, private military company, Afghan_
 
 ## [Previous Day...](/news/2010/03/5/index.md)
 

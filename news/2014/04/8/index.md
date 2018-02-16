@@ -21,11 +21,11 @@ U.S. Secretary of State John Kerry accused Russian agents and special forces on 
 
 ##### United States Secretary of Defense
 ### [United States Secretary of Defense Chuck Hagel voices the U.S. government's continued support of Japan's claims to the disputed territory. ](/news/2014/04/8/united-states-secretary-of-defense-chuck-hagel-voices-the-u-s-governmentas-continued-support-of-japanas-claims-to-the-disputed-territor.md)
-_Context: United States Secretary of Defense, Chuck Hagel_
+_Context: Chuck Hagel, United States Secretary of Defense_
 
 ##### President
 ### [As part of his state visit to the United Kingdom, Irish President Michael D. Higgins addresses the Houses of Parliament and attends a banquet at Windsor Castle with Elizabeth II. ](/news/2014/04/8/as-part-of-his-state-visit-to-the-united-kingdom-irish-president-michael-d-higgins-addresses-the-houses-of-parliament-and-attends-a-banque.md)
-_Context: Houses of Parliament, banquet, Michael D. Higgins, President, Windsor Castle, Elizabeth II_
+_Context: Elizabeth II, Michael D. Higgins, Windsor Castle, President, Houses of Parliament, banquet_
 
 ##### European Court of Justice
 ### [The European Court of Justice rules against the European Union Data Retention Directive which mandates that telecom operators must retain all their customers' communications data for up to two years. ](/news/2014/04/8/the-european-court-of-justice-rules-against-the-european-union-data-retention-directive-which-mandates-that-telecom-operators-must-retain-al.md)

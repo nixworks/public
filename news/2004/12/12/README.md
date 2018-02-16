@@ -5,15 +5,15 @@ Formats: [HTML](2004/12/12/index.html)  [JSON](2004/12/12/index.json)  [XML](200
 
 ##### Washington Post
 ### [ According to the Washington Post the Bush administration used wire taps to intercept a number of phone conversations of Mohamed ElBaradei, Director General of the United Nations International Atomic Energy Agency in hope of finding information that would help remove ElBaradei from his post. ](/news/2004/12/12/according-to-the-washington-post-the-bush-administration-used-wire-taps-to-intercept-a-number-of-phone-conversations-of-mohamed-elbaradei.md)
-_Context: Mohamed ElBaradei, IAEA, Washington Post, United Nations, wire tap_
+_Context: Mohamed ElBaradei, United Nations, Washington Post, IAEA, wire tap_
 
 ##### Israeli-Palestinian conflict
 ### [ At least five Israeli soldiers are killed and 10 are injured as a tunnel rigged with 1500&nbsp;kg of explosives exploded near the Rafah crossing between Rafah and Egypt. Hamas and an al-Aqsa Martyrs' Brigades' offshoot called "Fatah Hawk" claimed joint responsibility. ](/news/2004/12/12/at-least-five-israeli-soldiers-are-killed-and-10-are-injured-as-a-tunnel-rigged-with-1500-nbsp-kg-of-explosives-exploded-near-the-rafah-cro.md)
-_Context: Israel, Rafah, Israeli-Palestinian conflict, explosive, Fatah Hawk, Egypt, al-Aqsa Martyrs' Brigades, Hamas_
+_Context: Hamas, al-Aqsa Martyrs' Brigades, Egypt, Israel, Fatah Hawk, Rafah, explosive, Israeli-Palestinian conflict_
 
 ##### Marwan Barghouti
 ### [ Jailed Palestinian leader Marwan Barghouti withdraws his nomination in the Palestinian presidential election just ten days after announcing his candidacy, and instead endorses Fatah candidate Mahmoud Abbas. ](/news/2004/12/12/jailed-palestinian-leader-marwan-barghouti-withdraws-his-nomination-in-the-palestinian-presidential-election-just-ten-days-after-announcing.md)
-_Context: Fatah, Marwan Barghouti, Palestinian presidential election, Mahmoud Abbas_
+_Context: Marwan Barghouti, Palestinian presidential election, Mahmoud Abbas, Fatah_
 
 ##### Romanian presidential election, 2004
 ### [ Romania presidential run-off: Exit polls show that the difference between the two candidates (Traian Basescu and Adrian Nastase) is very small, estimated at less than 0.01%. ](/news/2004/12/12/romania-presidential-run-off-exit-polls-show-that-the-difference-between-the-two-candidates-traian-basescu-and-adrian-nastase-is-very-sm.md)
@@ -25,7 +25,7 @@ _Context: election fraud_
 
 ##### General Santos City
 ### [ A bomb blast in a General Santos City, Philippines, supermarket leaves at least 58 people injured and 15 dead.](/news/2004/12/12/a-bomb-blast-in-a-general-santos-city-philippines-supermarket-leaves-at-least-58-people-injured-and-15-dead.md)
-_Context: General Santos City, Philippines_
+_Context: Philippines, General Santos City_
 
 ## [Previous Day...](/news/2004/12/11/index.md)
 

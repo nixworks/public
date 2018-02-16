@@ -9,43 +9,43 @@ Minister for Finance Brian Lenihan has outlined six steps to restore the Irish e
 
 ##### Israel
 ### [ The Israel Police kill a Palestinian terrorist in East Jerusalem as he rams them with his tractor. ](/news/2009/04/7/the-israel-police-kill-a-palestinian-terrorist-in-east-jerusalem-as-he-rams-them-with-his-tractor.md)
-_Context: Palestinian, East Jerusalem, Israel, Israeli police_
+_Context: Israeli police, Israel, Palestinian, East Jerusalem_
 
 ##### United States
 ### [ United States District Judge Emmet G. Sullivan overturns the conviction of former Alaska Senator Ted Stevens. ](/news/2009/04/7/united-states-district-judge-emmet-g-sullivan-overturns-the-conviction-of-former-alaska-senator-ted-stevens.md)
-_Context: Emmet Sullivan, U.S. District Court for the District of Columbia, Ted Stevens, conviction, Alaska, United States, United States Senate_
+_Context: United States Senate, conviction, U.S. District Court for the District of Columbia, Emmet Sullivan, United States, Ted Stevens, Alaska_
 
 ##### Peru
 ### [ Former Peruvian President Alberto Fujimori is convicted of violating human rights and imprisoned until 2034. ](/news/2009/04/7/former-peruvian-president-alberto-fujimori-is-convicted-of-violating-human-rights-and-imprisoned-until-2034.md)
-_Context: Alberto Fujimori, human rights, Peru, convicted, President, jail_
+_Context: Peru, Alberto Fujimori, President, human rights, convicted, jail_
 
 ##### Malaysia
 ### [ Malaysia holds by-elections in Bukit Selambau, Bukit Gantang, and Batang Ai. ](/news/2009/04/7/malaysia-holds-by-elections-in-bukit-selambau-bukit-gantang-and-batang-ai.md)
-_Context: by-election, Bukit Gantang, Batang Ai, Bukit Selambau, Malaysia_
+_Context: by-election, Malaysia, Bukit Gantang, Batang Ai, Bukit Selambau_
 
 ##### Demonstration
 ### [ Demonstrators in Chisinau protest the Communist Party's absolute majority in Moldova's parliamentary election. ](/news/2009/04/7/demonstrators-in-chiainau-protest-the-communist-party-s-absolute-majority-in-moldova-s-parliamentary-election.md)
-_Context: protesters, absolute majority, demonstration, Parliament, election, Moldova, PCRM, Chisinau_
+_Context: election, Parliament, Moldova, absolute majority, demonstration, PCRM, protesters, Chisinau_
 
 ##### Shooting
 ### [ Two people are killed and two injured during a shooting in Landshut, Bavaria, Germany. ](/news/2009/04/7/two-people-are-killed-and-two-injured-during-a-shooting-in-landshut-bavaria-germany.md)
-_Context: Bavaria, Landshut, shooting, German_
+_Context: shooting, Landshut, Bavaria, German_
 
 ##### Fokker F27
 ### [ Twenty-four people are killed as a Fokker F27 airliner crashes in Bandung, West Java, Indonesia. ](/news/2009/04/7/twenty-four-people-are-killed-as-a-fokker-f27-airliner-crashes-in-bandung-west-java-indonesia.md)
-_Context: crashes, Fokker F27, Indonesia, Bandung, airliner, West Java_
+_Context: West Java, Fokker F27, Bandung, Indonesia, airliner, crashes_
 
 ##### France
 ### [ French police raid the Basque Homeland and Freedom's "bomb factory" in Grenoble, Isere. ](/news/2009/04/7/french-police-raid-the-basque-homeland-and-freedom-s-bomb-factory-in-grenoble-isa-re.md)
-_Context: Isere, French police, France, bomb, ETA, Grenoble, raid_
+_Context: raid, Isere, France, Grenoble, ETA, French police, bomb_
 
 ##### Australia
 ### [ Australia's government announces a A$43-billion investment for the National Broadband Network. ](/news/2009/04/7/australia-s-government-announces-a-a-43-billion-investment-for-the-national-broadband-network.md)
-_Context: National Broadband Network, Australia, investment, Government of Australia, A$_
+_Context: National Broadband Network, Government of Australia, Australia, A$, investment_
 
 ##### General Assembly
 ### [ The General Assembly legalizes same-sex marriage in Vermont, United States. ](/news/2009/04/7/the-general-assembly-legalizes-same-sex-marriage-in-vermont-united-states.md)
-_Context: legalizes, United States, Vermont, General Assembly, same-sex marriage_
+_Context: Vermont, same-sex marriage, legalizes, United States, General Assembly_
 
 ## [Previous Day...](/news/2009/04/6/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2014/11/24/index.html)  [JSON](2014/11/24/index.json)  [XML](201
 
 ##### Boko Haram
 ### [Boko Haram captures the northeastern Nigerian town of Damasak, killing 50 and forcing more than 3,000 to flee across the border into Niger. ](/news/2014/11/24/boko-haram-captures-the-northeastern-nigerian-town-of-damasak-killing-50-and-forcing-more-than-3-000-to-flee-across-the-border-into-niger.md)
-_Context: Damasak, Boko Haram, Niger, Nigeria_
+_Context: Boko Haram, Niger, Nigeria, Damasak_
 
 ##### The National
 ### [Launch of "The National", the first Scottish daily newspaper to support Scottish independence. ](/news/2014/11/24/launch-of-the-national-the-first-scottish-daily-newspaper-to-support-scottish-independence.md)

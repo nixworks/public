@@ -21,11 +21,11 @@ _Context: Kyrgyzstan_
 
 ##### Moldova
 ### [Moldova's parliament approves a new government despite ongoing protests calling for snap elections. ](/news/2016/01/20/moldova-s-parliament-approves-a-new-government-despite-ongoing-protests-calling-for-snap-elections.md)
-_Context: 2015-16 protests in Moldova, Parliament, Moldova_
+_Context: Moldova, 2015-16 protests in Moldova, Parliament_
 
 ##### NASA
 ### [NASA and the National Oceanic and Atmospheric Administration announce that 2015 was the hottest year on record since the beginning of meteorological records in 1890. ](/news/2016/01/20/nasa-and-the-national-oceanic-and-atmospheric-administration-announce-that-2015-was-the-hottest-year-on-record-since-the-beginning-of-meteor.md)
-_Context: U.S.  National Oceanic and Atmospheric Administration, NASA_
+_Context: NASA, U.S.  National Oceanic and Atmospheric Administration_
 
 ##### Caltech
 ### [A team of astronomers at Caltech infer the existence of a potential new planet (Planet Nine) in the outer Solar System ](/news/2016/01/20/a-team-of-astronomers-at-caltech-infer-the-existence-of-a-potential-new-planet-planet-nine-in-the-outer-solar-system.md)

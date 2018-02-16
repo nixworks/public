@@ -13,7 +13,7 @@ _Context: Pakistan, Islamabad_
 
 ##### Nigeria
 ### [Violence across Nigeria, between Islamic terrorists and the Nigerian military, kills dozens of people. ](/news/2014/03/3/violence-across-nigeria-between-islamic-terrorists-and-the-nigerian-military-kills-dozens-of-people.md)
-_Context: Islamic, Nigeria, Nigerian military_
+_Context: Nigerian military, Nigeria, Islamic_
 
 ##### 12 Years a Slave
 ### ["12 Years a Slave" wins three Oscars, including the Academy Award for Best Picture. ](/news/2014/03/3/12-years-a-slave-wins-three-oscars-including-the-academy-award-for-best-picture.md)
@@ -45,7 +45,7 @@ _Context: Pretoria, Oscar Pistorius_
 
 ##### Victor Ponta
 ### [Romanian Prime Minister Victor Ponta announces the composition of his new government after days of complicated negotiations with main ethnic Hungarian party of Romania. ](/news/2014/03/3/romanian-prime-minister-victor-ponta-announces-the-composition-of-his-new-government-after-days-of-complicated-negotiations-with-main-ethnic.md)
-_Context: main ethnic Hungarian party of Romania, Victor Ponta_
+_Context: Victor Ponta, main ethnic Hungarian party of Romania_
 
 ##### Pithovirus
 ### [Scientists announce the discovery of "pithovirus", the largest giant virus yet known, from a 30,000-year-old sample of frozen tundra. ](/news/2014/03/3/scientists-announce-the-discovery-of-pithovirus-the-largest-giant-virus-yet-known-from-a-30-000-year-old-sample-of-frozen-tundra.md)

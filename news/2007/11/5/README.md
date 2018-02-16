@@ -5,27 +5,27 @@ Formats: [HTML](2007/11/5/index.html)  [JSON](2007/11/5/index.json)  [XML](2007/
 
 ##### Hang Seng Index
 ### [ The Hang Seng Index in Hong Kong drops over 1,500 points, or 5%, three days after a previous sizable decline. The Hang Seng registers its largest daily loss since September 2001. ](/news/2007/11/5/the-hang-seng-index-in-hong-kong-drops-over-1-500-points-or-5-three-days-after-a-previous-sizable-decline-the-hang-seng-registers-its-l.md)
-_Context: Hong Kong, Hang Seng Index_
+_Context: Hang Seng Index, Hong Kong_
 
 ##### Netherlands
 ### [ The Netherlands suspends aid to Pakistan following the imposition of emergency rule.date=December 2007 Several demonstrating lawyers protesting outside the Sindh High Court are arrested.date=December 2007 President of the United States George W. Bush calls on the President of Pakistan Pervez Musharraf to end the state of emergency and restore civilian rule. ](/news/2007/11/5/the-netherlands-suspends-aid-to-pakistan-following-the-imposition-of-emergency-rule-date-december-2007-several-demonstrating-lawyers-protes.md)
-_Context: lawyers, Sindh, state of emergency, president, Pervez Musharraf, arrested, U.S. President, George W. Bush, Sindh High Court, assistance, Netherlands_
+_Context: George W. Bush, Netherlands, assistance, Sindh High Court, arrested, Pervez Musharraf, U.S. President, lawyers, Sindh, president, state of emergency_
 
 ##### Italy
 ### [ Italian police arrest Sicilian mafia boss Salvatore Lo Piccolo, his son Sandro and two other mafiosi in Carini, Palermo. ](/news/2007/11/5/italian-police-arrest-sicilian-mafia-boss-salvatore-lo-piccolo-his-son-sandro-and-two-other-mafiosi-in-carini-palermo.md)
-_Context: Sicily, Salvatore Lo Piccolo, Italy, mafia, police, Palermo, Carini_
+_Context: Italy, mafia, police, Carini, Sicily, Salvatore Lo Piccolo, Palermo_
 
 ##### Fire
 ### [ A fire at a retirement home in a village near Tula, Russia, kills at least 23 people. ](/news/2007/11/5/a-fire-at-a-retirement-home-in-a-village-near-tula-russia-kills-at-least-23-people.md)
-_Context: retirement home, Tula, Russia, fire_
+_Context: retirement home, Russia, Tula, fire_
 
 ##### Writers Guild of America
 ### [ The Writers Guild of America asks 12,000 of its members to join a Hollywood screenwriters strike over a dispute over residuals. ](/news/2007/11/5/the-writers-guild-of-america-asks-12-000-of-its-members-to-join-a-hollywood-screenwriters-strike-over-a-dispute-over-residuals.md)
-_Context: Writers Guild of America, Hollywood, residuals, screenwriter_
+_Context: Hollywood, screenwriter, Writers Guild of America, residuals_
 
 ##### Lvaro Colom
 ### [ lvaro Colom is elected President of Guatemala in the 2007 general election. ](/news/2007/11/5/alvaro-colom-is-elected-president-of-guatemala-in-the-2007-general-election.md)
-_Context: lvaro Colom, 2007 general election, Guatemala, Guatemalan President_
+_Context: Guatemalan President, lvaro Colom, 2007 general election, Guatemala_
 
 ##### Google
 ### [ Google and the Open Handset Alliance announce the Android operating system, a joint effort in handheld computing. ](/news/2007/11/5/google-and-the-open-handset-alliance-announce-the-android-operating-system-a-joint-effort-in-handheld-computing.md)
@@ -33,7 +33,7 @@ _Context: handheld computing, Google, Open Handset Alliance, Android_
 
 ##### Mexican
 ### [ The number of people in southern Mexico displaced by the 2007 Tabasco flood nears a million ](/news/2007/11/5/the-number-of-people-in-southern-mexico-displaced-by-the-2007-tabasco-flood-nears-a-million.md)
-_Context: 2007 Tabasco flood, Mexican_
+_Context: Mexican, 2007 Tabasco flood_
 
 ## [Previous Day...](/news/2007/11/4/index.md)
 

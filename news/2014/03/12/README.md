@@ -29,7 +29,7 @@ Fiji says 11 people have died and over 10,000 others have been infected during a
 
 ##### 2014 Crimean crisis
 ### [Russia says planned U.S. financial aid to Ukraine is illegal. ](/news/2014/03/12/russia-says-planned-u-s-financial-aid-to-ukraine-is-illegal.md)
-_Context: United States, 2014 Crimean crisis, Russia, Ukraine_
+_Context: Ukraine, 2014 Crimean crisis, Russia, United States_
 
 ##### Yeshiva
 ### [A new law levying criminal penalties on yeshiva students who dodge military service in the Israeli Defence Forces passes the Knesset with near unanimous support as the entire opposition boycotts the vote; Yoni Chetboun from Jewish Home is the lone no-voter. ](/news/2014/03/12/a-new-law-levying-criminal-penalties-on-yeshiva-students-who-dodge-military-service-in-the-israeli-defence-forces-passes-the-knesset-with-ne.md)

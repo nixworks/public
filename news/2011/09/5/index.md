@@ -5,7 +5,7 @@ Formats: [HTML](2011/09/5/index.html)  [JSON](2011/09/5/index.json)  [XML](2011/
 
 ##### Turkey
 ### [Turkish air force strikes kill four members of the PKK in Northern Iraq. ](/news/2011/09/5/turkish-air-force-strikes-kill-four-members-of-the-pkk-in-northern-iraq.md)
-_Context: Kurdistan Workers' Party, Turkey, Kurdish, Turkish Air Force_
+_Context: Kurdish, Kurdistan Workers' Party, Turkey, Turkish Air Force_
 
 ##### Iran
 ### [One person is killed and two injured by Iranian artillery shelling near the Iraqi border town of Siydah Khan, near Arbil. ](/news/2011/09/5/one-person-is-killed-and-two-injured-by-iranian-artillery-shelling-near-the-iraqi-border-town-of-siydah-khan-near-arbil.md)
@@ -25,11 +25,11 @@ _Context: Pakistan, Younis al-Mauritani_
 
 ##### Libya
 ### [A convoy of troops loyal to former Libyan leader Muammar Gaddafi crosses the border with Niger arriving in Agadez. ](/news/2011/09/5/a-convoy-of-troops-loyal-to-former-libyan-leader-muammar-gaddafi-crosses-the-border-with-niger-arriving-in-agadez.md)
-_Context: Libya, Niger, Muammar Gaddafi, Agadez_
+_Context: Niger, Muammar Gaddafi, Libya, Agadez_
 
 ##### Typhoon Talas
 ### [Rescuers in Japan look for survivors of Typhoon Talas, which has killed at least 35 people, with the Wakayama Prefecture on the Kii Peninsula the worst affected. ](/news/2011/09/5/rescuers-in-japan-look-for-survivors-of-typhoon-talas-which-has-killed-at-least-35-people-with-the-wakayama-prefecture-on-the-kii-peninsul.md)
-_Context: Wakayama Prefecture, Kii Peninsula, Typhoon Talas_
+_Context: Kii Peninsula, Wakayama Prefecture, Typhoon Talas_
 
 ##### 2011 Somalian famine
 ### [The 2011 Somalian famine, which has killed 30,000 children and tens of thousands more adults, spreads to the Bay Region of Somalia. ](/news/2011/09/5/the-2011-somalian-famine-which-has-killed-30-000-children-and-tens-of-thousands-more-adults-spreads-to-the-bay-region-of-somalia.md)
@@ -45,7 +45,7 @@ _Context: North Korea_
 
 ##### French President
 ### [The trial of former French President Jacques Chirac on embezzlement charges begins in Paris. ](/news/2011/09/5/the-trial-of-former-french-president-jacques-chirac-on-embezzlement-charges-begins-in-paris.md)
-_Context: French President, embezzlement, Jacques Chirac_
+_Context: embezzlement, French President, Jacques Chirac_
 
 ##### Vodafone Group Plc
 ### [Turkish hackers gain access to the websites of several companies, including Vodafone, the "Daily Telegraph" and UPS, redirecting visitors to a site set up by the group. ](/news/2011/09/5/turkish-hackers-gain-access-to-the-websites-of-several-companies-including-vodafone-the-daily-telegraph-and-ups-redirecting-visitors-to.md)

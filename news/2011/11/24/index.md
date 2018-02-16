@@ -5,7 +5,7 @@ Formats: [HTML](2011/11/24/index.html)  [JSON](2011/11/24/index.json)  [XML](201
 
 ##### IED
 ### [Three roadside bombs detonate in the Iraqi city of Basra, killing at least 19 people and injuring 67. ](/news/2011/11/24/three-roadside-bombs-detonate-in-the-iraqi-city-of-basra-killing-at-least-19-people-and-injuring-67.md)
-_Context: IED, Iraq, Basra_
+_Context: Iraq, IED, Basra_
 
 ##### India
 ### [India's government decides to relax rules concerning the operation of foreign-owned retailers such as Wal-Mart and Tesco within India. ](/news/2011/11/24/india-s-government-decides-to-relax-rules-concerning-the-operation-of-foreign-owned-retailers-such-as-wal-mart-and-tesco-within-india.md)

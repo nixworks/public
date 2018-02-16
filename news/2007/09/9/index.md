@@ -5,11 +5,11 @@ Formats: [HTML](2007/09/9/index.html)  [JSON](2007/09/9/index.json)  [XML](2007/
 
 ##### Dynamite
 ### [ A lorry carrying dynamite crashes and explodes near Sacramento in the Mexican state of Coahuila; scores of people are injured and 37 are killed, including three local reporters covering the story. ](/news/2007/09/9/a-lorry-carrying-dynamite-crashes-and-explodes-near-sacramento-in-the-mexican-state-of-coahuila-scores-of-people-are-injured-and-37-are-ki.md)
-_Context: Sacramento, Mexican state, dynamite, Coahuila_
+_Context: Coahuila, dynamite, Sacramento, Mexican state_
 
 ##### South Africa
 ### [ South African police arrest Helen Zille, the leader of the Democratic Party and Mayor of Cape Town, while she was taking part in an anti-drug protest at the Cape Flats slum area. ](/news/2007/09/9/south-african-police-arrest-helen-zille-the-leader-of-the-democratic-party-and-mayor-of-cape-town-while-she-was-taking-part-in-an-anti-dr.md)
-_Context: Mayor of Cape Town, Helen Zille, Cape Flats, Democratic Alliance, South Africa, slum_
+_Context: Cape Flats, Helen Zille, South Africa, slum, Democratic Alliance, Mayor of Cape Town_
 
 ##### Earthquake
 ### [ An earthquake of 6.8 magnitude hits near the north coast of Colombia. ](/news/2007/09/9/an-earthquake-of-6-8-magnitude-hits-near-the-north-coast-of-colombia.md)
@@ -21,7 +21,7 @@ _Context: Soviet, neo-Nazi, Israel_
 
 ##### 2007 U.S. Open
 ### [ 2007 U.S. Open: Roger Federer of Switzerland defeats Novak Djokovic in the final of the men's singles in straight sets 7-6 (7-4), 7-6 (7-2), 6-4. ](/news/2007/09/9/2007-u-s-open-roger-federer-of-switzerland-defeats-novak-djokovic-in-the-final-of-the-men-s-singles-in-straight-sets-7-6-7-4-7-6-7-2.md)
-_Context: 2007 U.S. Open, Switzerland, Novak Djokovic, Roger Federer_
+_Context: Switzerland, Roger Federer, Novak Djokovic, 2007 U.S. Open_
 
 ##### Algeria
 ### [ Five thousand Algerians protest in Algiers after two recent suicide bomb attacks. ](/news/2007/09/9/five-thousand-algerians-protest-in-algiers-after-two-recent-suicide-bomb-attacks.md)
@@ -33,7 +33,7 @@ _Context: 2007 general election, Guatemala_
 
 ##### Jamaica
 ### [ Jamaican Asafa Powell set a new men's world 100 meters record of 9.74 seconds at the IAAF Grand Prix at Rieti, Italy. ](/news/2007/09/9/jamaican-asafa-powell-set-a-new-men-s-world-100-meters-record-of-9-74-seconds-at-the-iaaf-grand-prix-at-rieti-italy.md)
-_Context: Italy, Jamaica, Rieti, Asafa Powell, men's world 100 meters record_
+_Context: Italy, Rieti, Jamaica, men's world 100 meters record, Asafa Powell_
 
 ##### Afghanistan President
 ### [ The President of Afghanistan Hamid Karzai is forced to cut short a speech in Kabul after gunfire is heard outside. ](/news/2007/09/9/the-president-of-afghanistan-hamid-karzai-is-forced-to-cut-short-a-speech-in-kabul-after-gunfire-is-heard-outside.md)
@@ -45,7 +45,7 @@ Nawaz Sharif, the exiled former prime minister of Pakistan, boarded a flight fro
 
 ##### Tropical Storm Gabrielle
 ### [ Tropical Storm Gabrielle makes landfall near the Cape Lookout National Seashore in North Carolina, United States, and hooks over Cape Hatteras before returning to the Atlantic as a tropical depression, bringing much-needed rain to coastal North Carolina as well as some beach erosion. ](/news/2007/09/9/tropical-storm-gabrielle-makes-landfall-near-the-cape-lookout-national-seashore-in-north-carolina-united-states-and-hooks-over-cape-hatte.md)
-_Context: beach erosion, Cape Lookout National Seashore, Cape Hatteras, North Carolina, Tropical Storm Gabrielle, United States_
+_Context: Tropical Storm Gabrielle, Cape Lookout National Seashore, Cape Hatteras, beach erosion, North Carolina, United States_
 
 ##### APEC
 ### [ The APEC summit draws to a close with most leaders preparing to leave and the President of the United States George W. Bush having left. ](/news/2007/09/9/the-apec-summit-draws-to-a-close-with-most-leaders-preparing-to-leave-and-the-president-of-the-united-states-george-w-bush-having-left.md)

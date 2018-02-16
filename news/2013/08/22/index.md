@@ -5,7 +5,7 @@ Formats: [HTML](2013/08/22/index.html)  [JSON](2013/08/22/index.json)  [XML](201
 
 ##### Tehrik-i-Taliban Pakistan
 ### [5 Taliban militants are killed in bomb attack in South Waziristan. ](/news/2013/08/22/5-taliban-militants-are-killed-in-bomb-attack-in-south-waziristan.md)
-_Context: South Waziristan, Tehrik-i-Taliban Pakistan_
+_Context: Tehrik-i-Taliban Pakistan, South Waziristan_
 
 ##### Iraq
 ### [Fourteen people are killed by a suicide bomber in a military headquarters in Western Iraq. ](/news/2013/08/22/fourteen-people-are-killed-by-a-suicide-bomber-in-a-military-headquarters-in-western-iraq.md)
@@ -29,7 +29,7 @@ _Context: Monterey Park, California_
 
 ##### Rim Fire
 ### [The Rim Fire, in Yosemite National Park forces evacuations. ](/news/2013/08/22/the-rim-fire-in-yosemite-national-park-forces-evacuations.md)
-_Context: Rim Fire, Yosemite National Park_
+_Context: Yosemite National Park, Rim Fire_
 
 ##### 10 Downing Street
 ### [The UK government's independent reviewer of terrorism laws is to probe the arrest of David Miranda. ](/news/2013/08/22/the-uk-government-s-independent-reviewer-of-terrorism-laws-is-to-probe-the-arrest-of-david-miranda.md)
@@ -37,7 +37,7 @@ Examination of material seized from David Miranda at Heathrow airport under anti
 
 ##### Tunisia
 ### [Tunisian Islamists agree in principle with a transition plan to hold new elections. ](/news/2013/08/22/tunisian-islamists-agree-in-principle-with-a-transition-plan-to-hold-new-elections.md)
-_Context: Islamist, Tunisia_
+_Context: Tunisia, Islamist_
 
 ##### Hosni Mobarak
 ### [Former Egyptian President Hosni Mobarak is released from Tora prison and transferred to a military hospital. ](/news/2013/08/22/former-egyptian-president-hosni-mobarak-is-released-from-tora-prison-and-transferred-to-a-military-hospital.md)

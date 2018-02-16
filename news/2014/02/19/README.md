@@ -9,11 +9,11 @@ Ukrainian police are continuing to storm the main anti-government protest camp i
 
 ##### Syrian Civil War spillover in Lebanon
 ### [Two people are killed and 38 injured in a bombing of a Hezbollah stronghold in Beirut. ](/news/2014/02/19/two-people-are-killed-and-38-injured-in-a-bombing-of-a-hezbollah-stronghold-in-beirut.md)
-_Context: Syrian Civil War spillover in Lebanon, Beirut, Hezbollah_
+_Context: Syrian Civil War spillover in Lebanon, Hezbollah, Beirut_
 
 ##### Nadezhda Tolokonnikova
 ### [Nadezhda Tolokonnikova and Maria Alyokhina, former members of Pussy Riot, are arrested and subsequently released after protesting during the 2014 Winter Olympics in Sochi. ](/news/2014/02/19/nadezhda-tolokonnikova-and-maria-alyokhina-former-members-of-pussy-riot-are-arrested-and-subsequently-released-after-protesting-during-the.md)
-_Context: Pussy Riot, Nadezhda Tolokonnikova, Maria Alyokhina, 2014 Winter Olympics, Sochi_
+_Context: Pussy Riot, Maria Alyokhina, Sochi, Nadezhda Tolokonnikova, 2014 Winter Olympics_
 
 ##### Parliament of India
 ### [The Parliament of India passes a bill that would make the historic region of Telangana into a state. ](/news/2014/02/19/the-parliament-of-india-passes-a-bill-that-would-make-the-historic-region-of-telangana-into-a-state.md)
@@ -33,7 +33,7 @@ _Context: Facebook, WhatsApp_
 
 ##### Botswana
 ### [Botswana ends diplomatic relations with North Korea following a UN report on the latter's human rights record. ](/news/2014/02/19/botswana-ends-diplomatic-relations-with-north-korea-following-a-un-report-on-the-latter-s-human-rights-record.md)
-_Context: human rights, North Korea, Botswana_
+_Context: human rights, Botswana, North Korea_
 
 ##### India
 ### [The government of the Indian state of Tamil Nadu decides to free three men and a woman found guilty of assassinating former Prime Minister Rajiv Gandhi in 1991. ](/news/2014/02/19/the-government-of-the-indian-state-of-tamil-nadu-decides-to-free-three-men-and-a-woman-found-guilty-of-assassinating-former-prime-minister-r.md)

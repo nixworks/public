@@ -9,11 +9,11 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ##### United States House of Representatives
 ### [ U.S. Rep. Bob Ney of Ohio resigns from Congress after having pleaded guilty to charges relating to Jack Abramoff. ](/news/2006/11/3/u-s-rep-bob-ney-of-ohio-resigns-from-congress-after-having-pleaded-guilty-to-charges-relating-to-jack-abramoff.md)
-_Context: United States House of Representatives, Ohio, Bob Ney, Jack Abramoff_
+_Context: Jack Abramoff, United States House of Representatives, Ohio, Bob Ney_
 
 ##### United States
 ### [ The U.S. National Transportation Safety Board states that a stiff wind blew the plane carrying New York Yankees pitcher Cory Lidle off-course and into an apartment building in New York City. ](/news/2006/11/3/the-u-s-national-transportation-safety-board-states-that-a-stiff-wind-blew-the-plane-carrying-new-york-yankees-pitcher-cory-lidle-off-cour.md)
-_Context: Cory Lidle, United States, into an apartment building, New York City, New York Yankees, NTSB_
+_Context: Cory Lidle, New York City, United States, New York Yankees, into an apartment building, NTSB_
 
 ##### World Meteorological Organisation
 ### [ The World Meteorological Organisation reports that greenhouse gases in the atmosphere reached a record high in 2005 and are still increasing. ](/news/2006/11/3/the-world-meteorological-organisation-reports-that-greenhouse-gases-in-the-atmosphere-reached-a-record-high-in-2005-and-are-still-increasin.md)
@@ -21,7 +21,7 @@ _Context: greenhouse gases, World Meteorological Organisation_
 
 ##### European Commission
 ### [ A draft European Commission report raises new doubts about Turkey's bid to join the European Union. ](/news/2006/11/3/a-draft-european-commission-report-raises-new-doubts-about-turkey-s-bid-to-join-the-european-union.md)
-_Context: Accession of Turkey to the European Union, European Union, Turkey, European Commission_
+_Context: Turkey, European Commission, Accession of Turkey to the European Union, European Union_
 
 ##### Trevor Berbick
 ### [ Trevor Berbick's nephew Harold Berbick is charged with his uncle's murder along with another man in Jamaica. ](/news/2006/11/3/trevor-berbick-s-nephew-harold-berbick-is-charged-with-his-uncle-s-murder-along-with-another-man-in-jamaica.md)
@@ -33,7 +33,7 @@ News and opinion from The Times &amp; The Sunday Times
 
 ##### Wu Shu-chen
 ### [ Wu Shu-chen, the wife of the President of the Republic of China, is indicted on corruption charges by Taiwan prosecutors. President Chen Shui-bian is not indicted due to presidential immunity, but prosecutors say he will be charged once he is no longer president. ](/news/2006/11/3/wu-shu-chen-the-wife-of-the-president-of-the-republic-of-china-is-indicted-on-corruption-charges-by-taiwan-prosecutors-president-chen-sh.md)
-_Context: Wu Shu-chen, President, Chen Shui-bian, anti-corruption, Taiwan_
+_Context: Wu Shu-chen, anti-corruption, Chen Shui-bian, Taiwan, President_
 
 ##### The New York Times
 ### [ "The New York Times" reports that a website created at the request of United States Representative Peter Hoekstra and Senator Pat Roberts was found to contain detailed information which could help nuclear-capable states produce nuclear weapons. The website was shut down on November 2 following questioning by "The New York Times" and protests by International Atomic Energy Agency officials. ](/news/2006/11/3/the-new-york-times-reports-that-a-website-created-at-the-request-of-united-states-representative-peter-hoekstra-and-senator-pat-roberts-w.md)

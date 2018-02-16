@@ -5,11 +5,11 @@ Formats: [HTML](2010/06/1/index.html)  [JSON](2010/06/1/index.json)  [XML](2010/
 
 ##### Lahore
 ### [At least 5 people are killed in an attack on the Lahore hospital in Pakistan where many of the injured in Friday's attack on members of the Ahmadis sect, as well as one of the captured militants, are undergoing treatment. ](/news/2010/06/1/at-least-5-people-are-killed-in-an-attack-on-the-lahore-hospital-in-pakistan-where-many-of-the-injured-in-friday-s-attack-on-members-of-the.md)
-_Context: Pakistan, Lahore, Friday's attack, Ahmadis_
+_Context: Ahmadis, Lahore, Friday's attack, Pakistan_
 
 ##### Al-Qaeda
 ### [Al-Qaeda's top leader in Afghanistan, and Osama bin Laden's third in command, Mustafa Abu al-Yazid, is reported killed. ](/news/2010/06/1/al-qaeda-s-top-leader-in-afghanistan-and-osama-bin-laden-s-third-in-command-mustafa-abu-al-yazid-is-reported-killed.md)
-_Context: Osama bin Laden, al-Qaeda, Afghanistan, Mustafa Abu al-Yazid_
+_Context: Osama bin Laden, al-Qaeda, Afghan, Mustafa Abu al-Yazid_
 
 ##### Israeli-Palestinian conflict
 ### [The Israeli Defense Forces kill two Palestinians terrorists in Gaza who were attempting to cross the border fence, after an exchange of gunfire. Israel closes four settlements, Route 323 and schools as a result of the incident. ](/news/2010/06/1/the-israeli-defense-forces-kill-two-palestinians-terrorists-in-gaza-who-were-attempting-to-cross-the-border-fence-after-an-exchange-of-gunf.md)
@@ -33,15 +33,15 @@ Collapsed roads and highway bridges complicated rescue efforts in Guatemala on T
 
 ##### Obama administration
 ### [America's Obama administration warns that BP's oil spill in the Gulf of Mexico could continue until August. ](/news/2010/06/1/america-s-obama-administration-warns-that-bp-s-oil-spill-in-the-gulf-of-mexico-could-continue-until-august.md)
-_Context: Obama administration, BP, Deepwater Horizon oil spill_
+_Context: BP, Deepwater Horizon oil spill, Obama administration_
 
 ##### Iran
 ### [The Iranian ambassador in Baghdad says the recent release of two Iranians from Iraqi custody is not an indication of any impeding deal to free three Americans held in Tehran on spying charges since their capture in July 2009 while hiking in northern Iraq's mountainous Kurdish region. ](/news/2010/06/1/the-iranian-ambassador-in-baghdad-says-the-recent-release-of-two-iranians-from-iraqi-custody-is-not-an-indication-of-any-impeding-deal-to-fr.md)
-_Context: Kurdish, Tehran, Iran, Baghdad, Iraq_
+_Context: Kurdish, Baghdad, Tehran, Iran, Iraq_
 
 ##### Women's rights
 ### [The United States insists any Afghan peace deal must ensure women's rights as Afghanistan prepares to open a peace conference aimed at persuading Taliban leaders to put down their weapons. ](/news/2010/06/1/the-united-states-insists-any-afghan-peace-deal-must-ensure-women-s-rights-as-afghanistan-prepares-to-open-a-peace-conference-aimed-at-persu.md)
-_Context: Taliban, Afghanistan, women's rights_
+_Context: women's rights, Afghan, Taliban_
 
 ##### Gaza flotilla raid
 ### [Survivors of the Israeli assault on the Gaza-bound international aid flotilla return to Greece and Turkey, providing the first eyewitness accounts of the attack. ](/news/2010/06/1/survivors-of-the-israeli-assault-on-the-gaza-bound-international-aid-flotilla-return-to-greece-and-turkey-providing-the-first-eyewitness-ac.md)
@@ -49,15 +49,15 @@ Israel has detained 487 pro-Palestinian activists captured in its deadly command
 
 ##### Judith Osburn
 ### [Judith Osburn, a Binghamton attorney, discussed same-sex marriage in New York and its complexity. ](/news/2010/06/1/judith-osburn-a-binghamton-attorney-discussed-same-sex-marriage-in-new-york-and-its-complexity.md)
-_Context: same-sex marriage, Binghamton, Judith Osburn_
+_Context: same-sex marriage, Judith Osburn, Binghamton_
 
 ##### Lee Murray
 ### [Lee Murray, the mastermind of the Securitas depot robbery in Kent, England, is jailed for 10 years in Morocco ](/news/2010/06/1/lee-murray-the-mastermind-of-the-securitas-depot-robbery-in-kent-england-is-jailed-for-10-years-in-morocco.md)
-_Context: Securitas depot robbery, Kent, Lee Murray_
+_Context: Lee Murray, Kent, Securitas depot robbery_
 
 ##### Trafigura
 ### [The trial of London-based multi-national oil trading firm Trafigura for illegally exporting hazardous waste to Ivory Coast in 2006 begins in Amsterdam. ](/news/2010/06/1/the-trial-of-london-based-multi-national-oil-trading-firm-trafigura-for-illegally-exporting-hazardous-waste-to-ivory-coast-in-2006-begins-in.md)
-_Context: Amsterdam, illegally dumping toxic waste, Trafigura_
+_Context: illegally dumping toxic waste, Amsterdam, Trafigura_
 
 ##### Hunan
 ### [Three judges are shot dead at a court in Hunan, China; the gunman later kills himself. ](/news/2010/06/1/three-judges-are-shot-dead-at-a-court-in-hunan-china-the-gunman-later-kills-himself.md)
@@ -69,19 +69,19 @@ Three women in Namibia are suing the state for allegedly being sterilised withou
 
 ##### Burundi
 ### [Five opposition candidates, including Burundi's ex-rebel leader Agathon Rwasa, withdraw from forthcoming presidential polls. ](/news/2010/06/1/five-opposition-candidates-including-burundi-s-ex-rebel-leader-agathon-rwasa-withdraw-from-forthcoming-presidential-polls.md)
-_Context: presidential election, Agathon Rwasa, Burundi_
+_Context: presidential election, Burundi, Agathon Rwasa_
 
 ##### Chief Secretary to the Treasury
 ### [Another UK minister, the new Chief Secretary to the Treasury, Danny Alexander, who was appointed after the resignation of fellow Liberal Democrat David Laws, is embroiled in the ongoing expenses scandal after admitting to having avoided paying capital gains tax when he sold his taxpayer-funded second home at a profit. ](/news/2010/06/1/another-uk-minister-the-new-chief-secretary-to-the-treasury-danny-alexander-who-was-appointed-after-the-resignation-of-fellow-liberal-dem.md)
-_Context: Liberal Democrats, United Kingdom Parliamentary expenses scandal, David Laws, Danny Alexander, Chief Secretary to the Treasury_
+_Context: United Kingdom Parliamentary expenses scandal, Chief Secretary to the Treasury, Liberal Democrats, Danny Alexander, David Laws_
 
 ##### CE-2
 ### [Flying in an orbit 100 kilometers above the moon, the CE-2 is tasked to collect data for a soft-landing designed for its successor, the Chang'e-3. China Aerospace Science and Technology Corporation (CASC), said at the Global Lunar Conference held in Beijing. ](/news/2010/06/1/flying-in-an-orbit-100-kilometers-above-the-moon-the-ce-2-is-tasked-to-collect-data-for-a-soft-landing-designed-for-its-successor-the-chan.md)
-_Context: Chang'e-3, CASC, Global Lunar Conference, CE-2_
+_Context: CASC, CE-2, Global Lunar Conference, Chang'e-3_
 
 ##### Bonn
 ### [As climate talks get under way in Bonn, Thomas Hale and Scott Moore call for a radical new approach to cutting emissions that sidesteps intergovernmental deadlock and unites eager players, from Wal-Mart to city halls. ](/news/2010/06/1/as-climate-talks-get-under-way-in-bonn-thomas-hale-and-scott-moore-call-for-a-radical-new-approach-to-cutting-emissions-that-sidesteps-inte.md)
-_Context: Bonn, city hall, Wal-Mart, emission_
+_Context: emission, city hall, Wal-Mart, Bonn_
 
 ## [Previous Day...](/news/2010/05/31/index.md)
 

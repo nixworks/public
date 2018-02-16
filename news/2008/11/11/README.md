@@ -9,35 +9,35 @@ Peter Eastgate shined through the two-day final table and became the 2008 WSOP m
 
 ##### RMS ''Queen Elizabeth 2''
 ### [ The RMS "Queen Elizabeth 2" sets sail on her final voyage before she is refurbished and turned into a hotel in Dubai, United Arab Emirates. ](/news/2008/11/11/the-rms-queen-elizabeth-2-sets-sail-on-her-final-voyage-before-she-is-refurbished-and-turned-into-a-hotel-in-dubai-united-arab-emirates.md)
-_Context: United Arab Emirates, Dubai, RMS ''Queen Elizabeth 2''_
+_Context: Dubai, United Arab Emirates, RMS ''Queen Elizabeth 2''_
 
 ##### German
 ### [ Germany announces new charges against John Demjanjuk in the deaths of 29,000 people at the Sobibor extermination camp in Poland during the Holocaust. ](/news/2008/11/11/germany-announces-new-charges-against-john-demjanjuk-in-the-deaths-of-29-000-people-at-the-sobibor-extermination-camp-in-poland-during-the.md)
-_Context: the Holocaust, Sobibor extermination camp, John Demjanjuk, German, Poland_
+_Context: Sobibor extermination camp, John Demjanjuk, Poland, German, the Holocaust_
 
 ##### A Holocaust survivor group
 ### [ A Holocaust survivor group announces the abandonment of negotiations with the LDS Church over the latter's continued posthumous baptism of Jews killed in the Holocaust. ](/news/2008/11/11/a-holocaust-survivor-group-announces-the-abandonment-of-negotiations-with-the-lds-church-over-the-latter-s-continued-posthumous-baptism-of.md)
-_Context: A Holocaust survivor group, posthumous baptism, the Holocaust, The Church of Jesus Christ of Latter-day Saints_
+_Context: The Church of Jesus Christ of Latter-day Saints, the Holocaust, posthumous baptism, A Holocaust survivor group_
 
 ##### Egypt
 ### [ Egypt's antiquities chief, Zahi Hawass, announces the discovery of a 4,300-year-old pyramid belonging to Queen Sesheshet, mother of King Teti. ](/news/2008/11/11/egypt-s-antiquities-chief-zahi-hawass-announces-the-discovery-of-a-4-300-year-old-pyramid-belonging-to-queen-sesheshet-mother-of-king-te.md)
-_Context: Sesheshet, Teti, Egypt, Zahi Hawass_
+_Context: Zahi Hawass, Egypt, Teti, Sesheshet_
 
 ##### President
 ### [ Former President Chen Shui-bian of the Republic of China is arrested while the anti-corruption prosecutors have asked a three-judge panel to formally detain the former President. ](/news/2008/11/11/former-president-chen-shui-bian-of-the-republic-of-china-is-arrested-while-the-anti-corruption-prosecutors-have-asked-a-three-judge-panel-t.md)
-_Context: Taiwan, President, Chen Shui-bian_
+_Context: President, Chen Shui-bian, Taiwan_
 
 ##### India
 ### [ The Indian Navy foils an attempt by Somali pirates to hijack a merchant ship in Gulf of Aden. ](/news/2008/11/11/the-indian-navy-foils-an-attempt-by-somali-pirates-to-hijack-a-merchant-ship-in-gulf-of-aden.md)
-_Context: India, Indian Navy, Gulf of Aden, Somali pirates_
+_Context: Gulf of Aden, Indian Navy, Somali pirates, India_
 
 ##### Mohamed Nasheed
 ### [ Mohamed Nasheed is sworn in as the new President of the Maldives. ](/news/2008/11/11/mohamed-nasheed-is-sworn-in-as-the-new-president-of-the-maldives.md)
-_Context: Maldives, President, Mohamed Nasheed_
+_Context: Mohamed Nasheed, President, Maldives_
 
 ##### Russia
 ### [ Russian regulators halt trading on one of the country's two main stock indexes, the MICEX, after it fell 6.5%, dragged down by commodity and banking shares. ](/news/2008/11/11/russian-regulators-halt-trading-on-one-of-the-country-s-two-main-stock-indexes-the-micex-after-it-fell-6-5-dragged-down-by-commodity-an.md)
-_Context: Moscow Interbank Currency Exchange, Russia_
+_Context: Russia, Moscow Interbank Currency Exchange_
 
 ## [Previous Day...](/news/2008/11/10/index.md)
 

@@ -25,11 +25,11 @@ The South American trading bloc Mercosur threatens to suspend Venezuela if it do
 
 ##### Operation Car Wash
 ### [Brazilian prosecutors file corruption charges against former President Luiz Inacio Lula da Silva and his wife, Marisa Leticia Lula da Silva. Federal judge Sergio Moro will preside over his case. ](/news/2016/09/14/brazilian-prosecutors-file-corruption-charges-against-former-president-luiz-ina-cio-lula-da-silva-and-his-wife-marisa-letacia-lula-da-silv.md)
-_Context: president, Brazil, Marisa Leticia Lula da Silva, Sergio Moro, Operation Car Wash, Luiz Inacio Lula da Silva_
+_Context: Brazil, president, Luiz Inacio Lula da Silva, Operation Car Wash, Marisa Leticia Lula da Silva, Sergio Moro_
 
 ##### Obama administration
 ### [The Obama administration plans to lift sanctions against Myanmar. ](/news/2016/09/14/the-obama-administration-plans-to-lift-sanctions-against-myanmar.md)
-_Context: Myanmar, Obama administration_
+_Context: Obama administration, Myanmar_
 
 ##### Obama administration
 ### [The Obama administration plans on increasing refugees admitted to the United States to 110,000. ](/news/2016/09/14/the-obama-administration-plans-on-increasing-refugees-admitted-to-the-united-states-to-110-000.md)

@@ -9,7 +9,7 @@ _Context: Calcutta, India_
 
 ##### United States
 ### [United States issues new warnings of Al-Qaeda threat to attack ships off coast of Yemen ](/news/2010/03/23/united-states-issues-new-warnings-of-al-qaeda-threat-to-attack-ships-off-coast-of-yemen.md)
-_Context: Yemen, al-Qaeda, United States_
+_Context: United States, Yemen, al-Qaeda_
 
 ##### Pakistan
 ### [5,000 people at a rally in the town of Kotli in Pakistan-administered Kashmir vow to wage a holy war to "liberate" the disputed Himalayan state of Kashmir from India on 70th anniversary of resolution to seek independence separately from India ](/news/2010/03/23/5-000-people-at-a-rally-in-the-town-of-kotli-in-pakistan-administered-kashmir-vow-to-wage-a-holy-war-to-liberate-the-disputed-himalayan-st.md)
@@ -25,11 +25,11 @@ The Taoiseach has promoted two TDs to senior positions and moved four ministers 
 
 ##### President
 ### [Nigerian cabinet reshuffle: Acting President Goodluck Jonathan picks new ministers after firing all members of his cabinet last week. ](/news/2010/03/23/nigerian-cabinet-reshuffle-acting-president-goodluck-jonathan-picks-new-ministers-after-firing-all-members-of-his-cabinet-last-week.md)
-_Context: Goodluck Jonathan, President_
+_Context: President, Goodluck Jonathan_
 
 ##### Sudan
 ### [Sudan's President Omar al-Bashir threatens to expel international observers for the first general elections in the country in 21 years, after they called for a delay to deal with "logistical" problems. ](/news/2010/03/23/sudan-s-president-omar-al-bashir-threatens-to-expel-international-observers-for-the-first-general-elections-in-the-country-in-21-years-afte.md)
-_Context: President of Sudan, post-election protests, Omar al-Bashir, Sudan_
+_Context: Sudan, post-election protests, Omar al-Bashir, President of Sudan_
 
 ##### Libya
 ### [Libya releases 214 Islamist inmates in what is described as "a historic event". ](/news/2010/03/23/libya-releases-214-islamist-inmates-in-what-is-described-as-a-historic-event.md)
@@ -57,11 +57,11 @@ Beijing accuses search giant of breaking promises to abide by Chinese laws.
 
 ##### Turkey
 ### [A Turkish ship is hijacked by Somali pirates more than 1,000 miles away from the coast of Somalia and closer to India. ](/news/2010/03/23/a-turkish-ship-is-hijacked-by-somali-pirates-more-than-1-000-miles-away-from-the-coast-of-somalia-and-closer-to-india.md)
-_Context: India, Turkey, Somali pirates, Somalia_
+_Context: Somali pirates, India, Somalia, Turkey_
 
 ##### Virgin Galactic's
 ### [Virgin Galactic's SpaceShipTwo is shown on its maiden flight from the Mojave Air and Spaceport in Mojave, California, United States. ](/news/2010/03/23/virgin-galactic-s-spaceshiptwo-is-shown-on-its-maiden-flight-from-the-mojave-air-and-spaceport-in-mojave-california-united-states.md)
-_Context: Mojave Air and Spaceport, Virgin Galactic's, Mojave, California, SpaceShipTwo_
+_Context: Mojave Air and Spaceport, Virgin Galactic's, SpaceShipTwo, Mojave, California_
 
 ##### Burma
 ### [Burma's High Court refuses to accept a lawsuit by the National League for Democracy against the ruling State Peace and Development Council for what they allege are unfair and discriminatory election laws. ](/news/2010/03/23/burma-s-high-court-refuses-to-accept-a-lawsuit-by-the-national-league-for-democracy-against-the-ruling-state-peace-and-development-council-f.md)

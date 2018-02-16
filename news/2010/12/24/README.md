@@ -5,15 +5,15 @@ Formats: [HTML](2010/12/24/index.html)  [JSON](2010/12/24/index.json)  [XML](201
 
 ##### Christmas Eve
 ### [At least 32 people are killed in bomb blasts detonated during Christmas Eve celebrations near the city of Jos, Nigeria, while at least six people die in attacks on churches by suspected Islamists in the north-eastern city of Maiduguri.](/news/2010/12/24/at-least-32-people-are-killed-in-bomb-blasts-detonated-during-christmas-eve-celebrations-near-the-city-of-jos-nigeria-while-at-least-six-p.md)
-_Context: Jos, Maiduguri, Islamists, Christmas Eve, Nigeria_
+_Context: Christmas Eve, Nigeria, Jos, Maiduguri, Islamists_
 
 ##### Darfur
 ### [Rebel groups in the Darfur region of Sudan clash with government forces, three days after resuming ceasefire negotiations. ](/news/2010/12/24/rebel-groups-in-the-darfur-region-of-sudan-clash-with-government-forces-three-days-after-resuming-ceasefire-negotiations.md)
-_Context: ceasefire, Darfur, Sudan_
+_Context: ceasefire, Sudan, Darfur_
 
 ##### Boko Haram
 ### [Suspected Boko Haram members attack a church in northern Nigeria during Christmas Eve services. ](/news/2010/12/24/suspected-boko-haram-members-attack-a-church-in-northern-nigeria-during-christmas-eve-services.md)
-_Context: Christmas Eve, Nigeria, Boko Haram_
+_Context: Boko Haram, Christmas Eve, Nigeria_
 
 ##### Hizbul Islam
 ### [The Hizbul Islam group in Somalia join forces with al-Shabaab. ](/news/2010/12/24/the-hizbul-islam-group-in-somalia-join-forces-with-al-shabaab.md)
@@ -21,11 +21,11 @@ Militant groups vow to intensify anti-government and peacekeepers assaults as th
 
 ##### Iranian Revolutionary Guard
 ### [A member of the Iranian Revolutionary Guard captured in southern Afghanistan is accused of cross-border weapons smuggling by the NATO-led International Security Assistance Force. ](/news/2010/12/24/a-member-of-the-iranian-revolutionary-guard-captured-in-southern-afghanistan-is-accused-of-cross-border-weapons-smuggling-by-the-nato-led-in.md)
-_Context: Afghanistan, Iranian Revolutionary Guard, International Security Assistance Force, NATO_
+_Context: International Security Assistance Force, Iranian Revolutionary Guard, Afghan, NATO_
 
 ##### Christmas
 ### [A Christmas message by Pope Benedict XVI is broadcast by BBC Radio 4's "Thought for the Day" programme in the United Kingdom. ](/news/2010/12/24/a-christmas-message-by-pope-benedict-xvi-is-broadcast-by-bbc-radio-4-s-thought-for-the-day-programme-in-the-united-kingdom.md)
-_Context: BBC Radio 4, United Kingdom, Christmas, Thought for the Day, Pope Benedict XVI_
+_Context: United Kingdom, BBC Radio 4, Thought for the Day, Christmas, Pope Benedict XVI_
 
 ##### Bethlehem
 ### [Thousands of people gather in Bethlehem to celebrate Christmas. ](/news/2010/12/24/thousands-of-people-gather-in-bethlehem-to-celebrate-christmas.md)
@@ -63,7 +63,7 @@ Turkish Foreign Minister Ahmet Davutoglu Thursday evening hailed a decision by t
 ### [Russia's lower house gives preliminary approval the New START treaty signed with the United States; full approval will be decided upon next month. ](/news/2010/12/24/russia-s-lower-house-gives-preliminary-approval-the-new-start-treaty-signed-with-the-united-states-full-approval-will-be-decided-upon-next.md)
 Russia&#x27;s&#x20;lower&#x20;house&#x20;gave&#x20;preliminary&#x20;approval&#x20;to&#x20;a&#x20;landmark&#x20;US-Russian&#x20;nuclear&#x20;arms&#x20;reduction&#x20;pact&#x20;Friday.&#x20;There&#x20;were&#x20;hopes&#x20;the&#x20;Duma&#x20;would&#x20;give&#x20;its&#x20;full&#x20;approval,&#x20;but&#x...
 
-##### Afghanistan
+##### Afghan
 ### [A tripartite summit of Afghanistan, Pakistan and Turkey is held in Istanbul, aimed at boosting trust between Afghanistan and Pakistan. ](/news/2010/12/24/a-tripartite-summit-of-afghanistan-pakistan-and-turkey-is-held-in-istanbul-aimed-at-boosting-trust-between-afghanistan-and-pakistan.md)
 Three countries to hold joint military exercises in April, agree to cooperate on anti-narcotics operations.
 
@@ -97,7 +97,7 @@ _Context: Tunisia_
 
 ##### Roman Catholic Church
 ### [The Roman Catholic Church in Cuba announces that the government will release two more political prisoners to exile in Spain. ](/news/2010/12/24/the-roman-catholic-church-in-cuba-announces-that-the-government-will-release-two-more-political-prisoners-to-exile-in-spain.md)
-_Context: Roman Catholic Church, Spain, political prisoner, Cuba_
+_Context: Cuba, political prisoner, Spain, Roman Catholic Church_
 
 ##### Cte d'Ivoire
 ### [State television in Cte d'Ivoire goes off the air outside the capital Abidjan amid a political crisis. The Economic Community of West African States threatens to remove incumbent President Laurent Gbagbo by "legitimate force". ](/news/2010/12/24/state-television-in-cote-d-ivoire-goes-off-the-air-outside-the-capital-abidjan-amid-a-political-crisis-the-economic-community-of-west-afric.md)

@@ -29,7 +29,7 @@ Sir Rex Hunt, who was governor of the Falkland Islands during the Argentine inva
 
 ##### EPS
 ### [2012 EPS Edison Volta Prize was awarded to Rolf-Dieter Heuer, CERN Director General, and two his colleagues.](/news/2012/11/12/2012-eps-edison-volta-prize-was-awarded-to-rolf-dieter-heuer-cern-director-general-and-two-his-colleagues.md)
-_Context: EPS, Rolf-Dieter Heuer, Edison Volta Prize, CERN_
+_Context: CERN, Edison Volta Prize, EPS, Rolf-Dieter Heuer_
 
 ## [Previous Day...](/news/2012/11/11/index.md)
 

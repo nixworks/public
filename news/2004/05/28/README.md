@@ -9,7 +9,7 @@ _Context: human rights abuse, Augusto Pinochet, immunity, Chile_
 
 ##### Magnitude
 ### [ A 6.1-magnitude earthquake strikes on Iran's Caspian Sea coast. Some 20 deaths and minor damage are reported. ](/news/2004/05/28/a-6-1-magnitude-earthquake-strikes-on-iran-s-caspian-sea-coast-some-20-deaths-and-minor-damage-are-reported.md)
-_Context: Iran, Caspian Sea, magnitude, earthquake_
+_Context: earthquake, Caspian Sea, Iran, magnitude_
 
 ## [Previous Day...](/news/2004/05/27/index.md)
 

@@ -21,7 +21,7 @@ _Context: Google, indexed_
 
 ##### Kapiliele Faupala
 ### [ Kapiliele Faupala is crowned the new King of Wallis (Uvea), succeeding the late Tomasi Kulimoetoke II, who died in 2007. ](/news/2008/07/25/kapiliele-faupala-is-crowned-the-new-king-of-wallis-uvea-succeeding-the-late-tomasi-kulimoetoke-ii-who-died-in-2007.md)
-_Context: Tomasi Kulimoetoke II, Kapiliele Faupala, King of Wallis (Uvea)_
+_Context: King of Wallis (Uvea), Kapiliele Faupala, Tomasi Kulimoetoke II_
 
 ## [Previous Day...](/news/2008/07/24/index.md)
 

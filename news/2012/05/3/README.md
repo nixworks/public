@@ -17,7 +17,7 @@ Activists say four students killed and 200 arrested when security forces raid un
 
 ##### Galkayo
 ### [Farhan Jeemis Abdulle, a Somali journalist and well-known local reporter for Radio Daljir is shot and killed by an unidentified gunman in Galkayo while walking to his home district of Garsor. Puntland authorities arrived on scene to investigate the killing but no arrests have been made. Abdulle is the fifth journalist to be murdered in Somalia this year, and the second in Galkayo. ](/news/2012/05/3/farhan-jeemis-abdulle-a-somali-journalist-and-well-known-local-reporter-for-radio-daljir-is-shot-and-killed-by-an-unidentified-gunman-in-ga.md)
-_Context: Galkayo, Somalia, Puntland_
+_Context: Somalia, Puntland, Galkayo_
 
 ##### 59th National Film Awards
 ### [The 59th National Film Awards is held in New Delhi with "Deool" and "Byari" winning the Award for Best Feature Film. ](/news/2012/05/3/the-59th-national-film-awards-is-held-in-new-delhi-with-deool-and-byari-winning-the-award-for-best-feature-film.md)
@@ -33,7 +33,7 @@ _Context: Veracruz, Mexican_
 
 ##### Chamber of Deputies
 ### [The Argentine Chamber of Deputies approves the bill submitted by President Cristina Fernndez de Kirchner to nationalize 51% of YPF by a 207-32 vote. ](/news/2012/05/3/the-argentine-chamber-of-deputies-approves-the-bill-submitted-by-president-cristina-fernandez-de-kirchner-to-nationalize-51-of-ypf-by-a-207.md)
-_Context: YPF, Chamber of Deputies, Cristina Kirchner_
+_Context: Cristina Kirchner, YPF, Chamber of Deputies_
 
 ##### China
 ### [Chinese dissident Chen Guangcheng telephones the U.S. Congress for help in his attempts to leave China with his family. ](/news/2012/05/3/chinese-dissident-chen-guangcheng-telephones-the-u-s-congress-for-help-in-his-attempts-to-leave-china-with-his-family.md)
@@ -41,11 +41,11 @@ Chinese dissident Chen Guangcheng telephones a US Congressional hearing to plead
 
 ##### Malian coup d'tat
 ### [2012 Malian coup d'tat: The Economic Community of West African States pledges to send troops to Mali if the country agrees. ](/news/2012/05/3/2012-malian-coup-d-etat-the-economic-community-of-west-african-states-pledges-to-send-troops-to-mali-if-the-country-agrees.md)
-_Context: ECOWAS, Mali, Malian coup d'tat_
+_Context: Malian coup d'tat, Mali, ECOWAS_
 
 ##### China
 ### [China, France, Russia, the United Kingdom and United States urge Iran to co-operate with the International Atomic Energy Agency. ](/news/2012/05/3/china-france-russia-the-united-kingdom-and-united-states-urge-iran-to-co-operate-with-the-international-atomic-energy-agency.md)
-_Context: China, Iran, IAEA, France, Russia, United Kingdom, United States_
+_Context: Iran, United States, IAEA, France, United Kingdom, Russia, China_
 
 ##### Bahrain
 ### [Bahrain's King Hamad bin Isa Al Khalifa grants new powers to parliament. ](/news/2012/05/3/bahrain-s-king-hamad-bin-isa-al-khalifa-grants-new-powers-to-parliament.md)
@@ -53,7 +53,7 @@ Monarch gives extra powers to parliament despite criticism from opposition which
 
 ##### United Kingdom
 ### [Voters in the United Kingdom go to the polls for local elections with the opposition Labour Party expected to do well. ](/news/2012/05/3/voters-in-the-united-kingdom-go-to-the-polls-for-local-elections-with-the-opposition-labour-party-expected-to-do-well.md)
-_Context: Labour Party, local elections, United Kingdom_
+_Context: United Kingdom, Labour Party, local elections_
 
 ##### Haiti
 ### [Haiti's Chamber of Deputies appoints Laurent Lamothe as the new Prime Minister ending a two month standoff with President Michel Martelly. ](/news/2012/05/3/haiti-s-chamber-of-deputies-appoints-laurent-lamothe-as-the-new-prime-minister-ending-a-two-month-standoff-with-president-michel-martelly.md)

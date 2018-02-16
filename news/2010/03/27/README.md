@@ -17,11 +17,11 @@ _Context: Buganda_
 
 ##### Iraq
 ### [Two bombs killed 42 people and wounded 65 others in Iraq's mainly Sunni Diyala province, prior to the release of full preliminary results from the March 7 parliamentary election. ](/news/2010/03/27/two-bombs-killed-42-people-and-wounded-65-others-in-iraq-s-mainly-sunni-diyala-province-prior-to-the-release-of-full-preliminary-results-fr.md)
-_Context: Iraq, elections, Diyala province, Sunni_
+_Context: Sunni, elections, Diyala province, Iraq_
 
 ##### RAI Television
 ### [Three deaf men who allege they were sodomised and abused by priests as children appear on RAI Television to confront the diocese of Verona. ](/news/2010/03/27/three-deaf-men-who-allege-they-were-sodomised-and-abused-by-priests-as-children-appear-on-rai-television-to-confront-the-diocese-of-verona.md)
-_Context: Verona, RAI Television_
+_Context: RAI Television, Verona_
 
 ##### European Union
 ### [The European Union and Libya lift visa bans on each other. ](/news/2010/03/27/the-european-union-and-libya-lift-visa-bans-on-each-other.md)
@@ -37,15 +37,15 @@ President to return home in next two days following surgery in Germany, paper sa
 
 ##### South Korea
 ### [The South Korean government calls an emergency security meeting to investigate yesterday's ship sinking near Baengnyeong Island in the Yellow Sea as a rescue operation continues to retrieve 46 missing sailors. ](/news/2010/03/27/the-south-korean-government-calls-an-emergency-security-meeting-to-investigate-yesterday-s-ship-sinking-near-baengnyeong-island-in-the-yello.md)
-_Context: Baengnyeong Island, ship sinking, South Korea, Yellow Sea_
+_Context: Yellow Sea, Baengnyeong Island, South Korea, ship sinking_
 
 ##### Burma
 ### [Thousands of soldiers participate in Burma's annual Armed Forces Day parade in Naypyidaw and are inspected by General Than Shwe who delivers a rare public address. ](/news/2010/03/27/thousands-of-soldiers-participate-in-burma-s-annual-armed-forces-day-parade-in-naypyidaw-and-are-inspected-by-general-than-shwe-who-delivers.md)
-_Context: Than Shwe, Burma, Naypyidaw_
+_Context: Naypyidaw, Burma, Than Shwe_
 
 ##### Thailand
 ### [Thai troops retreat after thousands of "red shirt" protesters demand fresh elections. ](/news/2010/03/27/thai-troops-retreat-after-thousands-of-red-shirt-protesters-demand-fresh-elections.md)
-_Context: red shirt, Thailand_
+_Context: Thailand, red shirt_
 
 ##### Gloria de Campeao
 ### [In horse racing, Gloria de Campeao wins the Dubai World Cup. ](/news/2010/03/27/in-horse-racing-gloria-de-campeao-wins-the-dubai-world-cup.md)

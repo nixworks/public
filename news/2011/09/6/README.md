@@ -5,11 +5,11 @@ Formats: [HTML](2011/09/6/index.html)  [JSON](2011/09/6/index.json)  [XML](2011/
 
 ##### English
 ### [English musician PJ Harvey wins her second Mercury Prize for best album from the United Kingdom and Ireland for her album "Let England Shake". ](/news/2011/09/6/english-musician-pj-harvey-wins-her-second-mercury-prize-for-best-album-from-the-united-kingdom-and-ireland-for-her-album-let-england-shake.md)
-_Context: United Kingdom, Mercury Prize, English, Ireland, Let England Shake, PJ Harvey_
+_Context: Let England Shake, United Kingdom, Ireland, English, Mercury Prize, PJ Harvey_
 
 ##### Russian Air Force
 ### [A Russian Air Force Mikoyan MiG-31 crashes in Perm Krai in the Ural Mountains. ](/news/2011/09/6/a-russian-air-force-mikoyan-mig-31-crashes-in-perm-krai-in-the-ural-mountains.md)
-_Context: Ural Mountains, Perm Krai, Russian Air Force, MiG-31_
+_Context: MiG-31, Perm Krai, Ural Mountains, Russian Air Force_
 
 ##### Wildfire
 ### [A wildfire destroys at least 118,500 acres and destroys over 700 homes in Central Texas since Saturday with two deaths. ](/news/2011/09/6/a-wildfire-destroys-at-least-118-500-acres-and-destroys-over-700-homes-in-central-texas-since-saturday-with-two-deaths.md)
@@ -17,7 +17,7 @@ A raging wildfire near Austin, Texas, killed two people, officials said Tuesday,
 
 ##### Tropical storm
 ### [A tropical storm watch is in place for Bermuda as Hurricane Katia gets closer. ](/news/2011/09/6/a-tropical-storm-watch-is-in-place-for-bermuda-as-hurricane-katia-gets-closer.md)
-_Context: Bermuda, Hurricane Katia, tropical storm_
+_Context: Hurricane Katia, Bermuda, tropical storm_
 
 ##### Swiss National Bank
 ### [The Swiss National Bank introduces a minimum exchange rate of 1.20 CHF-EUR to prevent the overvaluation of the Swiss franc. ](/news/2011/09/6/the-swiss-national-bank-introduces-a-minimum-exchange-rate-of-1-20-chf-eur-to-prevent-the-overvaluation-of-the-swiss-franc.md)

@@ -13,7 +13,7 @@ Swell Season, the Oscar-winning Irish act fronted by Glen Hansard, have said the
 
 ##### A. S. Byatt
 ### [Novelist A. S. Byatt and critic John Carey win the James Tait Black Memorial Prizes, Britain's oldest literary awards. ](/news/2010/08/20/novelist-a-s-byatt-and-critic-john-carey-win-the-james-tait-black-memorial-prizes-britain-s-oldest-literary-awards.md)
-_Context: James Tait Black Memorial Prize, John Carey, A. S. Byatt_
+_Context: John Carey, A. S. Byatt, James Tait Black Memorial Prize_
 
 ##### A. S. Byatt
 ### [A. S. Byatt criticises the Orange Prize as "sexist" and says women who write intellectual books are viewed as "unnatural". ](/news/2010/08/20/a-s-byatt-criticises-the-orange-prize-as-sexist-and-says-women-who-write-intellectual-books-are-viewed-as-unnatural.md)
@@ -21,7 +21,7 @@ _Context: Orange Prize, A. S. Byatt_
 
 ##### J. D. Salinger
 ### [J. D. Salinger's toilet is put on sale on eBay for $1 million. ](/news/2010/08/20/j-d-salinger-s-toilet-is-put-on-sale-on-ebay-for-1-million.md)
-_Context: eBay, J. D. Salinger_
+_Context: J. D. Salinger, eBay_
 
 ##### Mr Benn
 ### [Mr Benn is reprinted for the first time in 30 years. ](/news/2010/08/20/mr-benn-is-reprinted-for-the-first-time-in-30-years.md)
@@ -61,15 +61,15 @@ Palestinians warn negotiations would be threatened if building on occupied land 
 
 ##### Canada Post
 ### [Canada Post advises customers that it cannot accept mail to Gaza until further notice. Israel Post continues to inform postal services around the world that mail service to Gaza is unavailable. ](/news/2010/08/20/canada-post-advises-customers-that-it-cannot-accept-mail-to-gaza-until-further-notice-israel-post-continues-to-inform-postal-services-aroun.md)
-_Context: Gaza Strip, Israel Post, Canada Post_
+_Context: Gaza Strip, Canada Post, Israel Post_
 
 ##### President
 ### [President of Iran Mahmoud Ahmadinejad rejects calls from the United Nations Security Council to stop all uranium enrichment but promises to stop high level enrichment if the country is assured of uranium for a research reactor. ](/news/2010/08/20/president-of-iran-mahmoud-ahmadinejad-rejects-calls-from-the-united-nations-security-council-to-stop-all-uranium-enrichment-but-promises-to.md)
-_Context: uranium, President, Mahmoud Ahmadinejad, uranium enrichment, nuclear-powered, United Nations Security Council_
+_Context: United Nations Security Council, nuclear-powered, uranium, President, uranium enrichment, Mahmoud Ahmadinejad_
 
 ##### Hillary Clinton
 ### [Hillary Clinton, the United States Secretary of State, states that the United States "categorically disagrees" with the decision of the Scottish Government to release on compassionate grounds Abdelbaset al-Megrahi, the man convicted of bombing Pan Am Flight 103. ](/news/2010/08/20/hillary-clinton-the-united-states-secretary-of-state-states-that-the-united-states-categorically-disagrees-with-the-decision-of-the-scot.md)
-_Context: United States Secretary of State, Scottish Government, Hillary Clinton, Lockerbie bombing, Abdelbaset al-Megrahi, United States_
+_Context: United States, Abdelbaset al-Megrahi, Scottish Government, Hillary Clinton, United States Secretary of State, Lockerbie bombing_
 
 ##### Mexican
 ### [6 police officers in Mexico are arrested and accused of participating in the kidnap and murder of Mayor Edelmiro Cavazos. ](/news/2010/08/20/6-police-officers-in-mexico-are-arrested-and-accused-of-participating-in-the-kidnap-and-murder-of-mayor-edelmiro-cavazos.md)
@@ -101,7 +101,7 @@ A judge in Guatemala rules that the former President Alfonso Portillo must go on
 
 ##### Quadriplegic
 ### [A quadriplegic man leaves hospital in Hong Kong for his own home after 19 years, having written to the country's leader 6 years ago to ask that he be allowed to die. ](/news/2010/08/20/a-quadriplegic-man-leaves-hospital-in-hong-kong-for-his-own-home-after-19-years-having-written-to-the-country-s-leader-6-years-ago-to-ask-t.md)
-_Context: Hong Kong, quadriplegic_
+_Context: quadriplegic, Hong Kong_
 
 ##### U.S. state
 ### [The last remaining free inmate to have escaped from a prison in the U.S. state of Arizona is captured alongside his accomplice. ](/news/2010/08/20/the-last-remaining-free-inmate-to-have-escaped-from-a-prison-in-the-u-s-state-of-arizona-is-captured-alongside-his-accomplice.md)
@@ -109,11 +109,11 @@ The last of the three inmates who escaped from an Arizona prison was captured wi
 
 ##### NCsoft
 ### [A man sues game-maker NCsoft, stating he would not have begun to play one of their games, Lineage II, if he had known it was addictive and claims it has left him unable to function. ](/news/2010/08/20/a-man-sues-game-maker-ncsoft-stating-he-would-not-have-begun-to-play-one-of-their-games-lineage-ii-if-he-had-known-it-was-addictive-and-c.md)
-_Context: NCsoft, Lineage II_
+_Context: Lineage II, NCsoft_
 
 ##### Prime Minister
 ### [The two major political coalitions name their candidates for Prime Minister of the Solomon Islands following the general election: Steve Abana, the leader of the Democratic Party, and Danny Philip, the former Foreign Minister. ](/news/2010/08/20/the-two-major-political-coalitions-name-their-candidates-for-prime-minister-of-the-solomon-islands-following-the-general-election-steve-aba.md)
-_Context: 2010 general election, Foreign Minister, Danny Philip, Prime Minister, Democratic Party, Solomon Islands, Steve Abana_
+_Context: Steve Abana, Democratic Party, Foreign Minister, Solomon Islands, Prime Minister, 2010 general election, Danny Philip_
 
 ##### Wyclef Jean
 ### [Musician Wyclef Jean is reportedly omitted from the list of candidates for the Haitian presidential election. ](/news/2010/08/20/musician-wyclef-jean-is-reportedly-omitted-from-the-list-of-candidates-for-the-haitian-presidential-election.md)
@@ -133,7 +133,7 @@ _Context: United States military, United States_
 
 ##### Benin
 ### [More than half of politicians in Benin call for impeachment proceedings against President Boni Yayi over his involvement in a Ponzi scheme. ](/news/2010/08/20/more-than-half-of-politicians-in-benin-call-for-impeachment-proceedings-against-president-boni-yayi-over-his-involvement-in-a-ponzi-scheme.md)
-_Context: Boni Yayi, Ponzi scheme, Benin, impeachment_
+_Context: Ponzi scheme, Boni Yayi, Benin, impeachment_
 
 ##### India
 ### [India approves a draft law intended to open its civilian nuclear power industry to private investment. ](/news/2010/08/20/india-approves-a-draft-law-intended-to-open-its-civilian-nuclear-power-industry-to-private-investment.md)
@@ -149,7 +149,7 @@ _Context: recent election_
 
 ##### Only by focused light
 ### [The world's first solar-diesel power station opens in Marble Bar, Western Australia. ](/news/2010/08/20/the-world-s-first-solar-diesel-power-station-opens-in-marble-bar-western-australia.md)
-_Context: only by focused light, Western Australia, power station, diesel fuel, Marble Bar_
+_Context: Western Australia, diesel fuel, Marble Bar, only by focused light, power station_
 
 ## [Previous Day...](/news/2010/08/19/index.md)
 

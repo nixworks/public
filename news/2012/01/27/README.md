@@ -13,7 +13,7 @@ Amnesty International has called for an investigation into what it says is the m
 
 ##### Insurgency in the North Caucasus
 ### [Insurgency in the North Caucasus: 13 people are killed in three separate clashes between the Russian forces and Islamist militants in the Russian republics of Ingushetia, Dagestan, and Kabardino-Balkariya. ](/news/2012/01/27/insurgency-in-the-north-caucasus-13-people-are-killed-in-three-separate-clashes-between-the-russian-forces-and-islamist-militants-in-the-ru.md)
-_Context: Dagestan,  Kabardino-Balkariya, Ingushetia, Insurgency in the North Caucasus, Russia_
+_Context: Insurgency in the North Caucasus, Russia,  Kabardino-Balkariya, Dagestan, Ingushetia_
 
 ##### J. M. Coetzee
 ### [170 international writers, including the Nobel laureates J. M. Coetzee, Nadine Gordimer, Toni Morrison, Orhan Pamuk, Wole Soyinka, Mario Vargas Llosa and Derek Walcott, take out a full page advert in Mexican newspaper "El Universal" to defend the freedom of journalists from fear and censorship. ](/news/2012/01/27/170-international-writers-including-the-nobel-laureates-j-m-coetzee-nadine-gordimer-toni-morrison-orhan-pamuk-wole-soyinka-mario-var.md)
@@ -21,7 +21,7 @@ A host of international writers including several Nobel laureates issue a joint 
 
 ##### Economic Commission for Africa
 ### [The Economic Commission for Africa says Africa's economy faces "serious" threats because of the Eurozone crisis and the Arab Spring. ](/news/2012/01/27/the-economic-commission-for-africa-says-africa-s-economy-faces-serious-threats-because-of-the-eurozone-crisis-and-the-arab-spring.md)
-_Context: Eurozone crisis, Economic Commission for Africa, economic ties, Arab Spring_
+_Context: Arab Spring, Economic Commission for Africa, economic ties, Eurozone crisis_
 
 ##### World Economic Forum
 ### [At the World Economic Forum in Davos, British Prime Minister David Cameron, whose economy would be severely affected, denounces the Tobin tax under consideration in the European Union. ](/news/2012/01/27/at-the-world-economic-forum-in-davos-british-prime-minister-david-cameron-whose-economy-would-be-severely-affected-denounces-the-tobin-ta.md)
@@ -37,11 +37,11 @@ Two sacks of cocaine were accidentally delivered to the UN&#039;s New York headq
 
 ##### Willem Holleeder
 ### [Willem Holleeder, a notorious convicted Dutch felon, is released from jail after serving six years of a nine-year sentence for extortion and blackmail. ](/news/2012/01/27/willem-holleeder-a-notorious-convicted-dutch-felon-is-released-from-jail-after-serving-six-years-of-a-nine-year-sentence-for-extortion-and.md)
-_Context: blackmail, extortion, Willem Holleeder, Netherlands_
+_Context: Willem Holleeder, Netherlands, blackmail, extortion_
 
 ##### Guatemala
 ### [Guatemalan dictator Efrain Rios Montt to go on trial for genocide. ](/news/2012/01/27/guatemalan-dictator-efraan-raos-montt-to-go-on-trial-for-genocide.md)
-_Context: genocide, Efrain Rios Montt, Guatemala_
+_Context: Guatemala, Efrain Rios Montt, genocide_
 
 ##### Kader Arif
 ### [Kader Arif, the European Parliament's rapporteur for the Anti-Counterfeiting Trade Agreement (ACTA), resigns amid protests against the treaty. ](/news/2012/01/27/kader-arif-the-european-parliament-s-rapporteur-for-the-anti-counterfeiting-trade-agreement-acta-resigns-amid-protests-against-the-treat.md)
@@ -53,7 +53,7 @@ Russia’s Central Election Commission (CEC) has officially refused to register 
 
 ##### Australia
 ### [A media advisor to Australian Prime Minister Julia Gillard resigns after leaked information that led to a confrontation between Australian Aborigines and Gillard yesterday. ](/news/2012/01/27/a-media-advisor-to-australian-prime-minister-julia-gillard-resigns-after-leaked-information-that-led-to-a-confrontation-between-australian-a.md)
-_Context: Australia, Australian Aborigines, Julia Gillard_
+_Context: Australian Aborigines, Julia Gillard, Australia_
 
 ##### Twitter
 ### [Twitter alters technology to enable country-specific censorship of messages. ](/news/2012/01/27/twitter-alters-technology-to-enable-country-specific-censorship-of-messages.md)

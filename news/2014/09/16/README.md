@@ -3,7 +3,7 @@ Formats: [HTML](2014/09/16/index.html)  [JSON](2014/09/16/index.json)  [XML](201
 
 ## [2014-09-16](/news/2014/09/16/index.md)
 
-##### Afghanistan
+##### Afghan
 ### [A large bomb explodes in Afghan capital Kabul resulting in at least three deaths of international troops and five injuries. ](/news/2014/09/16/a-large-bomb-explodes-in-afghan-capital-kabul-resulting-in-at-least-three-deaths-of-international-troops-and-five-injuries.md)
 A Taliban suicide car bomber attacks a foreign military convoy in the Afghan capital, Kabul, killing three Nato personnel and injuring at least 16 civilians.
 

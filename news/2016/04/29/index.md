@@ -37,7 +37,7 @@ An elderly man from Puerto Rico succumbed after complications from an earlier in
 
 ##### Lithuania-United States relations
 ### [The United States Air Force lands two of its most advanced fighter jets in Lithuania for the first time in a show of support for the Baltic states which have become worried about Russia's actions in Ukraine. ](/news/2016/04/29/the-united-states-air-force-lands-two-of-its-most-advanced-fighter-jets-in-lithuania-for-the-first-time-in-a-show-of-support-for-the-baltic.md)
-_Context: Russia, Baltics, Lithuania-United States relations, most advanced fighter jets, United States Air Force, Lithuania, Ukraine_
+_Context: most advanced fighter jets, United States Air Force, Baltics, Lithuania, Russia, Lithuania-United States relations, Ukraine_
 
 ##### Australia
 ### [Australia commemorates the one-year anniversary of the execution of the ringleaders the Bali Nine. ](/news/2016/04/29/australia-commemorates-the-one-year-anniversary-of-the-execution-of-the-ringleaders-the-bali-nine.md)
@@ -49,7 +49,7 @@ NORTHKOREA-USA/PRISONER (URGENT):North Korea sentences Korean American to 10 yea
 
 ##### South Africa
 ### [A court in South Africa rules that the decision in 2009 to drop over 750 corruption charges against President Jacob Zuma was irrational and called for a review of them. However, the court ruling does not automatically reinstate the charges against Zuma as a legal team must be set up to decide on whether to charge him or not. ](/news/2016/04/29/a-court-in-south-africa-rules-that-the-decision-in-2009-to-drop-over-750-corruption-charges-against-president-jacob-zuma-was-irrational-and.md)
-_Context: South Africa, Jacob Zuma, President of South Africa_
+_Context: Jacob Zuma, President of South Africa, South Africa_
 
 ##### Oklahoma
 ### [The states of Oklahoma and Nebraska, having recently suffered a loss in their frontal attack on Colorado's state-legal cannabis policy, launch another litigation strategy to the same end. ](/news/2016/04/29/the-states-of-oklahoma-and-nebraska-having-recently-suffered-a-loss-in-their-frontal-attack-on-colorado-s-state-legal-cannabis-policy-laun.md)

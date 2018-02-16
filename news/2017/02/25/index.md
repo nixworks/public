@@ -17,11 +17,11 @@ Shifa Gardi, of the Iraqi Kurdish channel Rudaw, is killed by a roadside bomb as
 
 ##### Nagorno-Karabakh conflict
 ### [Clashes erupt between Nagorno-Karabakh separatists and Azerbaijani forces in the disputed Nagorno-Karabakh region. The Azerbaijan Ministry of Defense confirmed casualties on its side while the separatist forces claim to have no causalities. Both sides blame each other for the flareup in fighting. ](/news/2017/02/25/clashes-erupt-between-nagorno-karabakh-separatists-and-azerbaijani-forces-in-the-disputed-nagorno-karabakh-region-the-azerbaijan-ministry-o.md)
-_Context: Azerbaijan Ministry of Defense, Nagorno-Karabakh conflict, Nagorno-Karabakh region, Nagorno-Karabakh, Azerbaijan_
+_Context: Nagorno-Karabakh region, Nagorno-Karabakh, Azerbaijan Ministry of Defense, Nagorno-Karabakh conflict, Azerbaijan_
 
 ##### France-United States relations
 ### [French President Francois Hollande reproaches U.S. President Donald Trump for his disparaging comments about Paris at Friday's Conservative Political Action Conference, noting that allies should have more respect and support for each other. ](/news/2017/02/25/french-president-franassois-hollande-reproaches-u-s-president-donald-trump-for-his-disparaging-comments-about-paris-at-friday-s-conservative.md)
-_Context: French President, France-United States relations, Donald Trump, Conservative Political Action Conference, Francois Hollande_
+_Context: Francois Hollande, Donald Trump, Conservative Political Action Conference, France-United States relations, French President_
 
 ##### German
 ### [German police shoot a man, who was trying to escape after apparently driving into a group of pedestrians in a central square in Heidelberg. A 73-year-old man was killed and two other people injured. Police do not believe terrorism is involved. ](/news/2017/02/25/german-police-shoot-a-man-who-was-trying-to-escape-after-apparently-driving-into-a-group-of-pedestrians-in-a-central-square-in-heidelberg.md)

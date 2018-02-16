@@ -9,7 +9,7 @@ _Context: Perth, arson_
 
 ##### Six people killed
 ### [ The bodies of six people killed on 24 December are found in a house in Carnation, Washington. ](/news/2007/12/26/the-bodies-of-six-people-killed-on-24-december-are-found-in-a-house-in-carnation-washington.md)
-_Context: 24 December, Carnation, six people killed, Washington_
+_Context: six people killed, Carnation, Washington, 24 December_
 
 ##### Java
 ### [ Hours of torrential rains cause landslides killing at least 78 in the island of Java in Indonesia. ](/news/2007/12/26/hours-of-torrential-rains-cause-landslides-killing-at-least-78-in-the-island-of-java-in-indonesia.md)

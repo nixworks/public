@@ -5,7 +5,7 @@ Formats: [HTML](2007/07/1/index.html)  [JSON](2007/07/1/index.json)  [XML](2007/
 
 ##### Controlled explosion
 ### [ Police conduct a controlled explosion of a suspicious car in a carpark of the Royal Alexandra Hospital in Paisley, where two suspects in the 2007 Glasgow International Airport attack are being held. ](/news/2007/07/1/police-conduct-a-controlled-explosion-of-a-suspicious-car-in-a-carpark-of-the-royal-alexandra-hospital-in-paisley-where-two-suspects-in-th.md)
-_Context: Paisley, controlled explosion, Royal Alexandra Hospital, 2007 attack_
+_Context: Royal Alexandra Hospital, 2007 attack, Paisley, controlled explosion_
 
 ##### London Heathrow Airport
 ### [ Authorities evacuate part of Heathrow Airport while they investigate a suspect package. ](/news/2007/07/1/authorities-evacuate-part-of-heathrow-airport-while-they-investigate-a-suspect-package.md)
@@ -13,7 +13,7 @@ _Context: London Heathrow Airport_
 
 ##### Avraham Hirschson
 ### [ Avraham Hirschson resigns as the Finance Minister of Israel as an investigation into alleged fraud and embezzlement continues. ](/news/2007/07/1/avraham-hirschson-resigns-as-the-finance-minister-of-israel-as-an-investigation-into-alleged-fraud-and-embezzlement-continues.md)
-_Context: fraud, Israel, Avraham Hirschson, embezzlement_
+_Context: Israel, embezzlement, fraud, Avraham Hirschson_
 
 ##### Australia
 ### [ The Australian government upgrades its travel alert for the United Kingdom following the 2007 Glasgow International Airport attack and the 2007 London car bombs discovery. ](/news/2007/07/1/the-australian-government-upgrades-its-travel-alert-for-the-united-kingdom-following-the-2007-glasgow-international-airport-attack-and-the.md)
@@ -25,19 +25,19 @@ A helicopter carrying people involved in the F1 French Grand Prix auto race has 
 
 ##### African Union
 ### [ The African Union meets in Accra, Ghana, for a summit with attention focussed on a proposal by Muammar al-Gaddafi of Libya for a pan-African government. ](/news/2007/07/1/the-african-union-meets-in-accra-ghana-for-a-summit-with-attention-focussed-on-a-proposal-by-muammar-al-gaddafi-of-libya-for-a-pan-africa.md)
-_Context: Ghana, Accra, pan-African government, Muammar al-Gaddafi, African Union, Libya_
+_Context: Muammar al-Gaddafi, Accra, Libya, pan-African government, African Union, Ghana_
 
 ##### Chinese archaeologists
 ### [ Chinese archaeologists have found a hidden underground chamber within the tomb of Qin Shi Huang. ](/news/2007/07/1/chinese-archaeologists-have-found-a-hidden-underground-chamber-within-the-tomb-of-qin-shi-huang.md)
-_Context: Chinese archaeologists, hidden underground chamber, Terracotta Army_
+_Context: Chinese archaeologists, Terracotta Army, hidden underground chamber_
 
 ##### Concert for Diana
 ### [ The Concert for Diana occurs at the new Wembley Stadium on what would have been Princess Diana's 46th birthday. ](/news/2007/07/1/the-concert-for-diana-occurs-at-the-new-wembley-stadium-on-what-would-have-been-princess-diana-s-46th-birthday.md)
-_Context: Concert for Diana, Princess Diana, Wembley Stadium_
+_Context: Princess Diana, Concert for Diana, Wembley Stadium_
 
 ##### Canadian
 ### [ Canada celebrates its 140th anniversary. Canada Day marks the creation of the Dominion of Canada through the British North America Act on July 1, 1867. ](/news/2007/07/1/canada-celebrates-its-140th-anniversary-canada-day-marks-the-creation-of-the-dominion-of-canada-through-the-british-north-america-act-on-j.md)
-_Context: Canadian, Canada Day_
+_Context: Canada Day, Canadian_
 
 ##### Alison Brimelow
 ### [ Alison Brimelow becomes President of the European Patent Office. ](/news/2007/07/1/alison-brimelow-becomes-president-of-the-european-patent-office.md)

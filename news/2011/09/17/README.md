@@ -13,19 +13,19 @@ AT LEAST three people are dead and 25 injured in Sri Lanka after a passenger tra
 
 ##### NTSB
 ### [The US National Transportation Safety Board begins its investigation into Friday's Reno air crash, which killed at least three people and injured dozens. ](/news/2011/09/17/the-us-national-transportation-safety-board-begins-its-investigation-into-friday-s-reno-air-crash-which-killed-at-least-three-people-and-in.md)
-_Context: NTSB, Friday's Reno air crash_
+_Context: Friday's Reno air crash, NTSB_
 
 ##### North American T-28 Trojan
 ### [A North American T-28 Trojan crashes at an air show at the Eastern WV Regional Airport near Martinsburg, West Virginia, killing the pilot. ](/news/2011/09/17/a-north-american-t-28-trojan-crashes-at-an-air-show-at-the-eastern-wv-regional-airport-near-martinsburg-west-virginia-killing-the-pilot.md)
-_Context: Martinsburg, West Virginia, North American T-28 Trojan, Eastern WV Regional Airport_
+_Context: Eastern WV Regional Airport, Martinsburg, West Virginia, North American T-28 Trojan_
 
 ##### Earthquake
 ### [A strong 6.6 magnitude earthquake and a series of aftershocks occur off the coast of Honshu in Japan. ](/news/2011/09/17/a-strong-6-6-magnitude-earthquake-and-a-series-of-aftershocks-occur-off-the-coast-of-honshu-in-japan.md)
-_Context: aftershock, Japan, earthquake, Honshu Island_
+_Context: Honshu Island, Japan, aftershock, earthquake_
 
 ##### Prime Minister
 ### [Former Prime Minister of Thailand Thaksin Shinawatra visits Cambodia for high-level talks with the government of Cambodia over a variety of issues, including the ownership of the disputed Preah Vihear Temple. ](/news/2011/09/17/former-prime-minister-of-thailand-thaksin-shinawatra-visits-cambodia-for-high-level-talks-with-the-government-of-cambodia-over-a-variety-of.md)
-_Context: Thaksin Shinawatra, Preah Vihear Temple, Cambodia, Prime Minister, government of Cambodia_
+_Context: Prime Minister, Thaksin Shinawatra, Cambodia, government of Cambodia, Preah Vihear Temple_
 
 ##### Finland
 ### [Two people in Finland are held for investigation into alleged involvement in international terrorist activities. ](/news/2011/09/17/two-people-in-finland-are-held-for-investigation-into-alleged-involvement-in-international-terrorist-activities.md)
@@ -37,11 +37,11 @@ More than 240 people died when a ferry sank in the early hours of Sept. 10.
 
 ##### United States
 ### [Hundreds of United States citizens rally to peacefully occupy Wall Street, demonstrating against corporate dominance and perceived tax evasion by the super-rich. The movement is reportedly inspired by the periodic protests tactic of the Arab Spring. ](/news/2011/09/17/hundreds-of-united-states-citizens-rally-to-peacefully-occupy-wall-street-demonstrating-against-corporate-dominance-and-perceived-tax-evasi.md)
-_Context: Occupy Wall Street, Arab Spring, United States, super-rich, Wall Street, corporate dominance_
+_Context: United States, Wall Street, Arab Spring, super-rich, Occupy Wall Street, corporate dominance_
 
 ##### Latvia
 ### [Voters in Latvia go to the polls for a parliamentary election. ](/news/2011/09/17/voters-in-latvia-go-to-the-polls-for-a-parliamentary-election.md)
-_Context: parliamentary election, Latvia_
+_Context: Latvia, parliamentary election_
 
 ## [Previous Day...](/news/2011/09/16/index.md)
 

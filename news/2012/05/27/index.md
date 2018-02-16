@@ -13,7 +13,7 @@ Six activists given up to 15 years in prison for allegedly working with Iran to 
 
 ##### Michael Haneke
 ### [Michael Haneke scoops the Palme d'Or for "Love" at the 2012 Cannes Film Festival. ](/news/2012/05/27/michael-haneke-scoops-the-palme-d-or-for-love-at-the-2012-cannes-film-festival.md)
-_Context: 2012 Cannes Film Festival, Palme d'Or, Michael Haneke_
+_Context: Michael Haneke, 2012 Cannes Film Festival, Palme d'Or_
 
 ##### Tropical Storm Beryl
 ### [Tropical Storm Beryl makes landfall near the US city of Jacksonville with northern Florida and southern Georgia. ](/news/2012/05/27/tropical-storm-beryl-makes-landfall-near-the-us-city-of-jacksonville-with-northern-florida-and-southern-georgia.md)
@@ -25,11 +25,11 @@ Political parties in Greece criticise IMF head Christine Lagarde for suggesting 
 
 ##### French police
 ### [French police arrest the military leader of the Basque separatist group ETA Oroitz Gurruchaga Gogorza and his deputy Xabier Aramburu in the village of Cauna. ](/news/2012/05/27/french-police-arrest-the-military-leader-of-the-basque-separatist-group-eta-oroitz-gurruchaga-gogorza-and-his-deputy-xabier-aramburu-in-the.md)
-_Context: Xabier Aramburu, Basque, French police, Oroitz Gurruchaga Gogorza, Cauna, ETA_
+_Context: Oroitz Gurruchaga Gogorza, Basque, Cauna, French police, Xabier Aramburu, ETA_
 
 ##### Enda Kenny
 ### [Taoiseach Enda Kenny makes a televised address on the European Fiscal Compact ahead of Thursday's referendum. ](/news/2012/05/27/taoiseach-enda-kenny-makes-a-televised-address-on-the-european-fiscal-compact-ahead-of-thursday-s-referendum.md)
-_Context: Irish referendum, Enda Kenny, European Fiscal Compact_
+_Context: Irish referendum, European Fiscal Compact, Enda Kenny_
 
 ##### Tbilisi
 ### [Thousands of people rally in Tbilisi calling for the ousting of President Mikheil Saakashvili's regime. ](/news/2012/05/27/thousands-of-people-rally-in-tbilisi-calling-for-the-ousting-of-president-mikheil-saakashvili-s-regime.md)

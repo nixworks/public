@@ -39,7 +39,7 @@ Russia has banned Jehovah&#039;s Witnesses after the Supreme Court ruled the Chr
 ### [The Government of India revokes the Public Health Foundation of India's registration, allegedly for foreign-funded lobbying practices. ](/news/2017/04/20/the-government-of-india-revokes-the-public-health-foundation-of-india-s-registration-allegedly-for-foreign-funded-lobbying-practices.md)
 The government has revoked the registration of Public Health Foundation of India (PHFI), an NGO funded by Bill &amp; Melinda Gates Foundation, under the Foreign Contributions (Regulation) Act over alleged misuse of foreign funds for anti-tobacco lobbying, in violation of FCRA norms.
 
-##### The state
+##### Florida
 ### [A ten-year-old boy from Florida with autism is arrested at school, and spends the night in a juvenile facility. Unknown to the family, the boy had an outstanding warrant for his arrest after kicking and scratching one of his educators. The Autism Society of America is looking into legal options. ](/news/2017/04/20/a-ten-year-old-boy-from-florida-with-autism-is-arrested-at-school-and-spends-the-night-in-a-juvenile-facility-unknown-to-the-family-the-b.md)
 John Benjamin Haygood was arrested on felony battery charges &mdash; but a Florida prosecutor plans to offer him a &ldquo;nonjudicial sanction.&rdquo; His mother, however, said that her son &ldquo;didn&rsquo;t do anything wrong.&rdquo;
 
@@ -73,7 +73,7 @@ Weeks of protests in Venezuela are shifting the spotlight onto the nation’s mi
 
 ##### China
 ### [China launches its first cargo spacecraft, the Tianzhou 1, carried by a Long March 7 rocket. ](/news/2017/04/20/china-launches-its-first-cargo-spacecraft-the-tianzhou-1-carried-by-a-long-march-7-rocket.md)
-_Context: Tianzhou 1, Long March 7, China, cargo spacecraft_
+_Context: Long March 7, China, Tianzhou 1, cargo spacecraft_
 
 ## [Previous Day...](/news/2017/04/19/index.md)
 

@@ -13,7 +13,7 @@ _Context: Somalia, Mogadishu_
 
 ##### Egypt
 ### [A bomb detonates on a bus carrying Egyptian military conscripts in Arish, injuring 18. ](/news/2015/07/26/a-bomb-detonates-on-a-bus-carrying-egyptian-military-conscripts-in-arish-injuring-18.md)
-_Context: Egypt, Arish_
+_Context: Arish, Egypt_
 
 ##### German
 ### [German marketplace organizer Deutsche Borse agrees to purchase trading platform 360T for EUR725 million. ](/news/2015/07/26/german-marketplace-organizer-deutsche-baprse-agrees-to-purchase-trading-platform-360t-for-a-725-million.md)
@@ -29,7 +29,7 @@ _Context: $, Nike, Inc., Nike+ FuelBand_
 
 ##### Bobbi Kristina Brown
 ### [Bobbi Kristina Brown, age 22, daughter of American entertainer Whitney Houston and heiress to the Houston estate, dies approximately 6 months after having been put in a medically induced coma since being found face-down in a bathtub in her Roswell, Georgia home near Atlanta on January 31, 2015. ](/news/2015/07/26/bobbi-kristina-brown-age-22-daughter-of-american-entertainer-whitney-houston-and-heiress-to-the-houston-estate-dies-approximately-6-month.md)
-_Context: medically induced coma, Atlanta, Whitney Houston, Bobbi Kristina Brown, Roswell, Georgia_
+_Context: Atlanta, medically induced coma, Whitney Houston, Bobbi Kristina Brown, Roswell, Georgia_
 
 ##### Tokyo
 ### [A light plane crashes in the Tokyo residential area of Chofu, killing three people. ](/news/2015/07/26/a-light-plane-crashes-in-the-tokyo-residential-area-of-chafu-killing-three-people.md)
@@ -39,7 +39,7 @@ A light plane crashes into a residential area in Tokyo, setting fire to several 
 ### [Palestinian youth and Israeli riot police clash at the Al-Aqsa Mosque as the Muslims attacked Jews celebrating Tisha B'Av with rocks and firecrackers and barricaded themselves inside the mosque. ](/news/2015/07/26/palestinian-youth-and-israeli-riot-police-clash-at-the-al-aqsa-mosque-as-the-muslims-attacked-jews-celebrating-tisha-b-av-with-rocks-and-fir.md)
 In Jerusalem’s Al Aqsa Mosque, Palestinians threw stones and sprayed an unidentified liquid at the police , who responded with stun grenades and tear gas.
 
-##### Afghanistan
+##### Afghan
 ### [At least 20 people are killed as gunmen open fire at a wedding celebration in Afghanistan's Baghlan province. ](/news/2015/07/26/at-least-20-people-are-killed-as-gunmen-open-fire-at-a-wedding-celebration-in-afghanistan-s-baghlan-province.md)
 At least 20 people killed by gunmen who opened fire at wedding guests in northern Baghlan province.
 

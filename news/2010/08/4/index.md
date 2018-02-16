@@ -17,7 +17,7 @@ Israeli shellfire killed a Palestinian militant and wounded another in the Gaza 
 
 ##### U.S. state
 ### [Corpses belonging to 59 migrants are located in a desert in the U.S. state of Arizona. ](/news/2010/08/4/corpses-belonging-to-59-migrants-are-located-in-a-desert-in-the-u-s-state-of-arizona.md)
-_Context: U.S. state, Arizona_
+_Context: Arizona, U.S. state_
 
 ##### Karachi
 ### [Police in Karachi arrest suspects in its investigation into a recent assassination, as the death toll in riots reaches 63. ](/news/2010/08/4/police-in-karachi-arrest-suspects-in-its-investigation-into-a-recent-assassination-as-the-death-toll-in-riots-reaches-63.md)
@@ -53,7 +53,7 @@ Officials in Bhutan investigate whether a man found dead in forest near the town
 
 ##### Major
 ### [A controlled explosion is carried out on a device discovered beneath the car of a serving soldier, believed to be an army major, in Bangor, County Down in Northern Ireland. ](/news/2010/08/4/a-controlled-explosion-is-carried-out-on-a-device-discovered-beneath-the-car-of-a-serving-soldier-believed-to-be-an-army-major-in-bangor.md)
-_Context: Northern Ireland, major, Bangor, County Down_
+_Context: Northern Ireland, County Down, major, Bangor_
 
 ##### Word
 ### [A vault containing non-words - those rejected by the "Oxford English Dictionary" - is uncovered. ](/news/2010/08/4/a-vault-containing-non-words-those-rejected-by-the-oxford-english-dictionary-is-uncovered.md)
@@ -61,7 +61,7 @@ Wurfing, polkadodge and nonversation are among the words stored in secret files 
 
 ##### Radiohead
 ### [Sharers of the Radiohead album "In Rainbows", once offered by the band for nothing, are sent cease-and-desist letters by the RIAA and IFPI. ](/news/2010/08/4/sharers-of-the-radiohead-album-in-rainbows-once-offered-by-the-band-for-nothing-are-sent-cease-and-desist-letters-by-the-riaa-and-ifpi.md)
-_Context: Radiohead, IFPI, RIAA, In Rainbows_
+_Context: RIAA, Radiohead, In Rainbows, IFPI_
 
 ##### Wyclef Jean
 ### [Musician Wyclef Jean confirms he is to announce plans to stand for the presidency in Haiti. ](/news/2010/08/4/musician-wyclef-jean-confirms-he-is-to-announce-plans-to-stand-for-the-presidency-in-haiti.md)
@@ -81,11 +81,11 @@ _Context: 2010 China floods_
 
 ##### Eurotunnel
 ### [Eurotunnel has "apologised profusely" after train passengers brought to Calais, France, through the Channel Tunnel are locked into their carriages upon arrival and immediately returned to Kent, England. ](/news/2010/08/4/eurotunnel-has-apologised-profusely-after-train-passengers-brought-to-calais-france-through-the-channel-tunnel-are-locked-into-their-car.md)
-_Context: England, France, Channel Tunnel, Kent, Eurotunnel, Calais_
+_Context: England, Calais, Eurotunnel, Channel Tunnel, France, Kent_
 
 ##### Barn
 ### [Three barns collapse at the largest egg farm in the U.S. state of Ohio in Croton, with at least one worker dead. ](/news/2010/08/4/three-barns-collapse-at-the-largest-egg-farm-in-the-u-s-state-of-ohio-in-croton-with-at-least-one-worker-dead.md)
-_Context: Ohio, Croton, barn, U.S. state, egg farm_
+_Context: Ohio, egg farm, barn, Croton, U.S. state_
 
 ##### Admiral
 ### [Admiral Thad Allen, the man in charge of the US Government's efforts to clear up the Deepwater Horizon oil spill, has given clearance for BP to pour cement into its Gulf of Mexico oil well. ](/news/2010/08/4/admiral-thad-allen-the-man-in-charge-of-the-us-government-s-efforts-to-clear-up-the-deepwater-horizon-oil-spill-has-given-clearance-for-bp.md)
@@ -97,7 +97,7 @@ Pacific Islands Forum host, Vanuatu, says regional leaders must still engage wit
 
 ##### Vaughn R. Walker
 ### [Vaughn R. Walker, the Chief Judge of the United States District Court for the Northern District of California, rules in "Perry v. Schwarzenegger" that California Proposition 8 banning same-sex marriage in California is unconstitutional. ](/news/2010/08/4/vaughn-r-walker-the-chief-judge-of-the-united-states-district-court-for-the-northern-district-of-california-rules-in-perry-v-schwarzene.md)
-_Context: Chief Judge, United States District Court for the Northern District of California, Perry v. Schwarzenegger, California, same-sex marriage, Vaughn R. Walker, reversed its legalization_
+_Context: Chief Judge, reversed its legalization, California, Vaughn R. Walker, United States District Court for the Northern District of California, same-sex marriage, Perry v. Schwarzenegger_
 
 ##### The Sunday Times
 ### [A journalist with "The Sunday Times" is arrested in South Africa.date=August 2010 ](/news/2010/08/4/a-journalist-with-the-sunday-times-is-arrested-in-south-africa-date-august-2010.md)
@@ -109,7 +109,7 @@ A wave of violent attacks on Chinese schools has left many asking whether social
 
 ##### Sabbar Kashur
 ### [The prison sentence of Sabbar Kashur, a married Arab man convicted by Israel of "rape by deception" after telling the accuser that he's Jewish and single, is delayed as he attempts an appeal. ](/news/2010/08/4/the-prison-sentence-of-sabbar-kashur-a-married-arab-man-convicted-by-israel-of-rape-by-deception-after-telling-the-accuser-that-he-s-jewi.md)
-_Context: Sabbar Kashur, rape by deception, single, Jew, Israel, Arab_
+_Context: Sabbar Kashur, Jew, single, rape by deception, Israel, Arab_
 
 ##### Abdullah Khadr
 ### [Canadian Abdullah Khadr, charged with terrorism by the United States and jailed in Canada since 2005, is released from prison after a Canadian judge declines an extradition attempt by the United States. ](/news/2010/08/4/canadian-abdullah-khadr-charged-with-terrorism-by-the-united-states-and-jailed-in-canada-since-2005-is-released-from-prison-after-a-canadi.md)
@@ -145,19 +145,19 @@ Doku Umarov appears in new video posting saying he will not step down from his p
 
 ##### Cabinet formation in the Netherlands
 ### [Cabinet formation in the Netherlands: Ivo Opstelten, the chairman of the People's Party for Freedom and Democracy, is appointed the new informateur, tasked with finalizing the formation of a right-wing minority coalition cabinet. ](/news/2010/08/4/cabinet-formation-in-the-netherlands-ivo-opstelten-the-chairman-of-the-people-s-party-for-freedom-and-democracy-is-appointed-the-new-info.md)
-_Context: Ivo Opstelten, VVD, right-wing, Informateur, Cabinet formation in the Netherlands, minority government_
+_Context: right-wing, minority government, VVD, Ivo Opstelten, Cabinet formation in the Netherlands, Informateur_
 
 ##### United States House of Representatives
 ### [U.S. Rep. Don Young R-Alaska claims that he has been cleared in a United States Department of Justice corruption probe. ](/news/2010/08/4/u-s-rep-don-young-r-alaska-claims-that-he-has-been-cleared-in-a-united-states-department-of-justice-corruption-probe.md)
-_Context: United States House of Representatives, Department of Justice, corruption, Don Young, Alaska, Republican_
+_Context: Department of Justice, Alaska, Don Young, United States House of Representatives, Republican, corruption_
 
 ##### Cologne
 ### [10,000 people arrive in Cologne for the opening ceremony of the 2010 Gay Games. ](/news/2010/08/4/10-000-people-arrive-in-cologne-for-the-opening-ceremony-of-the-2010-gay-games.md)
-_Context: Cologne, 2010, Gay Games_
+_Context: 2010, Cologne, Gay Games_
 
 ##### Surrey
 ### [Surrey defeat Glamorgan by 39 runs on the Duckworth-Lewis method to achieve a world record for the highest score in 40-over cricket in the CB 40 at The Oval. ](/news/2010/08/4/surrey-defeat-glamorgan-by-39-runs-on-the-duckworthalewis-method-to-achieve-a-world-record-for-the-highest-score-in-40-over-cricket-in-the.md)
-_Context: Glamorgan, Duckworth-Lewis method, Surrey, run, cricketer, The Oval_
+_Context: cricketer, Duckworth-Lewis method, run, Surrey, Glamorgan, The Oval_
 
 ##### Alex Rodriguez
 ### [Alex Rodriguez of the New York Yankees becomes the seventh player in the history of Major League Baseball to hit 600 home runs. ](/news/2010/08/4/alex-rodriguez-of-the-new-york-yankees-becomes-the-seventh-player-in-the-history-of-major-league-baseball-to-hit-600-home-runs.md)

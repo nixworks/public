@@ -17,7 +17,7 @@ Al Shabaab fighters attacked a remote Somali army base and entered a nearby town
 
 ##### Syrian Civil War
 ### [UNICEF confirms severe malnutrition in the besieged Syrian town of Madaya. Russia calls for humanitarian aid to be let into besieged towns like Madaya, Fua and Kafraya. ](/news/2016/01/15/unicef-confirms-severe-malnutrition-in-the-besieged-syrian-town-of-madaya-russia-calls-for-humanitarian-aid-to-be-let-into-besieged-towns-l.md)
-_Context: Madaya, Russia, Syria, malnutrition, UNICEF, Syrian Civil War, Al-Fu'ah, Kafraya_
+_Context: Kafraya, UNICEF, Al-Fu'ah, Syria, Syrian Civil War, Madaya, Russia, malnutrition_
 
 ##### Wikipedia
 ### [Wikipedia celebrates its 15th anniversary. ](/news/2016/01/15/wikipedia-celebrates-its-15th-anniversary.md)
@@ -81,15 +81,15 @@ A special court is being set up in The Hague to try war crimes committed during 
 
 ##### PKK rebellion (2015-present)
 ### [Twelve Turkish academics are detained for signing a declaration opposing military action against Kurdistan Workers Party forces in southeast Turkey. ](/news/2016/01/15/twelve-turkish-academics-are-detained-for-signing-a-declaration-opposing-military-action-against-kurdistan-workers-party-forces-in-southeast.md)
-_Context: Turkish, Turkey, PKK rebellion (2015-present), Kurdistan Workers Party_
+_Context: PKK rebellion (2015-present), Turkish, Kurdistan Workers Party, Turkey_
 
 ##### Anti-corruption campaign in China
 ### [Wei Hong, Governor of Sichuan province, is announced to be under investigation for "breaching discipline" by the Central Commission for Discipline Inspection. ](/news/2016/01/15/wei-hong-governor-of-sichuan-province-is-announced-to-be-under-investigation-for-breaching-discipline-by-the-central-commission-for-disc.md)
-_Context: Central Commission for Discipline Inspection, Sichuan, Anti-corruption campaign in China, Wei Hong_
+_Context: Wei Hong, Anti-corruption campaign in China, Central Commission for Discipline Inspection, Sichuan_
 
 ##### Azerbaijan
 ### [Azerbaijani National Police use tear gas and water cannons to forcibly disperse protesters in the Quba District who were protesting the country's worsening economic situation, resulting in scores being arrested. ](/news/2016/01/15/azerbaijani-national-police-use-tear-gas-and-water-cannons-to-forcibly-disperse-protesters-in-the-quba-district-who-were-protesting-the-coun.md)
-_Context: Azerbaijan,  Quba District, National Police_
+_Context: National Police, Azerbaijan,  Quba District_
 
 ## [Previous Day...](/news/2016/01/14/index.md)
 

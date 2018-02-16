@@ -13,7 +13,7 @@ Israel carries out air strikes in the Gaza Strip, killing four Hamas militants, 
 
 ##### Sudan
 ### [Sudan blames the explosion at a munition factory south of Khartoum on an Israeli airstrike. ](/news/2012/10/24/sudan-blames-the-explosion-at-a-munition-factory-south-of-khartoum-on-an-israeli-airstrike.md)
-_Context: explosion at a munition factory, Sudan_
+_Context: Sudan, explosion at a munition factory_
 
 ##### Syrian civil war
 ### [Syrian civil war: The UN peace envoy Lakhdar Brahimi states in Cairo that the Syrian government has agreed to a ceasefire during the four-day Muslim holiday, Eid al-Adha. ](/news/2012/10/24/syrian-civil-war-the-un-peace-envoy-lakhdar-brahimi-states-in-cairo-that-the-syrian-government-has-agreed-to-a-ceasefire-during-the-four-da.md)
@@ -29,7 +29,7 @@ Ireland&#39;s analogue television network has been replaced by a digital signal 
 
 ##### International Trade Commission
 ### [An administrative law judge with the U.S. International Trade Commission issues a preliminary decision on a long-running Samsung-Apple dispute, in favor of Apple's complaint on four of the six patents in dispute. ](/news/2012/10/24/an-administrative-law-judge-with-the-u-s-international-trade-commission-issues-a-preliminary-decision-on-a-long-running-samsung-apple-dispu.md)
-_Context: Apple Inc., International Trade Commission, Samsung_
+_Context: International Trade Commission, Apple Inc., Samsung_
 
 ##### Roma
 ### [After years of delays and disputes over cost and design, and amid references in newspapers to Germany's rejection of asylum applications by Roma from Kosovo and comments from the country's interior minister alleging "increasing abuse of asylum from countries in the Balkans", Angela Merkel unveils a memorial near the Reichstag to members of the Roma community killed during the Nazi Holocaust. ](/news/2012/10/24/after-years-of-delays-and-disputes-over-cost-and-design-and-amid-references-in-newspapers-to-germany-s-rejection-of-asylum-applications-by.md)
@@ -61,7 +61,7 @@ _Context: Westminster, Colorado, Denver_
 
 ##### Los Angeles
 ### [Three people are shot dead, two are critically wounded, and a gunman is at large after shootings at two locations in the Los Angeles suburb of Downey, California: a business next to a Coca-Cola plant, and a residence. ](/news/2012/10/24/three-people-are-shot-dead-two-are-critically-wounded-and-a-gunman-is-at-large-after-shootings-at-two-locations-in-the-los-angeles-suburb.md)
-_Context: Los Angeles, Downey, California, Coca-Cola_
+_Context: Coca-Cola, Los Angeles, Downey, California_
 
 ##### Welsh government
 ### [The Welsh government reaches an agreement with the British government giving Wales limited powers to borrow money to finance major projects. ](/news/2012/10/24/the-welsh-government-reaches-an-agreement-with-the-british-government-giving-wales-limited-powers-to-borrow-money-to-finance-major-projects.md)

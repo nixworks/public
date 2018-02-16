@@ -21,11 +21,11 @@ German President Horst Koehler says he is resigning, following criticism of rema
 
 ##### Colombia
 ### [Colombia's former Minister of National Defence, Juan Manuel Santos, wins the first round of the country's presidential election, but without the majority needed to avoid a June run-off with rival Antanas Mockus ](/news/2010/05/31/colombia-s-former-minister-of-national-defence-juan-manuel-santos-wins-the-first-round-of-the-country-s-presidential-election-but-without.md)
-_Context: Juan Manuel Santos, Colombia, Antanas Mockus, Colombian presidential election, Minister of National Defence_
+_Context: Colombia, Colombian presidential election, Minister of National Defence, Juan Manuel Santos, Antanas Mockus_
 
 ##### Undersea volcano
 ### [An undersea volcano erupts near Sarigan, Northern Mariana Islands, sending an eruption cloud 40,000 feet into the atmosphere, prompting Governor Benigno Fitial to declare a state of emergency. ](/news/2010/05/31/an-undersea-volcano-erupts-near-sarigan-northern-mariana-islands-sending-an-eruption-cloud-40-000-feet-into-the-atmosphere-prompting-gove.md)
-_Context: atmosphere, Benigno Fitial, Northern Mariana Islands, undersea volcano, eruption cloud, state of emergency, Sarigan_
+_Context: Sarigan, state of emergency, atmosphere, undersea volcano, Northern Mariana Islands, Benigno Fitial, eruption cloud_
 
 ##### Nicolas Sarkozy
 ### [French President Nicolas Sarkozy, speaking at the launch of the 25th Africa-France summit in Nice, calls for Africa to be represented on the United Nations Security Council, and promises to back changes when France chairs the G8 and G-20 major economies groups in 2011. ](/news/2010/05/31/french-president-nicolas-sarkozy-speaking-at-the-launch-of-the-25th-africa-france-summit-in-nice-calls-for-africa-to-be-represented-on-the.md)
@@ -43,9 +43,9 @@ The report appears likely to bolster the Obama administration’s case for a fou
 ### [Wildfires burn across Quebec, sending smoke as far away as Ottawa and Cape Cod. ](/news/2010/05/31/wildfires-burn-across-quebec-sending-smoke-as-far-away-as-ottawa-and-cape-cod.md)
 _Context: Wildfires, Cape Cod, Ottawa_
 
-##### Afghanistan
+##### Afghan
 ### [Afghan authorities suspend two Christian foreign aid groups, Church World Service and Norwegian Church Aid, on suspicion of proselytizing in the strictly Islamic republic and said a follow-up investigation would include whether other groups were trying to convert Muslims. ](/news/2010/05/31/afghan-authorities-suspend-two-christian-foreign-aid-groups-church-world-service-and-norwegian-church-aid-on-suspicion-of-proselytizing-in.md)
-_Context: proselytizing, Afghanistan, Norwegian Church Aid, Islamic republic, Church World Service, Christian_
+_Context: Church World Service, Afghan, Islamic republic, Christian, Norwegian Church Aid, proselytizing_
 
 ##### Israel
 ### [A number of Israeli warships follow the Gaza-bound international flotilla as it nears its destination and an aircraft flies overhead. ](/news/2010/05/31/a-number-of-israeli-warships-follow-the-gaza-bound-international-flotilla-as-it-nears-its-destination-and-an-aircraft-flies-overhead.md)
@@ -65,7 +65,7 @@ State media blames Kurdish fighters for attack that killed six soldiers and woun
 
 ##### Pakistan
 ### [A court in Pakistan lifts a ban on Facebook imposed two weeks ago after an "Everybody Draw Mohammed Day" group appeared on the site. ](/news/2010/05/31/a-court-in-pakistan-lifts-a-ban-on-facebook-imposed-two-weeks-ago-after-an-everybody-draw-mohammed-day-group-appeared-on-the-site.md)
-_Context: Pakistan, Facebook, Everybody Draw Mohammed Day_
+_Context: Pakistan, Everybody Draw Mohammed Day, Facebook_
 
 ## [Previous Day...](/news/2010/05/30/index.md)
 

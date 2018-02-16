@@ -7,13 +7,13 @@ Formats: [HTML](2012/04/28/index.html)  [JSON](2012/04/28/index.json)  [XML](201
 ### [Syrian activists claim that the Syrian Armed Forces killed ten people in the village of Bakha north of Damascus. ](/news/2012/04/28/syrian-activists-claim-that-the-syrian-armed-forces-killed-ten-people-in-the-village-of-bakha-north-of-damascus.md)
 Vessel originally from Libya, loaded with arms reportedly destined for Syrian opposition, is stopped by Lebanese navy.
 
-##### Afghanistan
+##### Afghan
 ### [Two bodyguards and two insurgents are killed in an attack on the Governor of Afghanistan's Kandahar Province. ](/news/2012/04/28/two-bodyguards-and-two-insurgents-are-killed-in-an-attack-on-the-governor-of-afghanistan-s-kandahar-province.md)
-_Context: Kandahar Province, Afghanistan_
+_Context: Kandahar Province, Afghan_
 
 ##### 2012 Dnipropetrovsk explosions
 ### [2012 Dnipropetrovsk explosions: Ukrainian president Viktor Yanukovich promises an investigation into the incident that injured 30 people. ](/news/2012/04/28/2012-dnipropetrovsk-explosions-ukrainian-president-viktor-yanukovich-promises-an-investigation-into-the-incident-that-injured-30-people.md)
-_Context: Ukraine, Viktor Yanukovich, 2012 Dnipropetrovsk explosions_
+_Context: Viktor Yanukovich, 2012 Dnipropetrovsk explosions, Ukraine_
 
 ##### Busch Stadium
 ### [One person dies and more than 110 are injured when a tent collapses at a restaurant near Busch Stadium in St. Louis, Missouri. ](/news/2012/04/28/one-person-dies-and-more-than-110-are-injured-when-a-tent-collapses-at-a-restaurant-near-busch-stadium-in-st-louis-missouri.md)

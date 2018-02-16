@@ -13,11 +13,11 @@ The White House warns Syria it will take &quot;additional steps&quot; if Damascu
 
 ##### Jasmine Revolution of 2011
 ### [Tunisian Revolution: Riot police break up an anti-government demonstration calling for a "new revolution" in the capital Tunis. ](/news/2011/05/6/tunisian-revolution-riot-police-break-up-an-anti-government-demonstration-calling-for-a-new-revolution-in-the-capital-tunis.md)
-_Context: Tunis, Jasmine Revolution of 2011_
+_Context: Jasmine Revolution of 2011, Tunis_
 
 ##### Pakistan
 ### [Pakistani militants open fire on Shi'ite Muslims in Quetta killing at least 8 and wounding 10. ](/news/2011/05/6/pakistani-militants-open-fire-on-shi-ite-muslims-in-quetta-killing-at-least-8-and-wounding-10.md)
-_Context: Shi'ite, Quetta, Pakistan_
+_Context: Shi'ite, Pakistan, Quetta_
 
 ##### 7 July
 ### [The inquest into the 7 July 2005 London bombings concludes with the ruling that the victims had been unlawfully killed. ](/news/2011/05/6/the-inquest-into-the-7-july-2005-london-bombings-concludes-with-the-ruling-that-the-victims-had-been-unlawfully-killed.md)
@@ -41,7 +41,7 @@ Lawsuit alleges Greg Mortenson, his charity committed fraud by inducing 2 lawmak
 
 ##### CNET
 ### [CNET reports that a group of computer hackers is planning another cyberattack against Sony over its handling of the PlayStation Network outage. ](/news/2011/05/6/cnet-reports-that-a-group-of-computer-hackers-is-planning-another-cyberattack-against-sony-over-its-handling-of-the-playstation-network-outa.md)
-_Context: PlayStation Network outage, cyberattack, hacker, CNET, Sony_
+_Context: Sony, hacker, PlayStation Network outage, CNET, cyberattack_
 
 ##### Spring 2011 Mississippi River Floods
 ### [The United States Coast Guard closes a section of the Mississippi River near Caruthersville, Missouri due to heavy flooding. ](/news/2011/05/6/the-united-states-coast-guard-closes-a-section-of-the-mississippi-river-near-caruthersville-missouri-due-to-heavy-flooding.md)
@@ -49,11 +49,11 @@ Historic flooding forced the U.S. Coast Guard to shut down commercial traffic on
 
 ##### Japanese Prime Minister
 ### [Japanese Prime Minister Naoto Kan orders the closing of the ageing Hamaoka nuclear power plant in a densely populated area southwest of Tokyo because it is located close to a tectonic fault line. ](/news/2011/05/6/japanese-prime-minister-naoto-kan-orders-the-closing-of-the-ageing-hamaoka-nuclear-power-plant-in-a-densely-populated-area-southwest-of-toky.md)
-_Context: Naoto Kan, tectonic, Japanese Prime Minister, Hamaoka Nuclear Power Plant_
+_Context: tectonic, Hamaoka Nuclear Power Plant, Japanese Prime Minister, Naoto Kan_
 
 ##### Russia
 ### [Russia launches an urgent rescue mission after the nuclear-powered icebreaker Taymyr in its fleet develops a nuclear leak in the frozen seas of the Arctic and was forced to abandon its mission. ](/news/2011/05/6/russia-launches-an-urgent-rescue-mission-after-the-nuclear-powered-icebreaker-taymyr-in-its-fleet-develops-a-nuclear-leak-in-the-frozen-seas.md)
-_Context: Taymyr, fleet, Russia, Arctic, nuclear-powered icebreaker_
+_Context: Arctic, Russia, nuclear-powered icebreaker, Taymyr, fleet_
 
 ##### Sabinas
 ### [Rescuers recover a seventh body from inside a coal mine near Sabinas, Mexico, more than three days after an explosion there; seven remaining miners trapped inside are presumed dead. ](/news/2011/05/6/rescuers-recover-a-seventh-body-from-inside-a-coal-mine-near-sabinas-mexico-more-than-three-days-after-an-explosion-there-seven-remaining.md)
@@ -69,15 +69,15 @@ _Context: time zone, Samoa_
 
 ##### Burma
 ### [Burma formally applies to take over the rotating chairmanship of ASEAN in 2014. ](/news/2011/05/6/burma-formally-applies-to-take-over-the-rotating-chairmanship-of-asean-in-2014.md)
-_Context: ASEAN, Burma_
+_Context: Burma, ASEAN_
 
 ##### China
 ### [The People's Republic of China, Kyrgyzstan and Tajikistan hold an antiterrorism drill in Xinjiang. ](/news/2011/05/6/the-people-s-republic-of-china-kyrgyzstan-and-tajikistan-hold-an-antiterrorism-drill-in-xinjiang.md)
-_Context: Kyrgyzstan, Tajikistan, China, Xinjiang_
+_Context: Tajikistan, Xinjiang, Kyrgyzstan, China_
 
 ##### Russia
 ### [A court in Russia sentences ultranationalist Nikita Tikhonov to life imprisonment for the murder of human rights lawyer Stanislav Markelov and journalist Anastasia Baburova in 2009. ](/news/2011/05/6/a-court-in-russia-sentences-ultranationalist-nikita-tikhonov-to-life-imprisonment-for-the-murder-of-human-rights-lawyer-stanislav-markelov-a.md)
-_Context: Stanislav Markelov, Anastasia Baburova, Russia, Nikita Tikhonov_
+_Context: Anastasia Baburova, Nikita Tikhonov, Russia, Stanislav Markelov_
 
 ##### Baseball
 ### [Former US baseball player Lenny Dykstra is indicted on 13 counts of bankruptcy fraud. ](/news/2011/05/6/former-us-baseball-player-lenny-dykstra-is-indicted-on-13-counts-of-bankruptcy-fraud.md)
@@ -85,7 +85,7 @@ Remember how Lenny Dykstra was arrested for bankruptcy fraud? Yeah, he&#8217;s i
 
 ##### Japanese police
 ### [Japanese police launch an investigation after four people die of food poisoning after eating raw meat at a Yakiniku restaurant chain in Ishikawa Prefecture. ](/news/2011/05/6/japanese-police-launch-an-investigation-after-four-people-die-of-food-poisoning-after-eating-raw-meat-at-a-yakiniku-restaurant-chain-in-ishi.md)
-_Context: Yakiniku, Ishikawa Prefecture, Japanese police, food poisoning_
+_Context: Yakiniku, Japanese police, Ishikawa Prefecture, food poisoning_
 
 ##### Maldives
 ### [Mass protests against rising inflation continue in the Maldives. ](/news/2011/05/6/mass-protests-against-rising-inflation-continue-in-the-maldives.md)
@@ -121,11 +121,11 @@ _Context: alternative voting, Alternative Vote referendum_
 
 ##### Labour Party
 ### [Labour candidate Jon Ashworth wins the Leicester South by-election. ](/news/2011/05/6/labour-candidate-jon-ashworth-wins-the-leicester-south-by-election.md)
-_Context: Labour Party, Jon Ashworth, Leicester South by-election_
+_Context: Leicester South by-election, Labour Party, Jon Ashworth_
 
 ##### Thai Prime Minister
 ### [Thai Prime Minister Abhisit Vejjajiva seeks King Bhumibol Adulyadej's endorsement to dissolve the lower house of parliament and calls for a national election. ](/news/2011/05/6/thai-prime-minister-abhisit-vejjajiva-seeks-king-bhumibol-adulyadej-s-endorsement-to-dissolve-the-lower-house-of-parliament-and-calls-for-a.md)
-_Context: King, Thai Prime Minister, Bhumibol Adulyadej, Abhisit Vejjajiva_
+_Context: Thai Prime Minister, Abhisit Vejjajiva, Bhumibol Adulyadej, King_
 
 ## [Previous Day...](/news/2011/05/5/index.md)
 

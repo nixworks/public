@@ -17,7 +17,7 @@ _Context: Honduras, drug trafficking, Julian Aristides Gonzalez_
 
 ##### CBS
 ### [ For the second time in as many years, CBS cancels a United States-produced soap opera, this time "As the World Turns" after 54 years, in effect putting Procter & Gamble, the creators of said genre, out of that business. ](/news/2009/12/8/for-the-second-time-in-as-many-years-cbs-cancels-a-united-states-produced-soap-opera-this-time-as-the-world-turns-after-54-years-in-ef.md)
-_Context: United States, As the World Turns, soap opera, Procter & Gamble, CBS_
+_Context: Procter & Gamble, As the World Turns, CBS, United States, soap opera_
 
 ##### President of Serbia
 ### [ President of Serbia Boris Tadic, his sports minister and FSS-FSS chief Tomislav Karadzic are punished for breaking FIFA's strict no-alcohol policy at the Stadion Crvena Zvezda on 10 October. ](/news/2009/12/8/president-of-serbia-boris-tadia-his-sports-minister-and-d-d-d-fss-chief-tomislav-karadzic-are-punished-for-breaking-fifa-s-strict-no-alc.md)
@@ -25,11 +25,11 @@ A Serbian court has fined President Boris Tadic €400 for drinking champagne to
 
 ##### Junta
 ### [ The ruling junta in Guinea announces it has arrested 60 people so far for attempting to kill leader Captain Moussa Dadis Camara. ](/news/2009/12/8/the-ruling-junta-in-guinea-announces-it-has-arrested-60-people-so-far-for-attempting-to-kill-leader-captain-moussa-dadis-camara.md)
-_Context: Moussa Dadis Camara, junta, Guinea_
+_Context: Guinea, Moussa Dadis Camara, junta_
 
 ##### Stampede
 ### [ Eight children are killed and a further 26 injured in a stampede at a school in Xiangtan, Hunan, in central China. ](/news/2009/12/8/eight-children-are-killed-and-a-further-26-injured-in-a-stampede-at-a-school-in-xiangtan-hunan-in-central-china.md)
-_Context: Hunan, China, Xiangtan, stampede_
+_Context: Hunan, Xiangtan, stampede, China_
 
 ##### Earthquake
 ### [ A series of earthquakes and aftershocks kill a 1 year old child and injure several other people in northern Malawi. ](/news/2009/12/8/a-series-of-earthquakes-and-aftershocks-kill-a-1-year-old-child-and-injure-several-other-people-in-northern-malawi.md)
@@ -49,7 +49,7 @@ More than 120 people killed in car bomb blasts at five different locations in Ba
 
 ##### Burma
 ### [ Burmese authorities burn US$93 million worth of seized narcotic drugs at a ceremony in eastern Shan State. ](/news/2009/12/8/burmese-authorities-burn-us-93-million-worth-of-seized-narcotic-drugs-at-a-ceremony-in-eastern-shan-state.md)
-_Context: Burma, narcotic drugs, Shan State_
+_Context: Shan State, Burma, narcotic drugs_
 
 ## [Previous Day...](/news/2009/12/7/index.md)
 

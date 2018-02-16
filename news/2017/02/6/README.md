@@ -7,9 +7,9 @@ Formats: [HTML](2017/02/6/index.html)  [JSON](2017/02/6/index.json)  [XML](2017/
 ### [An Egyptian Army raid in central Sinai kills at least 14 ISIL militants. ](/news/2017/02/6/an-egyptian-army-raid-in-central-sinai-kills-at-least-14-isil-militants.md)
  Egyptian soldiers killed 14 militants and arrested ten others in a raid in central Sinai, the military said on Monday.
 
-##### Afghanistan
+##### Afghan
 ### [An Afghan diplomat is shot dead at the Afghan consulate in Karachi, Pakistan. ](/news/2017/02/6/an-afghan-diplomat-is-shot-dead-at-the-afghan-consulate-in-karachi-pakistan.md)
-_Context: Pakistan, Karachi, Afghanistan_
+_Context: Afghan, Karachi, Pakistan_
 
 ##### Elizabeth II
 ### [Queen Elizabeth II marks her 65th anniversary as sovereign, making her the only British monarch to commemorate a Sapphire Jubilee. ](/news/2017/02/6/queen-elizabeth-ii-marks-her-65th-anniversary-as-sovereign-making-her-the-only-british-monarch-to-commemorate-a-sapphire-jubilee.md)

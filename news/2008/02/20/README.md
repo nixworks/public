@@ -9,7 +9,7 @@ _Context: United States Federal Reserve_
 
 ##### United States Air Force
 ### [ Two United States Air Force F-15 Eagle fighter planes crash in mid-air over the Gulf of Mexico near Florida. ](/news/2008/02/20/two-united-states-air-force-f-15-eagle-fighter-planes-crash-in-mid-air-over-the-gulf-of-mexico-near-florida.md)
-_Context: the state, F-15 Eagle, United States Air Force, Gulf of Mexico_
+_Context: Florida, United States Air Force, F-15 Eagle, Gulf of Mexico_
 
 ##### United States Geological Survey
 ### [ The United States Geological Survey reports the occurrence of a 7.6 magnitude earthquake off the western coast of the Indonesian island of Sumatra. ](/news/2008/02/20/the-united-states-geological-survey-reports-the-occurrence-of-a-7-6-magnitude-earthquake-off-the-western-coast-of-the-indonesian-island-of.md)
@@ -21,15 +21,15 @@ _Context: South Korea_
 
 ##### Military of the United States
 ### [ The United States military imposes a curfew on all personnel on the Japanese island Okinawa following the arrest of a member of the United States Marine Corps on suspicion of rape. ](/news/2008/02/20/the-united-states-military-imposes-a-curfew-on-all-personnel-on-the-japanese-island-okinawa-following-the-arrest-of-a-member-of-the-united.md)
-_Context: Japan, Military of the United States, Okinawa, Marine_
+_Context: Japan, Marine, Military of the United States, Okinawa_
 
 ##### Morocco
 ### [ The government of Morocco arrests 23 alleged terrorists, including Mustapha Moatassim, the Secretary General of Alternative Civilization, a political party recognized by the state. ](/news/2008/02/20/the-government-of-morocco-arrests-23-alleged-terrorists-including-mustapha-moatassim-the-secretary-general-of-alternative-civilization-a.md)
-_Context: Mustapha Moatassim, Morocco, Alternative Civilization_
+_Context: Alternative Civilization, Mustapha Moatassim, Morocco_
 
 ##### Armenia
 ### [ Armenian Prime Minister Serzh Sargsyan is elected as President in a contest hailed as largely democratic by OSCE and international monitors. ](/news/2008/02/20/armenian-prime-minister-serzh-sargsyan-is-elected-as-president-in-a-contest-hailed-as-largely-democratic-by-osce-and-international-monitors.md)
-_Context: Armenian President, OSCE, Prime Minister, Serzh Sargsyan, Armenia, presidential election_
+_Context: Armenia, Serzh Sargsyan, Prime Minister, Armenian President, OSCE, presidential election_
 
 ##### Space Shuttle
 ### [ The Space Shuttle "Atlantis" lands at Kennedy Space Center following the conclusion of the STS-122 assembly mission to the International Space Station. ](/news/2008/02/20/the-space-shuttle-atlantis-lands-at-kennedy-space-center-following-the-conclusion-of-the-sts-122-assembly-mission-to-the-international-sp.md)

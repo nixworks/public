@@ -13,11 +13,11 @@ The Burmese military’s barbaric acts of violence have left countless women and
 
 ##### Economy of Venezuela
 ### [Venezuela defaults on sovereign debt and bonds issued by state oil firm PDVSA (Petroleos de Venezuela, S.A.). ](/news/2017/11/16/venezuela-defaults-on-sovereign-debt-and-bonds-issued-by-state-oil-firm-pdvsa-petra3leos-de-venezuela-s-a.md)
-_Context: Economy of Venezuela, PDVSA, Venezuela_
+_Context: PDVSA, Economy of Venezuela, Venezuela_
 
 ##### Crime in the United States
 ### [A mistrial is declared in the 10-week corruption trial of U.S. Senator Bob Menendez (D-NJ) who was accused of accepting private flights, campaign contributions, etc., from Florida ophthalmologist Salomon Melgen in exchange for official favors. A juror told the media the panel was split 10-2 in favor of acquittal. ](/news/2017/11/16/a-mistrial-is-declared-in-the-10-week-corruption-trial-of-u-s-senator-bob-menendez-d-nj-who-was-accused-of-accepting-private-flights-cam.md)
-_Context: United States Senate, ophthalmologist, Bob Menendez, the state, Crime in the United States_
+_Context: Florida, United States Senate, Bob Menendez, Crime in the United States, ophthalmologist_
 
 ##### Politics of Cambodia
 ### [The opposition Cambodian National Rescue Party is dissolved by the Cambodian Supreme Court. ](/news/2017/11/16/the-opposition-cambodian-national-rescue-party-is-dissolved-by-the-cambodian-supreme-court.md)

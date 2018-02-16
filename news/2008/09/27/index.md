@@ -13,7 +13,7 @@ Tropical Storm Kyle strengthened into a hurricane on Saturday in the Atlantic Oc
 
 ##### United States Senate
 ### [ The United States Senate passes a large spending bill including $25 billion in taxpayer subsidised loans for automakers and the end of offshore drilling bans. ](/news/2008/09/27/the-united-states-senate-passes-a-large-spending-bill-including-25-billion-in-taxpayer-subsidised-loans-for-automakers-and-the-end-of-offs.md)
-_Context: offshore, automaker, United States Senate_
+_Context: offshore, United States Senate, automaker_
 
 ##### People's Council
 ### [ The People's Council of Turkmenistan, implementing changes approved in the Constitution, passes a vote to abolish itself and allow opposition parties. ](/news/2008/09/27/the-people-s-council-of-turkmenistan-implementing-changes-approved-in-the-constitution-passes-a-vote-to-abolish-itself-and-allow-oppositi.md)
@@ -21,7 +21,7 @@ _Context: People's Council, Constitution, Turkmenistan_
 
 ##### Shenzhou 7
 ### [ During mission Shenzhou 7, Zhai Zhigang successfully performs the first spacewalk by a Chinese astronaut, as China becomes the third country to carry out extra-vehicular activity independently. ](/news/2008/09/27/during-mission-shenzhou-7-zhai-zhigang-successfully-performs-the-first-spacewalk-by-a-chinese-astronaut-as-china-becomes-the-third-countr.md)
-_Context: astronaut, Shenzhou 7, China, extra-vehicular activity, Zhai Zhigang_
+_Context: Zhai Zhigang, Shenzhou 7, astronaut, China, extra-vehicular activity_
 
 ##### Hawthorn Football Club
 ### [ In Australian football, the Hawthorn Football Club defeats the Geelong Football Club in the 2008 AFL Grand Final by 115 points to 89. ](/news/2008/09/27/in-australian-football-the-hawthorn-football-club-defeats-the-geelong-football-club-in-the-2008-afl-grand-final-by-115-points-to-89.md)
@@ -29,7 +29,7 @@ Hawthorn won its first AFL premiership for 17 years at the MCG, emphatically top
 
 ##### 2008 Damascus car bomb
 ### [ 2008 Damascus car bomb: A suspected car bomb targeting a military installation in Damascus, Syria kills at least 17 and injures 14 others. ](/news/2008/09/27/2008-damascus-car-bomb-a-suspected-car-bomb-targeting-a-military-installation-in-damascus-syria-kills-at-least-17-and-injures-14-others.md)
-_Context: Damascus, car bomb, Syria, 2008 Damascus car bomb_
+_Context: 2008 Damascus car bomb, Damascus, car bomb, Syria_
 
 ##### Mersenne prime
 ### [ A 12.9 million digit Mersenne prime is discovered. ](/news/2008/09/27/a-12-9-million-digit-mersenne-prime-is-discovered.md)

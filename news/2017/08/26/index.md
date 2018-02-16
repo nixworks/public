@@ -17,7 +17,7 @@ North Korea fired several short-range missiles into the sea off its east coast e
 
 ##### Trial of Yingluck Shinawatra
 ### [Senior members of the Pheu Thai Party report former Prime Minister Yingluck Shinawatra left Thailand last week ahead of the verdict in her negligence trial. She is in Dubai where her brother, Thaksin Shinawatra, lives. ](/news/2017/08/26/senior-members-of-the-pheu-thai-party-report-former-prime-minister-yingluck-shinawatra-left-thailand-last-week-ahead-of-the-verdict-in-her-n.md)
-_Context: Thaksin Shinawatra, Yingluck Shinawatra, Prime Minister, Thailand, Pheu Thai Party, Trial of Yingluck Shinawatra, Dubai_
+_Context: Thailand, Dubai, Pheu Thai Party, Prime Minister, Trial of Yingluck Shinawatra, Yingluck Shinawatra, Thaksin Shinawatra_
 
 ##### Drug crackdown
 ### [Hundreds of sympathizers attend the funeral procession of a teenager killed allegedly due to the ongoing drug purge in the Philippines. ](/news/2017/08/26/hundreds-of-sympathizers-attend-the-funeral-procession-of-a-teenager-killed-allegedly-due-to-the-ongoing-drug-purge-in-the-philippines.md)

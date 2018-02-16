@@ -9,15 +9,15 @@ The suicide bomber who killed eight people inside a CIA base in Afghanistan last
 
 ##### Lloyd D. George Federal District Courthouse
 ### [A gunman opens fire in the lobby of the Lloyd D. George Federal District Courthouse in Las Vegas, Nevada, containing the offices of Senators Harry Reid and John Ensign. A court security officer was killed and a U.S. Marshal injured before the assailant was shot dead. ](/news/2010/01/4/a-gunman-opens-fire-in-the-lobby-of-the-lloyd-d-george-federal-district-courthouse-in-las-vegas-nevada-containing-the-offices-of-senators.md)
-_Context: John Ensign, Las Vegas, Nevada, Harry Reid, Lloyd D. George Federal District Courthouse_
+_Context: Lloyd D. George Federal District Courthouse, John Ensign, Las Vegas, Nevada, Harry Reid_
 
 ##### Burj Khalifa
 ### [The Burj Khalifa, the tallest structure ever built, opens to the public in Dubai, United Arab Emirates. ](/news/2010/01/4/the-burj-khalifa-the-tallest-structure-ever-built-opens-to-the-public-in-dubai-united-arab-emirates.md)
-_Context: Burj Khalifa, tallest structure in the world, Dubai, United Arab Emirates_
+_Context: United Arab Emirates, tallest structure in the world, Burj Khalifa, Dubai_
 
 ##### U.S. President
 ### [A representation of President of the United States Barack Obama is found hanging by a noose with the epitaph "Plains, Georgia. Home of Jimmy Carter, our 39th President". ](/news/2010/01/4/a-representation-of-president-of-the-united-states-barack-obama-is-found-hanging-by-a-noose-with-the-epitaph-plains-georgia-home-of-jimmy.md)
-_Context: Plains, Georgia, United States, Jimmy Carter, U.S. President, Barack Obama, epitaph_
+_Context: Barack Obama, U.S. President, Jimmy Carter, United States, epitaph, Plains, Georgia_
 
 ##### Solomon Islands
 ### [At least 500 homes are damaged after a 7.2 magnitude earthquake hits the Solomon Islands. ](/news/2010/01/4/at-least-500-homes-are-damaged-after-a-7-2-magnitude-earthquake-hits-the-solomon-islands.md)
@@ -33,7 +33,7 @@ More snow is forecast to fall as icy conditions continue to hamper road users th
 
 ##### Egypt
 ### [Egyptian archaeologists discover the largest tomb yet discovered in the ancient Saqqara necropolis. ](/news/2010/01/4/egyptian-archaeologists-discover-the-largest-tomb-yet-discovered-in-the-ancient-saqqara-necropolis.md)
-_Context: Saqqara, Egypt_
+_Context: Egypt, Saqqara_
 
 ##### Diesel fuel leak
 ### [A diesel fuel leak in Shaanxi, China reaches the Yellow River, a water source for millions of people. ](/news/2010/01/4/a-diesel-fuel-leak-in-shaanxi-china-reaches-the-yellow-river-a-water-source-for-millions-of-people.md)
@@ -45,7 +45,7 @@ _Context: genocide, Government of Serbia, Holocaust, International Court of Just
 
 ##### Malaysia
 ### [52 unmarried couples in Malaysia face charges of sexual misconduct and possible imprisonment after being caught alone in hotel rooms by the country's Islamic morality police. ](/news/2010/01/4/52-unmarried-couples-in-malaysia-face-charges-of-sexual-misconduct-and-possible-imprisonment-after-being-caught-alone-in-hotel-rooms-by-the.md)
-_Context: Malaysia, Islam_
+_Context: Islam, Malaysia_
 
 ##### Newark Liberty International Airport
 ### [Police search for a mystery man who goes missing after sparking a security alert at Newark Liberty International Airport in the United States, causing the airport to be completely locked down. ](/news/2010/01/4/police-search-for-a-mystery-man-who-goes-missing-after-sparking-a-security-alert-at-newark-liberty-international-airport-in-the-united-state.md)
@@ -53,19 +53,19 @@ _Context: Newark Liberty International Airport, United States_
 
 ##### Johan Ferrier
 ### [Johan Ferrier, first President of Suriname and the world's oldest living former head of state, dies in the Netherlands at the age of 99. ](/news/2010/01/4/johan-ferrier-first-president-of-suriname-and-the-world-s-oldest-living-former-head-of-state-dies-in-the-netherlands-at-the-age-of-99.md)
-_Context: Netherlands, Suriname, oldest living former head of state, Johan Ferrier, President of Suriname_
+_Context: Johan Ferrier, oldest living former head of state, President of Suriname, Netherlands, Suriname_
 
 ##### South Africa
 ### [South African President Jacob Zuma marries his fifth and currently third wife. ](/news/2010/01/4/south-african-president-jacob-zuma-marries-his-fifth-and-currently-third-wife.md)
-_Context: South Africa, Jacob Zuma_
+_Context: Jacob Zuma, South Africa_
 
 ##### Burma
 ### [Burmese military junta leader General Than Shwe urges people to make the "correct choices" in elections later this year. ](/news/2010/01/4/burmese-military-junta-leader-general-than-shwe-urges-people-to-make-the-correct-choices-in-elections-later-this-year.md)
-_Context: Burma, Than Shwe, State Peace and Development Council, general elections_
+_Context: Burma, general elections, Than Shwe, State Peace and Development Council_
 
 ##### NASA
 ### [NASA's Kepler telescope detects its first five exoplanets. ](/news/2010/01/4/nasa-s-kepler-telescope-detects-its-first-five-exoplanets.md)
-_Context: extrasolar planet, Kepler Mission, NASA_
+_Context: NASA, Kepler Mission, extrasolar planet_
 
 ## [Previous Day...](/news/2010/01/3/index.md)
 

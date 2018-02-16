@@ -13,7 +13,11 @@ The incident at a weapons depot follows the reported deaths of scores of Russian
 
 ##### 2017 cyberattacks on Ukraine
 ### [The United Kingdom government and the United States White House accuse the Russian military of being responsible for the launch of the "NotPetya" malware in June 2017. The White House calls it the most destructive and costly cyberattack in history and says Russia will be met with unspecified "international consequences". Russia denies responsibility and dismisses the accusation as "groundless", lacking evidence, and "Russophobic". ](/news/2018/02/15/the-united-kingdom-government-and-the-united-states-white-house-accuse-the-russian-military-of-being-responsible-for-the-launch-of-the-notp.md)
-_Context: White House, Russian military, United States, NotPetya, government, 2017 cyberattacks on Ukraine, United Kingdom_
+_Context: United Kingdom, 2017 cyberattacks on Ukraine, government, NotPetya, Russian military, United States, White House_
+
+##### United Kingdom football sexual abuse scandal
+### [Former Manchester City and Crewe Alexandra youth coach Barry Bennell is found guilty of 43 sexual attacks on twelve boys between 1979 and 1990. ](/news/2018/02/15/former-manchester-city-and-crewe-alexandra-youth-coach-barry-bennell-is-found-guilty-of-43-sexual-attacks-on-twelve-boys-between-1979-and-19.md)
+Ex-footballers speak after the former youth coach and scout is convicted of 43 sex assaults on 11 boys.
 
 ##### Mexican general election, 2018
 ### [Maria de Jesus Patricio Martinez "Marichuy", the National Indigenous Congress's independent pre-candidate for President of Mexico, is involved in a road accident while campaigning in Baja California Sur. Marichuy is reported as injured while a passenger of the vehicle is dead. ](/news/2018/02/15/maraa-de-jesaos-patricio-martanez-marichuy-the-national-indigenous-congress-s-independent-pre-candidate-for-president-of-mexico-is-inv.md)
@@ -32,8 +36,8 @@ Hailemariam Desalegn said he was stepping down in a bid to end unrest and a poli
 Cyril Ramaphosa was elected as South Africa&#039;s new president after the resignation of Jacob Zuma, whose scandals brought the storied African National Congress to its weakest point since taking power at the end of apartheid.
 
 ##### Discoveries of exoplanets
-### [ 100 exoplanets have been discovered outside the solar system. ](/news/2018/02/15/100-exoplanets-have-been-discovered-outside-the-solar-system.md)
-_Context: Discoveries of exoplanets_
+### [ 95 exoplanets have been newly discovered. ](/news/2018/02/15/95-exoplanets-have-been-newly-discovered.md)
+_Context: Discoveries of exoplanets, exoplanet_
 
 ## [Previous Day...](/news/2018/02/14/index.md)
 

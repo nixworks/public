@@ -9,7 +9,7 @@ _Context: tsunami_
 
 ##### Ciudad Juarez
 ### [ Ten gang members are sentenced to prison terms of 25 to 40 years for the murders of 12 women in Juarez, Mexico; however, many hundreds of the deaths in Ciudad Juarez remain unsolved. ](/news/2005/01/7/ten-gang-members-are-sentenced-to-prison-terms-of-25-to-40-years-for-the-murders-of-12-women-in-jua-rez-mexico-however-many-hundreds-of.md)
-_Context: deaths in Ciudad Juarez, Ciudad Juarez_
+_Context: Ciudad Juarez, deaths in Ciudad Juarez_
 
 ##### Northern Ireland
 ### [ Northern Ireland police Chief Constable Hugh Orde publicly accuses the Provisional IRA of the largest bank robbery in U.K. history, now assessed at GBP26.5 million. The money was taken from the Northern Bank in Belfast on December 20. ](/news/2005/01/7/northern-ireland-police-chief-constable-hugh-orde-publicly-accuses-the-provisional-ira-of-the-largest-bank-robbery-in-u-k-history-now-ass.md)
@@ -21,7 +21,7 @@ _Context: Baghdad_
 
 ##### Palestinians
 ### [ Palestinian presidential candidate Mustafa Barghouti is arrested by Israeli police on the last day of the campaign as he tried to enter the Al-Aqsa Mosque. ](/news/2005/01/7/palestinian-presidential-candidate-mustafa-barghouti-is-arrested-by-israeli-police-on-the-last-day-of-the-campaign-as-he-tried-to-enter-the.md)
-_Context: Mustafa Barghouti, Al-Aqsa Mosque, Palestinian presidential election, Israel, Palestinians_
+_Context: Israel, Palestinian presidential election, Palestinians, Mustafa Barghouti, Al-Aqsa Mosque_
 
 ##### Infant formula
 ### [ The People's Republic of China jails five people for eight years for selling fake infant formula, which has caused the deaths of at least 13 infants and illness in 189. ](/news/2005/01/7/the-people-s-republic-of-china-jails-five-people-for-eight-years-for-selling-fake-infant-formula-which-has-caused-the-deaths-of-at-least-1.md)
@@ -37,7 +37,7 @@ _Context: Augusto Pinochet, Chile_
 
 ##### Edgar Ray Killen
 ### [ 80-year-old Edgar Ray Killen is arrested for the 1964 killings of three civil rights workers that inspired the American Civil Rights Movement and the film "Mississippi Burning". ](/news/2005/01/7/80-year-old-edgar-ray-killen-is-arrested-for-the-1964-killings-of-three-civil-rights-workers-that-inspired-the-american-civil-rights-moveme.md)
-_Context: American Civil Rights Movement, Mississippi Burning, 1964, civil rights, Edgar Ray Killen_
+_Context: American Civil Rights Movement, 1964, civil rights, Mississippi Burning, Edgar Ray Killen_
 
 ## [Previous Day...](/news/2005/01/6/index.md)
 
