@@ -7,17 +7,13 @@ Formats: [HTML](2018/02/15/index.html)  [JSON](2018/02/15/index.json)  [XML](201
 ### [The United Nations report that in 2017, more than 10,000 Afghan civilians were killed or wounded in the war. ](/news/2018/02/15/the-united-nations-report-that-in-2017-more-than-10-000-afghan-civilians-were-killed-or-wounded-in-the-war.md)
 The overall civilian toll fell by 9 percent compared to 2016, but the number of deaths from airstrikes saw a significant jump. A resurgent Taliban and &quot;Islamic State&quot; militants inflicted a bulk of the casualties.
 
-##### Syrian Civil War
-### [An arms depot explosion in Tabiyet Jazira, Deir ez-Zor, kills at least 23 people, including over a dozen Russian contractors allegedly belonging to the Wagner Group, according to the Syrian Observatory for Human Rights. ](/news/2018/02/15/an-arms-depot-explosion-in-tabiyet-jazira-deir-ez-zor-kills-at-least-23-people-including-over-a-dozen-russian-contractors-allegedly-belon.md)
-The incident at a weapons depot follows the reported deaths of scores of Russian mercenaries in a US-led coalition attack last week
-
 ##### U.S. Securities and Exchange Commission
 ### [The U.S. Securities and Exchange Commission blocks a Chinese-led group of investors from buying the Chicago Stock Exchange. ](/news/2018/02/15/the-u-s-securities-and-exchange-commission-blocks-a-chinese-led-group-of-investors-from-buying-the-chicago-stock-exchange.md)
 The top U.S. market regulator said it was concerned about whether the deal would allow it to supervise the exchange properly.
 
 ##### 2017 cyberattacks on Ukraine
 ### [The United Kingdom government and the United States White House accuse the Russian military of being responsible for the launch of the "NotPetya" malware in June 2017. The White House calls it the most destructive and costly cyberattack in history and says Russia will be met with unspecified "international consequences". Russia denies responsibility and dismisses the accusation as "groundless", lacking evidence, and "Russophobic". ](/news/2018/02/15/the-united-kingdom-government-and-the-united-states-white-house-accuse-the-russian-military-of-being-responsible-for-the-launch-of-the-notp.md)
-_Context: 2017 cyberattacks on Ukraine, government, NotPetya, Russian military, United Kingdom, White House, United States_
+_Context: United States, Russian military, NotPetya, United Kingdom, 2017 cyberattacks on Ukraine, government, White House_
 
 ##### United Kingdom football sexual abuse scandal
 ### [Former Manchester City and Crewe Alexandra youth coach Barry Bennell is found guilty of 43 sexual attacks on twelve boys between 1979 and 1990. ](/news/2018/02/15/former-manchester-city-and-crewe-alexandra-youth-coach-barry-bennell-is-found-guilty-of-43-sexual-attacks-on-twelve-boys-between-1979-and-19.md)
@@ -33,7 +29,7 @@ Bulgarian Prime Minister Boyko Borissov said that the ruling GERB party is withd
 
 ##### Criminal justice reform in the United States
 ### [The U.S. Senate Judiciary Committee backed the Sentencing Reform and Corrections Act, a package to reduce some of the strictest federal sentencing rules along with reforms for the federal prison system, by a vote of 16&ndash;5. ](/news/2018/02/15/the-u-s-senate-judiciary-committee-backed-the-sentencing-reform-and-corrections-act-a-package-to-reduce-some-of-the-strictest-federal-sent.md)
-_Context: Sentencing Reform and Corrections Act, U.S. Senate Judiciary Committee, Criminal justice reform in the United States_
+_Context: U.S. Senate Judiciary Committee, Criminal justice reform in the United States, Sentencing Reform and Corrections Act_
 
 ##### Politics of Ethiopia
 ### [Hailemariam Desalegn resigns as Prime Minister of Ethiopia after six years in office amid ongoing unrest in the Oromia and Amhara regions. ](/news/2018/02/15/hailemariam-desalegn-resigns-as-prime-minister-of-ethiopia-after-six-years-in-office-amid-ongoing-unrest-in-the-oromia-and-amhara-regions.md)
@@ -45,7 +41,7 @@ Cyril Ramaphosa was elected as South Africa&#039;s new president after the resig
 
 ##### Discoveries of exoplanets
 ### [NASA's Kepler space telescope discovers 95 new exoplanets. ](/news/2018/02/15/nasa-s-kepler-space-telescope-discovers-95-new-exoplanets.md)
-_Context: NASA, exoplanet, Kepler, Discoveries of exoplanets, space telescope_
+_Context: space telescope, exoplanet, Discoveries of exoplanets, NASA, Kepler_
 
 ## [Previous Day...](/news/2018/02/14/index.md)
 
