@@ -7,6 +7,10 @@ Formats: [HTML](2018/02/13/index.html)  [JSON](2018/02/13/index.json)  [XML](201
 ### [United Airlines Flight 1175 traveling to Honolulu from San Francisco lands safely at Honolulu International Airport, Hawaii, after the pilots call for an emergency landing because of a loss of the engine cowling. ](/news/2018/02/13/united-airlines-flight-1175-traveling-to-honolulu-from-san-francisco-lands-safely-at-honolulu-international-airport-hawaii-after-the-pilot.md)
 Passengers on a United Airlines flight Tuesday had quite the scare when pilots called for an emergency landing after an engine cowlingor the cover of the engineflew off mid-flight.According to airline officials, United flight 1175 was traveling to Honolulu
 
+##### Haiti
+### [An overnight fire destroys parts of Haiti's historic Marche en Fer (Iron Market) in Port-au-Prince. It is unclear what started the fire. ](/news/2018/02/13/an-overnight-fire-destroys-parts-of-haiti-s-historic-marcha-c-en-fer-iron-market-in-portaauaprince-it-is-unclear-what-started-the-fire.md)
+_Context: Port-au-Prince, Marche en Fer, Haiti_
+
 ##### Israeli-Palestinian conflict
 ### [In closed-door proceedings at an Israeli military court in Ofer Prison, near Ramallah, 17-year-old Palestinian activist Ahed Tamimi is indicted on 12 counts of assault and incitement. She is ordered held until the end of the trial, which is adjourned until next month. ](/news/2018/02/13/in-closed-door-proceedings-at-an-israeli-military-court-in-ofer-prison-near-ramallah-17-year-old-palestinian-activist-ahed-tamimi-is-indic.md)
 A Palestinian teenage girl filmed slapping an Israeli soldier and hailed as a hero by Palestinians, has gone on trial Wednesday in an Israeli military court in the West Bank.
@@ -24,16 +28,16 @@ The legal action comes two months after Israeli media first reported that Netany
 Alvaro Colom and most of his former cabinet have been arrested over major deals to overhaul the capital&#39;s public transport. Colom is one of three Guatemalan leaders currently facing graft allegations.
 
 ##### Politics of South Africa
-### [South Africa's ruling ANC party formally requests that President Jacob Zuma step down after he refused to resign. ](/news/2018/02/13/south-africa-s-ruling-anc-party-formally-requests-that-president-jacob-zuma-step-down-after-he-refused-to-resign.md)
+### [South Africa's ruling African National Congress (ANC) formally requests that President Jacob Zuma step down after he refused to resign. ](/news/2018/02/13/south-africa-s-ruling-african-national-congress-anc-formally-requests-that-president-jacob-zuma-step-down-after-he-refused-to-resign.md)
 Jacob Zuma is refusing to resign so his party has decided to issue a formal demand, reports say.
 
 ##### Politics of the Netherlands
 ### [Halbe Zijlstra offers his resignation as Minister of Foreign Affairs of the Netherlands. Minister Sigrid Kaag takes over the portfolio ad interim. ](/news/2018/02/13/halbe-zijlstra-offers-his-resignation-as-minister-of-foreign-affairs-of-the-netherlands-minister-sigrid-kaag-takes-over-the-portfolio-ad-in.md)
-_Context: Halbe Zijlstra, Minister of Foreign Affairs of the Netherlands, Sigrid Kaag, ad interim, Minister, Politics of the Netherlands_
+_Context: Minister, Sigrid Kaag, Politics of the Netherlands, Minister of Foreign Affairs of the Netherlands, Halbe Zijlstra, ad interim_
 
 ##### Politics of Germany
 ### [Martin Schulz resigns as leader of the Social Democratic Party of Germany (SPD) with immediate effect. The mayor of Hamburg Olaf Scholz will serve as interim leader until a new leader is elected. ](/news/2018/02/13/martin-schulz-resigns-as-leader-of-the-social-democratic-party-of-germany-spd-with-immediate-effect-the-mayor-of-hamburg-olaf-scholz-will.md)
-_Context: mayor, Social Democratic Party of Germany, Olaf Scholz, Hamburg, Martin Schulz, Politics of Germany_
+_Context: Olaf Scholz, Martin Schulz, Politics of Germany, Hamburg, Social Democratic Party of Germany, mayor_
 
 ##### Russian interference in the 2016 United States elections
 ### [Russia wants YouTube and Instagram to remove videos posted by Alexey Navalny, a prominent opposition figure, describing his investigation into Oleg Deripaska, a Russian billionaire with bribing Sergey Prikhodko, Russia's deputy prime minister, and offering information about the 2016 U.S. election he had received from Paul Manafort. ](/news/2018/02/13/russia-wants-youtube-and-instagram-to-remove-videos-posted-by-alexey-navalny-a-prominent-opposition-figure-describing-his-investigation-in.md)
@@ -41,7 +45,7 @@ Russia has threatened to block access to YouTube and Instagram if the sites do n
 
 ##### Supersonic transport
 ### [A new plane that would fly from London to New York City in three hours has just received crucial funding. The aircraft, officially named Quiet Supersonic Transport (QueSST) and dubbed the "Son of Concorde", was proposed by NASA and has just been given the go-ahead by US officials. QueSST could make its maiden voyage in 2021 if all goes according to plan. If so, it will halve the current travel time between London and New York City. ](/news/2018/02/13/a-new-plane-that-would-fly-from-london-to-new-york-city-in-three-hours-has-just-received-crucial-funding-the-aircraft-officially-named-qui.md)
-_Context: Supersonic transport, London, NASA, Concorde, Quiet Supersonic Transport, New York City_
+_Context: Concorde, Quiet Supersonic Transport, London, Supersonic transport, NASA, New York City_
 
 ## [Previous Day...](/news/2018/02/12/index.md)
 
