@@ -3,10 +3,6 @@ Formats: [HTML](2018/02/16/index.html)  [JSON](2018/02/16/index.json)  [XML](201
 
 ## [2018-02-16](/news/2018/02/16/index.md)
 
-##### Black Panther
-### [ The American superhero film "Black Panther" gets released in theaters and scores a record of $25.2 million at the box office. ](/news/2018/02/16/the-american-superhero-film-black-panther-gets-released-in-theaters-and-scores-a-record-of-25-2-million-at-the-box-office.md)
-&#8220;Black Panther&#8221; opened with a bang, picking up a muscular $25.2 million in Thursday preview showings. The comic-book adaptation is making history; it&#8217;s the first Marvel Cinematic …
-
 ##### School shooting
 ### [A teenager is arrested for allegedly planning a school shooting in Washington State. Police found a semi-automatic rifle hidden in a guitar case along with bomb making equipment. ](/news/2018/02/16/a-teenager-is-arrested-for-allegedly-planning-a-school-shooting-in-washington-state-police-found-a-semi-automatic-rifle-hidden-in-a-guitar.md)
 _Context: Washington State, school shooting_
