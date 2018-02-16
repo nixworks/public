@@ -5,7 +5,7 @@ Formats: [HTML](2018/02/16/index.html)  [JSON](2018/02/16/index.json)  [XML](201
 
 ##### School shooting
 ### [A teenager is arrested for allegedly planning a school shooting in Washington State. Police found a semi-automatic rifle hidden in a guitar case along with bomb making equipment. ](/news/2018/02/16/a-teenager-is-arrested-for-allegedly-planning-a-school-shooting-in-washington-state-police-found-a-semi-automatic-rifle-hidden-in-a-guitar.md)
-_Context: Washington State, school shooting_
+_Context: school shooting, Washington State_
 
 ##### Special Counsel investigation (2017-present)
 ### [U.S. President Donald Trump's former chief strategist Steve Bannon is interviewed over two days this week as part of the investigation into alleged Russian meddling in the 2016 U.S. presidential election. ](/news/2018/02/16/u-s-president-donald-trump-s-former-chief-strategist-steve-bannon-is-interviewed-over-two-days-this-week-as-part-of-the-investigation-into.md)
