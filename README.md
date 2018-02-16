@@ -29,7 +29,7 @@ The top U.S. market regulator said it was concerned about whether the deal would
 
 ##### 2017 cyberattacks on Ukraine
 ### [The United Kingdom government and the United States White House accuse the Russian military of being responsible for the launch of the "NotPetya" malware in June 2017. The White House calls it the most destructive and costly cyberattack in history and says Russia will be met with unspecified "international consequences". Russia denies responsibility and dismisses the accusation as "groundless", lacking evidence, and "Russophobic". ](/news/2018/02/15/the-united-kingdom-government-and-the-united-states-white-house-accuse-the-russian-military-of-being-responsible-for-the-launch-of-the-notp.md)
-_Context: United States, government, NotPetya, Russian military, 2017 cyberattacks on Ukraine, United Kingdom, White House_
+_Context: NotPetya, Russian military, 2017 cyberattacks on Ukraine, government, White House, United States, United Kingdom_
 
 ##### United Kingdom football sexual abuse scandal
 ### [Former Manchester City and Crewe Alexandra youth coach Barry Bennell is found guilty of 43 sexual attacks on twelve boys between 1979 and 1990. ](/news/2018/02/15/former-manchester-city-and-crewe-alexandra-youth-coach-barry-bennell-is-found-guilty-of-43-sexual-attacks-on-twelve-boys-between-1979-and-19.md)
@@ -45,7 +45,7 @@ Bulgarian Prime Minister Boyko Borissov said that the ruling GERB party is withd
 
 ##### Criminal justice reform in the United States
 ### [The U.S. Senate Judiciary Committee backed the Sentencing Reform and Corrections Act, a package to reduce some of the strictest federal sentencing rules along with reforms for the federal prison system, by a vote of 16&ndash;5. ](/news/2018/02/15/the-u-s-senate-judiciary-committee-backed-the-sentencing-reform-and-corrections-act-a-package-to-reduce-some-of-the-strictest-federal-sent.md)
-_Context: U.S. Senate Judiciary Committee, Criminal justice reform in the United States, Sentencing Reform and Corrections Act_
+_Context: Criminal justice reform in the United States, Sentencing Reform and Corrections Act, U.S. Senate Judiciary Committee_
 
 ##### Politics of Ethiopia
 ### [Hailemariam Desalegn resigns as Prime Minister of Ethiopia after six years in office amid ongoing unrest in the Oromia and Amhara regions. ](/news/2018/02/15/hailemariam-desalegn-resigns-as-prime-minister-of-ethiopia-after-six-years-in-office-amid-ongoing-unrest-in-the-oromia-and-amhara-regions.md)
@@ -57,7 +57,7 @@ Cyril Ramaphosa was elected as South Africa&#039;s new president after the resig
 
 ##### Discoveries of exoplanets
 ### [NASA's Kepler space telescope discovers 95 new exoplanets. ](/news/2018/02/15/nasa-s-kepler-space-telescope-discovers-95-new-exoplanets.md)
-_Context: exoplanet, Kepler, NASA, space telescope, Discoveries of exoplanets_
+_Context: Kepler, space telescope, NASA, Discoveries of exoplanets, exoplanet_
 
 ---
 
@@ -73,7 +73,7 @@ NSA said situation is &quot;under control&quot;
 
 ##### Stoneman Douglas High School shooting
 ### [At least 17 people are killed and 15 are wounded in a shooting at a high school in Parkland, Florida. This is the deadliest high school shooting in U.S. history. The suspected shooter is apprehended and identified as 19-year-old former student Nikolas Cruz. ](/news/2018/02/14/at-least-17-people-are-killed-and-15-are-wounded-in-a-shooting-at-a-high-school-in-parkland-florida-this-is-the-deadliest-high-school-shoo.md)
-_Context: high school, Florida, Parkland, School shootings in the United States, deadliest high school shooting in U.S. history, Stoneman Douglas High School shooting, shooting_
+_Context: deadliest high school shooting in U.S. history, Florida, School shootings in the United States, Stoneman Douglas High School shooting, high school, Parkland, shooting_
 
 ##### Crime in South Africa
 ### [The residence of the Gupta family is raided by the South African Police Service's elite Hawks unit and three people are arrested. ](/news/2018/02/14/the-residence-of-the-gupta-family-is-raided-by-the-south-african-police-service-s-elite-hawks-unit-and-three-people-are-arrested.md)
@@ -97,7 +97,7 @@ French police have found the remains of an eight-year-old French girl who vanish
 
 ##### Ukrainian crisis
 ### [Mikheil Saakashvili, leader of the opposition Movement of New Forces party, who was deported from Ukraine to Poland, relocates to the Netherlands. ](/news/2018/02/14/mikheil-saakashvili-leader-of-the-opposition-movement-of-new-forces-party-who-was-deported-from-ukraine-to-poland-relocates-to-the-nether.md)
-_Context: Ukrainian crisis, Mikheil Saakashvili, Movement of New Forces, Netherlands, Ukraine, Poland_
+_Context: Netherlands, Poland, Ukrainian crisis, Movement of New Forces, Ukraine, Mikheil Saakashvili_
 
 ##### Politics of South Africa
 ### [Jacob Zuma resigns as President of South Africa effective immediately, following an ultimatum issued the day prior by African National Congress that ordered Zuma to step down as head of state or face a vote of no confidence by the South African Parliament to remove him from power within 48 hours of the declaration. Cyril Ramaphosa takes over as Acting President. ](/news/2018/02/14/jacob-zuma-resigns-as-president-of-south-africa-effective-immediately-following-an-ultimatum-issued-the-day-prior-by-african-national-congr.md)
