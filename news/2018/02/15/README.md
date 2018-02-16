@@ -12,8 +12,8 @@ The overall civilian toll fell by 9 percent compared to 2016, but the number of 
 The incident at a weapons depot follows the reported deaths of scores of Russian mercenaries in a US-led coalition attack last week
 
 ##### 2017 cyberattacks on Ukraine
-### [The United Kingdom government and the United States White House accuse the Russian military of being responsible for the launch of the "NotPetya" malware attack in June 2017. The White House calls it the most destructive and costly cyber-attack in history and says Russia will be met with unspecified "international consequences". Russia denies responsibility and dismisses the accusation as "groundless", lacking evidence and "Russophobic". ](/news/2018/02/15/the-united-kingdom-government-and-the-united-states-white-house-accuse-the-russian-military-of-being-responsible-for-the-launch-of-the-notp.md)
-_Context: NotPetya, United Kingdom, 2017 cyberattacks on Ukraine, White House, United States, Russian military, government_
+### [The United Kingdom government and the United States White House accuse the Russian military of being responsible for the launch of the "NotPetya" malware in June 2017. The White House calls it the most destructive and costly cyberattack in history and says Russia will be met with unspecified "international consequences". Russia denies responsibility and dismisses the accusation as "groundless", lacking evidence, and "Russophobic". ](/news/2018/02/15/the-united-kingdom-government-and-the-united-states-white-house-accuse-the-russian-military-of-being-responsible-for-the-launch-of-the-notp.md)
+_Context: White House, Russian military, United States, NotPetya, government, 2017 cyberattacks on Ukraine, United Kingdom_
 
 ##### Mexican general election, 2018
 ### [Maria de Jesus Patricio Martinez "Marichuy", the National Indigenous Congress's independent pre-candidate for President of Mexico, is involved in a road accident while campaigning in Baja California Sur. Marichuy is reported as injured while a passenger of the vehicle is dead. ](/news/2018/02/15/maraa-de-jesaos-patricio-martanez-marichuy-the-national-indigenous-congress-s-independent-pre-candidate-for-president-of-mexico-is-inv.md)
@@ -30,6 +30,10 @@ Hailemariam Desalegn said he was stepping down in a bid to end unrest and a poli
 ##### Politics of South Africa
 ### [Cyril Ramaphosa is elected by the National Assembly as President of South Africa. ](/news/2018/02/15/cyril-ramaphosa-is-elected-by-the-national-assembly-as-president-of-south-africa.md)
 Cyril Ramaphosa was elected as South Africa&#039;s new president after the resignation of Jacob Zuma, whose scandals brought the storied African National Congress to its weakest point since taking power at the end of apartheid.
+
+##### Discoveries of exoplanets
+### [ 100 exoplanets have been discovered outside the solar system. ](/news/2018/02/15/100-exoplanets-have-been-discovered-outside-the-solar-system.md)
+_Context: Discoveries of exoplanets_
 
 ## [Previous Day...](/news/2018/02/14/index.md)
 

@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/15/the-united-kingdom-government-and-the-united-st
 ### [2018-02-15](/news/2018/02/15/index.md)
 
 ##### 2017 cyberattacks on Ukraine
-# The United Kingdom government and the United States White House accuse the Russian military of being responsible for the launch of the "NotPetya" malware attack in June 2017. The White House calls it the most destructive and costly cyber-attack in history and says Russia will be met with unspecified "international consequences". Russia denies responsibility and dismisses the accusation as "groundless", lacking evidence and "Russophobic". 
+# The United Kingdom government and the United States White House accuse the Russian military of being responsible for the launch of the "NotPetya" malware in June 2017. The White House calls it the most destructive and costly cyberattack in history and says Russia will be met with unspecified "international consequences". Russia denies responsibility and dismisses the accusation as "groundless", lacking evidence, and "Russophobic". 
 
 
 
