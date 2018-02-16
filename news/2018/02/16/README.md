@@ -3,12 +3,8 @@ Formats: [HTML](2018/02/16/index.html)  [JSON](2018/02/16/index.json)  [XML](201
 
 ## [2018-02-16](/news/2018/02/16/index.md)
 
-##### Black Panther
-### [ The American superhero film Black Panther gets released in theaters and breaks several records. ](/news/2018/02/16/the-american-superhero-film-black-panther-gets-released-in-theaters-and-breaks-several-records.md)
-After slicing through Captain America: Civil War&#039;s presale record, then ascending to the top of the superhero throne by usurping Batman vs. Superman: Dawn of Justice only a few weeks later, Black Panther is back breaking another box office record before it’s even opened to the public.
-
 ##### Russian interference in the 2016 United States elections
-### [U.S. President Donald Trump's former chief strategist Steve Bannon is interviewed as part of the investigation into alleged Russian meddling in the 2016 presidential election. ](/news/2018/02/16/u-s-president-donald-trump-s-former-chief-strategist-steve-bannon-is-interviewed-as-part-of-the-investigation-into-alleged-russian-meddling.md)
+### [U.S. President Donald Trump's former chief strategist Steve Bannon is interviewed over two days this week as part of the investigation into alleged Russian meddling in the 2016 presidential election. ](/news/2018/02/16/u-s-president-donald-trump-s-former-chief-strategist-steve-bannon-is-interviewed-over-two-days-this-week-as-part-of-the-investigation-into.md)
 Steve Bannon, a former top adviser to Donald Trump, reportedly spent 20 hours with investigators.
 
 ##### Timeline of the solar system
