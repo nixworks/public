@@ -5,7 +5,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ##### School shooting
 ### [A teenager is arrested for allegedly planning a school shooting in Washington State. Police found a semi-automatic rifle hidden in a guitar case along with bomb making equipment. ](/news/2018/02/16/a-teenager-is-arrested-for-allegedly-planning-a-school-shooting-in-washington-state-police-found-a-semi-automatic-rifle-hidden-in-a-guitar.md)
-_Context: Washington State, school shooting_
+_Context: school shooting, Washington State_
 
 ##### Special Counsel investigation (2017-present)
 ### [U.S. President Donald Trump's former chief strategist Steve Bannon is interviewed over two days this week as part of the investigation into alleged Russian meddling in the 2016 U.S. presidential election. ](/news/2018/02/16/u-s-president-donald-trump-s-former-chief-strategist-steve-bannon-is-interviewed-over-two-days-this-week-as-part-of-the-investigation-into.md)
@@ -37,7 +37,7 @@ The top U.S. market regulator said it was concerned about whether the deal would
 
 ##### 2017 cyberattacks on Ukraine
 ### [The United Kingdom government and the United States White House accuse the Russian military of being responsible for the launch of the "NotPetya" malware in June 2017. The White House calls it the most destructive and costly cyberattack in history and says Russia will be met with unspecified "international consequences". Russia denies responsibility and dismisses the accusation as "groundless", lacking evidence, and "Russophobic". ](/news/2018/02/15/the-united-kingdom-government-and-the-united-states-white-house-accuse-the-russian-military-of-being-responsible-for-the-launch-of-the-notp.md)
-_Context: 2017 cyberattacks on Ukraine, United States, Russian military, United Kingdom, government, NotPetya, White House_
+_Context: NotPetya, government, United States, United Kingdom, Russian military, 2017 cyberattacks on Ukraine, White House_
 
 ##### United Kingdom football sexual abuse scandal
 ### [Former Manchester City and Crewe Alexandra youth coach Barry Bennell is found guilty of 43 sexual attacks on twelve boys between 1979 and 1990. ](/news/2018/02/15/former-manchester-city-and-crewe-alexandra-youth-coach-barry-bennell-is-found-guilty-of-43-sexual-attacks-on-twelve-boys-between-1979-and-19.md)
@@ -64,8 +64,8 @@ Hailemariam Desalegn said he was stepping down in a bid to end unrest and a poli
 Cyril Ramaphosa was elected as South Africa&#039;s new president after the resignation of Jacob Zuma, whose scandals brought the storied African National Congress to its weakest point since taking power at the end of apartheid.
 
 ##### Discoveries of exoplanets
-### [NASA's Kepler space telescope discovers 95 new exoplanets. ](/news/2018/02/15/nasa-s-kepler-space-telescope-discovers-95-new-exoplanets.md)
-_Context: space telescope, exoplanet, Kepler, NASA, Discoveries of exoplanets_
+### [NASA's Kepler space telescope has discovered 95 new exoplanets. ](/news/2018/02/15/nasa-s-kepler-space-telescope-has-discovered-95-new-exoplanets.md)
+_Context: exoplanet, Discoveries of exoplanets, Kepler, NASA, space telescope_
 
 ---
 
@@ -81,7 +81,7 @@ NSA said situation is &quot;under control&quot;
 
 ##### Stoneman Douglas High School shooting
 ### [At least 17 people are killed and 15 are wounded in a shooting at a high school in Parkland, Florida. This is the deadliest high school shooting in U.S. history. The suspected shooter is apprehended and identified as 19-year-old former student Nikolas Cruz. ](/news/2018/02/14/at-least-17-people-are-killed-and-15-are-wounded-in-a-shooting-at-a-high-school-in-parkland-florida-this-is-the-deadliest-high-school-shoo.md)
-_Context: high school, School shootings in the United States, Parkland, school shooting, Florida, deadliest high school shooting in U.S. history, Stoneman Douglas High School shooting_
+_Context: high school, Parkland, school shooting, School shootings in the United States, Stoneman Douglas High School shooting, deadliest high school shooting in U.S. history, Florida_
 
 ##### Crime in South Africa
 ### [The residence of the Gupta family is raided by the South African Police Service's elite Hawks unit and three people are arrested. ](/news/2018/02/14/the-residence-of-the-gupta-family-is-raided-by-the-south-african-police-service-s-elite-hawks-unit-and-three-people-are-arrested.md)
@@ -105,7 +105,7 @@ French police have found the remains of an eight-year-old French girl who vanish
 
 ##### Ukrainian crisis
 ### [Mikheil Saakashvili, leader of the opposition Movement of New Forces party, who was deported from Ukraine to Poland, relocates to the Netherlands. ](/news/2018/02/14/mikheil-saakashvili-leader-of-the-opposition-movement-of-new-forces-party-who-was-deported-from-ukraine-to-poland-relocates-to-the-nether.md)
-_Context: Movement of New Forces, Mikheil Saakashvili, Poland, Ukrainian crisis, Ukraine, Netherlands_
+_Context: Ukrainian crisis, Poland, Mikheil Saakashvili, Ukraine, Netherlands, Movement of New Forces_
 
 ##### Politics of South Africa
 ### [Jacob Zuma resigns as President of South Africa effective immediately, following an ultimatum issued the day prior by African National Congress that ordered Zuma to step down as head of state or face a vote of no confidence by the South African Parliament to remove him from power within 48 hours of the declaration. Cyril Ramaphosa takes over as Acting President. ](/news/2018/02/14/jacob-zuma-resigns-as-president-of-south-africa-effective-immediately-following-an-ultimatum-issued-the-day-prior-by-african-national-congr.md)

@@ -17,7 +17,7 @@ The top U.S. market regulator said it was concerned about whether the deal would
 
 ##### 2017 cyberattacks on Ukraine
 ### [The United Kingdom government and the United States White House accuse the Russian military of being responsible for the launch of the "NotPetya" malware in June 2017. The White House calls it the most destructive and costly cyberattack in history and says Russia will be met with unspecified "international consequences". Russia denies responsibility and dismisses the accusation as "groundless", lacking evidence, and "Russophobic". ](/news/2018/02/15/the-united-kingdom-government-and-the-united-states-white-house-accuse-the-russian-military-of-being-responsible-for-the-launch-of-the-notp.md)
-_Context: 2017 cyberattacks on Ukraine, United States, Russian military, United Kingdom, government, NotPetya, White House_
+_Context: NotPetya, government, United States, United Kingdom, Russian military, 2017 cyberattacks on Ukraine, White House_
 
 ##### United Kingdom football sexual abuse scandal
 ### [Former Manchester City and Crewe Alexandra youth coach Barry Bennell is found guilty of 43 sexual attacks on twelve boys between 1979 and 1990. ](/news/2018/02/15/former-manchester-city-and-crewe-alexandra-youth-coach-barry-bennell-is-found-guilty-of-43-sexual-attacks-on-twelve-boys-between-1979-and-19.md)
@@ -44,8 +44,8 @@ Hailemariam Desalegn said he was stepping down in a bid to end unrest and a poli
 Cyril Ramaphosa was elected as South Africa&#039;s new president after the resignation of Jacob Zuma, whose scandals brought the storied African National Congress to its weakest point since taking power at the end of apartheid.
 
 ##### Discoveries of exoplanets
-### [NASA's Kepler space telescope discovers 95 new exoplanets. ](/news/2018/02/15/nasa-s-kepler-space-telescope-discovers-95-new-exoplanets.md)
-_Context: space telescope, exoplanet, Kepler, NASA, Discoveries of exoplanets_
+### [NASA's Kepler space telescope has discovered 95 new exoplanets. ](/news/2018/02/15/nasa-s-kepler-space-telescope-has-discovered-95-new-exoplanets.md)
+_Context: exoplanet, Discoveries of exoplanets, Kepler, NASA, space telescope_
 
 ## [Previous Day...](/news/2018/02/14/index.md)
 
