@@ -21,7 +21,7 @@ The move is aimed at stemming a wave of anti-government protests, state media re
 
 ##### Rohingya refugees in Bangladesh
 ### [Bangladeshi home minister Asaduzzaman Khan meets with his Burmese counterpart, Kyaw Swe, in Dhaka to discuss the repatriation of Rohingya refugees from Bangladesh to Myanmar. The Burmese delegation accepts a list of 8,032 Rohingya refugees (1,673 families) who are to be repatriated. ](/news/2018/02/16/bangladeshi-home-minister-asaduzzaman-khan-meets-with-his-burmese-counterpart-kyaw-swe-in-dhaka-to-discuss-the-repatriation-of-rohingya-re.md)
-_Context: Rohingya refugees in Bangladesh, Myanmar, repatriation, Dhaka, Rohingya, Bangladesh, Asaduzzaman Khan_
+_Context: Bangladesh, Rohingya, repatriation, Dhaka, Myanmar, Asaduzzaman Khan, Rohingya refugees in Bangladesh_
 
 ## [Previous Day...](/news/2018/02/15/index.md)
 
