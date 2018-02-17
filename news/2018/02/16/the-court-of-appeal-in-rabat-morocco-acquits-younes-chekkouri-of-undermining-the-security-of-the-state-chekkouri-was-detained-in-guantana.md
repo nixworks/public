@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/02/16/the-court-of-appeal-in-rabat-morocco-acquits-yo
 
 ### [2018-02-16](/news/2018/02/16/index.md)
 
-##### Rabat
+##### Judiciary of Morocco
 # The Court of Appeal in Rabat, Morocco, acquits Younes Chekkouri of undermining the security of the state. Chekkouri was detained in Guantanamo Bay detention camp for 14 years without charges. 
 
 

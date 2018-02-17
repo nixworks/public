@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/02/16/a-teenager-is-arrested-for-allegedly-planning-a
 
 ### [2018-02-16](/news/2018/02/16/index.md)
 
-##### School shooting
+##### Crime in Washington
 # A teenager is arrested for allegedly planning a school shooting in Everett, Washington. Police found a semi-automatic rifle hidden in a guitar case along with bomb making equipment. 
 
 
