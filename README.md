@@ -1,19 +1,35 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2018/02/16/index.md)
+## [News](/news/2018/02/17/index.md)
+
+##### Murder of Zainab Ansari
+### [An Anti-Terrorism Court in Lahore, Pakistan, sentences the culprit to the death penalty, on four grounds. The family demands his hanging in public. ](/news/2018/02/17/an-anti-terrorism-court-in-lahore-pakistan-sentences-the-culprit-to-the-death-penalty-on-four-grounds-the-family-demands-his-hanging-in.md)
+Eight-year-old victim&#039;s mother and uncle say the demand is just and in accordance with the teachings of Islam
+
+##### Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2018/02/16/index.md)
 
 ##### 2018 Oaxaca earthquake
 ### [A magnitude 7.2 earthquake strikes near the town of Pinotepa Nacional and is widely felt across Southern and Central Mexico, causing material damages in the states of Guerrero, Oaxaca and Mexico City. It is followed by a 5.8-magnitude aftershock. ](/news/2018/02/16/a-magnitude-7-2-earthquake-strikes-near-the-town-of-pinotepa-nacional-and-is-widely-felt-across-southern-and-central-mexico-causing-materia.md)
-_Context: Oaxaca, aftershock, Mexico City, Mexico, 2018 Oaxaca earthquake, Guerrero, Pinotepa Nacional_
+_Context: Mexico City, Pinotepa Nacional, 2018 Oaxaca earthquake, Mexico, Oaxaca, aftershock, Guerrero_
 
 ##### Crime in Washington
 ### [A teenager is arrested for allegedly planning a school shooting in Everett, Washington. Police found a semi-automatic rifle hidden in a guitar case along with bomb making equipment. ](/news/2018/02/16/a-teenager-is-arrested-for-allegedly-planning-a-school-shooting-in-everett-washington-police-found-a-semi-automatic-rifle-hidden-in-a-guit.md)
-_Context: school shooting, Everett, Washington, Crime in Washington_
+_Context: Crime in Washington, school shooting, Everett, Washington_
 
 ##### War on Terror
 ### [The Court of Appeal in Rabat, Morocco, acquits Younes Chekkouri of undermining the security of the state. Chekkouri was detained in Guantanamo Bay detention camp for 14 years without charges. ](/news/2018/02/16/the-court-of-appeal-in-rabat-morocco-acquits-younes-chekkouri-of-undermining-the-security-of-the-state-chekkouri-was-detained-in-guantana.md)
-_Context: War on Terror, Rabat, Guantanamo Bay detention camp, Morocco_
+_Context: Rabat, War on Terror, Morocco, Guantanamo Bay detention camp_
+
+##### 2016 Turkish coup d'etat attempt
+### [A court in Turkey hands life sentences to six journalists, including Ahmet Altan, Mehmet Altan and Nazli Ilicak. ](/news/2018/02/16/a-court-in-turkey-hands-life-sentences-to-six-journalists-including-ahmet-altan-mehmet-altan-and-nazla-ila-cak.md)
+​These sentences are an egregious violation of the rights of Ahmet, Mehmet, and Nazli. Today&#039;s verdict serves as incontrovertible evidence of the severe erosion of Turkey&#039;s democracy, demonstrates that the courts too have ​utterly ​abandoned their responsibility to uphold the rule of...
 
 ##### Special Counsel investigation (2017-present)
 ### [U.S. President Donald Trump's former chief strategist Steve Bannon is interviewed over two days this week as part of the investigation into alleged Russian meddling in the 2016 U.S. presidential election. ](/news/2018/02/16/u-s-president-donald-trump-s-former-chief-strategist-steve-bannon-is-interviewed-over-two-days-this-week-as-part-of-the-investigation-into.md)
@@ -25,15 +41,11 @@ The move is aimed at stemming a wave of anti-government protests, state media re
 
 ##### Rohingya refugees in Bangladesh
 ### [Bangladeshi home minister Asaduzzaman Khan meets with his Burmese counterpart, Kyaw Swe, in Dhaka to discuss the repatriation of Rohingya refugees from Bangladesh to Myanmar. The Burmese delegation accepts a list of 8,032 Rohingya refugees (1,673 families) who are to be repatriated. ](/news/2018/02/16/bangladeshi-home-minister-asaduzzaman-khan-meets-with-his-burmese-counterpart-kyaw-swe-in-dhaka-to-discuss-the-repatriation-of-rohingya-re.md)
-_Context: Dhaka, Rohingya, Bangladesh, repatriation, Myanmar, Rohingya refugees in Bangladesh, Asaduzzaman Khan_
-
-##### Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+_Context: Dhaka, Rohingya refugees in Bangladesh, Rohingya, repatriation, Bangladesh, Myanmar, Asaduzzaman Khan_
 
 ---
 
-## [Yesterday](/news/2018/02/15/index.md)
+## [Day Before Yesterday](/news/2018/02/15/index.md)
 
 ##### War in Afghanistan
 ### [The United Nations report that in 2017, more than 10,000 Afghan civilians were killed or wounded in the war. ](/news/2018/02/15/the-united-nations-report-that-in-2017-more-than-10-000-afghan-civilians-were-killed-or-wounded-in-the-war.md)
@@ -49,7 +61,7 @@ The top U.S. market regulator said it was concerned about whether the deal would
 
 ##### 2017 cyberattacks on Ukraine
 ### [The United Kingdom government and the United States White House accuse the Russian military of being responsible for the launch of the "NotPetya" malware in June 2017. The White House calls it the most destructive and costly cyberattack in history and says Russia will be met with unspecified "international consequences". Russia denies responsibility and dismisses the accusation as "groundless", lacking evidence, and "Russophobic". ](/news/2018/02/15/the-united-kingdom-government-and-the-united-states-white-house-accuse-the-russian-military-of-being-responsible-for-the-launch-of-the-notp.md)
-_Context: government, United States, 2017 cyberattacks on Ukraine, Russian military, NotPetya, White House, United Kingdom_
+_Context: government, United States, Russian military, White House, United Kingdom, 2017 cyberattacks on Ukraine, NotPetya_
 
 ##### United Kingdom football sexual abuse scandal
 ### [Former Manchester City and Crewe Alexandra youth coach Barry Bennell is found guilty of 43 sexual attacks on twelve boys between 1979 and 1990. ](/news/2018/02/15/former-manchester-city-and-crewe-alexandra-youth-coach-barry-bennell-is-found-guilty-of-43-sexual-attacks-on-twelve-boys-between-1979-and-19.md)
@@ -65,7 +77,7 @@ Bulgarian Prime Minister Boyko Borissov said that the ruling GERB party is withd
 
 ##### Criminal justice reform in the United States
 ### [The U.S. Senate Judiciary Committee backed the Sentencing Reform and Corrections Act, a package to reduce some of the strictest federal sentencing rules along with reforms for the federal prison system, by a vote of 16&ndash;5. ](/news/2018/02/15/the-u-s-senate-judiciary-committee-backed-the-sentencing-reform-and-corrections-act-a-package-to-reduce-some-of-the-strictest-federal-sent.md)
-_Context: Sentencing Reform and Corrections Act, U.S. Senate Judiciary Committee, Criminal justice reform in the United States_
+_Context: Criminal justice reform in the United States, U.S. Senate Judiciary Committee, Sentencing Reform and Corrections Act_
 
 ##### Politics of Ethiopia
 ### [Hailemariam Desalegn resigns as Prime Minister of Ethiopia after six years in office amid ongoing unrest in the Oromia and Amhara regions. ](/news/2018/02/15/hailemariam-desalegn-resigns-as-prime-minister-of-ethiopia-after-six-years-in-office-amid-ongoing-unrest-in-the-oromia-and-amhara-regions.md)
@@ -77,59 +89,11 @@ Cyril Ramaphosa was elected as South Africa&#039;s new president after the resig
 
 ##### Discoveries of exoplanets
 ### [NASA's Kepler space telescope has discovered 95 new exoplanets. ](/news/2018/02/15/nasa-s-kepler-space-telescope-has-discovered-95-new-exoplanets.md)
-_Context: Kepler, Discoveries of exoplanets, exoplanet, NASA, space telescope_
+_Context: Kepler, space telescope, NASA, exoplanet, Discoveries of exoplanets_
 
 ---
 
-## [Day Before Yesterday](/news/2018/02/14/index.md)
-
-##### Economy of the European Union
-### [Eurozone GDP rises by 2.5% in 2017, a pace not seen since 2007, and industrial production is up 5.2% year-on-year. The production of durable consumer goods is up 7.4% and capital goods, indicating investments, are up 7.6%. ](/news/2018/02/14/eurozone-gdp-rises-by-2-5-in-2017-a-pace-not-seen-since-2007-and-industrial-production-is-up-5-2-year-on-year-the-production-of-durable.md)
-BRUSSELS: Eurozone industrial production jumped more than expected in December, data from the EU statistics office Eurostat showed on Wednesday, underlining the fastest economic growth rate in a decade that economists expect to continue in 2018. Eurostat said industrial production in the 19 countrie...
-
-##### United States
-### [A car crash at the headquarters of the United States National Security Agency at Fort Meade, Maryland, injures three people. Police officers shoot at the driver, who they say was attempting to attack the building. ](/news/2018/02/14/a-car-crash-at-the-headquarters-of-the-united-states-national-security-agency-at-fort-meade-maryland-injures-three-people-police-officers.md)
-NSA said situation is &quot;under control&quot;
-
-##### Stoneman Douglas High School shooting
-### [At least 17 people are killed and 15 are wounded in a shooting at a high school in Parkland, Florida. This is the deadliest high school shooting in U.S. history. The suspected shooter is apprehended and identified as 19-year-old former student Nikolas Cruz. ](/news/2018/02/14/at-least-17-people-are-killed-and-15-are-wounded-in-a-shooting-at-a-high-school-in-parkland-florida-this-is-the-deadliest-high-school-shoo.md)
-_Context: school shooting, deadliest high school shooting in U.S. history, School shootings in the United States, Parkland, high school, Florida, Stoneman Douglas High School shooting_
-
-##### Crime in South Africa
-### [The residence of the Gupta family is raided by the South African Police Service's elite Hawks unit and three people are arrested. ](/news/2018/02/14/the-residence-of-the-gupta-family-is-raided-by-the-south-african-police-service-s-elite-hawks-unit-and-three-people-are-arrested.md)
-One of the three Gupta brothers linked to embattled President Zuma is reportedly arrested.
-
-##### 2017-18 United States political sexual scandals
-### [Michael D. Cohen, the private lawyer of U.S. President Donald Trump, says he made a "lawful" US$130,000 payment to porn star Stephanie Clifford, aka Stormy Daniels, from his own private funds. The statement to "The New York Times" comes after the Common Cause organization on January 22, 2018, filed a complaint about the payment with the Federal Election Commission. ](/news/2018/02/14/michael-d-cohen-the-private-lawyer-of-u-s-president-donald-trump-says-he-made-a-lawful-us-130-000-payment-to-porn-star-stephanie-cliff.md)
-President Trump&rsquo;s longtime personal lawyer Michael Cohen has acknowledged using his private funds shortly before the 2016 election to pay $130,000 to a porn actress who had once claimed to have had an affair with Trump. &ldquo;In a private transaction in 2016, I used my own personal funds to f...
-
-##### Crime in Pakistan
-### [Pakistan moves to ban two charities linked to terrorist Hafiz Muhammad Saeed. ](/news/2018/02/14/pakistan-moves-to-ban-two-charities-linked-to-terrorist-hafiz-muhammad-saeed.md)
-Pakistan has banned two charities linked to Islamist leader Hafiz Saeed, an official said on Wednesday, in a move against the U.N.-designated &quot;terrorist&quot; who the United States says was behind an attack on Mumbai in 2008 that killed 166 people.
-
-##### November 2015 Paris attacks
-### [After the first trial on the attacks, Jawad Bendaoud is acquitted. Bendaoud rented an apartment to two of the attackers but denied knowing what they planned. Mohamed Soumah is sentenced to five years for acting as an intermediary, Youssef Ait-Boulahcen to 3 years in jail for failing to inform authorities. ](/news/2018/02/14/after-the-first-trial-on-the-attacks-jawad-bendaoud-is-acquitted-bendaoud-rented-an-apartment-to-two-of-the-attackers-but-denied-knowing-w.md)
-A French court on Wednesday jailed two men in the first trial stemming from the 2015 Islamic State attacks in Paris in which jihadists massacred 130 people.
-
-##### Disappearance of Maelys de Araujo
-### [The remains of Maelys de Araujo, a girl who disappeared from a wedding in France in August 2017, are found after suspect Nordahl Lelandais guides investigators to the site. ](/news/2018/02/14/the-remains-of-maa-lys-de-araujo-a-girl-who-disappeared-from-a-wedding-in-france-in-august-2017-are-found-after-suspect-nordahl-lelandais.md)
-French police have found the remains of an eight-year-old French girl who vanished from a wedding in the Alps last August.
-
-##### Ukrainian crisis
-### [Mikheil Saakashvili, leader of the opposition Movement of New Forces party, who was deported from Ukraine to Poland, relocates to the Netherlands. ](/news/2018/02/14/mikheil-saakashvili-leader-of-the-opposition-movement-of-new-forces-party-who-was-deported-from-ukraine-to-poland-relocates-to-the-nether.md)
-_Context: Poland, Movement of New Forces, Mikheil Saakashvili, Netherlands, Ukraine, Ukrainian crisis_
-
-##### Politics of South Africa
-### [Jacob Zuma resigns as President of South Africa effective immediately, following an ultimatum issued the day prior by African National Congress that ordered Zuma to step down as head of state or face a vote of no confidence by the South African Parliament to remove him from power within 48 hours of the declaration. Cyril Ramaphosa takes over as Acting President. ](/news/2018/02/14/jacob-zuma-resigns-as-president-of-south-africa-effective-immediately-following-an-ultimatum-issued-the-day-prior-by-african-national-congr.md)
-President Jacob Zuma has resigned as the president of South Africa.
-
-##### Zimbabwean general election, 2018
-### [Morgan Tsvangirai, opposition politician in Zimbabwe, dies of colon cancer at the age of 65, only months before a presidential election. ](/news/2018/02/14/morgan-tsvangirai-opposition-politician-in-zimbabwe-dies-of-colon-cancer-at-the-age-of-65-only-months-before-a-presidential-election.md)
-Zimbabwe opposition leader Morgan Tsvangirai dies aged 65 after protracted battle with cancer, party official says.
-
----
-
-## [Previous Day...](/news/2018/02/13/index.md)
+## [Previous Day...](/news/2018/02/14/index.md)
 
 ---
 
