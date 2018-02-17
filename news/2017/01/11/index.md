@@ -25,7 +25,7 @@ _Context: State Administration of Foreign Exchange, Reuters, yuan_
 
 ##### Crime in El Salvador
 ### [As the homicide rate in El Salvador declines, the country records its first day in the last two years without a homicide. ](/news/2017/01/11/as-the-homicide-rate-in-el-salvador-declines-the-country-records-its-first-day-in-the-last-two-years-without-a-homicide.md)
-_Context: homicide rate, El Salvador, Crime in El Salvador_
+_Context: El Salvador, Crime in El Salvador, homicide rate_
 
 ##### President-elect
 ### [ President-elect of the United States Donald Trump holds his first post-election press conference in New York City. ](/news/2017/01/11/president-elect-of-the-united-states-donald-trump-holds-his-first-post-election-press-conference-in-new-york-city.md)
@@ -33,7 +33,7 @@ The president-elect is sure be asked about unverified reports that Russia has ga
 
 ##### Special Inspector General for Afghanistan Reconstruction
 ### [The Special Inspector General for Afghanistan Reconstruction releases a report on Afghanistan, saying that the Afghan Armed Forces are not capable of securing the country and have lost more territory to the Taliban, the most since the United States invasion of Afghanistan in 2001. ](/news/2017/01/11/the-special-inspector-general-for-afghanistan-reconstruction-releases-a-report-on-afghanistan-saying-that-the-afghan-armed-forces-are-not-c.md)
-_Context: United States invasion of Afghanistan, Afghan, military personnel, Special Inspector General for Afghanistan Reconstruction, Taliban_
+_Context: military personnel, Afghan, Special Inspector General for Afghanistan Reconstruction, United States invasion of Afghanistan, Taliban_
 
 ##### Radio in Norway
 ### [Norway becomes the first country to start a complete switch-off of national FM radio stations. The change, from the analogue FM system to digital audio broadcasting, is expected to be completed by the end of the year. Some, such as the Norwegian Local Radio Association, are concerned about the impact on motorists and the elderly. ](/news/2017/01/11/norway-becomes-the-first-country-to-start-a-complete-switch-off-of-national-fm-radio-stations-the-change-from-the-analogue-fm-system-to-di.md)

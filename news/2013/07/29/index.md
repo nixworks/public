@@ -5,7 +5,7 @@ Formats: [HTML](2013/07/29/index.html)  [JSON](2013/07/29/index.json)  [XML](201
 
 ##### Car bomb
 ### [A wave of twelve car bombs targeting Shiite communities in Iraq kills at least 44 people. ](/news/2013/07/29/a-wave-of-twelve-car-bombs-targeting-shiite-communities-in-iraq-kills-at-least-44-people.md)
-_Context: Iraq, Shiite, car bomb_
+_Context: Iraq, car bomb, Shiite_
 
 ##### Pakistani Taliban
 ### [The Pakistani Taliban attacks a prison in the Pakistani city of Dera Ismail Khan with more than 300 prisoners freed. ](/news/2013/07/29/the-pakistani-taliban-attacks-a-prison-in-the-pakistani-city-of-dera-ismail-khan-with-more-than-300-prisoners-freed.md)
@@ -29,7 +29,7 @@ All the night shift workers at a central Florida gas plant are safe after a seri
 
 ##### Ministry of Defence
 ### [The New Zealand Ministry of Defence announces that it will investigate claims that it collected telephone metadata on Jon Stephenson, a freelance journalist for The McClatchy Company in Afghanistan. ](/news/2013/07/29/the-new-zealand-ministry-of-defence-announces-that-it-will-investigate-claims-that-it-collected-telephone-metadata-on-jon-stephenson-a-free.md)
-_Context: metadata, The McClatchy Company, Ministry of Defence, Afghan_
+_Context: Ministry of Defence, Afghan, The McClatchy Company, metadata_
 
 ##### Carlton Intercontinental Hotel
 ### [EUR103 million worth of diamonds and other jewels are stolen from the Carlton Intercontinental Hotel in Cannes, in one of Europe's biggest jewelry heists in recent years. ](/news/2013/07/29/a-103-million-worth-of-diamonds-and-other-jewels-are-stolen-from-the-carlton-intercontinental-hotel-in-cannes-in-one-of-europe-s-biggest-j.md)

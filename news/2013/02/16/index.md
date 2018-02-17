@@ -9,7 +9,7 @@ At least 84 people killed in attack on vegetable market that targeted Hazara Shi
 
 ##### Iraq
 ### [A suicide bombing kills General Ali Aouni, the head of the Iraqi intelligence academy, and three of his bodyguards in Tal Afar. ](/news/2013/02/16/a-suicide-bombing-kills-general-ali-aouni-the-head-of-the-iraqi-intelligence-academy-and-three-of-his-bodyguards-in-tal-afar.md)
-_Context: Tal Afar, Iraq_
+_Context: Iraq, Tal Afar_
 
 ##### Romania
 ### [2013 Romanian drama film Child's Pose wins the Golden Bear at the 63rd Berlin International Film Festival in Berlin, Germany. ](/news/2013/02/16/2013-romanian-drama-film-child-s-pose-wins-the-golden-bear-at-the-63rd-berlin-international-film-festival-in-berlin-germany.md)
@@ -21,7 +21,7 @@ Japan&#039;s aggressive attempts to spur on its struggling economy were set to e
 
 ##### Magnitude
 ### [A magnitude 6.2 earthquake occurs near the southern Philippine island of Mindanao. ](/news/2013/02/16/a-magnitude-6-2-earthquake-occurs-near-the-southern-philippine-island-of-mindanao.md)
-_Context: Philippines, magnitude, hits, Mindanao, earthquake_
+_Context: magnitude, Philippines, Mindanao, earthquake, hits_
 
 ##### Knights of Columbus
 ### [Two firefighters are killed and two others are injured extinguishing an inferno at a Knights of Columbus fraternal lodge in Bryan, Texas, United States. ](/news/2013/02/16/two-firefighters-are-killed-and-two-others-are-injured-extinguishing-an-inferno-at-a-knights-of-columbus-fraternal-lodge-in-bryan-texas-un.md)

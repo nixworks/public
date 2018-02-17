@@ -5,11 +5,11 @@ Formats: [HTML](2006/09/30/index.html)  [JSON](2006/09/30/index.json)  [XML](200
 
 ##### Los Angeles Times
 ### [ The "Los Angeles Times" has reported that Jason Grimsley, a former pitcher for several Major League Baseball teams who has been accused of supplying performance-enhancing drugs to several players, allegedly named stars Roger Clemens, Andy Pettitte, and Miguel Tejada in a sworn statement as users of performance-enhancers. ](/news/2006/09/30/the-los-angeles-times-has-reported-that-jason-grimsley-a-former-pitcher-for-several-major-league-baseball-teams-who-has-been-accused-of.md)
-_Context: Major League Baseball, Miguel Tejada, Jason Grimsley, doping, Andy Pettitte, Roger Clemens, Los Angeles Times_
+_Context: Los Angeles Times, Miguel Tejada, doping, Roger Clemens, Andy Pettitte, Major League Baseball, Jason Grimsley_
 
 ##### Nigeria
 ### [ In Nigeria, the collapse of a dam wall kills forty people in Gusau, Zamfara state. ](/news/2006/09/30/in-nigeria-the-collapse-of-a-dam-wall-kills-forty-people-in-gusau-zamfara-state.md)
-_Context: Nigeria, Gusau, Zamfara state_
+_Context: Gusau, Nigeria, Zamfara state_
 
 ##### TaCNYana Kucharova
 ### [ Eighteen-year-old TaCNYana Kucharova from the Czech Republic was crowned Miss World 2006 at the conclusion of a ceremony held at Sala Kongresowa in Warsaw, Poland. 1st Runner-Up was Ioana Boitor from Romania and 2nd Runner-Up was Sabrina Housammi from Australia. 104 nations competed for the title. ](/news/2006/09/30/eighteen-year-old-taacnya-na-kuchaaova-from-the-czech-republic-was-crowned-miss-world-2006-at-the-conclusion-of-a-ceremony-held-at-sala-k.md)
@@ -21,7 +21,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### European Union
 ### [ Talks between the European Union and the United States Department of Homeland Security on the transfer of airline passenger data break down. The US demands over 30 items of data on each passenger, an earlier agreement which had been deemed to break European privacy laws. Midnight tonight was the deadline for reaching a new agreement. Airlines face losing landing rights in the US if they do not provide the information, and heavy fines in the EU if they do. ](/news/2006/09/30/talks-between-the-european-union-and-the-united-states-department-of-homeland-security-on-the-transfer-of-airline-passenger-data-break-down.md)
-_Context: European Union, Department of Homeland Security, United States_
+_Context: Department of Homeland Security, European Union, United States_
 
 ##### Autoroute 19
 ### [ Three lanes of the overpass on Boulevard de la Concorde and a pedestrian sidewalk collapsed onto Autoroute 19 in the Montreal area, Quebec. Two cars were trapped under, 5 were killed and at least 6 are injured, 2 critically. ](/news/2006/09/30/three-lanes-of-the-overpass-on-boulevard-de-la-concorde-and-a-pedestrian-sidewalk-collapsed-onto-autoroute-19-in-the-montreal-area-quebec.md)

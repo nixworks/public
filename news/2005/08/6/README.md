@@ -21,7 +21,7 @@ Search Continues For Three Missing Passengers, 13 Confirmed Dead
 
 ##### Cuba
 ### [ Cuban veteran singer Ibrahim Ferrer, vocalist and front man of the Buena Vista Social Club band, dies at the age of 78 ](/news/2005/08/6/cuban-veteran-singer-ibrahim-ferrer-vocalist-and-front-man-of-the-buena-vista-social-club-band-dies-at-the-age-of-78.md)
-_Context: Ibrahim Ferrer, Cuba, Buena Vista Social Club_
+_Context: Cuba, Buena Vista Social Club, Ibrahim Ferrer_
 
 ## [Previous Day...](/news/2005/08/5/index.md)
 

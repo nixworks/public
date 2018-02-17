@@ -5,15 +5,15 @@ Formats: [HTML](2009/10/9/index.html)  [JSON](2009/10/9/index.json)  [XML](2009/
 
 ##### United Nations
 ### [ A United Nations plane from Uruguay attached to MINUSTAH monitoring the Haiti&ndash;Dominican Republic border crashes near Fonds-Verrettes, killing at least 11 people from Jordan and Uruguay. ](/news/2009/10/9/a-united-nations-plane-from-uruguay-attached-to-minustah-monitoring-the-haiti-ndash-dominican-republic-border-crashes-near-fonds-verrettes.md)
-_Context: Dominican Republic, Jordan, Fonds-Verrettes, United Nations, MINUSTAH, Haiti, Uruguay_
+_Context: Dominican Republic, Haiti, United Nations, Fonds-Verrettes, MINUSTAH, Jordan, Uruguay_
 
 ##### General Motors
 ### [ General Motors finalizes a deal to sell Hummer to China's Sichuan Tengzhong Heavy Industrial Machinery Company. ](/news/2009/10/9/general-motors-finalizes-a-deal-to-sell-hummer-to-china-s-sichuan-tengzhong-heavy-industrial-machinery-company.md)
-_Context: Hummer, Sichuan Tengzhong Heavy Industrial Machinery Company, General Motors_
+_Context: Hummer, General Motors, Sichuan Tengzhong Heavy Industrial Machinery Company_
 
 ##### Lunar ice
 ### [ In an attempt to determine the extent of lunar ice, NASA crashes two unmanned spacecraft into the Moon's south pole. ](/news/2009/10/9/in-an-attempt-to-determine-the-extent-of-lunar-ice-nasa-crashes-two-unmanned-spacecraft-into-the-moon-s-south-pole.md)
-_Context: Moon, lunar ice, LCROSS, NASA_
+_Context: LCROSS, lunar ice, NASA, Moon_
 
 ##### Poland
 ### [ A statement on Polish President Lech Kaczynski's website says a signing ceremony of the treaty will take place on Saturday at 1000 GMT. ](/news/2009/10/9/a-statement-on-polish-president-lech-kaczyaski-s-website-says-a-signing-ceremony-of-the-treaty-will-take-place-on-saturday-at-1000-gmt.md)
@@ -21,7 +21,7 @@ Czech President Vaclav Klaus wants an opt-out on the Charter of Fundamental Righ
 
 ##### Aung San Suu Kyi
 ### [ Aung San Suu Kyi is permitted to meet international diplomats to discuss international sanctions against Burma. ](/news/2009/10/9/aung-san-suu-kyi-is-permitted-to-meet-international-diplomats-to-discuss-international-sanctions-against-burma.md)
-_Context: Aung San Suu Kyi, Burma_
+_Context: Burma, Aung San Suu Kyi_
 
 ##### United States
 ### [ U.S. president Barack Obama wins the Nobel Peace Prize "for his extraordinary efforts to strengthen international diplomacy and cooperation between peoples." ](/news/2009/10/9/u-s-president-barack-obama-wins-the-nobel-peace-prize-afor-his-extraordinary-efforts-to-strengthen-international-diplomacy-and-cooperati.md)
@@ -41,11 +41,11 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 
 ##### Wallace Souza
 ### [ Wallace Souza, the former Brazilian state legislator and host of "Canal Livre" who faces accusations of drug trafficking and murder, surrenders to police after being a fugitive for four days. ](/news/2009/10/9/wallace-souza-the-former-brazilian-state-legislator-and-host-of-canal-livre-who-faces-accusations-of-drug-trafficking-and-murder-surren.md)
-_Context: Wallace Souza, Brazil, Canal Livre_
+_Context: Wallace Souza, Canal Livre, Brazil_
 
 ##### India
 ### [ India plans a new offensive against Maoist Naxalite rebels active in parts of the country. ](/news/2009/10/9/india-plans-a-new-offensive-against-maoist-naxalite-rebels-active-in-parts-of-the-country.md)
-_Context: Naxalite, Maoist, India_
+_Context: Maoist, India, Naxalite_
 
 ##### Pakistan
 ### [ A suspected suicide car-bomber kills 49 people in the Pakistani city of Peshawar in an attack that the government said underscored the need for an all-out offensive against the Pakistani Taliban. ](/news/2009/10/9/a-suspected-suicide-car-bomber-kills-49-people-in-the-pakistani-city-of-peshawar-in-an-attack-that-the-government-said-underscored-the-need.md)
@@ -53,7 +53,7 @@ A suspected suicide car-bomber killed 49 people on Friday in the Pakistani city 
 
 ##### Arizona
 ### [ Two people die after being overcome by sweat and about 19 others are hospitalised at a spiritual retreat in Arizona, USA. ](/news/2009/10/9/two-people-die-after-being-overcome-by-sweat-and-about-19-others-are-hospitalised-at-a-spiritual-retreat-in-arizona-usa.md)
-_Context: Arizona, United States_
+_Context: United States, Arizona_
 
 ##### Amputee
 ### [ Public amputations on three men accused of robbery occur in Somalia. ](/news/2009/10/9/public-amputations-on-three-men-accused-of-robbery-occur-in-somalia.md)

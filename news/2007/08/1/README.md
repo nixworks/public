@@ -9,7 +9,7 @@ New Zealand launched its first commercially available biofuel Wednesday. The fue
 
 ##### U.S. President
 ### [ The President of the United States George W. Bush orders senior adviser Karl Rove not to testify before a United States Senate committee on the Dismissal of U.S. attorneys controversy. ](/news/2007/08/1/the-president-of-the-united-states-george-w-bush-orders-senior-adviser-karl-rove-not-to-testify-before-a-united-states-senate-committee-on.md)
-_Context: Karl Rove, George W. Bush, United States Senate, firings, U.S. President_
+_Context: George W. Bush, United States Senate, Karl Rove, U.S. President, firings_
 
 ##### I-35W Mississippi River bridge
 ### [ The bridge carrying Interstate 35W in Minneapolis, Minnesota, collapses into the Mississippi River late in the afternoon rush hour, killing thirteen and injuring hundreds. ](/news/2007/08/1/the-bridge-carrying-interstate-35w-in-minneapolis-minnesota-collapses-into-the-mississippi-river-late-in-the-afternoon-rush-hour-killing.md)
@@ -21,23 +21,23 @@ Canadian researchers said the body of a nameless child who died aboard the Titan
 
 ##### Association of South East Asian Nations
 ### [ The Association of South East Asian Nations (ASEAN) sign an agreement to bolster economic and security relationships. It also called for negotiations on a Free Trade Agreement between ASEAN, Australia and New Zealand by the end of 2008. ](/news/2007/08/1/the-association-of-south-east-asian-nations-asean-sign-an-agreement-to-bolster-economic-and-security-relationships-it-also-called-for-ne.md)
-_Context: Australia, 2008, Free Trade Agreement, New Zealand, Association of South East Asian Nations_
+_Context: 2008, Free Trade Agreement, Australia, Association of South East Asian Nations, New Zealand_
 
 ##### France
 ### [ A French court orders the release of two suspects in the 1994 Rwandan genocide. ](/news/2007/08/1/a-french-court-orders-the-release-of-two-suspects-in-the-1994-rwandan-genocide.md)
-_Context: France, 1994 genocide, 1994_
+_Context: 1994, 1994 genocide, France_
 
 ##### Uttar Pradesh
 ### [ At least 28 people die in Uttar Pradesh, India as an overcrowded boat carrying flood evacuees and aid workers capsizes on the Rohni River. Monsoon floods have killed more than 150 people in India during July while at least 82 people have died in Nepal over the past two weeks and 38 in Bangladesh. ](/news/2007/08/1/at-least-28-people-die-in-uttar-pradesh-india-as-an-overcrowded-boat-carrying-flood-evacuees-and-aid-workers-capsizes-on-the-rohni-river.md)
-_Context: Nepal, Uttar Pradesh, Rohni River, flood, Monsoon, Bangladesh, India_
+_Context: flood, Uttar Pradesh, India, Nepal, Monsoon, Bangladesh, Rohni River_
 
 ##### 2007 Russian North Pole expedition
 ### [ 2007 Russian North Pole expedition: A Russian expedition with the aim of claiming petroleum beneath the Arctic reaches the North Pole. ](/news/2007/08/1/2007-russian-north-pole-expedition-a-russian-expedition-with-the-aim-of-claiming-petroleum-beneath-the-arctic-reaches-the-north-pole.md)
-_Context: Arctic, Russia, petroleum, North Pole, 2007 Russian North Pole expedition_
+_Context: petroleum, Russia, 2007 Russian North Pole expedition, Arctic, North Pole_
 
 ##### The Accordance Front
 ### [ The Accordance Front, Iraq's largest Sunni party, withdraws from the government while at least 70 people die in three bomb attacks. ](/news/2007/08/1/the-accordance-front-iraq-s-largest-sunni-party-withdraws-from-the-government-while-at-least-70-people-die-in-three-bomb-attacks.md)
-_Context: Sunni, Iraq, The Accordance Front, the government_
+_Context: the government, The Accordance Front, Iraq, Sunni_
 
 ##### Price
 ### [ US crude oil prices reach a new high of $78.77 a barrel due to declining stocks and decreased output. ](/news/2007/08/1/us-crude-oil-prices-reach-a-new-high-of-78-77-a-barrel-due-to-declining-stocks-and-decreased-output.md)
@@ -45,17 +45,17 @@ _Context: price_
 
 ##### Gazprom
 ### [ Russia's gas exports monopoly Gazprom will almost halve supplies to Belarus from August 3 after failing to reach a deal with Minsk over a $456 million energy debt. ](/news/2007/08/1/russiaas-gas-exports-monopoly-gazprom-will-almost-halve-supplies-to-belarus-from-august-3-after-failing-to-reach-a-deal-with-minsk-over-a.md)
-_Context: Belarus, $456 million energy debt, Gazprom, August 3_
+_Context: August 3, Belarus, $456 million energy debt, Gazprom_
 
 ##### United Kingdom
 ### [ The United Kingdom Office of Fair Trading levies a fine of GBP121.5 million on British Airways for price collusion over long distance passenger fuel surcharges. British Airways and Korean Air later plead guilty to conspiracies to fix the price of passenger and cargo fees in the United States with fines of $300 million each being levied. ](/news/2007/08/1/the-united-kingdom-office-of-fair-trading-levies-a-fine-of-agbp121-5-million-on-british-airways-for-price-collusion-over-long-distance-pass.md)
-_Context: British Airways, United States, $, United Kingdom, Korean Air, GBP, Office of Fair Trading_
+_Context: $, United Kingdom, Office of Fair Trading, GBP, United States, Korean Air, British Airways_
 
 ##### Sudan
 ### [ Sudan pledges support for UNAMID, a joint United Nations and African Union peacekeeping force in Darfur. ](/news/2007/08/1/sudan-pledges-support-for-unamid-a-joint-united-nations-and-african-union-peacekeeping-force-in-darfur.md)
-_Context: UNAMID, Darfur, peacekeeping, Sudan, United Nations, African  Union_
+_Context: African  Union, peacekeeping, United Nations, Darfur, Sudan, UNAMID_
 
-##### China
+##### Chinese
 ### [ Sixty-nine Chinese coal miners are rescued from the Zhijian Mine in Henan province. ](/news/2007/08/1/sixty-nine-chinese-coal-miners-are-rescued-from-the-zhijian-mine-in-henan-province.md)
 Authorities in China say rescuers have pulled out 69 coal miners alive, ending a terrifying three-day ordeal in which the trapped men survived on milk and pumped-in oxygen.
 
@@ -65,15 +65,15 @@ The House of Representatives passed a resolution Monday that recommends the lift
 
 ##### Prime Minister
 ### [ The Prime Minister of Spain Jose Luis Rodriguez Zapatero visits the Canary Islands to inspect the damage caused by five days of fires on the islands of Gran Canaria and Tenerife. ](/news/2007/08/1/the-prime-minister-of-spain-josa-c-luis-rodraguez-zapatero-visits-the-canary-islands-to-inspect-the-damage-caused-by-five-days-of-fires-on.md)
-_Context: Prime Minister, Tenerife, fire, Jose Luis Rodriguez Zapatero, Gran Canaria, Canary Islands'_
+_Context: Tenerife, fire, Gran Canaria, Prime Minister, Jose Luis Rodriguez Zapatero, Canary Islands'_
 
 ##### Norihiko Akagi
 ### [ Norihiko Akagi resigns as Japan's agriculture minister after scandals involving him adversely affected the Liberal Democratic Party's performance in the Japanese House of Councillors election, 2007. ](/news/2007/08/1/norihiko-akagi-resigns-as-japan-s-agriculture-minister-after-scandals-involving-him-adversely-affected-the-liberal-democratic-party-s-perfo.md)
-_Context: Japanese House of Councillors election, 2007, agriculture, Liberal Democratic Party, Norihiko Akagi, Japan_
+_Context: agriculture, Japanese House of Councillors election, 2007, Japan, Norihiko Akagi, Liberal Democratic Party_
 
 ##### Sumo wrestler
 ### [ Sumo wrestler Asashoryu becomes the first Yokozuna in history to be suspended from competition. ](/news/2007/08/1/sumo-wrestler-asashoryu-becomes-the-first-yokozuna-in-history-to-be-suspended-from-competition.md)
-_Context: Sumo wrestler, Yokozuna, Asashoryu_
+_Context: Sumo wrestler, Asashoryu, Yokozuna_
 
 ## [Previous Day...](/news/2007/07/31/index.md)
 

@@ -9,7 +9,7 @@ Hundreds of al-Qaeda fighters were on the loose in Iraq after fellow militants s
 
 ##### Strikes
 ### [A magnitude 6.5 earthquake strikes under Cook Strait in New Zealand, causing moderate damage in the capital city Wellington. ](/news/2013/07/21/a-magnitude-6-5-earthquake-strikes-under-cook-strait-in-new-zealand-causing-moderate-damage-in-the-capital-city-wellington.md)
-_Context: Wellington, strikes, New Zealand, Cook Strait_
+_Context: Cook Strait, Wellington, strikes, New Zealand_
 
 ##### Egyptian Army
 ### [Fifteen Egyptian Army soldiers are killed and another injured after their bus crashes into a truck on a highway on the Mediterranean coast. ](/news/2013/07/21/fifteen-egyptian-army-soldiers-are-killed-and-another-injured-after-their-bus-crashes-into-a-truck-on-a-highway-on-the-mediterranean-coast.md)
@@ -17,15 +17,15 @@ _Context: Egyptian Army, Mediterranean coast_
 
 ##### Muslim
 ### [At least 12 people have been killed or wounded in a clash between two Muslim families in the province of Lanao del Sur in the southern Philippines. ](/news/2013/07/21/at-least-12-people-have-been-killed-or-wounded-in-a-clash-between-two-muslim-families-in-the-province-of-lanao-del-sur-in-the-southern-phili.md)
-_Context: Muslim, Lanao del Sur, Philippines_
+_Context: Muslim, Philippines, Lanao del Sur_
 
 ##### Japan
 ### [Voters in Japan go to the polls for a House of Councillors (Japan's upper house) election with the governing coalition led by Shinzo Abe winning control of the upper house. ](/news/2013/07/21/voters-in-japan-go-to-the-polls-for-a-house-of-councillors-japan-s-upper-house-election-with-the-governing-coalition-led-by-shinzo-abe-win.md)
-_Context: House of Councillors (Japan's upper house), Japan, Shinzo Abe_
+_Context: House of Councillors (Japan's upper house), Shinzo Abe, Japan_
 
 ##### Albert II of Belgium
 ### [King Albert II of Belgium abdicates in favour of his son Prince Philippe. ](/news/2013/07/21/king-albert-ii-of-belgium-abdicates-in-favour-of-his-son-prince-philippe.md)
-_Context: Albert II of Belgium, Prince Philippe_
+_Context: Prince Philippe, Albert II of Belgium_
 
 ## [Previous Day...](/news/2013/07/20/index.md)
 

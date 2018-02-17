@@ -17,19 +17,19 @@ _Context: Justin Bieber_
 
 ##### Philippines
 ### [Former Philippine First Lady Imelda Marcos visits the detained ex-President Gloria Macapagal-Arroyo and criticizes the current President Benigno Aquino III as "cruel, unjust". ](/news/2014/01/23/former-philippine-first-lady-imelda-marcos-visits-the-detained-ex-president-gloria-macapagal-arroyo-and-criticizes-the-current-president-ben.md)
-_Context: Philippines, Gloria Macapagal-Arroyo, Imelda Marcos, his predecessor_
+_Context: Philippines, his predecessor, Gloria Macapagal-Arroyo, Imelda Marcos_
 
 ##### Sex club
 ### [Swedish sex club owner Mille Markovic is shot dead in Stockholm. ](/news/2014/01/23/swedish-sex-club-owner-mille-markovic-is-shot-dead-in-stockholm.md)
-_Context: sex club, Mille Markovic_
+_Context: Mille Markovic, sex club_
 
 ##### Supreme Court of Russia
 ### [Supreme Court of Russia releases Platon Lebedev, a business partner of Russian magnate and former head of Yukos Mikhail Khodorkovsky, after he spent more than 10 years in jail. ](/news/2014/01/23/supreme-court-of-russia-releases-platon-lebedev-a-business-partner-of-russian-magnate-and-former-head-of-yukos-mikhail-khodorkovsky-after.md)
-_Context: Supreme Court of Russia, Mikhail Khodorkovsky, Platon Lebedev, Yukos_
+_Context: Platon Lebedev, Supreme Court of Russia, Yukos, Mikhail Khodorkovsky_
 
 ##### Supernova
 ### [A bright type-Ia supernova SN 2014J is discovered in the starburst galaxy Messier 82. ](/news/2014/01/23/a-bright-type-ia-supernova-sn-2014j-is-discovered-in-the-starburst-galaxy-messier-82.md)
-_Context: starburst galaxy, SN 2014J, Messier 82, supernova_
+_Context: Messier 82, starburst galaxy, SN 2014J, supernova_
 
 ##### Nghe An Province
 ### [First recorded snowfall in Ky Son district, western Nghe An, Vietnam. ](/news/2014/01/23/first-recorded-snowfall-in-ka-3-sae-n-district-western-ngha-an-vietnam.md)

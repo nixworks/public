@@ -5,23 +5,23 @@ Formats: [HTML](2010/01/14/index.html)  [JSON](2010/01/14/index.json)  [XML](201
 
 ##### India
 ### [India celebrates the Thai Pongal, Makar Sankranti and Magh Bihu harvest festivals in places around the country (Palayamkottai, Haridwar). ](/news/2010/01/14/india-celebrates-the-thai-pongal-makar-sankranti-and-magh-bihu-harvest-festivals-in-places-around-the-country-palayamkottai-haridwar.md)
-_Context: India, Palayamkottai, Thai Pongal, Magh Bihu, harvest festival, Haridwar, Makar Sankranti_
+_Context: Palayamkottai, Thai Pongal, Makar Sankranti, harvest festival, Magh Bihu, India, Haridwar_
 
 ##### Two buses crash
 ### [40 people are killed after two buses crash head-on in one of Papua New Guinea's worst ever road accidents. ](/news/2010/01/14/40-people-are-killed-after-two-buses-crash-head-on-in-one-of-papua-new-guinea-s-worst-ever-road-accidents.md)
-_Context: two buses crash, Papua New Guinea_
+_Context: Papua New Guinea, two buses crash_
 
 ##### Stampede
 ### [Seven people die in a stampede at a religious festival on the Ganges in West Bengal, India. ](/news/2010/01/14/seven-people-die-in-a-stampede-at-a-religious-festival-on-the-ganges-in-west-bengal-india.md)
-_Context: Ganges, West Bengal, India, stampede_
+_Context: stampede, West Bengal, Ganges, India_
 
 ##### Venezuela
 ### [Venezuelan President Hugo Chavez partially reverses a decision to ration electricity in the country a day after it was announced, saying it was having "undesirable effects" on the population. Thus, Caracas residents won't have power cuts anymore. ](/news/2010/01/14/venezuelan-president-hugo-cha-vez-partially-reverses-a-decision-to-ration-electricity-in-the-country-a-day-after-it-was-announced-saying-it.md)
-_Context: Hugo Chavez, Caracas, Venezuela, ration electricity_
+_Context: Venezuela, ration electricity, Hugo Chavez, Caracas_
 
 ##### Guinea
 ### [The head of Guinea's junta Moussa Dadis Camara and interim leader General Sekouba Konate hold emergency talks with Burkina Faso's President Blaise Compaore. ](/news/2010/01/14/the-head-of-guinea-s-junta-moussa-dadis-camara-and-interim-leader-general-sa-c-kouba-konata-c-hold-emergency-talks-with-burkina-faso-s-presiden.md)
-_Context: Blaise Compaore, Burkina Faso, Guinea, Moussa Dadis Camara, junta, Sekouba Konate_
+_Context: Guinea, Burkina Faso, Sekouba Konate, Blaise Compaore, junta, Moussa Dadis Camara_
 
 ##### Mongolia
 ### [Mongolian President Tsakhiagiin Elbegdorj announces a moratorium on the death penalty, calling for it to be abolished. ](/news/2010/01/14/mongolian-president-tsakhiagiin-elbegdorj-announces-a-moratorium-on-the-death-penalty-calling-for-it-to-be-abolished.md)

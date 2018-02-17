@@ -37,7 +37,7 @@ The incident occurred Friday. Paul&#x27;s camp said the senator broke five ribs.
 
 ##### Protests against Rodrigo Duterte
 ### [Human rights activists and opponents of Philippines president Rodrigo Duterte stage protests led by the Philippine Catholic Church against the ongoing drug crackdown that has killed thousands of people. ](/news/2017/11/5/human-rights-activists-and-opponents-of-philippines-president-rodrigo-duterte-stage-protests-led-by-the-philippine-catholic-church-against-t.md)
-_Context: Rodrigo Duterte, drug crackdown, Philippines, Protests against Rodrigo Duterte, Philippine Catholic Church_
+_Context: drug crackdown, Philippines, Protests against Rodrigo Duterte, Rodrigo Duterte, Philippine Catholic Church_
 
 ##### 2017 Russian protests
 ### [At least 260 people have been arrested while protesting against Vladimir Putin in Moscow while people in five other cities are also detained. The protests were organized by the Artpodgotovka movement founded by Vyacheslav Maltsev. ](/news/2017/11/5/at-least-260-people-have-been-arrested-while-protesting-against-vladimir-putin-in-moscow-while-people-in-five-other-cities-are-also-detained.md)

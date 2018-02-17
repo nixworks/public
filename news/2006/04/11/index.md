@@ -5,15 +5,15 @@ Formats: [HTML](2006/04/11/index.html)  [JSON](2006/04/11/index.json)  [XML](200
 
 ##### Essen
 ### [ The city of Essen, Germany, is selected to be the European Capital of Culture of 2010 by the EU jury. ](/news/2006/04/11/the-city-of-essen-germany-is-selected-to-be-the-european-capital-of-culture-of-2010-by-the-eu-jury.md)
-_Context: European Union, European Capital of Culture, Essen_
+_Context: European Capital of Culture, Essen, European Union_
 
 ##### Suicide attack
 ### [ A suspected suicide bomber detonates a bomb at a religious gathering in Karachi, Pakistan, killing at least 47 and injuring more than 80 celebrating Mawlid al-Nabi. ](/news/2006/04/11/a-suspected-suicide-bomber-detonates-a-bomb-at-a-religious-gathering-in-karachi-pakistan-killing-at-least-47-and-injuring-more-than-80-ce.md)
-_Context: Mawlid al-Nabi, suicide attack, Karachi_
+_Context: suicide attack, Karachi, Mawlid al-Nabi_
 
 ##### Bernardo Provenzano
 ### [ Bernardo Provenzano, boss of the Sicilian Mafia ("capo di tutti i capi"), is caught near the town of Corleone. ](/news/2006/04/11/bernardo-provenzano-boss-of-the-sicilian-mafia-capo-di-tutti-i-capi-is-caught-near-the-town-of-corleone.md)
-_Context: Corleone, Sicily, Mafia, Bernardo Provenzano_
+_Context: Bernardo Provenzano, Mafia, Corleone, Sicily_
 
 ##### Venus Express
 ### [ The "Venus Express" spacecraft of the European Space Agency approaches Venus approximately five months after it was launched and starts its main engine burn to slow itself down and allow the capture into orbit around Venus. ](/news/2006/04/11/the-venus-express-spacecraft-of-the-european-space-agency-approaches-venus-approximately-five-months-after-it-was-launched-and-starts-its.md)
@@ -21,11 +21,11 @@ _Context: Corleone, Sicily, Mafia, Bernardo Provenzano_
 
 ##### Sri Lankan Civil War
 ### [ Sri Lankan Civil War: a bus carrying soldiers from Trincomalee hits a claymore mine, killing 10 navy sailors, their driver and leaving another eight wounded. A pair of British tourists are also injured in the blast. ](/news/2006/04/11/sri-lankan-civil-war-a-bus-carrying-soldiers-from-trincomalee-hits-a-claymore-mine-killing-10-navy-sailors-their-driver-and-leaving-anot.md)
-_Context: Sri Lankan Civil War, claymore, Trincomalee, Sri Lankan Navy_
+_Context: claymore, Trincomalee, Sri Lankan Civil War, Sri Lankan Navy_
 
 ##### President
 ### [ Iranian President Mahmoud Ahmadinejad announces that Iran has successfully enriched uranium. In a televised address from the northeastern city of Mashhad, Ahmadinejad said "I am officially announcing that Iran has joined the group of those countries which have nuclear technology". ](/news/2006/04/11/iranian-president-mahmoud-ahmadinejad-announces-that-iran-has-successfully-enriched-uranium-in-a-televised-address-from-the-northeastern-c.md)
-_Context: enriched uranium, President, Mashhad, Iran, Mahmoud Ahmadinejad_
+_Context: Mahmoud Ahmadinejad, Mashhad, enriched uranium, President, Iran_
 
 ## [Previous Day...](/news/2006/04/10/index.md)
 

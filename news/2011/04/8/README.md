@@ -5,7 +5,7 @@ Formats: [HTML](2011/04/8/index.html)  [JSON](2011/04/8/index.json)  [XML](2011/
 
 ##### Israel
 ### [At least 12 Palestinians, including 3 civilians, are killed by Israeli air strikes in Gaza in response to numerous mortar and rocket attacks. ](/news/2011/04/8/at-least-12-palestinians-including-3-civilians-are-killed-by-israeli-air-strikes-in-gaza-in-response-to-numerous-mortar-and-rocket-attacks.md)
-_Context: Gaza Strip, Israel, Palestinian rocket attacks on Israel_
+_Context: Palestinian rocket attacks on Israel, Israel, Gaza Strip_
 
 ##### Mosque
 ### [Prominent religious leader Maulvi Showkat Ahmed Shah is killed when explosives attached to a bicycle are detonated outside a mosque in Srinagar, Kashmir, thought to be the first attack of its kind in about two years. The capital's shops shut down and traffic is suspended. ](/news/2011/04/8/prominent-religious-leader-maulvi-showkat-ahmed-shah-is-killed-when-explosives-attached-to-a-bicycle-are-detonated-outside-a-mosque-in-srina.md)
@@ -29,11 +29,11 @@ The European Union believes it can complete the Portuguese bail-out, set to be w
 
 ##### Department of Justice
 ### [The United States Department of Justice defends its probing of WikiLeaks-related Twitter accounts and dismisses as "absurd" any privacy and freedom of speech concerns. ](/news/2011/04/8/the-united-states-department-of-justice-defends-its-probing-of-wikileaks-related-twitter-accounts-and-dismisses-as-absurd-any-privacy-and.md)
-_Context: Twitter, Department of Justice, WikiLeaks, freedom of speech_
+_Context: Twitter, WikiLeaks, Department of Justice, freedom of speech_
 
 ##### Wayne Swan
 ### [Wayne Swan, the Treasurer of Australia, formally rejects an offer by the Singapore Exchange for the Australian Stock Exchange following advice from the Foreign Investment Review Board. ](/news/2011/04/8/wayne-swan-the-treasurer-of-australia-formally-rejects-an-offer-by-the-singapore-exchange-for-the-australian-stock-exchange-following-advi.md)
-_Context: Wayne Swan, Singapore Exchange, Treasurer of Australia, Australian Stock Exchange_
+_Context: Treasurer of Australia, Wayne Swan, Australian Stock Exchange, Singapore Exchange_
 
 ##### 
 ### [Virtual economies in online games have become a billion dollar industry. ](/news/2011/04/8/virtual-economies-in-online-games-have-become-a-billion-dollar-industry.md)
@@ -49,7 +49,7 @@ U.S. biotechnology company Amgen Inc (AMGN.O) is expanding in Brazil, announcing
 
 ##### Aftershock
 ### [The death toll from yesterday's aftershock from the 2011 Tohoku earthquake and tsunami rises to three and 140 wounded. ](/news/2011/04/8/the-death-toll-from-yesterday-s-aftershock-from-the-2011-tahoku-earthquake-and-tsunami-rises-to-three-and-140-wounded.md)
-_Context: 2011 Tohoku earthquake and tsunami, aftershock_
+_Context: aftershock, 2011 Tohoku earthquake and tsunami_
 
 ##### Sandstorm
 ### [Eight people are killed and 130 injured in a massive car pile-up caused by a sandstorm on the German autobahn A 19 near Rostock. The pile-up involves about 80 vehicles and causes at least 30 of them to catch fire, making it the worst accident in the state of Mecklenburg-Vorpommern. ](/news/2011/04/8/eight-people-are-killed-and-130-injured-in-a-massive-car-pile-up-caused-by-a-sandstorm-on-the-german-autobahn-a-19-near-rostock-the-pile-up.md)
@@ -61,7 +61,7 @@ Three Chinese children die and 35 others, mostly children, fall ill with suspect
 
 ##### Nursultan Nazarbayev
 ### [Nursultan Nazarbayev is sworn in as President of Kazakhstan for another five year term, in a vote criticized as flawed. ](/news/2011/04/8/nursultan-nazarbayev-is-sworn-in-as-president-of-kazakhstan-for-another-five-year-term-in-a-vote-criticized-as-flawed.md)
-_Context: Nursultan Nazarbayev, Kazakhstan, President_
+_Context: President, Nursultan Nazarbayev, Kazakhstan_
 
 ##### Kenya
 ### [Three officials from Kenya, including the deputy prime minister, go on trial at the International Criminal Court (ICC). ](/news/2011/04/8/three-officials-from-kenya-including-the-deputy-prime-minister-go-on-trial-at-the-international-criminal-court-icc.md)

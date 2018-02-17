@@ -25,19 +25,19 @@ A massive grid failure inDelhi and much of northern India left more than 300 mil
 
 ##### Bratoszewice
 ### [Nine people are killed after a train crash in Bratoszewice in Poland. ](/news/2012/07/30/nine-people-are-killed-after-a-train-crash-in-bratoszewice-in-poland.md)
-_Context: Poland, Bratoszewice_
+_Context: Bratoszewice, Poland_
 
 ##### U.S. Bank Arena
 ### [A fire ignites at the U.S. Bank Arena in Cincinnati during pyrotechnic testing before "WWE Raw". No one was injured. ](/news/2012/07/30/a-fire-ignites-at-the-u-s-bank-arena-in-cincinnati-during-pyrotechnic-testing-before-wwe-raw-no-one-was-injured.md)
-_Context: WWE Raw, U.S. Bank Arena, Cincinnati, Ohio_
+_Context: Cincinnati, Ohio, U.S. Bank Arena, WWE Raw_
 
 ##### Bank fraud
 ### [Four people are sentenced to death for their involvement in a bank fraud scandal in Iran. ](/news/2012/07/30/four-people-are-sentenced-to-death-for-their-involvement-in-a-bank-fraud-scandal-in-iran.md)
-_Context: Iran, bank fraud_
+_Context: bank fraud, Iran_
 
 ##### Brazil
 ### [Brazilian President Dilma Rousseff convenes a truth commission to investigate Brazil's military dictatorship. ](/news/2012/07/30/brazilian-president-dilma-rousseff-convenes-a-truth-commission-to-investigate-brazil-s-military-dictatorship.md)
-_Context: Dilma Rousseff, Brazil, Brazilian military government_
+_Context: Brazilian military government, Brazil, Dilma Rousseff_
 
 ##### Romania
 ### [Romanian President Traian Basescu could survive the referendum on his impeachment that shows a massive vote against him but under 50% turnout.The Constitutional Court of Romania will give the final word on whether to validate the referendum later this week.](/news/2012/07/30/romanian-president-traian-basescu-could-survive-the-referendum-on-his-impeachment-that-shows-a-massive-vote-against-him-but-under-50-turno.md)

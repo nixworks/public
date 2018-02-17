@@ -5,7 +5,7 @@ Formats: [HTML](2014/03/11/index.html)  [JSON](2014/03/11/index.json)  [XML](201
 
 ##### Kabul
 ### [Gunmen in Kabul, Afghanistan kill Swedish Radio foreign correspondent Nils Horner. ](/news/2014/03/11/gunmen-in-kabul-afghanistan-kill-swedish-radio-foreign-correspondent-nils-horner.md)
-_Context: Afghan, Swedish Radio, Kabul, Nils Horner_
+_Context: Afghan, Nils Horner, Swedish Radio, Kabul_
 
 ##### Maoist
 ### [Maoist rebels ambush an Indian paramilitary force in Chhattisgarh, India, killing 18 soldiers. ](/news/2014/03/11/maoist-rebels-ambush-an-indian-paramilitary-force-in-chhattisgarh-india-killing-18-soldiers.md)
@@ -33,7 +33,7 @@ Total indicates that $14.02 million worth of recreational pot was sold.
 
 ##### Men's Wearhouse
 ### [Men's Wearhouse buys rival JoS. A. Bank Clothiers for $1.8 billion. ](/news/2014/03/11/men-s-wearhouse-buys-rival-jos-a-bank-clothiers-for-1-8-billion.md)
-_Context: JoS. A. Bank Clothiers, Men's Wearhouse_
+_Context: Men's Wearhouse, JoS. A. Bank Clothiers_
 
 ##### Chinese Coast Guard
 ### [Two Philippine ships are expelled by the Chinese Coast Guard from Ayungin Shoal in the Spratly group of islands. ](/news/2014/03/11/two-philippine-ships-are-expelled-by-the-chinese-coast-guard-from-ayungin-shoal-in-the-spratly-group-of-islands.md)
@@ -43,7 +43,7 @@ _Context: Spratly Islands, Chinese Coast Guard_
 ### [The search of one of Congress's stand-alone computers is referred to the Justice Department for investigation. ](/news/2014/03/11/the-search-of-one-of-congress-s-stand-alone-computers-is-referred-to-the-justice-department-for-investigation.md)
 ##### Caribbean
 ### [Fourteen Caribbean nations file a lawsuit against the United Kingdom, France, and the Netherlands for damages caused during the Atlantic slave trade. ](/news/2014/03/11/fourteen-caribbean-nations-file-a-lawsuit-against-the-united-kingdom-france-and-the-netherlands-for-damages-caused-during-the-atlantic-sla.md)
-_Context: United Kingdom, Caribbean, Atlantic slave trade, France, Netherlands_
+_Context: United Kingdom, Netherlands, France, Atlantic slave trade, Caribbean_
 
 ##### Joran van der Sloot
 ### [Joran van der Sloot faces an extradition case in the United States. ](/news/2014/03/11/joran-van-der-sloot-faces-an-extradition-case-in-the-united-states.md)

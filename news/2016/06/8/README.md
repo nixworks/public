@@ -33,11 +33,11 @@ An Eritrean man thought to be at the heart of the operation to smuggle migrants 
 
 ##### Governor
 ### [Governor John Kasich signs a bill legalizing medical marijuana, making Ohio the 25th state in America to approve its use. ](/news/2016/06/8/governor-john-kasich-signs-a-bill-legalizing-medical-marijuana-making-ohio-the-25th-state-in-america-to-approve-its-use.md)
-_Context: Ohio, United States, John Kasich, medical marijuana, Governor_
+_Context: medical marijuana, Governor, John Kasich, Ohio, United States_
 
 ##### International Union of Pure and Applied Chemistry
 ### [The International Union of Pure and Applied Chemistry proposes final names for four new chemical elements: nihonium (atomic number 113), moscovium (#115), tennessine (#117), and oganesson (#118). ](/news/2016/06/8/the-international-union-of-pure-and-applied-chemistry-proposes-final-names-for-four-new-chemical-elements-nihonium-atomic-number-113-mos.md)
-_Context: final names, nihonium, moscovium, International Union of Pure and Applied Chemistry, new chemical elements, tennessine, atomic number, oganesson_
+_Context: new chemical elements, oganesson, moscovium, final names, tennessine, nihonium, International Union of Pure and Applied Chemistry, atomic number_
 
 ## [Previous Day...](/news/2016/06/7/index.md)
 

@@ -21,11 +21,11 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 
 ##### Vietnam
 ### [ Vietnam bans ownership of pet hamsters. ](/news/2008/03/8/vietnam-bans-ownership-of-pet-hamsters.md)
-_Context: hamster, Vietnam_
+_Context: Vietnam, hamster_
 
 ##### Malaysia
 ### [ Malaysians go to the polls for the Malaysian general election, 2008. The Barisan National secures another term in government, but suffers its worst performance since the country's independence in 1957. ](/news/2008/03/8/malaysians-go-to-the-polls-for-the-malaysian-general-election-2008-the-barisan-national-secures-another-term-in-government-but-suffers-i.md)
-_Context: Barisan National, Malaysia, Malaysian general election, 2008_
+_Context: Malaysian general election, 2008, Malaysia, Barisan National_
 
 ##### United States
 ### [ The United States and Iraq commence talks about the future of relationships between the two nations including a longer term US military presence in Iraq. ](/news/2008/03/8/the-united-states-and-iraq-commence-talks-about-the-future-of-relationships-between-the-two-nations-including-a-longer-term-us-military-pre.md)

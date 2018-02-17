@@ -9,7 +9,7 @@ Britain&#39;s Chancellor of the Exchequer is among nine cabinet members who alle
 
 ##### Tsakhiagiin Elbegdorj
 ### [ Tsakhiagiin Elbegdorj of the Democratic Party is elected as President of Mongolia. ](/news/2009/05/25/tsakhiagiin-elbegdorj-of-the-democratic-party-is-elected-as-president-of-mongolia.md)
-_Context: Democratic Party, Tsakhiagiin Elbegdorj, Mongolia, President of Mongolia, elected_
+_Context: Mongolia, elected, President of Mongolia, Tsakhiagiin Elbegdorj, Democratic Party_
 
 ##### North Korea
 ### [ North Korea conducts its second nuclear test. ](/news/2009/05/25/north-korea-conducts-its-second-nuclear-test.md)
@@ -17,11 +17,11 @@ North Korea&#039;s state media has confirmed the communist state has conducted a
 
 ##### Singapore
 ### [ Singapore's consumer price index decreased by 1.5% in April, its largest recorded decline. ](/news/2009/05/25/singapore-s-consumer-price-index-decreased-by-1-5-in-april-its-largest-recorded-decline.md)
-_Context: consumer price index, 4th quarter of 2007 and the second quarter of 2009, Singapore_
+_Context: consumer price index, Singapore, 4th quarter of 2007 and the second quarter of 2009_
 
 ##### Somalia
 ### [ Somali President Sharif Ahmed requests international aid in combating Islamic militants. ](/news/2009/05/25/somali-president-sharif-ahmed-requests-international-aid-in-combating-islamic-militants.md)
-_Context: Sharif Ahmed, militant, Islamists, Somalia, declares, assistance, President_
+_Context: Somalia, President, Islamists, Sharif Ahmed, militant, declares, assistance_
 
 ## [Previous Day...](/news/2009/05/24/index.md)
 

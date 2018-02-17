@@ -9,7 +9,7 @@ A rogue officer who &quot;went berserk&quot; was responsible for an attack on a 
 
 ##### 2016 Nice attack
 ### [A truck plows into a mass of revelers during the Bastille Day fireworks on the Promenade des Anglais in Nice, France, with a death toll as high as 80 and 100 people injured. ](/news/2016/07/14/a-truck-plows-into-a-mass-of-revelers-during-the-bastille-day-fireworks-on-the-promenade-des-anglais-in-nice-france-with-a-death-toll-as-h.md)
-_Context: 2016 Nice attack, Nice, France, Bastille Day, Promenade des Anglais_
+_Context: 2016 Nice attack, Bastille Day, Promenade des Anglais, Nice, France_
 
 ##### 68th Primetime Emmy Awards
 ### [The nominees are announced in Los Angeles. "Game of Thrones", "Veep" and "The People v. O. J. Simpson: American Crime Story" lead in nominations. ](/news/2016/07/14/the-nominees-are-announced-in-los-angeles-game-of-thrones-veep-and-the-people-v-o-j-simpson-american-crime-story-lead-in-nominat.md)
@@ -21,7 +21,7 @@ France calls on former European Commission head, Jose Manuel Barroso, not to tak
 
 ##### United States Supreme Court
 ### [United States Supreme Court Justice Ruth Bader Ginsburg apologizes for remarks she made earlier in the week to a number of news outlets criticizing presumptive Republican presidential nominee Donald Trump. ](/news/2016/07/14/united-states-supreme-court-justice-ruth-bader-ginsburg-apologizes-for-remarks-she-made-earlier-in-the-week-to-a-number-of-news-outlets-crit.md)
-_Context: United States Supreme Court, Ruth Bader Ginsburg, Donald Trump_
+_Context: Ruth Bader Ginsburg, Donald Trump, United States Supreme Court_
 
 ##### May ministry
 ### [Elizabeth Truss is named Secretary of State for Justice and first ever female Lord Chancellor of the United Kingdom as former chancellor Michael Gove is ousted from the cabinet. ](/news/2016/07/14/elizabeth-truss-is-named-secretary-of-state-for-justice-and-first-ever-female-lord-chancellor-of-the-united-kingdom-as-former-chancellor-mic.md)

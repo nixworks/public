@@ -5,7 +5,7 @@ Formats: [HTML](2012/08/19/index.html)  [JSON](2012/08/19/index.json)  [XML](201
 
 ##### More than 80 have been killed
 ### [A photo journalist is ambushed and killed by unknown assailants while driving a vehicle in Chihuahua, Chihuahua. ](/news/2012/08/19/a-photo-journalist-is-ambushed-and-killed-by-unknown-assailants-while-driving-a-vehicle-in-chihuahua-chihuahua.md)
-_Context: Chihuahua, Chihuahua, more than 80 have been killed_
+_Context: more than 80 have been killed, Chihuahua, Chihuahua_
 
 ##### Syrian civil war
 ### [Syrian civil war: At least 19 people are killed across Syria in ongoing violence on Eid-ul-Fitr holiday. President Assad makes a public appearance, praying in Damascus. Lakhdar Brahimi accepts to become the new UN envoy. ](/news/2012/08/19/syrian-civil-war-at-least-19-people-are-killed-across-syria-in-ongoing-violence-on-eid-ul-fitr-holiday-president-assad-makes-a-public-appe.md)
@@ -21,11 +21,11 @@ The names of the New Zealand soldiers killed in Afghanistan overnight have been 
 
 ##### Suicide bombing
 ### [Seven policemen are killed and at least eight wounded in a suicide bombing attack in Russia's North Caucasus republic of Ingushetia. ](/news/2012/08/19/seven-policemen-are-killed-and-at-least-eight-wounded-in-a-suicide-bombing-attack-in-russia-s-north-caucasus-republic-of-ingushetia.md)
-_Context: suicide bombing, Ingushetia, North Caucasus, Russia_
+_Context: Ingushetia, Russia, North Caucasus, suicide bombing_
 
 ##### Sonia Gandhi
 ### [Sonia Gandhi says stern action should happen against those responsible for the violence in Assam and the social media messages that drove 30,000 migrant workers out of their homes in South India. ](/news/2012/08/19/sonia-gandhi-says-stern-action-should-happen-against-those-responsible-for-the-violence-in-assam-and-the-social-media-messages-that-drove-30.md)
-_Context: social media, India, violence, Sonia Gandhi_
+_Context: Sonia Gandhi, violence, India, social media_
 
 ##### Tony Scott
 ### [British-born film director Tony Scott dies after leaping 200ft from the Vincent Thomas Bridge in Los Angeles. ](/news/2012/08/19/british-born-film-director-tony-scott-dies-after-leaping-200ft-from-the-vincent-thomas-bridge-in-los-angeles.md)
@@ -37,7 +37,7 @@ A Sudanese government minister and other officials die as a plane carrying some 
 
 ##### Palu
 ### [Four people are killed in a magnitude 6.6 earthquake near the city of Palu, Sulawesi in Indonesia. ](/news/2012/08/19/four-people-are-killed-in-a-magnitude-6-6-earthquake-near-the-city-of-palu-sulawesi-in-indonesia.md)
-_Context: Palu, Sulawesi island, Indonesia_
+_Context: Indonesia, Sulawesi island, Palu_
 
 ##### Typhoon Kai-tak
 ### [Typhoon Kai-tak hits southeast China, leaving at least two people dead and affecting 530,000. At least 27 people are reported dead in north Vietnam. ](/news/2012/08/19/typhoon-kai-tak-hits-southeast-china-leaving-at-least-two-people-dead-and-affecting-530-000-at-least-27-people-are-reported-dead-in-north.md)
@@ -49,7 +49,7 @@ A magnitude 5.6 earthquake struck off the coast of the West Coast state of Washi
 
 ##### Keith O'Brien
 ### [Scotland's Roman Catholic leader Cardinal Keith O'Brien suspends direct communication with the Scottish government on same-sex marriage. ](/news/2012/08/19/scotland-s-roman-catholic-leader-cardinal-keith-o-brien-suspends-direct-communication-with-the-scottish-government-on-same-sex-marriage.md)
-_Context: same-sex marriage, Keith O'Brien_
+_Context: Keith O'Brien, same-sex marriage_
 
 ##### Nuclear waste gases
 ### [Radioactive contamination causes hereditary genetic mutations in life forms. This has been proven on butterfly generations. At stated times, the effect on humans remains unclear. ](/news/2012/08/19/radioactive-contamination-causes-hereditary-genetic-mutations-in-life-forms-this-has-been-proven-on-butterfly-generations-at-stated-times.md)
@@ -61,7 +61,7 @@ At least 10 Japanese nationalist activists have landed on a group of disputed is
 
 ##### WikiLeaks
 ### [In the stand-off between Britain and Ecuador over Julian Assange, WikiLeaks founder Julian Assange gives a speech critical of the United States' policy against Wikileaks, "dragging us all in a dark, repressive world in which journalists live under fear of prosecution", from the balcony of Ecuador's London embassy. ](/news/2012/08/19/in-the-stand-off-between-britain-and-ecuador-over-julian-assange-wikileaks-founder-julian-assange-gives-a-speech-critical-of-the-united-sta.md)
-_Context: Ecuador, United States, London, Julian Assange, WikiLeaks_
+_Context: London, WikiLeaks, Julian Assange, Ecuador, United States_
 
 ##### Secretary of State for Work and Pensions
 ### [It is reported that UK Work and Pensions Secretary Iain Duncan Smith's department has made a formal complaint to the BBC over claims of anti-Government bias, as Duncan Smith himself attacks the Corporation in a "Mail on Sunday" article for what he perceives to be its negative stance towards the coalition. ](/news/2012/08/19/it-is-reported-that-uk-work-and-pensions-secretary-iain-duncan-smith-s-department-has-made-a-formal-complaint-to-the-bbc-over-claims-of-anti.md)

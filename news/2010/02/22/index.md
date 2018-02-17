@@ -17,7 +17,7 @@ President Hugo Chavez delivered a bizarre attack on the Queen when the firebrand
 
 ##### Robert Mugabe
 ### [China throws a surprise 86th birthday party for President Robert Mugabe in its Zimbabwe embassy in Harare, the first time Mugabe visited a foreign embassy in the country since Zimbabwe won independence in 1980. ](/news/2010/02/22/china-throws-a-surprise-86th-birthday-party-for-president-robert-mugabe-in-its-zimbabwe-embassy-in-harare-the-first-time-mugabe-visited-a-f.md)
-_Context: Robert Mugabe, Harare, Zimbabwe_
+_Context: Harare, Robert Mugabe, Zimbabwe_
 
 ##### European Union
 ### [Foreign ministers from the European Union meet in Brussels and "strongly condemn" the use of forged passports from various European countries in the assassination of Mahmoud al-Mabhouh. ](/news/2010/02/22/foreign-ministers-from-the-european-union-meet-in-brussels-and-strongly-condemn-the-use-of-forged-passports-from-various-european-countrie.md)
@@ -25,7 +25,7 @@ Minister for Foreign Affairs Micheál Martin has said his Israeli counterpart, A
 
 ##### Afghan
 ### [Afghanistan's government condemns a NATO air strike on a convoy of vehicles in Uruzgan province, in the south of the country, which killed at least 27 civilians. ](/news/2010/02/22/afghanistan-s-government-condemns-a-nato-air-strike-on-a-convoy-of-vehicles-in-uruzgan-province-in-the-south-of-the-country-which-killed-a.md)
-_Context: Uruzgan province, Afghan, NATO_
+_Context: NATO, Afghan, Uruzgan province_
 
 ##### Conference of the German Bishops
 ### [Conference of the German Bishops chairman Archbishop Robert Zollitsch formally apologises to those who went through sexual abuse as children after fresh controversy surrounding the issue at the beginning of this year. ](/news/2010/02/22/conference-of-the-german-bishops-chairman-archbishop-robert-zollitsch-formally-apologises-to-those-who-went-through-sexual-abuse-as-children.md)
@@ -45,7 +45,7 @@ _Context: Lufthansa_
 
 ##### Odeon & UCI Cinemas Group
 ### [Odeon Cinemas in Ireland, Italy and the UK confirm their intention to boycott Tim Burton's "Alice in Wonderland" in a dispute with Disney. ](/news/2010/02/22/odeon-cinemas-in-ireland-italy-and-the-uk-confirm-their-intention-to-boycott-tim-burton-s-alice-in-wonderland-in-a-dispute-with-disney.md)
-_Context: Tim Burton, Disney, Odeon & UCI Cinemas Group, Italy, Alice in Wonderland_
+_Context: Italy, Alice in Wonderland, Disney, Odeon & UCI Cinemas Group, Tim Burton_
 
 ## [Previous Day...](/news/2010/02/21/index.md)
 

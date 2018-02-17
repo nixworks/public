@@ -9,7 +9,7 @@ Forecasters said rainfall could total 2 to 4 inches in mountainous areas of sout
 
 ##### Komlan Mally
 ### [ Komlan Mally resigns as prime minister of Togo, after less than a year in office. ](/news/2008/09/6/komlan-mally-resigns-as-prime-minister-of-togo-after-less-than-a-year-in-office.md)
-_Context: Togo, Komlan Mally, prime minister_
+_Context: prime minister, Togo, Komlan Mally_
 
 ##### Nuclear Suppliers Group
 ### [ Nuclear Suppliers Group clears Indo-US nuclear deal. ](/news/2008/09/6/nuclear-suppliers-group-clears-indo-us-nuclear-deal.md)

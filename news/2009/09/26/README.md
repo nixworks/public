@@ -13,7 +13,7 @@ The Minister of State with responsibility for Overseas Development has delivered
 
 ##### Metro Manila
 ### [ At least 10 people are dead in Metro Manila after Tropical Storm Ketsana hits the northern Philippines. ](/news/2009/09/26/at-least-10-people-are-dead-in-metro-manila-after-tropical-storm-ketsana-hits-the-northern-philippines.md)
-_Context: Metro Manila, Tropical Storm Ketsana, Philippines_
+_Context: Philippines, Tropical Storm Ketsana, Metro Manila_
 
 ##### Detainees
 ### [ Three detainees held by the United States at Guantanamo Bay in Cuba, are sent abroad to two countries. Ireland accepts two detainees of Uzbeki origin in a humanitarian gesture, with Minister for Justice, Equality and Law Reform Dermot Ahern saying Ireland was one of the first countries in Europe to call for the closure of Guantanamo Bay and that the two men would now be given time to rebuild their lives. ](/news/2009/09/26/three-detainees-held-by-the-united-states-at-guanta-namo-bay-in-cuba-are-sent-abroad-to-two-countries-ireland-accepts-two-detainees-of-uz.md)
@@ -21,7 +21,7 @@ Three detainees held at the U.S. military prison at Guantanamo Bay, Cuba, have b
 
 ##### Kenya
 ### [ Kenyan President Mwai Kibaki writes to President of the United States Barack Obama to express his concern and disappointment over threats it has received from that country concerning a travel ban on Kenyan officials it blames for hindering reforms. ](/news/2009/09/26/kenyan-president-mwai-kibaki-writes-to-president-of-the-united-states-barack-obama-to-express-his-concern-and-disappointment-over-threats-i.md)
-_Context: Mwai Kibaki, president, Kenya, U.S. President, Barack Obama_
+_Context: Kenya, U.S. President, Mwai Kibaki, Barack Obama, president_
 
 ##### Car bomb
 ### [ Two car bomb blasts kill at least 12 people in northwestern Pakistan. ](/news/2009/09/26/two-car-bomb-blasts-kill-at-least-12-people-in-northwestern-pakistan.md)
@@ -29,7 +29,7 @@ Police officers and civilians among casualties of car-bomb attacks in Bannu and 
 
 ##### President
 ### [ Iranian President Mahmoud Ahmadinejad rejects U.S. President Barack Obama's accusation about Iran's nuclear program. ](/news/2009/09/26/iranian-president-mahmoud-ahmadinejad-rejects-u-s-president-barack-obama-s-accusation-about-iran-s-nuclear-program.md)
-_Context: nuclear program, President, Mahmoud Ahmadinejad, Barack Obama, U.S. President_
+_Context: Barack Obama, nuclear program, President, U.S. President, Mahmoud Ahmadinejad_
 
 ##### Korean War
 ### [ Families separated for over 50 years since the Korean War meet at the Kumgangsan resort, North Korea. ](/news/2009/09/26/families-separated-for-over-50-years-since-the-korean-war-meet-at-the-kamgangsan-resort-north-korea.md)
@@ -37,7 +37,7 @@ _Context: Mount Kumgang resort, North Korea, Korean War_
 
 ##### Mass grave
 ### [ Two mass graves linked to Colombia's internal conflict are discovered. ](/news/2009/09/26/two-mass-graves-linked-to-colombia-s-internal-conflict-are-discovered.md)
-_Context: mass grave, Colombia, internal conflict_
+_Context: Colombia, internal conflict, mass grave_
 
 ##### Second dust storm
 ### [ A second dust storm hits Sydney, Australia. ](/news/2009/09/26/a-second-dust-storm-hits-sydney-australia.md)
@@ -53,15 +53,15 @@ Europe’s 22 biggest banks may have accumulated about 400 billion euros in cred
 
 ##### Geelong
 ### [ Geelong defeats St Kilda in the 2009 AFL Grand Final at the Melbourne Cricket Ground.](/news/2009/09/26/geelong-defeats-st-kilda-in-the-2009-afl-grand-final-at-the-melbourne-cricket-ground.md)
-_Context: St Kilda Football Club, Geelong, Melbourne Cricket Ground, 2009 AFL Grand Final_
+_Context: 2009 AFL Grand Final, St Kilda Football Club, Melbourne Cricket Ground, Geelong_
 
 ##### Spain
 ### [ The Spanish government formally unveils plans to liberalise the country's abortion law. ](/news/2009/09/26/the-spanish-government-formally-unveils-plans-to-liberalise-the-country-s-abortion-law.md)
-_Context: Spain, abortion_
+_Context: abortion, Spain_
 
 ##### Nigeria
 ### [ Nigerian President Umaru Yar'Adua returns to Abuja after a visit to Saudi Arabia. ](/news/2009/09/26/nigerian-president-umaru-yar-adua-returns-to-abuja-after-a-visit-to-saudi-arabia.md)
-_Context: Saudi Arabia, Nigeria, President, Abuja, Umaru Yar'Adua_
+_Context: Abuja, President, Saudi Arabia, Umaru Yar'Adua, Nigeria_
 
 ##### Pope Benedict XVI
 ### [ Pope Benedict XVI's robes are graced by a spider as he addresses politicians and diplomats in Prague. ](/news/2009/09/26/pope-benedict-xvi-s-robes-are-graced-by-a-spider-as-he-addresses-politicians-and-diplomats-in-prague.md)

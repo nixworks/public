@@ -5,7 +5,7 @@ Formats: [HTML](2016/06/23/index.html)  [JSON](2016/06/23/index.json)  [XML](201
 
 ##### Boko Haram insurgency
 ### [According to Medecins Sans Frontieres, more than 1,200 people have died of starvation and illness at a refugee camp for those fleeing Boko Haram in northeastern Nigeria. ](/news/2016/06/23/according-to-ma-c-decins-sans-frontia-res-more-than-1-200-people-have-died-of-starvation-and-illness-at-a-refugee-camp-for-those-fleeing-boko.md)
-_Context: Boko Haram insurgency, Boko Haram, Medecins Sans Frontieres, Nigeria_
+_Context: Medecins Sans Frontieres, Boko Haram, Nigeria, Boko Haram insurgency_
 
 ##### 2016 Jiangsu tornado
 ### [A tornado, accompanied by heavy rainfall and hailstones, kills at least 98 people and injures 800 in the eastern Chinese province of Jiangsu ](/news/2016/06/23/a-tornado-accompanied-by-heavy-rainfall-and-hailstones-kills-at-least-98-people-and-injures-800-in-the-eastern-chinese-province-of-jiangsu.md)
@@ -37,21 +37,21 @@ Kuwaiti government has filed a lawsuit against the Olympic body for more than $1
 
 ##### Death of Freddie Gray
 ### [Baltimore police officer Caesar Goodson is cleared of all charges for the murder of Freddie Gray, a black detainee, on April 19, 2015. ](/news/2016/06/23/baltimore-police-officer-caesar-goodson-is-cleared-of-all-charges-for-the-murder-of-freddie-gray-a-black-detainee-on-april-19-2015.md)
-_Context: Baltimore, Death of Freddie Gray_
+_Context: Death of Freddie Gray, Baltimore_
 
 ##### Viernheim shooting
 ### [An unidentified man who had been reported to have fired shots inside a theater has been shot dead by police in Viernheim, Germany. No other fatalities were reported. ](/news/2016/06/23/an-unidentified-man-who-had-been-reported-to-have-fired-shots-inside-a-theater-has-been-shot-dead-by-police-in-viernheim-germany-no-other.md)
-_Context: German, Viernheim shooting, Viernheim_
+_Context: Viernheim, German, Viernheim shooting_
 
 ##### European Union membership referendum
 ### [Voters in the United Kingdom go to the polls to vote in a referendum on whether the UK should leave the European Union. ](/news/2016/06/23/voters-in-the-united-kingdom-go-to-the-polls-to-vote-in-a-referendum-on-whether-the-uk-should-leave-the-european-union.md)
-_Context: European Union membership referendum, European Union, United Kingdom_
+_Context: European Union, European Union membership referendum, United Kingdom_
 
 ##### Colombian conflict
 ### [The government of Colombia and FARC rebels sign a ceasefire deal, putting an end to 50 years of conflict in the country between the two sides. ](/news/2016/06/23/the-government-of-colombia-and-farc-rebels-sign-a-ceasefire-deal-putting-an-end-to-50-years-of-conflict-in-the-country-between-the-two-side.md)
 The Colombian government and leftist Farc rebels sign a ceasefire deal to end five decades of conflict which claimed some 220,000 lives.
 
-##### 2016 U.S. presidential election
+##### 2016 U.S. election
 ### [A federal district judge, in a suit brought by the American Civil Liberties Union, rules Cleveland's regulations governing protests and marches during next month's Republican National Convention infringe on the right of free expression. Judge James Gwin orders both sides into mediation to begin negotiating new rules with another federal judge overseeing those talks. ](/news/2016/06/23/a-federal-district-judge-in-a-suit-brought-by-the-american-civil-liberties-union-rules-cleveland-s-regulations-governing-protests-and-marc.md)
 CLEVELAND (AP) — A federal judge on Thursday ruled that Cleveland&#039;s regulations governing protests and marches during next month&#039;s Republican National Convention infringe on the right of free expression and he ordered…
 

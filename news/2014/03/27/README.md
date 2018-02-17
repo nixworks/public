@@ -33,7 +33,7 @@ VATICAN CITY -- Greeting a man he has called an “inspiration,” President Oba
 
 ##### General Assembly of the United Nations
 ### [The General Assembly of the United Nations passes a motion condemning the Russian annexation of Crimea. ](/news/2014/03/27/the-general-assembly-of-the-united-nations-passes-a-motion-condemning-the-russian-annexation-of-crimea.md)
-_Context: Crimea, Russia, General Assembly of the United Nations_
+_Context: Russia, General Assembly of the United Nations, Crimea_
 
 ##### Martin Callinan
 ### [As the scandal rages on, it emerges Martin Callinan, who resigned as Garda Commissioner this week, wished to withdraw his use of the word "disgusting" to describe the behaviour of whistleblowers but was prevented from doing so by officials in the Department of Justice. ](/news/2014/03/27/as-the-scandal-rages-on-it-emerges-martin-callinan-who-resigned-as-garda-commissioner-this-week-wished-to-withdraw-his-use-of-the-word-d.md)
@@ -41,11 +41,11 @@ The former garda commissioner delayed withdrawing his use of the word &quot;disg
 
 ##### Philippines
 ### [Philippines signs a peace accord with the largest Muslim rebel group, the Moro Islamic Liberation Front, ending decades of conflict. The Comprehensive Agreement on Bangsamoro will pave way for autonomous Bangsamoro. ](/news/2014/03/27/philippines-signs-a-peace-accord-with-the-largest-muslim-rebel-group-the-moro-islamic-liberation-front-ending-decades-of-conflict-the-com.md)
-_Context: Moro Islamic Liberation Front, Moro insurgency in the Philippines, Philippines, bill, Bangsamoro_
+_Context: Bangsamoro, bill, Philippines, Moro insurgency in the Philippines, Moro Islamic Liberation Front_
 
 ##### Iwao Hakamada
 ### [Iwao Hakamada, the world's longest serving death row inmate, is freed from a Japanese prison and granted a retrial after serving 48 years. ](/news/2014/03/27/iwao-hakamada-the-world-s-longest-serving-death-row-inmate-is-freed-from-a-japanese-prison-and-granted-a-retrial-after-serving-48-years.md)
-_Context: Iwao Hakamada, death row_
+_Context: death row, Iwao Hakamada_
 
 ##### Turkey
 ### [Turkey blocks access to YouTube after a high-level intelligence leak. ](/news/2014/03/27/turkey-blocks-access-to-youtube-after-a-high-level-intelligence-leak.md)

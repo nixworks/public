@@ -5,15 +5,15 @@ Formats: [HTML](2014/06/6/index.html)  [JSON](2014/06/6/index.json)  [XML](2014/
 
 ##### Abdullah Abdullah
 ### [Abdullah Abdullah of the National Coalition of Afghanistan, a frontrunner in the Afghan presidential election, survives a bombing attempt. ](/news/2014/06/6/abdullah-abdullah-of-the-national-coalition-of-afghanistan-a-frontrunner-in-the-afghan-presidential-election-survives-a-bombing-attempt.md)
-_Context: Afghan presidential election, 2014, Abdullah Abdullah, National Coalition of Afghanistan_
+_Context: National Coalition of Afghanistan, Afghan presidential election, 2014, Abdullah Abdullah_
 
 ##### Russian President
 ### [Russian President Vladimir Putin and Ukrainian President-elect Petro Poroshenko call for a quick and peaceful end to the violence in eastern Ukraine. ](/news/2014/06/6/russian-president-vladimir-putin-and-ukrainian-president-elect-petro-poroshenko-call-for-a-quick-and-peaceful-end-to-the-violence-in-eastern.md)
-_Context: Russian President, Petro Poroshenko, eastern Ukraine, Ukrainian President-elect, Vladimir Putin_
+_Context: eastern Ukraine, Ukrainian President-elect, Russian President, Petro Poroshenko, Vladimir Putin_
 
 ##### Tehreek-i-Taliban Pakistan
 ### [Ashiqullah Mehsud, a senior commander in the Tehreek-i-Taliban Pakistan, is shot and killed by unknown assailants, speculated to be from the Mehsud splinter group, in the village of Urmuz in the North Waziristan region of Pakistan. ](/news/2014/06/6/ashiqullah-mehsud-a-senior-commander-in-the-tehreek-i-taliban-pakistan-is-shot-and-killed-by-unknown-assailants-speculated-to-be-from-the.md)
-_Context: Tehreek-i-Taliban Pakistan, Mehsud, Pakistan, North Waziristan, Urmuz_
+_Context: Mehsud, Pakistan, Urmuz, Tehreek-i-Taliban Pakistan, North Waziristan_
 
 ##### Iraq
 ### [Attacks across Iraq kill 27 people. ](/news/2014/06/6/attacks-across-iraq-kill-27-people.md)
@@ -21,11 +21,11 @@ _Context: Iraq_
 
 ##### Normandy
 ### [World leaders travel to Normandy in France to commemorate the 70th anniversary of D-Day, the first day of the Western Allies Invasion of Normandy during World War II. ](/news/2014/06/6/world-leaders-travel-to-normandy-in-france-to-commemorate-the-70th-anniversary-of-d-day-the-first-day-of-the-western-allies-invasion-of-nor.md)
-_Context: D-Day, Western Allies, France, Invasion of Normandy, Normandy, World War II_
+_Context: France, World War II, D-Day, Invasion of Normandy, Normandy, Western Allies_
 
 ##### Nun
 ### [Nun turned singer Cristina Scuccia wins the seventh season of "The Voice of Italy". ](/news/2014/06/6/nun-turned-singer-cristina-scuccia-wins-the-seventh-season-of-the-voice-of-italy.md)
-_Context: Cristina Scuccia, Nun, The Voice of Italy_
+_Context: Nun, Cristina Scuccia, The Voice of Italy_
 
 ##### Vodafone Group Plc
 ### [Vodafone reveals that the governments of six countries have a permanent link to monitor communications throughout Vodafone's networks. ](/news/2014/06/6/vodafone-reveals-that-the-governments-of-six-countries-have-a-permanent-link-to-monitor-communications-throughout-vodafone-s-networks.md)
@@ -53,7 +53,7 @@ Chinese-born Australian artist Guo Jian, detained before the Tiananmen anniversa
 
 ##### Canadian police
 ### [Canadian police arrest Justin Bourque, wanted for the alleged murder of three Royal Canadian Mounted Police officers and shooting two others in Moncton, New Brunswick. ](/news/2014/06/6/canadian-police-arrest-justin-bourque-wanted-for-the-alleged-murder-of-three-royal-canadian-mounted-police-officers-and-shooting-two-others.md)
-_Context: Royal Canadian Mounted Police, murder, Moncton, New Brunswick, Canadian police_
+_Context: Royal Canadian Mounted Police, New Brunswick, Canadian police, Moncton, murder_
 
 ##### Diet
 ### [Japan's parliament moves to ban the possession of child pornography. ](/news/2014/06/6/japan-s-parliament-moves-to-ban-the-possession-of-child-pornography.md)
@@ -61,7 +61,7 @@ _Context: Diet, child pornography_
 
 ##### Prosecutors
 ### [Brazilian prosecutors are investigating allegations that organs are being illegally taken from unidentified bodies and sold for medical research. ](/news/2014/06/6/brazilian-prosecutors-are-investigating-allegations-that-organs-are-being-illegally-taken-from-unidentified-bodies-and-sold-for-medical-rese.md)
-_Context: prosecutors, organs_
+_Context: organs, prosecutors_
 
 ## [Previous Day...](/news/2014/06/5/index.md)
 

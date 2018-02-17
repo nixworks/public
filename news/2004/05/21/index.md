@@ -9,11 +9,11 @@ _Context: Russian President, Kyoto Protocol, Vladimir Putin_
 
 ##### Supreme Court of Canada
 ### [ The Supreme Court of Canada, in a 5-4 decision, rules in a case between U.S. biotechnology firm Monsanto Company and farmer Percy Schmeiser that Monsanto holds a patent on the Roundup Ready gene inserted in its canola seed and can control the use of the plant. The court previously decided that a higher life form, the Harvard mouse, could not be patented. ](/news/2004/05/21/the-supreme-court-of-canada-in-a-5a4-decision-rules-in-a-case-between-u-s-biotechnology-firm-monsanto-company-and-farmer-percy-schmeis.md)
-_Context: Supreme Court of Canada, Percy Schmeiser, Monsanto Company, patent, gene, Roundup Ready, Harvard mouse, life form, biotechnology, seed, canola_
+_Context: seed, Harvard mouse, patent, canola, life form, biotechnology, Roundup Ready, Supreme Court of Canada, gene, Percy Schmeiser, Monsanto Company_
 
 ##### Mark Thompson
 ### [ Mark Thompson, Chief Executive of Channel 4, is appointed as the new Director-General of the BBC. ](/news/2004/05/21/mark-thompson-chief-executive-of-channel-4-is-appointed-as-the-new-director-general-of-the-bbc.md)
-_Context: BBC, Channel 4, Director-General, Mark Thompson_
+_Context: Channel 4, Director-General, Mark Thompson, BBC_
 
 ##### Volcano
 ### [ Active underwater volcano found off coast of Antarctica. New find explains discolored water surrounding the site. ](/news/2004/05/21/active-underwater-volcano-found-off-coast-of-antarctica-new-find-explains-discolored-water-surrounding-the-site.md)

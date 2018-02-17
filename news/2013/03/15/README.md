@@ -5,7 +5,7 @@ Formats: [HTML](2013/03/15/index.html)  [JSON](2013/03/15/index.json)  [XML](201
 
 ##### Lil Wayne
 ### [American rapper Lil Wayne has a seizure in Los Angeles, United States. ](/news/2013/03/15/american-rapper-lil-wayne-has-a-seizure-in-los-angeles-united-states.md)
-_Context: Lil Wayne, seizure_
+_Context: seizure, Lil Wayne_
 
 ##### Double decker bus
 ### [At least 24 people die when a double decker bus veers off the Hex River Pass near De Doorns, Cape Town, South Africa. ](/news/2013/03/15/at-least-24-people-die-when-a-double-decker-bus-veers-off-the-hex-river-pass-near-de-doorns-cape-town-south-africa.md)
@@ -13,7 +13,7 @@ Another two fatalities have increased the death toll in a bus accident on the He
 
 ##### Fort Lauderdale, Florida
 ### [Three people die after a twin-engine plane crashes into a parking lot in Fort Lauderdale, Florida, United States. ](/news/2013/03/15/three-people-die-after-a-twin-engine-plane-crashes-into-a-parking-lot-in-fort-lauderdale-florida-united-states.md)
-_Context: Fort Lauderdale, Florida, Florida_
+_Context: Florida, Fort Lauderdale, Florida_
 
 ##### Fireworks
 ### [At least 16 people are killed in a fireworks accident in Jesus Tepactepec, Tlaxcala, Mexico. ](/news/2013/03/15/at-least-16-people-are-killed-in-a-fireworks-accident-in-jesus-tepactepec-tlaxcala-mexico.md)

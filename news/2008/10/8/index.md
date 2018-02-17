@@ -13,11 +13,11 @@ _Context: South Africa, Mosiuoa Lekota, African National Congress_
 
 ##### United States
 ### [ The United States embassy in Beirut seeks assistance in finding two US journalists missing in Lebanon. ](/news/2008/10/8/the-united-states-embassy-in-beirut-seeks-assistance-in-finding-two-us-journalists-missing-in-lebanon.md)
-_Context: Lebanese, Beirut, United States, journalist, embassies_
+_Context: Lebanese, embassies, Beirut, United States, journalist_
 
 ##### 2008
 ### [ The 2008 Nobel Prize in Chemistry is awarded Osamu Shimomura, Martin Chalfie, and Roger Y. Tsien for the discovery and development of the green fluorescent protein (GFP).](/news/2008/10/8/the-2008-nobel-prize-in-chemistry-is-awarded-osamu-shimomura-martin-chalfie-and-roger-y-tsien-for-the-discovery-and-development-of-the-g.md)
-_Context: Roger Y. Tsien, 2008, Osamu Shimomura, green fluorescent protein (GFP), Nobel Prize in Chemistry, Martin Chalfie_
+_Context: 2008, green fluorescent protein (GFP), Osamu Shimomura, Martin Chalfie, Nobel Prize in Chemistry, Roger Y. Tsien_
 
 ##### Yeti Airlines Flight 103
 ### [ Yeti Airlines Flight 103 crashes in the Everest region of Nepal killing 18 passengers. ](/news/2008/10/8/yeti-airlines-flight-103-crashes-in-the-everest-region-of-nepal-killing-18-passengers.md)
@@ -33,7 +33,7 @@ _Context: MICEX, RTS_
 
 ##### First democratic election
 ### [ Voters go to the polls in the Maldivian presidential election, the first democratic elections held in the Maldives, with six candidates including incumbent Maumoon Abdul Gayoom. ](/news/2008/10/8/voters-go-to-the-polls-in-the-maldivian-presidential-election-the-first-democratic-elections-held-in-the-maldives-with-six-candidates-inc.md)
-_Context: Maldives, Maumoon Abdul Gayoom, first democratic election, democratic_
+_Context: first democratic election, democratic, Maumoon Abdul Gayoom, Maldives_
 
 ## [Previous Day...](/news/2008/10/7/index.md)
 

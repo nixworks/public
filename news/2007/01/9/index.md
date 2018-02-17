@@ -13,15 +13,15 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Iran
 ### [ Mohammad Tavakoli, an Iranian legislator, announces the arrest of an alleged spy and suspected member of the Mujahedin-e Khalq. Tavakoli said the man leaked information about Iran's nuclear program. ](/news/2007/01/9/mohammad-tavakoli-an-iranian-legislator-announces-the-arrest-of-an-alleged-spy-and-suspected-member-of-the-mujahedin-e-khalq-tavakoli-sa.md)
-_Context: Iran's nuclear program, Iran, Mujahedin-e Khalq_
+_Context: Mujahedin-e Khalq, Iran's nuclear program, Iran_
 
 ##### Kazakh President
 ### [ Kazakh President Nursultan Nazarbayev nominates Deputy Prime Minister Karim Masimov for Prime Minister. The Parliament will convene on 10 January to vote on the nomination. ](/news/2007/01/9/kazakh-president-nursultan-nazarbayev-nominates-deputy-prime-minister-karim-masimov-for-prime-minister-the-parliament-will-convene-on-10-j.md)
-_Context: parliament, 10 January, Nursultan Nazarbayev, Karim Masimov, Kazakh President, Prime Minister_
+_Context: Prime Minister, 10 January, parliament, Kazakh President, Nursultan Nazarbayev, Karim Masimov_
 
 ##### OVP
 ### [ The OVP, the future minority partner in the grand coalition government that will be sworn in in Austria on 2007-01-11, announces its future ministers. ](/news/2007/01/9/the-avp-the-future-minority-partner-in-the-grand-coalition-government-that-will-be-sworn-in-in-austria-on-2007-01-11-announces-its-futur.md)
-_Context: new government, grand coalition, OVP, Austria_
+_Context: OVP, grand coalition, Austria, new government_
 
 ##### Far right
 ### [ Far right parliamentarians increase their influence within the European Parliament by founding a new transnational caucus. ](/news/2007/01/9/far-right-parliamentarians-increase-their-influence-within-the-european-parliament-by-founding-a-new-transnational-caucus.md)
@@ -37,7 +37,7 @@ _Context: Hassan Mustafa Osama Nasr, extraordinary rendition_
 
 ##### Steve Jobs
 ### [ Apple Inc. CEO Steve Jobs unveils the iPhone and changes the company name to Apple Inc. at the annual Macworld Expo in San Francisco. ](/news/2007/01/9/apple-inc-ceo-steve-jobs-unveils-the-iphone-and-changes-the-company-name-to-apple-inc-at-the-annual-macworld-expo-in-san-francisco.md)
-_Context: Apple Inc., iPhone, San Francisco, Steve Jobs, Macworld Expo_
+_Context: Apple Inc., San Francisco, Macworld Expo, iPhone, Steve Jobs_
 
 ## [Previous Day...](/news/2007/01/8/index.md)
 

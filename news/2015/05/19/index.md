@@ -25,7 +25,7 @@ Eighteen garment workers were killed and 21 injured Tuesday morning when the van
 
 ##### 2015 Colombian landslide
 ### [The death toll from landslides in the Colombian town of Salgar rises to 56 with scores missing. ](/news/2015/05/19/the-death-toll-from-landslides-in-the-colombian-town-of-salgar-rises-to-56-with-scores-missing.md)
-_Context: Salgar, 2015 Colombian landslide, Colombia_
+_Context: Salgar, Colombia, 2015 Colombian landslide_
 
 ##### Germanwings Flight 9525
 ### [French prosecutors say the passengers onboard the Germanwings flight that crashed in southern France have all been identified, and their bodies can be returned home to their families. ](/news/2015/05/19/french-prosecutors-say-the-passengers-onboard-the-germanwings-flight-that-crashed-in-southern-france-have-all-been-identified-and-their-bod.md)
@@ -57,7 +57,7 @@ Mohawk Industries Inc and fiveother companies have agreed to pay a combined $275
 
 ##### Presidents
 ### [The President of Burundi Pierre Nkurunziza says that the government will proceed with a presidential election despite protests and a recent failed coup. ](/news/2015/05/19/the-president-of-burundi-pierre-nkurunziza-says-that-the-government-will-proceed-with-a-presidential-election-despite-protests-and-a-recent.md)
-_Context: failed coup, 2015 Burundian unrest, Burundian presidential election, 2015, Presidents, Pierre Nkurunziza_
+_Context: 2015 Burundian unrest, Pierre Nkurunziza, failed coup, Presidents, Burundian presidential election, 2015_
 
 ##### Congress
 ### [The United States Congress sends a human trafficking bill to President Barack Obama for signature. ](/news/2015/05/19/the-united-states-congress-sends-a-human-trafficking-bill-to-president-barack-obama-for-signature.md)

@@ -17,7 +17,7 @@ _Context: Afghan_
 
 ##### Israel
 ### [Israeli soldiers have shot three Palestinians, two while they collected gravel from destroyed homes in Gaza, and another while he worked in the northern Gaza Strip. ](/news/2011/02/6/israeli-soldiers-have-shot-three-palestinians-two-while-they-collected-gravel-from-destroyed-homes-in-gaza-and-another-while-he-worked-in.md)
-_Context: Israel, Gaza Strip, gravel_
+_Context: Gaza Strip, Israel, gravel_
 
 ##### Indian Army
 ### [The Indian Army insists it is to inquire "on its own" the death of a man in Kashmir, allegedly killed in an army ambush. His family says he was snatched from his home before being shot. ](/news/2011/02/6/the-indian-army-insists-it-is-to-inquire-on-its-own-the-death-of-a-man-in-kashmir-allegedly-killed-in-an-army-ambush-his-family-says-he.md)
@@ -29,11 +29,11 @@ At least 30 soldiers have been killed in southern Sudan during internal fighting
 
 ##### Afghanistan President
 ### [The President of Afghanistan Hamid Karzai says that a transfer of security authority from international to Afghan forces will begin on March 21. ](/news/2011/02/6/the-president-of-afghanistan-hamid-karzai-says-that-a-transfer-of-security-authority-from-international-to-afghan-forces-will-begin-on-march.md)
-_Context: Afghan, Afghanistan President, Hamid Karzai_
+_Context: Afghanistan President, Afghan, Hamid Karzai_
 
 ##### Indian Navy
 ### [The Indian Navy captures 28 suspected Somali pirates on a Thai fishing vessel in the Indian Ocean. ](/news/2011/02/6/the-indian-navy-captures-28-suspected-somali-pirates-on-a-thai-fishing-vessel-in-the-indian-ocean.md)
-_Context: Indian, Indian Navy, Thailand, Somali pirates_
+_Context: Indian Navy, Thailand, Somali pirates, Indian_
 
 ##### United Nations
 ### [A United Nations World Heritage Site is damaged and collapses due to a dispute between Cambodia and Thailand. ](/news/2011/02/6/a-united-nations-world-heritage-site-is-damaged-and-collapses-due-to-a-dispute-between-cambodia-and-thailand.md)
@@ -53,7 +53,7 @@ A widespread blackout hit at eight states in Brazil&#039;s northeast Friday expo
 
 ##### Middle East Quartet
 ### [Palestinian leaders express disappointment at the refusal of the Middle East Quartet &mdash; United States, United Nations, European Union and Russia &mdash; to hear their call for unilateral statehood and failure to take a strong stance on Israel's settlement construction at its February 5 meeting in Munich. ](/news/2011/02/6/palestinian-leaders-express-disappointment-at-the-refusal-of-the-middle-east-quartet-mdash-united-states-united-nations-european-union-a.md)
-_Context: Middle East Quartet, Israel, Munich, Russia, European Union, United States, United Nations_
+_Context: United Nations, United States, Middle East Quartet, Russia, European Union, Munich, Israel_
 
 ##### European Union
 ### [The European Union's foreign policy chief Catherine Ashton expresses what she believes is the even more crucial need for progress in peace talks between the Israelis and the Palestinians due to events in Egypt and other countries. ](/news/2011/02/6/the-european-union-s-foreign-policy-chief-catherine-ashton-expresses-what-she-believes-is-the-even-more-crucial-need-for-progress-in-peace-t.md)
@@ -73,7 +73,7 @@ The Americans were held on suspicion of spying when they crossed the border alon
 
 ##### Youngstown
 ### [One student is killed and 11 injured following shootings at a party in Youngstown, Ohio. Two men are later arrested in connection with the incident. ](/news/2011/02/6/one-student-is-killed-and-11-injured-following-shootings-at-a-party-in-youngstown-ohio-two-men-are-later-arrested-in-connection-with-the-i.md)
-_Context: Youngstown, Ohio_
+_Context: Ohio, Youngstown_
 
 ##### Mexican drug cartel
 ### [Reputed Mexican drug cartel leader Sandra Avila Beltran is sentenced to a year in jail for weapons possession charges. ](/news/2011/02/6/reputed-mexican-drug-cartel-leader-sandra-avila-beltra-n-is-sentenced-to-a-year-in-jail-for-weapons-possession-charges.md)
@@ -81,7 +81,7 @@ _Context: Mexican drug cartel, Sandra Avila Beltran_
 
 ##### Russia
 ### [Russian billionaire Ashot Egiazaryan, facing charges of financial crimes, flees to the United States claiming persecution. ](/news/2011/02/6/russian-billionaire-ashot-egiazaryan-facing-charges-of-financial-crimes-flees-to-the-united-states-claiming-persecution.md)
-_Context: Russia, Ashot Egiazaryan, United States_
+_Context: United States, Ashot Egiazaryan, Russia_
 
 ##### Nepal
 ### [Nepal's prime minister Jhala Nath Khanal takes his oath of office. ](/news/2011/02/6/nepal-s-prime-minister-jhala-nath-khanal-takes-his-oath-of-office.md)

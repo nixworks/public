@@ -9,11 +9,11 @@ Five people are injured in a series of Israeli air raids on the Gaza Strip after
 
 ##### Lebanese
 ### [A suicide bomber kills 4 people and injures 26 in the Lebanese town of Hermel, a Hezbollah stronghold near the Syrian border. ](/news/2014/01/16/a-suicide-bomber-kills-4-people-and-injures-26-in-the-lebanese-town-of-hermel-a-hezbollah-stronghold-near-the-syrian-border.md)
-_Context: Syria, Hezbollah, Hermel, Lebanese_
+_Context: Hezbollah, Lebanese, Hermel, Syria_
 
 ##### Iraq War
 ### [TMZ reveals photos of United States Marines burning bodies of Iraqis prompting an investigation from the Department of Defense. ](/news/2014/01/16/tmz-reveals-photos-of-united-states-marines-burning-bodies-of-iraqis-prompting-an-investigation-from-the-department-of-defense.md)
-_Context: TMZ, Iraqi, United States Marines, Department of Defense, Iraq War_
+_Context: United States Marines, Iraqi, Iraq War, Department of Defense, TMZ_
 
 ##### Gravity
 ### ["Gravity" and "American Hustle" lead the nominations for the 86th Academy Awards. ](/news/2014/01/16/gravity-and-american-hustle-lead-the-nominations-for-the-86th-academy-awards.md)
@@ -25,7 +25,7 @@ Sony and Naughty Dog&#8217;s &#8220;The Last of Us&#8221; has received 13 D.I.C.
 
 ##### Indonesia
 ### [At least 13 people are dead and 40,000 are displaced in Indonesia's North Sulawesi province after severe floods. ](/news/2014/01/16/at-least-13-people-are-dead-and-40-000-are-displaced-in-indonesia-s-north-sulawesi-province-after-severe-floods.md)
-_Context: North Sulawesi, Indonesia_
+_Context: Indonesia, North Sulawesi_
 
 ##### Melbourne
 ### [Melbourne reaches 43.9 degrees Celsius (110 degrees Fahrenheit) with Australian Open matches postponed. ](/news/2014/01/16/melbourne-reaches-43-9-degrees-celsius-110-degrees-fahrenheit-with-australian-open-matches-postponed.md)
@@ -45,11 +45,11 @@ Formula 1 boss Bernie Ecclestone will face bribery trial on charges of allegedly
 
 ##### Child trafficking
 ### [A child trafficking ring is smashed in the Philippines through the efforts of British, American, and Australian authorities. ](/news/2014/01/16/a-child-trafficking-ring-is-smashed-in-the-philippines-through-the-efforts-of-british-american-and-australian-authorities.md)
-_Context: United States, child trafficking, Australia, Philippines, United Kingdom_
+_Context: United States, child trafficking, United Kingdom, Australia, Philippines_
 
 ##### Delhi
 ### [Two people are arrested in Delhi after a Danish woman was gang-raped. ](/news/2014/01/16/two-people-are-arrested-in-delhi-after-a-danish-woman-was-gang-raped.md)
-_Context: gang-rape, Danish, Delhi_
+_Context: Danish, Delhi, gang-rape_
 
 ##### Bristol, Connecticut
 ### [According to a search warrant unsealed by a court in Bristol, Connecticut, former New England Patriots tight end Aaron Hernandez, awaiting trial for a 2013 murder, is under investigation by Boston police as a suspect in a 2012 double homicide. ](/news/2014/01/16/according-to-a-search-warrant-unsealed-by-a-court-in-bristol-connecticut-former-new-england-patriots-tight-end-aaron-hernandez-awaiting-t.md)

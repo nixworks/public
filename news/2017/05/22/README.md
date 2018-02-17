@@ -13,7 +13,7 @@ Lola and the universality of women’s exploitation
 
 ##### Intravenous sodium bicarbonate
 ### [Because of a nationwide shortage of intravenous sodium bicarbonate (i.e., baking soda solution), United States hospitals are rationing its use in heart surgery, chemotherapy, for patients whose blood is too acidic, and as an antidote to certain poisons. The two primary producers, Amphastar and Pfizer, indicate that supplies will not increase until late June. ](/news/2017/05/22/because-of-a-nationwide-shortage-of-intravenous-sodium-bicarbonate-i-e-baking-soda-solution-united-states-hospitals-are-rationing-its-u.md)
-_Context: Pfizer, intravenous sodium bicarbonate, chemotherapy, heart surgery, Amphastar_
+_Context: heart surgery, chemotherapy, Amphastar, intravenous sodium bicarbonate, Pfizer_
 
 ##### North Korea's nuclear program
 ### [North Korea's official Korean Central News Agency reports the country's leader, Kim Jong-un, has approved deployment of the Pukguksong-2 intermediate-range ballistic missile, and ordered mass production of the system. The United Nations Security Council will hold a closed-door session Tuesday to discuss the test. ](/news/2017/05/22/north-koreaas-official-korean-central-news-agency-reports-the-country-s-leader-kim-jong-un-has-approved-deployment-of-the-pukguksong-2-i.md)
@@ -47,7 +47,7 @@ Tens of thousands of Haitians live in the U.S. under Temporary Protected Status.
 ### [British Prime Minister Theresa May faces backlash after accusations emerge that the Conservatives allegedly planned on reducing social welfare spending. ](/news/2017/05/22/british-prime-minister-theresa-may-faces-backlash-after-accusations-emerge-that-the-conservatives-allegedly-planned-on-reducing-social-welfa.md)
 Prime minister spends day battling against accusations of indecision after change to policy outlined in manifesto
 
-##### Russian interference in the 2016 United States elections
+##### Russian meddling in the 2016 U.S. presidential election
 ### [According to sources familiar with his decision, former U.S. National Security Advisor Michael Flynn invokes his Fifth Amendment protection against self-incrimination and declines to comply with a subpoena from the Senate Intelligence Committee investigating possible Russian interference in the 2016 U.S. election. ](/news/2017/05/22/according-to-sources-familiar-with-his-decision-former-u-s-national-security-advisor-michael-flynn-invokes-his-fifth-amendment-protection.md)
  Former White House national security adviser Michael Flynn declined on Monday to comply with a subpoena from the Senate Intelligence Committee as it investigat
 

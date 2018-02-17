@@ -13,7 +13,7 @@ Anti-government protesters have taken to the streets of Yemen, calling for an en
 
 ##### Mehbooba Mufti
 ### [Mehbooba Mufti, People's Democratic Party (PDP) president, criticises the Jammu and Kashmir government for "dismissing the Kashmiri youth who led the summer unrest" as drug addicts and people from the Lashkar-e-Taiba, saying the situation is akin to Egypt and announcing protest demonstrations for 14 February. ](/news/2011/02/12/mehbooba-mufti-people-s-democratic-party-pdp-president-criticises-the-jammu-and-kashmir-government-for-dismissing-the-kashmiri-youth-wh.md)
-_Context: Egyptian Revolution of 2011, Mehbooba Mufti, People's Democratic Party, Lashkar-e-Taiba, Jammu and Kashmir_
+_Context: Mehbooba Mufti, Jammu and Kashmir, Egyptian Revolution of 2011, Lashkar-e-Taiba, People's Democratic Party_
 
 ##### Kandahar
 ### [An attack on police headquarters in Kandahar, Afghanistan, kills 16 officers and 3 civilians, and injures 53 others.](/news/2011/02/12/an-attack-on-police-headquarters-in-kandahar-afghanistan-kills-16-officers-and-3-civilians-and-injures-53-others.md)
@@ -33,7 +33,7 @@ _Context: Gaza flotilla raid, Turkey_
 
 ##### Egyptian Museum
 ### [The extent of looting of the Egyptian Museum in Cairo during the 2011 Egyptian protests is worse than previously announced. ](/news/2011/02/12/the-extent-of-looting-of-the-egyptian-museum-in-cairo-during-the-2011-egyptian-protests-is-worse-than-previously-announced.md)
-_Context: Cairo, Protesters, Egyptian Museum_
+_Context: Egyptian Museum, Cairo, Protesters_
 
 ##### Julie Andrews
 ### [Julie Andrews, Roy Haynes, Juilliard String Quartet, the Kingston Trio, Dolly Parton, The Ramones and George Beverly Shea win Grammy Lifetime Achievement Awards. ](/news/2011/02/12/julie-andrews-roy-haynes-juilliard-string-quartet-the-kingston-trio-dolly-parton-the-ramones-and-george-beverly-shea-win-grammy-lifetim.md)
@@ -45,7 +45,7 @@ At least 11 people were trampled to death on Saturday in a stampede at an electi
 
 ##### Yakama Indian Reservation
 ### [A fire destroys 20 homes on the Yakama Indian Reservation in the US state of Washington. ](/news/2011/02/12/a-fire-destroys-20-homes-on-the-yakama-indian-reservation-in-the-us-state-of-washington.md)
-_Context: Washington, United States, Yakama Indian Reservation_
+_Context: Washington State, Yakama Indian Reservation, United States_
 
 ##### Myanmar
 ### [Myanmar arrests the Australian owner and editor of the "Myanmar Times" newspaper, detained under immigration laws. ](/news/2011/02/12/myanmar-arrests-the-australian-owner-and-editor-of-the-myanmar-times-newspaper-detained-under-immigration-laws.md)
@@ -53,7 +53,7 @@ Ross Dunkley, the Australian owner of English-language newspaper Myanmar Times, 
 
 ##### Arrest warrant
 ### [A Pakistani court issues an arrest warrant for former President Pervez Musharraf, alleging his involvement in the assassination of Benazir Bhutto. ](/news/2011/02/12/a-pakistani-court-issues-an-arrest-warrant-for-former-president-pervez-musharraf-alleging-his-involvement-in-the-assassination-of-benazir-b.md)
-_Context: assassination of Benazir Bhutto, Pervez Musharraf, arrest warrant, president_
+_Context: president, assassination of Benazir Bhutto, arrest warrant, Pervez Musharraf_
 
 ##### Miscarriage of justice
 ### [Tammy Marquardt's 1995 conviction for the murder of her 2-year-old epileptic son is quashed by the Ontario Court of Appeal, remedying a miscarriage of justice in Canada. ](/news/2011/02/12/tammy-marquardt-s-1995-conviction-for-the-murder-of-her-2-year-old-epileptic-son-is-quashed-by-the-ontario-court-of-appeal-remedying-a-misc.md)

@@ -17,7 +17,7 @@ Researchers say they believe they have located the wreckage of the Endeavour, th
 
 ##### Azerbaijan
 ### [Imprisoned Azerbaijani journalist Khadija Ismayilova is announced as the winner of the UNESCO-Guillermo Cano World Press Freedom Prize for 2016 for "her outstanding contribution to press freedom in difficult circumstances." ](/news/2016/05/3/imprisoned-azerbaijani-journalist-khadija-ismayilova-is-announced-as-the-winner-of-the-unesco-guillermo-cano-world-press-freedom-prize-for-2.md)
-_Context: Azerbaijan, UNESCO/Guillermo Cano World Press Freedom Prize, Khadija Ismayilova_
+_Context: UNESCO/Guillermo Cano World Press Freedom Prize, Khadija Ismayilova, Azerbaijan_
 
 ##### Philippine presidential election, 2016
 ### [The Philippine financial market continues to suffer amid speculation that Rodrigo Duterte may win the upcoming election. ](/news/2016/05/3/the-philippine-financial-market-continues-to-suffer-amid-speculation-that-rodrigo-duterte-may-win-the-upcoming-election.md)
@@ -33,11 +33,11 @@ The single-engine aircraft, which took off from Myrtle Beach, S.C., was headed t
 
 ##### Iglesia ni Cristo
 ### [The sect Iglesia ni Cristo is suing supporters of Rodrigo Duterte for spreading a fake endorsement by the denomination. ](/news/2016/05/3/the-sect-iglesia-ni-cristo-is-suing-supporters-of-rodrigo-duterte-for-spreading-a-fake-endorsement-by-the-denomination.md)
-_Context: Rodrigo Duterte, Iglesia ni Cristo_
+_Context: Iglesia ni Cristo, Rodrigo Duterte_
 
 ##### Russia-Spain relations
 ### [A Spanish judge issues an arrest warrant for various individuals with links to organized crime from Russia. The list also includes former and current officials of the Russian government with close links to Russian President Vladimir Putin. Prominent officials include former Defense Minister Anatoliy Serdyukov and former Prime Minister Viktor Zubkov. The charges range from money laundering to assassination. ](/news/2016/05/3/a-spanish-judge-issues-an-arrest-warrant-for-various-individuals-with-links-to-organized-crime-from-russia-the-list-also-includes-former-an.md)
-_Context: Defense Minister, Russia, Vladimir Putin, Russia-Spain relations, Spain, Russian President, organized crime from Russia, Viktor Zubkov, Anatoliy Serdyukov, assassinated, Prime Minister of Russia, money laundering_
+_Context: Russia, money laundering, Spain, Viktor Zubkov, Prime Minister of Russia, Defense Minister, Anatoliy Serdyukov, Russia-Spain relations, organized crime from Russia, Russian President, assassinated, Vladimir Putin_
 
 ##### Papua conflict
 ### [According to reports, the Indonesian police arrest close to 1,700 people in Papua and West Papua who were involved in attempted protests yesterday. ](/news/2016/05/3/according-to-reports-the-indonesian-police-arrest-close-to-1-700-people-in-papua-and-west-papua-who-were-involved-in-attempted-protests-yes.md)
@@ -59,7 +59,7 @@ Prime minister&#39;s office says referendum will be held later this year on quot
 ### [A meeting is held in London on the issue of West Papuan independence. Independence leader Benny Wenda joined various humanitarians, parliamentarians and lawyers in urging the United Nations to secure a vote on the future status of the region, which is occupied by Indonesia. ](/news/2016/05/3/a-meeting-is-held-in-london-on-the-issue-of-west-papuan-independence-independence-leader-benny-wenda-joined-various-humanitarians-parliame.md)
 Exclusive: Independence leader Benny Wenda joins parliamentarians, lawyers and humanitarians demanding UN supports referendum on territory’s fate
 
-##### 2016 U.S. presidential election
+##### 2016 U.S. election
 ### [Voters in the U.S. state of Indiana head to the polls to vote in Democratic and Republican presidential primaries. ](/news/2016/05/3/voters-in-the-u-s-state-of-indiana-head-to-the-polls-to-vote-in-democratic-and-republican-presidential-primaries.md)
 INDIANAPOLIS — In a stunning triumph for a political outsider, Donald Trump all but clinched the Republican presidential nomination Tuesday with a resounding victory in Indiana that knocked rival T…
 

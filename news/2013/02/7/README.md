@@ -9,7 +9,7 @@ A woman was seized by security guards after using marker pen to deface one of th
 
 ##### Irish
 ### [Irish lawmakers vote 113 to 36 to liquidate the Irish Bank Resolution Corporation (IBRC), with Joe Higgins of the opposition Socialist Party describing the rapid developments as "chaotic". ](/news/2013/02/7/irish-lawmakers-vote-113-to-36-to-liquidate-the-irish-bank-resolution-corporation-ibrc-with-joe-higgins-of-the-opposition-socialist-party.md)
-_Context: Socialist Party, Joe Higgins, Irish Bank Resolution Corporation, Irish_
+_Context: Irish, Irish Bank Resolution Corporation, Socialist Party, Joe Higgins_
 
 ##### Sweden
 ### [Sweden suspends a wolf hunting intended as a cull for the population, after an appeal by the conservationist party. ](/news/2013/02/7/sweden-suspends-a-wolf-hunting-intended-as-a-cull-for-the-population-after-an-appeal-by-the-conservationist-party.md)
@@ -25,7 +25,7 @@ At least 53 people have been killed in a road accident involving a bus and lorry
 
 ##### Frozen food
 ### [Frozen food manufacturer Findus withdraws its beef lasagne ready meals after tests showed the product contained horse meat. ](/news/2013/02/7/frozen-food-manufacturer-findus-withdraws-its-beef-lasagne-ready-meals-after-tests-showed-the-product-contained-horse-meat.md)
-_Context: 2013 meat adulteration scandal, ready meal, lasagne, Findus, horses for meat, Frozen food_
+_Context: lasagne, Findus, 2013 meat adulteration scandal, horses for meat, ready meal, Frozen food_
 
 ##### Japan
 ### [Japan scrambles its fighter aircraft to intercept two Russian SU-27 fighter aircraft, claiming that they have violated its airspace off Rishiri Island. Russia denies its aircraft entered Japanese airspace. ](/news/2013/02/7/japan-scrambles-its-fighter-aircraft-to-intercept-two-russian-su-27-fighter-aircraft-claiming-that-they-have-violated-its-airspace-off-rish.md)
@@ -33,11 +33,11 @@ Two Russian fighter jets have violated Japanese airspace, prompting Tokyo to scr
 
 ##### Romania
 ### [A diplomatic dispute between Romania and Hungary erupts as a Hungarian government official and the ambassador in Bucharest make commentaries that trigger large criticism from the Romanian side. ](/news/2013/02/7/a-diplomatic-dispute-between-romania-and-hungary-erupts-as-a-hungarian-government-official-and-the-ambassador-in-bucharest-make-commentaries.md)
-_Context: Hungary, Bucharest, Romania_
+_Context: Romania, Bucharest, Hungary_
 
 ##### Supreme Leader
 ### [The Supreme Leader of Iran Ali Khamenei accuses the United States of "holding a gun" to Tehran's head to pressure it to hold direct talks and states that it's very unlikely that these talks may take place. ](/news/2013/02/7/the-supreme-leader-of-iran-ali-khamenei-accuses-the-united-states-of-holding-a-gun-to-tehran-s-head-to-pressure-it-to-hold-direct-talks-an.md)
-_Context: Ali Khamenei, Iran, Supreme Leader, Tehran, United States_
+_Context: Iran, United States, Supreme Leader, Ali Khamenei, Tehran_
 
 ##### South Korea
 ### [South Korean soldiers on the world's most heavily armed border now have orders to shoot back immediately if they come under attack. ](/news/2013/02/7/south-korean-soldiers-on-the-world-s-most-heavily-armed-border-now-have-orders-to-shoot-back-immediately-if-they-come-under-attack.md)
@@ -45,23 +45,23 @@ _Context: South Korea, world's most heavily armed border_
 
 ##### Christopher Dorner
 ### [2013 Southern California shootings: Christopher Dorner, an ex-police officer, is named a suspect wanted in connection with shootings that occurred throughout Southern California in the past week. In those shootings, three people died, including a police officer and an assistant women's basketball coach at California State University, Fullerton, and several others were wounded. ](/news/2013/02/7/2013-southern-california-shootings-christopher-dorner-an-ex-police-officer-is-named-a-suspect-wanted-in-connection-with-shootings-that-oc.md)
-_Context: Southern California, California State University, Fullerton, Christopher Dorner, 2013 Southern California shootings_
+_Context: Christopher Dorner, California State University, Fullerton, Southern California, 2013 Southern California shootings_
 
 ##### Tunisia
 ### [A major crisis deepens in Tunisia after the murder of Chokri Belaid. The leading party Ennahda states that it will not accept a new government, even if suggested by its leading member, Prime Minister Hamadi Jebali. In today's clashes at least one person died. ](/news/2013/02/7/a-major-crisis-deepens-in-tunisia-after-the-murder-of-chokri-belaid-the-leading-party-ennahda-states-that-it-will-not-accept-a-new-governme.md)
-_Context: Hamadi Jebali, Ennahda, Tunisia, Prime Minister of Tunisia, Chokri Belaid_
+_Context: Hamadi Jebali, Chokri Belaid, Ennahda, Prime Minister of Tunisia, Tunisia_
 
 ##### United Kingdom
 ### [UK Secretary of State for Education Michael Gove confirms that plans to replace the General Certificate of Secondary Education with a new English Baccalaureate qualification have been abandoned. ](/news/2013/02/7/uk-secretary-of-state-for-education-michael-gove-confirms-that-plans-to-replace-the-general-certificate-of-secondary-education-with-a-new-en.md)
-_Context: United Kingdom, English Baccalaureate, Michael Gove, General Certificate of Secondary Education, Secretary of State for Education_
+_Context: General Certificate of Secondary Education, United Kingdom, Michael Gove, English Baccalaureate, Secretary of State for Education_
 
 ##### Canadian Senator
 ### [Canadian Senator Patrick Brazeau is arrested over an incident relating to domestic violence. The ruling Conservative Party of Canada in response removes him from caucus. ](/news/2013/02/7/canadian-senator-patrick-brazeau-is-arrested-over-an-incident-relating-to-domestic-violence-the-ruling-conservative-party-of-canada-in-resp.md)
-_Context: caucus, Canadian Senator, Conservative Party's, Patrick Brazeau_
+_Context: Patrick Brazeau, Canadian Senator, caucus, Conservative Party's_
 
 ##### Azerbaijan
 ### [Azerbaijan's first satellite Azerspace-1 is launched aboard an Ariane 5 launch rocket in French Guiana. ](/news/2013/02/7/azerbaijan-s-first-satellite-azerspace-1-is-launched-aboard-an-ariane-5-launch-rocket-in-french-guiana.md)
-_Context: satellite, launch rocket, Azerbaijan, French Guiana, Azerspace-1, Ariane 5_
+_Context: Ariane 5, launch rocket, Azerbaijan, French Guiana, satellite, Azerspace-1_
 
 ## [Previous Day...](/news/2013/02/6/index.md)
 

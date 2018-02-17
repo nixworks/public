@@ -29,31 +29,31 @@ One crew member was killed and two others were injured Monday when a military he
 
 ##### Magnitude
 ### [A 5.7 magnitude earthquake strikes 250 kilometers (155 miles) northwest of the Pacific island nation of Vanuatu. No immediate report of damages or injuries; no tsunami warning has been issued. ](/news/2017/04/17/a-5-7-magnitude-earthquake-strikes-250-kilometers-155-miles-northwest-of-the-pacific-island-nation-of-vanuatu-no-immediate-report-of-dama.md)
-_Context: island nation, South Pacific Ocean, Vanuatu, magnitude_
+_Context: magnitude, South Pacific Ocean, island nation, Vanuatu_
 
 ##### BP
 ### [A BP Alaskan North Slope oil well near Deadhorse Airport, that was leaking oil and natural gas since it was discovered on Friday, is successfully plugged, according to private and government reports. ](/news/2017/04/17/a-bp-alaskan-north-slope-oil-well-near-deadhorse-airport-that-was-leaking-oil-and-natural-gas-since-it-was-discovered-on-friday-is-success.md)
-_Context: Deadhorse Airport, Alaskan North Slope, BP_
+_Context: Alaskan North Slope, BP, Deadhorse Airport_
 
 ##### China-Nepal relations
 ### [In a move likely to cause concern in India, China and Nepal commenced last Sunday the first ever combined military exercises, focusing on counter-terror operations. ](/news/2017/04/17/in-a-move-likely-to-cause-concern-in-india-china-and-nepal-commenced-last-sunday-the-first-ever-combined-military-exercises-focusing-on-co.md)
-_Context: China, China-Nepal relations, Nepal, India_
+_Context: Nepal, Chinese, China-Nepal relations, India_
 
 ##### North Korea
 ### [North Korean Vice Foreign Minister Han Song-ryol threatens to test missiles on a "weekly" basis, as United States Vice President Mike Pence warns the DPRK that the United States' "era of strategic patience" with the country was over. ](/news/2017/04/17/north-korean-vice-foreign-minister-han-song-ryol-threatens-to-test-missiles-on-a-weekly-basis-as-united-states-vice-president-mike-pence.md)
-_Context: DPRK, Mike Pence, United States Vice President, Han Song-ryol, North Korea_
+_Context: Han Song-ryol, North Korea, Mike Pence, DPRK, United States Vice President_
 
 ##### Shooting of Robert Godwin
 ### [The search for the suspect in the killing of an elderly man in Cleveland, whose murder was posted to Facebook, expands beyond Ohio, with the FBI urging residents in Indiana, Michigan, New York, and Pennsylvania to be on alert for the suspect. ](/news/2017/04/17/the-search-for-the-suspect-in-the-killing-of-an-elderly-man-in-cleveland-whose-murder-was-posted-to-facebook-expands-beyond-ohio-with-the.md)
-_Context: Shooting of Robert Godwin, FBI, Indiana, Pennsylvania, Mich., Ohio, Facebook, New York, Cleveland_
+_Context: Pennsylvania, Facebook, Indiana, Mich., Cleveland, Shooting of Robert Godwin, New York, FBI, Ohio_
 
 ##### Brazilian federal judge
 ### [A Brazilian federal judge orders Petrobras to suspend the sale to Norway's Statoil of its stake in an offshore prospect, in response to the National Federation of Oil Workers petition there should have been an open bidding process for this transaction. ](/news/2017/04/17/a-brazilian-federal-judge-orders-petrobras-to-suspend-the-sale-to-norway-s-statoil-of-its-stake-in-an-offshore-prospect-in-response-to-the.md)
-_Context: Brazilian federal judge, Statoil, Norway, Petrobras_
+_Context: Brazilian federal judge, Norway, Petrobras, Statoil_
 
 ##### Paraguayan President
 ### [Paraguayan President Horacio Cartes says he will not be a candidate in next year's presidential election regardless of Congress's action on a constitutional amendment that would allow second terms. Cartes adds his decision was informed by Pope Francis's call for peace and dialogue in Paraguay following protests against this change that turned violent two weeks ago. ](/news/2017/04/17/paraguayan-president-horacio-cartes-says-he-will-not-be-a-candidate-in-next-year-s-presidential-election-regardless-of-congress-s-action-on.md)
-_Context: constitutional  amendment, protests against this change that turned violent, Pope Francis, Congress's, Paraguayan President, Paraguay, Horacio Cartes_
+_Context: constitutional  amendment, Congress's, protests against this change that turned violent, Horacio Cartes, Pope Francis, Paraguayan President, Paraguay_
 
 ##### Yes California
 ### [The bid for California independence ends. ](/news/2017/04/17/the-bid-for-california-independence-ends.md)
@@ -61,11 +61,11 @@ The leader of the &quot;Calexit&quot; movement announced in a 1,600-word stateme
 
 ##### Palestinian prisoners of Israel
 ### [Hundreds of Palestinian prisoners in Israeli jails -- activists say up to 1,500 are participating -- begin an open-ended hunger strike to protest poor conditions and the Israeli policy of detention without trial. ](/news/2017/04/17/hundreds-of-palestinian-prisoners-in-israeli-jails-a-activists-say-up-to-1-500-are-participating-a-begin-an-open-ended-hunger-strike-to.md)
-_Context: Palestinian prisoners of Israel, hunger strike, detention without trial, Palestinians, Israel_
+_Context: hunger strike, detention without trial, Israel, Palestinians, Palestinian prisoners of Israel_
 
 ##### Philippine presidential election, 2016
 ### [Bongbong Marcos pays [?]36 million, half of the required amount to hold a recount against Philippine vice president Leni Robredo.](/news/2017/04/17/bongbong-marcos-pays-a-36-million-half-of-the-required-amount-to-hold-a-recount-against-philippine-vice-president-leni-robredo.md)
-_Context: Vice President of the Philippines, Bongbong Marcos, Philippine presidential election, 2016, [?], Leni Robredo_
+_Context: Leni Robredo, [?], Philippine presidential election, 2016, Vice President of the Philippines, Bongbong Marcos_
 
 ## [Previous Day...](/news/2017/04/16/index.md)
 

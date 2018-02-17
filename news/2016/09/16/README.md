@@ -13,7 +13,7 @@ At least eight people have been reported dead after a powerful typhoon lashed pa
 
 ##### South China Sea disputes
 ### [The Obama administration agrees to have the United States Armed Forces assist Japan on conducting joint patrols in the South China Sea. ](/news/2016/09/16/the-obama-administration-agrees-to-have-the-united-states-armed-forces-assist-japan-on-conducting-joint-patrols-in-the-south-china-sea.md)
-_Context: Obama administration, South China Sea, United States military personnel, Japan, Japan-United States relations, South China Sea disputes_
+_Context: United States military personnel, South China Sea disputes, Japan, South China Sea, Obama administration, Japan-United States relations_
 
 ##### United Kingdom
 ### [The United Kingdom agrees to allow alleged hacker Lauri Love to be extradited to the United States. ](/news/2016/09/16/the-united-kingdom-agrees-to-allow-alleged-hacker-lauri-love-to-be-extradited-to-the-united-states.md)
@@ -31,7 +31,7 @@ Former Italian president, prime minister and central bank governor Carlo Azeglio
 ### [Members of the UK Independence Party (UKIP) elect Diane James as their new leader. ](/news/2016/09/16/members-of-the-uk-independence-party-ukip-elect-diane-james-as-their-new-leader.md)
 UKIP MEP Diane James wins party leadership contest to succeed Nigel Farage and tells PM Theresa May to &quot;get on&quot; with Brexit.
 
-##### 2016 U.S. presidential election
+##### 2016 U.S. election
 ### [The Commission on Presidential Debates officially announces the invitation of Democratic Party nominee Hillary Clinton, and GOP nominee Donald Trump, to the first presidential debate at Hofstra University in Hempstead, New York, on September 26. However, third party candidates, Gary Johnson and Jill Stein, have not met the criteria, and will not be participants in the debate. ](/news/2016/09/16/the-commission-on-presidential-debates-officially-announces-the-invitation-of-democratic-party-nominee-hillary-clinton-and-gop-nominee-dona.md)
 Libertarian Party presidential candidate Gary Johnson and Green Party hopeful Jill Stein have failed to quality for the first planned U.S. presidential debate on Sept. 26, the Commission on Presidential Debates said on Friday.
 

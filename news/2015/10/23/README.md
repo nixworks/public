@@ -13,11 +13,11 @@ The dead and injured were shifted to Civil Hospital Jacobabad, where an emergenc
 
 ##### Syrian Civil War
 ### [Islamic State fighters take control of a section of road running between the towns of Khanaser and Ithriya, southeast of Aleppo, according to a monitoring group. This threatens the Syrian army's only supply route into the city. ](/news/2015/10/23/islamic-state-fighters-take-control-of-a-section-of-road-running-between-the-towns-of-khanaser-and-ithriya-southeast-of-aleppo-according-t.md)
-_Context: Aleppo, Syrian Civil War, Syrian Observatory for Human Rights, ISIL, Syrian army's, Khanaser_
+_Context: Khanaser, ISIL, Syrian army's, Aleppo, Syrian Observatory for Human Rights, Syrian Civil War_
 
 ##### Libyan Civil War (2014-present)
 ### [At least nine people are killed and dozens injured in the eastern Libyan city of Benghazi after several mortar shells hit a protest against a UN proposal for a unity government to end the four-year long crisis in the country. ](/news/2015/10/23/at-least-nine-people-are-killed-and-dozens-injured-in-the-eastern-libyan-city-of-benghazi-after-several-mortar-shells-hit-a-protest-against.md)
-_Context: United Nations, Benghazi, Libyan Crisis (2011-present), Libya, Mortar, Libyan Civil War (2014-present)_
+_Context: United Nations, Mortar, Benghazi, Libyan Civil War (2014-present), Libyan Crisis (2011-present), Libya_
 
 ##### Adele
 ### [Adele returns from a three-year hiatus with the new single "Hello" from the album "25". ](/news/2015/10/23/adele-returns-from-a-three-year-hiatus-with-the-new-single-hello-from-the-album-25.md)
@@ -41,7 +41,7 @@ Coach carrying pensioners on a day trip collides with truck, causing ‘gigantic
 
 ##### Kuwait
 ### [Kuwait and France sealed a deal whereby the Gulf nation will upgrade its defense capabilities with $2.8 billion worth of military equipment. Defense experts cite the ongoing conflict in Iraqi Civil War, the June 2015 terror attack claimed by ISIS in Kuwait City, and a reluctance by the U.S. to supply Kuwait as reasons for the deal. ](/news/2015/10/23/kuwait-and-france-sealed-a-deal-whereby-the-gulf-nation-will-upgrade-its-defense-capabilities-with-2-8-billion-worth-of-military-equipment.md)
-_Context: France, United States, Gulf Arab states, June 2015 terror attack, Kuwait, Kuwait City, Iraqi Civil War (2014-present), ISIS_
+_Context: Kuwait City, June 2015 terror attack, ISIS, Gulf Arab states, France, Iraqi Civil War (2014-present), Kuwait, United States_
 
 ##### President
 ### [The president of Zimbabwe, Robert Mugabe, is awarded the Confucius Peace Prize, sometimes characterized as a Chinese alternative to the Nobel Peace Prize. ](/news/2015/10/23/the-president-of-zimbabwe-robert-mugabe-is-awarded-the-confucius-peace-prize-sometimes-characterized-as-a-chinese-alternative-to-the-nobe.md)
@@ -49,7 +49,7 @@ Confucius peace prize chairman defends decision to give award to leader accused 
 
 ##### Trollhattan school attack
 ### [Swedish police claim that the deceased attacker was driven by "racist motives". ](/news/2015/10/23/swedish-police-claim-that-the-deceased-attacker-was-driven-by-racist-motives.md)
-_Context: Trollhattan school attack, Swedish police_
+_Context: Swedish police, Trollhattan school attack_
 
 ##### European migrant crisis
 ### [Police in Bamberg, Germany arrested three people said to be involved in a far-right extremist terror plot to attack refugee shelters, shelter staff and public officials supportive of refugees. ](/news/2015/10/23/police-in-bamberg-germany-arrested-three-people-said-to-be-involved-in-a-far-right-extremist-terror-plot-to-attack-refugee-shelters-shelte.md)
@@ -59,13 +59,13 @@ The discovery comes as a leaked police report suggests far-Right nationalists co
 ### [Nineteen-year old Cameron Selmon died during last night's shooting on the Tennessee State University campus when a fight erupted during a dice game, in which a player pulled out a gun and started firing. One of the three injured 18-year-old female students remains hospitalized. The suspect fled the scene on foot and is still at large. The school is closed today but will re-open with Monday classes. ](/news/2015/10/23/nineteen-year-old-cameron-selmon-died-during-last-night-s-shooting-on-the-tennessee-state-university-campus-when-a-fight-erupted-during-a-di.md)
 Mayor Megan Barry pledged to repair the damage violence had done on TSU’s campus and the surrounding neighborhood.
 
-##### 2016 U.S. presidential election
+##### 2016 U.S. election
 ### [Democratic Party presidential candidates, 2016,Former Rhode Island Governor Lincoln Chafee announces his decision to end his campaign for the 2016 Democratic Party presidential nomination in Washington, D.C. ](/news/2015/10/23/democratic-party-presidential-candidates-2016-former-rhode-island-governor-lincoln-chafee-announces-his-decision-to-end-his-campaign-for-th.md)
 The withdrawal of Lincoln Chafee caps a winnowing week for the Democratic contenders. But the GOP side seems more likely to experience the next dropout.
 
 ##### Department of Energy
 ### [The U.S. Department of Energy cancels a shipment of 100 pounds of spent nuclear fuel (estimated value $200 million per year) to Idaho after failing to agree on terms that required a waiver to their 1995 agreement. ](/news/2015/10/23/the-u-s-department-of-energy-cancels-a-shipment-of-100-pounds-of-spent-nuclear-fuel-estimated-value-200-million-per-year-to-idaho-after.md)
-_Context: Department of Energy, Idaho, spent nuclear fuel, shipment_
+_Context: Department of Energy, Idaho, shipment, spent nuclear fuel_
 
 ##### Department of Justice
 ### [The U.S. Department of Justice decides not to prosecute Lois Lerner or others in connection with the 2013 IRS targeting controversy. ](/news/2015/10/23/the-u-s-department-of-justice-decides-not-to-prosecute-lois-lerner-or-others-in-connection-with-the-2013-irs-targeting-controversy.md)

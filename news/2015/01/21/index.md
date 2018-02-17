@@ -23,7 +23,7 @@ EBay reported mixed quarterly earnings and revenue on Wednesday and announced pl
 ### [American Express plans to cut more than 4,000 jobs. ](/news/2015/01/21/american-express-plans-to-cut-more-than-4-000-jobs.md)
 American Express Co will cut more than 4,000 jobs this year, an executive said, after the credit card company also reported higher quarterly expenses and provisions for bad loans.
 
-##### Mexican
+##### Mexico
 ### [Mexico's Volcan de Colima erupts. ](/news/2015/01/21/mexico-s-volca-n-de-colima-erupts.md)
 Mexico&#039;s Colima volcano erupts in spectacular fashion, sending thick plumes of ash and dust up to five kilometres into the air.
 
@@ -37,7 +37,7 @@ _Context: Hong Kong_
 
 ##### New England Journal of Medicine
 ### [The "New England Journal of Medicine" publishes research from Portland State University that implies the presence of formaldehyde, a cancer-causing chemical, may occur in limited situations of e-cigarette vapor. ](/news/2015/01/21/the-new-england-journal-of-medicine-publishes-research-from-portland-state-university-that-implies-the-presence-of-formaldehyde-a-cancer.md)
-_Context: e-cigarette, New England Journal of Medicine, formaldehyde, carcinogen, Portland State University_
+_Context: Portland State University, carcinogen, New England Journal of Medicine, e-cigarette, formaldehyde_
 
 ##### Russia
 ### [Russian state-owned gas company Gazprom announces a plan to shift its European natural gas pipeline from Ukraine to Turkey, through a proposed link under the Black Sea to Turkey. ](/news/2015/01/21/russian-state-owned-gas-company-gazprom-announces-a-plan-to-shift-its-european-natural-gas-pipeline-from-ukraine-to-turkey-through-a-propos.md)

@@ -25,7 +25,7 @@ _Context: China_
 
 ##### MF Global
 ### [Former CEO of MF Global, Jon Corzine, testifies to a committee of the U.S. House of Representatives that he doesn't know what happened to the hundreds of millions of dollars of customers' money, supposedly in segregated accounts, that appears to be missing. ](/news/2011/12/8/former-ceo-of-mf-global-jon-corzine-testifies-to-a-committee-of-the-u-s-house-of-representatives-that-he-doesn-t-know-what-happened-to-th.md)
-_Context: U.S. House of Representatives, Jon Corzine, MF Global_
+_Context: MF Global, Jon Corzine, U.S. House of Representatives_
 
 ##### A storm
 ### [A storm causes damage, flooding and power cuts across the north of the British Isles, particularly Scotland with winds up to 165&nbsp;mph (264&nbsp;km-h). ](/news/2011/12/8/a-storm-causes-damage-flooding-and-power-cuts-across-the-north-of-the-british-isles-particularly-scotland-with-winds-up-to-165-nbsp-mph-2.md)
@@ -33,19 +33,19 @@ Police tell people in Scotland not to travel, as severe winds of up to 165mph hi
 
 ##### Philippines
 ### [Philippines officials claim that the People's Republic of China has executed a Filipino man for drug trafficking despite a plea for clemency from the President of the Philippines Benigno Aquino III on humanitarian grounds. ](/news/2011/12/8/philippines-officials-claim-that-the-people-s-republic-of-china-has-executed-a-filipino-man-for-drug-trafficking-despite-a-plea-for-clemency.md)
-_Context: President, his predecessor, drug trafficking, Philippines, China, Filipino_
+_Context: Filipino, Philippines, President, his predecessor, drug trafficking, China_
 
 ##### Russia
 ### [Russian Prime Minister Vladimir Putin accuses the United States of sponsoring the opposition in the country, following protests over the outcome of the recent elections. ](/news/2011/12/8/russian-prime-minister-vladimir-putin-accuses-the-united-states-of-sponsoring-the-opposition-in-the-country-following-protests-over-the-out.md)
-_Context: Russia, Vladimir Putin, parliamentary elections, United States_
+_Context: parliamentary elections, Vladimir Putin, United States, Russia_
 
 ##### Iran
 ### [Iranian state television shows footage of a United States Lockheed Martin RQ-170 Sentinel drone that its forces claim to have shot down. ](/news/2011/12/8/iranian-state-television-shows-footage-of-a-united-states-lockheed-martin-rq-170-sentinel-drone-that-its-forces-claim-to-have-shot-down.md)
-_Context: United States, Lockheed Martin RQ-170 Sentinel, Iran_
+_Context: Lockheed Martin RQ-170 Sentinel, Iran, United States_
 
 ##### Japan
 ### [The Government of Japan apologizes to Canada over the treatment of Canadian POWs during World War II. ](/news/2011/12/8/the-government-of-japan-apologizes-to-canada-over-the-treatment-of-canadian-pows-during-world-war-ii.md)
-_Context: Japan, World War II, POWs, Canadian_
+_Context: POWs, World War II, Canadian, Japan_
 
 ##### Serial killer
 ### [British serial killer Robert Black is sentenced to a minimum of 25 years imprisonment for the 1981 murder of Northern Ireland schoolgirl Jennifer Cardy. ](/news/2011/12/8/british-serial-killer-robert-black-is-sentenced-to-a-minimum-of-25-years-imprisonment-for-the-1981-murder-of-northern-ireland-schoolgirl-jen.md)
@@ -61,7 +61,7 @@ Electoral body says all 60,000 ballots boxes have not been counted and will wait
 
 ##### Zimbabwe
 ### [Zimbabwean President Robert Mugabe calls for elections in 2012 to replace the power-sharing government in place since 2008. ](/news/2011/12/8/zimbabwean-president-robert-mugabe-calls-for-elections-in-2012-to-replace-the-power-sharing-government-in-place-since-2008.md)
-_Context: Zimbabwe, power-sharing government, Robert Mugabe_
+_Context: Zimbabwe, Robert Mugabe, power-sharing government_
 
 ## [Previous Day...](/news/2011/12/7/index.md)
 

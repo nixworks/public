@@ -9,7 +9,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Yemeni Civil War (2015-present)
 ### [Gunmen storm a retirement home in Yemen, run by a charity established by Mother Teresa, killing 16 people, including four Catholic nuns. ](/news/2016/03/4/gunmen-storm-a-retirement-home-in-yemen-run-by-a-charity-established-by-mother-teresa-killing-16-people-including-four-catholic-nuns.md)
-_Context: Mother Teresa, Yemen, Yemeni Civil War (2015-present)_
+_Context: Yemeni Civil War (2015-present), Mother Teresa, Yemen_
 
 ##### Dissident Irish Republican campaign (1998-present)
 ### [A bomb explodes under a vehicle in Belfast injuring a prison officer; Dissident republicans have claimed responsibility. ](/news/2016/03/4/a-bomb-explodes-under-a-vehicle-in-belfast-injuring-a-prison-officer-dissident-republicans-have-claimed-responsibility.md)
@@ -25,11 +25,11 @@ Syrian rebel fighters seized a border crossing with Iraq from Islamic State on F
 
 ##### Electricity
 ### [Electricity is gradually being restored across Syria from a nationwide blackout that began early Thursday afternoon. Syria's Electricity Ministry says the electrical grid is expected to return to normal capacity by midnight. There is no immediate word on the cause. ](/news/2016/03/4/electricity-is-gradually-being-restored-across-syria-from-a-nationwide-blackout-that-began-early-thursday-afternoon-syria-s-electricity-min.md)
-_Context: Syria's Electricity Ministry, Syria, electrical grid, Electricity_
+_Context: Electricity, electrical grid, Syria's Electricity Ministry, Syria_
 
 ##### Indonesia
 ### [Five people, including an 18-month-old baby, are missing from an Indonesian ferryboat traveling from Bali to East Java that sank in the Bali Strait; 76 people have been rescued. ](/news/2016/03/4/five-people-including-an-18-month-old-baby-are-missing-from-an-indonesian-ferryboat-traveling-from-bali-to-east-java-that-sank-in-the-bali.md)
-_Context: East Java, Bali, Bali Strait, Indonesia_
+_Context: Bali Strait, Bali, Indonesia, East Java_
 
 ##### South China Sea disputes
 ### [The U.S. Navy dispatches a carrier strike group containing the Nimitz carrier nuclear-powered supercarrier John C. Stennis to the South China Sea. ](/news/2016/03/4/the-u-s-navy-dispatches-a-carrier-strike-group-containing-the-nimitz-carrier-nuclear-powered-supercarrier-john-c-stennis-to-the-south-chin.md)
@@ -65,9 +65,9 @@ Polling is underway in Samoa&#39;s general election.
 
 ##### Serbian parliamentary election, 2016
 ### [Serbian President Tomislav Nikolic, at the request of Serbian Prime Minister Aleksandar Vucic, dissolves Serbia's parliament and calls for early elections to take place on April 24. ](/news/2016/03/4/serbian-president-tomislav-nikolia-at-the-request-of-serbian-prime-minister-aleksandar-vuaia-dissolves-serbia-s-parliament-and-calls-fo.md)
-_Context: Serbian parliamentary election, 2016, Serbia, National Assembly, President of Serbia, Aleksandar Vucic, Tomislav Nikolic, Prime Minister of Serbia_
+_Context: Serbia, National Assembly, Prime Minister of Serbia, Tomislav Nikolic, President of Serbia, Aleksandar Vucic, Serbian parliamentary election, 2016_
 
-##### 2016 U.S. presidential election
+##### 2016 U.S. election
 ### [Ben Carson suspends his campaign for the Republican Party nomination. The expected announcement was made during a speech at the 2016 Conservative Political Action Conference (CPAC). ](/news/2016/03/4/ben-carson-suspends-his-campaign-for-the-republican-party-nomination-the-expected-announcement-was-made-during-a-speech-at-the-2016-conserv.md)
 Ben Carson announced Friday he is suspending his presidential campaign after a string of disappointing finishes in the Republican nominating contests.
 

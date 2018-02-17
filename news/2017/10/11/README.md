@@ -21,7 +21,7 @@ Mount Shinmoe in the Kirishima mountain range bordering Kagoshima and Miyazaki p
 
 ##### Cybercrime
 ### [Last year a hacker stole non-classified information about Australia's Joint Strike Fighter program and other military hardware after breaching the network of a defense contractor. ](/news/2017/10/11/last-year-a-hacker-stole-non-classified-information-about-australiaas-joint-strike-fighter-program-and-other-military-hardware-after-breac.md)
-_Context: Cybercrime, Joint Strike Fighter program, Australia_
+_Context: Australia, Cybercrime, Joint Strike Fighter program_
 
 ##### Joshua Boyle
 ### [Pakistani troops rescue Joshua Boyle and Caitlan Coleman, who have been held captive since 2012, and their three children from the Taliban. ](/news/2017/10/11/pakistani-troops-rescue-joshua-boyle-and-caitlan-coleman-who-have-been-held-captive-since-2012-and-their-three-children-from-the-taliban.md)
@@ -29,7 +29,7 @@ Caitlan Coleman, Joshua Boyle and three children freed after couple were abducte
 
 ##### Politics of Peru
 ### [The Peruvian Pedro Pablo Kuczynski Administration, through the Ministry of Justice, appoints a new head to the Direction of Presidential Graces, which is believed to be a first step towards granting a pardon to 79-year-old former president Alberto Fujimori (1990-2000), although President Kuczynski has denied it. In April 2009, a three-judge panel had sentenced Fujimori for acts of corruption, human rights violations, and various others crimes. Fujimori, who has been in jail since 2007 and whose health has deteriorated, including alleged tongue cancer, has applied for a pardon unsuccessfully on two occasions. ](/news/2017/10/11/the-peruvian-pedro-pablo-kuczynski-administration-through-the-ministry-of-justice-appoints-a-new-head-to-the-direction-of-presidential-gra.md)
-_Context: Politics of Peru, Alberto Fujimori, tongue cancer, Pedro Pablo Kuczynski, corruption, 2007, human rights violations, Ministry of Justice, Peruvian_
+_Context: Politics of Peru, tongue cancer, human rights violations, Peruvian, corruption, 2007, Alberto Fujimori, Ministry of Justice, Pedro Pablo Kuczynski_
 
 ##### Discovery and exploration of the Solar System
 ### ["Nature" publishes research from The Institute of Astrophysics of Andalusia at the Glorieta de la Astronomia of Granada, Spain, describing the discovery that a ring system orbits the trans-Neptunian dwarf planet Haumea. ](/news/2017/10/11/nature-publishes-research-from-the-institute-of-astrophysics-of-andalusia-at-the-glorieta-de-la-astronomaa-of-granada-spain-describing.md)
@@ -37,7 +37,7 @@ It’s the only dwarf planet to have a ring — as far as we know
 
 ##### 2017 in spaceflight
 ### [SpaceX launches a Falcon 9 Full Thrust rocket at Cape Canaveral, Florida, to supersynchronous orbit an Airbus-built communications satellite SES-11 for Luxembourg-based SES, and EchoStar 105 for U.S.-headquartered EchoStar. It's the third time when a Falcon 9 first stage is re-used. ](/news/2017/10/11/spacex-launches-a-falcon-9-full-thrust-rocket-at-cape-canaveral-florida-to-supersynchronous-orbit-an-airbus-built-communications-satellite.md)
-_Context: EchoStar, first stage is re-used, supersynchronous orbit, launches, Florida, SES-11, Falcon, EchoStar 105, SpaceX, Cape Canaveral, Airbus, United States, Luxembourg, Falcon 9 Full Thrust, 2017 in spaceflight, SES_
+_Context: Cape Canaveral, SES-11, Falcon 9 Full Thrust, first stage is re-used, Florida, Airbus, Luxembourg, supersynchronous orbit, SES, SpaceX, United States, EchoStar 105, EchoStar, launches, 2017 in spaceflight, Falcon_
 
 ## [Previous Day...](/news/2017/10/10/index.md)
 

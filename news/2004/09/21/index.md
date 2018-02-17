@@ -5,15 +5,15 @@ Formats: [HTML](2004/09/21/index.html)  [JSON](2004/09/21/index.json)  [XML](200
 
 ##### Texans for a Republican Majority
 ### [ Three members of Texans for a Republican Majority, a political action committee founded by Tom DeLay, Majority Leader of the U.S. House of Representatives, are indicted by a grand jury in Travis County, Texas, on charges of money laundering and accepting illegal campaign contributions. ](/news/2004/09/21/three-members-of-texans-for-a-republican-majority-a-political-action-committee-founded-by-tom-delay-majority-leader-of-the-u-s-house-of.md)
-_Context: Texans for a Republican Majority, political action committee, Tom DeLay, Travis County, Texas, United States House of Representatives, grand jury, Majority Leader, money laundering, campaign contribution, indicted, Texas_
+_Context: Tom DeLay, political action committee, campaign contribution, United States House of Representatives, Texans for a Republican Majority, Texas, money laundering, grand jury, Travis County, Texas, indicted, Majority Leader_
 
 ##### U.S. President
 ### [ U.S. President George W. Bush addresses a skeptical United Nations audience to discuss his plans regarding Iraq. ](/news/2004/09/21/u-s-president-george-w-bush-addresses-a-skeptical-united-nations-audience-to-discuss-his-plans-regarding-iraq.md)
-_Context: Iraq, George W. Bush, United Nations, U.S. President_
+_Context: George W. Bush, U.S. President, United Nations, Iraq_
 
 ##### 2004 Atlantic hurricane season
 ### [ 2004 Atlantic hurricane season: The number of people confirmed dead in Haiti from the effects of Hurricane Jeanne rises to at least 691, with the number of missing at more than 1,000. The city of Gonaves remains flooded, and thousands are homeless. ](/news/2004/09/21/2004-atlantic-hurricane-season-the-number-of-people-confirmed-dead-in-haiti-from-the-effects-of-hurricane-jeanne-rises-to-at-least-691-wi.md)
-_Context: Hurricane Jeanne, Gonaves, Haiti, 2004 Atlantic hurricane season_
+_Context: Gonaves, 2004 Atlantic hurricane season, Hurricane Jeanne, Haiti_
 
 ##### Department of Homeland Security
 ### [ The U.S.]Department of Homeland Security intercepts a United Airlines flight from London, so that Yusuf Islam, the musician formerly known as Cat Stevens, can be arrested and deported for allegedly financially supporting groups linked to terrorism. ](/news/2004/09/21/the-u-s-department-of-homeland-security-intercepts-a-united-airlines-flight-from-london-so-that-yusuf-islam-the-musician-formerly-known.md)
@@ -21,23 +21,23 @@ The singer formerly known as Cat Stevens returned to Britain on Thursday, saying
 
 ##### Syria
 ### [ Syria begins a "phased redeployment" of its forces in Lebanon (currently estimated at 20,000 troops), moving about 1,000 troops out of bases south of Beirut; it is not clear whether they will be redeployed in Lebanon or Syria. Earlier this month, UN Security Council Resolution 1559, drafted by the United States and France, called for all foreign troops to leave Lebanon. ](/news/2004/09/21/syria-begins-a-phased-redeployment-of-its-forces-in-lebanon-currently-estimated-at-20-000-troops-moving-about-1-000-troops-out-of-base.md)
-_Context: Syria, UN Security Council Resolution 1559, Lebanese, Beirut_
+_Context: Beirut, UN Security Council Resolution 1559, Syria, Lebanese_
 
 ##### United Nations
 ### [ Defying a recent United Nations resolution, Iran announces that it will continue converting 37 tons (33,600 kg) of yellowcake uranium into uranium hexafluoride, a requirement for producing nuclear power plant fuel, but which some fear might be used to build nuclear weapons. ](/news/2004/09/21/defying-a-recent-united-nations-resolution-iran-announces-that-it-will-continue-converting-37-tons-33-600-kg-of-yellowcake-uranium-into.md)
-_Context: yellowcake, uranium hexafluoride, Iran's nuclear program, Iran, nuclear programme, uranium, United Nations, nuclear power plant_
+_Context: yellowcake, Iran, nuclear power plant, United Nations, nuclear programme, uranium, Iran's nuclear program, uranium hexafluoride_
 
 ##### Rebel-held
 ### [ Conflict in Iraq: Tawhid and Jihad, a militant group led by Abu Musab al-Zarqawi, beheads American hostage Jack Hensley. The group threatens to behead the remaining hostage, Briton Kenneth Bigley, within 24 hours unless the United States meets its demands. Eugene Armstrong was beheaded yesterday. ](/news/2004/09/21/conflict-in-iraq-tawhid-and-jihad-a-militant-group-led-by-abu-musab-al-zarqawi-beheads-american-hostage-jack-hensley-the-group-threaten.md)
-_Context: Kenneth Bigley, Eugene Armstrong, rebel-held, Abu Musab al-Zarqawi, behead, Tawhid and Jihad, Jack Hensley_
+_Context: rebel-held, Tawhid and Jihad, Abu Musab al-Zarqawi, Eugene Armstrong, behead, Kenneth Bigley, Jack Hensley_
 
 ##### Earthquake
 ### [ An earthquake swarm is currently in progress in the Adobe Hills about 18 miles (29 km) east of California's Mono Lake. Over 600 earthquakes have been recorded since September 18, including events of moment magnitude 4.8, 5,4, and 5.5. ](/news/2004/09/21/an-earthquake-swarm-is-currently-in-progress-in-the-adobe-hills-about-18-miles-29-km-east-of-california-s-mono-lake-over-600-earthquakes.md)
-_Context: Mono Lake, M<sub>w</sub>&nbsp;5.2, California, earthquake_
+_Context: earthquake, Mono Lake, California, M<sub>w</sub>&nbsp;5.2_
 
 ##### Sanctions
 ### [ The United States formally lifts its general trade and aviation sanctions against Libya today, in response to Libya's decision last year to permit the removal of many of its weapons of mass destruction. ](/news/2004/09/21/the-united-states-formally-lifts-its-general-trade-and-aviation-sanctions-against-libya-today-in-response-to-libya-s-decision-last-year-to.md)
-_Context: weapons of mass destruction, sanctions, Libya_
+_Context: Libya, weapons of mass destruction, sanctions_
 
 ## [Previous Day...](/news/2004/09/20/index.md)
 

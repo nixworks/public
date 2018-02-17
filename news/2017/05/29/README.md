@@ -5,19 +5,19 @@ Formats: [HTML](2017/05/29/index.html)  [JSON](2017/05/29/index.json)  [XML](201
 
 ##### Marawi crisis
 ### [Philippine forces continue to battle Maute militants for the city of Marawi. ](/news/2017/05/29/philippine-forces-continue-to-battle-maute-militants-for-the-city-of-marawi.md)
-_Context: Maute group, Marawi, Philippine, Marawi crisis_
+_Context: Marawi crisis, Maute group, Marawi, Philippine_
 
 ##### Syrian Civil War
 ### [Damascus's governor says the last group of rebels and civilians have left the city's besieged Barzeh district. ](/news/2017/05/29/damascus-s-governor-says-the-last-group-of-rebels-and-civilians-have-left-the-city-s-besieged-barzeh-district.md)
-_Context: Syrian Civil War, Damascus, Barzeh_
+_Context: Barzeh, Syrian Civil War, Damascus_
 
 ##### Iraqi Civil War
 ### [Iraq's Popular Mobilization Forces, assisted by Iran, say they cleared ISIL out of several villages north of Ba'aj on the border with Syria. ](/news/2017/05/29/iraq-s-popular-mobilization-forces-assisted-by-iran-say-they-cleared-isil-out-of-several-villages-north-of-ba-aj-on-the-border-with-syria.md)
-_Context: Iraqi Civil War, ISIL, Syria, Ba'aj, Iran, Shi'ite volunteers_
+_Context: ISIL, Syria, Iraqi Civil War, Shi'ite volunteers, Ba'aj, Iran_
 
 ##### Canadian Prime Minister
 ### [Canadian Prime Minister Justin Trudeau asks Pope Francis for a public apology for the Roman Catholic Church's role in the abuse of indigenous children in the residential school system. In 2009, Pope Benedict XVI issued an expression of sorrow after an audience with Assembly of First Nations Chief Phil Fontaine. ](/news/2017/05/29/canadian-prime-minister-justin-trudeau-asks-pope-francis-for-a-public-apology-for-the-roman-catholic-church-s-role-in-the-abuse-of-indigenou.md)
-_Context: Justin Trudeau, Canadian Prime Minister, Assembly of First Nations, Chief Phil Fontaine, residential school system, Pope Francis, indigenous children, Pope Benedict XVI_
+_Context: Canadian Prime Minister, Chief Phil Fontaine, Justin Trudeau, indigenous children, Assembly of First Nations, Pope Benedict XVI, Pope Francis, residential school system_
 
 ##### Japan Tobacco
 ### [Japan Tobacco announces plans to quadruple its output of smokeless tobacco by the end of next year. ](/news/2017/05/29/japan-tobacco-announces-plans-to-quadruple-its-output-of-smokeless-tobacco-by-the-end-of-next-year.md)

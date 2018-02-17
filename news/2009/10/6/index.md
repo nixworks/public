@@ -5,11 +5,11 @@ Formats: [HTML](2009/10/6/index.html)  [JSON](2009/10/6/index.json)  [XML](2009/
 
 ##### Phishing
 ### [ An "industry-wide phishing scheme" targets sites such as Google, Hotmail, Yahoo! and AOL, with passwords posted online and more than a quarter of a million accounts at risk. ](/news/2009/10/6/an-industry-wide-phishing-scheme-targets-sites-such-as-google-hotmail-yahoo-and-aol-with-passwords-posted-online-and-more-than-a-quar.md)
-_Context: Yahoo!, Hotmail, Google, AOL, phishing_
+_Context: phishing, Hotmail, AOL, Yahoo!, Google_
 
 ##### Madagascar
 ### [ Madagascar's political rivals agree on cabinet posts in a unity government; the President is Andry Rajoelina, the Vice-President is Emmanuel Rakotovahiny, and the Prime Minister is Eugene Mangalaza. ](/news/2009/10/6/madagascar-s-political-rivals-agree-on-cabinet-posts-in-a-unity-government-the-president-is-andry-rajoelina-the-vice-president-is-emmanue.md)
-_Context: Madagascar, President, Eugene Mangalaza, Prime Minister of Madagascar, Emmanuel Rakotovahiny, Andry Rajoelina_
+_Context: Eugene Mangalaza, Prime Minister of Madagascar, Emmanuel Rakotovahiny, President, Andry Rajoelina, Madagascar_
 
 ##### Irish
 ### [ Ireland's Ceann Comhairle John O'Donoghue announces his resignation following a scandal over his expenses claims. ](/news/2009/10/6/ireland-s-ceann-comhairle-john-o-donoghue-announces-his-resignation-following-a-scandal-over-his-expenses-claims.md)
@@ -17,11 +17,11 @@ Ceann Comhairle John O&#39;Donoghue is to resign next week.
 
 ##### Rwandan Genocide
 ### [ One of the most wanted suspects involved in the 1994 Rwandan Genocide, Idelphonse Nizeyimana, is arrested in the Ugandan capital Kampala. ](/news/2009/10/6/one-of-the-most-wanted-suspects-involved-in-the-1994-rwandan-genocide-idelphonse-nizeyimana-is-arrested-in-the-ugandan-capital-kampala.md)
-_Context: Kampala, Idelphonse Nizeyimana, Rwandan Genocide, Uganda_
+_Context: Rwandan Genocide, Kampala, Uganda, Idelphonse Nizeyimana_
 
 ##### Charles K. Kao
 ### [ Charles K. Kao, Willard S. Boyle and George E. Smith win the 2009 Nobel Prize in Physics for the achievements concerning the transmission of light in fibers for optical communication and for the invention of an imaging semiconductor circuit - the CCD sensor. ](/news/2009/10/6/charles-k-kao-willard-s-boyle-and-george-e-smith-win-the-2009-nobel-prize-in-physics-for-the-achievements-concerning-the-transmission-o.md)
-_Context: semiconductor, Charles K. Kao, Willard S. Boyle, Nobel Prize in Physics, CCD sensor, optical communication, George E. Smith, fibers_
+_Context: George E. Smith, optical communication, fibers, Nobel Prize in Physics, Willard S. Boyle, semiconductor, Charles K. Kao, CCD sensor_
 
 ##### Typhoon Parma
 ### [ Typhoon Parma makes landfall at Luzon, the Philippines. ](/news/2009/10/6/typhoon-parma-makes-landfall-at-luzon-the-philippines.md)
@@ -29,19 +29,19 @@ MANILA - Weather bureau PAGASA said Tuesday that tropical storm &quot;Pepeng&quo
 
 ##### India
 ### [ The death toll from floods in the southern Indian states of Andhra Pradesh and Karnataka rises to 269, with a further 1.5 million people homeless. ](/news/2009/10/6/the-death-toll-from-floods-in-the-southern-indian-states-of-andhra-pradesh-and-karnataka-rises-to-269-with-a-further-1-5-million-people-ho.md)
-_Context: Andhra Pradesh, India, Karnataka_
+_Context: India, Karnataka, Andhra Pradesh_
 
 ##### Zimbabwe
 ### [ Zimbabwean President Robert Mugabe calls for improved relations with "hostile" countries at the opening of Parliament. ](/news/2009/10/6/zimbabwean-president-robert-mugabe-calls-for-improved-relations-with-hostile-countries-at-the-opening-of-parliament.md)
-_Context: President of Zimbabwe, Zimbabwe, Robert Mugabe, Parliament_
+_Context: Parliament, President of Zimbabwe, Zimbabwe, Robert Mugabe_
 
 ##### Hilary Mantel
 ### [ Hilary Mantel's "Wolf Hall" wins the 2009 Man Booker Prize. ](/news/2009/10/6/hilary-mantel-s-wolf-hall-wins-the-2009-man-booker-prize.md)
-_Context: Hilary Mantel, Man Booker Prize, Wolf Hall_
+_Context: Man Booker Prize, Wolf Hall, Hilary Mantel_
 
 ##### Somalia
 ### [ Somalia's State Minister for Defence Sheikh Yusuf Mohammad Siad is detained by security forces in Uganda. Siad's detention was originally reported as a kidnapping. ](/news/2009/10/6/somalia-s-state-minister-for-defence-sheikh-yusuf-mohammad-siad-is-detained-by-security-forces-in-uganda-siad-s-detention-was-originally-r.md)
-_Context: Uganda, Sheikh Yusuf Mohammad Siad, Somalia, kidnapping_
+_Context: kidnapping, Uganda, Sheikh Yusuf Mohammad Siad, Somalia_
 
 ## [Previous Day...](/news/2009/10/5/index.md)
 

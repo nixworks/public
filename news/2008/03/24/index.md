@@ -9,39 +9,39 @@ _Context: Kosovo, United Nations, Serbia_
 
 ##### Largest mass shooting in US history
 ### [ Relatives of victims of the Virginia Tech massacre report that the Government of Virginia will offer victims compensation of $100,000 to forestall law suits. ](/news/2008/03/24/relatives-of-victims-of-the-virginia-tech-massacre-report-that-the-government-of-virginia-will-offer-victims-compensation-of-100-000-to-fo.md)
-_Context: largest mass shooting in US history, Virginia, $_
+_Context: Virginia, largest mass shooting in US history, $_
 
 ##### Bhutan Peace and Prosperity Party
 ### [ The Bhutan Peace and Prosperity Party wins Bhutan's first democratic general election, making Lyonpo Jigme Thinley the new Prime Minister elect. ](/news/2008/03/24/the-bhutan-peace-and-prosperity-party-wins-bhutan-s-first-democratic-general-election-making-lyonpo-jigme-thinley-the-new-prime-minister-e.md)
-_Context: Bhutan Peace and Prosperity Party, Lyonpo Jigme Thinley, Bhutan, general election, Prime Minister_
+_Context: Lyonpo Jigme Thinley, general election, Bhutan, Prime Minister, Bhutan Peace and Prosperity Party_
 
 ##### Department of Justice
 ### [ The United States Department of Justice approves the merger of Sirius Satellite Radio and XM Satellite Radio. ](/news/2008/03/24/the-united-states-department-of-justice-approves-the-merger-of-sirius-satellite-radio-and-xm-satellite-radio.md)
-_Context: XM Satellite Radio, Department of Justice, merger, Sirius Satellite Radio_
+_Context: Sirius Satellite Radio, merger, Department of Justice, XM Satellite Radio_
 
 ##### FBI
 ### [ The Federal Bureau of Investigation identifies the bodies of two United States citizens working as contractors in Iraq kidnapped more than a year ago. ](/news/2008/03/24/the-federal-bureau-of-investigation-identifies-the-bodies-of-two-united-states-citizens-working-as-contractors-in-iraq-kidnapped-more-than.md)
-_Context: Iraq, United States, kidnap, FBI_
+_Context: kidnap, United States, FBI, Iraq_
 
 ##### Marleen Veldhuis
 ### [ Marleen Veldhuis of the Netherlands and Federica Pellegrini of Italy break world records at the final day of the European Swimming Championships in Eindhoven, Netherlands. ](/news/2008/03/24/marleen-veldhuis-of-the-netherlands-and-federica-pellegrini-of-italy-break-world-records-at-the-final-day-of-the-european-swimming-champion.md)
-_Context: world record, Italy, Marleen Veldhuis, the Netherlands, European Swimming Championships, Eindhoven, Netherlands, Federica Pellegrini_
+_Context: Federica Pellegrini, world record, European Swimming Championships, the Netherlands, Marleen Veldhuis, Eindhoven, Italy, Netherlands_
 
 ##### Comoros
 ### [ Comoran army helicopters drop leaflets on the island of Anjouan warning the population of the imminent landing of its troops backed by African Union contingents. ](/news/2008/03/24/comoran-army-helicopters-drop-leaflets-on-the-island-of-anjouan-warning-the-population-of-the-imminent-landing-of-its-troops-backed-by-afri.md)
-_Context: Anjouan, drop leaflets, helicopter, 2008 invasion of Anjouan, African Union, Comoros_
+_Context: helicopter, Comoros, African Union, 2008 invasion of Anjouan, drop leaflets, Anjouan_
 
 ##### Yusuf Raza Gillani
 ### [ Yusuf Raza Gillani of the Pakistan Peoples Party is elected Prime Minister of Pakistan by the National Assembly and vows to free Chief Justice Iftikhar Chaudhry and other judges from house arrest. ](/news/2008/03/24/yusuf-raza-gillani-of-the-pakistan-peoples-party-is-elected-prime-minister-of-pakistan-by-the-national-assembly-and-vows-to-free-chief-just.md)
-_Context: National Assembly, Pakistan Peoples Party, Yusuf Raza Gillani, Iftikhar Chaudhry, house arrest, Prime Minister_
+_Context: Pakistan Peoples Party, Prime Minister, house arrest, National Assembly, Iftikhar Chaudhry, Yusuf Raza Gillani_
 
 ##### President
 ### [ Former President of the Philippines Corazon Aquino, the leader of the 1986 People Power Revolution, is diagnosed with colon cancer. ](/news/2008/03/24/former-president-of-the-philippines-corazon-aquino-the-leader-of-the-1986-people-power-revolution-is-diagnosed-with-colon-cancer.md)
-_Context: 1986 People Power Revolution, colon cancer, President, Corazon Aquino, Philippines_
+_Context: Philippines, Corazon Aquino, 1986 People Power Revolution, President, colon cancer_
 
 ##### Olympic Torch
 ### [ The Olympic Flame of the 2008 Summer Olympics is lit in Olympia, despite disruption by three protesters from Reporters Without Borders, among whom was Robert Mnard. ](/news/2008/03/24/the-olympic-flame-of-the-2008-summer-olympics-is-lit-in-olympia-despite-disruption-by-three-protesters-from-reporters-without-borders-amo.md)
-_Context: 2008 Summer Olympics, Reporters Without Borders, Robert Mnard, Olympic Torch, Olympia, Greece_
+_Context: Olympia, Greece, Reporters Without Borders, Olympic Torch, Robert Mnard, 2008 Summer Olympics_
 
 ## [Previous Day...](/news/2008/03/23/index.md)
 

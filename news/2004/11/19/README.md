@@ -17,19 +17,19 @@ Pacific Rim leaders pledged Sunday to work on global security issues and push ah
 
 ##### Civil war
 ### [ Sudanese Civil War: At a special session of the United Nations Security Council in Nairobi, Kenya, the government of Sudan and southern rebels sign an agreement which states that both sides will commit themselves to ending the 21-year conflict by December 31. The Council then unanimously passes a resolution which promises substantial aid to the country after the wars in the south and in the region of Darfur come to an end. ](/news/2004/11/19/sudanese-civil-war-at-a-special-session-of-the-united-nations-security-council-in-nairobi-kenya-the-government-of-sudan-and-southern-reb.md)
-_Context: Darfur conflict, Nairobi, Kenya, civil war, United Nations, Sudan, United Nations Security Council_
+_Context: United Nations Security Council, Kenya, United Nations, civil war, Darfur conflict, Sudan, Nairobi_
 
 ##### Sino-Japanese relations
 ### [ Sino-Japanese relations: Taiwan President Chen Shui-bian says information provided by his government helped Japan locate a Chinese nuclear submarine in Japanese waters a week ago. The PRC expressed "regret" after the incident. ](/news/2004/11/19/sino-japanese-relations-taiwan-president-chen-shui-bian-says-information-provided-by-his-government-helped-japan-locate-a-chinese-nuclear.md)
-_Context: Chen Shui-bian, Sino-Japanese relations, President_
+_Context: President, Chen Shui-bian, Sino-Japanese relations_
 
 ##### Netherlands
 ### [ Dutch lawmaker Geert Wilders, one of the most controversial Dutch politicians, advocates a five-year halt to non-Western immigration in the wake of the murder of Theo van Gogh stating: "The Netherlands has been too tolerant to intolerant people for too long, we should not import a retarded political Islamic society to our country". ](/news/2004/11/19/dutch-lawmaker-geert-wilders-one-of-the-most-controversial-dutch-politicians-advocates-a-five-year-halt-to-non-western-immigration-in-the.md)
-_Context: Geert Wilders, immigration, Netherlands, Theo van Gogh_
+_Context: immigration, Theo van Gogh, Netherlands, Geert Wilders_
 
 ##### Israeli-Palestinian conflict
 ### [ Israeli-Palestinian conflict: The commander of the Israeli Defense Force, Moshe Yaalon, orders an investigation "to reach the truth" of claims by the Yediot Ahronot newspaper that IDF troops abused Palestinian corpses. ](/news/2004/11/19/israeli-palestinian-conflict-the-commander-of-the-israeli-defense-force-moshe-yaalon-orders-an-investigation-to-reach-the-truth-of-cla.md)
-_Context: Yediot Ahronot, Israeli-Palestinian conflict, Israeli soldier, Palestinian, Moshe Yaalon_
+_Context: Yediot Ahronot, Israeli-Palestinian conflict, Moshe Yaalon, Palestinian, Israeli soldier_
 
 ##### Congress
 ### [ United States Congress: The U.S. Congress has passed a bill reinstating and extending a ban on taxation of internet access for another three years. ](/news/2004/11/19/united-states-congress-the-u-s-congress-has-passed-a-bill-reinstating-and-extending-a-ban-on-taxation-of-internet-access-for-another-thre.md)
@@ -45,7 +45,7 @@ _Context: Congressman, $, national debt_
 
 ##### U.S. Military
 ### [ U.S. Military officials report that 102 soldiers, 85% of which are serving in Iraq, Kuwait and Afghanistan, have contracted a rather rare blood infection by Acinetobacter baumannii. Military investigators say there is no evidence of biochemical agents in the infection which surfaces occasionally in unsanitary hospitals, but that some soldiers were arriving with infections. ](/news/2004/11/19/u-s-military-officials-report-that-102-soldiers-85-of-which-are-serving-in-iraq-kuwait-and-afghanistan-have-contracted-a-rather-rare-b.md)
-_Context: Iraq, Kuwait, U.S. Military, Acinetobacter baumannii, Afghan_
+_Context: Kuwait, Afghan, Acinetobacter baumannii, Iraq, U.S. Military_
 
 ## [Previous Day...](/news/2004/11/18/index.md)
 

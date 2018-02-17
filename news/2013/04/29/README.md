@@ -9,7 +9,7 @@ Pakistani authorities say a suicide bomber targeting policemen has killed four p
 
 ##### Syria
 ### [Syrian state TV reports that the Prime Minister Wael Nader Al-Halqi escaped an assassination attempt in the western Damascus suburb of Mazzeh when a bomb explodes near his convoy. ](/news/2013/04/29/syrian-state-tv-reports-that-the-prime-minister-wael-nader-al-halqi-escaped-an-assassination-attempt-in-the-western-damascus-suburb-of-mazze.md)
-_Context: Prime Minister, Mazzeh, Wael Nader Al-Halqi, Syria, Damascus_
+_Context: Damascus, Wael Nader Al-Halqi, Prime Minister, Mazzeh, Syria_
 
 ##### 2012 Northern Mali conflict
 ### [A sixth French soldier is killed in Mali when his vehicle struck a roadside bomb, seriously injuring two more. ](/news/2013/04/29/a-sixth-french-soldier-is-killed-in-mali-when-his-vehicle-struck-a-roadside-bomb-seriously-injuring-two-more.md)
@@ -23,15 +23,15 @@ BAGHDAD - The Iraqi government ordered 10 predominantly Sunni Muslim satellite t
 ### [It is revealed that Everett Dutschke was, earlier this month, charged with two child molestations involving three girls younger than 16. ](/news/2013/04/29/it-is-revealed-that-everett-dutschke-was-earlier-this-month-charged-with-two-child-molestations-involving-three-girls-younger-than-16.md)
 ##### Sentenced to death
 ### [Prosecutors discuss a plea deal (avoidance of the death penalty in exchange for a likely sentence of life in prison without parole) for the surviving Boston bomber, Dzhokhar Tsarnaev. Police have taken DNA from Tamerlan Tsarnaev's wife and are exploring the brothers' connection to two deceased Russian extremists. ](/news/2013/04/29/prosecutors-discuss-a-plea-deal-avoidance-of-the-death-penalty-in-exchange-for-a-likely-sentence-of-life-in-prison-without-parole-for-the.md)
-_Context: Boston, Dzhokhar Tsarnaev, DNA, sentenced to death, life in prison without parole, Russia_
+_Context: life in prison without parole, DNA, sentenced to death, Russia, Boston, Dzhokhar Tsarnaev_
 
 ##### Supreme Court of the United States
 ### [The U.S. Supreme Court declines to hear a petition (Eaton Corp v. Z F Meritor) from Eaton Corp., letting stand a U.S. 3rd Circuit Court ruling on an antitrust issue that may limit the use of loyalty discounts in the form of rebates as a way of locking in customers. ](/news/2013/04/29/the-u-s-supreme-court-declines-to-hear-a-petition-eaton-corp-v-z-f-meritor-from-eaton-corp-letting-stand-a-u-s-3rd-circuit-court-ruli.md)
-_Context: Eaton Corp., antitrust, United States court, Supreme Court of the United States_
+_Context: antitrust, Supreme Court of the United States, Eaton Corp., United States court_
 
 ##### Explosion
 ### [A powerful explosion occurs in an office building in Prague, Czech Republic, believed to have been caused by natural gas, injures 35 people. Both the nearby Faculty of Arts and Sciences building of Charles University and the National Theater also sustain damage. ](/news/2013/04/29/a-powerful-explosion-occurs-in-an-office-building-in-prague-czech-republic-believed-to-have-been-caused-by-natural-gas-injures-35-people.md)
-_Context: Charles University, explosion, Czech Republic, Prague_
+_Context: Charles University, Czech Republic, explosion, Prague_
 
 ##### Boeing 747
 ### [A Boeing 747 crashes near an American military base in Bagram, Afghanistan, killing all seven American crew members onboard. ](/news/2013/04/29/a-boeing-747-crashes-near-an-american-military-base-in-bagram-afghanistan-killing-all-seven-american-crew-members-onboard.md)

@@ -21,11 +21,11 @@ Rebels blamed for landmine blast that killed six officers in eastern Indian stat
 
 ##### Suicide bomber
 ### [A suicide bomber attacks the United Nations compound in western Afghanistan based in Herat. ](/news/2010/10/23/a-suicide-bomber-attacks-the-united-nations-compound-in-western-afghanistan-based-in-herat.md)
-_Context: Herat, United Nations, Afghan, suicide bomber_
+_Context: suicide bomber, Herat, Afghan, United Nations_
 
 ##### Taliban
 ### [Nine Taliban fighters, including two commanders, are killed as security forces storm their hideout in Kandahar province, south of Afghanistan. ](/news/2010/10/23/nine-taliban-fighters-including-two-commanders-are-killed-as-security-forces-storm-their-hideout-in-kandahar-province-south-of-afghanista.md)
-_Context: Afghan, Kandahar province, Taliban_
+_Context: Taliban, Afghan, Kandahar province_
 
 ##### Recent strikes and demonstrations
 ### [2010 strikes in France: French unions challenge a back-to-work order in court, one day after the senate voted in favour of increasing their retirement age. ](/news/2010/10/23/2010-strikes-in-france-french-unions-challenge-a-back-to-work-order-in-court-one-day-after-the-senate-voted-in-favour-of-increasing-their.md)
@@ -45,11 +45,11 @@ Cyclone makes landfall on western coast, flattening homes, cutting off power and
 
 ##### Typhoon Megi
 ### [The death toll from Typhoon Megi in Taiwan has reached as least eleven with at least 23 people from two Chinese tour groups missing. It has now made landfall in China's Fujian province. ](/news/2010/10/23/the-death-toll-from-typhoon-megi-in-taiwan-has-reached-as-least-eleven-with-at-least-23-people-from-two-chinese-tour-groups-missing-it-has.md)
-_Context: Fujian, Taiwan, Chinese, Typhoon Megi_
+_Context: Typhoon Megi, Fujian, Taiwan, Chinese_
 
 ##### Mourne Mountains
 ### [Several people are killed in a helicopter crash in the Mourne Mountains, County Down. ](/news/2010/10/23/several-people-are-killed-in-a-helicopter-crash-in-the-mourne-mountains-county-down.md)
-_Context: Mourne Mountains, County Down_
+_Context: County Down, Mourne Mountains_
 
 ##### Centers for Disease Control and Prevention
 ### [The Centers for Disease Control and Prevention project that as many as 1 in 3 adult Americans will have diabetes by 2050 if current trends in diet and exercise continue.](/news/2010/10/23/the-centers-for-disease-control-and-prevention-project-that-as-many-as-1-in-3-adult-americans-will-have-diabetes-by-2050-if-current-trends-i.md)
@@ -61,7 +61,7 @@ In a final communiqué at the end of a two-week meeting at the Vatican on the pl
 
 ##### China
 ### [Rival demonstrations take place in China and Japan over the disputed Senkaku Islands. ](/news/2010/10/23/rival-demonstrations-take-place-in-china-and-japan-over-the-disputed-senkaku-islands.md)
-_Context: China, Senkaku Islands, Japan_
+_Context: Japan, Senkaku Islands, China_
 
 ##### German
 ### [German economy minister Rainer Bruederle criticizes the United States' monetary easing as indirectly manipulation of the USD exchange rates. ](/news/2010/10/23/german-economy-minister-rainer-bruederle-criticizes-the-united-states-monetary-easing-as-indirectly-manipulation-of-the-usd-exchange-rates.md)
@@ -81,7 +81,7 @@ Gunmen raid house party in violent border city of Ciudad Juarez, killing at leas
 
 ##### David Thompson
 ### [David Thompson, the Prime Minister of Barbados, dies of pancreatic cancer with Freundel Stuart being sworn in as the new Prime Minister. ](/news/2010/10/23/david-thompson-the-prime-minister-of-barbados-dies-of-pancreatic-cancer-with-freundel-stuart-being-sworn-in-as-the-new-prime-minister.md)
-_Context: pancreatic cancer, David Thompson, Prime Minister of Barbados,  Freundel Stuart_
+_Context: pancreatic cancer, Prime Minister of Barbados, David Thompson,  Freundel Stuart_
 
 ##### Bahrain
 ### [Voters in Bahrain go to the polls for the Bahraini parliamentary election. ](/news/2010/10/23/voters-in-bahrain-go-to-the-polls-for-the-bahraini-parliamentary-election.md)

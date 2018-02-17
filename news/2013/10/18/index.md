@@ -3,9 +3,9 @@ Formats: [HTML](2013/10/18/index.html)  [JSON](2013/10/18/index.json)  [XML](201
 
 ## [2013-10-18](/news/2013/10/18/index.md)
 
-##### China
+##### Chinese
 ### [China's economy grew at a rate of 7.8 percent in the third quarter. ](/news/2013/10/18/china-s-economy-grew-at-a-rate-of-7-8-percent-in-the-third-quarter.md)
-_Context: China_
+_Context: Chinese_
 
 ##### Prime Minister of Canada
 ### [The Prime Minister of Canada and the European Union tentatively sign a free trade and copyright agreement. ](/news/2013/10/18/the-prime-minister-of-canada-and-the-european-union-tentatively-sign-a-free-trade-and-copyright-agreement.md)
@@ -13,23 +13,23 @@ Canada and the EU have sign a tentative deal to open up markets and drop nearly 
 
 ##### Yoshitaka Shindo
 ### [Japanese cabinet minister Yoshitaka Shindo visits the controversial Yasukuni Shrine potentially causing conflict with the Philippines, South Korea and the People's Republic of China. ](/news/2013/10/18/japanese-cabinet-minister-yoshitaka-shinda-visits-the-controversial-yasukuni-shrine-potentially-causing-conflict-with-the-philippines-sout.md)
-_Context: Philippines, China, Yasukuni Shrine, Yoshitaka Shindo, South Korea_
+_Context: South Korea, China, Yasukuni Shrine, Philippines, Yoshitaka Shindo_
 
 ##### Tijuana Cartel
 ### [Former Tijuana Cartel leader Francisco Rafael Arellano Felix is killed in Los Cabos, Baja California Sur. ](/news/2013/10/18/former-tijuana-cartel-leader-francisco-rafael-arellano-fa-c-lix-is-killed-in-los-cabos-baja-california-sur.md)
-_Context: Los Cabos, Baja California Sur, Francisco Rafael Arellano Felix, Tijuana Cartel_
+_Context: Francisco Rafael Arellano Felix, Tijuana Cartel, Los Cabos, Baja California Sur_
 
 ##### India
 ### [Thirty-five members of the US owned MV Seaman Guard Ohio are arrested in the Indian port of Thoothukudi in Tamil Nadu for alleged illegal possession of arms and ammunition. ](/news/2013/10/18/thirty-five-members-of-the-us-owned-mv-seaman-guard-ohio-are-arrested-in-the-indian-port-of-thoothukudi-in-tamil-nadu-for-alleged-illegal-po.md)
-_Context: Thoothukudi, Tamil Nadu, India_
+_Context: Tamil Nadu, Thoothukudi, India_
 
 ##### Constitutional Council of France
 ### [The Constitutional Council of France rules that the country's mayors cannot refuse to officiate at same-sex marriages. ](/news/2013/10/18/the-constitutional-council-of-france-rules-that-the-country-s-mayors-cannot-refuse-to-officiate-at-same-sex-marriages.md)
-_Context: Constitutional Council of France, same-sex marriages_
+_Context: same-sex marriages, Constitutional Council of France_
 
 ##### High Court
 ### [In London, the High Court dismisses a lawsuit against former directors of the London branch of Bernard Madoff's operations, including his one living and one deceased son. The judge, Mr. Justice Popplewell, spoke rather harshly of the plaintiffs, praising the "commendable dignity and restraint" of certain of the defendants. ](/news/2013/10/18/in-london-the-high-court-dismisses-a-lawsuit-against-former-directors-of-the-london-branch-of-bernard-madoff-s-operations-including-his-on.md)
-_Context: Bernard Madoff, High Court_
+_Context: High Court, Bernard Madoff_
 
 ##### Saudi Arabia
 ### [Saudi Arabia announces it will decline to accept a seat on the United Nations Security Council after being elected for it, citing the UN's inability to the stop the Ghouta chemical attack. ](/news/2013/10/18/saudi-arabia-announces-it-will-decline-to-accept-a-seat-on-the-united-nations-security-council-after-being-elected-for-it-citing-the-un-s-i.md)
@@ -41,7 +41,7 @@ Get up to the minute breaking political news and in-depth analysis on ABCNews.co
 
 ##### Asteroid
 ### [Asteroid 2013 TV135 is discovered with an approximately 1 in 63,000 chance of colliding with the earth in 2032. ](/news/2013/10/18/asteroid-2013-tv135-is-discovered-with-an-approximately-1-in-63-000-chance-of-colliding-with-the-earth-in-2032.md)
-_Context: 2013 TV135, Asteroid_
+_Context: Asteroid, 2013 TV135_
 
 ## [Previous Day...](/news/2013/10/17/index.md)
 

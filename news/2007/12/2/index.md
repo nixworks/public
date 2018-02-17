@@ -5,7 +5,7 @@ Formats: [HTML](2007/12/2/index.html)  [JSON](2007/12/2/index.json)  [XML](2007/
 
 ##### Venezuela
 ### [ Venezuelan President Hugo Chvez's constitutional amendments are rejected by a margin of 51% to 49% in a popular vote. He concedes the vote. ](/news/2007/12/2/venezuelan-president-hugo-chavez-s-constitutional-amendments-are-rejected-by-a-margin-of-51-to-49-in-a-popular-vote-he-concedes-the-vote.md)
-_Context: Hugo Chvez, constitutional amendments, Venezuela, Venezuelan President_
+_Context: Venezuelan President, Hugo Chvez, constitutional amendments, Venezuela_
 
 ##### Russia
 ### [ Russian President Vladimir Putin's United Russia party wins 62.8% of the votes in Russia's parliamentary elections. ](/news/2007/12/2/russian-president-vladimir-putin-s-united-russia-party-wins-62-8-of-the-votes-in-russia-s-parliamentary-elections.md)
@@ -17,11 +17,11 @@ _Context: Sbastien Loeb, World Rally Championship, Tommi Mkinen_
 
 ##### Brazil
 ### [ Brazil starts free-to-air digital television transmissions in So Paulo, but broadcasting companies must transmit signals in both analogue and digital formats until June 2016. ](/news/2007/12/2/brazil-starts-free-to-air-digital-television-transmissions-in-sao-paulo-but-broadcasting-companies-must-transmit-signals-in-both-analogue.md)
-_Context: So Paulo, Brazil, digital television transmissions_
+_Context: So Paulo, digital television transmissions, Brazil_
 
 ##### Zasyadko coal mine
 ### [ Four people are killed at the Zasyadko coal mine in eastern Ukraine where 101 people were killed twelve days earlier in the country's worst mining accident. ](/news/2007/12/2/four-people-are-killed-at-the-zasyadko-coal-mine-in-eastern-ukraine-where-101-people-were-killed-twelve-days-earlier-in-the-country-s-worst.md)
-_Context: Ukraine, Zasyadko coal mine, twelve days earlier_
+_Context: twelve days earlier, Ukraine, Zasyadko coal mine_
 
 ## [Previous Day...](/news/2007/12/1/index.md)
 

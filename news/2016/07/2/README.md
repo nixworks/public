@@ -9,7 +9,7 @@ Bangladesh Prime Minister Sheikh Hasina said on Saturday that 13 hostages were r
 
 ##### War in Afghanistan
 ### [At least two people are killed and dozens more are wounded in a suicide bombing in Jalalabad, Nangarhar Province. ](/news/2016/07/2/at-least-two-people-are-killed-and-dozens-more-are-wounded-in-a-suicide-bombing-in-jalalabad-nangarhar-province.md)
-_Context: Jalalabad, War in Afghanistan, Nangarhar Province_
+_Context: War in Afghanistan, Nangarhar Province, Jalalabad_
 
 ##### Iraqi Civil War
 ### [According to The Pentagon, two senior ISIL leaders have been killed by a United States-led coalition airstrike in Mosul. ](/news/2016/07/2/according-to-the-pentagon-two-senior-isil-leaders-have-been-killed-by-a-united-states-led-coalition-airstrike-in-mosul.md)
@@ -17,7 +17,7 @@ Pentagon says deputy minister of war and commander died in US-led coalition airs
 
 ##### Syrian Civil War
 ### [Syrian government airstrikes in Damascus kill at least 30 people. According to the rebels, the airstrikes were revenge for the killing of a Syrian Air Force pilot by Al-Nusra Front yesterday. The airstrikes reportedly targeted a medical centre and a school. ](/news/2016/07/2/syrian-government-airstrikes-in-damascus-kill-at-least-30-people-according-to-the-rebels-the-airstrikes-were-revenge-for-the-killing-of-a.md)
-_Context: Jabhat al-Nusra, Syrian Civil War, Syrian, Damascus_
+_Context: Jabhat al-Nusra, Damascus, Syrian, Syrian Civil War_
 
 ##### 2016 Istanbul airport attack
 ### [Turkish police arrest a total of 41 people in connection with the Istanbul Ataturk Airport terrorist attack. ](/news/2016/07/2/turkish-police-arrest-a-total-of-41-people-in-connection-with-the-istanbul-atata1-4rk-airport-terrorist-attack.md)

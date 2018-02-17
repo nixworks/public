@@ -9,7 +9,7 @@ Reviled on the Maidan, members of the &ldquo;Berkut&rdquo; are offered sanctuary
 
 ##### Syria
 ### [Syrian army and Hezbollah troops kill over 70 rebel fighters in an ambush in the outskirts of Damascus. ](/news/2014/02/26/syrian-army-and-hezbollah-troops-kill-over-70-rebel-fighters-in-an-ambush-in-the-outskirts-of-damascus.md)
-_Context: ambush, Damascus, Syria, Hezbollah_
+_Context: Syria, ambush, Damascus, Hezbollah_
 
 ##### Egypt
 ### [An Egyptian court sentences 26 people to death in absentia for plotting attacks on ships passing through the Suez Canal. ](/news/2014/02/26/an-egyptian-court-sentences-26-people-to-death-in-absentia-for-plotting-attacks-on-ships-passing-through-the-suez-canal.md)
@@ -17,7 +17,7 @@ An Egyptian court sentenced 26 people to death for plotting attacks on ships in 
 
 ##### Ming Pao
 ### [Kevin Lau Chun-to, the former editor of newspaper "Ming Pao" whose dismissal in January sparked protests over press freedom, is attacked by a man with a meat cleaver in his Hong Kong neighborhood. He is in critical condition. ](/news/2014/02/26/kevin-lau-chun-to-the-former-editor-of-newspaper-ming-pao-whose-dismissal-in-january-sparked-protests-over-press-freedom-is-attacked-by.md)
-_Context: Ming Pao, meat cleaver, Hong Kong_
+_Context: Hong Kong, Ming Pao, meat cleaver_
 
 ##### Murder of Lee Rigby
 ### [The two men convicted of the murder of Lee Rigby are sentenced to life imprisonment, Michael Adebolajo without the possibility of parole, and Michael Adebowale with the possibility of parole after 45 years. ](/news/2014/02/26/the-two-men-convicted-of-the-murder-of-lee-rigby-are-sentenced-to-life-imprisonment-michael-adebolajo-without-the-possibility-of-parole-an.md)

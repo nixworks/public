@@ -5,7 +5,7 @@ Formats: [HTML](2004/02/29/index.html)  [JSON](2004/02/29/index.json)  [XML](200
 
 ##### Jean-Bertrand Aristide
 ### [ Jean-Bertrand Aristide resigns as president of Haiti and flees the country for the Central African Republic. The chief justice of the Haitian supreme court, Boniface Alexandre, is sworn in as interim president. ](/news/2004/02/29/jean-bertrand-aristide-resigns-as-president-of-haiti-and-flees-the-country-for-the-central-african-republic-the-chief-justice-of-the-haiti.md)
-_Context: Central African Republic, Jean-Bertrand Aristide, Haiti, Boniface Alexandre_
+_Context: Haiti, Boniface Alexandre, Central African Republic, Jean-Bertrand Aristide_
 
 ##### Occupation of Iraq
 ### [ Iraq's leaders meet deadline for drafting interim constitution. ](/news/2004/02/29/iraq-s-leaders-meet-deadline-for-drafting-interim-constitution.md)

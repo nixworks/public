@@ -13,7 +13,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ##### Drug crackdown
 ### [With 2,400 people dead so far, Rodrigo Duterte, the President of the Philippines, says that "plenty will be killed" in the war against drugs. ](/news/2016/09/5/with-2-400-people-dead-so-far-rodrigo-duterte-the-president-of-the-philippines-says-that-plenty-will-be-killed-in-the-war-against-drugs.md)
-_Context: President, drug crackdown, Rodrigo Duterte_
+_Context: President, Rodrigo Duterte, drug crackdown_
 
 ##### Freddie Mercury
 ### [An asteroid is named in honour of Freddie Mercury on what would have been his 70th birthday. ](/news/2016/09/5/an-asteroid-is-named-in-honour-of-freddie-mercury-on-what-would-have-been-his-70th-birthday.md)
@@ -25,7 +25,7 @@ Schlafly rose to prominence and influence among conservatives through her fight 
 
 ##### Russia-Saudi Arabia relations
 ### [Russia and Saudi Arabia agree on a plan to manipulate oil output. ](/news/2016/09/5/russia-and-saudi-arabia-agree-on-a-plan-to-manipulate-oil-output.md)
-_Context: Russia, Russia-Saudi Arabia relations, oil, Saudi Arabia_
+_Context: oil, Russia-Saudi Arabia relations, Saudi Arabia, Russia_
 
 ##### Rodrigo Duterte
 ### [The Duterte administration suspends more Philippine mines for violating environmental regulations. ](/news/2016/09/5/the-duterte-administration-suspends-more-philippine-mines-for-violating-environmental-regulations.md)
@@ -45,7 +45,7 @@ Singapore has added 91 new Zika cases since Friday, with a possible new cluster 
 
 ##### 2016 G20 Hangzhou summit
 ### [U.S. President Barack Obama and Russian President Vladimir Putin fail to agree on a peace deal regarding the Syrian civil war. ](/news/2016/09/5/u-s-president-barack-obama-and-russian-president-vladimir-putin-fail-to-agree-on-a-peace-deal-regarding-the-syrian-civil-war.md)
-_Context: 2016 G20 Hangzhou summit, Syrian civil war, Vladimir Putin, Barack Obama, Russian President, U.S. President_
+_Context: Barack Obama, Syrian civil war, 2016 G20 Hangzhou summit, U.S. President, Vladimir Putin, Russian President_
 
 ##### Philippines-United States relations
 ### [U.S. President Barack Obama cancels a scheduled meeting with the President of the Philippines, Rodrigo Duterte, after Duterte referred to Obama as a "son of a whore", while adding "I am no American puppet", in response to Obama's recent criticism of his war on drugs. ](/news/2016/09/5/u-s-president-barack-obama-cancels-a-scheduled-meeting-with-the-president-of-the-philippines-rodrigo-duterte-after-duterte-referred-to-ob.md)
@@ -55,7 +55,7 @@ An intemperate remark from Rodrigo Duterte derailed a bilateral meeting.
 ### [South Korea reports that North Korea has fired three ballistic missiles into the Sea of Japan. ](/news/2016/09/5/south-korea-reports-that-north-korea-has-fired-three-ballistic-missiles-into-the-sea-of-japan.md)
 North Korea fires three ballistic missiles into the sea off its east coast, South Korea says.
 
-##### China
+##### Chinese
 ### [Chinese vessels are seen positioned near the disputed Scarborough Shoal off the coast of the Philippines. ](/news/2016/09/5/chinese-vessels-are-seen-positioned-near-the-disputed-scarborough-shoal-off-the-coast-of-the-philippines.md)
 The presence of Chinese ships near Scarborough Shoal during a Group of 20 summit meeting unsettled the Philippines, which also claims the reef.
 
@@ -63,13 +63,13 @@ The presence of Chinese ships near Scarborough Shoal during a Group of 20 summit
 ### [Nathan Law becomes the youngest-ever Hong Kong legislator at age 23. ](/news/2016/09/5/nathan-law-becomes-the-youngest-ever-hong-kong-legislator-at-age-23.md)
 Nathan Law Kwun-chung, a 23-year-old pro-independence candidate has just been elected to Hong Kong&#39;s legislature.
 
-##### 2016 U.S. presidential election
+##### 2016 U.S. election
 ### [Libertarian nominee Gary Johnson qualifies in Connecticut giving him ballot access to 48 states. ](/news/2016/09/5/libertarian-nominee-gary-johnson-qualifies-in-connecticut-giving-him-ballot-access-to-48-states.md)
-_Context: Connecticut, Libertarian, 2016 U.S. presidential election, Gary Johnson_
+_Context: Libertarian, Gary Johnson, 2016 U.S. election, Connecticut_
 
 ##### European Space Agency
 ### [The European Space Agency's robotic lander "Philae" is discovered wedged in a crack between some rocks in the shadow of a cliff on 67P-Churyumov-Gerasimenko by the Rosetta space probe after being lost since 2014. ](/news/2016/09/5/the-european-space-agency-s-robotic-lander-philae-is-discovered-wedged-in-a-crack-between-some-rocks-in-the-shadow-of-a-cliff-on-67p-chury.md)
-_Context: 67P/Churyumov-Gerasimenko, European Space Agency, lander, ''Rosetta'' space probe, Philae_
+_Context: ''Rosetta'' space probe, European Space Agency, Philae, 67P/Churyumov-Gerasimenko, lander_
 
 ## [Previous Day...](/news/2016/09/4/index.md)
 

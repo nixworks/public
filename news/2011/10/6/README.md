@@ -9,7 +9,7 @@ _Context: Tomas Transtromer, Nobel Prize in Literature_
 
 ##### Japan
 ### [Production at the Japanese plants of carmaker Toyota returns to normal following the 2011 Tohoku earthquake and tsunami. ](/news/2011/10/6/production-at-the-japanese-plants-of-carmaker-toyota-returns-to-normal-following-the-2011-tahoku-earthquake-and-tsunami.md)
-_Context: Japan, 2011 Tohoku earthquake and tsunami, Toyota_
+_Context: Toyota, 2011 Tohoku earthquake and tsunami, Japan_
 
 ##### Bank of England
 ### [The Bank of England injects a further GBP75bn into the British economy through quantitative easing. ](/news/2011/10/6/the-bank-of-england-injects-a-further-agbp75bn-into-the-british-economy-through-quantitative-easing.md)
@@ -17,7 +17,7 @@ The Bank of England says it will inject a further £75bn into the economy throug
 
 ##### Hurricane Jova
 ### [Tropical Storm Jova forms off the Pacific coast of Mexico. ](/news/2011/10/6/tropical-storm-jova-forms-off-the-pacific-coast-of-mexico.md)
-_Context: Mexican, Hurricane Jova, South Pacific Ocean_
+_Context: South Pacific Ocean, Hurricane Jova, Mexico_
 
 ##### South Korea
 ### [South Korea rejects North Korea's demands that two citizens from the north who crossed the border be repatriated. ](/news/2011/10/6/south-korea-rejects-north-korea-s-demands-that-two-citizens-from-the-north-who-crossed-the-border-be-repatriated.md)

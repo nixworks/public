@@ -5,15 +5,15 @@ Formats: [HTML](2004/09/3/index.html)  [JSON](2004/09/3/index.json)  [XML](2004/
 
 ##### Taiwan Affairs Office
 ### [ The Taiwan Affairs Office of the State Council of the People's Republic of China criticizes Chen Shui-bian's recent suggestion that "Taiwan" is the best abbreviation for the Republic of China, characterizing it as an attempt to promote Taiwan independence. ](/news/2004/09/3/the-taiwan-affairs-office-of-the-state-council-of-the-people-s-republic-of-china-criticizes-chen-shui-bian-s-recent-suggestion-that-taiwan.md)
-_Context: independence, Taiwan Affairs Office, Taiwan, China's State Council, Chen Shui-bian_
+_Context: independence, China's State Council, Taiwan, Chen Shui-bian, Taiwan Affairs Office_
 
 ##### Syria
 ### [ At the request of Syria, and in defiance of United Nations Security Council Resolution 1559, Lebanon amends its constitution to allow President mile Lahoud to serve an additional term. ](/news/2004/09/3/at-the-request-of-syria-and-in-defiance-of-united-nations-security-council-resolution-1559-lebanon-amends-its-constitution-to-allow-presi.md)
-_Context: mile Lahoud, Syria, Lebanese, United Nations Security Council_
+_Context: Syria, Lebanese, United Nations Security Council, mile Lahoud_
 
 ##### U.S. President
 ### [ Former United States President Bill Clinton is to receive urgent heart bypass surgery as early as Monday. He was admitted to New York Presbyterian Hospital on Friday after an angiogram showed lesions in multiple coronary arteries. ](/news/2004/09/3/former-united-states-president-bill-clinton-is-to-receive-urgent-heart-bypass-surgery-as-early-as-monday-he-was-admitted-to-new-york-presb.md)
-_Context: U.S. President, lesion, angiogram, Bill Clinton, coronary artery, heart bypass_
+_Context: heart bypass, Bill Clinton, angiogram, coronary artery, U.S. President, lesion_
 
 ## [Previous Day...](/news/2004/09/2/index.md)
 

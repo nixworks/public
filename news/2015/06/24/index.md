@@ -5,7 +5,7 @@ Formats: [HTML](2015/06/24/index.html)  [JSON](2015/06/24/index.json)  [XML](201
 
 ##### Boko Haram
 ### [Over 42 people are shot dead by suspected Boko Haram gunmen in two attacks on villages in Nigeria's Borno state. ](/news/2015/06/24/over-42-people-are-shot-dead-by-suspected-boko-haram-gunmen-in-two-attacks-on-villages-in-nigeria-s-borno-state.md)
-_Context: Borno State, Nigeria, Boko Haram_
+_Context: Boko Haram, Borno State, Nigeria_
 
 ##### Xinjiang Conflict
 ### [A police checkpoint on the outskirts of Kashgar in Xinjiang is attacked by ethnic Uighurs, with at least 18 killed according to US-based Radio Free Asia. ](/news/2015/06/24/a-police-checkpoint-on-the-outskirts-of-kashgar-in-xinjiang-is-attacked-by-ethnic-uighurs-with-at-least-18-killed-according-to-us-based-rad.md)
@@ -13,13 +13,13 @@ At least 18 people are killed in the Chinese region of Xinjiang during a clash a
 
 ##### Pakistani heat wave
 ### [The death toll from the heat wave reaches nears 800 in Sindh province with 744 people dead in the city of Karachi alone. ](/news/2015/06/24/the-death-toll-from-the-heat-wave-reaches-nears-800-in-sindh-province-with-744-people-dead-in-the-city-of-karachi-alone.md)
-_Context: Pakistani heat wave, Sindh, Karachi_
+_Context: Karachi, Pakistani heat wave, Sindh_
 
 ##### Middle East respiratory syndrome outbreak in South Korea
 ### [The government of South Korea announces that it will provide maximum financial aid to hospitals and clinics affected by the MERS outbreak. ](/news/2015/06/24/the-government-of-south-korea-announces-that-it-will-provide-maximum-financial-aid-to-hospitals-and-clinics-affected-by-the-mers-outbreak.md)
  The government will provide the maximum financial aid possible to hospitals and clinics that have suffered damages in their efforts to contain Middle East Respiratory Syndrome (MERS), the top economic policymaker said Wednesday.
 
-##### China
+##### Chinese
 ### [The People's Republic of China claims that the Golden Triangle regions of Laos, Myanmar and Thailand are the source of most of its imports of heroin and methamphetamine. The region has been known for drug cultivation for centuries. ](/news/2015/06/24/the-people-s-republic-of-china-claims-that-the-golden-triangle-regions-of-laos-myanmar-and-thailand-are-the-source-of-most-of-its-imports-o.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
@@ -29,7 +29,7 @@ President Obama tells his French counterpart, Francois Hollande, that the US is 
 
 ##### Israel
 ### [Israel revokes permits for 500 Palestinians from the Gaza Strip to enter Jerusalem for Friday prayers following a rocket attack on southern Israel. ](/news/2015/06/24/israel-revokes-permits-for-500-palestinians-from-the-gaza-strip-to-enter-jerusalem-for-friday-prayers-following-a-rocket-attack-on-southern.md)
-_Context: Friday prayers, Gaza Strip, Israel, Jerusalem, Palestinian_
+_Context: Gaza Strip, Israel, Jerusalem, Friday prayers, Palestinian_
 
 ##### Trans-Pacific Partnership
 ### [The United States Senate approves a motion giving President Barack Obama fast track authority to complete trade negotiations with 11 countries in the Asia-Pacific region. ](/news/2015/06/24/the-united-states-senate-approves-a-motion-giving-president-barack-obama-fast-track-authority-to-complete-trade-negotiations-with-11-countri.md)
@@ -47,13 +47,13 @@ Since the federal government reinstated the death penalty in 1988, only three me
 ### [China's customs officers seize more than 100,000 MT of meat, many of which expired, some more than 40 years ago. ](/news/2015/06/24/china-s-customs-officers-seize-more-than-100-000-mt-of-meat-many-of-which-expired-some-more-than-40-years-ago.md)
 The thousands of tons of meat have an estimated value of more than $480 million — but also pose serious health risks, officials said.
 
-##### 2016 U.S. presidential election
+##### 2016 U.S. election
 ### [Bobby Jindal, the Governor of Louisiana, announces that he will be a candidate for the Republican Party nomination in the 2016 Presidential election.](/news/2015/06/24/bobby-jindal-the-governor-of-louisiana-announces-that-he-will-be-a-candidate-for-the-republican-party-nomination-in-the-2016-presidential.md)
 Gov. Bobby Jindal, who became Louisiana’s first nonwhite governor since Reconstruction but whose popularity has plummeted, joins a crowded field of Republican contenders.
 
 ##### United States House of Representatives
 ### [The United States House of Representatives votes 247-180 to allow states to opt out of Barack Obama's carbon emissions reduction if the state governor believes compliance would increase electricity bills too much or have an adverse effect on reliability of supply. ](/news/2015/06/24/the-united-states-house-of-representatives-votes-247-180-to-allow-states-to-opt-out-of-barack-obama-s-carbon-emissions-reduction-if-the-stat.md)
-_Context: carbon emissions, United States House of Representatives, Barack Obama_
+_Context: Barack Obama, carbon emissions, United States House of Representatives_
 
 ## [Previous Day...](/news/2015/06/23/index.md)
 

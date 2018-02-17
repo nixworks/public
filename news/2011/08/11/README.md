@@ -13,11 +13,11 @@ At least seven people are killed in twin bombings in the north-western Pakistani
 
 ##### Stock market
 ### [Stock markets in Asia and Australia fall on the back of a sharp decline in Wednesday's trading on the New York Stock Exchange. ](/news/2011/08/11/stock-markets-in-asia-and-australia-fall-on-the-back-of-a-sharp-decline-in-wednesday-s-trading-on-the-new-york-stock-exchange.md)
-_Context: Stock market, Asia, Australia, New York Stock Exchange_
+_Context: New York Stock Exchange, Stock market, Asia, Australia_
 
 ##### City Council
 ### [The City Council in the New Zealand city of Christchurch announces plans to rebuild its central business district after the recent earthquake. ](/news/2011/08/11/the-city-council-in-the-new-zealand-city-of-christchurch-announces-plans-to-rebuild-its-central-business-district-after-the-recent-earthquak.md)
-_Context: Christchurch, central business district, 2011 Christchurch earthquake, City Council, New Zealand_
+_Context: New Zealand, City Council, Christchurch, 2011 Christchurch earthquake, central business district_
 
 ##### Israel
 ### [Final approval is given for the building of 1,600 Israeli settler homes in "disputed" East Jerusalem by Israeli Interior Minister Eli Yishai despite a diplomatic rebuke Tuesday from the United States over earlier construction plans. ](/news/2011/08/11/final-approval-is-given-for-the-building-of-1-600-israeli-settler-homes-in-disputed-east-jerusalem-by-israeli-interior-minister-eli-yishai.md)
@@ -29,7 +29,7 @@ A KEY suspect in the 2002 Bali bombings has arrived in the Indonesian capital af
 
 ##### Parliament
 ### [The Parliament of the United Kingdom comes back from its summer break to debate the 2011 England riots. ](/news/2011/08/11/the-parliament-of-the-united-kingdom-comes-back-from-its-summer-break-to-debate-the-2011-england-riots.md)
-_Context: Parliament, 2011 England riots_
+_Context: 2011 England riots, Parliament_
 
 ##### Philippine Senate
 ### [The Philippine Senate Electoral Tribunal proclaims Aquilino Pimentel III as the winner of the 2007 election days after Juan Miguel Zubiri resigned due to alleged electoral fraud. ](/news/2011/08/11/the-philippine-senate-electoral-tribunal-proclaims-aquilino-pimentel-iii-as-the-winner-of-the-2007-election-days-after-juan-miguel-zubiri-re.md)

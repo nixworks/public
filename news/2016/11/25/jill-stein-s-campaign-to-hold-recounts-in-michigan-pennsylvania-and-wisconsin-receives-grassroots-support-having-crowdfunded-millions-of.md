@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/11/25/jill-stein-s-campaign-to-hold-recounts-in-michi
 
 ### [2016-11-25](/news/2016/11/25/index.md)
 
-##### 2016 U.S. presidential election
+##### 2016 U.S. election
 # Jill Stein's campaign to hold recounts in Michigan, Pennsylvania, and Wisconsin receives grassroots support, having crowdfunded millions of dollars through private donations. 
 
 Former Green Party presidential candidate Jill Stein on Thursday launched a bid to seek a vote recount in Wisconsin, the first of three Rust Belt states wo
@@ -28,8 +28,8 @@ Former Green Party presidential candidate Jill Stein on Thursday launched a bid 
 
 ### Related:
 
-1. [Former Presidential Green Party candidate Jill Stein is seeking donations for recount efforts in Michigan, Pennsylvania, and Wisconsin. ](/news/2016/11/24/former-presidential-green-party-candidate-jill-stein-is-seeking-donations-for-recount-efforts-in-michigan-pennsylvania-and-wisconsin.md) _Context: 2016 U.S. presidential election, Jill Stein, Mich., Pennsylvania, Wisconsin_
+1. [Former Presidential Green Party candidate Jill Stein is seeking donations for recount efforts in Michigan, Pennsylvania, and Wisconsin. ](/news/2016/11/24/former-presidential-green-party-candidate-jill-stein-is-seeking-donations-for-recount-efforts-in-michigan-pennsylvania-and-wisconsin.md) _Context: 2016 U.S. election, Jill Stein, Mich., Pennsylvania, Wisconsin_
 2. [The campaign of Republican president-elect Donald Trump has called the planned recounts by Green nominee Jill Stein's campaign in Wisconsin, Pennsylvania and Michigan a "scam" and has criticized the participation of the campaign of Democratic candidate Hillary Clinton. ](/news/2016/11/27/the-campaign-of-republican-presidentaelect-donald-trump-has-called-the-planned-recounts-by-green-nominee-jill-stein-s-campaign-in-wisconsi.md) _Context: Jill Stein, Mich., Pennsylvania, Wisconsin_
 3. [The Clinton campaign announces it will participate in efforts to push for recounts by Jill Stein's campaign in Michigan, Pennsylvania and Wisconsin. ](/news/2016/11/26/the-clinton-campaign-announces-it-will-participate-in-efforts-to-push-for-recounts-by-jill-stein-s-campaign-in-michigan-pennsylvania-and-wi.md) _Context: Jill Stein, Mich., Pennsylvania, Wisconsin_
-4. [Mark A. Goldsmith, a United States district judge on the United States District Court for the Eastern District of Michigan ends a recount for the state of Michigan after a state court found that Green Party of the United States candidate Jill Stein had no standing to seek a recount. ](/news/2016/12/7/mark-a-goldsmith-a-united-states-district-judge-on-the-united-states-district-court-for-the-eastern-district-of-michigan-ends-a-recount-fo.md) _Context: 2016 U.S. presidential election, Jill Stein, Mich._
+4. [Mark A. Goldsmith, a United States district judge on the United States District Court for the Eastern District of Michigan ends a recount for the state of Michigan after a state court found that Green Party of the United States candidate Jill Stein had no standing to seek a recount. ](/news/2016/12/7/mark-a-goldsmith-a-united-states-district-judge-on-the-united-states-district-court-for-the-eastern-district-of-michigan-ends-a-recount-fo.md) _Context: 2016 U.S. election, Jill Stein, Mich._
 5. [The campaign of Jill Stein files for a recount in Pennsylvania and plans to do so in Michigan. ](/news/2016/11/28/the-campaign-of-jill-stein-files-for-a-recount-in-pennsylvania-and-plans-to-do-so-in-michigan.md) _Context: Jill Stein, Mich., Pennsylvania_

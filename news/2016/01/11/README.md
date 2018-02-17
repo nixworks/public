@@ -9,7 +9,7 @@ The Islamic State (IS) group says it targeted Shia Muslims at a Baghdad shopping
 
 ##### U.S. airstrikes
 ### [A U.S. airstrike destroys an ISIL money and payroll hub in central Mosul. ](/news/2016/01/11/a-u-s-airstrike-destroys-an-isil-money-and-payroll-hub-in-central-mosul.md)
-_Context: Mosul, United States, U.S. airstrikes_
+_Context: United States, U.S. airstrikes, Mosul_
 
 ##### Occupation of the Malheur National Wildlife Refuge
 ### [Armed militiamen, also known as the Citizens for Constitutional Freedom, who are occupying the USFWS administered Malheur National Wildlife Refuge in Harney County, Oregon, tear down a part of a fence that they claim was erected by the federal government in order to allow privately owned cattle to graze on the adjacent public land. USFWS condemns the actions through a written statement which states that, "Removing fences, damaging any refuge property, or unauthorized use of equipment would be additional unlawful actions by the illegal occupiers. Any movement of cattle onto the refuge or other activities that are not specifically authorized by [the Fish and Wildlife Service] constitutes trespassing." ](/news/2016/01/11/armed-militiamen-also-known-as-the-citizens-for-constitutional-freedom-who-are-occupying-the-usfws-administered-malheur-national-wildlife.md)
@@ -29,7 +29,7 @@ Environment Agency chairman Sir Philip Dilley has quit after coming under fire f
 
 ##### New Year's Eve sexual assaults in Germany
 ### [Thousands of protesters in Leipzig demonstrate against a record refugee influx they blame for mass sexual violence at New Year's Eve events in Cologne and other German cities. Many chanted 'We are the people', 'Resistance!' and 'Deport them!'. The rally was organized by a local chapter of PEGIDA (Patriotic Europeans Against the Islamisation of the Occident). Six Pakistani men and one Syrian man were also attacked by so-called vigilantes in Cologne, following calls on social media for "revenge" in the wake of the New Year's Eve assaults. ](/news/2016/01/11/thousands-of-protesters-in-leipzig-demonstrate-against-a-record-refugee-influx-they-blame-for-mass-sexual-violence-at-new-year-s-eve-events.md)
-_Context: Cologne, social media, European migrant crisis, Pakistan, Pegida, Leipzig, New Year's Eve sexual assaults in Germany, Syria_
+_Context: Syria, European migrant crisis, social media, Leipzig, Cologne, Pakistan, New Year's Eve sexual assaults in Germany, Pegida_
 
 ## [Previous Day...](/news/2016/01/10/index.md)
 

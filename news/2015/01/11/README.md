@@ -25,11 +25,11 @@ Opposition challenger Kolinda Grabar-Kitarovic becomes the first female presiden
 
 ##### Sri Lankan presidential election, 2015
 ### [The new Sri Lankan government announces that it will investigate allegations of a coup attempt by Mahinda Rajapaksa, in a bid to retain power after being defeated at the polls. ](/news/2015/01/11/the-new-sri-lankan-government-announces-that-it-will-investigate-allegations-of-a-coup-attempt-by-mahinda-rajapaksa-in-a-bid-to-retain-powe.md)
-_Context: government, Sri Lanka, Sri Lankan presidential election, 2015, Rajapaksa_
+_Context: government, Rajapaksa, Sri Lanka, Sri Lankan presidential election, 2015_
 
 ##### SpaceX
 ### [Public photographs become available of SpaceX's Falcon 9 rocket after the experimental recovery attempt of the first stage fails and crash-lands on a floating platform in the SpaceX CRS-5 resupply mission. ](/news/2015/01/11/public-photographs-become-available-of-spacex-s-falcon-9-rocket-after-the-experimental-recovery-attempt-of-the-first-stage-fails-and-crash-l.md)
-_Context: first stage is re-used, SpaceX, SpaceX CRS-5, fails, floating platform, Falcon 9_
+_Context: fails, first stage is re-used, SpaceX CRS-5, SpaceX, Falcon 9, floating platform_
 
 ## [Previous Day...](/news/2015/01/10/index.md)
 

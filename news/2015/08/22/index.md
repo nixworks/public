@@ -13,11 +13,11 @@ At least 21 people were killed in two separate suicide car attacks in Somalia on
 
 ##### Iran
 ### [Iran launches a new surface-to-surface missile called the Fateh 313. ](/news/2015/08/22/iran-launches-a-new-surface-to-surface-missile-called-the-fateh-313.md)
-_Context: surface-to-surface missile, Iran_
+_Context: Iran, surface-to-surface missile_
 
 ##### War in Afghanistan (2015-present)
 ### [An Afghan suicide bomber attacks a NATO convoy in Kabul killing at least twelve people and injuring 66 others. ](/news/2015/08/22/an-afghan-suicide-bomber-attacks-a-nato-convoy-in-kabul-killing-at-least-twelve-people-and-injuring-66-others.md)
-_Context: Kabul, NATO, War in Afghanistan (2015-present), suicide bomber_
+_Context: suicide bomber, War in Afghanistan (2015-present), NATO, Kabul_
 
 ##### Syrian Civil War
 ### [Missile strikes by pro-Assad forces leave over 50 people killed in the Syrian rebel-held town of Douma, near the capital Damascus. ](/news/2015/08/22/missile-strikes-by-pro-assad-forces-leave-over-50-people-killed-in-the-syrian-rebel-held-town-of-douma-near-the-capital-damascus.md)
@@ -47,9 +47,9 @@ Seven people die after a Hawker Hunter jet crashes into several vehicles on the 
 ### [An explosion occurs at a chemical warehouse in China's Shandong province, with nine people injured according to Chinese media. ](/news/2015/08/22/an-explosion-occurs-at-a-chemical-warehouse-in-china-s-shandong-province-with-nine-people-injured-according-to-chinese-media.md)
 An explosion and fire has occurred at a chemical warehouse in Shandong province in eastern China, shattering windows in nearby houses and injuring at least nine people. The site which contains potentially dangerous chemicals is only one kilometer from a residential area.
 
-##### China
+##### Chinese
 ### [A landslide in China's Yunnan Province leaves three people dead and eight missing. ](/news/2015/08/22/a-landslide-in-china-s-yunnan-province-leaves-three-people-dead-and-eight-missing.md)
-_Context: China, Yunnan Province_
+_Context: Chinese, Yunnan Province_
 
 ##### Prime Minister of Russia
 ### [The Prime Minister of Russia Dmitry Medvedev visits the disputed Kuril Islands prompting a protest from Japan. ](/news/2015/08/22/the-prime-minister-of-russia-dmitry-medvedev-visits-the-disputed-kuril-islands-prompting-a-protest-from-japan.md)
@@ -69,7 +69,7 @@ Fourteen members of one of El Salvador&#x27;s most powerful street gangs were ki
 
 ##### President of the State of Palestine
 ### [President of the State of Palestine Mahmoud Abbas resigns from the Executive Committee of the Palestinian Liberation Organisation along with 11 ministers to force an election. The last time there were elections in the Palestinian authority was in 2005. ](/news/2015/08/22/president-of-the-state-of-palestine-mahmoud-abbas-resigns-from-the-executive-committee-of-the-palestinian-liberation-organisation-along-with.md)
-_Context: President of the State of Palestine, Palestinian Liberation Organisation, Mahmoud Abbas_
+_Context: President of the State of Palestine, Mahmoud Abbas, Palestinian Liberation Organisation_
 
 ## [Previous Day...](/news/2015/08/21/index.md)
 

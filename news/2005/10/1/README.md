@@ -9,11 +9,11 @@ _Context: Soyuz spacecraft, Gregory Olsen, rocket, space tourist, International 
 
 ##### Bali bombings
 ### [ Four explosions are reported in Bali at popular tourist areas, killing at least 36 and injuring 103 people. ](/news/2005/10/1/four-explosions-are-reported-in-bali-at-popular-tourist-areas-killing-at-least-36-and-injuring-103-people.md)
-_Context: Bali, Bali bombings_
+_Context: Bali bombings, Bali_
 
 ##### New Zealand
 ### [ New Zealand's Labour Prime Minister Helen Clark is set to form a third-term government after the National Party loses a seat following the count of 'special' votes. She begins talks with minor party leaders to form a coalition government as well obtain the support of enough minor parties to have a majority on supply and confidence issues. ](/news/2005/10/1/new-zealand-s-labour-prime-minister-helen-clark-is-set-to-form-a-third-term-government-after-the-national-party-loses-a-seat-following-the.md)
-_Context: New Zealand National Party, Labour Party, New Zealand, count of 'special' votes, Helen Clark_
+_Context: Helen Clark, New Zealand, Labour Party, count of 'special' votes, New Zealand National Party_
 
 ## [Previous Day...](/news/2005/09/30/index.md)
 

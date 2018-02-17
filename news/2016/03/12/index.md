@@ -17,7 +17,7 @@ Palestinian boy and his sister killed in retaliatory airstrike by Israel
 
 ##### Turkey-PKK conflict (2015-present)
 ### [Turkish Air Force airstrikes reportedly kill at least 67 PKK militants in northern Iraq. ](/news/2016/03/12/turkish-air-force-airstrikes-reportedly-kill-at-least-67-pkk-militants-in-northern-iraq.md)
-_Context: Kurdish, Turkish Air Force, Kurdistan Workers' Party, Turkey-PKK conflict (2015-present)_
+_Context: Turkey-PKK conflict (2015-present), Kurdistan Workers' Party, Turkish Air Force, Kurdish_
 
 ##### Syrian Civil War
 ### [Jaysh al-Nasr rebels say they have shot down a fighter jet over the Hama Governorate in western Syria. The Syrian Observatory for Human Rights confirmed the shoot down, saying a rebel group had brought down the jet by firing two heat-seeking missiles. A pro-government source acknowledged that a MiG-21 warplane went down over Kafr Nabudah, but said it was due to "technical difficulties", denying it had been shot down. ](/news/2016/03/12/jaysh-al-nasr-rebels-say-they-have-shot-down-a-fighter-jet-over-the-hama-governorate-in-western-syria-the-syrian-observatory-for-human-righ.md)
@@ -41,7 +41,7 @@ An avalanche killed six skiers in the Italian Alps on Saturday, making it one of
 
 ##### Tugboat
 ### [A tugboat crash on the Hudson River north of New York City results in one death and two people missing. ](/news/2016/03/12/a-tugboat-crash-on-the-hudson-river-north-of-new-york-city-results-in-one-death-and-two-people-missing.md)
-_Context: Hudson River, tugboat, New York City_
+_Context: New York City, Hudson River, tugboat_
 
 ##### Presidential primaries
 ### [Voters in Guam, Washington, D.C. and Wyoming head to the polls to vote in Republican Party caucuses, while Democratic Party members vote in the Northern Mariana Islands caucus. ](/news/2016/03/12/voters-in-guam-washington-d-c-and-wyoming-head-to-the-polls-to-vote-in-republican-party-caucuses-while-democratic-party-members-vote-in.md)
@@ -61,7 +61,7 @@ President Dilma Rousseff of Brazil could lose the support of the biggest party i
 
 ##### AlphaGo versus Lee Sedol
 ### [Google artificial intelligence company DeepMind's AlphaGo program takes an unbeatable three to zero lead in a five-game Go match against grand master Lee Sedol. ](/news/2016/03/12/google-artificial-intelligence-company-deepmind-s-alphago-program-takes-an-unbeatable-three-to-zero-lead-in-a-five-game-go-match-against-gra.md)
-_Context: AlphaGo, Google, Go, DeepMind, Lee Sedol, AlphaGo versus Lee Sedol, artificial intelligence_
+_Context: artificial intelligence, Lee Sedol, AlphaGo versus Lee Sedol, AlphaGo, Go, DeepMind, Google_
 
 ## [Previous Day...](/news/2016/03/11/index.md)
 

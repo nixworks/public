@@ -21,7 +21,7 @@ Estonia has become the first country in the world to install a nationwide system
 
 ##### David Cameron
 ### [David Cameron, the Prime Minister of the United Kingdom, visits the Indian city of Amritsar to express remorse for the Jallianwala Bagh massacre on 13 April 1919. ](/news/2013/02/20/david-cameron-the-prime-minister-of-the-united-kingdom-visits-the-indian-city-of-amritsar-to-express-remorse-for-the-jallianwala-bagh-mass.md)
-_Context: Amritsar, United Kingdom, David Cameron, Jallianwala Bagh massacre, India, Prime Minister_
+_Context: Jallianwala Bagh massacre, India, Prime Minister, United Kingdom, Amritsar, David Cameron_
 
 ##### Japanese
 ### [Japanese whaling vessels clash with Sea Shepherd Conservation Society Neptune's Navy boats in the Southern Ocean with the MY "Steve Irwin" and MY "Bob Barker" sustaining damage. ](/news/2013/02/20/japanese-whaling-vessels-clash-with-sea-shepherd-conservation-society-neptune-s-navy-boats-in-the-southern-ocean-with-the-my-steve-irwin-a.md)
@@ -29,7 +29,7 @@ Dramatic images have been sent from the Antarctic of the Japanese whaling factor
 
 ##### Jailed
 ### [The jury sitting in the case of "R v Huhne and Pryce" fails to reach a verdict on Vicky Pryce regarding driving licence penalty points she accepted on behalf of her former husband, Chris Huhne, requiring a retrial. ](/news/2013/02/20/the-jury-sitting-in-the-case-of-r-v-huhne-and-pryce-fails-to-reach-a-verdict-on-vicky-pryce-regarding-driving-licence-penalty-points-she-a.md)
-_Context: jailed, Vicky Pryce, Chris Huhne_
+_Context: Vicky Pryce, Chris Huhne, jailed_
 
 ##### Georgia
 ### [A United States federal grand jury in Georgia indicts four employees of bankrupt Virginia-based Peanut Corporation of America for the 2009 salmonella outbreak that killed nine people and infected hundreds. The 75&ndash;count indictment describes contaminated or misbranded food by company owner Stewart Parnell, his brother and company vice president Michael Parnell, and two company managers. The charges are conspiracy, wire fraud, and obstruction of justice. This infection triggered the most extensive food recall ever in United States history. ](/news/2013/02/20/a-united-states-federal-grand-jury-in-georgia-indicts-four-employees-of-bankrupt-virginia-based-peanut-corporation-of-america-for-the-2009-s.md)
@@ -37,15 +37,15 @@ A federal grand jury indicted four employees of a peanut company linked to a 200
 
 ##### Governor of the Northern Mariana Islands
 ### [Governor of the Northern Mariana Islands Benigno Fitial resigns from office ahead of a Senate trial on 18 articles of impeachment. Lt. Governor Eloy Inos is sworn in as Governor. Senate President Jude Hofschneider takes office as the new Lieutenant Governor of the Northern Mariana Islands. ](/news/2013/02/20/governor-of-the-northern-mariana-islands-benigno-fitial-resigns-from-office-ahead-of-a-senate-trial-on-18-articles-of-impeachment-lt-gover.md)
-_Context: Benigno Fitial, Northern Mariana Islands, Lieutenant Governor, Governor of the Northern Mariana Islands, Eloy Inos_
+_Context: Lieutenant Governor, Benigno Fitial, Governor of the Northern Mariana Islands, Eloy Inos, Northern Mariana Islands_
 
 ##### 2013 Bulgarian protests
 ### [2013 Bulgarian protests: Prime Minister of Bulgaria Boyko Borisov says he will resign with all his cabinet due to widespread protests amid a financial crisis. ](/news/2013/02/20/2013-bulgarian-protests-prime-minister-of-bulgaria-boyko-borisov-says-he-will-resign-with-all-his-cabinet-due-to-widespread-protests-amid-a.md)
-_Context: Boyko Borisov, all his cabinet, Bulgaria, Prime Minister of Bulgaria, 2013 Bulgarian protests_
+_Context: Boyko Borisov, 2013 Bulgarian protests, all his cabinet, Prime Minister of Bulgaria, Bulgaria_
 
 ##### Mark Zuckerberg
 ### [Mark Zuckerberg of Facebook, Sergey Brin of Google and venture capitalist Yuri Milner jointly establish the Breakthrough Prize in Life Sciences to reward excellence in life sciences with 11 individual prizes of $3 million. ](/news/2013/02/20/mark-zuckerberg-of-facebook-sergey-brin-of-google-and-venture-capitalist-yuri-milner-jointly-establish-the-breakthrough-prize-in-life-scien.md)
-_Context: Google, Facebook, life sciences, Yuri Milner, Sergey Brin, Breakthrough Prize in Life Sciences, Mark Zuckerberg_
+_Context: Mark Zuckerberg, life sciences, Breakthrough Prize in Life Sciences, Sergey Brin, Facebook, Google, Yuri Milner_
 
 ##### Sony
 ### [Sony announces their eighth generation console, the PlayStation 4. ](/news/2013/02/20/sony-announces-their-eighth-generation-console-the-playstation-4.md)
@@ -53,7 +53,7 @@ Sony announces the fourth generation of its PlayStation games console featuring 
 
 ##### NASA
 ### [NASA reports the discovery of Kepler-37b, the smallest exoplanet yet known. ](/news/2013/02/20/nasa-reports-the-discovery-of-kepler-37b-the-smallest-exoplanet-yet-known.md)
-_Context: exoplanet, Kepler-37b, NASA_
+_Context: NASA, Kepler-37b, exoplanet_
 
 ## [Previous Day...](/news/2013/02/19/index.md)
 

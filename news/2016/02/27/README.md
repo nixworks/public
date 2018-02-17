@@ -19,7 +19,7 @@ At least 30 people have been killed in an air strike on a market near the Yemeni
 ### [Three people are stabbed, including one person critically wounded, and several people are arrested after a Ku Klux Klan (KKK) rally in Anaheim, California turns violent. ](/news/2016/02/27/three-people-are-stabbed-including-one-person-critically-wounded-and-several-people-are-arrested-after-a-ku-klux-klan-kkk-rally-in-anahe.md)
 Three people were stabbed and 13 others were arrested when a Ku Klux Klan rally in Anaheim erupted in violence Saturday, police said.
 
-##### 2016 U.S. presidential election
+##### 2016 U.S. election
 ### [Voters in South Carolina go to the polls for the Democratic Party primary. Hillary Clinton won. ](/news/2016/02/27/voters-in-south-carolina-go-to-the-polls-for-the-democratic-party-primary-hillary-clinton-won.md)
 Overwhelming support and record turnout among black voters and her best showing to date among whites gave Hillary Clinton a powerful victory in Saturday&rsquo;s Democratic presidential primary in South Carolina. Blacks accounted for 61 percent of South Carolina Democratic primary voters in ABC News ...
 

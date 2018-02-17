@@ -5,7 +5,7 @@ Formats: [HTML](2012/12/14/index.html)  [JSON](2012/12/14/index.json)  [XML](201
 
 ##### Americans
 ### [American admiral James G. Stavridis, NATO's Supreme Allied Commander Europe claims that Scud missiles fired by Syria at rebel forces have landed "fairly close" to the border with Turkey. ](/news/2012/12/14/american-admiral-james-g-stavridis-nato-s-supreme-allied-commander-europe-claims-that-scud-missiles-fired-by-syria-at-rebel-forces-have-la.md)
-_Context: Syria, Americans, Turkey, James G. Stavridis, Scud missiles, Supreme Allied Commander Europe, admiral, NATO_
+_Context: Supreme Allied Commander Europe, admiral, James G. Stavridis, Scud missiles, NATO, Americans, Turkey, Syria_
 
 ##### Kenneth Kendall
 ### [Kenneth Kendall, who became the BBC's first in-vision television newsreader in 1955, dies aged 88. ](/news/2012/12/14/kenneth-kendall-who-became-the-bbc-s-first-in-vision-television-newsreader-in-1955-dies-aged-88.md)

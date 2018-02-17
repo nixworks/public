@@ -25,15 +25,15 @@ The gas deal signed by Prime Minister Benjamin Netanyahu last December with US a
 
 ##### Myanmar general election, 2015
 ### [Senior General Min Aung Hlaing, Myanmar's military chief, pledges to work with the new civilian government that takes over the Southeast Asian country next week, after 54 years of direct or indirect rule by the military. ](/news/2016/03/27/senior-general-min-aung-hlaing-myanmar-s-military-chief-pledges-to-work-with-the-new-civilian-government-that-takes-over-the-southeast-asi.md)
-_Context: Min Aung Hlaing, Myanmar general election, 2015, security forces, Asia_
+_Context: security forces, Myanmar general election, 2015, Asia, Min Aung Hlaing_
 
 ##### 2014-16 Venezuelan protests
 ### [According to a new poll, two-thirds of Venezuelans think President Nicolas Maduro should end his presidency this year or be removed via a recall referendum amid a worsening economic crisis. In the event of a referendum, 52.1 percent of Venezuelans would vote to remove him from office, up from 44.5 percent in January, according to the poll. ](/news/2016/03/27/according-to-a-new-poll-two-thirds-of-venezuelans-think-president-nicola-s-maduro-should-end-his-presidency-this-year-or-be-removed-via-a-r.md)
-_Context: Nicolas Maduro, President, Venezuela, economic crisis, 2014-16 Venezuelan protests_
+_Context: 2014-16 Venezuelan protests, Nicolas Maduro, President, Venezuela, economic crisis_
 
 ##### 2015-16 protests in Moldova
 ### [Thousands of people rally in the streets of Chisinau, the capital of Moldova, demanding reunification with Romania. The rally is meant to mark the 98th anniversary since the former Romanian province of Bessarabia was unified with the Kingdom of Romania on March 27, 1918. The protesters say unification with Romania is the way for corruption-ridden Moldova to move forward and join the European Union. ](/news/2016/03/27/thousands-of-people-rally-in-the-streets-of-chieinau-the-capital-of-moldova-demanding-reunification-with-romania-the-rally-is-meant-to.md)
-_Context: Romania, reunification, European Union, Bessarabia, Kingdom of Romania, 2015-16 protests in Moldova, Chisinau, Moldova_
+_Context: 2015-16 protests in Moldova, Chisinau, Bessarabia, European Union, Moldova, reunification, Romania, Kingdom of Romania_
 
 ##### 2016 Brussels bombings
 ### [Police in Brussels, Belgium, forcibly break up an apparent far-right demonstration with water cannons after they joined a crowd of people paying tribute to the victims of the bombings. The demonstrators claim to have marched against terrorism but police intervened when the demonstrators confronted Muslim women and made Nazi salutes. ](/news/2016/03/27/police-in-brussels-belgium-forcibly-break-up-an-apparent-far-right-demonstration-with-water-cannons-after-they-joined-a-crowd-of-people-pa.md)

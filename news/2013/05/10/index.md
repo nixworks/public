@@ -9,7 +9,7 @@ _Context: Libya, Benghazi_
 
 ##### Albert del Rosario
 ### [Albert del Rosario, the Philippines Secretary of Foreign Affairs, wants to withdraw Filipino peacekeepers from the Golan Heights subsequent to Syrian rebels kidnapping four troops. ](/news/2013/05/10/albert-del-rosario-the-philippines-secretary-of-foreign-affairs-wants-to-withdraw-filipino-peacekeepers-from-the-golan-heights-subsequent.md)
-_Context: Albert del Rosario, Philippines Foreign Secretary, Golan Heights, Filipino, Syria, Philippines_
+_Context: Philippines Foreign Secretary, Philippines, Syria, Filipino, Golan Heights, Albert del Rosario_
 
 ##### Tamerlan Tsarnaev
 ### [Suspect Tamerlan Tsarnaev is buried in the al-Barzakh Cemetery in Doswell, Virginia, United States. ](/news/2013/05/10/suspect-tamerlan-tsarnaev-is-buried-in-the-al-barzakh-cemetery-in-doswell-virginia-united-states.md)

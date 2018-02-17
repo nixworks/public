@@ -9,7 +9,7 @@ _Context: Pakistan Army, NATO_
 
 ##### Paraguay
 ### [Paraguay passes a bill, requested by President, Fernando Lugo, that suspends constitutional rights for 30 days in parts of the country after the Paraguayan People's Army (PPA) kills four people. ](/news/2010/04/24/paraguay-passes-a-bill-requested-by-president-fernando-lugo-that-suspends-constitutional-rights-for-30-days-in-parts-of-the-country-after.md)
-_Context: Paraguay, Fernando Lugo, Paraguayan President, Paraguayan People's Army_
+_Context: Paraguay, Fernando Lugo, Paraguayan People's Army, Paraguayan President_
 
 ##### Tornado
 ### [A tornado in Mississippi kills at least 10 people. ](/news/2010/04/24/a-tornado-in-mississippi-kills-at-least-10-people.md)
@@ -17,7 +17,7 @@ _Context: Mississippi, tornado_
 
 ##### Prime Minister
 ### [Prime Minister Abhisit Vejjajiva of Thailand rejects protester demands to dissolve the Parliament within 30 days. ](/news/2010/04/24/prime-minister-abhisit-vejjajiva-of-thailand-rejects-protester-demands-to-dissolve-the-parliament-within-30-days.md)
-_Context: Parliament, Abhisit Vejjajiva, 2010 Thai political protests, Prime Minister, Thailand_
+_Context: Thailand, Parliament, Abhisit Vejjajiva, Prime Minister, 2010 Thai political protests_
 
 ##### Maluku Islands
 ### [A strong earthquake measuring 6.1 strikes in the Maluku Islands north of Ambon Island. ](/news/2010/04/24/a-strong-earthquake-measuring-6-1-strikes-in-the-maluku-islands-north-of-ambon-island.md)
@@ -33,43 +33,43 @@ PM says attacks that killed 69 people were response to killing of two al-Qaeda l
 
 ##### Russia
 ### [Russia's Proton-M rocket sends a United States SES-1 telecommunications satellite into space. ](/news/2010/04/24/russia-s-proton-m-rocket-sends-a-united-states-ses-1-telecommunications-satellite-into-space.md)
-_Context: Russia, space, telecommunications satellite, United States, Proton-M, rocket_
+_Context: Proton-M, rocket, telecommunications satellite, Russia, space, United States_
 
 ##### Drone
 ### [ An unmanned American aircraft kills seven militants in Pakistan. ](/news/2010/04/24/an-unmanned-american-aircraft-kills-seven-militants-in-pakistan.md)
-_Context: drone, Pakistan_
+_Context: Pakistan, drone_
 
 ##### Chile
 ### [In Chile, Catholic Church leaders and President Sebastin Piera meet for more than an hour to discuss the child sexual abuse scandal and agree to send a letter to all the country's parishes. ](/news/2010/04/24/in-chile-catholic-church-leaders-and-president-sebastian-pinera-meet-for-more-than-an-hour-to-discuss-the-child-sexual-abuse-scandal-and-ag.md)
-_Context: Sebastin Piera, President, Chile, Catholic Church_
+_Context: President, Chile, Sebastin Piera, Catholic Church_
 
 ##### Yerevan
 ### [Tens of thousands of people rally and lay flowers at a monument in Yerevan to the victims on the 95th anniversary of the Armenian Genocide. ](/news/2010/04/24/tens-of-thousands-of-people-rally-and-lay-flowers-at-a-monument-in-yerevan-to-the-victims-on-the-95th-anniversary-of-the-armenian-genocide.md)
-_Context: Yerevan, genocide of Armenians_
+_Context: genocide of Armenians, Yerevan_
 
 ##### Spain
 ### [Marchers march in a dozen Spanish cities, including thousands in Madrid, to support Judge Baltasar Garzn who has been told he may face a trial for launching an inquiry into the acts of General Francisco Franco. Falange arranges a smaller protest in Madrid in opposition to Garzn. ](/news/2010/04/24/marchers-march-in-a-dozen-spanish-cities-including-thousands-in-madrid-to-support-judge-baltasar-garzon-who-has-been-told-he-may-face-a-tr.md)
-_Context: Spain, Franco, Baltasar Garzn, Madrid, Falange_
+_Context: Spain, Falange, Baltasar Garzn, Franco, Madrid_
 
 ##### Nazi
 ### [Former Nazi corporal and founder of Villa Baviera in Chile Paul Schfer dies in prison at the age of 88. ](/news/2010/04/24/former-nazi-corporal-and-founder-of-villa-baviera-in-chile-paul-schafer-dies-in-prison-at-the-age-of-88.md)
-_Context: Paul Schfer, Nazi, Villa Baviera, Chile_
+_Context: Paul Schfer, Nazi, Chile, Villa Baviera_
 
 ##### Wang Lequan
 ### [Wang Lequan, Communist Party secretary since 1994, is replaced by Zhang Chunxian as the most powerful official in Xinjiang. ](/news/2010/04/24/wang-lequan-communist-party-secretary-since-1994-is-replaced-by-zhang-chunxian-as-the-most-powerful-official-in-xinjiang.md)
-_Context: Wang Lequan, Xinjiang, Zhang Chunxian_
+_Context: Xinjiang, Wang Lequan, Zhang Chunxian_
 
 ##### German
 ### [Two German men held in Abia State, Nigeria are released six days after being seized on a swim. ](/news/2010/04/24/two-german-men-held-in-abia-state-nigeria-are-released-six-days-after-being-seized-on-a-swim.md)
-_Context: Nigeria, Abia State, German_
+_Context: German, Nigeria, Abia State_
 
 ##### Cheonan
 ### [The "Cheonan", which was destroyed in the Baengnyeong incident, is recovered. ](/news/2010/04/24/the-cheonan-which-was-destroyed-in-the-baengnyeong-incident-is-recovered.md)
-_Context: sinking, Cheonan_
+_Context: Cheonan, sinking_
 
 ##### Mumbai
 ### [Mumbai's Oberoi Hotel reopens 18 months after sustaining damage in the 2008 Mumbai attacks. ](/news/2010/04/24/mumbai-s-oberoi-hotel-reopens-18-months-after-sustaining-damage-in-the-2008-mumbai-attacks.md)
-_Context: Mumbai, Oberoi Hotel, 2008 Mumbai attacks_
+_Context: 2008 Mumbai attacks, Mumbai, Oberoi Hotel_
 
 ##### Prince Philip, Duke of Edinburgh
 ### [Prince Philip, Duke of Edinburgh injures his ankle in a carriage driving accident on the Queen's Windsor estate. ](/news/2010/04/24/prince-philip-duke-of-edinburgh-injures-his-ankle-in-a-carriage-driving-accident-on-the-queen-s-windsor-estate.md)

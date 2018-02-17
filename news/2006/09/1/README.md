@@ -9,35 +9,35 @@ _Context: African Union, UNSC Resolution 1706, Sudan, Darfur_
 
 ##### Disputed Mexican election
 ### [ Disputed Mexican election: Deputies and senators of the PRD occupy the stage of Congress and prevent President Vicente Fox from delivering his final State of the Nation speech. Fox later addresses the nation on an all-channel telecast. ](/news/2006/09/1/disputed-mexican-election-deputies-and-senators-of-the-prd-occupy-the-stage-of-congress-and-prevent-president-vicente-fox-from-delivering.md)
-_Context: President of Mexico, Congress, Vicente Fox, Party of the Democratic Revolution, Disputed Mexican election_
+_Context: President of Mexico, Party of the Democratic Revolution, Congress, Disputed Mexican election, Vicente Fox_
 
 ##### Hurricane John
 ### [ Category 2 Hurricane John makes landfall near the tip of Baja California at around 7 p.m. PDT (0200 UTC September 2). ](/news/2006/09/1/category-2-hurricane-john-makes-landfall-near-the-tip-of-baja-california-at-around-7-p-m-pdt-0200-utc-september-2.md)
-_Context: Baja California Peninsula, UTC, September 2, Hurricane John, PST_
+_Context: Baja California Peninsula, PST, UTC, September 2, Hurricane John_
 
 ##### Tu-154
 ### [ An Iranian passenger jet Tu-154, (Iran Air Flight 945) carrying 148 passengers crashes in Mashad, Iran killing 29 people. ](/news/2006/09/1/an-iranian-passenger-jet-tu-154-iran-air-flight-945-carrying-148-passengers-crashes-in-mashad-iran-killing-29-people.md)
-_Context: Flight 945, Iran Air, Iran, Tu-154, Mashad_
+_Context: Tu-154, Flight 945, Iran, Mashad, Iran Air_
 
 ##### Israeli-Palestinian conflict
 ### [ The European Union proposes new talks on the Middle East roadmap for peace. ](/news/2006/09/1/the-european-union-proposes-new-talks-on-the-middle-east-roadmap-for-peace.md)
-_Context: Middle East, European Union, Israeli-Palestinian conflict, roadmap for peace_
+_Context: European Union, Israeli-Palestinian conflict, roadmap for peace, Middle East_
 
 ##### Spain
 ### [ Spain approves plans to deploy 1,100 troops to Lebanon as part of a UN peacekeeping force. ](/news/2006/09/1/spain-approves-plans-to-deploy-1-100-troops-to-lebanon-as-part-of-a-un-peacekeeping-force.md)
-_Context: Lebanese, Spain, UN_
+_Context: UN, Spain, Lebanese_
 
 ##### 2006 Zakouma elephant slaughter
 ### [ The 2006 Zakouma elephant slaughter is the latest of a series of massacres which has killed off over 97 percent of the original (the year 1970) Chadian elephant population of 300,000 animals. ](/news/2006/09/1/the-2006-zakouma-elephant-slaughter-is-the-latest-of-a-series-of-massacres-which-has-killed-off-over-97-percent-of-the-original-the-year-1.md)
-_Context: population, 2006 Zakouma elephant slaughter, elephant, massacres, Chad_
+_Context: massacres, Chad, 2006 Zakouma elephant slaughter, elephant, population_
 
 ##### Poland
 ### [ Prime Minister of Poland, Jaroslaw Kaczynski, calls on the EU to develop a common foreign policy and build a "credible" military force. ](/news/2006/09/1/prime-minister-of-poland-jarosaaw-kaczyaski-calls-on-the-eu-to-develop-a-common-foreign-policy-and-build-a-credible-military-force.md)
-_Context: European Union, Poland, Jaroslaw Kaczynski_
+_Context: Jaroslaw Kaczynski, European Union, Poland_
 
 ##### Miss World 2006
 ### [ The Miss World 2006 pageant officially starts with the arrival of 104 nations to Warsaw, Poland for a month of activities across the country prior to the pageant's final on September 30th, 2006. ](/news/2006/09/1/the-miss-world-2006-pageant-officially-starts-with-the-arrival-of-104-nations-to-warsaw-poland-for-a-month-of-activities-across-the-countr.md)
-_Context: Warsaw, Miss World 2006, Poland_
+_Context: Miss World 2006, Warsaw, Poland_
 
 ## [Previous Day...](/news/2006/08/31/index.md)
 

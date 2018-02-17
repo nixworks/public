@@ -21,7 +21,7 @@ _Context: attacks, Tunisian soldiers, Algeria_
 
 ##### United States Holocaust Memorial Museum
 ### [The United States Holocaust Memorial Museum obtains a full copy of the archives of the United Nations War Crimes Commission from World War II and makes it available online. ](/news/2014/07/17/the-united-states-holocaust-memorial-museum-obtains-a-full-copy-of-the-archives-of-the-united-nations-war-crimes-commission-from-world-war-i.md)
-_Context: United Nations War Crimes Commission, World War II, United States Holocaust Memorial Museum_
+_Context: United Nations War Crimes Commission, United States Holocaust Memorial Museum, World War II_
 
 ##### Microsoft
 ### [Microsoft announces deeper-than-expected job cuts as part of its cloud-oriented restructuring, almost halving the newly-purchased Nokia phone business. ](/news/2014/07/17/microsoft-announces-deeper-than-expected-job-cuts-as-part-of-its-cloud-oriented-restructuring-almost-halving-the-newly-purchased-nokia-phon.md)
@@ -37,7 +37,7 @@ A firefighting helicopter crashed Thursday near an apartment complex and school 
 
 ##### Train
 ### [A fire on a train at Busan Metro in the South Korean port city of Busan leaves five people injured and 100 people were evacuated. ](/news/2014/07/17/a-fire-on-a-train-at-busan-metro-in-the-south-korean-port-city-of-busan-leaves-five-people-injured-and-100-people-were-evacuated.md)
-_Context: South Korea, Busan, train, Busan Metro_
+_Context: Busan, Busan Metro, South Korea, train_
 
 ##### Regional train
 ### [A French regional train on the Pau-Bayonne line crashes into a high-speed train near the town of Denguin, resulting in at least 25 injuries. ](/news/2014/07/17/a-french-regional-train-on-the-pau-bayonne-line-crashes-into-a-high-speed-train-near-the-town-of-denguin-resulting-in-at-least-25-injuries.md)
@@ -45,7 +45,7 @@ A French high-speed TGV train is involved in a collision with a regional express
 
 ##### Dr. Harsh Vardhan
 ### [Health Minister Dr. Harsh Vardhan stands for the protection of Homosexual rights in India. ](/news/2014/07/17/health-minister-dr-harsh-vardhan-stands-for-the-protection-of-homosexual-rights-in-india.md)
-_Context: Homosexual rights, Dr. Harsh Vardhan_
+_Context: Dr. Harsh Vardhan, Homosexual rights_
 
 ##### Death penalty
 ### [A federal judge rules the death penalty in California is unconstitutional. ](/news/2014/07/17/a-federal-judge-rules-the-death-penalty-in-california-is-unconstitutional.md)
@@ -53,11 +53,11 @@ A federal judge in Orange County ruled Wednesday that California’s death penal
 
 ##### Parliament of Australia
 ### [The Parliament of Australia votes to abolish a carbon tax and emissions trading scheme. ](/news/2014/07/17/the-parliament-of-australia-votes-to-abolish-a-carbon-tax-and-emissions-trading-scheme.md)
-_Context: carbon tax, emissions trading scheme, Parliament of Australia_
+_Context: carbon tax, Parliament of Australia, emissions trading scheme_
 
 ##### Prime Minister
 ### [The Thai military junta gives permission for former Prime Minister Yingluck Shinawatra to travel abroad for the first time since the coup. ](/news/2014/07/17/the-thai-military-junta-gives-permission-for-former-prime-minister-yingluck-shinawatra-to-travel-abroad-for-the-first-time-since-the-coup.md)
-_Context: Prime Minister, Yingluck Shinawatra_
+_Context: Yingluck Shinawatra, Prime Minister_
 
 ##### Yamal Peninsula
 ### [Scientists report a video footage of a mysterious giant hole and crater that have suddenly appeared in the Yamal Peninsula, Russia. ](/news/2014/07/17/scientists-report-a-video-footage-of-a-mysterious-giant-hole-and-crater-that-have-suddenly-appeared-in-the-yamal-peninsula-russia.md)

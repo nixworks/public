@@ -21,11 +21,11 @@ _Context: Bishop of Augsburg, Walter Mixa_
 
 ##### Reynaldo Bignone
 ### [82-year-old General Reynaldo Bignone, former military ruler of Argentina, is imprisoned for 25 years for abductions and tortures committed between 1978 and 1979. ](/news/2010/04/20/82-year-old-general-reynaldo-bignone-former-military-ruler-of-argentina-is-imprisoned-for-25-years-for-abductions-and-tortures-committed-b.md)
-_Context: Reynaldo Bignone, Argentina_
+_Context: Argentina, Reynaldo Bignone_
 
 ##### New York City
 ### [A New York businessman, Abdul Tawala Ibn Ali Alishtari is sentenced to 10 years in prison for funneling money to a terrorism training camp in Afghanistan. ](/news/2010/04/20/a-new-york-businessman-abdul-tawala-ibn-ali-alishtari-is-sentenced-to-10-years-in-prison-for-funneling-money-to-a-terrorism-training-camp-i.md)
-_Context: Afghan, terrorism training camp, New York City, Abdul Tawala Ibn Ali Alishtari_
+_Context: Afghan, Abdul Tawala Ibn Ali Alishtari, New York City, terrorism training camp_
 
 ##### Cairo
 ### [Dozens of people gather in central Cairo in a rare protest against the use of force on pro-democracy demonstrations which "pose a threat to the national security". ](/news/2010/04/20/dozens-of-people-gather-in-central-cairo-in-a-rare-protest-against-the-use-of-force-on-pro-democracy-demonstrations-which-pose-a-threat-to.md)
@@ -37,7 +37,7 @@ _Context: post-election protests, Omar al-Bashir, Sudan_
 
 ##### Palestine
 ### [Palestinian officials say they will oppose new Israeli orders on deporting Palestinians from the West Bank. ](/news/2010/04/20/palestinian-officials-say-they-will-oppose-new-israeli-orders-on-deporting-palestinians-from-the-west-bank.md)
-_Context: West Bank, Israel, Palestine_
+_Context: Palestine, West Bank, Israel_
 
 ##### An earthquake struck on 14 April
 ### [The Yushu earthquake death toll rises to 2,046. ](/news/2010/04/20/the-yushu-earthquake-death-toll-rises-to-2-046.md)
@@ -57,15 +57,15 @@ Britain has been accused of complicity in the torture of Taliban suspects arrest
 
 ##### Kandahar
 ### [Deputy Mayor of Kandahar Azizollah Yarmal, Afghanistan is shot dead while praying at a mosque. ](/news/2010/04/20/deputy-mayor-of-kandahar-azizollah-yarmal-afghanistan-is-shot-dead-while-praying-at-a-mosque.md)
-_Context: Afghan, Kandahar, mosque, Azizollah Yarmal_
+_Context: Azizollah Yarmal, mosque, Kandahar, Afghan_
 
 ##### Sri Lanka
 ### [Repeat polls for Sri Lanka's April parliamentary election are held in Nawalapitiya and Trincomalee where ballots were annulled due to violence. ](/news/2010/04/20/repeat-polls-for-sri-lanka-s-april-parliamentary-election-are-held-in-nawalapitiya-and-trincomalee-where-ballots-were-annulled-due-to-violen.md)
-_Context: parliamentary election, Trincomalee, Nawalapitiya, Sri Lanka_
+_Context: Nawalapitiya, Trincomalee, Sri Lanka, parliamentary election_
 
 ##### U.S. President
 ### [President of the United States Barack Obama speaks of the "unbreakable bonds" and "special relationship" between his country and Israel on the 62nd anniversary of Israel's birth. ](/news/2010/04/20/president-of-the-united-states-barack-obama-speaks-of-the-unbreakable-bonds-and-special-relationship-between-his-country-and-israel-on-t.md)
-_Context: Israel, Barack Obama, U.S. President_
+_Context: Barack Obama, U.S. President, Israel_
 
 ##### United States Supreme Court
 ### [The United States Supreme Court, in ruling on "United States v. Stevens", strikes down a law outlawing videos that depict animal cruelty. ](/news/2010/04/20/the-united-states-supreme-court-in-ruling-on-united-states-v-stevens-strikes-down-a-law-outlawing-videos-that-depict-animal-cruelty.md)

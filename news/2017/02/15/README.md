@@ -5,7 +5,7 @@ Formats: [HTML](2017/02/15/index.html)  [JSON](2017/02/15/index.json)  [XML](201
 
 ##### War in North-West Pakistan
 ### [Two separate bombings take place in Pakistan, killing at least seven people. A suicide bomber kills five people at the administrative headquarters in the Mohmand Agency tribal district while the other kills two people at a hospital in Peshawar. Jamaat-ul-Ahrar claims responsibility for the first attack. ](/news/2017/02/15/two-separate-bombings-take-place-in-pakistan-killing-at-least-seven-people-a-suicide-bomber-kills-five-people-at-the-administrative-headqu.md)
-_Context: Jamaat-ul-Ahrar, Peshawar, Mohmand Agency, Pakistan, War in North-West Pakistan_
+_Context: Pakistan, Peshawar, War in North-West Pakistan, Mohmand Agency, Jamaat-ul-Ahrar_
 
 ##### Iraqi Civil War (2014-present)
 ### [A suicide bomber detonates a pick-up truck full of explosives at a busy street in northern Baghdad, killing at least nine people. ](/news/2017/02/15/a-suicide-bomber-detonates-a-pick-up-truck-full-of-explosives-at-a-busy-street-in-northern-baghdad-killing-at-least-nine-people.md)

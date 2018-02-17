@@ -13,11 +13,11 @@ US authorities say US and Iraqi forces rescued dozens of hostages from IS to pre
 
 ##### War in Afghanistan (2015-present)
 ### [Taliban insurgents assassinate Mohammad Daud Sultanzoy, a district administrator in Afghanistan's eastern Ghazni province. ](/news/2015/10/22/taliban-insurgents-assassinate-mohammad-daud-sultanzoy-a-district-administrator-in-afghanistan-s-eastern-ghazni-province.md)
-_Context: Mohammad Daud Sultanzoy, Ghazni Province, Taliban, War in Afghanistan (2015-present), Afghan_
+_Context: Taliban, War in Afghanistan (2015-present), Afghan, Mohammad Daud Sultanzoy, Ghazni Province_
 
 ##### Sinai insurgency
 ### [Egypt's military says it has gained "full control" over the North Sinai areas of Arish, Rafah and Sheikh Zuweid after successful raids on terrorist strongholds and weapons caches. ](/news/2015/10/22/egypt-s-military-says-it-has-gained-full-control-over-the-north-sinai-areas-of-arish-rafah-and-sheikh-zuweid-after-successful-raids-on-te.md)
-_Context: Sheikh Zuweid, Rafah, Sinai insurgency, Arish, Egypt, Egyptian military, North Sinai Governorate_
+_Context: Arish, Egypt, Egyptian military, Sheikh Zuweid, North Sinai Governorate, Rafah, Sinai insurgency_
 
 ##### Pakistan
 ### [At least 10 people are killed and 12 injured when a suicide-bomber attacks a Pakistani Shia Mosque and Imambargah during prayers in the District Bagh of Kachhi 300 Km from Quetta in Balochistan. ](/news/2015/10/22/at-least-10-people-are-killed-and-12-injured-when-a-suicide-bomber-attacks-a-pakistani-shia-mosque-and-imambargah-during-prayers-in-the-dist.md)

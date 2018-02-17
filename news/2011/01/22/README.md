@@ -15,9 +15,9 @@ One killed and two injured in Israeli tank shelling in the Gaza strip.
 ### [Several people are injured and others are arrested as police break up a pro-democracy march in Algiers. ](/news/2011/01/22/several-people-are-injured-and-others-are-arrested-as-police-break-up-a-pro-democracy-march-in-algiers.md)
 Several injured as police disperse 300 people who defied a ban and attempted to demonstrate in capital, Algiers.
 
-##### Mexican
+##### Mexico
 ### [Mexico says 10 suspected drug gang members were killed in shootout with soldiers in Valle Hermoso, Tamaulipas. ](/news/2011/01/22/mexico-says-10-suspected-drug-gang-members-were-killed-in-shootout-with-soldiers-in-valle-hermoso-tamaulipas.md)
-_Context: Tamaulipas, Valle Hermoso, Mexican_
+_Context: Valle Hermoso, Mexico, Tamaulipas_
 
 ##### Russia
 ### [At least two people are killed in a blaze at a shopping centre in the southwest Russian city of Ufa. ](/news/2011/01/22/at-least-two-people-are-killed-in-a-blaze-at-a-shopping-centre-in-the-southwest-russian-city-of-ufa.md)
@@ -49,7 +49,7 @@ Prime Minister Sali Berisha of Albania says there will be no Tunisia-style upris
 
 ##### Tunisia
 ### [Tunisia's prime minister Mohamed Ghannouchi promises in a TV interview to leave politics "in the shortest possible timeframe" after elections to be held following President Zine El Abidine Ben Ali's recent fall. ](/news/2011/01/22/tunisia-s-prime-minister-mohamed-ghannouchi-promises-in-a-tv-interview-to-leave-politics-in-the-shortest-possible-timeframe-after-election.md)
-_Context: demonstrations that toppled his regime, Tunisia, Zine El Abidine Ben Ali, Mohamed Ghannouchi, President of Tunisia_
+_Context: demonstrations that toppled his regime, Mohamed Ghannouchi, Zine El Abidine Ben Ali, Tunisia, President of Tunisia_
 
 ##### Taoiseach
 ### [Taoiseach Brian Cowen announces he is to make a "significant" statement on his leadership of the ruling Fianna Fail party in Dublin at 14:00, to be broadcast on television and radio. ](/news/2011/01/22/taoiseach-brian-cowen-announces-he-is-to-make-a-significant-statement-on-his-leadership-of-the-ruling-fianna-fa-il-party-in-dublin-at-14-0.md)
@@ -57,7 +57,7 @@ Irish Prime Minister Brian Cowenwill address the media at 1400 GMT on Saturday, 
 
 ##### H-II Transfer Vehicle
 ### [An unmanned Japanese H-II Transfer Vehicle HTV-2 Resupply Craft was launched atop the H-IIB rocket Saturday on a mission to deliver cargo to the International Space Station. ](/news/2011/01/22/an-unmanned-japanese-h-ii-transfer-vehicle-htv-2-resupply-craft-was-launched-atop-the-h-iib-rocket-saturday-on-a-mission-to-deliver-cargo-to.md)
-_Context: H-II Transfer Vehicle, International Space Station, H-IIB_
+_Context: International Space Station, H-II Transfer Vehicle, H-IIB_
 
 ## [Previous Day...](/news/2011/01/21/index.md)
 

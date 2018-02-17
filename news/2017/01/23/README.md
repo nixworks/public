@@ -9,15 +9,15 @@ Army forces enter southwestern port city of Mokha, as dozens of families flee on
 
 ##### Sinai insurgency
 ### [At least five Egyptian Army soldiers are killed by unknown gunmen in the Sinai Peninsula. ](/news/2017/01/23/at-least-five-egyptian-army-soldiers-are-killed-by-unknown-gunmen-in-the-sinai-peninsula.md)
-_Context: Egyptian Army, Sinai insurgency, Sinai Peninsula_
+_Context: Sinai insurgency, Sinai Peninsula, Egyptian Army_
 
 ##### John D. Bates
 ### [John D. Bates, United States federal judge for the United States District Court for the District of Columbia, blocks a proposed merger by health insurance companies Aetna and Humana. ](/news/2017/01/23/john-d-bates-united-states-federal-judge-for-the-united-states-district-court-for-the-district-of-columbia-blocks-a-proposed-merger-by-he.md)
-_Context: Federal District Judge, Humana, John D. Bates, health insurance, U.S. District Court for the District of Columbia, Aetna_
+_Context: Aetna, health insurance, John D. Bates, U.S. District Court for the District of Columbia, Humana, Federal District Judge_
 
 ##### 2016-2017 Gambian constitutional crisis
 ### [According to an advisor to Gambian President Adama Barrow, more than 500 million dalasi, equivalent to US$11.3 million, are reported missing from state coffers after former President Yahya Jammeh left the country in exile. ](/news/2017/01/23/according-to-an-advisor-to-gambian-president-adama-barrow-more-than-500-million-dalasi-equivalent-to-us-11-3-million-are-reported-missing.md)
-_Context: dalasi, Yahya Jammeh, $, President, 2016-2017 Gambian constitutional crisis, Adama Barrow_
+_Context: President, 2016-2017 Gambian constitutional crisis, Adama Barrow, dalasi, Yahya Jammeh, $_
 
 ##### Europol
 ### [Following a joint police operation by Europol and Interpol last October and November across much of Europe, dubbed "Operation Pandora", more than 3,500 stolen artwork and artifacts are recovered, with 75 people arrested and 48,588 more being investigated. ](/news/2017/01/23/following-a-joint-police-operation-by-europol-and-interpol-last-october-and-november-across-much-of-europe-dubbed-operation-pandora-more.md)
@@ -29,7 +29,7 @@ Activists have condemned as an “assault on women&#039;s health”, a decision 
 
 ##### Syrian peace process
 ### [Peace talks in Astana, Kazakhstan, between the Syrian opposition and the Syrian Government, meant to build on a fragile ceasefire currently in effect in the Syrian Civil War, end with no breakthrough reported. ](/news/2017/01/23/peace-talks-in-astana-kazakhstan-between-the-syrian-opposition-and-the-syrian-government-meant-to-build-on-a-fragile-ceasefire-currently.md)
-_Context: Syrian Civil War, Astana, Syrian peace process, Syrian government, Kazakhstan, Syrian opposition_
+_Context: Syrian Civil War, Syrian opposition, Syrian government, Syrian peace process, Astana, Kazakhstan_
 
 ## [Previous Day...](/news/2017/01/22/index.md)
 

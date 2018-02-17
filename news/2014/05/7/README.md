@@ -15,7 +15,7 @@ Pro-Russian separatists seize back the city hall in the southern Ukrainian port 
 ### [Rebels withdraw from the besieged city of Homs in accordance with the U.N.-brokered deal between them and the Syrian government. ](/news/2014/05/7/rebels-withdraw-from-the-besieged-city-of-homs-in-accordance-with-the-u-n-brokered-deal-between-them-and-the-syrian-government.md)
 Syrian rebels leave the last opposition-held enclaves in Homs, ending three years of resistance in the &quot;capital of the revolution&quot;.
 
-##### China
+##### Chinese
 ### [Vietnamese naval ships and Chinese vessels collide in the South China Sea; the incident occurred while the Vietnamese navy was trying to prevent China from setting up an oil rig in an area to which both nations lay claim. ](/news/2014/05/7/vietnamese-naval-ships-and-chinese-vessels-collide-in-the-south-china-sea-the-incident-occurred-while-the-vietnamese-navy-was-trying-to-pre.md)
 Vietnamese naval ships and Chinese vessels collide in a disputed part of the South China Sea, as Beijing seeks to set up an oil rig, Vietnam says.
 
@@ -37,7 +37,7 @@ Alan Shatter&#39;s successor as Minister for Justice is expected to be announced
 
 ##### India
 ### [In India over 60 million people vote in 64 constituencies today across 7 states for 16th Lok Sabha. ](/news/2014/05/7/in-india-over-60-million-people-vote-in-64-constituencies-today-across-7-states-for-16th-lok-sabha.md)
-_Context: election, constituencies, state, India_
+_Context: constituencies, state, election, India_
 
 ##### Ganzhou
 ### [The "Pinocchio Rex" ("Qianzhousaurus sinensis") is discovered in Ganzhou, China. ](/news/2014/05/7/the-pinocchio-rex-qianzhousaurus-sinensis-is-discovered-in-ganzhou-china.md)

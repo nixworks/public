@@ -13,13 +13,13 @@ Central African Republic leader Francois Bozize promises a national unity govern
 
 ##### Guatemala
 ### [Guatemalan Congresswoman Catarina Castor dies in the crash of a private plane in the northwestern Guatemalan province of Quiche, which also killed the pilot and injured the Governor Quiche Department, Heber Cabrera. ](/news/2012/12/30/guatemalan-congresswoman-catarina-castor-dies-in-the-crash-of-a-private-plane-in-the-northwestern-guatemalan-province-of-quicha-c-which-also.md)
-_Context: Congresswoman, Quiche, Catarina Castor, Guatemala, Heber Cabrera_
+_Context: Heber Cabrera, Catarina Castor, Congresswoman, Guatemala, Quiche_
 
 ##### Interstate 84
 ### [A tour bus crashes off Interstate 84 in northeastern Oregon in the United States, leaving 9 of its passengers dead and 26 injured. ](/news/2012/12/30/a-tour-bus-crashes-off-interstate-84-in-northeastern-oregon-in-the-united-states-leaving-9-of-its-passengers-dead-and-26-injured.md)
 Get the latest breaking news across the U.S. on ABCNews.com
 
-##### Mexican
+##### Mexico
 ### [Mexican marines kill 4 gunmen who tried to steal the body of Angel Enrique Uscanga, a drug boss, in Gulf coast state of Veracruz. ](/news/2012/12/30/mexican-marines-kill-4-gunmen-who-tried-to-steal-the-body-of-angel-enrique-uscanga-a-drug-boss-in-gulf-coast-state-of-veracruz.md)
 Mexican marines have slain four gunmen who apparently were trying to steal the body of a Zetas cartel chieftain killed by the military a day before in the Gulf coast state of Veracruz.
 
@@ -29,11 +29,11 @@ President Obama puts pressure on Republicans to accept a deal aimed at avoiding 
 
 ##### United States Secretary of State
 ### [U.S. Secretary of State Hillary Clinton is hospitalized after doctors discover a blood clot related to the concussion she suffered earlier this month. ](/news/2012/12/30/u-s-secretary-of-state-hillary-clinton-is-hospitalized-after-doctors-discover-a-blood-clot-related-to-the-concussion-she-suffered-earlier-t.md)
-_Context: blood clot, United States Secretary of State, Hillary Clinton, concussion_
+_Context: Hillary Clinton, concussion, blood clot, United States Secretary of State_
 
 ##### Subatomic particle
 ### [The confirmation of the existence of a subatomic particle known as the Higgs boson is named as 2012 Breakthrough of the Year by the "Science" magazine. ](/news/2012/12/30/the-confirmation-of-the-existence-of-a-subatomic-particle-known-as-the-higgs-boson-is-named-as-2012-breakthrough-of-the-year-by-the-science.md)
-_Context: Science, Higgs boson, Breakthrough of the Year, subatomic particle_
+_Context: subatomic particle, Science, Higgs boson, Breakthrough of the Year_
 
 ##### Italy
 ### [Italian neurologist Rita Levi-Montalcini, the 1986 Nobel laureate in Physiology or Medicine, dies at the age of 103. ](/news/2012/12/30/italian-neurologist-rita-levi-montalcini-the-1986-nobel-laureate-in-physiology-or-medicine-dies-at-the-age-of-103.md)

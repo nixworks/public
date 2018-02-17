@@ -5,7 +5,7 @@ Formats: [HTML](2017/02/2/index.html)  [JSON](2017/02/2/index.json)  [XML](2017/
 
 ##### Georgia-European Union relations
 ### [The European Parliament unanimously approves visa-free regime in the Schengen zone for Georgia. ](/news/2017/02/2/the-european-parliament-unanimously-approves-visa-free-regime-in-the-schengen-zone-for-georgia.md)
-_Context: European Parliament,  Georgian, Schengen zone, Georgia-European Union relations_
+_Context: Schengen zone, European Parliament, Georgia-European Union relations,  Georgian_
 
 ##### Russia-United States relations
 ### [The United States Department of the Treasury eases some sanctions on the Federal Security Service (FSB), allowing for limited transactions with the intelligence agency. The sanctions were put in place last year by Barack Obama over alleged Russian interference in the 2016 U.S. election. ](/news/2017/02/2/the-united-states-department-of-the-treasury-eases-some-sanctions-on-the-federal-security-service-fsb-allowing-for-limited-transactions-w.md)
@@ -25,7 +25,7 @@ Fraud bankers and consultants indulged in sex parties and luxury holidays as the
 
 ##### Lasting peace
 ### [The National Liberation Army releases former congressman Odin Sanchez, who had been held hostage by the rebel group since April 2016, paving the way for peace talks to begin between the rebels and the Colombian government next week in Ecuador. ](/news/2017/02/2/the-national-liberation-army-releases-former-congressman-odin-sanchez-who-had-been-held-hostage-by-the-rebel-group-since-april-2016-paving.md)
-_Context: Ecuador, ELN, government, lasting peace_
+_Context: lasting peace, Ecuador, ELN, government_
 
 ## [Previous Day...](/news/2017/02/1/index.md)
 

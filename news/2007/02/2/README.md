@@ -5,7 +5,7 @@ Formats: [HTML](2007/02/2/index.html)  [JSON](2007/02/2/index.json)  [XML](2007/
 
 ##### Ali Hassan Al Majeed
 ### [ Ali Hassan Al Majeed, commonly known as Chemical Ali, admits he ordered Iraqi troops to engage in genocide against the Kurds of Iraqi Kurdistan. He says the "emptying" of villages was justified because the Kurds assisted Iran forces in the Iran-Iraq war. ](/news/2007/02/2/ali-hassan-al-majeed-commonly-known-as-chemical-ali-admits-he-ordered-iraqi-troops-to-engage-in-genocide-against-the-kurds-of-iraqi-kurdi.md)
-_Context: Kurd, Kurdish, Ali Hassan Al Majeed, Iran-Iraq war, genocide, Iraqi troops, Iran_
+_Context: Iran-Iraq war, Iraqi troops, Iran, Kurd, genocide, Ali Hassan Al Majeed, Kurdish_
 
 ##### Clashes
 ### [ Palestinian factional violence: Hamas and its rival Fatah renew their truce when violence broke off again after the initial ceasefire. ](/news/2007/02/2/palestinian-factional-violence-hamas-and-its-rival-fatah-renew-their-truce-when-violence-broke-off-again-after-the-initial-ceasefire.md)
@@ -13,11 +13,11 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### China
 ### [ Chinese President Hu Jintao signs a series of economic deals with Sudan, which China has protected from UN sanctions. ](/news/2007/02/2/chinese-president-hu-jintao-signs-a-series-of-economic-deals-with-sudan-which-china-has-protected-from-un-sanctions.md)
-_Context: China, Hu Jintao, economic sanction, UN, President, Sudan_
+_Context: Sudan, China, economic sanction, Hu Jintao, UN, President_
 
 ##### Two years of helping
 ### [ War in Somalia: Eight people are killed in a mortar attack in Somalia's capital Mogadishu. ](/news/2007/02/2/war-in-somalia-eight-people-are-killed-in-a-mortar-attack-in-somalia-s-capital-mogadishu.md)
-_Context: Mogadishu, two years of helping, Mortar, Somalia_
+_Context: Mogadishu, Mortar, Somalia, two years of helping_
 
 ##### Martti Ahtisaari
 ### [ Martti Ahtisaari unveils a United Nations plan for the final status of Kosovo. Serbian leaders denounced the proposal. ](/news/2007/02/2/martti-ahtisaari-unveils-a-united-nations-plan-for-the-final-status-of-kosovo-serbian-leaders-denounced-the-proposal.md)
@@ -25,7 +25,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Intergovernmental Panel on Climate Change
 ### [ The Intergovernmental Panel on Climate Change publishes its fourth assessment report, concluding that global climate change is "very likely" to have a predominantly human cause. ](/news/2007/02/2/the-intergovernmental-panel-on-climate-change-publishes-its-fourth-assessment-report-concluding-that-global-climate-change-is-very-likely.md)
-_Context: Intergovernmental Panel on Climate Change, global climate change, fourth assessment report_
+_Context: global climate change, Intergovernmental Panel on Climate Change, fourth assessment report_
 
 ##### Storms hit
 ### [ Storms hit Florida during the early morning hours, forecasters suspect tornadoes as the cause. At least 20 fatalities are reported from the storm. ](/news/2007/02/2/storms-hit-florida-during-the-early-morning-hours-forecasters-suspect-tornadoes-as-the-cause-at-least-20-fatalities-are-reported-from-the.md)

@@ -9,19 +9,19 @@ _Context: mortgage lending, subprime mortgage crisis, United States Federal Rese
 
 ##### United States
 ### [ United States President George W. Bush lifts a ban on offshore oil drilling. ](/news/2008/07/14/united-states-president-george-w-bush-lifts-a-ban-on-offshore-oil-drilling.md)
-_Context: drill for oil, U.S. President, United States, George W. Bush_
+_Context: United States, George W. Bush, U.S. President, drill for oil_
 
 ##### Etihad Airways
 ### [ Etihad Airways from the United Arab Emirates buys 100 fuel-efficient aircraft from Airbus and Boeing. ](/news/2008/07/14/etihad-airways-from-the-united-arab-emirates-buys-100-fuel-efficient-aircraft-from-airbus-and-boeing.md)
-_Context: Etihad Airways, United Arab Emirates, Boeing Company, Airbus_
+_Context: Airbus, Boeing Company, Etihad Airways, United Arab Emirates_
 
 ##### Luis Moreno-Ocampo
 ### [ Luis Moreno-Ocampo, the Prosecutor for the International Criminal Court, accuses Sudanese president Omar al-Bashir of genocide, crimes against humanity and war crimes in Darfur. ](/news/2008/07/14/luis-moreno-ocampo-the-prosecutor-for-the-international-criminal-court-accuses-sudanese-president-omar-al-bashir-of-genocide-crimes-agai.md)
-_Context: Omar al-Bashir, Luis Moreno-Ocampo, crime against humanity, ICC, genocide, war crime, Darfur, Sudan_
+_Context: ICC, Omar al-Bashir, Darfur, Luis Moreno-Ocampo, Sudan, crime against humanity, war crime, genocide_
 
 ##### Scientist
 ### [ Scientists at Walter and Eliza Hall Institute of Medical Research, Melbourne make a potential breakthrough in curing Malaria. ](/news/2008/07/14/scientists-at-walter-and-eliza-hall-institute-of-medical-research-melbourne-make-a-potential-breakthrough-in-curing-malaria.md)
-_Context: Melbourne, Malaria, Scientist, Walter and Eliza Hall Institute of Medical Research_
+_Context: Malaria, Melbourne, Walter and Eliza Hall Institute of Medical Research, Scientist_
 
 ##### International Astronomical Union
 ### [ International Astronomical Union's Working Group for Planetary System Nomenclature classifies Makemake as the newest dwarf planet. ](/news/2008/07/14/international-astronomical-union-s-working-group-for-planetary-system-nomenclature-classifies-makemake-as-the-newest-dwarf-planet.md)

@@ -9,7 +9,7 @@ Space.com: A new study pins down how long it takes Earth&#39;s magnetic field to
 
 ##### Baghdad
 ### [ Baghdad office of Shiite leader Moqtada al-Sadr is surrounded by U.S. tanks and troops amid efforts to arrest the Iraqi cleric. Some 500 armed Sadr militia burn tires, forming roadblocks and promising jihad near the office. Snipers have also been placed in homes in the neighborhood in the Baghdad slum of Sadr City. ](/news/2004/04/7/baghdad-office-of-shiite-leader-moqtada-al-sadr-is-surrounded-by-u-s-tanks-and-troops-amid-efforts-to-arrest-the-iraqi-cleric-some-500-ar.md)
-_Context: jihad, Sadr City, roadblock, slum, Iraq, arrest, neighborhood, cleric, Sniper, militia, Baghdad, Shiite, Muqtada al-Sadr, tire_
+_Context: Baghdad, Muqtada al-Sadr, arrest, Iraq, roadblock, cleric, slum, neighborhood, Sniper, Shiite, Sadr City, jihad, tire, militia_
 
 ##### Same-sex marriage in the United States
 ### [ Same-sex marriage in the United States: Represented by the ACLU, New York State Assembly man Daniel O'Donnell and his partner and 12 other same sex couples file suit against the New York Department of Health to strike down a state law defining marriage as between "a man and a woman." ](/news/2004/04/7/same-sex-marriage-in-the-united-states-represented-by-the-aclu-new-york-state-assembly-man-daniel-o-donnell-and-his-partner-and-12-other.md)

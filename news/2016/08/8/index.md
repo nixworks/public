@@ -13,7 +13,7 @@ A suicide bomb attack at a hospital in the Pakistani city of Quetta kills at lea
 
 ##### Emperor
 ### [Emperor Akihito of Japan says he intends to lessen his official duties due to old age. ](/news/2016/08/8/emperor-akihito-of-japan-says-he-intends-to-lessen-his-official-duties-due-to-old-age.md)
-_Context: Akihito, Japan, Emperor_
+_Context: Emperor, Akihito, Japan_
 
 ##### Defense ministry
 ### [The Philippine Defense ministry prepares for the burial of former President Ferdinand Marcos in the Heroes' Cemetery. ](/news/2016/08/8/the-philippine-defense-ministry-prepares-for-the-burial-of-former-president-ferdinand-marcos-in-the-heroes-cemetery.md)
@@ -31,9 +31,9 @@ Hurricane Earl had been downgraded to a tropical storm by the time it hit southe
 ### [Remnants of Hurricane Earl helped form Tropical Storm Javier which is southeast of the Mexican resort of Cabo San Lucas on the Baja California Peninsula. A hurricane warning is issued for the southern portion of the peninsula. Rainfall from the storm is expected to impact the American Southwest, starting Tuesday evening. ](/news/2016/08/8/remnants-of-hurricane-earl-helped-form-tropical-storm-javier-which-is-southeast-of-the-mexican-resort-of-cabo-san-lucas-on-the-baja-californ.md)
 While remnants of Tropical Storm Earl were helping fuel the formation of Tropical Storm Javier off Mexico&#8217;s Pacific coast early Monday Aug. 8, at least 40 people were reported killed by lands…
 
-##### 2016 U.S. presidential election
+##### 2016 U.S. election
 ### [A Filipino lawmaker proposes a bill banning Republican U.S. presidential candidate Donald Trump from entering the Philippines after Trump compared Filipino legal immigrants to terrorists. ](/news/2016/08/8/a-filipino-lawmaker-proposes-a-bill-banning-republican-u-s-presidential-candidate-donald-trump-from-entering-the-philippines-after-trump-co.md)
-_Context: terrorists, Republican, Donald Trump, 2016 U.S. presidential election, Philippines_
+_Context: 2016 U.S. election, Philippines, Republican, Donald Trump, terrorists_
 
 ##### Japan-North Korea relations
 ### [Japan orders its military to shoot down any North Korean missiles that threaten to strike Japan at anytime, and is placing its forces on a state of alert for at least three months, according to a Ministry of Defense official. ](/news/2016/08/8/japan-orders-its-military-to-shoot-down-any-north-korean-missiles-that-threaten-to-strike-japan-at-anytime-and-is-placing-its-forces-on-a-s.md)

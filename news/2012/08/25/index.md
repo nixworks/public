@@ -9,15 +9,15 @@ The bodies of at least 200 people were found in a town close to Damascus on Satu
 
 ##### 2011-present Libyan factional fighting
 ### [Libya: Unnamed organized assailants bulldoze a Sufi mosque with graves, in broad daylight in the centre of the Libyan capital Tripoli. It is the second such razing of a Sufi site in two days. De facto head of state Mohamed Yousef el-Magariaf tells reporters: "What is truly regrettable and suspicious is that some of those who took part in these destruction activities are supposed to be of the security forces and from the revolutionaries." ](/news/2012/08/25/libya-unnamed-organized-assailants-bulldoze-a-sufi-mosque-with-graves-in-broad-daylight-in-the-centre-of-the-libyan-capital-tripoli-it-is.md)
-_Context: 2011-present Libyan factional fighting, Tripoli, Sufi, Mohamed Yousef el-Magariaf_
+_Context: Sufi, 2011-present Libyan factional fighting, Mohamed Yousef el-Magariaf, Tripoli_
 
 ##### Neil Armstrong
 ### [Neil Armstrong, the first person on the Moon, dies at age 82. ](/news/2012/08/25/neil-armstrong-the-first-person-on-the-moon-dies-at-age-82.md)
-_Context: Moon, Neil Armstrong, first person_
+_Context: first person, Neil Armstrong, Moon_
 
 ##### Drought
 ### [A historic drought develops in the Balkans causing severe losses to agriculture. Towns in Serbia introduce water restrictions while scorching temperatures fuel hundreds of fires. Russia stations a second fire fighting aircraft to help in Nis. ](/news/2012/08/25/a-historic-drought-develops-in-the-balkans-causing-severe-losses-to-agriculture-towns-in-serbia-introduce-water-restrictions-while-scorchin.md)
-_Context: Serbia, Balkans, wildfire, help, fuel, drought, fire fighting aircraft, Russia, Nis_
+_Context: fire fighting aircraft, fuel, Serbia, wildfire, Balkans, Russia, help, drought, Nis_
 
 ##### Tropical Storm Isaac
 ### [Tropical Storm Isaac causes floodings and kills at least three people in Haiti, a nation still recovering from the 2010 earthquake. The storm moves Northwest over east Cuba. ](/news/2012/08/25/tropical-storm-isaac-causes-floodings-and-kills-at-least-three-people-in-haiti-a-nation-still-recovering-from-the-2010-earthquake-the-stor.md)
@@ -29,7 +29,7 @@ _Context: Myanmar, Irrawaddy Delta_
 
 ##### Paraguana Refinery Complex
 ### [A gas-leak blast at the Paraguana Refinery Complex in Amuay, in north Venezuela kills at least 39 people and injures more than 80. ](/news/2012/08/25/a-gas-leak-blast-at-the-paraguana-refinery-complex-in-amuay-in-north-venezuela-kills-at-least-39-people-and-injures-more-than-80.md)
-_Context: Venezuela, Paraguana Refinery Complex, Amuay_
+_Context: Venezuela, Amuay, Paraguana Refinery Complex_
 
 ##### Angola
 ### [Thirty-seven Chinese nationals, arrested in Angola due to their alleged involvement in criminal acts, are extradited and due to be tried in China. ](/news/2012/08/25/thirty-seven-chinese-nationals-arrested-in-angola-due-to-their-alleged-involvement-in-criminal-acts-are-extradited-and-due-to-be-tried-in.md)

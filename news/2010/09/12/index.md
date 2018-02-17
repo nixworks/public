@@ -29,7 +29,7 @@ Claude&#x20;Chabrol&#x20;&#x28;pictured&#x29;,&#x20;film&#x20;director&#x20;and&
 
 ##### Lady Gaga
 ### [Lady Gaga wins eight MTV Video Music Awards at the 2010 ceremony including Video of the Year for "Bad Romance". ](/news/2010/09/12/lady-gaga-wins-eight-mtv-video-music-awards-at-the-2010-ceremony-including-video-of-the-year-for-bad-romance.md)
-_Context: Lady Gaga, 2010 ceremony, Bad Romance, MTV Video Music Awards_
+_Context: Bad Romance, Lady Gaga, MTV Video Music Awards, 2010 ceremony_
 
 ##### 2010 Copiap mining accident
 ### [The 33 miners involved in the 2010 Copiap mining accident are permitted to smoke cigarettes after one month of underground entrapment. ](/news/2010/09/12/the-33-miners-involved-in-the-2010-copiapo-mining-accident-are-permitted-to-smoke-cigarettes-after-one-month-of-underground-entrapment.md)
@@ -69,7 +69,7 @@ _Context: Puebla, Mexican marines, Sergio Villarreal Barragn, Beltrn Leyva Carte
 
 ##### Russian President
 ### [President of Russia Dmitry Medvedev approves a plan to overhaul Russia's police system. ](/news/2010/09/12/president-of-russia-dmitry-medvedev-approves-a-plan-to-overhaul-russia-s-police-system.md)
-_Context: Dmitry Medvedev, state police, Russian President, Russia_
+_Context: Russia, state police, Dmitry Medvedev, Russian President_
 
 ##### Malaysia
 ### [Malaysia's police force is debated following the fatal shooting of a 15-year-old boy. ](/news/2010/09/12/malaysia-s-police-force-is-debated-following-the-fatal-shooting-of-a-15-year-old-boy.md)

@@ -13,11 +13,11 @@ WASHINGTON – An even split among the current eight justices of the U.S. Suprem
 
 ##### National Labor Relations Board
 ### [The U.S. National Labor Relations Board files an official complaint against a California warehouse after finding evidence it violated workers' rights to organize. The allegations of wrongdoing submitted by a worker group against California Cartage Company, LLC, which serves Amazon.com, Inc., Lowe's Companies. Inc., New Balance, and Sears Holdings Corp., will be heard by an NLRB administrative law judge in June 2016. None of the retailers were named in the NLRB complaint. ](/news/2016/03/29/the-u-s-national-labor-relations-board-files-an-official-complaint-against-a-california-warehouse-after-finding-evidence-it-violated-worker.md)
-_Context: Sears Holdings, California, New Balance, Lowe's Companies. Inc., Amazon.com, National Labor Relations Board, administrative law judge_
+_Context: Lowe's Companies. Inc., administrative law judge, Amazon.com, New Balance, California, National Labor Relations Board, Sears Holdings_
 
 ##### Alaska Airlines
 ### [Alaska Airlines cancels additional flights, due to the ongoing eruption of Mount Pavlof on the Alaska Peninsula. ](/news/2016/03/29/alaska-airlines-cancels-additional-flights-due-to-the-ongoing-eruption-of-mount-pavlof-on-the-alaska-peninsula.md)
-_Context: Alaska Airlines, Mount Pavlof, Alaska Peninsula_
+_Context: Alaska Peninsula, Mount Pavlof, Alaska Airlines_
 
 ##### 2016 Aero Teknic MU-2 crash
 ### [Seven people die in a plane crash on the Magdalen Islands in the Canadian province of Quebec. Former minister Jean Lapierre was one of the people on board the plane. ](/news/2016/03/29/seven-people-die-in-a-plane-crash-on-the-magdalen-islands-in-the-canadian-province-of-quebec-former-minister-jean-lapierre-was-one-of-the-p.md)
@@ -45,11 +45,11 @@ WASHINGTON — The State Department and Pentagon ordered the families of US dipl
 
 ##### Iran and weapons of mass destruction
 ### [Reuters reports the United States and its European allies have notified the UN that Iran's launching of nuclear-capable missiles violated United Nations Security Council resolution 2231 which endorsed the Iran deal, i.e., the Joint Comprehensive Plan of Action (JCPOA), last year. ](/news/2016/03/29/reuters-reports-the-united-states-and-its-european-allies-have-notified-the-un-that-iran-s-launching-of-nuclear-capable-missiles-violated-un.md)
-_Context: United States, Reuters, United Nations Security Council, Joint Comprehensive Plan of Action, Iran, United Nations Security Council Resolution 2231, Iran and weapons of mass destruction_
+_Context: United Nations Security Council Resolution 2231, Reuters, Joint Comprehensive Plan of Action, Iran, United Nations Security Council, United States, Iran and weapons of mass destruction_
 
 ##### Indonesian foreign ministry
 ### [The Indonesian foreign ministry says 10 Indonesian nationals are being held hostage after their tug boat and coal barge was hijacked in Philippine waters. Islamist militant group, Abu Sayyaf is demanding a ransom. ](/news/2016/03/29/the-indonesian-foreign-ministry-says-10-indonesian-nationals-are-being-held-hostage-after-their-tug-boat-and-coal-barge-was-hijacked-in-phil.md)
-_Context: Abu Sayyaf, Indonesia, Philippines, Indonesian foreign ministry_
+_Context: Abu Sayyaf, Indonesian foreign ministry, Indonesia, Philippines_
 
 ##### EgyptAir Flight 181
 ### [A hijacked EgyptAir flight lands in Cyprus. All hostages have been released, and the hijacker has no evident ties to any terrorist organizations. ](/news/2016/03/29/a-hijacked-egyptair-flight-lands-in-cyprus-all-hostages-have-been-released-and-the-hijacker-has-no-evident-ties-to-any-terrorist-organizat.md)
@@ -69,7 +69,7 @@ The U.S. Supreme Court today asked new questions in one of the term&#x27;s most 
 
 ##### Samuel Moreno Rojas
 ### [Samuel Moreno Rojas, the former mayor of the Colombian capital Bogota, is jailed for 18 years for taking bribes to award ambulance contracts. ](/news/2016/03/29/samuel-moreno-rojas-the-former-mayor-of-the-colombian-capital-bogota-is-jailed-for-18-years-for-taking-bribes-to-award-ambulance-contracts.md)
-_Context: Colombia, Bogota, Samuel Moreno Rojas_
+_Context: Bogota, Samuel Moreno Rojas, Colombia_
 
 ##### El Salvador
 ### [El Salvador declares a state of emergency in seven prisons and transfers 299 prisoners in a crackdown on gang violence. ](/news/2016/03/29/el-salvador-declares-a-state-of-emergency-in-seven-prisons-and-transfers-299-prisoners-in-a-crackdown-on-gang-violence.md)
@@ -85,9 +85,9 @@ A US government aid agency pulls $472m (£331m) of funding for a Tanzanian elect
 
 ##### Tennessee state Senate
 ### [In the United States, the Tennessee state Senate will vote on a bill, which narrowly passed the House last year, to declare the Holy Bible the official book of Tennessee. Governor Bill Haslam (R) was among those who opposed the bill in 2015. ](/news/2016/03/29/in-the-united-states-the-tennessee-state-senate-will-vote-on-a-bill-which-narrowly-passed-the-house-last-year-to-declare-the-holy-bible-t.md)
-_Context: Governor, Tennessee state Senate, House, Tennessee, Bill Haslam, Bible_
+_Context: Tennessee state Senate, Governor, Bill Haslam, House, Bible, Tennessee_
 
-##### 2016 U.S. presidential election
+##### 2016 U.S. election
 ### [Candidate Donald Trump says he will no longer honor his pledge to support the eventual Republican Party pick for president because, "I have been treated very unfairly." ](/news/2016/03/29/candidate-donald-trump-says-he-will-no-longer-honor-his-pledge-to-support-the-eventual-republican-party-pick-for-president-because-i-have.md)
 Donald Trump, Ted Cruz and John Kasich all backed away from earlier pledges to support the eventual Republican nominee during a CNN town hall.
 
@@ -97,7 +97,7 @@ Two police officers were killed and four wounded on Tuesday in the western Venez
 
 ##### FCC's
 ### [U.S. Federal Communications Commissioner Michael O'Rielly says, during a speech at the American Action Forum, that Netflix's admission last week that it has been intentionally slowing its video streaming transmission on some wireless mobile carriers for five years "deeply disturbing" which might warrant an investigation by the Federal Trade Commission and-or Congress. ](/news/2016/03/29/u-s-federal-communications-commissioner-michael-o-rielly-says-during-a-speech-at-the-american-action-forum-that-netflix-s-admission-last.md)
-_Context: Netflix, FCC's, Congress, Michael O'Rielly, U.S. Federal Trade Commission, American Action Forum_
+_Context: Congress, Netflix, Michael O'Rielly, American Action Forum, FCC's, U.S. Federal Trade Commission_
 
 ## [Previous Day...](/news/2016/03/28/index.md)
 

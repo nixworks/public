@@ -13,7 +13,7 @@ News - Your daily dose of information: European and International latest breakin
 
 ##### Anglo American Platinum
 ### [Anglo Platinum Limited&mdash;the world's biggest platinum producer&mdash;fires 12,000 people in South Africa after a strike over working conditions. The corporation has stated that the strikes have cost it 39,000 ounces in output - equivalent to 700 million rand ($82.3 million; GBP51 million) in revenue. ](/news/2012/10/5/anglo-platinum-limited-mdash-the-world-s-biggest-platinum-producer-mdash-fires-12-000-people-in-south-africa-after-a-strike-over-working-con.md)
-_Context: rand, South Africa, Anglo American Platinum_
+_Context: South Africa, rand, Anglo American Platinum_
 
 ##### Fungal meningitis
 ### [At least 47 people throughout the United States are infected with fungal meningitis from contaminated medicine, with five people dying. ](/news/2012/10/5/at-least-47-people-throughout-the-united-states-are-infected-with-fungal-meningitis-from-contaminated-medicine-with-five-people-dying.md)

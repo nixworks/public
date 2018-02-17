@@ -13,27 +13,27 @@ Militants attacked a hilltop army position in volatile northwest Pakistan on Fri
 
 ##### Russian Army
 ### [The Russian Army kills two militants in the village of Mutsalaul in Dagestan's Khasavyurt district. ](/news/2012/03/2/the-russian-army-kills-two-militants-in-the-village-of-mutsalaul-in-dagestan-s-khasavyurt-district.md)
-_Context: Dagestan, Russian Army, Khasavyurt, Mutsalaul_
+_Context: Khasavyurt, Russian Army, Dagestan, Mutsalaul_
 
 ##### NASA
 ### [The US space agency NASA claims that it was hacked 13 times last year compromising security. ](/news/2012/03/2/the-us-space-agency-nasa-claims-that-it-was-hacked-13-times-last-year-compromising-security.md)
-_Context: NASA, hacker_
+_Context: hacker, NASA_
 
 ##### Washington Post
 ### [The "Washington Post" reports that a US military report into the accidental burning of Qurans at Bagram airfield in Afghanistan that led to widespread protests has found that five US service personnel were involved. ](/news/2012/03/2/the-washington-post-reports-that-a-us-military-report-into-the-accidental-burning-of-qurans-at-bagram-airfield-in-afghanistan-that-led-to.md)
-_Context: Washington Post, Bagram airfield, Quran, protests, Afghan_
+_Context: Afghan, Quran, Washington Post, Bagram airfield, protests_
 
 ##### European Union
 ### [25 of the 27 members of the European Union sign a new "fiscal compact", the exceptions being the United Kingdom and the Czech Republic. ](/news/2012/03/2/25-of-the-27-members-of-the-european-union-sign-a-new-fiscal-compact-the-exceptions-being-the-united-kingdom-and-the-czech-republic.md)
-_Context: Czech Republic, United Kingdom, European Union_
+_Context: European Union, Czech Republic, United Kingdom_
 
 ##### Nestle
 ### [Nestle and Danone are said to be bidding for the infant nutrition business that Pfizer is about to put up for sale. ](/news/2012/03/2/nestla-c-and-danone-are-said-to-be-bidding-for-the-infant-nutrition-business-that-pfizer-is-about-to-put-up-for-sale.md)
-_Context: Danone, Nestle, Pfizer_
+_Context: Danone, Pfizer, Nestle_
 
 ##### Moody's Investor Services
 ### [Moody's Investor Services cuts Greece's credit rating to C claiming that there is a still a significant risk of default despite the Eurozone bailout. ](/news/2012/03/2/moody-s-investor-services-cuts-greece-s-credit-rating-to-c-claiming-that-there-is-a-still-a-significant-risk-of-default-despite-the-eurozone.md)
-_Context: credit rating, Eurozone, Greece, Moody's Investor Services_
+_Context: Moody's Investor Services, Eurozone, Greece, credit rating_
 
 ##### Anglican Church
 ### [Anglican Church officials in Christchurch, New Zealand, announce that the 131-year-old landmark ChristChurch Cathedral will need to be demolished, having suffered severe damage from the 2011 Christchurch earthquake and its aftershocks. ](/news/2012/03/2/anglican-church-officials-in-christchurch-new-zealand-announce-that-the-131-year-old-landmark-christchurch-cathedral-will-need-to-be-demol.md)
@@ -49,7 +49,7 @@ At least 28 people are killed in the US states of Indiana, Kentucky and Ohio, as
 
 ##### Ericsson Globe Arena
 ### [Around 30 people are injured and six of them taken to hospital when a stand collapses in Ericsson Globe Arena in Stockholm, Sweden, during a concert with Avicii. ](/news/2012/03/2/around-30-people-are-injured-and-six-of-them-taken-to-hospital-when-a-stand-collapses-in-ericsson-globe-arena-in-stockholm-sweden-during-a.md)
-_Context: Avicii, Ericsson Globe Arena, Stockholm, Sweden_
+_Context: Sweden, Avicii, Stockholm, Ericsson Globe Arena_
 
 ##### India
 ### [The Indian Intelligence Bureau launches an inquiry into whether the office of Defence Minister A. K. Antony had been bugged. ](/news/2012/03/2/the-indian-intelligence-bureau-launches-an-inquiry-into-whether-the-office-of-defence-minister-a-k-antony-had-been-bugged.md)
@@ -57,7 +57,7 @@ The Defence Ministry has denied that Defence Minister AK Antony&#039;s office wa
 
 ##### ICC
 ### [The International Criminal Court issues an arrest warrant for Abdelrahim Mohamed Hussein, Sudan's Defence Minister, on war crimes charges in connection to Darfur. ](/news/2012/03/2/the-international-criminal-court-issues-an-arrest-warrant-for-abdelrahim-mohamed-hussein-sudan-s-defence-minister-on-war-crimes-charges-in.md)
-_Context: Abdelrahim Mohamed Hussein, war crimes, ICC, Darfur, Sudan_
+_Context: Darfur, Sudan, Abdelrahim Mohamed Hussein, ICC, war crimes_
 
 ##### BP
 ### [BP and plaintiffs reach an agreement over compensation for the Deepwater Horizon oil spill in the Gulf of Mexico. ](/news/2012/03/2/bp-and-plaintiffs-reach-an-agreement-over-compensation-for-the-deepwater-horizon-oil-spill-in-the-gulf-of-mexico.md)

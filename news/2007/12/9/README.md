@@ -9,15 +9,15 @@ _Context: United States, Arvada, shooting at a youth training center, Colorado_
 
 ##### Shooting at a church
 ### [ Four people are injured and two are killed after a shooting at a church in Colorado Springs, Colorado, United States. ](/news/2007/12/9/four-people-are-injured-and-two-are-killed-after-a-shooting-at-a-church-in-colorado-springs-colorado-united-states.md)
-_Context: Colorado, shooting at a church, United States, Colorado Springs, Colorado_
+_Context: Colorado Springs, Colorado, United States, Colorado, shooting at a church_
 
 ##### Taliban
 ### [ Taliban fighters in Afghanistan have pulled back to take up new positions defending the town of Musa Qala during a battle with the Afghan National Army and the International Security Assistance Force. ](/news/2007/12/9/taliban-fighters-in-afghanistan-have-pulled-back-to-take-up-new-positions-defending-the-town-of-musa-qala-during-a-battle-with-the-afghan-n.md)
-_Context: Taliban, Musa Qala, Afghan National Army, Afghan, battle, International Security Assistance Force_
+_Context: battle, Afghan National Army, Afghan, Musa Qala, Taliban, International Security Assistance Force_
 
 ##### Robert Pickton
 ### [ Robert Pickton is found guilty of second-degree murder of six women from Vancouver's Downtown Eastside. ](/news/2007/12/9/robert-pickton-is-found-guilty-of-second-degree-murder-of-six-women-from-vancouver-s-downtown-eastside.md)
-_Context: Vancouver, Robert Pickton, Downtown Eastside, murder_
+_Context: murder, Vancouver, Downtown Eastside, Robert Pickton_
 
 ## [Previous Day...](/news/2007/12/8/index.md)
 

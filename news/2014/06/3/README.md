@@ -13,7 +13,7 @@ Suspected Boko Haram militants. some disguised as soldiers, kill dozens of Niger
 
 ##### Rural Development
 ### [India's Rural Development Minister, Gopinath Munde, dies in a road accident while on his way to Delhi Airport. ](/news/2014/06/3/india-s-rural-development-minister-gopinath-munde-dies-in-a-road-accident-while-on-his-way-to-delhi-airport.md)
-_Context: Delhi Airport, Gopinath Munde, Rural Development_
+_Context: Gopinath Munde, Delhi Airport, Rural Development_
 
 ##### Saudi Arabia
 ### [Saudi Arabia announces 113 previously unreported cases of MERS, revises the death toll to 282, and fires its minister of health. ](/news/2014/06/3/saudi-arabia-announces-113-previously-unreported-cases-of-mers-revises-the-death-toll-to-282-and-fires-its-minister-of-health.md)
@@ -25,7 +25,7 @@ President Barack Obama announces plans for a $1bn fund to increase US military d
 
 ##### London police
 ### [London police arrest the leader of Pakistan's MQM party, Altaf Hussain, on suspicion of money-laundering. ](/news/2014/06/3/london-police-arrest-the-leader-of-pakistan-s-mqm-party-altaf-hussain-on-suspicion-of-money-laundering.md)
-_Context: London police, Muttahida Qaumi Movement, Altaf Hussain_
+_Context: London police, Altaf Hussain, Muttahida Qaumi Movement_
 
 ##### Police
 ### [Nigerian police in Abuja ban all protests planned in support of the 276 girls kidnapped from northern Nigeria by Boko Haram. ](/news/2014/06/3/nigerian-police-in-abuja-ban-all-protests-planned-in-support-of-the-276-girls-kidnapped-from-northern-nigeria-by-boko-haram.md)

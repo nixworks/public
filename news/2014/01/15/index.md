@@ -29,7 +29,7 @@ A hemet-mounted camera worn by a firefighter may provide answers in the death of
 
 ##### LGBT rights
 ### [An anti-LGBT rights law that makes gay marriage punishable by up to 14 years in prison is passed in Nigeria. ](/news/2014/01/15/an-anti-lgbt-rights-law-that-makes-gay-marriage-punishable-by-up-to-14-years-in-prison-is-passed-in-nigeria.md)
-_Context: LGBT rights, gay marriage, Nigeria_
+_Context: Nigeria, gay marriage, LGBT rights_
 
 ##### Italy
 ### [Italy says that it will use the Italian Army against the mafia who are accused of dumping toxic waste in Naples. ](/news/2014/01/15/italy-says-that-it-will-use-the-italian-army-against-the-mafia-who-are-accused-of-dumping-toxic-waste-in-naples.md)
@@ -45,7 +45,7 @@ The agency has put software in thousands of computers that allows for surveillan
 
 ##### Egyptians
 ### [Egyptians vote on a constitution that will ban political parties based on religion, give women equal rights and protect the status of minority Coptic Christians. ](/news/2014/01/15/egyptians-vote-on-a-constitution-that-will-ban-political-parties-based-on-religion-give-women-equal-rights-and-protect-the-status-of-minori.md)
-_Context: political parties based on religion, women's rights, Egyptians, Coptic_
+_Context: women's rights, Egyptians, political parties based on religion, Coptic_
 
 ##### Bangkok
 ### [Thai protesters continue to shutdown Bangkok in order to force Yingluck to step down. ](/news/2014/01/15/thai-protesters-continue-to-shutdown-bangkok-in-order-to-force-yingluck-to-step-down.md)

@@ -25,7 +25,7 @@ Malawi has suspended its anti-homosexual law ahead of a public debate and parlia
 
 ##### Fresno, California
 ### [At least five people are reported shot at a workplace (Apple Valley Farms, a poultry and meat processing plant with about 50 employees) in central Fresno, California, according to the "Fresno Bee" newspaper. Initial reports have said that the gunman then shot himself nearby. ](/news/2012/11/6/at-least-five-people-are-reported-shot-at-a-workplace-apple-valley-farms-a-poultry-and-meat-processing-plant-with-about-50-employees-in-c.md)
-_Context: Fresno, California, Fresno Bee_
+_Context: Fresno Bee, Fresno, California_
 
 ##### United States elections, 2012
 ### [Voters in the United States go to the polls for a presidential election. ](/news/2012/11/6/voters-in-the-united-states-go-to-the-polls-for-a-presidential-election.md)

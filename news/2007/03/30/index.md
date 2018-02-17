@@ -5,27 +5,27 @@ Formats: [HTML](2007/03/30/index.html)  [JSON](2007/03/30/index.json)  [XML](200
 
 ##### India
 ### [ India's legendary leg spinner Anil Kumble retires from One Day International cricket. ](/news/2007/03/30/india-s-legendary-leg-spinner-anil-kumble-retires-from-one-day-international-cricket.md)
-_Context: Anil Kumble, India, cricketer, leg spinner, One Day International_
+_Context: India, cricketer, Anil Kumble, One Day International, leg spinner_
 
 ##### Insurgency in Somalia
 ### [ Insurgency in Somalia: An Ethiopian helicopter is downed in Mogadishu as Ethiopian and Somali government troops battle insurgents. ](/news/2007/03/30/insurgency-in-somalia-an-ethiopian-helicopter-is-downed-in-mogadishu-as-ethiopian-and-somali-government-troops-battle-insurgents.md)
-_Context: heavy clashes, Ethiopia, Mogadishu, Insurgency in Somalia_
+_Context: Mogadishu, Insurgency in Somalia, heavy clashes, Ethiopia_
 
 ##### Sudan
 ### [ Sudanese authorities arrest a man who hijacked a Sudan Airways plane flying from Libya to Sudan. ](/news/2007/03/30/sudanese-authorities-arrest-a-man-who-hijacked-a-sudan-airways-plane-flying-from-libya-to-sudan.md)
-_Context: Sudan Airways, Sudan, hijack, Libya_
+_Context: Libya, Sudan, Sudan Airways, hijack_
 
 ##### Bangladesh
 ### [ Bangladesh hangs six people convicted of killing two judges during a wave of terrorist attacks including the founder of the Jamaat-ul-Mujahideen Bangladesh, Shaykh Abdur Rahman, and his deputy Siddiqul Islam. The convicted men stated they had sought to kill the judges because the judiciary was run by secular rather than Sharia law. ](/news/2007/03/30/bangladesh-hangs-six-people-convicted-of-killing-two-judges-during-a-wave-of-terrorist-attacks-including-the-founder-of-the-jamaat-ul-mujah.md)
-_Context: sharia law, hanging, Jamaat-ul-Mujahideen Bangladesh, terrorist, Shaykh Abdur Rahman, Siddiqul Islam, Bangladesh_
+_Context: Jamaat-ul-Mujahideen Bangladesh, Shaykh Abdur Rahman, hanging, sharia law, Bangladesh, Siddiqul Islam, terrorist_
 
 ##### United States Food and Drug Administration
 ### [ The United States Food and Drug Administration identifies the chemical melamine in tainted wheat-gluten shipped from China and used by Menu Foods and an unnamed second company to manufacture pet food. ](/news/2007/03/30/the-united-states-food-and-drug-administration-identifies-the-chemical-melamine-in-tainted-wheat-gluten-shipped-from-china-and-used-by-menu.md)
-_Context: United States Food and Drug Administration, pet food, Menu Foods, melamine, chemical, China_
+_Context: melamine, pet food, Chinese, chemical, Menu Foods, United States Food and Drug Administration_
 
 ##### Royal Navy
 ### [ A Royal Navy sailor identified as Nathan Thomas Summers appeared on Iranian TV, admitting to and apologizing for entering Iranian territory and his government's wartime actions in general. Tony Blair dismisses the statement as forced. ](/news/2007/03/30/a-royal-navy-sailor-identified-as-nathan-thomas-summers-appeared-on-iranian-tv-admitting-to-and-apologizing-for-entering-iranian-territory.md)
-_Context: Royal Navy, TV, Iran, Tony Blair, forced, his government_
+_Context: Tony Blair, forced, his government, Royal Navy, TV, Iran_
 
 ##### Back to the Future: The Ride closes
 ### [ Back to the Future: The Ride closes at Universal Studios Florida. ](/news/2007/03/30/back-to-the-future-the-ride-closes-at-universal-studios-florida.md)

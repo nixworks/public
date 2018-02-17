@@ -9,7 +9,7 @@ _Context: Somalia_
 
 ##### North Korea
 ### [North Korea launches apparent artillery drills as South Korean and American military officials hold talks. ](/news/2010/12/8/north-korea-launches-apparent-artillery-drills-as-south-korean-and-american-military-officials-hold-talks.md)
-_Context: North Korea, South Korea, United States_
+_Context: South Korea, United States, North Korea_
 
 ##### Kohat
 ### [At least 18 people are killed during a bomb at a bus terminal in Kohat's main bazaar kills in Pakistan. ](/news/2010/12/8/at-least-18-people-are-killed-during-a-bomb-at-a-bus-terminal-in-kohat-s-main-bazaar-kills-in-pakistan.md)
@@ -61,11 +61,11 @@ Websites of Mastercard, a Swiss bank and Swedish prosecutor shut down in respons
 
 ##### Palestinian Authority
 ### [Palestinian leader Mahmoud Abbas says Middle East peace talks are in crisis following Israel's refusal to stop building in settlements. ](/news/2010/12/8/palestinian-leader-mahmoud-abbas-says-middle-east-peace-talks-are-in-crisis-following-israel-s-refusal-to-stop-building-in-settlements.md)
-_Context: resume negotiations, Israeli settlement, Palestinian Authority, Mahmoud Abbas, Israel_
+_Context: resume negotiations, Israel, Mahmoud Abbas, Israeli settlement, Palestinian Authority_
 
 ##### Liberia
 ### [Liberian President Ellen Johnson Sirleaf warns former rebel fighters not to get involved in the crisis in Cote d'Ivoire. ](/news/2010/12/8/liberian-president-ellen-johnson-sirleaf-warns-former-rebel-fighters-not-to-get-involved-in-the-crisis-in-ca-te-d-ivoire.md)
-_Context: Liberia, Cote d'Ivoire, Ellen Johnson Sirleaf_
+_Context: Ellen Johnson Sirleaf, Cote d'Ivoire, Liberia_
 
 ##### Dick Cheney
 ### [Former U.S. vice-president Dick Cheney is charged over a bribery scheme involving oil services company Halliburton by Nigeria's anti-corruption agency. The charges relate to when he was the company's top executive. ](/news/2010/12/8/former-u-s-vice-president-dick-cheney-is-charged-over-a-bribery-scheme-involving-oil-services-company-halliburton-by-nigeria-s-anti-corrupt.md)
@@ -77,11 +77,11 @@ Moscow football fans block a key city artery in protest at a killing which has p
 
 ##### Tony Blair
 ### [Tony Blair is recalled to give further evidence before the Iraq Inquiry after "gaps" concerning the legality of the Iraq War are identified in his evidence. Jack Straw and Lord Goldsmith are to return too. ](/news/2010/12/8/tony-blair-is-recalled-to-give-further-evidence-before-the-iraq-inquiry-after-gaps-concerning-the-legality-of-the-iraq-war-are-identified.md)
-_Context: Tony Blair, Jack Straw, Iraq Inquiry, Iraq War, Lord Goldsmith_
+_Context: Lord Goldsmith, Iraq War, Tony Blair, Jack Straw, Iraq Inquiry_
 
 ##### ICC
 ### [The International Criminal Court is to begin a preliminary investigation into war crimes by North Korea. ](/news/2010/12/8/the-international-criminal-court-is-to-begin-a-preliminary-investigation-into-war-crimes-by-north-korea.md)
-_Context: war crime, North Korea, ICC_
+_Context: war crime, ICC, North Korea_
 
 ##### India
 ### [India's Central Bureau of Investigation raids the homes of former telecommunications minister A. Raja, his family and associates in connection with a corruption scandal. ](/news/2010/12/8/india-s-central-bureau-of-investigation-raids-the-homes-of-former-telecommunications-minister-a-raja-his-family-and-associates-in-connecti.md)
@@ -97,11 +97,11 @@ Private US company sends a spacecraft into orbit in a move that could pave way f
 
 ##### Japan Aerospace Exploration Agency
 ### [The Japan Aerospace Exploration Agency says its probe "Akatsuki" has failed to enter the orbit around Venus. ](/news/2010/12/8/the-japan-aerospace-exploration-agency-says-its-probe-akatsuki-has-failed-to-enter-the-orbit-around-venus.md)
-_Context: Japan Aerospace Exploration Agency, Venus, ''Akatsuki''_
+_Context: Venus, ''Akatsuki'', Japan Aerospace Exploration Agency_
 
 ##### Cheetah
 ### [A cheetah is captured roaming the streets in the emirate of Sharjah. ](/news/2010/12/8/a-cheetah-is-captured-roaming-the-streets-in-the-emirate-of-sharjah.md)
-_Context: Sharjah, emirate, cheetah_
+_Context: emirate, Sharjah, cheetah_
 
 ##### Meteor
 ### [A rare sighting of a meteor fireball is seen over large parts of the United Kingdom. ](/news/2010/12/8/a-rare-sighting-of-a-meteor-fireball-is-seen-over-large-parts-of-the-united-kingdom.md)

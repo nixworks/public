@@ -17,7 +17,7 @@ One Palestinian reported injured in apparent retaliation for Kassam strike; Neta
 
 ##### UPS
 ### [Shipping companies United Parcel Service and FedEx apologize for late Christmas package deliveries in the United States, citing high volumes of packages. ](/news/2013/12/26/shipping-companies-united-parcel-service-and-fedex-apologize-for-late-christmas-package-deliveries-in-the-united-states-citing-high-volumes.md)
-_Context: FedEx, Christmas, UPS_
+_Context: UPS, Christmas, FedEx_
 
 ##### Reserve Bank of India
 ### [The Reserve Bank of India warns users of risks involved in virtual currencies such as Bitcoin and Dogecoin. ](/news/2013/12/26/the-reserve-bank-of-india-warns-users-of-risks-involved-in-virtual-currencies-such-as-bitcoin-and-dogecoin.md)
@@ -25,7 +25,7 @@ The Reserve Bank of India has today cautioned the users, holders and traders of 
 
 ##### Mich.
 ### [Thousands of customers are still without power across Michigan, Vermont, Maine, and Southern Ontario after a winter storm earlier this week. ](/news/2013/12/26/thousands-of-customers-are-still-without-power-across-michigan-vermont-maine-and-southern-ontario-after-a-winter-storm-earlier-this-week.md)
-_Context: Maine, Vermont, Mich., Southern Ontario_
+_Context: Vermont, Southern Ontario, Mich., Maine_
 
 ##### Japan
 ### [Japanese Prime Minister Shinzo Abe visits the Yasukuni Shrine. The location is controversial because it enshrines many war criminals from World War II. The visit provokes condemnation from China and South Korea and criticism from the United States. ](/news/2013/12/26/japanese-prime-minister-shinzo-abe-visits-the-yasukuni-shrine-the-location-is-controversial-because-it-enshrines-many-war-criminals-from-wo.md)

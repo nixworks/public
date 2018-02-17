@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/16/china-successfully-launches-its-shenzhou-9-spac
 
 ### [2012-06-16](/news/2012/06/16/index.md)
 
-##### China
+##### Chinese
 # China successfully launches its Shenzhou 9 spacecraft, carrying three astronauts &ndash; including the first female Chinese astronaut, Liu Yang &ndash; to the Tiangong-1 orbital module. 
 
 China sends its first woman into space as 33-year-old fighter pilot Liu Yang is one of three astronauts travelling to the orbiting Tiangong space lab.
@@ -17,8 +17,8 @@ China sends its first woman into space as 33-year-old fighter pilot Liu Yang is 
 
 ### Related:
 
-1. [China successfully carries out its first manual docking of a spacecraft between the Shenzhou 9 capsule and Tiangong-1 station. ](/news/2012/06/24/china-successfully-carries-out-its-first-manual-docking-of-a-spacecraft-between-the-shenzhou-9-capsule-and-tiangong-1-station.md) _Context: China, Shenzhou 9, Tiangong-1_
-2. [The Chinese Shenzhou 9 space capsule lands safely with all three astronauts aboard. ](/news/2012/06/29/the-chinese-shenzhou-9-space-capsule-lands-safely-with-all-three-astronauts-aboard.md) _Context: China, Shenzhou 9_
-3. [China's unmanned Shenzhou 8 spacecraft successfully returns to Earth, landing in the Inner Mongolia autonomous region after docking twice with the Tiangong-1 orbital laboratory module. ](/news/2011/11/17/china-s-unmanned-shenzhou-8-spacecraft-successfully-returns-to-earth-landing-in-the-inner-mongolia-autonomous-region-after-docking-twice-wi.md) _Context: China, Tiangong-1_
-4. [Amid a perceived erosion of freedoms in Hong Kong, British Prime Minister Theresa May concludes a three-day visit to China, said to have generated GBP9 billion in trade deals. ](/news/2018/02/2/amid-a-perceived-erosion-of-freedoms-in-hong-kong-british-prime-minister-theresa-may-concludes-a-three-day-visit-to-china-said-to-have-gen.md) _Context: China_
-5. [Sanchi is still ablaze this morning and it continues to leak oil. Chinese officials mention the danger of explosion and sinking. ](/news/2018/01/8/sanchi-is-still-ablaze-this-morning-and-it-continues-to-leak-oil-chinese-officials-mention-the-danger-of-explosion-and-sinking.md) _Context: China_
+1. [China successfully carries out its first manual docking of a spacecraft between the Shenzhou 9 capsule and Tiangong-1 station. ](/news/2012/06/24/china-successfully-carries-out-its-first-manual-docking-of-a-spacecraft-between-the-shenzhou-9-capsule-and-tiangong-1-station.md) _Context: Chinese, Shenzhou 9, Tiangong-1_
+2. [The Chinese Shenzhou 9 space capsule lands safely with all three astronauts aboard. ](/news/2012/06/29/the-chinese-shenzhou-9-space-capsule-lands-safely-with-all-three-astronauts-aboard.md) _Context: Chinese, Shenzhou 9_
+3. [China's unmanned Shenzhou 8 spacecraft successfully returns to Earth, landing in the Inner Mongolia autonomous region after docking twice with the Tiangong-1 orbital laboratory module. ](/news/2011/11/17/china-s-unmanned-shenzhou-8-spacecraft-successfully-returns-to-earth-landing-in-the-inner-mongolia-autonomous-region-after-docking-twice-wi.md) _Context: Chinese, Tiangong-1_
+4. [Amid a perceived erosion of freedoms in Hong Kong, British Prime Minister Theresa May concludes a three-day visit to China, said to have generated GBP9 billion in trade deals. ](/news/2018/02/2/amid-a-perceived-erosion-of-freedoms-in-hong-kong-british-prime-minister-theresa-may-concludes-a-three-day-visit-to-china-said-to-have-gen.md) _Context: Chinese_
+5. [The U.S. Securities and Exchange Commission blocks a Chinese-led group of investors from buying the Chicago Stock Exchange. ](/news/2018/02/15/the-u-s-securities-and-exchange-commission-blocks-a-chinese-led-group-of-investors-from-buying-the-chicago-stock-exchange.md) _Context: Chinese_

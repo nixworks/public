@@ -5,15 +5,15 @@ Formats: [HTML](2011/09/13/index.html)  [JSON](2011/09/13/index.json)  [XML](201
 
 ##### Gothenburg
 ### [Investigators in Gothenburg, Sweden, now think that the four men arrested for the 2011 failed Gothenburg terrorist attack have links to the terrorist network Al-Qaida. ](/news/2011/09/13/investigators-in-gothenburg-sweden-now-think-that-the-four-men-arrested-for-the-2011-failed-gothenburg-terrorist-attack-have-links-to-the.md)
-_Context: Gothenburg, Al-Qaida, Sweden, 2011 failed Gothenburg terrorist attack_
+_Context: Gothenburg, 2011 failed Gothenburg terrorist attack, Al-Qaida, Sweden_
 
 ##### Taliban
 ### [Taliban insurgents attack the United States embassy, NATO headquarters and police buildings in the Afghan capital Kabul. ](/news/2011/09/13/taliban-insurgents-attack-the-united-states-embassy-nato-headquarters-and-police-buildings-in-the-afghan-capital-kabul.md)
-_Context: Afghan, NATO, Kabul, United States, Taliban_
+_Context: United States, Kabul, Taliban, Afghan, NATO_
 
 ##### Bankruptcy
 ### [U.S. bankruptcy court judge Mary Walrath rejects a reorganization plan submitted by Washington Mutual, holding that the Debtors erred by planning to pay senior debtholders a contract rate of interest rather than the federal judgment rate. ](/news/2011/09/13/u-s-bankruptcy-court-judge-mary-walrath-rejects-a-reorganization-plan-submitted-by-washington-mutual-holding-that-the-debtors-erred-by-pla.md)
-_Context: Washington Mutual, Mary Walrath, bankruptcy_
+_Context: bankruptcy, Mary Walrath, Washington Mutual_
 
 ##### Monsoon
 ### [12.3 million people have been displaced and 11.2 million homes affected, as well as 1.7 million acres of fertile land inundated, in the wake of the monsoonal 2011 Sindh floods in Pakistan. The death toll from the flooding currently stands at 270. ](/news/2011/09/13/12-3-million-people-have-been-displaced-and-11-2-million-homes-affected-as-well-as-1-7-million-acres-of-fertile-land-inundated-in-the-wake.md)
@@ -25,15 +25,15 @@ At 6.15am, a fatal level crossing accident occurred in Flores neighbourhood on T
 
 ##### Pagami Creek wildfire
 ### [The Pagami Creek wildfire in the Boundary Waters Canoe Area Wilderness of the U.S. state of Minnesota spreads to over 100,000 acres, with smoke drifting across the Midwest. ](/news/2011/09/13/the-pagami-creek-wildfire-in-the-boundary-waters-canoe-area-wilderness-of-the-u-s-state-of-minnesota-spreads-to-over-100-000-acres-with-sm.md)
-_Context: Midwest, Minnesota, Boundary Waters Canoe Area Wilderness, Pagami Creek wildfire_
+_Context: Boundary Waters Canoe Area Wilderness, Pagami Creek wildfire, Midwest, Minnesota_
 
 ##### Pakistan
 ### [Pakistani Taliban gunmen opened fire on a Peshawar school bus that kills 15 people. ](/news/2011/09/13/pakistani-taliban-gunmen-opened-fire-on-a-peshawar-school-bus-that-kills-15-people.md)
-_Context: Pakistan, Peshawar, Taliban_
+_Context: Pakistan, Taliban, Peshawar_
 
 ##### Outbreak of dengue fever
 ### [Over 5,000 people have reportedly been infected by an outbreak of dengue fever in Pakistan. ](/news/2011/09/13/over-5-000-people-have-reportedly-been-infected-by-an-outbreak-of-dengue-fever-in-pakistan.md)
-_Context: outbreak of dengue fever, Pakistan_
+_Context: Pakistan, outbreak of dengue fever_
 
 ##### New York's 9th congressional district
 ### [Voters in New York's 9th congressional district go to the polls for a special election to replace former member of the United States House of Representatives Anthony Weiner with Republican Bob Turner winning a tight race with Democrat David Weprin ](/news/2011/09/13/voters-in-new-york-s-9th-congressional-district-go-to-the-polls-for-a-special-election-to-replace-former-member-of-the-united-states-house-o.md)
@@ -53,7 +53,7 @@ News International chairman James Murdoch is to face more questions from MPs on 
 
 ##### United Kingdom Boundaries Commission
 ### [The United Kingdom Boundaries Commission publishes proposals to redraw constituency boundaries in England and Northern Ireland to reduce the number of MPs in the House of Commons from 650 to 600 at the next general election. Proposals for Scotland and Wales will be announced later. ](/news/2011/09/13/the-united-kingdom-boundaries-commission-publishes-proposals-to-redraw-constituency-boundaries-in-england-and-northern-ireland-to-reduce-the.md)
-_Context: next general election, redraw constituency boundaries, United Kingdom Boundaries Commission, House of Commons_
+_Context: redraw constituency boundaries, next general election, United Kingdom Boundaries Commission, House of Commons_
 
 ##### Trades Union Congress
 ### [Unions in the United Kingdom call on members to stage a nationwide "day of action" on 30 November in protest at changes to public sector pensions. ](/news/2011/09/13/unions-in-the-united-kingdom-call-on-members-to-stage-a-nationwide-day-of-action-on-30-november-in-protest-at-changes-to-public-sector-pen.md)

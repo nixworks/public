@@ -35,7 +35,7 @@ The bodies of 21 women and one man were found on a rubber dinghy adrift near the
 ### [Three high-ranking officers of the Investigative Committee of Russia in Moscow are detained for accepting bribes from a crime lord. ](/news/2016/07/20/three-high-ranking-officers-of-the-investigative-committee-of-russia-in-moscow-are-detained-for-accepting-bribes-from-a-crime-lord.md)
 A Moscow court has issued arrest warrants for three high-ranking Investigative Committee officials who are suspected of corruption. The officials were detained in connection with a bribery case, in which they allegedly patronized a criminal lord. 
 
-##### 2016 U.S. presidential election
+##### 2016 U.S. election
 ### [The United States Court of Appeals for the Fifth Circuit affirms previous rulings that Texas' 2011 voter ID law is discriminatory and does not comply with the Voting Rights Act, and orders a lower court to resolve the problem in time for the November elections. ](/news/2016/07/20/the-united-states-court-of-appeals-for-the-fifth-circuit-affirms-previous-rulings-that-texas-2011-voter-id-law-is-discriminatory-and-does-n.md)
 A Texas law requiring voters to show a government-issued form of photo identification before casting a ballot is discriminatory and violates the U.S. Voting Rights Act, a U.S. appeals court ruled on Wednesday.
 

@@ -17,7 +17,7 @@ String of attacks on residential buildings across Iraqi capital leaves dozens de
 
 ##### Second Kyrgyz Revolution
 ### [Kyrgyz Revolution of 2010: Hundreds of protesters seize a government office in Bishkek to request the resignition of Kurmanbek Bakiyev after battling flashbangs and lachrymators. A local governor is taken hostage by protesters. Hundreds surround police HQ. Almazbek Atambayev is seized by police. There are riots in Talas. ](/news/2010/04/6/kyrgyz-revolution-of-2010-hundreds-of-protesters-seize-a-government-office-in-bishkek-to-request-the-resignition-of-kurmanbek-bakiyev-after.md)
-_Context: Bishkek, Kurmanbek Bakiyev, flashbang, Second Kyrgyz Revolution, Talas, Almazbek Atambayev, lachrymator_
+_Context: Talas, Almazbek Atambayev, Kurmanbek Bakiyev, Bishkek, Second Kyrgyz Revolution, flashbang, lachrymator_
 
 ##### South Korea
 ### [Piracy in Somalia: A South Korean warship catches up with an oil tanker that was hijacked by Somali pirates in the Indian Ocean. ](/news/2010/04/6/piracy-in-somalia-a-south-korean-warship-catches-up-with-an-oil-tanker-that-was-hijacked-by-somali-pirates-in-the-indian-ocean.md)
@@ -41,7 +41,7 @@ _Context: Red Star operating system, North Korea_
 
 ##### Prime Minister
 ### [Prime Minister of Turkey Recep Tayyip Erdogan, speaking about 100,000 Armenian illegal immigrants currently living in Turkey, says "I may have to tell these 100,000 to go back to their country because they are not my citizens. I don't have to keep them in my country". ](/news/2010/04/6/prime-minister-of-turkey-recep-tayyip-erdoaan-speaking-about-100-000-armenian-illegal-immigrants-currently-living-in-turkey-says-i-may-h.md)
-_Context: Armenia, Prime Minister, Turkey, Recep Tayyip Erdogan_
+_Context: Turkey, Prime Minister, Recep Tayyip Erdogan, Armenia_
 
 ##### China
 ### [Hackers based in China access classified Indian documents, emails of the Dalai Lama, offices of the United Nations and the Pakistani embassy in the United States. ](/news/2010/04/6/hackers-based-in-china-access-classified-indian-documents-emails-of-the-dalai-lama-offices-of-the-united-nations-and-the-pakistani-embassy.md)
@@ -61,7 +61,7 @@ _Context: Ventersdorp, South Africa, Eugene Terre'Blanche_
 
 ##### President
 ### [President of Yemen Ali Abdullah Saleh frees prisoners as part of its support for the cease-fire. ](/news/2010/04/6/president-of-yemen-ali-abdullah-saleh-frees-prisoners-as-part-of-its-support-for-the-cease-fire.md)
-_Context: President, Yemen, Ali Abdullah Saleh_
+_Context: Yemen, Ali Abdullah Saleh, President_
 
 ##### Sri Lanka
 ### [Campaigning ahead of Sri Lanka's parliamentary election comes to an end. ](/news/2010/04/6/campaigning-ahead-of-sri-lanka-s-parliamentary-election-comes-to-an-end.md)

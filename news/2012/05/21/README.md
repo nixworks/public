@@ -9,11 +9,11 @@ More than 90 people have been killed in a suicide bomb attack claimed by al-Qaed
 
 ##### FARC
 ### [FARC rebels kill 12 Colombian soldiers and wound four more in an ambush near the Colombian border with Venezuela. ](/news/2012/05/21/farc-rebels-kill-12-colombian-soldiers-and-wound-four-more-in-an-ambush-near-the-colombian-border-with-venezuela.md)
-_Context: Colombia, FARC, Venezuela_
+_Context: Venezuela, Colombia, FARC_
 
 ##### Lebanese
 ### [Two people are killed in ongoing clashes in the Lebanese capital Beirut between supporters and opponents of Syrian President Bashar al-Assad. ](/news/2012/05/21/two-people-are-killed-in-ongoing-clashes-in-the-lebanese-capital-beirut-between-supporters-and-opponents-of-syrian-president-bashar-al-assad.md)
-_Context: President, Bashar al-Assad, Lebanese, Beirut, Syria_
+_Context: Beirut, President, Syria, Bashar al-Assad, Lebanese_
 
 ##### Australia
 ### [Australian airline Qantas announces cuts to 500 maintenance jobs. ](/news/2012/05/21/australian-airline-qantas-announces-cuts-to-500-maintenance-jobs.md)
@@ -25,7 +25,7 @@ At least 11 people - most of them students - are killed and 22 injured when a bu
 
 ##### Canadian
 ### [Four climbers from Canada, China, Germany and South Korea die whilst returning from the summit of Mount Everest; a Nepalese guide is missing. ](/news/2012/05/21/four-climbers-from-canada-china-germany-and-south-korea-die-whilst-returning-from-the-summit-of-mount-everest-a-nepalese-guide-is-missing.md)
-_Context: Canadian, South Korea, German, China, Nepal, Mount Everest_
+_Context: Chinese, German, Canadian, Mount Everest, South Korea, Nepal_
 
 ##### IAEA
 ### [International Atomic Energy Agency (IAEA) director general Yukiya Amano begins talks in Tehran aimed at convincing the Iranian government to co-operate with the agency. ](/news/2012/05/21/international-atomic-energy-agency-iaea-director-general-yukiya-amano-begins-talks-in-tehran-aimed-at-convincing-the-iranian-government-to.md)
@@ -57,7 +57,7 @@ Interim Mali President Dioncounda Traore is briefly hospitalised with a head wou
 
 ##### Greece
 ### [Greek leftist politician Alexis Tsipras, head of the Coalition of the Radical Left, begins a tour of European capitals. ](/news/2012/05/21/greek-leftist-politician-alexis-tsipras-head-of-the-coalition-of-the-radical-left-begins-a-tour-of-european-capitals.md)
-_Context: Greece, Alexis Tsipras, SYRIZA_
+_Context: Greece, SYRIZA, Alexis Tsipras_
 
 ##### Annular solar eclipse
 ### [A rare annular solar eclipse occurs, visible from East Asia, the North Pacific, and the Western United States. ](/news/2012/05/21/a-rare-annular-solar-eclipse-occurs-visible-from-east-asia-the-north-pacific-and-the-western-united-states.md)

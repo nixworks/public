@@ -17,7 +17,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Atlantic Airways Flight 670
 ### [ A chartered Atlantic Airways Flight 670 skids off the runway at Stord Airport in Norway, killing four people. ](/news/2006/10/10/a-chartered-atlantic-airways-flight-670-skids-off-the-runway-at-stord-airport-in-norway-killing-four-people.md)
-_Context: Norway, Stord Airport, Atlantic Airways Flight 670_
+_Context: Atlantic Airways Flight 670, Norway, Stord Airport_
 
 ##### Insurgents
 ### [ Iraqi police announce they have found a total of 110 corpses at locations across Baghdad in the previous 48 hours, thought to be more victims of insurgent death squads. In addition, a bomb planted under a car explodes in the city's southern district of Doura, killing 10 people. ](/news/2006/10/10/iraqi-police-announce-they-have-found-a-total-of-110-corpses-at-locations-across-baghdad-in-the-previous-48-hours-thought-to-be-more-victi.md)
@@ -25,15 +25,15 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Bomb attack
 ### [ Six people die in a bomb attack on a festival in the town of Makilala in the Philippines. Two others are killed and four injured in a blast at a market in Tacurong, Sultan Kudarat. Officials blame Muslim extremist groups. ](/news/2006/10/10/six-people-die-in-a-bomb-attack-on-a-festival-in-the-town-of-makilala-in-the-philippines-two-others-are-killed-and-four-injured-in-a-blast.md)
-_Context: Makilala, Philippines, bomb attack, Sultan Kudarat, Tacurong_
+_Context: Makilala, bomb attack, Sultan Kudarat, Philippines, Tacurong_
 
 ##### Bayelsa
 ### [ A naval base and oil facility in Bayelsa State, Nigeria, are captured by armed attackers who are now thought to be holding 60 people hostage. ](/news/2006/10/10/a-naval-base-and-oil-facility-in-bayelsa-state-nigeria-are-captured-by-armed-attackers-who-are-now-thought-to-be-holding-60-people-hostag.md)
-_Context: Bayelsa, Nigeria_
+_Context: Nigeria, Bayelsa_
 
 ##### Made a protest
 ### [ Hundreds of thousands of people made a protest against President Chen Shui-bian in Taipei, Taiwan, surrounding Office of the President, where Chen took part in ceremony marking Double Tenth Day. ](/news/2006/10/10/hundreds-of-thousands-of-people-made-a-protest-against-president-chen-shui-bian-in-taipei-taiwan-surrounding-office-of-the-president-whe.md)
-_Context: President, Taiwan, Double Tenth Day, made a protest, Chen Shui-bian, Office of the President, Taipei_
+_Context: Double Tenth Day, President, made a protest, Taipei, Taiwan, Office of the President, Chen Shui-bian_
 
 ## [Previous Day...](/news/2006/10/9/index.md)
 

@@ -21,7 +21,7 @@ The artwork Orange, red, yellow by Mark Rothko fetches $86.9 million (£53.8m), 
 
 ##### Andy Warhol
 ### [Andy Warhol's "Double Elvis" sells at an auction for $37 million at Sotheby's in New York City. ](/news/2012/05/9/andy-warhol-s-double-elvis-sells-at-an-auction-for-37-million-at-sotheby-s-in-new-york-city.md)
-_Context: New York City, Sotheby's, Andy Warhol_
+_Context: Andy Warhol, Sotheby's, New York City_
 
 ##### Portugal
 ### [Portugal scraps four public holidays as an austerity measure. ](/news/2012/05/9/portugal-scraps-four-public-holidays-as-an-austerity-measure.md)
@@ -49,11 +49,11 @@ _Context: Africa, India, cheetah_
 
 ##### Israel
 ### [Two Palestinian prisoners held in Israel enter the 71st day of their hunger strikes. United Nations Secretary General Ban Ki-Moon expressed his concern about the condition of the hunger strikers. ](/news/2012/05/9/two-palestinian-prisoners-held-in-israel-enter-the-71st-day-of-their-hunger-strikes-united-nations-secretary-general-ban-ki-moon-expressed.md)
-_Context: hunger strike, United Nations, Ban Ki-Moon, Israel_
+_Context: United Nations, Ban Ki-Moon, Israel, hunger strike_
 
 ##### Adam Mayes
 ### [Adam Mayes, wanted by authorities on suspicion of four charges of kidnapping and two charges of first-degree murder, is spotted on store cameras in a Guntown, Mississippi store and is added to the Tennessee Bureau of Investigation's Most Wanted List. ](/news/2012/05/9/adam-mayes-wanted-by-authorities-on-suspicion-of-four-charges-of-kidnapping-and-two-charges-of-first-degree-murder-is-spotted-on-store-cam.md)
-_Context: Most Wanted List, Adam Mayes, first-degree murder, kidnapping, Guntown, Mississippi, Tennessee Bureau of Investigation_
+_Context: Adam Mayes, Tennessee Bureau of Investigation, Guntown, Mississippi, Most Wanted List, kidnapping, first-degree murder_
 
 ##### Honduras
 ### [A Honduras radio journalist is kidnapped days after another journalist is killed. ](/news/2012/05/9/a-honduras-radio-journalist-is-kidnapped-days-after-another-journalist-is-killed.md)
@@ -61,11 +61,11 @@ A journalist with a top Honduran radio station was kidnapped Wednesday on his wa
 
 ##### Ukraine
 ### [Jailed Ukrainian opposition leader Yulia Tymoshenko is moved to a hospital after a political compromise, and ends her hunger strike. ](/news/2012/05/9/jailed-ukrainian-opposition-leader-yulia-tymoshenko-is-moved-to-a-hospital-after-a-political-compromise-and-ends-her-hunger-strike.md)
-_Context: Yulia Tymoshenko, Ukraine_
+_Context: Ukraine, Yulia Tymoshenko_
 
 ##### U.S. President
 ### [United States President Barack Obama officially states that he supports the right for same-sex partners to marry. ](/news/2012/05/9/united-states-president-barack-obama-officially-states-that-he-supports-the-right-for-same-sex-partners-to-marry.md)
-_Context: U.S. President, Same-sex marriage in the United States, Barack Obama_
+_Context: U.S. President, Barack Obama, Same-sex marriage in the United States_
 
 ## [Previous Day...](/news/2012/05/8/index.md)
 

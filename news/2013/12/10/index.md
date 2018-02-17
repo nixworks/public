@@ -25,11 +25,11 @@ _Context: Xbox 360, World of Warcraft, National Security Agency, Second Life_
 
 ##### Philippines
 ### [The Philippines bans its workers from Yemen after the deaths of seven Filipinos there. ](/news/2013/12/10/the-philippines-bans-its-workers-from-yemen-after-the-deaths-of-seven-filipinos-there.md)
-_Context: Filipino, Philippines, Yemen_
+_Context: Yemen, Filipino, Philippines_
 
 ##### Poly Implant Prothse
 ### [Jean-Claude Mas, the founder of Poly Implant Prothse is sentenced in a French court to four years in prison for fraud for selling faulty breast implants. ](/news/2013/12/10/jean-claude-mas-the-founder-of-poly-implant-prothese-is-sentenced-in-a-french-court-to-four-years-in-prison-for-fraud-for-selling-faulty-br.md)
-_Context: Poly Implant Prothse, breast implant_
+_Context: breast implant, Poly Implant Prothse_
 
 ##### Looters in Argentina
 ### [Looters in Argentina kill at least five people as mobs take advantage of strikes by police demanding pay raises. ](/news/2013/12/10/looters-in-argentina-kill-at-least-five-people-as-mobs-take-advantage-of-strikes-by-police-demanding-pay-raises.md)

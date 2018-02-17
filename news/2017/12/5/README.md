@@ -13,7 +13,7 @@ A LOST novel of the spy thriller The Saint which predicted the attack on Pearl H
 
 ##### Eurofighter GmbH
 ### [Eurofighter GmbH offers Belgium a national cyber defense network--suggesting telecommunications security on par with United Kingdom intelligence, which would save Belgium EUR1.6 billion per year--in exchange for buying 34 of their multirole combat aircraft, the Eurofighter Typhoon. ](/news/2017/12/5/eurofighter-gmbh-offers-belgium-a-national-cyber-defense-networkasuggesting-telecommunications-security-on-par-with-united-kingdom-intelli.md)
-_Context: United Kingdom, Eurofighter Typhoon, cyber defense, multirole combat aircraft, Belgium, Eurofighter GmbH_
+_Context: United Kingdom, Eurofighter Typhoon, multirole combat aircraft, Belgium, Eurofighter GmbH, cyber defense_
 
 ##### California wildfires
 ### [Due to persistent high winds, a fire begins and quickly spreads--at a rate of up to one acre per second--near Santa Paula, California, covering now at least 50,000 acres, crawling into the edges of Ventura and cutting power to 260,000 homes. 7,700 houses are under mandatory evacuation. ](/news/2017/12/5/due-to-persistent-high-winds-a-fire-begins-and-quickly-spreadsaat-a-rate-of-up-to-one-acre-per-secondanear-santa-paula-california-cov.md)
@@ -29,7 +29,7 @@ A passenger train crashed into a goods train near the city of Düsseldorf, emerg
 
 ##### Positions on Jerusalem
 ### [Turkish President Recep Tayyip Erdogan tells Donald Trump that Turkey might cut ties with Israel if the United States unilaterally recognizes Jerusalem as its capital. ](/news/2017/12/5/turkish-president-recep-tayyip-erdoaan-tells-donald-trump-that-turkey-might-cut-ties-with-israel-if-the-united-states-unilaterally-recogniz.md)
-_Context: Positions on Jerusalem, Donald Trump, Recep Tayyip Erdogan, Jerusalem_
+_Context: Positions on Jerusalem, Jerusalem, Donald Trump, Recep Tayyip Erdogan_
 
 ##### Gulf Cooperation Council
 ### [At a GCC summit in Kuwait City, the United Arab Emirates announce a political and military alliance with Saudi Arabia. ](/news/2017/12/5/at-a-gcc-summit-in-kuwait-city-the-united-arab-emirates-announce-a-political-and-military-alliance-with-saudi-arabia.md)

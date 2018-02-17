@@ -13,7 +13,7 @@ _Context: South Korean army, Gangwon Province_
 
 ##### Belarus
 ### [Belarusian human rights' activist Ales Bialiatski is freed from prison and is received by his wife and supporters in Minsk. ](/news/2014/06/21/belarusian-human-rights-activist-ales-bialiatski-is-freed-from-prison-and-is-received-by-his-wife-and-supporters-in-minsk.md)
-_Context: Belarus, Minsk, Ales Bialiatski_
+_Context: Minsk, Ales Bialiatski, Belarus_
 
 ## [Previous Day...](/news/2014/06/20/index.md)
 

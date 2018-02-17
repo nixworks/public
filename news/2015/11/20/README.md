@@ -37,7 +37,7 @@ A New York businesswoman who wanted to bring a &quot;grander scale&quot; to her 
 
 ##### Karowe AK6
 ### [The world's second-largest diamond of gem quality, Karowe AK6, is found in the Karowe mine located north of the Botswanan capital Gaborone by the Lucara Diamond Corp. The 1,111-carat diamond is second only to the 3,106-carat Cullinan diamond (Star of Africa) found in South Africa in 1905. ](/news/2015/11/20/the-worldas-second-largest-diamond-of-gem-quality-karowe-ak6-is-found-in-the-karowe-mine-located-north-of-the-botswanan-capital-gaborone.md)
-_Context: Botswana, Gaborone, Lucara Diamond Corp., Cullinan diamond, South Africa, Karowe AK6_
+_Context: Gaborone, Botswana, South Africa, Cullinan diamond, Lucara Diamond Corp., Karowe AK6_
 
 ##### National Union of Journalists
 ### [Britain's National Union of Journalists announces a strike against the "Financial Times", protesting the changes in pension arrangements since the acquisition of the FT by a Japanese media group, Nikkei. ](/news/2015/11/20/britain-s-national-union-of-journalists-announces-a-strike-against-the-financial-times-protesting-the-changes-in-pension-arrangements-sin.md)
@@ -81,7 +81,7 @@ NASA has officially ordered its first commercial crew mission from private space
 
 ##### Apple Inc.
 ### [A jury in a Texas federal court finds for Apple Inc., in a lawsuit brought against Apple by a subsidiary of Pendrell Corporation. Pendrell has charged that Apple infringed patents on techniques that help restrict the use of web content to authorized persons, i.e. anti-piracy software. ](/news/2015/11/20/a-jury-in-a-texas-federal-court-finds-for-apple-inc-in-a-lawsuit-brought-against-apple-by-a-subsidiary-of-pendrell-corporation-pendrell-h.md)
-_Context: Apple Inc., anti-piracy, Pendrell Corporation_
+_Context: Pendrell Corporation, Apple Inc., anti-piracy_
 
 ## [Previous Day...](/news/2015/11/19/index.md)
 

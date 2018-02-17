@@ -9,11 +9,11 @@ _Context: 2011-2012 Syrian uprising, Homs_
 
 ##### Insurgency in the North Caucasus
 ### [Insurgency in the North Caucasus: Dozens are killed and wounded as fighting intensifies between the Russian forces and the local Muslim insurgents in Chechnya and Dagestan. ](/news/2012/02/17/insurgency-in-the-north-caucasus-dozens-are-killed-and-wounded-as-fighting-intensifies-between-the-russian-forces-and-the-local-muslim-insu.md)
-_Context: Dagestan, Chechnya, Russia, fighting intensifies, Insurgency in the North Caucasus_
+_Context: Insurgency in the North Caucasus, fighting intensifies, Russia, Chechnya, Dagestan_
 
 ##### Thai police officers
 ### [Thai police search for two more suspects in an attempted terror attack on Israeli diplomats widely blamed on Iran. ](/news/2012/02/17/thai-police-search-for-two-more-suspects-in-an-attempted-terror-attack-on-israeli-diplomats-widely-blamed-on-iran.md)
-_Context: Israel, Thai police officers, Iran_
+_Context: Iran, Thai police officers, Israel_
 
 ##### Capitol Police
 ### [United States Capitol Police and the Federal Bureau of Investigation arrested Amine El Khalifi, a man from Morocco who allegedly planned a suicide attack on the United States Capitol. ](/news/2012/02/17/united-states-capitol-police-and-the-federal-bureau-of-investigation-arrested-amine-el-khalifi-a-man-from-morocco-who-allegedly-planned-a-s.md)
@@ -25,7 +25,7 @@ Raid at Khartoum university leads to arrest of 350 students who previously stage
 
 ##### President of Haiti
 ### [The office of President of Haiti Michel Martelly claims that his motorcade was attacked by people throwing rocks when he was walking through Port-au-Prince. ](/news/2012/02/17/the-office-of-president-of-haiti-michel-martelly-claims-that-his-motorcade-was-attacked-by-people-throwing-rocks-when-he-was-walking-through.md)
-_Context: Port-au-Prince, Michel Martelly, President of Haiti_
+_Context: President of Haiti, Port-au-Prince, Michel Martelly_
 
 ##### Archaeological Museum of Olympia
 ### [Thieves break into the Archaeological Museum of Olympia in Greece. stealing between 60 and 70 artifacts of the ancient Olympic Games. ](/news/2012/02/17/thieves-break-into-the-archaeological-museum-of-olympia-in-greece-stealing-between-60-and-70-artifacts-of-the-ancient-olympic-games.md)
@@ -49,7 +49,7 @@ _Context: Robert Zoellick, World Bank_
 
 ##### Prince Friso of Orange-Nassau
 ### [Prince Friso of Orange-Nassau, a member of the Dutch royal family, is severely injured in an avalanche at an Austrian ski resort and is reported to be in critical but stable condition. ](/news/2012/02/17/prince-friso-of-orange-nassau-a-member-of-the-dutch-royal-family-is-severely-injured-in-an-avalanche-at-an-austrian-ski-resort-and-is-repo.md)
-_Context: Austria, Prince Friso of Orange-Nassau, Queen of the Netherlands_
+_Context: Austria, Queen of the Netherlands, Prince Friso of Orange-Nassau_
 
 ##### United Kingdom
 ### [The United Kingdom and France sign a deal to improve cooperation on nuclear energy. ](/news/2012/02/17/the-united-kingdom-and-france-sign-a-deal-to-improve-cooperation-on-nuclear-energy.md)
@@ -61,7 +61,7 @@ German President Christian Wulff announces his resignation, after prosecutors ca
 
 ##### Senator
 ### [The Senate of the United States passes a resolution condemning the Government of Syria for its violent crackdown on anti-Assad protests. ](/news/2012/02/17/the-senate-of-the-united-states-passes-a-resolution-condemning-the-government-of-syria-for-its-violent-crackdown-on-anti-assad-protests.md)
-_Context: Senator, Bashar Assad's, Government of Syria_
+_Context: Government of Syria, Bashar Assad's, Senator_
 
 ## [Previous Day...](/news/2012/02/16/index.md)
 

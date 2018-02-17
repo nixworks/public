@@ -21,7 +21,7 @@ Iranian President Mahmoud Ahmadinejad has said the Holocaust was a &#39;myth&#39
 
 ##### Ivory Coast
 ### [ 30,000 Ivory Coast residents seriously affected by the dumping of toxic waste by Trafigura, which, according to the United Nations, has killed at least 15 people, say an undisclosed compensation deal offered by a London-based oil firm is not enough. ](/news/2009/09/18/30-000-ivory-coast-residents-seriously-affected-by-the-dumping-of-toxic-waste-by-trafigura-which-according-to-the-united-nations-has-kil.md)
-_Context: United Nations, London, illegally dumping toxic waste, Ivory Coast_
+_Context: Ivory Coast, United Nations, illegally dumping toxic waste, London_
 
 ##### Solidarity
 ### [ Solidarity co-founder and former President of Poland Lech Walesa (in favour) and United Kingdom Independence Party (UKIP) leader Nigel Farage (against) arrive in Ireland to campaign over the country's second referendum on the Treaty of Lisbon. ](/news/2009/09/18/solidarity-co-founder-and-former-president-of-poland-lech-waaasa-in-favour-and-united-kingdom-independence-party-ukip-leader-nigel-fa.md)
@@ -37,11 +37,11 @@ A MAJOR economic forum aimed at generating new links and ideas to aid Ireland&rs
 
 ##### Brazil
 ### [ The Brazilian government announces a plan to ban sugarcane farming in the Amazon Rainforest and indigenous areas. ](/news/2009/09/18/the-brazilian-government-announces-a-plan-to-ban-sugarcane-farming-in-the-amazon-rainforest-and-indigenous-areas.md)
-_Context: Amazon Rainforest, Government of Brazil, Brazil, sugarcane_
+_Context: Brazil, Government of Brazil, sugarcane, Amazon Rainforest_
 
 ##### North Korea
 ### [ North Korean leader Kim Jong-il tells a visiting envoy of Chinese President Hu Jintao he is willing to engage in talks on his country's nuclear programme. ](/news/2009/09/18/north-korean-leader-kim-jong-il-tells-a-visiting-envoy-of-chinese-president-hu-jintao-he-is-willing-to-engage-in-talks-on-his-country-s-nuc.md)
-_Context: Kim Jong-il, North Korea, China, Chinese President, Hu Jintao_
+_Context: China, Chinese President, Hu Jintao, Kim Jong-il, North Korea_
 
 ##### Uruguay
 ### [ Uruguayan President Tabare Vazquez calls for an integrated Mercosur with a greater number of countries to make it more competitive overseas, but also demands greater balance inside the group among members. ](/news/2009/09/18/uruguayan-president-tabara-c-va-zquez-calls-for-an-integrated-mercosur-with-a-greater-number-of-countries-to-make-it-more-competitive-overse.md)
@@ -65,15 +65,15 @@ At least 33 people have been killed in a suspected suicide bomb attack in northw
 
 ##### Nicola Roxon
 ### [ Nicola Roxon, the Australian Minister for Health and Ageing, says that the Therapeutic Goods Administration has approved an Australian-made swine flu vaccine. ](/news/2009/09/18/nicola-roxon-the-australian-minister-for-health-and-ageing-says-that-the-therapeutic-goods-administration-has-approved-an-australian-made.md)
-_Context: Nicola Roxon, vaccine, Minister for Indigenous Health and Aged Care, Australia, Therapeutic Goods Administration, swine flu_
+_Context: Minister for Indigenous Health and Aged Care, Nicola Roxon, Australia, vaccine, swine flu, Therapeutic Goods Administration_
 
 ##### Raptorex kriegsteini
 ### [ The "Raptorex kriegsteini", a smaller version of the "Tyrannosaurus rex", is discovered in northeastern China. ](/news/2009/09/18/the-raptorex-kriegsteini-a-smaller-version-of-the-tyrannosaurus-rex-is-discovered-in-northeastern-china.md)
-_Context: Raptorex kriegsteini, China, Tyrannosaurus_
+_Context: Raptorex kriegsteini, Tyrannosaurus, China_
 
 ##### African Union
 ### [ The African Union says a twin bombing that killed 17 peacekeepers on its base in Mogadishu, Somalia, was conducted in UN marked cars. ](/news/2009/09/18/the-african-union-says-a-twin-bombing-that-killed-17-peacekeepers-on-its-base-in-mogadishu-somalia-was-conducted-in-un-marked-cars.md)
-_Context: Somalia, twin bombing, Mogadishu, United Nations, African Union_
+_Context: twin bombing, African Union, United Nations, Mogadishu, Somalia_
 
 ##### Michel Bagaragaza
 ### [ Michel Bagaragaza, former head of Rwanda's tea industry, pleads guilty to complicity in the 1994 genocide, altering his original not guilty plea. ](/news/2009/09/18/michel-bagaragaza-former-head-of-rwanda-s-tea-industry-pleads-guilty-to-complicity-in-the-1994-genocide-altering-his-original-not-guilty.md)
@@ -81,7 +81,7 @@ _Context: Rwanda, Michel Bagaragaza_
 
 ##### Singapore
 ### [ Singapore's best-known watercolour artist, Cultural Medallion recipient Ong Kim Seng, donates eight works to the country's new national art gallery. ](/news/2009/09/18/singapore-s-best-known-watercolour-artist-cultural-medallion-recipient-ong-kim-seng-donates-eight-works-to-the-country-s-new-national-art.md)
-_Context: Singapore, Cultural Medallion, Ong Kim Seng_
+_Context: Ong Kim Seng, Singapore, Cultural Medallion_
 
 ## [Previous Day...](/news/2009/09/17/index.md)
 

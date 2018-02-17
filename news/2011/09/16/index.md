@@ -5,7 +5,7 @@ Formats: [HTML](2011/09/16/index.html)  [JSON](2011/09/16/index.json)  [XML](201
 
 ##### South Korea
 ### [Authorities in South Korea arrest a North Korean citizen for an alleged assassination attempt against Park Sang-hak, a noted defector and activist. ](/news/2011/09/16/authorities-in-south-korea-arrest-a-north-korean-citizen-for-an-alleged-assassination-attempt-against-park-sang-hak-a-noted-defector-and-ac.md)
-_Context: assassination, Park Sang-hak, defector, South Korea, North Korea_
+_Context: assassination, North Korea, Park Sang-hak, South Korea, defector_
 
 ##### Hurricane Maria
 ### [Hurricane Maria hits the Canadian province of Newfoundland and Labrador as a Category&nbsp;1 hurricane. ](/news/2011/09/16/hurricane-maria-hits-the-canadian-province-of-newfoundland-and-labrador-as-a-category-nbsp-1-hurricane.md)
@@ -29,11 +29,11 @@ Reno police on Saturday raised the death toll in the crash of a World War II-era
 
 ##### Kosovo Serb
 ### [Kosovo Serbs block off two border crossings with Serbia as the Kosovo government seeks to take them over. ](/news/2011/09/16/kosovo-serbs-block-off-two-border-crossings-with-serbia-as-the-kosovo-government-seeks-to-take-them-over.md)
-_Context: Kosovo, Kosovo Serb, Serbia_
+_Context: Kosovo Serb, Kosovo, Serbia_
 
 ##### Turkish Prime Minister
 ### [The Prime Minister of Turkey, Recep Tayyip Erdogan, arrives in Libya for a meeting with the National Transitional Council. ](/news/2011/09/16/the-prime-minister-of-turkey-recep-tayyip-erdogan-arrives-in-libya-for-a-meeting-with-the-national-transitional-council.md)
-_Context: National Transitional Council, Recep Tayyip Erdogan, Libya, Turkish Prime Minister_
+_Context: Libya, Recep Tayyip Erdogan, National Transitional Council, Turkish Prime Minister_
 
 ##### Security camera
 ### [The first security camera pictures are released of Anders Behring Breivik, the perpetrator of the 2011 Norway attacks. ](/news/2011/09/16/the-first-security-camera-pictures-are-released-of-anders-behring-breivik-the-perpetrator-of-the-2011-norway-attacks.md)
@@ -49,7 +49,7 @@ The UBS trader alleged to have lost the bank £1.3bn in unauthorised trading app
 
 ##### Ecofin
 ### [Ecofin ministers agree on a bill on financial governance in Europe, aiming to prevent future economic crises. ](/news/2011/09/16/ecofin-ministers-agree-on-a-bill-on-financial-governance-in-europe-aiming-to-prevent-future-economic-crises.md)
-_Context: Ecofin, economic crises_
+_Context: economic crises, Ecofin_
 
 ##### Health Services Union
 ### [The Health Services Union disaffiliates from the Australian Labor Party in the states of New South Wales and Victoria and the Australian Capital Territory, following the commencement of a New South Wales Police Force investigation into alleged "inappropriate practices" by current and former union officials, including Craig Thomson, a member of the House of Representatives. ](/news/2011/09/16/the-health-services-union-disaffiliates-from-the-australian-labor-party-in-the-states-of-new-south-wales-and-victoria-and-the-australian-cap.md)
@@ -57,7 +57,7 @@ A civil war has broken out in the Health Services Union after president Michael 
 
 ##### Sinn Fin
 ### [Sinn Fin's officer board gives its approval to put forward Northern Ireland's Deputy First Minister Martin McGuinness as a candidate for the 2011 Irish presidential election. ](/news/2011/09/16/sinn-fein-s-officer-board-gives-its-approval-to-put-forward-northern-ireland-s-deputy-first-minister-martin-mcguinness-as-a-candidate-for-th.md)
-_Context: Sinn Fin, Martin McGuinness, Irish presidential election, Deputy First Minister of Northern Ireland_
+_Context: Deputy First Minister of Northern Ireland, Sinn Fin, Irish presidential election, Martin McGuinness_
 
 ##### Mahmoud Abbas
 ### [Mahmoud Abbas, the President of the Palestinian National Authority, says he will push for full United Nations membership as a nation state for the Palestinian National Authority at the September 23 UN General Assembly meeting. ](/news/2011/09/16/mahmoud-abbas-the-president-of-the-palestinian-national-authority-says-he-will-push-for-full-united-nations-membership-as-a-nation-state-f.md)

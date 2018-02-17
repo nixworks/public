@@ -5,7 +5,7 @@ Formats: [HTML](2012/08/2/index.html)  [JSON](2012/08/2/index.json)  [XML](2012/
 
 ##### Barack Obama
 ### [A United States government source reveals that Barack Obama signed a secret order in early 2012 permitting the CIA and other U.S. agencies to provide the rebels in Syria with support in order to overthrow the al-Assad regime. ](/news/2012/08/2/a-united-states-government-source-reveals-that-barack-obama-signed-a-secret-order-in-early-2012-permitting-the-cia-and-other-u-s-agencies-t.md)
-_Context: Barack Obama, Syrian opposition, CIA, Bashar al-Assad_
+_Context: Bashar al-Assad, Syrian opposition, Barack Obama, CIA_
 
 ##### Afghan
 ### [Afghan security forces kill five insurgents planning a suicide attack in Kabul. ](/news/2012/08/2/afghan-security-forces-kill-five-insurgents-planning-a-suicide-attack-in-kabul.md)
@@ -29,17 +29,17 @@ _Context: Japanese, Sharp Corporation_
 
 ##### Taiwan
 ### [Taiwan closes schools and offices ahead of Typhoon Saola. ](/news/2012/08/2/taiwan-closes-schools-and-offices-ahead-of-typhoon-saola.md)
-_Context: Typhoon Saola, Taiwan_
+_Context: Taiwan, Typhoon Saola_
 
 ##### Megabus
 ### [One person dies and at least ten other people are seriously injured when a fully loaded double-decker Megabus crashes into a bridge support on Interstate 55 in Illinois, ten miles north of Litchfield.](/news/2012/08/2/one-person-dies-and-at-least-ten-other-people-are-seriously-injured-when-a-fully-loaded-double-decker-megabus-crashes-into-a-bridge-support.md)
-_Context: Megabus, Litchfield, Interstate 55 in Illinois_
+_Context: Litchfield, Interstate 55 in Illinois, Megabus_
 
 ##### Tropical Storm Leslie
 ### [Tropical Storm Ernesto forms in the Atlantic Ocean with storm warnings issued for Barbados, St. Vincent and the Grenadines, Dominica, St. Lucia, Martinique, and Guadelope. ](/news/2012/08/2/tropical-storm-ernesto-forms-in-the-atlantic-ocean-with-storm-warnings-issued-for-barbados-st-vincent-and-the-grenadines-dominica-st-lu.md)
 After more than a month hiatus, a tropical storm is alive in the Atlantic basin. The National Hurricane Center has upgraded tropical depression number 5 to tropical storm Ernesto. The storm&rsquo;s maximum sustained winds are around 45 mph and gradual strengthening is forecast as it moves across the...
 
-##### China
+##### Chinese
 ### [20 people are jailed in China on charges of terrorism in the Xinjiang region. ](/news/2012/08/2/20-people-are-jailed-in-china-on-charges-of-terrorism-in-the-xinjiang-region.md)
 Chinese authorities have jailed 20 people in far-western Xinjiang who they said were from five terrorist groups involved in “spreading separatism” through the Internet, amid a “strike hard” campaign t
 
@@ -53,7 +53,7 @@ Spanish officials announced the arrest of three suspects who were believed to ha
 
 ##### Constitutional Court of Romania
 ### [The Constitutional Court of Romania postpones a decision regarding the impeachment referendum of suspended President Traian Basescu until 31 August 2012, to allow time for the reevaluation of the permanent electoral lists. ](/news/2012/08/2/the-constitutional-court-of-romania-postpones-a-decision-regarding-the-impeachment-referendum-of-suspended-president-traian-basescu-until-3.md)
-_Context: President, presidential impeachment referendum, Traian Basescu, Constitutional Court of Romania_
+_Context: presidential impeachment referendum, Constitutional Court of Romania, President, Traian Basescu_
 
 ##### Egypt
 ### [Egypt's new cabinet members are sworn in. ](/news/2012/08/2/egypt-s-new-cabinet-members-are-sworn-in.md)

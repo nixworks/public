@@ -5,11 +5,11 @@ Formats: [HTML](2015/09/24/index.html)  [JSON](2015/09/24/index.json)  [XML](201
 
 ##### Yemeni Crisis (2011-present)
 ### [At least 29 people are killed in a bombing of a mosque in the Yemeni capital Sana'a during prayers for Eid al-Adha. ](/news/2015/09/24/at-least-29-people-are-killed-in-a-bombing-of-a-mosque-in-the-yemeni-capital-sana-a-during-prayers-for-eid-al-adha.md)
-_Context: mosque, Sana'a, Yemen, Yemeni Crisis (2011-present), Eid al-Adha_
+_Context: Sana'a, Yemeni Crisis (2011-present), Eid al-Adha, Yemen, mosque_
 
 ##### Nagorno-Karabakh conflict
 ### [The government of Armenia claims that Azerbaijani forces shelled Tavush Province resulting in three deaths. ](/news/2015/09/24/the-government-of-armenia-claims-that-azerbaijani-forces-shelled-tavush-province-resulting-in-three-deaths.md)
-_Context: Tavush Province, Armenia, Nagorno-Karabakh conflict, Azerbaijani forces_
+_Context: Nagorno-Karabakh conflict, Tavush Province, Azerbaijani forces, Armenia_
 
 ##### Arab-Israeli conflict
 ### [Israel's security cabinet issues a three-year temporary order that sets a four-year minimum sentence for adult stone- and firebomb-throwers. In addition, new rules of engagement allow police to open fire when the life of a third party is under threat. ](/news/2015/09/24/israel-s-security-cabinet-issues-a-three-year-temporary-order-that-sets-a-four-year-minimum-sentence-for-adult-stone-and-firebomb-throwers.md)

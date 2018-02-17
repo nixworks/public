@@ -9,7 +9,7 @@ IEC chair Pansy Tlakula has announced that 13 parties won seats in the National 
 
 ##### Rise Like a Phoenix
 ### ["Rise Like a Phoenix" by Austrian singer Conchita Wurst wins the Eurovision Song Contest. ](/news/2014/05/10/rise-like-a-phoenix-by-austrian-singer-conchita-wurst-wins-the-eurovision-song-contest.md)
-_Context: Eurovision Song Contest, Conchita Wurst, Rise Like a Phoenix_
+_Context: Rise Like a Phoenix, Eurovision Song Contest, Conchita Wurst_
 
 ## [Previous Day...](/news/2014/05/9/index.md)
 

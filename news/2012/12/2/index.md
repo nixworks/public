@@ -13,7 +13,7 @@ Suspected Islamist fighters went on the rampage in northeast Nigeria overnight, 
 
 ##### Kennedy Center Honors
 ### [The 2012 Kennedy Center Honors are announced in the United States with American actor Dustin Hoffman, American television host David Letterman, British rock group Led Zeppelin, American blues musician Buddy Guy and ballerina Natalia Makarova inducted. ](/news/2012/12/2/the-2012-kennedy-center-honors-are-announced-in-the-united-states-with-american-actor-dustin-hoffman-american-television-host-david-letterm.md)
-_Context: Dustin Hoffman, Kennedy Center Honors, Led Zeppelin, Natalia Makarova, David Letterman, Buddy Guy_
+_Context: Natalia Makarova, Dustin Hoffman, Led Zeppelin, David Letterman, Kennedy Center Honors, Buddy Guy_
 
 ##### Napoleon Bonaparte
 ### [A 200-year-old letter dated 20 October 1812 in which Napoleon Bonaparte vows to blow up the Moscow Kremlin fetches EUR187,500 (GBP151,000, $233,800) at a French auction in Fontainebleau. ](/news/2012/12/2/a-200-year-old-letter-dated-20-october-1812-in-which-napoleon-bonaparte-vows-to-blow-up-the-moscow-kremlin-fetches-a-187-500-agbp151-000.md)
@@ -25,15 +25,15 @@ At least seven people are missing after a major road tunnel collapses west of To
 
 ##### Miner
 ### [16 miners are trapped underground after a coal mine was flooded in northeast China's Heilongjiang province. ](/news/2012/12/2/16-miners-are-trapped-underground-after-a-coal-mine-was-flooded-in-northeast-china-s-heilongjiang-province.md)
-_Context: Heilongjiang province, coal mine, China, miner_
+_Context: Heilongjiang province, coal mine, Chinese, miner_
 
 ##### Philippines
 ### [The Philippines warns citizens about Typhoon Bopha expected to make landfall on Tuesday, December 4. ](/news/2012/12/2/the-philippines-warns-citizens-about-typhoon-bopha-expected-to-make-landfall-on-tuesday-december-4.md)
-_Context: landfall, Philippines, Typhoon Bopha_
+_Context: Philippines, Typhoon Bopha, landfall_
 
 ##### Egypt
 ### [Egypt's Supreme Constitutional Court defers a ruling on whether the Constituent Assembly is legal following pressure from supporters of President Mohamed Morsi. ](/news/2012/12/2/egypt-s-supreme-constitutional-court-defers-a-ruling-on-whether-the-constituent-assembly-is-legal-following-pressure-from-supporters-of-pres.md)
-_Context: Mohamed Morsi, Supreme Constitutional Court, Constituent Assembly of Egypt, Egypt, President_
+_Context: Mohamed Morsi, Constituent Assembly of Egypt, Supreme Constitutional Court, President, Egypt_
 
 ##### Israel Keyes
 ### [Israel Keyes, a 34-year-old man suspected of killing Samantha Koenig and possibly as many as 7 others throughout the U.S., apparently kills himself while in custody. ](/news/2012/12/2/israel-keyes-a-34-year-old-man-suspected-of-killing-samantha-koenig-and-possibly-as-many-as-7-others-throughout-the-u-s-apparently-kills.md)
@@ -41,7 +41,7 @@ Israel Keyes was found dead in his cell; authorities say he may be linked to sev
 
 ##### Prime Minister of Slovenia
 ### [Former Prime Minister Borut Pahor is elected President of Slovenia beating the incumbent President Danilo Turk in the second round of a presidential election after anti-austerity protests in the capital, Ljubljana, erupted in clashes that left 15 people injured. ](/news/2012/12/2/former-prime-minister-borut-pahor-is-elected-president-of-slovenia-beating-the-incumbent-president-danilo-ta1-4rk-in-the-second-round-of-a-pre.md)
-_Context: Slovenian President, Borut Pahor, Danilo Turk, presidential election, Ljubljana, Prime Minister of Slovenia, anti-austerity protests_
+_Context: Borut Pahor, presidential election, Slovenian President, Danilo Turk, Prime Minister of Slovenia, anti-austerity protests, Ljubljana_
 
 ##### Italy
 ### [Voters in Italy go to the polls to select a centre-left candidate for Prime Minister with Pier Luigi Bersani winning. ](/news/2012/12/2/voters-in-italy-go-to-the-polls-to-select-a-centre-left-candidate-for-prime-minister-with-pier-luigi-bersani-winning.md)

@@ -13,15 +13,15 @@ Consumer spending rose in January after falling for a record six straight months
 
 ##### Winter storm
 ### [ A winter storm in the eastern United States cancels 1,000 flights and cuts hundreds of thousands of people's electricity. ](/news/2009/03/2/a-winter-storm-in-the-eastern-united-states-cancels-1-000-flights-and-cuts-hundreds-of-thousands-of-people-s-electricity.md)
-_Context: United States, East Coast of the United States, electricity, winter storm_
+_Context: winter storm, electricity, United States, East Coast of the United States_
 
 ##### Acting president
 ### [ President Joo Bernardo Vieira of Guinea-Bissau is assassinated in Bissau. ](/news/2009/03/2/president-joao-bernardo-vieira-of-guinea-bissau-is-assassinated-in-bissau.md)
-_Context: Guinea-Bissau, Joo Bernardo Vieira, acting president, Bissau, assassinated_
+_Context: acting president, Bissau, Joo Bernardo Vieira, Guinea-Bissau, assassinated_
 
 ##### Palestinian
 ### [ Palestinians accuse Israel of planning ethnic cleansing in Bustan, East Jerusalem. ](/news/2009/03/2/palestinians-accuse-israel-of-planning-ethnic-cleansing-in-bustan-east-jerusalem.md)
-_Context: Bustan, ethnic cleansing, Israel, East Jerusalem, Palestinian_
+_Context: Bustan, ethnic cleansing, East Jerusalem, Israel, Palestinian_
 
 ##### North Korea
 ### [ North Korea's and the United Nations' military commands meet in South Korea for the first time since 2002. ](/news/2009/03/2/north-korea-s-and-the-united-nations-military-commands-meet-in-south-korea-for-the-first-time-since-2002.md)

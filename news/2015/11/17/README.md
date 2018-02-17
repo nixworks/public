@@ -49,7 +49,7 @@ Domestic Islamist movement has ties to Hamas and the Egyptian Muslim Brotherhood
 
 ##### Japan
 ### [The Japanese government officially sues the governor of Okinawa, Takeshi Onaga, over his denial of permits to allow work to begin on the Relocation of Marine Corps Air Station Futenma. ](/news/2015/11/17/the-japanese-government-officially-sues-the-governor-of-okinawa-takeshi-onaga-over-his-denial-of-permits-to-allow-work-to-begin-on-the-rel.md)
-_Context: Okinawa, Takeshi Onaga, Japan, relocate MCAS Futenma to Henoko Bay in Nago_
+_Context: Japan, Okinawa, relocate MCAS Futenma to Henoko Bay in Nago, Takeshi Onaga_
 
 ##### Refugees from Syria
 ### [More than half of the state governors in the United States reject accepting asylum seekers from Syria after the attacks in Paris. All except one of them are Republicans. ](/news/2015/11/17/more-than-half-of-the-state-governors-in-the-united-states-reject-accepting-asylum-seekers-from-syria-after-the-attacks-in-paris-all-except.md)
@@ -59,7 +59,7 @@ FRANCE-SHOOTING/USA-GOVERNORS (URGENT):White House holds call with 34 governors 
 ### [The president of the Czech Republic, Milos Zeman, marks the 26th anniversary of the Velvet Revolution by attending an anti-Islam rally in Prague with the "Bloc against Islam" group which supports the president. The rally is also attended by observers from the German protest movement, PEGIDA (Patriotic Europeans Against the Islamisation of the Occident) and Tommy Robinson, a prominent British anti-Islam activist. Zeman tells the crowd of several thousand that they aren't extremists for advocating closing the Republic's borders to Muslim migrants. ](/news/2015/11/17/the-president-of-the-czech-republic-miloa-zeman-marks-the-26th-anniversary-of-the-velvet-revolution-by-attending-an-anti-islam-rally-in-p.md)
 The president of the Czech Republic has said opponents of Islam should not be referred to as extremists at a rally today advocating closing the Republic&#039;s borders to Muslim migrants.
 
-##### 2016 U.S. presidential election
+##### 2016 U.S. election
 ### [The Governor of Louisiana Bobby Jindal ends his campaign for the Republican Party nomination. ](/news/2015/11/17/the-governor-of-louisiana-bobby-jindal-ends-his-campaign-for-the-republican-party-nomination.md)
 Louisiana governor was most recently polling at 1% in national survey of Republican voters and says he has decided to suspend his campaign
 

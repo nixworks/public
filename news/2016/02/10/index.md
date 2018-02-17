@@ -9,7 +9,7 @@ Two female suicide bombers killed more than 60 people at a camp for people displ
 
 ##### PKK rebellion (2015-present)
 ### [At least two Turkish Army soldiers are killed in clashes with Kurdistan Workers' Party (PKK) insurgents in the southeast Sirnak Province. ](/news/2016/02/10/at-least-two-turkish-army-soldiers-are-killed-in-clashes-with-kurdistan-workers-party-pkk-insurgents-in-the-southeast-aa-rnak-province.md)
-_Context: Kurdistan Workers' Party, PKK rebellion (2015-present), Sirnak Province, Turkish Land Forces_
+_Context: Sirnak Province, Turkish Land Forces, PKK rebellion (2015-present), Kurdistan Workers' Party_
 
 ##### Syrian Civil War
 ### [The Kurdish-led Syrian Democratic Forces (SDF) reportedly take control of the Menagh Military Airbase in the northern Aleppo Governorate after Ahrar ash-Sham, Levant Front and Free Syrian Army fighters withdraw amid Russian airstrikes. ](/news/2016/02/10/the-kurdish-led-syrian-democratic-forces-sdf-reportedly-take-control-of-the-menagh-military-airbase-in-the-northern-aleppo-governorate-aft.md)
@@ -37,11 +37,11 @@ Turkey and Greece have agreed to ask for a NATO mission to monitor refugee flows
 
 ##### Rojava conflict
 ### [Turkish President Recep Tayyip Erdogan blasts the United States over its support for Syrian Kurdish groups which Turkey considers to be terrorists. ](/news/2016/02/10/turkish-president-recep-tayyip-erdoaan-blasts-the-united-states-over-its-support-for-syrian-kurdish-groups-which-turkey-considers-to-be-ter.md)
-_Context: United States, Syrian Kurdish groups, President of Turkey, Recep Tayyip Erdogan, terrorist, Rojava conflict_
+_Context: Rojava conflict, terrorist, Syrian Kurdish groups, Recep Tayyip Erdogan, President of Turkey, United States_
 
 ##### Abingdon
 ### [A shootout in Abingdon, Maryland results in the deaths of two Harford County Sheriff's Office deputies and the suspected gunman. ](/news/2016/02/10/a-shootout-in-abingdon-maryland-results-in-the-deaths-of-two-harford-county-sheriff-s-office-deputies-and-the-suspected-gunman.md)
-_Context: Maryland, Abingdon, Harford County Sheriff's Office_
+_Context: Abingdon, Maryland, Harford County Sheriff's Office_
 
 ##### North Korea
 ### [North Korea reportedly executes Ri Yong-gil, Chief of the General Staff of the Korean People's Army on charges of corruption, according to South Korean media. ](/news/2016/02/10/north-korea-reportedly-executes-ri-yong-gil-chief-of-the-general-staff-of-the-korean-people-s-army-on-charges-of-corruption-according-to-s.md)
@@ -51,13 +51,13 @@ North Korea has executed its army chief of staff Ri Yong-gil, according to uncon
 ### [The FBI, in armored vehicles, closes to within 50 yards (40 meters) of the last four anti-government militants occupying the Malheur National Wildlife Refuge. Negotiations to end the standoff without violence continue. ](/news/2016/02/10/the-fbi-in-armored-vehicles-closes-to-within-50-yards-40-meters-of-the-last-four-anti-government-militants-occupying-the-malheur-nationa.md)
 The four holdouts in the armed occupation of a federal wildlife refuge in Oregon surrendered on Thursday, with the last protester repeatedly threatening suicide in a dramatic final phone call with mediators before he gave up, ending the 41-day standoff.
 
-##### 2016 U.S. presidential election
+##### 2016 U.S. election
 ### [New Jersey Governor Chris Christie suspends his campaign for the Republican Party nomination for President of the United States. ](/news/2016/02/10/new-jersey-governor-chris-christie-suspends-his-campaign-for-the-republican-party-nomination-for-president-of-the-united-states.md)
 Republican Chris Christie drops out of the US presidential race after a disappointing finish in New Hampshire.
 
 ##### Parliament of Australia
 ### [The Parliament of Australia considers the Turnbull Government's proposed legislation to legalize the growing of marijuana for medical use. The bill is expected to pass. ](/news/2016/02/10/the-parliament-of-australia-considers-the-turnbull-government-s-proposed-legislation-to-legalize-the-growing-of-marijuana-for-medical-use-t.md)
-_Context: Parliament of Australia, Turnbull Government, marijuana for medical use_
+_Context: Turnbull Government, marijuana for medical use, Parliament of Australia_
 
 ##### Foreign minister
 ### [French Foreign Minister Laurent Fabius announces his resignation. President Francois Hollande says he will nominate Fabius to lead the country's Constitutional Council. ](/news/2016/02/10/french-foreign-minister-laurent-fabius-announces-his-resignation-president-francois-hollande-says-he-will-nominate-fabius-to-lead-the-count.md)

@@ -9,7 +9,7 @@ Tehran: Irans Guardian Council will recount 10 percent of the ballot boxes in la
 
 ##### Shipwreck
 ### [ A sunken ship believed to carry over US$15 million in gold is located in the Magellan Straits off the coast of Argentina. ](/news/2009/06/20/a-sunken-ship-believed-to-carry-over-us-15-million-in-gold-is-located-in-the-magellan-straits-off-the-coast-of-argentina.md)
-_Context: Magellan Straits, shipwreck, Argentina_
+_Context: shipwreck, Argentina, Magellan Straits_
 
 ##### United States
 ### [ The United States admits its forces failed to follow their own rules in an Afghan airstrike that may have led up to 140 civilian deaths. ](/news/2009/06/20/the-united-states-admits-its-forces-failed-to-follow-their-own-rules-in-an-afghan-airstrike-that-may-have-led-up-to-140-civilian-deaths.md)
@@ -17,7 +17,7 @@ The US will order all its troops in Afghanistan to undergo new training after co
 
 ##### New Zealand
 ### [ A New Zealand jury convicts Nai Yin Xue, who sparked an international hunt in 2007, of murdering his wife. ](/news/2009/06/20/a-new-zealand-jury-convicts-nai-yin-xue-who-sparked-an-international-hunt-in-2007-of-murdering-his-wife.md)
-_Context: convicts, Nai Yin Xue, New Zealand_
+_Context: New Zealand, convicts, Nai Yin Xue_
 
 ##### Greece
 ### [ Greece's Acropolis Museum in Athens is unveiled. ](/news/2009/06/20/greece-s-acropolis-museum-in-athens-is-unveiled.md)
@@ -41,7 +41,7 @@ Security forces enter Lalgarh region of West Bengal under rebel control.
 
 ##### Taza bombing
 ### [ At least 67 people are killed and over 200 are injured in a suicide attack near Kirkuk in Iraq. ](/news/2009/06/20/at-least-67-people-are-killed-and-over-200-are-injured-in-a-suicide-attack-near-kirkuk-in-iraq.md)
-_Context: Iraq, Kirkuk, suicide attack, Taza bombing_
+_Context: Taza bombing, Iraq, suicide attack, Kirkuk_
 
 ## [Previous Day...](/news/2009/06/19/index.md)
 

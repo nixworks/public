@@ -25,7 +25,7 @@ Turkey vows a &quot;harsh response&quot; as a diplomatic row with the Netherland
 
 ##### Western Australian state election, 2017
 ### [After eight years in power, the Liberal Party is defeated by the Labor Party in a landslide election. Mark McGowan is set to become the Australian state's new Premier. ](/news/2017/03/11/after-eight-years-in-power-the-liberal-party-is-defeated-by-the-labor-party-in-a-landslide-election-mark-mcgowan-is-set-to-become-the-aust.md)
-_Context: Australia, Australian Labor Party, Liberals, Mark McGowan, Western Australian state election, 2017, Premier_
+_Context: Mark McGowan, Western Australian state election, 2017, Australia, Australian Labor Party, Liberals, Premier_
 
 ## [Previous Day...](/news/2017/03/10/index.md)
 

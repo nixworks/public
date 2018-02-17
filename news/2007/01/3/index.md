@@ -13,7 +13,7 @@ News and opinion from The Times &amp; The Sunday Times
 
 ##### North Korea
 ### [ The North Korean Korean Central News Agency reports that Foreign Minister Paek Nam-sun has died, without describing the cause of death. ](/news/2007/01/3/the-north-korean-korean-central-news-agency-reports-that-foreign-minister-paek-nam-sun-has-died-without-describing-the-cause-of-death.md)
-_Context: Paek Nam-sun, Korean Central News Agency, North Korea_
+_Context: Korean Central News Agency, North Korea, Paek Nam-sun_
 
 ##### Michael Perham
 ### [ Fourteen-year-old Michael Perham becomes the youngest person to ever sail single-handedly across the Atlantic Ocean, when he completes a six-week voyage from Gibraltar by docking in Antigua. ](/news/2007/01/3/fourteen-year-old-michael-perham-becomes-the-youngest-person-to-ever-sail-single-handedly-across-the-atlantic-ocean-when-he-completes-a-si.md)
@@ -21,11 +21,11 @@ News and opinion from The Times &amp; The Sunday Times
 
 ##### United States President
 ### [ Former United States President Gerald Ford is buried in his hometown of Grand Rapids, Michigan. ](/news/2007/01/3/former-united-states-president-gerald-ford-is-buried-in-his-hometown-of-grand-rapids-michigan.md)
-_Context: United States President, Mich., buried, Grand Rapids, Gerald Ford_
+_Context: Mich., Gerald Ford, United States President, buried, Grand Rapids_
 
 ##### National Express Coach crash
 ### [ A National Express coach overturns, killing two people, near Heathrow Airport, London on a slip road from the M4 to the M25 motorways. The driver is arrested on suspicion of causing death by dangerous driving. ](/news/2007/01/3/a-national-express-coach-overturns-killing-two-people-near-heathrow-airport-london-on-a-slip-road-from-the-m4-to-the-m25-motorways-the.md)
-_Context: M25 motorway, National Express Coach crash, London, Heathrow Airport, slip road, causing death by dangerous driving, M4_
+_Context: Heathrow Airport, National Express Coach crash, causing death by dangerous driving, M25 motorway, London, slip road, M4_
 
 ## [Previous Day...](/news/2007/01/2/index.md)
 

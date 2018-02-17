@@ -9,7 +9,7 @@ Hamas under pressure to halt rocket attacks after rejecting Cairo-brokered peace
 
 ##### Car bomb
 ### [A car bomb explodes at a market in the eastern Afghanistan province of Paktika, killing at least 89 people and injuring scores more in one of the deadliest attacks of the war. ](/news/2014/07/15/a-car-bomb-explodes-at-a-market-in-the-eastern-afghanistan-province-of-paktika-killing-at-least-89-people-and-injuring-scores-more-in-one-o.md)
-_Context: Paktika, Afghan, car bomb_
+_Context: Paktika, car bomb, Afghan_
 
 ##### Snizhne
 ### [An airstrike on the rebel-held town of Snizhne kills at least eleven civilians. ](/news/2014/07/15/an-airstrike-on-the-rebel-held-town-of-snizhne-kills-at-least-eleven-civilians.md)
@@ -37,15 +37,15 @@ A rush-hour train derails on the Moscow metro, killing 21 people, the Russian au
 
 ##### 2009 Black Saturday bushfires
 ### [Ten thousand survivors of the Black Saturday bushfires in the Australian state of Victoria in February 2009 win a settlement of A$497.4 million against utility company SP AusNet, its maintenance contractor and the Victorian Department of Sustainability and Environment for poor inadequate maintenance and protection measures. ](/news/2014/07/15/ten-thousand-survivors-of-the-black-saturday-bushfires-in-the-australian-state-of-victoria-in-february-2009-win-a-settlement-of-a-497-4-mill.md)
-_Context: Victorian Department of Sustainability and Environment, Australia, SP AusNet, Victoria, 2009 Black Saturday bushfires_
+_Context: Victoria, SP AusNet, 2009 Black Saturday bushfires, Victorian Department of Sustainability and Environment, Australia_
 
 ##### Mexican police
 ### [Mexican police rescue 458 children and 138 adults from a Great Family Group Home in Michoacan state where they were allegedly badly mistreated including sexual abuse. ](/news/2014/07/15/mexican-police-rescue-458-children-and-138-adults-from-a-great-family-group-home-in-michoacan-state-where-they-were-allegedly-badly-mistreat.md)
-_Context: Michoacan, Mexican police_
+_Context: Mexican police, Michoacan_
 
 ##### Salim al-Jabouri
 ### [Salim al-Jabouri is elected as speaker of the Iraqi parliament. ](/news/2014/07/15/salim-al-jabouri-is-elected-as-speaker-of-the-iraqi-parliament.md)
-_Context: Iraqi Parliament, Salim al-Jabouri_
+_Context: Salim al-Jabouri, Iraqi Parliament_
 
 ##### European Parliament
 ### [The European Parliament votes to elect Jean-Claude Juncker as President of the European Commission. ](/news/2014/07/15/the-european-parliament-votes-to-elect-jean-claude-juncker-as-president-of-the-european-commission.md)

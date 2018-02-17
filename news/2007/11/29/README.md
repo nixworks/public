@@ -9,7 +9,7 @@ In a setback for journalistic freedom in Mexico, the judges ruled 6 to 4 against
 
 ##### Magnitude
 ### [ A 7.4 M w earthquake rocks the Windward Islands in the Caribbean near the island of Martinique. ](/news/2007/11/29/a-7-4-m-w-earthquake-rocks-the-windward-islands-in-the-caribbean-near-the-island-of-martinique.md)
-_Context: Windward Islands, Martinique, Caribbean, earthquake, magnitude_
+_Context: Martinique, earthquake, Windward Islands, magnitude, Caribbean_
 
 ##### Gillian Gibbons
 ### [ Gillian Gibbons is found guilty of inciting religious hatred and sentenced to 15 days in prison and deportation from Sudan, after she let pupils name a teddy bear "Muhammad". ](/news/2007/11/29/gillian-gibbons-is-found-guilty-of-inciting-religious-hatred-and-sentenced-to-15-days-in-prison-and-deportation-from-sudan-after-she-let-p.md)
@@ -17,19 +17,19 @@ _Context: Gillian Gibbons_
 
 ##### Al Jazeera
 ### [ Al Jazeera television releases an audio tape featuring a message believed to have been recorded by al Qaeda leader Osama bin Laden. ](/news/2007/11/29/al-jazeera-television-releases-an-audio-tape-featuring-a-message-believed-to-have-been-recorded-by-al-qaeda-leader-osama-bin-laden.md)
-_Context: al Qaeda, Al Jazeera, Osama bin Laden_
+_Context: Osama bin Laden, Al Jazeera, al Qaeda_
 
 ##### Ukrain
 ### [ Ukrainian political parties backed by Yulia Tymoshenko and Viktor Yushenko put together a parliamentary majority coalition in Parliament. ](/news/2007/11/29/ukrainian-political-parties-backed-by-yulia-tymoshenko-and-viktor-yushenko-put-together-a-parliamentary-majority-coalition-in-parliament.md)
-_Context: Yulia Tymoshenko, parliament, Ukrain, Viktor Yushenko_
+_Context: Ukrain, Yulia Tymoshenko, parliament, Viktor Yushenko_
 
 ##### Moscow
 ### [ The Savyolovsky Court in Moscow finds the Russian businessman in exile Boris Berezovsky guilty of embezzling nearly 215 million rubles from Aeroflot. ](/news/2007/11/29/the-savyolovsky-court-in-moscow-finds-the-russian-businessman-in-exile-boris-berezovsky-guilty-of-embezzling-nearly-215-million-rubles-from.md)
-_Context: Boris Berezovsky, Russia, Moscow, Aeroflot, embezzled_
+_Context: Boris Berezovsky, Moscow, embezzled, Aeroflot, Russia_
 
 ##### Philippines Armed Forces
 ### [ The Armed Forces of the Philippines storm the The Peninsula Manila where the Magdalo Soldiers are holed up. ](/news/2007/11/29/the-armed-forces-of-the-philippines-storm-the-the-peninsula-manila-where-the-magdalo-soldiers-are-holed-up.md)
-_Context: The Peninsula Manila, Philippines Armed Forces_
+_Context: Philippines Armed Forces, The Peninsula Manila_
 
 ## [Previous Day...](/news/2007/11/28/index.md)
 

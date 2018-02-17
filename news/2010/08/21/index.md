@@ -21,7 +21,7 @@ At least 10 anti-government militants are believed to have died in Mogadishu whe
 
 ##### So Conrado
 ### [About 35 people are taken hostage by drug dealers at a tourist hotel in So Conrado, Rio de Janeiro; 1 woman, involved with them, is killed. ](/news/2010/08/21/about-35-people-are-taken-hostage-by-drug-dealers-at-a-tourist-hotel-in-sao-conrado-rio-de-janeiro-1-woman-involved-with-them-is-killed.md)
-_Context: Rio de Janeiro, So Conrado_
+_Context: So Conrado, Rio de Janeiro_
 
 ##### Vincent van Gogh
 ### [A Vincent van Gogh painting - known as both "Poppy Flowers" and "Vase with Flowers" - is stolen from the Mohammed Mahmoud Khalil art museum in Cairo, but is later said to have been recovered at Cairo Airport. ](/news/2010/08/21/a-vincent-van-gogh-painting-known-as-both-poppy-flowers-and-vase-with-flowers-is-stolen-from-the-mohammed-mahmoud-khalil-art-museum.md)
@@ -29,7 +29,7 @@ A painting by Vincent Van Gogh, stolen from a Cairo museum, is still missing, sa
 
 ##### Yalu River
 ### [More than 50,000 people are evacuated after the Yalu River floods in China; flooding is also reported in North Korea with the city of Sinuiju particularly affected. ](/news/2010/08/21/more-than-50-000-people-are-evacuated-after-the-yalu-river-floods-in-china-flooding-is-also-reported-in-north-korea-with-the-city-of-sinuij.md)
-_Context: China, Yalu River, Sinuiju, North Korea_
+_Context: North Korea, Yalu River, Sinuiju, China_
 
 ##### Save the Children
 ### [The charity Save the Children says the food crisis in Niger is being made worse by hoarders selling grain at higher prices than most people can afford. ](/news/2010/08/21/the-charity-save-the-children-says-the-food-crisis-in-niger-is-being-made-worse-by-hoarders-selling-grain-at-higher-prices-than-most-people.md)
@@ -61,7 +61,7 @@ Palestinians warn negotiations would be threatened if building on occupied land 
 
 ##### Russia
 ### [Russian engineers start loading fuel into Iran's first nuclear reactor at Bushehr Nuclear Power Plant. ](/news/2010/08/21/russian-engineers-start-loading-fuel-into-iran-s-first-nuclear-reactor-at-bushehr-nuclear-power-plant.md)
-_Context: Iran, Bushehr power plant, engineers, Russia, nuclear reactor_
+_Context: Russia, engineers, Bushehr power plant, nuclear reactor, Iran_
 
 ##### Amnesty International
 ### [Amnesty International urges Saudi Arabia not to sever the spine of a man as punishment; the man has been convicted of paralysing another man. ](/news/2010/08/21/amnesty-international-urges-saudi-arabia-not-to-sever-the-spine-of-a-man-as-punishment-the-man-has-been-convicted-of-paralysing-another-man.md)
@@ -77,7 +77,7 @@ First female PM fighting to keep power amid strong challenge from conservative c
 
 ##### Wyclef Jean
 ### [Musician Wyclef Jean is formally declared unsuitable as a presidential candidate in Haiti's election. ](/news/2010/08/21/musician-wyclef-jean-is-formally-declared-unsuitable-as-a-presidential-candidate-in-haiti-s-election.md)
-_Context: Wyclef Jean, Haiti's presidential election, Haiti_
+_Context: Haiti's presidential election, Wyclef Jean, Haiti_
 
 ## [Previous Day...](/news/2010/08/20/index.md)
 

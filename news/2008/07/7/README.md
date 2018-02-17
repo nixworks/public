@@ -5,7 +5,7 @@ Formats: [HTML](2008/07/7/index.html)  [JSON](2008/07/7/index.json)  [XML](2008/
 
 ##### Austrian People's Party
 ### [ Austrian People's Party leader Wilhelm Molterer pulls his party out of the ruling grand coalition, forcing a snap general election. ](/news/2008/07/7/austrian-people-s-party-leader-wilhelm-molterer-pulls-his-party-out-of-the-ruling-grand-coalition-forcing-a-snap-general-election.md)
-_Context: snap general election, Wilhelm Molterer, Austrian People's Party, grand coalition_
+_Context: grand coalition, snap general election, Wilhelm Molterer, Austrian People's Party_
 
 ##### Hurricane Bertha
 ### [ Hurricane Bertha becomes the first hurricane of the 2008 Atlantic hurricane season. ](/news/2008/07/7/hurricane-bertha-becomes-the-first-hurricane-of-the-2008-atlantic-hurricane-season.md)
@@ -17,15 +17,15 @@ A Taliban suicide car bomb hitthe Indian Embassy in Kabul on Monday, killing 41 
 
 ##### MV ''Princess of the Stars
 ### [ MV "Princess of the Stars disaster: Ship owner Sulpicio Lines ask a court to stop the Board of Marine Inquiry's investigation and sue the body for allegedly contributing to unfair negative publicity surrounding Sulpicio. ](/news/2008/07/7/mv-princess-of-the-stars-disaster-ship-owner-sulpicio-lines-ask-a-court-to-stop-the-board-of-marine-inquiry-s-investigation-and-sue-the-b.md)
-_Context: Sulpicio Lines, MV ''Princess of the Stars_
+_Context: MV ''Princess of the Stars, Sulpicio Lines_
 
 ##### Church of England
 ### [ The Church of England's governing body votes to allow female bishops. ](/news/2008/07/7/the-church-of-england-s-governing-body-votes-to-allow-female-bishops.md)
-_Context: Church of England, female bishops, General Synod of the Church of England_
+_Context: General Synod of the Church of England, female bishops, Church of England_
 
 ##### Uranium
 ### [ Unenriched uranium leaks into the Gaffire and Lauzon rivers from the Tricastin Nuclear Power Center in Bollne, France resulting in the plant being closed. ](/news/2008/07/7/unenriched-uranium-leaks-into-the-gaffiere-and-lauzon-rivers-from-the-tricastin-nuclear-power-center-in-bollene-france-resulting-in-the-pl.md)
-_Context: Lauzon rivers, Gaffire, France, Tricastin Nuclear Power Center, uranium, Bollne_
+_Context: uranium, Bollne, Tricastin Nuclear Power Center, Lauzon rivers, France, Gaffire_
 
 ## [Previous Day...](/news/2008/07/6/index.md)
 

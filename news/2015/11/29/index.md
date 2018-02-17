@@ -13,7 +13,7 @@ At least two people were found dead and thousands of people lost their homes in 
 
 ##### 2015 downing
 ### [Turkish Prime Minister Ahmet Davutoglu says the body of the pilot from the Sukhoi Su-24 jet downed this past Tuesday will be handed over to Russia. The body is being treated in accordance with the Orthodox tradition. Russia's military attache is going to Hatay in southern Turkey as part of the procedures to recover the remains. Turkish officials refused to comment on how they came to be in possession of the body. ](/news/2015/11/29/turkish-prime-minister-ahmet-davutoalu-says-the-body-of-the-pilot-from-the-sukhoi-su-24-jet-downed-this-past-tuesday-will-be-handed-over-to.md)
-_Context: Russia, Turkish Prime Minister, Russian, 2015 downing, Sukhoi Su-24, Ahmet Davutoglu, Turkey, Hatay Province_
+_Context: Russian, Hatay Province, Sukhoi Su-24, Turkey, 2015 downing, Turkish Prime Minister, Ahmet Davutoglu, Russia_
 
 ##### Pope Francis
 ### [Pope Francis arrives in the Central African Republic, the last stop of his six-day African tour, becoming the first modern pope to enter an active war zone as the country is in a state of civil war. ](/news/2015/11/29/pope-francis-arrives-in-the-central-african-republic-the-last-stop-of-his-six-day-african-tour-becoming-the-first-modern-pope-to-enter-an.md)

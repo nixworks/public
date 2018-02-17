@@ -13,7 +13,7 @@ Topps Meat Co LLC announced on Friday it was going out of business, crushed by t
 
 ##### Canadian
 ### [ Canada stops the sale of Novartis anti-inflammatory drug Prexige and cancels its authorisation due to the risk of liver-related effects such as hepatitis. ](/news/2007/10/5/canada-stops-the-sale-of-novartis-anti-inflammatory-drug-prexige-and-cancels-its-authorisation-due-to-the-risk-of-liver-related-effects-suc.md)
-_Context: drug, liver, Canadian, Prexige, hepatitis, Novartis_
+_Context: liver, Novartis, Canadian, hepatitis, drug, Prexige_
 
 ##### Burma
 ### [ Burmese security forces claim that they are looking for four of the monks that led the protests. ](/news/2007/10/5/burmese-security-forces-claim-that-they-are-looking-for-four-of-the-monks-that-led-the-protests.md)
@@ -33,11 +33,11 @@ _Context: Saudi Arabia_
 
 ##### Elections
 ### [ Elections for a Nepalese Constituent Assembly are delayed as the Seven Party Alliance of ruling parties and the former Communist Party of Nepal (Maoist) rebels fail to break a deadlock over the republic issue and the voting system to be used. ](/news/2007/10/5/elections-for-a-nepalese-constituent-assembly-are-delayed-as-the-seven-party-alliance-of-ruling-parties-and-the-former-communist-party-of-n.md)
-_Context: Seven Party Alliance, Elections, Maoist supporters_
+_Context: Elections, Maoist supporters, Seven Party Alliance_
 
 ##### SELENE
 ### [ SELENE, Japan's lunar probe, successfully achieves an orbit around the moon. ](/news/2007/10/5/selene-japan-s-lunar-probe-successfully-achieves-an-orbit-around-the-moon.md)
-_Context: orbit, moon, Japan, SELENE_
+_Context: orbit, Japan, SELENE, moon_
 
 ## [Previous Day...](/news/2007/10/4/index.md)
 

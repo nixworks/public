@@ -33,7 +33,7 @@ The heir to the Johnson &amp; Johnson pharmaceutical empire originally supported
 
 ##### Drove a car
 ### [Three people are killed and twenty injured after a man drove a car into the Bourke Street Mall in the CBD of the Australian city Melbourne. A man has been arrested and Victoria Police say the incident is not terror related. In the next few weeks, the death toll would rise to six. ](/news/2017/01/20/three-people-are-killed-and-twenty-injured-after-a-man-drove-a-car-into-the-bourke-street-mall-in-the-cbd-of-the-australian-city-melbourne.md)
-_Context: drove a car, Bourke Street Mall, Melbourne, Victoria Police, Australia_
+_Context: Victoria Police, Bourke Street Mall, Australia, Melbourne, drove a car_
 
 ##### Inauguration of Donald Trump protests
 ### [Some protesters of the inauguration smash windows, damage cars, and clash with the police. Six police officers and at least one civilian are injured. DC police say 217 protesters have been arrested. ](/news/2017/01/20/some-protesters-of-the-inauguration-smash-windows-damage-cars-and-clash-with-the-police-six-police-officers-and-at-least-one-civilian-are.md)
@@ -49,7 +49,7 @@ The Gambian strongman Yahya Jammeh has agreed to step down, officials involved i
 
 ##### Cabinet of Donald Trump
 ### [The U.S. Senate confirms the first two members of President Donald Trump's Cabinet: retired Marine General James Mattis as Secretary of Defense, and retired Marine general John F. Kelly as Secretary of Homeland Security. ](/news/2017/01/20/the-u-s-senate-confirms-the-first-two-members-of-president-donald-trump-s-cabinet-retired-marine-general-james-mattis-as-secretary-of-defe.md)
-_Context: Cabinet, Donald Trump, United States Secretary of Defense, John F. Kelly, Cabinet of Donald Trump, U.S. President, Secretary of Homeland Security, James Mattis_
+_Context: United States Secretary of Defense, John F. Kelly, Secretary of Homeland Security, Cabinet of Donald Trump, Cabinet, Donald Trump, James Mattis, U.S. President_
 
 ## [Previous Day...](/news/2017/01/19/index.md)
 

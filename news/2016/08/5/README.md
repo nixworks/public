@@ -17,15 +17,15 @@ KABUL, Afghanistan (AP) — An Afghan official says at least 10 people have been
 
 ##### PricewaterhouseCoopers
 ### [A U.S. district court judge gives the go-ahead to a billion-dollar lawsuit against PricewaterhouseCoopers in connection with the losses at MF Global in October 2011. ](/news/2016/08/5/a-u-s-district-court-judge-gives-the-go-ahead-to-a-billion-dollar-lawsuit-against-pricewaterhousecoopers-in-connection-with-the-losses-at-m.md)
-_Context: October 2011, PricewaterhouseCoopers, MF Global_
+_Context: PricewaterhouseCoopers, MF Global, October 2011_
 
 ##### Mi-17
 ### [A Pakistani Mi-17 transport helicopter belonging to the Punjab government on route to Russia for repair, crashed on Thursday night in Logar Province, Afghanistan. The six people on board have been taken hostage by the Taliban. ](/news/2016/08/5/a-pakistani-mi-17-transport-helicopter-belonging-to-the-punjab-government-on-route-to-russia-for-repair-crashed-on-thursday-night-in-logar.md)
 Seven passengers were on board, six of them Pakistanis and one a Russian technician, confirms Foreign Office
 
-##### 2016 U.S. presidential election
+##### 2016 U.S. election
 ### [Republican presidential candidate Donald Trump says he plans to ban immigration from Afghanistan, Iraq, Morocco, Pakistan, the Philippines, Somalia, Syria, Uzbekistan and Yemen. ](/news/2016/08/5/republican-presidential-candidate-donald-trump-says-he-plans-to-ban-immigration-from-afghanistan-iraq-morocco-pakistan-the-philippines.md)
-_Context: Morocco, Republican, Donald Trump, Uzbekistan, Philippines, 2016 U.S. presidential election_
+_Context: 2016 U.S. election, Philippines, Republican, Donald Trump, Uzbekistan, Morocco_
 
 ##### European migrant crisis
 ### [Ventimiglian police commander Giorgio Marenco says the more than 100 migrants who crashed the Italian border town's police barriers and entered France remain, under French police surveillance, outside the French Riviera town of Menton. ](/news/2016/08/5/ventimiglian-police-commander-giorgio-marenco-says-the-more-than-100-migrants-who-crashed-the-italian-border-town-s-police-barriers-and-ente.md)

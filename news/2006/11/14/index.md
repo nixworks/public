@@ -5,7 +5,7 @@ Formats: [HTML](2006/11/14/index.html)  [JSON](2006/11/14/index.json)  [XML](200
 
 ##### President
 ### [ The President of Iran Mahmoud Ahmadinejad says he expects its nuclear enrichment program to be ready by February 2007. ](/news/2006/11/14/the-president-of-iran-mahmoud-ahmadinejad-says-he-expects-its-nuclear-enrichment-program-to-be-ready-by-february-2007.md)
-_Context: nuclear program, President, nuclear enrichment, Mahmoud Ahmadinejad_
+_Context: Mahmoud Ahmadinejad, President, nuclear program, nuclear enrichment_
 
 ##### Preimplantation Genetic Haplotyping
 ### [ The first babies to have been screened for faulty genes by Preimplantation Genetic Haplotyping (PGH) have been born in London's Guy's Hospital. ](/news/2006/11/14/the-first-babies-to-have-been-screened-for-faulty-genes-by-preimplantation-genetic-haplotyping-pgh-have-been-born-in-london-s-guy-s-hospi.md)
@@ -17,19 +17,19 @@ _Context: Baghdad, Iraq_
 
 ##### Kenya
 ### [ In Kenya, flash flooding in the Mombasa region claims at least 21 lives. The Kenyan Red Cross claims 60,000 people have been made homeless. ](/news/2006/11/14/in-kenya-flash-flooding-in-the-mombasa-region-claims-at-least-21-lives-the-kenyan-red-cross-claims-60-000-people-have-been-made-homeless.md)
-_Context: Mombasa, Kenya, flash flooding_
+_Context: flash flooding, Mombasa, Kenya_
 
 ##### European Union
 ### [ The European Union has renewed diplomatic sanctions for Uzbekistan. The sanctions, which have been violated repeatedly by the governments of Britain and Germany, prohibit the sale of weapons to the Uzbek government and visits from EU officials to Uzbekistan or vice versa. The sanctions were originally implemented after the Uzbek government would not allow an international investigation into the terrorist uprising in Andijan. ](/news/2006/11/14/the-european-union-has-renewed-diplomatic-sanctions-for-uzbekistan-the-sanctions-which-have-been-violated-repeatedly-by-the-governments-o.md)
-_Context: diplomatic sanctions, Government of Germany, Andijan massacre, Uzbekistan, His Majesty's Government, European Union_
+_Context: Andijan massacre, Government of Germany, His Majesty's Government, Uzbekistan, diplomatic sanctions, European Union_
 
 ##### Australia
 ### [ Australia and Indonesia sign a security treaty on Lombok strengthening cooperation against terrorism, enhancing joint naval border patrols and formalising military exchanges. It also supports Indonesia's sovereignty over its provinces notably Western New Guinea. ](/news/2006/11/14/australia-and-indonesia-sign-a-security-treaty-on-lombok-strengthening-cooperation-against-terrorism-enhancing-joint-naval-border-patrols.md)
-_Context: Indonesia, West Papuan, Lombok, Australia_
+_Context: Australia, Lombok, Indonesia, West Papuan_
 
 ##### South African Parliament
 ### [ The Parliament of South Africa passes a law to legalize same-sex marriage. It must now be signed by President Thabo Mbeki to become law. The change was required by a constitutional court, which ruled last year that the current marriage law unconstitutionally discriminated on the basis of sexual orientation. ](/news/2006/11/14/the-parliament-of-south-africa-passes-a-law-to-legalize-same-sex-marriage-it-must-now-be-signed-by-president-thabo-mbeki-to-become-law-th.md)
-_Context: South African Parliament, sexual orientation, same-sex marriage, Thabo Mbeki_
+_Context: Thabo Mbeki, same-sex marriage, South African Parliament, sexual orientation_
 
 ## [Previous Day...](/news/2006/11/13/index.md)
 

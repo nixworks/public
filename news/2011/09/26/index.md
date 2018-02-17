@@ -5,15 +5,15 @@ Formats: [HTML](2011/09/26/index.html)  [JSON](2011/09/26/index.json)  [XML](201
 
 ##### Civil war
 ### [2011 Libyan civil war: Forces loyal to the National Transitional Council (NTC) enter Muammar Gaddafi's stronghold of Sirte, as the NTC's three-day assault on the city intensifies. ](/news/2011/09/26/2011-libyan-civil-war-forces-loyal-to-the-national-transitional-council-ntc-enter-muammar-gaddafi-s-stronghold-of-sirte-as-the-ntc-s-thr.md)
-_Context: Sirte, civil war, National Transitional Council, Muammar Gaddafi_
+_Context: Muammar Gaddafi, Sirte, National Transitional Council, civil war_
 
 ##### President of Indonesia
 ### [The President of Indonesia, Susilo Bambang Yudhoyono, orders the National Police's Detachment 88 counter-terrorism squad to investigate a recent suicide bombing in Solo, Java. ](/news/2011/09/26/the-president-of-indonesia-susilo-bambang-yudhoyono-orders-the-national-police-s-detachment-88-counter-terrorism-squad-to-investigate-a-re.md)
-_Context: suicide bombing, Solo, Java, Detachment 88, counter-terrorism, Indonesian National Police, President of Indonesia, Susilo Bambang Yudhoyono_
+_Context: Indonesian National Police, counter-terrorism, Detachment 88, Solo, Java, Susilo Bambang Yudhoyono, suicide bombing, President of Indonesia_
 
 ##### Dead Sea Scrolls
 ### [Some of the Dead Sea Scrolls are published online in a joint project between Israel's national museum and Google. ](/news/2011/09/26/some-of-the-dead-sea-scrolls-are-published-online-in-a-joint-project-between-israel-s-national-museum-and-google.md)
-_Context: Israel's national museum, Dead Sea Scrolls, Google_
+_Context: Dead Sea Scrolls, Israel's national museum, Google_
 
 ##### Asia
 ### [Asian and European stock markets open lower in response to the ongoing sovereign debt crisis in Europe. ](/news/2011/09/26/asian-and-european-stock-markets-open-lower-in-response-to-the-ongoing-sovereign-debt-crisis-in-europe.md)
@@ -21,11 +21,11 @@ Asian stocks fell, sending the MSCI Asia Pacific Index to the lowest level since
 
 ##### Philippines
 ### [More than 100,000 people in the Philippines are evacuated ahead of Typhoon Nesat, with Albay province lying directly in the storm's pathway. ](/news/2011/09/26/more-than-100-000-people-in-the-philippines-are-evacuated-ahead-of-typhoon-nesat-with-albay-province-lying-directly-in-the-storm-s-pathway.md)
-_Context: 2011 Pacific typhoon season, Albay Province, Philippines_
+_Context: Albay Province, Philippines, 2011 Pacific typhoon season_
 
 ##### Tuvalu
 ### [Tuvaluan Prime Minister Willy Telavi signs an agreement to establish diplomatic relations with Abkhazia during an official visit to Sukhumi. ](/news/2011/09/26/tuvaluan-prime-minister-willy-telavi-signs-an-agreement-to-establish-diplomatic-relations-with-abkhazia-during-an-official-visit-to-sukhumi.md)
-_Context: Sukhumi, Prime Minister of Tuvalu, Abkhazia, Tuvalu, diplomatic relations, Willy Telavi_
+_Context: Tuvalu, diplomatic relations, Prime Minister of Tuvalu, Abkhazia, Sukhumi, Willy Telavi_
 
 ##### Terrorism
 ### [Six people appear in court on terrorism charges, a week after being arrested in the English city of Birmingham. ](/news/2011/09/26/six-people-appear-in-court-on-terrorism-charges-a-week-after-being-arrested-in-the-english-city-of-birmingham.md)
@@ -41,11 +41,11 @@ Student protesters in Auckland have returned to the university for pizza and a f
 
 ##### Kenya
 ### [Kenyan Nobel Peace Prize laureate Wangari Maathai dies while undergoing cancer treatment at the age of 71. ](/news/2011/09/26/kenyan-nobel-peace-prize-laureate-wangari-maathai-dies-while-undergoing-cancer-treatment-at-the-age-of-71.md)
-_Context: Nobel Peace Prize, Kenya, Wangari Maathai, cancer_
+_Context: cancer, Wangari Maathai, Nobel Peace Prize, Kenya_
 
 ##### Labour Party
 ### [The British Labour Party votes to scrap the tradition of Shadow Cabinet elections at their annual conference in Liverpool. ](/news/2011/09/26/the-british-labour-party-votes-to-scrap-the-tradition-of-shadow-cabinet-elections-at-their-annual-conference-in-liverpool.md)
-_Context: Shadow Cabinet, Labour Party, Liverpool, annual conference, elections_
+_Context: Labour Party, annual conference, Shadow Cabinet, elections, Liverpool_
 
 ##### United States Senate
 ### [The United States Senate reaches a temporary deal to avoid a government shutdown. ](/news/2011/09/26/the-united-states-senate-reaches-a-temporary-deal-to-avoid-a-government-shutdown.md)
@@ -53,7 +53,7 @@ FEMA now says money could last through the week
 
 ##### Prime Minister
 ### [The Prime Minister of Spain Jos Luis Rodrguez Zapatero dissolves the Cortes Generales and calls a general election for November 20. ](/news/2011/09/26/the-prime-minister-of-spain-jose-luis-rodriguez-zapatero-dissolves-the-cortes-generales-and-calls-a-general-election-for-november-20.md)
-_Context: Jos Luis Rodrguez Zapatero, general election, Spanish Parliament, Prime Minister_
+_Context: general election, Jos Luis Rodrguez Zapatero, Spanish Parliament, Prime Minister_
 
 ## [Previous Day...](/news/2011/09/25/index.md)
 

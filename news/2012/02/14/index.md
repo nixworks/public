@@ -33,7 +33,7 @@ The first bronze statue of the late North Korean leader Kim Jong Il was unveiled
 
 ##### Wellesley College
 ### [Wellesley College and Baylor University publish love letters between English poets Robert Browning and Elizabeth Barrett online. ](/news/2012/02/14/wellesley-college-and-baylor-university-publish-love-letters-between-english-poets-robert-browning-and-elizabeth-barrett-online.md)
-_Context: Baylor University, Wellesley College, Robert Browning, love letter, Elizabeth Barrett, English_
+_Context: English, love letter, Baylor University, Elizabeth Barrett, Robert Browning, Wellesley College_
 
 ##### China
 ### [China issues new regulations on foreign television programmes being aired in the country - banning all imported programmes during prime time. ](/news/2012/02/14/china-issues-new-regulations-on-foreign-television-programmes-being-aired-in-the-country-banning-all-imported-programmes-during-prime-time.md)
@@ -61,15 +61,15 @@ _Context: Malvinas Islands, Sean Penn, Cristina Fernandez de Kirchner_
 
 ##### Vice-President of the People's Republic of China
 ### [The Vice-President of the People's Republic of China Xi Jinping meets with the President of the United States Barack Obama during a visit to the United States. ](/news/2012/02/14/the-vice-president-of-the-people-s-republic-of-china-xi-jinping-meets-with-the-president-of-the-united-states-barack-obama-during-a-visit-to.md)
-_Context: United States, Xi Jinping, Barack Obama, Vice-President of the People's Republic of China, U.S. President_
+_Context: Barack Obama, U.S. President, Vice-President of the People's Republic of China, Xi Jinping, United States_
 
 ##### United States
 ### [An employee in the United States embassy in Islamabad is detained in the Pakistani city of Peshawar after bullets are found in his luggage. ](/news/2012/02/14/an-employee-in-the-united-states-embassy-in-islamabad-is-detained-in-the-pakistani-city-of-peshawar-after-bullets-are-found-in-his-luggage.md)
-_Context: United States, Peshawar, Islamabad, Pakistan_
+_Context: Peshawar, Islamabad, Pakistan, United States_
 
 ##### Venezuela
 ### [The Venezuelan Supreme Tribunal orders the opposition not to destroy the voter list following its primary. ](/news/2012/02/14/the-venezuelan-supreme-tribunal-orders-the-opposition-not-to-destroy-the-voter-list-following-its-primary.md)
-_Context: opposition, Venezuela, Supreme Court_
+_Context: Venezuela, opposition, Supreme Court_
 
 ##### World Bank
 ### [The World Bank announces that its President, Robert Zoellick, is stepping down when his term ends in June. ](/news/2012/02/14/the-world-bank-announces-that-its-president-robert-zoellick-is-stepping-down-when-his-term-ends-in-june.md)
@@ -85,7 +85,7 @@ _Context: Kuwait_
 
 ##### Iran
 ### [Thousands of opposition supporters from Iran's Green Movement march silently through the capital Tehran calling for the release of political prisoners. ](/news/2012/02/14/thousands-of-opposition-supporters-from-iran-s-green-movement-march-silently-through-the-capital-tehran-calling-for-the-release-of-political.md)
-_Context: Iranian opposition, Tehran, Iran_
+_Context: Iran, Tehran, Iranian opposition_
 
 ## [Previous Day...](/news/2012/02/13/index.md)
 

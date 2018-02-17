@@ -5,7 +5,7 @@ Formats: [HTML](2012/02/5/index.html)  [JSON](2012/02/5/index.json)  [XML](2012/
 
 ##### Egypt
 ### [An explosion hits the gas pipeline between Egypt, Israel and Jordan in the North Sinai Governorate west of Arish. ](/news/2012/02/5/an-explosion-hits-the-gas-pipeline-between-egypt-israel-and-jordan-in-the-north-sinai-governorate-west-of-arish.md)
-_Context: Egypt, North Sinai Governorate, Jordan, Israel, Arish_
+_Context: Israel, Jordan, North Sinai Governorate, Egypt, Arish_
 
 ##### Afghan
 ### [At least three people die and nine are injured by an explosion in the Afghan city of Kandahar. ](/news/2012/02/5/at-least-three-people-die-and-nine-are-injured-by-an-explosion-in-the-afghan-city-of-kandahar.md)
@@ -21,11 +21,11 @@ Snow has fallen across much of the UK, with up to 10cm expected in places, causi
 
 ##### Australia
 ### [Due to flooding, residents are asked to evacuate the Australian town of St George, Queensland, and the body is found of a woman missing in Roma. ](/news/2012/02/5/due-to-flooding-residents-are-asked-to-evacuate-the-australian-town-of-st-george-queensland-and-the-body-is-found-of-a-woman-missing-in-r.md)
-_Context: Roma, St George, Queensland, Australia_
+_Context: Queensland, Australia, Roma, St George_
 
 ##### Libya
 ### [A Libyan starts court proceedings against 41 people accused of helping Muammar Gaddafi to attempt to suppress the opposition in the Libyan Civil War. ](/news/2012/02/5/a-libyan-starts-court-proceedings-against-41-people-accused-of-helping-muammar-gaddafi-to-attempt-to-suppress-the-opposition-in-the-libyan-c.md)
-_Context: Libya, Muammar Gaddafi, Libyan Civil War_
+_Context: Libyan Civil War, Muammar Gaddafi, Libya_
 
 ##### Bahrain
 ### [Bahraini opposition parties launch a week-long sit in for political reform. ](/news/2012/02/5/bahraini-opposition-parties-launch-a-week-long-sit-in-for-political-reform.md)
@@ -37,15 +37,15 @@ _Context: Sauli Niinisto, Finland, Finnish Presidential election_
 
 ##### Jaber Al-Mubarak Al-Hamad Al-Sabah
 ### [Sheikh Jaber Al-Mubarak Al-Hamad Al-Sabah resigns as the Prime Minister of Kuwait following a strong performance by the Opposition in a recent parliamentary election. ](/news/2012/02/5/sheikh-jaber-al-mubarak-al-hamad-al-sabah-resigns-as-the-prime-minister-of-kuwait-following-a-strong-performance-by-the-opposition-in-a-rece.md)
-_Context: parliamentary election, Jaber Al-Mubarak Al-Hamad Al-Sabah, Prime Minister of Kuwait_
+_Context: parliamentary election, Prime Minister of Kuwait, Jaber Al-Mubarak Al-Hamad Al-Sabah_
 
 ##### Nigeria
 ### [The Nigerian People's Democratic Party wins the governorship in Adamawa State. ](/news/2012/02/5/the-nigerian-people-s-democratic-party-wins-the-governorship-in-adamawa-state.md)
-_Context: Nigeria, Adamawa State, People's Democratic Party_
+_Context: Nigeria, People's Democratic Party, Adamawa State_
 
-##### Mexican
+##### Mexico
 ### [The ruling Mexican National Action Party (PAN) endorses Josefina Vzquez Mota as its candidate for the Presidential election, the first time that a major Mexican party has endorsed a woman to run for President of Mexico. ](/news/2012/02/5/the-ruling-mexican-national-action-party-pan-endorses-josefina-vazquez-mota-as-its-candidate-for-the-presidential-election-the-first-time.md)
-_Context: President of Mexico, Josefina Vzquez Mota, Mexican presidential elections, Mexican, National Action Party (PAN)_
+_Context: Josefina Vzquez Mota, Mexico, National Action Party (PAN), President of Mexico, Mexican presidential elections_
 
 ## [Previous Day...](/news/2012/02/4/index.md)
 

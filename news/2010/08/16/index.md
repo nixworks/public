@@ -5,7 +5,7 @@ Formats: [HTML](2010/08/16/index.html)  [JSON](2010/08/16/index.json)  [XML](201
 
 ##### Philippines Armed Forces
 ### [The Philippine security forces announce they will extend the controversial counter-insurgency tactic Oplan Bantay Laya up until December 31, 2010. The political party Bagong Alyansang Makabayan condemned the extension. ](/news/2010/08/16/the-philippine-security-forces-announce-they-will-extend-the-controversial-counter-insurgency-tactic-oplan-bantay-laya-up-until-december-31.md)
-_Context: Philippines Armed Forces, communist insurgency, Bagong Alyansang Makabayan, Oplan Bantay Laya_
+_Context: Oplan Bantay Laya, Philippines Armed Forces, Bagong Alyansang Makabayan, communist insurgency_
 
 ##### Kashmir
 ### [3 more people are killed during protests in Kashmir. ](/news/2010/08/16/3-more-people-are-killed-during-protests-in-kashmir.md)
@@ -13,9 +13,9 @@ Two suspected militants and a soldier die in a gun battle in Indian-administered
 
 ##### Grenade
 ### [At least 2 people are injured after a grenade explosion outside a Televisa television station in Monterrey, Nuevo Leon, Mexico. ](/news/2010/08/16/at-least-2-people-are-injured-after-a-grenade-explosion-outside-a-televisa-television-station-in-monterrey-nuevo-lea3n-mexico.md)
-_Context: Mexican, grenade, Monterrey, Nuevo Leon, Televisa_
+_Context: Monterrey, Nuevo Leon, Televisa, Mexico, grenade_
 
-##### Mexican
+##### Mexico
 ### [The mayor of the Mexican town of Santiago, Nuevo Leon, Edelmiro Cavazos, is abducted. ](/news/2010/08/16/the-mayor-of-the-mexican-town-of-santiago-nuevo-lea3n-edelmiro-cavazos-is-abducted.md)
 The mayor of the northern Mexican city of Santiago has been abducted, police say.
 
@@ -29,7 +29,7 @@ German singer Nadja Benaissa admits at her trial to having unprotected sex with 
 
 ##### United States
 ### [U.S. actor Michael Douglas begins chemotherapy after doctors discover a tumor in his throat. ](/news/2010/08/16/u-s-actor-michael-douglas-begins-chemotherapy-after-doctors-discover-a-tumor-in-his-throat.md)
-_Context: Michael Douglas, chemotherapy, United States, tumor_
+_Context: chemotherapy, tumor, United States, Michael Douglas_
 
 ##### Etienne Balibar
 ### [Politicians and intellectuals including Etienne Balibar, Noam Chomsky, Daniel Cohn-Bendit and Eva Joly appeal to Nicolas Sarkozy that France repay EUR17 billion it took from Haiti in 1825 after the Haitian Revolution (1791-1804); they say the money is "morally, economically, and legally unassailable" in the aftermath of the January 2010 earthquake. ](/news/2010/08/16/politicians-and-intellectuals-including-atienne-balibar-noam-chomsky-daniel-cohn-bendit-and-eva-joly-appeal-to-nicolas-sarkozy-that-franc.md)
@@ -79,7 +79,7 @@ BANGKOK: Leaders of the anti-government Red-Shirt movement have pleaded not guil
 ### [American Lori Berenson, convicted of collaborating with a left-wing group in Peru, apologises after her release from a 20-year prison sentence; she denies any form of violence or murder. ](/news/2010/08/16/american-lori-berenson-convicted-of-collaborating-with-a-left-wing-group-in-peru-apologises-after-her-release-from-a-20-year-prison-senten.md)
 Lori Berenson, an American who was sentenced in Peru for collaborating with left-wing rebels, has apologised for her actions.
 
-##### Mexican
+##### Mexico
 ### [Mexico's Supreme Court of Justice of the Nation upholds a Mexico City law allowing gay adoption. ](/news/2010/08/16/mexico-s-supreme-court-of-justice-of-the-nation-upholds-a-mexico-city-law-allowing-gay-adoption.md)
 Mexico’s Supreme Court voted Monday to uphold a Mexico City law allowing adoptions by same-sex couples.
 
@@ -113,11 +113,11 @@ An Australian hospital says it has performed the southern hemisphere&#39;s first
 
 ##### Titi monkey
 ### [A new species of Titi monkey, the Caqueta Titi, is discovered in the Colombian department of Caqueta. ](/news/2010/08/16/a-new-species-of-titi-monkey-the-caqueta-titi-is-discovered-in-the-colombian-department-of-caqueta.md)
-_Context: Caqueta, Caqueta Titi, Titi monkey, Colombian department_
+_Context: Caqueta Titi, Colombian department, Caqueta, Titi monkey_
 
 ##### University of Toronto
 ### [Scientists at the University of Toronto claim that mountain climbers George Mallory and Andrew Irvine could not have reached the top of Mount Everest in 1924 as they were caught in a perfect storm. ](/news/2010/08/16/scientists-at-the-university-of-toronto-claim-that-mountain-climbers-george-mallory-and-andrew-irvine-could-not-have-reached-the-top-of-moun.md)
-_Context: Mount Everest, Andrew Irvine, George Mallory, University of Toronto, mountain climber, perfect storm_
+_Context: perfect storm, Andrew Irvine, University of Toronto, mountain climber, George Mallory, Mount Everest_
 
 ## [Previous Day...](/news/2010/08/15/index.md)
 

@@ -37,7 +37,7 @@ Italian police searches on Tuesday of more than 30 Italian soccer clubs includes
 
 ##### Russian President
 ### [Russian president Vladimir Putin confirms that Edward Snowden is currently in a Moscow airport's international area; Russia rejects United States extradition demands. ](/news/2013/06/25/russian-president-vladimir-putin-confirms-that-edward-snowden-is-currently-in-a-moscow-airport-s-international-area-russia-rejects-united-s.md)
-_Context: Edward Snowden, extradition, Moscow, Russian President, Vladimir Putin_
+_Context: Moscow, extradition, Russian President, Edward Snowden, Vladimir Putin_
 
 ##### Rio de Janeiro
 ### [Nine are killed in gun battles between paramilitary forces and drug gangs in Rio de Janeiro favelas. ](/news/2013/06/25/nine-are-killed-in-gun-battles-between-paramilitary-forces-and-drug-gangs-in-rio-de-janeiro-favelas.md)
@@ -61,7 +61,7 @@ _Context: Qatar Emir, Sheikh Tamim bin Hamad al-Than, Hamad bin Khalifa Al Thani
 
 ##### Greek Prime Minister
 ### [The Prime Minister of Greece, Antonis Samaras, reshuffles his cabinet giving more positions to his Panhellenic Socialist Movement coalition partner, appointing its leader Evangelos Venizelos as Deputy Prime Minister and Foreign Minister. ](/news/2013/06/25/the-prime-minister-of-greece-antonis-samaras-reshuffles-his-cabinet-giving-more-positions-to-his-panhellenic-socialist-movement-coalition.md)
-_Context: Evangelos Venizelos, PASOK, Foreign Minister, Greek Prime Minister, Antonis Samaras, Deputy Prime Minister_
+_Context: Antonis Samaras, Greek Prime Minister, Evangelos Venizelos, PASOK, Foreign Minister, Deputy Prime Minister_
 
 ##### FICCI
 ### [FICCI calls on the government of India to legalize sports betting. ](/news/2013/06/25/ficci-calls-on-the-government-of-india-to-legalize-sports-betting.md)

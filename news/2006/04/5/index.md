@@ -5,7 +5,7 @@ Formats: [HTML](2006/04/5/index.html)  [JSON](2006/04/5/index.json)  [XML](2006/
 
 ##### Transplant
 ### [ US scientists have successfully implanted artificial bladders (artificial urinary bladders) grown in the laboratory from patients' own cells into patients. ](/news/2006/04/5/us-scientists-have-successfully-implanted-artificial-bladders-artificial-urinary-bladders-grown-in-the-laboratory-from-patients-own-cell.md)
-_Context: transplant, artificial, urinary bladder, artificial bladder_
+_Context: urinary bladder, artificial, artificial bladder, transplant_
 
 ## [Previous Day...](/news/2006/04/4/index.md)
 

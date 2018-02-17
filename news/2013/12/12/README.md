@@ -37,15 +37,15 @@ North Korea said on Friday Jang Song Thaek, the uncle of leader Kim Jong Un and 
 
 ##### Australia
 ### [Australia's High Court rules same-sex marriages held in the country are invalid. ](/news/2013/12/12/australia-s-high-court-rules-same-sex-marriages-held-in-the-country-are-invalid.md)
-_Context: same-sex marriages, Australia, High Court of Australia_
+_Context: Australia, same-sex marriages, High Court of Australia_
 
 ##### United Nations
 ### [The United Nations says that the legalization of marijuana in Uruguay is a violation of international law. ](/news/2013/12/12/the-united-nations-says-that-the-legalization-of-marijuana-in-uruguay-is-a-violation-of-international-law.md)
-_Context: Uruguay, marijuana, legalization, United Nations, international law_
+_Context: international law, Uruguay, legalization, marijuana, United Nations_
 
 ##### Bangladesh
 ### [Bangladesh hangs Abdul Kader Mullah, a leader of the Bangladesh Jamaat-e-Islami, for committing atrocities in the Bangladesh Liberation War in 1971. ](/news/2013/12/12/bangladesh-hangs-abdul-kader-mullah-a-leader-of-the-bangladesh-jamaat-e-islami-for-committing-atrocities-in-the-bangladesh-liberation-war.md)
-_Context: Abdul Kader Mullah, Bangladesh, independence war, Bangladesh Jamaat-e-Islami_
+_Context: Abdul Kader Mullah, Bangladesh Jamaat-e-Islami, Bangladesh, independence war_
 
 ##### Federal Motor Carrier Safety Administration
 ### [The United States Federal Motor Carrier Safety Administration, the federal bus safety regulator, shuts down 52 busline companies in a major nationwide crackdown on unsafe outfits. ](/news/2013/12/12/the-united-states-federal-motor-carrier-safety-administration-the-federal-bus-safety-regulator-shuts-down-52-busline-companies-in-a-major.md)

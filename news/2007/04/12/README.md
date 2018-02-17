@@ -17,19 +17,19 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Cuba-United States relations
 ### [ Cuba-United States relations: Accused terrorist Luis Posada Carriles is released from jail and handed over to U.S. immigration officials. ](/news/2007/04/12/cuba-united-states-relations-accused-terrorist-luis-posada-carriles-is-released-from-jail-and-handed-over-to-u-s-immigration-officials.md)
-_Context: Accused terrorist, U.S. immigration officials, Luis Posada Carriles, Cuba-United States relations_
+_Context: Luis Posada Carriles, Cuba-United States relations, Accused terrorist, U.S. immigration officials_
 
 ##### George W. Bush administration
 ### [ The Bush administration admits that it may be missing e-mails related to the dismissal of eight United States Attorneys as the Senate Judiciary Committee authorises chairman Patrick Leahy to subpoena documents related to the issue. ](/news/2007/04/12/the-bush-administration-admits-that-it-may-be-missing-e-mails-related-to-the-dismissal-of-eight-united-states-attorneys-as-the-senate-judic.md)
-_Context: chief federal prosecutors, Patrick Leahy, e-mail, George W. Bush administration, dismissal of, United States Senate Committee on the Judiciary, subpoena_
+_Context: e-mail, George W. Bush administration, Patrick Leahy, subpoena, chief federal prosecutors, U.S. Senate Judiciary Committee, dismissal of_
 
 ##### Paul Wolfowitz
 ### [ Paul Wolfowitz, the President of the World Bank, apologizes for his role in a pay scandal involving his girlfriend. ](/news/2007/04/12/paul-wolfowitz-the-president-of-the-world-bank-apologizes-for-his-role-in-a-pay-scandal-involving-his-girlfriend.md)
-_Context: World Bank, Paul Wolfowitz_
+_Context: Paul Wolfowitz, World Bank_
 
 ##### United States
 ### [ U.S. talk radio personality Don Imus is fired by CBS Radio after making racially offensive comments about the Rutgers University women's basketball team. His simulcasted television show "Imus in the Morning" on MSNBC is also cancelled. ](/news/2007/04/12/u-s-talk-radio-personality-don-imus-is-fired-by-cbs-radio-after-making-racially-offensive-comments-about-the-rutgers-university-women-s-ba.md)
-_Context: CBS Radio, television, simulcast, Don Imus, Imus in the Morning, United States, women's basketball team, personality, fired, Rutgers University, MSNBC, talk radio_
+_Context: MSNBC, fired, CBS Radio, Imus in the Morning, simulcast, United States, women's basketball team, Don Imus, Rutgers University, television, personality, talk radio_
 
 ##### Explosion
 ### [ An explosion in the cafeteria of the National Assembly of Iraq kills eight people, including MP Mohammed Awad, and wounds many others. ](/news/2007/04/12/an-explosion-in-the-cafeteria-of-the-national-assembly-of-iraq-kills-eight-people-including-mp-mohammed-awad-and-wounds-many-others.md)
@@ -41,23 +41,23 @@ _Context: Algiers, recent bomb attacks, Al Qaida's, Algeria_
 
 ##### East Timor
 ### [ Several candidates in the first round of the East Timor presidential elections, including the Prime Minister Jos Ramos-Horta, have called for a recount amid allegations of voting irregularities. ](/news/2007/04/12/several-candidates-in-the-first-round-of-the-east-timor-presidential-elections-including-the-prime-minister-jose-ramos-horta-have-called.md)
-_Context: East Timor, Prime Minister of East Timor, presidential elections, recount, Jos Ramos-Horta_
+_Context: Jos Ramos-Horta, East Timor, presidential elections, recount, Prime Minister of East Timor_
 
 ##### North Korea
 ### [ North Korean leader Kim Jong-il dismisses Prime Minister Pak Pong-ju and appoints Kim Yong-il in his place. ](/news/2007/04/12/north-korean-leader-kim-jong-il-dismisses-prime-minister-pak-pong-ju-and-appoints-kim-yong-il-in-his-place.md)
-_Context: Pak Pong-ju, Kim Yong-il, leader, Kim Jong-il, North Korea, Prime Minister_
+_Context: Kim Jong-il, Pak Pong-ju, North Korea, leader, Kim Yong-il, Prime Minister_
 
 ##### Premier of the People's Republic of China
 ### [ Premier of the People's Republic of China Wen Jiabao urges Japan to admit to their actions in World War II during a landmark address to the Diet of Japan. ](/news/2007/04/12/premier-of-the-people-s-republic-of-china-wen-jiabao-urges-japan-to-admit-to-their-actions-in-world-war-ii-during-a-landmark-address-to-the.md)
-_Context: Japan, World War II, Wen Jiabao, Premier of the People's Republic of China, Diet_
+_Context: Diet, World War II, Premier of the People's Republic of China, Japan, Wen Jiabao_
 
 ##### Kremlin
 ### [ The Kremlin vetoes an investigation into the death of Yuri Gagarin on the 46th anniversary of the first orbit of Earth. ](/news/2007/04/12/the-kremlin-vetoes-an-investigation-into-the-death-of-yuri-gagarin-on-the-46th-anniversary-of-the-first-orbit-of-earth.md)
-_Context: Yuri Gagarin, Kremlin, Earth, veto_
+_Context: Yuri Gagarin, Earth, Kremlin, veto_
 
 ##### Anchor handling tug supply vessel
 ### [ The anchor handling tug supply vessel "Bourbon Dolphin" capsizes in the North Sea. Three people are dead and four are missing. ](/news/2007/04/12/the-anchor-handling-tug-supply-vessel-bourbon-dolphin-capsizes-in-the-north-sea-three-people-are-dead-and-four-are-missing.md)
-_Context: North Sea, Bourbon Dolphin, anchor handling tug supply vessel_
+_Context: Bourbon Dolphin, North Sea, anchor handling tug supply vessel_
 
 ## [Previous Day...](/news/2007/04/11/index.md)
 

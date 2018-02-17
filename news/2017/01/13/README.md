@@ -33,7 +33,7 @@ House of Representatives passed legislation for Republicans to proceed with ‘b
 
 ##### Gambian presidential election, 2016
 ### [The African Union says it will cease to recognize Yahya Jammeh as President of The Gambia on January 19, the date he is to hand power over to his opponent Adama Barrow, who won last year's election. ](/news/2017/01/13/the-african-union-says-it-will-cease-to-recognize-yahya-jammeh-as-president-of-the-gambia-on-january-19-the-date-he-is-to-hand-power-over-t.md)
-_Context: Gambian presidential election, 2016, Yahya Jammeh, Adama Barrow, African Union, The Gambia_
+_Context: Yahya Jammeh, The Gambia, African Union, Gambian presidential election, 2016, Adama Barrow_
 
 ##### University of California, Los Angeles
 ### [A UCLA research team, analyzing lunar minerals brought back during the Apollo program, reports that the moon is at least 4.51 billion years old, up to 150 million years older than previous estimates.](/news/2017/01/13/a-ucla-research-team-analyzing-lunar-minerals-brought-back-during-the-apollo-program-reports-that-the-moon-is-at-least-4-51-billion-years.md)

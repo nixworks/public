@@ -9,11 +9,11 @@ Syrian government forces killed at least 100 people on Tuesday in assaults on vi
 
 ##### General
 ### [US General John R. Allen, the head of the International Security Assistance Force in Afghanistan commissions an inquiry into allegations that Qurans were burnt at an American Air Force base as Afghans protest. ](/news/2012/02/21/us-general-john-r-allen-the-head-of-the-international-security-assistance-force-in-afghanistan-commissions-an-inquiry-into-allegations-tha.md)
-_Context: General, United States Air Force, John R. Allen, Quran, International Security Assistance Force, Afghan_
+_Context: United States Air Force, Afghan, John R. Allen, General, Quran, International Security Assistance Force_
 
 ##### Thailand
 ### [Thailand sends an extradition request to Malaysia for one of the five Iranian nationals suspected of involvement in the bombings in Bangkok earlier this month. ](/news/2012/02/21/thailand-sends-an-extradition-request-to-malaysia-for-one-of-the-five-iranian-nationals-suspected-of-involvement-in-the-bombings-in-bangkok.md)
-_Context: extradition, bombings, Bangkok, Iran, Thailand, Malaysia_
+_Context: Thailand, Bangkok, Iran, Malaysia, bombings, extradition_
 
 ##### Indonesia
 ### [Rioting inmates take control of Indonesia's Kerobokan Prison on the island of Bali. ](/news/2012/02/21/rioting-inmates-take-control-of-indonesia-s-kerobokan-prison-on-the-island-of-bali.md)
@@ -21,7 +21,7 @@ Police have reclaimed control of Bali&#039;s infamous Kerobokan prison, which la
 
 ##### 2012 BRIT Awards
 ### [The 2012 BRIT Awards for British popular music are held in O2 Arena in London with Adele, One Direction, Ed Sheeran and Coldplay among the winners. ](/news/2012/02/21/the-2012-brit-awards-for-british-popular-music-are-held-in-o2-arena-in-london-with-adele-one-direction-ed-sheeran-and-coldplay-among-the-w.md)
-_Context: Ed Sheeran, popular music, 2012 BRIT Awards, London, British, Coldplay, O2 Arena, Adele, One Direction_
+_Context: O2 Arena, One Direction, Ed Sheeran, Coldplay, popular music, British, London, Adele, 2012 BRIT Awards_
 
 ##### Euro zone
 ### [Euro zone finance ministers reach an agreement on a second Greek bailout. ](/news/2012/02/21/euro-zone-finance-ministers-reach-an-agreement-on-a-second-greek-bailout.md)
@@ -29,7 +29,7 @@ Euro zone finance ministers struck a deal for a second bailout program for Greec
 
 ##### Liaoning
 ### [A blast at a steel plant in Liaoning, northeastern China, kills 13 people and injures 17. ](/news/2012/02/21/a-blast-at-a-steel-plant-in-liaoning-northeastern-china-kills-13-people-and-injures-17.md)
-_Context: Liaoning, China_
+_Context: Chinese, Liaoning_
 
 ##### South Korea
 ### [The speaker of the South Korean National Assembly is charged with bribery. ](/news/2012/02/21/the-speaker-of-the-south-korean-national-assembly-is-charged-with-bribery.md)

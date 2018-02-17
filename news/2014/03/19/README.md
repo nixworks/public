@@ -21,11 +21,11 @@ _Context: United States, Toyota_
 
 ##### South Africa
 ### [South Africa's Public Protector finds that President Jacob Zuma has "benefitted unduly" from government funded upgrades of his rural residence. ](/news/2014/03/19/south-africa-s-public-protector-finds-that-president-jacob-zuma-has-benefitted-unduly-from-government-funded-upgrades-of-his-rural-residen.md)
-_Context: President of South Africa, South Africa, Public Protector, Jacob Zuma_
+_Context: South Africa, Public Protector, President of South Africa, Jacob Zuma_
 
 ##### Canadian
 ### [Canadian Minister of Finance Jim Flaherty resigns, planning a return to the private sector. Joe Oliver is named to replace him. ](/news/2014/03/19/canadian-minister-of-finance-jim-flaherty-resigns-planning-a-return-to-the-private-sector-joe-oliver-is-named-to-replace-him.md)
-_Context: Finance Minister, Canadian, Jim Flaherty, Joe Oliver_
+_Context: Joe Oliver, Canadian, Finance Minister, Jim Flaherty_
 
 ##### Vietnam
 ### [Vietnam jails prominent blogger for 'anti-state activities'.](/news/2014/03/19/vietnam-jails-prominent-blogger-for-anti-state-activities.md)

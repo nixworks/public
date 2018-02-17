@@ -5,7 +5,7 @@ Formats: [HTML](2011/11/19/index.html)  [JSON](2011/11/19/index.json)  [XML](201
 
 ##### 2011 Syrian uprising
 ### [2011 Syrian uprising: At least 19 people are killed across Syria by security forces as protests continue against the regime of President Bashar al-Assad. ](/news/2011/11/19/2011-syrian-uprising-at-least-19-people-are-killed-across-syria-by-security-forces-as-protests-continue-against-the-regime-of-president-bas.md)
-_Context: 2011 Syrian uprising, Bashar al-Assad, President, Syria_
+_Context: 2011 Syrian uprising, President, Bashar al-Assad, Syria_
 
 ##### Cairo
 ### [At least two people are killed and over 600 injured in violent clashes with police in Cairo's Tahrir Square, following mass protests against Egypt's post-revolutionary military leadership. ](/news/2011/11/19/at-least-two-people-are-killed-and-over-600-injured-in-violent-clashes-with-police-in-cairo-s-tahrir-square-following-mass-protests-against.md)
@@ -21,7 +21,7 @@ Tajikistan has suggested it could free a Russian pilot sentenced to eight and a 
 
 ##### Australians
 ### [Roger Dean, an Australian nurse, is charged with murder in relation to the deaths of five residents of a nursing home in the Sydney suburb of Quakers Hill. ](/news/2011/11/19/roger-dean-an-australian-nurse-is-charged-with-murder-in-relation-to-the-deaths-of-five-residents-of-a-nursing-home-in-the-sydney-suburb-o.md)
-_Context: Quakers Hill, Australians, nursing home, Sydney_
+_Context: nursing home, Australians, Sydney, Quakers Hill_
 
 ##### Attorney General
 ### [English Attorney General Dominic Grieve QC seeks leave to prosecute Sky News for contempt of court over its reporting of the 2009 kidnapping of Paul and Rachel Chandler, after the news channel allegedly breached an injunction preventing the disclosure of the couple's welfare. ](/news/2011/11/19/english-attorney-general-dominic-grieve-qc-seeks-leave-to-prosecute-sky-news-for-contempt-of-court-over-its-reporting-of-the-2009-kidnapping.md)

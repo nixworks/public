@@ -37,7 +37,7 @@ The crew was flying a routine training mission when their UH-60 chopper went dow
 
 ##### United States
 ### [The United States issues a worldwide travel alert due to heightened activity by Islamic State in Iraq and the Levant (aka Da'esh-ISIS), Boko Haram, al-Qa'ida and other terrorist groups through February 24, 2016. ](/news/2015/11/23/the-united-states-issues-a-worldwide-travel-alert-due-to-heightened-activity-by-islamic-state-in-iraq-and-the-levant-aka-daaesh-isis-bo.md)
-_Context: al-Qa'ida, United States, Boko Haram, Islamic State in Iraq and the Levant_
+_Context: Boko Haram, United States, Islamic State in Iraq and the Levant, al-Qa'ida_
 
 ##### Hong Kong local elections, 2015
 ### [Hong Kong's pro-democracy movement gets a boost with Umbrella Soldiers winning at least four seats in Sunday's election although the distribution of political power over the district council seats remains broadly the same vis-a-vis the Hong Kong local elections, 2011. ](/news/2015/11/23/hong-kong-s-pro-democracy-movement-gets-a-boost-with-umbrella-soldiers-winning-at-least-four-seats-in-sunday-s-election-although-the-distrib.md)

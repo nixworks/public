@@ -5,7 +5,7 @@ Formats: [HTML](2004/05/22/index.html)  [JSON](2004/05/22/index.json)  [XML](200
 
 ##### Felipe, Prince of Asturias
 ### [ Spain's Crown Prince Felipe marries Letizia Ortiz in Madrid. ](/news/2004/05/22/spain-s-crown-prince-felipe-marries-letizia-ortiz-in-madrid.md)
-_Context: Madrid, Felipe, Prince of Asturias, princess Letizia_
+_Context: princess Letizia, Madrid, Felipe, Prince of Asturias_
 
 ##### Commonwealth of Nations
 ### [ The Commonwealth Secretariat announces it will re-admit Pakistan to the Commonwealth, five years after its suspension. Continuing concerns about democracy will be monitored. ](/news/2004/05/22/the-commonwealth-secretariat-announces-it-will-re-admit-pakistan-to-the-commonwealth-five-years-after-its-suspension-continuing-concerns.md)
@@ -17,7 +17,7 @@ _Context: Manmohan Singh, Indian Prime Minister_
 
 ##### Premier League
 ### [ English Premier League football side Manchester United defeat Millwall of the First Division 3-0 to win the FA Cup. ](/news/2004/05/22/english-premier-league-football-side-manchester-united-defeat-millwall-of-the-first-division-3a0-to-win-the-fa-cup.md)
-_Context: First Division, Millwall, Manchester United, Premier League, football, FA Cup_
+_Context: football, FA Cup, First Division, Manchester United, Millwall, Premier League_
 
 ## [Previous Day...](/news/2004/05/21/index.md)
 

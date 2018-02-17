@@ -5,7 +5,7 @@ Formats: [HTML](2012/02/2/index.html)  [JSON](2012/02/2/index.json)  [XML](2012/
 
 ##### Philippines
 ### [The Philippines military claim to have killed Abu Sayyaf leader Umbra Jumdail, Malaysian Zulkifli bin Hir, a leader of Jemaah Islamiyah, and Singaporean Abdullah Ali. ](/news/2012/02/2/the-philippines-military-claim-to-have-killed-abu-sayyaf-leader-umbra-jumdail-malaysian-zulkifli-bin-hir-a-leader-of-jemaah-islamiyah-and.md)
-_Context: Philippines, Abu Sayyaf, Jemaah Islamiyah, Zulkifli bin Hir, Umbra Jumdail, Malaysian_
+_Context: Abu Sayyaf, Zulkifli bin Hir, Malaysian, Philippines, Jemaah Islamiyah, Umbra Jumdail_
 
 ##### Yemen
 ### [Six kidnapped aid workers are released in Yemen. ](/news/2012/02/2/six-kidnapped-aid-workers-are-released-in-yemen.md)
@@ -21,7 +21,7 @@ More than 100 people are missing and about 230 are rescued after a ferry sinks o
 
 ##### Europe
 ### [More than 110 people are killed across Europe as a result of a recent cold snap. ](/news/2012/02/2/more-than-110-people-are-killed-across-europe-as-a-result-of-a-recent-cold-snap.md)
-_Context: Early 2012 European cold wave, Europe_
+_Context: Europe, Early 2012 European cold wave_
 
 ##### Australia
 ### [Thousands of residents of Australian towns Bellingen and Moree, New South Wales are warned to prepare to evacuate as a result of heavy rain. ](/news/2012/02/2/thousands-of-residents-of-australian-towns-bellingen-and-moree-new-south-wales-are-warned-to-prepare-to-evacuate-as-a-result-of-heavy-rain.md)
@@ -37,11 +37,11 @@ Corruption charges against former West Australian Labor premier Brian Burke have
 
 ##### Supreme Court of India
 ### [The Supreme Court of India cancels 122 telecom licences granted in the 2008 sale at the centre of a corruption scandal involving former minister A. Raja. ](/news/2012/02/2/the-supreme-court-of-india-cancels-122-telecom-licences-granted-in-the-2008-sale-at-the-centre-of-a-corruption-scandal-involving-former-mini.md)
-_Context: Supreme Court of India, telecom, A. Raja_
+_Context: A. Raja, telecom, Supreme Court of India_
 
 ##### French-born
 ### [A French appeals court upholds a 2009 conviction of the Church of Scientology on fraud charges. ](/news/2012/02/2/a-french-appeals-court-upholds-a-2009-conviction-of-the-church-of-scientology-on-fraud-charges.md)
-_Context: French-born, Church of Scientology, fraud_
+_Context: Church of Scientology, fraud, French-born_
 
 ##### Egypt
 ### [Egyptian comedian Adel Emam is sentenced to three months in prison for insulting Islam. ](/news/2012/02/2/egyptian-comedian-adel-emam-is-sentenced-to-three-months-in-prison-for-insulting-islam.md)

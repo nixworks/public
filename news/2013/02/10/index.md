@@ -9,7 +9,7 @@ Malian troops and suspected Islamist militants are exchanging heavy gunfire in G
 
 ##### Thailand
 ### [A roadside bombing in Thailand's southern Yala Province kills 5 soldiers and injures three others. ](/news/2013/02/10/a-roadside-bombing-in-thailand-s-southern-yala-province-kills-5-soldiers-and-injures-three-others.md)
-_Context: Thailand, Yala Province_
+_Context: Yala Province, Thailand_
 
 ##### Boko Haram
 ### [Suspected Boko Haram militants kill three doctors in the northeastern Nigerian region of Yobe. Their nationality is disputed, with reports suggesting they are South Korean, North Korean or Chinese. ](/news/2013/02/10/suspected-boko-haram-militants-kill-three-doctors-in-the-northeastern-nigerian-region-of-yobe-their-nationality-is-disputed-with-reports-s.md)
@@ -41,7 +41,7 @@ A stampede at a railway station in Allahabad killed at least 36 Hindu pilgrims o
 
 ##### 2013 Hattiesburg, Mississippi tornado
 ### [2013 Hattiesburg, Mississippi tornado: A tornado causes significant damage to the American town of Hattiesburg, Mississippi. ](/news/2013/02/10/2013-hattiesburg-mississippi-tornado-a-tornado-causes-significant-damage-to-the-american-town-of-hattiesburg-mississippi.md)
-_Context: 2013 Hattiesburg, Mississippi tornado, tornado, Mississippi, United States, Hattiesburg_
+_Context: tornado, Hattiesburg, 2013 Hattiesburg, Mississippi tornado, Mississippi, United States_
 
 ##### Lifeboat
 ### [A lifeboat falls off of a cruise ship MS Thomson Majesty while it was docked in the port of Santa Cruz de La Palma in the Canary Islands, killing 5 people. ](/news/2013/02/10/a-lifeboat-falls-off-of-a-cruise-ship-ms-thomson-majesty-while-it-was-docked-in-the-port-of-santa-cruz-de-la-palma-in-the-canary-islands-ki.md)
@@ -49,7 +49,7 @@ A lifeboat fell off a cruise ship docked in the Canary Islands and into the sea,
 
 ##### Bell 206
 ### [Three crew members are killed when a Bell 206 helicopter crashes at the Polsa Rosa Movie Ranch in Acton, California, United States, while filming a documentary. ](/news/2013/02/10/three-crew-members-are-killed-when-a-bell-206-helicopter-crashes-at-the-polsa-rosa-movie-ranch-in-acton-california-united-states-while-fi.md)
-_Context: Acton, Polsa Rosa Movie Ranch, helicopter, Bell 206, California, United States_
+_Context: helicopter, Bell 206, Acton, United States, Polsa Rosa Movie Ranch, California_
 
 ##### Cruise ship
 ### [Cruise ship "Carnival Triumph" suffers a fire in the aft engine room. The fire is automatically extinguished, but it results in a loss of power and propulsion. There are no casualties or injuries to passengers or crew. ](/news/2013/02/10/cruise-ship-carnival-triumph-suffers-a-fire-in-the-aft-engine-room-the-fire-is-automatically-extinguished-but-it-results-in-a-loss-of-po.md)
@@ -61,7 +61,7 @@ Officials this afternoon offered a $1 million reward for information leading to 
 
 ##### Prime Minister of Tunisia
 ### [Prime Minister of Tunisia Hamadi Jebali says he will resign if a new "technocratic" government cannot be formed in a few days. Amid protests one policeman dies and tens of protesters are injured. ](/news/2013/02/10/prime-minister-of-tunisia-hamadi-jebali-says-he-will-resign-if-a-new-technocratic-government-cannot-be-formed-in-a-few-days-amid-protests.md)
-_Context: Prime Minister of Tunisia, Tunisia, Hamadi Jebali_
+_Context: Hamadi Jebali, Prime Minister of Tunisia, Tunisia_
 
 ##### Boeing Company
 ### [Boeing conducts the first test flight of the Dreamliner since it was taken out of service for battery problems. ](/news/2013/02/10/boeing-conducts-the-first-test-flight-of-the-dreamliner-since-it-was-taken-out-of-service-for-battery-problems.md)

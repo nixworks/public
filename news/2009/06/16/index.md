@@ -13,11 +13,11 @@ French President NicolasSarkozy and a dozen heads of state from around Africa ga
 
 ##### Russia
 ### [ Russia vetoes a plan to extend the United Nations Observer Mission in Georgia. ](/news/2009/06/16/russia-vetoes-a-plan-to-extend-the-united-nations-observer-mission-in-georgia.md)
-_Context: Russia,  Georgian, United Nations Observer Mission_
+_Context: Russia, United Nations Observer Mission,  Georgian_
 
 ##### Brian Friel
 ### [ Playwright Brian Friel is honoured with the Ulysses Medal on Bloomsday at University College Dublin. ](/news/2009/06/16/playwright-brian-friel-is-honoured-with-the-ulysses-medal-on-bloomsday-at-university-college-dublin.md)
-_Context: Ulysses Medal, University College Dublin, Brian Friel, Bloomsday_
+_Context: Brian Friel, University College Dublin, Ulysses Medal, Bloomsday_
 
 ##### Indonesia
 ### [ A coal mine collapses in Indonesia, killing at least six people. ](/news/2009/06/16/a-coal-mine-collapses-in-indonesia-killing-at-least-six-people.md)
@@ -37,11 +37,11 @@ _Context: Afghan, presidential election_
 
 ##### General Motors
 ### [ General Motors agrees Saab sale to Koenigsegg ](/news/2009/06/16/general-motors-agrees-saab-sale-to-koenigsegg.md)
-_Context: General Motors, Koenigsegg, Saab Automobile_
+_Context: Koenigsegg, Saab Automobile, General Motors_
 
 ##### Sri Lanka
 ### [ A Sri Lankan government investigation into human rights abuses during its offensive with Tamil Tiger rebels disbands. ](/news/2009/06/16/a-sri-lankan-government-investigation-into-human-rights-abuses-during-its-offensive-with-tamil-tiger-rebels-disbands.md)
-_Context: human rights, government, LTTE, Sri Lanka, offensive_
+_Context: Sri Lanka, offensive, human rights, LTTE, government_
 
 ##### Irish
 ### [ 15 laptops containing confidential information owned by Ireland's Health Service Executive are stolen in Roscommon. ](/news/2009/06/16/15-laptops-containing-confidential-information-owned-by-ireland-s-health-service-executive-are-stolen-in-roscommon.md)
@@ -53,7 +53,7 @@ Germany&#39;s ZEW confidence index surged in June to the highest level for more 
 
 ##### John Sawers
 ### [ Sir John Sawers is named head of MI6. ](/news/2009/06/16/sir-john-sawers-is-named-head-of-mi6.md)
-_Context: Secret Intelligence Service, John Sawers_
+_Context: John Sawers, Secret Intelligence Service_
 
 ##### Sammy Sosa
 ### [ Sammy Sosa, one of six Major League Baseball players to have hit 600 home runs in his career, is reported to have tested positive for performance-enhancing drugs during the 2003 season. ](/news/2009/06/16/sammy-sosa-one-of-six-major-league-baseball-players-to-have-hit-600-home-runs-in-his-career-is-reported-to-have-tested-positive-for-perfo.md)
@@ -61,7 +61,7 @@ Sammy Sosa, who joined Mark McGwire in 1998 in pursuit of the single-season home
 
 ##### Food & Drug Administration
 ### [ The U.S. Food & Drug Administration advised people not to use Zicam intranasal products that contain zinc, due to the risk of anosmia. ](/news/2009/06/16/the-u-s-food-drug-administration-advised-people-not-to-use-zicam-intranasal-products-that-contain-zinc-due-to-the-risk-of-anosmia.md)
-_Context: Zicam, Food & Drug Administration, anosmia_
+_Context: anosmia, Zicam, Food & Drug Administration_
 
 ## [Previous Day...](/news/2009/06/15/index.md)
 

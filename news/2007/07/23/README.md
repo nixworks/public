@@ -5,7 +5,7 @@ Formats: [HTML](2007/07/23/index.html)  [JSON](2007/07/23/index.json)  [XML](200
 
 ##### United Kingdom
 ### [ The British MP George Galloway is thrown out of the House of Commons chamber and then suspended for 18 days after an inquiry into his Mariam Appeal campaign. ](/news/2007/07/23/the-british-mp-george-galloway-is-thrown-out-of-the-house-of-commons-chamber-and-then-suspended-for-18-days-after-an-inquiry-into-his-maria.md)
-_Context: British House of Commons, Mariam Appeal, George Galloway, United Kingdom_
+_Context: Mariam Appeal, United Kingdom, British House of Commons, George Galloway_
 
 ##### United States
 ### [ The United States arrests Zhenli Ye Gon, a Mexican citizen accused of making large amounts of crystal meth in a laboratory. ](/news/2007/07/23/the-united-states-arrests-zhenli-ye-gon-a-mexican-citizen-accused-of-making-large-amounts-of-crystal-meth-in-a-laboratory.md)
@@ -29,23 +29,23 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 
 ##### Japan
 ### [ Japan allows International Atomic Energy Agency inspectors to visit the Kashiwazaki-Kariwa Nuclear Power Plant shut down after the recent 2007 Chuetsu offshore earthquake. ](/news/2007/07/23/japan-allows-international-atomic-energy-agency-inspectors-to-visit-the-kashiwazaki-kariwa-nuclear-power-plant-shut-down-after-the-recent-2.md)
-_Context: IAEA, 2007 Chuetsu offshore earthquake, Kashiwazaki-Kariwa Nuclear Power Plant, Japan_
+_Context: 2007 Chuetsu offshore earthquake, IAEA, Japan, Kashiwazaki-Kariwa Nuclear Power Plant_
 
 ##### Flood
 ### [ Flash floods and landslides in central Indonesia kill at least 30 people. ](/news/2007/07/23/flash-floods-and-landslides-in-central-indonesia-kill-at-least-30-people.md)
-_Context: flood, landslide, Indonesia_
+_Context: flood, Indonesia, landslide_
 
 ##### Release 23 of its captured fighters
 ### [ The 2007 Taliban-seized South Korean hostage crisis: The Taliban sets a new deadline for the South Korean captives. ](/news/2007/07/23/the-2007-taliban-seized-south-korean-hostage-crisis-the-taliban-sets-a-new-deadline-for-the-south-korean-captives.md)
-_Context: South Korea, Taliban, release 23 of its captured fighters_
+_Context: South Korea, release 23 of its captured fighters, Taliban_
 
-##### China
+##### Chinese
 ### [ Storms continue in China with floods and landslides with 150 deaths occurring last week in the country due to storms. ](/news/2007/07/23/storms-continue-in-china-with-floods-and-landslides-with-150-deaths-occurring-last-week-in-the-country-due-to-storms.md)
 Storms are expected to batter large swathes of China again on Monday after floods, landslides and lightning killed more than 150 people last week alone, state media said.
 
 ##### Drew Carey
 ### [ Comedian Drew Carey will replace Bob Barker as host of "The Price Is Right". ](/news/2007/07/23/comedian-drew-carey-will-replace-bob-barker-as-host-of-the-price-is-right.md)
-_Context: The Price Is Right, Drew Carey, Bob Barker_
+_Context: The Price Is Right, Bob Barker, Drew Carey_
 
 ## [Previous Day...](/news/2007/07/22/index.md)
 

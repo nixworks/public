@@ -5,7 +5,7 @@ Formats: [HTML](2010/10/13/index.html)  [JSON](2010/10/13/index.json)  [XML](201
 
 ##### Kurdistan Workers' Party
 ### [Two soldiers died and another one was injured in clash with PKK militants in Ovacik township of southeastern province of Tunceli, Turkey. ](/news/2010/10/13/two-soldiers-died-and-another-one-was-injured-in-clash-with-pkk-militants-in-ovacik-township-of-southeastern-province-of-tunceli-turkey.md)
-_Context: Ovacik, Tunceli, Kurdistan Workers' Party_
+_Context: Ovacik, Kurdistan Workers' Party, Tunceli_
 
 ##### Pakistan
 ### [The death toll has risen to 11 following a U.S. drone strike launched late Wednesday night in the Datta Khell area of Pakistan. ](/news/2010/10/13/the-death-toll-has-risen-to-11-following-a-u-s-drone-strike-launched-late-wednesday-night-in-the-datta-khell-area-of-pakistan.md)
@@ -13,11 +13,11 @@ _Context: Pakistan_
 
 ##### Somali pirates
 ### [Somali pirates release Puntland's Ports Minister Said Mohamed Rageh who was kidnapped last Friday. ](/news/2010/10/13/somali-pirates-release-puntland-s-ports-minister-said-mohamed-rageh-who-was-kidnapped-last-friday.md)
-_Context: Somali pirates, Said Mohamed Rageh, Puntland_
+_Context: Said Mohamed Rageh, Somali pirates, Puntland_
 
 ##### Iran
 ### [Iran's Fars News Agency (FNA) announces that 18 people were killed in a blast at one of the Revolutionary Guards' bases in Luristan Province. ](/news/2010/10/13/iran-s-fars-news-agency-fna-announces-that-18-people-were-killed-in-a-blast-at-one-of-the-revolutionary-guards-bases-in-luristan-province.md)
-_Context: Fars News Agency, Iran, Luristan Province, Revolutionary Guards_
+_Context: Revolutionary Guards, Fars News Agency, Luristan Province, Iran_
 
 ##### War in Afghanistan
 ### [8 people are feared dead after a cargo plane crash near Kabul. ](/news/2010/10/13/8-people-are-feared-dead-after-a-cargo-plane-crash-near-kabul.md)
@@ -29,7 +29,7 @@ _Context: War in Afghanistan_
 
 ##### India
 ### [India will spend $2.3 trillion by 2030 to attempt to improve energy efficiency and use of clean technology.](/news/2010/10/13/india-will-spend-2-3-trillion-by-2030-to-attempt-to-improve-energy-efficiency-and-use-of-clean-technology.md)
-_Context: clean technology, India, energy efficiency_
+_Context: India, energy efficiency, clean technology_
 
 ##### France
 ### [French unions continue mass strikes for a second day with over one million people protesting on Tuesday against pension reform. ](/news/2010/10/13/french-unions-continue-mass-strikes-for-a-second-day-with-over-one-million-people-protesting-on-tuesday-against-pension-reform.md)
@@ -65,7 +65,7 @@ Twenty-three veterans of the Communist Party write open letter, calling for scra
 
 ##### Premier
 ### [Chinese Premier Wen Jiabao calls for reform of China's political system in the lead-up to a four-day annual policy meeting of Communist Party leaders. ](/news/2010/10/13/chinese-premier-wen-jiabao-calls-for-reform-of-china-s-political-system-in-the-lead-up-to-a-four-day-annual-policy-meeting-of-communist-part.md)
-_Context: Premier, Wen Jiabao_
+_Context: Wen Jiabao, Premier_
 
 ## [Previous Day...](/news/2010/10/12/index.md)
 

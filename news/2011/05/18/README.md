@@ -17,7 +17,7 @@ _Context: Pakistani police, Peshawar, Pakistan_
 
 ##### Iran
 ### [Iran frees detained Al-Jazeera journalist Dorothy Parvaz, who had not been seen since being detained in Syria on April 29. ](/news/2011/05/18/iran-frees-detained-al-jazeera-journalist-dorothy-parvaz-who-had-not-been-seen-since-being-detained-in-syria-on-april-29.md)
-_Context: Syria, Dorothy Parvaz, Al-Jazeera, Iran_
+_Context: Iran, Al-Jazeera, Dorothy Parvaz, Syria_
 
 ##### Afghan
 ### [At least twelve people are killed and 80 injured during a protest in the Afghan city of Taloqan against the killing of four civilians in a NATO raid. ](/news/2011/05/18/at-least-twelve-people-are-killed-and-80-injured-during-a-protest-in-the-afghan-city-of-taloqan-against-the-killing-of-four-civilians-in-a-n.md)
@@ -25,7 +25,7 @@ At least 12 people are shot dead and 80 wounded by security forces in northern A
 
 ##### United States
 ### [The United States announces plans to impose sanctions on the President of Syria, Bashar al-Assad, and six members of his government, for alleged human rights breaches during the 2011 Syrian uprising. ](/news/2011/05/18/the-united-states-announces-plans-to-impose-sanctions-on-the-president-of-syria-bashar-al-assad-and-six-members-of-his-government-for-all.md)
-_Context: President, Bashar al-Assad, United States, 2011 Syrian uprising, human rights_
+_Context: Bashar al-Assad, 2011 Syrian uprising, human rights, President, United States_
 
 ##### United Nations
 ### [The United Nations claims that Sudan has bombed a village in Darfur. ](/news/2011/05/18/the-united-nations-claims-that-sudan-has-bombed-a-village-in-darfur.md)
@@ -49,11 +49,11 @@ The US Coast Guard re-opens a section of the swollen Mississippi River to shippi
 
 ##### Tornado
 ### [A tornado hits the US city of Philadelphia, Pennsylvania for the first time since 1999. ](/news/2011/05/18/a-tornado-hits-the-us-city-of-philadelphia-pennsylvania-for-the-first-time-since-1999.md)
-_Context: Philadelphia, Pennsylvania, Pennsylvania, tornado_
+_Context: Philadelphia, Pennsylvania, tornado, Pennsylvania_
 
 ##### Sol Lneas Areas
 ### [Sol Lneas Areas Flight 5428 aircraft crashes in the southern Patagonia region of Argentina with all 22 people on board dying - icing of the propellor driven Saab 340 is cited as a possible cause. ](/news/2011/05/18/sol-lineas-aereas-flight-5428-aircraft-crashes-in-the-southern-patagonia-region-of-argentina-with-all-22-people-on-board-dying-icing-of-th.md)
-_Context: Saab 340, Argentina, Patagonia, Flight 5428, Sol Lneas Areas_
+_Context: Argentina, Patagonia, Saab 340, Flight 5428, Sol Lneas Areas_
 
 ##### Palestinian Authority
 ### [The Palestinian Authority calls on Israel to reinstate the rights of up to 140,000 people who lived in the occupied West Bank and lost their residency after travelling abroad. ](/news/2011/05/18/the-palestinian-authority-calls-on-israel-to-reinstate-the-rights-of-up-to-140-000-people-who-lived-in-the-occupied-west-bank-and-lost-their.md)
@@ -61,11 +61,11 @@ The Palestinian Authority wants Israel to reinstate the lost residency rights of
 
 ##### Dmitry Medvedev
 ### [Dmitry Medvedev, the President of Russia, warns of a potential new Cold War if the United States does not listen to Russia's concerns about its proposed missile defense system. ](/news/2011/05/18/dmitry-medvedev-the-president-of-russia-warns-of-a-potential-new-cold-war-if-the-united-states-does-not-listen-to-russia-s-concerns-about.md)
-_Context: Russia, Cold War, Russian President, Dmitry Medvedev, United States, missile defense_
+_Context: missile defense, Cold War, Russian President, Dmitry Medvedev, United States, Russia_
 
 ##### UK royal state visit to Ireland
 ### [UK royal state visit to Ireland: Queen Elizabeth II of the United Kingdom visits Croke Park in Dublin, where British troops killed 20 people in the Bloody Sunday massacre of 1920. ](/news/2011/05/18/uk-royal-state-visit-to-ireland-queen-elizabeth-ii-of-the-united-kingdom-visits-croke-park-in-dublin-where-british-troops-killed-20-people.md)
-_Context: UK royal state visit to Ireland, United Kingdom, Croke Park, Bloody Sunday massacre of 1920, Queen Elizabeth II, Dublin_
+_Context: Dublin, Croke Park, Queen Elizabeth II, Bloody Sunday massacre of 1920, UK royal state visit to Ireland, United Kingdom_
 
 ##### Ali Akbar Salehi
 ### [Ali Akbar Salehi, the Foreign Affairs Minister of Iran, claims that the Bushehr Nuclear Power Plant is operational. ](/news/2011/05/18/ali-akbar-salehi-the-foreign-affairs-minister-of-iran-claims-that-the-bushehr-nuclear-power-plant-is-operational.md)
@@ -73,15 +73,15 @@ Nuclear power plant has reached critical mass, will be powered up within weeks, 
 
 ##### Andrew Fastow
 ### [Andrew Fastow, the former Chief Financial Officer of Enron Corp., now in the custody of the Federal Bureau of Prisons with a release date of December 17, 2011, moves to a half-way house in Houston, Texas. ](/news/2011/05/18/andrew-fastow-the-former-chief-financial-officer-of-enron-corp-now-in-the-custody-of-the-federal-bureau-of-prisons-with-a-release-date-of.md)
-_Context: Texas, Houston, Chief Financial Officer, Enron Corp., Andrew Fastow, Federal Bureau of Prisons_
+_Context: Chief Financial Officer, Houston, Texas, Federal Bureau of Prisons, Andrew Fastow, Enron Corp._
 
 ##### Chicago
 ### [The jury is seated for the trial of Chicago businessman Tahawwur Hussain Rana for his alleged role in the 2008 Mumbai terrorist attacks. ](/news/2011/05/18/the-jury-is-seated-for-the-trial-of-chicago-businessman-tahawwur-hussain-rana-for-his-alleged-role-in-the-2008-mumbai-terrorist-attacks.md)
-_Context: Chicago, Tahawwur Hussain Rana, 2008 Mumbai attacks_
+_Context: Tahawwur Hussain Rana, 2008 Mumbai attacks, Chicago_
 
 ##### Guatemalan President
 ### [The President of Guatemala, Alvaro Colom, claims that Hugo Alvaro Gomez Vasquez, who has been arrested in relation to the killing of 27 cattle ranch workers, is a leader of the Los Zetas drug cartel in the country. ](/news/2011/05/18/the-president-of-guatemala-alvaro-colom-claims-that-hugo-alvaro-gomez-vasquez-who-has-been-arrested-in-relation-to-the-killing-of-27-catt.md)
-_Context: Los Zetas Cartel, Hugo Alvaro Gomez Vasquez, Alvaro Colom, Guatemalan President, cattle ranch_
+_Context: Guatemalan President, Alvaro Colom, cattle ranch, Hugo Alvaro Gomez Vasquez, Los Zetas Cartel_
 
 ##### Afghan
 ### [An Afghan detainee commits suicide at the US run Guantanamo Bay detention camp. ](/news/2011/05/18/an-afghan-detainee-commits-suicide-at-the-us-run-guantanamo-bay-detention-camp.md)
@@ -93,11 +93,11 @@ South Africans go to the polls to vote in local elections after one of the most 
 
 ##### San Francisco, California
 ### [Voters in the US city of San Francisco, California, will vote on a proposition to ban male circumcision in November. ](/news/2011/05/18/voters-in-the-us-city-of-san-francisco-california-will-vote-on-a-proposition-to-ban-male-circumcision-in-november.md)
-_Context: California, San Francisco, California, male circumcision_
+_Context: California, male circumcision, San Francisco, California_
 
 ##### Space Shuttle ''Endeavour''
 ### [The Space Shuttle "Endeavour" docks at the International Space Station for the final time. ](/news/2011/05/18/the-space-shuttle-endeavour-docks-at-the-international-space-station-for-the-final-time.md)
-_Context: International Space Station, final mission, Space Shuttle ''Endeavour''_
+_Context: Space Shuttle ''Endeavour'', final mission, International Space Station_
 
 ## [Previous Day...](/news/2011/05/17/index.md)
 

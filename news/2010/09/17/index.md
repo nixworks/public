@@ -5,15 +5,15 @@ Formats: [HTML](2010/09/17/index.html)  [JSON](2010/09/17/index.json)  [XML](201
 
 ##### International Security Assistance Force
 ### [A soldier with the NATO-led International Security Assistance Force (ISAF) was killed in South Afghanistan. ](/news/2010/09/17/a-soldier-with-the-nato-led-international-security-assistance-force-isaf-was-killed-in-south-afghanistan.md)
-_Context: International Security Assistance Force, South Afghanistan, ISAF_
+_Context: ISAF, International Security Assistance Force, South Afghanistan_
 
 ##### Manokwari
 ### [Security is increased in Manokwari, West Papua, after protests against the killing of two people by Indonesian police. ](/news/2010/09/17/security-is-increased-in-manokwari-west-papua-after-protests-against-the-killing-of-two-people-by-indonesian-police.md)
-_Context: Manokwari, Indonesia, West Papua_
+_Context: Manokwari, West Papua, Indonesia_
 
 ##### Israeli Army
 ### [Israeli troops kill Hamas militant Iyad Abu Shilbaya in an arrest raid in the West Bank. ](/news/2010/09/17/israeli-troops-kill-hamas-militant-iyad-abu-shilbaya-in-an-arrest-raid-in-the-west-bank.md)
-_Context: Hamas, Israeli Army, West Bank_
+_Context: Israeli Army, Hamas, West Bank_
 
 ##### Iraqi Army
 ### [An Iraqi Army soldier is killed and eleven people are wounded following two bombs going off in Baghdad. ](/news/2010/09/17/an-iraqi-army-soldier-is-killed-and-eleven-people-are-wounded-following-two-bombs-going-off-in-baghdad.md)
@@ -29,7 +29,7 @@ _Context: Satyajit Ray, India_
 
 ##### Hanif Kureishi
 ### [Hanif Kureishi is awarded the PEN-Pinter prize. ](/news/2010/09/17/hanif-kureishi-is-awarded-the-pen-pinter-prize.md)
-_Context: PEN/Pinter prize, Hanif Kureishi_
+_Context: Hanif Kureishi, PEN/Pinter prize_
 
 ##### South Africa
 ### [Producers on the South African version of the "Big Brother" TV series evict a male housemate who punched a female housemate, bowing to pressure from women's rights activists after initially accepting the physical confrontation. ](/news/2010/09/17/producers-on-the-south-african-version-of-the-big-brother-tv-series-evict-a-male-housemate-who-punched-a-female-housemate-bowing-to-press.md)
@@ -45,7 +45,7 @@ Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, c
 
 ##### United Airlines
 ### [United Airlines shareholders meeting in Elk Grove, Illinois in Cook County, approve a deal to merge with Continental Airlines to create the world's biggest airline. ](/news/2010/09/17/united-airlines-shareholders-meeting-in-elk-grove-illinois-in-cook-county-approve-a-deal-to-merge-with-continental-airlines-to-create-the.md)
-_Context: Elk Grove, Continental Airlines, shareholder, United Airlines, Illinois_
+_Context: Continental Airlines, United Airlines, Elk Grove, shareholder, Illinois_
 
 ##### United Nations
 ### [The United Nations launches an appeal for more than $2 billion in the wake of the 2010 Pakistan floods: this represents the organisation's biggest response to a natural disaster. ](/news/2010/09/17/the-united-nations-launches-an-appeal-for-more-than-2-billion-in-the-wake-of-the-2010-pakistan-floods-this-represents-the-organisation-s-b.md)
@@ -65,7 +65,7 @@ A drill reaches the 33 men trapped in a Chilean mine since early August, but it 
 
 ##### New Zealand
 ### [A large storm hits New Zealand with severe weather warnings in place for both the North and South Island for several days. ](/news/2010/09/17/a-large-storm-hits-new-zealand-with-severe-weather-warnings-in-place-for-both-the-north-and-south-island-for-several-days.md)
-_Context: New Zealand, North Island, weather warnings, South Island_
+_Context: North Island, South Island, weather warnings, New Zealand_
 
 ##### Hurricane Karl
 ### [Hurricane Karl reaches Category 3 strength prior to making landfall in Mexico just north of Veracruz. Two people are killed in a mudslide. ](/news/2010/09/17/hurricane-karl-reaches-category-3-strength-prior-to-making-landfall-in-mexico-just-north-of-veracruz-two-people-are-killed-in-a-mudslide.md)
@@ -73,7 +73,7 @@ _Context: New Zealand, North Island, weather warnings, South Island_
 
 ##### BP
 ### [BP starts pumping cement into the Deepwater Horizon oil well in the Gulf of Mexico at the culmination of cleanup efforts for the Deepwater Horizon oil spill. ](/news/2010/09/17/bp-starts-pumping-cement-into-the-deepwater-horizon-oil-well-in-the-gulf-of-mexico-at-the-culmination-of-cleanup-efforts-for-the-deepwater-h.md)
-_Context: BP, Deepwater Horizon, Gulf of Mexico, Deepwater Horizon oil spill_
+_Context: Deepwater Horizon oil spill, BP, Gulf of Mexico, Deepwater Horizon_
 
 ##### Japan
 ### [Japan says China has shipped drilling equipment to a disputed gas field amid a diplomatic row over the seizure of a Chinese fishing boat captain near the disputed Senkaku Islands. ](/news/2010/09/17/japan-says-china-has-shipped-drilling-equipment-to-a-disputed-gas-field-amid-a-diplomatic-row-over-the-seizure-of-a-chinese-fishing-boat-cap.md)
@@ -85,11 +85,11 @@ A husband and wife team of former nuclear contractors are charged in the US with
 
 ##### Poland
 ### [Poland arrests exiled Chechen rebel leader Akhmed Zakayev. ](/news/2010/09/17/poland-arrests-exiled-chechen-rebel-leader-akhmed-zakayev.md)
-_Context: Poland, Akhmed Zakayev, Chechen_
+_Context: Chechen, Poland, Akhmed Zakayev_
 
 ##### Indonesian Air Force
 ### [The Indonesian Air Force announces plans to buy six more Sukhoi fighter aircraft. ](/news/2010/09/17/the-indonesian-air-force-announces-plans-to-buy-six-more-sukhoi-fighter-aircraft.md)
-_Context: fighter aircraft, Indonesian Air Force, Sukhoi_
+_Context: Sukhoi, fighter aircraft, Indonesian Air Force_
 
 ##### Virginia
 ### [Virginia Governor Bob McDonnell decides not to halt the execution of female murderer Teresa Lewis, who will be executed on September 23,2010.](/news/2010/09/17/virginia-governor-bob-mcdonnell-decides-not-to-halt-the-execution-of-female-murderer-teresa-lewis-who-will-be-executed-on-september-23-2010.md)
@@ -101,7 +101,7 @@ Six men are now being questioned by police in London following reports of a thre
 
 ##### Police
 ### [The Somali Police Force raid an address in Mogadishu and confiscate weapons. ](/news/2010/09/17/the-somali-police-force-raid-an-address-in-mogadishu-and-confiscate-weapons.md)
-_Context: Mogadishu, police_
+_Context: police, Mogadishu_
 
 ##### Los Alamos National Laboratory
 ### [A former scientist at the Los Alamos National Laboratory and his wife are indicted on charges of trying to provide information about the United States nuclear program to Venezuela. ](/news/2010/09/17/a-former-scientist-at-the-los-alamos-national-laboratory-and-his-wife-are-indicted-on-charges-of-trying-to-provide-information-about-the-uni.md)
@@ -117,15 +117,15 @@ Russia&#039;s fractured democratic opposition announced plans to unite yesterday
 
 ##### Police
 ### [Afghan police set up extra security checkpoints across Afghanistan to prepare for Taliban attacks on voting in the parliamentary election on Saturday. ](/news/2010/09/17/afghan-police-set-up-extra-security-checkpoints-across-afghanistan-to-prepare-for-taliban-attacks-on-voting-in-the-parliamentary-election-on.md)
-_Context: security checkpoint, police, parliamentary election, Taliban, Afghan_
+_Context: parliamentary election, police, Afghan, security checkpoint, Taliban_
 
 ##### Prime Minister of Japan
 ### [The Prime Minister of Japan Naoto Kan announces a Ministerial reshuffle with Seiji Maehara announced as the new Minister for Foreign Affairs. ](/news/2010/09/17/the-prime-minister-of-japan-naoto-kan-announces-a-ministerial-reshuffle-with-seiji-maehara-announced-as-the-new-minister-for-foreign-affairs.md)
-_Context: Naoto Kan, Seiji Maehara, Prime Minister of Japan, Foreign Minister, forming a government_
+_Context: Foreign Minister, Prime Minister of Japan, forming a government, Naoto Kan, Seiji Maehara_
 
 ##### Thailand
 ### [Thailand's red shirt movement holds rallies in the lead up to the fourth anniversary of the removal of former Prime Minister of Thailand Thaksin Shinawatra on Sunday. ](/news/2010/09/17/thailand-s-red-shirt-movement-holds-rallies-in-the-lead-up-to-the-fourth-anniversary-of-the-removal-of-former-prime-minister-of-thailand-tha.md)
-_Context: Thaksin Shinawatra, United Front for Democracy Against Dictatorship, Prime Minister, Thailand_
+_Context: Prime Minister, Thaksin Shinawatra, Thailand, United Front for Democracy Against Dictatorship_
 
 ## [Previous Day...](/news/2010/09/16/index.md)
 

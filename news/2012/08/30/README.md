@@ -5,7 +5,7 @@ Formats: [HTML](2012/08/30/index.html)  [JSON](2012/08/30/index.json)  [XML](201
 
 ##### Egypt
 ### [Egyptian president Mohammed Morsi describes the conflict as an uprising against an "oppressive regime" and likens it to the Palestinians, sparking a walkout from the Syrian delegation at a meeting of the Non-Aligned Movement in Iran. ](/news/2012/08/30/egyptian-president-mohammed-morsi-describes-the-conflict-as-an-uprising-against-an-oppressive-regime-and-likens-it-to-the-palestinians-sp.md)
-_Context: Iran, Egypt, Palestinian, Non-Aligned Movement, Mohammed Morsi_
+_Context: Egypt, Iran, Non-Aligned Movement, Palestinian, Mohammed Morsi_
 
 ##### Amazon rainforest
 ### [The Venezuelan government is to investigate an alleged massacre of indigenous people in the Amazon rainforest whom were attacked from a helicopter. ](/news/2012/08/30/the-venezuelan-government-is-to-investigate-an-alleged-massacre-of-indigenous-people-in-the-amazon-rainforest-whom-were-attacked-from-a-heli.md)
@@ -21,7 +21,7 @@ Barclays appoints Antony Jenkins as its new chief executive following the resign
 
 ##### Socialist
 ### [The socialist mayor of Liege, Belgium, defends as a political choice his refusal to let the Salvation Army distribute soup on a city main square. He favours the more dignifying model of Restaurants du Coeur. ](/news/2012/08/30/the-socialist-mayor-of-lia-ge-belgium-defends-as-a-political-choice-his-refusal-to-let-the-salvation-army-distribute-soup-on-a-city-main-s.md)
-_Context: dignifying, soup, Liege, Salvation Army, main square, Restaurants du Coeur, socialist_
+_Context: socialist, soup, Salvation Army, main square, dignifying, Liege, Restaurants du Coeur_
 
 ##### Blast in the Xiaojiawan coal mine
 ### [At least 26 miners are killed and 21 still missing after Wednesday's blast in the Xiaojiawan coal mine, located at Panzhihua in Sichuan Province, China. ](/news/2012/08/30/at-least-26-miners-are-killed-and-21-still-missing-after-wednesday-s-blast-in-the-xiaojiawan-coal-mine-located-at-panzhihua-in-sichuan-prov.md)
@@ -33,11 +33,11 @@ Gripped by its worst cholera outbreak in nearly 15 years, which has already left
 
 ##### Iran
 ### [Iran and Egypt describe each other as "strategic allies" at the 16th Summit of the Non-Aligned Movement in Iran. ](/news/2012/08/30/iran-and-egypt-describe-each-other-as-strategic-allies-at-the-16th-summit-of-the-non-aligned-movement-in-iran.md)
-_Context: Egypt, Iran, 16th Summit of the Non-Aligned Movement_
+_Context: Iran, 16th Summit of the Non-Aligned Movement, Egypt_
 
 ##### United Nations Secretary-General
 ### [United Nations Secretary-General Ban Ki-moon urges Iran to comply with U.N. Security Council resolutions concerning the nuclear program of Iran, and implicitly criticises it for its Israel policy at a meeting of the Non-Aligned Movement. ](/news/2012/08/30/united-nations-secretary-general-ban-ki-moon-urges-iran-to-comply-with-u-n-security-council-resolutions-concerning-the-nuclear-program-of-i.md)
-_Context: United Nations Security Council, Ban Ki-moon, United Nations Security Council resolution, Non-Aligned Movement, United Nations Secretary-General, Iran, nuclear program, Israel_
+_Context: Israel, nuclear program, United Nations Security Council, United Nations Security Council resolution, Ban Ki-moon, Non-Aligned Movement, United Nations Secretary-General, Iran_
 
 ##### IAEA
 ### [The International Atomic Energy Agency releases a report on the Nuclear program of Iran, stating that Iran has doubled its number of centrifuges at the Fordow facility and highlighting concern over the nuclear program. ](/news/2012/08/30/the-international-atomic-energy-agency-releases-a-report-on-the-nuclear-program-of-iran-stating-that-iran-has-doubled-its-number-of-centrif.md)
@@ -61,23 +61,23 @@ Burma releases the names of 2,000 people deemed a security threat who have been 
 
 ##### 2012 Maldives Crisis
 ### [2012 Maldives Crisis: A Commonwealth-backed inquiry dismisses claims that a military coup forced former Maldivian president Mohamed Nasheed from power. ](/news/2012/08/30/2012-maldives-crisis-a-commonwealth-backed-inquiry-dismisses-claims-that-a-military-coup-forced-former-maldivian-president-mohamed-nasheed.md)
-_Context: coup, forced, Mohamed Nasheed, 2012 Maldives Crisis, Maldives, Commonwealth_
+_Context: Mohamed Nasheed, Maldives, coup, 2012 Maldives Crisis, forced, Commonwealth_
 
 ##### Government
 ### [The Cabinet of Germany accepts a project on Leistungsschutzrecht; they feel it at its third attempt as now ready to send to the Bundestag for voting into law. ](/news/2012/08/30/the-cabinet-of-germany-accepts-a-project-on-leistungsschutzrecht-they-feel-it-at-its-third-attempt-as-now-ready-to-send-to-the-bundestag-fo.md)
-_Context: government, Leistungsschutzrecht, Bundestag_
+_Context: government, Bundestag, Leistungsschutzrecht_
 
 ##### Supreme Leader
 ### [Supreme Leader of Iran Ali Khamenei calls nuclear weapons and their use "an unforgivable sin" and defends Iran's right to use nuclear energy for medical and peaceful purposes. ](/news/2012/08/30/supreme-leader-of-iran-ali-khamenei-calls-nuclear-weapons-and-their-use-an-unforgivable-sin-and-defends-iran-s-right-to-use-nuclear-energy.md)
-_Context: Ali Khamenei, Supreme Leader, nuclear weapon, nuclear program_
+_Context: Supreme Leader, nuclear program, Ali Khamenei, nuclear weapon_
 
 ##### Mitt Romney
 ### [Mitt Romney accepts the nomination of the Republican Party to be its candidate in the 2012 US presidential election. ](/news/2012/08/30/mitt-romney-accepts-the-nomination-of-the-republican-party-to-be-its-candidate-in-the-2012-us-presidential-election.md)
-_Context: Republican, Mitt Romney, United States presidential election, 2012_
+_Context: United States presidential election, 2012, Republican, Mitt Romney_
 
-##### Mexican
+##### Mexico
 ### [Mexico's electoral tribunal unanimously rejects a challenge to the 2012 presidential election victory won by Enrique Pena Nieto. ](/news/2012/08/30/mexico-s-electoral-tribunal-unanimously-rejects-a-challenge-to-the-2012-presidential-election-victory-won-by-enrique-pea-a-nieto.md)
-_Context: Mexican, Enrique Pena Nieto, 2012 presidential election_
+_Context: 2012 presidential election, Enrique Pena Nieto, Mexico_
 
 ##### Polygraph
 ### [Sky News shows a study where it is claimed that the polygraph helps reduce crime. The device is being presented as "about 85% accurate" and sufficient legal evidence in combination with "other information". ](/news/2012/08/30/sky-news-shows-a-study-where-it-is-claimed-that-the-polygraph-helps-reduce-crime-the-device-is-being-presented-as-about-85-accurate-and.md)
@@ -85,7 +85,7 @@ Organisers of a pilot scheme say lie detector tests are helping identify sex off
 
 ##### Belgian Army
 ### [The Belgian Army assigns 16 sapping instructors to a train-the-trainer program in Katanga, DR Congo, from Saturday until year's end. ](/news/2012/08/30/the-belgian-army-assigns-16-sapping-instructors-to-a-train-the-trainer-program-in-katanga-dr-congo-from-saturday-until-year-s-end.md)
-_Context: DR Congo, Belgian Army, sapping, Katanga Province_
+_Context: DR Congo, Belgian Army, Katanga Province, sapping_
 
 ## [Previous Day...](/news/2012/08/29/index.md)
 

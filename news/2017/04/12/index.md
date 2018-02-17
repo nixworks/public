@@ -21,7 +21,7 @@ _Context: Sheila Abdus-Salaam, Hudson River, New York Court of Appeals_
 
 ##### Re-elected
 ### [Former Iranian President Mahmoud Ahmadinejad registers to run in next month's election for a non-consecutive third term, according to state media. ](/news/2017/04/12/former-iranian-president-mahmoud-ahmadinejad-registers-to-run-in-next-month-s-election-for-a-non-consecutive-third-term-according-to-state.md)
-_Context: President, re-elected, Mahmoud Ahmadinejad_
+_Context: Mahmoud Ahmadinejad, re-elected, President_
 
 ##### Protests in South Africa
 ### [Julius Malema addresses a large, multi-racial crowd in Pretoria before their march on the Union buildings. ](/news/2017/04/12/julius-malema-addresses-a-large-multi-racial-crowd-in-pretoria-before-their-march-on-the-union-buildings.md)

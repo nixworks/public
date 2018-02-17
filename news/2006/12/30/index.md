@@ -5,23 +5,23 @@ Formats: [HTML](2006/12/30/index.html)  [JSON](2006/12/30/index.json)  [XML](200
 
 ##### Saddam Hussein
 ### [ Saddam Hussein is executed, by hanging, at approximately 06:00 local time (03:00 UTC). ](/news/2006/12/30/saddam-hussein-is-executed-by-hanging-at-approximately-06-00-local-time-03-00-utc.md)
-_Context: UTC, executed, Saddam Hussein_
+_Context: executed, Saddam Hussein, UTC_
 
 ##### Bomb exploding
 ### [ A bomb exploding in the parking lot of Terminal 4 of Barajas Airport, Madrid, Spain, killes two people, damages cars and buildings. ](/news/2006/12/30/a-bomb-exploding-in-the-parking-lot-of-terminal-4-of-barajas-airport-madrid-spain-killes-two-people-damages-cars-and-buildings.md)
-_Context: Madrid, Spain, bomb exploding, Barajas Airport_
+_Context: Madrid, bomb exploding, Spain, Barajas Airport_
 
 ##### Supreme Council
 ### [ The Supreme Council of Kyrgyzstan votes 50 to 1 in favor of amendments to the Constitution giving greater power to the executive branch after President Kurmanbek Bakiyev accuses Parliamentarians of "sabotaging" the political process. The President will now have the power to appoint and dismiss the Prime Minister and his cabinet and regional governors. The SNB, the domestic intelligence organization, will report to the President, not the legislature. ](/news/2006/12/30/the-supreme-council-of-kyrgyzstan-votes-50-to-1-in-favor-of-amendments-to-the-constitution-giving-greater-power-to-the-executive-branch-aft.md)
-_Context: Kurmanbek Bakiyev, executive branch, constitution, president, Prime Minister, Supreme Council_
+_Context: executive branch, Supreme Council, constitution, Kurmanbek Bakiyev, Prime Minister, president_
 
 ##### Ferry ''Senopati Nusantara''
 ### [ At least 500 people are feared to have drowned after the ferry "Senopati Nusantara" travelling between the port of Kumai on the Indonesian island of Borneo to Semarang on Java sank during a storm. ](/news/2006/12/30/at-least-500-people-are-feared-to-have-drowned-after-the-ferry-senopati-nusantara-travelling-between-the-port-of-kumai-on-the-indonesian.md)
-_Context: Java, Kumai, ferry ''Senopati Nusantara'', Indonesia, Borneo_
+_Context: Borneo, Indonesia, Java, ferry ''Senopati Nusantara'', Kumai_
 
 ##### U.S. President
 ### [ Former U.S. President Gerald Ford's funeral is held at the United States Capitol. ](/news/2006/12/30/former-u-s-president-gerald-ford-s-funeral-is-held-at-the-united-states-capitol.md)
-_Context: Gerald Ford, U.S. President, buried, United States Capitol_
+_Context: Gerald Ford, buried, United States Capitol, U.S. President_
 
 ##### Coat of arms of Nepal
 ### [ The coat of arms of Nepal is changed as a gesture of reconciliation after the Nepalese Civil War. ](/news/2006/12/30/the-coat-of-arms-of-nepal-is-changed-as-a-gesture-of-reconciliation-after-the-nepalese-civil-war.md)

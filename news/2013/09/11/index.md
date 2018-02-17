@@ -9,7 +9,7 @@ Investigators say government forces and rebel fighters have killed, tortured and
 
 ##### Egypt
 ### [Two suicide bombers ram a car with explosives. Egyptian military says one hit the local branch of military intelligence, while the other struck an army checkpoint in Rafah killing nine soldiers and wounding 17 others. ](/news/2013/09/11/two-suicide-bombers-ram-a-car-with-explosives-egyptian-military-says-one-hit-the-local-branch-of-military-intelligence-while-the-other-str.md)
-_Context: Egyptian Army, Rafah, Egypt_
+_Context: Rafah, Egyptian Army, Egypt_
 
 ##### 2012 Benghazi attack
 ### [On the first anniversary of the 2012 Benghazi attack, a powerful car bomb explodes near the Libyan Foreign Ministry building in the city. ](/news/2013/09/11/on-the-first-anniversary-of-the-2012-benghazi-attack-a-powerful-car-bomb-explodes-near-the-libyan-foreign-ministry-building-in-the-city.md)
@@ -33,7 +33,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Catalan people
 ### [Hundreds of thousands of Catalans link up in a human chain for the independence of Catalonia. ](/news/2013/09/11/hundreds-of-thousands-of-catalans-link-up-in-a-human-chain-for-the-independence-of-catalonia.md)
-_Context: independence of Catalonia, Catalan people, human chain_
+_Context: Catalan people, human chain, independence of Catalonia_
 
 ## [Previous Day...](/news/2013/09/10/index.md)
 

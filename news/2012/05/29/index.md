@@ -13,15 +13,15 @@ _Context: Sheikh Sharif Ahmed, Somalia_
 
 ##### 2012 South Sudan-Sudan border conflict
 ### [2012 South Sudan-Sudan border conflict: Sudan and South Sudan restart talks to avoid war amid accusations of bombing raids. ](/news/2012/05/29/2012-south-sudanasudan-border-conflict-sudan-and-south-sudan-restart-talks-to-avoid-war-amid-accusations-of-bombing-raids.md)
-_Context: Sudan, South Sudan, 2012 South Sudan-Sudan border conflict_
+_Context: 2012 South Sudan-Sudan border conflict, Sudan, South Sudan_
 
 ##### Brett Murray
 ### [The gallery which exhibited Brett Murray's controversial painting "The Spear" agrees to take down an image of the artwork from its website as thousands of people march in protest through the streets of Johannesburg. ](/news/2012/05/29/the-gallery-which-exhibited-brett-murray-s-controversial-painting-the-spear-agrees-to-take-down-an-image-of-the-artwork-from-its-website-a.md)
 Thousands march through the streets of Johannesburg as outrage and tension over controversial painting continue.
 
-##### China
+##### Chinese
 ### [China's best-known microblogging site Sina Weibo introduces new restrictions on the content its 300 million users can post. ](/news/2012/05/29/china-s-best-known-microblogging-site-sina-weibo-introduces-new-restrictions-on-the-content-its-300-million-users-can-post.md)
-_Context: China, Sina Weibo, microblog_
+_Context: microblog, Chinese, Sina Weibo_
 
 ##### Wall Street
 ### [Four of Wall Street's market makers involved in Facebook's botched IPO are expecting losses from technical glitches to be around US$115&nbsp;million. ](/news/2012/05/29/four-of-wall-street-s-market-makers-involved-in-facebook-s-botched-ipo-are-expecting-losses-from-technical-glitches-to-be-around-us-115-nbsp.md)
@@ -49,7 +49,7 @@ Myanmar opposition leader arrives in Thailand, leaving country where she was lon
 
 ##### WikiLeaks
 ### [WikiLeaks editor Julian Assange learns he will find out tomorrow if he is to be deported to Sweden from the UK. ](/news/2012/05/29/wikileaks-editor-julian-assange-learns-he-will-find-out-tomorrow-if-he-is-to-be-deported-to-sweden-from-the-uk.md)
-_Context: Julian Assange, WikiLeaks_
+_Context: WikiLeaks, Julian Assange_
 
 ##### Senators
 ### [The Senate of the Philippines finds the Chief Justice of the Supreme Court Renato Corona guilty of failure to disclose to the public his assets following a four-month-long impeachment trial. ](/news/2012/05/29/the-senate-of-the-philippines-finds-the-chief-justice-of-the-supreme-court-renato-corona-guilty-of-failure-to-disclose-to-the-public-his-ass.md)
@@ -73,11 +73,11 @@ PNG politicians will hold a special sitting of parliament tomorrow to elect a ne
 
 ##### Chen Xitong
 ### [Chen Xitong former mayor of Beijing apologises for deaths during the 1989 Tiananmen Square protests, adding that they could have been avoided, in a book released in Hong Kong this week. ](/news/2012/05/29/chen-xitong-former-mayor-of-beijing-apologises-for-deaths-during-the-1989-tiananmen-square-protests-adding-that-they-could-have-been-avoide.md)
-_Context: Hong Kong, 1989 Tiananmen Square protests, Beijing, Chen Xitong_
+_Context: Chen Xitong, 1989 Tiananmen Square protests, Beijing, Hong Kong_
 
 ##### Barack Obama
 ### [U.S. president Barack Obama gives out the Presidential Medal of Freedom to 13 recipients, including Israeli president Shimon Peres, astronaut John Glenn and musician Bob Dylan, at the White House. ](/news/2012/05/29/u-s-president-barack-obama-gives-out-the-presidential-medal-of-freedom-to-13-recipients-including-israeli-president-shimon-peres-astronau.md)
-_Context: Presidential Medal of Freedom with Distinction, Shimon Peres, White House, John Glenn, Barack Obama, Israel, Bob Dylan_
+_Context: John Glenn, Israel, White House, Shimon Peres, Presidential Medal of Freedom with Distinction, Bob Dylan, Barack Obama_
 
 ## [Previous Day...](/news/2012/05/28/index.md)
 

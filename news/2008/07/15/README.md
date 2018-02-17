@@ -5,7 +5,7 @@ Formats: [HTML](2008/07/15/index.html)  [JSON](2008/07/15/index.json)  [XML](200
 
 ##### Liseberg
 ### [ 18 people are injured after a funfair ride composed of a spinning arm with a compartment at one end which carries passengers collapses at the Liseberg theme park Gothenburg, Sweden. ](/news/2008/07/15/18-people-are-injured-after-a-funfair-ride-composed-of-a-spinning-arm-with-a-compartment-at-one-end-which-carries-passengers-collapses-at-t.md)
-_Context: Sweden, Gothenburg, Liseberg_
+_Context: Gothenburg, Liseberg, Sweden_
 
 ##### General Motors
 ### [ General Motors announces plans to suspend its dividend, sell off assets and cut 20% off salaried costs in a response to slumping car sales. ](/news/2008/07/15/general-motors-announces-plans-to-suspend-its-dividend-sell-off-assets-and-cut-20-off-salaried-costs-in-a-response-to-slumping-car-sales.md)
@@ -21,11 +21,11 @@ A suicide bombing at an Iraqi army base north of Baghdad has killed at least 28 
 
 ##### Earthquake
 ### [ An earthquake with a 6.3 magnitude strikes near the island of Rhodes in Greece, leading to one death. ](/news/2008/07/15/an-earthquake-with-a-6-3-magnitude-strikes-near-the-island-of-rhodes-in-greece-leading-to-one-death.md)
-_Context: Rhodes, earthquake, Greece, strikes_
+_Context: Greece, Rhodes, earthquake, strikes_
 
 ##### Belgium
 ### [ Belgian prime minister Yves Leterme resigns after less than four months in office. King Albert II does not accept his resignation. ](/news/2008/07/15/belgian-prime-minister-yves-leterme-resigns-after-less-than-four-months-in-office-king-albert-ii-does-not-accept-his-resignation.md)
-_Context: Yves Leterme, prime minister, Albert II of Belgium, King, Belgium_
+_Context: Yves Leterme, prime minister, King, Belgium, Albert II of Belgium_
 
 ## [Previous Day...](/news/2008/07/14/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2014/05/9/index.html)  [JSON](2014/05/9/index.json)  [XML](2014/
 
 ##### Yemeni security forces
 ### [Yemeni security forces announce that they have killed Shayef Mohammed Saeed Al-Shabwani, an al-Qaeda terrorist wanted over a series of attacks in Sana'a. ](/news/2014/05/9/yemeni-security-forces-announce-that-they-have-killed-shayef-mohammed-saeed-al-shabwani-an-al-qaeda-terrorist-wanted-over-a-series-of-attac.md)
-_Context: Yemeni security forces, al-Qaeda, Sana'a_
+_Context: Sana'a, Yemeni security forces, al-Qaeda_
 
 ##### Federal government
 ### [The government of Iraq launches a large-scale military operation to regain control of Fallujah from anti-government fighters. ](/news/2014/05/9/the-government-of-iraq-launches-a-large-scale-military-operation-to-regain-control-of-fallujah-from-anti-government-fighters.md)
@@ -21,11 +21,11 @@ Rupert Murdoch is pursuing a long-awaited transaction that would transform Briti
 
 ##### Russian President
 ### [Russian President Vladimir Putin visits Crimea for the first time since the annexation, arriving in Sevastopol for Victory Day celebrations. ](/news/2014/05/9/russian-president-vladimir-putin-visits-crimea-for-the-first-time-since-the-annexation-arriving-in-sevastopol-for-victory-day-celebrations.md)
-_Context: Vladimir Putin, Annexation of Crimea by the Russian Federation, Victory Day, Sevastopol, Crimea, Russian President_
+_Context: Vladimir Putin, Russian President, Crimea, Sevastopol, Victory Day, Annexation of Crimea by the Russian Federation_
 
 ##### South Korea
 ### [South Korea's Ministry of National Defense announces that three drones found in their territory came from North Korea. ](/news/2014/05/9/south-korea-s-ministry-of-national-defense-announces-that-three-drones-found-in-their-territory-came-from-north-korea.md)
-_Context: South Korean Defense Minister, South Korea, North Korea_
+_Context: South Korean Defense Minister, North Korea, South Korea_
 
 ##### Shaheed Benazir Abad District
 ### [A 5.0 magnitude earthquake strikes Shaheed Benazir Abad District, Pakistan, killing 1 person and injuring another 70. ](/news/2014/05/9/a-5-0-magnitude-earthquake-strikes-shaheed-benazir-abad-district-pakistan-killing-1-person-and-injuring-another-70.md)
@@ -33,7 +33,7 @@ _Context: Pakistan, Shaheed Benazir Abad District_
 
 ##### Jutta Urpilainen
 ### [Jutta Urpilainen steps down as the Finance Minister of Finland after she was not re-elected as leader of the Social Democratic Party. ](/news/2014/05/9/jutta-urpilainen-steps-down-as-the-finance-minister-of-finland-after-she-was-not-re-elected-as-leader-of-the-social-democratic-party.md)
-_Context: Social Democratic Party, Jutta Urpilainen, Finance Minister of Finland_
+_Context: Finance Minister of Finland, Social Democratic Party, Jutta Urpilainen_
 
 ## [Previous Day...](/news/2014/05/8/index.md)
 

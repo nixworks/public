@@ -5,11 +5,11 @@ Formats: [HTML](2008/09/9/index.html)  [JSON](2008/09/9/index.json)  [XML](2008/
 
 ##### UNITA
 ### [ UNITA accepts defeat in the Angolan legislative election, 2008, the first parliamentary elections in Angola in 16 years, in which the ruling Popular Movement for the Liberation of Angola wins more than 80% of the votes. ](/news/2008/09/9/unita-accepts-defeat-in-the-angolan-legislative-election-2008-the-first-parliamentary-elections-in-angola-in-16-years-in-which-the-rulin.md)
-_Context: Angolan legislative election, 2008, Angola, Popular Movement for the Liberation of Angola, UNITA_
+_Context: UNITA, Angolan legislative election, 2008, Popular Movement for the Liberation of Angola, Angola_
 
 ##### Al Franken
 ### [ Al Franken wins a primary election for the Minnesota Democratic-Farmer-Labor Party to challenge incumbent Senator Norm Coleman in the Minnesota Senate election. ](/news/2008/09/9/al-franken-wins-a-primary-election-for-the-minnesota-democraticafarmeralabor-party-to-challenge-incumbent-senator-norm-coleman-in-the-m.md)
-_Context: Senator, Al Franken, primary election, U.S. Senator, Democratic, Norm Coleman_
+_Context: Democratic, U.S. Senator, Senator, primary election, Al Franken, Norm Coleman_
 
 ##### Military of Sri Lanka
 ### [ The military of Sri Lanka declares 12 of its soldiers and one policeman killed in a suicide attack by the Tamil Tigers in Mullaittivu. ](/news/2008/09/9/the-military-of-sri-lanka-declares-12-of-its-soldiers-and-one-policeman-killed-in-a-suicide-attack-by-the-tamil-tigers-in-mullaittivu.md)
@@ -17,7 +17,7 @@ _Context: Mullaittivu, military of Sri Lanka, Tamil Tigers_
 
 ##### Prime Minister
 ### [ Prime Minister of Malaysia Abdullah Ahmad Badawi states that the governing United Malays National Organisation (UMNO) will punish Ahmad Ismail, a party official, for a series of statements he made about Malaysia's ethnic Chinese population. ](/news/2008/09/9/prime-minister-of-malaysia-abdullah-ahmad-badawi-states-that-the-governing-united-malays-national-organisation-umno-will-punish-ahmad-ism.md)
-_Context: ethnic Chinese, Abdullah Ahmad Badawi, Malaysia, Prime Minister, Ahmad Ismail, United Malays National Organisation_
+_Context: Prime Minister, Abdullah Ahmad Badawi, ethnic Chinese, Ahmad Ismail, Malaysia, United Malays National Organisation_
 
 ##### United Nations
 ### [ The United Nations decides to withdraw aid workers from Tamil Tiger-held areas of Sri Lanka. ](/news/2008/09/9/the-united-nations-decides-to-withdraw-aid-workers-from-tamil-tiger-held-areas-of-sri-lanka.md)
@@ -25,11 +25,11 @@ _Context: Sri Lanka, United Nations, LTTE_
 
 ##### Hurricane Ike
 ### [ Hurricane Ike makes its second landfall on Cuba, near San Cristobal, north of the Isle of Youth, on its way into the Gulf of Mexico. ](/news/2008/09/9/hurricane-ike-makes-its-second-landfall-on-cuba-near-san-crista3bal-north-of-the-isle-of-youth-on-its-way-into-the-gulf-of-mexico.md)
-_Context: Isle of Youth, Gulf of Mexico, Cuba, San Cristobal, Hurricane Ike_
+_Context: Hurricane Ike, Cuba, Isle of Youth, San Cristobal, Gulf of Mexico_
 
 ##### Thailand
 ### [ A Thai court rules that Prime Minister Samak Sundaravej must be removed from office for receiving payment for appearing on a television cooking show. ](/news/2008/09/9/a-thai-court-rules-that-prime-minister-samak-sundaravej-must-be-removed-from-office-for-receiving-payment-for-appearing-on-a-television-coo.md)
-_Context: Prime Minister, Thailand, Samak Sundaravej , cooking show_
+_Context: Prime Minister, Samak Sundaravej , Thailand, cooking show_
 
 ##### George W. Bush
 ### [ US President George W. Bush pledges 4,500 troops to Afghanistan over the next few months and orders 8,000 troops currently stationed in Iraq to be home by February. ](/news/2008/09/9/us-president-george-w-bush-pledges-4-500-troops-to-afghanistan-over-the-next-few-months-and-orders-8-000-troops-currently-stationed-in-ira.md)

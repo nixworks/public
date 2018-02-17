@@ -5,7 +5,7 @@ Formats: [HTML](2013/06/12/index.html)  [JSON](2013/06/12/index.json)  [XML](201
 
 ##### United Nations
 ### [United Nations peacekeepers from Austria start withdrawing from the Golan Heights. ](/news/2013/06/12/united-nations-peacekeepers-from-austria-start-withdrawing-from-the-golan-heights.md)
-_Context: peacekeepers, Golan Heights, United Nations, Austria_
+_Context: peacekeepers, United Nations, Golan Heights, Austria_
 
 ##### Scotland
 ### [Gunmen kidnap a Scottish man working for a British energy company in the Indonesian province of Aceh. ](/news/2013/06/12/gunmen-kidnap-a-scottish-man-working-for-a-british-energy-company-in-the-indonesian-province-of-aceh.md)
@@ -13,7 +13,7 @@ Gunmen have kidnapped a British man working for an energy company in the restive
 
 ##### Greece
 ### [The government of Greece shuts down the public radio and television broadcaster ERT, calling it a "haven of waste". ](/news/2013/06/12/the-government-of-greece-shuts-down-the-public-radio-and-television-broadcaster-ert-calling-it-a-haven-of-waste.md)
-_Context: Greece, ERT_
+_Context: ERT, Greece_
 
 ##### Jiroemon Kimura
 ### [Jiroemon Kimura, who had been the world's oldest living person and the verified longest lived man ever, dies in the Japanese city of Kyotango. ](/news/2013/06/12/jiroemon-kimura-who-had-been-the-world-s-oldest-living-person-and-the-verified-longest-lived-man-ever-dies-in-the-japanese-city-of-kyatan.md)
@@ -21,7 +21,7 @@ Japan&#039;s Jiroemon Kimura, recognised by Guinness World Records as the oldest
 
 ##### Facebook
 ### [Facebook announces it plans to introduce clickable hashtags. ](/news/2013/06/12/facebook-announces-it-plans-to-introduce-clickable-hashtags.md)
-_Context: Facebook, hashtag_
+_Context: hashtag, Facebook_
 
 ##### New Zealand Dollar
 ### [The New Zealand Dollar falls against all major currencies after RBNZ keeps interest rates unchanged. ](/news/2013/06/12/the-new-zealand-dollar-falls-against-all-major-currencies-after-rbnz-keeps-interest-rates-unchanged.md)
@@ -65,7 +65,7 @@ _Context: anti-government protests_
 
 ##### UNICEF
 ### [New figures from UNICEF show that 150 million children are engaged in child labor worldwide. ](/news/2013/06/12/new-figures-from-unicef-show-that-150-million-children-are-engaged-in-child-labor-worldwide.md)
-_Context: child labor, UNICEF_
+_Context: UNICEF, child labor_
 
 ##### State Duma
 ### [Russia's Duma passes a law banning "gay propaganda". ](/news/2013/06/12/russia-s-duma-passes-a-law-banning-gay-propaganda.md)

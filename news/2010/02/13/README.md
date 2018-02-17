@@ -5,11 +5,11 @@ Formats: [HTML](2010/02/13/index.html)  [JSON](2010/02/13/index.json)  [XML](201
 
 ##### U Tin Oo
 ### [U Tin Oo, the Vice-Chairman of the National League for Democracy was released today in Yangon, the largest city in Myanmar, after the expiration of his term of house arrest. ](/news/2010/02/13/u-tin-oo-the-vice-chairman-of-the-national-league-for-democracy-was-released-today-in-yangon-the-largest-city-in-myanmar-after-the-expira.md)
-_Context: Myanmar, U Tin Oo, National League for Democracy, Yangon_
+_Context: National League for Democracy, U Tin Oo, Myanmar, Yangon_
 
 ##### Cyclone Rene
 ### [Cyclone Rene approaches Manu'a at full force winds of 150 kilometres an hour. ](/news/2010/02/13/cyclone-rene-approaches-manu-a-at-full-force-winds-of-150-kilometres-an-hour.md)
-_Context: Manu'a, Cyclone Rene_
+_Context: Cyclone Rene, Manu'a_
 
 ##### 2010 Pune bombing
 ### [A suspected terrorist attack in the western Indian city of Pune kills 9 people and injures more than 45 others. ](/news/2010/02/13/a-suspected-terrorist-attack-in-the-western-indian-city-of-pune-kills-9-people-and-injures-more-than-45-others.md)
@@ -17,7 +17,7 @@ _Context: Manu'a, Cyclone Rene_
 
 ##### Burma
 ### [Burma releases vice-chairman of the National League for Democracy (NLD), Tin Oo at the age of 82, after he has spent more than a decade in prison or under house arrest. ](/news/2010/02/13/burma-releases-vice-chairman-of-the-national-league-for-democracy-nld-tin-oo-at-the-age-of-82-after-he-has-spent-more-than-a-decade-in-p.md)
-_Context: National League for Democracy, Tin Oo, Burma_
+_Context: Tin Oo, Burma, National League for Democracy_
 
 ##### Cote d'Ivoire
 ### [The Cote d'Ivoire government is dissolved with President Laurent Gbagbo saying on state television that the peace process has broken down. ](/news/2010/02/13/the-ca-te-d-ivoire-government-is-dissolved-with-president-laurent-gbagbo-saying-on-state-television-that-the-peace-process-has-broken-down.md)
@@ -37,7 +37,7 @@ Neo-Nazis and leftists hold competing rallies marking 65th anniversary of Dresde
 
 ##### Kenya
 ### [Kenyan President Mwai Kibaki demands eight senior officials to resign due to corruption scandals in the education ministry and a maize scandal. ](/news/2010/02/13/kenyan-president-mwai-kibaki-demands-eight-senior-officials-to-resign-due-to-corruption-scandals-in-the-education-ministry-and-a-maize-scand.md)
-_Context: Kenya, president, Mwai Kibaki, maize_
+_Context: Kenya, Mwai Kibaki, president, maize_
 
 ##### NATO
 ### [NATO forces in Afghanistan launch Operation Moshtarak against the Taliban-controlled village of Marja in Helmand Province. ](/news/2010/02/13/nato-forces-in-afghanistan-launch-operation-moshtarak-against-the-taliban-controlled-village-of-marja-in-helmand-province.md)

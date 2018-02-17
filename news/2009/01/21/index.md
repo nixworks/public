@@ -9,7 +9,7 @@ The confirmation of Eric H. Holder Jr. still appears all but assured, but Senate
 
 ##### Toyota
 ### [ Toyota surpasses General Motors to become the world's largest automaker. ](/news/2009/01/21/toyota-surpasses-general-motors-to-become-the-world-s-largest-automaker.md)
-_Context: General Motors, automakers, Toyota_
+_Context: Toyota, General Motors, automakers_
 
 ##### BHP Billiton
 ### [ BHP Billiton announces it will cut 6,000 jobs worldwide, including 3,300 in Australia. ](/news/2009/01/21/bhp-billiton-announces-it-will-cut-6-000-jobs-worldwide-including-3-300-in-australia.md)
@@ -21,11 +21,11 @@ Hours after taking office, U.S. President Barack Obama ordered military prosecut
 
 ##### Ceasefire
 ### [ Despite a ceasefire in its conflict with Israel, Hamas fires eight mortar shells into the country. ](/news/2009/01/21/despite-a-ceasefire-in-its-conflict-with-israel-hamas-fires-eight-mortar-shells-into-the-country.md)
-_Context: ceasefire, Mortar, Israel, Hamas, conflict_
+_Context: conflict, Mortar, Hamas, Israel, ceasefire_
 
 ##### United Kingdom
 ### [ The United Kingdom reports that 1.92 million Britons were unemployed in December 2008. ](/news/2009/01/21/the-united-kingdom-reports-that-1-92-million-britons-were-unemployed-in-december-2008.md)
-_Context: 2008, United Kingdom, British, Unemployment_
+_Context: British, 2008, United Kingdom, Unemployment_
 
 ##### China
 ### [ China Central Television omits sensitive portions of U.S. President Obama's inaugural address. ](/news/2009/01/21/china-central-television-omits-sensitive-portions-of-u-s-president-obama-s-inaugural-address.md)
@@ -37,7 +37,7 @@ President McAleese has signed the Anglo Irish Bank Bill at Áras an Uachtaráin.
 
 ##### Engine
 ### [ The missing engine from US Airways Flight 1549 is found at the bottom of the Hudson River. ](/news/2009/01/21/the-missing-engine-from-us-airways-flight-1549-is-found-at-the-bottom-of-the-hudson-river.md)
-_Context: US Airways, Hudson River, US Airways Flight 1549, engine_
+_Context: US Airways Flight 1549, Hudson River, engine, US Airways_
 
 ## [Previous Day...](/news/2009/01/20/index.md)
 

@@ -9,11 +9,11 @@ _Context: Egypt, tear gas, Tahrir Square, Cairo, baton_
 
 ##### 2011 Syrian uprising
 ### [2011 Syrian uprising: Two rocket-propelled grenades hit the headquarters of Syria's ruling Ba'ath Party in Damascus amid ongoing anti-government protests. ](/news/2011/11/20/2011-syrian-uprising-two-rocket-propelled-grenades-hit-the-headquarters-of-syria-s-ruling-ba-ath-party-in-damascus-amid-ongoing-anti-govern.md)
-_Context: 2011 Syrian uprising, Ba'ath Party, rocket-propelled grenade, Syria, Damascus_
+_Context: 2011 Syrian uprising, Syria, rocket-propelled grenade, Damascus, Ba'ath Party_
 
 ##### Jose Pimentel
 ### [Jose Pimentel, a 27-year-old Dominican-American, is arrested in New York City after planning to detonate pipe bombs, according to New York mayor Michael Bloomberg. The suspect is believed to have Al-Qaeda sympathies, although no wider conspiracy is suspected. ](/news/2011/11/20/jose-pimentel-a-27-year-old-dominican-american-is-arrested-in-new-york-city-after-planning-to-detonate-pipe-bombs-according-to-new-york-m.md)
-_Context: al-Qaeda, Michael Bloomberg, Dominican-American, Jose Pimentel, New York City, pipe bombs_
+_Context: Jose Pimentel, pipe bombs, Michael Bloomberg, al-Qaeda, New York City, Dominican-American_
 
 ##### President of Turkey
 ### [The President of Turkey, Abdullah Gl, commences a three-day state visit to the United Kingdom. ](/news/2011/11/20/the-president-of-turkey-abdullah-gul-commences-a-three-day-state-visit-to-the-united-kingdom.md)
@@ -21,11 +21,11 @@ President of Turkey Abdullah Gul says his country still wants to join the EU, be
 
 ##### Attempted murder
 ### [A man is charged with attempted murder following Saturday's stabbing of four Metropolitan Police officers in Kingsbury, north London. ](/news/2011/11/20/a-man-is-charged-with-attempted-murder-following-saturday-s-stabbing-of-four-metropolitan-police-officers-in-kingsbury-north-london.md)
-_Context: Kingsbury, attempted murder, Metropolitan Police Service, London_
+_Context: London, Kingsbury, Metropolitan Police Service, attempted murder_
 
 ##### Spain
 ### [Voters in Spain go to the polls for a general election, with the centre-right Popular Party winning a parliamentary majority. ](/news/2011/11/20/voters-in-spain-go-to-the-polls-for-a-general-election-with-the-centre-right-popular-party-winning-a-parliamentary-majority.md)
-_Context: general election, Popular Party, parliamentary majority, centre-right, Spain_
+_Context: general election, centre-right, parliamentary majority, Spain, Popular Party_
 
 ## [Previous Day...](/news/2011/11/19/index.md)
 

@@ -9,15 +9,15 @@ The WHA will hold a tournament at the home of the Vancouver Canucks and may land
 
 ##### Israel
 ### [ Israel hands over control of Tulkarm to the Palestinian Authority. ](/news/2005/03/22/israel-hands-over-control-of-tulkarm-to-the-palestinian-authority.md)
-_Context: Palestinian Authority, Israel, Tulkarm_
+_Context: Tulkarm, Palestinian Authority, Israel_
 
 ##### Chile
 ### [ In Chile, Paul Schfer, former leader of Colonia Dignidad, is charged with involvement in the 1976 disappearance of Juan Maino, activist and opponent of the regime of Augusto Pinochet. ](/news/2005/03/22/in-chile-paul-schafer-former-leader-of-colonia-dignidad-is-charged-with-involvement-in-the-1976-disappearance-of-juan-maino-activist-an.md)
-_Context: Augusto Pinochet, 1976, Paul Schfer, Colonia Dignidad, Juan Maino, Chile_
+_Context: Chile, Paul Schfer, Colonia Dignidad, Juan Maino, 1976, Augusto Pinochet_
 
 ##### Democratic Republic of Congo
 ### [ In the Democratic Republic of Congo, authorities say they have arrested many senior members of militia groups in Ituri, including Thomas Lubanga of the Union of Congolese Patriots. ](/news/2005/03/22/in-the-democratic-republic-of-congo-authorities-say-they-have-arrested-many-senior-members-of-militia-groups-in-ituri-including-thomas-lu.md)
-_Context: Democratic Republic of Congo, Union of Congolese Patriots, Thomas Lubanga, Ituri, militia_
+_Context: militia, Union of Congolese Patriots, Ituri, Democratic Republic of Congo, Thomas Lubanga_
 
 ##### United Nations
 ### [ United Nations declares World Water Day, starting a decade-long Water for Life campaign for clean water. ](/news/2005/03/22/united-nations-declares-world-water-day-starting-a-decade-long-water-for-life-campaign-for-clean-water.md)
@@ -29,15 +29,15 @@ _Context: Swiss Airlines, Lufthansa, German_
 
 ##### Italy
 ### [ In Italy, the Council of State allows Alessandra Mussolini to stand in elections. ](/news/2005/03/22/in-italy-the-council-of-state-allows-alessandra-mussolini-to-stand-in-elections.md)
-_Context: Alessandra Mussolini, Italy_
+_Context: Italy, Alessandra Mussolini_
 
 ##### India
 ### [ In India, numerous bank workers take part in a one-day strike to protest government reforms and bank merges they say will lead to job cuts. ](/news/2005/03/22/in-india-numerous-bank-workers-take-part-in-a-one-day-strike-to-protest-government-reforms-and-bank-merges-they-say-will-lead-to-job-cuts.md)
-_Context: bank, India, strike_
+_Context: India, bank, strike_
 
 ##### India
 ### [ The Indian government bans veterinary drug diclofenac because of a connection to the near extinction of vultures. ](/news/2005/03/22/the-indian-government-bans-veterinary-drug-diclofenac-because-of-a-connection-to-the-near-extinction-of-vultures.md)
-_Context: diclofenac, India, extinction, vulture_
+_Context: vulture, diclofenac, extinction, India_
 
 ##### President
 ### [ Ex-president of Peru, Alberto Fujimori, plans to finance his coming presidential campaign with "Fuji-Cola". Fujimori is in exile in Japan, is wanted for corruption, murder and kidnapping and is legally banned from holding public office in Peru until 2010 ](/news/2005/03/22/ex-president-of-peru-alberto-fujimori-plans-to-finance-his-coming-presidential-campaign-with-fuji-cola-fujimori-is-in-exile-in-japan.md)

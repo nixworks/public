@@ -29,11 +29,11 @@ Oscar-winning 1991 thriller The Silence of the Lambs is to be preserved by the U
 
 ##### Crash-landing
 ### [31 people are injured following the crash-landing of a passenger jet at Osh Airport in southern Kyrgyzstan. ](/news/2011/12/28/31-people-are-injured-following-the-crash-landing-of-a-passenger-jet-at-osh-airport-in-southern-kyrgyzstan.md)
-_Context: crash-landing, Kyrgyzstan, Osh Airport_
+_Context: Osh Airport, crash-landing, Kyrgyzstan_
 
 ##### Lahar
 ### [Four people are killed and 1,000 others flee their homes amid lahars from the Mount Gamalama volcano in Indonesia. ](/news/2011/12/28/four-people-are-killed-and-1-000-others-flee-their-homes-amid-lahars-from-the-mount-gamalama-volcano-in-indonesia.md)
-_Context: lahar, Gamalama, Indonesia_
+_Context: Indonesia, Gamalama, lahar_
 
 ##### Iran
 ### [Iran threatens to close down the key oil route of the Strait of Hormuz if more sanctions are imposed on it by Western nations. ](/news/2011/12/28/iran-threatens-to-close-down-the-key-oil-route-of-the-strait-of-hormuz-if-more-sanctions-are-imposed-on-it-by-western-nations.md)
@@ -41,9 +41,9 @@ The US Navy says it will not tolerate disruption to a vital oil route as Iran th
 
 ##### African Union
 ### [The head of the African Union, Jean Ping, arrives in Guinea-Bissau after the country's army chief claims to have foiled a military coup. ](/news/2011/12/28/the-head-of-the-african-union-jean-ping-arrives-in-guinea-bissau-after-the-country-s-army-chief-claims-to-have-foiled-a-military-coup.md)
-_Context: African Union, military coup, Jean Ping, Guinea-Bissau_
+_Context: military coup, African Union, Jean Ping, Guinea-Bissau_
 
-##### China
+##### Chinese
 ### [In China, 54 government officials and the Ministry of Railways are punished over a fatal high-speed rail crash in July. ](/news/2011/12/28/in-china-54-government-officials-and-the-ministry-of-railways-are-punished-over-a-fatal-high-speed-rail-crash-in-july.md)
 China pledged to fix design flaws blamed for a high-speed rail crash last July and punish the officials responsible, as the government released the results of an investigation that sought to allay criticism of how the accident was handled.
 
@@ -71,9 +71,9 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [Leading Republican Party presidential candidates, including Mitt Romney and Rick Perry, criticize rival candidate Ron Paul for his view that the United States should not act against Iran's suspected nuclear weapons program. ](/news/2011/12/28/leading-republican-party-presidential-candidates-including-mitt-romney-and-rick-perry-criticize-rival-candidate-ron-paul-for-his-view-that.md)
 Republican presidential candidates gang up on rival Ron Paul as a poll gives him the lead in the state of Iowa, which holds the first caucus next week.
 
-##### China
+##### Chinese
 ### [China's Compass satellite navigation system, a rival to the American Global Positioning System (GPS), becomes operational, offering navigation services on the Chinese mainland. The system is expected to become available worldwide by 2020. ](/news/2011/12/28/china-s-compass-satellite-navigation-system-a-rival-to-the-american-global-positioning-system-gps-becomes-operational-offering-navigati.md)
-_Context: China, Chinese mainland, Global Positioning System, Compass satellite navigation system_
+_Context: Chinese, Compass satellite navigation system, Global Positioning System, Chinese mainland_
 
 ## [Previous Day...](/news/2011/12/27/index.md)
 

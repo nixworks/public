@@ -29,7 +29,7 @@ Taoiseach Brian Cowen has confirmed that a major financial assistance plan for I
 
 ##### Yushe
 ### [A chemical factory explodes in Yushe county, North China's Shanxi province, killing at least three. ](/news/2010/11/21/a-chemical-factory-explodes-in-yushe-county-north-china-s-shanxi-province-killing-at-least-three.md)
-_Context: Yushe, Shanxi province, North China_
+_Context: North China, Shanxi province, Yushe_
 
 ##### Sichuan
 ### [A flood traps 28 people in a coal mine in Sichuan, southwestern China. ](/news/2010/11/21/a-flood-traps-28-people-in-a-coal-mine-in-sichuan-southwestern-china.md)
@@ -41,15 +41,15 @@ _Context: eruptions, Mounts Merapi, Indonesia_
 
 ##### Haiti's presidential election
 ### [Four Haitian presidential candidates call for the postponement of the Haitian elections set for November 28 as the country struggles with a cholera epidemic which has killed nearly 1,200. ](/news/2010/11/21/four-haitian-presidential-candidates-call-for-the-postponement-of-the-haitian-elections-set-for-november-28-as-the-country-struggles-with-a.md)
-_Context: Haiti's presidential election, worst epidemic of cholera_
+_Context: worst epidemic of cholera, Haiti's presidential election_
 
 ##### Pike River mine
 ### [Rescuers begin drilling a hole to analyse air inside the Pike River mine in New Zealand. There has been no communication with the 29 trapped miners. ](/news/2010/11/21/rescuers-begin-drilling-a-hole-to-analyse-air-inside-the-pike-river-mine-in-new-zealand-there-has-been-no-communication-with-the-29-trapped.md)
-_Context: Pike River mine, New Zealand_
+_Context: New Zealand, Pike River mine_
 
 ##### International Tiger Forum
 ### [Russia hosts the International Tiger Forum summit meeting of international wildlife experts and officials from 13 countries in St.Petersburg, to discuss the protection of tigers which could become extinct in 12 years if unprotected. ](/news/2010/11/21/russia-hosts-the-international-tiger-forum-summit-meeting-of-international-wildlife-experts-and-officials-from-13-countries-in-st-petersburg.md)
-_Context: St.Petersburg, International Tiger Forum, tiger, extinction_
+_Context: tiger, St.Petersburg, extinction, International Tiger Forum_
 
 ##### Aasia Bibi
 ### [Aasia Bibi, a Christian woman sentenced to death in Pakistan on charges of blasphemy against Islam, appeals to President Asif Ali Zardari to pardon her. ](/news/2010/11/21/aasia-bibi-a-christian-woman-sentenced-to-death-in-pakistan-on-charges-of-blasphemy-against-islam-appeals-to-president-asif-ali-zardari-to.md)
@@ -69,11 +69,11 @@ _Context: two American citizens, Iran_
 
 ##### Burkina Faso
 ### [Voters in Burkina Faso go to the polls, with incumbent President Blaise Compaore claiming victory with 75 per cent of the votes.](/news/2010/11/21/voters-in-burkina-faso-go-to-the-polls-with-incumbent-president-blaise-compaora-c-claiming-victory-with-75-per-cent-of-the-votes.md)
-_Context: Blaise Compaore, President, Burkina Faso_
+_Context: Blaise Compaore, Burkina Faso, President_
 
 ##### Egypt
 ### [Egypt restricts opposition before vote, with security forces arresting hundreds of opposition activists, and clamping down on the media ahead of parliamentary elections next week according to Amnesty International. ](/news/2010/11/21/egypt-restricts-opposition-before-vote-with-security-forces-arresting-hundreds-of-opposition-activists-and-clamping-down-on-the-media-ahea.md)
-_Context: Amnesty International, Egyptian parliamentary elections, Egypt_
+_Context: Egypt, Egyptian parliamentary elections, Amnesty International_
 
 ##### Iranian President
 ### [Iranian President Mahmoud Ahmadinejad rejects the country's once effective family planning program as an "ungodly Western import" and urges girls to marry at age of 16. ](/news/2010/11/21/iranian-president-mahmoud-ahmadinejad-rejects-the-country-s-once-effective-family-planning-program-as-an-ungodly-western-import-and-urges.md)

@@ -17,7 +17,7 @@ SEOUL, South Korea (AP) — South Korea and the United States began annual milit
 
 ##### Iran-Russia relations
 ### [Iran confirms that Russia will stop using its Hamadan Airbase to launch attacks in Syria, saying Russia's use of Hamadan Airbase was "temporary, based on a Russian request," and that Russian operations are "finished for now". Iranian Defence Minister Hossein Dehghan earlier criticized Russia's announcement of its use of the base in Iran, saying "There has been a kind of showing-off and inconsiderate attitude behind the announcement of this news." ](/news/2016/08/22/iran-confirms-that-russia-will-stop-using-its-hamadan-airbase-to-launch-attacks-in-syria-saying-russia-s-use-of-hamadan-airbase-was-tempor.md)
-_Context: Russia, Iran-Russia relations, Hamadan Airbase, Syrian civil war, Hossein Dehghan, Minister of Defence, Iran_
+_Context: Minister of Defence, Syrian civil war, Iran-Russia relations, Iran, Hossein Dehghan, Russia, Hamadan Airbase_
 
 ##### Ahmad al-Mahdi
 ### [Ahmad al-Mahdi pleads guilty at the start of his trial before the International Criminal Court for the war crime of destroying cultural sites in Timbuktu. ](/news/2016/08/22/ahmad-al-mahdi-pleads-guilty-at-the-start-of-his-trial-before-the-international-criminal-court-for-the-war-crime-of-destroying-cultural-site.md)
@@ -29,7 +29,7 @@ Senator Leila de Lima, a staunch critic of the president, started a two-day cong
 
 ##### President
 ### [President of the Philippines Rodrigo Duterte fires thousands of former president Benigno Aquino III appointees from the government. ](/news/2016/08/22/president-of-the-philippines-rodrigo-duterte-fires-thousands-of-former-president-benigno-aquino-iii-appointees-from-the-government.md)
-_Context: his predecessor, President, Rodrigo Duterte_
+_Context: President, his predecessor, Rodrigo Duterte_
 
 ##### Last month's presidential election
 ### [Former President of France Nicolas Sarkozy officially declares his candidacy for president in 2017. ](/news/2016/08/22/former-president-of-france-nicolas-sarkozy-officially-declares-his-candidacy-for-president-in-2017.md)

@@ -25,19 +25,19 @@ Afghan President Hamid Karzai calls the first joint operation by Russian and US 
 
 ##### Guinea
 ### [Thousands of people flee their homes in Guinea amid ethnic clashes ahead of a presidential run-off. ](/news/2010/10/30/thousands-of-people-flee-their-homes-in-guinea-amid-ethnic-clashes-ahead-of-a-presidential-run-off.md)
-_Context: Guinea, November's presidential poll_
+_Context: November's presidential poll, Guinea_
 
 ##### Plateau State
 ### [Community leaders in Plateau State, Nigeria, appeal for calm following attacks by Muslim Hausa-Fulani against a Christian village near the city of Jos. ](/news/2010/10/30/community-leaders-in-plateau-state-nigeria-appeal-for-calm-following-attacks-by-muslim-hausa-fulani-against-a-christian-village-near-the-c.md)
-_Context: Jos, Nigeria, Muslim, Hausa-Fulani, Plateau State, Christian_
+_Context: Jos, Nigeria, Christian, Muslim, Hausa-Fulani, Plateau State_
 
 ##### Somali pirates
 ### [Somali pirates attack and seize a Liberian tanker with 24 crew on board in the Indian Ocean. ](/news/2010/10/30/somali-pirates-attack-and-seize-a-liberian-tanker-with-24-crew-on-board-in-the-indian-ocean.md)
-_Context: Liberia, Somali pirates, Indian_
+_Context: Indian, Liberia, Somali pirates_
 
 ##### AMISOM
 ### [A roadside bomb targeting the African Union Mission to Somalia kills seven people in the capital Mogadishu. ](/news/2010/10/30/a-roadside-bomb-targeting-the-african-union-mission-to-somalia-kills-seven-people-in-the-capital-mogadishu.md)
-_Context: AMISOM, Mogadishu_
+_Context: Mogadishu, AMISOM_
 
 ##### Take That
 ### [English pop group Take That sell 1 million 2011 reunion tour tickets within 24 hours amid crashing websites and jammed phone lines. ](/news/2010/10/30/english-pop-group-take-that-sell-1-million-2011-reunion-tour-tickets-within-24-hours-amid-crashing-websites-and-jammed-phone-lines.md)
@@ -53,7 +53,7 @@ A newly discovered oil-field off the coast of Brazil could contain up to 15 bill
 
 ##### West Bengal
 ### [At least 16 people drown and 70 are missing after an overcrowded ferry sinks in a river in West Bengal, eastern India. ](/news/2010/10/30/at-least-16-people-drown-and-70-are-missing-after-an-overcrowded-ferry-sinks-in-a-river-in-west-bengal-eastern-india.md)
-_Context: India, West Bengal_
+_Context: West Bengal, India_
 
 ##### Sumatra tsunami
 ### [The death toll from the tsunami climbs to 413 and 218 people missing with the Government of Indonesia considering evacuations. ](/news/2010/10/30/the-death-toll-from-the-tsunami-climbs-to-413-and-218-people-missing-with-the-government-of-indonesia-considering-evacuations.md)
@@ -61,11 +61,11 @@ Rescue workers in Indonesia find group hiding on higher ground, halving number o
 
 ##### Typhoon Chaba
 ### [Typhoon Chaba heads towards eastern Japan. ](/news/2010/10/30/typhoon-chaba-heads-towards-eastern-japan.md)
-_Context: Japan, Typhoon Chaba_
+_Context: Typhoon Chaba, Japan_
 
 ##### France
 ### [French and Australian rescue crews find four French nationals who died in a helicopter crash in Antarctica. ](/news/2010/10/30/french-and-australian-rescue-crews-find-four-french-nationals-who-died-in-a-helicopter-crash-in-antarctica.md)
-_Context: Antarctica, helicopter, Australia, France, find four French nationals_
+_Context: France, Australia, find four French nationals, helicopter, Antarctica_
 
 ##### Tropical Storm Tomas
 ### [Hurricane Tomas lashes the islands of Saint Lucia and Saint Vincent in the Lesser Antilles. ](/news/2010/10/30/hurricane-tomas-lashes-the-islands-of-saint-lucia-and-saint-vincent-in-the-lesser-antilles.md)
@@ -89,11 +89,11 @@ Saudi king invites bloc leaders to Riyadh for talks aimed at breaking months of 
 
 ##### Rwanda
 ### [Two men are sentenced to life imprisonment for the killing of a Rwandan journalist who had allegedly uncovered evidence that the Rwandan government was behind the attempted murder of an ex-army general. ](/news/2010/10/30/two-men-are-sentenced-to-life-imprisonment-for-the-killing-of-a-rwandan-journalist-who-had-allegedly-uncovered-evidence-that-the-rwandan-gov.md)
-_Context: Rwanda, Rwandan government_
+_Context: Rwandan government, Rwanda_
 
 ##### Turkey
 ### [Turkey lifts a two-year ban on YouTube, which was blocked due to videos insulting the country's founder Mustafa Kemal Ataturk. ](/news/2010/10/30/turkey-lifts-a-two-year-ban-on-youtube-which-was-blocked-due-to-videos-insulting-the-country-s-founder-mustafa-kemal-atata1-4rk.md)
-_Context: Mustafa Kemal Ataturk, Turkey, YouTube_
+_Context: Mustafa Kemal Ataturk, YouTube, Turkey_
 
 ##### Sweden
 ### [Sweden detains two people for allegedly plotting to attack Gothenburg in an alleged "terrorist crime". ](/news/2010/10/30/sweden-detains-two-people-for-allegedly-plotting-to-attack-gothenburg-in-an-alleged-terrorist-crime.md)
@@ -101,7 +101,7 @@ Two people remain in detention in connection with alleged attack plot in Gothenb
 
 ##### Soccer
 ### [Fourteen people are killed by gunmen at a soccer field in San Pedro Sula, Honduras. ](/news/2010/10/30/fourteen-people-are-killed-by-gunmen-at-a-soccer-field-in-san-pedro-sula-honduras.md)
-_Context: soccer, Honduras, San Pedro Sula_
+_Context: San Pedro Sula, soccer, Honduras_
 
 ##### Rally to Restore Sanity and/or Fear
 ### [An estimated 200,000 people attend the Rally to Restore Sanity and-or Fear by political satirists Jon Stewart and Stephen Colbert on the National Mall in Washington, D.C. ](/news/2010/10/30/an-estimated-200-000-people-attend-the-rally-to-restore-sanity-and-or-fear-by-political-satirists-jon-stewart-and-stephen-colbert-on-the-nat.md)

@@ -49,7 +49,7 @@ A federal jury awarded almost $17.5 million to five former female employees of a
 
 ##### Peter Robinson
 ### [Peter Robinson, the First Minister of Northern Ireland, steps aside after the Democratic Unionist Party fails to get enough support to adjourn the assembly. ](/news/2015/09/10/peter-robinson-the-first-minister-of-northern-ireland-steps-aside-after-the-democratic-unionist-party-fails-to-get-enough-support-to-adjou.md)
-_Context: Democratic Unionist Party, Northern Ireland, First Minister, Peter Robinson_
+_Context: First Minister, Northern Ireland, Democratic Unionist Party, Peter Robinson_
 
 ##### ELife scientific journal
 ### ["Elife" publishes a discovery by scientists at the University of the Witwatersrand announcing a new species of hominid ("Homo naledi") in the Rising Star Cave in South Africa. Although the remains have yet to be properly dated, they could be three million years old. ](/news/2015/09/10/elife-publishes-a-discovery-by-scientists-at-the-university-of-the-witwatersrand-announcing-a-new-species-of-hominid-homo-naledi-in-th.md)

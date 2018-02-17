@@ -5,7 +5,7 @@ Formats: [HTML](2016/06/25/index.html)  [JSON](2016/06/25/index.json)  [XML](201
 
 ##### Moro conflict
 ### [The Islamic State of Iraq and the Levant urges its supporters in Indonesia and Malaysia to go to the Philippines and fight against newly-elected president Rodrigo Duterte. ](/news/2016/06/25/the-islamic-state-of-iraq-and-the-levant-urges-its-supporters-in-indonesia-and-malaysia-to-go-to-the-philippines-and-fight-against-newly-ele.md)
-_Context: Malaysia, Moro conflict, ISIL, Rodrigo Duterte_
+_Context: Malaysia, ISIL, Moro conflict, Rodrigo Duterte_
 
 ##### Syrian Civil War
 ### [At least three people are killed and three more injured as hundreds of Syrian Kurds flee Aleppo Province villages controlled by the Islamic State of Iraq and the Levant, which continues to abduct and enslave Kurds. Yesterday, the Syrian Observatory for Human Rights reported ISIL militants have kidnapped about 900 civilians over the past three weeks. ](/news/2016/06/25/at-least-three-people-are-killed-and-three-more-injured-as-hundreds-of-syrian-kurds-flee-aleppo-province-villages-controlled-by-the-islamic.md)
@@ -21,7 +21,7 @@ Islamic extremist group al-Shabab on Saturday claimed responsibility for the lat
 
 ##### 2016 West Virginia flood
 ### [The Kanawha County sheriff's office reports the death toll is now 26--three more victims were found overnight. It is the third-deadliest flood in West Virginia history. ](/news/2016/06/25/the-kanawha-county-sheriff-s-office-reports-the-death-toll-is-now-26athree-more-victims-were-found-overnight-it-is-the-third-deadliest-fl.md)
-_Context: 2016 West Virginia flood, Kanawha County, West Virginia_
+_Context: West Virginia, Kanawha County, 2016 West Virginia flood_
 
 ##### Lake Victoria
 ### [Two women and seven men of the Extra Young Ohangla band die and eight other band members survive after their boat sinks in Lake Victoria at Kenya's Lihunda beach. The 15-member band was headed to Ndeda Island. ](/news/2016/06/25/two-women-and-seven-men-of-the-extra-young-ohangla-band-die-and-eight-other-band-members-survive-after-their-boat-sinks-in-lake-victoria-at.md)
@@ -33,7 +33,7 @@ A massive wildfire burning out of control in the foothills of central California
 
 ##### Cross-Strait relations
 ### [The People's Republic of China cuts communication mechanism with Taiwan after the new government refuses to acknowledge the One China policy. ](/news/2016/06/25/the-people-s-republic-of-china-cuts-communication-mechanism-with-taiwan-after-the-new-government-refuses-to-acknowledge-the-one-china-policy.md)
-_Context: Taiwan, Cross-Strait relations, China, One China_
+_Context: Taiwan, China, Cross-Strait relations, One China_
 
 ##### United Kingdom withdrawal from the European Union
 ### [Diplomats from Germany, France, Italy, the Netherlands, Belgium, and Luxembourg meet in Berlin to discuss the consequences of the United Kingdom voting to leave the European Union. ](/news/2016/06/25/diplomats-from-germany-france-italy-the-netherlands-belgium-and-luxembourg-meet-in-berlin-to-discuss-the-consequences-of-the-united-kin.md)

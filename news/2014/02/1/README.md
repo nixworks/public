@@ -19,7 +19,7 @@ At least 14 people were killed, while three others were severelyinjured when Mou
 
 ##### Endangered species
 ### [Hundreds of endangered species from Madagascar are found in a South African airport. ](/news/2014/02/1/hundreds-of-endangered-species-from-madagascar-are-found-in-a-south-african-airport.md)
-_Context: South Africa, Madagascar, endangered species_
+_Context: endangered species, Madagascar, South Africa_
 
 ##### Chris Christie
 ### [A former aide of Chris Christie accuses the governor of having knowledge of the event. ](/news/2014/02/1/a-former-aide-of-chris-christie-accuses-the-governor-of-having-knowledge-of-the-event.md)
@@ -27,7 +27,7 @@ _Context: Chris Christie_
 
 ##### India
 ### [In India, the first 8.9 km of the Mumbai Monorail is inaugurated. ](/news/2014/02/1/in-india-the-first-8-9-km-of-the-mumbai-monorail-is-inaugurated.md)
-_Context: Mumbai Monorail, India_
+_Context: India, Mumbai Monorail_
 
 ## [Previous Day...](/news/2014/01/31/index.md)
 

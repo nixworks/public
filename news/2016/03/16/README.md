@@ -9,7 +9,7 @@ More than a dozen killed in attack on government workers in volatile city of Pes
 
 ##### Boko Haram insurgency
 ### [Two female suicide bombers detonate their explosives at a mosque during morning prayer on the outskirts of Maiduguri, Nigeria, killing 22 and injuring 18. ](/news/2016/03/16/two-female-suicide-bombers-detonate-their-explosives-at-a-mosque-during-morning-prayer-on-the-outskirts-of-maiduguri-nigeria-killing-22-an.md)
-_Context: Boko Haram insurgency, 2016 Maiduguri suicide bombings, Maiduguri, Nigeria_
+_Context: Maiduguri, 2016 Maiduguri suicide bombings, Boko Haram insurgency, Nigeria_
 
 ##### Washington Metro
 ### [The Washington Metro, a commuter rail system which transports nearly 1 million passengers across the Washington, D.C. metropolitan area per day, shuts down to allow for an emergency inspection of 600 electrical cables, following two fires occurring over the past 14 months. Officials say the system is scheduled to resume service by the following morning, though individual Metro lines or stations could remain closed indefinitely if problems are identified. ](/news/2016/03/16/the-washington-metro-a-commuter-rail-system-which-transports-nearly-1-million-passengers-across-the-washington-d-c-metropolitan-area-per.md)
@@ -29,19 +29,19 @@ Syrian government representatives rule out starting direct negotiations with the
 
 ##### Turkey-United Kingdom relations
 ### [ Turkey deports British academic Chris Stephenson, a computer science lecturer at Bilgi University in Istanbul, who is charged with making terrorism propaganda. The UK Foreign Office said it was providing assistance; there has been no comment from Turkish officials. ](/news/2016/03/16/turkey-deports-british-academic-chris-stephenson-a-computer-science-lecturer-at-bilgi-university-in-istanbul-who-is-charged-with-making-t.md)
-_Context: computer science, Istanbul, Foreign and Commonwealth Office, academic, Turkey-United Kingdom relations, Turkey, Bilgi University, United Kingdom_
+_Context: Istanbul, Bilgi University, United Kingdom, computer science, Turkey-United Kingdom relations, Turkey, academic, Foreign and Commonwealth Office_
 
 ##### Pakistan
 ### [ The travel ban for former Pakistani President Pervez Musharraf is lifted by the Supreme Court of Pakistan. Musharraf is currently facing treason charges in Pakistan. ](/news/2016/03/16/the-travel-ban-for-former-pakistani-president-pervez-musharraf-is-lifted-by-the-supreme-court-of-pakistan-musharraf-is-currently-facing-tr.md)
-_Context: Supreme Court, Pakistan, Pervez Musharraf_
+_Context: Pervez Musharraf, Pakistan, Supreme Court_
 
 ##### PKK rebellion (2015-present)
 ### [ Authorities in Turkey arrest three academics on charges of "terrorist propaganda" after they called for an end to security operations in the country's Kurdish-majority southeast. ](/news/2016/03/16/authorities-in-turkey-arrest-three-academics-on-charges-of-terrorist-propaganda-after-they-called-for-an-end-to-security-operations-in-th.md)
-_Context: Turkey, PKK rebellion (2015-present), Turkish police_
+_Context: Turkish police, PKK rebellion (2015-present), Turkey_
 
 ##### Attacks on humanitarian workers
 ### [The U.S. military disciplines more than a dozen personnel for mistakes that led to the bombing of a Medecins Sans Frontieres (Doctors Without Borders) hospital that killed 42 people in Afghanistan last October. No criminal charges are pending. The partially redacted investigation report is expected to be made public shortly. ](/news/2016/03/16/the-u-s-military-disciplines-more-than-a-dozen-personnel-for-mistakes-that-led-to-the-bombing-of-a-ma-c-decins-sans-frontia-res-doctors-with.md)
-_Context: redacted, Medecins Sans Frontieres, Attacks on humanitarian workers, Afghan, United States military personnel_
+_Context: Medecins Sans Frontieres, redacted, United States military personnel, Attacks on humanitarian workers, Afghan_
 
 ##### Republican Party presidential debates and forums, 2016
 ### [ Donald Trump announces he will skip the Fox News GOP presidential debate between the three remaining candidates on March 21, saying he thinks "we had enough of debates." ](/news/2016/03/16/donald-trump-announces-he-will-skip-the-fox-news-gop-presidential-debate-between-the-three-remaining-candidates-on-march-21-saying-he-thin.md)
@@ -51,7 +51,7 @@ The Ohio governor will participate if Trump changes his mind.
 ### [Senior GOP rules committee member Curly Haugland says that "We (RCN committee members) choose the nominee, not the voters". ](/news/2016/03/16/senior-gop-rules-committee-member-curly-haugland-says-that-we-rcn-committee-members-choose-the-nominee-not-the-voters.md)
 _Context: Curly Haugland_
 
-##### 2016 U.S. presidential election
+##### 2016 U.S. election
 ### [In the Missouri Primary, media outlets have held off calling yesterday's races due to the extremely close results. Donald Trump and Hillary Clinton lead in their party's vote, but by just two-tenths of 1 percent ahead of Ted Cruz and Bernie Sanders, respectively. Missouri law states a recount may be requested if the margin is less than half a percentage point. Either Cruz or Sanders or both can request a recount. These results are unofficial, until they're certified by the Missouri Secretary of State, which reportedly could take up to four weeks. Trump leads by about 1,700 votes and Clinton's edge is about 1,500. The state also needs to count the remaining absentee and provisional ballots; the deadline for overseas ballots is noon Friday. ](/news/2016/03/16/in-the-missouri-primary-media-outlets-have-held-off-calling-yesterday-s-races-due-to-the-extremely-close-results-donald-trump-and-hillary.md)
 Ted Cruz and Bernie Sanders both trail the front-runners by two-tenths of 1 percent.
 

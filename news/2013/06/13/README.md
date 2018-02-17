@@ -21,7 +21,7 @@ An explosion and fire killed one person and injured 73 at the Williams Olefins c
 
 ##### BRCA gene
 ### [United States Supreme Court rules that isolated human genes are not patentable, invalidating BRCA gene patents held by Myriad Genetics. ](/news/2013/06/13/united-states-supreme-court-rules-that-isolated-human-genes-are-not-patentable-invalidating-brca-gene-patents-held-by-myriad-genetics.md)
-_Context: Myriad Genetics, BRCA gene_
+_Context: BRCA gene, Myriad Genetics_
 
 ##### Kidnap
 ### [Kidnapped British engineer Malcolm Primrose is found safe in Indonesia. ](/news/2013/06/13/kidnapped-british-engineer-malcolm-primrose-is-found-safe-in-indonesia.md)

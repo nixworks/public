@@ -17,7 +17,7 @@ UK media regulator Ofcom says BSkyB is &quot;fit and proper&quot; to hold a broa
 
 ##### Unionize
 ### [Trade unions in India hold a strike over plans to open up supermarkets to international competition. ](/news/2012/09/20/trade-unions-in-india-hold-a-strike-over-plans-to-open-up-supermarkets-to-international-competition.md)
-_Context: India, unionize, supermarket_
+_Context: supermarket, unionize, India_
 
 ##### AU Optronics
 ### [AU Optronics was fined $500 million for a global LCD screen price-fixing conspiracy. ](/news/2012/09/20/au-optronics-was-fined-500-million-for-a-global-lcd-screen-price-fixing-conspiracy.md)
@@ -33,15 +33,15 @@ Will the mainstream media retract stories about ice levels falling?
 
 ##### US Deputy Secretary of State
 ### [The US Deputy Secretary of State William Burns meets with government officials in Libya about last week's deadly attack at the US consulate in Benghazi. ](/news/2012/09/20/the-us-deputy-secretary-of-state-william-burns-meets-with-government-officials-in-libya-about-last-week-s-deadly-attack-at-the-us-consulate.md)
-_Context: government officials, US Deputy Secretary of State, attack on the U.S. Consulate in Benghazi, Libya, Libya_
+_Context: US Deputy Secretary of State, Libya, attack on the U.S. Consulate in Benghazi, Libya, government officials_
 
 ##### Foreign Ministry
 ### [Russia's Foreign Ministry bans the United States Agency for International Development from operating in the country, saying that it had meddled in recent elections. ](/news/2012/09/20/russia-s-foreign-ministry-bans-the-united-states-agency-for-international-development-from-operating-in-the-country-saying-that-it-had-medd.md)
-_Context: recent elections, Foreign Ministry, USAID_
+_Context: USAID, recent elections, Foreign Ministry_
 
 ##### Daniel "El Loco" Barrera
 ### [Daniel "El Loco" Barrera, a Colombian crime boss accused of alliances with guerrilla groups and drug trafficking crimes, is captured in San Cristobal, Venezuela. ](/news/2012/09/20/daniel-el-loco-barrera-a-colombian-crime-boss-accused-of-alliances-with-guerrilla-groups-and-drug-trafficking-crimes-is-captured-in-san.md)
-_Context: Colombian crime boss, Daniel "El Loco" Barrera, Venezuela, drug lord, San Cristobal_
+_Context: drug lord, Venezuela, Colombian crime boss, Daniel "El Loco" Barrera, San Cristobal_
 
 ##### Bahrain
 ### [The government of Bahrain pledges to adopt most of the recommendations in a United Nations report on the country's human rights situation. ](/news/2012/09/20/the-government-of-bahrain-pledges-to-adopt-most-of-the-recommendations-in-a-united-nations-report-on-the-country-s-human-rights-situation.md)
@@ -57,11 +57,11 @@ Hundreds of people held a spontaneous protest in Georgia’s capital Tbilisi ear
 
 ##### Hamid Karzai
 ### [President Karzai dismisses Mohammad Gulab Mangal and others in a reshuffle of the government in Afghanistan. ](/news/2012/09/20/president-karzai-dismisses-mohammad-gulab-mangal-and-others-in-a-reshuffle-of-the-government-in-afghanistan.md)
-_Context: Mohammad Gulab Mangal, Hamid Karzai, Afghan_
+_Context: Afghan, Mohammad Gulab Mangal, Hamid Karzai_
 
 ##### Tim Pawlenty
 ### [Tim Pawlenty resigns as the co-chairman of Mitt Romney's electoral campaign. He is to head the Financial Services Roundtable in Washington, D.C.. ](/news/2012/09/20/tim-pawlenty-resigns-as-the-co-chairman-of-mitt-romney-s-electoral-campaign-he-is-to-head-the-financial-services-roundtable-in-washington.md)
-_Context: Washington, D.C., Tim Pawlenty, Financial Services Roundtable, Mitt Romney_
+_Context: Financial Services Roundtable, Tim Pawlenty, Washington, D.C., Mitt Romney_
 
 ##### University of Nebraska-Lincoln
 ### [A specialist in communication from the University of Nebraska-Lincoln says that the use of unmanned aerial vehicles in journalism will soon become widespread. ](/news/2012/09/20/a-specialist-in-communication-from-the-university-of-nebraskaalincoln-says-that-the-use-of-unmanned-aerial-vehicles-in-journalism-will-soo.md)

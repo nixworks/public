@@ -5,7 +5,7 @@ Formats: [HTML](2014/12/2/index.html)  [JSON](2014/12/2/index.json)  [XML](2014/
 
 ##### War in Somalia
 ### [The Red Cross says that at least 36 people may be dead following an attack in Mandera County in northeastern Kenya. Al-Shabaab militants are believed to be responsible. ](/news/2014/12/2/the-red-cross-says-that-at-least-36-people-may-be-dead-following-an-attack-in-mandera-county-in-northeastern-kenya-al-shabaab-militants-are.md)
-_Context: Kenya, al-Shabab, Mandera County, War in Somalia, Red Cross_
+_Context: War in Somalia, al-Shabab, Red Cross, Mandera County, Kenya_
 
 ##### Syrian Civil War spillover in Lebanon
 ### [Unidentified gunmen kill 6 Lebanese soldiers near the eastern town of Ras Baalbek. ](/news/2014/12/2/unidentified-gunmen-kill-6-lebanese-soldiers-near-the-eastern-town-of-ras-baalbek.md)
@@ -21,19 +21,19 @@ The FBI has launched an investigation into the massive cyberattack that wreaked 
 
 ##### Trafigura
 ### [A major Switzerland based commodities firm, Trafigura, played a "pivotal" role in the ability of the semi-autonomous Kurdish region of Iraq to export oil, exports that the central government in Baghdad has prohibited. ](/news/2014/12/2/a-major-switzerland-based-commodities-firm-trafigura-played-a-pivotal-role-in-the-ability-of-the-semi-autonomous-kurdish-region-of-iraq.md)
-_Context: Kurd, Trafigura, Baghdad, Iraq_
+_Context: Iraq, Baghdad, Kurd, Trafigura_
 
 ##### Ebola virus epidemic in West Africa
 ### [Sierra Leone quarantines the Tonkolili district with more than half the country under lockdown and the official death toll in the country reaching 1,530 and roughly 7,109 infected. ](/news/2014/12/2/sierra-leone-quarantines-the-tonkolili-district-with-more-than-half-the-country-under-lockdown-and-the-official-death-toll-in-the-country-re.md)
-_Context: Sierra Leone, Tonkolili, Ebola virus epidemic in West Africa_
+_Context: Ebola virus epidemic in West Africa, Tonkolili, Sierra Leone_
 
 ##### South Korea
 ### [South Korea approves a plan by the Christian Council of Korea to set up a large Christmas tree near the border with North Korea despite ongoing tensions. ](/news/2014/12/2/south-korea-approves-a-plan-by-the-christian-council-of-korea-to-set-up-a-large-christmas-tree-near-the-border-with-north-korea-despite-ongo.md)
-_Context: Christmas tree, Christian Council of Korea, South Korea, North Korea_
+_Context: Christmas tree, North Korea, Christian Council of Korea, South Korea_
 
 ##### Greek
 ### [Greek anarchists burn a public transport bus and several cars during clashes with police in central Athens. ](/news/2014/12/2/greek-anarchists-burn-a-public-transport-bus-and-several-cars-during-clashes-with-police-in-central-athens.md)
-_Context: Greek, Athens, anarchist_
+_Context: Athens, Greek, anarchist_
 
 ##### Egypt
 ### [An Egyptian court sentences 185 people to death over their alleged involvement in a lethal attack on a police station on the outskirts of Cairo. ](/news/2014/12/2/an-egyptian-court-sentences-185-people-to-death-over-their-alleged-involvement-in-a-lethal-attack-on-a-police-station-on-the-outskirts-of-ca.md)

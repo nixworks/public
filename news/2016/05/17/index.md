@@ -17,13 +17,13 @@ A massive wildfire around the oil sands hub of Fort McMurray, Canada forces the 
 
 ##### North Korea's nuclear program
 ### [Amid growing concern about North Korea's ballistic missile capability, South Korea, Japan and the U.S. are to hold their first ever joint anti-missile exercise next month, according to South Korea's Ministry of National Defense. The three countries will practice "detecting and tracing a hypothetical North Korean missile," said a ministry official. ](/news/2016/05/17/amid-growing-concern-about-north-korea-s-ballistic-missile-capability-south-korea-japan-and-the-u-s-are-to-hold-their-first-ever-joint-an.md)
-_Context: Japan, anti-missile, United States, North Korea's nuclear program, South Korean Defense Minister, North Korea, South Korea_
+_Context: anti-missile, Japan, North Korea, South Korean Defense Minister, South Korea, United States, North Korea's nuclear program_
 
 ##### Nepal-United Kingdom relations
 ### [British national Martin Travers is detained in Nepal for allegedly taking part in protests against the Nepalese government. ](/news/2016/05/17/british-national-martin-travers-is-detained-in-nepal-for-allegedly-taking-part-in-protests-against-the-nepalese-government.md)
 The Nepali government says a British national has been detained for questioning about his involvement in anti-government protests by ethnic minority groups.
 
-##### 2016 U.S. presidential election
+##### 2016 U.S. election
 ### [Voters in the American state of Oregon have their mail-in ballots counted for a Democratic Party and Republican Party primary. Donald Trump is the projected winner on the Republican winner while Bernie Sanders is projected to win the Democratic Party race. ](/news/2016/05/17/voters-in-the-american-state-of-oregon-have-their-mail-in-ballots-counted-for-a-democratic-party-and-republican-party-primary-donald-trump.md)
 Presidential election results from the 2016 Oregon Democratic Primary and Oregon Republican Primary on May 17
 

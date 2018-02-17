@@ -17,7 +17,7 @@ A timeline in the George Papadopoulos case.
 
 ##### 2017 Spanish constitutional crisis
 ### [The Spanish attorney general requests a lawsuit against (former) Catalan government members, seeking charges of sedition, rebellion and embezzlement. The Catalan parliament is formally dissolved. ](/news/2017/10/30/the-spanish-attorney-general-requests-a-lawsuit-against-former-catalan-government-members-seeking-charges-of-sedition-rebellion-and-embe.md)
-_Context: 2017 Spanish constitutional crisis, Catalan Republic (2017), Catalan officials, rebellion, sedition, Spanish Attorney General, embezzlement_
+_Context: embezzlement, 2017 Spanish constitutional crisis, Spanish Attorney General, rebellion, Catalan officials, Catalan Republic (2017), sedition_
 
 ##### Women's rights in Saudi Arabia
 ### [Starting in 2018, women will be allowed to attend sports events in stadiums in Saudi Arabia for the first time in the country's history, officials say. ](/news/2017/10/30/starting-in-2018-women-will-be-allowed-to-attend-sports-events-in-stadiums-in-saudi-arabia-for-the-first-time-in-the-country-s-history-off.md)
@@ -29,7 +29,7 @@ A federal court has blocked President Trump in part from changing the military&#
 
 ##### Carbon dioxide in Earth's atmosphere
 ### [Concentrations of carbon dioxide ({{CO2}}) in the Earth's atmosphere surged by a record amount in 2016, according to the World Meteorological Organization. ](/news/2017/10/30/concentrations-of-carbon-dioxide-co2-in-the-earth-s-atmosphere-surged-by-a-record-amount-in-2016-according-to-the-world-meteorologica.md)
-_Context: World Meteorological Organization, carbon dioxide, Earth's atmosphere, Carbon dioxide in Earth's atmosphere_
+_Context: carbon dioxide, World Meteorological Organization, Earth's atmosphere, Carbon dioxide in Earth's atmosphere_
 
 ## [Previous Day...](/news/2017/10/29/index.md)
 

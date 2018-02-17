@@ -5,7 +5,7 @@ Formats: [HTML](2013/09/12/index.html)  [JSON](2013/09/12/index.json)  [XML](201
 
 ##### Moro National Liberation Front
 ### [The Moro National Liberation Front attacks the Philippines town of Lamitan with five people missing and two injured. ](/news/2013/09/12/the-moro-national-liberation-front-attacks-the-philippines-town-of-lamitan-with-five-people-missing-and-two-injured.md)
-_Context: Lamitan, Philippines, Moro National Liberation Front_
+_Context: Philippines, Lamitan, Moro National Liberation Front_
 
 ##### Abu Mansoor Al-Amriki
 ### [American born Islamist militant Abu Mansoor Al-Amriki is shot dead in a dawn raid in a shootout with his former al-Shabaab colleagues in southern Somalia. ](/news/2013/09/12/american-born-islamist-militant-abu-mansoor-al-amriki-is-shot-dead-in-a-dawn-raid-in-a-shootout-with-his-former-al-shabaab-colleagues-in-sou.md)
@@ -15,7 +15,7 @@ A US-born Islamist with a $5 billion bounty on his head is shot dead in Somalia.
 ### [Prince William, Duke of Cambridge, leaves the Royal Air Force to devote his energies to Royal and community work. ](/news/2013/09/12/prince-william-duke-of-cambridge-leaves-the-royal-air-force-to-devote-his-energies-to-royal-and-community-work.md)
 _Context: Duke of Cambridge, Royal Air Force_
 
-##### China
+##### Chinese
 ### [The People's Republic of China sets goals for use of coal as part of a comprehensive plan for reducing air pollution. ](/news/2013/09/12/the-people-s-republic-of-china-sets-goals-for-use-of-coal-as-part-of-a-comprehensive-plan-for-reducing-air-pollution.md)
 CHINA-COAL/POLLUTION (URGENT):China sets national coal use target to tackle air pollution
 

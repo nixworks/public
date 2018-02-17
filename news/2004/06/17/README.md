@@ -5,7 +5,7 @@ Formats: [HTML](2004/06/17/index.html)  [JSON](2004/06/17/index.json)  [XML](200
 
 ##### United States military
 ### [ The Pentagon confirms a report in "The New York Times" that CIA chief George Tenet&nbsp;- who steps down from the post next month&nbsp;- was allowed by U.S. Secretary of Defense Donald Rumsfeld to have an Iraqi prisoner secretly detained in alleged violation of the Geneva Convention. ](/news/2004/06/17/the-pentagon-confirms-a-report-in-the-new-york-times-that-cia-chief-george-tenet-nbsp-a-who-steps-down-from-the-post-next-month-nbsp-a.md)
-_Context: United States military, The New York Times, Iraq, violation, Geneva Convention, CIA, United States Secretary of Defense, George Tenet, Donald Rumsfeld_
+_Context: Geneva Convention, violation, United States Secretary of Defense, George Tenet, Iraq, CIA, The New York Times, United States military, Donald Rumsfeld_
 
 ## [Previous Day...](/news/2004/06/16/index.md)
 

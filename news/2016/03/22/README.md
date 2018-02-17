@@ -17,7 +17,7 @@ Saudi-led airstrikes targeting al Qaeda in eastern Yemen killed and wounded doze
 
 ##### 2016 Brussels bombings
 ### [In light of the Belgian attacks, Warner Bros. cancels the red carpet but will hold the European premiere of the highly-publicized film, "Batman v Superman: Dawn of Justice", at London's Leicester Square tonight. ](/news/2016/03/22/in-light-of-the-belgian-attacks-warner-bros-cancels-the-red-carpet-but-will-hold-the-european-premiere-of-the-highly-publicized-film-bat.md)
-_Context: Belgium, London, Batman v Superman: Dawn of Justice, Leicester Square, Warner Bros., red carpet, 2016 Brussels bombings_
+_Context: Belgium, London, red carpet, Warner Bros., 2016 Brussels bombings, Leicester Square, Batman v Superman: Dawn of Justice_
 
 ##### Colombian conflict
 ### [U.S. Secretary of State John Kerry holds a meeting with leaders of FARC in a sign of encouragement in ending Colombia's half-century old conflict. ](/news/2016/03/22/u-s-secretary-of-state-john-kerry-holds-a-meeting-with-leaders-of-farc-in-a-sign-of-encouragement-in-ending-colombia-s-half-century-old-con.md)
@@ -33,7 +33,7 @@ A Russian court sentences Ukrainian pilot Nadiya Savchenko to 22 years in jail i
 
 ##### Russia
 ### [A court in southern Russia finds Ukrainian pilot Nadiya Savchenko guilty of being complicit in the killing of two Russian journalists, killing civilians and illegal border crossing and is sentenced to 22 years in prison and a fine of 30,000 rubles. Savchenko denies all the charges and the Ukrainian government said that they would continue to press for her release. ](/news/2016/03/22/a-court-in-southern-russia-finds-ukrainian-pilot-nadiya-savchenko-guilty-of-being-complicit-in-the-killing-of-two-russian-journalists-killi.md)
-_Context: Nadiya Savchenko, Russian ruble, Russia, Ukraine_
+_Context: Russian ruble, Ukraine, Nadiya Savchenko, Russia_
 
 ##### FBI-Apple encryption dispute
 ### [A federal judge postpones Tuesday's hearing at the government's request. The FBI says a third party demonstrated a way to access Syed Rizwan Farook's iPhone. Melanie Newman, U.S. Department of Justice spokeswoman, says officials are cautiously optimistic a test of this method will allow access to the phone without compromising the data. ](/news/2016/03/22/a-federal-judge-postpones-tuesday-s-hearing-at-the-government-s-request-the-fbi-says-a-third-party-demonstrated-a-way-to-access-syed-rizwan.md)
@@ -41,9 +41,9 @@ A federal judge has postponed a hearing set for Tuesday that would have been the
 
 ##### Supreme Court of the United States
 ### [The United States Supreme Court, in a 6-2 ruling written by Justice Anthony Kennedy, upholds the 8th U.S. Circuit Court of Appeals' $5.8 million class action judgment against Tyson Foods Incorporated filed by workers at an Iowa pork-processing facility who contended they were underpaid. ](/news/2016/03/22/the-united-states-supreme-court-in-a-6-2-ruling-written-by-justice-anthony-kennedy-upholds-the-8th-u-s-circuit-court-of-appeals-5-8-mil.md)
-_Context: Tyson Foods Incorporated, Justice Anthony Kennedy, 8th U.S. Circuit Court of Appeals', class action, Iowa, Supreme Court of the United States_
+_Context: Supreme Court of the United States, Iowa, Justice Anthony Kennedy, Tyson Foods Incorporated, 8th U.S. Circuit Court of Appeals', class action_
 
-##### 2016 U.S. presidential election
+##### 2016 U.S. election
 ### [Voters in the U.S. states of Arizona, Idaho, Utah and the overseas territory of American Samoa head to the polls for Republican and Democratic Party primaries and caucuses. ](/news/2016/03/22/voters-in-the-u-s-states-of-arizona-idaho-utah-and-the-overseas-territory-of-american-samoa-head-to-the-polls-for-republican-and-democrat.md)
 Republicans will face off in Arizona and Utah, while Democrats battle it out in all three states.
 
@@ -53,7 +53,7 @@ He may never be commemorated with a statue or have a park named after him, but R
 
 ##### 2015-16 protests in Brazil
 ### [Brazil President Dilma Rousseff says she will not resign under any circumstances because she hadn't committed a crime, and equated a bid to impeach her to a coup d'etat against democratic rule. A congressional impeachment committee has started hearings. Rousseff could be suspended if the Chamber of Deputies approves the motion to impeach. The president urged the Supreme Court to remain impartial in this political crisis. ](/news/2016/03/22/brazil-president-dilma-rousseff-says-she-will-not-resign-under-any-circumstances-because-she-hadn-t-committed-a-crime-and-equated-a-bid-to.md)
-_Context: Dilma Rousseff, Brazil's Chamber of Deputies, Supreme Court, president, 2015-16 protests in Brazil, coup_
+_Context: Dilma Rousseff, 2015-16 protests in Brazil, coup, president, Supreme Court, Brazil's Chamber of Deputies_
 
 ## [Previous Day...](/news/2016/03/21/index.md)
 

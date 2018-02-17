@@ -9,7 +9,7 @@ Iran-backed rebels retook positions in southern Yemen in a bid to advance on sec
 
 ##### Burundi
 ### [At least nine people are killed after gunmen attack a bar in Burundi's capital, Bujumbura. ](/news/2015/11/8/at-least-nine-people-are-killed-after-gunmen-attack-a-bar-in-burundi-s-capital-bujumbura.md)
-_Context: Burundi, Bujumbura_
+_Context: Bujumbura, Burundi_
 
 ##### Boko Haram insurgency
 ### [Two suicide bomb attacks in Ngouboua, a remote village near Lake Chad, kill three people, including the bombers, and injure four others, according to Chadian Communication Minister Hassan Sylla Bakari. ](/news/2015/11/8/two-suicide-bomb-attacks-in-ngouboua-a-remote-village-near-lake-chad-kill-three-people-including-the-bombers-and-injure-four-others-acc.md)
@@ -19,7 +19,7 @@ At least three people were killed in a double suicide bombing in a village near 
 ### [Syrian state news reports clashes between Syrian Armed Forces and the Islamic State in eastern Syria's Deir ez-Zor province result in the deaths of 58 militants. ](/news/2015/11/8/syrian-state-news-reports-clashes-between-syrian-armed-forces-and-the-islamic-state-in-eastern-syria-s-deir-ez-zor-province-result-in-the-de.md)
 Syrian troops killed 58 militants associated with the Islamic State (IS) group in the country&#039;s eastern province of Deir al-Zour, a media report said.
 
-##### 2016 U.S. presidential election
+##### 2016 U.S. election
 ### [GOP presidential candidate Donald Trump hosts "Saturday Night Live". According to NBC the show attained a 6.6 household rating, giving "Saturday Night Live" its best overnight ratings since January 2012 when Charles Barkley was the host. ](/news/2015/11/8/gop-presidential-candidate-donald-trump-hosts-saturday-night-live-according-to-nbc-the-show-attained-a-6-6-household-rating-giving-satu.md)
 GOP presidential candidate Donald Trump hosted &quot;SNL&quot; on Saturday as protesters chanted their disapproval outside.
 
@@ -37,7 +37,7 @@ Once known as a Polish center, Hamtramck now has big Arab and Bangladeshi popula
 
 ##### Canadian Pacific
 ### [A Canadian Pacific Railway train carrying crude oil derails in Wisconsin; some of the 10 derailed cars are leaking oil. This is the second consecutive day for a freight train crash in the state. Yesterday, a BNSF Railway train wreck spilled thousands of gallons of ethanol. No injuries were reported in either accident. ](/news/2015/11/8/a-canadian-pacific-railway-train-carrying-crude-oil-derails-in-wisconsin-some-of-the-10-derailed-cars-are-leaking-oil-this-is-the-second-c.md)
-_Context: crude oil, Canadian Pacific, ethanol (C|H|3|C|H|2|O|H), BNSF Railway, Wisconsin_
+_Context: BNSF Railway, ethanol (C|H|3|C|H|2|O|H), Canadian Pacific, Wisconsin, crude oil_
 
 ##### London
 ### [A 1-year-old from London with acute lymphoblastic leukemia who had undergone myriads of unsuccessful treatments since she was 14 weeks old is in remission thanks to gene-editing technology, used for just the second time, that allowed her to receive modified immune cells from another person. ](/news/2015/11/8/a-1-year-old-from-london-with-acute-lymphoblastic-leukemia-who-had-undergone-myriads-of-unsuccessful-treatments-since-she-was-14-weeks-old-i.md)
@@ -49,7 +49,7 @@ Venezuela said a U.S. Coast Guard intelligence plane violated its airspace on Fr
 
 ##### European migrant crisis
 ### [Spain's interior minister Jorge Fernandez Diaz says the first of more than 1,400 refugees from Syria and Eritrea are being welcomed for resettlement in new homes across the country. ](/news/2015/11/8/spain-s-interior-minister-jorge-ferna-ndez-daaz-says-the-first-of-more-than-1-400-refugees-from-syria-and-eritrea-are-being-welcomed-for-re.md)
-_Context: Spain, European migrant crisis, Syria, Eritrea, interior minister, Jorge Fernandez Diaz_
+_Context: interior minister, Syria, Eritrea, Jorge Fernandez Diaz, Spain, European migrant crisis_
 
 ##### Hossam Bahgat
 ### [Hossam Bahgat, an investigative reporter for the independent Egyptian news website Mada Masr is detained and is interrogated on charges of publishing false news that could harm the nation. ](/news/2015/11/8/hossam-bahgat-an-investigative-reporter-for-the-independent-egyptian-news-website-mada-masr-is-detained-and-is-interrogated-on-charges-of-p.md)

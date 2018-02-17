@@ -33,11 +33,11 @@ _Context: Mahmoud Sarsak, Hamas_
 
 ##### Eva Rausing
 ### [Eva Rausing, wife of Tetra Pak heir Hans Kristian Rausing, is found dead in west London and a man arrested in connection to her death. ](/news/2012/07/10/eva-rausing-wife-of-tetra-pak-heir-hans-kristian-rausing-is-found-dead-in-west-london-and-a-man-arrested-in-connection-to-her-death.md)
-_Context: Tetra Pak, Hans Kristian Rausing, Eva Rausing_
+_Context: Tetra Pak, Eva Rausing, Hans Kristian Rausing_
 
 ##### Trades Union Congress
 ### [Britain's Trades Union Congress confirms the appointment of its first female General Secretary. Frances O'Grady will take up the role at the end of the year. ](/news/2012/07/10/britain-s-trades-union-congress-confirms-the-appointment-of-its-first-female-general-secretary-frances-o-grady-will-take-up-the-role-at-the.md)
-_Context: Frances O'Grady, General Secretary, Trades Union Congress_
+_Context: Trades Union Congress, Frances O'Grady, General Secretary_
 
 ##### The coalition
 ### [The UK's coalition government drops plans for a crucial House of Commons vote on its plans to reform the House of Lords after it faced likely defeat over the issue with as many as 100 Conservative MPs planning to oppose the plans. ](/news/2012/07/10/the-uk-s-coalition-government-drops-plans-for-a-crucial-house-of-commons-vote-on-its-plans-to-reform-the-house-of-lords-after-it-faced-likel.md)

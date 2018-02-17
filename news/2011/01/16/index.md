@@ -21,7 +21,7 @@ At least nine Afghans on their way to a wedding in the north are killed by a roa
 
 ##### The Social Network
 ### ["The Social Network" wins Best Motion Picture - Drama, while Colin Firth and Natalie Portman win Best Actor and Best Actress- Drama at the 68th Golden Globe Awards. ](/news/2011/01/16/the-social-network-wins-best-motion-picture-a-drama-while-colin-firth-and-natalie-portman-win-best-actor-and-best-actress-drama-at-the.md)
-_Context: Natalie Portman, Colin Firth, 68th Golden Globe Awards, The Social Network_
+_Context: Natalie Portman, Colin Firth, The Social Network, 68th Golden Globe Awards_
 
 ##### Greece
 ### [A ship carrying 263 migrants sinks off the coast of Greece; 22 are missing. ](/news/2011/01/16/a-ship-carrying-263-migrants-sinks-off-the-coast-of-greece-22-are-missing.md)
@@ -37,7 +37,7 @@ Three women are killed in a stampede at a crowded three-storey nightclub in the 
 
 ##### Egypt
 ### [A man is sentenced to death in Egypt for killing Copts at a Christmas mass a year ago. ](/news/2011/01/16/a-man-is-sentenced-to-death-in-egypt-for-killing-copts-at-a-christmas-mass-a-year-ago.md)
-_Context: Copt, Egypt, a year ago, Christmas_
+_Context: Christmas, a year ago, Copt, Egypt_
 
 ##### Mark Kennedy
 ### [Mark Kennedy, the undercover British police officer who posed as an activist, flees to the United States after his cover is blown. ](/news/2011/01/16/mark-kennedy-the-undercover-british-police-officer-who-posed-as-an-activist-flees-to-the-united-states-after-his-cover-is-blown.md)
@@ -45,11 +45,11 @@ The undercover policeman who controversially posed as an environmental activist,
 
 ##### Pirate Party of Canada
 ### [Supporters of the Pirate Party of Canada hold a protest in Calgary for increased freedom of the press and government transparency in defense of Julian Assange and the WikiLeaks website. ](/news/2011/01/16/supporters-of-the-pirate-party-of-canada-hold-a-protest-in-calgary-for-increased-freedom-of-the-press-and-government-transparency-in-defense.md)
-_Context: freedom of the press, WikiLeaks, Julian Assange, Pirate Party of Canada, government transparency, Calgary, Alberta_
+_Context: government transparency, Calgary, Alberta, freedom of the press, WikiLeaks, Pirate Party of Canada, Julian Assange_
 
 ##### Magistrate
 ### [Magistrate Ilda Boccassini promises to cut pre-trial hearings and have Silvio Berlusconi's prostitution case in court by the summer. ](/news/2011/01/16/magistrate-ilda-boccassini-promises-to-cut-pre-trial-hearings-and-have-silvio-berlusconi-s-prostitution-case-in-court-by-the-summer.md)
-_Context: Silvio Berlusconi, Magistrate_
+_Context: Magistrate, Silvio Berlusconi_
 
 ##### Iran
 ### [Iran has continued covert attempts to purchase technology for its nuclear program through more than 350 companies, despite UN sanctions on Iran, the Norwegian newspaper "Aftenposten" reported, citing US diplomatic cables released by WikiLeaks. ](/news/2011/01/16/iran-has-continued-covert-attempts-to-purchase-technology-for-its-nuclear-program-through-more-than-350-companies-despite-un-sanctions-on-i.md)
@@ -65,11 +65,11 @@ The Irish prime minister announces he will not be standing down as leader of the
 
 ##### Libya
 ### [Libyan leader Muammar al-Gaddafi reaches 41 years in power; there are less than 24 months left until he is scheduled to become Africa's longest serving ruler, overtaking former Gabonese President Omar Bongo who died in 2009. ](/news/2011/01/16/libyan-leader-muammar-al-gaddafi-reaches-41-years-in-power-there-are-less-than-24-months-left-until-he-is-scheduled-to-become-africa-s-long.md)
-_Context: Libya, President, Muammar al-Gaddafi, Gabon, died in 2009, Omar Bongo_
+_Context: Libya, Omar Bongo, died in 2009, Gabon, Muammar al-Gaddafi, President_
 
 ##### France
 ### [France's National Front confirms 42-year-old Marine Le Pen as party leader, succeeding her father Jean-Marie Le Pen. ](/news/2011/01/16/france-s-national-front-confirms-42-year-old-marine-le-pen-as-party-leader-succeeding-her-father-jean-marie-le-pen.md)
-_Context: National Front, Jean-Marie Le Pen, Marine Le Pen, France_
+_Context: France, Marine Le Pen, National Front, Jean-Marie Le Pen_
 
 ##### Saad Hariri
 ### [Saad Hariri becomes caretaker Prime Minister of Lebanon following the collapse of his government due to resignation of 11 opposition ministers. ](/news/2011/01/16/saad-hariri-becomes-caretaker-prime-minister-of-lebanon-following-the-collapse-of-his-government-due-to-resignation-of-11-opposition-ministe.md)

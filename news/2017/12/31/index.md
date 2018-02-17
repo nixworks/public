@@ -21,7 +21,7 @@ Witnesses said cars seemed to explode every couple of seconds when the fire was 
 
 ##### United Nations Secretary-General
 ### [United Nations Secretary-General Antonio Guterres issues "a red alert for our world," saying that conflicts have deepened, global anxieties about nuclear weapons have increased, inequalities have grown, and nationalism and xenophobia are on the rise. Guterres calls for global unity to overcome these growing challenges. ](/news/2017/12/31/united-nations-secretary-general-anta3nio-guterres-issues-a-red-alert-for-our-world-saying-that-conflicts-have-deepened-global-anxieties.md)
-_Context: nationalism, xenophobia, United Nations Secretary-General, nuclear weapon, Antonio Guterres_
+_Context: nuclear weapon, Antonio Guterres, xenophobia, nationalism, United Nations Secretary-General_
 
 ##### Copper Canyon Apartment Homes shooting
 ### [Five Douglas County, Colorado sheriff's deputies are shot, one fatally, and two civilians are injured at a domestic disturbance call. The suspect was also killed. ](/news/2017/12/31/five-douglas-county-colorado-sheriff-s-deputies-are-shot-one-fatally-and-two-civilians-are-injured-at-a-domestic-disturbance-call-the-su.md)
@@ -37,11 +37,11 @@ The film superstar says he will form a party to &quot;change the political syste
 
 ##### 2017 Iranian protests
 ### [Iran blocks access to Telegram and Instagram as the largest anti-government protests since 2009 continue. ](/news/2017/12/31/iran-blocks-access-to-telegram-and-instagram-as-the-largest-anti-government-protests-since-2009-continue.md)
-_Context: 2017 Iranian protests, Instagram, Iran, since 2009, Telegram_
+_Context: 2017 Iranian protests, since 2009, Telegram, Iran, Instagram_
 
 ##### Palestine-United States relations
 ### [Palestine recalls their envoy to the United States for "consultations," following President Trump's recognition of Jerusalem as the capital of Israel. Palestine President Mahmoud Abbas says they will not accept any U.S. peace plan in the wake of Trump's move. ](/news/2017/12/31/palestine-recalls-their-envoy-to-the-united-states-for-consultations-following-president-trump-s-recognition-of-jerusalem-as-the-capital.md)
-_Context: President of the State of Palestine, Mahmoud Abbas, Palestine-United States relations, U.S. President, peace plan, Jerusalem, Donald Trump_
+_Context: President of the State of Palestine, Mahmoud Abbas, U.S. President, Donald Trump, peace plan, Palestine-United States relations, Jerusalem_
 
 ## [Previous Day...](/news/2017/12/30/index.md)
 

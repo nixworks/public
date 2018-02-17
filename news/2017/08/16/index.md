@@ -29,11 +29,11 @@ Raids near Manila latest in campaign that has killed thousands and follow claim 
 
 ##### Crisis in Venezuela
 ### [Venezuelan security forces raid a prison in Puerto Ayacucho, Amazonas State, killing at least 37 inmates. Amazonas Governor Liborio Guarulla describes the killings as a "massacre". ](/news/2017/08/16/venezuelan-security-forces-raid-a-prison-in-puerto-ayacucho-amazonas-state-killing-at-least-37-inmates-amazonas-governor-liborio-guarulla.md)
-_Context: Liborio Guarulla, Amazonas State, Crisis in Venezuela, Puerto Ayacucho, Venezuela_
+_Context: Venezuela, Amazonas State, Crisis in Venezuela, Liborio Guarulla, Puerto Ayacucho_
 
 ##### Evolution
 ### [Researchers from the University of Cambridge suggest that the "Chilesaurus" may be the so-called "missing link" between the "Stegosaurus" and the "Tyrannosaurus". ](/news/2017/08/16/researchers-from-the-university-of-cambridge-suggest-that-the-chilesaurus-may-be-the-so-called-missing-link-between-the-stegosaurus-an.md)
-_Context: Stegosaurus, missing link, University of Cambridge, Chilesaurus, Tyrannosaurus, Evolution_
+_Context: missing link, Evolution, Stegosaurus, Tyrannosaurus, Chilesaurus, University of Cambridge_
 
 ## [Previous Day...](/news/2017/08/15/index.md)
 

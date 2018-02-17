@@ -9,7 +9,7 @@ Up to 60 people are killed and scores are injured in a series of bomb attacks in
 
 ##### Turkey
 ### [Two people are injured in explosions at Turkey's justice ministry and the headquarters of the governing AK Party in Ankara. ](/news/2013/03/19/two-people-are-injured-in-explosions-at-turkey-s-justice-ministry-and-the-headquarters-of-the-governing-ak-party-in-ankara.md)
-_Context: AK Party, Ankara, Justice Minister, Turkey_
+_Context: Ankara, Turkey, Justice Minister, AK Party_
 
 ##### Collapse
 ### [2012-2013 Cypriot financial crisis: Cypriot lawmakers overwhelmingly reject the EC-ECB-IMF troika plan to tax all bank deposits. ](/news/2013/03/19/2012a2013-cypriot-financial-crisis-cypriot-lawmakers-overwhelmingly-reject-the-ecaecbaimf-troika-plan-to-tax-all-bank-deposits.md)
@@ -17,11 +17,11 @@ Cypriot politicians have overwhelmingly rejected a deeply unpopular tax on bank 
 
 ##### Bus
 ### [A bus crash in the Indian state of Maharashtra kills at least 37 people and injures 14 others. ](/news/2013/03/19/a-bus-crash-in-the-indian-state-of-maharashtra-kills-at-least-37-people-and-injures-14-others.md)
-_Context: bus, Maharashtra, India_
+_Context: India, Maharashtra, bus_
 
 ##### Landslide
 ### [At least 16 people are dead after landslides in a mountainous area north of the Brazilian city of Rio de Janeiro. ](/news/2013/03/19/at-least-16-people-are-dead-after-landslides-in-a-mountainous-area-north-of-the-brazilian-city-of-rio-de-janeiro.md)
-_Context: Rio de Janeiro, Brazil, landslide_
+_Context: landslide, Brazil, Rio de Janeiro_
 
 ##### Saudi Arabia
 ### [Saudi Arabia police arrest one Iranian, one Lebanese and 16 Saudis on charges of spying. ](/news/2013/03/19/saudi-arabia-police-arrest-one-iranian-one-lebanese-and-16-saudis-on-charges-of-spying.md)
@@ -37,7 +37,7 @@ _Context: Pakistan, Daniel Pearl, The Wall Street Journal_
 
 ##### U.S. state
 ### [In the U.S. state of Ohio, Thomas Lane receives three life sentences for the child murders at Chardon High School that he committed in February 2012 as a 17-year-old. ](/news/2013/03/19/in-the-u-s-state-of-ohio-thomas-lane-receives-three-life-sentences-for-the-child-murders-at-chardon-high-school-that-he-committed-in-febru.md)
-_Context: child murders, life sentence, U.S. state, Ohio, Chardon High School_
+_Context: life sentence, U.S. state, Ohio, child murders, Chardon High School_
 
 ##### United States Supreme Court
 ### [The United States Supreme Court holds in a 6&ndash;3 decision that the first-sale doctrine applies to the domestic sale of foreign copies of copyrighted work lawfully made abroad. ](/news/2013/03/19/the-united-states-supreme-court-holds-in-a-6-ndash-3-decision-that-the-first-sale-doctrine-applies-to-the-domestic-sale-of-foreign-copies-of.md)
@@ -45,7 +45,7 @@ Today, the United States Supreme Court handed US copyright owners a stinging def
 
 ##### Civil defense
 ### [Benjamin Pierce Bishop, a civil defense contractor who works in intelligence, was charged with giving U.S. national security secrets his Chinese girlfriend. ](/news/2013/03/19/benjamin-pierce-bishop-a-civil-defense-contractor-who-works-in-intelligence-was-charged-with-giving-u-s-national-security-secrets-his-chi.md)
-_Context: U.S., civil defense, intelligence, girlfriend, China_
+_Context: girlfriend, U.S., Chinese, intelligence, civil defense_
 
 ##### Ukraine
 ### [In Ukraine, a fight breaks out during a session of the Verkhovna Rada over the use of the Russian language in politics. ](/news/2013/03/19/in-ukraine-a-fight-breaks-out-during-a-session-of-the-verkhovna-rada-over-the-use-of-the-russian-language-in-politics.md)

@@ -9,11 +9,11 @@ Dame Helen Mirren condemns film-makers for aiming movies at young men, saying Ho
 
 ##### Governor of Florida
 ### [Governor of the U.S. state of Florida Charlie Crist posthumously pardons Jim Morrison, the lead singer of The Doors, for indecent exposure. ](/news/2010/12/9/governor-of-the-u-s-state-of-florida-charlie-crist-posthumously-pardons-jim-morrison-the-lead-singer-of-the-doors-for-indecent-exposure.md)
-_Context: Doors, Florida, indecent exposure, Governor of Florida, Charlie Crist, Jim Morrison_
+_Context: Florida, Jim Morrison, Charlie Crist, Doors, indecent exposure, Governor of Florida_
 
 ##### Coronation Street
 ### [An hour-long live episode of "Coronation Street" is broadcast on the soap opera's 50th anniversary. ](/news/2010/12/9/an-hour-long-live-episode-of-coronation-street-is-broadcast-on-the-soap-opera-s-50th-anniversary.md)
-_Context: Coronation Street, soap opera_
+_Context: soap opera, Coronation Street_
 
 ##### Calisto Tanzi
 ### [Calisto Tanzi, the founder and former chief executive of multinational food corporation Parmalat, is sentenced to 18 years imprisonment for fraud. ](/news/2010/12/9/calisto-tanzi-the-founder-and-former-chief-executive-of-multinational-food-corporation-parmalat-is-sentenced-to-18-years-imprisonment-for.md)
@@ -25,7 +25,7 @@ Official figures show that the increase in total unemployment is slowing down, b
 
 ##### Sharm el-Sheikh
 ### [A stretch of beach in Sharm el-Sheikh, Egypt, re-opens after a series of shark attacks. ](/news/2010/12/9/a-stretch-of-beach-in-sharm-el-sheikh-egypt-re-opens-after-a-series-of-shark-attacks.md)
-_Context: Egypt, Sharm el-Sheikh_
+_Context: Sharm el-Sheikh, Egypt_
 
 ##### Panama
 ### [Floods across South America: Panama experiences its heaviest ever rains, with the Panama Canal shut for the first time due to weather. Millions of people are affected across the region, and there are deaths, including in Colombia and Venezuela. ](/news/2010/12/9/floods-across-south-america-panama-experiences-its-heaviest-ever-rains-with-the-panama-canal-shut-for-the-first-time-due-to-weather-milli.md)
@@ -61,7 +61,7 @@ The two Swedish women who have brought sex charges against WikiLeaks founder Jul
 
 ##### The Hague
 ### [A national high-tech crime team in The Hague arrests a 16-year-old male they accuse of disrupting MasterCard and PayPal websites. Both companies previously cut off donations to the WikiLeaks website. ](/news/2010/12/9/a-national-high-tech-crime-team-in-the-hague-arrests-a-16-year-old-male-they-accuse-of-disrupting-mastercard-and-paypal-websites-both-compa.md)
-_Context: The Hague, WikiLeaks, PayPal, MasterCard_
+_Context: PayPal, WikiLeaks, The Hague, MasterCard_
 
 ##### Eric Holder
 ### [U.S. Attorney General Eric Holder announces that his country's justice department is "looking into" incidents which have disrupted websites opposed to WikiLeaks. ](/news/2010/12/9/u-s-attorney-general-eric-holder-announces-that-his-country-s-justice-department-is-looking-into-incidents-which-have-disrupted-websites.md)
@@ -81,7 +81,7 @@ Parliamentary coalition votes to triple university fees as students clash with p
 
 ##### South Korea
 ### [South Korea reports its first two cases of the superbug New Delhi metallo-beta-lactamase. ](/news/2010/12/9/south-korea-reports-its-first-two-cases-of-the-superbug-new-delhi-metallo-beta-lactamase.md)
-_Context: New Delhi metallo-beta-lactamase, superbug, South Korea_
+_Context: South Korea, New Delhi metallo-beta-lactamase, superbug_
 
 ## [Previous Day...](/news/2010/12/8/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2009/12/19/index.html)  [JSON](2009/12/19/index.json)  [XML](200
 
 ##### North American blizzard of 2009
 ### [ The North American blizzard of 2009 produces record snowfall, causing power outages, deaths, and impacting retail sales. ](/news/2009/12/19/the-north-american-blizzard-of-2009-produces-record-snowfall-causing-power-outages-deaths-and-impacting-retail-sales.md)
-_Context: North American blizzard of 2009, power outage, snow, retail, death_
+_Context: North American blizzard of 2009, death, power outage, retail, snow_
 
 ##### Iraq
 ### [ Iraq deploys troops on its border with Iran to monitor a disputed oil well seized by Iranian troops, while an arbitration commission is established to resolve the dispute. ](/news/2009/12/19/iraq-deploys-troops-on-its-border-with-iran-to-monitor-a-disputed-oil-well-seized-by-iranian-troops-while-an-arbitration-commission-is-est.md)
@@ -13,7 +13,7 @@ _Context: Iraq, Iran_
 
 ##### NASA
 ### [ NASA releases the first ever photo of liquid outside of Earth, in the form of sunlight reflecting on a lake on Saturn's largest moon, Titan. ](/news/2009/12/19/nasa-releases-the-first-ever-photo-of-liquid-outside-of-earth-in-the-form-of-sunlight-reflecting-on-a-lake-on-saturn-s-largest-moon-titan.md)
-_Context: Saturn, Titan, lake, NASA, sunlight reflecting, Earth_
+_Context: lake, sunlight reflecting, Earth, NASA, Saturn, Titan_
 
 ##### Serbia
 ### [ Serbians, Macedonians, and Montenegrins are able to travel to continental Europe without a visa from this day on. ](/news/2009/12/19/serbians-macedonians-and-montenegrins-are-able-to-travel-to-continental-europe-without-a-visa-from-this-day-on.md)
@@ -33,7 +33,7 @@ Country falls into political turmoil as opposition attempts to set up unity gove
 
 ##### Fatah
 ### [ The Fatah movement in the West Bank rejects local mediation between itself and Hamas. ](/news/2009/12/19/the-fatah-movement-in-the-west-bank-rejects-local-mediation-between-itself-and-hamas.md)
-_Context: Hamas, Fatah, West Bank_
+_Context: West Bank, Fatah, Hamas_
 
 ##### Iran
 ### [ Iran's military prosecutor charges three officials with killing three people at a detention centre used to house post-election protesters. ](/news/2009/12/19/iran-s-military-prosecutor-charges-three-officials-with-killing-three-people-at-a-detention-centre-used-to-house-post-election-protesters.md)
@@ -41,11 +41,11 @@ _Context: protests against the regime, Iran_
 
 ##### Movement for the Emancipation of the Niger Delta
 ### [ A faction from the Movement for the Emancipation of the Niger Delta says it carried out an attack on an oil pipeline, breaking a ceasefire agreed upon with the Nigerian government. ](/news/2009/12/19/a-faction-from-the-movement-for-the-emancipation-of-the-niger-delta-says-it-carried-out-an-attack-on-an-oil-pipeline-breaking-a-ceasefire.md)
-_Context: Movement for the Emancipation of the Niger Delta, Nigeria, oil pipeline_
+_Context: oil pipeline, Movement for the Emancipation of the Niger Delta, Nigeria_
 
 ##### Cambodia
 ### [ The Cambodian government expels 22 Chinese Muslim Uyghurs who arrived in the country back to China, despite criticism from the UN. ](/news/2009/12/19/the-cambodian-government-expels-22-chinese-muslim-uyghurs-who-arrived-in-the-country-back-to-china-despite-criticism-from-the-un.md)
-_Context: Uyghur, Muslim, China, Cambodia_
+_Context: China, Muslim, Cambodia, Uyghur_
 
 ##### Channel Tunnel
 ### [ Freezing conditions cause electrical faults in the Channel Tunnel between Great Britain and France, isolating 2,000 passengers in five trains. The situation is coupled with disruptions at London Heathrow Airport and traffic delays due to snowy conditions in the south-east of England. ](/news/2009/12/19/freezing-conditions-cause-electrical-faults-in-the-channel-tunnel-between-great-britain-and-france-isolating-2-000-passengers-in-five-trai.md)
@@ -53,7 +53,7 @@ _Context: London Heathrow Airport, Channel Tunnel_
 
 ##### Sniffer dog
 ### [ Police recruit sniffer dogs and detectives in their hunt for the "Arbeit macht frei" sign missing from Auschwitz as appeals for its return are made by Israel, Poland and the European Union. ](/news/2009/12/19/police-recruit-sniffer-dogs-and-detectives-in-their-hunt-for-the-arbeit-macht-frei-sign-missing-from-auschwitz-as-appeals-for-its-return.md)
-_Context: Auschwitz, Arbeit macht frei, European Union, Poland, Israel, sniffer dog_
+_Context: European Union, Israel, Arbeit macht frei, Auschwitz, sniffer dog, Poland_
 
 ##### GJ 1214 b
 ### [ Scientists announced the discovery of GJ 1214 b, an ocean planet orbiting a star in the Ophiuchus constellation. ](/news/2009/12/19/scientists-announced-the-discovery-of-gj-1214-b-an-ocean-planet-orbiting-a-star-in-the-ophiuchus-constellation.md)
@@ -61,7 +61,7 @@ _Context: Ophiuchus, GJ 1214 b, ocean planet_
 
 ##### Association football
 ### [ In association football, FC Barcelona sets a new record by winning all 6 possible competitions (The Sextuple) in one year. ](/news/2009/12/19/in-association-football-fc-barcelona-sets-a-new-record-by-winning-all-6-possible-competitions-the-sextuple-in-one-year.md)
-_Context: The Sextuple, year, FC Barcelona, association football_
+_Context: FC Barcelona, association football, year, The Sextuple_
 
 ## [Previous Day...](/news/2009/12/18/index.md)
 

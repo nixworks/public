@@ -5,11 +5,11 @@ Formats: [HTML](2011/09/24/index.html)  [JSON](2011/09/24/index.json)  [XML](201
 
 ##### Civil war
 ### [2011 Libyan civil war: In the pro-Muammar Gaddafi stronghold of Sirte, National Transitional Council forces are massing in a square about a kilometer (0.6 miles) from the city center, as they weather heavy fire from pro-Gaddafi snipers. ](/news/2011/09/24/2011-libyan-civil-war-in-the-pro-muammar-gaddafi-stronghold-of-sirte-national-transitional-council-forces-are-massing-in-a-square-about-a.md)
-_Context: civil war, Sirte, National Transitional Council, Muammar Gaddafi_
+_Context: civil war, National Transitional Council, Sirte, Muammar Gaddafi_
 
 ##### Turkey
 ### [Turkey seizes a Syrian ship possibly carrying weapons to the Syrian Army, as the 2011 Syrian uprising continues. ](/news/2011/09/24/turkey-seizes-a-syrian-ship-possibly-carrying-weapons-to-the-syrian-army-as-the-2011-syrian-uprising-continues.md)
-_Context: Turkey, Syria, 2011 Syrian uprising, Syrian Army_
+_Context: 2011 Syrian uprising, Syrian Army, Syria, Turkey_
 
 ##### London
 ### [Six people die in a house fire in the London suburb of Neasden. ](/news/2011/09/24/six-people-die-in-a-house-fire-in-the-london-suburb-of-neasden.md)
@@ -21,7 +21,7 @@ _Context: West Africa, Spanish politicians, oil tanker_
 
 ##### Oswald Grbel
 ### [Oswald Grbel, chief executive of Swiss bank UBS, resigns in the wake of a rogue trading scandal. ](/news/2011/09/24/oswald-grubel-chief-executive-of-swiss-bank-ubs-resigns-in-the-wake-of-a-rogue-trading-scandal.md)
-_Context: Oswald Grbel, UBS, Switzerland_
+_Context: UBS, Oswald Grbel, Switzerland_
 
 ##### United Russia
 ### [At the United Russia Congress, Prime Minister Vladimir Putin accepts President Dmitry Medvedev's proposal to run in the 2012 Russian presidential election. ](/news/2011/09/24/at-the-united-russia-congress-prime-minister-vladimir-putin-accepts-president-dmitry-medvedev-s-proposal-to-run-in-the-2012-russian-preside.md)
@@ -29,11 +29,11 @@ Russian Prime Minister Vladimir Putin announces he has accepted a proposal to ru
 
 ##### Herman Cain
 ### [Herman Cain wins a Florida straw poll for the 2012 Republican presidential primaries. ](/news/2011/09/24/herman-cain-wins-a-florida-straw-poll-for-the-2012-republican-presidential-primaries.md)
-_Context: nomination, Florida, Herman Cain_
+_Context: Florida, nomination, Herman Cain_
 
 ##### Bahrain
 ### [Voters in Bahrain go to the polls for byelections caused by the resignation of Shiite members during the 2011 Bahraini uprising; many Shiite voters are expected to boycott the election. ](/news/2011/09/24/voters-in-bahrain-go-to-the-polls-for-byelections-caused-by-the-resignation-of-shiite-members-during-the-2011-bahraini-uprising-many-shiite.md)
-_Context: byelection, Bahrain, Shiite, 2011 Bahraini uprising_
+_Context: Bahrain, 2011 Bahraini uprising, byelection, Shiite_
 
 ##### United Arab Emirates
 ### [Voters in the United Arab Emirates go to the polls for parliamentary elections. ](/news/2011/09/24/voters-in-the-united-arab-emirates-go-to-the-polls-for-parliamentary-elections.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2011/05/19/index.html)  [JSON](2011/05/19/index.json)  [XML](201
 
 ##### Syria
 ### [Syria condemns the decision by the United States to impose sanctions on President Bashar al-Assad in response to ongoing anti-government protests. ](/news/2011/05/19/syria-condemns-the-decision-by-the-united-states-to-impose-sanctions-on-president-bashar-al-assad-in-response-to-ongoing-anti-government-pro.md)
-_Context: Syria, protestors, United States, President, Bashar al-Assad_
+_Context: United States, protestors, Bashar al-Assad, Syria, President_
 
 ##### Libya
 ### [Rebels in Libya launch a television channel to counter Muammar Gaddafi's state media. ](/news/2011/05/19/rebels-in-libya-launch-a-television-channel-to-counter-muammar-gaddafi-s-state-media.md)
@@ -21,7 +21,7 @@ _Context: Kirkuk, Iraq_
 
 ##### Danish
 ### [Danish filmmaker Lars von Trier is banned by the Cannes Film Festival for remarks, made in jest, that he sympathizes with Adolf Hitler. Trier later apologises for his comments. ](/news/2011/05/19/danish-filmmaker-lars-von-trier-is-banned-by-the-cannes-film-festival-for-remarks-made-in-jest-that-he-sympathizes-with-adolf-hitler-trie.md)
-_Context: Cannes Film Festival, Lars von Trier, Adolf Hitler, Danish_
+_Context: Cannes Film Festival, Danish, Adolf Hitler, Lars von Trier_
 
 ##### Katie Couric
 ### [US journalist Katie Couric signs off as the host of the CBS Evening News. ](/news/2011/05/19/us-journalist-katie-couric-signs-off-as-the-host-of-the-cbs-evening-news.md)
@@ -29,11 +29,11 @@ Check out our breaking stories on Hollywood?s hottest stars! Get the latest news
 
 ##### BBC
 ### [A special edition of the BBC's political debate programme "Question Time" is recorded at Wormwood Scrubbs Prison in London. ](/news/2011/05/19/a-special-edition-of-the-bbc-s-political-debate-programme-question-time-is-recorded-at-wormwood-scrubbs-prison-in-london.md)
-_Context: BBC, Wormwood Scrubbs Prison, London, Question Time_
+_Context: London, Wormwood Scrubbs Prison, BBC, Question Time_
 
 ##### Civil service
 ### [A civil service strike in Botswana closes many hospitals. ](/news/2011/05/19/a-civil-service-strike-in-botswana-closes-many-hospitals.md)
-_Context: Botswana, civil service_
+_Context: civil service, Botswana_
 
 ##### Dominique Strauss-Kahn
 ### [Dominique Strauss-Kahn offers his resignation as head of the International Monetary Fund following the charges. ](/news/2011/05/19/dominique-strauss-kahn-offers-his-resignation-as-head-of-the-international-monetary-fund-following-the-charges.md)
@@ -45,11 +45,11 @@ _Context: 2011 Tohoku earthquake and tsunami, recession, Economy of Japan_
 
 ##### John Malone
 ### [John Malone's Liberty Media makes a USD $1 billion bid for bookseller Barnes & Noble. ](/news/2011/05/19/john-malone-s-liberty-media-makes-a-usd-1-billion-bid-for-bookseller-barnes-noble.md)
-_Context: US dollar, Barnes & Noble, Liberty Media, John Malone_
+_Context: US dollar, John Malone, Barnes & Noble, Liberty Media_
 
 ##### Eurasian Economic Community
 ### [The Eurasian Economic Community, led by Russia, offers Belarus a $3 billion bailout package. ](/news/2011/05/19/the-eurasian-economic-community-led-by-russia-offers-belarus-a-3-billion-bailout-package.md)
-_Context: $, Belarus, Eurasian Economic Community, Russia_
+_Context: Belarus, $, Russia, Eurasian Economic Community_
 
 ##### Sol Lineas Aereas Flight 5428
 ### [22 people are killed when Sol Lineas Aereas Flight 5428 crashes in southern Argentina. ](/news/2011/05/19/22-people-are-killed-when-sol-laneas-aa-c-reas-flight-5428-crashes-in-southern-argentina.md)
@@ -61,7 +61,7 @@ _Context: magnitude 6.0 earthquake, Istanbul, Turkey_
 
 ##### United Nations
 ### [The United Nations World Food Programme calls for "urgent assistance" for the North Korean people due to a food crisis. ](/news/2011/05/19/the-united-nations-world-food-programme-calls-for-urgent-assistance-for-the-north-korean-people-due-to-a-food-crisis.md)
-_Context: World Food Programme, North Korea, United Nations_
+_Context: North Korea, United Nations, World Food Programme_
 
 ##### Arab Spring
 ### [President Obama gives a speech in support of the Arab Spring during which he states that the solution to the Israeli-Palestinian conflict must include Israel reverting its borders back to the pre-1967 borders.](/news/2011/05/19/president-obama-gives-a-speech-in-support-of-the-arab-spring-during-which-he-states-that-the-solution-to-the-israeli-palestinian-conflict-mu.md)
@@ -77,7 +77,7 @@ The man known as the father of the so-called &#034;Great Firewall of China&#034;
 
 ##### Uzbekistan
 ### [The daughter of Uzbek President Islam Karimov sues a French website for calling her father a "dictator". ](/news/2011/05/19/the-daughter-of-uzbek-president-islam-karimov-sues-a-french-website-for-calling-her-father-a-dictator.md)
-_Context: France, dictator, Uzbekistan, Islam Karimov_
+_Context: Islam Karimov, dictator, Uzbekistan, France_
 
 ##### Egypt
 ### [Authorities in Egypt suspend the prison sentences of 120 protesters who participated in the 2011 Egyptian revolution. ](/news/2011/05/19/authorities-in-egypt-suspend-the-prison-sentences-of-120-protesters-who-participated-in-the-2011-egyptian-revolution.md)
@@ -97,7 +97,7 @@ _Context: Seychelles, three day presidential election_
 
 ##### Taoiseach
 ### [Former Taoiseach (Prime Minister) of the Republic of Ireland Garret FitzGerald dies in Dublin aged 85. ](/news/2011/05/19/former-taoiseach-prime-minister-of-the-republic-of-ireland-garret-fitzgerald-dies-in-dublin-aged-85.md)
-_Context: Garret FitzGerald, Dublin, Taoiseach, Irish_
+_Context: Dublin, Garret FitzGerald, Irish, Taoiseach_
 
 ##### Uganda
 ### [Ugandan opposition leader Kizza Besigye is placed under house arrest. ](/news/2011/05/19/ugandan-opposition-leader-kizza-besigye-is-placed-under-house-arrest.md)

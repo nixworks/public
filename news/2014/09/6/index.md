@@ -19,9 +19,9 @@ _Context: Islamic State of Iraq and Syria, Iran, United States_
 ### [Heavy monsoon rains and flash floods leave over 200 people dead across India and Pakistan. ](/news/2014/09/6/heavy-monsoon-rains-and-flash-floods-leave-over-200-people-dead-across-india-and-pakistan.md)
 Heavy monsoon rains and flash floods have killed 128 people in Pakistan and 108 people in India, officials said.
 
-##### China
+##### Chinese
 ### [China says two pilots conducting fighter jet take-off and landing tests for the Chinese aircraft carrier Liaoning were killed during trials. ](/news/2014/09/6/china-says-two-pilots-conducting-fighter-jet-take-off-and-landing-tests-for-the-chinese-aircraft-carrier-liaoning-were-killed-during-trials.md)
-_Context: China, ''Liaoning''_
+_Context: ''Liaoning'', Chinese_
 
 ##### 2014 California wildfires
 ### [A wildfire is reported to have burned 300 acres near Yosemite National Park, forcing the evacuation of 700 nearby homes. ](/news/2014/09/6/a-wildfire-is-reported-to-have-burned-300-acres-near-yosemite-national-park-forcing-the-evacuation-of-700-nearby-homes.md)
@@ -37,7 +37,7 @@ Egypt charged ousted president Mohamed Mursi and nine others on Saturday with en
 
 ##### Independence referendum
 ### [A surge for the yes-campaign following the TV debate "Scotland Decides: Salmond versus Darling" culminates with a poll from YouGov and The Sunday Times showing that a majority will vote in favor of Scottish independence. ](/news/2014/09/6/a-surge-for-the-yes-campaign-following-the-tv-debate-scotland-decides-salmond-versus-darling-culminates-with-a-poll-from-yougov-and-the-s.md)
-_Context: YouGov, The Sunday Times, will vote in favor, independence referendum, Scotland Decides: Salmond versus Darling_
+_Context: independence referendum, will vote in favor, Scotland Decides: Salmond versus Darling, The Sunday Times, YouGov_
 
 ## [Previous Day...](/news/2014/09/5/index.md)
 

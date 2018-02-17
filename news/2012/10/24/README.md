@@ -13,7 +13,7 @@ Israel carries out air strikes in the Gaza Strip, killing four Hamas militants, 
 
 ##### Sudan
 ### [Sudan blames the explosion at a munition factory south of Khartoum on an Israeli airstrike. ](/news/2012/10/24/sudan-blames-the-explosion-at-a-munition-factory-south-of-khartoum-on-an-israeli-airstrike.md)
-_Context: Sudan, explosion at a munition factory_
+_Context: explosion at a munition factory, Sudan_
 
 ##### Syrian civil war
 ### [Syrian civil war: The UN peace envoy Lakhdar Brahimi states in Cairo that the Syrian government has agreed to a ceasefire during the four-day Muslim holiday, Eid al-Adha. ](/news/2012/10/24/syrian-civil-war-the-un-peace-envoy-lakhdar-brahimi-states-in-cairo-that-the-syrian-government-has-agreed-to-a-ceasefire-during-the-four-da.md)
@@ -57,7 +57,7 @@ ATLANTA (Reuters) - A former employee at a suburban Atlanta megachurch was taken
 
 ##### Denver
 ### [Police in the Denver suburb of Westminster, Colorado arrest a 17-year-old resident who was allegedly involved in an attempted abduction in the killing of 10-year-old Jessica Ridgeway. ](/news/2012/10/24/police-in-the-denver-suburb-of-westminster-colorado-arrest-a-17-year-old-resident-who-was-allegedly-involved-in-an-attempted-abduction-in-t.md)
-_Context: Westminster, Colorado, Denver_
+_Context: Denver, Westminster, Colorado_
 
 ##### Los Angeles
 ### [Three people are shot dead, two are critically wounded, and a gunman is at large after shootings at two locations in the Los Angeles suburb of Downey, California: a business next to a Coca-Cola plant, and a residence. ](/news/2012/10/24/three-people-are-shot-dead-two-are-critically-wounded-and-a-gunman-is-at-large-after-shootings-at-two-locations-in-the-los-angeles-suburb.md)

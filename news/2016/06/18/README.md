@@ -25,7 +25,7 @@ Thomas Mair gives his name as &quot;Death to traitors, freedom for Britain&quot;
 
 ##### Police officer
 ### [A 73-year-old gunman shoots dead a police officer, and seriously wounds another before shooting himself dead in Vihti, Finland. Finnish broadcaster Yle reports it is the first time a police officer in Finland has been killed in the line of duty since 2007. ](/news/2016/06/18/a-73-year-old-gunman-shoots-dead-a-police-officer-and-seriously-wounds-another-before-shooting-himself-dead-in-vihti-finland-finnish-broa.md)
-_Context: police officer, Vihti, Yle, Finland_
+_Context: Yle, police officer, Vihti, Finland_
 
 ##### Mohamed Morsi
 ### [Mohamed Morsi, former President of Egypt, is sentenced to life imprisonment and another 15 years for his role in allegedly leaking government secrets to Qatar. Six people, including two Al-Jazeera employees, are sentenced to death. ](/news/2016/06/18/mohamed-morsi-former-president-of-egypt-is-sentenced-to-life-imprisonment-and-another-15-years-for-his-role-in-allegedly-leaking-governmen.md)
@@ -39,7 +39,7 @@ _Context: Chicago, Illinois_
 ### [Sudanese President Omar al-Bashir declares a four-month ceasefire in the states of Blue Nile and South Kordofan in order to give rebels of the Sudan People's Liberation Movement-North a chance to join the peace process and to lay down arms in order to end the conflict which has been ongoing since 2011. ](/news/2016/06/18/sudanese-president-omar-al-bashir-declares-a-four-month-ceasefire-in-the-states-of-blue-nile-and-south-kordofan-in-order-to-give-rebels-of-t.md)
 The truce announced in Khartoum is intended to give rebels a chance to surrender their arms and join peace process.
 
-##### 2016 U.S. presidential election
+##### 2016 U.S. election
 ### [Apple Inc. notifies the GOP that this year it will not fund or provide other support for the party's 2016 presidential convention, citing Donald Trump's controversial comments about women, immigrants and minorities. ](/news/2016/06/18/apple-inc-notifies-the-gop-that-this-year-it-will-not-fund-or-provide-other-support-for-the-partyas-2016-presidential-convention-citing.md)
 It&#39;s unclear how the company plans to handle the Democratic convention in Philadelphia this summer.
 

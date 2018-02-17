@@ -17,7 +17,7 @@ _Context: Baqubah, Iraqi Army_
 
 ##### Japanese
 ### [Japanese businessman Kenichi Watanabe resigns as the CEO of financial company Nomura Holdings following a series of insider trading scandals. ](/news/2012/07/26/japanese-businessman-kenichi-watanabe-resigns-as-the-ceo-of-financial-company-nomura-holdings-following-a-series-of-insider-trading-scandals.md)
-_Context: Kenichi Watanabe, Japanese, Nomura Holdings, insider trading_
+_Context: Nomura Holdings, Kenichi Watanabe, insider trading, Japanese_
 
 ##### Ivory Coast
 ### [President of Ivory Coast Alassane Ouattara meets with his French counterpart Francois Hollande in Paris to finalize a deal that will forgive a debt of nearly 4.7 billion dollars owed to the former colonial power.](/news/2012/07/26/president-of-ivory-coast-alassane-ouattara-meets-with-his-french-counterpart-franassois-hollande-in-paris-to-finalize-a-deal-that-will-forgiv.md)
@@ -29,7 +29,7 @@ _Context: Tropical Storm Khanun, North Korea_
 
 ##### Beijing
 ### [Officials in Beijing raise the death toll from weekend flooding to 77 after rescuers located additional bodies. This follows criticism, including from the Chinese state media, of the city's handling of the storm.](/news/2012/07/26/officials-in-beijing-raise-the-death-toll-from-weekend-flooding-to-77-after-rescuers-located-additional-bodies-this-follows-criticism-incl.md)
-_Context: Beijing, China_
+_Context: Beijing, Chinese_
 
 ##### Bo Xilai
 ### [Former Chinese political leader Bo Xilai's wife, Gu Kailai, and their employee Zhang Xiaojun are charged with murder of British businessman Neil Heywood. ](/news/2012/07/26/former-chinese-political-leader-bo-xilai-s-wife-gu-kailai-and-their-employee-zhang-xiaojun-are-charged-with-murder-of-british-businessman.md)

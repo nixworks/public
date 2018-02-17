@@ -19,17 +19,17 @@ Somali Islamist group al Shabaab bombed a restaurant frequented by members of th
 ### [Volkswagen agrees to pay its U.S. dealers up to US$1.2 billion to compensate them for their losses resulting from the company's emissions cheating scandal. ](/news/2016/10/1/volkswagen-agrees-to-pay-its-u-s-dealers-up-to-us-1-2-billion-to-compensate-them-for-their-losses-resulting-from-the-company-s-emissions-ch.md)
 Volkswagen agrees to compensation U.S. dealers $1.2 billion over emissions scandal
 
-##### Mexican
+##### Mexico
 ### [Mexico's Volcan de Colima erupts forcing the evacuation of two nearby villages. ](/news/2016/10/1/mexico-s-volca-n-de-colima-erupts-forcing-the-evacuation-of-two-nearby-villages.md)
 Mexico&#039;s Colima volcano erupts, spewing out ash and thick black smoke and forcing the evacuation of two nearby villages.
 
 ##### Socialist Workers' Party
 ### [The leader of the Spanish Socialist Workers' Party, Pedro Sanchez, resigns. ](/news/2016/10/1/the-leader-of-the-spanish-socialist-workers-party-pedro-sa-nchez-resigns.md)
-_Context: Socialist Workers' Party, Pedro Sanchez_
+_Context: Pedro Sanchez, Socialist Workers' Party_
 
 ##### Obama administration
 ### [The Obama administration through the United States Department of Commerce transfers oversight of the technical management of the Internet by the Internet Corporation for Assigned Names and Numbers to an international consortium of stakeholders. ](/news/2016/10/1/the-obama-administration-through-the-united-states-department-of-commerce-transfers-oversight-of-the-technical-management-of-the-internet-by.md)
-_Context: Internet, Obama administration, Internet Corporation for Assigned Names and Numbers, U.S. Commerce Department_
+_Context: Internet Corporation for Assigned Names and Numbers, Obama administration, U.S. Commerce Department, Internet_
 
 ## [Previous Day...](/news/2016/09/30/index.md)
 

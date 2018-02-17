@@ -5,23 +5,23 @@ Formats: [HTML](2010/01/15/index.html)  [JSON](2010/01/15/index.json)  [XML](201
 
 ##### Johnson & Johnson
 ### [Johnson & Johnson recalls more than 53&nbsp;million bottles of over-the-counter products, including Tylenol, Motrin and Rolaids, from the Americas, the United Arab Emirates and Fiji. ](/news/2010/01/15/johnson-johnson-recalls-more-than-53-nbsp-million-bottles-of-over-the-counter-products-including-tylenol-motrin-and-rolaids-from-the-am.md)
-_Context: Motrin, Johnson & Johnson, Tylenol, United Arab Emirates, Fiji, Americas, Rolaids_
+_Context: Johnson & Johnson, Motrin, Tylenol, United Arab Emirates, Americas, Fiji, Rolaids_
 
 ##### President
 ### [President Faure Gnassingb and national team captain Emmanuel Adebayor are among dignitaries to attend a funeral ceremony held in Lom for the two football officials killed during the Togo national football team attack in Angola. ](/news/2010/01/15/president-faure-gnassingbe-and-national-team-captain-emmanuel-adebayor-are-among-dignitaries-to-attend-a-funeral-ceremony-held-in-lome-for-t.md)
-_Context: Togo national football team, Lom, captain, Emmanuel Adebayor, President, Faure Gnassingb, Angola, Togo national football team attack_
+_Context: captain, President, Emmanuel Adebayor, Faure Gnassingb, Togo national football team, Angola, Togo national football team attack, Lom_
 
 ##### Nairobi
 ### [At least five people die and dozens are injured in Nairobi, Kenya, when police clash with protesters demanding the release of Jamaican Muslim cleric Abdullah al-Faisal. ](/news/2010/01/15/at-least-five-people-die-and-dozens-are-injured-in-nairobi-kenya-when-police-clash-with-protesters-demanding-the-release-of-jamaican-musli.md)
-_Context: Abdullah al-Faisal, Muslim, Kenya, Nairobi, Jamaica_
+_Context: Nairobi, Kenya, Abdullah al-Faisal, Jamaica, Muslim_
 
 ##### President
 ### [President of Tunisia Zine El Abidine Ben Ali reshuffles his government, making 11 ministerial changes including the appointment of new finance, defence, tourism and foreign affairs ministers, and sends his condolences to Haiti. ](/news/2010/01/15/president-of-tunisia-zine-el-abidine-ben-ali-reshuffles-his-government-making-11-ministerial-changes-including-the-appointment-of-new-finan.md)
-_Context: Zine El Abidine Ben Ali, Haiti, President_
+_Context: Haiti, Zine El Abidine Ben Ali, President_
 
 ##### Bjaa
 ### [Muslim fundamentalists kill two people, an army colonel and the military commander of Bjaa in northern Algeria. ](/news/2010/01/15/muslim-fundamentalists-kill-two-people-an-army-colonel-and-the-military-commander-of-bejaia-in-northern-algeria.md)
-_Context: Bjaa, Algeria_
+_Context: Algeria, Bjaa_
 
 ##### Sundumbili
 ### [23 security guards are detained after clashing over the care of a taxi rank in Sundumbili, KwaZulu-Natal. ](/news/2010/01/15/23-security-guards-are-detained-after-clashing-over-the-care-of-a-taxi-rank-in-sundumbili-kwazulu-natal.md)
@@ -29,11 +29,11 @@ _Context: KwaZulu-Natal, Sundumbili_
 
 ##### Spain
 ### [Spain's government sees a video showing three aid workers who have been held hostage by Al-Qaeda in Mali since November 2009. ](/news/2010/01/15/spain-s-government-sees-a-video-showing-three-aid-workers-who-have-been-held-hostage-by-al-qaeda-in-mali-since-november-2009.md)
-_Context: al-Qaeda, Spain, Mali_
+_Context: Spain, Mali, al-Qaeda_
 
 ##### Kamsar
 ### [In the Kamsar area, north of Muzaffarabad, Kashmir, a Chinese road-building firm digs up a van containing 17 decomposed corpses which went missing during a 2005 earthquake. ](/news/2010/01/15/in-the-kamsar-area-north-of-muzaffarabad-kashmir-a-chinese-road-building-firm-digs-up-a-van-containing-17-decomposed-corpses-which-went-m.md)
-_Context: Muzaffarabad, Kashmir, 2005 Kashmir earthquake, Kamsar_
+_Context: Kamsar, 2005 Kashmir earthquake, Muzaffarabad, Kashmir_
 
 ##### Mr Gay China
 ### [Mr Gay China, said to be the first gay Chinese pageant, is shut down by police an hour before opening. ](/news/2010/01/15/mr-gay-china-said-to-be-the-first-gay-chinese-pageant-is-shut-down-by-police-an-hour-before-opening.md)

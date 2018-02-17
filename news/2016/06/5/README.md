@@ -33,7 +33,7 @@ Calabasas is a city of about 24,000 northwest of downtown Los Angeles. The city 
 
 ##### Tropical Storm Colin
 ### [Tropical Storm Colin forms in the Gulf of Mexico and is likely to hit Florida's Gulf Coast tomorrow. ](/news/2016/06/5/tropical-storm-colin-forms-in-the-gulf-of-mexico-and-is-likely-to-hit-florida-s-gulf-coast-tomorrow.md)
-_Context: Gulf of Mexico, Gulf Coast of the United States, Florida, Tropical Storm Colin_
+_Context: Tropical Storm Colin, Gulf Coast of the United States, Florida, Gulf of Mexico_
 
 ##### Czech Republic
 ### [ Six people are hurt as an unknown assailant fires shots at a Czech tourist bus on the A7 autoroute near Saulce-sur-Rhone in southeastern France. ](/news/2016/06/5/six-people-are-hurt-as-an-unknown-assailant-fires-shots-at-a-czech-tourist-bus-on-the-a7-autoroute-near-saulce-sur-rha-ne-in-southeastern-f.md)

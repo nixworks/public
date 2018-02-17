@@ -29,7 +29,7 @@ Two top US science agencies confirm 2013 was the fourth warmest year for the pla
 
 ##### European Space Agency
 ### [Scientists from the European Space Agency and other institutions detect the presence of water vapour on Ceres. ](/news/2014/01/22/scientists-from-the-european-space-agency-and-other-institutions-detect-the-presence-of-water-vapour-on-ceres.md)
-_Context: European Space Agency, Ceres_
+_Context: Ceres, European Space Agency_
 
 ## [Previous Day...](/news/2014/01/21/index.md)
 

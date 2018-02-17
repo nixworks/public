@@ -5,7 +5,7 @@ Formats: [HTML](2014/08/13/index.html)  [JSON](2014/08/13/index.json)  [XML](201
 
 ##### 2014 Israel-Gaza conflict
 ### [Associated Press journalist Simone Camilli, a freelance translator and four Gaza police officers are killed when police tried to defuse unexploded ordnance. ](/news/2014/08/13/associated-press-journalist-simone-camilli-a-freelance-translator-and-four-gaza-police-officers-are-killed-when-police-tried-to-defuse-unex.md)
-_Context: unexploded, 2014 Israel-Gaza conflict, Associated Press_
+_Context: 2014 Israel-Gaza conflict, Associated Press, unexploded_
 
 ##### Iraqi insurgency (2011-present)
 ### [The Syrian Observatory for Human Rights claims that 52 people have died as Islamic State of Iraq and the Levant Islamists gain control of eight villages between Aleppo and the Turkish border. ](/news/2014/08/13/the-syrian-observatory-for-human-rights-claims-that-52-people-have-died-as-islamic-state-of-iraq-and-the-levant-islamists-gain-control-of-ei.md)
@@ -21,7 +21,7 @@ An investigation begins after the bodies of five French climbers and their guide
 
 ##### A landslide hits a mountain train
 ### [Three train cars derail and 11 people are injured after a landslide hits a mountain train in the Swiss Alps. ](/news/2014/08/13/three-train-cars-derail-and-11-people-are-injured-after-a-landslide-hits-a-mountain-train-in-the-swiss-alps.md)
-_Context: a landslide hits a mountain train, Swiss Alps_
+_Context: Swiss Alps, a landslide hits a mountain train_
 
 ##### Solomon Islands
 ### [Solomon Islands recognize Kosovo. ](/news/2014/08/13/solomon-islands-recognize-kosovo.md)
@@ -33,7 +33,7 @@ _Context: Shooting of Michael Brown, police force, Missouri_
 
 ##### Slovenian parliamentary election, 2014
 ### [Miro Cerar secures an absolute majority of votes in parliament to become new prime minister of Slovenia after receiving an endorsement by the Pensioner's Party DeSUS, as well as by the outgoing PM Alenka Bratusek and her Alliance. ](/news/2014/08/13/miro-cerar-secures-an-absolute-majority-of-votes-in-parliament-to-become-new-prime-minister-of-slovenia-after-receiving-an-endorsement-by-th.md)
-_Context: alliance, Slovenian parliamentary election, 2014, Miro Cerar, Alenka Bratusek, Pensioner's Party DeSUS, Slovenia_
+_Context: Pensioner's Party DeSUS, Alenka Bratusek, Slovenia, Miro Cerar, alliance, Slovenian parliamentary election, 2014_
 
 ## [Previous Day...](/news/2014/08/12/index.md)
 

@@ -5,15 +5,15 @@ Formats: [HTML](2012/04/5/index.html)  [JSON](2012/04/5/index.json)  [XML](2012/
 
 ##### Egypt
 ### [A rocket fired from Egypt's Sinai desert hits the Israeli city of Eilat but causes no injuries or property damage. ](/news/2012/04/5/a-rocket-fired-from-egypt-s-sinai-desert-hits-the-israeli-city-of-eilat-but-causes-no-injuries-or-property-damage.md)
-_Context: Israel, Eilat, Sinai desert, Egypt_
+_Context: Egypt, Israel, Sinai desert, Eilat_
 
 ##### Mali
 ### [Mali's Azawad National Liberation Movement declares an end to military activities, claiming that they have captured enough territory to form their own state. ](/news/2012/04/5/mali-s-azawad-national-liberation-movement-declares-an-end-to-military-activities-claiming-that-they-have-captured-enough-territory-to-form.md)
-_Context: Azawad, Azawad National Liberation Movement, Mali_
+_Context: Azawad, Mali, Azawad National Liberation Movement_
 
 ##### Syria
 ### [Syrian Army troops launch a fierce attack on the Damascus suburb of Douma. ](/news/2012/04/5/syrian-army-troops-launch-a-fierce-attack-on-the-damascus-suburb-of-douma.md)
-_Context: Douma, Syria, Damascus, Syrian Army_
+_Context: Syria, Syrian Army, Douma, Damascus_
 
 ##### Zuwara
 ### [Rival militias cease fighting in the town of Zuwara in western Libya after the National Transitional Council claims a ceasefire. ](/news/2012/04/5/rival-militias-cease-fighting-in-the-town-of-zuwara-in-western-libya-after-the-national-transitional-council-claims-a-ceasefire.md)

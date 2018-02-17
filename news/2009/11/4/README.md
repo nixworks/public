@@ -5,11 +5,11 @@ Formats: [HTML](2009/11/4/index.html)  [JSON](2009/11/4/index.json)  [XML](2009/
 
 ##### New York Yankees
 ### [ The New York Yankees defeat the Philadelphia Phillies 7-3 in Game 6 to win the 2009 World Series. ](/news/2009/11/4/the-new-york-yankees-defeat-the-philadelphia-phillies-7-3-in-game-6-to-win-the-2009-world-series.md)
-_Context: baseball world series, New York Yankees, Philadelphia Phillies_
+_Context: New York Yankees, Philadelphia Phillies, baseball world series_
 
 ##### Houthi
 ### [ Rebel Houthis in Yemen cross the border into Saudi Arabia, killing a Saudi security officer and injuring 11 others. ](/news/2009/11/4/rebel-houthis-in-yemen-cross-the-border-into-saudi-arabia-killing-a-saudi-security-officer-and-injuring-11-others.md)
-_Context: Shia insurgency in Yemen, Yemen, Saudi Arabia, Houthi_
+_Context: Saudi Arabia, Houthi, Shia insurgency in Yemen, Yemen_
 
 ##### Israeli navy
 ### [ The Israeli navy intercepts the Francop, a ship alleging to have Iranian weapons bound for Hezbollah in Lebanon. ](/news/2009/11/4/the-israeli-navy-intercepts-the-francop-a-ship-alleging-to-have-iranian-weapons-bound-for-hezbollah-in-lebanon.md)
@@ -37,7 +37,7 @@ Twenty-three US secret agents, accused of seizing imam, sentenced to jail in abs
 
 ##### United States
 ### [ United States officials meet Aung San Suu Kyi and the Burmese Prime Minister Thein Sein in rare talks. ](/news/2009/11/4/united-states-officials-meet-aung-san-suu-kyi-and-the-burmese-prime-minister-thein-sein-in-rare-talks.md)
-_Context: Burma, United States, Thein Sein, Prime Minister, Aung San Suu Kyi_
+_Context: United States, Burma, Prime Minister, Aung San Suu Kyi, Thein Sein_
 
 ##### President of Sierra Leone
 ### [ The President of Sierra Leone Ernest Bai Koroma sacks two senior ministers on charges of corruption. ](/news/2009/11/4/the-president-of-sierra-leone-ernest-bai-koroma-sacks-two-senior-ministers-on-charges-of-corruption.md)
@@ -49,15 +49,15 @@ Italian political leaders have united to condemn a European court ruling that cr
 
 ##### Earthquake
 ### [ Around 700 people are injured in two earthquakes in southern Iran. ](/news/2009/11/4/around-700-people-are-injured-in-two-earthquakes-in-southern-iran.md)
-_Context: Iran, earthquake_
+_Context: earthquake, Iran_
 
 ##### China
 ### [ China approves a Disney theme park in Shanghai after a decade of negotiations. ](/news/2009/11/4/china-approves-a-disney-theme-park-in-shanghai-after-a-decade-of-negotiations.md)
-_Context: China, Disney, Shanghai, theme park_
+_Context: Shanghai, Disney, China, theme park_
 
 ##### Australia
 ### [ Australia and New Zealand expel Fiji's top diplomats in response to the decision of the Government of Prime Minister Frank Bainimarama to expel senior Australian and New Zealand diplomats from Fiji. ](/news/2009/11/4/australia-and-new-zealand-expel-fiji-s-top-diplomats-in-response-to-the-decision-of-the-government-of-prime-minister-frank-bainimarama-to-e.md)
-_Context: New Zealand, Voreqe Bainimarama, Fiji, Prime Minister, Australia_
+_Context: Fiji, New Zealand, Voreqe Bainimarama, Australia, Prime Minister_
 
 ##### Huwei
 ### [ A fire at a warehouse in Huwei Yunlin County, Taiwan, destroys between 400 and 500 historic puppets. ](/news/2009/11/4/a-fire-at-a-warehouse-in-huwei-yunlin-county-taiwan-destroys-between-400-and-500-historic-puppets.md)

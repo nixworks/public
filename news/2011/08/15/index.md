@@ -29,11 +29,11 @@ Connect to the most current information on stocks and bonds on Reuters.com for G
 
 ##### Hurricane Rina
 ### [Tropical Storm Gert passes Bermuda. ](/news/2011/08/15/tropical-storm-gert-passes-bermuda.md)
-_Context: Bermuda, Hurricane Rina_
+_Context: Hurricane Rina, Bermuda_
 
 ##### New Zealand
 ### [A cold snap in New Zealand causes widespread snow on both the North and South Islands, disruption to power supplies and the closures of roads and Wellington International Airport. ](/news/2011/08/15/a-cold-snap-in-new-zealand-causes-widespread-snow-on-both-the-north-and-south-islands-disruption-to-power-supplies-and-the-closures-of-road.md)
-_Context: South Island, New Zealand, North Island, Wellington International Airport_
+_Context: New Zealand, South Island, Wellington International Airport, North Island_
 
 ##### Japan
 ### [Japan's Cabinet approves a plan to establish a new energy watchdog under the Environment Ministry. ](/news/2011/08/15/japan-s-cabinet-approves-a-plan-to-establish-a-new-energy-watchdog-under-the-environment-ministry.md)
@@ -41,7 +41,7 @@ _Context: Environment Ministry, Japan_
 
 ##### Egypt
 ### [Former Egyptian President Hosni Mubarak appears in court for the second session of his trial with his two sons Alaa and Gamal who share corruption charges with him; the trial is subsequently adjourned and ordered to be merged with that of former Interior Minister Habib al-Adly. ](/news/2011/08/15/former-egyptian-president-hosni-mubarak-appears-in-court-for-the-second-session-of-his-trial-with-his-two-sons-alaa-and-gamal-who-share-corr.md)
-_Context: Gamel, Alaa Mubarak, Hosni Mubarak, Egyptian interior minister, Habib al-Adly, President, Egypt_
+_Context: Habib al-Adly, Egyptian interior minister, Egypt, Hosni Mubarak, Gamel, President, Alaa Mubarak_
 
 ## [Previous Day...](/news/2011/08/14/index.md)
 

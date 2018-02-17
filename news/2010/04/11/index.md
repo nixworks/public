@@ -9,7 +9,7 @@ WARSAW - Draped in a red and white Polish flag, the body of Lech Kaczynski was c
 
 ##### Airstrike
 ### [Airstrikes kill 10 militants in northwestern Pakistan as part of a military operation that has eliminated more than 300 fighters in the last three weeks. ](/news/2010/04/11/airstrikes-kill-10-militants-in-northwestern-pakistan-as-part-of-a-military-operation-that-has-eliminated-more-than-300-fighters-in-the-last.md)
-_Context: Pakistan, Airstrike_
+_Context: Airstrike, Pakistan_
 
 ##### President
 ### [President of Iran Mahmoud Ahmadinejad plans to relocate millions of Tehranians as the city is threatened by earthquakes. ](/news/2010/04/11/president-of-iran-mahmoud-ahmadinejad-plans-to-relocate-millions-of-tehranians-as-the-city-is-threatened-by-earthquakes.md)
@@ -25,7 +25,7 @@ Multi-party elections get under way despite opposition staying away from preside
 
 ##### 6.8 magnitude earthquake
 ### [A 6.8 magnitude earthquake strikes the southern Solomon Islands, 97&nbsp;km southwest of Kirakira on Makira Island. ](/news/2010/04/11/a-6-8-magnitude-earthquake-strikes-the-southern-solomon-islands-97-nbsp-km-southwest-of-kirakira-on-makira-island.md)
-_Context: Solomon Islands, Makira Island, Kirakira, 6.8 magnitude earthquake_
+_Context: Makira Island, 6.8 magnitude earthquake, Kirakira, Solomon Islands_
 
 ##### Israel
 ### [Israel is set to impose a military order, which ten human rights groups fear could see thousands of Palestinians deported from the West Bank if they do not have a residency permit. ](/news/2010/04/11/israel-is-set-to-impose-a-military-order-which-ten-human-rights-groups-fear-could-see-thousands-of-palestinians-deported-from-the-west-bank.md)
@@ -33,19 +33,19 @@ _Context: West Bank, Israel, Palestinians_
 
 ##### Democratic Front for the Liberation of Palestine
 ### [The Democratic Front for the Liberation of Palestine (DFLP) asks China to pressure Israel to have its nuclear sites inspected during the forthcoming international nuclear conference, saying "world silence on the issue of the Israeli nuclear capabilities is creating tension in the region, especially with the relentless international focus on Iran and North Korea". ](/news/2010/04/11/the-democratic-front-for-the-liberation-of-palestine-dflp-asks-china-to-pressure-israel-to-have-its-nuclear-sites-inspected-during-the-for.md)
-_Context: Israel, Democratic Front for the Liberation of Palestine, China, Iran, North Korea_
+_Context: North Korea, Israel, Chinese, Iran, Democratic Front for the Liberation of Palestine_
 
 ##### Kyrgyzstan
 ### [Kyrgyzstan's interim government considers arresting and charging President Kurmanbek Bakiyev for the deaths of 81 people in riots earlier this week. ](/news/2010/04/11/kyrgyzstan-s-interim-government-considers-arresting-and-charging-president-kurmanbek-bakiyev-for-the-deaths-of-81-people-in-riots-earlier-th.md)
-_Context: Kyrgyzstan, Kurmanbek Bakiyev, the recent unrest, president_
+_Context: the recent unrest, Kyrgyzstan, president, Kurmanbek Bakiyev_
 
 ##### South Africa
 ### [South African police investigate a possible link between homosexual sex and the murder of Eugene Terre'Blanche. ](/news/2010/04/11/south-african-police-investigate-a-possible-link-between-homosexual-sex-and-the-murder-of-euga-ne-terre-blanche.md)
-_Context: homosexual, South Africa, Eugene Terre'Blanche_
+_Context: Eugene Terre'Blanche, South Africa, homosexual_
 
 ##### Fidesz - Hungarian Civic Union
 ### [Centre-right Fidesz wins majority of parliamentary seats in the first round of the Hungarian general elections. ](/news/2010/04/11/centre-right-fidesz-wins-majority-of-parliamentary-seats-in-the-first-round-of-the-hungarian-general-elections.md)
-_Context: 2010 parliamentary elections, Fidesz - Hungarian Civic Union, Hungary_
+_Context: Fidesz - Hungarian Civic Union, 2010 parliamentary elections, Hungary_
 
 ##### Abdullah
 ### [Abdullah of Saudi Arabia and Vietnamese President Nguyen Minh Triet discuss bilateral ties in oil, food and manpower and sign three major agreements -- a treaty avoiding double taxation, a protocol to promote ties in the oil and gas sectors and an agreement to promote agricultural cooperation. ](/news/2010/04/11/abdullah-of-saudi-arabia-and-vietnamese-president-nguya-n-minh-triao-t-discuss-bilateral-ties-in-oil-food-and-manpower-and-sign-three-majo.md)
@@ -57,11 +57,11 @@ Three medical workers among nine arrested for allegedly plotting to kill Helmand
 
 ##### 2010 Thai political protests
 ### [The death toll in clashes between anti-government protesters and Thai troops in the capital Bangkok rises to at least 20 people. ](/news/2010/04/11/the-death-toll-in-clashes-between-anti-government-protesters-and-thai-troops-in-the-capital-bangkok-rises-to-at-least-20-people.md)
-_Context: Bangkok, red shirt, 2010 Thai political protests, Thailand_
+_Context: 2010 Thai political protests, red shirt, Bangkok, Thailand_
 
 ##### China
 ### [Two Chinese singers become the country's first to be punished for lip-synching nearly two years after the Beijing Olympiad. ](/news/2010/04/11/two-chinese-singers-become-the-country-s-first-to-be-punished-for-lip-synching-nearly-two-years-after-the-beijing-olympiad.md)
-_Context: China, 2008 Summer Olympics, lip-synching_
+_Context: 2008 Summer Olympics, lip-synching, China_
 
 ##### Belfast Wheel
 ### [The Belfast Wheel ](/news/2010/04/11/the-belfast-wheel.md)

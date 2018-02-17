@@ -5,7 +5,7 @@ Formats: [HTML](2010/10/6/index.html)  [JSON](2010/10/6/index.json)  [XML](2010/
 
 ##### Drones launch
 ### [Eleven suspected militants are killed in a US drone attack near Miramshah in North Waziristan, Pakistan. ](/news/2010/10/6/eleven-suspected-militants-are-killed-in-a-us-drone-attack-near-miramshah-in-north-waziristan-pakistan.md)
-_Context: Miramshah, drones launch, Pakistan_
+_Context: Pakistan, Miramshah, drones launch_
 
 ##### Azmat Khel
 ### [One person is killed and two others were injured when an explosion took place in the Azmat Khel Area of Bannu, Pakistan. ](/news/2010/10/6/one-person-is-killed-and-two-others-were-injured-when-an-explosion-took-place-in-the-azmat-khel-area-of-bannu-pakistan.md)
@@ -13,7 +13,7 @@ _Context: Pakistan, Azmat Khel, Bannu_
 
 ##### Thailand
 ### [Thai authorities accuse the anti-government red shirts of being behind a bomb blast in the capital Bangkok that killed at least three people. ](/news/2010/10/6/thai-authorities-accuse-the-anti-government-red-shirts-of-being-behind-a-bomb-blast-in-the-capital-bangkok-that-killed-at-least-three-people.md)
-_Context: United Front for Democracy Against Dictatorship, Bangkok, Thailand_
+_Context: Thailand, Bangkok, United Front for Democracy Against Dictatorship_
 
 ##### NATO
 ### [Gunmen torch up to 40 oil tanker trucks carrying fuel for NATO forces in Afghanistan in Quetta and Nowshera, Pakistan and kill a truck driver. The Tehreek-e-Taliban claimed responsibility for that and other attacks. This was the sixth attack on convoys taking supplies to Afghanistan since Pakistan closed a key border crossing almost a week ago. ](/news/2010/10/6/gunmen-torch-up-to-40-oil-tanker-trucks-carrying-fuel-for-nato-forces-in-afghanistan-in-quetta-and-nowshera-pakistan-and-kill-a-truck-drive.md)
@@ -21,11 +21,11 @@ The U.S. apologized Wednesday for a recent helicopter attack that killed two Pak
 
 ##### United Kingdom
 ### [A British embassy car is attacked in Sanaa, the capital of Yemen with three people injured . ](/news/2010/10/6/a-british-embassy-car-is-attacked-in-sanaa-the-capital-of-yemen-with-three-people-injured.md)
-_Context: Yemen, Sana'a, United Kingdom, embassies_
+_Context: embassies, Yemen, United Kingdom, Sana'a_
 
 ##### U.S. President
 ### [President of the United States Barack Obama awards a Medal of Honor posthumously to Robert James Miller of the US Army Green Berets for "conspicuous gallantry ... at risk of life above and beyond the call of duty" while fighting in the War in Afghanistan on January 25, 2008. ](/news/2010/10/6/president-of-the-united-states-barack-obama-awards-a-medal-of-honor-posthumously-to-robert-james-miller-of-the-us-army-green-berets-for-con.md)
-_Context: Medal of Honor, War in Afghanistan (2001-present), Robert James Miller, Barack Obama, Special Forces, U.S. President_
+_Context: Special Forces, War in Afghanistan (2001-present), Medal of Honor, Robert James Miller, U.S. President, Barack Obama_
 
 ##### Pusan International Film Festival
 ### [The 15th Pusan International Film Festival started in Pusan, South Korea. ](/news/2010/10/6/the-15th-pusan-international-film-festival-started-in-pusan-south-korea.md)
@@ -37,7 +37,7 @@ Poet Seamus Heaney is named the winner of the prestigious Forward Prize, which c
 
 ##### Autopsy
 ### [An autopsy finds that the death of United States actor Gary Coleman in Salt Lake City, Utah was an accident. ](/news/2010/10/6/an-autopsy-finds-that-the-death-of-united-states-actor-gary-coleman-in-salt-lake-city-utah-was-an-accident.md)
-_Context: Gary Coleman, Salt Lake City, Utah, autopsy, United States_
+_Context: autopsy, Utah, United States, Gary Coleman, Salt Lake City_
 
 ##### My Dinh National Stadium
 ### [Four people were killed and three others were injured when two containers of fireworks exploded near the My Dinh National Stadium, Hanoi. ](/news/2010/10/6/four-people-were-killed-and-three-others-were-injured-when-two-containers-of-fireworks-exploded-near-the-my-dinh-national-stadium-hanoi.md)
@@ -49,7 +49,7 @@ Military sources in Tajikistan say at least 25 soldiers have been killed in a he
 
 ##### China
 ### [Floods leave 1 dead, 3 missing, 33,000 evacuated in the Chinese province of Hainan. ](/news/2010/10/6/floods-leave-1-dead-3-missing-33-000-evacuated-in-the-chinese-province-of-hainan.md)
-_Context: China, Hainan_
+_Context: Hainan, China_
 
 ##### Indonesia
 ### [At least 75 people are killed in flash floods in eastern Indonesia. ](/news/2010/10/6/at-least-75-people-are-killed-in-flash-floods-in-eastern-indonesia.md)
@@ -69,7 +69,7 @@ _Context: India, Vishwas Nagar_
 
 ##### Tornado
 ### [Tornadoes hit Bellemont, Arizona in the southwest of the United States resulting in at least seven people being injured. ](/news/2010/10/6/tornadoes-hit-bellemont-arizona-in-the-southwest-of-the-united-states-resulting-in-at-least-seven-people-being-injured.md)
-_Context: tornado, Arizona, Bellemont, United States_
+_Context: United States, Bellemont, Arizona, tornado_
 
 ##### South Korea
 ### [South Korea and the European Union sign a free trade agreement. ](/news/2010/10/6/south-korea-and-the-european-union-sign-a-free-trade-agreement.md)
@@ -85,11 +85,11 @@ The judge in the first civilian case against an ex-Guantanamo inmate bars a key 
 
 ##### Federal Court of Canada
 ### [A Federal Court of Canada judge rejects a request by francophone groups outside Quebec to overturn the Conservative government's decision to scrap the longform census. ](/news/2010/10/6/a-federal-court-of-canada-judge-rejects-a-request-by-francophone-groups-outside-quebec-to-overturn-the-conservative-government-s-decision-to.md)
-_Context: francophone, Federal Court of Canada, Quebec, Conservative Party's, census_
+_Context: census, Conservative Party's, francophone, Quebec, Federal Court of Canada_
 
 ##### United States
 ### [United States Federal Bureau of Investigation agents arrest dozens of Puerto Rico police officers accused of aiding drug traffickers. ](/news/2010/10/6/united-states-federal-bureau-of-investigation-agents-arrest-dozens-of-puerto-rico-police-officers-accused-of-aiding-drug-traffickers.md)
-_Context: United States, police officers, FBI, Puerto Rico_
+_Context: United States, police officers, Puerto Rico, FBI_
 
 ##### Victoria
 ### [Law enforcement agencies in Victoria, Australia, the United Kingdom and Spain conduct raids in relation to allegedly corrupt behaviour by the currency subsidiary of the Reserve Bank of Australia. ](/news/2010/10/6/law-enforcement-agencies-in-victoria-australia-the-united-kingdom-and-spain-conduct-raids-in-relation-to-allegedly-corrupt-behaviour-by-th.md)
@@ -105,15 +105,15 @@ Ethiopian opposition leader Birtukan Mideksa was freed from prison today after t
 
 ##### Pro- and anti
 ### [China's climate negotiator Xie Zhenhua states that the country's voluntary efforts supported by its own resources and technologies only accept "non-invasive" international consultation and analysis at the UNFCCC meeting in Tianjin, China. ](/news/2010/10/6/china-s-climate-negotiator-xie-zhenhua-states-that-the-country-s-voluntary-efforts-supported-by-its-own-resources-and-technologies-only-acce.md)
-_Context: Xie Zhenhua, China, Tianjin, UNFCCC, pro- and anti_
+_Context: Chinese, UNFCCC, Tianjin, Xie Zhenhua, pro- and anti_
 
-##### China
+##### Chinese
 ### [China's gross domestic product (GDP) will grow by 10.5 percent in 2010 and 9.6 percent in 2011, ahead of other major economies, according to a report released by the International Monetary Fund. ](/news/2010/10/6/china-s-gross-domestic-product-gdp-will-grow-by-10-5-percent-in-2010-and-9-6-percent-in-2011-ahead-of-other-major-economies-according-to.md)
-_Context: gross domestic product, International Monetary Fund, China_
+_Context: International Monetary Fund, gross domestic product, Chinese_
 
 ##### Richard F. Heck
 ### [Richard F. Heck, Ei-ichi Negishi and Akira Suzuki win the 2010 Nobel Prize in Chemistry for developing new ways of linking carbon atoms together. ](/news/2010/10/6/richard-f-heck-ei-ichi-negishi-and-akira-suzuki-win-the-2010-nobel-prize-in-chemistry-for-developing-new-ways-of-linking-carbon-atoms-toge.md)
-_Context: Richard F. Heck, atom, carbon, Ei-ichi Negishi, Akira Suzuki, Nobel Prize in Chemistry_
+_Context: Akira Suzuki, Richard F. Heck, Ei-ichi Negishi, carbon, Nobel Prize in Chemistry, atom_
 
 ## [Previous Day...](/news/2010/10/5/index.md)
 

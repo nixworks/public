@@ -9,23 +9,23 @@ _Context: Darfur, Crusaders, Osama Bin Laden, Jihad_
 
 ##### Parliamentary elections
 ### [ Parliamentary elections in Hungary: The Hungarian Socialist Party wins with a plurality of the votes and will therefore continue to govern in coalition with the Alliance of Free Democrats; it also becomes the first re-elected government of Hungary since the end of the Cold War. ](/news/2006/04/23/parliamentary-elections-in-hungary-the-hungarian-socialist-party-wins-with-a-plurality-of-the-votes-and-will-therefore-continue-to-govern.md)
-_Context: Alliance of Free Democrats, Hungarian Socialist Party, Parliamentary elections, Cold War, plurality_
+_Context: Hungarian Socialist Party, plurality, Alliance of Free Democrats, Parliamentary elections, Cold War_
 
 ##### Elections in the Solomon Islands
 ### [ Elections in the Solomon Islands: Beijing begins to evacuate ethnic Chinese from Solomon Islands following Anti-Chinese riots during the election protests that destroyed the Chinatown. ](/news/2006/04/23/elections-in-the-solomon-islands-beijing-begins-to-evacuate-ethnic-chinese-from-solomon-islands-following-anti-chinese-riots-during-the-el.md)
-_Context: Chinatown, ethnic Chinese, Elections in the Solomon Islands, Solomon Islands, Anti-Chinese, Beijing_
+_Context: ethnic Chinese, Elections in the Solomon Islands, Solomon Islands, Beijing, Anti-Chinese, Chinatown_
 
 ##### Cyclone Monica
 ### [ Cyclone Monica, a Category 5 cyclone on the Australian and Saffir-Simpson scales, threatens Australia's northern coast including the city of Darwin. The Australian Bureau of Meteorology has warned of "dangerously high tides" that may cause "extensive flooding" along part of the coast and ordered the sounding of emergency sirens in the Gove Peninsula. Alcan, the world's second-biggest aluminium producer, has warned customers of potential interruptions to supplies on contracts from its Gove refinery. ](/news/2006/04/23/cyclone-monica-a-category-5-cyclone-on-the-australian-and-saffir-simpson-scales-threatens-australia-s-northern-coast-including-the-city-o.md)
-_Context: Gove Peninsula, Bureau of Meteorology, Alcan, siren, Darwin, aluminium, Cyclone Monica_
+_Context: Cyclone Monica, Alcan, Bureau of Meteorology, siren, Gove Peninsula, Darwin, aluminium_
 
 ##### Brussels
 ### [ A silent march through Brussels, Belgium, takes place with 80,000 participants, following the murder on April 12 of a teenager, stabbed at rush hour in Brussels Central Railway station when he refused to hand over his MP3 player. ](/news/2006/04/23/a-silent-march-through-brussels-belgium-takes-place-with-80-000-participants-following-the-murder-on-april-12-of-a-teenager-stabbed-at.md)
-_Context: Brussels, Brussels Central Railway station, murder on April 12 of a teenager_
+_Context: murder on April 12 of a teenager, Brussels Central Railway station, Brussels_
 
 ##### Sri Lankan Civil War
 ### [ Sri Lankan Civil War: six Sinhalese rice farmers are executed in their paddy fields by suspected Tamil Tigers terrorists in the northeastern Trincomalee district. ](/news/2006/04/23/sri-lankan-civil-war-six-sinhalese-rice-farmers-are-executed-in-their-paddy-fields-by-suspected-tamil-tigers-terrorists-in-the-northeaster.md)
-_Context: Sinhalese, Trincomalee, Sri Lankan Civil War, LTTE_
+_Context: Trincomalee, Sri Lankan Civil War, Sinhalese, LTTE_
 
 ##### Peru
 ### [ Peru declares a state of emergency in towns near the volcano Ubinas. ](/news/2006/04/23/peru-declares-a-state-of-emergency-in-towns-near-the-volcano-ubinas.md)

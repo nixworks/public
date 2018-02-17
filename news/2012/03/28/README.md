@@ -21,7 +21,7 @@ HAVANA &#8212; Pope Benedict XVI on Wednesday concluded his first trip to the Sp
 
 ##### Government of Fiji
 ### [The Government of Fiji seizes a controlling interest in subsidiary Air Pacific from the Australian airline Qantas. Qantas remains in control of its equity in the airline. ](/news/2012/03/28/the-government-of-fiji-seizes-a-controlling-interest-in-subsidiary-air-pacific-from-the-australian-airline-qantas-qantas-remains-in-control.md)
-_Context: Australia, Air Pacific, Qantas, Government of Fiji_
+_Context: Australia, Air Pacific, Government of Fiji, Qantas_
 
 ##### Mega Millions
 ### [The Mega Millions jackpot in the United States hits a record $500 million dollars, a world record in lottery history. ](/news/2012/03/28/the-mega-millions-jackpot-in-the-united-states-hits-a-record-500-million-dollars-a-world-record-in-lottery-history.md)
@@ -29,7 +29,7 @@ _Context: Mega Millions_
 
 ##### United States
 ### [The United States suspends planned food aid to North Korea, after the latter plans to launch a rocket next month. ](/news/2012/03/28/the-united-states-suspends-planned-food-aid-to-north-korea-after-the-latter-plans-to-launch-a-rocket-next-month.md)
-_Context: North Korea, United States_
+_Context: United States, North Korea_
 
 ##### Mali's coup
 ### [2012 Malian coup d'etat: Coup leaders in Mali unveil a new constitution. ](/news/2012/03/28/2012-malian-coup-d-a-c-tat-coup-leaders-in-mali-unveil-a-new-constitution.md)
@@ -39,9 +39,9 @@ African delegation set to arrive to press for restoration of democracy, as thous
 ### [Annastacia Palaszczuk becomes the Opposition Leader of the Queensland Australian Labor Party, following the party's landslide defeat in last Saturday's election. ](/news/2012/03/28/annastacia-palaszczuk-becomes-the-opposition-leader-of-the-queensland-australian-labor-party-following-the-party-s-landslide-defeat-in-last.md)
 Second generation Labor MP and new party leader Annastacia Palaszczuk has set herself two herculean tasks: rebuilding the battered Labor brand, and keeping the Liberal National Party in check.
 
-##### China
+##### Chinese
 ### [Detained Chinese rights lawyer Gao Zhisheng is allowed a visit from family, for the first time in two years. ](/news/2012/03/28/detained-chinese-rights-lawyer-gao-zhisheng-is-allowed-a-visit-from-family-for-the-first-time-in-two-years.md)
-_Context: Gao Zhisheng, China_
+_Context: Chinese, Gao Zhisheng_
 
 ## [Previous Day...](/news/2012/03/27/index.md)
 

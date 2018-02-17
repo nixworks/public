@@ -5,7 +5,7 @@ Formats: [HTML](2010/03/5/index.html)  [JSON](2010/03/5/index.json)  [XML](2010/
 
 ##### Baidu
 ### [Baidu shares have risen 34% since rival Google said on Jan 12 it may shut down its business in China. Baidu has risen 34 percent and Google has lost 8.5 percent. ](/news/2010/03/5/baidu-shares-have-risen-34-since-rival-google-said-on-jan-12-it-may-shut-down-its-business-in-china-baidu-has-risen-34-percent-and-google.md)
-_Context: Baidu, China, Google_
+_Context: Google, Chinese, Baidu_
 
 ##### Minister for Foreign Affairs
 ### [Irish Minister for Foreign Affairs Micheal Martin, writing in the "International Herald Tribune", says Israel's blockade of Gaza is "inhumane and unacceptable" and calls on the European Union and other countries to request that it be ended following his visit there last week. ](/news/2010/03/5/irish-minister-for-foreign-affairs-michea-l-martin-writing-in-the-international-herald-tribune-says-israel-s-blockade-of-gaza-is-inhuma.md)
@@ -41,7 +41,7 @@ _Context: Kigali, genocide_
 
 ##### Pakistan army
 ### [Pakistan army kills 30 Taliban militants near Peshawar, the capital of North West Frontier Province. ](/news/2010/03/5/pakistan-army-kills-30-taliban-militants-near-peshawar-the-capital-of-north-west-frontier-province.md)
-_Context: Peshawar, Pakistan army, Northwestern Pakistan, Taliban_
+_Context: Northwestern Pakistan, Pakistan army, Taliban, Peshawar_
 
 ##### Shi'ite Muslims
 ### [A suicide bomber attacked a convoy of Shi'ite Muslims in northwest Pakistan, killing at least 12 people. ](/news/2010/03/5/a-suicide-bomber-attacked-a-convoy-of-shi-ite-muslims-in-northwest-pakistan-killing-at-least-12-people.md)

@@ -5,11 +5,11 @@ Formats: [HTML](2017/11/20/index.html)  [JSON](2017/11/20/index.json)  [XML](201
 
 ##### Economy of the United States
 ### [The U.S. Department of Justice files a lawsuit blocking the potential merger of AT&T and Time Warner. ](/news/2017/11/20/the-u-s-department-of-justice-files-a-lawsuit-blocking-the-potential-merger-of-at-t-and-time-warner.md)
-_Context: Time Warner, Economy of the United States, AT&T, U.S. Department of Justice_
+_Context: Economy of the United States, AT&T, Time Warner, U.S. Department of Justice_
 
 ##### Earthquakes in 2017
 ### [A 7.0 magnitude undersea earthquake strikes east of New Caledonia's Loyalty Islands in the South Pacific Ocean. Tsunami warnings for New Caledonia and Vanuatu are cancelled. There are no immediate reports of damage. ](/news/2017/11/20/a-7-0-magnitude-undersea-earthquake-strikes-east-of-new-caledonia-s-loyalty-islands-in-the-south-pacific-ocean-tsunami-warnings-for-new-cal.md)
-_Context: New Caledonia, Earthquakes in 2017, Loyalty Islands, magnitude, South Pacific Ocean, Vanuatu_
+_Context: magnitude, Vanuatu, South Pacific Ocean, Earthquakes in 2017, New Caledonia, Loyalty Islands_
 
 ##### 2017 North Korea crisis
 ### [U.S. President Donald Trump announces the designation of North Korea as a state sponsor of terrorism. ](/news/2017/11/20/u-s-president-donald-trump-announces-the-designation-of-north-korea-as-a-state-sponsor-of-terrorism.md)
@@ -25,7 +25,7 @@ The Haitians here will be given 18 months to prepare to leave.
 
 ##### Brexit negotiations
 ### [After the United Kingdom withdrawal from the European Union referendum, the European Medicines Agency (EMA) will relocate to Amsterdam and the European Banking Authority (EBA) to Paris from London. ](/news/2017/11/20/after-the-united-kingdom-withdrawal-from-the-european-union-referendum-the-european-medicines-agency-ema-will-relocate-to-amsterdam-and-t.md)
-_Context: European Banking Authority, Brexit, Amsterdam, London, European Medicines Agency, Paris, Brexit negotiations_
+_Context: European Medicines Agency, European Banking Authority, Brexit negotiations, Amsterdam, Paris, London, Brexit_
 
 ## [Previous Day...](/news/2017/11/19/index.md)
 

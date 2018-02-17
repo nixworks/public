@@ -5,7 +5,7 @@ Formats: [HTML](2008/08/24/index.html)  [JSON](2008/08/24/index.json)  [XML](200
 
 ##### Baghdad
 ### [ A suicide bomber attacks a feast in Baghdad's Abu Ghraib district resulting in at least 21 deaths. ](/news/2008/08/24/a-suicide-bomber-attacks-a-feast-in-baghdad-s-abu-ghraib-district-resulting-in-at-least-21-deaths.md)
-_Context: Baghdad, Abu Ghraib_
+_Context: Abu Ghraib, Baghdad_
 
 ##### Guatemala City
 ### [ A small plane crashes east of Guatemala City, killing ten and injuring four. ](/news/2008/08/24/a-small-plane-crashes-east-of-guatemala-city-killing-ten-and-injuring-four.md)
@@ -25,7 +25,7 @@ Visit ESPN to get up-to-the-minute sports news coverage, scores, highlights and 
 
 ##### India
 ### [ Protesters in the Indian state of West Bengal "lay siege" to the factory producing the Tata Nano, in a dispute over land expropriation. ](/news/2008/08/24/protesters-in-the-indian-state-of-west-bengal-lay-siege-to-the-factory-producing-the-tata-nano-in-a-dispute-over-land-expropriation.md)
-_Context: India, Tata Nano, West Bengal_
+_Context: Tata Nano, West Bengal, India_
 
 ## [Previous Day...](/news/2008/08/23/index.md)
 

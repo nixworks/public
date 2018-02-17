@@ -5,15 +5,15 @@ Formats: [HTML](2005/04/11/index.html)  [JSON](2005/04/11/index.json)  [XML](200
 
 ##### Holocaust and Remembrance Center
 ### [ Yad Vashem bestow the honour of "Righteous Among the Nations" posthumously upon a Nazi Major, Karl Plagge. Plagge saved around 1,200 Jews, mostly women and children, from execution during the Holocaust by putting them in forced labor positions at a vehicle workshop. ](/news/2005/04/11/yad-vashem-bestow-the-honour-of-righteous-among-the-nations-posthumously-upon-a-nazi-major-karl-plagge-plagge-saved-around-1-200-jews.md)
-_Context: Nazism, Righteous Among the Nations, Holocaust, Karl Plagge, Major, Holocaust and Remembrance Center_
+_Context: Nazism, Holocaust and Remembrance Center, Righteous Among the Nations, Holocaust, Major, Karl Plagge_
 
 ##### Hindu
 ### [ At least 54 Hindu pilgrims have been killed when a dam in the Madhya Pradesh state in India is apparently opened by mistake. ](/news/2005/04/11/at-least-54-hindu-pilgrims-have-been-killed-when-a-dam-in-the-madhya-pradesh-state-in-india-is-apparently-opened-by-mistake.md)
-_Context: pilgrim, Madhya Pradesh, Hindu, dam, India_
+_Context: dam, pilgrim, Hindu, Madhya Pradesh, India_
 
 ##### Hezbollah
 ### [ Hezbollah, the Lebanese political and militant organisation, flies another unmanned drone plane over Israel. Hezbollah claims the ""reconnaissance mission"" was in retaliation for alleged Israeli violations of Lebanese Airspace. Israel quickly retaliates by sending jets to fly at a low altitude over southern Lebanon and caused sonic booms. ](/news/2005/04/11/hezbollah-the-lebanese-political-and-militant-organisation-flies-another-unmanned-drone-plane-over-israel-hezbollah-claims-the-reconna.md)
-_Context: Israel, Hezbollah, Lebanese, sonic boom, unmanned drone plane, reconnaissance_
+_Context: Hezbollah, reconnaissance, sonic boom, unmanned drone plane, Lebanese, Israel_
 
 ##### Election of a new secretary general
 ### [ The election of a new secretary general of the Organization of American States ends in an unprecedented stalemate after five rounds of voting. ](/news/2005/04/11/the-election-of-a-new-secretary-general-of-the-organization-of-american-states-ends-in-an-unprecedented-stalemate-after-five-rounds-of-voti.md)
@@ -21,31 +21,31 @@ _Context: Organization of American States, stalemate, election of a new secretar
 
 ##### United States
 ### [ U.S. President George W. Bush praises the Israeli Prime Minister Ariel Sharon for his ""courageous initiative"" to pull all Israeli settlements out of the Gaza Strip, however Bush also told Sharon not to expand other existing settlements. The two leaders met in Texas, USA. ](/news/2005/04/11/u-s-president-george-w-bush-praises-the-israeli-prime-minister-ariel-sharon-for-his-courageous-initiative-to-pull-all-israeli-settlem.md)
-_Context: U.S. President, Texas, Ariel Sharon, United States, Israeli settlement, George W. Bush, Israel, USA, Israeli Prime Minister, Gaza Strip_
+_Context: Israeli Prime Minister, Israel, Texas, United States, George W. Bush, USA, Gaza Strip, Israeli settlement, U.S. President, Ariel Sharon_
 
 ##### Tulip Revolution
 ### [ Tulip Revolution: The Parliament of Kyrgyzstan finally approves the resignation of deposed President Askar Akayev. ](/news/2005/04/11/tulip-revolution-the-parliament-of-kyrgyzstan-finally-approves-the-resignation-of-deposed-president-askar-akayev.md)
-_Context: Kyrgyzstan, Askar Akayev, Tulip Revolution, resignation, president_
+_Context: president, Tulip Revolution, Kyrgyzstan, resignation, Askar Akayev_
 
 ##### Jeremy Jaynes
 ### [ Jeremy Jaynes, estimated to be the world's eighth most prolific spammer, is sentenced to nine years imprisonment. ](/news/2005/04/11/jeremy-jaynes-estimated-to-be-the-world-s-eighth-most-prolific-spammer-is-sentenced-to-nine-years-imprisonment.md)
-_Context: prison, Jeremy Jaynes, spam_
+_Context: spam, prison, Jeremy Jaynes_
 
 ##### International Court of Justice
 ### [ The International Court of Justice at The Hague begins hearing a complaint by the Democratic Republic of Congo that Uganda of invaded its territory and committed human rights violations. ](/news/2005/04/11/the-international-court-of-justice-at-the-hague-begins-hearing-a-complaint-by-the-democratic-republic-of-congo-that-uganda-of-invaded-its-t.md)
-_Context: invasion, human rights, The Hague, Democratic Republic of Congo, International Court of Justice, Uganda_
+_Context: human rights, Uganda, International Court of Justice, Democratic Republic of Congo, The Hague, invasion_
 
 ##### Australia
 ### [ Australian Liberal MP David Tollner urges people to kill poisonous cane toads with cricket bats and golf clubs. The toads have become a nuisance in the Northern Territory. Animal rights groups prefer freezing them to death. ](/news/2005/04/11/australian-liberal-mp-david-tollner-urges-people-to-kill-poisonous-cane-toads-with-cricket-bats-and-golf-clubs-the-toads-have-become-a-nui.md)
-_Context: cane toad, golfer, animal rights, Australia, MP, Liberals, cricketer, Northern Territory, David Tollner_
+_Context: Australia, animal rights, cricketer, cane toad, Liberals, MP, Northern Territory, golfer, David Tollner_
 
 ##### Dhaka
 ### [ A 9-story factory building collapses in Dhaka, Bangladesh; five deaths are reported. ](/news/2005/04/11/a-9-story-factory-building-collapses-in-dhaka-bangladesh-five-deaths-are-reported.md)
-_Context: Dhaka, Bangladesh_
+_Context: Bangladesh, Dhaka_
 
 ##### World Health Organization
 ### [ The World Health Organization announces that 203 people have died in Angola from the Marburg virus. ](/news/2005/04/11/the-world-health-organization-announces-that-203-people-have-died-in-angola-from-the-marburg-virus.md)
-_Context: Marburg virus, Angola, World Health Organization_
+_Context: Angola, Marburg virus, World Health Organization_
 
 ##### Oslo
 ### [ A court in Oslo, Norway, detains a man suspected of involved with the theft of the Edvard Munch paintings "The Scream" and "Madonna". ](/news/2005/04/11/a-court-in-oslo-norway-detains-a-man-suspected-of-involved-with-the-theft-of-the-edvard-munch-paintings-the-scream-and-madonna.md)

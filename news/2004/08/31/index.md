@@ -13,27 +13,27 @@ _Context: subway station, female suicide bombing_
 
 ##### Rebel-held
 ### [ Despite demands from Iraqi resistance Islamist militant elements threatening to kill two French hostages, France upholds its law on secularity and conspicuous religious symbols in schools, specifically its ban on Muslim hijabs. ](/news/2004/08/31/despite-demands-from-iraqi-resistance-islamist-militant-elements-threatening-to-kill-two-french-hostages-france-upholds-its-law-on-secular.md)
-_Context: law on secularity and conspicuous religious symbols in schools, hijab, militant, Islamist, rebel-held_
+_Context: Islamist, militant, hijab, rebel-held, law on secularity and conspicuous religious symbols in schools_
 
 ##### Islamist
 ### [ In Iraq, the radical Islamist group, Army of Ansar al-Sunna, kill 12 Nepali civilians employed as cooks and cleaners, stating "We have carried out the sentence of God against 12 Nepalis who came from their country to fight the Muslims and to serve the Jews and the Christians&nbsp;... believing in Buddha as their God" ](/news/2004/08/31/in-iraq-the-radical-islamist-group-army-of-ansar-al-sunna-kill-12-nepali-civilians-employed-as-cooks-and-cleaners-stating-we-have-carr.md)
-_Context: Nepal, Gautama Buddha, God, Army of Ansar al-Sunna, Islamist_
+_Context: Army of Ansar al-Sunna, God, Gautama Buddha, Islamist, Nepal_
 
 ##### Pipeline
 ### [ Repeated attacks on pipelines linked to southern oil fields have significantly hampered oil exports from Iraq. ](/news/2004/08/31/repeated-attacks-on-pipelines-linked-to-southern-oil-fields-have-significantly-hampered-oil-exports-from-iraq.md)
-_Context: petroleum, oil field, pipeline, Iraq_
+_Context: Iraq, petroleum, oil field, pipeline_
 
 ##### Yugoslavia
 ### [ Former Yugoslav President Slobodan Milosevic, a University of Belgrade Faculty of Law graduate, opens his defence at the trial which accuses him of genocide, crimes against humanity and war crimes for his alleged role in the conflicts in which tens of thousands were killed. He maintains the charges are 'unscrupulous lies'. ](/news/2004/08/31/former-yugoslav-president-slobodan-miloa-evic-a-university-of-belgrade-faculty-of-law-graduate-opens-his-defence-at-the-trial-which-accus.md)
-_Context: crimes against humanity, Slobodan Milosevic, University of Belgrade Faculty of Law, genocide, Yugoslavia, war crimes_
+_Context: crimes against humanity, Yugoslavia, war crimes, University of Belgrade Faculty of Law, genocide, Slobodan Milosevic_
 
 ##### Palestinian
 ### [ Palestinian suicide bombers kill at least 16 Israelis and wound more than 91 others aboard two city buses in Beer Sheva, Israel in the first successful Palestinian suicide bombings since March 14, 2004, with Hamas claiming responsibility. ](/news/2004/08/31/palestinian-suicide-bombers-kill-at-least-16-israelis-and-wound-more-than-91-others-aboard-two-city-buses-in-beer-sheva-israel-in-the-firs.md)
-_Context: March 14, Beersheba, Palestinian, suicide bombers, Hamas, Israel_
+_Context: suicide bombers, Beersheba, Israel, Palestinian, Hamas, March 14_
 
 ##### Afghan
 ### [ Afghan police say a United States bombing raid killed at least six civilians in the eastern province of Kunar. ](/news/2004/08/31/afghan-police-say-a-united-states-bombing-raid-killed-at-least-six-civilians-in-the-eastern-province-of-kunar.md)
-_Context: police, Kunar Province, Afghan, civilian_
+_Context: Afghan, Kunar Province, civilian, police_
 
 ##### 2004 Atlantic hurricane season
 ### [ 2004 Atlantic hurricane season: Hurricane Frances affects the British Virgin Islands, the United States Virgin Islands and the northern-east part of Puerto Rico. ](/news/2004/08/31/2004-atlantic-hurricane-season-hurricane-frances-affects-the-british-virgin-islands-the-united-states-virgin-islands-and-the-northern-eas.md)
@@ -41,19 +41,19 @@ Follow the StarTribune for the news, photos and videos from the Twin Cities and 
 
 ##### California
 ### [ California Governor and former Hollywood star Arnold Schwarzenegger extols the United States as a greater source of good in the world than the UN: "If you believe this country, not the United Nations, is the best hope of democracy in the world, then you are a Republican", he shouts, at the Republican National Convention. ](/news/2004/08/31/california-governor-and-former-hollywood-star-arnold-schwarzenegger-extols-the-united-states-as-a-greater-source-of-good-in-the-world-than.md)
-_Context: Republican National Convention, democratic, Hollywood, Arnold Schwarzenegger, Republican, gubernatorial elections, United Nations, California_
+_Context: United Nations, Republican, California, democratic, gubernatorial elections, Arnold Schwarzenegger, Republican National Convention, Hollywood_
 
 ##### Betty Castor
 ### [ Following a dramatic intra-party campaign, Betty Castor and Mel Martinez win primary elections in Florida for the U.S. Senate election, 2004. The seat is the most heavily contested in the U.S. Congress, with over $30 million budgeted among twelve candidates' campaigns. ](/news/2004/08/31/following-a-dramatic-intra-party-campaign-betty-castor-and-mel-martinez-win-primary-elections-in-florida-for-the-u-s-senate-election-200.md)
-_Context: Congressman, Florida, U.S. Senate election, 2004, Mel Martinez, primary election, Betty Castor_
+_Context: U.S. Senate election, 2004, Mel Martinez, primary election, Betty Castor, Congressman, Florida_
 
 ##### Extrasolar planet
 ### [ The two smallest extrasolar planets ever discovered are announced: one orbiting 55 Cancri in the constellation Cancer, and another orbiting Gliese 436 in the constellation Leo. They are both around the size of Neptune. ](/news/2004/08/31/the-two-smallest-extrasolar-planets-ever-discovered-are-announced-one-orbiting-55-cancri-in-the-constellation-cancer-and-another-orbiting.md)
-_Context: 55 Cancri, extrasolar planet, Gliese 436, Neptune, Cancer, Leo_
+_Context: 55 Cancri, Gliese 436, Cancer, extrasolar planet, Neptune, Leo_
 
 ##### Cleveland Indians
 ### [ The Cleveland Indians baseball team beats the New York Yankees 22-0, the Yankees' worst loss in their 101-year history. ](/news/2004/08/31/the-cleveland-indians-baseball-team-beats-the-new-york-yankees-22a0-the-yankees-worst-loss-in-their-101-year-history.md)
-_Context: Cleveland Indians, New York Yankees_
+_Context: New York Yankees, Cleveland Indians_
 
 ## [Previous Day...](/news/2004/08/30/index.md)
 

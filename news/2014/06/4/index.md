@@ -9,7 +9,7 @@ Separatist rebels take Ukrainian military bases in the eastern region of Luhansk
 
 ##### Khalifa Haftar
 ### [A suicide car bomber detonates his vehicle at the residence of Khalifa Haftar in Benghazi, Libya, killing 4 of his guards and injuring another 3. ](/news/2014/06/4/a-suicide-car-bomber-detonates-his-vehicle-at-the-residence-of-khalifa-haftar-in-benghazi-libya-killing-4-of-his-guards-and-injuring-anoth.md)
-_Context: Libya, Benghazi, Khalifa Haftar_
+_Context: Libya, Khalifa Haftar, Benghazi_
 
 ##### Islamabad
 ### [A suicide bomber detonates his explosives near a military vehicle in Islamabad, Pakistan, killing 5 people. ](/news/2014/06/4/a-suicide-bomber-detonates-his-explosives-near-a-military-vehicle-in-islamabad-pakistan-killing-5-people.md)
@@ -35,9 +35,9 @@ Internet Brands Inc., the El Segundo owner of CarsDirect.com and other online bu
 ### [Mexico passes a law that increases the minimal sentence for kidnappers from 20 to 40, and the maximum from 50 to 140. ](/news/2014/06/4/mexico-passes-a-law-that-increases-the-minimal-sentence-for-kidnappers-from-20-to-40-and-the-maximum-from-50-to-140.md)
 _Context: Mexico passes a law, minimum sentence_
 
-##### China
+##### Chinese
 ### [Authorities in China crack down on dissidents on the 25th anniversary of the Tiananmen Square massacre. ](/news/2014/06/4/authorities-in-china-crack-down-on-dissidents-on-the-25th-anniversary-of-the-tiananmen-square-massacre.md)
-_Context: Tiananmen Square protests of 1989, China_
+_Context: Chinese, Tiananmen Square protests of 1989_
 
 ##### Giorgio Orsoni
 ### [35 people, including Giorgio Orsoni, the Mayor of Venice, are arrested in Italy on corruption charges in connection with the MOSE Project. ](/news/2014/06/4/35-people-including-giorgio-orsoni-the-mayor-of-venice-are-arrested-in-italy-on-corruption-charges-in-connection-with-the-mose-project.md)
@@ -45,11 +45,11 @@ The mayor of Venice is among 35 people arrested in Italy over alleged corruption
 
 ##### Attorney General of Germany
 ### [The Attorney General of Germany, Harald Range, opens an investigation into the alleged NSA surveillance of Chancellor Angela Merkel's phone. ](/news/2014/06/4/the-attorney-general-of-germany-harald-range-opens-an-investigation-into-the-alleged-nsa-surveillance-of-chancellor-angela-merkel-s-phone.md)
-_Context: surveillance of Chancellor Angela Merkel's phone, Harald Range, NSA, Attorney General of Germany_
+_Context: Attorney General of Germany, surveillance of Chancellor Angela Merkel's phone, NSA, Harald Range_
 
 ##### International Court of Arbitration
 ### [The International Court of Arbitration in The Hague urges China to respond to "Philippines v. China", the case filed by the Philippines regarding the Nine-dotted line. ](/news/2014/06/4/the-international-court-of-arbitration-in-the-hague-urges-china-to-respond-to-philippines-v-china-the-case-filed-by-the-philippines-rega.md)
-_Context: sweeping claim, The Hague, International Court of Arbitration, China, court decision, Philippines_
+_Context: International Court of Arbitration, Chinese, sweeping claim, The Hague, court decision, Philippines_
 
 ##### Moncton
 ### [In the city of Moncton, New Brunswick, Canada, an armed gunman shoots five RCMP officers, killing three. ](/news/2014/06/4/in-the-city-of-moncton-new-brunswick-canada-an-armed-gunman-shoots-five-rcmp-officers-killing-three.md)

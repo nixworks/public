@@ -21,7 +21,7 @@ Whitney Houston was unconscious and underwater in a bath when found on Saturday 
 
 ##### David Kelly
 ### [David Kelly, the "grand old man of Irish acting", dies in Dublin. ](/news/2012/02/13/david-kelly-the-grand-old-man-of-irish-acting-dies-in-dublin.md)
-_Context: David Kelly, Dublin_
+_Context: Dublin, David Kelly_
 
 ##### ITV1
 ### [The UK broadcaster ITV1 screens the first ever British advert aimed specifically at dogs. The 60-second commercial for the Bakers dog food brand features high-pitched sounds that cannot be heard by humans, and is a send up of the 1969 film "The Italian Job". ](/news/2012/02/13/the-uk-broadcaster-itv1-screens-the-first-ever-british-advert-aimed-specifically-at-dogs-the-60-second-commercial-for-the-bakers-dog-food-b.md)
@@ -37,7 +37,7 @@ _Context: Australia and New Zealand Banking Group, Australia_
 
 ##### Japan
 ### [Japan suffers negative economic growth for the fourth quarter of 2011 making it three out of four quarters that the Japanese economy shrinks. ](/news/2012/02/13/japan-suffers-negative-economic-growth-for-the-fourth-quarter-of-2011-making-it-three-out-of-four-quarters-that-the-japanese-economy-shrinks.md)
-_Context: Economy of Japan, Japan, economic growth_
+_Context: Japan, economic growth, Economy of Japan_
 
 ##### Rangers F.C.
 ### [Rangers F.C. announces an intent to enter administration. ](/news/2012/02/13/rangers-f-c-announces-an-intent-to-enter-administration.md)
@@ -45,7 +45,7 @@ Rangers Football Club lodges legal papers signalling its intention to go into ad
 
 ##### European Union
 ### [The European Union and United States approve Google's $12.5 billion acquisition of smartphone maker Motorola. ](/news/2012/02/13/the-european-union-and-united-states-approve-google-s-12-5-billion-acquisition-of-smartphone-maker-motorola.md)
-_Context: Motorola Mobility, smartphone, European Union, United States, Google_
+_Context: Motorola Mobility, European Union, smartphone, Google, United States_
 
 ##### Moody's Investors Service
 ### [Moody's Investors Service downgrades the credit ratings of several European Union members including Italy, Malta, Portugal, Slovakia, Slovenia and Spain and issues a negative outlook for the ratings of Austria, France and the United Kingdom. ](/news/2012/02/13/moody-s-investors-service-downgrades-the-credit-ratings-of-several-european-union-members-including-italy-malta-portugal-slovakia-sloven.md)
@@ -57,27 +57,27 @@ _Context: Northern California, United States Geological Survey, magnitude, Weitc
 
 ##### Azerbaijan
 ### [Azerbaijan rejects a claim by Iran that it has been helping Israeli spies in the killing of an Iranian nuclear scientist. ](/news/2012/02/13/azerbaijan-rejects-a-claim-by-iran-that-it-has-been-helping-israeli-spies-in-the-killing-of-an-iranian-nuclear-scientist.md)
-_Context: Azerbaijan, Israel, Iran_
+_Context: Iran, Azerbaijan, Israel_
 
 ##### Prime Minister
 ### [The Prime Minister of Pakistan Yousuf Raza Gilani appears before the Supreme Court of Pakistan to face contempt of court charges. ](/news/2012/02/13/the-prime-minister-of-pakistan-yousuf-raza-gilani-appears-before-the-supreme-court-of-pakistan-to-face-contempt-of-court-charges.md)
-_Context: Yousuf Raza Gilani, Prime Minister, Supreme Court, contempt of court_
+_Context: Yousuf Raza Gilani, Supreme Court, contempt of court, Prime Minister_
 
 ##### Abu Qatada
 ### [Abu Qatada, accused of being one of the United Kingdom's most dangerous preachers of Islamic extremism, is released from prison following a ruling from the European Court of Human Rights last week. ](/news/2012/02/13/abu-qatada-accused-of-being-one-of-the-united-kingdom-s-most-dangerous-preachers-of-islamic-extremism-is-released-from-prison-following-a.md)
-_Context: Islamic extremist group, United Kingdom, Abu Qatada, European Court of Human Rights_
+_Context: Islamic extremist group, United Kingdom, European Court of Human Rights, Abu Qatada_
 
 ##### Turkmenistan
 ### [The president of Turkmenistan, Gurbanguli Berdymukhamedov, wins a new five-year term with 97% of the vote, according to election officials. ](/news/2012/02/13/the-president-of-turkmenistan-gurbanguli-berdymukhamedov-wins-a-new-five-year-term-with-97-of-the-vote-according-to-election-officials.md)
-_Context: Gurbanguli Berdymukhamedov, Turkmenistan, wins a new five-year term_
+_Context: Turkmenistan, Gurbanguli Berdymukhamedov, wins a new five-year term_
 
-##### Washington
+##### Washington State
 ### [Washington governor Christine Gregoire signs a bill into law that legalizes same-sex marriage in the state. ](/news/2012/02/13/washington-governor-christine-gregoire-signs-a-bill-into-law-that-legalizes-same-sex-marriage-in-the-state.md)
 Governor Christine Gregoire signed legislation on Monday to make Washington state the seventh in the United States to legalize gay marriage, but opponents vowed to try to prevent the law from taking effect.
 
 ##### New Jersey
 ### [The New Jersey state Senate passes a bill to legalize marriage for same-sex couples by a vote of 24-16. ](/news/2012/02/13/the-new-jersey-state-senate-passes-a-bill-to-legalize-marriage-for-same-sex-couples-by-a-vote-of-24-16.md)
-_Context: New Jersey, allow_
+_Context: allow, New Jersey_
 
 ##### European Space Agency
 ### [The first launch of a new ESA carrier rocket Vega takes place from the Guiana Space Centre. ](/news/2012/02/13/the-first-launch-of-a-new-esa-carrier-rocket-vega-takes-place-from-the-guiana-space-centre.md)

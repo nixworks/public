@@ -19,7 +19,7 @@ More than 50 people have been killed in demonstrations in the southern Yemeni ci
 ### [Tens of thousands of "los indignados", young and old, continue to camp against cuts in city center squares as Greeks gather and Parisians protest in solidarity with their Spanish counterparts. ](/news/2011/05/31/tens-of-thousands-of-los-indignados-young-and-old-continue-to-camp-against-cuts-in-city-center-squares-as-greeks-gather-and-parisians-pr.md)
 ##### Pakistan Air Force
 ### [The Pakistan Air Force kills seventeen militants in a bombing raid on the upper Orakzai Agency. ](/news/2011/05/31/the-pakistan-air-force-kills-seventeen-militants-in-a-bombing-raid-on-the-upper-orakzai-agency.md)
-_Context: Pakistan Air Force, Orakzai Tribal Area_
+_Context: Orakzai Tribal Area, Pakistan Air Force_
 
 ##### 
 ### [British officials confirm the government is working on cyber weapons, the first time it has been officially acknowledged that such a programme exists. ](/news/2011/05/31/british-officials-confirm-the-government-is-working-on-cyber-weapons-the-first-time-it-has-been-officially-acknowledged-that-such-a-program.md)
@@ -29,11 +29,11 @@ _Context: Tiananmen Square protests of 1989_
 
 ##### Cameroon
 ### [Riot police in Cameroon arrest and disperse hundreds of farmers protesting in the capital Yaounde over poor road conditions and low state support for agriculture. ](/news/2011/05/31/riot-police-in-cameroon-arrest-and-disperse-hundreds-of-farmers-protesting-in-the-capital-yaounde-over-poor-road-conditions-and-low-state-su.md)
-_Context: Yaounde, Cameroon, agriculture_
+_Context: Cameroon, Yaounde, agriculture_
 
 ##### J. R. R. Tolkien
 ### [The titles and release dates of the two films based on J. R. R. Tolkien's "The Hobbit" are announced. ](/news/2011/05/31/the-titles-and-release-dates-of-the-two-films-based-on-j-r-r-tolkien-s-the-hobbit-are-announced.md)
-_Context: The Hobbit, J. R. R. Tolkien_
+_Context: J. R. R. Tolkien, The Hobbit_
 
 ##### Economy of Japan
 ### [Japan's unemployment rate rises to 4.7% and average wages drop for the second consecutive month. ](/news/2011/05/31/japan-s-unemployment-rate-rises-to-4-7-and-average-wages-drop-for-the-second-consecutive-month.md)
@@ -57,7 +57,7 @@ Sony plans to restore all its PlayStation Network services by this weekend in al
 
 ##### Apple Inc
 ### [Apple Inc announces plans to introduce a digital locker music service called iCloud with negotiations well advanced with major label record companies for rights. ](/news/2011/05/31/apple-inc-announces-plans-to-introduce-a-digital-locker-music-service-called-icloud-with-negotiations-well-advanced-with-major-label-record.md)
-_Context: Apple Inc, major label, digital locker, iCloud_
+_Context: digital locker, major label, Apple Inc, iCloud_
 
 ##### Assam
 ### [27 people are killed after their bus plunges into a gorge in Assam, eastern India. ](/news/2011/05/31/27-people-are-killed-after-their-bus-plunges-into-a-gorge-in-assam-eastern-india.md)
@@ -83,7 +83,7 @@ _Context: Minot, Souris River_
 
 ##### 2011 Joplin tornado
 ### [The names of 123 victims of the tornado that hit the US city of Joplin, Missouri are released. ](/news/2011/05/31/the-names-of-123-victims-of-the-tornado-that-hit-the-us-city-of-joplin-missouri-are-released.md)
-_Context: Missouri, 2011 Joplin tornado, Joplin_
+_Context: Joplin, Missouri, 2011 Joplin tornado_
 
 ##### Peru
 ### [At least 20 people die after a bus plunges off a cliff in the Peruvian Andes. ](/news/2011/05/31/at-least-20-people-die-after-a-bus-plunges-off-a-cliff-in-the-peruvian-andes.md)
@@ -111,7 +111,7 @@ The two sides have agreed to a preliminary arrangement on demilitarizing the bor
 
 ##### Bolivia
 ### [Bolivia takes steps to ensure that Ahmad Vahidi, the Iranian Minister of Defence, leaves the country as soon as possible following a complaint from Argentina who believed that he was responsible for the 1994 bombing of a Jewish Community City in Buenos Aires. ](/news/2011/05/31/bolivia-takes-steps-to-ensure-that-ahmad-vahidi-the-iranian-minister-of-defence-leaves-the-country-as-soon-as-possible-following-a-complai.md)
-_Context: Minister of Defence, Bolivia, Iran, Ahmad Vahidi, Argentina, 1994 bombing of a Jewish Community City, Buenos Aires_
+_Context: Argentina, Ahmad Vahidi, Bolivia, Iran, Minister of Defence, Buenos Aires, 1994 bombing of a Jewish Community City_
 
 ##### Rustam Makhmudov
 ### [Rustam Makhmudov, suspected of the 2006 shooting of Russian journalist Anna Politkovskaya, is arrested overnight at the home of his parents in Chechnya. ](/news/2011/05/31/rustam-makhmudov-suspected-of-the-2006-shooting-of-russian-journalist-anna-politkovskaya-is-arrested-overnight-at-the-home-of-his-parents.md)
@@ -119,7 +119,7 @@ The man suspected of shooting Russian journalist Anna Politkovskaya in 2006 is a
 
 ##### Serbia
 ### [Serbia's war crimes court rejects an appeal from former Bosnian Serb Colonel General Ratko Mladic against a transfer to a United Nations tribunal in The Hague to face genocide charges. ](/news/2011/05/31/serbia-s-war-crimes-court-rejects-an-appeal-from-former-bosnian-serb-colonel-general-ratko-mladia-against-a-transfer-to-a-united-nations-tr.md)
-_Context: genocide, The Hague, Colonel General, Serbia, United Nations, Ratko Mladic, Bosnian Serb_
+_Context: Colonel General, Bosnian Serb, genocide, The Hague, United Nations, Serbia, Ratko Mladic_
 
 ##### Extradition
 ### [A Spanish court approves the extradition of former Guatemalan Interior Minister Carlos Vielmann to face murder charges in connection with a 2006 uprising at the Pavon prison in Guatemala where seven inmates were killed. ](/news/2011/05/31/a-spanish-court-approves-the-extradition-of-former-guatemalan-interior-minister-carlos-vielmann-to-face-murder-charges-in-connection-with-a.md)
@@ -139,7 +139,7 @@ The Dalai Lama has formally relinquished his political and administrative powers
 
 ##### Adil Abdul-Mahdi
 ### [Adil Abdul-Mahdi, First Vice President of Iraq, resigns after Prime Minister Nouri Al-Maliki fends off critics who say he has not delivered on power-sharing promises. ](/news/2011/05/31/adil-abdul-mahdi-first-vice-president-of-iraq-resigns-after-prime-minister-nouri-al-maliki-fends-off-critics-who-say-he-has-not-delivered.md)
-_Context: Iraq Prime Minister, Nouri Al-Maliki, Vice President, Adil Abdul-Mahdi_
+_Context: Iraq Prime Minister, Vice President, Nouri Al-Maliki, Adil Abdul-Mahdi_
 
 ##### Irish Independent
 ### [The "Irish Independent" and "The Belfast Telegraph" begin a week-long joint publication of the Ireland Cables, the latest batch of U.S. diplomatic cables, in co-operation with WikiLeaks and Julian Assange. The cables, dating back more than 25 years, feature government members, diplomats, alleged terrorists, oil companies and Vatican insiders. ](/news/2011/05/31/the-irish-independent-and-the-belfast-telegraph-begin-a-week-long-joint-publication-of-the-ireland-cables-the-latest-batch-of-u-s-dipl.md)

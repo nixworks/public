@@ -15,13 +15,13 @@ Airstrikes were conducted in southern Syria, where Russian aircraft have &quot;n
 ### [Flooding in southern Ghana caused by heavy rain leaves at least 10 people dead and the streets of Accra under water. ](/news/2016/06/16/flooding-in-southern-ghana-caused-by-heavy-rain-leaves-at-least-10-people-dead-and-the-streets-of-accra-under-water.md)
 Deadly downpours cause widespread flooding along the Cape Coast as the West African wet season intensifies.
 
-##### China
+##### Chinese
 ### [China cancels an invitation to a Taiwanese children's choir after it performed the island's national anthem at last month's inauguration of President Tsai Ing-wen; the Puzangalan Choir consisting of children from the Paiwan aboriginal tribe had been due to take part in a choral festival in Guangdong province in July. ](/news/2016/06/16/china-cancels-an-invitation-to-a-taiwanese-children-s-choir-after-it-performed-the-island-s-national-anthem-at-last-month-s-inauguration-of.md)
 Organizers of an event in Guangdong Province canceled the invitation to the Puzangalan Choir after a performance at the presidential inauguration in Taiwan in May.
 
 ##### Violence at UEFA Euro 2016
 ### [France deports twenty Russian football fans including Alexander Shprygin, the leader of the All-Russia Supporters Union, following violence at the England-Russia match in Marseille. ](/news/2016/06/16/france-deports-twenty-russian-football-fans-including-alexander-shprygin-the-leader-of-the-all-russia-supporters-union-following-violence.md)
-_Context: Violence at UEFA Euro 2016, England, Russian, France, Russia, Marseille_
+_Context: Russia, Marseille, Russian, Violence at UEFA Euro 2016, France, England_
 
 ##### Switzerland-European Union relations
 ### [Switzerland's Federal Assembly votes to officially withdraw the country's application to join the European Union. Following the vote, foreign minister Didier Burkhalter was quoted as saying that the government will now tell the EU to "consider the application as withdrawn". ](/news/2016/06/16/switzerland-s-federal-assembly-votes-to-officially-withdraw-the-country-s-application-to-join-the-european-union-following-the-vote-foreig.md)
@@ -57,7 +57,7 @@ An agreement was apparently reached to allow votes on whether to ban people on a
 
 ##### Philadelphia
 ### [The Philadelphia, Pennsylvania, City Council approves a 1.5-cent-per-ounce tax on sugar-sweetened and diet beverages, effective January 1, 2017. This is the first so-called sugary drinks tax in a major U.S. city. ](/news/2016/06/16/the-philadelphia-pennsylvania-city-council-approves-a-1-5-cent-per-ounce-tax-on-sugar-sweetened-and-diet-beverages-effective-january-1-2.md)
-_Context: City Council, sugar-sweetened and diet beverages, sugary drinks tax, Pennsylvania, United States, Philadelphia_
+_Context: Pennsylvania, sugar-sweetened and diet beverages, City Council, United States, sugary drinks tax, Philadelphia_
 
 ## [Previous Day...](/news/2016/06/15/index.md)
 

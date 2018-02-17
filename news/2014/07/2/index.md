@@ -13,11 +13,11 @@ The rumors of the murder of 17-year-old Muhammad Abu Khdeir passed among many re
 
 ##### Roche Holding AG
 ### [Roche Holding AG says that its US-based Genentech subsidiary will purchase American biotechnology company Seragon Pharmaceuticals, Inc for up to $1.725 billion in cash and contingency payments. ](/news/2014/07/2/roche-holding-ag-says-that-its-us-based-genentech-subsidiary-will-purchase-american-biotechnology-company-seragon-pharmaceuticals-inc-for-u.md)
-_Context: Genentech Inc., biotechnology, Roche Holding AG_
+_Context: biotechnology, Roche Holding AG, Genentech Inc._
 
 ##### 2014 Atlantic hurricane season
 ### [Tropical Storm Arthur heads towards the US coast with a hurricane warning in place for the state of North Carolina. A mandatory evacuation is ordered for Hatteras Island in the Outer Banks. ](/news/2014/07/2/tropical-storm-arthur-heads-towards-the-us-coast-with-a-hurricane-warning-in-place-for-the-state-of-north-carolina-a-mandatory-evacuation-i.md)
-_Context: Outer Banks, Hatteras Island, Arthur, 2014 Atlantic hurricane season, North Carolina_
+_Context: Hatteras Island, Outer Banks, Arthur, 2014 Atlantic hurricane season, North Carolina_
 
 ##### Manitoba
 ### [Widespread flooding in the Canadian provinces of Manitoba and Saskatchewan leads to the declaration of states of emergencies in 87 municipalities. ](/news/2014/07/2/widespread-flooding-in-the-canadian-provinces-of-manitoba-and-saskatchewan-leads-to-the-declaration-of-states-of-emergencies-in-87-municipal.md)
@@ -53,7 +53,7 @@ _Context: chemical weapons, Gioia Tauro_
 
 ##### French President
 ### [Former President of France Nicolas Sarkozy is charged with corruption and influence peddling. ](/news/2014/07/2/former-president-of-france-nicolas-sarkozy-is-charged-with-corruption-and-influence-peddling.md)
-_Context: French President, Nicolas Sarkozy_
+_Context: Nicolas Sarkozy, French President_
 
 ##### Viviane Reding
 ### [Luxembourg's Viviane Reding, Finland's Olli Rehn, Italy's Antonio Tajani and Poland's Janusz Lewandowski step down as EU commissioners in order to take office as newly elected members of the European Parliament. ](/news/2014/07/2/luxembourg-s-viviane-reding-finland-s-olli-rehn-italy-s-antonio-tajani-and-poland-s-janusz-lewandowski-step-down-as-eu-commissioners-in-or.md)

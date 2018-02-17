@@ -5,23 +5,23 @@ Formats: [HTML](2007/04/23/index.html)  [JSON](2007/04/23/index.json)  [XML](200
 
 ##### Russia
 ### [ Former Russian President Boris Yeltsin dies at the age of 76. ](/news/2007/04/23/former-russian-president-boris-yeltsin-dies-at-the-age-of-76.md)
-_Context: President, Russia, Boris Yeltsin_
+_Context: Boris Yeltsin, Russia, President_
 
 ##### Iraq Prime Minister
 ### [ Prime Minister Nouri Maliki calls for construction to be halted on the three-mile wall being built by the United States military around the predominantly Sunni district of Adhamiyah, Baghdad. Thousands of Iraqis also protest the wall. ](/news/2007/04/23/prime-minister-nouri-maliki-calls-for-construction-to-be-halted-on-the-three-mile-wall-being-built-by-the-united-states-military-around-the.md)
-_Context: Adhamiyah, Baghdad, three-mile wall, Nouri Maliki, Iraq Prime Minister, Sunni, United States military, protest, Iraq_
+_Context: Iraq, protest, Baghdad, Adhamiyah, three-mile wall, Nouri Maliki, Sunni, United States military, Iraq Prime Minister_
 
 ##### Bali Nine
 ### [ Three of the six members of the Bali Nine &ndash; Tan Duc Thanh Nguyen, Si Yi Chen and Matthew Norman &ndash; who were sentenced to death have launched a judicial review appeal with Denpasar's District Court. ](/news/2007/04/23/three-of-the-six-members-of-the-bali-nine-ndash-tan-duc-thanh-nguyen-si-yi-chen-and-matthew-norman-ndash-who-were-sentenced-to-death-h.md)
-_Context: Denpasar, Si Yi Chen, Bali Nine, Tan Duc Thanh Nguyen, judicial review, Matthew Norman_
+_Context: Tan Duc Thanh Nguyen, Matthew Norman, Si Yi Chen, judicial review, Denpasar, Bali Nine_
 
 ##### Barclays plc
 ### [ Barclays plc agrees to buy ABN Amro in a EUR67 billion deal. ](/news/2007/04/23/barclays-plc-agrees-to-buy-abn-amro-in-a-a-67-billion-deal.md)
-_Context: ABN Amro, euro, Barclays plc_
+_Context: ABN Amro, Barclays plc, euro_
 
 ##### Umaru Yar'Adua
 ### [ Umaru Yar'Adua is declared the winner of Nigeria's presidential election that EU observers said "cannot be considered to have been credible." ](/news/2007/04/23/umaru-yar-adua-is-declared-the-winner-of-nigeria-s-presidential-election-that-eu-observers-said-cannot-be-considered-to-have-been-credible.md)
-_Context: European Union, presidential election, Nigeria, Umaru Yar'Adua_
+_Context: European Union, presidential election, Umaru Yar'Adua, Nigeria_
 
 ##### NASA
 ### [ NASA releases the first 3D images of the Sun acquired by the STEREO spacecraft. ](/news/2007/04/23/nasa-releases-the-first-3d-images-of-the-sun-acquired-by-the-stereo-spacecraft.md)

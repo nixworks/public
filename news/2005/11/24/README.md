@@ -5,19 +5,19 @@ Formats: [HTML](2005/11/24/index.html)  [JSON](2005/11/24/index.json)  [XML](200
 
 ##### Khabarovsk
 ### [ The city of Khabarovsk in Far Eastern Russia declares a state of emergency as the 80 km benzene slick released by an explosion in a Chinese chemical plant on 13 November, which has already caused water supplies for 4 million inhabitants of the Chinese city of Harbin to be suspended, approaches the Amur river which is the main water source for 1.5 million people in Russia. ](/news/2005/11/24/the-city-of-khabarovsk-in-far-eastern-russia-declares-a-state-of-emergency-as-the-80-km-benzene-slick-released-by-an-explosion-in-a-chinese.md)
-_Context: Khabarovsk, Chinese, benzene, Harbin, Amur river, Russia_
+_Context: Harbin, Chinese, Khabarovsk, benzene, Russia, Amur river_
 
 ##### Suicide bomb
 ### [ 15 people die after a suicide bomb attack in Hilla. ](/news/2005/11/24/15-people-die-after-a-suicide-bomb-attack-in-hilla.md)
-_Context: Hilla, suicide bomb_
+_Context: suicide bomb, Hilla_
 
 ##### Canadian federal election, 2006
 ### [ Canadian federal election, 2006: Opposition leader Stephen Harper introduces a motion of no confidence in the Canadian House of Commons. With the support of all opposition parties, it is expected to pass on Monday, toppling Prime Minister Paul Martin's minority Liberals and forcing a campaign spanning the holiday season. ](/news/2005/11/24/canadian-federal-election-2006-opposition-leader-stephen-harper-introduces-a-motion-of-no-confidence-in-the-canadian-house-of-commons-wi.md)
-_Context: Paul Martin, Canadian House of Commons, Leader of the Opposition, Stephen Harper, minority government, Liberal Party's, Prime Minister of Canada, motion of no confidence, opposition parties, Canadian federal election, 2006_
+_Context: opposition parties, Stephen Harper, Canadian federal election, 2006, Prime Minister of Canada, minority government, motion of no confidence, Leader of the Opposition, Liberal Party's, Paul Martin, Canadian House of Commons_
 
 ##### Media
 ### [ There are further calls in the media and Parliament of the United Kingdom for Prime Minister Tony Blair to publish a full account of his discussions with US President Bush on the bombing of Al Jazeera TV station headquarters in Doha. A memo on the conversation has been partly leaked to the "Daily Mirror" newspaper, before the Official Secrets Act was invoked. ](/news/2005/11/24/there-are-further-calls-in-the-media-and-parliament-of-the-united-kingdom-for-prime-minister-tony-blair-to-publish-a-full-account-of-his-di.md)
-_Context: Doha, George W. Bush, Al Jazeera, media, Daily Mirror, British House of Commons, United Kingdom, Tony Blair_
+_Context: British House of Commons, United Kingdom, George W. Bush, Doha, Al Jazeera, Daily Mirror, Tony Blair, media_
 
 ## [Previous Day...](/news/2005/11/23/index.md)
 

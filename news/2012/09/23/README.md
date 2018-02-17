@@ -29,7 +29,7 @@ Iran plans to switch its citizens onto a domestic Internet network in what offic
 
 ##### United States of America
 ### [Citing nuclear sanctions, the United States of America deny visas to 20 out of 160 Iranian officials, of which two are ministers, impeaching diplomats' attendance at next week's United Nations General Assembly meeting in New York. ](/news/2012/09/23/citing-nuclear-sanctions-the-united-states-of-america-deny-visas-to-20-out-of-160-iranian-officials-of-which-two-are-ministers-impeaching.md)
-_Context: New York City, Iran, visa-free travel, United Nations General Assembly, United States of America_
+_Context: Iran, New York City, United States of America, United Nations General Assembly, visa-free travel_
 
 ##### Libya
 ### [Libya dissolves all armed groups and militia not under the authority of the state. ](/news/2012/09/23/libya-dissolves-all-armed-groups-and-militia-not-under-the-authority-of-the-state.md)
@@ -37,15 +37,15 @@ Two groups in eastern city of Derna announce they will lay down arms, as Tripoli
 
 ##### Italy
 ### [Police in Italy arrest a man at Turin Caselle Airport on charges of impersonating a pilot. ](/news/2012/09/23/police-in-italy-arrest-a-man-at-turin-caselle-airport-on-charges-of-impersonating-a-pilot.md)
-_Context: pilot, Turin Caselle Airport, Italy_
+_Context: Italy, pilot, Turin Caselle Airport_
 
 ##### Parliamentary elections
 ### [Parliamentary elections are held in Belarus. The opposition sees the vote as undemocratic and boycotts it. ](/news/2012/09/23/parliamentary-elections-are-held-in-belarus-the-opposition-sees-the-vote-as-undemocratic-and-boycotts-it.md)
-_Context: parliamentary elections, Belarus_
+_Context: Belarus, parliamentary elections_
 
 ##### Syria
 ### [A conference to "rescue Syria" is held in Damascus by the National Coordination Body and around 20 other parties. Twenty eight parties, which are also opposed to the militarization of the conflict, have not participated. The conference calls for a ceasefire and a peaceful political transition to succeed the Assad regime. The armed opposition considers the position as "too lenient on the dictator". ](/news/2012/09/23/a-conference-to-rescue-syria-is-held-in-damascus-by-the-national-coordination-body-and-around-20-other-parties-twenty-eight-parties-whic.md)
-_Context: Damascus, Syria, Bashar al-Assad, National Coordination Body_
+_Context: Bashar al-Assad, National Coordination Body, Syria, Damascus_
 
 ##### Breast cancer
 ### [Researchers find that there are four genetically distinct types of breast cancer. ](/news/2012/09/23/researchers-find-that-there-are-four-genetically-distinct-types-of-breast-cancer.md)

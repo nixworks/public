@@ -21,7 +21,7 @@ _Context: northern China, Beijing_
 
 ##### Poland
 ### [Polish protesters block the parliament in order to prevent the possibility of legalizing restrictions on press freedom. ](/news/2016/12/19/polish-protesters-block-the-parliament-in-order-to-prevent-the-possibility-of-legalizing-restrictions-on-press-freedom.md)
-_Context: Poland's parliament, press freedom, Poland_
+_Context: Poland, press freedom, Poland's parliament_
 
 ##### Paris
 ### [A court in Paris finds International Monetary Fund Managing Director Christine Lagarde guilty of negligence in a 404 million euro "misuse of public funds" case. The court ruled that Lagarde won't be fined, won't serve any jail time, or receive a criminal record. The IMF Executive Board "looks forward to continuing to work with" her. ](/news/2016/12/19/a-court-in-paris-finds-international-monetary-fund-managing-director-christine-lagarde-guilty-of-negligence-in-a-404-million-euro-misuse-of.md)
@@ -31,13 +31,13 @@ With the International Monetary Fund facing populist criticism and at a critical
 ### [Three people are shot by a gunman at an Islamic centre near the Zurich Hauptbahnhof train station. A manhunt was conducted for the assailant, a 24-year-old Swiss citizen of Ghanian descent, whose body was found close to the Islamic centre. ](/news/2016/12/19/three-people-are-shot-by-a-gunman-at-an-islamic-centre-near-the-za1-4rich-hauptbahnhof-train-station-a-manhunt-was-conducted-for-the-assailan.md)
  A man stormed into a Zurich mosque on Monday evening and opened fire on people praying, injuring three, Swiss police said.
 
-##### 2016 U.S. presidential election
+##### 2016 U.S. election
 ### [Amidst a concerted effort to persuade electors to choose another candidate, Donald Trump earns the required Electoral College votes to be selected as the next President of the United States. ](/news/2016/12/19/amidst-a-concerted-effort-to-persuade-electors-to-choose-another-candidate-donald-trump-earns-the-required-electoral-college-votes-to-be-se.md)
 Electors across the country met on Monday and officially gave Mr. Trump a majority of votes, ending a long-shot bid to block his victory.
 
 ##### ALPHA
 ### [ALPHA, a CERN experiment, has observed for the first time the spectrum of antihydrogen. ](/news/2016/12/19/alpha-a-cern-experiment-has-observed-for-the-first-time-the-spectrum-of-antihydrogen.md)
-_Context: CERN, antihydrogen, ALPHA, spectrum_
+_Context: spectrum, antihydrogen, CERN, ALPHA_
 
 ## [Previous Day...](/news/2016/12/18/index.md)
 

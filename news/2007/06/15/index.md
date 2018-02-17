@@ -13,7 +13,7 @@ The district attorney who prosecuted three Duke University lacrosse players accu
 
 ##### Switzerland
 ### [ Switzerland opens the world's longest rail tunnel on land, the 34-kilometre Ltschberg tunnel under the Alps. ](/news/2007/06/15/switzerland-opens-the-world-s-longest-rail-tunnel-on-land-the-34-kilometre-lotschberg-tunnel-under-the-alps.md)
-_Context: Ltschberg tunnel, Alps, tunnel, Switzerland_
+_Context: tunnel, Alps, Ltschberg tunnel, Switzerland_
 
 ##### UK
 ### [ In the UK, seven members of Dhiren Barot's al Qaeda cell are sentenced to a total of 136 years in prison. ](/news/2007/06/15/in-the-uk-seven-members-of-dhiren-barot-s-al-qaeda-cell-are-sentenced-to-a-total-of-136-years-in-prison.md)
@@ -33,7 +33,7 @@ U.S. Defense Secretary Robert Gates met Iraqi leaders on Saturday to tell them W
 
 ##### Strike
 ### [ Two oil and transport unions begin a strike in Nigeria over an increase in fuel duty and a doubling of sales tax. ](/news/2007/06/15/two-oil-and-transport-unions-begin-a-strike-in-nigeria-over-an-increase-in-fuel-duty-and-a-doubling-of-sales-tax.md)
-_Context: Nigeria, sales tax, strike, fuel duty_
+_Context: strike, Nigeria, fuel duty, sales tax_
 
 ## [Previous Day...](/news/2007/06/14/index.md)
 

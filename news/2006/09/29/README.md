@@ -9,7 +9,7 @@ New images from a low-altitude Mars satellite are giving scientists some of thei
 
 ##### Eric Hainstock
 ### [ A high school principal is shot to death by 15-year-old Eric Hainstock. Principal John Klang of Weston High School in Cazenovia, Wisconsin is shot three times by Hainstock with a gun which he stole from his family home. A custodian and others confront the student who is now in police custody. ](/news/2006/09/29/a-high-school-principal-is-shot-to-death-by-15-year-old-eric-hainstock-principal-john-klang-of-weston-high-school-in-cazenovia-wisconsin.md)
-_Context: Weston High School, Wisconsin, Cazenovia, Eric Hainstock_
+_Context: Cazenovia, Eric Hainstock, Weston High School, Wisconsin_
 
 ##### Gol Transportes Areos
 ### [ Gol Transportes Areos Flight 1907 with 155 passengers onboard collides with a smaller jet in midair, 470 miles south of Manaus, Brazil. The Boeing 737-800 wreckage has been found by FAB near Peixoto de Azevedo ](/news/2006/09/29/gol-transportes-aereos-flight-1907-with-155-passengers-onboard-collides-with-a-smaller-jet-in-midair-470-miles-south-of-manaus-brazil-th.md)
@@ -17,19 +17,19 @@ Prosecutors could charge two American pilots of an executive jet with manslaught
 
 ##### Al Qaeda
 ### [ A tape of senior Al Qaeda figure Ayman al-Zawahiri is released in which he brands US President George W. Bush a "lying failure" over the war on terror. He goes on to condemn Pope Benedict XVI as an "impostor" for his recent controversial speech and labels Roman Catholicism a religion "made of myths". ](/news/2006/09/29/a-tape-of-senior-al-qaeda-figure-ayman-al-zawahiri-is-released-in-which-he-brands-us-president-george-w-bush-a-lying-failure-over-the-wa.md)
-_Context: controversial speech, Roman Catholic Church, Ayman al-Zawahiri, war on terror, Al Qaeda, George W. Bush, Pope Benedict XVI, U.S. President_
+_Context: U.S. President, controversial speech, Roman Catholic Church, Ayman al-Zawahiri, Al Qaeda, Pope Benedict XVI, war on terror, George W. Bush_
 
 ##### Mark Foley
 ### [ Rep. Mark Foley, R-Fla., resigns from the United States House of Representatives in the wake of questions about e-mails and instant messages he wrote to a former Capitol page. ](/news/2006/09/29/rep-mark-foley-r-fla-resigns-from-the-united-states-house-of-representatives-in-the-wake-of-questions-about-e-mails-and-instant-message.md)
-_Context: e-mail, United States House of Representatives, Florida, Mark Foley, page, Republican_
+_Context: page, United States House of Representatives, e-mail, Mark Foley, Florida, Republican_
 
 ##### Soyuz TMA-8
 ### [ Soyuz TMA-8, with the Expedition 13 crew and Iranian-American space tourist Anousheh Ansari on board, lands safely on the Kazakh steppe. ](/news/2006/09/29/soyuz-tma-8-with-the-expedition-13-crew-and-iranian-american-space-tourist-anousheh-ansari-on-board-lands-safely-on-the-kazakh-steppe.md)
-_Context: Anousheh Ansari, Soyuz TMA-8, Kazakhstan, Iranian-American, steppe, space tourist, Expedition 13_
+_Context: steppe, space tourist, Anousheh Ansari, Kazakhstan, Iranian-American, Soyuz TMA-8, Expedition 13_
 
 ##### Typhoon Xangsane
 ### [ Typhoon Xangsane lashes the northern Philippines, killing at least 48 people and causing extensive damage. ](/news/2006/09/29/typhoon-xangsane-lashes-the-northern-philippines-killing-at-least-48-people-and-causing-extensive-damage.md)
-_Context: Typhoon Xangsane, Philippines_
+_Context: Philippines, Typhoon Xangsane_
 
 ##### Lenovo
 ### [ Lenovo recalls 526,000 Sony laptop batteries due to fire risk. ](/news/2006/09/29/lenovo-recalls-526-000-sony-laptop-batteries-due-to-fire-risk.md)

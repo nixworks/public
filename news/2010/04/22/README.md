@@ -21,11 +21,11 @@ Protesters blockade parliament amid growing stand-off over presidential decree.
 
 ##### Flemish Liberals and Democrats
 ### [The Flemish Liberals and Democrats leave the Government of Belgium following a dispute over the dissolution of the electoral district Brussels-Halle-Vilvoorde. ](/news/2010/04/22/the-flemish-liberals-and-democrats-leave-the-government-of-belgium-following-a-dispute-over-the-dissolution-of-the-electoral-district-brusse.md)
-_Context: Government, Flemish Liberals and Democrats, Belgium, Brussels-Halle-Vilvoorde_
+_Context: Flemish Liberals and Democrats, Belgium, Government, Brussels-Halle-Vilvoorde_
 
 ##### Several grenades explode
 ### [Several grenades explode in Thailand's capital, Bangkok, killing at least one person and injuring at least 75 others. ](/news/2010/04/22/several-grenades-explode-in-thailand-s-capital-bangkok-killing-at-least-one-person-and-injuring-at-least-75-others.md)
-_Context: Several grenades explode, Thailand, Bangkok_
+_Context: Thailand, Bangkok, Several grenades explode_
 
 ##### NATO
 ### [NATO foreign ministers agree to launch a Membership Action Plan (MAP) for Bosnia and Herzegovina. ](/news/2010/04/22/nato-foreign-ministers-agree-to-launch-a-membership-action-plan-map-for-bosnia-and-herzegovina.md)
@@ -33,11 +33,11 @@ NATO ministers agreed on Thursday to grant a Membership Action Plan (MAP) for Bo
 
 ##### President
 ### [Acting President of Nigeria Goodluck Jonathan signs the country's 4.6 trillion naira budget for 2010 into law. ](/news/2010/04/22/acting-president-of-nigeria-goodluck-jonathan-signs-the-country-s-4-6-trillion-naira-budget-for-2010-into-law.md)
-_Context: President, Nigeria, Goodluck Jonathan, N_
+_Context: Nigeria, N, Goodluck Jonathan, President_
 
 ##### Minas Gerais
 ### [Minas Gerais, one of Brazil's biggest states, bans the sale of the Toyota Corolla over safety fears. ](/news/2010/04/22/minas-gerais-one-of-brazil-s-biggest-states-bans-the-sale-of-the-toyota-corolla-over-safety-fears.md)
-_Context: Brazil, Toyota Corolla, Minas Gerais_
+_Context: Toyota Corolla, Brazil, Minas Gerais_
 
 ##### Sri Lanka
 ### [Sri Lanka's former army chief Sarath Fonseka requests his freedom from "illegal detention" in his first speech in parliament. ](/news/2010/04/22/sri-lanka-s-former-army-chief-sarath-fonseka-requests-his-freedom-from-illegal-detention-in-his-first-speech-in-parliament.md)
@@ -45,11 +45,11 @@ _Context: Sarath Fonseka, Sri Lanka_
 
 ##### President
 ### [President of Iran Mahmoud Ahmadinejad arrives in Zimbabwe; Prime Minister Morgan Tsvangirai's Movement for Democratic Change - Tsvangirai objects, labelling Mr Ahmadinejad a "war-monger, a trampler of human rights [and] an executioner". ](/news/2010/04/22/president-of-iran-mahmoud-ahmadinejad-arrives-in-zimbabwe-prime-minister-morgan-tsvangirai-s-movement-for-democratic-change-a-tsvangirai.md)
-_Context: Morgan Tsvangirai, Zimbabwe, President, Prime Minister, Mahmoud Ahmadinejad, Movement for Democratic Change_
+_Context: Movement for Democratic Change, Prime Minister, President, Morgan Tsvangirai, Zimbabwe, Mahmoud Ahmadinejad_
 
 ##### Utrecht
 ### [A Utrecht court acquits the Dutch arm of the Arab European League of hate crime charges relating to the publication of a cartoon questioning the Holocaust. The publication was intended to highlight double standards after MP Geert Wilders was not put on trial for distributing cartoons of Muhammad. ](/news/2010/04/22/a-utrecht-court-acquits-the-dutch-arm-of-the-arab-european-league-of-hate-crime-charges-relating-to-the-publication-of-a-cartoon-questioning.md)
-_Context: Muhammad, Holocaust, Geert Wilders, Arab European League, Netherlands, Utrecht_
+_Context: Utrecht, Holocaust, Arab European League, Netherlands, Muhammad, Geert Wilders_
 
 ##### Rwanda
 ### [Rwanda president Paul Kagame's rival Victoire Ingabire Umuhoza is released one day after her arrest on charges of terrorism and genocide denial but banned from leaving Kigali and ordered to report to authorities twice a month. ](/news/2010/04/22/rwanda-president-paul-kagame-s-rival-victoire-ingabire-umuhoza-is-released-one-day-after-her-arrest-on-charges-of-terrorism-and-genocide-den.md)
@@ -65,7 +65,7 @@ Death sentences imposed on two Norwegians in the DRC for killing a driver have b
 
 ##### EUR
 ### [The Euro falls to near year-low levels amid concerns about Greece's debt crisis. ](/news/2010/04/22/the-euro-falls-to-near-year-low-levels-amid-concerns-about-greece-s-debt-crisis.md)
-_Context: Greece, EUR_
+_Context: EUR, Greece_
 
 ##### India
 ### [Indian police investigate potential attacks on shopping centres in New Delhi. ](/news/2010/04/22/indian-police-investigate-potential-attacks-on-shopping-centres-in-new-delhi.md)
@@ -85,7 +85,7 @@ _Context: National Rugby League, Melbourne Storm, salary cap, 2009, 2007_
 
 ##### South Park
 ### [An episode of the American television series "South Park" is censored after a threat of fatwa from a New York-based group over the depiction of Muhammad in a bear costume. ](/news/2010/04/22/an-episode-of-the-american-television-series-south-park-is-censored-after-a-threat-of-fatwa-from-a-new-york-based-group-over-the-depictio.md)
-_Context: New York City, fatwa, South Park, Muhammad_
+_Context: South Park, New York City, Muhammad, fatwa_
 
 ##### St. Louis Rams
 ### [The St. Louis Rams select Sam Bradford with the first pick of the 2010 NFL Draft ](/news/2010/04/22/the-st-louis-rams-select-sam-bradford-with-the-first-pick-of-the-2010-nfl-draft.md)

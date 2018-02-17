@@ -9,7 +9,7 @@ Kurdish militants detonated a car bomb Sunday outside a military checkpoint in s
 
 ##### Israeli-Palestinian conflict (2015-present)
 ### [A shooting takes place in Jerusalem that kills two people, including a police officer, injuring six others. The attack was carried out by a Palestinian gunman who opened fire from a vehicle on people waiting at a train station and then the nearby police headquarters in Jerusalem. Israeli police kill the gunman. ](/news/2016/10/9/a-shooting-takes-place-in-jerusalem-that-kills-two-people-including-a-police-officer-injuring-six-others-the-attack-was-carried-out-by-a.md)
-_Context: Jerusalem, shooting, Israeli-Palestinian conflict (2015-present), Palestinians, Israeli police_
+_Context: Jerusalem, Israeli police, shooting, Palestinians, Israeli-Palestinian conflict (2015-present)_
 
 ##### Yemeni Crisis (2011-present)
 ### [The United States Navy's destroyer USS "Mason" comes under missile attack in the Red Sea, off the coast of Yemen. The two missiles, fired from Yemeni territory controlled by Iranian-backed Houthis, impacted the water well before reaching the ship, according to Pentagon spokesman Captain Jeff Davis. ](/news/2016/10/9/the-united-states-navy-s-destroyer-uss-mason-comes-under-missile-attack-in-the-red-sea-off-the-coast-of-yemen-the-two-missiles-fired-fr.md)
@@ -33,15 +33,15 @@ Ethiopia declares a six-month state of emergency following months of anti-govern
 
 ##### United States presidential election debates, 2016
 ### [Hillary Clinton and Donald Trump hold the second presidential debate of the 2016 U.S. presidential election at Washington University in St. Louis, Missouri, in a "town meeting" format. ](/news/2016/10/9/hillary-clinton-and-donald-trump-hold-the-second-presidential-debate-of-the-2016-u-s-presidential-election-at-washington-university-in-st.md)
-_Context: United States presidential election debates, 2016, Donald Trump, Washington University in St. Louis, 2016 U.S. presidential election, Missouri, Hillary Clinton_
+_Context: 2016 U.S. election, United States presidential election debates, 2016, Missouri, Donald Trump, Washington University in St. Louis, Hillary Clinton_
 
 ##### Lithuanian parliamentary election, 2016
 ### [Voters in Lithuania vote to elect representatives for the 141-seat parliament. ](/news/2016/10/9/voters-in-lithuania-vote-to-elect-representatives-for-the-141-seat-parliament.md)
-_Context: parliament, Lithuania, Lithuanian parliamentary election, 2016_
+_Context: Lithuanian parliamentary election, 2016, Lithuania, parliament_
 
 ##### Communist Party Secretary
 ### [A court sentences former Communist Party Secretary of Yunnan province, Bai Enpei, to death for corruption and amassing wealth of unclear origin. ](/news/2016/10/9/a-court-sentences-former-communist-party-secretary-of-yunnan-province-bai-enpei-to-death-for-corruption-and-amassing-wealth-of-unclear-ori.md)
-_Context: Yunnan, Communist Party Secretary, Bai Enpei_
+_Context: Yunnan, Bai Enpei, Communist Party Secretary_
 
 ##### Thailand
 ### [Thailand's King Bhumibol Adulyadej, 88, the world's longest reigning monarch, is in unstable condition after a hemodialysis treatment. ](/news/2016/10/9/thailand-s-king-bhumibol-adulyadej-88-the-world-s-longest-reigning-monarch-is-in-unstable-condition-after-a-hemodialysis-treatment.md)

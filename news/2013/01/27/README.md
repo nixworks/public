@@ -9,7 +9,7 @@ _Context: police, Kandahar_
 
 ##### Syria
 ### [Reports claim that elite Syrian military forces shell the town of Darayya just southwest of Damascus. ](/news/2013/01/27/reports-claim-that-elite-syrian-military-forces-shell-the-town-of-darayya-just-southwest-of-damascus.md)
-_Context: Damascus, Syria, Darayya_
+_Context: Syria, Damascus, Darayya_
 
 ##### Timbuktu
 ### [French forces prepare an attack on Timbuktu to defeat Islamists, as more African troops are sent into Mali. ](/news/2013/01/27/french-forces-prepare-an-attack-on-timbuktu-to-defeat-islamists-as-more-african-troops-are-sent-into-mali.md)
@@ -29,7 +29,7 @@ _Context: Bangladesh, fire, Dhaka_
 
 ##### Landslide
 ### [A landslide in the Indonesian island of Sumatra kills at least 4 people with 18 missing. ](/news/2013/01/27/a-landslide-in-the-indonesian-island-of-sumatra-kills-at-least-4-people-with-18-missing.md)
-_Context: Indonesia, Sumatra, landslide_
+_Context: landslide, Sumatra, Indonesia_
 
 ##### Flooding
 ### [Heavy rain caused by former Tropical Cyclone Oswald continues to cause significant flooding in the Australian state of Queensland with the capital Brisbane amongst those affected. ](/news/2013/01/27/heavy-rain-caused-by-former-tropical-cyclone-oswald-continues-to-cause-significant-flooding-in-the-australian-state-of-queensland-with-the-c.md)
@@ -45,7 +45,7 @@ Rescuers searched for possible survivors following the collapse of a soccer fiel
 
 ##### Paris
 ### [Tens of thousands of people rally in Paris in support of the legalisation of gay marriage and adoption in France. ](/news/2013/01/27/tens-of-thousands-of-people-rally-in-paris-in-support-of-the-legalisation-of-gay-marriage-and-adoption-in-france.md)
-_Context: France, gay marriage, Paris_
+_Context: Paris, gay marriage, France_
 
 ##### Bulgaria
 ### [Voters in Bulgaria go to the polls to vote on a referendum on building a new nuclear power plant at Belene. ](/news/2013/01/27/voters-in-bulgaria-go-to-the-polls-to-vote-on-a-referendum-on-building-a-new-nuclear-power-plant-at-belene.md)

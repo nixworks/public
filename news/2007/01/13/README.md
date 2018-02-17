@@ -5,19 +5,19 @@ Formats: [HTML](2007/01/13/index.html)  [JSON](2007/01/13/index.json)  [XML](200
 
 ##### Two years of helping
 ### [ War in Somalia: Martial law is declared in Somalia. ](/news/2007/01/13/war-in-somalia-martial-law-is-declared-in-somalia.md)
-_Context: Somalia, two years of helping, Martial law_
+_Context: Martial law, two years of helping, Somalia_
 
 ##### Energy dispute
 ### [ The energy dispute between Russia and Belarus is resolved after about 10 hours of negotiations between Russian Prime Minister Mikhail Fradkov and his Belarusian counterpart, Sergey Sidorsky. ](/news/2007/01/13/the-energy-dispute-between-russia-and-belarus-is-resolved-after-about-10-hours-of-negotiations-between-russian-prime-minister-mikhail-fradk.md)
-_Context: energy dispute, Belarus, Russia, Mikhail Fradkov, Sergey Sidorsky_
+_Context: Sergey Sidorsky, Russia, Mikhail Fradkov, Belarus, energy dispute_
 
 ##### Earthquake
 ### [ A major earthquake measuring approximately 8.2 magnitude occurs in the north-western Pacific Ocean at 04:23:20 UTC. A tsunami is detected and a warning is issued for Russia, Japan, Marcus Island, Wake Island, Midway Island, Northern Mariana Islands, Guam, Marshall Islands, Taiwan, Yap, Pohnpei, and Chuuk. ](/news/2007/01/13/a-major-earthquake-measuring-approximately-8-2-magnitude-occurs-in-the-north-western-pacific-ocean-at-04-23-20-utc-a-tsunami-is-detected-a.md)
-_Context: Marshall Islands, South Pacific Ocean, Wake Island, Marcus Island, Yap, Pohnpei, 8.2 magnitude, tsunami, Russia, Japan, Taiwan, Northern Mariana Islands, earthquake, Midway Island, Chuuk, Guam_
+_Context: Marshall Islands, 8.2 magnitude, Marcus Island, Taiwan, Chuuk, Pohnpei, Wake Island, Guam, Midway Island, Russia, Northern Mariana Islands, tsunami, Yap, Japan, South Pacific Ocean, earthquake_
 
 ##### Schutzstaffel
 ### [ 10 former members of the Nazi SS are sentenced "in absentia" to life imprisonment for their role in the Marzabotto massacre, the worst massacre in Italy during World War II. ](/news/2007/01/13/10-former-members-of-the-nazi-ss-are-sentenced-in-absentia-to-life-imprisonment-for-their-role-in-the-marzabotto-massacre-the-worst-mass.md)
-_Context: Schutzstaffel, Marzabotto massacre, life imprisonment, Italy, World War II_
+_Context: World War II, Schutzstaffel, life imprisonment, Italy, Marzabotto massacre_
 
 ## [Previous Day...](/news/2007/01/12/index.md)
 

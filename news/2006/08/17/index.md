@@ -9,7 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Williams Alsup
 ### [ United States district court judge Williams Alsup orders Greg Anderson, the personal trainer of Barry Bonds to testify before a Grand Jury about use of steroids by athletes. ](/news/2006/08/17/united-states-district-court-judge-williams-alsup-orders-greg-anderson-the-personal-trainer-of-barry-bonds-to-testify-before-a-grand-jury.md)
-_Context: Greg Anderson, Williams Alsup, Barry Bonds_
+_Context: Greg Anderson, Barry Bonds, Williams Alsup_
 
 ##### U.S. federal court
 ### [ US District judge Anna Diggs Taylor orders the NSA warrantless surveillance program be shut down as unconstitutional. ](/news/2006/08/17/us-district-judge-anna-diggs-taylor-orders-the-nsa-warrantless-surveillance-program-be-shut-down-as-unconstitutional.md)
@@ -17,11 +17,11 @@ A federal judge ruled Thursday that the government&#8217;s warrantless wiretappi
 
 ##### John Mark Karr
 ### [ Thai police claim that John Mark Karr has confessed to the murder of JonBent Ramsey. Karr tells reporters after the press conference that he was with the child when she died but didn't mean to kill her. ](/news/2006/08/17/thai-police-claim-that-john-mark-karr-has-confessed-to-the-murder-of-jonbenet-ramsey-karr-tells-reporters-after-the-press-conference-that.md)
-_Context: John Mark Karr, JonBent Ramsey_
+_Context: JonBent Ramsey, John Mark Karr_
 
 ##### Litani River
 ### [ Lebanese troops deploy south of the Litani River in Lebanon as part of the ceasefire agreement ](/news/2006/08/17/lebanese-troops-deploy-south-of-the-litani-river-in-lebanon-as-part-of-the-ceasefire-agreement.md)
-_Context: Lebanese, Litani River_
+_Context: Litani River, Lebanese_
 
 ##### Tungurahua
 ### [ Tungurahua, an active stratovolcano in Ecuador, erupts, spewing out pyroclastic flows, shooting volcanic ash six kilometres into the air and forcing the evacuation of thousands of people. At least one person is killed and another 60 people missing. ](/news/2006/08/17/tungurahua-an-active-stratovolcano-in-ecuador-erupts-spewing-out-pyroclastic-flows-shooting-volcanic-ash-six-kilometres-into-the-air-an.md)

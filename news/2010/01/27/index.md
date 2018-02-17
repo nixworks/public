@@ -13,15 +13,15 @@ The Department of Foreign Affairs says at least nine Irish people are believed t
 
 ##### United Kingdom
 ### [UK Prime Minister Gordon Brown says seven-year-old Charlie Simpson, who rode five miles and raised more than GBP200,000 for the 2010 Haiti earthquake fund, is "truly inspirational" as his spouse Sarah Brown meets him in his absence at Downing Street. ](/news/2010/01/27/uk-prime-minister-gordon-brown-says-seven-year-old-charlie-simpson-who-rode-five-miles-and-raised-more-than-gbp200-000-for-the-2010-haiti-e.md)
-_Context: United Kingdom, Sarah Brown, Gordon Brown, 2010 Haiti earthquake, Downing Street_
+_Context: Sarah Brown, United Kingdom, 2010 Haiti earthquake, Downing Street, Gordon Brown_
 
 ##### President of Sri Lanka
 ### [Incumbent President of Sri Lanka Mahinda Rajapaksa is declared the winner of Sunday's presidential election, defeating opposition candidate Sarath Fonseka. ](/news/2010/01/27/incumbent-president-of-sri-lanka-mahinda-rajapaksa-is-declared-the-winner-of-sunday-s-presidential-election-defeating-opposition-candidate.md)
-_Context: President of Sri Lanka, Sri Lanka, Rajapaksa, Sarath Fonseka, presidential election, opposition_
+_Context: Sarath Fonseka, presidential election, Rajapaksa, Sri Lanka, President of Sri Lanka, opposition_
 
 ##### North Korea
 ### [North Korea fires artillery shots into the sea near the disputed Northern Limit Line maritime border, with South Korea returning fire. ](/news/2010/01/27/north-korea-fires-artillery-shots-into-the-sea-near-the-disputed-northern-limit-line-maritime-border-with-south-korea-returning-fire.md)
-_Context: Northern Limit Line, South Korea, North Korea_
+_Context: South Korea, North Korea, Northern Limit Line_
 
 ##### Prime Minister
 ### [Prime Minister Gordon Brown and Taoiseach Brian Cowen leave Northern Ireland after three days spent discussing its future. ](/news/2010/01/27/prime-minister-gordon-brown-and-taoiseach-brian-cowen-leave-northern-ireland-after-three-days-spent-discussing-its-future.md)

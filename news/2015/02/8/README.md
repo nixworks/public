@@ -5,7 +5,7 @@ Formats: [HTML](2015/02/8/index.html)  [JSON](2015/02/8/index.json)  [XML](2015/
 
 ##### Cairo
 ### [In Cairo, Egypt, clashes between police and fans of Zamalek SC kill 22 people. Egyptian authorities indefinitely suspend football league matches. ](/news/2015/02/8/in-cairo-egypt-clashes-between-police-and-fans-of-zamalek-sc-kill-22-people-egyptian-authorities-indefinitely-suspend-football-league-mat.md)
-_Context: Cairo, police officers, Zamalek SC, Egypt_
+_Context: Egypt, Zamalek SC, Cairo, police officers_
 
 ##### 57th Annual Grammy Awards
 ### [The National Academy of Recording Arts and Sciences members present the Grammy Awards at the Staples Center in Los Angeles, California. ](/news/2015/02/8/the-national-academy-of-recording-arts-and-sciences-members-present-the-grammy-awards-at-the-staples-center-in-los-angeles-california.md)

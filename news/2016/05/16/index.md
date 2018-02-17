@@ -13,7 +13,7 @@ Pfizer Inc (PFE.N) is buying Anacor Pharmaceuticals Inc ANAC.O in a $5.2 billion
 
 ##### Deli Serdang Regency
 ### [At least 15 students are killed and 6 are missing after heavy rains and flash flooding trigger a landslide at a popular tourist resort in Deli Serdang Regency, Indonesia. ](/news/2016/05/16/at-least-15-students-are-killed-and-6-are-missing-after-heavy-rains-and-flash-flooding-trigger-a-landslide-at-a-popular-tourist-resort-in-de.md)
-_Context: Indonesia, Deli Serdang Regency_
+_Context: Deli Serdang Regency, Indonesia_
 
 ##### Colombian conflict (1964-present)
 ### [ Colombian police announce the seizure of about 8 tonne of cocaine in an operation targeting the Clan Usuga gang. This would make it the biggest seizure of drugs in the history of Colombia. ](/news/2016/05/16/colombian-police-announce-the-seizure-of-about-8-tonne-of-cocaine-in-an-operation-targeting-the-clan-asuga-gang-this-would-make-it-the-bi.md)

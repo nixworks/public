@@ -13,7 +13,7 @@ Nation erupts in joy; leaders extend congratulations; educational institutions g
 
 ##### Greece
 ### [Greece is the first developed market to be demoted into an emerging market by the MSCI Emerging Markets Index. ](/news/2013/11/27/greece-is-the-first-developed-market-to-be-demoted-into-an-emerging-market-by-the-msci-emerging-markets-index.md)
-_Context: Greece, emerging market, developed market, MSCI Emerging Markets Index_
+_Context: emerging market, MSCI Emerging Markets Index, developed market, Greece_
 
 ##### Wuhan
 ### [In China, some second-tier cities such as Wuhan and Shenyang begin to enhance local housing price controlling policy, following all first-tier cities' controlling policy enhancement in the country. ](/news/2013/11/27/in-china-some-second-tier-cities-such-as-wuhan-and-shenyang-begin-to-enhance-local-housing-price-controlling-policy-following-all-first-ti.md)
@@ -33,7 +33,7 @@ More than 200 flights were canceled and more than 5,000 were delayed by a deadly
 
 ##### Arena Corinthians
 ### [Two people die after a crane collapses in the Arena Corinthians in the Brazilian city SGBPo Paulo which is due to host the opening ceremony of the 2014 World Cup. Parts of the grandstands also collapse. ](/news/2013/11/27/two-people-die-after-a-crane-collapses-in-the-arena-corinthians-in-the-brazilian-city-sagbpo-paulo-which-is-due-to-host-the-opening-ceremony.md)
-_Context: SGBPo Paulo, Brazil, 2014 World Cup, Arena Corinthians_
+_Context: 2014 World Cup, Brazil, Arena Corinthians, SGBPo Paulo_
 
 ##### Tucson, Arizona
 ### [Three girls (two of whom eventually fled to a neighbor's house to escape their knife-wielding stepfather and notified police) held captive for several months or more in extremely dirty conditions (possibly up to two years), subjected to long barrages of loud music or static, fed only once a day and having gone up to four months without a bath, are rescued in Tucson, Arizona. ](/news/2013/11/27/three-girls-two-of-whom-eventually-fled-to-a-neighbor-s-house-to-escape-their-knife-wielding-stepfather-and-notified-police-held-captive-f.md)
@@ -45,7 +45,7 @@ Angry protesters set fire to the office of Tunisia&#39;s ruling Islamist party i
 
 ##### Thailand
 ### [As anti-government protests in Thailand continue to spread beyond the capital Bangkok, the parliament discusses a no-confidence motion against the Prime Minister Yingluck Shinawatra. ](/news/2013/11/27/as-anti-government-protests-in-thailand-continue-to-spread-beyond-the-capital-bangkok-the-parliament-discusses-a-no-confidence-motion-again.md)
-_Context: Prime Minister, Thailand, Bangkok, Parliament, Yingluck Shinawatra_
+_Context: Yingluck Shinawatra, Parliament, Bangkok, Thailand, Prime Minister_
 
 ##### Prime Minister of Latvia
 ### [The Prime Minister of Latvia Valdis Dombrovskis resigns due to the Riga supermarket roof collapse. ](/news/2013/11/27/the-prime-minister-of-latvia-valdis-dombrovskis-resigns-due-to-the-riga-supermarket-roof-collapse.md)

@@ -9,7 +9,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Saudi-led military intervention in Yemen (2015-present)
 ### [An airstrike by the Saudi-led coalition kills 25 civilians and wounds 50 in Sanaa, the capital of Yemen. Last week a ceasefire agreement was reached. ](/news/2015/07/13/an-airstrike-by-the-saudi-led-coalition-kills-25-civilians-and-wounds-50-in-sanaa-the-capital-of-yemen-last-week-a-ceasefire-agreement-was.md)
-_Context: Yemen, Saudi Arabia, Saudi-led military intervention in Yemen (2015-present), Sanaa_
+_Context: Saudi Arabia, Saudi-led military intervention in Yemen (2015-present), Yemen, Sanaa_
 
 ##### Timeline
 ### [Eurozone leaders agree on a bailout deal for Greece providing the Hellenic Parliament passes reforms into law by July 15. ](/news/2015/07/13/eurozone-leaders-agree-on-a-bailout-deal-for-greece-providing-the-hellenic-parliament-passes-reforms-into-law-by-july-15.md)
@@ -37,7 +37,7 @@ Curtis James Jackson III, the rapper better known as 50 Cent, files for chapter 
 
 ##### U.S. President
 ### [President Barack Obama commutes the sentences of 46 American prison inmates serving long sentences for drug related offences. ](/news/2015/07/13/president-barack-obama-commutes-the-sentences-of-46-american-prison-inmates-serving-long-sentences-for-drug-related-offences.md)
-_Context: Barack Obama, U.S. President_
+_Context: U.S. President, Barack Obama_
 
 ##### Boston Marathon bombing
 ### [Son of Boston police captain is charged with a foiled plot to bomb a university, inspired by Boston Marathon bombing, on alleged behalf of ISIS. He is scheduled Tuesday for a bail hearing at a federal court in Springfield. ](/news/2015/07/13/son-of-boston-police-captain-is-charged-with-a-foiled-plot-to-bomb-a-university-inspired-by-boston-marathon-bombing-on-alleged-behalf-of-i.md)
@@ -55,7 +55,7 @@ _Context: John Boehner, reason of insanity_
 ### [Dutch Finance Minister Jeroen Dijsselbloem was re-elected president of the Eurogroup for a second term. ](/news/2015/07/13/dutch-finance-minister-jeroen-dijsselbloem-was-re-elected-president-of-the-eurogroup-for-a-second-term.md)
 Dutch Finance Minister Jeroen Dijsselbloem was re-elected on Monday as president of the Eurogroup of euro zone finance ministers, EU officials said in a statement.
 
-##### 2016 U.S. presidential election
+##### 2016 U.S. election
 ### [Scott Walker, the Governor of Wisconsin, announces that he will be seeking the Republican Party nomination. ](/news/2015/07/13/scott-walker-the-governor-of-wisconsin-announces-that-he-will-be-seeking-the-republican-party-nomination.md)
 Wisconsin Gov. Scott Walker made his long-expected White House run official Monday morning, tweeting that he will seek the GOP nomination for president.
 

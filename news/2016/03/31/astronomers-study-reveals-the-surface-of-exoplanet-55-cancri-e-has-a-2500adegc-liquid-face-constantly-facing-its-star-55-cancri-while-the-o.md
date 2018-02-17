@@ -17,7 +17,7 @@ For the first time, astronomers map a nearby &quot;super-Earth&quot; exoplanet c
 ### Related:
 
 1. [Scientists using data from the Chandra X-ray Observatory discover new exoplanets in galaxies beyond the Milky Way for the first time. ](/news/2018/02/5/scientists-using-data-from-the-chandra-x-ray-observatory-discover-new-exoplanets-in-galaxies-beyond-the-milky-way-for-the-first-time.md) _Context: exoplanet_
-2. [ 95 exoplanets have been newly discovered. ](/news/2018/02/15/95-exoplanets-have-been-newly-discovered.md) _Context: exoplanet_
+2. [NASA's Kepler space telescope has discovered 95 new exoplanets. ](/news/2018/02/15/nasa-s-kepler-space-telescope-has-discovered-95-new-exoplanets.md) _Context: exoplanet_
 3. [The European Space Agency (ESA) approves the PLATO space observatory which will seek out Earth-like exoplanets. ](/news/2017/06/21/the-european-space-agency-esa-approves-the-plato-space-observatory-which-will-seek-out-earth-like-exoplanets.md) _Context: exoplanet_
 4. [Researchers report in the journal Nature the discovery of three potentially habitable, Earth-like exoplanets orbiting TRAPPIST-1, an ultracool dwarf star 40 light-years away in the constellation Aquarius. ](/news/2016/05/2/researchers-report-in-the-journal-nature-the-discovery-of-three-potentially-habitable-earth-like-exoplanets-orbiting-trappist-1-an-ultraco.md) _Context: exoplanet_
 5. [NASA scientists announce the discovery of Kepler-452b, the first near-Earth sized exoplanet discovered orbiting the habitable zone of a Sun-like star. ](/news/2015/07/23/nasa-scientists-announce-the-discovery-of-kepler-452b-the-first-near-earth-sized-exoplanet-discovered-orbiting-the-habitable-zone-of-a-sun.md) _Context: exoplanet_

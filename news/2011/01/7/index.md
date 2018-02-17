@@ -5,7 +5,7 @@ Formats: [HTML](2011/01/7/index.html)  [JSON](2011/01/7/index.json)  [XML](2011/
 
 ##### Suicide bombing
 ### [A suicide bomber kills 17 people and wounds at least 20 others in a public bathhouse in Kandahar province, Afghanistan; the Taliban claims responsibility for the attack. ](/news/2011/01/7/a-suicide-bomber-kills-17-people-and-wounds-at-least-20-others-in-a-public-bathhouse-in-kandahar-province-afghanistan-the-taliban-claims-r.md)
-_Context: Afghan, Taliban, suicide bombing, Kandahar province_
+_Context: Kandahar province, Afghan, Taliban, suicide bombing_
 
 ##### Jos
 ### [Seven people are killed in Jos and at least two people are killed at a rally in Bayelsa State. ](/news/2011/01/7/seven-people-are-killed-in-jos-and-at-least-two-people-are-killed-at-a-rally-in-bayelsa-state.md)
@@ -13,7 +13,7 @@ At least 20 killed in violence that erupts after news spreads of Muslims killed 
 
 ##### Catacamas
 ### [Eight people are killed and three injured following an armed attack on a bus traveling between Catacamas and Juticalpa in eastern Honduras. ](/news/2011/01/7/eight-people-are-killed-and-three-injured-following-an-armed-attack-on-a-bus-traveling-between-catacamas-and-juticalpa-in-eastern-honduras.md)
-_Context: Juticalpa, Catacamas, Honduras_
+_Context: Catacamas, Juticalpa, Honduras_
 
 ##### West Bengal
 ### [Six people are killed and 20 injured in political violence in West Bengal, India. ](/news/2011/01/7/six-people-are-killed-and-20-injured-in-political-violence-in-west-bengal-india.md)
@@ -21,7 +21,7 @@ _Context: India, West Bengal_
 
 ##### South Korea
 ### [South Korea lowers its surveillance alert level against North Korea. ](/news/2011/01/7/south-korea-lowers-its-surveillance-alert-level-against-north-korea.md)
-_Context: North Korea, South Korea_
+_Context: South Korea, North Korea_
 
 ##### Israeli Army
 ### [Israeli troops round up five men and kill a 67-year-old Palestinian man during an operation into the West Bank, aiming at arresting members of Hamas. ](/news/2011/01/7/israeli-troops-round-up-five-men-and-kill-a-67-year-old-palestinian-man-during-an-operation-into-the-west-bank-aiming-at-arresting-members.md)
@@ -33,7 +33,7 @@ The ruling voided two foreclosures, putting the nation’s banks on notice that 
 
 ##### French President
 ### [French President Nicolas Sarkozy and First Lady Carla Bruni begin an official trip to the overseas departments of Guadeloupe and Martinique. ](/news/2011/01/7/french-president-nicolas-sarkozy-and-first-lady-carla-bruni-begin-an-official-trip-to-the-overseas-departments-of-guadeloupe-and-martinique.md)
-_Context: French President, Guadeloupe, Martinique, Nicolas Sarkozy, Carla Bruni_
+_Context: French President, Martinique, Carla Bruni, Nicolas Sarkozy, Guadeloupe_
 
 ##### Ghana
 ### [Ghana says a threat of force by the Economic Community of West African States to remove Ivorian President Laurent Gbagbo would "not bring about peace" in the country. ](/news/2011/01/7/ghana-says-a-threat-of-force-by-the-economic-community-of-west-african-states-to-remove-ivorian-president-laurent-gbagbo-would-not-bring-ab.md)
@@ -41,7 +41,7 @@ A plan by West African leaders for a military intervention in Ivory Coast’s po
 
 ##### Laurent Gbagbo
 ### [Laurent Gbagbo expels the ambassadors for Canada and the United Kingdom from Cote d'Ivoire. Both nations reject the decision, recognizing Alassane Ouattara as the rightful President. ](/news/2011/01/7/laurent-gbagbo-expels-the-ambassadors-for-canada-and-the-united-kingdom-from-ca-te-d-ivoire-both-nations-reject-the-decision-recognizing-a.md)
-_Context: Alassane Ouattara, Canadian, Cote d'Ivoire, Laurent Gbagbo, United Kingdom_
+_Context: United Kingdom, Alassane Ouattara, Cote d'Ivoire, Canadian, Laurent Gbagbo_
 
 ##### Chile
 ### [Chile recognises the State of Palestine. ](/news/2011/01/7/chile-recognises-the-state-of-palestine.md)
@@ -61,7 +61,7 @@ Former Labour MP David Chaytor is jailed for 18 months for fraudulently claiming
 
 ##### United Nations
 ### [The United Nations says thousands of people are arriving in Southern Sudan from north Sudan ahead of the independence referendum on Sunday. ](/news/2011/01/7/the-united-nations-says-thousands-of-people-are-arriving-in-southern-sudan-from-north-sudan-ahead-of-the-independence-referendum-on-sunday.md)
-_Context: Southern Sudanese Independence Referendum, Southern Sudan, United Nations, Sudan_
+_Context: Southern Sudanese Independence Referendum, United Nations, Southern Sudan, Sudan_
 
 ##### China
 ### [Parents in China demand compensation after more than 200 children are poisoned by lead. ](/news/2011/01/7/parents-in-china-demand-compensation-after-more-than-200-children-are-poisoned-by-lead.md)

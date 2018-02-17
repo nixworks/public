@@ -13,7 +13,7 @@ BAGHDAD (AP) — A suicide car bomb ripped through an outdoor market in a Shiite
 
 ##### Church of the Nativity
 ### [Restoration work at the Church of the Nativity in Bethlehem, Palestine reveals a hidden angel mosaic. ](/news/2016/07/12/restoration-work-at-the-church-of-the-nativity-in-bethlehem-palestine-reveals-a-hidden-angel-mosaic.md)
-_Context: Bethlehem, Church of the Nativity, mosaic, Palestine_
+_Context: mosaic, Bethlehem, Church of the Nativity, Palestine_
 
 ##### AMC Theatres
 ### [AMC Theatres is purchasing London-based Odeon & UCI Cinemas Group in a deal valued at about GBP921 million ($1.21 billion). AMC has 385 theaters with 5,380 screens, most in the United States. Odeon & UCI has 242 theaters and 2,236 screens in the U.K. and Ireland. AMC noted its $1.1 billion (GBP835 million) acquisition of Columbus, Georgia's Carmike Cinemas (276 thrs-2,954 scrs) is still in the works. ](/news/2016/07/12/amc-theatres-is-purchasing-london-based-odeon-uci-cinemas-group-in-a-deal-valued-at-about-agbp921-million-1-21-billion-amc-has-385-the.md)
@@ -29,13 +29,13 @@ An international panel in The Hague delivered a sweeping rebuke of China’s beh
 
 ##### Supreme Court of Kyrgyzstan
 ### [In a landmark ruling, the Supreme Court of Kyrgyzstan revokes Azimzhan Askarov's life sentence and sends the case to a lower court to be reviewed. A prominent Kyrgyz political activist and recognized prisoner of conscience of Uzbek ethnicity, Askarov was convicted in 2011 of stirring up ethnic violence in 2010 between Uzbeks and Kyrgyz in southern Kyrgyzstan and sentenced to life in prison. ](/news/2016/07/12/in-a-landmark-ruling-the-supreme-court-of-kyrgyzstan-revokes-azimzhan-askarov-s-life-sentence-and-sends-the-case-to-a-lower-court-to-be-rev.md)
-_Context: Supreme Court of Kyrgyzstan, Uzbek, stirring up ethnic violence in 2010, Azimzhan Askarov, prisoner of conscience_
+_Context: prisoner of conscience, Azimzhan Askarov, Supreme Court of Kyrgyzstan, Uzbek, stirring up ethnic violence in 2010_
 
 ##### 2016 Zimbabwe protests
 ### [Evan Mawarire, the most visible leader of the protests in Zimbabwe, is arrested and charged with "inciting public violence and disturbing peace." ](/news/2016/07/12/evan-mawarire-the-most-visible-leader-of-the-protests-in-zimbabwe-is-arrested-and-charged-with-inciting-public-violence-and-disturbing-pe.md)
 _Context: 2016 Zimbabwe protests, Zimbabwe_
 
-##### 2016 U.S. presidential election
+##### 2016 U.S. election
 ### [Vermont Senator Bernie Sanders endorses Democratic Party rival Hillary Clinton for president at a rally in New Hampshire, effectively suspending his presidential campaign. ](/news/2016/07/12/vermont-senator-bernie-sanders-endorses-democratic-party-rival-hillary-clinton-for-president-at-a-rally-in-new-hampshire-effectively-suspen.md)
 Bernie Sanders will appear with Hillary Clinton at an event in Portsmouth, New Hampshire — a city and state he won by wide margins.
 

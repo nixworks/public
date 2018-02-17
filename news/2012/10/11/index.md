@@ -9,7 +9,7 @@ A Yemeni employee of the US embassy in the capital Sanaa is shot dead in an atta
 
 ##### Syrian civil war
 ### [Syrian civil war: the Local Coordination Committees say that by evening 83 civilians were killed throughout Syria by the Syrian army. ](/news/2012/10/11/syrian-civil-war-the-local-coordination-committees-say-that-by-evening-83-civilians-were-killed-throughout-syria-by-the-syrian-army.md)
-_Context: Syrian civil war, Syria, LCC_
+_Context: Syrian civil war, LCC, Syria_
 
 ##### Hezbollah
 ### [Hezbollah leader Hassan Nasrallah confirms that the drone aircraft shot down over Israel's Negev Desert on 6 October belonged to the organization and was supplied by Iran. ](/news/2012/10/11/hezbollah-leader-hassan-nasrallah-confirms-that-the-drone-aircraft-shot-down-over-israel-s-negev-desert-on-6-october-belonged-to-the-organiz.md)
@@ -37,7 +37,7 @@ Syria has accused Turkey of “air piracy” after Turkish fighter jets on Wedne
 
 ##### Samsung
 ### [A U.S. appeals court has overturned a district court order that had banned the sale of Samsung's Galaxy Nexus in the US, delivering a winning round for Google's Android against Apple Inc.. ](/news/2012/10/11/a-u-s-appeals-court-has-overturned-a-district-court-order-that-had-banned-the-sale-of-samsung-s-galaxy-nexus-in-the-us-delivering-a-winnin.md)
-_Context: Apple Inc., Google, Android, Galaxy Nexus, Samsung_
+_Context: Apple Inc., Android, Samsung, Galaxy Nexus, Google_
 
 ##### England
 ### [Englishman Barry Thew is sentenced to four months in jail after a t-shirt he wore is deemed to offend public morality. ](/news/2012/10/11/englishman-barry-thew-is-sentenced-to-four-months-in-jail-after-a-t-shirt-he-wore-is-deemed-to-offend-public-morality.md)

@@ -33,15 +33,15 @@ The US government orders the St Louis Art Museum to hand over Egyptian death mas
 
 ##### Gennady Yanin
 ### [Gennady Yanin, the director of the Russian Bolshoi ballet troupe, resigns and is replaced by Yan Godovsky. Russian media wonders if erotic photos which appeared on the internet, allegedly of him, were part of a smear campaign. ](/news/2011/03/17/gennady-yanin-the-director-of-the-russian-bolshoi-ballet-troupe-resigns-and-is-replaced-by-yan-godovsky-russian-media-wonders-if-erotic-p.md)
-_Context: Yan Godovsky, Gennady Yanin, Bolshoi Theatre_
+_Context: Gennady Yanin, Bolshoi Theatre, Yan Godovsky_
 
 ##### John Dee
 ### [It is announced that "Doctor Dee", a stage show based on the life of John Dee written by and starring Damon Albarn, is to have its premiere at the Manchester International Festival in July. ](/news/2011/03/17/it-is-announced-that-doctor-dee-a-stage-show-based-on-the-life-of-john-dee-written-by-and-starring-damon-albarn-is-to-have-its-premiere.md)
-_Context: Damon Albarn, John Dee, Manchester International Festival_
+_Context: John Dee, Manchester International Festival, Damon Albarn_
 
 ##### Rupert Murdoch
 ### [Rupert Murdoch's News Corp is sued for nepotism over the $675 million purchase of his daughter, Elisabeth Murdoch's, Shine Limited and providing a seat for her on the board. ](/news/2011/03/17/rupert-murdoch-s-news-corp-is-sued-for-nepotism-over-the-675-million-purchase-of-his-daughter-elisabeth-murdoch-s-shine-limited-and-provi.md)
-_Context: Shine Limited, nepotism, News Corp, Rupert Murdoch, Elisabeth Murdoch_
+_Context: Rupert Murdoch, nepotism, Shine Limited, Elisabeth Murdoch, News Corp_
 
 ##### The New York Times
 ### ["The New York Times" newspaper announces it is to start charging people who access content on its website. ](/news/2011/03/17/the-new-york-times-newspaper-announces-it-is-to-start-charging-people-who-access-content-on-its-website.md)
@@ -69,11 +69,11 @@ US President Barack Obama has said he will visit Ireland in May.
 
 ##### Malaysia
 ### [Malaysia seizes "suspected nuclear parts" in a Chinese ship bound for Iran. ](/news/2011/03/17/malaysia-seizes-suspected-nuclear-parts-in-a-chinese-ship-bound-for-iran.md)
-_Context: China, Iran, Malaysia_
+_Context: Iran, China, Malaysia_
 
 ##### Burma
 ### [A court in Burma denies bail to the chief of the "Myanmar Times" newspaper, charged with violating immigration law. ](/news/2011/03/17/a-court-in-burma-denies-bail-to-the-chief-of-the-myanmar-times-newspaper-charged-with-violating-immigration-law.md)
-_Context: Myanmar Times, Burma_
+_Context: Burma, Myanmar Times_
 
 ##### Asylum seekers
 ### [Asylum seekers stage another riot at the Christmas Island Immigration Detention Centre burning parts of the Australian government facility. ](/news/2011/03/17/asylum-seekers-stage-another-riot-at-the-christmas-island-immigration-detention-centre-burning-parts-of-the-australian-government-facility.md)

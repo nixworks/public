@@ -9,7 +9,7 @@ _Context: Colombia, FARC, Juan Manuel Santos_
 
 ##### FBI
 ### [ Agents from the Federal Bureau of Investigation and Internal Revenue Service search the house of Senator Ted Stevens in Girdwood, Alaska. ](/news/2007/07/30/agents-from-the-federal-bureau-of-investigation-and-internal-revenue-service-search-the-house-of-senator-ted-stevens-in-girdwood-alaska.md)
-_Context: United States Senate, Ted Stevens, Girdwood, Alaska, Internal Revenue Service, FBI_
+_Context: United States Senate, Girdwood, Alaska, FBI, Internal Revenue Service, Ted Stevens_
 
 ##### United States Secretary of State
 ### [ The United States Secretary of State Condoleezza Rice and the United States Secretary of Defense Robert Gates travel to the Middle East to offer increased aid to allies of the United States and to seek advice on Iraq. ](/news/2007/07/30/the-united-states-secretary-of-state-condoleezza-rice-and-the-united-states-secretary-of-defense-robert-gates-travel-to-the-middle-east-to.md)
@@ -21,15 +21,15 @@ Thousands of Egyptian riot police have clashed with Bedouin protesting against t
 
 ##### Palestinian Authority President
 ### [ The Palestinian President Mahmoud Abbas travels to Moscow seeking Russian support. ](/news/2007/07/30/the-palestinian-president-mahmoud-abbas-travels-to-moscow-seeking-russian-support.md)
-_Context: Russia, Mahmoud Abbas, Palestinian Authority President, Moscow_
+_Context: Palestinian Authority President, Russia, Mahmoud Abbas, Moscow_
 
 ##### IAEA
 ### [ International Atomic Energy Agency inspectors visit the Arak heavy-water reactor site in Iran. ](/news/2007/07/30/international-atomic-energy-agency-inspectors-visit-the-arak-heavy-water-reactor-site-in-iran.md)
-_Context: IAEA, Iran, Arak_
+_Context: IAEA, Arak, Iran_
 
 ##### Chief Justice
 ### [ The Chief Justice of the United States John Roberts is hospitalized after suffering a seizure at his summer home in Maine. ](/news/2007/07/30/the-chief-justice-of-the-united-states-john-roberts-is-hospitalized-after-suffering-a-seizure-at-his-summer-home-in-maine.md)
-_Context: John Roberts, Maine, Chief Justice_
+_Context: Maine, Chief Justice, John Roberts_
 
 ##### U.S. President
 ### [ The President of the United States George W. Bush and the Prime Minister of the United Kingdom Gordon Brown pledge to continue close relations in their first meeting. ](/news/2007/07/30/the-president-of-the-united-states-george-w-bush-and-the-prime-minister-of-the-united-kingdom-gordon-brown-pledge-to-continue-close-relati.md)
@@ -37,11 +37,11 @@ Prime Minister Gordon Brown of Britain indicated that he mostly shared President
 
 ##### Islam
 ### [ Islamic militants occupy a shrine in a tribal area of Pakistan and name it after the Lal Masjid in Islamabad recently stormed by the Pakistan army. ](/news/2007/07/30/islamic-militants-occupy-a-shrine-in-a-tribal-area-of-pakistan-and-name-it-after-the-lal-masjid-in-islamabad-recently-stormed-by-the-pakist.md)
-_Context: tribal area, Lal Masjid, shrine, Pakistan, Islam, Islamabad_
+_Context: tribal area, shrine, Islam, Pakistan, Islamabad, Lal Masjid_
 
 ##### Czech Republic
 ### [ A 15th village in the Czech Republic rejects by referendum the US plan to place anti-ballistic missiles at a nearby military base. The vote was 97% against the plan, however, the vote is non-binding on the national government. ](/news/2007/07/30/a-15th-village-in-the-czech-republic-rejects-by-referendum-the-us-plan-to-place-anti-ballistic-missiles-at-a-nearby-military-base-the-vote.md)
-_Context: ballistic missile, Czech Republic, US_
+_Context: ballistic missile, US, Czech Republic_
 
 ##### Ghazni
 ### [ An Afghan governor asks the Taliban to extend Monday's deadline for the lives of 22 South Koreans, after militants warned the Afghan government to release 23 of its captured fighters or else hostages will die. The Taliban later executes a hostage. ](/news/2007/07/30/an-afghan-governor-asks-the-taliban-to-extend-monday-s-deadline-for-the-lives-of-22-south-koreans-after-militants-warned-the-afghan-govern.md)
@@ -51,7 +51,7 @@ An Afghan governor pleaded Monday with the Taliban to extend a deadline for the 
 ### [ Papua New Guinea's Electoral Commission extends the counting period for the recent election due to polling and counting delays in some seats. ](/news/2007/07/30/papua-new-guinea-s-electoral-commission-extends-the-counting-period-for-the-recent-election-due-to-polling-and-counting-delays-in-some-seat.md)
 Papua New Guinea&#039;s Electoral Commission has extended the counting period in the country&#039;s national elections by one week because of polling and counting delays.
 
-##### China
+##### Chinese
 ### [ Deaths in China from floods, lightning and landslides during the summer approach 700. ](/news/2007/07/30/deaths-in-china-from-floods-lightning-and-landslides-during-the-summer-approach-700.md)
 Deaths from floods, lightning and landslides across China this summer have reached nearly 700, state media said on Monday, with experts warning that global warming is likely to fuel more violent weather.
 
@@ -61,11 +61,11 @@ A meeting of Victoria&#039;s Labor Caucus has named John Brumby as the state&#03
 
 ##### Miner
 ### [ Sixty-nine miners are trapped in a flooded coal mine in Henan province in central China. ](/news/2007/07/30/sixty-nine-miners-are-trapped-in-a-flooded-coal-mine-in-henan-province-in-central-china.md)
-_Context: flood, Henan, miner, coal mine, China_
+_Context: Henan, miner, Chinese, coal mine, flood_
 
 ##### Ivory Coast
 ### [ The President of the Ivory Coast Laurent Gbagbo visits the former rebel held north for the first time since 2002 where stockpiled weapons will be burnt as a symbol of reconciliation after the end of an uprising. ](/news/2007/07/30/the-president-of-the-ivory-coast-laurent-gbagbo-visits-the-former-rebel-held-north-for-the-first-time-since-2002-where-stockpiled-weapons-w.md)
-_Context: Laurent Gbagbo, Ivory Coast_
+_Context: Ivory Coast, Laurent Gbagbo_
 
 ## [Previous Day...](/news/2007/07/29/index.md)
 

@@ -11,7 +11,7 @@ Thousands gathered in Istanbul&#39;s Taksim square late on Thursday in a show of
 ### [Ten people, including the gunman, are killed and 21 wounded in a shooting in and around the Olympia-Einkaufszentrum shopping mall in the Moosach district of Munich, Germany, next to the Olympic stadium.](/news/2016/07/22/ten-people-including-the-gunman-are-killed-and-21-wounded-in-a-shooting-in-and-around-the-olympia-einkaufszentrum-shopping-mall-in-the-moo.md)
 A German-Iranian teenager who shot dead nine people in Munich was a deranged lone gunman obsessed with mass killings who drew no inspiration from Islamist militancy, police said on Saturday.
 
-##### China
+##### Chinese
 ### [China begins demolishing buildings and evicting residents at Larung Gar in Tibet, one of the largest religious institutes in the world. Officials put forward overpopulation and security as the leading reasons for the planned action. ](/news/2016/07/22/china-begins-demolishing-buildings-and-evicting-residents-at-larung-gar-in-tibet-one-of-the-largest-religious-institutes-in-the-world-offi.md)
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 
@@ -27,7 +27,7 @@ NORTH BATTLEFORD&nbsp;— The Saskatchewan city of North Battleford shut down it
 ### [Taiwanese President Tsai Ing-wen rejects a supposed deadline set by Chinese President Xi Jinping for accepting the 1992 Consensus, saying such a deadline is against the will of the people. ](/news/2016/07/22/taiwanese-president-tsai-ing-wen-rejects-a-supposed-deadline-set-by-chinese-president-xi-jinping-for-accepting-the-1992-consensus-saying-su.md)
 The People&rsquo;s Republic has cut off official communications with the island.
 
-##### 2016 U.S. presidential election
+##### 2016 U.S. election
 ### [Presumptive Democratic Party presidential nominee Hillary Clinton selects Senator Tim Kaine (Virginia) as her vice-presidential running mate. ](/news/2016/07/22/presumptive-democratic-party-presidential-nominee-hillary-clinton-selects-senator-tim-kaine-virginia-as-her-vice-presidential-running-mate.md)
 Hillary Clinton on Friday announced Virginia Sen. Timothy Kaine as her running mate, going with an experienced politician seen as a strong centrist who could attract independents and possibly disenchanted Republicans – and most certainly the safe pick.
 

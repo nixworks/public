@@ -9,11 +9,11 @@ _Context: Nigeria, Port Harcourt_
 
 ##### Collision
 ### [ A collision near Bathurst, New Brunswick results in the deaths of 7 Bathurst High School basketball team members. ](/news/2008/01/12/a-collision-near-bathurst-new-brunswick-results-in-the-deaths-of-7-bathurst-high-school-basketball-team-members.md)
-_Context: Bathurst High School, collision, basketball, Bathurst, New Brunswick_
+_Context: collision, Bathurst High School, basketball, Bathurst, New Brunswick_
 
 ##### Republic of China legislative election, 2008
 ### [ Republic of China legislative election, 2008: The Kuomintang (KMT) and its coalition allies win a landslide victory over the Democratic Progressive Party, garnering 86 of 113 seats in the Legislative Yuan. ](/news/2008/01/12/republic-of-china-legislative-election-2008-the-kuomintang-kmt-and-its-coalition-allies-win-a-landslide-victory-over-the-democratic-pro.md)
-_Context: Kuomintang (Chinese Nationalist Party), landslide, Republic of China legislative election, 2008, legislative chamber, coalition allies, Democratic Progressive Party_
+_Context: coalition allies, Republic of China legislative election, 2008, Kuomintang (Chinese Nationalist Party), landslide, legislative chamber, Democratic Progressive Party_
 
 ## [Previous Day...](/news/2008/01/11/index.md)
 

@@ -9,11 +9,11 @@ Channel NewsAsia - Breaking News, Asia-Pacific news coverage from Channel NewsAs
 
 ##### Shanghai
 ### [ Shanghai modifies its interpretation of the People's Republic of China's One Child Policy, allowing all divorced residents who remarry to have a second child without penalty. ](/news/2004/04/13/shanghai-modifies-its-interpretation-of-the-people-s-republic-of-china-s-one-child-policy-allowing-all-divorced-residents-who-remarry-to-h.md)
-_Context: China, One Child Policy, Shanghai_
+_Context: One Child Policy, Shanghai, China_
 
 ##### 9/11 Commission
 ### [ A provisional report from the September 11 Commission states that the FBI was hampered in its fight against terrorism by poor intelligence, insufficient staffing and resources and a bureaucratic culture. ](/news/2004/04/13/a-provisional-report-from-the-september-11-commission-states-that-the-fbi-was-hampered-in-its-fight-against-terrorism-by-poor-intelligence.md)
-_Context: culture, bureaucracy, terrorism, FBI, 9/11 Commission, resource, intelligence_
+_Context: bureaucracy, terrorism, intelligence, resource, 9/11 Commission, culture, FBI_
 
 ## [Previous Day...](/news/2004/04/12/index.md)
 

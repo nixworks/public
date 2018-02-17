@@ -33,7 +33,7 @@ Minority government introduces bill to restore 11-month conscription this summer
 
 ##### Political appointments of Donald Trump
 ### [The U.S. Senate confirms Donald Trump's appointment of his former opponents in the presidential primaries, neurosurgeon Ben Carson and Governor of Texas Rick Perry, as Secretaries of Housing and Urban Development and Energy respectively, with the support of all Republicans and some Democrats. ](/news/2017/03/2/the-u-s-senate-confirms-donald-trump-s-appointment-of-his-former-opponents-in-the-presidential-primaries-neurosurgeon-ben-carson-and-gover.md)
-_Context: Housing and Urban Development, Rick Perry, Energy, United States Senate, Donald Trump, Republican, Ben Carson, Democrat, Political appointments of Donald Trump, presidential primaries_
+_Context: presidential primaries, Democrat, Energy, Donald Trump, Rick Perry, Political appointments of Donald Trump, Republican, United States Senate, Housing and Urban Development, Ben Carson_
 
 ## [Previous Day...](/news/2017/03/1/index.md)
 

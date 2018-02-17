@@ -15,7 +15,7 @@ Residents voted to move Shishmaref from a barrier island that has been disappear
 ### [A Defense Department audit reveals that the United States Army had manipulated its finances, making $6.5 trillion of improper accounting adjustments in order to balance the books in 2015. ](/news/2016/08/19/a-defense-department-audit-reveals-that-the-united-states-army-had-manipulated-its-finances-making-6-5-trillion-of-improper-accounting-adj.md)
 The United States Army’s finances are so jumbled it had to make trillions of dollars of improper accounting adjustments to create an illusion that its books are balanced.
 
-##### 2016 U.S. presidential election
+##### 2016 U.S. election
 ### [Paul Manafort resigns as chairman of Donald Trump's presidential campaign. ](/news/2016/08/19/paul-manafort-resigns-as-chairman-of-donald-trump-s-presidential-campaign.md)
 Republican nominee wishes Manafort ‘success’ after resignation that comes days after Trump brought in Breitbart’s Steve Bannon as new campaign leadership
 

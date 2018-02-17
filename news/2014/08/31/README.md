@@ -5,7 +5,7 @@ Formats: [HTML](2014/08/31/index.html)  [JSON](2014/08/31/index.json)  [XML](201
 
 ##### United Nations
 ### [Thirty-two United Nations peacekeepers from the Philippines were evacuated under fire from the Golan Heights border checkpoint between Syria and Israel, while others remain under fire from groups including the Al-Nusra Front. ](/news/2014/08/31/thirty-two-united-nations-peacekeepers-from-the-philippines-were-evacuated-under-fire-from-the-golan-heights-border-checkpoint-between-syria.md)
-_Context: United Nations, Jabhat al-Nusra, Philippines, Golan Heights_
+_Context: Jabhat al-Nusra, Golan Heights, Philippines, United Nations_
 
 ##### Iraqi insurgency
 ### [Iraqi security forces reach the town of Amerli which had been besieged by Islamic State of Iraq and the Levant forces. ](/news/2014/08/31/iraqi-security-forces-reach-the-town-of-amerli-which-had-been-besieged-by-islamic-state-of-iraq-and-the-levant-forces.md)
@@ -25,7 +25,7 @@ _Context: parliament, Hong Kong_
 
 ##### Deputy prime minister
 ### [Denmark's deputy prime minister and Minister of Economic Affairs and the Interior, Margrethe Vestager, is nominated as the Danish candidate for EU commissioner, bringing the number of female commissioners in the Juncker Commission up to five with only three countries left to nominate a candidate. ](/news/2014/08/31/denmark-s-deputy-prime-minister-and-minister-of-economic-affairs-and-the-interior-margrethe-vestager-is-nominated-as-the-danish-candidate.md)
-_Context: deputy prime minister, Margrethe Vestager, Juncker Commission, EU commissioner_
+_Context: Juncker Commission, EU commissioner, Margrethe Vestager, deputy prime minister_
 
 ## [Previous Day...](/news/2014/08/30/index.md)
 

@@ -17,7 +17,7 @@ Murderous terror attack on eve of peace talks: Four Israelis killed in West Bank
 
 ##### Bomb
 ### [A roadside bomb kills 4 United States troops in eastern Afghanistan. ](/news/2010/08/31/a-roadside-bomb-kills-4-united-states-troops-in-eastern-afghanistan.md)
-_Context: bomb, Afghan, United States armed forces, United States_
+_Context: bomb, United States, United States armed forces, Afghan_
 
 ##### Bangkok
 ### [An explosion occurs outside the head office of a government-run television station in Bangkok, Thailand. ](/news/2010/08/31/an-explosion-occurs-outside-the-head-office-of-a-government-run-television-station-in-bangkok-thailand.md)
@@ -25,7 +25,7 @@ _Context: Bangkok, Thailand_
 
 ##### Russia
 ### [3 Russian aircrew kidnapped in Sudan's Darfur region are released. ](/news/2010/08/31/3-russian-aircrew-kidnapped-in-sudan-s-darfur-region-are-released.md)
-_Context: Sudan, Darfur, Russia_
+_Context: Darfur, Sudan, Russia_
 
 ##### Sudan People's Liberation Army
 ### [The Sudan People's Liberation Army pledges to demobilise all of its child soldiers by the end of the year. ](/news/2010/08/31/the-sudan-people-s-liberation-army-pledges-to-demobilise-all-of-its-child-soldiers-by-the-end-of-the-year.md)
@@ -37,7 +37,7 @@ Hewlett-Packard has agreed to pay $US55 million ($A61 million) to settle claims 
 
 ##### Devastating floods
 ### [Floodwaters continue to wreak havoc in Pakistan, affecting areas near Larkana. ](/news/2010/08/31/floodwaters-continue-to-wreak-havoc-in-pakistan-affecting-areas-near-larkana.md)
-_Context: devastating floods, Larkana, Pakistan_
+_Context: Larkana, Pakistan, devastating floods_
 
 ##### Cessna Citation
 ### [Four people die following a Cessna Citation crash on Misima Island in Papua New Guinea's Milne Bay Province. ](/news/2010/08/31/four-people-die-following-a-cessna-citation-crash-on-misima-island-in-papua-new-guinea-s-milne-bay-province.md)
@@ -53,13 +53,13 @@ An unknown assailant threw two fire bombs at the Russian embassy in Minsk late o
 
 ##### Iran
 ### [Iran's foreign ministry criticises state media for branding French first lady Carla Bruni as a "prostitute" over her support for Sakineh Mohammadi Ashtiani who faces death by stoning after being convicted of adultery. ](/news/2010/08/31/iran-s-foreign-ministry-criticises-state-media-for-branding-french-first-lady-carla-bruni-as-a-prostitute-over-her-support-for-sakineh-moh.md)
-_Context: Iran, France, Carla Bruni, stoning, Sakineh Mohammadi Ashtiani, adultery_
+_Context: adultery, Sakineh Mohammadi Ashtiani, stoning, Carla Bruni, Iran, France_
 
 ##### Roj TV
 ### [The Danish-based Kurdish TV station Roj TV faces terror charges for supporting PKK. ](/news/2010/08/31/the-danish-based-kurdish-tv-station-roj-tv-faces-terror-charges-for-supporting-pkk.md)
 _Context: Roj TV_
 
-##### Mexican
+##### Mexico
 ### [Mexican authorities arrest top drug trafficker Edgar Valdez Villarreal. ](/news/2010/08/31/mexican-authorities-arrest-top-drug-trafficker-edgar-valdez-villarreal.md)
 Long-sought Edgar Valdez faces drug trafficking charges in the US and is known for brutal tactics to wipe out rivals.
 
@@ -79,7 +79,7 @@ In an address from the Oval Office, President Obama said that the nation had met
 ### [The South African government improves a pay offer to more than a million striking public sector workers in an attempt to end the two-week-long strike. ](/news/2010/08/31/the-south-african-government-improves-a-pay-offer-to-more-than-a-million-striking-public-sector-workers-in-an-attempt-to-end-the-two-week-lo.md)
 South African government negotiators have improved their pay offer to civil servants in a bid to end a crippling nation-wide strike which has lasted for more than two weeks.
 
-##### Mexican
+##### Mexico
 ### [As part of a lengthy interview with the Mexican newspaper "La Jornada", Fidel Castro admits responsibility for the persecution of homosexuals in Cuba after the revolution of 1959.](/news/2010/08/31/as-part-of-a-lengthy-interview-with-the-mexican-newspaper-la-jornada-fidel-castro-admits-responsibility-for-the-persecution-of-homosexual.md)
 Former Cuban President Fidel Castro says he is to blame for the persecution of homosexuals after the Cuban revolution of 1959.
 

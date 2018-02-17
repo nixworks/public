@@ -9,7 +9,7 @@ Pathankot terror attack: Enemies of humanity can&#039;t see India develop, says 
 
 ##### Mexican Drug War
 ### [Gisela Mota Ocampo, mayor of Temixco in Mexico's Morelos state is assassinated by gunmen at her home, less than a day after taking office. Morelos Governor, Graco Ramirez, attributed Mota's killing to organized crime, without citing a particular drug cartel or gang. ](/news/2016/01/2/gisela-mota-ocampo-mayor-of-temixco-in-mexico-s-morelos-state-is-assassinated-by-gunmen-at-her-home-less-than-a-day-after-taking-office-m.md)
-_Context: Temixco, Graco Ramirez, Gisela Mota Ocampo, List of politicians killed in the Mexican Drug War, Morelos's, Mexican, Morelos Governor, organized crime, Mexican Drug War_
+_Context: Graco Ramirez, Mexican Drug War, Mexico, List of politicians killed in the Mexican Drug War, Temixco, Gisela Mota Ocampo, Morelos's, organized crime, Morelos Governor_
 
 ##### Militia occupation of the Malheur National Wildlife Refuge
 ### [Armed militiamen, including members of the Bundy family of Nevada, take over and occupy the headquarters of the Malheur National Wildlife Refuge near Burns, Oregon following a peaceful rally in support of Dwight and Steve Hammond, who were convicted of arson in 2012 for setting fires on public land adjacent to their property. ](/news/2016/01/2/armed-militiamen-including-members-of-the-bundy-family-of-nevada-take-over-and-occupy-the-headquarters-of-the-malheur-national-wildlife-re.md)

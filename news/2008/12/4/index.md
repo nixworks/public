@@ -5,23 +5,23 @@ Formats: [HTML](2008/12/4/index.html)  [JSON](2008/12/4/index.json)  [XML](2008/
 
 ##### Prime Minister of Russia
 ### [ Prime Minister Vladimir Putin says Russia may be forced to cut gas supplies to Ukraine if the latter "does not fulfil the agreements" on payment for gas already consumed. ](/news/2008/12/4/prime-minister-vladimir-putin-says-russia-may-be-forced-to-cut-gas-supplies-to-ukraine-if-the-latter-does-not-fulfil-the-agreements-on-pa.md)
-_Context: Ukraine, Russia, Prime Minister of Russia, Vladimir Putin_
+_Context: Ukraine, Vladimir Putin, Prime Minister of Russia, Russia_
 
 ##### President
 ### [ President of Uruguay Tabar Vzquez resigns as the leader of the Socialist Party following a row over the vetoing of an abortion decriminalisation bill. ](/news/2008/12/4/president-of-uruguay-tabare-vazquez-resigns-as-the-leader-of-the-socialist-party-following-a-row-over-the-vetoing-of-an-abortion-decriminal.md)
-_Context: Socialist Party, abortion, President, Tabar Vzquez, Uruguay_
+_Context: President, abortion, Uruguay, Tabar Vzquez, Socialist Party_
 
 ##### Argentina
 ### [ The Argentine National Congress approves the seizure of Aerolneas Argentinas, the country's biggest airline carrier. ](/news/2008/12/4/the-argentine-national-congress-approves-the-seizure-of-aerolineas-argentinas-the-country-s-biggest-airline-carrier.md)
-_Context: Aerolneas Argentinas, National Congress, Argentina_
+_Context: National Congress, Aerolneas Argentinas, Argentina_
 
 ##### Afghanistan President
 ### [ The body of the first President of Afghanistan Mohammed Daoud Khan is identified, three decades after he died. ](/news/2008/12/4/the-body-of-the-first-president-of-afghanistan-mohammed-daoud-khan-is-identified-three-decades-after-he-died.md)
-_Context: Afghan, Mohammed Daoud Khan, Afghanistan President_
+_Context: Afghan, Afghanistan President, Mohammed Daoud Khan_
 
 ##### Prime Minister of Canada
 ### [ 2008 Canadian parliamentary dispute: At the request of Prime Minister Stephen Harper, Governor General of Canada Michalle Jean prorogues the parliament until January 26, 2009, to avoid a confidence motion by a newly-formed coalition of opposition parties. ](/news/2008/12/4/2008-canadian-parliamentary-dispute-at-the-request-of-prime-minister-stephen-harper-governor-general-of-canada-michaelle-jean-prorogues-t.md)
-_Context: Governor General of Canada, Stephen Harper, Michalle Jean, coalition, vote of no confidence, proposed opposition coalition, Prime Minister of Canada_
+_Context: Stephen Harper, Governor General of Canada, coalition, proposed opposition coalition, Prime Minister of Canada, vote of no confidence, Michalle Jean_
 
 ## [Previous Day...](/news/2008/12/3/index.md)
 

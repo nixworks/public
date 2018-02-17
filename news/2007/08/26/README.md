@@ -5,7 +5,7 @@ Formats: [HTML](2007/08/26/index.html)  [JSON](2007/08/26/index.json)  [XML](200
 
 ##### Putumayo
 ### [ Gunmen raid a farm in Putumayo Department in Colombia killing 9 people with authorities blaming FARC. ](/news/2007/08/26/gunmen-raid-a-farm-in-putumayo-department-in-colombia-killing-9-people-with-authorities-blaming-farc.md)
-_Context: Putumayo, Colombia, FARC_
+_Context: FARC, Colombia, Putumayo_
 
 ##### 2007 Midwest flooding
 ### [ 2007 Midwest flooding: Tornadoes hit parts of central and southeast Ohio as hundreds of thousands of people in the Midwest are without power. ](/news/2007/08/26/2007-midwest-flooding-tornadoes-hit-parts-of-central-and-southeast-ohio-as-hundreds-of-thousands-of-people-in-the-midwest-are-without-powe.md)
@@ -17,15 +17,15 @@ A series of explosions have rocked the Somali capital Mogadishu, killing two chi
 
 ##### Islamist
 ### [ The Islamist militant group Fatah al-Islam seeks to extract its wounded from the Nahr al-Bared Palestinian refugee camp. ](/news/2007/08/26/the-islamist-militant-group-fatah-al-islam-seeks-to-extract-its-wounded-from-the-nahr-al-bared-palestinian-refugee-camp.md)
-_Context: Nahr al-Bared, Fatah al-Islam, Islamist, Palestinian refugee_
+_Context: Palestinian refugee, Fatah al-Islam, Nahr al-Bared, Islamist_
 
 ##### Iraq
 ### [ Five Iraqi Shia, Sunni and Kurdish political parties sign a deal forming a new "Moderates Front" supporting Prime Minister Nouri al-Maliki ](/news/2007/08/26/five-iraqi-shia-sunni-and-kurdish-political-parties-sign-a-deal-forming-a-new-moderates-front-supporting-prime-minister-nouri-al-maliki.md)
-_Context: Shia, Kurd, Sunni, "Moderates Front", Nouri al-Maliki, Iraq_
+_Context: Iraq, Sunni, Shia, Nouri al-Maliki, "Moderates Front", Kurd_
 
 ##### Equine influenza
 ### [ The equine influenza outbreak spreads in Australia threatening the Spring Carnival including the Melbourne Cup. ](/news/2007/08/26/the-equine-influenza-outbreak-spreads-in-australia-threatening-the-spring-carnival-including-the-melbourne-cup.md)
-_Context: Australia, Melbourne Cup, equine influenza_
+_Context: Melbourne Cup, equine influenza, Australia_
 
 ##### Bird flu
 ### [ Bird flu breaks out at a German farm. ](/news/2007/08/26/bird-flu-breaks-out-at-a-german-farm.md)
@@ -37,7 +37,7 @@ _Context: Rene Harris, Ludwig Scotty, Nauruan parliamentary election, 2007_
 
 ##### Bomb blasts
 ### [ Seven more unexploded bombs are found in Hyderabad, Andhra Pradesh, India a day after the bombings. ](/news/2007/08/26/seven-more-unexploded-bombs-are-found-in-hyderabad-andhra-pradesh-india-a-day-after-the-bombings.md)
-_Context: bomb, bomb blasts, India, Hyderabad, Andhra Pradesh_
+_Context: India, Hyderabad, Andhra Pradesh, bomb blasts, bomb_
 
 ##### European Union
 ### [ European Union countries send firefighters and equipment to help fight hundreds of fires.](/news/2007/08/26/european-union-countries-send-firefighters-and-equipment-to-help-fight-hundreds-of-fires.md)

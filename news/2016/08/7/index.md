@@ -5,7 +5,7 @@ Formats: [HTML](2016/08/7/index.html)  [JSON](2016/08/7/index.json)  [XML](2016/
 
 ##### 2016 stabbing of Charleroi police officers
 ### [ISIL claims responsibility for the machete attack in Belgium. ](/news/2016/08/7/isil-claims-responsibility-for-the-machete-attack-in-belgium.md)
-_Context: Belgium, ISIL, 2016 stabbing of Charleroi police officers_
+_Context: ISIL, Belgium, 2016 stabbing of Charleroi police officers_
 
 ##### 2016 Macedonian floods
 ### [Floods in Macedonia's capital, Skopje, kill at least 21 people with six others missing and dozens injured following torrential rain and strong winds late Saturday. ](/news/2016/08/7/floods-in-macedonia-s-capital-skopje-kill-at-least-21-people-with-six-others-missing-and-dozens-injured-following-torrential-rain-and-stro.md)
@@ -25,7 +25,7 @@ Oscar Pistorius was rushed to Pretoria’s Kalafong Hospital after sustaining in
 
 ##### Iran
 ### [Iran confirms it has executed nuclear scientist Shahram Amiri by hanging for treason. Iranian judiciary spokesman Gholam-Hossein Mohseni-Eje'i says Amiri was charged with spying for enemies of the Islamic Republic of Iran and that U.S. officials had been unaware that Iran was monitoring Amiri's efforts for the West. His body was returned to his family with rope marks around his neck. ](/news/2016/08/7/iran-confirms-it-has-executed-nuclear-scientist-shahram-amiri-by-hanging-for-treason-iranian-judiciary-spokesman-gholam-hossein-mohseni-eje.md)
-_Context: Shahram Amiri, nuclear program, Gholam-Hossein Mohseni-Eje'i, Iran, United States_
+_Context: United States, Shahram Amiri, Iran, nuclear program, Gholam-Hossein Mohseni-Eje'i_
 
 ##### Thai constitutional referendum, 2016
 ### [Voters in Thailand go to the polls to vote on whether a new constitution, which would restore elections but empower the military, should it be adopted. The military junta has banned campaigning in opposition to the new constitution. The constitution is approved by 61.45 percent. ](/news/2016/08/7/voters-in-thailand-go-to-the-polls-to-vote-on-whether-a-new-constitution-which-would-restore-elections-but-empower-the-military-should-it.md)

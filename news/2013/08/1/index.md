@@ -25,7 +25,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Greece
 ### [Eight people are arrested in Greece for allegedly trying to smuggle weapons into Turkey. ](/news/2013/08/1/eight-people-are-arrested-in-greece-for-allegedly-trying-to-smuggle-weapons-into-turkey.md)
-_Context: Greece, Turkey_
+_Context: Turkey, Greece_
 
 ##### United States
 ### [The U.S. states of Minnesota and Rhode Island begin issuing marriage licenses to same-sex couples. ](/news/2013/08/1/the-u-s-states-of-minnesota-and-rhode-island-begin-issuing-marriage-licenses-to-same-sex-couples.md)
@@ -45,19 +45,19 @@ Ariel Castro is jailed for life plus 1,000 years for kidnapping three women and 
 
 ##### Italy
 ### [Italy's top court confirms that former Prime Minister Silvio Berlusconi will serve a prison sentence for a tax fraud conviction. ](/news/2013/08/1/italy-s-top-court-confirms-that-former-prime-minister-silvio-berlusconi-will-serve-a-prison-sentence-for-a-tax-fraud-conviction.md)
-_Context: top court, Italy, Italian Prime Minister, Silvio Berlusconi_
+_Context: Silvio Berlusconi, Italy, top court, Italian Prime Minister_
 
 ##### Prime Minister of Tuvalu
 ### [The Prime Minister of Tuvalu, Willy Telavi, is removed from office by Governor General Iakoba Italeli after accusations that he allegedly tried to replace Italeli as Governor General. Opposition leader Enele Sopoaga is appointed as the country's acting Prime Minister. ](/news/2013/08/1/the-prime-minister-of-tuvalu-willy-telavi-is-removed-from-office-by-governor-general-iakoba-italeli-after-accusations-that-he-allegedly-tr.md)
-_Context: Prime Minister of Tuvalu, Enele Sopoaga, Willy Telavi, Governor General, Iakoba Italeli_
+_Context: Prime Minister of Tuvalu, Governor General, Willy Telavi, Enele Sopoaga, Iakoba Italeli_
 
 ##### Parliament of New Zealand
 ### [Geoff Thorn, the General Manager of Parliamentary Service in the Parliament of New Zealand, submits his resignation to the Speaker David Carter after phone and other data belonging to Fairfax New Zealand journalist Andrea Vance were released to an inquiry without her permission. ](/news/2013/08/1/geoff-thorn-the-general-manager-of-parliamentary-service-in-the-parliament-of-new-zealand-submits-his-resignation-to-the-speaker-david-car.md)
-_Context: David Carter, Fairfax New Zealand, Parliament of New Zealand, Speaker_
+_Context: Parliament of New Zealand, Speaker, Fairfax New Zealand, David Carter_
 
 ##### Robert Mugabe
 ### [Robert Mugabe's ZANU-PF party claims victory in yesterday's Zimbabwean general election as the opposition Movement for Democratic Change alleges "massive fraud". ](/news/2013/08/1/robert-mugabe-s-zanu-pf-party-claims-victory-in-yesterday-s-zimbabwean-general-election-as-the-opposition-movement-for-democratic-change-all.md)
-_Context: ZANU-PF, Movement for Democratic Change, recent elections, Robert Mugabe_
+_Context: Movement for Democratic Change, ZANU-PF, Robert Mugabe, recent elections_
 
 ## [Previous Day...](/news/2013/07/31/index.md)
 

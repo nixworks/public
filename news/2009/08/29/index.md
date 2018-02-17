@@ -17,7 +17,7 @@ Clashes between military and Shan state militia force thousands to flee to China
 
 ##### North Korea
 ### [ North Korea frees four South Korean fishermen seized last month when the boat strayed across the Northern Limit Line sea boundary. ](/news/2009/08/29/north-korea-frees-four-south-korean-fishermen-seized-last-month-when-the-boat-strayed-across-the-northern-limit-line-sea-boundary.md)
-_Context: Northern Limit Line, North Korea, South Korea_
+_Context: South Korea, Northern Limit Line, North Korea_
 
 ##### Peacekeeping mission
 ### [ Two civilian members of the UNAMID peacekeeping force are kidnapped by armed men in Darfur, Sudan. ](/news/2009/08/29/two-civilian-members-of-the-unamid-peacekeeping-force-are-kidnapped-by-armed-men-in-darfur-sudan.md)
@@ -25,7 +25,7 @@ _Context: peacekeeping mission, Darfur, Sudan_
 
 ##### United States
 ### [ Seven people are found dead in the US state of Georgia and two are seriously wounded in one of the worst slayings in the state in 25 years.](/news/2009/08/29/seven-people-are-found-dead-in-the-us-state-of-georgia-and-two-are-seriously-wounded-in-one-of-the-worst-slayings-in-the-state-in-25-years.md)
-_Context: United States, worst slayings_
+_Context: worst slayings, United States_
 
 ## [Previous Day...](/news/2009/08/28/index.md)
 

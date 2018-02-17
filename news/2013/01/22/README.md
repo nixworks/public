@@ -13,11 +13,11 @@ Car bombs in and around the Iraqi capital, Baghdad, have killed at least 17 peop
 
 ##### Colombia
 ### [In Colombia, FARC rebels dynamite two southern oil pipelines and planted a bomb on the top coal exporter's northern railway after the end of a rebel ceasefire. ](/news/2013/01/22/in-colombia-farc-rebels-dynamite-two-southern-oil-pipelines-and-planted-a-bomb-on-the-top-coal-exporter-s-northern-railway-after-the-end-of.md)
-_Context: ceasefire, oil pipeline, FARC, Colombia_
+_Context: oil pipeline, FARC, Colombia, ceasefire_
 
 ##### James Bond
 ### [The James Bond film "Skyfall" opens in China with censored scenes, prompting criticism from fans. ](/news/2013/01/22/the-james-bond-film-skyfall-opens-in-china-with-censored-scenes-prompting-criticism-from-fans.md)
-_Context: Skyfall, James Bond, China, Censorship in China_
+_Context: Chinese, James Bond, Censorship in China, Skyfall_
 
 ##### United Nations Security Council
 ### [The United Nations Security Council passes Resolution 2087, condemning North Korea's December 2012 rocket launch and expanding economic sanctions against the country. ](/news/2013/01/22/the-united-nations-security-council-passes-resolution-2087-condemning-north-korea-s-december-2012-rocket-launch-and-expanding-economic-sanc.md)

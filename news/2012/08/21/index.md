@@ -13,11 +13,11 @@ The Army Bomb Disposal Team has been called out on four separate occasions in Du
 
 ##### Oil imports
 ### [Oil imports to China from Iran fall 28 percent in July and 30 percent in 2012. ](/news/2012/08/21/oil-imports-to-china-from-iran-fall-28-percent-in-july-and-30-percent-in-2012.md)
-_Context: China, Iran, Oil imports_
+_Context: Chinese, Iran, Oil imports_
 
 ##### Philippines
 ### [A search and rescue team recovers the body of former Philippines Interior and Local Government Secretary Jesse Robredo after a crash that claimed his life and two others on Saturday off Masbate. ](/news/2012/08/21/a-search-and-rescue-team-recovers-the-body-of-former-philippines-interior-and-local-government-secretary-jesse-robredo-after-a-crash-that-cl.md)
-_Context: Philippines, crash, Masbate, Jesse Robredo_
+_Context: crash, Masbate, Philippines, Jesse Robredo_
 
 ##### DR Congo
 ### [At least 20 people in the Democratic Republic of the Congo die from the Ebola virus disease. ](/news/2012/08/21/at-least-20-people-in-the-democratic-republic-of-the-congo-die-from-the-ebola-virus-disease.md)
@@ -37,7 +37,7 @@ UPDATE 12.50 - The Constitutional Court of Romania decided to invalidate the res
 
 ##### Iran
 ### [Iran unveils a newer version of a short range surface-to-surface ballistic missile, named the Fateh-110 or Conqueror, and five pieces of military hardware. ](/news/2012/08/21/iran-unveils-a-newer-version-of-a-short-range-surface-to-surface-ballistic-missile-named-the-fateh-110-or-conqueror-and-five-pieces-of-mil.md)
-_Context: Fateh-110 missile, ballistic missile, Iran_
+_Context: ballistic missile, Iran, Fateh-110 missile_
 
 ##### Cosmogony
 ### [In the debate on cosmogony, "Physical Review" publishes a study describing the Big Bang, 13.7 billion years ago, as actually a phase change ruled by event symmetry, possibly explaining better how our well-known spacetime could originate from original matter. ](/news/2012/08/21/in-the-debate-on-cosmogony-physical-review-publishes-a-study-describing-the-big-bang-13-7-billion-years-ago-as-actually-a-phase-change.md)

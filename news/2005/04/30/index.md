@@ -5,7 +5,7 @@ Formats: [HTML](2005/04/30/index.html)  [JSON](2005/04/30/index.json)  [XML](200
 
 ##### Cairo terrorism
 ### [ Cairo terrorism: Tourists in the Egyptian capital Cairo are targeted in two separate terrorist attacks. ](/news/2005/04/30/cairo-terrorism-tourists-in-the-egyptian-capital-cairo-are-targeted-in-two-separate-terrorist-attacks.md)
-_Context: Cairo, terrorism, Cairo terrorism, Egypt_
+_Context: terrorism, Egypt, Cairo terrorism, Cairo_
 
 ##### Gyanendra of Nepal
 ### [ King Gyanendra of Nepal ends the state of emergency. Press censorship and ban of political activities continues. ](/news/2005/04/30/king-gyanendra-of-nepal-ends-the-state-of-emergency-press-censorship-and-ban-of-political-activities-continues.md)
@@ -25,7 +25,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Severo Moto
 ### [ Severo Moto, exiled politician from Equatorial Guinea, reappears in Spain. He says that he survived an assassination attempt in Croatia. ](/news/2005/04/30/severo-moto-exiled-politician-from-equatorial-guinea-reappears-in-spain-he-says-that-he-survived-an-assassination-attempt-in-croatia.md)
-_Context: Croatia, Equatorial Guinea, Spain, Severo Moto, assassination_
+_Context: assassination, Severo Moto, Spain, Equatorial Guinea, Croatia_
 
 ## [Previous Day...](/news/2005/04/29/index.md)
 

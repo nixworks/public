@@ -9,7 +9,7 @@ Afghan authorities release 65 detainees from the Bagram detention centre, a move
 
 ##### Policemen
 ### [At least eight police officers are killed in a suicide bomb attack in Karachi. ](/news/2014/02/13/at-least-eight-police-officers-are-killed-in-a-suicide-bomb-attack-in-karachi.md)
-_Context: policemen, Karachi, suicide bomb_
+_Context: suicide bomb, Karachi, policemen_
 
 ##### United States
 ### [The United States says that it is ready to defend its allies in case of an armed conflict. ](/news/2014/02/13/the-united-states-says-that-it-is-ready-to-defend-its-allies-in-case-of-an-armed-conflict.md)
@@ -25,7 +25,7 @@ _Context: Luxor_
 
 ##### Comcast
 ### [Comcast is set to acquire Time Warner Cable in a US$44 billion buyout. ](/news/2014/02/13/comcast-is-set-to-acquire-time-warner-cable-in-a-us-44-billion-buyout.md)
-_Context: Time Warner Cable, United States dollars, Comcast_
+_Context: United States dollars, Time Warner Cable, Comcast_
 
 ##### Reuters
 ### [A Reuters poll of economic forecasters finds that they are more worried about deflation across the Eurozone than is the ECB. ](/news/2014/02/13/a-reuters-poll-of-economic-forecasters-finds-that-they-are-more-worried-about-deflation-across-the-eurozone-than-is-the-ecb.md)
@@ -41,7 +41,7 @@ _Context: Met Office, Winter storms_
 
 ##### Mount Kelud
 ### [Mount Kelud erupts prompting the evacuation of 200,000 people on the Indonesian island of Java. ](/news/2014/02/13/mount-kelud-erupts-prompting-the-evacuation-of-200-000-people-on-the-indonesian-island-of-java.md)
-_Context: Mount Kelud, Indonesia, Java_
+_Context: Java, Indonesia, Mount Kelud_
 
 ##### Moscow
 ### [During a two-day visit by an Egyptian delegation in Moscow, Russian Foreign Minister Sergey Lavrov said that Moscow and Cairo have agreed to speed up work on drafting agreements on military-technological cooperation. Russian Defense Minister Sergey Shoigu added that this could include joint military exercises and training of Egyptian officers in Russian military academies.](/news/2014/02/13/during-a-two-day-visit-by-an-egyptian-delegation-in-moscow-russian-foreign-minister-sergey-lavrov-said-that-moscow-and-cairo-have-agreed-to.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2008/04/29/index.html)  [JSON](2008/04/29/index.json)  [XML](200
 
 ##### Economy of the United States
 ### [ The S&P-Case-Shiller index of United States real estate pricing shows a decline of 12.7% from February 2007 to February 2008, with 17 of 20 regions showing falls. ](/news/2008/04/29/the-s-p-case-shiller-index-of-united-states-real-estate-pricing-shows-a-decline-of-12-7-from-february-2007-to-february-2008-with-17-of-20.md)
-_Context: real estate pricing, Case-Shiller index, Economy of the United States, Standard & Poor's, United States_
+_Context: Standard & Poor's, Case-Shiller index, Economy of the United States, real estate pricing, United States_
 
 ##### Grand Theft Auto IV
 ### [ Grand Theft Auto IV is released worldwide, sparking a windfall of sales. The game would go on to become the fastest selling game in 24 hours by selling 609,000 copies. ](/news/2008/04/29/grand-theft-auto-iv-is-released-worldwide-sparking-a-windfall-of-sales-the-game-would-go-on-to-become-the-fastest-selling-game-in-24-hour.md)
@@ -17,15 +17,15 @@ _Context: Global food price crisis, United Nations Secretary-General, Ban Ki-moo
 
 ##### Nangarhar Province
 ### [ An explosion in the Nangarhar Province of Afghanistan kills at least 15 Afghans with another 25 injured. ](/news/2008/04/29/an-explosion-in-the-nangarhar-province-of-afghanistan-kills-at-least-15-afghans-with-another-25-injured.md)
-_Context: Afghan, Nangarhar Province_
+_Context: Nangarhar Province, Afghan_
 
 ##### European Union
 ### [ The European Union signs the Stabilisation and Association Agreement with Serbia prior to the decisive elections on 11 May 2008, but makes ratification conditional on full cooperation with the ICTY. ](/news/2008/04/29/the-european-union-signs-the-stabilisation-and-association-agreement-with-serbia-prior-to-the-decisive-elections-on-11-may-2008-but-makes.md)
-_Context: European Union, Serbia, parliamentary election, ICTY, Stabilisation and Association Agreement_
+_Context: Serbia, parliamentary election, Stabilisation and Association Agreement, European Union, ICTY_
 
 ##### Lithuania
 ### [ Lithuania blocked the beginning of talks on a strategic deal between the European Union and Russia because of ongoing disputes with Moscow ](/news/2008/04/29/lithuania-blocked-the-beginning-of-talks-on-a-strategic-deal-between-the-european-union-and-russia-because-of-ongoing-disputes-with-moscow.md)
-_Context: Moscow, Russia, Lithuania, European Union_
+_Context: European Union, Russia, Moscow, Lithuania_
 
 ## [Previous Day...](/news/2008/04/28/index.md)
 

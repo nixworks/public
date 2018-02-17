@@ -5,7 +5,7 @@ Formats: [HTML](2004/12/31/index.html)  [JSON](2004/12/31/index.json)  [XML](200
 
 ##### Colombia
 ### [ Colombia extradites FARC leader Simon Trinidad to the United States to face conspiracy, kidnapping, and drug trafficking charges. ](/news/2004/12/31/colombia-extradites-farc-leader-sima3n-trinidad-to-the-united-states-to-face-conspiracy-kidnapping-and-drug-trafficking-charges.md)
-_Context: Colombia, Simon Trinidad, Revolutionary Armed Forces of Colombia_
+_Context: Simon Trinidad, Revolutionary Armed Forces of Colombia, Colombia_
 
 ##### Ukraine
 ### [ Ukraine's Viktor Yanukovych resigns from his post as Prime Minister. ](/news/2004/12/31/ukraine-s-viktor-yanukovych-resigns-from-his-post-as-prime-minister.md)
@@ -17,11 +17,11 @@ _Context: Chen Shui-bian, Taiwan, President, Taipei 101_
 
 ##### Indonesia
 ### [ Indonesia's ambassador to Malaysia, Rusdihardjo, claims that the death toll from the 2004 Indian Ocean earthquake may eventually exceed 400,000 in Indonesia alone. (](/news/2004/12/31/indonesia-s-ambassador-to-malaysia-rusdihardjo-claims-that-the-death-toll-from-the-2004-indian-ocean-earthquake-may-eventually-exceed-400.md)
-_Context: Indonesia, 2004 Indian Ocean earthquake, Malaysia_
+_Context: 2004 Indian Ocean earthquake, Malaysia, Indonesia_
 
 ##### Palestinians
 ### [ At least two Palestinians are killed when an Israeli aircraft fires a missile at the Khan Younis refugee camp in the Gaza Strip. ](/news/2004/12/31/at-least-two-palestinians-are-killed-when-an-israeli-aircraft-fires-a-missile-at-the-khan-younis-refugee-camp-in-the-gaza-strip.md)
-_Context: Khan Younis, Gaza Strip, Israel, Palestinians_
+_Context: Israel, Palestinians, Gaza Strip, Khan Younis_
 
 ##### Pakistan
 ### [ In Pakistan, president Pervez Musharraf announces that he will keep his additional role as an army chief. He had previously stated that he would give it up. ](/news/2004/12/31/in-pakistan-president-pervez-musharraf-announces-that-he-will-keep-his-additional-role-as-an-army-chief-he-had-previously-stated-that-he.md)

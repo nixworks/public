@@ -5,7 +5,7 @@ Formats: [HTML](2011/08/1/index.html)  [JSON](2011/08/1/index.json)  [XML](2011/
 
 ##### Recent unrest
 ### [At least 11 people, including 5 suspects, are killed and 15 others are injured on Sunday's violence in China's Xinjiang region, raising the death toll to 20 over the weekend attacks in Kashgar. ](/news/2011/08/1/at-least-11-people-including-5-suspects-are-killed-and-15-others-are-injured-on-sunday-s-violence-in-china-s-xinjiang-region-raising-the.md)
-_Context: Kashgar, Xinjiang, China, recent unrest_
+_Context: Kashgar, Xinjiang, recent unrest, China_
 
 ##### 
 ### [More than 142 people are killed across the country in a continuing crackdown on protests. ](/news/2011/08/1/more-than-142-people-are-killed-across-the-country-in-a-continuing-crackdown-on-protests.md)
@@ -29,7 +29,7 @@ _Context: BBC_
 
 ##### Anna Bligh
 ### [Anna Bligh, the Premier of Queensland, releases the results of an inquiry into the 2010-2011 Queensland floods which killed 35 people. ](/news/2011/08/1/anna-bligh-the-premier-of-queensland-releases-the-results-of-an-inquiry-into-the-2010a2011-queensland-floods-which-killed-35-people.md)
-_Context: Premier, inquiry, Anna Bligh, floods_
+_Context: Premier, floods, inquiry, Anna Bligh_
 
 ##### Italian
 ### [The Italian news agency Agenzia Nazionale Stampa Associata reports that 25 refugees have been found dead in a boat off the coast of Lampedusa. ](/news/2011/08/1/the-italian-news-agency-agenzia-nazionale-stampa-associata-reports-that-25-refugees-have-been-found-dead-in-a-boat-off-the-coast-of-lampedus.md)
@@ -37,19 +37,19 @@ Italian authorities found 25 dead bodies in a boat that was carrying refugees an
 
 ##### Hurricane Rina
 ### [Tropical Storm Emily forms in the Atlantic Ocean with tropical storm warnings issued for Puerto Rico, Guadeloupe, Desirade, Les Saintes, Marie Galante and the Dominican Republic. ](/news/2011/08/1/tropical-storm-emily-forms-in-the-atlantic-ocean-with-tropical-storm-warnings-issued-for-puerto-rico-guadeloupe-desirade-les-saintes-mar.md)
-_Context: Dominican Republic, Puerto Rico, tropical storm, Atlantic Ocean, Guadeloupe, Les Saintes, Marie Galante, Desirade, Hurricane Rina_
+_Context: Hurricane Rina, tropical storm, Marie Galante, Dominican Republic, Les Saintes, Guadeloupe, Desirade, Atlantic Ocean, Puerto Rico_
 
 ##### North Korea
 ### [North Korea agrees to further talks with the United States as part of efforts to restore Six Party talks on its nuclear weapons program. ](/news/2011/08/1/north-korea-agrees-to-further-talks-with-the-united-states-as-part-of-efforts-to-restore-six-party-talks-on-its-nuclear-weapons-program.md)
-_Context: North Korea's nuclear program, United States, North Korea, Six Party talks_
+_Context: Six Party talks, North Korea, North Korea's nuclear program, United States_
 
 ##### South Korea
 ### [South Korea bans three Japanese lawmakers all from the Liberal Democratic Party due to an assertion of Japanese sovereignty over the Liancourt Rocks. ](/news/2011/08/1/south-korea-bans-three-japanese-lawmakers-all-from-the-liberal-democratic-party-due-to-an-assertion-of-japanese-sovereignty-over-the-liancou.md)
-_Context: Japanese, Liancourt Rocks, South Korea, Liberal Democratic Party, sovereignty_
+_Context: Liancourt Rocks, Japanese, Liberal Democratic Party, South Korea, sovereignty_
 
 ##### Kevin Rudd
 ### [Kevin Rudd, the Minister for Foreign Affairs and former Prime Minister of Australia, goes into hospital to have the aortic valve in his heart replaced. ](/news/2011/08/1/kevin-rudd-the-minister-for-foreign-affairs-and-former-prime-minister-of-australia-goes-into-hospital-to-have-the-aortic-valve-in-his-hear.md)
-_Context: Australian Prime Minister, aortic valve, Australian Foreign Minister, Kevin Rudd_
+_Context: Kevin Rudd, Australian Prime Minister, aortic valve, Australian Foreign Minister_
 
 ##### United States House of Representatives
 ### [The United States House of Representatives passes legislation to raise the debt ceiling and avert the 2011 U.S. debt ceiling crisis. ](/news/2011/08/1/the-united-states-house-of-representatives-passes-legislation-to-raise-the-debt-ceiling-and-avert-the-2011-u-s-debt-ceiling-crisis.md)
@@ -57,7 +57,7 @@ The US House of Representatives has approved legislation to avert a disastrous d
 
 ##### United States Senate
 ### [The United States Senate fails to pass a bill ending the partial shutdown of the Federal Aviation Administration. ](/news/2011/08/1/the-united-states-senate-fails-to-pass-a-bill-ending-the-partial-shutdown-of-the-federal-aviation-administration.md)
-_Context: United States Senate, Federal Aviation Administration_
+_Context: Federal Aviation Administration, United States Senate_
 
 ## [Previous Day...](/news/2011/07/31/index.md)
 

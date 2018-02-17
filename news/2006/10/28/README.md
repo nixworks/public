@@ -5,7 +5,7 @@ Formats: [HTML](2006/10/28/index.html)  [JSON](2006/10/28/index.json)  [XML](200
 
 ##### Henry Obering
 ### [ General Henry Obering, the head of the Pentagon's Missile Defense Agency welcomes what he cast as epochal progress toward putting a high-energy laser aboard a modified Boeing 747 to attack ballistic missiles that could be fired by North Korea and Iran. ](/news/2006/10/28/general-henry-obering-the-head-of-the-pentagon-s-missile-defense-agency-welcomes-what-he-cast-as-epochal-progress-toward-putting-a-high-en.md)
-_Context: North Korea, Missile Defense Agency, the Pentagon, Iran, Boeing 747, laser, ballistic missiles, Henry Obering_
+_Context: North Korea, Henry Obering, ballistic missiles, laser, Boeing 747, Iran, the Pentagon, Missile Defense Agency_
 
 ##### Cuba
 ### [ Cuban television shows images of convalescing leader Fidel Castro walking and reading the day's newspapers showing that he is recovering from his emergency surgery in July. ](/news/2006/10/28/cuban-television-shows-images-of-convalescing-leader-fidel-castro-walking-and-reading-the-day-s-newspapers-showing-that-he-is-recovering-fr.md)
@@ -13,11 +13,11 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Russia
 ### [ The Russian political parties Rodina, the Russian Party of Life and the Russian Pensioners' Party merge to form a new leftist party, Fair Russia, effectively making Sergey Mironov the new leader of the opposition in the Russian legislature. ](/news/2006/10/28/the-russian-political-parties-rodina-the-russian-party-of-life-and-the-russian-pensioners-party-merge-to-form-a-new-leftist-party-fair-r.md)
-_Context: Sergey Mironov, Russian Pensioners' Party, political parties, Federal Assembly, Fair Russia, opposition party, Russia, Rodina, Russian Party of Life_
+_Context: Russian Party of Life, political parties, Sergey Mironov, Russia, Russian Pensioners' Party, opposition party, Fair Russia, Federal Assembly, Rodina_
 
 ##### Iraq Prime Minister
 ### [ Prime Minister of Iraq Nouri al-Maliki tells the U.S. ambassador that he is Washington's friend but "not America's man in Iraq." ](/news/2006/10/28/prime-minister-of-iraq-nouri-al-maliki-tells-the-u-s-ambassador-that-he-is-washington-s-friend-but-not-america-s-man-in-iraq.md)
-_Context: United States of America, Washington D.C., Iraq Prime Minister, Nouri al-Maliki, Iraq_
+_Context: Iraq, United States of America, Nouri al-Maliki, Washington D.C., Iraq Prime Minister_
 
 ##### Bus crash
 ### [ At least 42 people are killed in a bus crash in Nepal. ](/news/2006/10/28/at-least-42-people-are-killed-in-a-bus-crash-in-nepal.md)
@@ -29,7 +29,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Genome
 ### [ The genome of the honeybee "Apis mellifera" has been fully sequenced and analyzed. ](/news/2006/10/28/the-genome-of-the-honeybee-apis-mellifera-has-been-fully-sequenced-and-analyzed.md)
-_Context: Apis mellifera, honeybee, genome_
+_Context: honeybee, genome, Apis mellifera_
 
 ##### German
 ### [ German newspaper Bild publishes photos allegedly showing Bundeswehr troops posing with human remains in Afghanistan while on peacekeeping duties there. ](/news/2006/10/28/german-newspaper-bild-publishes-photos-allegedly-showing-bundeswehr-troops-posing-with-human-remains-in-afghanistan-while-on-peacekeeping-d.md)
@@ -37,15 +37,15 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### NATO
 ### [ NATO apologizes for the deaths of Afghan civilians in an air raid on Tuesday, October 24, in Kandahar province, blaming Taliban insurgents for using the villagers as cover. ](/news/2006/10/28/nato-apologizes-for-the-deaths-of-afghan-civilians-in-an-air-raid-on-tuesday-october-24-in-kandahar-province-blaming-taliban-insurgents.md)
-_Context: Taliban, Kandahar province, NATO, airstrike, October 24_
+_Context: airstrike, October 24, Taliban, NATO, Kandahar province_
 
 ##### Serbian constitutional referendum, 2006
 ### [ Voting begins on a new Serbian constitution that would make Kosovo officially a part of Serbia; voter turnout on day one was low. ](/news/2006/10/28/voting-begins-on-a-new-serbian-constitution-that-would-make-kosovo-officially-a-part-of-serbia-voter-turnout-on-day-one-was-low.md)
-_Context: Serbian constitutional referendum, 2006, voter turnout, officially a part of, Serbia, Kosovo_
+_Context: voter turnout, Serbia, Serbian constitutional referendum, 2006, officially a part of, Kosovo_
 
 ##### Kabila government
 ### [ Joseph Kabila and Jean-Pierre Bemba face-off in the presidential run-off election in Democratic Republic of the Congo. ](/news/2006/10/28/joseph-kabila-and-jean-pierre-bemba-face-off-in-the-presidential-run-off-election-in-democratic-republic-of-the-congo.md)
-_Context: Kabila government, Jean-Pierre Bemba, DR Congo, presidential candidate in 2006_
+_Context: presidential candidate in 2006, Jean-Pierre Bemba, Kabila government, DR Congo_
 
 ## [Previous Day...](/news/2006/10/27/index.md)
 

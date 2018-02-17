@@ -9,11 +9,11 @@ _Context: missile defense, United States, Czech Republic_
 
 ##### President
 ### [ The President of Iran Mahmoud Ahmadinejad indicates that he does not expect an attack by the United States or Israel because he considers George W. Bush to be a lame duck president. ](/news/2008/07/8/the-president-of-iran-mahmoud-ahmadinejad-indicates-that-he-does-not-expect-an-attack-by-the-united-states-or-israel-because-he-considers-g.md)
-_Context: Iran, George W. Bush, President, United States, lame duck president, Israel, Mahmoud Ahmadinejad_
+_Context: President, George W. Bush, United States, lame duck president, Iran, Mahmoud Ahmadinejad, Israel_
 
 ##### G8 group of nations
 ### [ Leaders of the G8 nations meeting at the 34th G8 summit in Japan agree to a target of cutting world greenhouse gas emissions by at least 50% by 2050. ](/news/2008/07/8/leaders-of-the-g8-nations-meeting-at-the-34th-g8-summit-in-japan-agree-to-a-target-of-cutting-world-greenhouse-gas-emissions-by-at-least-50.md)
-_Context: 34th G8 summit, G8 group of nations, 2050, Japan, greenhouse gas_
+_Context: G8 group of nations, 2050, 34th G8 summit, greenhouse gas, Japan_
 
 ##### Prime Minister
 ### [ The former Prime Minister of Thailand Thaksin Shinawatra goes on trial facing corruption charges. ](/news/2008/07/8/the-former-prime-minister-of-thailand-thaksin-shinawatra-goes-on-trial-facing-corruption-charges.md)
@@ -21,7 +21,7 @@ _Context: Prime Minister, Thaksin Shinawatra_
 
 ##### Prime Minister
 ### [ The Prime Minister of Pakistan Yousaf Raza Gillani denies any involvement in the 2008 Indian embassy bombing in Kabul. The Government of Afghanistan has hinted that it believes that Pakistan's Inter-Services Intelligence had some involvement. ](/news/2008/07/8/the-prime-minister-of-pakistan-yousaf-raza-gillani-denies-any-involvement-in-the-2008-indian-embassy-bombing-in-kabul-the-government-of-af.md)
-_Context: Prime Minister, suicide attack, Pakistan, Afghan government, Yousaf Raza Gillani, Inter-Services Intelligence_
+_Context: Pakistan, Prime Minister, Yousaf Raza Gillani, suicide attack, Afghan government, Inter-Services Intelligence_
 
 ##### Zambia
 ### [ Zambian President Levy Mwanawasa is stable after undergoing an operation to improve his breathing, his deputy says. ](/news/2008/07/8/zambian-president-levy-mwanawasa-is-stable-after-undergoing-an-operation-to-improve-his-breathing-his-deputy-says.md)

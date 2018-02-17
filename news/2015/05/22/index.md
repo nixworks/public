@@ -21,7 +21,7 @@ Li Hejun&nbsp;began the day as China’s second-richest man with a fortune worth
 
 ##### Wembley Stadium
 ### [Surrounding areas of Wembley Stadium, London, UK have been evacuated following the discovery by construction crews of a still-live World War II-era 50-kg (110-llb) conventional-explosive bomb, a remnant of the Blitz. ](/news/2015/05/22/surrounding-areas-of-wembley-stadium-london-uk-have-been-evacuated-following-the-discovery-by-construction-crews-of-a-still-live-world-war.md)
-_Context: Wembley Stadium, London, bomb, World War II, United Kingdom, the Blitz_
+_Context: bomb, World War II, the Blitz, Wembley Stadium, London, United Kingdom_
 
 ##### Myanmar Navy
 ### [The Myanmar Navy rescues two boats carrying 208 migrants as it faces growing international pressure to tackle the Rohingya migration crisis. ](/news/2015/05/22/the-myanmar-navy-rescues-two-boats-carrying-208-migrants-as-it-faces-growing-international-pressure-to-tackle-the-rohingya-migration-crisis.md)

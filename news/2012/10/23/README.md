@@ -13,7 +13,7 @@ At least nine people have been killed in car bomb and mortar attacks in predomin
 
 ##### Pakistani
 ### [A young Pakistani man, whose father was killed by drones alongside 40 others in March 2011, seeks to block the sharing of British intelligence with the CIA. This represents the first serious legal challenge in the English courts to Britain's involvement in the drones campaign. ](/news/2012/10/23/a-young-pakistani-man-whose-father-was-killed-by-drones-alongside-40-others-in-march-2011-seeks-to-block-the-sharing-of-british-intelligen.md)
-_Context: Pakistani, drone, CIA_
+_Context: CIA, Pakistani, drone_
 
 ##### Skyfall
 ### ["Skyfall", the 23rd James Bond film, receives its Royal premiere at London's Royal Albert Hall. ](/news/2012/10/23/skyfall-the-23rd-james-bond-film-receives-its-royal-premiere-at-london-s-royal-albert-hall.md)
@@ -73,7 +73,7 @@ _Context: Japanese Justice Minister, Keishu Tanaka_
 
 ##### Member of the Scottish Parliament
 ### [Two MSPs - John Finnie and Jean Urquhart - resign from the Scottish National Party over its stance on NATO, effectively reducing the party's absolute majority in the Scottish Parliament to two. ](/news/2012/10/23/two-msps-a-john-finnie-and-jean-urquhart-a-resign-from-the-scottish-national-party-over-its-stance-on-nato-effectively-reducing-the-par.md)
-_Context: Scottish Parliament, Member of the Scottish Parliament, Scottish National Party, NATO, Jean Urquhart, John Finnie_
+_Context: Scottish National Party, NATO, Jean Urquhart, John Finnie, Member of the Scottish Parliament, Scottish Parliament_
 
 ## [Previous Day...](/news/2012/10/22/index.md)
 

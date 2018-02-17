@@ -9,7 +9,7 @@ President confirms death of French engineer captured by fighters in North Africa
 
 ##### United States
 ### [The United States, European Union and United Nations pledge additional resources to the African Union's AMISOM peacekeeping force in Somalia. ](/news/2010/07/26/the-united-states-european-union-and-united-nations-pledge-additional-resources-to-the-african-union-s-amisom-peacekeeping-force-in-somalia.md)
-_Context: AMISOM, European Union, United Nations, African Union, peacekeeping force, United States, Somalia_
+_Context: United States, African Union, United Nations, AMISOM, Somalia, peacekeeping force, European Union_
 
 ##### Car bomb
 ### [Two car bombs explode near the southern Iraqi city of Karbala, killing at least twenty people. ](/news/2010/07/26/two-car-bombs-explode-near-the-southern-iraqi-city-of-karbala-killing-at-least-twenty-people.md)
@@ -17,15 +17,15 @@ The southern Iraqi city of Karbala is hit by a double car bombing leaving at lea
 
 ##### Bus
 ### [At least 26 people die after a bus crashes in the Daman District in the Kandahar Province of Afghanistan. ](/news/2010/07/26/at-least-26-people-die-after-a-bus-crashes-in-the-daman-district-in-the-kandahar-province-of-afghanistan.md)
-_Context: Daman district, bus, Afghan, Kandahar Province_
+_Context: Afghan, Kandahar Province, Daman district, bus_
 
 ##### Israeli Air Force
 ### [An Israeli Air Force helicopter crashes in Romania with six Israeli airmen and a Romanian military observer on board; all are feared dead. ](/news/2010/07/26/an-israeli-air-force-helicopter-crashes-in-romania-with-six-israeli-airmen-and-a-romanian-military-observer-on-board-all-are-feared-dead.md)
-_Context: crashes, Romania, Israeli Air Force_
+_Context: Israeli Air Force, crashes, Romania_
 
 ##### Khmer Rouge
 ### [Former Khmer Rouge prison chief Duch receives the verdict in his trial in Phnom Penh - the first of five surviving senior figures to do so. He is sentenced to 35 years in prison with 16 years off for time served. ](/news/2010/07/26/former-khmer-rouge-prison-chief-duch-receives-the-verdict-in-his-trial-in-phnom-penh-the-first-of-five-surviving-senior-figures-to-do-so.md)
-_Context: Phnom Penh, Duch, Khmer Rouge_
+_Context: Duch, Khmer Rouge, Phnom Penh_
 
 ##### United States
 ### [United States investigators associated with INTERPOL track 200 bank accounts associated with alleged North Korean drug smuggling, counterfeiting, money laundering and arms trafficking. ](/news/2010/07/26/united-states-investigators-associated-with-interpol-track-200-bank-accounts-associated-with-alleged-north-korean-drug-smuggling-counterfei.md)
@@ -37,7 +37,7 @@ More than 90,000 secret US military records are leaked to the media by Wikileaks
 
 ##### Plastiki
 ### [The "Plastiki", a catamaran made out of recycled plastic, arrives in Sydney, Australia, after travelling across the Pacific Ocean from San Francisco, United States, to raise awareness of environmental issues. ](/news/2010/07/26/the-plastiki-a-catamaran-made-out-of-recycled-plastic-arrives-in-sydney-australia-after-travelling-across-the-pacific-ocean-from-san-f.md)
-_Context: South Pacific Ocean, catamaran, recycling, environmental, United States, Sydney, San Francisco, California, Australia, plastic, Plastiki_
+_Context: Plastiki, Australia, San Francisco, California, plastic, South Pacific Ocean, environmental, recycling, catamaran, Sydney, United States_
 
 ##### 2010 European Athletics Championships
 ### [The opening ceremony of the 2010 European Athletics Championships takes place in Barcelona. ](/news/2010/07/26/the-opening-ceremony-of-the-2010-european-athletics-championships-takes-place-in-barcelona.md)

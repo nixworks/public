@@ -21,7 +21,7 @@ _Context: Mali, Tuareg Rebellion (2011-present)_
 
 ##### Greek government debt crisis
 ### [Greek government debt crisis: discussions among the three parties within the ruling coalition in Greece are postponed, at least in part because the paperwork wasn't ready. ](/news/2012/02/7/greek-government-debt-crisis-discussions-among-the-three-parties-within-the-ruling-coalition-in-greece-are-postponed-at-least-in-part-beca.md)
-_Context: Greek government debt crisis, Greece_
+_Context: Greece, Greek government debt crisis_
 
 ##### Philippines
 ### [Rescuers in the Philippines search for survivors of the 2012 Negros Oriental earthquake with the death toll so far confirmed at 43. ](/news/2012/02/7/rescuers-in-the-philippines-search-for-survivors-of-the-2012-negros-oriental-earthquake-with-the-death-toll-so-far-confirmed-at-43.md)
@@ -37,11 +37,11 @@ Argentina will make a formal complaint to the UN about British &quot;militarisat
 
 ##### United States Court of Appeals for the Ninth Circuit
 ### [The United States Court of Appeals for the Ninth Circuit overturns California's Proposition 8 banning gay marriage in that state. ](/news/2012/02/7/the-united-states-court-of-appeals-for-the-ninth-circuit-overturns-california-s-proposition-8-banning-gay-marriage-in-that-state.md)
-_Context: California, California Proposition 8, United States Court of Appeals for the Ninth Circuit, gay marriage_
+_Context: California, gay marriage, California Proposition 8, United States Court of Appeals for the Ninth Circuit_
 
 ##### United States
 ### [Manssor Arbabsiar will face a trial on October 22 in the United States for his role in the 2011 alleged Iran assassination plot against the Saudi Arabian ambassador. ](/news/2012/02/7/manssor-arbabsiar-will-face-a-trial-on-october-22-in-the-united-states-for-his-role-in-the-2011-alleged-iran-assassination-plot-against-the.md)
-_Context: Saudi Arabia, United States, 2011 alleged Iran assassination plot_
+_Context: Saudi Arabia, 2011 alleged Iran assassination plot, United States_
 
 ##### U.S. Republican Party presidential primaries
 ### [Republican Party voters in Colorado participate in caucuses with 36 delegates at stake - Santorum wins, with Mitt Romney placing second. ](/news/2012/02/7/republican-party-voters-in-colorado-participate-in-caucuses-with-36-delegates-at-stake-santorum-wins-with-mitt-romney-placing-second.md)
@@ -49,11 +49,11 @@ US conservative Rick Santorum wins races for the Republican presidential nominat
 
 ##### Government
 ### [The French Cabinet walks out of the National Assembly after Socialist Party MP Serge Letchimy accuses Interior Minister Claude Gueant of flirting with Nazi ideology in his statement that "not all civilisations are of equal value". ](/news/2012/02/7/the-french-cabinet-walks-out-of-the-national-assembly-after-socialist-party-mp-serge-letchimy-accuses-interior-minister-claude-gua-c-ant-of-fl.md)
-_Context: Claude Gueant, Serge Letchimy, National Assembly, government, Nazi, PS_
+_Context: government, Nazi, PS, National Assembly, Claude Gueant, Serge Letchimy_
 
 ##### Iran
 ### [The Iranian parliament summons president Mahmoud Ahmadinejad over economic policy, in the first such summons since the Iranian Revolution. ](/news/2012/02/7/the-iranian-parliament-summons-president-mahmoud-ahmadinejad-over-economic-policy-in-the-first-such-summons-since-the-iranian-revolution.md)
-_Context: Mahmoud Ahmadinejad, Iranian Revolution, Islamic Consultative Assembly, Iran_
+_Context: Iranian Revolution, Iran, Mahmoud Ahmadinejad, Islamic Consultative Assembly_
 
 ##### Law
 ### [An anti-gay bill is reintroduced in the Ugandan parliament after it was previously withdrawn. ](/news/2012/02/7/an-anti-gay-bill-is-reintroduced-in-the-ugandan-parliament-after-it-was-previously-withdrawn.md)
@@ -61,7 +61,7 @@ _Context: law, Uganda_
 
 ##### Congress
 ### [The United States Congress votes to pass legislation allowing for greater use of drone aircraft in the United States. ](/news/2012/02/7/the-united-states-congress-votes-to-pass-legislation-allowing-for-greater-use-of-drone-aircraft-in-the-united-states.md)
-_Context: drone aircraft, United States, Congress_
+_Context: Congress, drone aircraft, United States_
 
 ## [Previous Day...](/news/2012/02/6/index.md)
 

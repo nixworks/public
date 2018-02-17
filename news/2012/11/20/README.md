@@ -21,7 +21,7 @@ _Context: Congo_
 
 ##### Sesame Street
 ### ["Sesame Street" puppeteer Kevin Clash, known for being the voice of Elmo, resigns after a second accuser files a complaint that Clash had underage sexual relations with him. ](/news/2012/11/20/sesame-street-puppeteer-kevin-clash-known-for-being-the-voice-of-elmo-resigns-after-a-second-accuser-files-a-complaint-that-clash-had-un.md)
-_Context: Elmo, Sesame Street, Kevin Clash_
+_Context: Kevin Clash, Sesame Street, Elmo_
 
 ##### David Cameron
 ### [David Cameron announces that the 39th G8 summit will be held in Lough Erne, County Fermanagh, Northern Ireland on June 2013. ](/news/2012/11/20/david-cameron-announces-that-the-39th-g8-summit-will-be-held-in-lough-erne-county-fermanagh-northern-ireland-on-june-2013.md)
@@ -41,19 +41,19 @@ A court in Croatia sentences former Prime Minister Ivo Sanader to 10 years in pr
 
 ##### Rogue trader
 ### [Rogue trader at Swiss bank UBS Kweku Adoboli is found guilty and is sentenced to seven years in prison for his role in the 2011 UBS rogue trader scandal. ](/news/2012/11/20/rogue-trader-at-swiss-bank-ubs-kweku-adoboli-is-found-guilty-and-is-sentenced-to-seven-years-in-prison-for-his-role-in-the-2011-ubs-rogue-tr.md)
-_Context: 2011 UBS rogue trader scandal, Rogue trader, Swiss, UBS, Kweku Adoboli_
+_Context: Rogue trader, UBS, Swiss, 2011 UBS rogue trader scandal, Kweku Adoboli_
 
-##### China
+##### Chinese
 ### [China appoints Sun Zhengcai as new chief for the city of Chongqing, once led by disgraced politician Bo Xilai. ](/news/2012/11/20/china-appoints-sun-zhengcai-as-new-chief-for-the-city-of-chongqing-once-led-by-disgraced-politician-bo-xilai.md)
 China appoints a new Communist Party chief in Chongqing, the city once led by disgraced politician Bo Xilai.
 
 ##### General Synod of the Church of England
 ### [The General Synod of the Church of England narrowly rejects a motion to allow women to become bishops. ](/news/2012/11/20/the-general-synod-of-the-church-of-england-narrowly-rejects-a-motion-to-allow-women-to-become-bishops.md)
-_Context: bishops, General Synod of the Church of England_
+_Context: General Synod of the Church of England, bishops_
 
 ##### United Nations
 ### [The United Nations World Meteorological Organisation says that greenhouse gases reached record levels in 2011. ](/news/2012/11/20/the-united-nations-world-meteorological-organisation-says-that-greenhouse-gases-reached-record-levels-in-2011.md)
-_Context: World Meteorological Organisation, greenhouse gas, United Nations_
+_Context: United Nations, greenhouse gas, World Meteorological Organisation_
 
 ## [Previous Day...](/news/2012/11/19/index.md)
 

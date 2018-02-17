@@ -5,7 +5,7 @@ Formats: [HTML](2008/04/26/index.html)  [JSON](2008/04/26/index.json)  [XML](200
 
 ##### Fire
 ### [ The death toll from a fire in a mattress factory in the Hay Hassani district of Casablanca rises to 55. ](/news/2008/04/26/the-death-toll-from-a-fire-in-a-mattress-factory-in-the-hay-hassani-district-of-casablanca-rises-to-55.md)
-_Context: fire, mattress, Casablanca, factory_
+_Context: fire, Casablanca, factory, mattress_
 
 ##### Somali pirates
 ### [ The 26 members of the Spanish FV "Playa de Bakio" are released by Somali pirates. ](/news/2008/04/26/the-26-members-of-the-spanish-fv-playa-de-bakio-are-released-by-somali-pirates.md)

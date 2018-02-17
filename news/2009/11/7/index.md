@@ -9,11 +9,11 @@ _Context: Texas, United Kingdom_
 
 ##### Saudi Arabia
 ### [ Saudi forces bomb a Houthi rebel stronghold in northern Yemen for a third day. ](/news/2009/11/7/saudi-forces-bomb-a-houthi-rebel-stronghold-in-northern-yemen-for-a-third-day.md)
-_Context: due to fighting, Yemen, Saudi Arabia, Houthi_
+_Context: Saudi Arabia, due to fighting, Yemen, Houthi_
 
 ##### Bermeo
 ### [ Thousands of people in Bermeo, Spain, demonstrate for the release of 36 Spanish fishermen being held by Somali pirates. ](/news/2009/11/7/thousands-of-people-in-bermeo-spain-demonstrate-for-the-release-of-36-spanish-fishermen-being-held-by-somali-pirates.md)
-_Context: Spain, Somali pirates, Bermeo_
+_Context: Somali pirates, Spain, Bermeo_
 
 ##### Andorra
 ### [ At least two workers are killed after a bridge under construction collapses in Andorra. ](/news/2009/11/7/at-least-two-workers-are-killed-after-a-bridge-under-construction-collapses-in-andorra.md)
@@ -33,11 +33,11 @@ Dinosaur footprints found in northwest Nelson have given scientists their first 
 
 ##### Russia
 ### [ 11 people are confirmed dead after the crashing of a Russian military plane into the sea in the Tatar Strait, in the far east of Russia, yesterday. ](/news/2009/11/7/11-people-are-confirmed-dead-after-the-crashing-of-a-russian-military-plane-into-the-sea-in-the-tatar-strait-in-the-far-east-of-russia-ye.md)
-_Context: Tatar Strait, Russia_
+_Context: Russia, Tatar Strait_
 
 ##### Northern Mariana Islands
 ### [ Voters in the Northern Mariana Islands go to the polls to elect the governor, legislature and local municipal offices. ](/news/2009/11/7/voters-in-the-northern-mariana-islands-go-to-the-polls-to-elect-the-governor-legislature-and-local-municipal-offices.md)
-_Context: 2009 gubernatorial election and runoff, Northern Mariana Islands, legislature, go to the polls, municipal_
+_Context: Northern Mariana Islands, municipal, 2009 gubernatorial election and runoff, go to the polls, legislature_
 
 ##### Venezuela
 ### [ Venezuela deploys 15,000 soldiers to its border with Colombia. ](/news/2009/11/7/venezuela-deploys-15-000-soldiers-to-its-border-with-colombia.md)

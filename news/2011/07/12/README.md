@@ -5,7 +5,7 @@ Formats: [HTML](2011/07/12/index.html)  [JSON](2011/07/12/index.json)  [XML](201
 
 ##### United States
 ### [7 people are killed and 3 others are injured by a United States drone attack in Pakistan's South Waziristan region. ](/news/2011/07/12/7-people-are-killed-and-3-others-are-injured-by-a-united-states-drone-attack-in-pakistan-s-south-waziristan-region.md)
-_Context: South Waziristan, Pakistan, drones launch, United States_
+_Context: South Waziristan, drones launch, United States, Pakistan_
 
 ##### Chile
 ### [Miners clash with police in Chile. ](/news/2011/07/12/miners-clash-with-police-in-chile.md)
@@ -41,7 +41,7 @@ _Context: EuroMillions_
 
 ##### Sherwood Schwartz
 ### [American television producer Sherwood Schwartz, the creator of "Gilligan's Island" and "The Brady Bunch", dies in Los Angeles, California. ](/news/2011/07/12/american-television-producer-sherwood-schwartz-the-creator-of-gilligan-s-island-and-the-brady-bunch-dies-in-los-angeles-california.md)
-_Context: Gilligan's Island, Sherwood Schwartz, The Brady Bunch, Los Angeles, California, California_
+_Context: California, Sherwood Schwartz, The Brady Bunch, Gilligan's Island, Los Angeles, California_
 
 ##### Irish
 ### [Ireland's debt rating is reduced to "junk" status by Moody's. ](/news/2011/07/12/ireland-s-debt-rating-is-reduced-to-junk-status-by-moody-s.md)
@@ -49,7 +49,7 @@ Credit agency Moody&#39;s has downgraded Ireland&#39;s debt rating to junk statu
 
 ##### Apple Inc.
 ### [Apple's chief patent lawyer is leaving the company, Reuters reports, amidst a slew of patent-related conflicts with Google, Samsung, Nokia, others. ](/news/2011/07/12/apple-s-chief-patent-lawyer-is-leaving-the-company-reuters-reports-amidst-a-slew-of-patent-related-conflicts-with-google-samsung-nokia.md)
-_Context: patent, Samsung, Nokia, Google, Apple Inc._
+_Context: patent, Google, Apple Inc., Samsung, Nokia_
 
 ##### Japan
 ### [Japanese officials announce their intention to send the country's whaling fleet back to Antarctica later in the year; the Sea Shepherd Conservation Society (SSCS) is also to return. ](/news/2011/07/12/japanese-officials-announce-their-intention-to-send-the-country-s-whaling-fleet-back-to-antarctica-later-in-the-year-the-sea-shepherd-conse.md)
@@ -57,7 +57,7 @@ Financial constraints, maritime regulations and campaigns by activists will not 
 
 ##### Evangelos Florakis Navy Base explosion
 ### [Evangelos Florakis Navy Base explosion: Thousands of people march on the Presidential Palace in Nicosia, Cyprus; police fire tear gas at the demonstrators who tie a banner to the palace gates stating "Christofias [their ruler] is a murderer and must go to jail". ](/news/2011/07/12/evangelos-florakis-navy-base-explosion-thousands-of-people-march-on-the-presidential-palace-in-nicosia-cyprus-police-fire-tear-gas-at-the.md)
-_Context: Cypriot, Presidential Palace, Evangelos Florakis Navy Base explosion, Christofias, Nicosia, tear gas_
+_Context: Evangelos Florakis Navy Base explosion, Nicosia, Cypriot, Christofias, Presidential Palace, tear gas_
 
 ##### Earthquake
 ### [Four earthquakes ranging from 5 to 6.2 in magnitude hit the Philippines. ](/news/2011/07/12/four-earthquakes-ranging-from-5-to-6-2-in-magnitude-hit-the-philippines.md)
@@ -81,7 +81,7 @@ WikiLeaks founder Julian Assange launches his appeal against a UK court&#039;s d
 
 ##### Parliament in Israel
 ### [The Knesset approves a new boycott law which would allow Israeli courts to impose heavy sanctions on Israeli individuals or organizations whom would initiate or promote a boycott against Israeli companies and entities.](/news/2011/07/12/the-knesset-approves-a-new-boycott-law-which-would-allow-israeli-courts-to-impose-heavy-sanctions-on-israeli-individuals-or-organizations-wh.md)
-_Context: parliament in Israel, boycott law_
+_Context: boycott law, parliament in Israel_
 
 ##### Guatemala
 ### [Guatemalan police arrest two men in relation to the assassination of Argentine singer Facundo Cabral as fans across the continent mourn his shooting and a tribute concert is held in his memory. ](/news/2011/07/12/guatemalan-police-arrest-two-men-in-relation-to-the-assassination-of-argentine-singer-facundo-cabral-as-fans-across-the-continent-mourn-his.md)
@@ -89,19 +89,19 @@ Police in Guatemala arrest two men in connection with the killing of Argentine s
 
 ##### United States Court of Appeals for the Ninth Circuit
 ### [A three judge panel of the U.S. 9th Circuit Court of Appeals rules that Jared Lee Loughner, the suspect in the 2011 Tucson shooting, has the right to refuse antipsychotic medication while he appeals the treatment prescribed by prison mental health authorities. ](/news/2011/07/12/a-three-judge-panel-of-the-u-s-9th-circuit-court-of-appeals-rules-that-jared-lee-loughner-the-suspect-in-the-2011-tucson-shooting-has-the.md)
-_Context: Jared Lee Loughner, antipsychotic, United States Court of Appeals for the Ninth Circuit, 2011 Tucson shooting_
+_Context: Jared Lee Loughner, United States Court of Appeals for the Ninth Circuit, antipsychotic, 2011 Tucson shooting_
 
 ##### Halle Berry
 ### [U.S. actress Halle Berry is granted a restraining order against a convicted felon arrested on her Hollywood Hills property on Monday. ](/news/2011/07/12/u-s-actress-halle-berry-is-granted-a-restraining-order-against-a-convicted-felon-arrested-on-her-hollywood-hills-property-on-monday.md)
-_Context: felons, Halle Berry, Hollywood Hills_
+_Context: Halle Berry, Hollywood Hills, felons_
 
 ##### CNN
 ### [CNN reports that the U.S. Bureau of Alcohol, Tobacco, Firearms, and Explosives has lost track of 1,400 guns involved in Operation Fast and Furious aimed at tracing the flow of weapons to Mexican drug cartels. ](/news/2011/07/12/cnn-reports-that-the-u-s-bureau-of-alcohol-tobacco-firearms-and-explosives-has-lost-track-of-1-400-guns-involved-in-operation-fast-and-f.md)
-_Context: Bureau of Alcohol, Tobacco, Firearms, and Explosives, CNN, Mexican drug cartel, Operation Fast and Furious_
+_Context: Operation Fast and Furious, Mexican drug cartel, CNN, Bureau of Alcohol, Tobacco, Firearms, and Explosives_
 
 ##### California's 36th congressional district
 ### [Voters in California's 36th congressional district go to the polls for a special election to replace former Rep. Jane Harman with Democrat Janice Hahn defeating Republican Craig Huey. ](/news/2011/07/12/voters-in-california-s-36th-congressional-district-go-to-the-polls-for-a-special-election-to-replace-former-rep-jane-harman-with-democrat-j.md)
-_Context: Jane Harman, Democrat, California's 36th congressional district, Craig Huey, special election, Republican, Janice Hahn_
+_Context: California's 36th congressional district, Republican, Janice Hahn, special election, Democrat, Craig Huey, Jane Harman_
 
 ##### The coalition
 ### [The UK Government states its intention to support a Labour Party motion in the House of Commons calling for the withdrawal of News Corporation's bid to take over BSkyB. ](/news/2011/07/12/the-uk-government-states-its-intention-to-support-a-labour-party-motion-in-the-house-of-commons-calling-for-the-withdrawal-of-news-corporati.md)
@@ -113,15 +113,15 @@ Former occupants of the White House and other US dignitaries gather at a Califor
 
 ##### Northern Ireland
 ### [In Northern Ireland, riots mark the culmination of the Belfast marching season. ](/news/2011/07/12/in-northern-ireland-riots-mark-the-culmination-of-the-belfast-marching-season.md)
-_Context: Northern Ireland, Belfast marching season_
+_Context: Belfast marching season, Northern Ireland_
 
 ##### Republican
 ### [U.S. Republican presidential candidate Ron Paul announces that he will not stand again for his Texas district in 2012. ](/news/2011/07/12/u-s-republican-presidential-candidate-ron-paul-announces-that-he-will-not-stand-again-for-his-texas-district-in-2012.md)
-_Context: Republican, district, Ron Paul, Texas_
+_Context: Texas, Republican, district, Ron Paul_
 
 ##### Governor
 ### [The Governor of the U.S. state of Arizona calls a recall election for state Senate President Russell Pearce known for his immigration legislation. ](/news/2011/07/12/the-governor-of-the-u-s-state-of-arizona-calls-a-recall-election-for-state-senate-president-russell-pearce-known-for-his-immigration-legisl.md)
-_Context: recall, Russell Pearce, U.S. state, Governor, Arizona, state Senate President_
+_Context: state Senate President, Russell Pearce, Arizona, Governor, U.S. state, recall_
 
 ##### NASA
 ### [NASA astronauts on board "Atlantis" complete the final spacewalk of the Space Shuttle era, recouping an ammonia pump on the International Space Station (ISS). ](/news/2011/07/12/nasa-astronauts-on-board-atlantis-complete-the-final-spacewalk-of-the-space-shuttle-era-recouping-an-ammonia-pump-on-the-international-sp.md)

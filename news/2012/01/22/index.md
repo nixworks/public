@@ -29,11 +29,11 @@ Sixteen bodies recovered after passenger boat sinks off southern coast due to en
 
 ##### Bosnia and Herzegovina
 ### [Police in Bosnia and Herzegovina recapture Bosnian Serb fugitive Radovan Stankovic after he escaped from prison five years ago. ](/news/2012/01/22/police-in-bosnia-and-herzegovina-recapture-bosnian-serb-fugitive-radovan-stankovia-after-he-escaped-from-prison-five-years-ago.md)
-_Context: Radovan Stankovic, Bosnia and Herzegovina, Bosnian Serb_
+_Context: Bosnia and Herzegovina, Bosnian Serb, Radovan Stankovic_
 
 ##### Madagascar
 ### [The party of former Madagascan President Marc Ravalomanana suspends its role in the unity government after the plane carrying him home from exile was turned away. ](/news/2012/01/22/the-party-of-former-madagascan-president-marc-ravalomanana-suspends-its-role-in-the-unity-government-after-the-plane-carrying-him-home-from.md)
-_Context: Madagascar, President, Marc Ravalomanana_
+_Context: Marc Ravalomanana, President, Madagascar_
 
 ##### Referendum on EU accession
 ### [A referendum on EU accession takes place in Croatia, with 66% voting to join the EU, and 33% against. ](/news/2012/01/22/a-referendum-on-eu-accession-takes-place-in-croatia-with-66-voting-to-join-the-eu-and-33-against.md)
@@ -41,7 +41,7 @@ _Context: referendum on EU accession_
 
 ##### United States House of Representatives
 ### [Representative Gabrielle Giffords of Arizona announces her resignation from office to focus on her recovery after surviving an attempted assassination in 2011. ](/news/2012/01/22/representative-gabrielle-giffords-of-arizona-announces-her-resignation-from-office-to-focus-on-her-recovery-after-surviving-an-attempted-ass.md)
-_Context: United States House of Representatives, Arizona, Gabrielle Giffords, attempted assassination_
+_Context: Gabrielle Giffords, attempted assassination, Arizona, United States House of Representatives_
 
 ##### Finnish Presidential election
 ### [The first round of the Presidential election takes place in Finland. ](/news/2012/01/22/the-first-round-of-the-presidential-election-takes-place-in-finland.md)
@@ -49,7 +49,7 @@ _Context: Finnish Presidential election_
 
 ##### Yemen
 ### [Yemeni President Ali Abdullah Saleh announces that he is to leave for treatment in the United States. ](/news/2012/01/22/yemeni-president-ali-abdullah-saleh-announces-that-he-is-to-leave-for-treatment-in-the-united-states.md)
-_Context: United States, President, Yemen, Ali Abdullah Saleh_
+_Context: United States, Ali Abdullah Saleh, Yemen, President_
 
 ## [Previous Day...](/news/2012/01/21/index.md)
 

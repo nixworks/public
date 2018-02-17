@@ -9,7 +9,7 @@ Arab League ministers agree to ask United Nations for joint force and special Ar
 
 ##### Turkey
 ### [Turkish warplanes carry out strikes against PKK hideouts in northern Iraq. ](/news/2012/02/12/turkish-warplanes-carry-out-strikes-against-pkk-hideouts-in-northern-iraq.md)
-_Context: Iraq, Kurdistan Workers' Party, Turkey_
+_Context: Kurdistan Workers' Party, Iraq, Turkey_
 
 ##### Hellenic Parliament
 ### [The Hellenic Parliament votes to approve austerity measures demanded in return for another bailout from the eurozone. ](/news/2012/02/12/the-hellenic-parliament-votes-to-approve-austerity-measures-demanded-in-return-for-another-bailout-from-the-eurozone.md)
@@ -21,7 +21,7 @@ _Context: Huallaga Valley, Comrade Artemio, National Police, Peruvian Army, Peru
 
 ##### 54th Grammy Awards
 ### [The 54th Grammy Awards for music are held at the Staples Center in the U.S. city of Los Angeles, with some of the show being re-worked to commemorate Whitney Houston. ](/news/2012/02/12/the-54th-grammy-awards-for-music-are-held-at-the-staples-center-in-the-u-s-city-of-los-angeles-with-some-of-the-show-being-re-worked-to-co.md)
-_Context: Los Angeles, Staples Center, Whitney Houston, 54th Grammy Awards, music_
+_Context: music, Whitney Houston, Los Angeles, Staples Center, 54th Grammy Awards_
 
 ##### British Academy of Film and Television Arts
 ### [The British Academy of Film and Television Arts Film Awards is held in London with "The Artist" winning the Award for best film. ](/news/2012/02/12/the-british-academy-of-film-and-television-arts-film-awards-is-held-in-london-with-the-artist-winning-the-award-for-best-film.md)
@@ -33,11 +33,11 @@ The NSW State Emergency Services have issued an evacuation order for people with
 
 ##### President
 ### [A senior aide to the President of the Democratic Republic of the Congo, Joseph Kabila, is killed, and the Finance Minister Matata Ponyo Mapon is injured in a plane crash near the town of Bukavu. ](/news/2012/02/12/a-senior-aide-to-the-president-of-the-democratic-republic-of-the-congo-joseph-kabila-is-killed-and-the-finance-minister-matata-ponyo-mapo.md)
-_Context: President, Kabila government, Matata Ponyo Mapon, DR Congo, Bukavu_
+_Context: DR Congo, Kabila government, Matata Ponyo Mapon, President, Bukavu_
 
 ##### International Air Transport Association
 ### [The International Air Transport Association calls for the United Nations to intervene in the dispute between the People's Republic of China and the European Union over airlines' involvement in the EU's carbon tax scheme for airlines. ](/news/2012/02/12/the-international-air-transport-association-calls-for-the-united-nations-to-intervene-in-the-dispute-between-the-people-s-republic-of-china.md)
-_Context: International Air Transport Association, China, United Nations, carbon tax, European Union_
+_Context: China, carbon tax, United Nations, European Union, International Air Transport Association_
 
 ##### Tibetan
 ### [A teenage Tibetan Buddhist nun Tenzin Choedon dies after setting herself on fire in protest against Chinese rule of Tibet in Sichuan province. ](/news/2012/02/12/a-teenage-tibetan-buddhist-nun-tenzin-choedon-dies-after-setting-herself-on-fire-in-protest-against-chinese-rule-of-tibet-in-sichuan-provinc.md)
@@ -45,7 +45,7 @@ An 18-year-old Tibetan nun has set herself on fire in western China in the lates
 
 ##### Iran
 ### [Iran rebukes Azerbaijan for allegedly assisting Israel's Mossad secret service in operations against it. ](/news/2012/02/12/iran-rebukes-azerbaijan-for-allegedly-assisting-israel-s-mossad-secret-service-in-operations-against-it.md)
-_Context: Iran, Azerbaijan, Israel, Mossad_
+_Context: Israel, Azerbaijan, Mossad, Iran_
 
 ##### Malaysia
 ### [Malaysia deports Saudi Arabian journalist Hamzar Kashgari, accused of insulting the prophet Muhammad in a tweet. ](/news/2012/02/12/malaysia-deports-saudi-arabian-journalist-hamzar-kashgari-accused-of-insulting-the-prophet-muhammad-in-a-tweet.md)
@@ -65,11 +65,11 @@ _Context: Akihito, heart bypass, Emperor_
 
 ##### Nigeria
 ### [Nigeria's ruling People's Democratic Party wins a gubernatorial election in Bayelsa State with its candidate Henry Dickson receiving 90% of the vote. ](/news/2012/02/12/nigeria-s-ruling-people-s-democratic-party-wins-a-gubernatorial-election-in-bayelsa-state-with-its-candidate-henry-dickson-receiving-90-of.md)
-_Context: People's Democratic Party, Bayelsa State, Henry Dickson, Nigeria_
+_Context: People's Democratic Party, Nigeria, Henry Dickson, Bayelsa State_
 
 ##### Venezuela
 ### [The Venezuelan opposition Mesa de la Unidad Democratica holds a primary election, selecting Henrique Capriles as its candidate for the presidential election in early October. ](/news/2012/02/12/the-venezuelan-opposition-mesa-de-la-unidad-democra-tica-holds-a-primary-election-selecting-henrique-capriles-as-its-candidate-for-the-pres.md)
-_Context: Venezuela, Mesa de la Unidad Democratica, inauguration approaches, primary election, Henrique Capriles_
+_Context: inauguration approaches, Henrique Capriles, Mesa de la Unidad Democratica, Venezuela, primary election_
 
 ## [Previous Day...](/news/2012/02/11/index.md)
 

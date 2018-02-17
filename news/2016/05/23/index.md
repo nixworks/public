@@ -17,7 +17,7 @@ Reports of heavy shelling in city that was first to fall to ISIL in 2014 as bele
 
 ##### Insurgency in Jammu and Kashmir
 ### [ Three policemen are killed in Srinagar, India. Hizbul Mujahideen claims responsibility. ](/news/2016/05/23/three-policemen-are-killed-in-srinagar-india-hizbul-mujahideen-claims-responsibility.md)
-_Context: Hizbul Mujahideen, Insurgency in Jammu and Kashmir, India, police, Srinagar_
+_Context: India, Insurgency in Jammu and Kashmir, Hizbul Mujahideen, Srinagar, police_
 
 ##### War in Afghanistan
 ### [The Taliban leadership council reportedly meets to determine a successor to Mullah Akhtar Mansour, killed this weekend during an American drone strike in Pakistan. ](/news/2016/05/23/the-taliban-leadership-council-reportedly-meets-to-determine-a-successor-to-mullah-akhtar-mansour-killed-this-weekend-during-an-american-dr.md)
@@ -29,7 +29,7 @@ Bayer AG offered $62 billion to buy Monsanto Co., deepening investor concern tha
 
 ##### Elementary school's
 ### [An overnight fire at Pitakiatwittaya Christian elementary school's dormitory in the northern Chiang Rai Province in Thailand kills 18 girls between the ages of 5 and 12. The other 20 girls sleeping in the dorm are rescued, though five are injured. ](/news/2016/05/23/an-overnight-fire-at-pitakiatwittaya-christian-elementary-school-s-dormitory-in-the-northern-chiang-rai-province-in-thailand-kills-18-girls.md)
-_Context: dormitory, Chiang Rai Province, elementary school's, Thailand_
+_Context: elementary school's, Thailand, Chiang Rai Province, dormitory_
 
 ##### Cyclone Roanu
 ### [Sri Lanka's Disaster Management Centre reports 92 people are confirmed dead with 109 people still missing from landslides and floods resulting from Roanu. More than 500,000 have been driven from their homes. ](/news/2016/05/23/sri-lanka-s-disaster-management-centre-reports-92-people-are-confirmed-dead-with-109-people-still-missing-from-landslides-and-floods-resulti.md)
@@ -45,7 +45,7 @@ MIREBALAIS, Haiti (AP) — Berny Saint-Sauveur was moaning and incoherent when h
 
 ##### United States-Vietnam relations
 ### [ United States President Barack Obama ends the American arms embargo with Vietnam during his visit in the country. ](/news/2016/05/23/united-states-president-barack-obama-ends-the-american-arms-embargo-with-vietnam-during-his-visit-in-the-country.md)
-_Context: Vietnam, United States-Vietnam relations, United States, U.S. President, Barack Obama_
+_Context: U.S. President, Barack Obama, United States-Vietnam relations, United States, Vietnam_
 
 ##### World Humanitarian Summit
 ### [The first-ever United Nations humanitarian summit opens in Istanbul, Turkey, to address the 125-million people crisis, the worst since World War II. ](/news/2016/05/23/the-first-ever-united-nations-humanitarian-summit-opens-in-istanbul-turkey-to-address-the-125-million-people-crisis-the-worst-since-world.md)
@@ -77,7 +77,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ##### Austrian presidential election, 2016
 ### [ Independent candidate Alexander Van der Bellen, a member of The Greens, is elected President of Austria in a tight contest that was decided by mail-in votes. ](/news/2016/05/23/independent-candidate-alexander-van-der-bellen-a-member-of-the-greens-is-elected-president-of-austria-in-a-tight-contest-that-was-decided.md)
-_Context: Green, Austrian presidential election, 2016, President, Alexander Van der Bellen_
+_Context: Alexander Van der Bellen, Green, Austrian presidential election, 2016, President_
 
 ##### Rodrigo Duterte
 ### [Rodrigo Duterte, the Philippines presumptive president-elect, says he will allow the immediate burial of former kleptocratic dictator Ferdinand Marcos at the Heroes' Cemetery in metropolitan Manila. ](/news/2016/05/23/rodrigo-duterte-the-philippines-presumptive-president-elect-says-he-will-allow-the-immediate-burial-of-former-kleptocratic-dictator-ferdin.md)
@@ -89,7 +89,7 @@ The leading opposition party, the Progressive Party of Working People, will have
 
 ##### Indian Space Research Organisation
 ### [ ISRO successfully launched India's Reusable Launch Vehicle demonstrator mission (RLV-TD).](/news/2016/05/23/isro-successfully-launched-india-s-reusable-launch-vehicle-demonstrator-mission-rlv-td.md)
-_Context: India, RLV-TD, Indian Space Research Organisation_
+_Context: India, Indian Space Research Organisation, RLV-TD_
 
 ## [Previous Day...](/news/2016/05/22/index.md)
 

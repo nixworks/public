@@ -5,13 +5,13 @@ Formats: [HTML](2013/07/25/index.html)  [JSON](2013/07/25/index.json)  [XML](201
 
 ##### United Nations
 ### [The United Nations states that the death toll of the ongoing Syrian civil war has exceeded 100,000. ](/news/2013/07/25/the-united-nations-states-that-the-death-toll-of-the-ongoing-syrian-civil-war-has-exceeded-100-000.md)
-_Context: Syrian civil war, United Nations_
+_Context: United Nations, Syrian civil war_
 
 ##### Oxford English Dictionary
 ### [The "Oxford English Dictionary" confirms that it will change the definition of the word "marriage" to include the LGBT community. ](/news/2013/07/25/the-oxford-english-dictionary-confirms-that-it-will-change-the-definition-of-the-word-marriage-to-include-the-lgbt-community.md)
 _Context: same-sex couples, marriage, Oxford English Dictionary_
 
-##### China
+##### Chinese
 ### [China begins a major effort to boost its economic growth with business tax breaks and export liberalization, amid an increasing industrial slowdown. ](/news/2013/07/25/china-begins-a-major-effort-to-boost-its-economic-growth-with-business-tax-breaks-and-export-liberalization-amid-an-increasing-industrial-s.md)
 China unveils a series of moves aimed at boosting growth, indicating that policymakers are concerned about the slowdown in its economy.
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/2/parcel-bombs-explode-at-the-mexican-russian-and-
 
 ### [2010-11-2](/news/2010/11/2/index.md)
 
-##### Mexican
+##### Mexico
 # Parcel bombs explode at the Mexican, Russian and Swiss embassies in Greece. Similar packages were sent or addressed to the embassies of Belgium, Bulgaria, Chile, Germany and the Netherlands over the past two days. 
 
 Bombs explode at the Swiss and Russian embassies in Athens and several other suspicious packages are destroyed, police say.

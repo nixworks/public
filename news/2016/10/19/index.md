@@ -31,13 +31,13 @@ Mexico has ordered the arrest of an outgoing state governor in the ruling party 
 ### [Czech police announce the arrest of a man at a Prague hotel two weeks ago who they claim is a Russian hacker suspected of targeting the U.S. ](/news/2016/10/19/czech-police-announce-the-arrest-of-a-man-at-a-prague-hotel-two-weeks-ago-who-they-claim-is-a-russian-hacker-suspected-of-targeting-the-u-s.md)
 A Russian hacker suspected of targeting the U.S. is being held in Czech Republic. Czech police took the man into custody two weeks ago, but only announced the arrest Wednesday. He was reportedly surprised when he was detained at a Prague hotel. Jeff Pegues reports on what the arrest could mean for U...
 
-##### 2016 U.S. presidential election
+##### 2016 U.S. election
 ### [Hillary Clinton and Donald Trump meet for the third presidential debate of the 2016 U.S. election at the University of Nevada, Las Vegas. ](/news/2016/10/19/hillary-clinton-and-donald-trump-meet-for-the-third-presidential-debate-of-the-2016-u-s-election-at-the-university-of-nevada-las-vegas.md)
 Hillary Clinton and Donald Trump will square off for the third and final time in Las Vegas tonight for what has been dubbed &quot;Fight Night&quot;.
 
 ##### Iran
 ### [Iranian President Hassan Rouhani reshuffles his cabinet, replacing culture, education, and sports ministers. The new ministers still need the parliament's approval. ](/news/2016/10/19/iranian-president-hassan-rouhani-reshuffles-his-cabinet-replacing-culture-education-and-sports-ministers-the-new-ministers-still-need-th.md)
-_Context: Hassan Rouhani, cabinet, President, Iran, Iranian Parliament_
+_Context: President, Iran, Iranian Parliament, Hassan Rouhani, cabinet_
 
 ##### Croatian parliamentary election, 2016
 ### [Croatian lawmakers approve conservative Croatian Democratic Union party leader Andrej Plenkovic's new coalition government 91-45. ](/news/2016/10/19/croatian-lawmakers-approve-conservative-croatian-democratic-union-party-leader-andrej-plenkovia-s-new-coalition-government-91a45.md)

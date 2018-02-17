@@ -29,7 +29,7 @@ People in northern parts of New Caledonia are told to stay indoors as Cyclone Co
 
 ##### Cross-Strait relations
 ### [People's Republic of China detains Taiwanese political activist Lee Ming-che on suspicion of endangering national security and revokes his wife's travel permit. ](/news/2017/04/10/people-s-republic-of-china-detains-taiwanese-political-activist-lee-ming-che-on-suspicion-of-endangering-national-security-and-revokes-his-w.md)
-_Context: Cross-Strait relations, China_
+_Context: China, Cross-Strait relations_
 
 ##### North Park Elementary School shooting
 ### [An elementary school teacher and an 8-year-old student were shot and killed by the teacher's estranged husband, who then killed himself, at North Park Elementary School in San Bernardino, California. Another student, a 9-year-old boy who was also behind the teacher, was wounded. ](/news/2017/04/10/an-elementary-school-teacher-and-an-8-year-old-student-were-shot-and-killed-by-the-teacher-s-estranged-husband-who-then-killed-himself-at.md)
@@ -45,7 +45,7 @@ Jadhav, a former Indian naval officer, was sentenced for spying, sabotage in Kar
 
 ##### Neil Gorsuch Supreme Court nomination
 ### [President Donald Trump's pick for the U.S. Supreme Court, Neil Gorsuch, is sworn in at the White House. ](/news/2017/04/10/president-donald-trump-s-pick-for-the-u-s-supreme-court-neil-gorsuch-is-sworn-in-at-the-white-house.md)
-_Context: Neil Gorsuch, Neil Gorsuch Supreme Court nomination, U.S. Supreme Court, Donald Trump, White House_
+_Context: Donald Trump, Neil Gorsuch Supreme Court nomination, White House, Neil Gorsuch, U.S. Supreme Court_
 
 ##### Alabama Governor
 ### [Alabama Governor Robert Bentley resigns as the Alabama House Judiciary Committee began impeachment proceedings against him over a relationship with a former aide. In addition, Bentley pleads guilty to two "failure to disclose" misdemeanors. Kay Ivey is sworn in as Alabama Governor. Under terms of the plea bargain, Bentley is forbidden from ever running for elected office in Alabama again. ](/news/2017/04/10/alabama-governor-robert-bentley-resigns-as-the-alabama-house-judiciary-committee-began-impeachment-proceedings-against-him-over-a-relationsh.md)

@@ -21,11 +21,11 @@ The Russian president has repealed the ban prohibiting the delivery of S-300 mis
 
 ##### Libyan Civil War (2014-present)
 ### [In Tripoli, the Moroccan Embassy is damaged by a bomb explosion just hours after gunmen assault the South Korean mission. ISIL loyalists take credit for both attacks. ](/news/2015/04/13/in-tripoli-the-moroccan-embassy-is-damaged-by-a-bomb-explosion-just-hours-after-gunmen-assault-the-south-korean-mission-isil-loyalists-tak.md)
-_Context: ISIL, Tripoli, Libyan Civil War (2014-present)_
+_Context: Libyan Civil War (2014-present), ISIL, Tripoli_
 
 ##### Managua
 ### [An American man working at Managua's U.S. embassy provokes a security scare in Nicaragua; the country's health ministry quarantines the Ebola suspect and asks that he be removed from the country immediately. ](/news/2015/04/13/an-american-man-working-at-managua-s-u-s-embassy-provokes-a-security-scare-in-nicaragua-the-country-s-health-ministry-quarantines-the-ebol.md)
-_Context: Managua, Ebola_
+_Context: Ebola, Managua_
 
 ##### Wayne Community College
 ### [A former work-study student is sought in a shooting of his print shop supervisor at Wayne Community College in Goldsboro, North Carolina and is still on the run. ](/news/2015/04/13/a-former-work-study-student-is-sought-in-a-shooting-of-his-print-shop-supervisor-at-wayne-community-college-in-goldsboro-north-carolina-and.md)
@@ -47,9 +47,9 @@ Security contractors face decades in prison for the 2007 shootings in Baghdad&rs
 ### [A volunteer police officer is charged with manslaughter in the shooting death of Eric Harris, an unarmed man who was shot while lying on his back in Tulsa, Oklahoma. ](/news/2015/04/13/a-volunteer-police-officer-is-charged-with-manslaughter-in-the-shooting-death-of-eric-harris-an-unarmed-man-who-was-shot-while-lying-on-his.md)
 _Context: Tulsa, Oklahoma, manslaughter by gross negligence_
 
-##### 2016 U.S. presidential election
+##### 2016 U.S. election
 ### [Florida Senator Marco Rubio announces his candidacy for the Republican nomination in the 2016 presidential election. ](/news/2015/04/13/florida-senator-marco-rubio-announces-his-candidacy-for-the-republican-nomination-in-the-2016-presidential-election.md)
-_Context: Marco Rubio, 2016 U.S. presidential election, Republican, Senator, candidacy, Florida_
+_Context: Florida, candidacy, Republican, 2016 U.S. election, Marco Rubio, Senator_
 
 ## [Previous Day...](/news/2015/04/12/index.md)
 

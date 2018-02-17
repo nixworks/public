@@ -37,7 +37,7 @@ Passengers on the Costa Allegra speak of difficult conditions on board as the st
 
 ##### Vietnam
 ### [Vietnam claims that the People's Republic of China has assaulted Vietnamese fishermen in disputed waters in the South China Sea. ](/news/2012/03/1/vietnam-claims-that-the-people-s-republic-of-china-has-assaulted-vietnamese-fishermen-in-disputed-waters-in-the-south-china-sea.md)
-_Context: Vietnamese, Vietnam, disputed waters, South China Sea, China_
+_Context: Vietnam, South China Sea, disputed waters, Vietnamese, China_
 
 ##### American
 ### [Americans working for non-government organisations who had been facing trial in Egypt are allowed to leave. ](/news/2012/03/1/americans-working-for-non-government-organisations-who-had-been-facing-trial-in-egypt-are-allowed-to-leave.md)
@@ -49,7 +49,7 @@ European Union leaders argued on Thursday over the right balance between budget 
 
 ##### ICC
 ### [The International Criminal Court issues an arrest warrant for the Sudanese defence minister Abdelrahim Mohamed Hussein. ](/news/2012/03/1/the-international-criminal-court-issues-an-arrest-warrant-for-the-sudanese-defence-minister-abdelrahim-mohamed-hussein.md)
-_Context: Sudan, Abdelrahim Mohamed Hussein, ICC_
+_Context: ICC, Abdelrahim Mohamed Hussein, Sudan_
 
 ##### Indian police
 ### [Indian police arrest three alleged members of Lashkar-e-Taiba in Delhi who are claimed to have been planning a major terrorist attack. ](/news/2012/03/1/indian-police-arrest-three-alleged-members-of-lashkar-e-taiba-in-delhi-who-are-claimed-to-have-been-planning-a-major-terrorist-attack.md)
@@ -57,7 +57,7 @@ A suspected terrorist who was arrested in Jharkhand and on whose tip off two mor
 
 ##### Child murders
 ### [T.J. Lane, perpetrator of the Chardon High School shooting, is charged with 3 counts of aggravated murder. ](/news/2012/03/1/t-j-lane-perpetrator-of-the-chardon-high-school-shooting-is-charged-with-3-counts-of-aggravated-murder.md)
-_Context: aggravated murder, child murders_
+_Context: child murders, aggravated murder_
 
 ##### Martin O'Malley
 ### [Martin O'Malley, the Governor of the US state of Maryland, signs a law legalizing gay marriage in that state. ](/news/2012/03/1/martin-o-malley-the-governor-of-the-us-state-of-maryland-signs-a-law-legalizing-gay-marriage-in-that-state.md)

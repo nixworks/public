@@ -23,9 +23,9 @@ Some 1.6 million properties across Britain are now at risk of groundwater floodi
 ### [A military transport plane has crashed in a mountainous area of Oum El Bouaghi Province in eastern Algeria, killing 77 people. ](/news/2014/02/11/a-military-transport-plane-has-crashed-in-a-mountainous-area-of-oum-el-bouaghi-province-in-eastern-algeria-killing-77-people.md)
 A military transport plane carrying members of the Algerian armed forces and their relatives crashed into a mountain on Tuesday, killing 77 people, the worst air disaster in the North African country in a decade.
 
-##### China
+##### Chinese
 ### [The first governmental meetings occur between the People's Republic of China (China) and the Republic of China (Taiwan) after a 65-year hiatus. ](/news/2014/02/11/the-first-governmental-meetings-occur-between-the-people-s-republic-of-china-china-and-the-republic-of-china-taiwan-after-a-65-year-hiat.md)
-_Context: Taiwan, China_
+_Context: Chinese, Taiwan_
 
 ##### Cyprus dispute
 ### [Under pressure to extract natural gas reserves, talks occur over the Cyprus dispute. ](/news/2014/02/11/under-pressure-to-extract-natural-gas-reserves-talks-occur-over-the-cyprus-dispute.md)
@@ -49,7 +49,7 @@ The first of four U.S. Navy destroyers to form the centerpiece of Europe&rsquo;s
 
 ##### Republican
 ### [The Republican Party-controlled U.S. House of Representatives votes to raise the government's borrowing limit for the next year, without attaching conditions, and sends the measure to the Senate for approval. ](/news/2014/02/11/the-republican-party-controlled-u-s-house-of-representatives-votes-to-raise-the-government-s-borrowing-limit-for-the-next-year-without-att.md)
-_Context: U.S. debt limit, United States Senate, U.S. House of Representatives, Republican_
+_Context: U.S. House of Representatives, Republican, U.S. debt limit, United States Senate_
 
 ##### Kevin Faulconer
 ### [Kevin Faulconer is elected as Mayor of San Diego, California. ](/news/2014/02/11/kevin-faulconer-is-elected-as-mayor-of-san-diego-california.md)

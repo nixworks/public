@@ -17,7 +17,7 @@ Taliban claim responsibility for suicide attacks targeting government buildings 
 
 ##### Gujarat
 ### [An investigation finds no evidence against the chief minister of Gujarat, India over deadly riots in the state in 2002. ](/news/2012/04/10/an-investigation-finds-no-evidence-against-the-chief-minister-of-gujarat-india-over-deadly-riots-in-the-state-in-2002.md)
-_Context: riots, India, Gujarat_
+_Context: riots, Gujarat, India_
 
 ##### Raymond Aubrac
 ### [Raymond Aubrac, one of the heroes of the French Resistance during World War II, dies at the age of 97. ](/news/2012/04/10/raymond-aubrac-one-of-the-heroes-of-the-french-resistance-during-world-war-ii-dies-at-the-age-of-97.md)
@@ -29,7 +29,7 @@ All three indexes drop more than 1.5% after fears over have renewed concerns ove
 
 ##### Apple Inc.
 ### [American technology company Apple Inc. says that the company is worth more than US$600 billion dollars, making it the largest by market capitalization in the world. ](/news/2012/04/10/american-technology-company-apple-inc-says-that-the-company-is-worth-more-than-us-600-billion-dollars-making-it-the-largest-by-market-capi.md)
-_Context: market capitalization, Apple Inc._
+_Context: Apple Inc., market capitalization_
 
 ##### 
 ### [North Korean space officials advise that all preparations have been completed for the launch. ](/news/2012/04/10/north-korean-space-officials-advise-that-all-preparations-have-been-completed-for-the-launch.md)
@@ -39,13 +39,13 @@ North Korea says the rocket built to carry a satellite into space is ready for l
 ### [The Prime Minister of the United Kingdom David Cameron arrives in Japan for the first leg of an Asian visit. ](/news/2012/04/10/the-prime-minister-of-the-united-kingdom-david-cameron-arrives-in-japan-for-the-first-leg-of-an-asian-visit.md)
 David Cameron meets Japanese PM Yoshihiko Noda for talks in Tokyo, as he begins a week-long tour aimed at boosting UK trade with East and South East Asia.
 
-##### China
+##### Chinese
 ### [Disabled Chinese land rights lawyer Ni Yulan and her husband are sentenced by a Beijing court a year after they were detained for fraud and "provoking trouble". ](/news/2012/04/10/disabled-chinese-land-rights-lawyer-ni-yulan-and-her-husband-are-sentenced-by-a-beijing-court-a-year-after-they-were-detained-for-fraud-and.md)
-_Context: China, Ni Yulan_
+_Context: Ni Yulan, Chinese_
 
 ##### Costa Rica
 ### [The Costa Rican embassy's trade attache in Caracas, Venezuela is kidnapped. ](/news/2012/04/10/the-costa-rican-embassy-s-trade-attache-in-caracas-venezuela-is-kidnapped.md)
-_Context: Costa Rica, Venezuela, Caracas_
+_Context: Costa Rica, Caracas, Venezuela_
 
 ##### Government of Malaysia
 ### [The Government of Malaysia introduces legislation banning the arrest of people for political reasons or indefinite detention without trial. ](/news/2012/04/10/the-government-of-malaysia-introduces-legislation-banning-the-arrest-of-people-for-political-reasons-or-indefinite-detention-without-trial.md)
@@ -61,9 +61,9 @@ _Context: George Zimmerman, attorney_
 
 ##### Rick Santorum
 ### [American politician Rick Santorum suspends his candidacy for the Republican nomination, increasing the likelihood that Mitt Romney will be the nominee. ](/news/2012/04/10/american-politician-rick-santorum-suspends-his-candidacy-for-the-republican-nomination-increasing-the-likelihood-that-mitt-romney-will-be-t.md)
-_Context: Republican primaries, Rick Santorum, candidacy, Mitt Romney_
+_Context: Republican primaries, candidacy, Rick Santorum, Mitt Romney_
 
-##### China
+##### Chinese
 ### [The Chinese Communist Party suspends the Politburo membership of former senior official Bo Xilai, while his wife Gu Kailai is named as a suspect in the murder of a British businessman. ](/news/2012/04/10/the-chinese-communist-party-suspends-the-politburo-membership-of-former-senior-official-bo-xilai-while-his-wife-gu-kailai-is-named-as-a-sus.md)
 The wife of Bo Xilai, who had been seen as one of the handful of rising leaders slated to run China, is being investigated in the killing of a businessman, Neil Heywood, last year.
 

@@ -17,7 +17,7 @@ The Zoo announced on August 26 that the smaller of its newborn twin panda cubs h
 
 ##### Oshkosh L-ATV
 ### [The U.S. Army awards the $6.7 billion contract for the Joint Light Tactical Vehicle, the replacement for the Humvee, to the Wisconsin-based company Oshkosh Corporation. ](/news/2015/08/26/the-u-s-army-awards-the-6-7-billion-contract-for-the-joint-light-tactical-vehicle-the-replacement-for-the-humvee-to-the-wisconsin-based.md)
-_Context: military Humvee, Oshkosh L-ATV, Oshkosh Corporation, Joint Light Tactical Vehicle, $, U.S. Army, Wisconsin_
+_Context: Oshkosh Corporation, U.S. Army, Wisconsin, $, military Humvee, Joint Light Tactical Vehicle, Oshkosh L-ATV_
 
 ##### European migrant crisis
 ### [A Swedish rescue crew finds 51 dead migrants in the hold of a boat off the coast of Libya during a rescue operation in the Mediterranean Sea that has saved 439 other people. In addition, three women are found dead in another migrant boat and another corpse is found during ten rescue operations on Wednesday that have saved around 3,000 people, according to the Italian coast guard. ](/news/2015/08/26/a-swedish-rescue-crew-finds-51-dead-migrants-in-the-hold-of-a-boat-off-the-coast-of-libya-during-a-rescue-operation-in-the-mediterranean-sea.md)
@@ -33,7 +33,7 @@ A 24-year-old reporter and 27-year-old photographer from a local news station WD
 
 ##### 2012 Aurora shooting
 ### [James Eagan Holmes is formally sentenced to 12 consecutive life sentences plus 3,318 years for the murder of 12 people and injury of 70 others at a Century movie theatre in the U.S. city of Aurora, Colorado. ](/news/2015/08/26/james-eagan-holmes-is-formally-sentenced-to-12-consecutive-life-sentences-plus-3-318-years-for-the-murder-of-12-people-and-injury-of-70-othe.md)
-_Context: 2012 Aurora shooting, Aurora, Colorado, Century movie theatre, James Eagan Holmes_
+_Context: Century movie theatre, Aurora, Colorado, 2012 Aurora shooting, James Eagan Holmes_
 
 ## [Previous Day...](/news/2015/08/25/index.md)
 

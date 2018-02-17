@@ -5,7 +5,7 @@ Formats: [HTML](2016/11/26/index.html)  [JSON](2016/11/26/index.json)  [XML](201
 
 ##### War in Somalia (2009-present)
 ### [ A car bomb kills at least 20 in Mogadishu. ](/news/2016/11/26/a-car-bomb-kills-at-least-20-in-mogadishu.md)
-_Context: Mogadishu, War in Somalia (2009-present)_
+_Context: War in Somalia (2009-present), Mogadishu_
 
 ##### Suicide bombing
 ### [ Four suicide bombers and two soldiers are killed in a failed attack on the Ghalani camp in the Mohmand tribal distrct. Jamaat-ul-Ahrar claims responsibility. ](/news/2016/11/26/four-suicide-bombers-and-two-soldiers-are-killed-in-a-failed-attack-on-the-ghalani-camp-in-the-mohmand-tribal-distrct-jamaat-ul-ahrar-clai.md)
@@ -21,7 +21,7 @@ Government troops have killed at least 11 members of a rebel group in the southe
 
 ##### Royal Dutch Shell
 ### [The chief executive of Royal Dutch Shell, Ben van Beurden, denies the claim that his company's balance sheet contains any assets that will be "stranded," that is that will have to be written off, due to the Paris Climate Accord. ](/news/2016/11/26/the-chief-executive-of-royal-dutch-shell-ben-van-beurden-denies-the-claim-that-his-company-s-balance-sheet-contains-any-assets-that-will-b.md)
-_Context: Paris Agreement, Royal Dutch Shell, balance sheet, Ben van Beurden_
+_Context: Ben van Beurden, Royal Dutch Shell, Paris Agreement, balance sheet_
 
 ##### Kaipara Harbour
 ### [At least seven people are dead, one person is missing and three others are rescued after a chartered fishing boat capsizes due to large waves in Kaipara Harbour, New Zealand. ](/news/2016/11/26/at-least-seven-people-are-dead-one-person-is-missing-and-three-others-are-rescued-after-a-chartered-fishing-boat-capsizes-due-to-large-wave.md)
@@ -41,7 +41,7 @@ Iraqi Sunnis say law was proof of Shia &quot;dictatorship&quot; but Prime Minist
 
 ##### Cuba
 ### [Cuban state television announces that former President Fidel Castro has died at age 90. ](/news/2016/11/26/cuban-state-television-announces-that-former-president-fidel-castro-has-died-at-age-90.md)
-_Context: Fidel Castro, died, Cuba, President_
+_Context: President, Cuba, died, Fidel Castro_
 
 ##### 2016 South Korean protests
 ### [South Koreans take to the streets en masse demanding the resignation of President Park Geun-hye amidst a corruption scandal. Around 1.5 million people rallied in the capital Seoul, while another 400,000 people demonstrated in provincial cities. ](/news/2016/11/26/south-koreans-take-to-the-streets-en-masse-demanding-the-resignation-of-president-park-geun-hye-amidst-a-corruption-scandal-around-1-5-mill.md)
@@ -49,11 +49,11 @@ Mass protests in capital Seoul and other provincial cities demand President Park
 
 ##### Kuwaiti general election, 2016
 ### [Kuwait, where citizens make up around 30 percent of the emirate's 4.4 million population, votes in a snap election following parliament's dissolution on 16 October amid the impact of falling oil prices. This is the first election the opposition has not boycotted in nearly four years. ](/news/2016/11/26/kuwait-where-citizens-make-up-around-30-percent-of-the-emirate-s-4-4-million-population-votes-in-a-snap-election-following-parliament-s-di.md)
-_Context: Kuwait, Kuwaiti general election, 2016, snap election, parliament's dissolution_
+_Context: Kuwaiti general election, 2016, snap election, Kuwait, parliament's dissolution_
 
 ##### 2016 United States presidential election recount and audit
 ### [The Clinton campaign announces it will participate in efforts to push for recounts by Jill Stein's campaign in Michigan, Pennsylvania and Wisconsin. ](/news/2016/11/26/the-clinton-campaign-announces-it-will-participate-in-efforts-to-push-for-recounts-by-jill-stein-s-campaign-in-michigan-pennsylvania-and-wi.md)
-_Context: Wisconsin, Mich., 2016 United States presidential election recount and audit, Pennsylvania, Jill Stein, presidential campaign_
+_Context: 2016 United States presidential election recount and audit, Wisconsin, Pennsylvania, Jill Stein, presidential campaign, Mich._
 
 ## [Previous Day...](/news/2016/11/25/index.md)
 

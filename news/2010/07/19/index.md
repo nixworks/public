@@ -25,7 +25,7 @@ Safe deposit boxes believed to contain manuscripts and drawings by the late auth
 
 ##### Sandinista
 ### [A collection of posters is released to mark the 31st anniversary of the Sandinista revolution in Nicaragua. ](/news/2010/07/19/a-collection-of-posters-is-released-to-mark-the-31st-anniversary-of-the-sandinista-revolution-in-nicaragua.md)
-_Context: Sandinista, Nicaragua_
+_Context: Nicaragua, Sandinista_
 
 ##### Caravaggio
 ### [An undiscovered painting by Caravaggio is discovered in Rome, according to "l'Osservatore Romano". ](/news/2010/07/19/an-undiscovered-painting-by-caravaggio-is-discovered-in-rome-according-to-l-osservatore-romano.md)
@@ -41,7 +41,7 @@ Relatives attend the dedication of the new Fromelles Military Cemetery, built fo
 
 ##### United Kingdom
 ### [The United Kingdom's oldest person, a Gateshead great-great grandmother, dies at the age of 111. She would have been 112 next month. ](/news/2010/07/19/the-united-kingdom-s-oldest-person-a-gateshead-great-great-grandmother-dies-at-the-age-of-111-she-would-have-been-112-next-month.md)
-_Context: Gateshead, United Kingdom_
+_Context: United Kingdom, Gateshead_
 
 ##### United States
 ### [China surpasses the United States to become world's biggest energy consumer, consuming about 4% more than the U.S. ](/news/2010/07/19/china-surpasses-the-united-states-to-become-world-s-biggest-energy-consumer-consuming-about-4-more-than-the-u-s.md)
@@ -57,7 +57,7 @@ China launches an operation to clean up an oil spill in the Yellow Sea after two
 
 ##### United States Coast Guard
 ### [Retired United States Coast Guard Admiral Thad Allen, the person in charge of cleaning up the Deepwater Horizon oil spill in the Gulf of Mexico states that the cap is leaking but it is not a major concern so far. ](/news/2010/07/19/retired-united-states-coast-guard-admiral-thad-allen-the-person-in-charge-of-cleaning-up-the-deepwater-horizon-oil-spill-in-the-gulf-of-mex.md)
-_Context: Gulf of Mexico, Deepwater Horizon oil spill, Admiral, Thad Allen, cap, United States Coast Guard_
+_Context: Thad Allen, Gulf of Mexico, United States Coast Guard, Admiral, Deepwater Horizon oil spill, cap_
 
 ##### President
 ### [President of Iran Mahmoud Ahmadinejad asks that the United States stop using what he describes as "cowboy logic" if it wants to engage in dialogue with Iran over its nuclear programme, adding that he would support negotiations. ](/news/2010/07/19/president-of-iran-mahmoud-ahmadinejad-asks-that-the-united-states-stop-using-what-he-describes-as-cowboy-logic-if-it-wants-to-engage-in-di.md)
@@ -65,11 +65,11 @@ The US must stop using &quot;cowboy logic&quot; if it wants dialogue with Iran o
 
 ##### Kabul
 ### [Scores of checkpoints appear overnight as 70 countries prepare to attend a conference in Kabul on the future of Afghanistan. ](/news/2010/07/19/scores-of-checkpoints-appear-overnight-as-70-countries-prepare-to-attend-a-conference-in-kabul-on-the-future-of-afghanistan.md)
-_Context: Kabul, Afghan_
+_Context: Afghan, Kabul_
 
 ##### United States
 ### [The United States issues a warning to US citizens visiting or living in Uganda about the risk of terrorism as an African Union summit on maternal and child health summit starts. ](/news/2010/07/19/the-united-states-issues-a-warning-to-us-citizens-visiting-or-living-in-uganda-about-the-risk-of-terrorism-as-an-african-union-summit-on-mat.md)
-_Context: United States, African Union, Uganda, terrorism_
+_Context: United States, African Union, terrorism, Uganda_
 
 ##### The Washington Post
 ### [A two-year "Top Secret America" investigation by "The Washington Post" concludes that United States intelligence gathering has grown so much since the September 11 attacks that neither its true cost, size nor effectiveness in keeping the country safe is actually known. ](/news/2010/07/19/a-two-year-top-secret-america-investigation-by-the-washington-post-concludes-that-united-states-intelligence-gathering-has-grown-so-much.md)
@@ -81,7 +81,7 @@ A former Army commanding officer is accused of lying to a public inquiry into th
 
 ##### Kenya
 ### [Kenyan pastor John Kamau Mbugua pleads not guilty to two charges over an alleged plot to bomb a campaign rally for next month's constitutional referendum. ](/news/2010/07/19/kenyan-pastor-john-kamau-mbugua-pleads-not-guilty-to-two-charges-over-an-alleged-plot-to-bomb-a-campaign-rally-for-next-month-s-constitution.md)
-_Context: John Kamau Mbugua, Kenya_
+_Context: Kenya, John Kamau Mbugua_
 
 ##### Taysir Hayb
 ### [Taysir Hayb, the Israeli soldier who shot and killed British volunteer Tom Hurndall, is to be released next month after an Army committee headed by Advocate General Avichai Mandelblit decides to shorten his sentence. ](/news/2010/07/19/taysir-hayb-the-israeli-soldier-who-shot-and-killed-british-volunteer-tom-hurndall-is-to-be-released-next-month-after-an-army-committee-he.md)
@@ -105,11 +105,11 @@ A man is arrested in Mexico trying to smuggle 18 monkeys into the country by hid
 
 ##### Egypt
 ### [A report states that U.S. and European intelligence agencies believe Egyptian President Hosni Mubarak is dying of stomach and pancreatic cancer, and has one year left to live. The report states that Mubarak will likely die before the country's next presidential election. ](/news/2010/07/19/a-report-states-that-u-s-and-european-intelligence-agencies-believe-egyptian-president-hosni-mubarak-is-dying-of-stomach-and-pancreatic-can.md)
-_Context: stomach, Egypt, Hosni Mubarak, pancreatic cancer, Egyptian presidential election in September_
+_Context: Hosni Mubarak, Egyptian presidential election in September, pancreatic cancer, Egypt, stomach_
 
 ##### Dsi Bouterse
 ### [Dsi Bouterse is elected President of Suriname by parliament. ](/news/2010/07/19/desi-bouterse-is-elected-president-of-suriname-by-parliament.md)
-_Context: President of Suriname, Dsi Bouterse_
+_Context: Dsi Bouterse, President of Suriname_
 
 ##### United Nations Economic and Social Council
 ### [The United Nations Economic and Social Council grants the International Gay and Lesbian Human Rights Commission consultative status after a vote of 23 for, 13 against, 13 abstentions, and 5 absent. ](/news/2010/07/19/the-united-nations-economic-and-social-council-grants-the-international-gay-and-lesbian-human-rights-commission-consultative-status-after-a.md)
@@ -117,7 +117,7 @@ _Context: President of Suriname, Dsi Bouterse_
 
 ##### David Cameron
 ### [Prime Minister David Cameron launches his "Big Society" scheme. ](/news/2010/07/19/prime-minister-david-cameron-launches-his-big-society-scheme.md)
-_Context: Big Society, David Cameron_
+_Context: David Cameron, Big Society_
 
 ##### David Cameron
 ### [David Cameron opts not to meet four United States senators to discuss allegations BP lobbied for the release of the terminally ill Abdelbaset al-Megrahi, though they may meet the ambassador instead. ](/news/2010/07/19/david-cameron-opts-not-to-meet-four-united-states-senators-to-discuss-allegations-bp-lobbied-for-the-release-of-the-terminally-ill-abdelbase.md)

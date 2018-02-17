@@ -17,39 +17,39 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 
 ##### Colombia
 ### [ Eleven Colombian lawmakers hostages out of twelve are killed by the leftist guerilla group FARC. Abducted in 2002, the FARC alleges that the hostages died in a crossfire when an unidentified military group attacked. The FARC blames the Colombian government, but the government says they knew nothing of the location or of any attempt of rescue. ](/news/2007/06/28/eleven-colombian-lawmakers-hostages-out-of-twelve-are-killed-by-the-leftist-guerilla-group-farc-abducted-in-2002-the-farc-alleges-that-th.md)
-_Context: crossfire, Colombian government, left-wing, Colombia, guerilla, Revolutionary Armed Forces of Colombia, lawmakers_
+_Context: Colombian government, lawmakers, left-wing, guerilla, Colombia, Revolutionary Armed Forces of Colombia, crossfire_
 
 ##### Russia
 ### [ Russia successfully test fires a sea-based ballistic missile, the Bulava. ](/news/2007/06/28/russia-successfully-test-fires-a-sea-based-ballistic-missile-the-bulava.md)
-_Context: Bulava, Russia, ballistic missile_
+_Context: ballistic missile, Bulava, Russia_
 
 ##### TAAG-Angola Airlines
 ### [ A TAAG-Angola Airlines Boeing 737 crashes in northern Angola, resulting in the death of at least five passengers on the same day the European Union bans the airline from European airspace. ](/news/2007/06/28/a-taag-angola-airlines-boeing-737-crashes-in-northern-angola-resulting-in-the-death-of-at-least-five-passengers-on-the-same-day-the-europe.md)
-_Context: European Union, Europe, Boeing 737, TAAG-Angola Airlines, Angola, airline, airspace_
+_Context: airline, Angola, Europe, TAAG-Angola Airlines, Boeing 737, European Union, airspace_
 
 ##### Synthetic life
 ### [ Scientists take a first step towards making synthetic life by transferring genetic material from one species of bacteria to another, making it a copy of the first. ](/news/2007/06/28/scientists-take-a-first-step-towards-making-synthetic-life-by-transferring-genetic-material-from-one-species-of-bacteria-to-another-making.md)
-_Context: synthetic life, bacteria, genetic material_
+_Context: synthetic life, genetic material, bacteria_
 
 ##### Greece
 ### [ Record high temperatures in Greece lead to nine deaths through heat stroke; outbreaks of wildfires, killing two people; and extensive power cuts. ](/news/2007/06/28/record-high-temperatures-in-greece-lead-to-nine-deaths-through-heat-stroke-outbreaks-of-wildfires-killing-two-people-and-extensive-power.md)
-_Context: Greece, heat stroke, wildfire_
+_Context: heat stroke, wildfire, Greece_
 
 ##### Illegal worker
 ### [ A bill to legalize millions of illegal immigrants living in the United States is defeated in the United States Senate. ](/news/2007/06/28/a-bill-to-legalize-millions-of-illegal-immigrants-living-in-the-united-states-is-defeated-in-the-united-states-senate.md)
-_Context: United States Senate, United States, illegal worker_
+_Context: United States, United States Senate, illegal worker_
 
 ##### Libya
 ### [ Former Libyan intelligence agent Abdelbaset al-Megrahi, convicted of the bombing of Pan Am Flight 103, wins a case for an appeal in the Scottish Criminal Cases Review Commission. ](/news/2007/06/28/former-libyan-intelligence-agent-abdelbaset-al-megrahi-convicted-of-the-bombing-of-pan-am-flight-103-wins-a-case-for-an-appeal-in-the-sco.md)
-_Context: Libya, Scottish Criminal Cases Review Commission, Abdelbaset al-Megrahi, appeal, Lockerbie bombing_
+_Context: Scottish Criminal Cases Review Commission, Lockerbie bombing, appeal, Libya, Abdelbaset al-Megrahi_
 
 ##### Italy
 ### [ An Italian man is arrested in Spain on suspicion of bribery in connection with the kidnapping of Madeleine McCann. ](/news/2007/06/28/an-italian-man-is-arrested-in-spain-on-suspicion-of-bribery-in-connection-with-the-kidnapping-of-madeleine-mccann.md)
-_Context: Madeleine McCann, Spain, Italy, bribes_
+_Context: Italy, Madeleine McCann, bribes, Spain_
 
 ##### Cabinet reshuffle
 ### [ In a major Cabinet reshuffle, every person's post is changed, bar one. Alistair Darling becomes Chancellor of the Exchequer, David Miliband becomes Secretary of State for Foreign and Commonwealth Affairs, and Jacqui Smith becomes the first female Secretary of State for the Home Department. Alan Johnson takes Health, Jack Straw takes Justice and First Secretary of State, Hilary Benn takes Environment, Des Browne remains as Defence Secretary but also becomes Secretary of State for Scotland, and Ruth Kelly takes Transport. Douglas Alexander takes Secretary of State for International Development; Peter Hain remains Secretary of State for Wales but also becomes Work and Pensions Secretary; Shaun Woodward becomes Northern Ireland Secretary; John Hutton takes Business, Enterprise and Regulatory Reform Secretary; Hazel Blears takes Communities Secretary and Minister for Equality; James Purnell takes Secretary of State for Children, Schools and Families; and Tessa Jowell becomes Minister for the Olympics and will only attend Cabinet when required. Baroness Ashton becomes Leader of the House of Lords; Harriet Harman&mdash;Labour's deputy leader&mdash;becomes Leader of the House of Commons and Minister for Women; whilst Ed Balls becomes Children, Schools and Families Secretary. John Denham becomes Innovation, University and Skills Secretary; and Baroness Scotland becomes the new Attorney General of England and Wales. The Cabinet is set to change. ](/news/2007/06/28/in-a-major-cabinet-reshuffle-every-person-s-post-is-changed-bar-one-alistair-darling-becomes-chancellor-of-the-exchequer-david-miliband.md)
-_Context: Jack Straw, Cabinet reshuffle, Secretary of State for Wales, Innovation, University and Skills Secretary, Work and Pensions Secretary, Home Secretary, Secretary of State for Health, British Communities Secretary, Minister for Equality, Attorney General, Children, Schools and Families Secretary, Ruth Kelly, Des Browne, Secretary of State for Scotland, First Secretary of State, Leader of the House of Commons, David Miliband, Alistair Darling, Alan Johnson, James Purnell, Defence Secretary, John Denham, Jacqui Smith, government, Hilary Benn, Peter Hain, Harriet Harman, Minister for Women, Shaun Woodward, Secretary of State for Business, Enterprise and Regulatory Reform, Tessa Jowell, Secretary of State for International Development, Douglas Alexander, John Hutton, Leader of the House of Lords, Ed Balls, Foreign Secretary, Labour Party, Hazel Blears, Transport, Baroness Ashton, Secretary of State for Environment, Food and Rural Affairs, Northern Ireland Secretary, Secretary of State for Justice, Chancellor of the Exchequer, Minister for the Olympics, Baroness Scotland_
+_Context: Baroness Scotland, Leader of the House of Lords, First Secretary of State, Secretary of State for Scotland, Cabinet reshuffle, Chancellor of the Exchequer, Secretary of State for Justice, Douglas Alexander, Secretary of State for Business, Enterprise and Regulatory Reform, Alistair Darling, Des Browne, Secretary of State for International Development, Peter Hain, Baroness Ashton, Leader of the House of Commons, Minister for Women, Secretary of State for Wales, Ruth Kelly, Jacqui Smith, John Hutton, David Miliband, Tessa Jowell, John Denham, Home Secretary, Minister for Equality, government, British Communities Secretary, Northern Ireland Secretary, Labour Party, Innovation, University and Skills Secretary, Shaun Woodward, Minister for the Olympics, Hilary Benn, Ed Balls, Transport, Foreign Secretary, Work and Pensions Secretary, Harriet Harman, James Purnell, Attorney General, Secretary of State for Health, Hazel Blears, Defence Secretary, Jack Straw, Children, Schools and Families Secretary, Secretary of State for Environment, Food and Rural Affairs, Alan Johnson_
 
 ##### River
 ### [ Rivers in Gippsland, Victoria, Australia flood, leading to evacuations in Bairnsdale and Sale as a result of days of heavy rain. ](/news/2007/06/28/rivers-in-gippsland-victoria-australia-flood-leading-to-evacuations-in-bairnsdale-and-sale-as-a-result-of-days-of-heavy-rain.md)
@@ -57,19 +57,19 @@ Emergency services in Gippsland in eastern Victoria are being swamped by calls f
 
 ##### Car bomb
 ### [ A car bomb in the Bayaa district of Baghdad kills at least 20 people and injures another 35. ](/news/2007/06/28/a-car-bomb-in-the-bayaa-district-of-baghdad-kills-at-least-20-people-and-injures-another-35.md)
-_Context: Baghdad, car bomb, Bayaa_
+_Context: car bomb, Bayaa, Baghdad_
 
 ##### IAEA
 ### [ International Atomic Energy Agency (IAEA) inspectors arrive at the Yongbyon reactor in North Korea to discuss plans to shut it down. It follows North Korea test firing of short-range missiles yesterday. ](/news/2007/06/28/international-atomic-energy-agency-iaea-inspectors-arrive-at-the-yongbyon-reactor-in-north-korea-to-discuss-plans-to-shut-it-down-it-fol.md)
-_Context: Yongbyon Nuclear Scientific Research Center, IAEA, North Korea, missile_
+_Context: North Korea, IAEA, missile, Yongbyon Nuclear Scientific Research Center_
 
 ##### United States Supreme Court
 ### [ The United States Supreme Court hands down a divided decision against two school districts in Seattle, Washington and Louisville, Kentucky, saying the districts' plans to admit students to schools based partially on their race violates constitutional guarantees of equal protection. ](/news/2007/06/28/the-united-states-supreme-court-hands-down-a-divided-decision-against-two-school-districts-in-seattle-washington-and-louisville-kentucky.md)
-_Context: Equal Protection Clause, Louisville, Kentucky, United States Supreme Court, Seattle, Washington, race_
+_Context: United States Supreme Court, race, Louisville, Kentucky, Seattle, Washington, Equal Protection Clause_
 
 ##### Genesis II
 ### [ The commercial space station prototype "Genesis II" from Bigelow Aerospace is launched at 15:02 UTC from Russia by a Dnepr. ](/news/2007/06/28/the-commercial-space-station-prototype-genesis-ii-from-bigelow-aerospace-is-launched-at-15-02-utc-from-russia-by-a-dnepr.md)
-_Context: Bigelow Aerospace, Dnepr, Genesis II_
+_Context: Dnepr, Bigelow Aerospace, Genesis II_
 
 ##### UNESCO
 ### [ UNESCO designates 22 new World Heritage Sites, including the Sydney Opera House; Canada's Rideau Canal; Japan's Iwami Ginzan Silver Mine; Turkmenistan's Parthian Fortresses of Nisa; India's Red Fort complexes; the Lope-Okanda Landscape of Gabon; the Richtersveld desert of South Africa; the rock carvings of Twyfelfontein in Namibia; the fortified tower houses of Guangdong Province in the People's Republic of China; Teide National Park in the Canary Islands, Spain; the ancient beech forests of Central Europe; Mehmed Pasa Sokolovic Bridge in Bosnia and Herzegovina; Bordeaux and the Port de la Lune in France; the Old Town of Corfu in Greece; and the Palace of Galerius in Gamzigrad-Romuliana in Serbia. ](/news/2007/06/28/unesco-designates-22-new-world-heritage-sites-including-the-sydney-opera-house-canada-s-rideau-canal-japan-s-iwami-ginzan-silver-mine-t.md)

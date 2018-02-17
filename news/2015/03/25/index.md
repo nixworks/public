@@ -5,11 +5,11 @@ Formats: [HTML](2015/03/25/index.html)  [JSON](2015/03/25/index.json)  [XML](201
 
 ##### War in Afghanistan (2015-present)
 ### [The Afghan National Army kills twenty-nine insurgents and injures twenty-one others in a series of operations in Daikundi, Ghazni, and Parwan provinces during the past 24 hours. ](/news/2015/03/25/the-afghan-national-army-kills-twenty-nine-insurgents-and-injures-twenty-one-others-in-a-series-of-operations-in-daikundi-ghazni-and-parwa.md)
-_Context: Daikundi, Parwan province, War in Afghanistan (2015-present), Afghan National Army, Ghazni_
+_Context: Ghazni, Daikundi, Afghan National Army, Parwan province, War in Afghanistan (2015-present)_
 
 ##### Aftermath of the 2014-15 Yemeni coup d'etat
 ### [Yemeni President Abed Rabbo Mansour Hadi flees Yemen in a boat after Houthi rebels besiege the government's temporary capital of Aden in the southern part of the country. ](/news/2015/03/25/yemeni-president-abed-rabbo-mansour-hadi-flees-yemen-in-a-boat-after-houthi-rebels-besiege-the-government-s-temporary-capital-of-aden-in-the.md)
-_Context: Houthi, Aden, Yemen, Aftermath of the 2014-15 Yemeni coup d'etat, Abed Rabbo Mansour Hadi_
+_Context: Houthi, Yemen, Aftermath of the 2014-15 Yemeni coup d'etat, Aden, Abed Rabbo Mansour Hadi_
 
 ##### BBC
 ### [The BBC sacks Jeremy Clarkson, one of the three presenters for the television program "Top Gear". ](/news/2015/03/25/the-bbc-sacks-jeremy-clarkson-one-of-the-three-presenters-for-the-television-program-top-gear.md)
@@ -21,7 +21,7 @@ Zayn Malik has spoken of his decision to leave One Direction after being signed 
 
 ##### Kraft Foods
 ### [American companies Kraft Foods and H.J. Heinz announce merger plans to create a combined company, The Kraft Heinz Company, which will be led by the present CEO of Heinz, Bernardo Hees. ](/news/2015/03/25/american-companies-kraft-foods-and-h-j-heinz-announce-merger-plans-to-create-a-combined-company-the-kraft-heinz-company-which-will-be-led.md)
-_Context: H.J. Heinz, Kraft Foods, Kraft Heinz Company, Bernardo Hees_
+_Context: Kraft Foods, Bernardo Hees, H.J. Heinz, Kraft Heinz Company_
 
 ##### Germanwings Flight 9525
 ### [A search and recovery operation resumes for the remains of the Germanwings flight that crashed into the French Alps on March 24. ](/news/2015/03/25/a-search-and-recovery-operation-resumes-for-the-remains-of-the-germanwings-flight-that-crashed-into-the-french-alps-on-march-24.md)
@@ -33,7 +33,7 @@ At least one person is killed and several others are injured after a tornado roa
 
 ##### United States soldier
 ### [The US Army charges US Army soldier Bowe Bergdahl, who was held captive by the Taliban-aligned Haqqani network in Afghanistan from June 2009 until his release in May 2014, with desertion and misbehavior before the enemy. ](/news/2015/03/25/the-us-army-charges-us-army-soldier-bowe-bergdahl-who-was-held-captive-by-the-taliban-aligned-haqqani-network-in-afghanistan-from-june-2009.md)
-_Context: Afghan, Haqqani network, Bowe Bergdahl, United States soldier, Taliban_
+_Context: Bowe Bergdahl, Taliban, Haqqani network, Afghan, United States soldier_
 
 ## [Previous Day...](/news/2015/03/24/index.md)
 

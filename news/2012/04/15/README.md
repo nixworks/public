@@ -17,17 +17,17 @@ Nearly 400 prisoners including militants escaped early Sunday from a jail in nor
 
 ##### Sudan
 ### [Sudanese warplanes bomb the border town of Heglig, seized by South Sudan last week. ](/news/2012/04/15/sudanese-warplanes-bomb-the-border-town-of-heglig-seized-by-south-sudan-last-week.md)
-_Context: South Sudan, Heglig, Sudan_
+_Context: Sudan, South Sudan, Heglig_
 
 ##### Russia
 ### [Russian Orthodox patriarch Kirill says the church is stronger than its critics after a series of scandals. ](/news/2012/04/15/russian-orthodox-patriarch-kirill-says-the-church-is-stronger-than-its-critics-after-a-series-of-scandals.md)
-_Context: Orthodox, Russia, Kirill_
+_Context: Kirill, Russia, Orthodox_
 
 ##### Spain
 ### [Spanish King Juan Carlos is criticised for going on a hunting trip to Botswana while his country is in an economic crisis. ](/news/2012/04/15/spanish-king-juan-carlos-is-criticised-for-going-on-a-hunting-trip-to-botswana-while-his-country-is-in-an-economic-crisis.md)
 Spain&#039;s King Juan Carlos has come under fire for going on a hunting trip to Botswana while Spaniards continue to grapple with an economic crisis.
 
-##### China
+##### Chinese
 ### [China loosens controls on the yuan, allowing it to fluctuate up to 1% in trading against the United States dollar, up from 0.5%. ](/news/2012/04/15/china-loosens-controls-on-the-yuan-allowing-it-to-fluctuate-up-to-1-in-trading-against-the-united-states-dollar-up-from-0-5.md)
 China loosens its currency controls in a move that may spur gains in the value of the yuan.
 
@@ -37,15 +37,15 @@ Police beef up airport presence in anticipation of pro-Palestinians&#8217; arriv
 
 ##### U.S. Secret Service
 ### [The U.S. Secret Service announces it has put 11 agents on leave while it investigates alleged "inappropriate conduct" in Cartagena, Colombia, before the 6th Summit of the Americas there attended by U.S. President Barack Obama. It emerges that five soldiers are also facing investigation. ](/news/2012/04/15/the-u-s-secret-service-announces-it-has-put-11-agents-on-leave-while-it-investigates-alleged-inappropriate-conduct-in-cartagena-colombia.md)
-_Context: Cartagena, U.S. Secret Service, 6th Summit of the Americas, Barack Obama_
+_Context: Cartagena, 6th Summit of the Americas, U.S. Secret Service, Barack Obama_
 
 ##### North Korea
 ### [In his first public speech, North Korean leader Kim Jong-un calls for a push towards "final victory" at a ceremony in Kim Il-sung Square in the capital Pyongyang. ](/news/2012/04/15/in-his-first-public-speech-north-korean-leader-kim-jong-un-calls-for-a-push-towards-final-victory-at-a-ceremony-in-kim-il-sung-square-in.md)
-_Context: North Korea, Kim Jong-un, Kim Il-sung Square, Pyongyang_
+_Context: Pyongyang, North Korea, Kim Jong-un, Kim Il-sung Square_
 
 ##### Swaziland
 ### [Police in Swaziland detain at least seven activists on their way to a pro-democracy church service in the city of Manzini. ](/news/2012/04/15/police-in-swaziland-detain-at-least-seven-activists-on-their-way-to-a-pro-democracy-church-service-in-the-city-of-manzini.md)
-_Context: democratic, Manzini, Swaziland_
+_Context: Swaziland, democratic, Manzini_
 
 ##### Belarus
 ### [Belarus releases a second opposition leader amid pressure from the European Union. ](/news/2012/04/15/belarus-releases-a-second-opposition-leader-amid-pressure-from-the-european-union.md)

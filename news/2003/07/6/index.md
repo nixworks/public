@@ -5,11 +5,11 @@ Formats: [HTML](2003/07/6/index.html)  [JSON](2003/07/6/index.json)  [XML](2003/
 
 ##### Laden and Laleh Bijani
 ### [ Laden and Laleh Bijani, 29-year-old female Iranian twins conjoined at the head, begin their two-to-four-day-long separation surgery in Singapore. ](/news/2003/07/6/laden-and-laleh-bijani-29-year-old-female-iranian-twins-conjoined-at-the-head-begin-their-two-to-four-day-long-separation-surgery-in-sing.md)
-_Context: Laden and Laleh Bijani, Iran, conjoined, Singapore, surgery_
+_Context: Singapore, Laden and Laleh Bijani, Iran, surgery, conjoined_
 
 ##### Wimbledon
 ### [ Roger Federer makes history, becoming the first Swiss male ever to win the Wimbledon final, defeating Mark Philippoussis, 7-6 (7-5), 6-2, 7-6 (7-3). Martina Navratilova equals her idol, Billie Jean King's record of 20 Wimbledon titles after winning the mixed doubles final with Leander Paes against Andy Ram Anastassia Rodionova, 6-3 6-3. ](/news/2003/07/6/roger-federer-makes-history-becoming-the-first-swiss-male-ever-to-win-the-wimbledon-final-defeating-mark-philippoussis-7a6-7a5-6a.md)
-_Context: Roger Federer, Billie Jean King, Martina Navratilova, Leander Paes, Switzerland, Wimbledon, Anastassia Rodionova, Andy Ram, Mark Philippoussis_
+_Context: Wimbledon, Martina Navratilova, Anastassia Rodionova, Mark Philippoussis, Switzerland, Roger Federer, Leander Paes, Billie Jean King, Andy Ram_
 
 ## [Previous Day...](/news/2003/07/5/index.md)
 

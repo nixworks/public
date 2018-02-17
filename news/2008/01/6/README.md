@@ -13,7 +13,7 @@ _Context: Mikhail Saakashvili, Georgian presidential election, 2008,  Georgian_
 
 ##### Iran
 ### [ Five armed Iranian boats confront three U.S. Navy warships in international waters near the Strait of Hormuz. ](/news/2008/01/6/five-armed-iranian-boats-confront-three-u-s-navy-warships-in-international-waters-near-the-strait-of-hormuz.md)
-_Context: Iran, U.S. Navy, Strait of Hormuz_
+_Context: Strait of Hormuz, Iran, U.S. Navy_
 
 ## [Previous Day...](/news/2008/01/5/index.md)
 

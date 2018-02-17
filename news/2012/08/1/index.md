@@ -5,7 +5,7 @@ Formats: [HTML](2012/08/1/index.html)  [JSON](2012/08/1/index.json)  [XML](2012/
 
 ##### Alfred Hitchcock
 ### [Alfred Hitchcock's 1958 suspense thriller "Vertigo" is named as the greatest film of all time in a poll by the British Film Institute's "Sight and Sound" magazine. ](/news/2012/08/1/alfred-hitchcock-s-1958-suspense-thriller-vertigo-is-named-as-the-greatest-film-of-all-time-in-a-poll-by-the-british-film-institute-s-sig.md)
-_Context: Alfred Hitchcock, Vertigo, Sight and Sound_
+_Context: Vertigo, Alfred Hitchcock, Sight and Sound_
 
 ##### India
 ### [Power is restored in India following an earlier blackout in three grids that left over 600 million people without power. ](/news/2012/08/1/power-is-restored-in-india-following-an-earlier-blackout-in-three-grids-that-left-over-600-million-people-without-power.md)
@@ -17,7 +17,7 @@ _Context: Forbes, Saudi Aramco_
 
 ##### Taiwan
 ### [Heading toward Taiwan, slow-moving Typhoon Saola's torrential rains lead to the deaths of at least 12 people and displacement of 154,000 in the Philippines. ](/news/2012/08/1/heading-toward-taiwan-slow-moving-typhoon-saola-s-torrential-rains-lead-to-the-deaths-of-at-least-12-people-and-displacement-of-154-000-in.md)
-_Context: Typhoon Saola, the Philippines, Taiwan_
+_Context: the Philippines, Taiwan, Typhoon Saola_
 
 ##### Tal Law
 ### [The Tal Law, which granted a sweeping exemption from military service to a majority of the Israeli ultra-Orthodox population in Israel, expires. As a result Defense Minister Ehud Barak orders the Israeli Defense Forces to prepare for a universal draft of ultra-Orthodox Jewish males in 30 days. ](/news/2012/08/1/the-tal-law-which-granted-a-sweeping-exemption-from-military-service-to-a-majority-of-the-israeli-ultra-orthodox-population-in-israel-expi.md)
@@ -29,7 +29,7 @@ _Context: Mogadishu, Somalia_
 
 ##### Mexican Army
 ### [Prosecutors formally charge three Mexican Army generals, including active General Roberto Dawe Gonzalez and retired General Toms ngeles Dauahare, and a lieutenant-colonel for their alleged links to a drug trafficking organization known as the Beltrn-Leyva Cartel. ](/news/2012/08/1/prosecutors-formally-charge-three-mexican-army-generals-including-active-general-roberto-dawe-gonzalez-and-retired-general-tomas-angeles-da.md)
-_Context: Beltrn-Leyva Cartel, Mexican Army, Toms ngeles Dauahare, Roberto Dawe Gonzalez_
+_Context: Roberto Dawe Gonzalez, Toms ngeles Dauahare, Beltrn-Leyva Cartel, Mexican Army_
 
 ##### India
 ### [Four coordinated low intensity bombs explode in the Indian city of Pune. ](/news/2012/08/1/four-coordinated-low-intensity-bombs-explode-in-the-indian-city-of-pune.md)

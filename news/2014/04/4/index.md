@@ -21,7 +21,7 @@ BAGHDAD: Attacks in Baghdad and predominantly Sunni Arab areas of northern and w
 
 ##### LaFarge
 ### [The two largest cement manufacturers in the world, Lafarge and Holcim, announce plans for a merger. ](/news/2014/04/4/the-two-largest-cement-manufacturers-in-the-world-lafarge-and-holcim-announce-plans-for-a-merger.md)
-_Context: merger, LaFarge, Holcim_
+_Context: LaFarge, merger, Holcim_
 
 ##### Mazda
 ### [Mazda announces the recall of 42,000 units of its Mazda6 model built from 2010 to 2012, citing fuel tank issues. The recall specifically refers to those with 2.5 liter engines. ](/news/2014/04/4/mazda-announces-the-recall-of-42-000-units-of-its-mazda6-model-built-from-2010-to-2012-citing-fuel-tank-issues-the-recall-specifically-ref.md)

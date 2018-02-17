@@ -5,7 +5,7 @@ Formats: [HTML](2015/12/29/index.html)  [JSON](2015/12/29/index.json)  [XML](201
 
 ##### War in North-West Pakistan
 ### [A suicide-bomb attack outside the regional office of the National Database and Registration Authority (NADRA) in the northwestern Pakistani city of Mardan, Khyber Pakhtunkhwa, leaves at least 26 people dead and 45 wounded. The militant Islamist group Jamaat-ul-Ahrar, a Tehrik-i-Taliban Pakistan splinter group, claims responsibility for the attack. ](/news/2015/12/29/a-suicide-bomb-attack-outside-the-regional-office-of-the-national-database-and-registration-authority-nadra-in-the-northwestern-pakistani.md)
-_Context: Mardan, Northwestern Pakistan, War in North-West Pakistan, suicide bombing, Tehrik-i-Taliban Pakistan, Jamaat-ul-Ahrar, Pakistan, Islamists, National Database and Registration Authority_
+_Context: War in North-West Pakistan, Mardan, Islamists, suicide bombing, Tehrik-i-Taliban Pakistan, Jamaat-ul-Ahrar, National Database and Registration Authority, Northwestern Pakistan, Pakistan_
 
 ##### Syrian Civil War
 ### [The United States military announces that a key Islamic State leader with ties to the Paris attack terrorists was killed in a coalition airstrike on December 24, 2015. Charaffe al Mouadan is the tenth ISIL leader killed by an airstrike since December 7. ](/news/2015/12/29/the-united-states-military-announces-that-a-key-islamic-state-leader-with-ties-to-the-paris-attack-terrorists-was-killed-in-a-coalition-airs.md)
@@ -13,7 +13,7 @@ Charaffe al Mouadan grew up with one of the Paris attackers, a French newspaper 
 
 ##### Le Monde
 ### [ The French newspaper "Le Monde" claims that the November 13, 2015 Paris attacks were coordinated from Belgium by a single unidentified suspect. ](/news/2015/12/29/the-french-newspaper-le-monde-claims-that-the-november-13-2015-paris-attacks-were-coordinated-from-belgium-by-a-single-unidentified-susp.md)
-_Context: Le Monde, November 2015 Paris attacks_
+_Context: November 2015 Paris attacks, Le Monde_
 
 ##### DuPont
 ### [American chemical giant DuPont announces that, in early 2016, it will cut 1,700 jobs in Delaware, about 28 percent of its home state workforce, and thousands more globally in connection as a result of the Dow Chemical Company merger. ](/news/2015/12/29/american-chemical-giant-dupont-announces-that-in-early-2016-it-will-cut-1-700-jobs-in-delaware-about-28-percent-of-its-home-state-workfor.md)
@@ -41,7 +41,7 @@ A rich Texas teenager who fled with his mother to Mexico to avoid possible jail 
 
 ##### Lebanese Customs
 ### [Lebanese Customs seize five tonnes of Captagon amphetamine pills and Hashish, concealed in primary school desks that were to be shipped to Egypt, at Beirut-Rafic Hariri International Airport. Meanwhile, security forces in northern Lebanon found two workshops producing Captagon and other drugs during a series of raids. The drug is infamous as being used by Islamist militants in the Syrian civil war. ](/news/2015/12/29/lebanese-customs-seize-five-tonnes-of-captagon-amphetamine-pills-and-hashish-concealed-in-primary-school-desks-that-were-to-be-shipped-to-e.md)
-_Context: Captagon amphetamine pills, Lebanese, Beirut-Rafic Hariri International Airport, Syrian civil war, Egypt, Hashish, Lebanese Customs_
+_Context: Hashish, Lebanese Customs, Lebanese, Syrian civil war, Beirut-Rafic Hariri International Airport, Captagon amphetamine pills, Egypt_
 
 ##### Chicago
 ### [Chicago, Illinois police officer, Jason Van Dyke, enters a not guilty plea regarding the charges of the 2014 shooting death of Laquan McDonald. ](/news/2015/12/29/chicago-illinois-police-officer-jason-van-dyke-enters-a-not-guilty-plea-regarding-the-charges-of-the-2014-shooting-death-of-laquan-mcdona.md)
@@ -49,19 +49,19 @@ The lawyer for the officer said his client looked forward to a chance to get his
 
 ##### El Salvador
 ### [El Salvador's murder rate surges by 70% in 2015, an increase that may lead to the Central American nation edging out Honduras as the world's most murderous nation. ](/news/2015/12/29/el-salvador-s-murder-rate-surges-by-70-in-2015-an-increase-that-may-lead-to-the-central-american-nation-edging-out-honduras-as-the-world-s.md)
-_Context: Honduras, Central America, El Salvador, world's most murderous nation_
+_Context: world's most murderous nation, El Salvador, Honduras, Central America_
 
 ##### Eloy Inos
 ### [Eloy Inos, the Governor of the Northern Mariana Islands since 2013, dies in office. ](/news/2015/12/29/eloy-inos-the-governor-of-the-northern-mariana-islands-since-2013-dies-in-office.md)
 Gov. Eloy S. Inos has passed away in the U.S. mainland, sources told Saipan Tribune this morning. Press secretary Ivan Blanco declined to comment when Saipan Tribune asked if the reports were true on Inos’ passing, but then stated that a Cabinet meeting is being set and a press conference is sched...
 
-##### 2016 U.S. presidential election
+##### 2016 U.S. election
 ### [Former Governor of New York, George Pataki, ends his campaign for the Republican Party nomination for President of the United States. ](/news/2015/12/29/former-governor-of-new-york-george-pataki-ends-his-campaign-for-the-republican-party-nomination-for-president-of-the-united-states.md)
 The former New York governor had complained the race had turned into a &quot;reality gong show.”
 
 ##### North Korea
 ### [North Korea's state media says Kim Yang-gon, a top aide to supreme leader Kim Jong-un and secretary of the ruling Workers' Party of Korea (WPK), who was also in charge of ties with South Korea, dies in a car crash. ](/news/2015/12/29/north-korea-s-state-media-says-kim-yang-gon-a-top-aide-to-supreme-leader-kim-jong-un-and-secretary-of-the-ruling-workers-party-of-korea-w.md)
-_Context: Workers' Party of Korea, Kim Yang-gon, South Korea, North Korea, Kim Jong-un, Korean Central News Agency_
+_Context: Kim Jong-un, South Korea, Workers' Party of Korea, North Korea, Korean Central News Agency, Kim Yang-gon_
 
 ## [Previous Day...](/news/2015/12/28/index.md)
 

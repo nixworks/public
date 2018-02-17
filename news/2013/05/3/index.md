@@ -37,13 +37,13 @@ There has been mixed reaction over the Brian Shivers not guilty verdict.
 
 ##### Pakistan
 ### [Chaudhry Zulfiqar Ali, a prosecutor with Pakistan's Federal Investigation Agency leading the prosecution of former President Pervez Musharraf over alleged involvement in the assassination of Benazir Bhutto, is shot dead on the way to court in Islamabad. ](/news/2013/05/3/chaudhry-zulfiqar-ali-a-prosecutor-with-pakistan-s-federal-investigation-agency-leading-the-prosecution-of-former-president-pervez-musharra.md)
-_Context: president, Islamabad, Benazir Bhutto, Pakistan, Federal Investigation Agency, Pervez Musharraf_
+_Context: Pervez Musharraf, Pakistan, Federal Investigation Agency, Islamabad, Benazir Bhutto, president_
 
 ##### Daryl Washington
 ### [Daryl Washington, an American football player with the Arizona Cardinals, is arrested on aggravated assault charges in Phoenix, Arizona. ](/news/2013/05/3/daryl-washington-an-american-football-player-with-the-arizona-cardinals-is-arrested-on-aggravated-assault-charges-in-phoenix-arizona.md)
-_Context: Arizona Cardinals, Daryl Washington, Phoenix, Arizona, NFL_
+_Context: Arizona Cardinals, Phoenix, Arizona, Daryl Washington, NFL_
 
-##### China
+##### Chinese
 ### [Police in China arrest more than 900 people as they shutdown a million dollar crime ring that was selling rat meat as mutton. ](/news/2013/05/3/police-in-china-arrest-more-than-900-people-as-they-shutdown-a-million-dollar-crime-ring-that-was-selling-rat-meat-as-mutton.md)
 Chinese police have broken a crime ring that passed off more than $1 million in rat and small mammal meat as mutton, authorities said, in a food safety crackdown that coincides with a bird flu outbreak and other environmental pressures.
 
@@ -55,7 +55,7 @@ UKIP leader Nigel Farage hails gains in council elections across England - while
 ### [Google calls one of its search engine websites "Google Palestine" instead of "Google Palestinian territories". ](/news/2013/05/3/google-calls-one-of-its-search-engine-websites-google-palestine-instead-of-google-palestinian-territories.md)
 Internet search engine Google changes the tagline on the front page of its Palestinian edition from &quot;Palestinian Territories&quot; to &quot;Palestine&quot;.
 
-##### China
+##### Chinese
 ### [An international team of scientists announce the discovery in China of a new meat-eating Theropod dinosaur, "Aorun zhaoi", dating from 161 million years ago. It is the oldest Coelurosaur known to date. ](/news/2013/05/3/an-international-team-of-scientists-announce-the-discovery-in-china-of-a-new-meat-eating-theropod-dinosaur-aorun-zhaoi-dating-from-161-m.md)
 A new species of meat-eating dinosaurs have been discovered in China.
 

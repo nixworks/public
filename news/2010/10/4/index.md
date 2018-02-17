@@ -33,7 +33,7 @@ Latest breaking news articles, photos, video, blogs, reviews, analysis, opinion 
 
 ##### High altitude
 ### [The world's oldest known high altitude human settlement, estimated to be 49,000 years old, is uncovered near Kokoda, Papua New Guinea. ](/news/2010/10/4/the-world-s-oldest-known-high-altitude-human-settlement-estimated-to-be-49-000-years-old-is-uncovered-near-kokoda-papua-new-guinea.md)
-_Context: high altitude, Kokoda, Papua New Guinea, human settlement_
+_Context: Papua New Guinea, high altitude, Kokoda, human settlement_
 
 ##### Jonathan Evans
 ### [Jonathan Evans, head of Britain's MI5, gives a rare interview, disclosing details of his love for classics and calling for wider availability of Latin and Greek in schools as, he claims, they are useful for spies. ](/news/2010/10/4/jonathan-evans-head-of-britain-s-mi5-gives-a-rare-interview-disclosing-details-of-his-love-for-classics-and-calling-for-wider-availabilit.md)
@@ -65,15 +65,15 @@ The suit centers on rules and fees the companies impose on merchants. They are c
 
 ##### Indonesia
 ### [Indonesian Coordinating Minister for Public Welfare Affairs Agung Laksono said here on Tuesday that the massive flood in Wasior, West Papua that continuously occurred from Sunday to Monday has claimed 56 lives. ](/news/2010/10/4/indonesian-coordinating-minister-for-public-welfare-affairs-agung-laksono-said-here-on-tuesday-that-the-massive-flood-in-wasior-west-papua.md)
-_Context: Wasior, Agung Laksono, Indonesia, West Papua_
+_Context: Agung Laksono, Wasior, Indonesia, West Papua_
 
 ##### Hatay Province
 ### [3 people were killed and 5 were injured after a boiler exploded in a tannery in Hatay in the Dericiler area of Guzelburc town. The injured were taken to Mustafa Kemal University's faculty of medicine hospital. ](/news/2010/10/4/3-people-were-killed-and-5-were-injured-after-a-boiler-exploded-in-a-tannery-in-hatay-in-the-dericiler-area-of-ga1-4zelburass-town-the-injured.md)
-_Context: Mustafa Kemal University, Hatay Province, Guzelburc_
+_Context: Hatay Province, Mustafa Kemal University, Guzelburc_
 
 ##### Netravati Express
 ### [Two persons were killed when a mini-lorry was hit by the Netravati Express, they were travelling at an unmanned level crossing at Panachuvadu near Punnapra, India. ](/news/2010/10/4/two-persons-were-killed-when-a-mini-lorry-was-hit-by-the-netravati-express-they-were-travelling-at-an-unmanned-level-crossing-at-panachuvad.md)
-_Context: Panachuvadu, Netravati Express, Punnapra_
+_Context: Panachuvadu, Punnapra, Netravati Express_
 
 ##### Indonesia
 ### [At least 26 are killed and many more left missing after flash floods in eastern Indonesia's Papua province. ](/news/2010/10/4/at-least-26-are-killed-and-many-more-left-missing-after-flash-floods-in-eastern-indonesia-s-papua-province.md)
@@ -113,7 +113,7 @@ _Context: Syria, Rafic Hariri, Lebanese_
 
 ##### Prime Minister
 ### [Former Prime Minister of Fiji Mahendra Chaudhry is released on bail. ](/news/2010/10/4/former-prime-minister-of-fiji-mahendra-chaudhry-is-released-on-bail.md)
-_Context: bail, Mahendra Chaudhry, Prime Minister_
+_Context: Mahendra Chaudhry, bail, Prime Minister_
 
 ##### Thailand
 ### [A court in Thailand rejects a request to drop charges against Viktor Bout, whom the United States suspects of attempting to sell weapons to its opponents. He was arrested by undercover United States agents in 2008 at a Bangkok hotel. ](/news/2010/10/4/a-court-in-thailand-rejects-a-request-to-drop-charges-against-viktor-bout-whom-the-united-states-suspects-of-attempting-to-sell-weapons-to.md)
@@ -137,11 +137,11 @@ A Brazilian clown is elected to Congress with more votes than any other candidat
 
 ##### Democratic Party
 ### [A Japanese judicial panel calls for charges against top Democratic Party (DPJ) figure Ichiro Ozawa. ](/news/2010/10/4/a-japanese-judicial-panel-calls-for-charges-against-top-democratic-party-dpj-figure-ichira-ozawa.md)
-_Context: Democratic Party, Ichiro Ozawa_
+_Context: Ichiro Ozawa, Democratic Party_
 
 ##### Lima
 ### [Lima receives its first female mayor in Susana Villaran. ](/news/2010/10/4/lima-receives-its-first-female-mayor-in-susana-villara-n.md)
-_Context: Susana Villaran, Lima_
+_Context: Lima, Susana Villaran_
 
 ##### Cuba
 ### [The Cuban government considers another large-scale round of political prisoner releases after the release of 52 in July. ](/news/2010/10/4/the-cuban-government-considers-another-large-scale-round-of-political-prisoner-releases-after-the-release-of-52-in-july.md)

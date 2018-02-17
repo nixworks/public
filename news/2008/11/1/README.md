@@ -17,7 +17,7 @@ A 5.0 magnitude aftershock rattled south-western Pakistan, three days after a po
 
 ##### Lunar probe
 ### [ India's first lunar mission, Chandrayaan-1, transmits two pictures of the Earth while en route to the Moon. ](/news/2008/11/1/india-s-first-lunar-mission-chandrayaan-1-transmits-two-pictures-of-the-earth-while-en-route-to-the-moon.md)
-_Context: Earth, Moon, Chandrayaan-1, lunar probe_
+_Context: Chandrayaan-1, Moon, Earth, lunar probe_
 
 ## [Previous Day...](/news/2008/10/31/index.md)
 

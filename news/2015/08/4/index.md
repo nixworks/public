@@ -9,7 +9,7 @@ Hundreds of Gulf Arab troops from the Saudi-led coalition fighting Iran-backed r
 
 ##### United States Navy
 ### [The U.S. Navy's newest submarine, the 12th in the Virginia-class submarine line, the John Warner, joins the fleet in a commissioning ceremony at Norfolk Naval Station in Norfolk, Virginia. ](/news/2015/08/4/the-u-s-navy-s-newest-submarine-the-12th-in-the-virginia-class-submarine-line-the-john-warner-joins-the-fleet-in-a-commissioning-ceremon.md)
-_Context: Virginia-class submarine, submarine, Norfolk Naval Station, Norfolk, Virginia, United States Navy_
+_Context: submarine, Norfolk Naval Station, Virginia-class submarine, United States Navy, Norfolk, Virginia_
 
 ##### 10 Downing Street
 ### [The Government of the United Kingdom sells 5.4% of the Royal Bank of Scotland raising GBP2.1bn. ](/news/2015/08/4/the-government-of-the-united-kingdom-sells-5-4-of-the-royal-bank-of-scotland-raising-gbp2-1bn.md)
@@ -29,11 +29,11 @@ _Context: Lake Victoria_
 
 ##### University of California,  Riverside
 ### [Researchers from the University of California, Riverside discover that soybean oil and corn oil increase diabetes rates in mice more than coconut oil and fructose. ](/news/2015/08/4/researchers-from-the-university-of-california-riverside-discover-that-soybean-oil-and-corn-oil-increase-diabetes-rates-in-mice-more-than-co.md)
-_Context: fructose, diabetes, corn oil, soybean, mouse, University of California,  Riverside, coconut oil_
+_Context: coconut oil, soybean, diabetes, fructose, University of California,  Riverside, mouse, corn oil_
 
 ##### Roman Catholic Archdiocese of Milwaukee
 ### [The Roman Catholic Archdiocese of Milwaukee, in Milwaukee, Wisconsin, according to its Archbishop, Jerome Listecki, reaches a collective settlement agreement of $21 million for its sex abuse claims, meaning it could emerge from its January 4, 2011 Chapter 11 bankruptcy. ](/news/2015/08/4/the-roman-catholic-archdiocese-of-milwaukee-in-milwaukee-wisconsin-according-to-its-archbishop-jerome-listecki-reaches-a-collective-set.md)
-_Context: Jerome  Listecki, Milwaukee, Roman Catholic Archdiocese of Milwaukee, $, Chapter 11 bankruptcy, Wisconsin_
+_Context: Wisconsin, Chapter 11 bankruptcy, $, Roman Catholic Archdiocese of Milwaukee, Milwaukee, Jerome  Listecki_
 
 ## [Previous Day...](/news/2015/08/3/index.md)
 

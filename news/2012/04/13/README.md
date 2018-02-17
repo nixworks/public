@@ -13,7 +13,7 @@ The UN hopes to send observers to Syria within the next few days to monitor a fr
 
 ##### ECOWAS
 ### [The Economic Community of West African States condemns an apparent coup d'etat in Guinea-Bissau. ](/news/2012/04/13/the-economic-community-of-west-african-states-condemns-an-apparent-coup-d-a-c-tat-in-guinea-bissau.md)
-_Context: ECOWAS, Guinea-Bissau, coup d'etat_
+_Context: coup d'etat, Guinea-Bissau, ECOWAS_
 
 ##### Bollywood
 ### [Bollywood actor Shahrukh Khan is detained by the United States for 90 minutes at a New York airport; the detention draws ire from India's External Affairs Minister S. M. Krishna. ](/news/2012/04/13/bollywood-actor-shahrukh-khan-is-detained-by-the-united-states-for-90-minutes-at-a-new-york-airport-the-detention-draws-ire-from-india-s-ex.md)
@@ -27,7 +27,7 @@ The Spanish government warned on Friday that it would take unspecified retaliato
 ### [North Korea's efforts to launch a long range rocket ends in apparent failure with the rocket breaking up soon after launch. ](/news/2012/04/13/north-korea-s-efforts-to-launch-a-long-range-rocket-ends-in-apparent-failure-with-the-rocket-breaking-up-soon-after-launch.md)
 _Context: North Korea, failed North Korean rocket launch_
 
-##### China
+##### Chinese
 ### [A standoff between Chinese and Filipino ships at the Scarborough Shoal in the South China Sea continues. ](/news/2012/04/13/a-standoff-between-chinese-and-filipino-ships-at-the-scarborough-shoal-in-the-south-china-sea-continues.md)
 * One Chinese ship withdrawn, two remain * Three of 8 Chinese fishing vessels leave shoal * Philippine navy sends ship to disputed area * Diplo
 
@@ -37,15 +37,15 @@ The Prime Minister David Cameron today called for sanctions against Burma to be 
 
 ##### Mongolia
 ### [The former president of Mongolia, Nambaryn Enkhbayar, is detained on corruption charges. ](/news/2012/04/13/the-former-president-of-mongolia-nambaryn-enkhbayar-is-detained-on-corruption-charges.md)
-_Context: Mongolia, Nambaryn Enkhbayar_
+_Context: Nambaryn Enkhbayar, Mongolia_
 
 ##### Nicolas Sarkozy
 ### [French President Nicolas Sarkozy admits he did not visit Fukushima while in Japan after last year's earthquake and tsunami, despite having previously said he had done so. ](/news/2012/04/13/french-president-nicolas-sarkozy-admits-he-did-not-visit-fukushima-while-in-japan-after-last-year-s-earthquake-and-tsunami-despite-having-p.md)
-_Context: Nicolas Sarkozy, Fukushima Daiichi Nuclear Power Plant, Japan, 2011 Tohoku earthquake and tsunami_
+_Context: Japan, Fukushima Daiichi Nuclear Power Plant, 2011 Tohoku earthquake and tsunami, Nicolas Sarkozy_
 
 ##### Bob Brown
 ### [Bob Brown resigns as Parliamentary Leader of the Australian Greens and from the Senate. ](/news/2012/04/13/bob-brown-resigns-as-parliamentary-leader-of-the-australian-greens-and-from-the-senate.md)
-_Context: Australian Greens, Bob Brown, Senate of Australia_
+_Context: Senate of Australia, Australian Greens, Bob Brown_
 
 ## [Previous Day...](/news/2012/04/12/index.md)
 

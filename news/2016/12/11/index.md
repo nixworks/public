@@ -9,7 +9,7 @@ Eight people were killed in two car bombings in the Iraqi city of Falluja west o
 
 ##### War in Somalia (2009-present)
 ### [A suicide bomber kills at least 29 people and injures 50 others in an attack on a police station near Mogadishu's port. ](/news/2016/12/11/a-suicide-bomber-kills-at-least-29-people-and-injures-50-others-in-an-attack-on-a-police-station-near-mogadishu-s-port.md)
-_Context: Mogadishu, War in Somalia (2009-present), December 2016 Mogadishu suicide bombing, suicide bomber_
+_Context: suicide bomber, War in Somalia (2009-present), December 2016 Mogadishu suicide bombing, Mogadishu_
 
 ##### December 2016 Istanbul bombings
 ### [The death toll from yesterday's bombings rises to 38 with 155 injured. Thirteen people have been arrested in connection with the bombings. ](/news/2016/12/11/the-death-toll-from-yesterday-s-bombings-rises-to-38-with-155-injured-thirteen-people-have-been-arrested-in-connection-with-the-bombings.md)
@@ -45,13 +45,13 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ##### 2016 Naivasha oil tanker explosion
 ### [An oil tanker explodes on a main highway near Naivasha, Kenya, killing at least 42 people, according to the Kenya National Disaster Operation Centre. ](/news/2016/12/11/an-oil-tanker-explodes-on-a-main-highway-near-naivasha-kenya-killing-at-least-42-people-according-to-the-kenya-national-disaster-operatio.md)
-_Context: Kenya National Disaster Operation Centre, Naivasha, 2016 Naivasha oil tanker explosion, Kenya_
+_Context: 2016 Naivasha oil tanker explosion, Kenya, Kenya National Disaster Operation Centre, Naivasha_
 
 ##### Uyo church collapse
 ### [The death toll from yesterday's church collapse in Uyo, Nigeria, rises to 160 with the death toll expected to rise further. ](/news/2016/12/11/the-death-toll-from-yesterday-s-church-collapse-in-uyo-nigeria-rises-to-160-with-the-death-toll-expected-to-rise-further.md)
 The roof of a crowded church collapses in southern Nigeria, reportedly killing at least 160 people.
 
-##### 2016 U.S. presidential election
+##### 2016 U.S. election
 ### [Republican campaign manager Kellyanne Conway dismisses allegations of Russian interference in the 2016 U.S. presidential election, calling the claims "laughable and ridiculous". ](/news/2016/12/11/republican-campaign-manager-kellyanne-conway-dismisses-allegations-of-russian-interference-in-the-2016-u-s-presidential-election-calling-t.md)
 &quot;He thinks that people are trying to re-litigate the election,&rdquo; Conway said of Donald Trump.
 
@@ -87,17 +87,17 @@ _Context: Republic of Macedonia, Macedonian parliamentary election, 2016, parlia
 
 ##### Earlier this month
 ### [Romanians head to the polls in the country's parliamentary elections. Exit polls show the Social Democratic Party winning by a wide margin. ](/news/2016/12/11/romanians-head-to-the-polls-in-the-country-s-parliamentary-elections-exit-polls-show-the-social-democratic-party-winning-by-a-wide-margin.md)
-_Context: earlier this month, PSD, Romanians_
+_Context: Romanians, earlier this month, PSD_
 
 ##### Italian constitutional referendum, 2016
 ### [Paolo Gentiloni becomes the new Prime Minister of Italy. ](/news/2016/12/11/paolo-gentiloni-becomes-the-new-prime-minister-of-italy.md)
-_Context: Italian constitutional referendum, 2016, Italy, Paolo Gentiloni, Italian Prime Minister_
+_Context: Italian Prime Minister, Paolo Gentiloni, Italian constitutional referendum, 2016, Italy_
 
 ##### Gambian presidential election, 2016
 ### [Defeated dictator Yahya Jammeh vows to contest the election results in The Gambian supreme court. ](/news/2016/12/11/defeated-dictator-yahya-jammeh-vows-to-contest-the-election-results-in-the-gambian-supreme-court.md)
 _Context: The Gambia, Yahya Jammeh, Gambian presidential election, 2016_
 
-##### Mexican
+##### Mexico
 ### [Mexico's Coronado Islands become a national reserve. ](/news/2016/12/11/mexico-s-coronado-islands-become-a-national-reserve.md)
 Mexico established a new marine biosphere reserve to protect broad areas near the U.S. border.
 

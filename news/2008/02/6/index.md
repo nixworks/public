@@ -5,7 +5,7 @@ Formats: [HTML](2008/02/6/index.html)  [JSON](2008/02/6/index.json)  [XML](2008/
 
 ##### Tungurahua
 ### [ A state of emergency is declared in Tungurahua Province in Ecuador because of increased activity by Tungurahua volcano. ](/news/2008/02/6/a-state-of-emergency-is-declared-in-tungurahua-province-in-ecuador-because-of-increased-activity-by-tungurahua-volcano.md)
-_Context: Ecuador, Tungurahua, Tungurahua_
+_Context: Tungurahua, Ecuador, Tungurahua_
 
 ##### United States
 ### [ A $158 billion plan to stimulate economic growth in the United States fails in the U.S. Senate on a procedural vote 58-41, just short of the 60 votes needed to advance. ](/news/2008/02/6/a-158-billion-plan-to-stimulate-economic-growth-in-the-united-states-fails-in-the-u-s-senate-on-a-procedural-vote-58-41-just-short-of-th.md)
@@ -13,15 +13,15 @@ Senate Republicans on Wednesday blocked a Democratic-backed $157 billion economi
 
 ##### Turkey
 ### [ The Turkish freighter ship "UND Adriyatik" catches fire off Croatia. ](/news/2008/02/6/the-turkish-freighter-ship-und-adriyatik-catches-fire-off-croatia.md)
-_Context: Turkey, UND Adriyatik, Croatia_
+_Context: Turkey, Croatia, UND Adriyatik_
 
 ##### President of Italy
 ### [ President of Italy Giorgio Napolitano dismisses the parliament; the cabinet sets early elections for 13 and 14 April. ](/news/2008/02/6/president-of-italy-giorgio-napolitano-dismisses-the-parliament-the-cabinet-sets-early-elections-for-13-and-14-april.md)
-_Context: parliament, President of Italy, re-elected, Giorgio Napolitano, 13, 14 April_
+_Context: 13, 14 April, President of Italy, Giorgio Napolitano, re-elected, parliament_
 
 ##### Centers for Disease Control
 ### [ The United States Centers for Disease Control says that an infected mother can transmit HIV to her baby via pre-chewed food. ](/news/2008/02/6/the-united-states-centers-for-disease-control-says-that-an-infected-mother-can-transmit-hiv-to-her-baby-via-pre-chewed-food.md)
-_Context: HIV, Centers for Disease Control_
+_Context: Centers for Disease Control, HIV_
 
 ## [Previous Day...](/news/2008/02/5/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2010/11/15/index.html)  [JSON](2010/11/15/index.json)  [XML](201
 
 ##### US diplomat
 ### [US diplomat Richard Holbrooke says the US has a transition plan for Afghanistan, not an exit strategy, and that there will be some drawdown of American troops in Afghanistan next year but the U.S. combat mission will not end there until 2014. ](/news/2010/11/15/us-diplomat-richard-holbrooke-says-the-us-has-a-transition-plan-for-afghanistan-not-an-exit-strategy-and-that-there-will-be-some-drawdown.md)
-_Context: Richard Holbrooke, US diplomat, exit strategy, Afghan, U.S. combat mission_
+_Context: US diplomat, Richard Holbrooke, U.S. combat mission, Afghan, exit strategy_
 
 ##### BHP Billiton
 ### [BHP Billiton abandons its US$39 billion takeover bid for Canadian fertiliser maker Potash Corp. ](/news/2010/11/15/bhp-billiton-abandons-its-us-39-billion-takeover-bid-for-canadian-fertiliser-maker-potash-corp.md)
@@ -25,11 +25,11 @@ _Context: Pakistan, devastating floods, United States_
 
 ##### Iran
 ### [Iran arrests five human rights lawyers for security-related offences, the latest in a series of arrests of Iranian human rights' activists since last year's disputed presidential election. ](/news/2010/11/15/iran-arrests-five-human-rights-lawyers-for-security-related-offences-the-latest-in-a-series-of-arrests-of-iranian-human-rights-activists-s.md)
-_Context: Iran, post-election riots, human rights, Iranian human rights_
+_Context: Iran, human rights, post-election riots, Iranian human rights_
 
 ##### A. Raja
 ### [A. Raja resigns as the Indian Telecommunications Minister over claims that licenses had been improperly given to mobile phone companies. ](/news/2010/11/15/a-raja-resigns-as-the-indian-telecommunications-minister-over-claims-that-licenses-had-been-improperly-given-to-mobile-phone-companies.md)
-_Context: Telecommunications Minister, mobile phone, India, A. Raja_
+_Context: Telecommunications Minister, mobile phone, A. Raja, India_
 
 ##### Guinea
 ### [Violence occurs in Guinea as both candidates declare victory ahead of the Guinean presidential election. ](/news/2010/11/15/violence-occurs-in-guinea-as-both-candidates-declare-victory-ahead-of-the-guinean-presidential-election.md)

@@ -25,15 +25,15 @@ Exactly 15 years after he was sworn as Philippine president, Joseph Estrada take
 
 ##### Hassan Rouhani
 ### [Hassan Rouhani, President-elect of Iran, criticizes the Islamic Republic of Iran Broadcasting (IRIB) over its news censorship of the Syrian civil war and the 2009-10 election protests. He also says Iran needs a cautious approach in its foreign policy. ](/news/2013/06/30/hassan-rouhani-president-elect-of-iran-criticizes-the-islamic-republic-of-iran-broadcasting-irib-over-its-news-censorship-of-the-syrian.md)
-_Context: Iran, Hassan Rouhani, President, Syrian civil war, 2009-10 Iranian election protests, Censorship in Iran, Foreign relations of Iran, Islamic Republic of Iran Broadcasting_
+_Context: Islamic Republic of Iran Broadcasting, Syrian civil war, 2009-10 Iranian election protests, Censorship in Iran, President, Foreign relations of Iran, Iran, Hassan Rouhani_
 
 ##### President of the European Parliament
 ### [The President of the European Parliament demands an explanation from the U.S. for allegations of spying, while new sources hint that the NSA could gather information from several European countries and had placed microphones in the Embassy of Italy to the U.S.. Many European leaders declare themselves greatly disappointed and the issue may bring serious political and economical consequences. ](/news/2013/06/30/the-president-of-the-european-parliament-demands-an-explanation-from-the-u-s-for-allegations-of-spying-while-new-sources-hint-that-the-nsa.md)
-_Context: U.S. for allegations of spying, NSA, Italy, President of the European Parliament_
+_Context: U.S. for allegations of spying, Italy, President of the European Parliament, NSA_
 
 ##### Egyptians
 ### [Egyptians flood the streets in mass protests on the anniversary of the inauguration of President Mohamed Morsi demanding his resignation. ](/news/2013/06/30/egyptians-flood-the-streets-in-mass-protests-on-the-anniversary-of-the-inauguration-of-president-mohamed-morsi-demanding-his-resignation.md)
-_Context: President, Egyptians, Mohamed Morsi_
+_Context: Egyptians, Mohamed Morsi, President_
 
 ##### Camp Nou
 ### [90,000 people attended the 'Concert per la llibertat' (Concert for freedom) for the independence of Catalonia, organized by Omnium Cultural and the Assemblea Nacional Catalana in Camp Nou in Barcelona, Catalonia. ](/news/2013/06/30/90-000-people-attended-the-concert-per-la-llibertat-concert-for-freedom-for-the-independence-of-catalonia-organized-by-amnium-cultural.md)

@@ -17,7 +17,7 @@ Russia turns on a new incoming missile early warning system in its westernmost r
 
 ##### Conrad Murray
 ### [Dr. Conrad Murray is sentenced to four years in jail for involuntary manslaughter in Los Angeles in connection to the death of Michael Jackson in 2009. ](/news/2011/11/29/dr-conrad-murray-is-sentenced-to-four-years-in-jail-for-involuntary-manslaughter-in-los-angeles-in-connection-to-the-death-of-michael-jacks.md)
-_Context: involuntary manslaughter, death of Michael Jackson, Los Angeles, Conrad Murray_
+_Context: Los Angeles, Conrad Murray, death of Michael Jackson, involuntary manslaughter_
 
 ##### Anders Behring Breivik
 ### [Anders Behring Breivik is declared to have been criminally insane when he committed the 2011 Norway attacks that killed 77 people. ](/news/2011/11/29/anders-behring-breivik-is-declared-to-have-been-criminally-insane-when-he-committed-the-2011-norway-attacks-that-killed-77-people.md)
@@ -25,11 +25,11 @@ Anders Behring Breivik, who killed 77 people in a bomb blast and gun rampage in 
 
 ##### Music video
 ### [Seven people, including a toddler, are shot while recording a music video in Oakland, California. ](/news/2011/11/29/seven-people-including-a-toddler-are-shot-while-recording-a-music-video-in-oakland-california.md)
-_Context: California, Oakland, California, music video_
+_Context: Oakland, California, music video, California_
 
 ##### Prime Minister
 ### [The Prime Minister of Thailand, Yingluck Shinawatra, is hospitalised in Bangkok with suspected food poisoning. ](/news/2011/11/29/the-prime-minister-of-thailand-yingluck-shinawatra-is-hospitalised-in-bangkok-with-suspected-food-poisoning.md)
-_Context: Prime Minister, Yingluck Shinawatra, Bangkok_
+_Context: Yingluck Shinawatra, Bangkok, Prime Minister_
 
 ## [Previous Day...](/news/2011/11/28/index.md)
 

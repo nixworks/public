@@ -9,7 +9,7 @@ _Context: Nafusa Mountains, Misrata_
 
 ##### Sri Lanka
 ### [Sri Lanka asks the United Nations not to publish a report on alleged war crimes. ](/news/2011/04/21/sri-lanka-asks-the-united-nations-not-to-publish-a-report-on-alleged-war-crimes.md)
-_Context: Sri Lanka, United Nations_
+_Context: United Nations, Sri Lanka_
 
 ##### Ed Markey
 ### [U.S. Congressman Ed Markey (D-Mass.) sends Apple chief executive Steve Jobs a letter asking him to explain the purpose of a file embedded on iPhones and iPads that keeps a detailed log of the devices' location. ](/news/2011/04/21/u-s-congressman-ed-markey-d-mass-sends-apple-chief-executive-steve-jobs-a-letter-asking-him-to-explain-the-purpose-of-a-file-embedded-on.md)

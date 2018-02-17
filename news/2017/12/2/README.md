@@ -21,7 +21,7 @@ Cyclone Ockhi, which claimed 13 lives in Tamil Nadu and Kerala, has now moved be
 
 ##### Bangladesh-Holy See relations
 ### [Pope Francis ends his six-day trip to Myanmar and Bangladesh by visiting the Rohingya refugees in Dhaka. ](/news/2017/12/2/pope-francis-ends-his-six-day-trip-to-myanmar-and-bangladesh-by-visiting-the-rohingya-refugees-in-dhaka.md)
-_Context: Myanmar, Pope Francis, Dhaka, Rohingya, Bangladesh, refugees, Bangladesh-Holy See relations_
+_Context: Rohingya, Bangladesh-Holy See relations, Bangladesh, Myanmar, Dhaka, Rohingya refugees in Bangladesh, Pope Francis_
 
 ##### Saudi-led intervention in Yemen
 ### [The former president of Yemen Ali Abdullah Saleh suggests that he is open to talking to the Saudi-led coalition that his forces have been fighting for years. ](/news/2017/12/2/the-former-president-of-yemen-ali-abdullah-saleh-suggests-that-he-is-open-to-talking-to-the-saudi-led-coalition-that-his-forces-have-been-fi.md)
@@ -29,11 +29,11 @@ Ali Abdullah Saleh says he may &quot;turn the page&quot; if coalition forces lif
 
 ##### United States and the United Nations
 ### [The Trump administrations withdraws the United States from the Global Compact on Migration of the United Nations. ](/news/2017/12/2/the-trump-administrations-withdraws-the-united-states-from-the-global-compact-on-migration-of-the-united-nations.md)
-_Context: United Nations, United States and the United Nations_
+_Context: United States and the United Nations, United Nations_
 
 ##### Tax Cuts and Jobs Act of 2017
 ### [The United States Senate passes the Republican tax reform bill with a 51-49 vote. ](/news/2017/12/2/the-united-states-senate-passes-the-republican-tax-reform-bill-with-a-51a49-vote.md)
-_Context: United States Senate, Tax Cuts and Jobs Act of 2017, tax reform_
+_Context: United States Senate, tax reform, Tax Cuts and Jobs Act of 2017_
 
 ##### Voyager program
 ### [Voyager 1 successfully fires backup maneuvering thrusters, that had previously remained inactive for 37 years. Those thruster firings are to keep the spacecraft's antenna pointed at Earth, which is vital to maintain communications. ](/news/2017/12/2/voyager-1-successfully-fires-backup-maneuvering-thrusters-that-had-previously-remained-inactive-for-37-years-those-thruster-firings-are-to.md)

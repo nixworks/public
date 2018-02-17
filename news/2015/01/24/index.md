@@ -9,7 +9,7 @@ Pro-Russian rebels claim responsibility for the attack on Mariupol city that kil
 
 ##### Lebanese
 ### [The Islamic State kills eight Lebanese soldiers in the northeastern Lebanese village of Ras Baalbek. ](/news/2015/01/24/the-islamic-state-kills-eight-lebanese-soldiers-in-the-northeastern-lebanese-village-of-ras-baalbek.md)
-_Context: Lebanese, Ras Baalbek_
+_Context: Ras Baalbek, Lebanese_
 
 ##### Target Canada
 ### [Subsequent to the January 15 announcement that Target Canada would close all 133 stores, they announce the layoff of 17,000 employees. ](/news/2015/01/24/subsequent-to-the-january-15-announcement-that-target-canada-would-close-all-133-stores-they-announce-the-layoff-of-17-000-employees.md)

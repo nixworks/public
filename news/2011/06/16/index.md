@@ -5,19 +5,19 @@ Formats: [HTML](2011/06/16/index.html)  [JSON](2011/06/16/index.json)  [XML](201
 
 ##### Ayman al-Zawahiri
 ### [Ayman al-Zawahiri is selected as the successor of leadership of al-Qaeda succeeding Osama bin Laden ](/news/2011/06/16/ayman-al-zawahiri-is-selected-as-the-successor-of-leadership-of-al-qaeda-succeeding-osama-bin-laden.md)
-_Context: Ayman al-Zawahiri, Osama bin Laden, al-Qaeda_
+_Context: Osama bin Laden, Ayman al-Zawahiri, al-Qaeda_
 
 ##### Government of Malaysia
 ### [Web sites associated with the Government of Malaysia are hacked according to a deadline set by the Anonymous group. ](/news/2011/06/16/web-sites-associated-with-the-government-of-malaysia-are-hacked-according-to-a-deadline-set-by-the-anonymous-group.md)
-_Context: Government of Malaysia, hackers, hacker group Anonymous_
+_Context: hacker group Anonymous, Government of Malaysia, hackers_
 
 ##### British
 ### [Sections of the British media report that Prince Harry has been cleared to return to service in the Afghan War. ](/news/2011/06/16/sections-of-the-british-media-report-that-prince-harry-has-been-cleared-to-return-to-service-in-the-afghan-war.md)
-_Context: British, Prince Harry, War in Afghanistan (2001-present)_
+_Context: Prince Harry, War in Afghanistan (2001-present), British_
 
 ##### Libyan
 ### [Libyan leader Muammar Gaddafi's compound in Tripoli is hit by a NATO bombing raid. ](/news/2011/06/16/libyan-leader-muammar-gaddafi-s-compound-in-tripoli-is-hit-by-a-nato-bombing-raid.md)
-_Context: Muammar Gaddafi, Tripoli, Libyan, NATO_
+_Context: NATO, Tripoli, Libyan, Muammar Gaddafi_
 
 ##### BBC
 ### [The BBC apologises to clothing retailer Primark for a "Panorama" documentary showing boys in a Bangalore clothing workshop. ](/news/2011/06/16/the-bbc-apologises-to-clothing-retailer-primark-for-a-panorama-documentary-showing-boys-in-a-bangalore-clothing-workshop.md)
@@ -29,7 +29,7 @@ _Context: Sotheby's, London, Sir Stanley Spencer_
 
 ##### British
 ### [British comedians Matt Lucas and David Walliams end their partnership which led to successful television shows "Come Fly With Me" and "Little Britain". ](/news/2011/06/16/british-comedians-matt-lucas-and-david-walliams-end-their-partnership-which-led-to-successful-television-shows-come-fly-with-me-and-littl.md)
-_Context: Matt Lucas, Come Fly With Me, Little Britain, David Walliams, British_
+_Context: British, Come Fly With Me, Little Britain, David Walliams, Matt Lucas_
 
 ##### Software
 ### [Software company Oracle announces that it is looking for damages "in the billions of dollars" from Google in an ongoing patent law action over the smartphone. ](/news/2011/06/16/software-company-oracle-announces-that-it-is-looking-for-damages-in-the-billions-of-dollars-from-google-in-an-ongoing-patent-law-action-ov.md)
@@ -37,15 +37,15 @@ Oracle Corp is seeking damages &quot;in the billions of dollars&quot; from Googl
 
 ##### Australian
 ### [Australian airlines QANTAS and Virgin Australia cancel flights to New Zealand and postpone flights to Argentina due to the continued presence of volcanic ash from the 2011 Puyehue eruption. ](/news/2011/06/16/australian-airlines-qantas-and-virgin-australia-cancel-flights-to-new-zealand-and-postpone-flights-to-argentina-due-to-the-continued-presenc.md)
-_Context: Argentina, 2011 Puyehue eruption, QANTAS, Australian, New Zealand, Virgin Australia_
+_Context: Australian, Virgin Australia, QANTAS, New Zealand, Argentina, 2011 Puyehue eruption_
 
 ##### Earthquake
 ### [A strong earthquake of 6.6 magnitude occurs off the coast of New Britain in Papua New Guinea but no tsunami warning is issued. ](/news/2011/06/16/a-strong-earthquake-of-6-6-magnitude-occurs-off-the-coast-of-new-britain-in-papua-new-guinea-but-no-tsunami-warning-is-issued.md)
-_Context: earthquake, New Britain, Papua New Guinea, tsunami_
+_Context: tsunami, earthquake, Papua New Guinea, New Britain_
 
 ##### Dioxin
 ### [Traces of dioxin are found in stream waters near the United States Army base Camp Carroll in South Korea where drums of Agent Orange were allegedly dumped three decades ago. ](/news/2011/06/16/traces-of-dioxin-are-found-in-stream-waters-near-the-united-states-army-base-camp-carroll-in-south-korea-where-drums-of-agent-orange-were-al.md)
-_Context: Agent Orange, South Korea, United States soldier, dioxin, Camp Carroll_
+_Context: Camp Carroll, dioxin, United States soldier, Agent Orange, South Korea_
 
 ##### Indonesia
 ### [An Indonesian court delivers a guilty verdict in the terrorism trial of radical Muslim cleric Abu Bakar Bashir in the South Jakarta District Court and sentenced to 15 years in prison. ](/news/2011/06/16/an-indonesian-court-delivers-a-guilty-verdict-in-the-terrorism-trial-of-radical-muslim-cleric-abu-bakar-bashir-in-the-si-uth-jakarta-distric.md)
@@ -53,7 +53,7 @@ Indonesian cleric Abu Bakar Bashir has been found guilty of inciting and organis
 
 ##### Simon Overland
 ### [Simon Overland resigns as the Chief Commissioner of Police in the Australian state of Victoria following the release of a damning Ombudsman's report on the release of dodgy crime statistics before the 2010 Victorian election. ](/news/2011/06/16/simon-overland-resigns-as-the-chief-commissioner-of-police-in-the-australian-state-of-victoria-following-the-release-of-a-damning-ombudsman.md)
-_Context: Simon Overland, Ombudsman, Victoria, Australia, Victoria Police, 2010 Victorian election_
+_Context: Australia, Victoria Police, Simon Overland, Victoria, 2010 Victorian election, Ombudsman_
 
 ##### Ivory Coast
 ### [Authorities in the Ivory Coast set up a national commission to investigate crimes committed during the 2010-2011 Ivorian crisis. ](/news/2011/06/16/authorities-in-the-ivory-coast-set-up-a-national-commission-to-investigate-crimes-committed-during-the-2010a2011-ivorian-crisis.md)
@@ -69,7 +69,7 @@ MPs pass a motion condemning the Malaysian asylum swap deal, a move which opens 
 
 ##### United States House of Representatives
 ### [U.S. Representative Anthony Weiner of New York resigns his office amidst pressure from Democratic leadership and President Barack Obama after admitting to sending lewd photos via Twitter. ](/news/2011/06/16/u-s-representative-anthony-weiner-of-new-york-resigns-his-office-amidst-pressure-from-democratic-leadership-and-president-barack-obama-afte.md)
-_Context: Twitter, Barack Obama, sending lewd photos, Democrat, New York, United States House of Representatives, Anthony Weiner, U.S. President_
+_Context: Barack Obama, U.S. President, United States House of Representatives, Democrat, Anthony Weiner, Twitter, sending lewd photos, New York_
 
 ## [Previous Day...](/news/2011/06/15/index.md)
 

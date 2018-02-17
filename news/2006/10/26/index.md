@@ -9,15 +9,15 @@ _Context: hijab, Taj El-Din Hilaly, Australia_
 
 ##### National Assembly
 ### [ The National Assembly of Nicaragua passes a law banning all abortions in the run-up to general elections.](/news/2006/10/26/the-national-assembly-of-nicaragua-passes-a-law-banning-all-abortions-in-the-run-up-to-general-elections.md)
-_Context: 2006 general election, abortion law, National Assembly, Nicaragua_
+_Context: 2006 general election, National Assembly, abortion law, Nicaragua_
 
 ##### Russia
 ### [ A Russian Progress spacecraft hauling fresh food, oxygen and vital spare parts for the International Space Station (ISS) arrived at its orbital destination after a successful rendezvous marred by a last-minute antenna glitch. ](/news/2006/10/26/a-russian-progress-spacecraft-hauling-fresh-food-oxygen-and-vital-spare-parts-for-the-international-space-station-iss-arrived-at-its-orb.md)
-_Context: International Space Station, arrived at its orbital destination, Progress spacecraft, Russia_
+_Context: Russia, arrived at its orbital destination, International Space Station, Progress spacecraft_
 
 ##### Esperanza Fire
 ### [ Four firefighters are killed and one is critically injured as they tried to control the Esperanza Fire that drove hundreds from their homes near Palm Springs, California, United States. An arsonist started the fire. ](/news/2006/10/26/four-firefighters-are-killed-and-one-is-critically-injured-as-they-tried-to-control-the-esperanza-fire-that-drove-hundreds-from-their-homes.md)
-_Context: Palm Springs, California, Esperanza Fire, United States, arsonist_
+_Context: Esperanza Fire, Palm Springs, California, United States, arsonist_
 
 ##### Pskov
 ### [ Fifteen people die and 400 are admitted to hospital in Pskov, Russia, after consuming alcohol suspected of being tainted with medicinal drugs or chemicals. ](/news/2006/10/26/fifteen-people-die-and-400-are-admitted-to-hospital-in-pskov-russia-after-consuming-alcohol-suspected-of-being-tainted-with-medicinal-dru.md)
@@ -25,11 +25,11 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Governments of Kiribati
 ### [ The Governments of Kiribati and Tuvalu say the citizens of their countries will need to be permanently relocated over the next ten years due to rising sea levels caused by global warming. ](/news/2006/10/26/the-governments-of-kiribati-and-tuvalu-say-the-citizens-of-their-countries-will-need-to-be-permanently-relocated-over-the-next-ten-years-du.md)
-_Context: global warming, Tuvalu, Governments of Kiribati, rising sea levels_
+_Context: Tuvalu, global warming, rising sea levels, Governments of Kiribati_
 
 ##### ExxonMobil Corporation
 ### [ ExxonMobil Corp., the world's largest petroleum extracting company, says its third-quarter net income rose to USD $10.5 billion from $9.92 billion as crude prices rise to an all-time high. This is the second highest quarterly profit figure for a United States company. ](/news/2006/10/26/exxonmobil-corp-the-world-s-largest-petroleum-extracting-company-says-its-third-quarter-net-income-rose-to-usd-10-5-billion-from-9-92.md)
-_Context: petroleum, USD, United States, profit, ExxonMobil Corporation_
+_Context: petroleum, USD, ExxonMobil Corporation, profit, United States_
 
 ##### Afghan
 ### [ Afghan government officials claim at least 60 civilians were killed in ISAF Operation Medusa in the Panjwayi district of Kandahar province on Tuesday. ](/news/2006/10/26/afghan-government-officials-claim-at-least-60-civilians-were-killed-in-isaf-operation-medusa-in-the-panjwayi-district-of-kandahar-province.md)

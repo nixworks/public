@@ -5,39 +5,39 @@ Formats: [HTML](2009/04/2/index.html)  [JSON](2009/04/2/index.json)  [XML](2009/
 
 ##### Canadian
 ### [ Canadian aircraft manufacturer Bombardier Aerospace will cut 3,000 jobs. ](/news/2009/04/2/canadian-aircraft-manufacturer-bombardier-aerospace-will-cut-3-000-jobs.md)
-_Context: cut, Bombardier Aerospace, Aerospace manufacturer, Canadian_
+_Context: Bombardier Aerospace, cut, Canadian, Aerospace manufacturer_
 
 ##### United States
 ### [ United States Federal Judge John D. Bates rules that enemy combatants incarcerated at the U.S. Air Base in Bagram, Afghanistan, have rights to legal trials. ](/news/2009/04/2/united-states-federal-judge-john-d-bates-rules-that-enemy-combatants-incarcerated-at-the-u-s-air-base-in-bagram-afghanistan-have-rights.md)
-_Context: Bagram Air Base, United States, civil rights, Afghan, John D. Bates, Bagram, trial, Federal District Judge, enemy combatant_
+_Context: John D. Bates, Federal District Judge, Bagram Air Base, civil rights, Afghan, United States, trial, enemy combatant, Bagram_
 
 ##### G-20
 ### [ The Group of 20 announces a US$1-trillion agreement to combat the current financial crisis. ](/news/2009/04/2/the-group-of-20-announces-a-us-1-trillion-agreement-to-combat-the-current-financial-crisis.md)
-_Context: announces, current financial crisis, $, G-20_
+_Context: announces, G-20, current financial crisis, $_
 
 ##### Reinsurer
 ### [ Reinsurer Swiss Re will cut 1,000 jobs. ](/news/2009/04/2/reinsurer-swiss-re-will-cut-1-000-jobs.md)
-_Context: Reinsurer, Swiss Re, cut_
+_Context: cut, Swiss Re, Reinsurer_
 
 ##### Lewis Hamilton
 ### [ Lewis Hamilton of Vodafone McLaren Mercedes is disqualified from the 2009 Australian Grand Prix for 'deliberately misleading' the International Automobile Federation. ](/news/2009/04/2/lewis-hamilton-of-vodafone-mclaren-mercedes-is-disqualified-from-the-2009-australian-grand-prix-for-deliberately-misleading-the-internati.md)
-_Context: Australian Grand Prix, International Automobile Federation, 2009, disqualified, Lewis Hamilton, McLaren, Vodafone Group Plc, Mercedes_
+_Context: Australian Grand Prix, McLaren, Lewis Hamilton, Vodafone Group Plc, disqualified, 2009, Mercedes, International Automobile Federation_
 
 ##### United States
 ### [ The U.S. Federal Bureau of Investigation is probing an Internet leak of the upcoming film "X-Men Origins: Wolverine". ](/news/2009/04/2/the-u-s-federal-bureau-of-investigation-is-probing-an-internet-leak-of-the-upcoming-film-x-men-origins-wolverine.md)
-_Context: FBI, Internet, leak, X-Men Origins: Wolverine, United States, upcoming film_
+_Context: leak, Internet, United States, X-Men Origins: Wolverine, FBI, upcoming film_
 
-##### Mexican
+##### Mexico
 ### [ Mexico's Federal Investigations Agency arrests alleged drug trafficker Vicente Carrillo Leyva in Mexico City. ](/news/2009/04/2/mexico-s-federal-investigations-agency-arrests-alleged-drug-trafficker-vicente-carrillo-leyva-in-mexico-city.md)
-_Context: Federal Investigations Agency, Mexican, Mexico City, narcotics_
+_Context: Mexico, Federal Investigations Agency, Mexico City, narcotics_
 
 ##### South Africa
 ### [ The South African National Congress condemns the Most Reverend Desmond Tutu's criticism of the party. ](/news/2009/04/2/the-south-african-national-congress-condemns-the-most-reverend-desmond-tutu-s-criticism-of-the-party.md)
-_Context: Desmond Tutu, party, African National Congress, Most Reverend, South Africa_
+_Context: Most Reverend, Desmond Tutu, party, African National Congress, South Africa_
 
 ##### Bangladesh
 ### [ Bangladesh's government outlaws begging in order to eliminate it by 2014. ](/news/2009/04/2/bangladesh-s-government-outlaws-begging-in-order-to-eliminate-it-by-2014.md)
-_Context: Bangladesh, begging, government_
+_Context: Bangladesh, government, begging_
 
 ## [Previous Day...](/news/2009/04/1/index.md)
 

@@ -25,11 +25,11 @@ Azerbaijani tanks on Wednesday shelled positions in the breakaway Nagorny Karaba
 
 ##### Iraqi Civil War (2014-present)
 ### [Turkey calls on all its citizens to leave all areas of Iraq except Iraqi Kurdistan, due to "increased security risks". ](/news/2015/12/9/turkey-calls-on-all-its-citizens-to-leave-all-areas-of-iraq-except-iraqi-kurdistan-due-to-increased-security-risks.md)
-_Context: Turkey, Iraq, Kurdish, Iraqi Civil War (2014-present)_
+_Context: Iraq, Turkey, Iraqi Civil War (2014-present), Kurdish_
 
 ##### Angela Merkel
 ### [Angela Merkel is named as "Time"'s Person of the Year. ](/news/2015/12/9/angela-merkel-is-named-as-time-s-person-of-the-year.md)
-_Context: Angela Merkel, Time Person of the Year, Time_
+_Context: Time Person of the Year, Time, Angela Merkel_
 
 ##### 2015 South Indian floods
 ### [Heavy rains continue to lash Thanjavur and Thanjavur district, inundating urban areas and hundreds of acres of farmland. Many residential areas in Thanjavur have been marooned by rising water. ](/news/2015/12/9/heavy-rains-continue-to-lash-thanjavur-and-thanjavur-district-inundating-urban-areas-and-hundreds-of-acres-of-farmland-many-residential-ar.md)
@@ -37,11 +37,11 @@ Fields are submerged; AIADMK worker electrocuted; old man washed away
 
 ##### Floods in the United States: 2001-present
 ### [Governor of Washington Jay Inslee declares a state of emergency after severe flooding and high winds across the western part of the state close several major highways, damage homes and property, and impact electricity service. ](/news/2015/12/9/governor-of-washington-jay-inslee-declares-a-state-of-emergency-after-severe-flooding-and-high-winds-across-the-western-part-of-the-state-cl.md)
-_Context: state of emergency, Jay Inslee, Governor of Washington, Floods in the United States: 2001-present, Western Washington_
+_Context: Jay Inslee, Governor of Washington, Floods in the United States: 2001-present, Western Washington, state of emergency_
 
 ##### United States
 ### [The United States expands sanctions against North Korea over its alleged weapons breaches. ](/news/2015/12/9/the-united-states-expands-sanctions-against-north-korea-over-its-alleged-weapons-breaches.md)
-_Context: North Korea, United States_
+_Context: United States, North Korea_
 
 ##### Australian Federal Police
 ### [The Australian Federal Police raid the Sydney home of Craig Steven Wright &ndash; whom media today claimed was suspected to be Satoshi Nakamoto, the founder of Bitcoin &ndash; in relation to possible tax offences. ](/news/2015/12/9/the-australian-federal-police-raid-the-sydney-home-of-craig-steven-wright-ndash-whom-media-today-claimed-was-suspected-to-be-satoshi-nakam.md)
@@ -49,7 +49,7 @@ The AFP raids the home of a Sydney-based digital-currency entrepreneur linked to
 
 ##### Chinese state television
 ### [Chinese state television reports Guo Youming, former deputy governor of Hubei province, is found guilty of taking bribes totaling more than 23.8 million yuan ($3.70 million). Guo is the latest to be convicted as a result of President Xi Jinping's anti-corruption campaign that started when Xi took office three years ago. ](/news/2015/12/9/chinese-state-television-reports-guo-youming-former-deputy-governor-of-hubei-province-is-found-guilty-of-taking-bribes-totaling-more-than.md)
-_Context: Chinese state television, bribes, Guo Youming, yuan, Hubei, Anti-corruption campaign in China, Chinese President, Xi Jinping_
+_Context: Xi Jinping, bribes, Chinese President, Hubei, Guo Youming, yuan, Chinese state television, Anti-corruption campaign in China_
 
 ##### United States
 ### [A group of mayors and officials from American cities such as Philadelphia and New York City say that if they had their way Donald Trump would be banned from their cities for his comments on Muslims. ](/news/2015/12/9/a-group-of-mayors-and-officials-from-american-cities-such-as-philadelphia-and-new-york-city-say-that-if-they-had-their-way-donald-trump-woul.md)

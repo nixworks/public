@@ -13,7 +13,7 @@ The Taliban launch an attack on Peshawar airport in north-west Pakistan, killing
 
 ##### Cyclone Evan
 ### [Cyclone Evan bears down on Fiji, disrupting international flights after leaving at least 4 people dead in Samoa with 8 others missing. ](/news/2012/12/16/cyclone-evan-bears-down-on-fiji-disrupting-international-flights-after-leaving-at-least-4-people-dead-in-samoa-with-8-others-missing.md)
-_Context: Samoa, Cyclone Evan, Fiji_
+_Context: Samoa, Fiji, Cyclone Evan_
 
 ##### Typhoon Bopha
 ### [Philippine authorities announce the death toll from Typhoon Bopha has reached 1,020. Another 844 are still missing, most of them fishermen lost on boats out at sea. More than two weeks after the passage of the storm, nearly 27,000 people remain in emergency shelters. ](/news/2012/12/16/philippine-authorities-announce-the-death-toll-from-typhoon-bopha-has-reached-1-020-another-844-are-still-missing-most-of-them-fishermen-l.md)
@@ -29,7 +29,7 @@ ECUADOR has issued an orange alert -- the second-highest warning level -- for to
 
 ##### Topeka
 ### [Two police officers are fatally shot outside a supermarket in Topeka, Kansas, USA. A 22-year-old man wanted in connection with crime, David Edward Tiscareno, is at large. ](/news/2012/12/16/two-police-officers-are-fatally-shot-outside-a-supermarket-in-topeka-kansas-usa-a-22-year-old-man-wanted-in-connection-with-crime-david.md)
-_Context: USA, Topeka, Kansas, at large_
+_Context: at large, Kansas, Topeka, USA_
 
 ##### Japanese
 ### [Japanese voters go to the polls for a general election, with the opposition Liberal Democratic Party led by former Prime Minister Shinzo Abe poised to win a majority. ](/news/2012/12/16/japanese-voters-go-to-the-polls-for-a-general-election-with-the-opposition-liberal-democratic-party-led-by-former-prime-minister-shinza-ab.md)
@@ -51,7 +51,7 @@ South African President Jacob Zuma defends his record at the African National Co
 ### [Voters in Venezuela go to the polls for gubernatorial elections with Hugo Chavez's Socialist Party winning in at least 19 of 23 states. ](/news/2012/12/16/voters-in-venezuela-go-to-the-polls-for-gubernatorial-elections-with-hugo-cha-vez-s-socialist-party-winning-in-at-least-19-of-23-states.md)
 President Hugo Chavez&#039;s allies have won a sweeping victory in Venezuela&#039;s gubernatorial elections, capturing a large majority of states and showing that the socialist party still has huge sway despite the president being seriously ill with cancer.
 
-##### China
+##### Chinese
 ### [Scientists report Chinese deep-space probe Chang'e 2 successfully took a series of images of the asteroid 4179 Toutatis during flyby on 13 December. ](/news/2012/12/16/scientists-report-chinese-deep-space-probe-chang-e-2-successfully-took-a-series-of-images-of-the-asteroid-4179-toutatis-during-flyby-on-13-d.md)
 The closest fly-by was at 08:30:09 UTC on December 13 at an altitude of just 3.2 km and at a relative velocity of 10.73 km/s. Quite a few photos were snapped by the CCD camera - including this series of photos taken 93 - 240 km away from Toutatis:
 

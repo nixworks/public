@@ -9,11 +9,11 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Sunni
 ### [At least 11 people are killed and more than 30 are wounded in bomb attacks at Sunni mosques in Baghdad and in the province of Diyala. ](/news/2013/04/12/at-least-11-people-are-killed-and-more-than-30-are-wounded-in-bomb-attacks-at-sunni-mosques-in-baghdad-and-in-the-province-of-diyala.md)
-_Context: Diyala Province, Sunni, Baghdad_
+_Context: Sunni, Diyala Province, Baghdad_
 
 ##### 2013 Kidal suicide attack
 ### [2013 Kidal suicide attack: Two suicide bombers kill three Chadian soldiers and injure dozens of civilians at a market in Kidal, Mali. ](/news/2013/04/12/2013-kidal-suicide-attack-two-suicide-bombers-kill-three-chadian-soldiers-and-injure-dozens-of-civilians-at-a-market-in-kidal-mali.md)
-_Context: Chad, Mali, Military, 2013 Kidal suicide attack, Kidal_
+_Context: Mali, Chad, 2013 Kidal suicide attack, Kidal, Military_
 
 ##### BBC
 ### [The BBC confirms that it will not be playing "Ding-Dong! The Witch Is Dead" in full when it counts down the UK pop chart on Sunday, saying it finds "distasteful" the timing of the song's rise up the charts in the wake of Margaret Thatcher's death. ](/news/2013/04/12/the-bbc-confirms-that-it-will-not-be-playing-ding-dong-the-witch-is-dead-in-full-when-it-counts-down-the-uk-pop-chart-on-sunday-saying-i.md)
@@ -21,7 +21,7 @@ The bitter row over Margaret Thatcher&#039;s legacy continues — and this time 
 
 ##### Colorless Tsukuru Tazaki and His Years of Pilgrimage
 ### ["Colorless Tsukuru Tazaki and His Years of Pilgrimage" is released in Japan as fans of Haruki Murakami queue at midnight outside Tokyo bookshops. ](/news/2013/04/12/colorless-tsukuru-tazaki-and-his-years-of-pilgrimage-is-released-in-japan-as-fans-of-haruki-murakami-queue-at-midnight-outside-tokyo-books.md)
-_Context: Tokyo, Colorless Tsukuru Tazaki and His Years of Pilgrimage, Haruki Murakami, Japan_
+_Context: Japan, Tokyo, Colorless Tsukuru Tazaki and His Years of Pilgrimage, Haruki Murakami_
 
 ##### Bollywood
 ### [Veteran Bollywood actor Pran is announced as the winner of the 2012 Dadasaheb Phalke Award. ](/news/2013/04/12/veteran-bollywood-actor-pran-is-announced-as-the-winner-of-the-2012-dadasaheb-phalke-award.md)
@@ -41,7 +41,7 @@ A judge says the retailer can at least temporarily sell housewares designed by M
 
 ##### Indonesia
 ### [Indonesia's National Search and Rescue Agency searches for an asylum-seeking boat carrying more than seventy people, which is feared to have sunk in the Sunda Strait. ](/news/2013/04/12/indonesia-s-national-search-and-rescue-agency-searches-for-an-asylum-seeking-boat-carrying-more-than-seventy-people-which-is-feared-to-have.md)
-_Context: asylum seekers, Sunda Strait, Indonesia, National Search and Rescue Agency_
+_Context: National Search and Rescue Agency, Sunda Strait, asylum seekers, Indonesia_
 
 ##### Storm
 ### [A powerful storm system hits Midwestern and Southern United States spawning a dozen tornadoes and killing 3 people. ](/news/2013/04/12/a-powerful-storm-system-hits-midwestern-and-southern-united-states-spawning-a-dozen-tornadoes-and-killing-3-people.md)
@@ -69,11 +69,11 @@ The Obama administration imposed sanctions on about two dozen Russians under a n
 
 ##### Vietnam
 ### [A representative from the Vietnamese Foreign Ministry's National Boundary Commission hands over a diplomatic note to a representative of the Chinese Embassy in Hanoi to protest China's recent plan to bring tourists to the disputed Paracel archipelago. ](/news/2013/04/12/a-representative-from-the-vietnamese-foreign-ministryas-national-boundary-commission-hands-over-a-diplomatic-note-to-a-representative-of-t.md)
-_Context: archipelago, China, tourists, Chinese Embassy, Foreign Ministry, Paracel Islands, Vietnam, Hanoi_
+_Context: Hanoi, archipelago, tourists, Chinese, Vietnam, Paracel Islands, Chinese Embassy, Foreign Ministry_
 
 ##### India
 ### [India's Supreme Court clears the way for the execution of Devinder Pal Singh Bhullar, a Sikh militant, rejecting his appeal for his sentence to be commuted to life imprisonment. ](/news/2013/04/12/india-s-supreme-court-clears-the-way-for-the-execution-of-devinder-pal-singh-bhullar-a-sikh-militant-rejecting-his-appeal-for-his-sentence.md)
-_Context: life imprisonment, India, Devinder Pal Singh Bhullar, execution, Khalistan Liberation Force, Sikh, Supreme Court of India_
+_Context: Devinder Pal Singh Bhullar, Khalistan Liberation Force, India, execution, Supreme Court of India, Sikh, life imprisonment_
 
 ##### France
 ### [The French Senate approves same-sex marriage in France putting the bill on track to become law by summer. ](/news/2013/04/12/the-french-senate-approves-same-sex-marriage-in-france-putting-the-bill-on-track-to-become-law-by-summer.md)
@@ -81,7 +81,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Taiwan
 ### [In Taiwan, 600 people are evacuated from a high-speed train en route to Zuoying from Taipei after timed explosives are found in a restroom. ](/news/2013/04/12/in-taiwan-600-people-are-evacuated-from-a-high-speed-train-en-route-to-zuoying-from-taipei-after-timed-explosives-are-found-in-a-restroom.md)
-_Context: timed explosives, Taipei, Zuoying, restroom, bullet train, Taiwan_
+_Context: timed explosives, bullet train, restroom, Taiwan, Zuoying, Taipei_
 
 ##### North Carolina A&T State University
 ### [North Carolina A&T State University, a college in Greensboro, North Carolina, is put into lockdown in response to reports of a gunman on campus. No gunman is found in the resulting search. ](/news/2013/04/12/north-carolina-a-t-state-university-a-college-in-greensboro-north-carolina-is-put-into-lockdown-in-response-to-reports-of-a-gunman-on-cam.md)
@@ -97,11 +97,11 @@ Hassan Rowhani, who resigned as nuclear negotiator in 2005, joins dozens looking
 
 ##### Russia
 ### [Russian President Vladimir Putin unveils a new $50 billion drive for the country to preserve its status as a top space power, including the construction of the new Vostochny Cosmodrome to fly humans to space by the end of the decade. ](/news/2013/04/12/russian-president-vladimir-putin-unveils-a-new-50-billion-drive-for-the-country-to-preserve-its-status-as-a-top-space-power-including-the.md)
-_Context: fly humans to space, Russia, Russian President, $, Vladimir Putin, Vostochny Cosmodrome_
+_Context: Russia, $, fly humans to space, Vostochny Cosmodrome, Vladimir Putin, Russian President_
 
 ##### Stone
 ### [A 32-foot tall, 60,000 ton stone monument found in the Sea of Galilee in 2003 is determined to be man-made, dating to approximately 2000 B.C. ](/news/2013/04/12/a-32-foot-tall-60-000-ton-stone-monument-found-in-the-sea-of-galilee-in-2003-is-determined-to-be-man-made-dating-to-approximately-2000-b-c.md)
-_Context: stone, monument, Sea of Galilee, B.C._
+_Context: Sea of Galilee, stone, monument, B.C._
 
 ## [Previous Day...](/news/2013/04/11/index.md)
 

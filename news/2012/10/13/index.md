@@ -21,7 +21,7 @@ _Context: Sinaloa Cartel, Manuel Torres Felix, Mexican Drug War_
 
 ##### Insurgency in the North Caucasus
 ### [Insurgency in the North Caucasus: A Russian army soldier and three Islamic militants die in a skirmish in the North Caucasus republic of Dagestan. ](/news/2012/10/13/insurgency-in-the-north-caucasus-a-russian-army-soldier-and-three-islamic-militants-die-in-a-skirmish-in-the-north-caucasus-republic-of-dag.md)
-_Context: Insurgency in the North Caucasus, Dagestan_
+_Context: Dagestan, Insurgency in the North Caucasus_
 
 ##### Gerhard Richter
 ### [Gerhard Richter's "Abstraktes Bild", painted in 1994 and formerly owned by rock star Eric Clapton, sells for $34 million - an auction record for a work by a living artist. ](/news/2012/10/13/gerhard-richter-s-abstraktes-bild-painted-in-1994-and-formerly-owned-by-rock-star-eric-clapton-sells-for-34-million-an-auction-record.md)

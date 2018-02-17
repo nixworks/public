@@ -5,7 +5,7 @@ Formats: [HTML](2017/09/29/index.html)  [JSON](2017/09/29/index.json)  [XML](201
 
 ##### War in Somalia
 ### [Al-Shabaab militants attack a military base outside the Somalian capital Mogadishu, with 15 soldiers reported dead. ](/news/2017/09/29/al-shabaab-militants-attack-a-military-base-outside-the-somalian-capital-mogadishu-with-15-soldiers-reported-dead.md)
-_Context: Al-Shabaab, War in Somalia, Mogadishu, Somalia, Somali military_
+_Context: Somalia, War in Somalia, Al-Shabaab, Somali military, Mogadishu_
 
 ##### 2017 Mumbai stampede
 ### [At least 22 people are killed and over 30 are seriously injured in a rush hour stampede on a footbridge between the Parel and Elphinstone Road railway stations in the Indian city of Mumbai. ](/news/2017/09/29/at-least-22-people-are-killed-and-over-30-are-seriously-injured-in-a-rush-hour-stampede-on-a-footbridge-between-the-parel-and-elphinstone-ro.md)
@@ -21,11 +21,11 @@ The decision comes as pressure mounts after a decisive “Yes” vote in an inde
 
 ##### Cuba-United States relations
 ### [The U.S. State Department removes all families of employees and nonessential personnel from Cuba following apparent sonic attacks that injured 21 personnel on the island. Cuba denies any involvement and has authorized the FBI to travel to the island to help the ongoing investigation into the causes. ](/news/2017/09/29/the-u-s-state-department-removes-all-families-of-employees-and-nonessential-personnel-from-cuba-following-apparent-sonic-attacks-that-injur.md)
-_Context: Cuba-United States relations, State Department, sonic attacks, personnel, FBI_
+_Context: State Department, personnel, FBI, sonic attacks, Cuba-United States relations_
 
 ##### UK Independence Party leadership election, 2017
 ### [Henry Bolton wins UKIP leadership, taking over the position from Paul Nuttall, who resigned after the party's poor performance in the last general election. ](/news/2017/09/29/henry-bolton-wins-ukip-leadership-taking-over-the-position-from-paul-nuttall-who-resigned-after-the-party-s-poor-performance-in-the-last-g.md)
-_Context: Henry Bolton, Paul Nuttall, UK Independence Party leadership election, 2017, last general election_
+_Context: UK Independence Party leadership election, 2017, Paul Nuttall, last general election, Henry Bolton_
 
 ##### Presidency of Donald Trump
 ### [Tom Price resigns as the Secretary of Health and Human Services in the midst of a scandal over his use of private planes. ](/news/2017/09/29/tom-price-resigns-as-the-secretary-of-health-and-human-services-in-the-midst-of-a-scandal-over-his-use-of-private-planes.md)

@@ -13,19 +13,19 @@ The Phillies beat the Dodgers in Game 5 of the N.L.C.S. to advance to the World 
 
 ##### Retail sales
 ### [ Retail sales in the United States decline by 1.2% in September 2008, a third successive month in decline and the sharpest decline in three years, further evidence that the United States economy is in a recession. ](/news/2008/10/15/retail-sales-in-the-united-states-decline-by-1-2-in-september-2008-a-third-successive-month-in-decline-and-the-sharpest-decline-in-three.md)
-_Context: United States, Retail sales, recession, United States economy, September 2008_
+_Context: recession, United States economy, United States, Retail sales, September 2008_
 
 ##### International Maritime Bureau
 ### [ The International Maritime Bureau claims that pirates have hijacked a bulk carrier with 21 crew members in the Gulf of Aden near Somalia. ](/news/2008/10/15/the-international-maritime-bureau-claims-that-pirates-have-hijacked-a-bulk-carrier-with-21-crew-members-in-the-gulf-of-aden-near-somalia.md)
-_Context: bulk carrier, Somalia, Gulf of Aden, International Maritime Bureau, pirate, Somali pirates_
+_Context: International Maritime Bureau, Somalia, pirate, Somali pirates, bulk carrier, Gulf of Aden_
 
 ##### Exchange gunfire
 ### [ 2008 Cambodian-Thai stand-off: Cambodia claims that Thai forces are grouping near the disputed area with later reports of an exchange of gunfire resulting in the death of two Royal Cambodian Army soldiers. ](/news/2008/10/15/2008-cambodian-thai-stand-off-cambodia-claims-that-thai-forces-are-grouping-near-the-disputed-area-with-later-reports-of-an-exchange-of-gu.md)
-_Context: Thailand, Cambodia, exchange gunfire, Army_
+_Context: Thailand, exchange gunfire, Cambodia, Army_
 
 ##### Waki Commission
 ### [ The Waki Commission releases its report into the 2007-2008 Kenyan crisis which followed the disputed Kenyan presidential election, 2007. The Report found that senior politicians and businessmen--including up to six unnamed current cabinet ministers--had planned, financed and perpetrated the violence. ](/news/2008/10/15/the-waki-commission-releases-its-report-into-the-2007a2008-kenyan-crisis-which-followed-the-disputed-kenyan-presidential-election-2007.md)
-_Context: Kenyan presidential election, 2007, post-election violence, Waki Commission_
+_Context: Waki Commission, post-election violence, Kenyan presidential election, 2007_
 
 ## [Previous Day...](/news/2008/10/14/index.md)
 

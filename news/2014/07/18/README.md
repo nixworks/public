@@ -9,7 +9,7 @@ President Obama spoke as his administration ratcheted up its rhetoric against Ru
 
 ##### Pakistan Army
 ### [At least eight members of the Pakistan Army Frontier Corps are killed in a militant attack in the Khyber Agency. ](/news/2014/07/18/at-least-eight-members-of-the-pakistan-army-frontier-corps-are-killed-in-a-militant-attack-in-the-khyber-agency.md)
-_Context: paramilitary soldiers, Pakistan Army, Khyber Agency_
+_Context: Pakistan Army, paramilitary soldiers, Khyber Agency_
 
 ##### Syrian Army
 ### [About 100 soldiers, guards and employees are killed as insurgents belonging to the Islamic State (ISIS) seize control of the Shaer gas field in Palmyra, central Syria. The United Kingdom-based Syrian Observatory for Human Rights said 115 people were killed in total. ](/news/2014/07/18/about-100-soldiers-guards-and-employees-are-killed-as-insurgents-belonging-to-the-islamic-state-isis-seize-control-of-the-shaer-gas-field.md)
@@ -31,13 +31,13 @@ A super typhoon slammed into China on Friday killing one person, as the governme
 ### [A high-speed TGV train on the Pau-Bayonne line crashes with a TER regional service near the town of Denguin, Pyrenees-Atlantiques resulting in 25 injuries including nine serious injuries. ](/news/2014/07/18/a-high-speed-tgv-train-on-the-pau-bayonne-line-crashes-with-a-ter-regional-service-near-the-town-of-denguin-pyra-c-na-c-es-atlantiques-resultin.md)
 A French high-speed TGV train is involved in a collision with a regional express in south-western France injuring dozens of people.
 
-##### Washington
+##### Washington State
 ### [At least 35 homes have been destroyed in the US state of Washington in the Carlton complex wildfires. ](/news/2014/07/18/at-least-35-homes-have-been-destroyed-in-the-us-state-of-washington-in-the-carlton-complex-wildfires.md)
 Officials say at least 35 homes have been destroyed by the Carlton Complex wildfires, a series of four different fires, started by lightning.
 
 ##### Turkey
 ### [Turkish Prime Minister Recep Tayyip Erdogan slams Egyptian President Abdel Fattah el-Sisi as an "illegitimate tyrant", adding that Egypt could not be relied on when negotiating a ceasefire. ](/news/2014/07/18/turkish-prime-minister-recep-tayyip-erdoaan-slams-egyptian-president-abdel-fattah-el-sisi-as-an-illegitimate-tyrant-adding-that-egypt-co.md)
-_Context: Egypt, Turkey, Operation Protective Edge, Abdel Fattah el-Sisi, Recep Tayyip Erdogan_
+_Context: Turkey, Abdel Fattah el-Sisi, Operation Protective Edge, Recep Tayyip Erdogan, Egypt_
 
 ##### Australia
 ### [Six men are arrested in the Australian state of Victoria in relation to alleged involvement in an international tennis match-fixing syndicate. ](/news/2014/07/18/six-men-are-arrested-in-the-australian-state-of-victoria-in-relation-to-alleged-involvement-in-an-international-tennis-match-fixing-syndicat.md)

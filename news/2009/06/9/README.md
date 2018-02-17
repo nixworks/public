@@ -5,19 +5,19 @@ Formats: [HTML](2009/06/9/index.html)  [JSON](2009/06/9/index.json)  [XML](2009/
 
 ##### Romania
 ### [ Romania's newly elected right-wing Greater Romania Party MEP George "Gigi" Becali is ordered by court not to leave the country. ](/news/2009/06/9/romania-s-newly-elected-right-wing-greater-romania-party-mep-george-gigi-becali-is-ordered-by-court-not-to-leave-the-country.md)
-_Context: Romania, George "Gigi" Becali, MEP, Greater Romania Party_
+_Context: Greater Romania Party, Romania, MEP, George "Gigi" Becali_
 
 ##### ConAgra Foods
 ### [ Three workers are missing after an explosion at a ConAgra Foods plant in Garner, North Carolina, United States. ](/news/2009/06/9/three-workers-are-missing-after-an-explosion-at-a-conagra-foods-plant-in-garner-north-carolina-united-states.md)
-_Context: Garner, North Carolina, ConAgra Foods, North Carolina, United States_
+_Context: United States, ConAgra Foods, North Carolina, Garner, North Carolina_
 
 ##### Current outbreak
 ### [ 2009 swine flu outbreak: World Health Organisation Director-General Margaret Chan believes "on the surface of it" that a pandemic has been reached. She also said that "once I get indisputable evidence, I will make the announcement," and will meet with governments on Wednesday regarding reports about the outbreak. ](/news/2009/06/9/2009-swine-flu-outbreak-world-health-organisation-director-general-margaret-chan-believes-on-the-surface-of-it-that-a-pandemic-has-been.md)
-_Context: Margaret Chan, World Health Organisation, current outbreak, pandemic_
+_Context: Margaret Chan, World Health Organisation, pandemic, current outbreak_
 
 ##### Indians in Australia
 ### [ Indians in Australia allege more attacks against them in Sydney. ](/news/2009/06/9/indians-in-australia-allege-more-attacks-against-them-in-sydney.md)
-_Context: Indians in Australia, Sydney, attacks on Indian students_
+_Context: attacks on Indian students, Sydney, Indians in Australia_
 
 ##### Lower house
 ### [ Dil ireann debates a motion of no confidence against the Government of Ireland as George Lee and Maureen O'Sullivan make their debuts in the 30th Dil. ](/news/2009/06/9/dail-eireann-debates-a-motion-of-no-confidence-against-the-government-of-ireland-as-george-lee-and-maureen-o-sullivan-make-their-debuts-in.md)
@@ -25,7 +25,7 @@ The Taoiseach, Brian Cowen, has told the Fianna Fáil parliamentary party that h
 
 ##### Democrat
 ### [ Two Democrats cross party lines and join Republicans to swing control of the Senate of the U.S. state of New York to the Republican Party. ](/news/2009/06/9/two-democrats-cross-party-lines-and-join-republicans-to-swing-control-of-the-senate-of-the-u-s-state-of-new-york-to-the-republican-party.md)
-_Context: Republican, Democrat, Senate, New York_
+_Context: Senate, Democrat, New York, Republican_
 
 ##### Royal Dutch Shell
 ### [ Royal Dutch Shell is to pay out $15.5m (GBP9.7m) in a legal settlement over its alleged complicity in the 1995 execution of several Nigerian environmental activists, including author Ken Saro-Wiwa, in Nigeria in 1995. ](/news/2009/06/9/royal-dutch-shell-is-to-pay-out-15-5m-gbp9-7m-in-a-legal-settlement-over-its-alleged-complicity-in-the-1995-execution-of-several-nigeria.md)

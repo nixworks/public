@@ -9,23 +9,23 @@ Reservists hold rally outside PM’s Office in Jerusalem, call on Olmert, Peretz
 
 ##### Israel
 ### [ Israeli forces have killed three Palestinian Islamic Jihad militants and detained five militants, including a senior member of the governing Hamas movement in two separate incidents in southern Gaza. ](/news/2006/08/24/israeli-forces-have-killed-three-palestinian-islamic-jihad-militants-and-detained-five-militants-including-a-senior-member-of-the-governin.md)
-_Context: Israel, Palestinian Islamic Jihad, Hamas, Gaza Strip_
+_Context: Palestinian Islamic Jihad, Israel, Gaza Strip, Hamas_
 
 ##### Israel
 ### [ A senior Israeli source says that Israel "may have to go it alone," saying that the Iranian response to a package of incentives to halt its uranium enrichment was just to "gain time," and said that Iran had "flipped the world the bird." ](/news/2006/08/24/a-senior-israeli-source-says-that-israel-may-have-to-go-it-alone-saying-that-the-iranian-response-to-a-package-of-incentives-to-halt-its.md)
-_Context: Israel, Iran, flipped the world the bird_
+_Context: Iran, flipped the world the bird, Israel_
 
 ##### Chancellor
 ### [ German Chancellor Angela Merkel states that Iran's response to the incentives by world powers aiming to persuade it to give up nuclear power is unsatisfactory. ](/news/2006/08/24/german-chancellor-angela-merkel-states-that-iran-s-response-to-the-incentives-by-world-powers-aiming-to-persuade-it-to-give-up-nuclear-powe.md)
-_Context: Angela Merkel, Iran, Chancellor_
+_Context: Iran, Angela Merkel, Chancellor_
 
 ##### Games Convention
 ### [ The largest computer games expo in the transatlantic region, the Games Convention in Leipzig, Germany, opens for the public. ](/news/2006/08/24/the-largest-computer-games-expo-in-the-transatlantic-region-the-games-convention-in-leipzig-germany-opens-for-the-public.md)
-_Context: Leipzig, Games Convention, German_
+_Context: Games Convention, German, Leipzig_
 
 ##### Definition of planet
 ### [ Definition of planet: The International Astronomical Union, meeting in Prague, Czech Republic, votes to strip Pluto of its status as a planet. ](/news/2006/08/24/definition-of-planet-the-international-astronomical-union-meeting-in-prague-czech-republic-votes-to-strip-pluto-of-its-status-as-a-plan.md)
-_Context: planet, Definition of planet, Pluto, Prague, Czech Republic, International Astronomical Union_
+_Context: Prague, International Astronomical Union, Pluto, planet, Definition of planet, Czech Republic_
 
 ##### Apple Computer
 ### [ Apple Computer announces a recall of 1.8 million batteries for its PowerBook G4 and iBook G4 models. ](/news/2006/08/24/apple-computer-announces-a-recall-of-1-8-million-batteries-for-its-powerbook-g4-and-ibook-g4-models.md)

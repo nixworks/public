@@ -13,7 +13,7 @@ A suicide bomber in the Afghan capital Kabul killed as many as eight people and 
 
 ##### North Korea tunnel collapse
 ### [A tunnel under construction at North Korea's nuclear test site collapses, killing as many as 200 workers. ](/news/2017/10/31/a-tunnel-under-construction-at-north-korea-s-nuclear-test-site-collapses-killing-as-many-as-200-workers.md)
-_Context: North Korea tunnel collapse, nuclear testing site, North Korea_
+_Context: nuclear testing site, North Korea, North Korea tunnel collapse_
 
 ##### Road accidents in 2017
 ### [A car accident on highway 400 involving 14 vehicles, including two tanker trucks, results in three deaths near Barrie, Ontario. Police suspect distracted driving to be the cause. ](/news/2017/10/31/a-car-accident-on-highway-400-involving-14-vehicles-including-two-tanker-trucks-results-in-three-deaths-near-barrie-ontario-police-suspe.md)
@@ -27,7 +27,7 @@ _Context: Crime in Utah, University of Utah_
 ### [At an elementary school in Riverside, California, police shoot a parent who reportedly took a teacher hostage. ](/news/2017/10/31/at-an-elementary-school-in-riverside-california-police-shoot-a-parent-who-reportedly-took-a-teacher-hostage.md)
 Police officers swarmed a Riverside elementary school classroom where a parent had taken a teacher hostage, ending an hours-long standoff.
 
-##### Russian interference in the 2016 United States elections
+##### Russian meddling in the 2016 U.S. presidential election
 ### [U.S. senators question lawyers representing Facebook, Twitter and Google about Russian activity on their platforms during the 2016 United States presidential election. ](/news/2017/10/31/u-s-senators-question-lawyers-representing-facebook-twitter-and-google-about-russian-activity-on-their-platforms-during-the-2016-united-st.md)
 Facebook, Google and Twitter lawyers tell a Senate committee they plan to be more vigilant.
 
@@ -37,7 +37,7 @@ Private polling showed the Democratic candidate with soft support among Latinos 
 
 ##### 2017 in spaceflight
 ### [A Minotaur-C rocket launches from Vandenberg Air Force Base, California, and deploys 10 commercial Earth-imaging satellites for Planet Labs. It is the first successful mission for the Minotaur-C, formerly known as Taurus, since 2004. ](/news/2017/10/31/a-minotaur-c-rocket-launches-from-vandenberg-air-force-base-california-and-deploys-10-commercial-earth-imaging-satellites-for-planet-labs.md)
-_Context: Vandenberg Air Force Base, since 2004, California, 2017 in spaceflight, Minotaur-C, successful mission, Planet Labs_
+_Context: Vandenberg Air Force Base, 2017 in spaceflight, since 2004, California, Minotaur-C, successful mission, Planet Labs_
 
 ## [Previous Day...](/news/2017/10/30/index.md)
 

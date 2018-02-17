@@ -5,7 +5,7 @@ Formats: [HTML](2016/01/23/index.html)  [JSON](2016/01/23/index.json)  [XML](201
 
 ##### Syrian Civil War
 ### [Airstrikes on Islamic State of Iraq and the Levant-controlled areas in Syria's eastern Deir ez-Zor Governorate, leaves at least 47 civilians dead, according to the Syrian Observatory for Human Rights. ](/news/2016/01/23/airstrikes-on-islamic-state-of-iraq-and-the-levant-controlled-areas-in-syria-s-eastern-deir-ez-zor-governorate-leaves-at-least-47-civilians.md)
-_Context: Syrian Civil War, Syria, Deir ez-Zor offensive (January 2016), ISIL, Syrian Observatory for Human Rights, Deir ez-Zor_
+_Context: Deir ez-Zor offensive (January 2016), Syrian Observatory for Human Rights, Syrian Civil War, Deir ez-Zor, ISIL, Syria_
 
 ##### Jordanian-Syrian border incidents during the Syrian Civil War
 ### [Jordanian soldiers kill 12 "infiltrators" and wound several others, on the border with Syria, foiling an attempt by dozens of smugglers to cross into the kingdom. The soldiers also confiscated more than 2 million narcotics pills that were left behind. ](/news/2016/01/23/jordanian-soldiers-kill-12-infiltrators-and-wound-several-others-on-the-border-with-syria-foiling-an-attempt-by-dozens-of-smugglers-to-c.md)
@@ -19,7 +19,7 @@ The storm effectively shut down New York City and D.C., while dumping as much as
 ### [Around 200 migrants storm the French port of Calais, near the Channel Tunnel to Britain, after a demonstration in support of migrants living in the nearby Calais jungle camp, with approximately 50 of them boarding the P&O Ferries operated "MS "Spirit of Britain" cross-border ferry. The port was closed following the incident. ](/news/2016/01/23/around-200-migrants-storm-the-french-port-of-calais-near-the-channel-tunnel-to-britain-after-a-demonstration-in-support-of-migrants-living.md)
 Around 200 refugees managed to break into the port of Calais in northern France on Saturday after a demonstration of support for migrants living in a slum nearby ended, enabling some of them to board the front deck of a British ferry, an official said.
 
-##### 2016 U.S. presidential election
+##### 2016 U.S. election
 ### [Former New York City mayor Michael Bloomberg is seriously considering a possible independent presidential run if Donald Trump or Texas Senator Ted Cruz face Vermont Senator Bernie Sanders in the general election. ](/news/2016/01/23/former-new-york-city-mayor-michael-bloomberg-is-seriously-considering-a-possible-independent-presidential-run-if-donald-trump-or-texas-senat.md)
 Michael R. Bloomberg, the billionaire former mayor of New York City, is once again weighing a third-party bid for the presidency, frustrated by what he sees as a race gone haywire, associates said.
 

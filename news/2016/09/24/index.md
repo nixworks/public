@@ -5,7 +5,7 @@ Formats: [HTML](2016/09/24/index.html)  [JSON](2016/09/24/index.json)  [XML](201
 
 ##### Iraqi Civil War (2014-present)
 ### [A triple suicide bomb attack north of Tikrit kills at least 11 and injures another 34 members of Iraqi security forces. ](/news/2016/09/24/a-triple-suicide-bomb-attack-north-of-tikrit-kills-at-least-11-and-injures-another-34-members-of-iraqi-security-forces.md)
-_Context: Iraqi Civil War (2014-present), Iraqi security forces, Tikrit_
+_Context: Iraqi security forces, Tikrit, Iraqi Civil War (2014-present)_
 
 ##### Occurs
 ### [A terror bombing occurs in Budapest, Hungary, with two injuries reported. ](/news/2016/09/24/a-terror-bombing-occurs-in-budapest-hungary-with-two-injuries-reported.md)

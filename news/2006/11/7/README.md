@@ -13,11 +13,11 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### After 48 rounds of voting
 ### [ After 48 rounds of voting, Panama is elected to a non-permanent seat on the United Nations Security Council. ](/news/2006/11/7/after-48-rounds-of-voting-panama-is-elected-to-a-non-permanent-seat-on-the-united-nations-security-council.md)
-_Context: Panama, United Nations, After 48 rounds of voting, Security Council_
+_Context: Panama, United Nations, Security Council, After 48 rounds of voting_
 
 ##### Jos Montilla
 ### [ Jos Montilla becomes the new President of the "Generalitat" of Catalonia, renewing the left-of-centre tripartite pact between his PSC, the pro-independence ERC and the leftist ICV-EUiA alliance after the election held on 2006-11-01. ](/news/2006/11/7/jose-montilla-becomes-the-new-president-of-the-generalitat-of-catalonia-renewing-the-left-of-centre-tripartite-pact-between-his-psc-the.md)
-_Context: PSC, Jos Montilla, ICV, ERC, election, Catalonia, ''Generalitat'', EUiA_
+_Context: ERC, ''Generalitat'', Catalonia, EUiA, PSC, Jos Montilla, ICV, election_
 
 ##### John R. Bolton
 ### [ John R. Bolton, the United States Ambassador to the United Nations, claims that United States diplomat Josette Shiner has been selected to head the United Nations World Food Programme. ](/news/2006/11/7/john-r-bolton-the-united-states-ambassador-to-the-united-nations-claims-that-united-states-diplomat-josette-shiner-has-been-selected-to.md)
@@ -33,15 +33,15 @@ A woman who died two months ago won a county commissioner&#39;s race in Jerauld 
 
 ##### Saddam Hussein
 ### [ The trial of Saddam Hussein for alleged genocide of Kurds during the Anfal campaign resumes today. ](/news/2006/11/7/the-trial-of-saddam-hussein-for-alleged-genocide-of-kurds-during-the-anfal-campaign-resumes-today.md)
-_Context: Kurd, Saddam Hussein, Anfal campaign, genocide_
+_Context: Saddam Hussein, Anfal campaign, Kurd, genocide_
 
 ##### Operation Autumn Clouds
 ### [ Operation Autumn Clouds: The Israeli Defense Forces began to pull its troops out of the northern Gaza Strip town of Beit Hanun, Palestinian officials said. Fifty-three Palestinians, including 16 civilians, and an IDF soldier have been killed since the operation began on October 31. ](/news/2006/11/7/operation-autumn-clouds-the-israeli-defense-forces-began-to-pull-its-troops-out-of-the-northern-gaza-strip-town-of-beit-hanun-palestinian.md)
-_Context: Beit Hanun, Operation Autumn Clouds, October 31, Gaza Strip_
+_Context: Beit Hanun, October 31, Operation Autumn Clouds, Gaza Strip_
 
 ##### Tornado
 ### [ A deadly tornado kills nine and injures twelve in Saroma, Hokkaido, Japan. ](/news/2006/11/7/a-deadly-tornado-kills-nine-and-injures-twelve-in-saroma-hokkaido-japan.md)
-_Context: tornado, Japan, Saroma, Hokkaido, kills nine and injures twelve_
+_Context: kills nine and injures twelve, Japan, tornado, Saroma, Hokkaido_
 
 ## [Previous Day...](/news/2006/11/6/index.md)
 

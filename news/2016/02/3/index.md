@@ -15,9 +15,9 @@ Russia said Wednesday it would press ahead with its bombing campaign in Syria un
 ### [The Syrian Army and its allies break a three-year rebel siege of two Shi'ite towns in northwest Syria, Nubl and Al-Zahraa. ](/news/2016/02/3/the-syrian-army-and-its-allies-break-a-three-year-rebel-siege-of-two-shiaite-towns-in-northwest-syria-nubl-and-al-zahraa.md)
 The Syrian army and its allies have broken a three-year rebel siege of two Shi’ite towns in northwest Syria, government and rebel groups said on Wednesday, cutting off a main insurgent route to nearby Turkey.
 
-##### China
+##### Chinese
 ### [China's state owned ChemChina offers to buy Swiss pesticide and seed manufacturer Syngenta for $43 billion. ](/news/2016/02/3/china-s-state-owned-chemchina-offers-to-buy-swiss-pesticide-and-seed-manufacturer-syngenta-for-43-billion.md)
-_Context: pesticide, China, Swiss, ChemChina, Syngenta_
+_Context: pesticide, Chinese, Swiss, ChemChina, Syngenta_
 
 ##### Daallo Airlines Flight 159
 ### [A Daallo Airlines operated commercial plane, bound for Djibouti, makes an emergency landing at Aden Adde International Airport in Mogadishu, following an unexplained explosion that left a gaping hole in its fuselage. ](/news/2016/02/3/a-daallo-airlines-operated-commercial-plane-bound-for-djibouti-makes-an-emergency-landing-at-aden-adde-international-airport-in-mogadishu.md)
@@ -31,7 +31,7 @@ International pressure grew on North Korea to call off a planned rocket launch, 
 ### [John Bingham, 7th Earl of Lucan, wanted for murder since 1974, is officially declared dead so that his son can inherit the title. ](/news/2016/02/3/john-bingham-7th-earl-of-lucan-wanted-for-murder-since-1974-is-officially-declared-dead-so-that-his-son-can-inherit-the-title.md)
 A death certificate for Lord Lucan is granted more than 40 years after he disappeared, paving the way for his son to inherit his title.
 
-##### 2016 U.S. presidential election
+##### 2016 U.S. election
 ### [Kentucky Senator Rand Paul suspends his campaign for the Republican Party nomination for President of the United States. ](/news/2016/02/3/kentucky-senator-rand-paul-suspends-his-campaign-for-the-republican-party-nomination-for-president-of-the-united-states.md)
 Paul was running for a GOP that turned out not to exist.
 

@@ -17,7 +17,7 @@ An Airbus A320 with 144 passengers and 6 crewmembers has crashed in Digne region
 
 ##### Opportunity rover
 ### [The Opportunity rover completes a Martian marathon, the first time any vehicle has traveled more than 26.2 miles on the surface of another world. ](/news/2015/03/24/the-opportunity-rover-completes-a-martian-marathon-the-first-time-any-vehicle-has-traveled-more-than-26-2-miles-on-the-surface-of-another-w.md)
-_Context: Opportunity rover, marathon_
+_Context: marathon, Opportunity rover_
 
 ## [Previous Day...](/news/2015/03/23/index.md)
 

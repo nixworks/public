@@ -29,7 +29,7 @@ _Context: Fourth Circuit Appeals Court_
 
 ##### Frankfurter Allgemeine
 ### [In an interview with the German broadsheet "Frankfurter Allgemeine", the Tibetan spiritual leader Dalai Lama says that Germany has taken too many refugees and "from a moral standpoint" refugees should "only be accommodated temporarily" -- with the goal of them returning home to rebuild their countries. ](/news/2016/05/31/in-an-interview-with-the-german-broadsheet-frankfurter-allgemeine-the-tibetan-spiritual-leader-dalai-lama-says-that-germany-has-taken-too.md)
-_Context: Frankfurter Allgemeine, Dalai Lama, German_
+_Context: Dalai Lama, Frankfurter Allgemeine, German_
 
 ##### North Korea's nuclear program
 ### [North Korea attempts again to launch a BM25 Musudan intermediate-range ballistic missile capable of striking South Korea or Japan but is unsuccessful. ](/news/2016/05/31/north-korea-attempts-again-to-launch-a-bm25-musudan-intermediate-range-ballistic-missile-capable-of-striking-south-korea-or-japan-but-is-uns.md)
@@ -51,7 +51,7 @@ There have been more demonstrations in Indonesia&#39;s Papua region today, in su
 ### [Mohamed Abdelaziz, the leader of the Polisario Front which fought for the independence of Western Sahara from Morocco, dies after leading the group since 1976. ](/news/2016/05/31/mohamed-abdelaziz-the-leader-of-the-polisario-front-which-fought-for-the-independence-of-western-sahara-from-morocco-dies-after-leading-th.md)
 Mohamed Abdelaziz, secretary general of movement fighting for independence of Western Sahara, dies after long illness.
 
-##### 2016 U.S. presidential election
+##### 2016 U.S. election
 ### [Conservative leaders seeking an alternative to the Republican Party's presumptive presidential nominee Donald Trump are urging Tennessee attorney and "National Review" writer David French to enter the 2016 presidential race as an independent candidate. ](/news/2016/05/31/conservative-leaders-seeking-an-alternative-to-the-republican-party-s-presumptive-presidential-nominee-donald-trump-are-urging-tennessee-att.md)
 The prominent right-wing writer and Iraq War veteran is being wooed by Weekly Standard editor William Kristol and other well-known conservatives.
 

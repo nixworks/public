@@ -17,7 +17,7 @@ The Turkish military said it has carried out strikes on Kurdish rebel targets in
 
 ##### Syrian Observatory for Human Rights
 ### [The Syrian Observatory for Human Rights claims that at least 20 Syrian Army soldiers and five rebels are killed in heavy fighting near Latakia district. ](/news/2012/06/20/the-syrian-observatory-for-human-rights-claims-that-at-least-20-syrian-army-soldiers-and-five-rebels-are-killed-in-heavy-fighting-near-latak.md)
-_Context: Latakia district, Syrian Observatory for Human Rights, Syrian Army_
+_Context: Syrian Army, Syrian Observatory for Human Rights, Latakia district_
 
 ##### Libya
 ### [Tribal clashes in western Libya lead to 105 people dead and some 500 injured. ](/news/2012/06/20/tribal-clashes-in-western-libya-lead-to-105-people-dead-and-some-500-injured.md)
@@ -29,7 +29,7 @@ News unveils a $2b takeover bid for James Packer-controlled Consolidated Media e
 
 ##### Larry Ellison
 ### [Larry Ellison, the American CEO of Oracle Corp, agrees to buy 98 per cent of the Hawaiian island of Lanai. ](/news/2012/06/20/larry-ellison-the-american-ceo-of-oracle-corp-agrees-to-buy-98-per-cent-of-the-hawaiian-island-of-lanai.md)
-_Context: Larry Ellison, Oracle Corp, Lanai, Hawaii_
+_Context: Hawaii, Oracle Corp, Lanai, Larry Ellison_
 
 ##### United States
 ### [The United States Congress suggests to extend its military presence in Kuwait. ](/news/2012/06/20/the-united-states-congress-suggests-to-extend-its-military-presence-in-kuwait.md)

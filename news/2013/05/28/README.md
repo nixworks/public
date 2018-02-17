@@ -5,7 +5,7 @@ Formats: [HTML](2013/05/28/index.html)  [JSON](2013/05/28/index.json)  [XML](201
 
 ##### Senator
 ### [United States Senator John McCain travels to Syria to meet with rebel fighters and discuss with them America's possible involvement in the nation's civil war.](/news/2013/05/28/united-states-senator-john-mccain-travels-to-syria-to-meet-with-rebel-fighters-and-discuss-with-them-america-s-possible-involvement-in-the-n.md)
-_Context: Senator, Syrian civil war, John McCain, Syria, United States of America_
+_Context: United States of America, John McCain, Syria, Senator, Syrian civil war_
 
 ##### 
 ### [Gunmen kill one anti-polio worker and wound three others ](/news/2013/05/28/gunmen-kill-one-anti-polio-worker-and-wound-three-others.md)
@@ -17,7 +17,7 @@ _Context: Peace & Love, Borlnge, Sweden_
 
 ##### Chief federal prosecutors
 ### [The U.S. Attorney's office in Los Angeles, California announces that Scott London, former senior partner with KPMG, has agreed to plead guilty on charges involving insider trading. ](/news/2013/05/28/the-u-s-attorney-s-office-in-los-angeles-california-announces-that-scott-london-former-senior-partner-with-kpmg-has-agreed-to-plead-guil.md)
-_Context: insider trading, California, KPMG, office, chief federal prosecutors, Los Angeles_
+_Context: office, insider trading, California, KPMG, chief federal prosecutors, Los Angeles_
 
 ##### Rajang River
 ### [A boat carrying 100 passengers capsizes in the Rajang River in Malaysia's Sarawak state with over 20 passengers missing. ](/news/2013/05/28/a-boat-carrying-100-passengers-capsizes-in-the-rajang-river-in-malaysia-s-sarawak-state-with-over-20-passengers-missing.md)

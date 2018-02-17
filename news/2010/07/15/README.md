@@ -37,7 +37,7 @@ _Context: Francois-Marie Banier, L'Oreal, Liliane Bettencourt_
 
 ##### Robbie Williams
 ### [Robbie Williams and Take That reunite. ](/news/2010/07/15/robbie-williams-and-take-that-reunite.md)
-_Context: Robbie Williams, Take That_
+_Context: Take That, Robbie Williams_
 
 ##### Iran
 ### [Shahram Amiri, the Iranian nuclear scientist who says he was abducted by the United States Central Intelligence Agency, returns to Tehran. ](/news/2010/07/15/shahram-amiri-the-iranian-nuclear-scientist-who-says-he-was-abducted-by-the-united-states-central-intelligence-agency-returns-to-tehran.md)
@@ -49,15 +49,15 @@ The 10 Russian spies deported from the US will undergo three weeks of rigorous t
 
 ##### North Korea
 ### [North Korean officials attend a rare meeting with members of the American-led United Nations Command. ](/news/2010/07/15/north-korean-officials-attend-a-rare-meeting-with-members-of-the-american-led-united-nations-command.md)
-_Context: North Korea, United Nations Command_
+_Context: United Nations Command, North Korea_
 
 ##### Venezuelan President
 ### [President of Venezuela Hugo Chavez orders a review of Venezuela's ties with the Vatican following tensions between the government and Roman Catholic bishops. ](/news/2010/07/15/president-of-venezuela-hugo-cha-vez-orders-a-review-of-venezuela-s-ties-with-the-vatican-following-tensions-between-the-government-and-roman.md)
-_Context: bishop, Holy See, Venezuelan government, Hugo Chavez, Roman Catholic, Venezuela, Venezuelan President_
+_Context: Venezuelan government, Hugo Chavez, Venezuelan President, bishop, Venezuela, Holy See, Roman Catholic_
 
 ##### Decree
 ### [The Vatican issues a decree making the "attempted ordination of women" a grave crime in ecclesiastical law equivalent to child sexual abuse. ](/news/2010/07/15/the-vatican-issues-a-decree-making-the-attempted-ordination-of-women-a-grave-crime-in-ecclesiastical-law-equivalent-to-child-sexual-abuse.md)
-_Context: sexually assaulted, decree, ecclesiastical law, ordination of women_
+_Context: decree, sexually assaulted, ecclesiastical law, ordination of women_
 
 ##### Gambia
 ### [A Gambian judge sentences eight men to death for their role in an alleged coup plot. ](/news/2010/07/15/a-gambian-judge-sentences-eight-men-to-death-for-their-role-in-an-alleged-coup-plot.md)
@@ -85,7 +85,7 @@ Argentina becomes the first Latin American country to legalise gay marriage afte
 
 ##### President of Mexico
 ### [President of Mexico Felipe Calderon replaces his Secretary of the Interior, Fernando Gomez Mont, after weeks of speculation. ](/news/2010/07/15/president-of-mexico-felipe-caldera3n-replaces-his-secretary-of-the-interior-fernando-gomez-mont-after-weeks-of-speculation.md)
-_Context: Secretary of the Interior, Felipe Calderon, President of Mexico, Fernando Gomez Mont_
+_Context: President of Mexico, Secretary of the Interior, Fernando Gomez Mont, Felipe Calderon_
 
 ##### CBS
 ### [Two major US TV networks, CBS and NBC, censor the "Kill the Ground Zero Mosque" advertisement by conservative group National Republican Trust which calls plans to erect a mosque near New York City's Ground Zero a "monstrosity". ](/news/2010/07/15/two-major-us-tv-networks-cbs-and-nbc-censor-the-kill-the-ground-zero-mosque-advertisement-by-conservative-group-national-republican-trus.md)
@@ -117,7 +117,7 @@ Workers at the World Trade Center site excavate a ship believed to have been bur
 
 ##### Primate
 ### [Researchers discover a new species of fossil primate, "Saadanius hijazensis" which could be a common ancestor of Old World Monkeys and apes, including humans. ](/news/2010/07/15/researchers-discover-a-new-species-of-fossil-primate-saadanius-hijazensis-which-could-be-a-common-ancestor-of-old-world-monkeys-and-apes.md)
-_Context: primate, Saadanius hijazensis, ape, Old World Monkey_
+_Context: primate, Saadanius hijazensis, Old World Monkey, ape_
 
 ##### Golf
 ### [Golfer Rory McIlroy ties the record for lowest score (9-under par) at a major championship. ](/news/2010/07/15/golfer-rory-mcilroy-ties-the-record-for-lowest-score-9-under-par-at-a-major-championship.md)
@@ -129,7 +129,7 @@ _Context: Caster Semenya, 800 metres_
 
 ##### Controversial
 ### [Controversial French footballer Thierry Henry retires from international football. ](/news/2010/07/15/controversial-french-footballer-thierry-henry-retires-from-international-football.md)
-_Context: Thierry Henry, Controversial_
+_Context: Controversial, Thierry Henry_
 
 ##### Zoo Aquarium de Madrid
 ### [Zoo Aquarium de Madrid bids for Paul the Octopus. ](/news/2010/07/15/zoo-aquarium-de-madrid-bids-for-paul-the-octopus.md)

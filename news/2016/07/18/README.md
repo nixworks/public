@@ -33,7 +33,7 @@ U.K.-based chip designer ARM Holdings confirmed that it agreed to a $32 billion 
 
 ##### North Korea-South Korea relations
 ### [South Korea warns that North Korea could hold another nuclear test at any time. ](/news/2016/07/18/south-korea-warns-that-north-korea-could-hold-another-nuclear-test-at-any-time.md)
-_Context: North Korea-South Korea relations, North Korea's nuclear program, North Korea, South Korea_
+_Context: North Korea-South Korea relations, North Korea's nuclear program, South Korea, North Korea_
 
 ##### Turkey-United States relations
 ### [The United States Secretary of State John Kerry warns Turkey it could lose its NATO membership if it fails to uphold the principles of democracy. Around 8,000 police officers have been sacked in the country following the attempted coup, with more than 6,000 people in the army, the judiciary and other state bodies detained as part of President Recep Tayyip Erdogan's crackdown. ](/news/2016/07/18/the-united-states-secretary-of-state-john-kerry-warns-turkey-it-could-lose-its-nato-membership-if-it-fails-to-uphold-the-principles-of-democ.md)
@@ -43,7 +43,7 @@ Turkey could fall foul of Nato&#039;s &quot;requirement with respect to democrac
 ### [Morocco formally announces it wishes to rejoin the African Union 32 years after leaving over its recognition of the Sahrawi Arab Democratic Republic in Western Sahara. ](/news/2016/07/18/morocco-formally-announces-it-wishes-to-rejoin-the-african-union-32-years-after-leaving-over-its-recognition-of-the-sahrawi-arab-democratic.md)
 Morocco formally announces its wish to rejoin the African Union, 32 years after leaving over a dispute about Western Sahara.
 
-##### 2016 U.S. presidential election
+##### 2016 U.S. election
 ### [The 2016 Republican National Convention gets underway in Cleveland, Ohio. With the day's theme being national and local security, notable speakers include reality television star Willie Robertson, actor Scott Baio, former Governor of Texas Rick Perry, former Mayor of New York City Rudy Giuliani, Milwaukee County sheriff David Clarke, retired United States Army lieutenant general Michael T. Flynn and Melania Trump, wife of presumptive Republican nominee for President of the United States Donald Trump. ](/news/2016/07/18/the-2016-republican-national-convention-gets-underway-in-cleveland-ohio-with-the-day-s-theme-being-national-and-local-security-notable-sp.md)
 Several protests took place in Cleveland on the opening day of the Republican National Convention, but they remained peaceful.
 

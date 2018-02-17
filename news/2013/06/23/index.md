@@ -33,7 +33,7 @@ Army suspends rescue helicopter flights in Uttarakhand state due to dense fog as
 
 ##### Romanians
 ### [At least 18 Romanians were killed and 32 were injured after a bus crash, in Montenegro. ](/news/2013/06/23/at-least-18-romanians-were-killed-and-32-were-injured-after-a-bus-crash-in-montenegro.md)
-_Context: bus crash, Romanians, Montenegro_
+_Context: Romanians, bus crash, Montenegro_
 
 ##### Hong Kong
 ### [After a failed U.S. extradition request Hong Kong says does not fully comply with the law, U.S. whistleblower Edward Snowden leaves Hong Kong for Moscow. ](/news/2013/06/23/after-a-failed-u-s-extradition-request-hong-kong-says-does-not-fully-comply-with-the-law-u-s-whistleblower-edward-snowden-leaves-hong-kon.md)
@@ -49,7 +49,7 @@ Palestinian President Mahmoud Abbas on Sunday accepted the resignation of his ne
 
 ##### Nelson Mandela
 ### [Nelson Mandela, former President of South Africa, is in a critical condition after his lung infection takes a turn for the worse. ](/news/2013/06/23/nelson-mandela-former-president-of-south-africa-is-in-a-critical-condition-after-his-lung-infection-takes-a-turn-for-the-worse.md)
-_Context: President of South Africa, Nelson Mandela_
+_Context: Nelson Mandela, President of South Africa_
 
 ## [Previous Day...](/news/2013/06/22/index.md)
 

@@ -5,11 +5,11 @@ Formats: [HTML](2013/10/14/index.html)  [JSON](2013/10/14/index.json)  [XML](201
 
 ##### Ethiopia
 ### [Ethiopian officials report that a plot by a group of Somali nationals to attack Sunday's 2014 FIFA World Cup qualification match in Addis Ababa failed when their explosives detonated inside their home, killing two of the would-be suicide bombers. ](/news/2013/10/14/ethiopian-officials-report-that-a-plot-by-a-group-of-somali-nationals-to-attack-sunday-s-2014-fifa-world-cup-qualification-match-in-addis-ab.md)
-_Context: Ethiopia, Somali, suicide bomber, 2014 FIFA World Cup qualification, Addis Ababa_
+_Context: Ethiopia, suicide bomber, Somali, 2014 FIFA World Cup qualification, Addis Ababa_
 
 ##### Nobel Memorial Prize in Economic Sciences
 ### [The Nobel Memorial Prize in Economic Sciences goes to three Americans, in connection with their work in asset prices: Eugene Fama, Lars Peter Hansen, and Robert Shiller. ](/news/2013/10/14/the-nobel-memorial-prize-in-economic-sciences-goes-to-three-americans-in-connection-with-their-work-in-asset-prices-eugene-fama-lars-pete.md)
-_Context: Eugene Fama, Lars Peter Hansen, Robert Shiller, Nobel Memorial Prize in Economic Sciences_
+_Context: Robert Shiller, Lars Peter Hansen, Eugene Fama, Nobel Memorial Prize in Economic Sciences_
 
 ##### Cyclone Phailin
 ### [The death toll from Cyclone Phailin rises to at least 18 in India as it dissipates. ](/news/2013/10/14/the-death-toll-from-cyclone-phailin-rises-to-at-least-18-in-india-as-it-dissipates.md)
@@ -25,7 +25,7 @@ _Context: London, Buckingham Palace_
 
 ##### Dry ice bomb
 ### [A dry ice bomb explodes in an employee restroom at Los Angeles International Airport. Nobody was injured, and no arrests were made. Terminal 2 was briefly shut down and evacuated. It was the second incident of its kind to have occurred at the airport in two days. ](/news/2013/10/14/a-dry-ice-bomb-explodes-in-an-employee-restroom-at-los-angeles-international-airport-nobody-was-injured-and-no-arrests-were-made-terminal.md)
-_Context: Los Angeles International Airport, dry ice bomb_
+_Context: dry ice bomb, Los Angeles International Airport_
 
 ## [Previous Day...](/news/2013/10/13/index.md)
 

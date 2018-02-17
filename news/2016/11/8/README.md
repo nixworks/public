@@ -25,7 +25,7 @@ South Korean prosecutors have raided the offices of Samsung Electronics as part 
 
 ##### European migrant crisis
 ### [The National Assembly rejects Hungarian Prime Minister Viktor Orban's bill to block the settlement of refugees in Hungary. The far-right Jobbik party abstained from the vote, arguing the immigration ban should apply to all foreigners, and not just refugees. ](/news/2016/11/8/the-national-assembly-rejects-hungarian-prime-minister-viktor-orba-n-s-bill-to-block-the-settlement-of-refugees-in-hungary-the-far-right-jo.md)
-_Context: Hungary, Hungarian Prime Minister, Jobbik, National Assembly, Viktor Orban, European migrant crisis_
+_Context: National Assembly, European migrant crisis, Hungary, Jobbik, Viktor Orban, Hungarian Prime Minister_
 
 ## [Previous Day...](/news/2016/11/7/index.md)
 

@@ -9,7 +9,7 @@ _Context: Jisr al-Shugur_
 
 ##### Iran
 ### [Iranian authorities disperse and arrest protesters in the capital Tehran marking the second anniversary of the re-election of Mahmoud Ahmadinejad as President. ](/news/2011/06/12/iranian-authorities-disperse-and-arrest-protesters-in-the-capital-tehran-marking-the-second-anniversary-of-the-re-election-of-mahmoud-ahmadi.md)
-_Context: Tehran, Iran, re-election, Mahmoud Ahmadinejad_
+_Context: Iran, re-election, Mahmoud Ahmadinejad, Tehran_
 
 ##### Muammar Gaddafi
 ### [Fighting erupts in the west of the country, as rebels attempt to take more towns from forces loyal to Muammar Gaddafi. ](/news/2011/06/12/fighting-erupts-in-the-west-of-the-country-as-rebels-attempt-to-take-more-towns-from-forces-loyal-to-muammar-gaddafi.md)
@@ -25,11 +25,11 @@ The International Monetary Fund, which manages global financial crises, has been
 
 ##### Tianjin
 ### [A bomb is detonated outside a local government headquarters in Tianjin, northeastern China. This is the third explosion outside government facilities in three weeks. ](/news/2011/06/12/a-bomb-is-detonated-outside-a-local-government-headquarters-in-tianjin-northeastern-china-this-is-the-third-explosion-outside-government-f.md)
-_Context: China, Tianjin_
+_Context: Tianjin, China_
 
 ##### Southern African Development Community
 ### [The leaders of the Southern African Development Community, the Common Market for Eastern and Southern Africa, and the East African Community signed an agreement in South Africa to develop a joint free trade bloc to stretch from Cape Town to Cairo, to encompass 26 countries. ](/news/2011/06/12/the-leaders-of-the-southern-african-development-community-the-common-market-for-eastern-and-southern-africa-and-the-east-african-community.md)
-_Context: Southern African Development Community, South Africa, free trade, East African Community, Common Market for Eastern and Southern Africa, trade bloc_
+_Context: Common Market for Eastern and Southern Africa, East African Community, South Africa, trade bloc, free trade, Southern African Development Community_
 
 ##### 2011 Puyehue eruption
 ### [Ash clouds from the erupting Puyehue-Cordon Caulle in Chile disrupt and cancel international flights, leaving thousands stranded. ](/news/2011/06/12/ash-clouds-from-the-erupting-puyehue-cordon-caulle-in-chile-disrupt-and-cancel-international-flights-leaving-thousands-stranded.md)
@@ -45,11 +45,11 @@ _Context: Eritrea_
 
 ##### Member of the European Parliament
 ### [Italian MEP and diplomat Mario Borghezio is expelled and given a bloody nose during an attempt to access the Suvretta House luxury hotel hosting the Bilderberg Group's secretive annual conference in the Swiss resort of St. Moritz. ](/news/2011/06/12/italian-mep-and-diplomat-mario-borghezio-is-expelled-and-given-a-bloody-nose-during-an-attempt-to-access-the-suvretta-house-luxury-hotel-hos.md)
-_Context: St. Moritz, Bilderberg Group, Mario Borghezio, Member of the European Parliament, Switzerland_
+_Context: Bilderberg Group, Switzerland, St. Moritz, Mario Borghezio, Member of the European Parliament_
 
 ##### China
 ### [An anti-China protest takes place in Hanoi, Vietnam, for the second weekend in a row, amid a territorial dispute between the two countries. ](/news/2011/06/12/an-anti-china-protest-takes-place-in-hanoi-vietnam-for-the-second-weekend-in-a-row-amid-a-territorial-dispute-between-the-two-countries.md)
-_Context: China, Hanoi, Vietnam_
+_Context: Vietnam, Hanoi, China_
 
 ##### United Nations Security Council
 ### [The United Nations Security Council reports that Iran is buying foreign banks and money-exchange bureaus to sidestep economic sanctions. ](/news/2011/06/12/the-united-nations-security-council-reports-that-iran-is-buying-foreign-banks-and-money-exchange-bureaus-to-sidestep-economic-sanctions.md)

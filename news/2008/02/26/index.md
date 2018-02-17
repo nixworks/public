@@ -13,7 +13,7 @@ Researchers have sequenced the gene map of corn, also known as maize, a key crop
 
 ##### Khost
 ### [ A bomb blast in Khost, Afghanistan kills five police officers on their way to work. ](/news/2008/02/26/a-bomb-blast-in-khost-afghanistan-kills-five-police-officers-on-their-way-to-work.md)
-_Context: Khost, Afghan_
+_Context: Afghan, Khost_
 
 ##### Osama bin London
 ### [ A man who dubbed himself "Osama bin London" is found guilty of running terrorist training camps in the United Kingdom. ](/news/2008/02/26/a-man-who-dubbed-himself-osama-bin-london-is-found-guilty-of-running-terrorist-training-camps-in-the-united-kingdom.md)

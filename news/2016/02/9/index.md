@@ -29,7 +29,7 @@ At least 10 people are killed and more than 100 injured as two passenger trains 
 
 ##### Indian Armed Forces
 ### [One Indian soldier, buried in the snow for six days, is rescued from last week's Siachen Glacier avalanche, however the other nine soldiers from the army post in the Himalayan region of Kashmir didn't survive. ](/news/2016/02/9/one-indian-soldier-buried-in-the-snow-for-six-days-is-rescued-from-last-week-s-siachen-glacier-avalanche-however-the-other-nine-soldiers.md)
-_Context: Kashmir, Siachen Glacier, Indian Armed Forces, Himalayas, avalanche_
+_Context: Indian Armed Forces, Himalayas, avalanche, Siachen Glacier, Kashmir_
 
 ##### Magnitude
 ### [A 6.3 magnitude earthquake struck 25 miles (40 kilometers) west of Ovalle in Chile's central region. No injuries or damage have been reported. ](/news/2016/02/9/a-6-3-magnitude-earthquake-struck-25-miles-40-kilometers-west-of-ovalle-in-chile-s-central-region-no-injuries-or-damage-have-been-reporte.md)
@@ -41,7 +41,7 @@ HONG KONG • Scores of police officers were hurt yesterday when a riot erupted 
 
 ##### Maryland House of Delegates
 ### [The Maryland House of Delegates and Senate override Governor Larry Hogan's veto of a bill extending felons' voting rights to those who have not completed the terms of their probation or parole. The law goes into effect March 10, 2016. ](/news/2016/02/9/the-maryland-house-of-delegates-and-senate-override-governor-larry-hogan-s-veto-of-a-bill-extending-felons-voting-rights-to-those-who-have.md)
-_Context: Larry Hogan, Maryland House of Delegates, Governor, Felony disenfranchisement, Senate, probation, parole_
+_Context: Governor, Maryland House of Delegates, Larry Hogan, Felony disenfranchisement, parole, probation, Senate_
 
 ##### Warner/Chappell Music
 ### [Warner-Chappell Music agrees to return $14 million collected in copyright fees for the song "Happy Birthday to You" which a federal judge ruled in September belongs in the public domain. ](/news/2016/02/9/warner-chappell-music-agrees-to-return-14-million-collected-in-copyright-fees-for-the-song-happy-birthday-to-you-which-a-federal-judge-ru.md)
@@ -51,7 +51,7 @@ The details of the copyright case that placed the song &quot;Happy Birthday&quot
 ### [The campaign period for the election begins in what international media dubs as a "cliffhanger" between five candidates: Jejomar Binay, Miriam Defensor Santiago, Rodrigo R. Duterte, Grace Poe, and Mar Roxas. ](/news/2016/02/9/the-campaign-period-for-the-election-begins-in-what-international-media-dubs-as-a-cliffhanger-between-five-candidates-jejomar-binay-miri.md)
 As presidential candidates in the Philippines kick off their electoral campaigns, DW takes a look at the top contenders, and the issues likely to decide who will lead the Southeast Asian nation over the coming six years.
 
-##### 2016 U.S. presidential election
+##### 2016 U.S. election
 ### [Voters in the state of New Hampshire go to the polls for the first primary election in this year's presidential cycle. ](/news/2016/02/9/voters-in-the-state-of-new-hampshire-go-to-the-polls-for-the-first-primary-election-in-this-year-s-presidential-cycle.md)
 The New Hampshire primaries will be crucial for both sides of the presidential race. The BBC’s Katty Kay talks about the three things she’ll be watching for on Tuesday night.
 

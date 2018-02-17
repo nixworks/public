@@ -17,7 +17,7 @@ Father of Ibragim Todashev, who died during questioning over links to alleged Bo
 
 ##### Maroon 5
 ### [Maroon 5 frontman Adam Levine makes an "unpatriotic" comment on television, prompting calls for him to be removed to a "Communist country" or pursued by secretive anti-terrorism hit squads. Levine responds by tweeting dictionary definitions of words such as "joke", "humourless" and "lighthearted" but is later forced to apologise for his indiscretion. ](/news/2013/05/30/maroon-5-frontman-adam-levine-makes-an-unpatriotic-comment-on-television-prompting-calls-for-him-to-be-removed-to-a-communist-country-o.md)
-_Context: Adam Levine, Maroon 5, Communist_
+_Context: Communist, Adam Levine, Maroon 5_
 
 ##### Grumpy Cat
 ### [It is announced that Internet sensation Grumpy Cat will star in a feature-length movie. ](/news/2013/05/30/it-is-announced-that-internet-sensation-grumpy-cat-will-star-in-a-feature-length-movie.md)
@@ -29,7 +29,7 @@ _Context: Tamiflu_
 
 ##### Genetically modified wheat
 ### [Following the controversial discovery of genetically modified wheat on a U.S. farm on May 29, Japan suspends imports of wheat from the U.S. ](/news/2013/05/30/following-the-controversial-discovery-of-genetically-modified-wheat-on-a-u-s-farm-on-may-29-japan-suspends-imports-of-wheat-from-the-u-s.md)
-_Context: Japan, wheat, genetically modified wheat_
+_Context: wheat, genetically modified wheat, Japan_
 
 ##### Hezbollah
 ### [Nigeria soldiers uncover a large stock of weapons that they believe belonged to Hezbollah. ](/news/2013/05/30/nigeria-soldiers-uncover-a-large-stock-of-weapons-that-they-believe-belonged-to-hezbollah.md)

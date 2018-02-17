@@ -5,7 +5,7 @@ Formats: [HTML](2004/03/16/index.html)  [JSON](2004/03/16/index.json)  [XML](200
 
 ##### Rwanda
 ### [ Rwandan President Paul Kagame accuses France of direct involvement in the 1994 genocide. ](/news/2004/03/16/rwandan-president-paul-kagame-accuses-france-of-direct-involvement-in-the-1994-genocide.md)
-_Context: Paul Kagame, Rwanda, genocide_
+_Context: genocide, Paul Kagame, Rwanda_
 
 ##### March 11, 2004 Madrid attacks
 ### [ March 11, 2004 Madrid attacks: Spanish police identify six Moroccans suspected to have carried out the Madrid attacks. Five of the suspects are still at large but one is in custody. ](/news/2004/03/16/march-11-2004-madrid-attacks-spanish-police-identify-six-moroccans-suspected-to-have-carried-out-the-madrid-attacks-five-of-the-suspects.md)

@@ -25,7 +25,7 @@ _Context: China_
 
 ##### Seoul
 ### [A Seoul-based radio station targeting North Koreans reports that a train carrying birthday gifts for North Korean future leader Kim Jong-un derailed, in what it describes as a possible act of revolt by opponents. South Korea's National Intelligence Service (NIS) states that it is checking the report. ](/news/2010/12/27/a-seoul-based-radio-station-targeting-north-koreans-reports-that-a-train-carrying-birthday-gifts-for-north-korean-future-leader-kim-jong-un.md)
-_Context: South Korea's intelligence agency, North Korea, South Korea, Kim Jong-un, Seoul_
+_Context: Seoul, North Korea, South Korea's intelligence agency, Kim Jong-un, South Korea_
 
 ##### Israel
 ### [Israeli Prime Minister Benjamin Netanyahu rules out apologising to Turkey for killing nine of its citizens during May's Gaza flotilla raid,saying, however, that Israel would "express its regret"; the interview came after Foreign Minister Avigdor Lieberman said that Turkey should apologize to Israel for supporting terrorists. ](/news/2010/12/27/israeli-prime-minister-benjamin-netanyahu-rules-out-apologising-to-turkey-for-killing-nine-of-its-citizens-during-may-s-gaza-flotilla-raid-s.md)
@@ -45,7 +45,7 @@ _Context: Allen Stanford, Ponzi scheme_
 
 ##### Tel Aviv
 ### [A Tel Aviv court sentences Israeli graphic designer Jonathan Pollak to three months imprisonment after convicting him of taking part in a "critical mass bicycle ride" demonstration highlighting the blockade of Gaza in January 2008. The Association for Civil Rights in Israel describes it as "an unusually harsh measurement" for a charge that normally does not see the perpetrator imprisoned. ](/news/2010/12/27/a-tel-aviv-court-sentences-israeli-graphic-designer-jonathan-pollak-to-three-months-imprisonment-after-convicting-him-of-taking-part-in-a-c.md)
-_Context: Tel Aviv, Israel, Jonathan Pollak, Gaza Strip, Association for Civil Rights in Israel_
+_Context: Association for Civil Rights in Israel, Tel Aviv, Israel, Gaza Strip, Jonathan Pollak_
 
 ##### Southern Sudanese Independence Referendum
 ### [The commission overseeing the independence referendum in Southern Sudan rejects a lawsuit to halt the referendum on the basis that the commission violated the law. ](/news/2010/12/27/the-commission-overseeing-the-independence-referendum-in-southern-sudan-rejects-a-lawsuit-to-halt-the-referendum-on-the-basis-that-the-commi.md)
@@ -57,7 +57,7 @@ Political parties loyal to Ivory Coast presidential claimant Alassane Ouattara c
 
 ##### Canadian Prime Minister
 ### [Canadian Prime Minister Stephen Harper invites Aung San Suu Kyi to visit Canada. ](/news/2010/12/27/canadian-prime-minister-stephen-harper-invites-aung-san-suu-kyi-to-visit-canada.md)
-_Context: Aung San Suu Kyi, Stephen Harper, Canadian Prime Minister_
+_Context: Stephen Harper, Aung San Suu Kyi, Canadian Prime Minister_
 
 ## [Previous Day...](/news/2010/12/26/index.md)
 

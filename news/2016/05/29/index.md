@@ -17,7 +17,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ##### Texas
 ### [At least three people are missing after heavy rains caused flooding in the U.S. states of Texas and Kansas. So far, four people have died in the flooding. ](/news/2016/05/29/at-least-three-people-are-missing-after-heavy-rains-caused-flooding-in-the-u-s-states-of-texas-and-kansas-so-far-four-people-have-died-in.md)
-_Context: Texas, Kansas_
+_Context: Kansas, Texas_
 
 ##### Ukraine
 ### [A fire at a home for elderly people near the Ukrainian capital Kiev kills at least 16 people. ](/news/2016/05/29/a-fire-at-a-home-for-elderly-people-near-the-ukrainian-capital-kiev-kills-at-least-16-people.md)
@@ -35,11 +35,11 @@ Despite no longer being a tropical storm or depression, Bonnie will induce daily
 ### [In compliance with recent UN Security Council resolutons, President Yoweri Museveni of Uganda announces an end to security and military cooperation with North Korea. ](/news/2016/05/29/in-compliance-with-recent-un-security-council-resolutons-president-yoweri-museveni-of-uganda-announces-an-end-to-security-and-military-coop.md)
 Ugandan President Yoweri Museveni said his country would halt security and military cooperation with North Korea, a South Korean official said following a summit in Kampala between Museveni and South Korean President Park Geun-hye.
 
-##### Mexican
+##### Mexico
 ### [Mexican international football player Alan Pulido, who plays for Olympiacos F.C., is kidnapped by masked men near his home in Ciudad Victoria, Tamaulipas. He is later rescued. ](/news/2016/05/29/mexican-international-football-player-alan-pulido-who-plays-for-olympiacos-f-c-is-kidnapped-by-masked-men-near-his-home-in-ciudad-victori.md)
-_Context: Ciudad Victoria, Mexican, Alan Pulido, Olympiacos, Tamaulipas_
+_Context: Mexico, Tamaulipas, Ciudad Victoria, Alan Pulido, Olympiacos_
 
-##### 2016 U.S. presidential election
+##### 2016 U.S. election
 ### [Gary Johnson, former Governor of New Mexico, secures the nomination for the Libertarian Party in the U.S. presidential election. Johnson picks former Massachusetts governor, and former Republican, William Weld as his running mate. ](/news/2016/05/29/gary-johnson-former-governor-of-new-mexico-secures-the-nomination-for-the-libertarian-party-in-the-u-s-presidential-election-johnson-pic.md)
 But his near-miss on the first ballot kicked off an afternoon of protests.
 

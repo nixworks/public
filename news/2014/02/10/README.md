@@ -9,7 +9,7 @@ Coalition confirms 2 killed as apparent suicide attack in east of Afghan capital
 
 ##### Baghdad
 ### [A car bomb detonates prematurely in Baghdad, Iraq, killing 21 militants. In a separate event, a car bomb hits a convoy transporting Usama al-Nujayfi with a bodyguard being wounded. ](/news/2014/02/10/a-car-bomb-detonates-prematurely-in-baghdad-iraq-killing-21-militants-in-a-separate-event-a-car-bomb-hits-a-convoy-transporting-usama-al.md)
-_Context: Iraq, Usama al-Nujayfi, Baghdad_
+_Context: Iraq, Baghdad, Usama al-Nujayfi_
 
 ##### Bujumbura
 ### [At least 50 people are killed in flooding and landslides in Bujumbura, Burundi. ](/news/2014/02/10/at-least-50-people-are-killed-in-flooding-and-landslides-in-bujumbura-burundi.md)
@@ -17,11 +17,11 @@ At least 50 people are reported to have died after overnight floods and landslid
 
 ##### North Korea
 ### [North Korea withdraws an invitation to a United States envoy to discuss the release of Kenneth Bae. ](/news/2014/02/10/north-korea-withdraws-an-invitation-to-a-united-states-envoy-to-discuss-the-release-of-kenneth-bae.md)
-_Context: Kenneth Bae, United States, North Korea_
+_Context: North Korea, United States, Kenneth Bae_
 
 ##### United States
 ### [The United States files a complaint with the World Trade Organization, accusing Indian laws of discriminating against US solar panel manufacturers. ](/news/2014/02/10/the-united-states-files-a-complaint-with-the-world-trade-organization-accusing-indian-laws-of-discriminating-against-us-solar-panel-manufac.md)
-_Context: World Trade Organization, United States, India, solar panel_
+_Context: United States, World Trade Organization, solar panel, India_
 
 ##### Garda Sochna Ombudsman Commission
 ### [The Garda Sochna Ombudsman Commission (GSOC), Ireland's police Ombudsman, is revealed to have been bugged, with emails, wi-fi and phone systems at its Dublin headquarters also accessed illegally and internationally. ](/news/2014/02/10/the-garda-siochana-ombudsman-commission-gsoc-ireland-s-police-ombudsman-is-revealed-to-have-been-bugged-with-emails-wi-fi-and-phone-sy.md)

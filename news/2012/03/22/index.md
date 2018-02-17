@@ -13,11 +13,11 @@ Mutinous soldiers said they seized power in Mali on Thursday and ordered its bor
 
 ##### Syrian armed forces
 ### [Syrian armed forces continue to shell the city of Hama and at least 59 civilians are reported killed across Syria, in Idlib, Homs, Hama, Daraa, Lattakia, Aleppo and Damascus. ](/news/2012/03/22/syrian-armed-forces-continue-to-shell-the-city-of-hama-and-at-least-59-civilians-are-reported-killed-across-syria-in-idlib-homs-hama-dar.md)
-_Context: Daraa, Lattakia, Aleppo, Syrian armed forces, Homs, Idlib, Hama, Damascus_
+_Context: Idlib, Hama, Damascus, Aleppo, Lattakia, Homs, Syrian armed forces, Daraa_
 
 ##### Kurdistan Workers' Party
 ### [12 people are killed in an operation against PKK rebels in southeastern Turkey. ](/news/2012/03/22/12-people-are-killed-in-an-operation-against-pkk-rebels-in-southeastern-turkey.md)
-_Context: Kurdistan Workers' Party, Turkey_
+_Context: Turkey, Kurdistan Workers' Party_
 
 ##### Montreal, Canada
 ### [Several thousands of students in Montreal, Canada protest against proposed post-secondary education tuition hikes. ](/news/2012/03/22/several-thousands-of-students-in-montreal-canada-protest-against-proposed-post-secondary-education-tuition-hikes.md)
@@ -25,7 +25,7 @@ _Context: Montreal, Canada_
 
 ##### Los Angeles County Coroner's Office
 ### [The Los Angeles County Coroner's Office says that Whitney Houston's official cause of death was drowning as a result of cocaine use. ](/news/2012/03/22/the-los-angeles-county-coroner-s-office-says-that-whitney-houston-s-official-cause-of-death-was-drowning-as-a-result-of-cocaine-use.md)
-_Context: Los Angeles County Coroner's Office, cocaine, Whitney Houston_
+_Context: cocaine, Los Angeles County Coroner's Office, Whitney Houston_
 
 ##### Irish
 ### [Ireland officially falls back into recession. ](/news/2012/03/22/ireland-officially-falls-back-into-recession.md)
@@ -33,7 +33,7 @@ The Republic of Ireland fell back into recession in the last three months of 201
 
 ##### Portuguese nationals
 ### [Portuguese trade unions hold a 24-hour strike in protest of austerity measures. ](/news/2012/03/22/portuguese-trade-unions-hold-a-24-hour-strike-in-protest-of-austerity-measures.md)
-_Context: Portuguese nationals, labour unions_
+_Context: labour unions, Portuguese nationals_
 
 ##### United States
 ### [In the United States, about 350,000 people filed for unemployment benefits, hitting a four-year low, according to the United States Labor Department. ](/news/2012/03/22/in-the-united-states-about-350-000-people-filed-for-unemployment-benefits-hitting-a-four-year-low-according-to-the-united-states-labor-de.md)
@@ -57,7 +57,7 @@ India on Thursday voted in favour of a US-sponsored censure motion against Sri L
 
 ##### South Sudan
 ### [South Sudan invites Sudan to discuss outstanding issues next month between the two countries that nearly resulted in a war. ](/news/2012/03/22/south-sudan-invites-sudan-to-discuss-outstanding-issues-next-month-between-the-two-countries-that-nearly-resulted-in-a-war.md)
-_Context: Sudan, South Sudan_
+_Context: South Sudan, Sudan_
 
 ##### United Nations
 ### [The United Nations appoints a special rapporteur to investigate the situation in Tibet, after hunger strikes occurred outside the United Nations Headquarters building in New York City. ](/news/2012/03/22/the-united-nations-appoints-a-special-rapporteur-to-investigate-the-situation-in-tibet-after-hunger-strikes-occurred-outside-the-united-nat.md)
@@ -65,7 +65,7 @@ Three Tibetans who have been quietly starving themselves in the shadow of the Un
 
 ##### Trayvon Martin
 ### [The parents of an unarmed black teen boy killed by gunshot wound in a suburb of Orlando in the U.S. state of Florida address a mass rally in New York to call for justice. ](/news/2012/03/22/the-parents-of-an-unarmed-black-teen-boy-killed-by-gunshot-wound-in-a-suburb-of-orlando-in-the-u-s-state-of-florida-address-a-mass-rally-in.md)
-_Context: a suburb of Orlando, Florida, New York City, Trayvon Martin_
+_Context: Florida, Trayvon Martin, New York City, a suburb of Orlando_
 
 ##### Florida
 ### [A court hears that two British men shot dead in the U.S. state of Florida last April were found with their shirts off and trousers round their thighs. ](/news/2012/03/22/a-court-hears-that-two-british-men-shot-dead-in-the-u-s-state-of-florida-last-april-were-found-with-their-shirts-off-and-trousers-round-the.md)

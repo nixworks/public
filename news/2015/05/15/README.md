@@ -5,7 +5,7 @@ Formats: [HTML](2015/05/15/index.html)  [JSON](2015/05/15/index.json)  [XML](201
 
 ##### Failed coup
 ### [Burundi officials say that they have arrested several coup members but the leader of the failed coup against President Pierre Nkurunziza, Major General Godefroid Niyombare remains at large. ](/news/2015/05/15/burundi-officials-say-that-they-have-arrested-several-coup-members-but-the-leader-of-the-failed-coup-against-president-pierre-nkurunziza-ma.md)
-_Context: failed coup, Burundi, Godefroid Niyombare, Pierre Nkurunziza_
+_Context: Burundi, Pierre Nkurunziza, Godefroid Niyombare, failed coup_
 
 ##### TV3
 ### [Irish journalist and TV3 political editor Ursula Halligan comes out as lesbian ahead of the country's Marriage Equality referendum next week. ](/news/2015/05/15/irish-journalist-and-tv3-political-editor-ursula-halligan-comes-out-as-lesbian-ahead-of-the-country-s-marriage-equality-referendum-next-week.md)

@@ -9,7 +9,7 @@ Twenty-one skulls believed to be the remains of soldiers loyal to ousted former 
 
 ##### United States
 ### [The United States stops shipping supplies to Afghanistan through Pakistan due to protests over drone attacks. ](/news/2013/12/4/the-united-states-stops-shipping-supplies-to-afghanistan-through-pakistan-due-to-protests-over-drone-attacks.md)
-_Context: Pakistan, Afghan, United States, drones launch_
+_Context: drones launch, Afghan, Pakistan, United States_
 
 ##### Pakistan
 ### [Thirteen people are killed as a result of targetted shootings in Pakistan's biggest city Karachi. ](/news/2013/12/4/thirteen-people-are-killed-as-a-result-of-targetted-shootings-in-pakistan-s-biggest-city-karachi.md)
@@ -49,7 +49,7 @@ New leader is expected to make changes including replacing religious classes wit
 
 ##### Rein Lang
 ### [After Estonian Minister of Culture, Rein Lang's, resignation, new minister - Urve Tiidus - takes office, after President Toomas Hendrik Ilves approval. ](/news/2013/12/4/after-estonian-minister-of-culture-rein-langa-s-resignation-new-minister-urve-tiidus-takes-office-after-president-toomas-hendrik-ilv.md)
-_Context: Urve Tiidus, Toomas Hendrik Ilves, Rein Lang_
+_Context: Toomas Hendrik Ilves, Rein Lang, Urve Tiidus_
 
 ##### Laptev sea
 ### [A new island is discovered in the Laptev sea, and is given the name Yaya. ](/news/2013/12/4/a-new-island-is-discovered-in-the-laptev-sea-and-is-given-the-name-yaya.md)

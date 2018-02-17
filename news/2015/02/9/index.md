@@ -9,7 +9,7 @@ Fighting in Ukraine took an explosive turn Sunday night when residents of Donets
 
 ##### Boko Haram
 ### [Boko Haram launch a raid on a prison in the town of Diffa in Niger. Authorities repel the attack. ](/news/2015/02/9/boko-haram-launch-a-raid-on-a-prison-in-the-town-of-diffa-in-niger-authorities-repel-the-attack.md)
-_Context: Diffa, Boko Haram, Niger_
+_Context: Niger, Diffa, Boko Haram_
 
 ##### Police
 ### [Hooded gunmen attack French police in the city of Marseille, which Prime Minister Manuel Valls is due to visit. ](/news/2015/02/9/hooded-gunmen-attack-french-police-in-the-city-of-marseille-which-prime-minister-manuel-valls-is-due-to-visit.md)
@@ -33,7 +33,7 @@ Canadian gold miner Tahoe Resources Inc (THO.TO) (TAHO.N) said on Monday it has 
 
 ##### Mountaineer
 ### [Mountaineers claim to have found in the Andes the wreckage of LAN Chile Flight 210 that disappeared in August 1961 killing 24 people on board including eight members and two coaches of the Club de Deportes Green Cross football team. ](/news/2015/02/9/mountaineers-claim-to-have-found-in-the-andes-the-wreckage-of-lan-chile-flight-210-that-disappeared-in-august-1961-killing-24-people-on-boar.md)
-_Context: LAN Chile Flight 210, Andes, Club de Deportes Green Cross, Mountaineer_
+_Context: Andes, Club de Deportes Green Cross, LAN Chile Flight 210, Mountaineer_
 
 ##### Boston
 ### [The U.S. city of Boston, Massachusetts, sets all-time records for amount of snow on the ground and amount of snow over 30-day and 40-day periods in 17 days. ](/news/2015/02/9/the-u-s-city-of-boston-massachusetts-sets-all-time-records-for-amount-of-snow-on-the-ground-and-amount-of-snow-over-30-day-and-40-day-per.md)

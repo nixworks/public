@@ -33,7 +33,7 @@ Gov. Alejandro García Padilla said that his administration would probably seek 
 
 ##### Diphtheria
 ### [A six-year-old boy whose parents refused to have him vaccinated dies of diphtheria, the first case in Spain since 1987. ](/news/2015/06/28/a-six-year-old-boy-whose-parents-refused-to-have-him-vaccinated-dies-of-diphtheria-the-first-case-in-spain-since-1987.md)
-_Context: diphtheria, Spain_
+_Context: Spain, diphtheria_
 
 ##### 2015 Clinton Correctional Facility escape
 ### [Remaining escapee David Sweat is shot and captured in upstate New York near the border with Canada. ](/news/2015/06/28/remaining-escapee-david-sweat-is-shot-and-captured-in-upstate-new-york-near-the-border-with-canada.md)

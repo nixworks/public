@@ -17,7 +17,7 @@ Deadly clashes between two communities in southern Ethiopia cause 20,000 people 
 
 ##### German
 ### [The sunken German U-Boat "U-550" is discovered off the coast of Massachusetts, United States. ](/news/2012/07/28/the-sunken-german-u-boat-u-550-is-discovered-off-the-coast-of-massachusetts-united-states.md)
-_Context: U-550, United States, Massachusetts, German_
+_Context: United States, U-550, Massachusetts, German_
 
 ##### Andriy Shevchenko
 ### [Andriy Shevchenko announces his retirement from football in order to go into politics. ](/news/2012/07/28/andriy-shevchenko-announces-his-retirement-from-football-in-order-to-go-into-politics.md)

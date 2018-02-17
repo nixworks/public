@@ -21,11 +21,11 @@ _Context: South Kivu, DR Congo_
 
 ##### NATO
 ### [The Latvian Defense Ministry said four NATO fighter jets from the Lithuanian Air Force Base near Siauliai were deployed when two Russian bombers flying in the neutral airspace almost entered Latvian air space. ](/news/2010/10/18/the-latvian-defense-ministry-said-four-nato-fighter-jets-from-the-lithuanian-air-force-base-near-a-iauliai-were-deployed-when-two-russian-bo.md)
-_Context: NATO, two Russian bombers flying in the neutral airspace, Latvia, Lithuania_
+_Context: NATO, two Russian bombers flying in the neutral airspace, Lithuania, Latvia_
 
 ##### Miss Vietnam World
 ### [Miss Vietnam World 2010 nominated for Miss Earth. It will be held from November 4 to December 4 in HCM City, Phan Thiet, Hoi An and Nha Trang. ](/news/2010/10/18/miss-vietnam-world-2010-nominated-for-miss-earth-it-will-be-held-from-november-4-to-december-4-in-hcm-city-phan-thiet-hoi-an-and-nha-tran.md)
-_Context: Hoi An, Nha Trang, Miss Earth, Miss Vietnam World, Phan Thiet, Ho Chi Minh City_
+_Context: Hoi An, Ho Chi Minh City, Miss Earth, Nha Trang, Miss Vietnam World, Phan Thiet_
 
 ##### BP
 ### [BP is to sell assets worth an estimated $1.8 billion as part of series of sales to help pay for damages caused by the explosion on its Deepwater Horizon rig in April, which killed 11 workers and spilled more than 200 million gallons of crude oil into the Gulf of Mexico. ](/news/2010/10/18/bp-is-to-sell-assets-worth-an-estimated-1-8-billion-as-part-of-series-of-sales-to-help-pay-for-damages-caused-by-the-explosion-on-its-deepw.md)
@@ -49,7 +49,7 @@ _Context: Vietnam, Ha Tinh Province_
 
 ##### Santiago de Queretaro
 ### [At least nineteen people die near Santiago de Queretaro, Mexico, after a bus collides with a truck. ](/news/2010/10/18/at-least-nineteen-people-die-near-santiago-de-quera-c-taro-mexico-after-a-bus-collides-with-a-truck.md)
-_Context: Mexican, Santiago de Queretaro_
+_Context: Mexico, Santiago de Queretaro_
 
 ##### U.S. government
 ### [The U.S. government has concluded that Chinese companies are bypassing UN sanctions on Iran and helping Iran to improve its missile technology and develop nuclear weapons, and has asked China to stop such activity. ](/news/2010/10/18/the-u-s-government-has-concluded-that-chinese-companies-are-bypassing-un-sanctions-on-iran-and-helping-iran-to-improve-its-missile-technolo.md)
@@ -57,11 +57,11 @@ _Context: U.S. government, nuclear program, ban on ballistic missile tests_
 
 ##### Rwanda
 ### [Rwandan opposition parties appeal to the United States and the UN Security Council to intervene on behalf of the opposition FDU party leader, Victoire Ingabire Umuhoza, arrested last week, and other political prisoners. ](/news/2010/10/18/rwandan-opposition-parties-appeal-to-the-united-states-and-the-un-security-council-to-intervene-on-behalf-of-the-opposition-fdu-party-leader.md)
-_Context: Rwanda, Victoire Ingabire, UN Security Council, United States_
+_Context: Victoire Ingabire, United States, Rwanda, UN Security Council_
 
 ##### Uganda
 ### [Fears mount that the Ugandan rebel group, the Lord's Resistance Army, which has ties to the Sudanese government, is poised to destabilize South Sudan as it prepares for a referendum on independence. ](/news/2010/10/18/fears-mount-that-the-ugandan-rebel-group-the-lord-s-resistance-army-which-has-ties-to-the-sudanese-government-is-poised-to-destabilize-so.md)
-_Context: Sudanese cabinet, Southern Sudanese Independence Referendum, Uganda, Southern Sudan, Lord's Resistance Army_
+_Context: Southern Sudanese Independence Referendum, Southern Sudan, Sudanese cabinet, Uganda, Lord's Resistance Army_
 
 ##### Iraq Prime Minister
 ### [Iraqi Prime Minister Nouri al-Maliki visits Iran, where he is told to "get rid of America". ](/news/2010/10/18/iraqi-prime-minister-nouri-al-maliki-visits-iran-where-he-is-told-to-get-rid-of-america.md)
@@ -69,11 +69,11 @@ Iran has demonstrated its hold over the future of Iraqi politics, telling Nouri 
 
 ##### Convention on Biological Diversity
 ### [The Convention on Biological Diversity (CBD), a major United Nations gathering, meets in Japan to work out why governments have failed to stop the rapid rate of extinction and loss of habitats by 2010, as they vowed 8 years ago. ](/news/2010/10/18/the-convention-on-biological-diversity-cbd-a-major-united-nations-gathering-meets-in-japan-to-work-out-why-governments-have-failed-to-st.md)
-_Context: Japan, Convention on Biological Diversity, United Nations, Holocene extinction_
+_Context: United Nations, Holocene extinction, Convention on Biological Diversity, Japan_
 
 ##### Prime Minister of Japan
 ### [The Prime Minister of Japan Naoto Kan voices concerns about rowdy anti-Japanese protests in China, sparked by a recent territorial dispute. ](/news/2010/10/18/the-prime-minister-of-japan-naoto-kan-voices-concerns-about-rowdy-anti-japanese-protests-in-china-sparked-by-a-recent-territorial-dispute.md)
-_Context: Chinese, Naoto Kan, Japan, Prime Minister of Japan_
+_Context: Chinese, Japan, Prime Minister of Japan, Naoto Kan_
 
 ##### United Arab Emirates
 ### [The United Arab Emirates' highest court rules in a domestic violence case that a man can beat his wife and children as long as he leaves no physical marks. ](/news/2010/10/18/the-united-arab-emirates-highest-court-rules-in-a-domestic-violence-case-that-a-man-can-beat-his-wife-and-children-as-long-as-he-leaves-no.md)
@@ -81,11 +81,11 @@ A man can beat his wife and kids as long as no physical marks are left, the high
 
 ##### Philippines
 ### [Five migrant Filipino workers are arrested in Saudi Arabia for filing a labor complaint against their employer according to a Philippine migrant workers' rights group. ](/news/2010/10/18/five-migrant-filipino-workers-are-arrested-in-saudi-arabia-for-filing-a-labor-complaint-against-their-employer-according-to-a-philippine-mig.md)
-_Context: Saudi Arabia, migrant workers, Philippines_
+_Context: Philippines, migrant workers, Saudi Arabia_
 
 ##### Kurdistan Workers' Party
 ### [More than 150 people, including 12 mayors and some politicians, go on trial for alleged links to the Kurdistan Workers' Party (PKK) in Turkey. ](/news/2010/10/18/more-than-150-people-including-12-mayors-and-some-politicians-go-on-trial-for-alleged-links-to-the-kurdistan-workers-party-pkk-in-turke.md)
-_Context: Kurdistan Workers' Party, Turkey_
+_Context: Turkey, Kurdistan Workers' Party_
 
 ##### Islamist
 ### [Islamist Al-Shabaab rebels in Somalia ban mobile phone money transfers, saying they are "unIslamic". ](/news/2010/10/18/islamist-al-shabaab-rebels-in-somalia-ban-mobile-phone-money-transfers-saying-they-are-unislamic.md)
@@ -93,15 +93,15 @@ Somali Islamist group al-Shabab orders mobile phone companies to stop their popu
 
 ##### Haiti
 ### [Three inmates are killed in a prison riot in the Haitian capital Port-au-Prince. ](/news/2010/10/18/three-inmates-are-killed-in-a-prison-riot-in-the-haitian-capital-port-au-prince.md)
-_Context: Port-au-Prince, Haiti_
+_Context: Haiti, Port-au-Prince_
 
 ##### Ajmal Kasab
 ### [The appeal of Ajmal Kasab against the death sentence imposed by an Indian court for his role in the 2008 Mumbai attacks begins in Mumbai. ](/news/2010/10/18/the-appeal-of-ajmal-kasab-against-the-death-sentence-imposed-by-an-indian-court-for-his-role-in-the-2008-mumbai-attacks-begins-in-mumbai.md)
 The sole surviving gunman of the 2008 Mumbai attacks is launching an appeal against his death sentence.
 
-##### China
+##### Chinese
 ### [China releases the Tibetan writer, Kalsang Tsultrim, who was arrested in China earlier this year for what China termed a "political error". ](/news/2010/10/18/china-releases-the-tibetan-writer-kalsang-tsultrim-who-was-arrested-in-china-earlier-this-year-for-what-china-termed-a-political-error.md)
-_Context: Tibet, China_
+_Context: Chinese, Tibet_
 
 ##### General elections
 ### [Burma bans all foreign media and international observers from the upcoming general election in November. ](/news/2010/10/18/burma-bans-all-foreign-media-and-international-observers-from-the-upcoming-general-election-in-november.md)
@@ -109,11 +109,11 @@ Election observers and foreign journalists will not be allowed into Burma for it
 
 ##### Vice President
 ### [China's Vice President Xi Jinping is named vice-chair of the Central Military Commission. ](/news/2010/10/18/china-s-vice-president-xi-jinping-is-named-vice-chair-of-the-central-military-commission.md)
-_Context: Xi Jinping, Vice President, Central Military Commission_
+_Context: Central Military Commission, Xi Jinping, Vice President_
 
 ##### Sudanese cabinet
 ### [The Sudanese government fires the special prosecutor for Darfur war crimes, in what the "Sudan Tribune" calls "an apparent bid to deflect the case of the International Criminal Court against President Omar al-Bashir". ](/news/2010/10/18/the-sudanese-government-fires-the-special-prosecutor-for-darfur-war-crimes-in-what-the-sudan-tribune-calls-an-apparent-bid-to-deflect-th.md)
-_Context: ICC, Sudanese cabinet, Sudan Tribune, conflict, Omar al-Bashir_
+_Context: conflict, Sudan Tribune, Omar al-Bashir, Sudanese cabinet, ICC_
 
 ##### Government of Australia
 ### [The Australian Government announces that it will establish two new Immigration detention centres in Northam, Western Australia and Inverbrackie, South Australia and end detention of children and family groups. ](/news/2010/10/18/the-australian-government-announces-that-it-will-establish-two-new-immigration-detention-centres-in-northam-western-australia-and-inverbrac.md)
@@ -121,7 +121,7 @@ The Australian government unveils plans for two more detention centres to accomm
 
 ##### Marine researchers
 ### [Marine researchers discover a large reef of deep-sea coral in the Mediterranean stretching for several kilometers, 30 to 40 kilometers off the coast of Tel Aviv, in an area once thought to be relatively barren of sea life. ](/news/2010/10/18/marine-researchers-discover-a-large-reef-of-deep-sea-coral-in-the-mediterranean-stretching-for-several-kilometers-30-to-40-kilometers-off-t.md)
-_Context: reef, Mediterranean, Marine researchers, Tel Aviv, deep-sea coral_
+_Context: Marine researchers, deep-sea coral, Tel Aviv, Mediterranean, reef_
 
 ## [Previous Day...](/news/2010/10/17/index.md)
 

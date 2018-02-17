@@ -9,7 +9,7 @@ Costa Rican President Oscar Arias is said to have the H1N1 virus. He was placed 
 
 ##### Pretoria
 ### [ A court ruling in Pretoria bars President Jacob Zuma from appointing a successor to axed prosecutions chief Vusi Pikoli. ](/news/2009/08/11/a-court-ruling-in-pretoria-bars-president-jacob-zuma-from-appointing-a-successor-to-axed-prosecutions-chief-vusi-pikoli.md)
-_Context: President of South Africa, Jacob Zuma, Pretoria, Vusi Pikoli_
+_Context: Pretoria, Jacob Zuma, President of South Africa, Vusi Pikoli_
 
 ##### Union of South American Nations
 ### [ UNASUR leaders express fresh concerns over Colombian plans to grant United States troops access to its military bases but cannot agree on a declaration to formally condemn the proposals. Venezuelan President Hugo Chavez warns that "the winds of war are beginning to blow" across the region. ](/news/2009/08/11/unasur-leaders-express-fresh-concerns-over-colombian-plans-to-grant-united-states-troops-access-to-its-military-bases-but-cannot-agree-on-a.md)
@@ -29,15 +29,15 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 
 ##### Asia
 ### [ Two strong earthquakes hit Asia; a 7.6 magnitude quake off the Indian Andaman Islands and a 6.5 magnitude quake in the Tokyo area of Japan, killing one and injuring dozens. ](/news/2009/08/11/two-strong-earthquakes-hit-asia-a-7-6-magnitude-quake-off-the-indian-andaman-islands-and-a-6-5-magnitude-quake-in-the-tokyo-area-of-japan.md)
-_Context: quake off, magnitude, Tokyo, Asia, Japan, Andaman Islands, 6.5 magnitude quake, India_
+_Context: Tokyo, Andaman Islands, Japan, quake off, India, Asia, magnitude, 6.5 magnitude quake_
 
 ##### German
 ### [ A German court sentences former Nazi army commander Josef Scheungraber to life in prison for his role in the murder of 10 Italians in Tuscany in 1944. ](/news/2009/08/11/a-german-court-sentences-former-nazi-army-commander-josef-scheungraber-to-life-in-prison-for-his-role-in-the-murder-of-10-italians-in-tusca.md)
-_Context: Tuscany, Nazi, Josef Scheungraber, German, Italy_
+_Context: Italy, Tuscany, Nazi, Josef Scheungraber, German_
 
 ##### Ramechhap
 ### [ Thousands of people worship a baby born with four arms and four legs in Ramechhap, Nepal, revering him as the reincarnation of Ganesh. ](/news/2009/08/11/thousands-of-people-worship-a-baby-born-with-four-arms-and-four-legs-in-ramechhap-nepal-revering-him-as-the-reincarnation-of-ganesh.md)
-_Context: Ramechhap, Nepal, Ganesh_
+_Context: Ganesh, Nepal, Ramechhap_
 
 ##### Kuwait
 ### [ Kuwait foils an al Qaeda-linked plan to bomb a United States army camp and other "important facilities" in the country. ](/news/2009/08/11/kuwait-foils-an-al-qaeda-linked-plan-to-bomb-a-united-states-army-camp-and-other-important-facilities-in-the-country.md)
@@ -65,7 +65,7 @@ _Context: NASA, Spitzer Space Telescope_
 
 ##### Russian President
 ### [ Russian President Dmitry Medvedev delays sending a new ambassador to Ukraine after criticising its "anti-Russian" stance. ](/news/2009/08/11/russian-president-dmitry-medvedev-delays-sending-a-new-ambassador-to-ukraine-after-criticising-its-anti-russian-stance.md)
-_Context: Dmitry Medvedev, Russian President, Ukraine_
+_Context: Russian President, Ukraine, Dmitry Medvedev_
 
 ##### England
 ### [ A pilot flying from England to Ireland is airlifted to safety after his two-man aircraft crashes into the Irish Sea near Tuskar Rock. ](/news/2009/08/11/a-pilot-flying-from-england-to-ireland-is-airlifted-to-safety-after-his-two-man-aircraft-crashes-into-the-irish-sea-near-tuskar-rock.md)
@@ -73,11 +73,11 @@ A man has been rescued after his light aircraft ditched into the sea off Co Wexf
 
 ##### Princess Madeleine
 ### [ Swedish Princess Madeleine announces her engagement to lawyer and longterm boyfriend Jonas Bergstrom, becoming the second royal in Sweden to announce her engagment after Crown Princess Victoria. ](/news/2009/08/11/swedish-princess-madeleine-announces-her-engagement-to-lawyer-and-longterm-boyfriend-jonas-bergstrapm-becoming-the-second-royal-in-sweden.md)
-_Context: Jonas Bergstrom, Princess Madeleine, Crown Princess Victoria, Sweden_
+_Context: Jonas Bergstrom, Princess Madeleine, Sweden, Crown Princess Victoria_
 
 ##### Russia
 ### [ A Russian woman is arrested after throwing a teacup at the "Mona Lisa" portrait in the Louvre, Paris. ](/news/2009/08/11/a-russian-woman-is-arrested-after-throwing-a-teacup-at-the-mona-lisa-portrait-in-the-louvre-paris.md)
-_Context: Mona Lisa, Russia, Paris, Louvre_
+_Context: Russia, Louvre, Mona Lisa, Paris_
 
 ##### Australia
 ### [ A passenger plane carrying 13 people, including nine Australians, en route to Kokoda, site of a hiking trail and famous World War II battle, is reported missing over Papua New Guinea. ](/news/2009/08/11/a-passenger-plane-carrying-13-people-including-nine-australians-en-route-to-kokoda-site-of-a-hiking-trail-and-famous-world-war-ii-battle.md)
@@ -85,11 +85,11 @@ A passenger plane carrying 13 people, including nine Australians, is missing fea
 
 ##### Nepenthes attenboroughii
 ### [ "Nepenthes attenboroughii", a new species of giant carnivorous plant, is discovered in the highlands of the central Philippines. ](/news/2009/08/11/nepenthes-attenboroughii-a-new-species-of-giant-carnivorous-plant-is-discovered-in-the-highlands-of-the-central-philippines.md)
-_Context: Nepenthes attenboroughii, Philippines_
+_Context: Philippines, Nepenthes attenboroughii_
 
 ##### Kenya
 ### [ Two Kenyans, two French, a Bulgarian and a Belgian held captive since November 2008 are freed by their Somali kidnappers. ](/news/2009/08/11/two-kenyans-two-french-a-bulgarian-and-a-belgian-held-captive-since-november-2008-are-freed-by-their-somali-kidnappers.md)
-_Context: Somalia, Kenya, Belgium, Bulgaria, France_
+_Context: Belgium, Bulgaria, Somalia, Kenya, France_
 
 ## [Previous Day...](/news/2009/08/10/index.md)
 

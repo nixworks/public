@@ -5,7 +5,7 @@ Formats: [HTML](2014/11/28/index.html)  [JSON](2014/11/28/index.json)  [XML](201
 
 ##### Set off three bombs and fire at worshippers
 ### [Gunmen set off three bombs and fire at worshippers at the central mosque in the northern city of Kano after the Emir, Sanusi Lamido Sanusi, had issued a call to arms against Boko Haram. At least 120 people are killed. ](/news/2014/11/28/gunmen-set-off-three-bombs-and-fire-at-worshippers-at-the-central-mosque-in-the-northern-city-of-kano-after-the-emir-sanusi-lamido-sanusi.md)
-_Context: set off three bombs and fire at worshippers, Boko Haram, Sanusi Lamido Sanusi, Kano, Emir_
+_Context: Sanusi Lamido Sanusi, Emir, Boko Haram, Kano, set off three bombs and fire at worshippers_
 
 ##### Market capitalization
 ### [Frantic trading in energy company stocks, especially the suppliers of oil-services, shaves billions off the market capitalization of publically traded businesses within this sector. ](/news/2014/11/28/frantic-trading-in-energy-company-stocks-especially-the-suppliers-of-oil-services-shaves-billions-off-the-market-capitalization-of-publica.md)
@@ -25,11 +25,11 @@ Thousands of people have joined silent vigils across Germany to pay tribute to a
 
 ##### Parliament of Finland
 ### [The Parliament of Finland votes to allow same-sex marriage, marking the first time that a citizens' initiative has received lawmakers' blessing to be written into the legislation. ](/news/2014/11/28/the-parliament-of-finland-votes-to-allow-same-sex-marriage-marking-the-first-time-that-a-citizens-initiative-has-received-lawmakers-bless.md)
-_Context: same-sex marriage, Parliament of Finland_
+_Context: Parliament of Finland, same-sex marriage_
 
 ##### Social-democratic
 ### [The social-democratic Siumut narrowly retains a government-forming plurality of votes in the Greenlandic general election, tying with leftist opposition Inuit Ataqatigiit for number of parliament seats. ](/news/2014/11/28/the-social-democratic-siumut-narrowly-retains-a-government-forming-plurality-of-votes-in-the-greenlandic-general-election-tying-with-leftis.md)
-_Context: left-wing, Siumut, social-democratic, parliament seats, Greenlandic general election, Inuit Ataqatigiit_
+_Context: left-wing, Siumut, Inuit Ataqatigiit, parliament seats, social-democratic, Greenlandic general election_
 
 ##### Egypt
 ### [Three army officers and two protesters are killed and more than one hundred protesters are arrested during anti-government protests across Egypt. ](/news/2014/11/28/three-army-officers-and-two-protesters-are-killed-and-more-than-one-hundred-protesters-are-arrested-during-anti-government-protests-across-e.md)

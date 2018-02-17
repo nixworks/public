@@ -17,7 +17,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ##### 2015 Indian heat wave
 ### [The death toll from the Indian heat wave rises to over 1,400 with over 1000 dead in Andhra Pradesh state alone. ](/news/2015/05/28/the-death-toll-from-the-indian-heat-wave-rises-to-over-1-400-with-over-1000-dead-in-andhra-pradesh-state-alone.md)
-_Context: 2015 Indian heat wave, Andhra Pradesh_
+_Context: Andhra Pradesh, 2015 Indian heat wave_
 
 ##### Indonesia
 ### [Seventeen students are killed and five injured when a truck carrying them to school overturns on the Indonesian island of Sumatra. ](/news/2015/05/28/seventeen-students-are-killed-and-five-injured-when-a-truck-carrying-them-to-school-overturns-on-the-indonesian-island-of-sumatra.md)
@@ -37,7 +37,7 @@ Independent TD Catherine Murphy has spoken in the Dáil about the business relat
 
 ##### Presidential primaries
 ### [Former Governor of New York, George Pataki, announces that he is seeking the Republican Party nomination for the 2016 presidential election. ](/news/2015/05/28/former-governor-of-new-york-george-pataki-announces-that-he-is-seeking-the-republican-party-nomination-for-the-2016-presidential-election.md)
-_Context: New York Governor, 2016 U.S. presidential election, George Pataki, Republican, presidential primaries_
+_Context: Republican, George Pataki, 2016 U.S. election, presidential primaries, New York Governor_
 
 ##### NASA
 ### [NASA awards Boeing a commercial contract to build and fly the next passenger spacecraft, the CST-100. ](/news/2015/05/28/nasa-awards-boeing-a-commercial-contract-to-build-and-fly-the-next-passenger-spacecraft-the-cst-100.md)

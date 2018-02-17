@@ -49,7 +49,7 @@ A Columbian businessman, who is visiting South Africa, has been diagnosed with t
 
 ##### Prime Minister
 ### [New Zealand Prime Minister John Key says his country is willing to accept some asylum seekers from the Middle East and Asia, currently in detention camps on impoverished Pacific island nations. Presently, 267 refugees in Australia for medical treatment, some accompanied by a relative, are set to be returned to Nauru's detention camp. Australia is hesitant about the offer, concerned that it could encourage people smugglers. ](/news/2016/02/19/new-zealand-prime-minister-john-key-says-his-country-is-willing-to-accept-some-asylum-seekers-from-the-middle-east-and-asia-currently-in-de.md)
-_Context: Nauru, Prime Minister, John Key, Australia, Middle East, Pacific island nations, Asia, people smugglers, detention camps, imminent danger_
+_Context: Nauru, detention camps, Asia, Australia, John Key, Prime Minister, imminent danger, people smugglers, Pacific island nations, Middle East_
 
 ##### European migrant crisis
 ### [Serbia closes its southern border with Macedonia to migrants from countries not affected by war as part of measures to prevent illegal immigration. ](/news/2016/02/19/serbia-closes-its-southern-border-with-macedonia-to-migrants-from-countries-not-affected-by-war-as-part-of-measures-to-prevent-illegal-immig.md)
@@ -61,7 +61,7 @@ David Cameron hailed a landmark deal on Friday he said gave Britain &quot;specia
 
 ##### Christiana Figueres
 ### [Christiana Figueres, executive secretary of the UN Framework Convention on Climate Change, announces she will resign in July when her appointment ends. ](/news/2016/02/19/christiana-figueres-executive-secretary-of-the-un-framework-convention-on-climate-change-announces-she-will-resign-in-july-when-her-appoin.md)
-_Context: climate change, Christiana Figueres_
+_Context: Christiana Figueres, climate change_
 
 ##### Department of Justice
 ### [The United States Department of Justice files a motion to compel Apple Inc. to comply with a court order to help the FBI hack a phone used by an attacker in the 2015 San Bernardino attack. ](/news/2016/02/19/the-united-states-department-of-justice-files-a-motion-to-compel-apple-inc-to-comply-with-a-court-order-to-help-the-fbi-hack-a-phone-used-b.md)
@@ -73,7 +73,7 @@ Anti-virus creator John McAfee claims he can break the encryption on an iPhone u
 
 ##### Ugandan general election, 2016
 ### [Opposition leader Kizza Besigye is arrested again just before a planned press conference. Police raid Besigye's Forum for Democratic Change party headquarters and fire tear gas at the FDC supporters. Partial results from the electoral commission show a lead for incumbent president Yoweri Museveni. ](/news/2016/02/19/opposition-leader-kizza-besigye-is-arrested-again-just-before-a-planned-press-conference-police-raid-besigye-s-forum-for-democratic-change.md)
-_Context: Ugandan general election, 2016, Kizza Besigye, Yoweri Museveni, Forum for Democratic Change_
+_Context: Kizza Besigye, Ugandan general election, 2016, Forum for Democratic Change, Yoweri Museveni_
 
 ##### Kosovo
 ### [Kosovo opposition lawmakers twice disrupt today's session of parliament by tossing tear gas into the chamber to protest recent changes giving the country's Serb minority greater powers, and demanding the government's resignation and snap elections. ](/news/2016/02/19/kosovo-opposition-lawmakers-twice-disrupt-today-s-session-of-parliament-by-tossing-tear-gas-into-the-chamber-to-protest-recent-changes-givin.md)
@@ -81,7 +81,7 @@ PRISTINA: Despite security checks at the entrance, Kosovo opposition lawmakers o
 
 ##### Indian Police
 ### [According to Indian Police, at least one person is killed and up to 20 people injured during, what became violent, protests by the Jat agricultural community in Rohtak, India, for a 10 percent increase in the number of their caste quota (affirmative action). ](/news/2016/02/19/according-to-indian-police-at-least-one-person-is-killed-and-up-to-20-people-injured-during-what-became-violent-protests-by-the-jat-agric.md)
-_Context: caste, affirmative action, India, Rohtak, Jat, reservations, Indian Police_
+_Context: Indian Police, Jat, reservations, affirmative action, Rohtak, India, caste_
 
 ##### United States congressional elections, 2016
 ### [Following the United States Supreme Court's denial of North Carolina's request to use the current district map, the state's legislature meets the deadline for a court-ordered reapportionment of its congressional voting districts. Congressional primaries are rescheduled to June 7, 2016, from March 15. ](/news/2016/02/19/following-the-united-states-supreme-court-s-denial-of-north-carolina-s-request-to-use-the-current-district-map-the-state-s-legislature-meet.md)

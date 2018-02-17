@@ -5,7 +5,7 @@ Formats: [HTML](2013/08/7/index.html)  [JSON](2013/08/7/index.json)  [XML](2013/
 
 ##### Syrian Army
 ### [The Syrian Army launches a large missile on the southern Damascus neighborhood of Yarmouk, largely inhabited by Palestinian refugees. ](/news/2013/08/7/the-syrian-army-launches-a-large-missile-on-the-southern-damascus-neighborhood-of-yarmouk-largely-inhabited-by-palestinian-refugees.md)
-_Context: Syrian Army, Palestinian, Damascus, Yarmouk Camp_
+_Context: Damascus, Palestinian, Yarmouk Camp, Syrian Army_
 
 ##### Al-Qaeda
 ### [Six suspect Al-Qaeda militants are killed in a drone strike in Southern Yemen. ](/news/2013/08/7/six-suspect-al-qaeda-militants-are-killed-in-a-drone-strike-in-southern-yemen.md)
@@ -13,7 +13,7 @@ A U.S. drone killed at least six suspected al Qaeda militants in southern Yemen 
 
 ##### Yemen
 ### [Yemen authorities foil an Al-Qaeda plot to blow up the oil pipelines and seize some of the country's main ports. ](/news/2013/08/7/yemen-authorities-foil-an-al-qaeda-plot-to-blow-up-the-oil-pipelines-and-seize-some-of-the-country-s-main-ports.md)
-_Context: al-Qaeda, Yemen_
+_Context: Yemen, al-Qaeda_
 
 ##### Israel
 ### [Four Israeli soldiers are wounded by a landmine near the Lebanese border. ](/news/2013/08/7/four-israeli-soldiers-are-wounded-by-a-landmine-near-the-lebanese-border.md)
@@ -29,7 +29,7 @@ _Context: kills eleven people, Karachi_
 
 ##### Barack Obama
 ### [President Barack Obama affirms that the US will attend the upcoming G-20 meeting, despite differences with the Russian government and the cancellation of bilateral talks between Obama and President Putin. ](/news/2013/08/7/president-barack-obama-affirms-that-the-us-will-attend-the-upcoming-g-20-meeting-despite-differences-with-the-russian-government-and-the-ca.md)
-_Context: G-20, meeting, President Putin, Barack Obama_
+_Context: Barack Obama, President Putin, G-20, meeting_
 
 ##### Bank of England
 ### [Bank of England governor Mark Carney says the Bank will not consider raising United Kingdom interest rates until the unemployment rate has fallen to 7% or below. ](/news/2013/08/7/bank-of-england-governor-mark-carney-says-the-bank-will-not-consider-raising-united-kingdom-interest-rates-until-the-unemployment-rate-has-f.md)
@@ -37,7 +37,7 @@ _Context: Bank of England, Mark Carney, United Kingdom, interest rate_
 
 ##### Jomo Kenyatta International Airport
 ### [A large fire breaks out at Jomo Kenyatta International Airport in the Kenyan capital Nairobi. ](/news/2013/08/7/a-large-fire-breaks-out-at-jomo-kenyatta-international-airport-in-the-kenyan-capital-nairobi.md)
-_Context: Kenya, Nairobi, Jomo Kenyatta International Airport_
+_Context: Nairobi, Jomo Kenyatta International Airport, Kenya_
 
 ##### North Korea
 ### [North Korea and South Korea agree to resume talks on reopening the Kaesong industrial zone. ](/news/2013/08/7/north-korea-and-south-korea-agree-to-resume-talks-on-reopening-the-kaesong-industrial-zone.md)

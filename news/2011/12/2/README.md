@@ -9,15 +9,15 @@ Crowds attacked liquor stores, a massage parlor and hotels in the town of Zakho.
 
 ##### Agriculture Committee
 ### [In the U.S., the Agriculture Committee of the U.S. House of Representatives votes to issue a subpoena to Jon Corzine, former Governor of New Jersey, in connection with the collapse of MF Global and the disappearance of customer funds. ](/news/2011/12/2/in-the-u-s-the-agriculture-committee-of-the-u-s-house-of-representatives-votes-to-issue-a-subpoena-to-jon-corzine-former-governor-of-new.md)
-_Context: Jon Corzine, MF Global, New Jersey, Agriculture Committee, U.S. House of Representatives_
+_Context: MF Global, Jon Corzine, New Jersey, U.S. House of Representatives, Agriculture Committee_
 
 ##### United States Secretary of State
 ### [United States Secretary of State Hillary Clinton meets with Aung San Suu Kyi, Burma's pre-eminent pro-democracy activist, to promote democratic reforms. ](/news/2011/12/2/united-states-secretary-of-state-hillary-clinton-meets-with-aung-san-suu-kyi-burma-s-pre-eminent-pro-democracy-activist-to-promote-democra.md)
-_Context: United States Secretary of State, Aung San Suu Kyi, Hillary Clinton, Burma, democratic reforms_
+_Context: Hillary Clinton, Burma, Aung San Suu Kyi, democratic reforms, United States Secretary of State_
 
 ##### Human Rights Council
 ### [The United Nations Human Rights Council denounces the crimes against humanity during the 2011 Syrian uprising which killed over 4,000 people since the uprising started in March. ](/news/2011/12/2/the-united-nations-human-rights-council-denounces-the-crimes-against-humanity-during-the-2011-syrian-uprising-which-killed-over-4-000-people.md)
-_Context: Human Rights Council, 2011 Syrian uprising, crimes against humanity_
+_Context: Human Rights Council, crimes against humanity, 2011 Syrian uprising_
 
 ## [Previous Day...](/news/2011/12/1/index.md)
 

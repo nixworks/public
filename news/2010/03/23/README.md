@@ -9,7 +9,7 @@ _Context: Calcutta, India_
 
 ##### United States
 ### [United States issues new warnings of Al-Qaeda threat to attack ships off coast of Yemen ](/news/2010/03/23/united-states-issues-new-warnings-of-al-qaeda-threat-to-attack-ships-off-coast-of-yemen.md)
-_Context: United States, Yemen, al-Qaeda_
+_Context: al-Qaeda, Yemen, United States_
 
 ##### Pakistan
 ### [5,000 people at a rally in the town of Kotli in Pakistan-administered Kashmir vow to wage a holy war to "liberate" the disputed Himalayan state of Kashmir from India on 70th anniversary of resolution to seek independence separately from India ](/news/2010/03/23/5-000-people-at-a-rally-in-the-town-of-kotli-in-pakistan-administered-kashmir-vow-to-wage-a-holy-war-to-liberate-the-disputed-himalayan-st.md)
@@ -25,11 +25,11 @@ The Taoiseach has promoted two TDs to senior positions and moved four ministers 
 
 ##### President
 ### [Nigerian cabinet reshuffle: Acting President Goodluck Jonathan picks new ministers after firing all members of his cabinet last week. ](/news/2010/03/23/nigerian-cabinet-reshuffle-acting-president-goodluck-jonathan-picks-new-ministers-after-firing-all-members-of-his-cabinet-last-week.md)
-_Context: President, Goodluck Jonathan_
+_Context: Goodluck Jonathan, President_
 
 ##### Sudan
 ### [Sudan's President Omar al-Bashir threatens to expel international observers for the first general elections in the country in 21 years, after they called for a delay to deal with "logistical" problems. ](/news/2010/03/23/sudan-s-president-omar-al-bashir-threatens-to-expel-international-observers-for-the-first-general-elections-in-the-country-in-21-years-afte.md)
-_Context: Sudan, post-election protests, Omar al-Bashir, President of Sudan_
+_Context: Sudan, President of Sudan, Omar al-Bashir, post-election protests_
 
 ##### Libya
 ### [Libya releases 214 Islamist inmates in what is described as "a historic event". ](/news/2010/03/23/libya-releases-214-islamist-inmates-in-what-is-described-as-a-historic-event.md)
@@ -49,7 +49,7 @@ The most sweeping social legislation enacted in decades became law after a festi
 
 ##### Nanping
 ### [A man in Nanping, China, stabs and kills eight children, and wounds another five at an elementary school. ](/news/2010/03/23/a-man-in-nanping-china-stabs-and-kills-eight-children-and-wounds-another-five-at-an-elementary-school.md)
-_Context: China, Nanping_
+_Context: Nanping, China_
 
 ##### China
 ### [China says Google is "totally wrong" to stop censoring its search results. ](/news/2010/03/23/china-says-google-is-totally-wrong-to-stop-censoring-its-search-results.md)
@@ -57,11 +57,11 @@ Beijing accuses search giant of breaking promises to abide by Chinese laws.
 
 ##### Turkey
 ### [A Turkish ship is hijacked by Somali pirates more than 1,000 miles away from the coast of Somalia and closer to India. ](/news/2010/03/23/a-turkish-ship-is-hijacked-by-somali-pirates-more-than-1-000-miles-away-from-the-coast-of-somalia-and-closer-to-india.md)
-_Context: Somali pirates, India, Somalia, Turkey_
+_Context: Somali pirates, Somalia, India, Turkey_
 
 ##### Virgin Galactic's
 ### [Virgin Galactic's SpaceShipTwo is shown on its maiden flight from the Mojave Air and Spaceport in Mojave, California, United States. ](/news/2010/03/23/virgin-galactic-s-spaceshiptwo-is-shown-on-its-maiden-flight-from-the-mojave-air-and-spaceport-in-mojave-california-united-states.md)
-_Context: Mojave Air and Spaceport, Virgin Galactic's, SpaceShipTwo, Mojave, California_
+_Context: SpaceShipTwo, Mojave, California, Mojave Air and Spaceport, Virgin Galactic's_
 
 ##### Burma
 ### [Burma's High Court refuses to accept a lawsuit by the National League for Democracy against the ruling State Peace and Development Council for what they allege are unfair and discriminatory election laws. ](/news/2010/03/23/burma-s-high-court-refuses-to-accept-a-lawsuit-by-the-national-league-for-democracy-against-the-ruling-state-peace-and-development-council-f.md)
@@ -69,7 +69,7 @@ Court refuses to hear lawsuit against new election laws that bar oppositiion lea
 
 ##### Zimbabwe
 ### [Zimbabwe's finance minister Tendai Biti is involved in a car crash. ](/news/2010/03/23/zimbabwe-s-finance-minister-tendai-biti-is-involved-in-a-car-crash.md)
-_Context: Tendai Biti, Zimbabwe_
+_Context: Zimbabwe, Tendai Biti_
 
 ## [Previous Day...](/news/2010/03/22/index.md)
 

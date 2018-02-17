@@ -13,15 +13,15 @@ Activists calling for the ouster of president clash with government supporters i
 
 ##### England
 ### [2011 English protests: Thousands of protesters demonstrate against cuts and increases in tuition fees in England; police escort student leader Aaron Porter away in Manchester amid calls from protesters for his resignation. ](/news/2011/01/29/2011-english-protests-thousands-of-protesters-demonstrate-against-cuts-and-increases-in-tuition-fees-in-england-police-escort-student-lead.md)
-_Context: student leader, Manchester, England, Aaron Porter_
+_Context: Aaron Porter, Manchester, student leader, England_
 
 ##### Russia
 ### [Investigators in Russia say they have discovered the identities of those responsible for the bombing at Domodedovo International Airport in Moscow. ](/news/2011/01/29/investigators-in-russia-say-they-have-discovered-the-identities-of-those-responsible-for-the-bombing-at-domodedovo-international-airport-in.md)
-_Context: Domodedovo International Airport, bombing, Moscow, Russia_
+_Context: Moscow, bombing, Russia, Domodedovo International Airport_
 
 ##### Afghan
 ### [Abdul Latif Ashna, the deputy governor of Afghanistan's Kandahar Province, is killed in a suicide attack. ](/news/2011/01/29/abdul-latif-ashna-the-deputy-governor-of-afghanistan-s-kandahar-province-is-killed-in-a-suicide-attack.md)
-_Context: Afghan, Kandahar Province_
+_Context: Kandahar Province, Afghan_
 
 ##### Somalia
 ### [Clashes between rebels and government forces in Somalia leave several civilians dead in the capital Mogadishu. ](/news/2011/01/29/clashes-between-rebels-and-government-forces-in-somalia-leave-several-civilians-dead-in-the-capital-mogadishu.md)
@@ -29,7 +29,7 @@ _Context: Mogadishu, Somalia_
 
 ##### China
 ### [China begins the first test flights of private helicopters in its airspace. ](/news/2011/01/29/china-begins-the-first-test-flights-of-private-helicopters-in-its-airspace.md)
-_Context: helicopters, China_
+_Context: China, helicopters_
 
 ##### Wall Street
 ### [Wall Street firm Goldman Sachs triples the base salary of its chief executive Lloyd Blankfein to $2 million, up from $600,000, after the bank's profit falls by 38 per cent. ](/news/2011/01/29/wall-street-firm-goldman-sachs-triples-the-base-salary-of-its-chief-executive-lloyd-blankfein-to-2-million-up-from-600-000-after-the-ban.md)
@@ -49,7 +49,7 @@ The&#x20;African&#x20;Union&#x20;is&#x20;to&#x20;form&#x20;a&#x20;panel&#x20;of&
 
 ##### Lesbian
 ### [The UK gives a lesbian from Uganda an injunction to temporarily prevent her deportation to the country where gay activist David Kato was murdered earlier this week. ](/news/2011/01/29/the-uk-gives-a-lesbian-from-uganda-an-injunction-to-temporarily-prevent-her-deportation-to-the-country-where-gay-activist-david-kato-was-mur.md)
-_Context: David Kato, Uganda, gay activist, lesbian_
+_Context: gay activist, David Kato, Uganda, lesbian_
 
 ##### Politics of the Netherlands
 ### [The Dutch government freezes all contacts with Iran in protest over the fate of a Dutch-Iranian woman who was hanged for alleged drug smuggling. ](/news/2011/01/29/the-dutch-government-freezes-all-contacts-with-iran-in-protest-over-the-fate-of-a-dutch-iranian-woman-who-was-hanged-for-alleged-drug-smuggl.md)
@@ -57,7 +57,7 @@ The Dutch government freezes all contacts with Iran in protest over the hanging 
 
 ##### Labour Party
 ### [British Labour Party leader Ed Miliband pays his first visit to Afghanistan. ](/news/2011/01/29/british-labour-party-leader-ed-miliband-pays-his-first-visit-to-afghanistan.md)
-_Context: Labour Party, Ed Miliband, Afghan_
+_Context: Ed Miliband, Labour Party, Afghan_
 
 ##### Buddhists
 ### [A Buddhist monk is the first person to be charged under a strict anti-smoking law in Bhutan, introduced in 2005. ](/news/2011/01/29/a-buddhist-monk-is-the-first-person-to-be-charged-under-a-strict-anti-smoking-law-in-bhutan-introduced-in-2005.md)
@@ -73,7 +73,7 @@ The Finance Bill will not go to the D&aacute;il tonight after the Seanad passed 
 
 ##### Burma
 ### [Burma's pro-democracy leader Aung San Suu Kyi addresses the World Economic Forum in Davos, Switzerland. ](/news/2011/01/29/burma-s-pro-democracy-leader-aung-san-suu-kyi-addresses-the-world-economic-forum-in-davos-switzerland.md)
-_Context: democratic, Burma, Switzerland, World Economic Forum, Davos, Aung San Suu Kyi_
+_Context: Burma, World Economic Forum, Davos, Switzerland, democratic, Aung San Suu Kyi_
 
 ##### London
 ### [Students and union members stage protest marches in London and Manchester against increases in tuition fees and public spending cuts in the United Kingdom. ](/news/2011/01/29/students-and-union-members-stage-protest-marches-in-london-and-manchester-against-increases-in-tuition-fees-and-public-spending-cuts-in-the.md)

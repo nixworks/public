@@ -5,7 +5,7 @@ Formats: [HTML](2016/09/26/index.html)  [JSON](2016/09/26/index.json)  [XML](201
 
 ##### Colombian conflict
 ### [Colombian President Juan Manuel Santos and FARC guerrilla leader Rodrigo Londono, also known as Timochenko, sign a peace accord in Cartagena, ending the longest running armed conflict in the Western Hemisphere. The final agreement will be submitted to popular ratification in a referendum on October 2.](/news/2016/09/26/colombian-president-juan-manuel-santos-and-farc-guerrilla-leader-rodrigo-londoa-o-also-known-as-timochenko-sign-a-peace-accord-in-cartagen.md)
-_Context: Colombian conflict, Juan Manuel Santos, lasting peace, FARC, Rodrigo Londono's, Cartagena, Colombia, Colombian peace agreement referendum, 2016, Rodrigo Londono_
+_Context: Colombia, Colombian conflict, FARC, Juan Manuel Santos, Rodrigo Londono, Colombian peace agreement referendum, 2016, Rodrigo Londono's, lasting peace, Cartagena_
 
 ##### 2016 Pacific typhoon season
 ### [Taiwan braces for the potential impact of Typhoon Megi which is strengthening as it approaches the island. ](/news/2016/09/26/taiwan-braces-for-the-potential-impact-of-typhoon-megi-which-is-strengthening-as-it-approaches-the-island.md)
@@ -19,7 +19,7 @@ Iran said on Monday it had freed a Canadian-Iranian academic detained since June
 ### [A gunman opens fire at a Houston shopping center and injures nine people. Responding police kill the shooter afterwards. ](/news/2016/09/26/a-gunman-opens-fire-at-a-houston-shopping-center-and-injures-nine-people-responding-police-kill-the-shooter-afterwards.md)
 A man dressed in a vintage military uniform emblazoned with a Nazi symbol and toting a Tommy Gun and a hand gun unleashed a flurry of bullets near a Houston shopping center on Monday morning, injuring nine people before he was shot dead by police.
 
-##### 2016 U.S. presidential election
+##### 2016 U.S. election
 ### [Democratic Party nominee Hillary Clinton and Republican Party nominee Donald Trump hold the first presidential debate of the 2016 presidential election at Hofstra University in Hempstead, New York. ](/news/2016/09/26/democratic-party-nominee-hillary-clinton-and-republican-party-nominee-donald-trump-hold-the-first-presidential-debate-of-the-2016-presidenti.md)
 The candidates prepare to go head-to-head for the first presidential debate which is expected to pull in over 100 million viewers.
 

@@ -15,7 +15,7 @@ Most of those killed had been kidnapped and were later shot dead with their corp
 ### [Four people are killed in a mortar attack on the Umayyad Mosque in Damascus. ](/news/2013/11/29/four-people-are-killed-in-a-mortar-attack-on-the-umayyad-mosque-in-damascus.md)
 At least four killed and 26 injured in the attack near Umayyad Mosque in Damascus, state media reported.
 
-##### China
+##### Chinese
 ### [China deploys fighter jets to the Chinese Air Defense Identification Zone, as tensions escalate further over the disputed islands in the East China Sea. ](/news/2013/11/29/china-deploys-fighter-jets-to-the-chinese-air-defense-identification-zone-as-tensions-escalate-further-over-the-disputed-islands-in-the-eas.md)
 Vice President Joe Biden will press Chinese leaders on their intentions in creating a new air-defense zone, as Defense Secretary Chuck Hagel assured Japan of U.S. support and continued military operations in the region.
 
@@ -43,7 +43,7 @@ About 1,500 anti-government protesters have forced their way into the compound o
 ### [With their demands not being met, protests are scheduled to continue until at least Sunday 1 December 2013. ](/news/2013/11/29/with-their-demands-not-being-met-protests-are-scheduled-to-continue-until-at-least-sunday-1-december-2013.md)
 ##### Comet
 ### [At least part of Comet C-2012 S1 (also known as Comet Ison) emerged from behind the Sun's corona. ](/news/2013/11/29/at-least-part-of-comet-c-2012-s1-also-known-as-comet-ison-emerged-from-behind-the-sun-s-corona.md)
-_Context: C/2012 S1, Comet, corona, Sun_
+_Context: Sun, corona, Comet, C/2012 S1_
 
 ## [Previous Day...](/news/2013/11/28/index.md)
 

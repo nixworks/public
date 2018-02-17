@@ -13,15 +13,15 @@ _Context: Kuwait, Sabah Al-Ahmad Al-Jaber Al-Sabah, Early elections_
 
 ##### Bulgaria
 ### [ Bulgaria, Croatia, Hungary and Monaco jointly recognize Kosovo's independence. ](/news/2008/03/19/bulgaria-croatia-hungary-and-monaco-jointly-recognize-kosovo-s-independence.md)
-_Context: Monaco, Bulgaria, Croatia, Hungary, recognize, Kosovo_
+_Context: Bulgaria, Hungary, recognize, Croatia, Kosovo, Monaco_
 
 ##### Foreign Minister of Russia
 ### [ Foreign Minister of Russia Sergey Lavrov states that "the Albanians in Macedonia have already made demands that they be granted such autonomy...which could be seen as a move towards independence." The Foreign Ministry also linked the events in Tibet with the declaration of independence by Kosovo, showing a growing movement of groups seeking independence. ](/news/2008/03/19/foreign-minister-of-russia-sergey-lavrov-states-that-the-albanians-in-macedonia-have-already-made-demands-that-they-be-granted-such-autono.md)
-_Context: Foreign Minister of Russia, ethnic Albanian, autonomy, 2008 unrest in Tibet, Sergey Lavrov_
+_Context: autonomy, Foreign Minister of Russia, ethnic Albanian, Sergey Lavrov, 2008 unrest in Tibet_
 
 ##### Parliament's
 ### [ The Parliament of Pakistan elects Fahmida Mirza as its first female speaker. ](/news/2008/03/19/the-parliament-of-pakistan-elects-fahmida-mirza-as-its-first-female-speaker.md)
-_Context: Fahmida Mirza, female, speaker, Parliament's_
+_Context: Parliament's, female, speaker, Fahmida Mirza_
 
 ## [Previous Day...](/news/2008/03/18/index.md)
 

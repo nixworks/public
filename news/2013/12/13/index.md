@@ -17,11 +17,11 @@ Authorities said Friday they foiled a suicide bombing plot to blow up the Mid-Co
 
 ##### Gunman critically wounds a student in a shooting
 ### [A gunman critically wounds a student in a shooting at Arapahoe High School, Centennial, Colorado, United States. ](/news/2013/12/13/a-gunman-critically-wounds-a-student-in-a-shooting-at-arapahoe-high-school-centennial-colorado-united-states.md)
-_Context: Arapahoe High School, Colorado, gunman critically wounds a student in a shooting, Centennial, United States_
+_Context: United States, gunman critically wounds a student in a shooting, Centennial, Arapahoe High School, Colorado_
 
 ##### United States
 ### [Warships of the United States and China confront each other in international waters within the South China Sea. ](/news/2013/12/13/warships-of-the-united-states-and-china-confront-each-other-in-international-waters-within-the-south-china-sea.md)
-_Context: China, South China Sea, international waters, United States_
+_Context: South China Sea, international waters, Chinese, United States_
 
 ##### Prince Harry
 ### [Prince Harry and his "Walking with the Wounded" team reach the South Pole after three weeks trekking in the Antarctic. ](/news/2013/12/13/prince-harry-and-his-walking-with-the-wounded-team-reach-the-south-pole-after-three-weeks-trekking-in-the-antarctic.md)
@@ -29,7 +29,7 @@ Prince Harry and his fellow adventurers in the Walking With The Wounded expediti
 
 ##### Google
 ### [Google removes a privacy feature from its Android mobile software, despite objections from groups such as the Electronic Frontier Foundation. ](/news/2013/12/13/google-removes-a-privacy-feature-from-its-android-mobile-software-despite-objections-from-groups-such-as-the-electronic-frontier-foundation.md)
-_Context: Electronic Frontier Foundation, Android, software, Google_
+_Context: Android, Google, Electronic Frontier Foundation, software_
 
 ##### Egypt
 ### [The storm spreads to Egypt with some Cairo suburbs seeing snowfall. Local news reports claimed it was the capital's first snowfall in 112 years. Night temperatures are expected to drop as low as 2C - 36F. ](/news/2013/12/13/the-storm-spreads-to-egypt-with-some-cairo-suburbs-seeing-snowfall-local-news-reports-claimed-it-was-the-capital-s-first-snowfall-in-112-ye.md)
@@ -45,9 +45,9 @@ Japan and SE Asian leaders pledge to work together to ensure &quot;freedom of ov
 
 ##### Nelson Mandela
 ### [The body of Nelson Mandela is to be flown to Qunu in the Eastern Cape where he is to be laid to rest. ](/news/2013/12/13/the-body-of-nelson-mandela-is-to-be-flown-to-qunu-in-the-eastern-cape-where-he-is-to-be-laid-to-rest.md)
-_Context: Nelson Mandela, Eastern Cape, Qunu_
+_Context: Eastern Cape, Qunu, Nelson Mandela_
 
-##### China
+##### Chinese
 ### [China's mission begins the descent phase to the moon that will likely make it one of only three countries to reach it. The landing is estimated to occur at 8:40 a.m. EST, December 14. ](/news/2013/12/13/china-s-mission-begins-the-descent-phase-to-the-moon-that-will-likely-make-it-one-of-only-three-countries-to-reach-it-the-landing-is-estima.md)
 All systems appear to be “GO” for the world’s first attempt to soft land a space probe on the Moon in nearly four decades. China’s maiden moon landing prob
 

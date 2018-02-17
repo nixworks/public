@@ -5,19 +5,19 @@ Formats: [HTML](2005/02/24/index.html)  [JSON](2005/02/24/index.json)  [XML](200
 
 ##### Somalia
 ### [ In Somalia, thousands greet Abdullahi Yusuf Ahmed and Mohammed Ali Ghedi, leaders of the exiled Somalian government, when they begin a week-long tour in the country. They led a delegation that studies a possibility to finally relocate the government from Kenya to Somalia ](/news/2005/02/24/in-somalia-thousands-greet-abdullahi-yusuf-ahmed-and-mohammed-ali-ghedi-leaders-of-the-exiled-somalian-government-when-they-begin-a-week.md)
-_Context: Somalia, Kenya, Abdullahi Yusuf Ahmed, Mohammed Ali Ghedi, government in exile_
+_Context: Abdullahi Yusuf Ahmed, government in exile, Somalia, Mohammed Ali Ghedi, Kenya_
 
 ##### Anglican Church
 ### [ The Anglican Churches of North America &ndash; the Episcopal Church in the United States and the Anglican Church of Canada &ndash; are asked to voluntarily withdraw their members from the Anglican Consultative Council until after the next Lambeth Conference in 2008. This is viewed as an ultimatum to the churches to bring their policies into line with the worldwide Anglican Communion, following the ordination of the first gay bishop in New Hampshire and the blessing of same-sex unions by the Canadian church, and presages a schism if they do not comply. ](/news/2005/02/24/the-anglican-churches-of-north-america-ndash-the-episcopal-church-in-the-united-states-and-the-anglican-church-of-canada-ndash-are-aske.md)
-_Context: schism, Anglican Church of Canada, Lambeth Conference, Anglican Consultative Council, Gene Robinson, Anglican Church, New Hampshire, United States Episcopal Church_
+_Context: schism, Lambeth Conference, New Hampshire, Gene Robinson, Anglican Church of Canada, United States Episcopal Church, Anglican Church, Anglican Consultative Council_
 
 ##### Taiwan
 ### [ In Taiwan, Chen Shui-bian and People First Party Chairman James Soong meet for the first time in four years. They issue a joint 10-point declaration emphasizing their agreement on preserving the "status quo" in cross strait relations. ](/news/2005/02/24/in-taiwan-chen-shui-bian-and-people-first-party-chairman-james-soong-meet-for-the-first-time-in-four-years-they-issue-a-joint-10-point-de.md)
-_Context: Chen Shui-bian, James Soong, relations, Taiwan, Taiwan Strait, People First Party_
+_Context: James Soong, Taiwan Strait, Chen Shui-bian, Taiwan, relations, People First Party_
 
 ##### China
 ### [ The PRC objects to former US President Bill Clinton's plan to visit Taiwan and meet with the ROC President Chen Shui-bian. ](/news/2005/02/24/the-prc-objects-to-former-us-president-bill-clinton-s-plan-to-visit-taiwan-and-meet-with-the-roc-president-chen-shui-bian.md)
-_Context: Chen Shui-bian, President, Taiwan, Taiwan, Bill Clinton, China_
+_Context: Bill Clinton, President, China, Taiwan, Taiwan, Chen Shui-bian_
 
 ##### Pope John Paul II
 ### [ Pope John Paul II returns to hospital in Rome for more specialist treatments and tests. ](/news/2005/02/24/pope-john-paul-ii-returns-to-hospital-in-rome-for-more-specialist-treatments-and-tests.md)
@@ -33,7 +33,7 @@ Read the latest national and world news on Newsday. All the top stores, latest v
 
 ##### Supreme court
 ### [ Colombian supreme court authorizes the extradition of drug dealer Miguel Rodrguez Orejuela to the US ](/news/2005/02/24/colombian-supreme-court-authorizes-the-extradition-of-drug-dealer-miguel-rodriguez-orejuela-to-the-us.md)
-_Context: extradition, Miguel Rodrguez Orejuela, supreme court_
+_Context: extradition, supreme court, Miguel Rodrguez Orejuela_
 
 ##### Sudan
 ### [ In Sudan, an ammunition depot explodes near the town of Juba; at least 18 are dead and the toll continues to rise ](/news/2005/02/24/in-sudan-an-ammunition-depot-explodes-near-the-town-of-juba-at-least-18-are-dead-and-the-toll-continues-to-rise.md)
@@ -45,7 +45,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Burma
 ### [ Foreign Minister of Burma-Myanmar Nyan Win visits Bangladesh to discuss with Shamsher M Chowdhury about a direct road link between the countries and repatriation of Burmese refugees ](/news/2005/02/24/foreign-minister-of-burma-myanmar-nyan-win-visits-bangladesh-to-discuss-with-shamsher-m-chowdhury-about-a-direct-road-link-between-the-coun.md)
-_Context: Nyan Win, Bangladesh, refugee, Burma, Shamsher M Chowdhury, Myanmar_
+_Context: Shamsher M Chowdhury, refugee, Myanmar, Nyan Win, Burma, Bangladesh_
 
 ##### Ebert Anibal Rivera
 ### [ Ebert Anibal Rivera, alleged head of a Mara Salvatrucha gang that killed 28 bus passengers in Honduras last December 23, is arrested in Texas. Honduras intends to request extradition if Texas authorities do not file charges. ](/news/2005/02/24/ebert-anibal-rivera-alleged-head-of-a-mara-salvatrucha-gang-that-killed-28-bus-passengers-in-honduras-last-december-23-is-arrested-in-tex.md)
@@ -57,7 +57,7 @@ _Context: back taxes, Diego Maradona, euro_
 
 ##### European Union
 ### [ New EU laws declare lottery scams illegal ](/news/2005/02/24/new-eu-laws-declare-lottery-scams-illegal.md)
-_Context: European Union, lottery scam_
+_Context: lottery scam, European Union_
 
 ##### Turkey
 ### [ The parliament of Turkey grants amnesty to 677,000 people who have been expelled from university in recent years ](/news/2005/02/24/the-parliament-of-turkey-grants-amnesty-to-677-000-people-who-have-been-expelled-from-university-in-recent-years.md)

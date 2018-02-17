@@ -13,7 +13,7 @@ _Context: Swedish prime minister, Sager House, Stockholm_
 
 ##### Iranian Revolutionary guards
 ### [Two Iranian Revolutionary Guard fighter jets fire on an unmanned American General Atomics MQ-1 Predator drone in international airspace near Kuwait. ](/news/2012/11/9/two-iranian-revolutionary-guard-fighter-jets-fire-on-an-unmanned-american-general-atomics-mq-1-predator-drone-in-international-airspace-near.md)
-_Context: General Atomics MQ-1 Predator, Kuwait, Iranian Revolutionary guards, fire_
+_Context: Iranian Revolutionary guards, General Atomics MQ-1 Predator, fire, Kuwait_
 
 ##### Colombo
 ### [Clashes break out at a jail in Colombo, Sri Lanka, killing at least 13 inmates and injuring 32 others. At least nine police officers, a prison guard and a bystander were also injured during the disturbances. ](/news/2012/11/9/clashes-break-out-at-a-jail-in-colombo-sri-lanka-killing-at-least-13-inmates-and-injuring-32-others-at-least-nine-police-officers-a-pris.md)
@@ -21,7 +21,7 @@ _Context: Colombo, Sri Lanka_
 
 ##### Bahraini uprising (2011-present)
 ### [Bahraini uprising: A teenager is killed during a crackdown on protesters near the capital Manama. ](/news/2012/11/9/bahraini-uprising-a-teenager-is-killed-during-a-crackdown-on-protesters-near-the-capital-manama.md)
-_Context: Manama, Bahraini uprising (2011-present)_
+_Context: Bahraini uprising (2011-present), Manama_
 
 ##### Crashes and bursts into flames
 ### [A train carrying liquid fuel crashes and bursts into flames in northern Burma, killing at least 25 people and injuring up to 62 others. ](/news/2012/11/9/a-train-carrying-liquid-fuel-crashes-and-bursts-into-flames-in-northern-burma-killing-at-least-25-people-and-injuring-up-to-62-others.md)
@@ -37,15 +37,15 @@ The ambushing of the Prime Minister with the names of rumoured Tory paedophiles 
 
 ##### CIA
 ### [CIA Director David Petraeus submits his resignation to President Barack Obama, citing an extramarital affair he had. ](/news/2012/11/9/cia-director-david-petraeus-submits-his-resignation-to-president-barack-obama-citing-an-extramarital-affair-he-had.md)
-_Context: David Petraeus, CIA, Director of the CIA, Barack Obama_
+_Context: Director of the CIA, CIA, Barack Obama, David Petraeus_
 
 ##### Russia
 ### [Russian president Vladimir Putin sacks the chief of the armed forces Nikolai Makarov, three days after sacking the defence minister amid a corruption scandal. ](/news/2012/11/9/russian-president-vladimir-putin-sacks-the-chief-of-the-armed-forces-nikolai-makarov-three-days-after-sacking-the-defence-minister-amid-a-c.md)
-_Context: Russia, Nikolai Makarov, Vladimir Putin_
+_Context: Vladimir Putin, Russia, Nikolai Makarov_
 
-##### China
+##### Chinese
 ### [Hundreds of Tibetan students and monks protest against education policies in China's western Qinghai Province, shortly after a series of self-immolations by Tibetan monks. ](/news/2012/11/9/hundreds-of-tibetan-students-and-monks-protest-against-education-policies-in-china-s-western-qinghai-province-shortly-after-a-series-of-sel.md)
-_Context: Tibet, China, Qinghai Province, monks_
+_Context: Qinghai Province, monks, Tibet, Chinese_
 
 ##### Secretary of State for International Development
 ### [The UK's Secretary of State for International Development Justine Greening confirms Britain will cease giving financial aid to India by 2015. ](/news/2012/11/9/the-uk-s-secretary-of-state-for-international-development-justine-greening-confirms-britain-will-cease-giving-financial-aid-to-india-by-2015.md)

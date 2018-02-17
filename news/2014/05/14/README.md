@@ -5,7 +5,7 @@ Formats: [HTML](2014/05/14/index.html)  [JSON](2014/05/14/index.json)  [XML](201
 
 ##### Yemeni Army
 ### [Seven Yemeni Army soldiers and 16 Al-Qaeda in the Arabian Peninsula militants are killed in fighting near the town of Azan in Shabwa province. ](/news/2014/05/14/seven-yemeni-army-soldiers-and-16-al-qaeda-in-the-arabian-peninsula-militants-are-killed-in-fighting-near-the-town-of-azan-in-shabwa-provinc.md)
-_Context: Shabwa province, Yemeni Army, al-Qaida_
+_Context: Yemeni Army, Shabwa province, al-Qaida_
 
 ##### 2014 pro-Russian unrest in Ukraine
 ### [Talks to end the crisis in Ukraine begin, without representatives of pro-Russian separatist groups. ](/news/2014/05/14/talks-to-end-the-crisis-in-ukraine-begin-without-representatives-of-pro-russian-separatist-groups.md)
@@ -33,7 +33,7 @@ The judge in the Oscar Pistorius trial orders that the South African Paralympic 
 
 ##### Portugal
 ### [Portuguese authorities charge Luiz Felipe Scolari, the coach of the Brazil national football team, with tax fraud allegedly carried out when he was the coach of Portugal. ](/news/2014/05/14/portuguese-authorities-charge-luiz-felipe-scolari-the-coach-of-the-brazil-national-football-team-with-tax-fraud-allegedly-carried-out-when.md)
-_Context: Luiz Felipe Scolari, Portugal, tax fraud, Brazil national football team, Portugal_
+_Context: Portugal, Luiz Felipe Scolari, Brazil national football team, Portugal, tax fraud_
 
 ## [Previous Day...](/news/2014/05/13/index.md)
 

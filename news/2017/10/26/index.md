@@ -3,7 +3,7 @@ Formats: [HTML](2017/10/26/index.html)  [JSON](2017/10/26/index.json)  [XML](201
 
 ## [2017-10-26](/news/2017/10/26/index.md)
 
-##### Russian interference in the 2016 United States elections
+##### Russian meddling in the 2016 U.S. presidential election
 ### [Twitter bans all ads from Russian news agencies RT and Sputnik based on U.S. intelligence's conclusion that both attempted to interfere with the 2016 U.S. presidential election on behalf of the Russian government. ](/news/2017/10/26/twitter-bans-all-ads-from-russian-news-agencies-rt-and-sputnik-based-on-u-s-intelligence-s-conclusiona-that-both-attempted-to-interfere-wit.md)
 Twitter on Thursday announced that it was banning all advertisements on the service from the Russian news agencies RT and Sputnik effective immediately.
 

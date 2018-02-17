@@ -17,13 +17,13 @@ Turkey has summoned Germany&#39;s ambassador after more than 10,000 Kurds rallie
 
 ##### Icelandic parliamentary election, 2017
 ### [Iceland will vote for a new Althingi (parliament) on November 4 after the collapse of the previous government. ](/news/2017/09/16/iceland-will-vote-for-a-new-ala3-4ingi-parliament-on-november-4-after-the-collapse-of-the-previous-government.md)
-_Context: Iceland, Icelandic parliamentary election, 2017, Althingi_
+_Context: Iceland, Althingi, Icelandic parliamentary election, 2017_
 
 ##### United States presidential election, 2020
 ### [California passes a bill that will move the primaries to March near Super Tuesday. ](/news/2017/09/16/california-passes-a-bill-that-will-move-the-primaries-to-march-near-super-tuesday.md)
 California would allocate its delegates just after early nominating contests in Iowa, New Hampshire, Nevada and South Carolina.
 
-##### Refugees
+##### Rohingya refugees in Bangladesh
 ### [Bangladesh announces plans to build a giant refugee camp the size of a small city to house nearly 400,000 Rohingya refugees. ](/news/2017/09/16/bangladesh-announces-plans-to-build-a-giant-refugee-camp-the-size-of-a-small-city-to-house-nearly-400-000-rohingya-refugees.md)
 Shelters will be rapidly built for up to 400,000 people fleeing Myanmar, under a government plan.
 

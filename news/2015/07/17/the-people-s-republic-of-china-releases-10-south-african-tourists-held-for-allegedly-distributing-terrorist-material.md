@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/07/17/the-people-s-republic-of-china-releases-10-sout
 
 ### [2015-07-17](/news/2015/07/17/index.md)
 
-##### China
+##### Chinese
 # The People's Republic of China releases 10 South African tourists held for allegedly distributing terrorist material. 
 
 All 10 South Africans detained in China a few weeks ago will soon be home, the department of international relations and co-operation has confirmed.
@@ -16,8 +16,8 @@ All 10 South Africans detained in China a few weeks ago will soon be home, the d
 
 ### Related:
 
-1. [Leaders of Brazil, Russia, India, China and South Africa meet in Durban for the 2013 BRICS summit. ](/news/2013/03/26/leaders-of-brazil-russia-india-china-and-south-africa-meet-in-durban-for-the-2013-brics-summit.md) _Context: China, South Africa_
-2. [The leaders of Brazil, Russia, India, China and South Africa meet in New Delhi, India, for the 2012 BRICS summit. ](/news/2012/03/29/the-leaders-of-brazil-russia-india-china-and-south-africa-meet-in-new-delhi-india-for-the-2012-brics-summit.md) _Context: China, South Africa_
-3. [Leaders of Brazil, Russia, India, China and South Africa attend a BRICS summit in Sanya in China's Hainan Province. ](/news/2011/04/14/leaders-of-brazil-russia-india-china-and-south-africa-attend-a-brics-summit-in-sanya-in-china-s-hainan-province.md) _Context: China, South Africa_
-4. [ Live Earth gets underway with concerts in Australia, the United States, Germany, South Africa, the United Kingdom, Brazil, Japan and China. ](/news/2007/07/7/live-earth-gets-underway-with-concerts-in-australia-the-united-states-germany-south-africa-the-united-kingdom-brazil-japan-and-china.md) _Context: China, South Africa_
-5. [Amid a perceived erosion of freedoms in Hong Kong, British Prime Minister Theresa May concludes a three-day visit to China, said to have generated GBP9 billion in trade deals. ](/news/2018/02/2/amid-a-perceived-erosion-of-freedoms-in-hong-kong-british-prime-minister-theresa-may-concludes-a-three-day-visit-to-china-said-to-have-gen.md) _Context: China_
+1. [Leaders of Brazil, Russia, India, China and South Africa meet in Durban for the 2013 BRICS summit. ](/news/2013/03/26/leaders-of-brazil-russia-india-china-and-south-africa-meet-in-durban-for-the-2013-brics-summit.md) _Context: Chinese, South Africa_
+2. [The leaders of Brazil, Russia, India, China and South Africa meet in New Delhi, India, for the 2012 BRICS summit. ](/news/2012/03/29/the-leaders-of-brazil-russia-india-china-and-south-africa-meet-in-new-delhi-india-for-the-2012-brics-summit.md) _Context: Chinese, South Africa_
+3. [Leaders of Brazil, Russia, India, China and South Africa attend a BRICS summit in Sanya in China's Hainan Province. ](/news/2011/04/14/leaders-of-brazil-russia-india-china-and-south-africa-attend-a-brics-summit-in-sanya-in-china-s-hainan-province.md) _Context: Chinese, South Africa_
+4. [ Live Earth gets underway with concerts in Australia, the United States, Germany, South Africa, the United Kingdom, Brazil, Japan and China. ](/news/2007/07/7/live-earth-gets-underway-with-concerts-in-australia-the-united-states-germany-south-africa-the-united-kingdom-brazil-japan-and-china.md) _Context: Chinese, South Africa_
+5. [Amid a perceived erosion of freedoms in Hong Kong, British Prime Minister Theresa May concludes a three-day visit to China, said to have generated GBP9 billion in trade deals. ](/news/2018/02/2/amid-a-perceived-erosion-of-freedoms-in-hong-kong-british-prime-minister-theresa-may-concludes-a-three-day-visit-to-china-said-to-have-gen.md) _Context: Chinese_

@@ -17,7 +17,7 @@ Two men, who headed MRND party when up to 800,000 were massacred by Hutu extremi
 
 ##### Japanese
 ### [The Japanese media reports that prosecutors are raiding the offices of Olympus Corporation over an accounting scandal. ](/news/2011/12/21/the-japanese-media-reports-that-prosecutors-are-raiding-the-offices-of-olympus-corporation-over-an-accounting-scandal.md)
-_Context: Olympus Corp, Japanese_
+_Context: Japanese, Olympus Corp_
 
 ##### Philippines
 ### [The death toll from flooding in the Philippines caused by Tropical Storm Washi reaches 1,002 and is set to rise further. ](/news/2011/12/21/the-death-toll-from-flooding-in-the-philippines-caused-by-tropical-storm-washi-reaches-1-002-and-is-set-to-rise-further.md)

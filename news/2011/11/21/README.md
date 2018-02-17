@@ -9,11 +9,11 @@ Protesters in Cairo demand the resignation of the head of Egypt governing milita
 
 ##### Syria
 ### [Two people are injured after Syrian soldiers attack buses carrying Turkish citizens returning through Syria from a hajj pilgrimage to Saudi Arabia. ](/news/2011/11/21/two-people-are-injured-after-syrian-soldiers-attack-buses-carrying-turkish-citizens-returning-through-syria-from-a-hajj-pilgrimage-to-saudi.md)
-_Context: Turkey, Syria, hajj, Saudi Arabia_
+_Context: hajj, Turkey, Syria, Saudi Arabia_
 
 ##### United States
 ### [The United States, United Kingdom, and Canada impose further sanctions against Iran's nuclear program. ](/news/2011/11/21/the-united-states-united-kingdom-and-canada-impose-further-sanctions-against-iran-s-nuclear-program.md)
-_Context: United Kingdom, sanctions, United States, Canadian, Iran, nuclear program_
+_Context: United Kingdom, sanctions, United States, Iran, Canadian, nuclear program_
 
 ##### Russian President
 ### [The President of Russia Dmitry Medvedev states that the decision to go to war with Georgia in 2008 prevented the eastward enlargement of NATO. ](/news/2011/11/21/the-president-of-russia-dmitry-medvedev-states-that-the-decision-to-go-to-war-with-georgia-in-2008-prevented-the-eastward-enlargement-of-nat.md)

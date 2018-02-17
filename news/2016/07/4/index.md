@@ -9,11 +9,11 @@ The episode, which wounded eight people in Puchong, was thought to have been the
 
 ##### Drug crackdown
 ### [The Communist Party of the Philippines agrees to fight drug lords after its legal wing Bagong Alyansang Makabayan joins the government cabinet of Rodrigo Duterte. ](/news/2016/07/4/the-communist-party-of-the-philippines-agrees-to-fight-drug-lords-after-its-legal-wing-bagong-alyansang-makabayan-joins-the-government-cabin.md)
-_Context: decades-old problem, drug crackdown, Rodrigo Duterte, Communist, cabinet, Bagong Alyansang Makabayan_
+_Context: decades-old problem, Bagong Alyansang Makabayan, drug crackdown, cabinet, Communist, Rodrigo Duterte_
 
 ##### Syrian Civil War
 ### [Israel's military attacks two Syrian Army targets in Syrian territory from the Golan Heights after a fire from the fighting damages a security fence on the border. ](/news/2016/07/4/israel-s-military-attacks-two-syrian-army-targets-in-syrian-territory-from-the-golan-heights-after-a-fire-from-the-fighting-damages-a-securi.md)
-_Context: Israel-Syria relations, Syrian Civil War, Syrian Army, Golan Heights, Israeli Army_
+_Context: Israeli Army, Golan Heights, Syrian Army, Syrian Civil War, Israel-Syria relations_
 
 ##### 2016 Saudi Arabia bombings
 ### [A suspected suicide bomber detonates his belt near the U.S. consulate in Jeddah, killing himself and wounding two guards. ](/news/2016/07/4/a-suspected-suicide-bomber-detonates-his-belt-near-the-u-s-consulate-in-jeddah-killing-himself-and-wounding-two-guards.md)
@@ -27,7 +27,7 @@ As more bodies are discovered in the rubble of a Baghdad suicide bombing two day
 ### [Standard Life Investments suspends trading in its UK property fund, in response to increased withdrawal calls since the vote, to protect the interests of all investors in the fund. ](/news/2016/07/4/standard-life-investments-suspends-trading-in-its-uk-property-fund-in-response-to-increased-withdrawal-calls-since-the-vote-to-protect-the.md)
 Standard Life Investments suspends trading in its UK property fund for the first time since the financial crisis due to higher withdrawals following the Brexit vote.
 
-##### China
+##### Chinese
 ### [Flooding caused by torrential rain in China kills at least 180 people, mostly along the Yangtze river. ](/news/2016/07/4/flooding-caused-by-torrential-rain-in-china-kills-at-least-180-people-mostly-along-the-yangtze-river.md)
 More than 180 people are killed in flooding along the Yangtze River, following torrential rain in central and southern China.
 
@@ -61,7 +61,7 @@ UPDATED 8.15am The head of one of Australia&#39;s biggest accounting firms says 
 
 ##### Communist Party of China
 ### [Zhejiang governor Li Qiang is transferred to neighbouring Jiangsu province to serve as party chief. He is succeeded as Zhejiang governor by Xinjiang deputy party chief Che Jun. ](/news/2016/07/4/zhejiang-governor-li-qiang-is-transferred-to-neighbouring-jiangsu-province-to-serve-as-party-chief-he-is-succeeded-as-zhejiang-governor-by.md)
-_Context: Zhejiang, Jiangsu, Che Jun, Li Qiang, Communist Party of China_
+_Context: Li Qiang, Jiangsu, Zhejiang, Communist Party of China, Che Jun_
 
 ## [Previous Day...](/news/2016/07/3/index.md)
 

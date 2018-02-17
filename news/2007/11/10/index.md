@@ -5,7 +5,7 @@ Formats: [HTML](2007/11/10/index.html)  [JSON](2007/11/10/index.json)  [XML](200
 
 ##### Iran
 ### [ Iranian police arrest about 180 Sufi Muslims who attacked a Shia mosque in Borujerd after a cleric said their religion was "illegitimate". ](/news/2007/11/10/iranian-police-arrest-about-180-sufi-muslims-who-attacked-a-shia-mosque-in-borujerd-after-a-cleric-said-their-religion-was-illegitimate.md)
-_Context: Sufi, cleric, Shia, Iran, mosque, Borujerd, Muslim_
+_Context: cleric, Shia, Borujerd, mosque, Iran, Muslim, Sufi_
 
 ##### Peru
 ### [ Peruvian archaeologist Walter Alva uncovers a 4,000-year-old temple in the Ventarron site in the Lambayeque Region of Peru. ](/news/2007/11/10/peruvian-archaeologist-walter-alva-uncovers-a-4-000-year-old-temple-in-the-ventarron-site-in-the-lambayeque-region-of-peru.md)
@@ -25,7 +25,7 @@ _Context: Mogadishu, Battle of Mogadishu (November 2007), Somalia_
 
 ##### 2007 North Sea flood
 ### [ 2007 North Sea flood: The German ports of Hamburg and Bremerhaven suffer in the floods. ](/news/2007/11/10/2007-north-sea-flood-the-german-ports-of-hamburg-and-bremerhaven-suffer-in-the-floods.md)
-_Context: Hamburg, 2007 North Sea flood, Bremerhaven, German_
+_Context: 2007 North Sea flood, Bremerhaven, German, Hamburg_
 
 ##### Stagehand
 ### [ Stagehands belonging to the International Alliance of Theatrical Stage Employees go on strike, shutting down most Broadway plays and musicals. ](/news/2007/11/10/stagehands-belonging-to-the-international-alliance-of-theatrical-stage-employees-go-on-strike-shutting-down-most-broadway-plays-and-musica.md)
@@ -33,11 +33,11 @@ Stagehands belonging to the Local One of the International Alliance of Theatrica
 
 ##### La Scala
 ### [ Workers at La Scala opera house in Milan go on strike in a dispute over pay and contracts. ](/news/2007/11/10/workers-at-la-scala-opera-house-in-milan-go-on-strike-in-a-dispute-over-pay-and-contracts.md)
-_Context: La Scala, Milan, opera house_
+_Context: Milan, La Scala, opera house_
 
 ##### Pekka Koskela
 ### [ Pekka Koskela skates the 1000 metres in a new world record time of 1:07.00. ](/news/2007/11/10/pekka-koskela-skates-the-1000-metres-in-a-new-world-record-time-of-1-07-00.md)
-_Context: Pekka Koskela, skates, world record_
+_Context: skates, Pekka Koskela, world record_
 
 ## [Previous Day...](/news/2007/11/9/index.md)
 

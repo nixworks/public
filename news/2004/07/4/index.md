@@ -5,7 +5,7 @@ Formats: [HTML](2004/07/4/index.html)  [JSON](2004/07/4/index.json)  [XML](2004/
 
 ##### Greece
 ### [ Greece wins the Euro 2004 football tournament by defeating host nation Portugal 1-0. ](/news/2004/07/4/greece-wins-the-euro-2004-football-tournament-by-defeating-host-nation-portugal-1a0.md)
-_Context: Greece, Portugal, Euro 2004_
+_Context: Portugal, Euro 2004, Greece_
 
 ##### New York
 ### [ In New York City, groundbreaking takes place at the site of One World Trade Center, due to be completed in 2013. ](/news/2004/07/4/in-new-york-city-groundbreaking-takes-place-at-the-site-of-one-world-trade-center-due-to-be-completed-in-2013.md)
@@ -17,7 +17,7 @@ _Context: AIDS, Nigeria, Polio, infertility, Kano_
 
 ##### Roger Federer
 ### [ Roger Federer wins the men's Wimbledon championship for the second straight year, defeating Andy Roddick in four sets. ](/news/2004/07/4/roger-federer-wins-the-men-s-wimbledon-championship-for-the-second-straight-year-defeating-andy-roddick-in-four-sets.md)
-_Context: Wimbledon, Andy Roddick, Roger Federer_
+_Context: Roger Federer, Andy Roddick, Wimbledon_
 
 ## [Previous Day...](/news/2004/07/3/index.md)
 

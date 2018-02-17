@@ -5,7 +5,7 @@ Formats: [HTML](2005/01/16/index.html)  [JSON](2005/01/16/index.json)  [XML](200
 
 ##### Israel
 ### [ An Israeli tank shell has killed a Palestinian woman and her son in Khan Younis refugee camp in southern Gaza. ](/news/2005/01/16/an-israeli-tank-shell-has-killed-a-palestinian-woman-and-her-son-in-khan-younis-refugee-camp-in-southern-gaza.md)
-_Context: Palestinian, Israel, Khan Younis, Gaza Strip_
+_Context: Palestinian, Khan Younis, Gaza Strip, Israel_
 
 ## [Previous Day...](/news/2005/01/15/index.md)
 

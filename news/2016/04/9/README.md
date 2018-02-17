@@ -13,7 +13,7 @@ The U.S. Air Force deployed B-52 bombers to Qatar on Saturday to join the fight 
 
 ##### Internal conflict in Peru
 ### [ At least two people are killed in a remote part of Peru in an attack by Shining Path guerillas. ](/news/2016/04/9/at-least-two-people-are-killed-in-a-remote-part-of-peru-in-an-attack-by-shining-path-guerillas.md)
-_Context: Internal conflict in Peru, Shining Path, Peru_
+_Context: Internal conflict in Peru, Peru, Shining Path_
 
 ##### European migrant crisis
 ### [ Five migrants drown off the island of Samos close to Turkey. ](/news/2016/04/9/five-migrants-drown-off-the-island-of-samos-close-to-turkey.md)
@@ -29,7 +29,7 @@ _Context: Sanafir Island, Egypt-Saudi Arabia relations, Tiran Island_
 
 ##### North Korea's nuclear program
 ### [ North Korea claims to have successfully tested the engine for an intercontinental ballistic missile. ](/news/2016/04/9/north-korea-claims-to-have-successfully-tested-the-engine-for-an-intercontinental-ballistic-missile.md)
-_Context: intercontinental ballistic missile, North Korea, North Korea's nuclear program_
+_Context: North Korea, North Korea's nuclear program, intercontinental ballistic missile_
 
 ##### 2016 Brussels bombings
 ### [ Mohamed Abrini has reportedly admitted to being the "man in the hat" sought after the Brussels bombings. He is also being charged with involvement in the November 2015 Paris attacks. ](/news/2016/04/9/mohamed-abrini-has-reportedly-admitted-to-being-the-man-in-the-hat-sought-after-the-brussels-bombings-he-is-also-being-charged-with-invo.md)
@@ -37,9 +37,9 @@ _Context: intercontinental ballistic missile, North Korea, North Korea's nuclear
 
 ##### New Orleans Saints
 ### [ Former New Orleans Saints defensive end Will Smith is shot dead in a road rage incident. ](/news/2016/04/9/former-new-orleans-saints-defensive-end-will-smith-is-shot-dead-in-a-road-rage-incident.md)
-_Context: New Orleans Saints, road rage, defensive end, Will Smith_
+_Context: defensive end, New Orleans Saints, Will Smith, road rage_
 
-##### 2016 U.S. presidential election
+##### 2016 U.S. election
 ### [ Registered Democratic voters in the U.S. state of Wyoming gather, by county, for the Wyoming Democratic caucuses. Bernie Sanders is projected to win. ](/news/2016/04/9/registered-democratic-voters-in-the-u-s-state-of-wyoming-gather-by-county-for-the-wyoming-democratic-caucuses-bernie-sanders-is-project.md)
 CHEYENNE &ndash; Local Democrats are preparing for a possible record turnout during the Wyoming Democratic Party&rsquo;s county-level caucuses Saturday.
 

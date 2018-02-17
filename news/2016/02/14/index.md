@@ -17,7 +17,7 @@ A United Arab Emirates soldier was killed and another was wounded while fighting
 
 ##### Israeli-Palestinian conflict
 ### [Israel claims its forces shot dead five Palestinian attackers in three separate incidents. ](/news/2016/02/14/israel-claims-its-forces-shot-dead-five-palestinian-attackers-in-three-separate-incidents.md)
-_Context: Israeli-Palestinian conflict, Palestine, Israel_
+_Context: Israel, Palestine, Israeli-Palestinian conflict_
 
 ##### 69th British Academy Film Awards
 ### [The 69th British Academy Film Awards are held at the Royal Opera House in London. ](/news/2016/02/14/the-69th-british-academy-film-awards-are-held-at-the-royal-opera-house-in-london.md)
@@ -25,7 +25,7 @@ The British Academy of Film and Television Arts celebrated its biggest night ton
 
 ##### 2016 Christchurch earthquake
 ### [The U.S. Geological Survey reports a magnitude 5.8 earthquake strikes Christchurch in New Zealand. The St. John ambulance service says that several people suffered minor injuries from falls as they ran from the quake but there were no immediate reports of serious damage. ](/news/2016/02/14/the-u-s-geological-survey-reports-a-magnitude-5-8-earthquake-strikes-christchurch-in-new-zealand-the-st-john-ambulance-service-says-that.md)
-_Context: New Zealand, 2016 Christchurch earthquake, St. John ambulance service, earthquake, magnitude, United States Geological Survey, Christchurch_
+_Context: earthquake, United States Geological Survey, Christchurch, St. John ambulance service, magnitude, New Zealand, 2016 Christchurch earthquake_
 
 ##### Northeastern United States
 ### [The cold snap continues in the northeastern United States with record lows forecast in major cities like New York City and Philadelphia. ](/news/2016/02/14/the-cold-snap-continues-in-the-northeastern-united-states-with-record-lows-forecast-in-major-cities-like-new-york-city-and-philadelphia.md)
@@ -41,7 +41,7 @@ Tainan Mayor William Lai (賴清德) at 4:20pm yesterday announced that the sear
 
 ##### Cannon Mountain
 ### [Crews rescue 48 people from two Cannon Mountain tram cars stuck this afternoon about 40 feet off the ground in New Hampshire sub-zero temperatures in the White Mountains. ](/news/2016/02/14/crews-rescue-48-people-from-two-cannon-mountain-tram-cars-stuck-this-afternoon-about-40-feet-off-the-ground-in-new-hampshire-sub-zero-temper.md)
-_Context: New Hampshire, White Mountains, Cannon Mountain_
+_Context: Cannon Mountain, New Hampshire, White Mountains_
 
 ##### European migrant crisis
 ### [Slovenia announces that it will be clamping down on the number of migrants that it will allow to enter the country. ](/news/2016/02/14/slovenia-announces-that-it-will-be-clamping-down-on-the-number-of-migrants-that-it-will-allow-to-enter-the-country.md)

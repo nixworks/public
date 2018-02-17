@@ -13,7 +13,7 @@ Elected lower house to have more power but opposition unimpressed as appointed u
 
 ##### 2011 Tunisian revolution
 ### [2011 Tunisian revolution: Former President Zine El Abidine Ben Ali is sentenced "in absentia" to 16 years imprisonment for corruption. ](/news/2011/07/29/2011-tunisian-revolution-former-president-zine-el-abidine-ben-ali-is-sentenced-in-absentia-to-16-years-imprisonment-for-corruption.md)
-_Context: in absentia, Zine El Abidine Ben Ali, 2011 Tunisian revolution, President of Tunisia_
+_Context: Zine El Abidine Ben Ali, in absentia, President of Tunisia, 2011 Tunisian revolution_
 
 ##### Johnson & Johnson
 ### [Johnson & Johnson announced that it will lower the maximum daily dosage of one of its signature products, Extra Strength Tylenol, in order to reduce the risk of liver damage. ](/news/2011/07/29/johnson-johnson-announced-that-it-will-lower-the-maximum-daily-dosage-of-one-of-its-signature-products-extra-strength-tylenol-in-order-t.md)
@@ -29,11 +29,11 @@ Both the Polish crew and Russian air traffic controllers were to blame for the 2
 
 ##### Prime Minister
 ### [The Prime Minister of South Korea, Kim Hwang-sik, calls for an overhaul of disaster management following the death of 59 people in floods and landslides caused by heavy rain in recent days. ](/news/2011/07/29/the-prime-minister-of-south-korea-kim-hwang-sik-calls-for-an-overhaul-of-disaster-management-following-the-death-of-59-people-in-floods-an.md)
-_Context: Prime Minister, Kim Hwang-sik, South Korea_
+_Context: South Korea, Kim Hwang-sik, Prime Minister_
 
 ##### Coal mine
 ### [At least twenty coal miners are killed and seventeen are missing following two accidents in the Ukraine. ](/news/2011/07/29/at-least-twenty-coal-miners-are-killed-and-seventeen-are-missing-following-two-accidents-in-the-ukraine.md)
-_Context: coal mine, Ukraine, two accidents_
+_Context: coal mine, two accidents, Ukraine_
 
 ##### South Sudan
 ### [South Sudan joins the African Union as its 54 th member. ](/news/2011/07/29/south-sudan-joins-the-african-union-as-its-54-th-member.md)
@@ -41,7 +41,7 @@ The African Union (AU) has admitted South Sudan as its 54th member, marking anot
 
 ##### North Korea
 ### [North Korea threatens to dispose of South Korean assets at the jointly-run Mount Kumgang resort. ](/news/2011/07/29/north-korea-threatens-to-dispose-of-south-korean-assets-at-the-jointly-run-mount-kumgang-resort.md)
-_Context: North Korea, South Korea, Mount Kumgang resort_
+_Context: South Korea, Mount Kumgang resort, North Korea_
 
 ##### Turkey
 ### [The Chief of the armed forces along with the heads of the army, navy and air force all resign in Turkey. ](/news/2011/07/29/the-chief-of-the-armed-forces-along-with-the-heads-of-the-army-navy-and-air-force-all-resign-in-turkey.md)
@@ -49,7 +49,7 @@ The chief of the Turkish armed forces, Isik Kosaner, resigns along with the head
 
 ##### Ajmal Kasab
 ### [Ajmal Kasab, the last surviving gunman from the 2008 Mumbai terrorist attacks, launches an appeal against his death sentence in India. ](/news/2011/07/29/ajmal-kasab-the-last-surviving-gunman-from-the-2008-mumbai-terrorist-attacks-launches-an-appeal-against-his-death-sentence-in-india.md)
-_Context: 2008 Mumbai terrorist attacks, Ajmal Kasab, India_
+_Context: Ajmal Kasab, 2008 Mumbai terrorist attacks, India_
 
 ##### Conspiracy to hack mobile phones
 ### [The legal team representing Glenn Mulcaire, the private investigator at the centre of claims of phone hacking, says that he "acted on the instructions of others". ](/news/2011/07/29/the-legal-team-representing-glenn-mulcaire-the-private-investigator-at-the-centre-of-claims-of-phone-hacking-says-that-he-acted-on-the-in.md)
@@ -69,11 +69,11 @@ A federal appeals court ruled on Friday that genes can be patented, overturning 
 
 ##### United States House of Representatives
 ### [The United States House of Representatives votes to increase the debt ceiling but the Senate rejects it. ](/news/2011/07/29/the-united-states-house-of-representatives-votes-to-increase-the-debt-ceiling-but-the-senate-rejects-it.md)
-_Context:  debt, United States Senate, United States House of Representatives_
+_Context: United States Senate,  debt, United States House of Representatives_
 
 ##### Prime Minister
 ### [The Prime Minister of Spain Jose Luis Rodriguez Zapatero calls an early election for November 20 rather than 2012. ](/news/2011/07/29/the-prime-minister-of-spain-josa-c-luis-rodraguez-zapatero-calls-an-early-election-for-november-20-rather-than-2012.md)
-_Context: Prime Minister, Jose Luis Rodriguez Zapatero_
+_Context: Jose Luis Rodriguez Zapatero, Prime Minister_
 
 ## [Previous Day...](/news/2011/07/28/index.md)
 

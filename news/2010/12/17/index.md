@@ -5,7 +5,7 @@ Formats: [HTML](2010/12/17/index.html)  [JSON](2010/12/17/index.json)  [XML](201
 
 ##### Maoist
 ### [Maoist rebels abduct seven villagers in the Purulia district of India's West Bengal state. ](/news/2010/12/17/maoist-rebels-abduct-seven-villagers-in-the-purulia-district-of-india-s-west-bengal-state.md)
-_Context: Maoist, Purulia, West Bengal_
+_Context: West Bengal, Purulia, Maoist_
 
 ##### Pakistan
 ### [American missile attacks kill 57 suspected militants in a region in northwest Pakistan. ](/news/2010/12/17/american-missile-attacks-kill-57-suspected-militants-in-a-region-in-northwest-pakistan.md)
@@ -17,7 +17,7 @@ Partnership seen as &#039;vote of confidence&#039; in resource; billions to be s
 
 ##### Christmas Island
 ### [The death toll from the Christmas Island wreck rises to 30 with many still missing. ](/news/2010/12/17/the-death-toll-from-the-christmas-island-wreck-rises-to-30-with-many-still-missing.md)
-_Context: wreck, Christmas Island_
+_Context: Christmas Island, wreck_
 
 ##### Blizzards and widespread ice
 ### [Further disruption is caused by blizzards and widespread ice in many parts of the United Kingdom, with more wintry weather forecast for the weekend. ](/news/2010/12/17/further-disruption-is-caused-by-blizzards-and-widespread-ice-in-many-parts-of-the-united-kingdom-with-more-wintry-weather-forecast-for-the.md)

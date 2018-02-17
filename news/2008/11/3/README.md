@@ -9,11 +9,11 @@ Gov. Sarah Palin violated no ethics laws when she fired her public safety commis
 
 ##### Association for Relations Across the Taiwan Straits
 ### [ ARATS president Chen Yunlin, the official delegation of the People's Republic of China, arrives in Taiwan for talks with SEF chairman Chiang Pin-kung. ](/news/2008/11/3/arats-president-chen-yunlin-the-official-delegation-of-the-people-s-republic-of-china-arrives-in-taiwan-for-talks-with-sef-chairman-chian.md)
-_Context: Taiwan, Chen Yunlin, Association for Relations Across the Taiwan Straits, Straits Exchange Foundation, China, Chiang Pin-kung_
+_Context: Chen Yunlin, Chiang Pin-kung, Association for Relations Across the Taiwan Straits, Taiwan, China, Straits Exchange Foundation_
 
 ##### Ita
 ### [ Ita and Unibanco announce they will merge their banking, credit, and insurance operations, creating the largest financial services group in Brazil and the Southern Hemisphere. ](/news/2008/11/3/itau-and-unibanco-announce-they-will-merge-their-banking-credit-and-insurance-operations-creating-the-largest-financial-services-group-i.md)
-_Context: Ita, Unibanco, pre-merger, Brazil, Southern Hemisphere_
+_Context: Unibanco, Ita, Southern Hemisphere, Brazil, pre-merger_
 
 ##### Bangladesh
 ### [ The Bangladeshi government schedules general elections on December 18, 2008, which will end the rule of the one and half year military-backed interim government. ](/news/2008/11/3/the-bangladeshi-government-schedules-general-elections-on-december-18-2008-which-will-end-the-rule-of-the-one-and-half-year-military-back.md)

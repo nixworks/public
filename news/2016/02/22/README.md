@@ -5,7 +5,7 @@ Formats: [HTML](2016/02/22/index.html)  [JSON](2016/02/22/index.json)  [XML](201
 
 ##### Insurgency in Jammu and Kashmir
 ### [Loud explosions and gunfire are heard in a building where Kashmiri forces are fighting Jammu Kashmir Liberation Front militants in a standoff that has claimed the lives of five soldiers and one civilian. ](/news/2016/02/22/loud-explosions-and-gunfire-are-heard-in-a-building-where-kashmiri-forces-are-fighting-jammu-kashmir-liberation-front-militants-in-a-standof.md)
-_Context: 2016 Pampore stand-off, Insurgency in Jammu and Kashmir, Jammu Kashmir Liberation Front, Kashmir_
+_Context: Insurgency in Jammu and Kashmir, Kashmir, 2016 Pampore stand-off, Jammu Kashmir Liberation Front_
 
 ##### War in Afghanistan (2015-present)
 ### [A suicide bomber kills at least 13 people and injures 19 in Afghanistan's Parwan province. The Taliban claims responsibility. ](/news/2016/02/22/a-suicide-bomber-kills-at-least-13-people-and-injures-19-in-afghanistan-s-parwan-province-the-taliban-claims-responsibility.md)
@@ -17,11 +17,11 @@ Zimbabwe President Robert Mugabe ordered the expulsion of eight foreign diamond 
 
 ##### 2015-16 South Pacific cyclone season
 ### [The death toll in Fiji rises to at least 17 as authorities continue to assess the damage. All schools in the country are closed for the week. A nationwide curfew remains in effect. ](/news/2016/02/22/the-death-toll-in-fiji-rises-to-at-least-17-as-authorities-continue-to-assess-the-damage-all-schools-in-the-country-are-closed-for-the-week.md)
-_Context: Cyclone Winston, 2015-16 South Pacific cyclone season, Fiji_
+_Context: 2015-16 South Pacific cyclone season, Fiji, Cyclone Winston_
 
 ##### Russia-United States relations
 ### [Russia has announced that it will ask permission to fly unarmed surveillance planes over the United States citing the Open Skies Treaty. ](/news/2016/02/22/russia-has-announced-that-it-will-ask-permission-to-fly-unarmed-surveillance-planes-over-the-united-states-citing-the-open-skies-treaty.md)
-_Context: United States, Open Skies Treaty, Russia-United States relations_
+_Context: Open Skies Treaty, Russia-United States relations, United States_
 
 ##### European migrant crisis
 ### [German Interior Minister Thomas de Maiziere strongly criticizes Austria's decision to put a daily cap on the number of refugees the country can accept. Austria has set a limit of dealing with 80 asylum applications a day, while letting thousands of others transit to Germany. Maiziere said this sends "the wrong signal" and is "unacceptable". ](/news/2016/02/22/german-interior-minister-thomas-de-maizia-re-strongly-criticizes-austria-s-decision-to-put-a-daily-cap-on-the-number-of-refugees-the-country.md)
@@ -45,7 +45,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ##### Philippine Senate election, 2016
 ### [Walden Bello, a socialist candidate for the Philippine Senate, files a petition that may disqualify boxer Manny Pacquiao for violating election rules regarding publicity. Based on the commission's rules, Pacquiao's wife, Jinkee Pacquiao, may substitute. ](/news/2016/02/22/walden-bello-a-socialist-candidate-for-the-philippine-senate-files-a-petition-that-may-disqualify-boxer-manny-pacquiao-for-violating-elect.md)
-_Context: Philippine Senate election, 2016, Manny Pacquiao, Jinkee Pacquiao, Walden Bello_
+_Context: Manny Pacquiao, Jinkee Pacquiao, Philippine Senate election, 2016, Walden Bello_
 
 ##### Ugandan general election, 2016
 ### [Opposition leader Kizza Besigye is arrested while trying to obtain copies of the official election results. ](/news/2016/02/22/opposition-leader-kizza-besigye-is-arrested-while-trying-to-obtain-copies-of-the-official-election-results.md)
@@ -55,7 +55,7 @@ _Context: Ugandan general election, 2016, Kizza Besigye_
 ### [Jat protesters reach an agreement with the Indian government on increased reservations similar to those authorized for economically disadvantaged lower castes. Authorities say at least 19 people have been killed in the three-day demonstrations. Protest leaders call for reopening blockaded roads in the northern state of Haryana. Water restrictions, implemented after protesters damaged the water station's New Dehli feed, remain in effect while engineers repair the equipment. ](/news/2016/02/22/jat-protesters-reach-an-agreement-with-the-indian-government-on-increased-reservations-similar-to-those-authorized-for-economically-disadvan.md)
 Haryana Jat protest: The agitating members of the Jat community have been demanding their inclusion in the OBC category and thereby reservation in government jobs
 
-##### 2016 U.S. presidential election
+##### 2016 U.S. election
 ### [Republican candidate Ted Cruz fires campaign spokesman Rick Tyler who posted incorrect information on Twitter about candidate Marco Rubio. ](/news/2016/02/22/republican-candidate-ted-cruz-fires-campaign-spokesman-rick-tyler-who-posted-incorrect-information-on-twitter-about-candidate-marco-rubio.md)
 Republican presidential candidate Ted Cruz said Monday he’s fired campaign communications director Rick Tyler, after his top spokesman promoted a video that wrongly depicted Florida Sen. Marco Rubio as trash-talking the Bible.
 

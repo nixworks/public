@@ -5,7 +5,7 @@ Formats: [HTML](2011/08/3/index.html)  [JSON](2011/08/3/index.json)  [XML](2011/
 
 ##### Shell and advance
 ### [Syrian forces shell and advance on the city of Hama. ](/news/2011/08/3/syrian-forces-shell-and-advance-on-the-city-of-hama.md)
-_Context: Hama, shell and advance_
+_Context: shell and advance, Hama_
 
 ##### South Africa
 ### [South Africa agrees to loan Swaziland 2.5 billion rand (US$368 million) to ease the latter's economic crisis. ](/news/2011/08/3/south-africa-agrees-to-loan-swaziland-2-5-billion-rand-us-368-million-to-ease-the-latter-s-economic-crisis.md)
@@ -21,7 +21,7 @@ _Context: Nook, John Malone, Barnes & Noble_
 
 ##### New Zealand
 ### [More than 26,000 people have permanently left New Zealand's Canterbury Region since the 2011 Christchurch earthquake in February. ](/news/2011/08/3/more-than-26-000-people-have-permanently-left-new-zealand-s-canterbury-region-since-the-2011-christchurch-earthquake-in-february.md)
-_Context: New Zealand, 2011 Christchurch earthquake, Canterbury Region_
+_Context: 2011 Christchurch earthquake, Canterbury Region, New Zealand_
 
 ##### Bell 412 helicopter
 ### [Ten people die as a Bell 412 helicopter crashes in Indonesia's North Sulawesi province. ](/news/2011/08/3/ten-people-die-as-a-bell-412-helicopter-crashes-in-indonesia-s-north-sulawesi-province.md)
@@ -33,11 +33,11 @@ The UN and the International Olympic Committee were among those targeted by one 
 
 ##### President
 ### [The former President of Egypt, Hosni Mubarak, leaves the resort town of Sharm el-Sheikh, Egypt to return to Cairo for his trial. ](/news/2011/08/3/the-former-president-of-egypt-hosni-mubarak-leaves-the-resort-town-of-sharm-el-sheikh-egypt-to-return-to-cairo-for-his-trial.md)
-_Context: trial, Cairo, Hosni Mubarak, Sharm el-Sheikh, President_
+_Context: trial, Sharm el-Sheikh, President, Cairo, Hosni Mubarak_
 
 ##### Heather Mills
 ### [Charity campaigner Heather Mills tells the BBC's "Newsnight" that a senior Mirror Group journalist admitted hacking voicemails left for her by Sir Paul McCartney while they were together. ](/news/2011/08/3/charity-campaigner-heather-mills-tells-the-bbc-s-newsnight-that-a-senior-mirror-group-journalist-admitted-hacking-voicemails-left-for-her.md)
-_Context: Newsnight, Paul McCartney, Heather Mills, Mirror Group_
+_Context: Heather Mills, Paul McCartney, Newsnight, Mirror Group_
 
 ##### United Kingdom Parliamentary expenses scandal
 ### [Luke March, who was charged with investigating the United Kingdom Parliamentary expenses scandal, resigns from the Independent Parliamentary Standards Authority after refusing to name those under suspicion. ](/news/2011/08/3/luke-march-who-was-charged-with-investigating-the-united-kingdom-parliamentary-expenses-scandal-resigns-from-the-independent-parliamentary.md)
@@ -45,7 +45,7 @@ _Context: United Kingdom Parliamentary expenses scandal, Independent Parliamenta
 
 ##### MPs
 ### [The Iranian parliament confirms four new ministers including Rostam Ghasemi as Minister of Petroleum. ](/news/2011/08/3/the-iranian-parliament-confirms-four-new-ministers-including-rostam-ghasemi-as-minister-of-petroleum.md)
-_Context: Rostam Ghasemi, MPs, Iran's oil ministry_
+_Context: MPs, Rostam Ghasemi, Iran's oil ministry_
 
 ##### David Wu
 ### [David Wu resigns his seat representing Oregon's 1st congressional district in the United States House of Representatives as a result of a sex scandal. ](/news/2011/08/3/david-wu-resigns-his-seat-representing-oregon-s-1st-congressional-district-in-the-united-states-house-of-representatives-as-a-result-of-a-se.md)

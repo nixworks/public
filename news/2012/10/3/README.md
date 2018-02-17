@@ -5,11 +5,11 @@ Formats: [HTML](2012/10/3/index.html)  [JSON](2012/10/3/index.json)  [XML](2012/
 
 ##### Syrian refugees
 ### [Syrian refugees in rented houses say the Turkish police in Hatay Province faces them with the choice to either join a refugee camp or go back to Syria. ](/news/2012/10/3/syrian-refugees-in-rented-houses-say-the-turkish-police-in-hatay-province-faces-them-with-the-choice-to-either-join-a-refugee-camp-or-go-bac.md)
-_Context: Hatay Province, choice, Turkish police, Syrian refugees, Syria, refugee camp_
+_Context: Syrian refugees, Syria, refugee camp, choice, Hatay Province, Turkish police_
 
 ##### Hezbollah
 ### [Several blasts strike an arms stockpile in the Hezbollah-controlled Bekaa Valley in Lebanon. ](/news/2012/10/3/several-blasts-strike-an-arms-stockpile-in-the-hezbollah-controlled-bekaa-valley-in-lebanon.md)
-_Context: Hezbollah, Lebanese, Bekaa Valley_
+_Context: Lebanese, Hezbollah, Bekaa Valley_
 
 ##### Iran
 ### [Riot police in Iran clash with protestors demonstrating against the collapse of the country's currency, the rial. ](/news/2012/10/3/riot-police-in-iran-clash-with-protestors-demonstrating-against-the-collapse-of-the-country-s-currency-the-rial.md)
@@ -17,7 +17,7 @@ Police have reportedly fired tear gas to disperse demonstrators as they proteste
 
 ##### Papua New Guinea
 ### [Papua New Guinea recognizes the independence of Kosovo. ](/news/2012/10/3/papua-new-guinea-recognizes-the-independence-of-kosovo.md)
-_Context: Papua New Guinea, Kosovo, Kosovo_
+_Context: Kosovo, Kosovo, Papua New Guinea_
 
 ##### United States
 ### [Politicians in the United States begin a probe into the attack on the U.S. Consulate in Benghazi, Libya, on September 11. Walid Faraj, a surviving witness of the attack, has not yet been interrogated. ](/news/2012/10/3/politicians-in-the-united-states-begin-a-probe-into-the-attack-on-the-u-s-consulate-in-benghazi-libya-on-september-11-walid-faraj-a-sur.md)
@@ -33,7 +33,7 @@ News and updates on Europe&#039;s Service Module for NASA&#039;s Orion spacecraf
 
 ##### West Coast Main Line
 ### [The decision to award the rail franchise for the United Kingdom's West Coast Main Line to FirstGroup is scrapped by the government after what are described as "significant technical flaws" in the bidding process.](/news/2012/10/3/the-decision-to-award-the-rail-franchise-for-the-united-kingdom-s-west-coast-main-line-to-firstgroup-is-scrapped-by-the-government-after-wha.md)
-_Context: West Coast Main Line, FirstGroup_
+_Context: FirstGroup, West Coast Main Line_
 
 ## [Previous Day...](/news/2012/10/2/index.md)
 

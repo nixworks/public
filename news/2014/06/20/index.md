@@ -21,11 +21,11 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Senators
 ### [Philippine Senator Bong Revilla surrenders to the Sandiganbayan after the court issued a warrant for his arrest in relation to the PDAF scam. ](/news/2014/06/20/philippine-senator-bong-revilla-surrenders-to-the-sandiganbayan-after-the-court-issued-a-warrant-for-his-arrest-in-relation-to-the-pdaf-scam.md)
-_Context: Bong Revilla, Sandiganbayan, senators, PDAF scam_
+_Context: PDAF scam, Bong Revilla, Sandiganbayan, senators_
 
 ##### Five Star Movement
 ### [Italy's Five Star Movement joins the eurosceptic political group Europe of Freedom and Democracy in the European Parliament, a group otherwise dominated by the United Kingdom Independence Party. ](/news/2014/06/20/italy-s-five-star-movement-joins-the-eurosceptic-political-group-europe-of-freedom-and-democracy-in-the-european-parliament-a-group-otherwi.md)
-_Context: United Kingdom Independence Party, European Parliament, Five Star Movement, Europe of Freedom and Democracy_
+_Context: Five Star Movement, Europe of Freedom and Democracy, United Kingdom Independence Party, European Parliament_
 
 ## [Previous Day...](/news/2014/06/19/index.md)
 

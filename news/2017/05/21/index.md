@@ -9,7 +9,7 @@ The coordinated attack is another stinging blow to NATO-backed Afghan forces.
 
 ##### Indonesia
 ### [An Indonesian maritime patrol boat, the "KM Hiu Macan 001", intercepts five boats and arrested 55 Vietnamese crew members for allegedly poaching off Natuna Islands, but after an unexpected aggressive intervention by Vietnamese coast guards forces the Indonesian authorities to back off, release the arrested men and return to base empty handed. ](/news/2017/05/21/an-indonesian-maritime-patrol-boat-the-km-hiu-macan-001-intercepts-five-boats-and-arrested-55-vietnamese-crew-members-for-allegedly-poac.md)
-_Context: Natuna, Vietnam, Indonesia_
+_Context: Vietnam, Natuna, Indonesia_
 
 ##### Ringling Bros. and Barnum & Bailey Circus
 ### [After 146 years, the Ringling Bros. and Barnum & Bailey Circus comes to a close. ](/news/2017/05/21/after-146-years-the-ringling-bros-and-barnum-bailey-circus-comes-to-a-close.md)
@@ -17,11 +17,11 @@ _Context: Ringling Bros. and Barnum & Bailey Circus_
 
 ##### Pope Francis
 ### [In a surprise appointment by Pope Francis, Bishop Anders Arborelius is the first ever person from Sweden to become a cardinal. ](/news/2017/05/21/in-a-surprise-appointment-by-pope-francis-bishop-anders-arborelius-is-the-first-ever-person-from-sweden-to-become-a-cardinal.md)
-_Context: cardinal, Sweden, Pope Francis, Anders Arborelius_
+_Context: cardinal, Pope Francis, Anders Arborelius, Sweden_
 
 ##### Tim Mosedale
 ### [Mountaineers led by Tim Mosedale confirm suspicions that Mount Everest's famous Hillary Step had completely collapsed. ](/news/2017/05/21/mountaineers-led-by-tim-mosedale-confirm-suspicions-that-mount-everest-s-famous-hillary-step-had-completely-collapsed.md)
-_Context: Mount Everest, Tim Mosedale, suspicions, Hillary Step_
+_Context: suspicions, Tim Mosedale, Hillary Step, Mount Everest_
 
 ##### North Korea's nuclear program
 ### [South Korea reports North Korea fired a Pukguksong-2 intermediate-range ballistic missile that flew 500 km before landing in the Sea of Japan. ](/news/2017/05/21/south-korea-reports-north-korea-fired-a-pukguksong-2-intermediate-range-ballistic-missile-that-flew-500-km-before-landing-in-the-sea-of-japa.md)

@@ -5,15 +5,15 @@ Formats: [HTML](2011/08/28/index.html)  [JSON](2011/08/28/index.json)  [XML](201
 
 ##### Suicide bombing
 ### [At least 29 people are killed in an suicide bombing in Baghdad's largest Sunni mosque including Khalid al-Fahdawi, a member of the Council of Representatives of Iraq. ](/news/2011/08/28/at-least-29-people-are-killed-in-an-suicide-bombing-in-baghdad-s-largest-sunni-mosque-including-khalid-al-fahdawi-a-member-of-the-council-o.md)
-_Context: mosque, Baghdad, suicide bombing, Sunni Muslim, Iraqi Parliament, Khalid al-Fahdawi_
+_Context: suicide bombing, Sunni Muslim, Khalid al-Fahdawi, Baghdad, Iraqi Parliament, mosque_
 
 ##### Notting Hill Carnival
 ### [The Notting Hill Carnival, the world's second largest street festival, gets underway peacefully in London with a heavy police presence due to recent riots. ](/news/2011/08/28/the-notting-hill-carnival-the-world-s-second-largest-street-festival-gets-underway-peacefully-in-london-with-a-heavy-police-presence-due-t.md)
-_Context: last year's riots in London, street festival, London, Notting Hill Carnival_
+_Context: street festival, London, last year's riots in London, Notting Hill Carnival_
 
 ##### 2011 MTV Video Music Awards
 ### [The 2011 MTV Video Music Awards conclude in Los Angeles with Katy Perry winning Video of the Year for Firework. ](/news/2011/08/28/the-2011-mtv-video-music-awards-conclude-in-los-angeles-with-katy-perry-winning-video-of-the-year-for-firework.md)
-_Context: 2011 MTV Video Music Awards, Video of the Year, Firework, Los Angeles, Katy Perry_
+_Context: 2011 MTV Video Music Awards, Video of the Year, Firework, Katy Perry, Los Angeles_
 
 ##### Delaware
 ### [A confirmed tornado in Delaware destroys a home and damages others. ](/news/2011/08/28/a-confirmed-tornado-in-delaware-destroys-a-home-and-damages-others.md)
@@ -21,7 +21,7 @@ President Obama issued a state of emergency for Maryland on Saturday as the stat
 
 ##### Typhoon Nanmadol
 ### [Typhoon Nanmadol kills eight people in the Philippines and is headed for Taiwan. ](/news/2011/08/28/typhoon-nanmadol-kills-eight-people-in-the-philippines-and-is-headed-for-taiwan.md)
-_Context: Typhoon Nanmadol, Taiwan, Philippines_
+_Context: Philippines, Taiwan, Typhoon Nanmadol_
 
 ##### Tram
 ### [Five people are killed and at least 27 injured when a tram derails in the Santa Teresa neighborhood of Rio de Janeiro. ](/news/2011/08/28/five-people-are-killed-and-at-least-27-injured-when-a-tram-derails-in-the-santa-teresa-neighborhood-of-rio-de-janeiro.md)
@@ -29,7 +29,7 @@ A tram popular with tourists derails in the Brazilian city of Rio de Janeiro kil
 
 ##### 10 Downing Street
 ### [The Government of the United Kingdom pledges to raise the issue of the murder of WPC Yvonne Fletcher, allegedly by a Libyan official outside the embassy in London in 1984, with the new government in Tripoli. ](/news/2011/08/28/the-government-of-the-united-kingdom-pledges-to-raise-the-issue-of-the-murder-of-wpc-yvonne-fletcher-allegedly-by-a-libyan-official-outside.md)
-_Context: Tripoli, murder of PC Yvonne Fletcher, WPC, 10 Downing Street, London, Libya_
+_Context: Libya, WPC, 10 Downing Street, murder of PC Yvonne Fletcher, London, Tripoli_
 
 ##### Indians
 ### [Indian social activist Anna Hazare breaks a hunger strike after Parliament passes strong anti-corruption laws. ](/news/2011/08/28/indian-social-activist-anna-hazare-breaks-a-hunger-strike-after-parliament-passes-strong-anti-corruption-laws.md)
@@ -37,7 +37,7 @@ Anna Hazare ended his 12-day fast on Sunday morning before thousands of cheering
 
 ##### Tony Tan Keng Yam
 ### [Tony Tan Keng Yam becomes the President-elect of Singapore after winning the presidential election. ](/news/2011/08/28/tony-tan-keng-yam-becomes-the-president-elect-of-singapore-after-winning-the-presidential-election.md)
-_Context: Tony Tan Keng Yam, presidential election, President-elect, Singapore_
+_Context: Singapore, presidential election, Tony Tan Keng Yam, President-elect_
 
 ##### Nepal
 ### [Nepal elects Baburam Bhattarai as its new Prime Minister. ](/news/2011/08/28/nepal-elects-baburam-bhattarai-as-its-new-prime-minister.md)

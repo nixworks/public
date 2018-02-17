@@ -5,7 +5,7 @@ Formats: [HTML](2016/09/22/index.html)  [JSON](2016/09/22/index.json)  [XML](201
 
 ##### Saudi-led intervention in Yemen
 ### [The death toll from a Saudi-led Arab coalition airstrike which hit a house in a residential area in western Yemen has risen to 26 people. ](/news/2016/09/22/the-death-toll-from-a-saudi-led-arab-coalition-airstrike-which-hit-a-house-in-a-residential-area-in-western-yemen-has-risen-to-26-people.md)
-_Context: Yemen, Saudi Arabia, Saudi-led intervention in Yemen_
+_Context: Saudi Arabia, Saudi-led intervention in Yemen, Yemen_
 
 ##### Iraqi Civil War
 ### [Iraqi Armed Forces recapture al-Shirqat, southwest of al Hujayl, from ISIL. ](/news/2016/09/22/iraqi-armed-forces-recapture-al-shirqat-southwest-of-al-hujayl-from-isil.md)

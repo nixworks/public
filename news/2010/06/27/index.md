@@ -5,7 +5,7 @@ Formats: [HTML](2010/06/27/index.html)  [JSON](2010/06/27/index.json)  [XML](201
 
 ##### President
 ### [The first President of an independent Lithuania, Algirdas Brazauskas, dies in Vilnius. ](/news/2010/06/27/the-first-president-of-an-independent-lithuania-algirdas-brazauskas-dies-in-vilnius.md)
-_Context: Algirdas Brazauskas, President, Lithuania, Vilnius_
+_Context: Algirdas Brazauskas, Lithuania, Vilnius, President_
 
 ##### Guinea
 ### [Guinea holds the first democratic election in the nation's history. ](/news/2010/06/27/guinea-holds-the-first-democratic-election-in-the-nation-s-history.md)
@@ -17,7 +17,7 @@ _Context: Kyrgyzstan, constitutional referendum_
 
 ##### Bolivia
 ### [A road accident in Bolivia kills at least 25, injures 44, between Cochabama and Potos. ](/news/2010/06/27/a-road-accident-in-bolivia-kills-at-least-25-injures-44-between-cochabama-and-potosi.md)
-_Context: Bolivia, Potos, Cochabama_
+_Context: Potos, Cochabama, Bolivia_
 
 ##### 2010 FIFA World Cup
 ### [At least 11 people die while watching a 2010 FIFA World Cup match in Matam, Senegal. ](/news/2010/06/27/at-least-11-people-die-while-watching-a-2010-fifa-world-cup-match-in-matam-senegal.md)
@@ -27,17 +27,17 @@ At least 11 people die in Senegal as a terrace where they were watching a World 
 ### [Italy awaits the outcome of a trial which could imprison Prime Minister of Italy Silvio Berlusconi's senior adviser, Marcello Dell'Utri, for 11 years. ](/news/2010/06/27/italy-awaits-the-outcome-of-a-trial-which-could-imprison-prime-minister-of-italy-silvio-berlusconi-s-senior-adviser-marcello-dell-utri-for.md)
 Italy was yesterday tensely awaiting the outcome of a trial which could send Prime Minister Silvio Berlusconi&#039;s right-hand man to jail for 11 years.
 
-##### China
+##### Chinese
 ### [A coal mine explosion kills 5 in China's Ningxia Hui Autonomous Region. ](/news/2010/06/27/a-coal-mine-explosion-kills-5-in-china-s-ningxia-hui-autonomous-region.md)
-_Context: Ningxia Hui Autonomous Region, China_
+_Context: Ningxia Hui Autonomous Region, Chinese_
 
 ##### Canadian
 ### [Two Canadian medics are killed in Afghanistan, 20 kilometres west of Kandahar City in Panjwaii District. ](/news/2010/06/27/two-canadian-medics-are-killed-in-afghanistan-20-kilometres-west-of-kandahar-city-in-panjwaii-district.md)
-_Context: Afghan, Kandahar, Canadian, Panjwaii District_
+_Context: Afghan, Canadian, Kandahar, Panjwaii District_
 
 ##### Fighter jet
 ### [Fighter jets pounded Taliban hideouts in the upper Orakzai Agency of Pakistan on Saturday, killing 14 Taliban, and injuring eight others. ](/news/2010/06/27/fighter-jets-pounded-taliban-hideouts-in-the-upper-orakzai-agency-of-pakistan-on-saturday-killing-14-taliban-and-injuring-eight-others.md)
-_Context: Pakistan, Fighter jet, Orakzai Tribal Area, Taliban_
+_Context: Taliban, Pakistan, Orakzai Tribal Area, Fighter jet_
 
 ##### NATO
 ### [Six NATO-led service members are killed Saturday in bombing attacks in Afghanistan, NATO's International Security Assistance Force said. ](/news/2010/06/27/six-nato-led-service-members-are-killed-saturday-in-bombing-attacks-in-afghanistan-nato-s-international-security-assistance-force-said.md)

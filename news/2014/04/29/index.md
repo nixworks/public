@@ -25,7 +25,7 @@ South Korean President Park Geun-hye apologises over the ferry disaster, saying 
 
 ##### FedEx
 ### [A shooting at a FedEx facility in Kennesaw, Georgia, United States, leaves six injured with the gunman committing suicide. ](/news/2014/04/29/a-shooting-at-a-fedex-facility-in-kennesaw-georgia-united-states-leaves-six-injured-with-the-gunman-committing-suicide.md)
-_Context: Kennesaw, Georgia, FedEx_
+_Context: Kennesaw, FedEx, Georgia_
 
 ##### Venezuela
 ### [Venezuelan officials announce that a former chief of the Bolivarian Intelligence Service, Eliecer Otaiza, was shot and killed on Saturday. ](/news/2014/04/29/venezuelan-officials-announce-that-a-former-chief-of-the-bolivarian-intelligence-service-eliecer-otaiza-was-shot-and-killed-on-saturday.md)
@@ -37,7 +37,7 @@ Death from heart attack after failed delivery of new drug cocktail forces 14-day
 
 ##### NBA
 ### [NBA Commissioner Adam Silver announces that Los Angeles Clippers owner Donald Sterling is banned from the league for life after a recording of Sterling making racist comments surfaces. Sterling is also fined the maximum allowable US$2.5 million as the NBA examines options for a forced sale. ](/news/2014/04/29/nba-commissioner-adam-silver-announces-that-los-angeles-clippers-owner-donald-sterling-is-banned-from-the-league-for-life-after-a-recording.md)
-_Context: Donald Sterling, Adam Silver, Los Angeles Clippers, Commissioner, NBA_
+_Context: Adam Silver, Commissioner, NBA, Donald Sterling, Los Angeles Clippers_
 
 ## [Previous Day...](/news/2014/04/28/index.md)
 

@@ -21,15 +21,15 @@ At least 12 people - including two soldiers - are killed in a gunfight between t
 
 ##### Eskinder Nega
 ### [Imprisoned journalist and blogger Eskinder Nega is awarded the PEN America's "Freedom to Write" annual prize for publishing articles critical of Ethiopia's human rights record. ](/news/2012/05/2/imprisoned-journalist-and-blogger-eskinder-nega-is-awarded-the-pen-america-s-freedom-to-write-annual-prize-for-publishing-articles-critica.md)
-_Context: Ethiopia, Eskinder Nega, PEN America_
+_Context: Eskinder Nega, Ethiopia, PEN America_
 
 ##### Edvard Munch
 ### [Edvard Munch's "The Scream" sells for a record $US119,922,500 in an auction in New York City. ](/news/2012/05/2/edvard-munch-s-the-scream-sells-for-a-record-us119-922-500-in-an-auction-in-new-york-city.md)
-_Context: The Scream, New York City, Edvard Munch_
+_Context: Edvard Munch, New York City, The Scream_
 
 ##### German
 ### [A court in the German city of Mannheim rules that Microsoft has infringed Motorola Mobility's patents and bans Xbox 360 gaming consoles and Windows 7 operating system from sale in Germany. ](/news/2012/05/2/a-court-in-the-german-city-of-mannheim-rules-that-microsoft-has-infringed-motorola-mobility-s-patents-and-bans-xbox-360-gaming-consoles-and.md)
-_Context: Mannheim, Windows 7, Motorola Mobility, German, Microsoft, Xbox 360, German_
+_Context: Motorola Mobility, Windows 7, Xbox 360, German, Microsoft, German, Mannheim_
 
 ##### News Corporation
 ### [The News Corporation board expresses its "full confidence" in Rupert Murdoch following a UK government media committee's conclusion yesterday that Murdoch is "not a fit person" to run a major international business. ](/news/2012/05/2/the-news-corporation-board-expresses-its-full-confidence-in-rupert-murdoch-following-a-uk-government-media-committee-s-conclusion-yesterda.md)
@@ -41,7 +41,7 @@ Chinese dissident Chen Guangcheng leaves his refuge in the US embassy in Beijing
 
 ##### Li Keqiang
 ### [Chinese Vice-Premier Li Keqiang travels to Budapest and holds talks with Hungarian Prime Minister Viktor Orban. ](/news/2012/05/2/chinese-vice-premier-li-keqiang-travels-to-budapest-and-holds-talks-with-hungarian-prime-minister-viktor-orba-n.md)
-_Context: Budapest, Li Keqiang, Viktor Orban_
+_Context: Li Keqiang, Budapest, Viktor Orban_
 
 ##### Japanese
 ### [The Japanese owner is found of a Harley-Davidson that drifted to Canada in a container that had been swept out to sea in the 2011 Tohoku earthquake and tsunami. ](/news/2012/05/2/the-japanese-owner-is-found-of-a-harley-davidson-that-drifted-to-canada-in-a-container-that-had-been-swept-out-to-sea-in-the-2011-tahoku-ea.md)
@@ -53,19 +53,19 @@ _Context: Secret Intelligence Service, Gareth Williams_
 
 ##### J. T. Ready
 ### [A man, believed by the media (but not confirmed) to be J. T. Ready, a Neo-Nazi, and a member of the Minutemen Civil Defense Corps, is among five individuals in Gilbert, Arizona, found dead with gunshot wounds. It is unclear what role he may have played in the apparent shootings, and what precise type they were, but he is believed to have shot the others and then himself in a possible murder-suicide. ](/news/2012/05/2/a-man-believed-by-the-media-but-not-confirmed-to-be-j-t-ready-a-neo-nazi-and-a-member-of-the-minutemen-civil-defense-corps-is-among.md)
-_Context: Gilbert, Arizona, J. T. Ready, Neo-Nazi, Minutemen Civil Defense Corps_
+_Context: Minutemen Civil Defense Corps, J. T. Ready, Neo-Nazi, Gilbert, Arizona_
 
 ##### Egypt
 ### [The Egyptian military expresses its willingness to hand over political power on May 24 if an outright winner emerges in the first round of the presidential elections. ](/news/2012/05/2/the-egyptian-military-expresses-its-willingness-to-hand-over-political-power-on-may-24-if-an-outright-winner-emerges-in-the-first-round-of-t.md)
-_Context: political power, presidential election, Egypt_
+_Context: political power, Egypt, presidential election_
 
 ##### Nicolas Sarkozy
 ### [Presidential candidates Nicolas Sarkozy and Francois Hollande go head-to-head in a televised debate in France. ](/news/2012/05/2/presidential-candidates-nicolas-sarkozy-and-franassois-hollande-go-head-to-head-in-a-televised-debate-in-france.md)
-_Context: France, Francois Hollande, Nicolas Sarkozy_
+_Context: Francois Hollande, France, Nicolas Sarkozy_
 
 ##### Australian Federal Police
 ### [The Australian Federal Police launches a formal investigation into allegations that Speaker of the Australian House of Representatives Peter Slipper misused Cabcharges. ](/news/2012/05/2/the-australian-federal-police-launches-a-formal-investigation-into-allegations-that-speaker-of-the-australian-house-of-representatives-peter.md)
-_Context: Peter Slipper, Cabcharge, Speaker of the Australian House of Representatives, Australian Federal Police_
+_Context: Peter Slipper, Cabcharge, Australian Federal Police, Speaker of the Australian House of Representatives_
 
 ##### Aung San Suu Kyi
 ### [Aung San Suu Kyi, leader of the National League for Democracy, is sworn in as a member of the Pyithu Hluttaw, the lower house of the parliament of Burma. ](/news/2012/05/2/aung-san-suu-kyi-leader-of-the-national-league-for-democracy-is-sworn-in-as-a-member-of-the-pyithu-hluttaw-the-lower-house-of-the-parliam.md)
@@ -73,7 +73,7 @@ Pro-democracy leader takes oath to enter parliament, marking historic developmen
 
 ##### United States presidential election, 2012
 ### [United States presidential election, 2012: Newt Gingrich suspends his campaign for the Republican Party nomination. Mitt Romney is declared the presumptive nominee. ](/news/2012/05/2/united-states-presidential-election-2012-newt-gingrich-suspends-his-campaign-for-the-republican-party-nomination-mitt-romney-is-declared.md)
-_Context: presumptive nominee, Republican primaries, United States presidential election, 2012, Mitt Romney, Newt Gingrich_
+_Context: presumptive nominee, Mitt Romney, United States presidential election, 2012, Newt Gingrich, Republican primaries_
 
 ##### Gujarat
 ### [Gujarat MP Prabha Taviad breaks down and weeps in parliament alleging assault by police as she tried to attend a government function. ](/news/2012/05/2/gujarat-mp-prabha-taviad-breaks-down-and-weeps-in-parliament-alleging-assault-by-police-as-she-tried-to-attend-a-government-function.md)

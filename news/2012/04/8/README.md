@@ -5,7 +5,7 @@ Formats: [HTML](2012/04/8/index.html)  [JSON](2012/04/8/index.json)  [XML](2012/
 
 ##### Syria
 ### [At least 40 people are reported killed across Syria ahead of the Tuesday deadline for Syrian armed forces to withdraw from cities, as part of a peace plan brokered by U.N.-Arab League special envoy Kofi Annan. ](/news/2012/04/8/at-least-40-people-are-reported-killed-across-syria-ahead-of-the-tuesday-deadline-for-syrian-armed-forces-to-withdraw-from-cities-as-part-o.md)
-_Context: Syrian armed forces, Kofi Annan, Syria_
+_Context: Kofi Annan, Syrian armed forces, Syria_
 
 ##### Afghan
 ### [Afghanistan and the United States reach an agreement giving the Government of Afghanistan more control over night raids. ](/news/2012/04/8/afghanistan-and-the-united-states-reach-an-agreement-giving-the-government-of-afghanistan-more-control-over-night-raids.md)
@@ -13,7 +13,7 @@ _Context: United States, Afghan, Afghan government_
 
 ##### Car bomb
 ### [A car bomb explodes in the Nigerian city of Kaduna killing dozens of people. ](/news/2012/04/8/a-car-bomb-explodes-in-the-nigerian-city-of-kaduna-killing-dozens-of-people.md)
-_Context: car bomb, Nigeria, Kaduna_
+_Context: Kaduna, Nigeria, car bomb_
 
 ##### Internal Affairs Minister of Israel
 ### [The Internal Affairs Minister of Israel declares German poet and former Waffen-SS soldier Gunter Grass, recipient of the 1999 Nobel Prize in Literature, a "persona non grata" in a row over his poem "What Must Be Said". ](/news/2012/04/8/the-internal-affairs-minister-of-israel-declares-german-poet-and-former-waffen-ss-soldier-ga1-4nter-grass-recipient-of-the-1999-nobel-prize-i.md)
@@ -29,7 +29,7 @@ President Asif Ali Zardari of Pakistan holds &quot;friendly&quot; talks with Ind
 
 ##### Shooting attack
 ### [U.S. police arrest two men suspected in carrying out a shooting attack in Tulsa, Oklahoma, that happened the day before, leaving three people dead and two injured. The shootings are being investigated as a hate crime. ](/news/2012/04/8/u-s-police-arrest-two-men-suspected-in-carrying-out-a-shooting-attack-in-tulsa-oklahoma-that-happened-the-day-before-leaving-three-peopl.md)
-_Context: hate crime, Oklahoma, shooting attack, Tulsa_
+_Context: Tulsa, Oklahoma, hate crime, shooting attack_
 
 ##### South Ossetia
 ### [Voters in South Ossetia go to the polls for the second round of a presidential election with ex-KGB officer Leonid Tibilov elected. ](/news/2012/04/8/voters-in-south-ossetia-go-to-the-polls-for-the-second-round-of-a-presidential-election-with-ex-kgb-officer-leonid-tibilov-elected.md)

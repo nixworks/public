@@ -9,7 +9,7 @@ comentarii, Romanian-born German writer Herta Muller won this year&#039;s Nobel 
 
 ##### Taliban
 ### [ A Taliban attack on the Indian embassy in Kabul kills at least 17 and injures 83. ](/news/2009/10/8/a-taliban-attack-on-the-indian-embassy-in-kabul-kills-at-least-17-and-injures-83.md)
-_Context: Kabul, Taliban, attack_
+_Context: attack, Taliban, Kabul_
 
 ##### Al-Qaeda
 ### [ A prominent Al-Qaeda leader, Abu Yahya al-Libi, urges Muslims in Xinjiang to "prepare for holy war" after the riots in July. ](/news/2009/10/8/a-prominent-al-qaeda-leader-abu-yahya-al-libi-urges-muslims-in-xinjiang-to-prepare-for-holy-war-after-the-riots-in-july.md)
@@ -41,7 +41,7 @@ Lech Kaczynski signs Lisbon EU reform treaty leaving only Czechs to ratify docum
 
 ##### DNA
 ### [ DNA analysis reveals the identity of the "cursed blood" disorder that afflicted the British Royal Family in the 19th and early 20th centuries. ](/news/2009/10/8/dna-analysis-reveals-the-identity-of-the-cursed-blood-disorder-that-afflicted-the-british-royal-family-in-the-19th-and-early-20th-centuri.md)
-_Context: DNA, British Royal Family_
+_Context: British Royal Family, DNA_
 
 ##### Muslim
 ### [ A new study reveals one in four people are Muslim, with the global Muslim population standing at 1.57 billion. ](/news/2009/10/8/a-new-study-reveals-one-in-four-people-are-muslim-with-the-global-muslim-population-standing-at-1-57-billion.md)

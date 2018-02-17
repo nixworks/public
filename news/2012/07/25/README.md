@@ -5,15 +5,15 @@ Formats: [HTML](2012/07/25/index.html)  [JSON](2012/07/25/index.json)  [XML](201
 
 ##### Syrian Army
 ### [The Syrian Army reportedly fires rockets and artillery barrages at the rebel-held Damascus suburb of Al-Tall. ](/news/2012/07/25/the-syrian-army-reportedly-fires-rockets-and-artillery-barrages-at-the-rebel-held-damascus-suburb-of-al-tall.md)
-_Context: Al-Tall, Syrian Army, Damascus_
+_Context: Al-Tall, Damascus, Syrian Army_
 
 ##### India
 ### [Nine people are killed overnight in ethnic clashes in the Indian state of Assam with the total death toll since last Friday being 35. ](/news/2012/07/25/nine-people-are-killed-overnight-in-ethnic-clashes-in-the-indian-state-of-assam-with-the-total-death-toll-since-last-friday-being-35.md)
-_Context: Assam, India_
+_Context: India, Assam_
 
 ##### Egan-Jones Ratings Company
 ### [Egan-Jones Ratings Company downgrades Italy to CCC+ from B+, saying the country has a one-year default probability of 22%. ](/news/2012/07/25/egan-jones-ratings-company-downgrades-italy-to-ccc-from-b-saying-the-country-has-a-one-year-default-probability-of-22.md)
-_Context: Italy, Egan-Jones Ratings Company_
+_Context: Egan-Jones Ratings Company, Italy_
 
 ##### Economic output
 ### [Official figures indicate economic output in the United Kingdom fell by 0.7% between April and June, meaning the recession has deepened in the country. ](/news/2012/07/25/official-figures-indicate-economic-output-in-the-united-kingdom-fell-by-0-7-between-april-and-june-meaning-the-recession-has-deepened-in-t.md)
@@ -21,7 +21,7 @@ The UK recession has deepened, latest official figures show, after the output of
 
 ##### Earthquake
 ### [A 6.4 magnitude earthquake occurs off the Indonesian island of Sumatra with one man dying while fleeing his home. ](/news/2012/07/25/a-6-4-magnitude-earthquake-occurs-off-the-indonesian-island-of-sumatra-with-one-man-dying-while-fleeing-his-home.md)
-_Context: Indonesia, Sumatra, earthquake_
+_Context: earthquake, Sumatra, Indonesia_
 
 ##### Leonid Khabarov
 ### [The court hearings are rescheduled for Leonid Khabarov, an alleged mastermind behind the new Russian revolution. ](/news/2012/07/25/the-court-hearings-are-rescheduled-for-leonid-khabarov-an-alleged-mastermind-behind-the-new-russian-revolution.md)
@@ -29,11 +29,11 @@ _Context: Leonid Khabarov_
 
 ##### South Korea
 ### [A private South Korean committee announces that it plans to file a lawsuit with the International Criminal Court against North Korea over repatriation of prisoners of war and remains of soldiers killed in the Korean War. ](/news/2012/07/25/a-private-south-korean-committee-announces-that-it-plans-to-file-a-lawsuit-with-the-international-criminal-court-against-north-korea-over-re.md)
-_Context: ICC, North Korea, South Korea, prisoners of war, Korean War_
+_Context: South Korea, prisoners of war, ICC, Korean War, North Korea_
 
 ##### Guo Jinlong
 ### [Guo Jinlong resigns as the Mayor of the Chinese capital Beijing with Wang Anshun appointed as the acting mayor. ](/news/2012/07/25/guo-jinlong-resigns-as-the-mayor-of-the-chinese-capital-beijing-with-wang-anshun-appointed-as-the-acting-mayor.md)
-_Context: Beijing, Mayor, Wang Anshun, Guo Jinlong, China_
+_Context: China, Mayor, Beijing, Guo Jinlong, Wang Anshun_
 
 ##### Pranab Mukherjee
 ### [Pranab Mukherjee is sworn in as the President of India. ](/news/2012/07/25/pranab-mukherjee-is-sworn-in-as-the-president-of-india.md)
@@ -41,7 +41,7 @@ _Context: President of India, Pranab Mukherjee_
 
 ##### North Korea
 ### [North Korea state media declares the marriage of Kim Jong-un and Ri Sol-ju. ](/news/2012/07/25/north-korea-state-media-declares-the-marriage-of-kim-jong-un-and-ri-sol-ju.md)
-_Context: North Korea, Kim Jong-un, Ri Sol-ju_
+_Context: North Korea, Ri Sol-ju, Kim Jong-un_
 
 ##### 2012 Summer Olympics
 ### [Union officials call off a public sector strike in the United Kingdom scheduled for the eve of the 2012 Olympics. ](/news/2012/07/25/union-officials-call-off-a-public-sector-strike-in-the-united-kingdom-scheduled-for-the-eve-of-the-2012-olympics.md)

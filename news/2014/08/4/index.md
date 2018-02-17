@@ -21,7 +21,7 @@ It is a date that marks the start of events that would go on to change the cours
 
 ##### Dobrolet Airlines
 ### [Russian low-cost Dobrolet Airlines, Aeroflot's 100% subsidiary, suspends all flights, including to Crimea, over sanctions introduced by the European Union. ](/news/2014/08/4/russian-low-cost-dobrolet-airlines-aeroflot-s-100-subsidiary-suspends-all-flights-including-to-crimea-over-sanctions-introduced-by-the.md)
-_Context: European Union, Aeroflot, Crimea, Dobrolet Airlines_
+_Context: European Union, Crimea, Aeroflot, Dobrolet Airlines_
 
 ##### 2014 Ludian earthquake
 ### [China dispatches 2,500 People's Liberation Army soldiers to Yunnan province to search for hundreds of people missing after the earthquake. ](/news/2014/08/4/china-dispatches-2-500-people-s-liberation-army-soldiers-to-yunnan-province-to-search-for-hundreds-of-people-missing-after-the-earthquake.md)

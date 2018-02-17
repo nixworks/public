@@ -5,7 +5,7 @@ Formats: [HTML](2017/08/3/index.html)  [JSON](2017/08/3/index.json)  [XML](2017/
 
 ##### War in Afghanistan (2015-present)
 ### [ A suicide bomber attacks a convoy in Afghanistan's Kabul province, killing a Georgian soldier and three civilians and wounding 13 others, including six Resolute Support personnel. ](/news/2017/08/3/a-suicide-bomber-attacks-a-convoy-in-afghanistan-s-kabul-province-killing-a-georgian-soldier-and-three-civilians-and-wounding-13-others-i.md)
-_Context: suicide bomber, Resolute Support, War in Afghanistan (2015-present), Afghan, Kabul province,  Georgian_
+_Context: Kabul province,  Georgian, Afghan, Resolute Support, War in Afghanistan (2015-present), suicide bomber_
 
 ##### Sewage
 ### [A sewage leak, due to a single toilet, contaminated about 200 passengers's bags at Nashville International Airport, according to Southwest Airlines. ](/news/2017/08/3/a-sewage-leak-due-to-a-single-toilet-contaminated-about-200-passengers-s-bags-at-nashville-international-airport-according-to-southwest-a.md)
@@ -23,13 +23,13 @@ South American trade bloc Mercosur will trigger its democratic clause this weeke
 ### [Two transcripts of telephone conversations between U.S. President Donald Trump and foreign leaders are leaked. Trump was shown to disagree with Mexican President Enrique Pena Nieto on 27 January over the proposed border wall, and with Australian Prime Minister Malcolm Turnbull the next day over the resettlement deal of refugees in Nauru and Manus. ](/news/2017/08/3/two-transcripts-of-telephone-conversations-between-u-s-president-donald-trump-and-foreign-leaders-are-leaked-trump-was-shown-to-disagree-w.md)
 The Post has obtained transcripts of President Donald Trump’s talks with Mexican President Enrique Pena Nieto and Australian Prime Minister Malcolm Turnbull in January.
 
-##### Russian interference in the 2016 United States elections
+##### Russian meddling in the 2016 U.S. presidential election
 ### [Special counsel Robert Mueller has impaneled a grand jury in Washington, D.C. to investigate allegations of Russia's interference in the 2016 elections. ](/news/2017/08/3/special-counsel-robert-mueller-has-impaneled-a-grand-jury-in-washington-d-c-to-investigate-allegations-of-russiaas-interference-in-the-2.md)
 Special counsel Robert Mueller has impaneled a grand jury in Washington to investigate allegations of Russia’s interference in the 2016 elections, the Wall Street Journal said on Thursday, citing two unnamed people familiar with the matter.
 
 ##### Abortion in Chile
 ### [Chilean lawmakers have approved a bill that would legalize abortion in limited circumstances and end the socially conservative country's status as the last in South America with a blanket ban on the procedure. ](/news/2017/08/3/chilean-lawmakers-have-approved-a-bill-that-would-legalize-abortion-in-limited-circumstances-and-end-the-socially-conservative-country-s-sta.md)
-_Context: abortion, South America, Abortion in Chile, conservative, Chilean lawmakers_
+_Context: abortion, Abortion in Chile, South America, Chilean lawmakers, conservative_
 
 ##### Raytheon
 ### [Raytheon wins the dismissal of a USD$1 billion whistleblower lawsuit accusing the defense contractor of over billing the U.S. government on a contract for satellite sensors, nearly 18 months after the United States Court of Appeals for the Ninth Circuit revived the case. ](/news/2017/08/3/raytheon-wins-the-dismissal-of-a-usd-1-billion-whistleblower-lawsuit-accusing-the-defense-contractor-of-over-billing-the-u-s-government-on.md)
@@ -37,7 +37,7 @@ Raytheon Co on Thursday won the dismissal of a $1 billion whistleblower lawsuit 
 
 ##### 115th United States Congress
 ### [U.S. lawmakers break for summer recess. ](/news/2017/08/3/u-s-lawmakers-break-for-summer-recess.md)
-_Context: 115th United States Congress, recess, United States_
+_Context: United States, 115th United States Congress, recess_
 
 ##### Politics of Japan
 ### [Prime Minister of Japan Shinzo Abe appoints Taro Kono as Foreign Minister. ](/news/2017/08/3/prime-minister-of-japan-shinza-abe-appoints-tara-kano-as-foreign-minister.md)

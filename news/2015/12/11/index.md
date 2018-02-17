@@ -35,9 +35,9 @@ Chairman of Fosun group Guo Guangchang – known as China’s Warren Buffett –
 ### [Two of the U.S.'s oldest and largest companies, DuPont and Dow Chemical Company, will merge in an all-stock deal valued at $130 billion. The deal, which includes future plans for DowDuPont to split into three independent, public companies, is expected to face intense scrutiny from federal antitrust regulators, who will examine the impact on prices and the availability of vital seeds and herbicides.](/news/2015/12/11/two-of-the-u-s-as-oldest-and-largest-companies-dupont-and-dow-chemical-company-will-merge-in-an-all-stock-deal-valued-at-130-billion-t.md)
 Chemical titans DuPont and Dow Chemical Co have agreed to combine in an all-stock merger valued at $130 billion in a first step toward breaking up into three separate businesses, a move that pleased activist investors and could trigger more consolidation.
 
-##### China
+##### Chinese
 ### [China's Alibaba Group Holding Limited acquires Hong Kong's largest English-language newspaper, the "South China Morning Post", in a deal reported to be worth about $100 million. ](/news/2015/12/11/china-s-alibaba-group-holding-limited-acquires-hong-kong-s-largest-english-language-newspaper-the-south-china-morning-post-in-a-deal-rep.md)
-_Context: South China Morning Post, newspaper, Alibaba Group, China, English, Hong Kong_
+_Context: newspaper, Hong Kong, English, Chinese, South China Morning Post, Alibaba Group_
 
 ##### 2015 South Indian floods
 ### [Major UK-based reinsurance broker Aon Benfield estimates India has suffered over US$3 billion (over Rs. 200 billion) worth of losses as a result of the flooding, and rates them as the costliest floods and the eighth-costliest natural disaster of 2015.](/news/2015/12/11/major-uk-based-reinsurance-broker-aon-benfield-estimates-india-has-suffered-over-us-3-billion-over-rs-200-billion-worth-of-losses-as-a-re.md)

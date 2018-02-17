@@ -35,13 +35,13 @@ Israel dismisses from his post a soldier who hit a pro-Palestinian activist in t
 ### [Senior U.S. officials condemn graphic photos depicting their troops posing with the mangled corpses of suspected Afghan suicide bombers on at least two separate occasions months apart. The "Los Angeles Times" defends its publication of the photos after being warned against the move by the U.S. military. ](/news/2012/04/18/senior-u-s-officials-condemn-graphic-photos-depicting-their-troops-posing-with-the-mangled-corpses-of-suspected-afghan-suicide-bombers-on-a.md)
 Probe ordered into behaviour depicted by images showing troops posing with mangled bodies of suspected suicide bombers.
 
-##### China
+##### Chinese
 ### [China pledges an investigation into the death of British businessman Neil Haywood, and the alleged role of former politician Bo Xilai and his wife. ](/news/2012/04/18/china-pledges-an-investigation-into-the-death-of-british-businessman-neil-haywood-and-the-alleged-role-of-former-politician-bo-xilai-and-hi.md)
 China promises a &quot;thorough&quot; investigation into a top politician linked to the death of a UK businessman, after PM David Cameron holds talks with envoy.
 
 ##### The High Court in Edinburgh
 ### [In a rare move for courts in the United Kingdom, television cameras are allowed into the High Court in Edinburgh to film the sentencing of David Gilroy for the murder of Suzanne Pilley. ](/news/2012/04/18/in-a-rare-move-for-courts-in-the-united-kingdom-television-cameras-are-allowed-into-the-high-court-in-edinburgh-to-film-the-sentencing-of-d.md)
-_Context: murder of Suzanne Pilley, the High Court in Edinburgh_
+_Context: the High Court in Edinburgh, murder of Suzanne Pilley_
 
 ## [Previous Day...](/news/2012/04/17/index.md)
 

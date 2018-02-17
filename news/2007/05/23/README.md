@@ -5,23 +5,23 @@ Formats: [HTML](2007/05/23/index.html)  [JSON](2007/05/23/index.json)  [XML](200
 
 ##### AC Milan
 ### [ AC Milan defeats Liverpool F.C. 2-1 in the UEFA Champions League final. ](/news/2007/05/23/ac-milan-defeats-liverpool-f-c-2-1-in-the-uefa-champions-league-final.md)
-_Context: AC Milan, UEFA Champions League, Liverpool_
+_Context: Liverpool, AC Milan, UEFA Champions League_
 
 ##### Captured U.S. soldiers
 ### [ One of three captured US soldiers in Iraq is found dead, during an extensive manhunt which occupied nearly 3% of US troops. ](/news/2007/05/23/one-of-three-captured-us-soldiers-in-iraq-is-found-dead-during-an-extensive-manhunt-which-occupied-nearly-3-of-us-troops.md)
-_Context: captured U.S. soldiers, manhunt, Iraq War_
+_Context: manhunt, captured U.S. soldiers, Iraq War_
 
 ##### Venezuela
 ### [ Venezuela's Supreme Court rules that Radio Caracas Television must close on Monday, May 28, after the station's appeal against a decision by the Venezuelan Government failed. ](/news/2007/05/23/venezuela-s-supreme-court-rules-that-radio-caracas-televisia3n-must-close-on-monday-may-28-after-the-station-s-appeal-against-a-decision.md)
-_Context: Radio Caracas Television, Venezuela, Supreme Court, May 28_
+_Context: May 28, Radio Caracas Television, Venezuela, Supreme Court_
 
 ##### Lebanese
 ### [ Lebanon's Defence Minister Elias Murr issues an ultimatum to Fatah al-Islam militants in the Nahr el-Bared refugee camp in Tripoli, Lebanon. ](/news/2007/05/23/lebanon-s-defence-minister-elias-murr-issues-an-ultimatum-to-fatah-al-islam-militants-in-the-nahr-el-bared-refugee-camp-in-tripoli-lebanon.md)
-_Context: Fatah al-Islam, Nahr el-Bared, Elias Murr, Lebanese, Tripoli, Lebanon_
+_Context: Lebanese, Nahr el-Bared, Tripoli, Lebanon, Fatah al-Islam, Elias Murr_
 
 ##### Tirupur
 ### [ At least 27 people die as a wall collapses in a bar in Tirupur in the South Indian state of Tamil Nadu. ](/news/2007/05/23/at-least-27-people-die-as-a-wall-collapses-in-a-bar-in-tirupur-in-the-south-indian-state-of-tamil-nadu.md)
-_Context: state, Tirupur, Tamil Nadu, South India_
+_Context: South India, Tirupur, state, Tamil Nadu_
 
 ##### 2007 Israel-Gaza conflict
 ### [ 2007 Israel-Gaza conflict: Militants in the Gaza Strip fire eight rockets at the southern Israeli cities of Sderot and Kibbutz Nir Am. The IAF makes an air strike on the Gaza Strip, in which they destroy two buildings. ](/news/2007/05/23/2007-israel-gaza-conflict-militants-in-the-gaza-strip-fire-eight-rockets-at-the-southern-israeli-cities-of-sderot-and-kibbutz-nir-am-the.md)
@@ -33,11 +33,11 @@ _Context: His Majesty's Government, Carbon Reduction Commitment, emissions tradi
 
 ##### Serbia
 ### [ A Serbian court finds 12 men, including Milorad Ulemek, guilty of the 2003 assassination of Prime Minister Zoran Dindic. ](/news/2007/05/23/a-serbian-court-finds-12-men-including-milorad-ulemek-guilty-of-the-2003-assassination-of-prime-minister-zoran-ainaia.md)
-_Context: Milorad Ulemek, Zoran Dindic, Serbia, Prime Minister of Serbia_
+_Context: Zoran Dindic, Milorad Ulemek, Serbia, Prime Minister of Serbia_
 
 ##### Thailand
 ### [ A Thai gunman opens fire with an AK-47 in a market in Pathum Thani Province, north of Bangkok, killing a villager, a security guard and a police officer and critically injuring another six before he was shot dead by the police. ](/news/2007/05/23/a-thai-gunman-opens-fire-with-an-ak-47-in-a-market-in-pathum-thani-province-north-of-bangkok-killing-a-villager-a-security-guard-and-a-p.md)
-_Context: Thailand, Bangkok, Pathum Thani Province, Thai police, AK-47s_
+_Context: Thai police, Bangkok, Thailand, AK-47s, Pathum Thani Province_
 
 ## [Previous Day...](/news/2007/05/22/index.md)
 

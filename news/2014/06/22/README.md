@@ -17,7 +17,7 @@ Doha,&#x20;22&#x20;June&#x20;&amp;ndash&#x3b;Myanmar&#x20;made&#x20;its&#x20;ent
 
 ##### French government
 ### [The French government votes to allow a US$17 billion deal buyout of much of Alstom's power production business by General Electric to move forward. ](/news/2014/06/22/the-french-government-votes-to-allow-a-us-17-billion-deal-buyout-of-much-of-alstom-s-power-production-business-by-general-electric-to-move-f.md)
-_Context: French government, Alstom, General Electric_
+_Context: Alstom, General Electric, French government_
 
 ##### Quebec City
 ### [Three men who escaped from a jail near Quebec City via helicopter on 7 June are recaptured by the RCMP in Montreal. ](/news/2014/06/22/three-men-who-escaped-from-a-jail-near-quebec-city-via-helicopter-on-7-june-are-recaptured-by-the-rcmp-in-montreal.md)

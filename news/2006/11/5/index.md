@@ -13,7 +13,7 @@ US President George W Bush has welcomed the death penalty verdict in Saddam Huss
 
 ##### Nicaragua
 ### [ Nicaraguans go to the polls to elect a new President and National Assembly, with the presidential race led by Sandinista Daniel Ortega and conservative Eduardo Montealegre. ](/news/2006/11/5/nicaraguans-go-to-the-polls-to-elect-a-new-president-and-national-assembly-with-the-presidential-race-led-by-sandinista-daniel-ortega-and.md)
-_Context: National Assembly, Nicaraguan President, Daniel Ortega, Nicaragua, 2006 general election, Eduardo Montealegre, Sandinista_
+_Context: Sandinista, Nicaraguan President, Nicaragua, Eduardo Montealegre, National Assembly, 2006 general election, Daniel Ortega_
 
 ##### Power cut
 ### [ A large area of Western Europe is affected by power cuts, starting when two high-voltage transmission lines fail in Germany, and causing a cascading failure which also knocks out power in areas of France and other surrounding nations. ](/news/2006/11/5/a-large-area-of-western-europe-is-affected-by-power-cuts-starting-when-two-high-voltage-transmission-lines-fail-in-germany-and-causing-a.md)
@@ -21,7 +21,7 @@ _Context: cascading failure, power cut_
 
 ##### Australian Prime Minister
 ### [ The Prime Minister of Australia, John Howard, calls State Premiers to a crisis meeting to discuss the current drought and problems in the Murray-Darling basin. ](/news/2006/11/5/the-prime-minister-of-australia-john-howard-calls-state-premiers-to-a-crisis-meeting-to-discuss-the-current-drought-and-problems-in-the-m.md)
-_Context: current drought, Australian Prime Minister, John Howard, Murray-Darling basin_
+_Context: Australian Prime Minister, John Howard, current drought, Murray-Darling basin_
 
 ## [Previous Day...](/news/2006/11/4/index.md)
 
