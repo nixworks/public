@@ -5,10 +5,10 @@ Formats: [HTML](2018/02/17/index.html)  [JSON](2018/02/17/index.json)  [XML](201
 
 ##### 2018 Oaxaca earthquake
 ### [A military helicopter surveying the damage over Jamiltepec crashes, killing 13 people on the ground, the only deaths related to the earthquake reported so far. Among the passengers are Governor of Oaxaca Alejandro Murat Hinojosa and Mexico's Secretary of the Interior Alfonso Navarrete Prida. ](/news/2018/02/17/a-military-helicopter-surveying-the-damage-over-jamiltepec-crashes-killing-13-people-on-the-ground-the-only-deaths-related-to-the-earthqua.md)
-_Context: Governor of Oaxaca, Alfonso Navarrete Prida, Jamiltepec, 2018 Oaxaca earthquake, Alejandro Murat Hinojosa, Mexico's Secretary of the Interior_
+_Context: Alejandro Murat Hinojosa, Jamiltepec, Mexico's Secretary of the Interior, 2018 Oaxaca earthquake, Governor of Oaxaca, Alfonso Navarrete Prida_
 
 ##### Murder of Zainab Ansari
-### [An Anti-Terrorism Court in Lahore, Pakistan, sentences the culprit to the death penalty, on four grounds. The family demands his hanging in public. ](/news/2018/02/17/an-anti-terrorism-court-in-lahore-pakistan-sentences-the-culprit-to-the-death-penalty-on-four-grounds-the-family-demands-his-hanging-in.md)
+### [An Anti-Terrorism Court in Lahore, Pakistan, sentences to the death penalty, Imran Ali for the rape and murder of the 7-year-old Pakistani girl. The family demands his hanging in public. ](/news/2018/02/17/an-anti-terrorism-court-in-lahore-pakistan-sentences-to-the-death-penalty-imran-ali-for-the-rape-and-murder-of-the-7-year-old-pakistani-g.md)
 Eight-year-old victim&#039;s mother and uncle say the demand is just and in accordance with the teachings of Islam
 
 ##### UK Independence Party
