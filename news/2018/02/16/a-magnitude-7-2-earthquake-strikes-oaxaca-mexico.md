@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/02/16/a-magnitude-7-2-earthquake-strikes-oaxaca-mexic
 
 ### [2018-02-16](/news/2018/02/16/index.md)
 
-##### Magnitude 7.2 earthquake
+##### 2018 Oaxaca earthquake
 # A magnitude 7.2 earthquake strikes Oaxaca, Mexico. 
 
 

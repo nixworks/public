@@ -3,9 +3,9 @@ Formats: [HTML](2018/02/16/index.html)  [JSON](2018/02/16/index.json)  [XML](201
 
 ## [2018-02-16](/news/2018/02/16/index.md)
 
-##### Magnitude 7.2 earthquake
+##### 2018 Oaxaca earthquake
 ### [A magnitude 7.2 earthquake strikes Oaxaca, Mexico. ](/news/2018/02/16/a-magnitude-7-2-earthquake-strikes-oaxaca-mexico.md)
-_Context: Oaxaca, Mexico, magnitude 7.2 earthquake_
+_Context: Oaxaca, 2018 Oaxaca earthquake, Mexico_
 
 ##### School shooting
 ### [A teenager is arrested for allegedly planning a school shooting in Everett, Washington. Police found a semi-automatic rifle hidden in a guitar case along with bomb making equipment. ](/news/2018/02/16/a-teenager-is-arrested-for-allegedly-planning-a-school-shooting-in-everett-washington-police-found-a-semi-automatic-rifle-hidden-in-a-guit.md)
@@ -21,7 +21,7 @@ The move is aimed at stemming a wave of anti-government protests, state media re
 
 ##### Rohingya refugees in Bangladesh
 ### [Bangladeshi home minister Asaduzzaman Khan meets with his Burmese counterpart, Kyaw Swe, in Dhaka to discuss the repatriation of Rohingya refugees from Bangladesh to Myanmar. The Burmese delegation accepts a list of 8,032 Rohingya refugees (1,673 families) who are to be repatriated. ](/news/2018/02/16/bangladeshi-home-minister-asaduzzaman-khan-meets-with-his-burmese-counterpart-kyaw-swe-in-dhaka-to-discuss-the-repatriation-of-rohingya-re.md)
-_Context: Dhaka, Bangladesh, Myanmar, repatriation, Asaduzzaman Khan, Rohingya, Rohingya refugees in Bangladesh_
+_Context: Rohingya refugees in Bangladesh, Myanmar, repatriation, Dhaka, Rohingya, Bangladesh, Asaduzzaman Khan_
 
 ## [Previous Day...](/news/2018/02/15/index.md)
 
