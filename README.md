@@ -15,17 +15,21 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2018/02/16/index.md)
 
+##### Konduga
+### [Three suicide bombers kill at least 20 people at a fish market in Konduga, Borno State, Nigeria. ](/news/2018/02/16/three-suicide-bombers-kill-at-least-20-people-at-a-fish-market-in-konduga-borno-state-nigeria.md)
+Bombers leave dozens wounded at crowded fish market in Konduga, just outside Maiduguri
+
 ##### 2018 Oaxaca earthquake
 ### [A magnitude 7.2 earthquake strikes near the town of Pinotepa Nacional and is widely felt across Southern and Central Mexico, causing material damages in the states of Guerrero, Oaxaca and Mexico City. It is followed by a 5.8-magnitude aftershock. ](/news/2018/02/16/a-magnitude-7-2-earthquake-strikes-near-the-town-of-pinotepa-nacional-and-is-widely-felt-across-southern-and-central-mexico-causing-materia.md)
-_Context: Mexico City, Pinotepa Nacional, 2018 Oaxaca earthquake, Mexico, Oaxaca, aftershock, Guerrero_
+_Context: aftershock, Pinotepa Nacional, Oaxaca, Mexico, Mexico City, 2018 Oaxaca earthquake, Guerrero_
 
 ##### Crime in Washington
 ### [A teenager is arrested for allegedly planning a school shooting in Everett, Washington. Police found a semi-automatic rifle hidden in a guitar case along with bomb making equipment. ](/news/2018/02/16/a-teenager-is-arrested-for-allegedly-planning-a-school-shooting-in-everett-washington-police-found-a-semi-automatic-rifle-hidden-in-a-guit.md)
-_Context: Crime in Washington, school shooting, Everett, Washington_
+_Context: Everett, Washington, Crime in Washington, school shooting_
 
 ##### War on Terror
 ### [The Court of Appeal in Rabat, Morocco, acquits Younes Chekkouri of undermining the security of the state. Chekkouri was detained in Guantanamo Bay detention camp for 14 years without charges. ](/news/2018/02/16/the-court-of-appeal-in-rabat-morocco-acquits-younes-chekkouri-of-undermining-the-security-of-the-state-chekkouri-was-detained-in-guantana.md)
-_Context: Rabat, War on Terror, Morocco, Guantanamo Bay detention camp_
+_Context: War on Terror, Guantanamo Bay detention camp, Morocco, Rabat_
 
 ##### 2016 Turkish coup d'etat attempt
 ### [A court in Turkey hands life sentences to six journalists, including Ahmet Altan, Mehmet Altan and Nazli Ilicak. ](/news/2018/02/16/a-court-in-turkey-hands-life-sentences-to-six-journalists-including-ahmet-altan-mehmet-altan-and-nazla-ila-cak.md)
@@ -41,7 +45,7 @@ The move is aimed at stemming a wave of anti-government protests, state media re
 
 ##### Rohingya refugees in Bangladesh
 ### [Bangladeshi home minister Asaduzzaman Khan meets with his Burmese counterpart, Kyaw Swe, in Dhaka to discuss the repatriation of Rohingya refugees from Bangladesh to Myanmar. The Burmese delegation accepts a list of 8,032 Rohingya refugees (1,673 families) who are to be repatriated. ](/news/2018/02/16/bangladeshi-home-minister-asaduzzaman-khan-meets-with-his-burmese-counterpart-kyaw-swe-in-dhaka-to-discuss-the-repatriation-of-rohingya-re.md)
-_Context: Dhaka, Rohingya refugees in Bangladesh, Rohingya, repatriation, Bangladesh, Myanmar, Asaduzzaman Khan_
+_Context: Myanmar, Rohingya, repatriation, Asaduzzaman Khan, Dhaka, Bangladesh, Rohingya refugees in Bangladesh_
 
 ---
 
@@ -61,7 +65,7 @@ The top U.S. market regulator said it was concerned about whether the deal would
 
 ##### 2017 cyberattacks on Ukraine
 ### [The United Kingdom government and the United States White House accuse the Russian military of being responsible for the launch of the "NotPetya" malware in June 2017. The White House calls it the most destructive and costly cyberattack in history and says Russia will be met with unspecified "international consequences". Russia denies responsibility and dismisses the accusation as "groundless", lacking evidence, and "Russophobic". ](/news/2018/02/15/the-united-kingdom-government-and-the-united-states-white-house-accuse-the-russian-military-of-being-responsible-for-the-launch-of-the-notp.md)
-_Context: government, United States, Russian military, White House, United Kingdom, 2017 cyberattacks on Ukraine, NotPetya_
+_Context: White House, NotPetya, government, United States, 2017 cyberattacks on Ukraine, Russian military, United Kingdom_
 
 ##### United Kingdom football sexual abuse scandal
 ### [Former Manchester City and Crewe Alexandra youth coach Barry Bennell is found guilty of 43 sexual attacks on twelve boys between 1979 and 1990. ](/news/2018/02/15/former-manchester-city-and-crewe-alexandra-youth-coach-barry-bennell-is-found-guilty-of-43-sexual-attacks-on-twelve-boys-between-1979-and-19.md)
@@ -89,7 +93,7 @@ Cyril Ramaphosa was elected as South Africa&#039;s new president after the resig
 
 ##### Discoveries of exoplanets
 ### [NASA's Kepler space telescope has discovered 95 new exoplanets. ](/news/2018/02/15/nasa-s-kepler-space-telescope-has-discovered-95-new-exoplanets.md)
-_Context: Kepler, space telescope, NASA, exoplanet, Discoveries of exoplanets_
+_Context: space telescope, exoplanet, Discoveries of exoplanets, NASA, Kepler_
 
 ---
 
