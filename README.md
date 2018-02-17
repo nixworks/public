@@ -21,7 +21,7 @@ The move is aimed at stemming a wave of anti-government protests, state media re
 
 ##### Rohingya refugees in Bangladesh
 ### [Bangladeshi home minister Asaduzzaman Khan meets with his Burmese counterpart, Kyaw Swe, in Dhaka to discuss the repatriation of Rohingya refugees from Bangladesh to Myanmar. The Burmese delegation accepts a list of 8,032 Rohingya refugees (1,673 families) who are to be repatriated. ](/news/2018/02/16/bangladeshi-home-minister-asaduzzaman-khan-meets-with-his-burmese-counterpart-kyaw-swe-in-dhaka-to-discuss-the-repatriation-of-rohingya-re.md)
-_Context: Bangladesh, Rohingya, repatriation, Dhaka, Myanmar, Asaduzzaman Khan, Rohingya refugees in Bangladesh_
+_Context: Dhaka, Myanmar, Rohingya refugees in Bangladesh, repatriation, Rohingya, Asaduzzaman Khan, Bangladesh_
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -45,7 +45,7 @@ The top U.S. market regulator said it was concerned about whether the deal would
 
 ##### 2017 cyberattacks on Ukraine
 ### [The United Kingdom government and the United States White House accuse the Russian military of being responsible for the launch of the "NotPetya" malware in June 2017. The White House calls it the most destructive and costly cyberattack in history and says Russia will be met with unspecified "international consequences". Russia denies responsibility and dismisses the accusation as "groundless", lacking evidence, and "Russophobic". ](/news/2018/02/15/the-united-kingdom-government-and-the-united-states-white-house-accuse-the-russian-military-of-being-responsible-for-the-launch-of-the-notp.md)
-_Context: NotPetya, United States, 2017 cyberattacks on Ukraine, Russian military, government, White House, United Kingdom_
+_Context: United Kingdom, NotPetya, 2017 cyberattacks on Ukraine, Russian military, White House, United States, government_
 
 ##### United Kingdom football sexual abuse scandal
 ### [Former Manchester City and Crewe Alexandra youth coach Barry Bennell is found guilty of 43 sexual attacks on twelve boys between 1979 and 1990. ](/news/2018/02/15/former-manchester-city-and-crewe-alexandra-youth-coach-barry-bennell-is-found-guilty-of-43-sexual-attacks-on-twelve-boys-between-1979-and-19.md)
@@ -61,7 +61,7 @@ Bulgarian Prime Minister Boyko Borissov said that the ruling GERB party is withd
 
 ##### Criminal justice reform in the United States
 ### [The U.S. Senate Judiciary Committee backed the Sentencing Reform and Corrections Act, a package to reduce some of the strictest federal sentencing rules along with reforms for the federal prison system, by a vote of 16&ndash;5. ](/news/2018/02/15/the-u-s-senate-judiciary-committee-backed-the-sentencing-reform-and-corrections-act-a-package-to-reduce-some-of-the-strictest-federal-sent.md)
-_Context: Sentencing Reform and Corrections Act, Criminal justice reform in the United States, U.S. Senate Judiciary Committee_
+_Context: U.S. Senate Judiciary Committee, Criminal justice reform in the United States, Sentencing Reform and Corrections Act_
 
 ##### Politics of Ethiopia
 ### [Hailemariam Desalegn resigns as Prime Minister of Ethiopia after six years in office amid ongoing unrest in the Oromia and Amhara regions. ](/news/2018/02/15/hailemariam-desalegn-resigns-as-prime-minister-of-ethiopia-after-six-years-in-office-amid-ongoing-unrest-in-the-oromia-and-amhara-regions.md)
@@ -73,7 +73,7 @@ Cyril Ramaphosa was elected as South Africa&#039;s new president after the resig
 
 ##### Discoveries of exoplanets
 ### [NASA's Kepler space telescope has discovered 95 new exoplanets. ](/news/2018/02/15/nasa-s-kepler-space-telescope-has-discovered-95-new-exoplanets.md)
-_Context: NASA, Discoveries of exoplanets, exoplanet, Kepler, space telescope_
+_Context: Discoveries of exoplanets, Kepler, NASA, exoplanet, space telescope_
 
 ---
 
@@ -89,7 +89,7 @@ NSA said situation is &quot;under control&quot;
 
 ##### Stoneman Douglas High School shooting
 ### [At least 17 people are killed and 15 are wounded in a shooting at a high school in Parkland, Florida. This is the deadliest high school shooting in U.S. history. The suspected shooter is apprehended and identified as 19-year-old former student Nikolas Cruz. ](/news/2018/02/14/at-least-17-people-are-killed-and-15-are-wounded-in-a-shooting-at-a-high-school-in-parkland-florida-this-is-the-deadliest-high-school-shoo.md)
-_Context: Parkland, Stoneman Douglas High School shooting, high school, school shooting, School shootings in the United States, Florida, deadliest high school shooting in U.S. history_
+_Context: Parkland, school shooting, deadliest high school shooting in U.S. history, Florida, high school, Stoneman Douglas High School shooting, School shootings in the United States_
 
 ##### Crime in South Africa
 ### [The residence of the Gupta family is raided by the South African Police Service's elite Hawks unit and three people are arrested. ](/news/2018/02/14/the-residence-of-the-gupta-family-is-raided-by-the-south-african-police-service-s-elite-hawks-unit-and-three-people-are-arrested.md)
@@ -113,7 +113,7 @@ French police have found the remains of an eight-year-old French girl who vanish
 
 ##### Ukrainian crisis
 ### [Mikheil Saakashvili, leader of the opposition Movement of New Forces party, who was deported from Ukraine to Poland, relocates to the Netherlands. ](/news/2018/02/14/mikheil-saakashvili-leader-of-the-opposition-movement-of-new-forces-party-who-was-deported-from-ukraine-to-poland-relocates-to-the-nether.md)
-_Context: Movement of New Forces, Mikheil Saakashvili, Ukrainian crisis, Poland, Netherlands, Ukraine_
+_Context: Netherlands, Ukrainian crisis, Ukraine, Mikheil Saakashvili, Movement of New Forces, Poland_
 
 ##### Politics of South Africa
 ### [Jacob Zuma resigns as President of South Africa effective immediately, following an ultimatum issued the day prior by African National Congress that ordered Zuma to step down as head of state or face a vote of no confidence by the South African Parliament to remove him from power within 48 hours of the declaration. Cyril Ramaphosa takes over as Acting President. ](/news/2018/02/14/jacob-zuma-resigns-as-president-of-south-africa-effective-immediately-following-an-ultimatum-issued-the-day-prior-by-african-national-congr.md)
