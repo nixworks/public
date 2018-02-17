@@ -17,7 +17,7 @@ Photographs show double-decker bus lying on its side with its roof torn off near
 
 ##### West Java
 ### [A bus carrying local tourists crashes in West Java, Indonesia, killing at least 27 people. ](/news/2018/02/10/a-bus-carrying-local-tourists-crashes-in-west-java-indonesia-killing-at-least-27-people.md)
-_Context: Indonesia, West Java_
+_Context: West Java, Indonesia_
 
 ##### Helicopter
 ### [A Papillon Tours helicopter crashes in the Grand Canyon in the Southwestern United States, killing three people and injuring the other four on board. The six passengers were all British citizens. ](/news/2018/02/10/a-papillon-tours-helicopter-crashes-in-the-grand-canyon-in-the-southwestern-united-states-killing-three-people-and-injuring-the-other-four.md)
@@ -29,19 +29,19 @@ Narendra Modi backs independent Palestinian state during first trip by an Indian
 
 ##### North Korea-South Korea relations
 ### [South Korean President Moon Jae-in hosts talks at the Blue House with North Korean President of the Presidium of the Supreme People's Assembly Kim Yong-nam and Kim Jong-Un's sister Kim Yo-jong. ](/news/2018/02/10/south-korean-president-moon-jae-in-hosts-talks-at-the-blue-house-with-north-korean-president-of-the-presidium-of-the-supreme-people-s-assemb.md)
-_Context: North Korea, Kim Yong-nam, Kim Yo-jong, Kim Jong-Un, President of the Presidium of the Supreme People's Assembly, North Korea-South Korea relations, Blue House, South Korean President, Moon Jae-in_
+_Context: North Korea, North Korea-South Korea relations, Moon Jae-in, Kim Yo-jong, Kim Yong-nam, South Korean President, Kim Jong-Un, Blue House, President of the Presidium of the Supreme People's Assembly_
 
 ##### Crime in Ohio
 ### [Two officers of the Westerville, Ohio Police Department are shot and killed (one died immediately, one later at the hospital) in an ambush-type attack which had begun as a domestic dispute between the male perpetrator, who was wounded during the incident, and his wife. ](/news/2018/02/10/two-officers-of-the-westerville-ohio-police-department-are-shot-and-killed-one-died-immediately-one-later-at-the-hospital-in-an-ambush-t.md)
-_Context: Westerville, Ohio, ambush, Crime in Ohio_
+_Context: Crime in Ohio, Westerville, Ohio, ambush_
 
 ##### Politics of the United States
 ### [Heath Hall, the acting Federal Railroad Administration chief, resigns "effective immediately" over a Politico report that he has a second job in Madison County, Mississippi. ](/news/2018/02/10/heath-hall-the-acting-federal-railroad-administration-chief-resigns-effective-immediately-over-a-politico-report-that-he-has-a-second-jo.md)
-_Context: Politico, Politics of the United States, Madison County, Mississippi, Federal Railroad Administration_
+_Context: Politico, Politics of the United States, Federal Railroad Administration, Madison County, Mississippi_
 
 ##### Politics of the Republic of Ireland
 ### [Mary Lou McDonald is confirmed in the position of president of Sinn Fein. She succeeds Gerry Adams, who was Sinn Fein's leader since 1983. ](/news/2018/02/10/mary-lou-mcdonald-is-confirmed-in-the-position-of-president-of-sinn-fa-c-in-she-succeeds-gerry-adams-who-was-sinn-fa-c-in-s-leader-since-1983.md)
-_Context: Politics of the Republic of Ireland, Mary Lou McDonald, Sinn Fein, president of Sinn Fein, Gerry Adams_
+_Context: Sinn Fein, Politics of the Republic of Ireland, Gerry Adams, Mary Lou McDonald, president of Sinn Fein_
 
 ## [Previous Day...](/news/2018/02/9/index.md)
 
