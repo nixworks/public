@@ -17,7 +17,7 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ##### 2018 Oaxaca earthquake
 ### [A military helicopter surveying the damage, carrying the Governor of Oaxaca Alejandro Murat Hinojosa and Mexico's Secretary of the Interior Alfonso Navarrete Prida, crashes over Jamiltepec, killing 13 people on the ground. These deaths are the only known ones related to the earthquake reported so far. ](/news/2018/02/17/a-military-helicopter-surveying-the-damage-carrying-the-governor-of-oaxaca-alejandro-murat-hinojosa-and-mexico-s-secretary-of-the-interior.md)
-_Context: Alfonso Navarrete Prida, Alejandro Murat Hinojosa, Mexico's Secretary of the Interior, Governor of Oaxaca, 2018 Oaxaca earthquake, Jamiltepec_
+_Context: 2018 Oaxaca earthquake, Governor of Oaxaca, Alfonso Navarrete Prida, Alejandro Murat Hinojosa, Mexico's Secretary of the Interior, Jamiltepec_
 
 ##### Murder of Zainab Ansari
 ### [An Anti-Terrorism Court in Lahore, Pakistan, sentences Imran Ali to death, for the rape and murder of 7-year-old Zainab Ansari. The victim's family demands Ali's hanging to be conducted in public. ](/news/2018/02/17/an-anti-terrorism-court-in-lahore-pakistan-sentences-imran-ali-to-death-for-the-rape-and-murder-of-7-year-old-zainab-ansari-the-victim-s.md)
@@ -37,15 +37,15 @@ Bombers leave dozens wounded at crowded fish market in Konduga, just outside Mai
 
 ##### 2018 Oaxaca earthquake
 ### [A magnitude 7.2 earthquake strikes near the town of Pinotepa Nacional and is widely felt across Southern and Central Mexico, causing material damages in the states of Guerrero, Oaxaca and Mexico City. It is followed by a 5.8-magnitude aftershock. ](/news/2018/02/16/a-magnitude-7-2-earthquake-strikes-near-the-town-of-pinotepa-nacional-and-is-widely-felt-across-southern-and-central-mexico-causing-materia.md)
-_Context: aftershock, Mexico, Oaxaca, Mexico City, Guerrero, 2018 Oaxaca earthquake, Pinotepa Nacional_
+_Context: Pinotepa Nacional, aftershock, Mexico City, 2018 Oaxaca earthquake, Mexico, Guerrero, Oaxaca_
 
 ##### Crime in Washington
 ### [A teenager is arrested for allegedly planning a school shooting in Everett, Washington. Police found a semi-automatic rifle hidden in a guitar case along with bomb making equipment. ](/news/2018/02/16/a-teenager-is-arrested-for-allegedly-planning-a-school-shooting-in-everett-washington-police-found-a-semi-automatic-rifle-hidden-in-a-guit.md)
-_Context: Crime in Washington, Everett, Washington, school shooting_
+_Context: school shooting, Everett, Washington, Crime in Washington_
 
 ##### War on Terror
 ### [The Court of Appeal in Rabat, Morocco, acquits Younes Chekkouri of undermining the security of the state. Chekkouri was detained in Guantanamo Bay detention camp for 14 years without charges. ](/news/2018/02/16/the-court-of-appeal-in-rabat-morocco-acquits-younes-chekkouri-of-undermining-the-security-of-the-state-chekkouri-was-detained-in-guantana.md)
-_Context: Rabat, Morocco, War on Terror, Guantanamo Bay detention camp_
+_Context: War on Terror, Morocco, Rabat, Guantanamo Bay detention camp_
 
 ##### 2016 Turkish coup d'etat attempt
 ### [A court in Turkey hands life sentences to six journalists, including Ahmet Altan, Mehmet Altan and Nazli Ilicak. ](/news/2018/02/16/a-court-in-turkey-hands-life-sentences-to-six-journalists-including-ahmet-altan-mehmet-altan-and-nazla-ila-cak.md)
@@ -61,7 +61,7 @@ The move is aimed at stemming a wave of anti-government protests, state media re
 
 ##### Rohingya refugees in Bangladesh
 ### [Bangladeshi home minister Asaduzzaman Khan meets with his Burmese counterpart, Kyaw Swe, in Dhaka to discuss the repatriation of Rohingya refugees from Bangladesh to Myanmar. The Burmese delegation accepts a list of 8,032 Rohingya refugees (1,673 families) who are to be repatriated. ](/news/2018/02/16/bangladeshi-home-minister-asaduzzaman-khan-meets-with-his-burmese-counterpart-kyaw-swe-in-dhaka-to-discuss-the-repatriation-of-rohingya-re.md)
-_Context: Asaduzzaman Khan, repatriation, Dhaka, Myanmar, Rohingya refugees in Bangladesh, Rohingya, Bangladesh_
+_Context: Myanmar, Bangladesh, Asaduzzaman Khan, Rohingya, repatriation, Rohingya refugees in Bangladesh, Dhaka_
 
 ---
 
