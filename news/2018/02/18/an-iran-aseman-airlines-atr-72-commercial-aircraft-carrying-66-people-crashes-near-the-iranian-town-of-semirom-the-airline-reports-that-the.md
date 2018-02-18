@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/02/18/an-iran-aseman-airlines-atr-72-commercial-aircr
 
 ### [2018-02-18](/news/2018/02/18/index.md)
 
-##### Iran Aseman Airlines
+##### Iran Aseman Airlines Flight 3704
 # An Iran Aseman Airlines ATR 72 commercial aircraft carrying 66 people crashes near the Iranian town of Semirom. The airline reports that there are no survivors. 
 
 A commercial airliner carrying 66 people has crashed in southern Iran, the country’s semi-official Fars news agency reported.
@@ -12,7 +12,7 @@ A commercial airliner carrying 66 people has crashed in southern Iran, the count
 ### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2018/02/18/airliner-crashes-in-southern-iran-with-66-aboard-report.html)
-2. [AP via Yahoo!](https://www.yahoo.com/news/report-plane-carrying-66-people-crashes-southern-iran-075505242.html?soc_trk=gcm&soc_src=69f70237-124f-3ea9-acd0-fc922af945e2&.tsrc=notification-brknews)
+2. [BBC](http://www.bbc.com/news/world-middle-east-43103192)
 2. [Cover Image](//a57.foxnews.com/images.foxnews.com/content/fox-news/world/2018/02/18/airliner-crashes-in-southern-iran-with-66-aboard-report/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1518941763222.jpg?ve=1)
 
 ### Changes:
