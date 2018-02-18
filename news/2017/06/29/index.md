@@ -33,11 +33,11 @@ NEW DELHI • Bhutan has protested to China over the construction of a road in d
 
 ##### Recognition of same-sex unions in Germany
 ### [German same-sex couples may be able to marry after Chancellor Angela Merkel drops her opposition for a parliamentary vote. ](/news/2017/06/29/german-same-sex-couples-may-be-able-to-marry-after-chancellor-angela-merkel-drops-her-opposition-for-a-parliamentary-vote.md)
-_Context: German, Recognition of same-sex unions in Germany, same-sex marriage, Angela Merkel_
+_Context: Angela Merkel, same-sex marriage, German, Recognition of same-sex unions in Germany_
 
 ##### Crime in Argentina
 ### [A car knocks down the security fences of the Pink House, the Presidential Palace of Argentina, and then stops in front of the building's gate. The authorities reported that the driver of the vehicle had psychiatric disorders and that, in addition, the security personnel present at the time of the incident was separated from his position. It was also learned that this fact took place on 21 June. ](/news/2017/06/29/a-car-knocks-down-the-security-fences-of-the-pink-house-the-presidential-palace-of-argentina-and-then-stops-in-front-of-the-building-s-gat.md)
-_Context: Crime in Argentina, Pink House, Argentina_
+_Context: Pink House, Crime in Argentina, Argentina_
 
 ##### Child sexual abuse in Australia
 ### [Victoria Police charge Cardinal George Pell, the Prefect of the Secretariat for the Economy, and the third most senior official of the Catholic Church, with historic child sex offences. Pell will be required to attend hearings at the Melbourne Magistrates Court in Australia on July 19. ](/news/2017/06/29/victoria-police-charge-cardinal-george-pell-the-prefect-of-the-secretariat-for-the-economy-and-the-third-most-senior-official-of-the-catho.md)
@@ -45,11 +45,11 @@ Australia&#039;s most senior Catholic cleric, Cardinal George Pell, is charged w
 
 ##### Assassination of Boris Nemtsov
 ### [A jury trial convicts five individuals accused of working together to assassinate Boris Nemtsov. These individuals had been promised a bounty of 15 million Russian rubles. Critics say the original financiers and organizers of the crime have not been identified. ](/news/2017/06/29/a-jury-trial-convicts-five-individuals-accused-of-working-together-to-assassinate-boris-nemtsov-these-individuals-had-been-promised-a-bount.md)
-_Context: Russian ruble, Boris Nemtsov, assassination of Boris Nemtsov_
+_Context: Russian ruble, assassination of Boris Nemtsov, Boris Nemtsov_
 
 ##### Gun laws in the Czech Republic
 ### [The Chamber of Deputies of the Czech Republic passes a Czech Social Democratic Party-proposed amendment to the constitution, giving citizens the right to acquire, possess and carry firearms for the purpose of security. The constitutional amendment will now go to the Senate, where it is expected to pass. ](/news/2017/06/29/the-chamber-of-deputies-of-the-czech-republic-passes-a-czech-social-democratic-party-proposed-amendment-to-the-constitution-giving-citizens.md)
-_Context: Gun laws in the Czech Republic, Senate, Czech Social Democratic Party, Czech Republic, Chamber of Deputies, constitution_
+_Context: Czech Republic, Chamber of Deputies, Gun laws in the Czech Republic, constitution, Senate, Czech Social Democratic Party_
 
 ##### Politics of the United Kingdom
 ### [After six days of debate, the House of Commons of the United Kingdom votes to approve, with 323 votes for and 309 against, the policies set out in the Queen's Speech. In order to avoid a 'regret' amendment, Chancellor of the Exchequer Philip Hammond says that England's National Health Service is to provide free abortions to women from Northern Ireland with funds from the Government Equalities Office. ](/news/2017/06/29/after-six-days-of-debate-the-house-of-commons-of-the-united-kingdom-votes-to-approve-with-323-votes-for-and-309-against-the-policies-set.md)

@@ -13,7 +13,7 @@ A cease-fire Sunday brought a tentative calm to Ain al-Hilweh after days of clas
 
 ##### Renovation of Big Ben
 ### [The famed clock tower Big Ben chimes for the final time until 2021 before undergoing repairs. ](/news/2017/08/21/the-famed-clock-tower-big-ben-chimes-for-the-final-time-until-2021-before-undergoing-repairs.md)
-_Context: 2021, Renovation of Big Ben, Big Ben_
+_Context: Renovation of Big Ben, 2021, Big Ben_
 
 ##### Shipwrecks in 2017
 ### [The United States Navy's USS "John S. McCain" collides with the Liberian-flagged "Alnic" MC near Singapore. Rescue efforts are underway with ten sailors reported as missing. ](/news/2017/08/21/the-united-states-navy-s-uss-john-s-mccain-collides-with-the-liberian-flagged-alnic-mc-near-singapore-rescue-efforts-are-underway-with.md)
@@ -29,11 +29,11 @@ Dresnok was among a handful of American servicemen to desert after the Korean wa
 
 ##### Chemical weapons
 ### [Two North Korean shipments to a Syrian government agency of its chemical weapons program were intercepted in the past 6 months, according to a confidential United Nations report on violations of North Korea's sactions. ](/news/2017/08/21/two-north-korean-shipments-to-a-syrian-government-agency-of-its-chemical-weapons-program-were-intercepted-in-the-past-6-months-according-to.md)
-_Context: Sanctions against North Korea, United Nations, chemical weapons_
+_Context: Sanctions against North Korea, chemical weapons, United Nations_
 
 ##### Drug crackdown
 ### [After the shooting of Kian Loyd delos Santos, a 17-year-old student, in the campaign against drugs in the Philippines, thousands of marchers protest in EDSA heeding calls from the Philippine Catholic Church to criticize the drug war. ](/news/2017/08/21/after-the-shooting-of-kian-loyd-delos-santos-a-17-year-old-student-in-the-campaign-against-drugs-in-the-philippines-thousands-of-marchers.md)
-_Context: Philippines, Philippine Catholic Church, shooting of Kian Loyd delos Santos, EDSA, drug crackdown_
+_Context: drug crackdown, Philippine Catholic Church, shooting of Kian Loyd delos Santos, EDSA, Philippines_
 
 ##### Beating of DeAndre Harris
 ### [Virginia Governor Terry McAuliffe calls for arrests related to the beating of a black counterprotester by white supremacists during the Unite the Right rally. (](/news/2017/08/21/virginia-governor-terry-mcauliffe-calls-for-arrests-related-to-the-beating-of-a-black-counterprotester-by-white-supremacists-during-the-unit.md)
@@ -41,7 +41,7 @@ Gov. Terry McAuliffe &ldquo;wants to see arrests and prosecutions&rdquo; in the 
 
 ##### Solar eclipse of August 21, 2017
 ### [Millions of United States residents and visitors are able to witness a total solar eclipse that crosses through North America. It is the first total solar eclipse visible across the entire contiguous United States since the solar eclipse of June 8, 1918. ](/news/2017/08/21/millions-of-united-states-residents-and-visitors-are-able-to-witness-a-total-solar-eclipse-that-crosses-through-north-america-it-is-the-fir.md)
-_Context: United States, Solar eclipse of August 21, 2017, contiguous United States, total solar eclipse, solar eclipse of June 8, 1918, North America_
+_Context: solar eclipse of June 8, 1918, North America, Solar eclipse of August 21, 2017, contiguous United States, total solar eclipse, United States_
 
 ## [Previous Day...](/news/2017/08/20/index.md)
 

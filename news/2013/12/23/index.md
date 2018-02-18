@@ -29,7 +29,7 @@ Both jailed members of Russian punk protest band Pussy Riot, whose imprisonment 
 
 ##### United Kingdom
 ### [Former UK MP Denis MacShane is sentenced to six months in jail for expenses fraud after he admitted to submitting 19 false receipts totaling GBP12,900. ](/news/2013/12/23/former-uk-mp-denis-macshane-is-sentenced-to-six-months-in-jail-for-expenses-fraud-after-he-admitted-to-submitting-19-false-receipts-totaling.md)
-_Context: Denis MacShane, United Kingdom_
+_Context: United Kingdom, Denis MacShane_
 
 ##### Tupelo, Mississippi
 ### [In Tupelo, Mississippi two or three armed bank robbery suspects, fleeing police following a holdup at a Bancorp South, shoot dead one policeman and injure another. ](/news/2013/12/23/in-tupelo-mississippi-two-or-three-armed-bank-robbery-suspects-fleeing-police-following-a-holdup-at-a-bancorp-south-shoot-dead-one-police.md)

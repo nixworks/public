@@ -17,15 +17,15 @@ _Context: Syria, UN peacekeepers, Syrian National Council_
 
 ##### 2011 Yemeni uprising
 ### [Following months of violent protests against his 33-year rule, Yemen's President Ali Abdullah Saleh says he will leave office "within 90 days" of an agreement regarding elections with the regional Gulf Cooperation Council.](/news/2011/11/15/following-months-of-violent-protests-against-his-33-year-rule-yemen-s-president-ali-abdullah-saleh-says-he-will-leave-office-within-90-day.md)
-_Context: Ali Abdullah Saleh, Gulf Cooperation Council, 2011 Yemeni uprising, President_
+_Context: 2011 Yemeni uprising, Ali Abdullah Saleh, President, Gulf Cooperation Council_
 
 ##### Acts of self-immolation
 ### [Following several acts of self-immolation by Tibetans in Tibet, exiled Tibetans in India urge the Chinese government to end its repressive policies restricting the religious freedom of Tibetans. ](/news/2011/11/15/following-several-acts-of-self-immolation-by-tibetans-in-tibet-exiled-tibetans-in-india-urge-the-chinese-government-to-end-its-repressive-p.md)
-_Context: Tibet, repressive policies in Tibet, exiled Tibetans, India, government, acts of self-immolation_
+_Context: Tibet, India, exiled Tibetans, acts of self-immolation, government, repressive policies in Tibet_
 
 ##### Ai Weiwei
 ### [Chinese artist Ai Weiwei pays 8.45 million yuan in taxes after receiving a large number of donations from supporters who believe the debt was politically motivated because of his criticism of the Chinese government. ](/news/2011/11/15/chinese-artist-ai-weiwei-pays-8-45-million-yuan-in-taxes-after-receiving-a-large-number-of-donations-from-supporters-who-believe-the-debt-wa.md)
-_Context: Ai Weiwei, yuan_
+_Context: yuan, Ai Weiwei_
 
 ##### England
 ### [Police in the English city of Birmingham arrest four men in the Sparkhill district in a major anti-terrorism operation. ](/news/2011/11/15/police-in-the-english-city-of-birmingham-arrest-four-men-in-the-sparkhill-district-in-a-major-anti-terrorism-operation.md)
@@ -37,7 +37,7 @@ Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar an
 
 ##### Nauru
 ### [Nauru swears in its third President in less than a week, as President Freddie Pitcher, in office for just six days, is ousted in a 9-8 vote of no confidence. Sprent Dabwido is sworn in as the new president. ](/news/2011/11/15/nauru-swears-in-its-third-president-in-less-than-a-week-as-president-freddie-pitcher-in-office-for-just-six-days-is-ousted-in-a-9-8-vote.md)
-_Context: Freddie Pitcher, vote of no confidence, Nauru, Sprent Dabwido, President of Nauru_
+_Context: Freddie Pitcher, President of Nauru, vote of no confidence, Sprent Dabwido, Nauru_
 
 ##### New York Police Department
 ### [The New York Police Department clears Occupy Wall Street protesters from Zuccotti Park. ](/news/2011/11/15/the-new-york-police-department-clears-occupy-wall-street-protesters-from-zuccotti-park.md)

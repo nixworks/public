@@ -9,7 +9,7 @@ Railway staff continue search for survivors of accident that killed at least 76 
 
 ##### Anthrax
 ### [Anthrax kills 30 hippopotamuses in Uganda. ](/news/2010/06/23/anthrax-kills-30-hippopotamuses-in-uganda.md)
-_Context: hippopotamus, Anthrax, Uganda_
+_Context: Anthrax, Uganda, hippopotamus_
 
 ##### Iraq
 ### [9 Iraqis are killed in bombings, including two leaders of U.S. government-backed Sunni militants. ](/news/2010/06/23/9-iraqis-are-killed-in-bombings-including-two-leaders-of-u-s-government-backed-sunni-militants.md)
@@ -17,7 +17,7 @@ _Context: Sunni Muslim, Iraq_
 
 ##### India
 ### [An Indian colonel dies in Kashmir for the first time in three years. ](/news/2010/06/23/an-indian-colonel-dies-in-kashmir-for-the-first-time-in-three-years.md)
-_Context: Kashmir, India_
+_Context: India, Kashmir_
 
 ##### Air India Flight 182
 ### [Relatives of those killed in Air India Flight 182 gather with diplomats and politicians from Canada, India and Ireland in Cork to mark the 25th anniversary with a memorial service. ](/news/2010/06/23/relatives-of-those-killed-in-air-india-flight-182-gather-with-diplomats-and-politicians-from-canada-india-and-ireland-in-cork-to-mark-the-2.md)
@@ -53,15 +53,15 @@ One person was killed and another seriously injured when a crane suddenly crashe
 
 ##### International Whaling Commission
 ### [The International Whaling Commission does not reach agreement on curbing whaling by Japan, Norway and Iceland in a meeting in Agadir, Morocco. ](/news/2010/06/23/the-international-whaling-commission-does-not-reach-agreement-on-curbing-whaling-by-japan-norway-and-iceland-in-a-meeting-in-agadir-morocc.md)
-_Context: Norway, whaling, Japan, Agadir, Morocco, International Whaling Commission, Iceland_
+_Context: whaling, Agadir, International Whaling Commission, Norway, Japan, Morocco, Iceland_
 
 ##### Palace of Monaco
 ### [The Palace of Monaco announces the engagement of Albert II, Prince of Monaco to South African native and Olympian swimmer Charlene Wittstock. ](/news/2010/06/23/the-palace-of-monaco-announces-the-engagement-of-albert-ii-prince-of-monaco-to-south-african-native-and-olympian-swimmer-charlene-wittstock.md)
-_Context: Palace of Monaco, South Africa, Charlene, Princess of Monaco, Albert II, Prince of Monaco_
+_Context: Charlene, Princess of Monaco, Palace of Monaco, Albert II, Prince of Monaco, South Africa_
 
 ##### BP
 ### [BP chief executive Tony Hayward hands over responsibility for cleaning up the Gulf of Mexico oil spill to senior executive Bob Dudley "effective immediately". ](/news/2010/06/23/bp-chief-executive-tony-hayward-hands-over-responsibility-for-cleaning-up-the-gulf-of-mexico-oil-spill-to-senior-executive-bob-dudley-effec.md)
-_Context: chief executive, Gulf of Mexico, Deepwater Horizon oil spill, Tony Hayward, BP_
+_Context: chief executive, Deepwater Horizon oil spill, BP, Tony Hayward, Gulf of Mexico_
 
 ##### Afghan
 ### [2 American service members die following bomb attacks in southern Afghanistan. ](/news/2010/06/23/2-american-service-members-die-following-bomb-attacks-in-southern-afghanistan.md)
@@ -73,7 +73,7 @@ _Context: Australia_
 
 ##### Toronto
 ### [A Toronto man is charged with possessing explosives alleged to be part of a plot to bomb the 2010 G-20 Toronto summit in Canada. ](/news/2010/06/23/a-toronto-man-is-charged-with-possessing-explosives-alleged-to-be-part-of-a-plot-to-bomb-the-2010-g-20-toronto-summit-in-canada.md)
-_Context: Toronto, G20 summit, Canadian, explosives_
+_Context: G20 summit, explosives, Toronto, Canadian_
 
 ##### Earthquake
 ### [An earthquake occurs 56 kilometres north-northeast of Ottawa, registering a 5.0 on the Richter scale. Slight damage was reported near the epicenter, and the tremor was felt in Sudbury, Windsor, Ann Arbor, Detroit, Toronto, Milwaukee, Northern Pennsylvania, Ohio and New York State. ](/news/2010/06/23/an-earthquake-occurs-56-kilometres-north-northeast-of-ottawa-registering-a-5-0-on-the-richter-scale-slight-damage-was-reported-near-the-ep.md)
@@ -81,7 +81,7 @@ A 5.0 magnitude quake has rocked Ottawa and the surrounding area, sending thousa
 
 ##### Midland, Ontario
 ### [Hours after the earthquake struck Central Canada, severe thunderstorms rolled through Central Ontario, Canada, which has spawned at least 2 tornadoes in cottage country, including one confirmed F-2 tornado touch down in Midland, Ontario, north of Toronto, The most significant damage was reported at Smith's Camp, a trailer park at the south end of the town, where several mobile homes were completely destroyed. ](/news/2010/06/23/hours-after-the-earthquake-struck-central-canada-severe-thunderstorms-rolled-through-central-ontario-canada-which-has-spawned-at-least-2.md)
-_Context: Midland, Ontario, Toronto_
+_Context: Toronto, Midland, Ontario_
 
 ##### Graeme McDowell
 ### [Golfer Graeme McDowell returns home to celebrations after becoming the first European to win the U.S. Open since 1970. ](/news/2010/06/23/golfer-graeme-mcdowell-returns-home-to-celebrations-after-becoming-the-first-european-to-win-the-u-s-open-since-1970.md)

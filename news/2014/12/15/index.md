@@ -17,7 +17,7 @@ The death toll from a mudslide that flattened much of a village in central Indon
 
 ##### Philippines
 ### [Philippine prosecutors charge a United States Marine with murder over the death of Jennifer Laude, a Filipino transgender woman. ](/news/2014/12/15/philippine-prosecutors-charge-a-united-states-marine-with-murder-over-the-death-of-jennifer-laude-a-filipino-transgender-woman.md)
-_Context: U.S. Marine, transgender, Filipino, 2014 killing of a transwoman, Philippines_
+_Context: Filipino, U.S. Marine, transgender, Philippines, 2014 killing of a transwoman_
 
 ##### United Nations Convention on the Law of the Sea
 ### [Authorized by the United Nations Convention on the Law of the Sea, Denmark becomes the first country to officially submit a claim on the North Pole. ](/news/2014/12/15/authorized-by-the-united-nations-convention-on-the-law-of-the-sea-denmark-becomes-the-first-country-to-officially-submit-a-claim-on-the-nor.md)

@@ -13,11 +13,11 @@ _Context: War in Afghanistan (2015-present), police, Logar Province_
 
 ##### Syrian Civil War
 ### [At least 16 people are killed by multiple airstrikes on a prison in Idlib, according to the Syrian Observatory for Human Rights. ](/news/2017/03/25/at-least-16-people-are-killed-by-multiple-airstrikes-on-a-prison-in-idlib-according-to-the-syrian-observatory-for-human-rights.md)
-_Context: Idlib, Syrian Observatory for Human Rights, Syrian Civil War_
+_Context: Syrian Observatory for Human Rights, Idlib, Syrian Civil War_
 
 ##### March 2017 Israel-Syria incident
 ### [In response to several Israeli airstrikes against suspected Hezbollah-related targets inside Syria, Syrian president Bashar al-Assad has threatened wider war with the State of Israel, stating its intention to fire Scud missiles, and specifically target the Israeli city of Haifa. Israel responded by stating that any such actions by the Assad regime, or attacks on its aircraft, will cause Israel to "annihilate" Syrian air defense systems. ](/news/2017/03/25/in-response-to-several-israeli-airstrikes-against-suspected-hezbollah-related-targets-inside-syria-syrian-president-bashar-al-assad-has-thr.md)
-_Context: Bashar al-Assad, Syria, Israel, Haifa, Hezbollah, March 2017 Israel-Syria incident, Scud_
+_Context: Haifa, Hezbollah, Scud, Syria, March 2017 Israel-Syria incident, Bashar al-Assad, Israel_
 
 ##### Sinai insurgency
 ### [A roadside bomb kills four Egyptian Army soldiers near the town of Arish, North Sinai Governorate. ](/news/2017/03/25/a-roadside-bomb-kills-four-egyptian-army-soldiers-near-the-town-of-arish-north-sinai-governorate.md)
@@ -29,7 +29,7 @@ Three people were injured when the car mounted the pavement and sent bodies &quo
 
 ##### Driehaus Architecture Prize
 ### [The Driehaus Architecture Prize for New Classical architecture is awarded to Robert Adam in Chicago. ](/news/2017/03/25/the-driehaus-architecture-prize-for-new-classical-architecture-is-awarded-to-robert-adam-in-chicago.md)
-_Context: New Classical architecture, Driehaus Architecture Prize, Robert Adam, Chicago_
+_Context: Driehaus Architecture Prize, New Classical architecture, Robert Adam, Chicago_
 
 ##### Langham Place
 ### [A 45-meter long escalator at Langham Place in Hong Kong malfunctions injuring at least 18 people. ](/news/2017/03/25/a-45-meter-long-escalator-at-langham-place-in-hong-kong-malfunctions-injuring-at-least-18-people.md)
@@ -37,7 +37,7 @@ _Context: Langham Place, Hong Kong_
 
 ##### European Union
 ### [European Union leaders gather in Rome to mark 60 years since the Treaty of Rome was signed. ](/news/2017/03/25/european-union-leaders-gather-in-rome-to-mark-60-years-since-the-treaty-of-rome-was-signed.md)
-_Context: Treaty of Rome, European Union_
+_Context: European Union, Treaty of Rome_
 
 ##### 
 ### [The UK-US air travel ban on laptops and other electronic devices in the passenger cabin comes into effect. ](/news/2017/03/25/the-uk-us-air-travel-ban-on-laptops-and-other-electronic-devices-in-the-passenger-cabin-comes-into-effect.md)
@@ -51,7 +51,7 @@ Chile and Egypt have also lifted bans imposed over claims that unsafe produce wa
 ### [The Coordination of Azawad Movements, a coalition of Tuareg groups, announce that they will boycott a peace conference scheduled next week on implementing a 2015 peace agreement saying it was "not sufficiently inclusive". ](/news/2017/03/25/the-coordination-of-azawad-movements-a-coalition-of-tuareg-groups-announce-that-they-will-boycott-a-peace-conference-scheduled-next-week-o.md)
 Separatist groups vow to boycott talks with the government next week, explaining they are not sufficiently inclusive.
 
-##### UKIP
+##### UK Independence Party
 ### [The UK Independence Party (UKIP)'s only MP, Douglas Carswell, quits the party to become an independent MP. ](/news/2017/03/25/the-uk-independence-party-ukip-s-only-mp-douglas-carswell-quits-the-party-to-become-an-independent-mp.md)
 MP for Clacton announces he is to become independent MP, having previously defected to Ukip from the Conservatives
 

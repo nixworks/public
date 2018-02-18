@@ -9,15 +9,15 @@ Moamar Gaddafi&#039;s capital falls to rebel forces as his heir is captured and 
 
 ##### Palestinian
 ### [Palestinian militants on the Gaza Strip fire rockets and mortars into Israel despite a truce. ](/news/2011/08/22/palestinian-militants-on-the-gaza-strip-fire-rockets-and-mortars-into-israel-despite-a-truce.md)
-_Context: Gaza Strip, Israel, Palestinian_
+_Context: Israel, Palestinian, Gaza Strip_
 
 ##### Pakistan
 ### [Pakistan announces it will send more troops to Bahrain in support of the King of Bahrain Hamad bin Isa Al Khalifa. ](/news/2011/08/22/pakistan-announces-it-will-send-more-troops-to-bahrain-in-support-of-the-king-of-bahrain-hamad-bin-isa-al-khalifa.md)
-_Context: Pakistan, Bahrain, Hamad bin Isa Al Khalifa, King of Bahrain_
+_Context: Bahrain, Hamad bin Isa Al Khalifa, King of Bahrain, Pakistan_
 
 ##### Soldiers
 ### [The Australian Army reports that another Australian soldier has been killed by an improvised explosive device lost in fighting in Afghanistan. ](/news/2011/08/22/the-australian-army-reports-that-another-australian-soldier-has-been-killed-by-an-improvised-explosive-device-lost-in-fighting-in-afghanista.md)
-_Context: improvised explosive device, Australian, soldiers, Afghan_
+_Context: Australian, soldiers, Afghan, improvised explosive device_
 
 ##### United Nations
 ### [The UN says 600 people have been killed in clashes in South Sudan. ](/news/2011/08/22/the-un-says-600-people-have-been-killed-in-clashes-in-south-sudan.md)
@@ -33,7 +33,7 @@ Nickolas Ashford, who has died aged 69, was a songwriter who, with his wife Vale
 
 ##### Australia
 ### [Australia's BlueScope Steel announces the loss of a thousand jobs with 800 jobs lost in Port Kembla and 200 jobs in Western Port. ](/news/2011/08/22/australia-s-bluescope-steel-announces-the-loss-of-a-thousand-jobs-with-800-jobs-lost-in-port-kembla-and-200-jobs-in-western-port.md)
-_Context: Port Kembla, Western Port, Australia, BlueScope Steel_
+_Context: Australia, Port Kembla, BlueScope Steel, Western Port_
 
 ##### Crude oil
 ### [The price of crude oil falls on world markets due to the downfall of Muammar Gaddafi and bleak global economic outlook. ](/news/2011/08/22/the-price-of-crude-oil-falls-on-world-markets-due-to-the-downfall-of-muammar-gaddafi-and-bleak-global-economic-outlook.md)
@@ -45,11 +45,11 @@ Hurricane Irene could hit the Southeast United States as a major Category 3 stor
 
 ##### New York City
 ### [Prosecutors in New York City ask for charges against former International Monetary Fund head Dominique Strauss-Kahn to be dropped. ](/news/2011/08/22/prosecutors-in-new-york-city-ask-for-charges-against-former-international-monetary-fund-head-dominique-strauss-kahn-to-be-dropped.md)
-_Context: Dominique Strauss-Kahn, International Monetary Fund, New York City_
+_Context: International Monetary Fund, New York City, Dominique Strauss-Kahn_
 
 ##### Jack Layton
 ### [Jack Layton, leader of Canada's New Democratic Party and Leader of the Opposition, dies from cancer at age 61. ](/news/2011/08/22/jack-layton-leader-of-canada-s-new-democratic-party-and-leader-of-the-opposition-dies-from-cancer-at-age-61.md)
-_Context: New Democratic Party, Jack Layton, Leader of the Opposition, Canadian_
+_Context: Canadian, Leader of the Opposition, New Democratic Party, Jack Layton_
 
 ## [Previous Day...](/news/2011/08/21/index.md)
 

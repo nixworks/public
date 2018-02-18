@@ -5,11 +5,11 @@ Formats: [HTML](2010/04/26/index.html)  [JSON](2010/04/26/index.json)  [XML](201
 
 ##### Belgium
 ### [ Belgium's King Albert accepts the resignation of Prime Minister Yves Leterme, ending his government's term and leading to early elections in June 2010. ](/news/2010/04/26/belgium-s-king-albert-accepts-the-resignation-of-prime-minister-yves-leterme-ending-his-government-s-term-and-leading-to-early-elections-i.md)
-_Context: his government, Belgium, Albert II of Belgium, Yves Leterme, election_
+_Context: Belgium, his government, election, Yves Leterme, Albert II of Belgium_
 
 ##### Omar al-Bashir
 ### [In elections marred by boycotts and fraud allegations, Omar al-Bashir is re-elected president of Sudan despite facing war crimes charges and an international arrest warrant. ](/news/2010/04/26/in-elections-marred-by-boycotts-and-fraud-allegations-omar-al-bashir-is-re-elected-president-of-sudan-despite-facing-war-crimes-charges-and.md)
-_Context: Sudan, war crimes, Omar al-Bashir_
+_Context: war crimes, Omar al-Bashir, Sudan_
 
 ##### Grenade
 ### [ Several grenade attacks occur at the homes of former Thai Prime Minister Banharn Silpa-archa and in Chiang Mai. ](/news/2010/04/26/several-grenade-attacks-occur-at-the-homes-of-former-thai-prime-minister-banharn-silpa-archa-and-in-chiang-mai.md)
@@ -21,19 +21,19 @@ Pro-establishment group threatens to move against red shirts if government fails
 
 ##### United Kingdom
 ### [The British ambassador to Yemen, Timothy Torlot, survives an attempted suicide bombing. ](/news/2010/04/26/the-british-ambassador-to-yemen-timothy-torlot-survives-an-attempted-suicide-bombing.md)
-_Context: United Kingdom, Yemen, Timothy Torlot, suicide bombing_
+_Context: suicide bombing, Yemen, United Kingdom, Timothy Torlot_
 
 ##### Panama
 ### [Former dictator of Panama, Manuel Noriega is extradited from the United States to France. ](/news/2010/04/26/former-dictator-of-panama-manuel-noriega-is-extradited-from-the-united-states-to-france.md)
-_Context: Panama, France, United States, Manuel Noriega, extradition_
+_Context: Panama, France, extradition, Manuel Noriega, United States_
 
 ##### Noma
 ### [Noma, located in Copenhagen, Denmark, is named as the "world's best restaurant" in "Restaurant" magazine's annual survey. ](/news/2010/04/26/noma-located-in-copenhagen-denmark-is-named-as-the-world-s-best-restaurant-in-restaurant-magazine-s-annual-survey.md)
-_Context: ''Restaurant'', Denmark, Copenhagen, Noma, annual survey_
+_Context: Noma, annual survey, Copenhagen, ''Restaurant'', Denmark_
 
 ##### 6.5~6.9 earthquake
 ### [ A 6.5~6.9 earthquake strikes near Taitung, south east of Taiwan. ](/news/2010/04/26/a-6-5-6-9-earthquake-strikes-near-taitung-south-east-of-taiwan.md)
-_Context: Taitung, Taiwan, 6.5~6.9 earthquake_
+_Context: Taiwan, 6.5~6.9 earthquake, Taitung_
 
 ##### United States
 ### [By a 6-5 margin, a United States federal appeals court rules that a sex-discrimination lawsuit, the largest employment discrimination case in history, against Wal-Mart can continue. ](/news/2010/04/26/by-a-6-5-margin-a-united-states-federal-appeals-court-rules-that-a-sex-discrimination-lawsuit-the-largest-employment-discrimination-case-i.md)
@@ -53,7 +53,7 @@ Five-day mourning begins for 46 navy personnel who died aboard warship that sank
 
 ##### Government
 ### [ The Government of South Korea announces the completion of the world's longest seawall in a reclaimed tidal flat in Gunsan, North Jeolla Province. ](/news/2010/04/26/the-government-of-south-korea-announces-the-completion-of-the-worldas-longest-seawall-in-a-reclaimed-tidal-flat-in-gunsan-north-jeolla-p.md)
-_Context: Gunsan, South Korea, seawall, government, North Jeolla Province_
+_Context: North Jeolla Province, South Korea, seawall, Gunsan, government_
 
 ## [Previous Day...](/news/2010/04/25/index.md)
 

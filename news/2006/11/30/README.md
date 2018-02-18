@@ -13,11 +13,11 @@ _Context: 2006 Atlantic hurricane season_
 
 ##### 2004-2007 Bush War
 ### [ Central African Republic Bush War: French fighter planes have fired at rebels in northern Central African Republic (CAR) where thousands have fled fighting in recent weeks. ](/news/2006/11/30/central-african-republic-bush-war-french-fighter-planes-have-fired-at-rebels-in-northern-central-african-republic-car-where-thousands-ha.md)
-_Context: Central African Republic, 2004-2007 Bush War, France_
+_Context: 2004-2007 Bush War, Central African Republic, France_
 
 ##### ''Nature''
 ### [ The science journal "Nature" publishes a new reconstruction of the Antikythera mechanism based on high resolution X-ray tomography. The Antikythera mechanism is an ancient Greek mechanical analog computer designed to calculate astronomical positions. ](/news/2006/11/30/the-science-journal-nature-publishes-a-new-reconstruction-of-the-antikythera-mechanism-based-on-high-resolution-x-ray-tomography-the-ant.md)
-_Context: Antikythera mechanism, ''Nature''_
+_Context: ''Nature'', Antikythera mechanism_
 
 ##### U.S. Institute of Peace
 ### [ The U.S. Institute of Peace announces that the Iraq Study Group report will be released to the public December 6, 2006. The group, charged with conducting a forward-looking assessment of the situation in Iraq, is expected to present their findings to President George W. Bush on that day. The report will be available for download on USIP's ](/news/2006/11/30/the-u-s-institute-of-peace-announces-that-the-iraq-study-group-report-will-be-released-to-the-public-december-6-2006-the-group-charged.md)
@@ -25,23 +25,23 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Clashes
 ### [ At least 300 people were killed in clashes between Sudan's army and former rebels in the south earlier this week, aid workers say. ](/news/2006/11/30/at-least-300-people-were-killed-in-clashes-between-sudan-s-army-and-former-rebels-in-the-south-earlier-this-week-aid-workers-say.md)
-_Context: Sudan, clashes_
+_Context: clashes, Sudan_
 
 ##### Nicolas Sarkozy
 ### [ Nicolas Sarkozy, the French Interior Minister, announces plans to run as a candidate for the French Presidency in elections in April 2007. ](/news/2006/11/30/nicolas-sarkozy-the-french-interior-minister-announces-plans-to-run-as-a-candidate-for-the-french-presidency-in-elections-in-april-2007.md)
-_Context: minister of the interior, Nicolas Sarkozy, 2007 presidential election, French President_
+_Context: French President, minister of the interior, Nicolas Sarkozy, 2007 presidential election_
 
 ##### Hezbollah
 ### [ Hezbollah-led Lebanon opposition groups call for protests on Friday in an effort to bring down the Government, ](/news/2006/11/30/hezbollah-led-lebanon-opposition-groups-call-for-protests-on-friday-in-an-effort-to-bring-down-the-government.md)
-_Context: Hezbollah, Lebanese_
+_Context: Lebanese, Hezbollah_
 
 ##### U.S. President
 ### [ A meeting between the President of the United States George W. Bush and the Prime Minister of Iraq Nouri al-Maliki in Jordan is cancelled. A classified Bush administration memo critical of the ability of al-Maliki to bring sectarian conflict under control had previously been published in "The New York Times". In a later meeting, they decided that Iraq should not be divided into semi-autonomous zones. ](/news/2006/11/30/a-meeting-between-the-president-of-the-united-states-george-w-bush-and-the-prime-minister-of-iraq-nouri-al-maliki-in-jordan-is-cancelled.md)
-_Context: George W. Bush, Nouri al-Maliki, The New York Times, U.S. President, Iraq Prime Minister, George W. Bush administration, sectarian conflict, Jordan_
+_Context: George W. Bush administration, The New York Times, Jordan, George W. Bush, sectarian conflict, U.S. President, Iraq Prime Minister, Nouri al-Maliki_
 
 ##### Prime Minister
 ### [ The Prime Minister of Fiji Laisenia Qarase partially agrees to demands by the head of the Fijian military Commodore Frank Bainimarama in order to avert a coup. Bainimarama rejects the compromise and issues a deadline of noon on Friday. ](/news/2006/11/30/the-prime-minister-of-fiji-laisenia-qarase-partially-agrees-to-demands-by-the-head-of-the-fijian-military-commodore-frank-bainimarama-in-or.md)
-_Context: Fiji, Laisenia Qarase, Prime Minister, Voreqe Bainimarama_
+_Context: Prime Minister, Voreqe Bainimarama, Laisenia Qarase, Fiji_
 
 ## [Previous Day...](/news/2006/11/29/index.md)
 

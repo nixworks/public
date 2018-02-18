@@ -9,7 +9,7 @@ South Sudanese rebels and the army have accused each other for the second time t
 
 ##### Iraq War (2014-present)
 ### [A car bomb detonates in the parking lot of a Baghdad police station while police attempt to defuse it, killing six officers and injuring another ten. ](/news/2015/08/28/a-car-bomb-detonates-in-the-parking-lot-of-a-baghdad-police-station-while-police-attempt-to-defuse-it-killing-six-officers-and-injuring-ano.md)
-_Context: car bomb, Iraq War (2014-present), Baghdad_
+_Context: Baghdad, car bomb, Iraq War (2014-present)_
 
 ##### 2015 India-Pakistan border skirmishes
 ### [Indian and Pakistani border guards exchange gunfire over the disputed Kashmir border with nine civilians killed and 63 injured. ](/news/2015/08/28/indian-and-pakistani-border-guards-exchange-gunfire-over-the-disputed-kashmir-border-with-nine-civilians-killed-and-63-injured.md)
@@ -37,7 +37,7 @@ _Context: Chinese, paper mill_
 
 ##### Umhlanga
 ### [Thirty-eight girls and young women die in a crash and twenty others on board the truck receive injuries while travelling to the traditional Umhlanga ceremony in Swaziland. ](/news/2015/08/28/thirty-eight-girls-and-young-women-die-in-a-crash-and-twenty-others-on-board-the-truck-receive-injuries-while-travelling-to-the-traditional.md)
-_Context: Swaziland, Umhlanga_
+_Context: Umhlanga, Swaziland_
 
 ##### Colombia-Venezuela relations
 ### [Colombia and Venezuela recall their respective ambassadors amid rising tensions after a Venezuelan crackdown on Colombian migrants. ](/news/2015/08/28/colombia-and-venezuela-recall-their-respective-ambassadors-amid-rising-tensions-after-a-venezuelan-crackdown-on-colombian-migrants.md)
@@ -49,19 +49,19 @@ Turkish police detain two British journalists from Vice News covering the unrest
 
 ##### France
 ### [Authorities arrest two French journalists for allegedly attempting to blackmail King Mohammed VI of Morocco. ](/news/2015/08/28/authorities-arrest-two-french-journalists-for-allegedly-attempting-to-blackmail-king-mohammed-vi-of-morocco.md)
-_Context: blackmail, France, King Mohammed VI of Morocco_
+_Context: King Mohammed VI of Morocco, blackmail, France_
 
 ##### Truong TCNYn Sang
 ### [President Truong TCNYn Sang of Vietnam signs two directives granting amnesty to 18,539 prisoners including murderers, rapists, human traffickers, and other criminals, but no political prisoners were released. ](/news/2015/08/28/president-traedegae-ng-taocnyn-sang-of-vietnam-signs-two-directives-granting-amnesty-to-18-539-prisoners-including-murderers-rapists-human-tra.md)
-_Context: Vietnam, Truong TCNYn Sang_
+_Context: Truong TCNYn Sang, Vietnam_
 
 ##### New Mexico Secretary of State
 ### [Authorities charge New Mexico Secretary of State Dianna Duran with 64 counts including fraud, embezzlement, and money laundering. ](/news/2015/08/28/authorities-charge-new-mexico-secretary-of-state-dianna-duran-with-64-counts-including-fraud-embezzlement-and-money-laundering.md)
-_Context: Dianna Duran, embezzlement, money laundering, fraud, New Mexico Secretary of State_
+_Context: money laundering, Dianna Duran, embezzlement, fraud, New Mexico Secretary of State_
 
 ##### Greek government-debt crisis
 ### [Interim Prime Minister of Greece Vassiliki Thanou-Christophilou, the country's first female prime minister, was sworn in Thursday. The PM named her caretaker government cabinet that will oversee implementation of austerity measures required by the latest debt bailout with Eurogroup. Elections, required after Alexis Tsipras resigned last week, are scheduled for September 20, 2015, the third time Greeks will be going to the polls this year. ](/news/2015/08/28/interim-prime-minister-of-greece-vassiliki-thanou-christophilou-the-country-s-first-female-prime-minister-was-sworn-in-thursday-the-pm-na.md)
-_Context: Alexis Tsipras, Greek Prime Minister, Eurogroup, Vassiliki Thanou-Christophilou, Greek government-debt crisis, austerity measures, caretaker government_
+_Context: Greek government-debt crisis, Alexis Tsipras, Vassiliki Thanou-Christophilou, Eurogroup, Greek Prime Minister, austerity measures, caretaker government_
 
 ## [Previous Day...](/news/2015/08/27/index.md)
 

@@ -37,11 +37,11 @@ The United Nations General Assembly votes unanimously to accept South Sudan as i
 
 ##### Sir Christopher Rose
 ### [Sir Christopher Rose is to investigate reports that surveillance tapes recorded by UK police spy Mark Kennedy were suppressed by prosecutors. ](/news/2011/07/13/sir-christopher-rose-is-to-investigate-reports-that-surveillance-tapes-recorded-by-uk-police-spy-mark-kennedy-were-suppressed-by-prosecutors.md)
-_Context: Mark Kennedy, Sir Christopher Rose_
+_Context: Sir Christopher Rose, Mark Kennedy_
 
 ##### High Court
 ### [The High Court of Malaysia sets dates for the trial of Opposition Leader Anwar Ibrahim on sodomy charges from August 8 to 26. ](/news/2011/07/13/the-high-court-of-malaysia-sets-dates-for-the-trial-of-opposition-leader-anwar-ibrahim-on-sodomy-charges-from-august-8-to-26.md)
-_Context: Malaysia, Anwar Ibrahim, trial, High Court_
+_Context: Malaysia, Anwar Ibrahim, High Court, trial_
 
 ##### Irish
 ### [Ireland prepares for the release of a 400-page report into the sexual abuse of children by priests. ](/news/2011/07/13/ireland-prepares-for-the-release-of-a-400-page-report-into-the-sexual-abuse-of-children-by-priests.md)
@@ -53,11 +53,11 @@ A Palestinian man is killed in an Israeli military raid on a West Bank refugee c
 
 ##### Mexican Drug War
 ### [Mexico's federal police capture a man who was allegedly the top hitman for the Knights Templar drug cartel. ](/news/2011/07/13/mexico-s-federal-police-capture-a-man-who-was-allegedly-the-top-hitman-for-the-knights-templar-drug-cartel.md)
-_Context: drug cartel, Mexican Drug War, Knights Templar, Mexican Police_
+_Context: Mexican Drug War, Knights Templar, drug cartel, Mexican Police_
 
 ##### Rupert Murdoch
 ### [U.S. senators call for a legal investigation into allegations that Rupert Murdoch's News Corporation hacked victims of the September 11 attacks as the phone hacking scandal continues. ](/news/2011/07/13/u-s-senators-call-for-a-legal-investigation-into-allegations-that-rupert-murdoch-s-news-corporation-hacked-victims-of-the-september-11-atta.md)
-_Context: Rupert Murdoch, September 11 attacks, News Corporation, phone hacking_
+_Context: News Corporation, phone hacking, September 11 attacks, Rupert Murdoch_
 
 ##### David Cameron
 ### [David Cameron, the Prime Minister of the United Kingdom, makes a statement to the House of Commons in relation to the judicial inquiry into the "News of the World" phone hacking affair, hours before the announcement that Rupert Murdoch's News Corporation had withdrawn its bid to take full ownership of BSkyB. ](/news/2011/07/13/david-cameron-the-prime-minister-of-the-united-kingdom-makes-a-statement-to-the-house-of-commons-in-relation-to-the-judicial-inquiry-into.md)
@@ -69,7 +69,7 @@ Premier Colin Barnett has refused to back a call from one of his most senior min
 
 ##### Thailand
 ### [Thailand's Election Commission fails to endorse 142 prospective members of the House of Representatives including incoming Prime Minister Yingluck Shinawatra and outgoing Prime Minister Abhisit Vejjajiva. ](/news/2011/07/13/thailand-s-election-commission-fails-to-endorse-142-prospective-members-of-the-house-of-representatives-including-incoming-prime-minister-yi.md)
-_Context: Thailand, House of Representatives, Yingluck Shinawatra, Abhisit Vejjajiva, Prime Minister_
+_Context: Abhisit Vejjajiva, Yingluck Shinawatra, Prime Minister, Thailand, House of Representatives_
 
 ##### Prime Minister of Japan
 ### [Prime Minister of Japan Naoto Kan tells a news conference of his plans to wean the country off nuclear energy after the Fukushima Daiichi nuclear disaster. ](/news/2011/07/13/prime-minister-of-japan-naoto-kan-tells-a-news-conference-of-his-plans-to-wean-the-country-off-nuclear-energy-after-the-fukushima-daiichi-nu.md)
@@ -77,7 +77,7 @@ Japanese prime minister vows to move country towards renewable energy after disa
 
 ##### U.S. President
 ### [The President of the United States Barack Obama reportedly walks out of negotiations with Republican Party leaders on tackling debt and deficits as Moody's Investor Services warns of a potential loss of a AAA credit rating. ](/news/2011/07/13/the-president-of-the-united-states-barack-obama-reportedly-walks-out-of-negotiations-with-republican-party-leaders-on-tackling-debt-and-defi.md)
-_Context: Republican, U.S. President, Barack Obama, Moody's_
+_Context: Barack Obama, Moody's, U.S. President, Republican_
 
 ##### Antiretroviral drugs
 ### [Two studies show that antiretroviral drugs taken to treat AIDS can also be used to prevent infection with HIV. ](/news/2011/07/13/two-studies-show-that-antiretroviral-drugs-taken-to-treat-aids-can-also-be-used-to-prevent-infection-with-hiv.md)

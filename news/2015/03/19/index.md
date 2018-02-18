@@ -25,7 +25,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### New Bern, North Carolina
 ### [A stabbing attack from March 17, leaves three dead and three wounded in New Bern, North Carolina, both the 18-year-old attacker and victims were refugees from Myanmar (Burma). ](/news/2015/03/19/a-stabbing-attack-from-march-17-leaves-three-dead-and-three-wounded-in-new-bern-north-carolina-both-the-18-year-old-attacker-and-victims.md)
-_Context: New Bern, North Carolina, Myanmar_
+_Context: Myanmar, New Bern, North Carolina_
 
 ##### From China
 ### [A March 17 DOS attack occurs on Chinese website GreatFire, reaching 2.5 billion spoof requests per hour. ](/news/2015/03/19/a-march-17-dos-attack-occurs-on-chinese-website-greatfire-reaching-2-5-billion-spoof-requests-per-hour.md)

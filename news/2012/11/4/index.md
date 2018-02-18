@@ -29,7 +29,7 @@ _Context: Abdi Farah Shirdon, Fowsiyo Yussuf Haji Aadan_
 
 ##### Tawadros
 ### [Bishop Tawadros is selected as the new 118th pope of the Coptic Orthodox Church. ](/news/2012/11/4/bishop-tawadros-is-selected-as-the-new-118th-pope-of-the-coptic-orthodox-church.md)
-_Context: 118th, Coptic Orthodox Church, Tawadros, Coptic Christian pope_
+_Context: Coptic Christian pope, Coptic Orthodox Church, 118th, Tawadros_
 
 ## [Previous Day...](/news/2012/11/3/index.md)
 

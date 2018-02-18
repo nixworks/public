@@ -9,11 +9,11 @@ Police in Venezuela search for a soldier who shot dead two officers and wounded 
 
 ##### Philippines
 ### [The Philippines and the United States hold a joint exercise of their forces. ](/news/2010/08/22/the-philippines-and-the-united-states-hold-a-joint-exercise-of-their-forces.md)
-_Context: United States, Philippines_
+_Context: Philippines, United States_
 
 ##### Brazil
 ### [Brazilian police rescue 35 hostages from InterContinental in So Conrado, Rio de Janeiro. ](/news/2010/08/22/brazilian-police-rescue-35-hostages-from-intercontinental-in-sao-conrado-rio-de-janeiro.md)
-_Context: So Conrado, InterContinental, Brazil, Rio de Janeiro_
+_Context: InterContinental, So Conrado, Rio de Janeiro, Brazil_
 
 ##### Transitional Federal Government
 ### [The Government of Somalia claims that 10 members of the al-Shabab militant group have been killed when bombs they were preparing went off prematurely in Mogadishu. ](/news/2010/08/22/the-government-of-somalia-claims-that-10-members-of-the-al-shabab-militant-group-have-been-killed-when-bombs-they-were-preparing-went-off-pr.md)
@@ -45,15 +45,15 @@ Thirty-three&#x20;Chilean&#x20;miners&#x20;trapped&#x20;more&#x20;than&#x20;two&
 
 ##### Bolivia
 ### [A Bolivian-flagged all-female international aid ship bound for Gaza is delayed as Cyprus bans it from passing, with Israel's Ehud Barak calling on France and the United States to prevent it from sailing because, he says, it is "a needless provocation". ](/news/2010/08/22/a-bolivian-flagged-all-female-international-aid-ship-bound-for-gaza-is-delayed-as-cyprus-bans-it-from-passing-with-israel-s-ehud-barak-call.md)
-_Context: United States, France, Cypriot, Bolivia, Gaza Strip, Israel, Ehud Barak_
+_Context: Israel, Ehud Barak, United States, Gaza Strip, Bolivia, Cypriot, France_
 
 ##### Iran
 ### [Iran unveils a long range unmanned bomber, the Karrar drone their latest addition in a number of recently disclosed military hardware. ](/news/2010/08/22/iran-unveils-a-long-range-unmanned-bomber-the-karrar-drone-their-latest-addition-in-a-number-of-recently-disclosed-military-hardware.md)
-_Context: Iran, drone aircraft_
+_Context: drone aircraft, Iran_
 
 ##### Wassel Abu Yousef
 ### [Palestinian official Wassel Abu Yousef objects to Israeli Prime Minister Benjamin Netanyahu's talk of "preconditions" that the Palestinians should recognize Israel as the state of Jews and says such comments are a threat to direct talks next month. ](/news/2010/08/22/palestinian-official-wassel-abu-yousef-objects-to-israeli-prime-minister-benjamin-netanyahu-s-talk-of-preconditions-that-the-palestinians.md)
-_Context: Benjamin Netanyahu, Israeli Prime Minister, Wassel Abu Yousef_
+_Context: Wassel Abu Yousef, Israeli Prime Minister, Benjamin Netanyahu_
 
 ##### South Africa
 ### [South African trade unions state that a court injunction successfully sought by the government is intended to "intimidate" workers who are striking in the hope of receiving better pay. ](/news/2010/08/22/south-african-trade-unions-state-that-a-court-injunction-successfully-sought-by-the-government-is-intended-to-intimidate-workers-who-are-s.md)

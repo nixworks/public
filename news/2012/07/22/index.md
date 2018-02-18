@@ -37,7 +37,7 @@ The president of the Libyan Olympic Committee, Nabil al-Alam, is released - a we
 
 ##### Pranab Mukherjee
 ### [Pranab Mukherjee is elected as the new President of India. ](/news/2012/07/22/pranab-mukherjee-is-elected-as-the-new-president-of-india.md)
-_Context: President of India, Pranab Mukherjee, elected_
+_Context: Pranab Mukherjee, elected, President of India_
 
 ##### U.S. President
 ### [U.S. President Barack Obama visits the town of Aurora, Colorado, to console the families of victims of the recent shooting that left 12 dead and dozens injured. ](/news/2012/07/22/u-s-president-barack-obama-visits-the-town-of-aurora-colorado-to-console-the-families-of-victims-of-the-recent-shooting-that-left-12-dead.md)

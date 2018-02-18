@@ -5,7 +5,7 @@ Formats: [HTML](2012/04/23/index.html)  [JSON](2012/04/23/index.json)  [XML](201
 
 ##### Bangladesh
 ### [At least two people are killed and hundreds of others injured in clashes between police and protestors during a nationwide strike in Bangladesh, which was triggered by the unexplained disappearance of opposition politician Ilyas Ali. ](/news/2012/04/23/at-least-two-people-are-killed-and-hundreds-of-others-injured-in-clashes-between-police-and-protestors-during-a-nationwide-strike-in-banglad.md)
-_Context: Ilyas Ali, Bangladesh_
+_Context: Bangladesh, Ilyas Ali_
 
 ##### Iran's oil ministry
 ### [Iran's oil ministry and its National Iranian Oil Company suffers a malware attack by a computer virus. ](/news/2012/04/23/iran-s-oil-ministry-and-its-national-iranian-oil-company-suffers-a-malware-attack-by-a-computer-virus.md)
@@ -33,7 +33,7 @@ _Context: Sacha Baron Cohen, Kazakhstan, Borat Sagdiyev_
 
 ##### European Union
 ### [The European Union suspends most trade sanctions against Myanmar for a year but leaves an arms embargo in place. ](/news/2012/04/23/the-european-union-suspends-most-trade-sanctions-against-myanmar-for-a-year-but-leaves-an-arms-embargo-in-place.md)
-_Context: European Union, Myanmar_
+_Context: Myanmar, European Union_
 
 ##### North Korea
 ### [North Korea threatens to reduce South Korea to "ashes" after the failed North Korean rocket launch. ](/news/2012/04/23/north-korea-threatens-to-reduce-south-korea-to-ashes-after-the-failed-north-korean-rocket-launch.md)
@@ -41,7 +41,7 @@ _Context: North Korea, failed North Korean rocket launch, South Korea_
 
 ##### Chinese
 ### [In accordance with a request from the South Korean government, China stops the deportation of North Korean defectors who escape to China. ](/news/2012/04/23/in-accordance-with-a-request-from-the-south-korean-government-china-stops-the-deportation-of-north-korean-defectors-who-escape-to-china.md)
-_Context: defects, Chinese_
+_Context: Chinese, defects_
 
 ##### Geir Haarde
 ### [Former Icelandic prime minister Geir Haarde is found not guilty of negligence over the island's 2008 economic meltdown. He is to face no punishment and his legal expenses are to be paid. ](/news/2012/04/23/former-icelandic-prime-minister-geir-haarde-is-found-not-guilty-of-negligence-over-the-island-s-2008-economic-meltdown-he-is-to-face-no-pun.md)
@@ -61,7 +61,7 @@ The police chief who chose not to arrest George Zimmerman after he shot and kill
 
 ##### North Carolina
 ### [The North Carolina trial of former U.S. Senator and presidential hopeful John Edwards, concerning the use of illegal campaign donations to cover up an affair with a mistress, begins. ](/news/2012/04/23/the-north-carolina-trial-of-former-u-s-senator-and-presidential-hopeful-john-edwards-concerning-the-use-of-illegal-campaign-donations-to-c.md)
-_Context: John Edwards, North Carolina, an affair, United States Senate_
+_Context: an affair, John Edwards, United States Senate, North Carolina_
 
 ##### Chinese
 ### [Around 45 people are detained across China in a tainted capsule medicine scandal. ](/news/2012/04/23/around-45-people-are-detained-across-china-in-a-tainted-capsule-medicine-scandal.md)
@@ -73,11 +73,11 @@ Three men appear in court in Newry charged with involvement in terrorist activit
 
 ##### Prime Minister
 ### [Prime Minister of the Netherlands Mark Rutte tenders his government's resignation to Queen Beatrix, paving the way for early elections. ](/news/2012/04/23/prime-minister-of-the-netherlands-mark-rutte-tenders-his-government-s-resignation-to-queen-beatrix-paving-the-way-for-early-elections.md)
-_Context: Mark Rutte, Beatrix, Prime Minister_
+_Context: Beatrix, Prime Minister, Mark Rutte_
 
 ##### Burma
 ### [Burma's parliament opens without the party of Aung San Suu Kyi who boycotted the legislature over a disagreement on the wording of the oath of office. ](/news/2012/04/23/burma-s-parliament-opens-without-the-party-of-aung-san-suu-kyi-who-boycotted-the-legislature-over-a-disagreement-on-the-wording-of-the-oath.md)
-_Context: Aung San Suu Kyi, oath of office, parliament, National League for Democracy, Burma_
+_Context: Aung San Suu Kyi, National League for Democracy, Burma, oath of office, parliament_
 
 ##### Canadian
 ### [Voters in the Canadian province of Alberta go to the polls for a general election with the incumbent Progressive Conservatives being reelected. ](/news/2012/04/23/voters-in-the-canadian-province-of-alberta-go-to-the-polls-for-a-general-election-with-the-incumbent-progressive-conservatives-being-reelect.md)
@@ -89,7 +89,7 @@ Venezuelan President Hugo Chavez phones state TV to deny rumours he has died whi
 
 ##### Orca
 ### [Scientists record what they believe to be the first adult white orca in the wild off the coast of Kamchatka, Russia. ](/news/2012/04/23/scientists-record-what-they-believe-to-be-the-first-adult-white-orca-in-the-wild-off-the-coast-of-kamchatka-russia.md)
-_Context: orca, Russia, Kamchatka_
+_Context: Kamchatka, Russia, orca_
 
 ## [Previous Day...](/news/2012/04/22/index.md)
 

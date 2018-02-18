@@ -13,11 +13,11 @@ _Context: DR Congo, Ituri_
 
 ##### Chinese
 ### [ More than 80 people dead and missing in China as a result of Typhoon Kaemi. ](/news/2006/07/27/more-than-80-people-dead-and-missing-in-china-as-a-result-of-typhoon-kaemi.md)
-_Context: Typhoon Kaemi, Chinese_
+_Context: Chinese, Typhoon Kaemi_
 
 ##### Rome, Italy
 ### [ In Rome, the President of the Venice Biennale Davide Croff and the Director of the 63rd Venice Film Festival Marco Mller have presented the line-up of the festival, which runs August 30 - September 9. ](/news/2006/07/27/in-rome-the-president-of-the-venice-biennale-davide-croff-and-the-director-of-the-63rd-venice-film-festival-marco-muller-have-presented-th.md)
-_Context: Rome, Italy, Venice Film Festival, Venice Biennale_
+_Context: Venice Film Festival, Venice Biennale, Rome, Italy_
 
 ##### 2006 Kodori crisis
 ### [ 2006 Kodori crisis: the rebel renegade Emzar Kvitsiani escapes as one civilian gets killed in the fighting. ](/news/2006/07/27/2006-kodori-crisis-the-rebel-renegade-emzar-kvitsiani-escapes-as-one-civilian-gets-killed-in-the-fighting.md)
@@ -25,7 +25,7 @@ _Context: Emzar Kvitsiani, 2006 Kodori crisis_
 
 ##### Fu Xiancai
 ### [ The government investigation of the assault that partially paralyzed Fu Xiancai, a Chinese activist protesting the displacement caused by the Three Gorges Dam, concludes that he hit himself in the back of the neck, breaking three vertebrae. ](/news/2006/07/27/the-government-investigation-of-the-assault-that-partially-paralyzed-fu-xiancai-a-chinese-activist-protesting-the-displacement-caused-by-t.md)
-_Context: Fu Xiancai, vertebra, China, displacement, Three Gorges Dam_
+_Context: Fu Xiancai, displacement, vertebra, Three Gorges Dam, China_
 
 ##### 2006
 ### [ The team for 2006 Tour de France winner Floyd Landis announces that he failed a drug test during the race, with high levels of testosterone. ](/news/2006/07/27/the-team-for-2006-tour-de-france-winner-floyd-landis-announces-that-he-failed-a-drug-test-during-the-race-with-high-levels-of-testosterone.md)

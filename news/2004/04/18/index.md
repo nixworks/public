@@ -5,19 +5,19 @@ Formats: [HTML](2004/04/18/index.html)  [JSON](2004/04/18/index.json)  [XML](200
 
 ##### Iran
 ### [ The Iranian Vice Speaker of Parliament, Behzad Nabavi, resigns over "violation of public rights". ](/news/2004/04/18/the-iranian-vice-speaker-of-parliament-behzad-nabavi-resigns-over-violation-of-public-rights.md)
-_Context: Behzad Nabavi, Iran, Majlis of Iran_
+_Context: Iran, Majlis of Iran, Behzad Nabavi_
 
 ##### Omar Bakri Muhammad
 ### [ Sheikh Omar Bakri Muhammad says the "life of an unbeliever has no value, it has no sanctity" and states that several Islamic militant groups are planning a terrorist attack on London, making such an attack inevitable. ](/news/2004/04/18/sheikh-omar-bakri-muhammad-says-the-life-of-an-unbeliever-has-no-value-it-has-no-sanctity-and-states-that-several-islamic-militant-group.md)
-_Context: militant, Islam, terrorist, Omar Bakri Muhammad_
+_Context: terrorist, militant, Omar Bakri Muhammad, Islam_
 
 ##### Prime Minister
 ### [ The new Prime Minister of Spain, Jos Luis Rodrguez Zapatero, orders that all Spanish troops should be brought home from Iraq "in as short a time as possible", in accordance with "the will of the Spanish people". ](/news/2004/04/18/the-new-prime-minister-of-spain-jose-luis-rodriguez-zapatero-orders-that-all-spanish-troops-should-be-brought-home-from-iraq-in-as-short.md)
-_Context: Iraq, Prime Minister, Jos Luis Rodrguez Zapatero_
+_Context: Iraq, Jos Luis Rodrguez Zapatero, Prime Minister_
 
 ##### Kosovo
 ### [ In Kosovo, a Jordanian UN police officer opens fire upon a convoy of UN police officers killing two female Americans and injuring eleven others. The attack reportedly stemmed from an argument between American and Jordanian UN police over Iraq policies. ](/news/2004/04/18/in-kosovo-a-jordanian-un-police-officer-opens-fire-upon-a-convoy-of-un-police-officers-killing-two-female-americans-and-injuring-eleven-ot.md)
-_Context: Kosovo, United Nations, Iraq, Jordan_
+_Context: Jordan, United Nations, Kosovo, Iraq_
 
 ##### Al-Qaeda
 ### [ Fighting breaks out between Pakistani and al-Qaeda fighters near the Pakistan-Afghanistan border. ](/news/2004/04/18/fighting-breaks-out-between-pakistani-and-al-qaeda-fighters-near-the-pakistan-afghanistan-border.md)
@@ -29,7 +29,7 @@ _Context: Hamas_
 
 ##### 9/11 Commission
 ### [ 9-11 Commission member Jamie S. Gorelick receives death threats after allegations that her actions to keep law-enforcement from using military intelligence may have contributed to lapses leading to the attacks. Meanwhile, the "Washington Times" reports allegations by former FBI Director Thomas J. Pickard that Gorelick resisted efforts by the FBI to expand the counterterrorism effort beyond simple law enforcement tactics and agencies. ](/news/2004/04/18/9-11-commission-member-jamie-s-gorelick-receives-death-threats-after-allegations-that-her-actions-to-keep-law-enforcement-from-using-milit.md)
-_Context: Washington Times, military intelligence, Jamie S. Gorelick, 9/11 Commission, FBI, Thomas J. Pickard, counterterrorism, September 11, 2001 attacks_
+_Context: military intelligence, September 11, 2001 attacks, Washington Times, Jamie S. Gorelick, counterterrorism, FBI, 9/11 Commission, Thomas J. Pickard_
 
 ## [Previous Day...](/news/2004/04/17/index.md)
 

@@ -13,7 +13,7 @@ Militants killed at least 22 members of the security forces in Iraq on Tuesday, 
 
 ##### Apple Inc.
 ### [Apple announces the introduction of iPad Air and the availability of the newest version of OS X, Mavericks. ](/news/2013/10/22/apple-announces-the-introduction-of-ipad-air-and-the-availability-of-the-newest-version-of-os-x-mavericks.md)
-_Context: OS X, Apple Inc., iPad Air, Mavericks_
+_Context: OS X, iPad Air, Mavericks, Apple Inc._
 
 ##### Australian Capital Territory
 ### [Australian Capital Territory becomes the first Australian territory to legalize same-sex marriage while the Government of Australia launches a legal challenge in the High Court. ](/news/2013/10/22/australian-capital-territory-becomes-the-first-australian-territory-to-legalize-same-sex-marriage-while-the-government-of-australia-launches.md)

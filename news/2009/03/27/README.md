@@ -5,7 +5,7 @@ Formats: [HTML](2009/03/27/index.html)  [JSON](2009/03/27/index.json)  [XML](200
 
 ##### Serial Shooter Dale Hausner
 ### [ Serial Shooter Dale Hausner receives six death sentences for six murders committed between 2005 and 2006. ](/news/2009/03/27/serial-shooter-dale-hausner-receives-six-death-sentences-for-six-murders-committed-between-2005-and-2006.md)
-_Context: Serial Shooter Dale Hausner, murder, death penalty_
+_Context: death penalty, murder, Serial Shooter Dale Hausner_
 
 ##### Helicopter
 ### [ All six people in a recent helicopter accident are discovered dead in Turkey. ](/news/2009/03/27/all-six-people-in-a-recent-helicopter-accident-are-discovered-dead-in-turkey.md)
@@ -13,7 +13,7 @@ All six people aboard a helicopter that crashed on a Turkish mountaintop have be
 
 ##### Flash flood
 ### [ A flash flood and the Situ Gintung dam's failure kill at least 58 people in Tangerang, Banten, Indonesia. ](/news/2009/03/27/a-flash-flood-and-the-situ-gintung-dam-s-failure-kill-at-least-58-people-in-tangerang-banten-indonesia.md)
-_Context: failure, flash flood, Tangerang, Banten, Indonesia, dam, Situ Gintung_
+_Context: Situ Gintung, Banten, Indonesia, failure, Tangerang, flash flood, dam_
 
 ##### Suicide attack
 ### [ A suicide attack kills at least 50 people and injures 100 others in Jamrud, Pakistan. ](/news/2009/03/27/a-suicide-attack-kills-at-least-50-people-and-injures-100-others-in-jamrud-pakistan.md)
@@ -25,19 +25,19 @@ A highly radioactive lead ball has gone missing in China, prompting authorities 
 
 ##### Russia
 ### [ Russia will establish a military force to protect its territorial claims in the Arctic. ](/news/2009/03/27/russia-will-establish-a-military-force-to-protect-its-territorial-claims-in-the-arctic.md)
-_Context: military force, Arctic, officially submit a claim, Russia_
+_Context: Arctic, Russia, military force, officially submit a claim_
 
 ##### The Lancet
 ### [ "The Lancet" accuses Pope Benedict XVI of "distorting...science" in his argument against the use of condoms. ](/news/2009/03/27/the-lancet-accuses-pope-benedict-xvi-of-distorting-science-in-his-argument-against-the-use-of-condoms.md)
-_Context: science, The Lancet, Pope, Pope Benedict XVI, condom, argument against the use_
+_Context: condom, Pope Benedict XVI, argument against the use, The Lancet, Pope, science_
 
 ##### United Kingdom
 ### [ The United Kingdom's economy contracted by 1.6% in the fourth quarter of 2008. ](/news/2009/03/27/the-united-kingdom-s-economy-contracted-by-1-6-in-the-fourth-quarter-of-2008.md)
-_Context: first fiscal quarter, 4th quarter of 2007 and the second quarter of 2009, United Kingdom, Economy of the United Kingdom_
+_Context: Economy of the United Kingdom, United Kingdom, 4th quarter of 2007 and the second quarter of 2009, first fiscal quarter_
 
 ##### Corsica
 ### [ Corsican nationalist Yvan Colonna is imprisoned for life for murdering Corse-du-Sud Prefect Claude Erignac in 1998. ](/news/2009/03/27/corsican-nationalist-yvan-colonna-is-imprisoned-for-life-for-murdering-corse-du-sud-prefect-claude-arignac-in-1998.md)
-_Context: Yvan Colonna, Claude Erignac, nationalist, Prefect, Corse-du-Sud, life in prison, Corsica, murder_
+_Context: Yvan Colonna, Corsica, Claude Erignac, murder, nationalist, life in prison, Corse-du-Sud, Prefect_
 
 ## [Previous Day...](/news/2009/03/26/index.md)
 

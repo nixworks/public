@@ -5,7 +5,7 @@ Formats: [HTML](2014/10/12/index.html)  [JSON](2014/10/12/index.json)  [XML](201
 
 ##### ISIL
 ### [Islamic State claims responsibility for a triple suicide bombing in Iraq's Diyala Province that killed 26 Kurds as well as an attack in Anbar Province that killed the head of security. ](/news/2014/10/12/islamic-state-claims-responsibility-for-a-triple-suicide-bombing-in-iraq-s-diyala-province-that-killed-26-kurds-as-well-as-an-attack-in-anba.md)
-_Context: Diyala Province, suicide bombing, Kurdish, Anbar Province, Iraq, ISIL_
+_Context: Diyala Province, Kurdish, Iraq, ISIL, Anbar Province, suicide bombing_
 
 ##### Post-civil war violence in Libya
 ### [At least 21 people die in Libyan tribal clashes on the weekend. ](/news/2014/10/12/at-least-21-people-die-in-libyan-tribal-clashes-on-the-weekend.md)
@@ -13,11 +13,11 @@ _Context: Post-civil war violence in Libya, Libya_
 
 ##### Nigeria
 ### [At least 26 people have been killed in tribal clashes in Nigeria's Plateau State over the past week. ](/news/2014/10/12/at-least-26-people-have-been-killed-in-tribal-clashes-in-nigeria-s-plateau-state-over-the-past-week.md)
-_Context: Plateau State, Nigeria_
+_Context: Nigeria, Plateau State_
 
 ##### 2014 Pacific typhoon season
 ### [At least 28 people are injured on the Japanese islands of Okinawa and Kyushu with 150,000 evacuated as Typhoon Vongfong approaches. ](/news/2014/10/12/at-least-28-people-are-injured-on-the-japanese-islands-of-okinawa-and-kyushu-with-150-000-evacuated-as-typhoon-vongfong-approaches.md)
-_Context: Typhoon Vongfong, Japan, Okinawa, Kyushu, 2014 Pacific typhoon season_
+_Context: Typhoon Vongfong, Kyushu, Okinawa, 2014 Pacific typhoon season, Japan_
 
 ##### 2014 North Indian Ocean cyclone season
 ### [Eastern India feels the impact of Cyclone Hudhud which makes landfall around noon near the city of Visakhapatnam. The death toll in Andhra Pradesh is at least three.](/news/2014/10/12/eastern-india-feels-the-impact-of-cyclone-hudhud-which-makes-landfall-around-noon-near-the-city-of-visakhapatnam-the-death-toll-in-andhra-p.md)
@@ -29,11 +29,11 @@ _Context: 2014 United States Ebola virus outbreak, Texas, United States of Ameri
 
 ##### Bosnia and Herzegovina general election, 2014
 ### [Bakir Izetbegovic and Dragan Covic appear to have won the Bosniak and Croat seat in the presidency while the race for the Serb seat is still too close to call. ](/news/2014/10/12/bakir-izetbegovia-and-dragan-aovia-appear-to-have-won-the-bosniak-and-croat-seat-in-the-presidency-while-the-race-for-the-serb-seat-is-st.md)
-_Context: Croat, Bosniaks, Bakir Izetbegovic, Dragan Covic, Bosnia and Herzegovina general election, 2014, presidency, Serb_
+_Context: Bakir Izetbegovic, presidency, Bosniaks, Croat, Bosnia and Herzegovina general election, 2014, Serb, Dragan Covic_
 
 ##### Re-elected
 ### [Voters in Bolivia go to the polls for a general election with incumbent President Evo Morales winning in a landslide with 60 per cent of the vote. ](/news/2014/10/12/voters-in-bolivia-go-to-the-polls-for-a-general-election-with-incumbent-president-evo-morales-winning-in-a-landslide-with-60-per-cent-of-the.md)
-_Context: President of Bolivia, Evo Morales, re-elected, Bolivia_
+_Context: Evo Morales, President of Bolivia, re-elected, Bolivia_
 
 ## [Previous Day...](/news/2014/10/11/index.md)
 

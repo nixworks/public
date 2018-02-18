@@ -9,15 +9,15 @@ Security forces said to be pushing towards northern town of Maarat al-Numaan as 
 
 ##### Time
 ### ["Time" reports that a Federal Grand Jury is investigating claims of war crimes and torture by the US Central Intelligence Agency at Iraq's Abu Ghraib prison in 2003. ](/news/2011/06/14/time-reports-that-a-federal-grand-jury-is-investigating-claims-of-war-crimes-and-torture-by-the-us-central-intelligence-agency-at-iraq-s-a.md)
-_Context: war crime, Time, CIA, torture, Abu Ghraib, Grand Jury, Iraq_
+_Context: torture, Time, war crime, Abu Ghraib, Iraq, Grand Jury, CIA_
 
 ##### National Transitional Council
 ### [Canada recognises the rebel National Transitional Council of Libya as the country's legitimate government with the Canadian House of Commons voting to extend its mission in Libya by three and a half months. ](/news/2011/06/14/canada-recognises-the-rebel-national-transitional-council-of-libya-as-the-country-s-legitimate-government-with-the-canadian-house-of-commons.md)
-_Context: Libya, National Transitional Council, Canadian House of Commons_
+_Context: Libya, Canadian House of Commons, National Transitional Council_
 
 ##### Pakistan
 ### [Pakistan's Directorate for Inter-Services Intelligence has arrested Central Intelligence Agency informants who contributed to the raid on Osama bin Laden. ](/news/2011/06/14/pakistan-s-directorate-for-inter-services-intelligence-has-arrested-central-intelligence-agency-informants-who-contributed-to-the-raid-on-os.md)
-_Context: father's killing, Osama bin Laden, Pakistan, CIA, Directorate for Inter-Services Intelligence_
+_Context: Directorate for Inter-Services Intelligence, CIA, Pakistan, father's killing, Osama bin Laden_
 
 ##### Che Guevara
 ### [A new diary by Che Guevara of his time fighting in the Cuban Revolution between 1956 and 1958 is published. ](/news/2011/06/14/a-new-diary-by-che-guevara-of-his-time-fighting-in-the-cuban-revolution-between-1956-and-1958-is-published.md)
@@ -29,7 +29,7 @@ _Context: UN, Gaza Strip, unemployment rate_
 
 ##### Air Canada
 ### [Air Canada services face disruption as customer service agents affiliated with the Canadian Auto Workers start a strike. ](/news/2011/06/14/air-canada-services-face-disruption-as-customer-service-agents-affiliated-with-the-canadian-auto-workers-start-a-strike.md)
-_Context: Canadian Auto Workers, Air Canada_
+_Context: Air Canada, Canadian Auto Workers_
 
 ##### Nabro Volcano
 ### [Airspace restrictions are in place in East Africa after the Nabro Volcano erupts in Eritrea. ](/news/2011/06/14/airspace-restrictions-are-in-place-in-east-africa-after-the-nabro-volcano-erupts-in-eritrea.md)
@@ -49,7 +49,7 @@ _Context: E. coli blamed for 46 deaths_
 
 ##### Sierra Vista, Arizona
 ### [Small communities near the US town of Sierra Vista, Arizona are evacuated due to a wildfire that started in Coronado National Memorial. ](/news/2011/06/14/small-communities-near-the-us-town-of-sierra-vista-arizona-are-evacuated-due-to-a-wildfire-that-started-in-coronado-national-memorial.md)
-_Context: Coronado National Memorial, Sierra Vista, Arizona_
+_Context: Sierra Vista, Arizona, Coronado National Memorial_
 
 ##### Nepal
 ### [The United Nations declares Nepal free of land mine fields after the last remaining land mine is destroyed. ](/news/2011/06/14/the-united-nations-declares-nepal-free-of-land-mine-fields-after-the-last-remaining-land-mine-is-destroyed.md)
@@ -73,7 +73,7 @@ David Cameron agrees to major changes to plans for the NHS in England, but insis
 
 ##### National Union of Teachers
 ### [Members of the United Kingdom's two main teaching unions, the National Union of Teachers and the Association of Teachers and Lecturers have voted to take industrial action over changes to their pensions. They are first expected to walk out on 30 June. Other public sector workers may join them on that day. ](/news/2011/06/14/members-of-the-united-kingdom-s-two-main-teaching-unions-the-national-union-of-teachers-and-the-association-of-teachers-and-lecturers-have.md)
-_Context: National Union of Teachers, Association of Teachers and Lecturers, public sector_
+_Context: Association of Teachers and Lecturers, public sector, National Union of Teachers_
 
 ## [Previous Day...](/news/2011/06/13/index.md)
 

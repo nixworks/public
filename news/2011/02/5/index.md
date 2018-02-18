@@ -21,7 +21,7 @@ Rebellion by former pro-Khartoum fighters against giving up their heavy weapons 
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI ordains five new bishops, including a Chinese prelate from Hong Kong despite attempts by China's official church to ordain bishops without his approval. ](/news/2011/02/5/pope-benedict-xvi-ordains-five-new-bishops-including-a-chinese-prelate-from-hong-kong-despite-attempts-by-china-s-official-church-to-ordain.md)
-_Context: Hong Kong, Pope Benedict XVI, China_
+_Context: Pope Benedict XVI, Hong Kong, China_
 
 ##### Steve Coogan
 ### [Comedian Steve Coogan criticises the presenters of BBC television series "Top Gear" in relation to their recent insulting of Mexicans. He also criticies the BBC's "pitiful" and "mealy-mouthed" apology after it offended Mexicans. ](/news/2011/02/5/comedian-steve-coogan-criticises-the-presenters-of-bbc-television-series-top-gear-in-relation-to-their-recent-insulting-of-mexicans-he-al.md)
@@ -41,7 +41,7 @@ An&#x20;explosion&#x20;killed&#x20;five&#x20;workers&#x20;in&#x20;Romania&#x27;s
 
 ##### Firefighter
 ### [Six firefighters die and two are injured fighting a fire in China's Zhejiang Province. ](/news/2011/02/5/six-firefighters-die-and-two-are-injured-fighting-a-fire-in-china-s-zhejiang-province.md)
-_Context: firefighter, Chinese, Zhejiang Province_
+_Context: Chinese, Zhejiang Province, firefighter_
 
 ##### David Cameron
 ### [UK prime minister David Cameron uses an important speech at a security conference in Munich to say "state multiculturalism" has failed, adding that the UK needs a stronger national identity and promising to promote Western values. ](/news/2011/02/5/uk-prime-minister-david-cameron-uses-an-important-speech-at-a-security-conference-in-munich-to-say-state-multiculturalism-has-failed-addi.md)

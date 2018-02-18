@@ -21,7 +21,7 @@ A magnitude-7.9 earthquake strikes in Nepal and northern India, killing more tha
 
 ##### Italian Navy
 ### [The Italian Navy rescues 274 migrants from a ship off the Libyan coast while 300 migrants rescued on Friday arrive on Friday. ](/news/2015/04/25/the-italian-navy-rescues-274-migrants-from-a-ship-off-the-libyan-coast-while-300-migrants-rescued-on-friday-arrive-on-friday.md)
-_Context: Italian Navy, Libya_
+_Context: Libya, Italian Navy_
 
 ##### New York Times
 ### [The "New York Times" reports that Russian hackers read President of the United States unclassified emails indicating that the breach of the White House's computer system was more extensive than previously revealed. ](/news/2015/04/25/the-new-york-times-reports-that-russian-hackers-read-president-of-the-united-states-unclassified-emails-indicating-that-the-breach-of-the.md)
@@ -33,7 +33,7 @@ Another @BmoreCityDOT warning about traffic congestion, &quot;unpredictable cond
 
 ##### Togolese presidential election, 2015
 ### [Voters in Togo go to the polls amid political unrest. ](/news/2015/04/25/voters-in-togo-go-to-the-polls-amid-political-unrest.md)
-_Context: Togo, Togolese presidential election, 2015_
+_Context: Togolese presidential election, 2015, Togo_
 
 ## [Previous Day...](/news/2015/04/24/index.md)
 

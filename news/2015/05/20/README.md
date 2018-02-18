@@ -9,7 +9,7 @@ Ancient Palmyra is home to 2,000-year-old monuments; Syrian antiquities chief sa
 
 ##### People's Liberation Army Navy
 ### [The Chinese navy issues warnings eight times as a United States Navy surveillance plane flies over manmade islands in the South China Sea. ](/news/2015/05/20/the-chinese-navy-issues-warnings-eight-times-as-a-united-states-navy-surveillance-plane-flies-over-manmade-islands-in-the-south-china-sea.md)
-_Context: South China Sea, People's Liberation Army Navy, United States Navy_
+_Context: United States Navy, South China Sea, People's Liberation Army Navy_
 
 ##### Lake Turkana
 ### [Tools found near Lake Turkana in Kenya by Sonia Harmand and Jason Lewis of Stony Brook University are dated at 3.3 million years making them the oldest yet discovered. ](/news/2015/05/20/tools-found-near-lake-turkana-in-kenya-by-sonia-harmand-and-jason-lewis-of-stony-brook-university-are-dated-at-3-3-million-years-making-them.md)
@@ -17,7 +17,7 @@ Get the latest science news and technology news, read tech reviews and more at A
 
 ##### Late Show with David Letterman
 ### [The last edition of the "Late Show with David Letterman" goes to air on CBS Television in the United States. Following his retirement, David Letterman will be succeeded by Stephen Colbert on September 8, 2015. ](/news/2015/05/20/the-last-edition-of-the-late-show-with-david-letterman-goes-to-air-on-cbs-television-in-the-united-states-following-his-retirement-david.md)
-_Context: David Letterman, CBS Television, United States, Stephen Colbert, Late Show with David Letterman_
+_Context: CBS Television, David Letterman, Stephen Colbert, United States, Late Show with David Letterman_
 
 ##### Shosholoza
 ### [A Shosholoza Meyl passenger train collides head-on with a goods train in Eastern Cape, South Africa, killing two people and injuring 20. ](/news/2015/05/20/a-shosholoza-meyl-passenger-train-collides-head-on-with-a-goods-train-in-eastern-cape-south-africa-killing-two-people-and-injuring-20.md)
@@ -29,7 +29,7 @@ The operator of an underground pipeline that ruptured and released up to 105,000
 
 ##### 2015 Colombian landslide
 ### [The death toll from Monday's landslide in the town of Salgar rises to 80. ](/news/2015/05/20/the-death-toll-from-monday-s-landslide-in-the-town-of-salgar-rises-to-80.md)
-_Context: Salgar, 2015 Colombian landslide_
+_Context: 2015 Colombian landslide, Salgar_
 
 ##### Antigua and Barbuda
 ### [Antigua and Barbuda recognizes the independence of Kosovo. ](/news/2015/05/20/antigua-and-barbuda-recognizes-the-independence-of-kosovo.md)
@@ -61,7 +61,7 @@ Deeply-red Nebraska is on the verge of becoming the 19th state to abolish the de
 
 ##### Julio Surez
 ### [Julio Surez, the head of the Guatemalan Central Bank, is arrested together with the head of the Social Security Administration on corruption charges. ](/news/2015/05/20/julio-suarez-the-head-of-the-guatemalan-central-bank-is-arrested-together-with-the-head-of-the-social-security-administration-on-corruptio.md)
-_Context: Guatemala, Central Bank, Julio Surez_
+_Context: Julio Surez, Central Bank, Guatemala_
 
 ## [Previous Day...](/news/2015/05/19/index.md)
 

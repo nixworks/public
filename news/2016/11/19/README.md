@@ -5,7 +5,7 @@ Formats: [HTML](2016/11/19/index.html)  [JSON](2016/11/19/index.json)  [XML](201
 
 ##### Iraqi Civil War
 ### [At least 12 tribal fighters were killed by ISIL insurgents. The attack occurred in Shirqat. ](/news/2016/11/19/at-least-12-tribal-fighters-were-killed-by-isil-insurgents-the-attack-occurred-in-shirqat.md)
-_Context: Iraqi Civil War, ISIL, Shirqat_
+_Context: Shirqat, Iraqi Civil War, ISIL_
 
 ##### Yemeni Civil War (2015-present)
 ### [The Saudi-led coalition announces a 48 hour ceasefire in Yemen from noon. ](/news/2016/11/19/the-saudi-led-coalition-announces-a-48-hour-ceasefire-in-yemen-from-noon.md)
@@ -33,11 +33,11 @@ Three crew members and a patient were killed when the plane, carrying a heart-di
 
 ##### Bersih 5 rally
 ### [Tens of thousands of people protest in the Malaysian capital Kuala Lumpur, calling for Prime Minister Najib Razak to step down amid an ongoing corruption scandal involving 1Malaysia Development Berhad. ](/news/2016/11/19/tens-of-thousands-of-people-protest-in-the-malaysian-capital-kuala-lumpur-calling-for-prime-minister-najib-razak-to-step-down-amid-an-ongoi.md)
-_Context: Prime Minister, Bersih 5 rally, 1Malaysia Development Berhad, Najib Razak, Kuala Lumpur, Malaysia_
+_Context: Prime Minister, 1Malaysia Development Berhad, Najib Razak, Malaysia, Kuala Lumpur, Bersih 5 rally_
 
 ##### Atlas V
 ### [An Atlas V rocket launches the GOES-R geosynchronous environmental satellite that will cover the Western Hemisphere for weather forecasting. ](/news/2016/11/19/an-atlas-v-rocket-launches-the-goes-r-geosynchronous-environmental-satellite-that-will-cover-the-western-hemisphere-for-weather-forecasting.md)
-_Context: Western Hemisphere, GOES-R, Atlas V, geosynchronous environmental satellite_
+_Context: GOES-R, geosynchronous environmental satellite, Western Hemisphere, Atlas V_
 
 ## [Previous Day...](/news/2016/11/18/index.md)
 

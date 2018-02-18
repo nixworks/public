@@ -9,19 +9,19 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Bhutan
 ### [ Bhutan bans smoking in public places ](/news/2005/02/23/bhutan-bans-smoking-in-public-places.md)
-_Context: smokers, Bhutan_
+_Context: Bhutan, smokers_
 
 ##### Sri Lanka
 ### [ In Sri Lanka, Tamil Tigers warn that the truce with the government is under threat after the killing of one of their leaders, E Kaushalyan. The ceasefire has lasted for four years. ](/news/2005/02/23/in-sri-lanka-tamil-tigers-warn-that-the-truce-with-the-government-is-under-threat-after-the-killing-of-one-of-their-leaders-e-kaushalyan.md)
-_Context: ceasefire, Sri Lanka, E Kaushalyan, Tamil Tigers_
+_Context: Sri Lanka, E Kaushalyan, ceasefire, Tamil Tigers_
 
 ##### Pakistan
 ### [ Pakistan's supreme court refuses a government request to withdraw a corruption case against minister Faisal Saleh Hayat. ](/news/2005/02/23/pakistan-s-supreme-court-refuses-a-government-request-to-withdraw-a-corruption-case-against-minister-faisal-saleh-hayat.md)
-_Context: Faisal Saleh Hayat, anti-corruption, supreme court, Pakistan_
+_Context: Pakistan, anti-corruption, Faisal Saleh Hayat, supreme court_
 
 ##### Rasim Delic
 ### [ Rasim Delic, former commander of the Bosnian army in Bosnia during the Yugoslav Wars, announces he will hand himself over to the UN Tribunal. He stands accused of war crimes against ethnic Serbs ](/news/2005/02/23/rasim-delia-former-commander-of-the-bosnian-army-in-bosnia-during-the-yugoslav-wars-announces-he-will-hand-himself-over-to-the-un-tribun.md)
-_Context: war crime, Bosnia and Herzegovina, Yugoslav Wars, Serb, Rasim Delic, International Criminal Tribunal for the Former Yugoslavia_
+_Context: war crime, Serb, Bosnia and Herzegovina, International Criminal Tribunal for the Former Yugoslavia, Rasim Delic, Yugoslav Wars_
 
 ##### Italy
 ### [ In Italy, Andrea Volpe, leader of the Beasts of Satan rock group, is sentenced to 30 years in prison for three murders. Another member Pietro Guerrieri receives 16 years, while a third member is acquitted ](/news/2005/02/23/in-italy-andrea-volpe-leader-of-the-beasts-of-satan-rock-group-is-sentenced-to-30-years-in-prison-for-three-murders-another-member-piet.md)
@@ -41,7 +41,7 @@ _Context: Interpol_
 
 ##### World Health Organization
 ### [ WHO warns that there is a potential threat of a bird flu pandemic ](/news/2005/02/23/who-warns-that-there-is-a-potential-threat-of-a-bird-flu-pandemic.md)
-_Context: pandemic, Avian flu virus, World Health Organization_
+_Context: pandemic, World Health Organization, Avian flu virus_
 
 ## [Previous Day...](/news/2005/02/22/index.md)
 

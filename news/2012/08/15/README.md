@@ -25,7 +25,7 @@ Two people on a bus used by the US band Baroness were injured when it fell 30ft 
 
 ##### Japanese
 ### [Two Japanese cabinet ministers, Jin Matsubara and Yuichiro Hata, visit the controversial Yasukuni Shrine amid territorial disputes with both the People's Republic of China and South Korea. ](/news/2012/08/15/two-japanese-cabinet-ministers-jin-matsubara-and-yuichiro-hata-visit-the-controversial-yasukuni-shrine-amid-territorial-disputes-with-both.md)
-_Context: South Korea, China, Yasukuni Shrine, Yuichiro Hata, Japanese, Jin Matsubara_
+_Context: Yasukuni Shrine, Yuichiro Hata, China, South Korea, Japanese, Jin Matsubara_
 
 ##### High Court of Australia
 ### [The High Court of Australia upholds legislation providing for plain packaging of cigarettes. ](/news/2012/08/15/the-high-court-of-australia-upholds-legislation-providing-for-plain-packaging-of-cigarettes.md)

@@ -5,27 +5,27 @@ Formats: [HTML](2009/03/6/index.html)  [JSON](2009/03/6/index.json)  [XML](2009/
 
 ##### European Union
 ### [ The European Union will transfer to Kenya suspected Somali pirates captured during Operation Atalanta. ](/news/2009/03/6/the-european-union-will-transfer-to-kenya-suspected-somali-pirates-captured-during-operation-atalanta.md)
-_Context: Somalia, European Union, Somali pirates, captures, Kenya_
+_Context: Kenya, Somali pirates, captures, Somalia, European Union_
 
 ##### Zimbabwe
 ### [ Zimbabwean Prime Minister Morgan Tsvangirai is injured and his wife, Susan, killed in a car accident south of Harare. ](/news/2009/03/6/zimbabwean-prime-minister-morgan-tsvangirai-is-injured-and-his-wife-susan-killed-in-a-car-accident-south-of-harare.md)
-_Context: Zimbabwe, Morgan Tsvangirai, wife, Harare, car accident, Prime Minister_
+_Context: Prime Minister, Morgan Tsvangirai, Zimbabwe, Harare, car accident, wife_
 
 ##### Protest
 ### [ A protestor from Plane Stupid throws custard at United Kingdom Secretary of State for Business, Enterprise and Regulatory Reform Peter Mandelson during a low-carbon summit in London. ](/news/2009/03/6/a-protestor-from-plane-stupid-throws-custard-at-united-kingdom-secretary-of-state-for-business-enterprise-and-regulatory-reform-peter-mand.md)
-_Context: Secretary of State for Business, Enterprise and Regulatory Reform, Plane Stupid, London, summit, Peter Mandelson, custard, protest, low-carbon, United Kingdom_
+_Context: London, Secretary of State for Business, Enterprise and Regulatory Reform, protest, United Kingdom, custard, summit, Peter Mandelson, low-carbon, Plane Stupid_
 
 ##### Sweden
 ### [ Swedish writer Lotta Lotass succeeds the late Sten Rudholm at Seat 1 of the Swedish Academy. ](/news/2009/03/6/swedish-writer-lotta-lotass-succeeds-the-late-sten-rudholm-at-seat-1-of-the-swedish-academy.md)
-_Context: Lotta Lotass, Sweden, Sten Rudholm, Swedish Academy, Seat 1_
+_Context: Swedish Academy, Lotta Lotass, Sweden, Sten Rudholm, Seat 1_
 
 ##### Sweden
 ### [ A Swedish pediatrician at Karolinska University Hospital is remanded on suspicion of manslaughter for injecting a lethal overdose of morphine and sodium thiopental into an infant. ](/news/2009/03/6/a-swedish-pediatrician-at-karolinska-university-hospital-is-remanded-on-suspicion-of-manslaughter-for-injecting-a-lethal-overdose-of-morphi.md)
-_Context: lethal overdose, sodium thiopental, morphine, pediatric, Karolinska University Hospital, remanded, Sweden, manslaughter by gross negligence_
+_Context: remanded, sodium thiopental, pediatric, manslaughter by gross negligence, Sweden, lethal overdose, morphine, Karolinska University Hospital_
 
 ##### North Korea
 ### [ North Korea threatens the safety of South Korean civilian aircraft flying near its territory, on the eve of annual military exercises involving the United States and the South. ](/news/2009/03/6/north-korea-threatens-the-safety-of-south-korean-civilian-aircraft-flying-near-its-territory-on-the-eve-of-annual-military-exercises-invol.md)
-_Context: South Korea, United States, military exercise, North Korea_
+_Context: United States, South Korea, North Korea, military exercise_
 
 ##### Australia
 ### [ Australia's Transport Safety Bureau finds that the autopilot of Qantas Flight 72, which made an emergency landing at Learmonth Airport in October 2008, received inaccurate information, causing a rapid change in altitude. ](/news/2009/03/6/australia-s-transport-safety-bureau-finds-that-the-autopilot-of-qantas-flight-72-which-made-an-emergency-landing-at-learmonth-airport-in-o.md)

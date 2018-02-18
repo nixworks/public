@@ -5,7 +5,7 @@ Formats: [HTML](2009/12/1/index.html)  [JSON](2009/12/1/index.json)  [XML](2009/
 
 ##### Porfirio Lobo Sosa
 ### [ Porfirio Lobo Sosa is elected President of Honduras. Turnout increases dramatically despite ousted former President Manuel Zelaya's plea for a boycott. ](/news/2009/12/1/porfirio-lobo-sosa-is-elected-president-of-honduras-turnout-increases-dramatically-despite-ousted-former-president-manuel-zelaya-s-plea-fo.md)
-_Context: elected, Porfirio Lobo Sosa, President, Manuel Zelaya, Honduras_
+_Context: Porfirio Lobo Sosa, elected, Manuel Zelaya, President, Honduras_
 
 ##### South Africa
 ### [ In a major policy speech, South African President Jacob Zuma announces the country will treat all HIV positive babies and expand testing. ](/news/2009/12/1/in-a-major-policy-speech-south-african-president-jacob-zuma-announces-the-country-will-treat-all-hiv-positive-babies-and-expand-testing.md)
@@ -21,7 +21,7 @@ _Context: Chevron World Challenge, Tiger Woods_
 
 ##### Maurice Clemmons
 ### [ Maurice Clemmons, suspect in the 2009 shooting of Lakewood, Washington, police officers, is shot dead by police in Seattle. ](/news/2009/12/1/maurice-clemmons-suspect-in-the-2009-shooting-of-lakewood-washington-police-officers-is-shot-dead-by-police-in-seattle.md)
-_Context: 2009 shooting of Lakewood, Washington, police officers, Seattle, Maurice Clemmons_
+_Context: Maurice Clemmons, Seattle, 2009 shooting of Lakewood, Washington, police officers_
 
 ##### United Kingdom
 ### [ The UK Foreign and Commonwealth Office says efforts are continuing to secure the release of sailors captured by the Iranian Navy on November 25, while Iran warns it will deal with them seriously if it exposes "malicious intent". ](/news/2009/12/1/the-uk-foreign-and-commonwealth-office-says-efforts-are-continuing-to-secure-the-release-of-sailors-captured-by-the-iranian-navy-on-novembe.md)
@@ -29,7 +29,7 @@ _Context: Iranian Navy, Foreign and Commonwealth Office, United Kingdom_
 
 ##### International Court of Justice
 ### [ The International Court of Justice begins hearings into the legality of the Kosovan declaration of independence from Serbia. ](/news/2009/12/1/the-international-court-of-justice-begins-hearings-into-the-legality-of-the-kosovan-declaration-of-independence-from-serbia.md)
-_Context: Serbia, hearings, International Court of Justice, Kosovo, unilateral declaration of independence_
+_Context: unilateral declaration of independence, hearings, International Court of Justice, Serbia, Kosovo_
 
 ##### North Korea
 ### [ North Korea raises the value of its currency for the first time in 17 years. ](/news/2009/12/1/north-korea-raises-the-value-of-its-currency-for-the-first-time-in-17-years.md)

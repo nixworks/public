@@ -17,7 +17,7 @@ State of emergency remains in areas hit by deadly attacks blamed on Islamist gro
 
 ##### South Sudan
 ### [South Sudan is to send more troops and police to Pibor, the scene of ethnic violence. ](/news/2012/01/1/south-sudan-is-to-send-more-troops-and-police-to-pibor-the-scene-of-ethnic-violence.md)
-_Context: ethnic violence, South Sudan, Pibor_
+_Context: Pibor, South Sudan, ethnic violence_
 
 ##### Elizabeth II
 ### [Queen Elizabeth II appoints former Prime Minister of Australia John Howard and British painter David Hockney to the Order of Merit. ](/news/2012/01/1/queen-elizabeth-ii-appoints-former-prime-minister-of-australia-john-howard-and-british-painter-david-hockney-to-the-order-of-merit.md)
@@ -25,7 +25,7 @@ The Queen has appointed former prime minister John Howard a member of the Order 
 
 ##### Rio Tinto Alcan
 ### [Rio Tinto Alcan locks out hundreds of workers from a smelter in the Canadian town of Alma, Quebec. ](/news/2012/01/1/rio-tinto-alcan-locks-out-hundreds-of-workers-from-a-smelter-in-the-canadian-town-of-alma-quebec.md)
-_Context: smelter, locks out, Quebec, Rio Tinto Alcan, Canadian, Alma_
+_Context: locks out, Alma, Quebec, smelter, Canadian, Rio Tinto Alcan_
 
 ##### Earthquake
 ### [A 7.0-magnitude earthquake strikes south of Japan; no damage is caused. ](/news/2012/01/1/a-7-0-magnitude-earthquake-strikes-south-of-japan-no-damage-is-caused.md)
@@ -33,7 +33,7 @@ A strong earthquake with a magnitude of 7.0 jolted eastern and northeastern Japa
 
 ##### Lamu Island
 ### [A boat capsizes near Lamu Island off the Kenyan coast with at least seven people dead. ](/news/2012/01/1/a-boat-capsizes-near-lamu-island-off-the-kenyan-coast-with-at-least-seven-people-dead.md)
-_Context: Kenya, Lamu Island_
+_Context: Lamu Island, Kenya_
 
 ##### Iranian Navy
 ### [The Iranian Navy test-fires a surface-to-air missile. ](/news/2012/01/1/the-iranian-navy-test-fires-a-surface-to-air-missile.md)
@@ -41,7 +41,7 @@ Iran&#39;s navy said Sunday it test-fired an advanced surface-to-air missile dur
 
 ##### Pakistan
 ### [Pakistan and India give each other a list of their nuclear sites. ](/news/2012/01/1/pakistan-and-india-give-each-other-a-list-of-their-nuclear-sites.md)
-_Context: Pakistan, India_
+_Context: India, Pakistan_
 
 ##### North Korea
 ### [A joint New Year editorial by North Korean media calls for "human shields" to protect new Supreme Leader Kim Jong-un. ](/news/2012/01/1/a-joint-new-year-editorial-by-north-korean-media-calls-for-human-shields-to-protect-new-supreme-leader-kim-jong-un.md)

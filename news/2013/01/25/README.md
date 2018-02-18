@@ -25,7 +25,7 @@ Iraq9 are killed as protesters, army clash
 
 ##### United States
 ### [The U.S. writer Stephen King issues a 25-page essay calling for gun control after numerous mass shootings. ](/news/2013/01/25/the-u-s-writer-stephen-king-issues-a-25-page-essay-calling-for-gun-control-after-numerous-mass-shootings.md)
-_Context: mass shooting, United States, gun control, essay, Stephen King_
+_Context: United States, gun control, mass shooting, Stephen King, essay_
 
 ##### Typhoon
 ### [Tropical Cyclone Oswald makes landfall in Queensland, Australia, and causes widespread flooding. ](/news/2013/01/25/tropical-cyclone-oswald-makes-landfall-in-queensland-australia-and-causes-widespread-flooding.md)
@@ -49,7 +49,7 @@ North Korea issues another warning - this time to Seoul - a day after announcing
 
 ##### John Kiriakou
 ### [John Kiriakou, the former CIA agent, who publicly discussed the U.S. government agency's use of waterboarding interrogation techniques, is sentenced to 30 months in prison. An argument that he was a whistleblower was dismissed and he was instead convicted of violating an intelligence law, the first person to be successfully targeted under the statute in 27 years. ](/news/2013/01/25/john-kiriakou-the-former-cia-agent-who-publicly-discussed-the-u-s-government-agency-s-use-of-waterboarding-interrogation-techniques-is-s.md)
-_Context: John Kiriakou, CIA, U.S. government, waterboarding, whistleblower_
+_Context: waterboarding, U.S. government, John Kiriakou, whistleblower, CIA_
 
 ##### Police officer
 ### [A detective in the Irish police force is shot dead in an attempted robbery near Dundalk, County Louth. ](/news/2013/01/25/a-detective-in-the-irish-police-force-is-shot-dead-in-an-attempted-robbery-near-dundalk-county-louth.md)

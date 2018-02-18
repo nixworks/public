@@ -17,7 +17,7 @@ Dozens of people including foreign nationals are killed in Laos as a plane crash
 
 ##### Typhoon Wipha
 ### [Typhoon Wipha hits Japan resulting in at least 14 deaths. ](/news/2013/10/16/typhoon-wipha-hits-japan-resulting-in-at-least-14-deaths.md)
-_Context: Japan, Typhoon Wipha_
+_Context: Typhoon Wipha, Japan_
 
 ##### Panama
 ### [A Panamanian registered ship sinks off the coast of South Korea, killing 9 sailors and leaving 2 others missing. Coast Guard officials rescue another 8 crew members. ](/news/2013/10/16/a-panamanian-registered-ship-sinks-off-the-coast-of-south-korea-killing-9-sailors-and-leaving-2-others-missing-coast-guard-officials-rescu.md)
@@ -25,7 +25,7 @@ _Context: Japan, Typhoon Wipha_
 
 ##### Malala Yousafzai
 ### [Malala Yousafzai will be awarded with Honorary Canadian citizenship. ](/news/2013/10/16/malala-yousafzai-will-be-awarded-with-honorary-canadian-citizenship.md)
-_Context: Malala Yousafzai, Honorary Canadian citizenship_
+_Context: Honorary Canadian citizenship, Malala Yousafzai_
 
 ##### Miami International Airport
 ### [A terminal at Miami International Airport was briefly evacuated after a bomb-sniffing dog discovers "a possible explosive device". ](/news/2013/10/16/a-terminal-at-miami-international-airport-was-briefly-evacuated-after-a-bomb-sniffing-dog-discovers-a-possible-explosive-device.md)

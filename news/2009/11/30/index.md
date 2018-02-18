@@ -13,23 +13,23 @@ The SNP set out its vision for a referendum on Scottish independence today.
 
 ##### Equatorial Guinea
 ### [ Officials in Equatorial Guinea announce that incumbent President Teodoro Obiang Nguema won the presidential election with 96.7% of the vote, as the opposition claims irregularities. ](/news/2009/11/30/officials-in-equatorial-guinea-announce-that-incumbent-president-teodoro-obiang-nguema-won-the-presidential-election-with-96-7-of-the-vote.md)
-_Context: Teodoro Obiang Nguema, presidential election, Equatorial Guinea_
+_Context: presidential election, Teodoro Obiang Nguema, Equatorial Guinea_
 
 ##### China
 ### [ In a major provincial leadership reshuffle in the People's Republic of China, Lu Zhangong was appointed secretary of the Henan CPC Provincial Committee, replacing Xu Guangchun. Sun Chunlan was appointed secretary of the Fujian CPC Committee. Former Jilin Party chief Wang Min was appointed secretary of the Liaoning CPC Committee, replacing Zhang Wenyue. Former Minister of Agriculture Sun Zhengcai took over as Party chief of Jilin Province. And former governor of Hebei Hu Chunhua was appointed Party chief of Inner Mongolia Autonomous Region, replacing Chu Bo, who retired.](/news/2009/11/30/in-a-major-provincial-leadership-reshuffle-in-the-people-s-republic-of-china-lu-zhangong-was-appointed-secretary-of-the-henan-cpc-provinci.md)
-_Context: Wang Min, Inner Mongolia, Henan, Zhang Wenyue, Xu Guangchun, Hu Chunhua, Fujian, Sun Zhengcai, Lu Zhangong, China, Sun Chunlan, Hebei, Chu Bo_
+_Context: Sun Zhengcai, Zhang Wenyue, Henan, Chu Bo, China, Inner Mongolia, Xu Guangchun, Lu Zhangong, Hebei, Fujian, Sun Chunlan, Wang Min, Hu Chunhua_
 
 ##### Tyumen
 ### [ An explosive device goes off under a train travelling from Tyumen, Russia, to Baku in Azerbaijan, in the northern Caucasus republic of Dagestan. ](/news/2009/11/30/an-explosive-device-goes-off-under-a-train-travelling-from-tyumen-russia-to-baku-in-azerbaijan-in-the-northern-caucasus-republic-of-dage.md)
-_Context: Baku, Caucasus, Tyumen, Russia, Dagestan, Azerbaijan_
+_Context: Russia, Baku, Azerbaijan, Caucasus, Tyumen, Dagestan_
 
 ##### Spain
 ### [ Three Spanish aid workers are kidnapped in northern Mauritania, after they became separated from an aid convoy. ](/news/2009/11/30/three-spanish-aid-workers-are-kidnapped-in-northern-mauritania-after-they-became-separated-from-an-aid-convoy.md)
-_Context: Spain, Mauritanian_
+_Context: Mauritanian, Spain_
 
 ##### Agathon Rwasa
 ### [ Former rebel leader Agathon Rwasa, of the National Liberation Forces in Burundi, is selected as a candidate in next year's presidential election. ](/news/2009/11/30/former-rebel-leader-agathon-rwasa-of-the-national-liberation-forces-in-burundi-is-selected-as-a-candidate-in-next-year-s-presidential-ele.md)
-_Context: Agathon Rwasa, National Liberation Forces, Burundi_
+_Context: Burundi, Agathon Rwasa, National Liberation Forces_
 
 ##### New railway station
 ### [ A new railway station opens in Workington, providing a link across the River Derwent after all but one of the bridges in the town were put out of action by floods. ](/news/2009/11/30/a-new-railway-station-opens-in-workington-providing-a-link-across-the-river-derwent-after-all-but-one-of-the-bridges-in-the-town-were-put.md)
@@ -49,11 +49,11 @@ _Context: Seattle, Maurice Clemmons, Parkland, Washington, 2009 shooting of Lake
 
 ##### Argonne National Laboratory
 ### [ Argonne National Laboratory announces that nanodiscs, made from an iron-nickel alloy and subjected to a magnetic field, destroy 90 percent of cancer cells in tests. ](/news/2009/11/30/argonne-national-laboratory-announces-that-nanodiscs-made-from-an-iron-nickel-alloy-and-subjected-to-a-magnetic-field-destroy-90-percent.md)
-_Context: iron, nanodisc, alloy, magnetic field, Argonne National Laboratory, nickel, cancer cell_
+_Context: iron, cancer cell, nickel, nanodisc, alloy, Argonne National Laboratory, magnetic field_
 
 ##### Gloria Macapagal-Arroyo
 ### [ Philippine President Gloria Macapagal-Arroyo announces she will run for Congress. ](/news/2009/11/30/philippine-president-gloria-macapagal-arroyo-announces-she-will-run-for-congress.md)
-_Context: Philippine general election, 2010, Gloria Macapagal-Arroyo_
+_Context: Gloria Macapagal-Arroyo, Philippine general election, 2010_
 
 ##### 
 ### [ A study in the journal "Pediatrics" indicates that if a child is diagnosed with autism early, intervention can raise IQ levels while improving language skills and behavior. ](/news/2009/11/30/a-study-in-the-journal-pediatrics-indicates-that-if-a-child-is-diagnosed-with-autism-early-intervention-can-raise-iq-levels-while-improv.md)

@@ -13,11 +13,11 @@ Authorities in Romania say at least 12 miners have been killed in two explosions
 
 ##### G20
 ### [ The G20 meets in Washington, D.C. to discuss responses to the current economic crisis. ](/news/2008/11/15/the-g20-meets-in-washington-d-c-to-discuss-responses-to-the-current-economic-crisis.md)
-_Context: G20, current economic crisis, meets, Washington, D.C._
+_Context: current economic crisis, Washington, D.C., G20, meets_
 
 ##### STS-126
 ### [ Mission STS-126 commences with the launch of Space Shuttle "Endeavour". The spacecraft will deliver equipment required to increase the crew capacity of the International Space Station from three to six members. ](/news/2008/11/15/mission-sts-126-commences-with-the-launch-of-space-shuttle-endeavour-the-spacecraft-will-deliver-equipment-required-to-increase-the-crew.md)
-_Context: STS-126, International Space Station, Space Shuttle, Space Shuttle ''Endeavour''_
+_Context: Space Shuttle ''Endeavour'', International Space Station, Space Shuttle, STS-126_
 
 ##### Israel
 ### [ Israel shuts down Gaza border crossings after Qassam rockets are launched toward Israel in breach of an armistice. ](/news/2008/11/15/israel-shuts-down-gaza-border-crossings-after-qassam-rockets-are-launched-toward-israel-in-breach-of-an-armistice.md)

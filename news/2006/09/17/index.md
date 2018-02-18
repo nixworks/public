@@ -25,11 +25,11 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Bomb blasts
 ### [ Four people are dead and 62 are wounded when five bomb blasts go off in the southern Thailand city of Hat Yai. ](/news/2006/09/17/four-people-are-dead-and-62-are-wounded-when-five-bomb-blasts-go-off-in-the-southern-thailand-city-of-hat-yai.md)
-_Context: bomb blasts, Hat Yai, Thailand_
+_Context: Thailand, bomb blasts, Hat Yai_
 
 ##### Darfur
 ### [ A global day of action, dubbed the 'International Day for Darfur' by Amnesty International, takes place with prayer vigils and demonstrations in 30 of the world's cities to highlight the plight of refugees and victims of genocide in the region. ](/news/2006/09/17/a-global-day-of-action-dubbed-the-international-day-for-darfur-by-amnesty-international-takes-place-with-prayer-vigils-and-demonstratio.md)
-_Context: Darfur, Amnesty International, genocide, refugees_
+_Context: genocide, Amnesty International, refugees, Darfur_
 
 ##### Alliance for Sweden
 ### [ Sweden's center-right opposition alliance Alliance for Sweden declares victory after nearly complete official election results showed it narrowly defeating the governing Swedish Social Democratic Party. The Prime Minister of Sweden, Gran Persson, conceded defeat. ](/news/2006/09/17/sweden-s-center-right-opposition-alliance-alliance-for-sweden-declares-victory-after-nearly-complete-official-election-results-showed-it-na.md)

@@ -5,15 +5,15 @@ Formats: [HTML](2017/01/30/index.html)  [JSON](2017/01/30/index.json)  [XML](201
 
 ##### War in Donbass
 ### [The Ukrainian military says seven soldiers have been killed by pro-Russian separatists since Sunday. The separatists report over 5 days of artillery attacks on them by the Ukrainian side. ](/news/2017/01/30/the-ukrainian-military-says-seven-soldiers-have-been-killed-by-pro-russian-separatists-since-sunday-the-separatists-report-over-5-days-of-a.md)
-_Context: Pro-Russian militants, Ukrainian military, since Sunday, War in Donbass_
+_Context: Ukrainian military, Pro-Russian militants, since Sunday, War in Donbass_
 
 ##### Russian military intervention
 ### [ The Russian Defence Ministry says six Russian bombers hit ISIL positions in Syria's Deir ez-Zor Governorate. ](/news/2017/01/30/the-russian-defence-ministry-says-six-russian-bombers-hit-isil-positions-in-syria-s-deir-ez-zor-governorate.md)
-_Context: ISIL, Syria, Ministry of Defence, Russian military intervention, Deir ez-Zor_
+_Context: Syria, Ministry of Defence, Deir ez-Zor, ISIL, Russian military intervention_
 
 ##### Insurgency in the North Caucasus
 ### [At least two police officers and three suspected militants are killed during a gunfight in Shali, Chechnya. ](/news/2017/01/30/at-least-two-police-officers-and-three-suspected-militants-are-killed-during-a-gunfight-in-shali-chechnya.md)
-_Context: Insurgency in the North Caucasus, police, Shali, Chechnya_
+_Context: police, Chechnya, Shali, Insurgency in the North Caucasus_
 
 ##### Yemeni Civil War
 ### [A suspected U.S. drone strike kills two al-Qaida militants in central Shabwa province, according to Yemeni security and tribal officials. ](/news/2017/01/30/a-suspected-u-s-drone-strike-kills-two-al-qaida-militants-in-central-shabwa-province-according-to-yemeni-security-and-tribal-officials.md)
@@ -29,7 +29,7 @@ A 27-year-old student allegedly known for his right-wing, nationalist views appe
 
 ##### Miss Universe 2016
 ### [Iris Mittenaere, winner of Miss France 2016, is crowned as the winner of Miss Universe 2016 at a ceremony in the Philippines. ](/news/2017/01/30/iris-mittenaere-winner-of-miss-france-2016-is-crowned-as-the-winner-of-miss-universe-2016-at-a-ceremony-in-the-philippines.md)
-_Context: Philippines, Miss Universe 2016, Iris Mittenaere, Miss France 2016_
+_Context: Philippines, Miss France 2016, Miss Universe 2016, Iris Mittenaere_
 
 ##### Walgreens Boots Alliance
 ### [Walgreens Boots Alliance reduces its offer price for Rite Aid and defers the expected closing date by six months due to concerns about regulatory approval. ](/news/2017/01/30/walgreens-boots-alliance-reduces-its-offer-price-for-rite-aid-and-defers-the-expected-closing-date-by-six-months-due-to-concerns-about-regul.md)
@@ -37,7 +37,7 @@ _Context: Philippines, Miss Universe 2016, Iris Mittenaere, Miss France 2016_
 
 ##### Gorno-Badakhshan
 ### [Several avalanches in Gorno-Badakhshan, Tajikistan, caused by heavy snowfall over the weekend, leave at least seven people dead. ](/news/2017/01/30/several-avalanches-in-gorno-badakhshan-tajikistan-caused-by-heavy-snowfall-over-the-weekend-leave-at-least-seven-people-dead.md)
-_Context: Gorno-Badakhshan, Tajikistan_
+_Context: Tajikistan, Gorno-Badakhshan_
 
 ##### United Kingdom-United States relations
 ### [A petition, launched Sunday to cancel U.S. President Donald Trump's state visit to the United Kingdom later this year, tops 1 million signatures, passing the threshold for British Parliament debate. A British government spokesman says the state visit is going ahead as planned. ](/news/2017/01/30/a-petition-launched-sunday-to-cancel-u-s-president-donald-trump-s-state-visit-to-the-united-kingdom-later-this-year-tops-1-million-signat.md)
@@ -45,7 +45,7 @@ The petition suggested it should be canceled &quot;because it would cause embarr
 
 ##### Iraq-United States relations
 ### [The Iraqi Parliament votes in favour of a reciprocal travel ban on U.S. citizens if U.S. President Donald Trump's executive order barring citizens of Iraq and six other Muslim-majority countries is not reversed. The Iraqi travel ban will not be implemented while tens of thousands of U.S. soldiers and contractors are involved in the fight against ISIL. ](/news/2017/01/30/the-iraqi-parliament-votes-in-favour-of-a-reciprocal-travel-ban-on-u-s-citizens-if-u-s-president-donald-trump-s-executive-order-barring-ci.md)
-_Context: Iraq-United States relations, Executive Order 13769, United States, Iraqi Parliament, ISIL, Iraq_
+_Context: Iraq, Iraqi Parliament, Iraq-United States relations, ISIL, United States, Executive Order 13769_
 
 ##### Drug crackdown
 ### [Philippine President Rodrigo Duterte suspends the war on drugs so resources can focus on ridding "corrupt" officers from the Philippine National Police. The "cause celebre" is the kidnapping and strangulation of South Korean businessman Jee Ick-joo last October. ](/news/2017/01/30/philippine-president-rodrigo-duterte-suspends-the-war-on-drugs-so-resources-can-focus-on-ridding-acorrupta-officers-from-the-philippine.md)
@@ -55,7 +55,7 @@ The Philippine police are to suspend their controversial war on drugs until &ldq
 ### [Brazilian police arrest EBX Group CEO Eike Batista for allegedly bribing officials in Rio de Janeiro, including former Governor of Rio de Janeiro Sergio Cabral Filho. ](/news/2017/01/30/brazilian-police-arrest-ebx-group-ceo-eike-batista-for-allegedly-bribing-officials-in-rio-de-janeiro-including-former-governor-of-rio-de-ja.md)
 The once-powerful tycoon is sent to a high security prison in Rio, accused of paying bribes.
 
-##### July 2016 Turkish ''coup d'etat'' attempt
+##### 2016 Turkish coup d'etat attempt
 ### [In Ankara, the Turkish government opens the trial of 270 suspects charged in July's failed coup in Ankara. The defendants include, "in absentia", the alleged mastermind Fethullah Gulen, former NATO Chief of Staff Major General Salih Sevil, and other high-ranking military officials. ](/news/2017/01/30/in-ankara-the-turkish-government-opens-the-trial-of-270-suspects-charged-in-july-s-failed-coup-in-ankara-the-defendants-include-in-absen.md)
 Turkey on Monday opened the biggest trial yet over the failed July coup aimed at ousting President Recep Tayyip Erdogan, trying 270 suspects including, in absentia, the alleged mastermind Fethullah Gulen. The suspects, 152 of whom are in pre-trial detention, include ex high-ranking military official...
 

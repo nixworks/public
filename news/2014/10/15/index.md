@@ -37,7 +37,7 @@ Nicola Sturgeon will succeed Alex Salmond as SNP leader and first minister, afte
 
 ##### Saudi Arabia
 ### [Popular Saudi Shia Sheikh Nimr al-Nimr sentenced to death by Saudi court that tries terrorists and human rights activists. ](/news/2014/10/15/popular-saudi-shia-sheikh-nimr-al-nimr-sentenced-to-death-by-saudi-court-that-tries-terrorists-and-human-rights-activists.md)
-_Context: Saudi court, Shia, Nimr al-Nimr, Saudi Arabia_
+_Context: Shia, Saudi Arabia, Saudi court, Nimr al-Nimr_
 
 ## [Previous Day...](/news/2014/10/14/index.md)
 

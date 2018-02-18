@@ -5,7 +5,7 @@ Formats: [HTML](2014/11/5/index.html)  [JSON](2014/11/5/index.json)  [XML](2014/
 
 ##### Libyan Civil War
 ### [Battles between loyalist forces and militias have killed nearly 400 in three weeks, including at least 250 deaths in Benghazi and 140 near the capital Tripoli. ](/news/2014/11/5/battles-between-loyalist-forces-and-militias-have-killed-nearly-400-in-three-weeks-including-at-least-250-deaths-in-benghazi-and-140-near-t.md)
-_Context: Tripoli, Libyan Civil War, Benghazi_
+_Context: Tripoli, Benghazi, Libyan Civil War_
 
 ##### Al-Qaeda insurgency in Yemen
 ### [A US drone strike kills five Al Qaeda in the Arabian Peninsula operatives including Shawki al-Badani and Nabil al-Dahab, leader of Ansar al-Sharia in Yemen's Al Bayda Governorate. ](/news/2014/11/5/a-us-drone-strike-kills-five-al-qaeda-in-the-arabian-peninsula-operatives-including-shawki-al-badani-and-nabil-al-dahab-leader-of-ansar-al.md)
@@ -21,7 +21,7 @@ Victim is Border Police officer from Druze village; another casualty in critical
 
 ##### Ebola virus epidemic in West Africa
 ### [The World Health Organisation appoints Dr Matshidiso Moeti of Botswana as its new Africa chief as the death toll from the virus passes 5,000. ](/news/2014/11/5/the-world-health-organisation-appoints-dr-matshidiso-moeti-of-botswana-as-its-new-africa-chief-as-the-death-toll-from-the-virus-passes-5-000.md)
-_Context: Botswana, World Health Organisation, Africa, Ebola virus epidemic in West Africa_
+_Context: Ebola virus epidemic in West Africa, Botswana, World Health Organisation, Africa_
 
 ## [Previous Day...](/news/2014/11/4/index.md)
 

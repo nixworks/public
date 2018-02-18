@@ -29,7 +29,7 @@ A painting by Vincent Van Gogh, stolen from a Cairo museum, is still missing, sa
 
 ##### Yalu River
 ### [More than 50,000 people are evacuated after the Yalu River floods in China; flooding is also reported in North Korea with the city of Sinuiju particularly affected. ](/news/2010/08/21/more-than-50-000-people-are-evacuated-after-the-yalu-river-floods-in-china-flooding-is-also-reported-in-north-korea-with-the-city-of-sinuij.md)
-_Context: North Korea, Yalu River, Sinuiju, China_
+_Context: Sinuiju, North Korea, China, Yalu River_
 
 ##### Save the Children
 ### [The charity Save the Children says the food crisis in Niger is being made worse by hoarders selling grain at higher prices than most people can afford. ](/news/2010/08/21/the-charity-save-the-children-says-the-food-crisis-in-niger-is-being-made-worse-by-hoarders-selling-grain-at-higher-prices-than-most-people.md)
@@ -53,7 +53,7 @@ Salmonella-infected eggs traceable to a large producer in Iowa may have caused a
 
 ##### Italy
 ### [Italy backs France's crackdown and expulsion of Romani from the country. ](/news/2010/08/21/italy-backs-france-s-crackdown-and-expulsion-of-romani-from-the-country.md)
-_Context: Italy, France, Roma_
+_Context: Roma, Italy, France_
 
 ##### Palestine
 ### [Palestinians warn that building on occupied land by Israel would threaten negotiations. ](/news/2010/08/21/palestinians-warn-that-building-on-occupied-land-by-israel-would-threaten-negotiations.md)
@@ -61,7 +61,7 @@ Palestinians warn negotiations would be threatened if building on occupied land 
 
 ##### Russia
 ### [Russian engineers start loading fuel into Iran's first nuclear reactor at Bushehr Nuclear Power Plant. ](/news/2010/08/21/russian-engineers-start-loading-fuel-into-iran-s-first-nuclear-reactor-at-bushehr-nuclear-power-plant.md)
-_Context: Russia, engineers, Bushehr power plant, nuclear reactor, Iran_
+_Context: Bushehr power plant, nuclear reactor, Iran, Russia, engineers_
 
 ##### Amnesty International
 ### [Amnesty International urges Saudi Arabia not to sever the spine of a man as punishment; the man has been convicted of paralysing another man. ](/news/2010/08/21/amnesty-international-urges-saudi-arabia-not-to-sever-the-spine-of-a-man-as-punishment-the-man-has-been-convicted-of-paralysing-another-man.md)
@@ -77,7 +77,7 @@ First female PM fighting to keep power amid strong challenge from conservative c
 
 ##### Wyclef Jean
 ### [Musician Wyclef Jean is formally declared unsuitable as a presidential candidate in Haiti's election. ](/news/2010/08/21/musician-wyclef-jean-is-formally-declared-unsuitable-as-a-presidential-candidate-in-haiti-s-election.md)
-_Context: Haiti's presidential election, Wyclef Jean, Haiti_
+_Context: Haiti's presidential election, Haiti, Wyclef Jean_
 
 ## [Previous Day...](/news/2010/08/20/index.md)
 

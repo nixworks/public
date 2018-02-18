@@ -9,7 +9,7 @@ EU names 13 Syrian officials on sanctions list, including a brother and influent
 
 ##### Civil war
 ### [Opposition forces in Libya make gains amid NATO bombing, reportedly operating out of the capital Tripoli. ](/news/2011/05/10/opposition-forces-in-libya-make-gains-amid-nato-bombing-reportedly-operating-out-of-the-capital-tripoli.md)
-_Context: Libya, Tripoli, NATO, civil war_
+_Context: NATO, Libya, Tripoli, civil war_
 
 ##### South Sudan
 ### [More than 80 people are killed after rebels attack a cattle camp in South Sudan. ](/news/2011/05/10/more-than-80-people-are-killed-after-rebels-attack-a-cattle-camp-in-south-sudan.md)
@@ -21,7 +21,7 @@ CNN is reporting that the CIA will show photos of the corpse of Osama bin Laden 
 
 ##### United Nations
 ### [Four United Nations peacekeepers are shot while on patrol in the disputed Abyei district of Sudan. ](/news/2011/05/10/four-united-nations-peacekeepers-are-shot-while-on-patrol-in-the-disputed-abyei-district-of-sudan.md)
-_Context: Sudan, United Nations, Abyei_
+_Context: Abyei, Sudan, United Nations_
 
 ##### Governor of California
 ### [Former Governor of California and actor Arnold Schwarzenegger and journalist Maria Shriver announce their separation after 25 years of marriage. ](/news/2011/05/10/former-governor-of-california-and-actor-arnold-schwarzenegger-and-journalist-maria-shriver-announce-their-separation-after-25-years-of-marri.md)
@@ -37,7 +37,7 @@ _Context: The Beatles, John Lennon, Strawberry Fields Forever_
 
 ##### Albert Einstein
 ### [Immigration papers documenting Albert Einstein's 1933 escape from Nazi Germany and his arrival at Dover, England, are to go on display for the first time, at Liverpool's Merseyside Maritime Museum. ](/news/2011/05/10/immigration-papers-documenting-albert-einstein-s-1933-escape-from-nazi-germany-and-his-arrival-at-dover-england-are-to-go-on-display-for-t.md)
-_Context: Liverpool, Nazi, Dover, Merseyside Maritime Museum, Albert Einstein_
+_Context: Albert Einstein, Liverpool, Merseyside Maritime Museum, Dover, Nazi_
 
 ##### Presbyterian Church (U.S.A.)
 ### [The Presbyterian Church (U.S.A.) votes to approve openly gay and lesbian people in same sex relationships to be ordained. ](/news/2011/05/10/the-presbyterian-church-u-s-a-votes-to-approve-openly-gay-and-lesbian-people-in-same-sex-relationships-to-be-ordained.md)
@@ -45,7 +45,7 @@ The Presbyterian Church (U.S.A.) has voted to change its constitution and allow 
 
 ##### Ivory Coast
 ### [Ivory Coast resumes exports of cocoa after a political crisis and brief civil war. ](/news/2011/05/10/ivory-coast-resumes-exports-of-cocoa-after-a-political-crisis-and-brief-civil-war.md)
-_Context: cocoa, Ivory Coast, 2010-2011 Ivorian crisis_
+_Context: 2010-2011 Ivorian crisis, cocoa, Ivory Coast_
 
 ##### Wayne Swan
 ### [Wayne Swan, the Treasurer of Australia, will deliver his fourth budget. ](/news/2011/05/10/wayne-swan-the-treasurer-of-australia-will-deliver-his-fourth-budget.md)
@@ -77,11 +77,11 @@ _Context: Sichuan, China, deadly earthquake_
 
 ##### Mississippi River
 ### [Mississippi River flooding worsens, with the Army Corps of Engineers saying an area between Simmesport, Louisiana and Baton Rouge will be submerged 20-30 feet, and 13% of US oil refinery output disrupted. ](/news/2011/05/10/mississippi-river-flooding-worsens-with-the-army-corps-of-engineers-saying-an-area-between-simmesport-louisiana-and-baton-rouge-will-be-su.md)
-_Context: Baton Rouge, Louisiana, Mississippi River, United States Army Corps of Engineers, Simmesport, Louisiana, oil refinery_
+_Context: Simmesport, Louisiana, oil refinery, Mississippi River, Baton Rouge, Louisiana, United States Army Corps of Engineers_
 
 ##### East Timor
 ### [East Timor rejected Chinese plans to build a radar on its territory in 2007, due to fears it would be used for intelligence purposes, according to Wikileaks. ](/news/2011/05/10/east-timor-rejected-chinese-plans-to-build-a-radar-on-its-territory-in-2007-due-to-fears-it-would-be-used-for-intelligence-purposes-accord.md)
-_Context: China, Wikileaks, East Timor_
+_Context: East Timor, China, Wikileaks_
 
 ##### Russia
 ### [Russian President Dmitry Medvedev calls for the chemical castration of pedophiles. ](/news/2011/05/10/russian-president-dmitry-medvedev-calls-for-the-chemical-castration-of-pedophiles.md)
@@ -89,7 +89,7 @@ Russian President Dmitry Medvedev says voluntary &quot;chemical castration&quot;
 
 ##### Press Complaints Commission
 ### [The British Press Complaints Commission has ruled that the "Daily Telegraph" breached rules on the use of subterfuge when it sent reporters to secretly tape Liberal Democrat ministers, including Secretary of State for Business Vince Cable, late last year. ](/news/2011/05/10/the-british-press-complaints-commission-has-ruled-that-the-daily-telegraph-breached-rules-on-the-use-of-subterfuge-when-it-sent-reporters.md)
-_Context: Press Complaints Commission, Secretary of State for Business, Daily Telegraph, Vince Cable, Liberal Democrats_
+_Context: Vince Cable, Secretary of State for Business, Press Complaints Commission, Liberal Democrats, Daily Telegraph_
 
 ##### Max Mosley
 ### [Former motorsports executive Max Mosley loses his European Court of Human Rights bid to force newspapers to warn people before exposing aspects of their private lives. ](/news/2011/05/10/former-motorsports-executive-max-mosley-loses-his-european-court-of-human-rights-bid-to-force-newspapers-to-warn-people-before-exposing-aspe.md)
@@ -101,7 +101,7 @@ Teenager Milly Dowler vanished &quot;in the blink of an eye&quot; on her way hom
 
 ##### Laos
 ### [Laos announces the results of elections to its one-party parliament. ](/news/2011/05/10/laos-announces-the-results-of-elections-to-its-one-party-parliament.md)
-_Context: elections, Laos_
+_Context: Laos, elections_
 
 ##### Welsh Labour Party
 ### [Welsh Labour Party leader Carwyn Jones confirms that Labour will form a one-party government after winning 30 of the 60 Welsh Assembly seats in last week's election, but also states that it will continue to talk to other parties. ](/news/2011/05/10/welsh-labour-party-leader-carwyn-jones-confirms-that-labour-will-form-a-one-party-government-after-winning-30-of-the-60-welsh-assembly-seats.md)
@@ -117,11 +117,11 @@ The government distances itself from suggestions that wealthy students could pay
 
 ##### Indiana
 ### [Indiana Governor Mitch Daniels cuts government funding for Planned Parenthood because it provides abortions. ](/news/2011/05/10/indiana-governor-mitch-daniels-cuts-government-funding-for-planned-parenthood-because-it-provides-abortions.md)
-_Context: Governor of Indiana, abortion, Indiana, Planned Parenthood, Mitch Daniels _
+_Context: Governor of Indiana, Mitch Daniels , abortion, Planned Parenthood, Indiana_
 
 ##### Qatar
 ### [Voters in Qatar go to the polls for municipal elections, with women allowed to vote for the first time. ](/news/2011/05/10/voters-in-qatar-go-to-the-polls-for-municipal-elections-with-women-allowed-to-vote-for-the-first-time.md)
-_Context: municipal elections, Qatar_
+_Context: Qatar, municipal elections_
 
 ## [Previous Day...](/news/2011/05/9/index.md)
 

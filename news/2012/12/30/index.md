@@ -13,7 +13,7 @@ Central African Republic leader Francois Bozize promises a national unity govern
 
 ##### Guatemala
 ### [Guatemalan Congresswoman Catarina Castor dies in the crash of a private plane in the northwestern Guatemalan province of Quiche, which also killed the pilot and injured the Governor Quiche Department, Heber Cabrera. ](/news/2012/12/30/guatemalan-congresswoman-catarina-castor-dies-in-the-crash-of-a-private-plane-in-the-northwestern-guatemalan-province-of-quicha-c-which-also.md)
-_Context: Heber Cabrera, Catarina Castor, Congresswoman, Guatemala, Quiche_
+_Context: Quiche, Catarina Castor, Congresswoman, Guatemala, Heber Cabrera_
 
 ##### Interstate 84
 ### [A tour bus crashes off Interstate 84 in northeastern Oregon in the United States, leaving 9 of its passengers dead and 26 injured. ](/news/2012/12/30/a-tour-bus-crashes-off-interstate-84-in-northeastern-oregon-in-the-united-states-leaving-9-of-its-passengers-dead-and-26-injured.md)
@@ -29,11 +29,11 @@ President Obama puts pressure on Republicans to accept a deal aimed at avoiding 
 
 ##### United States Secretary of State
 ### [U.S. Secretary of State Hillary Clinton is hospitalized after doctors discover a blood clot related to the concussion she suffered earlier this month. ](/news/2012/12/30/u-s-secretary-of-state-hillary-clinton-is-hospitalized-after-doctors-discover-a-blood-clot-related-to-the-concussion-she-suffered-earlier-t.md)
-_Context: Hillary Clinton, concussion, blood clot, United States Secretary of State_
+_Context: United States Secretary of State, blood clot, Hillary Clinton, concussion_
 
 ##### Subatomic particle
 ### [The confirmation of the existence of a subatomic particle known as the Higgs boson is named as 2012 Breakthrough of the Year by the "Science" magazine. ](/news/2012/12/30/the-confirmation-of-the-existence-of-a-subatomic-particle-known-as-the-higgs-boson-is-named-as-2012-breakthrough-of-the-year-by-the-science.md)
-_Context: subatomic particle, Science, Higgs boson, Breakthrough of the Year_
+_Context: Breakthrough of the Year, Higgs boson, subatomic particle, Science_
 
 ##### Italy
 ### [Italian neurologist Rita Levi-Montalcini, the 1986 Nobel laureate in Physiology or Medicine, dies at the age of 103. ](/news/2012/12/30/italian-neurologist-rita-levi-montalcini-the-1986-nobel-laureate-in-physiology-or-medicine-dies-at-the-age-of-103.md)

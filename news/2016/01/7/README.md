@@ -5,7 +5,7 @@ Formats: [HTML](2016/01/7/index.html)  [JSON](2016/01/7/index.json)  [XML](2016/
 
 ##### Libyan Civil War (2014-present)
 ### [At least 65 people are killed after a truck bomb hit a police training center in the Libyan town of Zliten. ](/news/2016/01/7/at-least-65-people-are-killed-after-a-truck-bomb-hit-a-police-training-center-in-the-libyan-town-of-zliten.md)
-_Context: Libyan, Zliten truck bombing, Libyan Civil War (2014-present), Zliten_
+_Context: Libyan Civil War (2014-present), Zliten, Zliten truck bombing, Libyan_
 
 ##### Terrorism in Egypt
 ### [Gunmen open fire on tourists at a hotel close to the Giza pyramids. There were no casualties in the attack, which caused some damage to the hotel, and the attackers were arrested shortly afterwards. ](/news/2016/01/7/gunmen-open-fire-on-tourists-at-a-hotel-close-to-the-giza-pyramids-there-were-no-casualties-in-the-attack-which-caused-some-damage-to-the.md)
@@ -25,11 +25,11 @@ Paris police shoot dead a man carrying a meat cleaver exactly a year after the C
 
 ##### The Church of Jesus Christ of Latter-day Saints
 ### [The Church of Jesus Christ of Latter-day Saints announces the formation of three new missions, each in Vietnam, the Democratic Republic of the Congo, and Nigeria. ](/news/2016/01/7/the-church-of-jesus-christ-of-latter-day-saints-announces-the-formation-of-three-new-missions-each-in-vietnam-the-democratic-republic-of-t.md)
-_Context: Vietnam, The Church of Jesus Christ of Latter-day Saints, missions, DR Congo, Nigeria_
+_Context: Vietnam, DR Congo, missions, The Church of Jesus Christ of Latter-day Saints, Nigeria_
 
 ##### 2015-16 Chinese stock market crisis
 ### [Trade is suspended on the Shanghai Stock Exchange and Shenzhen Stock Exchange for a second time in a week after share prices tumble following the devaluation of the yuan. ](/news/2016/01/7/trade-is-suspended-on-the-shanghai-stock-exchange-and-shenzhen-stock-exchange-for-a-second-time-in-a-week-after-share-prices-tumble-followin.md)
-_Context: yuan, 2015-16 Chinese stock market crisis, Shenzhen Stock Exchange, Shanghai Stock Exchange_
+_Context: Shenzhen Stock Exchange, yuan, 2015-16 Chinese stock market crisis, Shanghai Stock Exchange_
 
 ##### 2009-16 Oklahoma earthquake swarms
 ### [In the United States, a swarm of 30 ("and counting") earthquakes of magnitude 2.5 or greater struck Oklahoma from Wednesday evening through Thursday mid-afternoon. The biggest, a magnitude 4.8, happened yesterday at 10:27 p.m. CST, 32 kilometers (20 miles) northwest of Fairview, Oklahoma. ](/news/2016/01/7/in-the-united-states-a-swarm-of-30-and-counting-earthquakes-of-magnitude-2-5-or-greater-struck-oklahoma-from-wednesday-evening-through.md)
@@ -45,7 +45,7 @@ SAUDI warplanes have been accused of “deliberately” striking Iran’s embass
 
 ##### Guerrero
 ### [The bodies of six people are found in a rural village in Guerrero state in southern Mexico. ](/news/2016/01/7/the-bodies-of-six-people-are-found-in-a-rural-village-in-guerrero-state-in-southern-mexico.md)
-_Context: Mexico, Guerrero_
+_Context: Guerrero, Mexico_
 
 ##### Metropolitan Police Service
 ### [Scotland Yard confirms that they are investigating a triple murder in relation to the death of British actress Sian Blake and her two sons after the discovery of their dead bodies on Tuesday. ](/news/2016/01/7/scotland-yard-confirms-that-they-are-investigating-a-triple-murder-in-relation-to-the-death-of-british-actress-sian-blake-and-her-two-sons-a.md)

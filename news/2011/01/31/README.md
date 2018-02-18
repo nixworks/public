@@ -13,7 +13,7 @@ _Context: Sudan_
 
 ##### Nigeria
 ### [Nigerian police say they have foiled a bomb attack at a church in the city of Bauchi, days after deadly clashes between Christian and Muslim youths. ](/news/2011/01/31/nigerian-police-say-they-have-foiled-a-bomb-attack-at-a-church-in-the-city-of-bauchi-days-after-deadly-clashes-between-christian-and-muslim.md)
-_Context: Christian, Bauchi, Muslim, Nigeria_
+_Context: Muslim, Bauchi, Christian, Nigeria_
 
 ##### Suicide bomber
 ### [A suicide bomber kills DSP Rashid Khan, a senior local police official in the northwestern Pakistani city of Peshawar, and at least three others. ](/news/2011/01/31/a-suicide-bomber-kills-dsp-rashid-khan-a-senior-local-police-official-in-the-northwestern-pakistani-city-of-peshawar-and-at-least-three-ot.md)
@@ -25,7 +25,7 @@ Police in Bangladesh fire tear gas and rubber bullets to disperse villagers prot
 
 ##### Mogadishu
 ### [At least 17 people are killed and scores more injured in a shootout between opposing government security forces in Mogadishu, Somalia. ](/news/2011/01/31/at-least-17-people-are-killed-and-scores-more-injured-in-a-shootout-between-opposing-government-security-forces-in-mogadishu-somalia.md)
-_Context: Somalia, Mogadishu_
+_Context: Mogadishu, Somalia_
 
 ##### Genzyme
 ### [Pharmaceutical companies Genzyme and Sanofi-Aventis are reported to have reached an "agreement in principle" on a deal in which Sanofi, a French company, will acquire Cambridge-based Genzyme for an undetermined amount of money. ](/news/2011/01/31/pharmaceutical-companies-genzyme-and-sanofi-aventis-are-reported-to-have-reached-an-agreement-in-principle-on-a-deal-in-which-sanofi-a-fr.md)
@@ -37,19 +37,19 @@ _Context: Suez Canal, oil_
 
 ##### Johor
 ### [2 people are killed and 29,000 are evacuated following floods in Johor, southern Malaysia. ](/news/2011/01/31/2-people-are-killed-and-29-000-are-evacuated-following-floods-in-johor-southern-malaysia.md)
-_Context: Malaysia, Johor_
+_Context: Johor, Malaysia_
 
 ##### Japanese government
 ### [The Japanese government urges residents living near the Shinmoedake volcano in Kyushu to evacuate as eruptions become worse. ](/news/2011/01/31/the-japanese-government-urges-residents-living-near-the-shinmoedake-volcano-in-kya-sha-to-evacuate-as-eruptions-become-worse.md)
-_Context: Japanese government, Kyushu, volcano, Shinmoedake_
+_Context: Japanese government, Shinmoedake, volcano, Kyushu_
 
 ##### Anna Bligh
 ### [Anna Bligh, the Premier of the Australian state of Queensland warns tens of thousands of people to prepare for evacuation ahead of Cyclone Yasi expected to hit later in the week. ](/news/2011/01/31/anna-bligh-the-premier-of-the-australian-state-of-queensland-warns-tens-of-thousands-of-people-to-prepare-for-evacuation-ahead-of-cyclone-y.md)
-_Context: Cyclone Yasi, Premier, Queensland, Australia, Anna Bligh_
+_Context: Australia, Anna Bligh, Premier, Cyclone Yasi, Queensland_
 
 ##### European Union
 ### [The European Union and United States impose new sanctions against Belarus President Alexander Lukashenko and close associates. ](/news/2011/01/31/the-european-union-and-united-states-impose-new-sanctions-against-belarus-president-alexander-lukashenko-and-close-associates.md)
-_Context: United States, Belarus, Alexander Lukashenko, European Union_
+_Context: European Union, United States, Belarus, Alexander Lukashenko_
 
 ##### Oman
 ### [Oman says it has uncovered a spy network from the United Arab Emirates operating in the country. ](/news/2011/01/31/oman-says-it-has-uncovered-a-spy-network-from-the-united-arab-emirates-operating-in-the-country.md)
@@ -73,7 +73,7 @@ A judge said the insurance mandate in the health law made it unconstitutional, g
 
 ##### China
 ### [China's state broadcaster China Central Television reportedly uses footage from the 1986 film "Top Gun" as a substitute for its coverage of the country's air force. ](/news/2011/01/31/china-s-state-broadcaster-china-central-television-reportedly-uses-footage-from-the-1986-film-top-gun-as-a-substitute-for-its-coverage-of.md)
-_Context: Top Gun, China, China Central Television_
+_Context: China, Top Gun, China Central Television_
 
 ##### Southern Sudan
 ### [Southern Sudan announces it plans to officially declare independence from Sudan on July 9, 2011. ](/news/2011/01/31/southern-sudan-announces-it-plans-to-officially-declare-independence-from-sudan-on-july-9-2011.md)
@@ -97,7 +97,7 @@ Canadian Prime Minister Stephen Harper will be under pressure from opposition la
 
 ##### Sudan
 ### [The Sudanese government closes down Ahlia University and the Islamic University of Omdurman following an anti-government protest in which at least one student died. ](/news/2011/01/31/the-sudanese-government-closes-down-ahlia-university-and-the-islamic-university-of-omdurman-following-an-anti-government-protest-in-which-at.md)
-_Context: Islamic University of Omdurman, government, Sudan, Ahlia University_
+_Context: government, Sudan, Ahlia University, Islamic University of Omdurman_
 
 ## [Previous Day...](/news/2011/01/30/index.md)
 

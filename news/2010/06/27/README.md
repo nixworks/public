@@ -5,7 +5,7 @@ Formats: [HTML](2010/06/27/index.html)  [JSON](2010/06/27/index.json)  [XML](201
 
 ##### President
 ### [The first President of an independent Lithuania, Algirdas Brazauskas, dies in Vilnius. ](/news/2010/06/27/the-first-president-of-an-independent-lithuania-algirdas-brazauskas-dies-in-vilnius.md)
-_Context: Algirdas Brazauskas, Lithuania, Vilnius, President_
+_Context: Algirdas Brazauskas, President, Lithuania, Vilnius_
 
 ##### Guinea
 ### [Guinea holds the first democratic election in the nation's history. ](/news/2010/06/27/guinea-holds-the-first-democratic-election-in-the-nation-s-history.md)
@@ -17,7 +17,7 @@ _Context: Kyrgyzstan, constitutional referendum_
 
 ##### Bolivia
 ### [A road accident in Bolivia kills at least 25, injures 44, between Cochabama and Potos. ](/news/2010/06/27/a-road-accident-in-bolivia-kills-at-least-25-injures-44-between-cochabama-and-potosi.md)
-_Context: Potos, Cochabama, Bolivia_
+_Context: Bolivia, Potos, Cochabama_
 
 ##### 2010 FIFA World Cup
 ### [At least 11 people die while watching a 2010 FIFA World Cup match in Matam, Senegal. ](/news/2010/06/27/at-least-11-people-die-while-watching-a-2010-fifa-world-cup-match-in-matam-senegal.md)
@@ -33,11 +33,11 @@ _Context: Ningxia Hui Autonomous Region, Chinese_
 
 ##### Canadian
 ### [Two Canadian medics are killed in Afghanistan, 20 kilometres west of Kandahar City in Panjwaii District. ](/news/2010/06/27/two-canadian-medics-are-killed-in-afghanistan-20-kilometres-west-of-kandahar-city-in-panjwaii-district.md)
-_Context: Afghan, Canadian, Kandahar, Panjwaii District_
+_Context: Kandahar, Panjwaii District, Afghan, Canadian_
 
 ##### Fighter jet
 ### [Fighter jets pounded Taliban hideouts in the upper Orakzai Agency of Pakistan on Saturday, killing 14 Taliban, and injuring eight others. ](/news/2010/06/27/fighter-jets-pounded-taliban-hideouts-in-the-upper-orakzai-agency-of-pakistan-on-saturday-killing-14-taliban-and-injuring-eight-others.md)
-_Context: Taliban, Pakistan, Orakzai Tribal Area, Fighter jet_
+_Context: Pakistan, Orakzai Tribal Area, Fighter jet, Taliban_
 
 ##### NATO
 ### [Six NATO-led service members are killed Saturday in bombing attacks in Afghanistan, NATO's International Security Assistance Force said. ](/news/2010/06/27/six-nato-led-service-members-are-killed-saturday-in-bombing-attacks-in-afghanistan-nato-s-international-security-assistance-force-said.md)

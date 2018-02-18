@@ -5,7 +5,7 @@ Formats: [HTML](2014/09/2/index.html)  [JSON](2014/09/2/index.json)  [XML](2014/
 
 ##### Boko Haram
 ### [Dozens of people are killed as Boko Haram captures the town of Bama. ](/news/2014/09/2/dozens-of-people-are-killed-as-boko-haram-captures-the-town-of-bama.md)
-_Context: Boko Haram, Bama_
+_Context: Bama, Boko Haram_
 
 ##### Al-Shabab
 ### [At least six people are reported killed after a U.S. drone strikes a convoy of vehicles believed to be carrying senior members of the militant group Al-Shabaab. ](/news/2014/09/2/at-least-six-people-are-reported-killed-after-a-u-s-drone-strikes-a-convoy-of-vehicles-believed-to-be-carrying-senior-members-of-the-milita.md)
@@ -21,7 +21,7 @@ Government says 88 people, including Saudis and Yemenis, held on suspicion of pl
 
 ##### Syrian Civil War
 ### [ISIL releases an Internet video showing the beheading of American journalist Steven Sotloff. ](/news/2014/09/2/isil-releases-an-internet-video-showing-the-beheading-of-american-journalist-steven-sotloff.md)
-_Context: Syrian Civil War, ISIL, Steven Sotloff_
+_Context: Syrian Civil War, Steven Sotloff, ISIL_
 
 ##### Iraqi insurgency (2011-present)
 ### [The United States sends an additional 250 US troops to protect American personnel. ](/news/2014/09/2/the-united-states-sends-an-additional-250-us-troops-to-protect-american-personnel.md)
@@ -37,7 +37,7 @@ The FBI has announced that it will be investigating a hack that leaked celebriti
 
 ##### Impeachment in the Philippines
 ### [The impeachment cases against Benigno Aquino III are scrapped by the Philippine Congress, where his party currently holds the majority. ](/news/2014/09/2/the-impeachment-cases-against-benigno-aquino-iii-are-scrapped-by-the-philippine-congress-where-his-party-currently-holds-the-majority.md)
-_Context: his predecessor, party, Impeachment in the Philippines, Congress of the Philippines_
+_Context: his predecessor, Congress of the Philippines, party, Impeachment in the Philippines_
 
 ## [Previous Day...](/news/2014/09/1/index.md)
 

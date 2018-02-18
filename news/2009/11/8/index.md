@@ -5,7 +5,7 @@ Formats: [HTML](2009/11/8/index.html)  [JSON](2009/11/8/index.json)  [XML](2009/
 
 ##### President
 ### [ Venezuelan President Hugo Chavez tells the country's army and civilians to "prepare for war" with Colombia. ](/news/2009/11/8/venezuelan-president-hugo-chavez-tells-the-country-s-army-and-civilians-to-prepare-for-war-with-colombia.md)
-_Context: Colombia, Hugo Chavez, President_
+_Context: President, Hugo Chavez, Colombia_
 
 ##### Sudan
 ### [ Sudan's President Omar Hassan al-Bashir, indicted by the International Criminal Court, cancels his trip to Turkey. ](/news/2009/11/8/sudan-s-president-omar-hassan-al-bashir-indicted-by-the-international-criminal-court-cancels-his-trip-to-turkey.md)
@@ -13,11 +13,11 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 
 ##### El Salvador
 ### [ El Salvador declares a state of emergency as 91 people drown from the effects of a coastal low. ](/news/2009/11/8/el-salvador-declares-a-state-of-emergency-as-91-people-drown-from-the-effects-of-a-coastal-low.md)
-_Context: floods and mudslides, El Salvador_
+_Context: El Salvador, floods and mudslides_
 
 ##### 21st summit
 ### [ The 21st summit of APEC begins in Singapore. ](/news/2009/11/8/the-21st-summit-of-apec-begins-in-singapore.md)
-_Context: Singapore, Asia-Pacific Economic Cooperation, 21st summit_
+_Context: Singapore, 21st summit, Asia-Pacific Economic Cooperation_
 
 ##### Suicide attack
 ### [ At least 13 people are killed and at least 35 are injured in a suicide attack in Adezai, Pakistan. ](/news/2009/11/8/at-least-13-people-are-killed-and-at-least-35-are-injured-in-a-suicide-attack-in-adezai-pakistan.md)
@@ -49,11 +49,11 @@ _Context: United States House of Representatives, health care reform act_
 
 ##### 14th Dalai Lama
 ### [ The Dalai Lama begins a visit to Tawang, in the disputed territory of Arunachal Pradesh in northeastern India, amid objections from China. ](/news/2009/11/8/the-dalai-lama-begins-a-visit-to-tawang-in-the-disputed-territory-of-arunachal-pradesh-in-northeastern-india-amid-objections-from-china.md)
-_Context: Tawang, Arunachal Pradesh, 14th Dalai Lama, China, India_
+_Context: Tawang, China, Arunachal Pradesh, 14th Dalai Lama, India_
 
 ##### Republican
 ### [ Republican Party candidate Heinz Hofschneider and incumbent Governor Benigno Fitial virtually tie in the closest gubernatorial election in history. A runoff election will be held in the next 14 days to determine the winner. ](/news/2009/11/8/republican-party-candidate-heinz-hofschneider-and-incumbent-governor-benigno-fitial-virtually-tie-in-the-closest-gubernatorial-election-in.md)
-_Context: Governor of the Northern Mariana Islands, runoff election, Heinz Hofschneider, Republican, Benigno Fitial, 2009 gubernatorial election and runoff_
+_Context: Heinz Hofschneider, Republican, runoff election, Governor of the Northern Mariana Islands, Benigno Fitial, 2009 gubernatorial election and runoff_
 
 ## [Previous Day...](/news/2009/11/7/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2012/12/14/index.html)  [JSON](2012/12/14/index.json)  [XML](201
 
 ##### Americans
 ### [American admiral James G. Stavridis, NATO's Supreme Allied Commander Europe claims that Scud missiles fired by Syria at rebel forces have landed "fairly close" to the border with Turkey. ](/news/2012/12/14/american-admiral-james-g-stavridis-nato-s-supreme-allied-commander-europe-claims-that-scud-missiles-fired-by-syria-at-rebel-forces-have-la.md)
-_Context: Supreme Allied Commander Europe, admiral, James G. Stavridis, Scud missiles, NATO, Americans, Turkey, Syria_
+_Context: Syria, Scud missiles, James G. Stavridis, Americans, NATO, Turkey, admiral, Supreme Allied Commander Europe_
 
 ##### Kenneth Kendall
 ### [Kenneth Kendall, who became the BBC's first in-vision television newsreader in 1955, dies aged 88. ](/news/2012/12/14/kenneth-kendall-who-became-the-bbc-s-first-in-vision-television-newsreader-in-1955-dies-aged-88.md)
@@ -17,7 +17,7 @@ SFWA has named Gene Wolfe as the 2012 recipient of the Damon Knight Memorial Gra
 
 ##### Cyclone Evan
 ### [Cyclone Evan heads towards Fiji after causing at least three deaths and widespread damage in Samoa. ](/news/2012/12/14/cyclone-evan-heads-towards-fiji-after-causing-at-least-three-deaths-and-widespread-damage-in-samoa.md)
-_Context: Samoa, Cyclone Evan, Fiji_
+_Context: Fiji, Cyclone Evan, Samoa_
 
 ##### England
 ### [Thirteen areas of south-west England and Wales have been warned of possible floods as the United Kingdom prepares for heavy rain. ](/news/2012/12/14/thirteen-areas-of-south-west-england-and-wales-have-been-warned-of-possible-floods-as-the-united-kingdom-prepares-for-heavy-rain.md)

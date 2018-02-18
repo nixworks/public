@@ -5,7 +5,7 @@ Formats: [HTML](2018/02/17/index.html)  [JSON](2018/02/17/index.json)  [XML](201
 
 ##### 2018 Oaxaca earthquake
 ### [A military helicopter surveying the damage, carrying the Governor of Oaxaca Alejandro Murat Hinojosa and Mexico's Secretary of the Interior Alfonso Navarrete Prida, crashes over Jamiltepec, killing 13 people on the ground. These deaths are the only known ones related to the earthquake reported so far. ](/news/2018/02/17/a-military-helicopter-surveying-the-damage-carrying-the-governor-of-oaxaca-alejandro-murat-hinojosa-and-mexico-s-secretary-of-the-interior.md)
-_Context: Alejandro Murat Hinojosa, 2018 Oaxaca earthquake, Governor of Oaxaca, Mexico's Secretary of the Interior, Jamiltepec, Alfonso Navarrete Prida_
+_Context: Mexico's Secretary of the Interior, Jamiltepec, Alejandro Murat Hinojosa, Governor of Oaxaca, Alfonso Navarrete Prida, 2018 Oaxaca earthquake_
 
 ##### Murder of Zainab Ansari
 ### [An Anti-Terrorism Court in Lahore, Pakistan, sentences to the death penalty, Imran Ali for the rape and murder of the 7-year-old Pakistani girl. The family demands his hanging in public. ](/news/2018/02/17/an-anti-terrorism-court-in-lahore-pakistan-sentences-to-the-death-penalty-imran-ali-for-the-rape-and-murder-of-the-7-year-old-pakistani-g.md)

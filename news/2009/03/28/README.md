@@ -9,31 +9,31 @@ Millions of people across the world have marked Earth Hour by switching off ligh
 
 ##### Demonstration
 ### [ Demonstrators in London, England, demand that the G20 combat poverty, climate change, and unemployment. ](/news/2009/03/28/demonstrators-in-london-england-demand-that-the-g20-combat-poverty-climate-change-and-unemployment.md)
-_Context: G-20, England, demonstration, London, announces, poverty, climate change, unemployment_
+_Context: climate change, poverty, England, announces, London, G-20, unemployment, demonstration_
 
 ##### Police
 ### [ Police and fans of Northern Ireland and Poland battle after a 2010 FIFA World Cup qualifying match in Belfast. ](/news/2009/03/28/police-and-fans-of-northern-ireland-and-poland-battle-after-a-2010-fifa-world-cup-qualifying-match-in-belfast.md)
-_Context: fans, 2010 FIFA World Cup, Belfast, Poland, police, Northern Ireland, qualifying match_
+_Context: police, Poland, Belfast, 2010 FIFA World Cup, Northern Ireland, qualifying match, fans_
 
 ##### Space Shuttle
 ### [ Space Shuttle "Discovery" lands at the Kennedy Space Center on Merritt Island, Florida, United States. ](/news/2009/03/28/space-shuttle-discovery-lands-at-the-kennedy-space-center-on-merritt-island-florida-united-states.md)
-_Context: Merritt Island, Florida, Florida, United States, Discovery, lands, Kennedy Space Center, Space Shuttle_
+_Context: lands, Merritt Island, Florida, Kennedy Space Center, Florida, Discovery, Space Shuttle, United States_
 
 ##### Well Armed
 ### [ Well Armed wins the Dubai World Cup in the United Arab Emirates. ](/news/2009/03/28/well-armed-wins-the-dubai-world-cup-in-the-united-arab-emirates.md)
-_Context: Well Armed, United Arab Emirates, Dubai World Cup_
+_Context: Dubai World Cup, Well Armed, United Arab Emirates_
 
 ##### Taliban
 ### [ Taliban militants destroy 12 NATO trucks in Peshawar, Pakistan. ](/news/2009/03/28/taliban-militants-destroy-12-nato-trucks-in-peshawar-pakistan.md)
-_Context: militant, Pakistan, truck, Taliban, Peshawar, War in Afghanistan (2001-present), NATO_
+_Context: militant, Pakistan, Peshawar, Taliban, truck, NATO, War in Afghanistan (2001-present)_
 
 ##### Red River of the North
 ### [ The Red River rises above 40 feet, causing emergency evacuations in Fargo, North Dakota, United States. ](/news/2009/03/28/the-red-river-rises-above-40-feet-causing-emergency-evacuations-in-fargo-north-dakota-united-states.md)
-_Context: evacuation, rises, United States, Fargo, North Dakota, North Dakota, Red River of the North_
+_Context: Fargo, North Dakota, evacuation, United States, North Dakota, rises, Red River of the North_
 
 ##### Dunfermline Building Society
 ### [ The Dunfermline Building Society in Scotland will be sold. ](/news/2009/03/28/the-dunfermline-building-society-in-scotland-will-be-sold.md)
-_Context: Scotland, Dunfermline Building Society_
+_Context: Dunfermline Building Society, Scotland_
 
 ##### Munk Centre for International Studies
 ### [ The Munk Centre for International Studies discovers China's GhostNet electronic surveillance operation. ](/news/2009/03/28/the-munk-centre-for-international-studies-discovers-china-s-ghostnet-electronic-surveillance-operation.md)

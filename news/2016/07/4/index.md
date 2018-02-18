@@ -9,11 +9,11 @@ The episode, which wounded eight people in Puchong, was thought to have been the
 
 ##### Drug crackdown
 ### [The Communist Party of the Philippines agrees to fight drug lords after its legal wing Bagong Alyansang Makabayan joins the government cabinet of Rodrigo Duterte. ](/news/2016/07/4/the-communist-party-of-the-philippines-agrees-to-fight-drug-lords-after-its-legal-wing-bagong-alyansang-makabayan-joins-the-government-cabin.md)
-_Context: decades-old problem, Bagong Alyansang Makabayan, drug crackdown, cabinet, Communist, Rodrigo Duterte_
+_Context: Rodrigo Duterte, drug crackdown, cabinet, decades-old problem, Bagong Alyansang Makabayan, Communist_
 
 ##### Syrian Civil War
 ### [Israel's military attacks two Syrian Army targets in Syrian territory from the Golan Heights after a fire from the fighting damages a security fence on the border. ](/news/2016/07/4/israel-s-military-attacks-two-syrian-army-targets-in-syrian-territory-from-the-golan-heights-after-a-fire-from-the-fighting-damages-a-securi.md)
-_Context: Israeli Army, Golan Heights, Syrian Army, Syrian Civil War, Israel-Syria relations_
+_Context: Syrian Civil War, Golan Heights, Israeli Army, Israel-Syria relations, Syrian Army_
 
 ##### 2016 Saudi Arabia bombings
 ### [A suspected suicide bomber detonates his belt near the U.S. consulate in Jeddah, killing himself and wounding two guards. ](/news/2016/07/4/a-suspected-suicide-bomber-detonates-his-belt-near-the-u-s-consulate-in-jeddah-killing-himself-and-wounding-two-guards.md)
@@ -61,7 +61,7 @@ UPDATED 8.15am The head of one of Australia&#39;s biggest accounting firms says 
 
 ##### Communist Party of China
 ### [Zhejiang governor Li Qiang is transferred to neighbouring Jiangsu province to serve as party chief. He is succeeded as Zhejiang governor by Xinjiang deputy party chief Che Jun. ](/news/2016/07/4/zhejiang-governor-li-qiang-is-transferred-to-neighbouring-jiangsu-province-to-serve-as-party-chief-he-is-succeeded-as-zhejiang-governor-by.md)
-_Context: Li Qiang, Jiangsu, Zhejiang, Communist Party of China, Che Jun_
+_Context: Jiangsu, Li Qiang, Che Jun, Zhejiang, Communist Party of China_
 
 ## [Previous Day...](/news/2016/07/3/index.md)
 

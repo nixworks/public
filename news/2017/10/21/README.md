@@ -5,7 +5,7 @@ Formats: [HTML](2017/10/21/index.html)  [JSON](2017/10/21/index.json)  [XML](201
 
 ##### War in Somalia
 ### [The death toll in Somalia's deadliest terror attack rises up to 358, making it the fifth-deadliest terror attack worldwide. ](/news/2017/10/21/the-death-toll-in-somalia-s-deadliest-terror-attack-rises-up-to-358-making-it-the-fifth-deadliest-terror-attack-worldwide.md)
-_Context: War in Somalia, 14 October 2017 Mogadishu bombings, third-deadliest terrorist attack, Somalia_
+_Context: third-deadliest terrorist attack, Somalia, 14 October 2017 Mogadishu bombings, War in Somalia_
 
 ##### Insurgency in the Sahel
 ### [Gunmen coming from Mali kill 13 gendarmes and injure five on a base in western Niger. ](/news/2017/10/21/gunmen-coming-from-mali-kill-13-gendarmes-and-injure-five-on-a-base-in-western-niger.md)

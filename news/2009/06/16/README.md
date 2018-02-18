@@ -13,11 +13,11 @@ French President NicolasSarkozy and a dozen heads of state from around Africa ga
 
 ##### Russia
 ### [ Russia vetoes a plan to extend the United Nations Observer Mission in Georgia. ](/news/2009/06/16/russia-vetoes-a-plan-to-extend-the-united-nations-observer-mission-in-georgia.md)
-_Context: Russia, United Nations Observer Mission,  Georgian_
+_Context: United Nations Observer Mission,  Georgian, Russia_
 
 ##### Brian Friel
 ### [ Playwright Brian Friel is honoured with the Ulysses Medal on Bloomsday at University College Dublin. ](/news/2009/06/16/playwright-brian-friel-is-honoured-with-the-ulysses-medal-on-bloomsday-at-university-college-dublin.md)
-_Context: Brian Friel, University College Dublin, Ulysses Medal, Bloomsday_
+_Context: Ulysses Medal, Brian Friel, University College Dublin, Bloomsday_
 
 ##### Indonesia
 ### [ A coal mine collapses in Indonesia, killing at least six people. ](/news/2009/06/16/a-coal-mine-collapses-in-indonesia-killing-at-least-six-people.md)
@@ -29,7 +29,7 @@ Khalid Sheik Mohammed said during a hearing at Guantanamo, Cuba, that he lied to
 
 ##### China
 ### [ China announces plan to provide a US$ 10 billion credit loan to member states of the Shanghai Cooperation Organisation. ](/news/2009/06/16/china-announces-plan-to-provide-a-us-10-billion-credit-loan-to-member-states-of-the-shanghai-cooperation-organisation.md)
-_Context: US$, China, Shanghai Cooperation Organisation_
+_Context: US$, Shanghai Cooperation Organisation, China_
 
 ##### Presidential election
 ### [ Official campaigning for the 2009 presidential election in Afghanistan begins. ](/news/2009/06/16/official-campaigning-for-the-2009-presidential-election-in-afghanistan-begins.md)
@@ -37,11 +37,11 @@ _Context: Afghan, presidential election_
 
 ##### General Motors
 ### [ General Motors agrees Saab sale to Koenigsegg ](/news/2009/06/16/general-motors-agrees-saab-sale-to-koenigsegg.md)
-_Context: Koenigsegg, Saab Automobile, General Motors_
+_Context: Koenigsegg, General Motors, Saab Automobile_
 
 ##### Sri Lanka
 ### [ A Sri Lankan government investigation into human rights abuses during its offensive with Tamil Tiger rebels disbands. ](/news/2009/06/16/a-sri-lankan-government-investigation-into-human-rights-abuses-during-its-offensive-with-tamil-tiger-rebels-disbands.md)
-_Context: Sri Lanka, offensive, human rights, LTTE, government_
+_Context: Sri Lanka, government, human rights, LTTE, offensive_
 
 ##### Irish
 ### [ 15 laptops containing confidential information owned by Ireland's Health Service Executive are stolen in Roscommon. ](/news/2009/06/16/15-laptops-containing-confidential-information-owned-by-ireland-s-health-service-executive-are-stolen-in-roscommon.md)
@@ -53,7 +53,7 @@ Germany&#39;s ZEW confidence index surged in June to the highest level for more 
 
 ##### John Sawers
 ### [ Sir John Sawers is named head of MI6. ](/news/2009/06/16/sir-john-sawers-is-named-head-of-mi6.md)
-_Context: John Sawers, Secret Intelligence Service_
+_Context: Secret Intelligence Service, John Sawers_
 
 ##### Sammy Sosa
 ### [ Sammy Sosa, one of six Major League Baseball players to have hit 600 home runs in his career, is reported to have tested positive for performance-enhancing drugs during the 2003 season. ](/news/2009/06/16/sammy-sosa-one-of-six-major-league-baseball-players-to-have-hit-600-home-runs-in-his-career-is-reported-to-have-tested-positive-for-perfo.md)

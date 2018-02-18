@@ -21,7 +21,7 @@ _Context: northern China, Beijing_
 
 ##### Poland
 ### [Polish protesters block the parliament in order to prevent the possibility of legalizing restrictions on press freedom. ](/news/2016/12/19/polish-protesters-block-the-parliament-in-order-to-prevent-the-possibility-of-legalizing-restrictions-on-press-freedom.md)
-_Context: Poland, press freedom, Poland's parliament_
+_Context: Poland's parliament, Poland, press freedom_
 
 ##### Paris
 ### [A court in Paris finds International Monetary Fund Managing Director Christine Lagarde guilty of negligence in a 404 million euro "misuse of public funds" case. The court ruled that Lagarde won't be fined, won't serve any jail time, or receive a criminal record. The IMF Executive Board "looks forward to continuing to work with" her. ](/news/2016/12/19/a-court-in-paris-finds-international-monetary-fund-managing-director-christine-lagarde-guilty-of-negligence-in-a-404-million-euro-misuse-of.md)
@@ -37,7 +37,7 @@ Electors across the country met on Monday and officially gave Mr. Trump a majori
 
 ##### ALPHA
 ### [ALPHA, a CERN experiment, has observed for the first time the spectrum of antihydrogen. ](/news/2016/12/19/alpha-a-cern-experiment-has-observed-for-the-first-time-the-spectrum-of-antihydrogen.md)
-_Context: spectrum, antihydrogen, CERN, ALPHA_
+_Context: CERN, antihydrogen, ALPHA, spectrum_
 
 ## [Previous Day...](/news/2016/12/18/index.md)
 

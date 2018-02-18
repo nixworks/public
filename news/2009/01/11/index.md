@@ -9,7 +9,7 @@ _Context: Russian government, Russia, Vladimir Putin, current economic crisis, D
 
 ##### European Union
 ### [ European Union monitors arrive to ensure that Russia restarts its natural-gas delivery to Europe. ](/news/2009/01/11/european-union-monitors-arrive-to-ensure-that-russia-restarts-its-natural-gas-delivery-to-europe.md)
-_Context: Russia, European Union, gas, restarts, Europe_
+_Context: European Union, Europe, Russia, gas, restarts_
 
 ##### Israel
 ### [ Israeli Defense Forces and Hamas and Islamic Jihad militants battle in Sheikh Ajleen, a suburb of Gaza City. ](/news/2009/01/11/israeli-defense-forces-and-hamas-and-islamic-jihad-militants-battle-in-sheikh-ajleen-a-suburb-of-gaza-city.md)

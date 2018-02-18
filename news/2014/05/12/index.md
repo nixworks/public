@@ -9,15 +9,15 @@ A Boko Haram video purports to show dozens of abducted Nigerian girls, as the go
 
 ##### Mexican drug cartel
 ### [Galindo Mellado Cruz, one of the founding members of the Mexican drug cartel Los Zetas, and four other armed men are killed in a shootout with Mexican security forces after they raided Cruz's hideout in the city of Reynosa. ](/news/2014/05/12/galindo-mellado-cruz-one-of-the-founding-members-of-the-mexican-drug-cartel-los-zetas-and-four-other-armed-men-are-killed-in-a-shootout-wi.md)
-_Context: Zetas, Reynosa, Mexican drug cartel, Mexico_
+_Context: Mexico, Zetas, Mexican drug cartel, Reynosa_
 
 ##### Egypt
 ### [Egyptian security forces arrested an alleged member of the Free Syrian Army in Giza's Imbaba. They also seized a number of explosives they claimed would allegedly be used in terror attacks in the country before the upcoming presidential elections. ](/news/2014/05/12/egyptian-security-forces-arrested-an-alleged-member-of-the-free-syrian-army-in-giza-s-imbaba-they-also-seized-a-number-of-explosives-they-c.md)
-_Context: Free Syrian Army, Egypt, Imbaba, Giza, Egyptian presidential election, 2014_
+_Context: Giza, Egyptian presidential election, 2014, Imbaba, Free Syrian Army, Egypt_
 
 ##### Donetsk People's Republic
 ### [Pro-Russian insurgents in Donetsk and Luhansk declare the cities independent states whilst on choosing to join Russia after controversial hastily-arranged referendums. ](/news/2014/05/12/pro-russian-insurgents-in-donetsk-and-luhansk-declare-the-cities-independent-states-whilst-on-choosing-to-join-russia-after-controversial-ha.md)
-_Context: Donetsk People's Republic, Russia, Luhansk People's Republic, sovereignty_
+_Context: sovereignty, Russia, Donetsk People's Republic, Luhansk People's Republic_
 
 ##### Iraqi insurgency (post-U.S. withdrawal)
 ### [49 people have been killed and 69 wounded in a series of attacks across Iraq including attack by Iraqi security forces on insurgents in Anbar province. ](/news/2014/05/12/49-people-have-been-killed-and-69-wounded-in-a-series-of-attacks-across-iraq-including-attack-by-iraqi-security-forces-on-insurgents-in-anba.md)
@@ -33,7 +33,7 @@ The European Central Bank has quietly made a series of concessions to banks that
 
 ##### European Court of Human Rights
 ### [The European Court of Human Rights orders Turkey to pay $124 million in compensation for the 1974 Turkish invasion of Cyprus, which established the internationally unrecognized state of Turkish Republic of Northern Cyprus. ](/news/2014/05/12/the-european-court-of-human-rights-orders-turkey-to-pay-124-million-in-compensation-for-the-1974-turkish-invasion-of-cyprus-which-establis.md)
-_Context: Turkish invasion of Cyprus, European Court of Human Rights, northern, Turkey_
+_Context: northern, Turkey, European Court of Human Rights, Turkish invasion of Cyprus_
 
 ##### Spanish police
 ### [Spanish police arrest a mother and daughter for the suspected shooting of Isabel Carrasco, a Leon provincial council chief from the ruling Popular Party. ](/news/2014/05/12/spanish-police-arrest-a-mother-and-daughter-for-the-suspected-shooting-of-isabel-carrasco-a-lea3n-provincial-council-chief-from-the-ruling.md)

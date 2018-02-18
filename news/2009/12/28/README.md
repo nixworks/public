@@ -5,27 +5,27 @@ Formats: [HTML](2009/12/28/index.html)  [JSON](2009/12/28/index.json)  [XML](200
 
 ##### Japan
 ### [ 77-year-old Japanese Finance Minister Hirohisa Fujii is hospitalised after suffering from high blood pressure and fatigue. ](/news/2009/12/28/77-year-old-japanese-finance-minister-hirohisa-fujii-is-hospitalised-after-suffering-from-high-blood-pressure-and-fatigue.md)
-_Context: Finance Minister, Hirohisa Fujii, Japan_
+_Context: Finance Minister, Japan, Hirohisa Fujii_
 
 ##### Argentine
 ### [ Two Argentine men become the first gay couple to legally marry in Latin America at a civil ceremony. ](/news/2009/12/28/two-argentine-men-become-the-first-gay-couple-to-legally-marry-in-latin-america-at-a-civil-ceremony.md)
-_Context: civil ceremony, homosexuality, same-sex marriage, Argentine, Latin America_
+_Context: same-sex marriage, Latin America, homosexuality, civil ceremony, Argentine_
 
 ##### Xinhua
 ### [ Xinhua News Agency says China has rescued 25 sailors and the "De Xin Hai", the hijacked Chinese cargo ship, two months after they were seized off Somalia. ](/news/2009/12/28/xinhua-news-agency-says-china-has-rescued-25-sailors-and-the-de-xin-hai-the-hijacked-chinese-cargo-ship-two-months-after-they-were-seiz.md)
-_Context: Somalia, Chinese, Xinhua, China, De Xin Hai_
+_Context: China, Chinese, De Xin Hai, Somalia, Xinhua_
 
 ##### Shuangbai County
 ### [ A mine explosion in Shuangbai County, Yunnan causes more deaths to add to those from a similar incident in Jiexiu, Shanxi yesterday, bringing the total deaths for the two incidents to 17, with six other people still trapped. ](/news/2009/12/28/a-mine-explosion-in-shuangbai-county-yunnan-causes-more-deaths-to-add-to-those-from-a-similar-incident-in-jiexiu-shanxi-yesterday-bringi.md)
-_Context: Jiexiu, Yunnan, Shuangbai County, Shanxi province_
+_Context: Shanxi province, Jiexiu, Yunnan, Shuangbai County_
 
 ##### Chinese
 ### [ China donates 1.1 million dollars to an irrigation project in Guantanamo Province, Cuba. ](/news/2009/12/28/china-donates-1-1-million-dollars-to-an-irrigation-project-in-guanta-namo-province-cuba.md)
-_Context: Chinese, Cuba, Guantanamo Province_
+_Context: Cuba, Chinese, Guantanamo Province_
 
 ##### Chinese
 ### [ Construction begins on China's largest civil aircraft final assembly base in Shanghai. ](/news/2009/12/28/construction-begins-on-china-s-largest-civil-aircraft-final-assembly-base-in-shanghai.md)
-_Context: Shanghai, Chinese_
+_Context: Chinese, Shanghai_
 
 ##### Guangdong
 ### [ Authorities in Guangdong, China shut down a battery factory and commence health checks of all children in the region after it is discovered that dozens of poisoned children had high levels of lead in their blood. ](/news/2009/12/28/authorities-in-guangdong-china-shut-down-a-battery-factory-and-commence-health-checks-of-all-children-in-the-region-after-it-is-discovered.md)
@@ -45,7 +45,7 @@ Ireland&#39;s most senior Cardinal, Dr Cahal Daly, is seriously ill in Belfast C
 
 ##### Suicide bombing
 ### [ 25 dead and dozens injured in a suicide bombing on a Shia procession on the day of Ashura, in Karachi, Pakistan. ](/news/2009/12/28/25-dead-and-dozens-injured-in-a-suicide-bombing-on-a-shia-procession-on-the-day-of-ashura-in-karachi-pakistan.md)
-_Context: Ashura, Pakistan, suicide bombing, Shia, Karachi_
+_Context: Ashura, Karachi, suicide bombing, Pakistan, Shia_
 
 ##### Russia
 ### [ Russian Prime Minister Vladimir Putin opens the Eastern Siberia - Pacific Ocean oil pipeline. ](/news/2009/12/28/russian-prime-minister-vladimir-putin-opens-the-eastern-siberia-a-pacific-ocean-oil-pipeline.md)
@@ -53,23 +53,23 @@ _Context: Eastern Siberia - Pacific Ocean oil pipeline, Vladimir Putin, Russia_
 
 ##### Valparaiso
 ### [ At least 2,000 hectares and 20 homes are destroyed and hundreds of people are evacuated after a suspected arson causes forest fires in Valparaiso, Chile. ](/news/2009/12/28/at-least-2-000-hectares-and-20-homes-are-destroyed-and-hundreds-of-people-are-evacuated-after-a-suspected-arson-causes-forest-fires-in-valp.md)
-_Context: Chile, Valparaiso_
+_Context: Valparaiso, Chile_
 
 ##### Venezuelan President
 ### [ President of Venezuela Hugo Chavez quotes Mary and Karl Marx in a New Year message broadcast by state media, describing an end to the "illusion" of Barack Obama and predicting a global ecological disaster. ](/news/2009/12/28/president-of-venezuela-hugo-cha-vez-quotes-mary-and-karl-marx-in-a-new-year-message-broadcast-by-state-media-describing-an-end-to-the-ill.md)
-_Context: Hugo Chavez, Mary, Venezuelan President, Karl Marx, Barack Obama_
+_Context: Karl Marx, Barack Obama, Venezuelan President, Mary, Hugo Chavez_
 
 ##### Brazil
 ### [ At least 25 people are confirmed wounded after battles over a fatal stabbing between local people and gold miners from Brazil in Albina, Suriname. ](/news/2009/12/28/at-least-25-people-are-confirmed-wounded-after-battles-over-a-fatal-stabbing-between-local-people-and-gold-miners-from-brazil-in-albina-su.md)
-_Context: Suriname, Albina, Brazil_
+_Context: Albina, Brazil, Suriname_
 
 ##### Avalanche
 ### [ Seven people die in a series of avalanche incidents in Italy. ](/news/2009/12/28/seven-people-die-in-a-series-of-avalanche-incidents-in-italy.md)
-_Context: avalanche, Italy_
+_Context: Italy, avalanche_
 
 ##### Poyang Lake
 ### [ At least 10 people die and 19 others are injured when more than 100 vehicles smash into each other near Poyang Lake in Jiangxi, China. ](/news/2009/12/28/at-least-10-people-die-and-19-others-are-injured-when-more-than-100-vehicles-smash-into-each-other-near-poyang-lake-in-jiangxi-china.md)
-_Context: Poyang Lake, Jiangxi, China_
+_Context: Jiangxi, Poyang Lake, China_
 
 ##### Gorey
 ### [ One woman dies and at least 18 people are injured after a bus overturns in Gorey, Ireland. An ambulance also overturns. ](/news/2009/12/28/one-woman-dies-and-at-least-18-people-are-injured-after-a-bus-overturns-in-gorey-ireland-an-ambulance-also-overturns.md)
@@ -81,7 +81,7 @@ Outspoken critics of the government arrested after a day of violent clashes in T
 
 ##### Thailand
 ### [ Thailand begins repatriating 4,000 Hmong to Laos against their will, despite international protest. ](/news/2009/12/28/thailand-begins-repatriating-4-000-hmong-to-laos-against-their-will-despite-international-protest.md)
-_Context: Thailand, Hmong people, Laos_
+_Context: Hmong people, Thailand, Laos_
 
 ##### Batemans Bay
 ### [ Three people are dead and two are seriously injured following a fuel tanker crash and explosion near Batemans Bay, on the south coast of New South Wales, Australia. ](/news/2009/12/28/three-people-are-dead-and-two-are-seriously-injured-following-a-fuel-tanker-crash-and-explosion-near-batemans-bay-on-the-south-coast-of-ne.md)
@@ -89,11 +89,11 @@ First video: Three people are dead and two are seriously injured following a fue
 
 ##### Vietnam
 ### [ A Vietnamese court sentences a former dissident army officer, Tran Anh Kim, to five years in prison on charges of subverting the government. ](/news/2009/12/28/a-vietnamese-court-sentences-a-former-dissident-army-officer-tran-anh-kim-to-five-years-in-prison-on-charges-of-subverting-the-government.md)
-_Context: Communist Party, subverting, dissident, Tran Anh Kim, Vietnam_
+_Context: dissident, subverting, Tran Anh Kim, Communist Party, Vietnam_
 
 ##### Nepal
 ### [ Three people die and two others are injured when a bomb suspected to have come from Nepal's civil war explodes in Chitwan, southwest of Kathmandu. ](/news/2009/12/28/three-people-die-and-two-others-are-injured-when-a-bomb-suspected-to-have-come-from-nepal-s-civil-war-explodes-in-chitwan-southwest-of-kat.md)
-_Context: Nepal, Chitwan, Kathmandu_
+_Context: Kathmandu, Nepal, Chitwan_
 
 ## [Previous Day...](/news/2009/12/27/index.md)
 

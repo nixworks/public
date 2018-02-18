@@ -5,7 +5,7 @@ Formats: [HTML](2015/12/6/index.html)  [JSON](2015/12/6/index.json)  [XML](2015/
 
 ##### Yemeni Civil War (2015)
 ### [Jaafar Mohammed Saad, the governor of Yemen's southern Aden Governorate, along with six guards, are killed by a suicide bomber in the port city of Aden. The Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2015/12/6/jaafar-mohammed-saad-the-governor-of-yemen-s-southern-aden-governorate-along-with-six-guards-are-killed-by-a-suicide-bomber-in-the-port-c.md)
-_Context: Yemen, Jaafar Mohammed Saad, Yemeni Civil War (2015), Aden, Aden Governorate, suicide bomber, ISIL_
+_Context: suicide bomber, Yemeni Civil War (2015), Aden, Aden Governorate, ISIL, Yemen, Jaafar Mohammed Saad_
 
 ##### Syrian Civil War
 ### [A series of air strikes in Syria's Raqqa province, believed to be carried out by U.S.-led coalition warplanes, leaves at least 32 Islamic State fighters killed and 40 more wounded. The final toll could rise as casualty figures were collected from a single hospital. The jets hit IS headquarters and bases to the north, east, and southeast of provincial capital Raqqa city. ](/news/2015/12/6/a-series-of-air-strikes-in-syria-s-raqqa-province-believed-to-be-carried-out-by-u-s-led-coalition-warplanes-leaves-at-least-32-islamic-st.md)
@@ -21,7 +21,7 @@ The consequences of forcing more derivative trades through clearing houses are n
 
 ##### Basic income
 ### [Finland's government plans to give all its citizens, rich or poor, a monthly payment of EUR800, with no strings attached. The Finnish government says it wants to launch a "universal basic income experiment" in 2017 to test the feasibility of this program, which would replace the country's current benefits system. ](/news/2015/12/6/finland-s-government-plans-to-give-all-its-citizens-rich-or-poor-a-monthly-payment-of-a-800-with-no-strings-attached-the-finnish-govern.md)
-_Context: Finland, Basic income, government_
+_Context: government, Finland, Basic income_
 
 ##### 2015 South Indian floods
 ### [Chennai International Airport is set to reopen as flood waters recede. The death toll currently stands at at least 280 people. ](/news/2015/12/6/chennai-international-airport-is-set-to-reopen-as-flood-waters-recede-the-death-toll-currently-stands-at-at-least-280-people.md)
@@ -53,7 +53,7 @@ In a highly unusual moment of a Western politician attacking a critical Arab all
 
 ##### Athens
 ### [Clashes erupt in Athens between left-wing demonstrators and Greek police with at least eighteen people arrested. ](/news/2015/12/6/clashes-erupt-in-athens-between-left-wing-demonstrators-and-greek-police-with-at-least-eighteen-people-arrested.md)
-_Context: Athens, Greek police_
+_Context: Greek police, Athens_
 
 ##### 2015 San Bernardino shooting
 ### [President Barack Obama called the San Bernardino shootings "an act of terrorism designed to kill innocent people". ](/news/2015/12/6/president-barack-obama-called-the-san-bernardino-shootings-an-act-of-terrorism-designed-to-kill-innocent-people.md)
@@ -61,7 +61,7 @@ President Obama on Sunday called the San Bernardino massacre &quot;an act of ter
 
 ##### Landslide victory in the December 6 election
 ### [Venezuelan opposition leaders say their Democratic Unity Roundtable has won control of the 167-seat legislature from the ruling Socialists for the first time since 1998. There is no confirmation on Sunday's election from the national electoral board. An opposition victory would be a major setback for the socialist revolution started 17 years ago by the late Hugo Chavez. ](/news/2015/12/6/venezuelan-opposition-leaders-say-their-democratic-unity-roundtable-has-won-control-of-the-167-seat-legislature-from-the-ruling-socialists-f.md)
-_Context: United Social Party of Venezuela, Venezuela, Hugo Chavez, National Assembly, landslide victory in the December 6 election, Democratic Unity Roundtable_
+_Context: Venezuela, landslide victory in the December 6 election, Democratic Unity Roundtable, United Social Party of Venezuela, Hugo Chavez, National Assembly_
 
 ##### Referendum
 ### [Voters in Armenia go to the polls to vote in a referendum to change from a presidential to a parliamentary form of government. ](/news/2015/12/6/voters-in-armenia-go-to-the-polls-to-vote-in-a-referendum-to-change-from-a-presidential-to-a-parliamentary-form-of-government.md)
@@ -77,7 +77,7 @@ Rival governments in Libya reached the initial phase of a deal designed to foste
 
 ##### Orbital Sciences
 ### [Following the previous explosion of Orbital Sciences' Cygnus CRS Orb-3 on October 28, 2014, an unmanned Atlas V 401 rocket carrying Orbital ATK's Cygnus CRS Orb-4 resupply mission to NASA's International Space Station launches from Cape Canaveral in the U.S. state of Florida. The mission includes 7,380 pounds of cargo. ](/news/2015/12/6/following-the-previous-explosion-of-orbital-sciences-cygnus-crs-orb-3-on-october-28-2014-an-unmanned-atlas-v-401-rocket-carrying-orbital.md)
-_Context: Orbital ATK, Cape Canaveral Air Force Station, NASA, anomaly on October 28, 2014, International Space Station, Atlas V, Cygnus CRS Orb-4, Orbital Sciences, Florida_
+_Context: Atlas V, Cygnus CRS Orb-4, International Space Station, Cape Canaveral Air Force Station, Orbital ATK, anomaly on October 28, 2014, Florida, Orbital Sciences, NASA_
 
 ##### Panama Disease
 ### [Scientists warn a new strain of the Panama Disease fungus, which in the 1950s nearly wiped out the most popular banana in the world, the Gros Michel, is threatening today's favorite, the Cavendish, according to a new study published in "PLOS Pathogens". This untreatable fungal disease, called Tropical Race 4, has been active for decades in Southeast Asia. It recently has spread to other parts of Asia, Africa, the Middle East, and Australia, and is expected to make its way to Latin America, where the vast majority of the world's exported bananas are grown. ](/news/2015/12/6/scientists-warn-a-new-strain-of-the-panama-disease-fungus-which-in-the-1950s-nearly-wiped-out-the-most-popular-banana-in-the-world-the-gro.md)

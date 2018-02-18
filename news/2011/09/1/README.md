@@ -5,31 +5,31 @@ Formats: [HTML](2011/09/1/index.html)  [JSON](2011/09/1/index.json)  [XML](2011/
 
 ##### Russia
 ### [At least four people, including a high-ranking security service officer, are killed in a series of bombings and shootings across Russia's North Caucasus. ](/news/2011/09/1/at-least-four-people-including-a-high-ranking-security-service-officer-are-killed-in-a-series-of-bombings-and-shootings-across-russia-s-no.md)
-_Context: Russia, North Caucasus_
+_Context: North Caucasus, Russia_
 
 ##### Civil war
 ### [2011 Libyan civil war: Libya's National Transitional Council extends the deadline for tribal leaders in Muammar Gaddafi's hometown of Sirte to surrender in order to avoid further fighting. ](/news/2011/09/1/2011-libyan-civil-war-libya-s-national-transitional-council-extends-the-deadline-for-tribal-leaders-in-muammar-gaddafias-hometown-of-sirt.md)
-_Context: Muammar Gaddafi, National Transitional Council, civil war, Libya, Sirte_
+_Context: Sirte, Libya, civil war, Muammar Gaddafi, National Transitional Council_
 
 ##### Pakistani
 ### [Three Pakistani soldiers and one Indian soldier are killed following an attack by Indian border forces on a Pakistani checkpost along the Line of Control. ](/news/2011/09/1/three-pakistani-soldiers-and-one-indian-soldier-are-killed-following-an-attack-by-indian-border-forces-on-a-pakistani-checkpost-along-the-li.md)
-_Context: Pakistani, are killed, Line of Control_
+_Context: Line of Control, are killed, Pakistani_
 
 ##### Australia
 ### [The remains of Australian bushranger Ned Kelly are found in the former HM Prison Pentridge in Melbourne, Victoria. ](/news/2011/09/1/the-remains-of-australian-bushranger-ned-kelly-are-found-in-the-former-hm-prison-pentridge-in-melbourne-victoria.md)
-_Context: HM Prison Pentridge, Melbourne, Victoria, bushranger, Australia, Ned Kelly_
+_Context: bushranger, Melbourne, Australia, Ned Kelly, HM Prison Pentridge, Victoria_
 
 ##### Palestine Solidarity Campaign
 ### [Protesters from the Palestine Solidarity Campaign disrupt a concert given by the Israel Philharmonic Orchestra for the BBC Proms at London's Royal Albert Hall. ](/news/2011/09/1/protesters-from-the-palestine-solidarity-campaign-disrupt-a-concert-given-by-the-israel-philharmonic-orchestra-for-the-bbc-proms-at-london-s.md)
-_Context: Royal Albert Hall, Palestine Solidarity Campaign, Israel Philharmonic Orchestra, London, BBC Proms_
+_Context: London, Palestine Solidarity Campaign, Israel Philharmonic Orchestra, Royal Albert Hall, BBC Proms_
 
 ##### Nestle
 ### [The world's largest food group, Nestle SA, opens a new production unit in Konolfingen, Switzerland, and its CEO affirms that the company is committed to its home country, despite problems created by the unusually strong Swiss franc against the euro. ](/news/2011/09/1/the-world-s-largest-food-group-nestla-c-sa-opens-a-new-production-unit-in-konolfingen-switzerland-and-its-ceo-affirms-that-the-company-is.md)
-_Context: euro, Nestle, Switzerland, Konolfingen, francs_
+_Context: Nestle, Switzerland, euro, francs, Konolfingen_
 
 ##### Netherlands
 ### [Former Dutch Minister of Economic Affairs and Minister of Education, Culture and Science, Maria van der Hoeven, takes office as Executive Director of the International Energy Agency. ](/news/2011/09/1/former-dutch-minister-of-economic-affairs-and-minister-of-education-culture-and-science-maria-van-der-hoeven-takes-office-as-executive-di.md)
-_Context: Netherlands, Minister of Economic Affairs, Maria van der Hoeven, Minister of Education, Culture and Science, International Energy Agency_
+_Context: International Energy Agency, Minister of Economic Affairs, Minister of Education, Culture and Science, Netherlands, Maria van der Hoeven_
 
 ##### Governor of Louisiana
 ### [Louisiana Governor Bobby Jindal declares a state of emergency after Tropical Storm Lee forms in the northern Gulf of Mexico. ](/news/2011/09/1/louisiana-governor-bobby-jindal-declares-a-state-of-emergency-after-tropical-storm-lee-forms-in-the-northern-gulf-of-mexico.md)

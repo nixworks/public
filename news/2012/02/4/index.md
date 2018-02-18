@@ -9,47 +9,47 @@ Syrian forces are accused of killing scores of people in Homs in one of the bloo
 
 ##### United Nations Assistance Mission in Afghanistan
 ### [The United Nations Assistance Mission in Afghanistan estimates that civilian deaths in the war in Afghanistan rose to a record level in 2011 of 3021 with insurgents responsible for most of the deaths. ](/news/2012/02/4/the-united-nations-assistance-mission-in-afghanistan-estimates-that-civilian-deaths-in-the-war-in-afghanistan-rose-to-a-record-level-in-2011.md)
-_Context: War in Afghanistan (2001-present), United Nations Assistance Mission in Afghanistan_
+_Context: United Nations Assistance Mission in Afghanistan, War in Afghanistan (2001-present)_
 
 ##### Iran
 ### [Iran starts new military exercises as tensions rise over its nuclear program. ](/news/2012/02/4/iran-starts-new-military-exercises-as-tensions-rise-over-its-nuclear-program.md)
-_Context: nuclear program, Iran_
+_Context: Iran, nuclear program_
 
 ##### Egypt
 ### [Egypt's tax authority building in Cairo is set alight as protests against the continuation of military rule carry on. ](/news/2012/02/4/egypt-s-tax-authority-building-in-cairo-is-set-alight-as-protests-against-the-continuation-of-military-rule-carry-on.md)
-_Context: Cairo, Egypt_
+_Context: Egypt, Cairo_
 
 ##### Florence Green
 ### [Florence Green, the last known veteran from World War I, dies at the age of 110 in the United Kingdom. ](/news/2012/02/4/florence-green-the-last-known-veteran-from-world-war-i-dies-at-the-age-of-110-in-the-united-kingdom.md)
-_Context: United Kingdom, Florence Green, First World War_
+_Context: First World War, Florence Green, United Kingdom_
 
 ##### Australia
 ### [Tens of thousands of people are stranded by floods in the Australian states of New South Wales and Queensland. ](/news/2012/02/4/tens-of-thousands-of-people-are-stranded-by-floods-in-the-australian-states-of-new-south-wales-and-queensland.md)
-_Context: Queensland, Australia, NSW_
+_Context: Australia, Queensland, NSW_
 
 ##### Mike deGruy
 ### [Filmmakers Mike deGruy of Santa Barbara, California and Andrew Wight of Victoria die in a helicopter crash in the Australian town of Berry, New South Wales. ](/news/2012/02/4/filmmakers-mike-degruy-of-santa-barbara-california-and-andrew-wight-of-victoria-die-in-a-helicopter-crash-in-the-australian-town-of-berry.md)
-_Context: Victoria, NSW, Australian, Mike deGruy, Berry, Andrew Wight, Santa Barbara, California_
+_Context: Australian, Santa Barbara, California, Berry, Andrew Wight, Mike deGruy, NSW, Victoria_
 
 ##### Charlie White
 ### [Charlie White, the Secretary of State of the US state of Indiana, is convicted of multiple voter fraud related offences. ](/news/2012/02/4/charlie-white-the-secretary-of-state-of-the-us-state-of-indiana-is-convicted-of-multiple-voter-fraud-related-offences.md)
-_Context: Indiana, Charlie White, Secretary of State, voter fraud_
+_Context: Secretary of State, Indiana, Charlie White, voter fraud_
 
 ##### Tibet
 ### [Three more Tibetan protesters set themselves on fire in Sichuan, China. ](/news/2012/02/4/three-more-tibetan-protesters-set-themselves-on-fire-in-sichuan-china.md)
-_Context: Tibet, Sichuan, China_
+_Context: Tibet, China, Sichuan_
 
 ##### Rally
 ### [2011-2012 Russian protests: Over 100,000 people protest for and against Russian Prime Minister Vladimir Putin in Moscow. ](/news/2012/02/4/2011a2012-russian-protests-over-100-000-people-protest-for-and-against-russian-prime-minister-vladimir-putin-in-moscow.md)
-_Context: rally, Vladimir Putin, Moscow, Russia_
+_Context: Vladimir Putin, Moscow, rally, Russia_
 
 ##### Julius Malema
 ### [Julius Malema, formerly of the African National Congress Youth League, loses an appeal against a decision by South Africa's ruling African National Congress party to suspend him. ](/news/2012/02/4/julius-malema-formerly-of-the-african-national-congress-youth-league-loses-an-appeal-against-a-decision-by-south-africa-s-ruling-african-n.md)
-_Context: African National Congress, South Africa, Julius Malema, ANC Youth League_
+_Context: Julius Malema, South Africa, ANC Youth League, African National Congress_
 
 ##### Republican
 ### [Republican Party voters gather in Nevada for the party caucuses with Mitt Romney projected as the winner. ](/news/2012/02/4/republican-party-voters-gather-in-nevada-for-the-party-caucuses-with-mitt-romney-projected-as-the-winner.md)
-_Context: Republican, party caucuses, Nevada, Mitt Romney_
+_Context: Mitt Romney, party caucuses, Nevada, Republican_
 
 ## [Previous Day...](/news/2012/02/3/index.md)
 

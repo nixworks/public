@@ -9,7 +9,7 @@ Two crude bombs hit Malegaon in Maharashtra, killing seven and injuring 30, and 
 
 ##### United States Attorney General
 ### [ United States Attorney General Michael Mukasey announces the appointment of a special prosecutor to investigate the firings of nine U.S. attorneys in 2006. ](/news/2008/09/29/united-states-attorney-general-michael-mukasey-announces-the-appointment-of-a-special-prosecutor-to-investigate-the-firings-of-nine-u-s-at.md)
-_Context: chief federal prosecutors, Michael Mukasey, United States Attorney General, special prosecutor, firings_
+_Context: United States Attorney General, Michael Mukasey, special prosecutor, chief federal prosecutors, firings_
 
 ##### United States
 ### [ The United States House of Representatives rejects a proposed bailout of the U.S. financial system.](/news/2008/09/29/the-united-states-house-of-representatives-rejects-a-proposed-bailout-of-the-u-s-financial-system.md)
@@ -21,15 +21,15 @@ A car bomb exploded near a military bus carrying troops going to work in norther
 
 ##### Flood
 ### [ Floods caused by Typhoon Hagupit cause at least 41 deaths in northern Vietnam. ](/news/2008/09/29/floods-caused-by-typhoon-hagupit-cause-at-least-41-deaths-in-northern-vietnam.md)
-_Context: Typhoon Hagupit, Vietnam, Flood_
+_Context: Typhoon Hagupit, Flood, Vietnam_
 
 ##### Sweden
 ### [ Sweden's official debt collection agency is suffering from severe economic problems after having over-spent and over-borrowed and may be forced to cut staff to stop the bleeding. ](/news/2008/09/29/swedenas-official-debt-collection-agency-is-suffering-from-severe-economic-problems-after-having-over-spent-and-over-borrowed-and-may-be.md)
-_Context: Sweden, debt collection agency_
+_Context: debt collection agency, Sweden_
 
 ##### Brazil
 ### [ Brazil's government is named as the worst illegal logger of the Amazon rainforest. ](/news/2008/09/29/brazil-s-government-is-named-as-the-worst-illegal-logger-of-the-amazon-rainforest.md)
-_Context: Amazon rainforest, Brazil_
+_Context: Brazil, Amazon rainforest_
 
 ## [Previous Day...](/news/2008/09/28/index.md)
 

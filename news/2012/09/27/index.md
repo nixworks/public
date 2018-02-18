@@ -25,7 +25,7 @@ The alleged producer of an anti-Islamic film that sparked violent protests has b
 
 ##### Ivan Velazquez Caballero
 ### [Ivan Velazquez Caballero, a top leader in the Mexican criminal group known as Los Zetas, is arrested in San Luis Potosi. ](/news/2012/09/27/iva-n-vela-zquez-caballero-a-top-leader-in-the-mexican-criminal-group-known-as-los-zetas-is-arrested-in-san-luis-potosa.md)
-_Context: Zetas, San Luis Potosi, Ivan Velazquez Caballero_
+_Context: Ivan Velazquez Caballero, Zetas, San Luis Potosi_
 
 ##### Northwestern University
 ### [The body of a missing Northwestern University student, a sophomore in the School of Engineering there, is found in Wilmette Harbor on Lake Michigan; police have thus far found no signs of foul play, but his family believes he had been kidnapped and had offered a $25,000 reward. ](/news/2012/09/27/the-body-of-a-missing-northwestern-university-student-a-sophomore-in-the-school-of-engineering-there-is-found-in-wilmette-harbor-on-lake-m.md)
@@ -33,7 +33,7 @@ _Context: Northwestern University, Wilmette_
 
 ##### Mass shooting
 ### [A mass shooting takes place at Accent Signage Systems, a sign company in Minneapolis, Minnesota, United States; five people are killed, including the gunman who committed suicide, and four others are wounded. ](/news/2012/09/27/a-mass-shooting-takes-place-at-accent-signage-systems-a-sign-company-in-minneapolis-minnesota-united-states-five-people-are-killed-incl.md)
-_Context: mass shooting, Minnesota, Minneapolis_
+_Context: Minneapolis, Minnesota, mass shooting_
 
 ##### Parliament of Catalonia
 ### [The Parliament of Catalonia votes in favor of a resolution to hold a referendum on self-determination. ](/news/2012/09/27/the-parliament-of-catalonia-votes-in-favor-of-a-resolution-to-hold-a-referendum-on-self-determination.md)

@@ -13,7 +13,7 @@ Russia begins withdrawing some of its troops from Syria, as President Putin visi
 
 ##### Cinema of Saudi Arabia
 ### [The Ministry of Culture of Saudi Arabia announces that it will lift a ban on commercial cinemas that has lasted more than three decades. ](/news/2017/12/11/the-ministry-of-culture-of-saudi-arabia-announces-that-it-will-lift-a-ban-on-commercial-cinemas-that-has-lasted-more-than-three-decades.md)
-_Context: Ministry of Culture of Saudi Arabia, Cinema of Saudi Arabia_
+_Context: Cinema of Saudi Arabia, Ministry of Culture of Saudi Arabia_
 
 ##### Economy of the United Kingdom
 ### [A GBP6 billion ($8 billion) deal to sell 24 Eurofighter Typhoons to Qatar is announced. ](/news/2017/12/11/a-agbp6-billion-8-billion-deal-to-sell-24-eurofighter-typhoons-to-qatar-is-announced.md)
@@ -25,7 +25,7 @@ The blaze raging in Ventura and Santa Barbara counties covers more ground than N
 
 ##### Transgender personnel in the United States military
 ### [U.S. District Judge Colleen Kollar-Kotelly denies a Trump administration request to enforce the ban on transgender troops while this case is under appeal, thereby reaffirming her order that requires the U.S. military to accept transgender recruits effective January 1, 2018. ](/news/2017/12/11/u-s-district-judge-colleen-kollar-kotelly-denies-a-trump-administration-request-to-enforce-the-ban-on-transgender-troops-while-this-case-is.md)
-_Context: Transgender personnel in the United States military, Presidency of Donald Trump, Colleen Kollar-Kotelly_
+_Context: Colleen Kollar-Kotelly, Presidency of Donald Trump, Transgender personnel in the United States military_
 
 ##### Following purges in Turkey
 ### [Turkey's state news agency announces that prosecutors in Istanbul have requested life sentences against six people, including journalist brothers Ahmet and Mehmet Altan and chronicler Nazli Ilicak. One of the accusations is reportedly "having committed a crime in the name of a terror organization without being a member of it." ](/news/2017/12/11/turkey-s-state-news-agency-announces-that-prosecutors-in-istanbul-have-requested-life-sentences-against-six-people-including-journalist-bro.md)
@@ -33,11 +33,11 @@ Six suspects charged with attempting to overthrow constitutional order, governme
 
 ##### Hezbollah political activities
 ### [Hassan Nasrallah, the Secretary-General of Hezbollah, vows to return to Israel. Tens of thousands of people demonstrate in South Beirut. ](/news/2017/12/11/hassan-nasrallah-the-secretary-general-of-hezbollah-vows-to-return-to-israel-tens-of-thousands-of-people-demonstrate-in-south-beirut.md)
-_Context: Israel, Hassan Nasrallah, Beirut, Hezbollah political activities, Secretary-General of Hezbollah_
+_Context: Israel, Beirut, Hassan Nasrallah, Hezbollah political activities, Secretary-General of Hezbollah_
 
 ##### Ukrainian crisis
 ### [Ukrainian opposition leader Mikheil Saakashvili is freed from detention following Judge Larysa Tsokol's dismissal of prosecutors' house arrest request. ](/news/2017/12/11/ukrainian-opposition-leader-mikheil-saakashvili-is-freed-from-detention-following-judge-larysa-tsokol-s-dismissal-of-prosecutorsa-house-ar.md)
-_Context: Ukrainian crisis, house arrest, Movement of New Forces, Mikheil Saakashvili_
+_Context: Mikheil Saakashvili, Movement of New Forces, Ukrainian crisis, house arrest_
 
 ##### Politics of India
 ### [Rahul Gandhi is elected unopposed as the head of the opposition Congress Party. On 16 January 2018, he is to take over the reins from his mother Sonia Gandhi, who held the position for 19 years. ](/news/2017/12/11/rahul-gandhi-is-elected-unopposed-as-the-head-of-the-opposition-congress-party-on-16-january-2018-he-is-to-take-over-the-reins-from-his-mo.md)

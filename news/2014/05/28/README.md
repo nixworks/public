@@ -9,7 +9,7 @@ _Context: Lotfi Ben Jeddou, Tunisia_
 
 ##### Ramzan Kadyrov
 ### [Ramzan Kadyrov, Head of the Chechen Republic, insists he has not sent troops to Ukraine to fight alongside pro-Russia separatists. ](/news/2014/05/28/ramzan-kadyrov-head-of-the-chechen-republic-insists-he-has-not-sent-troops-to-ukraine-to-fight-alongside-pro-russia-separatists.md)
-_Context: Ramzan Kadyrov, Chechen Republic leader, Ukraine_
+_Context: Ukraine, Chechen Republic leader, Ramzan Kadyrov_
 
 ##### Tehrik-i-Taliban Pakistan
 ### [A split emerges in the Pakistani Taliban after the Mehsud faction walked out, saying the group leaders' tactics were "un-Islamic". ](/news/2014/05/28/a-split-emerges-in-the-pakistani-taliban-after-the-mehsud-faction-walked-out-saying-the-group-leaders-tactics-were-un-islamic.md)
@@ -21,7 +21,7 @@ At least 11 people have been killed and dozens injured in an attack on a church 
 
 ##### Apple Inc.
 ### [Apple Inc. confirms that it will buy Beats Electronics for $3 billion. ](/news/2014/05/28/apple-inc-confirms-that-it-will-buy-beats-electronics-for-3-billion.md)
-_Context: Beats Electronics, Apple Inc._
+_Context: Apple Inc., Beats Electronics_
 
 ##### South Korea
 ### [A fire at the Hyosarang hospital, a hospital for the elderly in South Korea's Jangseong County, kills at least 21 people and injures 7. ](/news/2014/05/28/a-fire-at-the-hyosarang-hospital-a-hospital-for-the-elderly-in-south-korea-s-jangseong-county-kills-at-least-21-people-and-injures-7.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2014/08/13/index.html)  [JSON](2014/08/13/index.json)  [XML](201
 
 ##### 2014 Israel-Gaza conflict
 ### [Associated Press journalist Simone Camilli, a freelance translator and four Gaza police officers are killed when police tried to defuse unexploded ordnance. ](/news/2014/08/13/associated-press-journalist-simone-camilli-a-freelance-translator-and-four-gaza-police-officers-are-killed-when-police-tried-to-defuse-unex.md)
-_Context: 2014 Israel-Gaza conflict, Associated Press, unexploded_
+_Context: unexploded, 2014 Israel-Gaza conflict, Associated Press_
 
 ##### Iraqi insurgency (2011-present)
 ### [The Syrian Observatory for Human Rights claims that 52 people have died as Islamic State of Iraq and the Levant Islamists gain control of eight villages between Aleppo and the Turkish border. ](/news/2014/08/13/the-syrian-observatory-for-human-rights-claims-that-52-people-have-died-as-islamic-state-of-iraq-and-the-levant-islamists-gain-control-of-ei.md)
@@ -29,11 +29,11 @@ Hoxhaj (@Enver_Hoxhaj) climbed for 16 positions in ranking, compared to 31st pla
 
 ##### Shooting of Michael Brown
 ### [Protests against the shooting of Michael Brown by the Ferguson Police Department in the US state of Missouri turn violent. ](/news/2014/08/13/protests-against-the-shooting-of-michael-brown-by-the-ferguson-police-department-in-the-us-state-of-missouri-turn-violent.md)
-_Context: Shooting of Michael Brown, police force, Missouri_
+_Context: Missouri, Shooting of Michael Brown, police force_
 
 ##### Slovenian parliamentary election, 2014
 ### [Miro Cerar secures an absolute majority of votes in parliament to become new prime minister of Slovenia after receiving an endorsement by the Pensioner's Party DeSUS, as well as by the outgoing PM Alenka Bratusek and her Alliance. ](/news/2014/08/13/miro-cerar-secures-an-absolute-majority-of-votes-in-parliament-to-become-new-prime-minister-of-slovenia-after-receiving-an-endorsement-by-th.md)
-_Context: Pensioner's Party DeSUS, Alenka Bratusek, Slovenia, Miro Cerar, alliance, Slovenian parliamentary election, 2014_
+_Context: Miro Cerar, Pensioner's Party DeSUS, Slovenia, alliance, Alenka Bratusek, Slovenian parliamentary election, 2014_
 
 ## [Previous Day...](/news/2014/08/12/index.md)
 

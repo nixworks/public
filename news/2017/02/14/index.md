@@ -13,7 +13,7 @@ Pakistani soldiers, Indian troops and one suspected rebel killed in separate inc
 
 ##### Kasai-Central clashes (2016-present)
 ### [According to the United Nations, the Congolese military has killed at least 101 people, including over 30 women, in the last five days while fighting Kamwina Nsapu rebels in Kasai-Central. ](/news/2017/02/14/according-to-the-united-nations-the-congolese-military-has-killed-at-least-101-people-including-over-30-women-in-the-last-five-days-while.md)
-_Context: Congolese military, Kasai-Central clashes (2016-present), United Nations, Kasai-Central_
+_Context: United Nations, Kasai-Central clashes (2016-present), Congolese military, Kasai-Central_
 
 ##### Cigna
 ### [Cigna announces that it has terminated its merger with Anthem, a deal that was blocked by a U.S. federal judge last week. In addition, Cigna sues Anthem for the $1.85 billion reverse termination fee, and for more than $13 billion in additional damages. Anthem says Cigna has no right to terminate the merger, a deal which in January was extended to April 30, 2017. ](/news/2017/02/14/cigna-announces-that-it-has-terminated-its-merger-with-anthem-a-deal-that-was-blocked-by-a-u-s-federal-judge-last-week-in-addition-cigna.md)
@@ -37,15 +37,15 @@ State media says more than 800 people have been detained in operations carried o
 
 ##### San Pedro de Macoris
 ### [Two radio journalists are shot dead and a co-worker injured in San Pedro de Macoris, Dominican Republic, while presenting the show "Milenio Caliente" on Facebook Live. Three people were arrested. ](/news/2017/02/14/two-radio-journalists-are-shot-dead-and-a-co-worker-injured-in-san-pedro-de-macoras-dominican-republic-while-presenting-the-show-milenio.md)
-_Context: San Pedro de Macoris, Dominican Republic, Facebook Live_
+_Context: Dominican Republic, Facebook Live, San Pedro de Macoris_
 
 ##### Joseph Clancy
 ### [Joseph Clancy, Director of the United States Secret Service, announces his retirement effective March 4. ](/news/2017/02/14/joseph-clancy-director-of-the-united-states-secret-service-announces-his-retirement-effective-march-4.md)
-_Context: Director of the United States Secret Service, Joseph Clancy_
+_Context: Joseph Clancy, Director of the United States Secret Service_
 
 ##### United Arab Emirates
 ### [The United Arab Emirates announces at the World Government Summit that its planned passenger drone will begin operations in July. ](/news/2017/02/14/the-united-arab-emirates-announces-at-the-world-government-summit-that-its-planned-passenger-drone-will-begin-operations-in-july.md)
-_Context: United Arab Emirates, passenger drone, World Government Summit_
+_Context: World Government Summit, passenger drone, United Arab Emirates_
 
 ## [Previous Day...](/news/2017/02/13/index.md)
 

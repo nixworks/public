@@ -9,11 +9,11 @@ Bahrain will pay $2.6 million in restitution to 17 families over the deaths of 1
 
 ##### Mexican Drug War
 ### [Mexican Drug War: Armed men beat up and abduct Marcelo Avila Lopez, a candidate for the municipal presidency of Apaxtla, Guerrero, and politician of the Institutional Revolutionary Party (PRI). ](/news/2012/06/26/mexican-drug-war-armed-men-beat-up-and-abduct-marcelo-avila-la3pez-a-candidate-for-the-municipal-presidency-of-apaxtla-guerrero-and-pol.md)
-_Context: List of politicians killed in the Mexican Drug War, Apaxtla, Guerrero, Mexican Drug War, Institutional Revolutionary Party_
+_Context: Mexican Drug War, Apaxtla, Guerrero, Institutional Revolutionary Party, List of politicians killed in the Mexican Drug War_
 
 ##### Rohingya
 ### [Thousands of Muslim Rohingya people flee Burma following religious clashes with Buddhists. ](/news/2012/06/26/thousands-of-muslim-rohingya-people-flee-burma-following-religious-clashes-with-buddhists.md)
-_Context: Burma, Rohingya, Buddhist_
+_Context: Buddhist, Burma, Rohingya_
 
 ##### Libya
 ### [A bomb explodes outside the Tunisian consulate in Libya; no casualties are reported. ](/news/2012/06/26/a-bomb-explodes-outside-the-tunisian-consulate-in-libya-no-casualties-are-reported.md)
@@ -37,7 +37,7 @@ The five members of the Spice Girls reunite to launch Viva Forever!, a new West 
 
 ##### Salman Rushdie
 ### ["The Stressful Life of Salman Rushdie and Implementation of his Verdict", an in-development video game designed to introduce the younger generations to "The Satanic Verses" controversy, is unveiled at a Tehran games expo. ](/news/2012/06/26/the-stressful-life-of-salman-rushdie-and-implementation-of-his-verdict-an-in-development-video-game-designed-to-introduce-the-younger-gen.md)
-_Context: Tehran, Salman Rushdie, ''The Satanic Verses'' controversy_
+_Context: ''The Satanic Verses'' controversy, Tehran, Salman Rushdie_
 
 ##### University of Virginia
 ### [The University of Virginia reinstates President Teresa Sullivan after she was ousted without a formal vote earlier this month. ](/news/2012/06/26/the-university-of-virginia-reinstates-president-teresa-sullivan-after-she-was-ousted-without-a-formal-vote-earlier-this-month.md)
@@ -69,7 +69,7 @@ _Context: Bradley Manning_
 
 ##### Yannis Stournaras
 ### [Yannis Stournaras is appointed as Greece's new finance minister. ](/news/2012/06/26/yannis-stournaras-is-appointed-as-greece-s-new-finance-minister.md)
-_Context: Greek Minister of Finance, Yannis Stournaras_
+_Context: Yannis Stournaras, Greek Minister of Finance_
 
 ##### Colombia
 ### [The vice president of Colombia, Angelino Garzon, awakes from an induced coma following his ischemic stroke. ](/news/2012/06/26/the-vice-president-of-colombia-angelino-garza3n-awakes-from-an-induced-coma-following-his-ischemic-stroke.md)

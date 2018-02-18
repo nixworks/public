@@ -9,7 +9,7 @@ Hundreds of exiled Syrian activists meeting in Istanbul on Saturday elected a 25
 
 ##### Bordj Menaiel
 ### [Two people are killed in a bombing near police headquarters in Bordj Menaiel, Algeria. ](/news/2011/07/16/two-people-are-killed-in-a-bombing-near-police-headquarters-in-bordj-menaa-el-algeria.md)
-_Context: Bordj Menaiel, Algeria_
+_Context: Algeria, Bordj Menaiel_
 
 ##### Dublin
 ### [Thousands of people are expected to demonstrate in Dublin against European Union - International Monetary Fund budget cuts. ](/news/2011/07/16/thousands-of-people-are-expected-to-demonstrate-in-dublin-against-european-union-international-monetary-fund-budget-cuts.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2009/05/20/index.html)  [JSON](2009/05/20/index.json)  [XML](200
 
 ##### United Kingdom
 ### [ The United Kingdom's House of Lords suspends Thomas Taylor and Peter Truscott until November for misconduct. ](/news/2009/05/20/the-united-kingdom-s-house-of-lords-suspends-thomas-taylor-and-peter-truscott-until-november-for-misconduct.md)
-_Context: Thomas Taylor, suspends, Peter Truscott, House of Lords, misconduct, United Kingdom_
+_Context: Peter Truscott, suspends, Thomas Taylor, misconduct, House of Lords, United Kingdom_
 
 ##### South East Queensland
 ### [ South East Queensland, Australia, is declared a natural disaster zone, following flooding. ](/news/2009/05/20/south-east-queensland-australia-is-declared-a-natural-disaster-zone-following-flooding.md)
@@ -13,7 +13,7 @@ Flood-hit south-east Queensland has been declared a natural disaster zone after 
 
 ##### Iran
 ### [ Iran launches a Sajjil-2 medium-range surface-to-surface missile. ](/news/2009/05/20/iran-launches-a-sajjil-2-medium-range-surface-to-surface-missile.md)
-_Context: medium-range missile, Sajjil, Iran, surface-to-surface missile, nuclear program_
+_Context: surface-to-surface missile, nuclear program, medium-range missile, Sajjil, Iran_
 
 ##### Indonesian Air Force
 ### [ An Air Force C-130 Hercules aircraft crashes in Java, Indonesia, killing at least 98 people. ](/news/2009/05/20/an-air-force-c-130-hercules-aircraft-crashes-in-java-indonesia-killing-at-least-98-people.md)
@@ -21,35 +21,35 @@ An Indonesian military transport plane carrying 110 passengers and crew crashed 
 
 ##### The Globe and Mail
 ### [ "The Globe and Mail" refutes portions of former Canadian Prime Minister Brian Mulroney's testimony about his relationship with German arms dealer Karlheinz Schreiber. ](/news/2009/05/20/the-globe-and-mail-refutes-portions-of-former-canadian-prime-minister-brian-mulroney-s-testimony-about-his-relationship-with-german-arms.md)
-_Context: The Globe and Mail, Brian Mulroney, Karlheinz Schreiber, German, defense contractor, Canadian, Prime Minister of Canada, relationship_
+_Context: Prime Minister of Canada, The Globe and Mail, German, relationship, Karlheinz Schreiber, defense contractor, Brian Mulroney, Canadian_
 
 ##### International Security Assistance Force
 ### [ The International Security Assistance Force reports that the Taliban are using white phosphorus in the Afghanistan War. ](/news/2009/05/20/the-international-security-assistance-force-reports-that-the-taliban-are-using-white-phosphorus-in-the-afghanistan-war.md)
-_Context: Taliban, International Security Assistance Force, white phosphorus, War, Afghan_
+_Context: War, white phosphorus, Afghan, Taliban, International Security Assistance Force_
 
 ##### Scotland
 ### [ Scottish First Minister Alex Salmond activates Whitelee Wind Farm, Europe's largest onshore wind farm. ](/news/2009/05/20/scottish-first-minister-alex-salmond-activates-whitelee-wind-farm-europe-s-largest-onshore-wind-farm.md)
-_Context: First Minister, Europe, Scotland, Alex Salmond, Whitelee Wind Farm, wind farm_
+_Context: Europe, wind farm, Whitelee Wind Farm, First Minister, Alex Salmond, Scotland_
 
 ##### Civilian
 ### [ Three civilians die during combat between Islamist insurgents and the African Union Mission in Mogadishu, Somalia. ](/news/2009/05/20/three-civilians-die-during-combat-between-islamist-insurgents-and-the-african-union-mission-in-mogadishu-somalia.md)
-_Context: African Union, Islamists, Mogadishu, AMISOM, declares, civilian, insurgents, Somalia_
+_Context: insurgents, declares, Islamists, Somalia, civilian, AMISOM, Mogadishu, African Union_
 
 ##### Japan
 ### [ Japan's economy contracted by 4% during the first fiscal quarter of 2009. ](/news/2009/05/20/japan-s-economy-contracted-by-4-during-the-first-fiscal-quarter-of-2009.md)
-_Context: first fiscal quarter, 4th quarter of 2007 and the second quarter of 2009, Economy of Japan, Japan_
+_Context: first fiscal quarter, Economy of Japan, 4th quarter of 2007 and the second quarter of 2009, Japan_
 
 ##### Irish
 ### [ Ireland's Commission to Inquire into Child Abuse concludes that the Roman Catholic Church and the Department of Education knew sexual abuse was "endemic" in boys' institutions. ](/news/2009/05/20/ireland-s-commission-to-inquire-into-child-abuse-concludes-that-the-roman-catholic-church-and-the-department-of-education-knew-sexual-abuse.md)
-_Context: boys' institutions, sexual abuse, Department of Education, endemic, Commission to Inquire into Child Abuse, sexual abuse, Roman Catholic Church, Irish_
+_Context: endemic, sexual abuse, boys' institutions, Irish, Department of Education, Commission to Inquire into Child Abuse, sexual abuse, Roman Catholic Church_
 
 ##### Car bomb
 ### [ A car bomb kills at least 34 people and injures 72 others in Baghdad, Iraq. ](/news/2009/05/20/a-car-bomb-kills-at-least-34-people-and-injures-72-others-in-baghdad-iraq.md)
-_Context: Iraq, car bomb, Baghdad_
+_Context: Baghdad, Iraq, car bomb_
 
 ##### Ontario Provincial Police
 ### [ The Provincial Police of Woodstock, Ontario, Canada, charge two people with abducting and murdering Victoria Stafford. ](/news/2009/05/20/the-provincial-police-of-woodstock-ontario-canada-charge-two-people-with-abducting-and-murdering-victoria-stafford.md)
-_Context: abducting, murder, Ontario, Canadian, Victoria Stafford, Woodstock, Ontario, Ontario Provincial Police_
+_Context: Ontario Provincial Police, abducting, Victoria Stafford, Canadian, Ontario, Woodstock, Ontario, murder_
 
 ##### FC Shakhtar Donetsk
 ### [ FC Shakhtar Donetsk defeat SV Werder Bremen to win the final UEFA Cup. ](/news/2009/05/20/fc-shakhtar-donetsk-defeat-sv-werder-bremen-to-win-the-final-uefa-cup.md)

@@ -29,15 +29,15 @@ Historically, a European has led the international financial body, but emerging 
 
 ##### Hip-hop
 ### [US hip-hop singer Sean Kingston is rushed to hospital after crashing his jet-ski into a Miami Beach bridge. ](/news/2011/05/29/us-hip-hop-singer-sean-kingston-is-rushed-to-hospital-after-crashing-his-jet-ski-into-a-miami-beach-bridge.md)
-_Context: hip-hop, Miami Beach, jet-ski, Sean Kingston_
+_Context: Miami Beach, Sean Kingston, jet-ski, hip-hop_
 
 ##### Greenpeace India's
 ### [3 Greenpeace activists successfully evade a Danish warship to scale an oil rig off the coast of Greenland, attempting to begin deepwater drilling in the arctic. ](/news/2011/05/29/3-greenpeace-activists-successfully-evade-a-danish-warship-to-scale-an-oil-rig-off-the-coast-of-greenland-attempting-to-begin-deepwater-dri.md)
-_Context: Greenpeace India's, Greenland, Denmark_
+_Context: Denmark, Greenpeace India's, Greenland_
 
 ##### Dennis Daugaard
 ### [Dennis Daugaard, the Governor of the US state of South Dakota, warns residents living south of the state capital of Pierre to prepare evacuation plans ahead of likely flooding of the Missouri River. ](/news/2011/05/29/dennis-daugaard-the-governor-of-the-us-state-of-south-dakota-warns-residents-living-south-of-the-state-capital-of-pierre-to-prepare-evacua.md)
-_Context: South Dakota Governor, Dennis Daugaard, Missouri River, Pierre, South Dakota_
+_Context: Pierre, Missouri River, Dennis Daugaard, South Dakota, South Dakota Governor_
 
 ##### Mich.
 ### [Storms in the US state of Michigan lead to the loss of power to 100,000 houses. ](/news/2011/05/29/storms-in-the-us-state-of-michigan-lead-to-the-loss-of-power-to-100-000-houses.md)
@@ -45,11 +45,11 @@ _Context: Mich._
 
 ##### Ferenc Madl
 ### [Ferenc Madl, the President of Hungary (2000-2005), dies in Budapest. ](/news/2011/05/29/ferenc-ma-dl-the-president-of-hungary-2000-2005-dies-in-budapest.md)
-_Context: President of Hungary, Budapest, Ferenc Madl_
+_Context: Budapest, Ferenc Madl, President of Hungary_
 
 ##### Sergei Bagapsh
 ### [Sergei Bagapsh, the President of the breakaway Georgian province of Abkhazia, dies from complications of lung surgery in Moscow. ](/news/2011/05/29/sergei-bagapsh-the-president-of-the-breakaway-georgian-province-of-abkhazia-dies-from-complications-of-lung-surgery-in-moscow.md)
-_Context: Sergei Bagapsh,  Georgian, Abkhazia, Moscow, President_
+_Context:  Georgian, Sergei Bagapsh, Moscow, President, Abkhazia_
 
 ##### Goodluck Jonathan
 ### [Goodluck Jonathan is sworn in as President of Nigeria at a ceremony attended by foreign heads of state in Abuja. ](/news/2011/05/29/goodluck-jonathan-is-sworn-in-as-president-of-nigeria-at-a-ceremony-attended-by-foreign-heads-of-state-in-abuja.md)
@@ -69,7 +69,7 @@ Political parties reach last-minute deal, saving the Assembly and averting a pol
 
 ##### Mohamed Bin Hammam
 ### [Mohamed Bin Hammam of Qatar announces he is to no longer run for the presidency of FIFA. ](/news/2011/05/29/mohamed-bin-hammam-of-qatar-announces-he-is-to-no-longer-run-for-the-presidency-of-fifa.md)
-_Context: FIFA, Qatar, Mohamed Bin Hammam_
+_Context: Mohamed Bin Hammam, Qatar, FIFA_
 
 ##### Sepp Blatter
 ### [Sepp Blatter is found to have no case to answer. ](/news/2011/05/29/sepp-blatter-is-found-to-have-no-case-to-answer.md)

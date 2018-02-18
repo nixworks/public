@@ -9,11 +9,11 @@ Dozens of young men have been shot dead in Nigeria by the military in Maiduguri,
 
 ##### Facing Mirrors
 ### [The film "Facing Mirrors" hits cinemas in Tehran. Though transsexualism has been legal in Iran since a fatwa was issued in 1987 by Ayatollah Ruhollah Khomeini and Iran permits more sex-change operations than any country except Thailand, this is the first time the subject has been treated on the big screen. ](/news/2012/11/2/the-film-facing-mirrors-hits-cinemas-in-tehran-though-transsexualism-has-been-legal-in-iran-since-a-fatwa-was-issued-in-1987-by-ayatolla.md)
-_Context: Tehran, transsexual, Ruhollah Khomeini, Iran, fatwa, Facing Mirrors_
+_Context: Facing Mirrors, Tehran, Ruhollah Khomeini, transsexual, fatwa, Iran_
 
 ##### Sir Nicholas Hytner
 ### [Sir Nicholas Hytner, Sir Nicholas Serota, Julian Lloyd Webber, Richard Rogers, Sir David Hare and Grayson Perry are among the cultural figures to criticise the "incredibly shortsighted" policy of excluding creative subjects from the core qualification at 16. ](/news/2012/11/2/sir-nicholas-hytner-sir-nicholas-serota-julian-lloyd-webber-richard-rogers-sir-david-hare-and-grayson-perry-are-among-the-cultural-figur.md)
-_Context: Nicholas Serota, Richard Rogers, Grayson Perry, Sir David Hare, Julian Lloyd Webber, Sir Nicholas Hytner_
+_Context: Richard Rogers, Sir David Hare, Julian Lloyd Webber, Sir Nicholas Hytner, Nicholas Serota, Grayson Perry_
 
 ##### 
 ### [Canada and Australia launch women's literary prizes. ](/news/2012/11/2/canada-and-australia-launch-women-s-literary-prizes.md)
@@ -35,7 +35,7 @@ The New York City Marathon, one of the premier US distance-running events, will 
 
 ##### Labour Party
 ### [Former British Labour Party minister Denis MacShane resigns his House of Commons seat after he wrongfully claimed at least GBP7,500 in expenses. ](/news/2012/11/2/former-british-labour-party-minister-denis-macshane-resigns-his-house-of-commons-seat-after-he-wrongfully-claimed-at-least-agbp7-500-in-expe.md)
-_Context: Denis MacShane, Labour Party, resign, House of Commons_
+_Context: resign, Labour Party, House of Commons, Denis MacShane_
 
 ## [Previous Day...](/news/2012/11/1/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2017/08/31/index.html)  [JSON](2017/08/31/index.json)  [XML](201
 
 ##### Wells Fargo account fraud scandal
 ### [Wells Fargo reports finding an additional 1.4 million potentially fake bank and credit card accounts, bringing the total problematic accounts to approximately 3.5 million. ](/news/2017/08/31/wells-fargo-reports-finding-an-additional-1-4-million-potentially-fake-bank-and-credit-card-accounts-bringing-the-total-problematic-account.md)
-_Context: Wells Fargo, Wells Fargo account fraud scandal_
+_Context: Wells Fargo account fraud scandal, Wells Fargo_
 
 ##### Hurricane Harvey
 ### [A series of small explosions occur at the Arkema chemical plant in Crosby, Texas, and according to the company more are expected, after floodwaters shut down the cooling systems that kept the chemicals stable. Houston Methodist San Jacinto Hospital in Baytown, Texas treated 21 first responders for chemical exposure. Residents living within a 1.5 mi radius of the plant are evacuated. ](/news/2017/08/31/a-series-of-small-explosions-occur-at-the-arkema-chemical-plant-in-crosby-texas-and-according-to-the-company-more-are-expected-after-floo.md)

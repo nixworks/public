@@ -25,7 +25,7 @@ A suicide driver rammed his explosive-laden car into a police checkpoint in the 
 
 ##### Taiwan
 ### [Typhoon Matmo (Henry) is expected to make landfall over Taiwan en route to eastern China later in the week. ](/news/2014/07/22/typhoon-matmo-henry-is-expected-to-make-landfall-over-taiwan-en-route-to-eastern-china-later-in-the-week.md)
-_Context: Taiwan, Chinese_
+_Context: Chinese, Taiwan_
 
 ##### Moscow Metro
 ### [Ivan Besedin is fired as the head of the Moscow Metro as a result of the derailment that cost 22 lives. ](/news/2014/07/22/ivan-besedin-is-fired-as-the-head-of-the-moscow-metro-as-a-result-of-the-derailment-that-cost-22-lives.md)

@@ -9,11 +9,11 @@ _Context: Uganda, Charles Wesley Mumbere, Bakonjo, Rwenzururu_
 
 ##### United Nations
 ### [ United Nations-backed electoral fraud investigators throw out a third of President Hamid Karzai's votes leading to a runoff in the presidential election. ](/news/2009/10/19/united-nationsabacked-electoral-fraud-investigators-throw-out-a-third-of-president-hamid-karzai-s-votes-leading-to-a-runoff-in-the-presid.md)
-_Context: Afghanistan President, Hamid Karzai, United Nations, presidential election, electoral fraud_
+_Context: presidential election, Hamid Karzai, Afghanistan President, United Nations, electoral fraud_
 
 ##### Slovakia
 ### [ Slovak Prime Minister Robert Fico says that he will also demand an opt-out in the Treaty of Lisbon if the Czech Republic is granted one. ](/news/2009/10/19/slovak-prime-minister-robert-fico-says-that-he-will-also-demand-an-opt-out-in-the-treaty-of-lisbon-if-the-czech-republic-is-granted-one.md)
-_Context: Treaty of Lisbon, Czech Republic, Prime Minister, Robert Fico's, Slovakia_
+_Context: Czech Republic, Robert Fico's, Treaty of Lisbon, Slovakia, Prime Minister_
 
 ##### Abraham Lauhenaspessy
 ### [ Abraham Lauhenaspessy ("Captain Bram"), a suspected kingpin people smuggler, is detained in Indonesia. ](/news/2009/10/19/abraham-lauhenaspessy-captain-bram-a-suspected-kingpin-people-smuggler-is-detained-in-indonesia.md)
@@ -21,7 +21,7 @@ A PEOPLE-smuggling kingpin has been detained in Indonesia in a breakthrough in e
 
 ##### Opposition
 ### [ The Opposition in the Australian Parliament demands details on the salary of high-profile Kerry O'Brien, presenter of "The 7.30 Report" for the Australian Broadcasting Corporation. ](/news/2009/10/19/the-opposition-in-the-australian-parliament-demands-details-on-the-salary-of-high-profile-kerry-o-brien-presenter-of-the-7-30-report-for.md)
-_Context: Parliament of Australia, Kerry O'Brien, The 7.30 Report, Australian Broadcasting Corporation, Opposition_
+_Context: The 7.30 Report, Opposition, Australian Broadcasting Corporation, Kerry O'Brien, Parliament of Australia_
 
 ##### Exoplanets
 ### [ 32 Extra Solar planets are discovered and announced, this making the record of most exoplanets discovered in one day and in one month. ](/news/2009/10/19/32-extra-solar-planets-are-discovered-and-announced-this-making-the-record-of-most-exoplanets-discovered-in-one-day-and-in-one-month.md)

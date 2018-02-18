@@ -45,7 +45,7 @@ China confirms the detained artist, Ai Weiwei, is being investigated for &quot;e
 
 ##### Montreal
 ### [Politicians in Montreal call for French rock star Bertrand Cantat to be denied entry after Theatre du Nouveau Monde hires him for some plays by Sophocles. ](/news/2011/04/7/politicians-in-montreal-call-for-french-rock-star-bertrand-cantat-to-be-denied-entry-after-tha-c-ac-tre-du-nouveau-monde-hires-him-for-some-pla.md)
-_Context: Bertrand Cantat, Sophocles, Montreal, Theatre du Nouveau Monde_
+_Context: Theatre du Nouveau Monde, Bertrand Cantat, Montreal, Sophocles_
 
 ##### Eurozone
 ### [Eurozone interest rates are raised to 1.25 per cent from the record low of 1 per cent by the European Central Bank (ECB) amid concerns this could cause problems for countries such as Portugal and the Republic of Ireland. ](/news/2011/04/7/eurozone-interest-rates-are-raised-to-1-25-per-cent-from-the-record-low-of-1-per-cent-by-the-european-central-bank-ecb-amid-concerns-this.md)
@@ -53,7 +53,7 @@ European Central Bank increases eurozone interest rates for the first time since
 
 ##### A$
 ### [The Australian dollar reaches a 28-year high against the United States dollar due to strong employment figures for March. ](/news/2011/04/7/the-australian-dollar-reaches-a-28-year-high-against-the-united-states-dollar-due-to-strong-employment-figures-for-march.md)
-_Context: A$, $_
+_Context: $, A$_
 
 ##### General Electric Co.
 ### [General Electric Co. announces that it is investing $600 million to construct a facility for the manufacture of thin-film solar panels, and says it hopes and expects to drive the price of solar energy down. ](/news/2011/04/7/general-electric-co-announces-that-it-is-investing-600-million-to-construct-a-facility-for-the-manufacture-of-thin-film-solar-panels-and.md)
@@ -69,7 +69,7 @@ An aftershock in Japan has killed two people, including a 63-year-old woman whos
 
 ##### Mexico
 ### [A 6.5 magnitude earthquake strikes in the Mexican state of Veracruz. ](/news/2011/04/7/a-6-5-magnitude-earthquake-strikes-in-the-mexican-state-of-veracruz.md)
-_Context: Mexico, Veracruz_
+_Context: Veracruz, Mexico_
 
 ##### Nitrogen
 ### [Injections of nitrogen into one of the reactors at Japan's stricken Fukushima Daiichi nuclear plant begins in an effort to stop further hydrogen blasts. ](/news/2011/04/7/injections-of-nitrogen-into-one-of-the-reactors-at-japan-s-stricken-fukushima-daiichi-nuclear-plant-begins-in-an-effort-to-stop-further-hydr.md)
@@ -77,11 +77,11 @@ Workers in Japan start injecting nitrogen into one of the reactors at the crippl
 
 ##### Power outage
 ### [Blackouts hit most Venezuelan states including the capital Caracas. ](/news/2011/04/7/blackouts-hit-most-venezuelan-states-including-the-capital-caracas.md)
-_Context: Caracas, power outage, Venezuela_
+_Context: power outage, Caracas, Venezuela_
 
 ##### State Department
 ### [A British government diplomat calls the United States Department of State to draw "attention to our concerns over Bradley Manning", the Welsh-born U.S. serviceman imprisoned by the U.S. military in solitary confinement and forced to sleep naked, conditions condemned by Amnesty International, the American Civil Liberties Union and British MPs among others. ](/news/2011/04/7/a-british-government-diplomat-calls-the-united-states-department-of-state-to-draw-attention-to-our-concerns-over-bradley-manning-the-wels.md)
-_Context: State Department, Wales, Bradley Manning, Amnesty International, American Civil Liberties Union_
+_Context: American Civil Liberties Union, Wales, State Department, Bradley Manning, Amnesty International_
 
 ##### David Cameron
 ### [UK prime minister David Cameron admits to students in Pakistan that Britain and its empire is to blame for many of the world's problems. ](/news/2011/04/7/uk-prime-minister-david-cameron-admits-to-students-in-pakistan-that-britain-and-its-empire-is-to-blame-for-many-of-the-world-s-problems.md)
@@ -97,11 +97,11 @@ Group of elderly Kenyans who say they were tortured by British officers in the 1
 
 ##### Hawaii Intermediate Court of Appeals
 ### [The Hawaii Intermediate Court of Appeals dismisses an appeal from a man wanting to see the President of the United States Barack Obama's birth certificate. ](/news/2011/04/7/the-hawaii-intermediate-court-of-appeals-dismisses-an-appeal-from-a-man-wanting-to-see-the-president-of-the-united-states-barack-obama-s-bir.md)
-_Context: U.S. President, Barack Obama, Hawaii Intermediate Court of Appeals, birth certificate, Barack Obama citizenship conspiracy theories_
+_Context: birth certificate, U.S. President, Barack Obama citizenship conspiracy theories, Hawaii Intermediate Court of Appeals, Barack Obama_
 
 ##### Labour Party
 ### [Former British Labour Party minister Elliot Morley pleads guilty to dishonestly claiming more than GBP30,000 in parliamentary expenses. ](/news/2011/04/7/former-british-labour-party-minister-elliot-morley-pleads-guilty-to-dishonestly-claiming-more-than-agbp30-000-in-parliamentary-expenses.md)
-_Context: United Kingdom Parliamentary expenses scandal, Labour Party, Elliot Morley_
+_Context: Elliot Morley, Labour Party, United Kingdom Parliamentary expenses scandal_
 
 ##### Nicola Roxon
 ### [Nicola Roxon, the Australian Minister for Health, announces plans to introduce legislation requiring tobacco products to be sold in plain packaging. ](/news/2011/04/7/nicola-roxon-the-australian-minister-for-health-announces-plans-to-introduce-legislation-requiring-tobacco-products-to-be-sold-in-plain-pa.md)
@@ -109,7 +109,7 @@ Australia will become the first country in the world to require tobacco products
 
 ##### Service Employees International Union
 ### [Seventeen people are arrested at a protest organised by the Service Employees International Union trying to storm the Governor of the US state of Washington's office in Olympia. ](/news/2011/04/7/seventeen-people-are-arrested-at-a-protest-organised-by-the-service-employees-international-union-trying-to-storm-the-governor-of-the-us-sta.md)
-_Context: Governor of Washington, Washington State, Olympia, Service Employees International Union_
+_Context: Service Employees International Union, Governor of Washington, Washington, Olympia_
 
 ## [Previous Day...](/news/2011/04/6/index.md)
 

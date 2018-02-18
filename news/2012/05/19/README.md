@@ -17,11 +17,11 @@ A suicide bomber kills at least 10 people, a number of them children, at a check
 
 ##### Sri Lanka
 ### [Sri Lanka marks the third anniversary of the end of its 26-year civil war with a large military parade in Colombo. ](/news/2012/05/19/sri-lanka-marks-the-third-anniversary-of-the-end-of-its-26-year-civil-war-with-a-large-military-parade-in-colombo.md)
-_Context: Sri Lankan Civil War, Sri Lanka, Colombo_
+_Context: Sri Lanka, Sri Lankan Civil War, Colombo_
 
 ##### Richard Dawkins
 ### [Ethologist, evolutionary biologist and atheist Richard Dawkins announces his support for British education secretary Michael Gove's plan to send free King James Bibles to every state school. ](/news/2012/05/19/ethologist-evolutionary-biologist-and-atheist-richard-dawkins-announces-his-support-for-british-education-secretary-michael-gove-s-plan-to.md)
-_Context: Michael Gove, Richard Dawkins, King James Bible_
+_Context: King James Bible, Michael Gove, Richard Dawkins_
 
 ##### 
 ### [At least 20 people are killed in an explosion in a road tunnel being constructed in central China. ](/news/2012/05/19/at-least-20-people-are-killed-in-an-explosion-in-a-road-tunnel-being-constructed-in-central-china.md)
@@ -35,7 +35,7 @@ Trio accused of making petrol bombs and plotting attacks, but supporters say sus
 
 ##### Chen Guangcheng
 ### [Chinese activist Chen Guangcheng and his wife and children arrive at Newark Liberty International Airport, New Jersey, after boarding a flight from Beijing. ](/news/2012/05/19/chinese-activist-chen-guangcheng-and-his-wife-and-children-arrive-at-newark-liberty-international-airport-new-jersey-after-boarding-a-flig.md)
-_Context: Chen Guangcheng, Beijing, Newark Liberty International Airport_
+_Context: Newark Liberty International Airport, Beijing, Chen Guangcheng_
 
 ##### Robert Spitzer
 ### [Retired American psychiatrist Robert Spitzer apologises for his "fatally flawed" study, published in 2001, which falsely lent credence to the myth that gay people could be "cured". ](/news/2012/05/19/retired-american-psychiatrist-robert-spitzer-apologises-for-his-fatally-flawed-study-published-in-2001-which-falsely-lent-credence-to-th.md)

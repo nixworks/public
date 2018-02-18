@@ -17,11 +17,11 @@ Democrats agreed to add only payments for senior citizens and disabled veterans 
 
 ##### Slovakia
 ### [ The Slovakian Parliament vote on the Lisbon Treaty ratification is indefinitely postponed. ](/news/2008/02/7/the-slovakian-parliament-vote-on-the-lisbon-treaty-ratification-is-indefinitely-postponed.md)
-_Context: Parliament of Slovakia, Slovakia, Lisbon Treaty_
+_Context: Lisbon Treaty, Parliament of Slovakia, Slovakia_
 
 ##### National Assembly
 ### [ The National Assembly of France approves the Treaty of Lisbon by 336 votes to 52. ](/news/2008/02/7/the-national-assembly-of-france-approves-the-treaty-of-lisbon-by-336-votes-to-52.md)
-_Context: Treaty of Lisbon, National Assembly_
+_Context: National Assembly, Treaty of Lisbon_
 
 ##### Space Shuttle Atlantis
 ### [ Space Shuttle Atlantis launches successfully on its STS-122 mission. ](/news/2008/02/7/space-shuttle-atlantis-launches-successfully-on-its-sts-122-mission.md)
@@ -29,7 +29,7 @@ Atlantis launches on schedule despite earlier forecasts of thunderstorms and hea
 
 ##### Muslim
 ### [ British Muslim cleric Abu Hamza al-Masri will be extradited to the United States to face terror charges. ](/news/2008/02/7/british-muslim-cleric-abu-hamza-al-masri-will-be-extradited-to-the-united-states-to-face-terror-charges.md)
-_Context: Abu Hamza al-Masri, United States, Muslim, extradition_
+_Context: Abu Hamza al-Masri, United States, extradition, Muslim_
 
 ##### United States
 ### [ There are mass arrests in the United States and Italy in an anti-Mafia sweep including three suspected senior members of the Gambino crime family. ](/news/2008/02/7/there-are-mass-arrests-in-the-united-states-and-italy-in-an-anti-mafia-sweep-including-three-suspected-senior-members-of-the-gambino-crime.md)
@@ -37,27 +37,27 @@ Police in the United States and Italy arrested 77 suspected members of the Mafia
 
 ##### 2008
 ### [ United States presidential election, 2008: Former Governor of Massachusetts Mitt Romney suspends his campaign. ](/news/2008/02/7/united-states-presidential-election-2008-former-governor-of-massachusetts-mitt-romney-suspends-his-campaign.md)
-_Context: his campaign, Mitt Romney, Massachusetts governor, 2008_
+_Context: 2008, Mitt Romney, his campaign, Massachusetts governor_
 
 ##### Eastern Orthodox Church
 ### [ The Orthodox Church of Greece elects a new leader, Archbishop Ieronymos II of Athens. ](/news/2008/02/7/the-orthodox-church-of-greece-elects-a-new-leader-archbishop-ieronymos-ii-of-athens.md)
-_Context: Archbishop Ieronymos II of Athens, Eastern Orthodox Church, Church of Greece_
+_Context: Archbishop Ieronymos II of Athens, Church of Greece, Eastern Orthodox Church_
 
 ##### Afghan
 ### [ No agreement on Afghanistan ahead of NATO meeting. ](/news/2008/02/7/no-agreement-on-afghanistan-ahead-of-nato-meeting.md)
-_Context: Afghan, NATO_
+_Context: NATO, Afghan_
 
 ##### United States Secretary of State
 ### [ The United States Secretary of State Condoleezza Rice and United Kingdom Secretary of State for Foreign and Commonwealth Affairs David Miliband visit Afghanistan. ](/news/2008/02/7/the-united-states-secretary-of-state-condoleezza-rice-and-united-kingdom-secretary-of-state-for-foreign-and-commonwealth-affairs-david-mili.md)
-_Context: United Kingdom, David Miliband, Condoleezza Rice, United States Secretary of State, Afghan, Foreign Secretary_
+_Context: Condoleezza Rice, Afghan, United Kingdom, Foreign Secretary, David Miliband, United States Secretary of State_
 
 ##### Rio Tinto
 ### [ Rio Tinto rejects BHP Billiton's $147 billion hostile takeover bid. ](/news/2008/02/7/rio-tinto-rejects-bhp-billiton-s-147-billion-hostile-takeover-bid.md)
-_Context: Rio Tinto, hostile takeover, BHP Billiton_
+_Context: BHP Billiton, Rio Tinto, hostile takeover_
 
 ##### WHO
 ### [ WHO declares global tobacco control efforts and an approach to avoid tens of millions of premature deaths by the middle of this century. ](/news/2008/02/7/who-declares-global-tobacco-control-efforts-and-an-approach-to-avoid-tens-of-millions-of-premature-deaths-by-the-middle-of-this-century.md)
-_Context: tobacco, WHO_
+_Context: WHO, tobacco_
 
 ## [Previous Day...](/news/2008/02/6/index.md)
 

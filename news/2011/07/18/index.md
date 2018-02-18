@@ -13,19 +13,19 @@ Gen. David Petraeus, the outgoing top commander of the NATO forces in Afghanista
 
 ##### Hotan
 ### [Rioting at a police station in Hotan in the Xinjiang region of western China kills at least four people. ](/news/2011/07/18/rioting-at-a-police-station-in-hotan-in-the-xinjiang-region-of-western-china-kills-at-least-four-people.md)
-_Context: Hotan, Xinjiang, China_
+_Context: Hotan, China, Xinjiang_
 
 ##### Japan
 ### [Nine months after a goodwill gesture Japan and South Korea will commence negotiations in August on the return of more than 1,200 volumes of ancient Korean royal archives taken during Japanese rule between 1910 and 1945. ](/news/2011/07/18/nine-months-after-a-goodwill-gesture-japan-and-south-korea-will-commence-negotiations-in-august-on-the-return-of-more-than-1-200-volumes-of.md)
-_Context: Japan, Korea's colonial occupation, South Korea_
+_Context: Korea's colonial occupation, Japan, South Korea_
 
 ##### Philadelphia Daily News
 ### [The "Philadelphia Daily News" reports that Cardinal Justin Rigali will resign five months after a U.S. grand jury accuses the Archdiocese of Philadelphia that he heads of failing to investigate claims of sexual abuse of children by clergy in the diocese. ](/news/2011/07/18/the-philadelphia-daily-news-reports-that-cardinal-justin-rigali-will-resign-five-months-after-a-u-s-grand-jury-accuses-the-archdiocese-of.md)
-_Context: sexual abuse, Philadelphia Daily News, Cardinal, grand jury, Justin Rigali, Archdiocese of Philadelphia_
+_Context: Cardinal, Archdiocese of Philadelphia, sexual abuse, grand jury, Justin Rigali, Philadelphia Daily News_
 
 ##### Cisco
 ### [Cisco Systems announces plans to cut 11,500 jobs including transfer of a plant employing 5,000 people in Juarez, Mexico, to Foxconn. ](/news/2011/07/18/cisco-systems-announces-plans-to-cut-11-500-jobs-including-transfer-of-a-plant-employing-5-000-people-in-juarez-mexico-to-foxconn.md)
-_Context: Ciudad Juarez, Cisco, Foxconn_
+_Context: Cisco, Foxconn, Ciudad Juarez_
 
 ##### Eastern United States
 ### [The eastern United States will have a heat wave this week which has already commenced in the Plains States and Midwest. ](/news/2011/07/18/the-eastern-united-states-will-have-a-heat-wave-this-week-which-has-already-commenced-in-the-plains-states-and-midwest.md)
@@ -37,11 +37,11 @@ _Context: haboob, Phoenix, Arizona_
 
 ##### Holy See
 ### [The Vatican and Malaysia establish diplomatic relations. ](/news/2011/07/18/the-vatican-and-malaysia-establish-diplomatic-relations.md)
-_Context: Holy See, Malaysia_
+_Context: Malaysia, Holy See_
 
 ##### Iran
 ### [Iran claims to have taken control of three Iranian Kurdish PJAK camps inside Iraq. ](/news/2011/07/18/iran-claims-to-have-taken-control-of-three-iranian-kurdish-pjak-camps-inside-iraq.md)
-_Context: PJAK, Iraq, Iran_
+_Context: Iran, PJAK, Iraq_
 
 ##### Russian President
 ### [The President of Russia Dmitry Medvedev commences a two-day visit to Germany. ](/news/2011/07/18/the-president-of-russia-dmitry-medvedev-commences-a-two-day-visit-to-germany.md)
@@ -49,7 +49,7 @@ _Context: Dmitry Medvedev, Russian President, German_
 
 ##### United States Secretary of State
 ### [The United States Secretary of State Hillary Clinton arrives in India for two days of talks with the Indian government. ](/news/2011/07/18/the-united-states-secretary-of-state-hillary-clinton-arrives-in-india-for-two-days-of-talks-with-the-indian-government.md)
-_Context: United States Secretary of State, India, Hillary Clinton_
+_Context: India, Hillary Clinton, United States Secretary of State_
 
 ##### Blog
 ### [The trial of five bloggers in the United Arab Emirates for advocating democratic reforms resumes. ](/news/2011/07/18/the-trial-of-five-bloggers-in-the-united-arab-emirates-for-advocating-democratic-reforms-resumes.md)
@@ -69,11 +69,11 @@ _Context: Israeli rights group, Palestinian_
 
 ##### Cabinet
 ### [A new Cabinet is sworn in in Egypt, with half the former members being replaced due to ongoing protests since the 2011 Egyptian revolution. ](/news/2011/07/18/a-new-cabinet-is-sworn-in-in-egypt-with-half-the-former-members-being-replaced-due-to-ongoing-protests-since-the-2011-egyptian-revolution.md)
-_Context: Cabinet, Egypt, 2011 Egyptian revolution_
+_Context: Egypt, Cabinet, 2011 Egyptian revolution_
 
 ##### United Kingdom
 ### [United Kingdom Secretary of State for Defence, Liam Fox announces plans to reduce the British Army to its smallest size since the start of the Second Boer War just over a century ago. By 2020, troop numbers will be reduced from the present 101,000 to 82,000, with a greater reliability on Territorial Army soldiers. ](/news/2011/07/18/united-kingdom-secretary-of-state-for-defence-liam-fox-announces-plans-to-reduce-the-british-army-to-its-smallest-size-since-the-start-of-t.md)
-_Context: United Kingdom, British Army, Second Boer War, Territorial Army, Secretary of State for Defence, Liam Fox_
+_Context: Second Boer War, British Army, United Kingdom, Secretary of State for Defence, Territorial Army, Liam Fox_
 
 ##### David Cameron
 ### [David Cameron, the Prime Minister of the United Kingdom, cuts short a tour of Africa due to the News of the World phone hacking affair inquiry. ](/news/2011/07/18/david-cameron-the-prime-minister-of-the-united-kingdom-cuts-short-a-tour-of-africa-due-to-the-news-of-the-world-phone-hacking-affair-inqui.md)
@@ -81,7 +81,7 @@ One of Scotland Yard&rsquo;s most senior detectives, John Yates, is set to be in
 
 ##### Bob Stenehjem
 ### [Bob Stenehjem, the Senate Majority Leader in the US state of North Dakota, is killed in an accident in Alaska. ](/news/2011/07/18/bob-stenehjem-the-senate-majority-leader-in-the-us-state-of-north-dakota-is-killed-in-an-accident-in-alaska.md)
-_Context: Senate Majority Leader, North Dakota, Bob Stenehjem, Alaska_
+_Context: North Dakota, Bob Stenehjem, Senate Majority Leader, Alaska_
 
 ##### ''Dawn'' spacecraft
 ### [The Dawn spacecraft takes its first photo of the asteroid 4 Vesta. ](/news/2011/07/18/the-dawn-spacecraft-takes-its-first-photo-of-the-asteroid-4-vesta.md)

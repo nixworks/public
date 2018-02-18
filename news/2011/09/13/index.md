@@ -5,11 +5,11 @@ Formats: [HTML](2011/09/13/index.html)  [JSON](2011/09/13/index.json)  [XML](201
 
 ##### Gothenburg
 ### [Investigators in Gothenburg, Sweden, now think that the four men arrested for the 2011 failed Gothenburg terrorist attack have links to the terrorist network Al-Qaida. ](/news/2011/09/13/investigators-in-gothenburg-sweden-now-think-that-the-four-men-arrested-for-the-2011-failed-gothenburg-terrorist-attack-have-links-to-the.md)
-_Context: Gothenburg, 2011 failed Gothenburg terrorist attack, Al-Qaida, Sweden_
+_Context: Al-Qaida, Gothenburg, Sweden, 2011 failed Gothenburg terrorist attack_
 
 ##### Taliban
 ### [Taliban insurgents attack the United States embassy, NATO headquarters and police buildings in the Afghan capital Kabul. ](/news/2011/09/13/taliban-insurgents-attack-the-united-states-embassy-nato-headquarters-and-police-buildings-in-the-afghan-capital-kabul.md)
-_Context: United States, Kabul, Taliban, Afghan, NATO_
+_Context: United States, Afghan, Taliban, NATO, Kabul_
 
 ##### Bankruptcy
 ### [U.S. bankruptcy court judge Mary Walrath rejects a reorganization plan submitted by Washington Mutual, holding that the Debtors erred by planning to pay senior debtholders a contract rate of interest rather than the federal judgment rate. ](/news/2011/09/13/u-s-bankruptcy-court-judge-mary-walrath-rejects-a-reorganization-plan-submitted-by-washington-mutual-holding-that-the-debtors-erred-by-pla.md)
@@ -25,15 +25,15 @@ At 6.15am, a fatal level crossing accident occurred in Flores neighbourhood on T
 
 ##### Pagami Creek wildfire
 ### [The Pagami Creek wildfire in the Boundary Waters Canoe Area Wilderness of the U.S. state of Minnesota spreads to over 100,000 acres, with smoke drifting across the Midwest. ](/news/2011/09/13/the-pagami-creek-wildfire-in-the-boundary-waters-canoe-area-wilderness-of-the-u-s-state-of-minnesota-spreads-to-over-100-000-acres-with-sm.md)
-_Context: Boundary Waters Canoe Area Wilderness, Pagami Creek wildfire, Midwest, Minnesota_
+_Context: Boundary Waters Canoe Area Wilderness, Midwest, Minnesota, Pagami Creek wildfire_
 
 ##### Pakistan
 ### [Pakistani Taliban gunmen opened fire on a Peshawar school bus that kills 15 people. ](/news/2011/09/13/pakistani-taliban-gunmen-opened-fire-on-a-peshawar-school-bus-that-kills-15-people.md)
-_Context: Pakistan, Taliban, Peshawar_
+_Context: Peshawar, Taliban, Pakistan_
 
 ##### Outbreak of dengue fever
 ### [Over 5,000 people have reportedly been infected by an outbreak of dengue fever in Pakistan. ](/news/2011/09/13/over-5-000-people-have-reportedly-been-infected-by-an-outbreak-of-dengue-fever-in-pakistan.md)
-_Context: Pakistan, outbreak of dengue fever_
+_Context: outbreak of dengue fever, Pakistan_
 
 ##### New York's 9th congressional district
 ### [Voters in New York's 9th congressional district go to the polls for a special election to replace former member of the United States House of Representatives Anthony Weiner with Republican Bob Turner winning a tight race with Democrat David Weprin ](/news/2011/09/13/voters-in-new-york-s-9th-congressional-district-go-to-the-polls-for-a-special-election-to-replace-former-member-of-the-united-states-house-o.md)

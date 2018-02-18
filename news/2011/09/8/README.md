@@ -13,7 +13,7 @@ The Department of Homeland Security said a new report of a threat of a car or tr
 
 ##### Unemployment
 ### [Unemployment in Australia is reported to have risen to 5.3% in August 2011. ](/news/2011/09/8/unemployment-in-australia-is-reported-to-have-risen-to-5-3-in-august-2011.md)
-_Context: Unemployment, Australia_
+_Context: Australia, Unemployment_
 
 ##### National Weather Service
 ### [The National Weather Service issues flash flooding warnings for the states of New York, New Jersey, Pennsylvania, Connecticut, Maryland and Virginia. ](/news/2011/09/8/the-national-weather-service-issues-flash-flooding-warnings-for-the-states-of-new-york-new-jersey-pennsylvania-connecticut-maryland-and.md)
@@ -21,7 +21,7 @@ _Context: Unemployment, Australia_
 
 ##### Japan
 ### [The death toll in Japan from Typhoon Talas reaches 54, with 55 people still missing. ](/news/2011/09/8/the-death-toll-in-japan-from-typhoon-talas-reaches-54-with-55-people-still-missing.md)
-_Context: Japan, Typhoon Talas_
+_Context: Typhoon Talas, Japan_
 
 ##### Power outage
 ### [A blackout in southern California, Arizona and Baja California in Mexico caused by the loss of the entire San Diego Gas & Electric system leads to the closure of San Onofre Nuclear Generating Station and the loss of power to more than two million people. ](/news/2011/09/8/a-blackout-in-southern-california-arizona-and-baja-california-in-mexico-caused-by-the-loss-of-the-entire-san-diego-gas-electric-system-le.md)
@@ -29,7 +29,7 @@ Millions were left in the dark Thursday, but SDG&E said it was making progress.
 
 ##### Tropical Storm Nate
 ### [Tropical Storm Nate causes heavy rain on Mexico's Atlantic Ocean coast. ](/news/2011/09/8/tropical-storm-nate-causes-heavy-rain-on-mexico-s-atlantic-ocean-coast.md)
-_Context: Tropical Storm Nate, Atlantic Ocean, Mexico_
+_Context: Mexico, Atlantic Ocean, Tropical Storm Nate_
 
 ##### Tuiloma Neroni Slade
 ### [Secretary General Tuiloma Neroni Slade is reappointed to a second, three-year term as head of the Pacific Islands Forum. ](/news/2011/09/8/secretary-general-tuiloma-neroni-slade-is-reappointed-to-a-second-three-year-term-as-head-of-the-pacific-islands-forum.md)
@@ -45,7 +45,7 @@ President Barack Obama plans to propose sparking job growth by injecting more th
 
 ##### President of Vietnam
 ### [Former President of Vietnam Vo Chi Cong dies in Ho Chi Minh City at the age of 99. ](/news/2011/09/8/former-president-of-vietnam-vo-chi-cong-dies-in-ho-chi-minh-city-at-the-age-of-99.md)
-_Context: Ho Chi Minh City, President of Vietnam, Vo Chi Cong_
+_Context: Ho Chi Minh City, Vo Chi Cong, President of Vietnam_
 
 ## [Previous Day...](/news/2011/09/7/index.md)
 

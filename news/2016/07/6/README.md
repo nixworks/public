@@ -5,11 +5,11 @@ Formats: [HTML](2016/07/6/index.html)  [JSON](2016/07/6/index.json)  [XML](2016/
 
 ##### Communist rebels
 ### [Twenty Philippine Army soldiers are under investigation after they are suspected of mutilating the body of a New People's Army member. The communist militant's eyes were gouged, his tongue was cut off and his throat was slit. ](/news/2016/07/6/twenty-philippine-army-soldiers-are-under-investigation-after-they-are-suspected-of-mutilating-the-body-of-a-new-people-s-army-member-the-c.md)
-_Context: army, communist rebels, New People's Army, gouged_
+_Context: New People's Army, communist rebels, army, gouged_
 
 ##### Yemeni Civil War
 ### [A suicide car bomb, that targeted the Central Security headquarters in the port city of Aden, Yemen, kills at least 26 people. Following the blast, militants stormed the compound and clashed with soldiers. No group immediately claimed responsibility but it is similar to an Islamic State in Iraq and the Levant attack on the port of Al Mukalla. ](/news/2016/07/6/a-suicide-car-bomb-that-targeted-the-central-security-headquarters-in-the-port-city-of-aden-yemen-kills-at-least-26-people-following-the.md)
-_Context: Al Mukalla, Aden, Central Security, Islamic State in Iraq and the Levant, Yemeni Civil War, Yemen_
+_Context: Yemeni Civil War, Al Mukalla, Islamic State in Iraq and the Levant, Aden, Yemen, Central Security_
 
 ##### Nickel
 ### [The price of nickel swings wildly after Philippines environment secretary Gina Lopez announces plans to close existing mines in the country. ](/news/2016/07/6/the-price-of-nickel-swings-wildly-after-philippines-environment-secretary-gina-lopez-announces-plans-to-close-existing-mines-in-the-country.md)
@@ -17,7 +17,7 @@ Nickel fell the most in eight weeks on speculation that the government may take 
 
 ##### Silvio Berlusconi
 ### [Business magnate and former Italian prime minister Silvio Berlusconi sells leading football club A.C. Milan to a Chinese consortium for an eventual EUR400 million. ](/news/2016/07/6/business-magnate-and-former-italian-prime-minister-silvio-berlusconi-sells-leading-football-club-a-c-milan-to-a-chinese-consortium-for-an-e.md)
-_Context: A.C. Milan, Silvio Berlusconi_
+_Context: Silvio Berlusconi, A.C. Milan_
 
 ##### 2016 federal election
 ### [Standard & Poor's drops Australia's debt outlook from stable to negative following the country's surprisingly close election this weekend. ](/news/2016/07/6/standard-poor-s-drops-australia-s-debt-outlook-from-stable-to-negative-following-the-country-s-surprisingly-close-election-this-weekend.md)
@@ -41,7 +41,7 @@ _Context: Hillary Clinton, Loretta Lynch, email server, Attorney General_
 
 ##### 2016 Zimbabwe protests
 ### [National "Stay Away" protests, organized over the Internet via the WhatsApp social messaging platform, take place in Zimbabwe, following fears of an economic collapse amid calls for President Robert Mugabe's resignation.](/news/2016/07/6/national-stay-away-protests-organized-over-the-internet-via-the-whatsapp-social-messaging-platform-take-place-in-zimbabwe-following-fea.md)
-_Context: Zimbabwe, WhatsApp, social messaging, Robert Mugabe, President, 2016 Zimbabwe protests, Internet_
+_Context: 2016 Zimbabwe protests, Internet, Robert Mugabe, President, WhatsApp, social messaging, Zimbabwe_
 
 ## [Previous Day...](/news/2016/07/5/index.md)
 

@@ -5,11 +5,11 @@ Formats: [HTML](2007/07/15/index.html)  [JSON](2007/07/15/index.json)  [XML](200
 
 ##### Sudan
 ### [ Sudan and a breakaway faction of the Justice and Equality Movement of Darfur sign a peace treaty. ](/news/2007/07/15/sudan-and-a-breakaway-faction-of-the-justice-and-equality-movement-of-darfur-sign-a-peace-treaty.md)
-_Context: Justice and Equality Movement, Sudan, Darfur_
+_Context: Darfur, Justice and Equality Movement, Sudan_
 
 ##### Abortion
 ### [ A law legalising abortion in the first ten weeks of pregnancy comes into effect in Portugal. ](/news/2007/07/15/a-law-legalising-abortion-in-the-first-ten-weeks-of-pregnancy-comes-into-effect-in-portugal.md)
-_Context: Portugal, abortion, pregnancy_
+_Context: pregnancy, abortion, Portugal_
 
 ##### Somalia
 ### [ A Somali peace conference in Mogadishu gets off to a bad start as it is disrupted by mortar shells. ](/news/2007/07/15/a-somali-peace-conference-in-mogadishu-gets-off-to-a-bad-start-as-it-is-disrupted-by-mortar-shells.md)
@@ -33,7 +33,7 @@ _Context: Taliban_
 
 ##### Brazil national football team
 ### [ Brazil defeats Argentina 3-0 in the 2007 Copa Amrica final. ](/news/2007/07/15/brazil-defeats-argentina-3-0-in-the-2007-copa-america-final.md)
-_Context: Argentina national football team, 2007 Copa Amrica, Brazil national football team_
+_Context: Brazil national football team, Argentina national football team, 2007 Copa Amrica_
 
 ## [Previous Day...](/news/2007/07/14/index.md)
 

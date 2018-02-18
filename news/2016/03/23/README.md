@@ -17,7 +17,7 @@ The Department of Labor on Wednesday released a long-awaited rule requiring comp
 
 ##### 2015-16 North American winter
 ### [A powerful blizzard sweeping Denver, Colorado, forces authorities to close Denver International Airport, Interstate 70, Interstate 25 and leaves more than 100,000 people without power. The Colorado Army National Guard has been deployed to help rescue those stranded by the storm. ](/news/2016/03/23/a-powerful-blizzard-sweeping-denver-colorado-forces-authorities-to-close-denver-international-airport-interstate-70-interstate-25-and-le.md)
-_Context: Late March 2016 North American blizzard, Colorado, Interstate 70, blizzard, Denver, 2015-16 North American winter, Interstate 25, Denver, Colorado, Colorado Army National Guard_
+_Context: blizzard, Interstate 25, Late March 2016 North American blizzard, 2015-16 North American winter, Colorado Army National Guard, Denver, Colorado, Denver, Interstate 70, Colorado_
 
 ##### European migrant crisis
 ### [Medecins Sans Frontieres (Doctors Without Borders) and the UN refugee agency, UNHCR, announce they are withdrawing from the so-called hotspots on the Greek islands because of the new EU-Turkey deal. UNHCR's Melissa Fleming says, "Under the new provisions, these sites (hotspots) have now become detention facilities." MSF's Marie Elisabeth Ingres says, "We will not allow our assistance to be instrumentalized (sic) for a mass expulsion operation, and we refuse to be part of a system that has no regard for the humanitarian or protection needs of asylum seekers and migrants." ](/news/2016/03/23/ma-c-decins-sans-frontia-res-doctors-without-borders-and-the-un-refugee-agency-unhcr-announce-they-are-withdrawing-from-the-so-called-hots.md)

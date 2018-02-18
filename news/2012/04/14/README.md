@@ -13,7 +13,7 @@ Boy among several people wounded when police opened fire as thousands joined fun
 
 ##### Sudan
 ### [Sudanese forces advance on the town of Heglig that is occupied by South Sudanese forces during days of cross-border clashes. ](/news/2012/04/14/sudanese-forces-advance-on-the-town-of-heglig-that-is-occupied-by-south-sudanese-forces-during-days-of-cross-border-clashes.md)
-_Context: Sudan, Heglig, South Sudan_
+_Context: South Sudan, Sudan, Heglig_
 
 ##### Tornadoes
 ### [Tornadoes touch down in the southern central Great Plains of the United States, with hail falling in Oklahoma. ](/news/2012/04/14/tornadoes-touch-down-in-the-southern-central-great-plains-of-the-united-states-with-hail-falling-in-oklahoma.md)

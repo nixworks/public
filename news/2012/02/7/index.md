@@ -29,7 +29,7 @@ Rescuers in the Philippines are digging through rubble with shovels and their ba
 
 ##### Pakistan
 ### [The death toll from a factory collapse in the Pakistani city of Lahore rises to 17 with 20 more people trapped in the rubble. ](/news/2012/02/7/the-death-toll-from-a-factory-collapse-in-the-pakistani-city-of-lahore-rises-to-17-with-20-more-people-trapped-in-the-rubble.md)
-_Context: Pakistan, Lahore_
+_Context: Lahore, Pakistan_
 
 ##### Cristina Fernandez de Kirchner
 ### [Cristina Fernandez de Kirchner, the President of Argentina, states that Argentina will lodge a complaint with the United Nations Security Council and the United Nations General Assembly about the alleged "militarisation" of the area around the Falkland Islands by the United Kingdom. ](/news/2012/02/7/cristina-ferna-ndez-de-kirchner-the-president-of-argentina-states-that-argentina-will-lodge-a-complaint-with-the-united-nations-security-c.md)
@@ -37,11 +37,11 @@ Argentina will make a formal complaint to the UN about British &quot;militarisat
 
 ##### United States Court of Appeals for the Ninth Circuit
 ### [The United States Court of Appeals for the Ninth Circuit overturns California's Proposition 8 banning gay marriage in that state. ](/news/2012/02/7/the-united-states-court-of-appeals-for-the-ninth-circuit-overturns-california-s-proposition-8-banning-gay-marriage-in-that-state.md)
-_Context: California, gay marriage, California Proposition 8, United States Court of Appeals for the Ninth Circuit_
+_Context: California Proposition 8, gay marriage, California, United States Court of Appeals for the Ninth Circuit_
 
 ##### United States
 ### [Manssor Arbabsiar will face a trial on October 22 in the United States for his role in the 2011 alleged Iran assassination plot against the Saudi Arabian ambassador. ](/news/2012/02/7/manssor-arbabsiar-will-face-a-trial-on-october-22-in-the-united-states-for-his-role-in-the-2011-alleged-iran-assassination-plot-against-the.md)
-_Context: Saudi Arabia, 2011 alleged Iran assassination plot, United States_
+_Context: 2011 alleged Iran assassination plot, Saudi Arabia, United States_
 
 ##### U.S. Republican Party presidential primaries
 ### [Republican Party voters in Colorado participate in caucuses with 36 delegates at stake - Santorum wins, with Mitt Romney placing second. ](/news/2012/02/7/republican-party-voters-in-colorado-participate-in-caucuses-with-36-delegates-at-stake-santorum-wins-with-mitt-romney-placing-second.md)
@@ -49,19 +49,19 @@ US conservative Rick Santorum wins races for the Republican presidential nominat
 
 ##### Government
 ### [The French Cabinet walks out of the National Assembly after Socialist Party MP Serge Letchimy accuses Interior Minister Claude Gueant of flirting with Nazi ideology in his statement that "not all civilisations are of equal value". ](/news/2012/02/7/the-french-cabinet-walks-out-of-the-national-assembly-after-socialist-party-mp-serge-letchimy-accuses-interior-minister-claude-gua-c-ant-of-fl.md)
-_Context: government, Nazi, PS, National Assembly, Claude Gueant, Serge Letchimy_
+_Context: Claude Gueant, government, Nazi, National Assembly, PS, Serge Letchimy_
 
 ##### Iran
 ### [The Iranian parliament summons president Mahmoud Ahmadinejad over economic policy, in the first such summons since the Iranian Revolution. ](/news/2012/02/7/the-iranian-parliament-summons-president-mahmoud-ahmadinejad-over-economic-policy-in-the-first-such-summons-since-the-iranian-revolution.md)
-_Context: Iranian Revolution, Iran, Mahmoud Ahmadinejad, Islamic Consultative Assembly_
+_Context: Islamic Consultative Assembly, Iranian Revolution, Iran, Mahmoud Ahmadinejad_
 
 ##### Law
 ### [An anti-gay bill is reintroduced in the Ugandan parliament after it was previously withdrawn. ](/news/2012/02/7/an-anti-gay-bill-is-reintroduced-in-the-ugandan-parliament-after-it-was-previously-withdrawn.md)
-_Context: law, Uganda_
+_Context: Uganda, law_
 
 ##### Congress
 ### [The United States Congress votes to pass legislation allowing for greater use of drone aircraft in the United States. ](/news/2012/02/7/the-united-states-congress-votes-to-pass-legislation-allowing-for-greater-use-of-drone-aircraft-in-the-united-states.md)
-_Context: Congress, drone aircraft, United States_
+_Context: drone aircraft, United States, Congress_
 
 ## [Previous Day...](/news/2012/02/6/index.md)
 

@@ -17,7 +17,7 @@ President Donald Trump said on Thursday that &quot;deeply troubling&quot; leaks 
 
 ##### Territorial disputes in the South China Sea
 ### [The USS Dewey sails within 12 nautical miles of the disputed Mischief Reef in the South China Sea. ](/news/2017/05/25/the-uss-dewey-sails-within-12-nautical-miles-of-the-disputed-mischief-reef-in-the-south-china-sea.md)
-_Context: Territorial disputes in the South China Sea, USS Dewey, Mischief Reef, South China Sea_
+_Context: Mischief Reef, USS Dewey, South China Sea, Territorial disputes in the South China Sea_
 
 ##### Immigration policy of Donald Trump
 ### [The United States Court of Appeals for the Fourth Circuit refuses to reinstate Executive Order 13780 on the basis of religious discrimination, upholding the District Court for Maryland's March 7 ruling. ](/news/2017/05/25/the-united-states-court-of-appeals-for-the-fourth-circuit-refuses-to-reinstate-executive-order-13780-on-the-basis-of-religious-discriminatio.md)
@@ -37,7 +37,7 @@ El Ni&ntilde;o conditions known for suppressing storms expected to be scarce dur
 
 ##### Juno mission
 ### [Results of the Juno mission are announced by NASA researchers, revealing new and unexpected information concerning Jupiter's poles, meteorology, and magnetic and gravitational fields. ](/news/2017/05/25/results-of-the-juno-mission-are-announced-by-nasa-researchers-revealing-new-and-unexpected-information-concerning-jupiter-s-poles-meteorol.md)
-_Context: Jupiter, NASA, meteorology, Juno mission, poles_
+_Context: poles, Jupiter, meteorology, Juno mission, NASA_
 
 ##### Rocket Lab
 ### [Rocket Lab launches its 3D-printed Electron rocket on a test flight from Mahia Peninsula in New Zealand. This is the first launch from New Zealand and the first from a private facility. Electron is 17 meters high, is intended for frequent launches of small payloads, and costs $5 million per liftoff. SpaceX's Falcon 9 stands at 70 meters, carries up to 22,800 kilograms to the ISS, and costs $62 million per launch. ](/news/2017/05/25/rocket-lab-launches-its-3d-printed-electron-rocket-on-a-test-flight-from-mahia-peninsula-in-new-zealand-this-is-the-first-launch-from-new.md)

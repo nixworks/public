@@ -9,7 +9,7 @@ _Context: Damascus_
 
 ##### Valiulla Yakupov
 ### [Russian Muslim leader Valiulla Yakupov is shot dead and the Mufti of Tatarstan, Ildus Fayzov, is wounded in two separate attacks in Kazan in the Russian Republic of Tatarstan. ](/news/2012/07/19/russian-muslim-leader-valiulla-yakupov-is-shot-dead-and-the-mufti-of-tatarstan-ildus-fayzov-is-wounded-in-two-separate-attacks-in-kazan-in.md)
-_Context: Kazan, Ildus Fayzov, Valiulla Yakupov, Russian Republic of Tatarstan_
+_Context: Ildus Fayzov, Russian Republic of Tatarstan, Kazan, Valiulla Yakupov_
 
 ##### Daily Telegraph
 ### [In an interview published by "The Daily Telegraph", British Prime Minister David Cameron suggests that government spending cuts will need to continue until the end of the decade. ](/news/2012/07/19/in-an-interview-published-by-the-daily-telegraph-british-prime-minister-david-cameron-suggests-that-government-spending-cuts-will-need-to.md)
@@ -21,15 +21,15 @@ _Context: Bangladesh, New York City, Humayun Ahmed, colorectal cancer_
 
 ##### Chinese
 ### [China summons a Russian diplomat after the latter country opened fire on a fishing boat and detained the Chinese crew. ](/news/2012/07/19/china-summons-a-russian-diplomat-after-the-latter-country-opened-fire-on-a-fishing-boat-and-detained-the-chinese-crew.md)
-_Context: Russia, Chinese_
+_Context: Chinese, Russia_
 
 ##### Omar Suleiman
 ### [Omar Suleiman, the former police and intelligence chief under ousted Egyptian dictator Hosni Mubarak, dies suddenly during medical tests in the United States. ](/news/2012/07/19/omar-suleiman-the-former-police-and-intelligence-chief-under-ousted-egyptian-dictator-hosni-mubarak-dies-suddenly-during-medical-tests-in.md)
-_Context: Hosni Mubarak, Omar Suleiman_
+_Context: Omar Suleiman, Hosni Mubarak_
 
 ##### Ban Ki-moon
 ### [Ban Ki-moon, the Secretary-General of the United Nations, condemns yesterday's bombing that killed the Syrian defence minister and other senior officials. ](/news/2012/07/19/ban-ki-moon-the-secretary-general-of-the-united-nations-condemns-yesterday-s-bombing-that-killed-the-syrian-defence-minister-and-other-sen.md)
-_Context: bombing, Ban Ki-moon, United Nations Secretary-General_
+_Context: bombing, United Nations Secretary-General, Ban Ki-moon_
 
 ##### The United Kingdom
 ### [Syrian leaders' assets with the worth of GBP100m are located and frozen in the United Kingdom. ](/news/2012/07/19/syrian-leaders-assets-with-the-worth-of-agbp100m-are-located-and-frozen-in-the-united-kingdom.md)
@@ -37,7 +37,7 @@ Assets worth £100m belonging to Syrian regime leaders have been located and fro
 
 ##### Antwerp, New York
 ### [Six people are killed and one is injured in Antwerp, New York when a tractor trailer carrying yogurt rear-ends a vehicle that had slowed for construction work. ](/news/2012/07/19/six-people-are-killed-and-one-is-injured-in-antwerp-new-york-when-a-tractor-trailer-carrying-yogurt-rear-ends-a-vehicle-that-had-slowed-for.md)
-_Context: yogurt, tractor trailer, Antwerp, New York_
+_Context: Antwerp, New York, yogurt, tractor trailer_
 
 ##### Birmingham
 ### [Eight men are found not guilty of the murder of three friends in Birmingham during last year's riots in England. ](/news/2012/07/19/eight-men-are-found-not-guilty-of-the-murder-of-three-friends-in-birmingham-during-last-year-s-riots-in-england.md)
@@ -49,11 +49,11 @@ A police officer who hit Ian Tomlinson with a baton and pushed him to the ground
 
 ##### New Delhi
 ### [One person is killed and 40 injured in clashes at a car plant in New Delhi, India, after workers attacked managers at the site. ](/news/2012/07/19/one-person-is-killed-and-40-injured-in-clashes-at-a-car-plant-in-new-delhi-india-after-workers-attacked-managers-at-the-site.md)
-_Context: India, New Delhi_
+_Context: New Delhi, India_
 
 ##### O le Ao o le Malo
 ### [O le Ao o le Malo Tufuga Efi is re-elected unopposed by the Parliament of Samoa. ](/news/2012/07/19/o-le-ao-o-le-malo-tufuga-efi-is-re-elected-unopposed-by-the-parliament-of-samoa.md)
-_Context: Parliament of Samoa, Tufuga Efi, re-elected unopposed, O le Ao o le Malo_
+_Context: re-elected unopposed, Tufuga Efi, O le Ao o le Malo, Parliament of Samoa_
 
 ##### Burma
 ### [Burma's state television airs the first memorial ceremony in over 20 years for Aung San &ndash; the father of Aung San Suu Kyi &ndash; who led the country to its independence. ](/news/2012/07/19/burma-s-state-television-airs-the-first-memorial-ceremony-in-over-20-years-for-aung-san-ndash-the-father-of-aung-san-suu-kyi-ndash-who-l.md)

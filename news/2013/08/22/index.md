@@ -5,7 +5,7 @@ Formats: [HTML](2013/08/22/index.html)  [JSON](2013/08/22/index.json)  [XML](201
 
 ##### Tehrik-i-Taliban Pakistan
 ### [5 Taliban militants are killed in bomb attack in South Waziristan. ](/news/2013/08/22/5-taliban-militants-are-killed-in-bomb-attack-in-south-waziristan.md)
-_Context: Tehrik-i-Taliban Pakistan, South Waziristan_
+_Context: South Waziristan, Tehrik-i-Taliban Pakistan_
 
 ##### Iraq
 ### [Fourteen people are killed by a suicide bomber in a military headquarters in Western Iraq. ](/news/2013/08/22/fourteen-people-are-killed-by-a-suicide-bomber-in-a-military-headquarters-in-western-iraq.md)
@@ -29,7 +29,7 @@ _Context: Monterey Park, California_
 
 ##### Rim Fire
 ### [The Rim Fire, in Yosemite National Park forces evacuations. ](/news/2013/08/22/the-rim-fire-in-yosemite-national-park-forces-evacuations.md)
-_Context: Rim Fire, Yosemite National Park_
+_Context: Yosemite National Park, Rim Fire_
 
 ##### 10 Downing Street
 ### [The UK government's independent reviewer of terrorism laws is to probe the arrest of David Miranda. ](/news/2013/08/22/the-uk-government-s-independent-reviewer-of-terrorism-laws-is-to-probe-the-arrest-of-david-miranda.md)

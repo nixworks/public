@@ -21,7 +21,7 @@ The body of a 5-year-old boy, who went missing Friday after the car he was in wa
 
 ##### December 2015 Hindu Kush earthquake
 ### [Officials report at least four people died and more than 100 were injured, most in Pakistan, after Friday night's 6.3 magnitude earthquake in northeast Afghanistan. Casualty numbers may change since rescue teams have not reached all affected areas. ](/news/2015/12/26/officials-report-at-least-four-people-died-and-more-than-100-were-injured-most-in-pakistan-after-friday-night-s-6-3-magnitude-earthquake-i.md)
-_Context: Afghan, December 2015 Hindu Kush earthquake, magnitude, Pakistan_
+_Context: magnitude, Pakistan, Afghan, December 2015 Hindu Kush earthquake_
 
 ##### Chinese Foreign Ministry spokesperson
 ### [China's Foreign Ministry announces French journalist Ursula Gauthier of news magazine L'Obs would not be issued press credentials for 2016, effectively expelling her at the end of month. Gauthier allegedly made speculative reports on the deadly attack at a coal mine in Xinjiang. ](/news/2015/12/26/china-s-foreign-ministry-announces-french-journalist-ursula-gauthier-of-news-magazine-l-obs-would-not-be-issued-press-credentials-for-2016.md)
@@ -29,7 +29,7 @@ China is &#039;expelling&#039; a French journalist for writing article critical 
 
 ##### Louisville, Kentucky
 ### [ In the Louisville community of St. Matthews, Kentucky, US, disruptive behavior by a crowd of up to 2,000 teenagers and young adults, including numerous fights and unconfirmed reports of gunshots fired, causes Mall St. Matthews, one of the largest shopping malls in the state, to close early. Despite the unrest, no arrests were made and only minor injuries were reported. ](/news/2015/12/26/in-the-louisville-community-of-st-matthews-kentucky-us-disruptive-behavior-by-a-crowd-of-up-to-2-000-teenagers-and-young-adults-includ.md)
-_Context: St. Matthews, Kentucky, shopping mall, Louisville, Kentucky, Mall St. Matthews_
+_Context: Mall St. Matthews, Louisville, Kentucky, shopping mall, St. Matthews, Kentucky_
 
 ## [Previous Day...](/news/2015/12/25/index.md)
 

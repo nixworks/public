@@ -5,19 +5,19 @@ Formats: [HTML](2012/05/23/index.html)  [JSON](2012/05/23/index.json)  [XML](201
 
 ##### Drones launch
 ### [A drone attack conducted by the United States kills five people in a tribal area of North Waziristan, Pakistan. ](/news/2012/05/23/a-drone-attack-conducted-by-the-united-states-kills-five-people-in-a-tribal-area-of-north-waziristan-pakistan.md)
-_Context: United States, drones launch, North Waziristan_
+_Context: drones launch, North Waziristan, United States_
 
 ##### Iranian Naval
 ### [The Iranian navy assists an American cargo ship that was attacked by pirates off the United Arab Emirates. ](/news/2012/05/23/the-iranian-navy-assists-an-american-cargo-ship-that-was-attacked-by-pirates-off-the-united-arab-emirates.md)
-_Context: Iranian Naval, United States, United Arab Emirates_
+_Context: United States, United Arab Emirates, Iranian Naval_
 
 ##### Georgia
 ### [Georgia-native Phillip Phillips is crowned the eleventh "American Idol". Runner-up Jessica Sanchez is the first contestant of Asian ancestry to advance in the finals. ](/news/2012/05/23/georgia-native-phillip-phillips-is-crowned-the-eleventh-american-idol-runner-up-jessica-sanchez-is-the-first-contestant-of-asian-ancestry.md)
-_Context: American Idol, Jessica Sanchez, Georgia, Phillip Phillips, eleventh_
+_Context: Phillip Phillips, eleventh, American Idol, Georgia, Jessica Sanchez_
 
 ##### Adam Lambert
 ### [Adam Lambert became the first openly gay artist to debuted at #1 on the Billboard 200 Album Charts, with his album "Trespassing". ](/news/2012/05/23/adam-lambert-became-the-first-openly-gay-artist-to-debuted-at-1-on-the-billboard-200-album-charts-with-his-album-trespassing.md)
-_Context: Billboard 200, Adam Lambert, openly gay, Trespassing_
+_Context: Adam Lambert, Trespassing, Billboard 200, openly gay_
 
 ##### Crude oil
 ### [The price of crude oil falls to a seven-month low due to high supply and constructive talks regarding Iran's nuclear program. ](/news/2012/05/23/the-price-of-crude-oil-falls-to-a-seven-month-low-due-to-high-supply-and-constructive-talks-regarding-iran-s-nuclear-program.md)
@@ -29,11 +29,11 @@ Hewlett-Packard said it will cut 27,000 jobs across the globe to save on costs a
 
 ##### Dr. Shakil Afridi
 ### [Shakil Afridi, a Pakistani physician who helped the CIA to track down Osama bin Laden by collecting DNA samples from residents of bin Laden's compound, is sentenced to 33 years' imprisonment for treason. ](/news/2012/05/23/shakil-afridi-a-pakistani-physician-who-helped-the-cia-to-track-down-osama-bin-laden-by-collecting-dna-samples-from-residents-of-bin-laden.md)
-_Context: Dr. Shakil Afridi, bin Laden's compound, treason, CIA, Pakistan, DNA, Osama bin Laden_
+_Context: treason, bin Laden's compound, Pakistan, DNA, Dr. Shakil Afridi, CIA, Osama bin Laden_
 
 ##### Egypt
 ### [Voters in Egypt go to the polls for a presidential election, 15 months after former president Hosni Mubarak was ousted in a revolution. ](/news/2012/05/23/voters-in-egypt-go-to-the-polls-for-a-presidential-election-15-months-after-former-president-hosni-mubarak-was-ousted-in-a-revolution.md)
-_Context: 2011 Egyptian revolution, Hosni Mubarak, Egypt, presidential election_
+_Context: presidential election, 2011 Egyptian revolution, Hosni Mubarak, Egypt_
 
 ## [Previous Day...](/news/2012/05/22/index.md)
 

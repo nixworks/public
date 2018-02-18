@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/07/15/the-prime-minister-of-turkey-binali-ya-lda-ra-m
 
 ### [2016-07-15](/news/2016/07/15/index.md)
 
-##### July 2016 Turkish ''coup d'etat'' attempt
+##### 2016 Turkish coup d'etat attempt
 # The Prime Minister of Turkey Binali Yildirim calls for "calm" over what he states was an "illegal attempt" by sections of the Turkish military to claim power. 
 
 Turkish president Recep Tayyip Erdogan was warned by world leaders on Sunday not to use the attempted coup as &ldquo;carte blanche to do whatever he wants,&quot; amid concerns the putsch has become a pretext for him to consolidate power.

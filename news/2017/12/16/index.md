@@ -21,11 +21,11 @@ A search continues for 15 people missing, after five died in a village in the so
 
 ##### Politics of Australia
 ### [The Coalition keep a one-seat majority in the Australian House of Representatives after the Liberals win the Bennelong by-election. ](/news/2017/12/16/the-coalition-keep-a-one-seat-majority-in-the-australian-house-of-representatives-after-the-liberals-win-the-bennelong-by-election.md)
-_Context: Coalition, Bennelong by-election, Politics of Australia, Liberals, Australian House of Representatives_
+_Context: Liberals, Bennelong by-election, Politics of Australia, Coalition, Australian House of Representatives_
 
 ##### Politics of South Africa
 ### [Thousands of delegates of the African National Congress gather in Johannesburg to elect a party leader, who may replace President Jacob Zuma before his term expires in 2019. ](/news/2017/12/16/thousands-of-delegates-of-the-african-national-congress-gather-in-johannesburg-to-elect-a-party-leader-who-may-replace-president-jacob-zuma.md)
-_Context: gather, Jacob Zuma, President of South Africa, term expires in 2019, African National Congress, Politics of South Africa, Johannesburg_
+_Context: Jacob Zuma, Johannesburg, African National Congress, term expires in 2019, Politics of South Africa, President of South Africa, gather_
 
 ##### Advanced Aviation Threat Identification Program
 ### [The existence of a U.S. government program that investigated reports of UFOs is revealed. ](/news/2017/12/16/the-existence-of-a-u-s-government-program-that-investigated-reports-of-ufos-is-revealed.md)

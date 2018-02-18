@@ -13,15 +13,15 @@ _Context: Iraq, Samarra, Islamic State in Iraq and the Levant_
 
 ##### German
 ### [Germany's most successful television show, "Wetten, dass..?", ends after a 33-year-run. ](/news/2014/12/13/germany-s-most-successful-television-show-wetten-dass-ends-after-a-33-year-run.md)
-_Context: German, Wetten, dass..?_
+_Context: Wetten, dass..?, German_
 
 ##### Landslide
 ### [Landslides caused by heavy rain in Java, Indonesia, kill at least 17 people with a hundred still unaccounted for. ](/news/2014/12/13/landslides-caused-by-heavy-rain-in-java-indonesia-kill-at-least-17-people-with-a-hundred-still-unaccounted-for.md)
-_Context: Java, landslide, Landslide, Indonesia_
+_Context: landslide, Java, Indonesia, Landslide_
 
 ##### Vietnam
 ### [Vietnam files an intervention in the arbitration case about the South China Sea with Vietnam rejecting China's claims. ](/news/2014/12/13/vietnam-files-an-intervention-in-the-arbitration-case-about-the-south-china-sea-with-vietnam-rejecting-china-s-claims.md)
-_Context: South China Sea, Vietnam, Chinese_
+_Context: Vietnam, South China Sea, Chinese_
 
 ##### India and Russia
 ### [India and Russia sign deals on infrastructure, nuclear energy, and defence. ](/news/2014/12/13/india-and-russia-sign-deals-on-infrastructure-nuclear-energy-and-defence.md)

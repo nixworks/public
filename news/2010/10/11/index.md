@@ -5,15 +5,15 @@ Formats: [HTML](2010/10/11/index.html)  [JSON](2010/10/11/index.json)  [XML](201
 
 ##### Telugu Desam
 ### [A Telugu Desam leader is murdered in broad daylight in a restaurant near Srikantam circle in Anantapur, India. ](/news/2010/10/11/a-telugu-desam-leader-is-murdered-in-broad-daylight-in-a-restaurant-near-srikantam-circle-in-anantapur-india.md)
-_Context: Anantapur, Srikantam, Telugu Desam_
+_Context: Srikantam, Anantapur, Telugu Desam_
 
 ##### Afghanistan President
 ### [Afghan President Hamid Karzai confirms holding unofficial talks with Taliban "for quite some time" in order to end the nine-year war. ](/news/2010/10/11/afghan-president-hamid-karzai-confirms-holding-unofficial-talks-with-taliban-for-quite-some-time-in-order-to-end-the-nine-year-war.md)
-_Context: Taliban, Hamid Karzai, Afghanistan President, War in Afghanistan (2001-present)_
+_Context: Hamid Karzai, Taliban, War in Afghanistan (2001-present), Afghanistan President_
 
 ##### Indian Army
 ### [The Indian Army says that nearly 40 militants have been killed by security forces during 25 infiltration attempts in Indian-controlled Kashmir from across the border in the last two months. ](/news/2010/10/11/the-indian-army-says-that-nearly-40-militants-have-been-killed-by-security-forces-during-25-infiltration-attempts-in-indian-controlled-kashm.md)
-_Context: Kashmir, Indian Army_
+_Context: Indian Army, Kashmir_
 
 ##### The Hobbit
 ### ["The Hobbit" is set to be most expensive movie ever. The New Zealand company, Wingnut Films, is waiting for the green light for its planned adaptation. ](/news/2010/10/11/the-hobbit-is-set-to-be-most-expensive-movie-ever-the-new-zealand-company-wingnut-films-is-waiting-for-the-green-light-for-its-planned.md)
@@ -41,23 +41,23 @@ _Context: Bulandshahr, Uttar Pradesh_
 
 ##### Flood
 ### [The death toll from flooding in Indonesia reaches 145 with West Papua most heavily affected. ](/news/2010/10/11/the-death-toll-from-flooding-in-indonesia-reaches-145-with-west-papua-most-heavily-affected.md)
-_Context: West Papua, flood, Indonesia_
+_Context: flood, West Papua, Indonesia_
 
 ##### 2010 Atlantic hurricane season
 ### [2010 Atlantic hurricane season: Tropical Storm Paula forms near Honduras and is expected to become a hurricane by Tuesday. ](/news/2010/10/11/2010-atlantic-hurricane-season-tropical-storm-paula-forms-near-honduras-and-is-expected-to-become-a-hurricane-by-tuesday.md)
-_Context: Honduras, hurricane, Tropical Storm Paula (2010), 2010 Atlantic hurricane season_
+_Context: hurricane, 2010 Atlantic hurricane season, Honduras, Tropical Storm Paula (2010)_
 
 ##### Israel
 ### [Israeli Prime Minister Benjamin Netanyahu says that he will extend the settlement freeze if the Palestinian leadership recognizes Israel as a Jewish state. The Palestinians quickly reject the offer. ](/news/2010/10/11/israeli-prime-minister-benjamin-netanyahu-says-that-he-will-extend-the-settlement-freeze-if-the-palestinian-leadership-recognizes-israel-as.md)
-_Context: Israel, Benjamin Netanyahu, Israeli Prime Minister, Palestine_
+_Context: Palestine, Israel, Israeli Prime Minister, Benjamin Netanyahu_
 
 ##### Chinese
 ### [China cancels a meeting with Norwegian Minister of Fisheries and Coastal Affairs Lisbeth Berg-Hansen after the Nobel Peace Prize is awarded to him. ](/news/2010/10/11/china-cancels-a-meeting-with-norwegian-minister-of-fisheries-and-coastal-affairs-lisbeth-berg-hansen-after-the-nobel-peace-prize-is-awarded.md)
-_Context: Norway, Chinese, Nobel Peace Prize, Lisbeth Berg-Hansen, Minister of Fisheries and Coastal Affairs_
+_Context: Norway, Nobel Peace Prize, Chinese, Lisbeth Berg-Hansen, Minister of Fisheries and Coastal Affairs_
 
 ##### United Arab Emirates
 ### [The United Arab Emirates closes its airspace to Canada's Defence Minister Peter MacKay over a growing dispute over aviation rights.](/news/2010/10/11/the-united-arab-emirates-closes-its-airspace-to-canada-s-defence-minister-peter-mackay-over-a-growing-dispute-over-aviation-rights.md)
-_Context: United Arab Emirates, Defence Minister, Canadian, Peter MacKay, dispute over aviation rights_
+_Context: Peter MacKay, Defence Minister, United Arab Emirates, dispute over aviation rights, Canadian_
 
 ##### Greek Police
 ### [Greek Police officer Epaminondas Korkoneas is convicted of the culpable homicide of teenager Alexandros Grigoropoulos which sparked the 2008 Greek riots. ](/news/2010/10/11/greek-police-officer-epaminondas-korkoneas-is-convicted-of-the-culpable-homicide-of-teenager-alexandros-grigoropoulos-which-sparked-the-2008.md)
@@ -65,27 +65,27 @@ A Greek policeman is sentenced to life in jail for murdering a schoolboy in 2008
 
 ##### United Kingdom
 ### [British judge Heather Hallett opens the inquests into the 7 July 2005 London bombings. ](/news/2010/10/11/british-judge-heather-hallett-opens-the-inquests-into-the-7-july-2005-london-bombings.md)
-_Context: inquest, 7 July, Heather Hallett, United Kingdom_
+_Context: United Kingdom, inquest, Heather Hallett, 7 July_
 
 ##### His predecessor
 ### [Benigno Aquino III, the President of the Philippines, elects only for administrative, and no criminal charges to be laid in relation to the botched Manila hostage crisis in August. ](/news/2010/10/11/benigno-aquino-iii-the-president-of-the-philippines-elects-only-for-administrative-and-no-criminal-charges-to-be-laid-in-relation-to-the.md)
-_Context: President, his predecessor, Manila hostage crisis_
+_Context: Manila hostage crisis, his predecessor, President_
 
 ##### Sexual abuse
 ### [A woman accused of sexually abusing girls at the Oprah Winfrey Leadership Academy for Girls in Meyerton, South Africa, is acquitted. ](/news/2010/10/11/a-woman-accused-of-sexually-abusing-girls-at-the-oprah-winfrey-leadership-academy-for-girls-in-meyerton-south-africa-is-acquitted.md)
-_Context: sexual abuse, Meyerton, Leadership Academy for Girls, Oprah Winfrey, South Africa_
+_Context: South Africa, Oprah Winfrey, Leadership Academy for Girls, Meyerton, sexual abuse_
 
 ##### Sakineh Mohammadi Ashtiani
 ### [The son of Sakineh Mohammadi Ashtiani, the woman sentenced to death by stoning, and two German journalists posing as tourists seeking to interview him, may have been arrested in Iran. ](/news/2010/10/11/the-son-of-sakineh-mohammadi-ashtiani-the-woman-sentenced-to-death-by-stoning-and-two-german-journalists-posing-as-tourists-seeking-to-int.md)
-_Context: Iran, journalist, German, Sakineh Mohammadi Ashtiani_
+_Context: journalist, Sakineh Mohammadi Ashtiani, German, Iran_
 
 ##### Ata-Zhurt
 ### [Five Kyrgyz political parties, including Ata-Zhurt, Social Democratic Party of Krygyzstan, Ar-Namys, Respublika, and Ata Meken, have passed all thresholds at the election thus can obtain parliamentary seats. ](/news/2010/10/11/five-kyrgyz-political-parties-including-ata-zhurt-social-democratic-party-of-krygyzstan-ar-namys-respublika-and-ata-meken-have-passed.md)
-_Context: Ata Meken, Ata-Zhurt, Social Democratic Party of Kyrgyzstan, Ar-Namys, Respublika_
+_Context: Ata Meken, Ar-Namys, Social Democratic Party of Kyrgyzstan, Ata-Zhurt, Respublika_
 
 ##### Bharatiya Janata Party
 ### [The Bharatiya Janata Party government of India's Karnataka state wins a vote of no confidence after 16 members of the Karnataka Legislative Assembly are disqualified from voting. ](/news/2010/10/11/the-bharatiya-janata-party-government-of-india-s-karnataka-state-wins-a-vote-of-no-confidence-after-16-members-of-the-karnataka-legislative.md)
-_Context: Bharatiya Janata Party, India, Karnataka state, vote of no confidence, Legislative Assembly_
+_Context: Legislative Assembly, India, vote of no confidence, Bharatiya Janata Party, Karnataka state_
 
 ##### Government of Bolivia
 ### [The government of Bolivia annuls a new coca production law which cut the number of leaves growers could sell following widespread protests. ](/news/2010/10/11/the-government-of-bolivia-annuls-a-new-coca-production-law-which-cut-the-number-of-leaves-growers-could-sell-following-widespread-protests.md)
@@ -93,7 +93,7 @@ The Bolivian government says it has annulled a new coca production law which cut
 
 ##### Surgeon
 ### [Surgeons at the Shepherd Center in Atlanta, Georgia inject a spinal cord injury patient with embryonic stem cells in an experiment approved by United States Food and Drug Administration. ](/news/2010/10/11/surgeons-at-the-shepherd-center-in-atlanta-georgia-inject-a-spinal-cord-injury-patient-with-embryonic-stem-cells-in-an-experiment-approved.md)
-_Context: embryonic stem cell, Shepherd Center, Food and Drug Administration, United States, spinal cord, Georgia, Atlanta, Surgeon_
+_Context: Shepherd Center, Food and Drug Administration, Georgia, Atlanta, embryonic stem cell, spinal cord, United States, Surgeon_
 
 ## [Previous Day...](/news/2010/10/10/index.md)
 

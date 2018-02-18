@@ -5,7 +5,7 @@ Formats: [HTML](2014/01/6/index.html)  [JSON](2014/01/6/index.json)  [XML](2014/
 
 ##### Khyber Agency
 ### [A bomb detonates in a tribal elder's home in Khyber Agency, Pakistan, killing 10 people and injuring another 9. ](/news/2014/01/6/a-bomb-detonates-in-a-tribal-elder-s-home-in-khyber-agency-pakistan-killing-10-people-and-injuring-another-9.md)
-_Context: Khyber Agency, Pakistan_
+_Context: Pakistan, Khyber Agency_
 
 ##### Ghazni Province
 ### [A suicide car bomber detonates at a police checkpoint in Ghazni Province, Afghanistan, killing 3 police officers. ](/news/2014/01/6/a-suicide-car-bomber-detonates-at-a-police-checkpoint-in-ghazni-province-afghanistan-killing-3-police-officers.md)
@@ -21,11 +21,11 @@ A frigid weather system called the polar vortex gripped much of the Midwest on M
 
 ##### Czech Republic
 ### [The Czech Foreign Minister Jan Kohout uses strong words to condemn the discovery of illegal weapons at the Palestinian embassy complex where a possible booby-trapped safe killed the ambassador Jamal al-Jamal on January 1, saying it is "a serious violation of the Vienna Convention on Diplomatic Relations." ](/news/2014/01/6/the-czech-foreign-minister-jan-kohout-uses-strong-words-to-condemn-the-discovery-of-illegal-weapons-at-the-palestinian-embassy-complex-where.md)
-_Context: Jamal al-Jamal, Czech Republic, Vienna Convention on Diplomatic Relations, Jan Kohout_
+_Context: Vienna Convention on Diplomatic Relations, Jan Kohout, Jamal al-Jamal, Czech Republic_
 
 ##### Colleen LaRose
 ### [American-born Colleen LaRose, who calls herself Jihad Jane, is sentenced to 10 years in prison for a failed al Qaeda-linked plot to kill Swedish artist Lars Vilks who had depicted the head of the Muslim Prophet Mohammad on a dog. ](/news/2014/01/6/american-born-colleen-larose-who-calls-herself-jihad-jane-is-sentenced-to-10-years-in-prison-for-a-failed-al-qaeda-linked-plot-to-kill-swe.md)
-_Context: Mohammad, Lars Vilks, Colleen LaRose_
+_Context: Lars Vilks, Mohammad, Colleen LaRose_
 
 ##### Venezuela
 ### [Venezuelan beauty queen Monica Spear and her British ex-husband are murdered through a carjacking in Caracas. ](/news/2014/01/6/venezuelan-beauty-queen-ma3nica-spear-and-her-british-ex-husband-are-murdered-through-a-carjacking-in-caracas.md)

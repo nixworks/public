@@ -17,7 +17,7 @@ U.S. President Barack Obama spoke by phone with Netherlands Prime Minister Mark 
 
 ##### Jordanian Air Force
 ### [The Jordanian Air Force shoots down a drone as it flew over the northeastern Mafraq Governorate near the border with Syria, a security official said. The official said the drone flew near the Zaatari refugee camp, which is home to around 100,000 Syrian refugees. ](/news/2014/07/25/the-jordanian-air-force-shoots-down-a-drone-as-it-flew-over-the-northeastern-mafraq-governorate-near-the-border-with-syria-a-security-offic.md)
-_Context: Jordanian Air Force, Mafraq Governorate, Syrian refugees_
+_Context: Syrian refugees, Mafraq Governorate, Jordanian Air Force_
 
 ##### BSkyB
 ### [British broadcaster BSkyB buys 21st Century Fox's stake in Sky Italia and Sky Deutschland in a $7 billion deal. ](/news/2014/07/25/british-broadcaster-bskyb-buys-21st-century-fox-s-stake-in-sky-italia-and-sky-deutschland-in-a-7-billion-deal.md)
@@ -25,11 +25,11 @@ BSkyB gets Fox&#039;s stakes in Sky Italia and Sky Deutschland, while Fox retain
 
 ##### Liberia
 ### [A Liberian official visiting Lagos dies of the Ebola virus becoming the first reported death in Nigeria. ](/news/2014/07/25/a-liberian-official-visiting-lagos-dies-of-the-ebola-virus-becoming-the-first-reported-death-in-nigeria.md)
-_Context: Nigeria, Liberia, Lagos_
+_Context: Lagos, Nigeria, Liberia_
 
 ##### McDonald's restaurants
 ### [McDonald's restaurants stop selling Chicken McNuggets and some other chicken products in Hong Kong, China and Japan from Shanghai Husi Foods that allegedly sold out-of-date items to fast food restaurants. ](/news/2014/07/25/mcdonald-s-restaurants-stop-selling-chicken-mcnuggets-and-some-other-chicken-products-in-hong-kong-china-and-japan-from-shanghai-husi-foods.md)
-_Context: fast food, Chinese, Chicken McNuggets, McDonald's restaurants, Hong Kong, Japan_
+_Context: fast food, Hong Kong, Japan, Chinese, Chicken McNuggets, McDonald's restaurants_
 
 ##### Vietnam
 ### [Vietnamese authorities confirm that a shipment of Vietnamese-owned air-to-air missile parts bound for Ukraine was detained by Finland on June 24 after raising concerns the consignment of military hardware violated arms-export regulations. ](/news/2014/07/25/vietnamese-authorities-confirm-that-a-shipment-of-vietnamese-owned-air-to-air-missile-parts-bound-for-ukraine-was-detained-by-finland-on-jun.md)

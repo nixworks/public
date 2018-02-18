@@ -5,11 +5,11 @@ Formats: [HTML](2009/06/13/index.html)  [JSON](2009/06/13/index.json)  [XML](200
 
 ##### Mahmoud Ahmadinejad
 ### [ Mahmoud Ahmadinejad is reelected as the President of Iran, although opposition leader Mir-Hossein Mousavi demands a recount. ](/news/2009/06/13/mahmoud-ahmadinejad-is-reelected-as-the-president-of-iran-although-opposition-leader-mir-hossein-mousavi-demands-a-recount.md)
-_Context: re-election, Mir-Hossein Mousavi, Mahmoud Ahmadinejad, President, Iran_
+_Context: re-election, Mir-Hossein Mousavi, President, Mahmoud Ahmadinejad, Iran_
 
 ##### California
 ### [ California Governor Arnold Schwarzenegger delivers a speech regarding the state's financial crisis, favoring state spending cuts rather than the issuing of bonds. ](/news/2009/06/13/california-governor-arnold-schwarzenegger-delivers-a-speech-regarding-the-state-s-financial-crisis-favoring-state-spending-cuts-rather-tha.md)
-_Context: Arnold Schwarzenegger, state's financial crisis, bonds, California, Governor of California_
+_Context: Arnold Schwarzenegger, California, bonds, state's financial crisis, Governor of California_
 
 ##### Plutonium
 ### [ North Korea announces it will "weaponise all plutonium" and begin uranium enrichment following United Nations Security Council Resolution 1874 against the country. ](/news/2009/06/13/north-korea-announces-it-will-weaponise-all-plutonium-and-begin-uranium-enrichment-following-united-nations-security-council-resolution-1.md)
@@ -17,7 +17,7 @@ Pyongyang threatens increased nuclear activity and military action after UN vote
 
 ##### China
 ### [ China begins the third large-scale excavation of the Mausoleum of the First Qin Emperor in 24 years. ](/news/2009/06/13/china-begins-the-third-large-scale-excavation-of-the-mausoleum-of-the-first-qin-emperor-in-24-years.md)
-_Context: Terracotta Army, China_
+_Context: China, Terracotta Army_
 
 ##### 16-day mission
 ### [ The planned launch of Space Shuttle "Endeavour" is scrubbed because of a gaseous hydrogen leak. ](/news/2009/06/13/the-planned-launch-of-space-shuttle-endeavour-is-scrubbed-because-of-a-gaseous-hydrogen-leak.md)
@@ -29,7 +29,7 @@ NASA.gov brings you images, videos and interactive features from the unique pers
 
 ##### Queen Elizabeth
 ### [ Queen Elizabeth II of the United Kingdom celebrates her 83rd birthday at Trooping the Colour. ](/news/2009/06/13/queen-elizabeth-ii-of-the-united-kingdom-celebrates-her-83rd-birthday-at-trooping-the-colour.md)
-_Context: United Kingdom, Queen Elizabeth, Trooping the Colour_
+_Context: Queen Elizabeth, United Kingdom, Trooping the Colour_
 
 ## [Previous Day...](/news/2009/06/12/index.md)
 

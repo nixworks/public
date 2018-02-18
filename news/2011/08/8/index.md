@@ -25,7 +25,7 @@ Rice futures in Tokyo surged in their first appearance on the bourse since 1939,
 
 ##### Landslide
 ### [Seven people are killed in a landslide in Malaysia's Cameron Highlands. ](/news/2011/08/8/seven-people-are-killed-in-a-landslide-in-malaysia-s-cameron-highlands.md)
-_Context: landslide, Cameron Highlands, Malaysia_
+_Context: Cameron Highlands, landslide, Malaysia_
 
 ##### China
 ### [More than 100,000 people have been evacuated from China's Shandong Province as former Typhoon Muifa travels along the eastern coast as a tropical storm. ](/news/2011/08/8/more-than-100-000-people-have-been-evacuated-from-china-s-shandong-province-as-former-typhoon-muifa-travels-along-the-eastern-coast-as-a-tro.md)
@@ -41,7 +41,7 @@ Rioting has spread across London with cars and buildings set alight on a third n
 
 ##### Mike Rann
 ### [Mike Rann, the Premier of the Australian state of South Australia, announces that he will be resigning on October 20 to be replaced by Education Minister Jay Weatherill. ](/news/2011/08/8/mike-rann-the-premier-of-the-australian-state-of-south-australia-announces-that-he-will-be-resigning-on-october-20-to-be-replaced-by-educa.md)
-_Context: Mike Rann, Jay Weatherill, South Australia, Premier of South Australia, Australia_
+_Context: Australia, Mike Rann, South Australia, Premier of South Australia, Jay Weatherill_
 
 ## [Previous Day...](/news/2011/08/7/index.md)
 

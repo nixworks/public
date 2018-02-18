@@ -17,7 +17,7 @@ Twin blasts targeting police near a stadium in Istanbul kill 38 people and injur
 
 ##### Kurdish-Turkish conflict (2015-present)
 ### [ Turkish fighter jets kill 19 suspected Kurdish militants in strikes on the Gara region in northern Iraq. ](/news/2016/12/10/turkish-fighter-jets-kill-19-suspected-kurdish-militants-in-strikes-on-the-gara-region-in-northern-iraq.md)
-_Context: Kurdish, Kurdish-Turkish conflict (2015-present), Iraq_
+_Context: Iraq, Kurdish, Kurdish-Turkish conflict (2015-present)_
 
 ##### 2016 Nobel Peace Prize
 ### [Colombian president Juan Manuel Santos receives his award in Oslo, Norway. ](/news/2016/12/10/colombian-president-juan-manuel-santos-receives-his-award-in-oslo-norway.md)
@@ -37,7 +37,7 @@ A roof collapses during a church ceremony in south-eastern Nigeria, killing at l
 
 ##### Chinese
 ### [China opposes any new sanctions against North Korea during a meeting in the United Nations Security Council. ](/news/2016/12/10/china-opposes-any-new-sanctions-against-north-korea-during-a-meeting-in-the-united-nations-security-council.md)
-_Context: North Korea, Chinese, United Nations Security Council_
+_Context: United Nations Security Council, North Korea, Chinese_
 
 ##### Gambian presidential election, 2016
 ### [Gambian security forces are deployed on the streets of the capital Banjul, following President Yahya Jammeh's rejection of last week's presidential election result. ](/news/2016/12/10/gambian-security-forces-are-deployed-on-the-streets-of-the-capital-banjul-following-president-yahya-jammeh-s-rejection-of-last-week-s-presi.md)
@@ -45,11 +45,11 @@ Yahya Jammeh had conceded result to Adama Barrow but now claims ‘fresh and tra
 
 ##### Human Rights Day
 ### [In the Philippines, demonstrators call for President Rodrigo Duterte to address extrajudicial killings linked to the Philippine Drug War, ongoing military operations against communist rebels, and the controversial burial of Ferdinand Marcos in the Heroes' Cemetery. An effigy of Marcos was made as a centerpiece of the protest. ](/news/2016/12/10/in-the-philippines-demonstrators-call-for-president-rodrigo-duterte-to-address-extrajudicial-killings-linked-to-the-philippine-drug-war-on.md)
-_Context: Rodrigo Duterte, Human Rights Day, Libingan ng mga Bayani, Burial of Ferdinand Marcos, drug crackdown, Philippines_
+_Context: Human Rights Day, Philippines, Libingan ng mga Bayani, Rodrigo Duterte, Burial of Ferdinand Marcos, drug crackdown_
 
 ##### United States Senate election in Louisiana, 2016
 ### [John N. Kennedy of the Republican Party defeats Foster Campbell of the Democratic Party to become the junior Senator for Louisiana. ](/news/2016/12/10/john-n-kennedy-of-the-republican-party-defeats-foster-campbell-of-the-democratic-party-to-become-the-junior-senator-for-louisiana.md)
-_Context: Republican, Democrat, United States Senate election in Louisiana, 2016, Foster Campbell, Louisiana, John N. Kennedy_
+_Context: Republican, United States Senate election in Louisiana, 2016, John N. Kennedy, Foster Campbell, Louisiana, Democrat_
 
 ## [Previous Day...](/news/2016/12/9/index.md)
 

@@ -5,15 +5,15 @@ Formats: [HTML](2015/05/16/index.html)  [JSON](2015/05/16/index.json)  [XML](201
 
 ##### ISIL
 ### [The United States claims that senior ISIL commander Abu Sayyaf is killed in a United States special operations forces raid within what is officially Syrian territory. ](/news/2015/05/16/the-united-states-claims-that-senior-isil-commander-abu-sayyaf-is-killed-in-a-united-states-special-operations-forces-raid-within-what-is-of.md)
-_Context: special forces, Abu Sayyaf, ISIL_
+_Context: special forces, ISIL, Abu Sayyaf_
 
 ##### Egypt
 ### [An Egyptian court sentences deposed President Mohamed Morsi to death for his part in the Egyptian Revolution of 2011. ](/news/2015/05/16/an-egyptian-court-sentences-deposed-president-mohamed-morsi-to-death-for-his-part-in-the-egyptian-revolution-of-2011.md)
-_Context: Egyptian Revolution of 2011, Mohamed Morsi, President, Egypt_
+_Context: Egyptian Revolution of 2011, Mohamed Morsi, Egypt, President_
 
 ##### Sinai insurgency
 ### [Sinai insurgency: In response to Morsi's sentence, gunmen fatally shoot three Egyptian judges in the Sinai Peninsula. ](/news/2015/05/16/sinai-insurgency-in-response-to-morsi-s-sentence-gunmen-fatally-shoot-three-egyptian-judges-in-the-sinai-peninsula.md)
-_Context: Sinai insurgency, term, Sinai Peninsula_
+_Context: term, Sinai insurgency, Sinai Peninsula_
 
 ##### Football
 ### [An Egyptian court bans hardcore football clubs over terrorism accusations. In 2012 over 70 football fans were killed and 500 injured in the Port Said Stadium riot. ](/news/2015/05/16/an-egyptian-court-bans-hardcore-football-clubs-over-terrorism-accusations-in-2012-over-70-football-fans-were-killed-and-500-injured-in-the.md)

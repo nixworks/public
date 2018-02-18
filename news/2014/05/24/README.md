@@ -17,19 +17,19 @@ Suspected Islamist Boko Haram gunmen rampaged through three villages in northern
 
 ##### Winter Sleep
 ### [Turkish film "Winter Sleep" directed by Nuri Bilge Ceylan wins the Palme d'Or at the 2014 Cannes Film Festival. ](/news/2014/05/24/turkish-film-winter-sleep-directed-by-nuri-bilge-ceylan-wins-the-palme-d-or-at-the-2014-cannes-film-festival.md)
-_Context: 2014 Cannes Film Festival, Palme d'Or, Nuri Bilge Ceylan, Winter Sleep_
+_Context: 2014 Cannes Film Festival, Winter Sleep, Palme d'Or, Nuri Bilge Ceylan_
 
 ##### Earthquake
 ### [A magnitude 6.4 earthquake occurs in the Aegean Sea between Greece and Turkey with reports of serious damage on the Turkish island of Gokceada and the cities of Edirne and Canakkale. ](/news/2014/05/24/a-magnitude-6-4-earthquake-occurs-in-the-aegean-sea-between-greece-and-turkey-with-reports-of-serious-damage-on-the-turkish-island-of-gapkass.md)
-_Context: earthquake, Canakkale, Gokceada, Turkey, Edirne, Aegean Sea, Greece_
+_Context: Greece, Edirne, Aegean Sea, Canakkale, earthquake, Turkey, Gokceada_
 
 ##### Pope Francis
 ### [Pope Francis arrives in Amman, Jordan, for the first day of a three day trip to the Middle East. ](/news/2014/05/24/pope-francis-arrives-in-amman-jordan-for-the-first-day-of-a-three-day-trip-to-the-middle-east.md)
-_Context: Middle East, Amman, Jordan, Pope Francis_
+_Context: Pope Francis, Jordan, Amman, Middle East_
 
 ##### Mahafarid Amir Khosravi
 ### [Mahafarid Amir Khosravi is executed for masterminding the largest fraud case in Iran since the 1979 Revolution. ](/news/2014/05/24/mahafarid-amir-khosravi-is-executed-for-masterminding-the-largest-fraud-case-in-iran-since-the-1979-revolution.md)
-_Context: Mahafarid Amir Khosravi, Iranian Revolution, 2011 embezzlement scandal_
+_Context: Mahafarid Amir Khosravi, 2011 embezzlement scandal, Iranian Revolution_
 
 ##### Shooting
 ### [At least 3 people are killed in a shooting at the Jewish Museum of Belgium in Brussels, Belgium. ](/news/2014/05/24/at-least-3-people-are-killed-in-a-shooting-at-the-jewish-museum-of-belgium-in-brussels-belgium.md)
@@ -51,7 +51,7 @@ _Context: election, President of South Africa, Jacob Zuma_
 
 ##### President of Malawi
 ### [The President of Malawi Joyce Banda annuls the general elections in which she was a candidate because of claimed electoral irregularities. ](/news/2014/05/24/the-president-of-malawi-joyce-banda-annuls-the-general-elections-in-which-she-was-a-candidate-because-of-claimed-electoral-irregularities.md)
-_Context: Joyce Banda, President of Malawi_
+_Context: President of Malawi, Joyce Banda_
 
 ##### Thai Senate
 ### [The military leaders announce the dissolution of the Thai Senate. ](/news/2014/05/24/the-military-leaders-announce-the-dissolution-of-the-thai-senate.md)

@@ -17,7 +17,7 @@ Al Shabaab fighters attacked a remote Somali army base and entered a nearby town
 
 ##### Syrian Civil War
 ### [UNICEF confirms severe malnutrition in the besieged Syrian town of Madaya. Russia calls for humanitarian aid to be let into besieged towns like Madaya, Fua and Kafraya. ](/news/2016/01/15/unicef-confirms-severe-malnutrition-in-the-besieged-syrian-town-of-madaya-russia-calls-for-humanitarian-aid-to-be-let-into-besieged-towns-l.md)
-_Context: malnutrition, Syria, Kafraya, Al-Fu'ah, Russia, Madaya, Syrian Civil War, UNICEF_
+_Context: Al-Fu'ah, malnutrition, Russia, Syrian Civil War, Kafraya, Madaya, Syria, UNICEF_
 
 ##### Wikipedia
 ### [Wikipedia celebrates its 15th anniversary. ](/news/2016/01/15/wikipedia-celebrates-its-15th-anniversary.md)
@@ -33,7 +33,7 @@ At least 14 people were killed after a bus carrying skiers flipped over a guardr
 
 ##### 2016 Atlantic hurricane season
 ### [Hurricane Alex heads towards the Azores with hurricane warnings in place for several islands. ](/news/2016/01/15/hurricane-alex-heads-towards-the-azores-with-hurricane-warnings-in-place-for-several-islands.md)
-_Context: Azores, Hurricane Alex, 2016 Atlantic hurricane season_
+_Context: Hurricane Alex, 2016 Atlantic hurricane season, Azores_
 
 ##### Udhampur district
 ### [Twelve people are feared dead following a road accident in the Udhampur district of India's Jammu and Kashmir state. ](/news/2016/01/15/twelve-people-are-feared-dead-following-a-road-accident-in-the-udhampur-district-of-india-s-jammu-and-kashmir-state.md)
@@ -85,7 +85,7 @@ _Context: Turkish, Kurdistan Workers Party, PKK rebellion (2015-present), Turkey
 
 ##### Anti-corruption campaign in China
 ### [Wei Hong, Governor of Sichuan province, is announced to be under investigation for "breaching discipline" by the Central Commission for Discipline Inspection. ](/news/2016/01/15/wei-hong-governor-of-sichuan-province-is-announced-to-be-under-investigation-for-breaching-discipline-by-the-central-commission-for-disc.md)
-_Context: Anti-corruption campaign in China, Wei Hong, Sichuan, Central Commission for Discipline Inspection_
+_Context: Wei Hong, Sichuan, Central Commission for Discipline Inspection, Anti-corruption campaign in China_
 
 ##### Azerbaijan
 ### [Azerbaijani National Police use tear gas and water cannons to forcibly disperse protesters in the Quba District who were protesting the country's worsening economic situation, resulting in scores being arrested. ](/news/2016/01/15/azerbaijani-national-police-use-tear-gas-and-water-cannons-to-forcibly-disperse-protesters-in-the-quba-district-who-were-protesting-the-coun.md)

@@ -33,7 +33,7 @@ _Context: radiation, Tokyo_
 
 ##### Mandalay
 ### [A woman becomes the first person to be jailed for violating a ban on non-recyclable plastic bags in Mandalay, Burma. ](/news/2011/03/26/a-woman-becomes-the-first-person-to-be-jailed-for-violating-a-ban-on-non-recyclable-plastic-bags-in-mandalay-burma.md)
-_Context: Burma, Mandalay_
+_Context: Mandalay, Burma_
 
 ##### Swindon
 ### [British Police are granted an extension by magistrates to continue questioning a Swindon man suspected of the murder of Sian O'Callaghan. ](/news/2011/03/26/british-police-are-granted-an-extension-by-magistrates-to-continue-questioning-a-swindon-man-suspected-of-the-murder-of-sian-o-callaghan.md)
@@ -49,11 +49,11 @@ Follow our rolling coverage of today&#039;s marches which saw an estimated 400,0
 
 ##### Geraldine Ferraro
 ### [Geraldine Ferraro, a Democratic Party Congresswoman and the first woman to stand for Vice-President of the United States on a major party ticket dies in Boston. ](/news/2011/03/26/geraldine-ferraro-a-democratic-party-congresswoman-and-the-first-woman-to-stand-for-vice-president-of-the-united-states-on-a-major-party-ti.md)
-_Context: Geraldine Ferraro, Vice-President of the United States, Boston, Massachusetts, Democrat, United States House of Representatives_
+_Context: Boston, Massachusetts, Vice-President of the United States, Democrat, Geraldine Ferraro, United States House of Representatives_
 
 ##### Governor-General of Canada
 ### [The Governor-General of Canada David Johnston dissolves the Parliament of Canada and issues writs for the Canadian federal election. ](/news/2011/03/26/the-governor-general-of-canada-david-johnston-dissolves-the-parliament-of-canada-and-issues-writs-for-the-canadian-federal-election.md)
-_Context: 2011 Canadian federal election, David Johnston, Parliament of Canada, Governor-General of Canada_
+_Context: 2011 Canadian federal election, Governor-General of Canada, Parliament of Canada, David Johnston_
 
 ## [Previous Day...](/news/2011/03/25/index.md)
 

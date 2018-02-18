@@ -9,7 +9,7 @@ Russia says it has used a base in Iran to carry out air strikes in Syria, the fi
 
 ##### Houthi
 ### [Houthi shelling kills seven in Saudi Arabia; nine Yemenis from one family die from an airstrike by the Saudi-led alliance. ](/news/2016/08/16/houthi-shelling-kills-seven-in-saudi-arabia-nine-yemenis-from-one-family-die-from-an-airstrike-by-the-saudi-led-alliance.md)
-_Context: Saudi Arabia, Yemen, Houthi, airstrike_
+_Context: Houthi, Yemen, Saudi Arabia, airstrike_
 
 ##### Westfield World Trade Center
 ### [Westfield World Trade Center opens on schedule, part of the World Trade Center Ground Zero redevelopment in New York City. ](/news/2016/08/16/westfield-world-trade-center-opens-on-schedule-part-of-the-world-trade-center-ground-zero-redevelopment-in-new-york-city.md)
@@ -29,7 +29,7 @@ Gov. Jerry Brown has declared a state of emergency in the fast-moving Blue Cut F
 
 ##### California wildfires
 ### [California authorities charge a Clearlake resident with 17 counts of arson in connection with the wildfires over the last two years. ](/news/2016/08/16/california-authorities-charge-a-clearlake-resident-with-17-counts-of-arson-in-connection-with-the-wildfires-over-the-last-two-years.md)
-_Context: California wildfires, California, Clearlake_
+_Context: California, Clearlake, California wildfires_
 
 ##### Medical marijuana
 ### [A United States Court of Appeals rules that the Department of Justice, per the Rohrabacher-Farr amendment, cannot spend money to prosecute federal marijuana cases if the defendants comply with state medical marijuana laws. ](/news/2016/08/16/a-united-states-court-of-appeals-rules-that-the-department-of-justice-per-the-rohrabacher-farr-amendment-cannot-spend-money-to-prosecute-f.md)

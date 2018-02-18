@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/07/16/the-president-of-turkey-recep-tayyip-erdoaan-re
 
 ### [2016-07-16](/news/2016/07/16/index.md)
 
-##### July 2016 Turkish ''coup d'etat'' attempt
+##### 2016 Turkish coup d'etat attempt
 # The President of Turkey Recep Tayyip Erdogan returns to Istanbul Ataturk Airport indicating that the coup may be faltering. 
 
 Vowing that faction leaders will “pay a heavy price,” President Recep Tayyip Erdogan made a dramatic appearance after his supporters flooded the streets of Turkey’s largest city.
@@ -29,7 +29,7 @@ Vowing that faction leaders will “pay a heavy price,” President Recep Tayyip
 
 ### Related:
 
-1. [The United States Secretary of State John Kerry warns Turkey it could lose its NATO membership if it fails to uphold the principles of democracy. Around 8,000 police officers have been sacked in the country following the attempted coup, with more than 6,000 people in the army, the judiciary and other state bodies detained as part of President Recep Tayyip Erdogan's crackdown. ](/news/2016/07/18/the-united-states-secretary-of-state-john-kerry-warns-turkey-it-could-lose-its-nato-membership-if-it-fails-to-uphold-the-principles-of-democ.md) _Context: July 2016 Turkish ''coup d'etat'' attempt, President of Turkey, Recep Tayyip Erdogan_
+1. [The United States Secretary of State John Kerry warns Turkey it could lose its NATO membership if it fails to uphold the principles of democracy. Around 8,000 police officers have been sacked in the country following the attempted coup, with more than 6,000 people in the army, the judiciary and other state bodies detained as part of President Recep Tayyip Erdogan's crackdown. ](/news/2016/07/18/the-united-states-secretary-of-state-john-kerry-warns-turkey-it-could-lose-its-nato-membership-if-it-fails-to-uphold-the-principles-of-democ.md) _Context: 2016 Turkish coup d'etat attempt, President of Turkey, Recep Tayyip Erdogan_
 2. [President of Turkey Recep Tayyip Erdogan says the Afrin offensive, as announced, is now to turn east, towards Manbij and the border with Iraq. ](/news/2018/01/26/president-of-turkey-recep-tayyip-erdoaan-says-the-afrin-offensive-as-announced-is-now-to-turn-east-towards-manbij-and-the-border-with-ir.md) _Context: President of Turkey, Recep Tayyip Erdogan_
 3. [Turkish President Erdogan announces that Turkish Army ground troops have entered the district of Afrin in Syria. Turkish Prime Minister Binali Yildirim says the goal is to establish a 30-km safe zone. ](/news/2018/01/21/turkish-president-erdoaan-announces-that-turkish-army-ground-troops-have-entered-the-district-of-afrin-in-syria-turkish-prime-minister-bin.md) _Context: President of Turkey, Recep Tayyip Erdogan_
 4. [The President of Turkey embarks on a two-day state visit of Greece. Recep Tayyip Erdogan's demarche is a first in 65 years. ](/news/2017/12/7/the-president-of-turkey-embarks-on-a-two-day-state-visit-of-greece-recep-tayyip-erdoaan-s-da-c-marche-is-a-first-in-65-years.md) _Context: President of Turkey, Recep Tayyip Erdogan_

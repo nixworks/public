@@ -17,7 +17,7 @@ AKRON, Ohio -- Police confirm that five children and two adults were killed in a
 
 ##### Carcinogen
 ### [A small study shows that two known carcinogens, o-toluidine and 2-naphthylamine, were found in greater amounts in the urine of e-cigarette users than in nonusers. Previous studies of traditional cigarette smokers have identified o-toluidine and 2-naphthylamine as the two most carcinogenic molecules for the bladder. ](/news/2017/05/15/a-small-study-shows-that-two-known-carcinogens-o-toluidine-and-2-naphthylamine-were-found-in-greater-amounts-in-the-urine-of-e-cigarette-u.md)
-_Context: carcinogen, urine, molecule, o-toluidine, 2-naphthylamine, bladder_
+_Context: 2-naphthylamine, o-toluidine, carcinogen, molecule, bladder, urine_
 
 ##### U.S. President
 ### [According to a current and a former unnamed U.S. government official, President Donald Trump revealed classified information that jeopardized a critical source of intelligence on the Islamic State during his Oval Office meeting with the Russian Foreign Minister and Ambassador on May 10. ](/news/2017/05/15/according-to-a-current-and-a-former-unnamed-u-s-government-official-president-donald-trump-revealed-classified-information-that-jeopardize.md)
@@ -41,7 +41,7 @@ The Moors Murderer Ian Brady has died at a high security psychiatric hospital in
 
 ##### Mexican Drug War
 ### [An unknown gunman shoots and kills veteran journalist Javier Valdez Crdenas, who is noted for his investigative reporting on Mexico's war on drugs, in Culiacn, Sinaloa. ](/news/2017/05/15/an-unknown-gunman-shoots-and-kills-veteran-journalist-javier-valdez-cardenas-who-is-noted-for-his-investigative-reporting-on-mexico-s-war-o.md)
-_Context: Culiacn, Javier Valdez Crdenas, Mexico, Mexican Drug War, Sinaloa_
+_Context: Mexico, Sinaloa, Culiacn, Javier Valdez Crdenas, Mexican Drug War_
 
 ##### Re-elected
 ### [Tehran Mayor Mohammad Bagher Ghalibaf withdraws his candidacy. ](/news/2017/05/15/tehran-mayor-mohammad-bagher-ghalibaf-withdraws-his-candidacy.md)

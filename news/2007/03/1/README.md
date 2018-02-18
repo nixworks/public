@@ -21,11 +21,11 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 ##### France
 ### [ Ten French tourists are kidnapped in northern Ethiopia. ](/news/2007/03/1/ten-french-tourists-are-kidnapped-in-northern-ethiopia.md)
-_Context: Ethiopia, tourist, France_
+_Context: Ethiopia, France, tourist_
 
 ##### Hunger strike
 ### [ The Spanish Government moves hungerstriking ETA prisoner Iaki de Juana Chaos from a cell in Madrid to one in the Basque Country. ](/news/2007/03/1/the-spanish-government-moves-hungerstriking-eta-prisoner-inaki-de-juana-chaos-from-a-cell-in-madrid-to-one-in-the-basque-country.md)
-_Context: Basque, hunger strike, ETA, Iaki de Juana Chaos, Madrid_
+_Context: Basque, Madrid, Iaki de Juana Chaos, hunger strike, ETA_
 
 ##### Haiti
 ### [ A boat carrying Haitian migrants catches fire off the coast of the Dominican Republic resulting in the death of at least eight people and 44 people missing. ](/news/2007/03/1/a-boat-carrying-haitian-migrants-catches-fire-off-the-coast-of-the-dominican-republic-resulting-in-the-death-of-at-least-eight-people-and-4.md)
@@ -33,11 +33,11 @@ U.S. Coast Guard searches for 44 missing people from a vessel, which caught fire
 
 ##### Copenhagen
 ### [ Dozens of people are arrested in Copenhagen as the police evict squatters from The Youth House in the centre of the city. ](/news/2007/03/1/dozens-of-people-are-arrested-in-copenhagen-as-the-police-evict-squatters-from-the-youth-house-in-the-centre-of-the-city.md)
-_Context: Ungdomshuset, squatter, Copenhagen_
+_Context: squatter, Ungdomshuset, Copenhagen_
 
 ##### Government of Turkey
 ### [ The government of Turkey orders an investigation into claims that the Kurdish separatist leader Abdullah calan was poisoned. ](/news/2007/03/1/the-government-of-turkey-orders-an-investigation-into-claims-that-the-kurdish-separatist-leader-abdullah-ocalan-was-poisoned.md)
-_Context: poison, Abdullah calan, government of Turkey, Kurdish_
+_Context: Kurdish, government of Turkey, Abdullah calan, poison_
 
 ##### Tornado
 ### [ A tornado strikes southern Missouri killing a seven-year-old girl. Tornadoes in Alabama kill at least ten people including eight students at Enterprise High School. In Georgia, at least nine people die in storms. It is part of a larger tornado outbreak. ](/news/2007/03/1/a-tornado-strikes-southern-missouri-killing-a-seven-year-old-girl-tornadoes-in-alabama-kill-at-least-ten-people-including-eight-students-a.md)
@@ -45,27 +45,27 @@ Tornadoes killed at least seven people in south Alabama today, including five at
 
 ##### Senegal
 ### [ Senegalese election officials confirm that Abdoulaye Wade has been re-elected as the President of Senegal. ](/news/2007/03/1/senegalese-election-officials-confirm-that-abdoulaye-wade-has-been-re-elected-as-the-president-of-senegal.md)
-_Context: Abdoulaye Wade, President, Senegal_
+_Context: President, Senegal, Abdoulaye Wade_
 
 ##### United States
 ### [ The United States formally charges David Hicks with aiding the Taliban. He will be the first person tried under the new law for military commissions. ](/news/2007/03/1/the-united-states-formally-charges-david-hicks-with-aiding-the-taliban-he-will-be-the-first-person-tried-under-the-new-law-for-military-co.md)
-_Context: Taliban, United States, David Hicks, Guantanamo military commission_
+_Context: Taliban, David Hicks, Guantanamo military commission, United States_
 
 ##### Landmine
 ### [ Eight people die in a landmine explosion in Chhattisgarh, India. ](/news/2007/03/1/eight-people-die-in-a-landmine-explosion-in-chhattisgarh-india.md)
-_Context: landmine, India, Chhattisgarh_
+_Context: India, landmine, Chhattisgarh_
 
 ##### NSW
 ### [ A New South Wales coroner issues a warrant for the arrest of Indonesian politician Yunus Yosfiah for failure to appear to give evidence in the coronial inquest into the death of the Balibo Five in Balibo, East Timor in 1975. ](/news/2007/03/1/a-new-south-wales-coroner-issues-a-warrant-for-the-arrest-of-indonesian-politician-yunus-yosfiah-for-failure-to-appear-to-give-evidence-in.md)
-_Context: arrest, warrant, coroner, Indonesia, Balibo Five, East Timor, Yunus Yosfiah, NSW, Balibo, 1975_
+_Context: Yunus Yosfiah, Balibo Five, East Timor, coroner, arrest, Indonesia, warrant, Balibo, 1975, NSW_
 
 ##### International Polar Year
 ### [ The fourth International Polar Year, a $1.5 billion research program to study both the North Pole and South Pole is launched in Paris, France. ](/news/2007/03/1/the-fourth-international-polar-year-a-1-5-billion-research-program-to-study-both-the-north-pole-and-south-pole-is-launched-in-paris-fran.md)
-_Context: South Pole, International Polar Year, France, North Pole, Paris_
+_Context: Paris, South Pole, North Pole, International Polar Year, France_
 
 ##### Greece
 ### [ Greek archaeologists announce that a 2,200-year-old statue of the goddess Hera has been found during excavations in the ruins of ancient Dion, a city under Mount Olympus. ](/news/2007/03/1/greek-archaeologists-announce-that-a-2-200-year-old-statue-of-the-goddess-hera-has-been-found-during-excavations-in-the-ruins-of-ancient-di.md)
-_Context: Mount Olympus, Dion, Hera, Greece_
+_Context: Dion, Mount Olympus, Greece, Hera_
 
 ## [Previous Day...](/news/2007/02/28/index.md)
 

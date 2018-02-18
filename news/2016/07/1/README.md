@@ -57,7 +57,7 @@ Duterte, 71, won power in a landslide after a campaign dominated by threats to k
 
 ##### U Gambira
 ### [U Gambira, a former Burmese monk and one of the most visible leaders during Myanmar's 2007 Saffron Revolution, is released from prison after having the charges against him dropped. ](/news/2016/07/1/u-gambira-a-former-burmese-monk-and-one-of-the-most-visible-leaders-during-myanmar-s-2007-saffron-revolution-is-released-from-prison-after.md)
-_Context: Saffron Revolution, Myanmar's, Myanmar, U Gambira_
+_Context: Myanmar, Saffron Revolution, U Gambira, Myanmar's_
 
 ##### Austrian presidential election, 2016
 ### [Austria's highest court orders a repeat of the presidential elections narrowly lost in May by right-wing populist Freedom Party of Austria candidate Norbert Hofer. The margin of votes was less than 1%. ](/news/2016/07/1/austriaas-highest-court-orders-a-repeat-of-the-presidential-elections-narrowly-lost-in-may-by-right-wing-populist-freedom-party-of-austria.md)

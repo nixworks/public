@@ -25,11 +25,11 @@ _Context: insider trading in 2011, Rajat Gupta, Goldman Sachs_
 
 ##### Moody's Investor Service
 ### [Moody's Investor Service downgrades the credit rating of five Dutch banks including ING Bank. ](/news/2012/06/15/moody-s-investor-service-downgrades-the-credit-rating-of-five-dutch-banks-including-ing-bank.md)
-_Context: credit rating, ING Bank, Moody's Investor Service, Dutch_
+_Context: ING Bank, credit rating, Dutch, Moody's Investor Service_
 
 ##### Herman Van Rompuy
 ### [Herman Van Rompuy, President of the European Council, convenes a conference call to discuss possible fall-out from the weekend's elections in Greece. ](/news/2012/06/15/herman-van-rompuy-president-of-the-european-council-convenes-a-conference-call-to-discuss-possible-fall-out-from-the-weekend-s-elections-i.md)
-_Context: European Council, Herman Van Rompuy, Greece_
+_Context: Herman Van Rompuy, Greece, European Council_
 
 ##### Yili Group
 ### [Chinese manufacturer Yili Group recalls baby formula after some products are discovered with high mercury levels. ](/news/2012/06/15/chinese-manufacturer-yili-group-recalls-baby-formula-after-some-products-are-discovered-with-high-mercury-levels.md)
@@ -45,7 +45,7 @@ _Context: Hurricane Carlotta, Mexico_
 
 ##### Mich.
 ### [Canada and the U.S. state of Michigan announce a deal to construct a bridge between the U.S. city of Detroit and the Canadian city of Windsor, Ontario. ](/news/2012/06/15/canada-and-the-u-s-state-of-michigan-announce-a-deal-to-construct-a-bridge-between-the-u-s-city-of-detroit-and-the-canadian-city-of-windso.md)
-_Context: Mich., Windsor, Ontario, a bridge between, Detroit_
+_Context: Mich., Detroit, a bridge between, Windsor, Ontario_
 
 ##### Japan
 ### [Police in Japan arrest Katsuya Takahashi of the Aum Shinrikyo cult, the last fugitive wanted over the March 1995 sarin gas attack on the Tokyo subway that killed 13 people. ](/news/2012/06/15/police-in-japan-arrest-katsuya-takahashi-of-the-aum-shinrikyo-cult-the-last-fugitive-wanted-over-the-march-1995-sarin-gas-attack-on-the-tok.md)
@@ -53,7 +53,7 @@ Japanese police arrest the last fugitive of the Aum Shinrikyo cult wanted for th
 
 ##### Chinese
 ### [China suspends three officials and the government of Ankang city apologizes to a woman, Feng Jianmei, 23, who is forced to undergo an illegal abortion seven months into her pregnancy after graphic photos of the mother and her dead baby are circulated online. ](/news/2012/06/15/china-suspends-three-officials-and-the-government-of-ankang-city-apologizes-to-a-woman-feng-jianmei-23-who-is-forced-to-undergo-an-illega.md)
-_Context: Chinese, Feng Jianmei, Ankang city_
+_Context: Ankang city, Chinese, Feng Jianmei_
 
 ##### Al Arabiya
 ### [Baker Atyani, "Al Arabiya{{'}}s" TV bureau chief for southeast Asia, disappears with four other people on the restive southern Philippine island of Jolo where Muslim militants are active. ](/news/2012/06/15/baker-atyani-al-arabiya-s-tv-bureau-chief-for-southeast-asia-disappears-with-four-other-people-on-the-restive-southern-philippine-is.md)
@@ -65,7 +65,7 @@ Edmonton police say an employee of G4S Security faces three counts of first-degr
 
 ##### Ukraine
 ### [Ukrainian prime minister Mykola Azarov is accused by the opposition of violating the law by drinking an alcoholic beverage in a government building. ](/news/2012/06/15/ukrainian-prime-minister-mykola-azarov-is-accused-by-the-opposition-of-violating-the-law-by-drinking-an-alcoholic-beverage-in-a-government-b.md)
-_Context: Ukraine, Mykola Azarov_
+_Context: Mykola Azarov, Ukraine_
 
 ##### Barack Obama
 ### [U.S. president Barack Obama announces that the U.S. will stop deporting some illegal immigrants. ](/news/2012/06/15/u-s-president-barack-obama-announces-that-the-u-s-will-stop-deporting-some-illegal-immigrants.md)
@@ -77,11 +77,11 @@ _Context: Congress of Colombia_
 
 ##### Holy See
 ### [The Holy See establishes the Personal Ordinariate of Our Lady of the Southern Cross, for former Anglicans in Australia. ](/news/2012/06/15/the-holy-see-establishes-the-personal-ordinariate-of-our-lady-of-the-southern-cross-for-former-anglicans-in-australia.md)
-_Context: Anglicans, Australia, Holy See, Our Lady of the Southern Cross, Personal Ordinariate_
+_Context: Australia, Anglicans, Holy See, Our Lady of the Southern Cross, Personal Ordinariate_
 
 ##### Bulgarian remains
 ### [Bulgarian remains believed by some to be John The Baptist are scientifically dated to the first century AD. ](/news/2012/06/15/bulgarian-remains-believed-by-some-to-be-john-the-baptist-are-scientifically-dated-to-the-first-century-ad.md)
-_Context: Bulgarian remains, John The Baptist_
+_Context: John The Baptist, Bulgarian remains_
 
 ## [Previous Day...](/news/2012/06/14/index.md)
 

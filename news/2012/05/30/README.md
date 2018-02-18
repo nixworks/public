@@ -17,11 +17,11 @@ A South African art gallery agrees not to display a painting of President Jacob 
 
 ##### Orquesta Sinfonica Simon Bolivar
 ### [It is announced that a UK concert by the Orquesta Sinfonica Simon Bolivar, Venezuela's premier youth orchestra, is to be live-streamed online on 23 and 26 June, after live tickets sold out eight months in advance. ](/news/2012/05/30/it-is-announced-that-a-uk-concert-by-the-orquesta-sinfa3nica-sima3n-bolavar-venezuela-s-premier-youth-orchestra-is-to-be-live-streamed-on.md)
-_Context: Orquesta Sinfonica Simon Bolivar, Venezuela_
+_Context: Venezuela, Orquesta Sinfonica Simon Bolivar_
 
 ##### Terry Pratchett
 ### [English novelist Terry Pratchett is awarded the Bollinger Everyman Wodehouse Prize. ](/news/2012/05/30/english-novelist-terry-pratchett-is-awarded-the-bollinger-everyman-wodehouse-prize.md)
-_Context: Terry Pratchett, Bollinger Everyman Wodehouse Prize_
+_Context: Bollinger Everyman Wodehouse Prize, Terry Pratchett_
 
 ##### Orange Prize for Fiction
 ### [The winner of the 2012 Orange Prize for Fiction is announced. ](/news/2012/05/30/the-winner-of-the-2012-orange-prize-for-fiction-is-announced.md)
@@ -57,7 +57,7 @@ _Context: Andy Coulson, David Cameron, Prime Minister, perjury_
 
 ##### Leveson Inquiry
 ### [At the Leveson Inquiry into British media practices, UK Secretary of State for Business Vince Cable, who initially had responsibility for overseeing News Corporation's bid to take full control of BSkyB, tells the hearing he was warned the Liberal Democrats would be "done over" by the company's newspapers if he ruled against the takeover. ](/news/2012/05/30/at-the-leveson-inquiry-into-british-media-practices-uk-secretary-of-state-for-business-vince-cable-who-initially-had-responsibility-for-ov.md)
-_Context: News Corporation, BSkyB takeover bid, Leveson Inquiry, Liberal Democrats, BSkyB, Secretary of State for Business, Vince Cable_
+_Context: News Corporation, Leveson Inquiry, Vince Cable, BSkyB takeover bid, Liberal Democrats, BSkyB, Secretary of State for Business_
 
 ##### Seattle, Washington
 ### [A gunman opens fire in the U.S. city of Seattle, killing three people and injuring two more before shooting himself. A fourth person is killed in a separate incident in the city before the suspected gunman in both incidents kills himself. ](/news/2012/05/30/a-gunman-opens-fire-in-the-u-s-city-of-seattle-killing-three-people-and-injuring-two-more-before-shooting-himself-a-fourth-person-is-kill.md)

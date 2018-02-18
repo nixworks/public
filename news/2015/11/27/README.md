@@ -17,7 +17,7 @@ A war of words between Turkey and Russia escalates as Putin accuses the US of kn
 
 ##### Siege
 ### [Malian forces arrest two men in their early 30s linked to a cell phone found at the scene of last week's deadly hotel attack. No details are provided on what their exact role was. ](/news/2015/11/27/malian-forces-arrest-two-men-in-their-early-30s-linked-to-a-cell-phone-found-at-the-scene-of-last-week-s-deadly-hotel-attack-no-details-are.md)
-_Context: Mali, cell phone, hotel, forces, siege_
+_Context: cell phone, forces, siege, hotel, Mali_
 
 ##### Israeli-Palestinian conflict (2015)
 ### [Two Palestinian drivers drive their vehicles into groups of Israeli soldiers in two separate attacks in the occupied West bank. Both drivers are shot dead. In this current wave of violence that began in October, 19 Israelis, one U.S. citizen, and 93 Palestinians have died. ](/news/2015/11/27/two-palestinian-drivers-drive-their-vehicles-into-groups-of-israeli-soldiers-in-two-separate-attacks-in-the-occupied-west-bank-both-drivers.md)
@@ -29,7 +29,7 @@ Pirates attacked a Polish-owned cargo vessel off the Nigerian coast and kidnappe
 
 ##### Islamist insurgency in West Africa
 ### [A suicide-bomb attack on a Shia Muslim procession in Nigeria's northern Kano state leaves at least 21 people dead. ](/news/2015/11/27/a-suicide-bomb-attack-on-a-shia-muslim-procession-in-nigeria-s-northern-kano-state-leaves-at-least-21-people-dead.md)
-_Context: Kano state, Islamist insurgency in West Africa, suicide bombing, Nigeria_
+_Context: Nigeria, suicide bombing, Islamist insurgency in West Africa, Kano state_
 
 ##### Archaeologist
 ### [Archaeologists discover four prehistoric Ichma culture tombs in the centre of the Peruvian capital Lima. ](/news/2015/11/27/archaeologists-discover-four-prehistoric-ichma-culture-tombs-in-the-centre-of-the-peruvian-capital-lima.md)
@@ -53,19 +53,19 @@ Two children also died Friday in a crash on rain-slick U.S. 175 in South Dallas;
 
 ##### Pope Francis%27 visit to Kenya
 ### [Pope Francis, speaking in the Kenyan shantytown Kangemi, a sprawling slum filled with tin-roofed homes, lashes out at the elite in a neighborhood that feels largely disenfranchised. He describes injustices against the poor, such as unfair distribution of land, and lack of access to infrastructures and basic services, as "new forms of colonialism." ](/news/2015/11/27/pope-francis-speaking-in-the-kenyan-shantytown-kangemi-a-sprawling-slum-filled-with-tin-roofed-homes-lashes-out-at-the-elite-in-a-neighbo.md)
-_Context: Kangemi, Kenya, slum, elite, neighborhood, infrastructure, colonialism, disenfranchised, Pope Francis%27 visit to Kenya, Pope Francis, tin-roofed_
+_Context: neighborhood, Pope Francis, Pope Francis%27 visit to Kenya, tin-roofed, Kenya, disenfranchised, infrastructure, colonialism, slum, Kangemi, elite_
 
 ##### Patricia Scotland, Baroness Scotland of Asthal
 ### [Patricia Scotland, Baroness Scotland of Asthal, is appointed as the sixth Secretary-General of the Commonwealth of Nations. She will become the first woman to hold the position from April 2016. ](/news/2015/11/27/patricia-scotland-baroness-scotland-of-asthal-is-appointed-as-the-sixth-secretary-general-of-the-commonwealth-of-nations-she-will-become.md)
-_Context: Secretary-General, Patricia Scotland, Baroness Scotland of Asthal, Commonwealth of Nations_
+_Context: Patricia Scotland, Baroness Scotland of Asthal, Secretary-General, Commonwealth of Nations_
 
 ##### Saenuri Party
 ### [Former Saenuri Party member of the South Korean National Assembly Cho Hyun-ryong is jailed for five years for accepting bribes. ](/news/2015/11/27/former-saenuri-party-member-of-the-south-korean-national-assembly-cho-hyun-ryong-is-jailed-for-five-years-for-accepting-bribes.md)
-_Context: South Korea, parliamentary review, Saenuri Party_
+_Context: parliamentary review, South Korea, Saenuri Party_
 
 ##### Krakow
 ### [The appellate prosecutors office in the Polish city of Krakow decides not to appeal a decision against extraditing filmmaker Roman Polanski to the United States to face prosecution for historic child sex offences. ](/news/2015/11/27/the-appellate-prosecutors-office-in-the-polish-city-of-krakow-decides-not-to-appeal-a-decision-against-extraditing-filmmaker-roman-polanski.md)
-_Context: Krakow, Roman Polanski, United States, extradited_
+_Context: extradited, Krakow, Roman Polanski, United States_
 
 ##### Colorado Springs, Colorado
 ### [An active shooter in a Planned Parenthood facility in the American city of Colorado Springs, Colorado shoots at least four members of the Colorado Springs Police Department with one officer later dying. Two civilians were also killed, and six were injured. The shooter later surrendered. ](/news/2015/11/27/an-active-shooter-in-a-planned-parenthood-facility-in-the-american-city-of-colorado-springs-colorado-shoots-at-least-four-members-of-the-co.md)

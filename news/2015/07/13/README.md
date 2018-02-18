@@ -9,7 +9,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Saudi-led military intervention in Yemen (2015-present)
 ### [An airstrike by the Saudi-led coalition kills 25 civilians and wounds 50 in Sanaa, the capital of Yemen. Last week a ceasefire agreement was reached. ](/news/2015/07/13/an-airstrike-by-the-saudi-led-coalition-kills-25-civilians-and-wounds-50-in-sanaa-the-capital-of-yemen-last-week-a-ceasefire-agreement-was.md)
-_Context: Saudi Arabia, Saudi-led military intervention in Yemen (2015-present), Yemen, Sanaa_
+_Context: Yemen, Saudi-led military intervention in Yemen (2015-present), Sanaa, Saudi Arabia_
 
 ##### Timeline
 ### [Eurozone leaders agree on a bailout deal for Greece providing the Hellenic Parliament passes reforms into law by July 15. ](/news/2015/07/13/eurozone-leaders-agree-on-a-bailout-deal-for-greece-providing-the-hellenic-parliament-passes-reforms-into-law-by-july-15.md)
@@ -49,7 +49,7 @@ The United Arab Emirates executed a UAE woman convicted of terrorism early on Mo
 
 ##### John Boehner
 ### [The male defendant is found not guilty of death threats on US Majority Speaker of the House, John Boehner, by reason of insanity. He is still in jail and due for another trial on August 21 to determine his ability to adjust to society. ](/news/2015/07/13/the-male-defendant-is-found-not-guilty-of-death-threats-on-us-majority-speaker-of-the-house-john-boehner-by-reason-of-insanity-he-is-stil.md)
-_Context: John Boehner, reason of insanity_
+_Context: reason of insanity, John Boehner_
 
 ##### Netherlands
 ### [Dutch Finance Minister Jeroen Dijsselbloem was re-elected president of the Eurogroup for a second term. ](/news/2015/07/13/dutch-finance-minister-jeroen-dijsselbloem-was-re-elected-president-of-the-eurogroup-for-a-second-term.md)

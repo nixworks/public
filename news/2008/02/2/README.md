@@ -9,7 +9,7 @@ _Context: Maine Republican caucus, Massachusetts governor, Mitt Romney, 2008_
 
 ##### Five people are shot dead
 ### [ Five people are shot dead in a women's clothing store in Tinley Park, Illinois with the person responsible fleeing the scene. ](/news/2008/02/2/five-people-are-shot-dead-in-a-women-s-clothing-store-in-tinley-park-illinois-with-the-person-responsible-fleeing-the-scene.md)
-_Context: Illinois, Five people are shot dead, Tinley Park_
+_Context: Illinois, Tinley Park, Five people are shot dead_
 
 ##### Dambulla
 ### [ An explosion on a bus in Dambulla, Sri Lanka kills at least 20 people. ](/news/2008/02/2/an-explosion-on-a-bus-in-dambulla-sri-lanka-kills-at-least-20-people.md)
@@ -21,7 +21,7 @@ _Context: N'Djamena, Chad, Battle of N'Djamena_
 
 ##### France
 ### [ French President Nicolas Sarkozy marries singer and former supermodel Carla Bruni at the Elysee Palace. ](/news/2008/02/2/french-president-nicolas-sarkozy-marries-singer-and-former-supermodel-carla-bruni-at-the-alysa-c-e-palace.md)
-_Context: supermodel, Nicolas Sarkozy, France, French President, Carla Bruni, Elysee Palace_
+_Context: French President, Carla Bruni, France, Nicolas Sarkozy, supermodel, Elysee Palace_
 
 ## [Previous Day...](/news/2008/02/1/index.md)
 

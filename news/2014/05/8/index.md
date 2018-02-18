@@ -5,7 +5,7 @@ Formats: [HTML](2014/05/8/index.html)  [JSON](2014/05/8/index.json)  [XML](2014/
 
 ##### Syrian Civil War
 ### [A large explosion levels the Carlton Hotel in Aleppo which was used as a military base by the Army of Syria as well as several other buildings. ](/news/2014/05/8/a-large-explosion-levels-the-carlton-hotel-in-aleppo-which-was-used-as-a-military-base-by-the-army-of-syria-as-well-as-several-other-buildin.md)
-_Context: Army of Syria, Syrian Civil War, Aleppo_
+_Context: Syrian Civil War, Aleppo, Army of Syria_
 
 ##### Afghan
 ### [A roadside bomb near the Afghan border in North Waziristan, Pakistan, kills 8 Pakistani soldiers. ](/news/2014/05/8/a-roadside-bomb-near-the-afghan-border-in-north-waziristan-pakistan-kills-8-pakistani-soldiers.md)
@@ -21,7 +21,7 @@ The U.K. lender is abandoning its ambitions to be an elite global bank and said 
 
 ##### Petrobras
 ### [Brazilian oil company Petrobras announces that it plans to cut 8,000 jobs by voluntary dismissal after a significant loss of its economy due to ongoing crisis at its Pasadena Refining System. ](/news/2014/05/8/brazilian-oil-company-petrobras-announces-that-it-plans-to-cut-8-000-jobs-by-voluntary-dismissal-after-a-significant-loss-of-its-economy-due.md)
-_Context: Petrobras, voluntary dismissal, Pasadena Refining System_
+_Context: Pasadena Refining System, Petrobras, voluntary dismissal_
 
 ##### Thailand
 ### [Thailand's National Anti-Corruption Commission refers former Prime Minister Yingluck Shinawatra to face impeachment charges in the Senate over a failed rice subsidy scheme. ](/news/2014/05/8/thailand-s-national-anti-corruption-commission-refers-former-prime-minister-yingluck-shinawatra-to-face-impeachment-charges-in-the-senate-ov.md)

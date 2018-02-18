@@ -5,7 +5,7 @@ Formats: [HTML](2005/12/16/index.html)  [JSON](2005/12/16/index.json)  [XML](200
 
 ##### Bulgaria
 ### [ Bulgaria starts withdrawing its troops from Iraq. ](/news/2005/12/16/bulgaria-starts-withdrawing-its-troops-from-iraq.md)
-_Context: Bulgaria, coalition forces, Iraq_
+_Context: Iraq, Bulgaria, coalition forces_
 
 ##### Chechnya
 ### [ Extreme levels of radiation have been found at a chemical factory in Chechnya. ](/news/2005/12/16/extreme-levels-of-radiation-have-been-found-at-a-chemical-factory-in-chechnya.md)
@@ -17,7 +17,7 @@ _Context: U.S. President, United States Senate, George W. Bush, John McCain_
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: Iraqi Police claim that they captured Abu Musab al-Zarqawi in 2004 and then released him by mistake. ](/news/2005/12/16/conflict-in-iraq-iraqi-police-claim-that-they-captured-abu-musab-al-zarqawi-in-2004-and-then-released-him-by-mistake.md)
-_Context: Iraqi Police, Abu Musab al-Zarqawi, 2004, Conflict in Iraq_
+_Context: Conflict in Iraq, Abu Musab al-Zarqawi, 2004, Iraqi Police_
 
 ##### Hamas
 ### [ Hamas, the main Palestinian opposition party make a large series of gains in the West Bank municipal elections. ](/news/2005/12/16/hamas-the-main-palestinian-opposition-party-make-a-large-series-of-gains-in-the-west-bank-municipal-elections.md)
@@ -25,7 +25,7 @@ _Context: Palestinian, Hamas, West Bank_
 
 ##### Liaoyuan
 ### [ At least 39 people, 33 of whom were patients, die after a fire breaks out in a hospital in the city of Liaoyuan, near Changchun in China's Jilin Province. The cause of the fire is unknown. ](/news/2005/12/16/at-least-39-people-33-of-whom-were-patients-die-after-a-fire-breaks-out-in-a-hospital-in-the-city-of-liaoyuan-near-changchun-in-china-s.md)
-_Context: Chinese, Liaoyuan, Jilin Province, Changchun_
+_Context: Changchun, Jilin Province, Liaoyuan, Chinese_
 
 ##### Israeli-Palestinian conflict
 ### [ Israeli-Palestinian conflict: An Israeli settler dies following a drive-by shooting claimed by the al-Aqsa Martyrs' Brigades and Islamic Jihad. ](/news/2005/12/16/israeli-palestinian-conflict-an-israeli-settler-dies-following-a-drive-by-shooting-claimed-by-the-al-aqsa-martyrs-brigades-and-islamic-ji.md)
@@ -33,11 +33,11 @@ West Bank shooting: One man dead, two women suffer from shock after gunmen trave
 
 ##### Intellectual property
 ### [ Intellectual property dispute: a US federal judge upholds Pfizer's two main patents for Lipitor, which had been challenged by Ranbaxy Laboratories. The decision is the latest defeat for Ranbaxy, an Indian generic drugmaker, which has also lost in a UK court. ](/news/2005/12/16/intellectual-property-dispute-a-us-federal-judge-upholds-pfizer-s-two-main-patents-for-lipitor-which-had-been-challenged-by-ranbaxy-labor.md)
-_Context: Intellectual property, Lipitor, Pfizer_
+_Context: Intellectual property, Pfizer, Lipitor_
 
 ##### Denis Donaldson
 ### [ Denis Donaldson is expelled from Sinn Fin for being a British spy. He later confirms this in a statement. ](/news/2005/12/16/denis-donaldson-is-expelled-from-sinn-fein-for-being-a-british-spy-he-later-confirms-this-in-a-statement.md)
-_Context: Sinn Fin, espionage, Denis Donaldson_
+_Context: Denis Donaldson, espionage, Sinn Fin_
 
 ## [Previous Day...](/news/2005/12/15/index.md)
 

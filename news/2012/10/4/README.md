@@ -9,15 +9,15 @@ World leaders urged Turkey to step back from the brink of war with Syria after i
 
 ##### Libyan Parliament
 ### [Protesters storm the headquarters of the Libyan General National Congress in the capital Tripoli angry at Prime Minister Mustafa Abushagur's proposed cabinet line-up, saying it is not fully representative of the country. ](/news/2012/10/4/protesters-storm-the-headquarters-of-the-libyan-general-national-congress-in-the-capital-tripoli-angry-at-prime-minister-mustafa-abushagur-s.md)
-_Context: Mustafa Abushagur, Tripoli, Libyan Parliament_
+_Context: Libyan Parliament, Mustafa Abushagur, Tripoli_
 
 ##### FBI
 ### [The FBI conducts its investigation into the attack on the U.S. Consulate in Benghazi, Libya, in one day. ](/news/2012/10/4/the-fbi-conducts-its-investigation-into-the-attack-on-the-u-s-consulate-in-benghazi-libya-in-one-day.md)
-_Context: attack on the U.S. Consulate in Benghazi, Libya, FBI_
+_Context: FBI, attack on the U.S. Consulate in Benghazi, Libya_
 
 ##### Chief Executive
 ### [Hong Kong Chief Executive Leung Chun-ying and other government officials observe three minutes of silence to mourn the victims of a ferry collision off Lamma Island on October 1, marking the start of a three-day mourning period. ](/news/2012/10/4/hong-kong-chief-executive-leung-chun-ying-and-other-government-officials-observe-three-minutes-of-silence-to-mourn-the-victims-of-a-ferry-co.md)
-_Context: ferry collision, three minutes of silence, Lamma Island, Chief Executive, national mourning, Leung Chun-ying_
+_Context: three minutes of silence, ferry collision, national mourning, Lamma Island, Chief Executive, Leung Chun-ying_
 
 ##### Chinese
 ### [A landslide buries at least 19 people in the southwestern Chinese province of Yunnan with 18 later confirmed dead and one missing. ](/news/2012/10/4/a-landslide-buries-at-least-19-people-in-the-southwestern-chinese-province-of-yunnan-with-18-later-confirmed-dead-and-one-missing.md)

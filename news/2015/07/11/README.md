@@ -5,7 +5,7 @@ Formats: [HTML](2015/07/11/index.html)  [JSON](2015/07/11/index.json)  [XML](201
 
 ##### Boko Haram insurgency
 ### [A suicide bomber attacks the Nigerian city of Maiduguri killing at least one person. ](/news/2015/07/11/a-suicide-bomber-attacks-the-nigerian-city-of-maiduguri-killing-at-least-one-person.md)
-_Context: suicide bomber, Nigeria, Maiduguri, Boko Haram insurgency_
+_Context: Nigeria, Boko Haram insurgency, Maiduguri, suicide bomber_
 
 ##### South Thailand insurgency
 ### [At least seven people have been killed and dozens injured in a series of attacks in southern Thailand. ](/news/2015/07/11/at-least-seven-people-have-been-killed-and-dozens-injured-in-a-series-of-attacks-in-southern-thailand.md)
@@ -21,11 +21,11 @@ _Context: War in Somalia (2009-present), Somalia, Mogadishu_
 
 ##### Yemeni crisis
 ### [A truce brokered by the United Nations due to last for the remainder of Ramadan is broken within an hour with both sides exchanging blame. ](/news/2015/07/11/a-truce-brokered-by-the-united-nations-due-to-last-for-the-remainder-of-ramadan-is-broken-within-an-hour-with-both-sides-exchanging-blame.md)
-_Context: United Nations, Saudi-led intervention in Yemen (2015-present), Ramadan, truce, Yemeni crisis_
+_Context: truce, Saudi-led intervention in Yemen (2015-present), Yemeni crisis, Ramadan, United Nations_
 
 ##### Greek government-debt crisis
 ### [The Hellenic Parliament passes a package of economic reforms to end the current stage of the debt crisis. ](/news/2015/07/11/the-hellenic-parliament-passes-a-package-of-economic-reforms-to-end-the-current-stage-of-the-debt-crisis.md)
-_Context: Greek government-debt crisis, Hellenic Parliament_
+_Context: Hellenic Parliament, Greek government-debt crisis_
 
 ##### Steve Huffman
 ### [Steve Huffman is re-appointed as the CEO of Reddit as Ellen Pao steps down over a dispute with the website's users over the firing of a popular employee. ](/news/2015/07/11/steve-huffman-is-re-appointed-as-the-ceo-of-reddit-as-ellen-pao-steps-down-over-a-dispute-with-the-website-s-users-over-the-firing-of-a-popu.md)
@@ -41,7 +41,7 @@ Hundreds of people are evacuated from villages around a volcano in western Mexic
 
 ##### Serbia
 ### [Serbian Prime Minister Aleksandar Vucic is pelted with stones and other objects as he attempts to pay respects to the victims of the Bosnian Genocide, Vucic is a former member of the Serbian Radical Party, a far right anti-Islam party. ](/news/2015/07/11/serbian-prime-minister-aleksandar-vuaia-is-pelted-with-stones-and-other-objects-as-he-attempts-to-pay-respects-to-the-victims-of-the-bosni.md)
-_Context: Serbian Radical Party, Aleksandar Vucic, Prime Minister of Serbia, Bosnian Genocide, Serbia_
+_Context: Aleksandar Vucic, Prime Minister of Serbia, Serbian Radical Party, Serbia, Bosnian Genocide_
 
 ##### Russian military intervention in Ukraine
 ### [Dozens of Russian soldiers face trial for fleeing a training ground in Maikop, fearing deployment to Ukraine. ](/news/2015/07/11/dozens-of-russian-soldiers-face-trial-for-fleeing-a-training-ground-in-maikop-fearing-deployment-to-ukraine.md)
@@ -49,7 +49,7 @@ Dozens of professional Russian soldiers are facing trial after abandoning a trai
 
 ##### Mexican
 ### [Mexican drug kingpin Joaquin Guzman Loera escapes from a maximum security prison the Federal Social Readaptation Center No. 1. ](/news/2015/07/11/mexican-drug-kingpin-joaquan-guzma-n-loera-escapes-from-a-maximum-security-prison-the-federal-social-readaptation-center-no-1.md)
-_Context: Federal Social Readaptation Center No. 1, Joaquin Guzman Loera, Mexican_
+_Context: Mexican, Joaquin Guzman Loera, Federal Social Readaptation Center No. 1_
 
 ##### Aung San Suu Kyi
 ### [Aung San Suu Kyi announces that the National League for Democracy will participate in Myanmar's general election later this year. ](/news/2015/07/11/aung-san-suu-kyi-announces-that-the-national-league-for-democracy-will-participate-in-myanmar-s-general-election-later-this-year.md)

@@ -13,15 +13,15 @@ _Context: Battle of N'Djamena, Chad, Red Cross_
 
 ##### Israel
 ### [ Israeli attacks kill eight Hamas members on the Gaza Strip as Hamas claims responsibility for the Dimona attack. ](/news/2008/02/5/israeli-attacks-kill-eight-hamas-members-on-the-gaza-strip-as-hamas-claims-responsibility-for-the-dimona-attack.md)
-_Context: Dimona attack, Israel, Gaza Strip, Hamas_
+_Context: Gaza Strip, Israel, Hamas, Dimona attack_
 
 ##### Speaker
 ### [ Philippine House Speaker Jose de Venecia was ousted by the majority of the representatives of the House of Representatives and Davao City Rep. Prospero Nograles was elected as the 13th House Speaker and the first Speaker from Mindanao. ](/news/2008/02/5/philippine-house-speaker-jose-de-venecia-was-ousted-by-the-majority-of-the-representatives-of-the-house-of-representatives-and-davao-city-r.md)
-_Context: Speaker, Prospero Nograles, Davao City, Jose de Venecia_
+_Context: Jose de Venecia, Davao City, Prospero Nograles, Speaker_
 
 ##### 2008 Chinese winter storms
 ### [ 2008 Chinese winter storms: Chinese Premier Wen Jiabao visits disaster-affected region in Guizhou Province, one of the worst-hit provinces, to direct relief efforts. This is his third trip to disaster regions in eight days. ](/news/2008/02/5/2008-chinese-winter-storms-chinese-premier-wen-jiabao-visits-disaster-affected-region-in-guizhou-province-one-of-the-worst-hit-provinces.md)
-_Context: Premier of the People's Republic of China, Wen Jiabao, 2008 Chinese winter storms, Guizhou_
+_Context: Wen Jiabao, 2008 Chinese winter storms, Guizhou, Premier of the People's Republic of China_
 
 ##### Major tornado outbreak
 ### [ A major tornado outbreak across the Southern United States leaves 57 people dead, and causes some polling places to be closed early. The hardest hit areas are in Alabama, Kentucky, Tennessee, Mississippi, and Arkansas including the Memphis area, northern Middle Tennessee and Jackson, Tennessee. ](/news/2008/02/5/a-major-tornado-outbreak-across-the-southern-united-states-leaves-57-people-dead-and-causes-some-polling-places-to-be-closed-early-the-ha.md)
@@ -29,7 +29,7 @@ Local and state officials warned Wednesday that they would not tolerate a slow r
 
 ##### WTO
 ### [ WTO approves Ukraine to become a new member. ](/news/2008/02/5/wto-approves-ukraine-to-become-a-new-member.md)
-_Context: WTO, Ukraine_
+_Context: Ukraine, WTO_
 
 ## [Previous Day...](/news/2008/02/4/index.md)
 

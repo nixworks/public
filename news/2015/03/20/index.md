@@ -21,7 +21,7 @@ Tropical Cyclone Nathan is downgraded to a category three system after making la
 
 ##### Derails
 ### [The Dehradun-Varanasi Janta Express derails near Bachhrawan Railway Station in Uttar Pradesh northern India resulting in at least 30 deaths and 150 people being injured. ](/news/2015/03/20/the-dehradun-varanasi-janta-express-derails-near-bachhrawan-railway-station-in-uttar-pradesh-northern-india-resulting-in-at-least-30-deaths.md)
-_Context: derails, Uttar Pradesh, India_
+_Context: derails, India, Uttar Pradesh_
 
 ##### Uruguayan Air Force
 ### [A Uruguayan Air Force Beechcraft King Air crashes shortly after take-off from Laguna del Sauce airport, killing ten people. ](/news/2015/03/20/a-uruguayan-air-force-beechcraft-king-air-crashes-shortly-after-take-off-from-laguna-del-sauce-airport-killing-ten-people.md)
@@ -29,7 +29,7 @@ An Argentine Beechcraft King Air has crashed and burned leaving 10 dead.
 
 ##### Biogen Idec
 ### [Biogen Idec Inc. reports that a drug in a phase II clinical research trial has achieved the first experimental demonstration of a statistically significant reduction in amyloid plaque as well as a slowing of clinical impairment in patients with Alzheimer's disease. The antibody drug, aducanumab, blocked beta amyloid formation, a protein that forms toxic brain-destroying plaques, and significantly slowed cognitive decline. ](/news/2015/03/20/biogen-idec-inc-reports-that-a-drug-in-a-phase-ii-clinical-research-trial-has-achieved-the-first-experimental-demonstration-of-a-statistica.md)
-_Context: Alzheimer's disease, beta amyloid, aducanumab, Biogen Idec, phase II clinical research trial, antibodies_
+_Context: Alzheimer's disease, phase II clinical research trial, Biogen Idec, antibodies, beta amyloid, aducanumab_
 
 ##### Subprime mortgage
 ### [To resolve claims they were misled about the company's subprime mortgage exposure, a U.S. District Court Judge, Laura Swain approves a settlement between shareholders and American multinational insurer AIG, providing for a payout of $970.5 million. ](/news/2015/03/20/to-resolve-claims-they-were-misled-about-the-company-s-subprime-mortgage-exposure-a-u-s-district-court-judge-laura-swain-approves-a-settl.md)

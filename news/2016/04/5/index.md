@@ -21,7 +21,7 @@ Pfizer Inc. decided to terminate its $160 billion merger with Allergan Plc, a pe
 
 ##### India's health ministry
 ### [India's health ministry orders government agencies to enforce a new rule for larger health warnings that cover 85 percent of a cigarette pack's surface, up from 20 percent now. India's biggest cigarette maker ITC Ltd., part-owned by British American Tobacco, and Godfrey Phillips India Ltd., a partner of U.S.-based Philip Morris International, shut factories on Friday in protest. ](/news/2016/04/5/india-s-health-ministry-orders-government-agencies-to-enforce-a-new-rule-for-larger-health-warnings-that-cover-85-percent-of-a-cigarette-pac.md)
-_Context: British American Tobacco, India's health ministry, ITC Ltd., Philip Morris International, India, Godfrey Phillips India Ltd., health warnings, cigarette pack_
+_Context: ITC Ltd., Godfrey Phillips India Ltd., British American Tobacco, India, Philip Morris International, India's health ministry, cigarette pack, health warnings_
 
 ##### China-North Korea relations
 ### [China's Ministry of Commerce says that it is restricting trade with North Korea, in line with the recent sanctions approved by the United Nations Security Council last March. China will be banning the export of jet fuel and import of gold, some coal and "rare earth metals" used in high-tech goods. ](/news/2016/04/5/china-s-ministry-of-commerce-says-that-it-is-restricting-trade-with-north-korea-in-line-with-the-recent-sanctions-approved-by-the-united-na.md)
@@ -37,7 +37,7 @@ French Finance Minister puts Panama back on list of countries that don&#39;t coo
 
 ##### Mexico-United States relations
 ### [Due to concerns about an increasingly anti-Mexican climate across the border, Mexico unexpectedly changes two of its top officials responsible for U.S. relations. Foreign Minister Claudia Ruiz Massieu told local media, "We have been warning that our citizens have begun to feel a more hostile climate. This (anti-Mexican) rhetoric has made it clear that we have to act in a different way so that this tendency being generated doesn't damage the bilateral relationship." ](/news/2016/04/5/due-to-concerns-about-an-increasingly-anti-mexican-climate-across-the-border-mexico-unexpectedly-changes-two-of-its-top-officials-responsib.md)
-_Context: United States, Mexico-United States relations, Mexico, Foreign Minister, anti-Mexican climate, Claudia Ruiz Massieu_
+_Context: Mexico, United States, Mexico-United States relations, Claudia Ruiz Massieu, Foreign Minister, anti-Mexican climate_
 
 ##### ICC
 ### [The International Criminal Court terminates the case against Kenya's Deputy President William Ruto and ends his trial, saying there is insufficient evidence he was involved in deadly violence that erupted after his country's 2007 presidential election. ](/news/2016/04/5/the-international-criminal-court-terminates-the-case-against-kenya-s-deputy-president-william-ruto-and-ends-his-trial-saying-there-is-insuf.md)
@@ -49,7 +49,7 @@ The US and human rights groups call for Thailand’s coup leaders to limit milit
 
 ##### LGBT rights in the United States
 ### [Mississippi Governor Phil Bryant approves a new law that allows religious groups and private businesses to deny services to gay and transgender people. ](/news/2016/04/5/mississippi-governor-phil-bryant-approves-a-new-law-that-allows-religious-groups-and-private-businesses-to-deny-services-to-gay-and-transgen.md)
-_Context: gay and bisexual men, Phil Bryant's, LGBT rights in the United States, Mississippi Governor_
+_Context: Phil Bryant's, Mississippi Governor, gay and bisexual men, LGBT rights in the United States_
 
 ##### Panama Papers
 ### [Icelandic Prime Minister Sigmundur David Gunnlaugsson temporarily steps down amid allegations his family attempted to hide millions in an offshore account. ](/news/2016/04/5/icelandic-prime-minister-sigmundur-davaadeg-gunnlaugsson-temporarily-steps-down-amid-allegations-his-family-attempted-to-hide-millions-in-an.md)
@@ -61,7 +61,7 @@ Tuesday&rsquo;s vote in Wisconsin could not only help shore up the momentum for 
 
 ##### Queensland term length referendum, 2016
 ### [The results of a referendum last month in the Australian state of Queensland with voters agreeing to plans for a four-year fixed parliamentary term. ](/news/2016/04/5/the-results-of-a-referendum-last-month-in-the-australian-state-of-queensland-with-voters-agreeing-to-plans-for-a-four-year-fixed-parliamenta.md)
-_Context: Queensland, Australia, Queensland term length referendum, 2016_
+_Context: Queensland, Queensland term length referendum, 2016, Australia_
 
 ##### South Africa
 ### [The South African Parliament debates a minority motion to impeach President Jacob Zuma following last week's Constitutional Court judgment that Zuma had violated the constitution in a spending scandal involving the president's private home. The African National Congress has a 249 - 151 majority, making this motion's chance of gaining a two-thirds majority unlikely. ](/news/2016/04/5/the-south-african-parliament-debates-a-minority-motion-to-impeach-president-jacob-zuma-following-last-week-s-constitutional-court-judgment-t.md)
@@ -69,7 +69,7 @@ President Jacob Zuma lived to lead South Africa for another day after a DA motio
 
 ##### 2015-16 protests in Brazil
 ### [Marco Aurelio Mello, a Supreme Federal Court judge orders Brazil's Chamber of Deputies to start impeachment proceedings against Vice President Michel Temer over charges he helped doctor budget accounting as part of President Dilma Rousseff's administration. ](/news/2016/04/5/marco-aura-c-lio-mello-a-supreme-federal-court-judge-orders-brazil-s-chamber-of-deputies-to-start-impeachment-proceedings-against-vice-presid.md)
-_Context: Marco Aurelio Mello, Dilma Rousseff, Brazil's Chamber of Deputies, Brazil, 2015-16 protests in Brazil, Michel Temer, Supreme Court, president, Vice President_
+_Context: Supreme Court, president, Dilma Rousseff, Michel Temer, Brazil, Marco Aurelio Mello, Vice President, Brazil's Chamber of Deputies, 2015-16 protests in Brazil_
 
 ##### Peruvian general election, 2016
 ### [Peruvians protest in five cities, including the capital Lima, against the presidential candidacy of Keiko Fujimori, daughter of imprisoned ex-president Alberto Fujimori, who exactly 24 years ago this day carried out a coup by shutting down Congress and taking over the courts with the support of the military. Keiko Fujimori is the front runner in Sunday's April 10, 2016, election. Yesterday, Fujimori committed to respect democratic liberties and the rule of law, and to work against corruption, which some opponents have rejected. The Organization of American States says the election could lack credibility unless two recently disqualified candidates are allowed to run. ](/news/2016/04/5/peruvians-protest-in-five-cities-including-the-capital-lima-against-the-presidential-candidacy-of-keiko-fujimori-daughter-of-imprisoned-e.md)

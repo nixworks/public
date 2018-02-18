@@ -5,11 +5,11 @@ Formats: [HTML](2009/05/19/index.html)  [JSON](2009/05/19/index.json)  [XML](200
 
 ##### United States
 ### [ The United States Government Accountability Office warns that the Global Positioning System could fail by 2010. ](/news/2009/05/19/the-united-states-government-accountability-office-warns-that-the-global-positioning-system-could-fail-by-2010.md)
-_Context: United States, Global Positioning System, 2010, Government Accountability Office_
+_Context: Government Accountability Office, United States, 2010, Global Positioning System_
 
 ##### Palestinian Authority President
 ### [ President Mahmoud Abbas inaugurates the Palestinian National Authority's new government. ](/news/2009/05/19/president-mahmoud-abbas-inaugurates-the-palestinian-national-authority-s-new-government.md)
-_Context: Mahmoud Abbas, form of government, inaugurated, Palestinian Authority, Palestinian Authority President_
+_Context: Palestinian Authority, form of government, Mahmoud Abbas, Palestinian Authority President, inaugurated_
 
 ##### United Kingdom
 ### [ United Kingdom House of Commons Speaker Michael Martin announces that he will resign on June 21. ](/news/2009/05/19/united-kingdom-house-of-commons-speaker-michael-martin-announces-that-he-will-resign-on-june-21.md)
@@ -17,55 +17,55 @@ _Context: United Kingdom, Michael Martin, Speaker of the UK House of Commons, th
 
 ##### President of Sri Lanka
 ### [ President Mahinda Rajapaksa declares Sri Lanka "liberated" from the Liberation Tigers of Tamil Eelam. ](/news/2009/05/19/president-mahinda-rajapaksa-declares-sri-lanka-liberated-from-the-liberation-tigers-of-tamil-eelam.md)
-_Context: LTTE, Rajapaksa, Sri Lankan Civil War, President of Sri Lanka, Sri Lanka_
+_Context: Rajapaksa, LTTE, President of Sri Lanka, Sri Lanka, Sri Lankan Civil War_
 
 ##### Uzbekistan
 ### [ Uzbekistan's government leases Navoiy Airport to the North Atlantic Treaty Organization. ](/news/2009/05/19/uzbekistan-s-government-leases-navoiy-airport-to-the-north-atlantic-treaty-organization.md)
-_Context: Navoiy Airport, Politics of Uzbekistan, Uzbekistan, NATO, lease_
+_Context: Uzbekistan, Politics of Uzbekistan, lease, NATO, Navoiy Airport_
 
 ##### LTTE
 ### [ Pro-Tamil Tigers protesters and the Metropolitan Police Service battle, injuring 16 people, in London, England. ](/news/2009/05/19/pro-tamil-tigers-protesters-and-the-metropolitan-police-service-battle-injuring-16-people-in-london-england.md)
-_Context: England, Metropolitan Police Service, protest, LTTE, London_
+_Context: LTTE, protest, London, England, Metropolitan Police Service_
 
 ##### United States
 ### [ The U.S. and Russia begin negotiations to replace the expiring Strategic Arms Reduction Treaty. ](/news/2009/05/19/the-u-s-and-russia-begin-negotiations-to-replace-the-expiring-strategic-arms-reduction-treaty.md)
-_Context: negotiation, Russia, Strategic Arms Reduction Treaty, United States_
+_Context: Russia, Strategic Arms Reduction Treaty, negotiation, United States_
 
 ##### ASEAN
 ### [ The Association of Southeast Asian Nations expresses "grave concern" about National League for Democracy General Secretary Aung San Suu Kyi's trial. ](/news/2009/05/19/the-association-of-southeast-asian-nations-expresses-grave-concern-about-national-league-for-democracy-general-secretary-aung-san-suu-kyi.md)
-_Context: Aung San Suu Kyi, ASEAN, General Secretary, National League for Democracy, trial_
+_Context: National League for Democracy, General Secretary, Aung San Suu Kyi, trial, ASEAN_
 
 ##### Ethiopia
 ### [ Ethiopia's National Defense Force reenters Somalia. ](/news/2009/05/19/ethiopia-s-national-defense-force-reenters-somalia.md)
-_Context: declares, Somalia, Ethiopian Army, Ethiopia_
+_Context: Ethiopian Army, Somalia, declares, Ethiopia_
 
 ##### Canadian
 ### [ Former Canadian Prime Minister Brian Mulroney testifies about his relationship with arms dealer Karlheinz Schreiber. ](/news/2009/05/19/former-canadian-prime-minister-brian-mulroney-testifies-about-his-relationship-with-arms-dealer-karlheinz-schreiber.md)
-_Context: defense contractor, Canadian, Brian Mulroney, Karlheinz Schreiber, relationship, Prime Minister of Canada_
+_Context: Prime Minister of Canada, Canadian, defense contractor, Brian Mulroney, Karlheinz Schreiber, relationship_
 
 ##### Manmohan Singh
 ### [ Manmohan Singh of the National Congress is reelected as Prime Minister of India. ](/news/2009/05/19/manmohan-singh-of-the-national-congress-is-reelected-as-prime-minister-of-india.md)
-_Context: Congress Party, Manmohan Singh, becomes, Indian Prime Minister, India_
+_Context: India, Congress Party, Manmohan Singh, Indian Prime Minister, becomes_
 
 ##### Brazil
 ### [ Brazilian oil company Petrobras and the People's Republic of China finalize a US$10-billion agreement. ](/news/2009/05/19/brazilian-oil-company-petrobras-and-the-people-s-republic-of-china-finalize-a-us-10-billion-agreement.md)
-_Context: China, oil companies, Brazil, Petrobras, $_
+_Context: oil companies, China, Petrobras, $, Brazil_
 
 ##### European Parliament
 ### [ The European Parliament requests that Spain reform its planning laws. ](/news/2009/05/19/the-european-parliament-requests-that-spain-reform-its-planning-laws.md)
-_Context: Spain, European Parliament, reform_
+_Context: European Parliament, reform, Spain_
 
 ##### Skeleton
 ### [ A 47-million-year-old skeleton of a lemur species is discovered in Germany. ](/news/2009/05/19/a-47-million-year-old-skeleton-of-a-lemur-species-is-discovered-in-germany.md)
-_Context: lemur, German, skeleton, species_
+_Context: German, species, skeleton, lemur_
 
 ##### Somalia
 ### [ Somali pirates release the German cargo ship MV "Patriot". ](/news/2009/05/19/somali-pirates-release-the-german-cargo-ship-mv-patriot.md)
-_Context: Somalia, Somali pirates, Patriot, cargo ship, MV, German_
+_Context: cargo ship, Patriot, German, Somali pirates, MV, Somalia_
 
 ##### Bahrain
 ### [ Bahrain recognizes Kosovo. ](/news/2009/05/19/bahrain-recognizes-kosovo.md)
-_Context: Kosovo, Kosovo, Bahrain_
+_Context: Bahrain, Kosovo, Kosovo_
 
 ## [Previous Day...](/news/2009/05/18/index.md)
 

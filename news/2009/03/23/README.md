@@ -5,23 +5,23 @@ Formats: [HTML](2009/03/23/index.html)  [JSON](2009/03/23/index.json)  [XML](200
 
 ##### Car bomb
 ### [ A car bomb is located and defused near a shopping mall in Haifa, Israel. ](/news/2009/03/23/a-car-bomb-is-located-and-defused-near-a-shopping-mall-in-haifa-israel.md)
-_Context: Israel, Haifa, car bomb, bomb squad, shopping mall_
+_Context: bomb squad, Israel, car bomb, shopping mall, Haifa_
 
 ##### Suicide attack
 ### [ Two suicide attacks in Iraq kill at least 22 people and injure more than 50 others. ](/news/2009/03/23/two-suicide-attacks-in-iraq-kill-at-least-22-people-and-injure-more-than-50-others.md)
-_Context: Iraq, suicide attack_
+_Context: suicide attack, Iraq_
 
 ##### Alaska
 ### [ Alaska's Mount Redoubt volcano erupts four more times. ](/news/2009/03/23/alaska-s-mount-redoubt-volcano-erupts-four-more-times.md)
-_Context: Alaska, Mount Redoubt, volcano_
+_Context: Alaska, volcano, Mount Redoubt_
 
 ##### United States
 ### [ The United States Treasury Department announces that it will purchase high-yield debts from banks. ](/news/2009/03/23/the-united-states-treasury-department-announces-that-it-will-purchase-high-yield-debts-from-banks.md)
-_Context: high-yield debt, United States Treasury Department, Banking in the United States, 4th quarter of 2007 and the second quarter of 2009, United States_
+_Context: 4th quarter of 2007 and the second quarter of 2009, high-yield debt, United States Treasury Department, United States, Banking in the United States_
 
 ##### Gjorge Ivanov
 ### [ Gjorge Ivanov of the VMRO-DPMNE leads the first round of Macedonia's presidential election. ](/news/2009/03/23/gjorge-ivanov-of-the-vmroadpmne-leads-the-first-round-of-macedonia-s-presidential-election.md)
-_Context: presidential, Gjorge Ivanov, VMRO-DPMNE, second round, election, Republic of Macedonia_
+_Context: election, Republic of Macedonia, second round, presidential, Gjorge Ivanov, VMRO-DPMNE_
 
 ##### FedEx
 ### [ FedEx Express Flight 80 crashes at Narita International Airport in Tokyo, Japan, killing both pilots. ](/news/2009/03/23/fedex-express-flight-80-crashes-at-narita-international-airport-in-tokyo-japan-killing-both-pilots.md)

@@ -5,11 +5,11 @@ Formats: [HTML](2012/01/10/index.html)  [JSON](2012/01/10/index.json)  [XML](201
 
 ##### Bombing
 ### [A bombing in Khyber Agency, Pakistan, kills at least 29 people and leaves over 50 others injured. ](/news/2012/01/10/a-bombing-in-khyber-agency-pakistan-kills-at-least-29-people-and-leaves-over-50-others-injured.md)
-_Context: Khyber Agency, bombing_
+_Context: bombing, Khyber Agency_
 
 ##### Amir Mirza Hekmati
 ### [Amir Mirza Hekmati is sentenced to death by Iran's Islamic Revolutionary Court. ](/news/2012/01/10/amir-mirza-hekmati-is-sentenced-to-death-by-iran-s-islamic-revolutionary-court.md)
-_Context: Iran, Islamic Revolutionary Court, Amir Mirza Hekmati_
+_Context: Islamic Revolutionary Court, Iran, Amir Mirza Hekmati_
 
 ##### Scottish Government
 ### [The Scottish Government announces that it plans to hold the referendum on Scottish independence in the autumn of 2014, but Secretary of State for Scotland Michael Moore tells the House of Commons that the power to hold a referendum is "reserved" to Westminster. ](/news/2012/01/10/the-scottish-government-announces-that-it-plans-to-hold-the-referendum-on-scottish-independence-in-the-autumn-of-2014-but-secretary-of-stat.md)
@@ -21,7 +21,7 @@ Plans for a £33bn high-speed rail network - HS2 - receive a mixed reaction as t
 
 ##### Mitt Romney
 ### [Early reports show that Mitt Romney wins the New Hampshire Republican primary with Ron Paul in second and Jon Huntsman in third. ](/news/2012/01/10/early-reports-show-that-mitt-romney-wins-the-new-hampshire-republican-primary-with-ron-paul-in-second-and-jon-huntsman-in-third.md)
-_Context: Ron Paul, Jon Huntsman, New Hampshire Republican primary, Mitt Romney_
+_Context: Mitt Romney, Jon Huntsman, Ron Paul, New Hampshire Republican primary_
 
 ## [Previous Day...](/news/2012/01/9/index.md)
 

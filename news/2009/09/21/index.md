@@ -17,7 +17,7 @@ Ousted Honduran President Manuel Zelaya has returned to his country, nearly thre
 
 ##### 6.1 magnitude earthquake
 ### [ A 6.1 magnitude earthquake occurs in eastern Bhutan and is felt in northeast India, Tibet and Bangladesh, leaving at least 10 dead. ](/news/2009/09/21/a-6-1-magnitude-earthquake-occurs-in-eastern-bhutan-and-is-felt-in-northeast-india-tibet-and-bangladesh-leaving-at-least-10-dead.md)
-_Context: India, Tibet Autonomous Region, Bhutan, Bangladesh, 6.1 magnitude earthquake_
+_Context: Bhutan, India, Tibet Autonomous Region, 6.1 magnitude earthquake, Bangladesh_
 
 ##### Craiova
 ### [ A passenger train is intentionally derailed near Craiova, Romania, injuring many people. ](/news/2009/09/21/a-passenger-train-is-intentionally-derailed-near-craiova-romania-injuring-many-people.md)
@@ -29,7 +29,7 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 
 ##### South Africa
 ### [ South African President Jacob Zuma admits disagreements do exist between the ANC and the trade union federation (COSATU)&mdash;one of its main political partners. ](/news/2009/09/21/south-african-president-jacob-zuma-admits-disagreements-do-exist-between-the-anc-and-the-trade-union-federation-cosatu-mdash-one-of-its-m.md)
-_Context: South Africa, Congress of South African Trade Unions, African National Congress, President of South Africa, Jacob Zuma_
+_Context: Congress of South African Trade Unions, African National Congress, Jacob Zuma, President of South Africa, South Africa_
 
 ##### Italy
 ### [ Italy holds a state funeral for six soldiers killed in Afghanistan last week. ](/news/2009/09/21/italy-holds-a-state-funeral-for-six-soldiers-killed-in-afghanistan-last-week.md)
@@ -37,15 +37,15 @@ _Context: state funeral, Afghan, Italy_
 
 ##### Russia
 ### [ Russia's first President Boris Yeltsin spent his retirement in a "golden cage", his phone tapped and the Kremlin controlling visitors, a colleague reveals. ](/news/2009/09/21/russia-s-first-president-boris-yeltsin-spent-his-retirement-in-a-golden-cage-his-phone-tapped-and-the-kremlin-controlling-visitors-a-co.md)
-_Context: Russian President, Russian government, Russia, Boris Yeltsin_
+_Context: Russia, Russian government, Boris Yeltsin, Russian President_
 
 ##### Sir Alex Ferguson
 ### [ Sir Alex Ferguson, Gary Lineker and Fabio Capello are among 1,000 guests at a memorial service held for the recently deceased football manager Sir Bobby Robson. ](/news/2009/09/21/sir-alex-ferguson-gary-lineker-and-fabio-capello-are-among-1-000-guests-at-a-memorial-service-held-for-the-recently-deceased-football-mana.md)
-_Context: association football, Sir Alex Ferguson, Sir Bobby Robson, Gary Lineker, Fabio Capello_
+_Context: Sir Bobby Robson, association football, Gary Lineker, Sir Alex Ferguson, Fabio Capello_
 
 ##### River delta
 ### [ Most of the world's major river deltas are sinking, including Colorado, Nile, Pearl, Rhone and Yangtze, increasing the flood risk faced by  a billion people, scientists report. ](/news/2009/09/21/most-of-the-world-s-major-river-deltas-are-sinking-including-colorado-nile-pearl-rhone-and-yangtze-increasing-the-flood-risk-faced-by.md)
-_Context: Yangtze River, Rhone, Pearl, Nile, Colorado, river delta_
+_Context: Colorado, Nile, Rhone, Pearl, river delta, Yangtze River_
 
 ##### Japanese government
 ### [ New figures released by the Japanese government indicate one in four women are aged 65 or over for the first time. ](/news/2009/09/21/new-figures-released-by-the-japanese-government-indicate-one-in-four-women-are-aged-65-or-over-for-the-first-time.md)
@@ -53,11 +53,11 @@ _Context: Japanese government_
 
 ##### Lou Nuer
 ### [ Lou Nuer militiamen kill more than 100 civilians and security force members in an attack in Sudan's Duk Padiet in Jonglei, the latest in a series of ethnic clashes. ](/news/2009/09/21/lou-nuer-militiamen-kill-more-than-100-civilians-and-security-force-members-in-an-attack-in-sudan-s-duk-padiet-in-jonglei-the-latest-in-a.md)
-_Context: Lou Nuer, Jonglei, Duk Padiet, Sudan_
+_Context: Sudan, Jonglei, Duk Padiet, Lou Nuer_
 
 ##### French President
 ### [ A judicial official says a 51-year-old man has confessed to sending threatening letters containing bullets to President of France Nicolas Sarkozy and other prominent figures. ](/news/2009/09/21/a-judicial-official-says-a-51-year-old-man-has-confessed-to-sending-threatening-letters-containing-bullets-to-president-of-france-nicolas-s.md)
-_Context: Nicolas Sarkozy, French President_
+_Context: French President, Nicolas Sarkozy_
 
 ##### Swimming
 ### [ In swimming, Lisa Cummins becomes the first Irish person and the 20th person ever to complete a two way crossing of the English Channel. ](/news/2009/09/21/in-swimming-lisa-cummins-becomes-the-first-irish-person-and-the-20th-person-ever-to-complete-a-two-way-crossing-of-the-english-channel.md)
@@ -65,15 +65,15 @@ A Cork woman arrived back in her native city today after becoming the first Iris
 
 ##### Adidas
 ### [ Adidas and Puma end their 60-year-old feud. ](/news/2009/09/21/adidas-and-puma-end-their-60-year-old-feud.md)
-_Context: Puma, Adidas_
+_Context: Adidas, Puma_
 
 ##### Jade Ewen
 ### [ Singer Jade Ewen is confirmed as the new member of internationally successful girlband Sugababes, replacing the only original member Keisha Buchanan. ](/news/2009/09/21/singer-jade-ewen-is-confirmed-as-the-new-member-of-internationally-successful-girlband-sugababes-replacing-the-only-original-member-keisha.md)
-_Context: Jade Ewen, Keisha Buchanan, internationally successful, Sugababes_
+_Context: Jade Ewen, Sugababes, internationally successful, Keisha Buchanan_
 
 ##### Massimo Busacca
 ### [ Massimo Busacca, a high-profile Swiss football referee who officiated the 2009 UEFA Champions League Final and was expected to take part at the 2010 FIFA World Cup in South Africa, is suspended "immediately" for waving his middle finger at fans during a match. ](/news/2009/09/21/massimo-busacca-a-high-profile-swiss-football-referee-who-officiated-the-2009-uefa-champions-league-final-and-was-expected-to-take-part-at.md)
-_Context: South Africa, 2009 UEFA Champions League Final, Switzerland, Massimo Busacca, 2010 FIFA World Cup_
+_Context: 2010 FIFA World Cup, Massimo Busacca, South Africa, 2009 UEFA Champions League Final, Switzerland_
 
 ##### Morocco
 ### [ Rescuers scour the sea off the Morocco coast for dozens of African migrants who are missing and feared dead after their boat capsized in an accident that kills eight others. ](/news/2009/09/21/rescuers-scour-the-sea-off-the-morocco-coast-for-dozens-of-african-migrants-who-are-missing-and-feared-dead-after-their-boat-capsized-in-an.md)

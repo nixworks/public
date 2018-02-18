@@ -5,19 +5,19 @@ Formats: [HTML](2010/09/26/index.html)  [JSON](2010/09/26/index.json)  [XML](201
 
 ##### Bugis
 ### [A clash between ethnic Bugis and Tidung (Tarakan indigenous people) claimed one life in Juwata sub-district, Tarakan, East Kalimantan. ](/news/2010/09/26/a-clash-between-ethnic-bugis-and-tidung-tarakan-indigenous-people-claimed-one-life-in-juwata-sub-district-tarakan-east-kalimantan.md)
-_Context: East Kalimantan, Juwata, Tidung, Bugis, Kalimantan, Tarakan_
+_Context: Juwata, Tarakan, East Kalimantan, Bugis, Tidung, Kalimantan_
 
 ##### Shiite
 ### [6 civilians are wounded in an explosion apparently targeting the Shiite politician Mowaffak al-Rubaie near a fuel station in Sa'doun Street, Baghdad. ](/news/2010/09/26/6-civilians-are-wounded-in-an-explosion-apparently-targeting-the-shiite-politician-mowaffak-al-rubaie-near-a-fuel-station-in-sa-doun-street.md)
-_Context: Shiite, Baghdad, Mowaffak al-Rubaie_
+_Context: Baghdad, Shiite, Mowaffak al-Rubaie_
 
 ##### Drone aircraft
 ### [Intelligence services report 7 as the death toll resulting from 2 U.S. drone aircraft missile strikes in North Waziristan. ](/news/2010/09/26/intelligence-services-report-7-as-the-death-toll-resulting-from-2-u-s-drone-aircraft-missile-strikes-in-north-waziristan.md)
-_Context: North Waziristan, drone aircraft_
+_Context: drone aircraft, North Waziristan_
 
 ##### Stuxnet
 ### [The Stuxnet computer worm fails to harm the operating system of Bushehr Nuclear Power Plant in Bushehr after infecting the personal computers of staff. ](/news/2010/09/26/the-stuxnet-computer-worm-fails-to-harm-the-operating-system-of-bushehr-nuclear-power-plant-in-bushehr-after-infecting-the-personal-computer.md)
-_Context: Stuxnet, Bushehr, Bushehr power plant_
+_Context: Stuxnet, Bushehr power plant, Bushehr_
 
 ##### Eddie Long
 ### [The American bishop Eddie Long, who has opposed same-sex marriage, vows to tackle allegations of luring young men into sexual intercourse. ](/news/2010/09/26/the-american-bishop-eddie-long-who-has-opposed-same-sex-marriage-vows-to-tackle-allegations-of-luring-young-men-into-sexual-intercourse.md)
@@ -45,7 +45,7 @@ The Pentagon has admitted buying up and destroying 10,000 copies of an insider&#
 
 #####  Georgian
 ### [Georgia replaces the Russian language with the English language as its second language. ](/news/2010/09/26/georgia-replaces-the-russian-language-with-the-english-language-as-its-second-language.md)
-_Context: English, Russian language,  Georgian_
+_Context: Russian language, English,  Georgian_
 
 ##### Peter Mullan
 ### [The Peter Mullan film "Neds" wins two major honours at the San Sebastian International Film Festival. ](/news/2010/09/26/the-peter-mullan-film-neds-wins-two-major-honours-at-the-san-sebastia-n-international-film-festival.md)
@@ -53,7 +53,7 @@ _Context: San Sebastian International Film Festival, Peter Mullan_
 
 ##### Australia
 ### [Australian climate change activists close down the world's largest coal port in Newcastle, New South Wales. ](/news/2010/09/26/australian-climate-change-activists-close-down-the-world-s-largest-coal-port-in-newcastle-new-south-wales.md)
-_Context: climate change, coal, Australia, Newcastle_
+_Context: Newcastle, climate change, coal, Australia_
 
 ##### Poland
 ### [A tourist bus from Poland hits a bridge pillar on a highway at Schoenefelder Kreuz in Brandenburg, killing at least 12 people and injuring 40. ](/news/2010/09/26/a-tourist-bus-from-poland-hits-a-bridge-pillar-on-a-highway-at-schoenefelder-kreuz-in-brandenburg-killing-at-least-12-people-and-injuring-4.md)
@@ -69,7 +69,7 @@ Families of 33 trapped miners get a glimpse of the rescue capsule meant to bring
 
 ##### U.S. state
 ### [Towns in the U.S. state of Wisconsin evacuate residents due to flooding of the Wisconsin River. ](/news/2010/09/26/towns-in-the-u-s-state-of-wisconsin-evacuate-residents-due-to-flooding-of-the-wisconsin-river.md)
-_Context: U.S. state, Wisconsin, Wisconsin River_
+_Context: U.S. state, Wisconsin River, Wisconsin_
 
 ##### Jewish
 ### [The boat "Irene", carrying a group of Jewish activists from Germany, Israel, the U.S. and UK, sets sail from northern Cyprus aiming to breach Israel's blockade of the Gaza Strip. ](/news/2010/09/26/the-boat-irene-carrying-a-group-of-jewish-activists-from-germany-israel-the-u-s-and-uk-sets-sail-from-northern-cyprus-aiming-to-breac.md)
@@ -77,15 +77,15 @@ Aid boat carrying Jewish activists sails to Gaza
 
 ##### Human Rights Council
 ### [The 57-member United Nations Human Rights Council is to investigate the facts found by a report into the Gaza flotilla raid carried out by Israel earlier this year. ](/news/2010/09/26/the-57-member-united-nations-human-rights-council-is-to-investigate-the-facts-found-by-a-report-into-the-gaza-flotilla-raid-carried-out-by-i.md)
-_Context: Gaza flotilla raid, Human Rights Council, Israel_
+_Context: Israel, Human Rights Council, Gaza flotilla raid_
 
 ##### Philip Alston
 ### [Philip Alston, the international law scholar who recently stepped down as the United Nations's senior official on extrajudicial killings, calls for the UN to investigate war crimes in Afghanistan and to convict those responsible. ](/news/2010/09/26/philip-alston-the-international-law-scholar-who-recently-stepped-down-as-the-united-nations-s-senior-official-on-extrajudicial-killings-ca.md)
-_Context: Philip Alston, Afghan, extrajudicial killing, international law, United Nations, war crime_
+_Context: international law, United Nations, Afghan, Philip Alston, extrajudicial killing, war crime_
 
 ##### Israeli settlement freeze
 ### [The Israeli settlement freeze ends at 22.00 (GMT), should Israel restart construction of buildings on the West Bank the peace talks with Palestinian leader Mahmoud Abbas are expected to end. ](/news/2010/09/26/the-israeli-settlement-freeze-ends-at-22-00-gmt-should-israel-restart-construction-of-buildings-on-the-west-bank-the-peace-talks-with-pal.md)
-_Context: Israel, Mahmoud Abbas, West Bank, Israeli settlement freeze_
+_Context: Mahmoud Abbas, Israeli settlement freeze, West Bank, Israel_
 
 ##### Parliamentary election
 ### [Video footage emerges casting doubt on the integrity of the recent Afghan parliamentary election and showing fake votes being filled in as fraud police watch on. ](/news/2010/09/26/video-footage-emerges-casting-doubt-on-the-integrity-of-the-recent-afghan-parliamentary-election-and-showing-fake-votes-being-filled-in-as-f.md)

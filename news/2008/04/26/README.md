@@ -5,7 +5,7 @@ Formats: [HTML](2008/04/26/index.html)  [JSON](2008/04/26/index.json)  [XML](200
 
 ##### Fire
 ### [ The death toll from a fire in a mattress factory in the Hay Hassani district of Casablanca rises to 55. ](/news/2008/04/26/the-death-toll-from-a-fire-in-a-mattress-factory-in-the-hay-hassani-district-of-casablanca-rises-to-55.md)
-_Context: fire, Casablanca, factory, mattress_
+_Context: fire, factory, mattress, Casablanca_
 
 ##### Somali pirates
 ### [ The 26 members of the Spanish FV "Playa de Bakio" are released by Somali pirates. ](/news/2008/04/26/the-26-members-of-the-spanish-fv-playa-de-bakio-are-released-by-somali-pirates.md)
@@ -13,7 +13,7 @@ _Context: Somali pirates_
 
 ##### Public transport
 ### [ Canada's largest transit agency; the Toronto Transit Commission is shut down by a surprise transit strike. ](/news/2008/04/26/canada-s-largest-transit-agency-the-toronto-transit-commission-is-shut-down-by-a-surprise-transit-strike.md)
-_Context: TTC, public transport, strike_
+_Context: public transport, strike, TTC_
 
 ##### 2008 Turkish incursion into northern Iraq
 ### [ 2008 Turkish incursion into northern Iraq: The Turkish Armed Forces attack Kurdistan Workers Party positions in northern Iraq. ](/news/2008/04/26/2008-turkish-incursion-into-northern-iraq-the-turkish-armed-forces-attack-kurdistan-workers-party-positions-in-northern-iraq.md)

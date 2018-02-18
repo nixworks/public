@@ -5,7 +5,7 @@ Formats: [HTML](2016/05/9/index.html)  [JSON](2016/05/9/index.json)  [XML](2016/
 
 ##### War in Somalia (2009-present)
 ### [ A suicide car bomb targeting Mogadishu's traffic police headquarters kills at least four. Al-Shabaab claims responsibility. ](/news/2016/05/9/a-suicide-car-bomb-targeting-mogadishu-s-traffic-police-headquarters-kills-at-least-four-al-shabaab-claims-responsibility.md)
-_Context: Al-Shabaab, Mogadishu, War in Somalia (2009-present)_
+_Context: Mogadishu, War in Somalia (2009-present), Al-Shabaab_
 
 ##### Yemeni Civil War (2015-present)
 ### [ Airstrikes by the Saudi-led coalition kill at least 10 in Yemen. ](/news/2016/05/9/airstrikes-by-the-saudi-led-coalition-kill-at-least-10-in-yemen.md)
@@ -37,7 +37,7 @@ MANILA, Philippines (AP) — A brash and tough-talking mayor who has pledged to 
 
 ##### Chancellor
 ### [Austrian Chancellor Werner Faymann resigns after seven and a half years in office; says he lost the backing of his Social Democrats party. ](/news/2016/05/9/austrian-chancellor-werner-faymann-resigns-after-seven-and-a-half-years-in-office-says-he-lost-the-backing-of-his-social-democrats-party.md)
-_Context: Chancellor, Social Democrats party, Werner Faymann_
+_Context: Social Democrats party, Werner Faymann, Chancellor_
 
 ##### Impeachment process against Dilma Rousseff
 ### [Waldir MaranhGBPo, the acting President of Brazil's Chamber of Deputies, says that the impeachment vote in that chamber should be annulled due to procedural irregularities and the voting process be held again. The Federal Senate is due to start voting on whether to impeach President Rousseff later this week. ](/news/2016/05/9/waldir-maranhagbpo-the-acting-president-of-brazil-s-chamber-of-deputies-says-that-the-impeachment-vote-in-that-chamber-should-be-annulled.md)

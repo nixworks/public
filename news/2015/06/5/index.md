@@ -9,7 +9,7 @@ _Context: Nigeria, Yola_
 
 ##### Kurdish
 ### [Two people are killed and more than a hundred injured as bombs explode at rallies held by the pro-Kurdish Peoples' Democratic Party two days ahead of the general election in Diyarbakir. ](/news/2015/06/5/two-people-are-killed-and-more-than-a-hundred-injured-as-bombs-explode-at-rallies-held-by-the-pro-kurdish-peoples-democratic-party-two-days.md)
-_Context: Peoples' Democratic Party, election in June, Kurdish, Diyarbakir_
+_Context: Diyarbakir, election in June, Peoples' Democratic Party, Kurdish_
 
 ##### Nestl
 ### [Nestl temporarily removes its Maggi noodles product from the shelves in India following a health scare. ](/news/2015/06/5/nestle-temporarily-removes-its-maggi-noodles-product-from-the-shelves-in-india-following-a-health-scare.md)
@@ -17,7 +17,7 @@ Nestle has withdrawn Maggi noodles in India due to &quot;an environment of confu
 
 ##### Sinking of the ''Dong Fang Zhi Xing''
 ### [The death toll from the sinking of the ship on the Yangtze River rises to 82 with officials giving up hope of finding more survivors. Only 15 out of over 450 people on the boat were rescued. ](/news/2015/06/5/the-death-toll-from-the-sinking-of-the-ship-on-the-yangtze-river-rises-to-82-with-officials-giving-up-hope-of-finding-more-survivors-only-1.md)
-_Context: Sinking of the ''Dong Fang Zhi Xing'', Yangtze River_
+_Context: Yangtze River, Sinking of the ''Dong Fang Zhi Xing''_
 
 ##### Borneo
 ### [Two bodies have been removed from Borneo's Mount Kinabalu following the 6.1 magnitude earthquake that hit Malaysia's Sabah province Friday morning. Previously-stranded climbers, reported at 137, have descended to the Laban Rata resthouse. ](/news/2015/06/5/two-bodies-have-been-removed-from-borneo-s-mount-kinabalu-following-the-6-1-magnitude-earthquake-that-hit-malaysia-s-sabah-province-friday-m.md)
@@ -29,11 +29,11 @@ PETALING JAYA (THE STAR/ASIA NEWS NETWORK) - The 137 climbers who reached Panar 
 
 ##### 2015 Middle East respiratory syndrome coronavirus outbreak in South Korea
 ### [Four people have now died of MERS in South Korea with five new cases reported. ](/news/2015/06/5/four-people-have-now-died-of-mers-in-south-korea-with-five-new-cases-reported.md)
-_Context: Middle East respiratory syndrome, 2015 Middle East respiratory syndrome coronavirus outbreak in South Korea, South Korea_
+_Context: 2015 Middle East respiratory syndrome coronavirus outbreak in South Korea, South Korea, Middle East respiratory syndrome_
 
 ##### His predecessor
 ### [Benigno Aquino, the President of the Philippines, says that his government will start discussions with Japan about allowing Japan Self-Defense Forces to refuel at Filipino bases allowing the extension of operations into the South China Sea. ](/news/2015/06/5/benigno-aquino-the-president-of-the-philippines-says-that-his-government-will-start-discussions-with-japan-about-allowing-japan-self-defen.md)
-_Context: South China Sea, military, Japan, President, his predecessor_
+_Context: President, Japan, military, South China Sea, his predecessor_
 
 ##### Pakistan
 ### [Eight out of the ten allegedly involved in shooting Pakistani schoolgirl and Nobel Peace Prize winner Malala Yousafzai have been secretly set free. ](/news/2015/06/5/eight-out-of-the-ten-allegedly-involved-in-shooting-pakistani-schoolgirl-and-nobel-peace-prize-winner-malala-yousafzai-have-been-secretly-se.md)
@@ -45,7 +45,7 @@ A criminal case accuses Catholic leaders of St. Paul and Minneapolis of misdemea
 
 ##### Romania
 ### [Romania's National Anticorruption Directorate announces that it is investigating the Prime Minister Victor Ponta for alleged money laundering, forgery and corruption. Ponta denies the allegations and is refusing to stand down. ](/news/2015/06/5/romania-s-national-anticorruption-directorate-announces-that-it-is-investigating-the-prime-minister-victor-ponta-for-alleged-money-launderin.md)
-_Context: Prime Minister, National Anticorruption Directorate, Victor Ponta, Romania_
+_Context: National Anticorruption Directorate, Victor Ponta, Prime Minister, Romania_
 
 ## [Previous Day...](/news/2015/06/4/index.md)
 

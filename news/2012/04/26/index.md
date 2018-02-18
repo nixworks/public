@@ -21,7 +21,7 @@ _Context: United States military personnel, Afghan_
 
 ##### Indonesia
 ### [Indonesia suspends imports of beef from the United States after a dairy cow with mad cow disease is discovered in California. ](/news/2012/04/26/indonesia-suspends-imports-of-beef-from-the-united-states-after-a-dairy-cow-with-mad-cow-disease-is-discovered-in-california.md)
-_Context: mad cow disease, United States, California, Indonesia_
+_Context: mad cow disease, California, Indonesia, United States_
 
 ##### Senate
 ### [The Argentine Senate passes with an overwhelming majority a bill submitted by president Cristina Fernandez de Kirchner to nationalise 51% of YPF. ](/news/2012/04/26/the-argentine-senate-passes-with-an-overwhelming-majority-a-bill-submitted-by-president-cristina-ferna-ndez-de-kirchner-to-nationalise-51-o.md)
@@ -37,11 +37,11 @@ _Context: North Korea_
 
 ##### Anders Behring Breivik
 ### [In the midst of the ongoing trial against Anders Behring Breivik for his actions on July 22, 2011, more than 40,000 people gather on Youngstorget in Oslo to show support for all those affected. ](/news/2012/04/26/in-the-midst-of-the-ongoing-trial-against-anders-behring-breivik-for-his-actions-on-july-22-2011-more-than-40-000-people-gather-on-youngst.md)
-_Context: July 22, 2011, Youngstorget, Oslo, Anders Behring Breivik_
+_Context: Youngstorget, July 22, 2011, Oslo, Anders Behring Breivik_
 
 ##### Ichiro Ozawa
 ### [Japanese powerbroker Ichiro Ozawa of the ruling Democratic Party is cleared of charges of breaking fundraising laws. ](/news/2012/04/26/japanese-powerbroker-ichira-ozawa-of-the-ruling-democratic-party-is-cleared-of-charges-of-breaking-fundraising-laws.md)
-_Context: Democratic Party, Ichiro Ozawa_
+_Context: Ichiro Ozawa, Democratic Party_
 
 ##### Supreme Court
 ### [The Supreme Court of Pakistan finds Prime Minister Syed Yousaf Raza Gillani guilty of contempt of court but he is given only a token sentence of imprisonment lasting less than a minute. ](/news/2012/04/26/the-supreme-court-of-pakistan-finds-prime-minister-syed-yousaf-raza-gillani-guilty-of-contempt-of-court-but-he-is-given-only-a-token-sentenc.md)

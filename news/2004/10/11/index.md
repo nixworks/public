@@ -17,15 +17,15 @@ _Context: Israeli Army_
 
 ##### Finn Kydland
 ### [ Finn Kydland and Edward Prescott are awarded the Bank of Sweden Prize in Economic Sciences in Memory of Alfred Nobel for "their contributions to dynamic macroeconomics: the time consistency of economic policy and the driving forces behind business cycles". ](/news/2004/10/11/finn-kydland-and-edward-prescott-are-awarded-the-bank-of-sweden-prize-in-economic-sciences-in-memory-of-alfred-nobel-for-their-contributio.md)
-_Context: business cycle, macroeconomics, economic policy, Edward Prescott, Finn Kydland, Economics_
+_Context: Economics, Edward Prescott, macroeconomics, Finn Kydland, business cycle, economic policy_
 
 ##### Taba
 ### [ Rescue efforts end in Taba, Egypt at the site of Thursday's bombing. Egypt and Israeli forensic experts announce that they have identified 12 Israelis, 6 Egyptians, 2 Italians, 1 Russian, and 13 Eastern Europeans among those killed. ](/news/2004/10/11/rescue-efforts-end-in-taba-egypt-at-the-site-of-thursday-s-bombing-egypt-and-israeli-forensic-experts-announce-that-they-have-identified.md)
-_Context: Israel, Eastern Europe, Taba, forensic_
+_Context: Taba, Eastern Europe, forensic, Israel_
 
 ##### Nigeria
 ### [ Workers in Nigeria begin a four-day general strike in protest of fuel price increases caused by the last year's repeal of government subsidies. ](/news/2004/10/11/workers-in-nigeria-begin-a-four-day-general-strike-in-protest-of-fuel-price-increases-caused-by-the-last-year-s-repeal-of-government-subsid.md)
-_Context: general strike, subsidies, Nigeria_
+_Context: subsidies, general strike, Nigeria_
 
 ##### Lithuania's general election
 ### [ Early results in the first round of Lithuania's general election show the opposition Labour Party winning the largest proportion of the vote. ](/news/2004/10/11/early-results-in-the-first-round-of-lithuania-s-general-election-show-the-opposition-labour-party-winning-the-largest-proportion-of-the-vot.md)

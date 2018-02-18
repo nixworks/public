@@ -9,11 +9,11 @@ _Context: Djurgrden, Stockholm_
 
 ##### Embassy of the United States in Berlin
 ### [ After 69 years, the Embassy of the United States in Berlin, Germany, returns to its old site near the Brandenburg Gate. At the celebration, Chancellor Angela Merkel, former U.S. President George H. W. Bush and the U.S. Ambassador to Germany William Timken open the new chancery on Pariser Platz in the center of Berlin. ](/news/2008/07/4/after-69-years-the-embassy-of-the-united-states-in-berlin-germany-returns-to-its-old-site-near-the-brandenburg-gate-at-the-celebration.md)
-_Context: George H. W. Bush, William Timken, Brandenburg Gate, Embassy of the United States in Berlin, Pariser Platz, Angela Merkel, Berlin, German_
+_Context: German, Pariser Platz, Angela Merkel, William Timken, Berlin, George H. W. Bush, Brandenburg Gate, Embassy of the United States in Berlin_
 
 #####  Georgian
 ### [ Georgian forces shell Tskhinvali in South Ossetia. ](/news/2008/07/4/georgian-forces-shell-tskhinvali-in-south-ossetia.md)
-_Context:  Georgian, South Ossetia, Tskhinvali_
+_Context:  Georgian, Tskhinvali, South Ossetia_
 
 ##### Milwaukee
 ### [ Four people are shot dead in Milwaukee, Wisconsin, during a street party. ](/news/2008/07/4/four-people-are-shot-dead-in-milwaukee-wisconsin-during-a-street-party.md)

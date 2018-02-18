@@ -57,11 +57,11 @@ ATLANTA (Reuters) - A former employee at a suburban Atlanta megachurch was taken
 
 ##### Denver
 ### [Police in the Denver suburb of Westminster, Colorado arrest a 17-year-old resident who was allegedly involved in an attempted abduction in the killing of 10-year-old Jessica Ridgeway. ](/news/2012/10/24/police-in-the-denver-suburb-of-westminster-colorado-arrest-a-17-year-old-resident-who-was-allegedly-involved-in-an-attempted-abduction-in-t.md)
-_Context: Denver, Westminster, Colorado_
+_Context: Westminster, Colorado, Denver_
 
 ##### Los Angeles
 ### [Three people are shot dead, two are critically wounded, and a gunman is at large after shootings at two locations in the Los Angeles suburb of Downey, California: a business next to a Coca-Cola plant, and a residence. ](/news/2012/10/24/three-people-are-shot-dead-two-are-critically-wounded-and-a-gunman-is-at-large-after-shootings-at-two-locations-in-the-los-angeles-suburb.md)
-_Context: Coca-Cola, Los Angeles, Downey, California_
+_Context: Los Angeles, Coca-Cola, Downey, California_
 
 ##### Welsh government
 ### [The Welsh government reaches an agreement with the British government giving Wales limited powers to borrow money to finance major projects. ](/news/2012/10/24/the-welsh-government-reaches-an-agreement-with-the-british-government-giving-wales-limited-powers-to-borrow-money-to-finance-major-projects.md)

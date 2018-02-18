@@ -13,11 +13,11 @@ _Context: Mikhail Saakashvili, Tbilisi, 2007 Georgian demonstrations_
 
 ##### S. P. Thamilselvan
 ### [ S. P. Thamilselvan, the political chief of the Sri Lankan rebel group Tamil Tigers, is killed in an attack by the Sri Lanka Air Force near Kilinochchi. ](/news/2007/11/2/s-p-thamilselvan-the-political-chief-of-the-sri-lankan-rebel-group-tamil-tigers-is-killed-in-an-attack-by-the-sri-lanka-air-force-near.md)
-_Context: Sri Lanka Air Force, Tamil Tigers, S. P. Thamilselvan, Kilinochchi, Sri Lanka_
+_Context: Sri Lanka, S. P. Thamilselvan, Sri Lanka Air Force, Kilinochchi, Tamil Tigers_
 
 ##### Europe
 ### [ Stocks across Asia drop sharply after a rough Thursday in Europe and the United States, with the Hang Seng Index in Hong Kong losing over 1,000 points, or 3.25%, the biggest loss of any Asian market. London's FTSE 100 Index loses ground for a second day after the news in Asia. ](/news/2007/11/2/stocks-across-asia-drop-sharply-after-a-rough-thursday-in-europe-and-the-united-states-with-the-hang-seng-index-in-hong-kong-losing-over-1.md)
-_Context: FTSE 100 Index, Hang Seng Index, United States, Hong Kong, Europe_
+_Context: Hang Seng Index, Europe, Hong Kong, United States, FTSE 100 Index_
 
 ##### Internet Corporation for Assigned Names and Numbers
 ### [ ICANN celebrates Vint Cerf years, names Peter Dengate Thrush chairman, forms working group on internationalized domain names. ](/news/2007/11/2/icann-celebrates-vint-cerf-years-names-peter-dengate-thrush-chairman-forms-working-group-on-internationalized-domain-names.md)

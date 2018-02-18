@@ -17,11 +17,11 @@ The new constitution marks a political defeat for Bakiyev, who had been wrestlin
 
 ##### Montana
 ### [ Montana Senator Conrad Burns concedes his U.S. Senate race to Jon Tester. ](/news/2006/11/9/montana-senator-conrad-burns-concedes-his-u-s-senate-race-to-jon-tester.md)
-_Context: Jon Tester, Montana, United States Senate, U.S. Senate, Conrad Burns_
+_Context: Montana, United States Senate, Conrad Burns, U.S. Senate, Jon Tester_
 
 ##### BP
 ### [ BP settles the last remaining lawsuit from the 2005 explosion at its Texas oil refinery that cost 15 lives. ](/news/2006/11/9/bp-settles-the-last-remaining-lawsuit-from-the-2005-explosion-at-its-texas-oil-refinery-that-cost-15-lives.md)
-_Context: Texas, oil refinery, BP_
+_Context: oil refinery, BP, Texas_
 
 ##### Bank of England
 ### [ The Bank of England raises interest rates in the United Kingdom to five percent. ](/news/2006/11/9/the-bank-of-england-raises-interest-rates-in-the-united-kingdom-to-five-percent.md)
@@ -37,7 +37,7 @@ _Context: Tom Vilsack, 2008_
 
 ##### Mahathir Mohamad
 ### [ Dr Mahathir Mohamad, the former Prime Minister of Malaysia, is hospitalized following a heart attack. ](/news/2006/11/9/dr-mahathir-mohamad-the-former-prime-minister-of-malaysia-is-hospitalized-following-a-heart-attack.md)
-_Context: Mahathir Mohamad, Prime Minister, heart attack_
+_Context: Mahathir Mohamad, heart attack, Prime Minister_
 
 ##### France
 ### [ France successfully performs the first flight test of its new nuclear missile, the M51. ](/news/2006/11/9/france-successfully-performs-the-first-flight-test-of-its-new-nuclear-missile-the-m51.md)

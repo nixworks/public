@@ -5,11 +5,11 @@ Formats: [HTML](2010/01/25/index.html)  [JSON](2010/01/25/index.json)  [XML](201
 
 ##### Live Nation
 ### [Live Nation and Ticketmaster complete their merger, following an agreement with the United States Department of Justice to divest some interests. ](/news/2010/01/25/live-nation-and-ticketmaster-complete-their-merger-following-an-agreement-with-the-united-states-department-of-justice-to-divest-some-inter.md)
-_Context: Live Nation, Ticketmaster, Department of Justice_
+_Context: Department of Justice, Live Nation, Ticketmaster_
 
 ##### Venezuela
 ### [Police in the Venezuelan capital Caracas disperse an opposition student protest over the closure of several television stations. Meanwhile, Vice President Ramn Carrizales resigns. ](/news/2010/01/25/police-in-the-venezuelan-capital-caracas-disperse-an-opposition-student-protest-over-the-closure-of-several-television-stations-meanwhile.md)
-_Context: Ramn Carrizales, Venezuela, Caracas_
+_Context: Venezuela, Caracas, Ramn Carrizales_
 
 ##### Houthi
 ### [Houthi fighters in northern Yemen offer to leave Saudi Arabia after three months of fighting on the border. ](/news/2010/01/25/houthi-fighters-in-northern-yemen-offer-to-leave-saudi-arabia-after-three-months-of-fighting-on-the-border.md)
@@ -33,11 +33,11 @@ Intense gun battles between African Union peacekeepers and Islamic fundamentalis
 
 ##### G4 bloc
 ### [Environment ministers from the G4 bloc (IBSA Dialogue Forum & China) meet in New Delhi, India, to agree a common position ahead of future climate change talks, such as the 2010 United Nations Climate Change Conference ("COP-16") at Cancn, Mexico, to be held from 29 November 2010 to 10 December 2010 ](/news/2010/01/25/environment-ministers-from-the-g4-bloc-ibsa-dialogue-forum-china-meet-in-new-delhi-india-to-agree-a-common-position-ahead-of-future-cl.md)
-_Context: Mexico, IBSA Dialogue Forum,  2010 United Nations Climate Change Conference, Cancn, India, China, climate change, New Delhi, G4 bloc_
+_Context: IBSA Dialogue Forum, China, G4 bloc, India, climate change, New Delhi,  2010 United Nations Climate Change Conference, Mexico, Cancn_
 
 ##### Netherlands
 ### [Dutch football club HFC Haarlem, national champion in 1946, is declared bankrupt, becoming the first Dutch professional club to be disestablished since FC Wageningen and VCV Zeeland in 1992. ](/news/2010/01/25/dutch-football-club-hfc-haarlem-national-champion-in-1946-is-declared-bankrupt-becoming-the-first-dutch-professional-club-to-be-disestabl.md)
-_Context: national champion, FC Wageningen, association football, Netherlands, 1992, HFC Haarlem, Dutch professional club, VCV Zeeland_
+_Context: association football, FC Wageningen, Netherlands, Dutch professional club, VCV Zeeland, 1992, national champion, HFC Haarlem_
 
 ##### Ali Hassan al-Majid
 ### [Ali Hassan al-Majid, known as "Chemical Ali", is executed. ](/news/2010/01/25/ali-hassan-al-majid-known-as-chemical-ali-is-executed.md)
@@ -75,11 +75,11 @@ Taoiseach Brian Cowen is to meet British Prime Minister Gordon Brown tomorrow to
 
 ##### Israel
 ### [Israeli Prime Minister Benjamin Netanyahu attends the opening of an exhibition of Auschwitz concentration camp blueprints in Yad Vashem. ](/news/2010/01/25/israeli-prime-minister-benjamin-netanyahu-attends-the-opening-of-an-exhibition-of-auschwitz-concentration-camp-blueprints-in-yad-vashem.md)
-_Context: Auschwitz, Israel, Holocaust and Remembrance Center, Benjamin Netanyahu, Israeli Prime Minister_
+_Context: Israeli Prime Minister, Israel, Benjamin Netanyahu, Auschwitz, Holocaust and Remembrance Center_
 
 ##### Lady in the Lake trial
 ### [Gordon Park, convicted murderer in the Lady in the Lake trial, is found hanged in his prison cell in Garth prison, Lancashire, England, in an apparent suicide. ](/news/2010/01/25/gordon-park-convicted-murderer-in-the-lady-in-the-lake-trial-is-found-hanged-in-his-prison-cell-in-garth-prison-lancashire-england-in-a.md)
-_Context: England, Garth prison, Lady in the Lake trial_
+_Context: Lady in the Lake trial, Garth prison, England_
 
 ## [Previous Day...](/news/2010/01/24/index.md)
 

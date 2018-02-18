@@ -9,7 +9,7 @@ The city of Paris is on high alert, with floodwaters on the River Seine due to p
 
 ##### European migrant crisis
 ### [Bodies of 117 people, including 75 women, 36 men and six children, are recovered from a beach near Zuwarah, Libya, possibly from yesterday's capsize in the Mediterranean Sea. ](/news/2016/06/3/bodies-of-117-people-including-75-women-36-men-and-six-children-are-recovered-from-a-beach-near-zuwarah-libya-possibly-from-yesterday-s.md)
-_Context: Zuwarah, Mediterranean Sea, Libya, European migrant crisis_
+_Context: European migrant crisis, Mediterranean Sea, Libya, Zuwarah_
 
 ##### May 2016 United States storm complex
 ### [The four missing Fort Hood soldiers from the overturned Light Medium Tactical Vehicle are found dead, bringing the death toll from the accident to nine. ](/news/2016/06/3/the-four-missing-fort-hood-soldiers-from-the-overturned-light-medium-tactical-vehicle-are-found-dead-bringing-the-death-toll-from-the-accid.md)

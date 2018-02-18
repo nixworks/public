@@ -5,23 +5,23 @@ Formats: [HTML](2004/11/10/index.html)  [JSON](2004/11/10/index.json)  [XML](200
 
 ##### Iris Chang
 ### [ Iris Chang, acclaimed author of "The Rape of Nanking", is found dead near a freeway in Los Gatos, California. Authorities believe her cause of death to be a self-inflicted gunshot wound. ](/news/2004/11/10/iris-chang-acclaimed-author-of-the-rape-of-nanking-is-found-dead-near-a-freeway-in-los-gatos-california-authorities-believe-her-cause.md)
-_Context: Iris Chang, The Rape of Nanking, Los Gatos_
+_Context: Los Gatos, The Rape of Nanking, Iris Chang_
 
 ##### Death
 ### [ Saeb Erakat announces that Palestinian Authority leader Yasser Arafat has died at the age of 75 at a Paris hospital. Rawhi Fattouh becomes interim President of the Palestinian Authority. Mahmoud Abbas leads the Palestine Liberation Organization. Farouk Kaddoumi, foreign minister of the PLO, leads Fatah and Ahmed Qureia receives the security portfolio of the Palestinian Authority. ](/news/2004/11/10/saeb-erakat-announces-that-palestinian-authority-leader-yasser-arafat-has-died-at-the-age-of-75-at-a-paris-hospital-rawhi-fattouh-becomes.md)
-_Context: Rawhi Fattouh, Palestinian Authority, Saeb Erakat, Ahmed Qureia, Palestine Liberation Organization, Mahmoud Abbas, death, Fatah, Yasser Arafat, Farouk Kaddoumi_
+_Context: Palestinian Authority, Ahmed Qureia, Fatah, Rawhi Fattouh, Palestine Liberation Organization, Yasser Arafat, death, Saeb Erakat, Mahmoud Abbas, Farouk Kaddoumi_
 
 ##### Lithuania
 ### [ Lithuania became the first country to approve the new EU constitution. ](/news/2004/11/10/lithuania-became-the-first-country-to-approve-the-new-eu-constitution.md)
-_Context: Lithuania, EU constitution_
+_Context: EU constitution, Lithuania_
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: Heavy fighting continues in Falluja, where U.S. military officials say over 500 insurgents, 18 U.S. and five Iraqi troops had been killed. In Baghdad, 17 people are killed when a car bomb explodes near a shopping center. ](/news/2004/11/10/conflict-in-iraq-heavy-fighting-continues-in-falluja-where-u-s-military-officials-say-over-500-insurgents-18-u-s-and-five-iraqi-troops.md)
-_Context: Baghdad, car bomb, Conflict in Iraq, Falluja, Iraqi insurgency_
+_Context: car bomb, Falluja, Iraqi insurgency, Conflict in Iraq, Baghdad_
 
 ##### Israeli Army
 ### [ Israel Defense Forces repel an al-Aqsa Martyrs Brigades attack on Netzarim in the Gaza Strip killing three Palestinians. In Hebron, one Palestinian, among a group of 400 throwing cement bricks at Jewish cars, is killed when Israeli soldiers open fire.](/news/2004/11/10/israel-defense-forces-repel-an-al-aqsa-martyrs-brigades-attack-on-netzarim-in-the-gaza-strip-killing-three-palestinians-in-hebron-one-pal.md)
-_Context: al-Aqsa Martyrs Brigades, Hebron, Gaza Strip, Palestinians, Netzarim, Israeli Army_
+_Context: Gaza Strip, al-Aqsa Martyrs Brigades, Netzarim, Hebron, Palestinians, Israeli Army_
 
 ##### Mordechai Vanunu
 ### [ Israeli nuclear technician Mordechai Vanunu is arrested, again, on suspicion of leaking classified information. ](/news/2004/11/10/israeli-nuclear-technician-mordechai-vanunu-is-arrested-again-on-suspicion-of-leaking-classified-information.md)
@@ -29,7 +29,7 @@ _Context: Mordechai Vanunu_
 
 ##### Operation Phillis
 ### [ British forces launch Operation Phillis, the service-assisted evacuation of Cte d'Ivoire, in response to riots in the country. ](/news/2004/11/10/british-forces-launch-operation-phillis-the-service-assisted-evacuation-of-cote-d-ivoire-in-response-to-riots-in-the-country.md)
-_Context: Operation Phillis, Cte d'Ivoire_
+_Context: Cte d'Ivoire, Operation Phillis_
 
 ##### Solar panel
 ### [ Spain has announced that solar panels will be mandatory on new and renovated buildings. ](/news/2004/11/10/spain-has-announced-that-solar-panels-will-be-mandatory-on-new-and-renovated-buildings.md)

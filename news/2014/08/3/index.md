@@ -13,7 +13,7 @@ There have been renewed clashes between Israeli military and militants in Gaza o
 
 ##### Nagorno-Karabakh conflict
 ### [Four Azerbaijani soldiers are killed in fresh clashes with Armenian groups near the border of the breakaway Nagorno-Karabakh Republic. ](/news/2014/08/3/four-azerbaijani-soldiers-are-killed-in-fresh-clashes-with-armenian-groups-near-the-border-of-the-breakaway-nagorno-karabakh-republic.md)
-_Context: Nagorno-Karabakh conflict, Nagorno-Karabakh, Armenian, 2014 Armenian-Azerbaijani clashes, Azerbaijan_
+_Context: 2014 Armenian-Azerbaijani clashes, Armenian, Azerbaijan, Nagorno-Karabakh conflict, Nagorno-Karabakh_
 
 ##### Syrian Civil War
 ### [The Islamic State loses control of three towns in the area around Al-Asharah to local tribesmen. ](/news/2014/08/3/the-islamic-state-loses-control-of-three-towns-in-the-area-around-al-asharah-to-local-tribesmen.md)

@@ -33,7 +33,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ##### Hamas
 ### [Hamas reports it has executed one of its commanders, Mahmoud Eshtewi, for "moral and behavioral violations." Human Rights Watch, contacted by Eshtewi's family, had been monitoring the case. ](/news/2016/02/7/hamas-reports-it-has-executed-one-of-its-commanders-mahmoud-eshtewi-for-amoral-and-behavioral-violations-a-human-rights-watch-contact.md)
-_Context: Human Rights Watch, Hamas_
+_Context: Hamas, Human Rights Watch_
 
 ##### Haiti
 ### [Politicians in Haiti agree to a process to select an interim President to replace Michel Martelly. Presidential elections will be held on April 14 with the winner to be sworn in on 14 May. ](/news/2016/02/7/politicians-in-haiti-agree-to-a-process-to-select-an-interim-president-to-replace-michel-martelly-presidential-elections-will-be-held-on-ap.md)
@@ -41,7 +41,7 @@ Politicians in Haiti reach an agreement to install a transitional government hou
 
 ##### Parliament of Algeria
 ### [The Parliament of Algeria considers a new constitution imposing term limits for the President and recognising Amazigh as an official language. ](/news/2016/02/7/the-parliament-of-algeria-considers-a-new-constitution-imposing-term-limits-for-the-president-and-recognising-amazigh-as-an-official-languag.md)
-_Context: Parliament of Algeria, term limits, Amazigh_
+_Context: term limits, Parliament of Algeria, Amazigh_
 
 ## [Previous Day...](/news/2016/02/6/index.md)
 

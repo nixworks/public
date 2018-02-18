@@ -33,15 +33,15 @@ FRANCE has officially banned women from wearing full-face veils in public places
 
 ##### Mexico
 ### [Mexican businessman Carlos Slim is again the richest man in the world according to the Forbes list of billionaires. ](/news/2011/04/11/mexican-businessman-carlos-slim-is-again-the-richest-man-in-the-world-according-to-the-forbes-list-of-billionaires.md)
-_Context: Carlos Slim, Mexico, list of the world's wealthiest people_
+_Context: Carlos Slim, list of the world's wealthiest people, Mexico_
 
 ##### Intel
 ### [Intel announces (former codename "Oak Trail") Atom processor will be in devices beginning in May, especially designed for netbook and tablet devices. ](/news/2011/04/11/intel-announces-former-codename-oak-trail-atom-processor-will-be-in-devices-beginning-in-may-especially-designed-for-netbook-and-tablet.md)
-_Context: netbook, tablets, Intel, former codename "Oak Trail") Atom processor_
+_Context: former codename "Oak Trail") Atom processor, tablets, Intel, netbook_
 
 ##### Highland Capital
 ### [Highland Capital has brought an adversary proceeding within the U.S. bankruptcy court, New York, in regard to the Lyondell reorganization, against the securities unit of UBS AG for third-party inferenece with a contract between Highland and Lyondell. ](/news/2011/04/11/highland-capital-has-brought-an-adversary-proceeding-within-the-u-s-bankruptcy-court-new-york-in-regard-to-the-lyondell-reorganization-a.md)
-_Context: Highland Capital, UBS AG, Lyondell, contract_
+_Context: UBS AG, Highland Capital, contract, Lyondell_
 
 ##### Japan
 ### [Over 14,000 people are still missing in Japan, a month after the 2011 Tohoku earthquake and tsunami. ](/news/2011/04/11/over-14-000-people-are-still-missing-in-japan-a-month-after-the-2011-tahoku-earthquake-and-tsunami.md)
@@ -49,11 +49,11 @@ _Context: Japan, 2011 Tohoku earthquake and tsunami_
 
 ##### Tokyo Electric Power Co.
 ### [The President of the Tokyo Electric Power Co. visits the government offices of Fukushima Prefecture and the command centre for the Fukushima I nuclear accidents to apologise. ](/news/2011/04/11/the-president-of-the-tokyo-electric-power-co-visits-the-government-offices-of-fukushima-prefecture-and-the-command-centre-for-the-fukushima.md)
-_Context: Tokyo Electric Power Co., Fukushima Prefecture, Fukushima I nuclear accidents_
+_Context: Fukushima I nuclear accidents, Tokyo Electric Power Co., Fukushima Prefecture_
 
 ##### Government
 ### [The government of Japan announces plans to evacuate more towns near the Fukushima I Nuclear Power Plant as the crisis continues. ](/news/2011/04/11/the-government-of-japan-announces-plans-to-evacuate-more-towns-near-the-fukushima-i-nuclear-power-plant-as-the-crisis-continues.md)
-_Context: Fukushima I Nuclear Power Plant, government_
+_Context: government, Fukushima I Nuclear Power Plant_
 
 ##### Japan
 ### [Japan is hit by a magnitude 6.6 aftershock one month after the main earthquake, knocking out power to Fukushima I for nearly an hour. ](/news/2011/04/11/japan-is-hit-by-a-magnitude-6-6-aftershock-one-month-after-the-main-earthquake-knocking-out-power-to-fukushima-i-for-nearly-an-hour.md)
@@ -77,7 +77,7 @@ A Northern Virginia man on Monday was sentenced to 23 years in prison for his ro
 
 ##### Nepal
 ### [Nepalese Energy Minister Gokarna Bista is stabbed in Katmandu. ](/news/2011/04/11/nepalese-energy-minister-gokarna-bista-is-stabbed-in-katmandu.md)
-_Context: Gokarna Bista, Katmandu, Nepal_
+_Context: Katmandu, Nepal, Gokarna Bista_
 
 ##### Uganda
 ### [Uganda's opposition leader Kizza Besigye is arrested after calling for a protest against recent fuel price increases. ](/news/2011/04/11/uganda-s-opposition-leader-kizza-besigye-is-arrested-after-calling-for-a-protest-against-recent-fuel-price-increases.md)
@@ -101,11 +101,11 @@ The Lib Dem former leader of Liverpool City Council urges Nick Clegg to pull out
 
 ##### Massachusetts governor
 ### [Former Governor of Massachusetts Mitt Romney announces that he will be a candidate for the Republican Party nomination for President of the United States. ](/news/2011/04/11/former-governor-of-massachusetts-mitt-romney-announces-that-he-will-be-a-candidate-for-the-republican-party-nomination-for-president-of-the.md)
-_Context: Mitt Romney, Massachusetts governor, Mitt Romney's campaign, nomination_
+_Context: Mitt Romney's campaign, Massachusetts governor, Mitt Romney, nomination_
 
 ##### Vincent C. Gray
 ### [Vincent C. Gray, the Mayor of Washington DC is arrested while protesting about a US budget deal. ](/news/2011/04/11/vincent-c-gray-the-mayor-of-washington-dc-is-arrested-while-protesting-about-a-us-budget-deal.md)
-_Context: Mayor of Washington DC, US budget deal, Vincent C. Gray_
+_Context: Mayor of Washington DC, Vincent C. Gray, US budget deal_
 
 ## [Previous Day...](/news/2011/04/10/index.md)
 

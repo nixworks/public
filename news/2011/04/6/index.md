@@ -5,7 +5,7 @@ Formats: [HTML](2011/04/6/index.html)  [JSON](2011/04/6/index.json)  [XML](2011/
 
 ##### 2011 Yemeni protests
 ### [2011 Yemeni protests: six people are killed and hundreds injured in Yemen violence. ](/news/2011/04/6/2011-yemeni-protests-six-people-are-killed-and-hundreds-injured-in-yemen-violence.md)
-_Context: 2011 Yemeni protests, Yemen_
+_Context: Yemen, 2011 Yemeni protests_
 
 ##### NATO
 ### [NATO pledges to protect the besieged town of Misrata amid criticism from rebel fighters. ](/news/2011/04/6/nato-pledges-to-protect-the-besieged-town-of-misrata-amid-criticism-from-rebel-fighters.md)
@@ -43,7 +43,7 @@ A desperate search is mounted for scores of African migrants missing after a boa
 
 ##### United States Navy
 ### [A United States Navy F-A-18 crashes near Naval Air Station Lemoore in California. ](/news/2011/04/6/a-united-states-navy-f-a-18-crashes-near-naval-air-station-lemoore-in-california.md)
-_Context: Naval Air Station Lemoore, United States Navy, F/A-18, California_
+_Context: Naval Air Station Lemoore, California, F/A-18, United States Navy_
 
 ##### Ecuador
 ### [Ecuador expels the United States ambassador over Wikileaks diplomatic cables alleging corruption within the Ecuadorian police force. ](/news/2011/04/6/ecuador-expels-the-united-states-ambassador-over-wikileaks-diplomatic-cables-alleging-corruption-within-the-ecuadorian-police-force.md)
@@ -71,7 +71,7 @@ Efforts to curtail the environmental agency’s programs are not likely to end: 
 
 ##### China
 ### [The Chinese state-run "Global Times" newspaper dismisses international criticism over the arrest of artist Ai Weiwei. ](/news/2011/04/6/the-chinese-state-run-global-times-newspaper-dismisses-international-criticism-over-the-arrest-of-artist-ai-weiwei.md)
-_Context: Ai Weiwei, Global Times, China, state media_
+_Context: Global Times, Ai Weiwei, China, state media_
 
 ## [Previous Day...](/news/2011/04/5/index.md)
 

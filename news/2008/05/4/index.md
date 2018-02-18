@@ -13,7 +13,7 @@ Premium News Wire and Press Releases dedicated to the automotive industry with a
 
 ##### Rogaciano Alba
 ### [ 9 people dead after 40 men attack the ranch of Rogaciano Alba in Guerrero, Mexico. ](/news/2008/05/4/9-people-dead-after-40-men-attack-the-ranch-of-rogaciano-alba-in-guerrero-mexico.md)
-_Context: Guerrero, Rogaciano Alba_
+_Context: Rogaciano Alba, Guerrero_
 
 ## [Previous Day...](/news/2008/05/3/index.md)
 

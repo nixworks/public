@@ -9,27 +9,27 @@ _Context: Government of Iraq, 2008 Summer Olympics, Iraqi Olympic Committee, Ira
 
 ##### United States
 ### [ United States Senator Ted Stevens of Alaska is indicted on seven counts related to his conduct as a Senator. ](/news/2008/07/29/united-states-senator-ted-stevens-of-alaska-is-indicted-on-seven-counts-related-to-his-conduct-as-a-senator.md)
-_Context: United States, Senator, Alaska, indicted, Ted Stevens_
+_Context: Alaska, United States, Senator, indicted, Ted Stevens_
 
 ##### World Trade Organisation
 ### [ World Trade Organisation trade talks in Geneva collapse after disagreements between developed and developing nations over access to agricultural markets. ](/news/2008/07/29/world-trade-organisation-trade-talks-in-geneva-collapse-after-disagreements-between-developed-and-developing-nations-over-access-to-agricul.md)
-_Context: Geneva, trade talks, World Trade Organisation_
+_Context: World Trade Organisation, Geneva, trade talks_
 
 ##### Turkey
 ### [ Turkey bombs Kurdistan Workers Party (PKK) positions in the north of Iraq, killing dozens of guerillas two days after the 2008 Istanbul bombings which Turkey believes the PKK is responsible for. ](/news/2008/07/29/turkey-bombs-kurdistan-workers-party-pkk-positions-in-the-north-of-iraq-killing-dozens-of-guerillas-two-days-after-the-2008-istanbul-bom.md)
-_Context: Iraq, Turkey, 2008 Istanbul bombings, Kurdistan Workers Party_
+_Context: Iraq, Kurdistan Workers Party, 2008 Istanbul bombings, Turkey_
 
 ##### 5.4 magnitude earthquake
 ### [ A 5.4 magnitude earthquake occurs in the Los Angeles, California, area, about two miles (3 km) southwest of Chino Hills. The earthquake is felt from Los Angeles to San Diego and more slightly in Las Vegas, Nevada. ](/news/2008/07/29/a-5-4-magnitude-earthquake-occurs-in-the-los-angeles-california-area-about-two-miles-3-km-southwest-of-chino-hills-the-earthquake-is.md)
-_Context: San Diego, 5.4 magnitude earthquake, Las Vegas, Nevada, Los Angeles, Chino Hills, California, Nevada_
+_Context: California, Nevada, Chino Hills, San Diego, Los Angeles, 5.4 magnitude earthquake, Las Vegas, Nevada_
 
 ##### U.S. President
 ### [ President of the United States George W. Bush approves the execution of Army Private Ronald A. Gray, who was convicted in 1988 of multiple rapes and murders. It is the first American military execution approved since 1961. Further appeals are expected before he is executed. ](/news/2008/07/29/president-of-the-united-states-george-w-bush-approves-the-execution-of-army-private-ronald-a-gray-who-was-convicted-in-1988-of-multiple.md)
-_Context: George W. Bush, Ronald A. Gray, United States soldier, murder, rape, U.S. President, military execution, capital punishment_
+_Context: murder, Ronald A. Gray, rape, military execution, George W. Bush, United States soldier, capital punishment, U.S. President_
 
 ##### Government of Australia
 ### [ The government of Australia ends its mandatory detention of all asylum seekers. ](/news/2008/07/29/the-government-of-australia-ends-its-mandatory-detention-of-all-asylum-seekers.md)
-_Context: asylum seeker, detention of children and family groups, government of Australia_
+_Context: detention of children and family groups, government of Australia, asylum seeker_
 
 ## [Previous Day...](/news/2008/07/28/index.md)
 

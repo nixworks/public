@@ -49,7 +49,7 @@ _Context: Tulsa, Oklahoma, manslaughter by gross negligence_
 
 ##### 2016 U.S. election
 ### [Florida Senator Marco Rubio announces his candidacy for the Republican nomination in the 2016 presidential election. ](/news/2015/04/13/florida-senator-marco-rubio-announces-his-candidacy-for-the-republican-nomination-in-the-2016-presidential-election.md)
-_Context: Florida, candidacy, Republican, 2016 U.S. election, Marco Rubio, Senator_
+_Context: Florida, 2016 U.S. election, Marco Rubio, candidacy, Senator, Republican_
 
 ## [Previous Day...](/news/2015/04/12/index.md)
 

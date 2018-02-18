@@ -29,7 +29,7 @@ A ballistic missile defense shield which the United States has activated in Euro
 
 ##### President of Argentina
 ### [Former President of Argentina Cristina Fernandez is indicted on fraud charges in relation to alleged irregularities in the sale of United States dollars by the Central Bank during her term in office. ](/news/2016/05/13/former-president-of-argentina-cristina-ferna-ndez-is-indicted-on-fraud-charges-in-relation-to-alleged-irregularities-in-the-sale-of-united-s.md)
-_Context: Central Bank, United States dollars, Cristina Fernandez, President of Argentina_
+_Context: Cristina Fernandez, Central Bank, United States dollars, President of Argentina_
 
 ##### United States
 ### [The United States Education and Justice Departments advise U.S. public school districts across the country to allow transgender students to use the bathrooms that match their gender identity, rather than their gender at birth. The new guidance comes as Justice and North Carolina battle in federal court over the state's new so-called bathroom bill. ](/news/2016/05/13/the-united-states-education-and-justice-departments-advise-u-s-public-school-districts-across-the-country-to-allow-transgender-students-to.md)

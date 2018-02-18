@@ -9,15 +9,15 @@ Rebels say dozens dead while Syrian military claims guards only wounded and top 
 
 ##### Unionize
 ### [Trade unions in Greece call a general strike in protest against continuing austerity measures. ](/news/2012/09/26/trade-unions-in-greece-call-a-general-strike-in-protest-against-continuing-austerity-measures.md)
-_Context: unionize, general strike, Greece_
+_Context: Greece, unionize, general strike_
 
 ##### Russia
 ### [Russia and Japan schedule a sub-cabinet level meeting for October in Tokyo to discuss the Kuril Islands dispute. ](/news/2012/09/26/russia-and-japan-schedule-a-sub-cabinet-level-meeting-for-october-in-tokyo-to-discuss-the-kuril-islands-dispute.md)
-_Context: Japan, Russia, Tokyo, rival territorial claims_
+_Context: Japan, rival territorial claims, Tokyo, Russia_
 
 ##### Prime Minister of Japan
 ### [Prime Minister Yoshihiko Noda addresses the UNGA by stating that Japan is committed to a "peaceful solution" to its territorial disputes, but that it intends to "fulfill its responsibility" to protecting its sovereignty. ](/news/2012/09/26/prime-minister-yoshihiko-noda-addresses-the-unga-by-stating-that-japan-is-committed-to-a-peaceful-solution-to-its-territorial-disputes-bu.md)
-_Context: United Nations General Assembly, Japan, Prime Minister of Japan, Yoshihiko Noda_
+_Context: Japan, Yoshihiko Noda, United Nations General Assembly, Prime Minister of Japan_
 
 ##### Russia
 ### [Russian billionaire Alexander Lebedev is charged with hooliganism and battery over a televised punch-up, with a possible five-year jail sentence in what he says is revenge for criticising President Vladimir Putin. ](/news/2012/09/26/russian-billionaire-alexander-lebedev-is-charged-with-hooliganism-and-battery-over-a-televised-punch-up-with-a-possible-five-year-jail-sent.md)

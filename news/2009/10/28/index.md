@@ -5,7 +5,7 @@ Formats: [HTML](2009/10/28/index.html)  [JSON](2009/10/28/index.json)  [XML](200
 
 ##### Canadian
 ### [ Canadian folk singer Taylor Mitchell is mauled to death by coyotes at the age of 19. ](/news/2009/10/28/canadian-folk-singer-taylor-mitchell-is-mauled-to-death-by-coyotes-at-the-age-of-19.md)
-_Context: Canadian, folk, coyote, Taylor Mitchell_
+_Context: Canadian, Taylor Mitchell, coyote, folk_
 
 ##### Mozambique
 ### [ Voters in Mozambique go to the polls for the general election. ](/news/2009/10/28/voters-in-mozambique-go-to-the-polls-for-the-general-election.md)
@@ -13,19 +13,19 @@ _Context: general election, Mozambique_
 
 ##### Blast
 ### [ A blast in Meena Bazar, Peshawar, Pakistan, kills at least 95 people while 110 are injured. ](/news/2009/10/28/a-blast-in-meena-bazar-peshawar-pakistan-kills-at-least-95-people-while-110-are-injured.md)
-_Context: Pakistan, Peshawar, blast_
+_Context: Pakistan, blast, Peshawar_
 
 ##### United Nations
 ### [ 12 people &ndash; including six United Nations staff &ndash; are killed after Taliban militants assault an international guesthouse in the Afghan capital Kabul. ](/news/2009/10/28/12-people-ndash-including-six-united-nations-staff-ndash-are-killed-after-taliban-militants-assault-an-international-guesthouse-in-the.md)
-_Context: Afghan, assault an international guesthouse, Taliban, United Nations, Kabul_
+_Context: Afghan, United Nations, assault an international guesthouse, Kabul, Taliban_
 
 ##### German
 ### [ One of Germany's last Nazi war crimes trials begins, with Heinrich Boere charged with the killings of three civilians in the Netherlands. ](/news/2009/10/28/one-of-germany-s-last-nazi-war-crimes-trials-begins-with-heinrich-boere-charged-with-the-killings-of-three-civilians-in-the-netherlands.md)
-_Context: Nazi, German, Netherlands, Heinrich Boere_
+_Context: German, Netherlands, Heinrich Boere, Nazi_
 
 ##### Ares I-X
 ### [ Ares I-X, the first test article for NASA's Ares I rocket, launches successfully from Launch Complex 39B at Kennedy Space Center in Florida on a sub-orbital test flight. ](/news/2009/10/28/ares-i-x-the-first-test-article-for-nasa-s-ares-i-rocket-launches-successfully-from-launch-complex-39b-at-kennedy-space-center-in-florida.md)
-_Context: Ares I, Kennedy Space Center, sub-orbital, NASA, Florida, Ares I-X, Launch Complex 39B_
+_Context: sub-orbital, Kennedy Space Center, Florida, Launch Complex 39B, NASA, Ares I-X, Ares I_
 
 ##### Lebanese
 ### [ The Lebanese army says it has found and deactivated four 107-mm rockets in the garden of a partly built house a day after a rocket fired from Houla hit the northern Israeli border town of Kiryat Shmona. This is the fifth time rocket attacks have been used to try to break the cease-fire. ](/news/2009/10/28/the-lebanese-army-says-it-has-found-and-deactivated-four-107-mm-rockets-in-the-garden-of-a-partly-built-house-a-day-after-a-rocket-fired-fr.md)
@@ -41,7 +41,7 @@ A new deal has been made between the UK and Ireland to ensure that disqualified 
 
 ##### United Nations
 ### [ The United Nations Torture Investigator, Manfred Nowak, is prevented last minute from entering Zimbabwe. ](/news/2009/10/28/the-united-nations-torture-investigator-manfred-nowak-is-prevented-last-minute-from-entering-zimbabwe.md)
-_Context: United Nations, Zimbabwe, Manfred Nowak_
+_Context: Zimbabwe, United Nations, Manfred Nowak_
 
 ##### Hamas
 ### [ Hamas orders Palestinians in the Gaza Strip not to vote in a January election called by West Bank leader Mahmoud Abbas. ](/news/2009/10/28/hamas-orders-palestinians-in-the-gaza-strip-not-to-vote-in-a-january-election-called-by-west-bank-leader-mahmoud-abbas.md)
@@ -49,15 +49,15 @@ Interior ministry tells Gazans not to co-operate with elections called by presid
 
 ##### Mongolia
 ### [ Mongolia's parliament approves the resignation of Prime Minister Sanjaagiin Bayar, who stepped down due to ill health. He was replaced by the Foreign Minister Skhbaataryn Batbold. ](/news/2009/10/28/mongolia-s-parliament-approves-the-resignation-of-prime-minister-sanjaagiin-bayar-who-stepped-down-due-to-ill-health-he-was-replaced-by-t.md)
-_Context: Sanjaagiin Bayar, Prime Minister, Mongolia, Skhbaataryn Batbold_
+_Context: Mongolia, Prime Minister, Skhbaataryn Batbold, Sanjaagiin Bayar_
 
 ##### Democratic Party
 ### [ The main opposition Democratic Party wins three out of five seats in by-elections in South Korea. ](/news/2009/10/28/the-main-opposition-democratic-party-wins-three-out-of-five-seats-in-by-elections-in-south-korea.md)
-_Context: South Korea, Democratic Party_
+_Context: Democratic Party, South Korea_
 
 ##### Matthew Shepard Act
 ### [ The Matthew Shepard Act, providing legal protection against hate crimes to lesbian, gay, bisexual, and transgendered people, is signed into law in the United States by President Barack Obama. ](/news/2009/10/28/the-matthew-shepard-act-providing-legal-protection-against-hate-crimes-to-lesbian-gay-bisexual-and-transgendered-people-is-signed-into.md)
-_Context: hate crimes, United States, Matthew Shepard Act, Barack Obama, gay and bisexual men_
+_Context: Barack Obama, gay and bisexual men, Matthew Shepard Act, United States, hate crimes_
 
 ##### FBI
 ### [ Federal agents attached to the FBI fatally shoot the leader of a Sunni Muslim group wanted on firearm charges in Detroit, USA. ](/news/2009/10/28/federal-agents-attached-to-the-fbi-fatally-shoot-the-leader-of-a-sunni-muslim-group-wanted-on-firearm-charges-in-detroit-usa.md)

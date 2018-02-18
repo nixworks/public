@@ -5,7 +5,7 @@ Formats: [HTML](2010/06/22/index.html)  [JSON](2010/06/22/index.json)  [XML](201
 
 ##### Yesterday's train crash
 ### [At least 60 people are killed and hundreds disappear after a derailed train plunges into a ravine in the Republic of the Congo. The accident happened after the train left the coastal town of Pointe-Noire on the Chemin de Fer Congo Ocean (CFCO) line to the capital Brazzaville. ](/news/2010/06/22/at-least-60-people-are-killed-and-hundreds-disappear-after-a-derailed-train-plunges-into-a-ravine-in-the-republic-of-the-congo-the-accident.md)
-_Context: Pointe-Noire, yesterday's train crash, Chemin de Fer Congo Ocean, Brazzaville, Republic of the Congo_
+_Context: Chemin de Fer Congo Ocean, Republic of the Congo, Pointe-Noire, Brazzaville, yesterday's train crash_
 
 ##### The widespread floods
 ### [The death toll from floods and mudslides reaches at least 31 people in Alagoas and Pernambuco in northeastern Brazil. ](/news/2010/06/22/the-death-toll-from-floods-and-mudslides-reaches-at-least-31-people-in-alagoas-and-pernambuco-in-northeastern-brazil.md)
@@ -13,7 +13,7 @@ Mudslides and Heavy Rain Force Thousands From Their Hillside Homes
 
 ##### Environmentalist
 ### [Environmentalists said that an oil spill near Hurghada Egypt in the Red Sea is continuing even after the government said it had been contained, leaving turtles and sea birds covered in oil. ](/news/2010/06/22/environmentalists-said-that-an-oil-spill-near-hurghada-egypt-in-the-red-sea-is-continuing-even-after-the-government-said-it-had-been-contain.md)
-_Context: oil spill, Hurghada, turtle, oil, sea bird, Egypt, Red Sea, Environmentalist_
+_Context: Environmentalist, turtle, oil, Red Sea, Hurghada, Egypt, oil spill, sea bird_
 
 ##### Kyrgyzstan
 ### [The death toll from unrest in southern Kyrgyzstan riots reaches 251. ](/news/2010/06/22/the-death-toll-from-unrest-in-southern-kyrgyzstan-riots-reaches-251.md)
@@ -45,7 +45,7 @@ U.N. Secretary-General on Tuesday announced the formation of a three-member pane
 
 ##### Ghana
 ### [During a two-day visit to Ghana, President of Angola Jos Eduardo dos Santos visits Kwame Nkrumah Memorial Park in Accra among other engagements. ](/news/2010/06/22/during-a-two-day-visit-to-ghana-president-of-angola-jose-eduardo-dos-santos-visits-kwame-nkrumah-memorial-park-in-accra-among-other-engagem.md)
-_Context: Accra, Ghana, president, Jos Eduardo dos Santos, Kwame Nkrumah_
+_Context: Jos Eduardo dos Santos, president, Kwame Nkrumah, Ghana, Accra_
 
 ##### Istanbul
 ### [Five people are killed and 12 injured in a bus bomb in Istanbul, Turkey. Kurdish rebels later claim responsibility for the attack. ](/news/2010/06/22/five-people-are-killed-and-12-injured-in-a-bus-bomb-in-istanbul-turkey-kurdish-rebels-later-claim-responsibility-for-the-attack.md)
@@ -57,19 +57,19 @@ A fight breaks out between rival Nigerian lawmakers in the National Assembly, le
 
 ##### American Samoa
 ### [The American Samoa Constitutional Convention, the first to be held since 1986, opens in Pago Pago. ](/news/2010/06/22/the-american-samoa-constitutional-convention-the-first-to-be-held-since-1986-opens-in-pago-pago.md)
-_Context: American Samoa, Pago Pago, Constitutional Convention_
+_Context: Pago Pago, Constitutional Convention, American Samoa_
 
 ##### Federal District Judge
 ### [United States federal judge Martin Leach-Cross Feldman issues a preliminary injunction blocking a six month moratorium on deep water offshore drilling. ](/news/2010/06/22/united-states-federal-judge-martin-leach-cross-feldman-issues-a-preliminary-injunction-blocking-a-six-month-moratorium-on-deep-water-offshor.md)
-_Context: Martin Leach-Cross Feldman, moratorium, offshore, Federal District Judge, injunction_
+_Context: moratorium, offshore, injunction, Martin Leach-Cross Feldman, Federal District Judge_
 
 ##### George Osborne
 ### [In the United Kingdom, Chancellor George Osborne presents the coalition government's emergency budget statement to the House of Commons. ](/news/2010/06/22/in-the-united-kingdom-chancellor-george-osborne-presents-the-coalition-government-s-emergency-budget-statement-to-the-house-of-commons.md)
-_Context: emergency budget statement, George Osborne_
+_Context: George Osborne, emergency budget statement_
 
 ##### Nikki Haley
 ### [Nikki Haley wins the Republican Party primary to be the Republican candidate in the South Carolina gubernatorial election in the United States. ](/news/2010/06/22/nikki-haley-wins-the-republican-party-primary-to-be-the-republican-candidate-in-the-south-carolina-gubernatorial-election-in-the-united-stat.md)
-_Context: Nikki Haley, gubernatorial election, Republican, primary election, South Carolina, United States_
+_Context: South Carolina, primary election, Nikki Haley, Republican, gubernatorial election, United States_
 
 ##### Mazda
 ### [One person is killed and 10 injured after a former worker at a Mazda factory in Japan drives his car at colleagues. ](/news/2010/06/22/one-person-is-killed-and-10-injured-after-a-former-worker-at-a-mazda-factory-in-japan-drives-his-car-at-colleagues.md)

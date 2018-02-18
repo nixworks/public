@@ -41,7 +41,7 @@ Mohammed bin Nayef is replaced by Mohammed bin Salman, the 31-year-old rising po
 
 ##### Politics of Romania
 ### [After a short term political crisis, started when the governing PSD retracted its support, the Parliament of Romania passes a no confidence motion against the government led by former PSD Prime Minister Sorin Grindeanu. ](/news/2017/06/21/after-a-short-term-political-crisis-started-when-the-governing-psd-retracted-its-support-the-parliament-of-romania-passes-a-no-confidence.md)
-_Context: Sorin Grindeanu, Parliament of Romania, no confidence motion, PSD, Prime Minister, Politics of Romania_
+_Context: PSD, Parliament of Romania, no confidence motion, Prime Minister, Politics of Romania, Sorin Grindeanu_
 
 ##### Second Philippe Government
 ### [Francois Bayrou resigns as France's Minister of Justice amid an ongoing investigation into the centrist Democratic Movement (MoDem)'s alleged fraudulent employment of parliamentary assistants. ](/news/2017/06/21/franassois-bayrou-resigns-as-france-s-minister-of-justice-amid-an-ongoing-investigation-into-the-centrist-democratic-movement-modem-s-alleg.md)

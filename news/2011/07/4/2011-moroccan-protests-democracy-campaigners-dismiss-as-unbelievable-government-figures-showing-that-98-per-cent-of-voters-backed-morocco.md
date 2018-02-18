@@ -30,8 +30,8 @@ At least 21 people have died in heavy fighting near the rebel-held southern Yeme
 
 ### Related:
 
-1. [Abdellatif Midras, a member of the Moroccan Parliament, is shot dead in Casablanca. ](/news/2017/03/8/abdellatif-midras-a-member-of-the-moroccan-parliament-is-shot-dead-in-casablanca.md) _Context: Casablanca_
-2. [Morocco votes in a constitutional referendum. ](/news/2011/07/1/morocco-votes-in-a-constitutional-referendum.md) _Context: Morocco's constitutional referendum_
-3. [Pro-democracy activists in Morocco call for renewed demonstrations, saying reforms proposed by King Mohammed VI are not enough. ](/news/2011/06/18/pro-democracy-activists-in-morocco-call-for-renewed-demonstrations-saying-reforms-proposed-by-king-mohammed-vi-are-not-enough.md) _Context: 2011 Moroccan protests_
-4. [Police use truncheons to break up an opposition protest in the capital Rabat, injuring several people. ](/news/2011/05/15/police-use-truncheons-to-break-up-an-opposition-protest-in-the-capital-rabat-injuring-several-people.md) _Context: Rabat_
-5. [Riots occur in the Moroccan city of Tangier over utility costs. ](/news/2011/02/19/riots-occur-in-the-moroccan-city-of-tangier-over-utility-costs.md) _Context: Tangier_
+1. [The Court of Appeal in Rabat, Morocco, acquits Younes Chekkouri of undermining the security of the state. Chekkouri was detained in Guantanamo Bay detention camp for 14 years without charges. ](/news/2018/02/16/the-court-of-appeal-in-rabat-morocco-acquits-younes-chekkouri-of-undermining-the-security-of-the-state-chekkouri-was-detained-in-guantana.md) _Context: Rabat_
+2. [Abdellatif Midras, a member of the Moroccan Parliament, is shot dead in Casablanca. ](/news/2017/03/8/abdellatif-midras-a-member-of-the-moroccan-parliament-is-shot-dead-in-casablanca.md) _Context: Casablanca_
+3. [Morocco votes in a constitutional referendum. ](/news/2011/07/1/morocco-votes-in-a-constitutional-referendum.md) _Context: Morocco's constitutional referendum_
+4. [Pro-democracy activists in Morocco call for renewed demonstrations, saying reforms proposed by King Mohammed VI are not enough. ](/news/2011/06/18/pro-democracy-activists-in-morocco-call-for-renewed-demonstrations-saying-reforms-proposed-by-king-mohammed-vi-are-not-enough.md) _Context: 2011 Moroccan protests_
+5. [Police use truncheons to break up an opposition protest in the capital Rabat, injuring several people. ](/news/2011/05/15/police-use-truncheons-to-break-up-an-opposition-protest-in-the-capital-rabat-injuring-several-people.md) _Context: Rabat_

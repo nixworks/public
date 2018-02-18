@@ -5,7 +5,7 @@ Formats: [HTML](2011/04/4/index.html)  [JSON](2011/04/4/index.json)  [XML](2011/
 
 ##### United Nations
 ### [United Nations and French military helicopters fire on a pro-Laurent Gbagbo military camp. ](/news/2011/04/4/united-nations-and-french-military-helicopters-fire-on-a-pro-laurent-gbagbo-military-camp.md)
-_Context: French military, Laurent Gbagbo, United Nations_
+_Context: French military, United Nations, Laurent Gbagbo_
 
 ##### Jandool
 ### [At least 5 people are killed during a bomb explosion at a bus station in Jandool in Lower Dir, Pakistan. ](/news/2011/04/4/at-least-5-people-are-killed-during-a-bomb-explosion-at-a-bus-station-in-jandool-in-lower-dir-pakistan.md)
@@ -13,7 +13,7 @@ At least seven people have been killed after a suicide bomber struck a bus stati
 
 ##### Baton
 ### [Police baton and tear gas people protesting on a highway in Dhaka, arresting dozens. ](/news/2011/04/4/police-baton-and-tear-gas-people-protesting-on-a-highway-in-dhaka-arresting-dozens.md)
-_Context: Dhaka, tear gas, baton_
+_Context: Dhaka, baton, tear gas_
 
 ##### Policemen
 ### [Yemeni police fire live rounds and teargas at protesters in the city of Taiz killing one person and injuring over 400. ](/news/2011/04/4/yemeni-police-fire-live-rounds-and-teargas-at-protesters-in-the-city-of-taiz-killing-one-person-and-injuring-over-400.md)
@@ -53,11 +53,11 @@ A three-panel oil painting by artist Zhang Xiaogang sells for 79m Hong Kong doll
 
 ##### Prince Albert II of Monaco
 ### [Prince Albert II of Monaco's Rhodesian-born fiancee Charlene Wittstock converts to Roman Catholicism. ](/news/2011/04/4/prince-albert-ii-of-monaco-s-rhodesian-born-fianca-c-e-charlene-wittstock-converts-to-roman-catholicism.md)
-_Context: Roman Catholicism, Rhodesia, Prince Albert II of Monaco, Charlene, Princess of Monaco_
+_Context: Prince Albert II of Monaco, Charlene, Princess of Monaco, Roman Catholicism, Rhodesia_
 
 ##### Bank of Japan
 ### [The Bank of Japan releases its Quarterly Tankan survey of business sentiment confirming that the recent 2011 Tohoku earthquake and tsunami has had a negative effect on business confidence. ](/news/2011/04/4/the-bank-of-japan-releases-its-quarterly-tankan-survey-of-business-sentiment-confirming-that-the-recent-2011-tahoku-earthquake-and-tsunami.md)
-_Context: Bank of Japan, 2011 Tohoku earthquake and tsunami, Quarterly Tankan survey of business sentiment_
+_Context: Bank of Japan, Quarterly Tankan survey of business sentiment, 2011 Tohoku earthquake and tsunami_
 
 ##### 
 ### [It is reported that China has succeeded in genetically modifying cows to produce "human" milk. ](/news/2011/04/4/it-is-reported-that-china-has-succeeded-in-genetically-modifying-cows-to-produce-human-milk.md)
@@ -99,7 +99,7 @@ _Context: Gulf Co-operation Council, Iran_
 
 ##### Indonesia
 ### [The Indonesian government appeals after Saudi Arabia acquits a woman accused of torturing her Indonesian maid. ](/news/2011/04/4/the-indonesian-government-appeals-after-saudi-arabia-acquits-a-woman-accused-of-torturing-her-indonesian-maid.md)
-_Context: Saudi Arabia, Indonesia_
+_Context: Indonesia, Saudi Arabia_
 
 ##### Prince Albert II of Monaco
 ### [Prince Albert II of Monaco and his fiancee Charlene Wittstock arrive in Ireland for a state visit, 50 years after the visit of Prince Rainier and Hollywood actress Princess Grace. They are to dine at a state banquet hosted by President Mary McAleese and her husband at Aras an Uachtarain. ](/news/2011/04/4/prince-albert-ii-of-monaco-and-his-fianca-c-e-charlene-wittstock-arrive-in-ireland-for-a-state-visit-50-years-after-the-visit-of-prince-raini.md)
@@ -115,7 +115,7 @@ _Context: Japanese Foreign Ministry_
 
 ##### North Korea
 ### [North Korea executes former railways minister Kim Yong Sam in connection with the Ryongchon disaster in 2004. ](/news/2011/04/4/north-korea-executes-former-railways-minister-kim-yong-sam-in-connection-with-the-ryongchon-disaster-in-2004.md)
-_Context: Kim Yong Sam, North Korea, Ryongchon disaster_
+_Context: Ryongchon disaster, North Korea, Kim Yong Sam_
 
 ##### Gilgo
 ### [Three more human remains are found in the Gilgo area of Long Island New York bringing the total number of bodies to eight with a serial killer believed to be responsible. ](/news/2011/04/4/three-more-human-remains-are-found-in-the-gilgo-area-of-long-island-new-york-bringing-the-total-number-of-bodies-to-eight-with-a-serial-kill.md)
@@ -135,7 +135,7 @@ Prominent lawyer and dissident Cu Huy Ha Vu is jailed for seven years in Vietnam
 
 ##### Than Shwe
 ### [Than Shwe, the former head of Burma's State Peace and Development Council, retires as the head of the Myanmar military. ](/news/2011/04/4/than-shwe-the-former-head-of-burma-s-state-peace-and-development-council-retires-as-the-head-of-the-myanmar-military.md)
-_Context: security forces, Than Shwe, Burma, State Peace and Development Council_
+_Context: State Peace and Development Council, security forces, Than Shwe, Burma_
 
 ##### Ivor Callely
 ### [Controversial Irish senator Ivor Callely, who last year was embroiled in an expenses scandal, is fined EUR60 by a court for breaching the law. ](/news/2011/04/4/controversial-irish-senator-ivor-callely-who-last-year-was-embroiled-in-an-expenses-scandal-is-fined-a-60-by-a-court-for-breaching-the-la.md)

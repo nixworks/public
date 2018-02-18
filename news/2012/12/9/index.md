@@ -13,23 +13,23 @@ A killer typhoon is set to make landfall in the Philippines for a second time, s
 
 ##### Wreckage of a plane
 ### [The wreckage of a plane carrying Mexican-American singer Jenni Rivera with two pilots and four other passengers is found in northern Mexico with no apparent survivors. ](/news/2012/12/9/the-wreckage-of-a-plane-carrying-mexican-american-singer-jenni-rivera-with-two-pilots-and-four-other-passengers-is-found-in-northern-mexico.md)
-_Context: wreckage of a plane, Jenni Rivera, Mexican-American, Mexico_
+_Context: wreckage of a plane, Jenni Rivera, Mexico, Mexican-American_
 
 ##### Hsinchu County
 ### [Thirteen people are killed and 10 are injured in Hsinchu County, Taiwan, when a bus with 23 people on board rolled off a cliff and tumbled over 100 meters. ](/news/2012/12/9/thirteen-people-are-killed-and-10-are-injured-in-hsinchu-county-taiwan-when-a-bus-with-23-people-on-board-rolled-off-a-cliff-and-tumbled-o.md)
-_Context: bus, Hsinchu County, Taiwan_
+_Context: Hsinchu County, Taiwan, bus_
 
 ##### Bus
 ### [Six people are killed and 41 others injured on the spot when a bus skids off the road and plunges into a 30-meter deep gorge in Chimaltenango, Guatemala. ](/news/2012/12/9/six-people-are-killed-and-41-others-injured-on-the-spot-when-a-bus-skids-off-the-road-and-plunges-into-a-30-meter-deep-gorge-in-chimaltenang.md)
-_Context: Chimaltenango, Guatemala, gorge, bus_
+_Context: bus, gorge, Chimaltenango, Guatemala_
 
 ##### Vietnam
 ### [Police in Vietnam break up anti-China protests over gas and oil claims in the South China Sea. ](/news/2012/12/9/police-in-vietnam-break-up-anti-china-protests-over-gas-and-oil-claims-in-the-south-china-sea.md)
-_Context: South China Sea, Vietnam, Chinese_
+_Context: Vietnam, Chinese, South China Sea_
 
 ##### Tibet
 ### [A Tibetan monk is arrested by Chinese authorities, accused of inciting self-immolation protests against Chinese rule. ](/news/2012/12/9/a-tibetan-monk-is-arrested-by-chinese-authorities-accused-of-inciting-self-immolation-protests-against-chinese-rule.md)
-_Context: Chinese, self-immolation, protest, Tibet_
+_Context: self-immolation, Tibet, Chinese, protest_
 
 ##### Scotland Yard
 ### [Detectives from Scotland Yard contact police in Australia over the apparent suicide of Jacintha Saldanha. ](/news/2012/12/9/detectives-from-scotland-yard-contact-police-in-australia-over-the-apparent-suicide-of-jacintha-saldanha.md)
@@ -41,11 +41,11 @@ California police have detained a suspect in a shooting at the Tule River Indian
 
 ##### Ghana
 ### [Ghana's main opposition party alleges fraud in the recent general election as incumbent President John Mahama is declared the winner. ](/news/2012/12/9/ghana-s-main-opposition-party-alleges-fraud-in-the-recent-general-election-as-incumbent-president-john-mahama-is-declared-the-winner.md)
-_Context: John Mahama, President of Ghana, general election, Ghana_
+_Context: John Mahama, President of Ghana, Ghana, general election_
 
 ##### Romania
 ### [Voters in Romania go to the polls for parliamentary elections with the governing Social Liberal Union led by Prime Minister Victor Ponta winning by a landslide majority in both the Chamber of Deputies and the Senate. ](/news/2012/12/9/voters-in-romania-go-to-the-polls-for-parliamentary-elections-with-the-governing-social-liberal-union-led-by-prime-minister-victor-ponta-win.md)
-_Context: Social Liberal Union, Romania, landslide majority, Chamber of Deputies, Prime Minister, parliamentary election, Victor Ponta, Senate_
+_Context: landslide majority, Victor Ponta, Social Liberal Union, Romania, Prime Minister, parliamentary election, Chamber of Deputies, Senate_
 
 ##### Astronomer
 ### [British astronomer and broadcaster Sir Patrick Moore, presenter of "The Sky at Night" for over 55 years, dies aged 89. ](/news/2012/12/9/british-astronomer-and-broadcaster-sir-patrick-moore-presenter-of-the-sky-at-night-for-over-55-years-dies-aged-89.md)
@@ -53,7 +53,7 @@ Astronomer, broadcaster and author Sir Patrick Moore has died at his home at the
 
 ##### Khrunichev Center
 ### [Khrunichev Center and International Launch Services report an anomaly during the launch of the Yamal-402 satellite on 8 December. Briz-M stage failure 4 minutes before scheduled shut down on its fourth burn. ](/news/2012/12/9/khrunichev-center-and-international-launch-services-report-an-anomaly-during-the-launch-of-the-yamal-402-satellite-on-8-december-briz-m-sta.md)
-_Context: International Launch Services, Briz-M, Yamal-402, Khrunichev Center, satellite_
+_Context: Khrunichev Center, Yamal-402, International Launch Services, satellite, Briz-M_
 
 ## [Previous Day...](/news/2012/12/8/index.md)
 

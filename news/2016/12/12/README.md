@@ -13,7 +13,7 @@ The battle for Aleppo has reached its end, the Syrian Observatory for Human Righ
 
 ##### 74th Golden Globe Awards
 ### ["La La Land" leads nominations. ](/news/2016/12/12/la-la-land-leads-nominations.md)
-_Context: La La Land, 74th Golden Globe Awards_
+_Context: 74th Golden Globe Awards, La La Land_
 
 ##### Venezuela
 ### [Venezuela swaps its bolivar notes with coins in order to curb hyperinflation. ](/news/2016/12/12/venezuela-swaps-its-bolivar-notes-with-coins-in-order-to-curb-hyperinflation.md)
@@ -33,7 +33,7 @@ President-elect says he sees no reason why the US should continuing abiding by O
 
 ##### China-Mexico relations
 ### [Representatives from China and Mexico pledge to deepen ties between their countries as a reaction to Donald Trump's positions on trade. ](/news/2016/12/12/representatives-from-china-and-mexico-pledge-to-deepen-ties-between-their-countries-as-a-reaction-to-donald-trump-s-positions-on-trade.md)
-_Context: Donald Trump's positions on trade, Chinese, Mexico, China-Mexico relations_
+_Context: Donald Trump's positions on trade, Mexico, China-Mexico relations, Chinese_
 
 ##### Cuba-European Union relations
 ### [Cuba and the European Union sign an accord in Brussels to normalize relations, formally ending the Common Position which was adopted by the Council of the European Union in 1996. ](/news/2016/12/12/cuba-and-the-european-union-sign-an-accord-in-brussels-to-normalize-relations-formally-ending-the-common-position-which-was-adopted-by-the.md)
@@ -41,7 +41,7 @@ The European Union and Cuba on Monday signed a deal to normalise ties that had b
 
 ##### Kenya
 ### [Kenya threatens to leave the International Criminal Court. ](/news/2016/12/12/kenya-threatens-to-leave-the-international-criminal-court.md)
-_Context: Kenya, ICC_
+_Context: ICC, Kenya_
 
 ##### Prime Minister of Portugal
 ### [Former Prime Minister of Portugal Antonio Guterres is sworn in as the new United Nations Secretary General. ](/news/2016/12/12/former-prime-minister-of-portugal-anta3nio-guterres-is-sworn-in-as-the-new-united-nations-secretary-general.md)
@@ -49,7 +49,7 @@ Former Portuguese Prime Minister Antonio Guterres was sworn in on Monday as the 
 
 ##### Pakistan
 ### [Pakistan appoints Lt. Gen. Naveed Mukhtar as the new head of the Inter-Services Intelligence. ](/news/2016/12/12/pakistan-appoints-lt-gen-naveed-mukhtar-as-the-new-head-of-the-inter-services-intelligence.md)
-_Context: Inter-Services Intelligence, Pakistan_
+_Context: Pakistan, Inter-Services Intelligence_
 
 ##### Christine Lagarde
 ### [Christine Lagarde, the managing director of the International Monetary Fund, goes on trial in France for alleged negligence as Finance Minister resulting in the loss of hundreds of millions of euros. ](/news/2016/12/12/christine-lagarde-the-managing-director-of-the-international-monetary-fund-goes-on-trial-in-france-for-alleged-negligence-as-finance-minis.md)
@@ -61,7 +61,7 @@ A former U.S. representative whose lavish Washington office raised questions abo
 
 ##### 2016 United States presidential election recounts
 ### [Jill Stein's bid to force a recount of the presidential election results in the state of Pennsylvania is rejected by a federal judge. ](/news/2016/12/12/jill-stein-s-bid-to-force-a-recount-of-the-presidential-election-results-in-the-state-of-pennsylvania-is-rejected-by-a-federal-judge.md)
-_Context: Pennsylvania, Jill Stein, 2016 United States presidential election recounts_
+_Context: 2016 United States presidential election recounts, Jill Stein, Pennsylvania_
 
 ##### New Zealand National Party leadership election, 2016
 ### [Bill English is elected as the leader of the New Zealand National Party and is now the country's Prime Minister. Paula Bennett is elected as English's deputy. ](/news/2016/12/12/bill-english-is-elected-as-the-leader-of-the-new-zealand-national-party-and-is-now-the-country-s-prime-minister-paula-bennett-is-elected-as.md)
@@ -69,7 +69,7 @@ More than a decade after he tried and failed to become the country&#039;s leader
 
 ##### Gambian presidential election, 2016
 ### [The president of Senegal urges The Gambia's fallen dictator Yahya Jammeh to respect the result of the polls. ](/news/2016/12/12/the-president-of-senegal-urges-the-gambia-s-fallen-dictator-yahya-jammeh-to-respect-the-result-of-the-polls.md)
-_Context: The Gambia, Yahya Jammeh, Senegal, Gambian presidential election, 2016_
+_Context: The Gambia, Senegal, Yahya Jammeh, Gambian presidential election, 2016_
 
 ##### Earlier this month
 ### [Being forced into opposition a year earlier, by the resignation of Prime Minister Victor Ponta amid the Colectiv nightclub fire tragedy, the Social Democratic Party returns to government following a landslide victory in last Sunday's parliamentary elections. ](/news/2016/12/12/being-forced-into-opposition-a-year-earlier-by-the-resignation-of-prime-minister-victor-ponta-amid-the-colectiv-nightclub-fire-tragedy-the.md)

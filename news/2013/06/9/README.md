@@ -5,7 +5,7 @@ Formats: [HTML](2013/06/9/index.html)  [JSON](2013/06/9/index.json)  [XML](2013/
 
 ##### Lebanese
 ### [A Lebanese man protesting against Hezbollah's role in the Syrian civil war is shot dead outside the Iranian embassy in Beirut. ](/news/2013/06/9/a-lebanese-man-protesting-against-hezbollah-s-role-in-the-syrian-civil-war-is-shot-dead-outside-the-iranian-embassy-in-beirut.md)
-_Context: Beirut, Syrian civil war, Iranian embassy, Hezbollah, Lebanese_
+_Context: Hezbollah, Lebanese, Iranian embassy, Syrian civil war, Beirut_
 
 ##### Taliban
 ### [Thirty-five militants and one soldier are killed in fighting in the Khyber Agency tribal region of northwest Pakistan in an operation. ](/news/2013/06/9/thirty-five-militants-and-one-soldier-are-killed-in-fighting-in-the-khyber-agency-tribal-region-of-northwest-pakistan-in-an-operation.md)

@@ -17,7 +17,7 @@ Seven people have died and over 650,000 people have been affected by floods in A
 
 ##### 2015 Pacific typhoon season
 ### [Typhoon Goni leaves the Philippines with 15 dead and 12 people missing. ](/news/2015/08/23/typhoon-goni-leaves-the-philippines-with-15-dead-and-12-people-missing.md)
-_Context: Philippines, 2015 Pacific typhoon season, Typhoon Goni_
+_Context: 2015 Pacific typhoon season, Typhoon Goni, Philippines_
 
 ##### 2015 Shoreham Airshow crash
 ### [The number of fatalities in the 2015 Shoreham Airshow crash is "highly likely" to have risen to 11. ](/news/2015/08/23/the-number-of-fatalities-in-the-2015-shoreham-airshow-crash-is-highly-likely-to-have-risen-to-11.md)
@@ -37,7 +37,7 @@ The remains of two dozen people have been found near the border with Thailand, p
 
 ##### Iowa
 ### [Authorities arrest two Iowa men in Saugus, Massachusetts after heavy firearms are discovered in their hotel room. The two men had made threats on social media stating their targeting of the 2015 Pokemon Video Game World Championships that are being held in Boston. ](/news/2015/08/23/authorities-arrest-two-iowa-men-in-saugus-massachusetts-after-heavy-firearms-are-discovered-in-their-hotel-room-the-two-men-had-made-threa.md)
-_Context: Boston, Saugus, Massachusetts, 2015 Pokemon Video Game World Championships, Iowa_
+_Context: Boston, Iowa, 2015 Pokemon Video Game World Championships, Saugus, Massachusetts_
 
 ## [Previous Day...](/news/2015/08/22/index.md)
 

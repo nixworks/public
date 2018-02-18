@@ -17,19 +17,19 @@ Deadly clashes erupt between Mauritanian troops and militants linked to al-Qaeda
 
 ##### United Kingdom
 ### [British pop star George Michael is transferred from Pentonville Prison to Highpoint Prison in Suffolk, England, to serve out the remaining weeks of his sentence for driving under the influence of cannabis. ](/news/2010/09/18/british-pop-star-george-michael-is-transferred-from-pentonville-prison-to-highpoint-prison-in-suffolk-england-to-serve-out-the-remaining-w.md)
-_Context: Pentonville Prison, United Kingdom, Suffolk, driving under the influence, George Michael, cannabis, Highpoint Prison, England_
+_Context: Suffolk, Pentonville Prison, George Michael, United Kingdom, cannabis, England, Highpoint Prison, driving under the influence_
 
 ##### Chile
 ### [Chileans celebrate the 200th anniversary of Chilean Independence Day as do the 33 miners trapped underground in the 2010 Copiap mining accident. ](/news/2010/09/18/chileans-celebrate-the-200th-anniversary-of-chilean-independence-day-as-do-the-33-miners-trapped-underground-in-the-2010-copiapo-mining-acci.md)
-_Context: Chile, 200th anniversary, 2010 Copiap mining accident, Chilean Independence Day_
+_Context: 2010 Copiap mining accident, Chile, 200th anniversary, Chilean Independence Day_
 
 ##### Chinese
 ### [China slightly increased its holdings of United States treasury debt to US$846.7 billion, this July. ](/news/2010/09/18/china-slightly-increased-its-holdings-of-united-states-treasury-debt-to-us-846-7-billion-this-july.md)
-_Context: Chinese,  United States treasury debt_
+_Context:  United States treasury debt, Chinese_
 
 ##### New Zealand
 ### [A large storm in New Zealand leaves 100,000 people without power and takes the roof off Stadium Southland in Invercargill on the South Island. ](/news/2010/09/18/a-large-storm-in-new-zealand-leaves-100-000-people-without-power-and-takes-the-roof-off-stadium-southland-in-invercargill-on-the-south-islan.md)
-_Context: Stadium Southland, New Zealand, Invercargill, South Island_
+_Context: New Zealand, South Island, Invercargill, Stadium Southland_
 
 ##### Taiwan
 ### [Taiwan prepares for the impact of Typhoon Fanapi. ](/news/2010/09/18/taiwan-prepares-for-the-impact-of-typhoon-fanapi.md)
@@ -41,11 +41,11 @@ _Context: Ghana, Zagyuri, truck_
 
 ##### Airplane
 ### [Two airplanes crash at a retro air show near the city of Warngau in southern Germany. ](/news/2010/09/18/two-airplanes-crash-at-a-retro-air-show-near-the-city-of-warngau-in-southern-germany.md)
-_Context: air show, airplane, German, Warngau_
+_Context: German, air show, airplane, Warngau_
 
 ##### President
 ### [The President of Iran Mahmoud Ahmadinejad meets with the President of Algeria Abdelaziz Bouteflika in Algiers to discuss trade agreements. ](/news/2010/09/18/the-president-of-iran-mahmoud-ahmadinejad-meets-with-the-president-of-algeria-abdelaziz-bouteflika-in-algiers-to-discuss-trade-agreements.md)
-_Context: Algiers, President, President, Abdelaziz Bouteflika, trade, Mahmoud Ahmadinejad_
+_Context: Abdelaziz Bouteflika, Mahmoud Ahmadinejad, Algiers, trade, President, President_
 
 ##### Human rights
 ### [Iranian human rights activist Shiva Nazar Ahari is convicted of gathering and plotting to commit crimes against the Iranian state, propaganda against the establishment and waging war against God. ](/news/2010/09/18/iranian-human-rights-activist-shiva-nazar-ahari-is-convicted-of-gathering-and-plotting-to-commit-crimes-against-the-iranian-state-propagand.md)
@@ -57,11 +57,11 @@ Afghan officials hail a parliamentary vote as a success despite low turnout, att
 
 ##### Slovakia
 ### [Voters in Slovakia go to the polls to vote on a referendum to reduce the size of the National Council of the Slovak Republic and cut political perks amongst other things. ](/news/2010/09/18/voters-in-slovakia-go-to-the-polls-to-vote-on-a-referendum-to-reduce-the-size-of-the-national-council-of-the-slovak-republic-and-cut-politic.md)
-_Context: National Council of the Slovak Republic, a referendum, Slovakia_
+_Context: Slovakia, National Council of the Slovak Republic, a referendum_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI apologizes to the victims of sexual abuse within the Roman Catholic Church during his visit to Britain. ](/news/2010/09/18/pope-benedict-xvi-apologizes-to-the-victims-of-sexual-abuse-within-the-roman-catholic-church-during-his-visit-to-britain.md)
-_Context: Roman Catholic Church, sexual abuse, Pope Benedict XVI_
+_Context: sexual abuse, Roman Catholic Church, Pope Benedict XVI_
 
 ##### United Nations
 ### [A United Nations envoy arrives in Guinea to discuss the suspension of the presidential election. ](/news/2010/09/18/a-united-nations-envoy-arrives-in-guinea-to-discuss-the-suspension-of-the-presidential-election.md)
@@ -69,11 +69,11 @@ _Context: November's presidential poll, United Nations, Guinea_
 
 ##### German
 ### [Tens of thousands of Germans protest in Berlin against the plans of the German government to extend the life of the country's nuclear power plants by another ten years. ](/news/2010/09/18/tens-of-thousands-of-germans-protest-in-berlin-against-the-plans-of-the-german-government-to-extend-the-life-of-the-country-s-nuclear-power.md)
-_Context: Berlin, Government of Germany, nuclear power, German_
+_Context: Government of Germany, nuclear power, Berlin, German_
 
 ##### Bulgaria
 ### [Bulgarian Romani protest outside the French embassy in Sofia about expulsions of Romani from France. ](/news/2010/09/18/bulgarian-romani-protest-outside-the-french-embassy-in-sofia-about-expulsions-of-romani-from-france.md)
-_Context: Bulgaria, France, Sofia, Roma_
+_Context: Sofia, Roma, France, Bulgaria_
 
 ## [Previous Day...](/news/2010/09/17/index.md)
 

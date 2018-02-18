@@ -25,7 +25,7 @@ Tests in Egypt were carried out after British archaeologist suggested Queen Nefe
 
 ##### United States
 ### [A slow moving wintry storm system is responsible for more than a dozen deaths in the U.S. states of Texas, Oklahoma and Kansas. ](/news/2015/11/28/a-slow-moving-wintry-storm-system-is-responsible-for-more-than-a-dozen-deaths-in-the-u-s-states-of-texas-oklahoma-and-kansas.md)
-_Context: Oklahoma, Texas, Kansas, United States_
+_Context: Texas, Kansas, Oklahoma, United States_
 
 ##### 2015 downing
 ### [A day after Turkey's president Recep Tayyip Erdogan had harsh words for Russia, Turkish Prime Minister Ahmet Davutoglu, in an essay in the London "Times", says the downing of the Russian jet, "was not -- and is not -- an act against a specific country. ... While the measures to defend our territory will remain in place, Turkey will work with Russia and our allies to calm tensions." ](/news/2015/11/28/a-day-after-turkey-s-president-recep-tayyip-erdoaan-had-harsh-words-for-russia-turkish-prime-minister-ahmet-davutoalu-in-an-essay-in-the.md)
@@ -33,7 +33,7 @@ The downing of an unidentified jet in Turkish airspace was not â€” and is not â€
 
 ##### South Korea
 ### [South Korea's Yonhap news agency reports North Korea appears to conduct a submarine-launched ballistic missile test that ended in failure with no indication that the missile successfully ejected from the vessel and took off. ](/news/2015/11/28/south-korea-s-yonhap-news-agency-reports-north-korea-appears-to-conduct-a-submarine-launched-ballistic-missile-test-that-ended-in-failure-wi.md)
-_Context: South Korea, North Korea, Yonhap, submarine-launched ballistic missile_
+_Context: North Korea, submarine-launched ballistic missile, South Korea, Yonhap_
 
 ##### European migrant crisis
 ### [Macedonia's Army begins erecting a metal fence on its southern border with Greece. Around 250 migrants later clash with Macedonian police on the border. ](/news/2015/11/28/macedonia-s-army-begins-erecting-a-metal-fence-on-its-southern-border-with-greece-around-250-migrants-later-clash-with-macedonian-police-on.md)

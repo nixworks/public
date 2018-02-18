@@ -17,7 +17,7 @@ _Context: sexting, Anthony Weiner sexting scandals, Anthony Weiner_
 
 ##### Corruption in Brazil
 ### [The Brazilian Supreme Federal Court releases a plea bargain testimony from JBS S.A., revealing that the company paid 500 million reais in bribes to politicians, including current President Michel Temer and his predecessors Dilma and Lula. ](/news/2017/05/19/the-brazilian-supreme-federal-court-releases-a-plea-bargain-testimony-from-jbs-s-a-revealing-that-the-company-paid-500-million-reais-in-br.md)
-_Context: Brazilian real, Michel Temer, Corruption in Brazil, JBS S.A., president, Supreme Court, Luiz Inacio Lula da Silva, Dilma Rousseff, plea bargain, Brazil_
+_Context: Corruption in Brazil, JBS S.A., Brazil, Michel Temer, plea bargain, Luiz Inacio Lula da Silva, president, Dilma Rousseff, Brazilian real, Supreme Court_
 
 ##### Re-elected
 ### [Voters in Iran go to the polls to elect the President of Iran. Final opinion polls continue to predict that the incumbent Hassan Rouhani of the Moderation and Development Party will receive a majority of votes, with the conservative Combatant Clergy Association's Ebrahim Raisi as his main competition. ](/news/2017/05/19/voters-in-iran-go-to-the-polls-to-elect-the-president-of-iran-final-opinion-polls-continue-to-predict-that-the-incumbent-hassan-rouhani-of.md)

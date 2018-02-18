@@ -5,15 +5,15 @@ Formats: [HTML](2009/05/4/index.html)  [JSON](2009/05/4/index.json)  [XML](2009/
 
 ##### South Korea
 ### [ A South Korean Navy destroyer rescues a North Korean cargo ship from Somali pirates. ](/news/2009/05/4/a-south-korean-navy-destroyer-rescues-a-north-korean-cargo-ship-from-somali-pirates.md)
-_Context: South Korean Navy, Somali pirates, Somalia, North Korea, South Korea, cargo ship, destroyer_
+_Context: South Korean Navy, cargo ship, North Korea, Somali pirates, destroyer, Somalia, South Korea_
 
 ##### Bus
 ### [ A bus collides with a building in Ilam Province, Iran, killing 28 people and injuring nine others. ](/news/2009/05/4/a-bus-collides-with-a-building-in-aalam-province-iran-killing-28-people-and-injuring-nine-others.md)
-_Context: building, Iran, Ilam, bus_
+_Context: building, Ilam, bus, Iran_
 
 ##### Kill
 ### [ At least eight gunmen kill 44 people at a wedding in Mardin Province, Turkey. ](/news/2009/05/4/at-least-eight-gunmen-kill-44-people-at-a-wedding-in-mardin-province-turkey.md)
-_Context: Turkey, Mardin Province, kill, wedding_
+_Context: Mardin Province, wedding, kill, Turkey_
 
 ## [Previous Day...](/news/2009/05/3/index.md)
 

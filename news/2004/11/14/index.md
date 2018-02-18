@@ -5,27 +5,27 @@ Formats: [HTML](2004/11/14/index.html)  [JSON](2004/11/14/index.json)  [XML](200
 
 ##### Iran
 ### [ Iran has agreed to curb most of its uranium enrichment with three EU countries, France, Germany and the UK. ](/news/2004/11/14/iran-has-agreed-to-curb-most-of-its-uranium-enrichment-with-three-eu-countries-france-germany-and-the-uk.md)
-_Context: Iran, uranium enrichment, European Union_
+_Context: European Union, Iran, uranium enrichment_
 
 ##### Political party
 ### [ The Belgian political party Vlaams Blok changes its name to Vlaams Belang ("Flemish Interest") after being banned for being racist. ](/news/2004/11/14/the-belgian-political-party-vlaams-blok-changes-its-name-to-vlaams-belang-flemish-interest-after-being-banned-for-being-racist.md)
-_Context: political party, Vlaams Blok, Vlaams Belang_
+_Context: Vlaams Blok, political party, Vlaams Belang_
 
 ##### Basque
 ### [ The Basque separatist party Batasuna calls for talks with a view to ending armed conflict in Spain. ](/news/2004/11/14/the-basque-separatist-party-batasuna-calls-for-talks-with-a-view-to-ending-armed-conflict-in-spain.md)
-_Context: Batasuna, Basque_
+_Context: Basque, Batasuna_
 
 ##### Shipwreck
 ### [ Fierce storms cause three shipwrecks off Algiers. At least one sailor has been killed and 18 are missing. ](/news/2004/11/14/fierce-storms-cause-three-shipwrecks-off-algiers-at-least-one-sailor-has-been-killed-and-18-are-missing.md)
-_Context: shipwreck, Algiers_
+_Context: Algiers, shipwreck_
 
 ##### Uganda
 ### [ Ugandan President Yoweri Museveni declares a week-long truce with the Lord's Resistance Army starting Monday. ](/news/2004/11/14/ugandan-president-yoweri-museveni-declares-a-week-long-truce-with-the-lord-s-resistance-army-starting-monday.md)
-_Context: Lord's Resistance Army, Yoweri Museveni, Uganda_
+_Context: Lord's Resistance Army, Uganda, Yoweri Museveni_
 
 ##### BBC
 ### [ The BBC based on a water test of one well claims thousands in India still face a risk of poisoning after the Union Carbide Bhopal disaster 20 years ago that killed at least 4000 people. ](/news/2004/11/14/the-bbc-based-on-a-water-test-of-one-well-claims-thousands-in-india-still-face-a-risk-of-poisoning-after-the-union-carbide-bhopal-disaster.md)
-_Context: Union Carbide, BBC, poison, Bhopal disaster_
+_Context: BBC, Bhopal disaster, Union Carbide, poison_
 
 ##### Iyad Allawi
 ### [ Kidnappers release two female relatives of Iraqi interim Prime Minister Iyad Allawi. ](/news/2004/11/14/kidnappers-release-two-female-relatives-of-iraqi-interim-prime-minister-iyad-allawi.md)
@@ -45,11 +45,11 @@ _Context: Shoichi Nakagawa, Senkaku Islands_
 
 ##### Elections
 ### [ Elections to choose the successor to Yasser Arafat are to be held on 9 January 2005, Palestine Authority interim President Rawhi Fattuh announced today. ](/news/2004/11/14/elections-to-choose-the-successor-to-yasser-arafat-are-to-be-held-on-9-january-2005-palestine-authority-interim-president-rawhi-fattuh-ann.md)
-_Context: Palestine Authority, Elections, Yasser Arafat, Rawhi Fattuh_
+_Context: Rawhi Fattuh, Palestine Authority, Elections, Yasser Arafat_
 
 ##### Atlantis
 ### [ Researchers claim to have found a site that may be a candidate for the lost city of Atlantis on the bottom of the east Mediterranean, 80 kilometers southeast of Cyprus. The Cypriot government disputes the claim, saying more evidence is needed. ](/news/2004/11/14/researchers-claim-to-have-found-a-site-that-may-be-a-candidate-for-the-lost-city-of-atlantis-on-the-bottom-of-the-east-mediterranean-80-ki.md)
-_Context: Atlantis, Cypriot_
+_Context: Cypriot, Atlantis_
 
 ## [Previous Day...](/news/2004/11/13/index.md)
 

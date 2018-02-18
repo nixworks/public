@@ -5,7 +5,7 @@ Formats: [HTML](2014/10/27/index.html)  [JSON](2014/10/27/index.json)  [XML](201
 
 ##### Cholera
 ### [An outbreak of cholera kills 51 in Niger. ](/news/2014/10/27/an-outbreak-of-cholera-kills-51-in-niger.md)
-_Context: Niger, cholera_
+_Context: cholera, Niger_
 
 ##### 
 ### [Spanish police arrest 51 people in an anti-corruption crackdown. ](/news/2014/10/27/spanish-police-arrest-51-people-in-an-anti-corruption-crackdown.md)

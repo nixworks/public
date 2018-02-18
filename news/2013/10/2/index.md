@@ -9,7 +9,7 @@ Unidentified militants shot down a military helicopter in northern Iraq on Wedne
 
 ##### Libya
 ### [The Russian embassy in Libya's capital Tripoli came under fire after an attempted attack by gunmen who tried to force their way into the compound. One of the attackers was killed and four others were injured according to Libyan authorities. ](/news/2013/10/2/the-russian-embassy-in-libya-s-capital-tripoli-came-under-fire-after-an-attempted-attack-by-gunmen-who-tried-to-force-their-way-into-the-com.md)
-_Context: Libya, Tripoli_
+_Context: Tripoli, Libya_
 
 ##### Tom Clancy
 ### [American author Tom Clancy, best known for his military thriller novels, dies at the age of 66. ](/news/2013/10/2/american-author-tom-clancy-best-known-for-his-military-thriller-novels-dies-at-the-age-of-66.md)

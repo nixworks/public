@@ -25,31 +25,31 @@ Police fire warning shots as thousands rally in capital against nationwide shutd
 
 ##### Rift Valley Fever
 ### [The death toll from Rift Valley Fever (RVF) in South Africa has risen to 17. ](/news/2010/05/7/the-death-toll-from-rift-valley-fever-rvf-in-south-africa-has-risen-to-17.md)
-_Context: Rift Valley Fever, South Africa_
+_Context: South Africa, Rift Valley Fever_
 
 ##### Lithuania
 ### [An appeals court in Lithuania overturns a ruling which had earlier, due to fears over homophobic violence, prevented the country's first gay pride parade going ahead in Vilnius tomorrow. ](/news/2010/05/7/an-appeals-court-in-lithuania-overturns-a-ruling-which-had-earlier-due-to-fears-over-homophobic-violence-prevented-the-country-s-first-gay.md)
-_Context: anti-gay, gay pride, Lithuania, Vilnius_
+_Context: Lithuania, Vilnius, anti-gay, gay pride_
 
 ##### Nigeria
 ### [Lobbying for the role of Nigeria's new vice-president begins after Goodluck Jonathan's inauguration and Umaru Yar'Adua's death. ](/news/2010/05/7/lobbying-for-the-role-of-nigeria-s-new-vice-president-begins-after-goodluck-jonathan-s-inauguration-and-umaru-yar-adua-s-death.md)
-_Context: Goodluck Jonathan, Umaru Yar'Adua, Nigeria_
+_Context: Umaru Yar'Adua, Goodluck Jonathan, Nigeria_
 
 ##### Gunbattle
 ### [5 insurgents and 2 soldiers die in a "'gunbattle"' between Islamic rebels and Indian security forces in Kashmir. ](/news/2010/05/7/5-insurgents-and-2-soldiers-die-in-a-gunbattle-between-islamic-rebels-and-indian-security-forces-in-kashmir.md)
-_Context: gunbattle, India, Islam, Kashmir_
+_Context: India, Kashmir, gunbattle, Islam_
 
 ##### Dembia
 ### [2 die and 2 are wounded in an attack on an aid vehicle near the village of Dembia in the Central African Republic. ](/news/2010/05/7/2-die-and-2-are-wounded-in-an-attack-on-an-aid-vehicle-near-the-village-of-dembia-in-the-central-african-republic.md)
-_Context: Central African Republic, Dembia_
+_Context: Dembia, Central African Republic_
 
 ##### Egypt
 ### [2 Egyptian peacekeepers are killed and 3 are injured by gunmen near Edd al-Fursan, South Darfur. ](/news/2010/05/7/2-egyptian-peacekeepers-are-killed-and-3-are-injured-by-gunmen-near-edd-al-fursan-south-darfur.md)
-_Context: Edd al-Fursan, Egypt, South Darfur_
+_Context: Edd al-Fursan, South Darfur, Egypt_
 
 ##### Confederation of African Football
 ### [Confederation of African Football (CAF) president Issa Hayatou asks his executive committee to lift sanctions imposed on the Togo national football team following an attack on their team bus ahead of the 2010 Africa Cup of Nations in Angola. ](/news/2010/05/7/confederation-of-african-football-caf-president-issa-hayatou-asks-his-executive-committee-to-lift-sanctions-imposed-on-the-togo-national-f.md)
-_Context: Angola, Togo national football team attack, 2010 Africa Cup of Nations, Togo national football team, Issa Hayatou, Confederation of African Football_
+_Context: Togo national football team attack, 2010 Africa Cup of Nations, Confederation of African Football, Issa Hayatou, Togo national football team, Angola_
 
 ##### National League for Democracy
 ### [A faction of the National League for Democracy in Burma forms its own political party to compete in elections, one day after the party disbanded. ](/news/2010/05/7/a-faction-of-the-national-league-for-democracy-in-burma-forms-its-own-political-party-to-compete-in-elections-one-day-after-the-party-disba.md)
@@ -57,7 +57,7 @@ _Context: Burma, National League for Democracy_
 
 ##### Sierra Leone
 ### [The head of Sierra Leone's Anti-Corruption Commission, Abdul Tejan-Cole, resigns. ](/news/2010/05/7/the-head-of-sierra-leone-s-anti-corruption-commission-abdul-tejan-cole-resigns.md)
-_Context: Sierra Leone, Abdul Tejan-Cole_
+_Context: Abdul Tejan-Cole, Sierra Leone_
 
 ##### 
 ### [Flights take to the skies again in Ireland following recent Icelandic volcanic disruption. ](/news/2010/05/7/flights-take-to-the-skies-again-in-ireland-following-recent-icelandic-volcanic-disruption.md)

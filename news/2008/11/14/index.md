@@ -5,11 +5,11 @@ Formats: [HTML](2008/11/14/index.html)  [JSON](2008/11/14/index.json)  [XML](200
 
 ##### Nice
 ### [ At a summit in Nice, France, the European Union and Russia agree to refrain from deploying missiles or missile defense systems at least before mid-2009, when a pan-European security framework is discussed between Russia, the United States and the EU. ](/news/2008/11/14/at-a-summit-in-nice-france-the-european-union-and-russia-agree-to-refrain-from-deploying-missiles-or-missile-defense-systems-at-least-bef.md)
-_Context: missile, European Union, Russia, France, United States, missile defense, Nice_
+_Context: European Union, United States, missile defense, missile, Russia, Nice, France_
 
 ##### General
 ### [ General Ann E. Dunwoody becomes the first female four-star general in the history of the United States Army. ](/news/2008/11/14/general-ann-e-dunwoody-becomes-the-first-female-four-star-general-in-the-history-of-the-united-states-army.md)
-_Context: Ann E. Dunwoody, United States soldier, first female four-star general, General_
+_Context: United States soldier, first female four-star general, Ann E. Dunwoody, General_
 
 ##### Italy
 ### [ An Italian court convicts 16 and acquits 13 police officers of beating protesters at the 2001 G8 summit in Genoa.](/news/2008/11/14/an-italian-court-convicts-16-and-acquits-13-police-officers-of-beating-protesters-at-the-2001-g8-summit-in-genoa.md)
@@ -29,7 +29,7 @@ As a wildfire that devastated the wealthy enclave of Montecito settled down late
 
 ##### Wake turbulence
 ### [ An investigation concludes that wake turbulence is the most likely cause of the November 4, 2008, airplane crash in Mexico City that killed, among others, Secretary of the Interior Juan Camilo Mourio and Jos Luis Santiago Vasconcelos. ](/news/2008/11/14/an-investigation-concludes-that-wake-turbulence-is-the-most-likely-cause-of-the-november-4-2008-airplane-crash-in-mexico-city-that-killed.md)
-_Context: Secretary of the Interior, Juan Camilo Mourio, wake turbulence, Mexico City, November 4, 2008, airplane crash, Jos Luis Santiago Vasconcelos_
+_Context: Jos Luis Santiago Vasconcelos, Mexico City, Mexico's Secretary of the Interior, Juan Camilo Mourio, November 4, 2008, airplane crash, wake turbulence_
 
 ## [Previous Day...](/news/2008/11/13/index.md)
 

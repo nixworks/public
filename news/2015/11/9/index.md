@@ -13,7 +13,7 @@ N&#x27;Djamena (AFP) - Chad&#x27;s government Monday decreed a state of emergenc
 
 ##### Syrian Civil War
 ### [Using social media, Russian investigative bloggers from the Conflict Intelligence Team photo-geolocate three Russian military personnel outside expected air support operations areas -- evidence of what the group says may be a broader Russian military role in Syria. ](/news/2015/11/9/using-social-media-russian-investigative-bloggers-from-the-conflict-intelligence-team-photo-geolocate-three-russian-military-personnel-outs.md)
-_Context: air support, photo-geolocate, Syrian Civil War, blogger, Russian military, social media, Russia, Russian military intervention in the Syrian Civil War, Syria_
+_Context: Syrian Civil War, photo-geolocate, Russia, Russian military, Syria, blogger, social media, Russian military intervention in the Syrian Civil War, air support_
 
 ##### 2015 University of Missouri protests
 ### [In the U.S., after mounting criticism over his handling of racial issues, University of Missouri System president Tim Wolfe announces his resignation; the Board of Curators votes to accept his resignation. R. Bowen Loftin, chancellor of the flagship Columbia campus, announces he will step down from his post by the end of the year. ](/news/2015/11/9/in-the-u-s-after-mounting-criticism-over-his-handling-of-racial-issues-university-of-missouri-system-president-tim-wolfe-announces-his-re.md)
@@ -37,7 +37,7 @@ Slovenian government said Monday it would take urgent measures to strengthen con
 
 ##### Syrian Civil War
 ### [Human Rights Watch releases a report finding, because of a language barrier, integration issues, and financial difficulties, more than 400,000 Syrian refugee children in Turkey are not able to attend school despite the Turkish government allowing them access to the Turkish schooling system. ](/news/2015/11/9/human-rights-watch-releases-a-report-finding-because-of-a-language-barrier-integration-issues-and-financial-difficulties-more-than-400-0.md)
-_Context: Human Rights Watch, Syria, Turkey, Turkish schooling system, Syrian Civil War, Politics of Turkey_
+_Context: Turkish schooling system, Turkey, Human Rights Watch, Politics of Turkey, Syria, Syrian Civil War_
 
 ##### Australia
 ### [Detainees at Australia's Christmas Island Immigration Reception and Processing Centre riot, following the death of an asylum seeker. ](/news/2015/11/9/detainees-at-australia-s-christmas-island-immigration-reception-and-processing-centre-riot-following-the-death-of-an-asylum-seeker.md)
@@ -57,11 +57,11 @@ The 2-to-1 ruling from the New Orleans court sets stage for possible Supreme Cou
 
 ##### Catalan Parliament
 ### [The Catalan Parliament passes a resolution calling for the Catalonian region to secede from Spain. Spanish prime minister Mariano Rajoy says his government will seek to invalidate the motion with an appeal to the Constitutional Court in the coming days. ](/news/2015/11/9/the-catalan-parliament-passes-a-resolution-calling-for-the-catalonian-region-to-secede-from-spain-spanish-prime-minister-mariano-rajoy-says.md)
-_Context: Catalan Parliament, Mariano Rajoy, Constitutional Court, Catalonia, Prime Minister, Spain, secede_
+_Context: Catalonia, Spain, Mariano Rajoy, Constitutional Court, Catalan Parliament, secede, Prime Minister_
 
 ##### Myanmar general election, 2015
 ### [Myanmar's ruling Union Solidarity and Development Party (USDP) concedes defeat in Sunday's first free nationwide election in a quarter of a century. Aung San Suu Kyi's National League for Democracy (NLD), which has won 49 of the first 54 declared seats for the 330-seat lower house, appears headed for a landslide victory that would ensure it forms the next government. ](/news/2015/11/9/myanmar-s-ruling-union-solidarity-and-development-party-usdp-concedes-defeat-in-sunday-s-first-free-nationwide-election-in-a-quarter-of-a.md)
-_Context: Union Solidarity and Development Party, Myanmar general election, 2015, National League for Democracy, Aung San Suu Kyi_
+_Context: Myanmar general election, 2015, Aung San Suu Kyi, Union Solidarity and Development Party, National League for Democracy_
 
 ##### United Kingdom House of Commons
 ### [The United Kingdom House of Commons passes the Scotland Bill devolving powers to Scotland. ](/news/2015/11/9/the-united-kingdom-house-of-commons-passes-the-scotland-bill-devolving-powers-to-scotland.md)

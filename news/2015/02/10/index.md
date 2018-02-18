@@ -13,7 +13,7 @@ Calling the destructive cyberattack on Sony Pictures &quot;a game changer,&quot;
 
 ##### ISIL
 ### [The United States confirms the death of ISIL hostage Kayla Mueller. ](/news/2015/02/10/the-united-states-confirms-the-death-of-isil-hostage-kayla-mueller.md)
-_Context: ISIL, Kayla Mueller, United States_
+_Context: ISIL, United States, Kayla Mueller_
 
 ##### NBC Nightly News
 ### ["NBC Nightly News" suspends American newsreader Brian Williams from broadcasting for six months for exaggerating a story about his personal experiences on a helicopter during the 2003 invasion of Iraq. ](/news/2015/02/10/nbc-nightly-news-suspends-american-newsreader-brian-williams-from-broadcasting-for-six-months-for-exaggerating-a-story-about-his-personal.md)
@@ -21,7 +21,7 @@ _Context: 2003 invasion of Iraq, NBC Nightly News, Brian Williams, helicopter_
 
 ##### Jon Stewart
 ### [American comedian and satirist Jon Stewart, host of Comedy Central's "The Daily Show", announces his departure from the show, which is due to take place at the end of the year. ](/news/2015/02/10/american-comedian-and-satirist-jon-stewart-host-of-comedy-central-s-the-daily-show-announces-his-departure-from-the-show-which-is-due-t.md)
-_Context: The Daily Show, Jon Stewart, Comedy Central_
+_Context: Comedy Central, The Daily Show, Jon Stewart_
 
 ##### European Broadcasting Union
 ### [The European Broadcasting Union announces that Australia will participate in the Eurovision Song Contest for the first time in Vienna 2015; it will be the first country ever outside of the European Broadcasting Area, as well as the first associated member of the EBU, to participate ](/news/2015/02/10/the-european-broadcasting-union-announces-that-australia-will-participate-in-the-eurovision-song-contest-for-the-first-time-in-vienna-2015.md)
@@ -29,19 +29,19 @@ Australia will participate in Eurovision 2015! Read all the latest news about Eu
 
 ##### Apple, Inc.
 ### [Apple, Inc. becomes the first company in the world to close with a market capitalization over $700 billion. ](/news/2015/02/10/apple-inc-becomes-the-first-company-in-the-world-to-close-with-a-market-capitalization-over-700-billion.md)
-_Context: Apple, Inc., market capitalization, $_
+_Context: market capitalization, $, Apple, Inc._
 
 ##### Wang Yu-chi
 ### [Wang Yu-chi resigns as Taiwan's Minister of the Mainland Affairs Council responsible for maintaining relations with the People's Republic of China. ](/news/2015/02/10/wang-yu-chi-resigns-as-taiwan-s-minister-of-the-mainland-affairs-council-responsible-for-maintaining-relations-with-the-people-s-republic-of.md)
-_Context: Taiwan, Wang Yu-chi, China, Mainland Affairs Council_
+_Context: Wang Yu-chi, Taiwan, China, Mainland Affairs Council_
 
 ##### Federal Court of Malaysia
 ### [The Federal Court of Malaysia rejects opposition leader Anwar Ibrahim's appeal against sodomy charges meaning he will start serving a five-year sentence. ](/news/2015/02/10/the-federal-court-of-malaysia-rejects-opposition-leader-anwar-ibrahim-s-appeal-against-sodomy-charges-meaning-he-will-start-serving-a-five-y.md)
-_Context: Federal Court of Malaysia, Anwar Ibrahim, sodomy_
+_Context: Anwar Ibrahim, Federal Court of Malaysia, sodomy_
 
 ##### Manhattan District Attorney
 ### [Manhattan District Attorney Cyrus R. Vance Jr. states that a 50-person bribery case involves New York City inspectors, landlords, and contractors with payoffs to get safety violations dismissed and procure phony eviction orders. ](/news/2015/02/10/manhattan-district-attorney-cyrus-r-vance-jr-states-that-a-50-person-bribery-case-involves-new-york-city-inspectors-landlords-and-contra.md)
-_Context: Manhattan District Attorney, Cyrus R. Vance Jr., New York City_
+_Context: Cyrus R. Vance Jr., New York City, Manhattan District Attorney_
 
 ##### Delhi Legislative Assembly election
 ### [The February 7 Delhi Legislative Assembly election results in the Aam Aadmi Party leading in 63 out of 70 seats. ](/news/2015/02/10/the-february-7-delhi-legislative-assembly-election-results-in-the-aam-aadmi-party-leading-in-63-out-of-70-seats.md)

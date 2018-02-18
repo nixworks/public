@@ -5,11 +5,11 @@ Formats: [HTML](2016/12/25/index.html)  [JSON](2016/12/25/index.json)  [XML](201
 
 ##### Pope Francis
 ### [Pope Francis pleads for peace in a Christmas Mass in the Vatican. ](/news/2016/12/25/pope-francis-pleads-for-peace-in-a-christmas-mass-in-the-vatican.md)
-_Context: Vatican City, peace, Pope Francis, Christmas, Mass_
+_Context: Mass, Pope Francis, Vatican City, peace, Christmas_
 
 ##### Bezeq
 ### [Bezeq, an Israeli telecoms company, says that it has received word from the country's telecoms regulator that it will be allowed to end the "structural separation" of its business operations by product (i.e. mobile phone, internet, land lines). ](/news/2016/12/25/bezeq-an-israeli-telecoms-company-says-that-it-has-received-word-from-the-country-s-telecoms-regulator-that-it-will-be-allowed-to-end-the.md)
-_Context: Israel, Bezeq_
+_Context: Bezeq, Israel_
 
 ##### 2016 Chiloe earthquake
 ### [A magnitude 7.7 earthquake in Chile spurs tsunami warnings. ](/news/2016/12/25/a-magnitude-7-7-earthquake-in-chile-spurs-tsunami-warnings.md)
@@ -33,7 +33,7 @@ Pregnancy can sculpt a mother’s brain in a way that may help her tune in to he
 
 ##### Afghan
 ### [Afghanistan's first female Air Force pilot Niloofar Rahmani files for asylum in the United States. ](/news/2016/12/25/afghanistan-s-first-female-air-force-pilot-niloofar-rahmani-files-for-asylum-in-the-united-states.md)
-_Context: Air Force, Afghan, Niloofar Rahmani, asylum, United States_
+_Context: asylum, Afghan, United States, Niloofar Rahmani, Air Force_
 
 ##### Pakistan
 ### [Pakistan releases Indian fishermen caught in its territory as a gesture of goodwill. ](/news/2016/12/25/pakistan-releases-indian-fishermen-caught-in-its-territory-as-a-gesture-of-goodwill.md)
@@ -41,7 +41,7 @@ Pakistan has released 220 Indian fishermen detained for crossing into its territ
 
 ##### 2016 Turkish purges
 ### [Turkey probes around 10,000 social media users for allegedly insulting government officials or supporting "terror-related activity." ](/news/2016/12/25/turkey-probes-around-10-000-social-media-users-for-allegedly-insulting-government-officials-or-supporting-terror-related-activity.md)
-_Context: social media, Turkey, terrorism, 2016 Turkish purges_
+_Context: Turkey, terrorism, 2016 Turkish purges, social media_
 
 ##### Al Jazeera
 ### [A producer of Al Jazeera is arrested in Egypt. ](/news/2016/12/25/a-producer-of-al-jazeera-is-arrested-in-egypt.md)

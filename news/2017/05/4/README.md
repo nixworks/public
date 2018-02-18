@@ -5,7 +5,7 @@ Formats: [HTML](2017/05/4/index.html)  [JSON](2017/05/4/index.json)  [XML](2017/
 
 ##### Ongoing protests
 ### [A student is killed amid gunfire in El Tigre, raising the death toll in protests against Nicolas Maduro's government to at least 37 in the past month. ](/news/2017/05/4/a-student-is-killed-amid-gunfire-in-el-tigre-raising-the-death-toll-in-protests-against-nicola-s-maduro-s-government-to-at-least-37-in-the.md)
-_Context: El Tigre, in the past month, Venezuelan government, Nicolas Maduro, ongoing protests_
+_Context: ongoing protests, Nicolas Maduro, in the past month, Venezuelan government, El Tigre_
 
 ##### Buckingham Palace
 ### [Buckingham Palace announces that 95-year-old Prince Philip, Duke of Edinburgh, the Prince consort of Queen Elizabeth II, will retire from royal duties in August. ](/news/2017/05/4/buckingham-palace-announces-that-95-year-old-prince-philip-duke-of-edinburgh-the-prince-consort-of-queen-elizabeth-ii-will-retire-from-ro.md)
@@ -21,7 +21,7 @@ Rome -- The Vatican establishes full relations with Myanmar for the first time a
 
 ##### Memorandum
 ### [A memorandum is signed by Russia, Iran, and Turkey calling for de-escalation of the Syrian Civil War, although neither the Syrian government nor the Syrian opposition are signatories. ](/news/2017/05/4/a-memorandum-is-signed-by-russia-iran-and-turkey-calling-for-de-escalation-of-the-syrian-civil-war-although-neither-the-syrian-government.md)
-_Context: Iran, Syria, Turkey, memorandum, Syrian opposition, Syrian Civil War, Russia, de-escalation_
+_Context: memorandum, Syrian Civil War, Turkey, de-escalation, Russia, Syrian opposition, Iran, Syria_
 
 ##### United Kingdom local elections, 2017
 ### [The British people vote locally. ](/news/2017/05/4/the-british-people-vote-locally.md)

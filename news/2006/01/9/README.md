@@ -5,7 +5,7 @@ Formats: [HTML](2006/01/9/index.html)  [JSON](2006/01/9/index.json)  [XML](2006/
 
 ##### General
 ### [ General Sir Michael Rose, former United Nations commander in Bosnia, has told the BBC that British Prime Minister Tony Blair should be "impeached" over the war in Iraq. ](/news/2006/01/9/general-sir-michael-rose-former-united-nations-commander-in-bosnia-has-told-the-bbc-that-british-prime-minister-tony-blair-should-be-imp.md)
-_Context: impeached, commander, General, Prime Minister, BBC, United Nations, Tony Blair, war in Iraq, Sir Michael Rose, Bosnia and Herzegovina_
+_Context: commander, United Nations, BBC, impeached, Sir Michael Rose, Prime Minister, General, Bosnia and Herzegovina, Tony Blair, war in Iraq_
 
 ##### Ahmad Kazemi
 ### [ Ahmad Kazemi, the top commander of Iran's Revolutionary Guards ground forces, and ten others have been reportedly killed when their plane crashed in northwestern Iran. ](/news/2006/01/9/ahmad-kazemi-the-top-commander-of-iran-s-revolutionary-guards-ground-forces-and-ten-others-have-been-reportedly-killed-when-their-plane-c.md)
@@ -17,7 +17,7 @@ _Context: Islamic Revolutionary Guards Corps, Iran, Ahmad Kazemi_
 
 ##### Vice President
 ### [ U.S. Vice President Dick Cheney was hospitalized when he complained of breathing trouble. He was later released from the hospital. ](/news/2006/01/9/u-s-vice-president-dick-cheney-was-hospitalized-when-he-complained-of-breathing-trouble-he-was-later-released-from-the-hospital.md)
-_Context: Dick Cheney, Vice President_
+_Context: Vice President, Dick Cheney_
 
 ## [Previous Day...](/news/2006/01/8/index.md)
 

@@ -13,11 +13,11 @@ _Context: United States_
 
 ##### India
 ### [ India's government locks down Srinagar, Kashmir, to prevent anti-election protests. ](/news/2009/04/29/india-s-government-locks-down-srinagar-kashmir-to-prevent-anti-election-protests.md)
-_Context: becomes, Government of India, India, protest, Srinagar, locks down, Kashmir_
+_Context: Kashmir, locks down, India, Government of India, becomes, protest, Srinagar_
 
 ##### Australia
 ### [ Australia announces the deployment of 450 additional soldiers to the Afghanistan War. ](/news/2009/04/29/australia-announces-the-deployment-of-450-additional-soldiers-to-the-afghanistan-war.md)
-_Context: Defence Force, Afghan, War in Afghanistan (2001-present), Australia, deployment_
+_Context: deployment, Afghan, Defence Force, War in Afghanistan (2001-present), Australia_
 
 ##### Military
 ### [ The Armed Forces kill more than 50 Taliban militants while capturing Daggar, Buner Valley. ](/news/2009/04/29/the-armed-forces-kill-more-than-50-taliban-militants-while-capturing-daggar-buner-valley.md)
@@ -25,7 +25,7 @@ Pakistani troops took the main town in strategically important Buner Valley on W
 
 ##### Truth and Reconciliation Commission
 ### [ The Truth and Reconciliation Commission of the Solomon Islands is officially opened. ](/news/2009/04/29/the-truth-and-reconciliation-commission-of-the-solomon-islands-is-officially-opened.md)
-_Context: Truth and Reconciliation Commission, Solomon Islands_
+_Context: Solomon Islands, Truth and Reconciliation Commission_
 
 ## [Previous Day...](/news/2009/04/28/index.md)
 

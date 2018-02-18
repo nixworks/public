@@ -9,7 +9,7 @@ The Japanese government says its economy has grown for the first time in over a 
 
 ##### Charsadda
 ### [ A bomb explodes on a truck at a fuel station in Charsadda, North-West Frontier Province, Pakistan (20 km from Peshawar), killing seven people. ](/news/2009/08/17/a-bomb-explodes-on-a-truck-at-a-fuel-station-in-charsadda-north-west-frontier-province-pakistan-20-km-from-peshawar-killing-seven-peop.md)
-_Context: Charsadda, Peshawar, Pakistan, Northwestern Pakistan_
+_Context: Pakistan, Northwestern Pakistan, Charsadda, Peshawar_
 
 ##### Explodes a truck
 ### [ A suicide bomber explodes a truck at a police station in Nazran in Russia's North Caucasus, killing at least 20 people and wounding about 60 others. ](/news/2009/08/17/a-suicide-bomber-explodes-a-truck-at-a-police-station-in-nazran-in-russia-s-north-caucasus-killing-at-least-20-people-and-wounding-about-6.md)

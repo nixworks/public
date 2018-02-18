@@ -5,7 +5,7 @@ Formats: [HTML](2015/10/1/index.html)  [JSON](2015/10/1/index.json)  [XML](2015/
 
 ##### Gaza-Israel conflict
 ### [In retaliation for the rocket fired on the Israeli city of Ashdod, the Israeli Air Force carries out airstrikes on suspected Hamas positions in Gaza. No casualties are reported. ](/news/2015/10/1/in-retaliation-for-the-rocket-fired-on-the-israeli-city-of-ashdod-the-israeli-air-force-carries-out-airstrikes-on-suspected-hamas-positions.md)
-_Context: Israeli Air Force, Gaza Strip, Hamas, Ashdod, Gaza-Israel conflict_
+_Context: Hamas, Israeli Air Force, Gaza-Israel conflict, Gaza Strip, Ashdod_
 
 ##### War in Afghanistan (2015-present)
 ### [The government of Afghanistan claims to have recaptured the city of Kunduz. ](/news/2015/10/1/the-government-of-afghanistan-claims-to-have-recaptured-the-city-of-kunduz.md)
@@ -17,7 +17,7 @@ Russian jets bomb rebel positions in Syria including rural areas near the north-
 
 ##### Turkey-PKK conflict
 ### [Four Turkish soldiers are killed in PKK attacks across southeastern Turkey. Turkish authorities impose a curfew in the city of Mardin due to escalating violence. ](/news/2015/10/1/four-turkish-soldiers-are-killed-in-pkk-attacks-across-southeastern-turkey-turkish-authorities-impose-a-curfew-in-the-city-of-mardin-due-to.md)
-_Context: Turkey, Turkey-PKK conflict, Mardin, PKK, 2015 PKK rebellion, curfew_
+_Context: Turkey, PKK, curfew, Turkey-PKK conflict, 2015 PKK rebellion, Mardin_
 
 ##### Chinese
 ### [Chinese authorities arrest a suspect in yesterday's 17 Liucheng County mail bomb explosions that killed at least seven people and wounded more than 50. The suspect is identified as 33-year-old quarry-worker, Wei Yinyong, from Dapu township also in Guangxi Province. There is another explosion this morning. While it's not clear if it is connected, authorities reportedly located 60 packages yesterday which were being examined by a bomb squad. ](/news/2015/10/1/chinese-authorities-arrest-a-suspect-in-yesterday-s-17-liucheng-county-mail-bomb-explosions-that-killed-at-least-seven-people-and-wounded-mo.md)
@@ -41,7 +41,7 @@ Five children were behind a series of deadly explosions in the north-eastern Nig
 
 ##### UAW
 ### [The UAW at Fiat Chrysler Automobiles reject a four-year contract, setting the stage for at least localized strikes against the automaker.](/news/2015/10/1/the-uaw-at-fiat-chrysler-automobiles-reject-a-four-year-contract-setting-the-stage-for-at-least-localized-strikes-against-the-automaker.md)
-_Context: UAW, Fiat Chrysler_
+_Context: Fiat Chrysler, UAW_
 
 ##### 2015 Atlantic hurricane season
 ### [Hurricane Joaquin becomes a Category 4 hurricane with maximum sustained winds of 130 mph. Some additional strengthening is possible tomorrow. The storm, moving at just 6 mph, is predicted to drop 10 to 15 inches of rain in the central Bahamas with up to five inches expected for the rest of the archipelago. ](/news/2015/10/1/hurricane-joaquin-becomes-a-category-4-hurricane-with-maximum-sustained-winds-of-130-mph-some-additional-strengthening-is-possible-tomorrow.md)

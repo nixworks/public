@@ -9,7 +9,7 @@ Syrian military appears to confirm media reports of attack on research centre ne
 
 ##### Education in the United States
 ### [Saturday's ACT U.S. college entrance exam test is cancelled at some of its international test centers because of leaks of test materials. ](/news/2017/09/7/saturday-s-act-u-s-college-entrance-exam-test-is-cancelled-at-some-of-its-international-test-centers-because-of-leaks-of-test-materials.md)
-_Context: ACT, entrance exam test, Education in the United States_
+_Context: ACT, Education in the United States, entrance exam test_
 
 ##### Identity theft in the United States
 ### [More than 143 million people in the U.S. may have had their social security and driver's license numbers compromised due to a data breach on the credit rating firm Equifax. ](/news/2017/09/7/more-than-143-million-people-in-the-u-s-may-have-had-their-social-security-and-driver-s-license-numbers-compromised-due-to-a-data-breach-on.md)
@@ -49,7 +49,7 @@ She says the due-process rights of the accused need to be protected.
 
 ##### Executive Order 13780
 ### [The United States Court of Appeals for the Ninth Circuit rejects the Trump administration arguments regarding the travel ban on grandparents, cousins and others with a "bona fide" relationship in the United States. ](/news/2017/09/7/the-united-states-court-of-appeals-for-the-ninth-circuit-rejects-the-trump-administration-arguments-regarding-the-travel-ban-on-grandparents.md)
-_Context: Executive Order 13780, Trump administraion, bona fide, United States Court of Appeals for the Ninth Circuit_
+_Context: United States Court of Appeals for the Ninth Circuit, bona fide, Executive Order 13780, Trump administraion_
 
 ##### Secession
 ### [Spain plans to sue leading members of the Catalan Parliament over the proposed independence referendum in Catalonia. ](/news/2017/09/7/spain-plans-to-sue-leading-members-of-the-catalan-parliament-over-the-proposed-independence-referendum-in-catalonia.md)

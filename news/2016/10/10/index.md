@@ -21,7 +21,7 @@ UK-born Oliver Hart and Bengt Holmstrom of Finland have won the Nobel Economics 
 
 ##### Samsung
 ### [Samsung recalls and suspends production of its reformulated-version of Galaxy Note 7 smartphone due to the same persistent problem with battery fires and explosions. ](/news/2016/10/10/samsung-recalls-and-suspends-production-of-its-reformulated-version-of-galaxy-note-7-smartphone-due-to-the-same-persistent-problem-with-batt.md)
-_Context: Samsung, Galaxy Note 7_
+_Context: Galaxy Note 7, Samsung_
 
 ##### 2016 Atlantic hurricane season
 ### [The death toll in the United States from Hurricane Matthew rises to 27 with at least five people still missing in North Carolina. Governor Pat McCrory warns that the state's swollen rivers are still rising with flooding continuing to pose threats to life and property this week. The storm, downgraded to a post-tropical cyclone yesterday, moves away from the U.S. coastline on an east-northeast track. ](/news/2016/10/10/the-death-toll-in-the-united-states-from-hurricane-matthew-rises-to-27-with-at-least-five-people-still-missing-in-north-carolina-governor-p.md)

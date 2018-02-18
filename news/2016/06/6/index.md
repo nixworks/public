@@ -5,7 +5,7 @@ Formats: [HTML](2016/06/6/index.html)  [JSON](2016/06/6/index.json)  [XML](2016/
 
 ##### Jordanian intelligence
 ### [Five people working for Jordanian intelligence are killed in an attack in a Palestinian Baqa'a refugee camp near Amman. ](/news/2016/06/6/five-people-working-for-jordanian-intelligence-are-killed-in-an-attack-in-a-palestinian-baqa-a-refugee-camp-near-amman.md)
-_Context: Amman, Jordanian intelligence, Baqa'a refugee camp_
+_Context: Jordanian intelligence, Baqa'a refugee camp, Amman_
 
 ##### Australian east coast low
 ### [Three bodies have been discovered in flood waters: two in the state of New South Wales and one in the Australian Capital Territory. Two people are missing in Tasmania. ](/news/2016/06/6/three-bodies-have-been-discovered-in-flood-waters-two-in-the-state-of-new-south-wales-and-one-in-the-australian-capital-territory-two-peop.md)
@@ -33,11 +33,11 @@ _Context: Peruvian general election, 2016, Pedro Pablo Kuczynski, Peru, Keiko Fu
 
 ##### Haitian presidential election, 2015-16
 ### [Haiti will redo its presidential election after findings of widespread voter fraud in last years voting. Additional measures will be put in place for the first round in October this year. ](/news/2016/06/6/haiti-will-redo-its-presidential-election-after-findings-of-widespread-voter-fraud-in-last-years-voting-additional-measures-will-be-put-in.md)
-_Context: Haiti, Haitian presidential election, 2015-16_
+_Context: Haitian presidential election, 2015-16, Haiti_
 
 ##### Democratic Party presidential primaries, 2016
 ### [The Associated Press reports that Hillary Clinton has the support of enough delegates to secure the Democratic Party nomination. Since delegates do not vote until the convention though, she is the presumptive nominee of the party. ](/news/2016/06/6/the-associated-press-reports-that-hillary-clinton-has-the-support-of-enough-delegates-to-secure-the-democratic-party-nomination-since-deleg.md)
-_Context: presumptive nominee, Hillary Clinton, Associated Press, Democratic Party presidential primaries, 2016, Democrat_
+_Context: Hillary Clinton, presumptive nominee, Associated Press, Democratic Party presidential primaries, 2016, Democrat_
 
 ## [Previous Day...](/news/2016/06/5/index.md)
 

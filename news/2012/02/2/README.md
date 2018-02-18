@@ -5,7 +5,7 @@ Formats: [HTML](2012/02/2/index.html)  [JSON](2012/02/2/index.json)  [XML](2012/
 
 ##### Philippines
 ### [The Philippines military claim to have killed Abu Sayyaf leader Umbra Jumdail, Malaysian Zulkifli bin Hir, a leader of Jemaah Islamiyah, and Singaporean Abdullah Ali. ](/news/2012/02/2/the-philippines-military-claim-to-have-killed-abu-sayyaf-leader-umbra-jumdail-malaysian-zulkifli-bin-hir-a-leader-of-jemaah-islamiyah-and.md)
-_Context: Abu Sayyaf, Zulkifli bin Hir, Malaysian, Philippines, Jemaah Islamiyah, Umbra Jumdail_
+_Context: Zulkifli bin Hir, Abu Sayyaf, Malaysian, Philippines, Jemaah Islamiyah, Umbra Jumdail_
 
 ##### Yemen
 ### [Six kidnapped aid workers are released in Yemen. ](/news/2012/02/2/six-kidnapped-aid-workers-are-released-in-yemen.md)
@@ -37,15 +37,15 @@ Corruption charges against former West Australian Labor premier Brian Burke have
 
 ##### Supreme Court of India
 ### [The Supreme Court of India cancels 122 telecom licences granted in the 2008 sale at the centre of a corruption scandal involving former minister A. Raja. ](/news/2012/02/2/the-supreme-court-of-india-cancels-122-telecom-licences-granted-in-the-2008-sale-at-the-centre-of-a-corruption-scandal-involving-former-mini.md)
-_Context: A. Raja, telecom, Supreme Court of India_
+_Context: telecom, A. Raja, Supreme Court of India_
 
 ##### French-born
 ### [A French appeals court upholds a 2009 conviction of the Church of Scientology on fraud charges. ](/news/2012/02/2/a-french-appeals-court-upholds-a-2009-conviction-of-the-church-of-scientology-on-fraud-charges.md)
-_Context: Church of Scientology, fraud, French-born_
+_Context: French-born, fraud, Church of Scientology_
 
 ##### Egypt
 ### [Egyptian comedian Adel Emam is sentenced to three months in prison for insulting Islam. ](/news/2012/02/2/egyptian-comedian-adel-emam-is-sentenced-to-three-months-in-prison-for-insulting-islam.md)
-_Context: Adel Emam, insulting Islam, Egypt_
+_Context: insulting Islam, Egypt, Adel Emam_
 
 ##### Prime Minister of Egypt
 ### [The Prime Minister of Egypt Kamal Ganzouri calls an emergency Cabinet meeting to discuss the Port Said Stadium clashes which resulted in at least 74 deaths. ](/news/2012/02/2/the-prime-minister-of-egypt-kamal-ganzouri-calls-an-emergency-cabinet-meeting-to-discuss-the-port-said-stadium-clashes-which-resulted-in-at.md)

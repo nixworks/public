@@ -37,7 +37,7 @@ Alan Shatter&#39;s successor as Minister for Justice is expected to be announced
 
 ##### India
 ### [In India over 60 million people vote in 64 constituencies today across 7 states for 16th Lok Sabha. ](/news/2014/05/7/in-india-over-60-million-people-vote-in-64-constituencies-today-across-7-states-for-16th-lok-sabha.md)
-_Context: constituencies, state, election, India_
+_Context: state, India, election, constituencies_
 
 ##### Ganzhou
 ### [The "Pinocchio Rex" ("Qianzhousaurus sinensis") is discovered in Ganzhou, China. ](/news/2014/05/7/the-pinocchio-rex-qianzhousaurus-sinensis-is-discovered-in-ganzhou-china.md)

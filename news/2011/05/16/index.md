@@ -9,11 +9,11 @@ TTP spokesman denies carrying out attack, Saudi condemns &#039;criminal&#039; at
 
 ##### Israeli Navy
 ### [The Israeli Navy fires warning shots at a Malaysian ship travelling to the Gaza Strip, forcing it to return to Egypt. ](/news/2011/05/16/the-israeli-navy-fires-warning-shots-at-a-malaysian-ship-travelling-to-the-gaza-strip-forcing-it-to-return-to-egypt.md)
-_Context: Israeli Navy, Egypt, Malaysia, Gaza Strip_
+_Context: Israeli Navy, Gaza Strip, Egypt, Malaysia_
 
 ##### Syria
 ### [A Syrian activist claims that a mass grave has been found in the town of Deraa, the town at the centre of the 2011 Syrian uprising. ](/news/2011/05/16/a-syrian-activist-claims-that-a-mass-grave-has-been-found-in-the-town-of-deraa-the-town-at-the-centre-of-the-2011-syrian-uprising.md)
-_Context: 2011 Syrian uprising, Deraa, Syria_
+_Context: Deraa, 2011 Syrian uprising, Syria_
 
 ##### NATO
 ### [NATO forces find a small boat loaded with explosives outside the Libyan port of Misrata, with forces loyal to Muammar Gaddafi believed to be responsible. ](/news/2011/05/16/nato-forces-find-a-small-boat-loaded-with-explosives-outside-the-libyan-port-of-misrata-with-forces-loyal-to-muammar-gaddafi-believed-to-be.md)
@@ -29,7 +29,7 @@ A bomb threat for London has been issued by Irish dissidents - in what officials
 
 ##### Congregation for the Doctrine of the Faith
 ### [The Congregation for the Doctrine of the Faith in the Vatican tells Roman Catholics to cooperate with police in investigating alleged cases of sexual abuse by clergy. ](/news/2011/05/16/the-congregation-for-the-doctrine-of-the-faith-in-the-vatican-tells-roman-catholics-to-cooperate-with-police-in-investigating-alleged-cases.md)
-_Context: alleged cases of sexual abuse by clergy, Holy See, Roman Catholic, Congregation for the Doctrine of the Faith_
+_Context: alleged cases of sexual abuse by clergy, Holy See, Congregation for the Doctrine of the Faith, Roman Catholic_
 
 ##### Fox Broadcasting Company
 ### [The Fox TV network cancels "America's Most Wanted" after 23 years on the air and 1151 fugitives caught. ](/news/2011/05/16/the-fox-tv-network-cancels-america-s-most-wanted-after-23-years-on-the-air-and-1151-fugitives-caught.md)
@@ -45,7 +45,7 @@ European Union finance ministers cleared the way for Portugal to receive 78 bill
 
 ##### International Monetary Fund
 ### [The International Monetary Fund approves another US$2 billion loan to Ireland. ](/news/2011/05/16/the-international-monetary-fund-approves-another-us-2-billion-loan-to-ireland.md)
-_Context: International Monetary Fund, Ireland_
+_Context: Ireland, International Monetary Fund_
 
 ##### Nasdaq OMX Group
 ### [Nasdaq OMX Group and the Intercontinental Exchange (ICE) withdraw their hostile bid for NYSE Euronext, apparently leaving a clear path for NYSE's friendly merger with Deutsche Boerse AG. ](/news/2011/05/16/nasdaq-omx-group-and-the-intercontinental-exchange-ice-withdraw-their-hostile-bid-for-nyse-euronext-apparently-leaving-a-clear-path-for-n.md)
@@ -57,15 +57,15 @@ Amy Thomasson, 38 and a single mother of three, spent her last night on the Loui
 
 ##### France
 ### [French investigators report that flight recorders recovered from the wreckage of Air France Flight 447 nearly two years after the crash are still readable. ](/news/2011/05/16/french-investigators-report-that-flight-recorders-recovered-from-the-wreckage-of-air-france-flight-447-nearly-two-years-after-the-crash-are.md)
-_Context: France, flight recorders, crash of Air France Flight 447_
+_Context: crash of Air France Flight 447, France, flight recorders_
 
 ##### Morrilton
 ### [At least one person is killed and at least six injured following a building collapse in the US town of Morrilton, Arkansas. ](/news/2011/05/16/at-least-one-person-is-killed-and-at-least-six-injured-following-a-building-collapse-in-the-us-town-of-morrilton-arkansas.md)
-_Context: Morrilton, Arkansas_
+_Context: Arkansas, Morrilton_
 
 ##### Wildfire
 ### [A wildfire destroys one third of the Canadian town of Slave Lake, Alberta. ](/news/2011/05/16/a-wildfire-destroys-one-third-of-the-canadian-town-of-slave-lake-alberta.md)
-_Context: wildfire, Alberta, Slave Lake, Canadian_
+_Context: wildfire, Canadian, Slave Lake, Alberta_
 
 ##### High Court
 ### [The High Court of Kuala Lumpur rules that Malaysian Opposition Leader Anwar Ibrahim has a case to answer on sodomy charges. ](/news/2011/05/16/the-high-court-of-kuala-lumpur-rules-that-malaysian-opposition-leader-anwar-ibrahim-has-a-case-to-answer-on-sodomy-charges.md)
@@ -77,7 +77,7 @@ International Monetary Fund chief Dominique Strauss-Kahn, accused of sexually as
 
 ##### American mafia
 ### [American mafia boss Vincent Basciano is convicted of murder in New York. ](/news/2011/05/16/american-mafia-boss-vincent-basciano-is-convicted-of-murder-in-new-york.md)
-_Context: American mafia, Vincent Basciano, New York City_
+_Context: Vincent Basciano, American mafia, New York City_
 
 ##### Suzanne Mubarak
 ### [Suzanne Mubarak, the former First Lady of Egypt, offers to hand over $3 million to prosecutors, claiming that this is all she has. ](/news/2011/05/16/suzanne-mubarak-the-former-first-lady-of-egypt-offers-to-hand-over-3-million-to-prosecutors-claiming-that-this-is-all-she-has.md)
@@ -89,7 +89,7 @@ Ahmed Haroun, who is facing ICC charges of murder and rape in Darfur, re-elected
 
 ##### Rahm Emanuel
 ### [Rahm Emanuel is sworn in as the Mayor of Chicago, Illinois. ](/news/2011/05/16/rahm-emanuel-is-sworn-in-as-the-mayor-of-chicago-illinois.md)
-_Context: Illinois, Chicago, Illinois, Mayor of Chicago, Rahm Emanuel_
+_Context: Illinois, Rahm Emanuel, Chicago, Illinois, Mayor of Chicago_
 
 ##### Donald Trump
 ### [Businessman Donald Trump announces he will not seek the Republican nomination for the 2012 United States presidential election. ](/news/2011/05/16/businessman-donald-trump-announces-he-will-not-seek-the-republican-nomination-for-the-2012-united-states-presidential-election.md)

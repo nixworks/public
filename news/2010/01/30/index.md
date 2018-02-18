@@ -9,7 +9,7 @@ _Context: North Rhine-Westphalia, Bavaria_
 
 ##### Togo national football team
 ### [The Togo national football team is banned for two tournaments and fined $50,000 for withdrawing from the 2010 Africa Cup of Nations after the fatal attack on their team bus in Angola. The Government of Angola and Confederation of African Football are both to be sued by the families of the dead. ](/news/2010/01/30/the-togo-national-football-team-is-banned-for-two-tournaments-and-fined-50-000-for-withdrawing-from-the-2010-africa-cup-of-nations-after-th.md)
-_Context: Togo national football team, Confederation of African Football, Togo national football team attack, Government of Angola, Angola, 2010 Africa Cup of Nations_
+_Context: Togo national football team attack, 2010 Africa Cup of Nations, Government of Angola, Confederation of African Football, Angola, Togo national football team_
 
 ##### United States
 ### [The United States suspends medical evacuations in the aftermath of the 2010 Haiti earthquake due to a dispute as to who should pay for treatment. ](/news/2010/01/30/the-united-states-suspends-medical-evacuations-in-the-aftermath-of-the-2010-haiti-earthquake-due-to-a-dispute-as-to-who-should-pay-for-treat.md)
@@ -29,7 +29,7 @@ Abdel Malik al-Houthi offers Yemeni government conditional truce for fourth time
 
 ##### Italy
 ### [Judges across Italy stage a walk out over Prime Minister Silvio Berlusconi's proposed judicial reforms. ](/news/2010/01/30/judges-across-italy-stage-a-walk-out-over-prime-minister-silvio-berlusconi-s-proposed-judicial-reforms.md)
-_Context: Silvio Berlusconi, Italy_
+_Context: Italy, Silvio Berlusconi_
 
 ##### West Godavari District
 ### [12 people drown and least 20 others are missing after a boat accident in West Godavari District, Andhra Pradesh in India. ](/news/2010/01/30/12-people-drown-and-least-20-others-are-missing-after-a-boat-accident-in-west-godavari-district-andhra-pradesh-in-india.md)
@@ -41,11 +41,11 @@ Government rejects resignation
 
 ##### China
 ### [China suspends military exchanges and reviews cooperation on issues with the United States after the latter agreed to a proposed weapons sale to Taiwan. ](/news/2010/01/30/china-suspends-military-exchanges-and-reviews-cooperation-on-issues-with-the-united-states-after-the-latter-agreed-to-a-proposed-weapons-sal.md)
-_Context: Taiwan, United States, China_
+_Context: United States, China, Taiwan_
 
 ##### Google
 ### [Google begins to phase out its support for Internet Explorer 6 after it was identified as a weak link in cyber attacks on the search engine. ](/news/2010/01/30/google-begins-to-phase-out-its-support-for-internet-explorer-6-after-it-was-identified-as-a-weak-link-in-cyber-attacks-on-the-search-engine.md)
-_Context: cyber attack, Google, Internet Explorer 6_
+_Context: Internet Explorer 6, Google, cyber attack_
 
 ##### Honda Motor Co.
 ### [Honda recalls 650,000 of the Honda Fit (also known as Honda Jazz) vehicles worldwide over potential electrical faults. ](/news/2010/01/30/honda-recalls-650-000-of-the-honda-fit-also-known-as-honda-jazz-vehicles-worldwide-over-potential-electrical-faults.md)

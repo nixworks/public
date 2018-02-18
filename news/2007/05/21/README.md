@@ -9,15 +9,15 @@ Qassam hits car near southern town&#39;s commercial center, killing Shirel Feldm
 
 ##### Presidential candidate
 ### [ United States Presidential Election, 2008: Bill Richardson, the Democratic Governor of New Mexico, officially declares his candidacy for president in Los Angeles, California. ](/news/2007/05/21/united-states-presidential-election-2008-bill-richardson-the-democratic-governor-of-new-mexico-officially-declares-his-candidacy-for-pr.md)
-_Context: Los Angeles, Governor of New Mexico, California, U.S. President, Bill Richardson, presidential candidate, Democrat_
+_Context: Governor of New Mexico, Democrat, Los Angeles, presidential candidate, Bill Richardson, California, U.S. President_
 
 ##### Battle of Nahr al-Bared
 ### [ The Battle of Nahr al-Bared continues at the Nahr al-Bared refugee camp in Tripoli, Lebanon for a second successive day. ](/news/2007/05/21/the-battle-of-nahr-al-bared-continues-at-the-nahr-al-bared-refugee-camp-in-tripoli-lebanon-for-a-second-successive-day.md)
-_Context: Battle of Nahr al-Bared, refugee, Tripoli, Lebanon, Nahr al-Bared_
+_Context: Tripoli, Lebanon, refugee, Nahr al-Bared, Battle of Nahr al-Bared_
 
 ##### Clipper
 ### [ The historic tea clipper "Cutty Sark", the last surviving preserved vessel of its kind, catches fire in a drydock in Greenwich, London. Arson is being considered as a possible cause. ](/news/2007/05/21/the-historic-tea-clipper-cutty-sark-the-last-surviving-preserved-vessel-of-its-kind-catches-fire-in-a-drydock-in-greenwich-london-ars.md)
-_Context: London, Greenwich, drydock, deliberately started, clipper, Cutty Sark_
+_Context: drydock, Cutty Sark, deliberately started, Greenwich, clipper, London_
 
 ## [Previous Day...](/news/2007/05/20/index.md)
 

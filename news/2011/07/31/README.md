@@ -5,7 +5,7 @@ Formats: [HTML](2011/07/31/index.html)  [JSON](2011/07/31/index.json)  [XML](201
 
 ##### Kashgar
 ### [At least 9 people including a suspect are killed and 28 others are injured in a knife attack in Kashgar, west Xinjiang, China, marking the second attack of the month in Xinjiang. ](/news/2011/07/31/at-least-9-people-including-a-suspect-are-killed-and-28-others-are-injured-in-a-knife-attack-in-kashgar-west-xinjiang-china-marking-the-s.md)
-_Context: China, Xinjiang, Kashgar_
+_Context: China, Kashgar, Xinjiang_
 
 ##### Syrian Army
 ### [At least 121 people are killed in a Syrian Army tank raid on the town of Hama and over 150 people are reportedly killed across the country. ](/news/2011/07/31/at-least-121-people-are-killed-in-a-syrian-army-tank-raid-on-the-town-of-hama-and-over-150-people-are-reportedly-killed-across-the-country.md)
@@ -17,7 +17,7 @@ _Context: Moscow, Russia_
 
 ##### Caribbean Airlines
 ### [No-one was killed when a Caribbean Airlines Boeing 737 plane crashed and split in two at the Cheddi Jagan International Airport, Guyana ](/news/2011/07/31/no-one-was-killed-when-a-caribbean-airlines-boeing-737-plane-crashed-and-split-in-two-at-the-cheddi-jagan-international-airport-guyana.md)
-_Context: Guyana, Caribbean Airlines_
+_Context: Caribbean Airlines, Guyana_
 
 ##### Mexico
 ### [Mexican Federal Police say suspected cartel leader Jos Antonio Acosta Hernndez, who was arrested on Friday, has confessed to ordering the murder of 1,500 people in the country's northern state of Chihuahua. ](/news/2011/07/31/mexican-federal-police-say-suspected-cartel-leader-jose-antonio-acosta-hernandez-who-was-arrested-on-friday-has-confessed-to-ordering-the.md)

@@ -17,11 +17,11 @@ The passageway, running east from the Strip into Israel, is part of a larger com
 
 ##### New Zealand
 ### [New Zealand author Eleanor Catton wins the 2013 Man Booker Prize for her work "The Luminaries". ](/news/2013/10/15/new-zealand-author-eleanor-catton-wins-the-2013-man-booker-prize-for-her-work-the-luminaries.md)
-_Context: 2013 Man Booker Prize, Eleanor Catton, New Zealand, The Luminaries_
+_Context: The Luminaries, Eleanor Catton, New Zealand, 2013 Man Booker Prize_
 
 ##### Fitch Ratings
 ### [International credit rating group Fitch Ratings places the United States under a "Rating watch negative" in response to the looming financial crisis. ](/news/2013/10/15/international-credit-rating-group-fitch-ratings-places-the-united-states-under-a-rating-watch-negative-in-response-to-the-looming-financia.md)
-_Context: United States, Fitch Ratings_
+_Context: Fitch Ratings, United States_
 
 ##### Glenn Greenwald
 ### [Glenn Greenwald, a reporter with "The Guardian" who has published information provided him by NSA contractor Edward Snowden, is leaving the British newspaper to join a new journalistic enterprise to be bankrolled by Pierre Omidyar, the founder of eBay. ](/news/2013/10/15/glenn-greenwald-a-reporter-with-the-guardian-who-has-published-information-provided-him-by-nsa-contractor-edward-snowden-is-leaving-the.md)

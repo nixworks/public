@@ -17,11 +17,11 @@ Singer and actress Whitney Houston, one of the most celebrated acts of all time,
 
 ##### Sudan
 ### [Sudan and South Sudan sign a non-aggression treaty. ](/news/2012/02/11/sudan-and-south-sudan-sign-a-non-aggression-treaty.md)
-_Context: Sudan, South Sudan_
+_Context: South Sudan, Sudan_
 
 ##### Mark Lyall Grant
 ### [Sir Mark Lyall Grant, the Permanent Representative of the United Kingdom to the United Nations, describes claims by Argentina that the United Kingdom is militarising the Falkland Islands as "manifestly absurd". ](/news/2012/02/11/sir-mark-lyall-grant-the-permanent-representative-of-the-united-kingdom-to-the-united-nations-describes-claims-by-argentina-that-the-unite.md)
-_Context: Permanent Representative of the United Kingdom to the United Nations, Mark Lyall Grant, Argentina, Falkland Islands_
+_Context: Permanent Representative of the United Kingdom to the United Nations, Argentina, Falkland Islands, Mark Lyall Grant_
 
 ##### Arid Uka
 ### [Arid Uka, an Islamic extremist, is convicted in Germany of murdering two U.S. soldiers and injuring another two in a shooting at Frankfurt Airport last year. ](/news/2012/02/11/arid-uka-an-islamic-extremist-is-convicted-in-germany-of-murdering-two-u-s-soldiers-and-injuring-another-two-in-a-shooting-at-frankfurt-a.md)
@@ -45,7 +45,7 @@ _Context: Fukushima Daiichi nuclear disaster, nuclear reactor_
 
 ##### Stephen Harper
 ### [Canadian Prime Minister Stephen Harper meets privately with Chongqing party boss Bo Xilai. The latter is currently embroiled in the Wang Lijun affair in what is rumoured to be an intense political struggle. ](/news/2012/02/11/canadian-prime-minister-stephen-harper-meets-privately-with-chongqing-party-boss-bo-xilai-the-latter-is-currently-embroiled-in-the-wang-lij.md)
-_Context: party boss, Stephen Harper, Bo Xilai, Chongqing, Wang Lijun_
+_Context: party boss, Wang Lijun, Chongqing, Bo Xilai, Stephen Harper_
 
 ##### Lisbon
 ### [Hundreds of thousands of people march in the Portuguese capital Lisbon against austerity measures. ](/news/2012/02/11/hundreds-of-thousands-of-people-march-in-the-portuguese-capital-lisbon-against-austerity-measures.md)

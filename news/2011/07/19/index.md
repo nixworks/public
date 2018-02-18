@@ -9,31 +9,31 @@ Smoke billowing over Homs after night of intense gunfire
 
 ##### Guinea
 ### [Forces loyal to Guinean President Alpha Conde repel an attack by unknown assailants on his residence in Conakry. ](/news/2011/07/19/forces-loyal-to-guinean-president-alpha-conda-c-repel-an-attack-by-unknown-assailants-on-his-residence-in-conakry.md)
-_Context: Guinea, Conakry, President, Alpha Conde's_
+_Context: President, Alpha Conde's, Conakry, Guinea_
 
 ##### United Nations
 ### [A leaked United Nations report suggests war crimes may have been committed in South Kordofan in Sudan during a recent conflict. ](/news/2011/07/19/a-leaked-united-nations-report-suggests-war-crimes-may-have-been-committed-in-south-kordofan-in-sudan-during-a-recent-conflict.md)
-_Context: war crime, United Nations, conflict, Sudan, South Kordofan_
+_Context: conflict, United Nations, Sudan, South Kordofan, war crime_
 
 ##### Pakistan
 ### [Eight Pakistani employees of the United States based American Refugee Committee are kidnapped in southwest Pakistan near the border with Afghanistan. ](/news/2011/07/19/eight-pakistani-employees-of-the-united-states-based-american-refugee-committee-are-kidnapped-in-southwest-pakistan-near-the-border-with-afg.md)
-_Context: Afghan, American Refugee Committee, United States, Pakistan_
+_Context: United States, Afghan, Pakistan, American Refugee Committee_
 
 ##### Israeli Navy
 ### [Israel's navy confiscates a French yacht bound for Gaza, which departed from Greece and attempted to run the blockade after repeated warnings to make for Ashdod instead. No casualties are reported. ](/news/2011/07/19/israel-s-navy-confiscates-a-french-yacht-bound-for-gaza-which-departed-from-greece-and-attempted-to-run-the-blockade-after-repeated-warning.md)
-_Context: Greece, Gaza Strip, blockade, France, Israeli Navy, Ashdod_
+_Context: Greece, blockade, Ashdod, France, Israeli Navy, Gaza Strip_
 
 ##### Earthquake
 ### [A 6.1 magnitude earthquake strikes in southern Kyrgyzstan, near the border with Uzbekistan. ](/news/2011/07/19/a-6-1-magnitude-earthquake-strikes-in-southern-kyrgyzstan-near-the-border-with-uzbekistan.md)
-_Context: Kyrgyzstan, earthquake, Uzbekistan_
+_Context: Uzbekistan, Kyrgyzstan, earthquake_
 
 ##### Typhoon Ma-on
 ### [Typhoon Ma-on, the second typhoon of the 2011 Pacific typhoon season, approaches the main Japanese island of Honshu leading to cancellation of air services. ](/news/2011/07/19/typhoon-ma-on-the-second-typhoon-of-the-2011-pacific-typhoon-season-approaches-the-main-japanese-island-of-honshu-leading-to-cancellation.md)
-_Context: Typhoon Ma-on, Honshu Island, 2011 Pacific typhoon season, Japan_
+_Context: 2011 Pacific typhoon season, Honshu Island, Japan, Typhoon Ma-on_
 
 ##### Hurricane Jova
 ### [Tropical Storm Dora becomes a hurricane with a tropical storm watch issued for southwestern Mexico. ](/news/2011/07/19/tropical-storm-dora-becomes-a-hurricane-with-a-tropical-storm-watch-issued-for-southwestern-mexico.md)
-_Context: Mexico, hurricane, Hurricane Jova_
+_Context: Hurricane Jova, Mexico, hurricane_
 
 ##### ASEAN
 ### [ASEAN foreign ministers get together for their annual summit on the island of Bali in Indonesia with concerns over territorial claims on the South China Sea. ](/news/2011/07/19/asean-foreign-ministers-get-together-for-their-annual-summit-on-the-island-of-bali-in-indonesia-with-concerns-over-territorial-claims-on-the.md)
@@ -41,7 +41,7 @@ Indonesian President Susilo Bambang Yudhoyono urges Asian nations to agree on a 
 
 ##### FBI
 ### [The Federal Bureau of Investigation (FBI) arrests an alleged agent of Pakistan's Inter-Services Intelligence in the US state of Virginia for making illegal campaign contributions. ](/news/2011/07/19/the-federal-bureau-of-investigation-fbi-arrests-an-alleged-agent-of-pakistan-s-inter-services-intelligence-in-the-us-state-of-virginia-for.md)
-_Context: Inter-Services Intelligence, FBI, Virginia, Pakistan_
+_Context: Pakistan, Inter-Services Intelligence, Virginia, FBI_
 
 ##### Hacker
 ### [Sixteen alleged members of the computer hacking group Anonymous are arrested in FBI raids across several states in the US. ](/news/2011/07/19/sixteen-alleged-members-of-the-computer-hacking-group-anonymous-are-arrested-in-fbi-raids-across-several-states-in-the-us.md)
@@ -53,11 +53,11 @@ Assaults, smoke bombs and vandalism were left in the wake of a protest in San Fr
 
 ##### China
 ### [Chinese Vice President Xi Jinping says the Chinese government will "smash" attempts for an independent Tibet in a speech outside the Potala Palace. ](/news/2011/07/19/chinese-vice-president-xi-jinping-says-the-chinese-government-will-smash-attempts-for-an-independent-tibet-in-a-speech-outside-the-potala.md)
-_Context: Potala Palace, Xi Jinping, China, Vice President, Tibet, independent_
+_Context: Vice President, Potala Palace, Xi Jinping, Tibet, independent, China_
 
 ##### Northern Mariana Islands Governor
 ### [Northern Mariana Islands Governor Benigno Fitial and Guam Governor Eddie Calvo state that they are in serious talks to potentially merge the U.S. territories of Guam and the Northern Mariana Islands. ](/news/2011/07/19/northern-mariana-islands-governor-benigno-fitial-and-guam-governor-eddie-calvo-state-that-they-are-in-serious-talks-to-potentially-merge-the.md)
-_Context: Guam, U.S. territories, Benigno Fitial, Northern Mariana Islands, Eddie Calvo, Northern Mariana Islands Governor, Guam Governor_
+_Context: Benigno Fitial, Eddie Calvo, U.S. territories, Guam, Guam Governor, Northern Mariana Islands, Northern Mariana Islands Governor_
 
 ##### News Corporation
 ### [News Corporation Chief Executive Rupert Murdoch and his son James Murdoch appear before a select committee of the United Kingdom parliament over the "News of the World" phone hacking affair. Murdoch Senior apologises for the scandal, but says he is not responsible for it. ](/news/2011/07/19/news-corporation-chief-executive-rupert-murdoch-and-his-son-james-murdoch-appear-before-a-select-committee-of-the-united-kingdom-parliament.md)
@@ -73,11 +73,11 @@ An ambitious plan to slice $3.7 trillion from the federal budget over the next d
 
 ##### United States House of Representatives
 ### [The United States House of Representatives votes to approve the "Cut, Cap and Balance Act" by 234-190 but it is unlikely to pass the United States Senate. ](/news/2011/07/19/the-united-states-house-of-representatives-votes-to-approve-the-cut-cap-and-balance-act-by-234-190-but-it-is-unlikely-to-pass-the-united.md)
-_Context: United States Senate, United States House of Representatives_
+_Context: United States House of Representatives, United States Senate_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI appoints Charles J. Chaput, the current Archbishop of Denver, as the head of the Roman Catholic Archdiocese of Philadelphia replacing Cardinal Justin Rigali. ](/news/2011/07/19/pope-benedict-xvi-appoints-charles-j-chaput-the-current-archbishop-of-denver-as-the-head-of-the-roman-catholic-archdiocese-of-philadelphi.md)
-_Context: Denver, Colorado, Archbishop, Pope Benedict XVI, Charles J. Chaput, Justin Rigali, Roman Catholic Archdiocese of Philadelphia, Cardinal_
+_Context: Archbishop, Cardinal, Charles J. Chaput, Denver, Colorado, Roman Catholic Archdiocese of Philadelphia, Justin Rigali, Pope Benedict XVI_
 
 ##### Iran
 ### [Iran says it has installed faster nuclear centrifuges to enrich uranium. ](/news/2011/07/19/iran-says-it-has-installed-faster-nuclear-centrifuges-to-enrich-uranium.md)

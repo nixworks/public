@@ -5,15 +5,15 @@ Formats: [HTML](2004/05/2/index.html)  [JSON](2004/05/2/index.json)  [XML](2004/
 
 ##### Investment bank
 ### [ Investment banker Frank Quattrone of Credit Suisse First Boston is convicted of obstructing justice and witness tampering. Quattrone played a significant role in the Initial Public Offerings of Amazon, Netscape, Intuit and other Internet companies. ](/news/2004/05/2/investment-banker-frank-quattrone-of-credit-suisse-first-boston-is-convicted-of-obstructing-justice-and-witness-tampering-quattrone-played.md)
-_Context: Netscape, Investment bank, Intuit, Frank Quattrone, IPO, Amazon.com, Credit Suisse First Boston, Internet_
+_Context: Frank Quattrone, Intuit, Investment bank, Amazon.com, Credit Suisse First Boston, Internet, Netscape, IPO_
 
 ##### Polish Prime Minister
 ### [ Polish Prime Minister Leszek Miller resigns one day after Poland becomes a member of the European Union. His government was the most unpopular of the nine that have ruled Poland since the fall of the communist regime in 1989. Miller's Left Democratic Alliance party, plagued by a series of corruption scandals (including the Rywin affair), hit a record low in popularity rankings in the last months which led some of its members to break away and form a new party, the Social Democracy of Poland. President Aleksander Kwasniewski announces he will designate Marek Belka, a liberal economist, as new prime minister. ](/news/2004/05/2/polish-prime-minister-leszek-miller-resigns-one-day-after-poland-becomes-a-member-of-the-european-union-his-government-was-the-most-unpopu.md)
-_Context: joining the European Union, Social Democracy of Poland, Aleksander Kwasniewski, Left Democratic Alliance, Rywin, Leszek Miller, Polish Prime Minister, Marek Belka, European Union_
+_Context: Left Democratic Alliance, European Union, Aleksander Kwasniewski, Rywin, Leszek Miller, Social Democracy of Poland, Polish Prime Minister, Marek Belka, joining the European Union_
 
 ##### Israel
 ### [ Israel's Likud Party votes in a referendum not to pull out of the Gaza Strip unilaterally. The referendum's defeat is seen as a major blow to the Sharon government. Sharon subsequently says that he will not resign and may modify the plan. ](/news/2004/05/2/israel-s-likud-party-votes-in-a-referendum-not-to-pull-out-of-the-gaza-strip-unilaterally-the-referendum-s-defeat-is-seen-as-a-major-blow.md)
-_Context: Ariel Sharon, Likud Party, Gaza Strip, Israel_
+_Context: Gaza Strip, Likud Party, Ariel Sharon, Israel_
 
 ##### Martn Torrijos
 ### [ Martn Torrijos wins Panama's presidential election. ](/news/2004/05/2/martin-torrijos-wins-panama-s-presidential-election.md)

@@ -9,11 +9,11 @@ Five Somali pirates who released a Saudi supertanker have drowned with their sha
 
 ##### Coach
 ### [ Thirty-three people die and seventeen are injured when their coach plunges into a canyon in Cajamarca, Peru. ](/news/2009/01/10/thirty-three-people-die-and-seventeen-are-injured-when-their-coach-plunges-into-a-canyon-in-cajamarca-peru.md)
-_Context: coach, Cajamarca, Peru_
+_Context: coach, Peru, Cajamarca_
 
 ##### Iraq
 ### [ Iraq's Interior Ministry arrests Ayesh Ali Hussein al-Harbi for his alleged role in the 2000 hijacking of a Saudi Arabian Airlines Boeing 777 and serial killings in the country. ](/news/2009/01/10/iraq-s-interior-ministry-arrests-ayesh-ali-hussein-al-harbi-for-his-alleged-role-in-the-2000-hijacking-of-a-saudi-arabian-airlines-boeing-7.md)
-_Context: Serial killer, Saudi Arabian Airlines, aircraft piracy, Iraq, Iraqi Interior Minister, Ayesh Ali Hussein al-Harbi, 2000, Boeing 777_
+_Context: Iraqi Interior Minister, Saudi Arabian Airlines, Iraq, Ayesh Ali Hussein al-Harbi, Serial killer, Boeing 777, 2000, aircraft piracy_
 
 ## [Previous Day...](/news/2009/01/9/index.md)
 

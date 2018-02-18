@@ -17,11 +17,11 @@ _Context: Facundo Cabral, Guatemala City_
 
 ##### Milan
 ### [A Milan court orders Fininvest, Prime Minister of Italy Silvio Berlusconi's family company, to pay 560 million euros in damages to Compagnie Industriali Riunite in a long running legal dispute. ](/news/2011/07/9/a-milan-court-orders-fininvest-prime-minister-of-italy-silvio-berlusconi-s-family-company-to-pay-560-million-euros-in-damages-to-compagnie.md)
-_Context: Silvio Berlusconi, Fininvest, Milan, Compagnie Industriali Riunite, euro, Italian Prime Minister_
+_Context: Milan, Compagnie Industriali Riunite, euro, Italian Prime Minister, Fininvest, Silvio Berlusconi_
 
 ##### South Sudan
 ### [South Sudan secedes from Sudan, becoming a sovereign state. ](/news/2011/07/9/south-sudan-secedes-from-sudan-becoming-a-sovereign-state.md)
-_Context: South Sudan, sovereign state, Sudan_
+_Context: Sudan, South Sudan, sovereign state_
 
 ##### Malaysian police
 ### [Malaysian police fire tear gas and arrest hundreds of people as more than 20,000 people march in the 2011 Bersih 2.0 rally demanding electoral reform in Kuala Lumpur. ](/news/2011/07/9/malaysian-police-fire-tear-gas-and-arrest-hundreds-of-people-as-more-than-20-000-people-march-in-the-2011-bersih-2-0-rally-demanding-elector.md)

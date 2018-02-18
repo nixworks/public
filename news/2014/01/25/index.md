@@ -9,7 +9,7 @@ _Context: Civil conflict in the Philippines, peace deal, Filipino Muslims, Phili
 
 ##### Egypt
 ### [Five Egyptian embassy staff are kidnapped in the Libyan capital of Tripoli. ](/news/2014/01/25/five-egyptian-embassy-staff-are-kidnapped-in-the-libyan-capital-of-tripoli.md)
-_Context: Egypt, Tripoli, Libya_
+_Context: Libya, Egypt, Tripoli_
 
 ##### 
 ### [64 people are killed in anti-government marches. ](/news/2014/01/25/64-people-are-killed-in-anti-government-marches.md)
@@ -21,7 +21,7 @@ _Context: Iraq, Iraqi insurgency (post-U.S. withdrawal)_
 
 ##### Vial
 ### [A vial containing drops of late Pope John Paul II's blood is stolen from the Church of San Pietro della Ienca in Abruzzo, Italy. ](/news/2014/01/25/a-vial-containing-drops-of-late-pope-john-paul-ii-s-blood-is-stolen-from-the-church-of-san-pietro-della-ienca-in-abruzzo-italy.md)
-_Context: Abruzzo, Italy, Pope John Paul II, vial_
+_Context: Pope John Paul II, vial, Abruzzo, Italy_
 
 ##### Shooting
 ### [A shooting at the Columbia Mall in the U.S. state of Maryland results in 3 people being killed. ](/news/2014/01/25/a-shooting-at-the-columbia-mall-in-the-u-s-state-of-maryland-results-in-3-people-being-killed.md)

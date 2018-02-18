@@ -13,15 +13,15 @@ A father and his three young children planning to spend the Thanksgiving weekend
 
 ##### United States
 ### [The United States announces that it will stop observing the 1990 Treaty on Conventional Armed Forces in Europe. The decision comes four years after Russia withdrew compliance from the treaty. ](/news/2011/11/23/the-united-states-announces-that-it-will-stop-observing-the-1990-treaty-on-conventional-armed-forces-in-europe-the-decision-comes-four-year.md)
-_Context: Treaty on Conventional Armed Forces in Europe, United States, Russia_
+_Context: United States, Russia, Treaty on Conventional Armed Forces in Europe_
 
 ##### Syrian President
 ### [In a warning to Syrian President Bashar al-Assad to step down, Turkish Prime Minister Recep Tayyip Erdogan calls al-Assad's ongoing crackdown on protests cowardice, comparing al-Assad to past dictators such as Adolf Hitler and Muammar Gaddafi. ](/news/2011/11/23/in-a-warning-to-syrian-president-bashar-al-assad-to-step-down-turkish-prime-minister-recep-tayyip-erdoaan-calls-al-assad-s-ongoing-crackdo.md)
-_Context: Adolf Hitler, Turkish Prime Minister, Bashar al-Assad, 2011 Syrian uprising, Syrian President, Recep Tayyip Erdogan, Muammar Gaddafi_
+_Context: Turkish Prime Minister, Muammar Gaddafi, Bashar al-Assad, Adolf Hitler, Syrian President, 2011 Syrian uprising, Recep Tayyip Erdogan_
 
 ##### European Space Agency
 ### [The European Space Agency claims to have made contact with Russia's stranded Fobos-Grunt probe, two days after the closure of the spacecraft's window for launch to Mars. ](/news/2011/11/23/the-european-space-agency-claims-to-have-made-contact-with-russia-s-stranded-fobos-grunt-probe-two-days-after-the-closure-of-the-spacecraft.md)
-_Context: Russia, Mars, European Space Agency, Fobos-Grunt_
+_Context: Mars, European Space Agency, Fobos-Grunt, Russia_
 
 ## [Previous Day...](/news/2011/11/22/index.md)
 

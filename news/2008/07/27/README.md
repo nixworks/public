@@ -17,7 +17,7 @@ The man accused of killing two people and wounding seven at a church apparently 
 
 ##### Hanging
 ### [ Twenty-nine convicts are hanged in Evin Prison in Tehran, Iran. ](/news/2008/07/27/twenty-nine-convicts-are-hanged-in-evin-prison-in-tehran-iran.md)
-_Context: Iran, hanging, Evin Prison, Tehran_
+_Context: Evin Prison, Tehran, hanging, Iran_
 
 ## [Previous Day...](/news/2008/07/26/index.md)
 

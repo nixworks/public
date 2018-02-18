@@ -5,19 +5,19 @@ Formats: [HTML](2011/09/22/index.html)  [JSON](2011/09/22/index.json)  [XML](201
 
 ##### Pakistan
 ### [At least five people are killed in a bus bombing in Pakistan's Bajaur Agency. ](/news/2011/09/22/at-least-five-people-are-killed-in-a-bus-bombing-in-pakistan-s-bajaur-agency.md)
-_Context: Pakistan, Bajaur_
+_Context: Bajaur, Pakistan_
 
 ##### Stock market
 ### [World stock markets plunge amid growing global fears of recession. ](/news/2011/09/22/world-stock-markets-plunge-amid-growing-global-fears-of-recession.md)
-_Context: stock market, recession_
+_Context: recession, stock market_
 
 ##### Facebook
 ### [Facebook makes major changes to its social networking interface, updating its profile page, adding an app store, and amending its news feed with a "timeline" feature. ](/news/2011/09/22/facebook-makes-major-changes-to-its-social-networking-interface-updating-its-profile-page-adding-an-app-store-and-amending-its-news-feed.md)
-_Context: Facebook, app store, social networking_
+_Context: app store, Facebook, social networking_
 
 ##### Hewlett-Packard
 ### [Hewlett-Packard fires CEO Lo Apotheker, replacing him with former eBay CEO Meg Whitman. ](/news/2011/09/22/hewlett-packard-fires-ceo-leo-apotheker-replacing-him-with-former-ebay-ceo-meg-whitman.md)
-_Context: Meg Whitman, eBay, Lo Apotheker, Hewlett-Packard, CEO_
+_Context: Lo Apotheker, Meg Whitman, CEO, Hewlett-Packard, eBay_
 
 ##### Typhoon Roke
 ### [Typhoon Roke passes through the Japanese island of Honshu, causing 13 deaths, and arrives in Hokkaido. ](/news/2011/09/22/typhoon-roke-passes-through-the-japanese-island-of-honshu-causing-13-deaths-and-arrives-in-hokkaido.md)
@@ -25,19 +25,19 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Dombivli
 ### [At least four people are killed and 18 injured in a factory fire in the suburb of Dombivli in the Indian city of Mumbai. ](/news/2011/09/22/at-least-four-people-are-killed-and-18-injured-in-a-factory-fire-in-the-suburb-of-dombivli-in-the-indian-city-of-mumbai.md)
-_Context: Mumbai, Dombivli_
+_Context: Dombivli, Mumbai_
 
 ##### Drainage basin
 ### [Heavy floods and related disasters across China, especially in the drainage basin of the Han and Wei Rivers, leave 90 dead and 22 missing. ](/news/2011/09/22/heavy-floods-and-related-disasters-across-china-especially-in-the-drainage-basin-of-the-han-and-wei-rivers-leave-90-dead-and-22-missing.md)
-_Context: Han, Wei River, drainage basin_
+_Context: drainage basin, Han, Wei River_
 
 ##### Hurricane Jova
 ### [2011 Pacific hurricane season: Hurricane Hilary reaches category 3 strength off the coast of Mexico, but is not expected to make landfall. ](/news/2011/09/22/2011-pacific-hurricane-season-hurricane-hilary-reaches-category-3-strength-off-the-coast-of-mexico-but-is-not-expected-to-make-landfall.md)
-_Context: Hilary, Hurricane Jova, category 3_
+_Context: category 3, Hilary, Hurricane Jova_
 
 ##### Anniston Chemical Activity
 ### [The Anniston Chemical Activity destroys its last mustard gas shells, becoming the fifth of nine US chemical weapons depots to close under terms of the Chemical Weapons Treaty. ](/news/2011/09/22/the-anniston-chemical-activity-destroys-its-last-mustard-gas-shells-becoming-the-fifth-of-nine-us-chemical-weapons-depots-to-close-under-te.md)
-_Context: mustard gas, Chemical Weapons Treaty, Anniston Chemical Activity, chemical weapon_
+_Context: chemical weapon, Chemical Weapons Treaty, mustard gas, Anniston Chemical Activity_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI commences a state visit to Germany. ](/news/2011/09/22/pope-benedict-xvi-commences-a-state-visit-to-germany.md)
@@ -49,7 +49,7 @@ _Context: F-16, Taiwan_
 
 ##### General Assembly of the United Nations
 ### [Representatives of the United States and European nations walk out of the General Assembly of the United Nations during an accusatory speech by the President of Iran, Mahmoud Ahmadinejad. ](/news/2011/09/22/representatives-of-the-united-states-and-european-nations-walk-out-of-the-general-assembly-of-the-united-nations-during-an-accusatory-speech.md)
-_Context: General Assembly of the United Nations, Mahmoud Ahmadinejad, President_
+_Context: President, Mahmoud Ahmadinejad, General Assembly of the United Nations_
 
 ##### FBI
 ### [The Federal Bureau of Investigation arrests suspected members of the computer hacking groups LulzSec and Anonymous in the US cities of Phoenix, Arizona and San Francisco. ](/news/2011/09/22/the-federal-bureau-of-investigation-arrests-suspected-members-of-the-computer-hacking-groups-lulzsec-and-anonymous-in-the-us-cities-of-phoen.md)

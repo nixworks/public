@@ -25,15 +25,15 @@ _Context: Pakistan, Karachi_
 
 ##### Japan
 ### [Japanese automaker Toyota announces plans to fully restore production from the 2011 Tohoku earthquake and tsunami in October, one month earlier than previously announced. ](/news/2011/07/7/japanese-automaker-toyota-announces-plans-to-fully-restore-production-from-the-2011-tahoku-earthquake-and-tsunami-in-october-one-month-ear.md)
-_Context: Japan, Toyota, 2011 Tohoku earthquake and tsunami_
+_Context: Japan, 2011 Tohoku earthquake and tsunami, Toyota_
 
 ##### Australia
 ### [Australia's Civil Aviation Safety Authority applies to extend grounding of Tiger Airways services in Australia to August 1. ](/news/2011/07/7/australia-s-civil-aviation-safety-authority-applies-to-extend-grounding-of-tiger-airways-services-in-australia-to-august-1.md)
-_Context: Australia, Tiger Airways, Civil Aviation Safety Authority_
+_Context: Tiger Airways, Australia, Civil Aviation Safety Authority_
 
 ##### NYSE Euronext
 ### [NYSE Euronext shareholders approve of the acquisition of that company, parent corporation of the New York Stock Exchange, by Deutsche Boerse AG. The deal still needs to receive the approval of the acquiring firm's shareholders. ](/news/2011/07/7/nyse-euronext-shareholders-approve-of-the-acquisition-of-that-company-parent-corporation-of-the-new-york-stock-exchange-by-deutsche-boerse.md)
-_Context: NYSE Euronext, New York Stock Exchange, Deutsche Boerse AG_
+_Context: Deutsche Boerse AG, NYSE Euronext, New York Stock Exchange_
 
 ##### News International
 ### [News International shuts down the British newspaper the "News of the World", as a result of a phone hacking affair, with the final edition coming out Sunday. ](/news/2011/07/7/news-international-shuts-down-the-british-newspaper-the-news-of-the-world-as-a-result-of-a-phone-hacking-affair-with-the-final-edition-c.md)
@@ -53,15 +53,15 @@ The bus passengers were returning from a marriage celebration. The accident happ
 
 ##### Enschede
 ### [In Enschede the Netherlands part of the roof of the stadium of football club FC Twente "De Grolsch Veste" collapses leaving persons dead and a dozen injured. ](/news/2011/07/7/in-enschede-the-netherlands-part-of-the-roof-of-the-stadium-of-football-club-fc-twente-de-grolsch-veste-collapses-leaving-persons-dead-and.md)
-_Context: Enschede, FC Twente, De Grolsch Veste, Netherlands_
+_Context: De Grolsch Veste, Netherlands, Enschede, FC Twente_
 
 ##### Denver, Colorado
 ### [A heavy storm in the US city of Denver, Colorado, causes localized flooding and causing 10,000 houses to lose power. ](/news/2011/07/7/a-heavy-storm-in-the-us-city-of-denver-colorado-causes-localized-flooding-and-causing-10-000-houses-to-lose-power.md)
-_Context: flood, Denver, Colorado, Colorado_
+_Context: Denver, Colorado, flood, Colorado_
 
 ##### South Korea
 ### [South Korea starts work on a new facility to rehouse refugees from North Korea to avoid both food shortages and political oppression. ](/news/2011/07/7/south-korea-starts-work-on-a-new-facility-to-rehouse-refugees-from-north-korea-to-avoid-both-food-shortages-and-political-oppression.md)
-_Context: South Korea, refugee, North Korea_
+_Context: North Korea, refugee, South Korea_
 
 ##### Janet Napolitano
 ### [Janet Napolitano, the United States Secretary of Homeland Security, rolls out the Obama administration's strategy to curb drug smuggling on the Mexican border. ](/news/2011/07/7/janet-napolitano-the-united-states-secretary-of-homeland-security-rolls-out-the-obama-administration-s-strategy-to-curb-drug-smuggling-on.md)
@@ -81,11 +81,11 @@ Rodrick Dantzler, 34, fatally shot himself after an hours-long standoff, manhunt
 
 ##### Mexican
 ### [Humberto Leal Garcia, a Mexican national, is executed in the US state of Texas despite concerns over whether the circumstances of his execution would breach international law. ](/news/2011/07/7/humberto-leal-garcaa-a-mexican-national-is-executed-in-the-us-state-of-texas-despite-concerns-over-whether-the-circumstances-of-his-execu.md)
-_Context: international law, Mexican, Texas_
+_Context: Texas, Mexican, international law_
 
 ##### Casey Anthony
 ### [Casey Anthony is sentenced to four years for lying to law enforcement regarding the death of her child Caylee in the U.S. state of Florida but after credit for time served will be released on July 17. ](/news/2011/07/7/casey-anthony-is-sentenced-to-four-years-for-lying-to-law-enforcement-regarding-the-death-of-her-child-caylee-in-the-u-s-state-of-florida-b.md)
-_Context: Florida, Casey Anthony_
+_Context: Casey Anthony, Florida_
 
 ##### General strike
 ### [A general strike continues in Bangladesh over a proposed change to the electoral system. ](/news/2011/07/7/a-general-strike-continues-in-bangladesh-over-a-proposed-change-to-the-electoral-system.md)
@@ -97,11 +97,11 @@ _Context: Jiang Zemin, Chinese President, China_
 
 ##### Freedom Flotilla II
 ### [Freedom Flotilla II: The Greek Coast Guard prevents the ship "Dignity Al Karama" from sailing to the Gaza Strip after it stops to refuel in Crete. ](/news/2011/07/7/freedom-flotilla-ii-the-greek-coast-guard-prevents-the-ship-dignity-al-karama-from-sailing-to-the-gaza-strip-after-it-stops-to-refuel-in.md)
-_Context: Crete, Hellenic Coast Guard, Freedom Flotilla II, Gaza Strip_
+_Context: Gaza Strip, Freedom Flotilla II, Hellenic Coast Guard, Crete_
 
 ##### National Congress Party
 ### [The southern branch of Sudan's ruling National Congress Party announces its split from the northern party ahead of South Sudan's independence ](/news/2011/07/7/the-southern-branch-of-sudan-s-ruling-national-congress-party-announces-its-split-from-the-northern-party-ahead-of-south-sudan-s-independenc.md)
-_Context: South Sudan, National Congress Party_
+_Context: National Congress Party, South Sudan_
 
 ##### DNA
 ### [The molecular basis for the breakage of DNA, an important process in the development of cancer, has been identified by Hebrew University of Jerusalem scientists. ](/news/2011/07/7/the-molecular-basis-for-the-breakage-of-dna-an-important-process-in-the-development-of-cancer-has-been-identified-by-hebrew-university-of.md)

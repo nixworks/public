@@ -5,7 +5,7 @@ Formats: [HTML](2006/03/20/index.html)  [JSON](2006/03/20/index.json)  [XML](200
 
 ##### United Nations
 ### [ The UN's refugee agency, the UNHCR, says it has been ordered to leave Uzbekistan within one month. ](/news/2006/03/20/the-un-s-refugee-agency-the-unhcr-says-it-has-been-ordered-to-leave-uzbekistan-within-one-month.md)
-_Context: United Nations High Commissioner for Refugees, United Nations, Uzbekistan_
+_Context: United Nations, United Nations High Commissioner for Refugees, Uzbekistan_
 
 ##### OSCE
 ### [ The Organization for Security and Co-operation in Europe, which monitored the election, concluded that the presidential election failed to meet OSCE commitments for democratic elections. ](/news/2006/03/20/the-organization-for-security-and-co-operation-in-europe-which-monitored-the-election-concluded-that-the-presidential-election-failed-to.md)

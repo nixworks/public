@@ -5,11 +5,11 @@ Formats: [HTML](2011/06/18/index.html)  [JSON](2011/06/18/index.json)  [XML](201
 
 ##### Burma
 ### [Burma accuses the Kachin Independence Army of starting deadly fighting near the Chinese border. ](/news/2011/06/18/burma-accuses-the-kachin-independence-army-of-starting-deadly-fighting-near-the-chinese-border.md)
-_Context: Burma, China, Kachin Independence Army_
+_Context: Kachin Independence Army, China, Burma_
 
 ##### South Korea
 ### [South Korean troops mistakenly fire on a Chinese passenger plane as it flies near the disputed Northern Limit Line on the border with North Korea; there are no casualties. ](/news/2011/06/18/south-korean-troops-mistakenly-fire-on-a-chinese-passenger-plane-as-it-flies-near-the-disputed-northern-limit-line-on-the-border-with-north.md)
-_Context: China, South Korea, North Korea, Northern Limit Line_
+_Context: China, North Korea, Northern Limit Line, South Korea_
 
 ##### Syria
 ### [Syrian troops raid the town of Bdama near the Turkish border in an attempt to crush a nationwide uprising. ](/news/2011/06/18/syrian-troops-raid-the-town-of-bdama-near-the-turkish-border-in-an-attempt-to-crush-a-nationwide-uprising.md)
@@ -25,11 +25,11 @@ Oil prices fell on Friday, with U.S. crude slumping to a four-month low under $9
 
 ##### Zambia
 ### [Former Zambian President Frederick Chiluba dies aged 68. ](/news/2011/06/18/former-zambian-president-frederick-chiluba-dies-aged-68.md)
-_Context: Frederick Chiluba, Zambia, President_
+_Context: President, Frederick Chiluba, Zambia_
 
 ##### Democratic
 ### [Pro-democracy activists in Morocco call for renewed demonstrations, saying reforms proposed by King Mohammed VI are not enough. ](/news/2011/06/18/pro-democracy-activists-in-morocco-call-for-renewed-demonstrations-saying-reforms-proposed-by-king-mohammed-vi-are-not-enough.md)
-_Context: democratic, King, King Mohammed VI of Morocco, Morocco, 2011 Moroccan protests_
+_Context: King, 2011 Moroccan protests, Morocco, democratic, King Mohammed VI of Morocco_
 
 ##### Saudi Arabia
 ### [Some Saudi Arabian women challenge a ban on female drivers, posting accounts and pictures of themselves driving automobiles. ](/news/2011/06/18/some-saudi-arabian-women-challenge-a-ban-on-female-drivers-posting-accounts-and-pictures-of-themselves-driving-automobiles.md)
@@ -41,11 +41,11 @@ Dallas, Fort Worth, and Irving elected new mayors in the June run-off elections.
 
 ##### Russian
 ### [Russian human rights activist Yelena Bonner, the widow of Soviet dissident and Nobel Peace Prize winner Andrei Sakharov, dies in the city of Boston, MA, USA. ](/news/2011/06/18/russian-human-rights-activist-yelena-bonner-the-widow-of-soviet-dissident-and-nobel-peace-prize-winner-andrei-sakharov-dies-in-the-city-of.md)
-_Context: Yelena Bonner, Andrei Sakharov, Nobel Peace Prize, Soviet, Russian, Boston, Massachusetts_
+_Context: Andrei Sakharov, Russian, Boston, Massachusetts, Soviet, Nobel Peace Prize, Yelena Bonner_
 
 ##### NOAA
 ### [NOAA states that 2011 is already one of the most extreme weather years on record. ](/news/2011/06/18/noaa-states-that-2011-is-already-one-of-the-most-extreme-weather-years-on-record.md)
-_Context: NOAA, extreme weather_
+_Context: extreme weather, NOAA_
 
 ## [Previous Day...](/news/2011/06/17/index.md)
 

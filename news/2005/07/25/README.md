@@ -5,15 +5,15 @@ Formats: [HTML](2005/07/25/index.html)  [JSON](2005/07/25/index.json)  [XML](200
 
 ##### Israel
 ### [ Israel has summoned the ambassador from the Vatican to explain why the Pope did not condemn Palestinian militant attacks on Israelis, in a statement on Sunday, July 24, Pope Benedict XVI said that he deplored attacks in "countries including Egypt, Turkey, Iraq and Britain". ](/news/2005/07/25/israel-has-summoned-the-ambassador-from-the-vatican-to-explain-why-the-pope-did-not-condemn-palestinian-militant-attacks-on-israelis-in-a.md)
-_Context: Pope, ambassador, Israel, Holy See, Pope Benedict XVI, Palestinian_
+_Context: Israel, Pope Benedict XVI, Holy See, ambassador, Palestinian, Pope_
 
 ##### Bilateral negotiations
 ### [ Bilateral negotiations have resumed between the US and North Korea. ](/news/2005/07/25/bilateral-negotiations-have-resumed-between-the-us-and-north-korea.md)
-_Context: Bilateral negotiations, North Korea_
+_Context: North Korea, Bilateral negotiations_
 
 ##### Service Employees International Union
 ### [ The Service Employees International Union and the Teamsters, the two largest unions in the AFL-CIO, announce their intentions to leave the labor federation, underscoring a major schism within the U.S. labour movement. ](/news/2005/07/25/the-service-employees-international-union-and-the-teamsters-the-two-largest-unions-in-the-aflacio-announce-their-intentions-to-leave-th.md)
-_Context: labour movement, AFL-CIO, Service Employees International Union, Teamsters_
+_Context: AFL-CIO, Teamsters, labour movement, Service Employees International Union_
 
 ##### New Southgate
 ### [ Two men, one today, one yesterday, have been arrested in the New Southgate area of London during police investigations into the recent London bombings. ](/news/2005/07/25/two-men-one-today-one-yesterday-have-been-arrested-in-the-new-southgate-area-of-london-during-police-investigations-into-the-recent-lond.md)
@@ -29,7 +29,7 @@ _Context: Avian flu virus, SARS_
 
 ##### Sunni
 ### [ Sunni Arab representatives appointed to the committee tasked with writing up a new Constitution of Iraq have ended their boycott. ](/news/2005/07/25/sunni-arab-representatives-appointed-to-the-committee-tasked-with-writing-up-a-new-constitution-of-iraq-have-ended-their-boycott.md)
-_Context: Constitution of Iraq, Sunni_
+_Context: Sunni, Constitution of Iraq_
 
 ##### New Zealand general election 2005
 ### [ The New Zealand general election 2005 is set for Saturday September 17, 2005. ](/news/2005/07/25/the-new-zealand-general-election-2005-is-set-for-saturday-september-17-2005.md)
@@ -57,19 +57,19 @@ _Context: Idrissa Seck, Senegal_
 
 ##### Sri Lanka
 ### [ In Sri Lanka, investigators that investigate alleged misappropriation of funds of tsunami relief after 2004 Indian Ocean earthquake, state that they have not found any evidence of wrongdoing. Opposition United National Party claims that prime minister Mahinda Rajapaksa had siphoned off 83 million rupees to his own constituency ](/news/2005/07/25/in-sri-lanka-investigators-that-investigate-alleged-misappropriation-of-funds-of-tsunami-relief-after-2004-indian-ocean-earthquake-state.md)
-_Context: Rs., Sri Lanka, tsunami, Rajapaksa, UNP, 2004 Indian Ocean earthquake_
+_Context: tsunami, Rajapaksa, Rs., UNP, Sri Lanka, 2004 Indian Ocean earthquake_
 
 ##### Paulo Henrique Machado
 ### [ In Brazil, Paulo Henrique Machado, priest who led the support group of victims of the Nova Iguacu massacre, is shot to death in Rio de Janeiro ](/news/2005/07/25/in-brazil-paulo-henrique-machado-priest-who-led-the-support-group-of-victims-of-the-nova-iguacu-massacre-is-shot-to-death-in-rio-de-jane.md)
-_Context: Nova Iguacu massacre, Rio de Janeiro, Paulo Henrique Machado_
+_Context: Paulo Henrique Machado, Nova Iguacu massacre, Rio de Janeiro_
 
 ##### Bill Graham
 ### [ Denmark protests over visit of Canadian defense minister Bill Graham to disputed Hans Island near Greenland ](/news/2005/07/25/denmark-protests-over-visit-of-canadian-defense-minister-bill-graham-to-disputed-hans-island-near-greenland.md)
-_Context: Bill Graham, Greenland, Hans Island_
+_Context: Hans Island, Bill Graham, Greenland_
 
 ##### Malawi
 ### [ In Malawi, president Bingu wa Mutharika bans all exports of maize and fertilizers to alleviate the food crisis in the country ](/news/2005/07/25/in-malawi-president-bingu-wa-mutharika-bans-all-exports-of-maize-and-fertilizers-to-alleviate-the-food-crisis-in-the-country.md)
-_Context: maize, Malawi, fertilizer, Bingu wa Mutharika_
+_Context: Bingu wa Mutharika, fertilizer, Malawi, maize_
 
 ## [Previous Day...](/news/2005/07/24/index.md)
 

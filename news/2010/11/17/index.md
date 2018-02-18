@@ -49,7 +49,7 @@ More than 100 homes are evacuated in Cornwall as heavy rain and gale-force winds
 
 ##### Janni Letta
 ### [Italian Vice Prime Minister Janni Letta held talks with visiting Head of Iran's Cultural Heritage, Handcrafts and Tourism Organization (ICHTO) Hamid Baqaei. ](/news/2010/11/17/italian-vice-prime-minister-janni-letta-held-talks-with-visiting-head-of-iran-s-cultural-heritage-handcrafts-and-tourism-organization-icht.md)
-_Context: Cultural Heritage, Handcrafts and Tourism Organization, Hamid Baqaei, Janni Letta_
+_Context: Janni Letta, Cultural Heritage, Handcrafts and Tourism Organization, Hamid Baqaei_
 
 ##### Italian
 ### [Italian police arrest fugitive Camorra crime boss Antonio Iovine. ](/news/2010/11/17/italian-police-arrest-fugitive-camorra-crime-boss-antonio-iovine.md)
@@ -65,19 +65,19 @@ _Context: organ trafficking_
 
 ##### Cook Islands
 ### [People in the Pacific island nation of Cook Islands go to the polls for the general election as well as a referendum on reducing the number of MPs. ](/news/2010/11/17/people-in-the-pacific-island-nation-of-cook-islands-go-to-the-polls-for-the-general-election-as-well-as-a-referendum-on-reducing-the-number.md)
-_Context: Cook Islands, MP, referendum, general election_
+_Context: referendum, Cook Islands, MP, general election_
 
 ##### Republican
 ### [The Republican and Democratic party caucuses in the United States House of Representatives hold leadership elections. Nancy Pelosi of the Democrats is elected as Minority Leader when the new House sits in January with John Boehner to become Speaker of the United States House of Representatives. ](/news/2010/11/17/the-republican-and-democratic-party-caucuses-in-the-united-states-house-of-representatives-hold-leadership-elections-nancy-pelosi-of-the-de.md)
-_Context: Minority Leader, Nancy Pelosi, Republican, U.S. Speaker of the House of Representatives, caucus, United States House of Representatives, John Boehner, Democrat_
+_Context: Republican, U.S. Speaker of the House of Representatives, Nancy Pelosi, Minority Leader, United States House of Representatives, caucus, Democrat, John Boehner_
 
 ##### State of emergency
 ### [A state of emergency is declared in Guinea after post election violence. ](/news/2010/11/17/a-state-of-emergency-is-declared-in-guinea-after-post-election-violence.md)
-_Context: November's presidential poll, state of emergency, Guinea_
+_Context: Guinea, state of emergency, November's presidential poll_
 
 ##### United States Senate
 ### [Senator Lisa Murkowski wins the Alaska senate election becoming the first successful write-in candidate to be elected since 1954. ](/news/2010/11/17/senator-lisa-murkowski-wins-the-alaska-senate-election-becoming-the-first-successful-write-in-candidate-to-be-elected-since-1954.md)
-_Context: United States Senate, write-in candidate, Lisa Murkowski, Alaska senate  election_
+_Context: write-in candidate, Alaska senate  election, Lisa Murkowski, United States Senate_
 
 ##### Facebook
 ### [Facebook inadvertently disabled some users' accounts when a system designed to detect fake accounts malfunctioned. The problem has since been resolved. ](/news/2010/11/17/facebook-inadvertently-disabled-some-users-accounts-when-a-system-designed-to-detect-fake-accounts-malfunctioned-the-problem-has-since-bee.md)

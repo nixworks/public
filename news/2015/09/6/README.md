@@ -17,7 +17,7 @@ Six people, including a pregnant woman, are killed after a car veers off the roa
 
 ##### European migrant crisis
 ### [Pope Francis asks Catholic faithful in Europe to host refugee families fleeing death from war and hunger, and announces the Vatican's two churches will welcome two families of refugees. ](/news/2015/09/6/pope-francis-asks-catholic-faithful-in-europe-to-host-refugee-families-fleeing-death-from-war-and-hunger-and-announces-the-vatican-s-two-ch.md)
-_Context: Pope Francis, Catholic faithful, Europe, European migrant crisis, Vatican City_
+_Context: Vatican City, European migrant crisis, Europe, Pope Francis, Catholic faithful_
 
 ##### Tampa, Florida
 ### [In Tampa, Florida, former University of South Florida football player Elkino Watson is killed and Desmon Watson, another former player, is injured after an early morning stabbing after an argument broke out outside a nightclub in Ybor City. ](/news/2015/09/6/in-tampa-florida-former-university-of-south-florida-football-player-elkino-watson-is-killed-and-desmon-watson-another-former-player-is-i.md)
@@ -37,7 +37,7 @@ _Context: Jeep Cherokee, Dallas_
 
 ##### Guatemalan general election, 2015
 ### [Voters in Guatemala go to the polls for a general election. The presidential election appears headed for a runoff. ](/news/2015/09/6/voters-in-guatemala-go-to-the-polls-for-a-general-election-the-presidential-election-appears-headed-for-a-runoff.md)
-_Context: Guatemala, Guatemalan general election, 2015_
+_Context: Guatemalan general election, 2015, Guatemala_
 
 ##### Thailand
 ### [Thailand's National Reform Council (NRC) rejects a controversial new constitution, 135 to 105, with 7 abstentions. This result dissolves the NRC, continues military rule for at least 7 months, and delays the scheduled January 2016 referendum to early 2017 or later. ](/news/2015/09/6/thailand-s-national-reform-council-nrc-rejects-a-controversial-new-constitution-135-to-105-with-7-abstentions-this-result-dissolves-the.md)

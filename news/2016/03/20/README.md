@@ -9,7 +9,7 @@ The weekend attack targeting a busy shopping area points to a heightened terrori
 
 ##### The Church of Jesus Christ of Latter-day Saints in Utah
 ### [Dallin H. Oaks dedicates the Provo City Center Temple, the 150th LDS temple and the second temple converted from an LDS tabernacle. ](/news/2016/03/20/dallin-h-oaks-dedicates-the-provo-city-center-temple-the-150th-lds-temple-and-the-second-temple-converted-from-an-lds-tabernacle.md)
-_Context: LDS tabernacle, Dallin H. Oaks, The Church of Jesus Christ of Latter-day Saints in Utah, Provo City Center Temple, LDS temple_
+_Context: Provo City Center Temple, The Church of Jesus Christ of Latter-day Saints in Utah, LDS temple, Dallin H. Oaks, LDS tabernacle_
 
 ##### Cleveland
 ### [The United States-based Sherwin-Williams Company agrees to acquire rival U.S. paint company Valspar Corporation in an all-cash deal valued at about $9.3 billion (8.2 billion euros). ](/news/2016/03/20/the-united-states-based-sherwin-williams-company-agrees-to-acquire-rival-u-s-paint-company-valspar-corporation-in-an-all-cash-deal-valued-a.md)
@@ -25,7 +25,7 @@ At least one Briton is thought to have been on board a bus which crashed in Spai
 
 ##### Military
 ### [An Indonesian military helicopter crash shortly after takeoff from Poso kills 13 passengers. Their mission was to try to capture Indonesia's most wanted militant, Abu Wardah Santoso, leader of the Islamic State affiliate East Indonesia Mujahidin network. ](/news/2016/03/20/an-indonesian-military-helicopter-crash-shortly-after-takeoff-from-poso-kills-13-passengers-their-mission-was-to-try-to-capture-indonesia-s.md)
-_Context: military helicopter, Poso, East Indonesia Mujahidin network, Abu Wardah Santoso, Indonesia, ISIL, military_
+_Context: East Indonesia Mujahidin network, Abu Wardah Santoso, military, Indonesia, Poso, ISIL, military helicopter_
 
 ##### United States-Cuban Thaw
 ### [U.S. President Barack Obama and the First Family begin their three-day visit to Havana, Cuba, to mark the end of 54 years of tensions in Cuba-United States relations. Obama is the first sitting U.S. president to visit the country since Calvin Coolidge in 1928. ](/news/2016/03/20/u-s-president-barack-obama-and-the-first-family-begin-their-three-day-visit-to-havana-cuba-to-mark-the-end-of-54-years-of-tensions-in-cub.md)
@@ -37,7 +37,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ##### Beninese presidential election, 2016
 ### [Voting for the second round of Benin's election begins with current President Thomas Boni Yayi stepping down after completing two terms. ](/news/2016/03/20/voting-for-the-second-round-of-benin-s-election-begins-with-current-president-thomas-boni-yayi-stepping-down-after-completing-two-terms.md)
-_Context: Thomas Boni Yayi, Benin, President of Benin, Beninese presidential election, 2016_
+_Context: Beninese presidential election, 2016, President of Benin, Benin, Thomas Boni Yayi_
 
 ##### Cape Verdean parliamentary election, 2016
 ### [Voters in Cape Verde go to the polls for an election. ](/news/2016/03/20/voters-in-cape-verde-go-to-the-polls-for-an-election.md)
@@ -69,7 +69,7 @@ Senegalese residents are voting on a referendum that would see some sweeping con
 
 ##### Tanzanian general election, 2015
 ### [A rerun of Zanzibar's presidential election takes place amid an opposition boycott. The election originally occurred at the same time as Tanzania's general election in 2015 but was annulled because of supposed fraud. ](/news/2016/03/20/a-rerun-of-zanzibar-s-presidential-election-takes-place-amid-an-opposition-boycott-the-election-originally-occurred-at-the-same-time-as-tan.md)
-_Context: Tanzania, Tanzanian general election, 2015, Zanzibar_
+_Context: Tanzanian general election, 2015, Tanzania, Zanzibar_
 
 ## [Previous Day...](/news/2016/03/19/index.md)
 

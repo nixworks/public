@@ -9,11 +9,11 @@ The missiles could provide protection for rebel fighters in the north by creatin
 
 ##### A gunman opens fire
 ### [A gunman opens fire in northeast Moscow, killing five and injuring two. ](/news/2012/11/7/a-gunman-opens-fire-in-northeast-moscow-killing-five-and-injuring-two.md)
-_Context: Moscow, A gunman opens fire_
+_Context: A gunman opens fire, Moscow_
 
 ##### Earthquake measuring 7.3
 ### [An earthquake measuring 7.3 on the Richter scale kills 48 people in northern Guatemala. ](/news/2012/11/7/an-earthquake-measuring-7-3-on-the-richter-scale-kills-48-people-in-northern-guatemala.md)
-_Context: magnitude, earthquake measuring 7.3, Guatemala_
+_Context: earthquake measuring 7.3, Guatemala, magnitude_
 
 ##### United States elections, 2012
 ### [Voters in the states of Maine, Maryland, and Washington approve measures that would allow same-sex marriage, while Minnesota votes down an amendment that would define marriage as between one man and one woman. ](/news/2012/11/7/voters-in-the-states-of-maine-maryland-and-washington-approve-measures-that-would-allow-same-sex-marriage-while-minnesota-votes-down-an-a.md)

@@ -13,7 +13,7 @@ NASA managers on Monday declared shuttle Endeavour safe to return to Earth, with
 
 ##### United Nations Security Council
 ### [ The United Nations Security Council votes unanimously to extend the African Union Mission to Somalia. ](/news/2007/08/20/the-united-nations-security-council-votes-unanimously-to-extend-the-african-union-mission-to-somalia.md)
-_Context: United Nations Security Council, AMISOM_
+_Context: AMISOM, United Nations Security Council_
 
 ##### Ongoing flooding
 ### [ At least 20 people have died as a result of flooding in the United States with further flooding likely in Minnesota and Wisconsin. ](/news/2007/08/20/at-least-20-people-have-died-as-a-result-of-flooding-in-the-united-states-with-further-flooding-likely-in-minnesota-and-wisconsin.md)
@@ -21,7 +21,7 @@ Storms that deluged widely separated parts of the country from the upper Mississ
 
 ##### Judge
 ### [ A military judge dismisses two charges against Lieutenant Colonel Steven Jordan, a United States Army officer in charge of the interrogation centre at the Abu Ghraib prison in Iraq. Jordan still faces several more charges including cruelty and maltreatment of detainees, disobeying a superior officer and failure to obey orders. ](/news/2007/08/20/a-military-judge-dismisses-two-charges-against-lieutenant-colonel-steven-jordan-a-united-states-army-officer-in-charge-of-the-interrogatio.md)
-_Context: Lieutenant Colonel, United States soldier, Iraq, judge, Abu Ghraib_
+_Context: Lieutenant Colonel, judge, United States soldier, Abu Ghraib, Iraq_
 
 ##### I-35W Mississippi River Bridge Collapse
 ### [ The thirteenth and final victim is recovered from the site of the I-35W Mississippi River Bridge Collapse. ](/news/2007/08/20/the-thirteenth-and-final-victim-is-recovered-from-the-site-of-the-i-35w-mississippi-river-bridge-collapse.md)
@@ -41,15 +41,15 @@ Atlanta Falcons quarterback Michael Vick accepted a plea deal Monday and lengthy
 
 ##### United Kingdom
 ### [ British police have released CCTV footage of a motorcyclist shortly before his murder on the M40 motorway near Leamington Spa, Warwickshire. ](/news/2007/08/20/british-police-have-released-cctv-footage-of-a-motorcyclist-shortly-before-his-murder-on-the-m40-motorway-near-leamington-spa-warwickshire.md)
-_Context: United Kingdom, Warwickshire, CCTV, M40 motorway, Leamington Spa_
+_Context: United Kingdom, Warwickshire, M40 motorway, Leamington Spa, CCTV_
 
 ##### Tanzania
 ### [ An earthquake of 5.2 magnitude hits northern Tanzania 85 kilometres north of Arusha. ](/news/2007/08/20/an-earthquake-of-5-2-magnitude-hits-northern-tanzania-85-kilometres-north-of-arusha.md)
-_Context: Tanzania, Arusha_
+_Context: Arusha, Tanzania_
 
 ##### Mohammed Ali al-Hasani
 ### [ Mohammed Ali al-Hasani, the Shia governor of Iraq's southern Al Muthanna Governorate is killed by a roadside bomb at Samawa. ](/news/2007/08/20/mohammed-ali-al-hasani-the-shia-governor-of-iraq-s-southern-al-muthanna-governorate-is-killed-by-a-roadside-bomb-at-samawa.md)
-_Context: Al Muthanna Governorate, Mohammed Ali al-Hasani, Samawa, Shia, Iraq_
+_Context: Iraq, Samawa, Shia, Mohammed Ali al-Hasani, Al Muthanna Governorate_
 
 ##### Tasmania
 ### [ The Tasmanian Labor Party expels Harry Quick, the Member of the Australian House of Representatives for Franklin. ](/news/2007/08/20/the-tasmanian-labor-party-expels-harry-quick-the-member-of-the-australian-house-of-representatives-for-franklin.md)
@@ -57,11 +57,11 @@ Rebel Federal Labor MP Harry Quick has been thrown out of the party.
 
 ##### Eye
 ### [ The eye of Hurricane Dean rapidly moves westward, passing just south of Jamaica, bringing strong hurricane-force winds and storm surges to bear down on the island nation, though the strongest wind is believed to have been offshore. ](/news/2007/08/20/the-eye-of-hurricane-dean-rapidly-moves-westward-passing-just-south-of-jamaica-bringing-strong-hurricane-force-winds-and-storm-surges-to.md)
-_Context: eye, Jamaica, storm surge_
+_Context: storm surge, Jamaica, eye_
 
 ##### United States
 ### [ A summit between US president George W. Bush, Canadian prime minister Stephen Harper, Mexican president Felipe Caldern, and about 30 CEOs from the three countries begins in the resort town of Montebello, Quebec, near Ottawa. The talks will deal with the Security and Prosperity Partnership of North America. Protesters representing a variety of issues hold demonstrations regarding the exclusion of civil society from the talks and the secrecy of the process; police respond with tear gas. ](/news/2007/08/20/a-summit-between-us-president-george-w-bush-canadian-prime-minister-stephen-harper-mexican-president-felipe-calderon-and-about-30-ceos.md)
-_Context: Stephen Harper, tear gas, Mexico, Security and Prosperity Partnership of North America, Canadian, Ottawa, Protest, United States, George W. Bush, Felipe Caldern, Montebello, Quebec_
+_Context: Mexico, Ottawa, Security and Prosperity Partnership of North America, Stephen Harper, Montebello, Quebec, tear gas, George W. Bush, Canadian, Protest, United States, Felipe Caldern_
 
 ## [Previous Day...](/news/2007/08/19/index.md)
 

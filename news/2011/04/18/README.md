@@ -33,7 +33,7 @@ Get the latest Latin American and Caribbean news from BBC News in Latin America 
 
 ##### Piracy
 ### [An anti-piracy conference opens in Dubai, United Arab Emirates. ](/news/2011/04/18/an-anti-piracy-conference-opens-in-dubai-united-arab-emirates.md)
-_Context: United Arab Emirates, Dubai, piracy_
+_Context: Dubai, United Arab Emirates, piracy_
 
 ##### Uganda
 ### [Ugandan opposition leader Kizza Besigye is arrested during a protest against high food and fuel prices in the capital Kampala. ](/news/2011/04/18/ugandan-opposition-leader-kizza-besigye-is-arrested-during-a-protest-against-high-food-and-fuel-prices-in-the-capital-kampala.md)

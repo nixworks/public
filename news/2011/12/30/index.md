@@ -17,7 +17,7 @@ An attack blamed on the Islamist Boko Haram group hits the Nigerian city of Maid
 
 ##### McDonald's restaurants
 ### [The stock for McDonald's rose 31 percent in 2011, the largest gain in the Dow Jones Industrial Average, while Bank of America fell 59 percent, the largest loss in the Dow Jones. ](/news/2011/12/30/the-stock-for-mcdonald-s-rose-31-percent-in-2011-the-largest-gain-in-the-dow-jones-industrial-average-while-bank-of-america-fell-59-percen.md)
-_Context: McDonald's restaurants, Bank of America, Dow Jones Industrial Average_
+_Context: Dow Jones Industrial Average, McDonald's restaurants, Bank of America_
 
 ##### Canadian Auto Workers
 ### [Members of the Canadian Auto Workers vote in favour of a strike at Caterpillar Inc's locomotive manufacturing plant in London, Ontario. ](/news/2011/12/30/members-of-the-canadian-auto-workers-vote-in-favour-of-a-strike-at-caterpillar-inc-s-locomotive-manufacturing-plant-in-london-ontario.md)
@@ -29,7 +29,7 @@ _Context: floods_
 
 ##### Cyclone Thane
 ### [Cyclone Thane makes landfall near the southern Union Territory of Puducherry on India's southern coast. ](/news/2011/12/30/cyclone-thane-makes-landfall-near-the-southern-union-territory-of-puducherry-on-india-s-southern-coast.md)
-_Context: Union Territory, India, Puducherry, Cyclone Thane_
+_Context: Cyclone Thane, India, Union Territory, Puducherry_
 
 ##### North Korea
 ### [North Korea says that "foolish politicians around the world" should not expect any change in the country's policies. ](/news/2011/12/30/north-korea-says-that-foolish-politicians-around-the-world-should-not-expect-any-change-in-the-country-s-policies.md)
@@ -37,11 +37,11 @@ _Context: North Korea_
 
 ##### Ecuador
 ### [Ecuador vows to protect the Yasuni National Park in the Amazon basin after international donors contribute $100 million to a protection fund. ](/news/2011/12/30/ecuador-vows-to-protect-the-yasuni-national-park-in-the-amazon-basin-after-international-donors-contribute-100-million-to-a-protection-fund.md)
-_Context: Amazon basin, Ecuador, Yasuni National Park_
+_Context: Amazon basin, Yasuni National Park, Ecuador_
 
 ##### Mdecins Sans Frontires
 ### [The international aid group Mdecins Sans Frontires withdraws non-Somali workers from a hospital in Mogadishu after two of its aid workers were shot dead on Thursday. ](/news/2011/12/30/the-international-aid-group-medecins-sans-frontieres-withdraws-non-somali-workers-from-a-hospital-in-mogadishu-after-two-of-its-aid-workers.md)
-_Context: Somali, Mdecins Sans Frontires, Mogadishu_
+_Context: Mdecins Sans Frontires, Mogadishu, Somali_
 
 ##### Chinese
 ### [Former Chinese fugitive Lai Changxing is indicted on bribery and smuggling charges. ](/news/2011/12/30/former-chinese-fugitive-lai-changxing-is-indicted-on-bribery-and-smuggling-charges.md)
@@ -53,11 +53,11 @@ Defying opinion polls that suggested yesterday&#039;s general election was too c
 
 ##### Yemen
 ### [Tens of thousands of Yemenis protest against an immunity deal for former President Ali Abdullah Saleh demanding he face trial for deaths in the 2011 Yemeni uprising. ](/news/2011/12/30/tens-of-thousands-of-yemenis-protest-against-an-immunity-deal-for-former-president-ali-abdullah-saleh-demanding-he-face-trial-for-deaths-in.md)
-_Context: Ali Abdullah Saleh, Yemen, 2011 Yemeni uprising, President_
+_Context: 2011 Yemeni uprising, Yemen, Ali Abdullah Saleh, President_
 
 ##### DR Congo
 ### [The party of Democratic Republic of the Congo politician tienne Tshisekedi says he has been placed under house arrest in Kinshasa since he claimed to have won the presidential election earlier this year. ](/news/2011/12/30/the-party-of-democratic-republic-of-the-congo-politician-etienne-tshisekedi-says-he-has-been-placed-under-house-arrest-in-kinshasa-since-he.md)
-_Context: Kinshasa, DR Congo, presidential election, tienne Tshisekedi_
+_Context: tienne Tshisekedi, Kinshasa, DR Congo, presidential election_
 
 ## [Previous Day...](/news/2011/12/29/index.md)
 

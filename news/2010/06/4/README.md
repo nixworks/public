@@ -9,7 +9,7 @@ About 50 people are continuing to blockade the Israeli embassy in Dublin today i
 
 ##### Ahlu Sunnah Waljama
 ### [The pro-government militia group of Ahlu Sunnah Waljama (ASW) in Somalia claims to have killed at least 91 Islamist fighters and wounded 170 others in Thursday's fierce clashes. ](/news/2010/06/4/the-pro-government-militia-group-of-ahlu-sunnah-waljama-asw-in-somalia-claims-to-have-killed-at-least-91-islamist-fighters-and-wounded-170.md)
-_Context: Somalia, Ahlu Sunnah Waljama, Islamist_
+_Context: Islamist, Ahlu Sunnah Waljama, Somalia_
 
 ##### Prime Minister
 ### [Prime Minister of the United Kingdom David Cameron visits Cumbria. ](/news/2010/06/4/prime-minister-of-the-united-kingdom-david-cameron-visits-cumbria.md)
@@ -17,7 +17,7 @@ The BBC apologises for airing a radio play about a murderer featuring gunshots, 
 
 ##### McDonalds
 ### [McDonalds recalls 12 million promotional glasses for the movie "Shrek Forever After" due to the presence of cadmium in the painted design. ](/news/2010/06/4/mcdonalds-recalls-12-million-promotional-glasses-for-the-movie-shrek-forever-after-due-to-the-presence-of-cadmium-in-the-painted-design.md)
-_Context: glasses, McDonalds, cadmium, Shrek Forever After_
+_Context: cadmium, McDonalds, glasses, Shrek Forever After_
 
 ##### Zamfara State lead poisoning epidemic
 ### [163 people die from lead poisoning in Zamfara State, Nigeria: confirmed cases being treated number 355. ](/news/2010/06/4/163-people-die-from-lead-poisoning-in-zamfara-state-nigeria-confirmed-cases-being-treated-number-355.md)
@@ -25,7 +25,7 @@ More than 100 children have recently died of lead poisoning in northern Nigeria 
 
 ##### A fire
 ### [The death toll rises to 109 following a fire in the centre of Dhaka, Bangladesh. At least 50 injured victims struggle for life at the state-run Dhaka Medical College Hospital. ](/news/2010/06/4/the-death-toll-rises-to-109-following-a-fire-in-the-centre-of-dhaka-bangladesh-at-least-50-injured-victims-struggle-for-life-at-the-state.md)
-_Context: a fire, Bangladesh, Dhaka, Dhaka Medical College Hospital_
+_Context: Bangladesh, Dhaka Medical College Hospital, a fire, Dhaka_
 
 ##### Italy
 ### [Seven Italian officials are investigated for manslaughter relating to the 2009 L'Aquila earthquake. ](/news/2010/06/4/seven-italian-officials-are-investigated-for-manslaughter-relating-to-the-2009-l-aquila-earthquake.md)
@@ -41,11 +41,11 @@ Links between WHO experts and drug firms that profited from H1N1 pandemic under 
 
 ##### Joran van der Sloot
 ### [Joran van der Sloot, a suspect in the disappearance of Natalee Holloway in Aruba, is extradited from Chile to Peru to face charges in the killing of a Peruvian woman. ](/news/2010/06/4/joran-van-der-sloot-a-suspect-in-the-disappearance-of-natalee-holloway-in-aruba-is-extradited-from-chile-to-peru-to-face-charges-in-the-ki.md)
-_Context: Chile, Joran van der Sloot, Peru, Natalee Holloway, Aruba_
+_Context: Peru, Aruba, Natalee Holloway, Chile, Joran van der Sloot_
 
 ##### Joint Base Lewis-McChord
 ### [A Joint Base Lewis-McChord United States Army soldier is charged with three counts of premeditated murder in connection with the deaths of three Afghan civilians. ](/news/2010/06/4/a-joint-base-lewis-mcchord-united-states-army-soldier-is-charged-with-three-counts-of-premeditated-murder-in-connection-with-the-deaths-of-t.md)
-_Context: Joint Base Lewis-McChord, murder, Afghan, United States soldier_
+_Context: Afghan, murder, Joint Base Lewis-McChord, United States soldier_
 
 ##### Brice Hortefeux
 ### [French Interior Minister Brice Hortefeux is convicted of racism. ](/news/2010/06/4/french-interior-minister-brice-hortefeux-is-convicted-of-racism.md)
@@ -69,7 +69,7 @@ Secret files show ruling military building atomic weapons programme, defectors s
 
 ##### Naoto Kan
 ### [Naoto Kan is elected as the new leader of the Democratic Party of Japan and subsequently as the new Prime Minister of Japan, where he currently awaits confirmation from Emperor Akihito. ](/news/2010/06/4/naoto-kan-is-elected-as-the-new-leader-of-the-democratic-party-of-japan-and-subsequently-as-the-new-prime-minister-of-japan-where-he-curren.md)
-_Context: Emperor Akihito, Democratic Party, Naoto Kan, Prime Minister of Japan_
+_Context: Emperor Akihito, Prime Minister of Japan, Naoto Kan, Democratic Party_
 
 ##### United Kingdom
 ### [The Government of the United Kingdom releases hitherto undisclosed public spending details from the past two years ](/news/2010/06/4/the-government-of-the-united-kingdom-releases-hitherto-undisclosed-public-spending-details-from-the-past-two-years.md)

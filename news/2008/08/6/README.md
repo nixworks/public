@@ -17,7 +17,7 @@ An explosion on the Baku-Tbilisi-Ceyhan (BTC) pipeline on Tuesday night in easte
 
 ##### Salim Hamdan
 ### [ Salim Hamdan, the former driver for Osama Bin Laden, is convicted of supporting terrorism in the United States in the first military war crimes trial of a terror suspect captured after the September 11, 2001 attacks. ](/news/2008/08/6/salim-hamdan-the-former-driver-for-osama-bin-laden-is-convicted-of-supporting-terrorism-in-the-united-states-in-the-first-military-war-cr.md)
-_Context: Osama Bin Laden, United States, September 11, 2001 attacks, Salim Hamdan, terrorism_
+_Context: terrorism, United States, September 11, 2001 attacks, Osama Bin Laden, Salim Hamdan_
 
 ##### Military coup d'etat
 ### [ A military coup d'etat occurs in Mauritania with the Army, led by Mohamed Ould Abdel Aziz, seizing the President Sidi Ould Cheikh Abdallahi, the Prime Minister Yahya Ould Ahmed El Waghef and the Interior Minister. ](/news/2008/08/6/a-military-coup-d-a-c-tat-occurs-in-mauritania-with-the-army-led-by-mohamed-ould-abdel-aziz-seizing-the-president-sidi-ould-cheikh-abdallah.md)
@@ -29,11 +29,11 @@ _Context: UH-1H, Thailand, Royal Thai Air Force_
 
 ##### United States
 ### [ The United States FBI claims scientist Bruce Ivins was responsible for the anthrax scares of 2001 that killed five people and made 17 others ill. ](/news/2008/08/6/the-united-states-fbi-claims-scientist-bruce-ivins-was-responsible-for-the-anthrax-scares-of-2001-that-killed-five-people-and-made-17-other.md)
-_Context: anthrax, FBI, scientist, United States, Bruce Ivins_
+_Context: scientist, United States, anthrax, FBI, Bruce Ivins_
 
 ##### Malaysia
 ### [ Leader of Malaysian opposition Anwar Ibrahim is formally charged with sodomy, which he claims is a politically motivated charge. ](/news/2008/08/6/leader-of-malaysian-opposition-anwar-ibrahim-is-formally-charged-with-sodomy-which-he-claims-is-a-politically-motivated-charge.md)
-_Context: sodomy, Anwar Ibrahim, Malaysia_
+_Context: Anwar Ibrahim, Malaysia, sodomy_
 
 ## [Previous Day...](/news/2008/08/5/index.md)
 

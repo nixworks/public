@@ -5,7 +5,7 @@ Formats: [HTML](2006/01/26/index.html)  [JSON](2006/01/26/index.json)  [XML](200
 
 ##### Islamist
 ### [ Islamist party Hamas' landslide victory in Palestinian elections ends four decades of rule by the Fatah party. Hamas secures 76 seats in the 132-member legislature through parliamentary elections. Prime Minister Ahmed Qurei announces he will resign and Fatah declares it will not join a Hamas-led coalition, although Palestinian President Mahmoud Abbas plans to continue negotiations with Israel through the Palestine Liberation Organization.](/news/2006/01/26/islamist-party-hamas-landslide-victory-in-palestinian-elections-ends-four-decades-of-rule-by-the-fatah-party-hamas-secures-76-seats-in-th.md)
-_Context: Mahmoud Abbas, Palestine Liberation Organization, Israel, Prime Minister, Fatah, Ahmed Qurei, Hamas, January 2006 legislative elections, Palestine, Islamist_
+_Context: Mahmoud Abbas, Palestine, Palestine Liberation Organization, Hamas, Islamist, Ahmed Qurei, Fatah, January 2006 legislative elections, Israel, Prime Minister_
 
 ##### David Mulford
 ### [ Indian foreign secretary Shyam Saran reacts sharply to US Ambassador David Mulford's warning over the future of the Indo-US nuclear deal, saying on Thursday that it was "inappropriate" and not conducive to good relations between the two countries. ](/news/2006/01/26/indian-foreign-secretary-shyam-saran-reacts-sharply-to-us-ambassador-david-mulford-s-warning-over-the-future-of-the-indo-us-nuclear-deal-s.md)
@@ -13,19 +13,19 @@ _Context: David Mulford_
 
 ##### Ambassador
 ### [ One day after US ambassador to Mexico Tony Garza claimed that Mexican soldiers had helped drug smugglers to escape pursuit by Texas state police on US soil near El Paso, Texas, Mexican Secretary of Foreign Affairs Luis Ernesto Derbez suggested that the people involved may have been US soldiers wearing the uniforms of Mexican military. ](/news/2006/01/26/one-day-after-us-ambassador-to-mexico-tony-garza-claimed-that-mexican-soldiers-had-helped-drug-smugglers-to-escape-pursuit-by-texas-state-p.md)
-_Context: Mexico, Luis Ernesto Derbez, Foreign Minister, El Paso, Texas state police, Tony Garza, drug smuggler, uniform, ambassador_
+_Context: Tony Garza, Texas state police, uniform, drug smuggler, Foreign Minister, ambassador, El Paso, Mexico, Luis Ernesto Derbez_
 
 ##### President
 ### [ Pakistani President Pervez Musharraf rejects US objections to a proposed Iran-Pakistan-India pipeline for natural gas saying "It is in our economic interest. If somebody wants to stop us they should compensate us ... But at the moment we are going ahead". Musharraf also repeats his condemnation of the recent U.S. air strike in northern Pakistan which killed 18 people, including women and children. ](/news/2006/01/26/pakistani-president-pervez-musharraf-rejects-us-objections-to-a-proposed-iranapakistanaindia-pipeline-for-natural-gas-saying-it-is-in.md)
-_Context: Pakistan, Iran, Pervez Musharraf, president, natural gas, recent U.S. air strike_
+_Context: Pakistan, president, Pervez Musharraf, Iran, recent U.S. air strike, natural gas_
 
 ##### Liberal Democrats
 ### [ Liberal Democrat MEP for London, Sarah Ludford, who is leading a European Parliament investigation into the U.S. policy of "extraordinary rendition", says she may invite Vice President of the United States Dick Cheney, United States Secretary of Defense Donald Rumsfeld or United States Secretary of State Condoleezza Rice to testify. ](/news/2006/01/26/liberal-democrat-mep-for-london-sarah-ludford-who-is-leading-a-european-parliament-investigation-into-the-u-s-policy-of-extraordinary-r.md)
-_Context: Member of the European Parliament, Sarah Ludford, Liberal Democrats, Condoleezza Rice, London, Donald Rumsfeld, Dick Cheney, extraordinary rendition, United States Secretary of State, European Parliament, United States Secretary of Defense, U.S. Vice President_
+_Context: Sarah Ludford, London, United States Secretary of State, Dick Cheney, Condoleezza Rice, Member of the European Parliament, U.S. Vice President, extraordinary rendition, Donald Rumsfeld, Liberal Democrats, United States Secretary of Defense, European Parliament_
 
 ##### Iran's nuclear program
 ### [ In the long running dispute over Iran's nuclear program, the ambassador of the United States to India, David Mulford, has warned India to back the US plan to refer Iran to the United Nations Security Council or face cancellation of a US-India nuclear deal.](/news/2006/01/26/in-the-long-running-dispute-over-iran-s-nuclear-program-the-ambassador-of-the-united-states-to-india-david-mulford-has-warned-india-to-b.md)
-_Context: David Mulford, Iran's nuclear program, United Nations Security Council_
+_Context: United Nations Security Council, David Mulford, Iran's nuclear program_
 
 ##### Delhi
 ### [ India's foreign ministry calls the comments inapproapiate and summons the ambassador to Delhi for an explanation ](/news/2006/01/26/india-s-foreign-ministry-calls-the-comments-inapproapiate-and-summons-the-ambassador-to-delhi-for-an-explanation.md)

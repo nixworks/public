@@ -5,7 +5,7 @@ Formats: [HTML](2009/01/24/index.html)  [JSON](2009/01/24/index.json)  [XML](200
 
 ##### Pope
 ### [ Pope Benedict XVI rescinds the excommunications of four bishops consecrated in 1988 by French Archbishop Marcel Lefebvre. ](/news/2009/01/24/pope-benedict-xvi-rescinds-the-excommunications-of-four-bishops-consecrated-in-1988-by-french-archbishop-marcel-lefebvre.md)
-_Context: four bishops, excommunicate, France, Marcel Lefebvre, consecrated, Pope Benedict XVI, Pope, Archbishop_
+_Context: Pope, Archbishop, four bishops, Pope Benedict XVI, Marcel Lefebvre, consecrated, excommunicate, France_
 
 ##### Suicide bombing
 ### [ A suicide car bomb targeting African Union peacekeepers kills 14 civilians in Mogadishu, Somalia. ](/news/2009/01/24/a-suicide-car-bomb-targeting-african-union-peacekeepers-kills-14-civilians-in-mogadishu-somalia.md)

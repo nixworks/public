@@ -5,7 +5,7 @@ Formats: [HTML](2014/10/24/index.html)  [JSON](2014/10/24/index.json)  [XML](201
 
 ##### Recent attacks
 ### [Two attacks by militants on Egyptian military positions in the Sinai Peninsula kill at least 33 security personnel. ](/news/2014/10/24/two-attacks-by-militants-on-egyptian-military-positions-in-the-sinai-peninsula-kill-at-least-33-security-personnel.md)
-_Context: recent attacks, Sinai Peninsula_
+_Context: Sinai Peninsula, recent attacks_
 
 ##### Marysville Pilchuck High School shooting
 ### [A student and a student gunman of Marysville Pilchuck High School in Marysville, Washington, are fatally shot along with six others injured. ](/news/2014/10/24/a-student-and-a-student-gunman-of-marysville-pilchuck-high-school-in-marysville-washington-are-fatally-shot-along-with-six-others-injured.md)
@@ -21,11 +21,11 @@ EU leaders reach a landmark climate deal, including a target to cut carbon emiss
 
 ##### Botswana election
 ### [Voters in Botswana go to the polls for a general election with the ruling Botswana Democratic Party of President Ian Khama winning 33 of 57 seats. ](/news/2014/10/24/voters-in-botswana-go-to-the-polls-for-a-general-election-with-the-ruling-botswana-democratic-party-of-president-ian-khama-winning-33-of-57.md)
-_Context: Ian Khama, Botswana election, Botswana, President, Botswana Democratic Party_
+_Context: Botswana, President, Ian Khama, Botswana election, Botswana Democratic Party_
 
 ##### Spaceflight mission
 ### [The China National Space Administration launches the unmanned Chang'e 5-T1 spacecraft to fly around the moon and back to earth. ](/news/2014/10/24/the-china-national-space-administration-launches-the-unmanned-chang-e-5-t1-spacecraft-to-fly-around-the-moon-and-back-to-earth.md)
-_Context: China National Space Administration, spaceflight mission, Chang'e 5-T1_
+_Context: Chang'e 5-T1, spaceflight mission, China National Space Administration_
 
 ##### Alan Eustace
 ### [Alan Eustace sets a parachuting record of 135,000 feet. ](/news/2014/10/24/alan-eustace-sets-a-parachuting-record-of-135-000-feet.md)

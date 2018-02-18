@@ -5,7 +5,7 @@ Formats: [HTML](2004/07/2/index.html)  [JSON](2004/07/2/index.json)  [XML](2004/
 
 ##### Darfur conflict
 ### [ Darfur conflict: Sudanese President Omar Hasan Ahmad al-Bashir, in a meeting with United Nations Secretary-General Kofi Annan, makes a commitment to "ensure security for the civilian population by deploying civilian police and by disarming militias". ](/news/2004/07/2/darfur-conflict-sudanese-president-omar-hasan-ahmad-al-bashir-in-a-meeting-with-united-nations-secretary-general-kofi-annan-makes-a-comm.md)
-_Context: Sudan, Darfur conflict, Omar Hasan Ahmad al-Bashir, United Nations Secretary-General, Kofi Annan_
+_Context: Omar Hasan Ahmad al-Bashir, United Nations Secretary-General, Sudan, Kofi Annan, Darfur conflict_
 
 ##### Brazil
 ### [ Brazil's strict new gun control legislation, including a nationwide register of all firearms, both privately owned and government issued, comes into force. ](/news/2004/07/2/brazil-s-strict-new-gun-control-legislation-including-a-nationwide-register-of-all-firearms-both-privately-owned-and-government-issued-c.md)
@@ -13,19 +13,19 @@ _Context: gun control, Brazil_
 
 ##### Bill Cosby
 ### [ Entertainer Bill Cosby, in an appearance with Jesse Jackson, criticizes the African American community, saying illiterate blacks are "going nowhere" and advising unemployed black men to "stop beating up your women". ](/news/2004/07/2/entertainer-bill-cosby-in-an-appearance-with-jesse-jackson-criticizes-the-african-american-community-saying-illiterate-blacks-are-going.md)
-_Context: black, Bill Cosby, Jesse Jackson_
+_Context: Jesse Jackson, black, Bill Cosby_
 
 ##### Occupation of Iraq
 ### [ Occupation of Iraq: Four U.S. Army soldiers, including 1st. Lt. Jack M. Saville and Sgt. Tracy Perkins, are charged with offenses ranging up to involuntary manslaughter in the January 3 drowning death of an Iraqi detainee whom they reportedly forced to leap into the Tigris from atop a bridge in Samarra. ](/news/2004/07/2/occupation-of-iraq-four-u-s-army-soldiers-including-1st-lt-jack-m-saville-and-sgt-tracy-perkins-are-charged-with-offenses-ranging-u.md)
-_Context: U.S. Army, Jack M. Saville, Iraq, Occupation of Iraq, Tracy Perkins, Sergeant, Tigris River, Samarra, first lieutenant_
+_Context: Samarra, Iraq, Tracy Perkins, Sergeant, U.S. Army, Jack M. Saville, first lieutenant, Occupation of Iraq, Tigris River_
 
 ##### 2004 U.S. presidential candidate
 ### [ U.S. presidential election: Several Democratic Party members of the U.S. House of Representatives request that the United Nations send observers to monitor the November 2 presidential election, citing the disputed 2000 presidential outcome. ](/news/2004/07/2/u-s-presidential-election-several-democratic-party-members-of-the-u-s-house-of-representatives-request-that-the-united-nations-send-obse.md)
-_Context: Democratic, 2004 U.S. presidential candidate, last election, United Nations, United States House of Representatives_
+_Context: 2004 U.S. presidential candidate, Democratic, United States House of Representatives, last election, United Nations_
 
 ##### Medevac
 ### [ A Medevac of airline Air TRK crashes during take-off from Tocumen International Airport in Panama City, Panama, after a stopover in a flight from Quito, Ecuador, to Washington, D.C., US, killing six passengers and one airport worker. ](/news/2004/07/2/a-medevac-of-airline-air-trk-crashes-during-take-off-from-tocumen-international-airport-in-panama-city-panama-after-a-stopover-in-a-fligh.md)
-_Context: airline, Tocumen International Airport, Medevac, Panama City, Panama, Quito, Ecuador, Air TRK, Washington, D.C._
+_Context: Quito, Ecuador, Washington, D.C., Air TRK, Panama City, Panama, Tocumen International Airport, Medevac, airline_
 
 ## [Previous Day...](/news/2004/07/1/index.md)
 

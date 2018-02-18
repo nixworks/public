@@ -29,7 +29,7 @@ _Context: 2013 North India floods, Uttarakhand_
 
 ##### 2013 Southeast Asian haze
 ### [2013 Southeast Asian haze: Haze from Indonesian forest fires in Sumatra increase air pollution in Singapore and Malaysia to hazardous levels. ](/news/2013/06/20/2013-southeast-asian-haze-haze-from-indonesian-forest-fires-in-sumatra-increase-air-pollution-in-singapore-and-malaysia-to-hazardous-levels.md)
-_Context: Malaysia, air pollution, Indonesia, 2013 Southeast Asian haze, forest fire, Singapore, Sumatra_
+_Context: air pollution, Sumatra, forest fire, Singapore, 2013 Southeast Asian haze, Indonesia, Malaysia_
 
 ##### Coteau-du-Lac, Quebec
 ### [Two people have died in an explosion at a fireworks warehouse in Coteau-du-Lac, Quebec, Canada. ](/news/2013/06/20/two-people-have-died-in-an-explosion-at-a-fireworks-warehouse-in-coteau-du-lac-quebec-canada.md)
@@ -37,7 +37,7 @@ _Context: Coteau-du-Lac, Quebec, Canadian_
 
 ##### South Island
 ### [New Zealand's South Island is lashed by wild weather. Dunedin and Christchurch have roads cut off and flights cancelled as conditions worsen. Heavy snow and flooding is reported in parts of Canterbury, Otago and Southland. ](/news/2013/06/20/new-zealand-s-south-island-is-lashed-by-wild-weather-dunedin-and-christchurch-have-roads-cut-off-and-flights-cancelled-as-conditions-worsen.md)
-_Context: South Island, Dunedin, Christchurch_
+_Context: Christchurch, South Island, Dunedin_
 
 ##### Argentinian
 ### [Argentinian football star Lionel Messi and his father are summoned to appear before a Spanish court on tax charges in September. ](/news/2013/06/20/argentinian-football-star-lionel-messi-and-his-father-are-summoned-to-appear-before-a-spanish-court-on-tax-charges-in-september.md)

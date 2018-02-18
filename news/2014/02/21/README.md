@@ -13,7 +13,7 @@ _Context: Genesis Carmona, Nicolas Maduro_
 
 ##### Venezuela
 ### [Venezuelan president Nicolas Maduro threatens to expel CNN from the country, alleging that they are helping the opposition. ](/news/2014/02/21/venezuelan-president-nicola-s-maduro-threatens-to-expel-cnn-from-the-country-alleging-that-they-are-helping-the-opposition.md)
-_Context: Nicolas Maduro, Venezuela, CNN_
+_Context: Nicolas Maduro, CNN, Venezuela_
 
 ##### Anne Frank
 ### [Books related to Anne Frank are vandalized across public libraries in Tokyo, Japan. ](/news/2014/02/21/books-related-to-anne-frank-are-vandalized-across-public-libraries-in-tokyo-japan.md)
@@ -33,7 +33,7 @@ US President Barack Obama hosts the exiled Tibetan spiritual leader the Dalai La
 
 ##### Sudan
 ### [Sudan puts a married Ethiopian woman to trial after being gang-raped because she waited before she reported it. She faces the death penalty for adultery. ](/news/2014/02/21/sudan-puts-a-married-ethiopian-woman-to-trial-after-being-gang-raped-because-she-waited-before-she-reported-it-she-faces-the-death-penalty.md)
-_Context: death penalty, adultery, Ethiopia, Sudan, gang-rape_
+_Context: Sudan, adultery, gang-rape, Ethiopia, death penalty_
 
 ##### University of Bedfordshire
 ### [A linguists professor from the University of Bedfordshire manages to decipher 10 of the words in the enigmatic Voynich manuscript. ](/news/2014/02/21/a-linguists-professor-from-the-university-of-bedfordshire-manages-to-decipher-10-of-the-words-in-the-enigmatic-voynich-manuscript.md)

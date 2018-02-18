@@ -9,7 +9,7 @@ Syrian rebels and civilians refuse to leave the besieged city of Aleppo as a cea
 
 ##### Joko Widodo
 ### [Joko Widodo, the President of Indonesia, cancels a planned visit to Australia following violent protests in Jakarta that resulted in one death and 12 injured. ](/news/2016/11/5/joko-widodo-the-president-of-indonesia-cancels-a-planned-visit-to-australia-following-violent-protests-in-jakarta-that-resulted-in-one-dea.md)
-_Context: Australia, Jakarta, Joko Widodo, President of Indonesia_
+_Context: Jakarta, President of Indonesia, Australia, Joko Widodo_
 
 ##### Drug crackdown
 ### [The mayor of Albuera, Leyte, accused of drug trafficking, is shot dead in jail. ](/news/2016/11/5/the-mayor-of-albuera-leyte-accused-of-drug-trafficking-is-shot-dead-in-jail.md)

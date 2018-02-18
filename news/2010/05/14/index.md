@@ -9,7 +9,7 @@ Suicide bombers target game in northern town of Tal Afar, leaving at least 25 de
 
 ##### Thailand
 ### [Death toll rises to at least 8 and up to 121 injured as anti-government protests escalate in Thailand during a day of violence sparked by yesterday's shooting of a key figure, Khattiya Sawasdipol, of the Red Shirt protesters. ](/news/2010/05/14/death-toll-rises-to-at-least-8-and-up-to-121-injured-as-anti-government-protests-escalate-in-thailand-during-a-day-of-violence-sparked-by-ye.md)
-_Context: red shirt, Khattiya Sawasdipol, Thailand_
+_Context: Thailand, red shirt, Khattiya Sawasdipol_
 
 ##### Kurmanbek Bakiyev
 ### [At least one person is killed and 42 injured as live ammunition is fired during clashes between interim government supporters and backers of ousted president Kurmanbek Bakiyev in southern Kyrgyzstan. ](/news/2010/05/14/at-least-one-person-is-killed-and-42-injured-as-live-ammunition-is-fired-during-clashes-between-interim-government-supporters-and-backers-of.md)
@@ -29,11 +29,11 @@ The body of a Palestinian teenager was found in the occupied West Bank on Friday
 
 ##### Pakistan
 ### [Pakistan arrests a suspect with connections to a Pakistani group who said he acted as an accomplice to the man accused of trying to bomb Times Square in New York. ](/news/2010/05/14/pakistan-arrests-a-suspect-with-connections-to-a-pakistani-group-who-said-he-acted-as-an-accomplice-to-the-man-accused-of-trying-to-bomb-tim.md)
-_Context: Pakistan, New York City, Faisal Shahzad, Times Square bomber_
+_Context: Pakistan, Times Square bomber, New York City, Faisal Shahzad_
 
 ##### Nigeria
 ### [The chairman of the Nigerian People's Democratic Party (PDP), Vincent Eze Ogbulafor, resigns days after facing fraud charges in court. ](/news/2010/05/14/the-chairman-of-the-nigerian-people-s-democratic-party-pdp-vincent-eze-ogbulafor-resigns-days-after-facing-fraud-charges-in-court.md)
-_Context: Vincent Eze Ogbulafor, Nigeria, People's Democratic Party_
+_Context: People's Democratic Party, Nigeria, Vincent Eze Ogbulafor_
 
 ##### Spain
 ### [Spanish judge Baltasar Garzon is suspended ahead of his trial. ](/news/2010/05/14/spanish-judge-baltasar-garza3n-is-suspended-ahead-of-his-trial.md)
@@ -61,7 +61,7 @@ Nigerian and Chinese authorities sign a $23bn deal to build three refineries and
 
 ##### Sweden
 ### [Sweden expels Syrian diplomat over suspected kidnapping plot. ](/news/2010/05/14/sweden-expels-syrian-diplomat-over-suspected-kidnapping-plot.md)
-_Context: Syria, Sweden_
+_Context: Sweden, Syria_
 
 ##### Labour Party
 ### [British Labour MP Stephen Timms, a former treasury minister, is stabbed in the abdomen by a woman in east London. ](/news/2010/05/14/british-labour-mp-stephen-timms-a-former-treasury-minister-is-stabbed-in-the-abdomen-by-a-woman-in-east-london.md)
@@ -69,7 +69,7 @@ A Labour MP was recovering well from an operation on stab wounds this morning af
 
 ##### New Zealand
 ### [New Zealand and South Africa's rugby unions make "landmark apologies" for excluding Maori and black players from their teams during the apartheid era. ](/news/2010/05/14/new-zealand-and-south-africa-s-rugby-unions-make-landmark-apologies-for-excluding-maori-and-black-players-from-their-teams-during-the-apar.md)
-_Context: apartheid, Maori, black, South Africa, New Zealand_
+_Context: Maori, South Africa, New Zealand, apartheid, black_
 
 ##### Space Shuttle Atlantis
 ### [Space Shuttle Atlantis lifts off for its final planned flight in the space shuttle program after a quarter century of service. ](/news/2010/05/14/space-shuttle-atlantis-lifts-off-for-its-final-planned-flight-in-the-space-shuttle-program-after-a-quarter-century-of-service.md)

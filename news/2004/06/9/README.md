@@ -5,7 +5,7 @@ Formats: [HTML](2004/06/9/index.html)  [JSON](2004/06/9/index.json)  [XML](2004/
 
 ##### Kurd
 ### [ Kurdish leaders in Iraq state that the Kurds would "refrain from participating in the central government" should the interim constitution be modified or replaced with a constitution that diminishes Kurdish political role in the central government. ](/news/2004/06/9/kurdish-leaders-in-iraq-state-that-the-kurds-would-refrain-from-participating-in-the-central-government-should-the-interim-constitution-b.md)
-_Context: Kurd, Iraq_
+_Context: Iraq, Kurd_
 
 ##### Cologne
 ### [ An explosion injures at least 17 in a commercial district of Cologne, Germany. Authorities are treating it as a bomb attack. ](/news/2004/06/9/an-explosion-injures-at-least-17-in-a-commercial-district-of-cologne-germany-authorities-are-treating-it-as-a-bomb-attack.md)
@@ -17,15 +17,15 @@ _Context: file sharing, music, British Phonographic Industry, IFPI_
 
 ##### Attorney General
 ### [ U.S. Attorney General John Ashcroft tells the Senate Judiciary Committee that George W. Bush did not approve the torture of terrorist prisoners; he also reiterates his stance that the Geneva Conventions do not apply to al-Qaeda fighters. ](/news/2004/06/9/u-s-attorney-general-john-ashcroft-tells-the-senate-judiciary-committee-that-george-w-bush-did-not-approve-the-torture-of-terrorist-priso.md)
-_Context: Attorney General, George W. Bush, United States Senate, Geneva Conventions, al-Qaeda, John Ashcroft, terrorism, Judiciary Committee, torture, prison_
+_Context: John Ashcroft, terrorism, Geneva Conventions, United States Senate, Attorney General, Judiciary Committee, torture, al-Qaeda, George W. Bush, prison_
 
 ##### Pakistan
 ### [ Twenty heavily armed foreign militants are killed by Pakistan in the South Waziristan mountainous tribal region near the Afghan border where it is believed that hundreds of al-Qaida members are hiding. ](/news/2004/06/9/twenty-heavily-armed-foreign-militants-are-killed-by-pakistan-in-the-south-waziristan-mountainous-tribal-region-near-the-afghan-border-wher.md)
-_Context: Pakistan, al-Qaida, Waziristan, Afghan_
+_Context: al-Qaida, Afghan, Pakistan, Waziristan_
 
 ##### Military
 ### [ Canada announces it will be increasing its non-military role in Iraq, while NATO is currently undecided about sending more support to Iraq. ](/news/2004/06/9/canada-announces-it-will-be-increasing-its-non-military-role-in-iraq-while-nato-is-currently-undecided-about-sending-more-support-to-iraq.md)
-_Context: Iraq, military, NATO_
+_Context: military, Iraq, NATO_
 
 ##### Fucking, Austria
 ### [ The village of Fucking, Austria, votes to keep its name, despite the cost of stolen traffic signs and possible embarrassment over its meaning in English. ](/news/2004/06/9/the-village-of-fucking-austria-votes-to-keep-its-name-despite-the-cost-of-stolen-traffic-signs-and-possible-embarrassment-over-its-meani.md)

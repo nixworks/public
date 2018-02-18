@@ -5,11 +5,11 @@ Formats: [HTML](2017/02/15/index.html)  [JSON](2017/02/15/index.json)  [XML](201
 
 ##### War in North-West Pakistan
 ### [Two separate bombings take place in Pakistan, killing at least seven people. A suicide bomber kills five people at the administrative headquarters in the Mohmand Agency tribal district while the other kills two people at a hospital in Peshawar. Jamaat-ul-Ahrar claims responsibility for the first attack. ](/news/2017/02/15/two-separate-bombings-take-place-in-pakistan-killing-at-least-seven-people-a-suicide-bomber-kills-five-people-at-the-administrative-headqu.md)
-_Context: Pakistan, Peshawar, War in North-West Pakistan, Mohmand Agency, Jamaat-ul-Ahrar_
+_Context: War in North-West Pakistan, Jamaat-ul-Ahrar, Peshawar, Mohmand Agency, Pakistan_
 
 ##### Iraqi Civil War (2014-present)
 ### [A suicide bomber detonates a pick-up truck full of explosives at a busy street in northern Baghdad, killing at least nine people. ](/news/2017/02/15/a-suicide-bomber-detonates-a-pick-up-truck-full-of-explosives-at-a-busy-street-in-northern-baghdad-killing-at-least-nine-people.md)
-_Context: Iraqi Civil War (2014-present), Baghdad_
+_Context: Baghdad, Iraqi Civil War (2014-present)_
 
 ##### Eurovision Song Contest
 ### [Twenty-one organizers for the Eurovision Song Contest in Kiev, Ukraine, resign en masse after claiming they were completely blocked from making decisions about the show. Despite the setback, the European Broadcasting Union insists that the event must go on. ](/news/2017/02/15/twenty-one-organizers-for-the-eurovision-song-contest-in-kiev-ukraine-resign-en-masse-after-claiming-they-were-completely-blocked-from-mak.md)

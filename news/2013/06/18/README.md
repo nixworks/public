@@ -29,7 +29,7 @@ _Context: Tuareg_
 
 ##### President
 ### [President of Nigeria Goodluck Jonathan announces a N3 billion fund to "intervene" in Nollywood. ](/news/2013/06/18/president-of-nigeria-goodluck-jonathan-announces-a-n3-billion-fund-to-intervene-in-nollywood.md)
-_Context: President, Goodluck Jonathan, N, Nollywood_
+_Context: Goodluck Jonathan, Nollywood, President, N_
 
 ##### Michael Hastings
 ### [American journalist Michael Hastings dies in a car crash at age 33. ](/news/2013/06/18/american-journalist-michael-hastings-dies-in-a-car-crash-at-age-33.md)
@@ -45,7 +45,7 @@ Outcome of US Fed meet on quantitative easing eyed
 
 ##### Chrysler
 ### [Chrysler agrees to recall 1.56 million Jeeps in the United States. ](/news/2013/06/18/chrysler-agrees-to-recall-1-56-million-jeeps-in-the-united-states.md)
-_Context: Jeep, Chrysler_
+_Context: Chrysler, Jeep_
 
 ##### Uttarakhand
 ### [The death toll from several days of heavy rain, flooding, and landslides in Uttarakhand, Uttar Pradesh, and Himachal Pradesh, hits 99. ](/news/2013/06/18/the-death-toll-from-several-days-of-heavy-rain-flooding-and-landslides-in-uttarakhand-uttar-pradesh-and-himachal-pradesh-hits-99.md)
@@ -85,11 +85,11 @@ A Greek court suspends a government order to close state broadcaster ERT - a mov
 
 ##### 2013 protests in Brazil
 ### [As many as 200,000 people march through Brazil's cities, with protestors having scaled the National Congress in Brasilia. ](/news/2013/06/18/as-many-as-200-000-people-march-through-brazil-s-cities-with-protestors-having-scaled-the-national-congress-in-brasilia.md)
-_Context: National Congress, 2013 protests in Brazil, Brasilia_
+_Context: 2013 protests in Brazil, Brasilia, National Congress_
 
 ##### National Security Agency
 ### [Several Federal officials, including National Security Agency (NSA) Director Keith Alexander, testify at a hearing held by the U.S. House Intelligence Committee over government surveillance programs whose existence was leaked earlier this month. ](/news/2013/06/18/several-federal-officials-including-national-security-agency-nsa-director-keith-alexander-testify-at-a-hearing-held-by-the-u-s-house-in.md)
-_Context: United States House of Representatives, House Intelligence Committee, National Security Agency, Keith Alexander_
+_Context: Keith Alexander, National Security Agency, United States House of Representatives, House Intelligence Committee_
 
 ##### Montreal
 ### [Montreal mayor Michael Applebaum resigns following fraud and corruption charges; he had replaced Gerald Tremblay who resigned because of similar allegations. ](/news/2013/06/18/montreal-mayor-michael-applebaum-resigns-following-fraud-and-corruption-charges-he-had-replaced-ga-c-rald-tremblay-who-resigned-because-of-si.md)
@@ -101,7 +101,7 @@ _Context: State Duma_
 
 ##### Huawei
 ### [Huawei unveils the world's slimmest smartphone, the Ascend P6. ](/news/2013/06/18/huawei-unveils-the-world-s-slimmest-smartphone-the-ascend-p6.md)
-_Context: Huawei, Ascend P6_
+_Context: Ascend P6, Huawei_
 
 ##### Tianhe-2
 ### [Tianhe-2 is named the world's fastest supercomputer per the TOP500. ](/news/2013/06/18/tianhe-2-is-named-the-world-s-fastest-supercomputer-per-the-top500.md)

@@ -9,15 +9,15 @@ _Context: Syria, Organisation for the Prohibition of Chemical Weapons_
 
 ##### United States
 ### [U.S. President Barack Obama, the White House Office of Management and Budget, issues a partial shutdown of government agencies after the House and Senate fail to come to an agreement on a spending bill to keep government operations running. ](/news/2013/10/1/u-s-president-barack-obama-the-white-house-office-of-management-and-budget-issues-a-partial-shutdown-of-government-agencies-after-the-hou.md)
-_Context: U.S. President, Barack Obama, United States, United States Senate, White House, Congress, Office of Management and Budget_
+_Context: Office of Management and Budget, Barack Obama, United States Senate, U.S. President, Congress, White House, United States_
 
 ##### Buddhist
 ### [A Buddhist mob torches more than 70 Muslim homes and stabs a 94-year-old woman to death in Rakhine State, Myanmar. ](/news/2013/10/1/a-buddhist-mob-torches-more-than-70-muslim-homes-and-stabs-a-94-year-old-woman-to-death-in-rakhine-state-myanmar.md)
-_Context: Buddhist, Myanmar, Rakhine State, Muslim_
+_Context: Muslim, Myanmar, Buddhist, Rakhine State_
 
 ##### Bangladesh
 ### [Bangladeshi politician Salahuddin Quader Chowdhury is sentenced to death for war crimes including murder, torture, and genocide for his atrocities in the Bangladesh Liberation War. ](/news/2013/10/1/bangladeshi-politician-salahuddin-quader-chowdhury-is-sentenced-to-death-for-war-crimes-including-murder-torture-and-genocide-for-his-atro.md)
-_Context: Salahuddin Quader Chowdhury, Bangladesh, independence war_
+_Context: independence war, Bangladesh, Salahuddin Quader Chowdhury_
 
 ##### Venezuela
 ### [The government of Venezuela expels three United States diplomats after accusing them of "economic sabotage". ](/news/2013/10/1/the-government-of-venezuela-expels-three-united-states-diplomats-after-accusing-them-of-economic-sabotage.md)

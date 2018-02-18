@@ -9,11 +9,11 @@ At least 30 injured; police, eyewitnesses say timely response prevented more cas
 
 ##### Libyan Civil War (2014-present)
 ### [Gunmen shoot dead the Mayor of Misurata, Libya, Mohamed Eshtewi, and wound his brother, after they chase down his car. ](/news/2017/12/17/gunmen-shoot-dead-the-mayor-of-misurata-libya-mohamed-eshtewi-and-wound-his-brother-after-they-chase-down-his-car.md)
-_Context: Misurata, Libya, Libyan Civil War (2014-present)_
+_Context: Libyan Civil War (2014-present), Misurata, Libya_
 
 ##### Syrian Civil War
 ### [A Russian airstrike using napalm kills at least ten civilians, including four children and six women from one family, in Idlib's town of Khan Shaykhun, according to the leader of the White Helmets. ](/news/2017/12/17/a-russian-airstrike-using-napalm-kills-at-least-ten-civilians-including-four-children-and-six-women-from-one-family-in-idlib-s-town-of-kha.md)
-_Context: Idlib Governorate, Syrian Civil War, Khan Shaykhun, White Helmets, napalm, Russia_
+_Context: napalm, White Helmets, Khan Shaykhun, Russia, Idlib Governorate, Syrian Civil War_
 
 ##### Russia-Venezuela relations
 ### [Venezuela and Rosneft sign agreements on gas exploration and exploitation. ](/news/2017/12/17/venezuela-and-rosneft-sign-agreements-on-gas-exploration-and-exploitation.md)
@@ -37,7 +37,7 @@ Both countries share land borders with Kim Jong Un&#039;s secretive state.
 
 ##### 2017 St. Petersburg raid
 ### [Russian President Vladimir Putin thanks U.S. President Donald Trump for sharing intelligence from the Central Intelligence Agency which they say helped prevent a terrorist attack in Saint Petersburg. ](/news/2017/12/17/russian-president-vladimir-putin-thanks-u-s-president-donald-trump-for-sharing-intelligence-from-the-central-intelligence-agency-which-they.md)
-_Context: Saint Petersburg, Donald Trump, CIA, Vladimir Putin, 2017 St. Petersburg raid_
+_Context: Donald Trump, Vladimir Putin, Saint Petersburg, 2017 St. Petersburg raid, CIA_
 
 ##### Australia-North Korea relations
 ### [Australian Federal Police arrest naturalized North Korean Chan Han Choi for violating UN and Australian sanctions by acting as an economic agent for North Korea. ](/news/2017/12/17/australian-federal-police-arrest-naturalized-north-korean-chan-han-choi-for-violating-un-and-australian-sanctions-by-acting-as-an-economic-a.md)

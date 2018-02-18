@@ -13,11 +13,11 @@ Assam CM Tarun Gogoi said RDX was used to trigger two of the six blasts in Guwah
 
 ##### East Devon
 ### [ A freak hailstorm hits East Devon, England, causing flooding in and around Ottery St Mary and Honiton. ](/news/2008/10/30/a-freak-hailstorm-hits-east-devon-england-causing-flooding-in-and-around-ottery-st-mary-and-honiton.md)
-_Context: England, Honiton, Ottery St Mary, East Devon_
+_Context: England, Honiton, East Devon, Ottery St Mary_
 
 ##### Canadian
 ### [ Canadian Prime Minister Stephen Harper's new Cabinet is sworn in after the October 14 federal election. ](/news/2008/10/30/canadian-prime-minister-stephen-harper-s-new-cabinet-is-sworn-in-after-the-october-14-federal-election.md)
-_Context: Stephen Harper, new Cabinet, Prime Minister of Canada, elected, Canadian_
+_Context: Canadian, Stephen Harper, elected, new Cabinet, Prime Minister of Canada_
 
 ## [Previous Day...](/news/2008/10/29/index.md)
 

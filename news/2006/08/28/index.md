@@ -5,23 +5,23 @@ Formats: [HTML](2006/08/28/index.html)  [JSON](2006/08/28/index.json)  [XML](200
 
 ##### United Nations Secretary-General
 ### [ United Nations Secretary-General Kofi Annan tells the Lebanese government that he wants the two Israeli soldiers captured by Hezbollah to be handed to the Red Cross. ](/news/2006/08/28/united-nations-secretary-general-kofi-annan-tells-the-lebanese-government-that-he-wants-the-two-israeli-soldiers-captured-by-hezbollah-to-b.md)
-_Context: Hezbollah, Kofi Annan, United Nations Secretary-General, Ehud Goldwasser, cabinet, Red Cross, Israel_
+_Context: United Nations Secretary-General, Israel, Hezbollah, Ehud Goldwasser, Red Cross, cabinet, Kofi Annan_
 
 ##### DNA test
 ### [ A DNA test of John Mark Karr does not match the DNA found on the body of JonBent Ramsey, and prosecutors in the U.S. state of Colorado say they will not charge Karr with murder. ](/news/2006/08/28/a-dna-test-of-john-mark-karr-does-not-match-the-dna-found-on-the-body-of-jonbenet-ramsey-and-prosecutors-in-the-u-s-state-of-colorado-say.md)
-_Context: Colorado, JonBent Ramsey, John Mark Karr, DNA test, U.S. state_
+_Context: Colorado, JonBent Ramsey, U.S. state, John Mark Karr, DNA test_
 
 ##### Mexico
 ### [ Mexico's Federal Electoral Tribunal rules unanimously that results in contested polling stations only marginally affected the lead of Felipe Caldern of the ruling National Action Party over Andrs Manuel Lpez Obrador in July's disputed presidential election. ](/news/2006/08/28/mexico-s-federal-electoral-tribunal-rules-unanimously-that-results-in-contested-polling-stations-only-marginally-affected-the-lead-of-felip.md)
-_Context: Disputed Mexican election, Andrs Manuel Lpez Obrador, Felipe Caldern, Mexican general election, National Action Party (PAN), Federal Electoral Tribunal, Mexico_
+_Context: Federal Electoral Tribunal, Felipe Caldern, Mexican general election, National Action Party (PAN), Disputed Mexican election, Andrs Manuel Lpez Obrador, Mexico_
 
 ##### Comptroller
 ### [ The State Comptroller of Israel Micha Lindenstrauss releases a report stating that Ehud Olmert made political appointments of Likud Party members while serving as Industry & Trade Minister. ](/news/2006/08/28/the-state-comptroller-of-israel-micha-lindenstrauss-releases-a-report-stating-that-ehud-olmert-made-political-appointments-of-likud-party-m.md)
-_Context: Comptroller, Likud Party, Ehud Olmert, Israel, Micha Lindenstrauss_
+_Context: Israel, Micha Lindenstrauss, Ehud Olmert, Likud Party, Comptroller_
 
 ##### Turkey
 ### [ Three bombs explode in the Turkish coastal town of Marmaris following an explosion in Istanbul shortly after midnight local time (2100 UTC Sunday). At least 22 people have been injured in the explosions. A further explosion occurred hours later in nearby Antalya, killing at least three people. ](/news/2006/08/28/three-bombs-explode-in-the-turkish-coastal-town-of-marmaris-following-an-explosion-in-istanbul-shortly-after-midnight-local-time-2100-utc.md)
-_Context: Antalya, Turkey, Istanbul, Marmaris_
+_Context: Turkey, Istanbul, Antalya, Marmaris_
 
 ##### Diwaniya
 ### [ Dozens are killed in an explosion at a disused pipeline near Diwaniya, Iraq, apparently while scavenging for petrol.](/news/2006/08/28/dozens-are-killed-in-an-explosion-at-a-disused-pipeline-near-diwaniya-iraq-apparently-while-scavenging-for-petrol.md)

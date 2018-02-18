@@ -13,15 +13,15 @@ Astronomy Ireland says a major fireball was spotted over Ireland at around 6pm t
 
 ##### Avatar
 ### ["Avatar" becomes the highest grossing film in the U.S. and Canada while surpassing the 2 billion dollars mark in worldwide sales. ](/news/2010/02/3/avatar-becomes-the-highest-grossing-film-in-the-u-s-and-canada-while-surpassing-the-2-billion-dollars-mark-in-worldwide-sales.md)
-_Context: Avatar, U.S. and Canada, cross the $1 billion mark_
+_Context: cross the $1 billion mark, U.S. and Canada, Avatar_
 
 ##### ICC
 ### [Judges at the International Criminal Court rule that Sudan's president Omar al-Bashir could face charges of genocide over the War in Darfur. ](/news/2010/02/3/judges-at-the-international-criminal-court-rule-that-sudan-s-president-omar-al-bashir-could-face-charges-of-genocide-over-the-war-in-darfur.md)
-_Context: conflict, Sudan, genocide, ICC, Omar al-Bashir_
+_Context: Omar al-Bashir, conflict, genocide, Sudan, ICC_
 
 ##### Somali pirates
 ### [Pirates off the coast of Somalia seize a North Korean-flagged cargo ship south of Yemen. ](/news/2010/02/3/pirates-off-the-coast-of-somalia-seize-a-north-korean-flagged-cargo-ship-south-of-yemen.md)
-_Context: Yemen, North Korea, Somalia, Somali pirates_
+_Context: North Korea, Somali pirates, Yemen, Somalia_
 
 ##### NASA
 ### [NASA and Cornell University have given up attempting to move the "Spirit" rover, currently stuck in sand near Home Plate, Gusev crater on the planet Mars, and are converting it into a stationary outpost. Its twin rover, "Opportunity", remains mobile on Mars. ](/news/2010/02/3/nasa-and-cornell-university-have-given-up-attempting-to-move-the-spirit-rover-currently-stuck-in-sand-near-home-plate-gusev-crater-on-th.md)
@@ -29,7 +29,7 @@ NASA’s decision this week to give up trying to move stuck Mars rover Spirit ma
 
 ##### Malaysia
 ### [Malaysian opposition leader Anwar Ibrahim goes on trial in Kuala Lumpur, accused of sodomy. ](/news/2010/02/3/malaysian-opposition-leader-anwar-ibrahim-goes-on-trial-in-kuala-lumpur-accused-of-sodomy.md)
-_Context: trial, sodomy, Kuala Lumpur, Malaysia, Anwar Ibrahim_
+_Context: trial, Anwar Ibrahim, Malaysia, sodomy, Kuala Lumpur_
 
 ##### Darwin
 ### [A man detonates a homemade bomb outside a shopping mall in Darwin, Australia, wounding 15 people. ](/news/2010/02/3/a-man-detonates-a-homemade-bomb-outside-a-shopping-mall-in-darwin-australia-wounding-15-people.md)

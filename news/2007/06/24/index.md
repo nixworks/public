@@ -5,7 +5,7 @@ Formats: [HTML](2007/06/24/index.html)  [JSON](2007/06/24/index.json)  [XML](200
 
 ##### Mauricio Macri
 ### [ Mauricio Macri, a member of the National Congress of Argentina and president of Boca Juniors, is elected as the Chief of Government of Buenos Aires. ](/news/2007/06/24/mauricio-macri-a-member-of-the-national-congress-of-argentina-and-president-of-boca-juniors-is-elected-as-the-chief-of-government-of-buen.md)
-_Context: Chief of Government of Buenos Aires, Argentina, National Congress, Mauricio Macri, Boca Juniors_
+_Context: National Congress, Chief of Government of Buenos Aires, Mauricio Macri, Boca Juniors, Argentina_
 
 ##### Ali Hassan al-Majid
 ### [ Ali Hassan al-Majid, better known as "Chemical Ali," is sentenced to death for his role in killing 180,000 Kurds under Saddam Hussein. ](/news/2007/06/24/ali-hassan-al-majid-better-known-as-chemical-ali-is-sentenced-to-death-for-his-role-in-killing-180-000-kurds-under-saddam-hussein.md)
@@ -17,11 +17,11 @@ _Context: Spanish, Colombia, bomb, United Nations Interim Force in Lebanon_
 
 ##### Storm
 ### [ More than 200 people die in accidents related to storms in Karachi, Pakistan. ](/news/2007/06/24/more-than-200-people-die-in-accidents-related-to-storms-in-karachi-pakistan.md)
-_Context: Karachi, Pakistan, storm_
+_Context: Pakistan, storm, Karachi_
 
 ##### Gordon Brown
 ### [ Gordon Brown becomes the Leader of the Labour Party, replacing Prime Minister Tony Blair. Brown will replace Blair on 27 June. ](/news/2007/06/24/gordon-brown-becomes-the-leader-of-the-labour-party-replacing-prime-minister-tony-blair-brown-will-replace-blair-on-27-june.md)
-_Context: Tony Blair, Prime Minister, Labour Party, Gordon Brown, 27 June_
+_Context: Labour Party, Gordon Brown, Prime Minister, Tony Blair, 27 June_
 
 ## [Previous Day...](/news/2007/06/23/index.md)
 

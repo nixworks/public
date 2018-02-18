@@ -29,7 +29,7 @@ The week-long heat wave in Southern California has claimed four lives and caused
 
 ##### Miskito Coast
 ### [ Hurricane Felix makes landfall on the Miskito Coast of Nicaragua as a Category 5 hurricane. ](/news/2007/09/4/hurricane-felix-makes-landfall-on-the-miskito-coast-of-nicaragua-as-a-category-5-hurricane.md)
-_Context: Miskito Coast, Nicaragua, hurricane_
+_Context: hurricane, Nicaragua, Miskito Coast_
 
 ##### Steve Fossett
 ### [ Adventurer Steve Fossett is reported missing over the Nevada desert. ](/news/2007/09/4/adventurer-steve-fossett-is-reported-missing-over-the-nevada-desert.md)
@@ -37,15 +37,15 @@ _Context: Steve Fossett, Nevada desert_
 
 ##### President
 ### [ Former President of Iran, Hashemi Rafsanjani is elected the chairman of the Assembly of Experts ](/news/2007/09/4/former-president-of-iran-hashemi-rafsanjani-is-elected-the-chairman-of-the-assembly-of-experts.md)
-_Context: Assembly of Experts, Hashemi Rafsanjani, President_
+_Context: Assembly of Experts, President, Hashemi Rafsanjani_
 
 ##### Iraq
 ### [ The Iraqi Supreme Court confirms the death sentence passed on Ali Hassan al-Majid, Sultan Hashim al-Tai and Hussein Rashid al-Tikriti. ](/news/2007/09/4/the-iraqi-supreme-court-confirms-the-death-sentence-passed-on-ali-hassan-al-majid-sultan-hashim-al-tai-and-hussein-rashid-al-tikriti.md)
-_Context: Iraq, Hussein Rashid al-Tikriti, Ali Hassan al-Majid, Sultan Hashim al-Tai_
+_Context: Sultan Hashim al-Tai, Iraq, Hussein Rashid al-Tikriti, Ali Hassan al-Majid_
 
 ##### 2007 Lebanon conflict
 ### [ 2007 Lebanon conflict: Lebanon's Defense Minister Elias al-Murr claims that at least 222 Fatah al-Islam militants were killed during the struggle. ](/news/2007/09/4/2007-lebanon-conflict-lebanon-s-defense-minister-elias-al-murr-claims-that-at-least-222-fatah-al-islam-militants-were-killed-during-the-st.md)
-_Context: Elias al-Murr, Lebanese, 2007 Lebanon conflict, Fatah al-Islam_
+_Context: 2007 Lebanon conflict, Lebanese, Fatah al-Islam, Elias al-Murr_
 
 ##### 2007 Pacific Hurricane season
 ### [ 2007 Pacific Hurricane season: Tropical Storm Henriette becomes Hurricane Henriette on its way to Baja California. ](/news/2007/09/4/2007-pacific-hurricane-season-tropical-storm-henriette-becomes-hurricane-henriette-on-its-way-to-baja-california.md)
@@ -53,7 +53,7 @@ _Context: 2007 Pacific Hurricane season, Baja California_
 
 ##### United States Navy
 ### [ The United States Navy, Royal Australian Navy, Indian Navy, the Japan Maritime Self-Defense Force and Republic of Singapore Navy conduct exercises in the Bay of Bengal, ](/news/2007/09/4/the-united-states-navy-royal-australian-navy-indian-navy-the-japan-maritime-self-defense-force-and-republic-of-singapore-navy-conduct-ex.md)
-_Context: Bay of Bengal, Indian Navy, Royal Australian Navy, Republic of Singapore Navy, United States Navy, Japanese Navy_
+_Context: Republic of Singapore Navy, United States Navy, Indian Navy, Japanese Navy, Royal Australian Navy, Bay of Bengal_
 
 ##### Israel
 ### [ Israel threatens to cut off electricity, water and fuel supplies to the Gaza Strip for hours if Hamas launches rocket attacks. ](/news/2007/09/4/israel-threatens-to-cut-off-electricity-water-and-fuel-supplies-to-the-gaza-strip-for-hours-if-hamas-launches-rocket-attacks.md)
@@ -85,7 +85,7 @@ The opposition Jamaica LabourParty appeared to win power in a cliffhanger electi
 
 ##### Eurostar
 ### [ A Eurostar train sets a new record of 2 hours, 3 minutes and 39 seconds for rail travel between Paris and London, on the inaugural journey from Gare du Nord to St Pancras International on the new High Speed 1 line. ](/news/2007/09/4/a-eurostar-train-sets-a-new-record-of-2-hours-3-minutes-and-39-seconds-for-rail-travel-between-paris-and-london-on-the-inaugural-journey.md)
-_Context: High Speed 1, St Pancras station, Gare du Nord, Eurostar_
+_Context: St Pancras station, High Speed 1, Gare du Nord, Eurostar_
 
 ## [Previous Day...](/news/2007/09/3/index.md)
 

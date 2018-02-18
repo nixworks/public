@@ -13,7 +13,7 @@ Deaths as rain, snow and high winds lash Eastern Mediterranean, bringing months 
 
 ##### Blizzard
 ### [A heavy blizzard in the midwestern US states of Minnesota, Wisconsin, Iowa, Illinois and Michigan dropping about three feet of snow results in two deaths, road closures, flight cancellations and the inflatable roof of the Hubert H. Humphrey Metrodome in Minneapolis, Minnesota, collapsing. ](/news/2010/12/12/a-heavy-blizzard-in-the-midwestern-us-states-of-minnesota-wisconsin-iowa-illinois-and-michigan-dropping-about-three-feet-of-snow-results.md)
-_Context: blizzard, Iowa, Mich., Illinois, Wisconsin, Minneapolis, Minnesota, United States, Hubert H. Humphrey Metrodome_
+_Context: Minneapolis, Mich., Minnesota, Hubert H. Humphrey Metrodome, Iowa, blizzard, Wisconsin, Illinois, United States_
 
 ##### 250,000 documents
 ### [Newly released cables from Australian intelligence show the intelligence assessment that charges of sodomy laid against Malaysian opposition leader Anwar Ibrahim are due to a "set up job" that he "walked into". Others refer to Malaysia as a "confused and dangerous" state, Thai politicians as corrupt and Crown Prince Maha Vajiralongkorn as "very erratic and easily subject to influence", and Japan as a "big fat loser". ](/news/2010/12/12/newly-released-cables-from-australian-intelligence-show-the-intelligence-assessment-that-charges-of-sodomy-laid-against-malaysian-opposition.md)
@@ -25,15 +25,15 @@ America is all set to being spying charges against Julian Assange , founder of t
 
 ##### Ivory Coast
 ### [Incumbent Ivory Coast President Laurent Gbagbo accuses foreign envoys of seeking to turn the military against him. ](/news/2010/12/12/incumbent-ivory-coast-president-laurent-gbagbo-accuses-foreign-envoys-of-seeking-to-turn-the-military-against-him.md)
-_Context: Laurent Gbagbo, Ivory Coast, military_
+_Context: military, Laurent Gbagbo, Ivory Coast_
 
 ##### Moscow
 ### [Hundreds of people participate in two separate rallies in Moscow, Russia, calling for the resignation of Prime Minister Vladimir Putin and protesting constitutional abuses, and the second demanding greater rights for ethnic Russians. ](/news/2010/12/12/hundreds-of-people-participate-in-two-separate-rallies-in-moscow-russia-calling-for-the-resignation-of-prime-minister-vladimir-putin-and-p.md)
-_Context: Moscow, Russian, Russia, Vladimir Putin_
+_Context: Moscow, Vladimir Putin, Russian, Russia_
 
 ##### Kosovan parliamentary election
 ### [A parliamentary election takes place in Kosovo, with exit polls indicating that Prime Minister Hashim Thai has won the vote. ](/news/2010/12/12/a-parliamentary-election-takes-place-in-kosovo-with-exit-polls-indicating-that-prime-minister-hashim-thaci-has-won-the-vote.md)
-_Context: Hashim Thai, Kosovo, Kosovan parliamentary election_
+_Context: Kosovo, Kosovan parliamentary election, Hashim Thai_
 
 ##### Bangladesh
 ### [One person is killed in clashes between demonstrating garment workers demanding higher pay, and police in Bangladesh. ](/news/2010/12/12/one-person-is-killed-in-clashes-between-demonstrating-garment-workers-demanding-higher-pay-and-police-in-bangladesh.md)
@@ -41,7 +41,7 @@ At least three people are dead and dozens more injured in Bangladesh after prote
 
 ##### Keith Brown
 ### [Keith Brown is appointed as Scottish Transport Minister following yesterday's resignation of Stewart Stevenson. ](/news/2010/12/12/keith-brown-is-appointed-as-scottish-transport-minister-following-yesterday-s-resignation-of-stewart-stevenson.md)
-_Context: Keith Brown, Scottish Transport Minister, Stewart Stevenson_
+_Context: Stewart Stevenson, Scottish Transport Minister, Keith Brown_
 
 ##### Cairo
 ### [Thousands of people protest in Cairo over the outcome of the recent Egyptian parliamentary elections. ](/news/2010/12/12/thousands-of-people-protest-in-cairo-over-the-outcome-of-the-recent-egyptian-parliamentary-elections.md)

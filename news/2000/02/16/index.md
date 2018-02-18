@@ -9,7 +9,7 @@ _Context: University of Toronto, Archbishop, Desmond Tutu_
 
 ##### UMBC
 ### [ UMBC's Poetry Symposium takes place, with the participation of poets Linda Pastan, Michael Harper, Ray Gonzalez, Leo Connellan, Forrest Gander, Derrick Gilbert, Terence Winch, and Michael Fallon. ](/news/2000/02/16/umbc-s-poetry-symposium-takes-place-with-the-participation-of-poets-linda-pastan-michael-harper-ray-gonzalez-leo-connellan-forrest-gan.md)
-_Context: Ray Gonzalez, Linda Pastan, Leo Connellan, Michael Harper, Michael Fallon, Derrick Gilbert, Terence Winch, UMBC, Forrest Gander_
+_Context: Leo Connellan, Michael Harper, Forrest Gander, Derrick Gilbert, Linda Pastan, Michael Fallon, Terence Winch, Ray Gonzalez, UMBC_
 
 ## [Previous Day...](/news/2000/02/15/index.md)
 

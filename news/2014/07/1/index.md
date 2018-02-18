@@ -9,11 +9,11 @@ Ukrainian forces struck at pro-Russian separatist bases in eastern regions with 
 
 ##### Gaza-Israel conflict
 ### [Israel's military hits 34 targets across the Hamas-controlled Gaza Strip in response to the more than 20 rockets that were fired into Israel from Gaza since Sunday. One Palestinian man is killed after throwing a grenade at security forces in the raids. ](/news/2014/07/1/israel-s-military-hits-34-targets-across-the-hamas-controlled-gaza-strip-in-response-to-the-more-than-20-rockets-that-were-fired-into-israel.md)
-_Context: Hamas, Gaza-Israel conflict, Gaza Strip_
+_Context: Gaza Strip, Gaza-Israel conflict, Hamas_
 
 ##### Islamist insurgency in Nigeria
 ### [A car bomb explodes in a market in the northeast Nigerian town of Maiduguri, the birthplace of Boko Haram, with dozens feared dead. ](/news/2014/07/1/a-car-bomb-explodes-in-a-market-in-the-northeast-nigerian-town-of-maiduguri-the-birthplace-of-boko-haram-with-dozens-feared-dead.md)
-_Context: Boko Haram, Islamist insurgency in Nigeria, car bomb, Maiduguri_
+_Context: Maiduguri, Islamist insurgency in Nigeria, car bomb, Boko Haram_
 
 ##### BNP Paribas
 ### [The United States imposes a record $9 billion fine on BNP Paribas for helping clients bypass sanctions against Cuba, Iran, and Sudan. The bank is also barred from certain US dollar dominated transactions for one year. ](/news/2014/07/1/the-united-states-imposes-a-record-9-billion-fine-on-bnp-paribas-for-helping-clients-bypass-sanctions-against-cuba-iran-and-sudan-the-ba.md)
@@ -21,7 +21,7 @@ French bank BNP Paribas BNPP.PA has pleaded guilty to two criminal charges and a
 
 ##### Sexual assault
 ### [Malaysia states that it will extradite a junior military official who returned home after being charged with sexual assault at its diplomatic mission in New Zealand. ](/news/2014/07/1/malaysia-states-that-it-will-extradite-a-junior-military-official-who-returned-home-after-being-charged-with-sexual-assault-at-its-diplomati.md)
-_Context: New Zealand, sexual assault_
+_Context: sexual assault, New Zealand_
 
 ##### French President
 ### [Former President of France Nicolas Sarkozy is held for questioning over alleged corruption. ](/news/2014/07/1/former-president-of-france-nicolas-sarkozy-is-held-for-questioning-over-alleged-corruption.md)

@@ -13,7 +13,7 @@ A car bomb explodes in a southern suburb of the Lebanese capital Beirut, killing
 
 ##### Swedish Academy
 ### [The Swedish Academy releases secret documents of the 1963 Nobel Prize in Literature that ultimately was awarded the Greek poet Giorgos Seferis, revealing that writers such as Samuel Beckett and Vladimir Nabokov were dismissed early in the selection process.](/news/2014/01/2/the-swedish-academy-releases-secret-documents-of-the-1963-nobel-prize-in-literature-that-ultimately-was-awarded-the-greek-poet-giorgos-sefer.md)
-_Context: Vladimir Nabokov, Swedish Academy, Nobel Prize in Literature, Giorgos Seferis, Samuel Beckett_
+_Context: Vladimir Nabokov, Nobel Prize in Literature, Giorgos Seferis, Samuel Beckett, Swedish Academy_
 
 ##### Fisker Automotive
 ### [Fisker Automotive in bankruptcy, asks the judge to reject the official creditors' committee's plan for an auction. The proposed auction would be based on an initial $24.725 million bid from the U.S. unit of Wanxiang Group, a major auto parts concern in China. ](/news/2014/01/2/fisker-automotive-in-bankruptcy-asks-the-judge-to-reject-the-official-creditors-committee-s-plan-for-an-auction-the-proposed-auction-woul.md)
@@ -33,7 +33,7 @@ _Context: Nor'easter_
 
 ##### Israeli Prime Minister
 ### [Former Israeli Prime Minister Ariel Sharon is in critical condition following renal failure after being in a coma since 2006. ](/news/2014/01/2/former-israeli-prime-minister-ariel-sharon-is-in-critical-condition-following-renal-failure-after-being-in-a-coma-since-2006.md)
-_Context: renal failure, Israeli Prime Minister, coma, Ariel Sharon_
+_Context: renal failure, Ariel Sharon, coma, Israeli Prime Minister_
 
 ## [Previous Day...](/news/2014/01/1/index.md)
 

@@ -13,11 +13,11 @@ South Dakota carried out its first execution in 60 years on Wednesday, putting t
 
 ##### British Museum
 ### [ The British Museum states that the Nebo-Sarsekim Tablet, a clay tablet dating from 695 BC, contains a cuneiform inscription confirming the existence of a figure mentioned in the Old Testament. ](/news/2007/07/11/the-british-museum-states-that-the-nebo-sarsekim-tablet-a-clay-tablet-dating-from-695-bc-contains-a-cuneiform-inscription-confirming-the.md)
-_Context: 695 BC, clay tablet, Nebo-Sarsekim Tablet, British Museum, cuneiform, Old Testament_
+_Context: cuneiform, clay tablet, Nebo-Sarsekim Tablet, Old Testament, 695 BC, British Museum_
 
 ##### Pakistan Army
 ### [ The Pakistan Army claims that Operation Silence at the Lal Masjid is in its final stages and that 95% of the complex is under its control. It has found the bodies of 73 militants. ](/news/2007/07/11/the-pakistan-army-claims-that-operation-silence-at-the-lal-masjid-is-in-its-final-stages-and-that-95-of-the-complex-is-under-its-control.md)
-_Context: Pakistan Army, Lal Masjid, Operation Silence_
+_Context: Pakistan Army, Operation Silence, Lal Masjid_
 
 ##### 21 July 2005 London bombings
 ### [ Four people who carried out failed suicide bombings in London are jailed for life, with no chance of release for at least 40 years. In passing the sentence, the judge ruled that the plot was "part of an al-Qaida inspired and controlled sequence of attacks", although the British government has always claimed the attacks were "home grown", and not connected to al-Qaida. ](/news/2007/07/11/four-people-who-carried-out-failed-suicide-bombings-in-london-are-jailed-for-life-with-no-chance-of-release-for-at-least-40-years-in-pass.md)
@@ -33,7 +33,7 @@ _Context: killed by insurgents, Philippines_
 
 ##### Libya
 ### [ The Supreme Court of Libya upholds the death penalty for the six Bulgarian medics and one Palestinian doctor accused of infecting children with HIV. ](/news/2007/07/11/the-supreme-court-of-libya-upholds-the-death-penalty-for-the-six-bulgarian-medics-and-one-palestinian-doctor-accused-of-infecting-children.md)
-_Context: Palestinian, sentenced to death, HIV trial in Libya, Libya, Bulgaria_
+_Context: Libya, Bulgaria, HIV trial in Libya, Palestinian, sentenced to death_
 
 ##### China
 ### [ The People's Republic of China bans diethylene glycol as an ingredient in toothpaste. ](/news/2007/07/11/the-people-s-republic-of-china-bans-diethylene-glycol-as-an-ingredient-in-toothpaste.md)
@@ -41,7 +41,7 @@ China has banned the use in toothpaste of a chemical linked to the recall of Chi
 
 ##### Chile
 ### [ A Chilean court rejects the extradition of former Peruvian President Alberto Fujimori. ](/news/2007/07/11/a-chilean-court-rejects-the-extradition-of-former-peruvian-president-alberto-fujimori.md)
-_Context: Alberto Fujimori, Peru, extradition, President, Chile_
+_Context: extradition, President, Chile, Alberto Fujimori, Peru_
 
 ## [Previous Day...](/news/2007/07/10/index.md)
 

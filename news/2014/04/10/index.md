@@ -5,15 +5,15 @@ Formats: [HTML](2014/04/10/index.html)  [JSON](2014/04/10/index.json)  [XML](201
 
 ##### Aleppo
 ### [88 civilians are killed in Aleppo by barrel bombs dropped from Syrian government warplanes. ](/news/2014/04/10/88-civilians-are-killed-in-aleppo-by-barrel-bombs-dropped-from-syrian-government-warplanes.md)
-_Context: barrel bomb, Aleppo_
+_Context: Aleppo, barrel bomb_
 
 ##### Stephen Colbert
 ### [American comedian Stephen Colbert, host of "The Colbert Report" is announced to replace David Letterman to host the "Late Show" on CBS in 2015. ](/news/2014/04/10/american-comedian-stephen-colbert-host-of-the-colbert-report-is-announced-to-replace-david-letterman-to-host-the-late-show-on-cbs-in-20.md)
-_Context: David Letterman, CBS, The Colbert Report, Late Show with David Letterman, Stephen Colbert_
+_Context: David Letterman, The Colbert Report, Stephen Colbert, CBS, Late Show with David Letterman_
 
 ##### Council of Europe
 ### [The Parliamentary Assembly of the Council of Europe suspends Russia's right to vote and take part in election observations as a consequence to its annexation of Crimea. ](/news/2014/04/10/the-parliamentary-assembly-of-the-council-of-europe-suspends-russia-s-right-to-vote-and-take-part-in-election-observations-as-a-consequence.md)
-_Context: Council of Europe, Crimea, Russia_
+_Context: Russia, Council of Europe, Crimea_
 
 ##### Trade deal
 ### [Protesters against a proposed trade deal with China peacefully ended their 24-day occupation of the legislature, as lawmakers prepare to review bills requiring greater oversight for such agreements. ](/news/2014/04/10/protesters-against-a-proposed-trade-deal-with-china-peacefully-ended-their-24-day-occupation-of-the-legislature-as-lawmakers-prepare-to-rev.md)
@@ -25,7 +25,7 @@ Five Russian MPs call for former President Mikhail Gorbachev to be prosecuted ov
 
 ##### Secretary of Health and Human Services
 ### [United States Secretary of Health and Human Services Kathleen Sebelius resigns from the Obama Administration. OMB Director Sylvia Mathews Burwell is expected to be nominated to replace Sebelius. ](/news/2014/04/10/united-states-secretary-of-health-and-human-services-kathleen-sebelius-resigns-from-the-obama-administration-omb-director-sylvia-mathews-bu.md)
-_Context: Sylvia Mathews Burwell, Kathleen Sebelius, Barack Obama, Director, Secretary of Health and Human Services, Office of Management and Budget_
+_Context: Secretary of Health and Human Services, Office of Management and Budget, Barack Obama, Director, Sylvia Mathews Burwell, Kathleen Sebelius_
 
 ##### House of Commons
 ### [Canadian MP and former Finance Minister Jim Flaherty dies at the age of 64. ](/news/2014/04/10/canadian-mp-and-former-finance-minister-jim-flaherty-dies-at-the-age-of-64.md)

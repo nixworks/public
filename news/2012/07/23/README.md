@@ -25,7 +25,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Apple
 ### [Talks between Apple and Samsung aimed at resolving patent law disputes deadlock over a dispute over the valuation of each other's patents. ](/news/2012/07/23/talks-between-apple-and-samsung-aimed-at-resolving-patent-law-disputes-deadlock-over-a-dispute-over-the-valuation-of-each-other-s-patents.md)
-_Context: patent law, Apple, valuation, Samsung_
+_Context: Samsung, valuation, Apple, patent law_
 
 ##### Beijing
 ### [After the heaviest rains in 60 years kill 37 in Beijing, 9 million microblog users criticise the government for the lack of warning and poor infrastructure. ](/news/2012/07/23/after-the-heaviest-rains-in-60-years-kill-37-in-beijing-9-million-microblog-users-criticise-the-government-for-the-lack-of-warning-and-poor.md)

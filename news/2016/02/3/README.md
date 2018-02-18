@@ -17,7 +17,7 @@ The Syrian army and its allies have broken a three-year rebel siege of two Shiâ€
 
 ##### Chinese
 ### [China's state owned ChemChina offers to buy Swiss pesticide and seed manufacturer Syngenta for $43 billion. ](/news/2016/02/3/china-s-state-owned-chemchina-offers-to-buy-swiss-pesticide-and-seed-manufacturer-syngenta-for-43-billion.md)
-_Context: pesticide, Chinese, Swiss, ChemChina, Syngenta_
+_Context: Chinese, Swiss, Syngenta, ChemChina, pesticide_
 
 ##### Daallo Airlines Flight 159
 ### [A Daallo Airlines operated commercial plane, bound for Djibouti, makes an emergency landing at Aden Adde International Airport in Mogadishu, following an unexplained explosion that left a gaping hole in its fuselage. ](/news/2016/02/3/a-daallo-airlines-operated-commercial-plane-bound-for-djibouti-makes-an-emergency-landing-at-aden-adde-international-airport-in-mogadishu.md)

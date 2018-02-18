@@ -37,7 +37,7 @@ A 7.8 magnitude earthquake has struck off the coast of Indonesia, killing an unc
 
 ##### South China Sea disputes
 ### [Philippines Foreign Secretary Albert del Rosario says Chinese coast guard ships that were sighted two weeks ago near the disputed Jackson Atoll in the northeast Dangerous Ground are no longer there today. Chinese Foreign Ministry spokesperson Hong Lei said ships were dispatched to the area in late 2015 to salvage a fishing vessel that posed a risk to navigation. Chinese ships, "... persuaded fishing boats to leave the waters in an effort to ensure safety conditions for normal navigation," Hong said. In addition to China and the Philippines, Vietnam, Malaysia, Taiwan, and Brunei also lay claim to the Spratly Islands waters. ](/news/2016/03/2/philippines-foreign-secretary-albert-del-rosario-says-chinese-coast-guard-ships-that-were-sighted-two-weeks-ago-near-the-disputed-jackson-at.md)
-_Context: Spratly Islands, Chinese coast guard, Dangerous Ground, Albert del Rosario, Brunei, Hong Lei, Malaysia, Vietnam, South China Sea disputes, Philippines Foreign Secretary, Taiwan, Chinese Foreign Ministry spokesperson_
+_Context: Malaysia, Chinese Foreign Ministry spokesperson, Brunei, Philippines Foreign Secretary, Taiwan, Vietnam, Albert del Rosario, Spratly Islands, Hong Lei, South China Sea disputes, Dangerous Ground, Chinese coast guard_
 
 ##### European migrant crisis
 ### [The European Union launches a new aid program worth an initial 700 million euros (US$760 million) to address the growing refugee crisis in Greece. EU Humanitarian Aid Commissioner Christos Stylianides says the so-called Emergency Assistance Instrument will be used to help migrants trapped in Greece and, if needed, in other countries on the migration route front lines. Approval by a majority of EU members is required. The next EU meeting is scheduled for Monday. ](/news/2016/03/2/the-european-union-launches-a-new-aid-program-worth-an-initial-700-million-euros-us-760-million-to-address-the-growing-refugee-crisis-in-g.md)
@@ -53,7 +53,7 @@ _Context: North Korea's nuclear program, United Nations Security Council, North 
 
 ##### Election
 ### [The conservative People's Party (PP) and the left-wing Podemos party, which together hold 192 seats in Spain's 350-seat parliament following December's election, confirm they will vote against Spanish Socialist Workers' Party (PSOE) leader Pedro Sanchez's candidacy to form a new government. ](/news/2016/03/2/the-conservative-people-s-party-pp-and-the-left-wing-podemos-party-which-together-hold-192-seats-in-spainas-350-seat-parliament-followi.md)
-_Context: Podemos, parliament, People's Party, Socialist Workers' Party, election, Pedro Sanchez_
+_Context: Pedro Sanchez, election, People's Party, parliament, Socialist Workers' Party, Podemos_
 
 ## [Previous Day...](/news/2016/03/1/index.md)
 

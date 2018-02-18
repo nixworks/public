@@ -21,15 +21,15 @@ _Context: International Monetary Fund_
 
 ##### Magnitude
 ### [ A second earthquake measuring 6.8 on the Richter scale occurs near Sumatra, Indonesia, following a 7.6 magnitude earthquake the previous day. ](/news/2009/10/1/a-second-earthquake-measuring-6-8-on-the-richter-scale-occurs-near-sumatra-indonesia-following-a-7-6-magnitude-earthquake-the-previous-da.md)
-_Context: Sumatra, 7.6 magnitude earthquake, Indonesia, magnitude_
+_Context: magnitude, Indonesia, Sumatra, 7.6 magnitude earthquake_
 
 ##### Supreme Court of the United Kingdom
 ### [ The Justices of the Supreme Court of the United Kingdom are sworn into office, replacing the Law Lords as the final court of appeal in the country. ](/news/2009/10/1/the-justices-of-the-supreme-court-of-the-united-kingdom-are-sworn-into-office-replacing-the-law-lords-as-the-final-court-of-appeal-in-the.md)
-_Context: appeals court, Supreme Court of the United Kingdom, Law Lords_
+_Context: appeals court, Law Lords, Supreme Court of the United Kingdom_
 
 ##### Beijing
 ### [ Mass celebrations take place in Beijing to commemorate the 60th anniversary of the founding of the People's Republic of China. ](/news/2009/10/1/mass-celebrations-take-place-in-beijing-to-commemorate-the-60th-anniversary-of-the-founding-of-the-people-s-republic-of-china.md)
-_Context: China, Beijing, 60th anniversary of the founding_
+_Context: Beijing, 60th anniversary of the founding, China_
 
 ##### Iran
 ### [ Iran agrees to allow inspections of a recently revealed nuclear facility near the city of Qom. ](/news/2009/10/1/iran-agrees-to-allow-inspections-of-a-recently-revealed-nuclear-facility-near-the-city-of-qom.md)
@@ -45,7 +45,7 @@ Opposition leaders say the call is a tactic to divert attention from crackdown o
 
 ##### Islam
 ### [ 12 people are killed in fighting between rival Islamist groups for control of the port city of Kismayo in southern Somalia. ](/news/2009/10/1/12-people-are-killed-in-fighting-between-rival-islamist-groups-for-control-of-the-port-city-of-kismayo-in-southern-somalia.md)
-_Context: Kismayo, port, Islam, Somalia_
+_Context: Somalia, Kismayo, port, Islam_
 
 ##### Paleontologists
 ### [ Paleontologists announced the discovery of an "Ardipithecus ramidus" fossil skeleton, deeming it the oldest fossil skeleton of a human ancestor. ](/news/2009/10/1/paleontologists-announced-the-discovery-of-an-ardipithecus-ramidus-fossil-skeleton-deeming-it-the-oldest-fossil-skeleton-of-a-human-ance.md)
@@ -57,7 +57,7 @@ The military will open a campaign against the Taliban’s main stronghold in the
 
 ##### Netherlands Antilles
 ### [ The Netherlands Antilles agrees to disband on October 10, 2010. Bonaire, St. Eustatius and Saba will become Dutch municipalities within the Netherlands, whereas Curaao and Sint Maarten will become self-governing countries within the Kingdom of the Netherlands. ](/news/2009/10/1/the-netherlands-antilles-agrees-to-disband-on-october-10-2010-bonaire-st-eustatius-and-saba-will-become-dutch-municipalities-within-the.md)
-_Context: Netherlands Antilles, Saba, disband, Bonaire, Kingdom of the Netherlands, Dutch municipalities, Sint Maarten, St. Eustatius, Netherlands, Curaao_
+_Context: Saba, Dutch municipalities, Sint Maarten, Curaao, St. Eustatius, disband, Kingdom of the Netherlands, Bonaire, Netherlands Antilles, Netherlands_
 
 ## [Previous Day...](/news/2009/09/30/index.md)
 

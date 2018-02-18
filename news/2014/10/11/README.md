@@ -9,7 +9,7 @@ Turkey agrees to train Syrian opposition fighters in Turkey by American and Turk
 
 ##### Cameroon
 ### [Cameroon says that 27 people believed captured by Islamist group Boko Haram including the wife of vice Prime Minister Amadou Ali have been freed. ](/news/2014/10/11/cameroon-says-that-27-people-believed-captured-by-islamist-group-boko-haram-including-the-wife-of-vice-prime-minister-amadou-ali-have-been-f.md)
-_Context: Islamists, Amadou Ali, Cameroon, Boko Haram_
+_Context: Islamists, Cameroon, Boko Haram, Amadou Ali_
 
 ##### Pakistan
 ### [At least seven people die and approximately 40 are injured at a stampede at a political rally by Pakistan opposition leader Imran Khan in the city of Multan. ](/news/2014/10/11/at-least-seven-people-die-and-approximately-40-are-injured-at-a-stampede-at-a-political-rally-by-pakistan-opposition-leader-imran-khan-in-th.md)
@@ -17,7 +17,7 @@ Seven die in a stampede at a rally addressed by Pakistani opposition politician 
 
 ##### 2014 Pacific typhoon season
 ### [Typhoon Vongphong heads for the Japanese island of Okinawa leading to power losses and flight disruptions. ](/news/2014/10/11/typhoon-vongphong-heads-for-the-japanese-island-of-okinawa-leading-to-power-losses-and-flight-disruptions.md)
-_Context: 2014 Pacific typhoon season, Typhoon Vongfong, Okinawa, Japan_
+_Context: Okinawa, 2014 Pacific typhoon season, Japan, Typhoon Vongfong_
 
 ##### 2014 North Indian Ocean cyclone season
 ### [Cyclone Hudhud strengthens over the Bay of Bengal with one person having already died in the storm. Mass evacuations of thousands of people is occurring as the storm approaches the east coast. ](/news/2014/10/11/cyclone-hudhud-strengthens-over-the-bay-of-bengal-with-one-person-having-already-died-in-the-storm-mass-evacuations-of-thousands-of-people.md)

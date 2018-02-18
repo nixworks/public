@@ -13,7 +13,7 @@ A magnitude-6.3 aftershock has shaken British Columbia near the boundary with Al
 
 ##### Clear-air turbulence
 ### [Severe clear-air turbulence on an Aeroflot flight from Sheremetyevo International Airport, Moscow to Suvarnabhumi Airport, Bangkok, subjects 27 passengers to injuries including bone fractures. ](/news/2017/05/1/severe-clear-air-turbulence-on-an-aeroflot-flight-from-sheremetyevo-international-airport-moscow-to-suvarnabhumi-airport-bangkok-subjects.md)
-_Context: Bangkok, clear-air turbulence, Moscow, Aeroflot, fracture, Suvarnabhumi Airport, Sheremetyevo International Airport_
+_Context: Bangkok, Moscow, Suvarnabhumi Airport, Aeroflot, fracture, Sheremetyevo International Airport, clear-air turbulence_
 
 ##### Momentum Movement
 ### [The Momentum Movement holds a pro-EU, anti-Russia march attended by approximately 10,000 in Budapest, Hungary, chanting "Europe, not Moscow" in support of the EU and against Prime Minister Viktor Orban. ](/news/2017/05/1/the-momentum-movement-holds-a-pro-eu-anti-russia-march-attended-by-approximately-10-000-in-budapest-hungary-chanting-aeurope-not-mosco.md)

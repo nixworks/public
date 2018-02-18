@@ -7,7 +7,7 @@ Formats: [HTML](2016/07/15/index.html)  [JSON](2016/07/15/index.json)  [XML](201
 ### [The President of France Francois Hollande extends a state of emergency against terrorism for three months following the attack which has now claimed over 80 lives. He had previously announced that it would be lifted on 26 July. ](/news/2016/07/15/the-president-of-france-franassois-hollande-extends-a-state-of-emergency-against-terrorism-for-three-months-following-the-attack-which-has-no.md)
 A lorry strikes a crowd amid Bastille Day celebrations in the French city of Nice, killing at least 84 people in what the president says was a terrorist attack.
 
-##### July 2016 Turkish ''coup d'etat'' attempt
+##### 2016 Turkish coup d'etat attempt
 ### [The Prime Minister of Turkey Binali Yildirim calls for "calm" over what he states was an "illegal attempt" by sections of the Turkish military to claim power. ](/news/2016/07/15/the-prime-minister-of-turkey-binali-ya-lda-ra-m-calls-for-calm-over-what-he-states-was-an-illegal-attempt-by-sections-of-the-turkish-mil.md)
 Turkish president Recep Tayyip Erdogan was warned by world leaders on Sunday not to use the attempted coup as &ldquo;carte blanche to do whatever he wants,&quot; amid concerns the putsch has become a pretext for him to consolidate power.
 
@@ -25,7 +25,7 @@ Russia is to deploy its advanced long-range surface-to-air missiles S-400 in Cri
 
 ##### Republican Party vice presidential candidate selection, 2016
 ### [Donald Trump chooses Indiana governor Mike Pence as his vice presidential running mate. ](/news/2016/07/15/donald-trump-chooses-indiana-governor-mike-pence-as-his-vice-presidential-running-mate.md)
-_Context: Mike Pence, Donald Trump, Republican Party vice presidential candidate selection, 2016, Indiana_
+_Context: Donald Trump, Indiana, Mike Pence, Republican Party vice presidential candidate selection, 2016_
 
 ## [Previous Day...](/news/2016/07/14/index.md)
 

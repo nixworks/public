@@ -9,11 +9,11 @@ _Context: Tripoli Agreement, Chad, Sudan, Chadian-Sudanese conflict_
 
 ##### Heather Wilson
 ### [ Heather Wilson, a New Mexico Congresswoman with NSA oversight authority, became the first Republican on an intelligence committee to call for a congressional investigation into Bush's warrantless wiretap program. ](/news/2006/02/8/heather-wilson-a-new-mexico-congresswoman-with-nsa-oversight-authority-became-the-first-republican-on-an-intelligence-committee-to-call-f.md)
-_Context: warrantless wiretapping, Heather Wilson, NSA_
+_Context: NSA, warrantless wiretapping, Heather Wilson_
 
 ##### Kurchaloi
 ### [ An explosion at Russian military base at Kurchaloi in Chechnya kills at least 12 soldiers. The cause is unknown; however, a separatist attack has been officially ruled out. ](/news/2006/02/8/an-explosion-at-russian-military-base-at-kurchaloi-in-chechnya-kills-at-least-12-soldiers-the-cause-is-unknown-however-a-separatist-atta.md)
-_Context: Chechen War, Kurchaloi, Chechnya_
+_Context: Chechnya, Chechen War, Kurchaloi_
 
 ##### Princess Kiko
 ### [ Japanese Princess Kiko is pregnant with her third child. ](/news/2006/02/8/japanese-princess-kiko-is-pregnant-with-her-third-child.md)

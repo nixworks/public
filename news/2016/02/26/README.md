@@ -57,7 +57,7 @@ A look at the vote and its implications as Iranians move to select a new Parliam
 
 ##### Irish general election, 2016
 ### [Voters in Ireland go to the polls for a general election. Exit polls indicate that the ruling coalition of Fine Gael party led by Enda Kenny and the Labour Party will fall short of re-election with 34% of the vote between them. ](/news/2016/02/26/voters-in-ireland-go-to-the-polls-for-a-general-election-exit-polls-indicate-that-the-ruling-coalition-of-fine-gael-party-led-by-enda-kenny.md)
-_Context: Irish general election, 2016, Irish, Enda Kenny, Fine Gael, Labour Party_
+_Context: Irish general election, 2016, Enda Kenny, Fine Gael, Labour Party, Irish_
 
 ##### Hashim Thaci
 ### [Hashim Thaci is elected the President of Kosovo by the Parliament amid violent protests. ](/news/2016/02/26/hashim-thaassi-is-elected-the-president-of-kosovo-by-the-parliament-amid-violent-protests.md)

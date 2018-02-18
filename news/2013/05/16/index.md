@@ -5,7 +5,7 @@ Formats: [HTML](2013/05/16/index.html)  [JSON](2013/05/16/index.json)  [XML](201
 
 ##### Suicide bombing
 ### [Many people are killed in two suicide bombings in Afghanistan, at least fifteen of which are killed in the capital Kabul when a suicide bomber from Hizb-i-Islami, a Taliban affiliate, targeted a convoy carrying foreign troops, injuring another 40. ](/news/2013/05/16/many-people-are-killed-in-two-suicide-bombings-in-afghanistan-at-least-fifteen-of-which-are-killed-in-the-capital-kabul-when-a-suicide-bomb.md)
-_Context: Afghan, Hizb-i-Islami, Kabul, suicide bombing_
+_Context: suicide bombing, Afghan, Hizb-i-Islami, Kabul_
 
 ##### Baghdad
 ### [Seventeen people are killed when car bombs detonate and gunman attack people in Baghdad, Iraq. ](/news/2013/05/16/seventeen-people-are-killed-when-car-bombs-detonate-and-gunman-attack-people-in-baghdad-iraq.md)
@@ -21,7 +21,7 @@ _Context: Adamawa State_
 
 ##### The Office
 ### [The American adaptation of the television series "The Office" airs its last episode on the National Broadcasting Company after nine seasons. ](/news/2013/05/16/the-american-adaptation-of-the-television-series-the-office-airs-its-last-episode-on-the-national-broadcasting-company-after-nine-seasons.md)
-_Context: The Office, NBC_
+_Context: NBC, The Office_
 
 ##### Jenny Colgan
 ### [British author Jenny Colgan wins the 2013 Romantic Novel of the Year Award for her book "Welcome to Rosie Hopkins' Sweetshop of Dreams". ](/news/2013/05/16/british-author-jenny-colgan-wins-the-2013-romantic-novel-of-the-year-award-for-her-book-welcome-to-rosie-hopkins-sweetshop-of-dreams.md)
@@ -29,7 +29,7 @@ _Context: Romantic Novel of the Year Award, Jenny Colgan, Welcome to Rosie Hopki
 
 ##### Bea Arthur
 ### [A topless painting of actress Bea Arthur sells for US$2 million at auction. ](/news/2013/05/16/a-topless-painting-of-actress-bea-arthur-sells-for-us-2-million-at-auction.md)
-_Context: Bea Arthur, US$_
+_Context: US$, Bea Arthur_
 
 ##### Bill Gates
 ### [Bill Gates becomes the world's richest person for the first time since 2007 with a fortune of approximately $72.7 billion. ](/news/2013/05/16/bill-gates-becomes-the-world-s-richest-person-for-the-first-time-since-2007-with-a-fortune-of-approximately-72-7-billion.md)

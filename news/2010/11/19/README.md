@@ -5,11 +5,11 @@ Formats: [HTML](2010/11/19/index.html)  [JSON](2010/11/19/index.json)  [XML](201
 
 ##### Al-Shabaab
 ### [Eleven people are killed in clashes between the rival al-Shabaab and Ahlu Sunna Waljama'a groups in central Somalia. ](/news/2010/11/19/eleven-people-are-killed-in-clashes-between-the-rival-al-shabaab-and-ahlu-sunna-waljama-a-groups-in-central-somalia.md)
-_Context: Ahlu Sunna Waljama'a, Somalia, Al-Shabaab_
+_Context: Al-Shabaab, Ahlu Sunna Waljama'a, Somalia_
 
 ##### Russia
 ### [A police officer dies in hospital after a suspected militant attack in Russia's North Caucasus republic of Dagestan. ](/news/2010/11/19/a-police-officer-dies-in-hospital-after-a-suspected-militant-attack-in-russiaas-north-caucasus-republic-of-dagestan.md)
-_Context: Dagestan, North Caucasus, Russia_
+_Context: North Caucasus, Dagestan, Russia_
 
 ##### Drones launch
 ### [A US drone attack kills at least three suspected militants and destroys their vehicle in the North Waziristan district of Pakistan. ](/news/2010/11/19/a-us-drone-attack-kills-at-least-three-suspected-militants-and-destroys-their-vehicle-in-the-north-waziristan-district-of-pakistan.md)
@@ -21,7 +21,7 @@ Israeli warplanes raided at leasttwo targets in the Gaza Strip on Friday, Palest
 
 ##### United States armed forces
 ### [The U.S. military is sending M1 Abrams tanks to Afghanistan for the first time in the nine-year war in Afghanistan. ](/news/2010/11/19/the-u-s-military-is-sending-m1-abrams-tanks-to-afghanistan-for-the-first-time-in-the-nine-year-war-in-afghanistan.md)
-_Context: M1 Abrams tanks, United States armed forces, War in Afghanistan (2001-present), Afghan_
+_Context: War in Afghanistan (2001-present), United States armed forces, M1 Abrams tanks, Afghan_
 
 ##### German
 ### [Germany says the laptop bag containing an explosive simulation training device found at Namibia's main airport during loading of a flight to Munich was part of a security test, a day after German Interior Minister Thomas de Maiziere issued a warning of possible terror attacks next week. ](/news/2010/11/19/germany-says-the-laptop-bag-containing-an-explosive-simulation-training-device-found-at-namibia-s-main-airport-during-loading-of-a-flight-to.md)
@@ -61,19 +61,19 @@ Nato members meet in Lisbon for a crucial summit, with a timetable for handing s
 
 ##### UN
 ### [The UN General Assembly's human rights committee criticizes Iran for human rights abuses; Iranian diplomat Mohammad-Javad Larijani calls the UN censure a "politicization" of human rights. ](/news/2010/11/19/the-un-general-assembly-s-human-rights-committee-criticizes-iran-for-human-rights-abuses-iranian-diplomat-mohammad-javad-larijani-calls-the.md)
-_Context: Iranian human rights, United Nations General Assembly, human rights, UN, Iran, Mohammad-Javad Larijani_
+_Context: Iranian human rights, United Nations General Assembly, human rights, Mohammad-Javad Larijani, UN, Iran_
 
 ##### Dalai Lama
 ### [Tibetan spiritual leader, the Dalai Lama, says that cultural genocide is taking place in Tibet, particularly in light of the Chinese authority's requirement of Mandarin as the language of instruction in schools in Tibet. ](/news/2010/11/19/tibetan-spiritual-leader-the-dalai-lama-says-that-cultural-genocide-is-taking-place-in-tibet-particularly-in-light-of-the-chinese-authori.md)
-_Context: Tibet Autonomous Region, cultural genocide, 14th Dalai Lama, Mandarin, Dalai Lama, Tibet_
+_Context: cultural genocide, Tibet, Tibet Autonomous Region, 14th Dalai Lama, Dalai Lama, Mandarin_
 
 ##### Jakarta
 ### [Demonstrators outside the Saudi embassy in Jakarta demand justice for migrant workers after a Saudi Arabian employer kills an Indonesian maid and another maid was severely beaten by her Saudi employer; the Indonesian Foreign Minister Marty Natalegawa summons the Saudi Arabian ambassador to protest. ](/news/2010/11/19/demonstrators-outside-the-saudi-embassy-in-jakarta-demand-justice-for-migrant-workers-after-a-saudi-arabian-employer-kills-an-indonesian-mai.md)
-_Context: Marty Natalegawa, Indonesia, Jakarta, Saudi Arabia, migrant workers_
+_Context: Saudi Arabia, Marty Natalegawa, Indonesia, migrant workers, Jakarta_
 
 ##### Panama
 ### [Panama grants asylum to Maria del Pilar Hurtado, the former head of Colombia's Administrative Department of Security wanted for allegedly illegal wiretapping. ](/news/2010/11/19/panama-grants-asylum-to-maraa-del-pilar-hurtado-the-former-head-of-colombia-s-administrative-department-of-security-wanted-for-allegedly-i.md)
-_Context: Administrative Department of Security, wiretapped, Colombia, Panama, Maria del Pilar Hurtado_
+_Context: Maria del Pilar Hurtado, Colombia, Panama, Administrative Department of Security, wiretapped_
 
 ##### Atlantic bluefin tuna
 ### [Major fishing nations meet in Paris to discuss quota limits for fishing of the critically endangered Atlantic bluefin tuna; many nations are urging that lower fishing rates are needed.](/news/2010/11/19/major-fishing-nations-meet-in-paris-to-discuss-quota-limits-for-fishing-of-the-critically-endangered-atlantic-bluefin-tuna-many-nations-are.md)
@@ -89,15 +89,15 @@ _Context: Malawi_
 
 ##### United Front for Democracy Against Dictatorship
 ### [Anti-government red shirt protesters return to the streets in Thailand. ](/news/2010/11/19/anti-government-red-shirt-protesters-return-to-the-streets-in-thailand.md)
-_Context: United Front for Democracy Against Dictatorship, Thailand_
+_Context: Thailand, United Front for Democracy Against Dictatorship_
 
 ##### Mahinda Rajapakse
 ### [Mahinda Rajapakse is sworn in for a second term as President of Sri Lanka in Colombo. ](/news/2010/11/19/mahinda-rajapakse-is-sworn-in-for-a-second-term-as-president-of-sri-lanka-in-colombo.md)
-_Context: Colombo, Mahinda Rajapakse, President of Sri Lanka_
+_Context: Mahinda Rajapakse, President of Sri Lanka, Colombo_
 
 ##### Conservative Party
 ### [British Conservative Party politician Lord Young resigns as the coalition government's enterprise adviser after claiming that most Britons "have never had it so good" in spite of the recession. ](/news/2010/11/19/british-conservative-party-politician-lord-young-resigns-as-the-coalition-government-s-enterprise-adviser-after-claiming-that-most-britons.md)
-_Context: Lord Young, Conservative Party, government_
+_Context: government, Lord Young, Conservative Party_
 
 ## [Previous Day...](/news/2010/11/18/index.md)
 

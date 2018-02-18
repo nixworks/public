@@ -21,7 +21,7 @@ Internet connections at some banks, companies and government offices in South Ko
 
 ##### Ethiopia
 ### [ Ethiopian-Transitional Federal Government forces regain Jowhar after heavy fighting. The Islamist militia go into a retreat towards Mogadishu. ](/news/2006/12/27/ethiopian-transitional-federal-government-forces-regain-jowhar-after-heavy-fighting-the-islamist-militia-go-into-a-retreat-towards-mogadis.md)
-_Context: Islamist, regain, Transitional Federal Government, Mogadishu, Ethiopia, Jowhar_
+_Context: regain, Jowhar, Ethiopia, Islamist, Transitional Federal Government, Mogadishu_
 
 ##### John Edwards
 ### [ Former U.S. Senator and 2004 Democratic Vice-Presidential Candidate John Edwards will run for the 2008 Democratic Presidential Nomination. ](/news/2006/12/27/former-u-s-senator-and-2004-democratic-vice-presidential-candidate-john-edwards-will-run-for-the-2008-democratic-presidential-nomination.md)

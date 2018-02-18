@@ -29,11 +29,11 @@ Japan says it is taking steps to prevent contaminated water from the crippled Fu
 
 ##### Gulf of Mexico
 ### [Hercules 264, a Gulf of Mexico natural gas drilling rig, partially collapses off the coast of Louisiana after catching fire. ](/news/2013/07/23/hercules-264-a-gulf-of-mexico-natural-gas-drilling-rig-partially-collapses-off-the-coast-of-louisiana-after-catching-fire.md)
-_Context: natural gas, Louisiana, Gulf of Mexico_
+_Context: Gulf of Mexico, natural gas, Louisiana_
 
 ##### Burma
 ### [Burma frees dozens of political prisoners as part of the country's ongoing effort at political reform. ](/news/2013/07/23/burma-frees-dozens-of-political-prisoners-as-part-of-the-country-s-ongoing-effort-at-political-reform.md)
-_Context: Burma, political prisoner, ongoing effort at political reform_
+_Context: ongoing effort at political reform, political prisoner, Burma_
 
 ##### British
 ### [Eighteen Britons are arrested on the Greek island of Crete, following the murder of a male tourist and a violent confrontation between tourists and local police. ](/news/2013/07/23/eighteen-britons-are-arrested-on-the-greek-island-of-crete-following-the-murder-of-a-male-tourist-and-a-violent-confrontation-between-touri.md)

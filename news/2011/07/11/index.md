@@ -5,7 +5,7 @@ Formats: [HTML](2011/07/11/index.html)  [JSON](2011/07/11/index.json)  [XML](201
 
 ##### President
 ### [Protesters loyal to President Bashar al-Assad in the 2011 Syrian uprising break into the United States embassy in Damascus and try to break into the French embassy. ](/news/2011/07/11/protesters-loyal-to-president-bashar-al-assad-in-the-2011-syrian-uprising-break-into-the-united-states-embassy-in-damascus-and-try-to-break.md)
-_Context: 2011 Syrian uprising, President, Bashar al-Assad, Damascus, diplomatic missions, embassy_
+_Context: President, Bashar al-Assad, Damascus, diplomatic missions, embassy, 2011 Syrian uprising_
 
 ##### Pakistan
 ### [Pakistan jails a doctor who helped the US Central Intelligence Agency confirm that Osama bin Laden was living in Abbottabad. ](/news/2011/07/11/pakistan-jails-a-doctor-who-helped-the-us-central-intelligence-agency-confirm-that-osama-bin-laden-was-living-in-abbottabad.md)
@@ -13,7 +13,7 @@ Pakistan holds doctor who tried to collect bin Laden DNA
 
 ##### Sanofi
 ### [Sanofi announces positive results of the late-stage trial of Lemtrada, its new multiple sclerosis treatment. ](/news/2011/07/11/sanofi-announces-positive-results-of-the-late-stage-trial-of-lemtrada-its-new-multiple-sclerosis-treatment.md)
-_Context: multiple sclerosis, Lemtrada, Sanofi_
+_Context: Sanofi, Lemtrada, multiple sclerosis_
 
 ##### India
 ### [The death toll from a train crash in India's Uttar Pradesh state rises to 69. ](/news/2011/07/11/the-death-toll-from-a-train-crash-in-india-s-uttar-pradesh-state-rises-to-69.md)
@@ -29,11 +29,11 @@ Commonwealth Edison Co. reported substantial progress in restoring power lost in
 
 ##### Israeli parliament
 ### [The Israeli parliament passes a controversial law that will punish any Israeli individual or organisation boycotting West Bank settlements. ](/news/2011/07/11/the-israeli-parliament-passes-a-controversial-law-that-will-punish-any-israeli-individual-or-organisation-boycotting-west-bank-settlements.md)
-_Context: Israeli parliament, West Bank settlement, boycotting, law_
+_Context: law, West Bank settlement, boycotting, Israeli parliament_
 
 ##### Republic of Korea Air Force
 ### [The Republic of Korea Air Force announces that it will conduct regular midair refuelling drills with the United States Air Force commencing later this year. ](/news/2011/07/11/the-republic-of-korea-air-force-announces-that-it-will-conduct-regular-midair-refuelling-drills-with-the-united-states-air-force-commencing.md)
-_Context: United States Air Force, Republic of Korea Air Force_
+_Context: Republic of Korea Air Force, United States Air Force_
 
 ##### Canadian
 ### [Canada will boycott the United Nations Conference on Disarmament to protest against North Korea being named its chair. ](/news/2011/07/11/canada-will-boycott-the-united-nations-conference-on-disarmament-to-protest-against-north-korea-being-named-its-chair.md)
@@ -41,7 +41,7 @@ Canada is boycotting a UN body dedicated to disarmament to protest against North
 
 ##### British royal family
 ### [Ten members of the British royal family including the Prince of Wales and the Duchess of Cornwall are believed to be among the victims of the "News of the World" phone hacking affair. ](/news/2011/07/11/ten-members-of-the-british-royal-family-including-the-prince-of-wales-and-the-duchess-of-cornwall-are-believed-to-be-among-the-victims-of-th.md)
-_Context: Duchess of Cornwall, British royal family, News of the World, phone hacking affair, Prince of Wales_
+_Context: phone hacking affair, Prince of Wales, British royal family, News of the World, Duchess of Cornwall_
 
 ##### Mexican
 ### [Twenty-three people allegedly linked to the Mexican Los Zetas Cartel are indicted in the US state of Colorado for allegedly trying to smuggle marijuana in the United States. ](/news/2011/07/11/twenty-three-people-allegedly-linked-to-the-mexican-los-zetas-cartel-are-indicted-in-the-us-state-of-colorado-for-allegedly-trying-to-smuggl.md)

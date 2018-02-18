@@ -29,19 +29,19 @@ Palestinian in Turkish Embassy &quot;threatened to blow up building.&quot;
 
 ##### Afghan
 ### [Archaeologists in Afghanistan discover the remains of a Buddhist site south of the capital Kabul. ](/news/2010/08/17/archaeologists-in-afghanistan-discover-the-remains-of-a-buddhist-site-south-of-the-capital-kabul.md)
-_Context: Buddhists, Kabul, Afghan_
+_Context: Afghan, Kabul, Buddhists_
 
 ##### Fiji
 ### [Fiji officially designates the word "Fijian" as the term for the nationality of all the people of the islands including Indo-Fijians. The word was previously used only for indigenous inhabitants. ](/news/2010/08/17/fiji-officially-designates-the-word-fijian-as-the-term-for-the-nationality-of-all-the-people-of-the-islands-including-indo-fijians-the-wo.md)
-_Context: Fiji, Indo-Fijian, Fijian_
+_Context: Fijian, Fiji, Indo-Fijian_
 
 ##### Iranian Air Force
 ### [An Islamic Republic of Iran Air Force F4 aircraft crashes in the southern province of Bushehr; both pilots survive. ](/news/2010/08/17/an-islamic-republic-of-iran-air-force-f4-aircraft-crashes-in-the-southern-province-of-bushehr-both-pilots-survive.md)
-_Context: Bushehr, Iranian Air Force_
+_Context: Iranian Air Force, Bushehr_
 
 ##### Tornado
 ### [Tornado has swept threw south western part of Lithuania, near city of Rusne ](/news/2010/08/17/tornado-has-swept-threw-south-western-part-of-lithuania-near-city-of-rusna.md)
-_Context: tornado, Lithuania, Rusne_
+_Context: Rusne, tornado, Lithuania_
 
 ##### Chilean military
 ### [The Chilean military removes 1,000 protesters who had occupied government buildings, museums and a hotel on Easter Island. ](/news/2010/08/17/the-chilean-military-removes-1-000-protesters-who-had-occupied-government-buildings-museums-and-a-hotel-on-easter-island.md)
@@ -73,7 +73,7 @@ A Kenyan national who was attempting to sell an albino man has been arrested, po
 
 ##### Same-sex couples
 ### [Same-sex marriage in the U.S. state of California, due to resume on Wednesday, is blocked by the Ninth Circuit Court of Appeals until it is decided whether a ban is constitutional. ](/news/2010/08/17/same-sex-marriage-in-the-u-s-state-of-california-due-to-resume-on-wednesday-is-blocked-by-the-ninth-circuit-court-of-appeals-until-it-is.md)
-_Context: U.S. state, same-sex couples, California, United States Court of Appeals for the Ninth Circuit_
+_Context: California, same-sex couples, United States Court of Appeals for the Ninth Circuit, U.S. state_
 
 ##### Jury
 ### [A federal jury convicts former Governor of Illinois Rod Blagojevich on one count of lying to the United States Federal Bureau of Investigation. The jury is deadlocked on the other 23 charges. ](/news/2010/08/17/a-federal-jury-convicts-former-governor-of-illinois-rod-blagojevich-on-one-count-of-lying-to-the-united-states-federal-bureau-of-investigati.md)

@@ -5,11 +5,11 @@ Formats: [HTML](2009/11/4/index.html)  [JSON](2009/11/4/index.json)  [XML](2009/
 
 ##### New York Yankees
 ### [ The New York Yankees defeat the Philadelphia Phillies 7-3 in Game 6 to win the 2009 World Series. ](/news/2009/11/4/the-new-york-yankees-defeat-the-philadelphia-phillies-7-3-in-game-6-to-win-the-2009-world-series.md)
-_Context: New York Yankees, Philadelphia Phillies, baseball world series_
+_Context: Philadelphia Phillies, New York Yankees, baseball world series_
 
 ##### Houthi
 ### [ Rebel Houthis in Yemen cross the border into Saudi Arabia, killing a Saudi security officer and injuring 11 others. ](/news/2009/11/4/rebel-houthis-in-yemen-cross-the-border-into-saudi-arabia-killing-a-saudi-security-officer-and-injuring-11-others.md)
-_Context: Saudi Arabia, Houthi, Shia insurgency in Yemen, Yemen_
+_Context: Yemen, Houthi, Shia insurgency in Yemen, Saudi Arabia_
 
 ##### Israeli navy
 ### [ The Israeli navy intercepts the Francop, a ship alleging to have Iranian weapons bound for Hezbollah in Lebanon. ](/news/2009/11/4/the-israeli-navy-intercepts-the-francop-a-ship-alleging-to-have-iranian-weapons-bound-for-hezbollah-in-lebanon.md)
@@ -29,7 +29,7 @@ The U.N. is expected to endorse a report that found evidence that Israel and Pal
 
 ##### Typhoon Mirinae
 ### [ The death toll from Typhoon Mirinae in Vietnam rises to at least 90. ](/news/2009/11/4/the-death-toll-from-typhoon-mirinae-in-vietnam-rises-to-at-least-90.md)
-_Context: Typhoon Mirinae, Vietnam_
+_Context: Vietnam, Typhoon Mirinae_
 
 ##### Italy
 ### [ An Italian court convicts 22 CIA agents and 2 Italian agents over the kidnap of Muslim cleric Hassan Mustafa Osama Nasr in Milan in 2003, in the first court case challenging the CIA's "extraordinary rendition" programme. ](/news/2009/11/4/an-italian-court-convicts-22-cia-agents-and-2-italian-agents-over-the-kidnap-of-muslim-cleric-hassan-mustafa-osama-nasr-in-milan-in-2003-i.md)
@@ -37,11 +37,11 @@ Twenty-three US secret agents, accused of seizing imam, sentenced to jail in abs
 
 ##### United States
 ### [ United States officials meet Aung San Suu Kyi and the Burmese Prime Minister Thein Sein in rare talks. ](/news/2009/11/4/united-states-officials-meet-aung-san-suu-kyi-and-the-burmese-prime-minister-thein-sein-in-rare-talks.md)
-_Context: United States, Burma, Prime Minister, Aung San Suu Kyi, Thein Sein_
+_Context: Burma, Prime Minister, Aung San Suu Kyi, United States, Thein Sein_
 
 ##### President of Sierra Leone
 ### [ The President of Sierra Leone Ernest Bai Koroma sacks two senior ministers on charges of corruption. ](/news/2009/11/4/the-president-of-sierra-leone-ernest-bai-koroma-sacks-two-senior-ministers-on-charges-of-corruption.md)
-_Context: Sierra Leone, President of Sierra Leone, Ernest Bai Koroma_
+_Context: Sierra Leone, Ernest Bai Koroma, President of Sierra Leone_
 
 ##### Italy
 ### [ Italian politicians and the Vatican condemn a ruling by the European Court of Human Rights that says having a crucifix in a classroom is a breach of human rights. ](/news/2009/11/4/italian-politicians-and-the-vatican-condemn-a-ruling-by-the-european-court-of-human-rights-that-says-having-a-crucifix-in-a-classroom-is-a.md)
@@ -53,11 +53,11 @@ _Context: earthquake, Iran_
 
 ##### China
 ### [ China approves a Disney theme park in Shanghai after a decade of negotiations. ](/news/2009/11/4/china-approves-a-disney-theme-park-in-shanghai-after-a-decade-of-negotiations.md)
-_Context: Shanghai, Disney, China, theme park_
+_Context: theme park, Shanghai, China, Disney_
 
 ##### Australia
 ### [ Australia and New Zealand expel Fiji's top diplomats in response to the decision of the Government of Prime Minister Frank Bainimarama to expel senior Australian and New Zealand diplomats from Fiji. ](/news/2009/11/4/australia-and-new-zealand-expel-fiji-s-top-diplomats-in-response-to-the-decision-of-the-government-of-prime-minister-frank-bainimarama-to-e.md)
-_Context: Fiji, New Zealand, Voreqe Bainimarama, Australia, Prime Minister_
+_Context: Fiji, Australia, Voreqe Bainimarama, Prime Minister, New Zealand_
 
 ##### Huwei
 ### [ A fire at a warehouse in Huwei Yunlin County, Taiwan, destroys between 400 and 500 historic puppets. ](/news/2009/11/4/a-fire-at-a-warehouse-in-huwei-yunlin-county-taiwan-destroys-between-400-and-500-historic-puppets.md)
@@ -65,7 +65,7 @@ TAIPEI (Reuters Life!) - A region of Taiwan that prides itself on puppetry, an a
 
 ##### Kerala
 ### [ Eight children drown after a boat carrying 35 pupils capsizes in Kerala, southern India. ](/news/2009/11/4/eight-children-drown-after-a-boat-carrying-35-pupils-capsizes-in-kerala-southern-india.md)
-_Context: India, Kerala_
+_Context: Kerala, India_
 
 ##### United States elections, 2009
 ### [ Michael Bloomberg wins a third term as Mayor of New York City. ](/news/2009/11/4/michael-bloomberg-wins-a-third-term-as-mayor-of-new-york-city.md)

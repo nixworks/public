@@ -17,7 +17,7 @@ Anti-government demonstrators reiterate calls for president to stand down while 
 
 ##### 2010-2011 Algerian protests
 ### [2010-2011 Algerian protests: President Abdelaziz Bouteflika vows to lift the country's state of emergency, in force since 1992, in the "very near future". ](/news/2011/02/3/2010a2011-algerian-protests-president-abdelaziz-bouteflika-vows-to-lift-the-country-s-state-of-emergency-in-force-since-1992-in-the-ve.md)
-_Context: Abdelaziz Bouteflika, 2010-2011 Algerian protests, President_
+_Context: 2010-2011 Algerian protests, Abdelaziz Bouteflika, President_
 
 ##### Protestors
 ### [2011 Syrian protests: Social media mobilises the people of Syria for rallies demanding freedom, human rights and the end to emergency law, scheduled for Friday and Saturday in front of the parliament in Damascus and at Syrian embassies internationally. ](/news/2011/02/3/2011-syrian-protests-social-media-mobilises-the-people-of-syria-for-rallies-demanding-freedom-human-rights-and-the-end-to-emergency-law-s.md)
@@ -41,7 +41,7 @@ Brent crude rose above $103 a barrel on Thursday after violent clashes in Egypt 
 
 ##### Cyclone Yasi
 ### [Cyclone Yasi hits North Queensland in Australia with the worst affected towns including Mission Beach, Tully, Cardwell and Innisfail. ](/news/2011/02/3/cyclone-yasi-hits-north-queensland-in-australia-with-the-worst-affected-towns-including-mission-beach-tully-cardwell-and-innisfail.md)
-_Context: Australia, Cardwell, Cyclone Yasi, Innisfail, northern, Mission Beach, Tully_
+_Context: Tully, Cardwell, Innisfail, Australia, northern, Mission Beach, Cyclone Yasi_
 
 ##### Ankara
 ### [Death toll of second blast reaches 18 in Ankara, Turkey. ](/news/2011/02/3/death-toll-of-second-blast-reaches-18-in-ankara-turkey.md)
@@ -53,7 +53,7 @@ _Context: fireworks, Chinese New Year_
 
 ##### Silvio Berlusconi
 ### [Italy's parliament rejects a search request by prosecutors investigating Silvio Berlusconi for having sexual intercourse with an under-age prostitute. ](/news/2011/02/3/italy-s-parliament-rejects-a-search-request-by-prosecutors-investigating-silvio-berlusconi-for-having-sexual-intercourse-with-an-under-age-p.md)
-_Context: sexual intercourse, prostitute, Silvio Berlusconi_
+_Context: Silvio Berlusconi, prostitute, sexual intercourse_
 
 ##### Suicide
 ### [A former policeman questions the suicide verdict recorded in the 1979 death of French cabinet minister Robert Boulin, claiming he could not have drowned. His family believe he was murdered. ](/news/2011/02/3/a-former-policeman-questions-the-suicide-verdict-recorded-in-the-1979-death-of-french-cabinet-minister-robert-boulin-claiming-he-could-not.md)
@@ -77,7 +77,7 @@ Thirty years after the first Internet addresses were created, the supply of addr
 
 ##### Protein folding
 ### [Protein folding is advanced by the announcement of a discovery of a key mechanism in the relationship of protein folding to surrounding water by Olivier Collet at Nancy University (Nancy-Universite). ](/news/2011/02/3/protein-folding-is-advanced-by-the-announcement-of-a-discovery-of-a-key-mechanism-in-the-relationship-of-protein-folding-to-surrounding-wate.md)
-_Context: Nancy University, Nancy-Universite, Protein folding_
+_Context: Nancy-Universite, Protein folding, Nancy University_
 
 ## [Previous Day...](/news/2011/02/2/index.md)
 

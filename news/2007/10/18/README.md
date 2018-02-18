@@ -5,15 +5,15 @@ Formats: [HTML](2007/10/18/index.html)  [JSON](2007/10/18/index.json)  [XML](200
 
 ##### $
 ### [ Oil prices reach $90 a barrel for the first time due to the low dollar and ongoing tension between Turkey and Iraq. ](/news/2007/10/18/oil-prices-reach-90-a-barrel-for-the-first-time-due-to-the-low-dollar-and-ongoing-tension-between-turkey-and-iraq.md)
-_Context: $, Iraq, Turkey_
+_Context: Iraq, Turkey, $_
 
 ##### BBC
 ### [ The BBC announces 1,800 job cuts as part of restructuring to fill a GBP2 billion (US$4 bn) shortfall caused by lower than expected funding by the British government. ](/news/2007/10/18/the-bbc-announces-1-800-job-cuts-as-part-of-restructuring-to-fill-a-gbp2-billion-us-4-bn-shortfall-caused-by-lower-than-expected-funding.md)
-_Context: BBC, GBP, United Kingdom, $_
+_Context: GBP, United Kingdom, BBC, $_
 
 ##### Tribal warfare
 ### [ At least four people are killed in three days of tribal warfare near the Grasberg mine in the Papua province of Indonesia. ](/news/2007/10/18/at-least-four-people-are-killed-in-three-days-of-tribal-warfare-near-the-grasberg-mine-in-the-papua-province-of-indonesia.md)
-_Context: Papua, Grasberg mine, Indonesia, tribal warfare_
+_Context: Grasberg mine, Indonesia, Papua, tribal warfare_
 
 ##### France
 ### [ French commuters face chaos after a public transport strike over proposed changes to pensions of transit workers continue. ](/news/2007/10/18/french-commuters-face-chaos-after-a-public-transport-strike-over-proposed-changes-to-pensions-of-transit-workers-continue.md)
@@ -25,7 +25,7 @@ _Context: Ccilia, Nicolas Sarkozy_
 
 ##### Prime Minister
 ### [ Former Prime Minister of Pakistan Benazir Bhutto returns to Pakistan after eight years of self-exile, with a crowd of a million expected in Karachi to welcome her back. ](/news/2007/10/18/former-prime-minister-of-pakistan-benazir-bhutto-returns-to-pakistan-after-eight-years-of-self-exile-with-a-crowd-of-a-million-expected-in.md)
-_Context: Karachi, Prime Minister, Benazir Bhutto, Pakistan_
+_Context: Pakistan, Karachi, Prime Minister, Benazir Bhutto_
 
 ## [Previous Day...](/news/2007/10/17/index.md)
 

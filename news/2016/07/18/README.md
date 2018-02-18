@@ -19,7 +19,7 @@ A teenage Afghan refugee attacks passengers on a train in Germany with an axe an
 ### [Indonesian police kill two militants in a clash in a remote jungle area on Sulawesi island. One may be Abu Wardah Santoso, leader of ISIL-connected Mujahidin Indonesia Timur, and the country's "most wanted man." Forensic tests will be carried out. Three others, including two women, escaped. ](/news/2016/07/18/indonesian-police-kill-two-militants-in-a-clash-in-a-remote-jungle-area-on-sulawesi-island-one-may-be-abu-wardah-santoso-leader-of-isil-co.md)
 JAKARTA, Indonesia (AP) — Indonesia&#039;s most wanted Islamic militant was killed in a gunbattle with security forces, a top minister said Tuesday, in a victory for the government&#039;s counterterrorism campaign that further tightens…
 
-##### July 2016 Turkish ''coup d'etat'' attempt
+##### 2016 Turkish coup d'etat attempt
 ### [ General Akin Ozturk, Turkish Air Force chief until August 2015, confesses to planning last week's attempted coup d'etat, according to the state-run Anadolu News Agency. ](/news/2016/07/18/general-aka-n-azta1-4rk-turkish-air-force-chief-until-august-2015-confesses-to-planning-last-week-s-attempted-coup-d-a-c-tat-according-to-t.md)
 Gen. Akin Ozturk, former chief of the Turkish air force, has confessed to planning the coup attempt that left more than 200 dead, according to state-run media.
 
@@ -33,7 +33,7 @@ U.K.-based chip designer ARM Holdings confirmed that it agreed to a $32 billion 
 
 ##### North Korea-South Korea relations
 ### [South Korea warns that North Korea could hold another nuclear test at any time. ](/news/2016/07/18/south-korea-warns-that-north-korea-could-hold-another-nuclear-test-at-any-time.md)
-_Context: North Korea-South Korea relations, North Korea's nuclear program, South Korea, North Korea_
+_Context: North Korea's nuclear program, South Korea, North Korea-South Korea relations, North Korea_
 
 ##### Turkey-United States relations
 ### [The United States Secretary of State John Kerry warns Turkey it could lose its NATO membership if it fails to uphold the principles of democracy. Around 8,000 police officers have been sacked in the country following the attempted coup, with more than 6,000 people in the army, the judiciary and other state bodies detained as part of President Recep Tayyip Erdogan's crackdown. ](/news/2016/07/18/the-united-states-secretary-of-state-john-kerry-warns-turkey-it-could-lose-its-nato-membership-if-it-fails-to-uphold-the-principles-of-democ.md)

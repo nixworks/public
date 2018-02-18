@@ -9,7 +9,7 @@ Israeli Prime Minister Benjamin Netanyahu has ruled out any apology from his cou
 
 ##### Israel's blockade on Gaza
 ### [A series of studies published by Palestinian scientists in "The Lancet" claims that Israel's blockade of the Gaza Strip threatens to cause long-term health damage, malnutrition and stunted growth in children. ](/news/2010/07/2/a-series-of-studies-published-by-palestinian-scientists-in-the-lancet-claims-that-israel-s-blockade-of-the-gaza-strip-threatens-to-cause-l.md)
-_Context: Israel's blockade on Gaza, Gaza Strip, Israel, The Lancet_
+_Context: Gaza Strip, The Lancet, Israel's blockade on Gaza, Israel_
 
 ##### Africa
 ### [Senegal enters eight days of national mourning as President Abdoulaye Wade swears allegiance to the new Grand Marabout of the Mourides following the death of his predecessor, Serigne Mouhamadou Lamine Bara Mbacke. ](/news/2010/07/2/senegal-enters-eight-days-of-national-mourning-as-president-abdoulaye-wade-swears-allegiance-to-the-new-grand-marabout-of-the-mourides-follo.md)
@@ -25,7 +25,7 @@ US and Amnesty call for transparency and probe into Urumqi unrest one year on.
 
 ##### Narathiwat
 ### [Eight soldiers are killed during two roadside bombs in Narathiwat and Yala in Thailand. ](/news/2010/07/2/eight-soldiers-are-killed-during-two-roadside-bombs-in-narathiwat-and-yala-in-thailand.md)
-_Context: Thailand, Yala Province, Narathiwat_
+_Context: Narathiwat, Yala Province, Thailand_
 
 ##### USAID
 ### [At least four people are killed and several others are wounded as six suicide bombers storm a USAID compound before dawn in Kunduz, Afghanistan. ](/news/2010/07/2/at-least-four-people-are-killed-and-several-others-are-wounded-as-six-suicide-bombers-storm-a-usaid-compound-before-dawn-in-kunduz-afghanis.md)
@@ -45,7 +45,7 @@ The Russian cargo ship Progress fails to dock with the International Space Stati
 
 ##### Somaliland presidential election, 2010
 ### [Newly-elected President Ahmed M. Mahamoud Silanyo promises to campaign "vigorously" for the recognition of "our democracy" during his time in office. ](/news/2010/07/2/newly-elected-president-ahmed-m-mahamoud-silanyo-promises-to-campaign-vigorously-for-the-recognition-of-our-democracy-during-his-time-i.md)
-_Context: President, Ahmed M. Mahamoud Silanyo, Somaliland presidential election, 2010_
+_Context: Ahmed M. Mahamoud Silanyo, Somaliland presidential election, 2010, President_
 
 ##### Ian Paisley
 ### [Ian Paisley condemns the invitation for the Pope to visit Britain and calls child-abusing Catholic priests "Antichrists". ](/news/2010/07/2/ian-paisley-condemns-the-invitation-for-the-pope-to-visit-britain-and-calls-child-abusing-catholic-priests-antichrists.md)
@@ -53,11 +53,11 @@ _Context: Antichrist, Ian Paisley_
 
 ##### U.S. President
 ### [President of the United States Barack Obama signs into law the CISAD Act, which bans US banks from doing business with foreign banks that provide services to Iran's elite Revolutionary Guards. ](/news/2010/07/2/president-of-the-united-states-barack-obama-signs-into-law-the-cisad-act-which-bans-us-banks-from-doing-business-with-foreign-banks-that-pr.md)
-_Context: Revolutionary Guards, CISAD Act, U.S. President, Barack Obama_
+_Context: CISAD Act, Barack Obama, U.S. President, Revolutionary Guards_
 
 ##### German
 ### [Germany vows to suspend aid to Zimbabwe unless occupiers leave a farm owned by a German national. ](/news/2010/07/2/germany-vows-to-suspend-aid-to-zimbabwe-unless-occupiers-leave-a-farm-owned-by-a-german-national.md)
-_Context: German, Zimbabwe_
+_Context: Zimbabwe, German_
 
 ##### Gazprom
 ### [Gazprom and Beltransgaz sign a gas transit deal, setting the transit fee for this year. ](/news/2010/07/2/gazprom-and-beltransgaz-sign-a-gas-transit-deal-setting-the-transit-fee-for-this-year.md)

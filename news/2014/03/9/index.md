@@ -5,11 +5,11 @@ Formats: [HTML](2014/03/9/index.html)  [JSON](2014/03/9/index.json)  [XML](2014/
 
 ##### Hillah
 ### [A suicide car bomber kills 42 people at a police checkpoint in Hillah, Iraq. ](/news/2014/03/9/a-suicide-car-bomber-kills-42-people-at-a-police-checkpoint-in-hillah-iraq.md)
-_Context: Hillah, Iraq_
+_Context: Iraq, Hillah_
 
 ##### Nazario Moreno Gonzalez
 ### [Mexican authorities confirm that Nazario Moreno Gonzalez, the top leader of the Knights Templar Cartel, was killed in the state of Michoacan. ](/news/2014/03/9/mexican-authorities-confirm-that-nazario-moreno-gonza-lez-the-top-leader-of-the-knights-templar-cartel-was-killed-in-the-state-of-michoaca.md)
-_Context: Michoacan, Knights Templar Cartel, Nazario Moreno Gonzalez_
+_Context: Knights Templar Cartel, Michoacan, Nazario Moreno Gonzalez_
 
 ##### Horn of Africa
 ### [At least 42 migrants from the Horn of Africa drown when their boat overturns off the coast of Shabwah Governorate, Yemen. ](/news/2014/03/9/at-least-42-migrants-from-the-horn-of-africa-drown-when-their-boat-overturns-off-the-coast-of-shabwah-governorate-yemen.md)

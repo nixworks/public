@@ -9,19 +9,19 @@ _Context: Momart_
 
 ##### Saudi Arabian
 ### [ Saudi Arabian Oil Minister Ali Naimi declares that USD $30-34 per barrel is a 'fair and reasonable price', denies any differences within the Organization of Petroleum Exporting Countries (OPEC), and vouchsafes to increase crude oil supply by 2 million barrels per day (4 m 3 -s) if the market demands it. Previous reports of a deal between U.S. President George W. Bush and Saudi Arabia are not discussed. ](/news/2004/05/24/saudi-arabian-oil-minister-ali-naimi-declares-that-usd-30a34-per-barrel-is-a-fair-and-reasonable-price-denies-any-differences-within.md)
-_Context: Organization of Petroleum Exporting Countries, Saudi Arabian, $, George W. Bush_
+_Context: George W. Bush, Saudi Arabian, $, Organization of Petroleum Exporting Countries_
 
 ##### Internet piracy
 ### [ Copyright infringement: The Recording Industry Association of America sues 493 more individuals under US copyright law and intends to discover their identities. Nearly 3000 people have now been sued by the RIAA since September 2003. ](/news/2004/05/24/copyright-infringement-the-recording-industry-association-of-america-sues-493-more-individuals-under-us-copyright-law-and-intends-to-disco.md)
-_Context: Recording Industry Association of America, Internet piracy, sue, US copyright law_
+_Context: Recording Industry Association of America, US copyright law, sue, Internet piracy_
 
 ##### Islamic militant
 ### [ Pakistan: Police arrest six more members of militant Islamic group Harkat-ul Mujahideen al-Alami after a gun-battle in southern Karachi. ](/news/2004/05/24/pakistan-police-arrest-six-more-members-of-militant-islamic-group-harkat-ul-mujahideen-al-alami-after-a-gun-battle-in-southern-karachi.md)
-_Context: Karachi, Islamic militant, Harkat-ul Mujahideen al-Alami_
+_Context: Islamic militant, Karachi, Harkat-ul Mujahideen al-Alami_
 
 ##### South Korean politics
 ### [ South Korean politics: South Korean Prime Minister Goh Kun resigns as announced last month. His successor has not yet been named by President Roh Moo-hyun. ](/news/2004/05/24/south-korean-politics-south-korean-prime-minister-goh-kun-resigns-as-announced-last-month-his-successor-has-not-yet-been-named-by-preside.md)
-_Context: South Korean President, Prime Minister, South Korean politics, Goh Kun, Roh Moo-hyun_
+_Context: Prime Minister, South Korean politics, Roh Moo-hyun, South Korean President, Goh Kun_
 
 ##### 2004 elections
 ### [ Philippine general election, 2004: Incumbent Philippine President Gloria Macapagal Arroyo wins another term according to a senior election official who leaks the narrow winning margin of about 3% or 900,000 votes. An independent watchdog group confirms the figures. ](/news/2004/05/24/philippine-general-election-2004-incumbent-philippine-president-gloria-macapagal-arroyo-wins-another-term-according-to-a-senior-election.md)

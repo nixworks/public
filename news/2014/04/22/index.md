@@ -5,7 +5,7 @@ Formats: [HTML](2014/04/22/index.html)  [JSON](2014/04/22/index.json)  [XML](201
 
 ##### Simon Ostrovsky
 ### [Russian-born American-Israeli journalist Simon Ostrovsky is reportedly abducted in Sloviansk by the militia of the separatist pro-Russian leader Vyacheslav Ponomarev. ](/news/2014/04/22/russian-born-american-israeli-journalist-simon-ostrovsky-is-reportedly-abducted-in-sloviansk-by-the-militia-of-the-separatist-pro-russian-le.md)
-_Context: Sloviansk, Simon Ostrovsky, Vyacheslav Ponomarev_
+_Context: Sloviansk, Vyacheslav Ponomarev, Simon Ostrovsky_
 
 ##### War in North-West Pakistan
 ### [Nine people are killed and dozens wounded in two separate bomb and gun attacks in north west Pakistan. ](/news/2014/04/22/nine-people-are-killed-and-dozens-wounded-in-two-separate-bomb-and-gun-attacks-in-north-west-pakistan.md)
@@ -25,7 +25,7 @@ KAMPALA, Uganda (AP) — African troops captured a junior commander with the Lor
 
 ##### Gilead Sciences
 ### [Gilead Sciences reports sales of US$2.27 billion for its new hepatitis C drug Sovaldi, the most ever for a drug during its first quarter on the market. ](/news/2014/04/22/gilead-sciences-reports-sales-of-us-2-27-billion-for-its-new-hepatitis-c-drug-sovaldi-the-most-ever-for-a-drug-during-its-first-quarter-on.md)
-_Context: hepatitis C, Sovaldi, Gilead Sciences_
+_Context: Gilead Sciences, hepatitis C, Sovaldi_
 
 ##### 2014 South Korean ferry capsizing
 ### [A total of 113 people are known to have died, with 190 more passengers missing and presumed trapped inside the vessel. Seven crew members are detained for their failure to evacuate Sewol ferry. The reason for sinking is not yet clear. ](/news/2014/04/22/a-total-of-113-people-are-known-to-have-died-with-190-more-passengers-missing-and-presumed-trapped-inside-the-vessel-seven-crew-members-ar.md)

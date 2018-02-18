@@ -17,11 +17,11 @@ WASHINGTON: Turkish President Tayyip Erdogan said an attack in the southeastern 
 
 ##### Syrian Civil War
 ### [The Syrian Observatory for Human Rights reports a drone attack, "most likely operated by the US-led coalition," kills Abu al-Hija, a high-ranking Tunisian ISIL commander, near the Islamic State's de facto Syrian capital Raqqa. ](/news/2016/03/31/the-syrian-observatory-for-human-rights-reports-a-drone-attack-amost-likely-operated-by-the-us-led-coalition-a-kills-abu-al-hija-a-hig.md)
-_Context: Syria, ISIL, Tunisia, Syrian Civil War, Syrian Observatory for Human Rights, Al-Raqqah_
+_Context: Syrian Civil War, Syria, ISIL, Syrian Observatory for Human Rights, Tunisia, Al-Raqqah_
 
 ##### U.S. Federal Trade Commission
 ### [The U.S. Federal Trade Commission files an anti-trust suit against Endo Pharmaceuticals, Inc., and several other drug companies for using pay-for-delay settlements to block consumers' access to lower-cost generic versions of pain medications, Opana ER and Lidoderm. ](/news/2016/03/31/the-u-s-federal-trade-commission-files-an-anti-trust-suit-against-endo-pharmaceuticals-inc-and-several-other-drug-companies-for-using-pa.md)
-_Context: U.S. Federal Trade Commission, pay-for-delay settlements, Opana ER, Endo International plc, pain medications, Lidoderm, generic, reduced competition and higher prices_
+_Context: Lidoderm, U.S. Federal Trade Commission, Endo International plc, pain medications, Opana ER, pay-for-delay settlements, generic, reduced competition and higher prices_
 
 ##### Consortium
 ### [A consortium led by China's Anbang Insurance Group announces it will walk away from its $14 billion takeover bid for Starwood Hotels. This restores Marriott International as the highest bidder ($13.6 billion). ](/news/2016/03/31/a-consortium-led-by-china-s-anbang-insurance-group-announces-it-will-walk-away-from-its-14-billion-takeover-bid-for-starwood-hotels-this-r.md)
@@ -33,7 +33,7 @@ Three more bodies were recovered from under the debris of the flyover that colla
 
 ##### Nuclear Security Summit
 ### [More than 50 heads of state as well as representatives from international organizations attend the annual Nuclear Security Summit in Washington, D.C., with the notable exception of Russia, which declined to attend. The main agenda of the two-day gathering is the discussion of North Korea and the threat it poses with its nuclear weapons and the possibility of ISIS extremists getting a nuclear weapon. ](/news/2016/03/31/more-than-50-heads-of-state-as-well-as-representatives-from-international-organizations-attend-the-annual-nuclear-security-summit-in-washing.md)
-_Context: ISIL, North Korea, Russia, Nuclear Security Summit, Nuclear Security Summit, North Korea's nuclear program, Washington, D.C._
+_Context: Nuclear Security Summit, North Korea's nuclear program, ISIL, Russia, Nuclear Security Summit, North Korea, Washington, D.C._
 
 ##### Yugoslav Wars
 ### [Former Deputy Prime Minister of Serbia and nationalist politician, Vojislav Seselj, is acquitted of all nine charges of committing atrocities in Bosnia and Croatia during the early 1990s by the International Criminal Tribunal for the former Yugoslavia. ](/news/2016/03/31/former-deputy-prime-minister-of-serbia-and-nationalist-politician-vojislav-a-ea-elj-is-acquitted-of-all-nine-charges-of-committing-atrocit.md)
@@ -53,11 +53,11 @@ A Virginia State trooper who was shot when a suspect opened fire at a Greyhound 
 
 ##### Vietnam
 ### [Vietnam elects Nguyen Thi Kim Ngan chairwoman of the National Assembly. Ngan, who won 95.5 percent of the votes, is the first woman to lead Vietnam's legislature. In January, she was re-elected to the powerful Politburo at the Communist Party Congress. ](/news/2016/03/31/vietnam-elects-nguya-n-tha-kim-ngac-n-chairwoman-of-the-national-assembly-ngac-n-who-won-95-5-percent-of-the-votes-is-the-first-woman-to.md)
-_Context: Politburo, Vietnam, Parliament, Communist Party Congress, Nguyen Thi Kim Ngan_
+_Context: Communist Party Congress, Politburo, Vietnam, Nguyen Thi Kim Ngan, Parliament_
 
 ##### South African Constitutional Court
 ### [The Constitutional Court of South Africa delivered a unanimous judgement that President Jacob Zuma and the National Assembly failed to uphold the country's constitution by ignoring the findings of the Public Protector regarding public expenditure on Zuma's private homestead. ](/news/2016/03/31/the-constitutional-court-of-south-africa-delivered-a-unanimous-judgement-that-president-jacob-zuma-and-the-national-assembly-failed-to-uphol.md)
-_Context: Jacob Zuma, Public Protector, South African Constitutional Court, National Assembly_
+_Context: South African Constitutional Court, Jacob Zuma, Public Protector, National Assembly_
 
 ##### 2016 U.S. election
 ### [Pennsylvania's Supreme Court upholds the previous court ruling that dismissed the case against Ted Cruz which challenged his eligibility to appear on the state's GOP primary ballot, and serve as president. ](/news/2016/03/31/pennsylvania-s-supreme-court-upholds-the-previous-court-ruling-that-dismissed-the-case-against-ted-cruz-which-challenged-his-eligibility-to.md)
@@ -65,11 +65,11 @@ _Context: Jacob Zuma, Public Protector, South African Constitutional Court, Nati
 
 ##### National Assembly
 ### [Venezuela's National Assembly, responding to last month's Central Bank of Venezuela report that the country experienced a 180.9 percent inflation increase in 2015, passes legislation, "The Law of Bonds for Food and Medicine for Retirees and Pensioners", that could make it easier for pensioners and retirees to pay for food and medicine. The approved bill has been forwarded for President Nicolas Maduro's signature. ](/news/2016/03/31/venezuela-s-national-assembly-responding-to-last-month-s-central-bank-of-venezuela-report-that-the-country-experienced-a-180-9-percent-infl.md)
-_Context: inflation, National Assembly, Nicolas Maduro, President, Venezuelan Central Bank_
+_Context: Venezuelan Central Bank, inflation, National Assembly, President, Nicolas Maduro_
 
 ##### Italy
 ### [Italy's Minister of Economic Development, Federica Guidi, resigns amid allegations that she passed along confidential information to her boyfriend that helped his business interests. ](/news/2016/03/31/italy-s-minister-of-economic-development-federica-guidi-resigns-amid-allegations-that-she-passed-along-confidential-information-to-her-boy.md)
-_Context: Minister of Economic Development, Federica Guidi, Italy_
+_Context: Italy, Federica Guidi, Minister of Economic Development_
 
 ##### Brazil protests
 ### [Brazil's Supreme Court voted 8-2 to take over the corruption investigation of former President Luiz Inacio Lula da Silva. Silva alleges Judge Sergio Moro unfairly targets him. The court also overruled Moro's decision to release the recording of Silva's call with President Dilma Rousseff, since it is the only court that can authorize a wiretap on presidential conversations. The full court is still to rule on the injunction that prevents Silva from taking office as the President's Chief of Staff. ](/news/2016/03/31/brazil-s-supreme-court-voted-8-2-to-take-over-the-corruption-investigation-of-former-president-luiz-ina-cio-lula-da-silva-silva-alleges-jud.md)

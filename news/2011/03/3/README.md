@@ -33,7 +33,7 @@ UN agency says food prices at highest point in 20 years, as a result of stockpil
 
 ##### News Corporation
 ### [News Corporation, the third largest media company in the world, gets approval to buy out British Sky Broadcasting, the largest pay-TV broadcaster in the United Kingdom, for $12.7 billion. ](/news/2011/03/3/news-corporation-the-third-largest-media-company-in-the-world-gets-approval-to-buy-out-british-sky-broadcasting-the-largest-pay-tv-broadc.md)
-_Context: News Corporation, British Sky Broadcasting, Media conglomerate_
+_Context: British Sky Broadcasting, News Corporation, Media conglomerate_
 
 ##### WordPress.com
 ### [WordPress.com, a leading weblog host, is subjected to a huge Distributed Denial of Service attack. ](/news/2011/03/3/wordpress-com-a-leading-weblog-host-is-subjected-to-a-huge-distributed-denial-of-service-attack.md)
@@ -45,7 +45,7 @@ _Context: jet fuel, Airfare_
 
 ##### Mazda
 ### [Mazda recalls approximately 50,000 Mazda6 sedans after finding that a spider web could cause the fuel tank to crack and leak. ](/news/2011/03/3/mazda-recalls-approximately-50-000-mazda6-sedans-after-finding-that-a-spider-web-could-cause-the-fuel-tank-to-crack-and-leak.md)
-_Context: Mazda, fuel tank, spider web, sedan, Mazda6_
+_Context: sedan, Mazda6, Mazda, spider web, fuel tank_
 
 ##### 2011 Canterbury earthquake
 ### [New Zealand authorities state that they have given up finding survivors from the 2011 Canterbury earthquake with the final death toll expected to be approximately 240. ](/news/2011/03/3/new-zealand-authorities-state-that-they-have-given-up-finding-survivors-from-the-2011-canterbury-earthquake-with-the-final-death-toll-expect.md)
@@ -57,11 +57,11 @@ _Context: gorge_
 
 ##### President of Mexico
 ### [The President of Mexico Felipe Caldern travels to Washington, D.C., to meet with the President of the United States Barack Obama, the Speaker of the United States House of Representatives and other leading political figures. ](/news/2011/03/3/the-president-of-mexico-felipe-calderon-travels-to-washington-d-c-to-meet-with-the-president-of-the-united-states-barack-obama-the-speak.md)
-_Context: Barack Obama, Felipe Caldern, President of Mexico, U.S. Speaker of the House of Representatives_
+_Context: Barack Obama, Felipe Caldern, U.S. Speaker of the House of Representatives, President of Mexico_
 
 ##### Robert Levinson
 ### [The United States reports that it has proof that Robert Levinson, a retired FBI agent missing in Iran since 2007, is alive. ](/news/2011/03/3/the-united-states-reports-that-it-has-proof-that-robert-levinson-a-retired-fbi-agent-missing-in-iran-since-2007-is-alive.md)
-_Context: Iran, Robert Levinson, FBI_
+_Context: Robert Levinson, FBI, Iran_
 
 ##### Bradley Manning
 ### [22 new charges are brought against Bradley Manning, including aiding the enemy, a capital offense. ](/news/2011/03/3/22-new-charges-are-brought-against-bradley-manning-including-aiding-the-enemy-a-capital-offense.md)
@@ -69,7 +69,7 @@ The US Army charges a soldier held in connection with the leak of US government 
 
 ##### White supremacist
 ### [White supremacist David Lynch, the co-founder of the American Front, is killed in Sacramento County, California with police detaining a person in connection with the incident. ](/news/2011/03/3/white-supremacist-david-lynch-the-co-founder-of-the-american-front-is-killed-in-sacramento-county-california-with-police-detaining-a-pers.md)
-_Context: American Front, White supremacist, David Lynch, Sacramento County, California_
+_Context: David Lynch, White supremacist, American Front, Sacramento County, California_
 
 ##### Target Corporation
 ### [Target Corporation pays $22.5 million to settle claims of toxic waste dumping in the city of Los Angeles and elsewhere in the US state of California. ](/news/2011/03/3/target-corporation-pays-22-5-million-to-settle-claims-of-toxic-waste-dumping-in-the-city-of-los-angeles-and-elsewhere-in-the-us-state-of-ca.md)
@@ -77,7 +77,7 @@ Target Corp. will pay $22.5 million to settle claims that it illegally dumped to
 
 ##### Needham, Massachusetts
 ### [A Needham, Massachusetts doctor and a nurse practitioner are indicted in connection with the death of six patients. ](/news/2011/03/3/a-needham-massachusetts-doctor-and-a-nurse-practitioner-are-indicted-in-connection-with-the-death-of-six-patients.md)
-_Context: nurse practitioner, Needham, Massachusetts, indicted_
+_Context: indicted, nurse practitioner, Needham, Massachusetts_
 
 ##### Republican
 ### [Republicans submit a bill to the U.S. congress that would prohibit the Environmental Protection Agency from regulating greenhouse gasses as pollutants.](/news/2011/03/3/republicans-submit-a-bill-to-the-u-s-congress-that-would-prohibit-the-environmental-protection-agency-from-regulating-greenhouse-gasses-as.md)
@@ -93,7 +93,7 @@ _Context: anti-corruption_
 
 ##### Ahmed Shafiq
 ### [Ahmed Shafiq resigns as the Prime Minister of Egypt and is replaced by former transport minister Essam Sharaf. ](/news/2011/03/3/ahmed-shafiq-resigns-as-the-prime-minister-of-egypt-and-is-replaced-by-former-transport-minister-essam-sharaf.md)
-_Context: Ahmed Shafiq, Prime Minister of Egypt, Essam Sharaf_
+_Context: Essam Sharaf, Prime Minister of Egypt, Ahmed Shafiq_
 
 ##### 2011 Wisconsin budget protests
 ### [The Wisconsin Senate orders the arrest of 14 Democrat members who have been absent as part of the protests. ](/news/2011/03/3/the-wisconsin-senate-orders-the-arrest-of-14-democrat-members-who-have-been-absent-as-part-of-the-protests.md)
@@ -105,7 +105,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ##### U.S. Speaker of the House of Representatives
 ### [Former Speaker of the United States House of Representatives Newt Gingrich announces plans to explore a bid for the Republican Party nomination in the 2012 US Presidential election. ](/news/2011/03/3/former-speaker-of-the-united-states-house-of-representatives-newt-gingrich-announces-plans-to-explore-a-bid-for-the-republican-party-nominat.md)
-_Context: United States presidential election, 2012, Republican, U.S. Speaker of the House of Representatives, Newt Gingrich_
+_Context: United States presidential election, 2012, U.S. Speaker of the House of Representatives, Republican, Newt Gingrich_
 
 ##### Constituency
 ### [Voters in the English constituency of Barnsley Central go to the polls for a by-election with Dan Jarvis of the Labour Party being elected with a strong swing in his favour. ](/news/2011/03/3/voters-in-the-english-constituency-of-barnsley-central-go-to-the-polls-for-a-by-election-with-dan-jarvis-of-the-labour-party-being-elected-w.md)
@@ -113,7 +113,7 @@ Labour hold the Barnsley Central seat in a by-election, while the Lib Dems slip 
 
 ##### Fouad Mebazaa
 ### [Fouad Mebazaa, the acting President of Tunisia, has called an election on July 24 to appoint a council to rewrite the constitution. ](/news/2011/03/3/fouad-mebazaa-the-acting-president-of-tunisia-has-called-an-election-on-july-24-to-appoint-a-council-to-rewrite-the-constitution.md)
-_Context: Fouad Mebazaa, President of Tunisia, constitution_
+_Context: constitution, President of Tunisia, Fouad Mebazaa_
 
 ##### 10 Downing Street
 ### [The UK Government releases 35 formerly classified files related to sightings of unidentified flying objects. ](/news/2011/03/3/the-uk-government-releases-35-formerly-classified-files-related-to-sightings-of-unidentified-flying-objects.md)
@@ -121,7 +121,7 @@ The government Thursday released 35 previously classified files documenting sigh
 
 ##### Daily Telegraph
 ### ["The Daily Telegraph" claims that German anaesthetist Joachim Boldt has conducted "fraudulent research" into drugs called colloids. ](/news/2011/03/3/the-daily-telegraph-claims-that-german-anaesthetist-joachim-boldt-has-conducted-fraudulent-research-into-drugs-called-colloids.md)
-_Context: anaesthetist, colloid, Daily Telegraph, Joachim Boldt_
+_Context: anaesthetist, Joachim Boldt, colloid, Daily Telegraph_
 
 ## [Previous Day...](/news/2011/03/2/index.md)
 

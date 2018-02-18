@@ -5,7 +5,7 @@ Formats: [HTML](2013/09/20/index.html)  [JSON](2013/09/20/index.json)  [XML](201
 
 ##### Army
 ### [Separate attacks on army bases in Shabwa Governorate kill at least 38 soldiers and 8 militants. ](/news/2013/09/20/separate-attacks-on-army-bases-in-shabwa-governorate-kill-at-least-38-soldiers-and-8-militants.md)
-_Context: Shabwa Governorate, army_
+_Context: army, Shabwa Governorate_
 
 ##### Iran
 ### [Iranian President Hassan Rouhani says Iran is "ready to facilitate talks between the Syrian government and opposition". ](/news/2013/09/20/iranian-president-hassan-rouhani-says-iran-is-ready-to-facilitate-talks-between-the-syrian-government-and-opposition.md)

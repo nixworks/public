@@ -13,11 +13,11 @@ _Context: United States, Earth, spy satellite_
 
 ##### Zimbabwe
 ### [ Police in Zimbabwe arrest Nicholas van Hoogstraten for allegedly violating the Exchange Control Regulations Act by asking his tenants to pay in foreign currency. He is also accused of violating the Censorship Act for possessing pornography. Police seize Z$20 billion ($0.6m). ](/news/2008/01/26/police-in-zimbabwe-arrest-nicholas-van-hoogstraten-for-allegedly-violating-the-exchange-control-regulations-act-by-asking-his-tenants-to-pa.md)
-_Context: Nicholas van Hoogstraten, Zimbabwe, USD, Z$_
+_Context: Z$, Nicholas van Hoogstraten, Zimbabwe, USD_
 
 ##### Maria Sharapova
 ### [ Maria Sharapova wins the Australian Open women's title defeating Ana Ivanovic 7-5, 6-3. Andy Ram & Yoni Erlich win the men's doubles title. ](/news/2008/01/26/maria-sharapova-wins-the-australian-open-women-s-title-defeating-ana-ivanovic-7-5-6-3-andy-ram-yoni-erlich-win-the-men-s-doubles-title.md)
-_Context: Australian Open, Ana Ivanovic, Yoni Erlich, Andy Ram, Maria Sharapova_
+_Context: Yoni Erlich, Australian Open, Maria Sharapova, Ana Ivanovic, Andy Ram_
 
 ## [Previous Day...](/news/2008/01/25/index.md)
 

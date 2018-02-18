@@ -21,7 +21,7 @@ _Context: ETA, France_
 
 ##### Iran
 ### [ The Iranian Supreme Leader Ali Khamenei says he has no evidence that opposition protests were backed by foreign countries. ](/news/2009/08/26/the-iranian-supreme-leader-ali-khamenei-says-he-has-no-evidence-that-opposition-protests-were-backed-by-foreign-countries.md)
-_Context: protests against the regime, Ali Khamenei, Supreme Leader, Iran_
+_Context: Supreme Leader, Ali Khamenei, protests against the regime, Iran_
 
 ##### Japan
 ### [ Japan's exports fall by 36.5% as demand falls. ](/news/2009/08/26/japan-s-exports-fall-by-36-5-as-demand-falls.md)
@@ -33,7 +33,7 @@ _Context: South Korea, Korean War, North Korea_
 
 ##### Zimbabwe
 ### [ Zimbabwe denies reports that President Robert Mugabe suffered a health scare. ](/news/2009/08/26/zimbabwe-denies-reports-that-president-robert-mugabe-suffered-a-health-scare.md)
-_Context: Robert Mugabe, President of Zimbabwe, Zimbabwe_
+_Context: President of Zimbabwe, Robert Mugabe, Zimbabwe_
 
 ## [Previous Day...](/news/2009/08/25/index.md)
 

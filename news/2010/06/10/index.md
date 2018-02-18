@@ -9,7 +9,7 @@ The killings of low-level officials are an attempt to undermine counterinsurgenc
 
 ##### Soweto
 ### [Soweto hosts an opening concert ahead of the 2010 FIFA World Cup, attended by tens of thousands of people and featuring appearances from international figures such as Desmond Tutu, Hugh Masekela, Amadou & Mariam, Shakira, Juanes, Black Eyed Peas and Alicia Keys. ](/news/2010/06/10/soweto-hosts-an-opening-concert-ahead-of-the-2010-fifa-world-cup-attended-by-tens-of-thousands-of-people-and-featuring-appearances-from-int.md)
-_Context: Soweto, Juanes, Desmond Tutu, Hugh Masekela, 2010 FIFA World Cup, Alicia Keys, Black Eyed Peas, Shakira, Amadou & Mariam_
+_Context: Black Eyed Peas, Alicia Keys, Hugh Masekela, Shakira, Soweto, 2010 FIFA World Cup, Amadou & Mariam, Desmond Tutu, Juanes_
 
 ##### J. G. Ballard
 ### [15 large storage boxes containing manuscripts, notebooks and letters belonging to J. G. Ballard are acquired by the British Library. ](/news/2010/06/10/15-large-storage-boxes-containing-manuscripts-notebooks-and-letters-belonging-to-j-g-ballard-are-acquired-by-the-british-library.md)
@@ -33,7 +33,7 @@ Seven former British soldiers are suing an American defence firm, accusing it of
 
 ##### President
 ### [Former president of Taiwan Chen Shui-bian's life sentence is cut to twenty years in prison. ](/news/2010/06/10/former-president-of-taiwan-chen-shui-bian-s-life-sentence-is-cut-to-twenty-years-in-prison.md)
-_Context: President, Chen Shui-bian, Taiwan_
+_Context: Taiwan, President, Chen Shui-bian_
 
 ##### Vujadin Popovic
 ### [Vujadin Popovic and Ljubisa Beara, former high-ranking officers of the Bosnian Serb army, are found guilty of genocide and sentenced to life imprisonment for their roles in the 1995 Srebrenica massacre, the harshest judgment ever delivered by the International Criminal Tribunal for the former Yugoslavia. ](/news/2010/06/10/vujadin-popovia-and-ljubia-a-beara-former-high-ranking-officers-of-the-bosnian-serb-army-are-found-guilty-of-genocide-and-sentenced-to-li.md)
@@ -49,7 +49,7 @@ Swiss businessman Max Goeldi, at the centre of a long-running row, is released f
 
 ##### Norway
 ### [Two Norwegians, including one with British citizenship, Joshua French and Tjostolv Moland, are sentenced to death by a military court in the Democratic Republic of the Congo on charges of murder and espionage. ](/news/2010/06/10/two-norwegians-including-one-with-british-citizenship-joshua-french-and-tjostolv-moland-are-sentenced-to-death-by-a-military-court-in-the.md)
-_Context: United Kingdom, Norway, Joshua French and Tjostolv Moland, DR Congo_
+_Context: DR Congo, Joshua French and Tjostolv Moland, Norway, United Kingdom_
 
 ##### Kenya
 ### [Kenyan police hunt for an alleged cult leader who instructed a serial killer to take up a killing spree. ](/news/2010/06/10/kenyan-police-hunt-for-an-alleged-cult-leader-who-instructed-a-serial-killer-to-take-up-a-killing-spree.md)
@@ -69,7 +69,7 @@ _Context: Japan, JAXA, solar sail_
 
 ##### South Korea
 ### [South Korea's space agency, KARI, loses contact with a Naro-1 rocket carrying the STSAT-2B satellite, 132 seconds after launch. Officials believe the rocket exploded. ](/news/2010/06/10/south-korea-s-space-agency-kari-loses-contact-with-a-naro-1-rocket-carrying-the-stsat-2b-satellite-132-seconds-after-launch-officials-be.md)
-_Context: STSAT-2B, South Korea, Naro-1, KARI, space agency, rocket_
+_Context: space agency, STSAT-2B, KARI, rocket, Naro-1, South Korea_
 
 ##### Possible major realignment
 ### [In the first move of a possible major realignment of U.S. college sports, the Pacific-10 Conference announces that the University of Colorado, a current member of the Big 12 Conference, has accepted the Pac-10's invitation to join that conference. ](/news/2010/06/10/in-the-first-move-of-a-possible-major-realignment-of-u-s-college-sports-the-pacific-10-conference-announces-that-the-university-of-colorad.md)

@@ -29,7 +29,7 @@ The U.S. Court of Appeals for the 9th Circuit asked the Justice Department and l
 
 ##### Women in Russia
 ### [President of Russia Vladimir Putin signs into law the decriminalization of domestic violence. ](/news/2017/02/7/president-of-russia-vladimir-putin-signs-into-law-the-decriminalization-of-domestic-violence.md)
-_Context: domestic violence, decriminalization, Women in Russia, Russian President, Vladimir Putin_
+_Context: domestic violence, Women in Russia, decriminalization, Russian President, Vladimir Putin_
 
 ##### Cory Bernardi
 ### [Incumbent Australian Senator Cory Bernardi defects from the centre-right Liberal Party of Australia to establish his own minor party, the Australian Conservatives. ](/news/2017/02/7/incumbent-australian-senator-cory-bernardi-defects-from-the-centre-right-liberal-party-of-australia-to-establish-his-own-minor-party-the-au.md)

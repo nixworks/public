@@ -5,11 +5,11 @@ Formats: [HTML](2005/07/4/index.html)  [JSON](2005/07/4/index.json)  [XML](2005/
 
 ##### Institutional Revolutionary Party
 ### [ The Mexican Institutional Revolutionary Party (PRI), the country's current opposition party that ruled for over 70 years, has claimed victory in elections for the governor of the country's most populated state, Mexico. ](/news/2005/07/4/the-mexican-institutional-revolutionary-party-pri-the-country-s-current-opposition-party-that-ruled-for-over-70-years-has-claimed-victo.md)
-_Context: Institutional Revolutionary Party, Mexico_
+_Context: Mexico, Institutional Revolutionary Party_
 
 ##### Elections in Burundi
 ### [ Elections in Burundi for the National Assembly begin under tight security. The voters will elect the first democratic government after the civil war. The vote is expected to favor the Hutu group Forces for the Defence of Democracy. The Hutu Forces for National Liberation are the only group that have not laid down their arms. ](/news/2005/07/4/elections-in-burundi-for-the-national-assembly-begin-under-tight-security-the-voters-will-elect-the-first-democratic-government-after-the.md)
-_Context: Forces for the Defence of Democracy, Hutu, Hutu Forces for National Liberation, National Assembly, Elections in Burundi_
+_Context: Elections in Burundi, National Assembly, Forces for the Defence of Democracy, Hutu, Hutu Forces for National Liberation_
 
 ##### NASA
 ### [ The impactor of NASA probe Deep Impact successfully strikes comet Tempel 1. ](/news/2005/07/4/the-impactor-of-nasa-probe-deep-impact-successfully-strikes-comet-tempel-1.md)
@@ -21,15 +21,15 @@ _Context: Canadian, Paul Bernardo, Karla Homolka_
 
 ##### Vicente Carrillo Fuentes
 ### [ Mexican police believe that they have arrested Vicente Carrillo Fuentes, leader of a Jurez drug cartel. ](/news/2005/07/4/mexican-police-believe-that-they-have-arrested-vicente-carrillo-fuentes-leader-of-a-juarez-drug-cartel.md)
-_Context: Jurez drug cartel, Vicente Carrillo Fuentes_
+_Context: Vicente Carrillo Fuentes, Jurez drug cartel_
 
 ##### Philippines
 ### [ In the Philippines, president Gloria Arroyo states that she would welcome impeachment proceedings as an opportunity to refute allegations about vote-rigging. The military has expressed its support of the president amid rumors of a coup. ](/news/2005/07/4/in-the-philippines-president-gloria-arroyo-states-that-she-would-welcome-impeachment-proceedings-as-an-opportunity-to-refute-allegations-a.md)
-_Context: coup, impeachment, Gloria Arroyo, Philippines_
+_Context: coup, Philippines, impeachment, Gloria Arroyo_
 
 ##### Israel
 ### [ In Israel, president Moshe Katsav states that he is worried about a possible assassination plot against Prime Minister of Israel Ariel Sharon. ](/news/2005/07/4/in-israel-president-moshe-katsav-states-that-he-is-worried-about-a-possible-assassination-plot-against-prime-minister-of-israel-ariel-shar.md)
-_Context: Israel, Israeli Prime Minister, assassination, Moshe Katsav, Ariel Sharon_
+_Context: Ariel Sharon, Moshe Katsav, assassination, Israeli Prime Minister, Israel_
 
 ##### Legitimate
 ### [ France abolishes the legal differences between legitimate and illegitimate children. The decree will take effect July 2006. ](/news/2005/07/4/france-abolishes-the-legal-differences-between-legitimate-and-illegitimate-children-the-decree-will-take-effect-july-2006.md)
@@ -37,7 +37,7 @@ _Context: legitimate, illegitimate_
 
 ##### Malaysia
 ### [ In Malaysia, police arrest 21 members of religious group Sky Kingdom. ](/news/2005/07/4/in-malaysia-police-arrest-21-members-of-religious-group-sky-kingdom.md)
-_Context: Malaysia, Sky Kingdom_
+_Context: Sky Kingdom, Malaysia_
 
 ##### Sri Lanka
 ### [ In Sri Lanka, five men receive the death sentence for the assassination of judge Sarath Ambepitiya last November. ](/news/2005/07/4/in-sri-lanka-five-men-receive-the-death-sentence-for-the-assassination-of-judge-sarath-ambepitiya-last-november.md)

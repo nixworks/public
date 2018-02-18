@@ -17,7 +17,7 @@ _Context: Van_
 
 ##### Insurgency in the North Caucasus
 ### [North Caucasus insurgency: The Russian military kill 8 militants, including two regional commanders, in Dagestan and Kabardino-Balkaria. ](/news/2012/07/14/north-caucasus-insurgency-the-russian-military-kill-8-militants-including-two-regional-commanders-in-dagestan-and-kabardino-balkaria.md)
-_Context: Russia, Insurgency in the North Caucasus, Dagestan, Kabardino-Balkaria_
+_Context: Dagestan, Kabardino-Balkaria, Insurgency in the North Caucasus, Russia_
 
 ##### Musical
 ### [The musical "Chicago" is to close after a run of 15 years on London's West End, the longest run for a revival in British theatre. ](/news/2012/07/14/the-musical-chicago-is-to-close-after-a-run-of-15-years-on-london-s-west-end-the-longest-run-for-a-revival-in-british-theatre.md)

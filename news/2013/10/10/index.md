@@ -5,7 +5,7 @@ Formats: [HTML](2013/10/10/index.html)  [JSON](2013/10/10/index.json)  [XML](201
 
 ##### Libyan Prime Minister
 ### [The Prime Minister of Libya Ali Zeidan is kidnapped from a hotel in Tripoli but later released. ](/news/2013/10/10/the-prime-minister-of-libya-ali-zeidan-is-kidnapped-from-a-hotel-in-tripoli-but-later-released.md)
-_Context: Ali Zeidan, Libyan Prime Minister, Tripoli_
+_Context: Tripoli, Libyan Prime Minister, Ali Zeidan_
 
 ##### Canadian writer
 ### [The Canadian writer Alice Munro is awarded the 2013 Nobel Prize in Literature. ](/news/2013/10/10/the-canadian-writer-alice-munro-is-awarded-the-2013-nobel-prize-in-literature.md)
@@ -13,11 +13,11 @@ _Context: Canadian writer, Nobel Prize in Literature, Alice Munro, Nobel Prize i
 
 ##### North Island
 ### [Official alternative names are announced for the North Island and South Island of New Zealand with Te Ika-a-Maui and Te Waipounamu as the respective Maori language names. ](/news/2013/10/10/official-alternative-names-are-announced-for-the-north-island-and-south-island-of-new-zealand-with-te-ika-a-maui-and-te-waipounamu-as-the-re.md)
-_Context: Maori language, South Island, Te Ika-a-Maui, New Zealand,  Te Waipounamu, North Island_
+_Context: North Island, South Island, Maori language,  Te Waipounamu, New Zealand, Te Ika-a-Maui_
 
 ##### BBC
 ### [The BBC announce the discovery of nine missing episodes of "Doctor Who" starring Patrick Troughton, located in Nigeria, including the remainder of the partially-missing serial "The Enemy of the World" and 4 of the 5 missing episodes of "The Web of Fear". ](/news/2013/10/10/the-bbc-announce-the-discovery-of-nine-missing-episodes-of-doctor-who-starring-patrick-troughton-located-in-nigeria-including-the-remain.md)
-_Context: Doctor Who, missing episodes, BBC, Patrick Troughton, The Web of Fear, The Enemy of the World_
+_Context: missing episodes, The Enemy of the World, Patrick Troughton, BBC, Doctor Who, The Web of Fear_
 
 ##### French-born
 ### [French air traffic controllers begin strike action with the south of France expected to be worst affected. ](/news/2013/10/10/french-air-traffic-controllers-begin-strike-action-with-the-south-of-france-expected-to-be-worst-affected.md)
@@ -29,7 +29,7 @@ _Context: Activision Blizzard, Delaware Supreme Court, Vivendi_
 
 ##### Mayor of Detroit
 ### [Former Mayor of Detroit Kwame Kilpatrick is sentenced to 28 years in prison for racketeering, conspiracy, fraud, and tax crimes. ](/news/2013/10/10/former-mayor-of-detroit-kwame-kilpatrick-is-sentenced-to-28-years-in-prison-for-racketeering-conspiracy-fraud-and-tax-crimes.md)
-_Context: Kwame Kilpatrick, fraud, Mayor of Detroit, racketeering, conspiracy_
+_Context: Kwame Kilpatrick, conspiracy, fraud, racketeering, Mayor of Detroit_
 
 ##### Justice Ministry of Iraq
 ### [The Justice Ministry of Iraq announces it has executed 42 terrorism convicts in two days amidst condemnation from human rights groups. ](/news/2013/10/10/the-justice-ministry-of-iraq-announces-it-has-executed-42-terrorism-convicts-in-two-days-amidst-condemnation-from-human-rights-groups.md)

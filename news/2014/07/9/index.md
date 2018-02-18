@@ -13,11 +13,11 @@ Israel vows to ramp up warplane strikes against Hamas militants, as the death to
 
 ##### Iraqi insurgency (post-U.S. withdrawal)
 ### [Iraqi security forces find the bodies of 53 men shot recently in Hamza south of Baghdad. ](/news/2014/07/9/iraqi-security-forces-find-the-bodies-of-53-men-shot-recently-in-hamza-south-of-baghdad.md)
-_Context: Baghdad, Iraqi insurgency (post-U.S. withdrawal), Iraq_
+_Context: Iraqi insurgency (post-U.S. withdrawal), Iraq, Baghdad_
 
 ##### War in Somalia (2009-present)
 ### [Somalia's police and intelligence chiefs were sacked after Al-Shabaab's attack on the Presidential palace yesterday. ](/news/2014/07/9/somalia-s-police-and-intelligence-chiefs-were-sacked-after-al-shabaab-s-attack-on-the-presidential-palace-yesterday.md)
-_Context: Al-Shabaab, President, War in Somalia (2009-present), Somalia_
+_Context: Al-Shabaab, War in Somalia (2009-present), Somalia, President_
 
 ##### Central bank
 ### [Minutes from the last meeting of the U.S. central bank, the Federal Reserve, indicate that it will end its program of bond purchases, also known as quantitative easing, this October. ](/news/2014/07/9/minutes-from-the-last-meeting-of-the-u-s-central-bank-the-federal-reserve-indicate-that-it-will-end-its-program-of-bond-purchases-also-k.md)
@@ -25,11 +25,11 @@ Stocks finished higher on Wednesday, rebounding from a sharp two-day selloff, af
 
 ##### 2014 Pacific typhoon season
 ### [Typhoon Neoguri leaves two dead on Okinawa as it departs for Japan's main islands threatening heavy rain. ](/news/2014/07/9/typhoon-neoguri-leaves-two-dead-on-okinawa-as-it-departs-for-japan-s-main-islands-threatening-heavy-rain.md)
-_Context: Okinawa, Japan, 2014 Pacific typhoon season, Typhoon Neoguri_
+_Context: Typhoon Neoguri, Okinawa, 2014 Pacific typhoon season, Japan_
 
 ##### South Korea
 ### [South Korea claims that North Korea has fired two short range missiles into the ocean to the east of the Korean Peninsula. ](/news/2014/07/9/south-korea-claims-that-north-korea-has-fired-two-short-range-missiles-into-the-ocean-to-the-east-of-the-korean-peninsula.md)
-_Context: South Korea, North Korea, Korean Peninsula_
+_Context: Korean Peninsula, South Korea, North Korea_
 
 ##### Mayor
 ### [Former Mayor of the American city of New Orleans, Louisiana Ray Nagin (D) is sentenced to ten years in prison for corruption, money laundering and other related offences. ](/news/2014/07/9/former-mayor-of-the-american-city-of-new-orleans-louisiana-ray-nagin-d-is-sentenced-to-ten-years-in-prison-for-corruption-money-launderi.md)

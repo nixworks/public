@@ -13,15 +13,15 @@ Gordon Brown, the prime minister broke his silence on the release of the Lockerb
 
 ##### Malaysia
 ### [ The Malaysian opposition party PAS defeats the government party UMNO in the by-election at Permatang Pasir, Penang. ](/news/2009/08/25/the-malaysian-opposition-party-pas-defeats-the-government-party-umno-in-the-by-election-at-permatang-pasir-penang.md)
-_Context: Barisan Nasional, Malaysia, opposition, United Malays National Organisation, Penang, PAS, Permatang Pasir_
+_Context: United Malays National Organisation, Malaysia, Permatang Pasir, Barisan Nasional, opposition, Penang, PAS_
 
 ##### Mesker-Yurt
 ### [ A suicide bombing in Mesker-Yurt, Chechnya, kills three police officers. ](/news/2009/08/25/a-suicide-bombing-in-mesker-yurt-chechnya-kills-three-police-officers.md)
-_Context: Mesker-Yurt, Chechnya_
+_Context: Chechnya, Mesker-Yurt_
 
 ##### Madagascar
 ### [ Madagascar's political rivals meet for a second round of talks in Maputo, Mozambique. ](/news/2009/08/25/madagascar-s-political-rivals-meet-for-a-second-round-of-talks-in-maputo-mozambique.md)
-_Context: Mozambique, Maputo, Madagascar_
+_Context: Maputo, Madagascar, Mozambique_
 
 ##### South Korea
 ### [ South Korea launches its first space rocket, "Naro-1", but fails to put the STSAT-2A satellite into the planned orbit. ](/news/2009/08/25/south-korea-launches-its-first-space-rocket-naro-1-but-fails-to-put-the-stsat-2a-satellite-into-the-planned-orbit.md)
@@ -29,15 +29,15 @@ GOHEUNG, South Jeolla Province _ South Korea bumbled its way into the Asian spac
 
 ##### Barack Obama
 ### [ U.S. President Barack Obama nominates Ben Bernanke for his second term as chairman of the Federal Reserve. ](/news/2009/08/25/u-s-president-barack-obama-nominates-ben-bernanke-for-his-second-term-as-chairman-of-the-federal-reserve.md)
-_Context: Federal Reserve, Barack Obama, Chairman of the Federal Reserve, Ben Bernanke_
+_Context: Chairman of the Federal Reserve, Federal Reserve, Ben Bernanke, Barack Obama_
 
 ##### Afghan
 ### [ A bomb in Afghanistan kills four American soldiers, making 2009 the deadliest year for foreign troops since the 2001 invasion. ](/news/2009/08/25/a-bomb-in-afghanistan-kills-four-american-soldiers-making-2009-the-deadliest-year-for-foreign-troops-since-the-2001-invasion.md)
-_Context: USA, Afghan, War in Afghanistan (2001-present)_
+_Context: Afghan, War in Afghanistan (2001-present), USA_
 
 ##### Shanxi province
 ### [ A gas explosion at a coal mine in Shanxi, China, kills at least 14 people. ](/news/2009/08/25/a-gas-explosion-at-a-coal-mine-in-shanxi-china-kills-at-least-14-people.md)
-_Context: Chinese, Shanxi province_
+_Context: Shanxi province, Chinese_
 
 #####  debt
 ### [ The United States budget deficit for 2009 will reach $1.6 trillion, the highest ever recorded. ](/news/2009/08/25/the-united-states-budget-deficit-for-2009-will-reach-1-6-trillion-the-highest-ever-recorded.md)
@@ -53,7 +53,7 @@ A car bomb has ripped through a restaurant packed with government officials, inj
 
 ##### Venezuela
 ### [ Venezuelan President Hugo Chavez announces plans to break off diplomatic relations with Colombia over the neighboring country's plan to allow U.S. troops access to its military bases. ](/news/2009/08/25/venezuelan-president-hugo-chavez-announces-plans-to-break-off-diplomatic-relations-with-colombia-over-the-neighboring-country-s-plan-to-all.md)
-_Context: Venezuela, Colombia, U.S., Hugo Chavez_
+_Context: Hugo Chavez, U.S., Colombia, Venezuela_
 
 ## [Previous Day...](/news/2009/08/24/index.md)
 

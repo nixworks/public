@@ -17,7 +17,7 @@ Fans and members of Bruce Springsteen&#039;s E-Street Band were left angered aft
 
 ##### Saudi Arabia
 ### [Saudi Arabia and the United Arab Emirates open new pipelines bypassing the Strait of Hormuz, the shipping lane that Iran has repeatedly threatened to close. ](/news/2012/07/15/saudi-arabia-and-the-united-arab-emirates-open-new-pipelines-bypassing-the-strait-of-hormuz-the-shipping-lane-that-iran-has-repeatedly-thre.md)
-_Context: United Arab Emirates, Saudi Arabia, Strait of Hormuz_
+_Context: Saudi Arabia, United Arab Emirates, Strait of Hormuz_
 
 ##### Nepal
 ### [A bus crash kills at least 39 pilgrims in the southern Nepali town of Parasi. ](/news/2012/07/15/a-bus-crash-kills-at-least-39-pilgrims-in-the-southern-nepali-town-of-parasi.md)
@@ -25,7 +25,7 @@ At least 39 people die as a bus transporting Hindu pilgrims from India swerves o
 
 ##### Hand, foot and mouth disease
 ### [Hand, foot and mouth disease kills 149 people in Hunan, China. ](/news/2012/07/15/hand-foot-and-mouth-disease-kills-149-people-in-hunan-china.md)
-_Context: Chinese, Hunan, Hand, foot and mouth disease_
+_Context: Chinese, Hand, foot and mouth disease, Hunan_
 
 ##### Tornado
 ### [One person is killed and ten are injured by a tornado in north west Poland ](/news/2012/07/15/one-person-is-killed-and-ten-are-injured-by-a-tornado-in-north-west-poland.md)
@@ -57,7 +57,7 @@ Jason Kidd was reportedly arrested early Sunday morning for alleged drunken driv
 
 ##### Israelis
 ### [Hundreds of Israeli protesters gather in Tel Aviv, Jerusalem, Haifa and Beersheba to show their solidarity with the man who self immolated on 14 July 2012. ](/news/2012/07/15/hundreds-of-israeli-protesters-gather-in-tel-aviv-jerusalem-haifa-and-beersheba-to-show-their-solidarity-with-the-man-who-self-immolated-o.md)
-_Context: Haifa, Beersheba, Tel Aviv, Israelis, Jerusalem_
+_Context: Haifa, Israelis, Jerusalem, Tel Aviv, Beersheba_
 
 ##### Soyuz rocket
 ### [A Russian Soyuz rocket begins its mission to the International Space Station with three international crew members. ](/news/2012/07/15/a-russian-soyuz-rocket-begins-its-mission-to-the-international-space-station-with-three-international-crew-members.md)

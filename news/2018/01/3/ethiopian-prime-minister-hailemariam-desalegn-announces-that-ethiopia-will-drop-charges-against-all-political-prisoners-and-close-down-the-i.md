@@ -22,7 +22,7 @@ Formats: [HTML](/news/2018/01/3/ethiopian-prime-minister-hailemariam-desalegn-an
 
 ### Related:
 
-1. [Ethiopia declares a national state of emergency one day after the unexpected resignation of Prime Minister Hailemariam Desalegn. ](/news/2018/02/16/ethiopia-declares-a-national-state-of-emergency-one-day-after-the-unexpected-resignation-of-prime-minister-hailemariam-desalegn.md) _Context: Ethiopia, Hailemariam Desalegn, Prime Minister_
+1. [Ethiopia declares a national state of emergency one day after the unexpected resignation of Prime Minister Hailemariam Desalegn. ](/news/2018/02/16/ethiopia-declares-a-national-state-of-emergency-one-day-after-the-unexpected-resignation-of-prime-minister-hailemariam-desalegn.md) _Context: Ethiopia, Hailemariam Desalegn, Politics of Ethiopia, Prime Minister_
 2. [Hailemariam Desalegn resigns as Prime Minister of Ethiopia after six years in office amid ongoing unrest in the Oromia and Amhara regions. ](/news/2018/02/15/hailemariam-desalegn-resigns-as-prime-minister-of-ethiopia-after-six-years-in-office-amid-ongoing-unrest-in-the-oromia-and-amhara-regions.md) _Context: Hailemariam Desalegn, Politics of Ethiopia, Prime Minister_
 3. [Meles Zenawi, the long-term Prime Minister of Ethiopia, dies of a mystery illness after not having been seen in public for weeks. ](/news/2012/08/20/meles-zenawi-the-long-term-prime-minister-of-ethiopia-dies-of-a-mystery-illness-after-not-having-been-seen-in-public-for-weeks.md) _Context: Ethiopia, Prime Minister_
 4. [ Ethiopia arrests 35 people in connection with Berhanu Nega's plan to overthrow the government. ](/news/2009/04/25/ethiopia-arrests-35-people-in-connection-with-berhanu-nega-s-plan-to-overthrow-the-government.md) _Context: Ethiopia, Politics of Ethiopia_

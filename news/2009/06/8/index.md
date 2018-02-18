@@ -5,15 +5,15 @@ Formats: [HTML](2009/06/8/index.html)  [JSON](2009/06/8/index.json)  [XML](2009/
 
 ##### Nile Delta
 ### [ At least 18 factory workers are killed when their bus collides with a truck in the Nile Delta, Egypt. ](/news/2009/06/8/at-least-18-factory-workers-are-killed-when-their-bus-collides-with-a-truck-in-the-nile-delta-egypt.md)
-_Context: Nile Delta, Egypt_
+_Context: Egypt, Nile Delta_
 
 ##### Lloyds Banking Group
 ### [ Lloyds Banking Group repay GBP2.56 billion to Her Majesty's Government to compensate for partial nationalisation on 19 January 2009. ](/news/2009/06/8/lloyds-banking-group-repay-agbp2-56-billion-to-her-majesty-s-government-to-compensate-for-partial-nationalisation-on-19-january-2009.md)
-_Context: His Majesty's Government, Lloyds Banking Group, 19 January 2009, nationalisation, GBP_
+_Context: Lloyds Banking Group, GBP, His Majesty's Government, nationalisation, 19 January 2009_
 
 ##### Supreme Court of the United States
 ### [ The Supreme Court of the United States stays the sale of Chrysler to Fiat in "Indiana State Police Pension Trust v. Chrysler". ](/news/2009/06/8/the-supreme-court-of-the-united-states-stays-the-sale-of-chrysler-to-fiat-in-indiana-state-police-pension-trust-v-chrysler.md)
-_Context: Indiana State Police Pension Trust v. Chrysler, Chrysler, stays, Fiat, Supreme Court of the United States_
+_Context: Chrysler, Supreme Court of the United States, Indiana State Police Pension Trust v. Chrysler, stays, Fiat_
 
 ##### Real Irish Republican Army
 ### [ Four men, including Real Irish Republican Army members Michael McKevitt and Colm Murphy, are declared responsible for the bombing of Omagh, County Tyrone, Northern Ireland, in 1998. ](/news/2009/06/8/four-men-including-real-irish-republican-army-members-michael-mckevitt-and-colm-murphy-are-declared-responsible-for-the-bombing-of-omagh.md)
@@ -21,7 +21,7 @@ Four of the five men being sued by the families of the Omagh bomb victims have b
 
 ##### Department for Environment
 ### [ The Minister of State for Farming and the Environment, Jane Kennedy, announces her resignation from the Government of the United Kingdom. ](/news/2009/06/8/the-minister-of-state-for-farming-and-the-environment-jane-kennedy-announces-her-resignation-from-the-government-of-the-united-kingdom.md)
-_Context: Department for Environment, Jane Kennedy, 10 Downing Street_
+_Context: Jane Kennedy, 10 Downing Street, Department for Environment_
 
 ##### Pope
 ### [ Pope Benedict XVI is reportedly "visibly upset" after hearing the findings of Ireland's Commission to Inquire into Child Abuse. ](/news/2009/06/8/pope-benedict-xvi-is-reportedly-visibly-upset-after-hearing-the-findings-of-ireland-s-commission-to-inquire-into-child-abuse.md)
@@ -29,7 +29,7 @@ Pope Benedict was visibly upset by accounts of the Child Abuse Commission&#39;s 
 
 ##### Gabon
 ### [ Gabonese President Omar Bongo dies of a heart attack at age 73. ](/news/2009/06/8/gabonese-president-omar-bongo-dies-of-a-heart-attack-at-age-73.md)
-_Context: Omar Bongo, heart attack, President, Gabon_
+_Context: President, Omar Bongo, Gabon, heart attack_
 
 ##### United States
 ### [ Two American journalists are found guilty of illegally entering North Korea and sentenced to 12 years of penal labour. ](/news/2009/06/8/two-american-journalists-are-found-guilty-of-illegally-entering-north-korea-and-sentenced-to-12-years-of-penal-labour.md)
@@ -41,7 +41,7 @@ _Context: North Korea, North Korea's nuclear program, Wonsan, Sea of Japan_
 
 ##### Mayor
 ### [ Mayor Ray Nagin of New Orleans, Louisiana, is quarantined in Shanghai, China, after a passenger on his flight from the United States was diagnosed with A(H1N1) influenza. ](/news/2009/06/8/mayor-ray-nagin-of-new-orleans-louisiana-is-quarantined-in-shanghai-china-after-a-passenger-on-his-flight-from-the-united-states-was-di.md)
-_Context: quarantine, Ray Nagin, New Orleans, Shanghai, United States, Louisiana, China, Mayor, H1N1, swine flu_
+_Context: New Orleans, Louisiana, quarantine, H1N1, China, Mayor, swine flu, Shanghai, United States, Ray Nagin_
 
 ##### Centre-right
 ### [ The centre-right European People's Party increases its plurality. ](/news/2009/06/8/the-centre-right-european-people-s-party-increases-its-plurality.md)
@@ -49,15 +49,15 @@ _Context: European People's Party, centre-right, plurality_
 
 ##### Referendum
 ### [ In a referendum held alongside European Parliament elections, voters in Denmark agreed to change their Acts of Succession to eliminate male preference in their line of succession. ](/news/2009/06/8/in-a-referendum-held-alongside-european-parliament-elections-voters-in-denmark-agreed-to-change-their-acts-of-succession-to-eliminate-male.md)
-_Context: Denmark, referendum, line of succession, male preference, Acts of Succession_
+_Context: male preference, Denmark, referendum, line of succession, Acts of Succession_
 
 ##### Legislative election
 ### [ In a legislative election held alongside European Parliament elections, the Christian Social People's Party increase their plurality in Luxembourg's Chamber of Deputies. ](/news/2009/06/8/in-a-legislative-election-held-alongside-european-parliament-elections-the-christian-social-people-s-party-increase-their-plurality-in-lux.md)
-_Context: Luxembourg, legislative election, Chamber of Deputies, Christian Social People's Party, plurality_
+_Context: Luxembourg, legislative election, Christian Social People's Party, Chamber of Deputies, plurality_
 
 ##### Acid attack
 ### [ The third acid attack since December 2008 occurs in Mong Kok, Hong Kong. ](/news/2009/06/8/the-third-acid-attack-since-december-2008-occurs-in-mong-kok-hong-kong.md)
-_Context: Hong Kong, December 2008, acid attack, Mong Kok_
+_Context: Mong Kok, Hong Kong, December 2008, acid attack_
 
 ##### Apple Inc.
 ### [ Apple Inc. debuts the third generation of its iPhone line, iPhone 3GS at Worldwide Developers Conference 2009. ](/news/2009/06/8/apple-inc-debuts-the-third-generation-of-its-iphone-line-iphone-3gs-at-worldwide-developers-conference-2009.md)

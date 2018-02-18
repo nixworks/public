@@ -37,7 +37,7 @@ _Context: Delicious, Yahoo!_
 
 ##### Hangzhou
 ### [Six people were killed and a dozen injured when two buses collided in Hangzhou City, east China's Zhejiang Province, China. ](/news/2010/12/16/six-people-were-killed-and-a-dozen-injured-when-two-buses-collided-in-hangzhou-city-east-china-s-zhejiang-province-china.md)
-_Context: Zhejiang, Hangzhou_
+_Context: Hangzhou, Zhejiang_
 
 ##### Christmas Island
 ### [The death toll from the Christmas Island boat wreck rises to 28 as the search for survivors continues. ](/news/2010/12/16/the-death-toll-from-the-christmas-island-boat-wreck-rises-to-28-as-the-search-for-survivors-continues.md)
@@ -53,11 +53,11 @@ New Brunswick is promising financial help for people whose homes and businesses 
 
 ##### Lake-effect snow
 ### [One person is killed by Lake effect snowsqualls from Lake Huron on Highway 402 in Southwestern Ontario as the Canadian military rescues people trapped under snowdrifts for over a day. ](/news/2010/12/16/one-person-is-killed-by-lake-effect-snowsqualls-from-lake-huron-on-highway-402-in-southwestern-ontario-as-the-canadian-military-rescues-peop.md)
-_Context: snowsquall, Canadian military, snowdrift, Southwestern Ontario, Lake-effect snow, Highway 402, Lake Huron_
+_Context: Highway 402, Canadian military, Lake-effect snow, Lake Huron, snowsquall, snowdrift, Southwestern Ontario_
 
 ##### Governor
 ### [Governor of the U.S. state of New Mexico Bill Richardson arrives in Pyongyang for talks with North Korean officials concerning the situation on the Korean peninsula. ](/news/2010/12/16/governor-of-the-u-s-state-of-new-mexico-bill-richardson-arrives-in-pyongyang-for-talks-with-north-korean-officials-concerning-the-situation.md)
-_Context: North Korea, Pyongyang, New Mexico, Korean peninsula, Bill Richardson, Governor_
+_Context: New Mexico, Pyongyang, North Korea, Governor, Bill Richardson, Korean peninsula_
 
 ##### WikiLeaks
 ### [WikiLeaks founder Julian Assange appears in the British High Court of Justice to successfully apply for bail on sexual assault charges. ](/news/2010/12/16/wikileaks-founder-julian-assange-appears-in-the-british-high-court-of-justice-to-successfully-apply-for-bail-on-sexual-assault-charges.md)
@@ -85,7 +85,7 @@ Troops and police loyal to Ivory Coast leader Laurent Gbagbo have sealed off sta
 
 ##### European Court of Human Rights
 ### [The European Court of Human Rights rules that Ireland's ban on abortion in life-threatening cases is illegal. ](/news/2010/12/16/the-european-court-of-human-rights-rules-that-ireland-s-ban-on-abortion-in-life-threatening-cases-is-illegal.md)
-_Context: Irish, abortion, European Court of Human Rights_
+_Context: European Court of Human Rights, abortion, Irish_
 
 ##### Scottish Government
 ### [The Scottish Government rules out re-introducing tuition fees for Scottish university students, but students from other parts of the United Kingdom attending university in Scotland may face fees of GBP6,000. ](/news/2010/12/16/the-scottish-government-rules-out-re-introducing-tuition-fees-for-scottish-university-students-but-students-from-other-parts-of-the-united.md)
@@ -93,7 +93,7 @@ Students from England, Wales and Northern Ireland who go to Scottish universitie
 
 ##### Government of Northern Ireland
 ### [The Government of Northern Ireland announces an inquiry into child abuse inside institutions. ](/news/2010/12/16/the-government-of-northern-ireland-announces-an-inquiry-into-child-abuse-inside-institutions.md)
-_Context: Government of Northern Ireland, child abuse_
+_Context: child abuse, Government of Northern Ireland_
 
 ##### Mdog
 ### [The Galongla Tunnel, built at an altitude of 3,750 meters, is completed; it links Tibet's Mdog county to the outside world. ](/news/2010/12/16/the-galongla-tunnel-built-at-an-altitude-of-3-750-meters-is-completed-it-links-tibet-s-medog-county-to-the-outside-world.md)

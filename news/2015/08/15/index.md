@@ -5,7 +5,7 @@ Formats: [HTML](2015/08/15/index.html)  [JSON](2015/08/15/index.json)  [XML](201
 
 ##### Iraq War (2014-present)
 ### [ISIL bombings kill 21 and wound more than 100 others in Shia neighborhoods of Baghdad. ](/news/2015/08/15/isil-bombings-kill-21-and-wound-more-than-100-others-in-shia-neighborhoods-of-baghdad.md)
-_Context: Baghdad, Iraq War (2014-present), ISIL, Shia_
+_Context: Baghdad, Shia, Iraq War (2014-present), ISIL_
 
 ##### Yemeni Civil War (2015)
 ### [Saudi-backed forces loyal to the former Government retake the Shabwah Governorate from the Iran-backed rebels. ](/news/2015/08/15/saudi-backed-forces-loyal-to-the-former-government-retake-the-shabwah-governorate-from-the-iran-backed-rebels.md)

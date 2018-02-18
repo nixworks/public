@@ -9,7 +9,7 @@ _Context: Gaza Strip, Israel, Israeli Air Force_
 
 ##### Afghan
 ### [A cross border attack by the Afghan Taliban kills three Pakistan Army soldiers in Bajaur Agency of the Federally Administered Tribal Areas. ](/news/2014/07/12/a-cross-border-attack-by-the-afghan-taliban-kills-three-pakistan-army-soldiers-in-bajaur-agency-of-the-federally-administered-tribal-areas.md)
-_Context: Pakistan Army, Bajaur, Federally Administered Tribal Areas, Afghan, Taliban_
+_Context: Bajaur, Taliban, Federally Administered Tribal Areas, Pakistan Army, Afghan_
 
 ##### Baghdad
 ### [Gunmen kill 29 people in an apartment building in East Baghdad, including twenty women. ](/news/2014/07/12/gunmen-kill-29-people-in-an-apartment-building-in-east-baghdad-including-twenty-women.md)
@@ -21,7 +21,7 @@ _Context: Istanbul, Turkey_
 
 ##### European Union
 ### [The European Union imposes sanctions on Aleksandr Borodai and ten other pro-Russian leaders including travel bans and asset freezes. ](/news/2014/07/12/the-european-union-imposes-sanctions-on-aleksandr-borodai-and-ten-other-pro-russian-leaders-including-travel-bans-and-asset-freezes.md)
-_Context: European Union, Aleksandr Borodai_
+_Context: Aleksandr Borodai, European Union_
 
 ##### Abdullah Abdullah
 ### [The disputed Afghan presidential election is to be recounted in full following an agreement between the two leading candidates Abdullah Abdullah and Ashraf Ghani. ](/news/2014/07/12/the-disputed-afghan-presidential-election-is-to-be-recounted-in-full-following-an-agreement-between-the-two-leading-candidates-abdullah-abdu.md)

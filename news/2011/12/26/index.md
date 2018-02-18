@@ -9,7 +9,7 @@ More Arab League observers are set to arrive in Syria as human rights activists 
 
 ##### Brazil
 ### [Brazil surpasses the United Kingdom to become the world's sixth-largest economy. ](/news/2011/12/26/brazil-surpasses-the-united-kingdom-to-become-the-world-s-sixth-largest-economy.md)
-_Context: United Kingdom, Brazil, sixth-largest economy_
+_Context: United Kingdom, sixth-largest economy, Brazil_
 
 ##### Scandinavians
 ### [Tens of thousands of people are left without power after one of the biggest storms for 30 years hits Scandinavia. ](/news/2011/12/26/tens-of-thousands-of-people-are-left-without-power-after-one-of-the-biggest-storms-for-30-years-hits-scandinavia.md)
@@ -17,7 +17,7 @@ _Context: Scandinavians_
 
 ##### Florence Hartmann
 ### [France refuses to extradite journalist and former court spokeswoman Florence Hartmann, indicted by the International Criminal Tribunal for the former Yugoslavia (ICTY) for contempt of court. ](/news/2011/12/26/france-refuses-to-extradite-journalist-and-former-court-spokeswoman-florence-hartmann-indicted-by-the-international-criminal-tribunal-for-t.md)
-_Context: contempt of court, International Criminal Tribunal for the former Yugoslavia, Florence Hartmann_
+_Context: International Criminal Tribunal for the former Yugoslavia, Florence Hartmann, contempt of court_
 
 ##### Chinese
 ### [The government of China sentences activist Chen Xi to ten years imprisonment for "inciting subversion". ](/news/2011/12/26/the-government-of-china-sentences-activist-chen-xi-to-ten-years-imprisonment-for-inciting-subversion.md)

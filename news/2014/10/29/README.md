@@ -17,7 +17,7 @@ _Context: Nidaa Tounes, Tunisian parliamentary election, 2014, Tunisia_
 
 ##### Guy Scott
 ### [Guy Scott, the Vice-President of Zambia, becomes the interim President following the death of Michael Sata in London on Tuesday. ](/news/2014/10/29/guy-scott-the-vice-president-of-zambia-becomes-the-interim-president-following-the-death-of-michael-sata-in-london-on-tuesday.md)
-_Context: Michael Sata, Vice-President of Zambia, Guy Scott, President_
+_Context: Vice-President of Zambia, President, Guy Scott, Michael Sata_
 
 ## [Previous Day...](/news/2014/10/28/index.md)
 

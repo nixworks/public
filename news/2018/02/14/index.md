@@ -3,6 +3,10 @@ Formats: [HTML](2018/02/14/index.html)  [JSON](2018/02/14/index.json)  [XML](201
 
 ## [2018-02-14](/news/2018/02/14/index.md)
 
+##### Syrian Civil War
+### [Russian aircraft carry out airstrikes in in Ma'arrat Hurma village in Syria's northwestern Idlib province, killing seven civilians and injuring 10 others, mostly women and children. ](/news/2018/02/14/russian-aircraft-carry-out-airstrikes-in-in-ma-arrat-hurma-village-in-syria-s-northwestern-idlib-province-killing-seven-civilians-and-injur.md)
+There are concerns that the number of deaths could rise as the condition of some wounded civilians were critical
+
 ##### Economy of the European Union
 ### [Eurozone GDP rises by 2.5% in 2017, a pace not seen since 2007, and industrial production is up 5.2% year-on-year. The production of durable consumer goods is up 7.4% and capital goods, indicating investments, are up 7.6%. ](/news/2018/02/14/eurozone-gdp-rises-by-2-5-in-2017-a-pace-not-seen-since-2007-and-industrial-production-is-up-5-2-year-on-year-the-production-of-durable.md)
 BRUSSELS: Eurozone industrial production jumped more than expected in December, data from the EU statistics office Eurostat showed on Wednesday, underlining the fastest economic growth rate in a decade that economists expect to continue in 2018. Eurostat said industrial production in the 19 countrie...
@@ -13,7 +17,7 @@ NSA said situation is &quot;under control&quot;
 
 ##### Stoneman Douglas High School shooting
 ### [At least 17 people are killed and 15 are wounded in a shooting at a high school in Parkland, Florida. This is the deadliest high school shooting in U.S. history. The suspected shooter is apprehended and identified as 19-year-old former student Nikolas Cruz. ](/news/2018/02/14/at-least-17-people-are-killed-and-15-are-wounded-in-a-shooting-at-a-high-school-in-parkland-florida-this-is-the-deadliest-high-school-shoo.md)
-_Context: deadliest high school shooting in U.S. history, Stoneman Douglas High School shooting, Florida, School shootings in the United States, school shooting, Parkland, high school_
+_Context: deadliest high school shooting in U.S. history, Stoneman Douglas High School shooting, high school, school shooting, Florida, Parkland, School shootings in the United States_
 
 ##### Crime in South Africa
 ### [The residence of the Gupta family is raided by the South African Police Service's elite Hawks unit and three people are arrested. ](/news/2018/02/14/the-residence-of-the-gupta-family-is-raided-by-the-south-african-police-service-s-elite-hawks-unit-and-three-people-are-arrested.md)
@@ -37,7 +41,7 @@ French police have found the remains of an eight-year-old French girl who vanish
 
 ##### Ukrainian crisis
 ### [Mikheil Saakashvili, leader of the opposition Movement of New Forces party, who was deported from Ukraine to Poland, relocates to the Netherlands. ](/news/2018/02/14/mikheil-saakashvili-leader-of-the-opposition-movement-of-new-forces-party-who-was-deported-from-ukraine-to-poland-relocates-to-the-nether.md)
-_Context: Ukraine, Netherlands, Ukrainian crisis, Mikheil Saakashvili, Poland, Movement of New Forces_
+_Context: Mikheil Saakashvili, Poland, Ukraine, Netherlands, Movement of New Forces, Ukrainian crisis_
 
 ##### Politics of South Africa
 ### [Jacob Zuma resigns as President of South Africa effective immediately, following an ultimatum issued the day prior by African National Congress that ordered Zuma to step down as head of state or face a vote of no confidence by the South African Parliament to remove him from power within 48 hours of the declaration. Cyril Ramaphosa takes over as Acting President. ](/news/2018/02/14/jacob-zuma-resigns-as-president-of-south-africa-effective-immediately-following-an-ultimatum-issued-the-day-prior-by-african-national-congr.md)

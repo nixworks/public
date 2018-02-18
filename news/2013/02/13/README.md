@@ -5,7 +5,7 @@ Formats: [HTML](2013/02/13/index.html)  [JSON](2013/02/13/index.json)  [XML](201
 
 ##### Syrian opposition
 ### [Rebels clash with the Syrian military at an army base protecting Aleppo's international airport. The opposition claims that 40 Syrian soldiers were killed in the fighting, as large parts of the base are overrun. ](/news/2013/02/13/rebels-clash-with-the-syrian-military-at-an-army-base-protecting-aleppo-s-international-airport-the-opposition-claims-that-40-syrian-soldie.md)
-_Context: Syrian Armed Forces, Aleppo International Airport, Aleppo, Syrian opposition_
+_Context: Syrian opposition, Syrian Armed Forces, Aleppo International Airport, Aleppo_
 
 ##### Muslim
 ### [16 Muslim insurgents are killed during an attack on a military base in the Thai province of Narathiwat. ](/news/2013/02/13/16-muslim-insurgents-are-killed-during-an-attack-on-a-military-base-in-the-thai-province-of-narathiwat.md)
@@ -21,15 +21,15 @@ Iran said Wednesday that it has begun installing a new generation of centrifuges
 
 ##### Apple Inc.
 ### [Apple Inc. is denied their request to sell their phones under the name "iPhone" in Brazil after regulators voted in favor of IGB Electronica who won the rights to use the name in 2008. ](/news/2013/02/13/apple-inc-is-denied-their-request-to-sell-their-phones-under-the-name-iphone-in-brazil-after-regulators-voted-in-favor-of-igb-electronica.md)
-_Context: Brazil, Apple Inc., IGB Electronica, iPhone_
+_Context: Brazil, IGB Electronica, Apple Inc., iPhone_
 
 ##### Antonov An-24
 ### [South Airlines Flight 8971: An Antonov An-24 aircraft carrying 44 passengers and 8 crew members crash lands near the Eastern Ukrainian city of Donetsk, killing 4 people on board and injuring 8 others. ](/news/2013/02/13/south-airlines-flight-8971-an-antonov-an-24-aircraft-carrying-44-passengers-and-8-crew-members-crash-lands-near-the-eastern-ukrainian-city.md)
-_Context: Antonov An-24, Eastern Ukraine, Ukraine, Donetsk, crash lands_
+_Context: crash lands, Antonov An-24, Ukraine, Eastern Ukraine, Donetsk_
 
 ##### Tibetan Buddhist
 ### [A Tibetan monk sets himself on fire near Boudhanath in Nepal in protest of the Chinese occupation of Tibet. ](/news/2013/02/13/a-tibetan-monk-sets-himself-on-fire-near-boudhanath-in-nepal-in-protest-of-the-chinese-occupation-of-tibet.md)
-_Context: Tibetan Buddhist, Chinese, Nepal, sets himself, Boudhanath, sets herself alight, Tibet, protest_
+_Context: protest, Chinese, Tibet, Tibetan Buddhist, Nepal, Boudhanath, sets himself, sets herself alight_
 
 ##### European Union
 ### [The European Union urges member states to conduct random tests to tackle an ongoing horse meat contamination scandal. Simon Coveney, Ireland's Minister for Agriculture, Food and the Marine, says that the scandal is a "Europe-wide issue that needs a Europe-wide solution". ](/news/2013/02/13/the-european-union-urges-member-states-to-conduct-random-tests-to-tackle-an-ongoing-horse-meat-contamination-scandal-simon-coveney-ireland.md)
@@ -41,7 +41,7 @@ As it prepared to meet with the deputy director of the United Nations nuclear wa
 
 ##### President of the Maldives
 ### [Former President of the Maldives Mohamed Nasheed takes refuge in the Indian embassy in the city of Male, Maldives saying that his trial for political abuse and corruption is a "politically motivated sham". ](/news/2013/02/13/former-president-of-the-maldives-mohamed-nasheed-takes-refuge-in-the-indian-embassy-in-the-city-of-mala-c-maldives-saying-that-his-trial-for.md)
-_Context: Mohamed Nasheed, Maldives, India, President of the Maldives, Male_
+_Context: Maldives, Male, India, President of the Maldives, Mohamed Nasheed_
 
 ##### Barry Bonds
 ### [A lawyer representing Barry Bonds appeals his obstruction of justice charge to the United States Court of Appeals for the Ninth Circuit. ](/news/2013/02/13/a-lawyer-representing-barry-bonds-appeals-his-obstruction-of-justice-charge-to-the-united-states-court-of-appeals-for-the-ninth-circuit.md)
@@ -57,7 +57,7 @@ Israel confirms it imprisoned an Australian-Israeli man under a false identity f
 
 ##### U.S.
 ### [The U.S. administration's nominee to become next Treasury Secretary, Jack Lew, testifies before the financial committee of the United States Senate at the start of his confirmation hearing. ](/news/2013/02/13/the-u-s-administration-s-nominee-to-become-next-treasury-secretary-jack-lew-testifies-before-the-financial-committee-of-the-united-states.md)
-_Context: Treasury Secretary, United States Senate, U.S., Jack Lew_
+_Context: United States Senate, Jack Lew, U.S., Treasury Secretary_
 
 ## [Previous Day...](/news/2013/02/12/index.md)
 

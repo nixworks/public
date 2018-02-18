@@ -9,7 +9,7 @@ _Context: Amazon rainforest, Brazil_
 
 ##### Frank DeAngelis
 ### [Frank DeAngelis, the longtime Columbine High School principal who led the school through the April 1999 Columbine High School massacre announces he will retire at the end of the 2013-14 school year. ](/news/2013/08/13/frank-deangelis-the-longtime-columbine-high-school-principal-who-led-the-school-through-the-april-1999-columbine-high-school-massacre-annou.md)
-_Context: Columbine High School, Frank DeAngelis, Columbine_
+_Context: Frank DeAngelis, Columbine, Columbine High School_
 
 ##### Sinai insurgency
 ### [Sinai insurgency: Israel intercepts and destroys a Grad rocket fired by Mujahideen Shura Council al-Qaeda members from Egyptian territory at the Red Sea town of Eilat. ](/news/2013/08/13/sinai-insurgency-israel-intercepts-and-destroys-a-grad-rocket-fired-by-mujahideen-shura-council-al-qaeda-members-from-egyptian-territory-at.md)
@@ -21,7 +21,7 @@ _Context: Sandi Jackson, Jesse Jackson Jr., United States House of Representativ
 
 ##### Department of Justice
 ### [The United States Department of Justice and six states file an antitrust lawsuit to block the proposed merger of American Airlines and US Airways. ](/news/2013/08/13/the-united-states-department-of-justice-and-six-states-file-an-antitrust-lawsuit-to-block-the-proposed-merger-of-american-airlines-and-us-ai.md)
-_Context: American Airlines, Department of Justice, reduced competition and higher prices, US Airways_
+_Context: American Airlines, US Airways, Department of Justice, reduced competition and higher prices_
 
 ##### Peace talks
 ### [Israeli-Palestinian peace talks start amid controversy over Israeli settlement expansion and the release of 26 Palestinians convicted of murdering Israelis. ](/news/2013/08/13/israeliapalestinian-peace-talks-start-amid-controversy-over-israeli-settlement-expansion-and-the-release-of-26-palestinians-convicted-of-m.md)

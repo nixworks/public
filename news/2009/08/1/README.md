@@ -5,7 +5,7 @@ Formats: [HTML](2009/08/1/index.html)  [JSON](2009/08/1/index.json)  [XML](2009/
 
 ##### Shooting attack
 ### [ At least two people are killed and at least fifteen are wounded in a shooting attack at a building frequented by gay youths in Tel-Aviv, Israel. ](/news/2009/08/1/at-least-two-people-are-killed-and-at-least-fifteen-are-wounded-in-a-shooting-attack-at-a-building-frequented-by-gay-youths-in-tel-aviv-is.md)
-_Context: Tel-Aviv, Israel, shooting attack, homosexuality_
+_Context: shooting attack, homosexuality, Tel-Aviv, Israel_
 
 ##### Canary Islands'
 ### [ 4,000 people are evacuated from the Canary Islands due to severe forest fires. ](/news/2009/08/1/4-000-people-are-evacuated-from-the-canary-islands-due-to-severe-forest-fires.md)
@@ -13,11 +13,11 @@ _Context: Tel-Aviv, Israel, shooting attack, homosexuality_
 
 ##### President
 ### [ Former President of the Philippines Corazon Aquino dies at the age of 76 of cardiopulmonary arrest after complications of colon cancer. A memorial service and funeral is scheduled for August 5. ](/news/2009/08/1/former-president-of-the-philippines-corazon-aquino-dies-at-the-age-of-76-of-cardiopulmonary-arrest-after-complications-of-colon-cancer-a-m.md)
-_Context: Corazon Aquino, cardiopulmonary arrest, President, colon cancer_
+_Context: colon cancer, Corazon Aquino, President, cardiopulmonary arrest_
 
 ##### Russia
 ### [ Russia signs a deal to open a second military base in Kyrgyzstan at a Collective Security Treaty Organisation summit. ](/news/2009/08/1/russia-signs-a-deal-to-open-a-second-military-base-in-kyrgyzstan-at-a-collective-security-treaty-organisation-summit.md)
-_Context: Kyrgyzstan, Collective Security Treaty Organisation, Russia_
+_Context: Kyrgyzstan, Russia, Collective Security Treaty Organisation_
 
 ##### Iran
 ### [ The trial of 30 protesters in Iran who demonstrated in protests after the disputed presidential election begins. ](/news/2009/08/1/the-trial-of-30-protesters-in-iran-who-demonstrated-in-protests-after-the-disputed-presidential-election-begins.md)
@@ -37,7 +37,7 @@ _Context: Venezuela_
 
 ##### China
 ### [ Chinese hackers target the website of the Melbourne International Film Festival for a second time as Uyghur leader Rebiya Kadeer is to visit the country. ](/news/2009/08/1/chinese-hackers-target-the-website-of-the-melbourne-international-film-festival-for-a-second-time-as-uyghur-leader-rebiya-kadeer-is-to-visi.md)
-_Context: Uyghur, Melbourne International Film Festival, China, Rebiya Kadeer_
+_Context: Uyghur, Rebiya Kadeer, China, Melbourne International Film Festival_
 
 ##### North Korea
 ### [ North Korea says a South Korean fishing boat it seized "illegally" entered its waters. ](/news/2009/08/1/north-korea-says-a-south-korean-fishing-boat-it-seized-illegally-entered-its-waters.md)
@@ -45,11 +45,11 @@ _Context: North Korea, South Korea_
 
 ##### Christian
 ### [ Six Christians are killed in religious unrest in Punjab, Pakistan, after days of tension following an alleged desecration of a Qur'an. ](/news/2009/08/1/six-christians-are-killed-in-religious-unrest-in-punjab-pakistan-after-days-of-tension-following-an-alleged-desecration-of-a-quraan.md)
-_Context: Qur'an, Pakistan, Christian, Punjab_
+_Context: Qur'an, Christian, Punjab, Pakistan_
 
 ##### Buddhists
 ### [ Rare Buddhist treasures, buried in the 1930s during Mongolia's Communist purge, are unearthed in the Gobi Desert. ](/news/2009/08/1/rare-buddhist-treasures-buried-in-the-1930s-during-mongolia-s-communist-purge-are-unearthed-in-the-gobi-desert.md)
-_Context: Buddhists, Communist, Mongolia, Gobi Desert_
+_Context: Gobi Desert, Communist, Mongolia, Buddhists_
 
 ## [Previous Day...](/news/2009/07/31/index.md)
 

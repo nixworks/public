@@ -5,11 +5,11 @@ Formats: [HTML](2011/09/23/index.html)  [JSON](2011/09/23/index.json)  [XML](201
 
 ##### 2011 Yemeni uprising
 ### [2011 Yemeni uprising: The President of Yemen, Ali Abdullah Saleh, returns from Saudi Arabia after a three-month absence, amid an increase in political unrest and violence in Yemen. ](/news/2011/09/23/2011-yemeni-uprising-the-president-of-yemen-ali-abdullah-saleh-returns-from-saudi-arabia-after-a-three-month-absence-amid-an-increase-in.md)
-_Context: Saudi Arabia, President, 2011 Yemeni uprising, Ali Abdullah Saleh_
+_Context: President, Ali Abdullah Saleh, 2011 Yemeni uprising, Saudi Arabia_
 
 ##### Kabul
 ### [Thousands of mourners gather in Kabul for the funeral of former President of Afghanistan Burhanuddin Rabbani, who was killed by a suicide bomber earlier in the week. ](/news/2011/09/23/thousands-of-mourners-gather-in-kabul-for-the-funeral-of-former-president-of-afghanistan-burhanuddin-rabbani-who-was-killed-by-a-suicide-bo.md)
-_Context: Kabul, Burhanuddin Rabbani, suicide bomber, Afghanistan President_
+_Context: Kabul, suicide bomber, Afghanistan President, Burhanuddin Rabbani_
 
 ##### Stock market
 ### [Global stock markets fall for a second day amid fears of a deepening economic crisis. ](/news/2011/09/23/global-stock-markets-fall-for-a-second-day-amid-fears-of-a-deepening-economic-crisis.md)
@@ -37,7 +37,7 @@ _Context: South Korea, savings banks, suicide_
 
 ##### Patriotic Front
 ### [Patriotic Front leader Michael Sata is declared the winner of the Zambian presidential election. ](/news/2011/09/23/patriotic-front-leader-michael-sata-is-declared-the-winner-of-the-zambian-presidential-election.md)
-_Context: presidential election, Patriotic Front, Zambia, Michael Sata_
+_Context: Zambia, presidential election, Patriotic Front, Michael Sata_
 
 ##### United States House of Representatives
 ### [The United States House of Representatives passes a resolution providing funding for the Government through to November 18, but the Senate vows to reject it, making a government shutdown from October 1 possible. ](/news/2011/09/23/the-united-states-house-of-representatives-passes-a-resolution-providing-funding-for-the-government-through-to-november-18-but-the-senate-v.md)

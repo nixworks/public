@@ -65,11 +65,11 @@ _Context: Sri Lanka_
 
 ##### Russian President
 ### [President of Russia Dmitry Medvedev, on his first visit to the West Bank as head of state, confirms "support [for] the inalienable right of the Palestinian people to an independent state with its capital in East Jerusalem." ](/news/2011/01/18/president-of-russia-dmitry-medvedev-on-his-first-visit-to-the-west-bank-as-head-of-state-confirms-support-for-the-inalienable-right-of.md)
-_Context: East Jerusalem, West Bank, Dmitry Medvedev, Russian President_
+_Context: Russian President, West Bank, Dmitry Medvedev, East Jerusalem_
 
 ##### Puntland
 ### [The Puntland autonomous region of Somalia says it is "breaking away" from the federation until a legitimate government is put in place. ](/news/2011/01/18/the-puntland-autonomous-region-of-somalia-says-it-is-breaking-away-from-the-federation-until-a-legitimate-government-is-put-in-place.md)
-_Context: Puntland, Somalia_
+_Context: Somalia, Puntland_
 
 ##### China
 ### [Chinese President Hu Jintao begins a four-day state visit to the United States. ](/news/2011/01/18/chinese-president-hu-jintao-begins-a-four-day-state-visit-to-the-united-states.md)
@@ -77,7 +77,7 @@ Chinese President Hu Jintao kicks off a four-day US visit with a rare private di
 
 ##### Association of Chief Police Officers
 ### [The British government suggests the Association of Chief Police Officers (Acpo), a private company run by police chiefs, ought to have its power to run undercover spies removed after recent revelations about Mark Kennedy, policeman and undercover spy on international activists, as it acknowledges for the first time that "something had gone very wrong". ](/news/2011/01/18/the-british-government-suggests-the-association-of-chief-police-officers-acpo-a-private-company-run-by-police-chiefs-ought-to-have-its-p.md)
-_Context: Association of Chief Police Officers, Mark Kennedy_
+_Context: Mark Kennedy, Association of Chief Police Officers_
 
 ##### Haiti
 ### [Haitian authorities arrest former president Jean-Claude Duvalier. ](/news/2011/01/18/haitian-authorities-arrest-former-president-jean-claude-duvalier.md)
@@ -97,11 +97,11 @@ Irish PM Brian Cowen survives a secret confidence vote on his leadership in the 
 
 ##### Qatar Emir
 ### [Emir of Qatar Sheikh Hamad bin Khalifa Al Thani appoints Mohammed Saleh al-Sada as Energy Minister, succeeding Abdullah Al-Attiyah in a cabinet reshuffle. ](/news/2011/01/18/emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-appoints-mohammed-saleh-al-sada-as-energy-minister-succeeding-abdullah-al-attiyah-in-a-cabi.md)
-_Context: Energy Minister, Qatar, Hamad bin Khalifa Al Thani, Abdullah Al-Attiyah, Qatar Emir_
+_Context: Qatar, Qatar Emir, Hamad bin Khalifa Al Thani, Abdullah Al-Attiyah, Energy Minister_
 
 ##### Communist Party
 ### [Voting continues at a congress of the Communist Party of Vietnam as it selects a new leadership. ](/news/2011/01/18/voting-continues-at-a-congress-of-the-communist-party-of-vietnam-as-it-selects-a-new-leadership.md)
-_Context: Vietnam, Communist Party_
+_Context: Communist Party, Vietnam_
 
 ##### Kent Conrad
 ### [Kent Conrad, a Democrat from North Dakota, announces he will not run again in the 2012 Senate election. ](/news/2011/01/18/kent-conrad-a-democrat-from-north-dakota-announces-he-will-not-run-again-in-the-2012-senate-election.md)

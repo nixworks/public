@@ -5,7 +5,7 @@ Formats: [HTML](2016/11/7/index.html)  [JSON](2016/11/7/index.json)  [XML](2016/
 
 ##### Iraqi Civil War (2014-present)
 ### [Iraqi Army discover at least 100 beheaded bodies as they retake Hamam al-Alil, the last major settlement south of Mosul. ](/news/2016/11/7/iraqi-army-discover-at-least-100-beheaded-bodies-as-they-retake-hamam-al-alil-the-last-major-settlement-south-of-mosul.md)
-_Context: Iraqi Civil War (2014-present), Battle of Mosul (2016), Iraqi Army, Hamam al-Alil massacre, Mosul, Hamam al-Alil_
+_Context: Iraqi Army, Mosul, Hamam al-Alil, Iraqi Civil War (2014-present), Hamam al-Alil massacre, Battle of Mosul (2016)_
 
 ##### Somali Civil War
 ### [ Fighting between militias in Galkayo, Somalia, leaves at least 29 dead. ](/news/2016/11/7/fighting-between-militias-in-galkayo-somalia-leaves-at-least-29-dead.md)
@@ -13,7 +13,7 @@ Fragile ceasefire brokered by Dubai breaks down between rivals of Galmudug and P
 
 ##### Delhi
 ### [Schools in Delhi and New Delhi close after smog reach toxic levels. The air quality index is 999 with 500 rated as hazardous. ](/news/2016/11/7/schools-in-delhi-and-new-delhi-close-after-smog-reach-toxic-levels-the-air-quality-index-is-999-with-500-rated-as-hazardous.md)
-_Context: New Delhi, Delhi, smog, air quality index_
+_Context: smog, Delhi, air quality index, New Delhi_
 
 ##### Vietnam
 ### [Floods in Vietnam kill at least 15. ](/news/2016/11/7/floods-in-vietnam-kill-at-least-15.md)
@@ -29,7 +29,7 @@ An Islamist militant group has claimed it has abducted a German sailor and kille
 
 ##### Cambodia
 ### [A Cambodian opposition senator is sentenced to 7 years in prison for a post on Facebook. ](/news/2016/11/7/a-cambodian-opposition-senator-is-sentenced-to-7-years-in-prison-for-a-post-on-facebook.md)
-_Context: Facebook, Cambodia_
+_Context: Cambodia, Facebook_
 
 ##### Youngspiration party
 ### [Baggio Leung and Yau Wai-ching are banned by China from taking office in Hong Kong over the oath-taking controversy. ](/news/2016/11/7/baggio-leung-and-yau-wai-ching-are-banned-by-china-from-taking-office-in-hong-kong-over-the-oath-taking-controversy.md)
@@ -37,15 +37,15 @@ The rare intervention by Beijing could spark more social unrest.
 
 ##### Malaysia
 ### [Protesters in Malaysia attempt to shut down the "Malaysiakini" newspaper which has been at the center of opposition towards Malaysian prime minister Najib Razak. ](/news/2016/11/7/protesters-in-malaysia-attempt-to-shut-down-the-malaysiakini-newspaper-which-has-been-at-the-center-of-opposition-towards-malaysian-prime.md)
-_Context: Malaysia, Najib Razak, Malaysiakini_
+_Context: Malaysiakini, Najib Razak, Malaysia_
 
 ##### Leila de Lima
 ### [Filipino senator Leila de Lima files a lawsuit against Philippine president Rodrigo Duterte in the country's Supreme Court seeking to stop the president from gathering, and making public, information about her private life. ](/news/2016/11/7/filipino-senator-leila-de-lima-files-a-lawsuit-against-philippine-president-rodrigo-duterte-in-the-country-s-supreme-court-seeking-to-stop-t.md)
-_Context: Leila de Lima, Supreme Court of the Philippines, Philippine, Rodrigo Duterte_
+_Context: Philippine, Supreme Court of the Philippines, Rodrigo Duterte, Leila de Lima_
 
 #####  Georgian
 ### [Former Georgian president Mikhail Saakashvili resigns as governor of the Ukrainian region of Odessa, citing corruption in Odessa as the main reason. ](/news/2016/11/7/former-georgian-president-mikhail-saakashvili-resigns-as-governor-of-the-ukrainian-region-of-odessa-citing-corruption-in-odessa-as-the-main.md)
-_Context:  Georgian, Odessa, Ukraine, Mikhail Saakashvili_
+_Context: Mikhail Saakashvili, Odessa, Ukraine,  Georgian_
 
 ## [Previous Day...](/news/2016/11/6/index.md)
 

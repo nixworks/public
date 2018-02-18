@@ -5,7 +5,7 @@ Formats: [HTML](2015/08/20/index.html)  [JSON](2015/08/20/index.json)  [XML](201
 
 ##### Republic of Macedonia
 ### [Macedonia declares a state of emergency and deploys police units on its borders as immigrants from the Middle East, mainly from Syria and Iraq, block the railway line between Thessaloniki and Skopje. ](/news/2015/08/20/macedonia-declares-a-state-of-emergency-and-deploys-police-units-on-its-borders-as-immigrants-from-the-middle-east-mainly-from-syria-and-ir.md)
-_Context: Middle East, Thessaloniki, Skopje, Republic of Macedonia_
+_Context: Republic of Macedonia, Thessaloniki, Skopje, Middle East_
 
 ##### August 2015 Egypt bombings
 ### [Large blasts occur in Cairo and Giza, Egypt, targeting the State Security agency and leaving six police officers injured. ](/news/2015/08/20/large-blasts-occur-in-cairo-and-giza-egypt-targeting-the-state-security-agency-and-leaving-six-police-officers-injured.md)
@@ -17,7 +17,7 @@ Reports say Pyongyang fired a shell at a South Korean border town, which prompte
 
 ##### Spillover of the Syrian Civil War
 ### [The Israeli Army fires Spike missiles on Syrian Army positions in the Golan Heights' Quneitra area in response to several rockets fired from Syria which landed in villages in northern Israel, about 20 km from the border. ](/news/2015/08/20/the-israeli-army-fires-spike-missiles-on-syrian-army-positions-in-the-golan-heights-quneitra-area-in-response-to-several-rockets-fired-from.md)
-_Context: Golan Heights, Syrian Armed Forces, Spike missile, Spillover of the Syrian Civil War, Israeli Army, Israel-Syria relations_
+_Context: Spike missile, Syrian Armed Forces, Spillover of the Syrian Civil War, Israel-Syria relations, Golan Heights, Israeli Army_
 
 ##### Archaeologists
 ### [Archaeologists find a skull rack used by the Aztecs to display victims in the ruins of the Templo Mayor in Mexico City. ](/news/2015/08/20/archaeologists-find-a-skull-rack-used-by-the-aztecs-to-display-victims-in-the-ruins-of-the-templo-mayor-in-mexico-city.md)
@@ -25,7 +25,7 @@ Get the latest science news and technology news, read tech reviews and more at A
 
 ##### Kazakhstan
 ### [Within hours of a government announcement that Kazakhstan will abandon its currency-band exchange-rate system to implement a free-floating exchange rate, the tenge loses 26% of its value against the US dollar. ](/news/2015/08/20/within-hours-of-a-government-announcement-that-kazakhstan-will-abandon-its-currency-band-exchange-rate-system-to-implement-a-free-floating-e.md)
-_Context: US dollar, tenge, exchange rate, Kazakhstan_
+_Context: exchange rate, US dollar, Kazakhstan, tenge_
 
 ##### Bratislava
 ### [A mid-air collision between two aircraft near Bratislava, Slovakia leaves at least seven people killed. ](/news/2015/08/20/a-mid-air-collision-between-two-aircraft-near-bratislava-slovakia-leaves-at-least-seven-people-killed.md)
@@ -49,7 +49,7 @@ Speaker of lower house and ex-president named by prosecutors in investigation in
 
 ##### Restaurant
 ### [Former Subway pitchman Jared Fogle reaches a plea deal with U.S. federal prosecutors in Indianapolis. Fogle will plead guilty to possessing and distributing child pornography and traveling across state lines to have sex with at least two teenage girls. Under the deal, he will serve from 5 to 121/2 years in prison, and will also pay $1.4 million in restitution to 14 victims. ](/news/2015/08/20/former-subway-pitchman-jared-fogle-reaches-a-plea-deal-with-u-s-federal-prosecutors-in-indianapolis-fogle-will-plead-guilty-to-possessing.md)
-_Context: U.S. federal prosecutors, Jared Fogle, restaurant, Indianapolis, child pornography, plea deal_
+_Context: U.S. federal prosecutors, Indianapolis, restaurant, child pornography, plea deal, Jared Fogle_
 
 ##### Pierre Nkurunziza
 ### [Pierre Nkurunziza is sworn in for a third term as President of Burundi. ](/news/2015/08/20/pierre-nkurunziza-is-sworn-in-for-a-third-term-as-president-of-burundi.md)
@@ -65,7 +65,7 @@ The 90-year-old former president says he is &ldquo;perfectly at ease with whatev
 
 ##### U.S.  National Oceanic and Atmospheric Administration
 ### [The U.S. National Oceanic and Atmospheric Administration reports that July was the hottest month globally since record keeping began in 1880. Global temperatures were 1.46degF (0.81degC) warmer than the 20th century average. NOAA scientists expect 2015 will go down as the warmest year on record. ](/news/2015/08/20/the-u-s-national-oceanic-and-atmospheric-administration-reports-that-july-was-the-hottest-month-globally-since-record-keeping-began-in-1880.md)
-_Context: U.S.  National Oceanic and Atmospheric Administration, record keeping_
+_Context: record keeping, U.S.  National Oceanic and Atmospheric Administration_
 
 ## [Previous Day...](/news/2015/08/19/index.md)
 

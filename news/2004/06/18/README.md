@@ -13,11 +13,11 @@ European Union leaders gave Croatia the status of a candidate country for access
 
 ##### Al-Arabiya
 ### [ The television station Al-Arabiya reports that kidnapped hostage Paul Johnson has been beheaded by Al-Qaida militants. ](/news/2004/06/18/the-television-station-al-arabiya-reports-that-kidnapped-hostage-paul-johnson-has-been-beheaded-by-al-qaida-militants.md)
-_Context: Al-Qaida, Paul Johnson, Al-Arabiya, beheaded_
+_Context: Al-Arabiya, Al-Qaida, beheaded, Paul Johnson_
 
 ##### Ichthyologist
 ### [ Ichthyologists claim to have discovered a new species of Chimaera fish off the coast of Brazil. ](/news/2004/06/18/ichthyologists-claim-to-have-discovered-a-new-species-of-chimaera-fish-off-the-coast-of-brazil.md)
-_Context: Chimaera, Brazil, Ichthyologist_
+_Context: Brazil, Ichthyologist, Chimaera_
 
 ## [Previous Day...](/news/2004/06/17/index.md)
 

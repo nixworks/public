@@ -37,7 +37,7 @@ _Context: Hong Kong_
 
 ##### New England Journal of Medicine
 ### [The "New England Journal of Medicine" publishes research from Portland State University that implies the presence of formaldehyde, a cancer-causing chemical, may occur in limited situations of e-cigarette vapor. ](/news/2015/01/21/the-new-england-journal-of-medicine-publishes-research-from-portland-state-university-that-implies-the-presence-of-formaldehyde-a-cancer.md)
-_Context: Portland State University, carcinogen, New England Journal of Medicine, e-cigarette, formaldehyde_
+_Context: New England Journal of Medicine, formaldehyde, e-cigarette, Portland State University, carcinogen_
 
 ##### Russia
 ### [Russian state-owned gas company Gazprom announces a plan to shift its European natural gas pipeline from Ukraine to Turkey, through a proposed link under the Black Sea to Turkey. ](/news/2015/01/21/russian-state-owned-gas-company-gazprom-announces-a-plan-to-shift-its-european-natural-gas-pipeline-from-ukraine-to-turkey-through-a-propos.md)

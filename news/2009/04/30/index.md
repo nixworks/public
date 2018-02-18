@@ -9,7 +9,7 @@ The World Health Organisation (WHO), bowing to pressure from meat industry produ
 
 ##### Chrysler
 ### [ Chrysler declares bankruptcy under Chapter 11 of the United States Code. ](/news/2009/04/30/chrysler-declares-bankruptcy-under-chapter-11-of-the-united-states-code.md)
-_Context: Chapter 11, sustain, United States, Chrysler, bankruptcy, federal offenses_
+_Context: federal offenses, bankruptcy, United States, Chrysler, sustain, Chapter 11_
 
 ##### Attacked
 ### [ Seven people are killed and 17 injured at a Queen's Day parade in Apeldoorn, Netherlands. ](/news/2009/04/30/seven-people-are-killed-and-17-injured-at-a-queen-s-day-parade-in-apeldoorn-netherlands.md)
@@ -25,15 +25,15 @@ _Context: Iraq War, Iraq, United Kingdom, military operation_
 
 ##### Colombian Army
 ### [ Eight National Army soldiers are killed during combat with the Revolutionary Armed Forces in Colombia. ](/news/2009/04/30/eight-national-army-soldiers-are-killed-during-combat-with-the-revolutionary-armed-forces-in-colombia.md)
-_Context: soldier, internal conflict, Revolutionary Armed Forces of Colombia, Colombia, Colombian Army_
+_Context: soldier, Revolutionary Armed Forces of Colombia, internal conflict, Colombian Army, Colombia_
 
 ##### Killed
 ### [ Twelve people are killed at the State Oil Academy in Baku, Azerbaijan. ](/news/2009/04/30/twelve-people-are-killed-at-the-state-oil-academy-in-baku-azerbaijan.md)
-_Context: Azerbaijan, killed, State Oil Academy, Baku_
+_Context: Azerbaijan, Baku, killed, State Oil Academy_
 
 ##### Helios Airways
 ### [ Helios Airways and four executives are charged with 119 counts of manslaughter over the crash of Flight 522 in 2005. ](/news/2009/04/30/helios-airways-and-four-executives-are-charged-with-119-counts-of-manslaughter-over-the-crash-of-flight-522-in-2005.md)
-_Context: indicted, executives, manslaughter by gross negligence, Flight 522, Helios Airways, incidents_
+_Context: Flight 522, incidents, executives, Helios Airways, indicted, manslaughter by gross negligence_
 
 ##### Italy
 ### [ The Italian cargo ship "Jolley Smeraldo" evades an attempted hijacking by Somali pirates. ](/news/2009/04/30/the-italian-cargo-ship-jolley-smeraldo-evades-an-attempted-hijacking-by-somali-pirates.md)
@@ -45,7 +45,7 @@ The first wave of slayings haunted Los Angeles in the mid-1970s. The killer slip
 
 ##### Souleymane Ndene Ndiaye
 ### [ Souleymane Ndene Ndiaye replaces Cheikh Hadjibou Soumare as Prime Minister of Senegal. ](/news/2009/04/30/souleymane-nda-c-na-c-ndiaye-replaces-cheikh-hadjibou-soumara-c-as-prime-minister-of-senegal.md)
-_Context: Cheikh Hadjibou Soumare, Senegal, Souleymane Ndene Ndiaye, Prime Minister of Senegal_
+_Context: Senegal, Cheikh Hadjibou Soumare, Souleymane Ndene Ndiaye, Prime Minister of Senegal_
 
 ## [Previous Day...](/news/2009/04/29/index.md)
 

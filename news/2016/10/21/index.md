@@ -13,7 +13,7 @@ Singer-songwriter’s failure to respond to phone calls from the Swedish Academy
 
 ##### British American Tobacco
 ### [British American Tobacco offers to buy out U.S. cigarette maker Reynolds American Inc in a $47 billion takeover that would create the world's biggest listed tobacco company. ](/news/2016/10/21/british-american-tobacco-offers-to-buy-out-u-s-cigarette-maker-reynolds-american-inc-in-a-47-billion-takeover-that-would-create-the-world.md)
-_Context: $, cigarette, British American Tobacco, Reynolds American Inc, tobacco_
+_Context: tobacco, British American Tobacco, $, cigarette, Reynolds American Inc_
 
 ##### AT&T
 ### [AT&T reportedly agrees in principle to buy Time Warner for about $85 billion. ](/news/2016/10/21/at-t-reportedly-agrees-in-principle-to-buy-time-warner-for-about-85-billion.md)
@@ -25,7 +25,7 @@ A magnitude 6.6 earthquake struck Tottori prefecture in western Japan, causing p
 
 ##### Atchison, Kansas
 ### [A chemical spill at the MGP Ingredients plant in Atchison, Kansas, United States, injures 26 people and leads to evacuations. The spill of sodium hypochlorite and sulfuric acid produces a toxic fog. ](/news/2016/10/21/a-chemical-spill-at-the-mgp-ingredients-plant-in-atchison-kansas-united-states-injures-26-people-and-leads-to-evacuations-the-spill-of-s.md)
-_Context: Atchison, Kansas, sulfuric acid, sodium hypochlorite_
+_Context: sulfuric acid, sodium hypochlorite, Atchison, Kansas_
 
 ##### London City Airport
 ### [Authorities evacuate London City Airport after a chemical incident, but, after some remediation, police later declare the airport safe. ](/news/2016/10/21/authorities-evacuate-london-city-airport-after-a-chemical-incident-but-after-some-remediation-police-later-declare-the-airport-safe.md)
@@ -57,7 +57,7 @@ The former police chief of the Mexican city where 43 students disappeared in Sep
 
 ##### Tennessee Valley Authority
 ### [The Tennessee Valley Authority completes the Watts Bar Nuclear Plant, the first U.S. nuclear reactor to enter commercial operation in 20 years. ](/news/2016/10/21/the-tennessee-valley-authority-completes-the-watts-bar-nuclear-plant-the-first-u-s-nuclear-reactor-to-enter-commercial-operation-in-20-yea.md)
-_Context: Tennessee Valley Authority, Watts Bar Nuclear Plant, nuclear reactor_
+_Context: nuclear reactor, Watts Bar Nuclear Plant, Tennessee Valley Authority_
 
 ## [Previous Day...](/news/2016/10/20/index.md)
 

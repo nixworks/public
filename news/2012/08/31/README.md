@@ -17,7 +17,7 @@ _Context: Los Angeles County Coroner's Office, Sage Stallone_
 
 ##### Magnitude
 ### [A 7.6-magnitude earthquake in the Philippine province of Eastern Samar kills at least one person. ](/news/2012/08/31/a-7-6-magnitude-earthquake-in-the-philippine-province-of-eastern-samar-kills-at-least-one-person.md)
-_Context: Eastern Samar, magnitude, Philippines, earthquake_
+_Context: Philippines, magnitude, Eastern Samar, earthquake_
 
 ##### Armenia
 ### [Armenia suspends diplomatic relations with Hungary after Ramil Safarov's extradition to Azerbaijan. ](/news/2012/08/31/armenia-suspends-diplomatic-relations-with-hungary-after-ramil-safarov-s-extradition-to-azerbaijan.md)

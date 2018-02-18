@@ -5,15 +5,15 @@ Formats: [HTML](2016/04/10/index.html)  [JSON](2016/04/10/index.json)  [XML](201
 
 ##### War in Afghanistan (2015-present)
 ### [The Taliban, in a statement claiming responsibility for yesterday's rocket attacks into Kabul, Afghanistan, says the intended target was U.S. Secretary of State John Kerry, who was in the capital to help defuse a crisis within the unity government. Kerry had departed less than an hour earlier. No casualties have been reported. ](/news/2016/04/10/the-taliban-in-a-statement-claiming-responsibility-for-yesterday-s-rocket-attacks-into-kabul-afghanistan-says-the-intended-target-was-u-s.md)
-_Context: Afghan, United States Secretary of State, War in Afghanistan (2015-present), unity government, Taliban, John Kerry, Kabul_
+_Context: United States Secretary of State, Taliban, John Kerry, Kabul, unity government, War in Afghanistan (2015-present), Afghan_
 
 ##### Dubai
 ### [Developers announce their intention to build a new tower in Dubai, United Arab Emirates, to surpass the Burj Khalifa as the tallest structure in the world. The project is expected to be roughly $1bn (GBP710m) and scheduled to be completed for the Dubai Expo trade fair in 2020. ](/news/2016/04/10/developers-announce-their-intention-to-build-a-new-tower-in-dubai-united-arab-emirates-to-surpass-the-burj-khalifa-as-the-tallest-structur.md)
-_Context: Burj Khalifa, Dubai, tallest structure in the world, United Arab Emirates_
+_Context: tallest structure in the world, Burj Khalifa, Dubai, United Arab Emirates_
 
 ##### International Monetary Fund
 ### [The International Monetary Fund encourages the move toward negative interest rates because "they help deliver additional monetary stimulus and easier financial conditions." ](/news/2016/04/10/the-international-monetary-fund-encourages-the-move-toward-negative-interest-rates-because-they-help-deliver-additional-monetary-stimulus-a.md)
-_Context: negative interest rates, International Monetary Fund_
+_Context: International Monetary Fund, negative interest rates_
 
 ##### Kollam temple fire
 ### [A fire occurs at a Hindu temple in the Kollam district of the Indian state of Kerala. At least 102 people have been killed and hundreds injured. ](/news/2016/04/10/a-fire-occurs-at-a-hindu-temple-in-the-kollam-district-of-the-indian-state-of-kerala-at-least-102-people-have-been-killed-and-hundreds-inju.md)
@@ -29,7 +29,7 @@ John Kerry says US is prepared to address Iran’s concerns if it halts missile 
 
 ##### Panama Papers
 ### [German Justice Minister Heiko Maas, during a newspaper interview, appeals to media to hand over "Panama Papers" data that will help governments around the globe that already have started investigating possible financial wrongdoing by the world's rich and powerful. ](/news/2016/04/10/german-justice-minister-heiko-maas-during-a-newspaper-interview-appeals-to-media-to-hand-over-panama-papers-data-that-will-help-governme.md)
-_Context: investigating possible financial wrongdoing, Justice Minister, Panama Papers, Heiko Maas, German_
+_Context: Panama Papers, Heiko Maas, Justice Minister, investigating possible financial wrongdoing, German_
 
 ##### Howard Marks
 ### [Welsh drug smuggler turned author Howard Marks dies at age 70, after suffering from cancer for more than one year. ](/news/2016/04/10/welsh-drug-smuggler-turned-author-howard-marks-dies-at-age-70-after-suffering-from-cancer-for-more-than-one-year.md)
@@ -37,11 +37,11 @@ Former drug smuggler turned author Howard Marks has died at the age of 70.
 
 ##### Peruvian general election, 2016
 ### [Voters in Peru go to the polls for a general election with Keiko Fujimori and Pedro Kuczynski going through to the second round. ](/news/2016/04/10/voters-in-peru-go-to-the-polls-for-a-general-election-with-keiko-fujimori-and-pedro-kuczynski-going-through-to-the-second-round.md)
-_Context: Peruvian general election, 2016, Peru, Pedro Pablo Kuczynski, Keiko Fujimori_
+_Context: Keiko Fujimori, Pedro Pablo Kuczynski, Peru, Peruvian general election, 2016_
 
 ##### Chadian presidential election, 2016
 ### [Voters in Chad go to the polls for the first round of voting in a presidential election with incumbent President Idriss Deby favoured to win a fifth term. ](/news/2016/04/10/voters-in-chad-go-to-the-polls-for-the-first-round-of-voting-in-a-presidential-election-with-incumbent-president-idriss-da-c-by-favoured-to-wi.md)
-_Context: President of Chad, Chadian presidential election, 2016, Chad, Idriss Deby_
+_Context: Chad, Chadian presidential election, 2016, President of Chad, Idriss Deby_
 
 ##### Comorian presidential election, 2016
 ### [Voting begins for the second round of an election in the Comoros with a tight race expected between three candidates. They are current Vice President Mohamed Ali Soilihi, who won the first round, former coup leader Azali Assoumani and Governor of Grande Comore Mouigni Baraka. ](/news/2016/04/10/voting-begins-for-the-second-round-of-an-election-in-the-comoros-with-a-tight-race-expected-between-three-candidates-they-are-current-vice.md)

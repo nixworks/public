@@ -13,27 +13,27 @@ A large winter storm has left 23 people dead as snow and ice cover 1,400 miles.
 
 ##### NSW
 ### [ A former New South Wales Police Force superintendent claims there was an attempted assassination of Queen Elizabeth II at Bowenfels railway station during a 1970 Royal Tour of Australia. ](/news/2009/01/28/a-former-new-south-wales-police-force-superintendent-claims-there-was-an-attempted-assassination-of-queen-elizabeth-ii-at-bowenfels-railway.md)
-_Context: Australia, assassination, Royal Tour, superintendent, NSW, Bowenfels railway station, 1970, New South Wales Police Force, Queen Elizabeth_
+_Context: Queen Elizabeth, superintendent, 1970, New South Wales Police Force, NSW, Royal Tour, Bowenfels railway station, Australia, assassination_
 
 ##### Israel
 ### [ Israel bombards smuggling tunnels along the Gaza Strip-Egypt border in response to continued militant rocket fire. ](/news/2009/01/28/israel-bombards-smuggling-tunnels-along-the-gaza-strip-egypt-border-in-response-to-continued-militant-rocket-fire.md)
-_Context: Gaza Strip, rocket, border, Egypt, tunnels, Israel, militant, smuggling_
+_Context: militant, Gaza Strip, Egypt, Israel, smuggling, border, rocket, tunnels_
 
 ##### Army
 ### [ The Army kills at least 300 and wounds at least 300 Tamil people in Mullaitivu District. ](/news/2009/01/28/the-army-kills-at-least-300-and-wounds-at-least-300-tamil-people-in-mullaitivu-district.md)
-_Context: Mullaitivu District, Tamil, Army_
+_Context: Army, Mullaitivu District, Tamil_
 
 ##### United States
 ### [ The U.S. National Transportation Safety Board prepares its final report on the 2007 collision between two news helicopters in Phoenix, Arizona. ](/news/2009/01/28/the-u-s-national-transportation-safety-board-prepares-its-final-report-on-the-2007-collision-between-two-news-helicopters-in-phoenix-ariz.md)
-_Context: collision, 2007, NTSB, Arizona, Phoenix, Arizona, helicopter, United States_
+_Context: helicopter, collision, Phoenix, Arizona, NTSB, 2007, Arizona, United States_
 
 ##### Boeing Company
 ### [ Boeing announces it will cut 10,000 jobs. ](/news/2009/01/28/boeing-announces-it-will-cut-10-000-jobs.md)
-_Context: cut, Boeing Company_
+_Context: Boeing Company, cut_
 
 ##### Lithuania
 ### [ Lithuanian flag carrier FlyLAL declares bankruptcy. ](/news/2009/01/28/lithuanian-flag-carrier-flylal-declares-bankruptcy.md)
-_Context: FlyLAL, bankruptcy, flag carrier, Lithuania_
+_Context: bankruptcy, FlyLAL, Lithuania, flag carrier_
 
 ## [Previous Day...](/news/2009/01/27/index.md)
 

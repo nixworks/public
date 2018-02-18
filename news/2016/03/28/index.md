@@ -13,7 +13,7 @@ At least 115 fighters of militant Islamist group al-Shabab are killed in heavy f
 
 ##### Aftermath of the Brussels bombings
 ### [ Belgian prosecutors release Faycal C., a man charged in connection with last week's deadly Brussels bombings. The prosecutor's office says the evidence which led to his arrest has not been backed up by the ongoing investigation. ](/news/2016/03/28/belgian-prosecutors-release-faycal-c-a-man-charged-in-connection-with-last-week-s-deadly-brussels-bombings-the-prosecutor-s-office-says.md)
-_Context: Aftermath of the Brussels bombings, Brussels, Belgian prosecutors_
+_Context: Brussels, Aftermath of the Brussels bombings, Belgian prosecutors_
 
 ##### 2016 Lahore suicide bombing
 ### [ Pakistan officials tell Reuters its forces will launch a paramilitary crackdown on Islamist militants in Punjab. Sunday's attack was Taliban-affiliated Jamaat-ul-Ahrar's fifth bombing since December. ](/news/2016/03/28/pakistan-officials-tell-reuters-its-forces-will-launch-a-paramilitary-crackdown-on-islamist-militants-in-punjab-sunday-s-attack-was-taliba.md)
@@ -29,7 +29,7 @@ Flights arriving at Gatwick Airport are diverted and drivers are warned of sever
 
 ##### Alaska
 ### [ The Alaska village of Nelson Lagoon is coated in volcanic ash after an especially vigorous and ongoing eruption of Mount Pavlof. ](/news/2016/03/28/the-alaska-village-of-nelson-lagoon-is-coated-in-volcanic-ash-after-an-especially-vigorous-and-ongoing-eruption-of-mount-pavlof.md)
-_Context: tephra, Mount Pavlof, Nelson Lagoon, Alaska_
+_Context: tephra, Alaska, Mount Pavlof, Nelson Lagoon_
 
 ##### China-Japan relations
 ### [ As part of its wider military build up along the Japanese archipelagos in the East China Sea, Japan activates a new radar station on the island of Yonaguni that is close to the disputed Senkaku Islands. ](/news/2016/03/28/as-part-of-its-wider-military-build-up-along-the-japanese-archipelagos-in-the-east-china-sea-japan-activates-a-new-radar-station-on-the-is.md)
@@ -37,7 +37,7 @@ Japan on Monday switched on a radar station in the East China Sea, giving it a p
 
 ##### Saudi-led intervention in Yemen
 ### [ A Saudi coalition says it's traded 109 Yemeni prisoners for nine captive Saudis. ](/news/2016/03/28/a-saudi-coalition-says-it-s-traded-109-yemeni-prisoners-for-nine-captive-saudis.md)
-_Context: Saudi-led intervention in Yemen, Saudi Arabia, Yemen_
+_Context: Saudi Arabia, Saudi-led intervention in Yemen, Yemen_
 
 ##### Cleaver
 ### [ A three-year-old girl is decapitated in an apparently random killing by a man with a cleaver in Taipei, Taiwan. The man was arrested shortly afterwards. ](/news/2016/03/28/a-three-year-old-girl-is-decapitated-in-an-apparently-random-killing-by-a-man-with-a-cleaver-in-taipei-taiwan-the-man-was-arrested-shortl.md)
@@ -53,7 +53,7 @@ Federal officials said Monday that they have unlocked the iPhone belonging to on
 
 ##### U.S. federal district court
 ### [ A U.S. federal district court, in a case filed by retailer Wal-Mart Stores. Inc., strikes down a Puerto Rican tax increase for on-island companies, with more than $2.75 billion in revenues that buy goods from off-island "related parties," because the levy clearly discriminates against interstate commerce. ](/news/2016/03/28/a-u-s-federal-district-court-in-a-case-filed-by-retailer-wal-mart-stores-inc-strikes-down-a-puerto-rican-tax-increase-for-on-island-co.md)
-_Context: U.S. federal district court, interstate commerce, Puerto Rico, Walmart_
+_Context: Puerto Rico, Walmart, interstate commerce, U.S. federal district court_
 
 ##### United States Secret Service
 ### [ The United States Secret Service says only law enforcement officers will be allowed to have guns inside the Republican National Convention to be held in the Cleveland, Ohio, arena on July 18-21, 2016; responding to an online petition demanding Quicken Loans Arena revoke its ban on open carrying of firearms. ](/news/2016/03/28/the-united-states-secret-service-says-only-law-enforcement-officers-will-be-allowed-to-have-guns-inside-the-republican-national-convention.md)
@@ -65,7 +65,7 @@ SALEM, N.C. (Reuters) - Transgender people barred under a new North Carolina law
 
 ##### Ferguson unrest
 ### [ A Missouri court strikes down parts of a law, meant to address concerns raised after the police shooting of Michael Brown in Ferguson, Missouri, that limit cities' ability to profit from traffic tickets and court fines. The judge wrote the law unconstitutionally targeted St. Louis-area municipalities with caps on revenues from traffic fines that were lower than other cities in the state. ](/news/2016/03/28/a-missouri-court-strikes-down-parts-of-a-law-meant-to-address-concerns-raised-after-the-police-shooting-of-michael-brown-in-ferguson-miss.md)
-_Context: court fines, shooting of Michael Brown, Missouri court, traffic ticket, Ferguson unrest, Ferguson, Missouri, St. Louis-area municipalities_
+_Context: court fines, Missouri court, St. Louis-area municipalities, shooting of Michael Brown, Ferguson, Missouri, traffic ticket, Ferguson unrest_
 
 ##### Parliament's
 ### [ Thousands of protestors rally in front of the Parliament of Pakistan in Islamabad in support of Mumtaz Qadri, the killer of reformist Punjab governor Salmaan Taseer in 2011 who was subsequently executed last February. The Pakistan Army was called in to control the situation. ](/news/2016/03/28/thousands-of-protestors-rally-in-front-of-the-parliament-of-pakistan-in-islamabad-in-support-of-mumtaz-qadri-the-killer-of-reformist-punja.md)

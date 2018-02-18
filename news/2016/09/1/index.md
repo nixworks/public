@@ -5,11 +5,11 @@ Formats: [HTML](2016/09/1/index.html)  [JSON](2016/09/1/index.json)  [XML](2016/
 
 ##### 2016 Gabonese protests
 ### [Large explosions and gunfire are reported in the Gabonese capital Libreville as security forces clash with supporters of opposition presidential candidate Jean Ping protesting the election results indicating a narrow victory by President Ali Bongo Ondimba. ](/news/2016/09/1/large-explosions-and-gunfire-are-reported-in-the-gabonese-capital-libreville-as-security-forces-clash-with-supporters-of-opposition-presiden.md)
-_Context: Jean Ping, Gabon, President, 2016 Gabonese protests, Ali Bongo Ondimba, Libreville_
+_Context: President, 2016 Gabonese protests, Libreville, Ali Bongo Ondimba, Jean Ping, Gabon_
 
 ##### Kurdish-Turkish conflict (1978-present)
 ### [Turkish Armed Forces claims that it has killed three Kurdistan Workers' Party fighters in air strikes in southeastern Turkey near the borders with Iraq. ](/news/2016/09/1/turkish-armed-forces-claims-that-it-has-killed-three-kurdistan-workers-party-fighters-in-air-strikes-in-southeastern-turkey-near-the-border.md)
-_Context: Kurdistan Workers' Party, Iraq, Turkish troops, Kurdish-Turkish conflict (1978-present), Turkey_
+_Context: Kurdistan Workers' Party, Iraq, Turkey, Kurdish-Turkish conflict (1978-present), Turkish troops_
 
 ##### 2016 Southeast Asian haze
 ### [A South Korean palm oil company is accused of causing the wildfires in Indonesia. ](/news/2016/09/1/a-south-korean-palm-oil-company-is-accused-of-causing-the-wildfires-in-indonesia.md)
@@ -37,7 +37,7 @@ _Context: Vietnam, Cambodia, Cambodia-Vietnam relations_
 
 ##### Burial of Ferdinand Marcos
 ### [Female victims of the martial law dictatorship of Ferdinand Marcos speak at the Philippine Supreme Court about how they endured torture during Marcos' regime. ](/news/2016/09/1/female-victims-of-the-martial-law-dictatorship-of-ferdinand-marcos-speak-at-the-philippine-supreme-court-about-how-they-endured-torture-duri.md)
-_Context: Burial of Ferdinand Marcos, torture, Supreme Court of the Philippines, martial law, Ferdinand Marcos_
+_Context: Ferdinand Marcos, martial law, Burial of Ferdinand Marcos, Supreme Court of the Philippines, torture_
 
 ##### Parliament
 ### [The Parliament of Cambodia plans to strip political immunity for opposition politician Thak Lany of the Cambodia National Rescue Party alliance after she criticized Prime Minister Hun Sen. ](/news/2016/09/1/the-parliament-of-cambodia-plans-to-strip-political-immunity-for-opposition-politician-thak-lany-of-the-cambodia-national-rescue-party-allia.md)

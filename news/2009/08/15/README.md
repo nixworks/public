@@ -5,7 +5,7 @@ Formats: [HTML](2009/08/15/index.html)  [JSON](2009/08/15/index.json)  [XML](200
 
 ##### Hamas
 ### [ Hamas police claim to have killed Abdel-Latif Moussa, head of the Islamic group Jund Ansar Allah in a shootout. ](/news/2009/08/15/hamas-police-claim-to-have-killed-abdel-latif-moussa-head-of-the-islamic-group-jund-ansar-allah-in-a-shootout.md)
-_Context: Abdel-Latif Moussa, Hamas, Jund Ansar Allah, Islam, shootout_
+_Context: Islam, Jund Ansar Allah, Abdel-Latif Moussa, Hamas, shootout_
 
 ##### Hong Kong
 ### [ Hong Kong posts 3.3% growth over its previous quarter, far exceeding predictions, signaling an end to its recession. ](/news/2009/08/15/hong-kong-posts-3-3-growth-over-its-previous-quarter-far-exceeding-predictions-signaling-an-end-to-its-recession.md)
@@ -13,11 +13,11 @@ _Context: Hong Kong_
 
 ##### Colombia
 ### [ Colombia claims to have completed talks with the United States to allow US troops to use seven of Colombia's military bases. ](/news/2009/08/15/colombia-claims-to-have-completed-talks-with-the-united-states-to-allow-us-troops-to-use-seven-of-colombia-s-military-bases.md)
-_Context: United States, Colombia_
+_Context: Colombia, United States_
 
 ##### Japan
 ### [ Japan expresses remorse for its actions in World War II on the anniversary of its 1945 defeat, but former Prime Ministers Junichiro Koizumi and Shinzo Abe visit the Yasukuni Shrine, a controversial war shrine seen as a symbol of its past militarism. ](/news/2009/08/15/japan-expresses-remorse-for-its-actions-in-world-war-ii-on-the-anniversary-of-its-1945-defeat-but-former-prime-ministers-junichiro-koizumi.md)
-_Context: Shinzo Abe, World War II, controversial, surrender, Japan, Prime Minister of Japan, Yasukuni Shrine, Junichiro Koizumi_
+_Context: surrender, Shinzo Abe, Junichiro Koizumi, Prime Minister of Japan, controversial, Japan, Yasukuni Shrine, World War II_
 
 ##### President
 ### [ Former President of Zambia, Frederick Chiluba, awaits the verdict in his trial into his criminal case for being accused of plundering the national economy during his decade-long rule. ](/news/2009/08/15/former-president-of-zambia-frederick-chiluba-awaits-the-verdict-in-his-trial-into-his-criminal-case-for-being-accused-of-plundering-the-n.md)
@@ -29,7 +29,7 @@ The whereabouts of the Finnish-owned vessel and its Russian crew remain unknown.
 
 ##### Suicide bomb
 ### [ A suicide bomb attack occurs outside the NATO headquarters in Kabul, Afghanistan, killing at least seven and injuring 100. ](/news/2009/08/15/a-suicide-bomb-attack-occurs-outside-the-nato-headquarters-in-kabul-afghanistan-killing-at-least-seven-and-injuring-100.md)
-_Context: Kabul, Afghan, suicide bomb, NATO_
+_Context: Afghan, Kabul, suicide bomb, NATO_
 
 ##### Prison riot
 ### [ A prison riot in the Mexican state of Durango leaves at least 19 people dead and 20 injured. ](/news/2009/08/15/a-prison-riot-in-the-mexican-state-of-durango-leaves-at-least-19-people-dead-and-20-injured.md)
@@ -37,7 +37,7 @@ Nineteen people died and at least another 20 were hurt in a prison fight on Frid
 
 ##### Italy
 ### [ Italian Prime Minister Silvio Berlusconi speaks at a news conference to say his country will crack down on organised crime over the next four years. ](/news/2009/08/15/italian-prime-minister-silvio-berlusconi-speaks-at-a-news-conference-to-say-his-country-will-crack-down-on-organised-crime-over-the-next-fo.md)
-_Context: Italian Prime Minister, Silvio Berlusconi, Italy_
+_Context: Italian Prime Minister, Italy, Silvio Berlusconi_
 
 ##### Burma
 ### [ Burma is to free detained American John Yettaw, who appeared uninvited at Aung San Suu Kyi's home, after a meeting with US Senator Jim Webb. ](/news/2009/08/15/burma-is-to-free-detained-american-john-yettaw-who-appeared-uninvited-at-aung-san-suu-kyi-s-home-after-a-meeting-with-us-senator-jim-webb.md)

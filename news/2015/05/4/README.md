@@ -5,7 +5,7 @@ Formats: [HTML](2015/05/4/index.html)  [JSON](2015/05/4/index.json)  [XML](2015/
 
 ##### Curtis Culwell Center attack
 ### [One of the two attackers, Elton Simpson, had linked himself to ISIL on Twitter before his attack on the exhibition of drawings of the prophet Mohammed at the Curtis Culwell Center in Garland, Texas. He had been a member of a since-closed Phoenix mosque; he and his partner, 34-year-old Nadir Hamid Soofi, who had gone to college in Utah, had been known to and were investigated by law enforcement, but nevertheless, officers did not know that they were planning an imminent attack of this type, and they were not thought to be an imminent threat, despite having admired the late Anwar al-Awlaki, and swearing loyalty to Abu Bakr al-Baghdadi, prominent figures in al-Qaeda in Iraq and in ISIL, respectively. ](/news/2015/05/4/one-of-the-two-attackers-elton-simpson-had-linked-himself-to-isil-on-twitter-before-his-attack-on-the-exhibition-of-drawings-of-the-prophe.md)
-_Context: Abu Bakr al-Baghdadi, Curtis Culwell Center, Mohammed, Twitter, ISIL, al-Qaeda in Iraq, Garland, Texas, Curtis Culwell Center attack, Anwar al-Awlaki_
+_Context: Garland, Texas, Anwar al-Awlaki, Twitter, Abu Bakr al-Baghdadi, Mohammed, Curtis Culwell Center, al-Qaeda in Iraq, ISIL, Curtis Culwell Center attack_
 
 ##### Duke of Cambridge
 ### [It is announced that the daughter of the Duke of Cambridge and Catherine, Duchess of Cambridge, has been named Charlotte Elizabeth Diana, named after her grandfather, grandmother, and great grandmother. ](/news/2015/05/4/it-is-announced-that-the-daughter-of-the-duke-of-cambridge-and-catherine-duchess-of-cambridge-has-been-named-charlotte-elizabeth-diana-na.md)
@@ -21,7 +21,7 @@ The study, which has been criticized by the industry, noted that the contaminati
 
 ##### 2016 United States Presidential election
 ### [Former Hewlett-Packard Chief Executive Officer Carly Fiorina announces that she will be seeking the Republican Party nomination for the 2016 presidential election. ](/news/2015/05/4/former-hewlett-packard-chief-executive-officer-carly-fiorina-announces-that-she-will-be-seeking-the-republican-party-nomination-for-the-2016.md)
-_Context: Hewlett-Packard, Carly Fiorina, Republican, Chief Executive Officer, 2016 United States Presidential election_
+_Context: 2016 United States Presidential election, Republican, Carly Fiorina, Hewlett-Packard, Chief Executive Officer_
 
 ## [Previous Day...](/news/2015/05/3/index.md)
 

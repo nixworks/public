@@ -17,7 +17,7 @@ The King Center publishes online 200,000 personal papers belonging to Martin Lut
 
 ##### Standard & Poors
 ### [The Standard & Poors credit rating agency lowers its long-term credit rating on the European Financial Stability Facility, the eurozone's bailout fund to help indebted European countries with their finances, from AAA to AA+ following the downgrade of France and Austria, who are two of the fund's backers. ](/news/2012/01/16/the-standard-poors-credit-rating-agency-lowers-its-long-term-credit-rating-on-the-european-financial-stability-facility-the-eurozone-s-ba.md)
-_Context: Austria, credit rating, eurozone, Standard & Poors, France, European Financial Stability Facility_
+_Context: credit rating, Austria, Standard & Poors, France, European Financial Stability Facility, eurozone_
 
 ##### Zappos
 ### [The online shoe retailer Zappos reports that up to 24 million customer accounts may have been accessed by hackers, and has warned its customers to change their passwords. ](/news/2012/01/16/the-online-shoe-retailer-zappos-reports-that-up-to-24-million-customer-accounts-may-have-been-accessed-by-hackers-and-has-warned-its-custom.md)

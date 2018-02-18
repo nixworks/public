@@ -9,7 +9,7 @@ KUNDUZ, Afghanistan -- Six village police officers were poisoned and then shot t
 
 ##### Central bank
 ### [The central bank of Mexico announces that it is holding its benchmark interest rate at 4%, where it has been since a half-point cut announced in March, despite recent reports of inflating consumer prices. ](/news/2013/04/26/the-central-bank-of-mexico-announces-that-it-is-holding-its-benchmark-interest-rate-at-4-where-it-has-been-since-a-half-point-cut-announce.md)
-_Context: central bank, interest rate, Mexico_
+_Context: Mexico, central bank, interest rate_
 
 ##### Governor of the Bank of England
 ### [Governor of the Bank of England Mervyn King announces that Winston Churchill will be featured on the 5 pound bank note which he says will likely begin circulation in 2016. ](/news/2013/04/26/governor-of-the-bank-of-england-mervyn-king-announces-that-winston-churchill-will-be-featured-on-the-5-pound-bank-note-which-he-says-will-li.md)
@@ -25,19 +25,19 @@ _Context: Bangladesh_
 
 ##### Afghan
 ### [At least 30 people die in southern Afghanistan after a bus crashes into the wreckage of a truck attacked by Taliban insurgents. ](/news/2013/04/26/at-least-30-people-die-in-southern-afghanistan-after-a-bus-crashes-into-the-wreckage-of-a-truck-attacked-by-taliban-insurgents.md)
-_Context: Taliban, Afghan_
+_Context: Afghan, Taliban_
 
 ##### South Korea
 ### [South Korea announces that it will withdraw its remaining workers from North Korea's Kaesong Industrial Region to protect their safety after the North Korean government rejects talks. ](/news/2013/04/26/south-korea-announces-that-it-will-withdraw-its-remaining-workers-from-north-korea-s-kaesong-industrial-region-to-protect-their-safety-after.md)
-_Context: Kaesong area, North Korea, South Korea_
+_Context: North Korea, Kaesong area, South Korea_
 
 ##### White House
 ### [The White House reports that the United States may have to use military action against Syria. ](/news/2013/04/26/the-white-house-reports-that-the-united-states-may-have-to-use-military-action-against-syria.md)
-_Context: United States, White House, Syria_
+_Context: Syria, White House, United States_
 
 ##### Boston Marathon bombings
 ### [Boston Marathon bombings suspect Dzhokhar Tsarnaev is transferred from Beth Israel Deaconess Medical Center to the federal prison facility in Fort Devens in the U.S. state of Massachusetts. ](/news/2013/04/26/boston-marathon-bombings-suspect-dzhokhar-tsarnaev-is-transferred-from-beth-israel-deaconess-medical-center-to-the-federal-prison-facility-i.md)
-_Context: U.S., Fort Devens, Massachusetts, Boston Marathon bombings, Beth Israel Deaconess Medical Center, federal prison, facility, Dzhokhar Tsarnaev_
+_Context: Massachusetts, Fort Devens, facility, Dzhokhar Tsarnaev, Beth Israel Deaconess Medical Center, Boston Marathon bombings, U.S., federal prison_
 
 ##### Birmingham
 ### [Eleven members of a Birmingham, United Kingdom, terror cell are jailed for planning an attack to rival the 7 July and 9-11 atrocities. ](/news/2013/04/26/eleven-members-of-a-birmingham-united-kingdom-terror-cell-are-jailed-for-planning-an-attack-to-rival-the-7-july-and-9-11-atrocities.md)

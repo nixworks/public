@@ -9,7 +9,7 @@ Officials say at least 34 people have been killed and 125 wounded after a suicid
 
 ##### Turkey-PKK conflict (2015-present)
 ### [Turkey declares a curfew in the town of Yuksekova on the border with Iran as Turkish forces prepare an offensive against the PKK. ](/news/2016/03/13/turkey-declares-a-curfew-in-the-town-of-ya1-4ksekova-on-the-border-with-iran-as-turkish-forces-prepare-an-offensive-against-the-pkk.md)
-_Context: Turkey, Turkey-PKK conflict (2015-present), Turkish troops, Yuksekova, curfew, Kurdistan Workers' Party, Iran_
+_Context: Turkish troops, Yuksekova, Iran, Turkey, Kurdistan Workers' Party, Turkey-PKK conflict (2015-present), curfew_
 
 ##### 2016 Grand-Bassam shootings
 ### [Gunmen attack two hotels in the Ivory Coast town of Grand-Bassam. At least 15 people are reportedly killed. Witnesses claim the attackers shouted "Allahu Akbar" ("God is [the] greatest") during the gunfire. Al-Qaeda in the Islamic Maghreb (AQIM) claim responsibility for the attack. ](/news/2016/03/13/gunmen-attack-two-hotels-in-the-ivory-coast-town-of-grand-bassam-at-least-15-people-are-reportedly-killed-witnesses-claim-the-attackers-sh.md)
@@ -21,11 +21,11 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### India
 ### [Five people are dead after a building collapses in the Indian city of Meerut caused by heavy rain. ](/news/2016/03/13/five-people-are-dead-after-a-building-collapses-in-the-indian-city-of-meerut-caused-by-heavy-rain.md)
-_Context: Meerut, India_
+_Context: India, Meerut_
 
 ##### Pakistan
 ### [Heavy rain in Pakistan has led to fifteen deaths in two days including at least eight deaths in a coal mine collapse in the Orakzai Tribal Area. ](/news/2016/03/13/heavy-rain-in-pakistan-has-led-to-fifteen-deaths-in-two-days-including-at-least-eight-deaths-in-a-coal-mine-collapse-in-the-orakzai-tribal-a.md)
-_Context: Orakzai Tribal Area, coal mine, Pakistan_
+_Context: Orakzai Tribal Area, Pakistan, coal mine_
 
 ##### Louisiana
 ### [Six people have been killed in Louisiana, Texas, and Oklahoma, with two Mississippi fishermen missing, in this week's flooding in the America's Deep South. More than 24 inches of rain has fallen in some of the hardest-hit areas with more rain today that is expected to lead to additional flooding later this week. ](/news/2016/03/13/six-people-have-been-killed-in-louisiana-texas-and-oklahoma-with-two-mississippi-fishermen-missing-in-this-week-s-flooding-in-the-americ.md)
@@ -57,11 +57,11 @@ Israel today refused to allow Indonesian Foreign Minister Retno Marsudi to visit
 
 ##### Israeli-Palestinian conflict
 ### [Israeli Defence Forces arrest 15 Palestinian suspects overnight. ](/news/2016/03/13/israeli-defence-forces-arrest-15-palestinian-suspects-overnight.md)
-_Context: Israeli-Palestinian conflict, Israeli Defence Forces, Palestinian_
+_Context: Palestinian, Israeli-Palestinian conflict, Israeli Defence Forces_
 
 ##### Authorities
 ### [Authorities in Belarus detain prominent businessman Yury Chyzh, once a close adviser to Alexander Lukashenko and included in the EU's sanctions list, on suspicion of large-scale tax evasion. ](/news/2016/03/13/authorities-in-belarus-detain-prominent-businessman-yury-chyzh-once-a-close-adviser-to-alexander-lukashenko-and-included-in-the-eu-s-sancti.md)
-_Context: Alexander Lukashenko, European Union, Belarus, Yury Chyzh, Authorities, tax fraud_
+_Context: tax fraud, European Union, Yury Chyzh, Authorities, Belarus, Alexander Lukashenko_
 
 ##### Elections in Germany
 ### [Regional elections take place in the German states of Baden-Wurttemberg, Rhineland-Palatinate and Saxony-Anhalt with the governing Christian Democratic Union performing poorly, the centre-left Social Democratic Party of Germany winning in Rhineland-Palatinate, and the anti-immigrant Alternative for Germany performing well in all three states. ](/news/2016/03/13/regional-elections-take-place-in-the-german-states-of-baden-wa1-4rttemberg-rhineland-palatinate-and-saxony-anhalt-with-the-governing-christia.md)

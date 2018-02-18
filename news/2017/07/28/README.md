@@ -21,11 +21,11 @@ Charlie Gard has died following his near year-long battle with a rare genetic di
 
 ##### North Korea's nuclear program
 ### [North Korea launches an intercontinental ballistic missile that flies 620 miles horizontally in about 45 minutes, landing in the Sea of Japan, according to Japan, South Korea and the United States. ](/news/2017/07/28/north-korea-launches-an-intercontinental-ballistic-missile-that-flies-620-miles-horizontally-in-about-45-minutes-landing-in-the-sea-of-japa.md)
-_Context: North Korea's nuclear program, South Korea, United States, Sea of Japan, 2017 North Korean missile tests, Japan_
+_Context: 2017 North Korean missile tests, South Korea, Sea of Japan, Japan, United States, North Korea's nuclear program_
 
 ##### Iran-United States relations
 ### [The United States Treasury Department imposes sanctions on six Shahid Hemmat Industrial Group satellite companies following a recent Iranian rocket launch that the U.S. says breached United Nations Security Council Resolution 2231. ](/news/2017/07/28/the-united-states-treasury-department-imposes-sanctions-on-six-shahid-hemmat-industrial-group-satellite-companies-following-a-recent-iranian.md)
-_Context: United Nations Security Council Resolution 2231, United States Treasury Department, Iran-United States relations_
+_Context: Iran-United States relations, United Nations Security Council Resolution 2231, United States Treasury Department_
 
 ##### 2017 Patient Protection and Affordable Care Act replacement proposals
 ### [The American Health Care Act of 2017, an attempt to repeal the Patient Protection and Affordable Care Act, fails passage in the United States Senate. ](/news/2017/07/28/the-american-health-care-act-of-2017-an-attempt-to-repeal-the-patient-protection-and-affordable-care-act-fails-passage-in-the-united-state.md)

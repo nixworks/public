@@ -13,7 +13,7 @@ Independent icasualties.org website says 2,002 foreign troops have been killed s
 
 ##### Gay pride
 ### [A teenager is shot dead and another is wounded by a further shot during a gay pride parade attended by around 70,000 people in Juiz de Fora, Minas Gerais, Brazil. ](/news/2010/08/15/a-teenager-is-shot-dead-and-another-is-wounded-by-a-further-shot-during-a-gay-pride-parade-attended-by-around-70-000-people-in-juiz-de-fora.md)
-_Context: gay pride, Brazil, Minas Gerais, Juiz de Fora_
+_Context: Brazil, gay pride, Juiz de Fora, Minas Gerais_
 
 ##### Jamaica
 ### [Jamaican authorities impose a new curfew on Kingston. ](/news/2010/08/15/jamaican-authorities-impose-a-new-curfew-on-kingston.md)
@@ -25,11 +25,11 @@ Prime minister calls for end to violence in speech marking independence day.
 
 ##### United States
 ### [A United States missile attack on a militant compound in the village of Essori near Miranshah in the North Waziristan area of Pakistan kills 13 people. ](/news/2010/08/15/a-united-states-missile-attack-on-a-militant-compound-in-the-village-of-essori-near-miranshah-in-the-north-waziristan-area-of-pakistan-kills.md)
-_Context: North Waziristan, Miranshah, Taliban, Pakistan, United States_
+_Context: North Waziristan, Taliban, Miranshah, United States, Pakistan_
 
 ##### Ayman al-Zawahiri
 ### [Ayman al-Zawahiri, speaking via an audio message, criticises the Turkish government for what he says is co-operation with Israel, as well as "killing Muslims in Afghanistan". ](/news/2010/08/15/ayman-al-zawahiri-speaking-via-an-audio-message-criticises-the-turkish-government-for-what-he-says-is-co-operation-with-israel-as-well-as.md)
-_Context: Ayman al-Zawahiri, Muslim, Afghan, Turkey, Israel_
+_Context: Afghan, Israel, Turkey, Ayman al-Zawahiri, Muslim_
 
 ##### Televisa
 ### [No people are killed in two blasts targeting Televisa in Monterrey and Matamoros. ](/news/2010/08/15/no-people-are-killed-in-two-blasts-targeting-televisa-in-monterrey-and-matamoros.md)
@@ -45,11 +45,11 @@ The new US commander in Afghanistan, Gen David Petraeus, says US forces will onl
 
 ##### Baghdad
 ### [In Baghdad, Iraq multiple suicide bombings go off during mid-day rush hour, killing 4 and injuring about 16, another strike at 7:15am hits a mini-bus heading from Sadr City into downtown Baghdad, killing 3 including a police officer, and 9 others are wounded. Also, three other bombs go off simultaneously in a business district killing 1 and injuring 7. ](/news/2010/08/15/in-baghdad-iraq-multiple-suicide-bombings-go-off-during-mid-day-rush-hour-killing-4-and-injuring-about-16-another-strike-at-7-15am-hits-a.md)
-_Context: Sadr City, Baghdad, Iraq_
+_Context: Baghdad, Sadr City, Iraq_
 
 ##### Holly Walsh
 ### [Children's TV presenter Holly Walsh breaks bones and dislocates a shoulder whilst leaping from a pier during a festival in Worthing, West Sussex, England, UK; the festival is briefly halted. ](/news/2010/08/15/children-s-tv-presenter-holly-walsh-breaks-bones-and-dislocates-a-shoulder-whilst-leaping-from-a-pier-during-a-festival-in-worthing-west-su.md)
-_Context: Worthing, West Sussex, England, Holly Walsh_
+_Context: Worthing, Holly Walsh, West Sussex, England_
 
 ##### Hungarian American
 ### [Hungarian American actress Zsa Zsa Gabor is reported to be in an "extremely serious condition" after further surgery yesterday and has requested the Last Rites. ](/news/2010/08/15/hungarian-american-actress-zsa-zsa-gabor-is-reported-to-be-in-an-extremely-serious-condition-after-further-surgery-yesterday-and-has-reque.md)
@@ -69,7 +69,7 @@ Ban Ki-moon describes as &quot;heart-wrenching&quot; the destruction he has witn
 
 ##### Smog
 ### [Smog from the 2010 Russian wildfires returns to Moscow. ](/news/2010/08/15/smog-from-the-2010-russian-wildfires-returns-to-moscow.md)
-_Context: Moscow, smog, the recent wildfires_
+_Context: the recent wildfires, smog, Moscow_
 
 ##### Bordeaux
 ### [A major road bridge is barricaded near Bordeaux during a holiday weekend by Romani objecting to forced evictions by French authorities. ](/news/2010/08/15/a-major-road-bridge-is-barricaded-near-bordeaux-during-a-holiday-weekend-by-romani-objecting-to-forced-evictions-by-french-authorities.md)
@@ -77,7 +77,7 @@ Roma (Gypsies) block a major road near Bordeaux in protest after hundreds of the
 
 ##### Australia
 ### [Australia and Malaysia remember the 1945 Sandakan Death Marches on their 65th anniversary. ](/news/2010/08/15/australia-and-malaysia-remember-the-1945-sandakan-death-marches-on-their-65th-anniversary.md)
-_Context: Australia, Sandakan Death Marches, Malaysia_
+_Context: Malaysia, Sandakan Death Marches, Australia_
 
 ##### Sri Lanka
 ### [Sri Lanka unveils a new seaport in southern Hambantota which received a large amount of financial assistance from China. ](/news/2010/08/15/sri-lanka-unveils-a-new-seaport-in-southern-hambantota-which-received-a-large-amount-of-financial-assistance-from-china.md)
@@ -97,7 +97,7 @@ A US man accused of murdering a woman he met through the classified ads on the C
 
 ##### Ottawa
 ### [Daniel Skahan, a 29-year-old from Ottawa, is charged 5,000 $ for mischief and possession of incendiary materials, for his role in setting a fire just outside of Canadian Prime Minister Stephen Harper's home. ](/news/2010/08/15/daniel-skahan-a-29-year-old-from-ottawa-is-charged-5-000-for-mischief-and-possession-of-incendiary-materials-for-his-role-in-setting-a.md)
-_Context: Stephen Harper, Ottawa, Prime Minister, incendiary, Canadian_
+_Context: Canadian, Ottawa, Stephen Harper, Prime Minister, incendiary_
 
 ##### Independent Democrats
 ### [The Independent Democrats and Democratic Alliance opposition parties in South Africa agree to merge against the ruling African National Congress. ](/news/2010/08/15/the-independent-democrats-and-democratic-alliance-opposition-parties-in-south-africa-agree-to-merge-against-the-ruling-african-national-cong.md)
@@ -109,7 +109,7 @@ _Context: climate change, Australian Prime Minister, Julia Gillard_
 
 ##### Cabinet of Japan
 ### [The entire cabinet of Japanese Prime Minister Naoto Kan avoids visiting Yasukuni Shrine on the anniversary of Japan's surrender in World War II. ](/news/2010/08/15/the-entire-cabinet-of-japanese-prime-minister-naoto-kan-avoids-visiting-yasukuni-shrine-on-the-anniversary-of-japan-s-surrender-in-world-war.md)
-_Context: Japan, Prime Minister of Japan, Japan's surrender in World War II, Yasukuni Shrine, Cabinet of Japan, Naoto Kan_
+_Context: Yasukuni Shrine, Prime Minister of Japan, Japan's surrender in World War II, Naoto Kan, Japan, Cabinet of Japan_
 
 ## [Previous Day...](/news/2010/08/14/index.md)
 

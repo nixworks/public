@@ -37,7 +37,7 @@ Michaella McCollum Connolly and Melissa Reid are sentenced to prison after admit
 
 ##### Renown Regional Medical Center
 ### [A gunman is dead after shooting and killing one person and wounding two others at the Renown Regional Medical Center in Reno, Nevada, United States. ](/news/2013/12/17/a-gunman-is-dead-after-shooting-and-killing-one-person-and-wounding-two-others-at-the-renown-regional-medical-center-in-reno-nevada-united.md)
-_Context: Renown Regional Medical Center, Reno, Nevada, Nevada_
+_Context: Reno, Nevada, Renown Regional Medical Center, Nevada_
 
 ##### British
 ### [British singer Harry Styles, with the boy band One Direction, wins a limited ban on stalking in a London court case against paparazzi regarding the privacy rights of celebrities. ](/news/2013/12/17/british-singer-harry-styles-with-the-boy-band-one-direction-wins-a-limited-ban-on-stalking-in-a-london-court-case-against-paparazzi-regard.md)
@@ -53,7 +53,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### The Center for Public Integrity
 ### [A report by the American nonprofit investigative news organization The Center for Public Integrity details that the U. S. Federal Election Commission was hacked by China during the October 2013 federal government shutdown. ](/news/2013/12/17/a-report-by-the-american-nonprofit-investigative-news-organization-the-center-for-public-integrity-details-that-the-u-s-federal-election-c.md)
-_Context:  October 2013 federal government shutdown, Chinese, Federal Election Commission, The Center for Public Integrity_
+_Context:  October 2013 federal government shutdown, Chinese, The Center for Public Integrity, Federal Election Commission_
 
 ##### Secretary of State
 ### [U.S. Secretary of State John Kerry intends to give the Philippines $40 million in order to boost its maritime security regarding territorial disputes with China. ](/news/2013/12/17/u-s-secretary-of-state-john-kerry-intends-to-give-the-philippines-40-million-in-order-to-boost-its-maritime-security-regarding-territorial.md)
@@ -69,11 +69,11 @@ _Context: Chancellor, Angela Merkel_
 
 ##### Japan
 ### [Japan intends to increase spending for the Japan Self-Defense Forces and transform it into a modern military. ](/news/2013/12/17/japan-intends-to-increase-spending-for-the-japan-self-defense-forces-and-transform-it-into-a-modern-military.md)
-_Context: Japan, military_
+_Context: military, Japan_
 
 ##### Sa Pa
 ### [Snow falls in Sa Pa, Vietnam. ](/news/2013/12/17/snow-falls-in-sa-pa-vietnam.md)
-_Context: Vietnam, Sa Pa_
+_Context: Sa Pa, Vietnam_
 
 ## [Previous Day...](/news/2013/12/16/index.md)
 

@@ -9,7 +9,7 @@ _Context: Afghanistan President, Kabul_
 
 ##### Poland
 ### [Workers at the Polish Przewozy Regionalne passenger rail network commence a 24-hour strike. ](/news/2011/08/17/workers-at-the-polish-przewozy-regionalne-passenger-rail-network-commence-a-24-hour-strike.md)
-_Context: Przewozy Regionalne, Poland_
+_Context: Poland, Przewozy Regionalne_
 
 ##### Verizon Communications
 ### [Verizon Communications says that striking workers who do not return to work by the end of August will lose medical, prescription drug, and related benefits. ](/news/2011/08/17/verizon-communications-says-that-striking-workers-who-do-not-return-to-work-by-the-end-of-august-will-lose-medical-prescription-drug-and-r.md)
@@ -17,7 +17,7 @@ Verizon Communications Inc. told 45,000 striking workers that it will suspend ce
 
 ##### Gold
 ### [The price of gold reaches a new record after the President of Venezuela Hugo Chvez announces plans to nationalize the Venezuelan gold industry. ](/news/2011/08/17/the-price-of-gold-reaches-a-new-record-after-the-president-of-venezuela-hugo-chavez-announces-plans-to-nationalize-the-venezuelan-gold-indus.md)
-_Context: Venezuela, gold, Venezuelan President, Hugo Chvez_
+_Context: Hugo Chvez, Venezuelan President, Venezuela, gold_
 
 ##### Financial Times
 ### [The "Financial Times" reports that sources "familiar with the situation" say Liberty Media is losing interest in a purchase of Barnes & Noble, due to financing constraints. ](/news/2011/08/17/the-financial-times-reports-that-sources-familiar-with-the-situation-say-liberty-media-is-losing-interest-in-a-purchase-of-barnes-nobl.md)
@@ -33,11 +33,11 @@ _Context: Apple Inc., iPhone, South Korea_
 
 ##### Sexual assault
 ### [Three sexual assault cases are lodged against the Roman Catholic Archdiocese of Miami. ](/news/2011/08/17/three-sexual-assault-cases-are-lodged-against-the-roman-catholic-archdiocese-of-miami.md)
-_Context: sexual assault, Roman Catholic Archdiocese of Miami_
+_Context: Roman Catholic Archdiocese of Miami, sexual assault_
 
 ##### Toronto
 ### [A Toronto Imam is charged in relation to alleged sexual assaults and death threats committed against five victims over the course of three years. ](/news/2011/08/17/a-toronto-imam-is-charged-in-relation-to-alleged-sexual-assaults-and-death-threats-committed-against-five-victims-over-the-course-of-three-y.md)
-_Context: Toronto, Imam_
+_Context: Imam, Toronto_
 
 ##### Birmingham
 ### [A fourth man is charged with murder following the deaths of three men hit by a car in Birmingham, UK, during recent rioting which spread across England. ](/news/2011/08/17/a-fourth-man-is-charged-with-murder-following-the-deaths-of-three-men-hit-by-a-car-in-birmingham-uk-during-recent-rioting-which-spread-acr.md)
@@ -45,11 +45,11 @@ A fourth person is charged with murder after the deaths of three men who were st
 
 ##### Vasyl Dzharty
 ### [Vasyl Dzharty, the Prime Minister of Crimea, an autonomous region of Ukraine, dies in office. ](/news/2011/08/17/vasyl-dzharty-the-prime-minister-of-crimea-an-autonomous-region-of-ukraine-dies-in-office.md)
-_Context: Vasyl Dzharty, Ukraine, Prime Minister of Crimea, autonomous region_
+_Context: autonomous region, Vasyl Dzharty, Ukraine, Prime Minister of Crimea_
 
 ##### Singapore
 ### [Singapore's Presidential Elections Committee approves four presidential candidates for the presidential election on August 27: Tony Tan Keng Yam, Tan Cheng Bock, Tan Kin Lian and Tan Jee Say. ](/news/2011/08/17/singapore-s-presidential-elections-committee-approves-four-presidential-candidates-for-the-presidential-election-on-august-27-tony-tan-keng.md)
-_Context: Tony Tan Keng Yam, presidential election, Tan Jee Say, Singapore, Tan Cheng Bock, Tan Kin Lian, Presidential Elections Committee_
+_Context: Tony Tan Keng Yam, Tan Cheng Bock, presidential election, Presidential Elections Committee, Singapore, Tan Jee Say, Tan Kin Lian_
 
 ## [Previous Day...](/news/2011/08/16/index.md)
 

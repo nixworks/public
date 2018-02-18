@@ -5,7 +5,7 @@ Formats: [HTML](2015/07/10/index.html)  [JSON](2015/07/10/index.json)  [XML](201
 
 ##### War in Somalia (2009-present)
 ### [ Al Shabaab militants have stormed two hotels in Somalia's capital Mogadishu killing at least 10 civilians. ](/news/2015/07/10/al-shabaab-militants-have-stormed-two-hotels-in-somalia-s-capital-mogadishu-killing-at-least-10-civilians.md)
-_Context: Al-Shabaab, Mogadishu, Somalia, War in Somalia (2009-present)_
+_Context: Mogadishu, Al-Shabaab, War in Somalia (2009-present), Somalia_
 
 ##### Islamic State in Iraq and the Levant
 ### [Turkey arrests 21 people with alleged links to Daesh (ISIL). ](/news/2015/07/10/turkey-arrests-21-people-with-alleged-links-to-daesh-isil.md)
@@ -45,15 +45,15 @@ The ruling junta in the Southeast Asian country ordered 100 ethnic Uighur Muslim
 
 ##### FBI
 ### [The Federal Bureau of Investigation admits that Dylann Roof, the suspect in the Charleston church shooting, should not have passed a background check to obtain a gun licence. ](/news/2015/07/10/the-federal-bureau-of-investigation-admits-that-dylann-roof-the-suspect-in-the-charleston-church-shooting-should-not-have-passed-a-backgro.md)
-_Context: FBI, Dylann Roof, Charleston church shooting, background check_
+_Context: Dylann Roof, Charleston church shooting, background check, FBI_
 
 ##### Katherine Archuleta
 ### [Katherine Archuleta resigns as the director of the United States Office of Personnel Management following the hacking of 21.5 million data records. ](/news/2015/07/10/katherine-archuleta-resigns-as-the-director-of-the-united-states-office-of-personnel-management-following-the-hacking-of-21-5-million-data-r.md)
-_Context: Office of Personnel Management data breach, United States Office of Personnel Management, Katherine Archuleta_
+_Context: Katherine Archuleta, Office of Personnel Management data breach, United States Office of Personnel Management_
 
 ##### Charleston church shooting
 ### [Following public outcry after the Charleston church shooting, the Confederate Battle Flag is lowered at the South Carolina State House after 54 years. ](/news/2015/07/10/following-public-outcry-after-the-charleston-church-shooting-the-confederate-battle-flag-is-lowered-at-the-south-carolina-state-house-after.md)
-_Context: South Carolina State House, Charleston church shooting, Confederate Battle Flag_
+_Context: Charleston church shooting, Confederate Battle Flag, South Carolina State House_
 
 ##### Barack Obama
 ### [US President Barack Obama signs an executive order picking Berryessa Snow Mountain (California), Waco Mammoth Site (Texas), and Basin and Range (Nevada) as three national monuments. ](/news/2015/07/10/us-president-barack-obama-signs-an-executive-order-picking-berryessa-snow-mountain-california-waco-mammoth-site-texas-and-basin-and-ra.md)

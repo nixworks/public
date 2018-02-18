@@ -5,19 +5,19 @@ Formats: [HTML](2011/10/8/index.html)  [JSON](2011/10/8/index.json)  [XML](2011/
 
 ##### Civil war
 ### [2011 Libyan civil war: After a lengthy and bloody siege, National Transitional Council forces approach the center of the city of Sirte, facing heavy resistance from troops loyal to the ousted dictator Muammar Gaddafi. ](/news/2011/10/8/2011-libyan-civil-war-after-a-lengthy-and-bloody-siege-national-transitional-council-forces-approach-the-center-of-the-city-of-sirte-faci.md)
-_Context: Muammar Gaddafi, civil war, National Transitional Council, Sirte_
+_Context: Sirte, National Transitional Council, Muammar Gaddafi, civil war_
 
 ##### Afghan
 ### [Rocket fire and gunshots are reported in the Afghan city of Kandahar. ](/news/2011/10/8/rocket-fire-and-gunshots-are-reported-in-the-afghan-city-of-kandahar.md)
-_Context: Kandahar, Afghan_
+_Context: Afghan, Kandahar_
 
 ##### United Nations High Commissioner for Refugees
 ### [The United Nations High Commissioner for Refugees opens a new refugee camp in western Ethiopia for refugees from Sudan and South Sudan. ](/news/2011/10/8/the-united-nations-high-commissioner-for-refugees-opens-a-new-refugee-camp-in-western-ethiopia-for-refugees-from-sudan-and-south-sudan.md)
-_Context: South Sudan, Ethiopia, United Nations High Commissioner for Refugees, refugee camp, Sudan_
+_Context: refugee camp, South Sudan, Sudan, United Nations High Commissioner for Refugees, Ethiopia_
 
 ##### Indonesian police
 ### [Indonesian police arrest four people in connection with the suicide bombing of a mosque in Cirebon, West Java. ](/news/2011/10/8/indonesian-police-arrest-four-people-in-connection-with-the-suicide-bombing-of-a-mosque-in-cirebon-west-java.md)
-_Context: Indonesian police, Cirebon, suicide bombing, West Java, mosque_
+_Context: Indonesian police, West Java, suicide bombing, mosque, Cirebon_
 
 ## [Previous Day...](/news/2011/10/7/index.md)
 

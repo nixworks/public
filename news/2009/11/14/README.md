@@ -5,7 +5,7 @@ Formats: [HTML](2009/11/14/index.html)  [JSON](2009/11/14/index.json)  [XML](200
 
 ##### New Zealand national football team
 ### [ New Zealand qualify for the 2010 FIFA World Cup for the first time since 1982, by defeating Bahrain in a playoff billed as "the biggest sporting event ever staged in New Zealand" and the country's most attended football match ever. ](/news/2009/11/14/new-zealand-qualify-for-the-2010-fifa-world-cup-for-the-first-time-since-1982-by-defeating-bahrain-in-a-playoff-billed-as-the-biggest-spo.md)
-_Context: 2010 FIFA World Cup, Bahrain, New Zealand national football team_
+_Context: Bahrain, 2010 FIFA World Cup, New Zealand national football team_
 
 ##### Evangelist
 ### [ U.S. evangelist Tony Alamo is sentenced to 175 years in prison for taking underage girls across several states for sexual intercourse. ](/news/2009/11/14/u-s-evangelist-tony-alamo-is-sentenced-to-175-years-in-prison-for-taking-underage-girls-across-several-states-for-sexual-intercourse.md)
@@ -17,15 +17,15 @@ _Context: Ogaden National Liberation Front, Ethiopia, Somalia_
 
 ##### Peru
 ### [ A Peruvian court orders the arrest of two Chilean military officers on charges of spying, causing a diplomatic row between the two countries. ](/news/2009/11/14/a-peruvian-court-orders-the-arrest-of-two-chilean-military-officers-on-charges-of-spying-causing-a-diplomatic-row-between-the-two-countrie.md)
-_Context: Peru, spy, Chile_
+_Context: Chile, spy, Peru_
 
 ##### Saudi Arabia
 ### [ Two Saudi soldiers are killed and five wounded killed in fighting with Houthi rebels in northern Yemen. ](/news/2009/11/14/two-saudi-soldiers-are-killed-and-five-wounded-killed-in-fighting-with-houthi-rebels-in-northern-yemen.md)
-_Context: Houthi, Shia insurgency in Yemen, Yemen, Saudi Arabia_
+_Context: Houthi, Yemen, Saudi Arabia, Shia insurgency in Yemen_
 
 ##### Ultra-orthodox
 ### [ More than 1,000 ultra-Orthodox Jews demonstrate outside the offices of U.S. firm Intel in Israel in protest at work taking place at the site on the Jewish Sabbath. ](/news/2009/11/14/more-than-1-000-ultra-orthodox-jews-demonstrate-outside-the-offices-of-u-s-firm-intel-in-israel-in-protest-at-work-taking-place-at-the-sit.md)
-_Context: ultra-orthodox, Jew, Intel, United States, Sabbath, Israel_
+_Context: Intel, ultra-orthodox, Sabbath, United States, Israel, Jew_
 
 ##### Shooting range
 ### [ A fire at a shooting range in Busan, South Korea, kills 10 people, including two Japanese tourists, and injures six others. ](/news/2009/11/14/a-fire-at-a-shooting-range-in-busan-south-korea-kills-10-people-including-two-japanese-tourists-and-injures-six-others.md)
@@ -33,7 +33,7 @@ A fire that swept through a South Korean indoor shooting range killed at least 1
 
 ##### Slovenia
 ### [ Slovenia signs an agreement with Russia to allow the South Stream gas pipeline to Europe pass through the country. ](/news/2009/11/14/slovenia-signs-an-agreement-with-russia-to-allow-the-south-stream-gas-pipeline-to-europe-pass-through-the-country.md)
-_Context: South Stream, Russia, Slovenia_
+_Context: Russia, Slovenia, South Stream_
 
 ##### Taipei
 ### [ Thousands of protesters demonstrate in Taipei, Taiwan, against imports of certain U.S. beef products. ](/news/2009/11/14/thousands-of-protesters-demonstrate-in-taipei-taiwan-against-imports-of-certain-u-s-beef-products.md)
@@ -45,7 +45,7 @@ _Context: India, Jaipur_
 
 ##### United Nations
 ### [ The United Nations chief of the Food and Agriculture Organization completes a 24 hour hunger strike in Rome, Italy, ahead of a UN summit next week. ](/news/2009/11/14/the-united-nations-chief-of-the-food-and-agriculture-organization-completes-a-24-hour-hunger-strike-in-rome-italy-ahead-of-a-un-summit-ne.md)
-_Context: Rome, Italy, Italy, hunger strike, United Nations, Food and Agriculture Organization_
+_Context: Rome, Italy, Food and Agriculture Organization, Italy, United Nations, hunger strike_
 
 ##### Peshawar
 ### [ At least 11 people are killed and 24 injured after a bomb explodes in Peshawar, Pakistan. ](/news/2009/11/14/at-least-11-people-are-killed-and-24-injured-after-a-bomb-explodes-in-peshawar-pakistan.md)
@@ -61,7 +61,7 @@ A veteran climber was found dead in the Himalayas today, days after he was injur
 
 ##### Sweden
 ### [ Sweden returns 22 skulls taken by Swedish scientists from indigenous cemeteries in Hawaii during the 19th century. ](/news/2009/11/14/sweden-returns-22-skulls-taken-by-swedish-scientists-from-indigenous-cemeteries-in-hawaii-during-the-19th-century.md)
-_Context: Sweden, Hawaii_
+_Context: Hawaii, Sweden_
 
 ##### Russia
 ### [ Russian authorities in Perm detain three homeless males on charges of murder, cannibalism and the unlawful selling of body parts to a kebab shop. ](/news/2009/11/14/russian-authorities-in-perm-detain-three-homeless-males-on-charges-of-murder-cannibalism-and-the-unlawful-selling-of-body-parts-to-a-kebab.md)

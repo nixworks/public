@@ -13,7 +13,7 @@ _Context: Israeli Air Force, Sdot Negev Regional Council, Gaza, Izz ad-Din al-Qa
 
 ##### Japan
 ### [Japan's Nikkei 225 improves by six per cent as concerns over the 2011 Tohoku earthquake and tsunami on the economy are reduced. ](/news/2011/03/16/japan-s-nikkei-225-improves-by-six-per-cent-as-concerns-over-the-2011-tahoku-earthquake-and-tsunami-on-the-economy-are-reduced.md)
-_Context: 2011 Tohoku earthquake and tsunami, Nikkei 225, Japanese economy, Japan_
+_Context: 2011 Tohoku earthquake and tsunami, Japanese economy, Japan, Nikkei 225_
 
 ##### Yen
 ### [The Japanese yen reaches a postwar high against the United States dollar on the basis that Japanese insurers will redeem overseas assets to pay for the cost of the Tohoku earthquake and tsunami. ](/news/2011/03/16/the-japanese-yen-reaches-a-postwar-high-against-the-united-states-dollar-on-the-basis-that-japanese-insurers-will-redeem-overseas-assets-to.md)
@@ -33,15 +33,15 @@ Cambodian police ask prosecutors to charge a recruitment firm with illegally det
 
 ##### Raymond Davis
 ### [Raymond Davis, an official with the United States embassy in Pakistan, is acquitted of charges of two counts of murder and released from jail after compensation is paid to the victims' families, the result of intense diplomatic talks between the United States and Pakistan.](/news/2011/03/16/raymond-davis-an-official-with-the-united-states-embassy-in-pakistan-is-acquitted-of-charges-of-two-counts-of-murder-and-released-from-jai.md)
-_Context: Pakistan, United States, Raymond Davis_
+_Context: Raymond Davis, United States, Pakistan_
 
 ##### Hillary Clinton
 ### [Hillary Clinton, the United States Secretary of State, states that she will not serve a second term in President Obama's Cabinet if he is reelected in 2012 and will retire from public life. ](/news/2011/03/16/hillary-clinton-the-united-states-secretary-of-state-states-that-she-will-not-serve-a-second-term-in-president-obama-s-cabinet-if-he-is-re.md)
-_Context: United States presidential election, 2012, United States Secretary of State, U.S. President, Barack Obama, Hillary Clinton_
+_Context: Hillary Clinton, U.S. President, United States presidential election, 2012, United States Secretary of State, Barack Obama_
 
 ##### Governor
 ### [The Governor of Michigan Rick Snyder signs legislation giving enhanced powers to emergency managers appointed to manage cities and schools including the power to terminate union contracts. ](/news/2011/03/16/the-governor-of-michigan-rick-snyder-signs-legislation-giving-enhanced-powers-to-emergency-managers-appointed-to-manage-cities-and-schools-i.md)
-_Context: labour unions, Rick Snyder, Governor_
+_Context: labour unions, Governor, Rick Snyder_
 
 ## [Previous Day...](/news/2011/03/15/index.md)
 

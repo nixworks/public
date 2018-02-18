@@ -13,7 +13,7 @@ A bomb attack inside a shopping mall in one of the most exclusive areas of Colom
 
 ##### USS ''Fitzgerald'' and MV ''ACX Crystal'' collision
 ### [The USS "Fitzgerald", a United States Navy destroyer, collides with a merchant ship MV "ACX Crystal" off the coast of Japan at around 2:30 a.m. local time, with seven American sailors reported missing. The ship was taking on water and able to operate at limited propulsion. ](/news/2017/06/17/the-uss-fitzgerald-a-united-states-navy-destroyer-collides-with-a-merchant-ship-mv-acx-crystal-off-the-coast-of-japan-at-around-2-30-a.md)
-_Context: USS ''Fitzgerald'', MV ''ACX Crysta''l, Japan, United States Navy, collides, USS ''Fitzgerald'' and MV ''ACX Crystal'' collision_
+_Context: collides, USS ''Fitzgerald'', United States Navy, MV ''ACX Crysta''l, USS ''Fitzgerald'' and MV ''ACX Crystal'' collision, Japan_
 
 ##### Climate of Chile
 ### [Four people are killed as intense rains and snowstorms hit central and southern Chile. About 3,000 people are homeless, and hundreds of thousands have lost power. ](/news/2017/06/17/four-people-are-killed-as-intense-rains-and-snowstorms-hit-central-and-southern-chile-about-3-000-people-are-homeless-and-hundreds-of-thou.md)
@@ -29,7 +29,7 @@ The official response to the Grenfell Tower catastrophe &ldquo;was not good enou
 
 ##### Shooting of Philando Castile
 ### [Minnesota State Patrol, after issuing three warnings, arrest 18 people who were blocking Interstate 94 in St. Paul. A peaceful protest started following Friday's acquittal of St. Anthony police officer Jeronimo Yanez, who was charged with manslaughter in the fatal shooting of Philando Castile. ](/news/2017/06/17/minnesota-state-patrol-after-issuing-three-warnings-arrest-18-people-who-were-blocking-interstate-94-in-st-paul-a-peaceful-protest-start.md)
-_Context: Interstate 94, St. Anthony, Minnesota State Patrol, St. Paul, Shooting of Philando Castile_
+_Context: St. Paul, Minnesota State Patrol, St. Anthony, Shooting of Philando Castile, Interstate 94_
 
 ##### Bill Cosby sexual assault allegations
 ### [The trial against comedian Bill Cosby at the Montgomery County Courthouse ends with a hung jury and the consequent declaration of a mistrial. ](/news/2017/06/17/the-trial-against-comedian-bill-cosby-at-the-montgomery-county-courthouse-ends-with-a-hung-jury-and-the-consequent-declaration-of-a-mistrial.md)

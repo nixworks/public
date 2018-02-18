@@ -9,15 +9,15 @@ Pro-democracy protests which swept the Arab world earlier in the year have erupt
 
 ##### NYSE Euronext
 ### [NYSE Euronext and Deutsche Boerse AG, two exchange operating concerns planning a merger, receive a statement of objections to that merger from the European Union's business regulators. ](/news/2011/10/5/nyse-euronext-and-deutsche-boerse-ag-two-exchange-operating-concerns-planning-a-merger-receive-a-statement-of-objections-to-that-merger-fr.md)
-_Context: European Union, NYSE Euronext, Deutsche Boerse AG_
+_Context: Deutsche Boerse AG, NYSE Euronext, European Union_
 
 ##### Labor union
 ### [Various American labor unions, including the CWA and the ATU, join the Occupy Wall Street demonstrations in New York City. ](/news/2011/10/5/various-american-labor-unions-including-the-cwa-and-the-atu-join-the-occupy-wall-street-demonstrations-in-new-york-city.md)
-_Context: New York City, ATU, labor union, Occupy Wall Street, union_
+_Context: Occupy Wall Street, union, ATU, New York City, labor union_
 
 ##### Steve Jobs
 ### [Steve Jobs, the co-founder of Apple Inc., dies of pancreatic cancer. ](/news/2011/10/5/steve-jobs-the-co-founder-of-apple-inc-dies-of-pancreatic-cancer.md)
-_Context: Apple Inc., pancreatic cancer, Steve Jobs_
+_Context: pancreatic cancer, Steve Jobs, Apple Inc._
 
 ##### Thailand
 ### [In Thailand, more than 200 people are killed by floods during a severe monsoon season, with 58 of the country's 77 provinces affected. ](/news/2011/10/5/in-thailand-more-than-200-people-are-killed-by-floods-during-a-severe-monsoon-season-with-58-of-the-country-s-77-provinces-affected.md)
@@ -25,7 +25,7 @@ The severe monsoon season in Thailand has killed more than 200 people, in the wo
 
 ##### Astrolabe Reef
 ### [A container ship runs aground on a reef off the coast of Tauranga, New Zealand, causing a large oil spill into the Bay of Plenty and affecting wildlife. ](/news/2011/10/5/a-container-ship-runs-aground-on-a-reef-off-the-coast-of-tauranga-new-zealand-causing-a-large-oil-spill-into-the-bay-of-plenty-and-affecti.md)
-_Context: Bay of Plenty, Tauranga, Astrolabe Reef, crude oil, New Zealand_
+_Context: Tauranga, Astrolabe Reef, Bay of Plenty, crude oil, New Zealand_
 
 ##### Mekong River massacre
 ### [In the Mekong River massacre, two Chinese cargo boats are hijacked and 13 crew members murdered in the Golden Triangle region of Southeast Asia. ](/news/2011/10/5/in-the-mekong-river-massacre-two-chinese-cargo-boats-are-hijacked-and-13-crew-members-murdered-in-the-golden-triangle-region-of-southeast-a.md)
@@ -45,7 +45,7 @@ Airliners will be grounded, trains halted and tax offices shut when Greek state 
 
 ##### Luis Fortuo
 ### [Luis Fortuo, the Governor of the US Commonwealth of Puerto Rico, submits a plan for a two-part referendum to change the islands's status. ](/news/2011/10/5/luis-fortuno-the-governor-of-the-us-commonwealth-of-puerto-rico-submits-a-plan-for-a-two-part-referendum-to-change-the-islands-s-status.md)
-_Context: islands's status, Puerto Rico Governor, Luis Fortuo, referendum, Puerto Rico_
+_Context: islands's status, Luis Fortuo, referendum, Puerto Rico Governor, Puerto Rico_
 
 ##### Governor of Alabama
 ### [The Governor of the US state of Alabama, Robert Bentley, orders flags on state government buildings to fly at half-mast following the death of civil rights leader Fred Shuttlesworth. ](/news/2011/10/5/the-governor-of-the-us-state-of-alabama-robert-bentley-orders-flags-on-state-government-buildings-to-fly-at-half-mast-following-the-death.md)
@@ -57,7 +57,7 @@ Former Alaska Governor Sarah Palin declares she will not run for the White House
 
 ##### Israel
 ### [Israeli scientist Daniel Shechtman wins the 2011 Nobel Prize for Chemistry for the discovery of quasicrystals. ](/news/2011/10/5/israeli-scientist-daniel-shechtman-wins-the-2011-nobel-prize-for-chemistry-for-the-discovery-of-quasicrystals.md)
-_Context: quasicrystal, Nobel Prize for Chemistry, Daniel Shechtman, Israel_
+_Context: Daniel Shechtman, quasicrystal, Israel, Nobel Prize for Chemistry_
 
 ## [Previous Day...](/news/2011/10/4/index.md)
 

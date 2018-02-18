@@ -5,7 +5,7 @@ Formats: [HTML](2011/05/15/index.html)  [JSON](2011/05/15/index.json)  [XML](201
 
 ##### Saudi Arabia
 ### [Saudi armored vehicles roll into the city of Sitra as fresh video footage of atrocities committed by Saudi-backed Bahraini forces surface. ](/news/2011/05/15/saudi-armored-vehicles-roll-into-the-city-of-sitra-as-fresh-video-footage-of-atrocities-committed-by-saudi-backed-bahraini-forces-surface.md)
-_Context: Bahrain, Saudi Arabia, Sitra_
+_Context: Sitra, Bahrain, Saudi Arabia_
 
 ##### Muslim
 ### [Muslim mobs attack Christian protesters calling for the Egyptian government to take action to reduce religious tensions in Cairo; 65 people are injured. ](/news/2011/05/15/muslim-mobs-attack-christian-protesters-calling-for-the-egyptian-government-to-take-action-to-reduce-religious-tensions-in-cairo-65-people.md)
@@ -33,7 +33,7 @@ _Context: Yemen_
 
 ##### Uganda
 ### [Ugandan opposition leader Kizza Besigye says the government may fall amid ongoing protests, unless President Yoweri Museveni offers concessions. ](/news/2011/05/15/ugandan-opposition-leader-kizza-besigye-says-the-government-may-fall-amid-ongoing-protests-unless-president-yoweri-museveni-offers-concessi.md)
-_Context: Uganda, Yoweri Museveni, Kizza Besigye_
+_Context: Kizza Besigye, Uganda, Yoweri Museveni_
 
 ##### Tunisia
 ### [Tunisian security forces arrest two suspected members of Al Qaeda in the Islamic Maghreb carrying bombs and explosives near the city of Ramada. ](/news/2011/05/15/tunisian-security-forces-arrest-two-suspected-members-of-al-qaeda-in-the-islamic-maghreb-carrying-bombs-and-explosives-near-the-city-of-rama.md)
@@ -41,7 +41,7 @@ Tunisian security forces havearrested two people suspected of being members of a
 
 ##### Caserio La Bomba
 ### [29 people are decapitated in a massacre in Caserio La Bomba, Peten, Guatemala, in an atrocity possibly linked to the Los Zetas Cartel. ](/news/2011/05/15/29-people-are-decapitated-in-a-massacre-in-caserio-la-bomba-peta-c-n-guatemala-in-an-atrocity-possibly-linked-to-the-los-zetas-cartel.md)
-_Context: Los Zetas Cartel, Caserio La Bomba, Guatemala, Peten_
+_Context: Peten, Guatemala, Caserio La Bomba, Los Zetas Cartel_
 
 ##### Bob Dylan
 ### [Singer Bob Dylan denies censoring his shows while performing in China. ](/news/2011/05/15/singer-bob-dylan-denies-censoring-his-shows-while-performing-in-china.md)
@@ -53,11 +53,11 @@ The head of the International Monetary Fund, Dominique Strauss-Kahn, faces sex a
 
 ##### Sony
 ### [Sony starts restoring its PlayStation Network following the recent PlayStation Network outage on a country-by-country basis, with all services to be restored by the end of May. ](/news/2011/05/15/sony-starts-restoring-its-playstation-network-following-the-recent-playstation-network-outage-on-a-country-by-country-basis-with-all-servic.md)
-_Context: Sony, PlayStation Network outage, PlayStation Network_
+_Context: Sony, PlayStation Network, PlayStation Network outage_
 
 ##### Demining
 ### [Three de-miners are killed in an explosion during landmine detection and removal operations in Kampong Speu Province, western Cambodia. ](/news/2011/05/15/three-de-miners-are-killed-in-an-explosion-during-landmine-detection-and-removal-operations-in-kampong-speu-province-western-cambodia.md)
-_Context: demining, landmine, Cambodia, Kampong Speu Province_
+_Context: demining, Cambodia, landmine, Kampong Speu Province_
 
 ##### Morganza Spillway
 ### [The Morganza Spillway on the Mississippi River has been opened for the first time in 37 years, deliberately flooding 3,000 square miles of rural Louisiana to save most of Baton Rouge and New Orleans. ](/news/2011/05/15/the-morganza-spillway-on-the-mississippi-river-has-been-opened-for-the-first-time-in-37-years-deliberately-flooding-3-000-square-miles-of-r.md)
@@ -65,15 +65,15 @@ Residents of towns along the swollen Mississippi River on Sunday packed up their
 
 ##### Aurora
 ### [Six people are killed in an apartment fire in the city of Aurora in the US state of Illinois. ](/news/2011/05/15/six-people-are-killed-in-an-apartment-fire-in-the-city-of-aurora-in-the-us-state-of-illinois.md)
-_Context: Aurora, US state, Illinois_
+_Context: US state, Illinois, Aurora_
 
 ##### Canadian
 ### [More than a thousand people are evacuated from the Canadian town of Slave Lake, Alberta, due to a wildfire. ](/news/2011/05/15/more-than-a-thousand-people-are-evacuated-from-the-canadian-town-of-slave-lake-alberta-due-to-a-wildfire.md)
-_Context: wildfire, Alberta, Slave Lake, Canadian_
+_Context: Slave Lake, wildfire, Canadian, Alberta_
 
 ##### United Nations
 ### [A United Nations report alleges that Iran and North Korea have been secretly exchanging ballistic missile technology. ](/news/2011/05/15/a-united-nations-report-alleges-that-iran-and-north-korea-have-been-secretly-exchanging-ballistic-missile-technology.md)
-_Context: Iran, ballistic missile, United Nations, North Korea_
+_Context: Iran, North Korea, ballistic missile, United Nations_
 
 ##### The New York Times
 ### ["The New York Times" reports that private military company Xe Services LLC (previously Blackwater Worldwide) is putting together an army of mercenaries in the United Arab Emirates. ](/news/2011/05/15/the-new-york-times-reports-that-private-military-company-xe-services-llc-previously-blackwater-worldwide-is-putting-together-an-army-of.md)
@@ -81,7 +81,7 @@ Erik Prince has been hired to assemble a force of foreign troops in the United A
 
 ##### Nabil el-Araby
 ### [Nabil el-Araby is elected as Secretary General of the Arab League, succeeding Amr Moussa, who will run as a candidate in the Egyptian presidential election in September. ](/news/2011/05/15/nabil-el-araby-is-elected-as-secretary-general-of-the-arab-league-succeeding-amr-moussa-who-will-run-as-a-candidate-in-the-egyptian-presid.md)
-_Context: Secretary General, Amr Moussa, Egyptian presidential election in September, Arab League, Nabil el-Araby_
+_Context: Amr Moussa, Secretary General, Arab League, Egyptian presidential election in September, Nabil el-Araby_
 
 ##### Fiji
 ### [Fiji declares Lieutenant Colonel Ratu Tevita Uluilakeba Mara a fugitive after he flees the country with the help of the Royal Tongan Navy. He had been charged a week earlier with mutiny and attempting to overthrow the Fijian government. ](/news/2011/05/15/fiji-declares-lieutenant-colonel-ratu-tevita-uluilakeba-mara-a-fugitive-after-he-flees-the-country-with-the-help-of-the-royal-tongan-navy-h.md)
@@ -101,7 +101,7 @@ The Bulgarian man accused of stabbing and beheading a UK woman in a shop on the 
 
 ##### M-Bone
 ### [US rapper M-Bone, of the hip hop group Cali Swag District, is killed in a drive-by shooting in the Los Angeles suburb of Inglewood. ](/news/2011/05/15/us-rapper-m-bone-of-the-hip-hop-group-cali-swag-district-is-killed-in-a-drive-by-shooting-in-the-los-angeles-suburb-of-inglewood.md)
-_Context: Inglewood, Los Angeles, California, hip hop, M-Bone, drive-by shooting, Cali Swag District_
+_Context: Cali Swag District, drive-by shooting, hip hop, Inglewood, Los Angeles, California, M-Bone_
 
 ##### Iran
 ### [The Iranian Supreme Leader, Ayatollah Ali Khamenei, publicly accuses President Mahmoud Ahmadinejad of being "under a spell", amid a deepening political crisis in the country. ](/news/2011/05/15/the-iranian-supreme-leader-ayatollah-ali-khamenei-publicly-accuses-president-mahmoud-ahmadinejad-of-being-under-a-spell-amid-a-deepenin.md)
@@ -109,7 +109,7 @@ The former spiritual mentor to Iran&#039;s President Mahmoud Ahmadinejad has pub
 
 ##### Michel Martelly
 ### [Michel Martelly is sworn in as the democratically-elected President of Haiti. ](/news/2011/05/15/michel-martelly-is-sworn-in-as-the-democratically-elected-president-of-haiti.md)
-_Context: President of Haiti, Haiti, Michel Martelly, democratically-elected_
+_Context: Michel Martelly, President of Haiti, Haiti, democratically-elected_
 
 ##### Switzerland
 ### [In Switzerland, the people of Zurich vote to reject a ban on assisted suicide in the country, and also reject the restricting of assisted suicide to Zurich residents only. British pro-euthanasia group Dignity in Dying hails the result as a "brave decision". ](/news/2011/05/15/in-switzerland-the-people-of-zurich-vote-to-reject-a-ban-on-assisted-suicide-in-the-country-and-also-reject-the-restricting-of-assisted-su.md)

@@ -9,7 +9,7 @@ Twenty-one skulls believed to be the remains of soldiers loyal to ousted former 
 
 ##### United States
 ### [The United States stops shipping supplies to Afghanistan through Pakistan due to protests over drone attacks. ](/news/2013/12/4/the-united-states-stops-shipping-supplies-to-afghanistan-through-pakistan-due-to-protests-over-drone-attacks.md)
-_Context: drones launch, Afghan, Pakistan, United States_
+_Context: drones launch, United States, Pakistan, Afghan_
 
 ##### Pakistan
 ### [Thirteen people are killed as a result of targetted shootings in Pakistan's biggest city Karachi. ](/news/2013/12/4/thirteen-people-are-killed-as-a-result-of-targetted-shootings-in-pakistan-s-biggest-city-karachi.md)

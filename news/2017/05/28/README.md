@@ -5,11 +5,11 @@ Formats: [HTML](2017/05/28/index.html)  [JSON](2017/05/28/index.json)  [XML](201
 
 ##### Communist rebels
 ### [The government of the Philippines and the Communist Party cancel peace talks after president Rodrigo Duterte declares martial law in Mindanao. ](/news/2017/05/28/the-government-of-the-philippines-and-the-communist-party-cancel-peace-talks-after-president-rodrigo-duterte-declares-martial-law-in-mindana.md)
-_Context: Philippines, communist rebels, Communist, martial law, Rodrigo Duterte, Mindanao, Philippine government_
+_Context: Philippine government, Rodrigo Duterte, martial law, Mindanao, communist rebels, Communist, Philippines_
 
 ##### Marawi crisis
 ### [The Philippine military announces that it has discovered the bodies of 16 people, believed to have been killed by the ISIL affiliated Abu Sayyaf. Authorities say that the death toll after six days of fighting is 95, including 19 civilians. ](/news/2017/05/28/the-philippine-military-announces-that-it-has-discovered-the-bodies-of-16-people-believed-to-have-been-killed-by-the-isil-affiliated-abu-sa.md)
-_Context: Abu Sayyaf, Marawi crisis, ISIL_
+_Context: ISIL, Abu Sayyaf, Marawi crisis_
 
 ##### ''The Square''
 ### ["The Square", a Swedish film directed by Ruben stlund, wins the "Palme d'Or", the top award at the Cannes Film Festival. ](/news/2017/05/28/the-square-a-swedish-film-directed-by-ruben-ostlund-wins-the-palme-d-or-the-top-award-at-the-cannes-film-festival.md)

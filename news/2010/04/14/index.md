@@ -13,7 +13,7 @@ _Context: West Bengal, a powerful storm, India_
 
 ##### Kyrgyzstan
 ### [Kyrgyzstan's interim leader Roza Otunbayeva says that President Kurmanbek Bakiyev must stand trial over riots last week. ](/news/2010/04/14/kyrgyzstan-s-interim-leader-roza-otunbayeva-says-that-president-kurmanbek-bakiyev-must-stand-trial-over-riots-last-week.md)
-_Context: the recent unrest, Roza Otunbayeva, president, Kurmanbek Bakiyev, Kyrgyzstan_
+_Context: Kurmanbek Bakiyev, the recent unrest, president, Roza Otunbayeva, Kyrgyzstan_
 
 ##### Eyjafjallajokull
 ### [Eruption in glacier volcano Eyjafjallajokull, Iceland, enters a new phase, causing local evacuations. ](/news/2010/04/14/eruption-in-glacier-volcano-eyjafjallajapkull-iceland-enters-a-new-phase-causing-local-evacuations.md)
@@ -21,19 +21,19 @@ _Context: Iceland, Eyjafjallajokull_
 
 ##### Barack Obama
 ### [It is reported that U.S. President Barack Obama on Thursday will unveil a "bold and daring" new space mission to send astronauts to Mars months after he controversially scrapped a project to return to the Moon. ](/news/2010/04/14/it-is-reported-that-u-s-president-barack-obama-on-thursday-will-unveil-a-bold-and-daring-new-space-mission-to-send-astronauts-to-mars-mon.md)
-_Context: Mars, Barack Obama_
+_Context: Barack Obama, Mars_
 
 ##### Lech Kaczynski
 ### [Controversy arises over the decision to bury Polish President Lech Kaczynski in Wawel Cathedral in Krakow--a place reserved for Poland's kings and heroes. Hundreds of people have taken to the streets in protest, and thousands have joined an internet campaign objecting to the plan. ](/news/2010/04/14/controversy-arises-over-the-decision-to-bury-polish-president-lech-kaczyaski-in-wawel-cathedral-in-kraka3waa-place-reserved-for-poland-s.md)
-_Context: Wawel Cathedral, Poland, Lech Kaczynski_
+_Context: Poland, Lech Kaczynski, Wawel Cathedral_
 
 ##### Tokelau
 ### [Tokelau outlaws whaling within its territorial waters. ](/news/2010/04/14/tokelau-outlaws-whaling-within-its-territorial-waters.md)
-_Context: whaling, Tokelau_
+_Context: Tokelau, whaling_
 
 ##### Liberal Democrats
 ### [The Liberal Democrats send out a "four step" manifesto plan to "hardwire fairness into British society". Leader Nick Clegg says his policies, including raising the state pension and a tax cut for low and middle earners, combined "hope and credibility". ](/news/2010/04/14/the-liberal-democrats-send-out-a-four-step-manifesto-plan-to-hardwire-fairness-into-british-society-leader-nick-clegg-says-his-policies.md)
-_Context: Liberal Democrats, Nick Clegg_
+_Context: Nick Clegg, Liberal Democrats_
 
 ##### Holy See
 ### [The Vatican seeks to "clarify" remarks made by a senior cardinal, who linked homosexuality with paedophilia in the abuse scandal facing the Church. ](/news/2010/04/14/the-vatican-seeks-to-clarify-remarks-made-by-a-senior-cardinal-who-linked-homosexuality-with-paedophilia-in-the-abuse-scandal-facing-the.md)

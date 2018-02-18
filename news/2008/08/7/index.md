@@ -9,7 +9,7 @@ _Context: Tskhinvali_
 
 ##### State Attorney General
 ### [ The New York State Attorney General Andrew Cuomo reaches a $7 billion settlement with Citigroup to buy back auction rate securities from about 40,000 clients throughout the United States. ](/news/2008/08/7/the-new-york-state-attorney-general-andrew-cuomo-reaches-a-7-billion-settlement-with-citigroup-to-buy-back-auction-rate-securities-from-ab.md)
-_Context: State Attorney General, Citigroup, auction rate securities, United States, Andrew Cuomo_
+_Context: Andrew Cuomo, United States, State Attorney General, auction rate securities, Citigroup_
 
 ##### Unemployment benefits
 ### [ Claims for unemployment benefits in the United States rise to 455,000, the highest level since March 2002. ](/news/2008/08/7/claims-for-unemployment-benefits-in-the-united-states-rise-to-455-000-the-highest-level-since-march-2002.md)
@@ -29,7 +29,7 @@ _Context: coup d'tat_
 
 ##### Seek the impeachment
 ### [ Pakistan's ruling coalition announces it will seek the impeachment of President Pervez Musharraf. ](/news/2008/08/7/pakistan-s-ruling-coalition-announces-it-will-seek-the-impeachment-of-president-pervez-musharraf.md)
-_Context: seek the impeachment, Pervez Musharraf_
+_Context: Pervez Musharraf, seek the impeachment_
 
 ## [Previous Day...](/news/2008/08/6/index.md)
 

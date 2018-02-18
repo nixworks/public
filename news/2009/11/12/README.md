@@ -9,7 +9,7 @@ The vessels, one meant to take part in attacks on American cities, were captured
 
 ##### United States soldier
 ### [ United States Army Major Nidal Malik Hasan will face 13 charges of murder for the Fort Hood shooting. ](/news/2009/11/12/united-states-army-major-nidal-malik-hasan-will-face-13-charges-of-murder-for-the-fort-hood-shooting.md)
-_Context: Fort Hood massacre, Nidal Malik Hasan, United States soldier, Major_
+_Context: Fort Hood massacre, United States soldier, Major, Nidal Malik Hasan_
 
 ##### United States
 ### [ United States Federal prosecutors begin legal action to seize properties owned by the Alavi Foundation on the grounds that it has ties with Iran. ](/news/2009/11/12/united-states-federal-prosecutors-begin-legal-action-to-seize-properties-owned-by-the-alavi-foundation-on-the-grounds-that-it-has-ties-with.md)
@@ -21,11 +21,11 @@ _Context: Michael Martin, Scottish Labour Party, Speaker of the British House of
 
 ##### Russia
 ### [ Russian President Dmitry Medvedev calls for an overhaul of the Russian economy and democratic modernisation in an annual state of nation address. ](/news/2009/11/12/russian-president-dmitry-medvedev-calls-for-an-overhaul-of-the-russian-economy-and-democratic-modernisation-in-an-annual-state-of-nation-ad.md)
-_Context: Russia, Russian economy, Russian President, Dmitry Medvedev_
+_Context: Dmitry Medvedev, Russian President, Russian economy, Russia_
 
 ##### Sri Lanka
 ### [ The head of the Sri Lankan armed forces Sarath Fonseka resigns over reports he is suspected to contest the next presidential election. ](/news/2009/11/12/the-head-of-the-sri-lankan-armed-forces-sarath-fonseka-resigns-over-reports-he-is-suspected-to-contest-the-next-presidential-election.md)
-_Context: Sri Lanka, armed forces, Sarath Fonseka_
+_Context: Sri Lanka, Sarath Fonseka, armed forces_
 
 ##### United States
 ### [ U.S.-based rights group Human Rights Watch accuses Chinese authorities of running illegal "black jails" where Chinese citizens are detained for bringing up local complaints. ](/news/2009/11/12/u-s-based-rights-group-human-rights-watch-accuses-chinese-authorities-of-running-illegal-black-jails-where-chinese-citizens-are-detained.md)
@@ -33,7 +33,7 @@ They travel thousands of miles to Beijing to bring their problems – land-grabb
 
 ##### Sheikh
 ### [ Sheikh Mohamed Abdi Aware, a Somali judge known for issuing tough sentences to pirates and Islamists, is shot dead in Somalia's Puntland region. ](/news/2009/11/12/sheikh-mohamed-abdi-aware-a-somali-judge-known-for-issuing-tough-sentences-to-pirates-and-islamists-is-shot-dead-in-somalia-s-puntland-re.md)
-_Context: Puntland, Somali pirates, Somalia, Islam, Sheikh_
+_Context: Puntland, Somali pirates, Sheikh, Islam, Somalia_
 
 ##### Killed in an illegal mine collapse
 ### [ At least 18 people are killed in an illegal mine collapse in western Ghana, Ghana's most devastating mining tragedy. ](/news/2009/11/12/at-least-18-people-are-killed-in-an-illegal-mine-collapse-in-western-ghana-ghana-s-most-devastating-mining-tragedy.md)
@@ -45,7 +45,7 @@ _Context: Nepal, President, Maoist supporters_
 
 ##### President of Palau
 ### [ Former President of Palau Tommy Remengesau is convicted of 12 ethics code violations. ](/news/2009/11/12/former-president-of-palau-tommy-remengesau-is-convicted-of-12-ethics-code-violations.md)
-_Context: Tommy Remengesau, President of Palau_
+_Context: President of Palau, Tommy Remengesau_
 
 ##### Venezuela
 ### [ The government of Venezuela nationalizes the Fama de America and Cafea coffee producers. ](/news/2009/11/12/the-government-of-venezuela-nationalizes-the-fama-de-america-and-cafea-coffee-producers.md)

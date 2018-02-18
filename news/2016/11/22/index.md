@@ -17,7 +17,7 @@ More than 50 cars crash on a motorway in northern China, killing 17 people.
 
 ##### 2016 Atlantic hurricane season
 ### [Hurricane Otto impacts Panama. A tropical storm watch is issued for Nicaragua from Bluefields to Sandy Bay Sirpi. ](/news/2016/11/22/hurricane-otto-impacts-panama-a-tropical-storm-watch-is-issued-for-nicaragua-from-bluefields-to-sandy-bay-sirpi.md)
-_Context: Bluefields, Hurricane Otto, Panama, 2016 Atlantic hurricane season, Nicaragua_
+_Context: Bluefields, Nicaragua, Panama, 2016 Atlantic hurricane season, Hurricane Otto_
 
 ##### European migrant crisis
 ### [Rescuers recovered 8 bodies and saved 1400 migrants adrift on the Mediterranean Sea today. ](/news/2016/11/22/rescuers-recovered-8-bodies-and-saved-1400-migrants-adrift-on-the-mediterranean-sea-today.md)

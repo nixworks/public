@@ -13,7 +13,7 @@ Prime Minister Julia Gillard says Australia will withdraw its troops from Afghan
 
 ##### Palestinian inmates held in Israeli jails
 ### [Palestinian inmates held in Israeli jails from Hamas, Islamic Jihad, the PFLP and the DFLP go on hunger strike on the Palestinian "Prisoners' Day". Thousands of people rally in towns and cities in both the West Bank and the Gaza Strip in support of their action, waving Palestinian flags and displaying photos of imprisoned relatives. ](/news/2012/04/17/palestinian-inmates-held-in-israeli-jails-from-hamas-islamic-jihad-the-pflp-and-the-dflp-go-on-hunger-strike-on-the-palestinian-prisoners.md)
-_Context: West Bank, PFLP, Palestinian inmates held in Israeli jails, hunger strike, Hamas, Gaza Strip, Hamas, DFLP_
+_Context: Palestinian inmates held in Israeli jails, PFLP, Hamas, hunger strike, DFLP, Gaza Strip, West Bank, Hamas_
 
 ##### Hezbollah
 ### [Hezbollah leader Hassan Nasrallah announces that Hezbollah are willing to mediate between the Syrian government and the opposition, in his first interview with the West in six years, in the first episode of a new interview show "The World Tomorrow", hosted by Julian Assange. ](/news/2012/04/17/hezbollah-leader-hassan-nasrallah-announces-that-hezbollah-are-willing-to-mediate-between-the-syrian-government-and-the-opposition-in-his-f.md)
@@ -33,7 +33,7 @@ Adele, Kate Bush and PJ Harvey will battle it out for best album at the Ivor Nov
 
 ##### Orange Prize for Fiction
 ### [The shortlist for the Orange Prize for Fiction is announced, featuring Ann Patchett and Anne Enright. ](/news/2012/04/17/the-shortlist-for-the-orange-prize-for-fiction-is-announced-featuring-ann-patchett-and-anne-enright.md)
-_Context: Ann Patchett, Anne Enright, Orange Prize for Fiction_
+_Context: Orange Prize for Fiction, Ann Patchett, Anne Enright_
 
 ##### St Cuthbert Gospel
 ### [The St Cuthbert Gospel, the oldest intact European book, is to stay on UK territory due to the GBP9 million raised for purchase by the British Library. ](/news/2012/04/17/the-st-cuthbert-gospel-the-oldest-intact-european-book-is-to-stay-on-uk-territory-due-to-the-agbp9-million-raised-for-purchase-by-the-brit.md)
@@ -65,7 +65,7 @@ West African nation barred from regional bloc a week after military leaders seiz
 
 ##### Mali
 ### [Mali appoints Cheick Modibo Diarra, Microsoft chairman for Africa and a former NASA astrophysicist, as its interim prime minister after a coup d'etat. ](/news/2012/04/17/mali-appoints-cheick-modibo-diarra-microsoft-chairman-for-africa-and-a-former-nasa-astrophysicist-as-its-interim-prime-minister-after-a-co.md)
-_Context: Mali's coup, Mali, Microsoft, NASA, Cheick Modibo Diarra_
+_Context: Mali, NASA, Microsoft, Mali's coup, Cheick Modibo Diarra_
 
 ##### Israeli Prime Minister
 ### [Israeli Prime Minister Benjamin Netanyahu receives a Palestinian delegation delivering a letter from Palestinian Authority President Mahmoud Abbas detailing his demands for restarting peace talks after previous negotiations on a two-state solution stalled. ](/news/2012/04/17/israeli-prime-minister-benjamin-netanyahu-receives-a-palestinian-delegation-delivering-a-letter-from-palestinian-authority-president-mahmoud.md)

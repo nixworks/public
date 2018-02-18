@@ -13,11 +13,11 @@ _Context: Ronnie Wood, The Rolling Stones_
 
 ##### Mesozygiella dunlopi
 ### [ Two specimens of "Mesozygiella dunlopi", dating to the Early Cretaceous and the oldest known orb-weaver spiders, are discovered in amber. ](/news/2006/06/14/two-specimens-of-mesozygiella-dunlopi-dating-to-the-early-cretaceous-and-the-oldest-known-orb-weaver-spiders-are-discovered-in-amber.md)
-_Context: amber, Early Cretaceous, orb-weaver spider, Mesozygiella dunlopi_
+_Context: orb-weaver spider, Early Cretaceous, amber, Mesozygiella dunlopi_
 
 ##### Islamic Courts Union
 ### [ The Islamic Courts Union captures the Somali town Jowhar from the secular warlords of the Alliance for the Restoration of Peace and Counter-Terrorism, one week after taking over Mogadishu. ](/news/2006/06/14/the-islamic-courts-union-captures-the-somali-town-jowhar-from-the-secular-warlords-of-the-alliance-for-the-restoration-of-peace-and-counter.md)
-_Context: Somalia, Jowhar, Islamic Courts Union, Mogadishu, Alliance for the Restoration of Peace and Counter-Terrorism_
+_Context: Mogadishu, Jowhar, Alliance for the Restoration of Peace and Counter-Terrorism, Islamic Courts Union, Somalia_
 
 ##### Abu Bakar Bashir
 ### [ Abu Bakar Bashir is released from prison after serving a 26 month sentence for his role in the 2002 Bali bombing. ](/news/2006/06/14/abu-bakar-bashir-is-released-from-prison-after-serving-a-26-month-sentence-for-his-role-in-the-2002-bali-bombing.md)

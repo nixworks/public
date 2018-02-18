@@ -21,27 +21,27 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Operation Autumn Clouds
 ### [ Operation Autumn Clouds: Israeli forces have mounted a series of air strikes as part of an ongoing Gaza offensive, killing at least eight.](/news/2006/11/4/operation-autumn-clouds-israeli-forces-have-mounted-a-series-of-air-strikes-as-part-of-an-ongoing-gaza-offensive-killing-at-least-eight.md)
-_Context: Operation Autumn Clouds, Israel, air strikes, Gaza Strip_
+_Context: Israel, Operation Autumn Clouds, Gaza Strip, air strikes_
 
 ##### Israel
 ### [ Two women have been killed as Israeli troops opened fire on a crowd of women gathered to help besieged gunmen flee a mosque in Beit Hanoun in northern Gaza. ](/news/2006/11/4/two-women-have-been-killed-as-israeli-troops-opened-fire-on-a-crowd-of-women-gathered-to-help-besieged-gunmen-flee-a-mosque-in-beit-hanoun.md)
-_Context: Gaza Strip, Israel, Beit Hanoun, mosque_
+_Context: Israel, mosque, Gaza Strip, Beit Hanoun_
 
 ##### Israeli Prime Minister
 ### [ Former Prime Minister of Israel Ariel Sharon is admitted to the intensive care unit of the Sheba Medical Center near Tel Aviv with a chest infection. ](/news/2006/11/4/former-prime-minister-of-israel-ariel-sharon-is-admitted-to-the-intensive-care-unit-of-the-sheba-medical-center-near-tel-aviv-with-a-chest.md)
-_Context: Sheba Medical Center, Ariel Sharon, Israeli Prime Minister, Tel Aviv, intensive care unit_
+_Context: Israeli Prime Minister, Sheba Medical Center, Ariel Sharon, intensive care unit, Tel Aviv_
 
 ##### Hu Jintao
 ### [ Hu Jintao, the President of the People's Republic of China, promises to double foreign aid to Africa at a conference attended by many of the top African leaders. ](/news/2006/11/4/hu-jintao-the-president-of-the-people-s-republic-of-china-promises-to-double-foreign-aid-to-africa-at-a-conference-attended-by-many-of-th.md)
-_Context: Hu Jintao, Chinese President, foreign aid, Africa_
+_Context: Hu Jintao, Africa, foreign aid, Chinese President_
 
 ##### United Nations High Commissioner for Refugees
 ### [ The United Nations High Commissioner for Refugees says that the humanitarian crisis in Iraq is greater than at the beginning of the war on Iraq with 1.6 million Iraqis displaced internally and 1.8 million in overseas countries. ](/news/2006/11/4/the-united-nations-high-commissioner-for-refugees-says-that-the-humanitarian-crisis-in-iraq-is-greater-than-at-the-beginning-of-the-war-on.md)
-_Context: United Nations High Commissioner for Refugees, Iraq, war on Iraq_
+_Context: United Nations High Commissioner for Refugees, war on Iraq, Iraq_
 
 ##### Fiji
 ### [ Fijian Prime Minister Laisenia Qarase drops amnesty provisions for the leaders of the 2000 coup after threats from the military to remove him from office. ](/news/2006/11/4/fijian-prime-minister-laisenia-qarase-drops-amnesty-provisions-for-the-leaders-of-the-2000-coup-after-threats-from-the-military-to-remove-h.md)
-_Context: Fiji, Laisenia Qarase, Prime Minister, 2000 coup, military government_
+_Context: Laisenia Qarase, Prime Minister, military government, 2000 coup, Fiji_
 
 ## [Previous Day...](/news/2006/11/3/index.md)
 

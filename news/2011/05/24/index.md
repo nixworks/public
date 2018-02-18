@@ -5,15 +5,15 @@ Formats: [HTML](2011/05/24/index.html)  [JSON](2011/05/24/index.json)  [XML](201
 
 ##### Tunisia
 ### [Clashes break out in southern Tunisia between local residents and Libyan refugees fleeing that country's civil war. ](/news/2011/05/24/clashes-break-out-in-southern-tunisia-between-local-residents-and-libyan-refugees-fleeing-that-country-s-civil-war.md)
-_Context: Tunisia, Libya, civil war_
+_Context: Libya, civil war, Tunisia_
 
 ##### 2011 Yemeni protests
 ### [Fresh clashes take place in Yemen between police and opposition tribesmen who have taken control of several government buildings in the capital Sana'a. ](/news/2011/05/24/fresh-clashes-take-place-in-yemen-between-police-and-opposition-tribesmen-who-have-taken-control-of-several-government-buildings-in-the-capi.md)
-_Context: Yemen, Sana'a, 2011 Yemeni protests_
+_Context: 2011 Yemeni protests, Sana'a, Yemen_
 
 ##### Muammar Gaddafi
 ### [Smoke is seen rising from Muammar Gaddafi's compound in Tripoli, Libya, following a NATO airstrike which reportedly kills three people. ](/news/2011/05/24/smoke-is-seen-rising-from-muammar-gaddafi-s-compound-in-tripoli-libya-following-a-nato-airstrike-which-reportedly-kills-three-people.md)
-_Context: Muammar Gaddafi, Libya, compound, NATO, Tripoli_
+_Context: compound, Libya, NATO, Tripoli, Muammar Gaddafi_
 
 ##### Suicide bomber
 ### [A suicide bomber attacks the headquarters of Kazakhstan's security service, causing casualties. ](/news/2011/05/24/a-suicide-bomber-attacks-the-headquarters-of-kazakhstan-s-security-service-causing-casualties.md)
@@ -29,7 +29,7 @@ Rights groups say they have documented names of civilians allegedly killed by se
 
 ##### United Nations
 ### [The United Nations claims that about 20,000 people have fled the Abyei region for Agok in Southern Sudan after Sudanese forces took control. ](/news/2011/05/24/the-united-nations-claims-that-about-20-000-people-have-fled-the-abyei-region-for-agok-in-southern-sudan-after-sudanese-forces-took-control.md)
-_Context: Agok, Abyei, United Nations, Southern Sudan, Sudan_
+_Context: Southern Sudan, United Nations, Abyei, Agok, Sudan_
 
 ##### Oprah Winfrey
 ### [US television personality Oprah Winfrey records the final episode of "The Oprah Winfrey Show". ](/news/2011/05/24/us-television-personality-oprah-winfrey-records-the-final-episode-of-the-oprah-winfrey-show.md)
@@ -69,7 +69,7 @@ Barack Obama has met the Queen and senior royals at the start of a three-day sta
 
 ##### Malaysia
 ### [Malaysian authorities break up a mass gathering of Shiite Muslims, detaining four. ](/news/2011/05/24/malaysian-authorities-break-up-a-mass-gathering-of-shiite-muslims-detaining-four.md)
-_Context: Muslim, Shia, Malaysia_
+_Context: Malaysia, Shia, Muslim_
 
 ##### Somalia
 ### [Security forces in Somalia seize two planes carrying ransom money for pirates, and detain six foreigners. ](/news/2011/05/24/security-forces-in-somalia-seize-two-planes-carrying-ransom-money-for-pirates-and-detain-six-foreigners.md)
@@ -89,7 +89,7 @@ A police officer is to be charged with manslaughter over the death of newspaper 
 
 ##### Thailand
 ### [Thai authorities lift a special security law used to curtail violent demonstrations ahead of elections on 3 July. ](/news/2011/05/24/thai-authorities-lift-a-special-security-law-used-to-curtail-violent-demonstrations-ahead-of-elections-on-3-july.md)
-_Context: special security law, Thailand_
+_Context: Thailand, special security law_
 
 ##### Political prisoner
 ### [More than 30 political prisoners go on hunger strike at Insein Prison in Burma to protest against their treatment. ](/news/2011/05/24/more-than-30-political-prisoners-go-on-hunger-strike-at-insein-prison-in-burma-to-protest-against-their-treatment.md)
@@ -109,7 +109,7 @@ The morning after Democrat Kathy Hochul used the Medicare issue to win what had 
 
 ##### Soyuz TMA-20
 ### [The Soyuz TMA-20 spacecraft, carrying half of the members of Expedition 27 back from their crew rotation aboard the International Space Station, lands safely in Kazakhstan. ](/news/2011/05/24/the-soyuz-tma-20-spacecraft-carrying-half-of-the-members-of-expedition-27-back-from-their-crew-rotation-aboard-the-international-space-stat.md)
-_Context: International Space Station, Expedition 27, Kazakhstan, Soyuz TMA-20_
+_Context: Expedition 27, Soyuz TMA-20, International Space Station, Kazakhstan_
 
 ## [Previous Day...](/news/2011/05/23/index.md)
 

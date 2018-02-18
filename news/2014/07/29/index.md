@@ -13,7 +13,7 @@ IDF carries out heaviest strikes to date in northern Gaza. Territory plunged int
 
 ##### Iraqi Army
 ### [An Iraqi Army raid on jihadist targets in a town southwest of Baghdad kills at least 17 people. ](/news/2014/07/29/an-iraqi-army-raid-on-jihadist-targets-in-a-town-southwest-of-baghdad-kills-at-least-17-people.md)
-_Context: Iraqi Army, Baghdad_
+_Context: Baghdad, Iraqi Army_
 
 ##### Chinese
 ### [Dozens of people are dead after a mob armed with knives rampages through township of Elixku in China's restive Xinjiang region and is met with gunfire. ](/news/2014/07/29/dozens-of-people-are-dead-after-a-mob-armed-with-knives-rampages-through-township-of-elixku-in-china-s-restive-xinjiang-region-and-is-met-wi.md)
@@ -25,7 +25,7 @@ The killing of President Hamid Karzai&rsquo;s cousin Hashmat by a Taliban suicid
 
 ##### Ukrainian Culture Ministry
 ### [The Ukrainian Culture Ministry decides not to issue distribution licenses for two Russian films: "The White Guard", and a film about Ukrainan-born Soviet wrestler Ivan Poddubny, as they "show contempt for the Ukrainian language, people and the state," and "some facts are distorted to benefit Russia." ](/news/2014/07/29/the-ukrainian-culture-ministry-decides-not-to-issue-distribution-licenses-for-two-russian-films-the-white-guard-and-a-film-about-ukraina.md)
-_Context: Ukrainian Culture Ministry, The White Guard, Ivan Poddubny_
+_Context: Ukrainian Culture Ministry, Ivan Poddubny, The White Guard_
 
 ##### Heatwave
 ### [A heatwave in Japan has caused at least 15 deaths with more than 8000 hospitalised in the past week. ](/news/2014/07/29/a-heatwave-in-japan-has-caused-at-least-15-deaths-with-more-than-8000-hospitalised-in-the-past-week.md)

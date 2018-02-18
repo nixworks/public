@@ -5,7 +5,7 @@ Formats: [HTML](2010/09/14/index.html)  [JSON](2010/09/14/index.json)  [XML](201
 
 ##### Colombia
 ### [Three Colombian police officers were killed Monday during a suspected guerrilla attack near the Venezuelan border. ](/news/2010/09/14/three-colombian-police-officers-were-killed-monday-during-a-suspected-guerrilla-attack-near-the-venezuelan-border.md)
-_Context: Colombia, Venezuela_
+_Context: Venezuela, Colombia_
 
 ##### Indian-administered Kashmir
 ### [Indian police open fire on stone-throwing protesters in Indian-administered Kashmir, injuring 10 people. ](/news/2010/09/14/indian-police-open-fire-on-stone-throwing-protesters-in-indian-administered-kashmir-injuring-10-people.md)
@@ -13,15 +13,15 @@ _Context: Indian-administered Kashmir_
 
 ##### Palestinian
 ### [One Palestinian gunman is killed and four more are wounded in a Gaza firefight after launching RPGs and missiles at Israeli soldiers. ](/news/2010/09/14/one-palestinian-gunman-is-killed-and-four-more-are-wounded-in-a-gaza-firefight-after-launching-rpgs-and-missiles-at-israeli-soldiers.md)
-_Context: Palestinian, missiles, Israeli Army, rocket-propelled grenades, Gaza Strip_
+_Context: Gaza Strip, missiles, Palestinian, Israeli Army, rocket-propelled grenades_
 
 ##### French police
 ### [French police evacuate the Eiffel Tower and the surrounding Champ de Mars park in Paris following a bomb threat. ](/news/2010/09/14/french-police-evacuate-the-eiffel-tower-and-the-surrounding-champ-de-mars-park-in-paris-following-a-bomb-threat.md)
-_Context: Eiffel Tower, Champ de Mars, French police_
+_Context: Champ de Mars, Eiffel Tower, French police_
 
 ##### Kia
 ### [Kia Motors suspends exports to Iran partly in response to South Korea's sanctions against Iran's nuclear program. ](/news/2010/09/14/kia-motors-suspends-exports-to-iran-partly-in-response-to-south-korea-s-sanctions-against-iran-s-nuclear-program.md)
-_Context: Iran, Kia, nuclear program, sanctions_
+_Context: sanctions, nuclear program, Kia, Iran_
 
 ##### Virgin Blue
 ### [Virgin Blue fights for approval of its transtasman alliance with Air New Zealand. ](/news/2010/09/14/virgin-blue-fights-for-approval-of-its-transtasman-alliance-with-air-new-zealand.md)
@@ -29,7 +29,7 @@ Virgin Blue will keep fighting for approval of its transtasman alliance with Air
 
 ##### Cisco
 ### [Cisco Systems, the provider of computer networking products and services headquartered in San Jose, California, announced that it will break with a long-standing policy and issue a stock dividend during the current fiscal year. ](/news/2010/09/14/cisco-systems-the-provider-of-computer-networking-products-and-services-headquartered-in-san-jose-california-announced-that-it-will-break.md)
-_Context: stock dividend, Cisco, San Jose, California_
+_Context: Cisco, San Jose, California, stock dividend_
 
 ##### Pfizer
 ### [A study funded by Pfizer, makers of the smoking cessation drug Varenicline, claims it would be financially wise for governments to fund smoking cessation treatments. ](/news/2010/09/14/a-study-funded-by-pfizer-makers-of-the-smoking-cessation-drug-varenicline-claims-it-would-be-financially-wise-for-governments-to-fund-smok.md)
@@ -57,7 +57,7 @@ Sarah Shourd, held for over a year with two others on suspicion of spying, arriv
 
 ##### Viviane Reding
 ### [Viviane Reding, a Luxembourg politician and currently the European Commissioner for Justice, Fundamental Rights and Citizenship, describes France's deportation of Romani migrants as a "disgrace". ](/news/2010/09/14/viviane-reding-a-luxembourg-politician-and-currently-the-european-commissioner-for-justice-fundamental-rights-and-citizenship-describes-f.md)
-_Context: Commissioner for Justice, Fundamental Rights and Citizenship, deportation, Luxembourg, Roma, Viviane Reding_
+_Context: deportation, Commissioner for Justice, Fundamental Rights and Citizenship, Luxembourg, Roma, Viviane Reding_
 
 ##### Resume negotiations
 ### [A second round of Middle East peace talks between Israel and the Palestinian Authority concludes in Sharm el-Sheikh, Egypt. ](/news/2010/09/14/a-second-round-of-middle-east-peace-talks-between-israel-and-the-palestinian-authority-concludes-in-sharm-el-sheikh-egypt.md)
@@ -73,7 +73,7 @@ Peruvian President Alan Garcia names Jose Chang as his new prime minister as par
 
 ##### Guinea
 ### [The head of Guinea's electoral commission who was convicted for electoral fraud, Ben Sekou Sylla, dies, ahead of a presidential run-off on Sunday. ](/news/2010/09/14/the-head-of-guinea-s-electoral-commission-who-was-convicted-for-electoral-fraud-ben-sekou-sylla-dies-ahead-of-a-presidential-run-off-on-s.md)
-_Context: Guinea, November's presidential poll_
+_Context: November's presidential poll, Guinea_
 
 ##### Senate
 ### [France passes a resolution banning full face veils after a 246-1 vote in the Senate. The law must still be reviewed by the Constitutional Council before coming into effect. ](/news/2010/09/14/france-passes-a-resolution-banning-full-face-veils-after-a-246-1-vote-in-the-senate-the-law-must-still-be-reviewed-by-the-constitutional-co.md)
@@ -93,11 +93,11 @@ U.S. Defense Secretary Robert Gates Tuesday gave a taste of his $100 billion, fi
 
 ##### Cecilia Romero
 ### [Cecilia Romero resigns as the head of the Mexican National Institute of Migration in the wake of massacre of 72 migrants at the hands of a drug cartel. ](/news/2010/09/14/cecilia-romero-resigns-as-the-head-of-the-mexican-national-institute-of-migration-in-the-wake-of-massacre-of-72-migrants-at-the-hands-of-a-d.md)
-_Context: drug cartel, National Institute of Migration, Cecilia Romero_
+_Context: National Institute of Migration, Cecilia Romero, drug cartel_
 
 ##### Christine O'Donnell
 ### [Christine O'Donnell is elected the Republican Party candidate in the Delaware US Senate race. ](/news/2010/09/14/christine-o-donnell-is-elected-the-republican-party-candidate-in-the-delaware-us-senate-race.md)
-_Context: Christine O'Donnell, US Senate race, Delaware, Republican_
+_Context: Delaware, US Senate race, Christine O'Donnell, Republican_
 
 ## [Previous Day...](/news/2010/09/13/index.md)
 

@@ -17,11 +17,11 @@ Fierce clashes between troops and rebels erupted on Thursday for the first time 
 
 ##### U.S.
 ### [U.S. jobless claims fall to their lowest level in five years. ](/news/2013/05/2/u-s-jobless-claims-fall-to-their-lowest-level-in-five-years.md)
-_Context: jobless claims, U.S._
+_Context: U.S., jobless claims_
 
 ##### Intel
 ### [Intel elects American Brian Krzanich as their new CEO. ](/news/2013/05/2/intel-elects-american-brian-krzanich-as-their-new-ceo.md)
-_Context: Intel, CEO, Brian Krzanich, Americans_
+_Context: Brian Krzanich, CEO, Intel, Americans_
 
 ##### Gold mine
 ### [More than 60 miners die when a recently reopened gold mine collapses in Jebel Amir, North Darfur, Sudan. ](/news/2013/05/2/more-than-60-miners-die-when-a-recently-reopened-gold-mine-collapses-in-jebel-amir-north-darfur-sudan.md)
@@ -45,15 +45,15 @@ The US calls on North Korea to grant amnesty to US citizen Kenneth Bae, sentence
 
 ##### Bush Intercontinental Airport
 ### [A man fires two shots into the ceiling of Bush Intercontinental Airport in Houston, Texas, United States with a rifle before killing himself. ](/news/2013/05/2/a-man-fires-two-shots-into-the-ceiling-of-bush-intercontinental-airport-in-houston-texas-united-states-with-a-rifle-before-killing-himself.md)
-_Context: Texas, Houston, United States, Bush Intercontinental Airport_
+_Context: Bush Intercontinental Airport, Texas, United States, Houston_
 
 ##### Maryland
 ### [The U.S. state of Maryland abolishes capital punishment for future offenders. ](/news/2013/05/2/the-u-s-state-of-maryland-abolishes-capital-punishment-for-future-offenders.md)
-_Context: Maryland, capital punishment_
+_Context: capital punishment, Maryland_
 
 ##### U.S. Court of Appeals for the Second Circuit
 ### [The U.S. Court of Appeals for the Second Circuit rules that five relatives of Osama bin Laden and a construction company started by his father cannot be held liable for the September 11, 2001 terrorist attacks. ](/news/2013/05/2/the-u-s-court-of-appeals-for-the-second-circuit-rules-that-five-relatives-of-osama-bin-laden-and-a-construction-company-started-by-his-fath.md)
-_Context: U.S. Court of Appeals for the Second Circuit, September 11, 2001 terrorist attacks, Osama bin Laden_
+_Context: Osama bin Laden, September 11, 2001 terrorist attacks, U.S. Court of Appeals for the Second Circuit_
 
 ##### English
 ### [English broadcaster Stuart Hall pleads guilty to 14 charges of sexual assault. ](/news/2013/05/2/english-broadcaster-stuart-hall-pleads-guilty-to-14-charges-of-sexual-assault.md)
@@ -69,7 +69,7 @@ A special aircraft carrying the body of Sarabjit Singh, the Indian prisoner who 
 
 ##### U.S.
 ### [The U.S. state of Rhode Island becomes the tenth state to legalize same-sex marriage. ](/news/2013/05/2/the-u-s-state-of-rhode-island-becomes-the-tenth-state-to-legalize-same-sex-marriage.md)
-_Context: Same-sex marriage in the United States, Rhode Island, U.S._
+_Context: U.S., Same-sex marriage in the United States, Rhode Island_
 
 ##### Kindergarten
 ### [Two kindergarteners are poisoned to death by the owner of a rival school in northern China. ](/news/2013/05/2/two-kindergarteners-are-poisoned-to-death-by-the-owner-of-a-rival-school-in-northern-china.md)

@@ -73,7 +73,7 @@ _Context: Shooting of Tony Robinson, Wisconsin_
 
 ##### Hyon Yong-chol
 ### [South Korea claims that North Korea has executed its defense chief Hyon Yong-chol with an anti-aircraft gun. ](/news/2015/05/13/south-korea-claims-that-north-korea-has-executed-its-defense-chief-hyon-yong-chol-with-an-anti-aircraft-gun.md)
-_Context: anti-aircraft gun, Hyon Yong-chol_
+_Context: Hyon Yong-chol, anti-aircraft gun_
 
 ##### United States House of Representatives
 ### [The United States House of Representatives votes overwhelmingly to end the mass collection of Americans' phone data with the USA Freedom Act passing 338-88 (79%). The bill's passage through the Senate is less certain. ](/news/2015/05/13/the-united-states-house-of-representatives-votes-overwhelmingly-to-end-the-mass-collection-of-americans-phone-data-with-the-usa-freedom-act.md)

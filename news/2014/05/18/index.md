@@ -5,7 +5,7 @@ Formats: [HTML](2014/05/18/index.html)  [JSON](2014/05/18/index.json)  [XML](201
 
 ##### Khalifa Haftar
 ### [A group headed by Khalifa Haftar, which includes renegade Libyan general Mokhtar Farnana, launches an attack on the Parliament of Libya. ](/news/2014/05/18/a-group-headed-by-khalifa-haftar-which-includes-renegade-libyan-general-mokhtar-farnana-launches-an-attack-on-the-parliament-of-libya.md)
-_Context: Khalifa Haftar, heavy fighting, Parliament of Libya_
+_Context: heavy fighting, Parliament of Libya, Khalifa Haftar_
 
 ##### Nigeria
 ### [A blast hits the northern Nigerian city of Kano. ](/news/2014/05/18/a-blast-hits-the-northern-nigerian-city-of-kano.md)
@@ -25,7 +25,7 @@ _Context: Turkish police_
 
 ##### Fundacion
 ### [A bus in Fundacion, department of Magdalena, Colombia, ignites while transporting children from a religious service, killing 31 children. ](/news/2014/05/18/a-bus-in-fundacia3n-department-of-magdalena-colombia-ignites-while-transporting-children-from-a-religious-service-killing-31-children.md)
-_Context: Colombia, Fundacion, department of Magdalena_
+_Context: Colombia, department of Magdalena, Fundacion_
 
 ##### Chinese
 ### [More than 3,000 Chinese citizens are evacuated from Vietnam, with 2 Chinese killed and more than 100 injured in the riot last week following China drilling for oil in the South China Sea. ](/news/2014/05/18/more-than-3-000-chinese-citizens-are-evacuated-from-vietnam-with-2-chinese-killed-and-more-than-100-injured-in-the-riot-last-week-following.md)
@@ -33,7 +33,7 @@ More than 3,000 Chinese nationals have been evacuated from Vietnam, state news a
 
 ##### Switzerland
 ### [Voters in Switzerland resoundingly reject a proposed law change that would have given that country the world's highest minimum wage. ](/news/2014/05/18/voters-in-switzerland-resoundingly-reject-a-proposed-law-change-that-would-have-given-that-country-the-world-s-highest-minimum-wage.md)
-_Context: proposed law change, minimum wage, Switzerland_
+_Context: Switzerland, proposed law change, minimum wage_
 
 ## [Previous Day...](/news/2014/05/17/index.md)
 

@@ -9,11 +9,11 @@ Attacks by government forces and rebels killed at least 30 people, including eig
 
 ##### Attacks on secularists in Bangladesh
 ### [Ansar-al Islam, the Bangladeshi branch of al-Qaeda in the Indian Subcontinent, claims responsibility for yesterday's murder of USAID employee and LGBT activist Xulhaz Mannan and his friend, actor Tanay Majumder. ](/news/2016/04/26/ansar-al-islam-the-bangladeshi-branch-of-al-qaeda-in-the-indian-subcontinent-claims-responsibility-for-yesterday-s-murder-of-usaid-employe.md)
-_Context: Attacks on secularists in Bangladesh, al-Qaeda in the Indian Subcontinent, Xulhaz Mannan, Bangladesh, USAID_
+_Context: Attacks on secularists in Bangladesh, USAID, Xulhaz Mannan, al-Qaeda in the Indian Subcontinent, Bangladesh_
 
 ##### Ukraine
 ### [Ukraine commemorates the 30th anniversary of the Chernobyl disaster. ](/news/2016/04/26/ukraine-commemorates-the-30th-anniversary-of-the-chernobyl-disaster.md)
-_Context: Chernobyl disaster, Ukraine_
+_Context: Ukraine, Chernobyl disaster_
 
 ##### Collins-class submarine replacement project
 ### [The Prime Minister of Australia Malcolm Turnbull announces that French company DCNS has been awarded a $50 billion contract to build a new fleet of submarines for the Royal Australian Navy with the subs to be built in Adelaide. ](/news/2016/04/26/the-prime-minister-of-australia-malcolm-turnbull-announces-that-french-company-dcns-has-been-awarded-a-50-billion-contract-to-build-a-new-f.md)
@@ -29,7 +29,7 @@ _Context: National Health Service_
 
 ##### National Museum of Natural History
 ### [A massive fire severely damages the National Museum of Natural History in the Indian capital New Delhi. ](/news/2016/04/26/a-massive-fire-severely-damages-the-national-museum-of-natural-history-in-the-indian-capital-new-delhi.md)
-_Context: National Museum of Natural History, New Delhi, India_
+_Context: New Delhi, National Museum of Natural History, India_
 
 ##### North Korea's nuclear program
 ### [According to South Korea's Yonhap news agency, North Korea appears to be preparing a test-launch of an intermediate-range ballistic missile. This comes after what the United States described as the "fiery, catastrophic" failure of the first attempt a few days prior. ](/news/2016/04/26/according-to-south-korea-s-yonhap-news-agency-north-korea-appears-to-be-preparing-a-test-launch-of-an-intermediate-range-ballistic-missile.md)
@@ -41,7 +41,7 @@ BERLIN (AP) — Germany&#039;s foreign minister has expressed regret over the fa
 
 ##### Romania-United States relations
 ### [The United States deploys F-22 Raptor fighter jets to Romania's RoAF 86th Air Base, near the Black Sea, in a show of strength and cooperation against Russia. "The United States and Romania enjoy a very strong partnership," said Hans G. Klemm, the United States Ambassador to Romania. ](/news/2016/04/26/the-united-states-deploys-f-22-raptor-fighter-jets-to-romania-s-roaf-86th-air-base-near-the-black-sea-in-a-show-of-strength-and-cooperatio.md)
-_Context: Romania, Romania-United States relations, Hans G. Klemm, United States, Russia, Black Sea, F-22 Raptor, RoAF 86th Air Base, United States Ambassador to Romania_
+_Context: RoAF 86th Air Base, Romania-United States relations, Romania, F-22 Raptor, Russia, United States Ambassador to Romania, Hans G. Klemm, United States, Black Sea_
 
 ##### Supreme Court of Papua New Guinea
 ### [The Supreme Court of Papua New Guinea rules that Australia's detention of asylum seekers on Manus Island breaches the right to personal liberty under the constitution. ](/news/2016/04/26/the-supreme-court-of-papua-new-guinea-rules-that-australia-s-detention-of-asylum-seekers-on-manus-island-breaches-the-right-to-personal-libe.md)
@@ -53,7 +53,7 @@ Jury delivers decision about police action and other factors in the April 1989 c
 
 ##### Annexation of Crimea by the Russian Federation
 ### [After facing mounting pressure since Russia's annexation of Crimea in 2014, the Supreme Court of Crimea officially brands the Mejlis of the Crimean Tatar People an extremist organization and bans it. ](/news/2016/04/26/after-facing-mounting-pressure-since-russia-s-annexation-of-crimea-in-2014-the-supreme-court-of-crimea-officially-brands-the-mejlis-of-the.md)
-_Context: Annexation of Crimea by the Russian Federation, Crimea, Mejlis of the Crimean Tatar People_
+_Context: Mejlis of the Crimean Tatar People, Annexation of Crimea by the Russian Federation, Crimea_
 
 ##### Monte Tchota massacre
 ### [Eight soldiers and three civilians are killed at a military barracks in Cape Verde. The government says it suspects a missing disgruntled soldier is responsible for the incident. ](/news/2016/04/26/eight-soldiers-and-three-civilians-are-killed-at-a-military-barracks-in-cape-verde-the-government-says-it-suspects-a-missing-disgruntled-so.md)
@@ -65,11 +65,11 @@ Pennsylvania, Maryland, Connecticut, Rhode Island and Delaware take their turn i
 
 ##### Shi'ites
 ### [Tens of thousands of people, mostly Shi'ites, take to the streets of Baghdad, Iraq in a protest calling for Parliament to vote on a cabinet reshuffle. The protest was called for by powerful Shi'te Muslim critic Muqtada al-Sadr. The proposed cabinet reshuffle is aimed at fighting corruption in the midst of divisions between lawmakers that have hampered the work of the government. ](/news/2016/04/26/tens-of-thousands-of-people-mostly-shi-ites-take-to-the-streets-of-baghdad-iraq-in-a-protest-calling-for-parliament-to-vote-on-a-cabinet.md)
-_Context: Iraq, Baghdad, Iraqi Parliament, Muqtada al-Sadr, Shi'ites_
+_Context: Iraq, Muqtada al-Sadr, Iraqi Parliament, Shi'ites, Baghdad_
 
 ##### South Sudanese Civil War
 ### [Rebel leader Riek Machar arrives in the capital Juba and is immediately sworn is as Vice President upon arrival. It is hoped that this appointment will put an end to the civil war that has plagued the country since late 2013. ](/news/2016/04/26/rebel-leader-riek-machar-arrives-in-the-capital-juba-and-is-immediately-sworn-is-as-vice-president-upon-arrival-it-is-hoped-that-this-appoi.md)
-_Context: South Sudanese Civil War, Juba, Riek Machar, Vice-President_
+_Context: Riek Machar, Juba, South Sudanese Civil War, Vice-President_
 
 ##### European migrant crisis
 ### [Clashes break out between migrants and riot police at the Moria camp on the Greek island of Lesbos after a policeman reportedly hit a minor. The violence occurred as a Greek migration minister was visiting the center. Several refugees-migrants are reported injured. ](/news/2016/04/26/clashes-break-out-between-migrants-and-riot-police-at-the-ma2ria-camp-on-the-greek-island-of-lesbos-after-a-policeman-reportedly-hit-a-minor.md)

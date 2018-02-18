@@ -13,11 +13,11 @@ Militants unleashed a wave of deadly attacks in Baghdad on Tuesday, killing at l
 
 ##### South Korean Navy
 ### [The South Korean Navy fires warning shots at a North Korean fishing boat at the Northern Limit Line maritime border. ](/news/2010/11/3/the-south-korean-navy-fires-warning-shots-at-a-north-korean-fishing-boat-at-the-northern-limit-line-maritime-border.md)
-_Context: North Korea, South Korean Navy, Northern Limit Line, fishing boat_
+_Context: South Korean Navy, fishing boat, North Korea, Northern Limit Line_
 
 ##### Singapore
 ### [A Singapore court convicts British author Alan Shadrake of insulting the judicial system in his book "Once a Jolly Hangman: Singapore Justice in the Dock". ](/news/2010/11/3/a-singapore-court-convicts-british-author-alan-shadrake-of-insulting-the-judicial-system-in-his-book-once-a-jolly-hangman-singapore-justic.md)
-_Context: United Kingdom, Singapore, Alan Shadrake, judicial system_
+_Context: United Kingdom, Alan Shadrake, Singapore, judicial system_
 
 ##### Dublin
 ### [At least 25,000 students take to the streets of Dublin to protest against rising emigration, unemployment and an increase in university fees, in the largest such demonstration for a generation. ](/news/2010/11/3/at-least-25-000-students-take-to-the-streets-of-dublin-to-protest-against-rising-emigration-unemployment-and-an-increase-in-university-fees.md)
@@ -25,11 +25,11 @@ IN THE largest student protest for a generation, at least 25,000 voiced their op
 
 ##### Canadian government
 ### [The Government of Canada announces that it will block a $38.6bn hostile takeover bid by BHP Billiton for Potash Corporation. ](/news/2010/11/3/the-government-of-canada-announces-that-it-will-block-a-38-6bn-hostile-takeover-bid-by-bhp-billiton-for-potash-corporation.md)
-_Context: Potash Corporation, Canadian government, BHP Billiton_
+_Context: BHP Billiton, Canadian government, Potash Corporation_
 
 ##### United States Federal Reserve
 ### [The United States Federal Reserve announces its plan for further quantitative easing in a bid to ward off deflation. ](/news/2010/11/3/the-united-states-federal-reserve-announces-its-plan-for-further-quantitative-easing-in-a-bid-to-ward-off-deflation.md)
-_Context: United States Federal Reserve, quantitative easing, deflation_
+_Context: United States Federal Reserve, deflation, quantitative easing_
 
 ##### Iceland
 ### [The central bank of Iceland, i.e. the Sedlabanki, cuts its key interest rate to 5.50 percent, a somewhat deeper cut than had been expected. This is part of an ongoing policy of expanding the money supply in response to the crisis of 2008. ](/news/2010/11/3/the-central-bank-of-iceland-i-e-the-sedlabanki-cuts-its-key-interest-rate-to-5-50-percent-a-somewhat-deeper-cut-than-had-been-expected.md)
@@ -49,7 +49,7 @@ A new round of talks is scheduled to attempt to break an impasse in the dispute 
 
 ##### NATO
 ### [NATO's Secretary General Anders Fogh Rasmussen is to visit Russia to discuss the European missile defence project with President Medvedev. ](/news/2010/11/3/nato-s-secretary-general-anders-fogh-rasmussen-is-to-visit-russia-to-discuss-the-european-missile-defence-project-with-president-medvedev.md)
-_Context: Russia, NATO, Anders Fogh Rasmussen_
+_Context: Russia, Anders Fogh Rasmussen, NATO_
 
 ##### David Tamihere
 ### [David Tamihere is granted parole after serving 20 years imprisonment for the 1989 murders of two Swedish backpackers in New Zealand. ](/news/2010/11/3/david-tamihere-is-granted-parole-after-serving-20-years-imprisonment-for-the-1989-murders-of-two-swedish-backpackers-in-new-zealand.md)
@@ -65,7 +65,7 @@ San Francisco has become the first major U.S. city to pass a law that cracks dow
 
 ##### U.S. Border Patrol
 ### [The United States Border Patrol finds a sophisticated tunnel between Tijuana in Mexico and Otay Mesa, California, used by drug smugglers. ](/news/2010/11/3/the-united-states-border-patrol-finds-a-sophisticated-tunnel-between-tijuana-in-mexico-and-otay-mesa-california-used-by-drug-smugglers.md)
-_Context: U.S. Border Patrol, California, Mexico, drug smuggling, Otay Mesa, Tijuana_
+_Context: drug smuggling, California, U.S. Border Patrol, Mexico, Tijuana, Otay Mesa_
 
 ##### Constitutional referendum results
 ### [Constitutional referendum results in Niger show that 90% of voters approve a return to civilian rule from the Supreme Council for the Restoration of Democracy military junta. ](/news/2010/11/3/constitutional-referendum-results-in-niger-show-that-90-of-voters-approve-a-return-to-civilian-rule-from-the-supreme-council-for-the-restor.md)

@@ -5,11 +5,11 @@ Formats: [HTML](2012/07/29/index.html)  [JSON](2012/07/29/index.json)  [XML](201
 
 ##### Syria
 ### [Fierce fighting continues in Syria's second city of Aleppo. ](/news/2012/07/29/fierce-fighting-continues-in-syria-s-second-city-of-aleppo.md)
-_Context: Syria, Aleppo_
+_Context: Aleppo, Syria_
 
 ##### Sana'a
 ### [A security agent serving for the Italian embassy in Sana'a is kidnapped by gunmen in Yemen. ](/news/2012/07/29/a-security-agent-serving-for-the-italian-embassy-in-sana-a-is-kidnapped-by-gunmen-in-yemen.md)
-_Context: Sana'a, Yemen_
+_Context: Yemen, Sana'a_
 
 ##### Tropical Storm Khanun
 ### [Tropical Storm Khanun kills 88 people and leaves 60,000 homeless in North Korea, according to state media. ](/news/2012/07/29/tropical-storm-khanun-kills-88-people-and-leaves-60-000-homeless-in-north-korea-according-to-state-media.md)
@@ -29,7 +29,7 @@ _Context: Tokyo, parliament, Japan_
 
 ##### Hong Kong
 ### [Thousands of people protest against plans to introduce national patriotism lessons in Hong Kong schools, calling it Chinese propaganda. ](/news/2012/07/29/thousands-of-people-protest-against-plans-to-introduce-national-patriotism-lessons-in-hong-kong-schools-calling-it-chinese-propaganda.md)
-_Context: Chinese, Hong Kong_
+_Context: Hong Kong, Chinese_
 
 ##### Romania
 ### [Voters in Romania go to the polls for an impeachment referendum against the President of Romania Traian Basescu. ](/news/2012/07/29/voters-in-romania-go-to-the-polls-for-an-impeachment-referendum-against-the-president-of-romania-traian-basescu.md)
@@ -37,7 +37,7 @@ Turnout of less than 50% means Romanian President Traian Basescu survives a stro
 
 ##### Nature Geoscience
 ### [New research published in this week's "Nature Geoscience" details a mechanism by which carbon is drawn down from the surface of the Southern Ocean to deeper water below. ](/news/2012/07/29/new-research-published-in-this-week-s-nature-geoscience-details-a-mechanism-by-which-carbon-is-drawn-down-from-the-surface-of-the-southern.md)
-_Context: Nature Geoscience, Southern Ocean, carbon_
+_Context: carbon, Southern Ocean, Nature Geoscience_
 
 ## [Previous Day...](/news/2012/07/28/index.md)
 

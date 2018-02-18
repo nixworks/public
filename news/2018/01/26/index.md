@@ -9,7 +9,7 @@ President Tayyip Erdogan said on Friday Turkish forces would sweep Kurdish fight
 
 ##### Protests against Donald Trump
 ### [Celebrities Alyssa Milano, Michael Moore and Mark Ruffalo organize a "People's State of the Union"-themed concert on Monday in New York City. Common and Andra Day are scheduled to perform. ](/news/2018/01/26/celebrities-alyssa-milano-michael-moore-and-mark-ruffalo-organize-a-people-s-state-of-the-union-themed-concert-on-monday-in-new-york-city.md)
-_Context: Mark Ruffalo, Andra Day, Alyssa Milano, State of the Union, New York City, Common, Protests against Donald Trump, Michael Moore_
+_Context: Michael Moore, Alyssa Milano, State of the Union, Andra Day, Common, Mark Ruffalo, Protests against Donald Trump, New York City_
 
 ##### CSeries dumping petition by Boeing
 ### [The United States International Trade Commission votes 4-0 in favor of dismissing the Boeing Company's petition against Bombardier Inc. over alleged price dumping. ](/news/2018/01/26/the-united-states-international-trade-commission-votes-4a0-in-favor-of-dismissing-the-boeing-company-s-petition-against-bombardier-inc-ov.md)
@@ -45,7 +45,7 @@ Coincheck says it lost about 523 million of the cryptocurrency exchange&#039;s N
 
 ##### Political appointments by Donald Trump
 ### [U.S. President Donald Trump names former NASA astronaut James F. Reilly as leader of the U.S. Geological Survey. ](/news/2018/01/26/u-s-president-donald-trump-names-former-nasa-astronaut-james-f-reilly-as-leader-of-the-u-s-geological-survey.md)
-_Context: Donald Trump, U.S. Geological Survey, U.S. President, NASA, Political appointments by Donald Trump, James F. Reilly_
+_Context: Donald Trump, James F. Reilly, U.S. Geological Survey, NASA, Political appointments by Donald Trump, U.S. President_
 
 ## [Previous Day...](/news/2018/01/25/index.md)
 

@@ -25,7 +25,7 @@ Aly Ashraf Hassanein al Gharabli ran operations for an ISIS-linked militant grou
 
 ##### Civil war
 ### [At least 22 people are killed this week in a string of raids on villages in the Central African Republic. The escalation of violence threatens to derail a visit by Pope Francis and crucial elections scheduled for December 27, 2015. ](/news/2015/11/13/at-least-22-people-are-killed-this-week-in-a-string-of-raids-on-villages-in-the-central-african-republic-the-escalation-of-violence-threate.md)
-_Context: civil war, Central African Republic, Pope Francis_
+_Context: Central African Republic, civil war, Pope Francis_
 
 ##### Israeli-Palestinian conflict (2015)
 ### [40 year old Rabbi Ya'akov Litman and his 18 year-old son are shot dead by a Palestinian gunman, south of Hebron. ](/news/2015/11/13/40-year-old-rabbi-yaaakov-litman-and-his-18-year-old-son-are-shot-dead-by-a-palestinian-gunman-south-of-hebron.md)
@@ -37,7 +37,7 @@ Her father brought her diary to the world. Now, with the copyright expiring in E
 
 ##### South Korea
 ### [South Korean news agency Yonhap reports China's mobile phone users are discarding 80 million devices annually, but almost none are being recycled. China's recycling rate stands at 9-10 percent of the global recycling average. ](/news/2015/11/13/south-korean-news-agency-yonhap-reports-china-s-mobile-phone-users-are-discarding-80-million-devices-annually-but-almost-none-are-being-rec.md)
-_Context: mobile phone, South Korea, recycled, Chinese, Yonhap_
+_Context: recycled, mobile phone, Yonhap, Chinese, South Korea_
 
 ##### Nasdaq
 ### [Nasdaq is engaged in negotiations to buy the Canada unit of Chi-X Global Holdings. Chi-X is an important provider of alternative equity trading venues. ](/news/2015/11/13/nasdaq-is-engaged-in-negotiations-to-buy-the-canada-unit-of-chi-x-global-holdings-chi-x-is-an-important-provider-of-alternative-equity-trad.md)
@@ -57,15 +57,15 @@ A prominent Burundi opposition politician urged the United Nations on Friday to 
 
 ##### European migrant crisis
 ### [German Chancellor Angela Merkel asserts she still isn't prepared to name an upper limit to the number of refugees who can come to Germany, despite mounting domestic political pressure. ](/news/2015/11/13/german-chancellor-angela-merkel-asserts-she-still-isn-t-prepared-to-name-an-upper-limit-to-the-number-of-refugees-who-can-come-to-germany-d.md)
-_Context: German, European migrant crisis, Angela Merkel, Chancellor_
+_Context: Chancellor, Angela Merkel, European migrant crisis, German_
 
 ##### Syrian Civil War peace process
 ### [U.S. Secretary of State John Kerry meets in Vienna, Austria, with the foreign ministers of Turkey and Saudi Arabia, as well as the U.N. special envoy for Syria, ahead of Saturday's next round of international summits on the Syrian Civil War. The talks, aimed toward a cease-fire in Syria's devastating war and a political transition to a post-war government, will include senior officials from 19 nations-groups and, as in October, Iran will participate. ](/news/2015/11/13/u-s-secretary-of-state-john-kerry-meets-in-vienna-austria-with-the-foreign-ministers-of-turkey-and-saudi-arabia-as-well-as-the-u-n-spec.md)
-_Context: United States Secretary of State, Vienna, United Nations, Austria, Saudi Arabia, Syria, Turkey, Syrian Civil War peace process, Iran, John Kerry_
+_Context: Syrian Civil War peace process, United States Secretary of State, Turkey, Austria, Vienna, John Kerry, United Nations, Syria, Saudi Arabia, Iran_
 
 ##### Flight 9268
 ### [As a temporary security measure, effective Saturday, Russia bans incoming flights by Egypt's state-owned airline, EgyptAir, two weeks after an apparent terrorist bomb downed a Russian jet in the Sinai. ](/news/2015/11/13/as-a-temporary-security-measure-effective-saturday-russia-bans-incoming-flights-by-egypt-s-state-owned-airline-egyptair-two-weeks-after.md)
-_Context: Russia, Flight 9268, Sinai Peninsula, Egypt, EgyptAir_
+_Context: Sinai Peninsula, Russia, Egypt, EgyptAir, Flight 9268_
 
 ##### Dominican Republic
 ### [Police in the Dominican Republic raid a mansion owned by 30-year-old Francisco Flores de Freites, one of the two nephews of Venezuelan President Nicolas Maduro facing charges for allegedly trying to traffic 800 kg of cocaine into the U.S., and found more than 280 pounds of cocaine and 22 pounds of heroin hidden inside the nephew's posh Casa de Campo property and a 135-foot yacht named "The Kingdom" docked behind it. ](/news/2015/11/13/police-in-the-dominican-republic-raid-a-mansion-owned-by-30-year-old-francisco-flores-de-freites-one-of-the-two-nephews-of-venezuelan-presi.md)

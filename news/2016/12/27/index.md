@@ -9,7 +9,7 @@ At least 28 Huthi insurgents and 12 Yemeni soldiers were killed in clashes in th
 
 ##### Carrie Fisher
 ### [Carrie Fisher, the actress and writer best known for playing Princess Leia in the "Star Wars" franchise, dies following complications from a heart attack. ](/news/2016/12/27/carrie-fisher-the-actress-and-writer-best-known-for-playing-princess-leia-in-the-star-wars-franchise-dies-following-complications-from-a.md)
-_Context: Princess Leia, Star Wars, Carrie Fisher_
+_Context: Carrie Fisher, Princess Leia, Star Wars_
 
 ##### U.S. Federal Trade Commission
 ### [The U.S. Federal Trade Commission gives the antitrust go ahead to Abbott Laboratories in its acquisition of St. Jude Medical. ](/news/2016/12/27/the-u-s-federal-trade-commission-gives-the-antitrust-go-ahead-to-abbott-laboratories-in-its-acquisition-of-st-jude-medical.md)
@@ -17,7 +17,7 @@ Healthcare company Abbott Laboratories (ABT.N) has won U.S. antitrust approval f
 
 ##### 2016 Pacific typhoon season
 ### [The Philippine Coast Guard looks for 18 missing sailors from a ship sunk by Typhoon Nock-ten (Nina). At least seven people are confirmed to have died in the storm. ](/news/2016/12/27/the-philippine-coast-guard-looks-for-18-missing-sailors-from-a-ship-sunk-by-typhoon-nock-ten-nina-at-least-seven-people-are-confirmed-to.md)
-_Context: Philippine Coast Guard, Typhoon Nock-ten (2016), 2016 Pacific typhoon season_
+_Context: Philippine Coast Guard, 2016 Pacific typhoon season, Typhoon Nock-ten (2016)_
 
 ##### Pakistan
 ### [ At least 27 people are killed after drinking toxic alcohol in Pakistan. ](/news/2016/12/27/at-least-27-people-are-killed-after-drinking-toxic-alcohol-in-pakistan.md)
@@ -29,7 +29,7 @@ Israel curbed relations with countries that voted in favor of a recent U.N. Secu
 
 ##### Japan-United States relations
 ### [Japanese Prime Minister Shinzo Abe makes a landmark visit to Naval Station Pearl Harbor in Pearl Harbor, Hawaii, offering "sincere and everlasting condolences" to the victims of the attack on Pearl Harbor by the Japanese empire on December 7, 1941. ](/news/2016/12/27/japanese-prime-minister-shinza-abe-makes-a-landmark-visit-to-naval-station-pearl-harbor-in-pearl-harbor-hawaii-offering-sincere-and-ever.md)
-_Context: Pearl Harbor, Japan-United States relations, Hawaii, Prime Minister of Japan, Empire of Japan, Japan, Shinzo Abe, attack on Pearl Harbor, Naval Station Pearl Harbor_
+_Context: Empire of Japan, Pearl Harbor, Shinzo Abe, attack on Pearl Harbor, Japan-United States relations, Hawaii, Prime Minister of Japan, Naval Station Pearl Harbor, Japan_
 
 ##### Basuki Tjahaja Purnama
 ### [Basuki Tjahaja Purnama, the Christian Governor of the Indonesian capital Jakarta, will face prosecution for blasphemy. ](/news/2016/12/27/basuki-tjahaja-purnama-the-christian-governor-of-the-indonesian-capital-jakarta-will-face-prosecution-for-blasphemy.md)
@@ -41,7 +41,7 @@ Former Argentine President Cristina Fernandez was indicted on Tuesday on charges
 
 ##### Cuba
 ### [Cuba's National Assembly of People's Power approves a law banning commemorative statues of late President Fidel Castro, and the naming of public places after him, in accordance with the wishes of Castro, who died last month. ](/news/2016/12/27/cuba-s-national-assembly-of-people-s-power-approves-a-law-banning-commemorative-statues-of-late-president-fidel-castro-and-the-naming-of-pu.md)
-_Context: died, President, Cuba, Fidel Castro, Parliament_
+_Context: Parliament, Cuba, Fidel Castro, died, President_
 
 ## [Previous Day...](/news/2016/12/26/index.md)
 

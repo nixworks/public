@@ -9,19 +9,19 @@ _Context: jury trial_
 
 ##### Egypt
 ### [ The Head of the Egyptian Coptic Christian Church, Pope Shenouda&nbsp;III, has gone into seclusion in a desert monastery to draw attention to grievances among Egyptian Christians. ](/news/2004/12/20/the-head-of-the-egyptian-coptic-christian-church-pope-shenouda-nbsp-iii-has-gone-into-seclusion-in-a-desert-monastery-to-draw-attention-t.md)
-_Context: Christian Church, Egypt, Coptic Orthodox Church, Pope Shenouda&nbsp;III, monastery, seclusion_
+_Context: monastery, seclusion, Egypt, Pope Shenouda&nbsp;III, Coptic Orthodox Church, Christian Church_
 
 ##### U.S. Defense Secretary
 ### [ U.S. Defense Secretary Donald Rumsfeld has admitted that he had used a machine to sign letters of condolence to relatives of more than 1,000 troops killed in Iraq and Afghanistan, but pledged to sign the letters personally in future. ](/news/2004/12/20/u-s-defense-secretary-donald-rumsfeld-has-admitted-that-he-had-used-a-machine-to-sign-letters-of-condolence-to-relatives-of-more-than-1-00.md)
-_Context: Afghan, Donald Rumsfeld, U.S. Defense Secretary, Iraq_
+_Context: Donald Rumsfeld, U.S. Defense Secretary, Iraq, Afghan_
 
 ##### Sudan
 ### [ In Sudan, fighting has not stopped after a ceasefire between government troops and rebels. Although the government of Sudan has said that they have stopped the Darfur offensive, there are still reports of battles. Foreign Minister Mustafa Osman Ismail rules out any withdrawal from the positions government troops have taken. An observing African Union helicopter was shot at. ](/news/2004/12/20/in-sudan-fighting-has-not-stopped-after-a-ceasefire-between-government-troops-and-rebels-although-the-government-of-sudan-has-said-that-t.md)
-_Context: ceasefire, African Union, Mustafa Osman Ismail, Sudan, Darfur, helicopter_
+_Context: Darfur, Mustafa Osman Ismail, helicopter, ceasefire, Sudan, African Union_
 
 ##### Prachanda
 ### [ Prachanda, leader of the Maoist guerillas in Nepal, announces his intention to disrupt elections if the government refuses to abolish the monarchy. Prime Minister Sher Bahadur Deuba has given them until January 13, 2005, to begin peace talks. ](/news/2004/12/20/prachanda-leader-of-the-maoist-guerillas-in-nepal-announces-his-intention-to-disrupt-elections-if-the-government-refuses-to-abolish-the-m.md)
-_Context: Prachanda, monarchy, Nepal, Maoist supporters, Sher Bahadur Deuba_
+_Context: monarchy, Nepal, Sher Bahadur Deuba, Prachanda, Maoist supporters_
 
 ##### Coal
 ### [ An explosion in a Chinese coal mine kills 14. ](/news/2004/12/20/an-explosion-in-a-chinese-coal-mine-kills-14.md)

@@ -5,11 +5,11 @@ Formats: [HTML](2015/09/26/index.html)  [JSON](2015/09/26/index.json)  [XML](201
 
 ##### Saudi-led intervention in Yemen
 ### [Two Saudi border guards, including a district commander, are killed following clashes with Yemeni forces near the border with Yemen. ](/news/2015/09/26/two-saudi-border-guards-including-a-district-commander-are-killed-following-clashes-with-yemeni-forces-near-the-border-with-yemen.md)
-_Context: Saudi Arabia, border guards, Saudi-led intervention in Yemen, Yemen_
+_Context: Yemen, Saudi-led intervention in Yemen, border guards, Saudi Arabia_
 
 ##### Nagorno-Karabakh conflict
 ### [At least four Armenian soldiers are killed following an Azeri attack near the disputed Nagorno-Karabakh region. Yesterday, Azerbaijan shelled several ethnic Armenian villages, leaving three civilians dead. ](/news/2015/09/26/at-least-four-armenian-soldiers-are-killed-following-an-azeri-attack-near-the-disputed-nagorno-karabakh-region-yesterday-azerbaijan-shelle.md)
-_Context: Nagorno-Karabakh conflict, Armenia, Nagorno-Karabakh region, Azerbaijan_
+_Context: Azerbaijan, Armenia, Nagorno-Karabakh conflict, Nagorno-Karabakh region_
 
 ##### Libya
 ### [A prominent Libyan Zuwarah militia leader and migrant smuggler, Salah Al-Maskhout, is reportedly killed in Tripoli by Italian special forces. The EU recently approved military action against people smuggling networks operating out of Libya. ](/news/2015/09/26/a-prominent-libyan-zuwarah-militia-leader-and-migrant-smuggler-salah-al-maskhout-is-reportedly-killed-in-tripoli-by-italian-special-forces.md)
@@ -29,7 +29,7 @@ Porsche’s production chief Oliver Blume is set to succeed Matthias Mueller as 
 
 ##### 2015 Pacific hurricane season
 ### [Tropical Storm Niala forms off the coast of the Hawaiian islands with the likelihood of heavy rain on the island of Hawaii ("Big Island") over the weekend. ](/news/2015/09/26/tropical-storm-niala-forms-off-the-coast-of-the-hawaiian-islands-with-the-likelihood-of-heavy-rain-on-the-island-of-hawaii-big-island-ov.md)
-_Context: 2015 Pacific hurricane season, island of Hawaii, Hawaiian islands_
+_Context: island of Hawaii, 2015 Pacific hurricane season, Hawaiian islands_
 
 ##### Baitul Futuh Mosque
 ### [A fire severely damages the Baitul Futuh Mosque, London, United Kingdom. ](/news/2015/09/26/a-fire-severely-damages-the-baitul-futuh-mosque-london-united-kingdom.md)
@@ -53,7 +53,7 @@ James Paul Diaz, 34, is suspected of shooting at a series of people and vehicles
 
 ##### Bolivia
 ### [Bolivia's Plurinational Legislative Assembly passes legislation that would amend the constitution removing term limits for the President if passed in a referendum next year. ](/news/2015/09/26/bolivia-s-plurinational-legislative-assembly-passes-legislation-that-would-amend-the-constitution-removing-term-limits-for-the-president-if.md)
-_Context: Bolivia, term limit, President of Bolivia, Plurinational Legislative Assembly_
+_Context: Plurinational Legislative Assembly, term limit, President of Bolivia, Bolivia_
 
 ## [Previous Day...](/news/2015/09/25/index.md)
 

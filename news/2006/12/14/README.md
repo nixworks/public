@@ -21,7 +21,7 @@ The Israeli military began carrying out targeted killings of Palestinian militan
 
 ##### United States Senate
 ### [ U.S. Senator Tim Johnson (D-SD) undergoes surgery after suffering a brain hemorrhage due to an arteriovenous malformation. If he is incapacitated, the Republican Party Governor of South Dakota, Mike Rounds, will be able to appoint his replacement, potentially changing the balance of the Senate. ](/news/2006/12/14/u-s-senator-tim-johnson-d-sd-undergoes-surgery-after-suffering-a-brain-hemorrhage-due-to-an-arteriovenous-malformation-if-he-is-incapac.md)
-_Context: Tim Johnson, Mike Rounds, Democrat, arteriovenous malformation, South Dakota, United States Senate, Republican, South Dakota Governor, brain hemorrhage_
+_Context: Tim Johnson, brain hemorrhage, Democrat, Mike Rounds, South Dakota Governor, Republican, United States Senate, South Dakota, arteriovenous malformation_
 
 ##### Kidnapped
 ### [ Gunmen dressed in military uniforms kidnap between 20 and 30 people in the Sanak area of central Baghdad. ](/news/2006/12/14/gunmen-dressed-in-military-uniforms-kidnap-between-20-and-30-people-in-the-sanak-area-of-central-baghdad.md)
@@ -29,7 +29,7 @@ _Context: Baghdad, kidnapped_
 
 ##### Operation Paget
 ### [ Operation Paget, the inquiry into the death in 1997 of Diana, Princess of Wales headed by Lord Stevens, a former chief of London's Metropolitan Police, concludes that there were no suspicious circumstances and that the fatal car crash in which she died was a 'tragic accident'. ](/news/2006/12/14/operation-paget-the-inquiry-into-the-death-in-1997-of-diana-princess-of-wales-headed-by-lord-stevens-a-former-chief-of-london-s-metropol.md)
-_Context: London, Lord Stevens, grandmother, 1997, Death of Diana, Princess of Wales, Metropolitan Police Service, Operation Paget_
+_Context: London, Lord Stevens, 1997, Operation Paget, Metropolitan Police Service, grandmother, Death of Diana, Princess of Wales_
 
 ##### Prime Minister
 ### [ UK Prime Minister Tony Blair is interviewed by police investigating cash for honours allegations. ](/news/2006/12/14/uk-prime-minister-tony-blair-is-interviewed-by-police-investigating-cash-for-honours-allegations.md)
@@ -37,11 +37,11 @@ _Context: Prime Minister, cash for honours, Tony Blair_
 
 ##### European Union
 ### [ The European Union announces it will introduce a common EU-wide driving licence in 2013. ](/news/2006/12/14/the-european-union-announces-it-will-introduce-a-common-eu-wide-driving-licence-in-2013.md)
-_Context: 2013, European Union_
+_Context: European Union, 2013_
 
 ##### Nintendo
 ### [ The Nintendo Wii breaks record sales in Australia and is the fastest selling gaming console in Australian history. ](/news/2006/12/14/the-nintendo-wii-breaks-record-sales-in-australia-and-is-the-fastest-selling-gaming-console-in-australian-history.md)
-_Context: Australian, Nintendo, Australia, Wii_
+_Context: Australian, Wii, Nintendo, Australia_
 
 ## [Previous Day...](/news/2006/12/13/index.md)
 

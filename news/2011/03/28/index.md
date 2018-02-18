@@ -13,11 +13,11 @@ _Context: Cote d'Ivoire, Duekoue, Alassane Ouattara_
 
 ##### Car bomb
 ### [A car bomb attack on a construction company in Afghanistan's Paktika Province kills at least 13 people and injures another fifty. ](/news/2011/03/28/a-car-bomb-attack-on-a-construction-company-in-afghanistan-s-paktika-province-kills-at-least-13-people-and-injures-another-fifty.md)
-_Context: Paktika Province, Afghan, car bomb_
+_Context: car bomb, Afghan, Paktika Province_
 
 ##### Russia
 ### [Seventeen militants and three Russian security force members die in fighting in Ingushetia while two suspects in the Domodedovo International Airport bombing are arrested. ](/news/2011/03/28/seventeen-militants-and-three-russian-security-force-members-die-in-fighting-in-ingushetia-while-two-suspects-in-the-domodedovo-internationa.md)
-_Context: Domodedovo International Airport bombing, Russia, Ingushetia_
+_Context: Russia, Domodedovo International Airport bombing, Ingushetia_
 
 ##### Brain
 ### [A 2,500-year-old preserved human brain dating from the Iron Age is found in Heslington in the English city of York. ](/news/2011/03/28/a-2-500-year-old-preserved-human-brain-dating-from-the-iron-age-is-found-in-heslington-in-the-english-city-of-york.md)
@@ -25,11 +25,11 @@ A 2,500-year-old human skull uncovered in England was less of a surprise than wh
 
 ##### Qatar
 ### [Qatar recognizes Libyan rebels as the representative of the Libyan people, after a deal to market crude oil. ](/news/2011/03/28/qatar-recognizes-libyan-rebels-as-the-representative-of-the-libyan-people-after-a-deal-to-market-crude-oil.md)
-_Context: crude oil, National Transitional Council, Qatar_
+_Context: crude oil, Qatar, National Transitional Council_
 
 ##### Volkswagen
 ### [Volkswagen recalls 71000 2011 model Jetta sedans due to a wiring problem. ](/news/2011/03/28/volkswagen-recalls-71000-2011-model-jetta-sedans-due-to-a-wiring-problem.md)
-_Context: Jetta, Volkswagen, sedans_
+_Context: Jetta, sedans, Volkswagen_
 
 ##### Fukushima I nuclear accidents
 ### [Radioactive seawater from the accidents travels further from the Fukushima I Nuclear Power Plant. ](/news/2011/03/28/radioactive-seawater-from-the-accidents-travels-further-from-the-fukushima-i-nuclear-power-plant.md)
@@ -37,7 +37,7 @@ _Context: Fukushima I nuclear accidents, Fukushima I Nuclear Power Plant_
 
 ##### IAEA
 ### [The International Atomic Energy Agency calls a summit in Vienna to tackle concerns about nuclear safety following the Fukushima crisis. ](/news/2011/03/28/the-international-atomic-energy-agency-calls-a-summit-in-vienna-to-tackle-concerns-about-nuclear-safety-following-the-fukushima-crisis.md)
-_Context: Vienna, Fukushima Daiichi nuclear disaster, IAEA_
+_Context: Vienna, IAEA, Fukushima Daiichi nuclear disaster_
 
 ##### Ethiopian
 ### [More than 500 Ethiopian and Somalian migrants arrive in Malta from Libya. ](/news/2011/03/28/more-than-500-ethiopian-and-somalian-migrants-arrive-in-malta-from-libya.md)
@@ -53,19 +53,19 @@ Italian Prime Minister Silvio Berlusconi appears at a Milan court to answer char
 
 ##### Southern Vietnam
 ### [A court in southern Vietnam sentences a zoo owner to three years imprisonment for selling the carcasses of dead tigers. ](/news/2011/03/28/a-court-in-southern-vietnam-sentences-a-zoo-owner-to-three-years-imprisonment-for-selling-the-carcasses-of-dead-tigers.md)
-_Context: tiger, southern Vietnam_
+_Context: southern Vietnam, tiger_
 
 ##### Egypt
 ### [Egypt is to hold parliamentary elections in September 2011. ](/news/2011/03/28/egypt-is-to-hold-parliamentary-elections-in-september-2011.md)
-_Context: Egypt, parliamentary elections_
+_Context: parliamentary elections, Egypt_
 
 ##### Barry O'Farrell
 ### [Barry O'Farrell is sworn as the Premier of the Australian state of New South Wales following Saturday's state election. ](/news/2011/03/28/barry-o-farrell-is-sworn-as-the-premier-of-the-australian-state-of-new-south-wales-following-saturday-s-state-election.md)
-_Context: Australia, Premier, state election, Barry O'Farrell, NSW_
+_Context: Barry O'Farrell, NSW, state election, Australia, Premier_
 
 ##### Governor
 ### [The Governor of the US state of Michigan Rick Snyder signs legislation lowering the period that jobless workers can claim state unemployment benefits from 26 weeks to 20 weeks. ](/news/2011/03/28/the-governor-of-the-us-state-of-michigan-rick-snyder-signs-legislation-lowering-the-period-that-jobless-workers-can-claim-state-unemployment.md)
-_Context: Rick Snyder, Mich., Governor, unemployment benefits_
+_Context: Governor, Rick Snyder, unemployment benefits, Mich._
 
 ## [Previous Day...](/news/2011/03/27/index.md)
 

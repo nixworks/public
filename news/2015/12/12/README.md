@@ -5,7 +5,7 @@ Formats: [HTML](2015/12/12/index.html)  [JSON](2015/12/12/index.json)  [XML](201
 
 ##### Iraqi Civil War (2014-present)
 ### [A suicide bomber attacks an Iraqi Army post in Al Anbar Governorate on the border with Saudi Arabia, killing at least six guards. ](/news/2015/12/12/a-suicide-bomber-attacks-an-iraqi-army-post-in-al-anbar-governorate-on-the-border-with-saudi-arabia-killing-at-least-six-guards.md)
-_Context: Anbar province, Iraqi Civil War (2014-present), Iraqi Army, suicide bomber, Saudi Arabia_
+_Context: Iraqi Army, Saudi Arabia, suicide bomber, Iraqi Civil War (2014-present), Anbar province_
 
 ##### Syrian Civil War
 ### [Sixteen people are killed and many more injured by a car bomb and a second, delayed explosion near a hospital in Syria's mainly Alawite, government-controlled neighborhood of al-Zahra, east of Homs' old city, the Syrian Observatory for Human Rights reports. The attack comes just five days after the government and rebels agreed on a local ceasefire in the western al-Waer suburb. ](/news/2015/12/12/sixteen-people-are-killed-and-many-more-injured-by-a-car-bomb-and-a-second-delayed-explosion-near-a-hospital-in-syria-s-mainly-alawite-gov.md)
@@ -13,11 +13,11 @@ Syria has suffered another day of death and destruction. This time in the centra
 
 ##### 2015 Burundian unrest
 ### [Burundi's army reports 87 people, including eight government defenders, were killed, and 45 attackers captured in Friday's clashes at three military sites in Bujumbura. Police have not identified the gunmen. Witnesses report some of the victims' arms were tied behind their backs while others were killed at close range. This was the worst violence since this spring's attempted coup d'etat. One of the generals behind the failed coup says his rebel group still wants to oust the president. ](/news/2015/12/12/burundi-s-army-reports-87-people-including-eight-government-defenders-were-killed-and-45-attackers-captured-in-friday-s-clashes-at-three.md)
-_Context: 2015 Burundian unrest, Burundi, Bujumbura, Burundian Army_
+_Context: Bujumbura, Burundi, Burundian Army, 2015 Burundian unrest_
 
 ##### Yemeni Civil War (2015)
 ### [All sides in the Yemeni civil war announce a seven-day ceasefire will start on Monday. ](/news/2015/12/12/all-sides-in-the-yemeni-civil-war-announce-a-seven-day-ceasefire-will-start-on-monday.md)
-_Context: Yemeni Civil War (2015), Yemen_
+_Context: Yemen, Yemeni Civil War (2015)_
 
 ##### Nigeria
 ### [Nigerian soldiers kill at least 12 people and injure dozens more in a clash with followers of Shi'a cleric Ibrahim Zakzaky's Islamic movement in the northern town of Zaria. The army says the crowd surged towards General Tukur Buratai's convoy, some firing and attempting to kill Buratai. Afterward, the Nigerian Army and the Islamic Movement accuse each other of instigating the attacks. ](/news/2015/12/12/nigerian-soldiers-kill-at-least-12-people-and-injure-dozens-more-in-a-clash-with-followers-of-shi-a-cleric-ibrahim-zakzaky-s-islamic-movemen.md)
@@ -33,11 +33,11 @@ Organisers of climate talks in Paris say a final draft text has been reached aft
 
 ##### Japan
 ### [Japan and India sign an agreement on high-speed rail, defence technology and a memorandum of understanding on civil nuclear cooperation. ](/news/2015/12/12/japan-and-india-sign-an-agreement-on-high-speed-rail-defence-technology-and-a-memorandum-of-understanding-on-civil-nuclear-cooperation.md)
-_Context: memorandum of understanding, Japan, India, high-speed rail_
+_Context: India, Japan, memorandum of understanding, high-speed rail_
 
 ##### North Korea
 ### [North Korea's all-female Moranbong Band, which was formed by leader Kim Jong-un, surprisingly cancels tonight's concert at Beijing's National Centre for the Performing Arts, and two others and returns to Pyongyang. Rumors for the sudden change abound, but no reason has been given. The sudden cancellation could hurt Chinese-North Korean relations, cooler since between Kim assumed power in 2011. ](/news/2015/12/12/north-korea-s-all-female-moranbong-band-which-was-formed-by-leader-kim-jong-un-surprisingly-cancels-tonight-s-concert-at-beijing-s-nationa.md)
-_Context: Moranbong Band, Chinese, Kim Jong-un, Pyongyang, Beijing, National Centre for the Performing Arts, North Korea_
+_Context: Beijing, Chinese, Moranbong Band, Kim Jong-un, National Centre for the Performing Arts, North Korea, Pyongyang_
 
 ##### Wisconsin
 ### [A Wisconsin gun shop, which a jury found negligently sold the gun an assailant used to injure two Milwaukee police officers to a straw buyer, reaches a $1 million settlement with the officers. ](/news/2015/12/12/a-wisconsin-gun-shop-which-a-jury-found-negligently-sold-the-gun-an-assailant-used-to-injure-two-milwaukee-police-officers-to-a-straw-buyer.md)
@@ -61,7 +61,7 @@ Prominent activists among 33 arrested for marking Constitution Day with protests
 
 ##### Poland
 ### [Poland protests: Thousands march against the Law and Justice (PiS) party in Warsaw, with an estimated 50,000, and other cities protesting President Andrzej Duda and the country's new conservative government appointing new Constitutional Tribunal judges who are loyal to the PiS. ](/news/2015/12/12/poland-protests-thousands-march-against-the-law-and-justice-pis-party-in-warsaw-with-an-estimated-50-000-and-other-cities-protesting-pr.md)
-_Context: Andrzej Duda, PiS, Warsaw, President, Constitutional Court's, Poland_
+_Context: Andrzej Duda, Constitutional Court's, Poland, Warsaw, President, PiS_
 
 ##### Russia
 ### [Pro-Russian opposition parties protest against Montenegro's NATO membership, demanding a referendum on the issue. ](/news/2015/12/12/pro-russian-opposition-parties-protest-against-montenegro-s-nato-membership-demanding-a-referendum-on-the-issue.md)

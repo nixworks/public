@@ -17,7 +17,7 @@ The majority of the passengers came from two ships belonging to Miami-based Roya
 
 ##### Canada-United States relations
 ### [Canadian Foreign Minister Chrystia Freeland and United States Secretary of State Rex Tillerson announce the formation of an international group that seeks to increase pressure on North Korea regarding their nuclear program. The group, comprised of 18 countries, will meet for the first time on January 16, 2018 in Vancouver. ](/news/2017/12/19/canadian-foreign-minister-chrystia-freeland-and-united-states-secretary-of-state-rex-tillerson-announce-the-formation-of-an-international-gr.md)
-_Context: United States Secretary of State, Rex Tillerson, Vancouver, Chrystia Freeland, Canadian counterpart, Canada-United States relations, North Korea's nuclear program_
+_Context: Canadian counterpart, Rex Tillerson, Chrystia Freeland, Vancouver, North Korea's nuclear program, Canada-United States relations, United States Secretary of State_
 
 ##### United States
 ### [The United States House of Representatives passes the Tax Cuts and Jobs Act of 2017 by 227 votes to 203. After being sent to the United States Senate for a vote, the Senate's parliamentarian found that several provisions in the House bill violated Senate rules, which forced the House of Representatives to call a second vote on an altered version of the legislation that has the violating provisions removed. The second vote by the House of Representatives is expected to take place on December 20, 2017. ](/news/2017/12/19/the-united-states-house-of-representatives-passes-the-tax-cuts-and-jobs-act-of-2017-by-227-votes-to-203-after-being-sent-to-the-united-stat.md)

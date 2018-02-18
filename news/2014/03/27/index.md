@@ -41,7 +41,7 @@ The former garda commissioner delayed withdrawing his use of the word &quot;disg
 
 ##### Philippines
 ### [Philippines signs a peace accord with the largest Muslim rebel group, the Moro Islamic Liberation Front, ending decades of conflict. The Comprehensive Agreement on Bangsamoro will pave way for autonomous Bangsamoro. ](/news/2014/03/27/philippines-signs-a-peace-accord-with-the-largest-muslim-rebel-group-the-moro-islamic-liberation-front-ending-decades-of-conflict-the-com.md)
-_Context: Bangsamoro, bill, Philippines, Moro insurgency in the Philippines, Moro Islamic Liberation Front_
+_Context: Moro insurgency in the Philippines, Bangsamoro, bill, Philippines, Moro Islamic Liberation Front_
 
 ##### Iwao Hakamada
 ### [Iwao Hakamada, the world's longest serving death row inmate, is freed from a Japanese prison and granted a retrial after serving 48 years. ](/news/2014/03/27/iwao-hakamada-the-world-s-longest-serving-death-row-inmate-is-freed-from-a-japanese-prison-and-granted-a-retrial-after-serving-48-years.md)

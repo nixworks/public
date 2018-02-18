@@ -5,7 +5,7 @@ Formats: [HTML](2015/03/4/index.html)  [JSON](2015/03/4/index.json)  [XML](2015/
 
 ##### Sicily
 ### [South of Sicily, Italy's Coast Guard saves 941 trafficked migrants aboard five motorized dinghies and two larger vessels near southern Italian ports. Authorities cannot account for ten people. ](/news/2015/03/4/south-of-sicily-italy-s-coast-guard-saves-941-trafficked-migrants-aboard-five-motorized-dinghies-and-two-larger-vessels-near-southern-itali.md)
-_Context: Sicily, Italy_
+_Context: Italy, Sicily_
 
 ##### Die in a suspected gas explosion
 ### [At least 33 miners die in a suspected gas explosion at the Zasyadko coal mine in rebel-held Donetsk region of Ukraine. ](/news/2015/03/4/at-least-33-miners-die-in-a-suspected-gas-explosion-at-the-zasyadko-coal-mine-in-rebel-held-donetsk-region-of-ukraine.md)
@@ -25,7 +25,7 @@ Scientists working in Ethiopia have uncovered a jawbone fossil which may push th
 
 ##### Microsoft
 ### [Microsoft co-founder Paul Allen and his team of researchers find the "Musashi", one of Japan's biggest and most famous battleships which was sunk by American forces in 1944, on the floor of the Sibuyan Sea. ](/news/2015/03/4/microsoft-co-founder-paul-allen-and-his-team-of-researchers-find-the-musashi-one-of-japan-s-biggest-and-most-famous-battleships-which-was.md)
-_Context: Sibuyan Sea, Paul Allen, Microsoft, ''Musashi'', Japan_
+_Context: Japan, Sibuyan Sea, ''Musashi'', Microsoft, Paul Allen_
 
 ## [Previous Day...](/news/2015/03/3/index.md)
 

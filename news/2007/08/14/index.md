@@ -5,43 +5,43 @@ Formats: [HTML](2007/08/14/index.html)  [JSON](2007/08/14/index.json)  [XML](200
 
 ##### Bridge
 ### [ A bridge under construction completely collapses in Fenghuang County, Hunan Province, China, killing at least 47 people. 21 workers are injured, 13 are still missing.](/news/2007/08/14/a-bridge-under-construction-completely-collapses-in-fenghuang-county-hunan-province-china-killing-at-least-47-people-21-workers-are-inj.md)
-_Context: Chinese, Fenghuang, Hunan, bridge_
+_Context: Chinese, bridge, Fenghuang, Hunan_
 
 ##### Fire
 ### [ A fire breaks out at the Shanghai World Financial Center in China. ](/news/2007/08/14/a-fire-breaks-out-at-the-shanghai-world-financial-center-in-china.md)
-_Context: Chinese, Shanghai World Financial Center, fire_
+_Context: Shanghai World Financial Center, fire, Chinese_
 
 ##### Italy
 ### [ The Italian coast guard finds the dead bodies of 14 illegal immigrants near the shores of the Lampedusa island. ](/news/2007/08/14/the-italian-coast-guard-finds-the-dead-bodies-of-14-illegal-immigrants-near-the-shores-of-the-lampedusa-island.md)
-_Context: Lampedusa, Italy, coast guard, illegal immigrant_
+_Context: Lampedusa, coast guard, illegal immigrant, Italy_
 
 ##### Russia
 ### [ A Russian far right group calling itself "National Socialism-White Power" publishes a video on the Internet showing the execution of two men, one from Tajikistan and the other one from Dagestan. Russian authorities investigate the video. ](/news/2007/08/14/a-russian-far-right-group-calling-itself-national-socialism-white-power-publishes-a-video-on-the-internet-showing-the-execution-of-two-me.md)
-_Context: Russia, Internet, Tajikistan, far right, Dagestan_
+_Context: Russia, far right, Dagestan, Internet, Tajikistan_
 
 ##### Poland
 ### [ A Polish soldier is killed by Taliban near Gardez, Afghanistan. It is the first Polish casualty in the War in Afghanistan. ](/news/2007/08/14/a-polish-soldier-is-killed-by-taliban-near-gardez-afghanistan-it-is-the-first-polish-casualty-in-the-war-in-afghanistan.md)
-_Context: Taliban, Gardez, Poland, War in Afghanistan (2001-present), Afghan, casualty_
+_Context: Gardez, Afghan, Poland, Taliban, casualty, War in Afghanistan (2001-present)_
 
 ##### Central Bank of Nigeria
 ### [ The Central Bank of Nigeria announces the naira will be made convertible by 2009. It will also be redenominated from August 2008. ](/news/2007/08/14/the-central-bank-of-nigeria-announces-the-naira-will-be-made-convertible-by-2009-it-will-also-be-redenominated-from-august-2008.md)
-_Context: naira, Central Bank of Nigeria, Nigeria, convertible, redenomination_
+_Context: convertible, redenomination, naira, Central Bank of Nigeria, Nigeria_
 
 ##### Tropical storm
 ### [ A tropical storm warning is issued for parts of Texas and Mexico following the formation of a tropical depression in the Gulf of Mexico. ](/news/2007/08/14/a-tropical-storm-warning-is-issued-for-parts-of-texas-and-mexico-following-the-formation-of-a-tropical-depression-in-the-gulf-of-mexico.md)
-_Context: tropical depression, Gulf of Mexico, Texas, tropical storm, Mexico_
+_Context: Gulf of Mexico, Mexico, tropical storm, Texas, tropical depression_
 
 ##### Bangladesh
 ### [ A Bangladeshi court sentences 15 members of the Opposition Bangladesh Nationalist Party to seven years in jail for extortion and three years for manipulating elections. ](/news/2007/08/14/a-bangladeshi-court-sentences-15-members-of-the-opposition-bangladesh-nationalist-party-to-seven-years-in-jail-for-extortion-and-three-year.md)
-_Context: Bangladesh Nationalist Party, extortion, Bangladesh_
+_Context: extortion, Bangladesh Nationalist Party, Bangladesh_
 
 ##### Scott Kelly
 ### [ Scott Kelly, the commander of the Space Shuttle Endeavour, on its current mission expresses confidence that it can return to earth safely without repairs to its heat shield. ](/news/2007/08/14/scott-kelly-the-commander-of-the-space-shuttle-endeavour-on-its-current-mission-expresses-confidence-that-it-can-return-to-earth-safely-w.md)
-_Context: heat shield, Scott Kelly, Space Shuttle ''Endeavour''_
+_Context: Scott Kelly, Space Shuttle ''Endeavour'', heat shield_
 
 ##### Cristina Fernandez de Kirchner
 ### [ Cristina Fernandez de Kirchner, current First Lady of Argentina and candidate to become President of Argentina, announces Julio Cobos, the Governor of Mendoza Province as her running mate. ](/news/2007/08/14/cristina-ferna-ndez-de-kirchner-current-first-lady-of-argentina-and-candidate-to-become-president-of-argentina-announces-julio-cobos-the.md)
-_Context: Julio Cobos, First Lady, President of Argentina, Argentina, Cristina Fernandez de Kirchner, Mendoza Province_
+_Context: President of Argentina, Cristina Fernandez de Kirchner, Julio Cobos, Argentina, Mendoza Province, First Lady_
 
 ##### Benjamin Netanyahu
 ### [ Benjamin Netanyahu wins the Likud primary election and continues as the party's parliamentary leader. ](/news/2007/08/14/benjamin-netanyahu-wins-the-likud-primary-election-and-continues-as-the-party-s-parliamentary-leader.md)
@@ -53,7 +53,7 @@ The island of Hawaii breathed a sigh of relief on Wednesday as Hurricane Flossie
 
 ##### Foot and mouth
 ### [ British authorities investigate two new suspected cases of foot and mouth disease, one in Kent and one in Surrey outside the exclusion zone. ](/news/2007/08/14/british-authorities-investigate-two-new-suspected-cases-of-foot-and-mouth-disease-one-in-kent-and-one-in-surrey-outside-the-exclusion-zone.md)
-_Context: Kent, Surrey, exclusion zone, foot and mouth_
+_Context: Surrey, Kent, exclusion zone, foot and mouth_
 
 ##### Belgium
 ### [ Two Belgians kidnapped in Iran have been released. ](/news/2007/08/14/two-belgians-kidnapped-in-iran-have-been-released.md)
@@ -61,7 +61,7 @@ A Belgian man and woman kidnapped in south-eastern Iran at the weekend have been
 
 ##### E. coli
 ### [ A woman dies and two people are seriously ill from "E. coli" in the Paisley area of Scotland. The Morrisons supermarket chain withdraws cold sliced meats from two of its stores in Paisley. ](/news/2007/08/14/a-woman-dies-and-two-people-are-seriously-ill-from-e-coli-in-the-paisley-area-of-scotland-the-morrisons-supermarket-chain-withdraws-col.md)
-_Context: Scotland, supermarket, Morrisons, Paisley, E. coli_
+_Context: E. coli, Paisley, Morrisons, Scotland, supermarket_
 
 ##### 2007 Kahtaniya bombings
 ### [ 2007 Kahtaniya bombings: At least 250 people die in bombings in areas near the town of Kahtaniya in northern Iraq as suicide bombers drive fuel tankers into residential compounds of the Yazidi sect. ](/news/2007/08/14/2007-kahtaniya-bombings-at-least-250-people-die-in-bombings-in-areas-near-the-town-of-kahtaniya-in-northern-iraq-as-suicide-bombers-drive.md)
@@ -69,35 +69,35 @@ At least 175 people were killed when three suicide bombers driving fuel tankers 
 
 ##### Bingu wa Mutharika
 ### [ Bingu wa Mutharika, the President of Malawi, threatens to "close down" the National Assembly of Malawi unless it starts discussing the budget. ](/news/2007/08/14/bingu-wa-mutharika-the-president-of-malawi-threatens-to-close-down-the-national-assembly-of-malawi-unless-it-starts-discussing-the-budg.md)
-_Context: budget, National Assembly of Malawi, Bingu wa Mutharika, President of Malawi_
+_Context: Bingu wa Mutharika, budget, National Assembly of Malawi, President of Malawi_
 
 ##### Nokia
 ### [ Nokia offers to replace 46 million Matsushita batteries that may be subject to overheating. ](/news/2007/08/14/nokia-offers-to-replace-46-million-matsushita-batteries-that-may-be-subject-to-overheating.md)
-_Context: Nokia, Panasonic Corporation, overheating, battery_
+_Context: battery, Nokia, Panasonic Corporation, overheating_
 
 ##### Nigeria
 ### [ In Nigeria, gunmen kidnap the mother of a member of the Bayelsa State parliament. The 11-year-old son of another MP is freed. ](/news/2007/08/14/in-nigeria-gunmen-kidnap-the-mother-of-a-member-of-the-bayelsa-state-parliament-the-11-year-old-son-of-another-mp-is-freed.md)
-_Context: Bayelsa State, gunmen, Nigeria_
+_Context: gunmen, Nigeria, Bayelsa State_
 
 ##### India
 ### [ 12 members of the Indian nationalist party Shiv Sena attack the Mumbai offices of "Outlook" magazine. ](/news/2007/08/14/12-members-of-the-indian-nationalist-party-shiv-sena-attack-the-mumbai-offices-of-outlook-magazine.md)
-_Context: nationalist, India, Mumbai, Outlook, Shiv Sena_
+_Context: nationalist, India, Outlook, Mumbai, Shiv Sena_
 
 ##### Mattel
 ### [ Mattel recalls over 18 million toys made in China that may potentially be harmful to children. ](/news/2007/08/14/mattel-recalls-over-18-million-toys-made-in-china-that-may-potentially-be-harmful-to-children.md)
-_Context: toy, made in China, Mattel_
+_Context: made in China, toy, Mattel_
 
 ##### Islamist
 ### [ Former Islamist guerrilla leader Mustapha Kartali is wounded by a car bomb in Larba, Algeria. ](/news/2007/08/14/former-islamist-guerrilla-leader-mustapha-kartali-is-wounded-by-a-car-bomb-in-larba-algeria.md)
-_Context: car bomb, Mustapha Kartali, Larba, Algeria, guerrilla, Islamist_
+_Context: guerrilla, car bomb, Islamist, Larba, Mustapha Kartali, Algeria_
 
 ##### Palestinians
 ### [ Four Palestinians are killed by Israel Defense Forces in the Gaza Strip. Palestinians claim two of them were civilians. ](/news/2007/08/14/four-palestinians-are-killed-by-israel-defense-forces-in-the-gaza-strip-palestinians-claim-two-of-them-were-civilians.md)
-_Context: Israeli Army, civilian, Gaza Strip, Palestinians_
+_Context: Israeli Army, civilian, Palestinians, Gaza Strip_
 
 ##### Pakistan
 ### [ Pakistan celebrates the 60th anniversary of its independence from the United Kingdom. ](/news/2007/08/14/pakistan-celebrates-the-60th-anniversary-of-its-independence-from-the-united-kingdom.md)
-_Context: Pakistan, independence, anniversary, United Kingdom_
+_Context: anniversary, independence, United Kingdom, Pakistan_
 
 ##### Abdullah Gul
 ### [ Abdullah Gul, currently the Foreign Minister of Turkey, confirms that he will stand again for election as the President of Turkey. ](/news/2007/08/14/abdullah-ga1-4l-currently-the-foreign-minister-of-turkey-confirms-that-he-will-stand-again-for-election-as-the-president-of-turkey.md)
@@ -109,11 +109,11 @@ Thailand&#039;s Supreme Court has approved a prosecution request to issue arrest
 
 ##### President
 ### [ The President of Iran Mahmoud Ahmadinejad visits Afghanistan on the first leg of a Central Asian tour before visiting the Shanghai Cooperation Organisation meeting in Bishkek. ](/news/2007/08/14/the-president-of-iran-mahmoud-ahmadinejad-visits-afghanistan-on-the-first-leg-of-a-central-asian-tour-before-visiting-the-shanghai-cooperat.md)
-_Context: Bishkek, Afghan, Shanghai Cooperation Organisation, Central Asia, President, Mahmoud Ahmadinejad _
+_Context: President, Central Asia, Afghan, Mahmoud Ahmadinejad , Shanghai Cooperation Organisation, Bishkek_
 
 ##### Russia
 ### [ Russian prosecutors launch a terrorism investigation after an improvised bomb derailed an overnight express train near the village of Malaya Vishera in the Novgorod region. ](/news/2007/08/14/russian-prosecutors-launch-a-terrorism-investigation-after-an-improvised-bomb-derailed-an-overnight-express-train-near-the-village-of-malay.md)
-_Context: prosecutor, Malaya Vishera, terrorism, bomb, Novgorod, Russia_
+_Context: Russia, terrorism, Malaya Vishera, prosecutor, Novgorod, bomb_
 
 ##### Alan Ferguson
 ### [ Alan Ferguson, Liberal Party Senator for South Australia, is elected as the President of the Australian Senate. ](/news/2007/08/14/alan-ferguson-liberal-party-senator-for-south-australia-is-elected-as-the-president-of-the-australian-senate.md)
@@ -121,11 +121,11 @@ South Australian Liberal Senator Alan Ferguson has been elected as the new Senat
 
 ##### Taiwan
 ### [ A Taiwanese court clears Ma Ying-jeou, the Kuomintang Party candidate for President of the Republic of China, of charges of corruption dating from when he was the mayor of Taipei. ](/news/2007/08/14/a-taiwanese-court-clears-ma-ying-jeou-the-kuomintang-party-candidate-for-president-of-the-republic-of-china-of-charges-of-corruption-dati.md)
-_Context: mayor, Taiwan, Kuomintang Party, Taipei, President, Ma Ying-jeou_
+_Context: President, Taipei, mayor, Taiwan, Kuomintang Party, Ma Ying-jeou_
 
 ##### North Korea
 ### [ Hundreds of people die in North Korea after days of torrential rain. ](/news/2007/08/14/hundreds-of-people-die-in-north-korea-after-days-of-torrential-rain.md)
-_Context: North Korea, rain_
+_Context: rain, North Korea_
 
 ##### Shanghai Cooperation Organisation
 ### [ The Shanghai Cooperation Organisation of Central Asian countries comprising the People's Republic of China, Russia, Kazakhstan, Kyrgyzstan, Tajikistan and Uzbekistan meets in the Kyrgyz capital of Bishkek to discuss security issues. ](/news/2007/08/14/the-shanghai-cooperation-organisation-of-central-asian-countries-comprising-the-people-s-republic-of-china-russia-kazakhstan-kyrgyzstan.md)
@@ -133,7 +133,7 @@ Chinese President Hu Jintao goes to Central Asia on Tuesday for a summit and war
 
 ##### Canadian
 ### [ Canadian Prime Minister Stephen Harper shuffles his cabinet. Among the changes, embattled defence minister Gordon O'Connor and heritage minister Bev Oda are moved to National Revenue and International Cooperation and replaced by Peter Mackay and Josee Verner, respectively. ](/news/2007/08/14/canadian-prime-minister-stephen-harper-shuffles-his-cabinet-among-the-changes-embattled-defence-minister-gordon-o-connor-and-heritage-min.md)
-_Context: Peter Mackay, Bev Oda, new Cabinet, Stephen Harper, Prime Minister of Canada, Josee Verner, Canadian, Gordon O'Connor_
+_Context: Stephen Harper, new Cabinet, Bev Oda, Prime Minister of Canada, Peter Mackay, Gordon O'Connor, Josee Verner, Canadian_
 
 ## [Previous Day...](/news/2007/08/13/index.md)
 

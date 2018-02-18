@@ -21,11 +21,11 @@ Thirty-seven people have died in a fire at a psychiatric hospital in Russia’s 
 
 ##### Galati County
 ### [Nine people are confirmed dead following massive floods in the past 24 hours in Galati County, Romania. ](/news/2013/09/13/nine-people-are-confirmed-dead-following-massive-floods-in-the-past-24-hours-in-galaei-county-romania.md)
-_Context: Romania, Galati County_
+_Context: Galati County, Romania_
 
 ##### Floods in the United States: 2001-present
 ### [At least four people are dead, 80 unaccounted for and thousands have been evacuated following heavy floods in Boulder County in the US state of Colorado. ](/news/2013/09/13/at-least-four-people-are-dead-80-unaccounted-for-and-thousands-have-been-evacuated-following-heavy-floods-in-boulder-county-in-the-us-state.md)
-_Context: Colorado, Floods in the United States: 2001-present, Boulder County_
+_Context: Floods in the United States: 2001-present, Colorado, Boulder County_
 
 ##### World War II
 ### [A World War II shell explodes in the Finnish town of Kemi in Lapland, killing one person and causing the evacuation of hundreds of residents. ](/news/2013/09/13/a-world-war-ii-shell-explodes-in-the-finnish-town-of-kemi-in-lapland-killing-one-person-and-causing-the-evacuation-of-hundreds-of-residents.md)
@@ -45,7 +45,7 @@ The gang&#039;s all here. Labor, Liberal, National - everyone is trying to remem
 
 ##### Narendra Modi
 ### [Narendra Modi is named as the Bharatiya Janata Party leader in next year's Indian general election. ](/news/2013/09/13/narendra-modi-is-named-as-the-bharatiya-janata-party-leader-in-next-year-s-indian-general-election.md)
-_Context: Narendra Modi, Indian general election, Bharatiya Janata Party_
+_Context: Narendra Modi, Bharatiya Janata Party, Indian general election_
 
 ## [Previous Day...](/news/2013/09/12/index.md)
 

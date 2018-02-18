@@ -13,7 +13,7 @@ At least eight people have been reported dead after a powerful typhoon lashed pa
 
 ##### South China Sea disputes
 ### [The Obama administration agrees to have the United States Armed Forces assist Japan on conducting joint patrols in the South China Sea. ](/news/2016/09/16/the-obama-administration-agrees-to-have-the-united-states-armed-forces-assist-japan-on-conducting-joint-patrols-in-the-south-china-sea.md)
-_Context: United States military personnel, South China Sea disputes, Japan, South China Sea, Obama administration, Japan-United States relations_
+_Context: Obama administration, Japan, United States military personnel, South China Sea, South China Sea disputes, Japan-United States relations_
 
 ##### United Kingdom
 ### [The United Kingdom agrees to allow alleged hacker Lauri Love to be extradited to the United States. ](/news/2016/09/16/the-united-kingdom-agrees-to-allow-alleged-hacker-lauri-love-to-be-extradited-to-the-united-states.md)

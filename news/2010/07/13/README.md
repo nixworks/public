@@ -13,7 +13,7 @@ Libyan vessel changes course following warning from Israeli navy.
 
 ##### Iran
 ### [Pakistani embassy officials confirm missing Iranian nuclear scientist Shahram Amiri, who was reported to have been kidnapped by the United States Central Intelligence Agency, is taking refuge in the country's Washington, D.C. embassy. ](/news/2010/07/13/pakistani-embassy-officials-confirm-missing-iranian-nuclear-scientist-shahram-amiri-who-was-reported-to-have-been-kidnapped-by-the-united-s.md)
-_Context: Shahram Amiri, CIA, Iran_
+_Context: CIA, Iran, Shahram Amiri_
 
 ##### Chile
 ### [Chile tests a package marked "anthrax" delivered to the country's foreign ministry. ](/news/2010/07/13/chile-tests-a-package-marked-anthrax-delivered-to-the-country-s-foreign-ministry.md)
@@ -29,7 +29,7 @@ Unexploded bomb belt found by police investigating twin attacks claimed by al-Sh
 
 ##### Afghan
 ### [An Afghan soldier attacks British soldiers as a base near Lashkar Gah, killing three (one a Nepalese citizen) and wounding four more, before defecting to the Taliban. ](/news/2010/07/13/an-afghan-soldier-attacks-british-soldiers-as-a-base-near-lashkar-gah-killing-three-one-a-nepalese-citizen-and-wounding-four-more-before.md)
-_Context: defecting, Nepal, Taliban, Lashkar Gah, Afghan_
+_Context: Taliban, Nepal, defecting, Afghan, Lashkar Gah_
 
 ##### 
 ### [There is a row in the United States about privacy fears connected to an exchange in ownership of a gay teenagers' database. ](/news/2010/07/13/there-is-a-row-in-the-united-states-about-privacy-fears-connected-to-an-exchange-in-ownership-of-a-gay-teenagers-database.md)
@@ -37,7 +37,7 @@ A row erupts in the US over the ownership of a gay teenage database of one milli
 
 ##### Human stampede
 ### [One death and three injuries result from a stampede during pulling of Ratha-Yatra chariots in Puri, India. ](/news/2010/07/13/one-death-and-three-injuries-result-from-a-stampede-during-pulling-of-ratha-yatra-chariots-in-puri-india.md)
-_Context: Ratha-Yatra, human stampede, Puri_
+_Context: Puri, Ratha-Yatra, human stampede_
 
 ##### Los Angeles Police Department
 ### [Los Angeles police in the United States review a recording of actor and director Mel Gibson allegedly verbally abusing his ex-girlfriend, Oksana Grigorieva. ](/news/2010/07/13/los-angeles-police-in-the-united-states-review-a-recording-of-actor-and-director-mel-gibson-allegedly-verbally-abusing-his-ex-girlfriend-ok.md)
@@ -45,7 +45,7 @@ US police say they are evaluating claims that Hollywood star Mel Gibson allegedl
 
 ##### International Monetary Fund
 ### [The Washington, D.C.-based global lender International Monetary Fund halts funds to the Bank of Central African States (BEAC) used by oil-producing nations in Central Africa, impacting on the Republic of the Congo and the Central African Republic. ](/news/2010/07/13/the-washington-d-c-based-global-lender-international-monetary-fund-halts-funds-to-the-bank-of-central-african-states-beac-used-by-oil-pr.md)
-_Context: Central African Republic, International Monetary Fund, Bank of Central African States, Republic of the Congo_
+_Context: International Monetary Fund, Republic of the Congo, Bank of Central African States, Central African Republic_
 
 ##### European Union
 ### [The EU announces that Estonia is to become the seventeenth member of the euro on 1 January 2011. ](/news/2010/07/13/the-eu-announces-that-estonia-is-to-become-the-seventeenth-member-of-the-euro-on-1-january-2011.md)
@@ -61,7 +61,7 @@ Hedge funds and private equity firms had an easier time raising capital in the l
 
 ##### Nigeria
 ### [The Nigerian Minister of Finance announces that the Nigerian National Petroleum Corporation is insolvent, and is asking the government for funds to help pay off debts and continue operations. ](/news/2010/07/13/the-nigerian-minister-of-finance-announces-that-the-nigerian-national-petroleum-corporation-is-insolvent-and-is-asking-the-government-for-f.md)
-_Context: Nigeria, Nigerian National Petroleum Corporation_
+_Context: Nigerian National Petroleum Corporation, Nigeria_
 
 ##### Joint United Nations Programme on HIV/AIDS
 ### [Joint United Nations Programme on HIV-AIDS figures demonstrate a fall by up to 25 per cent in the prevalence of HIV among young people aged between 15 and 24 in Africa. ](/news/2010/07/13/joint-united-nations-programme-on-hiv-aids-figures-demonstrate-a-fall-by-up-to-25-per-cent-in-the-prevalence-of-hiv-among-young-people-aged.md)
@@ -89,7 +89,7 @@ Britain revokes citizenship of Russian spy following her deportation from US.
 
 ##### Colton Harris-Moore
 ### [Colton Harris-Moore, otherwise known as the "Barefoot Bandit", pleads guilty to illegally landing a plane in The Bahamas, and currently faces jail or deportation. ](/news/2010/07/13/colton-harris-moore-otherwise-known-as-the-barefoot-bandit-pleads-guilty-to-illegally-landing-a-plane-in-the-bahamas-and-currently-face.md)
-_Context: northwestern Bahamas, Colton Harris-Moore_
+_Context: Colton Harris-Moore, northwestern Bahamas_
 
 ##### Exorcism
 ### [A four-year-old boy dies during an exorcism ritual carried out by a traditional healer in the Russian Far East. ](/news/2010/07/13/a-four-year-old-boy-dies-during-an-exorcism-ritual-carried-out-by-a-traditional-healer-in-the-russian-far-east.md)
@@ -109,7 +109,7 @@ Tensions run high in divided region as India and Pakistan prepare for high-level
 
 ##### Rwanda
 ### [Senior Rwandan opposition official Andre Kagwa Rwisereka disappears after his car is found abandoned by the Mukula River near Butare. ](/news/2010/07/13/senior-rwandan-opposition-official-andra-c-kagwa-rwisereka-disappears-after-his-car-is-found-abandoned-by-the-mukula-river-near-butare.md)
-_Context: Rwanda, Mukula River, Butare, Andre Kagwa Rwisereka_
+_Context: Andre Kagwa Rwisereka, Butare, Mukula River, Rwanda_
 
 ##### Southern Sudan
 ### [Senior religious leaders in Southern Sudan call on people to vote for independence in a referendum to be held in January 2011. ](/news/2010/07/13/senior-religious-leaders-in-southern-sudan-call-on-people-to-vote-for-independence-in-a-referendum-to-be-held-in-january-2011.md)
@@ -137,7 +137,7 @@ The French government approves a controversial draft law that would raise the re
 
 ##### Supreme Court of India
 ### [The Supreme Court of India tentatively approves the Tamil Nadu government's new quota law, providing 69% of employment in educational institutions to Scheduled Castes and Scheduled Tribes and other backward classes. ](/news/2010/07/13/the-supreme-court-of-india-tentatively-approves-the-tamil-nadu-government-s-new-quota-law-providing-69-of-employment-in-educational-instit.md)
-_Context: education, Supreme Court of India, quota, Scheduled Castes and Scheduled Tribes_
+_Context: Supreme Court of India, Scheduled Castes and Scheduled Tribes, education, quota_
 
 ##### Israel
 ### [Israeli authorities use bulldozers to demolish three Palestinian buildings in East Jerusalem. ](/news/2010/07/13/israeli-authorities-use-bulldozers-to-demolish-three-palestinian-buildings-in-east-jerusalem.md)
@@ -145,19 +145,19 @@ The Israeli authorities have used bulldozers to demolish three buildings in occu
 
 ##### Court of Appeals
 ### [The United States 2nd Circuit Court of Appeals in New York City strikes down the Federal Communications Commission's "fleeting expletives" policy that gave it power to fine broadcasters who air a single expletive on air. ](/news/2010/07/13/the-united-states-2nd-circuit-court-of-appeals-in-new-york-city-strikes-down-the-federal-communications-commission-s-fleeting-expletives-p.md)
-_Context: FCC's, Court of Appeals_
+_Context: Court of Appeals, FCC's_
 
 ##### Barack Obama
 ### [President of the United States Barack Obama nominates Jacob Lew to replace Peter Orszag as the chief of the Office of Management and Budget. ](/news/2010/07/13/president-of-the-united-states-barack-obama-nominates-jacob-lew-to-replace-peter-orszag-as-the-chief-of-the-office-of-management-and-budget.md)
-_Context: Peter Orszag, Barack Obama, Jacob Lew, Office of Management and Budget_
+_Context: Office of Management and Budget, Barack Obama, Peter Orszag, Jacob Lew_
 
 ##### United States Senate
 ### [The United States Senate announces it will vote on financial reform legislations on 15 July. ](/news/2010/07/13/the-united-states-senate-announces-it-will-vote-on-financial-reform-legislations-on-15-july.md)
-_Context: financial reform, United States Senate_
+_Context: United States Senate, financial reform_
 
 ##### Philippines
 ### [The Philippines' first typhoon of the year moves toward the country's eastern coast, with 33 of the country's 81 provinces and the capital Manila being placed under storm alert. ](/news/2010/07/13/the-philippines-first-typhoon-of-the-year-moves-toward-the-country-s-eastern-coast-with-33-of-the-country-s-81-provinces-and-the-capital-m.md)
-_Context: Philippines, Manila_
+_Context: Manila, Philippines_
 
 ##### Green Dam Youth Escort
 ### [The company behind the Green Dam Youth Escort internet filtering software in China has closed its operation, due to lack of funding. ](/news/2010/07/13/the-company-behind-the-green-dam-youth-escort-internet-filtering-software-in-china-has-closed-its-operation-due-to-lack-of-funding.md)
@@ -173,15 +173,15 @@ _Context: 2010 FIFA World Cup, 2020 Summer Olympics_
 
 ##### 2010 FIFA World Cup Final
 ### [The 2010 FIFA World Cup runner-up Netherlands national football team embarks on an open-top boat tour of Amsterdam's canals drinking beer, lined by hundreds of thousands of people. ](/news/2010/07/13/the-2010-fifa-world-cup-runner-up-netherlands-national-football-team-embarks-on-an-open-top-boat-tour-of-amsterdam-s-canals-drinking-beer-l.md)
-_Context: Amsterdam, 2010 FIFA World Cup Final, Netherlands_
+_Context: Netherlands, Amsterdam, 2010 FIFA World Cup Final_
 
 ##### Cricket
 ### [Cricket: Australia and Pakistan contest the first neutral Test at Lord's Cricket Ground since 1912. ](/news/2010/07/13/cricket-australia-and-pakistan-contest-the-first-neutral-test-at-lord-s-cricket-ground-since-1912.md)
-_Context: Cricket, Lord's Cricket Ground_
+_Context: Lord's Cricket Ground, Cricket_
 
 ##### George Steinbrenner
 ### [George Steinbrenner, owner of the New York Yankees, dies after suffering a massive heart attack in Florida. ](/news/2010/07/13/george-steinbrenner-owner-of-the-new-york-yankees-dies-after-suffering-a-massive-heart-attack-in-florida.md)
-_Context: George Steinbrenner, Florida, New York Yankees, heart attack_
+_Context: heart attack, George Steinbrenner, Florida, New York Yankees_
 
 ## [Previous Day...](/news/2010/07/12/index.md)
 

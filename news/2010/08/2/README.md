@@ -9,7 +9,7 @@ Sappers find parts of Grad rocket thought to have been one of five fired towards
 
 ##### United Nations
 ### [The United Nations establishes a panel with an Israeli and Turk amongst its members to investigate the Gaza flotilla raid in May. ](/news/2010/08/2/the-united-nations-establishes-a-panel-with-an-israeli-and-turk-amongst-its-members-to-investigate-the-gaza-flotilla-raid-in-may.md)
-_Context: Turkey, Israel, United Nations, Gaza flotilla raid_
+_Context: United Nations, Israel, Turkey, Gaza flotilla raid_
 
 ##### First Folio
 ### [An antiques dealer is imprisoned for handling a copy of the "First Folio" by poet and playwright William Shakespeare, though cleared of actually stealing it, in the UK. ](/news/2010/08/2/an-antiques-dealer-is-imprisoned-for-handling-a-copy-of-the-first-folio-by-poet-and-playwright-william-shakespeare-though-cleared-of-actu.md)
@@ -25,7 +25,7 @@ _Context: the recent wildfires, Russia_
 
 ##### Nigel, Gauteng
 ### [A fire at a retirement home in Nigel, Gauteng, South Africa, kills 18 people. ](/news/2010/08/2/a-fire-at-a-retirement-home-in-nigel-gauteng-south-africa-kills-18-people.md)
-_Context: South Africa, Nigel, Gauteng_
+_Context: Nigel, Gauteng, South Africa_
 
 ##### Plane crashes
 ### [Eleven people are killed and four survive after a passenger plane crashes in Russia's Krasnoyarsk territory. ](/news/2010/08/2/eleven-people-are-killed-and-four-survive-after-a-passenger-plane-crashes-in-russia-s-krasnoyarsk-territory.md)
@@ -45,11 +45,11 @@ _Context: Guinea-Bissau, European Union_
 
 ##### Government
 ### [The Government of Pakistan summons the British High Commissioner to Islamabad for a "dressing down" by Foreign Minister Shah Mehmood Qureshi over remarks made by the British Prime Minister David Cameron on Pakistan "looking both ways" on terrorism. ](/news/2010/08/2/the-government-of-pakistan-summons-the-british-high-commissioner-to-islamabad-for-a-dressing-down-by-foreign-minister-shah-mehmood-qureshi.md)
-_Context: Islamabad, Shah Mehmood Qureshi, terrorism, Minister of Foreign Affairs, government, Pakistan, David Cameron, United Kingdom, Prime Minister_
+_Context: terrorism, United Kingdom, Minister of Foreign Affairs, Shah Mehmood Qureshi, government, Pakistan, Prime Minister, Islamabad, David Cameron_
 
 ##### Trial
 ### [The trial of Malaysian opposition leader Anwar Ibrahim on sodomy charges is deferred until August 9. ](/news/2010/08/2/the-trial-of-malaysian-opposition-leader-anwar-ibrahim-on-sodomy-charges-is-deferred-until-august-9.md)
-_Context: Malaysia, Anwar Ibrahim, trial, sodomy_
+_Context: sodomy, Malaysia, Anwar Ibrahim, trial_
 
 ##### China
 ### [A drunk man on a tractor kills 11 people and injures many others in a rampage in northern China. ](/news/2010/08/2/a-drunk-man-on-a-tractor-kills-11-people-and-injures-many-others-in-a-rampage-in-northern-china.md)
@@ -65,7 +65,7 @@ Seven civilians died in continuing violence in the Kashmir Valley on Monday as t
 
 ##### Greece
 ### [A Greek truck drivers strike ends with the situation expected to get back to normal quickly. ](/news/2010/08/2/a-greek-truck-drivers-strike-ends-with-the-situation-expected-to-get-back-to-normal-quickly.md)
-_Context: truck driver, Greece_
+_Context: Greece, truck driver_
 
 ##### United States House of Representatives
 ### [The United States House of Representatives ethics committee charges California Democrat Maxine Waters with breaking ethics rules. ](/news/2010/08/2/the-united-states-house-of-representatives-ethics-committee-charges-california-democrat-maxine-waters-with-breaking-ethics-rules.md)
@@ -73,7 +73,7 @@ A House ethics panel charged California Democrat Rep. Maxine Waters today with b
 
 ##### Census of Marine Life
 ### [The Census of Marine Life is released after 10 years of study of the worlds oceans showing that there are 230,000 species of animal living there. ](/news/2010/08/2/the-census-of-marine-life-is-released-after-10-years-of-study-of-the-worlds-oceans-showing-that-there-are-230-000-species-of-animal-living-t.md)
-_Context: ocean, animal, Census of Marine Life_
+_Context: animal, ocean, Census of Marine Life_
 
 ## [Previous Day...](/news/2010/08/1/index.md)
 

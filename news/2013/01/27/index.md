@@ -5,7 +5,7 @@ Formats: [HTML](2013/01/27/index.html)  [JSON](2013/01/27/index.json)  [XML](201
 
 ##### Police
 ### [At least twenty members of the Afghan National Police have been killed in bomb attacks over the past day with eight police officers killed in the latest attack in Kandahar. ](/news/2013/01/27/at-least-twenty-members-of-the-afghan-national-police-have-been-killed-in-bomb-attacks-over-the-past-day-with-eight-police-officers-killed-i.md)
-_Context: police, Kandahar_
+_Context: Kandahar, police_
 
 ##### Syria
 ### [Reports claim that elite Syrian military forces shell the town of Darayya just southwest of Damascus. ](/news/2013/01/27/reports-claim-that-elite-syrian-military-forces-shell-the-town-of-darayya-just-southwest-of-damascus.md)
@@ -25,11 +25,11 @@ At least 233 people die in a fire that swept through a nightclub in southern Bra
 
 ##### Fire
 ### [At least seven workers die in the factory fire in the capital of Bangladesh, Dhaka. ](/news/2013/01/27/at-least-seven-workers-die-in-the-factory-fire-in-the-capital-of-bangladesh-dhaka.md)
-_Context: Bangladesh, fire, Dhaka_
+_Context: Dhaka, fire, Bangladesh_
 
 ##### Landslide
 ### [A landslide in the Indonesian island of Sumatra kills at least 4 people with 18 missing. ](/news/2013/01/27/a-landslide-in-the-indonesian-island-of-sumatra-kills-at-least-4-people-with-18-missing.md)
-_Context: landslide, Sumatra, Indonesia_
+_Context: Indonesia, landslide, Sumatra_
 
 ##### Flooding
 ### [Heavy rain caused by former Tropical Cyclone Oswald continues to cause significant flooding in the Australian state of Queensland with the capital Brisbane amongst those affected. ](/news/2013/01/27/heavy-rain-caused-by-former-tropical-cyclone-oswald-continues-to-cause-significant-flooding-in-the-australian-state-of-queensland-with-the-c.md)
@@ -45,7 +45,7 @@ Rescuers searched for possible survivors following the collapse of a soccer fiel
 
 ##### Paris
 ### [Tens of thousands of people rally in Paris in support of the legalisation of gay marriage and adoption in France. ](/news/2013/01/27/tens-of-thousands-of-people-rally-in-paris-in-support-of-the-legalisation-of-gay-marriage-and-adoption-in-france.md)
-_Context: Paris, gay marriage, France_
+_Context: France, gay marriage, Paris_
 
 ##### Bulgaria
 ### [Voters in Bulgaria go to the polls to vote on a referendum on building a new nuclear power plant at Belene. ](/news/2013/01/27/voters-in-bulgaria-go-to-the-polls-to-vote-on-a-referendum-on-building-a-new-nuclear-power-plant-at-belene.md)

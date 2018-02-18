@@ -13,11 +13,11 @@ No date was set for new round of negotiations after six days of fractious talks
 
 ##### Academy Award
 ### [Academy Award-nominated actress Ellen Page comes out as lesbian at a Human Rights Campaign conference. ](/news/2014/02/15/academy-award-nominated-actress-ellen-page-comes-out-as-lesbian-at-a-human-rights-campaign-conference.md)
-_Context: Ellen Page, lesbian, Academy Award, Human Rights Campaign_
+_Context: Academy Award, lesbian, Human Rights Campaign, Ellen Page_
 
 ##### Prime minister
 ### [Prime Minister of Vietnam Nguyen TCNYn Dung initiates the construction of Tan Vu-Lach Huyen Bridge in Haiphong which will become the longest sea bridge in Vietnam as well as Southeast Asia. ](/news/2014/02/15/prime-minister-of-vietnam-nguya-n-taocnyn-da-c-ng-initiates-the-construction-of-tac-n-va-c-lao-ch-huya-n-bridge-in-haiphong-which-will-become.md)
-_Context: Haiphong, Tan Vu-Lach Huyen Bridge, Nguyen TCNYn Dung, prime minister_
+_Context: Nguyen TCNYn Dung, Tan Vu-Lach Huyen Bridge, Haiphong, prime minister_
 
 ##### North Korea
 ### [A North Korean cargo ship is allowed to leave the Panama Canal. ](/news/2014/02/15/a-north-korean-cargo-ship-is-allowed-to-leave-the-panama-canal.md)

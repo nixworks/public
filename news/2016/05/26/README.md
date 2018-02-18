@@ -5,7 +5,7 @@ Formats: [HTML](2016/05/26/index.html)  [JSON](2016/05/26/index.json)  [XML](201
 
 ##### Iraqi civil war
 ### [Iraqi security forces and Shiite Popular Mobilization Forces recapture Al-Karmah, about 16 kilometers (10 miles) northeast of Fallujah. ](/news/2016/05/26/iraqi-security-forces-and-shiite-popular-mobilization-forces-recapture-al-karmah-about-16-kilometers-10-miles-northeast-of-fallujah.md)
-_Context: Iraqi civil war, Shia, Al-Karmah, Iraqi Armed Forces, Operation Breaking Terrorism, Popular Mobilization Forces, Fallujah_
+_Context: Operation Breaking Terrorism, Popular Mobilization Forces, Al-Karmah, Shia, Iraqi Armed Forces, Iraqi civil war, Fallujah_
 
 ##### Archaeologists
 ### [Archaeologists announce the discovery of a 2,400-year-old tomb which they believe to be that of Aristotle based on its grandiosity, and its location atop a hill in Stagira, the city of his birth. ](/news/2016/05/26/archaeologists-announce-the-discovery-of-a-2-400-year-old-tomb-which-they-believe-to-be-that-of-aristotle-based-on-its-grandiosity-and-its.md)
@@ -57,7 +57,7 @@ Some in Louisiana wondered if the new law, which comes at a time of national deb
 
 ##### Attacked
 ### [A Muslim mob is found to have attacked Coptic homes and stripped a woman in public in Minya Governorate, Egypt, on 20 May 2016. ](/news/2016/05/26/a-muslim-mob-is-found-to-have-attacked-coptic-homes-and-stripped-a-woman-in-public-in-minya-governorate-egypt-on-20-may-2016.md)
-_Context: Coptic, attacked, Egypt, Minya Governorate_
+_Context: Egypt, Coptic, attacked, Minya Governorate_
 
 ##### CGT
 ### [French labor unions, led by the CGT, implement a strike in protest of proposed reforms to labor laws. ](/news/2016/05/26/french-labor-unions-led-by-the-cgt-implement-a-strike-in-protest-of-proposed-reforms-to-labor-laws.md)

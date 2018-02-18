@@ -5,7 +5,7 @@ Formats: [HTML](2015/03/13/index.html)  [JSON](2015/03/13/index.json)  [XML](201
 
 ##### Myanmar
 ### [A Myanmar air raid aimed at rebels on its border with China drops bombs on the Chinese city of Lincang killing four people. ](/news/2015/03/13/a-myanmar-air-raid-aimed-at-rebels-on-its-border-with-china-drops-bombs-on-the-chinese-city-of-lincang-killing-four-people.md)
-_Context: Myanmar, Lincang, Chinese_
+_Context: Lincang, Chinese, Myanmar_
 
 ##### Egypt Economic Development Conference
 ### [Among the over 2,000 delegates from 112 different countries, U.S. Secretary of State, John Kerry, delivers a speech during the investment summit held in the Egyptian resort town of Sharm el-Sheikh. ](/news/2015/03/13/among-the-over-2-000-delegates-from-112-different-countries-u-s-secretary-of-state-john-kerry-delivers-a-speech-during-the-investment-su.md)
@@ -13,7 +13,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Cypriot
 ### [Politicians in Cyprus demand the resignation of the governor of the central bank there, Chrystalla Georghadji, raising concerns about a conflict of interest. ](/news/2015/03/13/politicians-in-cyprus-demand-the-resignation-of-the-governor-of-the-central-bank-there-chrystalla-georghadji-raising-concerns-about-a-conf.md)
-_Context: Cypriot, Chrystalla Georghadji_
+_Context: Chrystalla Georghadji, Cypriot_
 
 ##### Cyclone Pam
 ### [Cyclone Pam causes severe damage in the South Pacific nation of Vanuatu with unconfirmed reports of over 40 deaths. ](/news/2015/03/13/cyclone-pam-causes-severe-damage-in-the-south-pacific-nation-of-vanuatu-with-unconfirmed-reports-of-over-40-deaths.md)
@@ -37,7 +37,7 @@ _Context: Serbia, Belgrade_
 
 ##### Stellenbosch University
 ### [In regard to an operation that took place on December 11, 2014, today, a Stellenbosch University and Tygerberg Hospital surgical team from Cape Town, South Africa, reports the world's first successful penis transplant, an operation requiring reconnection of tiny blood vessels and nerves. ](/news/2015/03/13/in-regard-to-an-operation-that-took-place-on-december-11-2014-today-a-stellenbosch-university-and-tygerberg-hospital-surgical-team-from-c.md)
-_Context: Stellenbosch University, penis transplant, Tygerberg Hospital, Cape Town, South Africa_
+_Context: penis transplant, Tygerberg Hospital, Cape Town, South Africa, Stellenbosch University_
 
 ##### Swedish
 ### [Swedish prosecutor Marianne Ny lodges a request to interrogate Julian Assange in his London refuge at the Ecuadorian consulate, saying that the reason for her change of mind is that the statute of limitations on several of the crimes of which Assange is suspected runs out in August 2015. ](/news/2015/03/13/swedish-prosecutor-marianne-ny-lodges-a-request-to-interrogate-julian-assange-in-his-london-refuge-at-the-ecuadorian-consulate-saying-that.md)
@@ -49,7 +49,7 @@ Gamers are being targeted with a computer virus that stops them playing their fa
 
 ##### NASA
 ### [NASA reports that scientists using the Hubble Space Telescope have found a salty ocean lurking beneath the surface of Jupiter's largest moon, Ganymede. ](/news/2015/03/13/nasa-reports-that-scientists-using-the-hubble-space-telescope-have-found-a-salty-ocean-lurking-beneath-the-surface-of-jupiter-s-largest-moon.md)
-_Context: Jupiter, NASA, Ganymede, Hubble Space Telescope, salty_
+_Context: Jupiter, salty, NASA, Ganymede, Hubble Space Telescope_
 
 ## [Previous Day...](/news/2015/03/12/index.md)
 

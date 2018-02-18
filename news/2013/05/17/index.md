@@ -25,11 +25,11 @@ An elite U.S. Navy SEAL was killed and seven service members were injured in a v
 
 ##### Metro-North Railroad
 ### [Two Metro-North commuter trains collide near Bridgeport, Connecticut injuring at least 72 people and resulting in the cancellation of Amtrak services between New York City and Boston. ](/news/2013/05/17/two-metro-north-commuter-trains-collide-near-bridgeport-connecticut-injuring-at-least-72-people-and-resulting-in-the-cancellation-of-amtrak.md)
-_Context: collide, New York City, Amtrak, Metro-North Railroad, Boston, Massachusetts, Bridgeport, commuter train, Connecticut_
+_Context: commuter train, New York City, Connecticut, collide, Bridgeport, Amtrak, Boston, Massachusetts, Metro-North Railroad_
 
 ##### Jorge Rafael Videla
 ### [Jorge Rafael Videla, who served as President of Argentina after the 1976 Argentine coup d'tat, dies at the age of 87 in a jail of Marcos Paz, Buenos Aires. ](/news/2013/05/17/jorge-rafael-videla-who-served-as-president-of-argentina-after-the-1976-argentine-coup-d-etat-dies-at-the-age-of-87-in-a-jail-of-marcos-pa.md)
-_Context: Marcos Paz, Buenos Aires, Jorge Rafael Videla, 1976 Argentine coup d'tat, President of Argentina_
+_Context: President of Argentina, Jorge Rafael Videla, Marcos Paz, Buenos Aires, 1976 Argentine coup d'tat_
 
 ##### 2013 Cannes Film Festival
 ### [A million dollars worth of jewelry meant for use by celebrities at the 2013 Cannes Film Festival is stolen from a Novotel hotel room in Cannes. ](/news/2013/05/17/a-million-dollars-worth-of-jewelry-meant-for-use-by-celebrities-at-the-2013-cannes-film-festival-is-stolen-from-a-novotel-hotel-room-in-cann.md)
@@ -41,11 +41,11 @@ _Context: homophobia,  Georgian, Tbilisi_
 
 ##### NASA
 ### [NASA records the brightest lunar meteor impact yet observed. ](/news/2013/05/17/nasa-records-the-brightest-lunar-meteor-impact-yet-observed.md)
-_Context: moon, meteor impact, NASA_
+_Context: meteor impact, NASA, moon_
 
 ##### Electric shock
 ### [Mild electric shock is shown to provide lasting improvement to mathematical ability. ](/news/2013/05/17/mild-electric-shock-is-shown-to-provide-lasting-improvement-to-mathematical-ability.md)
-_Context: electric shock, mathematical_
+_Context: mathematical, electric shock_
 
 ## [Previous Day...](/news/2013/05/16/index.md)
 

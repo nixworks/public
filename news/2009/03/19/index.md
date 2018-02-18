@@ -9,7 +9,7 @@ Scientists sailed Thursday to inspect an undersea volcano that has been erupting
 
 ##### North Korea
 ### [ North Korea detains two American Current TV journalists near its border with China. ](/news/2009/03/19/north-korea-detains-two-american-current-tv-journalists-near-its-border-with-china.md)
-_Context: Current TV, North Korea, China, United States, journalist_
+_Context: journalist, China, North Korea, Current TV, United States_
 
 ##### United States
 ### [ The United States House of Representatives votes to levy a 90% tax on executive compensation from companies aided by the American Recovery and Reinvestment Act. ](/news/2009/03/19/the-united-states-house-of-representatives-votes-to-levy-a-90-tax-on-executive-compensation-from-companies-aided-by-the-american-recovery.md)
@@ -17,19 +17,19 @@ Spurred by anger over A.I.G., the House voted 328 to 93 to tax bonuses paid by a
 
 ##### Josef Fritzl
 ### [ Josef Fritzl of Austria is sentenced to life imprisonment on all charges. ](/news/2009/03/19/josef-fritzl-of-austria-is-sentenced-to-life-imprisonment-on-all-charges.md)
-_Context: Austria, Josef Fritzl, life imprisonment_
+_Context: Josef Fritzl, Austria, life imprisonment_
 
 ##### President
 ### [ President Andry Rajoelina dissolves Parliament. ](/news/2009/03/19/president-andry-rajoelina-dissolves-parliament.md)
-_Context: President, parliament's dissolution, Parliament, Andry Rajoelina_
+_Context: parliament's dissolution, President, Parliament, Andry Rajoelina_
 
 ##### Pope
 ### [ Pope Benedict XVI leads a Roman Catholic Mass in Yaound, Cameroon. ](/news/2009/03/19/pope-benedict-xvi-leads-a-roman-catholic-mass-in-yaounde-cameroon.md)
-_Context: Pope, Cameroon, Pope Benedict XVI, Yaound, Mass, Roman Catholic Church_
+_Context: Yaound, Mass, Pope, Cameroon, Pope Benedict XVI, Roman Catholic Church_
 
 ##### Namibia
 ### [ Namibia declares a state of emergency after floods kill 92 people and render 25,000 homeless. ](/news/2009/03/19/namibia-declares-a-state-of-emergency-after-floods-kill-92-people-and-render-25-000-homeless.md)
-_Context: state of emergency, homeless people, floods, Namibia_
+_Context: homeless people, Namibia, state of emergency, floods_
 
 ##### Civil and Public Services Union
 ### [ The Civil and Public Services Union protests against Ireland's government. ](/news/2009/03/19/the-civil-and-public-services-union-protests-against-ireland-s-government.md)

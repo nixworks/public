@@ -5,7 +5,7 @@ Formats: [HTML](2008/09/28/index.html)  [JSON](2008/09/28/index.json)  [XML](200
 
 ##### SpaceX
 ### [ SpaceX Falcon 1 makes orbit, becoming the first privately developed liquid-fueled space launch vehicle to do so. ](/news/2008/09/28/spacex-falcon-1-makes-orbit-becoming-the-first-privately-developed-liquid-fueled-space-launch-vehicle-to-do-so.md)
-_Context: Falcon 1, SpaceX, makes orbit, space launch vehicle_
+_Context: SpaceX, makes orbit, Falcon 1, space launch vehicle_
 
 ##### Congress
 ### [ US Congressional leaders and the George W. Bush administration reach an outline Emergency Economic Stabilization Act of 2008 of a bailout of financial institutions as a result of the subprime mortgage crisis. ](/news/2008/09/28/us-congressional-leaders-and-the-george-w-bush-administration-reach-an-outline-emergency-economic-stabilization-act-of-2008-of-a-bailout-o.md)
@@ -17,7 +17,7 @@ _Context: Faina_
 
 ##### China
 ### [ Chinese astronauts return safely as the Shenzhou 7 re-entry capsule lands. This marks the third country to successfully return three astronauts from space, and the third country to successfully return a spacewalker from space. And the mission marks the third country to successfully develop and deploy a spacesuit. ](/news/2008/09/28/chinese-astronauts-return-safely-as-the-shenzhou-7-re-entry-capsule-lands-this-marks-the-third-country-to-successfully-return-three-astron.md)
-_Context: astronaut, spacesuit, Shenzhou 7, spacewalk, China_
+_Context: astronaut, China, spacewalk, spacesuit, Shenzhou 7_
 
 ##### Japan
 ### [ Four days after the formation of new Japan cabinet, Transport Minister Nariaki Nakayama resigns after series of controversial speeches. ](/news/2008/09/28/four-days-after-the-formation-of-new-japan-cabinet-transport-minister-nariaki-nakayama-resigns-after-series-of-controversial-speeches.md)
@@ -33,7 +33,7 @@ _Context: Bavaria state election, 2008, CSU_
 
 ##### Fernando Alonso
 ### [ Fernando Alonso wins the Singapore Grand Prix in Formula One's first night race. ](/news/2008/09/28/fernando-alonso-wins-the-singapore-grand-prix-in-formula-one-s-first-night-race.md)
-_Context: Formula One, Grand Prix, wins, Singapore, Fernando Alonso_
+_Context: Grand Prix, Singapore, Fernando Alonso, wins, Formula One_
 
 ## [Previous Day...](/news/2008/09/27/index.md)
 

@@ -9,7 +9,7 @@ A memorial will be completed by the decade anniversary of the terrorist attacks 
 
 ##### Car bomb
 ### [A truck bomb at a military outpost in Wardak Province, Afghanistan, kills several civilians. ](/news/2011/09/11/a-truck-bomb-at-a-military-outpost-in-wardak-province-afghanistan-kills-several-civilians.md)
-_Context: car bomb, Afghan, military outpost, Wardak Province_
+_Context: military outpost, car bomb, Afghan, Wardak Province_
 
 ##### Gothenburg
 ### [Police in Gothenburg, Sweden, arrest four people after a suspected failed terrorist attack. ](/news/2011/09/11/police-in-gothenburg-sweden-arrest-four-people-after-a-suspected-failed-terrorist-attack.md)
@@ -17,15 +17,15 @@ _Context: Sweden, Gothenburg_
 
 ##### India
 ### [At least 22 people are dead in the Indian state of Orissa as a result of flooding. ](/news/2011/09/11/at-least-22-people-are-dead-in-the-indian-state-of-orissa-as-a-result-of-flooding.md)
-_Context: Orissa State, flood, India_
+_Context: flood, Orissa State, India_
 
 ##### Caravan site
 ### [UK police raid the Greenacre caravan site in Leighton Buzzard, rescuing 24 men who had been held there as slaves in squalid conditions . ](/news/2011/09/11/uk-police-raid-the-greenacre-caravan-site-in-leighton-buzzard-rescuing-24-men-who-had-been-held-there-as-slaves-in-squalid-conditions.md)
-_Context: rescuing 24 men, slave, caravan site, Leighton Buzzard_
+_Context: caravan site, Leighton Buzzard, rescuing 24 men, slave_
 
 ##### Guatemala
 ### [Voters in Guatemala go to the polls for a general election. ](/news/2011/09/11/voters-in-guatemala-go-to-the-polls-for-a-general-election.md)
-_Context: general election, Guatemala_
+_Context: Guatemala, general election_
 
 ## [Previous Day...](/news/2011/09/10/index.md)
 

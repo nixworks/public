@@ -17,7 +17,7 @@ A gunman on a motorbike opened fire on three French paratroopers at a bank machi
 
 ##### Tuareg Rebellion
 ### [2012 insurgency in northern Mali: 195,000 people flee their homes amid violence in northern Mali between government troops and Tuareg rebels. ](/news/2012/03/15/2012-insurgency-in-northern-mali-195-000-people-flee-their-homes-amid-violence-in-northern-mali-between-government-troops-and-tuareg-rebels.md)
-_Context: Mali, Tuareg Rebellion, Tuareg_
+_Context: Tuareg, Mali, Tuareg Rebellion_
 
 ##### A ferry
 ### [The death toll from the sinking of a ferry in Bangladesh on Tuesday rises to 116 with more people missing. ](/news/2012/03/15/the-death-toll-from-the-sinking-of-a-ferry-in-bangladesh-on-tuesday-rises-to-116-with-more-people-missing.md)
@@ -29,7 +29,7 @@ _Context: Norwegian, presumed dead in an aircraft accident in northern Sweden_
 
 ##### New Zealand
 ### [One New Zealand tourist is dead and another missing after a family of six is swept away in a flash flood of the Vaisigano River in the Samoan capital Apia. ](/news/2012/03/15/one-new-zealand-tourist-is-dead-and-another-missing-after-a-family-of-six-is-swept-away-in-a-flash-flood-of-the-vaisigano-river-in-the-samoa.md)
-_Context: flash flood, New Zealand, Samoa, Vaisigano River, Apia_
+_Context: Vaisigano River, Apia, New Zealand, Samoa, flash flood_
 
 ##### Prime Minister
 ### [Government documents reveal then-Prime Minister of the United Kingdom Margaret Thatcher was told a senior Merseyside police officer blamed "drunken Liverpool fans" for causing the Hillsborough disaster. Police have since been found to blame. ](/news/2012/03/15/government-documents-reveal-then-prime-minister-of-the-united-kingdom-margaret-thatcher-was-told-a-senior-merseyside-police-officer-blamed.md)
@@ -41,7 +41,7 @@ A Ugandan gay rights group sues a US minister accusing him of involvement in a c
 
 ##### Free trade agreement
 ### [A free trade agreement between the United States and South Korea comes into effect. ](/news/2012/03/15/a-free-trade-agreement-between-the-united-states-and-south-korea-comes-into-effect.md)
-_Context: free trade agreement, United States, South Korea_
+_Context: free trade agreement, South Korea, United States_
 
 ##### Government of Papua New Guinea
 ### [The Government of Papua New Guinea reacts angrily after the new Australian Minister for Foreign Affairs Bob Carr threatens the imposition of sanctions if elections are delayed. ](/news/2012/03/15/the-government-of-papua-new-guinea-reacts-angrily-after-the-new-australian-minister-for-foreign-affairs-bob-carr-threatens-the-imposition-of.md)
@@ -61,7 +61,7 @@ _Context: John Key, Prime Minister, public service_
 
 ##### Bo Xilai
 ### [Bo Xilai is replaced as the Communist Party boss in the city of Chongqing by 3rd Vice Premier Zhang Dejiang as a result of an ideological dispute. ](/news/2012/03/15/bo-xilai-is-replaced-as-the-communist-party-boss-in-the-city-of-chongqing-by-3rd-vice-premier-zhang-dejiang-as-a-result-of-an-ideological-di.md)
-_Context: Vice Premier, Zhang Dejiang, Communist Party of China, Bo Xilai, Chongqing_
+_Context: Vice Premier, Communist Party of China, Chongqing, Bo Xilai, Zhang Dejiang_
 
 ##### Wen Jiabao
 ### [Chinese Premier Wen Jiabao says the Dalai Lama is responsible for ongoing self-immolations by Tibetan monks. ](/news/2012/03/15/chinese-premier-wen-jiabao-says-the-dalai-lama-is-responsible-for-ongoing-self-immolations-by-tibetan-monks.md)
@@ -77,11 +77,11 @@ _Context: water cannon, tear gas, Santiago, Chilean police_
 
 ##### Canadian
 ### [More than 100 students are arrested at a protest in the Canadian city of Montreal, Quebec. ](/news/2012/03/15/more-than-100-students-are-arrested-at-a-protest-in-the-canadian-city-of-montreal-quebec.md)
-_Context: Quebec, Canadian, Montreal_
+_Context: Quebec, Montreal, Canadian_
 
 ##### President
 ### [The President of Venezuela Hugo Chavez returns home after three weeks in Cuba for cancer surgery. ](/news/2012/03/15/the-president-of-venezuela-hugo-chavez-returns-home-after-three-weeks-in-cuba-for-cancer-surgery.md)
-_Context: President, Hugo Chavez, Cuba_
+_Context: Hugo Chavez, President, Cuba_
 
 ## [Previous Day...](/news/2012/03/14/index.md)
 

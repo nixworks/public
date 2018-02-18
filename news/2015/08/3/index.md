@@ -25,7 +25,7 @@ Puerto Rico confirms that it failed to make a debt payment at the weekend, in th
 
 ##### Flood
 ### [Flooding caused by heavy monsoon rains has caused over 100 deaths in India over the past week with tens of thousands of people taking shelter in refugee camps. ](/news/2015/08/3/flooding-caused-by-heavy-monsoon-rains-has-caused-over-100-deaths-in-india-over-the-past-week-with-tens-of-thousands-of-people-taking-shelte.md)
-_Context: monsoon, India, refugee, Flood_
+_Context: Flood, monsoon, India, refugee_
 
 ##### Alphen aan den Rijn
 ### [Two cranes overturn on several houses while installing a part of the Julianabrug at Alphen aan den Rijn in the Netherlands leaving twenty people injured. ](/news/2015/08/3/two-cranes-overturn-on-several-houses-while-installing-a-part-of-the-julianabrug-at-alphen-aan-den-rijn-in-the-netherlands-leaving-twenty-pe.md)
@@ -37,7 +37,7 @@ Eleven people died after a 50-year-old building collapsed in Thane late on Monda
 
 ##### 2012 Aurora shooting
 ### [In a unanimous decision, the jury rules that James Eagan Holmes, having already been convicted for the shooting, is still eligible for the death penalty. ](/news/2015/08/3/in-a-unanimous-decision-the-jury-rules-that-james-eagan-holmes-having-already-been-convicted-for-the-shooting-is-still-eligible-for-the-d.md)
-_Context: 2012 Aurora shooting, James Eagan Holmes, Capital punishment in the United States_
+_Context: James Eagan Holmes, Capital punishment in the United States, 2012 Aurora shooting_
 
 ## [Previous Day...](/news/2015/08/2/index.md)
 

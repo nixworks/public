@@ -5,7 +5,7 @@ Formats: [HTML](2012/07/5/index.html)  [JSON](2012/07/5/index.json)  [XML](2012/
 
 ##### Syrian uprising (2011-present)
 ### [The bodies of two Turkish pilots of a F-4 Phantom jet shot down by Syria on 22 June 2012 are recovered in the Mediterranean Sea. ](/news/2012/07/5/the-bodies-of-two-turkish-pilots-of-a-f-4-phantom-jet-shot-down-by-syria-on-22-june-2012-are-recovered-in-the-mediterranean-sea.md)
-_Context: F-4 Phantom, Syria, Mediterranean Sea, Turkish, Syrian uprising (2011-present)_
+_Context: F-4 Phantom, Turkish, Syria, Syrian uprising (2011-present), Mediterranean Sea_
 
 ##### The Shard
 ### [The Shard, the tallest building in Europe and the tallest habitable free-standing structure in the UK at 309.6 metres (1,016 ft), is officially opened. ](/news/2012/07/5/the-shard-the-tallest-building-in-europe-and-the-tallest-habitable-free-standing-structure-in-the-uk-at-309-6-metres-1-016-ft-is-officia.md)
@@ -21,19 +21,19 @@ China, the euro zone and Britain loosened monetary policy in the space of less t
 
 ##### Northern Ireland
 ### [Torrential rain in Northern Ireland causes flooding in the towns of Newry and Newcastle in County Down. ](/news/2012/07/5/torrential-rain-in-northern-ireland-causes-flooding-in-the-towns-of-newry-and-newcastle-in-county-down.md)
-_Context: Northern Ireland, County Down, Newcastle, Newry_
+_Context: Newcastle, County Down, Northern Ireland, Newry_
 
 ##### France
 ### [France's Bureau of Investigation and Analysis issues its final report on the crash of Air France Flight 447, determining that a series of errors by pilots and a failure to react to technical problems led to the disaster that killed all 228 people on board. ](/news/2012/07/5/france-s-bureau-of-investigation-and-analysis-issues-its-final-report-on-the-crash-of-air-france-flight-447-determining-that-a-series-of-er.md)
-_Context: Bureau of Investigation and Analysis, crash of Air France Flight 447, France_
+_Context: France, crash of Air France Flight 447, Bureau of Investigation and Analysis_
 
 ##### South Korea
 ### [South Korea announces plans to start "scientific" whaling of minke whales at a meeting of the International Whaling Commission in Panama City. ](/news/2012/07/5/south-korea-announces-plans-to-start-scientific-whaling-of-minke-whales-at-a-meeting-of-the-international-whaling-commission-in-panama-cit.md)
-_Context: whaling, minke whales, International Whaling Commission, South Korea, Panama City_
+_Context: International Whaling Commission, Panama City, whaling, South Korea, minke whales_
 
 ##### Gulf Cartel
 ### [A high-ranking drug boss in the Mexican criminal group known as Gulf Cartel is apprehended in the country of Costa Rica. ](/news/2012/07/5/a-high-ranking-drug-boss-in-the-mexican-criminal-group-known-as-gulf-cartel-is-apprehended-in-the-country-of-costa-rica.md)
-_Context: Gulf Cartel, Costa Rica_
+_Context: Costa Rica, Gulf Cartel_
 
 ##### WikiLeaks
 ### [WikiLeaks begins publishing the Syria Files, more than two million emails from Syrian political figures, ministries and associated companies, dating from August 2006 to March 2012, which WikiLeaks founder Julian Assange claims are embarrassing to Syria, but also to Syria's opponents. ](/news/2012/07/5/wikileaks-begins-publishing-the-syria-files-more-than-two-million-emails-from-syrian-political-figures-ministries-and-associated-companies.md)

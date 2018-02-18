@@ -37,7 +37,7 @@ A strengthening tropical storm dumped rain on eastern China while a prolonged dr
 
 ##### California Zephyr
 ### [The death toll from the California Zephyr Amtrak train colliding with a truck in the U.S. state of Nevada rises to six, with two dozen passengers unaccounted for. ](/news/2011/06/25/the-death-toll-from-the-california-zephyr-amtrak-train-colliding-with-a-truck-in-the-u-s-state-of-nevada-rises-to-six-with-two-dozen-passe.md)
-_Context: California Zephyr, Amtrak, Nevada_
+_Context: California Zephyr, Nevada, Amtrak_
 
 ##### Prime Minister
 ### [Alleged personal details of former Prime Minister of the United Kingdom Tony Blair are published online by computer hackers. ](/news/2011/06/25/alleged-personal-details-of-former-prime-minister-of-the-united-kingdom-tony-blair-are-published-online-by-computer-hackers.md)

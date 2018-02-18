@@ -5,15 +5,15 @@ Formats: [HTML](2012/09/19/index.html)  [JSON](2012/09/19/index.json)  [XML](201
 
 ##### Facilitate infiltration
 ### [Syrian opposition forces facilitate infiltration from Turkey by seizing control of a border crossing in the province of Ar-Raqqah. ](/news/2012/09/19/syrian-opposition-forces-facilitate-infiltration-from-turkey-by-seizing-control-of-a-border-crossing-in-the-province-of-ar-raqqah.md)
-_Context: Ar-Raqqah, facilitate infiltration_
+_Context: facilitate infiltration, Ar-Raqqah_
 
 ##### Car bomb
 ### [A car bomb targeting a van belonging to the Pakistan Air Force explodes in the Pakistani city of Peshawar, killing at least nine people and wounding up to 20 others. ](/news/2012/09/19/a-car-bomb-targeting-a-van-belonging-to-the-pakistan-air-force-explodes-in-the-pakistani-city-of-peshawar-killing-at-least-nine-people-and.md)
-_Context: car bomb, Peshawar, Pakistan Air Force, Pakistan_
+_Context: car bomb, Pakistan, Pakistan Air Force, Peshawar_
 
 ##### Chicago
 ### [Teachers go back to work in Chicago after the union leadership votes to suspend its strike while the membership reviews a tentative pact with mayor Rahm Emanuel. ](/news/2012/09/19/teachers-go-back-to-work-in-chicago-after-the-union-leadership-votes-to-suspend-its-strike-while-the-membership-reviews-a-tentative-pact-wit.md)
-_Context: Chicago, Rahm Emanuel, union_
+_Context: Chicago, union, Rahm Emanuel_
 
 ##### Czech Republic
 ### [The Czech Republic temporarily imposes a ban on hard liquor after a spate of deaths related to bootleg hard alcohol poisoning. ](/news/2012/09/19/the-czech-republic-temporarily-imposes-a-ban-on-hard-liquor-after-a-spate-of-deaths-related-to-bootleg-hard-alcohol-poisoning.md)

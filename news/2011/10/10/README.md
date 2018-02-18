@@ -17,7 +17,7 @@ _Context: Nobel Memorial Prize in Economic Sciences, Thomas J. Sargent, American
 
 ##### Bank of Greece
 ### [The Bank of Greece announces the bail-out and takeover of Proton Bank via that country's Financial Stability Fund. ](/news/2011/10/10/the-bank-of-greece-announces-the-bail-out-and-takeover-of-proton-bank-via-that-country-s-financial-stability-fund.md)
-_Context: Proton Bank, Bank of Greece_
+_Context: Bank of Greece, Proton Bank_
 
 ##### South Africa
 ### [The trial of two South African farm workers for the murder of Afrikaner Weerstandsbeweging white supremacist Eugene Terre'Blanche begins. ](/news/2011/10/10/the-trial-of-two-south-african-farm-workers-for-the-murder-of-afrikaner-weerstandsbeweging-white-supremacist-euga-ne-terre-blanche-begins.md)

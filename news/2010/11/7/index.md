@@ -5,7 +5,7 @@ Formats: [HTML](2010/11/7/index.html)  [JSON](2010/11/7/index.json)  [XML](2010/
 
 ##### Somalia
 ### [Somali Islamist militant group al-Shabaab threaten more attacks in Burundi and Uganda in retaliation for their participation in an African Union peacekeeping operation in the country. Meanwhile, seven people are killed in fighting in the capital Mogadishu. ](/news/2010/11/7/somali-islamist-militant-group-al-shabaab-threaten-more-attacks-in-burundi-and-uganda-in-retaliation-for-their-participation-in-an-african-u.md)
-_Context: Mogadishu, Al-Shabaab, African Union, Islamist, Burundi, Somalia, Uganda_
+_Context: Burundi, Somalia, Islamist, Al-Shabaab, Uganda, Mogadishu, African Union_
 
 ##### Baton
 ### [Police use batons, pepper spray, tear gas and water cannon to disrupt activists expressing concern about the safety of a temporary warehouse in Gorleben where nuclear waste is being transported via train from France to Germany. It is thought to be the largest such mobilisation ever. ](/news/2010/11/7/police-use-batons-pepper-spray-tear-gas-and-water-cannon-to-disrupt-activists-expressing-concern-about-the-safety-of-a-temporary-warehouse.md)
@@ -21,11 +21,11 @@ Action in Arab town in Negev, following a court order, prompts protest call by M
 
 ##### United States
 ### [Fourteen people are killed in United States drone attacks in North Waziristan, Pakistan. ](/news/2010/11/7/fourteen-people-are-killed-in-united-states-drone-attacks-in-north-waziristan-pakistan.md)
-_Context: drone aircraft, drone attack, North Waziristan, United States, Pakistan_
+_Context: North Waziristan, drone aircraft, Pakistan, United States, drone attack_
 
 ##### Sons of Iraq
 ### [At least three people die, including two members of Sons of Iraq due to a bomb planted at their checkpoint in central Iraq, and an imam was shot dead in Baghdad. ](/news/2010/11/7/at-least-three-people-die-including-two-members-of-sons-of-iraq-due-to-a-bomb-planted-at-their-checkpoint-in-central-iraq-and-an-imam-was.md)
-_Context: imam, Iraq, Sons of Iraq, Baghdad_
+_Context: imam, Baghdad, Sons of Iraq, Iraq_
 
 ##### Queen regnant
 ### [Queen Elizabeth II starts a Facebook page but one is not permitted to "poke" or "befriend" her. ](/news/2010/11/7/queen-elizabeth-ii-starts-a-facebook-page-but-one-is-not-permitted-to-poke-or-befriend-her.md)
@@ -49,11 +49,11 @@ Qantas considers cancelling flights to Jakarta due to the risk posed by ash clou
 
 ##### Iranian Foreign Minister
 ### [Iranian Foreign Minister Manouchehr Mottaki said that Iran has agreed to hold talks with the five UN Security Council permanent members and Germany (G5+1) in Turkey. ](/news/2010/11/7/iranian-foreign-minister-manouchehr-mottaki-said-that-iran-has-agreed-to-hold-talks-with-the-five-un-security-council-permanent-members-and.md)
-_Context: Turkey, Iranian Foreign Minister, Manouchehr Mottaki, UN Security Council, G5, German, Iran_
+_Context: German, Iran, Turkey, Manouchehr Mottaki, G5, Iranian Foreign Minister, UN Security Council_
 
 ##### Israel
 ### [Israel expels Riksdag member Mehmet Kaplan, a veteran of the Gaza flotilla raid, moments after his arrival, claiming he had "failed to follow procedure". Ex-Israeli artist Dror Feiler, who is also currently based in Sweden, is expelled with him. ](/news/2010/11/7/israel-expels-riksdag-member-mehmet-kaplan-a-veteran-of-the-gaza-flotilla-raid-moments-after-his-arrival-claiming-he-had-failed-to-follo.md)
-_Context: Dror Feiler, Israel, Mehmet Kaplan, Sweden, Riksdag, Gaza flotilla raid_
+_Context: Riksdag, Dror Feiler, Mehmet Kaplan, Sweden, Gaza flotilla raid, Israel_
 
 ##### Omar al-Bashir
 ### [Sudanese President Omar al-Bashir arrives in Qatar for talks with Sheikh Hamad bin Khalifa Al Thani. ](/news/2010/11/7/sudanese-president-omar-al-bashir-arrives-in-qatar-for-talks-with-sheikh-hamad-bin-khalifa-al-thani.md)
@@ -69,11 +69,11 @@ Allegations of fraud and voter intimidation are overshadowing Burma&#039;s first
 
 ##### Vietnam
 ### [Police in Vietnam detain prominent government critic Cu Huy Ha Vu on charges of "propaganda against the state". ](/news/2010/11/7/police-in-vietnam-detain-prominent-government-critic-cu-huy-ha-vu-on-charges-of-propaganda-against-the-state.md)
-_Context: Vietnam, propaganda_
+_Context: propaganda, Vietnam_
 
 ##### Greece
 ### [Greeks vote in local elections with the Prime Minister George Papandreou threatening to dissolve parliament if his party does not fare well. Early results show that the PASOK is doing well making an early election less likely. ](/news/2010/11/7/greeks-vote-in-local-elections-with-the-prime-minister-george-papandreou-threatening-to-dissolve-parliament-if-his-party-does-not-fare-well.md)
-_Context: Greek Prime Minister, George Papandreou, Greece, PASOK_
+_Context: PASOK, Greek Prime Minister, George Papandreou, Greece_
 
 ##### Guinea
 ### [Voters in Guinea finally go to the polls for the second round of voting in the presidential election. ](/news/2010/11/7/voters-in-guinea-finally-go-to-the-polls-for-the-second-round-of-voting-in-the-presidential-election.md)

@@ -13,11 +13,11 @@ The list of winners at the 70th annual Golden Globe Awards.
 
 ##### Neelie Kroes
 ### [Neelie Kroes, the European Commissioner for Digital Agenda, said in an interview with the "Financial Times" of London that the European Union is planning regulatory moves later in the year that will facilitate consolidation of the telecommunications market across national borders. ](/news/2013/01/13/neelie-kroes-the-european-commissioner-for-digital-agenda-said-in-an-interview-with-the-financial-times-of-london-that-the-european-unio.md)
-_Context: European Commissioner for Digital Agenda, telecommunication, Financial Times, Neelie Kroes, European Union_
+_Context: Financial Times, European Union, European Commissioner for Digital Agenda, Neelie Kroes, telecommunication_
 
 ##### Sri Lanka
 ### [Sri Lankan Chief Justice Shirani Bandaranayake is removed from office by President Mahinda Rajapaksa after being impeached. ](/news/2013/01/13/sri-lankan-chief-justice-shirani-bandaranayake-is-removed-from-office-by-president-mahinda-rajapaksa-after-being-impeached.md)
-_Context: Sri Lanka, President of Sri Lanka, Rajapaksa, being impeached, Chief Justice, Shirani Bandaranayake_
+_Context: Rajapaksa, being impeached, Chief Justice, Shirani Bandaranayake, Sri Lanka, President of Sri Lanka_
 
 ##### NASA
 ### [NASA announces new data effectively rules out a 2036 Earth impact for the near-Earth asteroid 99942 Apophis. ](/news/2013/01/13/nasa-announces-new-data-effectively-rules-out-a-2036-earth-impact-for-the-near-earth-asteroid-99942-apophis.md)

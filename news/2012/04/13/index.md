@@ -5,7 +5,7 @@ Formats: [HTML](2012/04/13/index.html)  [JSON](2012/04/13/index.json)  [XML](201
 
 ##### Skopje
 ### [Five people are killed near Skopje, the capital of the Republic of Macedonia, amid simmering ethnic tensions in the country. ](/news/2012/04/13/five-people-are-killed-near-skopje-the-capital-of-the-republic-of-macedonia-amid-simmering-ethnic-tensions-in-the-country.md)
-_Context: ethnic tensions in the country, Skopje, Republic of Macedonia_
+_Context: Republic of Macedonia, ethnic tensions in the country, Skopje_
 
 ##### United Nations
 ### [A draft United Nations Security Council resolution outlines plans to send observers to Syria to monitor compliance with a new peace plan, as several people are reportedly shot dead after Friday prayers. ](/news/2012/04/13/a-draft-united-nations-security-council-resolution-outlines-plans-to-send-observers-to-syria-to-monitor-compliance-with-a-new-peace-plan-as.md)
@@ -13,7 +13,7 @@ The UN hopes to send observers to Syria within the next few days to monitor a fr
 
 ##### ECOWAS
 ### [The Economic Community of West African States condemns an apparent coup d'etat in Guinea-Bissau. ](/news/2012/04/13/the-economic-community-of-west-african-states-condemns-an-apparent-coup-d-a-c-tat-in-guinea-bissau.md)
-_Context: coup d'etat, Guinea-Bissau, ECOWAS_
+_Context: ECOWAS, coup d'etat, Guinea-Bissau_
 
 ##### Bollywood
 ### [Bollywood actor Shahrukh Khan is detained by the United States for 90 minutes at a New York airport; the detention draws ire from India's External Affairs Minister S. M. Krishna. ](/news/2012/04/13/bollywood-actor-shahrukh-khan-is-detained-by-the-united-states-for-90-minutes-at-a-new-york-airport-the-detention-draws-ire-from-india-s-ex.md)
@@ -37,15 +37,15 @@ The Prime Minister David Cameron today called for sanctions against Burma to be 
 
 ##### Mongolia
 ### [The former president of Mongolia, Nambaryn Enkhbayar, is detained on corruption charges. ](/news/2012/04/13/the-former-president-of-mongolia-nambaryn-enkhbayar-is-detained-on-corruption-charges.md)
-_Context: Nambaryn Enkhbayar, Mongolia_
+_Context: Mongolia, Nambaryn Enkhbayar_
 
 ##### Nicolas Sarkozy
 ### [French President Nicolas Sarkozy admits he did not visit Fukushima while in Japan after last year's earthquake and tsunami, despite having previously said he had done so. ](/news/2012/04/13/french-president-nicolas-sarkozy-admits-he-did-not-visit-fukushima-while-in-japan-after-last-year-s-earthquake-and-tsunami-despite-having-p.md)
-_Context: Japan, Fukushima Daiichi Nuclear Power Plant, 2011 Tohoku earthquake and tsunami, Nicolas Sarkozy_
+_Context: Fukushima Daiichi Nuclear Power Plant, Japan, 2011 Tohoku earthquake and tsunami, Nicolas Sarkozy_
 
 ##### Bob Brown
 ### [Bob Brown resigns as Parliamentary Leader of the Australian Greens and from the Senate. ](/news/2012/04/13/bob-brown-resigns-as-parliamentary-leader-of-the-australian-greens-and-from-the-senate.md)
-_Context: Senate of Australia, Australian Greens, Bob Brown_
+_Context: Senate of Australia, Bob Brown, Australian Greens_
 
 ## [Previous Day...](/news/2012/04/12/index.md)
 

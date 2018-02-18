@@ -45,7 +45,7 @@ India forms two new army divisions - comprising more than 36,000 men - to defend
 
 ##### Bangladesh
 ### [Bangladesh sentences a further 23 soldiers from the Bangladesh Rifles to imprisonment over a mutiny in February 2009. ](/news/2010/11/23/bangladesh-sentences-a-further-23-soldiers-from-the-bangladesh-rifles-to-imprisonment-over-a-mutiny-in-february-2009.md)
-_Context: Bangladesh, Bangladesh Rifles, 2009 Bangladesh Rifles revolt_
+_Context: 2009 Bangladesh Rifles revolt, Bangladesh Rifles, Bangladesh_
 
 ##### Brian Cowen
 ### [Brian Cowen, the Taoiseach, claims in Dil ireann that he is "not clinging to power". ](/news/2010/11/23/brian-cowen-the-taoiseach-claims-in-dail-eireann-that-he-is-not-clinging-to-power.md)
@@ -53,7 +53,7 @@ Taoiseach Brian Cowen has rejected Fine Gael&#39;s accusations that he is engage
 
 ##### Burma
 ### [Burmese pro-democracy leader Aung San Suu Kyi is reunited with her son for the first time in a decade. ](/news/2010/11/23/burmese-pro-democracy-leader-aung-san-suu-kyi-is-reunited-with-her-son-for-the-first-time-in-a-decade.md)
-_Context: democratic, Aung San Suu Kyi, Burma_
+_Context: democratic, Burma, Aung San Suu Kyi_
 
 ##### Abdullah II of Jordan
 ### [King Abdullah II of Jordan commissions the Prime Minister Samir Rifai to form a new government following recent elections. ](/news/2010/11/23/king-abdullah-ii-of-jordan-commissions-the-prime-minister-samir-rifai-to-form-a-new-government-following-recent-elections.md)

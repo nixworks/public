@@ -5,7 +5,7 @@ Formats: [HTML](2005/05/4/index.html)  [JSON](2005/05/4/index.json)  [XML](2005/
 
 ##### West Bank
 ### [ Israel freezes the handover of West Bank Palestinian towns to the Palestinian Authority. Israel claims they will resume the handover process when militant groups are disarmed. The Prime Minister of Israel, Ariel Sharon, had agreed to hand over five West Bank towns to Palestinian control, but thus far has only handed over Tulkarm and Jericho. ](/news/2005/05/4/israel-freezes-the-handover-of-west-bank-palestinian-towns-to-the-palestinian-authority-israel-claims-they-will-resume-the-handover-proces.md)
-_Context: Palestinian Authority, Israeli Prime Minister, Israel, Jericho, West Bank, Tulkarm, Palestinian, Ariel Sharon_
+_Context: Israel, Palestinian Authority, Ariel Sharon, Tulkarm, Israeli Prime Minister, West Bank, Jericho, Palestinian_
 
 ##### Suicide bomber
 ### [ A suicide bomberer in Irbil, a Kurdish city of Northern Iraq, kills more than 50 people. ](/news/2005/05/4/a-suicide-bomberer-in-irbil-a-kurdish-city-of-northern-iraq-kills-more-than-50-people.md)
@@ -17,7 +17,7 @@ _Context: Peru, Alejandro Toledo, electoral fraud_
 
 ##### Peru
 ### [ Peru suspends free trade talks with Chile due to allegations that Chile supplied arms to Ecuador during that nation's 1995 war with Peru. ](/news/2005/05/4/peru-suspends-free-trade-talks-with-chile-due-to-allegations-that-chile-supplied-arms-to-ecuador-during-that-nation-s-1995-war-with-peru.md)
-_Context: Ecuador, free trade, Chile, 1995, Peru_
+_Context: Chile, free trade, 1995, Ecuador, Peru_
 
 ##### Italy
 ### [ Italy's supreme court clears three men who had received a life sentence for 1969 bombing in Milan bank. ](/news/2005/05/4/italy-s-supreme-court-clears-three-men-who-had-received-a-life-sentence-for-1969-bombing-in-milan-bank.md)

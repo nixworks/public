@@ -13,11 +13,11 @@ A suicide bomber on Wednesday killed at least 12 people and injured many more in
 
 ##### Somalia
 ### [A suicide bomber detonates an explosion in Somalia's national theatre in Mogadishu while a ceremony is taking place, killing at least ten people, including the presidents of the Somali Olympic Committee and the Somali Football Federation. ](/news/2012/04/4/a-suicide-bomber-detonates-an-explosion-in-somalia-s-national-theatre-in-mogadishu-while-a-ceremony-is-taking-place-killing-at-least-ten-pe.md)
-_Context: Somali Olympic Committee, Somali Football Federation, Somalia, Mogadishu_
+_Context: Somalia, Somali Football Federation, Somali Olympic Committee, Mogadishu_
 
 ##### German
 ### [German Nobel laureate Gunter Grass's poem, that accuses Israel of plotting to "wipe out" Iran, generates controversy. ](/news/2012/04/4/german-nobel-laureate-ga1-4nter-grass-s-poem-that-accuses-israel-of-plotting-to-wipe-out-iran-generates-controversy.md)
-_Context: Israel, German, Gunter Grass, poem, Nobel laureate, Iran_
+_Context: Israel, Nobel laureate, poem, Iran, German, Gunter Grass_
 
 ##### Northern England
 ### [As many as 50,000 homes in northern England are hit by a power blackout after heavy winds, snow and ice bring down electricity cables. ](/news/2012/04/4/as-many-as-50-000-homes-in-northern-england-are-hit-by-a-power-blackout-after-heavy-winds-snow-and-ice-bring-down-electricity-cables.md)
@@ -29,11 +29,11 @@ Some 200 US Marines, the first contingent of up to 2,500 to be deployed in north
 
 ##### ASEAN Summit
 ### [The 20th ASEAN Summit meeting in Phnom Penh, Cambodia, calls for sanctions to be lifted against Myanmar or Burma following recent by-elections. ](/news/2012/04/4/the-20th-asean-summit-meeting-in-phnom-penh-cambodia-calls-for-sanctions-to-be-lifted-against-myanmar-or-burma-following-recent-by-electio.md)
-_Context: sanctions, Myanmar, ASEAN Summit, by-elections earlier this month, Phnom Penh, Cambodia_
+_Context: Phnom Penh, ASEAN Summit, Myanmar, by-elections earlier this month, sanctions, Cambodia_
 
 ##### France
 ### [France arrests ten suspected militant Islamists following 13 people arrested last week. ](/news/2012/04/4/france-arrests-ten-suspected-militant-islamists-following-13-people-arrested-last-week.md)
-_Context: France, Islamist_
+_Context: Islamist, France_
 
 ##### New Orleans Police Department
 ### [Former New Orleans Police Department officers are sentenced to decades in jail for shooting civilians after Hurricane Katrina, and a subsequent coverup. ](/news/2012/04/4/former-new-orleans-police-department-officers-are-sentenced-to-decades-in-jail-for-shooting-civilians-after-hurricane-katrina-and-a-subsequ.md)
@@ -45,7 +45,7 @@ _Context: Venezuela, Juan Carlos Figarella_
 
 ##### President of Serbia
 ### [The President of Serbia Boris Tadic announces his resignation to pave the way for early presidential elections. ](/news/2012/04/4/the-president-of-serbia-boris-tadia-announces-his-resignation-to-pave-the-way-for-early-presidential-elections.md)
-_Context: Boris Tadic, President of Serbia, elected_
+_Context: elected, President of Serbia, Boris Tadic_
 
 ## [Previous Day...](/news/2012/04/3/index.md)
 

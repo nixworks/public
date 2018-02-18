@@ -21,7 +21,7 @@ As many as 500,000 people in India have been evacuated as a massive cyclone swee
 
 ##### Migrant boat sinks
 ### [A migrant boat sinks in the Channel of Sicily with at least 27 people dead but over 200 rescued. ](/news/2013/10/11/a-migrant-boat-sinks-in-the-channel-of-sicily-with-at-least-27-people-dead-but-over-200-rescued.md)
-_Context: Channel of Sicily, migrant boat sinks_
+_Context: migrant boat sinks, Channel of Sicily_
 
 ##### Organisation for the Prohibition of Chemical Weapons
 ### [The Organisation for the Prohibition of Chemical Weapons wins the Nobel Peace Prize. ](/news/2013/10/11/the-organisation-for-the-prohibition-of-chemical-weapons-wins-the-nobel-peace-prize.md)
@@ -33,7 +33,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### North Korea
 ### [Myunghee Bae arrives in North Korea to visit her American son Kenneth Bae, who is serving 15 years of hard labor. ](/news/2013/10/11/myunghee-bae-arrives-in-north-korea-to-visit-her-american-son-kenneth-bae-who-is-serving-15-years-of-hard-labor.md)
-_Context: North Korea, Kenneth Bae_
+_Context: Kenneth Bae, North Korea_
 
 ##### 10 Downing Street
 ### [The UK government publishes a draft royal charter aimed at underpinning self-regulation of the British press following an agreement on the issue by the country's three main political parties. However, the proposals are greeted with concerns about press freedom by the industry. ](/news/2013/10/11/the-uk-government-publishes-a-draft-royal-charter-aimed-at-underpinning-self-regulation-of-the-british-press-following-an-agreement-on-the-i.md)

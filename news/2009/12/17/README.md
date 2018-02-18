@@ -5,11 +5,11 @@ Formats: [HTML](2009/12/17/index.html)  [JSON](2009/12/17/index.json)  [XML](200
 
 ##### Europe
 ### [ Europe is hit by heavy snowfall leading to disruptions in France, Germany, Poland and Spain. ](/news/2009/12/17/europe-is-hit-by-heavy-snowfall-leading-to-disruptions-in-france-germany-poland-and-spain.md)
-_Context: Spain, Europe, France, Poland, German_
+_Context: France, Europe, German, Spain, Poland_
 
 ##### Panama
 ### [ The Panamanian livestock transporter MV "Danny F II" sinks off the coast of Lebanon while travelling from Uruguay to Syria with 83 people on board. ](/news/2009/12/17/the-panamanian-livestock-transporter-mv-danny-f-ii-sinks-off-the-coast-of-lebanon-while-travelling-from-uruguay-to-syria-with-83-people-o.md)
-_Context: MV ''Danny F II'', Lebanese, Uruguay, Syria, Panama_
+_Context: Uruguay, Panama, MV ''Danny F II'', Syria, Lebanese_
 
 ##### Irish
 ### [ Ireland exits "one of Europe's worst recessions". ](/news/2009/12/17/ireland-exits-one-of-europe-s-worst-recessions.md)
@@ -25,15 +25,15 @@ _Context: James Ibori, Delta State, Nigeria_
 
 ##### Egypt
 ### [ Egyptian archaeologists recover from the Mediterranean Sea an ancient temple pylon belonging to the palace complex of Cleopatra. ](/news/2009/12/17/egyptian-archaeologists-recover-from-the-mediterranean-sea-an-ancient-temple-pylon-belonging-to-the-palace-complex-of-cleopatra.md)
-_Context: Egypt, Mediterranean Sea, pylon, archaeologist, Cleopatra_
+_Context: Cleopatra, archaeologist, Mediterranean Sea, pylon, Egypt_
 
 ##### Iraq
 ### [ It is revealed that Iraqi militants intercepted live video feeds from U.S. MQ-1 Predator drones, potentially acquiring information they need to evade or monitor U.S. military operations. ](/news/2009/12/17/it-is-revealed-that-iraqi-militants-intercepted-live-video-feeds-from-u-s-mq-1-predator-drones-potentially-acquiring-information-they-nee.md)
-_Context: MQ-1 Predator, Iraq_
+_Context: Iraq, MQ-1 Predator_
 
 ##### Pakistan
 ### [ The Pakistani opposition calls on President Asif Ali Zardari to resign after the Supreme Court declared void an amnesty protecting him and other senior officials from corruption charges. ](/news/2009/12/17/the-pakistani-opposition-calls-on-president-asif-ali-zardari-to-resign-after-the-supreme-court-declared-void-an-amnesty-protecting-him-and.md)
-_Context: Pakistan, amnesty protecting him, Supreme Court, Asif Ali Zardari_
+_Context: Supreme Court, Asif Ali Zardari, amnesty protecting him, Pakistan_
 
 ##### Yemen
 ### [ Yemen authorities say 34 suspected Al-Qaeda militants have been killed and 17 captured in raids at hideouts and training camps in the west of the country. ](/news/2009/12/17/yemen-authorities-say-34-suspected-al-qaeda-militants-have-been-killed-and-17-captured-in-raids-at-hideouts-and-training-camps-in-the-west.md)
@@ -41,7 +41,7 @@ _Context: Yemen, al-Qaeda_
 
 ##### Colombia
 ### [ Two of Colombia's main rebel groups, the Revolutionary Armed Forces of Colombia (FARC) and the National Liberation Army (ELN), announce they are to unite. ](/news/2009/12/17/two-of-colombia-s-main-rebel-groups-the-revolutionary-armed-forces-of-colombia-farc-and-the-national-liberation-army-eln-announce-the.md)
-_Context: Revolutionary Armed Forces of Colombia, Colombia, ELN_
+_Context: ELN, Revolutionary Armed Forces of Colombia, Colombia_
 
 ##### Flyglobespan
 ### [ The collapse of UK airline Flyglobespan leaves thousands of travellers stranded. ](/news/2009/12/17/the-collapse-of-uk-airline-flyglobespan-leaves-thousands-of-travellers-stranded.md)
@@ -53,11 +53,11 @@ Western Sahara independence activist Aminatou Haidar was taken to hospital at he
 
 ##### Catholic Church
 ### [ The Catholic Church condemns as "inappropriate" and "disrespectful" a New Zealand billboard involving nudity and the birth of Jesus Christ. ](/news/2009/12/17/the-catholic-church-condemns-as-inappropriate-and-disrespectful-a-new-zealand-billboard-involving-nudity-and-the-birth-of-jesus-christ.md)
-_Context: New Zealand, Catholic Church, Jesus_
+_Context: Catholic Church, New Zealand, Jesus_
 
 ##### High Court of England and Wales
 ### [ The English High Court grants British Airways an injunction against a proposed twelve day strike by cabin crew represented by trade union Unite scheduled to occur over Christmas. ](/news/2009/12/17/the-english-high-court-grants-british-airways-an-injunction-against-a-proposed-twelve-day-strike-by-cabin-crew-represented-by-trade-union-u.md)
-_Context: Christmas, labour unions, proposed twelve day strike, British Airways, High Court of England and Wales, injunction, Unite union_
+_Context: proposed twelve day strike, labour unions, Christmas, High Court of England and Wales, Unite union, British Airways, injunction_
 
 ## [Previous Day...](/news/2009/12/16/index.md)
 

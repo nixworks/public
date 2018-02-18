@@ -5,7 +5,7 @@ Formats: [HTML](2013/06/12/index.html)  [JSON](2013/06/12/index.json)  [XML](201
 
 ##### United Nations
 ### [United Nations peacekeepers from Austria start withdrawing from the Golan Heights. ](/news/2013/06/12/united-nations-peacekeepers-from-austria-start-withdrawing-from-the-golan-heights.md)
-_Context: peacekeepers, United Nations, Golan Heights, Austria_
+_Context: United Nations, Austria, peacekeepers, Golan Heights_
 
 ##### Scotland
 ### [Gunmen kidnap a Scottish man working for a British energy company in the Indonesian province of Aceh. ](/news/2013/06/12/gunmen-kidnap-a-scottish-man-working-for-a-british-energy-company-in-the-indonesian-province-of-aceh.md)
@@ -21,7 +21,7 @@ Japan&#039;s Jiroemon Kimura, recognised by Guinness World Records as the oldest
 
 ##### Facebook
 ### [Facebook announces it plans to introduce clickable hashtags. ](/news/2013/06/12/facebook-announces-it-plans-to-introduce-clickable-hashtags.md)
-_Context: hashtag, Facebook_
+_Context: Facebook, hashtag_
 
 ##### New Zealand Dollar
 ### [The New Zealand Dollar falls against all major currencies after RBNZ keeps interest rates unchanged. ](/news/2013/06/12/the-new-zealand-dollar-falls-against-all-major-currencies-after-rbnz-keeps-interest-rates-unchanged.md)
@@ -65,7 +65,7 @@ _Context: anti-government protests_
 
 ##### UNICEF
 ### [New figures from UNICEF show that 150 million children are engaged in child labor worldwide. ](/news/2013/06/12/new-figures-from-unicef-show-that-150-million-children-are-engaged-in-child-labor-worldwide.md)
-_Context: UNICEF, child labor_
+_Context: child labor, UNICEF_
 
 ##### State Duma
 ### [Russia's Duma passes a law banning "gay propaganda". ](/news/2013/06/12/russia-s-duma-passes-a-law-banning-gay-propaganda.md)
@@ -77,7 +77,7 @@ Time to rewrite the textbooks!
 
 ##### Altitude
 ### [A new study suggests that altitude plays a role in language evolution, explaining why ejective sounds are more popular in languages of high-altitude regions. ](/news/2013/06/12/a-new-study-suggests-that-altitude-plays-a-role-in-language-evolution-explaining-why-ejective-sounds-are-more-popular-in-languages-of-high.md)
-_Context: language evolution, altitude, ejective_
+_Context: altitude, ejective, language evolution_
 
 ## [Previous Day...](/news/2013/06/11/index.md)
 
