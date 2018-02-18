@@ -32,7 +32,7 @@ The Gulf Coast landfall will only be part of the danger.
 A Danish inventor is accused of the negligent manslaughter of a Swedish journalist.
 
 ##### Angolan legislative election, 2017
-### [Voters in Angola go to the polls to elect 220 National Assembly members. The leader of the winning party will become the new president, following the retirement of Jos Eduardo dos Santos, who has held the role since 1979. ](/news/2017/08/23/voters-in-angola-go-to-the-polls-to-elect-220-national-assembly-members-the-leader-of-the-winning-party-will-become-the-new-president-foll.md)
+### [Voters in Angola go to the polls to elect 220 National Assembly members. The leader of the winning party will become the new president, following the retirement of Jose Eduardo dos Santos, who has held the role since 1979. ](/news/2017/08/23/voters-in-angola-go-to-the-polls-to-elect-220-national-assembly-members-the-leader-of-the-winning-party-will-become-the-new-president-foll.md)
 Millions of Angolans to cast their votes on Wednesday as 74-year-old, who has ruled for 38-years, leaves office.
 
 ## [Previous Day...](/news/2017/08/22/index.md)

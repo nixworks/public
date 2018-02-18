@@ -3,6 +3,10 @@ Formats: [HTML](2018/02/18/index.html)  [JSON](2018/02/18/index.json)  [XML](201
 
 ## [2018-02-18](/news/2018/02/18/index.md)
 
+##### Kizlyar
+### [A gunman shoots dead four people and wounds several others at a church in Kizlyar, Dagestan. The suspect is then killed in a gun battle with police. ](/news/2018/02/18/a-gunman-shoots-dead-four-people-and-wounds-several-others-at-a-church-in-kizlyar-dagestan-the-suspect-is-then-killed-in-a-gun-battle-with.md)
+_Context: Kizlyar, Dagestan_
+
 ##### Iran Aseman Airlines
 ### [An Iran Aseman Airlines ATR 72 commercial aircraft carrying 66 people crashes near the Iranian town of Semirom. The airline reports that there are no survivors. ](/news/2018/02/18/an-iran-aseman-airlines-atr-72-commercial-aircraft-carrying-66-people-crashes-near-the-iranian-town-of-semirom-the-airline-reports-that-the.md)
 A commercial airliner carrying 66 people has crashed in southern Iran, the country’s semi-official Fars news agency reported.
