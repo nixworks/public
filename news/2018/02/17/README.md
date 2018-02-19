@@ -5,7 +5,7 @@ Formats: [HTML](2018/02/17/index.html)  [JSON](2018/02/17/index.json)  [XML](201
 
 ##### 2018 Oaxaca earthquake
 ### [A military helicopter surveying the damage, carrying the Governor of Oaxaca Alejandro Murat Hinojosa and Mexico's Secretary of the Interior Alfonso Navarrete Prida, crashes over Jamiltepec, killing 13 people on the ground. These deaths are the only known ones related to the earthquake reported so far. ](/news/2018/02/17/a-military-helicopter-surveying-the-damage-carrying-the-governor-of-oaxaca-alejandro-murat-hinojosa-and-mexico-s-secretary-of-the-interior.md)
-_Context: Governor of Oaxaca, Alejandro Murat Hinojosa, Mexico's Secretary of the Interior, Jamiltepec, Alfonso Navarrete Prida, 2018 Oaxaca earthquake_
+_Context: Alfonso Navarrete Prida, Alejandro Murat Hinojosa, Mexico's Secretary of the Interior, 2018 Oaxaca earthquake, Jamiltepec, Governor of Oaxaca_
 
 ##### United Kingdom
 ### [A magnitude 4.4 earthquake, the strongest in the United Kingdom for ten years, occurs at Swansea. ](/news/2018/02/17/a-magnitude-4-4-earthquake-the-strongest-in-the-united-kingdom-for-ten-years-occurs-at-swansea.md)
