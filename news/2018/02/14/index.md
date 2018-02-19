@@ -17,7 +17,7 @@ NSA said situation is &quot;under control&quot;
 
 ##### Stoneman Douglas High School shooting
 ### [A former student, 19-year-old Nikolas Cruz, shoots and kills 17 people (14 of which were teenagers) and leaves 15 others wounded in a shooting at a high school in Parkland, Florida. This is the deadliest high school shooting in U.S. history. ](/news/2018/02/14/a-former-student-19-year-old-nikolas-cruz-shoots-and-kills-17-people-14-of-which-were-teenagers-and-leaves-15-others-wounded-in-a-shooti.md)
-_Context: high school, school shooting, Florida, Stoneman Douglas High School shooting, School shootings in the United States, deadliest high school shooting in U.S. history, Parkland_
+_Context: Parkland, school shooting, School shootings in the United States, Florida, deadliest high school shooting in U.S. history, high school, Stoneman Douglas High School shooting_
 
 ##### Crime in South Africa
 ### [The residence of the Gupta family is raided by the South African Police Service's elite Hawks unit and three people are arrested. ](/news/2018/02/14/the-residence-of-the-gupta-family-is-raided-by-the-south-african-police-service-s-elite-hawks-unit-and-three-people-are-arrested.md)
@@ -41,7 +41,7 @@ French police have found the remains of an eight-year-old French girl who vanish
 
 ##### Ukrainian crisis
 ### [Mikheil Saakashvili, leader of the opposition Movement of New Forces party, who was deported from Ukraine to Poland, relocates to the Netherlands. ](/news/2018/02/14/mikheil-saakashvili-leader-of-the-opposition-movement-of-new-forces-party-who-was-deported-from-ukraine-to-poland-relocates-to-the-nether.md)
-_Context: Ukrainian crisis, Netherlands, Ukraine, Movement of New Forces, Mikheil Saakashvili, Poland_
+_Context: Poland, Movement of New Forces, Ukraine, Mikheil Saakashvili, Netherlands, Ukrainian crisis_
 
 ##### Politics of South Africa
 ### [Jacob Zuma resigns as President of South Africa effective immediately, following an ultimatum issued the day prior by African National Congress that ordered Zuma to step down as head of state or face a vote of no confidence by the South African Parliament to remove him from power within 48 hours of the declaration. Cyril Ramaphosa takes over as Acting President. ](/news/2018/02/14/jacob-zuma-resigns-as-president-of-south-africa-effective-immediately-following-an-ultimatum-issued-the-day-prior-by-african-national-congr.md)
