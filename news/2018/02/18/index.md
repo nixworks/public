@@ -5,10 +5,10 @@ Formats: [HTML](2018/02/18/index.html)  [JSON](2018/02/18/index.json)  [XML](201
 
 ##### Insurgency in the North Caucasus
 ### [A gunman kills five people and wounds several others at a church in Kizlyar, Dagestan, Russia. The suspect is killed in an ensuing shootout with the police. ](/news/2018/02/18/a-gunman-kills-five-people-and-wounds-several-others-at-a-church-in-kizlyar-dagestan-russia-the-suspect-is-killed-in-an-ensuing-shootout.md)
-_Context: shootout, Dagestan, Kizlyar, Russia, Insurgency in the North Caucasus_
+_Context: Dagestan, Insurgency in the North Caucasus, Russia, Kizlyar, shootout_
 
 ##### Iran Aseman Airlines Flight 3704
-### [An Iran Aseman Airlines ATR 72 commercial aircraft carrying 66 people crashes near the Iranian town of Semirom. The airline reports that there are no survivors. ](/news/2018/02/18/an-iran-aseman-airlines-atr-72-commercial-aircraft-carrying-66-people-crashes-near-the-iranian-town-of-semirom-the-airline-reports-that-the.md)
+### [An Iran Aseman Airlines ATR 72 commercial aircraft carrying 59 passengers and 6 crew members crashes near the Iranian town of Semirom. The airline reports that there are no survivors. ](/news/2018/02/18/an-iran-aseman-airlines-atr-72-commercial-aircraft-carrying-59-passengers-and-6-crew-members-crashes-near-the-iranian-town-of-semirom-the-a.md)
 A commercial airliner carrying 66 people has crashed in southern Iran, the country’s semi-official Fars news agency reported.
 
 ##### Corruption in Latvia
