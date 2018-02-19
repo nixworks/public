@@ -5,7 +5,7 @@ Formats: [HTML](2015/08/26/index.html)  [JSON](2015/08/26/index.json)  [XML](201
 
 ##### War in Afghanistan (2015-present)
 ### [Two NATO soldiers are shot dead by two men in Afghan military uniforms. ](/news/2015/08/26/two-nato-soldiers-are-shot-dead-by-two-men-in-afghan-military-uniforms.md)
-_Context: War in Afghanistan (2015-present), NATO_
+_Context: NATO, War in Afghanistan (2015-present)_
 
 ##### ISIL
 ### [ISIL has destroyed two historic Muslim shrines in Palmyra. ](/news/2015/08/26/isil-has-destroyed-two-historic-muslim-shrines-in-palmyra.md)
@@ -17,7 +17,7 @@ The Zoo announced on August 26 that the smaller of its newborn twin panda cubs h
 
 ##### Oshkosh L-ATV
 ### [The U.S. Army awards the $6.7 billion contract for the Joint Light Tactical Vehicle, the replacement for the Humvee, to the Wisconsin-based company Oshkosh Corporation. ](/news/2015/08/26/the-u-s-army-awards-the-6-7-billion-contract-for-the-joint-light-tactical-vehicle-the-replacement-for-the-humvee-to-the-wisconsin-based.md)
-_Context: Joint Light Tactical Vehicle, Wisconsin, Oshkosh L-ATV, military Humvee, Oshkosh Corporation, U.S. Army, $_
+_Context: Joint Light Tactical Vehicle, U.S. Army, $, Oshkosh L-ATV, Wisconsin, Oshkosh Corporation, military Humvee_
 
 ##### European migrant crisis
 ### [A Swedish rescue crew finds 51 dead migrants in the hold of a boat off the coast of Libya during a rescue operation in the Mediterranean Sea that has saved 439 other people. In addition, three women are found dead in another migrant boat and another corpse is found during ten rescue operations on Wednesday that have saved around 3,000 people, according to the Italian coast guard. ](/news/2015/08/26/a-swedish-rescue-crew-finds-51-dead-migrants-in-the-hold-of-a-boat-off-the-coast-of-libya-during-a-rescue-operation-in-the-mediterranean-sea.md)

@@ -17,7 +17,7 @@ Archaeologists said a bone flute and two fragments of ivory flutes discovered la
 
 ##### Mark Sanford
 ### [ Mark Sanford, Governor of the U.S. state of South Carolina, admits to adultery with an Argentine woman and resigns as Chairman of the Republican Governors Association. ](/news/2009/06/24/mark-sanford-governor-of-the-u-s-state-of-south-carolina-admits-to-adultery-with-an-argentine-woman-and-resigns-as-chairman-of-the-repub.md)
-_Context: Argentina, South Carolina governor, Mark Sanford, Republican Governors Association, U.S. state, admits, South Carolina, adultery_
+_Context: Argentina, Mark Sanford, South Carolina governor, U.S. state, admits, Republican Governors Association, South Carolina, adultery_
 
 ##### Iran
 ### [ Supreme Leader Ayatollah Ali Khamenei declares the recent election result will stand. ](/news/2009/06/24/supreme-leader-ayatollah-ali-khamenei-declares-the-recent-election-result-will-stand.md)
@@ -29,7 +29,7 @@ At least 30 people have been killed in US missile strikes in the South Wazirista
 
 ##### Government
 ### [ The Chinese government formally arrests dissident Liu Xiaobo on charges of state subversion. ](/news/2009/06/24/the-chinese-government-formally-arrests-dissident-liu-xiaobo-on-charges-of-state-subversion.md)
-_Context: dissident, subverting, government, Liu Xiaobo_
+_Context: subverting, government, dissident, Liu Xiaobo_
 
 ##### United States
 ### [ The United States is to send an ambassador to Syria after an absence of four years. ](/news/2009/06/24/the-united-states-is-to-send-an-ambassador-to-syria-after-an-absence-of-four-years.md)
@@ -37,7 +37,7 @@ _Context: United States, Syria_
 
 ##### Chechnya
 ### [ A bomb kills two people and injures six others in Chechnya, Russia. ](/news/2009/06/24/a-bomb-kills-two-people-and-injures-six-others-in-chechnya-russia.md)
-_Context: Chechnya, Russia_
+_Context: Russia, Chechnya_
 
 ##### Bagram Air Base
 ### [ Former detainees allege abuses at Bagram Air Base in Afghanistan. ](/news/2009/06/24/former-detainees-allege-abuses-at-bagram-air-base-in-afghanistan.md)
@@ -45,7 +45,7 @@ _Context: Afghan, Bagram Air Base_
 
 ##### Bombing
 ### [ More than 60 are killed and 150 are injured after a bombing in Baghdad. ](/news/2009/06/24/more-than-60-are-killed-and-150-are-injured-after-a-bombing-in-baghdad.md)
-_Context: bombing, Baghdad_
+_Context: Baghdad, bombing_
 
 ##### Bolivia
 ### [ Seven members of Bolivia's Mennonite Christian community are detained over the alleged rape of 60 women or girls from their own community. ](/news/2009/06/24/seven-members-of-bolivia-s-mennonite-christian-community-are-detained-over-the-alleged-rape-of-60-women-or-girls-from-their-own-community.md)

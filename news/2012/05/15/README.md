@@ -9,11 +9,11 @@ At least 20 people are killed by Syrian security forces in the north-west town o
 
 ##### Yemen
 ### [At least 44 people are killed amid a Yemeni government offensive to retake Zinjibar and Jaar from Islamist militants. Among the casualties are three soldiers and at least 11 civilians. ](/news/2012/05/15/at-least-44-people-are-killed-amid-a-yemeni-government-offensive-to-retake-zinjibar-and-jaar-from-islamist-militants-among-the-casualties-a.md)
-_Context: Ja'ar, Yemen, Zinjibar_
+_Context: Yemen, Zinjibar, Ja'ar_
 
 ##### Colombia
 ### [A targeted bombing in the Colombian capital Bogota injures former Interior Minister Fernando Londono, and kills his driver and a police officer. ](/news/2012/05/15/a-targeted-bombing-in-the-colombian-capital-bogota-injures-former-interior-minister-fernando-londoa-o-and-kills-his-driver-and-a-police-off.md)
-_Context: Interior Minister, Fernando Londono, Bogota, Colombia_
+_Context: Colombia, Bogota, Fernando Londono, Interior Minister_
 
 ##### Mexico
 ### [Mexican author Carlos Fuentes, one of the leading authors of the Latin American literary boom, dies in Mexico aged 83. ](/news/2012/05/15/mexican-author-carlos-fuentes-one-of-the-leading-authors-of-the-latin-american-literary-boom-dies-in-mexico-aged-83.md)
@@ -33,7 +33,7 @@ _Context: sets herself alight, Anders Behring Breivik, Oslo, 2011 Norway attacks
 
 ##### India
 ### [Indian child actress Taruni Sachdev and her mother are revealed to be among the dead in yesterday's plane crash in northern Nepal, which killed 15 people. ](/news/2012/05/15/indian-child-actress-taruni-sachdev-and-her-mother-are-revealed-to-be-among-the-dead-in-yesterday-s-plane-crash-in-northern-nepal-which-kil.md)
-_Context: plane crash, India, Nepal, Taruni Sachdev_
+_Context: Taruni Sachdev, India, Nepal, plane crash_
 
 ##### Palestinian
 ### [Thousands of Palestinians demonstrate on the 64th anniversary of their "Nakba" (en, in remembrance of their exodus from the former Mandate of Palestine after Israel's declaration of independence in 1948. Demonstrators and Israeli policemen are lightly injured in several clashes. ](/news/2012/05/15/thousands-of-palestinians-demonstrate-on-the-64th-anniversary-of-their-nakba-en-in-remembrance-of-their-exodus-from-the-former-mandate-o.md)
@@ -49,11 +49,11 @@ Rebekah Brooks, the former News International chief executive, has been charged 
 
 ##### Iran
 ### [Majid Jamali Fashi, convicted of killing Iranian quantum field theorist and elementary-particle physicist Masoud Alimohammadi, is executed. ](/news/2012/05/15/majid-jamali-fashi-convicted-of-killing-iranian-quantum-field-theorist-and-elementary-particle-physicist-masoud-alimohammadi-is-executed.md)
-_Context: quantum field theorist, Iran, Masoud Alimohammadi, elementary-particle physicist_
+_Context: quantum field theorist, elementary-particle physicist, Masoud Alimohammadi, Iran_
 
 ##### Port St. John
 ### [A mother kills her four children and then herself in Port St. John, Florida. ](/news/2012/05/15/a-mother-kills-her-four-children-and-then-herself-in-port-st-john-florida.md)
-_Context: Port St. John, Florida_
+_Context: Florida, Port St. John_
 
 ##### Francois Hollande
 ### [Francois Hollande is sworn in as the 24th President of France. Hollande appoints Jean-Marc Ayrault as his Prime Minister. ](/news/2012/05/15/franassois-hollande-is-sworn-in-as-the-24th-president-of-france-hollande-appoints-jean-marc-ayrault-as-his-prime-minister.md)
@@ -61,11 +61,11 @@ Socialist Francois Hollande is sworn in as France&#039;s president before naming
 
 ##### Greece
 ### [Crisis-wracked Greece is forced to hold new general elections, after efforts by major political parties to form a coalition government end in failure. ](/news/2012/05/15/crisis-wracked-greece-is-forced-to-hold-new-general-elections-after-efforts-by-major-political-parties-to-form-a-coalition-government-end-i.md)
-_Context: Greece, coalition_
+_Context: coalition, Greece_
 
 ##### United States
 ### [The United States announces a national plan to develop an effective treatment for Alzheimer's disease by 2025. ](/news/2012/05/15/the-united-states-announces-a-national-plan-to-develop-an-effective-treatment-for-alzheimer-s-disease-by-2025.md)
-_Context: United States, Alzheimer's disease_
+_Context: Alzheimer's disease, United States_
 
 ##### Virus
 ### [American scientists develop a device which uses genetically-engineered viruses to generate electricity. The invention could allow the development of ubiquitous piezoelectric micro-generators which gather energy from everyday vibrations such as closing doors. ](/news/2012/05/15/american-scientists-develop-a-device-which-uses-genetically-engineered-viruses-to-generate-electricity-the-invention-could-allow-the-develo.md)

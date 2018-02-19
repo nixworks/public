@@ -9,19 +9,19 @@ _Context: US President, George W. Bush, the World Bank, Robert Zoellick, US Depu
 
 ##### Supreme Court of the United States
 ### [ U.S. Supreme Court Justice Ruth Bader Ginsburg takes the rare step of reading aloud her dissent in "Ledbetter v. Goodyear". ](/news/2007/05/29/u-s-supreme-court-justice-ruth-bader-ginsburg-takes-the-rare-step-of-reading-aloud-her-dissent-in-ledbetter-v-goodyear.md)
-_Context: Supreme Court of the United States, dissent, Ruth Bader Ginsburg, Ledbetter v. Goodyear, Justice_
+_Context: Justice, dissent, Supreme Court of the United States, Ledbetter v. Goodyear, Ruth Bader Ginsburg_
 
 ##### Lebanese
 ### [ Heavy fighting resumes between the Lebanese army and al Qaeda linked militants at the Nahr el-Bared refugee camp. ](/news/2007/05/29/heavy-fighting-resumes-between-the-lebanese-army-and-al-qaeda-linked-militants-at-the-nahr-el-bared-refugee-camp.md)
-_Context: Nahr el-Bared, refugee, al Qaeda, Lebanese_
+_Context: al Qaeda, Lebanese, refugee, Nahr el-Bared_
 
 ##### United States
 ### [ United States health officials quarantine a man who may have exposed passengers on two transatlantic flights to extensively drug resistant tuberculosis. ](/news/2007/05/29/united-states-health-officials-quarantine-a-man-who-may-have-exposed-passengers-on-two-transatlantic-flights-to-extensively-drug-resistant.md)
-_Context: extensively drug resistant tuberculosis, quarantine, transatlantic flight, United States_
+_Context: United States, quarantine, transatlantic flight, extensively drug resistant tuberculosis_
 
 ##### Russia
 ### [ Russia successfully tests its new RS-24 ICBM, purportedly designed to defeat present and future anti-missile systems. ](/news/2007/05/29/russia-successfully-tests-its-new-rs-24-icbm-purportedly-designed-to-defeat-present-and-future-anti-missile-systems.md)
-_Context: Russia, RS-24, ICBM, interceptor rockets_
+_Context: ICBM, RS-24, Russia, interceptor rockets_
 
 ##### Car bombing
 ### [ At least 22 people die in a car bombing in central Baghdad. ](/news/2007/05/29/at-least-22-people-die-in-a-car-bombing-in-central-baghdad.md)
@@ -33,15 +33,15 @@ _Context: election, Bashar al-Assad, President_
 
 ##### Zheng Xiaoyu
 ### [ Zheng Xiaoyu, former head of the China's State Food and Drug Administration, is sentenced to death for taking bribes to approve untested medicines as Chinese authorities introduce a recall system for unsafe food products. ](/news/2007/05/29/zheng-xiaoyu-former-head-of-the-china-s-state-food-and-drug-administration-is-sentenced-to-death-for-taking-bribes-to-approve-untested-me.md)
-_Context: capital punishment, bribe, recall, Zheng Xiaoyu, State Food and Drug Administration_
+_Context: Zheng Xiaoyu, bribe, capital punishment, recall, State Food and Drug Administration_
 
 ##### Ehud Barak
 ### [ Ehud Barak, former Prime Minister of Israel, wins the first round of the Israeli Labor Party leadership election and faces a runoff against former secret service chief Ami Ayalon. ](/news/2007/05/29/ehud-barak-former-prime-minister-of-israel-wins-the-first-round-of-the-israeli-labor-party-leadership-election-and-faces-a-runoff-against.md)
-_Context: Israeli Prime Minister, Israel, Ehud Barak, Labor Party, Ami Ayalon_
+_Context: Labor Party, Israeli Prime Minister, Israel, Ami Ayalon, Ehud Barak_
 
 ##### Adam Air
 ### [ Adam Air announces a deal which will ensure the recovery of the black boxes from Adam Air Flight 574. ](/news/2007/05/29/adam-air-announces-a-deal-which-will-ensure-the-recovery-of-the-black-boxes-from-adam-air-flight-574.md)
-_Context: black box, Adam Air, Flight 574_
+_Context: Flight 574, black box, Adam Air_
 
 ##### Umaru Yar'Adua
 ### [ Umaru Yar'Adua assumes office as the President of Nigeria. ](/news/2007/05/29/umaru-yar-adua-assumes-office-as-the-president-of-nigeria.md)

@@ -9,7 +9,7 @@ _Context: Mogadishu, War in Somalia (2009-present), Al-Shabaab_
 
 ##### Yemeni Civil War (2015-present)
 ### [ Airstrikes by the Saudi-led coalition kill at least 10 in Yemen. ](/news/2016/05/9/airstrikes-by-the-saudi-led-coalition-kill-at-least-10-in-yemen.md)
-_Context: Saudi-led intervention in Yemen, Yemeni Civil War (2015-present), Yemen_
+_Context: Yemeni Civil War (2015-present), Saudi-led intervention in Yemen, Yemen_
 
 ##### Iraqi Civil War (2014-present)
 ### [ The Pentagon announces the death of Islamic State of Iraq and Syria (ISIL) leader Abu Waheeb and three other militants in an airstrike near the town of Rutba, Iraq. ](/news/2016/05/9/the-pentagon-announces-the-death-of-islamic-state-of-iraq-and-syria-isil-leader-abu-waheeb-and-three-other-militants-in-an-airstrike-near.md)
@@ -37,7 +37,7 @@ MANILA, Philippines (AP) — A brash and tough-talking mayor who has pledged to 
 
 ##### Chancellor
 ### [Austrian Chancellor Werner Faymann resigns after seven and a half years in office; says he lost the backing of his Social Democrats party. ](/news/2016/05/9/austrian-chancellor-werner-faymann-resigns-after-seven-and-a-half-years-in-office-says-he-lost-the-backing-of-his-social-democrats-party.md)
-_Context: Social Democrats party, Werner Faymann, Chancellor_
+_Context: Chancellor, Werner Faymann, Social Democrats party_
 
 ##### Impeachment process against Dilma Rousseff
 ### [Waldir MaranhGBPo, the acting President of Brazil's Chamber of Deputies, says that the impeachment vote in that chamber should be annulled due to procedural irregularities and the voting process be held again. The Federal Senate is due to start voting on whether to impeach President Rousseff later this week. ](/news/2016/05/9/waldir-maranhagbpo-the-acting-president-of-brazil-s-chamber-of-deputies-says-that-the-impeachment-vote-in-that-chamber-should-be-annulled.md)

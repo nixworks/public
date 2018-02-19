@@ -5,7 +5,7 @@ Formats: [HTML](2015/12/29/index.html)  [JSON](2015/12/29/index.json)  [XML](201
 
 ##### War in North-West Pakistan
 ### [A suicide-bomb attack outside the regional office of the National Database and Registration Authority (NADRA) in the northwestern Pakistani city of Mardan, Khyber Pakhtunkhwa, leaves at least 26 people dead and 45 wounded. The militant Islamist group Jamaat-ul-Ahrar, a Tehrik-i-Taliban Pakistan splinter group, claims responsibility for the attack. ](/news/2015/12/29/a-suicide-bomb-attack-outside-the-regional-office-of-the-national-database-and-registration-authority-nadra-in-the-northwestern-pakistani.md)
-_Context: Northwestern Pakistan, Islamists, War in North-West Pakistan, Jamaat-ul-Ahrar, suicide bombing, Mardan, National Database and Registration Authority, Tehrik-i-Taliban Pakistan, Pakistan_
+_Context: Pakistan, Mardan, War in North-West Pakistan, Tehrik-i-Taliban Pakistan, suicide bombing, National Database and Registration Authority, Islamists, Jamaat-ul-Ahrar, Northwestern Pakistan_
 
 ##### Syrian Civil War
 ### [The United States military announces that a key Islamic State leader with ties to the Paris attack terrorists was killed in a coalition airstrike on December 24, 2015. Charaffe al Mouadan is the tenth ISIL leader killed by an airstrike since December 7. ](/news/2015/12/29/the-united-states-military-announces-that-a-key-islamic-state-leader-with-ties-to-the-paris-attack-terrorists-was-killed-in-a-coalition-airs.md)
@@ -41,7 +41,7 @@ A rich Texas teenager who fled with his mother to Mexico to avoid possible jail 
 
 ##### Lebanese Customs
 ### [Lebanese Customs seize five tonnes of Captagon amphetamine pills and Hashish, concealed in primary school desks that were to be shipped to Egypt, at Beirut-Rafic Hariri International Airport. Meanwhile, security forces in northern Lebanon found two workshops producing Captagon and other drugs during a series of raids. The drug is infamous as being used by Islamist militants in the Syrian civil war. ](/news/2015/12/29/lebanese-customs-seize-five-tonnes-of-captagon-amphetamine-pills-and-hashish-concealed-in-primary-school-desks-that-were-to-be-shipped-to-e.md)
-_Context: Lebanese Customs, Hashish, Syrian civil war, Beirut-Rafic Hariri International Airport, Egypt, Lebanese, Captagon amphetamine pills_
+_Context: Syrian civil war, Hashish, Captagon amphetamine pills, Beirut-Rafic Hariri International Airport, Egypt, Lebanese, Lebanese Customs_
 
 ##### Chicago
 ### [Chicago, Illinois police officer, Jason Van Dyke, enters a not guilty plea regarding the charges of the 2014 shooting death of Laquan McDonald. ](/news/2015/12/29/chicago-illinois-police-officer-jason-van-dyke-enters-a-not-guilty-plea-regarding-the-charges-of-the-2014-shooting-death-of-laquan-mcdona.md)
@@ -49,7 +49,7 @@ The lawyer for the officer said his client looked forward to a chance to get his
 
 ##### El Salvador
 ### [El Salvador's murder rate surges by 70% in 2015, an increase that may lead to the Central American nation edging out Honduras as the world's most murderous nation. ](/news/2015/12/29/el-salvador-s-murder-rate-surges-by-70-in-2015-an-increase-that-may-lead-to-the-central-american-nation-edging-out-honduras-as-the-world-s.md)
-_Context: El Salvador, Honduras, Central America, world's most murderous nation_
+_Context: El Salvador, Central America, Honduras, world's most murderous nation_
 
 ##### Eloy Inos
 ### [Eloy Inos, the Governor of the Northern Mariana Islands since 2013, dies in office. ](/news/2015/12/29/eloy-inos-the-governor-of-the-northern-mariana-islands-since-2013-dies-in-office.md)
@@ -61,7 +61,7 @@ The former New York governor had complained the race had turned into a &quot;rea
 
 ##### North Korea
 ### [North Korea's state media says Kim Yang-gon, a top aide to supreme leader Kim Jong-un and secretary of the ruling Workers' Party of Korea (WPK), who was also in charge of ties with South Korea, dies in a car crash. ](/news/2015/12/29/north-korea-s-state-media-says-kim-yang-gon-a-top-aide-to-supreme-leader-kim-jong-un-and-secretary-of-the-ruling-workers-party-of-korea-w.md)
-_Context: Workers' Party of Korea, North Korea, Kim Jong-un, Korean Central News Agency, South Korea, Kim Yang-gon_
+_Context: Kim Jong-un, Workers' Party of Korea, South Korea, Kim Yang-gon, Korean Central News Agency, North Korea_
 
 ## [Previous Day...](/news/2015/12/28/index.md)
 

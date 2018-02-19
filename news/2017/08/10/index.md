@@ -17,7 +17,7 @@ A passenger coach crashed into the wall of an expressway tunnel in China&#39;s n
 
 ##### Canada-Cuba relations
 ### [The Canadian government says at least one of their diplomats in Havana has been treated for hearing loss, following up on yesterday's report that American diplomats had similar injuries. U.S. officials say the problems started in the fall of 2016. The Cuban Foreign Ministry says it was informed of the incidents in February and has been investigating since that time. ](/news/2017/08/10/the-canadian-government-says-at-least-one-of-their-diplomats-in-havana-has-been-treated-for-hearing-loss-following-up-on-yesterday-s-report.md)
-_Context: Cuba-United States relations, Canada-Cuba relations, Havana, Cuban Foreign Ministry_
+_Context: Havana, Canada-Cuba relations, Cuba-United States relations, Cuban Foreign Ministry_
 
 ##### Reformist
 ### [Reformist candidate Mohammad-Ali Najafi is unanimously elected Mayor of Tehran by the city council, ending the 12-year tenure of Principlist Mohammad-Bagher Ghalibaf. ](/news/2017/08/10/reformist-candidate-mohammad-ali-najafi-is-unanimously-elected-mayor-of-tehran-by-the-city-council-ending-the-12-year-tenure-of-principlist.md)

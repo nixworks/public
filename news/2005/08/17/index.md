@@ -5,7 +5,7 @@ Formats: [HTML](2005/08/17/index.html)  [JSON](2005/08/17/index.json)  [XML](200
 
 ##### Israeli-Palestinian Conflict
 ### [ Israeli-Palestinian Conflict: An Israeli settler kills 3 Palestinian civilians in the West Bank. The attack was condemned by Ariel Sharon as a "Jewish Terror act" and "twisted thinking" while Hamas claimed the right to avenge the deaths. ](/news/2005/08/17/israeli-palestinian-conflict-an-israeli-settler-kills-3-palestinian-civilians-in-the-west-bank-the-attack-was-condemned-by-ariel-sharon-a.md)
-_Context: Israeli-Palestinian Conflict, West Bank, Hamas, Israeli settlement, civilians, Ariel Sharon, Palestinian_
+_Context: Ariel Sharon, Palestinian, West Bank, Hamas, Israeli settlement, Israeli-Palestinian Conflict, civilians_
 
 ##### Bangladesh
 ### [ At least two people have been killed and several others injured in a series of over 300 blasts across Bangladesh. An outlawed Islamist group, Jamaat-ul-Mujahideen Bangladesh, has claimed responsibility. ](/news/2005/08/17/at-least-two-people-have-been-killed-and-several-others-injured-in-a-series-of-over-300-blasts-across-bangladesh-an-outlawed-islamist-grou.md)
@@ -13,7 +13,7 @@ _Context: Islamist, Jamaat-ul-Mujahideen, Bangladesh_
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: At least 42 people have died following a series of co-ordinated car bombings in the Iraqi capital of Baghdad. ](/news/2005/08/17/conflict-in-iraq-at-least-42-people-have-died-following-a-series-of-co-ordinated-car-bombings-in-the-iraqi-capital-of-baghdad.md)
-_Context: Baghdad, Conflict in Iraq, capital, Iraq, car bomb_
+_Context: Iraq, Baghdad, Conflict in Iraq, car bomb, capital_
 
 ##### Israeli settlement
 ### [ The first actual pullout of settlers in the Gaza Strip, as part of the Israel unilateral disengagement plan, has started. ](/news/2005/08/17/the-first-actual-pullout-of-settlers-in-the-gaza-strip-as-part-of-the-israel-unilateral-disengagement-plan-has-started.md)
@@ -21,7 +21,7 @@ Angry Israeli gunman kills three Palestinians; Hamas says it wants to see withdr
 
 ##### Sellapan Ramanathan
 ### [ S.R. Nathan returns unopposed for a second term in the Singapore presidential elections. Three other candidates who filed for candidature were rejected by the Presidential Elections Committee due to "lack of experience", amongst other reasons. ](/news/2005/08/17/s-r-nathan-returns-unopposed-for-a-second-term-in-the-singapore-presidential-elections-three-other-candidates-who-filed-for-candidature-w.md)
-_Context: Sellapan Ramanathan, Presidential Elections Committee, Singapore presidential elections_
+_Context: Presidential Elections Committee, Singapore presidential elections, Sellapan Ramanathan_
 
 ##### U.S. state
 ### [ The governors of the U.S. states of New Mexico and Arizona declare an emergency along their borders with Mexico citing recent violence, and inaction in both the US government and the Mexican government. ](/news/2005/08/17/the-governors-of-the-u-s-states-of-new-mexico-and-arizona-declare-an-emergency-along-their-borders-with-mexico-citing-recent-violence-and.md)
@@ -29,7 +29,7 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 
 ##### Zotob
 ### [ The Zotob computer worm causes fatal crashes of computers worldwide. The worm only crashes PCs running Windows 2000 and earlier versions of Windows XP, shutting down and rebooting the computer endlessly. Affected were CNN, ABC, Caterpillar, New York Times and Capitol Hill PCs. ](/news/2005/08/17/the-zotob-computer-worm-causes-fatal-crashes-of-computers-worldwide-the-worm-only-crashes-pcs-running-windows-2000-and-earlier-versions-of.md)
-_Context: Capitol Hill, CNN, New York Times, Caterpillar, ABC, computer worm, Zotob, Windows XP, Windows 2000_
+_Context: New York Times, ABC, Windows XP, Caterpillar, computer worm, CNN, Zotob, Windows 2000, Capitol Hill_
 
 ## [Previous Day...](/news/2005/08/16/index.md)
 

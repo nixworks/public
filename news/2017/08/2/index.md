@@ -13,7 +13,7 @@ What is affirmative action? Why is this a big deal? Is the Trump report true?
 
 ##### Floods in the United States
 ### [Several streets in Miami and Miami Beach are underwater after Tropical Depression Emily causes 102 to 178 millimetres of rain overnight. ](/news/2017/08/2/several-streets-in-miami-and-miami-beach-are-underwater-after-tropical-depression-emily-causes-102-to-178-millimetres-of-rain-overnight.md)
-_Context: Floods in the United States, Tropical Depression Emily, Miami, Miami Beach_
+_Context: Tropical Depression Emily, Miami, Miami Beach, Floods in the United States_
 
 ##### Minnehaha Academy gas explosion
 ### [A natural gas explosion at college prep school Minnehaha Academy in Minneapolis, Minnesota, kills two staff members. Another nine people were injured, seven of whom are hospitalized, three in critical and four in serious condition. ](/news/2017/08/2/a-natural-gas-explosion-at-college-prep-school-minnehaha-academy-in-minneapolis-minnesota-kills-two-staff-members-another-nine-people-wer.md)
@@ -33,11 +33,11 @@ Anti-crime watchdogs on Tuesday filed an impeachment complaint against Chief Jus
 
 ##### Papua New Guinean general election, 2017
 ### [The parliament of Papua New Guinea re-elects Peter O'Neill as Prime Minister, ending a chaotic election campaign marred by violence, which analysts fear may continue amid widespread voter unrest. ](/news/2017/08/2/the-parliament-of-papua-new-guinea-re-elects-peter-o-neill-as-prime-minister-ending-a-chaotic-election-campaign-marred-by-violence-which-a.md)
-_Context: Prime Minister, parliament, Peter O'Neill, Papua New Guinean general election, 2017, re-election, Papua New Guinea_
+_Context: Peter O'Neill, parliament, re-election, Papua New Guinea, Papua New Guinean general election, 2017, Prime Minister_
 
 ##### Venezuelan Constitutional Assembly election, 2017
 ### [At a news briefing in London, the CEO of Smartmatic, the Venezuelan-owned multinational company that provided the election system used in Sunday's election, says the number of those participating in the poll was tampered with, off by at least one million. ](/news/2017/08/2/at-a-news-briefing-in-london-the-ceo-of-smartmatic-the-venezuelan-owned-multinational-company-that-provided-the-election-system-used-in-su.md)
-_Context: election system, Venezuelan Constitutional Assembly election, 2017, Smartmatic, London_
+_Context: Smartmatic, election system, London, Venezuelan Constitutional Assembly election, 2017_
 
 ##### Immigration policy of Donald Trump
 ### [United States President Donald Trump, together with Senators Tom Cotton and David Perdue, unveils the RAISE Act, a plan that would, if passed, reduce legal immigration to the U.S. by half each year, and implement a "merit-based system" prioritizing skilled workers, instead of the current family-based chain migration system. ](/news/2017/08/2/united-states-president-donald-trump-together-with-senators-tom-cotton-and-david-perdue-unveils-the-raise-act-a-plan-that-would-if-passe.md)

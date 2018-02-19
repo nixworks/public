@@ -25,7 +25,7 @@ A powerful typhoon bearing down on the northern Japanese island of Hokkaido has 
 
 ##### Recent incident of hazes in 2015
 ### [The President of Indonesia Joko Widodo announces that he will seek help from other nations in putting out illegally lit forest fires that have caused the haze. ](/news/2015/10/8/the-president-of-indonesia-joko-widodo-announces-that-he-will-seek-help-from-other-nations-in-putting-out-illegally-lit-forest-fires-that-ha.md)
-_Context: President of Indonesia, Joko Widodo, forest fire, recent incident of hazes in 2015_
+_Context: recent incident of hazes in 2015, Joko Widodo, President of Indonesia, forest fire_
 
 ##### Ecuador
 ### [Ecuador's restive Cotopaxi volcano erupts. ](/news/2015/10/8/ecuador-s-restive-cotopaxi-volcano-erupts.md)
@@ -37,7 +37,7 @@ In a bid to defuse the wave of Palestinian violence that has struck Israel and t
 
 ##### Spencer Stone
 ### [Spencer Stone, one of the individuals involved in stopping the gunman in the August 2015 Thalys train attack, is stabbed in downtown Sacramento. Police said the incident is not related to a terrorist act; the assault occurred near a bar. He is in stable condition at a hospital with what are believed to be non-life threatening wounds. ](/news/2015/10/8/spencer-stone-one-of-the-individuals-involved-in-stopping-the-gunman-in-the-august-2015-thalys-train-attack-is-stabbed-in-downtown-sacrame.md)
-_Context: Spencer Stone, 2015 Thalys train attack_
+_Context: 2015 Thalys train attack, Spencer Stone_
 
 ##### European migrant crisis
 ### [The German state of Bavaria plans "emergency measures" in response to the migrant crisis, including deporting migrants back to Austria and closing the border. An estimated 225,000 migrants have arrived in the southern German state in less than five weeks. ](/news/2015/10/8/the-german-state-of-bavaria-plans-emergency-measures-in-response-to-the-migrant-crisis-including-deporting-migrants-back-to-austria-and-c.md)
@@ -45,7 +45,7 @@ The German state of Bavaria plans &quot;emergency measures&quot; to slow arrival
 
 ##### United States House of Representatives
 ### [ U.S. House Majority Leader Kevin McCarthy, who had been the favorite to replace outgoing House Speaker John Boehner, withdraws from the race. ](/news/2015/10/8/u-s-house-majority-leader-kevin-mccarthy-who-had-been-the-favorite-to-replace-outgoing-house-speaker-john-boehner-withdraws-from-the-rac.md)
-_Context: U.S. Speaker of the House of Representatives, John Boehner, Speaker of the United States House of Representatives election, October 2015, United States House of Representatives, Kevin McCarthy, Majority Leader_
+_Context: U.S. Speaker of the House of Representatives, Speaker of the United States House of Representatives election, October 2015, Majority Leader, John Boehner, Kevin McCarthy, United States House of Representatives_
 
 ## [Previous Day...](/news/2015/10/7/index.md)
 

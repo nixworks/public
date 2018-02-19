@@ -13,11 +13,11 @@ Gordon Brown, the prime minister broke his silence on the release of the Lockerb
 
 ##### Malaysia
 ### [ The Malaysian opposition party PAS defeats the government party UMNO in the by-election at Permatang Pasir, Penang. ](/news/2009/08/25/the-malaysian-opposition-party-pas-defeats-the-government-party-umno-in-the-by-election-at-permatang-pasir-penang.md)
-_Context: United Malays National Organisation, Malaysia, Permatang Pasir, Barisan Nasional, opposition, Penang, PAS_
+_Context: Permatang Pasir, United Malays National Organisation, Malaysia, Barisan Nasional, PAS, opposition, Penang_
 
 ##### Mesker-Yurt
 ### [ A suicide bombing in Mesker-Yurt, Chechnya, kills three police officers. ](/news/2009/08/25/a-suicide-bombing-in-mesker-yurt-chechnya-kills-three-police-officers.md)
-_Context: Chechnya, Mesker-Yurt_
+_Context: Mesker-Yurt, Chechnya_
 
 ##### Madagascar
 ### [ Madagascar's political rivals meet for a second round of talks in Maputo, Mozambique. ](/news/2009/08/25/madagascar-s-political-rivals-meet-for-a-second-round-of-talks-in-maputo-mozambique.md)
@@ -29,11 +29,11 @@ GOHEUNG, South Jeolla Province _ South Korea bumbled its way into the Asian spac
 
 ##### Barack Obama
 ### [ U.S. President Barack Obama nominates Ben Bernanke for his second term as chairman of the Federal Reserve. ](/news/2009/08/25/u-s-president-barack-obama-nominates-ben-bernanke-for-his-second-term-as-chairman-of-the-federal-reserve.md)
-_Context: Chairman of the Federal Reserve, Federal Reserve, Ben Bernanke, Barack Obama_
+_Context: Barack Obama, Ben Bernanke, Federal Reserve, Chairman of the Federal Reserve_
 
 ##### Afghan
 ### [ A bomb in Afghanistan kills four American soldiers, making 2009 the deadliest year for foreign troops since the 2001 invasion. ](/news/2009/08/25/a-bomb-in-afghanistan-kills-four-american-soldiers-making-2009-the-deadliest-year-for-foreign-troops-since-the-2001-invasion.md)
-_Context: Afghan, War in Afghanistan (2001-present), USA_
+_Context: War in Afghanistan (2001-present), USA, Afghan_
 
 ##### Shanxi province
 ### [ A gas explosion at a coal mine in Shanxi, China, kills at least 14 people. ](/news/2009/08/25/a-gas-explosion-at-a-coal-mine-in-shanxi-china-kills-at-least-14-people.md)
@@ -53,7 +53,7 @@ A car bomb has ripped through a restaurant packed with government officials, inj
 
 ##### Venezuela
 ### [ Venezuelan President Hugo Chavez announces plans to break off diplomatic relations with Colombia over the neighboring country's plan to allow U.S. troops access to its military bases. ](/news/2009/08/25/venezuelan-president-hugo-chavez-announces-plans-to-break-off-diplomatic-relations-with-colombia-over-the-neighboring-country-s-plan-to-all.md)
-_Context: Hugo Chavez, U.S., Colombia, Venezuela_
+_Context: Venezuela, U.S., Hugo Chavez, Colombia_
 
 ## [Previous Day...](/news/2009/08/24/index.md)
 

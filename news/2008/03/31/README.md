@@ -5,31 +5,31 @@ Formats: [HTML](2008/03/31/index.html)  [JSON](2008/03/31/index.json)  [XML](200
 
 ##### Mexico
 ### [ One of Mexico's most prolific serial killers, Juana Barraza, nicknamed the "Mataviejitas" (Little Old Lady Killer), receives multiple life sentences for the murders of at least 11 women. ](/news/2008/03/31/one-of-mexico-s-most-prolific-serial-killers-juana-barraza-nicknamed-the-mataviejitas-little-old-lady-killer-receives-multiple-life.md)
-_Context: Juana Barraza, Mataviejitas, serial killer, Mexico_
+_Context: serial killer, Juana Barraza, Mexico, Mataviejitas_
 
 ##### City Council
 ### [ The New York City Council approved a measure urging state lawmakers to vote in favor of Mayor Michael Bloomberg's plan to charge drivers to enter Manhattan south of 60th Street. ](/news/2008/03/31/the-new-york-city-council-approved-a-measure-urging-state-lawmakers-to-vote-in-favor-of-mayor-michael-bloomberg-s-plan-to-charge-drivers-to.md)
-_Context: Manhattan, Michael Bloomberg, Mayor, City Council_
+_Context: Manhattan, Michael Bloomberg, City Council, Mayor_
 
 ##### Serbia
 ### [ Serbian Defense Minister Dragan Sutanovac accuses allies of Prime Minister Vojislav Kostunica of coordinating and leading anti-Western riots in Belgrade and Kosovo. ](/news/2008/03/31/serbian-defense-minister-dragan-a-utanovac-accuses-allies-of-prime-minister-vojislav-koa-tunica-of-coordinating-and-leading-anti-western-ri.md)
-_Context: Kosovo, Dragan Sutanovac, Belgrade, Serbia, Vojislav Kostunica_
+_Context: Dragan Sutanovac, Vojislav Kostunica, Kosovo, Serbia, Belgrade_
 
 ##### Italy
 ### [ The Italian city of Milan is selected to host the 2015 World Exposition after winning 86 to 65 in a vote against Turkish Izmir. ](/news/2008/03/31/the-italian-city-of-milan-is-selected-to-host-the-2015-world-exposition-after-winning-86-to-65-in-a-vote-against-turkish-adegzmir.md)
-_Context: Italy, Expo 2015, Izmir, Turkey, Milan_
+_Context: Milan, Turkey, Italy, Izmir, Expo 2015_
 
 ##### Two years of helping
 ### [ War in Somalia (2008): Somali Islamists have seized control of a central town after clashes with government forces that left 11 people dead, residents and Islamists said. ](/news/2008/03/31/war-in-somalia-2008-somali-islamists-have-seized-control-of-a-central-town-after-clashes-with-government-forces-that-left-11-people-dead.md)
-_Context: 2008, two years of helping_
+_Context: two years of helping, 2008_
 
 ##### France
 ### [ French liquor group Pernod Ricard is buying Vin & Sprit, the maker of Absolut Vodka, for SEK 55 billion ($9.24 billion). ](/news/2008/03/31/french-liquor-group-pernod-ricard-is-buying-vin-sprit-the-maker-of-absolut-vodka-for-sek-55-billion-9-24-billion.md)
-_Context: France, Vin & Sprit, Pernod Ricard, Absolut Vodka_
+_Context: France, Absolut Vodka, Vin & Sprit, Pernod Ricard_
 
 ##### Parliamentary
 ### [ The Zimbabwe Electoral Commission starts releasing results of the Zimbabwean parliamentary election, 2008 and Zimbabwean presidential election, 2008 with the Opposition Movement for Democratic Change claiming victory on the basis of unofficial results. ](/news/2008/03/31/the-zimbabwe-electoral-commission-starts-releasing-results-of-the-zimbabwean-parliamentary-election-2008-and-zimbabwean-presidential-elect.md)
-_Context: Movement for Democratic Change, parliamentary, run-off presidential election_
+_Context: parliamentary, run-off presidential election, Movement for Democratic Change_
 
 ## [Previous Day...](/news/2008/03/30/index.md)
 

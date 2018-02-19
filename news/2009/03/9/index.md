@@ -9,23 +9,23 @@ Popular television characters could disappear from our screens if the Government
 
 ##### Palau
 ### [ Palau officially recognizes Kosovo. ](/news/2009/03/9/palau-officially-recognizes-kosovo.md)
-_Context: Palau, Kosovo, Kosovo_
+_Context: Kosovo, Palau, Kosovo_
 
 ##### Police Service of Northern Ireland
 ### [ A Police Service officer is killed in Craigavon, County Armagh, Northern Ireland. ](/news/2009/03/9/a-police-service-officer-is-killed-in-craigavon-county-armagh-northern-ireland.md)
-_Context: Northern Ireland, Craigavon, Police Service of Northern Ireland, officer, County Armagh_
+_Context: Craigavon, County Armagh, Northern Ireland, Police Service of Northern Ireland, officer_
 
 ##### United States
 ### [ The United States government claims five Chinese ships "harass[ed]" the USNS "Impeccable" in the South China Sea. ](/news/2009/03/9/the-united-states-government-claims-five-chinese-ships-harass-ed-the-usns-impeccable-in-the-south-china-sea.md)
-_Context: United States, ''Impeccable'', South China Sea, USNS, China, U.S. government_
+_Context: USNS, South China Sea, China, U.S. government, United States, ''Impeccable''_
 
 ##### United States
 ### [ U.S. President Barack Obama lifts George W. Bush's restrictions on embryonic stem cell research. ](/news/2009/03/9/u-s-president-barack-obama-lifts-george-w-bush-s-restrictions-on-embryonic-stem-cell-research.md)
-_Context: George W. Bush, Barack Obama, embryonic stem cell research, restrictions, United States, U.S. President_
+_Context: George W. Bush, U.S. President, embryonic stem cell research, Barack Obama, restrictions, United States_
 
 ##### Argentina
 ### [ Argentina and Chile reject the United Kingdom's claims on Antarctic territory. ](/news/2009/03/9/argentina-and-chile-reject-the-united-kingdom-s-claims-on-antarctic-territory.md)
-_Context: United Kingdom, Chile, Antarctica, Argentina, disputed region, territory_
+_Context: Antarctica, territory, United Kingdom, disputed region, Argentina, Chile_
 
 ##### North Korea
 ### [ North Korea says an interception of its upcoming "satellite" launch would "mean a war." ](/news/2009/03/9/north-korea-says-an-interception-of-its-upcoming-satellite-launch-would-mean-a-war.md)
@@ -33,11 +33,11 @@ _Context: satellite, North Korea_
 
 ##### National Islamic Front
 ### [ National Islamic Front founder Hassan al-Turabi is released after seven weeks of incarceration for suggesting that Sudanese President Omar al-Bashir should surrender to the International Criminal Court. ](/news/2009/03/9/national-islamic-front-founder-hassan-al-turabi-is-released-after-seven-weeks-of-incarceration-for-suggesting-that-sudanese-president-omar.md)
-_Context: National Islamic Front, Omar al-Bashir, surrender, incarceration, Hassan al-Turabi, President, Sudan, ICC_
+_Context: surrender, ICC, National Islamic Front, incarceration, Hassan al-Turabi, Sudan, Omar al-Bashir, President_
 
 ##### Sri Lanka
 ### [ Sri Lanka's Armed Forces claim to have killed 180 counterattacking Tamil Tigers. ](/news/2009/03/9/sri-lanka-s-armed-forces-claim-to-have-killed-180-counterattacking-tamil-tigers.md)
-_Context: LTTE, armed forces, Sri Lanka, Sri Lankan Civil War_
+_Context: LTTE, Sri Lanka, Sri Lankan Civil War, armed forces_
 
 ##### Japan
 ### [ Japan's economy posts a record deficit of 172.8 billion yen. ](/news/2009/03/9/japan-s-economy-posts-a-record-deficit-of-172-8-billion-yen.md)
@@ -45,23 +45,23 @@ _Context: Japan, deficit, Economy of Japan, yen_
 
 ##### China
 ### [ China deploys the People's Armed Police to Tibet to quell possible protests related to Tibetan Uprising Day. ](/news/2009/03/9/china-deploys-the-people-s-armed-police-to-tibet-to-quell-possible-protests-related-to-tibetan-uprising-day.md)
-_Context: Tibetan Uprising Day, Tibet Autonomous Region, possible protests, China, People's Armed Police_
+_Context: possible protests, People's Armed Police, Tibetan Uprising Day, Tibet Autonomous Region, China_
 
 ##### Zimbabwe
 ### [ Zimbabwean Prime Minister Morgan Tsvangirai rules out foul play in a car accident in Harare that killed his wife. ](/news/2009/03/9/zimbabwean-prime-minister-morgan-tsvangirai-rules-out-foul-play-in-a-car-accident-in-harare-that-killed-his-wife.md)
-_Context: wife, car accident, Harare, gunmen, Zimbabwe, Morgan Tsvangirai, Prime Minister_
+_Context: Zimbabwe, Prime Minister, Morgan Tsvangirai, Harare, wife, car accident, gunmen_
 
 ##### Madagascar
 ### [ Madagascar's government announces it will employ "military measures" against Army soldiers mutinying near Antananarivo. ](/news/2009/03/9/madagascar-s-government-announces-it-will-employ-military-measures-against-army-soldiers-mutinying-near-antananarivo.md)
-_Context: government, Antananarivo, Madagascar, Madagascan Army, mutinying_
+_Context: Madagascar, Madagascan Army, Antananarivo, government, mutinying_
 
 ##### Ilyushin Il-76
 ### [ An Ilyushin Il-76 crashes into Lake Victoria after taking off from Entebbe International Airport in Uganda, likely killing all eleven passengers. ](/news/2009/03/9/an-ilyushin-il-76-crashes-into-lake-victoria-after-taking-off-from-entebbe-international-airport-in-uganda-likely-killing-all-eleven-passe.md)
-_Context: Entebbe International Airport, Ilyushin Il-76, Uganda, Lake Victoria_
+_Context: Entebbe International Airport, Lake Victoria, Uganda, Ilyushin Il-76_
 
 ##### Cargo ship
 ### [ At least 13 people are missing or dead after the cargo ship MV "Ibn al-Battuta" sinks near Port Safaga, Egypt. ](/news/2009/03/9/at-least-13-people-are-missing-or-dead-after-the-cargo-ship-mv-ibn-al-battuta-sinks-near-port-safaga-egypt.md)
-_Context: cargo ship, Egypt, Port Safaga, MV_
+_Context: cargo ship, MV, Port Safaga, Egypt_
 
 ##### Standing Committee of the National People's Congress
 ### [ Standing Committee Chairman Wu Bangguo tells the National People's Congress that China will not adopt Western democracy. ](/news/2009/03/9/standing-committee-chairman-wu-bangguo-tells-the-national-people-s-congress-that-china-will-not-adopt-western-democracy.md)

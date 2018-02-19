@@ -9,19 +9,19 @@ _Context: International Space Station, STS-120_
 
 ##### Earthquake
 ### [ A moderate earthquake of 5.6 magnitude strikes 9 miles northeast of San Jose, California. ](/news/2007/10/30/a-moderate-earthquake-of-5-6-magnitude-strikes-9-miles-northeast-of-san-jose-california.md)
-_Context: San Jose, California, earthquake, magnitude_
+_Context: San Jose, California, magnitude, earthquake_
 
 ##### Tropical Storm Noel
 ### [ Tropical Storm Noel weakens after causing between 11 and 25 deaths in the Dominican Republic. ](/news/2007/10/30/tropical-storm-noel-weakens-after-causing-between-11-and-25-deaths-in-the-dominican-republic.md)
-_Context: Dominican Republic, Tropical Storm Noel_
+_Context: Tropical Storm Noel, Dominican Republic_
 
 ##### Patricia Etteh
 ### [ Patricia Etteh resigns as speaker of Nigeria's House of Representatives amid accusations of corruption. ](/news/2007/10/30/patricia-etteh-resigns-as-speaker-of-nigeria-s-house-of-representatives-amid-accusations-of-corruption.md)
-_Context: speaker, Patricia Etteh, Nigeria, House of Representatives_
+_Context: Patricia Etteh, Nigeria, House of Representatives, speaker_
 
 ##### United States Supreme Court
 ### [ The United States Supreme Court halts an execution in Mississippi pending its decision as to whether lethal injections are a form of cruel and unusual punishment. ](/news/2007/10/30/the-united-states-supreme-court-halts-an-execution-in-mississippi-pending-its-decision-as-to-whether-lethal-injections-are-a-form-of-cruel.md)
-_Context: United States Supreme Court, cruel and unusual punishment, Mississippi, lethal injection_
+_Context: United States Supreme Court, lethal injection, cruel and unusual punishment, Mississippi_
 
 ##### U.S. President
 ### [ The President of the United States George W. Bush nominates James Peake as the next United States Secretary of Veterans Affairs. ](/news/2007/10/30/the-president-of-the-united-states-george-w-bush-nominates-james-peake-as-the-next-united-states-secretary-of-veterans-affairs.md)
@@ -29,7 +29,7 @@ President Bush on Tuesday named a retired Army lieutenant general and executive 
 
 ##### Congress
 ### [ The United States Congress votes to extend a ban on Internet taxes for another seven years. ](/news/2007/10/30/the-united-states-congress-votes-to-extend-a-ban-on-internet-taxes-for-another-seven-years.md)
-_Context: Congress, Internet taxes_
+_Context: Internet taxes, Congress_
 
 ##### 
 ### [ US light crude oil hits an all-time high of $US 93.53 ](/news/2007/10/30/us-light-crude-oil-hits-an-all-time-high-of-us-93-53.md)

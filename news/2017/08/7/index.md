@@ -21,7 +21,7 @@ The referendum result is seen as a victory for the president, accused of trying 
 
 ##### Corruption in South Africa
 ### [The Speaker of the National Assembly of South Africa, Baleka Mbete, announces that a vote of no confidence in President Jacob Zuma will be held by secret ballot. The vote, to be held on 8 August 2017, will be the eighth vote of no confidence against the president and the first by secret ballot. ](/news/2017/08/7/the-speaker-of-the-national-assembly-of-south-africa-baleka-mbete-announces-that-a-vote-of-no-confidence-in-president-jacob-zuma-will-be-h.md)
-_Context: Jacob Zuma, National Assembly, vote of no confidence, Baleka Mbete, President of South Africa, secret ballot, Speaker, Corruption in South Africa_
+_Context: Baleka Mbete, secret ballot, President of South Africa, Speaker, Jacob Zuma, National Assembly, vote of no confidence, Corruption in South Africa_
 
 ## [Previous Day...](/news/2017/08/6/index.md)
 

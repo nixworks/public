@@ -5,7 +5,7 @@ Formats: [HTML](2010/06/27/index.html)  [JSON](2010/06/27/index.json)  [XML](201
 
 ##### President
 ### [The first President of an independent Lithuania, Algirdas Brazauskas, dies in Vilnius. ](/news/2010/06/27/the-first-president-of-an-independent-lithuania-algirdas-brazauskas-dies-in-vilnius.md)
-_Context: Algirdas Brazauskas, President, Lithuania, Vilnius_
+_Context: Algirdas Brazauskas, Vilnius, Lithuania, President_
 
 ##### Guinea
 ### [Guinea holds the first democratic election in the nation's history. ](/news/2010/06/27/guinea-holds-the-first-democratic-election-in-the-nation-s-history.md)
@@ -29,15 +29,15 @@ Italy was yesterday tensely awaiting the outcome of a trial which could send Pri
 
 ##### Chinese
 ### [A coal mine explosion kills 5 in China's Ningxia Hui Autonomous Region. ](/news/2010/06/27/a-coal-mine-explosion-kills-5-in-china-s-ningxia-hui-autonomous-region.md)
-_Context: Ningxia Hui Autonomous Region, Chinese_
+_Context: Chinese, Ningxia Hui Autonomous Region_
 
 ##### Canadian
 ### [Two Canadian medics are killed in Afghanistan, 20 kilometres west of Kandahar City in Panjwaii District. ](/news/2010/06/27/two-canadian-medics-are-killed-in-afghanistan-20-kilometres-west-of-kandahar-city-in-panjwaii-district.md)
-_Context: Kandahar, Panjwaii District, Afghan, Canadian_
+_Context: Panjwaii District, Kandahar, Afghan, Canadian_
 
 ##### Fighter jet
 ### [Fighter jets pounded Taliban hideouts in the upper Orakzai Agency of Pakistan on Saturday, killing 14 Taliban, and injuring eight others. ](/news/2010/06/27/fighter-jets-pounded-taliban-hideouts-in-the-upper-orakzai-agency-of-pakistan-on-saturday-killing-14-taliban-and-injuring-eight-others.md)
-_Context: Pakistan, Orakzai Tribal Area, Fighter jet, Taliban_
+_Context: Orakzai Tribal Area, Pakistan, Fighter jet, Taliban_
 
 ##### NATO
 ### [Six NATO-led service members are killed Saturday in bombing attacks in Afghanistan, NATO's International Security Assistance Force said. ](/news/2010/06/27/six-nato-led-service-members-are-killed-saturday-in-bombing-attacks-in-afghanistan-nato-s-international-security-assistance-force-said.md)

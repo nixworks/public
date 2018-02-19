@@ -29,15 +29,15 @@ CNN sacks an editor who wrote on Twitter that she &quot;respected&quot; a late L
 
 ##### Amnesty International
 ### [Amnesty International calls on Israel to completely lift its blockade of the Gaza Strip after Israel removes the restrictions on all consumer goods. ](/news/2010/07/8/amnesty-international-calls-on-israel-to-completely-lift-its-blockade-of-the-gaza-strip-after-israel-removes-the-restrictions-on-all-consume.md)
-_Context: consumer goods, Israel, Israeli blockade, Gaza Strip, Amnesty International_
+_Context: Gaza Strip, Israel, consumer goods, Amnesty International, Israeli blockade_
 
 ##### David Lloyd Johnston
 ### [David Lloyd Johnston, president of the University of Waterloo, is announced as Canada's next Governor General. He will succeed Michaelle Jean in September. ](/news/2010/07/8/david-lloyd-johnston-president-of-the-university-of-waterloo-is-announced-as-canada-s-next-governor-general-he-will-succeed-michaa-lle-je.md)
-_Context: David Lloyd Johnston, Canadian, Michaelle Jean, Governor General of Canada, University of Waterloo_
+_Context: Michaelle Jean, David Lloyd Johnston, Governor General of Canada, Canadian, University of Waterloo_
 
 ##### United States
 ### [United States Republican Party Chairman Michael Steele again resist calls for him to step down after he asserted that the War in Afghanistan was a "war of Obama's choosing". ](/news/2010/07/8/united-states-republican-party-chairman-michael-steele-again-resist-calls-for-him-to-step-down-after-he-asserted-that-the-war-in-afghanistan.md)
-_Context: Republican, United States, War in Afghanistan (2001-present), Michael Steele_
+_Context: War in Afghanistan (2001-present), United States, Republican, Michael Steele_
 
 ##### Federal District Judge
 ### [US federal judge Joseph Louis Tauro, in two separate cases, rules that a federal ban against gay marriage is unconstitutional, as it interferes with a state's right to define marriage. ](/news/2010/07/8/us-federal-judge-joseph-louis-tauro-in-two-separate-cases-rules-that-a-federal-ban-against-gay-marriage-is-unconstitutional-as-it-interfe.md)
@@ -45,7 +45,7 @@ A U.S. judge in Boston has ruled that a federal gay marriage ban is unconstituti
 
 ##### Brazil
 ### [Brazilian footballer Bruno Fernandes de Souza surrenders to police in connection with the disappearance of his former mistress. ](/news/2010/07/8/brazilian-footballer-bruno-fernandes-de-souza-surrenders-to-police-in-connection-with-the-disappearance-of-his-former-mistress.md)
-_Context: association football, Brazil, Bruno Fernandes de Souza_
+_Context: Brazil, association football, Bruno Fernandes de Souza_
 
 ##### Los Angeles Police
 ### [Los Angeles Police announce that they have arrested Lonnie David Franklin, Jr., suspected to be the serial killer known as the Grim Sleeper, yesterday. He is arraigned on various murder charges. ](/news/2010/07/8/los-angeles-police-announce-that-they-have-arrested-lonnie-david-franklin-jr-suspected-to-be-the-serial-killer-known-as-the-grim-sleeper.md)
@@ -73,11 +73,11 @@ The International Monetary Fund raises its world economic growth forecast for 20
 
 ##### Mozambique
 ### [Mozambique announces it will build a new bridge across the Zambezi to allow for a giant coal project in Tete Province. ](/news/2010/07/8/mozambique-announces-it-will-build-a-new-bridge-across-the-zambezi-to-allow-for-a-giant-coal-project-in-tete-province.md)
-_Context: Tete Province, Zambezi, Mozambique_
+_Context: Mozambique, Zambezi, Tete Province_
 
 ##### Atlantic Tropical Depression Two
 ### [Atlantic Tropical Depression Two makes landfall near South Padre Island in Texas. ](/news/2010/07/8/atlantic-tropical-depression-two-makes-landfall-near-south-padre-island-in-texas.md)
-_Context: Atlantic Tropical Depression Two, South Padre Island, Texas_
+_Context: Atlantic Tropical Depression Two, Texas, South Padre Island_
 
 ##### Dolphin
 ### [Dolphin Moko's corpse is believed to have washed up on a beach in New Zealand's North Island. ](/news/2010/07/8/dolphin-moko-s-corpse-is-believed-to-have-washed-up-on-a-beach-in-new-zealand-s-north-island.md)
@@ -85,7 +85,7 @@ The body of a bottlenose dolphin, believed to be the famous Kiwi dolphin, Moko, 
 
 ##### Switzerland
 ### [The Swiss Solar Impulse project's solar powered plane remains aloft for 24 hours, a record for a solar powered craft. ](/news/2010/07/8/the-swiss-solar-impulse-project-s-solar-powered-plane-remains-aloft-for-24-hours-a-record-for-a-solar-powered-craft.md)
-_Context: Solar Impulse project, Switzerland, only by focused light, aircraft_
+_Context: Solar Impulse project, only by focused light, Switzerland, aircraft_
 
 ##### United Kingdom
 ### [British researchers publish the results of an 11-year study, challenging the traditional notion that childhood obesity is a result of inadequate exercise, arguing instead that obesity leads to inadequate exercise. ](/news/2010/07/8/british-researchers-publish-the-results-of-an-11-year-study-challenging-the-traditional-notion-that-childhood-obesity-is-a-result-of-inadeq.md)
@@ -109,7 +109,7 @@ NBA superstar LeBron James has announced he will play for Miami Heat next season
 
 ##### Running of the Bulls
 ### [Two people are gored and five injured during the Running of the Bulls at the San Fermin festival in Spain. ](/news/2010/07/8/two-people-are-gored-and-five-injured-during-the-running-of-the-bulls-at-the-san-ferman-festival-in-spain.md)
-_Context: Spain, Running of the Bulls, San Fermin_
+_Context: Spain, San Fermin, Running of the Bulls_
 
 ## [Previous Day...](/news/2010/07/7/index.md)
 

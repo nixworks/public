@@ -5,7 +5,7 @@ Formats: [HTML](2012/10/25/index.html)  [JSON](2012/10/25/index.json)  [XML](201
 
 ##### Syrian civil war
 ### [Syrian civil war: The Syrian government announces via its state media that it will suspend military operations from Friday to Monday, during this year's Muslim Eid al-Adha holiday, as part of a ceasefire proposal by U.N. special envoy Lakhdar Brahimi. ](/news/2012/10/25/syrian-civil-war-the-syrian-government-announces-via-its-state-media-that-it-will-suspend-military-operations-from-friday-to-monday-during.md)
-_Context: Lakhdar Brahimi, Eid al-Adha, Syrian civil war_
+_Context: Eid al-Adha, Lakhdar Brahimi, Syrian civil war_
 
 ##### GDP
 ### [Official GDP figures indicate the 2012 Summer Olympics helped the UK economy emerge from recession in the three months from July to September, with growth of 1.0%. ](/news/2012/10/25/official-gdp-figures-indicate-the-2012-summer-olympics-helped-the-uk-economy-emerge-from-recession-in-the-three-months-from-july-to-septembe.md)
@@ -17,7 +17,7 @@ Costa Coffee, given approval to open in Totnes, pulls out after &quot;recognisin
 
 ##### Hurricane Sandy
 ### [Hurricane Sandy heads towards The Bahamas after making landfall in Cuba and Jamaica. ](/news/2012/10/25/hurricane-sandy-heads-towards-the-bahamas-after-making-landfall-in-cuba-and-jamaica.md)
-_Context: Cuba, Jamaica, Hurricane Sandy, northwestern Bahamas_
+_Context: Hurricane Sandy, northwestern Bahamas, Jamaica, Cuba_
 
 ##### 
 ### [A rape claim against a major Irish celebrity is investigated. The victim was made pregnant during her ordeal. ](/news/2012/10/25/a-rape-claim-against-a-major-irish-celebrity-is-investigated-the-victim-was-made-pregnant-during-her-ordeal.md)
@@ -39,11 +39,11 @@ The company counting critical votes in Ohio and Colorado has extensive connectio
 
 ##### Manuel Valls
 ### [France's interior minister Manuel Valls is embroiled in controversy amid reports he ordered police to clear his Paris neighbourhood of homeless so his wife could go about her shopping "in peace". ](/news/2012/10/25/france-s-interior-minister-manuel-valls-is-embroiled-in-controversy-amid-reports-he-ordered-police-to-clear-his-paris-neighbourhood-of-homel.md)
-_Context: Paris, Manuel Valls_
+_Context: Manuel Valls, Paris_
 
 ##### Prime Minister of Georgia
 ### [Prime Minister Bidzina Ivanishvili and his cabinet are approved by the Parliament of Georgia following the victory in the parliamentary election. ](/news/2012/10/25/prime-minister-bidzina-ivanishvili-and-his-cabinet-are-approved-by-the-parliament-of-georgia-following-the-victory-in-the-parliamentary-elec.md)
-_Context: Parliament of Georgia, cabinet, Prime Minister of Georgia, parliamentary election, Bidzina Ivanishvili_
+_Context: Prime Minister of Georgia, Parliament of Georgia, parliamentary election, Bidzina Ivanishvili, cabinet_
 
 ##### Israeli Prime Minister
 ### [Israeli Prime Minister and Likud chairman Benjamin Netanyahu and the Israeli Foreign Minister and Yisrael Beiteinu chairman Avigdor Lieberman announce the unification of their two parties which will run as a single bloc for the upcoming election to be held in January 2013; the joint party will be called "Likud Beiteinu" ("The Likud Is Our Home") and Netanyahu will be number 1 on the list, followed by Liberman who will be number 2 on the list. ](/news/2012/10/25/israeli-prime-minister-and-likud-chairman-benjamin-netanyahu-and-the-israeli-foreign-minister-and-yisrael-beiteinu-chairman-avigdor-lieberma.md)
@@ -51,7 +51,7 @@ PM cites Iran, rising cost of living among challenges to be faced &#8216;with st
 
 ##### Bishop Richard Williamson
 ### [Bishop Richard Williamson, because of his opposition to dialogue and his Holocaust denial, is expelled from the Society of Saint Pius X (SSPX) by its superior, Bishop Bernard Fellay. The SSPX is a formerly breakaway ultra-conservative Roman Catholic society founded by the late Archbishop Marcel Lefebvre that is critical of many of the changes in the Church brought about by Vatican Council II. ](/news/2012/10/25/bishop-richard-williamson-because-of-his-opposition-to-dialogue-and-his-holocaust-denial-is-expelled-from-the-society-of-saint-pius-x-ssp.md)
-_Context: Bishop Richard Williamson, Roman Catholic, Vatican Council II, Marcel Lefebvre, Bernard Fellay, Holocaust denial, Society of Saint Pius X_
+_Context: Roman Catholic, Bishop Richard Williamson, Holocaust denial, Bernard Fellay, Marcel Lefebvre, Vatican Council II, Society of Saint Pius X_
 
 ## [Previous Day...](/news/2012/10/24/index.md)
 

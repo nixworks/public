@@ -21,11 +21,11 @@ Witnesses said cars seemed to explode every couple of seconds when the fire was 
 
 ##### United Nations Secretary-General
 ### [United Nations Secretary-General Antonio Guterres issues "a red alert for our world," saying that conflicts have deepened, global anxieties about nuclear weapons have increased, inequalities have grown, and nationalism and xenophobia are on the rise. Guterres calls for global unity to overcome these growing challenges. ](/news/2017/12/31/united-nations-secretary-general-anta3nio-guterres-issues-a-red-alert-for-our-world-saying-that-conflicts-have-deepened-global-anxieties.md)
-_Context: nuclear weapon, nationalism, United Nations Secretary-General, xenophobia, Antonio Guterres_
+_Context: United Nations Secretary-General, nationalism, xenophobia, nuclear weapon, Antonio Guterres_
 
 ##### Copper Canyon Apartment Homes shooting
 ### [Five Douglas County, Colorado sheriff's deputies are shot, one fatally, and two civilians are injured at a domestic disturbance call. The suspect was also killed. ](/news/2017/12/31/five-douglas-county-colorado-sheriff-s-deputies-are-shot-one-fatally-and-two-civilians-are-injured-at-a-domestic-disturbance-call-the-su.md)
-_Context: Douglas County, Colorado, Copper Canyon Apartment Homes shooting_
+_Context: Copper Canyon Apartment Homes shooting, Douglas County, Colorado_
 
 ##### Law of China
 ### [China announces the country's ivory trade is now illegal. In 2015, Chinese President Xi Jinping and then-U.S. President Barack Obama announced "near-complete" ivory bans for each country. America's ivory ban went into effect in June 2016. ](/news/2017/12/31/china-announces-the-country-s-ivory-trade-is-now-illegal-in-2015-chinese-president-xi-jinping-and-then-u-s-president-barack-obama-announc.md)
@@ -37,11 +37,11 @@ The film superstar says he will form a party to &quot;change the political syste
 
 ##### 2017 Iranian protests
 ### [Iran blocks access to Telegram and Instagram as the largest anti-government protests since 2009 continue. ](/news/2017/12/31/iran-blocks-access-to-telegram-and-instagram-as-the-largest-anti-government-protests-since-2009-continue.md)
-_Context: Instagram, Telegram, since 2009, 2017 Iranian protests, Iran_
+_Context: Telegram, Instagram, Iran, since 2009, 2017 Iranian protests_
 
 ##### Palestine-United States relations
 ### [Palestine recalls their envoy to the United States for "consultations," following President Trump's recognition of Jerusalem as the capital of Israel. Palestine President Mahmoud Abbas says they will not accept any U.S. peace plan in the wake of Trump's move. ](/news/2017/12/31/palestine-recalls-their-envoy-to-the-united-states-for-consultations-following-president-trump-s-recognition-of-jerusalem-as-the-capital.md)
-_Context: President of the State of Palestine, U.S. President, peace plan, Jerusalem, Mahmoud Abbas, Palestine-United States relations, Donald Trump_
+_Context: peace plan, Mahmoud Abbas, Jerusalem, President of the State of Palestine, Palestine-United States relations, Donald Trump, U.S. President_
 
 ## [Previous Day...](/news/2017/12/30/index.md)
 

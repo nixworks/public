@@ -17,11 +17,11 @@ A suicide bomber kills at least 10 people, a number of them children, at a check
 
 ##### Sri Lanka
 ### [Sri Lanka marks the third anniversary of the end of its 26-year civil war with a large military parade in Colombo. ](/news/2012/05/19/sri-lanka-marks-the-third-anniversary-of-the-end-of-its-26-year-civil-war-with-a-large-military-parade-in-colombo.md)
-_Context: Sri Lanka, Sri Lankan Civil War, Colombo_
+_Context: Sri Lankan Civil War, Sri Lanka, Colombo_
 
 ##### Richard Dawkins
 ### [Ethologist, evolutionary biologist and atheist Richard Dawkins announces his support for British education secretary Michael Gove's plan to send free King James Bibles to every state school. ](/news/2012/05/19/ethologist-evolutionary-biologist-and-atheist-richard-dawkins-announces-his-support-for-british-education-secretary-michael-gove-s-plan-to.md)
-_Context: King James Bible, Michael Gove, Richard Dawkins_
+_Context: King James Bible, Richard Dawkins, Michael Gove_
 
 ##### 
 ### [At least 20 people are killed in an explosion in a road tunnel being constructed in central China. ](/news/2012/05/19/at-least-20-people-are-killed-in-an-explosion-in-a-road-tunnel-being-constructed-in-central-china.md)

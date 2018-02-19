@@ -5,7 +5,7 @@ Formats: [HTML](2009/11/2/index.html)  [JSON](2009/11/2/index.json)  [XML](2009/
 
 ##### Large blast
 ### [ A large blast occurs in Rawalpindi, Pakistan, killing at least 35. ](/news/2009/11/2/a-large-blast-occurs-in-rawalpindi-pakistan-killing-at-least-35.md)
-_Context: Pakistan, Rawalpindi, large blast_
+_Context: Rawalpindi, large blast, Pakistan_
 
 ##### Venezuela
 ### [ Large parts of Venezuela begin rationing water after unseasonably dry weather. ](/news/2009/11/2/large-parts-of-venezuela-begin-rationing-water-after-unseasonably-dry-weather.md)
@@ -33,11 +33,11 @@ North Korea has again urged the United States to accept its demand for direct ta
 
 ##### Simon Mann
 ### [ Simon Mann, a British mercenary who had been serving a 34-year prison sentence in Equatorial Guinea for his role in a failed coup d'etat, is given a presidential pardon. ](/news/2009/11/2/simon-mann-a-british-mercenary-who-had-been-serving-a-34-year-prison-sentence-in-equatorial-guinea-for-his-role-in-a-failed-coup-d-etat-i.md)
-_Context: Equatorial Guinea, mercenaries, coup d'etat, Simon Mann_
+_Context: Simon Mann, coup d'etat, Equatorial Guinea, mercenaries_
 
 ##### Death penalty
 ### [ Four people are sentenced to death by hanging in Tanzania for the killing of an Albino man last year. ](/news/2009/11/2/four-people-are-sentenced-to-death-by-hanging-in-tanzania-for-the-killing-of-an-albino-man-last-year.md)
-_Context: death penalty, albino, Tanzania, hanging_
+_Context: Tanzania, hanging, albino, death penalty_
 
 ##### Bosnian Serb
 ### [ Former Bosnian Serb leader Radovan Karadzic is to attend his war crimes trial on Tuesday, after boycotting previous sittings. ](/news/2009/11/2/former-bosnian-serb-leader-radovan-karada3-4ia-is-to-attend-his-war-crimes-trial-on-tuesday-after-boycotting-previous-sittings.md)
@@ -49,7 +49,7 @@ _Context: Bhumibol Adulyadej, spreading false information, Thailand_
 
 ##### United Nations Secretary-General
 ### [ United Nations Secretary-General Ban Ki-moon makes a surprise visit to Afghanistan ahead of the 7 November second round of the presidential election. ](/news/2009/11/2/united-nations-secretary-general-ban-ki-moon-makes-a-surprise-visit-to-afghanistan-ahead-of-the-7-november-second-round-of-the-presidential.md)
-_Context: presidential election, Ban Ki-moon, United Nations Secretary-General, Afghan_
+_Context: United Nations Secretary-General, Ban Ki-moon, Afghan, presidential election_
 
 ## [Previous Day...](/news/2009/11/1/index.md)
 

@@ -9,7 +9,7 @@ A pro-Russian force opened fire in seizing a Ukrainian military base in Crimea o
 
 ##### Jordan
 ### [A Jordanian judge is fatally shot by Israeli Border Police after he allegedly attempted to grab one of their rifles. ](/news/2014/03/10/a-jordanian-judge-is-fatally-shot-by-israeli-border-police-after-he-allegedly-attempted-to-grab-one-of-their-rifles.md)
-_Context: Israeli Border Police, Jordan_
+_Context: Jordan, Israeli Border Police_
 
 ##### Fyffes
 ### [Irish fruit firm Fyffes and U.S. rival Chiquita agree to combine, creating the world's largest banana company in an all-stock deal valued at about $1.07 billion. ](/news/2014/03/10/irish-fruit-firm-fyffes-and-u-s-rival-chiquita-agree-to-combine-creating-the-world-s-largest-banana-company-in-an-all-stock-deal-valued-at.md)
@@ -29,7 +29,7 @@ New Zealand will go to the polls on September 20. - New Zealand Herald
 
 ##### Prime Minister
 ### [The Prime Minister of Papua New Guinea Peter O'Neill sacks the Treasurer Don Polye and the Minister for Industrial Relations Mark Maipakai. ](/news/2014/03/10/the-prime-minister-of-papua-new-guinea-peter-o-neill-sacks-the-treasurer-don-polye-and-the-minister-for-industrial-relations-mark-maipakai.md)
-_Context: Don Polye, Peter O'Neill, Prime Minister_
+_Context: Peter O'Neill, Prime Minister, Don Polye_
 
 ##### David J. Skorton
 ### [Dr. David J. Skorton, current President of Cornell University, is chosen to be the new head of the Smithsonian Institution. ](/news/2014/03/10/dr-david-j-skorton-current-president-of-cornell-university-is-chosen-to-be-the-new-head-of-the-smithsonian-institution.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2009/08/10/index.html)  [JSON](2009/08/10/index.json)  [XML](200
 
 ##### South Africa
 ### [ In an open letter four South African opposition leaders accuse President Jacob Zuma of abuse of power after his naming of Sandile Ngcobo as Chief Justice. The office of President Jacob Zuma responds by saying there was "nothing unconstitutional" in Zuma's action. ](/news/2009/08/10/in-an-open-letter-four-south-african-opposition-leaders-accuse-president-jacob-zuma-of-abuse-of-power-after-his-naming-of-sandile-ngcobo-as.md)
-_Context: Jacob Zuma, Chief Justice, President of South Africa, South Africa, Sandile Ngcobo_
+_Context: Sandile Ngcobo, South Africa, Jacob Zuma, Chief Justice, President of South Africa_
 
 ##### Union of South American Nations
 ### [ The UNASUR summit opens in Quito to discuss issues such as Venezuela's "ethics responsibility" clause, Colombian military bases and the Honduras crisis. ](/news/2009/08/10/the-unasur-summit-opens-in-quito-to-discuss-issues-such-as-venezuela-s-aethics-responsibilitya-clause-colombian-military-bases-and-the.md)
@@ -13,11 +13,11 @@ An &ldquo;ethics responsibly&rdquo; clause for the media and a strong criticism 
 
 ##### Joseph Msika
 ### [ At the funeral of Vice-President Joseph Msika, President Robert Mugabe lashes out at "racist" western countries, saying "Zimbabwe need not be tied to any one corner of the world, least of all, to a corner of former imperialist and racist colonisers". ](/news/2009/08/10/at-the-funeral-of-vice-president-joseph-msika-president-robert-mugabe-lashes-out-at-racist-western-countries-saying-zimbabwe-need-not.md)
-_Context: President of Zimbabwe, Robert Mugabe, Zimbabwe, Joseph Msika_
+_Context: Zimbabwe, Joseph Msika, President of Zimbabwe, Robert Mugabe_
 
 ##### Africa
 ### [ During a tour of Africa, Hillary Clinton, the United States Secretary of State, attacks a Congolese university student for asking about the opinion of her husband Bill Clinton. ](/news/2009/08/10/during-a-tour-of-africa-hillary-clinton-the-united-states-secretary-of-state-attacks-a-congolese-university-student-for-asking-about-the.md)
-_Context: Bill Clinton, United States Secretary of State, DR Congo, United States, Hillary Clinton, Africa_
+_Context: United States, Hillary Clinton, Africa, DR Congo, Bill Clinton, United States Secretary of State_
 
 ##### Ecuador
 ### [ Ecuadorean President Rafael Correa is sworn in for a second term vowing to deepen his socialist "revolution". ](/news/2009/08/10/ecuadorean-president-rafael-correa-is-sworn-in-for-a-second-term-vowing-to-deepen-his-socialist-arevolutiona.md)
@@ -37,11 +37,11 @@ _Context: Hyundai Asan, North Korea_
 
 ##### Libya
 ### [ Libya and Chad sign seven agreements to boost trade, security and political co-operation. ](/news/2009/08/10/libya-and-chad-sign-seven-agreements-to-boost-trade-security-and-political-co-operation.md)
-_Context: Libya, Chad, seven agreements_
+_Context: Chad, seven agreements, Libya_
 
 ##### Austria
 ### [ Negotiators gather in Austria for informal talks aimed at unblocking a 34-year-old dispute between Morocco and the Western Sahara independence movement. ](/news/2009/08/10/negotiators-gather-in-austria-for-informal-talks-aimed-at-unblocking-a-34-year-old-dispute-between-morocco-and-the-western-sahara-independe.md)
-_Context: Austria, Western Sahara, Morocco_
+_Context: Morocco, Austria, Western Sahara_
 
 ##### Secret Intelligence Service
 ### [ The head of MI6 John Scarlett denies complicity in the alleged torture of British detainee Binyam Mohamed, as the government rejects calls for an inquiry. ](/news/2009/08/10/the-head-of-mi6-john-scarlett-denies-complicity-in-the-alleged-torture-of-british-detainee-binyam-mohamed-as-the-government-rejects-calls.md)
@@ -65,7 +65,7 @@ South America&#039;s twelve nations on Saturday pledged to respect regional vacc
 
 ##### Namibia
 ### [ Two Namibians and a Chinese who are suspected in a corruption investigation involving a firm linked to the son of China's President Hu Jintao appear in a Windhoek court asking to be released on bail. ](/news/2009/08/10/two-namibians-and-a-chinese-who-are-suspected-in-a-corruption-investigation-involving-a-firm-linked-to-the-son-of-china-s-president-hu-jint.md)
-_Context: Windhoek, Hu Jintao, Namibia, Chinese President, China_
+_Context: Windhoek, Hu Jintao, Namibia, China, Chinese President_
 
 ## [Previous Day...](/news/2009/08/9/index.md)
 

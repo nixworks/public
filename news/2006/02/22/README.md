@@ -5,7 +5,7 @@ Formats: [HTML](2006/02/22/index.html)  [JSON](2006/02/22/index.json)  [XML](200
 
 ##### South Dakota Senate
 ### [ South Dakota Senate approves a bill that would purport to outlaw almost all forms of abortion. ](/news/2006/02/22/south-dakota-senate-approves-a-bill-that-would-purport-to-outlaw-almost-all-forms-of-abortion.md)
-_Context: abortion, bill, South Dakota Senate_
+_Context: South Dakota Senate, bill, abortion_
 
 ##### Manhattan
 ### [ A man in Manhattan, New York City is hospitalized for treatment of anthrax infection after being exposed to animal hides from the Cte d'Ivoire which he used for making drums. ](/news/2006/02/22/a-man-in-manhattan-new-york-city-is-hospitalized-for-treatment-of-anthrax-infection-after-being-exposed-to-animal-hides-from-the-cote-d-iv.md)
@@ -25,7 +25,7 @@ Pope Benedict XVI has announced that he will hold a consistory next month to cre
 
 ##### Al Askari Mosque bombing
 ### [ Al Askari Mosque bombing: The Al Askari Mosque, a shrine to Imam Ali al-Hadi and Imam Hasan al-Askari in Samarra, Iraq, is bombed and partly destroyed. The Golden Dome has collapsed. In the aftermath dozens of people die in riots, along with three journalists which includes Atwar Bahjat.](/news/2006/02/22/al-askari-mosque-bombing-the-al-askari-mosque-a-shrine-to-imam-ali-al-hadi-and-imam-hasan-al-askari-in-samarra-iraq-is-bombed-and-partl.md)
-_Context: Imam, Iraq, Samarra, Al Askari Mosque, Atwar Bahjat, Hasan al-Askari, Al Askari Mosque bombing, Ali al-Hadi_
+_Context: Ali al-Hadi, Atwar Bahjat, Al Askari Mosque, Imam, Al Askari Mosque bombing, Samarra, Iraq, Hasan al-Askari_
 
 ##### Navapur
 ### [ Indian authorities completely seal off the village of Navapur after bird flu is discovered there. ](/news/2006/02/22/indian-authorities-completely-seal-off-the-village-of-navapur-after-bird-flu-is-discovered-there.md)

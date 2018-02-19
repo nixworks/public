@@ -9,11 +9,11 @@ _Context: Somalia_
 
 ##### Julian Assange
 ### [Julian Assange's mother criticises leading figures in the U.S. government who called for her son's assassination on television, and expresses concerns that her son is being targeted by an American fatwa similar to the one brought against the writer Salman Rushdie in 1989. ](/news/2011/02/14/julian-assange-s-mother-criticises-leading-figures-in-the-u-s-government-who-called-for-her-son-s-assassination-on-television-and-expresse.md)
-_Context: fatwa, ''The Satanic Verses'' controversy, Salman Rushdie, Julian Assange_
+_Context: Salman Rushdie, Julian Assange, ''The Satanic Verses'' controversy, fatwa_
 
 ##### Revolutionary Armed Forces of Colombia
 ### [The FARC organisation in Colombia releases a fourth hostage in the past week. ](/news/2011/02/14/the-farc-organisation-in-colombia-releases-a-fourth-hostage-in-the-past-week.md)
-_Context: Revolutionary Armed Forces of Colombia, Colombia_
+_Context: Colombia, Revolutionary Armed Forces of Colombia_
 
 ##### Iran
 ### [Anti-regime protests are due to occur in Iran. ](/news/2011/02/14/anti-regime-protests-are-due-to-occur-in-iran.md)
@@ -37,11 +37,11 @@ _Context: Vincent van Gogh_
 
 ##### Central Bank of Egypt
 ### [The Central Bank of Egypt closes banks as a result of the 2011 Egyptian protests. ](/news/2011/02/14/the-central-bank-of-egypt-closes-banks-as-a-result-of-the-2011-egyptian-protests.md)
-_Context: Protesters, Central Bank of Egypt, bank_
+_Context: Central Bank of Egypt, bank, Protesters_
 
 ##### China
 ### [China records a trade surplus of $6.5 billion for January, less than expected. ](/news/2011/02/14/china-records-a-trade-surplus-of-6-5-billion-for-january-less-than-expected.md)
-_Context: January, China, trade surplus_
+_Context: trade surplus, China, January_
 
 ##### Lago Agrio
 ### [A court in the city of Lago Agrio, on behalf of 30,000 Ecuadorean people, orders United States oil company Chevron to pay more than $8 billion in environmental damages for dumping wastewater in the Amazon River twenty years ago. ](/news/2011/02/14/a-court-in-the-city-of-lago-agrio-on-behalf-of-30-000-ecuadorean-people-orders-united-states-oil-company-chevron-to-pay-more-than-8-billi.md)
@@ -49,7 +49,7 @@ An Ecuadorean lawyer for theplaintiffs said on Monday that a court in the Amazon
 
 ##### General Motors
 ### [General Motors announces that it will pay its United States hourly workers more than $4000 each as a share of profits. ](/news/2011/02/14/general-motors-announces-that-it-will-pay-its-united-states-hourly-workers-more-than-4000-each-as-a-share-of-profits.md)
-_Context: General Motors, hourly worker, profit, United States_
+_Context: profit, United States, hourly worker, General Motors_
 
 ##### Eurozone
 ### [Eurozone finance ministers agree to set up a permanent bail-out fund of EUR500 billion - the European Stability Mechanism (ESM). This replaces the European Financial Stability Facility (EFSF). ](/news/2011/02/14/eurozone-finance-ministers-agree-to-set-up-a-permanent-bail-out-fund-of-a-500-billion-the-european-stability-mechanism-esm-this-replac.md)
@@ -69,7 +69,7 @@ Fine Gael leader Enda Kenny is to travel to Germany tomorrow to brief German Cha
 
 ##### United Nations Security Council
 ### [The United Nations Security Council calls for a permanent ceasefire on the Thailand-Cambodia border near the Preah Vihear Temple. ](/news/2011/02/14/the-united-nations-security-council-calls-for-a-permanent-ceasefire-on-the-thailand-cambodia-border-near-the-preah-vihear-temple.md)
-_Context: United Nations Security Council, Cambodia, Thailand, Preah Vihear Temple_
+_Context: United Nations Security Council, Thailand, Preah Vihear Temple, Cambodia_
 
 ##### DR Congo
 ### [11 members of a family are found dead in eastern Democratic Republic of the Congo after being kidnapped by Ugandan Islamist rebels. ](/news/2011/02/14/11-members-of-a-family-are-found-dead-in-eastern-democratic-republic-of-the-congo-after-being-kidnapped-by-ugandan-islamist-rebels.md)
@@ -101,11 +101,11 @@ The Palestinian cabinet will tender resignations Monday after which Prime Minist
 
 ##### Mourad Medelci
 ### [Mourad Medelci, the foreign minister of Algeria, announces that the 19-year-old state of emergency will end "within days". ](/news/2011/02/14/mourad-medelci-the-foreign-minister-of-algeria-announces-that-the-19-year-old-state-of-emergency-will-end-within-days.md)
-_Context: Mourad Medelci, Algeria, state of emergency_
+_Context: Algeria, Mourad Medelci, state of emergency_
 
 ##### U.S. President
 ### [The President of the United States Barack Obama puts forward a budget for 2012 proposing heavy spending cuts but still predicting substantial budget deficits. ](/news/2011/02/14/the-president-of-the-united-states-barack-obama-puts-forward-a-budget-for-2012-proposing-heavy-spending-cuts-but-still-predicting-substantia.md)
-_Context: Barack Obama, U.S. President, United States federal budget, budget deficits_
+_Context: budget deficits, Barack Obama, United States federal budget, U.S. President_
 
 ##### 10 Downing Street
 ### [10 Downing Street receives a new cat to boost the battle against mice seen on television scuttling past British prime minister David Cameron. ](/news/2011/02/14/10-downing-street-receives-a-new-cat-to-boost-the-battle-against-mice-seen-on-television-scuttling-past-british-prime-minister-david-cameron.md)

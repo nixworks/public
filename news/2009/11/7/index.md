@@ -9,11 +9,11 @@ _Context: United Kingdom, Texas_
 
 ##### Saudi Arabia
 ### [ Saudi forces bomb a Houthi rebel stronghold in northern Yemen for a third day. ](/news/2009/11/7/saudi-forces-bomb-a-houthi-rebel-stronghold-in-northern-yemen-for-a-third-day.md)
-_Context: Saudi Arabia, Yemen, due to fighting, Houthi_
+_Context: Saudi Arabia, Yemen, Houthi, due to fighting_
 
 ##### Bermeo
 ### [ Thousands of people in Bermeo, Spain, demonstrate for the release of 36 Spanish fishermen being held by Somali pirates. ](/news/2009/11/7/thousands-of-people-in-bermeo-spain-demonstrate-for-the-release-of-36-spanish-fishermen-being-held-by-somali-pirates.md)
-_Context: Bermeo, Spain, Somali pirates_
+_Context: Somali pirates, Spain, Bermeo_
 
 ##### Andorra
 ### [ At least two workers are killed after a bridge under construction collapses in Andorra. ](/news/2009/11/7/at-least-two-workers-are-killed-after-a-bridge-under-construction-collapses-in-andorra.md)
@@ -21,7 +21,7 @@ _Context: Andorra_
 
 ##### NATO
 ### [ A NATO airstrike kills 7 members of the Afghan security force in the western province of Badghis. ](/news/2009/11/7/a-nato-airstrike-kills-7-members-of-the-afghan-security-force-in-the-western-province-of-badghis.md)
-_Context: Badghis Province, Afghan, NATO_
+_Context: Afghan, NATO, Badghis Province_
 
 ##### Madagascar
 ### [ Rival factions in Madagascar agree to form a unity government to end the political crisis in the country. ](/news/2009/11/7/rival-factions-in-madagascar-agree-to-form-a-unity-government-to-end-the-political-crisis-in-the-country.md)
@@ -37,7 +37,7 @@ _Context: Russia, Tatar Strait_
 
 ##### Northern Mariana Islands
 ### [ Voters in the Northern Mariana Islands go to the polls to elect the governor, legislature and local municipal offices. ](/news/2009/11/7/voters-in-the-northern-mariana-islands-go-to-the-polls-to-elect-the-governor-legislature-and-local-municipal-offices.md)
-_Context: go to the polls, municipal, legislature, 2009 gubernatorial election and runoff, Northern Mariana Islands_
+_Context: go to the polls, legislature, municipal, 2009 gubernatorial election and runoff, Northern Mariana Islands_
 
 ##### Venezuela
 ### [ Venezuela deploys 15,000 soldiers to its border with Colombia. ](/news/2009/11/7/venezuela-deploys-15-000-soldiers-to-its-border-with-colombia.md)
@@ -49,7 +49,7 @@ For the first time two Australian researchers have painstakingly pieced together
 
 ##### Lebanese
 ### [ Lebanon's political opposition agrees to join a unity government under Prime Minister designate Saad Hariri. ](/news/2009/11/7/lebanon-s-political-opposition-agrees-to-join-a-unity-government-under-prime-minister-designate-saad-hariri.md)
-_Context: Saad Hariri, Lebanese_
+_Context: Lebanese, Saad Hariri_
 
 ##### Luigi Esposito
 ### [ Luigi Esposito, one of Italy's 30 most wanted men, is detained at a villa in Naples. ](/news/2009/11/7/luigi-esposito-one-of-italy-s-30-most-wanted-men-is-detained-at-a-villa-in-naples.md)
@@ -57,7 +57,7 @@ Italian police say they have arrested one of the country&#039;s leading organise
 
 ##### Ecuador
 ### [ Ecuador rations its electricity, leading to some blackouts in areas, including the capital Quito. ](/news/2009/11/7/ecuador-rations-its-electricity-leading-to-some-blackouts-in-areas-including-the-capital-quito.md)
-_Context: Quito, Ecuador_
+_Context: Ecuador, Quito_
 
 ##### Cuba
 ### [ Cuba removes peas and potatoes from its list of rationed foods but increases their prices. ](/news/2009/11/7/cuba-removes-peas-and-potatoes-from-its-list-of-rationed-foods-but-increases-their-prices.md)
@@ -69,7 +69,7 @@ _Context: Caracas_
 
 ##### Ashmolean Museum
 ### [ Ashmolean Museum in Oxfordshire, the UK's oldest museum, reopens after renovations. ](/news/2009/11/7/ashmolean-museum-in-oxfordshire-the-uk-s-oldest-museum-reopens-after-renovations.md)
-_Context: Oxfordshire, Ashmolean Museum_
+_Context: Ashmolean Museum, Oxfordshire_
 
 ## [Previous Day...](/news/2009/11/6/index.md)
 

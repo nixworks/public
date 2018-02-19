@@ -9,7 +9,7 @@ Residents labored Saturday to begin rebuilding a day after tornadoes killed 12 p
 
 ##### The Da Vinci Code
 ### [ "The Da Vinci Code" author Dan Brown and his publisher, Random House, win the lawsuit that claimed that Brown committed copyright infringement by using ideas similar to those in "The Holy Blood and the Holy Grail". ](/news/2006/04/7/the-da-vinci-code-author-dan-brown-and-his-publisher-random-house-win-the-lawsuit-that-claimed-that-brown-committed-copyright-infringem.md)
-_Context: Random House, The Holy Blood and the Holy Grail, copyright infringement, Dan Brown, The Da Vinci Code_
+_Context: The Holy Blood and the Holy Grail, copyright infringement, The Da Vinci Code, Dan Brown, Random House_
 
 ## [Previous Day...](/news/2006/04/6/index.md)
 

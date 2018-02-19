@@ -5,7 +5,7 @@ Formats: [HTML](2016/06/25/index.html)  [JSON](2016/06/25/index.json)  [XML](201
 
 ##### Moro conflict
 ### [The Islamic State of Iraq and the Levant urges its supporters in Indonesia and Malaysia to go to the Philippines and fight against newly-elected president Rodrigo Duterte. ](/news/2016/06/25/the-islamic-state-of-iraq-and-the-levant-urges-its-supporters-in-indonesia-and-malaysia-to-go-to-the-philippines-and-fight-against-newly-ele.md)
-_Context: ISIL, Moro conflict, Malaysia, Rodrigo Duterte_
+_Context: Malaysia, Moro conflict, ISIL, Rodrigo Duterte_
 
 ##### Syrian Civil War
 ### [At least three people are killed and three more injured as hundreds of Syrian Kurds flee Aleppo Province villages controlled by the Islamic State of Iraq and the Levant, which continues to abduct and enslave Kurds. Yesterday, the Syrian Observatory for Human Rights reported ISIL militants have kidnapped about 900 civilians over the past three weeks. ](/news/2016/06/25/at-least-three-people-are-killed-and-three-more-injured-as-hundreds-of-syrian-kurds-flee-aleppo-province-villages-controlled-by-the-islamic.md)
@@ -33,7 +33,7 @@ A massive wildfire burning out of control in the foothills of central California
 
 ##### Cross-Strait relations
 ### [The People's Republic of China cuts communication mechanism with Taiwan after the new government refuses to acknowledge the One China policy. ](/news/2016/06/25/the-people-s-republic-of-china-cuts-communication-mechanism-with-taiwan-after-the-new-government-refuses-to-acknowledge-the-one-china-policy.md)
-_Context: One China, China, Taiwan, Cross-Strait relations_
+_Context: China, Taiwan, One China, Cross-Strait relations_
 
 ##### United Kingdom withdrawal from the European Union
 ### [Diplomats from Germany, France, Italy, the Netherlands, Belgium, and Luxembourg meet in Berlin to discuss the consequences of the United Kingdom voting to leave the European Union. ](/news/2016/06/25/diplomats-from-germany-france-italy-the-netherlands-belgium-and-luxembourg-meet-in-berlin-to-discuss-the-consequences-of-the-united-kin.md)

@@ -21,7 +21,7 @@ An aircraft crashed at Tehran&#039;s Mehrabad airport on Sunday morning, Iran&#0
 
 ##### Michael Brown incident in Ferguson, MO
 ### [Michael Brown incident in Ferguson, MO: Protests about police shooting a teenager on Saturday in the St Louis suburb of Ferguson turn ugly with looting and vandalism. ](/news/2014/08/10/michael-brown-incident-in-ferguson-mo-protests-about-police-shooting-a-teenager-on-saturday-in-the-st-louis-suburb-of-ferguson-turn-ugly-w.md)
-_Context: St Louis, Ferguson, Missouri, Michael Brown incident in Ferguson, MO_
+_Context: Ferguson, Missouri, St Louis, Michael Brown incident in Ferguson, MO_
 
 ##### Turkey
 ### [Voters in Turkey go to the polls for the first round of voting in a presidential election with current Prime Minister Recep Tayyip Erdogan poised for a first round victory. ](/news/2014/08/10/voters-in-turkey-go-to-the-polls-for-the-first-round-of-voting-in-a-presidential-election-with-current-prime-minister-recep-tayyip-erdoaan.md)

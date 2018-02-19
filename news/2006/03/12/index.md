@@ -17,15 +17,15 @@ _Context: Slobodan Milosevic_
 
 ##### Sadr City
 ### [ Six car bombs explode in Sadr City, a neighborhood in Baghdad, killing at least forty-six people. ](/news/2006/03/12/six-car-bombs-explode-in-sadr-city-a-neighborhood-in-baghdad-killing-at-least-forty-six-people.md)
-_Context: Sadr City, Baghdad_
+_Context: Baghdad, Sadr City_
 
 ##### Malta
 ### [ In Malta, the Malta Labour Party makes a big victory in the Local Council Elections ](/news/2006/03/12/in-malta-the-malta-labour-party-makes-a-big-victory-in-the-local-council-elections.md)
-_Context: Malta Labour Party, Malta, Local Council Elections_
+_Context: Local Council Elections, Malta, Malta Labour Party_
 
 ##### Russ Feingold
 ### [ U.S. Senator Russ Feingold announces that he will introduce a motion of censure against President George W. Bush. ](/news/2006/03/12/u-s-senator-russ-feingold-announces-that-he-will-introduce-a-motion-of-censure-against-president-george-w-bush.md)
-_Context: censure, Russ Feingold, George W. Bush_
+_Context: George W. Bush, censure, Russ Feingold_
 
 ##### Schering
 ### [ Schering, a Berlin, Germany, based pharmaceutical firm, announces that it has received a hostile merger bid from Frankfurt-based rival Merck. ](/news/2006/03/12/schering-a-berlin-germany-based-pharmaceutical-firm-announces-that-it-has-received-a-hostile-merger-bid-from-frankfurt-based-rival-merc.md)

@@ -29,7 +29,7 @@ Seven crew members are arrested on suspicion of endangering lives at sea after t
 
 ##### U.S. Border Patrol
 ### [A U.S. Border Patrol agent is shot dead near the U.S.-Mexico border in the state of Arizona. A second agent was shot and is being treated for non-life threatening injuries. ](/news/2012/10/2/a-u-s-border-patrol-agent-is-shot-dead-near-the-u-s-mexico-border-in-the-state-of-arizona-a-second-agent-was-shot-and-is-being-treated-fo.md)
-_Context: Arizona, U.S. Border Patrol_
+_Context: U.S. Border Patrol, Arizona_
 
 ##### France
 ### [Several sources claim that a French spy killed Muammar Gaddafi in 2011; the motive to try to conceal Ghadaffi's financial support of Nicolas Sarkozy's 2007 presidential election campaign. A French source dismisses the story as "nonsense". ](/news/2012/10/2/several-sources-claim-that-a-french-spy-killed-muammar-gaddafi-in-2011-the-motive-to-try-to-conceal-ghadaffi-s-financial-support-of-nicolas.md)
@@ -37,7 +37,7 @@ A&#x20;French&#x20;intelligence&#x20;expert&#x20;has&#x20;poured&#x20;cold&#x20;
 
 ##### OSCE
 ### [The OSCE titles the parliamentary election in Georgia as "fair and free". Partial results show a majority of votes for Georgian Dream. President Saakashvili concedes that his party, United National Movement, will move to opposition. Bidzina Ivanishvili is expected to become prime minister, and after legislative changes next year, also head of state. ](/news/2012/10/2/the-osce-titles-the-parliamentary-election-in-georgia-as-fair-and-free-partial-results-show-a-majority-of-votes-for-georgian-dream-presi.md)
-_Context: United National Movement, Prime Minister of Georgia, OSCE, Bidzina Ivanishvili, parliamentary election, Georgian Dream, President of Georgia, Mikheil Saakashvili_
+_Context: Mikheil Saakashvili, United National Movement, parliamentary election, President of Georgia, Georgian Dream, Bidzina Ivanishvili, Prime Minister of Georgia, OSCE_
 
 ## [Previous Day...](/news/2012/10/1/index.md)
 

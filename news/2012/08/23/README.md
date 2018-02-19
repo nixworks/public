@@ -5,11 +5,11 @@ Formats: [HTML](2012/08/23/index.html)  [JSON](2012/08/23/index.json)  [XML](201
 
 ##### Tropical Storm Isaac
 ### [Tropical Storm Isaac (2012): The U.S. National Hurricane Center lowers its previous hurricane warning threat level for Hispaniola island in the Caribbean Sea to a storm warning and hurricane watch in its 23.00 PM bulletin. ](/news/2012/08/23/tropical-storm-isaac-2012-the-u-s-national-hurricane-center-lowers-its-previous-hurricane-warning-threat-level-for-hispaniola-island-in.md)
-_Context: Tropical Storm Isaac, National Hurricane Center, Caribbean, Hispaniola_
+_Context: Hispaniola, National Hurricane Center, Tropical Storm Isaac, Caribbean_
 
 ##### Typhoon Tembin
 ### [Typhoon Tembin (2012): Taiwanese authorities evacuate almost 5,000 people ahead of the typhoon. ](/news/2012/08/23/typhoon-tembin-2012-taiwanese-authorities-evacuate-almost-5-000-people-ahead-of-the-typhoon.md)
-_Context: Taiwan, typhoon, Typhoon Tembin_
+_Context: typhoon, Typhoon Tembin, Taiwan_
 
 ##### Monsoon
 ### [At least 30 people are killed as a result of heavy monsoon rain in the northern Indian state of Rajasthan. ](/news/2012/08/23/at-least-30-people-are-killed-as-a-result-of-heavy-monsoon-rain-in-the-northern-indian-state-of-rajasthan.md)
@@ -21,19 +21,19 @@ A hot air balloon crashes and catches fire in Slovenia, killing four people and 
 
 ##### New
 ### [A new, seemingly chronic but non-contagious, immunodeficiency disease is diagnosed since 2004, affecting mainly people of Asian genotype aged around 50. Most patients create interferon-gamma-blocking autoantibodies more frequently. Genetic factors are suspected but it would not "run in families". Also, something in the environment may trigger the disease. ](/news/2012/08/23/a-new-seemingly-chronic-but-non-contagious-immunodeficiency-disease-is-diagnosed-since-2004-affecting-mainly-people-of-asian-genotype-age.md)
-_Context: Genetic, chronic, autoantibodies, immunodeficiency, new, genotype, interferon-gamma, environment, contagious, Asia, disease_
+_Context: genotype, chronic, Asia, Genetic, environment, interferon-gamma, autoantibodies, new, contagious, disease, immunodeficiency_
 
 ##### Waddenvereniging
 ### [The "Waddenvereniging" in the Netherlands expects the human-friendly starry smooth-hound shark to return to the Wadden Sea in a few years, after specimina were marked in the Oosterschelde and in another Zeeland part of the Rhine-Meuse-Scheldt delta. ](/news/2012/08/23/the-waddenvereniging-in-the-netherlands-expects-the-human-friendly-starry-smooth-hound-shark-to-return-to-the-wadden-sea-in-a-few-years-a.md)
-_Context: Zeeland, starry smooth-hound, Oosterschelde, Wadden Sea, specimina, shark, Rhine-Meuse-Scheldt delta, Waddenvereniging, Netherlands_
+_Context: starry smooth-hound, Oosterschelde, specimina, shark, Wadden Sea, Zeeland, Netherlands, Rhine-Meuse-Scheldt delta, Waddenvereniging_
 
 ##### Shimon Peres
 ### [Israel's President Shimon Peres stresses that circumcision is "at the core of Jewish identity", in a letter on a controversy in Germany over circumcision. ](/news/2012/08/23/israel-s-president-shimon-peres-stresses-that-circumcision-is-at-the-core-of-jewish-identity-in-a-letter-on-a-controversy-in-germany-over.md)
-_Context: Jewish identity, Shimon Peres, circumcision, circumcision, controversy_
+_Context: Jewish identity, controversy, circumcision, Shimon Peres, circumcision_
 
 ##### Baltasar Garzon
 ### [Baltasar Garzon promises he has a surprise in the case against his client Julian Assange. The Swedish prosecutor refuses to travel to London. ](/news/2012/08/23/baltasar-garza3n-promises-he-has-a-surprise-in-the-case-against-his-client-julian-assange-the-swedish-prosecutor-refuses-to-travel-to-londo.md)
-_Context: Julian Assange, London, Baltasar Garzon, Swedish_
+_Context: Baltasar Garzon, Julian Assange, Swedish, London_
 
 ##### Russia
 ### [Russia says that it is working closely with the Syrian government to establish guarantees that Assad won't move or use Syria's chemical weapons. ](/news/2012/08/23/russia-says-that-it-is-working-closely-with-the-syrian-government-to-establish-guarantees-that-assad-won-t-move-or-use-syria-s-chemical-weap.md)
@@ -49,7 +49,7 @@ Former fugitive tycoon Asil Nadir is jailed for 10 years for stealing nearly £2
 
 ##### Mark David Chapman
 ### [The 7th parole request of Mark David Chapman, murderer of former Beatle John Lennon, is denied. ](/news/2012/08/23/the-7th-parole-request-of-mark-david-chapman-murderer-of-former-beatle-john-lennon-is-denied.md)
-_Context: John Lennon, Mark David Chapman, Beatle_
+_Context: Beatle, John Lennon, Mark David Chapman_
 
 ## [Previous Day...](/news/2012/08/22/index.md)
 

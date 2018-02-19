@@ -21,11 +21,11 @@ North’s Punggye-ri site appears to be ready for what would be the country’s 
 
 ##### DR Congo
 ### [The Democratic Republic of the Congo suspends its military cooperation with Belgium. ](/news/2017/04/13/the-democratic-republic-of-the-congo-suspends-its-military-cooperation-with-belgium.md)
-_Context: Belgium, DR Congo_
+_Context: DR Congo, Belgium_
 
 ##### European Court of Human Rights
 ### [The European Court of Human Rights rules that Russia had failed to protect students and teachers during the 2004 Beslan school siege, which left 334 people dead, and orders the Russian Government to pay 2,955,000 euros to 409 relatives of the victims. The ruling was quickly denounced by Russia as "unacceptable". ](/news/2017/04/13/the-european-court-of-human-rights-rules-that-russia-had-failed-to-protect-students-and-teachers-during-the-2004-beslan-school-siege-which.md)
-_Context: European Court of Human Rights, Russian government, Russia, Beslan school siege, euro_
+_Context: European Court of Human Rights, Russian government, Beslan school siege, Russia, euro_
 
 ##### Mardan
 ### [One student is murdered and another injured in Mardan, Pakistan over alleged blasphemy. The student who died, Mashal Khan, was known on social media for his secular and liberal views. ](/news/2017/04/13/one-student-is-murdered-and-another-injured-in-mardan-pakistan-over-alleged-blasphemy-the-student-who-died-mashal-khan-was-known-on-soci.md)

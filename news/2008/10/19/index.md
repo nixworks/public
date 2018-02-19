@@ -9,7 +9,7 @@ _Context: Kandahar Province, Taliban, Afghan_
 
 ##### Delhi Mass Rapid Transit System
 ### [ A bridge under construction for the Delhi Mass Rapid Transit System in East Delhi collapses, killing 1 and leaving at least 9 injured. ](/news/2008/10/19/a-bridge-under-construction-for-the-delhi-mass-rapid-transit-system-in-east-delhi-collapses-killing-1-and-leaving-at-least-9-injured.md)
-_Context: Delhi Mass Rapid Transit System, East Delhi_
+_Context: East Delhi, Delhi Mass Rapid Transit System_
 
 ##### Cambodia
 ### [ Cambodia agrees to release 13 Royal Thai Army soldiers captured during recent fighting in the 2008 Cambodian-Thai stand-off. ](/news/2008/10/19/cambodia-agrees-to-release-13-royal-thai-army-soldiers-captured-during-recent-fighting-in-the-2008-cambodian-thai-stand-off.md)

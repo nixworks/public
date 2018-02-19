@@ -21,15 +21,15 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Human Rights Watch
 ### [ Human Rights Watch releases a video showing South Sudanese Vice President Dr. Riek Machar Teny Dhurgon bribing cult and rebel leader Joseph Kony and his second-in-command Vincent Otti of the Lord's Resistance Army to not attack southern Sudanese citizens. ](/news/2006/06/3/human-rights-watch-releases-a-video-showing-south-sudanese-vice-president-dr-riek-machar-teny-dhurgon-bribing-cult-and-rebel-leader-joseph.md)
-_Context: Joseph Kony, Sudan, Lord's Resistance Army, Riek Machar, Human Rights Watch, Vincent Otti_
+_Context: Riek Machar, Lord's Resistance Army, Joseph Kony, Vincent Otti, Sudan, Human Rights Watch_
 
 ##### Russia
 ### [ A Russian diplomat is killed and four kidnapped in an attack near the Russian embassy in Baghdad, according to Russian and Iraqi officials. ](/news/2006/06/3/a-russian-diplomat-is-killed-and-four-kidnapped-in-an-attack-near-the-russian-embassy-in-baghdad-according-to-russian-and-iraqi-officials.md)
-_Context: attack near the Russian embassy, Russia, Baghdad_
+_Context: attack near the Russian embassy, Baghdad, Russia_
 
 ##### Montenegro
 ### [ In a special session of parliament, Montenegro declares its independence from the State Union of Serbia and Montenegro. ](/news/2006/06/3/in-a-special-session-of-parliament-montenegro-declares-its-independence-from-the-state-union-of-serbia-and-montenegro.md)
-_Context: Montenegro, Serbia and Montenegro_
+_Context: Serbia and Montenegro, Montenegro_
 
 ##### 2006 Toronto terrorism arrests
 ### [ 2006 Toronto terrorism arrests: The Royal Canadian Mounted Police announce the arrest of 17 suspected Islamic terrorists in connection with a planned terrorist attack around Toronto. The RCMP say that three tons of ammonium nitrate was seized. In comparison, the 1995 Oklahoma City bombing used one ton. ](/news/2006/06/3/2006-toronto-terrorism-arrests-the-royal-canadian-mounted-police-announce-the-arrest-of-17-suspected-islamic-terrorists-in-connection-with.md)
@@ -37,7 +37,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Million dollar bill
 ### [ In response to his million dollar bill gospel tracts being seized from The Great News Network by the United States Secret Service, Ray Comfort, founder of Living Waters Publications, states that he will refuse to turn over his supply of tracts without a warrant. ](/news/2006/06/3/in-response-to-his-million-dollar-bill-gospel-tracts-being-seized-from-the-great-news-network-by-the-united-states-secret-service-ray-comf.md)
-_Context: million dollar bill, gospel tracts, United States Secret Service, Ray Comfort, Living Waters Publications, The Great News Network_
+_Context: gospel tracts, million dollar bill, Ray Comfort, Living Waters Publications, The Great News Network, United States Secret Service_
 
 ## [Previous Day...](/news/2006/06/2/index.md)
 

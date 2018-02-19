@@ -5,15 +5,15 @@ Formats: [HTML](2005/03/16/index.html)  [JSON](2005/03/16/index.json)  [XML](200
 
 ##### Israel
 ### [ Israel formally hands Jericho to Palestinian Authority control, which is likely to strengthen Mahmoud Abbas. The PA will resume security control over the city and will have to make sure that wanted militants will remain in check. ](/news/2005/03/16/israel-formally-hands-jericho-to-palestinian-authority-control-which-is-likely-to-strengthen-mahmoud-abbas-the-pa-will-resume-security-co.md)
-_Context: Palestinian Authority, Jericho, Mahmoud Abbas, Israel_
+_Context: Israel, Palestinian Authority, Jericho, Mahmoud Abbas_
 
 ##### Riga
 ### [ Anti-fascist protesters in the center of Riga, Latvia, end up in custody after trying to stop the annual march of Waffen-SS veterans and young radical nationalists. ](/news/2005/03/16/anti-fascist-protesters-in-the-center-of-riga-latvia-end-up-in-custody-after-trying-to-stop-the-annual-march-of-waffen-ss-veterans-and-yo.md)
-_Context: Riga, Waffen-SS, Latvia_
+_Context: Latvia, Riga, Waffen-SS_
 
 ##### Russia
 ### [ Russia announces that it will pay US$10 m to the people who betrayed Chechen separatist leader Aslan Maskhadov, who was killed by Russian special forces. ](/news/2005/03/16/russia-announces-that-it-will-pay-us-10-m-to-the-people-who-betrayed-chechen-separatist-leader-aslan-maskhadov-who-was-killed-by-russian-s.md)
-_Context: Aslan Maskhadov, US$, Russia, Chechnya_
+_Context: Aslan Maskhadov, US$, Chechnya, Russia_
 
 ##### Bolivia
 ### [ President of Bolivia Carlos Mesa has asked the country's congress to approve early elections in August to replace him to "prevent bloodbath". There are still widespread opposition protests against his economic policies. ](/news/2005/03/16/president-of-bolivia-carlos-mesa-has-asked-the-country-s-congress-to-approve-early-elections-in-august-to-replace-him-to-prevent-bloodbath.md)
@@ -21,7 +21,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### El Salvador
 ### [ President of El Salvador, Tony Saca, criticises new inquiries of The Inter-American Commission on Human Rights into El Mozote massacre in 1981. ](/news/2005/03/16/president-of-el-salvador-tony-saca-criticises-new-inquiries-of-the-inter-american-commission-on-human-rights-into-el-mozote-massacre-in-1.md)
-_Context: El Salvador, El Mozote massacre, 1981, Tony Saca, Inter-American Commission on Human Rights_
+_Context: Inter-American Commission on Human Rights, Tony Saca, 1981, El Salvador, El Mozote massacre_
 
 ##### United States Senate
 ### [ The United States Senate accuses seven US banks of complicity of allowing Augusto Pinochet to set up 100 bank accounts to hide money total to US$15 million. ](/news/2005/03/16/the-united-states-senate-accuses-seven-us-banks-of-complicity-of-allowing-augusto-pinochet-to-set-up-100-bank-accounts-to-hide-money-total.md)
@@ -37,7 +37,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### European Union
 ### [ European Union postpones negotiations for Croatia's possible membership. Delegates state that Zagreb has not cooperated with the International Criminal Tribunal for the Former Yugoslavia in trying to arrest suspected war criminal Ante Golovina. ](/news/2005/03/16/european-union-postpones-negotiations-for-croatia-s-possible-membership-delegates-state-that-zagreb-has-not-cooperated-with-the-internatio.md)
-_Context: European Union, International Criminal Tribunal for the Former Yugoslavia, Zagreb, Croatia, Ante Golovina_
+_Context: International Criminal Tribunal for the Former Yugoslavia, European Union, Ante Golovina, Zagreb, Croatia_
 
 ##### Plane crash
 ### [ A plane crash in Russia kills 28, some of them employees of Lukoil oil company. ](/news/2005/03/16/a-plane-crash-in-russia-kills-28-some-of-them-employees-of-lukoil-oil-company.md)
@@ -45,7 +45,7 @@ _Context: Russia, Lukoil, plane crash_
 
 ##### Zambia
 ### [ Zambian government files corruption charges against ex-president Frederick Chiluba in a British High Court. He is accused of defrauding the state of the equivalent of US$35 million. ](/news/2005/03/16/zambian-government-files-corruption-charges-against-ex-president-frederick-chiluba-in-a-british-high-court-he-is-accused-of-defrauding-the.md)
-_Context: Frederick Chiluba, Zambia, anti-corruption_
+_Context: Zambia, Frederick Chiluba, anti-corruption_
 
 ##### United Nations
 ### [ United Nations withdraws its foreign personnel from west of Darfur after threats from pro-government militias. ](/news/2005/03/16/united-nations-withdraws-its-foreign-personnel-from-west-of-darfur-after-threats-from-pro-government-militias.md)

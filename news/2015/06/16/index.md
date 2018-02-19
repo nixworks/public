@@ -9,15 +9,15 @@ Al-Qaeda confirms that a key commander - Nasser al-Wuhayshi, who headed Al-Qaeda
 
 ##### Syrian Civil War
 ### [Kurdish People's Protection Units have captured the border town of Tell Abyad from Islamic State of Iraq and the Levant forces. ](/news/2015/06/16/kurdish-people-s-protection-units-have-captured-the-border-town-of-tell-abyad-from-islamic-state-of-iraq-and-the-levant-forces.md)
-_Context: Kurdish, Syrian Civil War, ISIL, Tell Abyad, YPG_
+_Context: Tell Abyad, Syrian Civil War, Kurdish, YPG, ISIL_
 
 ##### Libyan Crisis (2011-present)
 ### [Three of the ten Tunisian consular staff kidnapped last week have been released and negotiation is ongoing about the others. ](/news/2015/06/16/three-of-the-ten-tunisian-consular-staff-kidnapped-last-week-have-been-released-and-negotiation-is-ongoing-about-the-others.md)
-_Context: Tunisia, kidnapping, Libyan Crisis (2011-present)_
+_Context: Libyan Crisis (2011-present), Tunisia, kidnapping_
 
 ##### BBC
 ### [The British Broadcasting Corporation announces that Chris Evans will be the new presenter of the popular "Top Gear" television series. ](/news/2015/06/16/the-british-broadcasting-corporation-announces-that-chris-evans-will-be-the-new-presenter-of-the-popular-top-gear-television-series.md)
-_Context: BBC, Top Gear, Chris Evans_
+_Context: Top Gear, Chris Evans, BBC_
 
 ##### Airbus
 ### [Airbus announces plans to build 900 satellites on behalf of the OneWeb satellite constellation with the project starting in 2018. ](/news/2015/06/16/airbus-announces-plans-to-build-900-satellites-on-behalf-of-the-oneweb-satellite-constellation-with-the-project-starting-in-2018.md)
@@ -25,7 +25,7 @@ Project partly funded by Richard Branson’s Virgin group aims to create global 
 
 ##### Rupert Murdoch
 ### [Rupert Murdoch confirms stepping down as the CEO of 21st Century Fox to be succeeded by his son James on July 1, 2015. Rupert will continue as its executive chairman with his eldest son, Lachlan, as a future executive co-chairman. ](/news/2015/06/16/rupert-murdoch-confirms-stepping-down-as-the-ceo-of-21st-century-fox-to-be-succeeded-by-his-son-james-on-july-1-2015-rupert-will-continue.md)
-_Context: James, Rupert Murdoch, Lachlan, 21st Century Fox_
+_Context: 21st Century Fox, Lachlan, James, Rupert Murdoch_
 
 ##### 2015 Atlantic hurricane season
 ### [Texas braces for the impact of Tropical Storm Bill bringing heavy rainfall and renewed flooding. ](/news/2015/06/16/texas-braces-for-the-impact-of-tropical-storm-bill-bringing-heavy-rainfall-and-renewed-flooding.md)
@@ -49,7 +49,7 @@ The clock is ticking on trans fat. FDA sets three-year deadline.
 
 ##### Bangladesh
 ### [Bangladesh's Supreme Court upholds the death sentence against senior Islamist leader Ali Ahsan Mohammad Mojaheed in an appeal hearing. ](/news/2015/06/16/bangladesh-s-supreme-court-upholds-the-death-sentence-against-senior-islamist-leader-ali-ahsan-mohammad-mojaheed-in-an-appeal-hearing.md)
-_Context: Islamist, Bangladesh, Ali Ahsan Mohammad Mojaheed, Supreme Court_
+_Context: Ali Ahsan Mohammad Mojaheed, Islamist, Bangladesh, Supreme Court_
 
 ##### Egypt
 ### [An Egyptian court sentences former President Mohamed Morsi to life in prison for conspiring with foreign groups and upholds an earlier preliminary death sentence issued for a prison break. Muslim Brotherhood leader Khairat el-Shater and two others are given death sentences. ](/news/2015/06/16/an-egyptian-court-sentences-former-president-mohamed-morsi-to-life-in-prison-for-conspiring-with-foreign-groups-and-upholds-an-earlier-preli.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2011/01/6/index.html)  [JSON](2011/01/6/index.json)  [XML](2011/
 
 ##### Medecins Sans Frontieres
 ### [Medecins Sans Frontieres accuses the Democratic Republic of the Congo of not doing enough to prevent war rape after 33 women are raped in Fizi, South Kivu, on New Year's Day. ](/news/2011/01/6/ma-c-decins-sans-frontia-res-accuses-the-democratic-republic-of-the-congo-of-not-doing-enough-to-prevent-war-rape-after-33-women-are-raped-in.md)
-_Context: South Kivu, Medecins Sans Frontieres, DR Congo, rape as a weapon of war, Fizi_
+_Context: rape as a weapon of war, South Kivu, Medecins Sans Frontieres, Fizi, DR Congo_
 
 ##### Duekoue
 ### [At least 14 people in Duekoue, Ivory Coast are killed in clashes between opposing sides in the Presidential election crisis. ](/news/2011/01/6/at-least-14-people-in-dua-c-koua-c-ivory-coast-are-killed-in-clashes-between-opposing-sides-in-the-presidential-election-crisis.md)
@@ -13,11 +13,11 @@ At least 14 people have been killed in ethnic clashes in the western Ivory Coast
 
 ##### Egypt
 ### [Egyptian police increases security around Coptic churches on the eve of Coptic Christmas, following a bombing in Alexandria on New Year's Day that killed 23 people and sparked protests and riots across the country. ](/news/2011/01/6/egyptian-police-increases-security-around-coptic-churches-on-the-eve-of-coptic-christmas-following-a-bombing-in-alexandria-on-new-year-s-da.md)
-_Context: New Year's Day church bombing, Coptic Christmas, Egypt, New Year's Day, Copt, Alexandria_
+_Context: Alexandria, Coptic Christmas, New Year's Day, Copt, New Year's Day church bombing, Egypt_
 
 ##### Conflict
 ### [An abducted Hungarian civilian, who worked for the UN-African Union peacekeeping mission in Sudan's Darfur region, is released. ](/news/2011/01/6/an-abducted-hungarian-civilian-who-worked-for-the-un-african-union-peacekeeping-mission-in-sudan-s-darfur-region-is-released.md)
-_Context: UNAMID, Sudan, Darfur, Hungary, conflict_
+_Context: Hungary, conflict, Darfur, Sudan, UNAMID_
 
 ##### Israel
 ### [Israeli troops kill two Palestinians as they attempted to cross a border fence from the Gaza Strip. ](/news/2011/01/6/israeli-troops-kill-two-palestinians-as-they-attempted-to-cross-a-border-fence-from-the-gaza-strip.md)
@@ -33,7 +33,7 @@ A U.S. Army corporal was sentenced to 90 days of hard labor and a bad conduct di
 
 ##### France
 ### [A French market regulator approves a takeover defense adopted by the Hermes family, who own the manufacturer of Birkin and Kelly handbags. This improves the odds that Hermes will preserve its independence in the face of a bid by LVMH. ](/news/2011/01/6/a-french-market-regulator-approves-a-takeover-defense-adopted-by-the-herma-s-family-who-own-the-manufacturer-of-birkin-and-kelly-handbags.md)
-_Context: France, LVMH, Hermes_
+_Context: LVMH, Hermes, France_
 
 ##### Uttarakhand
 ### [22 people are killed after a bus falls into a gorge in Uttarakhand, northern India. ](/news/2011/01/6/22-people-are-killed-after-a-bus-falls-into-a-gorge-in-uttarakhand-northern-india.md)
@@ -45,7 +45,7 @@ _Context: Vietnam, United States_
 
 ##### South Korea
 ### [South Korea dismisses an offer of unconditional talks by North Korea, saying the offer was part of a propaganda campaign. ](/news/2011/01/6/south-korea-dismisses-an-offer-of-unconditional-talks-by-north-korea-saying-the-offer-was-part-of-a-propaganda-campaign.md)
-_Context: South Korea, propaganda, North Korea_
+_Context: propaganda, South Korea, North Korea_
 
 ##### U.S.
 ### [A U.S. plan to force gun dealers in states which border Mexico to report cases where individuals bought multiple high-powered rifles in under 5 days, is stalled due to opposition from gun lobbies. Approximately 90% of crime guns seized in Mexico originate in the U.S., and over 30,000 people have died in Mexico due to drug cartel violence since 2006. ](/news/2011/01/6/a-u-s-plan-to-force-gun-dealers-in-states-which-border-mexico-to-report-cases-where-individuals-bought-multiple-high-powered-rifles-in-unde.md)
@@ -57,7 +57,7 @@ A Rwandan Hutu leader arrested in France must be transferred to the Internationa
 
 ##### Human rights
 ### [Indonesia's National Human Rights Commission submits a report to President Susilo Bambang Yudhoyono on its investigations into reports of torture of Papuans by soldiers, and urges him to take action against human rights violations by security forces in the eastern Papua region. ](/news/2011/01/6/indonesia-s-national-human-rights-commission-submits-a-report-to-president-susilo-bambang-yudhoyono-on-its-investigations-into-reports-of-to.md)
-_Context: human rights, military, Papuan people, Papua, Susilo Bambang Yudhoyono, President of Indonesia_
+_Context: Susilo Bambang Yudhoyono, human rights, President of Indonesia, Papuan people, Papua, military_
 
 ##### Moroccan authorities
 ### [Moroccan authorities arrest 27 people in an Al Qaeda-linked cell in Western Sahara for planning car bombings and suicide attacks on security forces, and bank robberies to finance their activities.](/news/2011/01/6/moroccan-authorities-arrest-27-people-in-an-al-qaeda-linked-cell-in-western-sahara-for-planning-car-bombings-and-suicide-attacks-on-security.md)
@@ -65,7 +65,7 @@ Authorities arrested 27 people accused of operating a terror cell in the Western
 
 ##### China
 ### [Chinese authorities implement new controls on the content of text messages sent to mobile phones according to service providers, including references to democracy, human rights, and corruption.](/news/2011/01/6/chinese-authorities-implement-new-controls-on-the-content-of-text-messages-sent-to-mobile-phones-according-to-service-providers-including-r.md)
-_Context: corruption, censorship, democratic, Chinese human rights, mobile phone, text messages, China_
+_Context: China, censorship, Chinese human rights, democratic, corruption, text messages, mobile phone_
 
 ##### Aaron Swartz
 ### [Aaron Swartz is arrested by MIT police on state breaking-and-entering charges, after systematically downloading academic journal articles from JSTOR. ](/news/2011/01/6/aaron-swartz-is-arrested-by-mit-police-on-state-breaking-and-entering-charges-after-systematically-downloading-academic-journal-articles-fr.md)
@@ -73,7 +73,7 @@ Arrest report filed by Cambridge Police Dept, Cambridge, Mass. on January 13, 20
 
 ##### Geostationary satellites
 ### [Observers prepare to use geostationary satellites to prevent harassment in the run-up to the referendum on independence for South Sudan, by monitoring for voter intimidation, damage to property and other violence. ](/news/2011/01/6/observers-prepare-to-use-geostationary-satellites-to-prevent-harassment-in-the-run-up-to-the-referendum-on-independence-for-south-sudan-by.md)
-_Context: Southern Sudanese Independence Referendum, geostationary satellites, observers_
+_Context: observers, Southern Sudanese Independence Referendum, geostationary satellites_
 
 ##### Prime Minister
 ### [Prime Minister of Pakistan Yousaf Raza Gillani cancels recent fuel price increases in an apparent concession to the opposition in an attempt to save his government from collapse after losing its majority in parliament. ](/news/2011/01/6/prime-minister-of-pakistan-yousaf-raza-gillani-cancels-recent-fuel-price-increases-in-an-apparent-concession-to-the-opposition-in-an-attempt.md)

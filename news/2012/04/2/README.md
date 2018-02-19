@@ -21,7 +21,7 @@ British PM fires salvo on 30th anniversary of Falklands War amid reports that Ar
 
 ##### Osama bin Laden
 ### [The three widows and two daughters of Osama bin Laden are convicted of illegally living in Pakistan and sentenced to 45 days in jail and fined $114 each. ](/news/2012/04/2/the-three-widows-and-two-daughters-of-osama-bin-laden-are-convicted-of-illegally-living-in-pakistan-and-sentenced-to-45-days-in-jail-and-fin.md)
-_Context: Osama bin Laden, $, Pakistan_
+_Context: Pakistan, Osama bin Laden, $_
 
 ##### Oikos University shooting
 ### [A mass shooting at Oikos University at Oakland, California leaves 7 people dead and three injured, according to a police spokesperson. ](/news/2012/04/2/a-mass-shooting-at-oikos-university-at-oakland-california-leaves-7-people-dead-and-three-injured-according-to-a-police-spokesperson.md)
@@ -29,7 +29,7 @@ A 43-year-old former student is arrested after seven people are shot dead at a p
 
 ##### Burma
 ### [Burma's National League for Democracy claims to have won 43 of 45 seats contested yesterday in by-elections. ](/news/2012/04/2/burma-s-national-league-for-democracy-claims-to-have-won-43-of-45-seats-contested-yesterday-in-by-elections.md)
-_Context: Burma, National League for Democracy, by-elections earlier this month_
+_Context: by-elections earlier this month, National League for Democracy, Burma_
 
 ##### Pl Schmitt
 ### [Pl Schmitt resigns as President of Hungary after his doctorate is revoked in a plagiarism scandal. ](/news/2012/04/2/pal-schmitt-resigns-as-president-of-hungary-after-his-doctorate-is-revoked-in-a-plagiarism-scandal.md)

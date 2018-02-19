@@ -13,7 +13,7 @@ The Syrian opposition reverses its decision to boycott international talks in Ro
 
 ##### BT
 ### [Telecommunications giant BT expands its investment in sports broadcasting with the purchase of ESPN's channels in Britain and Ireland. ](/news/2013/02/25/telecommunications-giant-bt-expands-its-investment-in-sports-broadcasting-with-the-purchase-of-espn-s-channels-in-britain-and-ireland.md)
-_Context: Irish, ESPN, United Kingdom, BT, sports broadcasting_
+_Context: BT, United Kingdom, sports broadcasting, ESPN, Irish_
 
 ##### BlackBerry
 ### [BlackBerry, the company formally known as Research in Motion, launches its BlackBerry Z10 smartphone in India, where it costs 43,490 rupees, or roughly US$800. ](/news/2013/02/25/blackberry-the-company-formally-known-as-research-in-motion-launches-its-blackberry-z10-smartphone-in-india-where-it-costs-43-490-rupees.md)
@@ -29,7 +29,7 @@ A man is dead after his car was swept into floodwaters northwest of Caboolture o
 
 ##### Magnitude
 ### [A 6.2 magnitude earthquake strikes Tokyo, Japan, with no injuries reported. ](/news/2013/02/25/a-6-2-magnitude-earthquake-strikes-tokyo-japan-with-no-injuries-reported.md)
-_Context: Tokyo, hits, earthquake, Japan, magnitude_
+_Context: earthquake, magnitude, Tokyo, hits, Japan_
 
 ##### 2013 meat adulteration scandal
 ### [2013 meat adulteration scandal: Ikea withdraws Swedish meatballs from sale in 14 countries after tests in the Czech Republic revealed traces of horse meat. ](/news/2013/02/25/2013-meat-adulteration-scandal-ikea-withdraws-swedish-meatballs-from-sale-in-14-countries-after-tests-in-the-czech-republic-revealed-traces.md)
@@ -45,15 +45,15 @@ C. Everett Koop, the U.S. surgeon general who set aside his religious beliefs to
 
 ##### NATO
 ### [NATO says it has found no evidence to back the Afghan claim of misconduct by United States forces. ](/news/2013/02/25/nato-says-it-has-found-no-evidence-to-back-the-afghan-claim-of-misconduct-by-united-states-forces.md)
-_Context: Afghan, United States, NATO_
+_Context: United States, NATO, Afghan_
 
 ##### Russia
 ### [Russia enacts a law banning smoking on subways and in schools. ](/news/2013/02/25/russia-enacts-a-law-banning-smoking-on-subways-and-in-schools.md)
-_Context: enacts, school, banning, subways, smoking, Russia_
+_Context: school, smoking, banning, enacts, Russia, subways_
 
 ##### Jailed
 ### [The retrial of Vicky Pryce, the ex-wife of former UK Cabinet Minister Chris Huhne, begins hearing evidence. ](/news/2013/02/25/the-retrial-of-vicky-pryce-the-ex-wife-of-former-uk-cabinet-minister-chris-huhne-begins-hearing-evidence.md)
-_Context: UK, government, Chris Huhne, jailed, Vicky Pryce_
+_Context: jailed, government, Vicky Pryce, UK, Chris Huhne_
 
 ##### Italy Common Good
 ### [The centre-left alliance Italy Common Good led by the Democratic Party wins the Italian general election. However the number of seats will not guarantee the majority in the Senate, paving the way to instability. ](/news/2013/02/25/the-centre-left-alliance-italy-common-good-led-by-the-democratic-party-wins-the-italian-general-election-however-the-number-of-seats-will-n.md)
@@ -61,7 +61,7 @@ A huge protest vote by Italians enraged by economic hardship and political corru
 
 ##### Park Geun-hye
 ### [Park Geun-hye is sworn in as the first female President of South Korea in the capital Seoul. ](/news/2013/02/25/park-geun-hye-is-sworn-in-as-the-first-female-president-of-south-korea-in-the-capital-seoul.md)
-_Context: South Korean President, Seoul, Park Geun-hye, South Korea_
+_Context: Park Geun-hye, South Korea, South Korean President, Seoul_
 
 ##### President
 ### [President of Cuba Ral Castro announces he will not seek another term as president when his current one expires in 2018. He also states he will seek to put term limits and age caps for political offices in Cuba, including the presidency. ](/news/2013/02/25/president-of-cuba-raul-castro-announces-he-will-not-seek-another-term-as-president-when-his-current-one-expires-in-2018-he-also-states-he-w.md)
@@ -69,7 +69,7 @@ Mr. Castro, whose term will end in 2018, said he hoped to establish term limits 
 
 ##### Cardinal
 ### [Cardinal Keith O'Brien resigns as the Archbishop of St. Andrews and Edinburgh due to allegations of inappropriate sexual behaviour towards priests in the 1980s. ](/news/2013/02/25/cardinal-keith-o-brien-resigns-as-the-archbishop-of-st-andrews-and-edinburgh-due-to-allegations-of-inappropriate-sexual-behaviour-towards-p.md)
-_Context: Archbishop of St. Andrews and Edinburgh, Keith O'Brien, priests, free sex, Cardinal, inappropriate_
+_Context: Cardinal, inappropriate, Archbishop of St. Andrews and Edinburgh, free sex, Keith O'Brien, priests_
 
 ##### Rodinia
 ### [Scientists announce they have found fragments of Rodinia, an ancient "lost" continent, in what is now the Indian Ocean. ](/news/2013/02/25/scientists-announce-they-have-found-fragments-of-rodinia-an-ancient-lost-continent-in-what-is-now-the-indian-ocean.md)
@@ -77,7 +77,7 @@ Fragments of an ancient continent are buried beneath the floor of the Indian Oce
 
 ##### Indian Space Research Organisation
 ### [Indian Space Research Organisation successfully launches Indo-French satellite SARAL using PSLV rocket from the spaceport in Sriharikota, Andhra Pradesh, India. ](/news/2013/02/25/indian-space-research-organisation-successfully-launches-indo-french-satellite-saral-using-pslv-rocket-from-the-spaceport-in-sriharikota-an.md)
-_Context: SARAL, launches, India, Sriharikota, PSLV-C38, Andhra Pradesh, Satish Dhawan Space Centre, Indian Space Research Organisation, France_
+_Context: Andhra Pradesh, launches, France, Indian Space Research Organisation, SARAL, India, PSLV-C38, Sriharikota, Satish Dhawan Space Centre_
 
 ##### United Kingdom
 ### [British explorer Ranulph Fiennes abandons The Coldest Journey expedition, his attempt to cross Antarctica in the heart of the region's winter due to a case of frostbite. ](/news/2013/02/25/british-explorer-ranulph-fiennes-abandons-the-coldest-journey-expedition-his-attempt-to-cross-antarctica-in-the-heart-of-the-region-s-winte.md)

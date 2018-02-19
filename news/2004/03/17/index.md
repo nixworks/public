@@ -9,11 +9,11 @@ _Context: Lee Yuan-tseh, 2004 presidential election, Chen Shui-bian_
 
 ##### Unrest in Kosovo
 ### [ Unrest in Kosovo: After two Albanian children are found drowned in the Ibar river in Kosovo, with a third still missing, riots erupt in the town of Kosovska Mitrovica and later spread to the entire province. Mitrovica Serbs are blamed by Albanian media for forcing the children into the river, but this is later denied by United Nations officials. At least 22 people are killed by the end of the day with hundreds injured in clashes between Serbs and Albanians; enclaves of Kosovo Serbs elsewhere in the province experience attacks by Kosovo Albanians as well as offices of UN officials which were abandoned. In reaction to the violence in Kosovo, demonstrators in Serbia march in Belgrade and set ablaze mosques in Belgrade and Nish. ](/news/2004/03/17/unrest-in-kosovo-after-two-albanian-children-are-found-drowned-in-the-ibar-river-in-kosovo-with-a-third-still-missing-riots-erupt-in-the.md)
-_Context: Serbian, Kosovo, Albanians, Kosovska Mitrovica, Nis, Ibar river, Serbia, mosque, Belgrade, Kosovo Serb enclaves, Unrest in Kosovo, UNMIK_
+_Context: Serbian, UNMIK, Kosovo, Kosovo Serb enclaves, Ibar river, Belgrade, Nis, Kosovska Mitrovica, Unrest in Kosovo, Albanians, mosque, Serbia_
 
 ##### 2003 invasion of Iraq
 ### [ Occupation of Iraq: A car bomb flattens the Mount Lebanon Hotel in central Baghdad at 20:10 (UTC+3), killing at least 17 people and injuring 45 more. ](/news/2004/03/17/occupation-of-iraq-a-car-bomb-flattens-the-mount-lebanon-hotel-in-central-baghdad-at-20-10-utc-3-killing-at-least-17-people-and-injurin.md)
-_Context: Baghdad, UTC, 2003 invasion of Iraq, car bomb_
+_Context: UTC, Baghdad, 2003 invasion of Iraq, car bomb_
 
 ##### Utah
 ### [ Utah bans execution by firing squad. ](/news/2004/03/17/utah-bans-execution-by-firing-squad.md)

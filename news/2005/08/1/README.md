@@ -13,11 +13,11 @@ The Age 404 Page
 
 ##### Nuclear-powered
 ### [ One person has been killed and another injured in an explosion on a Russian nuclear-powered submarine in dock for decommissioning. ](/news/2005/08/1/one-person-has-been-killed-and-another-injured-in-an-explosion-on-a-russian-nuclear-powered-submarine-in-dock-for-decommissioning.md)
-_Context: submarine, decommissioning, nuclear-powered_
+_Context: decommissioning, submarine, nuclear-powered_
 
 ##### Try
 ### [ Leaked communications between two U.S. military prosecutors reveal internal doubts about the military commission system established to try Guantanamo Bay detainees. In separate emails, the prosecutors allege that the commission system is rigged in favour of the prosecution and that the cases being pursued are "marginal". In Australia, the Australian Government came under renewed pressure to withdraw its support for the commissions, under which Australian citizen David Hicks would be tried. (Wikinews) ](/news/2005/08/1/leaked-communications-between-two-u-s-military-prosecutors-reveal-internal-doubts-about-the-military-commission-system-established-to-try.md)
-_Context: prosecutors, David Hicks, (Wikinews), try, Guantnamo Bay, Government of Australia_
+_Context: try, David Hicks, prosecutors, Government of Australia, (Wikinews), Guantnamo Bay_
 
 ##### King Fahd
 ### [ King Fahd of Saudi Arabia has died in a hospital at the age of 83. It was believed that he was in poor health and entered the hospital on May 27 with acute pneumonia. Crown Prince Abdullah, who had been effective regent for years, accedes to the throne. Defence Minister Prince Sultan will be the new Crown Prince. (Wikinews) ](/news/2005/08/1/king-fahd-of-saudi-arabia-has-died-in-a-hospital-at-the-age-of-83-it-was-believed-that-he-was-in-poor-health-and-entered-the-hospital-on-m.md)
@@ -25,11 +25,11 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### European Union
 ### [ New European Union directive banning tobacco advertising comes into effect ](/news/2005/08/1/new-european-union-directive-banning-tobacco-advertising-comes-into-effect.md)
-_Context: tobacco advertising, European Union_
+_Context: European Union, tobacco advertising_
 
 ##### Egypt
 ### [ In Egypt, opposition party al-Wafd (Delegation Party) announces that it will endorse its leader Numan Gumaa as a candidate in presidential election next September ](/news/2005/08/1/in-egypt-opposition-party-al-wafd-delegation-party-announces-that-it-will-endorse-its-leader-numan-gumaa-as-a-candidate-in-presidential.md)
-_Context: Egypt, al-Wafd, Delegation Party, Numan Gumaa_
+_Context: al-Wafd, Numan Gumaa, Delegation Party, Egypt_
 
 ##### United Self-Defence Forces of Colombia
 ### [ In Colombia, paramilitary group United Self-Defence Forces of Colombia begins disarming ](/news/2005/08/1/in-colombia-paramilitary-group-united-self-defence-forces-of-colombia-begins-disarming.md)
@@ -41,7 +41,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### HCL infosystems
 ### [ In India, HCL infosystems and Dayanidhi Maran, communications minister, unveil cheap "PC for India" with Linux OS, costing 9990 rupees (equivalent to US$225) ](/news/2005/08/1/in-india-hcl-infosystems-and-dayanidhi-maran-communications-minister-unveil-cheap-pc-for-india-with-linux-os-costing-9990-rupees-equ.md)
-_Context: HCL infosystems, US dollar, PC, Dayanidhi Maran, operating system, Rs., Linux_
+_Context: operating system, Rs., Dayanidhi Maran, PC, Linux, US dollar, HCL infosystems_
 
 ## [Previous Day...](/news/2005/07/31/index.md)
 

@@ -9,11 +9,11 @@ Police in the Thai capital, Bangkok, use tear gas against thousands of protester
 
 ##### Czech Republic
 ### [23-year-old Czech beauty queen Tereza Fajksov wins Miss Earth 2012, the 12th edition of the Miss Earth pageant, in Alabang, Muntinlupa City, Philippines. ](/news/2012/11/24/23-year-old-czech-beauty-queen-tereza-fajksova-wins-miss-earth-2012-the-12th-edition-of-the-miss-earth-pageant-in-alabang-muntinlupa-city.md)
-_Context: Alabang, Czech Republic, Tereza Fajksov, Miss Earth 2012, Muntinlupa City, Miss Earth, Philippines_
+_Context: Czech Republic, Muntinlupa City, Tereza Fajksov, Philippines, Miss Earth, Alabang, Miss Earth 2012_
 
 ##### South Korea
 ### [The music video for South Korean pop singer Psy's "Gangnam Style" surpasses 808 million views, making it the most viewed video in the history of YouTube. ](/news/2012/11/24/the-music-video-for-south-korean-pop-singer-psy-s-gangnam-style-surpasses-808-million-views-making-it-the-most-viewed-video-in-the-histor.md)
-_Context: South Korea, Gangnam Style, YouTube, Psy_
+_Context: Gangnam Style, YouTube, South Korea, Psy_
 
 ##### Austerity
 ### [Around 10,000 people demonstrate against austerity in Dublin amid calls for a general strike to shut the country down. ](/news/2012/11/24/around-10-000-people-demonstrate-against-austerity-in-dublin-amid-calls-for-a-general-strike-to-shut-the-country-down.md)

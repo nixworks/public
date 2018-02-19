@@ -13,7 +13,7 @@ The archaeologist who looked after ancient ruins of Palmyra in Syria for 40 year
 
 ##### Iraq War (2014-present)
 ### [A suicide bomber kills at least 20 Iraqi Army troops in the city of Baiji. ](/news/2015/08/19/a-suicide-bomber-kills-at-least-20-iraqi-army-troops-in-the-city-of-baiji.md)
-_Context: Iraq War (2014-present), suicide bomber, Baiji, Iraqi Army_
+_Context: Iraq War (2014-present), Iraqi Army, suicide bomber, Baiji_
 
 ##### South Sudanese Civil War
 ### [Fighting resumes in South Sudan after the failure to reach a deal between tribes loyal to the president and tribes loyal to the former vice-president. ](/news/2015/08/19/fighting-resumes-in-south-sudan-after-the-failure-to-reach-a-deal-between-tribes-loyal-to-the-president-and-tribes-loyal-to-the-former-vice.md)
@@ -49,7 +49,7 @@ Customer data stolen from Ashley Madison, a dating website for married people wh
 
 ##### St. Louis
 ### [Police in the U.S. city of St. Louis, Missouri make nine arrests and use tear gas to disperse protesters after a killing of an armed man allegedly aiming a gun at police officers earlier in the day. ](/news/2015/08/19/police-in-the-u-s-city-of-st-louis-missouri-make-nine-arrests-and-use-tear-gas-to-disperse-protesters-after-a-killing-of-an-armed-man-all.md)
-_Context: tear gas, St. Louis_
+_Context: St. Louis, tear gas_
 
 ##### Boys & Girls Club
 ### [A drive by shooting outside of a Boys & Girls Club in Rochester, New York leaves three people killed and four injured. ](/news/2015/08/19/a-drive-by-shooting-outside-of-a-boys-girls-club-in-rochester-new-york-leaves-three-people-killed-and-four-injured.md)

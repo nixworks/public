@@ -17,7 +17,7 @@ _Context: 2013 Los Angeles International Airport shooting_
 
 ##### Tunisia
 ### [Tunisian government and opposition leaders are deadlocked during talks over the determination of a new PM tasked with steering the country out of a months-long political crisis. ](/news/2013/11/2/tunisian-government-and-opposition-leaders-are-deadlocked-during-talks-over-the-determination-of-a-new-pm-tasked-with-steering-the-country-o.md)
-_Context: Tunisia, government_
+_Context: government, Tunisia_
 
 #####  Georgian
 ### [Georgian Prime Minister Bidzina Ivanishvili, due to leave office this month, names Interior Minister Irakli Garibashvili as his successor. ](/news/2013/11/2/georgian-prime-minister-bidzina-ivanishvili-due-to-leave-office-this-month-names-interior-minister-irakli-garibashvili-as-his-successor.md)

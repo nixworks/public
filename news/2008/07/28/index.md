@@ -5,7 +5,7 @@ Formats: [HTML](2008/07/28/index.html)  [JSON](2008/07/28/index.json)  [XML](200
 
 ##### United States
 ### [ A United States Predator drone launches a missile strike on a Pakistani madrassa killing six people reportedly including al-Qaeda member Abu Khabab al-Masri.](/news/2008/07/28/a-united-states-predator-drone-launches-a-missile-strike-on-a-pakistani-madrassa-killing-six-people-reportedly-including-al-qaeda-member-ab.md)
-_Context: Pakistan, United States, al-Qaeda, Predator drone, madrassa, Abu Khabab al-Masri_
+_Context: al-Qaeda, madrassa, United States, Pakistan, Predator drone, Abu Khabab al-Masri_
 
 ##### King of Tonga
 ### [ King George Tupou V of Tonga relinquishes many of his powers, ending centuries of absolute monarchy. ](/news/2008/07/28/king-george-tupou-v-of-tonga-relinquishes-many-of-his-powers-ending-centuries-of-absolute-monarchy.md)
@@ -25,19 +25,19 @@ _Context: a crackdown, Kenya, Human Rights Watch_
 
 ##### Grand Pier
 ### [ A fire destroys the Grand Pier at Weston-super-Mare, Somerset, England. ](/news/2008/07/28/a-fire-destroys-the-grand-pier-at-weston-super-mare-somerset-england.md)
-_Context: England, Weston-super-Mare, Grand Pier, Somerset_
+_Context: England, Grand Pier, Weston-super-Mare, Somerset_
 
 ##### Qantas Flight 30
 ### [ The hole in Qantas Flight 30, a Boeing 747 that made an emergency landing on July 25, is believed to have been caused by the explosion of an oxygen tank. Terrorism is not suspected. ](/news/2008/07/28/the-hole-in-qantas-flight-30-a-boeing-747-that-made-an-emergency-landing-on-july-25-is-believed-to-have-been-caused-by-the-explosion-of-a.md)
-_Context: oxygen, July 25, Qantas Flight 30, Boeing 747_
+_Context: July 25, Boeing 747, oxygen, Qantas Flight 30_
 
 ##### Boeing 737
 ### [ Qantas Flight 692, a Boeing 737-800, is forced to turn back to Adelaide after an undercarriage door fails to close after takeoff. No one is injured. ](/news/2008/07/28/qantas-flight-692-a-boeing-737-800-is-forced-to-turn-back-to-adelaide-after-an-undercarriage-door-fails-to-close-after-takeoff-no-one-is.md)
-_Context: undercarriage, Adelaide, Boeing 737_
+_Context: Boeing 737, undercarriage, Adelaide_
 
 ##### Navanethem Pillay
 ### [ Navanethem Pillay is appointed to succeed Louise Arbour as the United Nations High Commissioner for Human Rights. ](/news/2008/07/28/navanethem-pillay-is-appointed-to-succeed-louise-arbour-as-the-united-nations-high-commissioner-for-human-rights.md)
-_Context: Navanethem Pillay, United Nations, Louise Arbour, High Commissioner for Human Rights_
+_Context: High Commissioner for Human Rights, Louise Arbour, United Nations, Navanethem Pillay_
 
 ## [Previous Day...](/news/2008/07/27/index.md)
 

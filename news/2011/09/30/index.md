@@ -21,7 +21,7 @@ _Context: Insite, Supreme Court of Canada_
 
 ##### Thein Sein
 ### [Burma's President Thein Sein halts controversial Myitsone Dam project after a rare public outcry. ](/news/2011/09/30/burma-s-president-thein-sein-halts-controversial-myitsone-dam-project-after-a-rare-public-outcry.md)
-_Context: Thein Sein, Myitsone Dam_
+_Context: Myitsone Dam, Thein Sein_
 
 ## [Previous Day...](/news/2011/09/29/index.md)
 

@@ -29,7 +29,7 @@ Pope Francis has approved the outline of a new system of accountability for Cath
 
 ##### Supreme Court
 ### [The Supreme Federal Court of Brazil strikes down a law allowing the subjects of biographies to quash works they disapprove of. ](/news/2015/06/10/the-supreme-federal-court-of-brazil-strikes-down-a-law-allowing-the-subjects-of-biographies-to-quash-works-they-disapprove-of.md)
-_Context: Brazil, Supreme Court, biographies_
+_Context: Brazil, biographies, Supreme Court_
 
 ## [Previous Day...](/news/2015/06/9/index.md)
 

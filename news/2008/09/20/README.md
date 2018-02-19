@@ -13,7 +13,7 @@ _Context: Southern Sudan, Lord's Resistance Army, DR Congo_
 
 ##### Galveston Island
 ### [ Residents of Galveston Island, Texas are advised that they can return home next Wednesday but there will be little or no services after Hurricane Ike destroyed much of the town. ](/news/2008/09/20/residents-of-galveston-island-texas-are-advised-that-they-can-return-home-next-wednesday-but-there-will-be-little-or-no-services-after-hur.md)
-_Context: Galveston Island, Texas, Hurricane Ike_
+_Context: Hurricane Ike, Galveston Island, Texas_
 
 ##### George W. Bush administration
 ### [ The Bush administration asks the United States Congress for $700 billion to buy mortgage-related assets to try to resolve the subprime mortgage crisis. ](/news/2008/09/20/the-bush-administration-asks-the-united-states-congress-for-700-billion-to-buy-mortgage-related-assets-to-try-to-resolve-the-subprime-mort.md)
@@ -21,7 +21,7 @@ _Context: subprime mortgage crisis, Congress, George W. Bush administration_
 
 ##### Suicide bomber
 ### [ A suicide bomber attacks a Pakistan Army convoy, killing eight soldiers. ](/news/2008/09/20/a-suicide-bomber-attacks-a-pakistan-army-convoy-killing-eight-soldiers.md)
-_Context: suicide bomber, Pakistan Army_
+_Context: Pakistan Army, suicide bomber_
 
 ##### South African
 ### [ South African President Thabo Mbeki agrees to resign after the ruling African National Congress requested him to step down.](/news/2008/09/20/south-african-president-thabo-mbeki-agrees-to-resign-after-the-ruling-african-national-congress-requested-him-to-step-down.md)

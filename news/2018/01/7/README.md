@@ -5,7 +5,7 @@ Formats: [HTML](2018/01/7/index.html)  [JSON](2018/01/7/index.json)  [XML](2018/
 
 ##### Syrian Civil War
 ### [An explosion at the headquarters of the Chechen-led Ajnad al-Kavkaz rebel group in Idlib, Syria, kills at least 23 people, while several people remain unaccounted for, according to the Syrian Observatory for Human Rights. ](/news/2018/01/7/an-explosion-at-the-headquarters-of-the-chechen-led-ajnad-al-kavkaz-rebel-group-in-idlib-syria-kills-at-least-23-people-while-several-peo.md)
-_Context: Syria, Ajnad al-Kavkaz, Syrian Civil War, Syrian Observatory for Human Rights, Chechen, Idlib_
+_Context: Ajnad al-Kavkaz, Syrian Civil War, Syria, Syrian Observatory for Human Rights, Chechen, Idlib_
 
 ##### Education in Iran
 ### [Iran enforces a ban on teaching English in elementary schools. ](/news/2018/01/7/iran-enforces-a-ban-on-teaching-english-in-elementary-schools.md)
@@ -25,7 +25,7 @@ Violent clashes involving gunmen, a community police force and state police kill
 
 ##### Politics of Egypt
 ### [The former Prime Minister of Egypt, 76-year-old Ahmed Shafik, retracts his candidacy for the upcoming presidential elections. ](/news/2018/01/7/the-former-prime-minister-of-egypt-76-year-old-ahmed-shafik-retracts-his-candidacy-for-the-upcoming-presidential-elections.md)
-_Context: Politics of Egypt, Prime Minister of Egypt, Ahmed Shafik, 2018 presidential election_
+_Context: Politics of Egypt, 2018 presidential election, Ahmed Shafik, Prime Minister of Egypt_
 
 ##### Politics of Malaysia
 ### [The Pakatan Harapan alliance chooses 92-year-old former prime minister Mahathir Mohamad as their candidate Prime Minister in the upcoming Malaysian general election. Opposition leader Anwar Ibrahim will be released from jail on June 8. Mahathir and Anwar join forces in the election. ](/news/2018/01/7/the-pakatan-harapan-alliance-chooses-92-year-old-former-prime-minister-mahathir-mohamad-as-their-candidate-prime-minister-in-the-upcoming-ma.md)
@@ -33,11 +33,11 @@ Malaysia&#039;s 92-year-old former prime minster Mahathir Mohamad will lead oppo
 
 ##### Politics of Yemen
 ### [Sadeq Ameen Abu Rass, not Saleh's son Ahmed, is named as the successor to late Ali Abdullah Saleh as leader of the General People's Congress party. ](/news/2018/01/7/sadeq-ameen-abu-rass-not-saleh-s-son-ahmed-is-named-as-the-successor-to-late-ali-abdullah-saleh-as-leader-of-the-general-peopleas-congre.md)
-_Context: Sadeq Ameen Abu Rass, Politics of Yemen, General People's Congress, Ahmed, Ali Abdullah Saleh_
+_Context: Ali Abdullah Saleh, Sadeq Ameen Abu Rass, Ahmed, Politics of Yemen, General People's Congress_
 
 ##### Weinstein effect
 ### [Trond Giske announces his permanent resignation as deputy leader of Norway's Labour Party after several sexual assault accusations. He also gives up his position in the Norwegian parliament's finance committee. ](/news/2018/01/7/trond-giske-announces-his-permanent-resignation-as-deputy-leader-of-norway-s-labour-party-after-several-sexual-assault-accusations-he-also.md)
-_Context: Norway, Weinstein effect, Norwegian parliament, Trond Giske, finance committee, Labour Party_
+_Context: Labour Party, finance committee, Weinstein effect, Norwegian parliament, Norway, Trond Giske_
 
 ## [Previous Day...](/news/2018/01/6/index.md)
 

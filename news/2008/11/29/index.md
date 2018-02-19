@@ -13,7 +13,7 @@ _Context: Christians and Muslims clashed, Nigeria, Jos_
 
 ##### Assemble
 ### [ 2008 Thai political crisis: People's Alliance for Democracy protestors force the Royal Thai Police to abandon a checkpoint outside Suvarnabhumi Airport. ](/news/2008/11/29/2008-thai-political-crisis-people-s-alliance-for-democracy-protestors-force-the-royal-thai-police-to-abandon-a-checkpoint-outside-suvarnab.md)
-_Context: assemble, Thai police, yellow shirt, Suvarnabhumi Airport_
+_Context: Suvarnabhumi Airport, Thai police, yellow shirt, assemble_
 
 ##### 2008 Santa Catarina floods
 ### [ 2008 Santa Catarina floods: The number of confirmed deaths rise to 105 people. ](/news/2008/11/29/2008-santa-catarina-floods-the-number-of-confirmed-deaths-rise-to-105-people.md)

@@ -5,11 +5,11 @@ Formats: [HTML](2016/05/28/index.html)  [JSON](2016/05/28/index.json)  [XML](201
 
 ##### Spillover of the Syrian Civil War
 ### [Turkey claims that its artillery fire together with U.S. air strikes killed more than 104 ISIL militants after rockets fired from northern Syria killed several people in the Turkish town of Kilis. ](/news/2016/05/28/turkey-claims-that-its-artillery-fire-together-with-u-s-air-strikes-killed-more-than-104-isil-militants-after-rockets-fired-from-northern-s.md)
-_Context: Spillover of the Syrian Civil War, Kilis, Islamic State in Iraq and the Levant, Turkey, Syria_
+_Context: Islamic State in Iraq and the Levant, Syria, Turkey, Spillover of the Syrian Civil War, Kilis_
 
 ##### Conflict in the Niger Delta
 ### [The Niger Delta Avengers militant group destroy gas and oil pipelines belonging to Shell and Agip in Nigeria. ](/news/2016/05/28/the-niger-delta-avengers-militant-group-destroy-gas-and-oil-pipelines-belonging-to-shell-and-agip-in-nigeria.md)
-_Context: Royal Dutch Shell, Agip, Niger Delta Avengers, Nigeria, Conflict in the Niger Delta_
+_Context: Nigeria, Agip, Conflict in the Niger Delta, Royal Dutch Shell, Niger Delta Avengers_
 
 ##### Lightning strikes
 ### [ Lightning strikes across Europe kill one person and injure at least 14 more. ](/news/2016/05/28/lightning-strikes-across-europe-kill-one-person-and-injure-at-least-14-more.md)
@@ -37,11 +37,11 @@ Pelicans guard Bryce Dejean-Jones, 23, has died of a gunshot wound to the abdome
 
 ##### Brazilian police
 ### [Brazilian Police say they have identified and are searching for four of the more than 30 men suspected in last Saturday's gang rape of a 16-year-old girl in Rio de Janeiro. The assault came to light after several men posted about the attack online. ](/news/2016/05/28/brazilian-police-say-they-have-identified-and-are-searching-for-four-of-the-more-than-30-men-suspected-in-last-saturday-s-gang-rape-of-a-16.md)
-_Context: gang rape, Rio de Janeiro, Brazilian police_
+_Context: Brazilian police, gang rape, Rio de Janeiro_
 
 ##### Chile
 ### [The Chilean government says President Michelle Bachelet voluntarily testified this week as part of a probe into alleged tax crimes by her daughter-in-law Natalia Compagnon. ](/news/2016/05/28/the-chilean-government-says-president-michelle-bachelet-voluntarily-testified-this-week-as-part-of-a-probe-into-alleged-tax-crimes-by-her-da.md)
-_Context: President, Natalia Compagnon, Michelle Bachelet, Chile_
+_Context: Natalia Compagnon, Michelle Bachelet, President, Chile_
 
 ##### Iranian legislative election, 2016
 ### [Iran's newly elected parliament, officially called the Islamic Consultative Assembly, is opened and new members will be sworn-in during the first session. ](/news/2016/05/28/iran-s-newly-elected-parliament-officially-called-the-islamic-consultative-assembly-is-opened-and-new-members-will-be-sworn-in-during-the.md)
@@ -49,7 +49,7 @@ The swearing-in of the 290-member assembly comes at a critical time for reformis
 
 ##### Secretary General of NATO
 ### [Former Secretary General of NATO Anders Fogh Rasmussen is named an advisor for Ukrainian President Petro Poroshenko, a move described by a Russian deputy chairman of the Foreign Affairs Committee as a "hostile gesture". ](/news/2016/05/28/former-secretary-general-of-nato-anders-fogh-rasmussen-is-named-an-advisor-for-ukrainian-president-petro-poroshenko-a-move-described-by-a-r.md)
-_Context: Secretary General of NATO, Petro Poroshenko, Ukrainian President, Russia, Anders Fogh Rasmussen_
+_Context: Petro Poroshenko, Anders Fogh Rasmussen, Ukrainian President, Russia, Secretary General of NATO_
 
 ##### Papua New Guinea
 ### [Anti-government protests erupt across Papua New Guinea against Prime Minister Peter O'Neill, calling on him to resign. Papua New Guinea has been in a state of political turmoil since 2014 when the Prime Minister was accused of fraud and corruption. ](/news/2016/05/28/anti-government-protests-erupt-across-papua-new-guinea-against-prime-minister-peter-o-neill-calling-on-him-to-resign-papua-new-guinea-has.md)

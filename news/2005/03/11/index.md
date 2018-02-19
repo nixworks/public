@@ -5,15 +5,15 @@ Formats: [HTML](2005/03/11/index.html)  [JSON](2005/03/11/index.json)  [XML](200
 
 ##### Mourning
 ### [ A day of mourning is held in Spain to mark the first anniversary of the 11 March 2004 Madrid attacks. At noon, King Juan Carlos I and Queen Sofa inaugurate the Forest of the Departed ("Bosque de los Ausentes"), a memorial park in Madrid where an olive or cypress tree has been planted for each victim of the tragedy. ](/news/2005/03/11/a-day-of-mourning-is-held-in-spain-to-mark-the-first-anniversary-of-the-11-march-2004-madrid-attacks-at-noon-king-juan-carlos-i-and-queen.md)
-_Context: olive, 2004 Madrid bombings, Juan Carlos I, Forest of the Departed, mourning, cypress, Queen Sofa, Madrid_
+_Context: mourning, Forest of the Departed, Juan Carlos I, Queen Sofa, cypress, 2004 Madrid bombings, olive, Madrid_
 
 ##### Abu Ghraib
 ### [ Released official documents have confirmed that the U.S. held children as young as 11 years old at the Abu Ghraib prison in Iraq. ](/news/2005/03/11/released-official-documents-have-confirmed-that-the-u-s-held-children-as-young-as-11-years-old-at-the-abu-ghraib-prison-in-iraq.md)
-_Context: Abu Ghraib, Iraq_
+_Context: Iraq, Abu Ghraib_
 
 ##### Switzerland
 ### [ President of Switzerland, Samuel Schmid, speaks in Madrid in a conference on terrorism and urges countries to respect international law and human rights ](/news/2005/03/11/president-of-switzerland-samuel-schmid-speaks-in-madrid-in-a-conference-on-terrorism-and-urges-countries-to-respect-international-law-and.md)
-_Context: terrorism, Switzerland, Madrid, international law, Samuel Schmid, human rights_
+_Context: human rights, Madrid, international law, Samuel Schmid, Switzerland, terrorism_
 
 ##### Chess
 ### [ The former chess world champion Garry Kasparov announces he is going to retire from professional competitions ](/news/2005/03/11/the-former-chess-world-champion-garry-kasparov-announces-he-is-going-to-retire-from-professional-competitions.md)
@@ -25,7 +25,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Malta
 ### [ All is set for the local council elections in Malta which shall take place tomorrow. The results are expected to be in favour of the Malta Labour Party, the current opposition party. ](/news/2005/03/11/all-is-set-for-the-local-council-elections-in-malta-which-shall-take-place-tomorrow-the-results-are-expected-to-be-in-favour-of-the-malta.md)
-_Context: Malta Labour Party, Malta_
+_Context: Malta, Malta Labour Party_
 
 ## [Previous Day...](/news/2005/03/10/index.md)
 

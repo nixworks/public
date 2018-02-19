@@ -25,7 +25,7 @@ The blaze raging in Ventura and Santa Barbara counties covers more ground than N
 
 ##### Transgender personnel in the United States military
 ### [U.S. District Judge Colleen Kollar-Kotelly denies a Trump administration request to enforce the ban on transgender troops while this case is under appeal, thereby reaffirming her order that requires the U.S. military to accept transgender recruits effective January 1, 2018. ](/news/2017/12/11/u-s-district-judge-colleen-kollar-kotelly-denies-a-trump-administration-request-to-enforce-the-ban-on-transgender-troops-while-this-case-is.md)
-_Context: Colleen Kollar-Kotelly, Presidency of Donald Trump, Transgender personnel in the United States military_
+_Context: Transgender personnel in the United States military, Colleen Kollar-Kotelly, Presidency of Donald Trump_
 
 ##### Following purges in Turkey
 ### [Turkey's state news agency announces that prosecutors in Istanbul have requested life sentences against six people, including journalist brothers Ahmet and Mehmet Altan and chronicler Nazli Ilicak. One of the accusations is reportedly "having committed a crime in the name of a terror organization without being a member of it." ](/news/2017/12/11/turkey-s-state-news-agency-announces-that-prosecutors-in-istanbul-have-requested-life-sentences-against-six-people-including-journalist-bro.md)
@@ -33,7 +33,7 @@ Six suspects charged with attempting to overthrow constitutional order, governme
 
 ##### Hezbollah political activities
 ### [Hassan Nasrallah, the Secretary-General of Hezbollah, vows to return to Israel. Tens of thousands of people demonstrate in South Beirut. ](/news/2017/12/11/hassan-nasrallah-the-secretary-general-of-hezbollah-vows-to-return-to-israel-tens-of-thousands-of-people-demonstrate-in-south-beirut.md)
-_Context: Israel, Beirut, Hassan Nasrallah, Hezbollah political activities, Secretary-General of Hezbollah_
+_Context: Beirut, Hezbollah political activities, Israel, Hassan Nasrallah, Secretary-General of Hezbollah_
 
 ##### Ukrainian crisis
 ### [Ukrainian opposition leader Mikheil Saakashvili is freed from detention following Judge Larysa Tsokol's dismissal of prosecutors' house arrest request. ](/news/2017/12/11/ukrainian-opposition-leader-mikheil-saakashvili-is-freed-from-detention-following-judge-larysa-tsokol-s-dismissal-of-prosecutorsa-house-ar.md)

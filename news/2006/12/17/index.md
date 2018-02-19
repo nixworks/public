@@ -5,11 +5,11 @@ Formats: [HTML](2006/12/17/index.html)  [JSON](2006/12/17/index.json)  [XML](200
 
 ##### Peru
 ### [ Armed militia in Peru ambush and kill seven people involved in a crackdown on the illegal growing of coca. ](/news/2006/12/17/armed-militia-in-peru-ambush-and-kill-seven-people-involved-in-a-crackdown-on-the-illegal-growing-of-coca.md)
-_Context: Peru, coca_
+_Context: coca, Peru_
 
 ##### President
 ### [ Iranian President Mahmoud Ahmadinejad offers to share Iran's nuclear technology with neighboring countries. ](/news/2006/12/17/iranian-president-mahmoud-ahmadinejad-offers-to-share-iran-s-nuclear-technology-with-neighboring-countries.md)
-_Context: President, nuclear program, Mahmoud Ahmadinejad_
+_Context: President, Mahmoud Ahmadinejad, nuclear program_
 
 ##### Palestinian Authority President
 ### [ Masked gunmen kill an officer of an elite force loyal to the President of PNA Mahmoud Abbas in a dawn raid on a Gaza training camp as tensions worsen between Hamas and Fatah. ](/news/2006/12/17/masked-gunmen-kill-an-officer-of-an-elite-force-loyal-to-the-president-of-pna-mahmoud-abbas-in-a-dawn-raid-on-a-gaza-training-camp-as-tensi.md)

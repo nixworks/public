@@ -9,7 +9,7 @@ Gov. Sarah Palin of Alaska sought to wrest back the narrative of her life as she
 
 ##### Hurricane Ike
 ### [ Hurricane Ike becomes the fifth hurricane of the 2008 Atlantic hurricane season, later strengthening to Category 3. ](/news/2008/09/3/hurricane-ike-becomes-the-fifth-hurricane-of-the-2008-atlantic-hurricane-season-later-strengthening-to-category-3.md)
-_Context: Hurricane Ike, 2008 Atlantic hurricane season, hurricane_
+_Context: hurricane, 2008 Atlantic hurricane season, Hurricane Ike_
 
 ##### United States soldier
 ### [ United States Army troops cross the Pakistan border and launch a raid in the Angoor Ada region of Waziristan. Twenty civilians die. ](/news/2008/09/3/united-states-army-troops-cross-the-pakistan-border-and-launch-a-raid-in-the-angoor-ada-region-of-waziristan-twenty-civilians-die.md)
@@ -21,7 +21,7 @@ Mortgages gone sour have led the Bloomington company to reduce its Minnesota wor
 
 ##### Japan
 ### [ Japan's Kyodo news agency reports that North Korea has started rebuilding the Yongbyon Nuclear Scientific Research Center in retaliation for the United States failing to remove it from a list of states that sponsor terrorism. ](/news/2008/09/3/japan-s-kyodo-news-agency-reports-that-north-korea-has-started-rebuilding-the-yongbyon-nuclear-scientific-research-center-in-retaliation-fo.md)
-_Context: terrorism, United States, Japan, North Korea, Kyodo, Yongbyon Nuclear Scientific Research Center_
+_Context: Yongbyon Nuclear Scientific Research Center, United States, North Korea, terrorism, Japan, Kyodo_
 
 ##### 8th U.S. Circuit Court of Appeals'
 ### [ The United States Court of Appeals for the Eighth Circuit finds "that a reliance on information in Wikipedia is insufficient grounds for a ruling" in an immigration case. ](/news/2008/09/3/the-united-states-court-of-appeals-for-the-eighth-circuit-finds-that-a-reliance-on-information-in-wikipedia-is-insufficient-grounds-for-a.md)
@@ -29,11 +29,11 @@ _Context: Wikipedia, 8th U.S. Circuit Court of Appeals'_
 
 ##### Prime Minister
 ### [ Prime Minister of Pakistan Yousaf Raza Gilani survives an assassination attempt. ](/news/2008/09/3/prime-minister-of-pakistan-yousaf-raza-gilani-survives-an-assassination-attempt.md)
-_Context: Pakistan, Yousaf Raza Gilani, Prime Minister_
+_Context: Prime Minister, Yousaf Raza Gilani, Pakistan_
 
 ##### Independent Monitoring Commission
 ### [ The Independent Monitoring Commission reports that the Provisional IRA has effectively been disbanded as a terrorist organization, but the Provisional IRA Army Council still exists. ](/news/2008/09/3/the-independent-monitoring-commission-reports-that-the-provisional-ira-has-effectively-been-disbanded-as-a-terrorist-organization-but-the.md)
-_Context: Independent Monitoring Commission, IRA, Provisional IRA Army Council_
+_Context: Provisional IRA Army Council, Independent Monitoring Commission, IRA_
 
 ## [Previous Day...](/news/2008/09/2/index.md)
 

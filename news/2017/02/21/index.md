@@ -13,11 +13,11 @@ _Context: Breitbart, Milo Yiannopoulos_
 
 ##### Verizon Communications
 ### [Verizon Communications agrees to buy the core business at Yahoo Inc. for $4.48 billion. Completion of this July 2016 deal had been delayed because of two data breaches Yahoo disclosed last year. ](/news/2017/02/21/verizon-communications-agrees-to-buy-the-core-business-at-yahoo-inc-for-4-48-billion-completion-of-this-july-2016-deal-had-been-delayed-b.md)
-_Context: Verizon Communications, Yahoo!, two data breaches Yahoo disclosed_
+_Context: two data breaches Yahoo disclosed, Yahoo!, Verizon Communications_
 
 ##### Restaurant Brands International
 ### [The parent company of Burger King announces plans to purchase Popeyes Louisiana Kitchen, operator of the Popeyes chicken restaurant chain in a US$1.8 billion deal. ](/news/2017/02/21/the-parent-company-of-burger-king-announces-plans-to-purchase-popeyes-louisiana-kitchen-operator-of-the-popeyes-chicken-restaurant-chain-in.md)
-_Context: US$, Burger King, Popeyes Louisiana Kitchen, Restaurant Brands International_
+_Context: Restaurant Brands International, Popeyes Louisiana Kitchen, US$, Burger King_
 
 ##### 2017 Essendon Airport Beechcraft King Air crash
 ### [A charter plane crashes into a Direct Factory Outlets shopping centre in Melbourne, Australia, shortly after taking off from Essendon Airport, killing the five people on board. ](/news/2017/02/21/a-charter-plane-crashes-into-a-direct-factory-outlets-shopping-centre-in-melbourne-australia-shortly-after-taking-off-from-essendon-airpor.md)
@@ -33,7 +33,7 @@ _Context: South Sudan, a famine_
 
 ##### France-Lebanon relations
 ### [French National Front presidential candidate Marine Le Pen leaves before her scheduled meeting in Beirut with Lebanon's top Sunni Muslim religious leader, Grand Mufti Abdellatif Deryan, following her refusal to accept the offered headscarf to cover her hair. Le Pen's aides had been informed earlier about the traditional, religious need for a headscarf for this meeting. ](/news/2017/02/21/french-national-front-presidential-candidate-marine-le-pen-leaves-before-her-scheduled-meeting-in-beirut-with-lebanon-s-top-sunni-muslim-rel.md)
-_Context: Marine Le Pen, Sunni Muslim, National Front, headscarf, France-Lebanon relations_
+_Context: headscarf, Marine Le Pen, Sunni Muslim, National Front, France-Lebanon relations_
 
 ##### 2017 Rinkeby riots
 ### [After Swedish police arrest a suspect on drug-related charges, rioting occurs in Rinkeby, a suburb of the Swedish capital Stockholm. ](/news/2017/02/21/after-swedish-police-arrest-a-suspect-on-drug-related-charges-rioting-occurs-in-rinkeby-a-suburb-of-the-swedish-capital-stockholm.md)
@@ -41,7 +41,7 @@ Swedish police say riots broke out overnight in a predominantly immigrant Stockh
 
 ##### Austria
 ### [An Austrian court grants a United States request to extradite Ukrainian businessman Dmytro Firtash. U.S. officials accuse Firtash of being involved in a scandal where he allegedly paid US$18.5 million in bribes for a permit to mine titanium in India, something Firtash denies. ](/news/2017/02/21/an-austrian-court-grants-a-united-states-request-to-extradite-ukrainian-businessman-dmytro-firtash-u-s-officials-accuse-firtash-of-being-i.md)
-_Context: India, titanium, United States, Austria, Dmytro Firtash, bribes, Ukraine, $_
+_Context: $, bribes, Dmytro Firtash, Ukraine, India, Austria, United States, titanium_
 
 ##### Israeli-Palestinian conflict
 ### [Following last month's manslaughter conviction, Israeli soldier Elor Azaria is sentenced to 18 months in prison by a military court for, during a violent incident, his deadly shooting of the wounded, unarmed, prone Palestinian Abdel Fattah al-Sharif, who had stabbed a soldier last March in Hebron. ](/news/2017/02/21/following-last-month-s-manslaughter-conviction-israeli-soldier-elor-azaria-is-sentenced-to-18-months-in-prison-by-a-military-court-for-dur.md)
@@ -57,11 +57,11 @@ _Context: Azerbaijan, Mehriban Aliyeva_
 
 ##### Nagorno-Karabakh constitutional referendum, 2017
 ### [In a referendum held yesterday in the breakaway state of Nagorno-Karabakh (a region long claimed by both Azerbaijan and Armenia), 87.6% of voters approve changing the country's governance system from semi-presidential to full presidential, therefore abolishing the position of prime minister. ](/news/2017/02/21/in-a-referendum-held-yesterday-in-the-breakaway-state-of-nagorno-karabakh-a-region-long-claimed-by-both-azerbaijan-and-armenia-87-6-of-v.md)
-_Context: Nagorno-Karabakh constitutional referendum, 2017, prime minister, Azerbaijan, semi-presidential, presidential, Nagorno-Karabakh, Armenia_
+_Context: prime minister, presidential, Nagorno-Karabakh constitutional referendum, 2017, Nagorno-Karabakh, Armenia, semi-presidential, Azerbaijan_
 
 ##### Ecuadorian general election, 2017
 ### [A runoff presidential election, between former vice-president Lenin Moreno and former bank president Guillermo Lasso, is scheduled for Sunday, April 2 since no candidate gained at least 40 percent of the vote in Sunday's poll. With 95.3 percent of votes counted, Moreno received 39.21 percent of valid votes and Lasso had 28.34 percent. ](/news/2017/02/21/a-runoff-presidential-election-between-former-vice-president-lenan-moreno-and-former-bank-president-guillermo-lasso-is-scheduled-for-sund.md)
-_Context: Lenin Moreno, Guillermo Lasso, Ecuadorian general election, 2017_
+_Context: Ecuadorian general election, 2017, Lenin Moreno, Guillermo Lasso_
 
 ##### Frog
 ### [Several new species of tiny frogs are discovered in India. ](/news/2017/02/21/several-new-species-of-tiny-frogs-are-discovered-in-india.md)

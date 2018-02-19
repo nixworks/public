@@ -9,7 +9,7 @@ Somali security forces retake control of a popular beachside restaurant in the c
 
 ##### Tajikistan
 ### [Local Tajikistan police have shaved nearly 13,000 men's beards, closed more than 150 shops selling traditional Muslim clothing, and convinced around 1,800 women and girls to stop wearing headscarves in 2015 as part of a campaign to eradicate foreign influences in the former Soviet Republic. ](/news/2016/01/21/local-tajikistan-police-have-shaved-nearly-13-000-men-s-beards-closed-more-than-150-shops-selling-traditional-muslim-clothing-and-convince.md)
-_Context: Tajikistan, Muslim clothing, Soviet Republic, Hijab_
+_Context: Hijab, Muslim clothing, Soviet Republic, Tajikistan_
 
 ##### Ebola virus epidemic in West Africa
 ### [The World Health Organisation confirms a second new case of Ebola virus in Sierra Leone. ](/news/2016/01/21/the-world-health-organisation-confirms-a-second-new-case-of-ebola-virus-in-sierra-leone.md)
@@ -21,7 +21,7 @@ Two former Burundi presidents pleaded for the United Nations Security Council on
 
 ##### Dominic Ongwen
 ### [Dominic Ongwen, a former commander of the Lord's Resistance Army in Uganda, appears before the International Criminal Court in a hearing to determine whether a criminal trial should go ahead. ](/news/2016/01/21/dominic-ongwen-a-former-commander-of-the-lord-s-resistance-army-in-uganda-appears-before-the-international-criminal-court-in-a-hearing-to.md)
-_Context: ICC, Lord's Resistance Army, Uganda, Dominic Ongwen_
+_Context: Lord's Resistance Army, ICC, Uganda, Dominic Ongwen_
 
 ##### State Council of Crimea
 ### [The State Council of Crimea issues an arrest warrant for the leader of the Mejlis of the Crimean Tatar People and former Soviet dissident Mustafa Dzhemilev. ](/news/2016/01/21/the-state-council-of-crimea-issues-an-arrest-warrant-for-the-leader-of-the-mejlis-of-the-crimean-tatar-people-and-former-soviet-dissident-mu.md)
@@ -29,7 +29,7 @@ _Context: Mejlis of the Crimean Tatar People, Mustafa Dzhemilev, State Council o
 
 ##### Vladimir Putin
 ### [A British inquiry alleges that Russian President Vladimir Putin "probably" personally approved the FSB's murder of Alexander Litvinenko in November 2006 based on findings from a public enquiry. ](/news/2016/01/21/a-british-inquiry-alleges-that-russian-president-vladimir-putin-probably-personally-approved-the-fsb-s-murder-of-alexander-litvinenko-in-n.md)
-_Context: Vladimir Putin, Federal Security Service, Alexander Litvinenko_
+_Context: Alexander Litvinenko, Vladimir Putin, Federal Security Service_
 
 ##### 12th National Congress of the Communist Party of Vietnam
 ### [The 12th National Congress of the Communist Party of Vietnam convenes in Hanoi for eight days to select the country's leadership for the next five years. ](/news/2016/01/21/the-12th-national-congress-of-the-communist-party-of-vietnam-convenes-in-hanoi-for-eight-days-to-select-the-country-s-leadership-for-the-nex.md)

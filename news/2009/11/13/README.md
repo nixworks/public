@@ -5,15 +5,15 @@ Formats: [HTML](2009/11/13/index.html)  [JSON](2009/11/13/index.json)  [XML](200
 
 ##### Philippines
 ### [ Philippines President Gloria Arroyo signs a law banning torture, making it a criminal offence punishable by up to 30 years imprisonment. ](/news/2009/11/13/philippines-president-gloria-arroyo-signs-a-law-banning-torture-making-it-a-criminal-offence-punishable-by-up-to-30-years-imprisonment.md)
-_Context: torture, Philippines, Gloria Arroyo, President_
+_Context: Philippines, President, Gloria Arroyo, torture_
 
 ##### Turkey
 ### [ The Turkish government unveils a plan to improve rights of the Kurdish minority to end the decades long ethnic conflict in the southeast of the country. ](/news/2009/11/13/the-turkish-government-unveils-a-plan-to-improve-rights-of-the-kurdish-minority-to-end-the-decades-long-ethnic-conflict-in-the-southeast-of.md)
-_Context: disarm, Kurd, Turkey_
+_Context: Turkey, Kurd, disarm_
 
 ##### Cambodia
 ### [ Cambodia detains a Thai man on charges of spying for Thailand. ](/news/2009/11/13/cambodia-detains-a-thai-man-on-charges-of-spying-for-thailand.md)
-_Context: Thailand, Cambodia_
+_Context: Cambodia, Thailand_
 
 ##### Microsoft
 ### [ Microsoft admits that the Windows 7 USB-DVD download tool contains code that is covered by the GNU General Public License and offers to make it available under the terms of that license. ](/news/2009/11/13/microsoft-admits-that-the-windows-7-usb-dvd-download-tool-contains-code-that-is-covered-by-the-gnu-general-public-license-and-offers-to-mak.md)
@@ -21,7 +21,7 @@ Microsoft has acknowledged that it incorporated open-source code into a Windows 
 
 ##### United States
 ### [ American politician William J. Jefferson, former Democratic Party Congressman from the U.S. state of Louisiana, is sentenced to 13 years in prison for corruption. ](/news/2009/11/13/american-politician-william-j-jefferson-former-democratic-party-congressman-from-the-u-s-state-of-louisiana-is-sentenced-to-13-years-in.md)
-_Context: United States, Congress, William J. Jefferson, Democrat, Louisiana, U.S. state_
+_Context: William J. Jefferson, Congress, U.S. state, Democrat, United States, Louisiana_
 
 ##### NASA
 ### [ NASA claims to have discovered water after the LCROSS satellite crashes near the South Pole of the Moon. ](/news/2009/11/13/nasa-claims-to-have-discovered-water-after-the-lcross-satellite-crashes-near-the-south-pole-of-the-moon.md)
@@ -29,7 +29,7 @@ The discovery, which came out of a mission a month ago, confirmed scientists’ 
 
 ##### South Africa
 ### [ South African President Jacob Zuma says the police do not have a "licence to kill" after recent incidents of innocent people being killed by police. ](/news/2009/11/13/south-african-president-jacob-zuma-says-the-police-do-not-have-a-licence-to-kill-after-recent-incidents-of-innocent-people-being-killed-b.md)
-_Context: Jacob Zuma, President of South Africa, South Africa_
+_Context: South Africa, Jacob Zuma, President of South Africa_
 
 ##### Previous explosion at the same site
 ### [ Two people are killed and 43 rescued from a bomb shelter in a fire that triggered multiple explosions at an arms depot near Ulyanovsk, western Russia. ](/news/2009/11/13/two-people-are-killed-and-43-rescued-from-a-bomb-shelter-in-a-fire-that-triggered-multiple-explosions-at-an-arms-depot-near-ulyanovsk-west.md)
@@ -49,11 +49,11 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 
 ##### Snow
 ### [ 38 people are killed in collapsed school buildings and road accidents caused by heavy snowfall in China, the heaviest in 60 years. ](/news/2009/11/13/38-people-are-killed-in-collapsed-school-buildings-and-road-accidents-caused-by-heavy-snowfall-in-china-the-heaviest-in-60-years.md)
-_Context: snow, China_
+_Context: China, snow_
 
 ##### Czech Republic
 ### [ Czech Prime minister Jan Fischer deposits the Treaty of Lisbon ratification instrument at the Italian foreign ministry in Rome. ](/news/2009/11/13/czech-prime-minister-jan-fischer-deposits-the-treaty-of-lisbon-ratification-instrument-at-the-italian-foreign-ministry-in-rome.md)
-_Context: Czech Republic, Rome, Italy, Jan Fischer, deposits, Treaty of Lisbon, Italy_
+_Context: deposits, Treaty of Lisbon, Jan Fischer, Italy, Czech Republic, Rome, Italy_
 
 ##### Maoist supporters
 ### [ Tens of thousands of Maoist supporters in Nepal block the headquarters for the Nepali government for a second day. ](/news/2009/11/13/tens-of-thousands-of-maoist-supporters-in-nepal-block-the-headquarters-for-the-nepali-government-for-a-second-day.md)
@@ -61,7 +61,7 @@ Maoist demonstrators blockade government offices in Kathmandu for second day.
 
 ##### Gareth Jones
 ### [ The diaries of Gareth Jones, a British reporter who exposed the 1933 famine in Ukraine, are put on public display for the first time. ](/news/2009/11/13/the-diaries-of-gareth-jones-a-british-reporter-who-exposed-the-1933-famine-in-ukraine-are-put-on-public-display-for-the-first-time.md)
-_Context: famine in Ukraine in 1932-1933, Gareth Jones_
+_Context: Gareth Jones, famine in Ukraine in 1932-1933_
 
 ##### Peshawar
 ### [ A bomb hits the Peshawar office of Pakistan's Inter-Services Intelligence agency with at least seven people dead and 35 injured. ](/news/2009/11/13/a-bomb-hits-the-peshawar-office-of-pakistan-s-inter-services-intelligence-agency-with-at-least-seven-people-dead-and-35-injured.md)
@@ -73,7 +73,7 @@ Taoiseach Brian Cowen is to attend the 13th British-Irish Council Summit today i
 
 ##### Japan Coast Guard
 ### [ The Japan Coast Guard evacuates 28 passengers and crew from the "Ariake" commercial ferry after it rolls over onto its side in rough seas off Mie Prefecture in the Pacific Ocean. ](/news/2009/11/13/the-japan-coast-guard-evacuates-28-passengers-and-crew-from-the-ariake-commercial-ferry-after-it-rolls-over-onto-its-side-in-rough-seas-o.md)
-_Context: Japan Coast Guard, Mie Prefecture, South Pacific Ocean, Ariake_
+_Context: South Pacific Ocean, Japan Coast Guard, Mie Prefecture, Ariake_
 
 ##### Kosovo
 ### [ Kosovo prepares for historic elections after a flare-up earlier this week targeted Prime Minister Hashim Thaci in the western town of Decan. ](/news/2009/11/13/kosovo-prepares-for-historic-elections-after-a-flare-up-earlier-this-week-targeted-prime-minister-hashim-thaci-in-the-western-town-of-deassa.md)

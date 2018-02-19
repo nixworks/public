@@ -9,7 +9,7 @@ Australians could be banned from living on the coast under a radical environment
 
 ##### Grassroots
 ### [ Grassroots occupations of Austrian universities spread to several more in Vienna, Graz and Linz, demanding free education for everyone. ](/news/2009/10/27/grassroots-occupations-of-austrian-universities-spread-to-several-more-in-vienna-graz-and-linz-demanding-free-education-for-everyone.md)
-_Context: Linz, Grassroots, Vienna, Austrian universities, occupations, Graz, education_
+_Context: occupations, education, Graz, Linz, Vienna, Austrian universities, Grassroots_
 
 ##### Qatar
 ### [ Qatar inaugurates one of the world's largest LNG trains, operated by RasGas. ](/news/2009/10/27/qatar-inaugurates-one-of-the-world-s-largest-lng-trains-operated-by-rasgas.md)
@@ -17,11 +17,11 @@ Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar an
 
 ##### Pope Benedict XVI
 ### [ Pope Benedict XVI appoints Cardinal Peter Turkson of Cape Coast, Ghana, to serve as the new head of the Pontifical Council for Justice and Peace. ](/news/2009/10/27/pope-benedict-xvi-appoints-cardinal-peter-turkson-of-cape-coast-ghana-to-serve-as-the-new-head-of-the-pontifical-council-for-justice-and.md)
-_Context: Ghana, Pope Benedict XVI, Cape Coast, Cardinal, Peter Turkson_
+_Context: Ghana, Pope Benedict XVI, Peter Turkson, Cardinal, Cape Coast_
 
 ##### NASA
 ### [ NASA announces a delay in the launch of the Ares I-X test rocket, developed to replace the space shuttle, due to poor weather conditions. ](/news/2009/10/27/nasa-announces-a-delay-in-the-launch-of-the-ares-i-x-test-rocket-developed-to-replace-the-space-shuttle-due-to-poor-weather-conditions.md)
-_Context: Ares I-X, NASA, space shuttle_
+_Context: space shuttle, NASA, Ares I-X_
 
 ##### Church of Scientology
 ### [ The Church of Scientology in France is convicted of organised fraud. ](/news/2009/10/27/the-church-of-scientology-in-france-is-convicted-of-organised-fraud.md)
@@ -29,19 +29,19 @@ Group fined $900,000 for fraud but is allowed to continue practising in France.
 
 ##### China
 ### [ China confirms it has executed 2 Tibetans over unrest last year. ](/news/2009/10/27/china-confirms-it-has-executed-2-tibetans-over-unrest-last-year.md)
-_Context: unrest in 2008, China, Tibet_
+_Context: China, Tibet, unrest in 2008_
 
 ##### France
 ### [ The son of ex-French President Franois Mitterrand, Jean-Christophe Mitterrand and an ex-government minister, Charles Pasqua, are convicted for their roles in illegal arms sales to Angola. ](/news/2009/10/27/the-son-of-ex-french-president-francois-mitterrand-jean-christophe-mitterrand-and-an-ex-government-minister-charles-pasqua-are-convicted.md)
-_Context: France, Charles Pasqua, illegal arms sales to Angola, Jean-Christophe Mitterrand, French President, Franois Mitterrand_
+_Context: France, illegal arms sales to Angola, Charles Pasqua, Franois Mitterrand, Jean-Christophe Mitterrand, French President_
 
 ##### Honduras
 ### [ A nephew of Honduran interim leader Robert Micheletti and a high ranking army officer are found murdered. ](/news/2009/10/27/a-nephew-of-honduran-interim-leader-robert-micheletti-and-a-high-ranking-army-officer-are-found-murdered.md)
-_Context: Honduras, Robert Micheletti_
+_Context: Robert Micheletti, Honduras_
 
 ##### United Kingdom
 ### [ A British couple are missing after their yacht is hijacked by Somali pirates off the Seychelles. ](/news/2009/10/27/a-british-couple-are-missing-after-their-yacht-is-hijacked-by-somali-pirates-off-the-seychelles.md)
-_Context: Seychelles, Somali pirates, United Kingdom_
+_Context: Seychelles, United Kingdom, Somali pirates_
 
 ##### North Korea
 ### [ North Korea says a South Korean man has defected to the North across the Korean Demilitarized Zone. ](/news/2009/10/27/north-korea-says-a-south-korean-man-has-defected-to-the-north-across-the-korean-demilitarized-zone.md)
@@ -53,7 +53,7 @@ _Context: Somalia, Burundi, Uganda, Al-Shabaab, al-Qaeda_
 
 ##### Aceh
 ### [ The autonomous Aceh province in Indonesia is to ban women from wearing tight trousers under a new law, while a law authorising the stoning to death of adulterers and the whipping of homosexuals will be reviewed. ](/news/2009/10/27/the-autonomous-aceh-province-in-indonesia-is-to-ban-women-from-wearing-tight-trousers-under-a-new-law-while-a-law-authorising-the-stoning.md)
-_Context: Indonesia, Aceh_
+_Context: Aceh, Indonesia_
 
 ##### Venezuela
 ### [ Authorities in Venezuela arrest a number of people accused of being secret service agents from neighbouring Colombia, on charges of espionage. ](/news/2009/10/27/authorities-in-venezuela-arrest-a-number-of-people-accused-of-being-secret-service-agents-from-neighbouring-colombia-on-charges-of-espiona.md)
@@ -61,7 +61,7 @@ Authorities in Venezuela arrested alleged Colombian intelligence officials who w
 
 ##### Prime Minister
 ### [ Prime Minister of Thailand Abhisit Vejjajiva backs autonomy for the restive southern provinces to bring an end to violence in the region. ](/news/2009/10/27/prime-minister-of-thailand-abhisit-vejjajiva-backs-autonomy-for-the-restive-southern-provinces-to-bring-an-end-to-violence-in-the-region.md)
-_Context: Abhisit Vejjajiva, South Thailand insurgency, Thailand, Prime Minister_
+_Context: Prime Minister, Abhisit Vejjajiva, Thailand, South Thailand insurgency_
 
 ## [Previous Day...](/news/2009/10/26/index.md)
 

@@ -9,11 +9,11 @@ The Asahi Shimbun is widely regarded for its journalism as the most respected da
 
 ##### Libya
 ### [Libyan ship, Amalthea, carrying activists and 2,000 tonnes of food and medicine to Gaza, is met with a cold response by Israel which launches intense efforts to prevent it reaching its destination. ](/news/2010/07/11/libyan-ship-amalthea-carrying-activists-and-2-000-tonnes-of-food-and-medicine-to-gaza-is-met-with-a-cold-response-by-israel-which-launche.md)
-_Context: Israel, Gaza Strip, Libya_
+_Context: Libya, Israel, Gaza Strip_
 
 ##### Colombia
 ### [Ten Colombian soldiers are killed after entering a minefield while pursuing FARC rebels trying to blow up electrical towers. ](/news/2010/07/11/ten-colombian-soldiers-are-killed-after-entering-a-minefield-while-pursuing-farc-rebels-trying-to-blow-up-electrical-towers.md)
-_Context: Revolutionary Armed Forces of Colombia, Colombia_
+_Context: Colombia, Revolutionary Armed Forces of Colombia_
 
 ##### Attacks
 ### [Two bomb attacks in the Ugandan capital Kampala kill at least 64 people; the Somali militant group Al-Shabab, which has pledged loyalty to al-qaida, is suspected of being behind the attack. ](/news/2010/07/11/two-bomb-attacks-in-the-ugandan-capital-kampala-kill-at-least-64-people-the-somali-militant-group-al-shabab-which-has-pledged-loyalty-to-a.md)
@@ -21,7 +21,7 @@ At least 74 people were killed in the twin blasts that hit Kampala during the Wo
 
 ##### Liberia
 ### [Liberian deputy parliamentary speaker Togba Mulbah is released after briefly being held under house arrest in Monrovia for allegedly ordering the beating unconscious of a policeman. ](/news/2010/07/11/liberian-deputy-parliamentary-speaker-togba-mulbah-is-released-after-briefly-being-held-under-house-arrest-in-monrovia-for-allegedly-orderin.md)
-_Context: Monrovia, Liberia, Togba Mulbah_
+_Context: Liberia, Togba Mulbah, Monrovia_
 
 ##### Police
 ### [Police in northern Eleuthera, The Bahamas, capture Colton Harris-Moore, a 19-year-old fugitive known in the United States as the "Barefoot Bandit". ](/news/2010/07/11/police-in-northern-eleuthera-the-bahamas-capture-colton-harris-moore-a-19-year-old-fugitive-known-in-the-united-states-as-the-barefoot-b.md)
@@ -33,7 +33,7 @@ Spanish film-maker Agusti Vila wins the main prize at the Karlovy Vary festival 
 
 ##### Total solar eclipse
 ### [A total solar eclipse occurs in the south Pacific Ocean with thousands viewing the event on Easter Island. ](/news/2010/07/11/a-total-solar-eclipse-occurs-in-the-south-pacific-ocean-with-thousands-viewing-the-event-on-easter-island.md)
-_Context: total solar eclipse, South Pacific Ocean, Easter Island_
+_Context: total solar eclipse, Easter Island, South Pacific Ocean_
 
 ##### Spain
 ### [Spain defeats the Netherlands by a score of one goal to nil in extra time of the 2010 FIFA World Cup Final to win the 2010 FIFA World Cup, with Andrs Iniesta scoring the winning goal. ](/news/2010/07/11/spain-defeats-the-netherlands-by-a-score-of-one-goal-to-nil-in-extra-time-of-the-2010-fifa-world-cup-final-to-win-the-2010-fifa-world-cup-w.md)
@@ -49,7 +49,7 @@ _Context: Sepp Blatter, 2010 FIFA World Cup, FIFA_
 
 ##### 800 metres
 ### [World women's 800 metres champion Caster Semenya is left out of South Africa's team for the upcoming African Championships. ](/news/2010/07/11/world-women-s-800-metres-champion-caster-semenya-is-left-out-of-south-africa-s-team-for-the-upcoming-african-championships.md)
-_Context: 800 metres, Caster Semenya_
+_Context: Caster Semenya, 800 metres_
 
 ## [Previous Day...](/news/2010/07/10/index.md)
 

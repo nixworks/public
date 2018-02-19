@@ -13,7 +13,7 @@ Colombian FARC rebels on Mondayreleased a proof of life video in which a kidnapp
 
 ##### Bomb
 ### [A suspected bomb explodes in a shopping complex in Nairobi, Kenya, injuring 33 people. ](/news/2012/05/28/a-suspected-bomb-explodes-in-a-shopping-complex-in-nairobi-kenya-injuring-33-people.md)
-_Context: Nairobi, Kenya, shopping complex, bomb_
+_Context: shopping complex, bomb, Nairobi, Kenya_
 
 ##### Lhasa
 ### [For the first time a series of self-immolations have reached the Tibetan capital of Lhasa when two Tibetans set themselves on fire.](/news/2012/05/28/for-the-first-time-a-series-of-self-immolations-have-reached-the-tibetan-capital-of-lhasa-when-two-tibetans-set-themselves-on-fire.md)
@@ -37,7 +37,7 @@ Bloxham Stockbrokers has agreed to transfer all its private client and fund mana
 
 ##### Helicopter
 ### [A helicopter crashes in eastern Afghanistan, killing two ISAF troops. ](/news/2012/05/28/a-helicopter-crashes-in-eastern-afghanistan-killing-two-isaf-troops.md)
-_Context: helicopter, ISAF, Afghan_
+_Context: ISAF, Afghan, helicopter_
 
 ##### Doha, Qatar
 ### [19 people are killed in a fire at a shopping centre in Doha, Qatar. ](/news/2012/05/28/19-people-are-killed-in-a-fire-at-a-shopping-centre-in-doha-qatar.md)
@@ -61,7 +61,7 @@ _Context: 1989 Tiananmen Square protests, Beijing_
 
 ##### Chinese
 ### [The Chinese Communist Party expels the former railways minister, Liu Zhijun, over corruption. ](/news/2012/05/28/the-chinese-communist-party-expels-the-former-railways-minister-liu-zhijun-over-corruption.md)
-_Context: Communist Party of China, Liu Zhijun, Chinese_
+_Context: Communist Party of China, Chinese, Liu Zhijun_
 
 ##### Nepal
 ### [Political parties in Nepal fail to agree on a new constitution, leaving the country with no constitution and no sitting national Legislature. ](/news/2012/05/28/political-parties-in-nepal-fail-to-agree-on-a-new-constitution-leaving-the-country-with-no-constitution-and-no-sitting-national-legislature.md)

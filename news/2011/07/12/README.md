@@ -5,7 +5,7 @@ Formats: [HTML](2011/07/12/index.html)  [JSON](2011/07/12/index.json)  [XML](201
 
 ##### United States
 ### [7 people are killed and 3 others are injured by a United States drone attack in Pakistan's South Waziristan region. ](/news/2011/07/12/7-people-are-killed-and-3-others-are-injured-by-a-united-states-drone-attack-in-pakistan-s-south-waziristan-region.md)
-_Context: drones launch, South Waziristan, Pakistan, United States_
+_Context: South Waziristan, Pakistan, United States, drones launch_
 
 ##### Chile
 ### [Miners clash with police in Chile. ](/news/2011/07/12/miners-clash-with-police-in-chile.md)
@@ -41,7 +41,7 @@ _Context: EuroMillions_
 
 ##### Sherwood Schwartz
 ### [American television producer Sherwood Schwartz, the creator of "Gilligan's Island" and "The Brady Bunch", dies in Los Angeles, California. ](/news/2011/07/12/american-television-producer-sherwood-schwartz-the-creator-of-gilligan-s-island-and-the-brady-bunch-dies-in-los-angeles-california.md)
-_Context: California, Los Angeles, California, The Brady Bunch, Sherwood Schwartz, Gilligan's Island_
+_Context: Los Angeles, California, Sherwood Schwartz, Gilligan's Island, The Brady Bunch, California_
 
 ##### Irish
 ### [Ireland's debt rating is reduced to "junk" status by Moody's. ](/news/2011/07/12/ireland-s-debt-rating-is-reduced-to-junk-status-by-moody-s.md)
@@ -49,7 +49,7 @@ Credit agency Moody&#39;s has downgraded Ireland&#39;s debt rating to junk statu
 
 ##### Apple Inc.
 ### [Apple's chief patent lawyer is leaving the company, Reuters reports, amidst a slew of patent-related conflicts with Google, Samsung, Nokia, others. ](/news/2011/07/12/apple-s-chief-patent-lawyer-is-leaving-the-company-reuters-reports-amidst-a-slew-of-patent-related-conflicts-with-google-samsung-nokia.md)
-_Context: Nokia, Samsung, patent, Google, Apple Inc._
+_Context: Apple Inc., Samsung, Google, Nokia, patent_
 
 ##### Japan
 ### [Japanese officials announce their intention to send the country's whaling fleet back to Antarctica later in the year; the Sea Shepherd Conservation Society (SSCS) is also to return. ](/news/2011/07/12/japanese-officials-announce-their-intention-to-send-the-country-s-whaling-fleet-back-to-antarctica-later-in-the-year-the-sea-shepherd-conse.md)
@@ -57,7 +57,7 @@ Financial constraints, maritime regulations and campaigns by activists will not 
 
 ##### Evangelos Florakis Navy Base explosion
 ### [Evangelos Florakis Navy Base explosion: Thousands of people march on the Presidential Palace in Nicosia, Cyprus; police fire tear gas at the demonstrators who tie a banner to the palace gates stating "Christofias [their ruler] is a murderer and must go to jail". ](/news/2011/07/12/evangelos-florakis-navy-base-explosion-thousands-of-people-march-on-the-presidential-palace-in-nicosia-cyprus-police-fire-tear-gas-at-the.md)
-_Context: tear gas, Cypriot, Presidential Palace, Evangelos Florakis Navy Base explosion, Nicosia, Christofias_
+_Context: Presidential Palace, Cypriot, tear gas, Christofias, Evangelos Florakis Navy Base explosion, Nicosia_
 
 ##### Earthquake
 ### [Four earthquakes ranging from 5 to 6.2 in magnitude hit the Philippines. ](/news/2011/07/12/four-earthquakes-ranging-from-5-to-6-2-in-magnitude-hit-the-philippines.md)
@@ -97,11 +97,11 @@ _Context: felons, Hollywood Hills, Halle Berry_
 
 ##### CNN
 ### [CNN reports that the U.S. Bureau of Alcohol, Tobacco, Firearms, and Explosives has lost track of 1,400 guns involved in Operation Fast and Furious aimed at tracing the flow of weapons to Mexican drug cartels. ](/news/2011/07/12/cnn-reports-that-the-u-s-bureau-of-alcohol-tobacco-firearms-and-explosives-has-lost-track-of-1-400-guns-involved-in-operation-fast-and-f.md)
-_Context: Mexican drug cartel, CNN, Operation Fast and Furious, Bureau of Alcohol, Tobacco, Firearms, and Explosives_
+_Context: CNN, Operation Fast and Furious, Bureau of Alcohol, Tobacco, Firearms, and Explosives, Mexican drug cartel_
 
 ##### California's 36th congressional district
 ### [Voters in California's 36th congressional district go to the polls for a special election to replace former Rep. Jane Harman with Democrat Janice Hahn defeating Republican Craig Huey. ](/news/2011/07/12/voters-in-california-s-36th-congressional-district-go-to-the-polls-for-a-special-election-to-replace-former-rep-jane-harman-with-democrat-j.md)
-_Context: Republican, special election, Jane Harman, Craig Huey, Janice Hahn, California's 36th congressional district, Democrat_
+_Context: California's 36th congressional district, Janice Hahn, special election, Republican, Craig Huey, Democrat, Jane Harman_
 
 ##### The coalition
 ### [The UK Government states its intention to support a Labour Party motion in the House of Commons calling for the withdrawal of News Corporation's bid to take over BSkyB. ](/news/2011/07/12/the-uk-government-states-its-intention-to-support-a-labour-party-motion-in-the-house-of-commons-calling-for-the-withdrawal-of-news-corporati.md)
@@ -113,15 +113,15 @@ Former occupants of the White House and other US dignitaries gather at a Califor
 
 ##### Northern Ireland
 ### [In Northern Ireland, riots mark the culmination of the Belfast marching season. ](/news/2011/07/12/in-northern-ireland-riots-mark-the-culmination-of-the-belfast-marching-season.md)
-_Context: Belfast marching season, Northern Ireland_
+_Context: Northern Ireland, Belfast marching season_
 
 ##### Republican
 ### [U.S. Republican presidential candidate Ron Paul announces that he will not stand again for his Texas district in 2012. ](/news/2011/07/12/u-s-republican-presidential-candidate-ron-paul-announces-that-he-will-not-stand-again-for-his-texas-district-in-2012.md)
-_Context: Ron Paul, Texas, district, Republican_
+_Context: Texas, Ron Paul, Republican, district_
 
 ##### Governor
 ### [The Governor of the U.S. state of Arizona calls a recall election for state Senate President Russell Pearce known for his immigration legislation. ](/news/2011/07/12/the-governor-of-the-u-s-state-of-arizona-calls-a-recall-election-for-state-senate-president-russell-pearce-known-for-his-immigration-legisl.md)
-_Context: U.S. state, recall, state Senate President, Russell Pearce, Arizona, Governor_
+_Context: Governor, U.S. state, recall, Arizona, Russell Pearce, state Senate President_
 
 ##### NASA
 ### [NASA astronauts on board "Atlantis" complete the final spacewalk of the Space Shuttle era, recouping an ammonia pump on the International Space Station (ISS). ](/news/2011/07/12/nasa-astronauts-on-board-atlantis-complete-the-final-spacewalk-of-the-space-shuttle-era-recouping-an-ammonia-pump-on-the-international-sp.md)

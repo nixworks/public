@@ -9,11 +9,11 @@ Sappers find parts of Grad rocket thought to have been one of five fired towards
 
 ##### United Nations
 ### [The United Nations establishes a panel with an Israeli and Turk amongst its members to investigate the Gaza flotilla raid in May. ](/news/2010/08/2/the-united-nations-establishes-a-panel-with-an-israeli-and-turk-amongst-its-members-to-investigate-the-gaza-flotilla-raid-in-may.md)
-_Context: United Nations, Israel, Turkey, Gaza flotilla raid_
+_Context: United Nations, Turkey, Gaza flotilla raid, Israel_
 
 ##### First Folio
 ### [An antiques dealer is imprisoned for handling a copy of the "First Folio" by poet and playwright William Shakespeare, though cleared of actually stealing it, in the UK. ](/news/2010/08/2/an-antiques-dealer-is-imprisoned-for-handling-a-copy-of-the-first-folio-by-poet-and-playwright-william-shakespeare-though-cleared-of-actu.md)
-_Context: William Shakespeare, First Folio_
+_Context: First Folio, William Shakespeare_
 
 ##### Cuba
 ### [Cuban President Ral Castro pledges to ease state control of the economy. ](/news/2010/08/2/cuban-president-raul-castro-pledges-to-ease-state-control-of-the-economy.md)
@@ -37,7 +37,7 @@ Nearly five million barrels of oil have gushed from BP’s well, federal scienti
 
 ##### Lake Albert
 ### [At least 33 people drown after a boat capsizes on Lake Albert in Uganda. ](/news/2010/08/2/at-least-33-people-drown-after-a-boat-capsizes-on-lake-albert-in-uganda.md)
-_Context: Uganda, Lake Albert_
+_Context: Lake Albert, Uganda_
 
 ##### European Union
 ### [The European Union announces it will end its mission to reform security forces in Guinea-Bissau due to the deteriorating situation in the country. ](/news/2010/08/2/the-european-union-announces-it-will-end-its-mission-to-reform-security-forces-in-guinea-bissau-due-to-the-deteriorating-situation-in-the-co.md)
@@ -45,11 +45,11 @@ _Context: Guinea-Bissau, European Union_
 
 ##### Government
 ### [The Government of Pakistan summons the British High Commissioner to Islamabad for a "dressing down" by Foreign Minister Shah Mehmood Qureshi over remarks made by the British Prime Minister David Cameron on Pakistan "looking both ways" on terrorism. ](/news/2010/08/2/the-government-of-pakistan-summons-the-british-high-commissioner-to-islamabad-for-a-dressing-down-by-foreign-minister-shah-mehmood-qureshi.md)
-_Context: terrorism, United Kingdom, Minister of Foreign Affairs, Shah Mehmood Qureshi, government, Pakistan, Prime Minister, Islamabad, David Cameron_
+_Context: David Cameron, Shah Mehmood Qureshi, Islamabad, Minister of Foreign Affairs, Pakistan, government, terrorism, Prime Minister, United Kingdom_
 
 ##### Trial
 ### [The trial of Malaysian opposition leader Anwar Ibrahim on sodomy charges is deferred until August 9. ](/news/2010/08/2/the-trial-of-malaysian-opposition-leader-anwar-ibrahim-on-sodomy-charges-is-deferred-until-august-9.md)
-_Context: sodomy, Malaysia, Anwar Ibrahim, trial_
+_Context: Anwar Ibrahim, Malaysia, sodomy, trial_
 
 ##### China
 ### [A drunk man on a tractor kills 11 people and injures many others in a rampage in northern China. ](/news/2010/08/2/a-drunk-man-on-a-tractor-kills-11-people-and-injures-many-others-in-a-rampage-in-northern-china.md)
@@ -73,7 +73,7 @@ A House ethics panel charged California Democrat Rep. Maxine Waters today with b
 
 ##### Census of Marine Life
 ### [The Census of Marine Life is released after 10 years of study of the worlds oceans showing that there are 230,000 species of animal living there. ](/news/2010/08/2/the-census-of-marine-life-is-released-after-10-years-of-study-of-the-worlds-oceans-showing-that-there-are-230-000-species-of-animal-living-t.md)
-_Context: animal, ocean, Census of Marine Life_
+_Context: animal, Census of Marine Life, ocean_
 
 ## [Previous Day...](/news/2010/08/1/index.md)
 

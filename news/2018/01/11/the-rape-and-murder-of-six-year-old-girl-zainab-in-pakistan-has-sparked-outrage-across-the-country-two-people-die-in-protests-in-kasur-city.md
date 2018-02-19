@@ -23,7 +23,7 @@ Formats: [HTML](/news/2018/01/11/the-rape-and-murder-of-six-year-old-girl-zainab
 
 ### Related:
 
-1. [An Anti-Terrorism Court in Lahore, Pakistan, sentences to the death penalty, Imran Ali for the rape and murder of the 7-year-old Pakistani girl. The family demands his hanging in public. ](/news/2018/02/17/an-anti-terrorism-court-in-lahore-pakistan-sentences-to-the-death-penalty-imran-ali-for-the-rape-and-murder-of-the-7-year-old-pakistani-g.md) _Context: Murder of Zainab Ansari, Pakistan_
+1. [An Anti-Terrorism Court in Lahore, Pakistan, sentences Imran Ali to death, for the rape and murder of 7-year-old Zainab Ansari. The victim's family demands Ali's hanging to be conducted in public. ](/news/2018/02/17/an-anti-terrorism-court-in-lahore-pakistan-sentences-imran-ali-to-death-for-the-rape-and-murder-of-7-year-old-zainab-ansari-the-victim-s.md) _Context: Murder of Zainab Ansari, Pakistan_
 2. [Protesters set a government office on fire in the Pakistani city of Kasur, in a second day of riots after the rape and murder of a six-year-old girl. ](/news/2018/01/12/protesters-set-a-government-office-on-fire-in-the-pakistani-city-of-kasur-in-a-second-day-of-riots-after-the-rape-and-murder-of-a-six-year.md) _Context: Kasur, Murder of Zainab Ansari_
 3. [ More than 200 people die in accidents related to storms in Karachi, Pakistan. ](/news/2018/06/24/more-than-200-people-die-in-accidents-related-to-storms-in-karachi-pakistan.md) _Context: Pakistan_
 4. [Pakistan moves to ban two charities linked to terrorist Hafiz Muhammad Saeed. ](/news/2018/02/14/pakistan-moves-to-ban-two-charities-linked-to-terrorist-hafiz-muhammad-saeed.md) _Context: Pakistan_

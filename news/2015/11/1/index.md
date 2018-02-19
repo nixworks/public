@@ -17,7 +17,7 @@ Three Israeli border police were injured when they were hit by a car in the occu
 
 ##### United States Navy
 ### [The United States Navy sends a remotely operated underwater craft to investigate a wreck which they believe is the remains of the El Faro which disappeared on October 1 near the Bahamas during Hurricane Joaquin with 33 people on board. ](/news/2015/11/1/the-united-states-navy-sends-a-remotely-operated-underwater-craft-to-investigate-a-wreck-which-they-believe-is-the-remains-of-the-el-faro-wh.md)
-_Context: the Bahamas, United States Navy, Hurricane Joaquin_
+_Context: United States Navy, Hurricane Joaquin, the Bahamas_
 
 ##### Kogalymavia Flight 9268
 ### [Airlines including Emirates, Lufthansa and Air France refuse to fly over the Sinai Peninsula until the cause of the crash is known. ](/news/2015/11/1/airlines-including-emirates-lufthansa-and-air-france-refuse-to-fly-over-the-sinai-peninsula-until-the-cause-of-the-crash-is-known.md)
@@ -29,7 +29,7 @@ _Context: Colectiv nightclub fire_
 
 ##### Myanmar
 ### [At least eight people are dead and 70 missing following the sinking of a ferry on Myanmar's Chindwin River in the northwestern Sagaing Region, ](/news/2015/11/1/at-least-eight-people-are-dead-and-70-missing-following-the-sinking-of-a-ferry-on-myanmar-s-chindwin-river-in-the-northwestern-sagaing-regio.md)
-_Context: Chindwin River, Sagaing Region, Myanmar_
+_Context: Myanmar, Sagaing Region, Chindwin River_
 
 ##### Trilateral summit
 ### [The leaders of the People's Republic of China, South Korea and Japan hold their first summit in three years. ](/news/2015/11/1/the-leaders-of-the-people-s-republic-of-china-south-korea-and-japan-hold-their-first-summit-in-three-years.md)
@@ -57,7 +57,7 @@ DHAKA (AFP) - Protesters rallied in the Bangladesh capital on Sunday (Nov 1) ove
 
 ##### Smart Sheriff
 ### ["Smart Sheriff", the most widely used child surveillance mobile app in South Korea, is pulled from the market after specialists raised serious concerns about the program's safety. Security experts say its programming left the door wide open to hackers and put the personal information of some 380,000 users at risk. The country's April 2015 law requires all new smartphones sold to those 18 and under have software parents can use to monitor their kids' social media activity. ](/news/2015/11/1/smart-sheriff-the-most-widely-used-child-surveillance-mobile-app-in-south-korea-is-pulled-from-the-market-after-specialists-raised-serio.md)
-_Context: social media, South Korea, Smart Sheriff, personal information, hackers, child surveillance, mobile app, Security experts, smartphone_
+_Context: Security experts, hackers, mobile app, smartphone, social media, Smart Sheriff, child surveillance, personal information, South Korea_
 
 ## [Previous Day...](/news/2015/10/31/index.md)
 

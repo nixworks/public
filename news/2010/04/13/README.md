@@ -5,7 +5,7 @@ Formats: [HTML](2010/04/13/index.html)  [JSON](2010/04/13/index.json)  [XML](201
 
 ##### U.S. President
 ### [President of the United States Barack Obama opening the biggest international meeting hosted by the US since 1945, greets leaders from nearly 50 countries. World leaders at the summit hear dire warnings of the danger of nuclear material falling into the wrong hands. ](/news/2010/04/13/president-of-the-united-states-barack-obama-opening-the-biggest-international-meeting-hosted-by-the-us-since-1945-greets-leaders-from-nearl.md)
-_Context: United States, U.S. President, Barack Obama_
+_Context: United States, Barack Obama, U.S. President_
 
 ##### Qinghai
 ### [A magnitude 6.9 earthquake strikes southeastern Qinghai, China, near the Yangtze River. There were no immediate reports of casualties. ](/news/2010/04/13/a-magnitude-6-9-earthquake-strikes-southeastern-qinghai-china-near-the-yangtze-river-there-were-no-immediate-reports-of-casualties.md)
@@ -13,7 +13,7 @@ _Context: Qinghai, Yangtze River, Chinese_
 
 ##### Cobalt-60
 ### [A bar of radioactive cobalt-60 found in a New Dehli market causes life-threatening radiation sickness in one person and contingency measures from the authorities. ](/news/2010/04/13/a-bar-of-radioactive-cobalt-60-found-in-a-new-dehli-market-causes-life-threatening-radiation-sickness-in-one-person-and-contingency-measures.md)
-_Context: New Dehli, radiation sickness, cobalt-60_
+_Context: New Dehli, cobalt-60, radiation sickness_
 
 ##### Kyrgyzstan
 ### [Kyrgyzstan's ousted president Kurmanbek Bakiyev says he will resign if the interim government guarantees his family's safety. ](/news/2010/04/13/kyrgyzstan-s-ousted-president-kurmanbek-bakiyev-says-he-will-resign-if-the-interim-government-guarantees-his-family-s-safety.md)
@@ -21,7 +21,7 @@ Kyrgyzstan&#039;s ousted president Kurmanbek Bakiyev has said he will resign if 
 
 ##### Glacier
 ### [A huge glacier breaks off and plunges into a lake in Peru sparking a 23-metre high tsunami wave that destroyed a nearby town. The massive chunk of ice - around the size of four football pitches - tumbled into the '513 lake' in the Andes near Carhuaz, around 200 miles north of Lima. ](/news/2010/04/13/a-huge-glacier-breaks-off-and-plunges-into-a-lake-in-peru-sparking-a-23-metre-high-tsunami-wave-that-destroyed-a-nearby-town-the-massive-ch.md)
-_Context: glacier, Andes, Peru, tsunami_
+_Context: Andes, glacier, Peru, tsunami_
 
 ##### Israel
 ### [Israel tells all of its citizens visiting the Sinai Peninsula to leave immediately after Israeli intelligence warns that a terror cell may be planning to kidnap an Israeli national and bring him to Gaza. ](/news/2010/04/13/israel-tells-all-of-its-citizens-visiting-the-sinai-peninsula-to-leave-immediately-after-israeli-intelligence-warns-that-a-terror-cell-may-b.md)
@@ -33,19 +33,19 @@ _Context: Israel, Hamas_
 
 ##### Lebanese
 ### [A group of Lebanese politicians play a match of association football to commemorate the 35th anniversary of the Lebanese Civil War. ](/news/2010/04/13/a-group-of-lebanese-politicians-play-a-match-of-association-football-to-commemorate-the-35th-anniversary-of-the-lebanese-civil-war.md)
-_Context: association football, Lebanese, Lebanese Civil War_
+_Context: Lebanese Civil War, association football, Lebanese_
 
 ##### Poland
 ### [The body of Poland's First Lady, Maria Kaczynska, is flown to Warsaw to lie in state alongside that of her husband, President Lech Kaczynski. Poland has seen an outpouring of grief since the couple and scores of other senior Polish officials died in a plane crash in western Russia on Saturday. ](/news/2010/04/13/the-body-of-poland-s-first-lady-maria-kaczyaska-is-flown-to-warsaw-to-lie-in-state-alongside-that-of-her-husband-president-lech-kaczyas.md)
-_Context: Warsaw, Lech Kaczynski, Poland, Russia, Maria Kaczynska, 2010 Polish Air Force Tu-154 crash_
+_Context: Maria Kaczynska, Poland, Lech Kaczynski, Warsaw, 2010 Polish Air Force Tu-154 crash, Russia_
 
 ##### First Lady
 ### [The First Lady of the United States, Michelle Obama, makes an unannounced visit to Haiti. It is her first official trip overseas without US President Barack Obama since he took office last year. ](/news/2010/04/13/the-first-lady-of-the-united-states-michelle-obama-makes-an-unannounced-visit-to-haiti-it-is-her-first-official-trip-overseas-without-us.md)
-_Context: First Lady, Michelle Obama, Barack Obama, Haiti_
+_Context: Haiti, Michelle Obama, Barack Obama, First Lady_
 
 ##### Isabela City
 ### [11 people are killed in Isabela City, Philippines, after 25 suspected members of the Abu Sayyaf extremist group clash with security forces. ](/news/2010/04/13/11-people-are-killed-in-isabela-city-philippines-after-25-suspected-members-of-the-abu-sayyaf-extremist-group-clash-with-security-forces.md)
-_Context: Isabela City, Philippines, Abu Sayyaf_
+_Context: Isabela City, Abu Sayyaf, Philippines_
 
 ##### Pakistan
 ### [At least 73 civilians were killed when an army jet bombed a remote village in Pakistan's tribal region of Khyber, a local official has told the BBC. ](/news/2010/04/13/at-least-73-civilians-were-killed-when-an-army-jet-bombed-a-remote-village-in-pakistan-s-tribal-region-of-khyber-a-local-official-has-told.md)
@@ -53,15 +53,15 @@ _Context: Pakistan_
 
 ##### Conservative Party
 ### [Conservative leader David Cameron launches his party's election manifesto, which he says is a "plan to change Britain for the better". He said the "optimistic" plan would bring a "new kind of government" with less state and more "people power". ](/news/2010/04/13/conservative-leader-david-cameron-launches-his-party-s-election-manifesto-which-he-says-is-a-plan-to-change-britain-for-the-better-he-sa.md)
-_Context: David Cameron, Conservative Party, United Kingdom, 2010 general election_
+_Context: David Cameron, 2010 general election, Conservative Party, United Kingdom_
 
 ##### Boeing 737-300
 ### [All 103 passengers and crew escape alive after a Boeing 737-300 overruns the runway at Rendani Airport, Manokwari, Indonesia. ](/news/2010/04/13/all-103-passengers-and-crew-escape-alive-after-a-boeing-737-300-overruns-the-runway-at-rendani-airport-manokwari-indonesia.md)
-_Context: Indonesia, Boeing 737-300, overruns the runway, Rendani Airport, Manokwari_
+_Context: Manokwari, Indonesia, Rendani Airport, Boeing 737-300, overruns the runway_
 
 ##### Boeing 767
 ### [An American Boeing 767 passenger jet makes an emergency landing in Iceland after reports of chemical fumes in the cabin. A spokesman for Keflavik airport outside Reykjavik says several crew members on the American Airlines flight had complained of dizziness. ](/news/2010/04/13/an-american-boeing-767-passenger-jet-makes-an-emergency-landing-in-iceland-after-reports-of-chemical-fumes-in-the-cabin-a-spokesman-for-kef.md)
-_Context: Iceland, Boeing 767, American Airlines, Reykjavik_
+_Context: American Airlines, Reykjavik, Iceland, Boeing 767_
 
 ##### Japan
 ### [Japanese car maker Toyota faces further safety concerns after Consumer Reports issues a recommendation not to buy the Lexus GX 460 four-wheel drive because of fears that the car could roll over. ](/news/2010/04/13/japanese-car-maker-toyota-faces-further-safety-concerns-after-consumer-reports-issues-a-recommendation-not-to-buy-the-lexus-gx-460-four-whee.md)
@@ -69,7 +69,7 @@ _Context: Japan, Consumer Reports_
 
 ##### Australia
 ### [The Australian authorities say a Chinese bulk carrier which ran aground off Queensland has caused widespread damage to the famed Great Barrier Reef. The cleanup is likely to be the biggest operation ever undertaken there. ](/news/2010/04/13/the-australian-authorities-say-a-chinese-bulk-carrier-which-ran-aground-off-queensland-has-caused-widespread-damage-to-the-famed-great-barri.md)
-_Context: Australia, Great Barrier Reef, Queensland, Chinese_
+_Context: Australia, Chinese, Great Barrier Reef, Queensland_
 
 ##### 
 ### [A mentally ill man goes on a stabbing rampage outside a primary school in southern China, killing two and wounding five. ](/news/2010/04/13/a-mentally-ill-man-goes-on-a-stabbing-rampage-outside-a-primary-school-in-southern-china-killing-two-and-wounding-five.md)

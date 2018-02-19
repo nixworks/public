@@ -5,27 +5,27 @@ Formats: [HTML](2008/07/11/index.html)  [JSON](2008/07/11/index.json)  [XML](200
 
 ##### Chinese
 ### [ Chinese restaurants in Beijing are told not to serve dog meat during 2008 Summer Olympics, but can continue to serve Donkey meat ](/news/2008/07/11/chinese-restaurants-in-beijing-are-told-not-to-serve-dog-meat-during-2008-summer-olympics-but-can-continue-to-serve-donkey-meat.md)
-_Context: Beijing, Donkey meat, 2008 Summer Olympics, dog meat, Chinese, restaurants_
+_Context: Beijing, Donkey meat, Chinese, restaurants, dog meat, 2008 Summer Olympics_
 
 ##### Brussels
 ### [ At a donors' conference in Brussels, 1.2 billion euros (1.9 billion U.S. dollars) are pledged to Kosovo's socio-economic development. ](/news/2008/07/11/at-a-donors-conference-in-brussels-1-2-billion-euros-1-9-billion-u-s-dollars-are-pledged-to-kosovo-s-socio-economic-development.md)
-_Context: euro, U.S. dollar, Kosovo, Brussels_
+_Context: Kosovo, U.S. dollar, Brussels, euro_
 
 ##### United States government
 ### [ The U.S. federal government's Office of Thrift Supervision closes down the IndyMac Bank, the largest savings and loan bank in the Los Angeles area, after determining that it is unlikely to be able to meet depositors' demands. ](/news/2008/07/11/the-u-s-federal-government-s-office-of-thrift-supervision-closes-down-the-indymac-bank-the-largest-savings-and-loan-bank-in-the-los-angel.md)
-_Context: IndyMac Bank, savings and loan, Los Angeles, Office of Thrift Supervision, United States government_
+_Context: Office of Thrift Supervision, IndyMac Bank, United States government, savings and loan, Los Angeles_
 
 ##### Wildfires
 ### [ Wildfires force 10,000 Californians to evacuate their houses in the foothills of the Sierra Nevada, with one man dying in Butte County after refusing to evacuate. ](/news/2008/07/11/wildfires-force-10-000-californians-to-evacuate-their-houses-in-the-foothills-of-the-sierra-nevada-with-one-man-dying-in-butte-county-afte.md)
-_Context: Sierra Nevada, foothill, Butte County, Wildfires, California_
+_Context: Sierra Nevada, foothill, Butte County, California, Wildfires_
 
 ##### Prime Minister of Lebanon
 ### [ The Prime Minister of Lebanon Fuad Siniora forms a 30-member national government. ](/news/2008/07/11/the-prime-minister-of-lebanon-fuad-siniora-forms-a-30-member-national-government.md)
-_Context: Fuad Siniora, national government, Prime Minister of Lebanon_
+_Context: Prime Minister of Lebanon, national government, Fuad Siniora_
 
 ##### South Korean President
 ### [ The President of South Korea Lee Myung-bak proposes resumption of stalled summit talks with North Korea. ](/news/2008/07/11/the-president-of-south-korea-lee-myung-bak-proposes-resumption-of-stalled-summit-talks-with-north-korea.md)
-_Context: South Korean President, North Korea, Lee Myung-bak_
+_Context: Lee Myung-bak, North Korea, South Korean President_
 
 ##### Coral reef
 ### [ The first global study of coral reefs finds that one-third of coral-building species face extinction. ](/news/2008/07/11/the-first-global-study-of-coral-reefs-finds-that-one-third-of-coral-building-species-face-extinction.md)

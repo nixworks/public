@@ -25,11 +25,11 @@ Demonstrators have smashed shop windows and set fire to cars in central Geneva d
 
 ##### Ferry
 ### [ At least 73 people die as a ferry sinks in Lake Mai-Ndombe in the Democratic Republic of the Congo. ](/news/2009/11/28/at-least-73-people-die-as-a-ferry-sinks-in-lake-mai-ndombe-in-the-democratic-republic-of-the-congo.md)
-_Context: DR Congo, Lake Mai-Ndombe, ferry_
+_Context: DR Congo, ferry, Lake Mai-Ndombe_
 
 ##### Pakistan
 ### [ Pakistan's National Reconciliation Ordinance, issued by former President Pervez Musharraf in October 2007 to provide several thousand politicians (including current President Asif Ali Zardari) amnesty from charges of political corruption, expires. ](/news/2009/11/28/pakistan-s-national-reconciliation-ordinance-issued-by-former-president-pervez-musharraf-in-october-2007-to-provide-several-thousand-polit.md)
-_Context: president, Pakistan, amnesty protecting him, amnesty, Pervez Musharraf, corruption, Asif Ali Zardari_
+_Context: Asif Ali Zardari, amnesty protecting him, amnesty, president, corruption, Pervez Musharraf, Pakistan_
 
 ##### Russia
 ### [ Russia's prosecutor general opens a criminal case into the 2009 Nevsky Express bombing which killed at least 26 people yesterday. ](/news/2009/11/28/russia-s-prosecutor-general-opens-a-criminal-case-into-the-2009-nevsky-express-bombing-which-killed-at-least-26-people-yesterday.md)
@@ -37,15 +37,15 @@ _Context: the bomb attack, Russia_
 
 ##### Zimbabwe
 ### [ Three people are killed and four injured after a Zimbabwean cargo plane catches fire at Shanghai Pudong International Airport. ](/news/2009/11/28/three-people-are-killed-and-four-injured-after-a-zimbabwean-cargo-plane-catches-fire-at-shanghai-pudong-international-airport.md)
-_Context: Shanghai Pudong International Airport, Zimbabwe_
+_Context: Zimbabwe, Shanghai Pudong International Airport_
 
 ##### Japan
 ### [ Japan launches its fifth spy satellite on the H-IIA rocket from the Tanegashima Space Center. ](/news/2009/11/28/japan-launches-its-fifth-spy-satellite-on-the-h-iia-rocket-from-the-tanegashima-space-center.md)
-_Context: spy satellite, Tanegashima Space Center, Japan, H-IIA_
+_Context: spy satellite, Japan, Tanegashima Space Center, H-IIA_
 
 ##### Elections last week
 ### [ A second day of voting in national and presidential elections in Namibia takes place. ](/news/2009/11/28/a-second-day-of-voting-in-national-and-presidential-elections-in-namibia-takes-place.md)
-_Context: elections last week, Namibia_
+_Context: Namibia, elections last week_
 
 ## [Previous Day...](/news/2009/11/27/index.md)
 

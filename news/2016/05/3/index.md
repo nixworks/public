@@ -17,7 +17,7 @@ Researchers say they believe they have located the wreckage of the Endeavour, th
 
 ##### Azerbaijan
 ### [Imprisoned Azerbaijani journalist Khadija Ismayilova is announced as the winner of the UNESCO-Guillermo Cano World Press Freedom Prize for 2016 for "her outstanding contribution to press freedom in difficult circumstances." ](/news/2016/05/3/imprisoned-azerbaijani-journalist-khadija-ismayilova-is-announced-as-the-winner-of-the-unesco-guillermo-cano-world-press-freedom-prize-for-2.md)
-_Context: Azerbaijan, UNESCO/Guillermo Cano World Press Freedom Prize, Khadija Ismayilova_
+_Context: UNESCO/Guillermo Cano World Press Freedom Prize, Khadija Ismayilova, Azerbaijan_
 
 ##### Philippine presidential election, 2016
 ### [The Philippine financial market continues to suffer amid speculation that Rodrigo Duterte may win the upcoming election. ](/news/2016/05/3/the-philippine-financial-market-continues-to-suffer-amid-speculation-that-rodrigo-duterte-may-win-the-upcoming-election.md)
@@ -33,11 +33,11 @@ The single-engine aircraft, which took off from Myrtle Beach, S.C., was headed t
 
 ##### Iglesia ni Cristo
 ### [The sect Iglesia ni Cristo is suing supporters of Rodrigo Duterte for spreading a fake endorsement by the denomination. ](/news/2016/05/3/the-sect-iglesia-ni-cristo-is-suing-supporters-of-rodrigo-duterte-for-spreading-a-fake-endorsement-by-the-denomination.md)
-_Context: Rodrigo Duterte, Iglesia ni Cristo_
+_Context: Iglesia ni Cristo, Rodrigo Duterte_
 
 ##### Russia-Spain relations
 ### [A Spanish judge issues an arrest warrant for various individuals with links to organized crime from Russia. The list also includes former and current officials of the Russian government with close links to Russian President Vladimir Putin. Prominent officials include former Defense Minister Anatoliy Serdyukov and former Prime Minister Viktor Zubkov. The charges range from money laundering to assassination. ](/news/2016/05/3/a-spanish-judge-issues-an-arrest-warrant-for-various-individuals-with-links-to-organized-crime-from-russia-the-list-also-includes-former-an.md)
-_Context: Prime Minister of Russia, assassinated, Defense Minister, organized crime from Russia, money laundering, Spain, Vladimir Putin, Viktor Zubkov, Russia-Spain relations, Russian President, Anatoliy Serdyukov, Russia_
+_Context: assassinated, Russia-Spain relations, Prime Minister of Russia, Vladimir Putin, Defense Minister, Russian President, Anatoliy Serdyukov, Spain, organized crime from Russia, Russia, Viktor Zubkov, money laundering_
 
 ##### Papua conflict
 ### [According to reports, the Indonesian police arrest close to 1,700 people in Papua and West Papua who were involved in attempted protests yesterday. ](/news/2016/05/3/according-to-reports-the-indonesian-police-arrest-close-to-1-700-people-in-papua-and-west-papua-who-were-involved-in-attempted-protests-yes.md)

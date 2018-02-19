@@ -17,7 +17,7 @@ The Vatican clarifies comments by Pope Benedict XVI on condoms, saying he did no
 
 ##### Buckingham Palace
 ### [Buckingham Palace announces the engagement of the Queen's granddaughter Zara Phillips and Rugby Union player Mike Tindall. ](/news/2010/12/21/buckingham-palace-announces-the-engagement-of-the-queen-s-granddaughter-zara-phillips-and-rugby-union-player-mike-tindall.md)
-_Context: Zara Phillips, Buckingham Palace, Mike Tindall, Queen Elizabeth, Rugby Union_
+_Context: Buckingham Palace, Rugby Union, Queen Elizabeth, Mike Tindall, Zara Phillips_
 
 ##### Toyota
 ### [Toyota agrees to pay the US government $32.4 million over its handling of car recalls in 2010 where over 10 million cars were recalled worldwide, over 14 separate recalls. ](/news/2010/12/21/toyota-agrees-to-pay-the-us-government-32-4-million-over-its-handling-of-car-recalls-in-2010-where-over-10-million-cars-were-recalled-world.md)
@@ -33,7 +33,7 @@ _Context: Iran_
 
 ##### Fatah
 ### [Top Fatah members aligned with Palestinian Authority President Mahmoud Abbas asked Israel to attack Hamas ahead of Hamas' violent takeover of the Gaza Strip in 2007, according to a US diplomatic cable published by Wikileaks. ](/news/2010/12/21/top-fatah-members-aligned-with-palestinian-authority-president-mahmoud-abbas-asked-israel-to-attack-hamas-ahead-of-hamasa-violent-takeover.md)
-_Context: Mahmoud Abbas, Palestinian Authority, seized control of the territory, Fatah, Wikileaks, Hamas, Israel_
+_Context: Wikileaks, Israel, seized control of the territory, Hamas, Palestinian Authority, Mahmoud Abbas, Fatah_
 
 ##### Politics of Turkey
 ### [The Turkish government warns US President Barack Obama that a congressional vote on a resolution recognizing the Armenian genocide during World War I will severely damage Turkey-United States relations. ](/news/2010/12/21/the-turkish-government-warns-us-president-barack-obama-that-a-congressional-vote-on-a-resolution-recognizing-the-armenian-genocide-during-wo.md)
@@ -65,19 +65,19 @@ A university student, who referred to himself in court as the &quot;Crossbow Can
 
 ##### Tuvalu
 ### [Tuvalu Prime Minister Maatia Toafa is ousted in a vote of no confidence, necessitating nominations for a new Prime Minister. ](/news/2010/12/21/tuvalu-prime-minister-maatia-toafa-is-ousted-in-a-vote-of-no-confidence-necessitating-nominations-for-a-new-prime-minister.md)
-_Context: Prime Minister of Tuvalu, Maatia Toafa, Tuvalu, vote of no confidence_
+_Context: vote of no confidence, Tuvalu, Maatia Toafa, Prime Minister of Tuvalu_
 
 ##### Milo Dukanovic
 ### [Milo Dukanovic resigns as Prime Minister of Montenegro. ](/news/2010/12/21/milo-aukanovia-resigns-as-prime-minister-of-montenegro.md)
-_Context: Prime Minister, Montenegro, Milo Dukanovic_
+_Context: Milo Dukanovic, Montenegro, Prime Minister_
 
 ##### Siale'ataonga Tu'ivakano
 ### [Siale'ataonga Tu'ivakano is elected as the Prime Minister of Tonga. ](/news/2010/12/21/siale-ataonga-tu-ivakano-is-elected-as-the-prime-minister-of-tonga.md)
-_Context: Siale'ataonga Tu'ivakano, Prime Minister of Tonga_
+_Context: Prime Minister of Tonga, Siale'ataonga Tu'ivakano_
 
 ##### 2010 Census
 ### [The United States Census Bureau releases the first data from the 2010 Census, revealing the United States to have a population of 308,745,538 on April 1, 2010. ](/news/2010/12/21/the-united-states-census-bureau-releases-the-first-data-from-the-2010-census-revealing-the-united-states-to-have-a-population-of-308-745-53.md)
-_Context: 2010 Census, US Census Bureau headquarters, United States_
+_Context: 2010 Census, United States, US Census Bureau headquarters_
 
 ##### Lunar eclipse
 ### [A total lunar eclipse will take place on December 20-21, 2010. ](/news/2010/12/21/a-total-lunar-eclipse-will-take-place-on-december-20-21-2010.md)

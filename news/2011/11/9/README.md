@@ -21,7 +21,7 @@ Taylor took entertainer of the year. Jason Aldean and The Band Perry won multipl
 
 ##### Italy
 ### [Italy's cost of borrowing reaches a record high, with interest rates on 10-year loans rising to 7%, as fears grow of an escalating economic crisis. ](/news/2011/11/9/italy-s-cost-of-borrowing-reaches-a-record-high-with-interest-rates-on-10-year-loans-rising-to-7-as-fears-grow-of-an-escalating-economic.md)
-_Context: escalating economic crisis, interest rate, Italy_
+_Context: interest rate, Italy, escalating economic crisis_
 
 ##### Thailand
 ### [The death toll from the ongoing flooding in Thailand reaches 529. ](/news/2011/11/9/the-death-toll-from-the-ongoing-flooding-in-thailand-reaches-529.md)
@@ -49,7 +49,7 @@ Thousands of head teachers in England and Wales have voted in favour of strike a
 
 ##### San Francisco, California
 ### [Voters in San Francisco, California, elect Ed Lee as the city's interim Mayor. Lee is the first Asian-American to become Mayor of San Francisco. ](/news/2011/11/9/voters-in-san-francisco-california-elect-ed-lee-as-the-city-s-interim-mayor-lee-is-the-first-asian-american-to-become-mayor-of-san-franci.md)
-_Context: Mayor of San Francisco, Asian-American, San Francisco, California, Ed Lee, California_
+_Context: Ed Lee, San Francisco, California, Asian-American, California, Mayor of San Francisco_
 
 ##### Russia
 ### [Russia's Fobos-Grunt mission to the Martian moon of Phobos runs into problems shortly after its launch, with no telemetry reported from the spacecraft. ](/news/2011/11/9/russia-s-fobos-grunt-mission-to-the-martian-moon-of-phobos-runs-into-problems-shortly-after-its-launch-with-no-telemetry-reported-from-the.md)

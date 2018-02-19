@@ -5,19 +5,19 @@ Formats: [HTML](2009/01/2/index.html)  [JSON](2009/01/2/index.json)  [XML](2009/
 
 ##### Sweden
 ### [ A Swedish charter aircraft carrying 150 passengers touches down at Baghdad International Airport, becoming the first European commercial flight to land there since 1990. ](/news/2009/01/2/a-swedish-charter-aircraft-carrying-150-passengers-touches-down-at-baghdad-international-airport-becoming-the-first-european-commercial-fl.md)
-_Context: commercial flight, Baghdad International Airport, Sweden, charter aircraft, Europe_
+_Context: Sweden, Baghdad International Airport, charter aircraft, Europe, commercial flight_
 
 ##### 2008 SLA Northern offensive
 ### [ 2008 SLA Northern offensive: The Sri Lankan Army captures the Tamil Tigers' "de facto" capital of Kilinochchi. ](/news/2009/01/2/2008-sla-northern-offensive-the-sri-lankan-army-captures-the-tamil-tigers-de-facto-capital-of-kilinochchi.md)
-_Context: 2008 SLA Northern offensive, captures, LTTE, Army, Kilinochchi, Sri Lanka_
+_Context: Army, LTTE, captures, Sri Lanka, Kilinochchi, 2008 SLA Northern offensive_
 
 ##### Ethiopia
 ### [ Ethiopia withdraws its military forces from Somalia after two years of helping the Transitional Federal Government combat insurgents. ](/news/2009/01/2/ethiopia-withdraws-its-military-forces-from-somalia-after-two-years-of-helping-the-transitional-federal-government-combat-insurgents.md)
-_Context: Somalia, Ethiopia, insurgents, Ethiopian Army, two years of helping, Transitional Federal Government_
+_Context: Transitional Federal Government, Ethiopian Army, Somalia, insurgents, Ethiopia, two years of helping_
 
 ##### Luis Fortuno
 ### [ Luis Fortuno is sworn in as Governor of Puerto Rico. ](/news/2009/01/2/luis-fortua-o-is-sworn-in-as-governor-of-puerto-rico.md)
-_Context: Puerto Rico, Luis Fortuno, Puerto Rico Governor_
+_Context: Puerto Rico, Puerto Rico Governor, Luis Fortuno_
 
 ##### Gertrude Baines
 ### [ Gertrude Baines succeeds Maria de Jesus, who died in her home in Portugal at age 115, as the world's oldest person. ](/news/2009/01/2/gertrude-baines-succeeds-maria-de-jesus-who-died-in-her-home-in-portugal-at-age-115-as-the-world-s-oldest-person.md)

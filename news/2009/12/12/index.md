@@ -17,7 +17,7 @@ _Context: North Korea, Thailand_
 
 ##### Cuba
 ### [ The leaders of Cuba and Venezuela sign over US$3.2 billion worth of trade and cooperation agreements. ](/news/2009/12/12/the-leaders-of-cuba-and-venezuela-sign-over-us-3-2-billion-worth-of-trade-and-cooperation-agreements.md)
-_Context: Cuba, Venezuela_
+_Context: Venezuela, Cuba_
 
 #####  Georgian
 ### [ The Georgian breakaway region of Abkhazia holds its first presidential elections. ](/news/2009/12/12/the-georgian-breakaway-region-of-abkhazia-holds-its-first-presidential-elections.md)
@@ -25,7 +25,7 @@ Five candidates including incumbent in race for top post in rebel Georgian regio
 
 ##### Philippines
 ### [ President of the Philippines Gloria Arroyo lifts martial law in Maguindanao in the south of the country, where 57 people were killed in political violence there last month. ](/news/2009/12/12/president-of-the-philippines-gloria-arroyo-lifts-martial-law-in-maguindanao-in-the-south-of-the-country-where-57-people-were-killed-in-pol.md)
-_Context: martial law, Maguindanao, Philippines, Maguindanao massacre, Gloria Arroyo_
+_Context: Gloria Arroyo, Maguindanao massacre, Philippines, Maguindanao, martial law_
 
 ##### Golf
 ### [ Golfer Tiger Woods announces he is taking an indefinite break from the sport after a scandal over his infidelity in order to focus on "being a better husband, father, and person". ](/news/2009/12/12/golfer-tiger-woods-announces-he-is-taking-an-indefinite-break-from-the-sport-after-a-scandal-over-his-infidelity-in-order-to-focus-on-bein.md)
@@ -33,7 +33,7 @@ Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, c
 
 ##### United States
 ### [ The U.S. Central Intelligence Agency has cancelled the contract of its private security firm with Xe Services LLC, previously known as Blackwater, for its services related to Drone operations in Afghanistan and Pakistan. ](/news/2009/12/12/the-u-s-central-intelligence-agency-has-cancelled-the-contract-of-its-private-security-firm-with-xe-services-llc-previously-known-as-blac.md)
-_Context: drones launch, Blackwater Worldwide, CIA, United States_
+_Context: United States, drones launch, CIA, Blackwater Worldwide_
 
 ## [Previous Day...](/news/2009/12/11/index.md)
 

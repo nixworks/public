@@ -9,11 +9,11 @@ US presidential rivals John McCain and Barack Obama have gone head-to-head in th
 
 ##### 2008 Chinese Milk Scandal
 ### [ 2008 Chinese Milk Scandal: Japan and Hong Kong detect melamine in Chinese food products including breakfast cereals and crackers. ](/news/2008/09/26/2008-chinese-milk-scandal-japan-and-hong-kong-detect-melamine-in-chinese-food-products-including-breakfast-cereals-and-crackers.md)
-_Context: China, breakfast cereal, 2008 Chinese Milk Scandal, melamine, cracker, Japan, Hong Kong_
+_Context: 2008 Chinese Milk Scandal, Japan, cracker, Hong Kong, breakfast cereal, China, melamine_
 
 ##### German
 ### [ German commandos storm a KLM airliner at Cologne-Bonn Airport and arrest two men suspected of planning to carry out a terrorist attack. ](/news/2008/09/26/german-commandos-storm-a-klm-airliner-at-cologne-bonn-airport-and-arrest-two-men-suspected-of-planning-to-carry-out-a-terrorist-attack.md)
-_Context: Cologne-Bonn Airport, airliner, German, terrorism, commando, KLM_
+_Context: terrorism, German, Cologne-Bonn Airport, airliner, KLM, commando_
 
 ##### FDIC
 ### [ In the biggest bank failure in American history, the Federal Deposit Insurance Corporation seizes Washington Mutual and sells most of the bank to JPMorgan Chase. ](/news/2008/09/26/in-the-biggest-bank-failure-in-american-history-the-federal-deposit-insurance-corporation-seizes-washington-mutual-and-sells-most-of-the-b.md)

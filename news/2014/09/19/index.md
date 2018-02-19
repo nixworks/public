@@ -5,11 +5,11 @@ Formats: [HTML](2014/09/19/index.html)  [JSON](2014/09/19/index.json)  [XML](201
 
 ##### Tropical Storm Fung-wong
 ### [Manila is inundated by massive flooding causing flights to the international airport to be cancelled and businesses to shut down. ](/news/2014/09/19/manila-is-inundated-by-massive-flooding-causing-flights-to-the-international-airport-to-be-cancelled-and-businesses-to-shut-down.md)
-_Context: Tropical Storm Fung-wong, Ninoy Aquino International Airport, Manila_
+_Context: Tropical Storm Fung-wong, Manila, Ninoy Aquino International Airport_
 
 ##### Luzon
 ### [Between 20,000 to 30,000 people are evacuated in Luzon as the Philippine volcano Mayon spews lava. ](/news/2014/09/19/between-20-000-to-30-000-people-are-evacuated-in-luzon-as-the-philippine-volcano-mayon-spews-lava.md)
-_Context: lava, Mayon Volcano, Philippines, Luzon_
+_Context: Luzon, Mayon Volcano, lava, Philippines_
 
 ##### Indonesia
 ### [Indonesia's Mount Slamet erupts.](/news/2014/09/19/indonesia-s-mount-slamet-erupts.md)
@@ -37,7 +37,7 @@ Joining U.S. forces acting in Iraqi skies, France conducted its first airstrike 
 
 ##### 2014 West African ebola outbreak
 ### [Sierra Leone begins a nationwide lockdown in order to slow the spread of the disease. ](/news/2014/09/19/sierra-leone-begins-a-nationwide-lockdown-in-order-to-slow-the-spread-of-the-disease.md)
-_Context: Sierra Leone, 2014 West African ebola outbreak_
+_Context: 2014 West African ebola outbreak, Sierra Leone_
 
 ##### Japan
 ### [Japan vows to continue its whaling program despite passage of an anti-whaling vote in the International Whaling Commission. ](/news/2014/09/19/japan-vows-to-continue-its-whaling-program-despite-passage-of-an-anti-whaling-vote-in-the-international-whaling-commission.md)
@@ -53,7 +53,7 @@ Turnout in the referendum on Scottish independence hit a record high for any ele
 
 ##### Slovenia
 ### [Slovenia's 12th government is sworn in with Miro Cerar as the new prime minister. ](/news/2014/09/19/slovenia-s-12th-government-is-sworn-in-with-miro-cerar-as-the-new-prime-minister.md)
-_Context: Slovenia, Miro Cerar_
+_Context: Miro Cerar, Slovenia_
 
 ##### Poland
 ### [Poland's new prime minister, Ewa Kopacz, presents her government; Grzegorz Schetyna becomes new foreign minister, while the outgoing FM Radoslaw Sikorski becomes speaker of the parliament. ](/news/2014/09/19/poland-s-new-prime-minister-ewa-kopacz-presents-her-government-grzegorz-schetyna-becomes-new-foreign-minister-while-the-outgoing-fm-rado.md)

@@ -13,7 +13,7 @@ Fifteen militants were killed in the Sinai Peninsula by rocket fire, Egyptian st
 
 ##### Microsoft
 ### [Microsoft purchases Nokia's mobile device division for $7.2 billion. ](/news/2013/09/3/microsoft-purchases-nokia-s-mobile-device-division-for-7-2-billion.md)
-_Context: Microsoft, United States dollars, Nokia_
+_Context: United States dollars, Microsoft, Nokia_
 
 ##### Cleveland, Ohio kidnapper
 ### [Ariel Castro, the Cleveland, Ohio kidnapper, hangs himself in his prison cell. ](/news/2013/09/3/ariel-castro-the-cleveland-ohio-kidnapper-hangs-himself-in-his-prison-cell.md)

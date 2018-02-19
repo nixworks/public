@@ -13,7 +13,7 @@ News - Your daily dose of information: European and International latest breakin
 
 ##### Mubi
 ### [A roadside bomb planted at a bus station near the town of Mubi in northeastern Nigeria kills 40, including 5 soldiers. ](/news/2014/11/27/a-roadside-bomb-planted-at-a-bus-station-near-the-town-of-mubi-in-northeastern-nigeria-kills-40-including-5-soldiers.md)
-_Context: Nigeria, Mubi_
+_Context: Mubi, Nigeria_
 
 ##### Greece
 ### [Greek labor unions begin a general strike to protest ongoing government austerity measures shuting down public medical, educational, and transportational services. ](/news/2014/11/27/greek-labor-unions-begin-a-general-strike-to-protest-ongoing-government-austerity-measures-shuting-down-public-medical-educational-and-tra.md)
@@ -37,7 +37,7 @@ _Context: Hong Kong Police Force, Mong Kok_
 
 ##### Moldovan parliamentary election, 2014
 ### [the Election commission bans the new pro-Russian party Homeland from competing in the elections because of financial support from abroad. ](/news/2014/11/27/the-election-commission-bans-the-new-pro-russian-party-homeland-from-competing-in-the-elections-because-of-financial-support-from-abroad.md)
-_Context: Homeland, Moldovan parliamentary election, 2014, Election commission_
+_Context: Moldovan parliamentary election, 2014, Election commission, Homeland_
 
 ##### Parliament
 ### [The Parliament of Ukraine meets for the first time since recent elections with Arseniy Yatsenyuk expected to be confirmed as Prime Minister. ](/news/2014/11/27/the-parliament-of-ukraine-meets-for-the-first-time-since-recent-elections-with-arseniy-yatsenyuk-expected-to-be-confirmed-as-prime-minister.md)
@@ -49,7 +49,7 @@ The Scottish Parliament should have the power to set income tax rates and bands,
 
 ##### North Korea
 ### [North Korean leader Kim Jong-Un appoints his sister, Kim Yo Jong, to a high government position. ](/news/2014/11/27/north-korean-leader-kim-jong-un-appoints-his-sister-kim-yo-jong-to-a-high-government-position.md)
-_Context: North Korea, Kim Jong-Un_
+_Context: Kim Jong-Un, North Korea_
 
 ##### Tongans vote out
 ### [Tongans vote out half of the incumbents in the Legislative Assembly. ](/news/2014/11/27/tongans-vote-out-half-of-the-incumbents-in-the-legislative-assembly.md)

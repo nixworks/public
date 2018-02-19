@@ -45,7 +45,7 @@ _Context: Tanzania ferry disaster_
 
 ##### Japan
 ### [A subcontractor at Japan's crippled Fukushima nuclear plant reportedly told workers to lie about possible high radiation exposure in an apparent effort to keep its contract. ](/news/2012/07/21/a-subcontractor-at-japan-s-crippled-fukushima-nuclear-plant-reportedly-told-workers-to-lie-about-possible-high-radiation-exposure-in-an-appa.md)
-_Context: Fukushima Daiichi Nuclear Power Plant, radiation, Japan_
+_Context: Japan, Fukushima Daiichi Nuclear Power Plant, radiation_
 
 ##### Chile
 ### [Sixty-one schools in Chile's capital Santiago are to be investigated for possible child sex abuse. ](/news/2012/07/21/sixty-one-schools-in-chile-s-capital-santiago-are-to-be-investigated-for-possible-child-sex-abuse.md)
@@ -53,7 +53,7 @@ _Context: Chile, Santiago_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI's butler, Paolo Gabriele, is placed under house arrest while awaiting trial for allegedly leaking confidential papers revealing fraud and disputes within the Vatican. ](/news/2012/07/21/pope-benedict-xvi-s-butler-paolo-gabriele-is-placed-under-house-arrest-while-awaiting-trial-for-allegedly-leaking-confidential-papers-reve.md)
-_Context: Holy See, Pope Benedict XVI, house arrest_
+_Context: house arrest, Pope Benedict XVI, Holy See_
 
 ##### NGO
 ### [President of Russia Vladimir Putin signs the bill branding non-governmental organizations, which receive funding from abroad, as "foreign agents" into law, criticized by opponents as part of a campaign to suppress dissent. ](/news/2012/07/21/president-of-russia-vladimir-putin-signs-the-bill-branding-non-governmental-organizations-which-receive-funding-from-abroad-as-foreign-ag.md)

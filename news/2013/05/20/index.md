@@ -41,19 +41,19 @@ _Context: Pyongyang, bird flu, North Korea_
 
 ##### Myanmar's president's office
 ### [The President of Myanmar Thein Sein visits the White House as part of his visit to the United States, the first by a Burmese head of state in 47 years. ](/news/2013/05/20/the-president-of-myanmar-thein-sein-visits-the-white-house-as-part-of-his-visit-to-the-united-states-the-first-by-a-burmese-head-of-state-i.md)
-_Context: United States, Thein Sein, White House, Myanmar's president's office_
+_Context: White House, United States, Thein Sein, Myanmar's president's office_
 
 ##### Guatemala
 ### [Guatemala's Constitutional Court overturns a genocide conviction against former dictator Efran Ros Montt due to a dispute over jurisdiction. ](/news/2013/05/20/guatemala-s-constitutional-court-overturns-a-genocide-conviction-against-former-dictator-efrain-rios-montt-due-to-a-dispute-over-jurisdictio.md)
-_Context: Efran Ros Montt, Guatemala, genocide_
+_Context: Efran Ros Montt, genocide, Guatemala_
 
 ##### Immigration officials
 ### [Immigrant youths riot in Stockholm suburb Husby, burning more than 100 vehicles. ](/news/2013/05/20/immigrant-youths-riot-in-stockholm-suburb-husby-burning-more-than-100-vehicles.md)
-_Context: Stockholm, riot, Husby, immigration officials_
+_Context: Husby, Stockholm, immigration officials, riot_
 
 ##### Church of Scotland
 ### [The Church of Scotland's General Assembly votes to allow openly gay men and women to become ministers. ](/news/2013/05/20/the-church-of-scotland-s-general-assembly-votes-to-allow-openly-gay-men-and-women-to-become-ministers.md)
-_Context: General Assembly, Church of Scotland, same-sex couples_
+_Context: same-sex couples, General Assembly, Church of Scotland_
 
 ## [Previous Day...](/news/2013/05/19/index.md)
 

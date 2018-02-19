@@ -33,7 +33,7 @@ Fatalities reported after fresh clashes between demonstrators and security force
 
 ##### Iran Air Flight 277
 ### [Iran Air Flight 277 crashes with 100 people on board near Orumiyeh in the northeast of the country; at least 50 survive. ](/news/2011/01/9/iran-air-flight-277-crashes-with-100-people-on-board-near-orumiyeh-in-the-northeast-of-the-country-at-least-50-survive.md)
-_Context: Iran Air Flight 277, Orumiyeh_
+_Context: Orumiyeh, Iran Air Flight 277_
 
 ##### Concepcion Tutuapa
 ### [At least 14 people are killed and at least 25 others are injured in a bus crash near Concepcion Tutuapa in Guatemala's San Marcos department. ](/news/2011/01/9/at-least-14-people-are-killed-and-at-least-25-others-are-injured-in-a-bus-crash-near-concepcia3n-tutuapa-in-guatemala-s-san-marcos-departmen.md)
@@ -45,7 +45,7 @@ Bulldozers demolished a hotel in an Arab east Jerusalem neighborhood Sunday to m
 
 ##### Iceland
 ### [The U.S. ambassador to Iceland is summoned in relation to secret United States attempts to access private details concerning Icelandic MP Birgitta Jonsdottir. The matter is described as "very serious". ](/news/2011/01/9/the-u-s-ambassador-to-iceland-is-summoned-in-relation-to-secret-united-states-attempts-to-access-private-details-concerning-icelandic-mp-bi.md)
-_Context: Birgitta Jonsdottir, Iceland, United States_
+_Context: United States, Birgitta Jonsdottir, Iceland_
 
 ##### Hillary Clinton
 ### [Hillary Clinton of the United States speaks out against Iran in Abu Dhabi during a five-day trip to the United Arab Emirates, Oman and Qatar. She requests that the world increase its pressure on Iran, a country she considers "a serious concern". ](/news/2011/01/9/hillary-clinton-of-the-united-states-speaks-out-against-iran-in-abu-dhabi-during-a-five-day-trip-to-the-united-arab-emirates-oman-and-qatar.md)
@@ -57,7 +57,7 @@ Demonstrators gather outside the Iranian Embassy in London to protest at what th
 
 ##### United States Secretary of Defense
 ### [United States Secretary of Defense Robert Gates flies to China for a four-day trip after expressing American worries that the Chinese "clearly have potential to put some of our [military] capabilities at risk", adding that America has "to pay attention to them" and "respond appropriately with our own programmes". ](/news/2011/01/9/united-states-secretary-of-defense-robert-gates-flies-to-china-for-a-four-day-trip-after-expressing-american-worries-that-the-chinese-clear.md)
-_Context: Robert Gates, United States Secretary of Defense_
+_Context: United States Secretary of Defense, Robert Gates_
 
 ##### Li Keqiang
 ### [Chinese Vice Premier Li Keqiang begins a four-day visit to the UK; Scotland and China sign a green energy deal. ](/news/2011/01/9/chinese-vice-premier-li-keqiang-begins-a-four-day-visit-to-the-uk-scotland-and-china-sign-a-green-energy-deal.md)

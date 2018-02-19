@@ -9,11 +9,11 @@ South Sudanese President Salva Kiir has ordered all government troops to cease f
 
 ##### Islamic State in Iraq and the Levant
 ### [Turkey launches its first air strikes against ISIL in Syria. ](/news/2015/08/29/turkey-launches-its-first-air-strikes-against-isil-in-syria.md)
-_Context: Turkey, Syria, Islamic State in Iraq and the Levant_
+_Context: Syria, Turkey, Islamic State in Iraq and the Levant_
 
 ##### Iraq War (2014-present)
 ### [Roadside bombings in Iraq leave at least 10 people killed. ](/news/2015/08/29/roadside-bombings-in-iraq-leave-at-least-10-people-killed.md)
-_Context: Iraq War (2014-present), Iraq_
+_Context: Iraq, Iraq War (2014-present)_
 
 ##### Butterworth
 ### [A bus traveling between Butterworth and Willovale in the Eastern Cape, South Africa, drives off a cliff killing thirty-five people. ](/news/2015/08/29/a-bus-traveling-between-butterworth-and-willovale-in-the-eastern-cape-south-africa-drives-off-a-cliff-killing-thirty-five-people.md)
@@ -25,7 +25,7 @@ A powerful and rare summertime windstorm packing 50-70 mph winds is being blamed
 
 ##### Atlanta
 ### [A man, who fell from the upper deck of Atlanta's Turner Field during Saturday night's Braves-New York Yankees baseball game, dies. ](/news/2015/08/29/a-man-who-fell-from-the-upper-deck-of-atlanta-s-turner-field-during-saturday-night-s-braves-new-york-yankees-baseball-game-dies.md)
-_Context: Turner Field, Braves, New York Yankees, Atlanta, baseball game_
+_Context: Turner Field, Atlanta, New York Yankees, baseball game, Braves_
 
 ##### 2015 Atlantic hurricane season
 ### [Five deaths occurred in Haiti as Tropical Storm Erika dumped heavy rains there, on the Dominican Republic, and on Puerto Rico. The storm weakened to a Tropical Depression before it hit Cuba (max winds 56 kph (35 mph), heading to the southeastern Gulf of Mexico. ](/news/2015/08/29/five-deaths-occurred-in-haiti-as-tropical-storm-erika-dumped-heavy-rains-there-on-the-dominican-republic-and-on-puerto-rico-the-storm-wea.md)
@@ -33,7 +33,7 @@ The latest forecast from the center said Erika is expected to weaken and could e
 
 ##### 2015 Thalys train attack
 ### [European interior ministers and transport officials hold emergency talks in Paris following the recent attack on the Thalys train between Amsterdam and Paris. ](/news/2015/08/29/european-interior-ministers-and-transport-officials-hold-emergency-talks-in-paris-following-the-recent-attack-on-the-thalys-train-between-am.md)
-_Context: Amsterdam, Paris, Thalys, 2015 Thalys train attack, Europe_
+_Context: Paris, Thalys, Europe, 2015 Thalys train attack, Amsterdam_
 
 ##### European migrant crisis
 ### [The Secretary-General of the United Nations Ban Ki-moon calls for a "collective political response" to the crisis as the death toll from the latest boat to sink in the Mediterranean Sea rises to 171. ](/news/2015/08/29/the-secretary-general-of-the-united-nations-ban-ki-moon-calls-for-a-collective-political-response-to-the-crisis-as-the-death-toll-from-the.md)

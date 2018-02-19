@@ -5,7 +5,7 @@ Formats: [HTML](2013/06/28/index.html)  [JSON](2013/06/28/index.json)  [XML](201
 
 ##### Philippine National Police
 ### [One trainee member of the Philippine National Police is killed and six injured in an ambush in Mountain Province. ](/news/2013/06/28/one-trainee-member-of-the-philippine-national-police-is-killed-and-six-injured-in-an-ambush-in-mountain-province.md)
-_Context: Philippine National Police, Mountain Province_
+_Context: Mountain Province, Philippine National Police_
 
 ##### Egypt
 ### [One person is killed and four injured in an attack on a provincial party office in the Egyptian city of Zagazig. ](/news/2013/06/28/one-person-is-killed-and-four-injured-in-an-attack-on-a-provincial-party-office-in-the-egyptian-city-of-zagazig.md)
@@ -17,7 +17,7 @@ _Context: Nigeria, Plateau State_
 
 ##### Songkhla
 ### [Two people are killed and seven injured in a bomb attack in Songkhla, Thailand. ](/news/2013/06/28/two-people-are-killed-and-seven-injured-in-a-bomb-attack-in-songkhla-thailand.md)
-_Context: Songkhla, Thailand_
+_Context: Thailand, Songkhla_
 
 ##### Karachi, Pakistan
 ### [Three people are killed and seven injured in an attack in Karachi, Pakistan ](/news/2013/06/28/three-people-are-killed-and-seven-injured-in-an-attack-in-karachi-pakistan.md)
@@ -53,11 +53,11 @@ _Context: Bernard Tapie_
 
 ##### John Constable
 ### [A man is arrested in England on charges related to an attack on the John Constable painting "The Hay Wain". ](/news/2013/06/28/a-man-is-arrested-in-england-on-charges-related-to-an-attack-on-the-john-constable-painting-the-hay-wain.md)
-_Context: The Hay Wain, John Constable_
+_Context: John Constable, The Hay Wain_
 
 ##### California
 ### [Gay marriage in the state of California is legalized after the stay held on the unconstitutional California Proposition 8 is lifted. Two women who successfully challenged Proposition 8 in the Supreme Court of the United States are married in San Francisco. ](/news/2013/06/28/gay-marriage-in-the-state-of-california-is-legalized-after-the-stay-held-on-the-unconstitutional-california-proposition-8-is-lifted-two-wom.md)
-_Context: California, San Francisco, California, Supreme Court of the United States, California Proposition 8_
+_Context: California Proposition 8, Supreme Court of the United States, San Francisco, California, California_
 
 ## [Previous Day...](/news/2013/06/27/index.md)
 

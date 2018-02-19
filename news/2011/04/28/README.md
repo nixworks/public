@@ -29,11 +29,11 @@ _Context: Kizza Besigye, Uganda, Kampala_
 
 ##### Thailand
 ### [Thailand announces that it will send more troops to its border with Cambodia after a seventh day of fighting near the disputed Preah Vihear Temple that has killed 15 people. ](/news/2011/04/28/thailand-announces-that-it-will-send-more-troops-to-its-border-with-cambodia-after-a-seventh-day-of-fighting-near-the-disputed-preah-vihear.md)
-_Context: Thailand, Preah Vihear Temple, Cambodia_
+_Context: Cambodia, Preah Vihear Temple, Thailand_
 
 ##### Barack Obama
 ### [U.S. president Barack Obama nominates General David Petraeus, current head of the war on Afghanistan, as his new CIA chief, and names outgoing CIA chief Leon Panetta as head of The Pentagon. ](/news/2011/04/28/u-s-president-barack-obama-nominates-general-david-petraeus-current-head-of-the-war-on-afghanistan-as-his-new-cia-chief-and-names-outgoi.md)
-_Context: David Petraeus, General, War in Afghanistan (2001-present), Leon Panetta, United States military, Barack Obama, Director of the CIA_
+_Context: Leon Panetta, General, David Petraeus, Director of the CIA, Barack Obama, War in Afghanistan (2001-present), United States military_
 
 ##### Wal-Mart
 ### [U.S. retail giant Wal-Mart vows increased sales of weapons, including rifles and shotguns. ](/news/2011/04/28/u-s-retail-giant-wal-mart-vows-increased-sales-of-weapons-including-rifles-and-shotguns.md)
@@ -45,11 +45,11 @@ India shortlists two European fighter jets and rules out two US rivals for a key
 
 ##### Omar al-Bashir
 ### [Sudanese president Omar al-Bashir vows not to recognise South Sudan if it tries to claim oil-producing Abyei. ](/news/2011/04/28/sudanese-president-omar-al-bashir-vows-not-to-recognise-south-sudan-if-it-tries-to-claim-oil-producing-abyei.md)
-_Context: Abyei, South Sudan, Omar al-Bashir_
+_Context: South Sudan, Omar al-Bashir, Abyei_
 
 ##### Japan
 ### [Japan's industrial output declined by a record level of 15.3% in March due to the 2011 Tohoku earthquake and tsunami. ](/news/2011/04/28/japan-s-industrial-output-declined-by-a-record-level-of-15-3-in-march-due-to-the-2011-tahoku-earthquake-and-tsunami.md)
-_Context: 2011 Tohoku earthquake and tsunami, Japan_
+_Context: Japan, 2011 Tohoku earthquake and tsunami_
 
 ##### Panasonic Corporation
 ### [Panasonic Corporation will announce cuts to 40,000 jobs according to reports. ](/news/2011/04/28/panasonic-corporation-will-announce-cuts-to-40-000-jobs-according-to-reports.md)

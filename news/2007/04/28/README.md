@@ -5,31 +5,31 @@ Formats: [HTML](2007/04/28/index.html)  [JSON](2007/04/28/index.json)  [XML](200
 
 ##### Australia
 ### [ Australia wins its third consecutive Cricket World Cup with a victory over Sri Lanka in the 2007 ICC Cricket World Cup finals in Barbados. ](/news/2007/04/28/australia-wins-its-third-consecutive-cricket-world-cup-with-a-victory-over-sri-lanka-in-the-2007-icc-cricket-world-cup-finals-in-barbados.md)
-_Context: Barbados, Cricket, Sri Lanka, World Cup, Australia, 2007 ICC Cricket World Cup_
+_Context: Sri Lanka, World Cup, 2007 ICC Cricket World Cup, Cricket, Barbados, Australia_
 
 ##### Human rights in Tajikistan
 ### [ Human rights in Tajikistan: Two police officers in Dushanbe, Tajikistan are found guilty of beating and torturing a 16-year-old boy while in police custody. They are sentenced to two years in prison. ](/news/2007/04/28/human-rights-in-tajikistan-two-police-officers-in-dushanbe-tajikistan-are-found-guilty-of-beating-and-torturing-a-16-year-old-boy-while-i.md)
-_Context: torture, Dushanbe, Tajikistan, Human rights in Tajikistan, police officer_
+_Context: Tajikistan, Dushanbe, Human rights in Tajikistan, torture, police officer_
 
 ##### Bombing occurs
 ### [ A bombing occurs at a mosque in Karbala, Iraq, killing 55. ](/news/2007/04/28/a-bombing-occurs-at-a-mosque-in-karbala-iraq-killing-55.md)
-_Context: Iraq, mosque, Karbala, bombing occurs_
+_Context: bombing occurs, Iraq, mosque, Karbala_
 
 ##### Suicide bombing
 ### [ A suicide bombing in Pakistan kills at least 22 and injures Interior Minister Aftab Ahmad Khan Sherpao. ](/news/2007/04/28/a-suicide-bombing-in-pakistan-kills-at-least-22-and-injures-interior-minister-aftab-ahmad-khan-sherpao.md)
-_Context: suicide bombing, Aftab Ahmad Khan Sherpao, Pakistan_
+_Context: suicide bombing, Pakistan, Aftab Ahmad Khan Sherpao_
 
 ##### Turkey
 ### [ Turkey's army warns against questioning the country's secular system after a disputed first-round presidential vote in parliament. ](/news/2007/04/28/turkey-s-army-warns-against-questioning-the-country-s-secular-system-after-a-disputed-first-round-presidential-vote-in-parliament.md)
-_Context: first-round presidential vote, Turkey_
+_Context: Turkey, first-round presidential vote_
 
 ##### An earthquake
 ### [ An earthquake of magnitude 4.3 on the Richter scale strikes Kent, England. ](/news/2007/04/28/an-earthquake-of-magnitude-4-3-on-the-richter-scale-strikes-kent-england.md)
-_Context: An earthquake, England, Richter scale, Kent_
+_Context: An earthquake, Richter scale, England, Kent_
 
 ##### President
 ### [ President of Ireland Mary McAleese dissolves the 29th Dil and calls for a general election on 24 May 2007. ](/news/2007/04/28/president-of-ireland-mary-mcaleese-dissolves-the-29th-dail-and-calls-for-a-general-election-on-24-may-2007.md)
-_Context: Irish, Mary McAleese, 29th Dil, President, Irish general election_
+_Context: President, 29th Dil, Irish, Mary McAleese, Irish general election_
 
 ##### United States
 ### [ 80,000 people gather throughout the United States joining 'Displace Me' to raise awareness of displaced refugees in Northern Uganda. ](/news/2007/04/28/80-000-people-gather-throughout-the-united-states-joining-displace-me-to-raise-awareness-of-displaced-refugees-in-northern-uganda.md)

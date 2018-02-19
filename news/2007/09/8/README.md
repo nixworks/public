@@ -17,11 +17,11 @@ Former Argentine president Carlos Menem has been charged with involvement in the
 
 ##### Justine Henin
 ### [ Justine Henin of Belgium wins the U.S. Open women's tennis singles championship defeating Svetlana Kuznetsova of Russia 6-1 6-3 in the final. ](/news/2007/09/8/justine-henin-of-belgium-wins-the-u-s-open-women-s-tennis-singles-championship-defeating-svetlana-kuznetsova-of-russia-6-1-6-3-in-the-fina.md)
-_Context: Russia, Svetlana Kuznetsova, Justine Henin, Belgium, U.S. Open_
+_Context: U.S. Open, Justine Henin, Belgium, Svetlana Kuznetsova, Russia_
 
 ##### Morocco
 ### [ Morocco's conservative Istiqlal Party, a member of the kingdom's ruling coalition, wins most seats in parliamentary elections, according to provisional results released by the government ](/news/2007/09/8/morocco-s-conservative-istiqlal-party-a-member-of-the-kingdom-s-ruling-coalition-wins-most-seats-in-parliamentary-elections-according-to.md)
-_Context: Morocco, parliamentary elections, Istiqlal Party_
+_Context: parliamentary elections, Istiqlal Party, Morocco_
 
 ##### Algeria
 ### [ At least 16 people are killed and 30 injured in a car bomb attack on an Algerian naval barracks in the town of Dellys, 100km (62km) east of Algiers. ](/news/2007/09/8/at-least-16-people-are-killed-and-30-injured-in-a-car-bomb-attack-on-an-algerian-naval-barracks-in-the-town-of-dellys-100km-62km-east-of.md)
@@ -33,7 +33,7 @@ _Context: pilgrims, Hindu, India, (Wikinews)_
 
 ##### Tropical Storm Gabrielle
 ### [ Subtropical Storm Gabrielle is upgraded to a tropical storm as it approaches the eastern United States coastline. ](/news/2007/09/8/subtropical-storm-gabrielle-is-upgraded-to-a-tropical-storm-as-it-approaches-the-eastern-united-states-coastline.md)
-_Context: United States, tropical storm, Tropical Storm Gabrielle_
+_Context: Tropical Storm Gabrielle, United States, tropical storm_
 
 ##### President
 ### [ The President of Uganda Yoweri Museveni and the President of the Democratic Republic of the Congo Joseph Kabila meet in Tanzania to discuss the future of oil-rich Lake Albert. ](/news/2007/09/8/the-president-of-uganda-yoweri-museveni-and-the-president-of-the-democratic-republic-of-the-congo-joseph-kabila-meet-in-tanzania-to-discuss.md)

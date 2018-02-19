@@ -17,7 +17,7 @@ Initial army probe said teen was mistakenly shot at by IDF forces on Route 443; 
 
 ##### Belgrade
 ### [Five people, all foreign holidaymakers, are killed and 23 are injured when their bus swerves off a highway en route to Belgrade, Serbia. ](/news/2016/06/21/five-people-all-foreign-holidaymakers-are-killed-and-23-are-injured-when-their-bus-swerves-off-a-highway-en-route-to-belgrade-serbia.md)
-_Context: Serbia, Belgrade_
+_Context: Belgrade, Serbia_
 
 ##### Japan-North Korea relations
 ### [Japan places its military on high alert to be ready to shoot down any missile heading for its territory amid reports of a possible North Korean launch of an intermediate-range missile from its east coast. ](/news/2016/06/21/japan-places-its-military-on-high-alert-to-be-ready-to-shoot-down-any-missile-heading-for-its-territory-amid-reports-of-a-possible-north-kor.md)

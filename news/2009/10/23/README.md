@@ -17,7 +17,7 @@ _Context: International Telecommunication Union, universal mobile phone charger_
 
 ##### Jean Todt
 ### [ Jean Todt defeats Ari Vatanen in an election to become the new head of the Fdration Internationale de l'Automobile, replacing former head Max Mosley, who held the position for 16 years. ](/news/2009/10/23/jean-todt-defeats-ari-vatanen-in-an-election-to-become-the-new-head-of-the-federation-internationale-de-l-automobile-replacing-former-head.md)
-_Context: Max Mosley, Jean Todt, Fdration Internationale de l'Automobile, Ari Vatanen_
+_Context: Fdration Internationale de l'Automobile, Ari Vatanen, Max Mosley, Jean Todt_
 
 ##### Economy of the United Kingdom
 ### [ The UK GDP contracts by 0.4% between July and September, meaning that the United Kingdom has been contracting for 6 successive quarters for the first time since records were kept in 1955. ](/news/2009/10/23/the-uk-gdp-contracts-by-0-4-between-july-and-september-meaning-that-the-united-kingdom-has-been-contracting-for-6-successive-quarters-for.md)
@@ -25,15 +25,15 @@ New figures show the British economy shrank unexpectedly in the third quarter of
 
 ##### Swiss Government
 ### [ The Swiss Government says that the United States has formally requested the extradition of film director Roman Polanski for having unlawful sex with an underage girl in 1977. ](/news/2009/10/23/the-swiss-government-says-that-the-united-states-has-formally-requested-the-extradition-of-film-director-roman-polanski-for-having-unlawful.md)
-_Context: extradition, United States, sex, Swiss Government, Roman Polanski, 1977_
+_Context: 1977, United States, extradition, sex, Swiss Government, Roman Polanski_
 
 ##### Peshawar
 ### [ A huge explosion rips through an upmarket area of Peshawar in Pakistan. ](/news/2009/10/23/a-huge-explosion-rips-through-an-upmarket-area-of-peshawar-in-pakistan.md)
-_Context: Pakistan, Peshawar_
+_Context: Peshawar, Pakistan_
 
 ##### Oil refinery fire
 ### [ A huge explosion occurs at an oil refinery in Catao, Puerto Rico. ](/news/2009/10/23/a-huge-explosion-occurs-at-an-oil-refinery-in-catano-puerto-rico.md)
-_Context: Catao, oil refinery fire, oil refinery, Puerto Rico_
+_Context: oil refinery, Catao, Puerto Rico, oil refinery fire_
 
 ##### Vitit Muntarbhorn
 ### [ Vitit Muntarbhorn, United Nations Special Rapporteur for North Korea, says the country should improve its "abysmal" rights record, adding it should provide food to over 8 million citizens. ](/news/2009/10/23/vitit-muntarbhorn-united-nations-special-rapporteur-for-north-korea-says-the-country-should-improve-its-abysmal-rights-record-adding-i.md)

@@ -13,7 +13,7 @@ The Basque separatist group Eta announces to the BBC a &quot;definitive cessatio
 
 ##### Government of Germany
 ### [The government of Germany states that national GDP growth in 2012 will be significantly lower than initially predicted, due to the eurozone's ongoing economic crisis. ](/news/2011/10/20/the-government-of-germany-states-that-national-gdp-growth-in-2012-will-be-significantly-lower-than-initially-predicted-due-to-the-eurozone.md)
-_Context: government of Germany, escalating economic crisis, eurozone, GDP_
+_Context: escalating economic crisis, GDP, eurozone, government of Germany_
 
 ##### Japan
 ### [Japanese optical and imaging equipment company Olympus faces a possible credit downgrade and plunging share prices, due to a spreading scandal over the recent dismissal of its chief executive, Michael Woodford. ](/news/2011/10/20/japanese-optical-and-imaging-equipment-company-olympus-faces-a-possible-credit-downgrade-and-plunging-share-prices-due-to-a-spreading-scand.md)
@@ -25,7 +25,7 @@ _Context: Bangkok, floods, Prime Minister, Yingluck Shinawatra_
 
 ##### Diving support vessel
 ### [The diving support vessel DSV Koosha 1 capsizes off the coast of Iran, resulting in the deaths of six commercial divers from India who are trapped in the vessel's diving chamber when the boat sinks. ](/news/2011/10/20/the-diving-support-vessel-dsv-koosha-1-capsizes-off-the-coast-of-iran-resulting-in-the-deaths-of-six-commercial-divers-from-india-who-are-t.md)
-_Context: DSV Koosha 1, commercial diver, Iran, diving support vessel, India, diving chamber_
+_Context: diving chamber, Iran, India, commercial diver, diving support vessel, DSV Koosha 1_
 
 ##### Greece
 ### [A man is killed and at least 74 people are injured in major riots in the Greek capital Athens on the second day of a nationwide general strike, as Greeks protest in their thousands against new austerity measures intended to alleviate the country's ongoing debt crisis. ](/news/2011/10/20/a-man-is-killed-and-at-least-74-people-are-injured-in-major-riots-in-the-greek-capital-athens-on-the-second-day-of-a-nationwide-general-stri.md)
@@ -33,7 +33,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Gilad Shalit prisoner exchange
 ### [Gilad Shalit prisoner exchange: The leading commander of the military wing of Hamas, Ahmed Jabari, confirms in an interview with the Saudi Arabian newspaper "Al-Hayat" that the prisoners released in exchange for captured Israeli Gilad Shalit were collectively responsible for the deaths of 569 Israeli civilians. ](/news/2011/10/20/gilad-shalit-prisoner-exchange-the-leading-commander-of-the-military-wing-of-hamas-ahmed-jabari-confirms-in-an-interview-with-the-saudi-a.md)
-_Context: Saudi Arabia, Gilad Shalit prisoner exchange, Al-Hayat, Israel, Ahmed Jabari, Hamas_
+_Context: Hamas, Israel, Ahmed Jabari, Gilad Shalit prisoner exchange, Al-Hayat, Saudi Arabia_
 
 ##### Parliament of New Zealand
 ### [The Parliament of New Zealand is dissolved in preparation for a general election on November 26. ](/news/2011/10/20/the-parliament-of-new-zealand-is-dissolved-in-preparation-for-a-general-election-on-november-26.md)
@@ -49,7 +49,7 @@ The Greek parliament passes a package of austerity measures despite two days of 
 
 ##### American Jobs Act
 ### [The American Jobs Act fails to garner the necessary sixty votes in the United States Senate to proceed. ](/news/2011/10/20/the-american-jobs-act-fails-to-garner-the-necessary-sixty-votes-in-the-united-states-senate-to-proceed.md)
-_Context: United States Senate, American Jobs Act_
+_Context: American Jobs Act, United States Senate_
 
 ## [Previous Day...](/news/2011/10/19/index.md)
 

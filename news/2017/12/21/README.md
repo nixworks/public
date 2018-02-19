@@ -9,11 +9,11 @@ Nineteen people have been injured after a SUV ran down pedestrians on the corner
 
 ##### Border incidents involving North and South Korea
 ### [A Korean People's Army soldier defects to South Korea after crossing the Korean Demilitarized Zone (DMZ). South Korean border guards fired warning shots at North Korean troops who approached the Military Demarcation Line, in search of the missing soldier. He is the fourth North Korean soldier to defect this year. ](/news/2017/12/21/a-korean-people-s-army-soldier-defects-to-south-korea-after-crossing-the-korean-demilitarized-zone-dmz-south-korean-border-guards-fired-w.md)
-_Context: Military Demarcation Line, DMZ, defects, South Korea, Korean People's Army, Border incidents involving North and South Korea_
+_Context: Military Demarcation Line, Border incidents involving North and South Korea, DMZ, Korean People's Army, South Korea, defects_
 
 ##### HMAS ''AE1''
 ### [The wreckage of the HMAS "AE1", the first submarine to serve in the Royal Australian Navy, is found near the Duke of York Islands after a 103-year search. ](/news/2017/12/21/the-wreckage-of-the-hmas-ae1-the-first-submarine-to-serve-in-the-royal-australian-navy-is-found-near-the-duke-of-york-islands-after-a-10.md)
-_Context: HMAS ''AE1'', Royal Australian Navy, submarine, Duke of York Islands_
+_Context: Duke of York Islands, submarine, HMAS ''AE1'', Royal Australian Navy_
 
 ##### Papa John's Pizza
 ### [Papa John's Pizza founder John Schnatter announces he will step down from his position as CEO on January 1, 2018. The move comes two months after he criticized NFL leadership over national anthem protests by NFL players. He will be succeeded by COO Steve Ritchie. ](/news/2017/12/21/papa-john-s-pizza-founder-john-schnatter-announces-he-will-step-down-from-his-position-as-ceo-on-january-1-2018-the-move-comes-two-months.md)
@@ -45,7 +45,7 @@ Separatist and pro-Spanish parties in Catalonia contest a snap regional election
 
 ##### Elections in Cuba
 ### [The Cuban Parliament approves moving the country's municipal elections to March, and the presidential election to April, when President Raul Castro is expected to step down. ](/news/2017/12/21/the-cuban-parliament-approves-moving-the-country-s-municipal-elections-to-march-and-the-presidential-election-to-april-when-president-raao.md)
-_Context: Parliament, Elections in Cuba, Raul Castro, Cuba, President_
+_Context: Cuba, Raul Castro, Parliament, President, Elections in Cuba_
 
 ##### Government shutdown in the United States
 ### [House and Senate pass a continuing resolution bill to avert a government shutdown until January 19, 2018. ](/news/2017/12/21/house-and-senate-pass-a-continuing-resolution-bill-to-avert-a-government-shutdown-until-january-19-2018.md)

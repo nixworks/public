@@ -29,7 +29,7 @@ The California Department of Public Health is investigating nine measles cases t
 
 ##### Philippines
 ### [Philippines President Benigno Aquino III demands an investigation after a drone purportedly belonging to the United States Navy is found in the Philippine province of Quezon, the second found in the country. ](/news/2015/01/7/philippines-president-benigno-aquino-iii-demands-an-investigation-after-a-drone-purportedly-belonging-to-the-united-states-navy-is-found-in.md)
-_Context: Philippines, drone, United States Navy, provinces, United States, President, his predecessor, Quezon_
+_Context: Philippines, United States Navy, provinces, drone, his predecessor, Quezon, United States, President_
 
 ##### United States
 ### [The United States denounces a flag-raising ceremony at Taiwan's de facto embassy in Washington DC, saying the ceremony violated US-Taiwan ties. ](/news/2015/01/7/the-united-states-denounces-a-flag-raising-ceremony-at-taiwan-s-de-facto-embassy-in-washington-dc-saying-the-ceremony-violated-us-taiwan-ti.md)

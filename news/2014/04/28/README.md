@@ -33,7 +33,7 @@ _Context: Indian_
 
 ##### Tornado
 ### [Seventeen people are killed by tornadoes after a huge storm system sweeps across the central and southern United States. ](/news/2014/04/28/seventeen-people-are-killed-by-tornadoes-after-a-huge-storm-system-sweeps-across-the-central-and-southern-united-states.md)
-_Context: southern United States, tornado, central_
+_Context: central, tornado, southern United States_
 
 ##### Slovakia
 ### [Slovakia and Ukraine agree to a deal that will allow gas from Central Europe to reach Ukraine via Slovakia. ](/news/2014/04/28/slovakia-and-ukraine-agree-to-a-deal-that-will-allow-gas-from-central-europe-to-reach-ukraine-via-slovakia.md)

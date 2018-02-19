@@ -9,7 +9,7 @@ It had been almost seven months since Lisa Nowak and Colleen Shipman came face t
 
 ##### Ku Klux Klan
 ### [ Former Ku Klux Klan member James Seale is sentenced to life imprisonment for his role in the 1964 murder of two black men in the U.S. state of Mississippi. ](/news/2007/08/24/former-ku-klux-klan-member-james-seale-is-sentenced-to-life-imprisonment-for-his-role-in-the-1964-murder-of-two-black-men-in-the-u-s-state.md)
-_Context: Ku Klux Klan, James Seale, life imprisonment, Mississippi, U.S. state_
+_Context: life imprisonment, James Seale, Mississippi, Ku Klux Klan, U.S. state_
 
 #####  Georgian
 ### [ The Georgian government announces that its forces have fired on a Russian aircraft that was claimed to have violated Georgian airspace, possibly shooting it down. ](/news/2007/08/24/the-georgian-government-announces-that-its-forces-have-fired-on-a-russian-aircraft-that-was-claimed-to-have-violated-georgian-airspace-pos.md)
@@ -17,7 +17,7 @@ _Context: Russia,  Georgian_
 
 ##### United States District Court
 ### [ United States District Court judge William Hoeveler rules against former Panamanian leader Manuel Noriega returning to Panama after he completes his sentence in a United States prison stating that there was no reason why he shouldn't be extradited to France to face a prison term there. ](/news/2007/08/24/united-states-district-court-judge-william-hoeveler-rules-against-former-panamanian-leader-manuel-noriega-returning-to-panama-after-he-comp.md)
-_Context: United States, William Hoeveler, United States District Court, France, judge, Manuel Noriega, prison, Panama_
+_Context: prison, Panama, United States, William Hoeveler, judge, Manuel Noriega, United States District Court, France_
 
 ##### University of Miami
 ### [ Citing a "very reliable" source at the University of Miami, the Swedish broad sheet newspaper "Norra Skne" reports that Cuban leader Fidel Castro is dead. ](/news/2007/08/24/citing-a-very-reliable-source-at-the-university-of-miami-the-swedish-broad-sheet-newspaper-norra-skane-reports-that-cuban-leader-fidel.md)
@@ -25,7 +25,7 @@ _Context: University of Miami, Cuba, Sweden, Fidel Castro_
 
 ##### Montreal Metro
 ### [ Part of the Montreal Metro and the street above are closed off after the formation of cracks at McGill station, causing severe traffic problems in downtown. There is no indication as to when the road or station will be re-opened. ](/news/2007/08/24/part-of-the-montreal-metro-and-the-street-above-are-closed-off-after-the-formation-of-cracks-at-mcgill-station-causing-severe-traffic-prob.md)
-_Context: McGill station, Montreal Metro_
+_Context: Montreal Metro, McGill station_
 
 ##### Peloponnese
 ### [ At least 20 people are killed in Peloponnese, Greece as a result of 150 wildfires burning out of control: two regions have been declared as disaster areas. ](/news/2007/08/24/at-least-20-people-are-killed-in-peloponnese-greece-as-a-result-of-150-wildfires-burning-out-of-control-two-regions-have-been-declared-as.md)
@@ -37,15 +37,15 @@ A Florida judge this afternoon sentenced sex offender John Evander Couey to die 
 
 ##### Russia
 ### [ Russia sells Venezuela 98 Ilyushin Il-114 aircraft. ](/news/2007/08/24/russia-sells-venezuela-98-ilyushin-il-114-aircraft.md)
-_Context: Ilyushin Il-114, Russia, Venezuela_
+_Context: Venezuela, Russia, Ilyushin Il-114_
 
 ##### Flood
 ### [ Flood warnings are in place in 10 US states from Ohio to Texas with at least 25 people believed to have died in the past week. ](/news/2007/08/24/flood-warnings-are-in-place-in-10-us-states-from-ohio-to-texas-with-at-least-25-people-believed-to-have-died-in-the-past-week.md)
-_Context: United States, Ohio, U.S. state, Texas, Flood_
+_Context: U.S. state, United States, Ohio, Texas, Flood_
 
 ##### Mexico
 ### [ Mexican oil platforms resume production following the end of the threat from Hurricane Dean. ](/news/2007/08/24/mexican-oil-platforms-resume-production-following-the-end-of-the-threat-from-hurricane-dean.md)
-_Context: Hurricane Dean, oil rig, Mexico_
+_Context: Hurricane Dean, Mexico, oil rig_
 
 ##### British Army
 ### [ Three British Army soldiers die in Afghanistan in a suspected friendly fire incident. ](/news/2007/08/24/three-british-army-soldiers-die-in-afghanistan-in-a-suspected-friendly-fire-incident.md)
@@ -53,7 +53,7 @@ _Context: friendly fire, Afghan, British Army_
 
 ##### Bangladesh
 ### [ Bangladesh eases curfew arrangements in place in its major cities following a reduction in street violence. ](/news/2007/08/24/bangladesh-eases-curfew-arrangements-in-place-in-its-major-cities-following-a-reduction-in-street-violence.md)
-_Context: curfew, Bangladesh_
+_Context: Bangladesh, curfew_
 
 ##### Al Qaeda in Iraq
 ### [ Sixty suspected Al Qaeda in Iraq gunmen attack police facilities in Samarra, Iraq, resulting in at least 3 deaths and 9 injuries. ](/news/2007/08/24/sixty-suspected-al-qaeda-in-iraq-gunmen-attack-police-facilities-in-samarra-iraq-resulting-in-at-least-3-deaths-and-9-injuries.md)
@@ -65,11 +65,11 @@ United Nations secretary-general Ban Ki-moon has expressed concern over the arre
 
 ##### Pakistan Army
 ### [ At least four Pakistan Army soldiers die in a suicide bomber attack on a military convoy near Miranshah, the main city of North Waziristan near the Afghan border. ](/news/2007/08/24/at-least-four-pakistan-army-soldiers-die-in-a-suicide-bomber-attack-on-a-military-convoy-near-miranshah-the-main-city-of-north-waziristan.md)
-_Context: Miranshah, suicide bomber, North Waziristan, Afghan, convoy, Pakistan Army_
+_Context: Afghan, Miranshah, suicide bomber, North Waziristan, Pakistan Army, convoy_
 
 ##### Explosion
 ### [ The explosion of a car bomb outside a police station in the Basque city of Durango, Spain, is believed to be the first attack by the separatist group ETA since it called off a ceasefire in June. ](/news/2007/08/24/the-explosion-of-a-car-bomb-outside-a-police-station-in-the-basque-city-of-durango-spain-is-believed-to-be-the-first-attack-by-the-separa.md)
-_Context: Durango, Spain, explosion, ETA, Basque, police station, car bomb_
+_Context: Basque, ETA, police station, car bomb, Durango, Spain, explosion_
 
 ##### Flood
 ### [ Dozens of people are rescued from floods on the Sunshine Coast of the Australian state of Queensland. ](/news/2007/08/24/dozens-of-people-are-rescued-from-floods-on-the-sunshine-coast-of-the-australian-state-of-queensland.md)
@@ -77,7 +77,7 @@ Dozens of people have been rescued from rising flood waters and thousands of hom
 
 ##### Hot air balloon
 ### [ Two people are killed and eleven are injured when a hot air balloon bursts into flames in Surrey, British Columbia, Canada. ](/news/2007/08/24/two-people-are-killed-and-eleven-are-injured-when-a-hot-air-balloon-bursts-into-flames-in-surrey-british-columbia-canada.md)
-_Context: Surrey, British Columbia, hot air balloon, Canadian_
+_Context: Surrey, British Columbia, Canadian, hot air balloon_
 
 ## [Previous Day...](/news/2007/08/23/index.md)
 

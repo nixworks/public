@@ -13,7 +13,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Israel
 ### [ Israel will pursue Hezbollah leaders in Lebanon despite the ceasefire ending the month-long conflict, Prime Minister Ehud Olmert has told parliament.](/news/2006/08/14/israel-will-pursue-hezbollah-leaders-in-lebanon-despite-the-ceasefire-ending-the-month-long-conflict-prime-minister-ehud-olmert-has-told-p.md)
-_Context: Ehud Olmert, Lebanese, Hezbollah, parliament in Israel, Israel, Prime Minister_
+_Context: Prime Minister, Israel, Hezbollah, Lebanese, parliament in Israel, Ehud Olmert_
 
 ## [Previous Day...](/news/2006/08/13/index.md)
 

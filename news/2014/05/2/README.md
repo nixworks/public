@@ -25,7 +25,7 @@ Many rebels have been killed in a government offensive in east Ukraine, acting P
 
 ##### Afghan
 ### [A landslide strikes the town of Hobo Barik in Afghanistan's Badakhshan province with at least 350 people dead and over 2000 people missing. ](/news/2014/05/2/a-landslide-strikes-the-town-of-hobo-barik-in-afghanistan-s-badakhshan-province-with-at-least-350-people-dead-and-over-2000-people-missing.md)
-_Context: Afghan, Badakhshan_
+_Context: Badakhshan, Afghan_
 
 ##### Sinn Fein
 ### [Sinn Fein claims that party president Gerry Adams is a victim of "political policing" are dismissed by the Taoiseach (Prime Minister of Ireland) Enda Kenny, British prime minister David Cameron and Northern Ireland First Minister Peter Robinson. ](/news/2014/05/2/sinn-fa-c-in-claims-that-party-president-gerry-adams-is-a-victim-of-political-policing-are-dismissed-by-the-taoiseach-prime-minister-of-ire.md)

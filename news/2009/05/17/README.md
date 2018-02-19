@@ -5,27 +5,27 @@ Formats: [HTML](2009/05/17/index.html)  [JSON](2009/05/17/index.json)  [XML](200
 
 ##### Al-Shabaab
 ### [ Al-Shabaab captures Jowhar, Somalia, from the Transitional Federal Government. ](/news/2009/05/17/al-shabaab-captures-jowhar-somalia-from-the-transitional-federal-government.md)
-_Context: Al-Shabaab, Transitional Federal Government, Jowhar, Somalia, declares_
+_Context: Al-Shabaab, Transitional Federal Government, Somalia, Jowhar, declares_
 
 ##### Oil companies
 ### [ Four oil companies announce a plan to supply Europe with natural gas from Kurdistan, Iraq, via the Nabucco pipeline. ](/news/2009/05/17/four-oil-companies-announce-a-plan-to-supply-europe-with-natural-gas-from-kurdistan-iraq-via-the-nabucco-pipeline.md)
-_Context: Kurdish, Iraq, Nabucco, line, natural gas, Europe, oil companies_
+_Context: Europe, Iraq, Nabucco, oil companies, natural gas, line, Kurdish_
 
 ##### Peru
 ### [ Peru's Armed Forces are authorized to aid the National Police for 30 days in a dispute with indigenous peoples. ](/news/2009/05/17/peru-s-armed-forces-are-authorized-to-aid-the-national-police-for-30-days-in-a-dispute-with-indigenous-peoples.md)
-_Context: indigenous Amazon groups, Armed Forces, National Police, Peru_
+_Context: National Police, Peru, indigenous Amazon groups, Armed Forces_
 
 ##### LTTE
 ### [ The Liberation Tigers of Tamil Eelam agree to a ceasefire in Sri Lanka's civil war. ](/news/2009/05/17/the-liberation-tigers-of-tamil-eelam-agree-to-a-ceasefire-in-sri-lanka-s-civil-war.md)
-_Context: Sri Lanka, Sri Lankan Civil War, ceasefire, LTTE, Tamil Eelam_
+_Context: Sri Lankan Civil War, ceasefire, Sri Lanka, LTTE, Tamil Eelam_
 
 ##### Magnitude
 ### [ A 4.7-magnitude earthquake strikes Inglewood and Lennox, California, United States. ](/news/2009/05/17/a-4-7-magnitude-earthquake-strikes-inglewood-and-lennox-california-united-states.md)
-_Context: Lennox, Inglewood, California, magnitude, United States_
+_Context: United States, California, Lennox, magnitude, Inglewood_
 
 ##### Demonstration
 ### [ Demonstrators demand that Guatemalan President Alvaro Colom resign for allegedly killing Rodrigo Rosenberg. ](/news/2009/05/17/demonstrators-demand-that-guatemalan-president-alvaro-colom-resign-for-allegedly-killing-rodrigo-rosenberg.md)
-_Context: Guatemala, Guatemalan President, Rodrigo Rosenberg Marzano, demonstration, Alvaro Colom_
+_Context: Guatemalan President, demonstration, Rodrigo Rosenberg Marzano, Guatemala, Alvaro Colom_
 
 ## [Previous Day...](/news/2009/05/16/index.md)
 

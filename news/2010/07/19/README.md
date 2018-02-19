@@ -13,7 +13,7 @@ Human rights group accuses Khartoum of using torture and abuse to quell politica
 
 ##### Somalia
 ### [Several people are killed in a clash between Somali fighters and government forces in the capital Mogadishu. ](/news/2010/07/19/several-people-are-killed-in-a-clash-between-somali-fighters-and-government-forces-in-the-capital-mogadishu.md)
-_Context: Mogadishu, Somalia_
+_Context: Somalia, Mogadishu_
 
 ##### Alan Shadrake
 ### [75-year-old author Alan Shadrake is arrested in Singapore while promoting his book about the use of the death penalty. He is charged with criminal defamation and faces two years imprisonment. ](/news/2010/07/19/75-year-old-author-alan-shadrake-is-arrested-in-singapore-while-promoting-his-book-about-the-use-of-the-death-penalty-he-is-charged-with-cr.md)
@@ -57,7 +57,7 @@ China launches an operation to clean up an oil spill in the Yellow Sea after two
 
 ##### United States Coast Guard
 ### [Retired United States Coast Guard Admiral Thad Allen, the person in charge of cleaning up the Deepwater Horizon oil spill in the Gulf of Mexico states that the cap is leaking but it is not a major concern so far. ](/news/2010/07/19/retired-united-states-coast-guard-admiral-thad-allen-the-person-in-charge-of-cleaning-up-the-deepwater-horizon-oil-spill-in-the-gulf-of-mex.md)
-_Context: United States Coast Guard, Deepwater Horizon oil spill, cap, Gulf of Mexico, Thad Allen, Admiral_
+_Context: Admiral, Gulf of Mexico, cap, Deepwater Horizon oil spill, United States Coast Guard, Thad Allen_
 
 ##### President
 ### [President of Iran Mahmoud Ahmadinejad asks that the United States stop using what he describes as "cowboy logic" if it wants to engage in dialogue with Iran over its nuclear programme, adding that he would support negotiations. ](/news/2010/07/19/president-of-iran-mahmoud-ahmadinejad-asks-that-the-united-states-stop-using-what-he-describes-as-cowboy-logic-if-it-wants-to-engage-in-di.md)
@@ -65,11 +65,11 @@ The US must stop using &quot;cowboy logic&quot; if it wants dialogue with Iran o
 
 ##### Kabul
 ### [Scores of checkpoints appear overnight as 70 countries prepare to attend a conference in Kabul on the future of Afghanistan. ](/news/2010/07/19/scores-of-checkpoints-appear-overnight-as-70-countries-prepare-to-attend-a-conference-in-kabul-on-the-future-of-afghanistan.md)
-_Context: Kabul, Afghan_
+_Context: Afghan, Kabul_
 
 ##### United States
 ### [The United States issues a warning to US citizens visiting or living in Uganda about the risk of terrorism as an African Union summit on maternal and child health summit starts. ](/news/2010/07/19/the-united-states-issues-a-warning-to-us-citizens-visiting-or-living-in-uganda-about-the-risk-of-terrorism-as-an-african-union-summit-on-mat.md)
-_Context: terrorism, United States, African Union, Uganda_
+_Context: African Union, terrorism, Uganda, United States_
 
 ##### The Washington Post
 ### [A two-year "Top Secret America" investigation by "The Washington Post" concludes that United States intelligence gathering has grown so much since the September 11 attacks that neither its true cost, size nor effectiveness in keeping the country safe is actually known. ](/news/2010/07/19/a-two-year-top-secret-america-investigation-by-the-washington-post-concludes-that-united-states-intelligence-gathering-has-grown-so-much.md)
@@ -105,7 +105,7 @@ A man is arrested in Mexico trying to smuggle 18 monkeys into the country by hid
 
 ##### Egypt
 ### [A report states that U.S. and European intelligence agencies believe Egyptian President Hosni Mubarak is dying of stomach and pancreatic cancer, and has one year left to live. The report states that Mubarak will likely die before the country's next presidential election. ](/news/2010/07/19/a-report-states-that-u-s-and-european-intelligence-agencies-believe-egyptian-president-hosni-mubarak-is-dying-of-stomach-and-pancreatic-can.md)
-_Context: Hosni Mubarak, Egypt, Egyptian presidential election in September, stomach, pancreatic cancer_
+_Context: pancreatic cancer, stomach, Hosni Mubarak, Egyptian presidential election in September, Egypt_
 
 ##### Dsi Bouterse
 ### [Dsi Bouterse is elected President of Suriname by parliament. ](/news/2010/07/19/desi-bouterse-is-elected-president-of-suriname-by-parliament.md)

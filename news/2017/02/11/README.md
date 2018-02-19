@@ -9,7 +9,7 @@ _Context: War in Afghanistan (2015-present), Lashkargah_
 
 ##### Syrian Civil War
 ### [Syrian rebels and Turkish troops enter al-Bab, with Syrian troops also approaching the town, prompting heavy clashes with ISIL militants. ](/news/2017/02/11/syrian-rebels-and-turkish-troops-enter-al-bab-with-syrian-troops-also-approaching-the-town-prompting-heavy-clashes-with-isil-militants.md)
-_Context: Syrian Civil War, Free Syrian Army, ISIL, Syrian Armed Forces, militants, Turkish troops, Battle of al-Bab, al-Bab_
+_Context: Syrian Armed Forces, Syrian Civil War, militants, Turkish troops, Free Syrian Army, al-Bab, Battle of al-Bab, ISIL_
 
 ##### 2017 Istanbul nightclub shooting
 ### [Abdulkadir Masharipov is charged with murder in relation to the shootings in Istanbul that killed 39 people and is remanded in custody. Islamic State in Iraq and the Levant has claimed responsibility for the shootings. ](/news/2017/02/11/abdulkadir-masharipov-is-charged-with-murder-in-relation-to-the-shootings-in-istanbul-that-killed-39-people-and-is-remanded-in-custody-isla.md)

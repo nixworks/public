@@ -41,7 +41,7 @@ The prime minister says she is confident of overturning court ruling that parlia
 
 ##### Bulgarian presidential election, 2016
 ### [Voters in Bulgaria go to the polls for a presidential election, with exit polls showing no candidate receiving the majority necessary to win outright, and Rumen Radev and Tsetska Tsacheva likely to face one another in a run-off on 13 November. ](/news/2016/11/6/voters-in-bulgaria-go-to-the-polls-for-a-presidential-election-with-exit-polls-showing-no-candidate-receiving-the-majority-necessary-to-win.md)
-_Context: Bulgarian presidential election, 2016, Bulgaria, Tsetska Tsacheva, Rumen Radev_
+_Context: Rumen Radev, Tsetska Tsacheva, Bulgarian presidential election, 2016, Bulgaria_
 
 ##### Nicaraguan general election, 2016
 ### [Voters in Nicaragua go to the polls for a general election with polls suggesting that the President of Nicaragua Daniel Ortega will be elected for a third successive term. Ortega's wife Rosario Murillo is running to be the Vice President of Nicaragua.](/news/2016/11/6/voters-in-nicaragua-go-to-the-polls-for-a-general-election-with-polls-suggesting-that-the-president-of-nicaragua-daniel-ortega-will-be-elect.md)

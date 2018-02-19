@@ -9,11 +9,11 @@ Shrimpers in Louisiana andAlabama have filed class-action lawsuits against oil g
 
 ##### U.S. government
 ### [A U.S. government panel, the U.S. Commission on International Religious Freedom, names Saudi Arabia and China among 13 countries as the most serious violators of religious freedom. ](/news/2010/04/29/a-u-s-government-panel-the-u-s-commission-on-international-religious-freedom-names-saudi-arabia-and-china-among-13-countries-as-the-most.md)
-_Context: U.S. Commission on International Religious Freedom, freedom of worship, U.S. government, China, Saudi Arabia_
+_Context: Saudi Arabia, U.S. Commission on International Religious Freedom, China, freedom of worship, U.S. government_
 
 ##### Migrant workers
 ### [Millions of mostly Asian women who work in countries like Saudi Arabia, Lebanon and the United Arab Emirates remain at risk of human trafficking, forced labor, confinement and sexual violence, the New York-based Human Rights Watch group reports. ](/news/2010/04/29/millions-of-mostly-asian-women-who-work-in-countries-like-saudi-arabia-lebanon-and-the-united-arab-emirates-remain-at-risk-of-human-traffic.md)
-_Context: New York City, Human Rights Watch, confinement, human trafficking, forced labor, sexual violence, migrant workers, Lebanese, Saudi Arabia, United Arab Emirates_
+_Context: Human Rights Watch, Saudi Arabia, United Arab Emirates, forced labor, sexual violence, Lebanese, migrant workers, human trafficking, New York City, confinement_
 
 ##### India
 ### [India and Pakistan agree to reopen discussion on "all issues of mutual concern." ](/news/2010/04/29/india-and-pakistan-agree-to-reopen-discussion-on-all-issues-of-mutual-concern.md)
@@ -25,7 +25,7 @@ _Context: China_
 
 ##### Food and Drug Administration
 ### [The U.S. Food and Drug Administration (FDA) approves Provenge (sipuleucel-T), the first "vaccine" approved to treat cancer, for men with advanced prostate cancer. ](/news/2010/04/29/the-u-s-food-and-drug-administration-fda-approves-provenge-sipuleucel-t-the-first-vaccine-approved-to-treat-cancer-for-men-with-adv.md)
-_Context: Food and Drug Administration, vaccine, prostate cancer, Provenge_
+_Context: vaccine, Provenge, prostate cancer, Food and Drug Administration_
 
 ##### Belgium
 ### [Belgium's parliament votes to ban the wearing of burqas and other face coverings in public. ](/news/2010/04/29/belgium-s-parliament-votes-to-ban-the-wearing-of-burqas-and-other-face-coverings-in-public.md)

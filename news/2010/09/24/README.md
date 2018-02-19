@@ -5,7 +5,7 @@ Formats: [HTML](2010/09/24/index.html)  [JSON](2010/09/24/index.json)  [XML](201
 
 ##### Benny Andersson
 ### [Benny Andersson and Bjrn Ulvaeus of ABBA object to the use of the song "Mamma Mia" at rallies held by a right-wing Danish political party and threaten to sue. ](/news/2010/09/24/benny-andersson-and-bjorn-ulvaeus-of-abba-object-to-the-use-of-the-song-mamma-mia-at-rallies-held-by-a-right-wing-danish-political-party-a.md)
-_Context: ABBA, Benny Andersson, Bjrn Ulvaeus, Mamma Mia_
+_Context: Benny Andersson, Mamma Mia, Bjrn Ulvaeus, ABBA_
 
 ##### The Beano
 ### ["The Beano" is to feature a President of the United States for the first time in its history. ](/news/2010/09/24/the-beano-is-to-feature-a-president-of-the-united-states-for-the-first-time-in-its-history.md)
@@ -21,19 +21,19 @@ _Context: Gold prices, rally_
 
 ##### Air Zimbabwe
 ### [Striking pilots from the state-owned Air Zimbabwe end their two week strike that grounded flights and left passengers stranded after a pay deal with the government in Zimbabwe. ](/news/2010/09/24/striking-pilots-from-the-state-owned-air-zimbabwe-end-their-two-week-strike-that-grounded-flights-and-left-passengers-stranded-after-a-pay-d.md)
-_Context: Air Zimbabwe, Zimbabwe_
+_Context: Zimbabwe, Air Zimbabwe_
 
 ##### Share
 ### [In the world's largest share offer, Brazilian semi-public energy company Petrobras raises US$67 billion. ](/news/2010/09/24/in-the-world-s-largest-share-offer-brazilian-semi-public-energy-company-petrobras-raises-us-67-billion.md)
-_Context: Brazil, Petrobras, share_
+_Context: Brazil, share, Petrobras_
 
 ##### Thanet Wind Farm
 ### [The Thanet Wind Farm, the world's largest offshore wind farm, opens off the southeast coast of Thanet district in Kent, England. ](/news/2010/09/24/the-thanet-wind-farm-the-world-s-largest-offshore-wind-farm-opens-off-the-southeast-coast-of-thanet-district-in-kent-england.md)
-_Context: offshore wind farm, England, the world's largest, Thanet, Kent, Thanet Wind Farm_
+_Context: Thanet Wind Farm, offshore wind farm, the world's largest, England, Kent, Thanet_
 
 ##### China Energy Conservation and Environmental Protection Group
 ### [China Energy Conservation and Environmental Protection Group invests RMB 30 billion offshore in a wind farm project in Liaoning province of northern China. ](/news/2010/09/24/china-energy-conservation-and-environmental-protection-group-invests-rmb-30-billion-offshore-in-a-wind-farm-project-in-liaoning-province-of.md)
-_Context: China Energy Conservation and Environmental Protection Group, Liaoning, RMB_
+_Context: China Energy Conservation and Environmental Protection Group, RMB, Liaoning_
 
 ##### Facebook
 ### [Facebook launches a new feature for iPhone in Canada, allowing users to automatically update their location. ](/news/2010/09/24/facebook-launches-a-new-feature-for-iphone-in-canada-allowing-users-to-automatically-update-their-location.md)
@@ -41,7 +41,7 @@ Facebook has launched its Places feature in Canada, which allows users to &quot;
 
 ##### Chile
 ### [Chile freezes the assets of San Esteban Mining to fund the cost of the rescue effort from the 2010 Copiap mining accident. ](/news/2010/09/24/chile-freezes-the-assets-of-san-esteban-mining-to-fund-the-cost-of-the-rescue-effort-from-the-2010-copiapo-mining-accident.md)
-_Context: 2010 Copiap mining accident, Chile, San Esteban Mining_
+_Context: San Esteban Mining, Chile, 2010 Copiap mining accident_
 
 ##### Government
 ### [The government of Nigeria opens two swollen dams in Jigawa State, displacing two million people. ](/news/2010/09/24/the-government-of-nigeria-opens-two-swollen-dams-in-jigawa-state-displacing-two-million-people.md)
@@ -57,7 +57,7 @@ Sky News Australia has the top stories in news online from Australia and the res
 
 ##### A train collision
 ### [One person is killed and 57 are injured in a train collision in Tunis. ](/news/2010/09/24/one-person-is-killed-and-57-are-injured-in-a-train-collision-in-tunis.md)
-_Context: a train collision, Tunis_
+_Context: Tunis, a train collision_
 
 ##### African Union
 ### [The African Union appeals for funds to increase its force in Somalia from 8,000 to 20,000. ](/news/2010/09/24/the-african-union-appeals-for-funds-to-increase-its-force-in-somalia-from-8-000-to-20-000.md)
@@ -69,15 +69,15 @@ Japan frees a Chinese fishing boat captain whose arrest in disputed waters two w
 
 ##### United States Secretary of State
 ### [The United States Secretary of State Hillary Clinton meets with the President of the Palestinian National Authority Mahmoud Abbas to discuss an extension of the Middle East peace process. ](/news/2010/09/24/the-united-states-secretary-of-state-hillary-clinton-meets-with-the-president-of-the-palestinian-national-authority-mahmoud-abbas-to-discuss.md)
-_Context: Hillary Clinton, Palestinian Authority President, Mahmoud Abbas, United States Secretary of State, Middle East peace process_
+_Context: United States Secretary of State, Palestinian Authority President, Middle East peace process, Hillary Clinton, Mahmoud Abbas_
 
 ##### Nicaragua
 ### [A senior Nicaraguan diplomat is found dead in an apartment in New York City. ](/news/2010/09/24/a-senior-nicaraguan-diplomat-is-found-dead-in-an-apartment-in-new-york-city.md)
-_Context: New York City, Nicaragua_
+_Context: Nicaragua, New York City_
 
 ##### Judge
 ### [Judge Ronald B. Leighton of the United States District Court for the Western District of Washington rules on remand that the discharge of flight nurse Maj. Margaret Witt under the Don't ask, don't tell policy violated her constitutional rights. ](/news/2010/09/24/judge-ronald-b-leighton-of-the-united-states-district-court-for-the-western-district-of-washington-rules-on-remand-that-the-discharge-of-fl.md)
-_Context: United States District Court for the Western District of Washington, Don't ask, don't tell, Maj. Margaret Witt, Ronald B. Leighton, flight nurse, constitutional, Judge_
+_Context: Ronald B. Leighton, United States District Court for the Western District of Washington, Maj. Margaret Witt, Don't ask, don't tell, constitutional, flight nurse, Judge_
 
 ##### Gennady Yanayev
 ### [Gennady Yanayev, who briefly declared himself to be the President of the Soviet Union in the August Coup of 1991 that deposed Mikhail Gorbachev, dies in Russia. ](/news/2010/09/24/gennady-yanayev-who-briefly-declared-himself-to-be-the-president-of-the-soviet-union-in-the-august-coup-of-1991-that-deposed-mikhail-gorbac.md)

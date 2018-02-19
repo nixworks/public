@@ -5,15 +5,15 @@ Formats: [HTML](2010/01/28/index.html)  [JSON](2010/01/28/index.json)  [XML](201
 
 ##### U.S. Senate
 ### [The U.S. Senate votes to give Ben Bernanke a second term as chair of the Federal Reserve. ](/news/2010/01/28/the-u-s-senate-votes-to-give-ben-bernanke-a-second-term-as-chair-of-the-federal-reserve.md)
-_Context: U.S. Senate, chair, Federal Reserve, Ben Bernanke_
+_Context: U.S. Senate, Ben Bernanke, chair, Federal Reserve_
 
 ##### J. D. Salinger
 ### [J. D. Salinger, author of the novel "The Catcher in the Rye", dies at the age of 91. ](/news/2010/01/28/j-d-salinger-author-of-the-novel-the-catcher-in-the-rye-dies-at-the-age-of-91.md)
-_Context: The Catcher in the Rye, J. D. Salinger_
+_Context: J. D. Salinger, The Catcher in the Rye_
 
 ##### International Monetary Fund
 ### [The International Monetary Fund loans US$114 million to Haiti following the recent earthquake devastation, with the full amount due to be transferred by the end of the week. ](/news/2010/01/28/the-international-monetary-fund-loans-us-114-million-to-haiti-following-the-recent-earthquake-devastation-with-the-full-amount-due-to-be-tr.md)
-_Context: 2010 Haiti earthquake, $, Haiti, International Monetary Fund_
+_Context: $, International Monetary Fund, 2010 Haiti earthquake, Haiti_
 
 ##### Northern Limit Line
 ### [North Korean vessels fire again across the Northern Limit Line maritime boundary with South Korea. ](/news/2010/01/28/north-korean-vessels-fire-again-across-the-northern-limit-line-maritime-boundary-with-south-korea.md)
@@ -33,15 +33,15 @@ _Context: Colombia, Venezuela_
 
 ##### Sudan
 ### [Sudan's ruling National Congress Party endorses South Sudan President Salva Kiir in upcoming elections. ](/news/2010/01/28/sudan-s-ruling-national-congress-party-endorses-south-sudan-president-salva-kiir-in-upcoming-elections.md)
-_Context: Sudan, post-election protests, Southern Sudan, National Congress Party, Salva Kiir_
+_Context: Southern Sudan, post-election protests, Salva Kiir, National Congress Party, Sudan_
 
 ##### France
 ### [Former French Prime Minister Dominique de Villepin is cleared of charges of complicity to false denunciation in the "Clearstream" affair. ](/news/2010/01/28/former-french-prime-minister-dominique-de-villepin-is-cleared-of-charges-of-complicity-to-false-denunciation-in-the-clearstream-affair.md)
-_Context: ''Clearstream'' affair, indicted, Prime Minister, France, Dominique de Villepin_
+_Context: indicted, France, ''Clearstream'' affair, Prime Minister, Dominique de Villepin_
 
 ##### Iran
 ### [Iran executes two opposition supporters for their role in the election protests in the country. ](/news/2010/01/28/iran-executes-two-opposition-supporters-for-their-role-in-the-election-protests-in-the-country.md)
-_Context: protests against the regime, Iran_
+_Context: Iran, protests against the regime_
 
 ## [Previous Day...](/news/2010/01/27/index.md)
 

@@ -13,7 +13,7 @@ Four Pakistani soldiers were killed on Monday in shelling by Indian forces in th
 
 ##### Syrian Civil War
 ### [Turkey threatens to "strangle" the United States-backed Syrian Border Security Force "before it's even born", while Syria vows to crush it and expel American military personnel from the country. Russia called the plans "a plot to dismember Syria". ](/news/2018/01/15/turkey-threatens-to-strangle-the-united-states-backed-syrian-border-security-force-before-it-s-even-born-while-syria-vows-to-crush-it-a.md)
-_Context: Syrian Border Security Force, United States, Syrian Civil War, Syria, Turkey, Russia_
+_Context: Russia, United States, Syrian Civil War, Syrian Border Security Force, Turkey, Syria_
 
 ##### Caracas helicopter incident
 ### [Two police officers and several gunmen are killed near Caracas in an operation to capture Oscar Perez, the rogue pilot responsible for the Caracas helicopter incident on June 27, 2017, according to the Venezuelan government. Five people have also been arrested. ](/news/2018/01/15/two-police-officers-and-several-gunmen-are-killed-near-caracas-in-an-operation-to-capture-ascar-pa-c-rez-the-rogue-pilot-responsible-for-the.md)
@@ -25,7 +25,7 @@ Stunt coordinator Joel Kramer denies allegations that he molested actor during p
 
 ##### United Kingdom
 ### [After talks between the company, its lenders, and the United Kingdom's government fail to reach a deal, British multinational facilities management and construction services company Carillion fails and is liquidated, threatening thousands of jobs. Carillion is currently involved in projects such as the high-speed rail in the United Kingdom, including the High Speed 2 rail line. ](/news/2018/01/15/after-talks-between-the-company-its-lenders-and-the-united-kingdom-s-government-fail-to-reach-a-deal-british-multinational-facilities-man.md)
-_Context: United Kingdom, Carillion, facilities management, High Speed 2, multinational, liquidated, high-speed rail in the United Kingdom_
+_Context: Carillion, facilities management, multinational, United Kingdom, high-speed rail in the United Kingdom, High Speed 2, liquidated_
 
 ##### List of largest rough diamonds
 ### [A 910 ct "D colour Type II A" diamond is dug up in the Letseng diamond mine, Lesotho. ](/news/2018/01/15/a-910-ct-d-colour-type-ii-a-diamond-is-dug-up-in-the-letseng-diamond-mine-lesotho.md)
@@ -37,7 +37,7 @@ MORE than 70 people are said to be injured after a floor of the Indonesian stock
 
 ##### Mount Mayon's
 ### [The Mayon volcano begins to erupt in the Philippines. ](/news/2018/01/15/the-mayon-volcano-begins-to-erupt-in-the-philippines.md)
-_Context: Mount Mayon's, Philippines_
+_Context: Philippines, Mount Mayon's_
 
 ##### Chirajara bridge collapse
 ### [A partially completed bridge in Cundinamarca, Colombia, collapses, killing at least 10 workers. ](/news/2018/01/15/a-partially-completed-bridge-in-cundinamarca-colombia-collapses-killing-at-least-10-workers.md)
@@ -45,7 +45,7 @@ At least nine construction workers were killed and five injured when a partially
 
 ##### Tensions
 ### [A meeting of senior officials from countries that backed South Korea in the Korean War begins today in Vancouver which will look at ways to better implement sanctions to push North Korea to abandon its nuclear weapons. China and Russia, which backed the North in the war but have since agreed to U.N. sanctions on Pyongyang, will not be attending the meeting. ](/news/2018/01/15/a-meeting-of-senior-officials-from-countries-that-backed-south-korea-in-the-korean-war-begins-today-in-vancouver-which-will-look-at-ways-to.md)
-_Context: tensions, Korean War_
+_Context: Korean War, tensions_
 
 ##### Israel-Palestine relations
 ### [Nabil Shaath, the foreign affairs adviser of Palestinian President Mahmoud Abbas, says that the Palestinian Central Council freezes its recognition of the state of Israel until Israel recognizes Palestine as a state. Palestine will freeze the Oslo accords. ](/news/2018/01/15/nabil-shaath-the-foreign-affairs-adviser-of-palestinian-president-mahmoud-abbas-says-that-the-palestinian-central-council-freezes-its-reco.md)
@@ -73,7 +73,7 @@ Mohamed Anwar al-Sadat says he doubts there will be genuine competition and indi
 
 ##### Politics of Romania
 ### [Romanian Prime Minister Mihai Tudose resigns after losing the support of the Social Democratic Party. ](/news/2018/01/15/romanian-prime-minister-mihai-tudose-resigns-after-losing-the-support-of-the-social-democratic-party.md)
-_Context: Prime Minister, Romania, Politics of Romania, PSD, Mihai Tudose_
+_Context: Politics of Romania, Mihai Tudose, Romania, PSD, Prime Minister_
 
 ##### Rohingya persecution in Myanmar
 ### [Win Myat Aye, Myanmar's minister of social welfare, relief and resettlement, announced that his country would begin repatriating Rohingya refugees in Bangladesh beginning on January 23, 2018. Burmese officials also promised that a newly built camp for repatriated refugees would also be finished by that date. ](/news/2018/01/15/win-myat-aye-myanmar-s-minister-of-social-welfare-relief-and-resettlement-announced-that-his-country-would-begin-repatriating-rohingya-re.md)
@@ -81,7 +81,7 @@ Bangladesh and Myanmar have agreed that they will try to complete the repatriati
 
 ##### Partition and secession in California
 ### [A group of Californians criticize their state government and declare their desire to form a new U.S. state called New California. ](/news/2018/01/15/a-group-of-californians-criticize-their-state-government-and-declare-their-desire-to-form-a-new-u-s-state-called-new-california.md)
-_Context: New California, Partition and secession in California_
+_Context: Partition and secession in California, New California_
 
 ##### Politics of the United States
 ### [Nine out of the twelve members of the U.S. National Park Service's advisory board resign out of protest over their treatment by Interior Secretary Ryan Zinke. ](/news/2018/01/15/nine-out-of-the-twelve-members-of-the-u-s-national-park-service-s-advisory-board-resign-out-of-protest-over-their-treatment-by-interior-sec.md)

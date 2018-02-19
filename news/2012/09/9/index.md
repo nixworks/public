@@ -13,19 +13,19 @@ Insurgents wage assaults on security forces, gunning down soldiers at an army po
 
 ##### Taliban
 ### [Local authorities report that suspected Taliban abduct and then kill six civilians in the Maidan Wardak province of Afghanistan. ](/news/2012/09/9/local-authorities-report-that-suspected-taliban-abduct-and-then-kill-six-civilians-in-the-maidan-wardak-province-of-afghanistan.md)
-_Context: Wardak Province, Afghan, Taliban_
+_Context: Taliban, Afghan, Wardak Province_
 
 ##### Nestor
 ### [Nestor Louis Michel calls Rwandan President Paul Kagame a "great leader" ("groot leider"). Kagame has been accused of war crimes during Rwanda's invasion of the DR Congo in 1996, and of having led a subsequent proxy war against the DR Congo by arming the CNDP until January 20, 2009. Congo currently accuses Rwandan defence officials of supporting a new destabilisation of East Congo. Louis Michel urges the international community for "more time" to "objectivate the facts first" before taking any action. ](/news/2012/09/9/nestor-louis-michel-calls-rwandan-president-paul-kagame-a-great-leader-groot-leider-kagame-has-been-accused-of-war-crimes-during-rwan.md)
-_Context: Rwanda, leider, groot, Paul Kagame, Nestor, Democratic Republic of Congo, Louis Michel, CNDP, M23, new_
+_Context: Paul Kagame, Louis Michel, new, leider, M23, Rwanda, CNDP, Democratic Republic of Congo, Nestor, groot_
 
 ##### Annual summit
 ### [Closing their annual summit, APEC leaders report progress in Vladivostok over environmental and trade barrier issues; some territorial issues remain unsolved. ](/news/2012/09/9/closing-their-annual-summit-apec-leaders-report-progress-in-vladivostok-over-environmental-and-trade-barrier-issues-some-territorial-issue.md)
-_Context: annual summit, APEC_
+_Context: APEC, annual summit_
 
 ##### Central Criminal Court of Iraq
 ### [The Central Criminal Court of Iraq sentences "in absentia" Vice president of Iraq Tariq al-Hashimi and his aide Ahmed Qahtan to death by hanging for, among other charges, the assassination of a lawyer and that of an Army general. ](/news/2012/09/9/the-central-criminal-court-of-iraq-sentences-in-absentia-vice-president-of-iraq-tariq-al-hashimi-and-his-aide-ahmed-qahtan-to-death-by-han.md)
-_Context: general, death by hanging, Central Criminal Court of Iraq, Vice President, in absentia, Iraqi Army, Tariq al-Hashimi_
+_Context: in absentia, Tariq al-Hashimi, death by hanging, Vice President, Iraqi Army, general, Central Criminal Court of Iraq_
 
 ##### Romania
 ### [The son of convicted Romanian former Minister of Agriculture :ro:Ioan Avram Muresan, Dan Muresan, is found dead in a Kenyan hotel room. The 32-year-old political manager worked in Kenya for a British company. ](/news/2012/09/9/the-son-of-convicted-romanian-former-minister-of-agriculture-ro-ioan-avram-mureean-dan-mureean-is-found-dead-in-a-kenyan-hotel-room-th.md)
@@ -37,7 +37,7 @@ French investigators believe at least two assassins were responsible for murders
 
 ##### Serbia
 ### [Serbia says it protects a witness of organ harvesting on Serbian prisoners of the Kosovo War. ](/news/2012/09/9/serbia-says-it-protects-a-witness-of-organ-harvesting-on-serbian-prisoners-of-the-kosovo-war.md)
-_Context: Serbia, Kosovo War, protects a witness, organ harvesting_
+_Context: protects a witness, Serbia, organ harvesting, Kosovo War_
 
 ##### Elections
 ### [Elections for the 70-member Legislative Council are held in Hong Kong. Forty seats are elected by direct popular vote, the remainder are attributed by the "functional constituencies": business and special interest groups. China has promised a fully popular vote by the year 2020; the roadmap is still being laid out. ](/news/2012/09/9/elections-for-the-70-member-legislative-council-are-held-in-hong-kong-forty-seats-are-elected-by-direct-popular-vote-the-remainder-are-att.md)
@@ -45,7 +45,7 @@ The Hong Kong government backs down over plans to force schoolchildren to take C
 
 ##### Japan
 ### [Tens of thousands of Japanese people demonstrate for the closure of Futenma airbase (MCAS) in crowded Ginowan, Okinawa. They also protest the deployment of twelve MV-22 Osprey aircraft. They consider the plane as the "most dangerous" in the world. ](/news/2012/09/9/tens-of-thousands-of-japanese-people-demonstrate-for-the-closure-of-futenma-airbase-mcas-in-crowded-ginowan-okinawa-they-also-protest-th.md)
-_Context: Japan, CV-22 Osprey, Marine Corps Air Station Futenma, Ginowan, Okinawa, deployment_
+_Context: Ginowan, Okinawa, CV-22 Osprey, Japan, Marine Corps Air Station Futenma, deployment_
 
 ## [Previous Day...](/news/2012/09/8/index.md)
 

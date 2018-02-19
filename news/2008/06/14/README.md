@@ -9,7 +9,7 @@ _Context: farmers strike, Argentina_
 
 ##### Condoleezza Rice
 ### [ Condoleezza Rice, the United States Secretary of State, criticises a planned expansion of Israeli housing in East Jerusalem as "not helpful" to the Middle East peace process. ](/news/2008/06/14/condoleezza-rice-the-united-states-secretary-of-state-criticises-a-planned-expansion-of-israeli-housing-in-east-jerusalem-as-not-helpful.md)
-_Context: United States Secretary of State, Israel, Condoleezza Rice, East Jerusalem, Middle East_
+_Context: Israel, East Jerusalem, Condoleezza Rice, Middle East, United States Secretary of State_
 
 ##### Discovery
 ### [ The Space Shuttle Discovery lands having successfully completed mission STS-124. ](/news/2008/06/14/the-space-shuttle-discovery-lands-having-successfully-completed-mission-sts-124.md)
@@ -17,7 +17,7 @@ _Context: Discovery, STS-124_
 
 ##### U.S. President
 ### [ The President of the United States George W. Bush and the President of France Nicolas Sarkozy warn Syria to break with Iran and state that they will not allow Iran to obtain nuclear weapons. ](/news/2008/06/14/the-president-of-the-united-states-george-w-bush-and-the-president-of-france-nicolas-sarkozy-warn-syria-to-break-with-iran-and-state-that.md)
-_Context: U.S. President, French President, George W. Bush, Nicolas Sarkozy, Iran and weapons of mass destruction, Syria, Iran_
+_Context: Nicolas Sarkozy, French President, George W. Bush, Iran, U.S. President, Syria, Iran and weapons of mass destruction_
 
 ##### Campsfield House
 ### [ A fire breaks out at Campsfield House, a privately run Immigration detention Centre near Oxford in the United Kingdom. ](/news/2008/06/14/a-fire-breaks-out-at-campsfield-house-a-privately-run-immigration-detention-centre-near-oxford-in-the-united-kingdom.md)
@@ -29,11 +29,11 @@ _Context: Military of the United States, Afghan, Farah Province_
 
 ##### Magnitude
 ### [ The magnitude 6.8 M w 2008 Iwate earthquake shakes Iwate and Miyagi Prefectures on Japan's main island of Honshu, killing at least 6 people and injuring at least 8 others.](/news/2008/06/14/the-magnitude-6-8-m-w-2008-iwate-earthquake-shakes-iwate-and-miyagi-prefectures-on-japan-s-main-island-of-honsha-killing-at-least-6-peopl.md)
-_Context: Japan, magnitude, 2008 Iwate earthquake, Honshu Island, Miyagi Prefecture, Iwate Prefecture_
+_Context: Honshu Island, Japan, Iwate Prefecture, 2008 Iwate earthquake, Miyagi Prefecture, magnitude_
 
 ##### France
 ### [ The French Defense Ministry announces France is increasing its military presence in Djibouti following border clashes with Eritrea. France has a mutual defense agreement with Djibouti. ](/news/2008/06/14/the-french-defense-ministry-announces-france-is-increasing-its-military-presence-in-djibouti-following-border-clashes-with-eritrea-france.md)
-_Context: France, border clashes, Eritrea, Djibouti_
+_Context: Djibouti, France, border clashes, Eritrea_
 
 ## [Previous Day...](/news/2008/06/13/index.md)
 

@@ -9,7 +9,7 @@ Corn was the royalty of Maya food crops, celebrated in religion and cosmology, b
 
 ##### Pakistan
 ### [ The Pakistan Cricket Team wins the 2009 ICC World Twenty20 world cup after a hard match against Sri Lanka at Lord's Cricket Ground in London, England. ](/news/2009/06/21/the-pakistan-cricket-team-wins-the-2009-icc-world-twenty20-world-cup-after-a-hard-match-against-sri-lanka-at-lord-s-cricket-ground-in-londo.md)
-_Context: London, 2009 ICC World Twenty20, Pakistan, England, Lord's Cricket Ground, Sri Lanka_
+_Context: Sri Lanka, Lord's Cricket Ground, England, 2009 ICC World Twenty20, Pakistan, London_
 
 ##### England
 ### [ England defeats New Zealand in the 2009 ICC Women's World Twenty20. ](/news/2009/06/21/england-defeats-new-zealand-in-the-2009-icc-women-s-world-twenty20.md)
@@ -25,7 +25,7 @@ _Context: Somalia, declares, state of emergency_
 
 ##### Self-rule
 ### [ Self-rule is introduced in Greenland following a 2008 referendum. ](/news/2009/06/21/self-rule-is-introduced-in-greenland-following-a-2008-referendum.md)
-_Context: 2008 referendum, Greenland, Self-rule_
+_Context: 2008 referendum, Self-rule, Greenland_
 
 ##### France
 ### [ Seven people, including six amusement park employees, are killed in a French rural helicopter crash. ](/news/2009/06/21/seven-people-including-six-amusement-park-employees-are-killed-in-a-french-rural-helicopter-crash.md)
@@ -49,11 +49,11 @@ _Context: Belfast_
 
 ##### Salvatore Miceli
 ### [ Salvatore Miceli, an Italian Mafia fugitive on the run since 2001 and listed as one of the country's 30 most dangerous men, is arrested in Venezuela. ](/news/2009/06/21/salvatore-miceli-an-italian-mafia-fugitive-on-the-run-since-2001-and-listed-as-one-of-the-country-s-30-most-dangerous-men-is-arrested-in.md)
-_Context: Salvatore Miceli, Venezuela, Mafia, Italy_
+_Context: Venezuela, Mafia, Salvatore Miceli, Italy_
 
 ##### United States
 ### [ United States President Barack Obama tells a television news crew his country is "fully prepared" for a possible missile test by North Korea over the Pacific Ocean. ](/news/2009/06/21/united-states-president-barack-obama-tells-a-television-news-crew-his-country-is-fully-prepared-for-a-possible-missile-test-by-north-kore.md)
-_Context: South Pacific Ocean, United States, U.S. President, Barack Obama, North Korea_
+_Context: U.S. President, South Pacific Ocean, North Korea, Barack Obama, United States_
 
 ## [Previous Day...](/news/2009/06/20/index.md)
 

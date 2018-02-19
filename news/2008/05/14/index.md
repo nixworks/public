@@ -5,7 +5,7 @@ Formats: [HTML](2008/05/14/index.html)  [JSON](2008/05/14/index.json)  [XML](200
 
 ##### G1.9+0.3
 ### [ The discovery of G1.9+0.3, the youngest known supernova remnant in the Milky Way Galaxy, is announced. ](/news/2008/05/14/the-discovery-of-g1-9-0-3-the-youngest-known-supernova-remnant-in-the-milky-way-galaxy-is-announced.md)
-_Context: G1.9+0.3, Milky Way, galaxies, supernova remnant_
+_Context: Milky Way, G1.9+0.3, galaxies, supernova remnant_
 
 ##### EU-Latin America summit
 ### [ Food prices center stage at EU-Latin America summit. ](/news/2008/05/14/food-prices-center-stage-at-eu-latin-america-summit.md)
@@ -13,15 +13,15 @@ A bitter debate over biofuels, blamed by critics for high global food prices and
 
 ##### Marc Dann
 ### [ Democrat Marc Dann resigns as the Ohio Attorney General following a sexual harassment scandal involving several of his aides and an admitted affair with a subordinate. ](/news/2008/05/14/democrat-marc-dann-resigns-as-the-ohio-attorney-general-following-a-sexual-harassment-scandal-involving-several-of-his-aides-and-an-admitte.md)
-_Context: sexual harassment, Attorney General, Marc Dann_
+_Context: Marc Dann, Attorney General, sexual harassment_
 
 ##### 2008
 ### [ United States presidential election, 2008: John Edwards, a former contender to be the Democratic Party nominee, endorses the bid of Barack Obama. ](/news/2008/05/14/united-states-presidential-election-2008-john-edwards-a-former-contender-to-be-the-democratic-party-nominee-endorses-the-bid-of-barack.md)
-_Context: 2008, Democrat, Barack Obama, John Edwards_
+_Context: John Edwards, 2008, Barack Obama, Democrat_
 
 ##### United States Department of the Interior
 ### [ The United States Department of the Interior declares that the polar bear is a threatened species due to declining levels of Arctic Ocean ice as a result of global warming. ](/news/2008/05/14/the-united-states-department-of-the-interior-declares-that-the-polar-bear-is-a-threatened-species-due-to-declining-levels-of-arctic-ocean-i.md)
-_Context: threatened species, United States Department of the Interior, polar bear, global warming, Arctic Ocean_
+_Context: Arctic Ocean, United States Department of the Interior, polar bear, global warming, threatened species_
 
 ##### Suicide bomber
 ### [ A suicide bomber kills at least 22 people and injures 40 in an attack on a funeral in a village west of Baghdad. ](/news/2008/05/14/a-suicide-bomber-kills-at-least-22-people-and-injures-40-in-an-attack-on-a-funeral-in-a-village-west-of-baghdad.md)
@@ -29,7 +29,7 @@ _Context: suicide bomber, Baghdad, funeral_
 
 ##### Israel
 ### [ The Prime Minister of Israel Ehud Olmert warns Hamas that Israel will "not tolerate" attacks. ](/news/2008/05/14/the-prime-minister-of-israel-ehud-olmert-warns-hamas-that-israel-will-not-tolerate-attacks.md)
-_Context: Israeli Prime Minister, Israel, Hamas, Ehud Olmert_
+_Context: Israel, Israeli Prime Minister, Ehud Olmert, Hamas_
 
 ##### North Atlantic Treaty Organisation
 ### [ NATO raises concerns about an increase in insurgent attacks in Afghanistan and raises concern that it is partly due to agreements between Pakistan and militants in the Federally Administered Tribal Areas of Pakistan. ](/news/2008/05/14/nato-raises-concerns-about-an-increase-in-insurgent-attacks-in-afghanistan-and-raises-concern-that-it-is-partly-due-to-agreements-between-p.md)
@@ -45,11 +45,11 @@ The death toll from the cyclone in Burma could wind up climbing to between 68,83
 
 ##### Car bomb
 ### [ A car bomb explodes in a civil guards barracks in the town of Legutiano in the Basque Country of Spain killing at least one person and injuring several others. ](/news/2008/05/14/a-car-bomb-explodes-in-a-civil-guards-barracks-in-the-town-of-legutiano-in-the-basque-country-of-spain-killing-at-least-one-person-and-inju.md)
-_Context: barracks, Spain, Legutiano, car bomb, Basque_
+_Context: Legutiano, barracks, Spain, Basque, car bomb_
 
 ##### Association football
 ### [ In football, Zenit St Petersburg of Russia win the 2008 UEFA Cup after defeating Scottish side Rangers 2-0 in the final. ](/news/2008/05/14/in-football-zenit-st-petersburg-of-russia-win-the-2008-uefa-cup-after-defeating-scottish-side-rangers-2a0-in-the-final.md)
-_Context: Rangers F.C., final, Zenit St Petersburg, Russia, association football, Scotland, 2008 UEFA Cup_
+_Context: Rangers F.C., 2008 UEFA Cup, Zenit St Petersburg, Scotland, Russia, final, association football_
 
 ## [Previous Day...](/news/2008/05/13/index.md)
 

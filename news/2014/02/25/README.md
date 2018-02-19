@@ -9,7 +9,7 @@ Gunmen from Islamist group Boko Haram shot or burned to death 59 pupils in a boa
 
 ##### Gold Country
 ### [1,427 gold coins from the mid-19th century that were buried in eight cans are discovered by an anonymous couple while walking their dog in Gold Country, California. The find dubbed the Saddle Ridge Hoard is expected to be worth over $10 million dollars (USD) and is the largest known hoard of gold coins ever found in the United States.](/news/2014/02/25/1-427-gold-coins-from-the-mid-19th-century-that-were-buried-in-eight-cans-are-discovered-by-an-anonymous-couple-while-walking-their-dog-in-g.md)
-_Context: hoard, Saddle Ridge Hoard, Gold Country_
+_Context: hoard, Gold Country, Saddle Ridge Hoard_
 
 ##### Asiana Airlines
 ### [Asiana Airlines is fined US$500,000 for failing to promptly assist families of passengers aboard the flight. ](/news/2014/02/25/asiana-airlines-is-fined-us-500-000-for-failing-to-promptly-assist-families-of-passengers-aboard-the-flight.md)

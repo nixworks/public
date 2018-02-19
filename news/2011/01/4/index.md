@@ -21,7 +21,7 @@ _Context: Australia, Queensland_
 
 ##### Salmaan Taseer
 ### [Salmaan Taseer, the Governor of the Pakistani province of Punjab, is assassinated by Malik Mumtaz Hussain Qadri, one of his security guards at Koshar Market, Islamabad. ](/news/2011/01/4/salmaan-taseer-the-governor-of-the-pakistani-province-of-punjab-is-assassinated-by-malik-mumtaz-hussain-qadri-one-of-his-security-guards.md)
-_Context: Pakistan, Islamabad, Pakistani Punjab governor, Salmaan Taseer, Punjab Province, assassination, Malik Mumtaz Hussain Qadri_
+_Context: Pakistan, Punjab Province, Salmaan Taseer, assassination, Islamabad, Pakistani Punjab governor, Malik Mumtaz Hussain Qadri_
 
 ##### Texas
 ### [51-year-old Texan Cornelius Dupree, freed on parole in July 2010 after serving 30 of a 75 year sentence for aggravated robbery, has his conviction quashed after he was found to be innocent of the crime through DNA evidence. ](/news/2011/01/4/51-year-old-texan-cornelius-dupree-freed-on-parole-in-july-2010-after-serving-30-of-a-75-year-sentence-for-aggravated-robbery-has-his-conv.md)
@@ -29,7 +29,7 @@ A man in the US state of Texas has his robbery conviction overturned on DNA evid
 
 ##### ECOWAS
 ### [The Economic Community of West African States says the situation in Cote d'Ivoire is still in a "stalemate", amid the threat of force to remove Laurent Gbagbo. ](/news/2011/01/4/the-economic-community-of-west-african-states-says-the-situation-in-ca-te-d-ivoire-is-still-in-a-stalemate-amid-the-threat-of-force-to-re.md)
-_Context: ECOWAS, Cote d'Ivoire, Laurent Gbagbo_
+_Context: Cote d'Ivoire, ECOWAS, Laurent Gbagbo_
 
 ##### Sudan
 ### [Sudanese President Omar al-Bashir goes to Juba to meet with Southern Sudanese President of the Government Salva Kiir Mayardit ahead of Southern Sudan's independence referendum. ](/news/2011/01/4/sudanese-president-omar-al-bashir-goes-to-juba-to-meet-with-southern-sudanese-president-of-the-government-salva-kiir-mayardit-ahead-of-south.md)

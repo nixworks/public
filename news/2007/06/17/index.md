@@ -9,31 +9,31 @@ Seven Afghan children have been killed in a U.S.-led coalition air strike, the c
 
 ##### Ngel Cabrera
 ### [ ngel Cabrera wins the 2007 U.S. Open Golf Championship at Oakmont Country Club in Oakmont, Pennsylvania. ](/news/2007/06/17/angel-cabrera-wins-the-2007-u-s-open-golf-championship-at-oakmont-country-club-in-oakmont-pennsylvania.md)
-_Context: Oakmont, Pennsylvania, ngel Cabrera, Oakmont Country Club, 2007 U.S. Open Golf Championship_
+_Context: 2007 U.S. Open Golf Championship, ngel Cabrera, Oakmont, Pennsylvania, Oakmont Country Club_
 
 ##### Linate Airport
 ### [ Linate Airport in Milan, Italy is closed for three hours at dawn to allow wildlife experts to trap 80 hares that have bred in recent months and are confusing ground radar. ](/news/2007/06/17/linate-airport-in-milan-italy-is-closed-for-three-hours-at-dawn-to-allow-wildlife-experts-to-trap-80-hares-that-have-bred-in-recent-months.md)
-_Context: Italy, Linate Airport, radar, hare, Milan_
+_Context: radar, Milan, hare, Linate Airport, Italy_
 
 ##### Audi
 ### [ Audi wins their seventh 24 Hours of Le Mans in eight years, including their second straight win with a diesel R10 prototype. ](/news/2007/06/17/audi-wins-their-seventh-24-hours-of-le-mans-in-eight-years-including-their-second-straight-win-with-a-diesel-r10-prototype.md)
-_Context: prototype, R10, 24 Hours of Le Mans, diesel-powered, Audi_
+_Context: R10, diesel-powered, Audi, prototype, 24 Hours of Le Mans_
 
 ##### Canadian
 ### [ A Canadian pilot and five British passengers die in a plane crash in Malawi. ](/news/2007/06/17/a-canadian-pilot-and-five-british-passengers-die-in-a-plane-crash-in-malawi.md)
-_Context: Malawi, Canadian, plane crash, United Kingdom_
+_Context: United Kingdom, Malawi, Canadian, plane crash_
 
 ##### Mahmoud Abbas
 ### [ Mahmoud Abbas, president of the Palestinian National Authority, outlaws armed factions of Hamas. ](/news/2007/06/17/mahmoud-abbas-president-of-the-palestinian-national-authority-outlaws-armed-factions-of-hamas.md)
-_Context: president of the Palestinian National Authority, outlaw, Mahmoud Abbas, Hamas_
+_Context: Hamas, Mahmoud Abbas, president of the Palestinian National Authority, outlaw_
 
 ##### Kabul
 ### [ At least 35 people die in Kabul, Afghanistan as the result of a bombing of a police bus. ](/news/2007/06/17/at-least-35-people-die-in-kabul-afghanistan-as-the-result-of-a-bombing-of-a-police-bus.md)
-_Context: police, Afghan, Kabul_
+_Context: Afghan, police, Kabul_
 
 ##### France
 ### [ French voters go to the polls to elect a new French National Assembly. The centre-right Union for a Popular Movement (UPM) wins a comfortable majority; however, the left did make some gains, with senior minister Alain Juppe losing his seat in Bordeaux. ](/news/2007/06/17/french-voters-go-to-the-polls-to-elect-a-new-french-national-assembly-the-centre-right-union-for-a-popular-movement-upm-wins-a-comfortab.md)
-_Context: Alain Juppe, centre-right, France, go to the polls, UMP, French National Assembly, Bordeaux_
+_Context: Alain Juppe, go to the polls, centre-right, Bordeaux, UMP, France, French National Assembly_
 
 ## [Previous Day...](/news/2007/06/16/index.md)
 

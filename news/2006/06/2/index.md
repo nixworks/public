@@ -13,7 +13,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### BBC
 ### [ The BBC shows a video about a new alleged massacre by US troops in Ishaqi, Iraq, on March 15, 2006. ](/news/2006/06/2/the-bbc-shows-a-video-about-a-new-alleged-massacre-by-us-troops-in-ishaqi-iraq-on-march-15-2006.md)
-_Context: new alleged massacre, Ishaqi, BBC, Military of the United States, Iraq_
+_Context: Military of the United States, Ishaqi, new alleged massacre, BBC, Iraq_
 
 ##### Robert F. Kennedy, Jr.
 ### [ Robert F. Kennedy, Jr., writing in "Rolling Stone" magazine, accuses George W. Bush and his Republican Party of widespread voting fraud during the 2004 Presidential Election. ](/news/2006/06/2/robert-f-kennedy-jr-writing-in-rolling-stone-magazine-accuses-george-w-bush-and-his-republican-party-of-widespread-voting-fraud-dur.md)
@@ -21,15 +21,15 @@ Get the latest News news with exclusive stories and pictures from Rolling Stone.
 
 ##### China
 ### [ China, France, Germany, Russia, the United Kingdom and the United States propose a set of incentives and possible sanctions in an effort to encourage Iran to suspend or abandon its plans of nuclear development. ](/news/2006/06/2/china-france-germany-russia-the-united-kingdom-and-the-united-states-propose-a-set-of-incentives-and-possible-sanctions-in-an-effort-to.md)
-_Context: Iran, Iran and weapons of mass destruction, German, Russia, France, China, sanctions, United Kingdom, United States_
+_Context: United States, China, Iran and weapons of mass destruction, Russia, United Kingdom, sanctions, Iran, German, France_
 
 ##### Female genital cutting
 ### [ Female genital cutting is found to increase infant mortality and childbirth complications. ](/news/2006/06/2/female-genital-cutting-is-found-to-increase-infant-mortality-and-childbirth-complications.md)
-_Context: childbirth, infant mortality, complications, Female genital cutting_
+_Context: complications, infant mortality, childbirth, Female genital cutting_
 
 ##### Expedition 13
 ### [ Expedition 13-Soyuz TMA-8: Pavel Vinogradov and Jeffrey Williams spend more than six hours outside the International Space Station, conducting an extended maintenance spacewalk. ](/news/2006/06/2/expedition-13-soyuz-tma-8-pavel-vinogradov-and-jeffrey-williams-spend-more-than-six-hours-outside-the-international-space-station-conduct.md)
-_Context: Pavel Vinogradov, Soyuz TMA-8, Expedition 13, Jeffrey Williams, outside, spacewalk, International Space Station_
+_Context: Pavel Vinogradov, Soyuz TMA-8, Expedition 13, spacewalk, International Space Station, outside, Jeffrey Williams_
 
 ## [Previous Day...](/news/2006/06/1/index.md)
 

@@ -16,7 +16,7 @@ Pakistani police says a US citizen in custody over the deaths of two men in Laho
 
 ### Related:
 
-1. [An Anti-Terrorism Court in Lahore, Pakistan, sentences to the death penalty, Imran Ali for the rape and murder of the 7-year-old Pakistani girl. The family demands his hanging in public. ](/news/2018/02/17/an-anti-terrorism-court-in-lahore-pakistan-sentences-to-the-death-penalty-imran-ali-for-the-rape-and-murder-of-the-7-year-old-pakistani-g.md) _Context: Lahore_
+1. [An Anti-Terrorism Court in Lahore, Pakistan, sentences Imran Ali to death, for the rape and murder of 7-year-old Zainab Ansari. The victim's family demands Ali's hanging to be conducted in public. ](/news/2018/02/17/an-anti-terrorism-court-in-lahore-pakistan-sentences-imran-ali-to-death-for-the-rape-and-murder-of-7-year-old-zainab-ansari-the-victim-s.md) _Context: Lahore_
 2. [At least 26 people are killed and over 50 others are injured in a suicide car bombing in southern Lahore. ](/news/2017/07/24/at-least-26-people-are-killed-and-over-50-others-are-injured-in-a-suicide-car-bombing-in-southern-lahore.md) _Context: Lahore_
 3. [A suicide bomber kills at least six people and wounds 18 near a Pakistan Army vehicle taking part in the census in the city of Lahore. ](/news/2017/04/5/a-suicide-bomber-kills-at-least-six-people-and-wounds-18-near-a-pakistan-army-vehicle-taking-part-in-the-census-in-the-city-of-lahore.md) _Context: Lahore_
 4. [At least six people are killed in a bomb blast in the Pakistani city of Lahore. ](/news/2017/02/23/at-least-six-people-are-killed-in-a-bomb-blast-in-the-pakistani-city-of-lahore.md) _Context: Lahore_

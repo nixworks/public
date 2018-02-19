@@ -5,11 +5,11 @@ Formats: [HTML](2015/01/27/index.html)  [JSON](2015/01/27/index.json)  [XML](201
 
 ##### Libyan Civil War (2014-present)
 ### [Five gunmen at the Libyan Corinthia Hotel in Tripoli attack with at least ten dead. The hotel was previously the location in 2013 where a former prime minister was abducted. ](/news/2015/01/27/five-gunmen-at-the-libyan-corinthia-hotel-in-tripoli-attack-with-at-least-ten-dead-the-hotel-was-previously-the-location-in-2013-where-a-fo.md)
-_Context: Libyan Civil War (2014-present), Libya, Tripoli, Corinthia Hotel_
+_Context: Tripoli, Libya, Corinthia Hotel, Libyan Civil War (2014-present)_
 
 ##### Israeli-Lebanese conflict
 ### [Israeli security forces claim that Hezbollah and forces loyal to the President of Syria Bashar al-Assad are responsible for firing rockets from Syrian territory onto the Golan Heights into the mount Hermon sky resort. ](/news/2015/01/27/israeli-security-forces-claim-that-hezbollah-and-forces-loyal-to-the-president-of-syria-bashar-al-assad-are-responsible-for-firing-rockets-f.md)
-_Context: Israel, President, Israeli-Lebanese conflict, Bashar al-Assad, January 18 airstrike against a Hezbollah convoy, Hezbollah, Syria, Golan Heights_
+_Context: January 18 airstrike against a Hezbollah convoy, President, Golan Heights, Israeli-Lebanese conflict, Hezbollah, Bashar al-Assad, Syria, Israel_
 
 ##### Pope Francis
 ### [Pope Francis holds a private meeting with a transsexual man and his fiancee at the Vatican. ](/news/2015/01/27/pope-francis-holds-a-private-meeting-with-a-transsexual-man-and-his-fianca-c-e-at-the-vatican.md)
@@ -21,11 +21,11 @@ _Context: Hellenic Air Force, Spain, January 26 crash_
 
 ##### January 2015 nor'easter
 ### [New England sees the worst of the blizzard with Boston, Massachusetts covered in two feet of snow. ](/news/2015/01/27/new-england-sees-the-worst-of-the-blizzard-with-boston-massachusetts-covered-in-two-feet-of-snow.md)
-_Context: New England, Boston, January 2015 nor'easter, Massachusetts_
+_Context: January 2015 nor'easter, Boston, New England, Massachusetts_
 
 ##### United States
 ### [American 1964 Nobel Prize-winning physicist Charles Hard Townes, who helped invent the now-ubiquitous laser, dies at the age of 99. ](/news/2015/01/27/american-1964-nobel-prize-winning-physicist-charles-hard-townes-who-helped-invent-the-now-ubiquitous-laser-dies-at-the-age-of-99.md)
-_Context: United States, laser, Nobel Prize, Nobel Prize in Physics, Charles Hard Townes_
+_Context: Nobel Prize in Physics, Nobel Prize, United States, Charles Hard Townes, laser_
 
 ## [Previous Day...](/news/2015/01/26/index.md)
 

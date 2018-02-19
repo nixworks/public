@@ -9,7 +9,7 @@ Formats: [HTML](2017/03/2/index.html)  [JSON](2017/03/2/index.json)  [XML](2017/
 
 ##### War in North-West Pakistan
 ### [A United States drone strike kills two alleged militants in the Kurram district of the Federally Administered Tribal Areas. ](/news/2017/03/2/a-united-states-drone-strike-kills-two-alleged-militants-in-the-kurram-district-of-the-federally-administered-tribal-areas.md)
-_Context: United States, Federally Administered Tribal Areas, War in North-West Pakistan, Kurram_
+_Context: Kurram, United States, Federally Administered Tribal Areas, War in North-West Pakistan_
 
 ##### Methane
 ### [A methane gas explosion occurs at a coal mine in Lviv Oblast, Ukraine, killing at least eight miners, with another 20 unaccounted for. ](/news/2017/03/2/a-methane-gas-explosion-occurs-at-a-coal-mine-in-lviv-oblast-ukraine-killing-at-least-eight-miners-with-another-20-unaccounted-for.md)
@@ -33,7 +33,7 @@ Minority government introduces bill to restore 11-month conscription this summer
 
 ##### Political appointments of Donald Trump
 ### [The U.S. Senate confirms Donald Trump's appointment of his former opponents in the presidential primaries, neurosurgeon Ben Carson and Governor of Texas Rick Perry, as Secretaries of Housing and Urban Development and Energy respectively, with the support of all Republicans and some Democrats. ](/news/2017/03/2/the-u-s-senate-confirms-donald-trump-s-appointment-of-his-former-opponents-in-the-presidential-primaries-neurosurgeon-ben-carson-and-gover.md)
-_Context: Democrat, Republican, Political appointments of Donald Trump, United States Senate, Energy, Ben Carson, Donald Trump, Housing and Urban Development, presidential primaries, Rick Perry_
+_Context: Housing and Urban Development, Energy, Democrat, Rick Perry, United States Senate, Ben Carson, Political appointments of Donald Trump, Donald Trump, Republican, presidential primaries_
 
 ## [Previous Day...](/news/2017/03/1/index.md)
 

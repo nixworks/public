@@ -21,7 +21,7 @@ The US House of Representatives passes a bill aimed at increasing pressure on Ch
 
 ##### 2010 Oaxaca landslide
 ### [The 2010 Oaxaca landslide in the Mexican state of Oaxaca is less deadly than initially feared, with eleven people missing. ](/news/2010/09/29/the-2010-oaxaca-landslide-in-the-mexican-state-of-oaxaca-is-less-deadly-than-initially-feared-with-eleven-people-missing.md)
-_Context: Oaxaca, 2010 Oaxaca landslide, Mexico_
+_Context: Mexico, Oaxaca, 2010 Oaxaca landslide_
 
 ##### Chipas
 ### [Another landslide in the Mexican state of Chipas kills 16 people and leaves four missing. ](/news/2010/09/29/another-landslide-in-the-mexican-state-of-chipas-kills-16-people-and-leaves-four-missing.md)
@@ -29,7 +29,7 @@ _Context: Chipas_
 
 ##### 5,9 aftershock
 ### [A magnitude 5,9 aftershock of March 11, 2010 Pichilemu, Chile earthquake hits the Lolol, O'Higgins Region area. Power outages were reported in Lolol. ](/news/2010/09/29/a-magnitude-5-9-aftershock-of-march-11-2010-pichilemu-chile-earthquake-hits-the-lolol-o-higgins-region-area-power-outages-were-reported.md)
-_Context: O'Higgins Region, March 11, 2010 Pichilemu, Chile earthquake, 5,9 aftershock, Lolol_
+_Context: March 11, 2010 Pichilemu, Chile earthquake, O'Higgins Region, 5,9 aftershock, Lolol_
 
 ##### German
 ### [Germany makes the final payment of its World War I reparations. ](/news/2010/09/29/germany-makes-the-final-payment-of-its-world-war-i-reparations.md)
@@ -41,7 +41,7 @@ _Context: North Korea, South Korea_
 
 ##### European Commission
 ### [The European Commission issues a statement saying it will take legal action against France unless it complies with European Union rules on freedom of movement in relation to recent expulsion of Romani within the next two weeks. ](/news/2010/09/29/the-european-commission-issues-a-statement-saying-it-will-take-legal-action-against-france-unless-it-complies-with-european-union-rules-on-f.md)
-_Context: European Union, European Commission, Roma, freedom of movement, France_
+_Context: freedom of movement, Roma, France, European Commission, European Union_
 
 ##### Turkey
 ### [Turkey's ambassador refuses visas to Australian and New Zealand archaeologists to conduct a survey of Gallipoli Campaign battlesites over concerns about a statue built by Sydney's Assyrian community commemorating the Assyrian Genocide in World War I. ](/news/2010/09/29/turkey-s-ambassador-refuses-visas-to-australian-and-new-zealand-archaeologists-to-conduct-a-survey-of-gallipoli-campaign-battlesites-over-co.md)
@@ -57,7 +57,7 @@ _Context: Iran, propaganda, Hossein Derakhshan_
 
 ##### United States District Court for the Northern District of California
 ### [United States District Court for the Northern District of California judge Jeremy D. Fogel stays the execution of sex killer Albert Greenwood Brown who was due to be executed on Thursday. ](/news/2010/09/29/united-states-district-court-for-the-northern-district-of-california-judge-jeremy-d-fogel-stays-the-execution-of-sex-killer-albert-greenwoo.md)
-_Context: United States District Court for the Northern District of California, Albert Greenwood Brown, judge, Jeremy D. Fogel_
+_Context: United States District Court for the Northern District of California, Albert Greenwood Brown, Jeremy D. Fogel, judge_
 
 ##### India
 ### [India launches a national identity scheme aimed at reducing fraud and improving access to state benefits. ](/news/2010/09/29/india-launches-a-national-identity-scheme-aimed-at-reducing-fraud-and-improving-access-to-state-benefits.md)
@@ -69,15 +69,15 @@ The youngest son of North Korean leader Kim Jong-il is awarded two key party pos
 
 ##### Maatia Toafa
 ### [Maatia Toafa is elected Prime Minister of Tuvalu following the 2010 general election. He succeeds former Prime Minister Apisai Ielemia. ](/news/2010/09/29/maatia-toafa-is-elected-prime-minister-of-tuvalu-following-the-2010-general-election-he-succeeds-former-prime-minister-apisai-ielemia.md)
-_Context: 2010 general election, Prime Minister of Tuvalu, Apisai Ielemia, Tuvalu, Maatia Toafa_
+_Context: Tuvalu, 2010 general election, Apisai Ielemia, Prime Minister of Tuvalu, Maatia Toafa_
 
 ##### Cabinet formation in the Netherlands
 ### [Cabinet formation in the Netherlands: The People's Party for Freedom and Democracy (VVD), Christian Democratic Appeal (CDA) and Party for Freedom (PVV) complete the coalition formation after 111 days. ](/news/2010/09/29/cabinet-formation-in-the-netherlands-the-people-s-party-for-freedom-and-democracy-vvd-christian-democratic-appeal-cda-and-party-for-fr.md)
-_Context: CDA, Cabinet formation in the Netherlands, Party for Freedom, VVD_
+_Context: VVD, Party for Freedom, Cabinet formation in the Netherlands, CDA_
 
 ##### Astronomer
 ### [Astronomers discover the first Earth analog extrasolar planet that may be capable of supporting life, Gliese 581 g, located within the habitable zone and orbiting Gliese 581, a red dwarf star twenty light years from the solar system. ](/news/2010/09/29/astronomers-discover-the-first-earth-analog-extrasolar-planet-that-may-be-capable-of-supporting-life-gliese-581-g-located-within-the-habit.md)
-_Context: Earth-like, habitable zone, Astronomer, Gliese 581 g, light years, Gliese 581, red dwarf, solar system, extrasolar planet_
+_Context: red dwarf, Astronomer, extrasolar planet, Gliese 581, light years, Gliese 581 g, Earth-like, habitable zone, solar system_
 
 ## [Previous Day...](/news/2010/09/28/index.md)
 

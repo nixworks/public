@@ -13,11 +13,11 @@ That move has enraged China and may complicate President Obama’s effort to enl
 
 ##### Haiti
 ### [Haiti acknowledges the immediate international assistance it received from Cuba, the Dominican Republic and Venezuela following the recent earthquake and confirms the death toll has reached 150,000. ](/news/2010/01/29/haiti-acknowledges-the-immediate-international-assistance-it-received-from-cuba-the-dominican-republic-and-venezuela-following-the-recent-e.md)
-_Context: Dominican Republic, Haiti, Cuba, Venezuela, 2010 Haiti earthquake_
+_Context: Haiti, Cuba, Dominican Republic, Venezuela, 2010 Haiti earthquake_
 
 ##### State of emergency
 ### [A state of emergency is declared in parts of Bolivia and rescue efforts continue in Peru amid heavy rain and floods in the region. ](/news/2010/01/29/a-state-of-emergency-is-declared-in-parts-of-bolivia-and-rescue-efforts-continue-in-peru-amid-heavy-rain-and-floods-in-the-region.md)
-_Context: Peru, state of emergency, Bolivia_
+_Context: state of emergency, Peru, Bolivia_
 
 ##### Sri Lanka
 ### [The offices of defeated Sri Lankan presidential candidate Sarath Fonseka are raided by police. ](/news/2010/01/29/the-offices-of-defeated-sri-lankan-presidential-candidate-sarath-fonseka-are-raided-by-police.md)
@@ -37,7 +37,7 @@ An employee of the Bank of Ireland is being questioned by gardaí investigating 
 
 ##### Russia
 ### [First flight of the Russian stealth fighter Sukhoi T-50. ](/news/2010/01/29/first-flight-of-the-russian-stealth-fighter-sukhoi-t-50.md)
-_Context: stealth fighter, Sukhoi T-50, Russia_
+_Context: stealth fighter, Russia, Sukhoi T-50_
 
 ##### Somalia
 ### [Several people are killed in heavy fighting in the Somalian capital Mogadishu. ](/news/2010/01/29/several-people-are-killed-in-heavy-fighting-in-the-somalian-capital-mogadishu.md)
@@ -45,15 +45,15 @@ At least nine dead in fighting in densely populated Mogadishu neighbourhoods.
 
 ##### Tony Blair
 ### [Tony Blair appears at the Iraq Inquiry and is questioned in public for the first time about his decision to take the United Kingdom to war against Iraq. ](/news/2010/01/29/tony-blair-appears-at-the-iraq-inquiry-and-is-questioned-in-public-for-the-first-time-about-his-decision-to-take-the-united-kingdom-to-war-a.md)
-_Context: Iraq, Iraq Inquiry, Iraq War, United Kingdom, Tony Blair_
+_Context: Tony Blair, United Kingdom, Iraq Inquiry, Iraq War, Iraq_
 
 ##### Vietnam
 ### [Vietnamese author Pham Thanh Nghien, who criticised the ruling Communist Party, is sentenced to four years in prison for spreading propaganda against the state. ](/news/2010/01/29/vietnamese-author-pham-thanh-nghien-who-criticised-the-ruling-communist-party-is-sentenced-to-four-years-in-prison-for-spreading-propagand.md)
-_Context: Vietnam, Pham Thanh Nghien, propaganda, Communist Party_
+_Context: propaganda, Vietnam, Communist Party, Pham Thanh Nghien_
 
 ##### Canadian
 ### [Canadian Prime Minister Stephen Harper appoints five new Senators. ](/news/2010/01/29/canadian-prime-minister-stephen-harper-appoints-five-new-senators.md)
-_Context: Prime Minister of Canada, Canadian, Canadian Senate, Stephen Harper_
+_Context: Stephen Harper, Canadian, Prime Minister of Canada, Canadian Senate_
 
 ## [Previous Day...](/news/2010/01/28/index.md)
 

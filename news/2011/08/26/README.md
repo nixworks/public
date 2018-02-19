@@ -9,19 +9,19 @@ Three rockets have hit the borderarea between Kuwait and Iraq, Al Arabiya TV rep
 
 ##### Bomb explodes
 ### [As many as ten people are feared dead after a bomb explodes at a United Nations building in Abuja, Nigeria. ](/news/2011/08/26/as-many-as-ten-people-are-feared-dead-after-a-bomb-explodes-at-a-united-nations-building-in-abuja-nigeria.md)
-_Context: Nigeria, United Nations, bomb explodes, Abuja_
+_Context: bomb explodes, Abuja, Nigeria, United Nations_
 
 ##### Ministry of Culture of the People's Republic of China
 ### [The Ministry of Culture of the People's Republic of China bars 100 songs from music download sites including Lady Gaga's "Judas" and Katy Perry's "Last Friday Night (T.G.I.F.)". ](/news/2011/08/26/the-ministry-of-culture-of-the-people-s-republic-of-china-bars-100-songs-from-music-download-sites-including-lady-gaga-s-judas-and-katy-pe.md)
-_Context: Last Friday Night (T.G.I.F.), Judas, Katy Perry, Lady Gaga, Ministry of Culture of the People's Republic of China_
+_Context: Katy Perry, Ministry of Culture of the People's Republic of China, Judas, Lady Gaga, Last Friday Night (T.G.I.F.)_
 
 ##### Ben Bernanke
 ### [Ben Bernanke, the Chairman of the United States Federal Reserve, gives a keynote address at a central banks conference at the US resort of Jackson Hole, Wyoming as statistics show that the US economy grew by 1%. ](/news/2011/08/26/ben-bernanke-the-chairman-of-the-united-states-federal-reserve-gives-a-keynote-address-at-a-central-banks-conference-at-the-us-resort-of-j.md)
-_Context: Wyoming, Ben Bernanke, United States Federal Reserve, Jackson Hole, economy of the United States, Chairman of the Federal Reserve, central bank_
+_Context: Chairman of the Federal Reserve, Wyoming, central bank, Ben Bernanke, Jackson Hole, United States Federal Reserve, economy of the United States_
 
 ##### Capital One
 ### [The Federal Reserve announces that it will hold hearings on the proposed acquisition, by Capital One, of ING Direct, a potential $9 billion deal. ](/news/2011/08/26/the-federal-reserve-announces-that-it-will-hold-hearings-on-the-proposed-acquisition-by-capital-one-of-ing-direct-a-potential-9-billion.md)
-_Context: Capital One, ING Direct_
+_Context: ING Direct, Capital One_
 
 ##### East coast of the United States
 ### [Hurricane Irene approaches the east coast of the United States ahead of making landfall on Saturday with 50 million people in its path. ](/news/2011/08/26/hurricane-irene-approaches-the-east-coast-of-the-united-states-ahead-of-making-landfall-on-saturday-with-50-million-people-in-its-path.md)
@@ -29,7 +29,7 @@ Hurricane Irene was bearing down on North Carolina Thursday on track to make lan
 
 ##### Japan
 ### [The Japanese National Police Agency reveals that 90 per cent of cyberattacks on its web site on July 10 came from Internet Protocol addresses in the People's Republic of China. ](/news/2011/08/26/the-japanese-national-police-agency-reveals-that-90-per-cent-of-cyberattacks-on-its-web-site-on-july-10-came-from-internet-protocol-addresse.md)
-_Context: cyberattack, Japan, police, Internet Protocol, China_
+_Context: police, Internet Protocol, China, cyberattack, Japan_
 
 ##### Barack Obama
 ### [The Associated Press reports that U.S. President Barack Obama's uncle, Onyango Obama, 67, is stopped on suspicion of drunken driving in Framingham, Massachusetts. ](/news/2011/08/26/the-associated-press-reports-that-u-s-president-barack-obama-s-uncle-onyango-obama-67-is-stopped-on-suspicion-of-drunken-driving-in-fram.md)

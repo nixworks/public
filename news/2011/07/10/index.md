@@ -9,7 +9,7 @@ Police in Bangladesh on Sunday fired tear gas and rubber bullets to disperse Isl
 
 ##### NATO
 ### [Three NATO service members are killed in separate attacks in Afghanistan. ](/news/2011/07/10/three-nato-service-members-are-killed-in-separate-attacks-in-afghanistan.md)
-_Context: Afghan, NATO_
+_Context: NATO, Afghan_
 
 ##### News International
 ### [The final edition of the "News of the World" is published in the United Kingdom. ](/news/2011/07/10/the-final-edition-of-the-news-of-the-world-is-published-in-the-united-kingdom.md)
@@ -17,7 +17,7 @@ Rupert Murdoch&#039;s takeover of BSkyB appeared to be dead in the water last ni
 
 ##### Earthquake
 ### [A strong earthquake of 7.1 magnitude occurs off the coast of Honshu in Japan sparking a tsunami warning. ](/news/2011/07/10/a-strong-earthquake-of-7-1-magnitude-occurs-off-the-coast-of-honshu-in-japan-sparking-a-tsunami-warning.md)
-_Context: tsunami, tsunami warning, Honshu Island, earthquake_
+_Context: earthquake, tsunami, Honshu Island, tsunami warning_
 
 ##### Beloye
 ### [A fire in a retirement home in the village of Beloye in the western Ukraine kills 16 people. ](/news/2011/07/10/a-fire-in-a-retirement-home-in-the-village-of-beloye-in-the-western-ukraine-kills-16-people.md)
@@ -29,7 +29,7 @@ _Context: derailed, Uttar Pradesh, India, Kalka Mail_
 
 ##### Bulgaria
 ### [The cruise ship "Bulgaria" sinks in the Volga River near Bolgar, Russia. At least 110 of the 196 on board go down with the ship and drown, while 80 were rescued alive. ](/news/2011/07/10/the-cruise-ship-bulgaria-sinks-in-the-volga-river-near-bolgar-russia-at-least-110-of-the-196-on-board-go-down-with-the-ship-and-drown-w.md)
-_Context: Russia, Bolgar, Volga River, Bulgaria_
+_Context: Bulgaria, Bolgar, Russia, Volga River_
 
 ##### Tumaco
 ### [Twenty prisoners escape from a jail in the town of Tumaco in Colombia's Narino Department with three people recaptured. ](/news/2011/07/10/twenty-prisoners-escape-from-a-jail-in-the-town-of-tumaco-in-colombia-s-naria-o-department-with-three-people-recaptured.md)

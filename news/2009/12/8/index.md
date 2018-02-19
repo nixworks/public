@@ -5,7 +5,7 @@ Formats: [HTML](2009/12/8/index.html)  [JSON](2009/12/8/index.json)  [XML](2009/
 
 ##### Japan
 ### [ Japan unveils a new CNY7.2 trillion (US$80.6 billion) stimulus package to strengthen the country's economy amid signs it is weakening. ](/news/2009/12/8/japan-unveils-a-new-acny7-2-trillion-us-80-6-billion-stimulus-package-to-strengthen-the-country-s-economy-amid-signs-it-is-weakening.md)
-_Context: Japan, yen_
+_Context: yen, Japan_
 
 ##### Iran
 ### [ Anti-government protests in Iran continue at universities for a second day, with over 200 arrests. ](/news/2009/12/8/anti-government-protests-in-iran-continue-at-universities-for-a-second-day-with-over-200-arrests.md)
@@ -13,11 +13,11 @@ _Context: Japan, yen_
 
 ##### Honduras
 ### [ Gunmen in Honduras shoot dead the head of the country's anti-drug trafficking unit, Julian Aristides Gonzalez. ](/news/2009/12/8/gunmen-in-honduras-shoot-dead-the-head-of-the-country-s-anti-drug-trafficking-unit-julian-aristides-gonzalez.md)
-_Context: Honduras, drug trafficking, Julian Aristides Gonzalez_
+_Context: Honduras, Julian Aristides Gonzalez, drug trafficking_
 
 ##### CBS
 ### [ For the second time in as many years, CBS cancels a United States-produced soap opera, this time "As the World Turns" after 54 years, in effect putting Procter & Gamble, the creators of said genre, out of that business. ](/news/2009/12/8/for-the-second-time-in-as-many-years-cbs-cancels-a-united-states-produced-soap-opera-this-time-as-the-world-turns-after-54-years-in-ef.md)
-_Context: soap opera, Procter & Gamble, CBS, As the World Turns, United States_
+_Context: CBS, United States, soap opera, As the World Turns, Procter & Gamble_
 
 ##### President of Serbia
 ### [ President of Serbia Boris Tadic, his sports minister and FSS-FSS chief Tomislav Karadzic are punished for breaking FIFA's strict no-alcohol policy at the Stadion Crvena Zvezda on 10 October. ](/news/2009/12/8/president-of-serbia-boris-tadia-his-sports-minister-and-d-d-d-fss-chief-tomislav-karadzic-are-punished-for-breaking-fifa-s-strict-no-alc.md)
@@ -29,15 +29,15 @@ _Context: Guinea, Moussa Dadis Camara, junta_
 
 ##### Stampede
 ### [ Eight children are killed and a further 26 injured in a stampede at a school in Xiangtan, Hunan, in central China. ](/news/2009/12/8/eight-children-are-killed-and-a-further-26-injured-in-a-stampede-at-a-school-in-xiangtan-hunan-in-central-china.md)
-_Context: Xiangtan, Hunan, stampede, China_
+_Context: Hunan, China, Xiangtan, stampede_
 
 ##### Earthquake
 ### [ A series of earthquakes and aftershocks kill a 1 year old child and injure several other people in northern Malawi. ](/news/2009/12/8/a-series-of-earthquakes-and-aftershocks-kill-a-1-year-old-child-and-injure-several-other-people-in-northern-malawi.md)
-_Context: aftershock, earthquake, Malawi_
+_Context: Malawi, aftershock, earthquake_
 
 ##### Cambodia
 ### [ A Cambodian court sentences a Thai man on charges of spying for Thailand to 7 years imprisonment. ](/news/2009/12/8/a-cambodian-court-sentences-a-thai-man-on-charges-of-spying-for-thailand-to-7-years-imprisonment.md)
-_Context: Cambodia, espionage, Thailand_
+_Context: espionage, Thailand, Cambodia_
 
 ##### Scaled Composites SpaceShipTwo
 ### [ Scaled Composites SpaceShipTwo, the world's first commercial spacecraft, is officially unveiled in the Mojave Desert, California. ](/news/2009/12/8/scaled-composites-spaceshiptwo-the-world-s-first-commercial-spacecraft-is-officially-unveiled-in-the-mojave-desert-california.md)
@@ -49,7 +49,7 @@ More than 120 people killed in car bomb blasts at five different locations in Ba
 
 ##### Burma
 ### [ Burmese authorities burn US$93 million worth of seized narcotic drugs at a ceremony in eastern Shan State. ](/news/2009/12/8/burmese-authorities-burn-us-93-million-worth-of-seized-narcotic-drugs-at-a-ceremony-in-eastern-shan-state.md)
-_Context: Shan State, narcotic drugs, Burma_
+_Context: narcotic drugs, Shan State, Burma_
 
 ## [Previous Day...](/news/2009/12/7/index.md)
 

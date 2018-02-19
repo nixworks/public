@@ -17,11 +17,11 @@ Israeli police shot dead a Palestinian woman and her teenage brother on Wednesda
 
 ##### 2016 Armenian-Azerbaijani clashes
 ### [According to officials from the breakaway region of Nagorno-Karabakh, one of their soldiers was killed overnight by Azerbaijani troops. ](/news/2016/04/27/according-to-officials-from-the-breakaway-region-of-nagorno-karabakh-one-of-their-soldiers-was-killed-overnight-by-azerbaijani-troops.md)
-_Context: 2016 Armenian-Azerbaijani clashes, Azerbaijan, Nagorno-Karabakh_
+_Context: Azerbaijan, Nagorno-Karabakh, 2016 Armenian-Azerbaijani clashes_
 
 ##### War in Donbass
 ### [Representatives of the Russian-backed Donetsk People's Republic in Eastern Ukraine say at least five civilians are killed by artillery fire at a checkpoint in the town of Olenivka, with another 10 injured. Kiev denies the accusation. A local border-guard spokesman says there was an explosion at the checkpoint but he saw no artillery fired from either side, suggesting the blast could have been a bomb. ](/news/2016/04/27/representatives-of-the-russian-backed-donetsk-people-s-republic-in-eastern-ukraine-say-at-least-five-civilians-are-killed-by-artillery-fire.md)
-_Context: Russia, Donetsk People's Republic, Eastern Ukraine, Government of Ukraine, War in Donbass_
+_Context: Government of Ukraine, Russia, Donetsk People's Republic, War in Donbass, Eastern Ukraine_
 
 ##### War in Afghanistan
 ### [The U.S. military warns that the Kabul Attack Network, comprised of fighters from various jihadist groups such as the Taliban and Haqqani networks, is planning attacks on people in the Parwan, Khost, Kabul, and Logar Provinces, Afghanistan, and asks for information from the Afghan public. ](/news/2016/04/27/the-u-s-military-warns-that-the-kabul-attack-network-comprised-of-fighters-from-various-jihadist-groups-such-as-the-taliban-and-haqqani-ne.md)
@@ -69,15 +69,15 @@ _Context: United Nations Security Council, Morocco, MINURSO_
 
 ##### Iraqi Civil War
 ### [Senior Kurdish and Shi'ite Muslim leaders agree to withdraw from Tuz Khurmato, Iraq, where recent violence has killed more than 10 people. ](/news/2016/04/27/senior-kurdish-and-shi-ite-muslim-leaders-agree-to-withdraw-from-tuz-khurmato-iraq-where-recent-violence-has-killed-more-than-10-people.md)
-_Context: Shia, Tuz Khurmato, Iraqi Civil War, Kurdish, Iraq_
+_Context: Iraqi Civil War, Iraq, Shia, Kurdish, Tuz Khurmato_
 
 ##### Andrew Chan
 ### [Two days before the one-year anniversary of the execution of Andrew Chan and Myuran Sukumaran, the ringleaders of the Bali Nine, member Michael Czugaj is discovered to be in possession of drugs in prison. ](/news/2016/04/27/two-days-before-the-one-year-anniversary-of-the-execution-of-andrew-chan-and-myuran-sukumaran-the-ringleaders-of-the-bali-nine-member-mich.md)
-_Context: Myuran Sukumaran, Bali Nine, Michael Czugaj, Andrew Chan_
+_Context: Myuran Sukumaran, Bali Nine, Andrew Chan, Michael Czugaj_
 
 ##### November 2015 Paris attacks
 ### [Belgian prosecutors hand over Salah Abdeslam, a key suspect in the November 2015 Paris attacks, to French authorities. ](/news/2016/04/27/belgian-prosecutors-hand-over-salah-abdeslam-a-key-suspect-in-the-november-2015-paris-attacks-to-french-authorities.md)
-_Context: Belgium, Salah Abdeslam, November 2015 Paris attacks, France_
+_Context: France, Belgium, November 2015 Paris attacks, Salah Abdeslam_
 
 ##### U.S. Speaker of the House of Representatives
 ### [Former Speaker of the United States House of Representatives Dennis Hastert is sentenced to 15 months in prison for breaking banking laws in order to make payments to cover sexual misconduct from past decades. ](/news/2016/04/27/former-speaker-of-the-united-states-house-of-representatives-dennis-hastert-is-sentenced-to-15-months-in-prison-for-breaking-banking-laws-in.md)
@@ -89,7 +89,7 @@ Iraqi authorities have revoked the operating licence of the pan-Arab satellite n
 
 ##### Censorship in Iran
 ### [Iran sentences four reformist newspaper journalists to long prison terms for so-called national security crimes. Analysts say this case indicates that President Hassan Rouhani's calls for press freedoms will likey face an unsympathetic hearing from Iran's conservative judiciary. ](/news/2016/04/27/iran-sentences-four-reformist-newspaper-journalists-to-long-prison-terms-for-so-called-national-security-crimes-analysts-say-this-case-indi.md)
-_Context: Hassan Rouhani, national security, Iran's conservative judiciary, Censorship in Iran, Iran, President, journalist_
+_Context: Hassan Rouhani, Iran's conservative judiciary, President, journalist, Censorship in Iran, national security, Iran_
 
 ##### Monte Tchota massacre
 ### [Cape Verdean police capture a suspect in the murder of eight soldiers and three civilians. ](/news/2016/04/27/cape-verdean-police-capture-a-suspect-in-the-murder-of-eight-soldiers-and-three-civilians.md)
@@ -105,7 +105,7 @@ North Korea announces it will hold a Workers Party congress next month, the firs
 
 ##### 2016 U.S. election
 ### [Texas Senator Ted Cruz names former Republican presidential candidate Carly Fiorina as his vice-presidential running mate. ](/news/2016/04/27/texas-senator-ted-cruz-names-former-republican-presidential-candidate-carly-fiorina-as-his-vice-presidential-running-mate.md)
-_Context: Republican, Ted Cruz, Carly Fiorina, Ted Cruz presidential campaign, 2016, presidential candidate, United States Senate, Texas, 2016 U.S. election_
+_Context: presidential candidate, Carly Fiorina, Ted Cruz, Texas, United States Senate, 2016 U.S. election, Ted Cruz presidential campaign, 2016, Republican_
 
 ##### Bradford West
 ### [Bradford West MP Naz Shah is suspended from the opposition Labour Party over comments she made on Facebook about Israel. ](/news/2016/04/27/bradford-west-mp-naz-shah-is-suspended-from-the-opposition-labour-party-over-comments-she-made-on-facebook-about-israel.md)
@@ -113,7 +113,7 @@ Labour suspends MP Naz Shah over a Facebook post suggesting Israel should be mov
 
 ##### Chancellor
 ### [German Chancellor Angela Merkel's office confirms German Federal Intelligence Service President Gerhard Schindler will be replaced by Bruno Kahl. Schindler has been widely criticized following the disclosure his agency spied for the U.S. National Security Agency. ](/news/2016/04/27/german-chancellor-angela-merkel-s-office-confirms-german-federal-intelligence-service-president-gerhard-schindler-will-be-replaced-by-bruno.md)
-_Context: United States, Chancellor, Angela Merkel, BND, Gerhard Schindler, National Security Agency_
+_Context: National Security Agency, Angela Merkel, BND, Gerhard Schindler, United States, Chancellor_
 
 ## [Previous Day...](/news/2016/04/26/index.md)
 

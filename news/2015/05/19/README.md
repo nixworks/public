@@ -25,15 +25,15 @@ Eighteen garment workers were killed and 21 injured Tuesday morning when the van
 
 ##### 2015 Colombian landslide
 ### [The death toll from landslides in the Colombian town of Salgar rises to 56 with scores missing. ](/news/2015/05/19/the-death-toll-from-landslides-in-the-colombian-town-of-salgar-rises-to-56-with-scores-missing.md)
-_Context: 2015 Colombian landslide, Colombia, Salgar_
+_Context: Salgar, Colombia, 2015 Colombian landslide_
 
 ##### Germanwings Flight 9525
 ### [French prosecutors say the passengers onboard the Germanwings flight that crashed in southern France have all been identified, and their bodies can be returned home to their families. ](/news/2015/05/19/french-prosecutors-say-the-passengers-onboard-the-germanwings-flight-that-crashed-in-southern-france-have-all-been-identified-and-their-bod.md)
-_Context: French-born, France, Germanwings Flight 9525_
+_Context: France, French-born, Germanwings Flight 9525_
 
 ##### Baku
 ### [ At least 16 people are killed and scores are injured in a residential building fire in Baku, Azerbaijan. ](/news/2015/05/19/at-least-16-people-are-killed-and-scores-are-injured-in-a-residential-building-fire-in-baku-azerbaijan.md)
-_Context: Azerbaijan, Baku_
+_Context: Baku, Azerbaijan_
 
 ##### Norwegian Cruise Line's
 ### [ Norwegian Cruise Line's "Norwegian Dawn" ran aground three miles off Bermuda when departing for a return trip to Boston, Massachusetts, U.S.A.. ](/news/2015/05/19/norwegian-cruise-line-s-norwegian-dawn-ran-aground-three-miles-off-bermuda-when-departing-for-a-return-trip-to-boston-massachusetts-u-s.md)
@@ -57,7 +57,7 @@ Mohawk Industries Inc and fiveother companies have agreed to pay a combined $275
 
 ##### Presidents
 ### [The President of Burundi Pierre Nkurunziza says that the government will proceed with a presidential election despite protests and a recent failed coup. ](/news/2015/05/19/the-president-of-burundi-pierre-nkurunziza-says-that-the-government-will-proceed-with-a-presidential-election-despite-protests-and-a-recent.md)
-_Context: Pierre Nkurunziza, Presidents, 2015 Burundian unrest, failed coup, Burundian presidential election, 2015_
+_Context: Presidents, failed coup, Pierre Nkurunziza, Burundian presidential election, 2015, 2015 Burundian unrest_
 
 ##### Congress
 ### [The United States Congress sends a human trafficking bill to President Barack Obama for signature. ](/news/2015/05/19/the-united-states-congress-sends-a-human-trafficking-bill-to-president-barack-obama-for-signature.md)

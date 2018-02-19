@@ -25,7 +25,7 @@ At least two people die after Ivorian troops use gunfire and tear gas on protest
 
 ##### Morocco
 ### [Riots occur in the Moroccan city of Tangier over utility costs. ](/news/2011/02/19/riots-occur-in-the-moroccan-city-of-tangier-over-utility-costs.md)
-_Context: Morocco, Tangier_
+_Context: Tangier, Morocco_
 
 ##### Palestinian
 ### [8 Palestinians are injured while on restricted lands when their anti-barrier protests are broken up by Israeli forces using live ammunition and tear gas among other agents to disperse the protesters. ](/news/2011/02/19/8-palestinians-are-injured-while-on-restricted-lands-when-their-anti-barrier-protests-are-broken-up-by-israeli-forces-using-live-ammunition.md)
@@ -45,7 +45,7 @@ _Context: Dresden, tear gas, water cannon_
 
 ##### Iran
 ### [Iranian director Asghar Farhadi wins three awards, including the Golden Bear, for his film "Nader and Simin, A Separation" as the 61st Berlin International Film Festival ends. There are other winners from Argentina, Albania, Germany and Hungary. ](/news/2011/02/19/iranian-director-asghar-farhadi-wins-three-awards-including-the-golden-bear-for-his-film-nader-and-simin-a-separation-as-the-61st-berli.md)
-_Context: 61st Berlin International Film Festival, Albania, Nader and Simin, A Separation, German, Asghar Farhadi, Argentina, Hungary, Golden Bear, Iran_
+_Context: Hungary, 61st Berlin International Film Festival, Golden Bear, Asghar Farhadi, Nader and Simin, A Separation, Argentina, Albania, Iran, German_
 
 ##### International Petroleum Investment Company
 ### [International Petroleum Investment Company makes a $4billion bid for the remaining 53% of shares of Compania Espanola de Petroleos.](/news/2011/02/19/international-petroleum-investment-company-makes-a-4billion-bid-for-the-remaining-53-of-shares-of-compaa-aa-espaa-ola-de-petra3leos.md)
@@ -61,11 +61,11 @@ The Cuban government frees a jailed dissident journalist who refused to go into 
 
 ##### Madagascar
 ### [The return of former Madagascan President Marc Ravalomanana, in exile in South Africa, is blocked by the government on the island. Tear gas is fired to disperse supporters at the international airport. ](/news/2011/02/19/the-return-of-former-madagascan-president-marc-ravalomanana-in-exile-in-south-africa-is-blocked-by-the-government-on-the-island-tear-gas.md)
-_Context: Madagascar, Marc Ravalomanana, President, South Africa_
+_Context: Marc Ravalomanana, Madagascar, President, South Africa_
 
 ##### Governor of Wisconsin
 ### [Governor of Wisconsin Scott Walker rejects union concessions on the state budget as protests continue in the state capital. ](/news/2011/02/19/governor-of-wisconsin-scott-walker-rejects-union-concessions-on-the-state-budget-as-protests-continue-in-the-state-capital.md)
-_Context: Governor of Wisconsin, Scott Walker, Madison, Wisconsin_
+_Context: Scott Walker, Governor of Wisconsin, Madison, Wisconsin_
 
 ##### President of Tunisia
 ### [Thousands of political prisoners of former President of Tunisia Zine al-Abidine Ben Ali are released in Tunisia. ](/news/2011/02/19/thousands-of-political-prisoners-of-former-president-of-tunisia-zine-al-abidine-ben-ali-are-released-in-tunisia.md)

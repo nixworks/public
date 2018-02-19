@@ -5,7 +5,7 @@ Formats: [HTML](2016/02/8/index.html)  [JSON](2016/02/8/index.json)  [XML](2016/
 
 ##### Libyan Civil War (2014-present)
 ### [A Libyan Air Force MiG-23 fighter jet crashes due to a "mechanical failure", while conducting airstrikes on Islamic State-controlled areas in the eastern city of Derna. ](/news/2016/02/8/a-libyan-air-force-mig-23-fighter-jet-crashes-due-to-a-mechanical-failure-while-conducting-airstrikes-on-islamic-state-controlled-areas-i.md)
-_Context: Libyan Civil War (2014-present), Derna, MiG-23, Libyan Air Force, ISIL_
+_Context: ISIL, Libyan Air Force, MiG-23, Derna, Libyan Civil War (2014-present)_
 
 ##### Syrian Civil War
 ### [United Nations investigators accuse the Government of Syria of "extermination" in its jails and detention centres. ](/news/2016/02/8/united-nations-investigators-accuse-the-government-of-syria-of-extermination-in-its-jails-and-detention-centres.md)
@@ -13,7 +13,7 @@ Detainees held by the Syrian Government are dying on an extermination scale, a U
 
 ##### Saudi-led intervention in Yemen
 ### [A Scud missile fired from Yemen is intercepted over Saudi Arabia. The missile's target is believed to have been the King Khalid Air Base, near the city of Khamis Mushait. ](/news/2016/02/8/a-scud-missile-fired-from-yemen-is-intercepted-over-saudi-arabia-the-missile-s-target-is-believed-to-have-been-the-king-khalid-air-base-ne.md)
-_Context: Yemen, Saudi-led intervention in Yemen, Khamis Mushait, Saudi Arabia, Scud, King Khalid Air Base_
+_Context: Saudi Arabia, Yemen, Saudi-led intervention in Yemen, Scud, King Khalid Air Base, Khamis Mushait_
 
 ##### War in Afghanistan (2015-present)
 ### [A suicide bomber strikes a crowded market in eastern Afghanistan killing five civilians and wounding nine others. ](/news/2016/02/8/a-suicide-bomber-strikes-a-crowded-market-in-eastern-afghanistan-killing-five-civilians-and-wounding-nine-others.md)
@@ -33,7 +33,7 @@ A migrant boat capsizes off Turkey, killing at least 27 people who were trying t
 
 ##### Billy Kenoi
 ### [Billy Kenoi, the mayor of Hawaii's Big Island, declares a state of emergency to deal with the growing outbreak of dengue fever, which is spread by infected mosquitoes. ](/news/2016/02/8/billy-kenoi-the-mayor-of-hawaii-s-big-island-declares-a-state-of-emergency-to-deal-with-the-growing-outbreak-of-dengue-fever-which-is-spr.md)
-_Context: dengue, state of emergency, Hawaii, Billy Kenoi, island of Hawaii, infected mosquitoes_
+_Context: island of Hawaii, dengue, Hawaii, infected mosquitoes, Billy Kenoi, state of emergency_
 
 ##### Korean border incidents
 ### [The South Korean Navy fires warning shots at a North Korean patrol boat after it crossed the Northern Limit Line in the Yellow Sea and entered South Korean-controlled waters. As of 2016, North Korea refuses to recognize the so-called Northern Limit Line, that was drawn up at the end of the Korean War. ](/news/2016/02/8/the-south-korean-navy-fires-warning-shots-at-a-north-korean-patrol-boat-after-it-crossed-the-northern-limit-line-in-the-yellow-sea-and-enter.md)
@@ -45,7 +45,7 @@ Turkish aid workers set up tents and distribute supplies for thousands of new Sy
 
 ##### Supreme Court
 ### [The Constitutional Court of Colombia rules on banning all mining activities in the Paramo ecosystems due to environmental concerns. ](/news/2016/02/8/the-constitutional-court-of-colombia-rules-on-banning-all-mining-activities-in-the-pa-ramo-ecosystems-due-to-environmental-concerns.md)
-_Context: Paramo, Supreme Court_
+_Context: Supreme Court, Paramo_
 
 ##### Hackers
 ### [DotGovs, a hacker group that released data on almost 10,000 Department of Homeland Security employees yesterday, publish contact information for 20,000 FBI employees. ](/news/2016/02/8/dotgovs-a-hacker-group-that-released-data-on-almost-10-000-department-of-homeland-security-employees-yesterday-publish-contact-information.md)

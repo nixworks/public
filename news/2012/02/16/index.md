@@ -5,11 +5,11 @@ Formats: [HTML](2012/02/16/index.html)  [JSON](2012/02/16/index.json)  [XML](201
 
 ##### United States
 ### [A United States drone attack kills five militants in the Pakistani town of Spalga in north Waziristan. ](/news/2012/02/16/a-united-states-drone-attack-kills-five-militants-in-the-pakistani-town-of-spalga-in-north-waziristan.md)
-_Context: north Waziristan, Spalga, Pakistan, United States, drone attack_
+_Context: north Waziristan, drone attack, Pakistan, United States, Spalga_
 
 ##### Syrian Army
 ### [The Syrian Army attacks the Free Syrian Army positions in the town of Deraa. ](/news/2012/02/16/the-syrian-army-attacks-the-free-syrian-army-positions-in-the-town-of-deraa.md)
-_Context: Syrian Army, Free Syrian Army, Deraa_
+_Context: Deraa, Syrian Army, Free Syrian Army_
 
 ##### Nigeria
 ### [The Nigerian insurgent group Boko Haram attacks a prison in Kogi State freeing 119 inmates. ](/news/2012/02/16/the-nigerian-insurgent-group-boko-haram-attacks-a-prison-in-kogi-state-freeing-119-inmates.md)
@@ -29,11 +29,11 @@ HUNDREDS of passengers have vented their fury at Air Australia after the airline
 
 ##### Deadly prison fire
 ### [Senior prison officials are suspended and an investigation is opened into the cause of a deadly prison fire in Comayagua, Honduras, in which over 350 inmates died. ](/news/2012/02/16/senior-prison-officials-are-suspended-and-an-investigation-is-opened-into-the-cause-of-a-deadly-prison-fire-in-comayagua-honduras-in-which.md)
-_Context: deadly prison fire, Comayagua, Honduras_
+_Context: Comayagua, Honduras, deadly prison fire_
 
 ##### Nigeria
 ### [Thirty-two people die after a head on collision between two buses in Nigeria's Bauchi State. ](/news/2012/02/16/thirty-two-people-die-after-a-head-on-collision-between-two-buses-in-nigeria-s-bauchi-state.md)
-_Context: Nigeria, Bauchi State_
+_Context: Bauchi State, Nigeria_
 
 ##### Four World Trade Center
 ### [Four World Trade Center's construction crane snaps while lifting a steel. ](/news/2012/02/16/four-world-trade-center-s-construction-crane-snaps-while-lifting-a-steel.md)
@@ -41,7 +41,7 @@ _Context: Four World Trade Center_
 
 ##### 2011-2012 Syrian uprising
 ### [2011-2012 Syrian uprising: The United Nations General Assembly overwhelmingly votes in favour of an Arab sponsored resolution condemning human rights violations by the Syrian government led by President Bashar al-Assad. ](/news/2012/02/16/2011a2012-syrian-uprising-the-united-nations-general-assembly-overwhelmingly-votes-in-favour-of-an-arab-sponsored-resolution-condemning-h.md)
-_Context: Government of Syria, Arab, Bashar al-Assad, Syria, President, United Nations General Assembly, human rights, 2011-2012 Syrian uprising_
+_Context: Arab, human rights, Bashar al-Assad, United Nations General Assembly, Syria, Government of Syria, President, 2011-2012 Syrian uprising_
 
 ##### Olympus Corp
 ### [Former President of Olympus Corporation Tsuyoshi Kikukawa is arrested in relation to the Olympus scandal along with two other former senior executives. ](/news/2012/02/16/former-president-of-olympus-corporation-tsuyoshi-kikukawa-is-arrested-in-relation-to-the-olympus-scandal-along-with-two-other-former-senior.md)
@@ -53,7 +53,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### South Korea
 ### [South Korean silicon chip maker Hynix Semiconductor claims that a US court has rejected an antitrust claim against it by Rambus Inc. ](/news/2012/02/16/south-korean-silicon-chip-maker-hynix-semiconductor-claims-that-a-us-court-has-rejected-an-antitrust-claim-against-it-by-rambus-inc.md)
-_Context: antitrust, Rambus, silicon chip, South Korea, Semiconductor, Hynix_
+_Context: antitrust, South Korea, Hynix, Rambus, Semiconductor, silicon chip_
 
 ##### Chris Huhne
 ### [Chris Huhne, former UK Secretary of State for Energy and Climate Change, appears in court to face charges of perverting the course of justice together with his ex-wife, regarding a traffic violation. ](/news/2012/02/16/chris-huhne-former-uk-secretary-of-state-for-energy-and-climate-change-appears-in-court-to-face-charges-of-perverting-the-course-of-justic.md)
@@ -61,7 +61,7 @@ Former energy secretary Chris Huhne and his ex-wife Vicky Pryce have appeared in
 
 ##### German
 ### [German prosecutors ask the Bundestag to lift the immunity from prosecution of President Christian Wulff over corruption claims. ](/news/2012/02/16/german-prosecutors-ask-the-bundestag-to-lift-the-immunity-from-prosecution-of-president-christian-wulff-over-corruption-claims.md)
-_Context: German, Bundestag, President of Germany, prosecutor, Christian Wulff_
+_Context: President of Germany, prosecutor, Christian Wulff, Bundestag, German_
 
 ##### Umar Farouk Abdulmutallab
 ### [Umar Farouk Abdulmutallab, the so-called "underwear bomber", is sentenced to life imprisonment for attempting to detonate a bomb on Northwest Airlines Flight 253 in the US city of Detroit, Michigan. ](/news/2012/02/16/umar-farouk-abdulmutallab-the-so-called-underwear-bomber-is-sentenced-to-life-imprisonment-for-attempting-to-detonate-a-bomb-on-northwes.md)

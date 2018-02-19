@@ -5,7 +5,7 @@ Formats: [HTML](2006/09/24/index.html)  [JSON](2006/09/24/index.json)  [XML](200
 
 ##### Venezuela
 ### [ Venezuela's Foreign Minister Nicols Maduro is detained in John F. Kennedy International Airport for secondary screening. ](/news/2006/09/24/venezuela-s-foreign-minister-nicolas-maduro-is-detained-in-john-f-kennedy-international-airport-for-secondary-screening.md)
-_Context: Kennedy International Airport, Nicols Maduro, secondary screening, Venezuela_
+_Context: secondary screening, Kennedy International Airport, Nicols Maduro, Venezuela_
 
 ##### Quito
 ### [ At least 47 people, including a number of children, are killed in a bus crash near Quito, capital of Ecuador. ](/news/2006/09/24/at-least-47-people-including-a-number-of-children-are-killed-in-a-bus-crash-near-quito-capital-of-ecuador.md)
@@ -21,7 +21,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Europe
 ### [ Europe retains golf's Ryder Cup to score a third consecutive win, beating the United States by a score of 18.5 to 9.5. ](/news/2006/09/24/europe-retains-golf-s-ryder-cup-to-score-a-third-consecutive-win-beating-the-united-states-by-a-score-of-18-5-to-9-5.md)
-_Context: Europe, golfer, Ryder Cup, United States_
+_Context: United States, Ryder Cup, golfer, Europe_
 
 ## [Previous Day...](/news/2006/09/23/index.md)
 

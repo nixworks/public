@@ -9,7 +9,7 @@ _Context: Pakistan, president, terrorism, Asif Ali Zardari_
 
 ##### Yule goat
 ### [ The Gavle goat, a large Swedish yule goat, is torched by vandals for the 23rd time since its construction in 1966. ](/news/2008/12/27/the-ga-vle-goat-a-large-swedish-yule-goat-is-torched-by-vandals-for-the-23rd-time-since-its-construction-in-1966.md)
-_Context: Sweden, yule goat, Yule goat_
+_Context: yule goat, Yule goat, Sweden_
 
 ##### Woolworths Group
 ### [ On the eve of its centenary, Woolworths Group begins closing its stores in the United Kingdom. ](/news/2008/12/27/on-the-eve-of-its-centenary-woolworths-group-begins-closing-its-stores-in-the-united-kingdom.md)

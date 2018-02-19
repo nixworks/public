@@ -13,7 +13,7 @@ Taliban militants behead seven Pakistani soldiers captured by insurgents in a cr
 
 ##### Paraguayan President
 ### [Ousted President of Paraguay Fernando Lugo condemns the "coup against the citizenry and democracy" that ousted him from his office. ](/news/2012/06/24/ousted-president-of-paraguay-fernando-lugo-condemns-the-coup-against-the-citizenry-and-democracy-that-ousted-him-from-his-office.md)
-_Context: Paraguay, Paraguayan President, Fernando Lugo_
+_Context: Paraguayan President, Paraguay, Fernando Lugo_
 
 ##### Ulster Bank
 ### [Ulster Bank opens branches on a Sunday for the first time as the payments crisis affecting the bank continues unabated. ](/news/2012/06/24/ulster-bank-opens-branches-on-a-sunday-for-the-first-time-as-the-payments-crisis-affecting-the-bank-continues-unabated.md)
@@ -21,7 +21,7 @@ Ulster Bank is to open 20 branches on a Sunday for the first time, to help custo
 
 ##### Tropical Storm Debby
 ### [Tropical Storm Debby continues to organize off the coast of Florida, lashing the state with high winds and heavy rains. The outer bands of the storm spawn two tornadoes, killing one person near Sarasota. ](/news/2012/06/24/tropical-storm-debby-continues-to-organize-off-the-coast-of-florida-lashing-the-state-with-high-winds-and-heavy-rains-the-outer-bands-of-t.md)
-_Context: Sarasota, Tropical Storm Debby, Florida_
+_Context: Sarasota, Florida, Tropical Storm Debby_
 
 ##### Christmas Island
 ### [Rescue efforts end after a boat capsized near Christmas Island, with more than 90 people still missing. ](/news/2012/06/24/rescue-efforts-end-after-a-boat-capsized-near-christmas-island-with-more-than-90-people-still-missing.md)
@@ -29,7 +29,7 @@ Rescue effort ends after refugee boat with 200 people capsized near Christmas Is
 
 ##### Manitou Springs
 ### [Manitou Springs in the U.S. state of Colorado is evacuated due to a raging wildfire just three miles from the popular vacation town. ](/news/2012/06/24/manitou-springs-in-the-u-s-state-of-colorado-is-evacuated-due-to-a-raging-wildfire-just-three-miles-from-the-popular-vacation-town.md)
-_Context: Manitou Springs, wildfire, Colorado, U.S. state_
+_Context: U.S. state, wildfire, Manitou Springs, Colorado_
 
 ##### Algo Centre Mall
 ### [The roof of the Algo Centre Mall in Elliot Lake, Ontario, Canada collapses killing at least one person and trapping several others in the debris. ](/news/2012/06/24/the-roof-of-the-algo-centre-mall-in-elliot-lake-ontario-canada-collapses-killing-at-least-one-person-and-trapping-several-others-in-the-de.md)
@@ -41,11 +41,11 @@ The iconic game show personality was admitted into Cedars-Sinai Medical Center o
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI chooses Fox News reporter and Opus Dei member Greg Burke to take a strategic communication role in the Vatican's most important government department, the secretariat of state. ](/news/2012/06/24/pope-benedict-xvi-chooses-fox-news-reporter-and-opus-dei-member-greg-burke-to-take-a-strategic-communication-role-in-the-vatican-s-most-impo.md)
-_Context: Fox News, Opus Dei, Greg Burke, Pope Benedict XVI, secretariat of state_
+_Context: secretariat of state, Opus Dei, Pope Benedict XVI, Greg Burke, Fox News_
 
 ##### Antonis Samaras
 ### [Antonis Samaras, the Prime Minister of Greece, is to miss a European Union summit as he recovers from an eye operation. ](/news/2012/06/24/antonis-samaras-the-prime-minister-of-greece-is-to-miss-a-european-union-summit-as-he-recovers-from-an-eye-operation.md)
-_Context: European Union, Antonis Samaras, Greek Prime Minister_
+_Context: Antonis Samaras, European Union, Greek Prime Minister_
 
 ##### NATO
 ### [NATO is to meet on Tuesday, based on a request from Turkey to consult them on what to do with Syria which shot down a Turkish jet after it had entered Syrian airspace. ](/news/2012/06/24/nato-is-to-meet-on-tuesday-based-on-a-request-from-turkey-to-consult-them-on-what-to-do-with-syria-which-shot-down-a-turkish-jet-after-it-h.md)
@@ -61,7 +61,7 @@ _Context: Bradley Manning_
 
 ##### Mohamed Morsi
 ### [Mohamed Morsi of the Muslim Brotherhood is declared the winner of Egypt's presidential election run-off. ](/news/2012/06/24/mohamed-morsi-of-the-muslim-brotherhood-is-declared-the-winner-of-egypt-s-presidential-election-run-off.md)
-_Context: Mohamed Morsi, Muslim Brotherhood, presidential election_
+_Context: Muslim Brotherhood, presidential election, Mohamed Morsi_
 
 ##### Tunisia
 ### [Tunisia extradites former Libyan Prime Minister Al Baghdadi Ali Al Mahmoudi. ](/news/2012/06/24/tunisia-extradites-former-libyan-prime-minister-al-baghdadi-ali-al-mahmoudi.md)

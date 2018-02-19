@@ -13,11 +13,11 @@ Radar Failure Causes Sao Paolo To Ground International Flights
 
 ##### Italy
 ### [ Italian police arrest three Moroccans and accuse them of running a small "terror school" in a small mosque near Perugia. ](/news/2007/07/21/italian-police-arrest-three-moroccans-and-accuse-them-of-running-a-small-terror-school-in-a-small-mosque-near-perugia.md)
-_Context: Perugia, Morocco, Italy_
+_Context: Morocco, Perugia, Italy_
 
 ##### UK
 ### [ In the UK, the Royal Air Force has one of its busiest weekends in peacetime rescuing hundreds of people from flooding after days of heavy rain lead to widespread flooding. ](/news/2007/07/21/in-the-uk-the-royal-air-force-has-one-of-its-busiest-weekends-in-peacetime-rescuing-hundreds-of-people-from-flooding-after-days-of-heavy-r.md)
-_Context: UK, flood, Royal Air Force, Summer 2007 United Kingdom floods_
+_Context: Royal Air Force, flood, UK, Summer 2007 United Kingdom floods_
 
 ##### Flood
 ### [ The death toll of recent floods in China rises to 40. ](/news/2007/07/21/the-death-toll-of-recent-floods-in-china-rises-to-40.md)
@@ -25,7 +25,7 @@ _Context: Chinese, flood_
 
 ##### NASA
 ### [ NASA mission scientists raise concerns that ongoing prolonged Martian dust storms could disable the Mars Exploration Rovers. ](/news/2007/07/21/nasa-mission-scientists-raise-concerns-that-ongoing-prolonged-martian-dust-storms-could-disable-the-mars-exploration-rovers.md)
-_Context: Mars Exploration Rover, Martian dust storm, NASA_
+_Context: NASA, Martian dust storm, Mars Exploration Rover_
 
 ##### United States
 ### [ United States forces attack an insurgent position in Hussainiya a Shiite suburb north of Baghdad, inflicting casualties. ](/news/2007/07/21/united-states-forces-attack-an-insurgent-position-in-hussainiya-a-shiite-suburb-north-of-baghdad-inflicting-casualties.md)
@@ -33,7 +33,7 @@ The deaths occurred during an American attack on a Shiite area on the outskirts 
 
 ##### United Nations
 ### [ The United Nations suspends a Moroccan peacekeeping contingent in the Cte d'Ivoire following allegations of widespread sexual abuse. ](/news/2007/07/21/the-united-nations-suspends-a-moroccan-peacekeeping-contingent-in-the-cote-d-ivoire-following-allegations-of-widespread-sexual-abuse.md)
-_Context: Morocco, United Nations, peacekeeping, Cte d'Ivoire_
+_Context: Cte d'Ivoire, peacekeeping, Morocco, United Nations_
 
 ##### Somalia
 ### [ Somali pirates demand $1.5 million in ransom for the release of a Danish freighter and its crew. ](/news/2007/07/21/somali-pirates-demand-1-5-million-in-ransom-for-the-release-of-a-danish-freighter-and-its-crew.md)
@@ -41,7 +41,7 @@ Pirates holding a Danish freighter off the Somali coast are demanding a $US1.5 m
 
 ##### Pratibha Patil
 ### [ Pratibha Patil wins the 13th presidential election in India to become the first female President of India. ](/news/2007/07/21/pratibha-patil-wins-the-13th-presidential-election-in-india-to-become-the-first-female-president-of-india.md)
-_Context: 13th presidential election in India, Pratibha Patil, President of India_
+_Context: President of India, 13th presidential election in India, Pratibha Patil_
 
 ##### Taliban
 ### [ The Taliban threatens to kill 18 South Koreans taken hostage in Afghanistan, prompting the government in Seoul to confirm an earlier plan to withdraw its troops from the country by the end of the year. Separately, the Taliban claims that it has executed two German hostages. ](/news/2007/07/21/the-taliban-threatens-to-kill-18-south-koreans-taken-hostage-in-afghanistan-prompting-the-government-in-seoul-to-confirm-an-earlier-plan-t.md)
@@ -57,7 +57,7 @@ _Context: Harry Potter, Harry Potter and the Deathly Hallows_
 
 ##### Press censorship
 ### [ "Press censorship:" A Spanish judge orders the confiscation of an edition of the Spanish satirical magazine "El Jueves" for its depiction of the heir apparent Crown Prince Felipe and his wife in a cartoon. ](/news/2007/07/21/press-censorship-a-spanish-judge-orders-the-confiscation-of-an-edition-of-the-spanish-satirical-magazine-el-jueves-for-its-depiction-o.md)
-_Context: Felipe, Prince of Asturias, heir apparent, satirical magazine, El Jueves, Press censorship_
+_Context: satirical magazine, heir apparent, Press censorship, Felipe, Prince of Asturias, El Jueves_
 
 ## [Previous Day...](/news/2007/07/20/index.md)
 

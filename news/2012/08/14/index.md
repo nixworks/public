@@ -21,7 +21,7 @@ _Context: Hseyin Aygn_
 
 ##### Alameda, California
 ### [Kariem McFarlin, 35, of Alameda, California, is arrested and charged with residential burglary and selling stolen property from the Northern California home of the late Steve Jobs. ](/news/2012/08/14/kariem-mcfarlin-35-of-alameda-california-is-arrested-and-charged-with-residential-burglary-and-selling-stolen-property-from-the-northern.md)
-_Context: Steve Jobs, Northern California, Alameda, California_
+_Context: Steve Jobs, Alameda, California, Northern California_
 
 ##### Almaty
 ### [Eleven bodies of individuals stabbed to death are found in the mountainous Ile Alatau national park, near Kazakh capital Almaty. ](/news/2012/08/14/eleven-bodies-of-individuals-stabbed-to-death-are-found-in-the-mountainous-ile-alatau-national-park-near-kazakh-capital-almaty.md)

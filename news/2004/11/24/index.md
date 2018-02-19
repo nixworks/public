@@ -5,19 +5,19 @@ Formats: [HTML](2004/11/24/index.html)  [JSON](2004/11/24/index.json)  [XML](200
 
 ##### 2004 U.S. presidential election controversy
 ### [ 2004 U.S. presidential election controversy: The U.S. Government Accountability Office plans to investigate complaints of several systemic problems with this month's elections. ](/news/2004/11/24/2004-u-s-presidential-election-controversy-the-u-s-government-accountability-office-plans-to-investigate-complaints-of-several-systemic.md)
-_Context: 2004 U.S. presidential election controversy, Government Accountability Office_
+_Context: Government Accountability Office, 2004 U.S. presidential election controversy_
 
 ##### European Union
 ### [ Iran's nuclear program: The European Union rejects a request by Iran to be allowed to continue using uranium enrichment centrifuges. ](/news/2004/11/24/iran-s-nuclear-program-the-european-union-rejects-a-request-by-iran-to-be-allowed-to-continue-using-uranium-enrichment-centrifuges.md)
-_Context: Iran, uranium enrichment, Iran's nuclear program, centrifuge, European Union_
+_Context: European Union, uranium enrichment, Iran's nuclear program, Iran, centrifuge_
 
 ##### U.S. Department of Agriculture
 ### [ U.S. Department of Agriculture officials have announced that the possible U.S. case of mad cow disease from the previous week has tested negative twice in tests run by the National Veterinary Services Laboratory. ](/news/2004/11/24/u-s-department-of-agriculture-officials-have-announced-that-the-possible-u-s-case-of-mad-cow-disease-from-the-previous-week-has-tested-ne.md)
-_Context: U.S. Department of Agriculture, National Veterinary Services Laboratory, mad cow_
+_Context: U.S. Department of Agriculture, mad cow, National Veterinary Services Laboratory_
 
 ##### Ukraine
 ### [ Despite earlier reports that Ukraine's Prime Minister Viktor Yanukovych and opposition leader Viktor Yushchenko had agreed to hold talks over the country's heavily disputed elections, this now seems unlikely. Protests continue, with an official election result due to be announced at around 1400 UTC. ](/news/2004/11/24/despite-earlier-reports-that-ukraine-s-prime-minister-viktor-yanukovych-and-opposition-leader-viktor-yushchenko-had-agreed-to-hold-talks-ov.md)
-_Context: Viktor Yanukovych, Ukrainian presidential election controversy, Viktor Yushchenko, Ukraine_
+_Context: Viktor Yushchenko, Ukrainian presidential election controversy, Ukraine, Viktor Yanukovych_
 
 ##### Indonesia
 ### [ Indonesian police officials announce the arrest of four suspects wanted concerning the 2004 Australian Embassy bombing in Jakarta. ](/news/2004/11/24/indonesian-police-officials-announce-the-arrest-of-four-suspects-wanted-concerning-the-2004-australian-embassy-bombing-in-jakarta.md)

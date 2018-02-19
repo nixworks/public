@@ -17,7 +17,7 @@ _Context: Ivory Coast, Duekoue_
 
 ##### Amnesty International
 ### [Amnesty International says Muslim Rohingyas in western Burma have been subject to attacks and arbitrary arrests. ](/news/2012/07/20/amnesty-international-says-muslim-rohingyas-in-western-burma-have-been-subject-to-attacks-and-arbitrary-arrests.md)
-_Context: Amnesty International, Muslim, Rohingya, Burma_
+_Context: Rohingya, Burma, Muslim, Amnesty International_
 
 ##### Olympic Torch
 ### [The Olympic Torch arrives in London for the final stages of the UK-wide relay ahead of the 2012 Summer Olympics. ](/news/2012/07/20/the-olympic-torch-arrives-in-london-for-the-final-stages-of-the-uk-wide-relay-ahead-of-the-2012-summer-olympics.md)
@@ -33,7 +33,7 @@ _Context: Nayarit_
 
 ##### Vladimir Putin
 ### [The custody of three anti-Putin protesters from the Pussy Riot group is extended for another six months before their trial begins. ](/news/2012/07/20/the-custody-of-three-anti-putin-protesters-from-the-pussy-riot-group-is-extended-for-another-six-months-before-their-trial-begins.md)
-_Context: Pussy Riot, Vladimir Putin_
+_Context: Vladimir Putin, Pussy Riot_
 
 ##### Berkshire
 ### [David Burgess, already serving life imprisonment on two counts of murder, is given a fresh life sentence after being convicted of the 1966 murder of Yolande Waddington, a nanny from Berkshire, England. ](/news/2012/07/20/david-burgess-already-serving-life-imprisonment-on-two-counts-of-murder-is-given-a-fresh-life-sentence-after-being-convicted-of-the-1966-m.md)

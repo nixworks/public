@@ -5,15 +5,15 @@ Formats: [HTML](2008/06/22/index.html)  [JSON](2008/06/22/index.json)  [XML](200
 
 ##### Fellowship of Confessing Anglicans
 ### [ The Global Anglican Future Conference, a forum for conservative bishops and leaders of the Anglican Communion, opens in Jerusalem as an alternative to the Fourteenth Lambeth Conference. ](/news/2008/06/22/the-global-anglican-future-conference-a-forum-for-conservative-bishops-and-leaders-of-the-anglican-communion-opens-in-jerusalem-as-an-alt.md)
-_Context: Anglican Communion, conservative, Fellowship of Confessing Anglicans, Jerusalem, Fourteenth Lambeth Conference_
+_Context: conservative, Anglican Communion, Fourteenth Lambeth Conference, Fellowship of Confessing Anglicans, Jerusalem_
 
 ##### Tarija Department
 ### [ Tarija Department becomes the fourth Bolivian department to vote for greater autonomy from the government of the President of Bolivia Evo Morales. ](/news/2008/06/22/tarija-department-becomes-the-fourth-bolivian-department-to-vote-for-greater-autonomy-from-the-government-of-the-president-of-bolivia-evo-m.md)
-_Context: Tarija Department, Bolivia, vote, autonomy, President of Bolivia, Evo Morales_
+_Context: Evo Morales, President of Bolivia, Bolivia, Tarija Department, vote, autonomy_
 
 ##### Suicide bomber
 ### [ A female suicide bomber kills at least 16 people and injures another 40 in Baquba, Iraq. ](/news/2008/06/22/a-female-suicide-bomber-kills-at-least-16-people-and-injures-another-40-in-baquba-iraq.md)
-_Context: suicide bomber, Baquba, Iraq_
+_Context: Baquba, suicide bomber, Iraq_
 
 ##### Saudi Arabia
 ### [ Saudi Arabia offers to increase its oil production slightly at an oil summit in Jeddah. ](/news/2008/06/22/saudi-arabia-offers-to-increase-its-oil-production-slightly-at-an-oil-summit-in-jeddah.md)

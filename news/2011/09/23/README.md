@@ -5,11 +5,11 @@ Formats: [HTML](2011/09/23/index.html)  [JSON](2011/09/23/index.json)  [XML](201
 
 ##### 2011 Yemeni uprising
 ### [2011 Yemeni uprising: The President of Yemen, Ali Abdullah Saleh, returns from Saudi Arabia after a three-month absence, amid an increase in political unrest and violence in Yemen. ](/news/2011/09/23/2011-yemeni-uprising-the-president-of-yemen-ali-abdullah-saleh-returns-from-saudi-arabia-after-a-three-month-absence-amid-an-increase-in.md)
-_Context: President, Ali Abdullah Saleh, 2011 Yemeni uprising, Saudi Arabia_
+_Context: President, Ali Abdullah Saleh, Saudi Arabia, 2011 Yemeni uprising_
 
 ##### Kabul
 ### [Thousands of mourners gather in Kabul for the funeral of former President of Afghanistan Burhanuddin Rabbani, who was killed by a suicide bomber earlier in the week. ](/news/2011/09/23/thousands-of-mourners-gather-in-kabul-for-the-funeral-of-former-president-of-afghanistan-burhanuddin-rabbani-who-was-killed-by-a-suicide-bo.md)
-_Context: Kabul, suicide bomber, Afghanistan President, Burhanuddin Rabbani_
+_Context: Kabul, Afghanistan President, Burhanuddin Rabbani, suicide bomber_
 
 ##### Stock market
 ### [Global stock markets fall for a second day amid fears of a deepening economic crisis. ](/news/2011/09/23/global-stock-markets-fall-for-a-second-day-amid-fears-of-a-deepening-economic-crisis.md)
@@ -25,7 +25,7 @@ More than 3,000 Toyota workers are striking for a fifth day this month over a pa
 
 ##### Flood
 ### [Floods in the Filipino province of Maguindanao affect 16,000 families. ](/news/2011/09/23/floods-in-the-filipino-province-of-maguindanao-affect-16-000-families.md)
-_Context: Philippines, Flood, Maguindanao_
+_Context: Flood, Philippines, Maguindanao_
 
 ##### Israeli-Palestinian conflict
 ### [During the opening of the General Assembly of the United Nations, the President of the Palestinian National Authority, Mahmoud Abbas, makes a bid for UN recognition in a unilateral declaration of a Palestinian state, which would exist in the Gaza Strip and the West Bank, and have East Jerusalem as its capital. ](/news/2011/09/23/during-the-opening-of-the-general-assembly-of-the-united-nations-the-president-of-the-palestinian-national-authority-mahmoud-abbas-makes.md)

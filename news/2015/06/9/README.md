@@ -5,7 +5,7 @@ Formats: [HTML](2015/06/9/index.html)  [JSON](2015/06/9/index.json)  [XML](2015/
 
 ##### Naxalite-Maoist insurgency
 ### [Indian police kill at least 12 Naxalite Maoist rebels in a clash in the state of Jharkhand. ](/news/2015/06/9/indian-police-kill-at-least-12-naxalite-maoist-rebels-in-a-clash-in-the-state-of-jharkhand.md)
-_Context: Jharkhand, Naxalite, Maoist, Naxalite-Maoist insurgency, Indian police_
+_Context: Indian police, Naxalite-Maoist insurgency, Maoist, Naxalite, Jharkhand_
 
 ##### Syrian Civil War
 ### [The Southern Front of the Free Syrian Army claims to have captured a major Syrian Army base known as Brigade 52 in Daraa Governorate. ](/news/2015/06/9/the-southern-front-of-the-free-syrian-army-claims-to-have-captured-a-major-syrian-army-base-known-as-brigade-52-in-daraa-governorate.md)
@@ -13,7 +13,7 @@ Rebels in Syria say they have captured a major army base in the south of the cou
 
 ##### HSBC
 ### [HSBC announces plans to cut 8,000 jobs in the United Kingdom, one-sixth of its U.K. workforce, via "natural attrition" as it restructures its banking business. A total of 25,000 jobs could be axed globally. ](/news/2015/06/9/hsbc-announces-plans-to-cut-8-000-jobs-in-the-united-kingdom-one-sixth-of-its-u-k-workforce-via-natural-attrition-as-it-restructures-it.md)
-_Context: United Kingdom, HSBC_
+_Context: HSBC, United Kingdom_
 
 ##### Kiev
 ### [Several firefighters are killed after an explosion at a military oil depot near Kiev, Ukraine, with several people missing and hundreds evacuated. ](/news/2015/06/9/several-firefighters-are-killed-after-an-explosion-at-a-military-oil-depot-near-kiev-ukraine-with-several-people-missing-and-hundreds-evac.md)

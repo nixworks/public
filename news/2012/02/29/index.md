@@ -5,7 +5,7 @@ Formats: [HTML](2012/02/29/index.html)  [JSON](2012/02/29/index.json)  [XML](201
 
 ##### Xinjiang
 ### [Violence in the Xinjiang region of China leaves 20 people dead. ](/news/2012/02/29/violence-in-the-xinjiang-region-of-china-leaves-20-people-dead.md)
-_Context: Xinjiang, Chinese_
+_Context: Chinese, Xinjiang_
 
 ##### United Nations
 ### [A United Nations official claims that Syrian government activities have caused "well over 7,500 deaths" in the Syrian uprising. ](/news/2012/02/29/a-united-nations-official-claims-that-syrian-government-activities-have-caused-well-over-7-500-deaths-in-the-syrian-uprising.md)
@@ -13,7 +13,7 @@ Heavy fighting raged near Baba Amro in Homs on Wednesday after elite Syrian troo
 
 ##### Davy Jones
 ### [Davy Jones of The Monkees dies in Florida of a heart attack. ](/news/2012/02/29/davy-jones-of-the-monkees-dies-in-florida-of-a-heart-attack.md)
-_Context: Florida, The Monkees, Davy Jones_
+_Context: The Monkees, Florida, Davy Jones_
 
 ##### James
 ### [James Murdoch resigns from News International to focus on running News Limited's television business with the News International phone hacking scandal as a factor in the decision. ](/news/2012/02/29/james-murdoch-resigns-from-news-international-to-focus-on-running-news-limited-s-television-business-with-the-news-international-phone-hacki.md)
@@ -37,15 +37,15 @@ _Context: Jenny Tonge, Liberal Democrats_
 
 ##### President
 ### [The President of Venezuela Hugo Chvez is recovering from the removal of a tumour from his pelvis in a Cuban hospital. ](/news/2012/02/29/the-president-of-venezuela-hugo-chavez-is-recovering-from-the-removal-of-a-tumour-from-his-pelvis-in-a-cuban-hospital.md)
-_Context: Cuba, tumour, President, Hugo Chvez_
+_Context: tumour, President, Hugo Chvez, Cuba_
 
 ##### Egypt
 ### [Egypt announces that a presidential election will held on May 23-24. ](/news/2012/02/29/egypt-announces-that-a-presidential-election-will-held-on-may-23-24.md)
-_Context: presidential election, Egypt_
+_Context: Egypt, presidential election_
 
 ##### Mitt Romney
 ### [Mitt Romney wins the Republican caucuses held in the US state of Wyoming. ](/news/2012/02/29/mitt-romney-wins-the-republican-caucuses-held-in-the-us-state-of-wyoming.md)
-_Context: Wyoming, Republican, Mitt Romney, Wyoming_
+_Context: Wyoming, Mitt Romney, Republican, Wyoming_
 
 ## [Previous Day...](/news/2012/02/28/index.md)
 

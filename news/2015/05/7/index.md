@@ -5,11 +5,11 @@ Formats: [HTML](2015/05/7/index.html)  [JSON](2015/05/7/index.json)  [XML](2015/
 
 ##### Boko  Haram
 ### [At least five people are killed in a Boko Haram attack on a village in southwest Niger. ](/news/2015/05/7/at-least-five-people-are-killed-in-a-boko-haram-attack-on-a-village-in-southwest-niger.md)
-_Context: Boko  Haram, Boko Haram, Niger_
+_Context: Boko  Haram, Niger, Boko Haram_
 
 ##### ISIL
 ### [The Pentagon raises security at its US military bases due to a growing jihadist threat in the United States and a recent shooting in Garland, Texas. ](/news/2015/05/7/the-pentagon-raises-security-at-its-us-military-bases-due-to-a-growing-jihadist-threat-in-the-united-states-and-a-recent-shooting-in-garland.md)
-_Context: U.S. military, Garland, Texas, ISIL, United States_
+_Context: U.S. military, Garland, Texas, United States, ISIL_
 
 ##### Madagascar
 ### [Archaeologists in Madagascar announce the partial discovery of Captain Kidd's treasure. A silver ingot was found in a wreck off the coast of le Sainte-Marie. ](/news/2015/05/7/archaeologists-in-madagascar-announce-the-partial-discovery-of-captain-kidd-s-treasure-a-silver-ingot-was-found-in-a-wreck-off-the-coast-of.md)

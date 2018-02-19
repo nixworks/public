@@ -25,7 +25,7 @@ _Context: Chuck Hagel, United States Secretary of Defense_
 
 ##### President
 ### [As part of his state visit to the United Kingdom, Irish President Michael D. Higgins addresses the Houses of Parliament and attends a banquet at Windsor Castle with Elizabeth II. ](/news/2014/04/8/as-part-of-his-state-visit-to-the-united-kingdom-irish-president-michael-d-higgins-addresses-the-houses-of-parliament-and-attends-a-banque.md)
-_Context: banquet, Elizabeth II, Houses of Parliament, Michael D. Higgins, President, Windsor Castle_
+_Context: Michael D. Higgins, President, Elizabeth II, Houses of Parliament, Windsor Castle, banquet_
 
 ##### European Court of Justice
 ### [The European Court of Justice rules against the European Union Data Retention Directive which mandates that telecom operators must retain all their customers' communications data for up to two years. ](/news/2014/04/8/the-european-court-of-justice-rules-against-the-european-union-data-retention-directive-which-mandates-that-telecom-operators-must-retain-al.md)

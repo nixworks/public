@@ -17,7 +17,7 @@ A man arrested last month in a 2015 homicide has been charged in the Phoenix ser
 
 ##### Russian meddling in the 2016 U.S. presidential election
 ### [Sally Yates testifies before the United States Senate Judiciary Subcommittee on Crime and Terrorism concerning investigations into Russia's role in the 2016 U.S. presidential election and in the Trump administration. ](/news/2017/05/8/sally-yates-testifies-before-the-united-states-senate-judiciary-subcommittee-on-crime-and-terrorism-concerning-investigations-into-russia-s.md)
-_Context: 2016 U.S. election, Sally Yates, Russian meddling in the 2016 U.S. presidential election, Trump administration, United States Senate Judiciary Subcommittee on Crime and Terrorism_
+_Context: 2016 U.S. election, United States Senate Judiciary Subcommittee on Crime and Terrorism, Trump administration, Sally Yates, Russian meddling in the 2016 U.S. presidential election_
 
 ##### Political appointments of Donald Trump
 ### [The United States Senate confirms Heather Wilson as Secretary of the Air Force. ](/news/2017/05/8/the-united-states-senate-confirms-heather-wilson-as-secretary-of-the-air-force.md)
@@ -29,7 +29,7 @@ The French collection was incinerated by Australian biosecurity officers due to 
 
 ##### Genes & Development
 ### [The journal "Genes & Development" publishes research from the University of Texas Southwestern Medical Center in a mouse-model study (which may translate over to humans) alluding as to why hair turns gray and goes bald. The scientists describe a protein called KROX20 which switches on skin cells that become a hair shaft, which then causes cells to produce another protein called stem cell factor. In mice, these two proteins are important for baldness and graying. ](/news/2017/05/8/the-journal-genes-development-publishes-research-from-the-university-of-texas-southwestern-medical-center-in-a-mouse-model-study-which.md)
-_Context: hair, gray, protein, bald, mouse, stem cell factor, skin, Genes & Development, cell, KROX20, University of Texas Southwestern Medical Center_
+_Context: cell, skin, hair, Genes & Development, mouse, KROX20, protein, bald, University of Texas Southwestern Medical Center, stem cell factor, gray_
 
 ## [Previous Day...](/news/2017/05/7/index.md)
 

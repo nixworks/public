@@ -9,11 +9,11 @@ Two Israeli soldiers and a Spanish UN peacekeeper are killed as Hezbollah milita
 
 ##### Yuan
 ### [The Chinese yuan becomes the fifth most-highly-used currency in the world. ](/news/2015/01/28/the-chinese-yuan-becomes-the-fifth-most-highly-used-currency-in-the-world.md)
-_Context: yuan, currency_
+_Context: currency, yuan_
 
 ##### United States Air Force
 ### [The US Air Force Secretary Deborah Lee James picks the Boeing 747-8 for the next replacement of Air Force One. ](/news/2015/01/28/the-us-air-force-secretary-deborah-lee-james-picks-the-boeing-747-8-for-the-next-replacement-of-air-force-one.md)
-_Context: Air Force One, Secretary, Deborah Lee James, Boeing 747-8, United States Air Force_
+_Context: United States Air Force, Secretary, Deborah Lee James, Boeing 747-8, Air Force One_
 
 ##### Vietnamese
 ### [A Vietnamese military Bell UH-1 Iroquois helicopter crashes in southern Ho Chi Minh City killing four people. ](/news/2015/01/28/a-vietnamese-military-bell-uh-1-iroquois-helicopter-crashes-in-southern-ho-chi-minh-city-killing-four-people.md)
@@ -29,11 +29,11 @@ A former nuclear scientist in the US is jailed for five years for trying to pass
 
 ##### President of Sri Lanka
 ### [The President of Sri Lanka Maithripala Sirisena reinstates former Chief Justice Shirani Bandaranayake who had been sacked by former President Mahinda Rajapaksa. ](/news/2015/01/28/the-president-of-sri-lanka-maithripala-sirisena-reinstates-former-chief-justice-shirani-bandaranayake-who-had-been-sacked-by-former-presiden.md)
-_Context: President of Sri Lanka, Chief Justice, Sirisena, Shirani Bandaranayake, Rajapaksa_
+_Context: Rajapaksa, Chief Justice, Sirisena, Shirani Bandaranayake, President of Sri Lanka_
 
 ##### Akram Hasson
 ### [Akram Hasson becomes leader of Israel's former government party Kadima and thus the first Druze ever to lead a Jewish party. ](/news/2015/01/28/akram-hasson-becomes-leader-of-israel-s-former-government-party-kadima-and-thus-the-first-druze-ever-to-lead-a-jewish-party.md)
-_Context: Israel, Kadima, Druze, Akram Hasson_
+_Context: Israel, Druze, Akram Hasson, Kadima_
 
 ##### The Astrophysical Journal
 ### ["The Astrophysical Journal" publishes research from the University of Rochester and the University of Leiden announcing the discovery of either a brown dwarf substellar object or a gas giant exoplanet titled J1407b. The object is the first known nonstar to have a super ring system. ](/news/2015/01/28/the-astrophysical-journal-publishes-research-from-the-university-of-rochester-and-the-university-of-leiden-announcing-the-discovery-of-eit.md)

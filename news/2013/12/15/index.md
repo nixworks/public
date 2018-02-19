@@ -9,7 +9,7 @@ _Context: Australia, Afghan_
 
 ##### Kashgar
 ### [Sixteen people die in a clash near the city of Kashgar in China's restive Xinjiang province. ](/news/2013/12/15/sixteen-people-die-in-a-clash-near-the-city-of-kashgar-in-china-s-restive-xinjiang-province.md)
-_Context: Xinjiang, Kashgar, China_
+_Context: China, Kashgar, Xinjiang_
 
 ##### British
 ### [British and American actress Joan Fontaine, best known for her two roles under Alfred Hitchcock ("Rebecca", "Suspicion"), and the sister of Olivia de Havilland, dies at the age of 96. ](/news/2013/12/15/british-and-american-actress-joan-fontaine-best-known-for-her-two-roles-under-alfred-hitchcock-rebecca-suspicion-and-the-sister-of.md)

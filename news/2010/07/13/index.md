@@ -13,15 +13,15 @@ Libyan vessel changes course following warning from Israeli navy.
 
 ##### Iran
 ### [Pakistani embassy officials confirm missing Iranian nuclear scientist Shahram Amiri, who was reported to have been kidnapped by the United States Central Intelligence Agency, is taking refuge in the country's Washington, D.C. embassy. ](/news/2010/07/13/pakistani-embassy-officials-confirm-missing-iranian-nuclear-scientist-shahram-amiri-who-was-reported-to-have-been-kidnapped-by-the-united-s.md)
-_Context: CIA, Iran, Shahram Amiri_
+_Context: CIA, Shahram Amiri, Iran_
 
 ##### Chile
 ### [Chile tests a package marked "anthrax" delivered to the country's foreign ministry. ](/news/2010/07/13/chile-tests-a-package-marked-anthrax-delivered-to-the-country-s-foreign-ministry.md)
-_Context: Chile, anthrax_
+_Context: anthrax, Chile_
 
 ##### Gaza Strip
 ### [Farmers in Gaza are shot at by Israeli militants as they attempt to harvest their crops. ](/news/2010/07/13/farmers-in-gaza-are-shot-at-by-israeli-militants-as-they-attempt-to-harvest-their-crops.md)
-_Context: Gaza Strip, Israel_
+_Context: Israel, Gaza Strip_
 
 ##### Uganda
 ### [Ugandan authorities arrest a number of people in connection with the July 2010 Kampala attacks which left at least 74 people dead. ](/news/2010/07/13/ugandan-authorities-arrest-a-number-of-people-in-connection-with-the-july-2010-kampala-attacks-which-left-at-least-74-people-dead.md)
@@ -29,7 +29,7 @@ Unexploded bomb belt found by police investigating twin attacks claimed by al-Sh
 
 ##### Afghan
 ### [An Afghan soldier attacks British soldiers as a base near Lashkar Gah, killing three (one a Nepalese citizen) and wounding four more, before defecting to the Taliban. ](/news/2010/07/13/an-afghan-soldier-attacks-british-soldiers-as-a-base-near-lashkar-gah-killing-three-one-a-nepalese-citizen-and-wounding-four-more-before.md)
-_Context: Taliban, Nepal, defecting, Afghan, Lashkar Gah_
+_Context: Nepal, Afghan, Taliban, Lashkar Gah, defecting_
 
 ##### 
 ### [There is a row in the United States about privacy fears connected to an exchange in ownership of a gay teenagers' database. ](/news/2010/07/13/there-is-a-row-in-the-united-states-about-privacy-fears-connected-to-an-exchange-in-ownership-of-a-gay-teenagers-database.md)
@@ -37,7 +37,7 @@ A row erupts in the US over the ownership of a gay teenage database of one milli
 
 ##### Human stampede
 ### [One death and three injuries result from a stampede during pulling of Ratha-Yatra chariots in Puri, India. ](/news/2010/07/13/one-death-and-three-injuries-result-from-a-stampede-during-pulling-of-ratha-yatra-chariots-in-puri-india.md)
-_Context: Puri, Ratha-Yatra, human stampede_
+_Context: human stampede, Ratha-Yatra, Puri_
 
 ##### Los Angeles Police Department
 ### [Los Angeles police in the United States review a recording of actor and director Mel Gibson allegedly verbally abusing his ex-girlfriend, Oksana Grigorieva. ](/news/2010/07/13/los-angeles-police-in-the-united-states-review-a-recording-of-actor-and-director-mel-gibson-allegedly-verbally-abusing-his-ex-girlfriend-ok.md)
@@ -45,7 +45,7 @@ US police say they are evaluating claims that Hollywood star Mel Gibson allegedl
 
 ##### International Monetary Fund
 ### [The Washington, D.C.-based global lender International Monetary Fund halts funds to the Bank of Central African States (BEAC) used by oil-producing nations in Central Africa, impacting on the Republic of the Congo and the Central African Republic. ](/news/2010/07/13/the-washington-d-c-based-global-lender-international-monetary-fund-halts-funds-to-the-bank-of-central-african-states-beac-used-by-oil-pr.md)
-_Context: International Monetary Fund, Republic of the Congo, Bank of Central African States, Central African Republic_
+_Context: Bank of Central African States, Republic of the Congo, International Monetary Fund, Central African Republic_
 
 ##### European Union
 ### [The EU announces that Estonia is to become the seventeenth member of the euro on 1 January 2011. ](/news/2010/07/13/the-eu-announces-that-estonia-is-to-become-the-seventeenth-member-of-the-euro-on-1-january-2011.md)
@@ -89,7 +89,7 @@ Britain revokes citizenship of Russian spy following her deportation from US.
 
 ##### Colton Harris-Moore
 ### [Colton Harris-Moore, otherwise known as the "Barefoot Bandit", pleads guilty to illegally landing a plane in The Bahamas, and currently faces jail or deportation. ](/news/2010/07/13/colton-harris-moore-otherwise-known-as-the-barefoot-bandit-pleads-guilty-to-illegally-landing-a-plane-in-the-bahamas-and-currently-face.md)
-_Context: Colton Harris-Moore, northwestern Bahamas_
+_Context: northwestern Bahamas, Colton Harris-Moore_
 
 ##### Exorcism
 ### [A four-year-old boy dies during an exorcism ritual carried out by a traditional healer in the Russian Far East. ](/news/2010/07/13/a-four-year-old-boy-dies-during-an-exorcism-ritual-carried-out-by-a-traditional-healer-in-the-russian-far-east.md)
@@ -109,7 +109,7 @@ Tensions run high in divided region as India and Pakistan prepare for high-level
 
 ##### Rwanda
 ### [Senior Rwandan opposition official Andre Kagwa Rwisereka disappears after his car is found abandoned by the Mukula River near Butare. ](/news/2010/07/13/senior-rwandan-opposition-official-andra-c-kagwa-rwisereka-disappears-after-his-car-is-found-abandoned-by-the-mukula-river-near-butare.md)
-_Context: Andre Kagwa Rwisereka, Butare, Mukula River, Rwanda_
+_Context: Butare, Mukula River, Andre Kagwa Rwisereka, Rwanda_
 
 ##### Southern Sudan
 ### [Senior religious leaders in Southern Sudan call on people to vote for independence in a referendum to be held in January 2011. ](/news/2010/07/13/senior-religious-leaders-in-southern-sudan-call-on-people-to-vote-for-independence-in-a-referendum-to-be-held-in-january-2011.md)
@@ -137,7 +137,7 @@ The French government approves a controversial draft law that would raise the re
 
 ##### Supreme Court of India
 ### [The Supreme Court of India tentatively approves the Tamil Nadu government's new quota law, providing 69% of employment in educational institutions to Scheduled Castes and Scheduled Tribes and other backward classes. ](/news/2010/07/13/the-supreme-court-of-india-tentatively-approves-the-tamil-nadu-government-s-new-quota-law-providing-69-of-employment-in-educational-instit.md)
-_Context: Supreme Court of India, Scheduled Castes and Scheduled Tribes, education, quota_
+_Context: Scheduled Castes and Scheduled Tribes, education, quota, Supreme Court of India_
 
 ##### Israel
 ### [Israeli authorities use bulldozers to demolish three Palestinian buildings in East Jerusalem. ](/news/2010/07/13/israeli-authorities-use-bulldozers-to-demolish-three-palestinian-buildings-in-east-jerusalem.md)
@@ -149,15 +149,15 @@ _Context: Court of Appeals, FCC's_
 
 ##### Barack Obama
 ### [President of the United States Barack Obama nominates Jacob Lew to replace Peter Orszag as the chief of the Office of Management and Budget. ](/news/2010/07/13/president-of-the-united-states-barack-obama-nominates-jacob-lew-to-replace-peter-orszag-as-the-chief-of-the-office-of-management-and-budget.md)
-_Context: Office of Management and Budget, Barack Obama, Peter Orszag, Jacob Lew_
+_Context: Jacob Lew, Office of Management and Budget, Peter Orszag, Barack Obama_
 
 ##### United States Senate
 ### [The United States Senate announces it will vote on financial reform legislations on 15 July. ](/news/2010/07/13/the-united-states-senate-announces-it-will-vote-on-financial-reform-legislations-on-15-july.md)
-_Context: United States Senate, financial reform_
+_Context: financial reform, United States Senate_
 
 ##### Philippines
 ### [The Philippines' first typhoon of the year moves toward the country's eastern coast, with 33 of the country's 81 provinces and the capital Manila being placed under storm alert. ](/news/2010/07/13/the-philippines-first-typhoon-of-the-year-moves-toward-the-country-s-eastern-coast-with-33-of-the-country-s-81-provinces-and-the-capital-m.md)
-_Context: Manila, Philippines_
+_Context: Philippines, Manila_
 
 ##### Green Dam Youth Escort
 ### [The company behind the Green Dam Youth Escort internet filtering software in China has closed its operation, due to lack of funding. ](/news/2010/07/13/the-company-behind-the-green-dam-youth-escort-internet-filtering-software-in-china-has-closed-its-operation-due-to-lack-of-funding.md)
@@ -169,19 +169,19 @@ Torrential rains in southwestern China triggered landslides that have killed 17 
 
 ##### 2020 Summer Olympics
 ### [South Africa confirms a plan to bid for the 2020 Summer Olympics after its success in hosting the 2010 FIFA World Cup which concluded on Sunday. ](/news/2010/07/13/south-africa-confirms-a-plan-to-bid-for-the-2020-summer-olympics-after-its-success-in-hosting-the-2010-fifa-world-cup-which-concluded-on-sun.md)
-_Context: 2010 FIFA World Cup, 2020 Summer Olympics_
+_Context: 2020 Summer Olympics, 2010 FIFA World Cup_
 
 ##### 2010 FIFA World Cup Final
 ### [The 2010 FIFA World Cup runner-up Netherlands national football team embarks on an open-top boat tour of Amsterdam's canals drinking beer, lined by hundreds of thousands of people. ](/news/2010/07/13/the-2010-fifa-world-cup-runner-up-netherlands-national-football-team-embarks-on-an-open-top-boat-tour-of-amsterdam-s-canals-drinking-beer-l.md)
-_Context: Netherlands, Amsterdam, 2010 FIFA World Cup Final_
+_Context: Amsterdam, 2010 FIFA World Cup Final, Netherlands_
 
 ##### Cricket
 ### [Cricket: Australia and Pakistan contest the first neutral Test at Lord's Cricket Ground since 1912. ](/news/2010/07/13/cricket-australia-and-pakistan-contest-the-first-neutral-test-at-lord-s-cricket-ground-since-1912.md)
-_Context: Lord's Cricket Ground, Cricket_
+_Context: Cricket, Lord's Cricket Ground_
 
 ##### George Steinbrenner
 ### [George Steinbrenner, owner of the New York Yankees, dies after suffering a massive heart attack in Florida. ](/news/2010/07/13/george-steinbrenner-owner-of-the-new-york-yankees-dies-after-suffering-a-massive-heart-attack-in-florida.md)
-_Context: heart attack, George Steinbrenner, Florida, New York Yankees_
+_Context: heart attack, New York Yankees, Florida, George Steinbrenner_
 
 ## [Previous Day...](/news/2010/07/12/index.md)
 

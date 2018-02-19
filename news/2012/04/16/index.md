@@ -13,11 +13,11 @@ _Context: Guinea-Bissau, which seized power, acting president_
 
 ##### Co-educational school
 ### [A six-year-old boy is killed and two other children are wounded after a militant throws a hand grenade into a co-educational school near Peshawar, northwest Pakistan. ](/news/2012/04/16/a-six-year-old-boy-is-killed-and-two-other-children-are-wounded-after-a-militant-throws-a-hand-grenade-into-a-co-educational-school-near-pes.md)
-_Context: co-educational school, Pakistan, Peshawar_
+_Context: Pakistan, co-educational school, Peshawar_
 
 ##### Sex Pistols
 ### [The Sex Pistols' song "God Save the Queen", which was banned by the BBC, is to be re-released 35 years after its debut, in time for June's Diamond Jubilee. ](/news/2012/04/16/the-sex-pistols-song-god-save-the-queen-which-was-banned-by-the-bbc-is-to-be-re-released-35-years-after-its-debut-in-time-for-june-s-d.md)
-_Context: BBC, diamond jubilee, God Save the Queen, Sex Pistols_
+_Context: BBC, God Save the Queen, Sex Pistols, diamond jubilee_
 
 ##### 2012 Pulitzer Prize
 ### [The 2012 Pulitzer Prize winners are announced. ](/news/2012/04/16/the-2012-pulitzer-prize-winners-are-announced.md)
@@ -37,11 +37,11 @@ _Context: Valparaiso_
 
 ##### Australia
 ### [Australia relaxes sanctions on Myanmar, following political reforms in Myanmar, including by-elections earlier this month in which opposition leader Aung San Suu Kyi's party won dozens of seats. ](/news/2012/04/16/australia-relaxes-sanctions-on-myanmar-following-political-reforms-in-myanmar-including-by-elections-earlier-this-month-in-which-oppositio.md)
-_Context: Aung San Suu Kyi, Australia, by-elections earlier this month, Myanmar_
+_Context: Myanmar, Aung San Suu Kyi, Australia, by-elections earlier this month_
 
 ##### Martin Dempsey
 ### [The U.S. military's top officer Martin Dempsey speaks of being "embarrassed" and tells a Pentagon news conference "we let the boss down" in relation to allegations that United States Secret Service agents habitually associated with prostitutes in Colombia. Pentagon spokesman George E. Little tells reporters that the number of military staff involved could be more than the five originally reported. ](/news/2012/04/16/the-u-s-military-s-top-officer-martin-dempsey-speaks-of-being-embarrassed-and-tells-a-pentagon-news-conference-we-let-the-boss-down-in.md)
-_Context: George E. Little, United States military, Martin Dempsey, United States Secret Service, Colombia_
+_Context: United States Secret Service, United States military, Colombia, George E. Little, Martin Dempsey_
 
 ##### Pro-Palestinian activist
 ### [An Israeli soldier hits a foreign pro-Palestinian activist, believed to be a Danish national, with his gun after protesters attack and injure the soldier; the Danish ambassador to Israel demands an explanation from Israel. ](/news/2012/04/16/an-israeli-soldier-hits-a-foreign-pro-palestinian-activist-believed-to-be-a-danish-national-with-his-gun-after-protesters-attack-and-injur.md)
@@ -49,11 +49,11 @@ Footage posted online showed officer striking pro-Palestinian activist in face d
 
 ##### Trial
 ### [The trial of confessed perpetrator of the 2011 Norway attacks, Anders Behring Breivik, starts in Oslo, Norway. ](/news/2012/04/16/the-trial-of-confessed-perpetrator-of-the-2011-norway-attacks-anders-behring-breivik-starts-in-oslo-norway.md)
-_Context: Anders Behring Breivik, Oslo, trial, 2011 Norway attacks_
+_Context: 2011 Norway attacks, Oslo, Anders Behring Breivik, trial_
 
 ##### Two girls
 ### [The murderer of two girls in Krailling, Bavaria (Germany) is convicted and sentenced to life imprisonment. ](/news/2012/04/16/the-murderer-of-two-girls-in-krailling-bavaria-germany-is-convicted-and-sentenced-to-life-imprisonment.md)
-_Context: German, Krailling, two girls, Bavaria_
+_Context: two girls, Krailling, Bavaria, German_
 
 ##### European Court of Human Rights
 ### [The European Court of Human Rights rules that Russia violated the rights of ten relatives of victims of the 1940 Katyn Massacre, and describes the massacre as a war crime. ](/news/2012/04/16/the-european-court-of-human-rights-rules-that-russia-violated-the-rights-of-ten-relatives-of-victims-of-the-1940-katyn-massacre-and-describ.md)

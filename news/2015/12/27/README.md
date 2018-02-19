@@ -5,7 +5,7 @@ Formats: [HTML](2015/12/27/index.html)  [JSON](2015/12/27/index.json)  [XML](201
 
 ##### Battle of Ramadi
 ### [The Iraqi Army declares victory over Islamic State militants as their forces retake an important government compound in Ramadi. ](/news/2015/12/27/the-iraqi-army-declares-victory-over-islamic-state-militants-as-their-forces-retake-an-important-government-compound-in-ramadi.md)
-_Context: Ramadi, ISIL, Battle of Ramadi, Iraqi Army_
+_Context: Ramadi, Iraqi Army, Battle of Ramadi, ISIL_
 
 ##### Boko Haram insurgency
 ### [Boko Haram militants attack the northeast Nigerian city of Maiduguri with rocket-propelled grenades and multiple suicide bombers. At least 30 people are reportedly killed. ](/news/2015/12/27/boko-haram-militants-attack-the-northeast-nigerian-city-of-maiduguri-with-rocket-propelled-grenades-and-multiple-suicide-bombers-at-least-3.md)
@@ -13,7 +13,7 @@ A wave of attacks by female suicide bombers in north-eastern Nigeria kills more 
 
 ##### Syrian Civil War
 ### [The Syrian Democratic Forces (SDF) backed by U.S.-led coalition airstrikes, seize control of the strategic Tishrin Dam on the Euphrates in eastern Aleppo from Islamic State of Iraq and the Levant forces. ](/news/2015/12/27/the-syrian-democratic-forces-sdf-backed-by-u-s-led-coalition-airstrikes-seize-control-of-the-strategic-tishrin-dam-on-the-euphrates-in-e.md)
-_Context: Euphrates, U.S.-led coalition, Tishrin Dam offensive, Syrian Democratic Forces, Military intervention against ISIL, Tishrin Dam, Aleppo Governorate, Syrian Civil War, ISIL_
+_Context: Euphrates, Aleppo Governorate, Syrian Civil War, U.S.-led coalition, Syrian Democratic Forces, Military intervention against ISIL, Tishrin Dam, Tishrin Dam offensive, ISIL_
 
 ##### 2015-16 UK and Ireland windstorm season
 ### [Thousands of people are evacuated from their homes as flood waters continue to rise across large parts of northern England, with York particularly badly affected. ](/news/2015/12/27/thousands-of-people-are-evacuated-from-their-homes-as-flood-waters-continue-to-rise-across-large-parts-of-northern-england-with-york-partic.md)

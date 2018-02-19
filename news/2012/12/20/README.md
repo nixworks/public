@@ -17,7 +17,7 @@ Sale of nearly 200-year-old institution to Intercontinental Exchange comes amid 
 
 ##### U.S.
 ### [U.S. patent authorities reject an important Apple Inc. patent concerning pinch-to-zoom gestures on a mobile device screen. ](/news/2012/12/20/u-s-patent-authorities-reject-an-important-apple-inc-patent-concerning-pinch-to-zoom-gestures-on-a-mobile-device-screen.md)
-_Context: mobile device, Apple Inc., U.S., patent, pinch-to-zoom gestures_
+_Context: mobile device, pinch-to-zoom gestures, patent, U.S., Apple Inc._
 
 ##### Midwestern
 ### [The midwestern United States is hit by a massive storm causing major disruption to traffic. ](/news/2012/12/20/the-midwestern-united-states-is-hit-by-a-massive-storm-causing-major-disruption-to-traffic.md)
@@ -33,7 +33,7 @@ Wikileaks founder Julian Assange promises to release a million documents in 2013
 
 ##### ASEAN
 ### [ASEAN members and India conclude free trade agreements in services and investment. ](/news/2012/12/20/asean-members-and-india-conclude-free-trade-agreements-in-services-and-investment.md)
-_Context: ASEAN, free trade, India_
+_Context: India, ASEAN, free trade_
 
 ##### Chinese
 ### [Police in China arrest almost 1,000 people belonging to the doomsday Almighty God Christian cult for spreading rumours about the end of the world. ](/news/2012/12/20/police-in-china-arrest-almost-1-000-people-belonging-to-the-doomsday-almighty-god-christian-cult-for-spreading-rumours-about-the-end-of-the.md)
@@ -53,7 +53,7 @@ _Context: Laos, Vientiane_
 
 ##### Rwanda
 ### [Former Rwandan minister Augustin Ngirabatware is sentenced to 35 years imprisonment for his role during the 1994 Rwandan Genocide. ](/news/2012/12/20/former-rwandan-minister-augustin-ngirabatware-is-sentenced-to-35-years-imprisonment-for-his-role-during-the-1994-rwandan-genocide.md)
-_Context: Rwandan Genocide, Rwanda, Augustin Ngirabatware_
+_Context: Rwandan Genocide, Augustin Ngirabatware, Rwanda_
 
 ## [Previous Day...](/news/2012/12/19/index.md)
 

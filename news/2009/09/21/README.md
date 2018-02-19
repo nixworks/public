@@ -9,7 +9,7 @@ France&#39;s most politically charged trial in years is under way with former pr
 
 ##### Legislative elections
 ### [ Legislative elections in Macau attract a higher turnout than usual and strengthen the democratic minority. ](/news/2009/09/21/legislative-elections-in-macau-attract-a-higher-turnout-than-usual-and-strengthen-the-democratic-minority.md)
-_Context: Macau, Legislative elections_
+_Context: Legislative elections, Macau_
 
 ##### Honduras
 ### [ Ousted Honduran President Manuel Zelaya returns to his country, almost three months after the coup which overthrew him. He seeks shelter in the Brazilian embassy in Tegucigalpa. Interim president Roberto Micheletti orders a 26 hour curfew and shuts down the airport as a result of the demonstrations sparked by Zelaya's return. ](/news/2009/09/21/ousted-honduran-president-manuel-zelaya-returns-to-his-country-almost-three-months-after-the-coup-which-overthrew-him-he-seeks-shelter-in.md)
@@ -29,23 +29,23 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 
 ##### South Africa
 ### [ South African President Jacob Zuma admits disagreements do exist between the ANC and the trade union federation (COSATU)&mdash;one of its main political partners. ](/news/2009/09/21/south-african-president-jacob-zuma-admits-disagreements-do-exist-between-the-anc-and-the-trade-union-federation-cosatu-mdash-one-of-its-m.md)
-_Context: Congress of South African Trade Unions, African National Congress, Jacob Zuma, President of South Africa, South Africa_
+_Context: South Africa, President of South Africa, Congress of South African Trade Unions, African National Congress, Jacob Zuma_
 
 ##### Italy
 ### [ Italy holds a state funeral for six soldiers killed in Afghanistan last week. ](/news/2009/09/21/italy-holds-a-state-funeral-for-six-soldiers-killed-in-afghanistan-last-week.md)
-_Context: state funeral, Afghan, Italy_
+_Context: Italy, Afghan, state funeral_
 
 ##### Russia
 ### [ Russia's first President Boris Yeltsin spent his retirement in a "golden cage", his phone tapped and the Kremlin controlling visitors, a colleague reveals. ](/news/2009/09/21/russia-s-first-president-boris-yeltsin-spent-his-retirement-in-a-golden-cage-his-phone-tapped-and-the-kremlin-controlling-visitors-a-co.md)
-_Context: Russia, Russian government, Boris Yeltsin, Russian President_
+_Context: Russian President, Russian government, Boris Yeltsin, Russia_
 
 ##### Sir Alex Ferguson
 ### [ Sir Alex Ferguson, Gary Lineker and Fabio Capello are among 1,000 guests at a memorial service held for the recently deceased football manager Sir Bobby Robson. ](/news/2009/09/21/sir-alex-ferguson-gary-lineker-and-fabio-capello-are-among-1-000-guests-at-a-memorial-service-held-for-the-recently-deceased-football-mana.md)
-_Context: Sir Bobby Robson, association football, Gary Lineker, Sir Alex Ferguson, Fabio Capello_
+_Context: Gary Lineker, Sir Bobby Robson, Fabio Capello, Sir Alex Ferguson, association football_
 
 ##### River delta
 ### [ Most of the world's major river deltas are sinking, including Colorado, Nile, Pearl, Rhone and Yangtze, increasing the flood risk faced by  a billion people, scientists report. ](/news/2009/09/21/most-of-the-world-s-major-river-deltas-are-sinking-including-colorado-nile-pearl-rhone-and-yangtze-increasing-the-flood-risk-faced-by.md)
-_Context: Colorado, Nile, Rhone, Pearl, river delta, Yangtze River_
+_Context: river delta, Colorado, Pearl, Nile, Rhone, Yangtze River_
 
 ##### Japanese government
 ### [ New figures released by the Japanese government indicate one in four women are aged 65 or over for the first time. ](/news/2009/09/21/new-figures-released-by-the-japanese-government-indicate-one-in-four-women-are-aged-65-or-over-for-the-first-time.md)
@@ -53,7 +53,7 @@ _Context: Japanese government_
 
 ##### Lou Nuer
 ### [ Lou Nuer militiamen kill more than 100 civilians and security force members in an attack in Sudan's Duk Padiet in Jonglei, the latest in a series of ethnic clashes. ](/news/2009/09/21/lou-nuer-militiamen-kill-more-than-100-civilians-and-security-force-members-in-an-attack-in-sudan-s-duk-padiet-in-jonglei-the-latest-in-a.md)
-_Context: Sudan, Jonglei, Duk Padiet, Lou Nuer_
+_Context: Duk Padiet, Jonglei, Lou Nuer, Sudan_
 
 ##### French President
 ### [ A judicial official says a 51-year-old man has confessed to sending threatening letters containing bullets to President of France Nicolas Sarkozy and other prominent figures. ](/news/2009/09/21/a-judicial-official-says-a-51-year-old-man-has-confessed-to-sending-threatening-letters-containing-bullets-to-president-of-france-nicolas-s.md)
@@ -65,15 +65,15 @@ A Cork woman arrived back in her native city today after becoming the first Iris
 
 ##### Adidas
 ### [ Adidas and Puma end their 60-year-old feud. ](/news/2009/09/21/adidas-and-puma-end-their-60-year-old-feud.md)
-_Context: Adidas, Puma_
+_Context: Puma, Adidas_
 
 ##### Jade Ewen
 ### [ Singer Jade Ewen is confirmed as the new member of internationally successful girlband Sugababes, replacing the only original member Keisha Buchanan. ](/news/2009/09/21/singer-jade-ewen-is-confirmed-as-the-new-member-of-internationally-successful-girlband-sugababes-replacing-the-only-original-member-keisha.md)
-_Context: Jade Ewen, Sugababes, internationally successful, Keisha Buchanan_
+_Context: Jade Ewen, Keisha Buchanan, Sugababes, internationally successful_
 
 ##### Massimo Busacca
 ### [ Massimo Busacca, a high-profile Swiss football referee who officiated the 2009 UEFA Champions League Final and was expected to take part at the 2010 FIFA World Cup in South Africa, is suspended "immediately" for waving his middle finger at fans during a match. ](/news/2009/09/21/massimo-busacca-a-high-profile-swiss-football-referee-who-officiated-the-2009-uefa-champions-league-final-and-was-expected-to-take-part-at.md)
-_Context: 2010 FIFA World Cup, Massimo Busacca, South Africa, 2009 UEFA Champions League Final, Switzerland_
+_Context: South Africa, Massimo Busacca, 2010 FIFA World Cup, 2009 UEFA Champions League Final, Switzerland_
 
 ##### Morocco
 ### [ Rescuers scour the sea off the Morocco coast for dozens of African migrants who are missing and feared dead after their boat capsized in an accident that kills eight others. ](/news/2009/09/21/rescuers-scour-the-sea-off-the-morocco-coast-for-dozens-of-african-migrants-who-are-missing-and-feared-dead-after-their-boat-capsized-in-an.md)

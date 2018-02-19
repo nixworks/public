@@ -5,7 +5,7 @@ Formats: [HTML](2006/01/16/index.html)  [JSON](2006/01/16/index.json)  [XML](200
 
 ##### U.S. President
 ### [ Former United States President Gerald Ford is hospitalized with pneumonia. ](/news/2006/01/16/former-united-states-president-gerald-ford-is-hospitalized-with-pneumonia.md)
-_Context: Gerald Ford, pneumonia, U.S. President_
+_Context: U.S. President, Gerald Ford, pneumonia_
 
 ##### Rizgar Mohammed Amin
 ### [ Rizgar Mohammed Amin, the chief judge in the Saddam Hussein trial, tenders his resignation, following criticism of his handling of the trial. ](/news/2006/01/16/rizgar-mohammed-amin-the-chief-judge-in-the-saddam-hussein-trial-tenders-his-resignation-following-criticism-of-his-handling-of-the-tria.md)
@@ -17,15 +17,15 @@ _Context: West Africa, United Nations, Niger_
 
 ##### Dockworker
 ### [ A dockworkers' strike in Europe has thousands of workers off the job in protest over proposed liberalization of European Union rules on port services. A demonstration outside the European Parliament in Strasbourg leaves twelve French police officers injured. ](/news/2006/01/16/a-dockworkers-strike-in-europe-has-thousands-of-workers-off-the-job-in-protest-over-proposed-liberalization-of-european-union-rules-on-por.md)
-_Context: Strasbourg, dockworker, European Parliament, European Union, strike_
+_Context: strike, European Union, dockworker, European Parliament, Strasbourg_
 
 ##### U.S. Vice President
 ### [ Former US Vice President Al Gore blasts President George W. Bush's policy of spying on American citizen conversations with suspected overseas terrorists, saying President Bush "repeatedly and persistently" broke the law in connection with the NSA warrantless surveillance controversy, says the United States Constitution is in danger. ](/news/2006/01/16/former-us-vice-president-al-gore-blasts-president-george-w-bush-s-policy-of-spying-on-american-citizen-conversations-with-suspected-overse.md)
-_Context: U.S. Vice President, United States Constitution, George W. Bush, warrantless wiretapping, Al Gore, U.S. President_
+_Context: U.S. Vice President, warrantless wiretapping, Al Gore, George W. Bush, U.S. President, United States Constitution_
 
 ##### Premier
 ### [ The Premier of Western Australia, Geoff Gallop, resigns his office after announcing he is suffering from depression. ](/news/2006/01/16/the-premier-of-western-australia-geoff-gallop-resigns-his-office-after-announcing-he-is-suffering-from-depression.md)
-_Context: Geoff Gallop, Premier, depression_
+_Context: depression, Geoff Gallop, Premier_
 
 ##### Afghan
 ### [ At least 27 people are killed in two suicide bombings in Afghanistan. ](/news/2006/01/16/at-least-27-people-are-killed-in-two-suicide-bombings-in-afghanistan.md)
@@ -33,7 +33,7 @@ _Context: Afghan_
 
 ##### Ellen Johnson Sirleaf
 ### [ Ellen Johnson Sirleaf is sworn in as Liberia's new president. She becomes Africa's first female elected head of state. ](/news/2006/01/16/ellen-johnson-sirleaf-is-sworn-in-as-liberia-s-new-president-she-becomes-africa-s-first-female-elected-head-of-state.md)
-_Context: president, Liberia, Ellen Johnson Sirleaf_
+_Context: Liberia, Ellen Johnson Sirleaf, president_
 
 ##### Vladivostok
 ### [ Nine people die after jumping from a burning eight-story office building in the Russian city of Vladivostok amid allegations of blocked emergency exits and fire code violations. ](/news/2006/01/16/nine-people-die-after-jumping-from-a-burning-eight-story-office-building-in-the-russian-city-of-vladivostok-amid-allegations-of-blocked-eme.md)

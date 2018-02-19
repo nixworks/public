@@ -13,11 +13,11 @@ The rumors of the murder of 17-year-old Muhammad Abu Khdeir passed among many re
 
 ##### Roche Holding AG
 ### [Roche Holding AG says that its US-based Genentech subsidiary will purchase American biotechnology company Seragon Pharmaceuticals, Inc for up to $1.725 billion in cash and contingency payments. ](/news/2014/07/2/roche-holding-ag-says-that-its-us-based-genentech-subsidiary-will-purchase-american-biotechnology-company-seragon-pharmaceuticals-inc-for-u.md)
-_Context: Genentech Inc., biotechnology, Roche Holding AG_
+_Context: biotechnology, Genentech Inc., Roche Holding AG_
 
 ##### 2014 Atlantic hurricane season
 ### [Tropical Storm Arthur heads towards the US coast with a hurricane warning in place for the state of North Carolina. A mandatory evacuation is ordered for Hatteras Island in the Outer Banks. ](/news/2014/07/2/tropical-storm-arthur-heads-towards-the-us-coast-with-a-hurricane-warning-in-place-for-the-state-of-north-carolina-a-mandatory-evacuation-i.md)
-_Context: Hatteras Island, Arthur, 2014 Atlantic hurricane season, North Carolina, Outer Banks_
+_Context: Arthur, North Carolina, 2014 Atlantic hurricane season, Hatteras Island, Outer Banks_
 
 ##### Manitoba
 ### [Widespread flooding in the Canadian provinces of Manitoba and Saskatchewan leads to the declaration of states of emergencies in 87 municipalities. ](/news/2014/07/2/widespread-flooding-in-the-canadian-provinces-of-manitoba-and-saskatchewan-leads-to-the-declaration-of-states-of-emergencies-in-87-municipal.md)

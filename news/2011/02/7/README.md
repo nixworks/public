@@ -5,7 +5,7 @@ Formats: [HTML](2011/02/7/index.html)  [JSON](2011/02/7/index.json)  [XML](2011/
 
 ##### Cambodian-Thai border stand-off
 ### [Clashes occur between Thai and Cambodian forces near the Preah Vihear Temple. ](/news/2011/02/7/clashes-occur-between-thai-and-cambodian-forces-near-the-preah-vihear-temple.md)
-_Context: Cambodian-Thai border stand-off, Cambodia, Preah Vihear Temple, Thailand_
+_Context: Cambodian-Thai border stand-off, Thailand, Cambodia, Preah Vihear Temple_
 
 ##### Tunisia
 ### [Tunisia calls up recently retired soldiers to contain recent unrest. ](/news/2011/02/7/tunisia-calls-up-recently-retired-soldiers-to-contain-recent-unrest.md)
@@ -17,11 +17,11 @@ The deal would give AOL a major presence in journalism, demonstrating the compan
 
 ##### Iraq
 ### [Iraq is poised to sign $12b gas deal with Shell Oil Company. ](/news/2011/02/7/iraq-is-poised-to-sign-12b-gas-deal-with-shell-oil-company.md)
-_Context: Iraq, Shell Oil Company_
+_Context: Shell Oil Company, Iraq_
 
 ##### Continental Airlines
 ### [Continental Airlines announces that it plans to lay off 500 staff in Houston, Texas following its merger with United Airlines. ](/news/2011/02/7/continental-airlines-announces-that-it-plans-to-lay-off-500-staff-in-houston-texas-following-its-merger-with-united-airlines.md)
-_Context: Texas, Houston, Texas, Continental Airlines, United Airlines_
+_Context: Houston, Texas, Texas, Continental Airlines, United Airlines_
 
 ##### Bushfire
 ### [Bushfires in Perth, Western Australia continue to burn out of control after having destroyed up to 40 homes. ](/news/2011/02/7/bushfires-in-perth-western-australia-continue-to-burn-out-of-control-after-having-destroyed-up-to-40-homes.md)
@@ -33,7 +33,7 @@ AUSTRALIA and the US have formed a partnership to share top-secret intelligence 
 
 ##### North Korea
 ### [Thirty-one North Koreans arrive in South Korea after crossing the Yellow Sea by boat. ](/news/2011/02/7/thirty-one-north-koreans-arrive-in-south-korea-after-crossing-the-yellow-sea-by-boat.md)
-_Context: Yellow Sea, North Korea, South Korea_
+_Context: North Korea, South Korea, Yellow Sea_
 
 ##### Israel
 ### [Israel approves plans for two new buildings to be built in East Jerusalem, Palestine with the Palestinians currently living there to be evicted.](/news/2011/02/7/israel-approves-plans-for-two-new-buildings-to-be-built-in-east-jerusalem-palestine-with-the-palestinians-currently-living-there-to-be-evic.md)

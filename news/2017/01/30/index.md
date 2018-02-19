@@ -5,15 +5,15 @@ Formats: [HTML](2017/01/30/index.html)  [JSON](2017/01/30/index.json)  [XML](201
 
 ##### War in Donbass
 ### [The Ukrainian military says seven soldiers have been killed by pro-Russian separatists since Sunday. The separatists report over 5 days of artillery attacks on them by the Ukrainian side. ](/news/2017/01/30/the-ukrainian-military-says-seven-soldiers-have-been-killed-by-pro-russian-separatists-since-sunday-the-separatists-report-over-5-days-of-a.md)
-_Context: Ukrainian military, Pro-Russian militants, since Sunday, War in Donbass_
+_Context: War in Donbass, Ukrainian military, Pro-Russian militants, since Sunday_
 
 ##### Russian military intervention
 ### [ The Russian Defence Ministry says six Russian bombers hit ISIL positions in Syria's Deir ez-Zor Governorate. ](/news/2017/01/30/the-russian-defence-ministry-says-six-russian-bombers-hit-isil-positions-in-syria-s-deir-ez-zor-governorate.md)
-_Context: Syria, Ministry of Defence, Deir ez-Zor, ISIL, Russian military intervention_
+_Context: Ministry of Defence, Russian military intervention, ISIL, Deir ez-Zor, Syria_
 
 ##### Insurgency in the North Caucasus
 ### [At least two police officers and three suspected militants are killed during a gunfight in Shali, Chechnya. ](/news/2017/01/30/at-least-two-police-officers-and-three-suspected-militants-are-killed-during-a-gunfight-in-shali-chechnya.md)
-_Context: police, Chechnya, Shali, Insurgency in the North Caucasus_
+_Context: Shali, Chechnya, Insurgency in the North Caucasus, police_
 
 ##### Yemeni Civil War
 ### [A suspected U.S. drone strike kills two al-Qaida militants in central Shabwa province, according to Yemeni security and tribal officials. ](/news/2017/01/30/a-suspected-u-s-drone-strike-kills-two-al-qaida-militants-in-central-shabwa-province-according-to-yemeni-security-and-tribal-officials.md)
@@ -29,7 +29,7 @@ A 27-year-old student allegedly known for his right-wing, nationalist views appe
 
 ##### Miss Universe 2016
 ### [Iris Mittenaere, winner of Miss France 2016, is crowned as the winner of Miss Universe 2016 at a ceremony in the Philippines. ](/news/2017/01/30/iris-mittenaere-winner-of-miss-france-2016-is-crowned-as-the-winner-of-miss-universe-2016-at-a-ceremony-in-the-philippines.md)
-_Context: Philippines, Miss France 2016, Miss Universe 2016, Iris Mittenaere_
+_Context: Miss Universe 2016, Philippines, Miss France 2016, Iris Mittenaere_
 
 ##### Walgreens Boots Alliance
 ### [Walgreens Boots Alliance reduces its offer price for Rite Aid and defers the expected closing date by six months due to concerns about regulatory approval. ](/news/2017/01/30/walgreens-boots-alliance-reduces-its-offer-price-for-rite-aid-and-defers-the-expected-closing-date-by-six-months-due-to-concerns-about-regul.md)
@@ -45,7 +45,7 @@ The petition suggested it should be canceled &quot;because it would cause embarr
 
 ##### Iraq-United States relations
 ### [The Iraqi Parliament votes in favour of a reciprocal travel ban on U.S. citizens if U.S. President Donald Trump's executive order barring citizens of Iraq and six other Muslim-majority countries is not reversed. The Iraqi travel ban will not be implemented while tens of thousands of U.S. soldiers and contractors are involved in the fight against ISIL. ](/news/2017/01/30/the-iraqi-parliament-votes-in-favour-of-a-reciprocal-travel-ban-on-u-s-citizens-if-u-s-president-donald-trump-s-executive-order-barring-ci.md)
-_Context: Iraq, Iraqi Parliament, Iraq-United States relations, ISIL, United States, Executive Order 13769_
+_Context: Iraqi Parliament, Executive Order 13769, Iraq-United States relations, ISIL, Iraq, United States_
 
 ##### Drug crackdown
 ### [Philippine President Rodrigo Duterte suspends the war on drugs so resources can focus on ridding "corrupt" officers from the Philippine National Police. The "cause celebre" is the kidnapping and strangulation of South Korean businessman Jee Ick-joo last October. ](/news/2017/01/30/philippine-president-rodrigo-duterte-suspends-the-war-on-drugs-so-resources-can-focus-on-ridding-acorrupta-officers-from-the-philippine.md)

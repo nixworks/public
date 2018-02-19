@@ -9,11 +9,11 @@ Massive manhunt underway for suspect, identified as an Israeli Arab; two serious
 
 ##### Jesus
 ### [A new 28-foot tall statue of Jesus, dubbed "Jesus de Greatest," is unveiled on New Year's Day outside St. Aloysius Catholic Church in Abajah village, Nigeria's Imo state, which is described as the tallest Jesus statue in Africa. ](/news/2016/01/1/a-new-28-foot-tall-statue-of-jesus-dubbed-jesus-de-greatest-is-unveiled-on-new-year-s-day-outside-st-aloysius-catholic-church-in-abajah.md)
-_Context: St. Aloysius Catholic Church, Imo state, Jesus_
+_Context: St. Aloysius Catholic Church, Jesus, Imo state_
 
 ##### Manila
 ### [About one thousand houses in Manila's Tondo district in the Philippines are set ablaze following New Year's Eve firecracker festivities that left one dead and 380 others injured. ](/news/2016/01/1/about-one-thousand-houses-in-manila-s-tondo-district-in-the-philippines-are-set-ablaze-following-new-year-s-eve-firecracker-festivities-that.md)
-_Context: firecracker, New Year's Eve, Manila, Philippines, Tondo_
+_Context: Tondo, New Year's Eve, Manila, Philippines, firecracker_
 
 ##### EU-Ukraine Free Trade deal
 ### [ The EU-Ukraine Free Trade deal officially comes into force, coinciding with a Russian food embargo on Ukraine. ](/news/2016/01/1/the-eu-ukraine-free-trade-deal-officially-comes-into-force-coinciding-with-a-russian-food-embargo-on-ukraine.md)
@@ -25,7 +25,7 @@ Under the new law, married couples are now allowed to have a second child, but t
 
 ##### Olafur Ragnar Grimsson
 ### [Olafur Ragnar Grimsson, who has been the President of Iceland for 20 years, announces in his new-year speech that he will not seek reelection for a sixth term when presidential elections will be held in June. ](/news/2016/01/1/alafur-ragnar-gramsson-who-has-been-the-president-of-iceland-for-20-years-announces-in-his-new-year-speech-that-he-will-not-seek-reelect.md)
-_Context: president, Icelandic presidential election, 2016, Olafur Ragnar Grimsson_
+_Context: Olafur Ragnar Grimsson, Icelandic presidential election, 2016, president_
 
 ## [Previous Day...](/news/2015/12/31/index.md)
 

@@ -13,11 +13,11 @@ The official source of CFL news, opinion, video highlights, schedules, scores, s
 
 ##### Iraq
 ### [ Gunmen abduct Iraq's Deputy Health Minister Ammar al-Saffar. ](/news/2006/11/19/gunmen-abduct-iraq-s-deputy-health-minister-ammar-al-saffar.md)
-_Context: Iraq, Ammar al-Saffar_
+_Context: Ammar al-Saffar, Iraq_
 
 ##### Somali Civil War
 ### [ Somali Civil War: UN Secretary-General Kofi Annan warns Somalia's neighbours to stay out, as UN experts paint an alarming picture of foreign and extremist intervention in a nation on the brink of all-out war that could engulf the Horn of Africa. ](/news/2006/11/19/somali-civil-war-un-secretary-general-kofi-annan-warns-somalia-s-neighbours-to-stay-out-as-un-experts-paint-an-alarming-picture-of-foreig.md)
-_Context: Kofi Annan, Horn of Africa, Somali Civil War, United Nations Secretary-General, Somalia, United Nations_
+_Context: United Nations, United Nations Secretary-General, Somali Civil War, Horn of Africa, Somalia, Kofi Annan_
 
 ##### Assassination
 ### [ Suspected assassination plot: Alexander Litvinenko, a former Russian spy who defected to Britain six years ago, is fighting for his life in a London hospital after being poisoned with polonium-210 in a sushi bar. ](/news/2006/11/19/suspected-assassination-plot-alexander-litvinenko-a-former-russian-spy-who-defected-to-britain-six-years-ago-is-fighting-for-his-life-in.md)
@@ -37,7 +37,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### 2006 riots
 ### [ 2006 Tonga riots: A leader of the Tongan pro-democracy movement, MP Akilisi Pohiva, criticises the intervention of Australian and New Zealand peacekeepers following riots. ](/news/2006/11/19/2006-tonga-riots-a-leader-of-the-tongan-pro-democracy-movement-mp-akilisi-pohiva-criticises-the-intervention-of-australian-and-new-zeala.md)
-_Context: Tonga, Australia, 2006 riots, New Zealand, Akilisi Pohiva_
+_Context: 2006 riots, Tonga, Akilisi Pohiva, New Zealand, Australia_
 
 ##### Attempted
 ### [ An attempted military coup d'tat in Madagascar announced by Gnral Andrianafidisoa appears to have failed. ](/news/2006/11/19/an-attempted-military-coup-d-etat-in-madagascar-announced-by-general-andrianafidisoa-appears-to-have-failed.md)
@@ -53,7 +53,7 @@ _Context: World Trade Organization, climate change, Asia-Pacific Economic Cooper
 
 ##### Sri Lankan Army
 ### [ Sri Lankan Army troopers opened fire on a group of minority Sri Lankan Tamil and Muslim students at an Agricultural College at Thandikulam close to Vavuniya in Sri Lanka. Five students were killed along with 10 injured. ](/news/2006/11/19/sri-lankan-army-troopers-opened-fire-on-a-group-of-minority-sri-lankan-tamil-and-muslim-students-at-an-agricultural-college-at-thandikulam.md)
-_Context: minority group, Sri Lankan Army, Muslims, Thandikulam, Vavuniya, Sri Lankan Tamil_
+_Context: Muslims, Sri Lankan Tamil, minority group, Vavuniya, Sri Lankan Army, Thandikulam_
 
 ## [Previous Day...](/news/2006/11/18/index.md)
 

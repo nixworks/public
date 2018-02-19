@@ -19,7 +19,7 @@ _Context: Gaza Strip, Palestine, Israel_
 
 ##### President
 ### [President of Iran Mahmoud Ahmadinejad writes a letter to President of the United States Barack Obama urging cooperation between the two countries. ](/news/2010/04/16/president-of-iran-mahmoud-ahmadinejad-writes-a-letter-to-president-of-the-united-states-barack-obama-urging-cooperation-between-the-two-coun.md)
-_Context: Barack Obama, U.S. President, President, Mahmoud Ahmadinejad_
+_Context: Mahmoud Ahmadinejad, U.S. President, President, Barack Obama_
 
 ##### Severe storm in India
 ### [Victims of the recent severe storm in India angered by slow government response attack officials and raid an aid storage facility. ](/news/2010/04/16/victims-of-the-recent-severe-storm-in-india-angered-by-slow-government-response-attack-officials-and-raid-an-aid-storage-facility.md)
@@ -27,7 +27,7 @@ _Context: severe storm in India_
 
 ##### Blackwater Worldwide
 ### [Gary Jackson, former president of the US private security firm, Blackwater Worldwide (Xe Services LLC), and four other former workers are indicted on federal weapons charges. ](/news/2010/04/16/gary-jackson-former-president-of-the-us-private-security-firm-blackwater-worldwide-xe-services-llc-and-four-other-former-workers-are-in.md)
-_Context: Blackwater Worldwide, Xe Services, LLC_
+_Context: Xe Services, Blackwater Worldwide, LLC_
 
 ##### U.S. Securities and Exchange Commission
 ### [The U.S. Securities and Exchange Commission charges Goldman Sachs with defrauding investors. ](/news/2010/04/16/the-u-s-securities-and-exchange-commission-charges-goldman-sachs-with-defrauding-investors.md)
@@ -39,7 +39,7 @@ _Context: Ehud Olmert, Israeli Prime Minister, Israel_
 
 ##### United Nations
 ### [The United Nations commission investigating the events and circumstances surrounding the assassination of Benazir Bhutto submits its report which states that the murder was "avoidable" and the inquiry was bungled. ](/news/2010/04/16/the-united-nations-commission-investigating-the-events-and-circumstances-surrounding-the-assassination-of-benazir-bhutto-submits-its-report.md)
-_Context: assassination of Benazir Bhutto, United Nations_
+_Context: United Nations, assassination of Benazir Bhutto_
 
 ##### Quetta
 ### [At least ten people die and another 35 are wounded in a suicide attack on a hospital in Quetta. ](/news/2010/04/16/at-least-ten-people-die-and-another-35-are-wounded-in-a-suicide-attack-on-a-hospital-in-quetta.md)
@@ -51,15 +51,15 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 
 ##### Gordon Brown
 ### [Gordon Brown and David Cameron admitted that Nick Clegg, leader of the Liberal Democrats, put forward a very good case for his party at last night's election debate. ](/news/2010/04/16/gordon-brown-and-david-cameron-admitted-that-nick-clegg-leader-of-the-liberal-democrats-put-forward-a-very-good-case-for-his-party-at-last.md)
-_Context: Nick Clegg, David Cameron, Liberal Democrats, Gordon Brown_
+_Context: Liberal Democrats, David Cameron, Nick Clegg, Gordon Brown_
 
 ##### Popular protests
 ### [As a result of popular protests in the north and capital of the country President Kurmanbek Bakiyev officially resigns after he leaves Kyrgyzstan for Kazakhstan. ](/news/2010/04/16/as-a-result-of-popular-protests-in-the-north-and-capital-of-the-country-president-kurmanbek-bakiyev-officially-resigns-after-he-leaves-kyrgy.md)
-_Context: Kurmanbek Bakiyev, Kyrgyzstan, popular protests, Kazakhstan, president_
+_Context: Kazakhstan, Kyrgyzstan, popular protests, Kurmanbek Bakiyev, president_
 
 ##### Sudan
 ### [Vote counting begins in Sudan after the five-day landmark multi-party election. ](/news/2010/04/16/vote-counting-begins-in-sudan-after-the-five-day-landmark-multi-party-election.md)
-_Context: Sudan, post-election protests_
+_Context: post-election protests, Sudan_
 
 ##### Al-Qaeda
 ### [Al-Qaeda reportedly free an Italian couple that they had been holding since December 2009. ](/news/2010/04/16/al-qaeda-reportedly-free-an-italian-couple-that-they-had-been-holding-since-december-2009.md)
@@ -71,7 +71,7 @@ _Context: Mohammad Khatami, Iran_
 
 ##### 2010 BRIC summit
 ### [The 2010 BRIC summit opens in Brasilia amidst growing cooperation and calls for a bigger role. ](/news/2010/04/16/the-2010-bric-summit-opens-in-brasalia-amidst-growing-cooperation-and-calls-for-a-bigger-role.md)
-_Context: Brasilia, 2010 BRIC summit_
+_Context: 2010 BRIC summit, Brasilia_
 
 ##### Arisman Pongruangrong
 ### [Senior red-shirt leader Arisman Pongruangrong climbs down a rope to escape an arrest attempt by Thai security forces laying siege to Thaksin Shinawatra's SC Park Hotel in Bangkok. He urges protesters to leave Ratchaprasong "to avoid being used as human shields". ](/news/2010/04/16/senior-red-shirt-leader-arisman-pongruangrong-climbs-down-a-rope-to-escape-an-arrest-attempt-by-thai-security-forces-laying-siege-to-thaksin.md)

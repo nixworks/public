@@ -13,7 +13,7 @@ _Context: Somalia_
 
 ##### Unit 731
 ### [An excavation begins at the Tokyo site of Unit 731, a covert Imperial Japanese Army biological and chemical warfare site that conducted human experimentation. ](/news/2011/02/21/an-excavation-begins-at-the-tokyo-site-of-unit-731-a-covert-imperial-japanese-army-biological-and-chemical-warfare-site-that-conducted-huma.md)
-_Context: Unit 731, biological, Imperial Japanese Army, human experimentation, chemical warfare_
+_Context: Imperial Japanese Army, biological, chemical warfare, human experimentation, Unit 731_
 
 ##### South Waziristan
 ### [A suspected United States missile strike kills four militants in the South Waziristan region of Pakistan. ](/news/2011/02/21/a-suspected-united-states-missile-strike-kills-four-militants-in-the-south-waziristan-region-of-pakistan.md)
@@ -33,7 +33,7 @@ _Context: Slim Jim, Garner, North Carolina, ConAgra_
 
 ##### St. Paul
 ### [The United States cities of St. Paul and Minneapolis declare snow emergencies. ](/news/2011/02/21/the-united-states-cities-of-st-paul-and-minneapolis-declare-snow-emergencies.md)
-_Context: Minneapolis, snow emergencies, St. Paul_
+_Context: St. Paul, snow emergencies, Minneapolis_
 
 ##### Influenza A virus subtype H5N1
 ### [Bird flu is discovered in the Indian state of Andhra Pradesh. ](/news/2011/02/21/bird-flu-is-discovered-in-the-indian-state-of-andhra-pradesh.md)
@@ -41,15 +41,15 @@ The fear of bird flu has come back to haunt the poultry industry in Andhra Prade
 
 ##### Mount Bulusan
 ### [Mount Bulusan on the island of Luzon in the Philippines erupts. ](/news/2011/02/21/mount-bulusan-on-the-island-of-luzon-in-the-philippines-erupts.md)
-_Context: Philippines, Luzon, Mount Bulusan_
+_Context: Luzon, Philippines, Mount Bulusan_
 
 ##### Mali
 ### [At least thirty people are killed in a stampede at a Mali stadium following a sermon by a leading Muslim imam. ](/news/2011/02/21/at-least-thirty-people-are-killed-in-a-stampede-at-a-mali-stadium-following-a-sermon-by-a-leading-muslim-imam.md)
-_Context: imam, Muslim, Mali_
+_Context: imam, Mali, Muslim_
 
 ##### Tunisia
 ### [Tunisia asks Saudi Arabia to extradite former President Zine El Abidine Ben Ali who was ousted in January. ](/news/2011/02/21/tunisia-asks-saudi-arabia-to-extradite-former-president-zine-el-abidine-ben-ali-who-was-ousted-in-january.md)
-_Context: Saudi Arabia, Zine El Abidine Ben Ali, Tunisia_
+_Context: Tunisia, Zine El Abidine Ben Ali, Saudi Arabia_
 
 ##### DR Congo
 ### [A court in the Democratic Republic of the Congo sentences an army colonel to 20 years imprisonment for crimes against humanity. ](/news/2011/02/21/a-court-in-the-democratic-republic-of-the-congo-sentences-an-army-colonel-to-20-years-imprisonment-for-crimes-against-humanity.md)
@@ -57,7 +57,7 @@ _Context: DR Congo, crimes against humanity_
 
 ##### Bombay High Court
 ### [The Bombay High Court in India upholds the death sentence for convicted Pakistani terrorist Ajmal Kasab for his involvement in the 2008 Mumbai attacks. ](/news/2011/02/21/the-bombay-high-court-in-india-upholds-the-death-sentence-for-convicted-pakistani-terrorist-ajmal-kasab-for-his-involvement-in-the-2008-mumb.md)
-_Context: Pakistan, Bombay High Court, Ajmal Kasab, 2008 Mumbai attacks_
+_Context: Ajmal Kasab, Bombay High Court, 2008 Mumbai attacks, Pakistan_
 
 ##### 
 ### [China's top security official urges ways to "detect conflicts and problems early on" and improve "social management", after small protests took place inspired by events in the Middle East and North Africa. ](/news/2011/02/21/china-s-top-security-official-urges-ways-to-detect-conflicts-and-problems-early-on-and-improve-social-management-after-small-protests-t.md)
@@ -71,11 +71,11 @@ The U.S., with 4.5 percent of the world’s population and 25 percent of the wor
 
 ##### Alex Chernov
 ### [Jurist Alex Chernov is appointed as the next Governor of the Australian state of Victoria. ](/news/2011/02/21/jurist-alex-chernov-is-appointed-as-the-next-governor-of-the-australian-state-of-victoria.md)
-_Context: Governor, Alex Chernov, Victoria_
+_Context: Alex Chernov, Governor, Victoria_
 
 ##### Venezuela
 ### [Three Venezuelan hunger strikers are hospitalised after calling for an international probe into alleged human rights abuses by the President of Venezuela Hugo Chvez. ](/news/2011/02/21/three-venezuelan-hunger-strikers-are-hospitalised-after-calling-for-an-international-probe-into-alleged-human-rights-abuses-by-the-president.md)
-_Context: Hugo Chvez, President, hunger strike, human rights, Venezuela_
+_Context: Hugo Chvez, human rights, Venezuela, hunger strike, President_
 
 ## [Previous Day...](/news/2011/02/20/index.md)
 

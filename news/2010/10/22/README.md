@@ -25,15 +25,15 @@ At least 3 people were killed and 22 others sustained severe injuries when a hom
 
 ##### Islam
 ### [Fighting between pro-government forces and Islamist insurgents in Beled-Hawa district of Somalia near the Kenyan border has killed 12 people. ](/news/2010/10/22/fighting-between-pro-government-forces-and-islamist-insurgents-in-beled-hawa-district-of-somalia-near-the-kenyan-border-has-killed-12-people.md)
-_Context: Beled-Hawa, Somalia, Islam, Kenya_
+_Context: Kenya, Beled-Hawa, Islam, Somalia_
 
 ##### Iran
 ### [2 Iranian films, 'Michael' and 'When the Light Shines', win top prizes at Italy's "13th International Religions Today Film Festival" at its closing ceremony. ](/news/2010/10/22/2-iranian-films-amichaela-and-awhen-the-light-shinesa-win-top-prizes-at-italy-s-a13th-international-religions-today-film-festiva.md)
-_Context: Iran, Italy, International Religions Today Film Festival_
+_Context: Italy, International Religions Today Film Festival, Iran_
 
 ##### National Film Awards
 ### [Fifty-seventh National Film Awards given away by President Pratibha Patel in New Delhi. ](/news/2010/10/22/fifty-seventh-national-film-awards-given-away-by-president-pratibha-patel-in-new-delhi.md)
-_Context: Pratibha Patel, New Delhi, National Film Awards_
+_Context: National Film Awards, Pratibha Patel, New Delhi_
 
 ##### Chile
 ### [Chilean writer and social critic Pablo Huneeus registers the copyright in "Estamos bien en el refugio los 33" on behalf of the man who wrote it. ](/news/2010/10/22/chilean-writer-and-social-critic-pablo-huneeus-registers-the-copyright-in-estamos-bien-en-el-refugio-los-33-on-behalf-of-the-man-who-wrote.md)
@@ -45,7 +45,7 @@ Clashes break out outside a major oil refinery in France after riot police move 
 
 ##### Premier
 ### [The Premier of Saskatchewan Brad Wall calls on the Government of Canada to reject a $28.6 billion takeover bid by BHP Billiton for the Potash Corporation of Saskatchewan. ](/news/2010/10/22/the-premier-of-saskatchewan-brad-wall-calls-on-the-government-of-canada-to-reject-a-28-6-billion-takeover-bid-by-bhp-billiton-for-the-potas.md)
-_Context: BHP Billiton, Canadian government, Potash Corporation of Saskatchewan, Brad Wall, Premier, takeover_
+_Context: takeover, Premier, Potash Corporation of Saskatchewan, BHP Billiton, Canadian government, Brad Wall_
 
 ##### China
 ### [China's urban unemployment rate fell to 4.1% at September. ](/news/2010/10/22/chinaas-urban-unemployment-rate-fell-to-4-1-at-september.md)
@@ -57,7 +57,7 @@ Nearly half of U.S. states reported drops in their unemployment rates last month
 
 ##### Haiti
 ### [The Haitian Health Ministry informs the World Health Organisation of a cholera outbreak north of Port-au-Prince; at least 150 people have been killed. ](/news/2010/10/22/the-haitian-health-ministry-informs-the-world-health-organisation-of-a-cholera-outbreak-north-of-port-au-prince-at-least-150-people-have-be.md)
-_Context: Port-au-Prince, World Health Organisation, cholera outbreak, Haiti_
+_Context: Port-au-Prince, Haiti, World Health Organisation, cholera outbreak_
 
 ##### Uganda
 ### [An outbreak of jiggers, a rotting disease, kills 20 people in Uganda and sickens a further 20,000. ](/news/2010/10/22/an-outbreak-of-jiggers-a-rotting-disease-kills-20-people-in-uganda-and-sickens-a-further-20-000.md)
@@ -65,7 +65,7 @@ _Context: Uganda_
 
 ##### United Nations Secretary-General
 ### [Secretary-General of the United Nations Ban Ki-moon warns that North Korea is headed for a "chronic" food crisis with droughts and floods in various parts of the country. ](/news/2010/10/22/secretary-general-of-the-united-nations-ban-ki-moon-warns-that-north-korea-is-headed-for-a-chronic-food-crisis-with-droughts-and-floods-in.md)
-_Context: flood, North Korea, United Nations Secretary-General, Ban Ki-moon, drought_
+_Context: flood, United Nations Secretary-General, Ban Ki-moon, drought, North Korea_
 
 ##### Typhoon Megi
 ### [Typhoon Megi kills 7 people and leaves 23 missing after triggering landslides in Taiwan. ](/news/2010/10/22/typhoon-megi-kills-7-people-and-leaves-23-missing-after-triggering-landslides-in-taiwan.md)
@@ -73,7 +73,7 @@ _Context: Taiwan, Typhoon Megi_
 
 ##### Cyclone Giri
 ### [Cyclone Giri, which rapidly intensified with winds of 144mph, makes landfall in western Burma. ](/news/2010/10/22/cyclone-giri-which-rapidly-intensified-with-winds-of-144mph-makes-landfall-in-western-burma.md)
-_Context: Burma, Cyclone Giri_
+_Context: Cyclone Giri, Burma_
 
 ##### Forest fire
 ### [Forest fires in Sumatra, Indonesia, cause a thick haze to drift over Singapore. ](/news/2010/10/22/forest-fires-in-sumatra-indonesia-cause-a-thick-haze-to-drift-over-singapore.md)
@@ -81,7 +81,7 @@ Forest fires on the island of Sumatra have caused air pollution and a thick clou
 
 ##### Nieuwer ter Aa
 ### [A cargo ship collides with a small ferryboat at Nieuwer ter Aa, Utrecht, capsizing the ferryboat. ](/news/2010/10/22/a-cargo-ship-collides-with-a-small-ferryboat-at-nieuwer-ter-aa-utrecht-capsizing-the-ferryboat.md)
-_Context: Nieuwer ter Aa, Utrecht_
+_Context: Utrecht, Nieuwer ter Aa_
 
 ##### Isle of Skye
 ### [Astute 6 runs aground off the Isle of Skye. ](/news/2010/10/22/astute-6-runs-aground-off-the-isle-of-skye.md)

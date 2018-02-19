@@ -25,11 +25,11 @@ Political parties in Greece criticise IMF head Christine Lagarde for suggesting 
 
 ##### French police
 ### [French police arrest the military leader of the Basque separatist group ETA Oroitz Gurruchaga Gogorza and his deputy Xabier Aramburu in the village of Cauna. ](/news/2012/05/27/french-police-arrest-the-military-leader-of-the-basque-separatist-group-eta-oroitz-gurruchaga-gogorza-and-his-deputy-xabier-aramburu-in-the.md)
-_Context: Xabier Aramburu, Cauna, Oroitz Gurruchaga Gogorza, French police, ETA, Basque_
+_Context: Basque, Xabier Aramburu, Oroitz Gurruchaga Gogorza, Cauna, French police, ETA_
 
 ##### Enda Kenny
 ### [Taoiseach Enda Kenny makes a televised address on the European Fiscal Compact ahead of Thursday's referendum. ](/news/2012/05/27/taoiseach-enda-kenny-makes-a-televised-address-on-the-european-fiscal-compact-ahead-of-thursday-s-referendum.md)
-_Context: Enda Kenny, European Fiscal Compact, Irish referendum_
+_Context: Irish referendum, Enda Kenny, European Fiscal Compact_
 
 ##### Tbilisi
 ### [Thousands of people rally in Tbilisi calling for the ousting of President Mikheil Saakashvili's regime. ](/news/2012/05/27/thousands-of-people-rally-in-tbilisi-calling-for-the-ousting-of-president-mikheil-saakashvili-s-regime.md)

@@ -21,7 +21,7 @@ _Context: Tripoli, NATO_
 
 ##### China
 ### [The People's Republic of China's only ratings house that grades sovereign entities, the Dagong Global Credit Rating Company, states that the United States is already defaulting on its debt by allowing the U.S. dollar to devalue against other currencies, diminishing the wealth of China as a U.S. creditor. ](/news/2011/06/10/the-people-s-republic-of-china-s-only-ratings-house-that-grades-sovereign-entities-the-dagong-global-credit-rating-company-states-that-the.md)
-_Context: creditor, Dagong Global Credit Rating, defaults, United States,  debt, $, China_
+_Context: Dagong Global Credit Rating, $, creditor, China, defaults,  debt, United States_
 
 ##### South Korea
 ### [The South Korean Central Bank raises its benchmark interest rate by 25 basis points to 3.25 percent. ](/news/2011/06/10/the-south-korean-central-bank-raises-its-benchmark-interest-rate-by-25-basis-points-to-3-25-percent.md)
@@ -29,19 +29,19 @@ _Context: Bank of Korea, South Korea_
 
 ##### Azad Kashmir
 ### [At least 14 people are killed as a van falls into a canal in Azad Kashmir in Pakistan. ](/news/2011/06/10/at-least-14-people-are-killed-as-a-van-falls-into-a-canal-in-azad-kashmir-in-pakistan.md)
-_Context: Pakistan, Azad Kashmir_
+_Context: Azad Kashmir, Pakistan_
 
 ##### Cesium
 ### [Radioactive cesium above Japanese legal limits is found in tea from the Shizuoka Prefecture, located 300 kilometres from the earthquake-damaged Fukushima Daiichi Nuclear Power Plant. ](/news/2011/06/10/radioactive-cesium-above-japanese-legal-limits-is-found-in-tea-from-the-shizuoka-prefecture-located-300-kilometres-from-the-earthquake-dama.md)
-_Context: Fukushima Daiichi Nuclear Power Plant, Shizuoka Prefecture, Japan, tea, cesium, earthquake-damaged_
+_Context: cesium, earthquake-damaged, tea, Shizuoka Prefecture, Fukushima Daiichi Nuclear Power Plant, Japan_
 
 ##### Environment Agency
 ### [The British Environment Agency declares drought in five English counties &ndash; Lincolnshire, Cambridgeshire, parts of Bedfordshire, Northamptonshire and Norfolk &ndash; following a dry spring. ](/news/2011/06/10/the-british-environment-agency-declares-drought-in-five-english-counties-ndash-lincolnshire-cambridgeshire-parts-of-bedfordshire-northa.md)
-_Context: Cambridgeshire, Norfolk, Northamptonshire, England, Environment Agency, drought, Bedfordshire, Lincolnshire, counties_
+_Context: Bedfordshire, Northamptonshire, Norfolk, Cambridgeshire, counties, Lincolnshire, England, drought, Environment Agency_
 
 ##### Iran
 ### [Iran has reportedly been caught on 10 separate occasions trying to send arms to terrorist groups, including Hamas and the Taliban. ](/news/2011/06/10/iran-has-reportedly-been-caught-on-10-separate-occasions-trying-to-send-arms-to-terrorist-groups-including-hamas-and-the-taliban.md)
-_Context: Hamas, Taliban, terrorist, Iran_
+_Context: Hamas, terrorist, Taliban, Iran_
 
 ##### Vietnam
 ### [Vietnam said that a Chinese fishing boat had purposefully torn away a seismic research cable laid by Vietnam's Petrovietnam oil company inside Vietnam's 200 nautical mile exclusive economic zone. ](/news/2011/06/10/vietnam-said-that-a-chinese-fishing-boat-had-purposefully-torn-away-a-seismic-research-cable-laid-by-vietnam-s-petrovietnam-oil-company-insi.md)
@@ -49,11 +49,11 @@ China accuses Vietnam of &quot;gravely violating&quot; its sovereignty in an esc
 
 ##### Yuri Budanov
 ### [Yuri Budanov, a Russian colonel convicted of strangling an 18-year-old Chechen girl during the Chechen War, is shot dead in Moscow. ](/news/2011/06/10/yuri-budanov-a-russian-colonel-convicted-of-strangling-an-18-year-old-chechen-girl-during-the-chechen-war-is-shot-dead-in-moscow.md)
-_Context: Chechen, Moscow, Chechen War, Russia, Yuri Budanov_
+_Context: Moscow, Yuri Budanov, Chechen, Russia, Chechen War_
 
 ##### China
 ### [Hundreds of Mainland Chinese and Taiwanese people are arrested in several countries across Asia during a crackdown on a telephone scam network. ](/news/2011/06/10/hundreds-of-mainland-chinese-and-taiwanese-people-are-arrested-in-several-countries-across-asia-during-a-crackdown-on-a-telephone-scam-netwo.md)
-_Context: Taiwan, China, Asia_
+_Context: Asia, China, Taiwan_
 
 ##### Sinn Fein
 ### [Sinn Fein's Paul Maskey wins the West Belfast by-election. ](/news/2011/06/10/sinn-fein-s-paul-maskey-wins-the-west-belfast-by-election.md)

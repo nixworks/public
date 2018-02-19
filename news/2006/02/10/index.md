@@ -17,11 +17,11 @@ _Context: Israel, Hamas_
 
 ##### KV63
 ### [ KV63, tomb from the Eighteenth dynasty of Egypt, dating back more than 3,300 years, has been uncovered in the famed Valley of the Kings, an ancient desert burial ground near the southern city of Luxor. ](/news/2006/02/10/kv63-tomb-from-the-eighteenth-dynasty-of-egypt-dating-back-more-than-3-300-years-has-been-uncovered-in-the-famed-valley-of-the-kings-an.md)
-_Context: KV63, Valley of the Kings, Eighteenth dynasty of Egypt, Luxor_
+_Context: Luxor, Eighteenth dynasty of Egypt, Valley of the Kings, KV63_
 
 ##### United Nations
 ### [ United Nations Secretary General Kofi Annan wishes editors to stop reprinting the controversial Muhammad cartoons. ](/news/2006/02/10/united-nations-secretary-general-kofi-annan-wishes-editors-to-stop-reprinting-the-controversial-muhammad-cartoons.md)
-_Context: United Nations, Secretary General, Jyllands-Posten Muhammad cartoons controversy, Kofi Annan_
+_Context: Kofi Annan, Secretary General, Jyllands-Posten Muhammad cartoons controversy, United Nations_
 
 ##### Earthquake
 ### [ A medium-sized earthquake, registering 4.9, shook central Chile, rattling buildings, but there were no immediate reports of injuries or damages. ](/news/2006/02/10/a-medium-sized-earthquake-registering-4-9-shook-central-chile-rattling-buildings-but-there-were-no-immediate-reports-of-injuries-or-dam.md)
@@ -41,7 +41,7 @@ _Context: atheist, Jesus Christ_
 
 ##### 2006 Winter Olympics
 ### [ The 2006 Winter Olympics open in Turin, Italy, with the opening ceremony at the Stadio Olimpico. It is the 20th winter games and the second hosted by an Italian city. ](/news/2006/02/10/the-2006-winter-olympics-open-in-turin-italy-with-the-opening-ceremony-at-the-stadio-olimpico-it-is-the-20th-winter-games-and-the-second.md)
-_Context: Turin, 2006 Winter Olympics, opening ceremony, Stadio Olimpico_
+_Context: 2006 Winter Olympics, Turin, Stadio Olimpico, opening ceremony_
 
 ## [Previous Day...](/news/2006/02/9/index.md)
 

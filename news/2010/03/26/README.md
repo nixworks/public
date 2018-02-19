@@ -21,7 +21,7 @@ Treaty to be signed on April 8 would cut both arsenals to 1,550 warheads.
 
 ##### Indonesia
 ### [A prominent Indonesian cleric says Islamic law should take priority over laws passed by Parliament. ](/news/2010/03/26/a-prominent-indonesian-cleric-says-islamic-law-should-take-priority-over-laws-passed-by-parliament.md)
-_Context: muslim cleric, sharia law, Parliament, Indonesia_
+_Context: muslim cleric, Indonesia, Parliament, sharia law_
 
 ##### United Nations
 ### [The United Nations Secretary-General Ban Ki-moon says he is disappointed with Burma's military leaders for their lack of democratic progress in the run up to general elections in the country. ](/news/2010/03/26/the-united-nations-secretary-general-ban-ki-moon-says-he-is-disappointed-with-burma-s-military-leaders-for-their-lack-of-democratic-progress.md)
@@ -29,7 +29,7 @@ UN chief voices concern at lack of progress ahead of planned elections.
 
 ##### China
 ### [Chinese police arrests a suspect for poisoning frozen dumplings for revenge. Those dumplings were exported to Japan and sickened 10 people in 2008. ](/news/2010/03/26/chinese-police-arrests-a-suspect-for-poisoning-frozen-dumplings-for-revenge-those-dumplings-were-exported-to-japan-and-sickened-10-people-i.md)
-_Context: China, dumplings, 2008, Japan, poisoning_
+_Context: poisoning, dumplings, China, 2008, Japan_
 
 ##### Interstate 65
 ### [11 people are killed in a highway accident on Interstate 65 in the U.S. state of Kentucky, near Munfordville. The wreck site is roughly 40 miles northwest of the city of Bowling Green, near Mammoth Cave National Park. ](/news/2010/03/26/11-people-are-killed-in-a-highway-accident-on-interstate-65-in-the-u-s-state-of-kentucky-near-munfordville-the-wreck-site-is-roughly-40-m.md)
@@ -41,11 +41,11 @@ A man who is charged with having sex with a 14-year-old girl when he was 15 has 
 
 ##### South Korean Navy
 ### [A South Korean Navy ship named the Cheonan, carrying more than 100 personnel sinks near the Northern Limit Line in waters off the country's west coast near North Korea. ](/news/2010/03/26/a-south-korean-navy-ship-named-the-cheonan-carrying-more-than-100-personnel-sinks-near-the-northern-limit-line-in-waters-off-the-country-s.md)
-_Context: North Korea, South Korean Navy, Northern Limit Line, sinking_
+_Context: South Korean Navy, sinking, North Korea, Northern Limit Line_
 
 ##### ITV
 ### [ITV drops police television series "The Bill" after 27 years. ](/news/2010/03/26/itv-drops-police-television-series-the-bill-after-27-years.md)
-_Context: ITV, The Bill_
+_Context: The Bill, ITV_
 
 ##### Times
 ### ["The Times" and "The Sunday Times" announce they are to charge GBP1 per day and GBP2 per week for online access from June 2010 and split into two websites from Times Online. ](/news/2010/03/26/the-times-and-the-sunday-times-announce-they-are-to-charge-agbp1-per-day-and-agbp2-per-week-for-online-access-from-june-2010-and-split-i.md)

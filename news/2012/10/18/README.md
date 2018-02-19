@@ -17,7 +17,7 @@ Dutch actress Sylvia Kristel who starred in the 1974 erotic French film Emmanuel
 
 ##### Gene Kerrigan
 ### [Veteran Irish writer Gene Kerrigan wins the Golden Dagger. ](/news/2012/10/18/veteran-irish-writer-gene-kerrigan-wins-the-golden-dagger.md)
-_Context: Golden Dagger, Gene Kerrigan_
+_Context: Gene Kerrigan, Golden Dagger_
 
 ##### United States
 ### [American weekly news magazine "Newsweek" announces it will cease print publication on December 31 and will move to an online-only format. ](/news/2012/10/18/american-weekly-news-magazine-newsweek-announces-it-will-cease-print-publication-on-december-31-and-will-move-to-an-online-only-format.md)

@@ -5,11 +5,11 @@ Formats: [HTML](2005/02/16/index.html)  [JSON](2005/02/16/index.json)  [XML](200
 
 ##### Mohamed ElBaradei
 ### [ Mohamed ElBaradei, head of the International Atomic Energy Agency (IAEA), states there is no evidence to suggest Iran is developing nuclear weapons. ](/news/2005/02/16/mohamed-elbaradei-head-of-the-international-atomic-energy-agency-iaea-states-there-is-no-evidence-to-suggest-iran-is-developing-nuclear.md)
-_Context: IAEA, nuclear weapon, Iran, Mohamed ElBaradei_
+_Context: nuclear weapon, Iran, Mohamed ElBaradei, IAEA_
 
 ##### NHL Commissioner
 ### [ NHL Commissioner Gary Bettman announces the cancellation of the 2004-05 season because of the ongoing lockout. It is the first time a North American professional sports league has cancelled an entire season due to a labor dispute. ](/news/2005/02/16/nhl-commissioner-gary-bettman-announces-the-cancellation-of-the-2004a05-season-because-of-the-ongoing-lockout-it-is-the-first-time-a-nor.md)
-_Context: 2004-05 season, professional sports, NHL Commissioner, National Hockey League labor dispute, Gary Bettman_
+_Context: National Hockey League labor dispute, Gary Bettman, professional sports, 2004-05 season, NHL Commissioner_
 
 ##### Iran
 ### [ A large explosion is reported in southwestern Iran, in the province of Bushehr, close to the site of a newly built nuclear power plant. Iranian officials later announce that the explosion was caused by construction work on a dam at Kowsar, near the port city of Deylam. ](/news/2005/02/16/a-large-explosion-is-reported-in-southwestern-iran-in-the-province-of-bushehr-close-to-the-site-of-a-newly-built-nuclear-power-plant-ira.md)
@@ -25,7 +25,7 @@ News and opinion from The Times &amp; The Sunday Times
 
 ##### Food and Drug Administration
 ### [ In the United States, the Food and Drug Administration announces that it will create a board for advisement regarding drug complications and the ongoing study of the safety of already approved drugs. ](/news/2005/02/16/in-the-united-states-the-food-and-drug-administration-announces-that-it-will-create-a-board-for-advisement-regarding-drug-complications-an.md)
-_Context: drug complications, approved drug, Food and Drug Administration_
+_Context: approved drug, drug complications, Food and Drug Administration_
 
 ##### Diplomat
 ### [ According to African envoys negotiating with the new government of Togo, the negotiations are making progress and the country agrees to organize new elections within 60 days. A crackdown on private media continues in the country. ](/news/2005/02/16/according-to-african-envoys-negotiating-with-the-new-government-of-togo-the-negotiations-are-making-progress-and-the-country-agrees-to-org.md)
@@ -33,19 +33,19 @@ _Context: new government, diplomat, negotiation, Togo_
 
 ##### Uganda
 ### [ In Uganda, some of the child soldiers that had escaped the Lord's Resistance Army are recruited into the national army. ](/news/2005/02/16/in-uganda-some-of-the-child-soldiers-that-had-escaped-the-lord-s-resistance-army-are-recruited-into-the-national-army.md)
-_Context: children under the age of 15 to fight, national army, Lord's Resistance Army, Uganda_
+_Context: children under the age of 15 to fight, Uganda, national army, Lord's Resistance Army_
 
 ##### Cambodia
 ### [ In Cambodia, former Khmer Rouge commander Chhouk Rin loses his final appeal against a murder conviction. In 1994, he ordered his soldiers to attack a train, and as a result, three backpackers from Australia, Britain, and France were killed. ](/news/2005/02/16/in-cambodia-former-khmer-rouge-commander-chhouk-rin-loses-his-final-appeal-against-a-murder-conviction-in-1994-he-ordered-his-soldiers-t.md)
-_Context: backpackers, Chhouk Rin, murder, appeal, Cambodia, conviction, Khmer Rouge_
+_Context: backpackers, Khmer Rouge, conviction, murder, appeal, Cambodia, Chhouk Rin_
 
 ##### Fox hunting
 ### [ In the United Kingdom, the pro-fox hunting lobby Countryside Alliance loses an appeal. The Court of Appeals does not accept their claim that the Parliament Act 1949, used to introduce the Hunting Act 2004, is invalid. ](/news/2005/02/16/in-the-united-kingdom-the-pro-fox-hunting-lobby-countryside-alliance-loses-an-appeal-the-court-of-appeals-does-not-accept-their-claim-tha.md)
-_Context: Hunting Act 2004, Britain's Court of Appeal, lobbying, Countryside Alliance, Parliament Act 1949, fox hunting_
+_Context: fox hunting, Countryside Alliance, Hunting Act 2004, Britain's Court of Appeal, Parliament Act 1949, lobbying_
 
 ##### Nigeria
 ### [ In Nigeria, an Islamic court sentences cross-dressing Abubakar Hamza to six months in prison and a fine equivalent to $38 for "immoral behaviour". He had lived for seven years as a woman to sell aphrodisiacs. ](/news/2005/02/16/in-nigeria-an-islamic-court-sentences-cross-dressing-abubakar-hamza-to-six-months-in-prison-and-a-fine-equivalent-to-38-for-immoral-beha.md)
-_Context: Abubakar Hamza, moral, Nigeria, cross-dressing, aphrodisiac, $, sharia law_
+_Context: Abubakar Hamza, sharia law, cross-dressing, aphrodisiac, Nigeria, $, moral_
 
 ##### Iran
 ### [ Iran and Syria announce the formation of a "united front" in order to face "challenges and threats", resolved after a meeting between Iranian First Vice President Mohammad Reza Aref and Syrian Prime Minister Mohammed Naji al-Otari. ](/news/2005/02/16/iran-and-syria-announce-the-formation-of-a-united-front-in-order-to-face-challenges-and-threats-resolved-after-a-meeting-between-irani.md)
@@ -57,7 +57,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Rwanda
 ### [ Six Rwandans file a lawsuit in France that accuses French soldiers of complicity in the Rwandan Genocide of 1994. ](/news/2005/02/16/six-rwandans-file-a-lawsuit-in-france-that-accuses-french-soldiers-of-complicity-in-the-rwandan-genocide-of-1994.md)
-_Context: France, Rwanda, Rwandan Genocide_
+_Context: Rwanda, France, Rwandan Genocide_
 
 ##### Tunisia
 ### [ In Tunisia, authorities continue to clean up an oil spill near the town of Korbous that was caused by a Moroccan container ship running aground late the day before. ](/news/2005/02/16/in-tunisia-authorities-continue-to-clean-up-an-oil-spill-near-the-town-of-korbous-that-was-caused-by-a-moroccan-container-ship-running-agr.md)

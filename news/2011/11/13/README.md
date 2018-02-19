@@ -13,7 +13,7 @@ Yemen President Ali Abdullah Saleh is refusing to hand over power and resisting 
 
 ##### Occupy London
 ### [Members of Occupy London report harassment during Remembrance Sunday services at St Paul's Cathedral. ](/news/2011/11/13/members-of-occupy-london-report-harassment-during-remembrance-sunday-services-at-st-paul-s-cathedral.md)
-_Context: St Paul's Cathedral, Remembrance Sunday, Occupy London_
+_Context: Remembrance Sunday, Occupy London, St Paul's Cathedral_
 
 ##### Mark Kennedy
 ### [Undercover British police officer Mark Kennedy admits that, in the guise of an environmental activist, he was used by the police forces of 22 countries, was responsible for the closing down of the Youth House community centre in Copenhagen, and committed two crimes on behalf of German police between 2004 and 2009, one of which was arson. ](/news/2011/11/13/undercover-british-police-officer-mark-kennedy-admits-that-in-the-guise-of-an-environmental-activist-he-was-used-by-the-police-forces-of-2.md)
@@ -25,7 +25,7 @@ The U.S. government has apologized to India and to former Indian President A.P.J
 
 ##### Belden Namah
 ### [Belden Namah, the Deputy Prime Minister of Papua New Guinea, and Allan Marat, the Attorney General, agree to hand themselves into Police following a ruling by the Supreme Court. ](/news/2011/11/13/belden-namah-the-deputy-prime-minister-of-papua-new-guinea-and-allan-marat-the-attorney-general-agree-to-hand-themselves-into-police-fol.md)
-_Context: Belden Namah, Papua New Guinea, Supreme Court of Papua New Guinea, Allan Marat_
+_Context: Belden Namah, Allan Marat, Papua New Guinea, Supreme Court of Papua New Guinea_
 
 ##### Police
 ### [Law enforcement in Brazil occupy Rocinha, Rio de Janeiro's biggest "favela" or slum, in a bid to clean the city ahead of the 2014 FIFA World Cup and 2016 Summer Olympics. ](/news/2011/11/13/law-enforcement-in-brazil-occupy-rocinha-rio-de-janeiro-s-biggest-favela-or-slum-in-a-bid-to-clean-the-city-ahead-of-the-2014-fifa-world.md)
@@ -33,7 +33,7 @@ More than 3,000 police and soldiers backed by armored personnel carriers raced i
 
 ##### South Africa
 ### [Former South African rugby union player Solly Tyibilika is shot dead in a bar in Cape Town. ](/news/2011/11/13/former-south-african-rugby-union-player-solly-tyibilika-is-shot-dead-in-a-bar-in-cape-town.md)
-_Context: South Africa, rugby union, Cape Town, Solly Tyibilika_
+_Context: Solly Tyibilika, rugby union, Cape Town, South Africa_
 
 ##### Police
 ### [The police in the US city of Portland, Oregon close down the Occupy Portland site resulting in 50 arrests. ](/news/2011/11/13/the-police-in-the-us-city-of-portland-oregon-close-down-the-occupy-portland-site-resulting-in-50-arrests.md)
@@ -45,7 +45,7 @@ PM supports legislation which passes with majority of 11 to 5; new law bans fore
 
 ##### South Ossetia
 ### [Voters in South Ossetia, a breakaway region of Georgia, go to the polls for a presidential election and a referendum. ](/news/2011/11/13/voters-in-south-ossetia-a-breakaway-region-of-georgia-go-to-the-polls-for-a-presidential-election-and-a-referendum.md)
-_Context: South Ossetia, referendum, presidential election,  Georgian_
+_Context:  Georgian, referendum, South Ossetia, presidential election_
 
 ##### President of Italy
 ### [The President of Italy Giorgio Napolitano nominates Mario Monti to be the new Prime Minister. ](/news/2011/11/13/the-president-of-italy-giorgio-napolitano-nominates-mario-monti-to-be-the-new-prime-minister.md)

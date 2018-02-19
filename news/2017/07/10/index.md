@@ -21,7 +21,7 @@ A military plane crashed in a soybean field in Leflore County, Miss., killing at
 
 ##### Health effects of coffee
 ### [Coffee may prolong the human lifespan, suggests one study by Imperial College London and the International Agency for Research on Cancer, and another by the Keck School of Medicine of USC. ](/news/2017/07/10/coffee-may-prolong-the-human-lifespan-suggests-one-study-by-imperial-college-london-and-the-international-agency-for-research-on-cancer-an.md)
-_Context: Imperial College London, International Agency for Research on Cancer, life, Health effects of coffee, Keck School of Medicine of USC, Coffee, human_
+_Context: Imperial College London, Keck School of Medicine of USC, Coffee, human, life, Health effects of coffee, International Agency for Research on Cancer_
 
 ##### 2017 Doklam crisis
 ### [Amid a stand-off between India and China over the disputed territory of Doklam which is claimed by Bhutan, the Indian National Congress denies the meeting of Rahul Gandhi with the Chinese ambassador to India. ](/news/2017/07/10/amid-a-stand-off-between-india-and-china-over-the-disputed-territory-of-doklam-which-is-claimed-by-bhutan-the-indian-national-congress-deni.md)
@@ -33,7 +33,7 @@ An investigation is continuing into the circumstances surrounding the death of a
 
 ##### Mongolian presidential election, 2017
 ### [Battulga Khaltmaa is sworn in as the new President of Mongolia following his victory in the second round presidential election on 7 July. ](/news/2017/07/10/battulga-khaltmaa-is-sworn-in-as-the-new-president-of-mongolia-following-his-victory-in-the-second-round-presidential-election-on-7-july.md)
-_Context: Battulga Khaltmaa, President of Mongolia, Mongolian presidential election, 2017_
+_Context: Mongolian presidential election, 2017, Battulga Khaltmaa, President of Mongolia_
 
 ##### Human rights in China
 ### [The Nobel Peace Prize winner Liu Xiaobo is in "critical condition," according to Chinese doctors. ](/news/2017/07/10/the-nobel-peace-prize-winner-liu-xiaobo-is-in-critical-condition-according-to-chinese-doctors.md)
@@ -45,7 +45,7 @@ Israel’s Avi Gabbay, who steered the country’s biggest telecommunications co
 
 ##### Mammal
 ### [Between 1900 and 2015, around 177 species of mammals have lost 80% of their distribution leading to a presumption that the Holocene extinction is accelerating. ](/news/2017/07/10/between-1900-and-2015-around-177-species-of-mammals-have-lost-80-of-their-distribution-leading-to-a-presumption-that-the-holocene-extincti.md)
-_Context: mammal, Holocene extinction_
+_Context: Holocene extinction, mammal_
 
 ## [Previous Day...](/news/2017/07/9/index.md)
 

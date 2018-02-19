@@ -5,39 +5,39 @@ Formats: [HTML](2005/04/11/index.html)  [JSON](2005/04/11/index.json)  [XML](200
 
 ##### Holocaust and Remembrance Center
 ### [ Yad Vashem bestow the honour of "Righteous Among the Nations" posthumously upon a Nazi Major, Karl Plagge. Plagge saved around 1,200 Jews, mostly women and children, from execution during the Holocaust by putting them in forced labor positions at a vehicle workshop. ](/news/2005/04/11/yad-vashem-bestow-the-honour-of-righteous-among-the-nations-posthumously-upon-a-nazi-major-karl-plagge-plagge-saved-around-1-200-jews.md)
-_Context: Righteous Among the Nations, Holocaust and Remembrance Center, Karl Plagge, Major, Nazism, Holocaust_
+_Context: Holocaust and Remembrance Center, Major, Righteous Among the Nations, Holocaust, Karl Plagge, Nazism_
 
 ##### Hindu
 ### [ At least 54 Hindu pilgrims have been killed when a dam in the Madhya Pradesh state in India is apparently opened by mistake. ](/news/2005/04/11/at-least-54-hindu-pilgrims-have-been-killed-when-a-dam-in-the-madhya-pradesh-state-in-india-is-apparently-opened-by-mistake.md)
-_Context: dam, pilgrim, India, Hindu, Madhya Pradesh_
+_Context: Madhya Pradesh, Hindu, pilgrim, India, dam_
 
 ##### Hezbollah
 ### [ Hezbollah, the Lebanese political and militant organisation, flies another unmanned drone plane over Israel. Hezbollah claims the ""reconnaissance mission"" was in retaliation for alleged Israeli violations of Lebanese Airspace. Israel quickly retaliates by sending jets to fly at a low altitude over southern Lebanon and caused sonic booms. ](/news/2005/04/11/hezbollah-the-lebanese-political-and-militant-organisation-flies-another-unmanned-drone-plane-over-israel-hezbollah-claims-the-reconna.md)
-_Context: unmanned drone plane, Hezbollah, Lebanese, sonic boom, reconnaissance, Israel_
+_Context: Hezbollah, Israel, sonic boom, reconnaissance, unmanned drone plane, Lebanese_
 
 ##### Election of a new secretary general
 ### [ The election of a new secretary general of the Organization of American States ends in an unprecedented stalemate after five rounds of voting. ](/news/2005/04/11/the-election-of-a-new-secretary-general-of-the-organization-of-american-states-ends-in-an-unprecedented-stalemate-after-five-rounds-of-voti.md)
-_Context: Organization of American States, election of a new secretary general, stalemate_
+_Context: election of a new secretary general, Organization of American States, stalemate_
 
 ##### United States
 ### [ U.S. President George W. Bush praises the Israeli Prime Minister Ariel Sharon for his ""courageous initiative"" to pull all Israeli settlements out of the Gaza Strip, however Bush also told Sharon not to expand other existing settlements. The two leaders met in Texas, USA. ](/news/2005/04/11/u-s-president-george-w-bush-praises-the-israeli-prime-minister-ariel-sharon-for-his-courageous-initiative-to-pull-all-israeli-settlem.md)
-_Context: Israel, United States, U.S. President, Israeli settlement, Texas, USA, Ariel Sharon, Israeli Prime Minister, Gaza Strip, George W. Bush_
+_Context: Israeli Prime Minister, USA, Israeli settlement, Gaza Strip, Ariel Sharon, United States, Texas, U.S. President, George W. Bush, Israel_
 
 ##### Tulip Revolution
 ### [ Tulip Revolution: The Parliament of Kyrgyzstan finally approves the resignation of deposed President Askar Akayev. ](/news/2005/04/11/tulip-revolution-the-parliament-of-kyrgyzstan-finally-approves-the-resignation-of-deposed-president-askar-akayev.md)
-_Context: president, Askar Akayev, Kyrgyzstan, resignation, Tulip Revolution_
+_Context: resignation, Kyrgyzstan, Tulip Revolution, Askar Akayev, president_
 
 ##### Jeremy Jaynes
 ### [ Jeremy Jaynes, estimated to be the world's eighth most prolific spammer, is sentenced to nine years imprisonment. ](/news/2005/04/11/jeremy-jaynes-estimated-to-be-the-world-s-eighth-most-prolific-spammer-is-sentenced-to-nine-years-imprisonment.md)
-_Context: Jeremy Jaynes, spam, prison_
+_Context: prison, Jeremy Jaynes, spam_
 
 ##### International Court of Justice
 ### [ The International Court of Justice at The Hague begins hearing a complaint by the Democratic Republic of Congo that Uganda of invaded its territory and committed human rights violations. ](/news/2005/04/11/the-international-court-of-justice-at-the-hague-begins-hearing-a-complaint-by-the-democratic-republic-of-congo-that-uganda-of-invaded-its-t.md)
-_Context: Democratic Republic of Congo, invasion, The Hague, human rights, International Court of Justice, Uganda_
+_Context: The Hague, invasion, human rights, Uganda, International Court of Justice, Democratic Republic of Congo_
 
 ##### Australia
 ### [ Australian Liberal MP David Tollner urges people to kill poisonous cane toads with cricket bats and golf clubs. The toads have become a nuisance in the Northern Territory. Animal rights groups prefer freezing them to death. ](/news/2005/04/11/australian-liberal-mp-david-tollner-urges-people-to-kill-poisonous-cane-toads-with-cricket-bats-and-golf-clubs-the-toads-have-become-a-nui.md)
-_Context: golfer, Liberals, cricketer, cane toad, Australia, MP, David Tollner, Northern Territory, animal rights_
+_Context: David Tollner, cane toad, golfer, Liberals, animal rights, cricketer, Northern Territory, MP, Australia_
 
 ##### Dhaka
 ### [ A 9-story factory building collapses in Dhaka, Bangladesh; five deaths are reported. ](/news/2005/04/11/a-9-story-factory-building-collapses-in-dhaka-bangladesh-five-deaths-are-reported.md)
@@ -45,7 +45,7 @@ _Context: Bangladesh, Dhaka_
 
 ##### World Health Organization
 ### [ The World Health Organization announces that 203 people have died in Angola from the Marburg virus. ](/news/2005/04/11/the-world-health-organization-announces-that-203-people-have-died-in-angola-from-the-marburg-virus.md)
-_Context: World Health Organization, Marburg virus, Angola_
+_Context: World Health Organization, Angola, Marburg virus_
 
 ##### Oslo
 ### [ A court in Oslo, Norway, detains a man suspected of involved with the theft of the Edvard Munch paintings "The Scream" and "Madonna". ](/news/2005/04/11/a-court-in-oslo-norway-detains-a-man-suspected-of-involved-with-the-theft-of-the-edvard-munch-paintings-the-scream-and-madonna.md)

@@ -9,11 +9,11 @@ _Context: United Nations, War in Donbass_
 
 ##### 2016 Aceh earthquake
 ### [International aid organisations arrive in the Indonesian province of Aceh as the death toll for the earthquake passes 100. ](/news/2016/12/8/international-aid-organisations-arrive-in-the-indonesian-province-of-aceh-as-the-death-toll-for-the-earthquake-passes-100.md)
-_Context: 2016 Aceh earthquake, Indonesia, Aceh_
+_Context: Aceh, 2016 Aceh earthquake, Indonesia_
 
 ##### Drug crackdown
 ### [A panel formed by the Senate of the Philippines concludes that operations under Oplan Tokhang by the Philippine National Police is unconstitutional. ](/news/2016/12/8/a-panel-formed-by-the-senate-of-the-philippines-concludes-that-operations-under-oplan-tokhang-by-the-philippine-national-police-is-unconstit.md)
-_Context: constitutional constraints, drug crackdown, Oplan Tokhang, Philippines, Philippine National Police, senators_
+_Context: constitutional constraints, senators, Oplan Tokhang, Philippine National Police, drug crackdown, Philippines_
 
 ##### New Zealand National Party leadership election, 2016
 ### [Australian Associated Press reports that Bill English has secured the support of a majority of members of the New Zealand National Party to succeed John Key as the Prime Minister of New Zealand. ](/news/2016/12/8/australian-associated-press-reports-that-bill-english-has-secured-the-support-of-a-majority-of-members-of-the-new-zealand-national-party-to.md)

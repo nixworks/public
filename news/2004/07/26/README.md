@@ -13,7 +13,7 @@ _Context: suicide bomber, Baghdad, Basra, Mosul_
 
 ##### International Maritime Bureau
 ### [ The International Maritime Bureau says that deaths due to piracy doubled in the first month of 2004 compared with the same period in 2003, to 30 people. Half of the killings were in Nigerian waters. Despite the increased violence, the total number of piracy attacks fell. In the economically critical Straits of Malacca however, attacks rose by a third. ](/news/2004/07/26/the-international-maritime-bureau-says-that-deaths-due-to-piracy-doubled-in-the-first-month-of-2004-compared-with-the-same-period-in-2003.md)
-_Context: International Maritime Bureau, piracy, Nigeria, Straits of Malacca_
+_Context: piracy, Nigeria, Straits of Malacca, International Maritime Bureau_
 
 ## [Previous Day...](/news/2004/07/25/index.md)
 

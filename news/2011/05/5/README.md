@@ -25,7 +25,7 @@ Two men suspected of being al-Qaeda militants were killed in Yemen by a missile 
 
 ##### Claude Choules
 ### [Claude Choules, the last known combat veteran from World War I, dies in Perth, Western Australia. ](/news/2011/05/5/claude-choules-the-last-known-combat-veteran-from-world-war-i-dies-in-perth-western-australia.md)
-_Context: Perth, First World War, Western Australia, Claude Choules_
+_Context: Claude Choules, First World War, Perth, Western Australia_
 
 ##### Playwright
 ### [American playwright and theatre director Arthur Laurents dies at the age of 93. ](/news/2011/05/5/american-playwright-and-theatre-director-arthur-laurents-dies-at-the-age-of-93.md)
@@ -53,7 +53,7 @@ _Context: Sudanese cabinet, Darfur_
 
 ##### South Korea
 ### [The South Korean National Assembly ratifies a free trade agreement with the European Union. ](/news/2011/05/5/the-south-korean-national-assembly-ratifies-a-free-trade-agreement-with-the-european-union.md)
-_Context: free trade agreement, National Assembly of South Korea, European Union, South Korea_
+_Context: free trade agreement, South Korea, National Assembly of South Korea, European Union_
 
 ##### United Kingdom
 ### [The United Kingdom expels two more Libyan diplomats, a week after expelling the ambassador, in order to increase diplomatic pressure on the regime of Muammar Gaddafi. ](/news/2011/05/5/the-united-kingdom-expels-two-more-libyan-diplomats-a-week-after-expelling-the-ambassador-in-order-to-increase-diplomatic-pressure-on-the.md)
@@ -61,7 +61,7 @@ Foreign Secretary William Hague ordered the expulsion of two more Libyan diploma
 
 ##### Prime Minister of Israel
 ### [During a visit to the United Kingdom, Israeli Prime Minister Binyamin Netanyahu says that Iranian Supreme leader Ayatollah Khamenei is the biggest threat to world peace now that Osama bin Laden has been killed. ](/news/2011/05/5/during-a-visit-to-the-united-kingdom-israeli-prime-minister-binyamin-netanyahu-says-that-iranian-supreme-leader-ayatollah-khamenei-is-the-b.md)
-_Context: Supreme Leader, Binyamin Netanyahu, Osama bin Laden, Ayatollah Khamenei, father's killing, Prime Minister of Israel_
+_Context: Binyamin Netanyahu, father's killing, Ayatollah Khamenei, Supreme Leader, Prime Minister of Israel, Osama bin Laden_
 
 ##### Egypt
 ### [Former Egyptian interior minister Habib al-Adli is sentenced to 12 years imprisonment on corruption charges. ](/news/2011/05/5/former-egyptian-interior-minister-habib-al-adli-is-sentenced-to-12-years-imprisonment-on-corruption-charges.md)
@@ -77,15 +77,15 @@ A man accused of killing Jo Yeates, whose body was found near Bristol on Christm
 
 ##### Calisto Tanzi
 ### [Calisto Tanzi, the founder of Italian group Parmalat, is arrested on tax charges. ](/news/2011/05/5/calisto-tanzi-the-founder-of-italian-group-parmalat-is-arrested-on-tax-charges.md)
-_Context: Parmalat, Italy, Calisto Tanzi_
+_Context: Calisto Tanzi, Parmalat, Italy_
 
 ##### $
 ### [Italian police seize assets worth around $1.38 billion from the Polverino mafia clan in the Naples region, and arrest 39 alleged clan members, including two who were local elections candidates from Prime Minister Silvio Berlusconi's People of Freedom party. ](/news/2011/05/5/italian-police-seize-assets-worth-around-1-38-billion-from-the-polverino-mafia-clan-in-the-naples-region-and-arrest-39-alleged-clan-member.md)
-_Context: Camorra, Silvio Berlusconi, People of Freedom party, Italian Prime Minister, Naples, $_
+_Context: People of Freedom party, $, Italian Prime Minister, Camorra, Naples, Silvio Berlusconi_
 
 ##### Taiwan
 ### [A shipping vessel registered in Taiwan with a history of oil spills is fined CAD $80,000 for the illegal dumping of pollutants in Canadian waters south of Newfoundland. ](/news/2011/05/5/a-shipping-vessel-registered-in-taiwan-with-a-history-of-oil-spills-is-fined-cad-80-000-for-the-illegal-dumping-of-pollutants-in-canadian-w.md)
-_Context: illegal dumping, Taiwan, Newfoundland, oil spill, CAN$_
+_Context: CAN$, illegal dumping, Taiwan, Newfoundland, oil spill_
 
 ##### United Kingdom
 ### [Voters in the United Kingdom go to the polls for a referendum on whether to use the alternative vote electoral system for the House of Commons. ](/news/2011/05/5/voters-in-the-united-kingdom-go-to-the-polls-for-a-referendum-on-whether-to-use-the-alternative-vote-electoral-system-for-the-house-of-commo.md)
@@ -93,27 +93,27 @@ The people of Wales are going to the polls to elect the next Welsh Assembly Gove
 
 ##### U.S. President
 ### [President of the United States Barack Obama visits the World Trade Center site in New York City to commemorate the victims of the September 11 attacks following the death of Osama bin Laden. ](/news/2011/05/5/president-of-the-united-states-barack-obama-visits-the-world-trade-center-site-in-new-york-city-to-commemorate-the-victims-of-the-september.md)
-_Context: Ground Zero, U.S. President, New York City, September 11 attacks, Barack Obama, death of Osama bin Laden_
+_Context: New York City, September 11 attacks, Barack Obama, death of Osama bin Laden, Ground Zero, U.S. President_
 
 ##### United States court
 ### [A United States Court of Appeals for the Third Circuit rules that former Olympic champion Carl Lewis be placed on the ballot for a Democrat primary election for a New Jersey State Senate seat. ](/news/2011/05/5/a-united-states-court-of-appeals-for-the-third-circuit-rules-that-former-olympic-champion-carl-lewis-be-placed-on-the-ballot-for-a-democrat.md)
-_Context: Democrat, Carl Lewis, New Jersey State Senate, United States court, primary election_
+_Context: United States court, Democrat, primary election, New Jersey State Senate, Carl Lewis_
 
 ##### Ivory Coast Constitutional Council
 ### [The Ivory Coast Constitutional Council confirms that Alassane Ouattara won the 2010 presidential election reversing a decision that had found in favour of the previous incumbent Laurent Gbagbo. That original decision (now reversed) had sparked a brief war. ](/news/2011/05/5/the-ivory-coast-constitutional-council-confirms-that-alassane-ouattara-won-the-2010-presidential-election-reversing-a-decision-that-had-foun.md)
-_Context: Laurent Gbagbo, Alassane Ouattara, Ivory Coast Constitutional Council, war, 2010 presidential election_
+_Context: war, Laurent Gbagbo, 2010 presidential election, Ivory Coast Constitutional Council, Alassane Ouattara_
 
 ##### Brazil
 ### [The Brazilian Supreme Federal Court unanimously rules in favour of extending to same-sex couples the same rights of existing civil unions. ](/news/2011/05/5/the-brazilian-supreme-federal-court-unanimously-rules-in-favour-of-extending-to-same-sex-couples-the-same-rights-of-existing-civil-unions.md)
-_Context: Brazil, same-sex couples, civil union, Supreme Court_
+_Context: Brazil, civil union, same-sex couples, Supreme Court_
 
 ##### Republican
 ### [Republican Party candidates for the nomination in the 2012 United States presidential election hold their first debate in Greenville, South Carolina. ](/news/2011/05/5/republican-party-candidates-for-the-nomination-in-the-2012-united-states-presidential-election-hold-their-first-debate-in-greenville-south.md)
-_Context: Republican, nomination, Greenville, South Carolina, United States presidential election, 2012_
+_Context: Greenville, nomination, Republican, United States presidential election, 2012, South Carolina_
 
 ##### Mercury
 ### [A report warns of accumulating mercury in the Arctic regions and that global emissions of mercury could increase by 25% by 2020, after another report suggested a global sea level rise by 1.6 metres by 2100, while a previous study detected chemical changes from elemental mercury to neurotoxic monomethylmercury occurring in the Arctic Ocean. ](/news/2011/05/5/a-report-warns-of-accumulating-mercury-in-the-arctic-regions-and-that-global-emissions-of-mercury-could-increase-by-25-by-2020-after-anoth.md)
-_Context: monomethylmercury, Arctic, neurotoxic, Arctic Ocean, sea level rise, mercury_
+_Context: Arctic Ocean, mercury, Arctic, neurotoxic, monomethylmercury, sea level rise_
 
 ## [Previous Day...](/news/2011/05/4/index.md)
 

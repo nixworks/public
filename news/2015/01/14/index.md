@@ -25,7 +25,7 @@ A major highway in Mozambique splits as floods kill 73 people and displace tens 
 
 ##### Prime Minister of Japan
 ### [The cabinet of Prime Minister of Japan Shinzo Abe approves a record defence budget with a plan to buy surveillance aircraft and Lockheed Martin F-35 Lightning II fighter jets to improve security of uninhabited islands in the East China Sea claimed by both Japan and China. ](/news/2015/01/14/the-cabinet-of-prime-minister-of-japan-shinzo-abe-approves-a-record-defence-budget-with-a-plan-to-buy-surveillance-aircraft-and-lockheed-mar.md)
-_Context: East China Sea, Lockheed Martin F-35 Lightning II, Japan, Chinese, Prime Minister of Japan, Shinzo Abe_
+_Context: Prime Minister of Japan, Chinese, East China Sea, Shinzo Abe, Lockheed Martin F-35 Lightning II, Japan_
 
 ##### Taiwan
 ### [Taiwan protests China's new air routes near the median line of the Taiwan Strait and vows to step up surveillance of aviation activity. ](/news/2015/01/14/taiwan-protests-chinaas-new-air-routes-near-the-median-line-of-the-taiwan-strait-and-vows-to-step-up-surveillance-of-aviation-activity.md)
@@ -33,19 +33,19 @@ China announced new commercial flight routes along its southeastern coast today,
 
 ##### Joseph Vaz
 ### [On the second day of his papal visit to Sri Lanka, Pope Francis canonizes Saint Joseph Vaz at a beachfront park at the Indian Ocean, and later visits the northern portion of the island for a prayer service at the Sri Lankan Shrine of Our Lady of Madhu, which was a prominent area landmark damaged in the Sri Lankan Civil War. ](/news/2015/01/14/on-the-second-day-of-his-papal-visit-to-sri-lanka-pope-francis-canonizes-saint-joseph-vaz-at-a-beachfront-park-at-the-indian-ocean-and-lat.md)
-_Context: Shrine of Our Lady of Madhu, Joseph Vaz_
+_Context: Joseph Vaz, Shrine of Our Lady of Madhu_
 
 ##### Georgia
 ### [The U.S. state of Georgia executes Vietnam War veteran Andrew Brannan for the 1998 murder of Laurens County sheriff's deputy Kyle Dinkheller. ](/news/2015/01/14/the-u-s-state-of-georgia-executes-vietnam-war-veteran-andrew-brannan-for-the-1998-murder-of-laurens-county-sheriff-s-deputy-kyle-dinkheller.md)
-_Context: Laurens County, executes, Kyle Dinkheller, Georgia_
+_Context: Georgia, Kyle Dinkheller, executes, Laurens County_
 
 ##### Indianapolis Colts
 ### [Police charge Indianapolis Colts linebacker Josh McNary with a December 1, 2014 rape. ](/news/2015/01/14/police-charge-indianapolis-colts-linebacker-josh-mcnary-with-a-december-1-2014-rape.md)
-_Context: Josh McNary, Indianapolis Colts_
+_Context: Indianapolis Colts, Josh McNary_
 
 ##### President of Italy
 ### [President of Italy Giorgio Napolitano will announce his resignation today. ](/news/2015/01/14/president-of-italy-giorgio-napolitano-will-announce-his-resignation-today.md)
-_Context: President of Italy, Giorgio Napolitano_
+_Context: Giorgio Napolitano, President of Italy_
 
 ##### San Francisco Municipal Transportation Agency
 ### [The San Francisco Municipal Transportation Agency rules that anti-Muslim advertisements placed on Muni buses must be permitted because of freedom of speech. ](/news/2015/01/14/the-san-francisco-municipal-transportation-agency-rules-that-anti-muslim-advertisements-placed-on-muni-buses-must-be-permitted-because-of-fr.md)
@@ -53,7 +53,7 @@ Get the latest news video clips from NBC Bay Area. Check out breaking video news
 
 ##### U.S. Secret Service
 ### [The U.S. Secret Service removes four of its highest-ranking leaders while a fifth one retires. The continuing restructuring and fallout stem from a string of public security lapses beginning with the misconduct at the 6th Summit of the Americas. The most recent stage of the restructuring began in October 2014 with the resignation of then-Director Julia Pierson. ](/news/2015/01/14/the-u-s-secret-service-removes-four-of-its-highest-ranking-leaders-while-a-fifth-one-retires-the-continuing-restructuring-and-fallout-stem.md)
-_Context: misconduct, Julia Pierson, 6th Summit of the Americas, U.S. Secret Service_
+_Context: misconduct, Julia Pierson, U.S. Secret Service, 6th Summit of the Americas_
 
 ## [Previous Day...](/news/2015/01/13/index.md)
 

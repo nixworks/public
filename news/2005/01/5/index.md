@@ -9,15 +9,15 @@ _Context: Hong Kong, the 2005 Index of Economic Freedom, The Heritage Foundation
 
 ##### Venezuela
 ### [ Venezuela promises to investigate claims that Rodrigo Granda, a prominent member of the Colombian rebel group FARC, was captured from Caracas instead of from inside Colombia. Granda was arrested December 13, 2004. ](/news/2005/01/5/venezuela-promises-to-investigate-claims-that-rodrigo-granda-a-prominent-member-of-the-colombian-rebel-group-farc-was-captured-from-carac.md)
-_Context: Colombia, Venezuela, Caracas, Rodrigo Granda, Revolutionary Armed Forces of Colombia_
+_Context: Colombia, Caracas, Revolutionary Armed Forces of Colombia, Venezuela, Rodrigo Granda_
 
 ##### Serbia
 ### [ Serbian Justice Minister Zoran Stojkovic rejects the U.N. ICTY war crimes tribunal's demands that Serbia arrest four generals accused of committing atrocities in Kosovo. ](/news/2005/01/5/serbian-justice-minister-zoran-stojkovia-rejects-the-u-n-icty-war-crimes-tribunal-s-demands-that-serbia-arrest-four-generals-accused-of-c.md)
-_Context: Kosovo, Zoran Stojkovic, United Nations, Serbia, International Criminal Tribunal for the former Yugoslavia_
+_Context: International Criminal Tribunal for the former Yugoslavia, Serbia, Zoran Stojkovic, United Nations, Kosovo_
 
 ##### U.S. Securities and Exchange Commission
 ### [ The U.S. Securities and Exchange Commission accuses Mexican broadcaster TV Azteca of involvement in a massive debt fraud; TV Azteca stock on the New York and Mexico City exchanges drops 9% on the news. ](/news/2005/01/5/the-u-s-securities-and-exchange-commission-accuses-mexican-broadcaster-tv-azteca-of-involvement-in-a-massive-debt-fraud-tv-azteca-stock-o.md)
-_Context: TV Azteca, U.S. Securities and Exchange Commission, Mexico City exchanges, New York Stock Exchange_
+_Context: U.S. Securities and Exchange Commission, New York Stock Exchange, TV Azteca, Mexico City exchanges_
 
 ## [Previous Day...](/news/2005/01/4/index.md)
 

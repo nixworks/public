@@ -17,11 +17,11 @@ _Context: U.S. dollar, euro_
 
 ##### Ukraine
 ### [ Ukrainian Transport Minister Heorhiy Kyrpa, a staunch supporter of Viktor Yanukovych, is found shot dead at his home just outside of Kiev. It is unclear whether he was murdered or committed suicide. ](/news/2004/12/27/ukrainian-transport-minister-heorhiy-kyrpa-a-staunch-supporter-of-viktor-yanukovych-is-found-shot-dead-at-his-home-just-outside-of-kiev.md)
-_Context: Ukraine, Heorhiy Kyrpa, Viktor Yanukovych, Kiev_
+_Context: Ukraine, Viktor Yanukovych, Kiev, Heorhiy Kyrpa_
 
 ##### Israeli-Palestinian Conflict
 ### [ Israeli-Palestinian Conflict: Israeli police arrest Palestinian presidential candidate Mustafa Barghouti. A Jerusalem police spokesman says Mr Barghouti was "detained for questioning because he has the right to transit through Jerusalem but not be in Jerusalem itself".](/news/2004/12/27/israeli-palestinian-conflict-israeli-police-arrest-palestinian-presidential-candidate-mustafa-barghouti-a-jerusalem-police-spokesman-says.md)
-_Context: Mustafa Barghouti, Israeli-Palestinian Conflict, Israel, Jerusalem, Palestinian_
+_Context: Israel, Israeli-Palestinian Conflict, Mustafa Barghouti, Palestinian, Jerusalem_
 
 ##### Tsunami
 ### [ The death toll from tsunamis resulting from the Indian Ocean earthquake is known to be at least 20,000 and possibly as high as 45,000. ](/news/2004/12/27/the-death-toll-from-tsunamis-resulting-from-the-indian-ocean-earthquake-is-known-to-be-at-least-20-000-and-possibly-as-high-as-45-000.md)
@@ -33,7 +33,7 @@ _Context: Viktor Yushchenko, Ukraine_
 
 ##### Iraq
 ### [ Iraq's main Sunni political movement, the Iraqi Islamic Party, withdraws from next month's general elections, citing the refusal to delay elections until all parts of Iraq could participate. ](/news/2004/12/27/iraq-s-main-sunni-political-movement-the-iraqi-islamic-party-withdraws-from-next-month-s-general-elections-citing-the-refusal-to-delay-e.md)
-_Context: Iraq, Sunni, Iraqi Islamic Party_
+_Context: Sunni, Iraq, Iraqi Islamic Party_
 
 ## [Previous Day...](/news/2004/12/26/index.md)
 

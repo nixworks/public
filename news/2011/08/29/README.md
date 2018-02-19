@@ -13,7 +13,7 @@ U.S. stock, bond and commodity markets will open as usual tomorrow after Manhatt
 
 ##### Typhoon Nanmadol
 ### [Typhoon Nanmadol hits Taiwan after killing 11 people in the Philippines. ](/news/2011/08/29/typhoon-nanmadol-hits-taiwan-after-killing-11-people-in-the-philippines.md)
-_Context: Typhoon Nanmadol, Taiwan, Philippines_
+_Context: Typhoon Nanmadol, Philippines, Taiwan_
 
 ##### Flood
 ### [Floods hit northern India with transport services disrupted in Mumbai and 15 villages isolated in Maharashtra state. ](/news/2011/08/29/floods-hit-northern-india-with-transport-services-disrupted-in-mumbai-and-15-villages-isolated-in-maharashtra-state.md)

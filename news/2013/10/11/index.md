@@ -33,7 +33,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### North Korea
 ### [Myunghee Bae arrives in North Korea to visit her American son Kenneth Bae, who is serving 15 years of hard labor. ](/news/2013/10/11/myunghee-bae-arrives-in-north-korea-to-visit-her-american-son-kenneth-bae-who-is-serving-15-years-of-hard-labor.md)
-_Context: Kenneth Bae, North Korea_
+_Context: North Korea, Kenneth Bae_
 
 ##### 10 Downing Street
 ### [The UK government publishes a draft royal charter aimed at underpinning self-regulation of the British press following an agreement on the issue by the country's three main political parties. However, the proposals are greeted with concerns about press freedom by the industry. ](/news/2013/10/11/the-uk-government-publishes-a-draft-royal-charter-aimed-at-underpinning-self-regulation-of-the-british-press-following-an-agreement-on-the-i.md)

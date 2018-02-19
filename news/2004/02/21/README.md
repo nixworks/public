@@ -5,7 +5,7 @@ Formats: [HTML](2004/02/21/index.html)  [JSON](2004/02/21/index.json)  [XML](200
 
 ##### Tony Blair
 ### [ Prime Minister Tony Blair is under pressure from British human rights groups and MPs because of the government's sweeping powers under the Anti-Terrorism Crime and Security Act, which have allowed the detention of 14 foreign terrorist suspects in the UK at what has been described as 'Britain's Guantanamo Bay'. ](/news/2004/02/21/prime-minister-tony-blair-is-under-pressure-from-british-human-rights-groups-and-mps-because-of-the-government-s-sweeping-powers-under-the.md)
-_Context: Guantnamo Bay, MP, terrorism, human rights, Tony Blair_
+_Context: Tony Blair, terrorism, Guantnamo Bay, MP, human rights_
 
 ##### European Parliament election
 ### [ 2004 European Parliament election: The first pan-European political party organization, the European Greens, is established in Rome. ](/news/2004/02/21/2004-european-parliament-election-the-first-pan-european-political-party-organization-the-european-greens-is-established-in-rome.md)

@@ -17,31 +17,31 @@ _Context: Baghdad_
 
 ##### Time
 ### [An article in "Time" states Egypt helped Israel assassinate Palestinian Muhammad Jamal al-Namnam, a senior member of the al-Qaeda-affiliated Army of Islam organization. He was killed last week, after his car exploded in Gaza City. ](/news/2010/11/10/an-article-in-time-states-egypt-helped-israel-assassinate-palestinian-muhammad-jamal-al-namnam-a-senior-member-of-the-al-qaeda-affiliated.md)
-_Context: al-Qaeda, Time, Muhammad Jamal al-Namnam, Egypt, Gaza, Army of Islam, Israel_
+_Context: Israel, Army of Islam, Muhammad Jamal al-Namnam, al-Qaeda, Gaza, Egypt, Time_
 
 ##### Film producer
 ### [Italian film producer Dino De Laurentiis ("Serpico", "Death Wish") dies in Los Angeles, California ending a movie career that spanned seven decades in both the United States and Italy. ](/news/2010/11/10/italian-film-producer-dino-de-laurentiis-serpico-death-wish-dies-in-los-angeles-california-ending-a-movie-career-that-spanned-seven.md)
-_Context: Serpico, Los Angeles, California, United States, Death Wish, California, film producer, Italy, Dino De Laurentiis_
+_Context: Serpico, Italy, Dino De Laurentiis, United States, California, film producer, Los Angeles, California, Death Wish_
 
 ##### 3D Express Coach
 ### [3D Express Coach to be put into trial in Beijing. ](/news/2010/11/10/3d-express-coach-to-be-put-into-trial-in-beijing.md)
-_Context: 3D Express Coach, Beijing_
+_Context: Beijing, 3D Express Coach_
 
 ##### United States
 ### [US singer Brad Paisley wins Entertainer of the Year at the 2010 CMA Awards held in Nashville, Tennessee. ](/news/2010/11/10/us-singer-brad-paisley-wins-entertainer-of-the-year-at-the-2010-cma-awards-held-in-nashville-tennessee.md)
-_Context: United States, Tennessee, Brad Paisley, Nashville, Tennessee_
+_Context: Nashville, Tennessee, Tennessee, Brad Paisley, United States_
 
 ##### Singapore Airlines
 ### [Singapore Airlines grounds three of its Airbus A380 fleet to replace their Rolls-Royce engines. ](/news/2010/11/10/singapore-airlines-grounds-three-of-its-airbus-a380-fleet-to-replace-their-rolls-royce-engines.md)
-_Context: A380, Singapore Airlines, Rolls-Royce_
+_Context: Singapore Airlines, Rolls-Royce, A380_
 
 ##### Ilobasco
 ### [At least 16 people are killed and dozens are injured in a fire at a juvenile jail in the town of Ilobasco in El Salvador. ](/news/2010/11/10/at-least-16-people-are-killed-and-dozens-are-injured-in-a-fire-at-a-juvenile-jail-in-the-town-of-ilobasco-in-el-salvador.md)
-_Context: El Salvador, Ilobasco_
+_Context: Ilobasco, El Salvador_
 
 ##### Qantas
 ### [Qantas and Cathay Pacific cancel flights out of Jakarta's Soekarno-Hatta International Airport due to the eruptions of Mount Merapi in Indonesia. ](/news/2010/11/10/qantas-and-cathay-pacific-cancel-flights-out-of-jakarta-s-soekarnoahatta-international-airport-due-to-the-eruptions-of-mount-merapi-in-ind.md)
-_Context: Cathay Pacific, Jakarta, Indonesia, eruptions, Qantas, Soekarno-Hatta International Airport_
+_Context: eruptions, Cathay Pacific, Indonesia, Qantas, Soekarno-Hatta International Airport, Jakarta_
 
 ##### Cholera
 ### [Doctors set up cholera clinics in Port-au-Prince as the 2010 Haiti cholera outbreak reaches the capital. ](/news/2010/11/10/doctors-set-up-cholera-clinics-in-port-au-prince-as-the-2010-haiti-cholera-outbreak-reaches-the-capital.md)
@@ -57,7 +57,7 @@ President Barack Obama held up his boyhood home of Indonesia as an example to th
 
 ##### Jordanian King
 ### [Jordanian King Abdullah II meets with Xu Caihou, vice chairman of China's Central Military Commission, in Amman, Jordan. ](/news/2010/11/10/jordanian-king-abdullah-ii-meets-with-xu-caihou-vice-chairman-of-china-s-central-military-commission-in-amman-jordan.md)
-_Context: Xu Caihou, Abdullah II, China's Central Military Commission, Jordanian King, Jordan, Amman_
+_Context: Xu Caihou, Amman, Jordan, China's Central Military Commission, Jordanian King, Abdullah II_
 
 ##### Australia
 ### [American Gabe Watson leaves detention in Australia after serving time for the death of Tina Watson after she drowned in 2007 after he failed to rescue her. He will be extradited to Alabama to face murder charges upon suspicion of murder. ](/news/2010/11/10/american-gabe-watson-leaves-detention-in-australia-after-serving-time-for-the-death-of-tina-watson-after-she-drowned-in-2007-after-he-failed.md)
@@ -73,7 +73,7 @@ Thousands of students and lecturers are arriving in London for a rally against p
 
 ##### Prithviraj Chavan
 ### [Prithviraj Chavan is appointed Chief Minister of Maharashtra in India to replace Ashok Chavan who resigned in a corruption scandal. ](/news/2010/11/10/prithviraj-chavan-is-appointed-chief-minister-of-maharashtra-in-india-to-replace-ashok-chavan-who-resigned-in-a-corruption-scandal.md)
-_Context: Chief Minister of Maharashtra, Ashok Chavan, Prithviraj Chavan, India_
+_Context: Prithviraj Chavan, Chief Minister of Maharashtra, Ashok Chavan, India_
 
 ##### Ivory Coast
 ### [The Ivory Coast defers the second round of voting for the Ivory presidential election to November 28. ](/news/2010/11/10/the-ivory-coast-defers-the-second-round-of-voting-for-the-ivory-presidential-election-to-november-28.md)

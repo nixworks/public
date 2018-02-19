@@ -21,7 +21,7 @@ Bar owner falsely implicated in Meredith Kercher murder says decision to quash c
 
 ##### Nigerian general election, 2015
 ### [Voters in Nigeria go to the polls for a general election. Gunmen kill at least 15 voters including an opposition house of assembly candidate for Dukku in Gombe. ](/news/2015/03/28/voters-in-nigeria-go-to-the-polls-for-a-general-election-gunmen-kill-at-least-15-voters-including-an-opposition-house-of-assembly-candidate.md)
-_Context: Nigeria, Gombe, Nigerian general election, 2015, Dukku_
+_Context: Dukku, Nigerian general election, 2015, Gombe, Nigeria_
 
 ##### New South Wales state election, 2015
 ### [Voters in the Australian state of New South Wales go to the polls for a state election with the Liberal-National Coalition led by Mike Baird retaining government. ](/news/2015/03/28/voters-in-the-australian-state-of-new-south-wales-go-to-the-polls-for-a-state-election-with-the-liberal-national-coalition-led-by-mike-baird.md)

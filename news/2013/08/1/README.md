@@ -17,7 +17,7 @@ NSA whistleblower Edward Snowden has been granted temporary asylum in Russia and
 
 ##### Manila
 ### [In talks in Manila, the Philippines and Vietnam agree to work together on a framework for resolving maritime territorial disputes in the South China Sea. ](/news/2013/08/1/in-talks-in-manila-the-philippines-and-vietnam-agree-to-work-together-on-a-framework-for-resolving-maritime-territorial-disputes-in-the-sou.md)
-_Context: Philippines, Manila, Vietnam_
+_Context: Vietnam, Manila, Philippines_
 
 ##### Vietnam
 ### [Russian police detain 1,200 illegal Vietnamese migrants in raids in Moscow. ](/news/2013/08/1/russian-police-detain-1-200-illegal-vietnamese-migrants-in-raids-in-moscow.md)
@@ -29,7 +29,7 @@ _Context: Greece, Turkey_
 
 ##### United States
 ### [The U.S. states of Minnesota and Rhode Island begin issuing marriage licenses to same-sex couples. ](/news/2013/08/1/the-u-s-states-of-minnesota-and-rhode-island-begin-issuing-marriage-licenses-to-same-sex-couples.md)
-_Context: same-sex marriage in the United States, Minnesota, Rhode Island, United States_
+_Context: United States, Minnesota, same-sex marriage in the United States, Rhode Island_
 
 ##### Dhaka
 ### [The Dhaka High Court rules the registration of Bangladesh's largest Islamic group Jamaat-e-Islami as a political party illegal making it potentially ineligible to contest elections. ](/news/2013/08/1/the-dhaka-high-court-rules-the-registration-of-bangladesh-s-largest-islamic-group-jamaat-e-islami-as-a-political-party-illegal-making-it-pot.md)
@@ -49,15 +49,15 @@ _Context: top court, Italy, Silvio Berlusconi, Italian Prime Minister_
 
 ##### Prime Minister of Tuvalu
 ### [The Prime Minister of Tuvalu, Willy Telavi, is removed from office by Governor General Iakoba Italeli after accusations that he allegedly tried to replace Italeli as Governor General. Opposition leader Enele Sopoaga is appointed as the country's acting Prime Minister. ](/news/2013/08/1/the-prime-minister-of-tuvalu-willy-telavi-is-removed-from-office-by-governor-general-iakoba-italeli-after-accusations-that-he-allegedly-tr.md)
-_Context: Prime Minister of Tuvalu, Governor General, Iakoba Italeli, Enele Sopoaga, Willy Telavi_
+_Context: Iakoba Italeli, Enele Sopoaga, Governor General, Prime Minister of Tuvalu, Willy Telavi_
 
 ##### Parliament of New Zealand
 ### [Geoff Thorn, the General Manager of Parliamentary Service in the Parliament of New Zealand, submits his resignation to the Speaker David Carter after phone and other data belonging to Fairfax New Zealand journalist Andrea Vance were released to an inquiry without her permission. ](/news/2013/08/1/geoff-thorn-the-general-manager-of-parliamentary-service-in-the-parliament-of-new-zealand-submits-his-resignation-to-the-speaker-david-car.md)
-_Context: Parliament of New Zealand, Speaker, Fairfax New Zealand, David Carter_
+_Context: Parliament of New Zealand, David Carter, Fairfax New Zealand, Speaker_
 
 ##### Robert Mugabe
 ### [Robert Mugabe's ZANU-PF party claims victory in yesterday's Zimbabwean general election as the opposition Movement for Democratic Change alleges "massive fraud". ](/news/2013/08/1/robert-mugabe-s-zanu-pf-party-claims-victory-in-yesterday-s-zimbabwean-general-election-as-the-opposition-movement-for-democratic-change-all.md)
-_Context: ZANU-PF, Robert Mugabe, recent elections, Movement for Democratic Change_
+_Context: Robert Mugabe, ZANU-PF, Movement for Democratic Change, recent elections_
 
 ## [Previous Day...](/news/2013/07/31/index.md)
 

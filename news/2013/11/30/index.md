@@ -5,7 +5,7 @@ Formats: [HTML](2013/11/30/index.html)  [JSON](2013/11/30/index.json)  [XML](201
 
 ##### Lebanese
 ### [Six people are killed in Lebanon's northern city of Tripoli on Saturday in exchanges of fire between neighborhoods which support rival sides in Syria's civil war. ](/news/2013/11/30/six-people-are-killed-in-lebanon-s-northern-city-of-tripoli-on-saturday-in-exchanges-of-fire-between-neighborhoods-which-support-rival-sides.md)
-_Context: Tripoli, Lebanon, Lebanese_
+_Context: Lebanese, Tripoli, Lebanon_
 
 ##### Americans
 ### [American actor Paul Walker ("The Fast and the Furious" franchise) is one of two killed in a car accident after attending a charity event in Santa Clarita, California. ](/news/2013/11/30/american-actor-paul-walker-the-fast-and-the-furious-franchise-is-one-of-two-killed-in-a-car-accident-after-attending-a-charity-event-in.md)
@@ -17,7 +17,7 @@ MANILA -- President Benigno Aquino III paid tribute to the life and legacy of An
 
 ##### Gaia Cauchi
 ### [Gaia Cauchi of Malta, wins the Junior Eurovision Song Contest 2013 in Kiev, Ukraine, with her song "The Start." ](/news/2013/11/30/gaia-cauchi-of-malta-wins-the-junior-eurovision-song-contest-2013-in-kiev-ukraine-with-her-song-the-start.md)
-_Context: Junior Eurovision Song Contest 2013, Malta, Ukraine, Kiev, Gaia Cauchi_
+_Context: Malta, Kiev, Gaia Cauchi, Junior Eurovision Song Contest 2013, Ukraine_
 
 ##### LAM Mozambique Airlines
 ### [The wreckage of LAM Mozambique Airlines Flight 470 that went missing Friday is found in Namibia in the Bwabwata National Park with all 33 people on board having died. ](/news/2013/11/30/the-wreckage-of-lam-mozambique-airlines-flight-470-that-went-missing-friday-is-found-in-namibia-in-the-bwabwata-national-park-with-all-33-pe.md)

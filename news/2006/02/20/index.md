@@ -5,11 +5,11 @@ Formats: [HTML](2006/02/20/index.html)  [JSON](2006/02/20/index.json)  [XML](200
 
 ##### Tuvalu
 ### [ Retired scientist Don Kennedy suggests the entire population of Tuvalu should move to the Fijian island of Kioa, to preserve Tuvaluan culture as their homeland becomes uninhabitable due to rising sea levels. ](/news/2006/02/20/retired-scientist-don-kennedy-suggests-the-entire-population-of-tuvalu-should-move-to-the-fijian-island-of-kioa-to-preserve-tuvaluan-cultu.md)
-_Context: Tuvalu, Kioa, rising sea levels_
+_Context: rising sea levels, Kioa, Tuvalu_
 
 ##### Iran
 ### [ Iranian Foreign Minister Manouchehr Mottaki denies that Iranian President Mahmoud Ahmadinejad said that he wanted Israel to be "wiped off the map", saying Ahmadinejad was misunderstood. ](/news/2006/02/20/iranian-foreign-minister-manouchehr-mottaki-denies-that-iranian-president-mahmoud-ahmadinejad-said-that-he-wanted-israel-to-be-wiped-off-t.md)
-_Context: Iran, Foreign Minister, Manouchehr Mottaki, wiped off the map, Israel, Mahmoud Ahmadinejad, Iranian President_
+_Context: Iranian President, wiped off the map, Foreign Minister, Manouchehr Mottaki, Israel, Iran, Mahmoud Ahmadinejad_
 
 ##### Movement for the Emancipation of the Niger Delta
 ### [ Attacks by the Movement for the Emancipation of the Niger Delta destroy an oil pipeline and a military houseboat in southern Nigeria, cutting crude production by about twenty percent. The recent violence has caused a rise in international oil prices due to supply concerns. ](/news/2006/02/20/attacks-by-the-movement-for-the-emancipation-of-the-niger-delta-destroy-an-oil-pipeline-and-a-military-houseboat-in-southern-nigeria-cutti.md)

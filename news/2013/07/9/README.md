@@ -17,11 +17,11 @@ Greece secures 6.8bn euros in further funding from its creditors, but is told th
 
 ##### Francesco Schettino
 ### [Francesco Schettino, former captain of the "Costa Concordia" cruise ship, goes on trial in Italy for manslaughter and abandoning ship during the disaster on 13 January 2012. ](/news/2013/07/9/francesco-schettino-former-captain-of-the-costa-concordia-cruise-ship-goes-on-trial-in-italy-for-manslaughter-and-abandoning-ship-during.md)
-_Context: Costa Concordia, Francesco Schettino, Italy_
+_Context: Costa Concordia, Italy, Francesco Schettino_
 
 ##### Labour Party
 ### [British Labour Party leader Ed Miliband says he will end the automatic affiliation fee paid to the Party by three million union members after the Unite union was accused of secretly signing up its members in order to get its favoured candidate elected in the Falkirk constituency. ](/news/2013/07/9/british-labour-party-leader-ed-miliband-says-he-will-end-the-automatic-affiliation-fee-paid-to-the-party-by-three-million-union-members-afte.md)
-_Context: Falkirk constituency, Unite union, Labour Party, Ed Miliband_
+_Context: Labour Party, Falkirk constituency, Ed Miliband, Unite union_
 
 ##### Egypt
 ### [Egypt's military-backed interim government selects economist Hazem Al Beblawi as the interim Prime Minister. ](/news/2013/07/9/egypt-s-military-backed-interim-government-selects-economist-hazem-al-beblawi-as-the-interim-prime-minister.md)

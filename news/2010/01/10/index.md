@@ -5,7 +5,7 @@ Formats: [HTML](2010/01/10/index.html)  [JSON](2010/01/10/index.json)  [XML](201
 
 ##### Hamas
 ### [Three Palestinian Islamic Jihad operatives are killed while firing mortars into Israel from Gaza. ](/news/2010/01/10/three-palestinian-islamic-jihad-operatives-are-killed-while-firing-mortars-into-israel-from-gaza.md)
-_Context: Gaza Strip, Hamas, Mortar, Israel_
+_Context: Gaza Strip, Israel, Hamas, Mortar_
 
 ##### Sunday Mirror
 ### [The "Sunday Mirror"{{'}}s defence correspondent Rupert Hamer is killed in an explosion in Afghanistan, becoming the first British journalist to be killed there and the first to be killed in a war zone since 2003. ](/news/2010/01/10/the-sunday-mirror-s-defence-correspondent-rupert-hamer-is-killed-in-an-explosion-in-afghanistan-becoming-the-first-british-journalist.md)
@@ -25,11 +25,11 @@ A plaque will be placed at the site of the torpedoed wartime hospital ship, the 
 
 ##### China
 ### [China overtakes Germany to become the world's largest exporter. ](/news/2010/01/10/china-overtakes-germany-to-become-the-world-s-largest-exporter.md)
-_Context: German, top export market, China_
+_Context: top export market, China, German_
 
 ##### German
 ### [More than 160 people are trapped in vehicles overnight in Germany, dozens of flights are cancelled, Berlin and Leipzig are buried under 30cm of snow, parts of Schleswig-Holstein remain unreachable. The electricity of 80,000 people is cut off by snow in Poland. Eurostar services are affected in Belgium, Britain and France. ](/news/2010/01/10/more-than-160-people-are-trapped-in-vehicles-overnight-in-germany-dozens-of-flights-are-cancelled-berlin-and-leipzig-are-buried-under-30cm.md)
-_Context: Schleswig-Holstein, Poland, Belgium, United Kingdom, German, Leipzig, France, Berlin, Eurostar_
+_Context: Berlin, Poland, France, Leipzig, Belgium, Schleswig-Holstein, Eurostar, United Kingdom, German_
 
 ##### Issa bin Zayed Al Nahyan
 ### [Sheikh Issa bin Zayed Al Nahyan, brother of the leader of the United Arab Emirates, Khalifa bin Zayed Al Nahyan, is acquitted of beating a former business partner in a videotaped attack. ](/news/2010/01/10/sheikh-issa-bin-zayed-al-nahyan-brother-of-the-leader-of-the-united-arab-emirates-khalifa-bin-zayed-al-nahyan-is-acquitted-of-beating-a-f.md)
@@ -37,7 +37,7 @@ A brother of the president of the United Arab Emirates filmed beating up a forme
 
 ##### Muslim
 ### [Britain is set to ban a Muslim group, Al-Muhajiroun, also known as Islam4UK, that recently caused outrage by proposing a demonstration in the town that receives the bodies of British war dead killed abroad, the Home Office says. ](/news/2010/01/10/britain-is-set-to-ban-a-muslim-group-al-muhajiroun-also-known-as-islam4uk-that-recently-caused-outrage-by-proposing-a-demonstration-in-th.md)
-_Context: United Kingdom, Al-Muhajiroun, Home Office, Muslim_
+_Context: Muslim, United Kingdom, Al-Muhajiroun, Home Office_
 
 ##### Sinn Fein
 ### [President of Sinn Fein Gerry Adams receives a death threat. ](/news/2010/01/10/president-of-sinn-fa-c-in-gerry-adams-receives-a-death-threat.md)
@@ -49,7 +49,7 @@ _Context: Croatian President, presidential election, Ivo Josipovic_
 
 ##### Elections
 ### [Ahead of the Iraqi parliamentary election, 2010, the De-Ba'athification Commission recommends banning the leaders of the Iraqi National Dialogue Front, the Coalition for Iraqi National Unity and 13 other parties for links to Saddam Hussein's banned Ba'ath Party. ](/news/2010/01/10/ahead-of-the-iraqi-parliamentary-election-2010-the-de-ba-athification-commission-recommends-banning-the-leaders-of-the-iraqi-national-dial.md)
-_Context: Saddam Hussein, elections, Coalition for Iraqi National Unity, Iraqi National Dialogue Front, Ba'ath Party_
+_Context: Ba'ath Party, elections, Iraqi National Dialogue Front, Saddam Hussein, Coalition for Iraqi National Unity_
 
 ## [Previous Day...](/news/2010/01/9/index.md)
 

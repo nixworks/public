@@ -5,19 +5,19 @@ Formats: [HTML](2015/03/11/index.html)  [JSON](2015/03/11/index.json)  [XML](201
 
 ##### 2014-15 Australian region cyclone season
 ### [Tropical Cyclone Nathan intensifies to a Category 2 system as it nears Cape York Peninsula in the north of the Australian state of Queensland. ](/news/2015/03/11/tropical-cyclone-nathan-intensifies-to-a-category-2-system-as-it-nears-cape-york-peninsula-in-the-north-of-the-australian-state-of-queenslan.md)
-_Context: Category 2, typhoon, 2014-15 Australian region cyclone season, Australia, Cape York Peninsula, Nathan, Queensland_
+_Context: 2014-15 Australian region cyclone season, Queensland, Australia, Cape York Peninsula, Category 2, typhoon, Nathan_
 
 ##### Eglin Air Force Base
 ### [A search continues after an army helicopter crashed March 10 during a foggy night training exercise at Eglin Air Force Base in the Florida Panhandle leaving seven Marines and four United States Army soldiers missing. ](/news/2015/03/11/a-search-continues-after-an-army-helicopter-crashed-march-10-during-a-foggy-night-training-exercise-at-eglin-air-force-base-in-the-florida-p.md)
-_Context: United States soldier, Marine, Eglin Air Force Base, Panhandle_
+_Context: United States soldier, Eglin Air Force Base, Marine, Panhandle_
 
 ##### Fire and partial collapse
 ### [A fire and partial collapse of the Admiral shopping complex in the Russian city of Kazan kills at least 17 people with 55 more injured. ](/news/2015/03/11/a-fire-and-partial-collapse-of-the-admiral-shopping-complex-in-the-russian-city-of-kazan-kills-at-least-17-people-with-55-more-injured.md)
-_Context: fire and partial collapse, Russia, Kazan_
+_Context: Kazan, fire and partial collapse, Russia_
 
 ##### Government of Germany
 ### [The Government of Germany advises that Chancellor Angela Merkel will not attend a May 9 World War II Victory Day Parade in Moscow but will visit shortly thereafter. ](/news/2015/03/11/the-government-of-germany-advises-that-chancellor-angela-merkel-will-not-attend-a-may-9-world-war-ii-victory-day-parade-in-moscow-but-will-v.md)
-_Context: biggest ever military parade, Moscow, World War II, Government of Germany, Angela Merkel, Chancellor_
+_Context: World War II, Moscow, Chancellor, Government of Germany, biggest ever military parade, Angela Merkel_
 
 ##### Boris Nemtsov's assassination
 ### [The Kremlin's Rights Council states that they believe that Zaur Dadayev, a former Chechen police officer, who confessed to being part of the murder of Boris Nemtsov did so after being tortured. ](/news/2015/03/11/the-kremlin-s-rights-council-states-that-they-believe-that-zaur-dadayev-a-former-chechen-police-officer-who-confessed-to-being-part-of-the.md)

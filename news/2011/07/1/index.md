@@ -5,7 +5,7 @@ Formats: [HTML](2011/07/1/index.html)  [JSON](2011/07/1/index.json)  [XML](2011/
 
 ##### United Nations
 ### [The United Nations Office of the High Commissioner for Human Rights claims the Congo government troops raped 121 women between June 11 and 13 then pillaged their villages. ](/news/2011/07/1/the-united-nations-office-of-the-high-commissioner-for-human-rights-claims-the-congo-government-troops-raped-121-women-between-june-11-and-1.md)
-_Context: DR Congo, Office of the High Commissioner for Human Rights, United Nations, raped_
+_Context: DR Congo, United Nations, raped, Office of the High Commissioner for Human Rights_
 
 ##### 2011 Syrian uprising
 ### [2011 Syrian uprising:Hundreds of thousands of people protest against the regime nationwide as the crackdown against civilians continues. ](/news/2011/07/1/2011-syrian-uprising-hundreds-of-thousands-of-people-protest-against-the-regime-nationwide-as-the-crackdown-against-civilians-continues.md)
@@ -19,7 +19,7 @@ The principality of Monaco celebrates the wedding of ruler Prince Albert to Sout
 
 ##### Bank of Moscow
 ### ["Bank of Moscow", the fifth largest bank in Russia, in record bailout of $14 billion, after the discovery that almost a third of the bank's assets are "problematic," the Central Bank of Russia said.](/news/2011/07/1/bank-of-moscow-the-fifth-largest-bank-in-russia-in-record-bailout-of-14-billion-after-the-discovery-that-almost-a-third-of-the-bank-s.md)
-_Context: asset, Bank of Moscow, Russian Central Bank, bailout_
+_Context: asset, Bank of Moscow, bailout, Russian Central Bank_
 
 ##### Bank of Japan
 ### [A Bank of Japan survey shows that business confidence has fallen markedly since the 2011 Tohoku earthquake and tsunami. ](/news/2011/07/1/a-bank-of-japan-survey-shows-that-business-confidence-has-fallen-markedly-since-the-2011-tahoku-earthquake-and-tsunami.md)
@@ -35,7 +35,7 @@ _Context: South Dakota, Colman, Flandreau_
 
 ##### Yonhap
 ### [The Yonhap News Agency reports that North Korea is tightening border controls with South Korea to stop defections. ](/news/2011/07/1/the-yonhap-news-agency-reports-that-north-korea-is-tightening-border-controls-with-south-korea-to-stop-defections.md)
-_Context: North Korea, South Korea, Yonhap_
+_Context: North Korea, Yonhap, South Korea_
 
 ##### Poland
 ### [Poland takes over the Presidency of the Council of the European Union for six months. ](/news/2011/07/1/poland-takes-over-the-presidency-of-the-council-of-the-european-union-for-six-months.md)
@@ -43,7 +43,7 @@ Poland assumes the six-month rotating presidency of the EU for the first time si
 
 ##### Moscow
 ### [A Moscow court declares books and brochures by Scientology founder L. Ron Hubbard as "extremist", banning them from distribution in Russia. ](/news/2011/07/1/a-moscow-court-declares-books-and-brochures-by-scientology-founder-l-ron-hubbard-as-extremist-banning-them-from-distribution-in-russia.md)
-_Context: Scientology, L. Ron Hubbard, Moscow, Russia_
+_Context: Russia, L. Ron Hubbard, Scientology, Moscow_
 
 ##### Australian Federal Police
 ### [The Australian Federal Police charges six senior executives, all former employees of two companies owned by the Reserve Bank of Australia, Securency and Note Printing Australia, in relation to alleged bribery of officials in Malaysia, Vietnam and Indonesia. ](/news/2011/07/1/the-australian-federal-police-charges-six-senior-executives-all-former-employees-of-two-companies-owned-by-the-reserve-bank-of-australia-s.md)
@@ -55,15 +55,15 @@ Former&#x20;IMF&#x20;chief&#x20;Dominique&#x20;Strauss-Kahn&#x20;was&#x20;releas
 
 ##### Chosunilbo
 ### [The "Chosunilbo" newspaper in South Korea reports that Kim Pyong-il, the half-brother of current North Korean leader Kim Jong-il, is under house arrest in Pyongyang. ](/news/2011/07/1/the-chosunilbo-newspaper-in-south-korea-reports-that-kim-pyong-il-the-half-brother-of-current-north-korean-leader-kim-jong-il-is-under-h.md)
-_Context: Kim Jong-il, Pyongyang, North Korea, Chosunilbo, South Korea, Kim Pyong-il_
+_Context: Kim Jong-il, North Korea, Chosunilbo, Kim Pyong-il, South Korea, Pyongyang_
 
 ##### Italian
 ### [Italian police arrest the Mafia boss of Corleone in Sicily. ](/news/2011/07/1/italian-police-arrest-the-mafia-boss-of-corleone-in-sicily.md)
-_Context: Italian, Sicily, Corleone, Mafia_
+_Context: Italian, Corleone, Sicily, Mafia_
 
 ##### Danish
 ### [Danish drug company Lundbeck restricts use of its Nembutal drug to stop its use in lethal injections in some US states. ](/news/2011/07/1/danish-drug-company-lundbeck-restricts-use-of-its-nembutal-drug-to-stop-its-use-in-lethal-injections-in-some-us-states.md)
-_Context: Lundbeck, Nembutal, lethal injection, Danish_
+_Context: Nembutal, Danish, Lundbeck, lethal injection_
 
 ##### Federal appeals court
 ### [A US Federal Appeals Court overturns the Michigan Civil Rights Initiative banning the use of race and gender preferences in college admissions and government hiring and contracting in the US state of Michigan. ](/news/2011/07/1/a-us-federal-appeals-court-overturns-the-michigan-civil-rights-initiative-banning-the-use-of-race-and-gender-preferences-in-college-admissio.md)

@@ -17,11 +17,11 @@ Pakistani child education activist Malala Yousafzai and Indian child rights camp
 
 ##### KGB
 ### [The local KGB in Minsk arrests about 100 Ukrainian and 30 Belarusian soccer fans at a qualifying match between Ukraine and Belarus for the 2016 European Championship after they a sang the song, Putin-Huilo! (which roughly translates as "Putin is a dickhead!"). ](/news/2014/10/10/the-local-kgb-in-minsk-arrests-about-100-ukrainian-and-30-belarusian-soccer-fans-at-a-qualifying-match-between-ukraine-and-belarus-for-the-2.md)
-_Context: Belarus, KGB, Ukraine, Minsk, 2016 European Championship, Vladimir Putin_
+_Context: KGB, 2016 European Championship, Ukraine, Belarus, Vladimir Putin, Minsk_
 
 ##### Hong Kong
 ### [Hong Kong's Occupy Central protest leaders call for supporters to hold a major rally after the Government of Hong Kong calls off planned talks. ](/news/2014/10/10/hong-kong-s-occupy-central-protest-leaders-call-for-supporters-to-hold-a-major-rally-after-the-government-of-hong-kong-calls-off-planned-tal.md)
-_Context: Government of Hong Kong, Hong Kong, Occupy Central with Love and Peace_
+_Context: Government of Hong Kong, Occupy Central with Love and Peace, Hong Kong_
 
 ##### Kim Jong-un
 ### [Kim Jong-un, the leader of North Korea, fails to show at an event marking the 69th anniversary of the founding of the Workers' Party of Korea, increasing speculation about his prolonged absence from public view. ](/news/2014/10/10/kim-jong-un-the-leader-of-north-korea-fails-to-show-at-an-event-marking-the-69th-anniversary-of-the-founding-of-the-workers-party-of-kore.md)
@@ -29,7 +29,7 @@ North Korean leader Kim Jong-un misses a key political ceremony, increasing spec
 
 ##### Violeta Bulc
 ### [Violeta Bulc is nominated as Slovenia's new candidate for EU commissioner after the former prime minister Alenka Bratusek was rejected by the European Parliament. ](/news/2014/10/10/violeta-bulc-is-nominated-as-slovenia-s-new-candidate-for-eu-commissioner-after-the-former-prime-minister-alenka-bratua-ek-was-rejected-by-t.md)
-_Context: Slovenia, Alenka Bratusek, European Parliament, Violeta Bulc_
+_Context: Slovenia, European Parliament, Alenka Bratusek, Violeta Bulc_
 
 ## [Previous Day...](/news/2014/10/9/index.md)
 

@@ -17,11 +17,11 @@ _Context: UNICEF, Yemeni Civil War (2015)_
 
 ##### ISIL
 ### [Iraqi Army Brigadier-General Hassan Abbas Toufan and three other officers are killed in a targeted car bombing in Anbar province. ](/news/2015/04/24/iraqi-army-brigadier-general-hassan-abbas-toufan-and-three-other-officers-are-killed-in-a-targeted-car-bombing-in-anbar-province.md)
-_Context: Iraqi Army, Anbar province, ISIL_
+_Context: ISIL, Anbar province, Iraqi Army_
 
 ##### Boko Haram insurgency
 ### [Boko Haram recapture the border town of Marte from the Nigerian Army. ](/news/2015/04/24/boko-haram-recapture-the-border-town-of-marte-from-the-nigerian-army.md)
-_Context: Nigerian Army, Marte, Boko Haram, Boko Haram insurgency_
+_Context: Boko Haram, Boko Haram insurgency, Marte, Nigerian Army_
 
 ##### Balochistan conflict
 ### [Pakistani human rights campaigner Sabeen Mahmud is killed by gunmen after attending a seminar on Balochistan's "disappeared people" in Karachi. ](/news/2015/04/24/pakistani-human-rights-campaigner-sabeen-mahmud-is-killed-by-gunmen-after-attending-a-seminar-on-balochistanas-disappeared-people-in-kar.md)
@@ -45,7 +45,7 @@ A strong earthquake centered just off Kaikoura has caused problems with the Spar
 
 ##### Chile
 ### [Chilean authorities urge further evacuations near the Calbuco volcano after mudflows of volcanic debris are located in a nearby river after this week's eruption. ](/news/2015/04/24/chilean-authorities-urge-further-evacuations-near-the-calbuco-volcano-after-mudflows-of-volcanic-debris-are-located-in-a-nearby-river-after.md)
-_Context: Chile, Calbuco_
+_Context: Calbuco, Chile_
 
 ##### Statue of Liberty
 ### [The Statue of Liberty in New York is evacuated after a bomb threat. ](/news/2015/04/24/the-statue-of-liberty-in-new-york-is-evacuated-after-a-bomb-threat.md)

@@ -25,7 +25,7 @@ Plans for a cap on interest rates on payday loans from January 2015 are announce
 
 ##### Malaysia
 ### [Nineteen immigrants drown as a boat carrying 80 people capsizes off the coast of Malaysia's Tanjung Piai cape. ](/news/2014/07/15/nineteen-immigrants-drown-as-a-boat-carrying-80-people-capsizes-off-the-coast-of-malaysia-s-tanjung-piai-cape.md)
-_Context: Tanjung Piai, Malaysia_
+_Context: Malaysia, Tanjung Piai_
 
 ##### Philippines
 ### [The Philippines braces for the impact of Typhoon Rammasun (Glenda) which is expected to pass over the capital Manila causing flooding. Thousands have fled to evacuation centres and ports and airports in the country are closed ](/news/2014/07/15/the-philippines-braces-for-the-impact-of-typhoon-rammasun-glenda-which-is-expected-to-pass-over-the-capital-manila-causing-flooding-thous.md)
@@ -37,15 +37,15 @@ A rush-hour train derails on the Moscow metro, killing 21 people, the Russian au
 
 ##### 2009 Black Saturday bushfires
 ### [Ten thousand survivors of the Black Saturday bushfires in the Australian state of Victoria in February 2009 win a settlement of A$497.4 million against utility company SP AusNet, its maintenance contractor and the Victorian Department of Sustainability and Environment for poor inadequate maintenance and protection measures. ](/news/2014/07/15/ten-thousand-survivors-of-the-black-saturday-bushfires-in-the-australian-state-of-victoria-in-february-2009-win-a-settlement-of-a-497-4-mill.md)
-_Context: Victoria, 2009 Black Saturday bushfires, SP AusNet, Australia, Victorian Department of Sustainability and Environment_
+_Context: Australia, Victoria, SP AusNet, Victorian Department of Sustainability and Environment, 2009 Black Saturday bushfires_
 
 ##### Mexican police
 ### [Mexican police rescue 458 children and 138 adults from a Great Family Group Home in Michoacan state where they were allegedly badly mistreated including sexual abuse. ](/news/2014/07/15/mexican-police-rescue-458-children-and-138-adults-from-a-great-family-group-home-in-michoacan-state-where-they-were-allegedly-badly-mistreat.md)
-_Context: Mexican police, Michoacan_
+_Context: Michoacan, Mexican police_
 
 ##### Salim al-Jabouri
 ### [Salim al-Jabouri is elected as speaker of the Iraqi parliament. ](/news/2014/07/15/salim-al-jabouri-is-elected-as-speaker-of-the-iraqi-parliament.md)
-_Context: Iraqi Parliament, Salim al-Jabouri_
+_Context: Salim al-Jabouri, Iraqi Parliament_
 
 ##### European Parliament
 ### [The European Parliament votes to elect Jean-Claude Juncker as President of the European Commission. ](/news/2014/07/15/the-european-parliament-votes-to-elect-jean-claude-juncker-as-president-of-the-european-commission.md)

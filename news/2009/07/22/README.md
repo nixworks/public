@@ -5,11 +5,11 @@ Formats: [HTML](2009/07/22/index.html)  [JSON](2009/07/22/index.json)  [XML](200
 
 ##### China
 ### [ Chinese and Russian troops begin a five-day joint military drill, aimed at boosting their ability to fight terrorism. ](/news/2009/07/22/chinese-and-russian-troops-begin-a-five-day-joint-military-drill-aimed-at-boosting-their-ability-to-fight-terrorism.md)
-_Context: terrorism, China, Russia_
+_Context: terrorism, Russia, China_
 
 ##### Permanent Court of Arbitration's
 ### [ The Permanent Court of Arbitration in The Hague issues a decision on the borders of Abyei, a region subject to violent contention in Sudan. ](/news/2009/07/22/the-permanent-court-of-arbitration-in-the-hague-issues-a-decision-on-the-borders-of-abyei-a-region-subject-to-violent-contention-in-sudan.md)
-_Context: Permanent Court of Arbitration's, Abyei, The Hague, Sudan_
+_Context: Sudan, The Hague, Abyei, Permanent Court of Arbitration's_
 
 ##### Total solar eclipse
 ### [ The longest total solar eclipse of the 21st century takes place over parts of Asia and the Pacific Ocean. ](/news/2009/07/22/the-longest-total-solar-eclipse-of-the-21st-century-takes-place-over-parts-of-asia-and-the-pacific-ocean.md)
@@ -25,11 +25,11 @@ President McAleese has indictated that her decision on whether she will refer tw
 
 ##### United States
 ### [ U.S. Secretary of State Hillary Clinton warns that it could arm its allies in the Gulf and extend a "defense umbrella" over the region, if Iran goes nuclear. ](/news/2009/07/22/u-s-secretary-of-state-hillary-clinton-warns-that-it-could-arm-its-allies-in-the-gulf-and-extend-a-defense-umbrella-over-the-region-if.md)
-_Context: United States, nuclear warheads, Hillary Clinton, United States Secretary of State, Iran, Persian Gulf_
+_Context: Hillary Clinton, nuclear warheads, United States, United States Secretary of State, Persian Gulf, Iran_
 
 ##### Ukraine
 ### [ Ukrainian former Interior Ministry official Oleksiy Pukach confesses to murdering journalist Georgiy R. Gongadze and implicates other high-ranking officials.](/news/2009/07/22/ukrainian-former-interior-ministry-official-oleksiy-pukach-confesses-to-murdering-journalist-georgiy-r-gongadze-and-implicates-other-high.md)
-_Context: Ukraine, Ministry of Internal Affairs, Oleksiy Pukach, Georgiy R. Gongadze_
+_Context: Georgiy R. Gongadze, Ministry of Internal Affairs, Ukraine, Oleksiy Pukach_
 
 ## [Previous Day...](/news/2009/07/21/index.md)
 

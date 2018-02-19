@@ -21,11 +21,11 @@ Nineteen people are now known to have died in severe floods in the Philippines, 
 
 ##### Hurricane Ernesto
 ### [Hurricane Ernesto hits the Yucatn Peninsula in Mexico. ](/news/2012/08/8/hurricane-ernesto-hits-the-yucatan-peninsula-in-mexico.md)
-_Context: Yucatn Peninsula, Hurricane Ernesto_
+_Context: Hurricane Ernesto, Yucatn Peninsula_
 
 ##### One World Trade Center
 ### [A welding fire breaks out but is soon extinguished, with no injuries, on the 88th floor of One World Trade Center in New York City.](/news/2012/08/8/a-welding-fire-breaks-out-but-is-soon-extinguished-with-no-injuries-on-the-88th-floor-of-one-world-trade-center-in-new-york-city.md)
-_Context: New York City, One World Trade Center_
+_Context: One World Trade Center, New York City_
 
 ##### Orange County
 ### [A preliminary magnitude 4.5 earthquake strikes Orange County, California. Minimal damage was reported.](/news/2012/08/8/a-preliminary-magnitude-4-5-earthquake-strikes-orange-county-california-minimal-damage-was-reported.md)
@@ -33,7 +33,7 @@ _Context: Orange County_
 
 ##### Templo Mayor
 ### [Anthropologists find the skeleton of a young woman inside a burial in Templo Mayor, surrounded by piles of 1,789 human bones. This finding is "unprecedented for the Aztec culture." ](/news/2012/08/8/anthropologists-find-the-skeleton-of-a-young-woman-inside-a-burial-in-templo-mayor-surrounded-by-piles-of-1-789-human-bones-this-finding-i.md)
-_Context: Aztec, Templo Mayor_
+_Context: Templo Mayor, Aztec_
 
 ##### Marvin Lee Wilson
 ### [Marvin Lee Wilson is executed by the state of Texas despite the low IQ results that could have invalidated his punishment. ](/news/2012/08/8/marvin-lee-wilson-is-executed-by-the-state-of-texas-despite-the-low-iq-results-that-could-have-invalidated-his-punishment.md)
@@ -65,7 +65,7 @@ Japan is set to pass legislation tomorrow to raise the sales tax after the main 
 
 ##### Ukrainian President
 ### [President of Ukraine Viktor Yanukovych signs a controversial law about official status of 18 languages (including Russian, Hungarian, Crimean Tatar language, etc.) as regional and minority languages, allowing officials in Russian-speaking regions of the country to use Russian at public events and in documents. ](/news/2012/08/8/president-of-ukraine-viktor-yanukovych-signs-a-controversial-law-about-official-status-of-18-languages-including-russian-hungarian-crimea.md)
-_Context: Crimean Tatar language, Ukrainian President, regional, Russian-speaking regions, Russian language, Viktor Yanukovych, minority language, Hungarian_
+_Context: Russian-speaking regions, Viktor Yanukovych, regional, minority language, Ukrainian President, Hungarian, Russian language, Crimean Tatar language_
 
 ## [Previous Day...](/news/2012/08/7/index.md)
 

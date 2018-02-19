@@ -41,7 +41,7 @@ _Context: HIV, Cook Islands_
 
 ##### China
 ### [China launches 7th Beidou navigation satellite. ](/news/2010/12/17/china-launches-7th-beidou-navigation-satellite.md)
-_Context: Beidou, China_
+_Context: China, Beidou_
 
 ## [Previous Day...](/news/2010/12/16/index.md)
 

@@ -25,7 +25,7 @@ KEEP us bookmarked through the day for rolling coverage of the winners, losers a
 
 ##### Sergey Lavrov
 ### [Russian Foreign Minister Sergey Lavrov says that Russia now formally recognizes Petro Poroshenko as the legitimate President of Ukraine in the hope that Poroshenko will "live up to Russia's trust." ](/news/2014/08/25/russian-foreign-minister-sergey-lavrov-says-that-russia-now-formally-recognizes-petro-poroshenko-as-the-legitimate-president-of-ukraine-in-t.md)
-_Context: Sergey Lavrov, Petro Poroshenko, Ukrainian President, Russia_
+_Context: Petro Poroshenko, Ukrainian President, Russia, Sergey Lavrov_
 
 ##### Prime Minister
 ### [The Prime Minister of France Manuel Valls presents President Francois Hollande with the resignation of the cabinet, with a new cabinet to be appointed tomorrow. ](/news/2014/08/25/the-prime-minister-of-france-manuel-valls-presents-president-franassois-hollande-with-the-resignation-of-the-cabinet-with-a-new-cabinet-to-b.md)

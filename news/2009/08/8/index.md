@@ -13,15 +13,15 @@ French student and two staff from Western embassies among those in the dock.
 
 ##### Local elections
 ### [ Local government elections take place in northern Sri Lanka, the first elections since the end of the civil war. ](/news/2009/08/8/local-government-elections-take-place-in-northern-sri-lanka-the-first-elections-since-the-end-of-the-civil-war.md)
-_Context: Sri Lankan Civil War, Sri Lanka, local elections_
+_Context: Sri Lankan Civil War, local elections, Sri Lanka_
 
 ##### Collide
 ### [ A small plane and a tour helicopter collide over the Hudson River in the United States. ](/news/2009/08/8/a-small-plane-and-a-tour-helicopter-collide-over-the-hudson-river-in-the-united-states.md)
-_Context: collide, Hudson River, United States_
+_Context: Hudson River, collide, United States_
 
 ##### Suicide bomber
 ### [ A suicide bomber detonates a bomb outside the French embassy in Nouakchott, Mauritania, wounding two. The attack is the first suicide bombing in Mauritania's history.](/news/2009/08/8/a-suicide-bomber-detonates-a-bomb-outside-the-french-embassy-in-nouakchott-mauritania-wounding-two-the-attack-is-the-first-suicide-bombi.md)
-_Context: Nouakchott, France, suicide bomber, Mauritanian, detonates a bomb_
+_Context: detonates a bomb, Mauritanian, France, Nouakchott, suicide bomber_
 
 ## [Previous Day...](/news/2009/08/7/index.md)
 

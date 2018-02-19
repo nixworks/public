@@ -5,7 +5,7 @@ Formats: [HTML](2007/06/20/index.html)  [JSON](2007/06/20/index.json)  [XML](200
 
 ##### Russia
 ### [ A fire in a Russian nursing home in Omsk kills at least ten people. ](/news/2007/06/20/a-fire-in-a-russian-nursing-home-in-omsk-kills-at-least-ten-people.md)
-_Context: nursing home, Russia, Omsk_
+_Context: Omsk, Russia, nursing home_
 
 ##### Special Court for Sierra Leone
 ### [ The Special Court for Sierra Leone issues the first-ever guilty verdicts by an international court related to the military use of children. ](/news/2007/06/20/the-special-court-for-sierra-leone-issues-the-first-ever-guilty-verdicts-by-an-international-court-related-to-the-military-use-of-children.md)
@@ -13,7 +13,7 @@ _Context: child soldiers, Special Court for Sierra Leone, international court_
 
 ##### Dubai
 ### [ The government of Dubai announces that it has purchased the RMS "Queen Elizabeth 2" from Cunard Line for US$100-million. It intends to turn her into a floating hotel at the Palm Jumeirah when she leaves service in late 2008. ](/news/2007/06/20/the-government-of-dubai-announces-that-it-has-purchased-the-rms-queen-elizabeth-2-from-cunard-line-for-us-100-million-it-intends-to-turn.md)
-_Context: Palm Jumeirah, hotel, 2008, $, RMS ''Queen Elizabeth 2'', Dubai, Cunard Line_
+_Context: Palm Jumeirah, RMS ''Queen Elizabeth 2'', Dubai, $, 2008, hotel, Cunard Line_
 
 ##### Nursultan Nazarbayev
 ### [ Nursultan Nazarbayev, President of Kazakhstan, dissolves parliament, triggering a legislative election for August 18, 2007. ](/news/2007/06/20/nursultan-nazarbayev-president-of-kazakhstan-dissolves-parliament-triggering-a-legislative-election-for-august-18-2007.md)
@@ -25,15 +25,15 @@ Israel will allow an unspecified number of Palestinians desperately fleeing the 
 
 ##### Australian Prime Minister
 ### [ The Prime Minister of Australia, John Howard, announces plans to buy three Spanish-designed warships and two large Spanish landing ships for the Royal Australian Navy at a cost of $A11-billion. ](/news/2007/06/20/the-prime-minister-of-australia-john-howard-announces-plans-to-buy-three-spanish-designed-warships-and-two-large-spanish-landing-ships-fo.md)
-_Context: Spain, John Howard, A$, Royal Australian Navy, warships, Australian Prime Minister, landing ship_
+_Context: warships, Australian Prime Minister, Spain, A$, Royal Australian Navy, John Howard, landing ship_
 
 ##### Sri Lanka
 ### [ The Sri Lankan military claims to have killed 30 members of the Tamil Tigers in overnight clashes in the east of the country. ](/news/2007/06/20/the-sri-lankan-military-claims-to-have-killed-30-members-of-the-tamil-tigers-in-overnight-clashes-in-the-east-of-the-country.md)
-_Context: Tamil Tigers, overnight clashes, Sri Lanka_
+_Context: overnight clashes, Sri Lanka, Tamil Tigers_
 
 ##### Industrial action
 ### [ Industrial action in Nigeria over increases in fuel duty and a doubling of sales tax is stepped up to become a general strike. ](/news/2007/06/20/industrial-action-in-nigeria-over-increases-in-fuel-duty-and-a-doubling-of-sales-tax-is-stepped-up-to-become-a-general-strike.md)
-_Context: sales tax, Nigeria, Industrial action, fuel duty, general strike_
+_Context: sales tax, fuel duty, Nigeria, general strike, Industrial action_
 
 ## [Previous Day...](/news/2007/06/19/index.md)
 

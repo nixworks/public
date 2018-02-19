@@ -5,7 +5,7 @@ Formats: [HTML](2014/05/4/index.html)  [JSON](2014/05/4/index.json)  [XML](2014/
 
 ##### 2014 pro-Russian unrest in Ukraine
 ### [Pro-Russian activists attack the police headquarters in Odessa, forcing the release of several people held over deadly violence two days before. ](/news/2014/05/4/pro-russian-activists-attack-the-police-headquarters-in-odessa-forcing-the-release-of-several-people-held-over-deadly-violence-two-days-bef.md)
-_Context: 2014 pro-Russian unrest in Ukraine, Odessa_
+_Context: Odessa, 2014 pro-Russian unrest in Ukraine_
 
 ##### Afghan government
 ### [The Government of Afghanistan declares a day of national mourning for the victims of the mudslides. ](/news/2014/05/4/the-government-of-afghanistan-declares-a-day-of-national-mourning-for-the-victims-of-the-mudslides.md)
@@ -17,7 +17,7 @@ At least 13 people were killed when an illegal bridge under construction collaps
 
 ##### Derailment
 ### [A train derailment in the Raigad district of India's Maharashtra state causes at least 19 deaths and 130 people injured. ](/news/2014/05/4/a-train-derailment-in-the-raigad-district-of-india-s-maharashtra-state-causes-at-least-19-deaths-and-130-people-injured.md)
-_Context: India, Maharashtra, derailment, Raigad district_
+_Context: derailment, Raigad district, India, Maharashtra_
 
 ##### Peter Robinson
 ### [Northern Ireland's First Minister Peter Robinson accuses Sinn Fin of attempting to blackmail the Police Service of Northern Ireland over the arrest of Gerry Adams. ](/news/2014/05/4/northern-ireland-s-first-minister-peter-robinson-accuses-sinn-fein-of-attempting-to-blackmail-the-police-service-of-northern-ireland-over-th.md)

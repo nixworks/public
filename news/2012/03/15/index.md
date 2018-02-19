@@ -5,7 +5,7 @@ Formats: [HTML](2012/03/15/index.html)  [JSON](2012/03/15/index.json)  [XML](201
 
 ##### Ethiopia
 ### [Ethiopian forces launch attacks on three militant camps inside Eritrea. ](/news/2012/03/15/ethiopian-forces-launch-attacks-on-three-militant-camps-inside-eritrea.md)
-_Context: Ethiopia, Eritrea_
+_Context: Eritrea, Ethiopia_
 
 ##### 
 ### [Turkish intelligence reports claim that approximately 20,000 Syrian soldiers have deserted from the government forces in less than a month. ](/news/2012/03/15/turkish-intelligence-reports-claim-that-approximately-20-000-syrian-soldiers-have-deserted-from-the-government-forces-in-less-than-a-month.md)
@@ -29,7 +29,7 @@ _Context: Norwegian, presumed dead in an aircraft accident in northern Sweden_
 
 ##### New Zealand
 ### [One New Zealand tourist is dead and another missing after a family of six is swept away in a flash flood of the Vaisigano River in the Samoan capital Apia. ](/news/2012/03/15/one-new-zealand-tourist-is-dead-and-another-missing-after-a-family-of-six-is-swept-away-in-a-flash-flood-of-the-vaisigano-river-in-the-samoa.md)
-_Context: Vaisigano River, Apia, New Zealand, Samoa, flash flood_
+_Context: Vaisigano River, New Zealand, Samoa, Apia, flash flood_
 
 ##### Prime Minister
 ### [Government documents reveal then-Prime Minister of the United Kingdom Margaret Thatcher was told a senior Merseyside police officer blamed "drunken Liverpool fans" for causing the Hillsborough disaster. Police have since been found to blame. ](/news/2012/03/15/government-documents-reveal-then-prime-minister-of-the-united-kingdom-margaret-thatcher-was-told-a-senior-merseyside-police-officer-blamed.md)
@@ -41,7 +41,7 @@ A Ugandan gay rights group sues a US minister accusing him of involvement in a c
 
 ##### Free trade agreement
 ### [A free trade agreement between the United States and South Korea comes into effect. ](/news/2012/03/15/a-free-trade-agreement-between-the-united-states-and-south-korea-comes-into-effect.md)
-_Context: free trade agreement, South Korea, United States_
+_Context: South Korea, United States, free trade agreement_
 
 ##### Government of Papua New Guinea
 ### [The Government of Papua New Guinea reacts angrily after the new Australian Minister for Foreign Affairs Bob Carr threatens the imposition of sanctions if elections are delayed. ](/news/2012/03/15/the-government-of-papua-new-guinea-reacts-angrily-after-the-new-australian-minister-for-foreign-affairs-bob-carr-threatens-the-imposition-of.md)
@@ -57,11 +57,11 @@ Convicted former Illinois Gov. Rod Blagojevich surrendered at a Colorado prison 
 
 ##### Prime Minister
 ### [The Prime Minister of New Zealand John Key announces a cut of 2000 positions in the public service. ](/news/2012/03/15/the-prime-minister-of-new-zealand-john-key-announces-a-cut-of-2000-positions-in-the-public-service.md)
-_Context: John Key, Prime Minister, public service_
+_Context: John Key, public service, Prime Minister_
 
 ##### Bo Xilai
 ### [Bo Xilai is replaced as the Communist Party boss in the city of Chongqing by 3rd Vice Premier Zhang Dejiang as a result of an ideological dispute. ](/news/2012/03/15/bo-xilai-is-replaced-as-the-communist-party-boss-in-the-city-of-chongqing-by-3rd-vice-premier-zhang-dejiang-as-a-result-of-an-ideological-di.md)
-_Context: Vice Premier, Communist Party of China, Chongqing, Bo Xilai, Zhang Dejiang_
+_Context: Communist Party of China, Zhang Dejiang, Chongqing, Bo Xilai, Vice Premier_
 
 ##### Wen Jiabao
 ### [Chinese Premier Wen Jiabao says the Dalai Lama is responsible for ongoing self-immolations by Tibetan monks. ](/news/2012/03/15/chinese-premier-wen-jiabao-says-the-dalai-lama-is-responsible-for-ongoing-self-immolations-by-tibetan-monks.md)
@@ -73,7 +73,7 @@ Leanne Wood wins a three-cornered contest to be elected the new leader of Plaid 
 
 ##### Chilean police
 ### [Chilean police use water cannon and tear gas to break up a march by thousands of students in the capital Santiago. ](/news/2012/03/15/chilean-police-use-water-cannon-and-tear-gas-to-break-up-a-march-by-thousands-of-students-in-the-capital-santiago.md)
-_Context: water cannon, tear gas, Santiago, Chilean police_
+_Context: tear gas, water cannon, Chilean police, Santiago_
 
 ##### Canadian
 ### [More than 100 students are arrested at a protest in the Canadian city of Montreal, Quebec. ](/news/2012/03/15/more-than-100-students-are-arrested-at-a-protest-in-the-canadian-city-of-montreal-quebec.md)
@@ -81,7 +81,7 @@ _Context: Quebec, Montreal, Canadian_
 
 ##### President
 ### [The President of Venezuela Hugo Chavez returns home after three weeks in Cuba for cancer surgery. ](/news/2012/03/15/the-president-of-venezuela-hugo-chavez-returns-home-after-three-weeks-in-cuba-for-cancer-surgery.md)
-_Context: Hugo Chavez, President, Cuba_
+_Context: Hugo Chavez, Cuba, President_
 
 ## [Previous Day...](/news/2012/03/14/index.md)
 

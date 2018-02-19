@@ -13,7 +13,7 @@ _Context: Oscar Temaru, French Polynesian President, motion of no confidence_
 
 ##### United States
 ### [ The United States Senate clears Senator Roland Burris of legal wrongdoing in relation to his appointment to the Senate. ](/news/2009/11/20/the-united-states-senate-clears-senator-roland-burris-of-legal-wrongdoing-in-relation-to-his-appointment-to-the-senate.md)
-_Context: United States, United States Senate, Roland Burris_
+_Context: Roland Burris, United States Senate, United States_
 
 ##### DR Congo
 ### [ At least 100 people are killed and around 50,000 displaced in the Democratic Republic of the Congo, with some fleeing to the Republic of the Congo, in an ethnic conflict over fishing rights. ](/news/2009/11/20/at-least-100-people-are-killed-and-around-50-000-displaced-in-the-democratic-republic-of-the-congo-with-some-fleeing-to-the-republic-of-th.md)
@@ -25,7 +25,7 @@ Senior officials from six world powers expressed disappointment Friday that Iran
 
 ##### Europe
 ### [ 200 European football matches are under investigation in a match-fixing inquiry, at least three from the UEFA Champions League and 12 from the UEFA Europa League as Europe's biggest ever match-fixing scandal is revealed. ](/news/2009/11/20/200-european-football-matches-are-under-investigation-in-a-match-fixing-inquiry-at-least-three-from-the-uefa-champions-league-and-12-from.md)
-_Context: UEFA Champions League, UEFA Europa League, Europe, Europe's biggest ever match-fixing scandal, football_
+_Context: UEFA Champions League, football, Europe, Europe's biggest ever match-fixing scandal, UEFA Europa League_
 
 ##### FIFA
 ### [ FIFA turns down the Football Association of Ireland's request for a rematch between France and Republic of Ireland, after a controversial handball decided the 2010 FIFA World Cup qualification playoff between the two countries. ](/news/2009/11/20/fifa-turns-down-the-football-association-of-ireland-s-request-for-a-rematch-between-france-and-republic-of-ireland-after-a-controversial-h.md)
@@ -37,7 +37,7 @@ _Context: FIFA, Iraq Football Association_
 
 ##### Egypt
 ### [ 35 people are injured and fire bombs are thrown after Egyptian riot police clash with protesters at a demonstration outside the Algerian embassy in Cairo, following Egypt's defeat in a World Cup qualifying playoff match. ](/news/2009/11/20/35-people-are-injured-and-fire-bombs-are-thrown-after-egyptian-riot-police-clash-with-protesters-at-a-demonstration-outside-the-algerian-em.md)
-_Context: Algeria, Egypt, Cairo, qualifying match_
+_Context: Algeria, Egypt, qualifying match, Cairo_
 
 ##### Irish Defence Forces
 ### [ The Irish Defence Forces are deployed to assist civil authorities after widespread flooding hits the west and south of Ireland after the heaviest rainfall in over thirty years falls in one night. The worst affected areas are Cork and Galway, where there is widespread disruption to public transport and services and several major roads are closed. Lectures at University College Cork are cancelled as the university is submerged. ](/news/2009/11/20/the-irish-defence-forces-are-deployed-to-assist-civil-authorities-after-widespread-flooding-hits-the-west-and-south-of-ireland-after-the-he.md)
@@ -45,7 +45,7 @@ The Defence Forces have further increased their deployment due to the recent flo
 
 ##### Somalia
 ### [ Somalia announces it is to ratify the United Nations Convention on the Rights of the Child, leaving the United States the only country not to ratify it. ](/news/2009/11/20/somalia-announces-it-is-to-ratify-the-united-nations-convention-on-the-rights-of-the-child-leaving-the-united-states-the-only-country-not.md)
-_Context: Convention on the Rights of the Child, United States, Somalia, United Nations_
+_Context: Convention on the Rights of the Child, United Nations, United States, Somalia_
 
 ##### Colombia
 ### [ Colombia accuses Venezuelan troops of blowing up two border bridges between the two countries. ](/news/2009/11/20/colombia-accuses-venezuelan-troops-of-blowing-up-two-border-bridges-between-the-two-countries.md)
@@ -53,7 +53,7 @@ Bogota accuses Caracas of blowing up pedestrian bridges between two countries.
 
 ##### Shooting
 ### [ At least five people are killed, including the gunman, and a further eight injured in a shooting in Saipan, Northern Mariana Islands. ](/news/2009/11/20/at-least-five-people-are-killed-including-the-gunman-and-a-further-eight-injured-in-a-shooting-in-saipan-northern-mariana-islands.md)
-_Context: shooting, Northern Mariana Islands, Saipan_
+_Context: Northern Mariana Islands, shooting, Saipan_
 
 ##### MS Oasis of the Seas
 ### [ "MS Oasis of the Seas", the world's largest cruise ship, is officially unveiled at Fort Lauderdale, Florida, live on an American morning television show. ](/news/2009/11/20/ms-oasis-of-the-seas-the-world-s-largest-cruise-ship-is-officially-unveiled-at-fort-lauderdale-florida-live-on-an-american-morning-te.md)

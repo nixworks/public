@@ -5,7 +5,7 @@ Formats: [HTML](2006/04/20/index.html)  [JSON](2006/04/20/index.json)  [XML](200
 
 ##### President-elect
 ### [ The President of Singapore, Sellapan Ramanathan, "on the advice of the prime minister (Lee Hsien Loong), has dissolved parliament" to prepare for the 2006 general election, to be held on May 6. ](/news/2006/04/20/the-president-of-singapore-sellapan-ramanathan-on-the-advice-of-the-prime-minister-lee-hsien-loong-has-dissolved-parliament-to-prepa.md)
-_Context: 2006 general election, Sellapan Ramanathan, Prime Minister of Singapore, President-elect, Lee Hsien Loong, Parliament of Singapore_
+_Context: Prime Minister of Singapore, President-elect, Lee Hsien Loong, Parliament of Singapore, 2006 general election, Sellapan Ramanathan_
 
 ##### Centrica
 ### [ Following reports of the UK government's hostility to a takeover of Centrica, Russian gas giant Gazprom warns of Europe-wide supply disruption ](/news/2006/04/20/following-reports-of-the-uk-government-s-hostility-to-a-takeover-of-centrica-russian-gas-giant-gazprom-warns-of-europe-wide-supply-disrupt.md)
@@ -29,7 +29,7 @@ Rivers as big as the Thames in England that may connect sub-glacial lakes have b
 
 ##### U.S. President
 ### [ U.S. President George W. Bush welcomes the Chinese President Hu Jintao at the White House. A Falun Gong protester--an accredited journalist from "The Epoch Times"--interrupts Hu's speech at the arrival ceremony before being removed by the Secret Service. The announcer violates protocol by accidentally calling the March of the Volunteers the "National Anthem of the Republic of China". ](/news/2006/04/20/u-s-president-george-w-bush-welcomes-the-chinese-president-hu-jintao-at-the-white-house-a-falun-gong-protesteraan-accredited-journalis.md)
-_Context: Falun Gong, George W. Bush, United States Secret Service, March of the Volunteers, The Epoch Times, White House, Hu Jintao, U.S. President, national anthem, Chinese President_
+_Context: U.S. President, Chinese President, national anthem, The Epoch Times, March of the Volunteers, Falun Gong, George W. Bush, White House, United States Secret Service, Hu Jintao_
 
 ##### Volkswagen
 ### [ German automaker Volkswagen is in talks for a restructuring program to cut costs and make the core unit Volkswagen more profitable. ](/news/2006/04/20/german-automaker-volkswagen-is-in-talks-for-a-restructuring-program-to-cut-costs-and-make-the-core-unit-volkswagen-more-profitable.md)
@@ -37,7 +37,7 @@ _Context: Volkswagen_
 
 ##### Snyder Rini
 ### [ Snyder Rini was sworn in as the new Prime Minister of the Solomon Islands and took office in secret, amid continued post-election rioting targeting ethnic Chinese. ](/news/2006/04/20/snyder-rini-was-sworn-in-as-the-new-prime-minister-of-the-solomon-islands-and-took-office-in-secret-amid-continued-post-election-rioting-t.md)
-_Context: Snyder Rini, Elections in the Solomon Islands, Prime Minister, ethnic Chinese_
+_Context: Elections in the Solomon Islands, Prime Minister, Snyder Rini, ethnic Chinese_
 
 ## [Previous Day...](/news/2006/04/19/index.md)
 

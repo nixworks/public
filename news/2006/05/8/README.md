@@ -5,15 +5,15 @@ Formats: [HTML](2006/05/8/index.html)  [JSON](2006/05/8/index.json)  [XML](2006/
 
 ##### South Africa
 ### [ Former South African deputy president Jacob Zuma is acquitted of a rape charge; the judge rules that a sexual encounter with a 31-year-old HIV-positive woman was consensual. ](/news/2006/05/8/former-south-african-deputy-president-jacob-zuma-is-acquitted-of-a-rape-charge-the-judge-rules-that-a-sexual-encounter-with-a-31-year-old.md)
-_Context: rape, Jacob Zuma, HIV, South Africa, Deputy President_
+_Context: Deputy President, rape, South Africa, Jacob Zuma, HIV_
 
 ##### Iranian President
 ### [ Iranian President Mahmoud Ahmadinejad writes to United States President George W. Bush. This marks the first time in 27 years that an Iranian President has written to a U.S. President. ](/news/2006/05/8/iranian-president-mahmoud-ahmadinejad-writes-to-united-states-president-george-w-bush-this-marks-the-first-time-in-27-years-that-an-irani.md)
-_Context: Mahmoud Ahmadinejad, U.S. President, Iranian President, George W. Bush_
+_Context: Iranian President, Mahmoud Ahmadinejad, U.S. President, George W. Bush_
 
 ##### Italy
 ### [ The Italian parliament starts to vote in order to elect the successor of Carlo Azeglio Ciampi as President of the Italian Republic. Gianni Letta leads after the first round of balloting.](/news/2006/05/8/the-italian-parliament-starts-to-vote-in-order-to-elect-the-successor-of-carlo-azeglio-ciampi-as-president-of-the-italian-republic-gianni.md)
-_Context: Gianni Letta, President, Carlo Azeglio Ciampi, elected, Italy_
+_Context: Carlo Azeglio Ciampi, Gianni Letta, Italy, elected, President_
 
 ##### London
 ### [ Judgement is given in London for Apple Computer in a high-profile trademark suit brought by The Beatles' company, Apple Corps. ](/news/2006/05/8/judgement-is-given-in-london-for-apple-computer-in-a-high-profile-trademark-suit-brought-by-the-beatles-company-apple-corps.md)

@@ -9,7 +9,7 @@ _Context: Bangladesh, Delwar Hossain Sayeedi_
 
 ##### Chad
 ### [Chadian soldiers kill Mokhtar Belmokhtar, an al-Qaeda commander in Africa responsible for a mass hostage-taking at an Algerian gas plant. ](/news/2013/03/2/chadian-soldiers-kill-mokhtar-belmokhtar-an-al-qaeda-commander-in-africa-responsible-for-a-mass-hostage-taking-at-an-algerian-gas-plant.md)
-_Context: Chad, Military, mass hostage-taking, Algeria, al-Qaeda, Mokhtar Belmokhtar, Africa_
+_Context: Military, Algeria, Chad, mass hostage-taking, Africa, Mokhtar Belmokhtar, al-Qaeda_
 
 ##### Southern Thailand
 ### [Suspected insurgents detonate a motorcycle bomb in Southern Thailand killing 2 Thai Military rangers and wounding 11 people. ](/news/2013/03/2/suspected-insurgents-detonate-a-motorcycle-bomb-in-southern-thailand-killing-2-thai-military-rangers-and-wounding-11-people.md)
@@ -25,7 +25,7 @@ Sitting less and moving around more reduces the risk of developing type 2 diabet
 
 ##### Judge
 ### [A judge declines to throw out the case against actress Lindsay Lohan in which she is accused of lying to a California police officer after a car accident in 2012. ](/news/2013/03/2/a-judge-declines-to-throw-out-the-case-against-actress-lindsay-lohan-in-which-she-is-accused-of-lying-to-a-california-police-officer-after-a.md)
-_Context: California, Lindsay Lohan, judge_
+_Context: judge, Lindsay Lohan, California_
 
 ##### Cassini spacecraft
 ### [Image taken by the Cassini spacecraft from Saturn orbit shows Venus shining like a bright beacon through Saturn's rings. ](/news/2013/03/2/image-taken-by-the-cassini-spacecraft-from-saturn-orbit-shows-venus-shining-like-a-bright-beacon-through-saturnas-rings.md)

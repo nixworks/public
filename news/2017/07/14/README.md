@@ -37,7 +37,7 @@ The deputy Greens leader steps down from Federal Parliament, after admitting he 
 
 ##### Politics of Hong Kong
 ### [Four lawmakers are removed from the Hong Kong legislature. ](/news/2017/07/14/four-lawmakers-are-removed-from-the-hong-kong-legislature.md)
-_Context: legislature, Hong Kong, Politics of Hong Kong_
+_Context: Politics of Hong Kong, Hong Kong, legislature_
 
 ## [Previous Day...](/news/2017/07/13/index.md)
 

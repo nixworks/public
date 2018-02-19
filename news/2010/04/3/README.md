@@ -25,19 +25,19 @@ _Context: Shanxi province, China_
 
 ##### South Korea
 ### [Eight people are missing and one dies as a fishing boat sinks while searching for the South Korean "Cheonan" warship that sank last week near the Northern Limit Line border with North Korea. ](/news/2010/04/3/eight-people-are-missing-and-one-dies-as-a-fishing-boat-sinks-while-searching-for-the-south-korean-cheonan-warship-that-sank-last-week-nea.md)
-_Context: North Korea, ROKS ''Cheonan'', sinking, South Korea, Northern Limit Line_
+_Context: North Korea, Northern Limit Line, sinking, ROKS ''Cheonan'', South Korea_
 
 ##### African Renaissance Monument
 ### [The controversial African Renaissance Monument, which is taller than the Statue of Liberty, is inaugurated in the Senegalese capital Dakar. ](/news/2010/04/3/the-controversial-african-renaissance-monument-which-is-taller-than-the-statue-of-liberty-is-inaugurated-in-the-senegalese-capital-dakar.md)
-_Context: Statue of Liberty, African Renaissance Monument, Dakar, Senegal_
+_Context: Senegal, Dakar, Statue of Liberty, African Renaissance Monument_
 
 ##### Red shirt
 ### [Thousands of "red shirt" anti-government protesters rally in the Thai capital Bangkok demanding new elections. ](/news/2010/04/3/thousands-of-red-shirt-anti-government-protesters-rally-in-the-thai-capital-bangkok-demanding-new-elections.md)
-_Context: red shirt, Thailand, Bangkok_
+_Context: red shirt, Bangkok, Thailand_
 
 ##### Cambridge Boat Club
 ### [Cambridge Boat Club defeats Oxford Boat Club to win the 156th University Boat Race in London, England. ](/news/2010/04/3/cambridge-boat-club-defeats-oxford-boat-club-to-win-the-156th-university-boat-race-in-london-england.md)
-_Context: Oxford Boat Club, 156th University Boat Race, London, Cambridge Boat Club, England_
+_Context: Cambridge Boat Club, London, 156th University Boat Race, England, Oxford Boat Club_
 
 ## [Previous Day...](/news/2010/04/2/index.md)
 

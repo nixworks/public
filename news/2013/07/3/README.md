@@ -25,7 +25,7 @@ _Context: United Kingdom, Ricardo Patio, Ecuador_
 
 ##### Albert II of Belgium
 ### [King Albert II of Belgium announces his abdication (effective July 21) for health reasons in favour of his son Prince Philippe, Duke of Brabant. ](/news/2013/07/3/king-albert-ii-of-belgium-announces-his-abdication-effective-july-21-for-health-reasons-in-favour-of-his-son-prince-philippe-duke-of-brab.md)
-_Context: Prince Philippe, Duke of Brabant, abdicate, Albert II of Belgium_
+_Context: Prince Philippe, Duke of Brabant, Albert II of Belgium, abdicate_
 
 ##### El Paraso
 ### [A 4,000-year-old pyramid at El Paraso in Peru is destroyed by property developers. ](/news/2013/07/3/a-4-000-year-old-pyramid-at-el-paraiso-in-peru-is-destroyed-by-property-developers.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2013/03/21/index.html)  [JSON](2013/03/21/index.json)  [XML](201
 
 ##### Rockets
 ### [Two rockets fired from Gaza strip land in Sderot, Israel, in violation of the ceasefire brokered after the eight-day conflict in November 2012. ](/news/2013/03/21/two-rockets-fired-from-gaza-strip-land-in-sderot-israel-in-violation-of-the-ceasefire-brokered-after-the-eight-day-conflict-in-november-20.md)
-_Context: Gaza strip, eight-day conflict, Sderot, rockets, Israel, November 2012_
+_Context: rockets, Israel, Sderot, Gaza strip, eight-day conflict, November 2012_
 
 ##### Car bombing
 ### [A car bombing at the Jalozai refugee camp near the Pakistani city of Peshawar kills at least 12 people and wounds up to 30 others. ](/news/2013/03/21/a-car-bombing-at-the-jalozai-refugee-camp-near-the-pakistani-city-of-peshawar-kills-at-least-12-people-and-wounds-up-to-30-others.md)
@@ -29,7 +29,7 @@ Chinua Achebe dies at 82
 
 ##### 2013 Berlin helicopter crash
 ### [2013 Berlin helicopter crash: Two helicopters collide and crash near Berlin's Olympic Stadium in Germany, killing the pilot of one helicopter and injuring four people. ](/news/2013/03/21/2013-berlin-helicopter-crash-two-helicopters-collide-and-crash-near-berlin-s-olympic-stadium-in-germany-killing-the-pilot-of-one-helicopte.md)
-_Context: 2013 Berlin helicopter crash, German, Berlin, Olympic Stadium_
+_Context: Berlin, 2013 Berlin helicopter crash, Olympic Stadium, German_
 
 ##### Nigeria
 ### [At least 45 people drown and 60 are missing after a boat carrying Nigerian migrants capsizes and sinks off shore from Libreville, Gabon. ](/news/2013/03/21/at-least-45-people-drown-and-60-are-missing-after-a-boat-carrying-nigerian-migrants-capsizes-and-sinks-off-shore-from-libreville-gabon.md)
@@ -41,15 +41,15 @@ Southern China has been warned to brace for more storms after extreme weather la
 
 ##### U.S. President
 ### [U.S. President Barack Obama, in a formal visit to Israel and the Palestinian territories, states that "Palestinians deserve a state of their own". ](/news/2013/03/21/u-s-president-barack-obama-in-a-formal-visit-to-israel-and-the-palestinian-territories-states-that-palestinians-deserve-a-state-of-their.md)
-_Context: U.S. President, Palestine, Israel, Palestinians, Barack Obama, Palestine, visit_
+_Context: Israel, Palestinians, Palestine, U.S. President, Palestine, Barack Obama, visit_
 
 ##### North Korea
 ### [North Korea threatens to attack American military bases in Japan in response to the use of nuclear-capable B-52 bombers in joint military drills with South Korea. ](/news/2013/03/21/north-korea-threatens-to-attack-american-military-bases-in-japan-in-response-to-the-use-of-nuclear-capable-b-52-bombers-in-joint-military-dr.md)
-_Context: North Korea, military drills, American B-52 strategic bomber, United States of America, South Korea, Japan_
+_Context: South Korea, American B-52 strategic bomber, United States of America, military drills, North Korea, Japan_
 
 ##### Muslim
 ### [A dispute between a Muslim gold shop owner and Buddhist sellers escalates into communal violence that leaves 10 people dead, 20 injured, and 4 mosques burnt to the ground in Myanmar. ](/news/2013/03/21/a-dispute-between-a-muslim-gold-shop-owner-and-buddhist-sellers-escalates-into-communal-violence-that-leaves-10-people-dead-20-injured-and.md)
-_Context: Muslim, communal violence, Myanmar, Buddhist, mosque_
+_Context: Myanmar, mosque, communal violence, Muslim, Buddhist_
 
 ##### India
 ### [India's Supreme Court sentences actor and politician Sanjay Dutt to 5 years in prison over illegal arms possession, related to the 1993 Mumbai bombings. The death sentence of Yakub Memon, convicted mastermind of the bombings, has been upheld. ](/news/2013/03/21/india-s-supreme-court-sentences-actor-and-politician-sanjay-dutt-to-5-years-in-prison-over-illegal-arms-possession-related-to-the-1993-mumb.md)
@@ -57,7 +57,7 @@ SC upheld the conviction of Sanjay Dutt in the Mumbai serial blasts case and sen
 
 ##### Nightclub
 ### [Seven people are shot and wounded at a nightclub in Chicago, Illinois, United States. ](/news/2013/03/21/seven-people-are-shot-and-wounded-at-a-nightclub-in-chicago-illinois-united-states.md)
-_Context: Chicago, nightclub, Illinois, United States_
+_Context: United States, Chicago, Illinois, nightclub_
 
 ##### BBC
 ### [Several BBC Twitter accounts are hacked including its Weather, Arabic and Radio Ulster feeds by a group calling itself the Syrian Electronic Army. ](/news/2013/03/21/several-bbc-twitter-accounts-are-hacked-including-its-weather-arabic-and-radio-ulster-feeds-by-a-group-calling-itself-the-syrian-electronic.md)
@@ -65,11 +65,11 @@ The BBC has become the latest victim of Twitter hackers as several of its feeds,
 
 ##### Shooting
 ### [The suspect wanted in connection with the shooting death of prison chief Tom Clements in Colorado, is believed to be the man that was killed in a shootout with deputies in Montague County, Texas, United States. A deputy was seriously injured in the shootout. ](/news/2013/03/21/the-suspect-wanted-in-connection-with-the-shooting-death-of-prison-chief-tom-clements-in-colorado-is-believed-to-be-the-man-that-was-killed.md)
-_Context: Colorado, shooting, United States, Montague County, Texas, shootout_
+_Context: shootout, United States, shooting, Texas, Colorado, Montague County_
 
 ##### Australian Labor Party
 ### [Leader of the Australian Labor Party Julia Gillard calls a spill for all leadership positions. ](/news/2013/03/21/leader-of-the-australian-labor-party-julia-gillard-calls-a-spill-for-all-leadership-positions.md)
-_Context: Julia Gillard, Australian Labor Party, a spill_
+_Context: a spill, Australian Labor Party, Julia Gillard_
 
 ##### Justin Welby
 ### [Justin Welby is formally enthroned as the new Archbishop of Canterbury. ](/news/2013/03/21/justin-welby-is-formally-enthroned-as-the-new-archbishop-of-canterbury.md)

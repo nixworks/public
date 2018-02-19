@@ -9,7 +9,7 @@ Russia has expanded its military operations in Syria to include a second airbase
 
 ##### Yemeni Civil War (2015)
 ### [Al-Qaeda militants seize control of Zinjibar, capital of Yemen's southern Abyan Governorate, as well as the town of Ja'ar, following fierce clashes with pro-Hadi government forces. ](/news/2015/12/2/al-qaeda-militants-seize-control-of-zinjibar-capital-of-yemen-s-southern-abyan-governorate-as-well-as-the-town-of-jae-ar-following-fierc.md)
-_Context: Abyan Governorate, Al-Qaeda insurgency in Yemen, Ja'ar, Yemeni Civil War (2015), al-Qaida, Yemen, Zinjibar, Abd Rabbuh Mansur Hadi_
+_Context: Al-Qaeda insurgency in Yemen, Yemen, Abyan Governorate, Zinjibar, al-Qaida, Abd Rabbuh Mansur Hadi, Ja'ar, Yemeni Civil War (2015)_
 
 ##### 2015 West African offensive
 ### [Cameroon's army, backed by a regional taskforce, has killed at least 100 members of the militant Islamist Boko Haram group and freed 900 people it had held hostage, the west African country's defence ministry has said. Regional taskforce conducts sweep along border with Nigeria. ](/news/2015/12/2/cameroonas-army-backed-by-a-regional-taskforce-has-killed-at-least-100-members-of-the-militant-islamist-boko-haram-group-and-freed-900-p.md)
@@ -41,11 +41,11 @@ NEW YORK, Dec. 2, 2015 /PRNewswire-USNewswire/ --&amp;#160;Not all air pollution
 
 ##### Japanese government
 ### [Hearings begin in the legal battle between the Japanese government and local officials in Okinawa over plans to move a U.S. military air base on the southern island. This fall, Okinawa Governor Takeshi Onaga revoked his predecessor's authorization for a US Marine Corps air base. ](/news/2015/12/2/hearings-begin-in-the-legal-battle-between-the-japanese-government-and-local-officials-in-okinawa-over-plans-to-move-a-u-s-military-air-bas.md)
-_Context: US Marine Corps air base, Takeshi Onaga, Okinawa, U.S. military air base, Japanese government_
+_Context: Japanese government, U.S. military air base, US Marine Corps air base, Takeshi Onaga, Okinawa_
 
 ##### Prime Minister
 ### [Thai Prime Minister Prayuth Chan-ocha orders officials to improve aviation safety standards after the U.S. Federal Aviation Administration (FAA) downgraded Thailand's safety ratings. The lower rating is for failure to tackle commercial aviation standards shortcomings found in an audit this year. The European Aviation Safety Agency is due to announce the results of its own audit later in December. ](/news/2015/12/2/thai-prime-minister-prayuth-chan-ocha-orders-officials-to-improve-aviation-safety-standards-after-the-u-s-federal-aviation-administration.md)
-_Context: United States, Prime Minister, Thailand, European Aviation Safety Agency, Prayuth Chan-ocha, aviation safety, Federal Aviation Administration_
+_Context: United States, Prime Minister, Thailand, Federal Aviation Administration, aviation safety, European Aviation Safety Agency, Prayuth Chan-ocha_
 
 ##### Enlargement of NATO
 ### [NATO Secretary General Jens Stoltenberg announces the invitation sent to Montenegro to join the military alliance, 16 years after the country, as part of the Federal Republic of Yugoslavia, was bombed by the alliance in the Kosovo War. Montenegro's accession would result in "retaliatory actions", according to a spokesman for Russian President Vladimir Putin. ](/news/2015/12/2/nato-secretary-general-jens-stoltenberg-announces-the-invitation-sent-to-montenegro-to-join-the-military-alliance-16-years-after-the-countr.md)
@@ -57,7 +57,7 @@ Russia is constructing hundreds of military buildings on two of the disputed Kur
 
 ##### Kosovo
 ### [Authorities arrest four Kosovo jihadists men, three in Italy and one in Kosovo, for making nonspecific threats against Pope Francis and the former U.S. Ambassador to Kosovo. The men are described by police as highly dangerous and as having celebrated the November 2015 Paris attacks. ](/news/2015/12/2/authorities-arrest-four-kosovo-jihadists-men-three-in-italy-and-one-in-kosovo-for-making-nonspecific-threats-against-pope-francis-and-the.md)
-_Context: Pope Francis, November 2015 Paris attacks, Italy, Kosovo_
+_Context: November 2015 Paris attacks, Italy, Pope Francis, Kosovo_
 
 ##### Yemen
 ### [Yemeni Prime Minister Khaled Bahah rejects a cabinet reshuffle ordered by President Abd Rabbuh Mansur Hadi, another sign of the deepening rift between the two leaders. These problems started in March after the president appointed the minister of health as acting foreign minister without consulting the prime minister. ](/news/2015/12/2/yemeni-prime-minister-khaled-bahah-rejects-a-cabinet-reshuffle-ordered-by-president-abd-rabbuh-mansur-hadi-another-sign-of-the-deepening-ri.md)
@@ -65,11 +65,11 @@ Yemeni Prime Minister Khaled Bahah rejected a cabinet reshuffle ordered on Tuesd
 
 ##### Myanmar general election, 2015
 ### [Myanmar's democracy icon Aung San Suu Kyi discusses the smooth transfer of power to her National League for Democracy (NLD) party with President Thein Sein, their first public meeting since the November election. The new administration will be sworn in early next year. ](/news/2015/12/2/myanmar-s-democracy-icon-aung-san-suu-kyi-discusses-the-smooth-transfer-of-power-to-her-national-league-for-democracy-nld-party-with-presi.md)
-_Context: Thein Sein, Myanmar, Myanmar's president's office, Myanmar general election, 2015, Aung San Suu Kyi, National League for Democracy_
+_Context: Myanmar's president's office, Thein Sein, National League for Democracy, Myanmar, Aung San Suu Kyi, Myanmar general election, 2015_
 
 ##### 2015 protests in Brazil
 ### [Brazil's lower house of Congress opens impeachment proceedings against President Dilma Rousseff over a corruption scandal involving the state-owned oil giant, Petrobras. ](/news/2015/12/2/brazil-s-lower-house-of-congress-opens-impeachment-proceedings-against-president-dilma-rousseff-over-a-corruption-scandal-involving-the-stat.md)
-_Context: 2015 protests in Brazil, president, Dilma Rousseff, Petrobras, Brazil, Brazil's Chamber of Deputies_
+_Context: Dilma Rousseff, Petrobras, 2015 protests in Brazil, Brazil, Brazil's Chamber of Deputies, president_
 
 ## [Previous Day...](/news/2015/12/1/index.md)
 

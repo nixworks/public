@@ -45,7 +45,7 @@ John Elferink is sacked as NT Corrections Minister in the wake of the damning Fo
 
 ##### President of South Sudan
 ### [The President of South Sudan, Salva Kiir, removes Riek Machar from his post as deputy leader and as vice president, and installs Taban Deng Gai in his place. ](/news/2016/07/26/the-president-of-south-sudan-salva-kiir-removes-riek-machar-from-his-post-as-deputy-leader-and-as-vice-president-and-installs-taban-deng.md)
-_Context: Riek Machar, Taban Deng Gai, President of South Sudan, vice president, Salva Kiir_
+_Context: President of South Sudan, vice president, Taban Deng Gai, Riek Machar, Salva Kiir_
 
 ##### 2016 Democratic National Convention
 ### [Hillary Clinton is nominated as the Democratic Party candidate for this year's presidential election. She becomes the first woman ever to be nominated for president by a major party in the United States.](/news/2016/07/26/hillary-clinton-is-nominated-as-the-democratic-party-candidate-for-this-year-s-presidential-election-she-becomes-the-first-woman-ever-to-be.md)

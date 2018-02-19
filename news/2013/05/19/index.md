@@ -9,11 +9,11 @@ Fierce fighting is reported in the strategic Syrian town of Qusair, as rebels an
 
 ##### Taylor Swift
 ### [Taylor Swift wins eight awards, including top album and top artist, at the Billboard Music Awards. ](/news/2013/05/19/taylor-swift-wins-eight-awards-including-top-album-and-top-artist-at-the-billboard-music-awards.md)
-_Context: Taylor Swift, Billboard Music Awards_
+_Context: Billboard Music Awards, Taylor Swift_
 
 ##### Star Trek Into Darkness
 ### ["Star Trek Into Darkness" earns an estimated US$70.6 million during its opening weekend in the US and Canada. ](/news/2013/05/19/star-trek-into-darkness-earns-an-estimated-us-70-6-million-during-its-opening-weekend-in-the-us-and-canada.md)
-_Context: Star Trek Into Darkness, US$_
+_Context: US$, Star Trek Into Darkness_
 
 ##### Tornado
 ### [At least one person is killed and a dozen injured after a series of tornadoes hits the US states of Oklahoma, Kansas, Iowa and Illinois. ](/news/2013/05/19/at-least-one-person-is-killed-and-a-dozen-injured-after-a-series-of-tornadoes-hits-the-us-states-of-oklahoma-kansas-iowa-and-illinois.md)
@@ -39,7 +39,7 @@ Nigel Wright, chief of staff of Canadian Prime Minister Stephen Harper, resigns 
 
 ##### Navy dolphins
 ### [US Navy dolphins find a rare nineteenth-century torpedo off the coast of California. ](/news/2013/05/19/us-navy-dolphins-find-a-rare-nineteenth-century-torpedo-off-the-coast-of-california.md)
-_Context: California, Navy dolphins, torpedo_
+_Context: Navy dolphins, torpedo, California_
 
 ## [Previous Day...](/news/2013/05/18/index.md)
 

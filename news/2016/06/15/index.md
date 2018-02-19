@@ -21,7 +21,7 @@ European commission says Turkey has not met conditions of possible deal includin
 
 ##### Ukraine-NATO relations
 ### [NATO's defense ministers agree to boost support for Ukraine with a "comprehensive package of assistance", which will help it strengthen defense and to modernize its armed forces. ](/news/2016/06/15/nato-s-defense-ministers-agree-to-boost-support-for-ukraine-with-a-comprehensive-package-of-assistance-which-will-help-it-strengthen-defe.md)
-_Context: Ukraine, Ukrainian military, NATO, Ukraine-NATO relations_
+_Context: Ukraine, NATO, Ukrainian military, Ukraine-NATO relations_
 
 ##### Israel-Palestine relations
 ### [Israel announces plans for construction of a three-story residential building for Jewish settlers in a Palestinian neighborhood of East Jerusalem. ](/news/2016/06/15/israel-announces-plans-for-construction-of-a-three-story-residential-building-for-jewish-settlers-in-a-palestinian-neighborhood-of-east-jeru.md)
@@ -45,11 +45,11 @@ A deal on legislation to ban gun sales to suspected terrorists still looks unlik
 
 ##### House of Commons
 ### [The Canadian House of Commons approves a bill to make the lyrics in the country's national anthem gender neutral. The bill would change the words in "O Canada" from "in all thy sons command" to "in all of us command." ](/news/2016/06/15/the-canadian-house-of-commons-approves-a-bill-to-make-the-lyrics-in-the-country-s-national-anthem-gender-neutral-the-bill-would-change-the.md)
-_Context: O Canada, House of Commons_
+_Context: House of Commons, O Canada_
 
 ##### Philadelphia
 ### [The Philadelphia, Pennsylvania, City Council approves a a 1.5-cent-per-ounce tax on sugar-sweetened and diet beverages, effective January 1, 2017. This the first so-called sugary drinks tax in a major U.S. city. ](/news/2016/06/15/the-philadelphia-pennsylvania-city-council-approves-a-a-1-5-cent-per-ounce-tax-on-sugar-sweetened-and-diet-beverages-effective-january-1.md)
-_Context: Philadelphia, United States, Pennsylvania, sugary drinks tax, City Council, sugar-sweetened and diet beverages_
+_Context: Philadelphia, sugar-sweetened and diet beverages, United States, sugary drinks tax, Pennsylvania, City Council_
 
 ##### Second detection
 ### [Scientists confirm a second detection of gravitational waves by LIGO. ](/news/2016/06/15/scientists-confirm-a-second-detection-of-gravitational-waves-by-ligo.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2008/08/15/index.html)  [JSON](2008/08/15/index.json)  [XML](200
 
 ##### ETS Europe
 ### [ ETS Europe, part of the American-owned Educational Testing Service, is sacked by the British government for bad failures in manipulating Key Stage education tests. ETS agrees to repay some GBP35 million (USD70 million). ](/news/2008/08/15/ets-europe-part-of-the-american-owned-educational-testing-service-is-sacked-by-the-british-government-for-bad-failures-in-manipulating-ke.md)
-_Context: Educational Testing Service, ETS Europe, Key Stage_
+_Context: Key Stage, ETS Europe, Educational Testing Service_
 
 ##### Constituent Assembly
 ### [ The Nepalese Constituent Assembly elects former Maoist rebel Prachanda as the first Prime Minister of Nepal as a republic. ](/news/2008/08/15/the-nepalese-constituent-assembly-elects-former-maoist-rebel-prachanda-as-the-first-prime-minister-of-nepal-as-a-republic.md)
@@ -13,11 +13,11 @@ Former Maoist rebel leader Prachanda has been elected as Nepal&#039;s first repu
 
 ##### Catholic Church
 ### [ Leftist former Catholic bishop Fernando Lugo is sworn in as the President of Paraguay, ending 60 years of one-party rule. ](/news/2008/08/15/leftist-former-catholic-bishop-fernando-lugo-is-sworn-in-as-the-president-of-paraguay-ending-60-years-of-one-party-rule.md)
-_Context: Paraguayan President, Fernando Lugo, Catholic Church_
+_Context: Catholic Church, Fernando Lugo, Paraguayan President_
 
 ##### President of Chad
 ### [ Former President Hissene Habre is sentenced to death "in absentia" by a Chadian court for a military assault on the capital. ](/news/2008/08/15/former-president-hissa-ne-habra-c-is-sentenced-to-death-in-absentia-by-a-chadian-court-for-a-military-assault-on-the-capital.md)
-_Context: President of Chad, Hissene Habre, Chad, military assault_
+_Context: Hissene Habre, military assault, President of Chad, Chad_
 
 ##### 
 ### [ Russia threatens Poland with military consequences for allowing the United States of America to place defense missiles within its borders. ](/news/2008/08/15/russia-threatens-poland-with-military-consequences-for-allowing-the-united-states-of-america-to-place-defense-missiles-within-its-borders.md)
@@ -27,7 +27,7 @@ The conflict may be over, but not the war of words. Moscow claims some Western n
 
 ##### 2008 Summer Olympics
 ### [ Michael Phelps of the United States wins his sixth gold medal of the Beijing Olympics in the men's 200 metres individual medley setting a new world record. ](/news/2008/08/15/michael-phelps-of-the-united-states-wins-his-sixth-gold-medal-of-the-beijing-olympics-in-the-menas-200-metres-individual-medley-setting-a.md)
-_Context: 2008 Summer Olympics, gold medal, Michael Phelps, United States_
+_Context: Michael Phelps, 2008 Summer Olympics, gold medal, United States_
 
 ##### Free Tibet
 ### [ Five people are arrested in Beijing after unfurling a "free Tibet" banner on the Central TV Tower, the highest building in Beijing. ](/news/2008/08/15/five-people-are-arrested-in-beijing-after-unfurling-a-free-tibet-banner-on-the-central-tv-tower-the-highest-building-in-beijing.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2011/12/25/index.html)  [JSON](2011/12/25/index.json)  [XML](201
 
 ##### Sudan
 ### [The Sudanese People's Armed Forces claim that the leader of the Justice and Equality Movement in Darfur, Khalil Ibrahim, has been killed. ](/news/2011/12/25/the-sudanese-people-s-armed-forces-claim-that-the-leader-of-the-justice-and-equality-movement-in-darfur-khalil-ibrahim-has-been-killed.md)
-_Context: Darfur, Justice and Equality Movement, Sudan People's Armed Forces, Khalil Ibrahim, Sudan_
+_Context: Khalil Ibrahim, Justice and Equality Movement, Sudan People's Armed Forces, Sudan, Darfur_
 
 ##### Series of attacks
 ### [At least 39 people are killed and many injured in a series of attacks against churches in Nigeria during Christmas prayers. The Islamic group Boko Haram claims responsibility. ](/news/2011/12/25/at-least-39-people-are-killed-and-many-injured-in-a-series-of-attacks-against-churches-in-nigeria-during-christmas-prayers-the-islamic-grou.md)
@@ -17,7 +17,7 @@ Opposition fears government is trying to crush uprising before Arab League obser
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI delivers the annual Christmas message at Saint Peter's Square in Vatican City. ](/news/2011/12/25/pope-benedict-xvi-delivers-the-annual-christmas-message-at-saint-peter-s-square-in-vatican-city.md)
-_Context: Saint Peter's Square, Christmas, Vatican City, Pope Benedict XVI_
+_Context: Vatican City, Pope Benedict XVI, Saint Peter's Square, Christmas_
 
 ##### Haiti
 ### [At least 38 migrants from Haiti are found dead after their boat sank off the east coast of Cuba. ](/news/2011/12/25/at-least-38-migrants-from-haiti-are-found-dead-after-their-boat-sank-off-the-east-coast-of-cuba.md)

@@ -13,7 +13,7 @@ The Nigerian Islamist sect Boko Haram is thought to have been behind a deadly si
 
 ##### Americans
 ### [American special effects innovator Ray Harryhausen dies at the age of 92. ](/news/2013/05/7/american-special-effects-innovator-ray-harryhausen-dies-at-the-age-of-92.md)
-_Context: special effects, Ray Harryhausen, Americans_
+_Context: Americans, special effects, Ray Harryhausen_
 
 ##### Americans
 ### [American As I Lay Dying frontman and lead vocalist Tim Lambesis is arrested on charges of attempting to hire a hitman. ](/news/2013/05/7/american-as-i-lay-dying-frontman-and-lead-vocalist-tim-lambesis-is-arrested-on-charges-of-attempting-to-hire-a-hitman.md)
@@ -21,15 +21,15 @@ Metal singer taken into custody Tuesday after allegedly soliciting an undercover
 
 ##### Bank of China
 ### [The Bank of China halts business with a North Korean bank accused by the United States of financing Pyongyang's missile and nuclear programs. ](/news/2013/05/7/the-bank-of-china-halts-business-with-a-north-korean-bank-accused-by-the-united-states-of-financing-pyongyang-s-missile-and-nuclear-programs.md)
-_Context: North Korea, Bank of China, North Korea's nuclear program, United States_
+_Context: United States, North Korea, North Korea's nuclear program, Bank of China_
 
 ##### Microsoft
 ### [Microsoft acknowledges and plans to address complaints with its Windows 8 operating system - changes will be available later this year. ](/news/2013/05/7/microsoft-acknowledges-and-plans-to-address-complaints-with-its-windows-8-operating-system-a-changes-will-be-available-later-this-year.md)
-_Context: Windows 8, Microsoft, operating system_
+_Context: operating system, Windows 8, Microsoft_
 
 ##### Reserve Bank of Australia
 ### [The Reserve Bank of Australia cuts its benchmark interest rate to 2.75%, down from 3.00%. ](/news/2013/05/7/the-reserve-bank-of-australia-cuts-its-benchmark-interest-rate-to-2-75-down-from-3-00.md)
-_Context: Reserve Bank of Australia, interest rate_
+_Context: interest rate, Reserve Bank of Australia_
 
 ##### Dow Jones Industrial Average
 ### [The Dow Jones Industrial Average closes above the 15,000 mark for the first time, setting a record. The S&P 500, up 0.5%, sets a record high as well. ](/news/2013/05/7/the-dow-jones-industrial-average-closes-above-the-15-000-mark-for-the-first-time-setting-a-record-the-s-p-500-up-0-5-sets-a-record-high.md)
@@ -57,7 +57,7 @@ Wild bears kill eight people within a week in the eastern Indian state of Orissa
 
 ##### Italy
 ### [The Italian cargo ship "Jolly Nero" crashes into the port of Genoa, destroying the traffic control tower. Seven people die, four are injured and at least two are missing. ](/news/2013/05/7/the-italian-cargo-ship-jolly-nero-crashes-into-the-port-of-genoa-destroying-the-traffic-control-tower-seven-people-die-four-are-injured.md)
-_Context: Italy, Genoa_
+_Context: Genoa, Italy_
 
 ##### India
 ### [India has the highest first day infant mortality rate in the world, according to a new study. ](/news/2013/05/7/india-has-the-highest-first-day-infant-mortality-rate-in-the-world-according-to-a-new-study.md)
@@ -65,7 +65,7 @@ More newborns die on the first day in India than in any other country, according
 
 ##### Alzheimer's
 ### [Alzheimer's drug Gammagard fails to produce results in a large-scale clinical trial. ](/news/2013/05/7/alzheimer-s-drug-gammagard-fails-to-produce-results-in-a-large-scale-clinical-trial.md)
-_Context: Alzheimer's, clinical trial, Gammagard_
+_Context: clinical trial, Gammagard, Alzheimer's_
 
 ##### Gonorrhea
 ### [A new strain of gonorrhea, HO41, is reported to be incurable and extremely virulent. ](/news/2013/05/7/a-new-strain-of-gonorrhea-ho41-is-reported-to-be-incurable-and-extremely-virulent.md)

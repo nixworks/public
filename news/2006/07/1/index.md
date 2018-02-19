@@ -17,11 +17,11 @@ _Context: Somalia, Al Qaeda, Osama Bin Laden_
 
 ##### United Nations Security Council
 ### [ The United Nations Security Council votes unanimously to withdraw the 3,500 peacekeeping troops who are currently in Burundi on December 31, despite the continuing activities of the National Liberation Force rebel group. ](/news/2006/07/1/the-united-nations-security-council-votes-unanimously-to-withdraw-the-3-500-peacekeeping-troops-who-are-currently-in-burundi-on-december-31.md)
-_Context: United Nations Security Council, peacekeeping troops, December 31, National Liberation Force, rebel, Burundi_
+_Context: Burundi, United Nations Security Council, peacekeeping troops, rebel, December 31, National Liberation Force_
 
 ##### Sadr City
 ### [ At least 60 people die from a car bomb in a market in Sadr City, a Shiite district of Baghdad. ](/news/2006/07/1/at-least-60-people-die-from-a-car-bomb-in-a-market-in-sadr-city-a-shiite-district-of-baghdad.md)
-_Context: Sadr City, Baghdad_
+_Context: Baghdad, Sadr City_
 
 ##### Qingzang railway
 ### [ The Qingzang railway is formally opened in the by Chinese President Hu Jintao. ](/news/2006/07/1/the-qingzang-railway-is-formally-opened-in-the-by-chinese-president-hu-jintao.md)

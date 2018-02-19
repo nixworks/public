@@ -9,7 +9,7 @@ The Dáil is debating emergency legislation to wind up the Irish Bank Resolution
 
 ##### John Malone
 ### [John Malone's Liberty Global acquires Virgin Media for $23 billion. ](/news/2013/02/6/john-malone-s-liberty-global-acquires-virgin-media-for-23-billion.md)
-_Context: Virgin Media, John Malone, Liberty Global_
+_Context: John Malone, Liberty Global, Virgin Media_
 
 ##### United States Postal Service
 ### [The United States Postal Service announces that it will no longer deliver first-class mail on Saturdays as of 5 August 2013. ](/news/2013/02/6/the-united-states-postal-service-announces-that-it-will-no-longer-deliver-first-class-mail-on-saturdays-as-of-5-august-2013.md)
@@ -21,7 +21,7 @@ STATE-RESCUED Royal Bank of Scotland says it will pay fines totalling $US612 mil
 
 ##### U.S.
 ### [The U.S. Securities and Exchange Commission hosts a roundtable in which experts and the representatives of affected industries discuss the consequences that decimalisation has had on the market for equity in the U.S., especially regarding small caps. ](/news/2013/02/6/the-u-s-securities-and-exchange-commission-hosts-a-roundtable-in-which-experts-and-the-representatives-of-affected-industries-discuss-the-c.md)
-_Context: Securities and Exchange Commission, small caps, roundtable, decimalisation, U.S., equity_
+_Context: decimalisation, U.S., roundtable, Securities and Exchange Commission, small caps, equity_
 
 ##### Tsunami
 ### [A tsunami warning is issued for a wide range of islands in the South Pacific after a magnitude 8.0 earthquake occurs off the coast of the Solomon Islands. ](/news/2013/02/6/a-tsunami-warning-is-issued-for-a-wide-range-of-islands-in-the-south-pacific-after-a-magnitude-8-0-earthquake-occurs-off-the-coast-of-the-so.md)
@@ -37,7 +37,7 @@ The prime minister said he would dissolve the Islamist-led government after a po
 
 ##### U.S. President
 ### [U.S. President Barack Obama nominates CEO of REI Sally Jewell to be the next Secretary of the Interior. ](/news/2013/02/6/u-s-president-barack-obama-nominates-ceo-of-rei-sally-jewell-to-be-the-next-secretary-of-the-interior.md)
-_Context: REI, U.S. President, Secretary of the Interior, Sally Jewell, CEO, Barack Obama_
+_Context: REI, U.S. President, CEO, Secretary of the Interior, Sally Jewell, Barack Obama_
 
 ## [Previous Day...](/news/2013/02/5/index.md)
 

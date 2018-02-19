@@ -25,7 +25,7 @@ It was 1939 and the Nazi menace threatened Europe. But while Britain clamoured f
 
 ##### Sir Arthur Conan Doyle
 ### [Sir Arthur Conan Doyle's house Undershaw, in which he wrote numerous Sherlock Holmes stories, is slated to be converted into apartments. ](/news/2010/08/19/sir-arthur-conan-doyle-s-house-undershaw-in-which-he-wrote-numerous-sherlock-holmes-stories-is-slated-to-be-converted-into-apartments.md)
-_Context: Sir Arthur Conan Doyle, Sherlock Holmes, Undershaw_
+_Context: Sherlock Holmes, Sir Arthur Conan Doyle, Undershaw_
 
 ##### Scots Makar
 ### [The Scots Makar (national poet) Edwin Morgan, a leading twentieth century poet, dies. ](/news/2010/08/19/the-scots-makar-national-poet-edwin-morgan-a-leading-twentieth-century-poet-dies.md)
@@ -41,11 +41,11 @@ The brightly coloured plastic vuvuzela has achieved its own form of immortality 
 
 ##### Israel
 ### [Two groups in Israel begin pro-Zionist courses in editing Wikipedia. ](/news/2010/08/19/two-groups-in-israel-begin-pro-zionist-courses-in-editing-wikipedia.md)
-_Context: Wikipedia, Israel_
+_Context: Israel, Wikipedia_
 
 ##### Foxconn
 ### [Foxconn states its intention to hire more workers following a rash of suicides among its workforce. ](/news/2010/08/19/foxconn-states-its-intention-to-hire-more-workers-following-a-rash-of-suicides-among-its-workforce.md)
-_Context: suicide, Foxconn_
+_Context: Foxconn, suicide_
 
 ##### Egg
 ### [An American egg company recalls 380 million products as outbreaks of "salmonella" poisoning spread across the United States. ](/news/2010/08/19/an-american-egg-company-recalls-380-million-products-as-outbreaks-of-salmonella-poisoning-spread-across-the-united-states.md)
@@ -73,7 +73,7 @@ A UN report says the Israeli army has increasingly restricted Palestinian access
 
 ##### France
 ### [France's government begins to deport thousands of Romani people, who are mainly from Romania and Bulgaria; Romania fears this will lead to xenophobic tensions. ](/news/2010/08/19/france-s-government-begins-to-deport-thousands-of-romani-people-who-are-mainly-from-romania-and-bulgaria-romania-fears-this-will-lead-to-x.md)
-_Context: Roma, Romania, xenophobic, Bulgaria, France_
+_Context: Bulgaria, xenophobic, Roma, France, Romania_
 
 ##### North Korea
 ### [North Korea confirms the seizure of a South Korean fishing boat two weeks ago, with four South Korean and three Chinese sailors on board. ](/news/2010/08/19/north-korea-confirms-the-seizure-of-a-south-korean-fishing-boat-two-weeks-ago-with-four-south-korean-and-three-chinese-sailors-on-board.md)
@@ -85,7 +85,7 @@ The Russian president Dmitry Medvedev laid a wreath at the memorial of the victi
 
 ##### Israeli Army
 ### [Four Israel Defense Forces naval commandos are arrested by Israeli Military Police for suspected theft of laptops and cell phones from activists during May's Gaza flotilla raid. ](/news/2010/08/19/four-israel-defense-forces-naval-commandos-are-arrested-by-israeli-military-police-for-suspected-theft-of-laptops-and-cell-phones-from-activ.md)
-_Context: Israeli Military Police, cell phone, laptop, Gaza flotilla raid, Israeli Army_
+_Context: laptop, cell phone, Israeli Army, Israeli Military Police, Gaza flotilla raid_
 
 ##### Sri Lanka
 ### [Former chief of the Sri Lankan armed forces Sarath Fonseka admits he expects to be jailed after being charged with corruption and believes the verdict has been decided in advance; Fonseka has been elected to the Sri Lankan parliament since the charges were pressed. ](/news/2010/08/19/former-chief-of-the-sri-lankan-armed-forces-sarath-fonseka-admits-he-expects-to-be-jailed-after-being-charged-with-corruption-and-believes-t.md)
@@ -121,7 +121,7 @@ Military-ruled Myanmar Thursday announced restrictions on campaigning for Novemb
 
 ##### Fields Medal
 ### [The Fields Medal is awarded to Elon Lindenstrauss, Ngo BGBPo Chau, Stanislav Smirnov and Cedric Villani at the 2010 International Congress of Mathematicians in Hyderabad, India. ](/news/2010/08/19/the-fields-medal-is-awarded-to-elon-lindenstrauss-nga-baogbpo-chac-u-stanislav-smirnov-and-ca-c-dric-villani-at-the-2010-international-congr.md)
-_Context: Cedric Villani, Hyderabad, Stanislav Smirnov, Ngo BGBPo Chau, International Congress of Mathematicians, Elon Lindenstrauss, Fields Medal_
+_Context: International Congress of Mathematicians, Elon Lindenstrauss, Stanislav Smirnov, Hyderabad, Cedric Villani, Ngo BGBPo Chau, Fields Medal_
 
 ## [Previous Day...](/news/2010/08/18/index.md)
 

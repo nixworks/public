@@ -5,7 +5,7 @@ Formats: [HTML](2014/01/18/index.html)  [JSON](2014/01/18/index.json)  [XML](201
 
 ##### Iran
 ### [An Iranian diplomat is killed in Yemen's capital Sana'a when he resisted gunmen who were trying to kidnap him near the ambassador's residence. ](/news/2014/01/18/an-iranian-diplomat-is-killed-in-yemen-s-capital-sana-a-when-he-resisted-gunmen-who-were-trying-to-kidnap-him-near-the-ambassador-s-residenc.md)
-_Context: Yemen, Sana'a, Iran_
+_Context: Iran, Yemen, Sana'a_
 
 ##### Russia
 ### [Seven suspected militants are killed by Russian security forces in a shootout near Makhachkala in Dagestan. ](/news/2014/01/18/seven-suspected-militants-are-killed-by-russian-security-forces-in-a-shootout-near-makhachkala-in-dagestan.md)
@@ -29,7 +29,7 @@ _Context: autopsy, Sunanda Pushkar, Shashi Tharoor, India_
 
 ##### Egyptian constitutional referendum, 2014
 ### [Egypt's election council claims that 98.1% of voters supported the new military-backed constitution with a 38.6% turnout. ](/news/2014/01/18/egypt-s-election-council-claims-that-98-1-of-voters-supported-the-new-military-backed-constitution-with-a-38-6-turnout.md)
-_Context: Egypt, Egyptian constitutional referendum, 2014, constitution, Egyptian military_
+_Context: constitution, Egypt, Egyptian constitutional referendum, 2014, Egyptian military_
 
 ## [Previous Day...](/news/2014/01/17/index.md)
 

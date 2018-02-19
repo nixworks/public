@@ -25,7 +25,7 @@ The U.S. contractors killed 14 unarmed Iraqis in Baghdad in 2007, one of the mos
 
 ##### Washington, D. C.
 ### [In Washington, D. C., Secret Service agents apprehend a White House north fence jumper. ](/news/2014/10/22/in-washington-d-c-secret-service-agents-apprehend-a-white-house-north-fence-jumper.md)
-_Context: White House, United States Secret Service, Washington, D. C._
+_Context: Washington, D. C., White House, United States Secret Service_
 
 ## [Previous Day...](/news/2014/10/21/index.md)
 

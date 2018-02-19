@@ -9,15 +9,15 @@ Bolivia has become the first country in the history of South America to declare 
 
 #####  Georgian
 ### [ Georgia accuses Russia of trying to seize more of its territory as the anniversary of the 2008 war between the two countries approaches. ](/news/2009/08/3/georgia-accuses-russia-of-trying-to-seize-more-of-its-territory-as-the-anniversary-of-the-2008-war-between-the-two-countries-approaches.md)
-_Context: 2008 South Ossetia war,  Georgian, Russia_
+_Context: Russia,  Georgian, 2008 South Ossetia war_
 
 ##### One of 6.9 magnitude
 ### [ Several earthquakes, including one of 6.9 magnitude, hit northwestern Mexico. ](/news/2009/08/3/several-earthquakes-including-one-of-6-9-magnitude-hit-northwestern-mexico.md)
-_Context: Mexico, one of 6.9 magnitude_
+_Context: one of 6.9 magnitude, Mexico_
 
 ##### Continental Airlines Flight 128
 ### [ Continental Airlines Flight 128, from Rio de Janeiro to Houston, makes an emergency landing in Miami after severe turbulence, injuring dozens. ](/news/2009/08/3/continental-airlines-flight-128-from-rio-de-janeiro-to-houston-makes-an-emergency-landing-in-miami-after-severe-turbulence-injuring-doze.md)
-_Context: Houston, Rio de Janeiro, Continental Airlines Flight 128, Miami_
+_Context: Rio de Janeiro, Miami, Houston, Continental Airlines Flight 128_
 
 ##### Haggis
 ### [ Evidence that haggis was invented by the English is unearthed. ](/news/2009/08/3/evidence-that-haggis-was-invented-by-the-english-is-unearthed.md)
@@ -37,11 +37,11 @@ Supreme Leader Ayatollah Ali Khamenei formally endorsed the second term presiden
 
 ##### Chifeng
 ### [ Water supplies in Chifeng, Inner Mongolia, China, are cut off to over 580,000 people after contaminants caused the hospitalization of 4,125 people due to gastrointestinal illness. ](/news/2009/08/3/water-supplies-in-chifeng-inner-mongolia-china-are-cut-off-to-over-580-000-people-after-contaminants-caused-the-hospitalization-of-4-125.md)
-_Context: Chifeng, gastrointestinal, Inner Mongolia, China_
+_Context: Inner Mongolia, Chifeng, gastrointestinal, China_
 
 ##### Qinghai
 ### [ A town in Qinghai, China, is sealed off after a second person dies of pneumonic plague. ](/news/2009/08/3/a-town-in-qinghai-china-is-sealed-off-after-a-second-person-dies-of-pneumonic-plague.md)
-_Context: Qinghai, pneumonic_
+_Context: pneumonic, Qinghai_
 
 ##### Somalia
 ### [ Somali pirates release a Malaysian tugboat with 11 Indonesian crew after being held for more than seven months. ](/news/2009/08/3/somali-pirates-release-a-malaysian-tugboat-with-11-indonesian-crew-after-being-held-for-more-than-seven-months.md)
@@ -53,7 +53,7 @@ Officials are reportedly considering a plan to move Guantanamo detainees to a sp
 
 ##### Australia
 ### [ An Australian radio show is axed and presenter Kyle Sandilands sacked from a television show after a lie detector stunt sees a 14-year-old girl say she was raped so her mother could claim Pink tickets. ](/news/2009/08/3/an-australian-radio-show-is-axed-and-presenter-kyle-sandilands-sacked-from-a-television-show-after-a-lie-detector-stunt-sees-a-14-year-old.md)
-_Context: Australia, Kyle Sandilands, P!nk, rape_
+_Context: P!nk, Kyle Sandilands, Australia, rape_
 
 ##### South Sudan
 ### [ 185 people are killed in tribal clashes in South Sudan. ](/news/2009/08/3/185-people-are-killed-in-tribal-clashes-in-south-sudan.md)
@@ -61,7 +61,7 @@ _Context: South Sudan_
 
 ##### Death penalty
 ### [ The death sentences of more than 4000 prisoners in Kenya are commuted to life imprisonment. ](/news/2009/08/3/the-death-sentences-of-more-than-4000-prisoners-in-kenya-are-commuted-to-life-imprisonment.md)
-_Context: Kenya, life imprisonment, death penalty_
+_Context: life imprisonment, death penalty, Kenya_
 
 ## [Previous Day...](/news/2009/08/2/index.md)
 

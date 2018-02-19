@@ -45,7 +45,7 @@ TEHRAN (Tasnim) – Iran’s Minister of Road and Urban Development Abbas Akhoun
 
 ##### Gorj County
 ### [A collision between two trains in Gorj County, Romania, leaves one dead and another in critical condition. ](/news/2016/11/29/a-collision-between-two-trains-in-gorj-county-romania-leaves-one-dead-and-another-in-critical-condition.md)
-_Context: Romania, Gorj County_
+_Context: Gorj County, Romania_
 
 ##### Gatlinburg, Tennessee
 ### [Gatlinburg, Tennessee, is evacuated as wildfires approach the city. Widespread property damage is reported. ](/news/2016/11/29/gatlinburg-tennessee-is-evacuated-as-wildfires-approach-the-city-widespread-property-damage-is-reported.md)
@@ -61,7 +61,7 @@ POLAND-MINERS/ (UPDATE 1):UPDATE 1-Rescuers searching for miners trapped after q
 
 ##### 2016 Ohio State University attack
 ### [Law enforcement officials believed Abdul Razak Ali Artan, the perpetrator of a car ramming and stabbing attack at Ohio State University (OSU)'s Watts Hall, was inspired by terrorist propaganda from the Islamic State of Iraq and the Levant, and radical Muslim cleric Anwar al-Awlaki. ](/news/2016/11/29/law-enforcement-officials-believed-abdul-razak-ali-artan-the-perpetrator-of-a-car-ramming-and-stabbing-attack-at-ohio-state-university-osu.md)
-_Context: ISIL, Watts Hall, Anwar al-Awlaki, 2016 Ohio State University attack, Ohio State University_
+_Context: ISIL, Anwar al-Awlaki, Watts Hall, 2016 Ohio State University attack, Ohio State University_
 
 ##### Susan Kiefel
 ### [Susan Kiefel is appointed by Australian Prime Minister Malcolm Turnbull as the next Chief Justice of Australia. She will be sworn in at the end of January next year, and will become Australia's first female Chief Justice. ](/news/2016/11/29/susan-kiefel-is-appointed-by-australian-prime-minister-malcolm-turnbull-as-the-next-chief-justice-of-australia-she-will-be-sworn-in-at-the.md)

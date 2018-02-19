@@ -9,15 +9,15 @@ _Context: Greece, Portugal, Euro 2004_
 
 ##### New York
 ### [ In New York City, groundbreaking takes place at the site of One World Trade Center, due to be completed in 2013. ](/news/2004/07/4/in-new-york-city-groundbreaking-takes-place-at-the-site-of-one-world-trade-center-due-to-be-completed-in-2013.md)
-_Context: One World Trade Center, New York_
+_Context: New York, One World Trade Center_
 
 ##### Polio
 ### [ Polio spreads across Nigeria and ten other African nations after vaccinations are suspended in Kano province, on rumors that the vaccine was adulterated to cause infertility and AIDS. ](/news/2004/07/4/polio-spreads-across-nigeria-and-ten-other-african-nations-after-vaccinations-are-suspended-in-kano-province-on-rumors-that-the-vaccine-wa.md)
-_Context: Kano, infertility, AIDS, Nigeria, Polio_
+_Context: AIDS, Polio, Kano, infertility, Nigeria_
 
 ##### Roger Federer
 ### [ Roger Federer wins the men's Wimbledon championship for the second straight year, defeating Andy Roddick in four sets. ](/news/2004/07/4/roger-federer-wins-the-men-s-wimbledon-championship-for-the-second-straight-year-defeating-andy-roddick-in-four-sets.md)
-_Context: Roger Federer, Wimbledon, Andy Roddick_
+_Context: Roger Federer, Andy Roddick, Wimbledon_
 
 ## [Previous Day...](/news/2004/07/3/index.md)
 

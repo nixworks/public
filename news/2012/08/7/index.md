@@ -21,7 +21,7 @@ Two gunmen sprayed the windowless sanctuary Monday night with fire from Kalashni
 
 ##### Tuareg rebellion (2012)
 ### [Tuareg rebellion (2012): Burkina Faso's foreign minister Djibrill Bassole visits fighters linked to Al-Qaeda in northern Mali in an attempt to solve an ongoing crisis. ](/news/2012/08/7/tuareg-rebellion-2012-burkina-faso-s-foreign-minister-djibrill-bassole-visits-fighters-linked-to-al-qaeda-in-northern-mali-in-an-attempt.md)
-_Context: Burkina Faso, Mali, Djibrill Bassole, al-Qaeda, Tuareg rebellion (2012)_
+_Context: Mali, Djibrill Bassole, Tuareg rebellion (2012), Burkina Faso, al-Qaeda_
 
 ##### Philippines
 ### [Flooding in the Philippines capital Manila forces at least 20,000 people to flee their homes with the death toll after eight days of heavy rain throughout the country reaching 53. ](/news/2012/08/7/flooding-in-the-philippines-capital-manila-forces-at-least-20-000-people-to-flee-their-homes-with-the-death-toll-after-eight-days-of-heavy-r.md)
@@ -29,11 +29,11 @@ _Context: Manila, Philippines_
 
 ##### China
 ### [The People's Republic of China evacuates 200,000 people from Shanghai ahead of Typhoon Haikui which is expected to make landfall in Zhejiang early tonight or tomorrow morning. ](/news/2012/08/7/the-people-s-republic-of-china-evacuates-200-000-people-from-shanghai-ahead-of-typhoon-haikui-which-is-expected-to-make-landfall-in-zhejiang.md)
-_Context: Shanghai, Zhejiang, China, Typhoon_
+_Context: Shanghai, Zhejiang, Typhoon, China_
 
 ##### Malaysia
 ### [Police in Malaysia detain eight people after a toddler reportedly dies during a 20 hour exorcism ritual. ](/news/2012/08/7/police-in-malaysia-detain-eight-people-after-a-toddler-reportedly-dies-during-a-20-hour-exorcism-ritual.md)
-_Context: exorcism, Malaysia_
+_Context: Malaysia, exorcism_
 
 ##### Disappearance of Tia Sharp
 ### [Investigators probing the disappearance of Tia Sharp find CCTV film of the missing girl. ](/news/2012/08/7/investigators-probing-the-disappearance-of-tia-sharp-find-cctv-film-of-the-missing-girl.md)
@@ -41,7 +41,7 @@ The stepfather of missing schoolgirl Tia Sharp says the family is &quot;in bits&
 
 ##### Tibet
 ### [A Tibetan man sets himself on fire in Sichuan, in the latest in a series of protests against Chinese rule. ](/news/2012/08/7/a-tibetan-man-sets-himself-on-fire-in-sichuan-in-the-latest-in-a-series-of-protests-against-chinese-rule.md)
-_Context: Sichuan, Tibet, Chinese_
+_Context: Tibet, Sichuan, Chinese_
 
 ## [Previous Day...](/news/2012/08/6/index.md)
 

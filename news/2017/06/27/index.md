@@ -33,7 +33,7 @@ U.S. Senate Republican leaders postponed a vote on a healthcare overhaul on Tues
 
 ##### Political appointments of Donald Trump
 ### [The White House announces that President Trump plans to nominate Textron Systems Chief Executive Ellen Lord for Under Secretary of Defense for Acquisition, Technology and Logistics. Textron Systems is a defense contractor. ](/news/2017/06/27/the-white-house-announces-that-president-trump-plans-to-nominate-textron-systems-chief-executive-ellen-lord-for-under-secretary-of-defense-f.md)
-_Context: Political appointments of Donald Trump, Textron Systems, Under Secretary of Defense for Acquisition, Technology and Logistics_
+_Context: Textron Systems, Political appointments of Donald Trump, Under Secretary of Defense for Acquisition, Technology and Logistics_
 
 ##### Social networking service
 ### [Facebook, Inc. announces that its social media service now has 2 billion regular users, more than a quarter of the world's population. Twitter, by comparison, has 328 million users as of April 2017. ](/news/2017/06/27/facebook-inc-announces-that-its-social-media-service-now-has-2-billion-regular-users-more-than-a-quarter-of-the-world-s-population-twitt.md)

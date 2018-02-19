@@ -5,7 +5,7 @@ Formats: [HTML](2008/12/14/index.html)  [JSON](2008/12/14/index.json)  [XML](200
 
 ##### Ferry
 ### [ At least 28 people are dead and 22 missing after the ferry "Maejan" capsizes in the northern Philippines. ](/news/2008/12/14/at-least-28-people-are-dead-and-22-missing-after-the-ferry-maejan-capsizes-in-the-northern-philippines.md)
-_Context: ferry, Philippines_
+_Context: Philippines, ferry_
 
 ##### Minya, Egypt
 ### [ A bus crash in Minya, Egypt, kills 57 people. ](/news/2008/12/14/a-bus-crash-in-minya-egypt-kills-57-people.md)
@@ -17,11 +17,11 @@ Turkmenistan votes on Sunday in a snap parliamentary election touted by the gove
 
 ##### Uganda
 ### [ Uganda, Democratic Republic of the Congo, and Southern Sudan launch an operation against the Lord's Resistance Army insurgency in the DRC's Garamba National Park. ](/news/2008/12/14/uganda-democratic-republic-of-the-congo-and-southern-sudan-launch-an-operation-against-the-lord-s-resistance-army-insurgency-in-the-drc-s.md)
-_Context: 2008 Garamba offensive, Lord's Resistance Army insurgency, Garamba National Park, Southern Sudan, DR Congo, Uganda, Lord's Resistance Army_
+_Context: Southern Sudan, Uganda, Lord's Resistance Army, Lord's Resistance Army insurgency, Garamba National Park, 2008 Garamba offensive, DR Congo_
 
 ##### Al-Baghdadia TV
 ### [ Al-Baghdadia TV journalist Muntadhar al Zaidi is subdued after throwing both his shoes at United States President George W. Bush during his farewell speech in Iraq. ](/news/2008/12/14/al-baghdadia-tv-journalist-muntadhar-al-zaidi-is-subdued-after-throwing-both-his-shoes-at-united-states-president-george-w-bush-during-his.md)
-_Context: United States, Al-Baghdadia TV, U.S. President, Muntadhar al Zaidi, throws a shoe, Iraq, George W. Bush_
+_Context: Muntadhar al Zaidi, Al-Baghdadia TV, Iraq, United States, throws a shoe, U.S. President, George W. Bush_
 
 ## [Previous Day...](/news/2008/12/13/index.md)
 

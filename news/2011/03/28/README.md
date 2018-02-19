@@ -9,15 +9,15 @@ Syrian forces fired into the air on Monday to disperse a pro-democracy protest i
 
 ##### Alassane Ouattara
 ### [Rebel forces loyal to presidential claimant Alassane Ouattara seize the town of Duekoue in western Cote d'Ivoire from government forces. ](/news/2011/03/28/rebel-forces-loyal-to-presidential-claimant-alassane-ouattara-seize-the-town-of-dua-c-koua-c-in-western-ca-te-d-ivoire-from-government-forces.md)
-_Context: Cote d'Ivoire, Duekoue, Alassane Ouattara_
+_Context: Alassane Ouattara, Cote d'Ivoire, Duekoue_
 
 ##### Car bomb
 ### [A car bomb attack on a construction company in Afghanistan's Paktika Province kills at least 13 people and injures another fifty. ](/news/2011/03/28/a-car-bomb-attack-on-a-construction-company-in-afghanistan-s-paktika-province-kills-at-least-13-people-and-injures-another-fifty.md)
-_Context: car bomb, Afghan, Paktika Province_
+_Context: Paktika Province, Afghan, car bomb_
 
 ##### Russia
 ### [Seventeen militants and three Russian security force members die in fighting in Ingushetia while two suspects in the Domodedovo International Airport bombing are arrested. ](/news/2011/03/28/seventeen-militants-and-three-russian-security-force-members-die-in-fighting-in-ingushetia-while-two-suspects-in-the-domodedovo-internationa.md)
-_Context: Russia, Domodedovo International Airport bombing, Ingushetia_
+_Context: Russia, Ingushetia, Domodedovo International Airport bombing_
 
 ##### Brain
 ### [A 2,500-year-old preserved human brain dating from the Iron Age is found in Heslington in the English city of York. ](/news/2011/03/28/a-2-500-year-old-preserved-human-brain-dating-from-the-iron-age-is-found-in-heslington-in-the-english-city-of-york.md)
@@ -25,19 +25,19 @@ A 2,500-year-old human skull uncovered in England was less of a surprise than wh
 
 ##### Qatar
 ### [Qatar recognizes Libyan rebels as the representative of the Libyan people, after a deal to market crude oil. ](/news/2011/03/28/qatar-recognizes-libyan-rebels-as-the-representative-of-the-libyan-people-after-a-deal-to-market-crude-oil.md)
-_Context: crude oil, Qatar, National Transitional Council_
+_Context: Qatar, National Transitional Council, crude oil_
 
 ##### Volkswagen
 ### [Volkswagen recalls 71000 2011 model Jetta sedans due to a wiring problem. ](/news/2011/03/28/volkswagen-recalls-71000-2011-model-jetta-sedans-due-to-a-wiring-problem.md)
-_Context: Jetta, sedans, Volkswagen_
+_Context: sedans, Jetta, Volkswagen_
 
 ##### Fukushima I nuclear accidents
 ### [Radioactive seawater from the accidents travels further from the Fukushima I Nuclear Power Plant. ](/news/2011/03/28/radioactive-seawater-from-the-accidents-travels-further-from-the-fukushima-i-nuclear-power-plant.md)
-_Context: Fukushima I nuclear accidents, Fukushima I Nuclear Power Plant_
+_Context: Fukushima I Nuclear Power Plant, Fukushima I nuclear accidents_
 
 ##### IAEA
 ### [The International Atomic Energy Agency calls a summit in Vienna to tackle concerns about nuclear safety following the Fukushima crisis. ](/news/2011/03/28/the-international-atomic-energy-agency-calls-a-summit-in-vienna-to-tackle-concerns-about-nuclear-safety-following-the-fukushima-crisis.md)
-_Context: Vienna, IAEA, Fukushima Daiichi nuclear disaster_
+_Context: Fukushima Daiichi nuclear disaster, IAEA, Vienna_
 
 ##### Ethiopian
 ### [More than 500 Ethiopian and Somalian migrants arrive in Malta from Libya. ](/news/2011/03/28/more-than-500-ethiopian-and-somalian-migrants-arrive-in-malta-from-libya.md)
@@ -61,11 +61,11 @@ _Context: parliamentary elections, Egypt_
 
 ##### Barry O'Farrell
 ### [Barry O'Farrell is sworn as the Premier of the Australian state of New South Wales following Saturday's state election. ](/news/2011/03/28/barry-o-farrell-is-sworn-as-the-premier-of-the-australian-state-of-new-south-wales-following-saturday-s-state-election.md)
-_Context: Barry O'Farrell, NSW, state election, Australia, Premier_
+_Context: state election, Premier, Barry O'Farrell, NSW, Australia_
 
 ##### Governor
 ### [The Governor of the US state of Michigan Rick Snyder signs legislation lowering the period that jobless workers can claim state unemployment benefits from 26 weeks to 20 weeks. ](/news/2011/03/28/the-governor-of-the-us-state-of-michigan-rick-snyder-signs-legislation-lowering-the-period-that-jobless-workers-can-claim-state-unemployment.md)
-_Context: Governor, Rick Snyder, unemployment benefits, Mich._
+_Context: Governor, Mich., unemployment benefits, Rick Snyder_
 
 ## [Previous Day...](/news/2011/03/27/index.md)
 

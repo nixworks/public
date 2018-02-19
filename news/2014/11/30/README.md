@@ -9,7 +9,7 @@ _Context: Raqqa, ISIL, Coalition forces_
 
 ##### Colombian conflict
 ### [FARC releases Colombian Army general Ruben Alzate and two of their other prisoners. ](/news/2014/11/30/farc-releases-colombian-army-general-ruba-c-n-alzate-and-two-of-their-other-prisoners.md)
-_Context: FARC, Colombian conflict, Colombian Army_
+_Context: Colombian Army, Colombian conflict, FARC_
 
 ##### South of France
 ### [Heavy flooding in the south of France claims five lives and forces more than 3000 people to leave their homes. ](/news/2014/11/30/heavy-flooding-in-the-south-of-france-claims-five-lives-and-forces-more-than-3000-people-to-leave-their-homes.md)
@@ -17,11 +17,11 @@ The worst flooding in years in southern France has claimed five lives and forced
 
 ##### Simon Wiesenthal Center
 ### [The Simon Wiesenthal Center presumes that Nazi war criminal Alois Brunner, former assistant to Adolf Eichmann, is dead. ](/news/2014/11/30/the-simon-wiesenthal-center-presumes-that-nazi-war-criminal-alois-brunner-former-assistant-to-adolf-eichmann-is-dead.md)
-_Context: Adolf Eichmann, Alois Brunner, Nazi war criminal, Simon Wiesenthal Center_
+_Context: Alois Brunner, Nazi war criminal, Simon Wiesenthal Center, Adolf Eichmann_
 
 ##### Uruguayan general election
 ### [Voters in Uruguay go to the polls for the second round of voting in the presidential election with former President Tabare Vazquez of the ruling Broad Front winning another term in government. ](/news/2014/11/30/voters-in-uruguay-go-to-the-polls-for-the-second-round-of-voting-in-the-presidential-election-with-former-president-tabara-c-va-zquez-of-the.md)
-_Context: Uruguayan general election, Broad Front, President, Tabare Vazquez, Uruguay_
+_Context: Uruguayan general election, Tabare Vazquez, Broad Front, Uruguay, President_
 
 ##### Swiss immigration referendum
 ### [By 74% voters in Switzerland reject the proposal to reduce immigration from about 80,000 to 16,000 people a year. ](/news/2014/11/30/by-74-voters-in-switzerland-reject-the-proposal-to-reduce-immigration-from-about-80-000-to-16-000-people-a-year.md)

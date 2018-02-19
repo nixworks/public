@@ -5,31 +5,31 @@ Formats: [HTML](2005/01/21/index.html)  [JSON](2005/01/21/index.json)  [XML](200
 
 ##### Belize
 ### [ In Belize, the unrest continues for a second day. Water has been cut and government buildings have been torched. ](/news/2005/01/21/in-belize-the-unrest-continues-for-a-second-day-water-has-been-cut-and-government-buildings-have-been-torched.md)
-_Context: Belize, unrest_
+_Context: unrest, Belize_
 
 ##### Palestinian Authority
 ### [ The Palestinian Authority redeploys paramilitary police in Gaza for the first time since the outbreak of the Al-Aqsa Intifada. ](/news/2005/01/21/the-palestinian-authority-redeploys-paramilitary-police-in-gaza-for-the-first-time-since-the-outbreak-of-the-al-aqsa-intifada.md)
-_Context: Gaza Strip, Palestinian Authority, Al-Aqsa Intifada_
+_Context: Al-Aqsa Intifada, Gaza Strip, Palestinian Authority_
 
 ##### B15A
 ### [ B15A, the world's largest iceberg with 160 km length, seems to have run aground in Antarctica, threatening to cut off supply ships for a number of scientific research stations and to starve tens of thousands of penguins. ](/news/2005/01/21/b15a-the-world-s-largest-iceberg-with-160-km-length-seems-to-have-run-aground-in-antarctica-threatening-to-cut-off-supply-ships-for-a-nu.md)
-_Context: iceberg, B15A, Antarctica_
+_Context: B15A, iceberg, Antarctica_
 
 ##### Denmark
 ### [ 5 Danish troops, including an army intelligence officer, have been charged with mistreating Iraqi prisoners in southern Iraq last year. ](/news/2005/01/21/5-danish-troops-including-an-army-intelligence-officer-have-been-charged-with-mistreating-iraqi-prisoners-in-southern-iraq-last-year.md)
-_Context: Denmark, Iraq_
+_Context: Iraq, Denmark_
 
 ##### Lucerne
 ### [ In Lucerne, Switzerland, a trial opens against a nurse accused of killing 24 patients. ](/news/2005/01/21/in-lucerne-switzerland-a-trial-opens-against-a-nurse-accused-of-killing-24-patients.md)
-_Context: Switzerland, Lucerne_
+_Context: Lucerne, Switzerland_
 
 ##### Italy
 ### [ The Italian government condemns the destruction of an Italian cemetery in Mogadishu, Somalia. Local militia wanted to clear the area for a base. ](/news/2005/01/21/the-italian-government-condemns-the-destruction-of-an-italian-cemetery-in-mogadishu-somalia-local-militia-wanted-to-clear-the-area-for-a.md)
-_Context: Mogadishu, Somalia, Italy_
+_Context: Somalia, Italy, Mogadishu_
 
 ##### People smuggling
 ### [ Italian police have arrested number of people connected to smuggling of illegal immigrants from Libya. ](/news/2005/01/21/italian-police-have-arrested-number-of-people-connected-to-smuggling-of-illegal-immigrants-from-libya.md)
-_Context: illegal immigrant, Libya, people smuggling_
+_Context: Libya, illegal immigrant, people smuggling_
 
 ##### Chile
 ### [ Chilean judge Sergio Munoz intends to launch an international investigation for secret bank accounts of Augusto Pinochet. ](/news/2005/01/21/chilean-judge-sergio-munoz-intends-to-launch-an-international-investigation-for-secret-bank-accounts-of-augusto-pinochet.md)
@@ -45,7 +45,7 @@ The Moscow Times offers everything you need to know about Russia: breaking news,
 
 ##### France
 ### [ France extradites Holger Pfahls, former German deputy defence minister suspected of corruption. ](/news/2005/01/21/france-extradites-holger-pfahls-former-german-deputy-defence-minister-suspected-of-corruption.md)
-_Context: extradition, Holger Pfahls, anti-corruption, France_
+_Context: anti-corruption, France, extradition, Holger Pfahls_
 
 ## [Previous Day...](/news/2005/01/20/index.md)
 

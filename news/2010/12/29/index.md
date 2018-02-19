@@ -5,11 +5,11 @@ Formats: [HTML](2010/12/29/index.html)  [JSON](2010/12/29/index.json)  [XML](201
 
 ##### South Thailand insurgency
 ### [South Thailand insurgency: Seven people are injured in a bomb attack in southern Thailand by suspected Islamist insurgents. ](/news/2010/12/29/south-thailand-insurgency-seven-people-are-injured-in-a-bomb-attack-in-southern-thailand-by-suspected-islamist-insurgents.md)
-_Context: Thailand, South Thailand insurgency_
+_Context: South Thailand insurgency, Thailand_
 
 ##### Nigerian Sharia conflict
 ### [Nigerian Sharia conflict: Three people are killed by Islamist group Boko Haram in northeastern Nigeria, in the latest in a number of attacks. ](/news/2010/12/29/nigerian-sharia-conflict-three-people-are-killed-by-islamist-group-boko-haram-in-northeastern-nigeria-in-the-latest-in-a-number-of-attacks.md)
-_Context: Islamist, Boko Haram, Nigeria, Nigerian Sharia conflict_
+_Context: Nigerian Sharia conflict, Islamist, Boko Haram, Nigeria_
 
 ##### Mexican Drug War
 ### [Mexican Drug War: The Mexican Los Zetas drug cartel threatens to launch a war in northern Guatemala where the government declared a "state of siege". ](/news/2010/12/29/mexican-drug-war-the-mexican-los-zetas-drug-cartel-threatens-to-launch-a-war-in-northern-guatemala-where-the-government-declared-a-state-o.md)
@@ -25,19 +25,19 @@ The number of Iraqi civilians killed in violence in Iraq this year fell to its l
 
 ##### Protests
 ### [2010 Tunisian protests: People ignore threats of "firm" punishment from Tunisian President Zine El Abidine Ben Ali and continue to protest over unemployment and poor living conditions. ](/news/2010/12/29/2010-tunisian-protests-people-ignore-threats-of-firm-punishment-from-tunisian-president-zine-el-abidine-ben-ali-and-continue-to-protest-o.md)
-_Context: Tunisia, protests, Zine El Abidine Ben Ali, President_
+_Context: Zine El Abidine Ben Ali, protests, Tunisia, President_
 
 ##### Minimum wage
 ### [The minimum wage in the Chinese capital Beijing is raised by 20% for the second time in six months, amid rising food costs. ](/news/2010/12/29/the-minimum-wage-in-the-chinese-capital-beijing-is-raised-by-20-for-the-second-time-in-six-months-amid-rising-food-costs.md)
-_Context: Beijing, China, minimum wage_
+_Context: minimum wage, Beijing, China_
 
 ##### Vietnam
 ### [12 Vietnamese sailors are missing after a cargo ship sinks in the South China Sea. 11 other crew were rescued. ](/news/2010/12/29/12-vietnamese-sailors-are-missing-after-a-cargo-ship-sinks-in-the-south-china-sea-11-other-crew-were-rescued.md)
-_Context: South China Sea, Vietnam_
+_Context: Vietnam, South China Sea_
 
 ##### Antonov An-22
 ### [An Antonov An-22 cargo plane crashes during training in Russia's Tula region, killing 12 crew. ](/news/2010/12/29/an-antonov-an-22-cargo-plane-crashes-during-training-in-russia-s-tula-region-killing-12-crew.md)
-_Context: Tula region, Antonov An-22, Russia_
+_Context: Antonov An-22, Russia, Tula region_
 
 ##### United Nations Security Council
 ### [A proposed draft resolution calling on the United Nations Security Council to criticise the construction of settlements by Israel is obtained by the Associated Press. ](/news/2010/12/29/a-proposed-draft-resolution-calling-on-the-united-nations-security-council-to-criticise-the-construction-of-settlements-by-israel-is-obtaine.md)
@@ -49,15 +49,15 @@ A letter published by a group of rabbis in Israel has sparked calls for their di
 
 ##### United States
 ### [The United States revokes the visa for Bernardo Alvarez Herrera, the Venezuelan ambassador to the country. ](/news/2010/12/29/the-united-states-revokes-the-visa-for-bernardo-alvarez-herrera-the-venezuelan-ambassador-to-the-country.md)
-_Context: Bernardo Alvarez Herrera, visa-free travel, United States_
+_Context: Bernardo Alvarez Herrera, United States, visa-free travel_
 
 ##### Cote d'Ivoire
 ### [Cote d'Ivoire President Laurent Gbagbo refuses to step down after a meeting with other African leaders. ](/news/2010/12/29/ca-te-d-ivoire-president-laurent-gbagbo-refuses-to-step-down-after-a-meeting-with-other-african-leaders.md)
-_Context: Laurent Gbagbo, Africa, President, Cote d'Ivoire_
+_Context: Cote d'Ivoire, Africa, President, Laurent Gbagbo_
 
 ##### Thailand
 ### [Seven Thais, including a MP, are arrested after illegally crossing the border into Cambodia. ](/news/2010/12/29/seven-thais-including-a-mp-are-arrested-after-illegally-crossing-the-border-into-cambodia.md)
-_Context: MP, Thailand, Cambodia_
+_Context: Thailand, MP, Cambodia_
 
 ##### Cuba
 ### [Cuba commutes the last remaining death sentence on the island. ](/news/2010/12/29/cuba-commutes-the-last-remaining-death-sentence-on-the-island.md)
@@ -69,7 +69,7 @@ _Context: Angola, Togo national football team attack_
 
 ##### Colombian President
 ### [President of Colombia Juan Manuel Santos announces the death of Pedro Guerrero, one of the country's most wanted men who was killed in a gunbattle with police while he celebrated Christmas. ](/news/2010/12/29/president-of-colombia-juan-manuel-santos-announces-the-death-of-pedro-guerrero-one-of-the-country-s-most-wanted-men-who-was-killed-in-a-gun.md)
-_Context: Christmas, Juan Manuel Santos, Colombian President, Pedro Guerrero_
+_Context: Pedro Guerrero, Christmas, Colombian President, Juan Manuel Santos_
 
 ##### Ikililou Dhoinine
 ### [Ikililou Dhoinine is elected president by residents of the Comoros Islands. ](/news/2010/12/29/ikililou-dhoinine-is-elected-president-by-residents-of-the-comoros-islands.md)

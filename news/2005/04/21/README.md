@@ -5,7 +5,7 @@ Formats: [HTML](2005/04/21/index.html)  [JSON](2005/04/21/index.json)  [XML](200
 
 ##### Iran
 ### [ 400 Iranian volunteers sign up to sacrifice their lives in "occupied Islamic countries", particularly Israel, after being inspired by a fatwa from a top hardline cleric giving religious backing to suicide missions. ](/news/2005/04/21/400-iranian-volunteers-sign-up-to-sacrifice-their-lives-in-occupied-islamic-countries-particularly-israel-after-being-inspired-by-a-fat.md)
-_Context: Islam, fatwa, Iran, suicide bombings, cleric, Israel_
+_Context: Iran, Israel, Islam, cleric, suicide bombings, fatwa_
 
 ##### United States
 ### [ American, French and Israeli naval forces rescue three Syrian and Egyptian sailors from a North Korean ship that sank in international waters off the coast of Nahariya. ](/news/2005/04/21/american-french-and-israeli-naval-forces-rescue-three-syrian-and-egyptian-sailors-from-a-north-korean-ship-that-sank-in-international-wate.md)
@@ -13,27 +13,27 @@ Sinking ship summons Israeli, American, French forces; three rescued, four still
 
 ##### American Israel Public Affairs Committee
 ### [ The American Israel Public Affairs Committee (AIPAC) fires two members suspected of passing on U.S. secrets to Israel. ](/news/2005/04/21/the-american-israel-public-affairs-committee-aipac-fires-two-members-suspected-of-passing-on-u-s-secrets-to-israel.md)
-_Context: Israel, United States, American Israel Public Affairs Committee_
+_Context: Israel, American Israel Public Affairs Committee, United States_
 
 ##### Israel
 ### [ Three Israeli soldiers are hurt when their jeep triggers an IED roadside bomb, near the Karni crossing, on the edge of the Gaza Strip. ](/news/2005/04/21/three-israeli-soldiers-are-hurt-when-their-jeep-triggers-an-ied-roadside-bomb-near-the-karni-crossing-on-the-edge-of-the-gaza-strip.md)
-_Context: jeep, Israel, IED, cargo terminals, Gaza Strip_
+_Context: IED, cargo terminals, jeep, Gaza Strip, Israel_
 
 ##### Discovery
 ### [ The next launch of the Space Shuttle "Discovery", STS-114, is postponed until at least May 22. This is to be the first Space Shuttle launch since the "Columbia" disaster in February 2003. ](/news/2005/04/21/the-next-launch-of-the-space-shuttle-discovery-sts-114-is-postponed-until-at-least-may-22-this-is-to-be-the-first-space-shuttle-launch.md)
-_Context: Discovery, STS-114, May 22, February 2003, ''Columbia'' disaster_
+_Context: ''Columbia'' disaster, STS-114, May 22, February 2003, Discovery_
 
 ##### Ecuador
 ### [ New Ecuadorian president Alfredo Palacio orders the arrest of former president Lucio Gutirrez, who takes refuge in the Brazilian embassy. ](/news/2005/04/21/new-ecuadorian-president-alfredo-palacio-orders-the-arrest-of-former-president-lucio-gutierrez-who-takes-refuge-in-the-brazilian-embassy.md)
-_Context: Brazil, Lucio Gutirrez, Alfredo Palacio, Ecuador_
+_Context: Lucio Gutirrez, Alfredo Palacio, Brazil, Ecuador_
 
 ##### Christian Solidarity Worldwide
 ### [ According to Christian Solidarity Worldwide, the army of Myanmar (Burma) has used chemical weapons against Karen rebels. ](/news/2005/04/21/according-to-christian-solidarity-worldwide-the-army-of-myanmar-burma-has-used-chemical-weapons-against-karen-rebels.md)
-_Context: Karen, Christian Solidarity Worldwide, chemical weapons, Myanmar, Burma_
+_Context: chemical weapons, Christian Solidarity Worldwide, Burma, Myanmar, Karen_
 
 ##### Zanzibar
 ### [ In Zanzibar, an electoral commission accepts Seif Shariff Hamad, secretary general of the opposition party Civic United Front, as a legitimate voter and therefore eligible candidate. ](/news/2005/04/21/in-zanzibar-an-electoral-commission-accepts-seif-shariff-hamad-secretary-general-of-the-opposition-party-civic-united-front-as-a-legitim.md)
-_Context: candidate, Civic United Front, Zanzibar, voter, Seif Shariff Hamad_
+_Context: candidate, Zanzibar, voter, Seif Shariff Hamad, Civic United Front_
 
 ##### U.S. Army
 ### [ U.S. Army Sergeant Hassan Akbar is found guilty by a military jury of the murder of two fellow officers in Kuwait, just prior to the 2003 invasion of Iraq. ](/news/2005/04/21/u-s-army-sergeant-hassan-akbar-is-found-guilty-by-a-military-jury-of-the-murder-of-two-fellow-officers-in-kuwait-just-prior-to-the-2003-i.md)

@@ -5,11 +5,11 @@ Formats: [HTML](2008/02/27/index.html)  [JSON](2008/02/27/index.json)  [XML](200
 
 ##### Colombia
 ### [ Colombian FARC rebels release four former members of Congress, held hostage since 2001 and 2002, in a deal brokered by Venezuelan president Hugo Chavez. ](/news/2008/02/27/colombian-farc-rebels-release-four-former-members-of-congress-held-hostage-since-2001-and-2002-in-a-deal-brokered-by-venezuelan-president.md)
-_Context: Hugo Chavez, FARC, Colombia, Congress of Colombia, Venezuelan president, Pablo Emilio Moncayo_
+_Context: Pablo Emilio Moncayo, Venezuelan president, Congress of Colombia, Hugo Chavez, Colombia, FARC_
 
 ##### Bomb
 ### [ A roadside bomb in Afghanistan results in the death of two NATO soldiers. ](/news/2008/02/27/a-roadside-bomb-in-afghanistan-results-in-the-death-of-two-nato-soldiers.md)
-_Context: NATO, bomb, Afghan_
+_Context: Afghan, bomb, NATO_
 
 ##### Earthquake
 ### [ The biggest earthquake in nearly 25 years hits England (5.2 on Richter scale). ](/news/2008/02/27/the-biggest-earthquake-in-nearly-25-years-hits-england-5-2-on-richter-scale.md)

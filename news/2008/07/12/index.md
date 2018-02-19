@@ -5,11 +5,11 @@ Formats: [HTML](2008/07/12/index.html)  [JSON](2008/07/12/index.json)  [XML](200
 
 ##### Okmok Caldera
 ### [ Okmok Caldera on the island of Umnak in the Aleutian Islands erupts, forcing the evacuation of the eastern side of the island to Unalaska Island. ](/news/2008/07/12/okmok-caldera-on-the-island-of-umnak-in-the-aleutian-islands-erupts-forcing-the-evacuation-of-the-eastern-side-of-the-island-to-unalaska-i.md)
-_Context: Unalaska Island, Umnak, Okmok Caldera, Aleutian Islands_
+_Context: Aleutian Islands, Okmok Caldera, Umnak, Unalaska Island_
 
 ##### French President
 ### [ French President Nicolas Sarkozy announces that Syria and Lebanon have agreed to establish embassies in each other's capitals. ](/news/2008/07/12/french-president-nicolas-sarkozy-announces-that-syria-and-lebanon-have-agreed-to-establish-embassies-in-each-other-s-capitals.md)
-_Context: French President, Nicolas Sarkozy, embassies, Syria, Lebanese_
+_Context: Nicolas Sarkozy, French President, Syria, embassies, Lebanese_
 
 ##### Six party talks
 ### [ Six party talks being held in Beijing agrees on steps to verify the end of North Korea's nuclear weapons program. ](/news/2008/07/12/six-party-talks-being-held-in-beijing-agrees-on-steps-to-verify-the-end-of-north-korea-s-nuclear-weapons-program.md)

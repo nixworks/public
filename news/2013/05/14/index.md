@@ -9,7 +9,7 @@ Three US soldiers with the Nato-led force in Kandahar province in southern Afgha
 
 ##### President
 ### [The President of Nigeria, Goodluck Jonathan, declares a state of emergency in Adamawa, Borno and Yobe to fight an Islamist insurgency. ](/news/2013/05/14/the-president-of-nigeria-goodluck-jonathan-declares-a-state-of-emergency-in-adamawa-borno-and-yobe-to-fight-an-islamist-insurgency.md)
-_Context: Borno, Goodluck Jonathan, state of emergency, Adamawa State, Islamist, Yobe State, President_
+_Context: President, Goodluck Jonathan, state of emergency, Yobe State, Borno, Adamawa State, Islamist_
 
 ##### Americans
 ### [American actress Angelina Jolie announces that she underwent an elective double mastectomy due to her family history of lethal cases of breast cancer. ](/news/2013/05/14/american-actress-angelina-jolie-announces-that-she-underwent-an-elective-double-mastectomy-due-to-her-family-history-of-lethal-cases-of-brea.md)
@@ -21,7 +21,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Freeport-McMoRan
 ### [A tunnel collapses at Freeport-McMoRan's Grasberg mine in Indonesia's Papua province trapping approximately thirty workers. ](/news/2013/05/14/a-tunnel-collapses-at-freeport-mcmoranas-grasberg-mine-in-indonesia-s-papua-province-trapping-approximately-thirty-workers.md)
-_Context: Indonesia, Papua, Freeport-McMoRan, Grasberg mine_
+_Context: Freeport-McMoRan, Papua, Grasberg mine, Indonesia_
 
 ##### Rohingya
 ### [Several boats carrying over 100 Rohingya Muslims away from an oncoming cyclone capsize off the coast of Myanmar leaving only 42 survivors. ](/news/2013/05/14/several-boats-carrying-over-100-rohingya-muslims-away-from-an-oncoming-cyclone-capsize-off-the-coast-of-myanmar-leaving-only-42-survivors.md)
@@ -33,7 +33,7 @@ Russia is expelling a US diplomat briefly detained in Moscow for allegedly tryin
 
 ##### United States
 ### [The United States fines the Indian pharmaceutical company Ranbaxy Laboratories US$500 million after they are found guilty of selling adulterated drugs to the United States. ](/news/2013/05/14/the-united-states-fines-the-indian-pharmaceutical-company-ranbaxy-laboratories-us-500-million-after-they-are-found-guilty-of-selling-adulter.md)
-_Context: India, Ranbaxy Laboratories, United States, $_
+_Context: India, $, Ranbaxy Laboratories, United States_
 
 ##### Abortion
 ### [Convicted murderer, abortion physician Kermit Gosnell, in a plea bargain, trades away his appeals in exchange for a life sentence without the possibility of parole. ](/news/2013/05/14/convicted-murderer-abortion-physician-kermit-gosnell-in-a-plea-bargain-trades-away-his-appeals-in-exchange-for-a-life-sentence-without-th.md)
@@ -45,11 +45,11 @@ The IRS’s admission it targeted conservative groups for special scrutiny has d
 
 ##### Canadian
 ### [Voters in Canada's British Columbia Province go to the polls to select members to the province's Legislative Assembly. ](/news/2013/05/14/voters-in-canada-s-british-columbia-province-go-to-the-polls-to-select-members-to-the-province-s-legislative-assembly.md)
-_Context: Legislative Assembly, go to the polls, British Columbia, Canadian_
+_Context: British Columbia, Legislative Assembly, Canadian, go to the polls_
 
 ##### President
 ### [Former President of the Philippines Joseph Estrada is declared as the winner of the mayoral election in the capital Manila. ](/news/2013/05/14/former-president-of-the-philippines-joseph-estrada-is-declared-as-the-winner-of-the-mayoral-election-in-the-capital-manila.md)
-_Context: President, Manila, Joseph Estrada_
+_Context: President, Joseph Estrada, Manila_
 
 ##### Conservative Party
 ### [The British Conservative Party publishes a draft European Union (Referendum) Bill aimed at holding a referendum on Britain's membership of the European Union by 2017. ](/news/2013/05/14/the-british-conservative-party-publishes-a-draft-european-union-referendum-bill-aimed-at-holding-a-referendum-on-britain-s-membership-of-t.md)
@@ -65,7 +65,7 @@ _Context: Brazil, same-sex marriage_
 
 ##### Soyuz
 ### [A Soyuz capsule carrying astronauts Chris Hadfield of Canada, Thomas Marshburn of the United States and Roman Romanenko of Russia of Expedition 35 back from the International Space Station lands safely in Kazakhstan. ](/news/2013/05/14/a-soyuz-capsule-carrying-astronauts-chris-hadfield-of-canada-thomas-marshburn-of-the-united-states-and-roman-romanenko-of-russia-of-expedit.md)
-_Context: Soyuz, Kazakhstan, International Space Station, Chris Hadfield, Expedition 35, Roman Romanenko, Thomas Marshburn, Russia, Canadian, United States_
+_Context: Kazakhstan, Thomas Marshburn, Soyuz, United States, Roman Romanenko, Canadian, Expedition 35, Russia, International Space Station, Chris Hadfield_
 
 ## [Previous Day...](/news/2013/05/13/index.md)
 

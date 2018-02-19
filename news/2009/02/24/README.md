@@ -13,7 +13,7 @@ Earlier we reported that the Senate would hold a vote to cut off debate today on
 
 ##### Apartment-building
 ### [ Two people are killed and 28 injured in an apartment-building fire in New York City's Chinatown. ](/news/2009/02/24/two-people-are-killed-and-28-injured-in-an-apartment-building-fire-in-new-york-city-s-chinatown.md)
-_Context: New York City, apartment-building, Chinatown_
+_Context: Chinatown, apartment-building, New York City_
 
 ##### Iraq
 ### [ Iraq's National Museum reopens for the first time since being looted during the U.S. Armed Forces' invasion in 2003. ](/news/2009/02/24/iraq-s-national-museum-reopens-for-the-first-time-since-being-looted-during-the-u-s-armed-forces-invasion-in-2003.md)
@@ -21,15 +21,15 @@ Minister says only fraction of items stolen following US-ivasion have been retur
 
 ##### Shooting
 ### [ Six people and an infant are injured in a shooting during Mardi Gras in New Orleans, United States. ](/news/2009/02/24/six-people-and-an-infant-are-injured-in-a-shooting-during-mardi-gras-in-new-orleans-united-states.md)
-_Context: Mardi Gras, New Orleans, United States, shooting_
+_Context: shooting, Mardi Gras, New Orleans, United States_
 
 ##### Sweden
 ### [ Sweden's government announces the engagement of Crown Princess Victoria and personal trainer Daniel Westling. ](/news/2009/02/24/sweden-s-government-announces-the-engagement-of-crown-princess-victoria-and-personal-trainer-daniel-westling.md)
-_Context: Sweden, Crown Princess, Crown Princess Victoria, government, Daniel Westling, engagement, personal trainer_
+_Context: engagement, Crown Princess Victoria, Daniel Westling, Sweden, government, Crown Princess, personal trainer_
 
 ##### Red shirt
 ### [ The National Front marches on Thailand's Government House, demanding an early election. ](/news/2009/02/24/the-national-front-marches-on-thailand-s-government-house-demanding-an-early-election.md)
-_Context: red shirt, Thailand, assemble, elections, Government House_
+_Context: elections, Government House, red shirt, assemble, Thailand_
 
 ##### Taliban
 ### [ The Taliban announces a ceasefire in its war in northwest Pakistan's Swat Valley. ](/news/2009/02/24/the-taliban-announces-a-ceasefire-in-its-war-in-northwest-pakistan-s-swat-valley.md)
@@ -37,7 +37,7 @@ Pakistani Taliban militants announced on Tuesday an indefinite ceasefire in the 
 
 ##### NASA
 ### [ NASA's Orbiting Carbon Observatory lands in the Pacific Ocean near Antarctica after failing to reach Earth's orbit. ](/news/2009/02/24/nasa-s-orbiting-carbon-observatory-lands-in-the-pacific-ocean-near-antarctica-after-failing-to-reach-earth-s-orbit.md)
-_Context: Orbiting Carbon Observatory, Earth, South Pacific Ocean, orbit, Antarctica, NASA_
+_Context: Antarctica, orbit, NASA, South Pacific Ocean, Orbiting Carbon Observatory, Earth_
 
 ##### Irish
 ### [ Ireland's Stock Exchange falls to its lowest level since 1995. ](/news/2009/02/24/ireland-s-stock-exchange-falls-to-its-lowest-level-since-1995.md)
@@ -49,23 +49,23 @@ Gardaí attached to the ODCE have ended their search at the Anglo Irish Bank hea
 
 ##### Iraq
 ### [ Iraq's Police Service kills an Iraqi interpreter and injures at least three U.S. soldiers in Mosul. ](/news/2009/02/24/iraq-s-police-service-kills-an-iraqi-interpreter-and-injures-at-least-three-u-s-soldiers-in-mosul.md)
-_Context: Iraqi, United States, Mosul, interpreter, Iraqi Police, Iraq, Iraq War, United States military personnel_
+_Context: Iraq, Iraq War, United States military personnel, Iraqi, Mosul, United States, Iraqi Police, interpreter_
 
 ##### Heavy fighting
 ### [ At least 15 people are killed and 90 injured in heavy fighting in Mogadishu, Somalia. ](/news/2009/02/24/at-least-15-people-are-killed-and-90-injured-in-heavy-fighting-in-mogadishu-somalia.md)
-_Context: heavy fighting, Somalia, Mogadishu_
+_Context: Somalia, Mogadishu, heavy fighting_
 
 ##### United States
 ### [ U.S. President Obama and Japanese Prime Minister Taro Aso pledge to cooperate in stimulating economic demand and combating protectionism. ](/news/2009/02/24/u-s-president-obama-and-japanese-prime-minister-taro-aso-pledge-to-cooperate-in-stimulating-economic-demand-and-combating-protectionism.md)
-_Context: Barack Obama, stimulating economic demand, United States, U.S. President, Taro Aso, Prime Minister of Japan, protectionism, Japan_
+_Context: Prime Minister of Japan, protectionism, stimulating economic demand, Taro Aso, Japan, U.S. President, Barack Obama, United States_
 
 ##### Italy
 ### [ Italian Prime Minister Silvio Berlusconi and French President Nicolas Sarkozy agree to cooperate in reviving nuclear power in Italy. ](/news/2009/02/24/italian-prime-minister-silvio-berlusconi-and-french-president-nicolas-sarkozy-agree-to-cooperate-in-reviving-nuclear-power-in-italy.md)
-_Context: French President, Italy, nuclear power, Silvio Berlusconi, Italian Prime Minister, France, Nicolas Sarkozy_
+_Context: Silvio Berlusconi, Italy, France, nuclear power, Italian Prime Minister, Nicolas Sarkozy, French President_
 
 ##### Teacher
 ### [ Teachers in Zimbabwe will end their strike action upon receiving government aid. ](/news/2009/02/24/teachers-in-zimbabwe-will-end-their-strike-action-upon-receiving-government-aid.md)
-_Context: Politics of Zimbabwe, strike, Teacher, Zimbabwe_
+_Context: Zimbabwe, Teacher, Politics of Zimbabwe, strike_
 
 ## [Previous Day...](/news/2009/02/23/index.md)
 

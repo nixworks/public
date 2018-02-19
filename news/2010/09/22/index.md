@@ -5,7 +5,7 @@ Formats: [HTML](2010/09/22/index.html)  [JSON](2010/09/22/index.json)  [XML](201
 
 ##### Bara
 ### [Three troops were killed when a roadside blast struck a military vehicle in Bara area of Khyber, one of the seven tribal agencies in Pakistan's restive northwest bordering Afghanistan. ](/news/2010/09/22/three-troops-were-killed-when-a-roadside-blast-struck-a-military-vehicle-in-bara-area-of-khyber-one-of-the-seven-tribal-agencies-in-pakista.md)
-_Context: Bara, Khyber Agency, Pakistan, Afghan_
+_Context: Pakistan, Bara, Afghan, Khyber Agency_
 
 ##### Quetta
 ### [At least one person is killed and 10 injured in a shootout in Quetta, Pakistan. ](/news/2010/09/22/at-least-one-person-is-killed-and-10-injured-in-a-shootout-in-quetta-pakistan.md)
@@ -13,7 +13,7 @@ _Context: Pakistan, Quetta_
 
 ##### France
 ### [Three French crewman are kidnapped off the coast of Nigeria. ](/news/2010/09/22/three-french-crewman-are-kidnapped-off-the-coast-of-nigeria.md)
-_Context: France, Nigeria_
+_Context: Nigeria, France_
 
 ##### Palestine
 ### [A Palestinian man is shot dead by an Israeli security guard in the East Jerusalem area of Silwan, during a clash between Israeli settlers and Palestinians. ](/news/2010/09/22/a-palestinian-man-is-shot-dead-by-an-israeli-security-guard-in-the-east-jerusalem-area-of-silwan-during-a-clash-between-israeli-settlers-an.md)
@@ -25,25 +25,25 @@ Twelve people were killed and more than 70 injured on Wednesday when a bomb expl
 
 ##### Sopore
 ### [A militant is killed in an ongoing operation by security forces in militancy-hit Sopore township of north Kashmir in the Baramulla district. ](/news/2010/09/22/a-militant-is-killed-in-an-ongoing-operation-by-security-forces-in-militancy-hit-sopore-township-of-north-kashmir-in-the-baramulla-district.md)
-_Context: Baramulla, Sopore, Jammu and Kashmir_
+_Context: Jammu and Kashmir, Baramulla, Sopore_
 
 ##### Typhoon Fanapi
 ### [At least 18 people are dead and 44 missing after heavy rains from Typhoon Fanapi flood parts of southern China. ](/news/2010/09/22/at-least-18-people-are-dead-and-44-missing-after-heavy-rains-from-typhoon-fanapi-flood-parts-of-southern-china.md)
-_Context: Typhoon Fanapi, flood, southern Chinese_
+_Context: southern Chinese, flood, Typhoon Fanapi_
 
 ##### 
 ### [Two workers are killed and another is injured after a mine in Balikesir collapses. 22 workers have been killed there in the past six months. ](/news/2010/09/22/two-workers-are-killed-and-another-is-injured-after-a-mine-in-bala-kesir-collapses-22-workers-have-been-killed-there-in-the-past-six-months.md)
 ##### United States
 ### [U.S. celebrity Paris Hilton is barred from entering Japan after pleading guilty to cocaine possession in Las Vegas, Nevada earlier in the week. ](/news/2010/09/22/u-s-celebrity-paris-hilton-is-barred-from-entering-japan-after-pleading-guilty-to-cocaine-possession-in-las-vegas-nevada-earlier-in-the-we.md)
-_Context: Japan, United States, Nevada, cocaine, celebrity, Las Vegas, Nevada, Paris Hilton_
+_Context: Paris Hilton, Japan, Las Vegas, Nevada, cocaine, United States, celebrity, Nevada_
 
 ##### United States
 ### [United States singer Eddie Fisher dies in Berkeley, California. ](/news/2010/09/22/united-states-singer-eddie-fisher-dies-in-berkeley-california.md)
-_Context: California, Berkeley, California, United States, Eddie Fisher_
+_Context: Berkeley, California, United States, Eddie Fisher, California_
 
 ##### Russia
 ### [Russia bans arms sales to Iran, in accordance with United Nations Security Council Resolution 1929. ](/news/2010/09/22/russia-bans-arms-sales-to-iran-in-accordance-with-united-nations-security-council-resolution-1929.md)
-_Context: Russia, Iran, ban on ballistic missile tests_
+_Context: ban on ballistic missile tests, Iran, Russia_
 
 ##### China
 ### [China threatens Japan with "further action" if the latter does not release a Chinese fishing captain detained near the disputed Senkaku Islands. ](/news/2010/09/22/china-threatens-japan-with-further-action-if-the-latter-does-not-release-a-chinese-fishing-captain-detained-near-the-disputed-senkaku-isla.md)
@@ -59,7 +59,7 @@ North Korea reportedly held a meeting earlier this month aimed at hampering the 
 
 ##### Human rights
 ### [A panel of human rights experts convened by the United Nations Human Rights Council says Israel's seizure of the MV Mavi Marmara in the Gaza flotilla raid was "clearly unlawful". ](/news/2010/09/22/a-panel-of-human-rights-experts-convened-by-the-united-nations-human-rights-council-says-israel-s-seizure-of-the-mv-mavi-marmara-in-the-gaza.md)
-_Context: Gaza flotilla raid, human rights, Israel, Human Rights Council,  MV ''Mavi Marmara''_
+_Context: Gaza flotilla raid, Israel,  MV ''Mavi Marmara'', human rights, Human Rights Council_
 
 ##### Mutilated
 ### [14 mutilated bodies are discovered in the Ruzizi River in Burundi, close to the border with the Democratic Republic of the Congo. ](/news/2010/09/22/14-mutilated-bodies-are-discovered-in-the-ruzizi-river-in-burundi-close-to-the-border-with-the-democratic-republic-of-the-congo.md)
@@ -67,7 +67,7 @@ Residents in northern Burundi are on alert after the discovery of 14 bodies, som
 
 ##### Iran
 ### [Iranian human rights campaigner Emadeddin Baghi is sentenced to six years in jail after recording an interview for the BBC with reformist cleric Grand Ayatollah Hussein-Ali Montazeri. ](/news/2010/09/22/iranian-human-rights-campaigner-emadeddin-baghi-is-sentenced-to-six-years-in-jail-after-recording-an-interview-for-the-bbc-with-reformist-cl.md)
-_Context: Hussein-Ali Montazeri, BBC, human rights abuses, Iran, Grand Ayatollah, Emadeddin Baghi_
+_Context: Iran, Emadeddin Baghi, Grand Ayatollah, Hussein-Ali Montazeri, BBC, human rights abuses_
 
 ##### Asylum seeker
 ### [Another group of asylum seekers starts a new protest at the Villawood Immigration Detention Centre in Sydney, Australia, while other detainees continue a hunger strike. ](/news/2010/09/22/another-group-of-asylum-seekers-starts-a-new-protest-at-the-villawood-immigration-detention-centre-in-sydney-australia-while-other-detaine.md)

@@ -17,15 +17,15 @@ A Rwandan doctor working at a hospital in northern France is suspected of being 
 
 ##### Taliban
 ### [ At least 60 Taliban militants are killed in an ongoing offensive in South Waziristan, northwest Pakistan. ](/news/2009/10/18/at-least-60-taliban-militants-are-killed-in-an-ongoing-offensive-in-south-waziristan-northwest-pakistan.md)
-_Context: Pakistan, South Waziristan, Taliban, ongoing offensive_
+_Context: South Waziristan, ongoing offensive, Pakistan, Taliban_
 
 ##### German
 ### [ Germany and Israel complain about a Bangkok museum billboard depicting a salute by Adolf Hitler beside the slogan "Hitler is not dead". ](/news/2009/10/18/germany-and-israel-complain-about-a-bangkok-museum-billboard-depicting-a-salute-by-adolf-hitler-beside-the-slogan-hitler-is-not-dead.md)
-_Context: Bangkok, billboard, German, salute, Adolf Hitler, Israel, museum_
+_Context: salute, Bangkok, Adolf Hitler, billboard, museum, Israel, German_
 
 ##### Hurricane Rick
 ### [ Hurricane Rick strengthens to a Category 5 storm, becoming the strongest hurricane in a decade in the eastern Pacific Ocean. ](/news/2009/10/18/hurricane-rick-strengthens-to-a-category-5-storm-becoming-the-strongest-hurricane-in-a-decade-in-the-eastern-pacific-ocean.md)
-_Context: South Pacific Ocean, Category 4, strongest hurricane in a decade, Hurricane Rick_
+_Context: South Pacific Ocean, Hurricane Rick, strongest hurricane in a decade, Category 4_
 
 ##### Australia
 ### [ The Australian state of Queensland declares a state of emergency after more than 50 wildfires burn out of control. ](/news/2009/10/18/the-australian-state-of-queensland-declares-a-state-of-emergency-after-more-than-50-wildfires-burn-out-of-control.md)
@@ -33,7 +33,7 @@ State of emergency declared in Queensland where homes have been destroyed.
 
 ##### Hubei
 ### [ Eight people are jailed in Hubei, China, for "disrupting public order" after 10,000 people participated in riots following the controversial death of a chef in June. ](/news/2009/10/18/eight-people-are-jailed-in-hubei-china-for-disrupting-public-order-after-10-000-people-participated-in-riots-following-the-controversia.md)
-_Context: China, Hubei_
+_Context: Hubei, China_
 
 ##### Scotland Yard
 ### [ Scotland Yard investigates a complaint about an article by Jan Moir in the UK's "Daily Mail" tabloid concerning her views on the death of Boyzone singer Stephen Gately. ](/news/2009/10/18/scotland-yard-investigates-a-complaint-about-an-article-by-jan-moir-in-the-uk-s-daily-mail-tabloid-concerning-her-views-on-the-death-of-b.md)
@@ -61,7 +61,7 @@ Hundreds of people believed to be heading to Australia are reportedly aboard two
 
 ##### Iceland
 ### [ The Icelandic government says it has come to a new agreement with the governments of the Netherlands and the UK over the repaying of $5bn. ](/news/2009/10/18/the-icelandic-government-says-it-has-come-to-a-new-agreement-with-the-governments-of-the-netherlands-and-the-uk-over-the-repaying-of-5bn.md)
-_Context: UK, Netherlands, Iceland_
+_Context: Netherlands, UK, Iceland_
 
 ## [Previous Day...](/news/2009/10/17/index.md)
 

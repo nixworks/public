@@ -49,7 +49,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Tomislav Nikolic
 ### [Tomislav Nikolic is elected President of Serbia with 49.4% of the vote. ](/news/2012/05/20/tomislav-nikolia-is-elected-president-of-serbia-with-49-4-of-the-vote.md)
-_Context: President of Serbia, elected, Tomislav Nikolic_
+_Context: elected, Tomislav Nikolic, President of Serbia_
 
 ## [Previous Day...](/news/2012/05/19/index.md)
 

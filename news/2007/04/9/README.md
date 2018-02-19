@@ -9,23 +9,23 @@ _Context: New York City, primary election, New York Governor, Eliot Spitzer_
 
 ##### Guantanamo Bay detention camp
 ### [ Thirteen detainees at Guantanamo Bay are conducting a hunger strike to protest against harsher conditions in a new prison unit and are being force fed. ](/news/2007/04/9/thirteen-detainees-at-guantanamo-bay-are-conducting-a-hunger-strike-to-protest-against-harsher-conditions-in-a-new-prison-unit-and-are-bein.md)
-_Context: force fed, Guantanamo Bay detention camp, hunger strike, protest, prison_
+_Context: hunger strike, Guantanamo Bay detention camp, protest, prison, force fed_
 
 ##### United Kingdom
 ### [ The United Kingdom Ministry of Defence bans any more of the 15 Royal Navy sailors and Royal Marines held captive by Iran from selling their stories to the media reversing a previous decision following widespread criticism. ](/news/2007/04/9/the-united-kingdom-ministry-of-defence-bans-any-more-of-the-15-royal-navy-sailors-and-royal-marines-held-captive-by-iran-from-selling-their.md)
-_Context: Royal Navy, Royal Marine, sailor, held captive by Iran, United Kingdom, Ministry of Defence_
+_Context: United Kingdom, Royal Navy, sailor, Ministry of Defence, Royal Marine, held captive by Iran_
 
 ##### Tim Montgomery
 ### [ Tim Montgomery, a former 100-metre world record holder, pleads guilty to charges of bank fraud and money laundering. ](/news/2007/04/9/tim-montgomery-a-former-100-metre-world-record-holder-pleads-guilty-to-charges-of-bank-fraud-and-money-laundering.md)
-_Context: Tim Montgomery, money laundering, fraud, world record, 100 metres, bank_
+_Context: fraud, world record, bank, Tim Montgomery, money laundering, 100 metres_
 
 ##### President
 ### [ President Mahmoud Ahmadinejad of Iran announces that his country can now produce nuclear fuel on an industrial scale. ](/news/2007/04/9/president-mahmoud-ahmadinejad-of-iran-announces-that-his-country-can-now-produce-nuclear-fuel-on-an-industrial-scale.md)
-_Context: Iran, President, Mahmoud Ahmadinejad, produce nuclear fuel on an industrial scale_
+_Context: President, produce nuclear fuel on an industrial scale, Mahmoud Ahmadinejad, Iran_
 
 ##### Natural gas
 ### [ Ministers from natural gas exporting countries such as Russia, Kazakhstan and Iran meet in Doha, Qatar, prompting speculation that they might be looking at transforming the Gas Exporting Countries Forum into a cartel similar to OPEC. ](/news/2007/04/9/ministers-from-natural-gas-exporting-countries-such-as-russia-kazakhstan-and-iran-meet-in-doha-qatar-prompting-speculation-that-they-mig.md)
-_Context: Russia, natural gas, Gas Exporting Countries Forum, OPEC, Qatar, Doha, cartel, Iran, Kazakhstan_
+_Context: Doha, Qatar, natural gas, cartel, Iran, Russia, OPEC, Kazakhstan, Gas Exporting Countries Forum_
 
 ##### Iraq War
 ### [ Iraq War: Shia cleric Moqtada al-Sadr calls for an anti-American protest on the fourth anniversary of the overthrow of Saddam Hussein. Hundreds of thousands of Shias gather in Najaf for a demonstration calling for U.S.-led troops to leave Iraq. ](/news/2007/04/9/iraq-war-shia-cleric-moqtada-al-sadr-calls-for-an-anti-american-protest-on-the-fourth-anniversary-of-the-overthrow-of-saddam-hussein-hund.md)
@@ -37,7 +37,7 @@ The presidential election has exposed bitter personal rivalries as well as divis
 
 ##### Buenos Aires
 ### [ Tens of thousands of demonstrators in Buenos Aires and other cities in Argentina protest against the death of Carlos Fuentealba, a school teacher having been severely injured by a tear gas canister fired by police during a protest the previous week over pay and working conditions. ](/news/2007/04/9/tens-of-thousands-of-demonstrators-in-buenos-aires-and-other-cities-in-argentina-protest-against-the-death-of-carlos-fuentealba-a-school-t.md)
-_Context: Carlos Fuentealba, tear gas, Argentina, Buenos Aires_
+_Context: Argentina, tear gas, Carlos Fuentealba, Buenos Aires_
 
 ## [Previous Day...](/news/2007/04/8/index.md)
 

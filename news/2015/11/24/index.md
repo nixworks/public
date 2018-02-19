@@ -13,7 +13,7 @@ Turkish warplanes shoot down a Russian military aircraft on the border with Syri
 
 ##### Libyan Civil War (2014-present)
 ### [A car-bomb kills five guards at a checkpoint east of the Libyan capital, Tripoli. ](/news/2015/11/24/a-car-bomb-kills-five-guards-at-a-checkpoint-east-of-the-libyan-capital-tripoli.md)
-_Context: Libyan Civil War (2014-present), Libya, Tripoli_
+_Context: Libya, Tripoli, Libyan Civil War (2014-present)_
 
 ##### Insurgency in the Maghreb (2002-present)
 ### [An explosion on a bus carrying Tunisian Presidential Guard personnel in Tunisia's capital Tunis leaves at least 15 people dead, as the country's government declares a state of emergency. ](/news/2015/11/24/an-explosion-on-a-bus-carrying-tunisian-presidential-guard-personnel-in-tunisia-s-capital-tunis-leaves-at-least-15-people-dead-as-the-count.md)
@@ -41,7 +41,7 @@ Of the 120 major outbreaks during 2010 to 2014, fruits, leafy greens, and beef w
 
 ##### United Kingdom withdrawal from the European Union
 ### [According to an opinion poll, a majority of British citizens now want the United Kingdom to leave the European Union as voter anxiety rises over the bloc's handling of a crisis provoked by an influx of migrants into Europe. A referendum on the United Kingdom's EU membership is scheduled to take place before the end of 2017. ](/news/2015/11/24/according-to-an-opinion-poll-a-majority-of-british-citizens-now-want-the-united-kingdom-to-leave-the-european-union-as-voter-anxiety-rises.md)
-_Context: United Kingdom withdrawal from the European Union, European migrant crisis, United Kingdom, European Union, United Kingdom European Union membership referendum_
+_Context: European migrant crisis, United Kingdom European Union membership referendum, United Kingdom, European Union, United Kingdom withdrawal from the European Union_
 
 ##### European migrant crisis
 ### [Sweden will introduce tighter border controls and asylum rules in a bid to reduce the number of asylum seekers entering the country. Sweden expects up to 190,000 asylum seekers to reach its borders this year and says its reception system cannot cope. "The situation is untenable", according to Swedish prime minister Stefan Lofven who told reporters, "to put it bluntly, more people will have to seek asylum and get protection in other European countries". ](/news/2015/11/24/sweden-will-introduce-tighter-border-controls-and-asylum-rules-in-a-bid-to-reduce-the-number-of-asylum-seekers-entering-the-country-sweden.md)
@@ -61,7 +61,7 @@ A bomb exploded outside the offices of a Greek business federation in central At
 
 ##### Chicago
 ### [Chicago, Illinois police officer Jason Van Dyke is charged with first-degree murder for the October 2014 shooting death of Laquan McDonald, a 17-year-old boy armed with a 3-inch knife. The charge comes shortly before the release of the police video showing the shooting. Chicago Mayor Rahm Emanuel meets with community leaders to discuss the video's release and the potential ramifications for the city. ](/news/2015/11/24/chicago-illinois-police-officer-jason-van-dyke-is-charged-with-first-degree-murder-for-the-october-2014-shooting-death-of-laquan-mcdonald.md)
-_Context: Chicago, Laquan McDonald, Rahm Emanuel, Illinois_
+_Context: Rahm Emanuel, Chicago, Illinois, Laquan McDonald_
 
 ##### 2015 Roubaix shootings
 ### [At least one person is killed after a group of armed men took people hostage in the northern French town of Roubaix near the Belgian border. The hostages are thought to be a bank director and his family. French police say the incident may be related to a robbery and not to the November 2015 attacks in Paris. ](/news/2015/11/24/at-least-one-person-is-killed-after-a-group-of-armed-men-took-people-hostage-in-the-northern-french-town-of-roubaix-near-the-belgian-border.md)
@@ -77,11 +77,11 @@ The gunfire came as Minneapolis grapples with protests over one police shooting 
 
 ##### U.S. reactions to November 2015 Paris attacks
 ### [The American Civil Liberties Union of Indiana sues Indiana Governor Mike Pence over his decision to block Syrian refugees from resettling in the state. The ACLU, on behalf of Indianapolis-based nonprofit Exodus Refugee Immigration, accuses Pence of violating the Equal Protection Clause of the Constitution by accepting refugees from other countries but not those from Syria. ](/news/2015/11/24/the-american-civil-liberties-union-of-indiana-sues-indiana-governor-mike-pence-over-his-decision-to-block-syrian-refugees-from-resettling-in.md)
-_Context: nonprofit, Syria, Exodus Refugee Immigration, Constitution, Mike Pence, Indiana, refugees from Syria, Equal Protection Clause, Governor of Indiana, Indianapolis, American Civil Liberties Union, U.S. reactions to November 2015 Paris attacks_
+_Context: Equal Protection Clause, nonprofit, Mike Pence, refugees from Syria, Governor of Indiana, Syria, American Civil Liberties Union, Exodus Refugee Immigration, Indiana, U.S. reactions to November 2015 Paris attacks, Indianapolis, Constitution_
 
 ##### Antonio Costa
 ### [Antonio Costa, the leader of the Socialist Party, is named as the Prime Minister of Portugal. ](/news/2015/11/24/anta3nio-costa-the-leader-of-the-socialist-party-is-named-as-the-prime-minister-of-portugal.md)
-_Context: Socialist Party, Prime Minister of Portugal, Antonio Costa_
+_Context: Prime Minister of Portugal, Antonio Costa, Socialist Party_
 
 ##### United States Intelligence Community
 ### [Echoing criticisms of the U.S. intelligence community in the wake of the 9-11 terrorist attacks, Derek Harvey, a former U.S. intelligence official, says that the U.S. intelligence community is failing in its assessments of the Islamic State of Iraq and the Levant. Another unnamed source says the U.S. intelligence community is "playing catch up" regarding efforts to monitor ISIL activities in the U.S. These, following reports that U.S. Central Command intelligence analysts were instructed to give favorable spin on anti-ISIL efforts. ](/news/2015/11/24/echoing-criticisms-of-the-u-s-intelligence-community-in-the-wake-of-the-9-11-terrorist-attacks-derek-harvey-a-former-u-s-intelligence-of.md)

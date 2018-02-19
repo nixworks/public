@@ -5,7 +5,7 @@ Formats: [HTML](2011/04/4/index.html)  [JSON](2011/04/4/index.json)  [XML](2011/
 
 ##### United Nations
 ### [United Nations and French military helicopters fire on a pro-Laurent Gbagbo military camp. ](/news/2011/04/4/united-nations-and-french-military-helicopters-fire-on-a-pro-laurent-gbagbo-military-camp.md)
-_Context: French military, United Nations, Laurent Gbagbo_
+_Context: Laurent Gbagbo, United Nations, French military_
 
 ##### Jandool
 ### [At least 5 people are killed during a bomb explosion at a bus station in Jandool in Lower Dir, Pakistan. ](/news/2011/04/4/at-least-5-people-are-killed-during-a-bomb-explosion-at-a-bus-station-in-jandool-in-lower-dir-pakistan.md)
@@ -13,7 +13,7 @@ At least seven people have been killed after a suicide bomber struck a bus stati
 
 ##### Baton
 ### [Police baton and tear gas people protesting on a highway in Dhaka, arresting dozens. ](/news/2011/04/4/police-baton-and-tear-gas-people-protesting-on-a-highway-in-dhaka-arresting-dozens.md)
-_Context: Dhaka, baton, tear gas_
+_Context: baton, tear gas, Dhaka_
 
 ##### Policemen
 ### [Yemeni police fire live rounds and teargas at protesters in the city of Taiz killing one person and injuring over 400. ](/news/2011/04/4/yemeni-police-fire-live-rounds-and-teargas-at-protesters-in-the-city-of-taiz-killing-one-person-and-injuring-over-400.md)
@@ -53,11 +53,11 @@ A three-panel oil painting by artist Zhang Xiaogang sells for 79m Hong Kong doll
 
 ##### Prince Albert II of Monaco
 ### [Prince Albert II of Monaco's Rhodesian-born fiancee Charlene Wittstock converts to Roman Catholicism. ](/news/2011/04/4/prince-albert-ii-of-monaco-s-rhodesian-born-fianca-c-e-charlene-wittstock-converts-to-roman-catholicism.md)
-_Context: Prince Albert II of Monaco, Charlene, Princess of Monaco, Roman Catholicism, Rhodesia_
+_Context: Roman Catholicism, Charlene, Princess of Monaco, Prince Albert II of Monaco, Rhodesia_
 
 ##### Bank of Japan
 ### [The Bank of Japan releases its Quarterly Tankan survey of business sentiment confirming that the recent 2011 Tohoku earthquake and tsunami has had a negative effect on business confidence. ](/news/2011/04/4/the-bank-of-japan-releases-its-quarterly-tankan-survey-of-business-sentiment-confirming-that-the-recent-2011-tahoku-earthquake-and-tsunami.md)
-_Context: Bank of Japan, Quarterly Tankan survey of business sentiment, 2011 Tohoku earthquake and tsunami_
+_Context: Bank of Japan, 2011 Tohoku earthquake and tsunami, Quarterly Tankan survey of business sentiment_
 
 ##### 
 ### [It is reported that China has succeeded in genetically modifying cows to produce "human" milk. ](/news/2011/04/4/it-is-reported-that-china-has-succeeded-in-genetically-modifying-cows-to-produce-human-milk.md)
@@ -79,7 +79,7 @@ The M11 in Essex is closed following a six-vehicle crash which leaves five peopl
 
 ##### Dog
 ### [A two-year-old dog is reunited with her owner in tsunami-ravished Japan. ](/news/2011/04/4/a-two-year-old-dog-is-reunited-with-her-owner-in-tsunami-ravished-japan.md)
-_Context: Japan, dog_
+_Context: dog, Japan_
 
 ##### Tornado
 ### [A possible tornado hits an automotive plant in Hopkinsville, Kentucky near Nashville, injuring seven people. ](/news/2011/04/4/a-possible-tornado-hits-an-automotive-plant-in-hopkinsville-kentucky-near-nashville-injuring-seven-people.md)
@@ -99,7 +99,7 @@ _Context: Gulf Co-operation Council, Iran_
 
 ##### Indonesia
 ### [The Indonesian government appeals after Saudi Arabia acquits a woman accused of torturing her Indonesian maid. ](/news/2011/04/4/the-indonesian-government-appeals-after-saudi-arabia-acquits-a-woman-accused-of-torturing-her-indonesian-maid.md)
-_Context: Indonesia, Saudi Arabia_
+_Context: Saudi Arabia, Indonesia_
 
 ##### Prince Albert II of Monaco
 ### [Prince Albert II of Monaco and his fiancee Charlene Wittstock arrive in Ireland for a state visit, 50 years after the visit of Prince Rainier and Hollywood actress Princess Grace. They are to dine at a state banquet hosted by President Mary McAleese and her husband at Aras an Uachtarain. ](/news/2011/04/4/prince-albert-ii-of-monaco-and-his-fianca-c-e-charlene-wittstock-arrive-in-ireland-for-a-state-visit-50-years-after-the-visit-of-prince-raini.md)
@@ -135,7 +135,7 @@ Prominent lawyer and dissident Cu Huy Ha Vu is jailed for seven years in Vietnam
 
 ##### Than Shwe
 ### [Than Shwe, the former head of Burma's State Peace and Development Council, retires as the head of the Myanmar military. ](/news/2011/04/4/than-shwe-the-former-head-of-burma-s-state-peace-and-development-council-retires-as-the-head-of-the-myanmar-military.md)
-_Context: State Peace and Development Council, security forces, Than Shwe, Burma_
+_Context: Than Shwe, State Peace and Development Council, security forces, Burma_
 
 ##### Ivor Callely
 ### [Controversial Irish senator Ivor Callely, who last year was embroiled in an expenses scandal, is fined EUR60 by a court for breaching the law. ](/news/2011/04/4/controversial-irish-senator-ivor-callely-who-last-year-was-embroiled-in-an-expenses-scandal-is-fined-a-60-by-a-court-for-breaching-the-la.md)

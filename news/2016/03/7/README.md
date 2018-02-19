@@ -33,7 +33,7 @@ A Bay Area commuter train en route to Stockton derailed Monday night, authoritie
 
 ##### South Korea-United States relations
 ### [South Korea and the United States start a joint military exercise as North Korea repeats threats of "indiscriminate" nuclear strikes. ](/news/2016/03/7/south-korea-and-the-united-states-start-a-joint-military-exercise-as-north-korea-repeats-threats-of-indiscriminate-nuclear-strikes.md)
-_Context: North Korea, United States, South Korea-United States relations, South Korea_
+_Context: North Korea, South Korea, South Korea-United States relations, United States_
 
 ##### Israeli-Palestinian conflict
 ### [Indonesian President Joko "Jokowi" Widodo calls on Muslim leaders at the Organisation of Islamic Cooperation (OIC) summit meeting in Jakarta to unite and be part of the solution on Palestine, noting the entire world is concerned about its deteriorating situation. Jokowi also criticizes what he calls Israel's "unilateral and illegal policies." ](/news/2016/03/7/indonesian-president-joko-ajokowia-widodo-calls-on-muslim-leaders-at-the-organisation-of-islamic-cooperation-oic-summit-meeting-in-jak.md)
@@ -65,7 +65,7 @@ Michael Warren, who downloaded more than 1000 images of child abuse while workin
 
 ##### Erin Andrews
 ### [American sportscaster Erin Andrews is awarded $55 million damages after a stranger, in 2008, secretly recorded her in the nude through a hotel door peephole, and posted the video on the Internet. ](/news/2016/03/7/american-sportscaster-erin-andrews-is-awarded-55-million-damages-after-a-stranger-in-2008-secretly-recorded-her-in-the-nude-through-a-hot.md)
-_Context: Erin Andrews, Internet, peephole_
+_Context: peephole, Erin Andrews, Internet_
 
 ##### 2016 U.S. election
 ### [Former New York City mayor Michael Bloomberg announces he will not run for president in 2016 because of the impact his candidacy might have on the outcome in November. ](/news/2016/03/7/former-new-york-city-mayor-michael-bloomberg-announces-he-will-not-run-for-president-in-2016-because-of-the-impact-his-candidacy-might-have.md)

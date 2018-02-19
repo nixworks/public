@@ -5,11 +5,11 @@ Formats: [HTML](2017/01/2/index.html)  [JSON](2017/01/2/index.json)  [XML](2017/
 
 ##### 2017 Istanbul nightclub attack
 ### [The Islamic State in Iraq and the Levant claims responsibility for the attack in what it claims is a response to Turkey's actions in neighbouring Syria. ](/news/2017/01/2/the-islamic-state-in-iraq-and-the-levant-claims-responsibility-for-the-attack-in-what-it-claims-is-a-response-to-turkey-s-actions-in-neighbo.md)
-_Context: Turkey, 2017 Istanbul nightclub attack, Syria, Islamic State in Iraq and the Levant_
+_Context: Islamic State in Iraq and the Levant, 2017 Istanbul nightclub attack, Syria, Turkey_
 
 ##### January 2017 Baghdad bombings
 ### [A series of attacks kill at least 70 people and injure more than 100 others in mostly Shiite neighborhoods of Baghdad, Iraq. ](/news/2017/01/2/a-series-of-attacks-kill-at-least-70-people-and-injure-more-than-100-others-in-mostly-shiite-neighborhoods-of-baghdad-iraq.md)
-_Context: January 2017 Baghdad bombings, Baghdad, Iraq_
+_Context: Baghdad, Iraq, January 2017 Baghdad bombings_
 
 ##### Texas
 ### [In Texas, four children die with an additional six others injured after they are poisoned by phosgene gas sprayed in an inappropriate attempt as a pesticide. ](/news/2017/01/2/in-texas-four-children-die-with-an-additional-six-others-injured-after-they-are-poisoned-by-phosgene-gas-sprayed-in-an-inappropriate-attemp.md)
@@ -21,7 +21,7 @@ A poisonous gas believed to have been released when someone tried to wash away a
 
 ##### Southern United States
 ### [A powerful storm system hits the southern United States, resulting in four deaths in Alabama and severe damage across several states. ](/news/2017/01/2/a-powerful-storm-system-hits-the-southern-united-states-resulting-in-four-deaths-in-alabama-and-severe-damage-across-several-states.md)
-_Context: Alabama, southern United States_
+_Context: southern United States, Alabama_
 
 ##### Ban Bueng District
 ### [A traffic collision between a minivan and a pickup truck in the Ban Bueng District of Chonburi Province, Thailand kills at least 25 people and leaves 2 others injured. Authorities investigate the cause of the accident. ](/news/2017/01/2/a-traffic-collision-between-a-minivan-and-a-pickup-truck-in-the-ban-bueng-district-of-chonburi-province-thailand-kills-at-least-25-people-a.md)

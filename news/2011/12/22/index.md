@@ -9,7 +9,7 @@ A wave of apparently co-ordinated bomb attacks in the Iraqi capital, Baghdad, ki
 
 ##### United States
 ### [The United States admits it was significantly responsible for an airstrike last month that killed 24 Pakistani soldiers. ](/news/2011/12/22/the-united-states-admits-it-was-significantly-responsible-for-an-airstrike-last-month-that-killed-24-pakistani-soldiers.md)
-_Context: Pakistan, NATO airstrike, United States_
+_Context: United States, Pakistan, NATO airstrike_
 
 ##### DR Congo
 ### [Killings and coverups are reported to be occurring in the Democratic Republic of the Congo. ](/news/2011/12/22/killings-and-coverups-are-reported-to-be-occurring-in-the-democratic-republic-of-the-congo.md)
@@ -25,11 +25,11 @@ _Context: Arab League, Syria, 2011 Syrian uprising_
 
 ##### Egypt
 ### [Egypt's military-appointed Prime Minister Kamal Ganzouri calls for national dialogue after weeks of deadly protests against the military regime. ](/news/2011/12/22/egypt-s-military-appointed-prime-minister-kamal-ganzouri-calls-for-national-dialogue-after-weeks-of-deadly-protests-against-the-military-reg.md)
-_Context: Egyptian military, Prime Minister of Egypt, Egypt, Kamal Ganzouri_
+_Context: Kamal Ganzouri, Egyptian military, Egypt, Prime Minister of Egypt_
 
 ##### Dar es Salaam
 ### [Floods hit the city of Dar es Salaam, Tanzania, killing at least 13 people in the nation's worst floods since its independence in 1961. ](/news/2011/12/22/floods-hit-the-city-of-dar-es-salaam-tanzania-killing-at-least-13-people-in-the-nation-s-worst-floods-since-its-independence-in-1961.md)
-_Context: Tanzania, Dar es Salaam_
+_Context: Dar es Salaam, Tanzania_
 
 ##### Brazil
 ### [Police in Brazil seek to press charges for environmental crimes committed by the United States oil company Chevron and drilling firm Transocean in relation to last month's Campos Basin oil spill. ](/news/2011/12/22/police-in-brazil-seek-to-press-charges-for-environmental-crimes-committed-by-the-united-states-oil-company-chevron-and-drilling-firm-transoc.md)
@@ -41,7 +41,7 @@ An Australian teenager who stabbed an Indian student to death in an attack that 
 
 ##### Teargas
 ### [Teargas is fired and protesters arrested in Haimen, southern China, in a demonstration against the construction of a power plant. ](/news/2011/12/22/teargas-is-fired-and-protesters-arrested-in-haimen-southern-china-in-a-demonstration-against-the-construction-of-a-power-plant.md)
-_Context: Haimen, China, Teargas_
+_Context: Teargas, China, Haimen_
 
 ##### Russia
 ### [Russian President Dmitry Medvedev proposes political reforms at his final state-of-the-nation address. ](/news/2011/12/22/russian-president-dmitry-medvedev-proposes-political-reforms-at-his-final-state-of-the-nation-address.md)
@@ -49,7 +49,7 @@ Simplifying the registration of political parties and presidential candidates, a
 
 ##### Italy
 ### [Italy's senate debates the proposed economic austerity measures of Prime Minister Mario Monti. ](/news/2011/12/22/italy-s-senate-debates-the-proposed-economic-austerity-measures-of-prime-minister-mario-monti.md)
-_Context: Italy, Mario Monti_
+_Context: Mario Monti, Italy_
 
 ##### France
 ### [France's National Assembly votes in favour of a bill criminalising any denial that the mass killing of Armenians by the Ottoman Empire in the 1910s was genocide. ](/news/2011/12/22/france-s-national-assembly-votes-in-favour-of-a-bill-criminalising-any-denial-that-the-mass-killing-of-armenians-by-the-ottoman-empire-in-th.md)

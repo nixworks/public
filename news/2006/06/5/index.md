@@ -5,11 +5,11 @@ Formats: [HTML](2006/06/5/index.html)  [JSON](2006/06/5/index.json)  [XML](2006/
 
 ##### Javier Solana
 ### [ Javier Solana, foreign policy chief of the European Union, arrives in Tehran to talk with the Iranian Government about its plans to develop uranium enrichment facilities. ](/news/2006/06/5/javier-solana-foreign-policy-chief-of-the-european-union-arrives-in-tehran-to-talk-with-the-iranian-government-about-its-plans-to-develop.md)
-_Context: Javier Solana, European Union, Tehran, Iran_
+_Context: Iran, Javier Solana, European Union, Tehran_
 
 ##### Islamic Court Union
 ### [ The Islamic Court Union announces that it has seized Mogadishu, the capital of Somalia, after battles with the Alliance for the Restoration of Peace and Counterterrorism, a group of secular US-backed warlords. ](/news/2006/06/5/the-islamic-court-union-announces-that-it-has-seized-mogadishu-the-capital-of-somalia-after-battles-with-the-alliance-for-the-restoration.md)
-_Context: Islamic Court Union, Alliance for the Restoration of Peace and Counterterrorism, Somalia, Mogadishu, battles_
+_Context: Mogadishu, battles, Islamic Court Union, Alliance for the Restoration of Peace and Counterterrorism, Somalia_
 
 ##### Alan Garca
 ### [ Alan Garca of the APRA is re-elected President of Peru after winning a runoff with the Union for Peru's Ollanta Humala on Sunday. ](/news/2006/06/5/alan-garcia-of-the-apra-is-re-elected-president-of-peru-after-winning-a-runoff-with-the-union-for-peru-s-ollanta-humala-on-sunday.md)

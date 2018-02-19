@@ -13,7 +13,7 @@ The Supreme Court ruled Tuesday that a law meant to punish pornographers who ped
 
 ##### European Union
 ### [ European Union leaders formally nominate Portuguese Prime Minister Jose Manuel Barroso to the post of European Commission president. ](/news/2004/06/29/european-union-leaders-formally-nominate-portuguese-prime-minister-josa-c-manuel-barroso-to-the-post-of-european-commission-president.md)
-_Context: Prime Minister, Portugal, Jose Manuel Barroso, European Union, European Commission, President of the European Commission_
+_Context: President of the European Commission, Jose Manuel Barroso, Prime Minister, European Commission, Portugal, European Union_
 
 ## [Previous Day...](/news/2004/06/28/index.md)
 

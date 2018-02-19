@@ -5,7 +5,7 @@ Formats: [HTML](2010/10/25/index.html)  [JSON](2010/10/25/index.json)  [XML](201
 
 ##### Bomb
 ### [A bomb at the Fariduddin Ganjshakar Sufi shrine in Pakpattan, a city in Pakistan's Punjab province, kills at least eight people and injures twenty. ](/news/2010/10/25/a-bomb-at-the-fariduddin-ganjshakar-sufi-shrine-in-pakpattan-a-city-in-pakistan-s-punjab-province-kills-at-least-eight-people-and-injures.md)
-_Context: Fariduddin Ganjshakar, Pakpattan, Punjab Province, Sufi, shrine, bomb, Pakistan_
+_Context: Punjab Province, Pakistan, bomb, shrine, Pakpattan, Sufi, Fariduddin Ganjshakar_
 
 ##### Orakzai
 ### [A roadside bomb struck a passenger van in the Orakzai tribal region killing three people and wounding two others near Tanda. ](/news/2010/10/25/a-roadside-bomb-struck-a-passenger-van-in-the-orakzai-tribal-region-killing-three-people-and-wounding-two-others-near-tanda.md)
@@ -21,15 +21,15 @@ _Context: Western Sahara, Sahrawi_
 
 ##### Chinese
 ### [China and Africa celebrated the tenth anniversary of the Forum on China-Africa Cooperation (FOCAC) in Beijing. Jia Qinglin, chairman of the National Committee of the Chinese People's Political Consultative Conference, addressed the reception commemorating. ](/news/2010/10/25/china-and-africa-celebrated-the-tenth-anniversary-of-the-forum-on-china-africa-cooperation-focac-in-beijing-jia-qinglin-chairman-of-the.md)
-_Context: Chinese, Africa, Beijing, Jia Qinglin, Forum on China-Africa Cooperation, National Committee of the Chinese People's Political Consultative Conference_
+_Context: Jia Qinglin, Chinese, Forum on China-Africa Cooperation, Africa, National Committee of the Chinese People's Political Consultative Conference, Beijing_
 
 ##### Lhasa
 ### [Lhasa invests 90 million yuan in 23 tourist facilities. The tourist facilities include Lhasa Tourist Service Center, Namtso Scenic Spot, Potala Palace- Jokhang Temple- Norbu Linka Cultural Heritage tourist attractions, etc. ](/news/2010/10/25/lhasa-invests-90-million-yuan-in-23-tourist-facilities-the-tourist-facilities-include-lhasa-tourist-service-center-namtso-scenic-spot-pot.md)
-_Context: Potala Palace, Lhasa, Jokhang, Lhasa Tourist Service Center, Namtso Scenic Spot_
+_Context: Namtso Scenic Spot, Lhasa Tourist Service Center, Lhasa, Jokhang, Potala Palace_
 
 ##### United Arab Emirates
 ### [United Arab Emirates pavilion in Shanghai wins National Council of Structural Engineers Associations (NCSEA) Excellence Award in Structural Engineering at Shanghai Expo 2010. ](/news/2010/10/25/united-arab-emirates-pavilion-in-shanghai-wins-national-council-of-structural-engineers-associations-ncsea-excellence-award-in-structural.md)
-_Context: Structural Engineering, United Arab Emirates, Shanghai Expo, National Council of Structural Engineers Associations, Shanghai_
+_Context: National Council of Structural Engineers Associations, Shanghai, Shanghai Expo, Structural Engineering, United Arab Emirates_
 
 ##### Singapore Exchange
 ### [Singapore Exchange proposes a $A8.4 billion takeover of the Australian Securities Exchange. ](/news/2010/10/25/singapore-exchange-proposes-a-a8-4-billion-takeover-of-the-australian-securities-exchange.md)
@@ -37,7 +37,7 @@ The Singapore stock exchange unveils a multi-billion dollar bid for the company 
 
 ##### Sony
 ### [Sony stops selling the original cassette Walkman. ](/news/2010/10/25/sony-stops-selling-the-original-cassette-walkman.md)
-_Context: Sony, cassette, Walkman_
+_Context: cassette, Sony, Walkman_
 
 ##### United States
 ### [US financial regulators launch an investigation into the foreclosure practices of various US financial institutions. ](/news/2010/10/25/us-financial-regulators-launch-an-investigation-into-the-foreclosure-practices-of-various-us-financial-institutions.md)
@@ -45,11 +45,11 @@ US banking regulators plan their own investigation into whether lenders were wro
 
 ##### BP
 ### [CEO Bob Dudley outlines a strategy to rebuild public trust, after the Deepwater Horizon oil spill. ](/news/2010/10/25/ceo-bob-dudley-outlines-a-strategy-to-rebuild-public-trust-after-the-deepwater-horizon-oil-spill.md)
-_Context: Deepwater Horizon oil spill, BP, Bob Dudley_
+_Context: BP, Bob Dudley, Deepwater Horizon oil spill_
 
 ##### AIG
 ### [American International Group CEO Robert Benmosche has cancer, the company said, and he is receiving "aggressive chemotherapy," but his prognosis is not clear. ](/news/2010/10/25/american-international-group-ceo-robert-benmosche-has-cancer-the-company-said-and-he-is-receiving-aggressive-chemotherapy-but-his-progn.md)
-_Context: chemotherapy, cancer, AIG, Robert Benmosche_
+_Context: AIG, Robert Benmosche, cancer, chemotherapy_
 
 ##### BP Canada
 ### [One person is killed and nine others injured after a plane carrying employees of BP Canada crashes in northeastern Alberta. The twin-engine King Air 100 was on its way from Edmonton City Centre Airport to Kirby Lake, southeast of Conklin. ](/news/2010/10/25/one-person-is-killed-and-nine-others-injured-after-a-plane-carrying-employees-of-bp-canada-crashes-in-northeastern-alberta-the-twin-engine.md)
@@ -73,7 +73,7 @@ THE VATICAN&rsquo;s two-week long synod on the Middle East ended on a polemical 
 
 ##### Japan
 ### [Japan lodges a formal protest with China after two Chinese fishing boats were seen near the Senkaku Islands. ](/news/2010/10/25/japan-lodges-a-formal-protest-with-china-after-two-chinese-fishing-boats-were-seen-near-the-senkaku-islands.md)
-_Context: China, Senkaku Islands, Japan_
+_Context: China, Japan, Senkaku Islands_
 
 ##### Afghan
 ### [President Hamid Karzai acknowledges that his office has regularly received cash from Iran and the United States but claims that the process was transparent. ](/news/2010/10/25/president-hamid-karzai-acknowledges-that-his-office-has-regularly-received-cash-from-iran-and-the-united-states-but-claims-that-the-process.md)
@@ -97,7 +97,7 @@ The EU is for the first time sending border guards to help Greece stem an influx
 
 ##### Chandra Levy
 ### [The trial of the alleged killer of Chandra Levy, Ingmar Guandique of El Salvador, begins in Washington D.C. ](/news/2010/10/25/the-trial-of-the-alleged-killer-of-chandra-levy-ingmar-guandique-of-el-salvador-begins-in-washington-d-c.md)
-_Context: Washington D.C, El Salvador, Chandra Levy_
+_Context: Chandra Levy, El Salvador, Washington D.C_
 
 ##### Liberal Democrats
 ### [Liberal Democrat Deputy Leader Simon Hughes is threatening a backbench rebellion over proposed housing benefits cut, which might threaten the stability of the United Kingdom coalition government, of which the Liberal Democrats are a part of. ](/news/2010/10/25/liberal-democrat-deputy-leader-simon-hughes-is-threatening-a-backbench-rebellion-over-proposed-housing-benefits-cut-which-might-threaten-th.md)
@@ -117,7 +117,7 @@ _Context: Ontario municipal elections, 2010, Ontario_
 
 ##### Australian Prime Minister
 ### [An audience member throws shoes at former Prime Minister of Australia John Howard during an appearance on Q&A on ABC1. ](/news/2010/10/25/an-audience-member-throws-shoes-at-former-prime-minister-of-australia-john-howard-during-an-appearance-on-q-a-on-abc1.md)
-_Context: John Howard, ABC1, Q&A, Australian Prime Minister_
+_Context: Q&A, Australian Prime Minister, John Howard, ABC1_
 
 ##### Insect
 ### [More than 700 species of ancient insects are discovered preserved in amber in an ancient rainforest in India. ](/news/2010/10/25/more-than-700-species-of-ancient-insects-are-discovered-preserved-in-amber-in-an-ancient-rainforest-in-india.md)

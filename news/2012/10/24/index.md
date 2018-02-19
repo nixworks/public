@@ -29,7 +29,7 @@ Ireland&#39;s analogue television network has been replaced by a digital signal 
 
 ##### International Trade Commission
 ### [An administrative law judge with the U.S. International Trade Commission issues a preliminary decision on a long-running Samsung-Apple dispute, in favor of Apple's complaint on four of the six patents in dispute. ](/news/2012/10/24/an-administrative-law-judge-with-the-u-s-international-trade-commission-issues-a-preliminary-decision-on-a-long-running-samsung-apple-dispu.md)
-_Context: International Trade Commission, Apple Inc., Samsung_
+_Context: Apple Inc., Samsung, International Trade Commission_
 
 ##### Roma
 ### [After years of delays and disputes over cost and design, and amid references in newspapers to Germany's rejection of asylum applications by Roma from Kosovo and comments from the country's interior minister alleging "increasing abuse of asylum from countries in the Balkans", Angela Merkel unveils a memorial near the Reichstag to members of the Roma community killed during the Nazi Holocaust. ](/news/2012/10/24/after-years-of-delays-and-disputes-over-cost-and-design-and-amid-references-in-newspapers-to-germany-s-rejection-of-asylum-applications-by.md)

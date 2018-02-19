@@ -9,7 +9,7 @@ _Context: Little Rock, Arkansas, Bill Gwatney, Democratic Party of Arkansas_
 
 ##### Lilian of Sweden
 ### [ Princess Lilian of Sweden is taken to hospital after falling and breaking her hip. ](/news/2008/08/13/princess-lilian-of-sweden-is-taken-to-hospital-after-falling-and-breaking-her-hip.md)
-_Context: Lilian of Sweden, hip_
+_Context: hip, Lilian of Sweden_
 
 ##### United States
 ### [ American swimmer Michael Phelps breaks the record for most Olympic gold medals won by an individual athlete at the Beijing Olympics. ](/news/2008/08/13/american-swimmer-michael-phelps-breaks-the-record-for-most-olympic-gold-medals-won-by-an-individual-athlete-at-the-beijing-olympics.md)
@@ -21,7 +21,7 @@ The first of C-17 planes carrying humanitarian supplies has arrived in Tbilisi, 
 
 ##### Fokker F27-500
 ### [ A Fokker F27-500 cargo aircraft operated by Fly540 Logistics Ltd. crashes in Somalia. Three people died. ](/news/2008/08/13/a-fokker-f27-500-cargo-aircraft-operated-by-fly540-logistics-ltd-crashes-in-somalia-three-people-died.md)
-_Context: Fly540 Logistics Ltd., Somalia, Fokker F27-500_
+_Context: Fly540 Logistics Ltd., Fokker F27-500, Somalia_
 
 ##### Pakistan
 ### [ An explosion at a police station in the Pakistani city of Lahore kills at least three people, on the eve of the 61 st anniversary of independence. ](/news/2008/08/13/an-explosion-at-a-police-station-in-the-pakistani-city-of-lahore-kills-at-least-three-people-on-the-eve-of-the-61-st-anniversary-of-indepe.md)

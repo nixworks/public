@@ -13,7 +13,7 @@ French voters rejected a proposed European Union constitution Sunday, igniting a
 
 ##### Dan Wheldon
 ### [ Dan Wheldon won the 89th running of the Indianapolis 500, beating rookie Danica Patrick, who led the race three times and came in an impressive fourth place ](/news/2005/05/29/dan-wheldon-won-the-89th-running-of-the-indianapolis-500-beating-rookie-danica-patrick-who-led-the-race-three-times-and-came-in-an-impres.md)
-_Context: Danica Patrick, Indianapolis 500, Dan Wheldon_
+_Context: Dan Wheldon, Indianapolis 500, Danica Patrick_
 
 ##### Brazil
 ### [ In Brazil, huge Gay Pride parade begins in So Paulo. ](/news/2005/05/29/in-brazil-huge-gay-pride-parade-begins-in-sao-paulo.md)

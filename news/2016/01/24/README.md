@@ -5,7 +5,7 @@ Formats: [HTML](2016/01/24/index.html)  [JSON](2016/01/24/index.json)  [XML](201
 
 ##### Syrian Civil War
 ### [The Syrian Army takes control of the strategic Turkmen town of Rabia in Syria's Latakia Governorate. The town had been under rebel control since 2012. ](/news/2016/01/24/the-syrian-army-takes-control-of-the-strategic-turkmen-town-of-rabia-in-syria-s-latakia-governorate-the-town-had-been-under-rebel-control-s.md)
-_Context: Latakia province, Turkmen, Syrian Army, Syria, Syrian Civil War, Rabia_
+_Context: Latakia province, Turkmen, Rabia, Syrian Army, Syrian Civil War, Syria_
 
 ##### Japan
 ### [Heavy snowfall in western and central Japan leaves at least two people dead and over a hundred injured. Snowfall was also recorded for the first time in 155 years on Amami Oshima, a subtropical island in Japan's southern Kagoshima Prefecture. ](/news/2016/01/24/heavy-snowfall-in-western-and-central-japan-leaves-at-least-two-people-dead-and-over-a-hundred-injured-snowfall-was-also-recorded-for-the-f.md)

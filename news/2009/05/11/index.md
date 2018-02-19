@@ -5,23 +5,23 @@ Formats: [HTML](2009/05/11/index.html)  [JSON](2009/05/11/index.json)  [XML](200
 
 ##### Elevator
 ### [ Six people are injured as an elevator collapses inside Tower Bridge in London, England. ](/news/2009/05/11/six-people-are-injured-as-an-elevator-collapses-inside-tower-bridge-in-london-england.md)
-_Context: London, Tower Bridge, elevator, England_
+_Context: elevator, England, London, Tower Bridge_
 
 ##### China
 ### [ The People's Republic of China confirms its first case of (A)H1N1 influenza. ](/news/2009/05/11/the-people-s-republic-of-china-confirms-its-first-case-of-a-h1n1-influenza.md)
-_Context: confirms its first case, H1N1, China, swine flu_
+_Context: swine flu, China, H1N1, confirms its first case_
 
 ##### Iran
 ### [ An Iranian appellate court releases imprisoned American journalist Roxana Saberi. ](/news/2009/05/11/an-iranian-appellate-court-releases-imprisoned-american-journalist-roxana-saberi.md)
-_Context: Roxana Saberi, Iran, appellate court, journalist, United States, jail_
+_Context: jail, Iran, Roxana Saberi, appellate court, journalist, United States_
 
 ##### United States
 ### [ A United States Army soldier kills five comrades at Camp Liberty in Baghdad, Iraq. ](/news/2009/05/11/a-united-states-army-soldier-kills-five-comrades-at-camp-liberty-in-baghdad-iraq.md)
-_Context: United States, kills, Baghdad, comrade, soldier, Camp Liberty, Iraq, United States soldier_
+_Context: Iraq, comrade, Baghdad, United States, soldier, Camp Liberty, kills, United States soldier_
 
 ##### Kills
 ### [ A gunman kills two people and commits suicide near Oslo, Norway. ](/news/2009/05/11/a-gunman-kills-two-people-and-commits-suicide-near-oslo-norway.md)
-_Context: suicide, Norway, Oslo, kills_
+_Context: Norway, kills, Oslo, suicide_
 
 ##### Tata Motors
 ### [ Tata Motors intends to raise GBP1 billion to sustain Jaguar Land Rover. ](/news/2009/05/11/tata-motors-intends-to-raise-agbp1-billion-to-sustain-jaguar-land-rover.md)
@@ -29,7 +29,7 @@ Tata group-owned Jaguar Land Rover (JLR) is planning to raise up to &pound;1 bil
 
 ##### Guatemala
 ### [ Guatemalan President Alvaro Colom is accused of ordering the assassination of lawyer Rodrigo Rosenberg. ](/news/2009/05/11/guatemalan-president-alvaro-colom-is-accused-of-ordering-the-assassination-of-lawyer-rodrigo-rosenberg.md)
-_Context: lawyer, Guatemalan President, Guatemala, Alvaro Colom, Rodrigo Rosenberg Marzano, assassination_
+_Context: Alvaro Colom, Rodrigo Rosenberg Marzano, Guatemala, Guatemalan President, lawyer, assassination_
 
 ## [Previous Day...](/news/2009/05/10/index.md)
 

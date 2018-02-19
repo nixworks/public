@@ -9,11 +9,11 @@ A manhunt is under way in Paris after a gunman attacks a bank HQ and the newspap
 
 ##### President
 ### [Philippine President Benigno Aquino III encamps in Tacloban to oversee the rescue and relief operations after receiving criticism for his disorganized response early into the tragedy. ](/news/2013/11/18/philippine-president-benigno-aquino-iii-encamps-in-tacloban-to-oversee-the-rescue-and-relief-operations-after-receiving-criticism-for-his-di.md)
-_Context: President, Tacloban, his predecessor_
+_Context: President, his predecessor, Tacloban_
 
 ##### Egypt
 ### [At least twenty people are dead after an Egyptian train collides with a minibus and other vehicles south of Cairo. ](/news/2013/11/18/at-least-twenty-people-are-dead-after-an-egyptian-train-collides-with-a-minibus-and-other-vehicles-south-of-cairo.md)
-_Context: Cairo, minibus, Egypt_
+_Context: Egypt, minibus, Cairo_
 
 ##### Mounts Merapi
 ### [Mounts Merapi and Sinabung erupt in Indonesia forcing residents of Central Java and North Sumatra to flee. ](/news/2013/11/18/mounts-merapi-and-sinabung-erupt-in-indonesia-forcing-residents-of-central-java-and-north-sumatra-to-flee.md)

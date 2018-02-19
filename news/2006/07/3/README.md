@@ -13,7 +13,7 @@ _Context: nuclear strike, North Korea, United States_
 
 ##### Greece
 ### [ Greece is suspended from international football competition by FIFA due to Greek government interference in the sport. ](/news/2006/07/3/greece-is-suspended-from-international-football-competition-by-fifa-due-to-greek-government-interference-in-the-sport.md)
-_Context: Greece, government, football, FIFA_
+_Context: Greece, football, government, FIFA_
 
 ##### Subway accident in Valencia
 ### [ At least 41 people die during a lunchtime subway accident in Valencia, Spain when two cars of a train derail and overturn. Early reports indicate the train was travelling too fast. ](/news/2006/07/3/at-least-41-people-die-during-a-lunchtime-subway-accident-in-valencia-spain-when-two-cars-of-a-train-derail-and-overturn-early-reports-in.md)

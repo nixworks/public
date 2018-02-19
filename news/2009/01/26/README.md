@@ -5,23 +5,23 @@ Formats: [HTML](2009/01/26/index.html)  [JSON](2009/01/26/index.json)  [XML](200
 
 ##### United States
 ### [ The United States Senate confirms Timothy F. Geithner as Secretary of the Treasury. ](/news/2009/01/26/the-united-states-senate-confirms-timothy-f-geithner-as-secretary-of-the-treasury.md)
-_Context: United States, United States Secretary of the Treasury, United States Senate, Timothy F. Geithner_
+_Context: Timothy F. Geithner, United States Senate, United States Secretary of the Treasury, United States_
 
 ##### Israel
 ### [ An Israeli soldier is killed and three others injured in a bombing at the Gaza Strip border. ](/news/2009/01/26/an-israeli-soldier-is-killed-and-three-others-injured-in-a-bombing-at-the-gaza-strip-border.md)
-_Context: Israeli Army, bomb, Israel, Gaza Strip_
+_Context: bomb, Israeli Army, Israel, Gaza Strip_
 
 ##### Iceland
 ### [ Icelandic Prime Minister Geir Haarde announces the collapse of his coalition government in the wake of the country's financial crisis. ](/news/2009/01/26/icelandic-prime-minister-geir-haarde-announces-the-collapse-of-his-coalition-government-in-the-wake-of-the-country-s-financial-crisis.md)
-_Context: Prime Minister, Geir Haarde, Politics of Iceland, governing coalition, 2008 economic meltdown, Iceland_
+_Context: Iceland, 2008 economic meltdown, Geir Haarde, Politics of Iceland, governing coalition, Prime Minister_
 
 ##### United States
 ### [ United States pharmaceutical company Pfizer announces it will buy rival Wyeth in a US$68-billion deal. ](/news/2009/01/26/united-states-pharmaceutical-company-pfizer-announces-it-will-buy-rival-wyeth-in-a-us-68-billion-deal.md)
-_Context: Wyeth, United States, Pfizer, pharmaceutical companies, $_
+_Context: Wyeth, $, pharmaceutical companies, Pfizer, United States_
 
 ##### Kills two people and injures seven others
 ### [ A gunman kills two people and injures seven others in Portland, Oregon, before shooting and critically wounding himself. ](/news/2009/01/26/a-gunman-kills-two-people-and-injures-seven-others-in-portland-oregon-before-shooting-and-critically-wounding-himself.md)
-_Context: kills two people and injures seven others, Portland, Oregon, Oregon_
+_Context: Portland, Oregon, kills two people and injures seven others, Oregon_
 
 ##### Riverboat
 ### [ Forty people are killed when a riverboat sinks in central Vietnam. ](/news/2009/01/26/forty-people-are-killed-when-a-riverboat-sinks-in-central-vietnam.md)
@@ -29,11 +29,11 @@ _Context: Vietnam, riverboat_
 
 ##### State of emergency
 ### [ A state of emergency is declared in Coatesville, Pennsylvania, following a series of arson attacks. ](/news/2009/01/26/a-state-of-emergency-is-declared-in-coatesville-pennsylvania-following-a-series-of-arson-attacks.md)
-_Context: Pennsylvania, arson, state of emergency, Coatesville_
+_Context: Pennsylvania, state of emergency, arson, Coatesville_
 
 ##### Sextuplets
 ### [ A set of human octuplets are born alive for the second time in the United States. ](/news/2009/01/26/a-set-of-human-octuplets-are-born-alive-for-the-second-time-in-the-united-states.md)
-_Context: United States, born alive, second time, sextuplets_
+_Context: second time, United States, born alive, sextuplets_
 
 ## [Previous Day...](/news/2009/01/25/index.md)
 

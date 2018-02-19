@@ -21,7 +21,7 @@ CBS suspends star reporter Lara Logan and a producer for a discredited 60 Minute
 
 ##### Chancellor of the Exchequer
 ### [The U.K. Chancellor of the Exchequer asks the Bank of England whether it needs more power. The central bank's Financial Policy Committee will study the question. ](/news/2013/11/26/the-u-k-chancellor-of-the-exchequer-asks-the-bank-of-england-whether-it-needs-more-power-the-central-bank-s-financial-policy-committee-wil.md)
-_Context: Chancellor of the Exchequer, Bank of England_
+_Context: Bank of England, Chancellor of the Exchequer_
 
 ##### Ford Motor Company
 ### [Ford recalls 140,000 Escape model cars from the United States and an additional 21,000 from other nations after 13 engine fires were reported. ](/news/2013/11/26/ford-recalls-140-000-escape-model-cars-from-the-united-states-and-an-additional-21-000-from-other-nations-after-13-engine-fires-were-reporte.md)
@@ -53,11 +53,11 @@ The rock singer has pleaded guilty to offences including two of attempting to ra
 
 ##### Supreme Court of the United States
 ### [The U.S. Supreme Court agrees to hear certain major religious freedom cases that will decide whether a company that is for-profit (including family-run ones)- and other entities who are not themselves churches- can refuse to provide contraceptive coverage that would otherwise be required under the Patient Protection and Affordable Care Act; lower courts are split. ](/news/2013/11/26/the-u-s-supreme-court-agrees-to-hear-certain-major-religious-freedom-cases-that-will-decide-whether-a-company-that-is-for-profit-including.md)
-_Context: appeals court, Supreme Court of the United States, Obamacare_
+_Context: Supreme Court of the United States, Obamacare, appeals court_
 
 ##### Prime Minister
 ### [Protestors demand the resignation of Prime Minister Yingluck Shinawatra who they believe is the puppet of her deposed brother Thaksin. ](/news/2013/11/26/protestors-demand-the-resignation-of-prime-minister-yingluck-shinawatra-who-they-believe-is-the-puppet-of-her-deposed-brother-thaksin.md)
-_Context: Yingluck Shinawatra, Prime Minister, Thaksin Shinawatra_
+_Context: Yingluck Shinawatra, Thaksin Shinawatra, Prime Minister_
 
 ##### White Paper
 ### [A White Paper is released regarding the effects of Scotland's secession. ](/news/2013/11/26/a-white-paper-is-released-regarding-the-effects-of-scotland-s-secession.md)

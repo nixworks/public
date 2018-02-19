@@ -9,7 +9,7 @@ _Context: Bahrain, King of Bahrain_
 
 ##### Ali Abdullah Saleh
 ### [3 people are killed and 18 others are wounded as troops shoot at medics, witnesses and people protesting against the Saleh regime in Ibb, Ta'izz and Sana'a, though Saleh remains defiant. Qatar withdraws from mediation efforts, saying Saleh has been full of "indecision and delays". ](/news/2011/05/13/3-people-are-killed-and-18-others-are-wounded-as-troops-shoot-at-medics-witnesses-and-people-protesting-against-the-saleh-regime-in-ibb-ta.md)
-_Context: Ta'izz, Sana'a, Ibb, Qatar, Ali Abdullah Saleh_
+_Context: Ibb, Qatar, Ta'izz, Ali Abdullah Saleh, Sana'a_
 
 ##### 
 ### [Soldiers are reportedly ordered not to fire on protesters. ](/news/2011/05/13/soldiers-are-reportedly-ordered-not-to-fire-on-protesters.md)
@@ -49,7 +49,7 @@ The US envoy to the Middle East, George Mitchell, is stepping down after two yea
 
 ##### Vietnam
 ### [Vietnam unveils a five year plan to tackle widespread prostitution in the country. ](/news/2011/05/13/vietnam-unveils-a-five-year-plan-to-tackle-widespread-prostitution-in-the-country.md)
-_Context: prostitution in the country, Vietnam_
+_Context: Vietnam, prostitution in the country_
 
 ##### Durango
 ### [8 decapitated corpses, including that of a deputy prison governor, are located by police in Durango, Northwest Mexico. ](/news/2011/05/13/8-decapitated-corpses-including-that-of-a-deputy-prison-governor-are-located-by-police-in-durango-northwest-mexico.md)
@@ -57,11 +57,11 @@ The deputy governor of a prison in Durango, in northern Mexico is found decapita
 
 ##### United Kingdom
 ### [A 62-year-old British woman is beheaded in a supermarket on the Spanish island of Tenerife in what officials say appears to be a random attack. An individual is arrested. ](/news/2011/05/13/a-62-year-old-british-woman-is-beheaded-in-a-supermarket-on-the-spanish-island-of-tenerife-in-what-officials-say-appears-to-be-a-random-atta.md)
-_Context: Spain, United Kingdom, Tenerife_
+_Context: Tenerife, Spain, United Kingdom_
 
 ##### Republika Srpska
 ### [Republika Srpska President Milorad Dodik, speaking after meeting Catherine Ashton in Banja Luka, says a referendum "for the time being is not necessary". The referendum would have been a challenge to both Ashton and the courts of Bosnia. ](/news/2011/05/13/republika-srpska-president-milorad-dodik-speaking-after-meeting-catherine-ashton-in-banja-luka-says-a-referendum-for-the-time-being-is-no.md)
-_Context: Catherine Ashton, Milorad Dodik, President, Republika Srpska, Banja Luka, Bosnian_
+_Context: Bosnian, Republika Srpska, Milorad Dodik, Banja Luka, President, Catherine Ashton_
 
 ##### Plaid Cymru Party
 ### [Plaid Cymru leader Ieuan Wyn Jones vows to stand down from the role in the first half of the Welsh assembly's five-year term following the party's poor results at the recent election. ](/news/2011/05/13/plaid-cymru-leader-ieuan-wyn-jones-vows-to-stand-down-from-the-role-in-the-first-half-of-the-welsh-assembly-s-five-year-term-following-the-p.md)
@@ -69,7 +69,7 @@ Ieuan Wyn Jones reveals he will stand down as Plaid Cymru leader some time in th
 
 ##### FIFA
 ### [FIFA President Sepp Blatter fears being plunged into "a black hole" if AFC President Mohammed Bin Hammam defeats him in next month's leadership election. ](/news/2011/05/13/fifa-president-sepp-blatter-fears-being-plunged-into-a-black-hole-if-afc-president-mohammed-bin-hammam-defeats-him-in-next-month-s-leaders.md)
-_Context: Sepp Blatter, President, Mohammed Bin Hammam, AFC, President, FIFA_
+_Context: AFC, Mohammed Bin Hammam, President, FIFA, Sepp Blatter, President_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI tells Roman Catholic bishops around the world they must obey Summorum Pontificum, a papal order allowing priests to say the old-style Tridentine Mass, regardless of their opinion on it. ](/news/2011/05/13/pope-benedict-xvi-tells-roman-catholic-bishops-around-the-world-they-must-obey-summorum-pontificum-a-papal-order-allowing-priests-to-say-th.md)

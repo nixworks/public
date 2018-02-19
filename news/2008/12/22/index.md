@@ -5,35 +5,35 @@ Formats: [HTML](2008/12/22/index.html)  [JSON](2008/12/22/index.json)  [XML](200
 
 ##### Turkmenistan
 ### [ Results of Turkmenistan's parliamentary election of December 14 are announced. ](/news/2008/12/22/results-of-turkmenistan-s-parliamentary-election-of-december-14-are-announced.md)
-_Context: Turkmenistan, parliamentary election, December 14_
+_Context: parliamentary election, December 14, Turkmenistan_
 
 ##### Romania
 ### [ Romanian legislative election, 2008: Emil Boc is sworn in as the new Prime Minister and will lead a coalition government of the Democrat Liberals and Social Democrats. ](/news/2008/12/22/romanian-legislative-election-2008-emil-boc-is-sworn-in-as-the-new-prime-minister-and-will-lead-a-coalition-government-of-the-democrat-li.md)
-_Context: Prime Minister, Romania, legislative election, 2008, coalition, Emil Boc, PSD, Democrat Liberals_
+_Context: Romania, legislative election, 2008, Democrat Liberals, coalition, Prime Minister, PSD, Emil Boc_
 
 ##### President
 ### [ President of Guinea Lansana Conte dies at age 74. If the Supreme Court declares the position vacant, National Assembly Speaker Aboubacar Sompare will take over for 60 days. ](/news/2008/12/22/president-of-guinea-lansana-conta-c-dies-at-age-74-if-the-supreme-court-declares-the-position-vacant-national-assembly-speaker-aboubacar-s.md)
-_Context: President, Speaker, Aboubacar Sompare, National Assembly, Guinea, Lansana Conte_
+_Context: Lansana Conte, Speaker, Guinea, National Assembly, Aboubacar Sompare, President_
 
 ##### Impoundment
 ### [ An impoundment at the Tennessee Valley Authority's coal-fired power plant in Kingston, Tennessee, fails, resulting in a large volume of fly ash slurry being spilled onto surrounding land and the adjacent Emory and Clinch Rivers. ](/news/2008/12/22/an-impoundment-at-the-tennessee-valley-authority-s-coal-fired-power-plant-in-kingston-tennessee-fails-resulting-in-a-large-volume-of-fly.md)
-_Context: a large volume of fly ash slurry being spilled, Clinch River, Tennessee, coal-fired power plant, Emory, Kingston, impoundment, Tennessee Valley Authority_
+_Context: impoundment, Tennessee Valley Authority, Kingston, Tennessee, Emory, coal-fired power plant, Clinch River, a large volume of fly ash slurry being spilled_
 
 ##### Conspiring to kill soldiers
 ### [ A jury finds five men guilty of conspiring to kill soldiers at Fort Dix, New Jersey, United States. ](/news/2008/12/22/a-jury-finds-five-men-guilty-of-conspiring-to-kill-soldiers-at-fort-dix-new-jersey-united-states.md)
-_Context: Fort Dix, conspiring to kill soldiers, United States, New Jersey_
+_Context: New Jersey, conspiring to kill soldiers, Fort Dix, United States_
 
 ##### Chilpancingo
 ### [ Nine human heads and decapitated bodies, believed to belong to eight soldiers and one high-ranking former police officer, are found in Chilpancingo, Guerrero, Mexico. ](/news/2008/12/22/nine-human-heads-and-decapitated-bodies-believed-to-belong-to-eight-soldiers-and-one-high-ranking-former-police-officer-are-found-in-chil.md)
-_Context: Mexico, Guerrero, Chilpancingo_
+_Context: Chilpancingo, Mexico, Guerrero_
 
 ##### Dealers
 ### [ Automobile dealers in Mexico demand a US$3 billion bailout package during the automotive crisis. ](/news/2008/12/22/automobile-dealers-in-mexico-demand-a-us-3-billion-bailout-package-during-the-automotive-crisis.md)
-_Context: bailout, dealers, $, global crisis_
+_Context: bailout, dealers, global crisis, $_
 
 ##### United States
 ### [ The United States and Mexico pledge $1.4 billion for the Merida Initiative, a security cooperation for combating drug trade, transnational crime, and money laundering. ](/news/2008/12/22/the-united-states-and-mexico-pledge-1-4-billion-for-the-ma-c-rida-initiative-a-security-cooperation-for-combating-drug-trade-transnational.md)
-_Context: narcotics, Merida Initiative, United States, money laundering_
+_Context: United States, narcotics, Merida Initiative, money laundering_
 
 ##### Toyota
 ### [ Toyota Motor Corporation, the world's largest automaker, forecasts its first operating loss in 70 years, due to the automotive crisis. ](/news/2008/12/22/toyota-motor-corporation-the-worldas-largest-automaker-forecasts-its-first-operating-loss-in-70-years-due-to-the-automotive-crisis.md)

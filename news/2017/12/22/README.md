@@ -9,7 +9,7 @@ After 1,000 days of civil war in Yemen, 8 million people are at risk of starvati
 
 ##### Protests on U.S. recognition of Jerusalem as Israeli capital
 ### [Two Palestinians are shot dead and about 60 others are wounded by Israeli troops gunfire as thousands protest along the Gaza border fence, in all seven West Bank cities and in East Jerusalem, against the U.S. declaration. ](/news/2017/12/22/two-palestinians-are-shot-dead-and-about-60-others-are-wounded-by-israeli-troops-gunfire-as-thousands-protest-along-the-gaza-border-fence-i.md)
-_Context: Israeli Army, Protests on U.S. recognition of Jerusalem as Israeli capital, East Jerusalem, Gaza border fence, West Bank, Palestinians_
+_Context: West Bank, Israeli Army, Gaza border fence, Protests on U.S. recognition of Jerusalem as Israeli capital, Palestinians, East Jerusalem_
 
 ##### Economics of bitcoin
 ### [The digital cryptocurrency Bitcoin loses a third of its value within 24 hours. ](/news/2017/12/22/the-digital-cryptocurrency-bitcoin-loses-a-third-of-its-value-within-24-hours.md)
@@ -25,7 +25,7 @@ The suit claims the software tweak, which slows some older iPhones, is a fraud.
 
 ##### Philippine Coast Guard
 ### [The Philippine Coast Guard reports that 252 passengers and crew have been rescued while five people were killed when a ferry capsized Thursday east of Manila. ](/news/2017/12/22/the-philippine-coast-guard-reports-that-252-passengers-and-crew-have-been-rescued-while-five-people-were-killed-when-a-ferry-capsized-thursd.md)
-_Context: Manila, Philippine Coast Guard_
+_Context: Philippine Coast Guard, Manila_
 
 ##### Recognize Jerusalem as Israel's capital
 ### [Palestinian President Mahmoud Abbas says he will not accept any U.S. plan for peace with Israel, because it recognized Jerusalem as Israel's capital. ](/news/2017/12/22/palestinian-president-mahmoud-abbas-says-he-will-not-accept-any-u-s-plan-for-peace-with-israel-because-it-recognized-jerusalem-as-israel-s.md)
@@ -33,7 +33,7 @@ _Context: recognize Jerusalem as Israel's capital, Jerusalem, Mahmoud Abbas_
 
 ##### North Korea's nuclear program
 ### [The United Nations Security Council unanimously imposes new sanctions on North Korea that caps refined petroleum product imports to 500,000 barrels a year, a 90 percent cut, and demands the repatriation of North Koreans working abroad within 24 months. ](/news/2017/12/22/the-united-nations-security-council-unanimously-imposes-new-sanctions-on-north-korea-that-caps-refined-petroleum-product-imports-to-500-000.md)
-_Context: North Korea, United Nations Security Council, North Korea's nuclear program_
+_Context: North Korea's nuclear program, North Korea, United Nations Security Council_
 
 ##### Ukraine-United States relations
 ### [The U.S. agrees to supply Ukraine with more lethal weapons, now including Javelin anti-tank missiles. ](/news/2017/12/22/the-u-s-agrees-to-supply-ukraine-with-more-lethal-weapons-now-including-javelin-anti-tank-missiles.md)
@@ -49,11 +49,11 @@ Separatist parties retain a slim majority but face tough coalition talks to form
 
 ##### Brexit
 ### [The United Kingdom's Home Office confirms the return of the blue British passport after the UK leaves the European Union. The new passports will be issued from October 2019. ](/news/2017/12/22/the-united-kingdom-s-home-office-confirms-the-return-of-the-blue-british-passport-after-the-uk-leaves-the-european-union-the-new-passports.md)
-_Context: Home Office, British passport, Brexit, United Kingdom, European Union_
+_Context: United Kingdom, British passport, Home Office, Brexit, European Union_
 
 ##### Tax reform in the United States
 ### [President Donald Trump signs the Tax Cuts and Jobs Act of 2017 into law. ](/news/2017/12/22/president-donald-trump-signs-the-tax-cuts-and-jobs-act-of-2017-into-law.md)
-_Context: Tax Cuts and Jobs Act of 2017, Donald Trump, U.S. President, Tax reform in the United States_
+_Context: Tax reform in the United States, Donald Trump, U.S. President, Tax Cuts and Jobs Act of 2017_
 
 ## [Previous Day...](/news/2017/12/21/index.md)
 

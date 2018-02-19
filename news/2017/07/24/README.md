@@ -21,11 +21,11 @@ Long-standing basic graphics editing program, used throughout childhoods since t
 
 ##### KeyCorp
 ### [KeyCorp finalizes its purchase of financial app HelloWallet. ](/news/2017/07/24/keycorp-finalizes-its-purchase-of-financial-app-hellowallet.md)
-_Context: HelloWallet, KeyCorp_
+_Context: KeyCorp, HelloWallet_
 
 ##### Charlie Gard case
 ### [The parents of the terminally ill Charlie Gard give up their legal challenge over treatment in the United States. The latest medical reports indicate that the window of opportunity no longer exists. ](/news/2017/07/24/the-parents-of-the-terminally-ill-charlie-gard-give-up-their-legal-challenge-over-treatment-in-the-united-states-the-latest-medical-reports.md)
-_Context: Charlie Gard case, window of opportunity_
+_Context: window of opportunity, Charlie Gard case_
 
 ##### Epidemiology of HIV/AIDS
 ### [A girl born with HIV, who was started on HIV drugs when she was 2 months old and stopped 40 weeks later, is virtually-free of the virus even after no further treatment. ](/news/2017/07/24/a-girl-born-with-hiv-who-was-started-on-hiv-drugs-when-she-was-2-months-old-and-stopped-40-weeks-later-is-virtually-free-of-the-virus-even.md)
@@ -49,11 +49,11 @@ A federal judge in Michigan halted on Monday the deportation of more than 1,400 
 
 ##### Imran Awan
 ### [Former Democratic IT shared employee Imran Awan is arrested on charges of bank fraud at the Washington Dulles International Airport. ](/news/2017/07/24/former-democratic-it-shared-employee-imran-awan-is-arrested-on-charges-of-bank-fraud-at-the-washington-dulles-international-airport.md)
-_Context: Washington Dulles International Airport, Imran Awan_
+_Context: Imran Awan, Washington Dulles International Airport_
 
 ##### Freedom of religion in Canada
 ### [Winston Blackmore and James Oler, leaders of a polygamist Mormon sect in Canada, are convicted. ](/news/2017/07/24/winston-blackmore-and-james-oler-leaders-of-a-polygamist-mormon-sect-in-canada-are-convicted.md)
-_Context: Canadian, Winston Blackmore, James Oler, Mormon, Freedom of religion in Canada_
+_Context: James Oler, Canadian, Mormon, Winston Blackmore, Freedom of religion in Canada_
 
 ##### Politics of China
 ### [The Chinese Central Commission for Discipline Inspection announces that current Politburo member Sun Zhengcai is under investigation for violating party discipline. Sun is the fourth sitting Politburo member since 1990 to fall from power. ](/news/2017/07/24/the-chinese-central-commission-for-discipline-inspection-announces-that-current-politburo-member-sun-zhengcai-is-under-investigation-for-vio.md)

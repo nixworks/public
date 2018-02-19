@@ -5,11 +5,11 @@ Formats: [HTML](2018/01/16/index.html)  [JSON](2018/01/16/index.json)  [XML](201
 
 ##### Caracas helicopter incident
 ### [The Venezuelan government confirms that Oscar Perez, the rogue pilot responsible for the Caracas helicopter incident in June 2017, was killed in a firefight with the Venezuelan Army yesterday. Two police officers and seven people from Perez's group were killed, and six members of Perez's group were arrested. ](/news/2018/01/16/the-venezuelan-government-confirms-that-ascar-pa-c-rez-the-rogue-pilot-responsible-for-the-caracas-helicopter-incident-in-june-2017-was-kil.md)
-_Context: Venezuelan Army, Venezuelan government, Caracas helicopter incident, Oscar Perez_
+_Context: Venezuelan Army, Caracas helicopter incident, Venezuelan government, Oscar Perez_
 
 ##### Animal welfare and rights in Europe
 ### [The European Parliament approves a call to ban electric pulse fishing, seen by some as cruel. ](/news/2018/01/16/the-european-parliament-approves-a-call-to-ban-electric-pulse-fishing-seen-by-some-as-cruel.md)
-_Context: electric pulse fishing, Animal welfare and rights in Europe, European Parliament_
+_Context: Animal welfare and rights in Europe, European Parliament, electric pulse fishing_
 
 ##### The Church of Jesus Christ of Latter-day Saints
 ### [The Church of Jesus Christ of Latter-day Saints (Mormon Church) names Russell M. Nelson as the 17th President of the Church. ](/news/2018/01/16/the-church-of-jesus-christ-of-latter-day-saints-mormon-church-names-russell-m-nelson-as-the-17th-president-of-the-church.md)
@@ -21,7 +21,7 @@ The Dow Jones industrial average opened at 26,000, hitting another benchmark jus
 
 ##### Nestle
 ### [In a strategy claimed as "towards healthier products", Nestle sells its United States confectionery business, number 4 on the market, to Ferrero SpA for $2.8 billion. ](/news/2018/01/16/in-a-strategy-claimed-as-towards-healthier-products-nestla-c-sells-its-united-states-confectionery-business-number-4-on-the-market-to-fe.md)
-_Context: United States, Nestle, Ferrero SpA, confectionery_
+_Context: Ferrero SpA, United States, Nestle, confectionery_
 
 ##### Colombian Army
 ### [A Colombian Army Mi-17 helicopter crashes near Segovia, Antioquia, in northern Colombia, killing at least ten people. ](/news/2018/01/16/a-colombian-army-mi-17-helicopter-crashes-near-segovia-antioquia-in-northern-colombia-killing-at-least-ten-people.md)

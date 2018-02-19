@@ -25,7 +25,7 @@ Swiss-EU talks reveal determination of EU to make no concessions to UK over Brex
 
 ##### Drug crackdown
 ### [Ten people are killed by the Philippine National Police within a week after Rodrigo Duterte took office as president and made statements encouraging the murder of illegal drug addicts. ](/news/2016/07/3/ten-people-are-killed-by-the-philippine-national-police-within-a-week-after-rodrigo-duterte-took-office-as-president-and-made-statements-enc.md)
-_Context: addicts, drug crackdown, Rodrigo Duterte, Philippine National Police, illegal drug_
+_Context: illegal drug, Philippine National Police, Rodrigo Duterte, addicts, drug crackdown_
 
 ##### Last month's presidential election
 ### [Former French President Nicolas Sarkozy resigns as leader of The Republicans party and announces his candidacy for President again. ](/news/2016/07/3/former-french-president-nicolas-sarkozy-resigns-as-leader-of-the-republicans-party-and-announces-his-candidacy-for-president-again.md)

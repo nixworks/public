@@ -5,7 +5,7 @@ Formats: [HTML](2017/09/21/index.html)  [JSON](2017/09/21/index.json)  [XML](201
 
 ##### Syrian Civil War
 ### [Russian and Syrian warplanes carry out airstrikes in southern Idlib, killing three civilians and wounding others. ](/news/2017/09/21/russian-and-syrian-warplanes-carry-out-airstrikes-in-southern-idlib-killing-three-civilians-and-wounding-others.md)
-_Context: Syrian Civil War, Syria, Russia, Idlib_
+_Context: Russia, Idlib, Syrian Civil War, Syria_
 
 ##### Economy of the United States
 ### [Google strikes a $1.1bn (GBP822m) deal with Taiwan's HTC to expand its smartphone business. ](/news/2017/09/21/google-strikes-a-1-1bn-agbp822m-deal-with-taiwan-s-htc-to-expand-its-smartphone-business.md)
@@ -13,7 +13,7 @@ The tie-up marks the latest push by Google to boost its hardware business.
 
 ##### Economy of China
 ### [China's credit rating has been downgraded by Standard & Poor's (S&P) because of worries over the rapid build up of debt in the country. ](/news/2017/09/21/china-s-credit-rating-has-been-downgraded-by-standard-poor-s-s-p-because-of-worries-over-the-rapid-build-up-of-debt-in-the-country.md)
-_Context: Chinese, Economy of China, Standard & Poor's_
+_Context: Standard & Poor's, Chinese, Economy of China_
 
 ##### European migration crisis
 ### [At least five migrants have died and ninety are missing after their boat sinks off the western coast of Libya. ](/news/2017/09/21/at-least-five-migrants-have-died-and-ninety-are-missing-after-their-boat-sinks-off-the-western-coast-of-libya.md)
@@ -25,7 +25,7 @@ Puerto Ricans are facing the crushing devastation wrought by Hurricane Maria —
 
 ##### 2017 Central Mexico earthquake
 ### [Rescuers are focusing on 10 collapsed buildings where people may still be alive. Mexico City Mayor Miguel Angel Mancera reports the death toll is now at least 273, with 50 people still missing. ](/news/2017/09/21/rescuers-are-focusing-on-10-collapsed-buildings-where-people-may-still-be-alive-mexico-city-mayor-miguel-angel-mancera-reports-the-death-t.md)
-_Context: 2017 Central Mexico earthquake, Mexico City Mayor, Miguel Angel Mancera_
+_Context: 2017 Central Mexico earthquake, Miguel Angel Mancera, Mexico City Mayor_
 
 ##### North Korea-United States relations
 ### [U.S. President Donald Trump announces new sanctions on North Korea over its nuclear weapons program. ](/news/2017/09/21/u-s-president-donald-trump-announces-new-sanctions-on-north-korea-over-its-nuclear-weapons-program.md)

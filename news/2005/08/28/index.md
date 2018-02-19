@@ -5,15 +5,15 @@ Formats: [HTML](2005/08/28/index.html)  [JSON](2005/08/28/index.json)  [XML](200
 
 ##### Iraq
 ### [ Iraq's National Assembly signs the text of the proposed Iraqi constitution. A referendum will be held on 15 October, with leaders of the Sunni community already calling for a "no" vote. ](/news/2005/08/28/iraq-s-national-assembly-signs-the-text-of-the-proposed-iraqi-constitution-a-referendum-will-be-held-on-15-october-with-leaders-of-the-su.md)
-_Context: proposed Iraqi constitution, Iraq, National Assembly of Iraq, Sunni Muslim, 15 October_
+_Context: Sunni Muslim, 15 October, proposed Iraqi constitution, National Assembly of Iraq, Iraq_
 
 ##### Hawaii
 ### [ Hawaii, represented by Ewa Beach, Hawaii, defeats Willemstad, Curaao 7-6 in the Little League World Series ](/news/2005/08/28/hawaii-represented-by-ewa-beach-hawaii-defeats-willemstad-curacao-7-6-in-the-little-league-world-series.md)
-_Context: Little League World Series, Hawaii, Curaao, Willemstad, Ewa Beach, Hawaii_
+_Context: Willemstad, Hawaii, Ewa Beach, Hawaii, Curaao, Little League World Series_
 
 ##### Omri Sharon
 ### [ Omri Sharon, son of the Prime Minister of Israel, Ariel Sharon, has been formally indicted on charges of corruption following allegations concerning Ariel Sharon's bid to become leader of the Likud party in 1999. ](/news/2005/08/28/omri-sharon-son-of-the-prime-minister-of-israel-ariel-sharon-has-been-formally-indicted-on-charges-of-corruption-following-allegations-c.md)
-_Context: Likud, Ariel Sharon, Omri Sharon, corruption, 1999, indicted, Israeli Prime Minister_
+_Context: indicted, Ariel Sharon, Omri Sharon, corruption, Israeli Prime Minister, 1999, Likud_
 
 ##### 2005 European floods
 ### [ People begin to return to their homes as road and rail routes reopen after the 2005 European floods. ](/news/2005/08/28/people-begin-to-return-to-their-homes-as-road-and-rail-routes-reopen-after-the-2005-european-floods.md)
@@ -29,11 +29,11 @@ Suicide bomber strikes outside central bus station in southern town of Be&#39;er
 
 ##### Serb
 ### [ Two Serb youths have been killed and two wounded in a drive-by shooting in Kosovo ](/news/2005/08/28/two-serb-youths-have-been-killed-and-two-wounded-in-a-drive-by-shooting-in-kosovo.md)
-_Context: Kosovo, Serb_
+_Context: Serb, Kosovo_
 
 ##### Uganda
 ### [ The exiled ex-Ugandan president Milton Obote has announced he is to retire as president of the Uganda People's Congress, the party he has led since 1959. ](/news/2005/08/28/the-exiled-ex-ugandan-president-milton-obote-has-announced-he-is-to-retire-as-president-of-the-uganda-people-s-congress-the-party-he-has-l.md)
-_Context: Milton Obote, Uganda People's Congress, Uganda_
+_Context: Uganda, Milton Obote, Uganda People's Congress_
 
 ##### Hugo Chvez
 ### [ Venezuelan President Hugo Chvez threatens to take legal action against Pat Robertson and potentially seek his extradition after the U.S. evangelist called for the assassination the South American leader. ](/news/2005/08/28/venezuelan-president-hugo-chavez-threatens-to-take-legal-action-against-pat-robertson-and-potentially-seek-his-extradition-after-the-u-s-e.md)

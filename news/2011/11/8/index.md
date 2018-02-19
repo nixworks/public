@@ -9,19 +9,19 @@ The UN says at least 3,500 people have been killed in anti-government protests i
 
 ##### Russia
 ### [Russia starts commercial natural gas deliveries to Central Europe via the Nord Stream, the world's longest submerged pipeline. ](/news/2011/11/8/russia-starts-commercial-natural-gas-deliveries-to-central-europe-via-the-nord-stream-the-world-s-longest-submerged-pipeline.md)
-_Context: line, Central Europe, Nord Stream, Russia, natural gas_
+_Context: Nord Stream, Central Europe, Russia, natural gas, line_
 
 ##### Americans
 ### [A record number of Americans -- 49.1 million -- are living below the poverty line, based on a new census measure. ](/news/2011/11/8/a-record-number-of-americans-a-49-1-million-a-are-living-below-the-poverty-line-based-on-a-new-census-measure.md)
-_Context: Americans, poverty line_
+_Context: poverty line, Americans_
 
 ##### Floods
 ### [Flooding in Thailand reaches the residence of the Prime Minister Yingluck Shinawatra in Bangkok, forcing her to withdraw from the Hawaii APEC summit to deal with the crisis. ](/news/2011/11/8/flooding-in-thailand-reaches-the-residence-of-the-prime-minister-yingluck-shinawatra-in-bangkok-forcing-her-to-withdraw-from-the-hawaii-ape.md)
-_Context: APEC, Hawaii, Bangkok, Yingluck Shinawatra, Thailand, floods, Prime Minister_
+_Context: APEC, Yingluck Shinawatra, Prime Minister, Hawaii, floods, Thailand, Bangkok_
 
 ##### Stampede
 ### [At least 16 people are killed in a stampede during a religious festival in the Indian city of Haridwar, Uttarakhand. ](/news/2011/11/8/at-least-16-people-are-killed-in-a-stampede-during-a-religious-festival-in-the-indian-city-of-haridwar-uttarakhand.md)
-_Context: stampede, India, Uttarakhand, Haridwar_
+_Context: stampede, India, Haridwar, Uttarakhand_
 
 ##### Red Arrows
 ### [A British Red Arrows pilot dies after being accidentally ejected from his BAE Hawk jet aircraft while on the ground at RAF Scampton in Lincolnshire. ](/news/2011/11/8/a-british-red-arrows-pilot-dies-after-being-accidentally-ejected-from-his-bae-hawk-jet-aircraft-while-on-the-ground-at-raf-scampton-in-linco.md)
@@ -33,15 +33,15 @@ International weapons inspectors say a trove of new evidence makes a “credible
 
 ##### Chinese President
 ### [Human rights groups send an open letter to the President of the People's Republic of China, Hu Jintao, pressing the Chinese government to address the underlying causes of protests that have led 11 Tibetans to set themselves on fire since March. ](/news/2011/11/8/human-rights-groups-send-an-open-letter-to-the-president-of-the-people-s-republic-of-china-hu-jintao-pressing-the-chinese-government-to-ad.md)
-_Context: Hu Jintao, repressive policies in Tibet, Tibetan, Chinese President, sets herself alight, China_
+_Context: sets herself alight, Hu Jintao, China, Chinese President, Tibetan, repressive policies in Tibet_
 
 ##### French President
 ### [Journalists report comments by French President Nicolas Sarkozy to US President Barack Obama at the G20 summit in Cannes, in which Sarkozy called Israeli Prime Minister Benjamin Netanyahu a "liar". ](/news/2011/11/8/journalists-report-comments-by-french-president-nicolas-sarkozy-to-us-president-barack-obama-at-the-g20-summit-in-cannes-in-which-sarkozy-c.md)
-_Context: US President, Benjamin Netanyahu, Israel, French President, G20 summit in Cannes, Barack Obama, Nicolas Sarkozy_
+_Context: French President, Barack Obama, US President, G20 summit in Cannes, Nicolas Sarkozy, Benjamin Netanyahu, Israel_
 
 ##### Senate of Australia
 ### [The Australian Senate votes to introduce a controversial carbon tax, a form of carbon pricing. ](/news/2011/11/8/the-australian-senate-votes-to-introduce-a-controversial-carbon-tax-a-form-of-carbon-pricing.md)
-_Context: carbon pricing, carbon tax, Senate of Australia_
+_Context: Senate of Australia, carbon pricing, carbon tax_
 
 ##### Italian Prime Minister
 ### [Prime Minister of Italy Silvio Berlusconi narrowly wins a key budget vote in the Italian Parliament, but loses his parliamentary absolute majority as both allied and opposition politicians call on him to resign. ](/news/2011/11/8/prime-minister-of-italy-silvio-berlusconi-narrowly-wins-a-key-budget-vote-in-the-italian-parliament-but-loses-his-parliamentary-absolute-ma.md)
@@ -49,7 +49,7 @@ Italian Prime Minister Silvio Berlusconi said on Tuesday he would resign after s
 
 ##### Liberia
 ### [Voters in Liberia go to the polls for the second round of a presidential election, with the incumbent President, Ellen Johnson Sirleaf, likely to be re-elected. ](/news/2011/11/8/voters-in-liberia-go-to-the-polls-for-the-second-round-of-a-presidential-election-with-the-incumbent-president-ellen-johnson-sirleaf-like.md)
-_Context: Liberia, Liberian presidential election, Ellen Johnson Sirleaf, President of Liberia_
+_Context: Liberian presidential election, Ellen Johnson Sirleaf, President of Liberia, Liberia_
 
 ##### Steve Beshear
 ### [Democratic Governor Steve Beshear is re-elected Governor of Kentucky. ](/news/2011/11/8/democratic-governor-steve-beshear-is-re-elected-governor-of-kentucky.md)

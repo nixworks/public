@@ -9,7 +9,7 @@ _Context: President, Javier Velsquez, Alan Garca, Prime Minister_
 
 ##### Riots
 ### [ The death toll from the recent riots in rmqi rises to 184. ](/news/2009/07/11/the-death-toll-from-the-recent-riots-in-urumqi-rises-to-184.md)
-_Context: riots, rmqi_
+_Context: rmqi, riots_
 
 ##### Srebrenica
 ### [ A mass funeral takes place in Srebrenica, Bosnia, to commemorate the 14th anniversary of the massacre that took place in the town. ](/news/2009/07/11/a-mass-funeral-takes-place-in-srebrenica-bosnia-to-commemorate-the-14th-anniversary-of-the-massacre-that-took-place-in-the-town.md)

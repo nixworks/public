@@ -9,7 +9,7 @@ Chile News | Breaking News, Views, Analysis
 
 ##### David Beckham
 ### [David Beckham tears his Achilles tendon in a match for A.C. Milan. He is ruled out for the 2010 FIFA World Cup. ](/news/2010/03/14/david-beckham-tears-his-achilles-tendon-in-a-match-for-a-c-milan-he-is-ruled-out-for-the-2010-fifa-world-cup.md)
-_Context: 2010 FIFA World Cup, A.C. Milan, Achilles tendon, David Beckham_
+_Context: Achilles tendon, David Beckham, 2010 FIFA World Cup, A.C. Milan_
 
 ##### Red shirt
 ### [National United Front of Democracy Against Dictatorship protesters in red march through Bangkok, Thailand, demonstrating against the government. ](/news/2010/03/14/national-united-front-of-democracy-against-dictatorship-protesters-in-red-march-through-bangkok-thailand-demonstrating-against-the-governm.md)
@@ -25,7 +25,7 @@ Israeli forces arrested a senior Hamas figure on Sunday after a raid in the town
 
 ##### Birao
 ### [Two French Triangle workers who were kidnapped in Birao, Central African Republic last November are released in Darfur. ](/news/2010/03/14/two-french-triangle-workers-who-were-kidnapped-in-birao-central-african-republic-last-november-are-released-in-darfur.md)
-_Context: Darfur, Central African Republic, Birao_
+_Context: Central African Republic, Darfur, Birao_
 
 ##### Snowmobile
 ### [Two people are killed and 30 injured when an avalanche hits a snowmobile competition in British Columbia, Western Canada. ](/news/2010/03/14/two-people-are-killed-and-30-injured-when-an-avalanche-hits-a-snowmobile-competition-in-british-columbia-western-canada.md)
@@ -37,15 +37,15 @@ Thirteen people are killed in and around Acapulco, with four victims found behea
 
 ##### Spain
 ### [Spaniard Fernando Alonso wins the 2010 Bahrain Grand Prix Formula One race; Brazilian Felipe Massa comes in second. ](/news/2010/03/14/spaniard-fernando-alonso-wins-the-2010-bahrain-grand-prix-formula-one-race-brazilian-felipe-massa-comes-in-second.md)
-_Context: Formula One, Brazil, Fernando Alonso, 2010 Bahrain Grand Prix, Spain, Felipe Massa_
+_Context: Spain, Felipe Massa, Brazil, Fernando Alonso, Formula One, 2010 Bahrain Grand Prix_
 
 ##### Colombian legislative election, 2010
 ### [Colombian legislative election, 2010: Over 2500 candidates can be chosen for 102 Senate seats and 166 Chamber of Representatives seats, as well as 5 Colombian representatives to the Andean Parliament (organ of the Andean Community of Nations) and a people's initiative in the Caribbean Region. ](/news/2010/03/14/colombian-legislative-election-2010-over-2500-candidates-can-be-chosen-for-102-senate-seats-and-166-chamber-of-representatives-seats-as-w.md)
-_Context: Andean Community of Nations, Colombian legislative election, 2010, Senate, Chamber of Representatives_
+_Context: Senate, Colombian legislative election, 2010, Andean Community of Nations, Chamber of Representatives_
 
 ##### Brazil
 ### [Brazilian President Luiz Incio Lula da Silva lands in Israel at the start of his Middle East tour of Palestine and Jordan before his visit to Iran. ](/news/2010/03/14/brazilian-president-luiz-inacio-lula-da-silva-lands-in-israel-at-the-start-of-his-middle-east-tour-of-palestine-and-jordan-before-his-visit.md)
-_Context: Palestine, Luiz Incio Lula da Silva, president, Middle East, Israel, Brazil, Jordan, Iran_
+_Context: Brazil, Israel, Palestine, Iran, Luiz Incio Lula da Silva, Jordan, Middle East, president_
 
 ##### 6.6 magnitude earthquake
 ### [A 6.6 magnitude earthquake hits central Japan with no reports of damage or casualties. ](/news/2010/03/14/a-6-6-magnitude-earthquake-hits-central-japan-with-no-reports-of-damage-or-casualties.md)

@@ -9,23 +9,23 @@ _Context: SN 2008D_
 
 ##### Manchester United
 ### [ Manchester United F.C. wins the UEFA Champions League 2007-08 defeating Chelsea F.C. in the final after a penalty shootout. ](/news/2008/05/21/manchester-united-f-c-wins-the-uefa-champions-league-2007-08-defeating-chelsea-f-c-in-the-final-after-a-penalty-shootout.md)
-_Context: penalty shootout, UEFA Champions League 2007-08, Chelsea F.C., Manchester United_
+_Context: Chelsea F.C., UEFA Champions League 2007-08, Manchester United, penalty shootout_
 
 ##### President of South Africa
 ### [ The President of South Africa Thabo Mbeki calls in the South African National Defense Force to end the 2008 South Africa riots. ](/news/2008/05/21/the-president-of-south-africa-thabo-mbeki-calls-in-the-south-african-national-defense-force-to-end-the-2008-south-africa-riots.md)
-_Context: President of South Africa, Thabo Mbeki, 2008 South Africa riots, South African National Defense Force_
+_Context: 2008 South Africa riots, Thabo Mbeki, President of South Africa, South African National Defense Force_
 
 ##### Northwestern Pakistan
 ### [ The North West Frontier Province of Pakistan signs a peace deal with Taliban militants where troops are withdrawn from the Swat valley and Sharia law introduced in exchange for a halt to suicide bombings and an attack on government buildings. ](/news/2008/05/21/the-north-west-frontier-province-of-pakistan-signs-a-peace-deal-with-taliban-militants-where-troops-are-withdrawn-from-the-swat-valley-and.md)
-_Context: Northwestern Pakistan, sharia law, Taliban, Pakistan, Swat valley, suicide bombing_
+_Context: Swat valley, Pakistan, suicide bombing, sharia law, Northwestern Pakistan, Taliban_
 
 ##### Middle East
 ### [ Israel and Syria reveal indirect peace negotiations in Turkey in hopes of direct talks leading to a border agreement. ](/news/2008/05/21/israel-and-syria-reveal-indirect-peace-negotiations-in-turkey-in-hopes-of-direct-talks-leading-to-a-border-agreement.md)
-_Context: Israel, Middle East, Syria, Turkey, Golan Heights_
+_Context: Middle East, Israel, Turkey, Syria, Golan Heights_
 
 #####  Georgian
 ### [ Georgian voters go to the polls for the Georgian legislative election, 2008. ](/news/2008/05/21/georgian-voters-go-to-the-polls-for-the-georgian-legislative-election-2008.md)
-_Context: Georgian legislative election, 2008,  Georgian_
+_Context:  Georgian, Georgian legislative election, 2008_
 
 ## [Previous Day...](/news/2008/05/20/index.md)
 

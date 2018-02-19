@@ -13,7 +13,7 @@ Eight Afghan policemen were killed by a colleague who turned his gun on them at 
 
 ##### Iraqi civil war (2014-present)
 ### [ At least three civilians are killed and 10 others wounded in a bomb attack in Baghdad, Iraq. ](/news/2016/05/19/at-least-three-civilians-are-killed-and-10-others-wounded-in-a-bomb-attack-in-baghdad-iraq.md)
-_Context: Iraqi civil war (2014-present), Iraq, Baghdad_
+_Context: Baghdad, Iraqi civil war (2014-present), Iraq_
 
 ##### Oppenheimer Blue
 ### [ Oppenheimer Blue, a large and rare blue diamond, is sold for $57.6 million USD, the most expensive jewel ever sold at an auction. ](/news/2016/05/19/oppenheimer-blue-a-large-and-rare-blue-diamond-is-sold-for-57-6-million-usd-the-most-expensive-jewel-ever-sold-at-an-auction.md)
@@ -33,11 +33,11 @@ The EgyptAir jet which crashed in the Mediterranean on Thursday sent a series of
 
 ##### 2016 Silk Way Airlines Antonov An-12 crash
 ### [ An Azerbaijani cargo airplane crashes during landing in southern Afghanistan, killing seven out of its nine crew members. ](/news/2016/05/19/an-azerbaijani-cargo-airplane-crashes-during-landing-in-southern-afghanistan-killing-seven-out-of-its-nine-crew-members.md)
-_Context: Afghan, Azerbaijan, 2016 Silk Way Airlines Antonov An-12 crash_
+_Context: Azerbaijan, 2016 Silk Way Airlines Antonov An-12 crash, Afghan_
 
 ##### Opinion
 ### [A unanimous opinion of the U.S. Supreme Court finds that the constitutional guarantee of a speedy trial does not guarantee a speedy sentencing hearing. ](/news/2016/05/19/a-unanimous-opinion-of-the-u-s-supreme-court-finds-that-the-constitutional-guarantee-of-a-speedy-trial-does-not-guarantee-a-speedy-sentenci.md)
-_Context: constitutional, U.S. Supreme Court, speedy trial, opinion_
+_Context: speedy trial, U.S. Supreme Court, opinion, constitutional_
 
 ##### San Francisco Police Department
 ### [San Francisco Police Department Chief Greg Suhr resigns from his position several hours after a black woman is shot by police in San Francisco. ](/news/2016/05/19/san-francisco-police-department-chief-greg-suhr-resigns-from-his-position-several-hours-after-a-black-woman-is-shot-by-police-in-san-francis.md)
@@ -45,7 +45,7 @@ San Francisco&#39;s police chief has resigned at the request of the mayor hours 
 
 ##### Accession of Montenegro to NATO
 ### [Montenegro and NATO sign an accession agreement, paving the way for the country's future entry into the military alliance. All of NATO's members must now ratify the agreement, with Prime Minister Milo Dukanovic expecting Montenegro to join by mid 2017. ](/news/2016/05/19/montenegro-and-nato-sign-an-accession-agreement-paving-the-way-for-the-country-s-future-entry-into-the-military-alliance-all-of-nato-s-mem.md)
-_Context: Accession of Montenegro to NATO, Montenegro, Milo Dukanovic, membership, Prime Minister, NATO_
+_Context: Milo Dukanovic, Montenegro, NATO, membership, Prime Minister, Accession of Montenegro to NATO_
 
 ##### Ukraine
 ### [Ukraine's Parliament, the "Verkhovna Rada", decides that the country's third largest city, Dnipropetrovsk, be renamed Dnipro as part of the decommunization drive. ](/news/2016/05/19/ukraine-s-parliament-the-verkhovna-rada-decides-that-the-country-s-third-largest-city-dnipropetrovsk-be-renamed-dnipro-as-part-of-the.md)
@@ -53,7 +53,7 @@ _Context: parliament, Ukraine, decommunization, Dnipropetrovsk_
 
 ##### Philippine general election, 2016
 ### [ In the Philippine general election, the Liberal Party emerges as the party with a plurality of seats in the Philippine Senate election, 2016 and Philippine House of Representatives elections, 2016. ](/news/2016/05/19/in-the-philippine-general-election-the-liberal-party-emerges-as-the-party-with-a-plurality-of-seats-in-the-philippine-senate-election-201.md)
-_Context: Philippine general election, 2016, Liberal Party, Philippine House of Representatives elections, 2016, Philippine Senate election, 2016_
+_Context: Philippine House of Representatives elections, 2016, Philippine Senate election, 2016, Philippine general election, 2016, Liberal Party_
 
 ##### Israel
 ### [Israeli Prime Minister Benjamin Netanyahu asks Yisrael Beiteinu party leader and former Foreign Minister Avigdor Lieberman to be Defense Minister. Current defense minister and former army chief of staff Moshe Ya'alon's role in the future government is unclear. Leiberman is known for his hawkish and uncompromising views. ](/news/2016/05/19/israeli-prime-minister-benjamin-netanyahu-asks-yisrael-beiteinu-party-leader-and-former-foreign-minister-avigdor-lieberman-to-be-defense-min.md)

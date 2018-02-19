@@ -13,19 +13,19 @@ Canada and the EU have sign a tentative deal to open up markets and drop nearly 
 
 ##### Yoshitaka Shindo
 ### [Japanese cabinet minister Yoshitaka Shindo visits the controversial Yasukuni Shrine potentially causing conflict with the Philippines, South Korea and the People's Republic of China. ](/news/2013/10/18/japanese-cabinet-minister-yoshitaka-shinda-visits-the-controversial-yasukuni-shrine-potentially-causing-conflict-with-the-philippines-sout.md)
-_Context: China, Yoshitaka Shindo, Yasukuni Shrine, Philippines, South Korea_
+_Context: Yasukuni Shrine, Philippines, South Korea, Yoshitaka Shindo, China_
 
 ##### Tijuana Cartel
 ### [Former Tijuana Cartel leader Francisco Rafael Arellano Felix is killed in Los Cabos, Baja California Sur. ](/news/2013/10/18/former-tijuana-cartel-leader-francisco-rafael-arellano-fa-c-lix-is-killed-in-los-cabos-baja-california-sur.md)
-_Context: Los Cabos, Baja California Sur, Francisco Rafael Arellano Felix, Tijuana Cartel_
+_Context: Los Cabos, Baja California Sur, Tijuana Cartel, Francisco Rafael Arellano Felix_
 
 ##### India
 ### [Thirty-five members of the US owned MV Seaman Guard Ohio are arrested in the Indian port of Thoothukudi in Tamil Nadu for alleged illegal possession of arms and ammunition. ](/news/2013/10/18/thirty-five-members-of-the-us-owned-mv-seaman-guard-ohio-are-arrested-in-the-indian-port-of-thoothukudi-in-tamil-nadu-for-alleged-illegal-po.md)
-_Context: India, Tamil Nadu, Thoothukudi_
+_Context: Thoothukudi, India, Tamil Nadu_
 
 ##### Constitutional Council of France
 ### [The Constitutional Council of France rules that the country's mayors cannot refuse to officiate at same-sex marriages. ](/news/2013/10/18/the-constitutional-council-of-france-rules-that-the-country-s-mayors-cannot-refuse-to-officiate-at-same-sex-marriages.md)
-_Context: Constitutional Council of France, same-sex marriages_
+_Context: same-sex marriages, Constitutional Council of France_
 
 ##### High Court
 ### [In London, the High Court dismisses a lawsuit against former directors of the London branch of Bernard Madoff's operations, including his one living and one deceased son. The judge, Mr. Justice Popplewell, spoke rather harshly of the plaintiffs, praising the "commendable dignity and restraint" of certain of the defendants. ](/news/2013/10/18/in-london-the-high-court-dismisses-a-lawsuit-against-former-directors-of-the-london-branch-of-bernard-madoff-s-operations-including-his-on.md)

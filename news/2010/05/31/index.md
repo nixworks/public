@@ -21,11 +21,11 @@ German President Horst Koehler says he is resigning, following criticism of rema
 
 ##### Colombia
 ### [Colombia's former Minister of National Defence, Juan Manuel Santos, wins the first round of the country's presidential election, but without the majority needed to avoid a June run-off with rival Antanas Mockus ](/news/2010/05/31/colombia-s-former-minister-of-national-defence-juan-manuel-santos-wins-the-first-round-of-the-country-s-presidential-election-but-without.md)
-_Context: Antanas Mockus, Juan Manuel Santos, Colombian presidential election, Minister of National Defence, Colombia_
+_Context: Antanas Mockus, Juan Manuel Santos, Minister of National Defence, Colombia, Colombian presidential election_
 
 ##### Undersea volcano
 ### [An undersea volcano erupts near Sarigan, Northern Mariana Islands, sending an eruption cloud 40,000 feet into the atmosphere, prompting Governor Benigno Fitial to declare a state of emergency. ](/news/2010/05/31/an-undersea-volcano-erupts-near-sarigan-northern-mariana-islands-sending-an-eruption-cloud-40-000-feet-into-the-atmosphere-prompting-gove.md)
-_Context: Sarigan, undersea volcano, state of emergency, Benigno Fitial, eruption cloud, Northern Mariana Islands, atmosphere_
+_Context: eruption cloud, Sarigan, atmosphere, Benigno Fitial, Northern Mariana Islands, state of emergency, undersea volcano_
 
 ##### Nicolas Sarkozy
 ### [French President Nicolas Sarkozy, speaking at the launch of the 25th Africa-France summit in Nice, calls for Africa to be represented on the United Nations Security Council, and promises to back changes when France chairs the G8 and G-20 major economies groups in 2011. ](/news/2010/05/31/french-president-nicolas-sarkozy-speaking-at-the-launch-of-the-25th-africa-france-summit-in-nice-calls-for-africa-to-be-represented-on-the.md)
@@ -33,7 +33,7 @@ Sarkozy urges Security Council overhaul, saying Africa should get permanent seat
 
 ##### Sudanese government troops
 ### [The Sudanese army clashes with rebel groups, among them the Justice and Equality Movement, in the Um Sauna area in western Darfur. ](/news/2010/05/31/the-sudanese-army-clashes-with-rebel-groups-among-them-the-justice-and-equality-movement-in-the-um-sauna-area-in-western-darfur.md)
-_Context: Justice and Equality Movement, Um Sauna, Sudanese government troops, Darfur conflict_
+_Context: Justice and Equality Movement, Sudanese government troops, Um Sauna, Darfur conflict_
 
 ##### IAEA
 ### [In the International Atomic Energy Agency's report before the United Nations Security Council votes on sanctions against Iran, international nuclear inspectors state that Iran has now produced a stockpile of nuclear fuel that would be enough, with further enrichment, to make two nuclear weapons, and it appears to bolster the Obama administration's case for a fourth round of economic sanctions against Iran. ](/news/2010/05/31/in-the-international-atomic-energy-agency-s-report-before-the-united-nations-security-council-votes-on-sanctions-against-iran-international.md)
@@ -41,11 +41,11 @@ The report appears likely to bolster the Obama administration’s case for a fou
 
 ##### Wildfires
 ### [Wildfires burn across Quebec, sending smoke as far away as Ottawa and Cape Cod. ](/news/2010/05/31/wildfires-burn-across-quebec-sending-smoke-as-far-away-as-ottawa-and-cape-cod.md)
-_Context: Ottawa, Cape Cod, Wildfires_
+_Context: Cape Cod, Ottawa, Wildfires_
 
 ##### Afghan
 ### [Afghan authorities suspend two Christian foreign aid groups, Church World Service and Norwegian Church Aid, on suspicion of proselytizing in the strictly Islamic republic and said a follow-up investigation would include whether other groups were trying to convert Muslims. ](/news/2010/05/31/afghan-authorities-suspend-two-christian-foreign-aid-groups-church-world-service-and-norwegian-church-aid-on-suspicion-of-proselytizing-in.md)
-_Context: Norwegian Church Aid, proselytizing, Christian, Islamic republic, Afghan, Church World Service_
+_Context: Christian, Church World Service, Norwegian Church Aid, proselytizing, Islamic republic, Afghan_
 
 ##### Israel
 ### [A number of Israeli warships follow the Gaza-bound international flotilla as it nears its destination and an aircraft flies overhead. ](/news/2010/05/31/a-number-of-israeli-warships-follow-the-gaza-bound-international-flotilla-as-it-nears-its-destination-and-an-aircraft-flies-overhead.md)
@@ -65,7 +65,7 @@ State media blames Kurdish fighters for attack that killed six soldiers and woun
 
 ##### Pakistan
 ### [A court in Pakistan lifts a ban on Facebook imposed two weeks ago after an "Everybody Draw Mohammed Day" group appeared on the site. ](/news/2010/05/31/a-court-in-pakistan-lifts-a-ban-on-facebook-imposed-two-weeks-ago-after-an-everybody-draw-mohammed-day-group-appeared-on-the-site.md)
-_Context: Everybody Draw Mohammed Day, Pakistan, Facebook_
+_Context: Facebook, Everybody Draw Mohammed Day, Pakistan_
 
 ## [Previous Day...](/news/2010/05/30/index.md)
 

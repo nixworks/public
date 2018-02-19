@@ -9,7 +9,7 @@ Channel NewsAsia - Breaking News, Asia-Pacific news coverage from Channel NewsAs
 
 ##### Birmingham Hodge Hill
 ### [ Voting takes place in the Birmingham Hodge Hill and Leicester South parliamentary by-elections in the United Kingdom. The Labour Party retains Hodge Hill, narrowly, but loses Leicester South to the Liberal Democrats. The Conservative Party is pushed into third place in both seats. ](/news/2004/07/15/voting-takes-place-in-the-birmingham-hodge-hill-and-leicester-south-parliamentary-by-elections-in-the-united-kingdom-the-labour-party-reta.md)
-_Context: Conservative Party, Leicester South, Liberal Democrats, Parliament, Birmingham Hodge Hill, Labour Party_
+_Context: Conservative Party, Labour Party, Birmingham Hodge Hill, Liberal Democrats, Leicester South, Parliament_
 
 ##### Cambodia
 ### [ The Cambodian parliament votes to reappoint Hun Sen as Prime Minister, following an 11-month deadlock. ](/news/2004/07/15/the-cambodian-parliament-votes-to-reappoint-hun-sen-as-prime-minister-following-an-11-month-deadlock.md)
@@ -21,15 +21,15 @@ _Context: United States House of Representatives, International Court of Justice
 
 ##### New Zealand
 ### [ New Zealand imposes diplomatic sanctions on Israel after an incident involving two alleged Mossad agents committing passport fraud. ](/news/2004/07/15/new-zealand-imposes-diplomatic-sanctions-on-israel-after-an-incident-involving-two-alleged-mossad-agents-committing-passport-fraud.md)
-_Context: Mossad, New Zealand, passport, Israel_
+_Context: New Zealand, Mossad, passport, Israel_
 
 ##### United Nations
 ### [ A United Nations report says that life expectancy in some parts of Africa has dropped to below 33 years, due to the AIDS epidemic. ](/news/2004/07/15/a-united-nations-report-says-that-life-expectancy-in-some-parts-of-africa-has-dropped-to-below-33-years-due-to-the-aids-epidemic.md)
-_Context: AIDS, United Nations_
+_Context: United Nations, AIDS_
 
 ##### Bankruptcy
 ### [ The U.S. bankruptcy court for Manhattan approved the reorganization plan of notorious energy-trading company Enron, which is now likely to formally emerge from chapter 11 later this year. ](/news/2004/07/15/the-u-s-bankruptcy-court-for-manhattan-approved-the-reorganization-plan-of-notorious-energy-trading-company-enron-which-is-now-likely-to.md)
-_Context: bankruptcy, chapter 11, Manhattan, Enron_
+_Context: Manhattan, Enron, bankruptcy, chapter 11_
 
 ## [Previous Day...](/news/2004/07/14/index.md)
 

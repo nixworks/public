@@ -9,7 +9,7 @@ Minister for Foreign Affairs Micheál Martin has briefed EU Foreign Ministers ab
 
 ##### Washington, D.C.
 ### [Washington, D.C. is to become the first American city to hand out free female condoms in the battle against HIV-AIDS. ](/news/2010/03/6/washington-d-c-is-to-become-the-first-american-city-to-hand-out-free-female-condoms-in-the-battle-against-hiv-aids.md)
-_Context: HIV, female condom, United States, AIDS, Washington, D.C._
+_Context: Washington, D.C., female condom, United States, HIV, AIDS_
 
 ##### Brussels
 ### [There are riots in Brussels. ](/news/2010/03/6/there-are-riots-in-brussels.md)
@@ -17,15 +17,15 @@ _Context: Brussels_
 
 ##### Nigeria
 ### [Nigeria's and Al-Merreikh's Endurance Idahor dies during a football match in Sudan with the referee ending the match as a result. ](/news/2010/03/6/nigeria-s-and-al-merreikh-s-endurance-idahor-dies-during-a-football-match-in-sudan-with-the-referee-ending-the-match-as-a-result.md)
-_Context: Nigeria, Al-Merreikh, Endurance Idahor, Sudan_
+_Context: Sudan, Al-Merreikh, Nigeria, Endurance Idahor_
 
 ##### Ingushetia
 ### [Ingushetian President Yunus-bek Yevkurov confirms the death of Alexander Tikhomirov-Said Buryatsky. ](/news/2010/03/6/ingushetian-president-yunus-bek-yevkurov-confirms-the-death-of-alexander-tikhomirov-said-buryatsky.md)
-_Context: Alexander Tikhomirov, Ingushetia, Said Buryatsky, Yunus-bek Yevkurov_
+_Context: Said Buryatsky, Yunus-bek Yevkurov, Ingushetia, Alexander Tikhomirov_
 
 ##### Taliban
 ### [Taliban commander Faqir Mohammed is reportedly killed in a drone strike in Pakistan. ](/news/2010/03/6/taliban-commander-faqir-mohammed-is-reportedly-killed-in-a-drone-strike-in-pakistan.md)
-_Context: Taliban, Faqir Mohammed, Pakistan_
+_Context: Faqir Mohammed, Taliban, Pakistan_
 
 ##### Iraqis
 ### [Iraqis living in Iran vote. ](/news/2010/03/6/iraqis-living-in-iran-vote.md)

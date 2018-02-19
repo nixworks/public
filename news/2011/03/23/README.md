@@ -13,11 +13,11 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 
 ##### President
 ### [The President of Yemen Ali Abdullah Saleh offers to stand down by the end of the year and warns of a "civil war" as 2011 Yemeni protests continue. ](/news/2011/03/23/the-president-of-yemen-ali-abdullah-saleh-offers-to-stand-down-by-the-end-of-the-year-and-warns-of-a-civil-war-as-2011-yemeni-protests-con.md)
-_Context: President, Ali Abdullah Saleh, 2011 Yemeni protests_
+_Context: Ali Abdullah Saleh, President, 2011 Yemeni protests_
 
 ##### Hamas
 ### [Islamic Jihad militants in the Gaza Strip fire ten mortars at the Eshkol, Sha'ar Hanegev region, and Grad rockets at the Israeli cities of Ashkelon and Beersheba; one person is injured in Beersheba. ](/news/2011/03/23/islamic-jihad-militants-in-the-gaza-strip-fire-ten-mortars-at-the-eshkol-sha-ar-hanegev-region-and-grad-rockets-at-the-israeli-cities-of-a.md)
-_Context: Eshkol, Gaza Strip, Ashkelon, Grad rocket, Israel, Beersheba, Sha'ar Hanegev, Hamas, Palestinian_
+_Context: Sha'ar Hanegev, Eshkol, Gaza Strip, Israel, Ashkelon, Palestinian, Hamas, Beersheba, Grad rocket_
 
 ##### Exploded next to bus number 74
 ### [An explosive device which was placed in a suitcase on the sidewalk exploded next to bus number 74 near the Jerusalem International Convention Center complex. A woman is killed in the explosion and at least 50 people are injured. ](/news/2011/03/23/an-explosive-device-which-was-placed-in-a-suitcase-on-the-sidewalk-exploded-next-to-bus-number-74-near-the-jerusalem-international-conventio.md)
@@ -37,7 +37,7 @@ A Manhattan federal judge dismissed part of a lawsuit by Lions Gate Entertainmen
 
 ##### Prime Minister of Japan
 ### [The Prime Minister of Japan Naoto Kan instructs the Governor of Fukushima Prefecture Yuhei Sato to advise residents to avoid eating leafy vegetables, due to the Fukushima I nuclear accidents. ](/news/2011/03/23/the-prime-minister-of-japan-naoto-kan-instructs-the-governor-of-fukushima-prefecture-ya-hei-sata-to-advise-residents-to-avoid-eating-leafy.md)
-_Context: Fukushima I nuclear accidents, Governor, Naoto Kan, Prime Minister of Japan, leafy vegetables, Yuhei Sato, Fukushima Prefecture_
+_Context: Governor, Yuhei Sato, Naoto Kan, leafy vegetables, Fukushima I nuclear accidents, Fukushima Prefecture, Prime Minister of Japan_
 
 ##### Tokyo Metropolitan Government Bureau of Waterworks
 ### [The Tokyo Metropolitan Government Bureau of Waterworks says levels of radioactive iodine in city tap water are two times the recommended limit for infants. ](/news/2011/03/23/the-tokyo-metropolitan-government-bureau-of-waterworks-says-levels-of-radioactive-iodine-in-city-tap-water-are-two-times-the-recommended-lim.md)
@@ -45,7 +45,7 @@ Tokyo residents were warned not to give babies tap water because of radiation le
 
 ##### Roberto Maroni
 ### [Roberto Maroni, the Italian Minister of the Interior, flies to Tunis to discuss stopping the flow of Tunisian immigrants to the small island of Lampedusa following the Tunisian Revolution. ](/news/2011/03/23/roberto-maroni-the-italian-minister-of-the-interior-flies-to-tunis-to-discuss-stopping-the-flow-of-tunisian-immigrants-to-the-small-island.md)
-_Context: Tunisian, Roberto Maroni, Interior Minister, Tunis, Jasmine Revolution of 2011, Lampedusa_
+_Context: Jasmine Revolution of 2011, Lampedusa, Tunisian, Roberto Maroni, Tunis, Interior Minister_
 
 ##### 2011 Egyptian revolution
 ### [An Egyptian committee set up to investigate violence during demonstrations that ousted former President Hosni Mubarak has charged him and the interior minister with the intentional murder of protesters. ](/news/2011/03/23/an-egyptian-committee-set-up-to-investigate-violence-during-demonstrations-that-ousted-former-president-hosni-mubarak-has-charged-him-and-th.md)
@@ -57,7 +57,7 @@ Investigation of violence during protests says former president and interior min
 
 ##### United States Court of Appeals for the Ninth Circuit
 ### [The United States Court of Appeals for the Ninth Circuit refuses to allow same-sex marriages to resume in the US state of California while it considers the constitutionality of Proposition 8. ](/news/2011/03/23/the-united-states-court-of-appeals-for-the-ninth-circuit-refuses-to-allow-same-sex-marriages-to-resume-in-the-us-state-of-california-while-i.md)
-_Context: California, United States Court of Appeals for the Ninth Circuit, same-sex marriage, reversed its legalization_
+_Context: same-sex marriage, California, reversed its legalization, United States Court of Appeals for the Ninth Circuit_
 
 ##### Canberra
 ### [Thousands of people gather in Canberra, Australia to protest the introduction of a carbon tax, Prime Minister Julia Gillard met the Australian Youth Climate Coalition which is pushing for a price on emissions, while climate change mitigation activists including the Australian Council of Trade Unions delivered a petition to Minister for Climate Change and Energy Efficiency Greg Combet signed by about 10,000 "working Australians" urging the government to take action. ](/news/2011/03/23/thousands-of-people-gather-in-canberra-australia-to-protest-the-introduction-of-a-carbon-tax-prime-minister-julia-gillard-met-the-australi.md)
@@ -73,15 +73,15 @@ Arab, left-wing MKs fume as bill allowing small communities to reject residents 
 
 ##### Liberal Party's
 ### [The Liberal Party of Canada announces it will introduce a motion to the Canadian House of Commons that calls on MPs to support a committee report finding the Conservative government in contempt of Parliament. The finding was in response to the government allegedly not supplying sufficient information on costs of crime bills, purchasing F-35 fighter jets for the Canadian Forces, and corporate tax cuts. ](/news/2011/03/23/the-liberal-party-of-canada-announces-it-will-introduce-a-motion-to-the-canadian-house-of-commons-that-calls-on-mps-to-support-a-committee-r.md)
-_Context: Canadian House of Commons, Conservative Party's, contempt of Parliament, Canadian Forces, MP, Liberal Party's, F-35_
+_Context: Liberal Party's, Canadian House of Commons, contempt of Parliament, Conservative Party's, Canadian Forces, F-35, MP_
 
 ##### Prime Minister of Portugal
 ### [The Prime Minister of Portugal Jose Socrates resigns after the parliament rejects austerity measures. ](/news/2011/03/23/the-prime-minister-of-portugal-josa-c-sa3crates-resigns-after-the-parliament-rejects-austerity-measures.md)
-_Context: Jose Socrates, Prime Minister of Portugal, parliament_
+_Context: Prime Minister of Portugal, Jose Socrates, parliament_
 
 ##### Spain
 ### [Spain bans the new Basque nationalist political party Sortu.](/news/2011/03/23/spain-bans-the-new-basque-nationalist-political-party-sortu.md)
-_Context: Sortu, Spain, Basque separatist_
+_Context: Basque separatist, Spain, Sortu_
 
 ## [Previous Day...](/news/2011/03/22/index.md)
 

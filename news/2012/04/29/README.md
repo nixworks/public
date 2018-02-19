@@ -5,11 +5,11 @@ Formats: [HTML](2012/04/29/index.html)  [JSON](2012/04/29/index.json)  [XML](201
 
 ##### Revolutionary Armed Forces of Colombia
 ### [Revolutionary Armed Forces of Colombia kill four members of Colombian Army on a mission to destroy cocaine laboratories in Caquet Department with another four soldiers, a police officer and a French journalist missing. ](/news/2012/04/29/revolutionary-armed-forces-of-colombia-kill-four-members-of-colombian-army-on-a-mission-to-destroy-cocaine-laboratories-in-caqueta-departmen.md)
-_Context: Colombian Army, French-born, Revolutionary Armed Forces of Colombia, Caquet Department, cocaine_
+_Context: Caquet Department, cocaine, French-born, Revolutionary Armed Forces of Colombia, Colombian Army_
 
 ##### Christian
 ### [Several explosions are reported near a Christian service at Bayero University Kano in the northern Nigerian city of Kano, with at least 16 people killed. ](/news/2012/04/29/several-explosions-are-reported-near-a-christian-service-at-bayero-university-kano-in-the-northern-nigerian-city-of-kano-with-at-least-16-p.md)
-_Context: Kano, Christian, Nigeria, Bayero University Kano_
+_Context: Bayero University Kano, Nigeria, Christian, Kano_
 
 ##### Burma
 ### [Four officials are killed in rebel attacks in northern Burma. ](/news/2012/04/29/four-officials-are-killed-in-rebel-attacks-in-northern-burma.md)
@@ -25,7 +25,7 @@ _Context: Lebanese, Syria_
 
 ##### Japan
 ### [At least seven people die following a bus crash in Japan's Gunma Prefecture north of Tokyo. ](/news/2012/04/29/at-least-seven-people-die-following-a-bus-crash-in-japan-s-gunma-prefecture-north-of-tokyo.md)
-_Context: Japan, Gunma Prefecture, Tokyo_
+_Context: Gunma Prefecture, Tokyo, Japan_
 
 ##### Bronx River Parkway
 ### [Seven people are killed, including three children, when a vehicle they were in flipped over on the Bronx River Parkway in The Bronx, New York City. ](/news/2012/04/29/seven-people-are-killed-including-three-children-when-a-vehicle-they-were-in-flipped-over-on-the-bronx-river-parkway-in-the-bronx-new-yor.md)
@@ -49,7 +49,7 @@ A European Union member ofparliament with a diplomatic passport said she was pre
 
 ##### Sudan
 ### [Sudan arrests four foreigners in the disputed border region with South Sudan on accusations of spying. ](/news/2012/04/29/sudan-arrests-four-foreigners-in-the-disputed-border-region-with-south-sudan-on-accusations-of-spying.md)
-_Context: South Sudan, Sudan_
+_Context: Sudan, South Sudan_
 
 ##### Chinese
 ### [Chinese authorities begin to round-up associates of human rights activist Chen Guangcheng in light of his escape from house arrest. ](/news/2012/04/29/chinese-authorities-begin-to-round-up-associates-of-human-rights-activist-chen-guangcheng-in-light-of-his-escape-from-house-arrest.md)

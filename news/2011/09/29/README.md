@@ -5,7 +5,7 @@ Formats: [HTML](2011/09/29/index.html)  [JSON](2011/09/29/index.json)  [XML](201
 
 ##### 2011 Yemeni uprising
 ### [2011 Yemeni uprising: Heavy fighting is reported in the northern suburbs of Sana'a, Yemen's capital. ](/news/2011/09/29/2011-yemeni-uprising-heavy-fighting-is-reported-in-the-northern-suburbs-of-sana-a-yemen-s-capital.md)
-_Context: Sana'a, Yemen, 2011 Yemeni uprising_
+_Context: 2011 Yemeni uprising, Yemen, Sana'a_
 
 ##### Maple Group
 ### [Maple Group, a consortium of Canadian concerns, says it is extending its bid to take over Canada's largest stock market operating company, TMX Group. ](/news/2011/09/29/maple-group-a-consortium-of-canadian-concerns-says-it-is-extending-its-bid-to-take-over-canada-s-largest-stock-market-operating-company-t.md)
@@ -17,7 +17,7 @@ Nesat was downgraded to a tropical storm yesterday as it moved west into norther
 
 ##### Bohorok
 ### [Eighteen people are feared dead after a small plane crashes in the Bohorok region of Indonesia's North Sumatra province. ](/news/2011/09/29/eighteen-people-are-feared-dead-after-a-small-plane-crashes-in-the-bohorok-region-of-indonesia-s-north-sumatra-province.md)
-_Context: North Sumatra, Bohorok, Indonesia_
+_Context: Indonesia, Bohorok, North Sumatra_
 
 ##### Australian
 ### [Australian criminal Matthew Johnson is found guilty of the murder of drug boss Carl Williams in Victoria's Barwon Prison. ](/news/2011/09/29/australian-criminal-matthew-johnson-is-found-guilty-of-the-murder-of-drug-boss-carl-williams-in-victoria-s-barwon-prison.md)
@@ -33,7 +33,7 @@ _Context: European Financial Stability Facility, German, Bundestag_
 
 ##### China
 ### [The People's Republic of China successfully launches the Tiangong 1 space laboratory, the country's first space station module, from the Jiuquan Satellite Launch Center in Gansu Province. ](/news/2011/09/29/the-people-s-republic-of-china-successfully-launches-the-tiangong-1-space-laboratory-the-country-s-first-space-station-module-from-the-jiu.md)
-_Context: Tiangong 1, Gansu Province, China, space station module, Jiuquan Satellite Launch Center_
+_Context: China, space station module, Jiuquan Satellite Launch Center, Tiangong 1, Gansu Province_
 
 ## [Previous Day...](/news/2011/09/28/index.md)
 

@@ -13,7 +13,7 @@ Syrian rebels shoot down an army helicopter as the UN demands answers over the m
 
 ##### ISAF
 ### [ISAF states that an Afghan National Army soldier opens fire on NATO troops, killing two, before being killed himself. ](/news/2012/08/27/isaf-states-that-an-afghan-national-army-soldier-opens-fire-on-nato-troops-killing-two-before-being-killed-himself.md)
-_Context: Afghan National Army, ISAF, NATO_
+_Context: NATO, ISAF, Afghan National Army_
 
 ##### Aboud Rogo Mohammed
 ### [Kenyan Islamic cleric Aboud Rogo Mohammed is shot dead by unnamed organised assailants in Mombasa, triggering protests. ](/news/2012/08/27/kenyan-islamic-cleric-aboud-rogo-mohammed-is-shot-dead-by-unnamed-organised-assailants-in-mombasa-triggering-protests.md)
@@ -33,7 +33,7 @@ _Context: Iceland_
 
 ##### Prime Minister
 ### [The Prime Minister of Pakistan Raja Pervez Ashraf appears in the Pakistani Supreme Court over his failure to reopen investigations of corruption against President Asif Ali Zardari. ](/news/2012/08/27/the-prime-minister-of-pakistan-raja-pervez-ashraf-appears-in-the-pakistani-supreme-court-over-his-failure-to-reopen-investigations-of-corrup.md)
-_Context: Raja Pervez Ashraf, president, Asif Ali Zardari, Supreme Court, Prime Minister_
+_Context: Supreme Court, Prime Minister, Asif Ali Zardari, president, Raja Pervez Ashraf_
 
 ##### Thein Sein
 ### [The Burmese President Thein Sein changes nine ministers in the cabinet, in an apparent bid to demonstrate that promised reforms are firmly on course. ](/news/2012/08/27/the-burmese-president-thein-sein-changes-nine-ministers-in-the-cabinet-in-an-apparent-bid-to-demonstrate-that-promised-reforms-are-firmly-o.md)

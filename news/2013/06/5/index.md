@@ -41,7 +41,7 @@ _Context: YouTube_
 
 ##### Prince Philip, Duke of Edinburgh
 ### [Prince Philip is admitted to a London hospital for an exploratory operation. ](/news/2013/06/5/prince-philip-is-admitted-to-a-london-hospital-for-an-exploratory-operation.md)
-_Context: London, Prince Philip, Duke of Edinburgh_
+_Context: Prince Philip, Duke of Edinburgh, London_
 
 ##### Michael Jackson
 ### [Paris Jackson, Michael Jackson's daughter, tries to commit suicide by cutting her wrists and overdosing on pills. ](/news/2013/06/5/paris-jackson-michael-jackson-s-daughter-tries-to-commit-suicide-by-cutting-her-wrists-and-overdosing-on-pills.md)
@@ -49,7 +49,7 @@ _Context: Michael Jackson_
 
 ##### A$
 ### [The Australian dollar hits a 20-month low against the United States dollar. ](/news/2013/06/5/the-australian-dollar-hits-a-20-month-low-against-the-united-states-dollar.md)
-_Context: A$, $_
+_Context: $, A$_
 
 ##### United States International Trade Commission
 ### [The United States International Trade Commission rules that Apple is infringing on a Samsung patent and bans the import of several popular Apple products. ](/news/2013/06/5/the-united-states-international-trade-commission-rules-that-apple-is-infringing-on-a-samsung-patent-and-bans-the-import-of-several-popular-a.md)
@@ -57,7 +57,7 @@ Samsung Electronics scored a victory over rival Apple Inc intheir long-running d
 
 ##### International Monetary Fund
 ### [The International Monetary Fund (IMF) says it underestimated the damage austerity would do to Greece. ](/news/2013/06/5/the-international-monetary-fund-imf-says-it-underestimated-the-damage-austerity-would-do-to-greece.md)
-_Context: Greece, austerity, International Monetary Fund_
+_Context: Greece, International Monetary Fund, austerity_
 
 ##### Amazon.com
 ### [Online retailer Amazon.com begins operations in India. ](/news/2013/06/5/online-retailer-amazon-com-begins-operations-in-india.md)

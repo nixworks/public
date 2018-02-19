@@ -9,7 +9,7 @@ Formats: [HTML](2008/09/21/index.html)  [JSON](2008/09/21/index.json)  [XML](200
 
 ##### Goldman Sachs
 ### [ Goldman Sachs and Morgan Stanley, the two last remaining independent investment banks on Wall Street, become bank holding companies as a result of the subprime mortgage crisis. ](/news/2008/09/21/goldman-sachs-and-morgan-stanley-the-two-last-remaining-independent-investment-banks-on-wall-street-become-bank-holding-companies-as-a-re.md)
-_Context: investment bank, Goldman Sachs, subprime mortgage crisis, Wall Street, Morgan Stanley_
+_Context: subprime mortgage crisis, Wall Street, investment bank, Morgan Stanley, Goldman Sachs_
 
 ##### China
 ### [ The number of babies in China hospitalized due to adulterated milk products and infant formula reaches 12,892. ](/news/2008/09/21/the-number-of-babies-in-china-hospitalized-due-to-adulterated-milk-products-and-infant-formula-reaches-12-892.md)
@@ -17,23 +17,23 @@ _Context: China, adulterated milk products and infant formula_
 
 ##### Social Democrats
 ### [ The Social Democrats, led by Borut Pahor, presumably win the Slovenian parliamentary election. ](/news/2008/09/21/the-social-democrats-led-by-borut-pahor-presumably-win-the-slovenian-parliamentary-election.md)
-_Context: parliamentary election, Borut Pahor, Slovenia, Social Democrats_
+_Context: Borut Pahor, Social Democrats, parliamentary election, Slovenia_
 
 ##### United States
 ### [ The United States wins the Ryder Cup for the first time since 1999. ](/news/2008/09/21/the-united-states-wins-the-ryder-cup-for-the-first-time-since-1999.md)
-_Context: Ryder Cup, United States, 1999_
+_Context: Ryder Cup, 1999, United States_
 
 ##### Israel
 ### [ Israeli Prime Minister Ehud Olmert officially submits his resignation to President Shimon Peres. Foreign Minister Tzipi Livni begins talks on forming a new government. ](/news/2008/09/21/israeli-prime-minister-ehud-olmert-officially-submits-his-resignation-to-president-shimon-peres-foreign-minister-tzipi-livni-begins-talks.md)
-_Context: President, Israeli Prime Minister, Israel, Foreign Affairs Minister, Tzipi Livni, Ehud Olmert, Shimon Peres_
+_Context: Shimon Peres, Israel, Foreign Affairs Minister, Tzipi Livni, Ehud Olmert, President, Israeli Prime Minister_
 
 ##### Tyrone
 ### [ Tyrone beat Kerry 1-15 to 0-14 to win the All-Ireland Senior Football Championship 2008. ](/news/2008/09/21/tyrone-beat-kerry-1-15-to-0-14-to-win-the-all-ireland-senior-football-championship-2008.md)
-_Context: Kerry, Tyrone, 2008, All-Ireland Senior Football Championship_
+_Context: Tyrone, Kerry, 2008, All-Ireland Senior Football Championship_
 
 ##### The New York Yankees
 ### [ The New York Yankees beat The Baltimore Orioles, 7-3, at their last home game at Yankee Stadium. This is the last time the New York Yankees play at Yankee Stadium before moving to the New Yankee Stadium across the street. ](/news/2008/09/21/the-new-york-yankees-beat-the-baltimore-orioles-7-3-at-their-last-home-game-at-yankee-stadium-this-is-the-last-time-the-new-york-yankees.md)
-_Context: Yankee Stadium, New Yankee Stadium, The New York Yankees, Baltimore Orioles, New York Yankees_
+_Context: New York Yankees, Baltimore Orioles, Yankee Stadium, New Yankee Stadium, The New York Yankees_
 
 ## [Previous Day...](/news/2008/09/20/index.md)
 

@@ -9,11 +9,11 @@ Three suicide attacks in Anbar Province employed a tactic that insurgents began 
 
 ##### Inter-American Development Bank
 ### [ The Inter-American Development Bank forgives US$4.4 billion in debt owed by Bolivia, Honduras, Nicaragua, Haiti and Guyana, five of the poorest countries in the Americas. ](/news/2007/03/16/the-inter-american-development-bank-forgives-us-4-4-billion-in-debt-owed-by-bolivia-honduras-nicaragua-haiti-and-guyana-five-of-the-poo.md)
-_Context: Inter-American Development Bank, Haiti, Guyana, Bolivia, Americas, Honduras, USD, Nicaragua_
+_Context: Guyana, Nicaragua, Honduras, Inter-American Development Bank, Bolivia, Americas, Haiti, USD_
 
 ##### Herschelle Gibbs
 ### [ Herschelle Gibbs of South Africa becomes the first cricketer to hit six sixes in one over in a One Day International at the 2007 Cricket World Cup. ](/news/2007/03/16/herschelle-gibbs-of-south-africa-becomes-the-first-cricketer-to-hit-six-sixes-in-one-over-in-a-one-day-international-at-the-2007-cricket-wo.md)
-_Context: 2007 Cricket World Cup, Herschelle Gibbs, One Day International, South Africa, six, cricketer_
+_Context: One Day International, 2007 Cricket World Cup, cricketer, Herschelle Gibbs, South Africa, six_
 
 ##### New York Police Department
 ### [ Three officers of the New York Police Department are indicted on charges related to the death of a black man, Sean Bell, on his wedding day. ](/news/2007/03/16/three-officers-of-the-new-york-police-department-are-indicted-on-charges-related-to-the-death-of-a-black-man-sean-bell-on-his-wedding-day.md)
@@ -21,7 +21,7 @@ _Context: New York Police Department, Sean Bell_
 
 ##### UK
 ### [ British coroner Andrew Walker finds that the death of soldier Matty Hull in the 190th Fighter Squadron, Blues and Royals "friendly fire" incident was "unlawful and criminal". ](/news/2007/03/16/british-coroner-andrew-walker-finds-that-the-death-of-soldier-matty-hull-in-the-190th-fighter-squadron-blues-and-royals-friendly-fire-in.md)
-_Context: soldier, friendly fire, Matty Hull, coroner, UK, Andrew Walker, 190th Fighter Squadron, Blues and Royals_
+_Context: coroner, Matty Hull, soldier, UK, Andrew Walker, 190th Fighter Squadron, Blues and Royals, friendly fire_
 
 ##### Airbus
 ### [ Airbus workers in Germany, France and Spain hold protest meetings and strikes in response to plans to cut 10,000 jobs and close six plants. ](/news/2007/03/16/airbus-workers-in-germany-france-and-spain-hold-protest-meetings-and-strikes-in-response-to-plans-to-cut-10-000-jobs-and-close-six-plants.md)
@@ -33,7 +33,7 @@ _Context: Livedoor, Takafumi Horie_
 
 ##### Santo Santoro
 ### [ Santo Santoro, the federal Minister for Ageing in Australia, resigns after revealing that he owned shares in at least 50 companies not disclosed on the Senate register of interests. ](/news/2007/03/16/santo-santoro-the-federal-minister-for-ageing-in-australia-resigns-after-revealing-that-he-owned-shares-in-at-least-50-companies-not-disc.md)
-_Context: share, Australia, Senate of Australia, Santo Santoro_
+_Context: Australia, Santo Santoro, Senate of Australia, share_
 
 ##### Property Law of the People's Republic of China
 ### [ The Property Law of the People's Republic of China is adopted at the 2007 National People's Congress. ](/news/2007/03/16/the-property-law-of-the-people-s-republic-of-china-is-adopted-at-the-2007-national-people-s-congress.md)

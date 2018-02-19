@@ -5,7 +5,7 @@ Formats: [HTML](2017/06/14/index.html)  [JSON](2017/06/14/index.json)  [XML](201
 
 ##### War in Afghanistan
 ### [After a week-long assault, ISIL-KP captures the Tora Bora cave complex from the Taliban, allegedly in reaction to the 2017 Nangarhar airstrike. The Taliban say the fighting is still underway. ](/news/2017/06/14/after-a-week-long-assault-isil-kp-captures-the-tora-bora-cave-complex-from-the-taliban-allegedly-in-reaction-to-the-2017-nangarhar-airstri.md)
-_Context: Islamic State, War in Afghanistan, Tora Bora, Taliban, 2017 Nangarhar airstrike_
+_Context: Taliban, Islamic State, 2017 Nangarhar airstrike, Tora Bora, War in Afghanistan_
 
 ##### 2017 Congressional baseball shooting
 ### [A gunman opens fire at a Congressional Baseball practice, injuring five people, including United States Congressman Steve Scalise (R-LA-01) who is in critical condition. The suspected gunman later died from injuries after exchanging gunfire with Capitol Police. ](/news/2017/06/14/a-gunman-opens-fire-at-a-congressional-baseball-practice-injuring-five-people-including-united-states-congressman-steve-scalise-r-la-01.md)
@@ -33,11 +33,11 @@ GUATEMALA CITY (AP) — Five people were killed and seven injured by a magnitude
 
 ##### Egypt-Saudi Arabia relations
 ### [The Egyptian parliament approves the transfer of two uninhabited Red Sea islands, Tiran Island and Sanafir Island, to Saudi Arabia. ](/news/2017/06/14/the-egyptian-parliament-approves-the-transfer-of-two-uninhabited-red-sea-islands-tiran-island-and-sanafir-island-to-saudi-arabia.md)
-_Context: Sanafir Island, Tiran Island, Egypt-Saudi Arabia relations, Parliament of Egypt, Red Sea, Saudi Arabia_
+_Context: Saudi Arabia, Egypt-Saudi Arabia relations, Red Sea, Tiran Island, Sanafir Island, Parliament of Egypt_
 
 ##### Presidency of Donald Trump
 ### [Nearly 200 members of the Democratic Party in the United States Congress file a lawsuit in the federal court, claiming that U.S. President Trump profits from business dealings with foreign governments, in violation of the United States Constitution's emolument clauses. This is the third such suit of its kind, following on the heels of the most recent suit by the Attorneys General of Maryland and the District of Columbia.](/news/2017/06/14/nearly-200-members-of-the-democratic-party-in-the-united-states-congress-file-a-lawsuit-in-the-federal-court-claiming-that-u-s-president-t.md)
-_Context: Democrat, Congress, Presidency of Donald Trump, United States Constitution, U.S. President, Maryland, District of Columbia, emolument clauses_
+_Context: U.S. President, Maryland, Presidency of Donald Trump, Congress, District of Columbia, United States Constitution, emolument clauses, Democrat_
 
 ##### Manus Regional Processing Centre
 ### [Australia agrees to pay AUS$70 million in compensation to 1,905 people who have been detained on Manus Island since 2012, so avoiding a public trial against the government and the Transfield and G4S private companies for the detainees' degrading and cruel treatment. ](/news/2017/06/14/australia-agrees-to-pay-aus-70-million-in-compensation-to-1-905-people-who-have-been-detained-on-manus-island-since-2012-so-avoiding-a-publ.md)
@@ -61,7 +61,7 @@ Tim Farron has resigned as leader of the Liberal Democrats, following a furore o
 
 ##### Government of Ireland
 ### [Leo Varadkar becomes the first gay Taoiseach of the Republic of Ireland. ](/news/2017/06/14/leo-varadkar-becomes-the-first-gay-taoiseach-of-the-republic-of-ireland.md)
-_Context: Taoiseach, Irish, gay, Government of Ireland, Leo Varadkar_
+_Context: gay, Taoiseach, Irish, Government of Ireland, Leo Varadkar_
 
 ##### Two-headed animals
 ### [The deceased body of a rare two-headed porpoise is located for the first time in the North Sea by Dutch fishermen. ](/news/2017/06/14/the-deceased-body-of-a-rare-two-headed-porpoise-is-located-for-the-first-time-in-the-north-sea-by-dutch-fishermen.md)

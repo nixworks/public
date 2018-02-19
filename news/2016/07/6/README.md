@@ -9,7 +9,7 @@ _Context: New People's Army, communist rebels, army, gouged_
 
 ##### Yemeni Civil War
 ### [A suicide car bomb, that targeted the Central Security headquarters in the port city of Aden, Yemen, kills at least 26 people. Following the blast, militants stormed the compound and clashed with soldiers. No group immediately claimed responsibility but it is similar to an Islamic State in Iraq and the Levant attack on the port of Al Mukalla. ](/news/2016/07/6/a-suicide-car-bomb-that-targeted-the-central-security-headquarters-in-the-port-city-of-aden-yemen-kills-at-least-26-people-following-the.md)
-_Context: Yemeni Civil War, Al Mukalla, Islamic State in Iraq and the Levant, Aden, Yemen, Central Security_
+_Context: Yemeni Civil War, Yemen, Al Mukalla, Aden, Central Security, Islamic State in Iraq and the Levant_
 
 ##### Nickel
 ### [The price of nickel swings wildly after Philippines environment secretary Gina Lopez announces plans to close existing mines in the country. ](/news/2016/07/6/the-price-of-nickel-swings-wildly-after-philippines-environment-secretary-gina-lopez-announces-plans-to-close-existing-mines-in-the-country.md)
@@ -17,7 +17,7 @@ Nickel fell the most in eight weeks on speculation that the government may take 
 
 ##### Silvio Berlusconi
 ### [Business magnate and former Italian prime minister Silvio Berlusconi sells leading football club A.C. Milan to a Chinese consortium for an eventual EUR400 million. ](/news/2016/07/6/business-magnate-and-former-italian-prime-minister-silvio-berlusconi-sells-leading-football-club-a-c-milan-to-a-chinese-consortium-for-an-e.md)
-_Context: Silvio Berlusconi, A.C. Milan_
+_Context: A.C. Milan, Silvio Berlusconi_
 
 ##### 2016 federal election
 ### [Standard & Poor's drops Australia's debt outlook from stable to negative following the country's surprisingly close election this weekend. ](/news/2016/07/6/standard-poor-s-drops-australia-s-debt-outlook-from-stable-to-negative-following-the-country-s-surprisingly-close-election-this-weekend.md)
@@ -29,7 +29,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ##### Oscar Pistorius trial
 ### [South African athlete Oscar Pistorius is sentenced to six years imprisonment for the murder of Reeva Steenkamp. ](/news/2016/07/6/south-african-athlete-oscar-pistorius-is-sentenced-to-six-years-imprisonment-for-the-murder-of-reeva-steenkamp.md)
-_Context: Reeva Steenkamp, Oscar Pistorius, Oscar Pistorius trial, South Africa_
+_Context: Oscar Pistorius, Reeva Steenkamp, Oscar Pistorius trial, South Africa_
 
 ##### Iraq Inquiry
 ### [A report about the United Kingdom's involvement in the Iraq War is released. The chairman of the inquiry, Sir John Chilcot, said that the invasion was not a "last resort" and was based on "flawed intelligence and assessments". The inquiry was announced on 15 June 2009 by then-Prime Minister Gordon Brown. The final hearing was held on 2 February 2011. ](/news/2016/07/6/a-report-about-the-united-kingdom-s-involvement-in-the-iraq-war-is-released-the-chairman-of-the-inquiry-sir-john-chilcot-said-that-the-in.md)
@@ -37,11 +37,11 @@ Live coverage as Sir John Chilcot unveils his report into the Iraq war. Plus all
 
 ##### Email server
 ### [Loretta Lynch, the Attorney General of the United States, closes the investigation into Hillary Clinton's use of a personal email system to conduct official business without charges being laid. ](/news/2016/07/6/loretta-lynch-the-attorney-general-of-the-united-states-closes-the-investigation-into-hillary-clinton-s-use-of-a-personal-email-system-to.md)
-_Context: Hillary Clinton, Loretta Lynch, email server, Attorney General_
+_Context: Loretta Lynch, email server, Attorney General, Hillary Clinton_
 
 ##### 2016 Zimbabwe protests
 ### [National "Stay Away" protests, organized over the Internet via the WhatsApp social messaging platform, take place in Zimbabwe, following fears of an economic collapse amid calls for President Robert Mugabe's resignation.](/news/2016/07/6/national-stay-away-protests-organized-over-the-internet-via-the-whatsapp-social-messaging-platform-take-place-in-zimbabwe-following-fea.md)
-_Context: 2016 Zimbabwe protests, Internet, Robert Mugabe, President, WhatsApp, social messaging, Zimbabwe_
+_Context: WhatsApp, Zimbabwe, social messaging, Internet, President, Robert Mugabe, 2016 Zimbabwe protests_
 
 ## [Previous Day...](/news/2016/07/5/index.md)
 

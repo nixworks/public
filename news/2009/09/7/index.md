@@ -5,7 +5,7 @@ Formats: [HTML](2009/09/7/index.html)  [JSON](2009/09/7/index.json)  [XML](2009/
 
 ##### South Korea
 ### [ South Korea asks North Korea to explain a sudden discharge of dam water which left six people dead or missing across the border. ](/news/2009/09/7/south-korea-asks-north-korea-to-explain-a-sudden-discharge-of-dam-water-which-left-six-people-dead-or-missing-across-the-border.md)
-_Context: South Korea, North Korea, dam_
+_Context: dam, North Korea, South Korea_
 
 ##### Japan
 ### [ Japan's Prime Minister-elect Yukio Hatoyama proposes a 25% cut in greenhouse gas emissions by 2020, up from 8% by the outgoing administration. ](/news/2009/09/7/japan-s-prime-minister-elect-yukio-hatoyama-proposes-a-25-cut-in-greenhouse-gas-emissions-by-2020-up-from-8-by-the-outgoing-administrati.md)
@@ -21,23 +21,23 @@ _Context: West Bank, Israel_
 
 ##### India
 ### [ The Indian Central Bureau of Investigation is to investigate the helicopter crash which killed the Chief Minister of Andhra Pradesh Y. S. Rajasekhara Reddy and four others. ](/news/2009/09/7/the-indian-central-bureau-of-investigation-is-to-investigate-the-helicopter-crash-which-killed-the-chief-minister-of-andhra-pradesh-y-s-r.md)
-_Context: Y. S. Rajasekhara Reddy, India, helicopter, CBI, Andhra Pradesh_
+_Context: CBI, helicopter, Y. S. Rajasekhara Reddy, India, Andhra Pradesh_
 
 ##### Papua New Guinea
 ### [ Scientists working in Papua New Guinea announce the discovery of over forty new species, including a giant rat weighing approximately 1.5kg. ](/news/2009/09/7/scientists-working-in-papua-new-guinea-announce-the-discovery-of-over-forty-new-species-including-a-giant-rat-weighing-approximately-1-5kg.md)
-_Context: giant rat, Papua New Guinea_
+_Context: Papua New Guinea, giant rat_
 
 ##### Kraft Foods Inc.
 ### [ Kraft Foods Inc. says it will pursue a takeover of Cadbury after the British maker of Trident gum and Dairy Milk rejected a $16.7 billion bid. ](/news/2009/09/7/kraft-foods-inc-says-it-will-pursue-a-takeover-of-cadbury-after-the-british-maker-of-trident-gum-and-dairy-milk-rejected-a-16-7-billion-b.md)
-_Context: Dairy Milk, Cadbury chocolates, Trident gum, Kraft Foods Inc._
+_Context: Trident gum, Dairy Milk, Cadbury chocolates, Kraft Foods Inc._
 
 ##### Premier
 ### [ The premier of the Republic of China (Taiwan), Liu Chao-shiuan, and his cabinet resign due to criticism and public anger over the slow handling of the disaster during Typhoon Morakot. ](/news/2009/09/7/the-premier-of-the-republic-of-china-taiwan-liu-chao-shiuan-and-his-cabinet-resign-due-to-criticism-and-public-anger-over-the-slow-hand.md)
-_Context: Liu Chao-shiuan, Typhoon Morakot, Premier, Taiwan, Executive Branch, Taiwan_
+_Context: Typhoon Morakot, Executive Branch, Taiwan, Premier, Taiwan, Liu Chao-shiuan_
 
 ##### Sudan
 ### [ Sudanese activist Lubna al-Hussein is found guilty of breaching Sudanese criminal law by wearing trousers, but is fined instead of being sentenced to flogging due to international concern over the trial. She has stated she will not pay and instead face a month in jail. ](/news/2009/09/7/sudanese-activist-lubna-al-hussein-is-found-guilty-of-breaching-sudanese-criminal-law-by-wearing-trousers-but-is-fined-instead-of-being-se.md)
-_Context: Lubna al-Hussein, Sudanese criminal law, Sudan_
+_Context: Lubna al-Hussein, Sudan, Sudanese criminal law_
 
 ## [Previous Day...](/news/2009/09/6/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2014/07/19/index.html)  [JSON](2014/07/19/index.json)  [XML](201
 
 ##### Tehrik-i-Taliban Pakistan
 ### [A US drone strike kills eleven insurgents in a Tehrik-i-Taliban Pakistan compound in North Waziristan. ](/news/2014/07/19/a-us-drone-strike-kills-eleven-insurgents-in-a-tehrik-i-taliban-pakistan-compound-in-north-waziristan.md)
-_Context: North Waziristan, Tehrik-i-Taliban Pakistan_
+_Context: Tehrik-i-Taliban Pakistan, North Waziristan_
 
 ##### Hamas
 ### [According to Hamas the death toll from Israel's offensive against the Gaza Strip exceeds 300 although it is not clear how many are civilians or militants. Israel conducted over 2500 airstrikes and artillery strikes during the operation while thousands of rockets have been fired into Israel. ](/news/2014/07/19/according-to-hamas-the-death-toll-from-israel-s-offensive-against-the-gaza-strip-exceeds-300-although-it-is-not-clear-how-many-are-civilians.md)
@@ -21,7 +21,7 @@ Gunmen killed 21 Egyptian military border guards near the frontier with Libya on
 
 ##### Poland
 ### [Buses from Poland and Ukraine crash outside the German city of Dresden resulting in at least nine deaths and 40 people injured. ](/news/2014/07/19/buses-from-poland-and-ukraine-crash-outside-the-german-city-of-dresden-resulting-in-at-least-nine-deaths-and-40-people-injured.md)
-_Context: Ukraine, German, Dresden, Poland_
+_Context: German, Poland, Ukraine, Dresden_
 
 ##### Chinese
 ### [At least 38 people are dead after a bus collides with a van carrying flammable liquids in China's Hunan province. ](/news/2014/07/19/at-least-38-people-are-dead-after-a-bus-collides-with-a-van-carrying-flammable-liquids-in-china-s-hunan-province.md)
@@ -33,11 +33,11 @@ A super typhoon has killed atleast fourteen people in China since making landfal
 
 ##### Russia
 ### [Russia bans 13 Americans including Congressman Jim Moran, Rear Adm. Richard Butler and Lynndie England in response to the United States banning Russians for human rights abuses. ](/news/2014/07/19/russia-bans-13-americans-including-congressman-jim-moran-rear-adm-richard-butler-and-lynndie-england-in-response-to-the-united-states-bann.md)
-_Context: United States, Congress, American, Jim Moran, Lynndie England, Russia_
+_Context: American, United States, Congress, Lynndie England, Russia, Jim Moran_
 
 ##### Florida
 ### [A Florida court awards $23.6 billion in punitive damages against R.J. Reynolds Tobacco Company in a case of a longtime smoker who died in 1996. ](/news/2014/07/19/a-florida-court-awards-23-6-billion-in-punitive-damages-against-r-j-reynolds-tobacco-company-in-a-case-of-a-longtime-smoker-who-died-in-19.md)
-_Context: Florida, punitive damages, R.J. Reynolds Tobacco Company_
+_Context: punitive damages, Florida, R.J. Reynolds Tobacco Company_
 
 ## [Previous Day...](/news/2014/07/18/index.md)
 

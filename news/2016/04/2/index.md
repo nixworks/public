@@ -17,7 +17,7 @@ Two guards were killed in an attempted attack on an oil field in eastern Libya b
 
 ##### Iraqi Civil War (2014-present)
 ### [Iraqi security forces free a large number of prisoners from an underground ISIL-operated jail in the city of Hit. Malallah al-Obeidi, a local official in the Al Anbar Governorate, put the number of freed prisoners at around 1,500, saying most of them were civilians. ](/news/2016/04/2/iraqi-security-forces-free-a-large-number-of-prisoners-from-an-underground-isil-operated-jail-in-the-city-of-ha-t-malallah-al-obeidi-a-loc.md)
-_Context: Iraqi Civil War (2014-present), Hit, Hit offensive (2016), Anbar province, ISIL, Iraq_
+_Context: ISIL, Anbar province, Hit, Iraq, Iraqi Civil War (2014-present), Hit offensive (2016)_
 
 ##### PKK rebellion (2015-present)
 ### [A bombing kills at least five Turkish soldiers and one special forces police officer in the southeastern city of Nusaybin, near the Syria-Turkey border. ](/news/2016/04/2/a-bombing-kills-at-least-five-turkish-soldiers-and-one-special-forces-police-officer-in-the-southeastern-city-of-nusaybin-near-the-syriaa.md)
@@ -33,7 +33,7 @@ _Context: Amber Rayne_
 
 ##### Hong Kong
 ### [Hong Kong terrestrial television provider Asia Television ceases all broadcasts at midnight, following a 2015 decision by the Hong Kong Government not to renew its television license. ](/news/2016/04/2/hong-kong-terrestrial-television-provider-asia-television-ceases-all-broadcasts-at-midnight-following-a-2015-decision-by-the-hong-kong-gove.md)
-_Context: 2015, terrestrial television, Hong Kong, Asia Television_
+_Context: Asia Television, Hong Kong, 2015, terrestrial television_
 
 ##### United States
 ### [In the United States, a Lancair IV plane crashes into a car stopped along a highway, 50 miles north of San Diego, California, killing car passenger Antoinette "Toni" Frances Isbelle, a member of the WFTDA's San Diego Starlettes roller derby team. Five others, including the pilot, are hospitalized. ](/news/2016/04/2/in-the-united-states-a-lancair-iv-plane-crashes-into-a-car-stopped-along-a-highway-50-miles-north-of-san-diego-california-killing-car-pa.md)
@@ -49,7 +49,7 @@ Council asks UN secretary general to present options within 15 days for police d
 
 ##### NATO-Russia relations
 ### [The United States Air Force sends 12 F-15C Eagles and 350 personnel to Iceland and the Netherlands to deter further Russian aggression in Europe. ](/news/2016/04/2/the-united-states-air-force-sends-12-f-15c-eagles-and-350-personnel-to-iceland-and-the-netherlands-to-deter-further-russian-aggression-in-eu.md)
-_Context:  F-15C Eagle, Iceland, NATO-Russia relations, Europe, Russia, United States Air Force, Netherlands_
+_Context: Europe, Russia, NATO-Russia relations, Iceland,  F-15C Eagle, United States Air Force, Netherlands_
 
 ##### Greek government-debt crisis
 ### [Greece demands an explanation from the International Monetary Fund (IMF) after an apparent leaked transcript suggested the IMF may threaten to pull out of the country's bailout as a tactic to force European lenders to offer more debt relief. Whistleblowing site WikiLeaks published what it said was the transcript of a March 19 conference call of three senior IMF officials discussing tactics to apply pressure on Greece, Germany and the EU to reach a deal in April. ](/news/2016/04/2/greece-demands-an-explanation-from-the-international-monetary-fund-imf-after-an-apparent-leaked-transcript-suggested-the-imf-may-threaten.md)
@@ -61,7 +61,7 @@ Members of Indian women activist group Bhumata Ranragini Brigade were prevented 
 
 ##### 2016 U.S. election
 ### [The Republican National Committeeman for North Dakota, Curly Haugland, says that the likelihood for outsiders such as Donald Trump to get state electoral votes are slim as the party honor its own elders. ](/news/2016/04/2/the-republican-national-committeeman-for-north-dakota-curly-haugland-says-that-the-likelihood-for-outsiders-such-as-donald-trump-to-get-st.md)
-_Context: 2016 U.S. election, Curly Haugland, Donald Trump, Republican Party presidential candidates, 2016, Republican National Committee_
+_Context: Republican National Committee, 2016 U.S. election, Donald Trump, Curly Haugland, Republican Party presidential candidates, 2016_
 
 ##### Tran Dai Quang
 ### [Tran Dai Quang is sworn in as the President of Vietnam. ](/news/2016/04/2/traossn-aao-i-quang-is-sworn-in-as-the-president-of-vietnam.md)
@@ -69,7 +69,7 @@ _Context: Tran Dai Quang, President of Vietnam_
 
 ##### Saudi Arabia
 ### [The Saudi-owned news channel Al Arabiya shuts its offices in Beirut, Lebanon and dismisses 27 employees in a sudden move reflecting tensions between Saudi Arabia and Lebanon-based Hezbollah, which is backed by Iran. Saudi Arabia interpreted Lebanon's lack of public solidarity as a sign that it had become beholden to Hezbollah. ](/news/2016/04/2/the-saudi-owned-news-channel-al-arabiya-shuts-its-offices-in-beirut-lebanon-and-dismisses-27-employees-in-a-sudden-move-reflecting-tensions.md)
-_Context: Iran, Saudi Arabia, Al Arabiya, Lebanese, Hezbollah, Beirut_
+_Context: Lebanese, Saudi Arabia, Hezbollah, Beirut, Al Arabiya, Iran_
 
 ##### Governor
 ### [The Governor of the U.S. territory of Guam Eddie Calvo announces his intention to hold a plebiscite to decide the future political status of the island. Calvo said he hopes to start a successful "education campaign" on the issue before filing a petition to start a referendum. If the plebiscite does take place, voters on Guam would be asked to select which political status they would prefer; independence, statehood, or free association However, the possible vote would be non-binding as any change in political status would require an act of Congress in Washington, D.C.. Guam is currently on the United Nations list of Non-Self-Governing Territories in need of decolonization. ](/news/2016/04/2/the-governor-of-the-u-s-territory-of-guam-eddie-calvo-announces-his-intention-to-hold-a-plebiscite-to-decide-the-future-political-status-of.md)

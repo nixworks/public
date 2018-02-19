@@ -33,11 +33,11 @@ Three crew members and a patient were killed when the plane, carrying a heart-di
 
 ##### Bersih 5 rally
 ### [Tens of thousands of people protest in the Malaysian capital Kuala Lumpur, calling for Prime Minister Najib Razak to step down amid an ongoing corruption scandal involving 1Malaysia Development Berhad. ](/news/2016/11/19/tens-of-thousands-of-people-protest-in-the-malaysian-capital-kuala-lumpur-calling-for-prime-minister-najib-razak-to-step-down-amid-an-ongoi.md)
-_Context: Prime Minister, 1Malaysia Development Berhad, Najib Razak, Malaysia, Kuala Lumpur, Bersih 5 rally_
+_Context: Malaysia, 1Malaysia Development Berhad, Najib Razak, Bersih 5 rally, Kuala Lumpur, Prime Minister_
 
 ##### Atlas V
 ### [An Atlas V rocket launches the GOES-R geosynchronous environmental satellite that will cover the Western Hemisphere for weather forecasting. ](/news/2016/11/19/an-atlas-v-rocket-launches-the-goes-r-geosynchronous-environmental-satellite-that-will-cover-the-western-hemisphere-for-weather-forecasting.md)
-_Context: GOES-R, geosynchronous environmental satellite, Western Hemisphere, Atlas V_
+_Context: Atlas V, GOES-R, geosynchronous environmental satellite, Western Hemisphere_
 
 ## [Previous Day...](/news/2016/11/18/index.md)
 

@@ -13,7 +13,7 @@ _Context: Harry Potter and the Half-Blood Prince, Catholic Church_
 
 ##### Caspian Airlines
 ### [ Caspian Airlines Flight 7908, flying from Tehran to Yerevan, Armenia with 153 passengers and 15 crew members on board, crashes in Iran shortly after takeoff. ](/news/2009/07/15/caspian-airlines-flight-7908-flying-from-tehran-to-yerevan-armenia-with-153-passengers-and-15-crew-members-on-board-crashes-in-iran-shor.md)
-_Context: Caspian Airlines, Tehran, Armenia, Flight 7908, Yerevan, Iran_
+_Context: Armenia, Yerevan, Iran, Flight 7908, Tehran, Caspian Airlines_
 
 ##### M<sub>w</sub>&nbsp;5.2
 ### [ A 7.6-magnitude earthquake strikes off South Island, New Zealand, generating brief fears of a small tsunami. ](/news/2009/07/15/a-7-6-magnitude-earthquake-strikes-off-south-island-new-zealand-generating-brief-fears-of-a-small-tsunami.md)
@@ -21,15 +21,15 @@ Officials are today checking for damage after a huge earthquake rocked parts of 
 
 ##### China
 ### [ China's foreign exchange reserves have reached a record of US$ 2.13 trillion, which is more than twice the size of Japan's&mdash;the second-biggest holder. ](/news/2009/07/15/china-s-foreign-exchange-reserves-have-reached-a-record-of-us-2-13-trillion-which-is-more-than-twice-the-size-of-japan-s-mdash-the-second.md)
-_Context: Japan, $, foreign exchange reserves, China_
+_Context: foreign exchange reserves, Japan, $, China_
 
 ##### China
 ### [ China urges its citizens in Algeria to "take extra care" after reports circulate of a militant group's plans to avenge recent deaths of Muslim Uyghurs. ](/news/2009/07/15/china-urges-its-citizens-in-algeria-to-take-extra-care-after-reports-circulate-of-a-militant-group-s-plans-to-avenge-recent-deaths-of-mus.md)
-_Context: Algeria, China, Uyghur_
+_Context: Uyghur, China, Algeria_
 
 ##### Maria del Carmen Bousada de Lara
 ### [ Maria del Carmen Bousada de Lara, the world's oldest new mother, is announced to have died of cancer aged 69, three years after giving birth. ](/news/2009/07/15/maria-del-carmen-bousada-de-lara-the-world-s-oldest-new-mother-is-announced-to-have-died-of-cancer-aged-69-three-years-after-giving-birt.md)
-_Context: cancer, Maria del Carmen Bousada de Lara_
+_Context: Maria del Carmen Bousada de Lara, cancer_
 
 ##### Suicide attack
 ### [ Six people, including two traffic police, are killed and sixteen people are injured in a suicide attack in Anbar, Iraq. ](/news/2009/07/15/six-people-including-two-traffic-police-are-killed-and-sixteen-people-are-injured-in-a-suicide-attack-in-anbar-iraq.md)
@@ -45,7 +45,7 @@ An explosion at a Total petrochemicals plant in France has killed two people, in
 
 ##### Chansa Kabwela
 ### [ Chansa Kabwela, editor of Zambia's biggest-selling newspaper "The Post", is charged with distributing obscene materials relating to a health sector crisis. ](/news/2009/07/15/chansa-kabwela-editor-of-zambia-s-biggest-selling-newspaper-the-post-is-charged-with-distributing-obscene-materials-relating-to-a-healt.md)
-_Context: Zambia, Chansa Kabwela, The Post_
+_Context: The Post, Chansa Kabwela, Zambia_
 
 ##### Common Travel Area
 ### [ The British government opts not to end the Common Travel Area between the United Kingdom and Ireland. ](/news/2009/07/15/the-british-government-opts-not-to-end-the-common-travel-area-between-the-united-kingdom-and-ireland.md)

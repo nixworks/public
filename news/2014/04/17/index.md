@@ -21,7 +21,7 @@ _Context: Anglo Irish Bank_
 
 ##### Steven W. Rhodes
 ### [Bankruptcy judge Steven W. Rhodes says that the court may maintain supervision over the finances of the city of Detroit, Michigan, even after the city emerges from bankruptcy protection. ](/news/2014/04/17/bankruptcy-judge-steven-w-rhodes-says-that-the-court-may-maintain-supervision-over-the-finances-of-the-city-of-detroit-michigan-even-afte.md)
-_Context: Detroit, Steven W. Rhodes, Mich._
+_Context: Mich., Detroit, Steven W. Rhodes_
 
 ##### Algeria
 ### [Voters in Algeria go to the polls for a presidential election with incumbent President Abdelaziz Bouteflika standing for a fourth term. ](/news/2014/04/17/voters-in-algeria-go-to-the-polls-for-a-presidential-election-with-incumbent-president-abdelaziz-bouteflika-standing-for-a-fourth-term.md)

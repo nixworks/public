@@ -17,7 +17,7 @@ Strike over export curbs rekindles a dispute that helped drive global grains pri
 
 ##### Walmart
 ### [Walmart's bid for South African retail store Massmart is approved by shareholders, with organized labour groups such as the Congress of South African Trade Unions threatening boycotts against the store.](/news/2011/01/17/walmart-s-bid-for-south-african-retail-store-massmart-is-approved-by-shareholders-with-organized-labour-groups-such-as-the-congress-of-sout.md)
-_Context: Massmart, boycotts, South Africa, Congress of South African Trade Unions, organized labour, Walmart_
+_Context: South Africa, Massmart, Congress of South African Trade Unions, boycotts, Walmart, organized labour_
 
 ##### GlaxoSmithKline
 ### [GlaxoSmithKline pays out $3.4 billion last quarter in legal settlings over their drug Avandia. ](/news/2011/01/17/glaxosmithkline-pays-out-3-4-billion-last-quarter-in-legal-settlings-over-their-drug-avandia.md)
@@ -25,7 +25,7 @@ GlaxoSmithKline will record a legal charge of 2.2 billion pounds ($3.4 billion) 
 
 ##### South Africa
 ### [39 people are killed in South Africa and thousands of homes are destroyed in Mozambique following widespread flooding. ](/news/2011/01/17/39-people-are-killed-in-south-africa-and-thousands-of-homes-are-destroyed-in-mozambique-following-widespread-flooding.md)
-_Context: South Africa, Mozambique_
+_Context: Mozambique, South Africa_
 
 ##### Vietnam
 ### [Hundreds of people are hospitalised after an extreme cold spell in northern Vietnam that has also killed thousands of cows and buffaloes. ](/news/2011/01/17/hundreds-of-people-are-hospitalised-after-an-extreme-cold-spell-in-northern-vietnam-that-has-also-killed-thousands-of-cows-and-buffaloes.md)
@@ -33,7 +33,7 @@ _Context: Vietnam_
 
 ##### Armenian President
 ### [The President of Armenia accuses Turkey of "destroying" a bid to normalize relations between the two countries, who are locked in a dispute over the mass killings of Armenians by Ottoman Turks during World War I. ](/news/2011/01/17/the-president-of-armenia-accuses-turkey-of-destroying-a-bid-to-normalize-relations-between-the-two-countries-who-are-locked-in-a-dispute.md)
-_Context: Armenian President, Turkey, genocide of Armenians, First World War, reconciliation_
+_Context: genocide of Armenians, reconciliation, Turkey, Armenian President, First World War_
 
 ##### China
 ### [Two judges are fired and a court official suspended in China over a life sentence imposed on a man who evaded thousands in motorway toll fees. The ruling is also overturned. ](/news/2011/01/17/two-judges-are-fired-and-a-court-official-suspended-in-china-over-a-life-sentence-imposed-on-a-man-who-evaded-thousands-in-motorway-toll-fee.md)

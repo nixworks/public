@@ -13,7 +13,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Minaret
 ### [The 11th-century minaret of the Umayyad Great Mosque at the World Heritage Site of Aleppo is destroyed. Both warring parties blame each other. ](/news/2013/04/24/the-11th-century-minaret-of-the-umayyad-great-mosque-at-the-world-heritage-site-of-aleppo-is-destroyed-both-warring-parties-blame-each-othe.md)
-_Context: world heritage site, minaret, Umayyad Great Mosque, Aleppo_
+_Context: Umayyad Great Mosque, Aleppo, minaret, world heritage site_
 
 ##### Manchester, Illinois
 ### [A shooting occurs in Manchester, Illinois, United States, leaving 5 dead and another injured. The suspect is then killed in a gunfight with police. ](/news/2013/04/24/a-shooting-occurs-in-manchester-illinois-united-states-leaving-5-dead-and-another-injured-the-suspect-is-then-killed-in-a-gunfight-with.md)
@@ -25,11 +25,11 @@ A federal judge said on Wednesday the U.S. government can proceed with a lawsuit
 
 ##### FBI
 ### [The FBI and the CIA admit that Russian intelligence had warned the U.S. intelligence agencies several times regarding the extremist connections of Tamerlan Tsarnaev prior to the Boston marathon bombings. ](/news/2013/04/24/the-fbi-and-the-cia-admit-that-russian-intelligence-had-warned-the-u-s-intelligence-agencies-several-times-regarding-the-extremist-connecti.md)
-_Context: U.S., Russian intelligence, CIA, Tamerlan Tsarnaev, Boston marathon bombings, FBI_
+_Context: U.S., FBI, CIA, Russian intelligence, Boston marathon bombings, Tamerlan Tsarnaev_
 
 ##### Malaysian police
 ### [Malaysian police claim that there have been hundreds of cases of election-related violence since campaigning for the Malaysian general election went underway last weekend. ](/news/2013/04/24/malaysian-police-claim-that-there-have-been-hundreds-of-cases-of-election-related-violence-since-campaigning-for-the-malaysian-general-elect.md)
-_Context: general election, Malaysian police_
+_Context: Malaysian police, general election_
 
 ##### President of Italy
 ### [Italian President Giorgio Napolitano gives vice-secretary of the Democratic Party Enrico Letta the mandate to form a new government. ](/news/2013/04/24/italian-president-giorgio-napolitano-gives-vice-secretary-of-the-democratic-party-enrico-letta-the-mandate-to-form-a-new-government.md)

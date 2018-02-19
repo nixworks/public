@@ -17,7 +17,7 @@ ARLINGTON, Wash. (AP) — Looking for signs of life in the quicksand-like mud be
 
 ##### United Nations Children's Fund
 ### [The United Nations Children's Fund reports that an outbreak of the deadly Ebola virus that has so far claimed the lives of 59 victims has spread from southern Guinea to the capital Conakry. ](/news/2014/03/23/the-united-nations-children-s-fund-reports-that-an-outbreak-of-the-deadly-ebola-virus-that-has-so-far-claimed-the-lives-of-59-victims-has-sp.md)
-_Context: United Nations Children's Fund, Conakry, Ebola virus, Guinea_
+_Context: Guinea, Ebola virus, Conakry, United Nations Children's Fund_
 
 ##### South Africa
 ### [Shrien Dewani has his extradition date to South Africa set for 7 April to face court for the murder of Anni Dewani. ](/news/2014/03/23/shrien-dewani-has-his-extradition-date-to-south-africa-set-for-7-april-to-face-court-for-the-murder-of-anni-dewani.md)
@@ -25,11 +25,11 @@ Dewani will appear in court in South Africa the day after leaving the UK - he is
 
 ##### France
 ### [Voters in France go to the polls for municipal elections with candidates from the centre-right Union for a Popular Movement performing well. ](/news/2014/03/23/voters-in-france-go-to-the-polls-for-municipal-elections-with-candidates-from-the-centre-right-union-for-a-popular-movement-performing-well.md)
-_Context: UMP, French municipal elections, 2014, France_
+_Context: French municipal elections, 2014, UMP, France_
 
 ##### Trade deal
 ### [Protesters opposed to the vote of the Cross-Strait Trade Agreement without a clause-by-clause review continue to occupy the Taiwanese parliament.Protesters push to occupy the nearby Executive Yuan as well. ](/news/2014/03/23/protesters-opposed-to-the-vote-of-the-cross-strait-trade-agreement-without-a-clause-by-clause-review-continue-to-occupy-the-taiwanese-parlia.md)
-_Context: legislative chamber, Executive Branch, continue to occupy, trade deal_
+_Context: trade deal, legislative chamber, continue to occupy, Executive Branch_
 
 ## [Previous Day...](/news/2014/03/22/index.md)
 

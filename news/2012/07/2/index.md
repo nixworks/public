@@ -5,19 +5,19 @@ Formats: [HTML](2012/07/2/index.html)  [JSON](2012/07/2/index.json)  [XML](2012/
 
 ##### Somalia
 ### [Four foreign aid workers held hostage inside Somalia are rescued by Somali forces after they were kidnapped from a Kenyan refugee camp on June 29. ](/news/2012/07/2/four-foreign-aid-workers-held-hostage-inside-somalia-are-rescued-by-somali-forces-after-they-were-kidnapped-from-a-kenyan-refugee-camp-on-ju.md)
-_Context: Somalia, Kenya_
+_Context: Kenya, Somalia_
 
 ##### Ja'ar
 ### [Children in Ja'ar, Yemen, accidentally set off a shell, killing one and wounding seven others. ](/news/2012/07/2/children-in-jae-ar-yemen-accidentally-set-off-a-shell-killing-one-and-wounding-seven-others.md)
-_Context: Ja'ar, Yemen_
+_Context: Yemen, Ja'ar_
 
 ##### Kenya
 ### [Officials in Kenya say that two Iranian Islamic Revolutionary Guards arrested with explosives planned to attack Israeli, American, British and Saudi Arabian targets inside Kenya. ](/news/2012/07/2/officials-in-kenya-say-that-two-iranian-islamic-revolutionary-guards-arrested-with-explosives-planned-to-attack-israeli-american-british-a.md)
-_Context: Kenya, Iran, Islamic Revolutionary Guards, Israelis, Saudi Arabian, United States, United Kingdom_
+_Context: United States, Israelis, Kenya, Iran, Saudi Arabian, United Kingdom, Islamic Revolutionary Guards_
 
 ##### Finland
 ### [Finland says it will block the euro zone's permanent bailout fund (ESM) from buying government bonds in the open market, while The Netherlands also indicates opposition to the bond-buying idea. ](/news/2012/07/2/finland-says-it-will-block-the-euro-zone-s-permanent-bailout-fund-esm-from-buying-government-bonds-in-the-open-market-while-the-netherlan.md)
-_Context: Finland, Netherlands_
+_Context: Netherlands, Finland_
 
 ##### Airbus
 ### [Airbus says it plans to open a $600 million assembly plant in Mobile, Alabama, USA. ](/news/2012/07/2/airbus-says-it-plans-to-open-a-600-million-assembly-plant-in-mobile-alabama-usa.md)
@@ -29,7 +29,7 @@ GlaxoSmithKline Plc agreed to plead guilty to misdemeanor criminal charges and p
 
 ##### IPO
 ### [Despite early frustration and strife about their IPO, Facebook decides to remain on the Nasdaq. ](/news/2012/07/2/despite-early-frustration-and-strife-about-their-ipo-facebook-decides-to-remain-on-the-nasdaq.md)
-_Context: Nasdaq, IPO, Facebook_
+_Context: Facebook, IPO, Nasdaq_
 
 ##### United Kingdom
 ### [The British government announces a parliamentary investigation into the Barclays Libor scandal, with reports hoped to be filed by the end of the year. ](/news/2012/07/2/the-british-government-announces-a-parliamentary-investigation-into-the-barclays-libor-scandal-with-reports-hoped-to-be-filed-by-the-end-of.md)
@@ -49,7 +49,7 @@ An Air Force C-130 tanker has crashed while battling a South Dakota wildfire, ki
 
 ##### Eastern U.S.
 ### [At least 2 million throughout the Eastern United States are still without power due to strong storms and a heat wave that killed 19 people. ](/news/2012/07/2/at-least-2-million-throughout-the-eastern-united-states-are-still-without-power-due-to-strong-storms-and-a-heat-wave-that-killed-19-people.md)
-_Context: Eastern U.S., current U.S. heat wave, strong storms_
+_Context: strong storms, current U.S. heat wave, Eastern U.S._
 
 ##### ICC
 ### [Four officials from the International Criminal Court, including Melinda Taylor, are released after they were held in the Libyan city of Zintan for four weeks on suspicion of spying. ](/news/2012/07/2/four-officials-from-the-international-criminal-court-including-melinda-taylor-are-released-after-they-were-held-in-the-libyan-city-of-zint.md)
@@ -61,11 +61,11 @@ Ichiro Ozawa and his faction resign from the ruling Democratic Party of Japan, a
 
 ##### German
 ### [The head of Germany's domestic intelligence agency, Heinz Fromm, resigns due to a series of blunders in an investigation about a neo-Nazi cell. ](/news/2012/07/2/the-head-of-germany-s-domestic-intelligence-agency-heinz-fromm-resigns-due-to-a-series-of-blunders-in-an-investigation-about-a-neo-nazi-ce.md)
-_Context: neo-Nazi, Heinz Fromm, German_
+_Context: Heinz Fromm, German, neo-Nazi_
 
 ##### Miguel Angel Mancera
 ### [Miguel Angel Mancera wins the 2012 Mexico City head of state (mayoral) election. ](/news/2012/07/2/miguel-angel-mancera-wins-the-2012-mexico-city-head-of-state-mayoral-election.md)
-_Context: Miguel Angel Mancera, Mexico City, head of state (mayoral) election_
+_Context: head of state (mayoral) election, Miguel Angel Mancera, Mexico City_
 
 ##### Hamas
 ### [Hamas suspends voter registration in the Gaza Strip, stalling Palestinian plans for parliamentary and presidential elections and thwarting moves towards reconciliation with the rival Fatah party. ](/news/2012/07/2/hamas-suspends-voter-registration-in-the-gaza-strip-stalling-palestinian-plans-for-parliamentary-and-presidential-elections-and-thwarting-m.md)
@@ -73,7 +73,7 @@ Hamas said it suspended the elections commission for not treating its supporters
 
 ##### NASA
 ### [NASA and Lockheed Martin unveil the first space-bound Orion spacecraft in Cape Canaveral. ](/news/2012/07/2/nasa-and-lockheed-martin-unveil-the-first-space-bound-orion-spacecraft-in-cape-canaveral.md)
-_Context: Cape Canaveral, Orion spacecraft, NASA, Lockheed_
+_Context: Orion spacecraft, Lockheed, NASA, Cape Canaveral_
 
 ## [Previous Day...](/news/2012/07/1/index.md)
 

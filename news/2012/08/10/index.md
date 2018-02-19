@@ -5,7 +5,7 @@ Formats: [HTML](2012/08/10/index.html)  [JSON](2012/08/10/index.json)  [XML](201
 
 ##### Sinaloa Cartel
 ### [Four suspected drug traffickers of the Sinaloa Cartel, including the cousin of Joaquin "El Chapo" Guzman, Mexico's most-wanted drug lord, are captured in Spain. ](/news/2012/08/10/four-suspected-drug-traffickers-of-the-sinaloa-cartel-including-the-cousin-of-joaquan-el-chapo-guzma-n-mexico-s-most-wanted-drug-lord.md)
-_Context: Joaquin Guzman Loera, Sinaloa Cartel, Spain_
+_Context: Spain, Sinaloa Cartel, Joaquin Guzman Loera_
 
 ##### Mohammed Hadia al Feitouri
 ### [A Libyan army general Mohammed Hadia al Feitouri is shot dead in Benghazi. ](/news/2012/08/10/a-libyan-army-general-mohammed-hadia-al-feitouri-is-shot-dead-in-benghazi.md)
@@ -17,11 +17,11 @@ _Context: Philippines, Manila_
 
 ##### United States
 ### [The United States says they are planning to help clean up herbicide Agent Orange from areas of Vietnam, the first time since the Vietnam War ended in 1975. ](/news/2012/08/10/the-united-states-says-they-are-planning-to-help-clean-up-herbicide-agent-orange-from-areas-of-vietnam-the-first-time-since-the-vietnam-war.md)
-_Context: United States, Vietnam War, Agent Orange, Vietnam_
+_Context: Agent Orange, United States, Vietnam War, Vietnam_
 
 ##### South Korea
 ### [The South Korean Yonhap news agency reports that the President of South Korea Lee Myung-bak is considering visiting the disputed Liancourt Rocks, which are also claimed by Japan. ](/news/2012/08/10/the-south-korean-yonhap-news-agency-reports-that-the-president-of-south-korea-lee-myung-bak-is-considering-visiting-the-disputed-liancourt-r.md)
-_Context: Lee Myung-bak, South Korea, Liancourt Rocks, Japan, Yonhap, South Korean President_
+_Context: Japan, South Korean President, Yonhap, Liancourt Rocks, Lee Myung-bak, South Korea_
 
 ##### John Atta Mills
 ### [Tens of thousands of people attend the state funeral for President John Atta Mills in Accra, Ghana. ](/news/2012/08/10/tens-of-thousands-of-people-attend-the-state-funeral-for-president-john-atta-mills-in-accra-ghana.md)

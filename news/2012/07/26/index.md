@@ -17,7 +17,7 @@ _Context: Iraqi Army, Baqubah_
 
 ##### Japanese
 ### [Japanese businessman Kenichi Watanabe resigns as the CEO of financial company Nomura Holdings following a series of insider trading scandals. ](/news/2012/07/26/japanese-businessman-kenichi-watanabe-resigns-as-the-ceo-of-financial-company-nomura-holdings-following-a-series-of-insider-trading-scandals.md)
-_Context: Nomura Holdings, insider trading, Japanese, Kenichi Watanabe_
+_Context: insider trading, Kenichi Watanabe, Nomura Holdings, Japanese_
 
 ##### Ivory Coast
 ### [President of Ivory Coast Alassane Ouattara meets with his French counterpart Francois Hollande in Paris to finalize a deal that will forgive a debt of nearly 4.7 billion dollars owed to the former colonial power.](/news/2012/07/26/president-of-ivory-coast-alassane-ouattara-meets-with-his-french-counterpart-franassois-hollande-in-paris-to-finalize-a-deal-that-will-forgiv.md)

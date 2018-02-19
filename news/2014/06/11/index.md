@@ -13,7 +13,7 @@ Assault on lines linking Sanaa with al-Qaeda stronghold Marib trips national gri
 
 ##### Khalifa Haftar
 ### [Forces loyal to General Khalifa Haftar conduct at least three separate airstrikes on Ansar al-Sharia militia bases in Benghazi. ](/news/2014/06/11/forces-loyal-to-general-khalifa-haftar-conduct-at-least-three-separate-airstrikes-on-ansar-al-sharia-militia-bases-in-benghazi.md)
-_Context: Khalifa Haftar, Ansar al-Sharia, Benghazi_
+_Context: Ansar al-Sharia, Benghazi, Khalifa Haftar_
 
 ##### Vyacheslav Ponomarev
 ### [Russian media reports that the self proclaimed "people's mayor" Vyacheslav Ponomarev is arrested by a militant wing of a rebel group led by former GRU officer Igor Girkin in Slovyansk. ](/news/2014/06/11/russian-media-reports-that-the-self-proclaimed-people-s-mayor-vyacheslav-ponomarev-is-arrested-by-a-militant-wing-of-a-rebel-group-led-by.md)

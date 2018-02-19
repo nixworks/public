@@ -5,7 +5,7 @@ Formats: [HTML](2010/11/19/index.html)  [JSON](2010/11/19/index.json)  [XML](201
 
 ##### Al-Shabaab
 ### [Eleven people are killed in clashes between the rival al-Shabaab and Ahlu Sunna Waljama'a groups in central Somalia. ](/news/2010/11/19/eleven-people-are-killed-in-clashes-between-the-rival-al-shabaab-and-ahlu-sunna-waljama-a-groups-in-central-somalia.md)
-_Context: Al-Shabaab, Ahlu Sunna Waljama'a, Somalia_
+_Context: Ahlu Sunna Waljama'a, Somalia, Al-Shabaab_
 
 ##### Russia
 ### [A police officer dies in hospital after a suspected militant attack in Russia's North Caucasus republic of Dagestan. ](/news/2010/11/19/a-police-officer-dies-in-hospital-after-a-suspected-militant-attack-in-russiaas-north-caucasus-republic-of-dagestan.md)
@@ -29,7 +29,7 @@ A dummy bomb that sparked an international terror alert was made by an 80-year-o
 
 ##### Federal District Judge
 ### [United States federal judge William Terrell Hodges orders actor Wesley Snipes to surrender to authorities so that he can start a three year sentence for tax-related crimes. ](/news/2010/11/19/united-states-federal-judge-william-terrell-hodges-orders-actor-wesley-snipes-to-surrender-to-authorities-so-that-he-can-start-a-three-year.md)
-_Context: Wesley Snipes, William Terrell Hodges, Federal District Judge_
+_Context: Federal District Judge, William Terrell Hodges, Wesley Snipes_
 
 ##### Coal miners
 ### [Twenty-nine coal miners and officials are feared trapped following an explosion at the Pike River Coal Processing Plant at Atarau in the Grey District of the South Island of New Zealand. ](/news/2010/11/19/twenty-nine-coal-miners-and-officials-are-feared-trapped-following-an-explosion-at-the-pike-river-coal-processing-plant-at-atarau-in-the-gre.md)
@@ -37,7 +37,7 @@ More details of the missing miners emerge as police wait until it is safe to beg
 
 ##### Worst epidemic of cholera
 ### [The cholera epidemic which has killed more than 1,100 people in Haiti spreads to the largest prison in the country. ](/news/2010/11/19/the-cholera-epidemic-which-has-killed-more-than-1-100-people-in-haiti-spreads-to-the-largest-prison-in-the-country.md)
-_Context: Haiti, worst epidemic of cholera_
+_Context: worst epidemic of cholera, Haiti_
 
 ##### Los Angeles
 ### [Residents of Los Angeles come under attack from rabid bats carrying a deadly disease. ](/news/2010/11/19/residents-of-los-angeles-come-under-attack-from-rabid-bats-carrying-a-deadly-disease.md)
@@ -61,19 +61,19 @@ Nato members meet in Lisbon for a crucial summit, with a timetable for handing s
 
 ##### UN
 ### [The UN General Assembly's human rights committee criticizes Iran for human rights abuses; Iranian diplomat Mohammad-Javad Larijani calls the UN censure a "politicization" of human rights. ](/news/2010/11/19/the-un-general-assembly-s-human-rights-committee-criticizes-iran-for-human-rights-abuses-iranian-diplomat-mohammad-javad-larijani-calls-the.md)
-_Context: Iranian human rights, United Nations General Assembly, human rights, Mohammad-Javad Larijani, UN, Iran_
+_Context: Iran, UN, United Nations General Assembly, Iranian human rights, Mohammad-Javad Larijani, human rights_
 
 ##### Dalai Lama
 ### [Tibetan spiritual leader, the Dalai Lama, says that cultural genocide is taking place in Tibet, particularly in light of the Chinese authority's requirement of Mandarin as the language of instruction in schools in Tibet. ](/news/2010/11/19/tibetan-spiritual-leader-the-dalai-lama-says-that-cultural-genocide-is-taking-place-in-tibet-particularly-in-light-of-the-chinese-authori.md)
-_Context: cultural genocide, Tibet, Tibet Autonomous Region, 14th Dalai Lama, Dalai Lama, Mandarin_
+_Context: cultural genocide, Tibet Autonomous Region, 14th Dalai Lama, Mandarin, Tibet, Dalai Lama_
 
 ##### Jakarta
 ### [Demonstrators outside the Saudi embassy in Jakarta demand justice for migrant workers after a Saudi Arabian employer kills an Indonesian maid and another maid was severely beaten by her Saudi employer; the Indonesian Foreign Minister Marty Natalegawa summons the Saudi Arabian ambassador to protest. ](/news/2010/11/19/demonstrators-outside-the-saudi-embassy-in-jakarta-demand-justice-for-migrant-workers-after-a-saudi-arabian-employer-kills-an-indonesian-mai.md)
-_Context: Saudi Arabia, Marty Natalegawa, Indonesia, migrant workers, Jakarta_
+_Context: Indonesia, Jakarta, Saudi Arabia, migrant workers, Marty Natalegawa_
 
 ##### Panama
 ### [Panama grants asylum to Maria del Pilar Hurtado, the former head of Colombia's Administrative Department of Security wanted for allegedly illegal wiretapping. ](/news/2010/11/19/panama-grants-asylum-to-maraa-del-pilar-hurtado-the-former-head-of-colombia-s-administrative-department-of-security-wanted-for-allegedly-i.md)
-_Context: Maria del Pilar Hurtado, Colombia, Panama, Administrative Department of Security, wiretapped_
+_Context: Colombia, wiretapped, Administrative Department of Security, Maria del Pilar Hurtado, Panama_
 
 ##### Atlantic bluefin tuna
 ### [Major fishing nations meet in Paris to discuss quota limits for fishing of the critically endangered Atlantic bluefin tuna; many nations are urging that lower fishing rates are needed.](/news/2010/11/19/major-fishing-nations-meet-in-paris-to-discuss-quota-limits-for-fishing-of-the-critically-endangered-atlantic-bluefin-tuna-many-nations-are.md)
@@ -89,15 +89,15 @@ _Context: Malawi_
 
 ##### United Front for Democracy Against Dictatorship
 ### [Anti-government red shirt protesters return to the streets in Thailand. ](/news/2010/11/19/anti-government-red-shirt-protesters-return-to-the-streets-in-thailand.md)
-_Context: Thailand, United Front for Democracy Against Dictatorship_
+_Context: United Front for Democracy Against Dictatorship, Thailand_
 
 ##### Mahinda Rajapakse
 ### [Mahinda Rajapakse is sworn in for a second term as President of Sri Lanka in Colombo. ](/news/2010/11/19/mahinda-rajapakse-is-sworn-in-for-a-second-term-as-president-of-sri-lanka-in-colombo.md)
-_Context: Mahinda Rajapakse, President of Sri Lanka, Colombo_
+_Context: President of Sri Lanka, Mahinda Rajapakse, Colombo_
 
 ##### Conservative Party
 ### [British Conservative Party politician Lord Young resigns as the coalition government's enterprise adviser after claiming that most Britons "have never had it so good" in spite of the recession. ](/news/2010/11/19/british-conservative-party-politician-lord-young-resigns-as-the-coalition-government-s-enterprise-adviser-after-claiming-that-most-britons.md)
-_Context: government, Lord Young, Conservative Party_
+_Context: Conservative Party, government, Lord Young_
 
 ## [Previous Day...](/news/2010/11/18/index.md)
 

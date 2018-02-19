@@ -9,11 +9,11 @@ More than 90 people have been killed in a suicide bomb attack claimed by al-Qaed
 
 ##### FARC
 ### [FARC rebels kill 12 Colombian soldiers and wound four more in an ambush near the Colombian border with Venezuela. ](/news/2012/05/21/farc-rebels-kill-12-colombian-soldiers-and-wound-four-more-in-an-ambush-near-the-colombian-border-with-venezuela.md)
-_Context: Colombia, Venezuela, FARC_
+_Context: FARC, Colombia, Venezuela_
 
 ##### Lebanese
 ### [Two people are killed in ongoing clashes in the Lebanese capital Beirut between supporters and opponents of Syrian President Bashar al-Assad. ](/news/2012/05/21/two-people-are-killed-in-ongoing-clashes-in-the-lebanese-capital-beirut-between-supporters-and-opponents-of-syrian-president-bashar-al-assad.md)
-_Context: Lebanese, Syria, President, Beirut, Bashar al-Assad_
+_Context: Beirut, President, Bashar al-Assad, Lebanese, Syria_
 
 ##### Australia
 ### [Australian airline Qantas announces cuts to 500 maintenance jobs. ](/news/2012/05/21/australian-airline-qantas-announces-cuts-to-500-maintenance-jobs.md)
@@ -25,7 +25,7 @@ At least 11 people - most of them students - are killed and 22 injured when a bu
 
 ##### Canadian
 ### [Four climbers from Canada, China, Germany and South Korea die whilst returning from the summit of Mount Everest; a Nepalese guide is missing. ](/news/2012/05/21/four-climbers-from-canada-china-germany-and-south-korea-die-whilst-returning-from-the-summit-of-mount-everest-a-nepalese-guide-is-missing.md)
-_Context: Nepal, German, Mount Everest, Chinese, South Korea, Canadian_
+_Context: Chinese, Mount Everest, South Korea, Nepal, Canadian, German_
 
 ##### IAEA
 ### [International Atomic Energy Agency (IAEA) director general Yukiya Amano begins talks in Tehran aimed at convincing the Iranian government to co-operate with the agency. ](/news/2012/05/21/international-atomic-energy-agency-iaea-director-general-yukiya-amano-begins-talks-in-tehran-aimed-at-convincing-the-iranian-government-to.md)
@@ -45,7 +45,7 @@ A US student who used a webcam to secretly film his room-mate in a gay encounter
 
 ##### Sri Lanka
 ### [Sri Lanka's former army chief Sarath Fonseka is freed from prison with a pardon from President Mahinda Rajapaksa. ](/news/2012/05/21/sri-lanka-s-former-army-chief-sarath-fonseka-is-freed-from-prison-with-a-pardon-from-president-mahinda-rajapaksa.md)
-_Context: Sarath Fonseka, President of Sri Lanka, Sri Lanka, Rajapaksa_
+_Context: Sri Lanka, Rajapaksa, Sarath Fonseka, President of Sri Lanka_
 
 ##### Rajat Gupta
 ### [The criminal trial of Rajat Gupta on charges of insider trading begins in a federal courtroom in New York. ](/news/2012/05/21/the-criminal-trial-of-rajat-gupta-on-charges-of-insider-trading-begins-in-a-federal-courtroom-in-new-york.md)

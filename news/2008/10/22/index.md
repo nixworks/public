@@ -9,15 +9,15 @@ The European Commission president, José Manuel Barroso, said the sum should sen
 
 ##### Indian Space Research Organisation
 ### [ The Indian Space Research Organisation successfully launches Chandrayaan-1, the country's first unmanned lunar exploration mission. ](/news/2008/10/22/the-indian-space-research-organisation-successfully-launches-chandrayaan-1-the-country-s-first-unmanned-lunar-exploration-mission.md)
-_Context: Indian Space Research Organisation, lunar exploration, Chandrayaan-1_
+_Context: lunar exploration, Chandrayaan-1, Indian Space Research Organisation_
 
 ##### Macau security law
 ### [ The Macau security law draft was unveiled; it is based on the Article 23 of the Macau Basic Law, similar to the failed anti-subversion bill in Hong Kong based on Hong Kong Basic Law Article 23, which drew over 500,000 protesters in 2003. ](/news/2008/10/22/the-macau-security-law-draft-was-unveiled-it-is-based-on-the-article-23-of-the-macau-basic-law-similar-to-the-failed-anti-subversion-bill.md)
-_Context: Hong Kong Basic Law Article 23, Hong Kong, Macau Basic Law, Macau security law_
+_Context: Hong Kong, Macau Basic Law, Hong Kong Basic Law Article 23, Macau security law_
 
 ##### Africa
 ### [ Three African trade blocs - COMESA, SADC, and the EAC - agree to merge to form a bloc consisting of 26 countries and 757 million people. ](/news/2008/10/22/three-african-trade-blocs-a-comesa-sadc-and-the-eac-a-agree-to-merge-to-form-a-bloc-consisting-of-26-countries-and-757-million-people.md)
-_Context: Common Market for Eastern and Southern Africa, East African Community, Africa, trade bloc, Southern African Development Community_
+_Context: Africa, Common Market for Eastern and Southern Africa, Southern African Development Community, East African Community, trade bloc_
 
 ## [Previous Day...](/news/2008/10/21/index.md)
 

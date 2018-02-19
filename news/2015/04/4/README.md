@@ -17,7 +17,7 @@ As the fighting in Yemen intensifies, Russia has submitted a draft resolution to
 
 ##### United States soldier
 ### [The United States Army is probing alleged sexual assaults committed by its soldiers in Colombia between 2003-2007. ](/news/2015/04/4/the-united-states-army-is-probing-alleged-sexual-assaults-committed-by-its-soldiers-in-colombia-between-2003-2007.md)
-_Context: sexual assault, Colombia, United States soldier_
+_Context: Colombia, sexual assault, United States soldier_
 
 ## [Previous Day...](/news/2015/04/3/index.md)
 

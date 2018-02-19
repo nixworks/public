@@ -21,11 +21,11 @@ SOFIA, Bulgaria (AP) — The Latest on Bulgaria&#x27;s election Sunday: (all tim
 
 ##### Northern Ireland Assembly election, 2017
 ### [The deadline for the Government formation in Northern Ireland has expired following the refusal of the Democratic Unionist Party and Sinn Fein to enter a power sharing agreement with each other, with both parties blaming each other for the impasse. ](/news/2017/03/27/the-deadline-for-the-government-formation-in-northern-ireland-has-expired-following-the-refusal-of-the-democratic-unionist-party-and-sinn-fa.md)
-_Context: Northern Ireland Assembly election, 2017, Sinn Fein, Democratic Unionist Party_
+_Context: Democratic Unionist Party, Northern Ireland Assembly election, 2017, Sinn Fein_
 
 ##### Food and Drug Administration
 ### [The U.S. FDA approves Tesaro's ovarian cancer drug, Niraparib. ](/news/2017/03/27/the-u-s-fda-approves-tesaro-s-ovarian-cancer-drug-niraparib.md)
-_Context: Niraparib, Tesaro, ovarian cancer, Food and Drug Administration_
+_Context: Tesaro, Niraparib, Food and Drug Administration, ovarian cancer_
 
 ## [Previous Day...](/news/2017/03/26/index.md)
 

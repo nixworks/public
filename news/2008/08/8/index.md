@@ -13,7 +13,7 @@ Russian forces battled pro-Western Georgian troops in South Ossetia on Friday in
 
 ##### Car bomb
 ### [ A car bomb in the town of Tal Afar in northern Iraq kills at least 21 people and injures about 70. ](/news/2008/08/8/a-car-bomb-in-the-town-of-tal-afar-in-northern-iraq-kills-at-least-21-people-and-injures-about-70.md)
-_Context: car bomb, Iraq, Tal Afar_
+_Context: Iraq, Tal Afar, car bomb_
 
 ##### Dallas, Texas
 ### [ At least 13 people die when a private charter bus falls off a bridge onto a creek north of Dallas, Texas. ](/news/2008/08/8/at-least-13-people-die-when-a-private-charter-bus-falls-off-a-bridge-onto-a-creek-north-of-dallas-texas.md)
@@ -21,7 +21,7 @@ Witnesses who called 911 after the crash of a charter bus that killed at least 1
 
 ##### Studenka Train Disaster
 ### [ Studenka Train Disaster: An express train crashes into a bridge near the town of Studenka in the Czech Republic resulting in 7 people dead and around 70 injured. ](/news/2008/08/8/studenka-train-disaster-an-express-train-crashes-into-a-bridge-near-the-town-of-studenka-in-the-czech-republic-resulting-in-7-people-dead.md)
-_Context: Studenka Train Disaster, Czech Republic, Studenka, express train_
+_Context: Studenka, Studenka Train Disaster, Czech Republic, express train_
 
 ##### Xinjiang, China
 ### [ A terrorist group seeking an independent Muslim state in Xinjiang, China releases a video threatening an attack on the 2008 Olympic Games. ](/news/2008/08/8/a-terrorist-group-seeking-an-independent-muslim-state-in-xinjiang-china-releases-a-video-threatening-an-attack-on-the-2008-olympic-games.md)
@@ -37,7 +37,7 @@ _Context: repossession_
 
 ##### Democrat
 ### [ Former U.S. Senator and Democratic ex-presidential candidate John Edwards admits to an affair with Rielle Hunter after having earlier denied it. ](/news/2008/08/8/former-u-s-senator-and-democratic-ex-presidential-candidate-john-edwards-admits-to-an-affair-with-rielle-hunter-after-having-earlier-denie.md)
-_Context: Rielle Hunter, an affair, Democrat, John Edwards, presidential candidate_
+_Context: an affair, Democrat, presidential candidate, Rielle Hunter, John Edwards_
 
 ## [Previous Day...](/news/2008/08/7/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2017/08/27/index.html)  [JSON](2017/08/27/index.json)  [XML](201
 
 ##### Rohingya insurgency in Western Myanmar
 ### [Dozens of Rohingya Muslims fleeing renewed violence in Rakhine State are detained by Bangladeshi and Burmese authorities after they attempt to cross the border from Myanmar to Bangladesh. Many were en route to Kutupalong Refugee Camp, a refugee camp in Ukhia, Bangladesh, mostly inhabited by Rohingya refugees. ](/news/2017/08/27/dozens-of-rohingya-muslims-fleeing-renewed-violence-in-rakhine-state-are-detained-by-bangladeshi-and-burmese-authorities-after-they-attempt.md)
-_Context: Rakhine State, Rohingya insurgency in Western Myanmar, Ukhia, Kutupalong Refugee Camp, Bangladesh, 2016-17 Northern Rakhine State clashes, Myanmar, 2016-17 Rohingya persecution in Myanmar, Rohingya, Islam_
+_Context: Myanmar, 2016-17 Northern Rakhine State clashes, Islam, Ukhia, Bangladesh, Kutupalong Refugee Camp, Rohingya, Rakhine State, 2016-17 Rohingya persecution in Myanmar, Rohingya insurgency in Western Myanmar_
 
 ##### Iraqi Civil War
 ### [The Iraqi Army announces it is in full control of the Iraqi Turkmen city of Tal Afar in the Nineveh Governorate, after eight days of clashes with ISIL militants inside the city. ](/news/2017/08/27/the-iraqi-army-announces-it-is-in-full-control-of-the-iraqi-turkmen-city-of-tal-afar-in-the-nineveh-governorate-after-eight-days-of-clashes.md)
@@ -21,7 +21,7 @@ The Houston region is being pummeled Saturday by bands of heavy rain and some po
 
 ##### Maritime incidents in 2017
 ### [A dry cargo vessel broke in two in the Black Sea off Turkey's northwest coast, television images showed early on Sunday, while the 11-man crew was rescued. "Leonardo", a 114 meter dry cargo ship flagged from Mongolia, started buckling and broke in two while on anchor off Istanbul's Kilyos coast. ](/news/2017/08/27/a-dry-cargo-vessel-broke-in-two-in-the-black-sea-off-turkeyas-northwest-coast-television-images-showed-early-on-sunday-while-the-11-man.md)
-_Context: Maritime incidents in 2017, Mongolia, Black Sea_
+_Context: Black Sea, Maritime incidents in 2017, Mongolia_
 
 ##### Austria
 ### [Five people were killed and one seriously injured after a mountain accident on Sunday in the Austrian state of Salzburg. ](/news/2017/08/27/five-people-were-killed-and-one-seriously-injured-after-a-mountain-accident-on-sunday-in-the-austrian-state-of-salzburg.md)

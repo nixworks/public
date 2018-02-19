@@ -21,11 +21,11 @@ The step is a reminder of the soaring valuations among consumer-driven technolog
 
 ##### Ismalia
 ### [A road accident along the highway between Ismalia and Cairo in Egypt, east of Cairo, involving a bus that collided with a microbus kills fifteen people. ](/news/2015/03/6/a-road-accident-along-the-highway-between-ismailia-and-cairo-in-egypt-east-of-cairo-involving-a-bus-that-collided-with-a-microbus-kills-fi.md)
-_Context: Cairo, Ismalia, Egypt_
+_Context: Egypt, Cairo, Ismalia_
 
 ##### Kentucky
 ### [Two massive snowy traffic jams in Kentucky strand motorists for 24 hours or longer. One stretched for about 26 miles along Interstate 65 from just north of Elizabethtown past Shepherdsville, and the other stretched the entire length of Interstate 24 in Kentucky, more than 90 miles. ](/news/2015/03/6/two-massive-snowy-traffic-jams-in-kentucky-strand-motorists-for-24-hours-or-longer-one-stretched-for-about-26-miles-along-interstate-65-fro.md)
-_Context: Elizabethtown, Kentucky, Shepherdsville, Interstate 24 in Kentucky, Interstate 65_
+_Context: Interstate 65, Kentucky, Shepherdsville, Interstate 24 in Kentucky, Elizabethtown_
 
 ##### FIFA
 ### [Writing in the FIFA Weekly magazine, FIFA president Sepp Blatter calls Iran to end its "intolerable" ban on women attending soccer matches, describing the situation as one that "cannot continue." ](/news/2015/03/6/writing-in-the-fifa-weekly-magazine-fifa-president-sepp-blatter-calls-iran-to-end-its-intolerable-ban-on-women-attending-soccer-matches.md)
@@ -41,7 +41,7 @@ _Context: 2014 Taipei Metro attack, Taipei Metro, New Taipei City_
 
 ##### CIA
 ### [Central Intelligence Agency (CIA) Director John O. Brennan announces plans for a major restructuring and reorganization, including a focus on digital espionage (through the creation of the CIA Directorate of Digital Innovation). The plan will end some longstanding divisions, and create ten new centers that team analysts with operators, fostering collaboration and focus on a range of new security issues and threats, and replacing geographic division offices with hybrid mission centers modeled on the CIA Counterterrorism Center. ](/news/2015/03/6/central-intelligence-agency-cia-director-john-o-brennan-announces-plans-for-a-major-restructuring-and-reorganization-including-a-focus-o.md)
-_Context: CIA, CIA Counterterrorism Center, John Brennan, CIA Directorate of Digital Innovation_
+_Context: CIA, CIA Directorate of Digital Innovation, John Brennan, CIA Counterterrorism Center_
 
 ##### Shahjalal International Airport
 ### [Customs officers at the Shahjalal International Airport catch Son Young Nam, a North Korean diplomat trying to smuggle an estimated $1.4 million worth of gold into Bangladesh. Bangladesh authorities release him but will still seek to press charges. ](/news/2015/03/6/customs-officers-at-the-shahjalal-international-airport-catch-son-young-nam-a-north-korean-diplomat-trying-to-smuggle-an-estimated-1-4-mil.md)

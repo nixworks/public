@@ -33,7 +33,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Police officers
 ### [Pakistani police arrest multiple people involved in the stoning of Farzana Parveen, bringing the total number of people in custody to 12. ](/news/2014/06/5/pakistani-police-arrest-multiple-people-involved-in-the-stoning-of-farzana-parveen-bringing-the-total-number-of-people-in-custody-to-12.md)
-_Context: stoning of Farzana Parveen, police officers_
+_Context: police officers, stoning of Farzana Parveen_
 
 ##### Royal Canadian Mounted Police
 ### [Royal Canadian Mounted Police extend a national manhunt for a 24-year-old gunman who killed 3 police officers and wounded 2 others in a shootout in Moncton.](/news/2014/06/5/royal-canadian-mounted-police-extend-a-national-manhunt-for-a-24-year-old-gunman-who-killed-3-police-officers-and-wounded-2-others-in-a-shoo.md)

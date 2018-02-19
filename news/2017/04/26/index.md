@@ -17,7 +17,7 @@ Latest violence between Lulua-Luba and Chow-Pende communities extends eight mont
 
 ##### Jonathan Demme
 ### [American film director Jonathan Demme, winner of the Academy Award for Best Director for "The Silence of the Lambs", dies of complications from esophageal cancer. ](/news/2017/04/26/american-film-director-jonathan-demme-winner-of-the-academy-award-for-best-director-for-the-silence-of-the-lambs-dies-of-complications-f.md)
-_Context: esophageal cancer, Academy Award for Best Director, Jonathan Demme, The Silence of the Lambs_
+_Context: Academy Award for Best Director, The Silence of the Lambs, esophageal cancer, Jonathan Demme_
 
 ##### North Korea-South Korea relations
 ### [The United States deploys parts of its Terminal High Altitude Area Defense in South Korea amidst high tension caused by North Korea's escalation of its missile and nuclear weapons programs. ](/news/2017/04/26/the-united-states-deploys-parts-of-its-terminal-high-altitude-area-defense-in-south-korea-amidst-high-tension-caused-by-north-korea-s-escala.md)

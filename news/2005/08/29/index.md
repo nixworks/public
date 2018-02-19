@@ -5,19 +5,19 @@ Formats: [HTML](2005/08/29/index.html)  [JSON](2005/08/29/index.json)  [XML](200
 
 ##### Hurricane Katrina
 ### [ Hurricane Katrina as a Category 3 storm makes landfall at 6:10 a.m. CDT (11:10 a.m. UTC). The eye is just east of New Orleans. This date is now known as Black Monday to New Orleanians and many residents of the Gulf Coast. ](/news/2005/08/29/hurricane-katrina-as-a-category-3-storm-makes-landfall-at-6-10-a-m-cdt-11-10-a-m-utc-the-eye-is-just-east-of-new-orleans-this-date-is.md)
-_Context: CDT, Hurricane Katrina, New Orleans, UTC, landfall_
+_Context: landfall, New Orleans, UTC, Hurricane Katrina, CDT_
 
 ##### NSW
 ### [ New South Wales Opposition Leader, John Brogden, resigns from the leadership of the NSW Liberal Party after describing Helena Carr, wife of former Premier Bob Carr, as a "mail-order bride" and sexually harassing two female journalists. Brogden will remain Member for Pittwater until at least the next state election. ](/news/2005/08/29/new-south-wales-opposition-leader-john-brogden-resigns-from-the-leadership-of-the-nsw-liberal-party-after-describing-helena-carr-wife-of.md)
-_Context: Opposition, Premier, Bob Carr, John Brogden, mail-order bride, NSW, Member for Pittwater, Helena Carr, Liberals_
+_Context: NSW, Liberals, Premier, Bob Carr, Member for Pittwater, mail-order bride, John Brogden, Opposition, Helena Carr_
 
 ##### Nigeria
 ### [ The Nigerian Vice President's home in Maryland, USA was raided by the FBI. Atiku Abubakar's relations with President Olusegun Obasanjo have cooled and it is possible he might use the pretext of the FBI corruption investigation to dismiss him.](/news/2005/08/29/the-nigerian-vice-president-s-home-in-maryland-usa-was-raided-by-the-fbi-atiku-abubakar-s-relations-with-president-olusegun-obasanjo-have.md)
-_Context: Atiku Abubakar, Nigeria, corruption, President, Maryland, Olusegun Obasanjo, FBI_
+_Context: Atiku Abubakar, Nigeria, corruption, Maryland, President, Olusegun Obasanjo, FBI_
 
 ##### European Union
 ### [ Countries of the European Union attempt to work out a deal to end the "bra wars", the Chinese textile import row. ](/news/2005/08/29/countries-of-the-european-union-attempt-to-work-out-a-deal-to-end-the-bra-wars-the-chinese-textile-import-row.md)
-_Context: bra wars, European Union, textile_
+_Context: European Union, bra wars, textile_
 
 ## [Previous Day...](/news/2005/08/28/index.md)
 

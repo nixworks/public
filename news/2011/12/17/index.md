@@ -5,7 +5,7 @@ Formats: [HTML](2011/12/17/index.html)  [JSON](2011/12/17/index.json)  [XML](201
 
 ##### Egyptian Army
 ### [Egyptian Army soldiers beat protesters in Cairo's Tahrir Square in a second day of clashes which have resulted in 10 deaths and hundreds injured. ](/news/2011/12/17/egyptian-army-soldiers-beat-protesters-in-cairo-s-tahrir-square-in-a-second-day-of-clashes-which-have-resulted-in-10-deaths-and-hundreds-inj.md)
-_Context: Egyptian Army, Tahrir Square, Cairo_
+_Context: Cairo, Tahrir Square, Egyptian Army_
 
 ##### Flash floods
 ### [Flash floods triggered by Tropical Storm Washi kill at least 400 people in the Philippines with hundreds more missing. ](/news/2011/12/17/flash-floods-triggered-by-tropical-storm-washi-kill-at-least-400-people-in-the-philippines-with-hundreds-more-missing.md)
@@ -21,7 +21,7 @@ _Context: payroll tax, United States Senate_
 
 ##### Johann Lamont
 ### [Johann Lamont is elected as Leader of the Scottish Labour Party, succeeding Iain Gray. ](/news/2011/12/17/johann-lamont-is-elected-as-leader-of-the-scottish-labour-party-succeeding-iain-gray.md)
-_Context: elected, Johann Lamont, Iain Gray, Scottish Labour Party_
+_Context: Iain Gray, elected, Scottish Labour Party, Johann Lamont_
 
 ## [Previous Day...](/news/2011/12/16/index.md)
 

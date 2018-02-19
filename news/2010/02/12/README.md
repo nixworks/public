@@ -5,11 +5,11 @@ Formats: [HTML](2010/02/12/index.html)  [JSON](2010/02/12/index.json)  [XML](201
 
 ##### Ban Ki-moon
 ### [Secretary-General Ban Ki-moon has repeatedly called on the DPRK to re-engage in the Six-Party Talks that also involve the Republic of Korea, Japan, China, Russia and the United States. ](/news/2010/02/12/secretary-general-ban-ki-moon-has-repeatedly-called-on-the-dprk-to-re-engage-in-the-six-party-talks-that-also-involve-the-republic-of-korea.md)
-_Context: Japan, DPRK, Chinese, Six-Party Talks, Ban Ki-moon, United States, Russia, South Korea_
+_Context: Six-Party Talks, South Korea, DPRK, United States, Chinese, Ban Ki-moon, Japan, Russia_
 
 ##### Mtwapa
 ### [Police in Mtwapa arrest five men accused of being homosexuals, two of whom had wedding rings and were attempting to marry in a first for Kenya. ](/news/2010/02/12/police-in-mtwapa-arrest-five-men-accused-of-being-homosexuals-two-of-whom-had-wedding-rings-and-were-attempting-to-marry-in-a-first-for-ken.md)
-_Context: Mtwapa, Kenya, homosexual_
+_Context: Kenya, Mtwapa, homosexual_
 
 ##### Mogadishu
 ### [Thousands of people flee Mogadishu after 24 people are killed and 40 people are wounded in two days. ](/news/2010/02/12/thousands-of-people-flee-mogadishu-after-24-people-are-killed-and-40-people-are-wounded-in-two-days.md)
@@ -17,15 +17,15 @@ The United Nations refugee agency says it is preparing for a mass flight of peop
 
 ##### Russia
 ### [Russian security forces kill at least 20 people in Ingushetia. ](/news/2010/02/12/russian-security-forces-kill-at-least-20-people-in-ingushetia.md)
-_Context: Ingushetia, Russia_
+_Context: Russia, Ingushetia_
 
 ##### Togo
 ### [Togo appeal to the Court of Arbitration for Sport over their ban from the next two Africa Cup of Nations in the aftermath of the Togo national football team attack. ](/news/2010/02/12/togo-appeal-to-the-court-of-arbitration-for-sport-over-their-ban-from-the-next-two-africa-cup-of-nations-in-the-aftermath-of-the-togo-nation.md)
-_Context: Court of Arbitration for Sport, Togo, Africa Cup of Nations, Togo national football team attack_
+_Context: Togo, Court of Arbitration for Sport, Africa Cup of Nations, Togo national football team attack_
 
 ##### Mexico
 ### [Mexican President Felipe Caldern's visit to a community centre in Ciudad Jurez where 13 teenagers and two adults were shot dead at a school party on 31 January is disrupted by murders, riot police and dozens of protesters. ](/news/2010/02/12/mexican-president-felipe-calderon-s-visit-to-a-community-centre-in-ciudad-juarez-where-13-teenagers-and-two-adults-were-shot-dead-at-a-schoo.md)
-_Context: President of Mexico, Mexico, Felipe Caldern, Juarez_
+_Context: Juarez, Mexico, President of Mexico, Felipe Caldern_
 
 ##### Shooting
 ### [A shooting at the University of Alabama in Huntsville, United States, leaves at least three persons dead. ](/news/2010/02/12/a-shooting-at-the-university-of-alabama-in-huntsville-united-states-leaves-at-least-three-persons-dead.md)
@@ -45,7 +45,7 @@ _Context: Thailand, North Korea_
 
 ##### Iraq
 ### [Campaigning for Iraq's parliamentary election begins. ](/news/2010/02/12/campaigning-for-iraq-s-parliamentary-election-begins.md)
-_Context: elections, Iraq_
+_Context: Iraq, elections_
 
 ##### Indonesia
 ### [Indonesia's former anti-corruption chief Antasari Azhar is sentenced to 18 years for the murder of a businessman. ](/news/2010/02/12/indonesia-s-former-anti-corruption-chief-antasari-azhar-is-sentenced-to-18-years-for-the-murder-of-a-businessman.md)
@@ -61,7 +61,7 @@ Senior General says elections to proceed this year but gives no specific dates.
 
 ##### China
 ### [Chinese human rights activist Feng Zhenghu, stranded at Japan's Narita International Airport after being refused entry to China for three months, returns home. ](/news/2010/02/12/chinese-human-rights-activist-feng-zhenghu-stranded-at-japan-s-narita-international-airport-after-being-refused-entry-to-china-for-three-mo.md)
-_Context: Japan, Feng Zhenghu, Narita International Airport, China_
+_Context: China, Japan, Feng Zhenghu, Narita International Airport_
 
 ## [Previous Day...](/news/2010/02/11/index.md)
 

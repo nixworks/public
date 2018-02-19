@@ -29,11 +29,11 @@ US defence secretary expresses deep concern about China’s push to claim resour
 
 ##### Beau Biden
 ### [Beau Biden, U.S. Vice President Joseph Biden's son, who had served in the Iraq War and for multiple terms as the Attorney General of Delaware, dies at Walter Reed Medical Center after a battle with malignant brain cancer. ](/news/2015/05/30/beau-biden-u-s-vice-president-joseph-biden-s-son-who-had-served-in-the-iraq-war-and-for-multiple-terms-as-the-attorney-general-of-delawar.md)
-_Context: Attorney General of Delaware, brain cancer, Walter Reed Medical Center, Iraq War, Joseph Biden, Beau Biden_
+_Context: Joseph Biden, brain cancer, Iraq War, Walter Reed Medical Center, Beau Biden, Attorney General of Delaware_
 
 ##### Martin O'Malley
 ### [Martin O'Malley announces that he will be seeking the Democratic Party nomination in the 2016 US presidential election. ](/news/2015/05/30/martin-o-malley-announces-that-he-will-be-seeking-the-democratic-party-nomination-in-the-2016-us-presidential-election.md)
-_Context: Martin O'Malley, 2016 U.S. election, Democrat_
+_Context: Martin O'Malley, Democrat, 2016 U.S. election_
 
 ##### Saiga antelope
 ### [A mystery disease has killed over 120,000 saiga antelopes - more than a third of the world's total population - in Kazakhstan in recent weeks. ](/news/2015/05/30/a-mystery-disease-has-killed-over-120-000-saiga-antelopes-a-more-than-a-third-of-the-world-s-total-population-a-in-kazakhstan-in-recent.md)

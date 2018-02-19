@@ -25,11 +25,11 @@ The wives of the Malaysian and Indonesian envoys were also killed in the crash.
 
 ##### Piper PA-32
 ### [A Piper PA-32 plane crashes onto the motorway near DeKalb-Peachtree Airport, Atlanta, Georgia killing all four passengers. Interstate 285 is closed in both directions. ](/news/2015/05/8/a-piper-pa-32-plane-crashes-onto-the-motorway-near-dekalb-peachtree-airport-atlanta-georgia-killing-all-four-passengers-interstate-285-is.md)
-_Context: Atlanta, Georgia, DeKalb-Peachtree Airport, Piper PA-32, Interstate 285_
+_Context: Interstate 285, DeKalb-Peachtree Airport, Piper PA-32, Atlanta, Georgia_
 
 ##### Russia
 ### [Russia and China agree to a US$2 billion fund for agricultural investments in both countries. ](/news/2015/05/8/russia-and-china-agree-to-a-us-2-billion-fund-for-agricultural-investments-in-both-countries.md)
-_Context: Russia, US$, Chinese_
+_Context: Chinese, US$, Russia_
 
 ##### Burkina Faso
 ### [Burkina Faso and Niger agree to exchange 18 towns in order to resolve a long-running border dispute with Burkina Faso receiving 14 and Niger 4. ](/news/2015/05/8/burkina-faso-and-niger-agree-to-exchange-18-towns-in-order-to-resolve-a-long-running-border-dispute-with-burkina-faso-receiving-14-and-niger.md)
@@ -37,7 +37,7 @@ West African nations implement 2013 ruling by international court of justice to 
 
 ##### Death of Freddie Gray
 ### [The United States Department of Justice announces an inquiry into the Baltimore Police Department following the death of Freddie Gray. ](/news/2015/05/8/the-united-states-department-of-justice-announces-an-inquiry-into-the-baltimore-police-department-following-the-death-of-freddie-gray.md)
-_Context: Death of Freddie Gray, Department of Justice, Police Department_
+_Context: Police Department, Death of Freddie Gray, Department of Justice_
 
 ##### Disappearance of Etan Patz
 ### [A mistrial is declared in a murder case of a man in relation to the 1979 disappearance of Etan Patz in New York City. ](/news/2015/05/8/a-mistrial-is-declared-in-a-murder-case-of-a-man-in-relation-to-the-1979-disappearance-of-etan-patz-in-new-york-city.md)
@@ -57,7 +57,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### 2015 Burundian protests
 ### [The President of Burundi Pierre Nkurunziza officially registers to run for a third time sparking violent protests in the Nyakabiga district of Bujumbura. ](/news/2015/05/8/the-president-of-burundi-pierre-nkurunziza-officially-registers-to-run-for-a-third-time-sparking-violent-protests-in-the-nyakabiga-district.md)
-_Context: Presidents, Pierre Nkurunziza, Bujumbura, 2015 Burundian protests_
+_Context: Presidents, 2015 Burundian protests, Pierre Nkurunziza, Bujumbura_
 
 ## [Previous Day...](/news/2015/05/7/index.md)
 

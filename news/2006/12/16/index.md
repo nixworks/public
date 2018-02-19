@@ -13,11 +13,11 @@ Frontpage | New Straits Times : Authoritative source for Malaysia latest news on
 
 ##### Palestinian Authority
 ### [ Palestinian National Authority President Mahmoud Abbas calls for early legislative elections to end the stalemate in creating a national unity government with the Hamas party. ](/news/2006/12/16/palestinian-national-authority-president-mahmoud-abbas-calls-for-early-legislative-elections-to-end-the-stalemate-in-creating-a-national-un.md)
-_Context: Mahmoud Abbas, Palestinian Authority, Hamas_
+_Context: Hamas, Palestinian Authority, Mahmoud Abbas_
 
 ##### Baha'i faith
 ### [ Egyptian High Court rules that the members of the Baha'i Faith in Egypt should not receive government Identification cards, thus removing their rights to health care, education, work and other basic rights. ](/news/2006/12/16/egyptian-high-court-rules-that-the-members-of-the-baha-a-faith-in-egypt-should-not-receive-government-identification-cards-thus-removing.md)
-_Context: Baha'i faith, Egypt_
+_Context: Egypt, Baha'i faith_
 
 ## [Previous Day...](/news/2006/12/15/index.md)
 

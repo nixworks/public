@@ -29,7 +29,7 @@ Flooding and mudslides caused by monsoon rains leave at least 91 dead and more t
 
 ##### Politics of Turkey
 ### [The Turkish government issues an arrest warrant for NBA Oklahoma City Thunder player Enes Kanter suspected of being a member of a "terror group." Kanter, a vocal supporter of Fethullah Gulen, was returning to the U.S. from a charity tour when, last Saturday, he was detained in Bucharest, Romania, because his Turkish passport had been revoked. Kanter says he plans on becoming a United States citizen. ](/news/2017/05/26/the-turkish-government-issues-an-arrest-warrant-for-nba-oklahoma-city-thunder-player-enes-kanter-suspected-of-being-a-member-of-a-terror-gr.md)
-_Context: Enes Kanter, Romania, Fethullah Gulen, United States citizen, Politics of Turkey, Oklahoma City Thunder, Bucharest_
+_Context: Bucharest, Enes Kanter, Romania, Oklahoma City Thunder, United States citizen, Fethullah Gulen, Politics of Turkey_
 
 ##### Chipotle Mexican Grill
 ### [A spokesman for the Chipotle Mexican Grill restaurant chain reveals that hackers stole customer payment data from most of their stores over a span of three weeks starting from the end of March. ](/news/2017/05/26/a-spokesman-for-the-chipotle-mexican-grill-restaurant-chain-reveals-that-hackers-stole-customer-payment-data-from-most-of-their-stores-over.md)
@@ -41,7 +41,7 @@ Police say two men were stabbed to death when they tried to intervene as a man s
 
 ##### Diplomat
 ### [Polish-American diplomat Zbigniew Brzezinski, counselor to President Lyndon B. Johnson (1966-1968) and President Jimmy Carter's National Security Advisor (1977-1981), dies at the age of 89. ](/news/2017/05/26/polish-american-diplomat-zbigniew-brzezinski-counselor-to-president-lyndon-b-johnson-1966a1968-and-president-jimmy-carter-s-national-s.md)
-_Context: Lyndon B. Johnson, Zbigniew Brzezinski, National Security Advisor, diplomat, Jimmy Carter_
+_Context: Lyndon B. Johnson, Jimmy Carter, Zbigniew Brzezinski, National Security Advisor, diplomat_
 
 ##### European Extremely Large Telescope
 ### [Construction begins on the European Extremely Large Telescope (ELT) in northern Chile. The ELT is expected to become operational in 2024. ](/news/2017/05/26/construction-begins-on-the-european-extremely-large-telescope-elt-in-northern-chile-the-elt-is-expected-to-become-operational-in-2024.md)

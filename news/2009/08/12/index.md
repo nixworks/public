@@ -13,15 +13,15 @@ _Context: Killer Whale_
 
 ##### Yemen
 ### [ Yemeni troops, backed by tanks and fighter aircraft, launch a major offensive on the stronghold of Shia fighters in northern Yemen. ](/news/2009/08/12/yemeni-troops-backed-by-tanks-and-fighter-aircraft-launch-a-major-offensive-on-the-stronghold-of-shia-fighters-in-northern-yemen.md)
-_Context: Shia, Yemen, Shia insurgency in Yemen_
+_Context: Yemen, Shia insurgency in Yemen, Shia_
 
 ##### Warrap state
 ### [ Thirty people are killed in Warrap state in southern Sudan, in a resurgence of the nomadic conflicts. ](/news/2009/08/12/thirty-people-are-killed-in-warrap-state-in-southern-sudan-in-a-resurgence-of-the-nomadic-conflicts.md)
-_Context: Sudan, Warrap state, renewed violence_
+_Context: Warrap state, Sudan, renewed violence_
 
 ##### Russia
 ### [ Russia's navy is deployed to find the Arctic Sea, a missing ship reportedly hijacked three weeks ago in the Baltic Sea. ](/news/2009/08/12/russia-s-navy-is-deployed-to-find-the-arctic-sea-a-missing-ship-reportedly-hijacked-three-weeks-ago-in-the-baltic-sea.md)
-_Context: Baltic Sea, Russia_
+_Context: Russia, Baltic Sea_
 
 ##### Taiwan
 ### [ About 700 people missing in southern Taiwan after Typhoon Morakot are located alive. ](/news/2009/08/12/about-700-people-missing-in-southern-taiwan-after-typhoon-morakot-are-located-alive.md)
@@ -33,19 +33,19 @@ _Context: Indonesia, Noordin Mohammed Top_
 
 ##### Wreckage
 ### [ The wreckage of an Airlines PNG De Havilland Twin Otter 300 plane carrying 11 passengers and 2 crew is found near Isurava, Papua New Guinea; there are no signs of survivors. ](/news/2009/08/12/the-wreckage-of-an-airlines-png-de-havilland-twin-otter-300-plane-carrying-11-passengers-and-2-crew-is-found-near-isurava-papua-new-guinea.md)
-_Context: wreckage, Papua New Guinea, Isurava, Airlines PNG_
+_Context: Airlines PNG, wreckage, Isurava, Papua New Guinea_
 
 ##### Pakistan
 ### [ Gunmen shoot dead five Pakistani Muslim preachers outside a mosque in Galkayo, Somalia. ](/news/2009/08/12/gunmen-shoot-dead-five-pakistani-muslim-preachers-outside-a-mosque-in-galkayo-somalia.md)
-_Context: Somalia, Pakistan, Islam, Galkayo_
+_Context: Pakistan, Galkayo, Islam, Somalia_
 
 ##### Gregoire Ndahimana
 ### [ Gregoire Ndahimana, a Rwandan fugitive accused of genocide and crimes against humanity, is arrested by a joint Rwandan-Congolese military operation. ](/news/2009/08/12/gregoire-ndahimana-a-rwandan-fugitive-accused-of-genocide-and-crimes-against-humanity-is-arrested-by-a-joint-rwandan-congolese-military-o.md)
-_Context: DR Congo, Rwanda, genocide, Gregoire Ndahimana_
+_Context: Rwanda, genocide, Gregoire Ndahimana, DR Congo_
 
 ##### Noumea
 ### [ An estimated 20,000 people march through Noumea, New Caledonia, to denounce violent clashes by USTKE trade unionists against police. ](/news/2009/08/12/an-estimated-20-000-people-march-through-noumea-new-caledonia-to-denounce-violent-clashes-by-ustke-trade-unionists-against-police.md)
-_Context: police, Noumea, trade unionists, New Caledonia_
+_Context: Noumea, New Caledonia, trade unionists, police_
 
 ##### New Zealand Navy
 ### [ New Zealand Navy divers believe they have located the sunken Princess Ashika a week after the accident. ](/news/2009/08/12/new-zealand-navy-divers-believe-they-have-located-the-sunken-princess-ashika-a-week-after-the-accident.md)
@@ -53,19 +53,19 @@ Tongan Transport Minister Paul Karalus has resigned, six days after the sinking 
 
 ##### German
 ### [ German CDU politician Vera Lengsfeld attracts controversy for displaying a photo of Angela Merkel in a revealing gown without the authorisation of the Chancellor. ](/news/2009/08/12/german-cdu-politician-vera-lengsfeld-attracts-controversy-for-displaying-a-photo-of-angela-merkel-in-a-revealing-gown-without-the-authorisa.md)
-_Context: German, Chancellor, Angela Merkel, Christian Democratic Union, Vera Lengsfeld_
+_Context: Chancellor, Vera Lengsfeld, Angela Merkel, German, Christian Democratic Union_
 
 ##### Lubna al-Hussein
 ### [ Lubna al-Hussein, the Sudanese woman facing forty lashes for wearing trousers in public, is prevented from leaving the country for a trip to Lebanon, where she was to take part in a televised talk-show about women's issues. ](/news/2009/08/12/lubna-al-hussein-the-sudanese-woman-facing-forty-lashes-for-wearing-trousers-in-public-is-prevented-from-leaving-the-country-for-a-trip-t.md)
-_Context: Sudan, Lebanese, Lubna al-Hussein_
+_Context: Sudan, Lubna al-Hussein, Lebanese_
 
 ##### Diego Len Montoya Snchez
 ### [ Diego Len Montoya Snchez, Norte Valle Cartel leader, pleads guilty to drug, murder and racketeering charges. ](/news/2009/08/12/diego-leon-montoya-sanchez-norte-valle-cartel-leader-pleads-guilty-to-drug-murder-and-racketeering-charges.md)
-_Context: murder, racketeering, Diego Len Montoya Snchez, Norte Valle Cartel_
+_Context: murder, Diego Len Montoya Snchez, racketeering, Norte Valle Cartel_
 
 ##### Roman Catholic Church
 ### [ The Roman Catholic Church is expresses "unease" and "mortification" over revelations surrounding the private life of Italian Prime Minister Silvio Berlusconi. ](/news/2009/08/12/the-roman-catholic-church-is-expresses-unease-and-mortification-over-revelations-surrounding-the-private-life-of-italian-prime-minister.md)
-_Context: Roman Catholic Church, Italian Prime Minister, Italy, Silvio Berlusconi_
+_Context: Italy, Silvio Berlusconi, Roman Catholic Church, Italian Prime Minister_
 
 ##### WASP-17b
 ### [ Astronomers discover WASP-17b, the first planet that orbits in the opposite direction to the spin of its star. ](/news/2009/08/12/astronomers-discover-wasp-17b-the-first-planet-that-orbits-in-the-opposite-direction-to-the-spin-of-its-star.md)

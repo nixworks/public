@@ -9,7 +9,7 @@ US Airways Group Inc has made a formal merger proposal to American Airlines pare
 
 ##### Strong
 ### [A strong earthquake of magnitude 7.3 occurs off the coast of Japan near the city of Kamaishi, prompting the Japan Meteorological Agency to issue a tsunami warning. 10 people are taken to hospital with injuries, no fatalities reported. ](/news/2012/12/7/a-strong-earthquake-of-magnitude-7-3-occurs-off-the-coast-of-japan-near-the-city-of-kamaishi-prompting-the-japan-meteorological-agency-to-i.md)
-_Context: magnitude, occurs, earthquake, strong, Kamaishi, Japan Meteorological Agency, Japan, tsunami_
+_Context: Japan Meteorological Agency, magnitude, Kamaishi, earthquake, tsunami, strong, occurs, Japan_
 
 ##### Supreme Court of the United States
 ### [The United States Supreme Court grants review of California's ban on same-sex marriage (Proposition 8, which has been challenged), and also agrees to finally determine the constitutionality of the federal DOMA law, which the Obama administration has said it will not continue defending. This is the Court's most significant foray into the issue yet, though an overruling of the DOMA act would only mean the federal government would have to recognize such marriages in areas where they are already legal. ](/news/2012/12/7/the-united-states-supreme-court-grants-review-of-california-s-ban-on-same-sex-marriage-proposition-8-which-has-been-challenged-and-also.md)
@@ -41,7 +41,7 @@ Google has rolled out a brand new feature for its Google+ social network today, 
 
 ##### Ireland
 ### [Irish state broadcaster RTE is to provide staff training on what subjects are appropriate for discussion on social media sites such as Twitter following several controversies involving tweets from its employees. ](/news/2012/12/7/irish-state-broadcaster-rta-is-to-provide-staff-training-on-what-subjects-are-appropriate-for-discussion-on-social-media-sites-such-as-twit.md)
-_Context: Ireland, RTE, Twitter_
+_Context: Ireland, Twitter, RTE_
 
 ##### 25th anniversary celebrations of Hamas in Gaza
 ### [At the 25th anniversary celebrations of Hamas in Gaza, Hamas leader in exile Khaled Mashal, who arrived in Gaza for the first time ever, declared in a speech he held at a mass rally that the Palestinian people will never compromise with Israel's existence and that the organization intends to gradually conquer the entire region which now includes both the State of Israel and the Palestinian territories, and would establish one Islamic state in that region. ](/news/2012/12/7/at-the-25th-anniversary-celebrations-of-hamas-in-gaza-hamas-leader-in-exile-khaled-mashal-who-arrived-in-gaza-for-the-first-time-ever-dec.md)

@@ -13,7 +13,7 @@ A magnitude-6.3 aftershock has shaken British Columbia near the boundary with Al
 
 ##### Clear-air turbulence
 ### [Severe clear-air turbulence on an Aeroflot flight from Sheremetyevo International Airport, Moscow to Suvarnabhumi Airport, Bangkok, subjects 27 passengers to injuries including bone fractures. ](/news/2017/05/1/severe-clear-air-turbulence-on-an-aeroflot-flight-from-sheremetyevo-international-airport-moscow-to-suvarnabhumi-airport-bangkok-subjects.md)
-_Context: Bangkok, Moscow, Suvarnabhumi Airport, Aeroflot, fracture, Sheremetyevo International Airport, clear-air turbulence_
+_Context: Bangkok, Moscow, Sheremetyevo International Airport, Suvarnabhumi Airport, Aeroflot, fracture, clear-air turbulence_
 
 ##### Momentum Movement
 ### [The Momentum Movement holds a pro-EU, anti-Russia march attended by approximately 10,000 in Budapest, Hungary, chanting "Europe, not Moscow" in support of the EU and against Prime Minister Viktor Orban. ](/news/2017/05/1/the-momentum-movement-holds-a-pro-eu-anti-russia-march-attended-by-approximately-10-000-in-budapest-hungary-chanting-aeurope-not-mosco.md)
@@ -25,7 +25,7 @@ North Korea accuses the United States of pushing the Korean peninsula to the bri
 
 ##### Saudi Arabia
 ### [Saudi Arabia announces the arrest of 46 of what it describes as militants connected with the summer 2016 suicide bombing of Al-Masjid an-Nabawi in Medina. ](/news/2017/05/1/saudi-arabia-announces-the-arrest-of-46-of-what-it-describes-as-militants-connected-with-the-summer-2016-suicide-bombing-of-al-masjid-an-nab.md)
-_Context: Al-Masjid an-Nabawi, Medina, Saudi Arabia_
+_Context: Al-Masjid an-Nabawi, Saudi Arabia, Medina_
 
 ##### University of Texas at Austin
 ### [A knife attack leaves one dead and three injured at the University of Texas at Austin. ](/news/2017/05/1/a-knife-attack-leaves-one-dead-and-three-injured-at-the-university-of-texas-at-austin.md)

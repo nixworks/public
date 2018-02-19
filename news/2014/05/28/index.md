@@ -9,7 +9,7 @@ _Context: Lotfi Ben Jeddou, Tunisia_
 
 ##### Ramzan Kadyrov
 ### [Ramzan Kadyrov, Head of the Chechen Republic, insists he has not sent troops to Ukraine to fight alongside pro-Russia separatists. ](/news/2014/05/28/ramzan-kadyrov-head-of-the-chechen-republic-insists-he-has-not-sent-troops-to-ukraine-to-fight-alongside-pro-russia-separatists.md)
-_Context: Ukraine, Chechen Republic leader, Ramzan Kadyrov_
+_Context: Ramzan Kadyrov, Chechen Republic leader, Ukraine_
 
 ##### Tehrik-i-Taliban Pakistan
 ### [A split emerges in the Pakistani Taliban after the Mehsud faction walked out, saying the group leaders' tactics were "un-Islamic". ](/news/2014/05/28/a-split-emerges-in-the-pakistani-taliban-after-the-mehsud-faction-walked-out-saying-the-group-leaders-tactics-were-un-islamic.md)

@@ -9,7 +9,7 @@ A judge in Taipei ruled that former Taiwan president Chen Shui-bian be held in j
 
 ##### India
 ### [ India's Chandrayaan-1 lunar exploration mission successfully completes its journey to the Moon, entering its intended operational orbit 100 km above the surface. ](/news/2008/11/12/india-s-chandrayaan-1-lunar-exploration-mission-successfully-completes-its-journey-to-the-moon-entering-its-intended-operational-orbit-100.md)
-_Context: India, Chandrayaan-1, lunar probe, Moon_
+_Context: lunar probe, Chandrayaan-1, Moon, India_
 
 ##### Russia
 ### [ Russia's two main stock exchanges are suspended for one hour after the market opened with a more than 10% decline in response to trends on global markets and falling oil prices. ](/news/2008/11/12/russia-s-two-main-stock-exchanges-are-suspended-for-one-hour-after-the-market-opened-with-a-more-than-10-decline-in-response-to-trends-on.md)

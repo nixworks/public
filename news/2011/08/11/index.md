@@ -17,7 +17,7 @@ _Context: Asia, New York Stock Exchange, Australia, Stock market_
 
 ##### City Council
 ### [The City Council in the New Zealand city of Christchurch announces plans to rebuild its central business district after the recent earthquake. ](/news/2011/08/11/the-city-council-in-the-new-zealand-city-of-christchurch-announces-plans-to-rebuild-its-central-business-district-after-the-recent-earthquak.md)
-_Context: Christchurch, City Council, New Zealand, central business district, 2011 Christchurch earthquake_
+_Context: City Council, Christchurch, central business district, 2011 Christchurch earthquake, New Zealand_
 
 ##### Israel
 ### [Final approval is given for the building of 1,600 Israeli settler homes in "disputed" East Jerusalem by Israeli Interior Minister Eli Yishai despite a diplomatic rebuke Tuesday from the United States over earlier construction plans. ](/news/2011/08/11/final-approval-is-given-for-the-building-of-1-600-israeli-settler-homes-in-disputed-east-jerusalem-by-israeli-interior-minister-eli-yishai.md)
@@ -29,7 +29,7 @@ A KEY suspect in the 2002 Bali bombings has arrived in the Indonesian capital af
 
 ##### Parliament
 ### [The Parliament of the United Kingdom comes back from its summer break to debate the 2011 England riots. ](/news/2011/08/11/the-parliament-of-the-united-kingdom-comes-back-from-its-summer-break-to-debate-the-2011-england-riots.md)
-_Context: 2011 England riots, Parliament_
+_Context: Parliament, 2011 England riots_
 
 ##### Philippine Senate
 ### [The Philippine Senate Electoral Tribunal proclaims Aquilino Pimentel III as the winner of the 2007 election days after Juan Miguel Zubiri resigned due to alleged electoral fraud. ](/news/2011/08/11/the-philippine-senate-electoral-tribunal-proclaims-aquilino-pimentel-iii-as-the-winner-of-the-2007-election-days-after-juan-miguel-zubiri-re.md)

@@ -33,11 +33,11 @@ One US military official is dead and two missing after being swept away by waves
 
 ##### European Parliament
 ### [The European Parliament rejects Hungary's EU commissioner-designate Tibor Navracsics as unsuitable for the education and culture commissioner post; he may still be given a different post in the commission, causing a reshuffle. ](/news/2014/10/6/the-european-parliament-rejects-hungary-s-eu-commissioner-designate-tibor-navracsics-as-unsuitable-for-the-education-and-culture-commissione.md)
-_Context: Tibor Navracsics, education and culture commissioner post, Hungary, European Parliament_
+_Context: European Parliament, education and culture commissioner post, Hungary, Tibor Navracsics_
 
 ##### Nobel Prize in Physiology or Medicine
 ### [British neuroscientist John O'Keefe and Norwegian scientists May-Britt Moser and Edvard Moser share the 2014 Nobel Prize in Physiology or Medicine. ](/news/2014/10/6/british-neuroscientist-john-o-keefe-and-norwegian-scientists-may-britt-moser-and-edvard-moser-share-the-2014-nobel-prize-in-physiology-or-me.md)
-_Context: May-Britt Moser, Edvard Moser, Nobel Prize in Physiology or Medicine, John O'Keefe_
+_Context: May-Britt Moser, Nobel Prize in Physiology or Medicine, Edvard Moser, John O'Keefe_
 
 ## [Previous Day...](/news/2014/10/5/index.md)
 

@@ -9,11 +9,11 @@ _Context: Syria_
 
 ##### China
 ### [Chinese police beat protesters and fire tear gas after demonstrators storm government buildings in Haimen (70km NNW from Shanghai), in protest against a local 'polluting' coal-powered electricity generation plant. ](/news/2011/12/20/chinese-police-beat-protesters-and-fire-tear-gas-after-demonstrators-storm-government-buildings-in-haimen-70km-nnw-from-shanghai-in-prote.md)
-_Context: China, tear gas, coal-powered electricity generation plant, Haimen, Shanghai_
+_Context: Haimen, coal-powered electricity generation plant, China, tear gas, Shanghai_
 
 ##### India
 ### [Indian Foreign Minister S. M. Krishna condemns a court case in Russia that could see the "Bhagavad Gita As It Is" holy book banned there. ](/news/2011/12/20/indian-foreign-minister-s-m-krishna-condemns-a-court-case-in-russia-that-could-see-the-bhagavad-gita-as-it-is-holy-book-banned-there.md)
-_Context: attempt to ban, Russia, SM Krishna, India, Bhagavad Gita As It Is_
+_Context: attempt to ban, Bhagavad Gita As It Is, Russia, SM Krishna, India_
 
 ##### Tropical Storm Washi
 ### [The death toll from Tropical Storm Washi in the Philippines rises to nearly 1,000. ](/news/2011/12/20/the-death-toll-from-tropical-storm-washi-in-the-philippines-rises-to-nearly-1-000.md)

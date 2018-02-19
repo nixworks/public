@@ -29,11 +29,11 @@ Twenty people have died following a deadly outbreak of the bubonic plague, medic
 
 ##### National Security Agency
 ### [The U.S. National Security Agency is secretly piggybacking on the tools that enable internet advertisers to track consumers, such tools are known as cookies; specifically, Google cookies are being tracked in order to determine targets for hacking. ](/news/2013/12/11/the-u-s-national-security-agency-is-secretly-piggybacking-on-the-tools-that-enable-internet-advertisers-to-track-consumers-such-tools-are.md)
-_Context: cookies, Google, National Security Agency_
+_Context: Google, National Security Agency, cookies_
 
 ##### Supreme Court of India
 ### [The Supreme Court of India upholds the primacy of Section 377 of the Indian penal code banning homosexual activities. ](/news/2013/12/11/the-supreme-court-of-india-upholds-the-primacy-of-section-377-of-the-indian-penal-code-banning-homosexual-activities.md)
-_Context: Indian penal code, Supreme Court of India, homosexuality_
+_Context: Indian penal code, homosexuality, Supreme Court of India_
 
 ##### Revenge porn
 ### [A revenge porn website is shutdown in San Diego after the owner, Kevin Christopher Bollaert, is accused of extorting money from one of its victims. ](/news/2013/12/11/a-revenge-porn-website-is-shutdown-in-san-diego-after-the-owner-kevin-christopher-bollaert-is-accused-of-extorting-money-from-one-of-its-v.md)

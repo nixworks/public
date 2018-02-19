@@ -7,7 +7,7 @@ Formats: [HTML](2011/02/4/index.html)  [JSON](2011/02/4/index.json)  [XML](2011/
 ### [Anti-government protesters demonstrate against the Mubarak regime for an eleventh day - the "Day of Departure". ](/news/2011/02/4/anti-government-protesters-demonstrate-against-the-mubarak-regime-for-an-eleventh-day-the-day-of-departure.md)
 ##### Baton
 ### [Police beat with batons and shoot tear gas at student protesters in the Sudanese state of Sennar in demonstrations inspired by the uprisings in Tunisia and Egypt. ](/news/2011/02/4/police-beat-with-batons-and-shoot-tear-gas-at-student-protesters-in-the-sudanese-state-of-sennar-in-demonstrations-inspired-by-the-uprisings.md)
-_Context: baton, Sennar, state, tear gas_
+_Context: state, tear gas, baton, Sennar_
 
 ##### Syria
 ### [Syrian protestors call for "a day of anger" against the Syrian government. ](/news/2011/02/4/syrian-protestors-call-for-a-day-of-anger-against-the-syrian-government.md)
@@ -15,7 +15,7 @@ Protesters&#x20;have&#x20;called&#x20;for&#x20;&quot;a&#x20;day&#x20;of&#x20;ang
 
 ##### Cambodian-Thai border stand-off
 ### [Cambodian-Thai border stand-off: The Thai Army and the Cambodian Armed Forces clash on the border near the Preah Vihear Temple. ](/news/2011/02/4/cambodianathai-border-stand-off-the-thai-army-and-the-cambodian-armed-forces-clash-on-the-border-near-the-preah-vihear-temple.md)
-_Context: Cambodian-Thai border stand-off, Cambodian Armed Forces, Thai Army, Preah Vihear Temple_
+_Context: Cambodian Armed Forces, Cambodian-Thai border stand-off, Preah Vihear Temple, Thai Army_
 
 ##### 
 ### [Islamic militants kill two Thai security guards in the south of the country. ](/news/2011/02/4/islamic-militants-kill-two-thai-security-guards-in-the-south-of-the-country.md)
@@ -29,7 +29,7 @@ _Context: Afghan_
 
 ##### Angela Merkel
 ### [Angela Merkel, the German Chancellor, and Nicolas Sarkozy, the President of France, jointly propose a new set of policies for the euro zone defined to defend the euro as a currency, such as higher retirement ages and the abolition of inflation-indexed wages. ](/news/2011/02/4/angela-merkel-the-german-chancellor-and-nicolas-sarkozy-the-president-of-france-jointly-propose-a-new-set-of-policies-for-the-euro-zone.md)
-_Context: Nicolas Sarkozy, euro, Angela Merkel, Eurozone_
+_Context: Eurozone, Angela Merkel, euro, Nicolas Sarkozy_
 
 ##### Trustee
 ### [The court-appointed trustee for creditors of Bernie Madoff claims that the owners of the New York Mets owes $300 million. ](/news/2011/02/4/the-court-appointed-trustee-for-creditors-of-bernie-madoff-claims-that-the-owners-of-the-new-york-mets-owes-300-million.md)
@@ -37,7 +37,7 @@ Lawyers agreed to make complaint public after settlement talks broke down.
 
 ##### Target Corp.
 ### [Target Corp. has agreed to pay $22.5 million in settlement with the Government of California and local governments in settlement over alleged illegal hazardous waste dumping. ](/news/2011/02/4/target-corp-has-agreed-to-pay-22-5-million-in-settlement-with-the-government-of-california-and-local-governments-in-settlement-over-allege.md)
-_Context: hazardous waste, Target Corp., Government of California_
+_Context: Target Corp., hazardous waste, Government of California_
 
 ##### Canadian
 ### [A court in Canada strikes down the government's decision to allow Globalive to operate a wireless telecomm network in that country, given the extent of foreign holdings. ](/news/2011/02/4/a-court-in-canada-strikes-down-the-government-s-decision-to-allow-globalive-to-operate-a-wireless-telecomm-network-in-that-country-given-th.md)
@@ -45,7 +45,7 @@ A Canadian court struck down on Friday a federal government move to allow Global
 
 ##### Iran
 ### [Five people lose their lives in flash floods that swamp parts of Iran's Southeastern province of Kerman in the towns of Sirjan, Roudbar and Kahnouj. ](/news/2011/02/4/five-people-lose-their-lives-in-flash-floods-that-swamp-parts-of-iran-s-southeastern-province-of-kerman-in-the-towns-of-sirjan-roudbar-and.md)
-_Context: Sirjan, Kerman, Kahnouj, Roudbar, Iran_
+_Context: Sirjan, Kahnouj, Iran, Kerman, Roudbar_
 
 ##### India
 ### [A 6.4 magnitude earthquake strikes the India-Burma border region. ](/news/2011/02/4/a-6-4-magnitude-earthquake-strikes-the-india-burma-border-region.md)
@@ -53,7 +53,7 @@ _Context: Burma, India_
 
 ##### Queensland
 ### [A man from Bamboroo, Queensland becomes the first casualty of Severe Tropical Cyclone Yasi in Australia. ](/news/2011/02/4/a-man-from-bamboroo-queensland-becomes-the-first-casualty-of-severe-tropical-cyclone-yasi-in-australia.md)
-_Context: Severe Tropical Cyclone Yasi, Australia, Queensland_
+_Context: Australia, Severe Tropical Cyclone Yasi, Queensland_
 
 ##### January 31-February 2, 2011 North American winter storm
 ### [The death toll from the January 31-February 2, 2011 North American winter storm is at least a dozen. ](/news/2011/02/4/the-death-toll-from-the-january-31afebruary-2-2011-north-american-winter-storm-is-at-least-a-dozen.md)
@@ -73,7 +73,7 @@ The BBC apologises over remarks on the TV show Top Gear that provoked outrage in
 
 ##### Ayatollah Ali Khamenei
 ### [Ayatollah Ali Khamenei, Supreme Leader of Iran, says that the 2011 Egyptian protests and Tunisian uprising are a result of "Islamic awareness". ](/news/2011/02/4/ayatollah-ali-khamenei-supreme-leader-of-iran-says-that-the-2011-egyptian-protests-and-tunisian-uprising-are-a-result-of-islamic-awarenes.md)
-_Context: Iran, Ayatollah Ali Khamenei, recent unrest, Supreme Leader, Protesters_
+_Context: Protesters, Iran, Ayatollah Ali Khamenei, Supreme Leader, recent unrest_
 
 ##### Hmong people
 ### [Thousands of people attend the funeral of Hmong General Vang Pao in Fresno, California. ](/news/2011/02/4/thousands-of-people-attend-the-funeral-of-hmong-general-vang-pao-in-fresno-california.md)
@@ -89,7 +89,7 @@ The Cuban government has freed prominent political prisoner Guido Sigler, who ha
 
 ##### Parliament of Myanmar
 ### [The Parliament of Myanmar elects Thein Sein as President, succeeding Than Shwe who was in power since 1992. He is the first civilian president in half a century. ](/news/2011/02/4/the-parliament-of-myanmar-elects-thein-sein-as-president-succeeding-than-shwe-who-was-in-power-since-1992-he-is-the-first-civilian-preside.md)
-_Context: Than Shwe, President of Burma, Thein Sein, Parliament of Myanmar_
+_Context: Thein Sein, Parliament of Myanmar, Than Shwe, President of Burma_
 
 ##### President
 ### [President of Kazakhstan Nursultan Nazarbayev calls an early election for April 3, rejecting a plan for a referendum intended to allow him to rule for another decade. ](/news/2011/02/4/president-of-kazakhstan-nursultan-nazarbayev-calls-an-early-election-for-april-3-rejecting-a-plan-for-a-referendum-intended-to-allow-him-to.md)
@@ -97,11 +97,11 @@ Nursultan Nazarbayev calls for early presidential election after rejecting plan 
 
 ##### Italian Prime Minister
 ### [Prime Minister of Italy Silvio Berlusconi ignores his recent sex scandals to claim to the media at a summit in Brussels that he is the most popular national leader in the European Union. ](/news/2011/02/4/prime-minister-of-italy-silvio-berlusconi-ignores-his-recent-sex-scandals-to-claim-to-the-media-at-a-summit-in-brussels-that-he-is-the-most.md)
-_Context: Silvio Berlusconi, Brussels, European Union, Italian Prime Minister_
+_Context: European Union, Italian Prime Minister, Silvio Berlusconi, Brussels_
 
 ##### NASA
 ### [NASA astronaut Mark Kelly, the husband of Rep Gabrielle Giffords shot last month, announces that he will resume training to command the Space Shuttle Endeavour's final mission STS-134 in April. ](/news/2011/02/4/nasa-astronaut-mark-kelly-the-husband-of-rep-gabrielle-giffords-shot-last-month-announces-that-he-will-resume-training-to-command-the-spac.md)
-_Context: NASA, final mission, Gabrielle Giffords, United States House of Representatives, Space Shuttle ''Endeavour'', Mark Kelly, astronaut_
+_Context: NASA, final mission, Mark Kelly, United States House of Representatives, astronaut, Space Shuttle ''Endeavour'', Gabrielle Giffords_
 
 ##### Fishing
 ### [Researchers report that fishing rates in the Arctic are 75 times higher than those reported by the U.N., suggesting future increased exploitation is less possible than previously thought. ](/news/2011/02/4/researchers-report-that-fishing-rates-in-the-arctic-are-75-times-higher-than-those-reported-by-the-u-n-suggesting-future-increased-exploit.md)

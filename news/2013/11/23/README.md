@@ -29,7 +29,7 @@ The U.S. military has began scaling back its emergency relief operations in the 
 
 ##### Several world powers
 ### [P5+1 foreign ministers meet in Geneva for talks on Iran's nuclear program. ](/news/2013/11/23/p5-1-foreign-ministers-meet-in-geneva-for-talks-on-iran-s-nuclear-program.md)
-_Context: several world powers, nuclear program_
+_Context: nuclear program, several world powers_
 
 ##### Egypt
 ### [Egypt expels the Turkish ambassador, citing "interference". ](/news/2013/11/23/egypt-expels-the-turkish-ambassador-citing-interference.md)

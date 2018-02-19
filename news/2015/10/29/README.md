@@ -9,11 +9,11 @@ _Context: Baghdad International Airport, Iran, Iraqi Civil War (2014-present)_
 
 ##### Adele
 ### [Adele's "Hello" beats Miley Cyrus's "Wrecking Ball" as the fastest video on Vevo to reach 100 million views and is also certified as the official Vevo Record holder. ](/news/2015/10/29/adele-s-hello-beats-miley-cyrus-s-wrecking-ball-as-the-fastest-video-on-vevo-to-reach-100-million-views-and-is-also-certified-as-the-off.md)
-_Context: Vevo, Hello, Vevo Record, Adele, Wrecking Ball, Miley Cyrus_
+_Context: Miley Cyrus, Adele, Hello, Vevo Record, Vevo, Wrecking Ball_
 
 ##### Saudi Arabia
 ### [Saudi Arabian blogger Raif Badawi, who has been sentenced to 1,000 lashes and 10 years in jail for insulting Islam and for cyber crime, wins the European Union's prestigious Sakharov Prize for Freedom of Thought. The Sakharov award ceremony will be held in Strasbourg, France on December 16, 2015 while the laureate remains imprisoned. ](/news/2015/10/29/saudi-arabian-blogger-raif-badawi-who-has-been-sentenced-to-1-000-lashes-and-10-years-in-jail-for-insulting-islam-and-for-cyber-crime-wins.md)
-_Context: France, Sakharov Prize, Strasbourg, Saudi Arabia, European Union, Raif Badawi_
+_Context: Saudi Arabia, Raif Badawi, Sakharov Prize, European Union, Strasbourg, France_
 
 ##### European Union
 ### [The largest lender in Europe's most robust economy, Deutsche Bank AG, will cut 35k jobs in an effort to counter falling profits. ](/news/2015/10/29/the-largest-lender-in-europeas-most-robust-economy-deutsche-bank-ag-will-cut-35k-jobs-in-an-effort-to-counter-falling-profits.md)
@@ -49,7 +49,7 @@ The 74-year-old&#039;s family thought the punishment for being caught with alcoh
 
 ##### South Sudanese Civil War
 ### [A long-awaited report released by an African Union investigative team led by former Nigerian President Olusegun Obasanjo describes atrocities and the discovery of mass graves in South Sudan, citing government forces and their allies as responsible parties. ](/news/2015/10/29/a-long-awaited-report-released-by-an-african-union-investigative-team-led-by-former-nigerian-president-olusegun-obasanjo-describes-atrocitie.md)
-_Context: South Sudanese Civil War, war crime, Nigeria, Olusegun Obasanjo, mass graves, African Union, South Sudan_
+_Context: Olusegun Obasanjo, African Union, South Sudan, mass graves, Nigeria, South Sudanese Civil War, war crime_
 
 ##### European Union
 ### [The European Union narrowly votes (285-281) to recommend that its 28 member nations drop criminal charges against Edward Snowden and protect him from U.S. extradition and to recognize him as a defender of human rights because of his revelations regarding U.S. and British spying. ](/news/2015/10/29/the-european-union-narrowly-votes-285a281-to-recommend-that-its-28-member-nations-drop-criminal-charges-against-edward-snowden-and-prote.md)
@@ -57,15 +57,15 @@ Edward Snowden might set up residence in any of nearly 30 European nations after
 
 ##### Territorial disputes in the South China Sea
 ### [As a result of talks between U.S. Chief of Naval Operations Admiral John Richardson and Chinese Commander of the People's Liberation Army Navy Admiral Wu Shengli about a U.S. warship's transit with 12 nautical miles of China's man-made islands in the South China Sea, the United States and China agree to maintain dialogue and follow Code for Unplanned Encounters at Sea protocols, according to a U.S. official. ](/news/2015/10/29/as-a-result-of-talks-between-u-s-chief-of-naval-operations-admiral-john-richardson-and-chinese-commander-of-the-people-s-liberation-army-na.md)
-_Context: man-made islands, South China Sea, Chinese, United States, Admiral John M. Richardson, Territorial disputes in the South China Sea, China-United States relations, Code for Unplanned Encounters at Sea, Admiral Wu Shengli, United States Chief of Naval Operations, People's Liberation Army Navy_
+_Context: Admiral John M. Richardson, People's Liberation Army Navy, Admiral Wu Shengli, United States Chief of Naval Operations, United States, Territorial disputes in the South China Sea, Chinese, man-made islands, China-United States relations, Code for Unplanned Encounters at Sea, South China Sea_
 
 ##### Lockheed
 ### [Lockheed Martin vice president of air and missile defense Mike Trotsky tells the National Press Club in Washington, D.C., that the United States and South Korea are holding both formal and informal discussions on THAAD (Terminal High Altitude Area Defense System) deployment. South Korea's Defense Ministry and the U.S. Department of Defense deny the report. ](/news/2015/10/29/lockheed-martin-vice-president-of-air-and-missile-defense-mike-trotsky-tells-the-national-press-club-in-washington-d-c-that-the-united-st.md)
-_Context: National Press Club, South Korea, U.S. Terminal High Altitude Area Defense (THAAD) system launchers, U.S. military, United States, South Korean Defense Minister, Lockheed, Washington, D.C._
+_Context: Washington, D.C., South Korea, Lockheed, United States, South Korean Defense Minister, U.S. military, National Press Club, U.S. Terminal High Altitude Area Defense (THAAD) system launchers_
 
 ##### USS ''Ronald Reagan''
 ### [The carrier USS "Ronald Reagan", during a military exercise with South Korea in the Sea of Japan's international waters, scrambled four fighter jets to intercept approaching Russian warplanes, according to the U.S. Navy. IHS Jane's Defence Weekly said encounters such as these were common during the Cold War, subsided with its end but picked up again under current Russian President Vladimir Putin. ](/news/2015/10/29/the-carrier-uss-ronald-reagan-during-a-military-exercise-with-south-korea-in-the-sea-of-japan-s-international-waters-scrambled-four-figh.md)
-_Context: Russian President, F/A-18 Hornet, Russia, USS ''Ronald Reagan'', international waters, South Korea, Sea of Japan, warplanes, Cold War, Vladimir Putin, United States Navy, IHS Jane's Defence Weekly_
+_Context: F/A-18 Hornet, USS ''Ronald Reagan'', Russia, warplanes, Russian President, international waters, Sea of Japan, Vladimir Putin, IHS Jane's Defence Weekly, United States Navy, Cold War, South Korea_
 
 ##### One-child policy
 ### [China has decided to end its controversial one-child policy after 36 years. It is to be replaced by a new two-child policy. ](/news/2015/10/29/china-has-decided-to-end-its-controversial-one-child-policy-after-36-years-it-is-to-be-replaced-by-a-new-two-child-policy.md)
@@ -85,7 +85,7 @@ Paul D. Ryan, the Wisconsin Republican, insisted on the backing of the party’s
 
 ##### Parliament
 ### [The Parliament of Moldova passes a no-confidence vote against pro-EU incumbent prime-minister Valeriu Strelet's cabinet amidst growing political turmoil in the country. ](/news/2015/10/29/the-parliament-of-moldova-passes-a-no-confidence-vote-against-pro-eu-incumbent-prime-minister-valeriu-strelee-s-cabinet-amidst-growing-poli.md)
-_Context: Parliament, vote of no confidence, Moldovan Prime Minister, cabinet, Valeriu Strelet_
+_Context: Parliament, vote of no confidence, cabinet, Valeriu Strelet, Moldovan Prime Minister_
 
 ##### Scott Kelly
 ### [Astronaut Scott Kelly sets another record; this time for the single-longest spaceflight (216 days) by an American. His ISS year long mission is a scientific research project to study the health effects of long term spaceflight. Astronaut Michael Lopez-Alegria spent 215 consecutive days as Expedition 14 commander in 2006. Both are nowhere close to Valeri Polyakovs 437 days record. ](/news/2015/10/29/astronaut-scott-kelly-sets-another-record-this-time-for-the-single-longest-spaceflight-216-days-by-an-american-his-iss-year-long-mission.md)
@@ -93,7 +93,7 @@ Scott Kelly has officially spent more time in space than any other American.
 
 ##### United Nations
 ### [The United Nations' World Meteorological Organization (WMO) announces that, earlier this month, the Antarctic ozone hole widened to one of its largest sizes on record. A colder than usual stratosphere widened the hole to a peak of 28.2 million square km (10.9 million square miles). ](/news/2015/10/29/the-united-nations-world-meteorological-organization-wmo-announces-that-earlier-this-month-the-antarctic-ozone-hole-widened-to-one-of-i.md)
-_Context: Antarctic, World Meteorological Organization, stratosphere, United Nations, ozone hole_
+_Context: Antarctic, ozone hole, stratosphere, World Meteorological Organization, United Nations_
 
 ## [Previous Day...](/news/2015/10/28/index.md)
 

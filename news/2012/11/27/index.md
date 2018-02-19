@@ -17,7 +17,7 @@ Gunmen reportedly dressed as soldiers indiscriminately open fire on customers in
 
 ##### Chinese
 ### [A Chinese-made training airplane K-8 crashes during an air force flying exhibition in Venezuela, the two pilots ejected successfully. The French-made military helicopter Cougar sent to rescue the pilots also crashes, no one is injured. ](/news/2012/11/27/a-chinese-made-training-airplane-k-8-crashes-during-an-air-force-flying-exhibition-in-venezuela-the-two-pilots-ejected-successfully-the-fr.md)
-_Context: K-8, Chinese, Venezuela, France, Cougar_
+_Context: Venezuela, Chinese, Cougar, France, K-8_
 
 ##### 10 Downing Street
 ### [The UK government is to create a new wave of universities both in the private and public sector, the first new universities in the country for two decades. ](/news/2012/11/27/the-uk-government-is-to-create-a-new-wave-of-universities-both-in-the-private-and-public-sector-the-first-new-universities-in-the-country-f.md)
@@ -29,7 +29,7 @@ France confirms it intends to vote in favour of the Palestinian bid for recognit
 
 ##### Aung San Suu Kyi
 ### [Aung San Suu Kyi and Thein Sein are ranked first on Foreign Policy's 2012 Top 100 Global Thinkers list ahead of Moncef Marzouki, Bill Clinton and Hillary Clinton. Also, Malala Yousafzai is ranked sixth behind Bill Gates and Melinda Gates, but ahead of Barack Obama. ](/news/2012/11/27/aung-san-suu-kyi-and-thein-sein-are-ranked-first-on-foreign-policyas-2012-top-100-global-thinkers-list-ahead-of-moncef-marzouki-bill-clin.md)
-_Context: Bill Gates, Moncef Marzouki, Thein Sein, Barack Obama, Malala Yousafzai, Hillary Clinton, Top 100 Global Thinkers, Melinda, Foreign Policy, Aung San Suu Kyi, Bill Clinton_
+_Context: Bill Clinton, Thein Sein, Moncef Marzouki, Foreign Policy, Aung San Suu Kyi, Top 100 Global Thinkers, Barack Obama, Melinda, Bill Gates, Hillary Clinton, Malala Yousafzai_
 
 ##### Yasser Arafat
 ### [The remains of Yasser Arafat are exhumed as part of an investigation into how the Palestinian leader died in November 2004. ](/news/2012/11/27/the-remains-of-yasser-arafat-are-exhumed-as-part-of-an-investigation-into-how-the-palestinian-leader-died-in-november-2004.md)
@@ -37,7 +37,7 @@ The remains of Palestinian leader Yasser Arafat are exhumed in Ramallah so exper
 
 ##### Mexican
 ### [Mexican beauty queen Maria Susana Flores Gamez, crowned as 2012 Woman of Sinaloa, is killed during a weekend shootout in Sinaloa, Mexico. ](/news/2012/11/27/mexican-beauty-queen-maraa-susana-flores-ga-mez-crowned-as-2012-woman-of-sinaloa-is-killed-during-a-weekend-shootout-in-sinaloa-mexico.md)
-_Context: Mexico, Mexican, Sinaloa, beauty queen_
+_Context: Mexico, Sinaloa, Mexican, beauty queen_
 
 ##### Tahrir Square
 ### [Tens of thousands of protestors demonstrate in Tahrir Square in Cairo against Egyptian President Mohamed Morsi for last week's decree granting himself sweeping powers. ](/news/2012/11/27/tens-of-thousands-of-protestors-demonstrate-in-tahrir-square-in-cairo-against-egyptian-president-mohamed-morsi-for-last-week-s-decree-granti.md)

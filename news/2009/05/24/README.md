@@ -5,15 +5,15 @@ Formats: [HTML](2009/05/24/index.html)  [JSON](2009/05/24/index.json)  [XML](200
 
 ##### Brazil
 ### [ Brazilian driver Hlio Castroneves wins automobile racing's 93rd Indianapolis 500. ](/news/2009/05/24/brazilian-driver-helio-castroneves-wins-automobile-racing-s-93rd-indianapolis-500.md)
-_Context: 93rd, automobile racing, Indianapolis 500, Hlio Castroneves, Brazil_
+_Context: Hlio Castroneves, Indianapolis 500, automobile racing, 93rd, Brazil_
 
 ##### Deccan Chargers
 ### [ The Deccan Chargers defeat the Royal Challengers Bangalore to win the Indian Premier League. ](/news/2009/05/24/the-deccan-chargers-defeat-the-royal-challengers-bangalore-to-win-the-indian-premier-league.md)
-_Context: win, Royal Challengers Bangalore, Indian Premier League, Deccan Chargers_
+_Context: Deccan Chargers, Royal Challengers Bangalore, Indian Premier League, win_
 
 ##### Austria
 ### [ The Austrian film "The White Ribbon" wins the Golden Palm at the 2009 Cannes Film Festival. ](/news/2009/05/24/the-austrian-film-the-white-ribbon-wins-the-golden-palm-at-the-2009-cannes-film-festival.md)
-_Context: 2009, Palme d'Or, Cannes Film Festival, Austria, The White Ribbon_
+_Context: Cannes Film Festival, The White Ribbon, Palme d'Or, Austria, 2009_
 
 ##### Space Shuttle
 ### [ The Space Shuttle "Atlantis" lands at Edwards Air Force Base in California, United States, after completing the final servicing mission to the Hubble Space Telescope. ](/news/2009/05/24/the-space-shuttle-atlantis-lands-at-edwards-air-force-base-in-california-united-states-after-completing-the-final-servicing-mission-to.md)
@@ -21,7 +21,7 @@ NASA&#039;s space shuttle fleet began setting records with its first launch on A
 
 ##### Stampede
 ### [ Eleven people are killed during a stampede at the Mawazine world music festival in Rabat, Morocco. ](/news/2009/05/24/eleven-people-are-killed-during-a-stampede-at-the-mawazine-world-music-festival-in-rabat-morocco.md)
-_Context: Rabat, Morocco, stampede, festival, world music, Mawazine_
+_Context: Morocco, festival, Mawazine, world music, stampede, Rabat_
 
 ##### Sikh
 ### [ One person is killed and 15 others are injured during a clash in a Sikh temple in Vienna, Austria. ](/news/2009/05/24/one-person-is-killed-and-15-others-are-injured-during-a-clash-in-a-sikh-temple-in-vienna-austria.md)

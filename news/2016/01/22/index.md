@@ -25,7 +25,7 @@ A small community in northern Saskatchewan is reeling after shootings at two loc
 
 ##### Wei Hong
 ### [Wei Hong resigns as Governor of Sichuan province in China after it was revealed that he was undergoing investigation for "breaching party discipline." Former World Health Organization executive committee member Yin Li becomes acting governor. ](/news/2016/01/22/wei-hong-resigns-as-governor-of-sichuan-province-in-china-after-it-was-revealed-that-he-was-undergoing-investigation-for-breaching-party-di.md)
-_Context: Yin Li, Sichuan, Wei Hong, World Health Organization_
+_Context: Yin Li, Wei Hong, World Health Organization, Sichuan_
 
 ## [Previous Day...](/news/2016/01/21/index.md)
 

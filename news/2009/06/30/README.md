@@ -9,15 +9,15 @@ _Context: Gas Exporting Countries Forum, Abdullah Al-Attiyah_
 
 ##### President of Cameroon
 ### [ The President of Cameroon Paul Biya sacks Prime Minister Ephraim Inoni and appoints Philemon Yang to the role. ](/news/2009/06/30/the-president-of-cameroon-paul-biya-sacks-prime-minister-ephraim-inoni-and-appoints-philemon-yang-to-the-role.md)
-_Context: President of Cameroon, Ephraim Inoni, Prime Minister, Paul Biya, Philemon Yang_
+_Context: Prime Minister, Paul Biya, Ephraim Inoni, President of Cameroon, Philemon Yang_
 
 ##### Dresden
 ### [ Dresden loses its status as a UNESCO World Heritage Site. ](/news/2009/06/30/dresden-loses-its-status-as-a-unesco-world-heritage-site.md)
-_Context: world heritage site, UNESCO, Dresden_
+_Context: world heritage site, Dresden, UNESCO_
 
 ##### German
 ### [ Germany's Constitutional Court approves the Treaty of Lisbon, but suspends ratification of it. ](/news/2009/06/30/germany-s-constitutional-court-approves-the-treaty-of-lisbon-but-suspends-ratification-of-it.md)
-_Context: German, Federal Constitutional Court of Germany, Treaty of Lisbon, approves_
+_Context: German, Treaty of Lisbon, approves, Federal Constitutional Court of Germany_
 
 ##### Central Statistics Office
 ### [ Official figures from the Central Statistics Office show a dramatic contraction in the Irish economy in the first three months of 2009. ](/news/2009/06/30/official-figures-from-the-central-statistics-office-show-a-dramatic-contraction-in-the-irish-economy-in-the-first-three-months-of-2009.md)
@@ -25,7 +25,7 @@ Official figures show that there was a dramatic contraction in the economy in th
 
 ##### Italy
 ### [ At least 15 people are killed and 40 are injured by the derailment of an Italian freight train and subsequent explosion of two wagons carrying liquified petroleum gas in Viareggio. ](/news/2009/06/30/at-least-15-people-are-killed-and-40-are-injured-by-the-derailment-of-an-italian-freight-train-and-subsequent-explosion-of-two-wagons-carry.md)
-_Context: subsequent explosion, Viareggio, Italy, liquified petroleum gas_
+_Context: Viareggio, Italy, liquified petroleum gas, subsequent explosion_
 
 ##### United States
 ### [ U.S. forces pull out of Baghdad and leave major cities across Iraq. ](/news/2009/06/30/u-s-forces-pull-out-of-baghdad-and-leave-major-cities-across-iraq.md)

@@ -29,7 +29,7 @@ _Context: United States, Somalia_
 
 ##### Ethiopia
 ### [A truck bomb detonates at an Ethiopian military base in Somalia. ](/news/2012/01/25/a-truck-bomb-detonates-at-an-ethiopian-military-base-in-somalia.md)
-_Context: Ethiopia, Somalia_
+_Context: Somalia, Ethiopia_
 
 ##### Papua New Guinea
 ### [A landslide in central Papua New Guinea leaves four people dead and 60 missing. ](/news/2012/01/25/a-landslide-in-central-papua-new-guinea-leaves-four-people-dead-and-60-missing.md)
@@ -37,11 +37,11 @@ _Context: Papua New Guinea_
 
 ##### President
 ### [Iranian President Mahmoud Ahmadinejad says that Iran is willing to talk about Iran's nuclear program with other leaders. ](/news/2012/01/25/iranian-president-mahmoud-ahmadinejad-says-that-iran-is-willing-to-talk-about-iran-s-nuclear-program-with-other-leaders.md)
-_Context: Mahmoud Ahmadinejad, nuclear program, President_
+_Context: President, nuclear program, Mahmoud Ahmadinejad_
 
 ##### United Nations
 ### [The United Nations says a new foreign judge at the Khmer Rouge trial can continue cases without the support of Cambodia. ](/news/2012/01/25/the-united-nations-says-a-new-foreign-judge-at-the-khmer-rouge-trial-can-continue-cases-without-the-support-of-cambodia.md)
-_Context: United Nations, Extraordinary Chambers in the Courts of Cambodia, Cambodia_
+_Context: United Nations, Cambodia, Extraordinary Chambers in the Courts of Cambodia_
 
 ##### Israeli police
 ### [Israeli police capture Aziz Dweik, Speaker of the Hamas-dominated Palestinian Parliament, and place him under detention for 6 months. ](/news/2012/01/25/israeli-police-capture-aziz-dweik-speaker-of-the-hamas-dominated-palestinian-parliament-and-place-him-under-detention-for-6-months.md)

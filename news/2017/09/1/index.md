@@ -9,15 +9,15 @@ What you need to know about Irma&#039;s threat next week.
 
 ##### Environmental Science & Technology
 ### [Researchers report, in the "Environmental Science & Technology" journal, the discovery of antidepressant concentrations in 10 kinds of fish in the Niagara River, which links to the Great Lakes via Lakes Erie and Ontario. Speculated causes include inadequate treatment of water re-introduced into said bodies of water. ](/news/2017/09/1/researchers-report-in-the-environmental-science-technology-journal-the-discovery-of-antidepressant-concentrations-in-10-kinds-of-fish.md)
-_Context: Great Lakes, bodies of water, Environmental Science & Technology, Lakes Erie, Niagara River, Ontario, antidepressant_
+_Context: Environmental Science & Technology, bodies of water, Niagara River, Lakes Erie, Great Lakes, Ontario, antidepressant_
 
 ##### South Korea-United States relations
 ### [South Korean President Moon Jae-in and U.S. President Donald Trump agree to revise the South Korea Ballistic Missile Range Guidelines which caps South Korea's missile development. ](/news/2017/09/1/south-korean-president-moon-jae-in-and-u-s-president-donald-trump-agree-to-revise-the-south-korea-ballistic-missile-range-guidelines-which.md)
-_Context: Donald Trump, South Korea Ballistic Missile Range Guidelines, South Korea, South Korea-United States relations, Moon Jae-in, 2017 North Korea crisis_
+_Context: South Korea, South Korea-United States relations, Moon Jae-in, Donald Trump, 2017 North Korea crisis, South Korea Ballistic Missile Range Guidelines_
 
 ##### United States Court of Appeals for the Seventh Circuit
 ### [United States federal judge Richard Posner has announced his retirement after three decades of service on the bench of the 7th U.S. Circuit Court of Appeals, headquartered in Chicago, Illinois. Appointed by President Ronald Reagan in 1981, Justice Posner has written more than 3,300 opinions from the bench.](/news/2017/09/1/united-states-federal-judge-richard-posner-has-announced-his-retirement-after-three-decades-of-service-on-the-bench-of-the-7th-u-s-circuit.md)
-_Context: Illinois, United States Court of Appeals for the Seventh Circuit, Ronald Reagan, Richard Posner, Chicago, President, Federal District Judge_
+_Context: Richard Posner, Federal District Judge, United States Court of Appeals for the Seventh Circuit, Illinois, Chicago, President, Ronald Reagan_
 
 ##### New Zealand general election, 2017
 ### [The Labour Party, led by Jacinda Ardern, surges in the polls and is neck-and-neck with the National Party, led by Bill English, for the race for Prime Minister of New Zealand. ](/news/2017/09/1/the-labour-party-led-by-jacinda-ardern-surges-in-the-polls-and-is-neck-and-neck-with-the-national-party-led-by-bill-english-for-the-race.md)

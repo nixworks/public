@@ -17,7 +17,7 @@ NATO and its allies are committed to ousting Qaddafi. But it is the Libyan peopl
 
 ##### President
 ### [Shots are fired in the compound of the President of Burkina Faso Blaise Compaore. ](/news/2011/04/14/shots-are-fired-in-the-compound-of-the-president-of-burkina-faso-blaise-compaora-c.md)
-_Context: President, Blaise Compaore_
+_Context: Blaise Compaore, President_
 
 ##### Encyclopedia Dramatica
 ### [Encyclopedia Dramatica shuts down and is replaced by "oh internet", provoking protests by 4chan members and former readers of the site. ](/news/2011/04/14/encyclopedia-dramatica-shuts-down-and-is-replaced-by-oh-internet-provoking-protests-by-4chan-members-and-former-readers-of-the-site.md)
@@ -25,7 +25,7 @@ _Context: 4chan, Encyclopedia Dramatica_
 
 ##### Ford Australia
 ### [Ford Australia announces plans to cut 240 jobs and cut production in its plants at Geelong and Broadmeadows due to falling demand for larger vehicles. ](/news/2011/04/14/ford-australia-announces-plans-to-cut-240-jobs-and-cut-production-in-its-plants-at-geelong-and-broadmeadows-due-to-falling-demand-for-larger.md)
-_Context: Broadmeadows, Geelong, Ford Australia_
+_Context: Ford Australia, Broadmeadows, Geelong_
 
 ##### Japanese police
 ### [Japanese police search for the bodies of victims of the 2011 Tohoku earthquake and tsunami near the Fukushima I Nuclear Power Plant for the first time due to declining radiation levels. ](/news/2011/04/14/japanese-police-search-for-the-bodies-of-victims-of-the-2011-tahoku-earthquake-and-tsunami-near-the-fukushima-i-nuclear-power-plant-for-the.md)
@@ -41,11 +41,11 @@ North Korea confirms that it arrested a US citizen last November, and is prepari
 
 ##### Brazil
 ### [Leaders of Brazil, Russia, India, China and South Africa attend a BRICS summit in Sanya in China's Hainan Province. ](/news/2011/04/14/leaders-of-brazil-russia-india-china-and-south-africa-attend-a-brics-summit-in-sanya-in-china-s-hainan-province.md)
-_Context: Sanya, Brazil, Russia, India, China, and South Africa, Russia, Hainan Province, India, Chinese, Brazil, South Africa_
+_Context: Hainan Province, Brazil, Brazil, Russia, India, China, and South Africa, Sanya, South Africa, Chinese, India, Russia_
 
 ##### NATO
 ### [NATO foreign ministers meet in Berlin, Germany, to discuss issues including Libya. ](/news/2011/04/14/nato-foreign-ministers-meet-in-berlin-germany-to-discuss-issues-including-libya.md)
-_Context: German, Berlin, NATO, civil war_
+_Context: German, civil war, Berlin, NATO_
 
 ##### Rejean Hinse
 ### [Rejean Hinse, a Quebec man wrongly convicted of a crime in the 1960s before being acquitted by the Supreme Court of Canada 30 years later receives a record $13.1 million in compensation. ](/news/2011/04/14/ra-c-jean-hinse-a-quebec-man-wrongly-convicted-of-a-crime-in-the-1960s-before-being-acquitted-by-the-supreme-court-of-canada-30-years-later-r.md)

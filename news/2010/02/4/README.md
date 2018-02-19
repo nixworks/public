@@ -9,7 +9,7 @@ _Context: Kashmir, Srinagar_
 
 ##### North Korea
 ### [North Korea relaxes restrictions on the free market after a revaluation in 2009 led to unrest and worsened food shortages. ](/news/2010/02/4/north-korea-relaxes-restrictions-on-the-free-market-after-a-revaluation-in-2009-led-to-unrest-and-worsened-food-shortages.md)
-_Context: free market, North Korea, revaluation in 2009_
+_Context: free market, revaluation in 2009, North Korea_
 
 ##### Switzerland
 ### [Switzerland agrees to accept two Chinese Muslim Uyghurs from the Guantanamo Bay detention camp. ](/news/2010/02/4/switzerland-agrees-to-accept-two-chinese-muslim-uyghurs-from-the-guantanamo-bay-detention-camp.md)

@@ -9,11 +9,11 @@ The bodies of two civilians are found on the South Korean island of Yeonpyeong, 
 
 ##### Portugal
 ### [Workers in Portugal hold a general strike to protest against proposed cuts to wages. ](/news/2010/11/24/workers-in-portugal-hold-a-general-strike-to-protest-against-proposed-cuts-to-wages.md)
-_Context: Portugal, general strike_
+_Context: general strike, Portugal_
 
 ##### Wen Jiabao
 ### [Chinese Premier Wen Jiabao visits Moscow and meets with Russian President Dmitry Medvedev. Chinese companies sign deals worth over $8.6 billion with Russian counterparts. ](/news/2010/11/24/chinese-premier-wen-jiabao-visits-moscow-and-meets-with-russian-president-dmitry-medvedev-chinese-companies-sign-deals-worth-over-8-6-bill.md)
-_Context: Wen Jiabao, Dmitry Medvedev_
+_Context: Dmitry Medvedev, Wen Jiabao_
 
 ##### Hedge fund
 ### [Don Chu, an executive of a hedge fund networking fund Primary Global Research, is arrested on insider trading charges in the United States. ](/news/2010/11/24/don-chu-an-executive-of-a-hedge-fund-networking-fund-primary-global-research-is-arrested-on-insider-trading-charges-in-the-united-states.md)
@@ -29,11 +29,11 @@ _Context: unemployment rates, corporations_
 
 ##### New Zealand
 ### [29 miners in a New Zealand mine are confirmed dead after a second explosion, following a first explosion on November 19 which trapped them. ](/news/2010/11/24/29-miners-in-a-new-zealand-mine-are-confirmed-dead-after-a-second-explosion-following-a-first-explosion-on-november-19-which-trapped-them.md)
-_Context: are confirmed dead, New Zealand_
+_Context: New Zealand, are confirmed dead_
 
 ##### Government of Australia
 ### [An Australian Government report on the Montara oil spill blames it on oil rig operator PTTEP. ](/news/2010/11/24/an-australian-government-report-on-the-montara-oil-spill-blames-it-on-oil-rig-operator-pttep.md)
-_Context: PTT Public Company Limited, Montara oil spill, oil rig, Government of Australia_
+_Context: oil rig, Government of Australia, Montara oil spill, PTT Public Company Limited_
 
 ##### United Nations
 ### [The United Nations and Pan American Health Organization estimate that the number of cases in the 2010 Haiti cholera outbreak could reach more than 200,000 in the next three months. ](/news/2010/11/24/the-united-nations-and-pan-american-health-organization-estimate-that-the-number-of-cases-in-the-2010-haiti-cholera-outbreak-could-reach-mor.md)

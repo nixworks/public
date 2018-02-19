@@ -5,19 +5,19 @@ Formats: [HTML](2006/05/1/index.html)  [JSON](2006/05/1/index.json)  [XML](2006/
 
 ##### Gyanendra of Nepal
 ### [ King Gyanendra of Nepal swears in Girija Prasad Koirala as the new Prime Minister of Nepal. Baburam Bhattarai of the CPN(M) which controls two thirds of the country, states that his party will respect the results of an election to a constituent assembly, so long as these are "free and fair". ](/news/2006/05/1/king-gyanendra-of-nepal-swears-in-girija-prasad-koirala-as-the-new-prime-minister-of-nepal-baburam-bhattarai-of-the-cpn-m-which-controls.md)
-_Context: Maoist supporters, constituent assembly, Baburam Bhattarai, Girija Prasad Koirala, Prime Minister, Gyanendra of Nepal_
+_Context: Girija Prasad Koirala, Baburam Bhattarai, Gyanendra of Nepal, constituent assembly, Maoist supporters, Prime Minister_
 
 ##### President of Chad
 ### [ President of Chad Idriss Dby refuses to delay upcoming presidential elections despite pressure from U.S. diplomat Donald Yamamoto, high ranking Chadian Christian officials, and the head of the Chadian human rights league. However, he announced the Chadian government is negotiating with the United Front for Democratic Change rebel group to avoid violence. ](/news/2006/05/1/president-of-chad-idriss-deby-refuses-to-delay-upcoming-presidential-elections-despite-pressure-from-u-s-diplomat-donald-yamamoto-high-ra.md)
-_Context: Idriss Dby, presidential elections, Chadian government, Donald Yamamoto, Chadian rebels, President of Chad_
+_Context: Chadian rebels, President of Chad, presidential elections, Idriss Dby, Donald Yamamoto, Chadian government_
 
 ##### Spain
 ### [ Spain, Portugal, Finland and Greece join the United Kingdom, Republic of Ireland and Sweden in allowing workers from the ten countries which joined the European Union two years ago free access to their labour markets. ](/news/2006/05/1/spain-portugal-finland-and-greece-join-the-united-kingdom-republic-of-ireland-and-sweden-in-allowing-workers-from-the-ten-countries-whic.md)
-_Context: Finland, United Kingdom, European Union, Sweden, Portugal, Greece, Irish, Spain_
+_Context: Portugal, United Kingdom, Sweden, Irish, European Union, Spain, Greece, Finland_
 
 ##### Bolivian Gas War
 ### [ Bolivian Gas War: President Evo Morales has signed a decree nationalising the nation's natural gas industry, instructing foreign energy firms to channel their activities through the Bolivian government within a six-month deadline or face expulsion, and ordering the Bolivian military to occupy and secure key energy installations. ](/news/2006/05/1/bolivian-gas-war-president-evo-morales-has-signed-a-decree-nationalising-the-nation-s-natural-gas-industry-instructing-foreign-energy-fir.md)
-_Context: Bolivian Gas War, nationalising, Bolivian military, Evo Morales, President of Bolivia, natural gas_
+_Context: Evo Morales, Bolivian Gas War, President of Bolivia, natural gas, Bolivian military, nationalising_
 
 ##### Puerto Rico budget crisis
 ### [ Puerto Rico budget crisis: The government of Puerto Rico is partially shut down, including public schools. More than 90,000 employees of the public sector are put in license without salary. Their salary will not be paid until further notice, but they will remain employed whether they present themselves to work or not. If they present themselves to work it will be on a voluntary basis without retroactive payment. ](/news/2006/05/1/puerto-rico-budget-crisis-the-government-of-puerto-rico-is-partially-shut-down-including-public-schools-more-than-90-000-employees-of-th.md)
@@ -37,7 +37,7 @@ _Context: Beaconsfield, Tasmania, Beaconsfield mine collapse_
 
 ##### United States
 ### [ Immigrant workers and their supporters across the United States stay home from work or school and abstain from commerce during the 2006 Immigration Policy Boycott in the United States, also called the "Great American Boycott" or "Day Without Immigrants", a protest against the enforcement of immigration law. Demonstrations are planned nationwide. In Latin America, a one-day boycott of American products called the "Nothing Gringo Boycott" is planned in conjunction with U.S. events. ](/news/2006/05/1/immigrant-workers-and-their-supporters-across-the-united-states-stay-home-from-work-or-school-and-abstain-from-commerce-during-the-2006-imm.md)
-_Context: United States, 2006 Immigration Policy Boycott in the United States, Latin America, demonstration_
+_Context: Latin America, demonstration, United States, 2006 Immigration Policy Boycott in the United States_
 
 ##### Batticaloa
 ### [ Over 10 rebels are killed and many injured in Batticaloa as the Tamil Tigers attack a breakaway faction led by Col. Karuna Amman. ](/news/2006/05/1/over-10-rebels-are-killed-and-many-injured-in-batticaloa-as-the-tamil-tigers-attack-a-breakaway-faction-led-by-col-karuna-amman.md)
@@ -45,7 +45,7 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 
 ##### Last year's toxic chemical spill
 ### [ A second wave of pollutants from last year's toxic chemical spill in Jilin City, China, trapped in the frozen Amur and Songhua Rivers during the winter, is now being released by the spring thaw, affecting Khabarovsk and other settlements in the Russian Far East. ](/news/2006/05/1/a-second-wave-of-pollutants-from-last-year-s-toxic-chemical-spill-in-jilin-city-china-trapped-in-the-frozen-amur-and-songhua-rivers-durin.md)
-_Context: Khabarovsk, last year's toxic chemical spill, Jilin City, Chinese, Amur, Far East, Songhua River_
+_Context: last year's toxic chemical spill, Chinese, Amur, Far East, Khabarovsk, Jilin City, Songhua River_
 
 ## [Previous Day...](/news/2006/04/30/index.md)
 

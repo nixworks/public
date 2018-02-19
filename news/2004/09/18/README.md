@@ -13,7 +13,7 @@ A United Nations resolution threatening sanctions over the violence in Darfur wi
 
 ##### Nader ballot access disputes
 ### [ Nader ballot access disputes: The Florida Supreme Court orders that Reform Party candidate Ralph Nader be included on the ballot in Florida for the upcoming U.S. presidential election. ](/news/2004/09/18/nader-ballot-access-disputes-the-florida-supreme-court-orders-that-reform-party-candidate-ralph-nader-be-included-on-the-ballot-in-florida.md)
-_Context: Ralph Nader, Nader ballot access disputes, Reform Party, Florida, 2004 U.S. presidential candidate, Florida Supreme Court_
+_Context: Florida Supreme Court, 2004 U.S. presidential candidate, Ralph Nader, Reform Party, Nader ballot access disputes, Florida_
 
 ## [Previous Day...](/news/2004/09/17/index.md)
 

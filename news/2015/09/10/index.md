@@ -41,7 +41,7 @@ _Context: Khadija Ismayilova, Azerbaijan_
 
 ##### Venezuela
 ### [Venezuelan opposition leader Leopoldo Lopez is convicted and sentenced to 14 years imprisonment for allegedly inciting violence at anti-government rallies. ](/news/2015/09/10/venezuelan-opposition-leader-leopoldo-la3pez-is-convicted-and-sentenced-to-14-years-imprisonment-for-allegedly-inciting-violence-at-anti-gov.md)
-_Context: Venezuela, Leopoldo Lopez_
+_Context: Leopoldo Lopez, Venezuela_
 
 ##### Migrant workers
 ### [A U.S. federal jury awards nearly $17.5 million to five former migrant workers at a South Florida farm in their case of sexual harassment and abuse in their work. ](/news/2015/09/10/a-u-s-federal-jury-awards-nearly-17-5-million-to-five-former-migrant-workers-at-a-south-florida-farm-in-their-case-of-sexual-harassment-an.md)
@@ -49,7 +49,7 @@ A federal jury awarded almost $17.5 million to five former female employees of a
 
 ##### Peter Robinson
 ### [Peter Robinson, the First Minister of Northern Ireland, steps aside after the Democratic Unionist Party fails to get enough support to adjourn the assembly. ](/news/2015/09/10/peter-robinson-the-first-minister-of-northern-ireland-steps-aside-after-the-democratic-unionist-party-fails-to-get-enough-support-to-adjou.md)
-_Context: Peter Robinson, First Minister, Democratic Unionist Party, Northern Ireland_
+_Context: Peter Robinson, Democratic Unionist Party, First Minister, Northern Ireland_
 
 ##### ELife scientific journal
 ### ["Elife" publishes a discovery by scientists at the University of the Witwatersrand announcing a new species of hominid ("Homo naledi") in the Rising Star Cave in South Africa. Although the remains have yet to be properly dated, they could be three million years old. ](/news/2015/09/10/elife-publishes-a-discovery-by-scientists-at-the-university-of-the-witwatersrand-announcing-a-new-species-of-hominid-homo-naledi-in-th.md)

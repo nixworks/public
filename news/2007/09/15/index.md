@@ -9,23 +9,23 @@ Thousands of people were evacuated as out-of-control wildfires tore through thou
 
 ##### Washington Post
 ### [ The "Washington Post" reports that the NATO-led Coalition Force in Afghanistan intercepted a shipment of Iranian arms intended for the Taliban. ](/news/2007/09/15/the-washington-post-reports-that-the-nato-led-coalition-force-in-afghanistan-intercepted-a-shipment-of-iranian-arms-intended-for-the-tali.md)
-_Context: Afghan, NATO, Iran, Washington Post, Taliban_
+_Context: Iran, Taliban, Afghan, Washington Post, NATO_
 
 ##### Mexico
 ### [ A bus crash in the western Mexican state of Nayarit kills at least 18 and injures 13. Many of the passengers were from a flight from Phoenix, Arizona, USA, to Guadalajara, Jalisco, that was forced to divert to Puerto Vallarta. ](/news/2007/09/15/a-bus-crash-in-the-western-mexican-state-of-nayarit-kills-at-least-18-and-injures-13-many-of-the-passengers-were-from-a-flight-from-phoeni.md)
-_Context: Nayarit, Puerto Vallarta, Guadalajara, Jalisco, Phoenix, Arizona, USA, Mexican state, Mexico_
+_Context: Mexican state, Guadalajara, Jalisco, USA, Phoenix, Arizona, Nayarit, Puerto Vallarta, Mexico_
 
 ##### Anti-Iraq War
 ### [ Over 190 anti-Iraq War protesters are arrested outside the United States Capitol. ](/news/2007/09/15/over-190-anti-iraq-war-protesters-are-arrested-outside-the-united-states-capitol.md)
-_Context: United States Capitol, anti-Iraq War_
+_Context: anti-Iraq War, United States Capitol_
 
 ##### Helicopter
 ### [ A helicopter registered in the name of former World Rally Championship champion Colin McRae crashes killing four people near McRae's home in Scotland. ](/news/2007/09/15/a-helicopter-registered-in-the-name-of-former-world-rally-championship-champion-colin-mcrae-crashes-killing-four-people-near-mcrae-s-home-i.md)
-_Context: Scotland, World Rally Championship, helicopter, Colin McRae_
+_Context: Scotland, Colin McRae, helicopter, World Rally Championship_
 
 ##### Sierra Leone
 ### [ Sierra Leone's ruling People's Party seeks an injunction against the National Electoral Commission publishing further results of the 2007 general election with results published so far showing Opposition candidate for president Ernest Bai Koroma in the lead. ](/news/2007/09/15/sierra-leone-s-ruling-people-s-party-seeks-an-injunction-against-the-national-electoral-commission-publishing-further-results-of-the-2007-g.md)
-_Context: injunction, Ernest Bai Koroma, run-off election, main opposition party, Sierra Leone_
+_Context: injunction, main opposition party, Ernest Bai Koroma, Sierra Leone, run-off election_
 
 ##### 2007
 ### [ 2007 Atlantic hurricane season: Tropical Storm Ingrid weakens to a tropical depression. ](/news/2007/09/15/2007-atlantic-hurricane-season-tropical-storm-ingrid-weakens-to-a-tropical-depression.md)
@@ -37,7 +37,7 @@ Ten people were killed and 15 hurt when a suicide bomber blew up his car outside
 
 ##### Ghana
 ### [ Floods in Ghana displace 260,000 people with similar problems in Mali and neighbouring countries in West Africa. ](/news/2007/09/15/floods-in-ghana-displace-260-000-people-with-similar-problems-in-mali-and-neighbouring-countries-in-west-africa.md)
-_Context: West Africa, Ghana, Mali_
+_Context: Ghana, Mali, West Africa_
 
 ##### Australian Labor Party
 ### [ The Australian Labor Party holds the seats of Williamstown and Albert Park in the Victorian Legislative Assembly as two by-elections are held. ](/news/2007/09/15/the-australian-labor-party-holds-the-seats-of-williamstown-and-albert-park-in-the-victorian-legislative-assembly-as-two-by-elections-are-he.md)
@@ -45,7 +45,7 @@ The Labor Party has retained two state seats in by-elections held in Melbourne t
 
 ##### Sea ice
 ### [ Melting sea ice in the Arctic Ocean opens up the Northwest Passage between Europe, Asia and North America. ](/news/2007/09/15/melting-sea-ice-in-the-arctic-ocean-opens-up-the-northwest-passage-between-europe-asia-and-north-america.md)
-_Context: sea ice, Europe, Northwest Passage, Arctic Ocean, North America, Asia_
+_Context: Arctic Ocean, Asia, sea ice, Europe, North America, Northwest Passage_
 
 ##### General Motors
 ### [ Negotiations between General Motors and the United Automobile Workers continue in Detroit, Michigan past the deadline with a strike to start if negotiations fail. ](/news/2007/09/15/negotiations-between-general-motors-and-the-united-automobile-workers-continue-in-detroit-michigan-past-the-deadline-with-a-strike-to-star.md)
@@ -57,11 +57,11 @@ _Context: September 2007 Sumatra earthquakes_
 
 ##### Sri Lanka
 ### [ Nineteen people are killed in Sri Lanka as a result of a roadside bomb and fighting between the Sri Lankan Army and the Tamil Tigers. ](/news/2007/09/15/nineteen-people-are-killed-in-sri-lanka-as-a-result-of-a-roadside-bomb-and-fighting-between-the-sri-lankan-army-and-the-tamil-tigers.md)
-_Context: Tamil Tigers, Sri Lankan Army, Sri Lanka_
+_Context: Sri Lankan Army, Tamil Tigers, Sri Lanka_
 
 ##### Zhao Yan
 ### [ Zhao Yan, a Chinese journalist working for the "New York Times", is released from jail in China after serving a three year sentence for "leaking state secrets". ](/news/2007/09/15/zhao-yan-a-chinese-journalist-working-for-the-new-york-times-is-released-from-jail-in-china-after-serving-a-three-year-sentence-for-le.md)
-_Context: New York Times, jail, Chinese, Zhao Yan_
+_Context: Zhao Yan, jail, New York Times, Chinese_
 
 ## [Previous Day...](/news/2007/09/14/index.md)
 

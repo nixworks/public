@@ -5,7 +5,7 @@ Formats: [HTML](2014/11/2/index.html)  [JSON](2014/11/2/index.json)  [XML](2014/
 
 ##### Sunni
 ### [Over 300 members of the Sunni Albu Nimr tribe are executed by ISIS militants in Anbar Province, western Iraq. ](/news/2014/11/2/over-300-members-of-the-sunni-albu-nimr-tribe-are-executed-by-isis-militants-in-anbar-province-western-iraq.md)
-_Context: Sunni, Albu Nimr, Iraq, Anbar Province, Islamic State of Iraq and Syria_
+_Context: Islamic State of Iraq and Syria, Iraq, Albu Nimr, Sunni, Anbar Province_
 
 ##### Islamist
 ### [The death toll surpasses 200 from fighting between loyalist troops and Islamist militias in Benghazi since an offensive launched by Khalifa Hifter began two weeks ago. ](/news/2014/11/2/the-death-toll-surpasses-200-from-fighting-between-loyalist-troops-and-islamist-militias-in-benghazi-since-an-offensive-launched-by-khalifa.md)
@@ -17,7 +17,7 @@ _Context: a suicide bombing, Lahore, Pakistan_
 
 ##### Abu Sayyaf
 ### [Abu Sayyaf guerillas kill six Philippine Army soldiers outside the town of Basilan. ](/news/2014/11/2/abu-sayyaf-guerillas-kill-six-philippine-army-soldiers-outside-the-town-of-basilan.md)
-_Context: army, Basilan island, guerillas, Abu Sayyaf_
+_Context: Abu Sayyaf, guerillas, army, Basilan island_
 
 ##### Kenyan police
 ### [An assault on a police barracks by suspected members of the Mombasa Republican Council separatist group leaves one officer and six attackers dead in Mombasa, Kenya. ](/news/2014/11/2/an-assault-on-a-police-barracks-by-suspected-members-of-the-mombasa-republican-council-separatist-group-leaves-one-officer-and-six-attackers.md)
@@ -29,11 +29,11 @@ Gaza&#8217;s rulers deny responsibility for Friday&#8217;s attack and say they a
 
 ##### Hit-and-run
 ### [Multiple people are arrested for their alleged involvement with a hit-and-run that killed three 13-year-old trick-or-treaters in Santa Ana, California, U.S. ](/news/2014/11/2/multiple-people-are-arrested-for-their-alleged-involvement-with-a-hit-and-run-that-killed-three-13-year-old-trick-or-treaters-in-santa-ana.md)
-_Context: Santa Ana, trick-or-treat, hit-and-run, California_
+_Context: California, Santa Ana, trick-or-treat, hit-and-run_
 
 ##### Donetsk People's Republic
 ### [Voters in break away "people's republics" (Donetsk People's Republic and Lugansk People's Republic respectively) in Donetsk and Luhansk go to the polls for parliamentary and presidential elections. Rebel leaders Alexander Zakharchenko (Donetsk) and Igor Plotnisky (Luhansk) appear set for victory in early counting in elections which will be recognised in Russia but not elsewhere. International observers noted a very high turnout. ](/news/2014/11/2/voters-in-break-away-people-s-republics-donetsk-people-s-republic-and-lugansk-people-s-republic-respectively-in-donetsk-and-luhansk-go-t.md)
-_Context: Luhansk, Donetsk, Donetsk People's Republic, Russia, Alexander Zakharchenko, parliamentary and presidential elections, Lugansk People's Republic_
+_Context: Lugansk People's Republic, Russia, Alexander Zakharchenko, Donetsk, parliamentary and presidential elections, Luhansk, Donetsk People's Republic_
 
 ## [Previous Day...](/news/2014/11/1/index.md)
 
