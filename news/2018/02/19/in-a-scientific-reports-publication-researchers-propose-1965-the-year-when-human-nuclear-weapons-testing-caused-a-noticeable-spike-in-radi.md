@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/19/in-a-scientific-reports-publication-researchers
 ### [2018-02-19](/news/2018/02/19/index.md)
 
 ##### Scientific Reports
-# In a Scientific Reports publication, researchers propose 1965, the year when human nuclear weapons testing caused a noticeable spike in radiocarbon in the heartwood of a Sitka spruce tree on Campbell Island, New Zealand, as the start of the Anthropocene era. The general scientific community has already been using 1950 as the year when nuclear weapons begun significantly affecting radiocarbon dating. 
+# In a Scientific Reports publication, researchers propose 1965, the year when human nuclear weapons testing caused a noticeable spike in radiocarbon in the heartwood of the world's remotest tree, a Sitka spruce on Campbell Island, New Zealand, as the start of the Anthropocene era. The general scientific community has already been using 1950 as the year "Before Physics", when nuclear weapons began to significantly affect the reliability of radiocarbon dating of events that happen after that epoch. 
 
 The study, led by UCL and University of New South Wales, provides the first precise global signal for the Anthropocene from the Southern Hemisphere.
 
