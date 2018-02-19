@@ -5,11 +5,11 @@ Formats: [HTML](2018/02/17/index.html)  [JSON](2018/02/17/index.json)  [XML](201
 
 ##### 2018 Oaxaca earthquake
 ### [A military helicopter surveying the damage, carrying the Governor of Oaxaca Alejandro Murat Hinojosa and Mexico's Secretary of the Interior Alfonso Navarrete Prida, crashes over Jamiltepec, killing 13 people on the ground. These deaths are the only known ones related to the earthquake reported so far. ](/news/2018/02/17/a-military-helicopter-surveying-the-damage-carrying-the-governor-of-oaxaca-alejandro-murat-hinojosa-and-mexico-s-secretary-of-the-interior.md)
-_Context: 2018 Oaxaca earthquake, Alejandro Murat Hinojosa, Governor of Oaxaca, Mexico's Secretary of the Interior, Jamiltepec, Alfonso Navarrete Prida_
+_Context: Mexico's Secretary of the Interior, Alejandro Murat Hinojosa, Jamiltepec, 2018 Oaxaca earthquake, Alfonso Navarrete Prida, Governor of Oaxaca_
 
 ##### United Kingdom
 ### [A magnitude 4.4 earthquake, the strongest in the United Kingdom for ten years, occurs at Swansea. ](/news/2018/02/17/a-magnitude-4-4-earthquake-the-strongest-in-the-united-kingdom-for-ten-years-occurs-at-swansea.md)
-_Context: Swansea, United Kingdom_
+_Context: United Kingdom, Swansea_
 
 ##### Murder of Zainab Ansari
 ### [An Anti-Terrorism Court in Lahore, Pakistan, sentences Imran Ali to death, for the rape and murder of 7-year-old Zainab Ansari. The victim's family demands Ali's hanging to be conducted in public. ](/news/2018/02/17/an-anti-terrorism-court-in-lahore-pakistan-sentences-imran-ali-to-death-for-the-rape-and-murder-of-7-year-old-zainab-ansari-the-victim-s.md)
