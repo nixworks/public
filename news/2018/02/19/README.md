@@ -5,15 +5,19 @@ Formats: [HTML](2018/02/19/index.html)  [JSON](2018/02/19/index.json)  [XML](201
 
 ##### Syrian Civil War
 ### [Ahead of an expected ground offensive, Syrian Air Force strikes on rebel-held eastern Ghouta, near Damascus, kill at least 44 people, according to the Syrian Observatory for Human Rights. ](/news/2018/02/19/ahead-of-an-expected-ground-offensive-syrian-air-force-strikes-on-rebel-held-eastern-ghouta-near-damascus-kill-at-least-44-people-accord.md)
-_Context: Syrian Air Force, Syrian Observatory for Human Rights, Damascus, Ghouta, Syrian Civil War_
+_Context: Ghouta, Syrian Civil War, Syrian Air Force, Damascus, Syrian Observatory for Human Rights_
 
 ##### 2018 Oaxaca earthquake
 ### [Three days after the previous, stronger earthquake, a 5.9-magnitude possible aftershock strikes again near the coast of Oaxaca and is widely felt across Southern and Central Mexico. No victims are reported so far. ](/news/2018/02/19/three-days-after-the-previous-stronger-earthquake-a-5-9-magnitude-possible-aftershock-strikes-again-near-the-coast-of-oaxaca-and-is-widely.md)
 A magnitude 5.9 earthquake struck southern Mexico early on Monday, sending frightened residents into the streets as seismic alarms echoed across the capital, although there were no immediate reports of damage.
 
+##### Mozambique
+### [A collapse at a garbage dump in Mozambique kills at least 17 people. ](/news/2018/02/19/a-collapse-at-a-garbage-dump-in-mozambique-kills-at-least-17-people.md)
+_Context: Mozambique_
+
 ##### United Kingdom football sexual abuse scandal
 ### [Former coach Barry Bennell is sentenced to 31 years in prison for 50 offences against 12 boys between 1979 and 1990. ](/news/2018/02/19/former-coach-barry-bennell-is-sentenced-to-31-years-in-prison-for-50-offences-against-12-boys-between-1979-and-1990.md)
-_Context: United Kingdom football sexual abuse scandal, Barry Bennell_
+_Context: Barry Bennell, United Kingdom football sexual abuse scandal_
 
 ##### Human impact on the environment
 ### [In a "Scientific Reports" publication, researchers propose 1965 as the start of the Anthropocene era. In that year, human nuclear weapons testing caused a noticeable spike in radiocarbon in the heartwood of the world's remotest tree, a Sitka spruce on Campbell Island, New Zealand. The general scientific community has already been using 1950 as the year "Before Physics", when nuclear weapons began to significantly affect the reliability of radiocarbon dating of events that happen after that epoch. ](/news/2018/02/19/in-a-scientific-reports-publication-researchers-propose-1965-as-the-start-of-the-anthropocene-era-in-that-year-human-nuclear-weapons-te.md)

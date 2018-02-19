@@ -11,7 +11,7 @@ Formats: [HTML](/news/2018/02/19/ahead-of-an-expected-ground-offensive-syrian-ai
 
 ### Sources:
 
-1. [FRANCE 24](http://www.france24.com/en/20180219-syria-bombardment-rebel-enclave-kills-18-civilians)
+1. [France 24](http://www.france24.com/en/20180219-syria-bombardment-rebel-enclave-kills-18-civilians)
 1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/eastern_ghouta_-_m.jpg)
 
 ### Related:
