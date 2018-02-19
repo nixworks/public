@@ -12,7 +12,7 @@ A magnitude 5.9 earthquake struck southern Mexico early on Monday, sending frigh
 _Context: United Kingdom football sexual abuse scandal, Barry Bennell_
 
 ##### Scientific Reports
-### [In a Scientific Reports publication, researchers propose 1965, the year when human nuclear weapons testing caused a noticeable spike in radiocarbon in the heartwood of a Sitka spruce tree on Campbell Island, as the start of the Anthropocene era. ](/news/2018/02/19/in-a-scientific-reports-publication-researchers-propose-1965-the-year-when-human-nuclear-weapons-testing-caused-a-noticeable-spike-in-radi.md)
+### [In a Scientific Reports publication, researchers propose 1965, the year when human nuclear weapons testing caused a noticeable spike in radiocarbon in the heartwood of a Sitka spruce tree on Campbell Island, New Zealand, as the start of the Anthropocene era. The general scientific community has already been using 1950 as the year when nuclear weapons begun significantly affecting radiocarbon dating. ](/news/2018/02/19/in-a-scientific-reports-publication-researchers-propose-1965-the-year-when-human-nuclear-weapons-testing-caused-a-noticeable-spike-in-radi.md)
 The study, led by UCL and University of New South Wales, provides the first precise global signal for the Anthropocene from the Southern Hemisphere.
 
 ##### Opinion
@@ -25,7 +25,7 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ##### Insurgency in the North Caucasus
 ### [A gunman kills five people and wounds several others at a church in Kizlyar, Dagestan, Russia. The suspect is killed in an ensuing shootout with the police. ](/news/2018/02/18/a-gunman-kills-five-people-and-wounds-several-others-at-a-church-in-kizlyar-dagestan-russia-the-suspect-is-killed-in-an-ensuing-shootout.md)
-_Context: Russia, Insurgency in the North Caucasus, Kizlyar, shootout, Dagestan_
+_Context: shootout, Dagestan, Kizlyar, Insurgency in the North Caucasus, Russia_
 
 ##### Iran Aseman Airlines Flight 3704
 ### [An Iran Aseman Airlines ATR 72 commercial aircraft carrying 66 people crashes near the Iranian town of Semirom. The airline reports that there are no survivors. ](/news/2018/02/18/an-iran-aseman-airlines-atr-72-commercial-aircraft-carrying-66-people-crashes-near-the-iranian-town-of-semirom-the-airline-reports-that-the.md)
@@ -41,7 +41,7 @@ Ilmars Rimsevics has been detained after the anti-corruption agency raided his h
 
 ##### Earthquakes in 2018
 ### [A military helicopter surveying the damage, carrying the Governor of Oaxaca Alejandro Murat Hinojosa and Mexico's Secretary of the Interior Alfonso Navarrete Prida, crashes over Jamiltepec, killing 13 people on the ground. These deaths are the only known ones related to the earthquake reported so far. ](/news/2018/02/17/a-military-helicopter-surveying-the-damage-carrying-the-governor-of-oaxaca-alejandro-murat-hinojosa-and-mexico-s-secretary-of-the-interior.md)
-_Context: Governor of Oaxaca, Alfonso Navarrete Prida, 2018 Oaxaca earthquake, Jamiltepec, Alejandro Murat Hinojosa, Earthquakes in 2018, Mexico's Secretary of the Interior_
+_Context: Earthquakes in 2018, Alejandro Murat Hinojosa, 2018 Oaxaca earthquake, Alfonso Navarrete Prida, Jamiltepec, Mexico's Secretary of the Interior, Governor of Oaxaca_
 
 ##### Murder of Zainab Ansari
 ### [An Anti-Terrorism Court in Lahore, Pakistan, sentences Imran Ali to death, for the rape and murder of 7-year-old Zainab Ansari. The victim's family demands Ali's hanging to be conducted in public. ](/news/2018/02/17/an-anti-terrorism-court-in-lahore-pakistan-sentences-imran-ali-to-death-for-the-rape-and-murder-of-7-year-old-zainab-ansari-the-victim-s.md)
