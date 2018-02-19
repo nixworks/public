@@ -4,8 +4,8 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ## [News](/news/2018/02/18/index.md)
 
 ##### Kizlyar
-### [A gunman shoots dead five people and wounds several others at a church in Kizlyar, Dagestan, Russia. The suspect is killed in an ensuing shootout with police. ](/news/2018/02/18/a-gunman-shoots-dead-five-people-and-wounds-several-others-at-a-church-in-kizlyar-dagestan-russia-the-suspect-is-killed-in-an-ensuing-sho.md)
-_Context: shootout, Dagestan, Russia, Kizlyar_
+### [A gunman kills five people and wounds several others at a church in Kizlyar, Dagestan, Russia. The suspect is killed in an ensuing shootout with police. ](/news/2018/02/18/a-gunman-kills-five-people-and-wounds-several-others-at-a-church-in-kizlyar-dagestan-russia-the-suspect-is-killed-in-an-ensuing-shootout.md)
+_Context: shootout, Dagestan, Kizlyar, Russia_
 
 ##### Iran Aseman Airlines Flight 3704
 ### [An Iran Aseman Airlines ATR 72 commercial aircraft carrying 66 people crashes near the Iranian town of Semirom. The airline reports that there are no survivors. ](/news/2018/02/18/an-iran-aseman-airlines-atr-72-commercial-aircraft-carrying-66-people-crashes-near-the-iranian-town-of-semirom-the-airline-reports-that-the.md)
@@ -25,11 +25,11 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ##### 2018 Oaxaca earthquake
 ### [A military helicopter surveying the damage, carrying the Governor of Oaxaca Alejandro Murat Hinojosa and Mexico's Secretary of the Interior Alfonso Navarrete Prida, crashes over Jamiltepec, killing 13 people on the ground. These deaths are the only known ones related to the earthquake reported so far. ](/news/2018/02/17/a-military-helicopter-surveying-the-damage-carrying-the-governor-of-oaxaca-alejandro-murat-hinojosa-and-mexico-s-secretary-of-the-interior.md)
-_Context: Alfonso Navarrete Prida, Alejandro Murat Hinojosa, Mexico's Secretary of the Interior, 2018 Oaxaca earthquake, Jamiltepec, Governor of Oaxaca_
+_Context: Jamiltepec, 2018 Oaxaca earthquake, Mexico's Secretary of the Interior, Alejandro Murat Hinojosa, Alfonso Navarrete Prida, Governor of Oaxaca_
 
 ##### United Kingdom
 ### [A magnitude 4.4 earthquake, the strongest in the United Kingdom for ten years, occurs at Swansea. ](/news/2018/02/17/a-magnitude-4-4-earthquake-the-strongest-in-the-united-kingdom-for-ten-years-occurs-at-swansea.md)
-_Context: Swansea, United Kingdom_
+_Context: United Kingdom, Swansea_
 
 ##### Murder of Zainab Ansari
 ### [An Anti-Terrorism Court in Lahore, Pakistan, sentences Imran Ali to death, for the rape and murder of 7-year-old Zainab Ansari. The victim's family demands Ali's hanging to be conducted in public. ](/news/2018/02/17/an-anti-terrorism-court-in-lahore-pakistan-sentences-imran-ali-to-death-for-the-rape-and-murder-of-7-year-old-zainab-ansari-the-victim-s.md)
@@ -49,7 +49,7 @@ Bombers leave dozens wounded at crowded fish market in Konduga, just outside Mai
 
 ##### 2018 Oaxaca earthquake
 ### [A magnitude 7.2 earthquake strikes near the town of Pinotepa Nacional and is widely felt across Southern and Central Mexico, causing material damages in the states of Guerrero, Oaxaca and Mexico City. It is followed by a 5.8-magnitude aftershock. ](/news/2018/02/16/a-magnitude-7-2-earthquake-strikes-near-the-town-of-pinotepa-nacional-and-is-widely-felt-across-southern-and-central-mexico-causing-materia.md)
-_Context: Guerrero, 2018 Oaxaca earthquake, aftershock, Mexico, Oaxaca, Mexico City, Pinotepa Nacional_
+_Context: Mexico, Pinotepa Nacional, Guerrero, Mexico City, aftershock, 2018 Oaxaca earthquake, Oaxaca_
 
 ##### Crime in Washington
 ### [A teenager is arrested for allegedly planning a school shooting in Everett, Washington. Police found a semi-automatic rifle hidden in a guitar case along with bomb making equipment. ](/news/2018/02/16/a-teenager-is-arrested-for-allegedly-planning-a-school-shooting-in-everett-washington-police-found-a-semi-automatic-rifle-hidden-in-a-guit.md)
@@ -57,7 +57,7 @@ _Context: school shooting, Everett, Washington, Crime in Washington_
 
 ##### War on Terror
 ### [The Court of Appeal in Rabat, Morocco, acquits Younes Chekkouri of undermining the security of the state. Chekkouri was detained in Guantanamo Bay detention camp for 14 years without charges. ](/news/2018/02/16/the-court-of-appeal-in-rabat-morocco-acquits-younes-chekkouri-of-undermining-the-security-of-the-state-chekkouri-was-detained-in-guantana.md)
-_Context: Rabat, Guantanamo Bay detention camp, Morocco, War on Terror_
+_Context: Guantanamo Bay detention camp, War on Terror, Rabat, Morocco_
 
 ##### 2016 Turkish coup d'etat attempt
 ### [A court in Turkey hands life sentences to six journalists, including Ahmet Altan, Mehmet Altan and Nazli Ilicak. ](/news/2018/02/16/a-court-in-turkey-hands-life-sentences-to-six-journalists-including-ahmet-altan-mehmet-altan-and-nazla-ila-cak.md)
@@ -73,7 +73,7 @@ The move is aimed at stemming a wave of anti-government protests, state media re
 
 ##### Rohingya refugees in Bangladesh
 ### [Bangladeshi home minister Asaduzzaman Khan meets with his Burmese counterpart, Kyaw Swe, in Dhaka to discuss the repatriation of Rohingya refugees from Bangladesh to Myanmar. The Burmese delegation accepts a list of 8,032 Rohingya refugees (1,673 families) who are to be repatriated. ](/news/2018/02/16/bangladeshi-home-minister-asaduzzaman-khan-meets-with-his-burmese-counterpart-kyaw-swe-in-dhaka-to-discuss-the-repatriation-of-rohingya-re.md)
-_Context: repatriation, Bangladesh, Asaduzzaman Khan, Rohingya refugees in Bangladesh, Myanmar, Rohingya, Dhaka_
+_Context: Asaduzzaman Khan, Bangladesh, Myanmar, Dhaka, repatriation, Rohingya refugees in Bangladesh, Rohingya_
 
 ---
 
