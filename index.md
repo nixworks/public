@@ -7,6 +7,14 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [Three days after the previous, stronger earthquake, a 5.9-magnitude possible aftershock strikes again near the coast of Oaxaca and is widely felt across Southern and Central Mexico. No victims are reported so far. ](/news/2018/02/19/three-days-after-the-previous-stronger-earthquake-a-5-9-magnitude-possible-aftershock-strikes-again-near-the-coast-of-oaxaca-and-is-widely.md)
 A magnitude 5.9 earthquake struck southern Mexico early on Monday, sending frightened residents into the streets as seismic alarms echoed across the capital, although there were no immediate reports of damage.
 
+##### United Kingdom football sexual abuse scandal
+### [Former coach Barry Bennell is sentenced to 31 years in prison for 50 offences against 12 boys between 1979 and 1990. ](/news/2018/02/19/former-coach-barry-bennell-is-sentenced-to-31-years-in-prison-for-50-offences-against-12-boys-between-1979-and-1990.md)
+_Context: United Kingdom football sexual abuse scandal, Barry Bennell_
+
+##### Scientific Reports
+### [In a Scientific Reports publication, researchers propose 1965, the year when human nuclear weapons testing caused a noticeable spike in radiocarbon in the heartwood of a Sitka spruce tree on Campbell Island, as the start of the Anthropocene era. ](/news/2018/02/19/in-a-scientific-reports-publication-researchers-propose-1965-the-year-when-human-nuclear-weapons-testing-caused-a-noticeable-spike-in-radi.md)
+The study, led by UCL and University of New South Wales, provides the first precise global signal for the Anthropocene from the Southern Hemisphere.
+
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
@@ -16,8 +24,8 @@ Most of the daily information we see on the mainstream media today is the news e
 ## [Yesterday](/news/2018/02/18/index.md)
 
 ##### Insurgency in the North Caucasus
-### [A gunman kills five people and wounds several others at a church in Kizlyar, Dagestan, Russia. The suspect is killed in an ensuing shootout with police. ](/news/2018/02/18/a-gunman-kills-five-people-and-wounds-several-others-at-a-church-in-kizlyar-dagestan-russia-the-suspect-is-killed-in-an-ensuing-shootout.md)
-_Context: Dagestan, shootout, Insurgency in the North Caucasus, Kizlyar, Russia_
+### [A gunman kills five people and wounds several others at a church in Kizlyar, Dagestan, Russia. The suspect is killed in an ensuing shootout with the police. ](/news/2018/02/18/a-gunman-kills-five-people-and-wounds-several-others-at-a-church-in-kizlyar-dagestan-russia-the-suspect-is-killed-in-an-ensuing-shootout.md)
+_Context: Russia, Insurgency in the North Caucasus, Kizlyar, shootout, Dagestan_
 
 ##### Iran Aseman Airlines Flight 3704
 ### [An Iran Aseman Airlines ATR 72 commercial aircraft carrying 66 people crashes near the Iranian town of Semirom. The airline reports that there are no survivors. ](/news/2018/02/18/an-iran-aseman-airlines-atr-72-commercial-aircraft-carrying-66-people-crashes-near-the-iranian-town-of-semirom-the-airline-reports-that-the.md)
@@ -33,7 +41,7 @@ Ilmars Rimsevics has been detained after the anti-corruption agency raided his h
 
 ##### Earthquakes in 2018
 ### [A military helicopter surveying the damage, carrying the Governor of Oaxaca Alejandro Murat Hinojosa and Mexico's Secretary of the Interior Alfonso Navarrete Prida, crashes over Jamiltepec, killing 13 people on the ground. These deaths are the only known ones related to the earthquake reported so far. ](/news/2018/02/17/a-military-helicopter-surveying-the-damage-carrying-the-governor-of-oaxaca-alejandro-murat-hinojosa-and-mexico-s-secretary-of-the-interior.md)
-_Context: Alejandro Murat Hinojosa, Governor of Oaxaca, Earthquakes in 2018, Jamiltepec, 2018 Oaxaca earthquake, Mexico's Secretary of the Interior, Alfonso Navarrete Prida_
+_Context: Governor of Oaxaca, Alfonso Navarrete Prida, 2018 Oaxaca earthquake, Jamiltepec, Alejandro Murat Hinojosa, Earthquakes in 2018, Mexico's Secretary of the Interior_
 
 ##### Murder of Zainab Ansari
 ### [An Anti-Terrorism Court in Lahore, Pakistan, sentences Imran Ali to death, for the rape and murder of 7-year-old Zainab Ansari. The victim's family demands Ali's hanging to be conducted in public. ](/news/2018/02/17/an-anti-terrorism-court-in-lahore-pakistan-sentences-imran-ali-to-death-for-the-rape-and-murder-of-7-year-old-zainab-ansari-the-victim-s.md)

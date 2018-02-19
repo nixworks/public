@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/18/a-gunman-kills-five-people-and-wounds-several-o
 ### [2018-02-18](/news/2018/02/18/index.md)
 
 ##### Insurgency in the North Caucasus
-# A gunman kills five people and wounds several others at a church in Kizlyar, Dagestan, Russia. The suspect is killed in an ensuing shootout with police. 
+# A gunman kills five people and wounds several others at a church in Kizlyar, Dagestan, Russia. The suspect is killed in an ensuing shootout with the police. 
 
 
 
@@ -20,7 +20,7 @@ Formats: [HTML](/news/2018/02/18/a-gunman-kills-five-people-and-wounds-several-o
 2. [A gunman shoots dead four people and wounds several others at a church in Kizlyar, Dagestan, Russia. The suspect is killed in a gun battle with police. ](/news/2018/02/18/a-gunman-shoots-dead-four-people-and-wounds-several-others-at-a-church-in-kizlyar-dagestan-russia-the-suspect-is-killed-in-a-gun-battle-w.md) _2018-02-19 04:21:12 (Update)_
 3. [A gunman shoots dead four people and wounds several others at a church in Kizlyar, Dagestan, Russia. The suspect is killed in an ensuing shootout with police. ](/news/2018/02/18/a-gunman-shoots-dead-four-people-and-wounds-several-others-at-a-church-in-kizlyar-dagestan-russia-the-suspect-is-killed-in-an-ensuing-sho.md) _2018-02-19 07:30:08 (Update)_
 4. [A gunman shoots dead five people and wounds several others at a church in Kizlyar, Dagestan, Russia. The suspect is killed in an ensuing shootout with police. ](/news/2018/02/18/a-gunman-shoots-dead-five-people-and-wounds-several-others-at-a-church-in-kizlyar-dagestan-russia-the-suspect-is-killed-in-an-ensuing-sho.md) _2018-02-19 08:30:08 (Update)_
-4. [A gunman kills five people and wounds several others at a church in Kizlyar, Dagestan, Russia. The suspect is killed in an ensuing shootout with police. ](/news/2018/02/18/a-gunman-kills-five-people-and-wounds-several-others-at-a-church-in-kizlyar-dagestan-russia-the-suspect-is-killed-in-an-ensuing-shootout.md) _(Current version)_
+4. [A gunman kills five people and wounds several others at a church in Kizlyar, Dagestan, Russia. The suspect is killed in an ensuing shootout with the police. ](/news/2018/02/18/a-gunman-kills-five-people-and-wounds-several-others-at-a-church-in-kizlyar-dagestan-russia-the-suspect-is-killed-in-an-ensuing-shootout.md) _(Current version)_
 
 ### Related:
 
