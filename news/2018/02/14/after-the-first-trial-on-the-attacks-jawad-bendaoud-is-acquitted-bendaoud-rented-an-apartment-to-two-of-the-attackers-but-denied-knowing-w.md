@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/14/after-the-first-trial-on-the-attacks-jawad-bend
 ### [2018-02-14](/news/2018/02/14/index.md)
 
 ##### November 2015 Paris attacks
-# After the first trial on the attacks, Jawad Bendaoud is acquitted. Bendaoud rented an apartment to two of the attackers but denied knowing what they planned. Mohamed Soumah is sentenced to five years for acting as an intermediary, Youssef Ait-Boulahcen to 3 years in jail for failing to inform authorities. 
+# After the first trial on the attacks, Jawad Bendaoud is acquitted. Bendaoud rented an apartment to two of the attackers but denied knowing what they planned. Mohamed Soumah is sentenced to five years in jail for acting as an intermediary, and Youssef Ait-Boulahcen to three years for failing to inform authorities. 
 
 A French court on Wednesday jailed two men in the first trial stemming from the 2015 Islamic State attacks in Paris in which jihadists massacred 130 people.
 
@@ -17,7 +17,7 @@ A French court on Wednesday jailed two men in the first trial stemming from the 
 ### Changes:
 
 1. [After the first trial on the attacks, Jawad Bendaoud is acquitted. Bendaoud rented an appartment to two of the attackers but denied knowing what they planned. Mohamed Soumah is sentenced to 5 years for acting as an intermediary, Youssef Ait-Boulahcen to 3 years in jail for failing to inform authorities. ](/news/2018/02/14/after-the-first-trial-on-the-attacks-jawad-bendaoud-is-acquitted-bendaoud-rented-an-appartment-to-two-of-the-attackers-but-denied-knowing.md) _2018-02-14 19:30:21 (First version)_
-1. [After the first trial on the attacks, Jawad Bendaoud is acquitted. Bendaoud rented an apartment to two of the attackers but denied knowing what they planned. Mohamed Soumah is sentenced to five years for acting as an intermediary, Youssef Ait-Boulahcen to 3 years in jail for failing to inform authorities. ](/news/2018/02/14/after-the-first-trial-on-the-attacks-jawad-bendaoud-is-acquitted-bendaoud-rented-an-apartment-to-two-of-the-attackers-but-denied-knowing-w.md) _(Current version)_
+1. [After the first trial on the attacks, Jawad Bendaoud is acquitted. Bendaoud rented an apartment to two of the attackers but denied knowing what they planned. Mohamed Soumah is sentenced to five years in jail for acting as an intermediary, and Youssef Ait-Boulahcen to three years for failing to inform authorities. ](/news/2018/02/14/after-the-first-trial-on-the-attacks-jawad-bendaoud-is-acquitted-bendaoud-rented-an-apartment-to-two-of-the-attackers-but-denied-knowing-w.md) _(Current version)_
 
 ### Related:
 

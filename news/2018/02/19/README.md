@@ -5,7 +5,7 @@ Formats: [HTML](2018/02/19/index.html)  [JSON](2018/02/19/index.json)  [XML](201
 
 ##### Syrian Civil War
 ### [Ahead of an expected ground offensive, Syrian Air Force strikes on rebel-held eastern Ghouta, near Damascus, kill at least 44 people, according to the Syrian Observatory for Human Rights. ](/news/2018/02/19/ahead-of-an-expected-ground-offensive-syrian-air-force-strikes-on-rebel-held-eastern-ghouta-near-damascus-kill-at-least-44-people-accord.md)
-_Context: Syrian Civil War, Syrian Air Force, Ghouta, Syrian Observatory for Human Rights, Damascus_
+_Context: Syrian Air Force, Syrian Observatory for Human Rights, Damascus, Ghouta, Syrian Civil War_
 
 ##### 2018 Oaxaca earthquake
 ### [Three days after the previous, stronger earthquake, a 5.9-magnitude possible aftershock strikes again near the coast of Oaxaca and is widely felt across Southern and Central Mexico. No victims are reported so far. ](/news/2018/02/19/three-days-after-the-previous-stronger-earthquake-a-5-9-magnitude-possible-aftershock-strikes-again-near-the-coast-of-oaxaca-and-is-widely.md)
@@ -16,7 +16,7 @@ A magnitude 5.9 earthquake struck southern Mexico early on Monday, sending frigh
 _Context: United Kingdom football sexual abuse scandal, Barry Bennell_
 
 ##### Human impact on the environment
-### [In a "Scientific Reports" publication, researchers propose 1965 as the start of the Anthropocene era. In that year, human nuclear weapons testing caused a noticeable spike in radiocarbon in the heartwood of the world's remotest tree, a Sitka spruce on Campbell Island, New Zealand- The general scientific community has already been using 1950 as the year "Before Physics", when nuclear weapons began to significantly affect the reliability of radiocarbon dating of events that happen after that epoch. ](/news/2018/02/19/in-a-scientific-reports-publication-researchers-propose-1965-as-the-start-of-the-anthropocene-era-in-that-year-human-nuclear-weapons-te.md)
+### [In a "Scientific Reports" publication, researchers propose 1965 as the start of the Anthropocene era. In that year, human nuclear weapons testing caused a noticeable spike in radiocarbon in the heartwood of the world's remotest tree, a Sitka spruce on Campbell Island, New Zealand. The general scientific community has already been using 1950 as the year "Before Physics", when nuclear weapons began to significantly affect the reliability of radiocarbon dating of events that happen after that epoch. ](/news/2018/02/19/in-a-scientific-reports-publication-researchers-propose-1965-as-the-start-of-the-anthropocene-era-in-that-year-human-nuclear-weapons-te.md)
 The study, led by UCL and University of New South Wales, provides the first precise global signal for the Anthropocene from the Southern Hemisphere.
 
 ## [Previous Day...](/news/2018/02/18/index.md)

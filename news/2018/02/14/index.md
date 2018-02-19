@@ -4,7 +4,7 @@ Formats: [HTML](2018/02/14/index.html)  [JSON](2018/02/14/index.json)  [XML](201
 ## [2018-02-14](/news/2018/02/14/index.md)
 
 ##### Syrian Civil War
-### [Russian aircraft carry out airstrikes in in Ma'arrat Hurma village in Syria's northwestern Idlib province, killing seven civilians and injuring 10 others, mostly women and children. ](/news/2018/02/14/russian-aircraft-carry-out-airstrikes-in-in-ma-arrat-hurma-village-in-syria-s-northwestern-idlib-province-killing-seven-civilians-and-injur.md)
+### [Russian aircraft carry out airstrikes in Ma'arrat Hurma village in Idlib, Syria, killing seven civilians and injuring 10 others. ](/news/2018/02/14/russian-aircraft-carry-out-airstrikes-in-ma-arrat-hurma-village-in-idlib-syria-killing-seven-civilians-and-injuring-10-others.md)
 There are concerns that the number of deaths could rise as the condition of some wounded civilians were critical
 
 ##### Economy of the European Union
@@ -16,8 +16,8 @@ BRUSSELS: Eurozone industrial production jumped more than expected in December, 
 NSA said situation is &quot;under control&quot;
 
 ##### Stoneman Douglas High School shooting
-### [A former student, 19-year-old Nikolas Cruz, shoots and kills 17 people (14 of which were teenagers) and leaves 15 others wounded in a shooting at a high school in Parkland, Florida. This is the deadliest high school shooting in U.S. history. ](/news/2018/02/14/a-former-student-19-year-old-nikolas-cruz-shoots-and-kills-17-people-14-of-which-were-teenagers-and-leaves-15-others-wounded-in-a-shooti.md)
-_Context: Stoneman Douglas High School shooting, Parkland, deadliest high school shooting, school shooting, Florida, U.S. history, high school_
+### [A shooting at a high school in Parkland, Florida, leaves 17 people dead (14 of which were teenagers), and 15 others wounded. The suspect is apprehended and identified as 19-year-old former student Nikolas Crus. This is the deadliest high school shooting in U.S. history. ](/news/2018/02/14/a-shooting-at-a-high-school-in-parkland-florida-leaves-17-people-dead-14-of-which-were-teenagers-and-15-others-wounded-the-suspect-is.md)
+_Context: Parkland, deadliest high school shooting, high school, Florida, school shooting, U.S. history, Stoneman Douglas High School shooting_
 
 ##### Crime in South Africa
 ### [The residence of the Gupta family is raided by the South African Police Service's elite Hawks unit and three people are arrested. ](/news/2018/02/14/the-residence-of-the-gupta-family-is-raided-by-the-south-african-police-service-s-elite-hawks-unit-and-three-people-are-arrested.md)
@@ -32,7 +32,7 @@ President Trump&rsquo;s longtime personal lawyer Michael Cohen has acknowledged 
 Pakistan has banned two charities linked to Islamist leader Hafiz Saeed, an official said on Wednesday, in a move against the U.N.-designated &quot;terrorist&quot; who the United States says was behind an attack on Mumbai in 2008 that killed 166 people.
 
 ##### November 2015 Paris attacks
-### [After the first trial on the attacks, Jawad Bendaoud is acquitted. Bendaoud rented an apartment to two of the attackers but denied knowing what they planned. Mohamed Soumah is sentenced to five years for acting as an intermediary, Youssef Ait-Boulahcen to 3 years in jail for failing to inform authorities. ](/news/2018/02/14/after-the-first-trial-on-the-attacks-jawad-bendaoud-is-acquitted-bendaoud-rented-an-apartment-to-two-of-the-attackers-but-denied-knowing-w.md)
+### [After the first trial on the attacks, Jawad Bendaoud is acquitted. Bendaoud rented an apartment to two of the attackers but denied knowing what they planned. Mohamed Soumah is sentenced to five years in jail for acting as an intermediary, and Youssef Ait-Boulahcen to three years for failing to inform authorities. ](/news/2018/02/14/after-the-first-trial-on-the-attacks-jawad-bendaoud-is-acquitted-bendaoud-rented-an-apartment-to-two-of-the-attackers-but-denied-knowing-w.md)
 A French court on Wednesday jailed two men in the first trial stemming from the 2015 Islamic State attacks in Paris in which jihadists massacred 130 people.
 
 ##### Disappearance of Maelys de Araujo
@@ -41,7 +41,7 @@ French police have found the remains of an eight-year-old French girl who vanish
 
 ##### Ukrainian crisis
 ### [Mikheil Saakashvili, leader of the opposition Movement of New Forces party, who was deported from Ukraine to Poland, relocates to the Netherlands. ](/news/2018/02/14/mikheil-saakashvili-leader-of-the-opposition-movement-of-new-forces-party-who-was-deported-from-ukraine-to-poland-relocates-to-the-nether.md)
-_Context: Movement of New Forces, Poland, Netherlands, Mikheil Saakashvili, Ukrainian crisis, Ukraine_
+_Context: Ukrainian crisis, Mikheil Saakashvili, Poland, Ukraine, Netherlands, Movement of New Forces_
 
 ##### Politics of South Africa
 ### [Jacob Zuma resigns as President of South Africa effective immediately, following an ultimatum issued the day prior by African National Congress that ordered Zuma to step down as head of state or face a vote of no confidence by the South African Parliament to remove him from power within 48 hours of the declaration. Cyril Ramaphosa takes over as Acting President. ](/news/2018/02/14/jacob-zuma-resigns-as-president-of-south-africa-effective-immediately-following-an-ultimatum-issued-the-day-prior-by-african-national-congr.md)
