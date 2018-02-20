@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/20/iranian-forces-have-spotted-the-wreckage-of-the
 ### [2018-02-20](/news/2018/02/20/index.md)
 
 ##### Iran Aseman Airlines Flight 3704
-# Iranian forces have spotted the wreckage of the missing Aseman Airliner 30 meters below a hilltop on mount Dena. Helicopters could not land yet at the crash site due to weather and topographical conditions. 66 people are feared dead. 
+# Iranian forces have spotted the wreckage of the missing Aseman Airliner 30 meters below a hilltop on mount Dena. Helicopters could not land yet at the crash site due to weather and topographical conditions. 65 people are feared dead. 
 
 IRGC helicopters have located the&#160;wreckage of a missing Aseman Airliner that crashed with 66 people on board on Sunday.
 
