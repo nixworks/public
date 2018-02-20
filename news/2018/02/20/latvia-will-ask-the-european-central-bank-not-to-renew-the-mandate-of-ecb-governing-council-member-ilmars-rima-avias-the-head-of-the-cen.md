@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/20/latvia-will-ask-the-european-central-bank-not-t
 ### [2018-02-20](/news/2018/02/20/index.md)
 
 ##### Latvia
-# Latvia will ask the European Central Bank not to renew the mandate of ECB Governing Council member Ilmars Rimsevics, the head of the central Bank of Latvia since 2001, amid an ECB payment moratorium and an U.S. graft investigation into Latvia's third-largest bank, ABLV. On 19 January, Rimsevics was released on bail. 
+# Latvia will ask the European Central Bank not to renew the mandate of ECB Governing Council member Ilmars Rimsevics, the head of the central Bank of Latvia since 2001, amid an ECB payment moratorium and an U.S. graft investigation into Latvia's third-largest lender, ABLV. On 19 January, Rimsevics was released on bail. 
 
 Latvia will seek to prevent European Central Bank Governing Council member Ilmars Rimsevics from returning to his post after he was caught up in a bribery probe that’s rocked the Baltic nation, the country’s prime minister said in an interview.
 

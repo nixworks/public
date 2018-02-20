@@ -8,7 +8,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 Heavy flooding, strong winds, storm surges and power outages across the country.
 
 ##### Latvia
-### [Latvia will ask the European Central Bank not to renew the mandate of ECB Governing Council member Ilmars Rimsevics, the head of the central Bank of Latvia since 2001, amid an ECB payment moratorium and an U.S. graft investigation into Latvia's third-largest bank, ABLV. On 19 January, Rimsevics was released on bail. ](/news/2018/02/20/latvia-will-ask-the-european-central-bank-not-to-renew-the-mandate-of-ecb-governing-council-member-ilmars-rima-avias-the-head-of-the-cen.md)
+### [Latvia will ask the European Central Bank not to renew the mandate of ECB Governing Council member Ilmars Rimsevics, the head of the central Bank of Latvia since 2001, amid an ECB payment moratorium and an U.S. graft investigation into Latvia's third-largest lender, ABLV. On 19 January, Rimsevics was released on bail. ](/news/2018/02/20/latvia-will-ask-the-european-central-bank-not-to-renew-the-mandate-of-ecb-governing-council-member-ilmars-rima-avias-the-head-of-the-cen.md)
 Latvia will seek to prevent European Central Bank Governing Council member Ilmars Rimsevics from returning to his post after he was caught up in a bribery probe that’s rocked the Baltic nation, the country’s prime minister said in an interview.
 
 ##### Opinion
@@ -21,7 +21,11 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ##### Syrian Civil War
 ### [Ahead of an expected ground offensive, Syrian Air Force strikes on rebel-held eastern Ghouta, near Damascus, kill at least 44 people, according to the Syrian Observatory for Human Rights. ](/news/2018/02/19/ahead-of-an-expected-ground-offensive-syrian-air-force-strikes-on-rebel-held-eastern-ghouta-near-damascus-kill-at-least-44-people-accord.md)
-_Context: Syrian Observatory for Human Rights, Syrian Air Force, Syrian Civil War, Damascus, Ghouta_
+_Context: Syrian Civil War, Damascus, Syrian Air Force, Ghouta, Syrian Observatory for Human Rights_
+
+##### Tim Hortons
+### [Three people are injured in a stabbing at a Tim Hortons in Montreal. Motive of the attacker is unknown. ](/news/2018/02/19/three-people-are-injured-in-a-stabbing-at-a-tim-hortons-in-montreal-motive-of-the-attacker-is-unknown.md)
+Police say three people were stabbed Monday afternoon in an attack outside a Tim Hortons restaurant on Ste. Catherine St. and Beaudry.
 
 ##### 2018 Oaxaca earthquake
 ### [Three days after the previous, stronger earthquake, a 5.9-magnitude possible aftershock strikes again near the coast of Oaxaca and is widely felt across Southern and Central Mexico. No victims are reported so far. ](/news/2018/02/19/three-days-after-the-previous-stronger-earthquake-a-5-9-magnitude-possible-aftershock-strikes-again-near-the-coast-of-oaxaca-and-is-widely.md)
@@ -33,7 +37,7 @@ _Context: Mozambique_
 
 ##### Mount Sinabung
 ### [Mount Sinabung in Sumatra, Indonesia erupts. There are no reports of injuries or fatalities. ](/news/2018/02/19/mount-sinabung-in-sumatra-indonesia-erupts-there-are-no-reports-of-injuries-or-fatalities.md)
-_Context: Indonesia, Mount Sinabung, Sumatra_
+_Context: Mount Sinabung, Sumatra, Indonesia_
 
 ##### United Kingdom football sexual abuse scandal
 ### [Former coach Barry Bennell is sentenced to 31 years in prison for 50 offences against 12 boys between 1979 and 1990. ](/news/2018/02/19/former-coach-barry-bennell-is-sentenced-to-31-years-in-prison-for-50-offences-against-12-boys-between-1979-and-1990.md)
@@ -48,7 +52,7 @@ Cambridge graduate blackmailed victims over dark web and encouraged rape of chil
 Euro zone finance ministers will choose Spanish Economy Minister Luis de Guindos to succeed European Central Bank Vice President Vitor Constancio in May.
 
 ##### Human impact on the environment
-### [In a "Scientific Reports" publication, researchers propose 1965 as the start of the Anthropocene era. In that year, human nuclear weapons testing caused a noticeable spike in radiocarbon in the heartwood of the world's remotest tree, a Sitka spruce on Campbell Island, New Zealand. The general scientific community has already been using 1950 as the year "Before Physics", when nuclear weapons began to significantly affect the reliability of radiocarbon dating of events that happen after that epoch. ](/news/2018/02/19/in-a-scientific-reports-publication-researchers-propose-1965-as-the-start-of-the-anthropocene-era-in-that-year-human-nuclear-weapons-te.md)
+### [In a "Scientific Reports" publication, researchers propose 1965 as the start of the Anthropocene era. In that year, human nuclear weapons testing caused a noticeable spike in radiocarbon in the heartwood of the world's remotest tree, a Sitka spruce on Campbell Island, New Zealand. The general scientific community has already been using 1950 as the year "Before Present", when nuclear weapons began to significantly affect the reliability of radiocarbon dating of objects whose organic matter content formed after that epoch. ](/news/2018/02/19/in-a-scientific-reports-publication-researchers-propose-1965-as-the-start-of-the-anthropocene-era-in-that-year-human-nuclear-weapons-te.md)
 The study, led by UCL and University of New South Wales, provides the first precise global signal for the Anthropocene from the Southern Hemisphere.
 
 ---
@@ -57,7 +61,7 @@ The study, led by UCL and University of New South Wales, provides the first prec
 
 ##### Kizlyar church shooting
 ### [A gunman kills five people and wounds several others at a church in Kizlyar, Dagestan, Russia. He is killed in an ensuing shootout with the police. ](/news/2018/02/18/a-gunman-kills-five-people-and-wounds-several-others-at-a-church-in-kizlyar-dagestan-russia-he-is-killed-in-an-ensuing-shootout-with-the.md)
-_Context: shootout, Russia, Kizlyar church shooting, Dagestan, Kizlyar_
+_Context: Kizlyar church shooting, Russia, Dagestan, Kizlyar, shootout_
 
 ##### Iran Aseman Airlines Flight 3704
 ### [An Iran Aseman Airlines ATR 72 commercial aircraft carrying 59 passengers and 6 crew members crashes near the Iranian town of Semirom. The airline reports that there are no survivors. ](/news/2018/02/18/an-iran-aseman-airlines-atr-72-commercial-aircraft-carrying-59-passengers-and-6-crew-members-crashes-near-the-iranian-town-of-semirom-the-a.md)
