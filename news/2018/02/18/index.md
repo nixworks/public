@@ -5,7 +5,7 @@ Formats: [HTML](2018/02/18/index.html)  [JSON](2018/02/18/index.json)  [XML](201
 
 ##### Kizlyar church shooting
 ### [A gunman kills five people and wounds several others at a church in Kizlyar, Dagestan, Russia. He is killed in an ensuing shootout with the police. ](/news/2018/02/18/a-gunman-kills-five-people-and-wounds-several-others-at-a-church-in-kizlyar-dagestan-russia-he-is-killed-in-an-ensuing-shootout-with-the.md)
-_Context: shootout, Kizlyar church shooting, Russia, Dagestan, Kizlyar_
+_Context: Kizlyar, shootout, Dagestan, Kizlyar church shooting, Russia_
 
 ##### Iran Aseman Airlines Flight 3704
 ### [An Iran Aseman Airlines ATR 72 commercial aircraft carrying 59 passengers and 6 crew members crashes near the Iranian town of Semirom. The airline reports that there are no survivors. ](/news/2018/02/18/an-iran-aseman-airlines-atr-72-commercial-aircraft-carrying-59-passengers-and-6-crew-members-crashes-near-the-iranian-town-of-semirom-the-a.md)

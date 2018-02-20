@@ -5,7 +5,7 @@ Formats: [HTML](2018/02/19/index.html)  [JSON](2018/02/19/index.json)  [XML](201
 
 ##### Syrian Civil War
 ### [Ahead of an expected ground offensive, Syrian Air Force strikes on rebel-held eastern Ghouta, near Damascus, kill at least 44 people, according to the Syrian Observatory for Human Rights. ](/news/2018/02/19/ahead-of-an-expected-ground-offensive-syrian-air-force-strikes-on-rebel-held-eastern-ghouta-near-damascus-kill-at-least-44-people-accord.md)
-_Context: Ghouta, Syrian Air Force, Syrian Civil War, Damascus, Syrian Observatory for Human Rights_
+_Context: Syrian Observatory for Human Rights, Syrian Air Force, Syrian Civil War, Ghouta, Damascus_
 
 ##### Tim Hortons
 ### [Three people are injured in a stabbing at a Tim Hortons in Montreal. Motive of the attacker is unknown. ](/news/2018/02/19/three-people-are-injured-in-a-stabbing-at-a-tim-hortons-in-montreal-motive-of-the-attacker-is-unknown.md)
