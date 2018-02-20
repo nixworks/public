@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/02/19/spanish-minister-of-economy-and-competitiveness
 
 ### [2018-02-19](/news/2018/02/19/index.md)
 
-##### Spanish Minister of Economy and Competitiveness
+##### Politics of the European Union
 # Spanish Minister of Economy and Competitiveness, Luis de Guindos, is appointed new Vice-President of the European Central Bank by the Eurogroup. 
 
 Euro zone finance ministers will choose Spanish Economy Minister Luis de Guindos to succeed European Central Bank Vice President Vitor Constancio in May.
