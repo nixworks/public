@@ -29,7 +29,7 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ##### Syrian Civil War
 ### [Ahead of an expected ground offensive, Syrian Air Force strikes on rebel-held eastern Ghouta, near Damascus, kill at least 44 people, according to the Syrian Observatory for Human Rights. ](/news/2018/02/19/ahead-of-an-expected-ground-offensive-syrian-air-force-strikes-on-rebel-held-eastern-ghouta-near-damascus-kill-at-least-44-people-accord.md)
-_Context: Syrian Civil War, Ghouta, Damascus, Syrian Observatory for Human Rights, Syrian Air Force_
+_Context: Syrian Air Force, Ghouta, Syrian Civil War, Syrian Observatory for Human Rights, Damascus_
 
 ##### Tim Hortons
 ### [An attacker stabs three people at a Tim Hortons in Montreal, Canada. ](/news/2018/02/19/an-attacker-stabs-three-people-at-a-tim-hortons-in-montreal-canada.md)
@@ -49,7 +49,7 @@ _Context: Mount Sinabung, Sumatra, Indonesia_
 
 ##### United Kingdom football sexual abuse scandal
 ### [Former coach Barry Bennell is sentenced to 31 years in prison for 50 offences against 12 boys between 1979 and 1990. ](/news/2018/02/19/former-coach-barry-bennell-is-sentenced-to-31-years-in-prison-for-50-offences-against-12-boys-between-1979-and-1990.md)
-_Context: Barry Bennell, United Kingdom football sexual abuse scandal_
+_Context: United Kingdom football sexual abuse scandal, Barry Bennell_
 
 ##### Child sexual abuse in the United Kingdom
 ### [A court sentences Matthew Falder, convicted on 137 charges, to 32 years in jail after confessing to blackmailing numerous teenagers into performing sexual acts. ](/news/2018/02/19/a-court-sentences-matthew-falder-convicted-on-137-charges-to-32-years-in-jail-after-confessing-to-blackmailing-numerous-teenagers-into-per.md)
@@ -69,7 +69,7 @@ The study, led by UCL and University of New South Wales, provides the first prec
 
 ##### Kizlyar church shooting
 ### [A gunman kills five people and wounds several others at a church in Kizlyar, Dagestan, Russia. Police kill him. ](/news/2018/02/18/a-gunman-kills-five-people-and-wounds-several-others-at-a-church-in-kizlyar-dagestan-russia-police-kill-him.md)
-_Context: Dagestan, Kizlyar church shooting, Russia, Kizlyar_
+_Context: Kizlyar, Kizlyar church shooting, Russia, Dagestan_
 
 ##### Iran Aseman Airlines Flight 3704
 ### [An Iran Aseman Airlines ATR 72 commercial aircraft carrying 59 passengers and 6 crew members crashes near the Iranian town of Semirom. The airline reports that there are no survivors. ](/news/2018/02/18/an-iran-aseman-airlines-atr-72-commercial-aircraft-carrying-59-passengers-and-6-crew-members-crashes-near-the-iranian-town-of-semirom-the-a.md)
