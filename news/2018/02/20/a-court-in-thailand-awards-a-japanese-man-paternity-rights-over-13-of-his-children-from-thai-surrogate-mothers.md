@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/02/20/a-court-in-thailand-awards-a-japanese-man-pater
 
 ### [2018-02-20](/news/2018/02/20/index.md)
 
-##### Thailand
+##### Judiciary of Thailand
 # A court in Thailand awards a Japanese man paternity rights over 13 of his children from Thai surrogate mothers. 
 
 The Japanese man can now pursue custody of 13 children he fathered through Thai surrogate mothers.

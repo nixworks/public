@@ -3,7 +3,11 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ## [News](/news/2018/02/20/index.md)
 
-##### New Zealand
+##### Syrian Civil War
+### [Pro-Syrian government forces are sent to help the Kurds fight against Turkey and its allies in the Afrin Region. This action opens up a new front in the war. ](/news/2018/02/20/pro-syrian-government-forces-are-sent-to-help-the-kurds-fight-against-turkey-and-its-allies-in-the-afrin-region-this-action-opens-up-a-new.md)
+Pro-Syrian government forces have entered the contested canton of Afrin to help Kurdish forces defend against a Turkish offensive - a further escalation in Syria’s already complex civil war. 
+
+##### 2017-18 South Pacific cyclone season
 ### [Several regions in New Zealand declare states of emergency in the aftermath of Cyclone Gita's landfall. ](/news/2018/02/20/several-regions-in-new-zealand-declare-states-of-emergency-in-the-aftermath-of-cyclone-gita-s-landfall.md)
 Heavy flooding, strong winds, storm surges and power outages across the country.
 
@@ -11,11 +15,11 @@ Heavy flooding, strong winds, storm surges and power outages across the country.
 ### [Iranian forces have spotted the wreckage of the missing Aseman Airliner 30 meters below a hilltop on mount Dena. Helicopters could not land yet at the crash site due to weather and topographical conditions. 65 people are feared dead. ](/news/2018/02/20/iranian-forces-have-spotted-the-wreckage-of-the-missing-aseman-airliner-30-meters-below-a-hilltop-on-mount-dena-helicopters-could-not-land.md)
 IRGC helicopters have located the&#160;wreckage of a missing Aseman Airliner that crashed with 66 people on board on Sunday.
 
-##### Latvia
+##### Corruption in Latvia
 ### [Latvia will ask the European Central Bank not to renew the mandate of ECB Governing Council member Ilmars Rimsevics, the head of the central Bank of Latvia since 2001, amid an ECB payment moratorium and an U.S. graft investigation into Latvia's third-largest lender, ABLV. On 19 January, Rimsevics was released on bail. ](/news/2018/02/20/latvia-will-ask-the-european-central-bank-not-to-renew-the-mandate-of-ecb-governing-council-member-ilmars-rima-avias-the-head-of-the-cen.md)
 Latvia will seek to prevent European Central Bank Governing Council member Ilmars Rimsevics from returning to his post after he was caught up in a bribery probe that’s rocked the Baltic nation, the country’s prime minister said in an interview.
 
-##### Thailand
+##### Judiciary of Thailand
 ### [A court in Thailand awards a Japanese man paternity rights over 13 of his children from Thai surrogate mothers. ](/news/2018/02/20/a-court-in-thailand-awards-a-japanese-man-paternity-rights-over-13-of-his-children-from-thai-surrogate-mothers.md)
 The Japanese man can now pursue custody of 13 children he fathered through Thai surrogate mothers.
 
@@ -29,7 +33,7 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ##### Syrian Civil War
 ### [Ahead of an expected ground offensive, Syrian Air Force strikes on rebel-held eastern Ghouta, near Damascus, kill at least 44 people, according to the Syrian Observatory for Human Rights. ](/news/2018/02/19/ahead-of-an-expected-ground-offensive-syrian-air-force-strikes-on-rebel-held-eastern-ghouta-near-damascus-kill-at-least-44-people-accord.md)
-_Context: Ghouta, Syrian Civil War, Syrian Air Force, Damascus, Syrian Observatory for Human Rights_
+_Context: Ghouta, Damascus, Syrian Observatory for Human Rights, Syrian Civil War, Syrian Air Force_
 
 ##### Tim Hortons
 ### [An attacker stabs three people at a Tim Hortons in Montreal, Canada. ](/news/2018/02/19/an-attacker-stabs-three-people-at-a-tim-hortons-in-montreal-canada.md)
@@ -69,7 +73,7 @@ The study, led by UCL and University of New South Wales, provides the first prec
 
 ##### Kizlyar church shooting
 ### [A gunman kills five people and wounds several others at a church in Kizlyar, Dagestan, Russia. He was later shot dead by the police. ](/news/2018/02/18/a-gunman-kills-five-people-and-wounds-several-others-at-a-church-in-kizlyar-dagestan-russia-he-was-later-shot-dead-by-the-police.md)
-_Context: Russia, Kizlyar church shooting, Kizlyar, Dagestan_
+_Context: Kizlyar, Dagestan, Russia, Kizlyar church shooting_
 
 ##### Iran Aseman Airlines Flight 3704
 ### [An Iran Aseman Airlines ATR 72 commercial aircraft carrying 59 passengers and 6 crew members crashes near the Iranian town of Semirom. The airline reports that there are no survivors. ](/news/2018/02/18/an-iran-aseman-airlines-atr-72-commercial-aircraft-carrying-59-passengers-and-6-crew-members-crashes-near-the-iranian-town-of-semirom-the-a.md)
