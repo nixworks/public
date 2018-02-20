@@ -5,7 +5,7 @@ Formats: [HTML](2018/02/19/index.html)  [JSON](2018/02/19/index.json)  [XML](201
 
 ##### Syrian Civil War
 ### [Ahead of an expected ground offensive, Syrian Air Force strikes on rebel-held eastern Ghouta, near Damascus, kill at least 44 people, according to the Syrian Observatory for Human Rights. ](/news/2018/02/19/ahead-of-an-expected-ground-offensive-syrian-air-force-strikes-on-rebel-held-eastern-ghouta-near-damascus-kill-at-least-44-people-accord.md)
-_Context: Syrian Civil War, Damascus, Syrian Air Force, Ghouta, Syrian Observatory for Human Rights_
+_Context: Ghouta, Syrian Air Force, Syrian Civil War, Damascus, Syrian Observatory for Human Rights_
 
 ##### Tim Hortons
 ### [Three people are injured in a stabbing at a Tim Hortons in Montreal. Motive of the attacker is unknown. ](/news/2018/02/19/three-people-are-injured-in-a-stabbing-at-a-tim-hortons-in-montreal-motive-of-the-attacker-is-unknown.md)
@@ -21,11 +21,11 @@ _Context: Mozambique_
 
 ##### Mount Sinabung
 ### [Mount Sinabung in Sumatra, Indonesia erupts. There are no reports of injuries or fatalities. ](/news/2018/02/19/mount-sinabung-in-sumatra-indonesia-erupts-there-are-no-reports-of-injuries-or-fatalities.md)
-_Context: Mount Sinabung, Sumatra, Indonesia_
+_Context: Sumatra, Mount Sinabung, Indonesia_
 
 ##### United Kingdom football sexual abuse scandal
 ### [Former coach Barry Bennell is sentenced to 31 years in prison for 50 offences against 12 boys between 1979 and 1990. ](/news/2018/02/19/former-coach-barry-bennell-is-sentenced-to-31-years-in-prison-for-50-offences-against-12-boys-between-1979-and-1990.md)
-_Context: United Kingdom football sexual abuse scandal, Barry Bennell_
+_Context: Barry Bennell, United Kingdom football sexual abuse scandal_
 
 ##### Child sexual abuse in the United Kingdom
 ### [Matthew Falder is sentenced to 32 years in jail after confessing to blackmailing numerous teenagers into performing sexual acts. ](/news/2018/02/19/matthew-falder-is-sentenced-to-32-years-in-jail-after-confessing-to-blackmailing-numerous-teenagers-into-performing-sexual-acts.md)
